@@ -42,7 +42,7 @@ In this Compact:
 
 #### (5) Criminal history record repository
 
-&emsp;The term “criminal history record repository” means the State agency designated by the Governor or other appropriate executive official or the legislature of a State to perform centralized recordkeeping functions for criminal history records and services in the State.
+&emsp;The term “criminal history record repository” means the State agency designated bythe Governor or other appropriate executive official or the legislature of a State to perform centralized recordkeeping functions for criminal history records and services in the State.
 
 #### (6) Criminal justice
 
@@ -94,7 +94,7 @@ In this Compact:
 
 #### (14) National Fingerprint File
 
-&emsp;The term “National Fingerprint File” means a database of fingerprints, or otheruniquely personal identifying information, relating to an arrested or charged individual maintained by the FBI to provide positive identification of record subjects indexed in the III System.
+&emsp;The term “National Fingerprint File” means a database of fingerprints, or other uniquely personal identifying information, relating to an arrested or charged individual maintained by the FBI to provide positive identification of record subjects indexed in the III System.
 
 #### (15) National Identification Index
 
@@ -212,7 +212,7 @@ In carrying out their responsibilities under this Compact, the FBI and each Part
 
 #### (a) State criminal history record repositories
 
-To the extent authorized by section 552a of title 5, United States Code (commonly known as the “Privacy Act of 1974”), the FBI shall provide on request criminal history records (excluding sealed records) to State criminal history record repositories for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General and that authorizes national indices checks.
+To the extent authorized by section 552a of title 5, United States Code (commonly known asthe “Privacy Act of 1974”), the FBI shall provide on request criminal history records (excluding sealed records) to State criminal history record repositories for noncriminal justice purposes allowed by Federal statute, Federal Executive order, or a State statute that has been approved by the Attorney General and that authorizes national indices checks.
 
 #### (b) Criminal justice agencies and other governmental or nongovernmental agencies
 
@@ -240,7 +240,7 @@ Each request for a criminal history record check utilizing the national indices 
 
 #### (c) Submission of Federal requests
 
-Each request for criminal history record checks utilizing the national indices made under Federal authority shall be submitted through the FBI or, if the State criminal history record repository consents to process fingerprint submissions, through the criminal history record repository in the State in which such requestoriginated. Direct access to the National Identification Index by entities other than the FBI and State criminal history records repositories shall not be permitted for noncriminal justice purposes.
+Each request for criminal history record checks utilizing the national indices made under Federal authority shall be submitted through the FBI or, if the State criminal history record repository consents to process fingerprint submissions, through the criminal history record repository in the State in which such request originated. Direct access to the National Identification Index by entities other than the FBI and State criminal history records repositories shall not be permitted for noncriminal justice purposes.
 
 #### (d) Fees
 
@@ -282,7 +282,7 @@ A State criminal history record repository or the FBI—
 
 The Council shall be composed of 15 members, each of whom shall be appointed by the Attorney General, as follows:
 
-&emsp;(1) Nine members, each of whom shall serve a 2-year term, who shall be selected from among the Compact officers of Party States based on the recommendation of the Compact officers of all Party States, except that, in the absence of the requisite number of Compact officers available to serve, the chief administrators of the criminal history record repositories of Nonparty States shall be eligible to serve on an interim basis.
+&emsp;(1) Nine members, each of whom shall serve a 2-year term, who shall be selected from among the Compact officers of Party States based on the recommendation of the Compactofficers of all Party States, except that, in the absence of the requisite number of Compact officers available to serve, the chief administrators of the criminal history record repositories of Nonparty States shall be eligible to serve on an interim basis.
 
 &emsp;(2) Two at-large members, nominated by the Director of the FBI, each of whom shall serve a 3-year term, of whom—
 
@@ -326,7 +326,7 @@ The Council shall be composed of 15 members, each of whom shall be appointed by 
 
 #### (e) Rules, procedures, and standards
 
-The Council shall make available for public inspection and copying at the Council officewithin the FBI, and shall publish in the Federal Register, any rules, procedures, or standards established by the Council.
+The Council shall make available for public inspection and copying at the Council office within the FBI, and shall publish in the Federal Register, any rules, procedures, or standards established by the Council.
 
 #### (f) Assistance from FBI
 
@@ -400,7 +400,7 @@ The FBI or a Party State may appeal any decision of the Council to the Attorney 
 
 #### References in Text
 
-The Privacy Act of 1974, referred to in Article IV(a), (b), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, asamended, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
+The Privacy Act of 1974, referred to in Article IV(a), (b), is Pub. L. 93–579, Dec. 31, 1974, 88 Stat. 1896, as amended, which enacted section 552a of Title 5, Government Organization and Employees, and provisions set out as notes under section 552a of Title 5. For complete classification of this Act to the Code, see Short Title note set out under section 552a of Title 5 and Tables.
 
 The Federal Advisory Committee Act, referred to in Article VIII(a), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 

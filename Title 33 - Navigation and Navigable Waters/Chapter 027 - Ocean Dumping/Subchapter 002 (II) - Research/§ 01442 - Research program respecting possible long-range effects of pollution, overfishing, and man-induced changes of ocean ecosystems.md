@@ -26,7 +26,7 @@ Each department, agency, and independent instrumentality of the Federal Governme
 
 #### (d) Utilization of personnel, services, and facilities; inter-agency agreements
 
-The Secretary of Commerce, in carrying out his responsibilities under this section, shall, to the extent feasible utilize the personnel, services, and facilities of other Federal departments, agencies, and instrumentalities (including those of the Coast Guard for monitoring purposes),and is authorized to enter into appropriate inter-agency agreements to accomplish this action.
+The Secretary of Commerce, in carrying out his responsibilities under this section, shall, to the extent feasible utilize the personnel, services, and facilities of other Federal departments, agencies, and instrumentalities (including those of the Coast Guard for monitoring purposes), and is authorized to enter into appropriate inter-agency agreements to accomplish this action.
 
 (Pub. L. 92–532, title II, §202, Oct. 23, 1972, 86 Stat. 1060; Pub. L. 94–62, §2, July 25, 1975, 89 Stat. 303; Pub. L. 96–381, §3, Oct. 6, 1980, 94 Stat. 1524; Pub. L. 96–470, title II, §201(f), Oct. 19, 1980, 94 Stat. 2242; Pub. L. 99–272, title VI, §6062, Apr. 7, 1986, 100 Stat. 131; Pub. L. 100–627, title I, §101, Nov. 7, 1988, 102 Stat. 3213.)
 
@@ -49,6 +49,10 @@ Subsecs. (d), (e). Pub. L. 99–272, §6062(4), redesignated subsec. (e) as (d).
 Subsec. (c). Pub. L. 96–470 inserted provision requiring the Secretary to include in his annual report the report on activities of the Department of Commerce under section 665 of title 16.
 
 1975—Subsec. (c). Pub. L. 94–62 substituted “March” for “January”.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

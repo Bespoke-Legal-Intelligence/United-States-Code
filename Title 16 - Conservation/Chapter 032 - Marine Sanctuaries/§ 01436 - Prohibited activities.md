@@ -10,7 +10,7 @@ It is unlawful for any person to—
 
 &emsp;&emsp;(A) refusing to permit any officer authorized to enforce this chapter to board a vessel, other than a vessel operated by the Department of Defense or United States Coast Guard, subject to such person's control for the purposes of conducting any search or inspection in connection with the enforcement of this chapter;
 
-&emsp;&emsp;(B) resisting, opposing, impeding, intimidating, harassing, bribing, interfering with, or forcibly assaulting any person authorized by the Secretary to implement this chapter or any such authorized officer in the conductof any search or inspection performed under this chapter; or
+&emsp;&emsp;(B) resisting, opposing, impeding, intimidating, harassing, bribing, interfering with, or forcibly assaulting any person authorized by the Secretary to implement this chapter or any such authorized officer in the conduct of any search or inspection performed under this chapter; or
 
 &emsp;&emsp;(C) knowingly and willfully submitting false information to the Secretary or any officer authorized to enforce this chapter in connection with any search or inspection conducted under this chapter; or
 
@@ -27,6 +27,10 @@ Par. (2). Pub. L. 106–513, §7(2), inserted “offer for sale, purchase, impor
 Par. (3). Pub. L. 106–513, §7(3), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “interfere with the enforcement of this chapter; or”.
 
 1992—Pub. L. 102–587 amended section generally. Prior to amendment, section read as follows: “The Secretary shall conduct research and educational programs as are necessary and reasonable to carry out the purposes and policies of this chapter.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

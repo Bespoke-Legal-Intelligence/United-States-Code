@@ -22,7 +22,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 #### (2) Application review
 
-&emsp;The Secretary shall review all applications for the conveyance of a historic light station, when the agency with administrative jurisdiction over the historic light station has determined the property to be “excess property” as that term is defined in the Federal Property Administrative Services Act of 1949 (40 U.S.C. 472(e)), and forward to the Administrator a single approved application for the conveyance of the historic light station. When selecting an eligible entity, the Secretary shall consult with the State Historic Preservation Officer of the State in which the historic light station is located.
+&emsp;The Secretary shall review all applications for the conveyance of a historic light station, when the agency with administrative jurisdiction over the historic light station has determined the property to be “excess property” as that term is defined in the Federal Property Administrative Services Act of 1949 <sup>1</sup> (40 U.S.C. 472(e)), and forward to the Administrator a single approved application for the conveyanceof the historic light station. When selecting an eligible entity, the Secretary shall consult with the State Historic Preservation Officer of the State in which the historic light station is located.
 
 #### (3) Conveyance of historic light stations
 
@@ -46,7 +46,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 &emsp;&emsp;(B) there is reserved to the United States the right to remove, replace, or install any Federal aid to navigation located at the historic light station as may be necessary for navigational purposes;
 
-&emsp;&emsp;(C) the eligible entity to which the historic light station is conveyed under this section shall not interfere or allow interference in any manner with any Federal aid to navigation, nor hinder activities required for the operation and maintenance of any Federal aid to navigation, without the express written permission of the head of theagency responsible for maintaining the Federal aid to navigation;
+&emsp;&emsp;(C) the eligible entity to which the historic light station is conveyed under this section shall not interfere or allow interference in any manner with any Federal aid to navigation, nor hinder activities required for the operation and maintenance of any Federal aid to navigation, without the express written permission of the head of the agency responsible for maintaining the Federal aid to navigation;
 
 &emsp;&emsp;(D) the eligible entity to which the historic light station is conveyed under this section shall, at its own cost and expense, use and maintain the historic light station in accordance with this subchapter, the Secretary of the Interior's Standards for the Treatment of Historic Properties, 36 CFR part 68, and other applicable laws, and any proposed changes to the historic light station shall be reviewed and approved by the Secretary in consultation with the State Historic Preservation Officer of the State in which the historic light station is located, for consistency with 36 CFR part 800.5(a)(2)(vii), and the Secretary of the Interior's Standards for Rehabilitation, 36 CFR part 67.7;
 
@@ -60,7 +60,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 #### (2) Maintenance of aid to navigation
 
-&emsp;Any eligible entity to which a historic light station is conveyed under this section shall not be required to maintain any Federal aid to navigation associated with a historic light station, except any private aids to navigation permitted under section 83 of title 14 to the eligible entity.
+&emsp;Any eligible entity to which a historic light station is conveyed under this section shall not be required to maintain any Federal aid to navigation associated with a historic lightstation, except any private aids to navigation permitted under section 83 of title 14 to the eligible entity.
 
 #### (3) Reversion
 
@@ -90,7 +90,7 @@ In order to provide a national historic light station program, the Secretary sha
 
 #### (3) Covenants
 
-&emsp;All conditions placed with the quitclaim deed of title to the historic light station shallbe construed as covenants running with the land.
+&emsp;All conditions placed with the quitclaim deed of title to the historic light station shall be construed as covenants running with the land.
 
 #### (4) Submerged lands
 
@@ -132,7 +132,7 @@ For purposes of this section:
 
 #### References in Text
 
-The Federal Property Administrative Services Act of 1949, referred to in subsec. (b)(2), probably means the Federal Property and Administrative Services Act of 1949, which is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. The excess property provisions of that Act are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property Administrative Services Act of 1949, referred to in subsec. (b)(2), probably means the Federal Property and Administrative Services Act of 1949, which is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works. Provisions of the Act containing the definition of “excess property”, which were classified to section 472(e) of former Title 40, were repealed and reenacted as section 102(3) of Title 40, Public Buildings, Property, and Works.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(3)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
@@ -142,7 +142,13 @@ Section 416(d) of the Coast Guard Authorization Act of 1998, referred to in subs
 
 2000—Subsec. (b)(3)(A). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 470w–8 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,7 @@ Notwithstanding the absence of an indication of intent as specified in section 4
 
 #### References in Text
 
-The surplus property laws of the United States, referred to subsec. (b)(2), are classified generally to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works.
+For surplus property laws of the United States, referred to subsec. (b)(2), see, generally, subtitle I of Title 40, Public Buildings, Property, and Works.
 
 This part, referred to in subsec. (c)(1), was in the original “this Act”, meaning Pub. L. 89–72, which enacted sections 460<i>l</i>–12 to 460<i>l</i>–21 of this title and amended sections 460<i>l</i>–5(a) and 662(d) of this title.
 

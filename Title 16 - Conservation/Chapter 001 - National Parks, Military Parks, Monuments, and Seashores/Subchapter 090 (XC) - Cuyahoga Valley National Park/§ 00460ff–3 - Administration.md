@@ -28,7 +28,7 @@ The Secretary may, on his own initiative, or at the request of any local governm
 
 &emsp;(1) have the effect of prohibiting the commercial and industrial use (other than a use for commercial farms and orchards) of all real property adjacent to the park;
 
-&emsp;(2) aid in preserving the character of the park by appropriate restrictions on the use of real property in the vicinity including, but not limited to, restrictions upon: building and construction of all types; signs and billboards; the burning of cover; cutting of timber (excepttracts managed for sustained yield); removal of topsoil, sand, or gravel; dumping, storage, or piling of refuse; or any other use which would detract from the aesthetic character of the park; and
+&emsp;(2) aid in preserving the character of the park by appropriate restrictions on the use of real property in the vicinity including, but not limited to, restrictions upon: building and construction of all types; signs and billboards; the burning of cover; cutting of timber (except tracts managed for sustained yield); removal of topsoil, sand, or gravel; dumping, storage, or piling of refuse; or any other use which would detract from the aesthetic character of the park; and
 
 &emsp;(3) have the effect of providing that the Secretary shall receive notice of any hearing for the purpose of granting a variance and any variance granted under, and of any exception made to, the application of such law or ordinance.
 

@@ -76,7 +76,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 15 sections 78u, 78x, 6802; title 38 section 5319; title 42 section 1383; title 50 section 436.
+This chapter is referred to in title 15 sections 78u, 78x, 6802; title 31 section 310; title 38 section 5319; title 42 section 1383; title 50 section 436.
 
 
 ---

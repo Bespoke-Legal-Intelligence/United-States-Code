@@ -36,7 +36,7 @@ For purposes of this part—
 
 &emsp;(13) The term “week” means a week as defined in the applicable State law.
 
-&emsp;(14) The term “week of unemployment” means a week of total, part-total, or partialunemployment as determined under the applicable State law or Federal unemployment insurance law.
+&emsp;(14) The term “week of unemployment” means a week of total, part-total, or partial unemployment as determined under the applicable State law or Federal unemployment insurance law.
 
 &emsp;(15) The term “benefit period” means, with respect to an individual—
 
@@ -78,5 +78,5 @@ Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemp
 
 #### Termination Date
 
-No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 

@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) helping individuals who are deaf-blind to become self-sufficient, independent, and employable by providing the services and training necessary to accomplish that end will benefit the Nation, both economically and socially;
 
-&emsp;(4) the Helen Keller National Center for Youths and Adults who are Deaf-Blind is avital national resource for meeting the needs of individuals who are deaf-blind and no State currently has the facilities or personnel to meet such needs;
+&emsp;(4) the Helen Keller National Center for Youths and Adults who are Deaf-Blind is a vital national resource for meeting the needs of individuals who are deaf-blind and no State currently has the facilities or personnel to meet such needs;
 
 &emsp;(5) the Federal Government has made a substantial investment in capital, equipment, and operating funds for such Center since it was established; and
 

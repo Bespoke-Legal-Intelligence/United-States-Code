@@ -52,11 +52,11 @@ In addition to the adjustments required under subsection (c) of this section, th
 
 #### (e) Exclusion of certain amounts from contract payments
 
-Any amount added pursuant to paragraphs (1) and (2) of subsection (c) of this section to the amount available under subsection (a) of this section for a fiscal year and paid to owners and producers under a contract shall not be treated as a contract payment for purposes of section 7215 of this title or section 1308(1) of this title. However, the amount of a payment covered by this subsection may not exceed $50,000 per person.
+Any amount added pursuant to paragraphs (1) and (2) of subsection (c) of this section to the amount available under subsection (a) of this section for a fiscal year and paid to owners and producers under a contract shall not be treated as a contract payment for purposes of section 7215 of this title or section 1308(1) <sup>1</sup> of this title. However, the amount of a payment covered by this subsection may not exceed $50,000 per person.
 
 #### (f) Effect of payment limitation
 
-The amount available under subsection (a) of this section for a fiscal year shall be reduced by an amount equal to the total amount of contract payments for the fiscal year that owners and producers forgo as a result of operation of the payment limitation under section 1308(1) of this title.
+The amount available under subsection (a) of this section for a fiscal year shall be reduced by an amount equal to the total amount of contract payments for the fiscal year that owners and producers forgo as a result of operation of the payment limitation under section 1308(1) <sup>1</sup> of this title.
 
 (Pub. L. 104–127, title I, §113, Apr. 4, 1996, 110 Stat. 900.)
 
@@ -64,7 +64,11 @@ The amount available under subsection (a) of this section for a fiscal year shal
 
 Sections 103B, 105B, and 107B of the Agricultural Act of 1949, referred to in subsec. (c)(3), were classified to sections 1444–2, 1444f, and 1445b–3a, respectively, of this title prior to repeal by section 7301(b)(2)(A)–(D) of this title.
 
+Section 1308(1) of this title, referred to in subsecs. (e), (f), was repealed by Pub. L. 107–171, title I, §1603(a), May 13, 2002, 116 Stat. 213.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7214, 7334 of this title.
+This section is referred to in sections 7214, 7334, 7917 of this title.
+
+<i><sup>1</sup></i><i> See References in text below.</i>
 

@@ -10,7 +10,7 @@ Any decision to issue or not to issue a lease shall be accompanied by a statemen
 
 #### (c) Environmental impact statement
 
-If the Secretary determines that the requirements of section 4332(2)(C) of title 42 do notapply to his decision, the Secretary shall render his decision within six months after receipt of a lease application. If such requirements are applicable to the Secretary's decision, he shall render his decision within three months after publication of the final environmental impact statement.
+If the Secretary determines that the requirements of section 4332(2)(C) of title 42 do not apply to his decision, the Secretary shall render his decision within six months after receipt of a lease application. If such requirements are applicable to the Secretary's decision, he shall render his decision within three months after publication of the final environmental impact statement.
 
 (Pub. L. 96–487, title X, §1009, Dec. 2, 1980, 94 Stat. 2456.)
 

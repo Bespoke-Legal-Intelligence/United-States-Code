@@ -20,7 +20,7 @@ The Federal entities for lending regulation shall by regulation require the use 
 
 #### (d) Guarantees regarding information
 
-In providing information regarding special flood hazards on the form developed under thissection, any lender (or other person required to use the form) who makes, increases, extends, or renews a loan secured by improved real estate or a mobile home may provide for the acquisition or determination of such information to be made by a person other than such lender (or other person), only to the extent such person guarantees the accuracy of the information.
+In providing information regarding special flood hazards on the form developed under this section, any lender (or other person required to use the form) who makes, increases, extends, or renews a loan secured by improved real estate or a mobile home may provide for the acquisition or determination of such information to be made by a person other than such lender (or other person), only to the extent such person guarantees the accuracy of the information.
 
 #### (e) Reliance on previous determination
 
@@ -35,4 +35,8 @@ Any person increasing, extending, renewing, or purchasing a loan secured by impr
 The regulations under this section requiring use of the form established pursuant to this section shall be issued together with the regulations required under subsection (a) of this section and shall take effect upon the expiration of the 180-day period beginning on such issuance.
 
 (Pub. L. 90–448, title XIII, §1365, as added Pub. L. 103–325, title V, §528, Sept. 23, 1994, 108 Stat. 2264.)
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

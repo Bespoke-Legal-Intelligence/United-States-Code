@@ -14,7 +14,7 @@
 
 (D)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for showerheads and faucets to which standards are applicable under subsection (j) of section 6295 of this title. Such rules shall provide that the labeling of any showerhead or faucet manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.18.1M–1989, except that each showerhead and flow restricting or controlling spout-end device shall bear a permanent legible marking indicating the flow rate, expressed in gallons per minute (gpm) or gallons per cycle (gpc), and the flow rate value shall be the actual flow rate or the maximum flow rate specified by the standards established in subsection (j) of section 6295 of this title.
 
-(ii) If the marking and labeling requirements of ASME A112.18.1M–1989 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause (i) requiring each showerhead and flow restricting or controlling spout-end device to bear a permanent legible marking indicating the flow rate of such product.
+(ii) If the marking and labeling requirements of ASME A112.18.1M–1989 are revised at any time and approved by ANSI, the Commission shall amend the labeling rules established pursuant to clause (i) to be consistent with such revised ASME/ANSI requirements unless such requirements are inconsistent with the purposes of this chapter or the requirement specified in clause\(i) requiring each showerhead and flow restricting or controlling spout-end device to bear a permanent legible marking indicating the flow rate of such product.
 
 (E)(i) Not later than one year after October 24, 1992, the Commission shall prescribe labeling rules under this section for water closets and urinals to which standards are applicable under subsection (k) of section 6295 of this title. Such rules shall provide that the labeling of any water closet or urinal manufactured after the 12-month period beginning on the date of the publication of such rule shall be consistent with the marking and labeling requirements of ASME A112.19.2M–1990, except that each fixture (and flushometer valve associated with such fixture) shall bear a permanent legible marking indicating the water use, expressed in gallons per flush (gpf), and the water use value shall be the actual water use or the maximum water use specified by the standards established in subsection (k) of section 6295 of this title.
 
@@ -50,7 +50,7 @@
 
 (1) Subject to paragraph (6), a rule prescribed under this section shall require that each covered product in the type or class of covered products to which the rule applies bear a label which discloses—
 
-&emsp;(A) the estimated annual operating cost of such product (determined in accordance with test procedures prescribed under section 6293 of this title), except that if—
+&emsp;(A) the estimated annual operating cost of such product (determined in accordance withtest procedures prescribed under section 6293 of this title), except that if—
 
 &emsp;&emsp;(i) the Secretary determines that disclosure of estimated annual operating cost is not technologically feasible, or
 
@@ -110,7 +110,7 @@ The Secretary and the Commission shall consult with each other on a continuing b
 
 #### (g) Other authority of the Commission
 
-Until such time as labeling rules under this section take effect with respect to a type or class of covered product, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type or class of covered product.
+Until such time as labeling rules under this section take effect with respect to a type orclass of covered product, this section shall not affect any authority of the Commission under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] to require labeling with respect to energy consumption of such type or class of covered product.
 
 (Pub. L. 94–163, title III, §324, Dec. 22, 1975, 89 Stat. 920; Pub. L. 95–619, title IV, §425(b), (c), title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3265, 3288; Pub. L. 100–12, §11(a)(1), (b)(2), Mar. 17, 1987, 101 Stat. 124, 125; Pub. L. 100–357, §2(d), June 28, 1988, 102 Stat. 672; Pub. L. 102–486, title I, §123(e), Oct. 24, 1992, 106 Stat. 2822; Pub. L. 105–388, §5(a)(4), Nov. 13, 1998, 112 Stat. 3478.)
 

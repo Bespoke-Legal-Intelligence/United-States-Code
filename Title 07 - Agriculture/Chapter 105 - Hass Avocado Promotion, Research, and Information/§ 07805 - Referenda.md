@@ -32,7 +32,7 @@
 
 #### (3) Voting
 
-&emsp;A producer or importer of Hass avocados who chooses to vote in any referendum conducted under this chapter shall vote in accordance with procedures established by the Secretary. The ballots and other information orreports that reveal or tend to reveal the identity or vote of voters shall be strictly confidential.
+&emsp;A producer or importer of Hass avocados who chooses to vote in any referendum conducted under this chapter shall vote in accordance with procedures established by the Secretary. The ballots and other information or reports that reveal or tend to reveal the identity or vote of voters shall be strictly confidential.
 
 #### (4) Notice
 

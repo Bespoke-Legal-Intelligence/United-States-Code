@@ -50,7 +50,7 @@ In all schools selected to receive funds under section 6313(c) of this title tha
 
 #### (1) In general
 
-&emsp;To assist targeted assistance schools and local educational agencies to meet their responsibility to provide for all their students served under this part the opportunity to meet the State's challenging student academic achievement standards in subjects as determined by the State, each targeted assistance program under this section shall—
+&emsp;To assist targeted assistance schools and local educational agencies to meet their responsibility to provide for all their studentsserved under this part the opportunity to meet the State's challenging student academic achievement standards in subjects as determined by the State, each targeted assistance program under this section shall—
 
 &emsp;&emsp;(A) use such program's resources under this part to help participating children meet such State's challenging student academic achievement standards expected for all children;
 
@@ -100,7 +100,7 @@ To promote the integration of staff supported with funds under this part into th
 
 &emsp;If—
 
-&emsp;&emsp;(A) health, nutrition, and other social services are not otherwise available to eligible children in a targeted assistance school and such school, if appropriate, has engagedin a comprehensive needs assessment and established a collaborative partnership with local service providers; and
+&emsp;&emsp;(A) health, nutrition, and other social services are not otherwise available to eligible children in a targeted assistance school and such school, if appropriate, has engaged in a comprehensive needs assessment and established a collaborative partnership with local service providers; and
 
 &emsp;&emsp;(B) funds are not reasonably available from other public or private sources to provide such services, then a portion of the funds provided under this part may be used as a last resort to provide such services, including—
 

@@ -295,7 +295,7 @@ Sec. 7. \[National Bank Act; amendment.\] Section 5192 of the Revised Statutes, 
 
 “
 
-Sec. 8. \[Federal Reserve Act; amendment.\] (a) Section 1 of the Federal Reserve Act, as amended (12 U.S.C. 221), is further amended by deleting the period at the end of such section and inserting in lieu thereof the following: ‘; the term “the continental United States” means the States of the United States and the District of Columbia.’
+Sec. 8. \[Federal Reserve Act; amendment.\] (a) Section 1 of the Federal Reserve Act, as amended (12 U.S.C. 221), is further amended by deleting the period at the end of such section and inserting in lieu thereof the following: ‘; the term “the continental United States” means the States of the United States and the District of Columbia.’
 
 “(b) Section 19 of the Federal Reserve Act, as amended (12 U.S.C. 466), is further amended by striking the words ‘in Alaska or’.
 
@@ -335,7 +335,7 @@ Sec. 12. \[Securities and Exchange Commission.\] (a) Paragraph (6) of section 2 
 
 “
 
-Sec. 13. \[Soil Conservation.\] (a) Section 8(b) of the Soil Conservation and Domestic Allotment Act, as amended (16 U.S.C., supp. V, sec. 590h(b)), is further amended by inserting, immediately following the words ‘continental United States’, the words ‘, except in Alaska’.
+Sec. 13. \[Soil Conservation.\] (a) Section 8(b) of the Soil Conservation and Domestic Allotment Act, as amended (16 U.S.C., supp. V, sec. 590h(b)), is further amended by inserting, immediately following the words ‘continental United States’, the words ‘, except in Alaska’.
 
 “(b) Section 17(a) of the Soil Conservation and Domestic Allotment Act, as amended (16 U.S.C. 590q(a)), is further amended by striking out the words ‘the United States, the Territories of Alaska and Hawaii’ and inserting in lieu thereof the words ‘the States, the Territory of Hawaii’, and by striking out the word ‘Alaska’ the second time it appears therein.
 
@@ -387,7 +387,7 @@ Sec. 18. \[Education.\] (a)(1) Subsection (a) of section 103 of the National Def
 
 “
 
-Sec. 19. \[Importation of milk and cream.\] Subsection (b) of section 9 of the Act of February 15, 1927 (21 U.S.C. 149(b)), is amended by inserting the words, ‘, including Alaska’ immediately following the words ‘continental United States’.
+Sec. 19. \[Importation of milk and cream.\] Subsection (b) of section 9 of the Act of February 15, 1927 (21 U.S.C. 149(b)), is amended by inserting the words, ‘, including Alaska’ immediately following the words ‘continental United States’.
 
 “
 
@@ -425,7 +425,7 @@ Sec. 21. \[Highways.\] (a) The Secretary of Transportation shall transfer to the
 
 &emsp;“ ‘The term “State” means any one of the forty-nine States, the District of Columbia, Hawaii, or Puerto Rico.’;
 
-“(2) Title 23, United States Code, section 104(b), is amended by deleting the phrase ‘, except that only one-third of the area of Alaska shall be included’ where it appears in paragraphs (1) and (2) of said section 104(b);
+“(2) Title 23, United States Code, section 104(b), is amended by deleting the phrase ‘, except that only one-third of the area of Alaska shall be included’ where it appears in paragraphs (1) and (2) of said section 104(b);
 
 “(3) Title 23, United States Code, section 116(a), is amended by deleting the phrase ‘Except as provided in subsection (d) of this section,’ and by capitalizing the word ‘it’ immediately following such phrase; and
 
@@ -479,11 +479,11 @@ Sec. 24. \[Vocational Rehabilitation Act; amendment.\] (a) Subsection (g) of sec
 
 “
 
-Sec. 25. \[Gold Reserve Act; amendment.\] Section 15 of the Gold Reserve Act of 1934, as amended (31 U.S.C. 444), is further amended by striking out the words ‘, the District of Columbia, and the Territory of Alaska’ and inserting in lieu thereof the words ‘and the District of Columbia’.
+Sec. 25. \[Gold Reserve Act; amendment.\] Section 15 of the Gold Reserve Act of 1934, as amended (31 U.S.C. 444), is further amended by striking out the words ‘, the District of Columbia, and the Territory of Alaska’ and inserting in lieu thereof the words ‘and the District of Columbia’.
 
 “
 
-Sec. 26. \[Silver Purchase Act; amendment.\] Section 10 of the Silver Purchase Act of 1934 (31 U.S.C. 448b), is amended by striking out the words ‘, the District of Columbia, and the Territory of Alaska’ and inserting in lieu thereof the words ‘and the District of Columbia’.
+Sec. 26. \[Silver Purchase Act; amendment.\] Section 10 of the Silver Purchase Act of 1934 (31 U.S.C. 448b), is amended by striking out the words ‘, the District ofColumbia, and the Territory of Alaska’ and inserting in lieu thereof the words ‘and the District of Columbia’.
 
 “
 
@@ -497,19 +497,19 @@ Sec. 28. \[Water Pollution Control Act; amendment.\] (a) Paragraph (1) of sectio
 
 “
 
-Sec. 29. \[Veterans’ Benefits; amendment.\] (a) Title 38, United States Code, section 903(b) \[now 2303(b)\], is amended by striking out the words ‘, or to the place of burial within Alaska if the deceased was a resident of Alaska who had been brought to the United States as a beneficiary of the Veterans’ Administration for hospital or domiciliary care’; by inserting the word ‘continental’ immediately before the words ‘United States’ the second time they appear in such section; and by inserting, immediately following the words ‘continental United States’ in both places where they appear in such section, the parenthetical phrase ‘(including Alaska)’.
+Sec. 29. \[Veterans’ Benefits; amendment.\] (a) Title 38, United States Code, section 903(b) \[now 2303(b)\], is amended by striking out the words ‘, or to the place of burial within Alaska if the deceased was a resident of Alaska who had been brought to the United States as a beneficiary of the Veterans’ Administration for hospital or domiciliary care’; by inserting the word ‘continental’ immediately before the words ‘United States’ the second time they appear in such section; and by inserting, immediately following the words ‘continental United States’ in both places where they appear in such section, the parenthetical phrase ‘(including Alaska)’.
 
 “(b) Title 38, United States Code, section 2007(c) \[now 4107(c)\], is amended by striking out the word ‘Alaska,’.
 
 “
 
-Sec. 30. \[Federal Property and Administrative Services Act; amendment.\] (a) Subsection (f) of section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472(f)), is amended by striking out the words ‘, Hawaii, Alaska,’ and inserting in lieu thereof the words ‘(including Alaska), Hawaii,’.
+Sec. 30. \[Federal Property and Administrative Services Act; amendment.\] (a) Subsection (f) of section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472(f)) \[now 40 U.S.C. 102(6)\], is amended by striking out the words ‘, Hawaii, Alaska,’ and inserting in lieu thereof the words ‘(including Alaska), Hawaii,’.
 
-“(b) Subsection (a) of section 702 of such Act (40 U.S.C., supp. V, sec. 522(a)), is amended by striking out the words ‘Territories of Alaska and Hawaii’ and inserting in lieu thereof the words ‘Territory of Hawaii’.
+“(b) Subsection (a) of section 702 of such Act (\[former\] 40 U.S.C., supp. V, sec. 522(a)), is amended by striking out the words ‘Territories of Alaska and Hawaii’ and inserting in lieu thereof the words ‘Territory of Hawaii’.
 
 “
 
-Sec. 31. \[Public Health Service Act; amendment.\] (a) Subsection (f) of section 2 of the Public Health Service Act (42 U.S.C. 201(f)), relating to definition of State, is amended by striking out ‘Hawaii, Alaska,’ and inserting in lieu thereof ‘Hawaii,’ and by striking out ‘, the District of Columbia, or Alaska’ and inserting in lieu thereof ‘or the District of Columbia’.
+Sec. 31. \[Public Health Service Act; amendment.\] (a) Subsection (f) of section 2 of the Public Health Service Act (42 U.S.C. 201(f)), relating to definition of State, is amended by striking out ‘Hawaii, Alaska,’ and inserting in lieu thereof ‘Hawaii,’ and by striking out ‘, the District of Columbia, or Alaska’ and inserting in lieu thereof ‘or the District of Columbia’.
 
 “(b)(1) Effective July 1, 1959, section 371 of the Public Health Service Act, as added by the Alaska Mental Health Enabling Act (42 U.S.C., supp. V, sec. 273), is repealed.
 
@@ -565,7 +565,7 @@ Sec. 37. \[Real property transactions.\] Section 43(c) of the Act of August 10, 
 
 “
 
-Sec. 38. \[Recreation facilities.\] Section 2 of the Act of May 4, 1956 (70 Stat. 130), is hereby repealed. There are hereby authorized to be appropriated for the fiscal year ending June 30, 1960, such sums as may be necessary to complete the construction of facilities described in section 1 of such Act, as amended by the Act of August 30, 1957 (71 Stat. 510), if construction was begun prior to June 30, 1959, and to maintain the facilities pending their transfer pursuant to such section.
+Sec. 38. \[Recreation facilities.\] Section 2 of the Act of May 4, 1956 (70 Stat. 130), is hereby repealed. There are hereby authorized to be appropriated for the fiscal year ending June 30, 1960, such sums as may be necessary to complete the construction of facilities described in section 1 of such Act, as amended by the Act of August 30, 1957 (71 Stat. 510), if construction wasbegun prior to June 30, 1959, and to maintain the facilities pending their transfer pursuant to such section.
 
 “
 

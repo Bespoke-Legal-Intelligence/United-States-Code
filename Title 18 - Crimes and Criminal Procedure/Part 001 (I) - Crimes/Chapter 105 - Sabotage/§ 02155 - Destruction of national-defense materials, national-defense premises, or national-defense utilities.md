@@ -26,5 +26,5 @@ Minor changes were made in phraseology.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 2332b, 2339A of this title.
+This section is referred to in sections 2332b, 2339A of this title.
 

@@ -30,7 +30,7 @@ The report required by subsection (b) of this section shall be submitted in uncl
 
 #### (1) Intelligence
 
-&emsp;Notwithstanding any other provision of this section, the reports described in subsections (b) and (d) of this section shall not disclose the identity of any person, if the Director of Central Intelligence determines that such disclosure could compromise an intelligence operation, activity, source, or method of the United States.
+&emsp;Notwithstanding any other provision of this section, the reports described in subsections\(b) and (d) of this section shall not disclose the identity of any person, if the Director of Central Intelligence determines that such disclosure could compromise an intelligence operation, activity, source, or method of the United States.
 
 #### (2) Law enforcement
 

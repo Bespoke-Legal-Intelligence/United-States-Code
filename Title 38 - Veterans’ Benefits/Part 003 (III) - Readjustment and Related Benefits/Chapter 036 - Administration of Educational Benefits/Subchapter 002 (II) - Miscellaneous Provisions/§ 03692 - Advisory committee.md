@@ -32,7 +32,7 @@ Pub. L. 102–25 substituted “the post-Vietnam era, and the Persian Gulf War�
 
 1988—Subsec. (c). Pub. L. 100–689 substituted “1993” for “1989”.
 
-1986—Subsec. (a). Pub. L. 99–576, §304(1), substituted “a Veterans’ Advisory Committee on Education” for“an advisory committee”, and inserted reference to chapter 30.
+1986—Subsec. (a). Pub. L. 99–576, §304(1), substituted “a Veterans’ Advisory Committee on Education” for “an advisory committee”, and inserted reference to chapter 30.
 
 Subsec. (b). Pub. L. 99–576, §304(2), inserted reference to chapter 30.
 

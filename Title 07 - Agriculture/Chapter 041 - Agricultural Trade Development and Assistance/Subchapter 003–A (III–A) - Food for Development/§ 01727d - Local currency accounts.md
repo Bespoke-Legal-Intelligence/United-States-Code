@@ -2,7 +2,7 @@
 
 #### (a) Retention of proceeds
 
-To the extent determined to be appropriate by the Administrator, revenues generated from thesale, under section 1727c(2) of this title, of agricultural commodities provided under this subchapter shall be deposited into a separate account (that may be interest bearing) in the recipient country to be disbursed for the benefit of such country in accordance with local currency agreements entered into between the recipient country and the Administrator. The Administrator may determine not to deposit such revenues in a separate account if—
+To the extent determined to be appropriate by the Administrator, revenues generated from the sale, under section 1727c(2) of this title, of agricultural commodities provided under this subchapter shall be deposited into a separate account (that may be interest bearing) in the recipient country to be disbursed for the benefit of such country in accordance with local currency agreements entered into between the recipient country and the Administrator. The Administrator may determine not to deposit such revenues in a separate account if—
 
 &emsp;(1) local currencies are to be programmed for specific economic development purposes listed in section 1727e(a) of this title; and
 

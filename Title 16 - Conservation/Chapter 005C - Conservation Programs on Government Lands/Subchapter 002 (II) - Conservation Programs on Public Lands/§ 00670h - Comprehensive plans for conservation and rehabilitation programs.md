@@ -18,7 +18,7 @@ Each comprehensive plan developed pursuant to this section shall be consistent w
 
 &emsp;(B) the Secretary of Agriculture with respect to those conservation and rehabilitation programs to be implemented under this subchapter within the State on public land which is under his jurisdiction; and
 
-&emsp;(C) the Secretary of the Interior and the Chairman or the Administrator, as the case may be, with respect to those conservation and rehabilitation programs to be implemented under this subchapter within the State on public land under the jurisdiction of the Chairman or the Administrator; except that before entering into any cooperative agreement which affects public land under the jurisdiction of the Chairman, the Secretary of the Interior shall obtain the prior written approval of the Atomic Energy Commission and before entering into any cooperative agreement which affects public lands under the jurisdiction of the Administrator, the Secretary of the Interior shall obtain the prior written approval of the Administrator.
+&emsp;(C) the Secretary of the Interior and the Chairman or the Administrator, as the casemay be, with respect to those conservation and rehabilitation programs to be implemented under this subchapter within the State on public land under the jurisdiction of the Chairman or the Administrator; except that before entering into any cooperative agreement which affects public land under the jurisdiction of the Chairman, the Secretary of the Interior shall obtain the prior written approval of the Atomic Energy Commission and before entering into any cooperative agreement which affects public lands under the jurisdiction of the Administrator, the Secretary of the Interior shall obtain the prior written approval of the Administrator.
 
 > Conservation and rehabilitation programs developed and implemented pursuant to this subchapter shall be deemed as supplemental to wildlife, fish, and game-related programs conducted by the Secretary of the Interior and the Secretary of Agriculture pursuant to other provisions of law. Nothing in this subchapter shall be construed as limiting the authority of the Secretary of the Interior or the Secretary of Agriculture, as the case may be, to manage the national forests or other public lands for wildlife and fish and other purposes in accordance with the Multiple-Use Sustained-Yield Act of 1960 (74 Stat. 215; 16 U.S.C. 528–531) or other applicable authority.
 
@@ -54,7 +54,7 @@ Each comprehensive plan developed pursuant to this section shall be consistent w
 
 #### (d) State agency agreements not cooperative agreements under other provisions
 
-Agreements entered into by State agencies under the authority of this section shall not bedeemed to be, or treated as, cooperative agreements to which chapter 63 of title 31 applies.
+Agreements entered into by State agencies under the authority of this section shall not be deemed to be, or treated as, cooperative agreements to which chapter 63 of title 31 applies.
 
 (Pub. L. 86–797, title II, §202, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1369; amended Pub. L. 97–396, §4, Dec. 31, 1982, 96 Stat. 2005.)
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section 613, act July 30, 1947, ch. 382, §1, 62 Stat. 628, related to reduction in area of Gila project.
+Section 613, act July 30, 1947, ch. 382, §1, 61 Stat. 628, related to reduction in area of Gila project.
 
 Section 613a, act July 30, 1947, ch. 382, §2, 61 Stat. 628, related to acquisition of property within or adjacent to Gila project.
 
@@ -16,5 +16,5 @@ Section 613e, act July 30, 1947, ch. 382, §7, 61 Stat. 630, related to powers o
 
 #### Reclamation Law; Amendment of Other Laws
 
-Section 8 of act July 30, 1947, ch. 382, 61 Stat. 630, provided that this subchapter be deemed a supplement tothe reclamation law and that nothing in this subchapter be construed to amend subchapter I of chapter 12A of this title.
+Section 8 of act July 30, 1947, ch. 382, 61 Stat. 630, provided that this subchapter be deemed a supplement to the reclamation law and that nothing in this subchapter be construed to amend subchapter I of chapter 12A of this title.
 

@@ -20,7 +20,7 @@ Establishment of the National Museum, see note set out under section 50 of this 
 
 #### National Museum of American History
 
-Pub. L. 96–441, §2, Oct. 13, 1980, 94 Stat. 1884, provided that: “The bureau of the Smithsonian Institution known as the Museum of History and Technology and so referred to in the Act entitled ‘An Act to authorize the construction of a building for a Museum of History and Technology for the Smithsonian Institution, including the preparation of plans and specifications, and all other work incidental thereto’, approved June 28, 1955 (20 U.S.C. 59 note), shall be known as the ‘National Museum of American History’.”
+Pub. L. 96–441, §2, Oct. 13, 1980, 94 Stat. 1884, provided that: “The bureau of the Smithsonian Institutionknown as the Museum of History and Technology and so referred to in the Act entitled ‘An Act to authorize the construction of a building for a Museum of History and Technology for the Smithsonian Institution, including the preparation of plans and specifications, and all other work incidental thereto’, approved June 28, 1955 (20 U.S.C. 59 note), shall be known as the ‘National Museum of American History’.”
 
 For provision deeming references to the Museum of History and Technology in laws and regulations to be references to the National Museum of American History, see section of 3 of Pub. L. 96–441, set out as a note under section 71 of this title.
 

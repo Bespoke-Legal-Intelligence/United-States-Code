@@ -2,7 +2,7 @@
 
 This subchapter does not prevent payment for overtime services or for Sunday or holiday work under any of the following statutes—
 
-&emsp;(1) section 394 of title 7;
+&emsp;(1) section 10703 of the Farm Security and Rural Investment Act of 2002;
 
 &emsp;(2) sections 1353a and 1353b of title 8;
 
@@ -14,7 +14,7 @@ This subchapter does not prevent payment for overtime services or for Sunday or 
 
 > However, an employee may not receive premium pay under this subchapter for the same services for which he is paid under one of these statutes.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 98–89, §3(a), Aug. 26, 1983, 97 Stat. 599.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 488; Pub. L. 98–89, §3(a), Aug. 26, 1983, 97 Stat. 599; Pub. L. 107–171, title X, §10703(c)(4), May 13, 2002, 116 Stat. 518.)
 
 Historical and Revision Notes
 
@@ -38,11 +38,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### References in Text
 
+Section 10703 of the Farm Security and Rural Investment Act of 2002, referred to in par. (1), is section 10703 of Pub. L. 107–171, which enacted section 2219a of Title 7, Agriculture, amended this section and sections 468 and 695 of Title 21, Food and Drugs, and repealed section 394 of Title 7.
+
 Section 261 of title 19, referred to in par. (3), was omitted from the Code in the general revision of section 5 of act Feb. 13, 1911, ch. 46, by Pub. L. 103–66, title XIII, §13811(a), Aug. 10, 1993, 107 Stat. 668.
 
 Section 1451a of title 19, referred to in par. (3), was repealed by Pub. L. 103–66, title XIII, §13811(b)(1), Aug. 10, 1993, 107 Stat. 670.
 
 #### Amendments
+
+2002—Par. (1). Pub. L. 107–171 added par. (1) and struck out former par. (1) which read as follows: “section 394 of title 7;”.
 
 1983—Par. (4). Pub. L. 98–89 substituted “sections 2111 and 2112 of title 46” for “section 382b of title 46”.
 

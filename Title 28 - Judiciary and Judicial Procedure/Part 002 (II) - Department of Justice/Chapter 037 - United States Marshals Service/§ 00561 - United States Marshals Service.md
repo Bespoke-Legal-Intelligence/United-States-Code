@@ -1,6 +1,6 @@
 ### §561. United States Marshals Service
 
-(a) There is hereby established a United States Marshals Service as a bureau within the Department of Justice under the authority and direction of the Attorney General. There shall be at the head of the United States Marshals Service\(hereafter in this chapter referred to as the “Service”) a Director who shall be appointed by the President, by and with the advice and consent of the Senate.
+(a) There is hereby established a United States Marshals Service as a bureau within the Department of Justice under the authority and direction of the Attorney General. There shall be at the head of the United States Marshals Service (hereafter in this chapter referred to as the “Service”) a Director who shall be appointed by the President, by and with the advice and consent of the Senate.
 
 (b) The Director of the United States Marshals Service (hereafter in this chapter referred to as the “Director”) shall, in addition to the powers and duties set forth in this chapter, exercise such other functions as may be delegated by the Attorney General.
 
@@ -20,13 +20,15 @@
 
 (h) The Director may administer oaths and may take affirmations of officials and employees of the Service, but shall not demand or accept any fee or compensation therefor.
 
-(i) There are authorized to be appropriated such sums as may be necessary to carry out the functions of the Service.
-
-(Added Pub. L. 100–690, title VII, §7608(a)(1), Nov. 18, 1988, 102 Stat. 4512.)
+(Added Pub. L. 100–690, title VII, §7608(a)(1), Nov. 18, 1988, 102 Stat. 4512; amended Pub. L. 107–273, div. A, title III, §301(b), Nov. 2, 2002, 116 Stat. 1781.)
 
 #### Prior Provisions
 
 A prior section 561, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 619; amended Pub. L. 95–530, §2, Oct. 27, 1978, 92 Stat. 2028, related to appointment, term, and residence of United States marshals, prior to repeal by Pub. L. 100–690, §7608(a)(1).
+
+#### Amendments
+
+2002—Subsec. (i). Pub. L. 107–273 struck out subsec. (i) which read as follows: “There are authorized to be appropriated such sums as may be necessary to carry out the functions of the Service.”
 
 #### Section Referred to in Other Sections
 

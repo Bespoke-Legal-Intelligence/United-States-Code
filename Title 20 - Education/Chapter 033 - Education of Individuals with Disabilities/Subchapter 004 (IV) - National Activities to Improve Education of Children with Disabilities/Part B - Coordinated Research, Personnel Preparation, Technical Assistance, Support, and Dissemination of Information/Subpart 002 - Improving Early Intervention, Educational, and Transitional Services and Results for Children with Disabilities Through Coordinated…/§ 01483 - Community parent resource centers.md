@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary may make grants to, and enter into contracts and cooperative agreements with, local parent organizations to support parent training and information centers that will help ensure that underserved parents of children with disabilities, including low-income parents, parents of children with limited English proficiency, and parents with disabilities, have the training and information they need to enable them to participate effectively in helping their children with disabilities—
+The Secretary may make grants to, and enter into contracts and cooperative agreements with,local parent organizations to support parent training and information centers that will help ensure that underserved parents of children with disabilities, including low-income parents, parents of children with limited English proficiency, and parents with disabilities, have the training and information they need to enable them to participate effectively in helping their children with disabilities—
 
 &emsp;(1) to meet developmental goals and, to the maximum extent possible, those challenging standards that have been established for all children; and
 
@@ -40,5 +40,5 @@ A prior section 1483, Pub. L. 91–230, title VI, §683, as added Pub. L. 99–4
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1401, 1415, 1484, 1486 of this title.
+This section is referred to in sections 1401, 1415, 1484, 1486 of this title; title 42 section 15064.
 

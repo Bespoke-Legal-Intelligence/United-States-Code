@@ -54,7 +54,7 @@ Amendment by Pub. L. 104–121 effective on expiration of 90 days after Mar. 29,
 
 #### Small Business Advocacy Chairpersons
 
-Section 244(b) of Pub. L. 104–121 provided that: “Not later than 30 days after the date of enactment of this Act \[Mar. 29, 1996\], the head of each covered agency that has conducted a final regulatory flexibility analysis shall designate a small business advocacy chairperson using existing personnel to the extent possible, to be responsible for implementing this section and to act as permanent chair of the agency's review panels established pursuant to this section.”
+Section 244(b) of Pub. L. 104–121 provided that: “Not later than 30 days after the date of enactment of this Act \[Mar. 29, 1996\], the head of each covered agencythat has conducted a final regulatory flexibility analysis shall designate a small business advocacy chairperson using existing personnel to the extent possible, to be responsible for implementing this section and to act as permanent chair of the agency's review panels established pursuant to this section.”
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@
 
 &emsp;(B) after a court in an action brought under paragraph (3) has entered a final judgment in favor of the Administrator,
 
-> the Attorney General shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 30-day period referred to in paragraph (3) or the date of such final judgment, as the case may be) in an action brought in any appropriate districtcourt of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
+> the Attorney General shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 30-day period referred to in paragraph (3) or the date of such final judgment, as the case may be) in an action brought in any appropriate district court of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
 
 #### (b) Criminal
 

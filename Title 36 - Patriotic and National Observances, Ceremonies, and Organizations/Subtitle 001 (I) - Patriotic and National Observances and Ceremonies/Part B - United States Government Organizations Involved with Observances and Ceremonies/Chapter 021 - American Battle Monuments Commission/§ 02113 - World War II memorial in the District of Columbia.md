@@ -4,7 +4,7 @@
 
 Solicitation and Acceptance of Contributions.—(1) Consistent with its authority under section 2103(e) of this title, the American Battle Monuments Commission shall solicit and accept contributions for the World War II memorial.
 
-(2) In this section, the term “World War II memorial” means the memorial authorized by Public Law 103–32 (40 U.S.C. 1003 note) to be established by the Commission on Federal land in the District of Columbia or its environs to honor members of the Armed Forces who served in World War II and to commemorate the participation of the United States in that war.
+(2) In this section, the term “World War II memorial” means the memorial authorized by Public Law 103–32 (40 U.S.C. 1003 note) <sup>1</sup> to be established by the Commission on Federal land in the District of Columbia or its environs to honor members of the Armed Forces who served in World War II and to commemorate the participation of the United States in that war.
 
 (b)
 
@@ -28,7 +28,7 @@ Creation of Memorial Fund.—(1) There is hereby created in the Treasury a fund 
 
 Use of Fund.—The fund shall be available to the Commission—
 
-&emsp;(1) for the expenses of establishing the World War II memorial, including the maintenance and preservation amount provided for in section 8(b) of the Commemorative Works Act (40 U.S.C. 1008(b));
+&emsp;(1) for the expenses of establishing the World War II memorial, including the maintenance and preservation amount provided for in section 8(b) of the Commemorative Works Act (40 U.S.C. 1008(b)); <sup>1</sup>
 
 &emsp;(2) for such other expenses, other than routine maintenance, with respect to the World War II memorial as the Commission considers warranted; and
 
@@ -46,7 +46,7 @@ Special Borrowing Authority.—(1) To assure that groundbreaking, construction, 
 
 (e)
 
-Treatment of Borrowing Authority.—In determining whether the Commission has sufficient funds to complete construction of the World War II memorial, as required by section 8 of the Commemorative Works Act (40 U.S.C. 1008), the Secretary of the Interior shall consider the funds that the Commission may borrow from the Treasury under subsection (d) as funds available to complete construction of the memorial, whether or not the Commission has actually exercised the authority to borrow such funds.
+Treatment of Borrowing Authority.—In determining whether the Commission has sufficient funds to complete construction of the World War II memorial, as required by section 8 of the Commemorative Works Act (40 U.S.C. 1008),<sup>1</sup> the Secretary of the Interior shall consider the funds that the Commission may borrow from the Treasury under subsection (d) as funds available to complete construction of the memorial, whether or not the Commission has actually exercised the authority to borrow such funds.
 
 (f)
 
@@ -64,15 +64,23 @@ Treatment of Certain Contracts.—A contract entered into by the Commission for 
 
 (h)
 
-Extension of Authority To Establish Memorial.—Notwithstanding section 10 of the Commemorative Works Act (40 U.S.C. 1010), the authority for the construction of the World War II memorial provided by Public Law 103–32 (40 U.S.C. 1003 note) expires on December 31, 2005.
+Extension of Authority To Establish Memorial.—Notwithstanding section 10 of the Commemorative Works Act (40 U.S.C. 1010),<sup>1</sup> the authority for the construction of the World War II memorial provided by Public Law 103–32 (40 U.S.C. 1003 note) <sup>1</sup> expires on December 31, 2005.
 
 (Added Pub. L. 106–117, title VI, §601(a)(1), Nov. 30, 1999, 113 Stat. 1576.)
 
 #### References in Text
 
+Public Law 103–32 (40 U.S.C. 1003 note), referred to in subsecs. (a)(2) and (h), is Pub. L. 103–32, May 25, 1993, 107 Stat. 90, as amended, which is included in the table of Commemorative Works previously set out under section 1003 of former Title 40, Public Buildings, Property, and Works, and now set out under section 8903 of Title 40, Public Buildings, Property, and Works.
+
+Section 8 of the Commemorative Works Act, referred to in subsecs. (c)(1) and (e), is section 8 of Pub. L. 99–652, Nov. 14, 1986, 100 Stat. 3652, as amended, which was classified to section 1008 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 8906 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+
+Section 10 of the Commemorative Works Act (40 U.S.C. 1010), referred to in subsec. (h), is section 10 of Pub. L. 99–652, Nov. 14, 1986, 100 Stat. 3654, as amended, which was classified to section 1010 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 8902(b), 8903(e), and 8909 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+
 The World War II 50th Anniversary Commemorative Coins Act, referred to in subsec. (b)(1)(C) is Pub. L. 102–414, Oct. 14, 1992, 106 Stat. 2106, which is classified as a note under section 5112 of Title 31, Money and Finance.
 
 #### Effect of Repeal of Current Memorial Fund
 
-Pub. L. 106–117, title VI, §601(c), Nov. 30, 1999, 113 Stat. 1578, provided that: “Upon the enactment of this Act \[Nov. 30, 1999\], the Secretary of the Treasury shall transfer amounts in the fund created by section 4(a) of Public Law 103–32 (40 U.S.C. 1003 note) to the fund created by section 2113(b) of title 36, United States Code, as added by subsection (a).”
+Pub. L. 106–117, title VI, §601(c), Nov. 30, 1999, 113 Stat. 1578, provided that: “Upon the enactment of this Act \[Nov. 30, 1999\], the Secretary of the Treasury shall transfer amounts in the fund created by section 4(a) of Public Law 103–32 (40 U.S.C. 1003 note) \[now 40 U.S.C. 8903 note\] to the fund created by section 2113(b) of title 36, United States Code, as added by subsection (a).”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@ General.—To avoid having amounts withheld from apportionment under section 313
 
 &emsp;(7) Not later than 30 days after issuing a commercial driver's license, the State shall notify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, of the issuance.
 
-&emsp;(8) Not later than 10 days after disqualifying the holder of a commercial driver's license from operating a commercial motor vehicle (or after revoking, suspending, or canceling the license) for at least 60 days, the State shall notify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, and the State that issued the license, of the disqualification, revocation, suspension, or cancellation, and the violation that resulted in the disqualification, revocation, suspension, or cancellation shall be recorded.
+&emsp;(8) Not later than 10 days after disqualifying the holder of a commercial driver's license from operating a commercial motor vehicle\(or after revoking, suspending, or canceling the license) for at least 60 days, the State shall notify the Secretary or the operator of the information system under section 31309 of this title, as the case may be, and the State that issued the license, of the disqualification, revocation, suspension, or cancellation, and the violation that resulted in the disqualification, revocation, suspension, or cancellation shall be recorded.
 
 &emsp;(9) If an individual violates a State or local law on motor vehicle traffic control (except a parking violation) and the individual—
 

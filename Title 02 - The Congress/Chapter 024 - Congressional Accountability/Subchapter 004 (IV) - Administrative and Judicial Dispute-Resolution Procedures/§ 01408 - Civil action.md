@@ -16,7 +16,7 @@ Any party may demand a jury trial where a jury trial would be available in an ac
 
 #### (1) In general
 
-&emsp;The House Employment Counsel of the House of Representatives and any other counsel in the Office of House Employment Counsel of the House of Representatives, including any counsel specially retained by the Office of House Employment Counsel, shall be entitled,for the purpose of providing legal assistance and representation to employing offices of the House of Representatives under this chapter, to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof without compliance with any requirements for admission to practice before such court, except that the authorization conferred by this paragraph shall not apply with respect to the admission of any such person to practice before the United States Supreme Court.
+&emsp;The House Employment Counsel of the House of Representatives and any other counsel in the Office of House Employment Counsel of the House of Representatives, including any counsel specially retained by the Office of House Employment Counsel, shall be entitled, for the purpose of providing legal assistance and representation to employing offices of the House of Representatives under this chapter, to enter an appearance in any proceeding before any court of the United States or of any State or political subdivision thereof without compliance with any requirements for admission to practice before such court, except that the authorization conferred by this paragraph shall not apply with respect to the admission of any such person to practice before the United States Supreme Court.
 
 #### (2) House Employment Counsel defined
 

@@ -36,7 +36,7 @@ In carrying out its purposes, the Foundation shall—
 
 #### (2) Contribution to endowment by participating independent states
 
-&emsp;As a condition of participation in the Foundation, an independent state of the former Soviet Union must make a minimum contribution to the endowment of the Foundation, as determined by the Director, which shall reflect the ability of the independent state to make a financial contribution and its expectedlevel of participation in the Foundation's programs.
+&emsp;As a condition of participation in the Foundation, an independent state of the former Soviet Union must make a minimum contribution to the endowment of the Foundation, as determined by the Director, which shall reflect the ability of the independent state to make a financial contribution and its expected level of participation in the Foundation's programs.
 
 #### (3) Debt conversions
 

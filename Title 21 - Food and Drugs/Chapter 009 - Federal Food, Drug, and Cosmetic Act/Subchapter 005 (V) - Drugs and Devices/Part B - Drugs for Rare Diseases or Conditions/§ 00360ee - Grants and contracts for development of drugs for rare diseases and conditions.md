@@ -24,15 +24,17 @@ For purposes of subsection (a) of this section:
 
 #### (c) Authorization of appropriations
 
-For grants and contracts under subsection (a) of this section there are authorized to be appropriated $10,000,000 for fiscal year 1988, $12,000,000 for fiscal year 1989,<sup>1</sup> $14,000,000 for fiscal year 1990.
+For grants and contracts under subsection (a) of this section, there are authorized to be appropriated such sums as already have been appropriated for fiscal year 2002, and $25,000,000 for each of the fiscal years 2003 through 2006.
 
-(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91;Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326.)
+(Pub. L. 97–414, §5, Jan. 4, 1983, 96 Stat. 2056; Pub. L. 98–551, §4(b), Oct. 30, 1984, 98 Stat. 2817; Pub. L. 99–91, §5, Aug. 15, 1985, 99 Stat. 391; Pub. L. 100–290, §3(a)–(c), Apr. 18, 1988, 102 Stat. 90, 91; Pub. L. 105–115, title I, §125(b)(2)(N), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §3, Nov. 6, 2002, 116 Stat. 1993.)
 
 #### Codification
 
 Section was enacted as part of the Orphan Drug Act, and not as part of the Federal Food, Drug, and Cosmetic Act which comprises this chapter.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–281 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For grants and contracts under subsection (a) of this section there are authorized to be appropriated $10,000,000 for fiscal year 1988, $12,000,000 for fiscal year 1989, $14,000,000 for fiscal year 1990.”
 
 1997—Subsec. (b)(1)(A)(ii), (B). Pub. L. 105–115 struck out “or 357” after “355(b)”.
 
@@ -50,11 +52,37 @@ Subsec. (b)(1). Pub. L. 99–91, §5(a)(2), substituted provisions defining “q
 
 Subsec. (c). Pub. L. 99–91, §5(b), substituted provisions authorizing appropriations for fiscal years 1986 to 1988, for provisions authorizing appropriations for fiscal years 1983 and the two succeeding fiscal years.
 
-1984—Subsec. (b)(2). Pub. L. 98–551 substituted “which (A) affects less than 200,000 persons in the United States, or (B) affects more than 200,000 in the United States and for which” for “which occurs so infrequently in the United States that”.
+1984—Subsec. (b)(2). Pub. L. 98–551 substituted “which (A) affects less than 200,000 persons in the UnitedStates, or (B) affects more than 200,000 in the United States and for which” for “which occurs so infrequently in the United States that”.
 
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–91 effective Oct. 1, 1985, see section 8(a) of Pub. L. 99–91, set out as a note under section 360aa of this title.
+
+#### Findings and Purposes
+
+Pub. L. 107–281, §2, Nov. 6, 2002, 116 Stat. 1992, provided that:
+
+“(a)
+
+Findings.—Congress makes the following findings:
+
+&emsp;“(1) Rare diseases and disorders are those which affect small patient populations, typically populations smaller than 200,000 individuals in the United States. Such diseases and conditions include Huntington's disease, amyotrophic lateral sclerosis (Lou Gehrig's disease), Tourette syndrome, Crohn's disease, cystic fibrosis, cystinosis, and Duchenne muscular dystrophy.
+
+&emsp;“(2) For many years, the 25,000,000 Americans suffering from the over 6,000 rare diseases and disorders were denied access to effective medicines because prescription drug manufacturers could rarely make a profit from marketing drugs for such small groups of patients. The prescription drug industry did not adequately fund research into such treatments. Despite the urgent health need for these medicines, they came to be known as ‘orphan drugs’ because no companies would commercialize them.
+
+&emsp;“(3) During the 1970s, an organization called the National Organization for Rare Disorders (NORD) was founded to provide services and to lobby on behalf of patients with rare diseases and disorders. NORD was instrumental in pressing Congress for legislation to encourage the development of orphan drugs.
+
+&emsp;“(4) The Orphan Drug Act \[see Short Title of 1983 Amendments note set out under section 301 of this title\] created financial incentives for the research and production of such orphan drugs. New Federal programs at the National Institutes of Health and the Food and Drug Administration encouraged clinical research and commercial product development for products that target rare diseases. An Orphan Products Board was established to promote the development of drugs and devices for rare diseases or disorders.
+
+&emsp;“(5) Before 1983, some 38 orphan drugs had been developed. Since the enactment of the Orphan Drug Act \[Jan. 4, 1983\], more than 220 new orphan drugs have been approved and marketed in the United States and more than 800 additional drugs are in the research pipeline.
+
+&emsp;“(6) Despite the tremendous success of the Orphan Drug Act, rare diseases and disorders deserve greater emphasis in the national biomedical research enterprise.
+
+&emsp;“(7) The Food and Drug Administration supports small clinical trials through Orphan Products Research Grants. Such grants embody successful partnerships of government and industry, and have led to the development of at least 23 drugs and four medical devices for rare diseases and disorders. Yet the appropriations in fiscal year 2001 for such grants were less than in fiscal year 1995.
+
+“(b)
+
+Purposes.—The purpose of this Act \[see Short Title of 2002 Amendments note set out under section 301 of this title\] is to increase the national investment in the development of diagnostics and treatments for patients with rare diseases and disorders.”
 
 #### Section Referred to in Other Sections
 

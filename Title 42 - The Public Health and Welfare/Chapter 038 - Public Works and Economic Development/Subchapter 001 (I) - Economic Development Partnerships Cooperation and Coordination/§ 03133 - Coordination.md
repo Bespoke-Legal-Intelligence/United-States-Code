@@ -6,7 +6,7 @@ The Secretary shall coordinate activities relating to the preparation and implem
 
 #### Prior Provisions
 
-A prior section 3133, Pub. L. 89–136, title I, §103, Aug. 26, 1965, 79 Stat. 554, set limitation on funds whichcould be expended in any one State, prior to repeal by Pub. L. 105–393, §102(a).
+A prior section 3133, Pub. L. 89–136, title I, §103, Aug. 26, 1965, 79 Stat. 554, set limitation on funds which could be expended in any one State, prior to repeal by Pub. L. 105–393, §102(a).
 
 A prior section 3134, Pub. L. 89–136, title I, §104, Aug. 26, 1965, 79 Stat. 554, related to the ineligibility of Appalachian region projects for appropriations under this subchapter, prior to repeal by Pub. L. 94–188, title I, §123, Dec. 31, 1975, 89 Stat. 1086.
 

@@ -6,7 +6,7 @@ The Director shall establish a centrally located facility for the coordination o
 
 #### (b) Lower Great Lakes Fishery Resources Office
 
-The Director shall establish an office with necessary administrative and technical support services to carry out all United States Fish and Wildlife Service operational activities related tofishery resource protection, restoration, maintenance, and enhancement in the lower Great Lakes. The office shall be known as the “Lower Great Lakes Fishery Resources Office”, and shall be centrally located in the lower Great Lakes so as to facilitate fishery resource restoration and enhancement activities relating to the lower Great Lakes.
+The Director shall establish an office with necessary administrative and technical support services to carry out all United States Fish and Wildlife Service operational activities related to fishery resource protection, restoration, maintenance, and enhancement in the lower Great Lakes. The office shall be known as the “Lower Great Lakes Fishery Resources Office”, and shall be centrally located in the lower Great Lakes so as to facilitate fishery resource restoration and enhancement activities relating to the lower Great Lakes.
 
 #### (c) Upper Great Lakes Fishery Resources Offices
 

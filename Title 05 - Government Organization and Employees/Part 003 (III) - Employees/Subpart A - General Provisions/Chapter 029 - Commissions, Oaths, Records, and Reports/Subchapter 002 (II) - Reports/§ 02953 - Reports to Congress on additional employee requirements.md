@@ -44,7 +44,7 @@ Historical and Revision Notes
 
 5 U.S.C. 642a.
 
-July 25, 1956, ch. 730, §1, 70 Stat. 652.
+Jan. 16, 1883, ch. 27, §11; added July 25, 1956, ch. 730, §1, 70 Stat. 652.
 
 In subsection (a), the words, “Executive agency” are substituted for “department, agency, or independent establishment of the executive branch of the Federal Government (including any corporation wholly owned by the United States)” in view of the definition of “Executive agency” in section 105. The exception of “a Government controlled corporation” is subsection (b) (2) is added to preserve the application to corporations wholly owned by the United States.
 

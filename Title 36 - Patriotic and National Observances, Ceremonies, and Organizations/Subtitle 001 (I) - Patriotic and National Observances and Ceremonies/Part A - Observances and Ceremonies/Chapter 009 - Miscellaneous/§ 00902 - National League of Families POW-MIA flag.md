@@ -30,9 +30,11 @@ Days for Flag Display.—(1) For purposes of this section, POW/MIA flag display 
 
 (2) In addition to the days specified in paragraph (1) of this subsection, POW/MIA flag display days include—
 
-&emsp;(A) in the case of display at medical centers of the Department of Veterans Affairs (required by subsection (d)(7) of this section), any day on which the flag of the United States is displayed; and
+&emsp;(A) in the case of display at the World War II Memorial, Korean War Veterans Memorial, and Vietnam Veterans Memorial (required by subsection (d)(3) of this section), any day on which the United States flag is displayed;
 
-&emsp;(B) in the case of display at United States Postal Service post offices (required by subsection (d)(8) of this section), the last business day before a day specified in paragraph (1) that in any year is not itself a business day.
+&emsp;(B) in the case of display at medical centers of the Department of Veterans Affairs (required by subsection (d)(7) of this section), any day on which the flag of the United States is displayed; and
+
+&emsp;(C) in the case of display at United States Postal Service post offices (required by subsection (d)(8) of this section), the last business day before a day specified in paragraph (1) that in any year is not itself a business day.
 
 (d)
 
@@ -42,7 +44,7 @@ Locations for Flag Display.—The locations for the display of the POW/MIA flag 
 
 &emsp;(2) The White House.
 
-&emsp;(3) The Korean War Veterans Memorial and the Vietnam Veterans Memorial.
+&emsp;(3) The World War II Memorial, the Korean War Veterans Memorial, and the Vietnam Veterans Memorial.
 
 &emsp;(4) Each national cemetery.
 
@@ -74,7 +76,7 @@ Display To Be in a Manner Visible to the Public.—Display of the POW/MIA flag p
 
 Limitation.—This section may not be construed or applied so as to require any employee to report to work solely for the purpose of providing for the display of the POW/MIA flag.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1268; Pub. L. 105–354, §1(1), Nov. 3, 1998, 112 Stat. 3238.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1268; Pub. L. 105–354, §1(1), Nov. 3, 1998, 112 Stat. 3238; Pub. L. 107–323, §2(a), (b), Dec. 4, 2002, 116 Stat. 2787.)
 
 Historical and Revision Notes
 
@@ -122,6 +124,10 @@ Section 1082(j), which repealed section 1084 of Public Law 102–190 (previously
 
 #### Amendments
 
+2002—Subsec. (c)(2). Pub. L. 107–323, §2(b), added subpar. (A) and redesignated former subpars. (A) and (B) as (B) and (C), respectively.
+
+Subsec. (d)(3). Pub. L. 107–323, §2(a), substituted “The World War II Memorial, the Korean War Veterans Memorial, and the Vietnam Veterans Memorial” for “The Korean War Veterans Memorial and the Vietnam Veterans Memorial”.
+
 1998—Subsecs. (b) to (g). Pub. L. 105–354 added subsecs. (b) to (g) and struck out former subsecs. (b) and (c) which read as follows:
 
 “(b)
@@ -134,5 +140,9 @@ Display.—The flag shall be displayed—
 
 “(c)
 
-Termination of Flag Display Requirement.—Subsection (b) of this section ceases to apply when the President decides that the fullest possible accounting has been made of all members of the Armed Forces and civilian employees of the United States Government who have been identified as prisoners of war or missing in action in Southeast Asia.”
+Termination of Flag Display Requirement.—Subsection (b) of this section ceases to apply when the President decides that the fullest possible accounting has been made of all members of the Armed Forces and civilian employees of the United States Governmentwho have been identified as prisoners of war or missing in action in Southeast Asia.”
+
+#### Display on Existing Flagpole
+
+Pub. L. 107–323, §2(c), Dec. 4, 2002, 116 Stat. 2788, provided that: “No element of the United States Government may construe the amendments made by this section \[amending this section\] as requiring the acquisition of \[sic\] erection of a new or additional flagpole for purposes of the display of the POW/MIA flag.”
 

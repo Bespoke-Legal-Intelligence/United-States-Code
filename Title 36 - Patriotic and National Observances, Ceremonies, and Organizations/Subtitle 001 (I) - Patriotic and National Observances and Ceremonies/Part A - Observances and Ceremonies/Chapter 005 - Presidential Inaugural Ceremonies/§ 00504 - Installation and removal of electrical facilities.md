@@ -42,5 +42,5 @@ Aug. 6, 1956, ch. 974, §10, as added Jan. 30, 1968, Pub. L. 90–251, §4, 82 S
 
 In subsection (a), the words “lighting or other” and “for illumination or other purposes” are omitted as unnecessary.
 
-In subsection (c), the words “illumination or other” are omitted as unnecessary. The words “department,agency, or instrumentality” are substituted for “agency” for consistency in the revised title and with other titles of the United States Code. The words “or agencies” are omitted because of 1:1. The words “in connection with the installation, operation, or removal of a temporary overhead conductor or electrical facility” are added for clarity.
+In subsection (c), the words “illumination or other” are omitted as unnecessary. The words “department, agency, or instrumentality” are substituted for “agency” for consistency in the revised title and with other titles of the United States Code. The words “or agencies” are omitted because of 1:1. The words “in connection with the installation, operation, or removal of a temporary overhead conductor or electrical facility” are added for clarity.
 

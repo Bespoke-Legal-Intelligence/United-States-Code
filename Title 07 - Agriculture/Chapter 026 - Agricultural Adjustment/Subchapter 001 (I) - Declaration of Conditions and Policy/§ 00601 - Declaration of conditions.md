@@ -1,6 +1,6 @@
 ### §601. Declaration of conditions
 
-It is declared that the disruption of the orderly exchange of commodities in interstate commerce impairs the purchasing power of farmers and destroys the value of agricultural assets which support the national credit structure and that these conditions affect transactions in agricultural commodities with a national public interest, and burden and obstruct the normal channels of interstate commerce.
+It is declared that the disruption of the orderly exchange of commodities in interstatecommerce impairs the purchasing power of farmers and destroys the value of agricultural assets which support the national credit structure and that these conditions affect transactions in agricultural commodities with a national public interest, and burden and obstruct the normal channels of interstate commerce.
 
 (May 12, 1933, ch. 25, title I, §1, 48 Stat. 31; June 3, 1937, ch. 296, §§1, 2(a), 50 Stat. 246.)
 

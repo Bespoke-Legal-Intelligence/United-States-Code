@@ -14,9 +14,11 @@ Mandatory Revocation for Possession of Controlled Substance or Firearm or Refusa
 
 &emsp;(1) possesses a controlled substance in violation of the condition set forth in section 3563(a)(3);
 
-&emsp;(2) possesses a firearm, as such term is defined in section 921 of this title, in violation of Federal law, or otherwise violates a condition of probation prohibiting the defendant from possessing a firearm; or
+&emsp;(2) possesses a firearm, as such term is defined in section 921 of this title, in violation of Federal law, or otherwise violates a condition of probation prohibiting the defendant from possessing a firearm;
 
-&emsp;(3) refuses to comply with drug testing, thereby violating the condition imposed by section 3563(a)(4),<sup>1</sup>
+&emsp;(3) refuses to comply with drug testing, thereby violating the condition imposed by section 3563(a)(4);<sup>1</sup> or
+
+&emsp;(4) as a part of drug testing, tests positive for illegal controlled substances more than 3 times over the course of 1 year;
 
 > the court shall revoke the sentence of probation and resentence the defendant under subchapter A to a sentence that includes a term of imprisonment.
 
@@ -24,7 +26,7 @@ Mandatory Revocation for Possession of Controlled Substance or Firearm or Refusa
 
 Delayed Revocation.—The power of the court to revoke a sentence of probation for violation of a condition of probation, and to impose another sentence, extends beyond the expiration of the term of probation for any period reasonably necessary for the adjudication of matters arising before its expiration if, prior to its expiration, a warrant or summons has been issued on the basis of an allegation of such a violation.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1995; amended Pub. L. 100–690, title VI, §6214, title VII, §7303(a)(2), Nov. 18, 1988, 102 Stat. 4361, 4464; Pub. L. 101–647, title XXXV, §3585, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title XI, §110506, Sept. 13, 1994, 108 Stat. 2017.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1995; amended Pub. L. 100–690, title VI, §6214, title VII, §7303(a)(2), Nov. 18, 1988, 102 Stat. 4361, 4464; Pub. L. 101–647, title XXXV, §3585, Nov. 29, 1990, 104 Stat. 4930; Pub. L. 103–322, title XI, §110506, Sept. 13, 1994, 108 Stat. 2017; Pub. L. 107–273, div. B, title II, §2103(a), Nov. 2, 2002, 116 Stat. 1793.)
 
 #### References in Text
 
@@ -38,7 +40,9 @@ For a prior section 3565, applicable to offenses committed prior to Nov. 1, 1987
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–322, §110506(a)(2), struck out concluding sentence which read as follows: “Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the conditionimposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence.”
+2002—Subsec. (b)(4). Pub. L. 107–273 added par. (4).
+
+1994—Subsec. (a). Pub. L. 103–322, §110506(a)(2), struck out concluding sentence which read as follows: “Notwithstanding any other provision of this section, if a defendant is found by the court to be in possession of a controlled substance, thereby violating the condition imposed by section 3563(a)(3), the court shall revoke the sentence of probation and sentence the defendant to not less than one-third of the original sentence.”
 
 Subsec. (a)(2). Pub. L. 103–322, §110506(a)(1), substituted “resentence the defendant under subchapter A” for “impose any other sentence that was available under subchapter A at the time of the initial sentencing”.
 
@@ -64,7 +68,7 @@ Section effective Nov. 1, 1987, and applicable only to offenses committed after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3562, 3563, 3607, 3613A, 3664, 5037 of this title; title 28 section 994.
+This section is referred to in sections 3562, 3563, 3607, 3613A, 3664, 4104, 5037 of this title; title 28 section 994.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1978</b>—Par. (6). Pub. L. 95–539 added par. (6).
+1978—Par. (6). Pub. L. 95–539 added par. (6).
 
 #### Effective Date of 1978 Amendment
 

@@ -20,9 +20,13 @@ Not later than 180 days after the end of each fiscal year for which grants are m
 
 Not later than 120 days after September 13, 1994, the Attorney General shall publish proposed regulations or guidelines implementing this subchapter. Not later than 180 days after September 13, 1994, the Attorney General shall publish final regulations or guidelines implementing this subchapter.
 
-(Pub. L. 90–351, title I, §2004, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1914; amended Pub. L. 106–386, div. B, title I, §1103(b)(4), Oct. 28, 2000, 114 Stat. 1497.)
+(Pub. L. 90–351, title I, §2009, formerly §2004, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1914; amended Pub. L. 106–386, div. B, title I, §1103(b)(4), Oct. 28, 2000, 114 Stat. 1497; renumbered §2009, Pub. L. 107–273, div. A, title IV, §402(2), Nov. 2, 2002, 116 Stat. 1789.)
 
 #### Amendments
 
 2000—Subsec. (b)(3). Pub. L. 106–386 inserted “, and the membership of persons served in any underserved population” before the semicolon.
+
+#### Codification
+
+Amendment by section 402(2) of Pub. L. 107–273, which directed the renumbering of sections 2002 to 2006 of Pub. L. 90–351 as sections 2006 to 2011 of that act, was executed by renumbering sections 2002 to 2006 as sections 2007 to 2011 of that act, respectively, to reflect the probable intent of Congress.
 

@@ -8,7 +8,7 @@ Subject to sections 8812 and 8817 of this title, the Secretary concerned may com
 
 (1) Any guarantee of a loan under this section may not exceed 90 per centum of the cost of the construction of the biomass energy project involved, as estimated by the Secretary on the date of the guarantee or commitment to guarantee.
 
-(2) In the event the construction costs of the project are thereafter estimated by the Secretary concerned to exceed the construction costs initially estimated by the Secretary, the Secretary may in addition, upon application therefor, guarantee, against loss of principal and interest, a loan for up to 60 per centum of the difference between the construction costs then estimated and the construction costs initially estimated.
+(2) In the event the construction costs of the project are thereafter estimated by the Secretary concerned to exceed the constructioncosts initially estimated by the Secretary, the Secretary may in addition, upon application therefor, guarantee, against loss of principal and interest, a loan for up to 60 per centum of the difference between the construction costs then estimated and the construction costs initially estimated.
 
 #### (c) Debt obligation; ineligibility for purchase, etc., by Federal Financing Bank or any Federal agency
 

@@ -1,0 +1,24 @@
+### §3351. Special authorization for biosecurity planning and response
+
+#### (a) Authorization of appropriations
+
+In addition to amounts for agricultural research, extension, and education under this chapter, there are authorized to be appropriated for agricultural research, education, and extension activities for biosecurity planning and response such sums as are necessary for each of fiscal years 2002 through 2007.
+
+#### (b) Use of funds
+
+Using any authority available to the Secretary, the Secretary shall use funds made available under this section to carry out agricultural research, education, and extension activities (including through competitive grants) for the following:
+
+&emsp;(1) To reduce the vulnerability of the United States food and agricultural system to chemical or biological attack.
+
+&emsp;(2) To continue partnerships with institutions of higher education and other institutions to help form stable, long-term programs to enhance the biosecurity of the United States, including the coordination of the development, implementation, and enhancement of diverse capabilities for addressing threats to the Nation's agricultural economy and food supply with special emphasis on planning, training, outreach, and research activities related to vulnerability analyses, incident response, and detection and prevention technologies.
+
+&emsp;(3) To make competitive grants to universities and qualified research institutions for research on counterbioterrorism.
+
+&emsp;(4) To counter or otherwise respond to chemical or biological attack.
+
+(Pub. L. 95–113, title XIV, §1484, as added Pub. L. 107–171, title VII, §7221(a), May 13, 2002, 116 Stat. 452.)
+
+#### References in Text
+
+This chapter, referred to in subsec. (a), was in the original “this Act”, and was translated as reading “this title”, meaning title XIV of Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 981, as amended, known as the National Agricultural Research, Extension, and Teaching Policy Act of 1977, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title XIV to the Code, see References in Text note set out under section 3102 of this title and Tables.
+

@@ -32,5 +32,5 @@ Secretary and Department of Health, Education, and Welfare redesignated Secretar
 
 #### Certification by Attorney General to Secretary of State for Reimbursement of Expenses Incurred Under Transfer Treaty
 
-Section 5(b) of Pub. L. 95–144 provided that: “The Attorney General shall certify to the Secretary of State the expenses of the United States related to the return of an offender to the foreign country of which the offender is a citizen or national for which the United States is entitled to seek reimbursement from that country under a treaty providing for transfer and reimbursement.”
+Section 5(b) of Pub. L. 95–144 provided that: “The Attorney General shall certify to the Secretary of Statethe expenses of the United States related to the return of an offender to the foreign country of which the offender is a citizen or national for which the United States is entitled to seek reimbursement from that country under a treaty providing for transfer and reimbursement.”
 

@@ -120,11 +120,11 @@ In General.—This Act \[see Short Title of 1993 Amendment note set out under se
 
 “(b)
 
-Effectiveness of Existing Rates and Distributions.—All royalty rates and all determinations with respect to the proportionate division of compulsory license fees among copyright claimants, whether made by the Copyright Royalty Tribunal, or by voluntaryagreement, before the effective date set forth in subsection (a) shall remain in effect until modified by voluntary agreement or pursuant to the amendments made by this Act.
+Effectiveness of Existing Rates and Distributions.—All royalty rates and all determinations with respect to the proportionate division of compulsory license fees among copyright claimants, whether made by the Copyright Royalty Tribunal, or by voluntary agreement, before the effective date set forth in subsection (a) shall remain in effect until modified by voluntary agreement or pursuant to the amendments made by this Act.
 
 “(c)
 
-Transfer of Appropriations.—All unexpended balances of appropriations made to the Copyright Royalty Tribunal, as of the effective date of this Act, are transferred on such effective date to the Copyright Office for use by the Copyright Office for the purposes for which such appropriations were made.”
+Transfer of Appropriations.—All unexpended balances of appropriations made to the Copyright Royalty Tribunal, as of the effective date of this Act, aretransferred on such effective date to the Copyright Office for use by the Copyright Office for the purposes for which such appropriations were made.”
 
 #### Effective Date of 1990 Amendment
 

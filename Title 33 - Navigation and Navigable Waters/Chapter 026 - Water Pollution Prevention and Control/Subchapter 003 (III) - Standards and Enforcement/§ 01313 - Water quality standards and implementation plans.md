@@ -28,7 +28,7 @@
 
 (2)(A) Whenever the State revises or adopts a new standard, such revised or new standard shall be submitted to the Administrator. Such revised or new water quality standard shall consist of the designated uses of the navigable waters involved and the water quality criteria for such waters based upon such uses. Such standards shall be such as to protect the public health or welfare, enhance the quality of water and serve the purposes of this chapter. Such standards shall be established taking into consideration their use and value for public water supplies, propagation of fish and wildlife, recreational purposes, and agricultural, industrial, and other purposes, and also taking into consideration their use and value for navigation.
 
-(B) Whenever a State reviews water quality standards pursuant to paragraph (1) of this subsection, or revises or adopts new standards pursuant to this paragraph, such State shall adopt criteria for all toxic pollutants listed pursuant to section 1317(a)(1) of this title for which criteria have been published under section 1314(a) of this title, the discharge or presence of which in the affected waters could reasonably be expected to interfere with those designated uses adopted by the State, as necessary to support such designated uses. Such criteria shall be specific numerical criteria for such toxic pollutants. Where such numerical criteria are not available, whenever a State reviews water quality standards pursuant to paragraph (1), or revises or adopts new standards pursuant to this paragraph, such State shall adopt criteria based on biological monitoring or assessment methods consistent with information published pursuant to section 1314(a)(8) of this title. Nothing in this section shall be construed to limit or delay the use of effluent limitations or other permit conditions based on or involving biological monitoring or assessment methods or previously adopted numerical criteria.
+(B) Whenever a State reviews water quality standards pursuant to paragraph (1) of this subsection, or revises or adopts new standards pursuant to this paragraph, such State shall adopt criteria for all toxic pollutants listed pursuant to section 1317(a)(1) of this title for which criteria have been published under section 1314(a) of this title, the discharge or presence of which in the affected waters could reasonably be expected to interfere with those designated uses adopted by the State, as necessary to support such designated uses. Such criteria shall be specific numerical criteria for such toxic pollutants. Where such numerical criteria are not available, whenever a State reviews water quality standards pursuant to paragraph (1), or revises or adopts new standards pursuant to this paragraph, such State shall adopt criteria based on biological monitoring or assessment methods consistent with information published pursuantto section 1314(a)(8) of this title. Nothing in this section shall be construed to limit or delay the use of effluent limitations or other permit conditions based on or involving biological monitoring or assessment methods or previously adopted numerical criteria.
 
 (3) If the Administrator, within sixty days after the date of submission of the revised or new standard, determines that such standard meets the requirements of this chapter, such standard shall thereafter be the water quality standard for the applicable waters of that State. If the Administrator determines that any such revised or new standard is not consistent with the applicable requirements of this chapter, he shall not later than the ninetieth day after the date of submission of such standard notify the State and specify the changes to meet such requirements. If such changes are not adopted by the State within ninety days after the date of notification, the Administrator shall promulgate such standard pursuant to paragraph (4) of this subsection.
 
@@ -46,7 +46,7 @@
 
 (B) Each State shall identify those waters or parts thereof within its boundaries for which controls on thermal discharges under section 1311 of this title are not stringent enough to assure protection and propagation of a balanced indigenous population of shellfish, fish, and wildlife.
 
-(C) Each State shall establish for the waters identified in paragraph (1)(A) of this subsection,and in accordance with the priority ranking, the total maximum daily load, for those pollutants which the Administrator identifies under section 1314(a)(2) of this title as suitable for such calculation. Such load shall be established at a level necessary to implement the applicable water quality standards with seasonal variations and a margin of safety which takes into account any lack of knowledge concerning the relationship between effluent limitations and water quality.
+(C) Each State shall establish for the waters identified in paragraph (1)(A) of this subsection, and in accordance with the priority ranking, the total maximum daily load, for those pollutants which the Administrator identifies under section 1314(a)(2) of this title as suitable for such calculation. Such load shall be established at a level necessary to implement the applicable water quality standards with seasonal variations and a margin of safety which takes into account any lack of knowledge concerning the relationship between effluent limitations and water quality.
 
 (D) Each State shall estimate for the waters identified in paragraph (1)(B) of this subsection the total maximum daily thermal load required to assure protection and propagation of a balanced, indigenous population of shellfish, fish, and wildlife. Such estimates shall take into account the normal water temperatures, flow rates, seasonal variations, existing sources of heat input, and the dissipative capacity of the identified waters or parts thereof. Such estimates shall include a calculation of the maximum heat input that can be made into each such part and shall include a margin of safety which takes into account any lack of knowledge concerning the development of thermal water quality criteria for such protection and propagation in the identified waters or parts thereof.
 
@@ -84,7 +84,7 @@ Standard attained.—For waters identified under paragraph (1)(A) where the qual
 
 &emsp;(E) adequate authority for intergovernmental cooperation;
 
-&emsp;(F) adequate implementation, including schedules of compliance, for revised or newwater quality standards, under subsection (c) of this section;
+&emsp;(F) adequate implementation, including schedules of compliance, for revised or new water quality standards, under subsection (c) of this section;
 
 &emsp;(G) controls over the disposition of all residual waste from any water treatment processing;
 
@@ -122,7 +122,7 @@ For the purposes of this chapter the term “water quality standards” includes
 
 #### (B) Exception
 
-&emsp;&emsp;If the Administrator proposes regulations for a State described in subparagraph (A) under subsection (c)(4)(B) of this section, the Administrator shall publish any revised or new standard under this subsection not later than 42 months after October 10, 2000.
+&emsp;&emsp;If the Administrator proposes regulations for a State described in subparagraph (A) under subsection (c)(4)(B) of this section, the Administrator shall publish any revised ornew standard under this subsection not later than 42 months after October 10, 2000.
 
 #### (3) Applicability
 
@@ -144,5 +144,5 @@ Subsec. (d)(4). Pub. L. 100–4, §404(b), added par. (4).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1252, 1284, 1285, 1288, 1311, 1313a, 1314, 1319, 1326, 1329, 1341, 1342, 1362, 1377, 1383, 1384 of this title; title 16 section 1455b; title 42 section 9621.
+This section is referred to in sections 1252, 1284, 1285, 1288, 1311, 1313a, 1314, 1319, 1326, 1329, 1341, 1342, 1362, 1375, 1377, 1383, 1384 of this title; title 16 section 1455b; title 42 section 9621.
 

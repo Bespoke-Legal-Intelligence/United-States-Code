@@ -18,7 +18,7 @@
 
 #### (3) Initial steps by United States Government to seek remedies
 
-&emsp;During the period between a notification pursuant to paragraph (2) and the filing of a claim covered by the notification in the United States Court of Federal Claims, the United States National Authority shall pursue all diplomatic and other remedies that the United States National Authority considers necessary and appropriate to seek redress for the claim including, but not limited to, the remedies provided for in the Convention and under this chapter.
+&emsp;During the period between a notification pursuant to paragraph (2) and the filing of aclaim covered by the notification in the United States Court of Federal Claims, the United States National Authority shall pursue all diplomatic and other remedies that the United States National Authority considers necessary and appropriate to seek redress for the claim including, but not limited to, the remedies provided for in the Convention and under this chapter.
 
 #### (4) Burden of proof
 
@@ -54,7 +54,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (3) Actions brought by individuals and businesses
 
-&emsp;Notwithstanding any other law, any national of the United States, or any business entity organized and operating under the laws of the United States, may bring a civil action in a United States District Court for money damages against any foreign national or any business entity organized and operating under the laws of a foreign nation for an unauthorized or unlawful acquisition, receipt, transmission, or use of property by or on behalf of such foreign national or business entity as a result of any tort under the Constitution orany Federal or State law arising from acts or omissions by any officer or employee of the United States or any member of an inspection team of the Technical Secretariat taken pursuant to or under the color of the Convention or this chapter.
+&emsp;Notwithstanding any other law, any national of the United States, or any business entity organized and operating under the laws of the United States, may bring a civil action in a United States District Court for money damages against any foreign national or any business entity organized and operating under the laws of a foreign nation for an unauthorized or unlawful acquisition, receipt, transmission, or use of property by or on behalf of such foreign national or business entity as a result of any tort under the Constitution or any Federal or State law arising from acts or omissions by any officer or employee of the United States or any member of an inspection team of the Technical Secretariat taken pursuant to or under the color of the Convention or this chapter.
 
 #### (e) Recoupment
 
@@ -120,7 +120,7 @@ In any action under subsection (a) or (b) of this section, the United States may
 
 #### (iii) Denial of assistance
 
-&emsp;&emsp;&emsp;No appropriated funds may be used for the purpose of providing economic assistance, providing military assistance or grant military education and training, orextending military credits or making guarantees to a country described in subparagraph (A).
+&emsp;&emsp;&emsp;No appropriated funds may be used for the purpose of providing economic assistance, providing military assistance or grant military education and training, or extending military credits or making guarantees to a country described in subparagraph (A).
 
 #### (iv) Sanctions under Export Administration Act of 1979
 
@@ -206,5 +206,5 @@ The Foreign Assistance Act of 1961, referred to in subsec. (e)(3)(B)(vi), is Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6744 of this title.
+This section is referred to in section 6744 of this title; title 6 section 236.
 

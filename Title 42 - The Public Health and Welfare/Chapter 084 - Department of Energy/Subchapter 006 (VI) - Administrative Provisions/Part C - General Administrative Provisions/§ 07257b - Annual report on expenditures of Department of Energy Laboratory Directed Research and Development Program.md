@@ -14,7 +14,7 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 
 #### Amendments
 
-1997—Par. (1). Pub. L. 105–85 substituted “Not later than February 1 each year, the Secretary of Energyshall submit” for “The Secretary of Energy shall annually submit”.
+1997—Par. (1). Pub. L. 105–85 substituted “Not later than February 1 each year, the Secretary of Energy shall submit” for “The Secretary of Energy shall annually submit”.
 
 #### “Congressional Defense Committees” defined
 

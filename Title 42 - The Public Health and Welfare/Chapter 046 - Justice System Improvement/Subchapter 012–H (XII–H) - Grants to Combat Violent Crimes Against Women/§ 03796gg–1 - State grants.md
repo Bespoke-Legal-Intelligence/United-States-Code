@@ -80,7 +80,7 @@ The application requirements provided in section 3763 <sup>1</sup> of this titl
 
 #### (f) Federal share
 
-The Federal share of a grant made under this subchapter <sup>1</sup> may not exceed 75 percent of the total costs of the projects described in the application submitted.
+The Federal share of a grant made under this subchapter <sup>1</sup> may not exceed 75 percent of thetotal costs of the projects described in the application submitted.
 
 #### (g) Indian tribes
 
@@ -106,7 +106,7 @@ Funds appropriated by the Congress for the activities of any agency of an Indian
 
 &emsp;&emsp;(C) a report under paragraph (1) or accompanying assessments demonstrate to the Attorney General that the program is ineffective or financially unsound.
 
-(Pub. L. 90–351, title I, §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496.)
+(Pub. L. 90–351, title I, §2007, formerly §2002, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1911; amended Pub. L. 106–386, div. B, title I, §§1102(a)(2), 1103(b)(2), Oct. 28, 2000, 114 Stat. 1494, 1496; renumbered §2007 and amended Pub. L. 107–273, div. A, title IV, §402(1), (2), Nov. 2, 2002, 116 Stat. 1789.)
 
 #### References in Text
 
@@ -114,7 +114,15 @@ This subchapter, referred to in subsecs. (c)(4), the second place it appears, an
 
 Section 3763 of this title, referred to in subsecs. (d) and (e)(1)(B), was in the original “section 513”, and was translated as reading “section 517”, meaning section 517 of title I of Pub. L. 90–351, to reflect the probable intent of Congress. Pub. L. 90–351 does not contain a section 513, but section 3763 of this title was section 513 of Pub. L. 90–351 prior to renumbering as section 517 by Pub. L. 101–647, title XVIII, §1801(a)(6), Nov. 29, 1990, 104 Stat. 4847.
 
+#### Codification
+
+Amendment by section 402(2) of Pub. L. 107–273, which directed the renumbering of sections 2002 to 2006 of Pub. L. 90–351 as sections 2006 to 2011 of that act, was executed by renumbering sections 2002 to 2006 as sections 2007 to 2011 of that act, respectively, to reflect the probable intent of Congress.
+
 #### Amendments
+
+2002—Subsec. (d)(2). Pub. L. 107–273, §402(1)(A), made technical amendment to reference in original act which appears in text as reference to section 3796gg–4 of this title.
+
+Subsec. (d)(3). Pub. L. 107–273, §402(1)(B), made technical amendment to reference in original act which appears in text as reference to section 3796gg–5 of this title.
 
 2000—Subsec. (a). Pub. L. 106–386, §1102(a)(2)(A), inserted “State and local courts (including juvenile courts),” after “for use by States,”.
 
@@ -129,6 +137,10 @@ Subsec. (b)(6). Pub. L. 106–386, §1103(b)(2)(A), redesignated par. (3) as (6)
 Subsec. (c)(3). Pub. L. 106–386, §1102(a)(2)(B), added par. (3) and struck out former par. (3) which read as follows: “at least 25 percent of the amount granted shall be allocated, without duplication, to each of the following 3 areas: prosecution, law enforcement, and victim services; and”.
 
 Subsec. (d)(1). Pub. L. 106–386, §1102(a)(2)(C), inserted “court,” after “law enforcement,” in introductory provisions.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–273 effective 90 days after Nov. 2, 2002, see section 403 of Pub. L. 107–273, set out as an Effective Date note under section 3796gg–0 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

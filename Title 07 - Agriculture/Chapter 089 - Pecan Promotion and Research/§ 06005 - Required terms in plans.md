@@ -310,11 +310,11 @@ The Board shall not engage in any action to, nor shall any funds received by the
 
 #### (i) Use of assessments
 
-The plan shall provide that the assessments collected under section 6007 of this title shall beused for payment of the expenses in implementing and administering this chapter, with provision for a reasonable reserve, and to cover those administrative costs incurred by the Secretary in implementing and administering this chapter, except for the salaries of Government employees incurred in conducting referenda.
+The plan shall provide that the assessments collected under section 6007 of this title shall be used for payment of the expenses in implementing and administering this chapter, with provision for a reasonable reserve, and to cover those administrative costs incurred by the Secretary in implementing and administering this chapter, except for the salaries of Government employees incurred in conducting referenda.
 
 #### (j) Other terms and conditions
 
-The plan also shall contain such terms and conditions, not inconsistent with this chapter, as determined necessary by the Secretary to effectuate this chapter.
+The plan also shall contain such terms and conditions, not inconsistent with this chapter,as determined necessary by the Secretary to effectuate this chapter.
 
 (Pub. L. 101–624, title XIX, §1910, Nov. 28, 1990, 104 Stat. 3841; Pub. L. 102–237, title VIII, §802(2), Dec. 13, 1991, 105 Stat. 1882.)
 

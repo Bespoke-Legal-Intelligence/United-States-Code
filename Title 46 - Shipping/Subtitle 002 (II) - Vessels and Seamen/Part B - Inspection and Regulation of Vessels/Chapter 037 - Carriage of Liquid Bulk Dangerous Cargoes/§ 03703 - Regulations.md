@@ -80,7 +80,7 @@ Report.—Not later than 18 months after the date of enactment of this Act \[Oct
 
 &emsp;“(5)
 
-Rulemaking.—If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oil from a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
+Rulemaking.—If the Secretary of Transportation determines, based on the results of the study under this subsection, that there are significant risks to public health or the environment resulting from the actual or threatened discharge of group-5 fuel oilfrom a vessel or facility that cannot be technologically or economically addressed by existing or anticipated cleanup efforts, the Secretary may initiate a rulemaking to take such action as is necessary to abate the threat.
 
 “(b)
 
@@ -158,7 +158,7 @@ Use.—Not later than 1 year after the date of the enactment of this Act \[Aug. 
 
 &emsp;“(2) tank level or pressure monitoring devices,
 
-> which are referred to in subsection (a) and which meet the standards established by the Secretary under subsection (a), on vessels constructed or adapted to carry, or that carry, oil in bulk as cargo or cargo residue on the navigable waters and the waters of the exclusive economic zone.”
+> which are referred to in subsection (a) and which meet the standards established by the Secretary under subsection (a), on vessels constructed or adapted to carry, or that carry, oil in bulk as cargo or cargo residue onthe navigable waters and the waters of the exclusive economic zone.”
 
 #### Tanker Navigation Safety Standards Study
 

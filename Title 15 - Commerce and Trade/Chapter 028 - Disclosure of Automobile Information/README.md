@@ -16,8 +16,6 @@
 
 This chapter is referred to in title 18 section 2721.
 
-<i><sup>1</sup></i><i> So in original. Should be “cannot”.</i>
-
 
 ---
 

@@ -1,14 +1,14 @@
 ### §8439. Accounting and information
 
-(a)(1) The Executive Director shall establish and maintain an account for each individual who makes contributions or for whom contributions are made under section 8432 of this title or who makes contributions to the Thrift Savings Fund under section 8351 of this title.
+(a)(1) The Executive Director shall establish and maintain an account for each individual who makes contributions or for whom contributions are made under section 8432 of this title or who makes contributions to the Thrift Savings Fund.
 
 (2) The balance in an individual's account at any time is the excess of—
 
 &emsp;(A) the sum of—
 
-&emsp;&emsp;(i) all contributions made to the Thrift Savings Fund by the individual under section 8432(a) or 8351 of this title;
+&emsp;&emsp;(i) all contributions made to the Thrift Savings Fund by the individual;
 
-&emsp;&emsp;(ii) all contributions made to such Fund for the benefit of the individual under section 8432(c) of this title; and
+&emsp;&emsp;(ii) all contributions made to such Fund for the benefit of the individual; and
 
 &emsp;&emsp;(iii) the total amount of the allocations made to and reductions made in the account pursuant to paragraph (3), over
 
@@ -34,23 +34,21 @@
 
 (d) Each employee, Member, former employee, or former Member who elects to invest in the Common Stock Index Investment Fund, the Fixed Income Investment Fund, the International Stock Index Investment Fund, or the Small Capitalization Stock Index Investment Fund, defined in paragraphs (1), (3), (5), and (10), respectively, of section 8438(a) of this title shall sign an acknowledgement prescribed by the Executive Director which states that the employee, Member, former employee, or former Member understands that an investment in either such Fund is made at the employee's, Member's, former employee's, or former Member's risk, that the employee, Member, former employee, or former Member is not protected by the Government against any loss on such investment, and that a return on such investment is not guaranteed by the Government.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div.A, title I, §101(f) \[title VI, §659 \[title I, §103\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, §2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401.)
-
-#### Amendment of Subsection (a)(1), (2)
-
-<i>Pub. L. 106–65, div. A, title VI, §§661(a)(5), 663, Oct. 5, 1999, 113 Stat. 672, 673, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that effective 180 days after Oct. 30, 2000, unless postponed, subsection (a) of this section is amended as follows:</i>
-
-<i>(1) in paragraph (1), by striking “under section 8432(c)(1) of this title” and “under section 8351 of this title”;</i>
-
-<i>(2) in paragraph (2)(A)(i), by striking all after “individual” and inserting a semicolon; and</i>
-
-<i>(3) in paragraph (2)(A)(ii), by striking all after “individual” and inserting “; and”.</i>
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 555; amended Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title I, §103\]\],Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–373; Pub. L. 104–316, title I, §103(j), Oct. 19, 1996, 110 Stat. 3829; Pub. L. 106–65, div. A, title VI, §661(a)(5), Oct. 5, 1999, 113 Stat. 672; Pub. L. 106–361, §2(b)(4), (5), Oct. 27, 2000, 114 Stat. 1401.)
 
 #### Amendments
 
 2000—Subsec. (a)(1). Pub. L. 106–361, §2(b)(4), inserted “who makes contributions or” after “for each individual” and substituted “section 8432” for “section 8432(c)(1)”.
 
 Subsec. (c)(2). Pub. L. 106–361, §2(b)(5), inserted at end “Nothing in this paragraph shall be considered to limit the dissemination of information only to the times required under the preceding sentence.”
+
+1999—Subsec. (a)(1). Pub. L. 106–65, §661(a)(5)(A), in so far as it directed amendment of par. (1) by striking out “under section 8432(c)(1) of this title”, could not be executed because the words “under section 8432(c)(1) of this title” did not appear subsequent to amendment by Pub. L. 106–361, §2(b)(4). See 2000 Amendment note above.
+
+Pub. L. 106–65, §661(a)(5)(A), struck out “under section 8351 of this title” after “Thrift Savings Fund”.
+
+Subsec. (a)(2)(A)(i). Pub. L. 106–65, §661(a)(5)(B), struck out “under section 8432(a) or 8351 of this title” after “individual”.
+
+Subsec. (a)(2)(A)(ii). Pub. L. 106–65, §661(a)(5)(C), struck out “under section 8432(c) of this title” after “individual”.
 
 1996—Subsec. (b)(3). Pub. L. 104–316 struck out “and the Comptroller General of the United States” after “to the Board”.
 

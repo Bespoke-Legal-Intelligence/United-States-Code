@@ -12,7 +12,7 @@ In selecting agreements to be entered into under this subchapter, the Secretary 
 
 #### (b) Private entities
 
-An agreement entered into under this subchapter with a private entity shall require such security, or such other provisions as the Secretary determines necessary, to provide reasonable and adequate assurance of repayment of the financing extended to the private entity.
+An agreement entered into under this subchapter with a private entity shall require suchsecurity, or such other provisions as the Secretary determines necessary, to provide reasonable and adequate assurance of repayment of the financing extended to the private entity.
 
 #### (c) Agricultural market development plan
 
@@ -78,7 +78,7 @@ Pub. L. 95–88 struck out proviso prohibiting the financing by the Commodity Cr
 
 1966—Pub. L. 89–808 incorporated provisions formerly constituting subsec. (a)(2), and struck out other provisions of subsec. (a) and (a)(1) relating to availability of stocks acquired in price support operations and ocean freight charges, such charges now covered by section 1708 of this title, and subsec. (b) for letters of commitment against funds or guaranties and establishment of accounts.
 
-1964—Subsec. (a). Pub. L. 88–638 authorized Commodity Credit Corporation to finance ocean freight charges incurred under agreements entered into after Dec. 31, 1964, to extent such charges are higher because of requirement that commodities be shipped in United States flag vessels, and provided that such agreements require balance of such charges to be paid in dollars.
+1964—Subsec. (a). Pub. L. 88–638 authorized Commodity Credit Corporation to finance ocean freight chargesincurred under agreements entered into after Dec. 31, 1964, to extent such charges are higher because of requirement that commodities be shipped in United States flag vessels, and provided that such agreements require balance of such charges to be paid in dollars.
 
 1955—Subsec. (a). Act Apr. 25, 1955, struck out requirement that exporters of privately owned stocks acquire an equivalent quantity of Commodity Credit Corporation stocks.
 

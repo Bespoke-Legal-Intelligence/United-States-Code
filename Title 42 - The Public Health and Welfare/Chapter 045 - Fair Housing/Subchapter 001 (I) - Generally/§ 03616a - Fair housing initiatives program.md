@@ -36,7 +36,7 @@ The Secretary of Housing and Urban Development (in this section referred to as t
 
 #### (2) Capacity enhancement
 
-&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in thoseareas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contracts or cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
+&emsp;The Secretary shall use funds made available under this section to help establish, organize, and build the capacity of fair housing enforcement organizations, particularly in those areas of the country which are currently underserved by fair housing enforcement organizations as well as those areas where large concentrations of protected classes exist. For purposes of meeting the objectives of this paragraph, the Secretary may enter into contractsor cooperative agreements with qualified fair housing enforcement organizations. The Secretary shall establish annual goals which reflect the national need for private fair housing enforcement organizations.
 
 #### (d) Education and outreach
 

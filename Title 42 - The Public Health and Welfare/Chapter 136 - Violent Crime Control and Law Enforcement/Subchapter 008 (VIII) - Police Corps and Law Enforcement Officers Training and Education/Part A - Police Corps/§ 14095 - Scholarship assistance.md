@@ -6,13 +6,13 @@
 
 (2)(A) Except as provided in subparagraph (B), each scholarship payment made under this section for each academic year shall not exceed—
 
-&emsp;(i) $7,500; or
+&emsp;(i) $10,000; or
 
 &emsp;(ii) the cost of the educational expenses related to attending an institution of higher education.
 
-(B) In the case of a participant who is pursuing a course of educational study during substantially an entire calendar year, the amount of scholarship payments made during such year shall not exceed $10,000.
+(B) In the case of a participant who is pursuing a course of educational study during substantially an entire calendar year, the amount of scholarship payments made during such year shall not exceed $13,333.
 
-(C) The total amount of scholarship assistance received by any one student under this section shall not exceed $30,000.
+(C) The total amount of scholarship assistance received by any one student under this section shall not exceed $40,000.
 
 (3) Recipients of scholarship assistance under this section shall continue to receive such scholarship payments only during such periods as the Director finds that the recipient is maintaining satisfactory progress as determined by the institution of higher education the recipient is attending.
 
@@ -26,13 +26,13 @@
 
 (2)(A) Each payment made pursuant to paragraph (1) for each academic year of study shall not exceed—
 
-&emsp;(i) $7,500; or
+&emsp;(i) $10,000; or
 
 &emsp;(ii) the cost of educational expenses related to attending an institution of higher education.
 
-(B) In the case of a participant who is pursuing a course of educational study during substantially an entire calendar year, the amount of scholarship payments made during such year shall not exceed $10,000.
+(B) In the case of a participant who is pursuing a course of educational study during substantially an entire calendar year, the amount of scholarship payments made during such year shall not exceed $13,333.
 
-(C) The total amount of payments made pursuant to subparagraph (A) to any 1 student shall not exceed $30,000.
+(C) The total amount of payments made pursuant to subparagraph (A) to any 1 student shall not exceed $40,000.
 
 #### (c) Use of scholarship
 
@@ -86,7 +86,11 @@ A dependent child of a law enforcement officer—
 
 Each participant desiring a scholarship or payment under this section shall submit an application as prescribed by the Director in such manner and accompanied by such information as the Director may reasonably require.
 
-(Pub. L. 103–322, title XX, §200106, Sept. 13, 1994, 108 Stat. 2050.)
+(Pub. L. 103–322, title XX, §200106, Sept. 13, 1994, 108 Stat. 2050; Pub. L. 107–273, div. C, title I, §11006(1), Nov. 2, 2002, 116 Stat. 1817.)
+
+#### Amendments
+
+2002—Subsecs. (a)(2), (b)(2). Pub. L. 107–273 substituted “$10,000” for “$7,500” in subpar. (A)(i), “$13,333” for “$10,000” in subpar. (B), and “$40,000” for “$30,000” in subpar. (C).
 
 #### Section Referred to in Other Sections
 

@@ -36,7 +36,7 @@ Section 5116(e) raises from $2,000 to $10,000 the maximum penalty for the altera
 
 1990—Subsec. (d). Pub. L. 101–380, §4302(d)(1), substituted “commits a class A misdemeanor” for “shall be fined not more than $10,000, imprisoned for not more than one year, or both”.
 
-Subsec. (e). Pub. L. 101–380, §4302(d)(2), substituted “commits a class A misdemeanor” for “shall be fined not more than $10,000, imprisoned for not more than 2 years, or both”.
+Subsec. (e). Pub. L. 101–380, §4302(d)(2), substituted “commits a class A misdemeanor” for “shall be finednot more than $10,000, imprisoned for not more than 2 years, or both”.
 
 #### Effective Date of 1990 Amendment
 

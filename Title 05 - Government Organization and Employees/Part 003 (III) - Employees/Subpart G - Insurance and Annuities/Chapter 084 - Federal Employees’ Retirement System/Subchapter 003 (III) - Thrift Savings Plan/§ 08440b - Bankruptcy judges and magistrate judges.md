@@ -24,11 +24,11 @@
 
 (8) Notwithstanding paragraph (4), if any bankruptcy judge or magistrate <sup>2</sup> retires under circumstances making such bankruptcy judge or magistrate <sup>2</sup> eligible to make an election under subsection (b) of section 8433, and such bankruptcy judge's or magistrate judge's nonforfeitable account balance is less than an amount that the Executive Director prescribes by regulation, the Executive Director shall pay the nonforfeitable account balance to the participant in a single payment.
 
-(Added Pub. L. 100–659, §7(a), Nov. 15, 1988, 102 Stat. 3919, §8440a; renumbered §8440b and amended Pub. L. 101–335, §§3(b)(3), 6(b)(3), 9(a), July 17, 1990, 104 Stat. 320, 324, 326; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–226, §9(f), Mar. 30, 1994, 108 Stat. 120; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(b)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377; Pub. L. 106–554, §1(a)(4) \[div. B,title I, §138(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233.)
+(Added Pub. L. 100–659, §7(a), Nov. 15, 1988, 102 Stat. 3919, §8440a; renumbered §8440b and amended Pub. L. 101–335, §§3(b)(3), 6(b)(3), 9(a), July 17, 1990, 104 Stat. 320, 324, 326; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–226, §9(f), Mar. 30, 1994, 108 Stat. 120; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §205(b)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–377; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(3)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–233.)
 
 #### References in Text
 
-Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsecs. (a)(1) and (b)(4), is section 2(c) of Pub. L. 100–659, which is set out as a note under section 377 of Title 28, Judiciary and Judicial Procedure.
+Section 2(c) of the Retirement and Survivors’ Annuities for Bankruptcy Judges and Magistrates Act of 1988, referred to in subsecs. (a)(1) and (b)(4), is section2(c) of Pub. L. 100–659, which is set out as a note under section 377 of Title 28, Judiciary and Judicial Procedure.
 
 #### Codification
 

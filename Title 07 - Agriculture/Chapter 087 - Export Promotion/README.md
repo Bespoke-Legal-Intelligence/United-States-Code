@@ -11,9 +11,13 @@
 | (b) | Purpose of strategy. |
 | (c) | Goals of strategy. |
 | (d) | Priority markets. |
+| [5603a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005603a%20-%20Global%20market%20strategy.md) | Global market strategy. |
+| (a) | In general. |
+| (b) | Review. |
 | [5604\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005604%20-%20Preservation%20of%20traditional%20markets.md) | Preservation of traditional markets. |
 | [5605\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005605%20-%20Independence%20of%20authorities.md) | Independence of authorities. |
 | [5606\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005606%20-%20Implementation%20of%20commitments%20under%20Uruguay%20Round%20Agreements.md) | Implementation of commitments under Uruguay Round Agreements. |
+| [5607\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2005607%20-%20Exporter%20assistance%20initiative.md) | Exporter assistance initiative. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -42,6 +46,7 @@
 | (i) | Ineligibility of financial institutions. |
 | (j) | Conditions for fish and processed fish products. |
 | (k) | Processed and high-value products. |
+| (<i>l</i>) | Consultation on agricultural export credit programs. |
 | [5623\.](Subchapter%20002%20%28II%29%20-%20Agricultural%20Export%20Programs/Part%20A%20-%20Programs/%C2%A7%2005623%20-%20Market%20access%20program.md) | Market access program. |
 | (a) | In general. |
 | (b) | Type of assistance. |
@@ -158,6 +163,16 @@
 | (g) | Criteria for qualification. |
 | (h) | Board. |
 | (i) | Funding. |
+| [5679\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2005679%20-%20Biotechnology%20and%20agricultural%20trade%20program.md) | Biotechnology and agricultural trade program. |
+| (a) | Establishment. |
+| (b) | Purpose. |
+| (c) | Eligible programs. |
+| (d) | Funding. |
+| [5680\.](Subchapter%20004%20%28IV%29%20-%20General%20Provisions/Part%20B%20-%20Miscellaneous%20Provisions/%C2%A7%2005680%20-%20Technical%20assistance%20for%20specialty%20crops.md) | Technical assistance for specialty crops. |
+| (a) | Establishment. |
+| (b) | Purpose. |
+| (c) | Priority. |
+| (d) | Funding. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -199,13 +214,16 @@
 | [5722\.](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/%C2%A7%2005722%20-%20Foreign%20market%20development%20cooperator%20program.md) | Foreign market development cooperator program. |
 | (a) | In general. |
 | (b) | Administration. |
-| [5723\.](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/%C2%A7%2005723%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (c) | Report to Congress. |
+| [5723\.](Subchapter%20007%20%28VII%29%20-%20Foreign%20Market%20Development%20Cooperator%20Program/%C2%A7%2005723%20-%20Funding.md) | Funding. |
+| (a) | In general. |
+| (b) | Program priorities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Codification
 
-The Agricultural Trade Act of 1978, comprising this chapter, was originally enacted as Pub. L. 95–501, Oct. 21, 1978, 92 Stat. 1685, which enacted sections 1707b to 1707d, 1765a to 1765h, 1769, and 2211a of this title, amended sections 1707a, 1761, 1762, 1764, 1765, and 1766b of this title and section 5314 of Title 5, Government Organization and Employees, redesignated sections 1762(d), (f), and 1763 as sections 1766a to 1766c of this title, and enacted provisions set out as notes under sections 612c–3, 1761, and 2211a of this title and section 2431 of Title 19,Customs Duties. The Act is shown herein, however, as having been added by Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3668, because of the extensive amendments, renumbering, reorganization of subject matter, and expansion of the basic Act's provisions by Pub. L. 101–624.
+The Agricultural Trade Act of 1978, comprising this chapter, was originally enacted as Pub. L. 95–501, Oct. 21, 1978, 92 Stat. 1685, which enacted sections 1707b to 1707d, 1765a to 1765h, 1769, and 2211a of this title, amended sections 1707a, 1761, 1762, 1764, 1765, and 1766b of this title and section 5314 of Title 5, Government Organization and Employees, redesignated sections 1762(d), (f), and 1763 as sections 1766a to 1766c of this title, and enacted provisions set out as notes under sections 612c–3, 1761, and 2211a of this title and section 2431 of Title 19, Customs Duties. The Act is shown herein, however, as having been added by Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3668, because of the extensive amendments, renumbering, reorganization of subject matter, and expansion of the basic Act's provisions by Pub. L. 101–624.
 
 #### Chapter Referred to in Other Sections
 

@@ -60,7 +60,7 @@
 
 #### (5) Reports
 
-&emsp;If the Commissioner issues a report detailing the findings of an annual review or onsitemonitoring conducted under this section, the report shall be made available to the State Rehabilitation Council, if the State has such a Council, for use in the development and modification of the State plan described in section 721 of this title.
+&emsp;If the Commissioner issues a report detailing the findings of an annual review or onsite monitoring conducted under this section, the report shall be made available to the State Rehabilitation Council, if the State has such a Council, for use in the development and modification of the State plan described in section 721 of this title.
 
 #### (b) Technical assistance
 
@@ -98,7 +98,7 @@ The Commissioner shall—
 
 #### (2) Submissions and determinations
 
-&emsp;If, in an action under this subsection to review a final determination of the Commissioner under section 721(b) of this title or subsection (c) of this section, the petitioner or the Commissioner applies to the court for leave to have additional oral submissions or written presentations made respecting such determination, the court may, for good cause shown, order the Commissioner to provide within 30 days an additional opportunity to make such submissions and presentations. Within such period, the Commissioner may revise any findings of fact, modify or set aside the determination being reviewed, or make a new determination by reason of the additional submissions and presentations, and shall file such modified or new determination, and any revised findings of fact, with the return of such submissions and presentations. The court shall thereafter review such new or modified determination.
+&emsp;If, in an action under this subsection to review a final determination of the Commissioner under section 721(b) of this title or subsection (c) of this section, the petitioner or the Commissioner applies to the court for leave to have additional oral submissions or written presentations made respecting such determination, the court may, for good cause shown, order the Commissioner to provide within 30 days an additional opportunity to make such submissions and presentations. Within such period, the Commissioner may revise any findings of fact, modify or set aside the determination being reviewed, or make a new determination by reason of the additional submissions and presentations, and shall file such modified or new determination, and any revised findings of fact, with the return ofsuch submissions and presentations. The court shall thereafter review such new or modified determination.
 
 #### (3) Standards of review
 

@@ -34,7 +34,11 @@ Except as provided in section 3822 of this title and notwithstanding any other p
 
 This section shall not apply to a loan described in subsection (b) of this section made before December 23, 1985.
 
-(Pub. L. 99–198, title XII, §1221, Dec. 23, 1985, 99 Stat. 1507; Pub. L. 101–624, title XIV, §1421(b), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 102–237, title II, §204(3), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title III, §308(a), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–127, title III, §321, Apr. 4, 1996, 110 Stat. 986.)
+#### (e) Wetland
+
+The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
+
+(Pub. L. 99–198, title XII, §1221, Dec. 23, 1985, 99 Stat. 1507; Pub. L. 101–624, title XIV, §1421(b), Nov. 28, 1990, 104 Stat. 3572; Pub. L. 102–237, title II, §204(3), Dec. 13, 1991, 105 Stat. 1855; Pub. L. 102–552, title III, §308(a), Oct. 28, 1992, 106 Stat. 4116; Pub. L. 104–127, title III, §321, Apr. 4, 1996, 110 Stat. 986; Pub. L. 107–171, title II, §2002(b), May 13, 2002, 116 Stat. 233.)
 
 #### References in Text
 
@@ -45,6 +49,8 @@ The Commodity Credit Corporation Charter Act, referred to in subsec. (b)(1), is 
 The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(2), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–171 added subsec. (e).
 
 1996—Pub. L. 104–127, §321(a)(2), reenacted section catchline without change.
 
@@ -76,5 +82,5 @@ Section 326 of Pub. L. 104–127 provided that: “This subtitle \[subtitle C (�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3822, 3823, 3836 of this title; title 7 section 7251.
+This section is referred to in sections 3822, 3823 of this title; title 7 section 7251.
 

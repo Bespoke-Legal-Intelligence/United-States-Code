@@ -136,5 +136,5 @@ Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–4
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7121, 7701, 7703 of this title; title 3 section 454; title 31 section 753.
+This section is referred to in sections 7121, 7701, 7703 of this title; title 3 section 454; title 6 section 293; title 31 section 753; title 49 section 40122.
 

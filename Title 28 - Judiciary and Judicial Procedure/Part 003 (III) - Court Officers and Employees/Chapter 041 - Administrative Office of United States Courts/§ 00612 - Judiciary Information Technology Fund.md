@@ -14,7 +14,7 @@ Development of plan.—The Director shall develop and annually revise, with the 
 
 &emsp;(2)
 
-Expenditures consistent with plan.—The Director may use amounts in the Fund toprocure information technology resources for the activities funded under subsection (a) only in accordance with the plan developed under paragraph (1).
+Expenditures consistent with plan.—The Director may use amounts in the Fund to procure information technology resources for the activities funded under subsection (a) only in accordance with the plan developed under paragraph (1).
 
 (c)
 
@@ -36,7 +36,7 @@ Advances and reimbursements.—Whenever the Director procures information techno
 
 (d)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Fund for any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
+Authorization of Appropriations.—There are authorized to be appropriated to the Fundfor any fiscal year such sums as are required to supplement amounts deposited under subsection (c) in order to conduct activities under subsection (a).
 
 (e)
 
@@ -66,7 +66,7 @@ Cancellation costs of multiyear contract.—Any cancellation costs incurred with
 
 (f)
 
-Authority of Administrator of General Services.—Nothing in this section shall be construed to limit the authority of the Administrator of General Services under section 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481).
+Authority of Administrator of General Services.—Nothing in this section shall be construed to limit the authority of the Administrator of General Services under sections 501–505 of title 40.
 
 (g)
 
@@ -108,7 +108,7 @@ Long Range Management and Business Plans.—The Director of the Administrative O
 
 &emsp;(6) assess the current utilization and future user requirements of the data communications network.
 
-(Added Pub. L. 101–162, title IV, §404(b)(1), Nov. 21, 1989, 103 Stat. 1013; amended Pub. L. 103–420, §2, Oct. 25, 1994, 108 Stat. 4343; Pub. L. 104–106, div. E, title LVI, §5602, Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–208, div. A, title I, §101(a) \[title III, §305\], Sept. 30, 1996, 110 Stat. 3009, 3009–45; Pub. L. 105–85, div. A, title X, §1073(h)(2), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–119, title III, §304, Nov. 26, 1997, 111 Stat. 2491; Pub. L. 106–518, title I, §101, Nov. 13, 2000, 114 Stat. 2411.)
+(Added Pub. L. 101–162, title IV, §404(b)(1), Nov. 21, 1989, 103 Stat. 1013; amended Pub. L. 103–420, §2, Oct. 25, 1994, 108 Stat. 4343; Pub. L. 104–106, div. E, title LVI, §5602, Feb. 10, 1996, 110 Stat. 699; Pub. L. 104–208, div. A, title I, §101(a) \[title III, §305\], Sept. 30, 1996, 110 Stat. 3009, 3009–45; Pub. L. 105–85, div. A, title X, §1073(h)(2), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 105–119, title III, §304, Nov. 26, 1997, 111 Stat. 2491; Pub. L. 106–518, title I, §101, Nov. 13, 2000, 114 Stat. 2411; Pub. L. 107–217, §3(g)(2), Aug. 21, 2002, 116 Stat. 1299.)
 
 #### References in Text
 
@@ -122,7 +122,9 @@ Section 606 of Public Law 100–459, referred to in subsec. (h), is section 606 
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–518, §101(1), substituted “technology resources” for “technology equipment” wherever appearing.
+2002—Subsec. (f). Pub. L. 107–217 substituted “sections 501–505 of title 40” for “section 201 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481)”.
+
+2000—Pub. L. 106–518, §101(1), substituted “technology resources” for “technology equipment” wherever appearing.
 
 Subsec. (f). Pub. L. 106–518, §101(2), redesignated subsec. (g) as (f) and struck out former subsec. (f) which read as follows: “(f)
 
@@ -140,7 +142,7 @@ Subsec. (i). Pub. L. 106–518, §101(2), (4), redesignated subsec. (j) as (i) a
 
 Subsecs. (j), (k). Pub. L. 106–518, §101(2), redesignated subsecs. (j) and (k) as (i) and (j), respectively.
 
-<b>1997</b>—Subsec. (f). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
+1997—Subsec. (f). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
 Subsec. (<i>l</i>). Pub. L. 105–119 struck out subsec. (<i>l</i>) which read as follows:
 
@@ -148,7 +150,7 @@ Subsec. (<i>l</i>). Pub. L. 105–119 struck out subsec. (<i>l</i>) which read a
 
 Termination of Authority.—The Fund, and the authorities conferred by this section, terminate on September 30, 1998. All unobligated amounts remaining in the Fund on that date shall be deposited into the fund established under section 1931 of this title to be used to reimburse other appropriations.”
 
-<b>1996</b>—Pub. L. 104–106, §5602(b)(1), substituted “Information Technology Fund” for “Automation Fund” in section catchline.
+1996—Pub. L. 104–106, §5602(b)(1), substituted “Information Technology Fund” for “Automation Fund” in section catchline.
 
 Subsec. (a). Pub. L. 104–106, §5602(b)(3), substituted “information technology” for “automatic data processing” wherever appearing.
 
@@ -174,7 +176,7 @@ Definition.—For purposes of this section, the term ‘automatic data processin
 
 Subsec. (m). Pub. L. 104–106, §5602(a)(3), redesignated subsec. (m) as (<i>l</i>).
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–429, §2(1), inserted “program activities included in the courts of appeals, district courts, and other judicial services account of” after “equipment for” and substituted “, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their automatic data processing needs in accordance with subsections (b) and (c)(2)” for “and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment in the judicial branch”.
+1994—Subsec. (a). Pub. L. 103–429, §2(1), inserted “program activities included in the courts of appeals, district courts, and other judicial services account of” after “equipment for” and substituted “, support personnel in the courts and in the Administrative Office of the United States Courts, and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment purchased by the Fund. In addition, all agencies of the judiciary may make deposits into the Fund to meet their automatic data processing needs in accordance with subsections (b) and (c)(2)” for “and other costs, for the effective management, coordination, operation, and use of automatic data processing equipment in the judicial branch”.
 
 Subsec. (b)(1). Pub. L. 103–420, §2(2), substituted “activities funded under subsection (a) and shall include an annual estimate of any fees that may be collected under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)” for “judicial branch”.
 
@@ -182,7 +184,7 @@ Subsec. (b)(2). Pub. L. 103–420, §2(3), substituted “activities funded unde
 
 Subsec. (c)(1)(A). Pub. L. 103–420, §2(4), inserted “, all fees collected after the date of the enactment of the Judicial Amendments Act of 1994 by the judiciary under section 404 of the Judiciary Appropriations Act, 1991 (Public Law 101–515; 104 Stat. 2133)” after “surplus property”.
 
-Subsec. (e)(1). Pub. L. 103–420, §2(5), struck out “(A)” before “In fiscal year 1990” and substituted “amountsestimated to be collected under subsection (c) for that fiscal year” for “$75,000,000”.
+Subsec. (e)(1). Pub. L. 103–420, §2(5), struck out “(A)” before “In fiscal year 1990” and substituted “amounts estimated to be collected under subsection (c) for that fiscal year” for “$75,000,000”.
 
 Subsec. (h). Pub. L. 103–420, §2(6), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “
 
@@ -200,7 +202,7 @@ Subsec. (m). Pub. L. 103–420, §2(9), (10), redesignated subsec. (<i>l</i>) as
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, div. E, title LVII, Feb. 10, 1996, 110 Stat. 702.
 
 #### Termination of Reporting Requirements
 

@@ -10,7 +10,7 @@ As used in this part, the term “eligible State” means, with respect to a fis
 
 &emsp;&emsp;A written document that outlines how the State intends to do the following:
 
-&emsp;&emsp;&emsp;(i) Conduct a program, designed to serve all political subdivisions in the State (not necessarily in a uniform manner), that provides assistance to needy families with\(or expecting) children and provides parents with job preparation, work, and support services to enable them to leave the program and become self-sufficient.
+&emsp;&emsp;&emsp;(i) Conduct a program, designed to serve all political subdivisions in the State (not necessarily in a uniform manner), that provides assistance to needy families with (or expecting) children and provides parents with job preparation, work, and support services to enable them to leave the program and become self-sufficient.
 
 &emsp;&emsp;&emsp;(ii) Require a parent or caretaker receiving assistance under the program to engage in work (as defined by the State) once the State determines the parent or caretaker is ready to engage in work, or once the parent or caretaker has received assistance under the program for 24 months (whether or not consecutive), whichever is earlier, consistent with section 607(e)(2) of this title.
 
@@ -50,7 +50,7 @@ As used in this part, the term “eligible State” means, with respect to a fis
 
 #### (5) Certification that the State will provide Indians with equitable access to assistance
 
-&emsp;A certification by the chief executive officer of the State that, during the fiscal year, the State will provide each member of an Indian tribe, who is domiciled in the State and is not eligible for assistance under a tribal family assistance plan approved under section 612 of this title, with equitable access to assistance under the State program funded under this part attributable to funds provided by the Federal Government.
+&emsp;A certification by the chief executive officer of the State that, during the fiscal year, the State will provide each member of an Indian tribe, who is domiciled in the State and is not eligible for assistance under a tribal family assistance plan approved under section 612 of this title, with equitable access to assistance under the State program funded under thispart attributable to funds provided by the Federal Government.
 
 #### (6) Certification of standards and procedures to ensure against program fraud and abuse
 
@@ -60,7 +60,7 @@ As used in this part, the term “eligible State” means, with respect to a fis
 
 #### (A) In general
 
-&emsp;&emsp;At the option of the State, a certification by the chief executive officer of the Statethat the State has established and is enforcing standards and procedures to—
+&emsp;&emsp;At the option of the State, a certification by the chief executive officer of the State that the State has established and is enforcing standards and procedures to—
 
 &emsp;&emsp;&emsp;(i) screen and identify individuals receiving assistance under this part with a history of domestic violence while maintaining the confidentiality of such individuals;
 

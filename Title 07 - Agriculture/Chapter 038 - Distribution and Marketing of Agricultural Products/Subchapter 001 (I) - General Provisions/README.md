@@ -18,4 +18,4 @@
 - [&sect; 01629 - Establishment of committees to assist in research and service programs](%C2%A7%2001629%20-%20Establishment%20of%20committees%20to%20assist%20in%20research%20and%20service%20programs.md)
 - [&sect; 01630 - Omitted](%C2%A7%2001630%20-%20Omitted.md)
 - [&sect; 01631 - Protection for purchasers of farm products](%C2%A7%2001631%20-%20Protection%20for%20purchasers%20of%20farm%20products.md)
-- [&sect; 01632 - Market expansion research](%C2%A7%2001632%20-%20Market%20expansion%20research.md)
+- [&sect; 01632 - Repealed. Pub. L. 107&#8211;171, title VII, &sect;7303, May 13, 2002, 116 Stat. 455](%C2%A7%2001632%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VII%2C%20%C2%A77303%2C%20May%2013%2C%202002%2C%20116%20Stat.%20455.md)

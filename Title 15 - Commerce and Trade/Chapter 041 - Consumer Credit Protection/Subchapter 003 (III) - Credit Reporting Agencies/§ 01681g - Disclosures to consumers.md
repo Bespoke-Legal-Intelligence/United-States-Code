@@ -6,7 +6,7 @@ Every consumer reporting agency shall, upon request, and subject to section 1681
 
 (1) All information in the consumer's file at the time of the request, except that nothing in this paragraph shall be construed to require a consumer reporting agency to disclose to a consumer any information concerning credit scores or any other risk scores or predictors relating to the consumer.
 
-(2) The sources of the information; except that the sources of information acquired solely for use in preparing an investigative consumer report and actually used for no other purpose need not be disclosed: <i>Provided</i>, That in the event an action is brought under this subchapter, such sources shall be available to the plaintiff under appropriate discovery procedures in the court in which the action is brought.
+(2) The sources of the information; except that the sources of information acquired solely foruse in preparing an investigative consumer report and actually used for no other purpose need not be disclosed: <i>Provided</i>, That in the event an action is brought under this subchapter, such sources shall be available to the plaintiff under appropriate discovery procedures in the court in which the action is brought.
 
 (3)(A) Identification of each person (including each end-user identified under section 1681e(e)(1) of this title) that procured a consumer report—
 
@@ -94,7 +94,7 @@ Subsec. (c). Pub. L. 104–208, §2408(d)(1), added subsec. (c).
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 ofPub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
+Amendment by Pub. L. 105–347 deemed to have same effective date as amendments made by section 2403 of Pub. L. 104–208, see section 7 of Pub. L. 105–347, set out as a note under section 1681a of this title.
 
 #### Effective Date of 1996 Amendment
 

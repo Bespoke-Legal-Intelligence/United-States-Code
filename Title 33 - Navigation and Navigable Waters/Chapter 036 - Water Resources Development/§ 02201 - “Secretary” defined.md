@@ -10,7 +10,7 @@ This Act, referred to in text, is Pub. L. 99–662, Nov. 17, 1986, 100 Stat. 408
 
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–541, §1(a), Dec. 11, 2000, 114 Stat. 2572, provided that: “This Act \[see Tables for classification\]may be cited as the ‘Water Resources Development Act of 2000’.”
+Pub. L. 106–541, §1(a), Dec. 11, 2000, 114 Stat. 2572, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Water Resources Development Act of 2000’.”
 
 #### Short Title of 1999 Amendment
 
@@ -34,7 +34,7 @@ Pub. L. 100–676, §1(a), Nov. 17, 1988, 102 Stat. 4012, provided that: “This
 
 #### Short Title
 
-Section 1(a) of Pub. L. 99–662 provided that: “This Act \[enacting this chapter and sections 59n–1, 59v, 59w, 403b, 426n, 426<i>o</i>, 467f to 467n, 555a, 579a, 652, 701b–12, 709b, 988a, and 1414a of this title, sections 460tt of Title 16, Conservation, sections 4461, 4462, 9505, and 9506 of Title 26, Internal Revenue Code, section 483d of Title 40, Public Buildings, Property, and Works, and sections 1962d–11b and 1962d–20 of Title 42, The Public Health and Welfare, amending sections 409, 414, 415, 426g, 426i, 426j, 426m, 467, 467b, 555, 557, 603a, 610, 701a–1, 701g, 701n, 701r, 701s, 984, and 1804 of this title, section 3036 of Title 10, Armed Forces, sections 460ee and 1002 of Title 16, section 4042 of Title 26, sections 1962d–5a, 1962d–5b, 1962d–5d, 1962d–5f, and 1962d–16 of Title 42, sections 390 and 390b of Title 43, Public Lands, and section 1121–1 of Title 46, Appendix, Shipping, repealing sections 1801 and 1802 of this title, enacting provisions set out as notes under this section, sections 426, 426g, 467, 661, 984, 988, 1414a, and 2294 of this title, sections 460d and 1004 of Title 16, sections 1, 4042, 4461, 9505, and 9506 of Title 26, sections 1962d–5b, 1962d–20, and 10301 of Title 42, and section 390b of Title 43, and amending provisions set out as a note under section 1962b–3 of Title 42\] may be cited as the ‘Water Resources Development Act of 1986’.”
+Section 1(a) of Pub. L. 99–662 provided that: “This Act \[enacting this chapter and sections 59n–1, 59v, 59w, 403b, 426n, 426<i>o</i>, 467f to 467n, 555a, 579a, 652, 701b–12, 709b, 988a, and 1414a of this title, sections 460tt of Title 16, Conservation, sections 4461, 4462, 9505, and 9506 of Title 26, Internal Revenue Code, section 483d of former Title 40, Public Buildings, Property, and Works, and sections 1962d–11b and 1962d–20 of Title 42, The Public Health and Welfare, amending sections 409, 414, 415, 426g, 426i, 426j, 426m, 467, 467b, 555, 557, 603a, 610, 701a–1, 701g, 701n, 701r, 701s, 984, and 1804 of this title, section 3036 of Title 10, Armed Forces, sections 460ee and 1002 of Title 16, section 4042 of Title 26, sections 1962d–5a, 1962d–5b, 1962d–5d, 1962d–5f, and 1962d–16 of Title 42, sections 390 and 390b of Title 43, Public Lands, and section 1121–1 of Title 46, Appendix, Shipping, repealing sections 1801 and 1802 of this title, enacting provisions set out as notes under this section, sections 426, 426g, 467, 661, 984, 988, 1414a, and 2294 of this title, sections 460d and 1004 of Title 16, sections 1, 4042, 4461, 9505, and 9506 of Title 26, sections 1962d–5b, 1962d–20, and 10301 of Title 42, and section 390b of Title 43, and amending provisions set out as a note under section 1962b–3 of Title 42\] may be cited as the ‘Water Resources Development Act of 1986’.”
 
 Section 215 of title II of Pub. L. 99–662 provided that: “This title \[enacting subchapter II of this chapter\] may be cited as the ‘Harbor Development and Navigation Improvement Act of 1986’.”
 
@@ -98,7 +98,7 @@ Report.—Not later than 180 days after the date of enactment of this Act \[Aug.
 
 &emsp;“(2) a description of the benefits provided by streamlining water control management activities through consolidation of centers for those activities;
 
-&emsp;“(3) a determination whether the benefits to users of establishing regional water control managementcenters will be retained in each district office of the Corps of Engineers that does not have a regional center;
+&emsp;“(3) a determination whether the benefits to users of establishing regional water control management centers will be retained in each district office of the Corps of Engineers that does not have a regional center;
 
 &emsp;“(4) a determination whether users of regional centers will receive a higher level of benefits from streamlining water control management activities; and
 

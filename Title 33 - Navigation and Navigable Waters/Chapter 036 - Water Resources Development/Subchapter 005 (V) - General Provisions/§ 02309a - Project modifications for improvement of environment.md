@@ -2,7 +2,7 @@
 
 #### (a) Determination of need
 
-The Secretary is authorized to review water resources projects constructed by the Secretaryto determine the need for modifications in the structures and operations of such projects for the purpose of improving the quality of the environment in the public interest and to determine if the operation of such projects has contributed to the degradation of the quality of the environment.
+The Secretary is authorized to review water resources projects constructed by the Secretary to determine the need for modifications in the structures and operations of such projects for the purpose of improving the quality of the environment in the public interest and to determine if the operation of such projects has contributed to the degradation of the quality of the environment.
 
 #### (b) Authority to make modifications
 
@@ -78,7 +78,7 @@ Subsec. (e). Pub. L. 102–580, §202(2), substituted “$25,000,000” for “$
 
 1990—Subsec. (a). Pub. L. 101–640, §304(a), struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
 
-Subsec. (b). Pub. L. 101–640, §304(b), substituted “program” for “demonstration program in the 5-year periodbeginning on the date of enactment of this Act” and struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
+Subsec. (b). Pub. L. 101–640, §304(b), substituted “program” for “demonstration program in the 5-year period beginning on the date of enactment of this Act” and struck out “before the date of enactment of this Act” after “constructed by the Secretary”.
 
 Subsec. (d). Pub. L. 101–640, §304(c), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Not later than 5 years after the date of enactment of this Act, the Secretary shall transmit to Congress a report on the results of the review conducted under subsection (a) and on the demonstration program conducted under subsection (b). Such report shall contain any recommendations of the Secretary concerning modification and extension of such program.”
 

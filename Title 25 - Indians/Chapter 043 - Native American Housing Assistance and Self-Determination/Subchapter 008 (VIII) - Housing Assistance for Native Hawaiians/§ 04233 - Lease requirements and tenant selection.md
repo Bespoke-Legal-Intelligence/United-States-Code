@@ -16,7 +16,7 @@ Except to the extent otherwise provided by or inconsistent with the laws of the 
 
 &emsp;(6) provide that the Director, owner, or manager may terminate the tenancy of a resident for any activity, engaged in by the resident, any member of the household of the resident, or any guest or other person under the control of the resident, that—
 
-&emsp;&emsp;(A) threatens the health or safety of, or right to peaceful enjoyment of the premisesby, other residents or employees of the Department, owner, or manager;
+&emsp;&emsp;(A) threatens the health or safety of, or right to peaceful enjoyment of the premises by, other residents or employees of the Department, owner, or manager;
 
 &emsp;&emsp;(B) threatens the health or safety of, or right to peaceful enjoyment of their premises by, persons residing in the immediate vicinity of the premises; or
 
@@ -40,5 +40,5 @@ As a condition to receiving grant amounts under this subchapter, the Director sh
 
 #### Codification
 
-Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 814 of Pub. L. 104–330. This section is based on the text of section 814 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
+Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted identical sections 814 of Pub. L. 104–330. This section isbased on the text of section 814 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
 

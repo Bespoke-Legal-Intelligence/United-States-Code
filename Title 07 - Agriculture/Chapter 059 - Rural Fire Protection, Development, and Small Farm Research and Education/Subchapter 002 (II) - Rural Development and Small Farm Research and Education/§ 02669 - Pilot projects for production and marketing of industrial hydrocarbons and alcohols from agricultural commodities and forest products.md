@@ -18,7 +18,7 @@ In order to assure that the recipients of loans made under this section have a d
 
 #### (e) Commodity Credit Corporation stocks as supply sources; outside purchases
 
-The Secretary shall supply from Commodity Credit Corporation stocks or, to such extent or in such amounts as are provided in appropriation Acts, purchase such quantities of agricultural commodities as may be necessary to comply with the terms of agreements entered into under this section.
+The Secretary shall supply from Commodity Credit Corporation stocks or, to such extent orin such amounts as are provided in appropriation Acts, purchase such quantities of agricultural commodities as may be necessary to comply with the terms of agreements entered into under this section.
 
 #### (f) Commodity Credit Corporation
 

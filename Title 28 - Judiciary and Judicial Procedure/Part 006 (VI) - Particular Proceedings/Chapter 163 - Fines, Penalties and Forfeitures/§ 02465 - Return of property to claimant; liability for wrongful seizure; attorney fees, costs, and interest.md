@@ -50,7 +50,7 @@ The qualifying language of section 827 of title 28, U.S.C., 1940 ed., requiring 
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–185 amended section catchline and text generally. Prior to amendment, text read as follows: “Upon the entry of judgment for the claimant in any proceeding to condemn or forfeit property seized under any Act of Congress, such property shall be returned forthwith to the claimant or his agent; but if it appears that there was reasonable cause for the seizure, the court shall cause a proper certificate thereof to be entered and the claimant shall not, in such case, be entitled to costs, nor shall the person who made the seizure, nor the prosecutor, be liable to suit or judgment on account of such suit or prosecution.”
+2000—Pub. L. 106–185 amended section catchline and text generally. Prior to amendment, text read as follows: “Upon the entry of judgment for the claimant in any proceeding to condemn or forfeit property seized under any Act of Congress, such property shall be returned forthwith to the claimant or his agent; but if it appears that there was reasonable cause for the seizure, the court shall cause a proper certificate thereof to be entered and the claimant shall not, in such case, be entitled to costs, nor shall the person who made the seizure, nor the prosecutor, be liable to suit or judgment on account of such suit or prosecution.”
 
 #### Effective Date of 2000 Amendment
 

@@ -30,7 +30,7 @@ With respect to the trauma care component of a State plan for the provision of e
 
 &emsp;&emsp;(C) to identify the nature and severity of the injury;
 
-&emsp;&emsp;(D) to monitor trauma patient care (including prehospital care) in each designatedtrauma center within regional trauma care systems in the State (including relevant emergency-department discharges and rehabilitation information) for the purpose of evaluating the diagnosis, treatment and treatment outcome of such trauma patients;
+&emsp;&emsp;(D) to monitor trauma patient care (including prehospital care) in each designated trauma center within regional trauma care systems in the State (including relevant emergency-department discharges and rehabilitation information) for the purpose of evaluating the diagnosis, treatment and treatment outcome of such trauma patients;
 
 &emsp;&emsp;(E) to identify the total amount of uncompensated trauma care expenditures for each fiscal year by each designated trauma center in the State; and
 
@@ -86,7 +86,7 @@ Not later than 1 year after November 16, 1990, the Secretary shall develop a mod
 
 #### (d) Rule of construction with respect to number of designated trauma centers
 
-With respect to compliance with subsection (a) of this section as a condition of the receipt of a grant under section 300d–11(a) of this title, such subsection may not be construed to specify the number of trauma care centers designated pursuant to such subsection.
+With respect to compliance with subsection (a) of this section as a condition of the receipt of a grant under section 300d–11(a) of this title, such subsection may not be construed to specify thenumber of trauma care centers designated pursuant to such subsection.
 
 (July 1, 1944, ch. 373, title XII, §1213, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2920; amended Pub. L. 103–183, title VI, §601(f)(3), Dec. 14, 1993, 107 Stat. 2239; Pub. L. 105–392, title IV, §401(b)(4), Nov. 13, 1998, 112 Stat. 3587.)
 
@@ -102,7 +102,7 @@ Subsec. (a)(10). Pub. L. 103–183, §601(f)(3)(C), substituted “conducts” f
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183,see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
+Amendment by Pub. L. 105–392 deemed to have taken effect immediately after enactment of Pub. L. 103–183, see section 401(e) of Pub. L. 105–392, set out as a note under section 242m of this title.
 
 #### Section Referred to in Other Sections
 

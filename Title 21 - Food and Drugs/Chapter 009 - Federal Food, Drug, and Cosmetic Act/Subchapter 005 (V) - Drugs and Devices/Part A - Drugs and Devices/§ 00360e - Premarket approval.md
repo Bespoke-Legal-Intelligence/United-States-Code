@@ -8,7 +8,7 @@ A class III device—
 
 &emsp;(2) which is a class III device because of section 360c(f) of this title,
 
-> is required to have, unless exempt under section 360j(g) of this title, an approval under this section of an application for premarket approval.
+> is required to have, unless exempt under section 360j(g) of this title, an approval under this section of an application for premarket approval or, as applicable, an approval under subsection (c)(2) of this section of a report seeking premarket approval.
 
 #### (b) Regulation to require premarket approval
 
@@ -32,7 +32,7 @@ A class III device—
 
 (B) If, within fifteen days after publication of a notice under subparagraph (A), the Secretary receives a request for a change in the classification of a device, he shall, within sixty days of the publication of such notice and after consultation with the appropriate panel under section 360c of this title, by order published in the Federal Register, either deny the request for change in classification or give notice of his intent to initiate such a change under section 360c(e) of this title.
 
-(3) After the expiration of the period for comment on a proposed regulation and proposedfindings published under paragraph (2) and after consideration of comments submitted on such proposed regulation and findings, the Secretary shall (A) promulgate such regulation and publish in the Federal Register findings on the matters referred to in paragraph (2)(A)(ii), or (B) publish a notice terminating the proceeding for the promulgation of the regulation together with the reasons for such termination. If a notice of termination is published, the Secretary shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
+(3) After the expiration of the period for comment on a proposed regulation and proposed findings published under paragraph (2) and after consideration of comments submitted on such proposed regulation and findings, the Secretary shall (A) promulgate such regulation and publish in the Federal Register findings on the matters referred to in paragraph (2)(A)(ii), or (B) publish a notice terminating the proceeding for the promulgation of the regulation together with the reasons for such termination. If a notice of termination is published, the Secretary shall (unless such notice is issued because the device is a banned device under section 360f of this title) initiate a proceeding under section 360c(e) of this title to reclassify the device subject to the proceeding terminated by such notice.
 
 (4) The Secretary, upon his own initiative or upon petition of an interested person, may by regulation amend or revoke any regulation promulgated under this subsection. A regulation to amend or revoke a regulation under this subsection shall be promulgated in accordance with the requirements prescribed by this subsection for the promulgation of the regulation to be amended or revoked.
 
@@ -54,13 +54,55 @@ A class III device—
 
 &emsp;(G) such other information relevant to the subject matter of the application as the Secretary, with the concurrence of the appropriate panel under section 360c of this title, may require.
 
-(2) Upon receipt of an application meeting the requirements set forth in paragraph (1), the Secretary—
+(2)(A) Any person may file with the Secretary a report seeking premarket approval for a class III device referred to in subsection (a) of this section that is a reprocessed single-use device. Such a report shall contain the following:
+
+&emsp;(i) The device name, including both the trade or proprietary name and the common or usual name.
+
+&emsp;(ii) The establishment registration number of the owner or operator submitting the report.
+
+&emsp;(iii) Actions taken to comply with performance standards under section 360d of this title.
+
+&emsp;(iv) Proposed labels, labeling, and advertising sufficient to describe the device, its intended use, and directions for use.
+
+&emsp;(v) Full reports of all information, published or known to or which should be reasonably known to the applicant, concerning investigations which have been made to show whether or not the device is safe or effective.
+
+&emsp;(vi) A description of the device's components, ingredients, and properties.
+
+&emsp;(vii) A full description of the methods used in, and the facilities and controls used for, the reprocessing and packing of the device.
+
+&emsp;(viii) Such samples of the device that the Secretary may reasonably require.
+
+&emsp;(ix) A financial certification or disclosure statement or both, as required by part 54 of title 21, Code of Federal Regulations.
+
+&emsp;(x) A statement that the applicant believes to the best of the applicant's knowledge that all data and information submitted to the Secretary are truthful and accurate and that no material fact has been omitted in the report.
+
+&emsp;(xi) Any additional data and information, including information of the type required in paragraph (1) for an application under such paragraph, that the Secretary determines is necessary to determine whether there is reasonable assurance of safety and effectiveness for the reprocessed device.
+
+&emsp;(xii) Validation data described in section 360(<i>o</i>)(1)(A) of this title that demonstrates that the reasonable assurance of the safety or effectiveness of the device will remain after the maximum number of times the device is reprocessed as intended by the person submitting such report.
+
+(B) In the case of a class III device referred to in subsection (a) of this section that is a reprocessed single-use device:
+
+&emsp;(i) Subparagraph (A) of this paragraph applies in lieu of paragraph (1).
+
+&emsp;(ii) Subject to clause (i), the provisions of this section apply to a report under subparagraph (A) to the same extent and in the same manner as such provisions apply to an application under paragraph (1).
+
+&emsp;(iii) Each reference in other sections of this chapter to an application under this section, other than such a reference in section 379i or 379j of this title, shall be considered to be a reference to a report under subparagraph (A).
+
+&emsp;(iv) Each reference in other sections of this chapter to a device for which an application under this section has been approved, or has been denied, suspended, or withdrawn, other than such a reference in section 379i or 379j of this title, shall be considered to be a reference to a device for which a report under subparagraph (A) has been approved, or has been denied, suspended, or withdrawn, respectively.
+
+(3) <sup>1</sup> Upon receipt of an application meeting the requirements set forth in paragraph (1), the Secretary—
 
 &emsp;(A) may on the Secretary's own initiative, or
 
 &emsp;(B) shall, upon the request of an applicant unless the Secretary finds that the information in the application which would be reviewed by a panel substantially duplicates information which has previously been reviewed by a panel appointed under section 360c of this title,
 
-> refer such application to the appropriate panel under section 360c of this title for study and for submission (within such period as he may establish) of a report and recommendation respecting approval of the application, together with all underlying data and the reasons or basis for the recommendation.
+> refer such application to the appropriate panel under section 360c of this title for study and for submission (within such period as he may establish) of a report and recommendation respecting approval of the application, together with all underlying data and the reasons or basis for the recommendation. Where appropriate, the Secretary shall ensure that such panel includes, or consults with, one or more pediatric experts.
+
+(3)(A) <sup>1</sup> Prior to the submission of an application under this subsection, the Secretary shall accept and review any portion of the application that the applicant and the Secretary agree is complete, ready, and appropriate for review, except that such requirement does not apply, and the Secretary has discretion whether to accept and review such portion, during any period in which, under section 379j(g) of this title, the Secretary does not have the authority to collect fees under section 379j(a) of this title.
+
+(B) Each portion of a submission reviewed under subparagraph (A) and found acceptable by the Secretary shall not be further reviewed after receipt of an application that satisfies the requirements of paragraph (1), unless an issue of safety or effectiveness provides the Secretary reason to review such accepted portion.
+
+(C) Whenever the Secretary determines that a portion of a submission under subparagraph (A) is unacceptable, the Secretary shall, in writing, provide to the applicant a description of any deficiencies in such portion and identify the information that is required to correct these deficiencies, unless the applicant is no longer pursuing the application.
 
 #### (d) Action on application for premarket approval
 
@@ -176,7 +218,7 @@ A class III device—
 
 &emsp;&emsp;(ii) a description of the preclinical trials (if any) of the device and a specification of (I) the results from such trials to be required before the commencement of clinical trials of the device, and (II) any permissible variations in preclinical trials and the results therefrom,
 
-&emsp;&emsp;(iii) a description of the clinical trials (if any) of the device and a specification of (I)the results from such trials to be required before the filing of a notice of completion of the requirements of the protocol, and (II) any permissible variations in such trials and the results therefrom,
+&emsp;&emsp;(iii) a description of the clinical trials (if any) of the device and a specification of (I) the results from such trials to be required before the filing of a notice of completion of the requirements of the protocol, and (II) any permissible variations in such trials and the results therefrom,
 
 &emsp;&emsp;(iv) a description of the methods to be used in, and the facilities and controls to be used for, the manufacture, processing, and, when relevant, packing and installation of the device,
 
@@ -190,7 +232,7 @@ A class III device—
 
 (4) The Secretary shall approve or disapprove a proposed product development protocol submitted under paragraph (2) within one hundred and twenty days of its receipt unless an additional period is agreed upon by the Secretary and the person who submitted the protocol. Approval of a protocol or denial of approval of a protocol is final agency action subject to judicial review under chapter 7 of title 5.
 
-(5) At any time after a product development protocol for a device has been approved pursuant to paragraph (4), the person for whom the protocol was approved may submit a notice of completion—
+(5) At any time after a product development protocol for a device has been approved pursuantto paragraph (4), the person for whom the protocol was approved may submit a notice of completion—
 
 &emsp;(A) stating (i) his determination that the requirements of the protocol have been fulfilled and that, to the best of his knowledge, there is no reason bearing on safety or effectiveness why the notice of completion should not become effective, and (ii) the data and other information upon which such determination was made, and
 
@@ -226,7 +268,7 @@ A class III device—
 
 &emsp;(B) an order under subsection (f)(6)(A) of this section revoking an approved protocol, under subsection (f)(6)(B) of this section declaring that an approved protocol has not been completed, or under subsection (f)(7) of this section revoking the approval of a device,
 
-> the Secretary shall, unless he finds the petition to be without good cause or unless a petition for review of such order has been submitted underparagraph (2), hold a hearing, in accordance with section 554 of title 5, on the order. The panel or panels which considered the application, protocol, or device subject to such order shall designate a member to appear and testify at any such hearing upon request of the Secretary, the petitioner, or the officer conducting the hearing, but this requirement does not preclude any other member of the panel or panels from appearing and testifying at any such hearing. Upon completion of such hearing and after considering the record established in such hearing, the Secretary shall issue an order either affirming the order subject to the hearing or reversing such order and, as appropriate, approving or denying approval of the application, reinstating the application's approval, approving the protocol, or placing in effect a notice of completion.
+> the Secretary shall, unless he finds the petition to be without good cause or unless a petition for review of such order has been submitted under paragraph (2), hold a hearing, in accordance with section 554 of title 5, on the order. The panel or panels which considered the application, protocol, or device subject to such order shall designate a member to appear and testify at any such hearing upon request of the Secretary, the petitioner, or the officer conducting the hearing, but this requirement does not preclude any other member of the panel or panels from appearing and testifying at any such hearing. Upon completion of such hearing and after considering the record established in such hearing, the Secretary shall issue an order either affirming the order subject to the hearing or reversing such order and, as appropriate, approving or denying approval of the application, reinstating the application's approval, approving the protocol, or placing in effect a notice of completion.
 
 (2)(A) Upon petition for review of—
 
@@ -234,7 +276,7 @@ A class III device—
 
 &emsp;(ii) an order under subsection (f)(6)(A) of this section revoking an approved protocol, under subsection (f)(6)(B) of this section declaring that an approved protocol has not been completed, or under subsection (f)(7) of this section revoking the approval of a device,
 
-> the Secretary shall refer the application or protocol subject to the order and the basis for the order to an advisory committee of experts established pursuant to subparagraph (B) for a report and recommendation with respect to the order. The advisory committee shall, after independent study of the data and information furnished to it by the Secretary and other data and information before it, submit to the Secretary a report and recommendation, together with all underlying data and information and a statement of the reasons or basis for the recommendation. A copy of such report shall be promptly supplied by the Secretary to any person who petitioned for such referral to the advisory committee.
+> the Secretary shall refer the application or protocol subject to the order and the basis for the order to an advisory committee of experts established pursuant to subparagraph (B) for a report and recommendation with respect to the order. The advisory committee shall, after independentstudy of the data and information furnished to it by the Secretary and other data and information before it, submit to the Secretary a report and recommendation, together with all underlying data and information and a statement of the reasons or basis for the recommendation. A copy of such report shall be promptly supplied by the Secretary to any person who petitioned for such referral to the advisory committee.
 
 (B) The Secretary shall establish advisory committees (which may not be panels under section 360c of this title) to receive referrals under subparagraph (A). The Secretary shall appoint as members of any such advisory committee persons qualified in the subject matter to be referred to the committee and of appropriately diversified professional backgrounds, except that the Secretary may not appoint to such a committee any individual who is in the regular full-time employ of the United States and engaged in the administration of this chapter. Members of an advisory committee (other than officers or employees of the United States), while attending conferences or meetings of their committee or otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, which rates may not exceed the daily equivalent for grade GS–18 of the General Schedule for each day (including traveltime) they are so engaged; and while so serving away from their homes or regular places of business each member may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently. The Secretary shall designate the chairman of an advisory committee from its members. The Secretary shall furnish each advisory committee with clerical and other assistance, and shall by regulation prescribe the procedures to be followed by each such committee in acting on referrals made under subparagraph (A).
 
@@ -254,13 +296,23 @@ Orders of the Secretary under this section shall be served (1) in person by any 
 
 &emsp;(B) for which no final regulation has been promulgated under subsection (b) of this section,
 
-> revising the classification of the device so that the device is classified into class I or class II, unless the regulation requires the device to remain in class III. In determining whether to revise the classification of a device or to require a device to remain in class III, the Secretary shall apply the criteria set forth in section 360c(a) of this title. Before the publication of a regulation requiring a device to remain in class III or revising its classification, the Secretary shall publish a proposed regulation respecting the classification of a device under this paragraph and provide reasonable opportunity for the submission of comments on any such regulation. No regulation requiring a device to remain in class III or revising its classification may take effect beforethe expiration of 90 days from the date of its publication in the Federal Register as a proposed regulation.
+> revising the classification of the device so that the device is classified into class I or class II, unless the regulation requires the device to remain in class III. In determining whether to revise the classification of a device or to require a device to remain in class III, the Secretary shall apply the criteria set forth in section 360c(a) of this title. Before the publication of a regulation requiring a device to remain in class III or revising its classification, the Secretary shall publish a proposed regulation respecting the classification of a device under this paragraph and provide reasonable opportunity for the submission of comments on any such regulation. No regulation requiring a device to remain in class III or revising its classification may take effect before the expiration of 90 days from the date of its publication in the Federal Register as a proposed regulation.
 
 (3) The Secretary shall, as promptly as is reasonably achievable, but not later than 12 months after the effective date of the regulation requiring a device to remain in class III, establish a schedule for the promulgation of a subsection (b) of this section regulation for each device which is subject to the regulation requiring the device to remain in class III.
 
-(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349.)
+(June 25, 1938, ch. 675, §515, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 552; amended Pub. L. 101–629, §§4(b)(1), 9(a), 18(c), Nov. 28, 1990, 104 Stat. 4515, 4521, 4528; Pub. L. 103–80, §3(t), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§201(b), 202, 205(c), 209(b), 216(b), Nov. 21, 1997, 111 Stat. 2334, 2338, 2341, 2349; Pub. L. 107–250, title II, §§209, 210, title III, §302(c), Oct. 26, 2002, 116 Stat. 1613, 1614, 1618.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–250, §302(c)(1), inserted “or, as applicable, an approval under subsection (c)(2) of this section of a report seeking premarket approval” before period in concluding provisions.
+
+Subsec. (c)(2). Pub. L. 107–250, §302(c)(2)(B), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (c)(3). Pub. L. 107–250, §302(c)(2)(A), redesignated par. (2) relating to Secretary's referral of application to appropriate panel as (3).
+
+Pub. L. 107–250, §210, which directed amendment of subsec. (c), as amended by section 302(c)(2)(A) of Pub. L. 107–250, by adding at the end of par. (3) “Where appropriate, the Secretary shall ensure that such panel includes, or consults with, one or more pediatric experts.”, was executed by inserting the language at the end of the concluding provisions of par. (3) relating to Secretary's referral of application to appropriate panel, to reflect the probable intent of Congress.
+
+Pub. L. 107–250, §209, added par. (3) relating to acceptance and review of any portion of the application prior to submission.
 
 1997—Subsec. (d)(1)(A). Pub. L. 105–115, §205(c)(1), inserted at end “In making the determination whether to approve or deny the application, the Secretary shall rely on the conditions of use included in the proposed labeling as the basis for determining whether or not there is a reasonable assurance of safety and effectiveness, if the proposed labeling is neither false nor misleading. In determining whether or not such labeling is false or misleading, the Secretary shall fairly evaluate all material facts pertinent to the proposed labeling.”
 
@@ -292,11 +344,17 @@ Amendment by Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as 
 
 Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, and advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Report on Certain Devices
+
+Pub. L. 107–250, title II, §205, Oct. 26, 2002, 116 Stat. 1612, provided that: “Not later than one year after the date of enactment of this Act \[Oct. 26, 2002\], the Secretary of Health and Human Services shall report to the appropriate committees of Congress on the timeliness and effectiveness of device premarket reviews by centers other than the Center for Devices and Radiological Health. Such report shall include information on the times required to log in and review original submissions and supplements, times required to review manufacturers’ replies to submissions, and times to approve or clear such devices. Such report shall contain the Secretary's recommendations on any measures needed to improve performance including, but not limited to, the allocation of additional resources. Such report also shall include the Secretary's specific recommendation on whether responsibility for regulating such devices should be reassigned to those persons within the Food and Drug Administration who are primarily charged with regulating other types of devices, and whether such a transfer could have a deleterious impact on the public health and on the safety of such devices.”
+
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 331, 351, 353, 360, 360c, 360g, 360j, 360aaa, 360bbb–1, 381, 382, 1604 of this title; title 35 section 156.
+This section is referred to in sections 331, 351, 353, 356–1, 360, 360c, 360g, 360j, 360aaa, 360bbb–1, 374, 379i, 379j, 381, 382, 1604 of this title; title 35 section 156; title 42 section 1395<i>l</i>.
+
+<i><sup>1</sup></i><i> So in original. Two pars. (3) have been enacted.</i>
 

@@ -94,6 +94,10 @@ In subsection (c)(3)(D), the words “corporations and others” are omitted as 
 
 In subsection (d)(1), the words “Not later than September 18, 1989” and “final” are omitted as obsolete. The words “Administrator of Drug Enforcement” are substituted for “Drug Enforcement Administration of the Department of Justice” because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092).
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Drug Enforcement Status and Progress; Reports to Congress; Definitions
 
 Pub. L. 100–690, title VII, §7207(d), (e), Nov. 18, 1988, 102 Stat. 4428, provided that:

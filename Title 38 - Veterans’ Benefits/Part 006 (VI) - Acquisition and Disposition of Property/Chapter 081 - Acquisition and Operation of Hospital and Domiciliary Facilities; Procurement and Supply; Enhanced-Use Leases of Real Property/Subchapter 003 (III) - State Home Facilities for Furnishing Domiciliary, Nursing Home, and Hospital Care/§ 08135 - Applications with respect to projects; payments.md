@@ -16,7 +16,7 @@
 
 &emsp;(7) Reasonable assurance that the State will make such reports in such form and containing such information as the Secretary may from time to time reasonably require, and give the Secretary, upon demand, access to the records upon which such information is based.
 
-&emsp;(8) Reasonable assurance that the rates of pay for laborers and mechanics engaged in construction of the project will be not less than the prevailing local wage rates for similar work as determined in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) (known as the Davis-Bacon Act).
+&emsp;(8) Reasonable assurance that the rates of pay for laborers and mechanics engaged in construction of the project will be not less than the prevailing local wage rates for similar work as determined in accordance with sections 3141–3144, 3146, and 3147 of title 40.
 
 &emsp;(9) In the case of a project for acquisition of a facility, reasonable assurance that the estimated total cost of acquisition of the facility and of any expansion, remodeling, and alteration of the acquired facility will not be greater than the estimated cost of construction of an equivalent new facility.
 
@@ -40,7 +40,7 @@
 
 (2) Subject to paragraphs (3) and (5)(C) of this subsection, the Secretary shall accord priority to applications in the following order:
 
-&emsp;(A) An application from a State that has made sufficient funds available for the project for which the grant is requested so that such project may proceed upon approval of the grant without further action required by the State to make such funds available for such purpose.
+&emsp;(A) An application from a State that has made sufficient funds available for the projectfor which the grant is requested so that such project may proceed upon approval of the grant without further action required by the State to make such funds available for such purpose.
 
 &emsp;(B) An application from a State for a project at an existing facility to remedy a condition or conditions that have been cited by an accrediting institution, by the Secretary, or by a local licensing or approving body of the State as being threatening to the lives or safety of the patients in the facility.
 
@@ -66,7 +66,7 @@
 
 (5)(A) The Secretary shall defer approval of an application that otherwise meets the requirements of this section if the State submitting the application does not, by the July 1 deadline (as defined in subparagraph (D) of this paragraph), demonstrate to the satisfaction of the Secretary that the State has provided adequate financial support for construction of the project.
 
-(B) In a case in which approval of an application is deferred under subparagraph (A) of this paragraph, the Secretary shall select for awardof a grant or grants under this subsection an application or applications which would not have been approved during the fiscal year but for the deferral and to which the Secretary accords the highest priority under paragraph (2) of this subsection.
+(B) In a case in which approval of an application is deferred under subparagraph (A) of this paragraph, the Secretary shall select for award of a grant or grants under this subsection an application or applications which would not have been approved during the fiscal year but for the deferral and to which the Secretary accords the highest priority under paragraph (2) of this subsection.
 
 (C) An application deferred in accordance with the requirements of this paragraph shall be accorded priority in any subsequent fiscal year ahead of applications that had not been approved before the first day of the fiscal year in which the deferred application was first approved.
 
@@ -86,13 +86,11 @@
 
 (f) Any amendment of any application, whether or not approved, shall be subject to approval in the same manner as an original application.
 
-(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5035; amended Pub. L. 89–311, §7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(e), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §§206(b), 210(e)(10), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 95–62, §3(7)–(12), July 5, 1977, 91 Stat. 262, 263; Pub. L. 97–295, §4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, §105(3), Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §205, Dec. 3, 1985, 99 Stat. 953; Pub. L. 99–576, title II, §224(b), (c), Oct. 28, 1986, 100 Stat. 3262, 3263; Pub. L. 100–322, title II, §206, May 20, 1988, 102 Stat. 513; renumbered §8135 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(7), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §§403(a), 404(a), Nov. 4, 1992, 106 Stat. 4954; Pub. L. 103–446, title XII, §1201(d)(18), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–262, title III, §342(b)(3), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title II, §207(b), Nov. 30, 1999, 113 Stat. 1565.)
-
-#### References in Text
-
-Act of March 3, 1931, referred to in subsec. (a)(8), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+(Added Pub. L. 88–450, §4(a), Aug. 19, 1964, 78 Stat. 502, §5035; amended Pub. L. 89–311, §7(a), Oct. 31, 1965, 79 Stat. 1157; Pub. L. 93–82, title IV, §403(e), Aug. 2, 1973, 87 Stat. 196; Pub. L. 94–581, title II, §§206(b), 210(e)(10), Oct. 21, 1976, 90 Stat. 2859, 2865; Pub. L. 95–62, §3(7)–(12), July 5, 1977, 91 Stat. 262, 263; Pub. L. 97–295, §4(92), Oct. 12, 1982, 96 Stat. 1313; Pub. L. 98–528, title I, §105(3), Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §205, Dec. 3, 1985, 99 Stat. 953; Pub. L. 99–576, title II, §224(b), (c), Oct. 28, 1986, 100 Stat. 3262, 3263; Pub. L. 100–322, title II, §206, May 20, 1988, 102 Stat. 513; renumbered §8135 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–54, §14(f)(7), June 13, 1991, 105 Stat. 288; Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 102–585, title IV, §§403(a), 404(a), Nov. 4, 1992, 106 Stat. 4954; Pub. L. 103–446, title XII, §1201(d)(18), Nov. 2, 1994, 108 Stat. 4684; Pub. L. 104–262, title III, §342(b)(3), Oct. 9, 1996, 110 Stat. 3206; Pub. L. 106–117, title II, §207(b), Nov. 30, 1999, 113 Stat. 1565; Pub. L. 107–217, §3(j)(4), Aug. 21, 2002, 116 Stat. 1300.)
 
 #### Amendments
+
+2002—Subsec. (a)(8). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) (known as the Davis-Bacon Act)”.
 
 1999—Subsec. (a). Pub. L. 106–117, §207(b)(1), in introductory provisions, substituted “set forth the following:” for “set forth—”, in pars. (1) to (7), capitalized the first letter of the first word and substituted a period for the comma at the end, in par. (8), capitalized the first letter of the first word and substituted a period for “, and” at the end, and in par. (9), capitalized the first letter of the first word.
 
@@ -108,7 +106,7 @@ Subsec. (c)(2)(B) to (H). Pub. L. 106–117, §207(b)(4)(B)(ii), added subpars. 
 
 “(B) An application from a State that does not have a State home facility constructed or acquired with assistance under this subchapter (or for which such a grant has been made).
 
-“(C) An application from a State which the Secretary determines, in accordance with criteria and proceduresspecified in regulations which the Secretary shall prescribe, has a greater need for nursing home or domiciliary beds or adult day health care facilities than other States from which applications are received.
+“(C) An application from a State which the Secretary determines, in accordance with criteria and procedures specified in regulations which the Secretary shall prescribe, has a greater need for nursing home or domiciliary beds or adult day health care facilities than other States from which applications are received.
 
 “(D) An application that meets such other criteria as the Secretary determines are appropriate and has established in regulations.”
 

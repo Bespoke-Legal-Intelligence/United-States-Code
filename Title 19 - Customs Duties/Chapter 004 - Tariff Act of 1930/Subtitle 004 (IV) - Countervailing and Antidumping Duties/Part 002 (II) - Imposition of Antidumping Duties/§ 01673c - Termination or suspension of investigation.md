@@ -6,7 +6,7 @@
 
 #### (A) Withdrawal of petition
 
-&emsp;&emsp;Except as provided in paragraphs (2) and (3), an investigation under this part may beterminated by either the administering authority or the Commission, after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner or by the administering authority if the investigation was initiated under section 1673a(a) of this title.
+&emsp;&emsp;Except as provided in paragraphs (2) and (3), an investigation under this part may be terminated by either the administering authority or the Commission, after notice to all parties to the investigation, upon withdrawal of the petition by the petitioner or by the administering authority if the investigation was initiated under section 1673a(a) of this title.
 
 #### (B) Refiling of petition
 
@@ -124,7 +124,7 @@ Before an investigation may be suspended under subsection (b) or (c) of this sec
 
 #### (B) Other agreements
 
-&emsp;&emsp;If the agreement accepted by the administering authority is an agreement described in subsection (c) of this section, the liquidation of entries of the subject merchandise shall be suspended under section 1673b(d)(2) of this title, or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3) of this section, but the security required under section 1673b(d)(1)(B) of this title may be adjusted to reflect the effect of the agreement.
+&emsp;&emsp;If the agreement accepted by the administering authority is an agreement describedin subsection (c) of this section, the liquidation of entries of the subject merchandise shall be suspended under section 1673b(d)(2) of this title, or, if the liquidation of entries of such merchandise was suspended pursuant to a previous affirmative preliminary determination in the same case, that suspension of liquidation shall continue in effect, subject to subsection (h)(3) of this section, but the security required under section 1673b(d)(1)(B) of this title may be adjusted to reflect the effect of the agreement.
 
 #### (3) Where investigation is continued
 
@@ -286,11 +286,15 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, andto reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+Amendment by Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b) of Pub. L. 100–418, set out as a note under section 1671 of this title.
 
 #### Effective Date of 1984 Amendment
 
 Amendment by section 604(b) of Pub. L. 98–573 effective Oct. 30, 1984, and amendment by section 612(b)(2) of Pub. L. 98–573 applicable with respect to investigations initiated by petition or by the administering authority under parts I and II of this subtitle, and to reviews begun under section 1675 of this title, on or after Oct. 30, 1984, see section 626(a), (b)(1) of Pub. L. 98–573, as amended, set out as a note under section 1671 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

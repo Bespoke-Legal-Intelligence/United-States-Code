@@ -224,7 +224,7 @@
 
 &emsp;&emsp;&emsp;(i) sets forth an employment goal for the individual and a plan for moving the individual immediately into private sector employment;
 
-&emsp;&emsp;&emsp;(ii) sets forth the obligations of the individual, which may include a requirement that the individual attend school, maintain certain grades and attendance, keep school age children of the individual in school, immunize children, attend parenting and money management classes, or do other things that will help the individual become and remain employed in the private sector;
+&emsp;&emsp;&emsp;(ii) sets forth the obligations of the individual, which may include a requirementthat the individual attend school, maintain certain grades and attendance, keep school age children of the individual in school, immunize children, attend parenting and money management classes, or do other things that will help the individual become and remain employed in the private sector;
 
 &emsp;&emsp;&emsp;(iii) to the greatest extent possible is designed to move the individual into whatever private sector employment the individual is capable of handling as quickly as possible, and to increase the responsibility and amount of work the individual is to handle over time;
 
@@ -242,7 +242,7 @@
 
 #### (3) Penalty for noncompliance by individual
 
-&emsp;In addition to any other penalties required under the State program funded under this part, the State may reduce, by such amount as the State considers appropriate, the amount ofassistance otherwise payable under the State program to a family that includes an individual who fails without good cause to comply with an individual responsibility plan signed by the individual.
+&emsp;In addition to any other penalties required under the State program funded under this part, the State may reduce, by such amount as the State considers appropriate, the amount of assistance otherwise payable under the State program to a family that includes an individual who fails without good cause to comply with an individual responsibility plan signed by the individual.
 
 #### (4) State discretion
 
@@ -298,7 +298,7 @@ The following rules shall apply if a State elects to take the income or resource
 
 #### (C) Sponsors of multiple non-213A aliens
 
-&emsp;&emsp;If a person is a sponsor of 2 or more non-213A aliens who are living in the same home, the income and resources of the sponsor and any spouse of the sponsor that would be deemed income and resources of any such alien under subparagraph (A) shall be divided into a number of equal shares equal to the number of such aliens, and the State shall deem the income and resources of each such alien to include 1 such share.
+&emsp;&emsp;If a person is a sponsor of 2 or more non-213A aliens who are living in the same home,the income and resources of the sponsor and any spouse of the sponsor that would be deemed income and resources of any such alien under subparagraph (A) shall be divided into a number of equal shares equal to the number of such aliens, and the State shall deem the income and resources of each such alien to include 1 such share.
 
 #### (2) Ineligibility of non-213A aliens sponsored by agencies; exception
 
@@ -362,7 +362,7 @@ Title IV of the Personal Responsibility and Work Opportunity Reconciliation Act 
 
 A prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added Dec. 19, 1989, Pub. L. 101–239, title VIII, §8004(a), 103 Stat. 2454; amended Oct. 31, 1994, Pub. L. 103–432, title II, §265(a), 108 Stat. 4469, related to AFDC quality control system, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
-Another prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added May 8, 1961, Pub. L. 87–31, §2, 75 Stat. 76; amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(D), 104(a)(3)(F), (G), 131(b), 135(a)–(d), 155(a), 76 Stat. 180, 185, 193, 196, 197, 207; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(e)(4), 205(c), 81 Stat. 880, 892; June 17, 1980, Pub. L. 96–272, title I, §§101(a)(5)(A), 102(b), 94 Stat. 513, 515, related to payment to States for foster home care of dependent children, prior to repeal by Pub. L. 96–272, title I, §101(a)(2), June 17, 1980, 94 Stat. 512, effective, with certain exceptions, to expenditures made after Sept. 30, 1980.
+Another prior section 608, act Aug. 14, 1935, ch. 531, title IV, §408, as added May 8, 1961, Pub. L. 87–31, §2, 75 Stat. 76; amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(D), 104(a)(3)(F), (G), 131(b), 135(a)–(d), 155(a), 76 Stat. 180, 185, 193, 196, 197, 207; Jan. 2, 1968, Pub. L. 90–248, title II, §§201(e)(4), 205(c), 81 Stat. 880, 892; June 17, 1980, Pub. L. 96–272, title I, §§101(a)(5)(A), 102(b), 94Stat. 513, 515, related to payment to States for foster home care of dependent children, prior to repeal by Pub. L. 96–272, title I, §101(a)(2), June 17, 1980, 94 Stat. 512, effective, with certain exceptions, to expenditures made after Sept. 30, 1980.
 
 #### Amendments
 
@@ -386,7 +386,7 @@ Subsec. (a)(5)(A)(ii). Pub. L. 105–33, §5505(c), made technical correction to
 
 Subsec. (a)(7)(C)(ii). Pub. L. 105–33, §5505(d)(1), substituted “The average monthly number” for “The number” and inserted “during the fiscal year or the immediately preceding fiscal year (but not both), as the State may elect” before period at end.
 
-Subsec. (a)(7)(D). Pub. L. 105–33, §5505(d)(2), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “In determining the number of months for which an adult has received assistance under the State program funded under thispart, the State shall disregard any month during which the adult lived on an Indian reservation or in an Alaskan Native village if, during the month—
+Subsec. (a)(7)(D). Pub. L. 105–33, §5505(d)(2), amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “In determining the number of months for which an adult has received assistance under the State program funded under this part, the State shall disregard any month during which the adult lived on an Indian reservation or in an Alaskan Native village if, during the month—
 
 &emsp;“(i) at least 1,000 individuals were living on the reservation or in the village; and
 
@@ -429,6 +429,10 @@ Section 5581(a) of Pub. L. 105–33 provided that the amendment made by that sec
 #### Effective Date
 
 Section effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as a note under section 601 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Section Referred to in Other Sections
 

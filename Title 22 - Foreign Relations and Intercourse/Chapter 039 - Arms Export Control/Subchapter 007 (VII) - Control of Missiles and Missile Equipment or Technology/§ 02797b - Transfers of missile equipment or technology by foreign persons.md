@@ -66,7 +66,7 @@ The Secretary of State, in consultation with the Secretary of Defense and the Se
 
 #### (f) Presumption
 
-In determining whether to apply sanctions under subsection (a) of this section to a foreign person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A) <sup>2</sup> of title 50,Appendix, has repeatedly provided support for acts of international terrorism.
+In determining whether to apply sanctions under subsection (a) of this section to a foreign person involved in the export, transfer, or trade of an item on the MTCR Annex, it should be a rebuttable presumption that such item is designed for use in a missile listed in the MTCR Annex if the President determines that the final destination of the item is a country the government of which the Secretary of State has determined, for purposes of 2405(j)(1)(A) <sup>2</sup> of title 50, Appendix, has repeatedly provided support for acts of international terrorism.
 
 #### (g) Additional waiver
 
@@ -152,7 +152,7 @@ Annual Certification.—
 
 &emsp;“(1)
 
-Requirement.—The President shall submit each year to the appropriate committees of Congress \[Committee on Foreign Relations of the Senate and Committee on International Relations of the House of Representatives\], with respect to each Russian person described in paragraph (2), a certification that the reports required to be submitted to Congress during the preceding calendar year under section 2 of the Iran Nonproliferation Act of 2000 (Public Law 106–178) \[50 U.S.C. 1701 note\] do not identify that person on account of a transfer to Iran of goods, services, or technology described in section 2(a)(1)(B) of such Act.
+Requirement.—The President shall submit each year to the appropriate committees of Congress \[Committee on Foreign Relations of the Senate and Committee on International Relations of the House of Representatives\], with respect to each Russian person described in paragraph (2), a certification that the reports required to be submitted to Congress during the preceding calendar year under section 2 of theIran Nonproliferation Act of 2000 (Public Law 106–178) \[50 U.S.C. 1701 note\] do not identify that person on account of a transfer to Iran of goods, services, or technology described in section 2(a)(1)(B) of such Act.
 
 &emsp;“(2)
 
@@ -208,7 +208,7 @@ United states person.—The term ‘United States person’ has the meaning give
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2375, 2797b–1, 2797b–2, 2797c of this title; title 50 App. section 2410b.
+This section is referred to in sections 2375, 2797b–1, 2797b–2, 2797c of this title; title 50 section 2368; title 50 App. section 2410b.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

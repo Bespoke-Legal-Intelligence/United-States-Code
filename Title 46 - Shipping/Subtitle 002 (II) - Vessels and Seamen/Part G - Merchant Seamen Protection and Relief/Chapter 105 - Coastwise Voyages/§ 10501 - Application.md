@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 46:574
 
-Section 10501 specifies that vessels over 50 gross tons that are not subject to chapter 103 and are engaged on voyages between two states (except for adjoining states) are subject to the provisions of this chapter. Specifically excluded are foreign vessels and vessels on which seamen share the profits.
+Section 10501 specifies that vessels over 50 gross tons that are not subject to chapter 103 and are engaged on voyages between two states (except for adjoining states) are subject to the provisions of this chapter.Specifically excluded are foreign vessels and vessels on which seamen share the profits.
 
 #### Amendments
 

@@ -146,7 +146,7 @@ Subsec. (c)(13) to (16). Pub. L. 95–454, §414(a)(1)(A)(i), repealed par. (13)
 
 Subsec. (c)(17). Pub. L. 95–563 added par. (17).
 
-Subsec. (d). Pub. L. 95–454, §414(a)(1)(A)(ii), repealed subsec. (d) which provided the order for reducing the positions authorized to be placed in grades GS–16, 17,and 18 under this section when a general authorization statute authorized additional positions in these grades.
+Subsec. (d). Pub. L. 95–454, §414(a)(1)(A)(ii), repealed subsec. (d) which provided the order for reducing the positions authorized to be placed in grades GS–16, 17, and 18 under this section when a general authorization statute authorized additional positions in these grades.
 
 Subsec. (e). Pub. L. 95–454, §414(a)(1)(A)(ii), repealed subsec. (e) which authorized Commissioner of Internal Revenue to place 20 additional positions in grades GS–16 and 17.
 
@@ -218,7 +218,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–702 effective Jan. 1, 1989, see section 109 of title I of Pub. L. 100–702, set out as a Federal Courts Study Committee note under section 331 of Title 28, Judiciary and Judicial Procedure.
+Pub. L. 100–702, title I, §109, Nov. 19, 1988, 102 Stat. 4645, provided that: “This title \[amending this section\] shall become effective on January 1, 1989.”
 
 #### Effective Date of 1980 Amendment
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 95–454 effective 180 days after Oct. 13, 1978, see sectio
 
 #### Effective Date of 1976 Amendment
 
-Amendment by Pub. L. 94–233 effective on sixtieth day following Mar. 15, 1976, see section 16(b) of Pub. L.94–233, set out as an Effective Date note under section 4201 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 94–233 effective on sixtieth day following Mar. 15, 1976, see section 16(b) of Pub. L. 94–233, set out as an Effective Date note under section 4201 of Title 18, Crimes and Criminal Procedure.
 
 #### Effective Date of 1974 Amendments
 

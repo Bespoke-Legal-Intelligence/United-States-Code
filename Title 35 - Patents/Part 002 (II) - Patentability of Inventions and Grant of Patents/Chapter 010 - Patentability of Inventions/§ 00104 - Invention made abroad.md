@@ -32,7 +32,7 @@ Definitions.—As used in this section—
 
 &emsp;(2) the term “WTO member country” has the meaning given that term in section 2(10) of the Uruguay Round Agreements Act.
 
-(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §6, Nov. 14, 1975, 89 Stat. 691; Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 103–182, title III, §331, Dec. 8, 1993, 107 Stat. 2113; Pub. L. 103–465, title V, §531(a), Dec. 8, 1994, 108 Stat. 4982; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 94–131, §6, Nov. 14, 1975, 89 Stat. 691; Pub. L. 98–622, title IV, §403(a), Nov. 8, 1984, 98 Stat. 3392; Pub. L. 103–182, title III, §331, Dec. 8, 1993, 107 Stat. 2113; Pub. L. 103–465, title V, §531(a), Dec. 8, 1994, 108 Stat. 4982; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -48,7 +48,9 @@ Section 2(10) of the Uruguay Round Agreements Act, referred to in subsec. (b)(2)
 
 #### Amendments
 
-1999—Subsec. (a)(3). Pub. L. 106–113 substituted “Director” for “Commissioner”.
+2002—Subsec. (a)(3). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+
+1999—Subsec. (a)(3). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
 1994—Pub. L. 103–465 amended section generally, expanding scope of section to include WTO member countries along with NAFTA countries and defining term “WTO member country”.
 

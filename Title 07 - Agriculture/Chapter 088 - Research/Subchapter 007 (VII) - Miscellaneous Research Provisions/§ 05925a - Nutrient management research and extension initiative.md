@@ -62,9 +62,29 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (g) <sup>1</sup> Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007.
 
-(Pub. L. 101–624, title XVI, §1672A, as added Pub. L. 105–185, title II, §243, June 23, 1998, 112 Stat. 554.)
+(Pub. L. 101–624, title XVI, §1672A, as added Pub. L. 105–185, title II, §243, June 23, 1998, 112 Stat. 554; amended Pub. L. 107–171, title VII, §7120, May 13, 2002, 116 Stat. 434.)
+
+#### Amendments
+
+2002—Subsec. (g). Pub. L. 107–171 substituted “2007” for “2002”.
+
+#### Study of Nutrient Banking
+
+Pub. L. 107–171, title VII, §7411, May 13, 2002, 116 Stat. 462, provided that:
+
+“(a)
+
+In General.—The Secretary \[of Agriculture\] may conduct a study to evaluate nutrient banking for the purpose of enhancing the health and viability of watersheds in areas with large concentrations of animal producing units.
+
+“(b)
+
+Components.—In conducting any study under subsection (a), the Secretary shall evaluate the costs, needs, and means by which litter may be collected and distributed outside the applicable watershed to reduce potential point source and nonpoint source phosphorous pollution.
+
+“(c)
+
+Report.—The Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes the results of any study conducted under subsection (a).”
 
 <i><sup>1</sup></i><i> So in original. No subsec. (f) has been enacted.</i>
 

@@ -18,7 +18,7 @@ Disqualification under subsection (a) of this section shall be—
 
 &emsp;&emsp;(B) the first occasion or any subsequent occasion of a disqualification based on the purchase of coupons or trafficking in coupons or authorization cards by a retail food store or wholesale food concern, except that the Secretary shall have the discretion to impose a civil money penalty of up to $20,000 for each violation (except that the amount of civil money penalties imposed for violations occurring during a single investigation may not exceed $40,000) in lieu of disqualification under this subparagraph, for such purchase of coupons or trafficking in coupons or cards that constitutes a violation of the provisions of this chapter or the regulations issued pursuant to this chapter, if the Secretary determines that there is substantial evidence that such store or food concern had an effective policy and program in effect to prevent violations of the chapter and the regulations, including evidence that—
 
-&emsp;&emsp;&emsp;(i) the ownership of the store or food concern was not aware of, did not approveof, did not benefit from, and was not involved in the conduct of the violation; and
+&emsp;&emsp;&emsp;(i) the ownership of the store or food concern was not aware of, did not approve of, did not benefit from, and was not involved in the conduct of the violation; and
 
 &emsp;&emsp;&emsp;(ii)(I) the management of the store or food concern was not aware of, did not approve of, did not benefit from, and was not involved in the conduct of the violation; or
 
@@ -46,13 +46,13 @@ As a condition of authorization to accept and redeem coupons, the Secretary may 
 
 #### (f) Fines for unauthorized third parties that accept food stamps
 
-The Secretary may impose a fine against any person not approved by the Secretary to accept and redeem food coupons who violates any provision of this chapter or a regulation issued under this chapter, including violations concerning the acceptance of food coupons. The amount of any such fine shall be established by the Secretary and may be assessed and collected in accordance with regulations issued under this chapter separately or in combination with any fiscal claim established by the Secretary. The Attorney General of the United States may institute judicial action in any court of competent jurisdiction against the person to collect the fine.
+The Secretary may impose a fine against any person not approved by the Secretary to accept and redeem food coupons who violates any provision of this chapter or a regulation issued under this chapter, including violations concerning the acceptance of food coupons. The amount of any such fine shall be established by the Secretary and may be assessed and collectedin accordance with regulations issued under this chapter separately or in combination with any fiscal claim established by the Secretary. The Attorney General of the United States may institute judicial action in any court of competent jurisdiction against the person to collect the fine.
 
 #### (g) Disqualification of retailers who are disqualified under WIC program
 
 #### (1) In general
 
-&emsp;The Secretary shall issue regulations providing criteria for the disqualification under thischapter of an approved retail food store or a wholesale food concern that is disqualified from accepting benefits under the special supplemental nutrition program for women, infants, and children established under section 1786 of title 42.
+&emsp;The Secretary shall issue regulations providing criteria for the disqualification under this chapter of an approved retail food store or a wholesale food concern that is disqualified from accepting benefits under the special supplemental nutrition program for women, infants, and children established under section 1786 of title 42.
 
 #### (2) Terms
 

@@ -4,7 +4,7 @@
 
 (b) All receipts and disbursements of the Federal Financing Bank with respect to any obligations which are issued, sold, or guaranteed by a Federal agency shall be treated as a means of financing such agency for purposes of section 1105 of title 31 and for purposes of this Act.
 
-(Pub. L. 93–344, title IV, §405, formerly §406, as added Pub. L. 99–177, title II, §214, Dec. 12, 1985, 99 Stat. 1059; renumbered §405, Pub. L. 105–33, title X, §10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
+(Pub. L. 93–344, title IV, §405, formerly §406, as added Pub. L. 99–177, title II, §214, Dec. 12, 1985,99 Stat. 1059; renumbered §405, Pub. L. 105–33, title X, §10116(c)(1), Aug. 5, 1997, 111 Stat. 692.)
 
 #### References in Text
 

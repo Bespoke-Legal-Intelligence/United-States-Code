@@ -24,7 +24,7 @@ With respect to alterations of an existing facility or part thereof used in the 
 
 &emsp;The Secretary shall require the appropriate public entity to develop and submit to the Secretary a plan for compliance with this subsection—
 
-&emsp;&emsp;(A) that reflects consultation with individuals with disabilities affected by such planand the results of a public hearing and public comments on such plan, and
+&emsp;&emsp;(A) that reflects consultation with individuals with disabilities affected by such plan and the results of a public hearing and public comments on such plan, and
 
 &emsp;&emsp;(B) that establishes milestones for achievement of the requirements of this subsection.
 

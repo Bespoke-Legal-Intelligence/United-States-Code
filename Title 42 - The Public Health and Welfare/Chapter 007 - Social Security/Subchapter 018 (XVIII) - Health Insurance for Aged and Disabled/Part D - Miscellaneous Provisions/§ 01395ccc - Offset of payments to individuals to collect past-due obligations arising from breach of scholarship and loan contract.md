@@ -62,7 +62,7 @@ This section shall not preclude the United States from applying other provisions
 
 #### (e) Transfer from trust funds
 
-Amounts equal to the amounts deducted pursuant to this section shall be transferred fromthe Trust Fund from which the payment to the individual, provider, or other entity would otherwise have been made, to the general fund in the Treasury, and shall be credited as payment of the past-due obligation of the individual from whom (or with respect to whom) the deduction was made.
+Amounts equal to the amounts deducted pursuant to this section shall be transferred from the Trust Fund from which the payment to the individual, provider, or other entity would otherwise have been made, to the general fund in the Treasury, and shall be credited as payment of the past-due obligation of the individual from whom (or with respect to whom) the deduction was made.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1892, as added Pub. L. 100–203, title IV, §4052(a), Dec. 22, 1987, 101 Stat. 1330–95; amended Pub. L. 100–360, title IV, §411(f)(10)(A), (C)(i), July 1, 1988, 102 Stat. 780; Pub. L. 100–485, title VI, §608(d)(21)(E)–(H), Oct. 13, 1988, 102 Stat. 2420.)
 

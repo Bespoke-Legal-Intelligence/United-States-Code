@@ -72,9 +72,9 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 (2)(A) There are authorized to be appropriated to the Commission for necessary expenses (including the rental of conference rooms in the District of Columbia and elsewhere) not to exceed the following:
 
-&emsp;(i) $41,170,000 for fiscal year 1991.
+&emsp;(i) $54,000,000 for fiscal year 2003.
 
-&emsp;(ii) $44,052,000 for fiscal year 1992.
+&emsp;(ii) $57,240,000 for fiscal year 2004.
 
 (B) Not to exceed $2,500 of the amount authorized to be appropriated for any fiscal year under subparagraph (A) may be used, subject to the approval of the Chairman of the Commission, for reception and entertainment expenses.
 
@@ -82,11 +82,13 @@ The terms of office of the commissioners holding office on January 3, 1975, whic
 
 (3) There are authorized to be appropriated to the Commission for each fiscal year after September 30, 1977, in addition to any other amount authorized to be appropriated for such fiscal year, such sums as may be necessary for increases authorized by law in salary, pay, retirement, and other employee benefits.
 
+(4) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the Commission shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the Commission to carry out its functions.
+
 #### (f) Treatment of Commission under Paperwork Reduction Act
 
 The Commission shall be considered to be an independent regulatory agency for purposes of chapter 35 of title 44.
 
-(June 17, 1930, ch. 497, title III, §330, 46 Stat. 696; Aug. 7, 1953, ch. 348, title II, §201, 67 Stat. 472; Pub. L. 93–618, title I, §§172(a), (b), 175(b), Jan. 3, 1975, 88 Stat. 2009–2011; Pub. L. 94–455, title XVIII, §1801(a), (b), Oct. 4, 1976, 90 Stat. 1762; Pub. L. 95–106, §§1, 2(a), Aug. 17, 1977, 91 Stat. 867; Pub. L. 95–430, Oct. 10, 1978, 92 Stat. 1020; Pub. L. 97–456, §1(a), Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title II, §248(c), title VII, §701, Oct. 30, 1984, 98 Stat. 2998, 3043; Pub. L. 99–272, title XIII, §13021, Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–203, title IX, §9502, Dec. 22, 1987, 101 Stat. 1330–380; Pub. L. 100–418, title I, §§1401(b)(4), 1611, 1612, Aug. 23, 1988, 102 Stat. 1240, 1262; Pub. L. 100–647, title IX, §9001(a)(15), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–207, §2, Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §101, Aug. 20, 1990, 104 Stat. 633; Pub. L. 102–185, §1(a)(1), (2), (c)(1), Dec. 4, 1991, 105 Stat. 1280.)
+(June 17, 1930, ch. 497, title III, §330, 46 Stat. 696; Aug. 7, 1953, ch. 348, title II, §201, 67 Stat. 472; Pub. L. 93–618, title I, §§172(a), (b), 175(b), Jan. 3, 1975, 88 Stat. 2009–2011; Pub. L. 94–455, title XVIII, §1801(a), (b), Oct. 4, 1976, 90 Stat. 1762; Pub. L. 95–106, §§1, 2(a), Aug. 17, 1977, 91 Stat. 867; Pub. L. 95–430, Oct. 10, 1978, 92 Stat. 1020; Pub. L. 97–456, §1(a), Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title II, §248(c), title VII, §701, Oct. 30, 1984, 98 Stat. 2998, 3043; Pub. L. 99–272, title XIII, §13021, Apr. 7, 1986, 100 Stat. 305; Pub. L. 100–203, title IX, §9502, Dec. 22, 1987, 101 Stat. 1330–380; Pub. L. 100–418, title I, §§1401(b)(4), 1611, 1612, Aug. 23, 1988, 102 Stat. 1240, 1262; Pub. L. 100–647, title IX, §9001(a)(15), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 101–207, §2, Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §101, Aug. 20, 1990, 104 Stat. 633; Pub. L. 102–185, §1(a)(1), (2), (c)(1), Dec. 4, 1991, 105 Stat. 1280; Pub. L. 107–210, div. A, title III, §371, Aug. 6, 2002, 116 Stat. 991.)
 
 #### References in Text
 
@@ -101,6 +103,12 @@ Provisions of subsec. (c) which prescribed the annual basic compensation of the 
 Provisions similar to those in this section were contained in act Sept. 8, 1916, ch. 463, §700, 39 Stat. 795. That section was superseded by section 330 of act June 17, 1930, comprising this section.
 
 #### Amendments
+
+2002—Subsec. (e)(2)(A)(i). Pub. L. 107–210, §371(a)(1), added cl. (i) and struck out former cl. (i) which read as follows: “$41,170,000 for fiscal year 1991.”
+
+Subsec. (e)(2)(A)(ii). Pub. L. 107–210, §371(a)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “$44,052,000 for fiscal year 1992.”
+
+Subsec. (e)(4). Pub. L. 107–210, §371(b), added par. (4).
 
 1991—Subsec. (c)(1). Pub. L. 102–185, §1(c)(1), inserted at end “If, as of the date on which a term begins under paragraph (2), the President has not designated the chairman of the Commission for such term, the Commissioner who, as of such date—
 
@@ -144,7 +152,7 @@ Subsec. (f). Pub. L. 100–418, §1612, added subsec. (f).
 
 1987—Subsec. (e)(2). Pub. L. 100–203 substituted “for fiscal year 1988 not to exceed $35,386,000” for “fiscal year 1986 not to exceed $28,901,000”.
 
-1986—Subsec. (e)(2). Pub. L. 99–272 amended first sentence generally, substituting “for fiscal year 1986 notto exceed $28,901,000” for “for fiscal year 1985 not to exceed $28,410,000”.
+1986—Subsec. (e)(2). Pub. L. 99–272 amended first sentence generally, substituting “for fiscal year 1986 not to exceed $28,901,000” for “for fiscal year 1985 not to exceed $28,410,000”.
 
 1984—Subsec. (d)(4). Pub. L. 98–573, §248(c), substituted “the joint resolution described in such section 2192(a)(1)(A)” for “the concurrent resolution described in such section 2192”.
 

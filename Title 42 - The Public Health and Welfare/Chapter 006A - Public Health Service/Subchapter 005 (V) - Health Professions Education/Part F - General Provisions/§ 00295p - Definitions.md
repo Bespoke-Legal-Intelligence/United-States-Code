@@ -2,7 +2,7 @@
 
 For purposes of this subchapter:
 
-&emsp;(1)(A) The terms “school of medicine”, “school of dentistry”, “school of osteopathic medicine”, “school of pharmacy”, “school of optometry”, “school of podiatric medicine”, “school of veterinary medicine”, “school of public health”, and “school of chiropractic” mean an accredited public or nonprofit private school in a State that provides training leading, respectively, to a degree of doctor of medicine, a degree of doctor of dentistry or an equivalent degree, a degree of doctor of osteopathy, a degree of bachelor of science in pharmacy or an equivalent degree or a degree of doctor of pharmacy or an equivalent degree,a degree of doctor of optometry or an equivalent degree, a degree of doctor of podiatric medicine or an equivalent degree, a degree of doctor of veterinary medicine or an equivalent degree, a graduate degree in public health or an equivalent degree, and a degree of doctor of chiropractic or an equivalent degree, and including advanced training related to such training provided by any such school.
+&emsp;(1)(A) The terms “school of medicine”, “school of dentistry”, “school of osteopathic medicine”, “school of pharmacy”, “school of optometry”, “school of podiatric medicine”, “school of veterinary medicine”, “school of public health”, and “school of chiropractic” mean an accredited public or nonprofit private school in a State that provides training leading, respectively, to a degree of doctor of medicine, a degree of doctor of dentistry or an equivalent degree, a degree of doctor of osteopathy, a degree of bachelor of science in pharmacy or an equivalent degree or a degree of doctor of pharmacy or an equivalent degree, a degree of doctor of optometry or an equivalent degree, a degree of doctor of podiatricmedicine or an equivalent degree, a degree of doctor of veterinary medicine or an equivalent degree, a graduate degree in public health or an equivalent degree, and a degree of doctor of chiropractic or an equivalent degree, and including advanced training related to such training provided by any such school.
 
 &emsp;(B) The terms “graduate program in health administration” and “graduate program in clinical psychology” mean an accredited graduate program in a public or nonprofit private institution in a State that provides training leading, respectively, to a graduate degree in health administration or an equivalent degree and a doctoral degree in clinical psychology or an equivalent degree.
 
@@ -54,13 +54,13 @@ For purposes of this subchapter:
 
 &emsp;&emsp;&emsp;(v) health systems management services; and
 
-&emsp;&emsp;(C) who has not received a degree of doctor of medicine, a degree of doctor of osteopathy, a degree of doctor of dentistry or an equivalent degree, a degree of doctor of veterinary medicine or an equivalent degree, a degree of doctor of optometry or an equivalent degree, a degree of doctor of podiatric medicine or an equivalent degree, a degree of bachelor of science in pharmacy or an equivalent degree, a degree of doctor of pharmacy or an equivalent degree, a graduate degree in public health or an equivalent degree, a degree of doctor of chiropractic or an equivalent degree, a graduate degree in health administration or an equivalent degree, a doctoral degree in clinical psychology or an equivalent degree, or a degree in social work or an equivalent degree or a degree in counseling or an equivalent degree.
+&emsp;&emsp;(C) who has not received a degree of doctor of medicine, a degree of doctor of osteopathy, a degree of doctor of dentistry or an equivalent degree, a degree of doctor of veterinary medicine or an equivalent degree, a degree of doctor of optometry or an equivalent degree, a degree of doctor of podiatric medicine or an equivalent degree, a degree ofbachelor of science in pharmacy or an equivalent degree, a degree of doctor of pharmacy or an equivalent degree, a graduate degree in public health or an equivalent degree, a degree of doctor of chiropractic or an equivalent degree, a graduate degree in health administration or an equivalent degree, a doctoral degree in clinical psychology or an equivalent degree, or a degree in social work or an equivalent degree or a degree in counseling or an equivalent degree.
 
 &emsp;(6) The term “medically underserved community” means an urban or rural area or population that—
 
 &emsp;&emsp;(A) is eligible for designation under section 254e of this title as a health professional shortage area;
 
-&emsp;&emsp;(B) is eligible to be served by a migrant health center under section 254b <sup>1</sup> of this title, a community health center under section 254c <sup>1</sup> of this title, a grantee under section 256 <sup>1</sup> of this title (relating to homeless individuals), or a grantee under section 256a <sup>1</sup> of this title (relating to residents of public housing);
+&emsp;&emsp;(B) is eligible to be served by a migrant health center under section 254b <sup>1</sup> of this title, a community health center under section 254c <sup>1</sup> of this title, a grantee under section 254b(h) of this title (relating to homeless individuals), or a grantee under section 256a <sup>1</sup> of this title (relating to residents of public housing);
 
 &emsp;&emsp;(C) has a shortage of personal health services, as determined under criteria issued by the Secretary under section 1395x(aa)(2) of this title (relating to rural health clinics); or
 
@@ -82,15 +82,17 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(B) is licensed or certified on the basis of the doctoral degree in psychology, by the State in which the individual practices, at the independent practice level of psychology to furnish diagnostic, assessment, preventive, and therapeutic services directly to individuals.
 
-(July 1, 1944, ch. 373, title VII, §799B, formerly §799, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2066; renumbered §799B and amended Pub. L. 105–392, title I, §§106(a)(2)(E), 108, Nov. 13, 1998, 112 Stat. 3557, 3560.)
+(July 1, 1944, ch. 373, title VII, §799B, formerly §799, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2066; renumbered §799B and amended Pub. L. 105–392, title I, §§106(a)(2)(E), 108, Nov. 13, 1998, 112 Stat. 3557, 3560; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
 
 #### References in Text
 
-Sections 254b and 254c of this title, referred to in par. (6)(B), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+The reference to section 254b of this title the first place appearing and the reference to section 254c of this title, referred to in par. (6)(B), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
-Sections 256 and 256a of this title, referred to in par. (6)(B), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+Section 256a of this title, referred to in par. (6)(B), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
 #### Amendments
+
+2002—Par. (6)(B). Pub. L. 107–251 substituted “254b(h)” for “256”.
 
 1998—Par. (1)(C). Pub. L. 105–392, §108(b)(1)(A), inserted “and ‘graduate program in professional counseling’ ” before “mean an” and “and a concentration leading to a graduate degree in counseling” before period at end.
 
@@ -120,5 +122,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254c–5, 292<i>o</i>, 293, 293k, 293n, 294c of this title.
+This section is referred to in sections 247d–7a, 254c, 254c–5, 254c–14, 292<i>o</i>, 293, 293k, 293n, 294c of this title.
 

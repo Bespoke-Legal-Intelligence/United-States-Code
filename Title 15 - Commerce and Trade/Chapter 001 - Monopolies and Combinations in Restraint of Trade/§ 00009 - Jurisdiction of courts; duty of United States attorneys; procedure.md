@@ -14,5 +14,5 @@ Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 10, 3301 of this title; title 10 section 7430; title 16 section 2602; title 30 section 184; title 33 section 1331; title 40 section 488; title 42 sections 5417, 5909, 6202, 8235f, 9102; title 43 section 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
+This section is referred to in sections 10, 3301 of this title; title 10 section 7430; title 16 section 2602; title 30 section 184; title 33 section 1331; title 40 section 559; title 42 sections 5417, 5909, 6202, 8235f, 9102; title 43 section 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
 

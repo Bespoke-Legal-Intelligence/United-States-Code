@@ -30,6 +30,10 @@ In determining the meaning of any Act of Congress, unless the context indicates 
 
 1948—Act June 25, 1948, included “tense”, “whoever”, “signature”, “subscription”, “writing” and a broader definition of “person”.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–207, §1, Aug. 5, 2002, 116 Stat. 926, provided that: “This Act \[enacting section 8 of this title\] may be cited as the ‘Born-Alive Infants Protection Act of 2002’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–199, §1, Sept. 21, 1996, 110 Stat. 2419, provided that: “This Act \[enacting section 7 of this title and section 1738C of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Defense of Marriage Act’.”

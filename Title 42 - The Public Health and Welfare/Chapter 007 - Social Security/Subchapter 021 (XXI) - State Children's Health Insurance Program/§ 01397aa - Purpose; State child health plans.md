@@ -20,7 +20,7 @@ A State is not eligible for payment under section 1397ee of this title unless th
 
 #### (c) State entitlement
 
-This subchapter constitutes budget authority in advance of appropriations Acts and represents the obligation of the Federal Government to provide for the payment to States of amounts provided under section 1397dd of this title.
+This subchapter constitutes budget authority in advance of appropriations Acts and representsthe obligation of the Federal Government to provide for the payment to States of amounts provided under section 1397dd of this title.
 
 #### (d) Effective date
 

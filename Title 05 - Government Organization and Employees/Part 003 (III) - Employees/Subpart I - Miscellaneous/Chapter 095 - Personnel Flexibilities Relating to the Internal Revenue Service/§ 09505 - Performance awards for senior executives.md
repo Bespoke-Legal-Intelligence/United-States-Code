@@ -2,7 +2,7 @@
 
 (a) For a period of 10 years after the date of enactment of this section, Internal Revenue Service senior executives who have program management responsibility over significant functions of the Internal Revenue Service may be paid a performance bonus without regard to the limitation in section 5384(b)(2) if the Secretary of the Treasury finds such award warranted based on the executive's performance.
 
-(b) In evaluating an executive's performance for purposes of an award under this section, the Secretary of the Treasury shall take into account the executive's contributions toward the successful accomplishment of goals and objectives established under the Government Performance and Results Act of 1993, division E of the Clinger-Cohen Act of 1996 (Public Law 104–106; 110 Stat. 679), Revenue Procedure 64–22 (as in effect on July 30, 1997), taxpayer service surveys, and other performance metrics or plans established in consultation with the Internal Revenue Service Oversight Board.
+(b) In evaluating an executive's performance for purposes of an award under this section, the Secretary of the Treasury shall take into account the executive's contributions toward the successful accomplishment of goals and objectives established under the Government Performance and Results Act of 1993, subtitle III of title 40, Revenue Procedure 64–22 (as in effect on July 30, 1997), taxpayer service surveys, and other performance metrics or plans established in consultation with the Internal Revenue Service Oversight Board.
 
 (c) Any award in excess of 20 percent of an executive's rate of basic pay shall be approved by the Secretary of the Treasury.
 
@@ -10,7 +10,7 @@
 
 (e) Notwithstanding section 5307, a performance bonus award may not be paid to an executive in a calendar year if, or to the extent that, the executive's total annual compensation will exceed the maximum amount of total annual compensation payable at the rate determined under section 104 of title 3.
 
-(Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 713.)
+(Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 713; amended Pub. L. 107–217, §3(a)(2), Aug. 21, 2002, 116 Stat. 1295.)
 
 #### References in Text
 
@@ -18,7 +18,9 @@ The date of enactment of this section, referred to in subsec. (a), is the date o
 
 The Government Performance and Results Act of 1993, referred to in subsec. (b), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of this title, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
-The Clinger-Cohen Act of 1996, referred to in subsec. (b), is div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 642, 679. Div. E of Pub. L. 104–106 is classified principally to chapter 25 (§1401 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 40, Short Title of 1996 Amendment note set out under section 251 of Title 41, Public Contracts, and Tables.
+#### Amendments
+
+2002—Subsec. (b). Pub. L. 107–217 substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (Public Law 104–106; 110 Stat. 679)”.
 
 #### Section Referred to in Other Sections
 

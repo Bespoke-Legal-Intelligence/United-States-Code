@@ -12,17 +12,17 @@
 
 (4) For the purposes of this section, the term “qualifying work-study activity” means any of the following:
 
-&emsp;(A) The outreach services program under subchapter II of chapter 77 of this title as carried out under the supervision of a Department employee or, during the five-year period beginning on the date of the enactment of the Veterans Education and Benefits Expansion Act of 2001, outreach services to servicemembers and veterans furnished by employees of a State approving agency.
+&emsp;(A) The outreach services program under subchapter II of chapter 77 of this title as carried out under the supervision of a Department employee or, during the period preceding December 27, 2006, outreach services to servicemembers and veterans furnished by employees of a State approving agency.
 
 &emsp;(B) The preparation and processing of necessary papers and other documents at educational institutions or regional offices or facilities of the Department.
 
-&emsp;(C) The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the five-year period beginning on the date of the enactment of the Veterans Education and Benefits Expansion Act of 2001, the provision of such care to veterans in a State home for which payment is made under section 1741 of this title.
+&emsp;(C) The provision of hospital and domiciliary care and medical treatment under chapter 17 of this title, including, during the period preceding December 27, 2006, the provision of such care to veterans in a State home for which payment is made under section 1741 of this title.
 
 &emsp;(D) Any other activity of the Department as the Secretary determines appropriate.
 
 &emsp;(E) In the case of an individual who is receiving educational assistance under chapter 1606 of title 10, an activity relating to the administration of that chapter at Department of Defense, Coast Guard, or National Guard facilities.
 
-&emsp;(F) During the five-year period beginning on the date of the enactment of the Veterans Education and Benefits Expansion Act of 2001, an activity relating to the administration of a national cemetery or a State veterans’ cemetery.
+&emsp;(F) During the period preceding December 27, 2006, an activity relating to the administration of a national cemetery or a State veterans’ cemetery.
 
 (5) An individual may elect, in a manner prescribed by the Secretary, to be paid in advance an amount equal to 40 percent of the total amount of the work-study allowance agreed to be paid under the agreement in return for the individual's agreement to perform the number of hours of work specified in the agreement (but not more than an amount equal to 50 times the applicable hourly minimum wage).
 
@@ -58,15 +58,15 @@
 
 (4) The Secretary shall promulgate regulations to carry out this subsection.
 
-(Added Pub. L. 92–540, title II, §203, Oct. 24, 1972, 86 Stat. 1079, §1685; amended Pub. L. 93–508, title II, §205, Dec. 3, 1974, 88 Stat. 1582; Pub. L. 94–502, title II, §§208, 211(11), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title I, §105, Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title VIII, §801(b), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(42), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 99–576, title III, §308(c), Oct. 28, 1986, 100 Stat. 3270; Pub. L. 101–237, title IV, §§405(a)–(d)(2), (4)(A), 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2081, 2092; Pub. L. 102–16, §§6(a)–(b)(2), 10(a)(5), Mar. 22, 1991, 105 Stat. 50, 51, 55; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3485 and amended Pub. L. 102–83, §§2(c)(2), 5(a), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title III, §311, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 105–368, title II, §202(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub.L. 107–103, title I, §107(a), Dec. 27, 2001, 115 Stat. 983.)
+(Added Pub. L. 92–540, title II, §203, Oct. 24, 1972, 86 Stat. 1079, §1685; amended Pub. L. 93–508, title II, §205, Dec. 3, 1974, 88 Stat. 1582; Pub. L. 94–502, title II, §§208, 211(11), Oct. 15, 1976, 90 Stat. 2388, 2389; Pub. L. 95–202, title I, §105, Nov. 23, 1977, 91 Stat. 1435; Pub. L. 96–466, title VIII, §801(b), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(42), Oct. 12, 1982, 96 Stat. 1308; Pub. L. 99–576, title III, §308(c), Oct. 28, 1986, 100 Stat. 3270; Pub. L. 101–237, title IV, §§405(a)–(d)(2), (4)(A), 423(b)(1), Dec. 18, 1989, 103 Stat. 2080, 2081, 2092; Pub. L. 102–16, §§6(a)–(b)(2), 10(a)(5), Mar. 22, 1991, 105 Stat. 50, 51, 55; Pub. L. 102–40, title IV, §402(d)(1), May 7, 1991, 105 Stat. 239; renumbered §3485 and amended Pub. L. 102–83, §§2(c)(2), 5(a), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title III, §311, Oct. 29, 1992, 106 Stat. 4330; Pub. L. 105–368, title II, §202(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 107–14, §8(a)(16), June 5, 2001, 115 Stat. 35; Pub. L. 107–103, title I, §107(a), Dec. 27, 2001, 115 Stat. 983; Pub. L. 107–330, title III, §308(g)(11), Dec. 6, 2002, 116 Stat. 2829.)
 
 #### References in Text
-
-The date of the enactment of the Veterans Education and Benefits Expansion Act of 2001, referred to in subsec. (a)(4)(A), (C), (F), is the date of enactment of Pub. L. 107–103, which was approved Dec. 27, 2001.
 
 Section 2135 of title 10, referred to in subsec. (e)(1), was renumbered section 16135 of Title 10, Armed Forces, by Pub. L. 103–337, div. A, title XVI, §1663(b)(2), Oct. 5, 1994, 108 Stat. 3006.
 
 #### Amendments
+
+2002—Subsec. (a)(4)(A), (C), (F). Pub. L. 107–330 substituted “the period preceding December 27, 2006” for “the five-year period beginning on the date of the enactment of the Veterans Education and Benefits Expansion Act of 2001”.
 
 2001—Subsec. (a). Pub. L. 107–103 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows:
 
@@ -153,6 +153,10 @@ Amendment by Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–508 effective Dec. 3, 1974, see section 503 of Pub. L. 93–508, set out as a note under section 3452 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

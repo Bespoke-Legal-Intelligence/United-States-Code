@@ -12,7 +12,7 @@ The purpose of the Retirement Home is to provide, through the Armed Forces Retir
 
 (1) Each facility of the Retirement Home referred to in paragraph (2) is a separate establishment of the Retirement Home.
 
-(2) The United States Soldiers’ and Airmen's Home is hereby redesignated as the Armed Forces Retirement Home—Washington. TheNaval Home is hereby redesignated as the Armed Forces Retirement Home—Gulfport.
+(2) The United States Soldiers’ and Airmen's Home is hereby redesignated as the Armed Forces Retirement Home—Washington. The Naval Home is hereby redesignated as the Armed Forces Retirement Home—Gulfport.
 
 #### (d) Operation
 

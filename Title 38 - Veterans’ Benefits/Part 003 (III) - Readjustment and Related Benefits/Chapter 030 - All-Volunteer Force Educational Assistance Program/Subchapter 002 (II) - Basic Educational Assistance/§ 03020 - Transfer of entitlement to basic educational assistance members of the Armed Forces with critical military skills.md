@@ -70,15 +70,19 @@ Commencement of Use.—A dependent to whom entitlement to basic educational assi
 
 Additional Administrative Matters.—(1) The use of any entitlement to basic educational assistance transferred under this section shall be charged against the entitlement of the individual making the transfer at the rate of one month for each month of transferred entitlement that is used.
 
-(2) Except as provided under subsection (e)(2) and subject to paragraphs (4) and (5), a dependent to whom entitlement is transferred under this section is entitled to basic educational assistance under this subchapter in the same manner and at the same rate as the individual from whom the entitlement was transferred.
+(2) Except as provided under subsection (e)(2) and subject to paragraphs (5) and (6), a dependent to whom entitlement is transferred under this section is entitled to basic educational assistance under this subchapter in the same manner as the individual from whom the entitlement was transferred.
 
-(3) The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
+(3)(A) Subject to subparagraph (B), the monthly rate of educational assistance payable to a dependent to whom entitlement is transferred under this section shall be the monthly amount payable under sections 3015 and 3022 of this title to the individual making the transfer.
 
-(4) Notwithstanding section 3031 of this title, a child to whom entitlement is transferred under this section may not use any entitlement so transferred after attaining the age of 26 years.
+(B) The monthly rate of assistance payable to a dependent under subparagraph (A) shall be subject to the provisions of section 3032 of this title, except that the provisions of subsection (a)(1) of that section shall not apply even if the individual making the transfer to the dependent under this section is on active duty during all or any part of enrollment period of the dependent in which such entitlement is used.
 
-(5) The administrative provisions of this chapter (including the provisions set forth in section 3034(a)(1) of this title) shall apply to the use of entitlement transferred under this section, except that the dependent to whom the entitlement is transferred shall be treated as the eligible veteran for purposes of such provisions.
+(4) The death of an individual transferring an entitlement under this section shall not affect the use of the entitlement by the dependent to whom the entitlement is transferred.
 
-(6) The purposes for which a dependent to whom entitlement is transferred under this section may use such entitlement shall include the pursuit and completion of the requirements of a secondary school diploma (or equivalency certificate).
+(5) Notwithstanding section 3031 of this title, a child to whom entitlement is transferred under this section may not use any entitlement so transferred after attaining the age of 26 years.
+
+(6) The administrative provisions of this chapter (including the provisions set forth in section 3034(a)(1) of this title) shall apply to the use of entitlement transferred under this section, except that the dependent to whom the entitlement is transferred shall be treated as the eligible veteran for purposes of such provisions.
+
+(7) The purposes for which a dependent to whom entitlement is transferred under this section may use such entitlement shall include the pursuit and completion of the requirements of a secondary school diploma (or equivalency certificate).
 
 (i)
 
@@ -120,19 +124,33 @@ Secretary Concerned Defined.—Notwithstanding section 101(25) of this title, in
 
 &emsp;(3) the Secretary of the Air Force with respect to matters concerning the Air Force; and
 
-&emsp;(4) the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Transportation when it is not operating as a service in the Navy.
+&emsp;(4) the Secretary of Defense with respect to matters concerning the Coast Guard, or the Secretary of Homeland Security when it is not operating as a service in the Navy.
 
-(Added Pub. L. 107–107, div. A, title VI, §654(a)(1), Dec. 28, 2001, 115 Stat. 1153.)
+(Added Pub. L. 107–107, div. A, title VI, §654(a)(1), Dec. 28, 2001, 115 Stat. 1153; amended Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–314, div. A, title VI, §643(a), Dec. 2, 2002, 116 Stat. 2577.)
 
 #### Prior Provisions
 
 A prior section 3020 was renumbered section 5120 of this title.
 
+#### Amendments
+
+2002—Subsec. (h)(2). Pub. L. 107–314, §643(a)(1), substituted “paragraphs (5) and (6)” for “paragraphs (4) and (5)” and struck out “and at the same rate” after “in the same manner”.
+
+Subsec. (h)(3) to (7). Pub. L. 107–314, §643(a)(2), (3), added par. (3) and redesignated former pars. (3) to (6) as (4) to (7), respectively.
+
+Subsec. (m)(4). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+#### Effective Date of 2002 Amendments
+
+Pub. L. 107–314, div. A, title VI, §643(c)(1), Dec. 2, 2002, 116 Stat. 2578, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 3020 of title 38, United States Code, by section 654(a)(1) of the National Defense Authorization Act for Fiscal Year 2002 (Public Law 107–107; 115 Stat. 1153).”
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+
 #### Plan for Implementation
 
-Pub. L. 107–107, div. A, title VI, §654(c), Dec. 28, 2001, 115 Stat. 1157, provided that: “Not later than June 30, 2002, the Secretary of Defense shall submit to Congress a report describing the manner in which the Secretaries of the military departments and the Secretary of Transportation propose to exercise the authority granted by section 3020 of title 38, United States Code, as added by subsection (a). The report shall include the regulations prescribed under subsection (k) of that section for purposes of the exercise of the authority.”
+Pub. L. 107–107, div. A, title VI, §654(c), Dec. 28, 2001, 115 Stat. 1157, provided that: “Not later than June 30,2002, the Secretary of Defense shall submit to Congress a report describing the manner in which the Secretaries of the military departments and the Secretary of Transportation propose to exercise the authority granted by section 3020 of title 38, United States Code, as added by subsection (a). The report shall include the regulations prescribed under subsection (k) of that section for purposes of the exercise of the authority.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 2006.
+This section is referred to in section 3035 of this title; title 10 section 2006.
 

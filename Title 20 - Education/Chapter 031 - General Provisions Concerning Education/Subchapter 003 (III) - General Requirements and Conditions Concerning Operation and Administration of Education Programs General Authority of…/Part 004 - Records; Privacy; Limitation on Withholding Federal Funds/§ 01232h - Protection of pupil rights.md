@@ -54,7 +54,7 @@ No student shall be required, as part of any applicable program, to submit to a 
 
 &emsp;&emsp;&emsp;(viii) Income (other than that required by law to determine eligibility for participation in a program or for receiving financial assistance under such program).
 
-&emsp;&emsp;(C)(i) The right of a parent of a student to inspect, upon the request of the parent, anyinstructional material used as part of the educational curriculum for the student; and
+&emsp;&emsp;(C)(i) The right of a parent of a student to inspect, upon the request of the parent, any instructional material used as part of the educational curriculum for the student; and
 
 &emsp;&emsp;(ii) any applicable procedures for granting a request by a parent for reasonable access to instructional material within a reasonable period of time after the request is received.
 
@@ -249,4 +249,8 @@ Amendment by Pub. L. 95–561 effective Oct. 1, 1978, see section 1530(a) of Pub
 #### Effective Date
 
 Section 514(b) of Pub. L. 93–380 provided that: “The amendment made by subsection (a) \[enacting this section\] shall be effective upon enactment of this Act \[Aug. 21, 1974\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 9514, 9573 of this title.
 

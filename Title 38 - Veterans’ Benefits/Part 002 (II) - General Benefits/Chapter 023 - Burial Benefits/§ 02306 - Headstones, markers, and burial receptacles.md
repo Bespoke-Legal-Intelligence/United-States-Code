@@ -1,6 +1,6 @@
 ### §2306. Headstones, markers, and burial receptacles
 
-(a) The Secretary shall furnish, when requested, appropriate Government headstones or markers at the expense of the United States for the unmarked graves of the following:
+(a) The Secretary shall furnish, when requested, appropriate Government headstones ormarkers at the expense of the United States for the unmarked graves of the following:
 
 (1) Any individual buried in a national cemetery or in a post cemetery.
 
@@ -72,9 +72,17 @@
 
 (2) When the Secretary has furnished a memorial headstone or marker under subsection (b) for purposes of commemorating a veteran or an individual who died in the active military, naval, or air service, the Secretary shall, if feasible, add a memorial inscription to that headstone or marker rather than furnishing a separate memorial headstone or marker under that subsection for the surviving spouse of such individual.
 
-(Added Pub. L. 93–43, §5(a)(2), June 18, 1973, 87 Stat. 80, §906; amended Pub. L. 95–476, title II, §203(a), Oct. 18, 1978, 92 Stat. 1505; Pub. L. 95–479, title III, §303(b), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 96–385, title V, §502, Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §603(a), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 100–322, title III, §344(a), (b)(1), May 20, 1988, 102 Stat. 540; Pub. L. 101–237, title III, §313(b)(1), (3), title V, §§501, 504(a), Dec. 18, 1989, 103 Stat. 2077, 2093, 2094; Pub. L. 101–508,title VIII, §8041(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2306 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §11(b), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 104–275, title II, §213(a), (b)(1), Oct. 9, 1996, 110 Stat. 3331, 3332; Pub. L. 105–368, title IV, §§401(a), (b), 403(c)(2), Nov. 11, 1998, 112 Stat. 3334, 3335, 3338; Pub. L. 107–103, title V, §502(a)–(c), Dec. 27, 2001, 115 Stat. 994, 995.)
+(g)(1) A headstone or marker may not be furnished under subsection (a) for the unmarked grave of a person described in section 2411(b) of this title.
+
+(2) A memorial headstone or marker may not be furnished under subsection (b) for the purpose of commemorating a person described in section 2411(b) of this title.
+
+(3) A marker may not be furnished under subsection (d) for the grave of a person described in section 2411(b) of this title.
+
+(Added Pub. L. 93–43, §5(a)(2), June 18, 1973, 87 Stat. 80, §906; amended Pub. L. 95–476, title II, §203(a), Oct. 18, 1978, 92 Stat. 1505; Pub. L. 95–479, title III, §303(b), Oct. 18, 1978, 92 Stat. 1565; Pub. L. 96–385, title V, §502, Oct. 7, 1980, 94 Stat. 1534; Pub. L. 97–66, title VI, §603(a), Oct. 17, 1981, 95 Stat. 1034; Pub. L. 100–322, title III, §344(a), (b)(1), May 20, 1988, 102 Stat. 540; Pub. L. 101–237, title III, §313(b)(1), (3), title V, §§501, 504(a), Dec. 18, 1989, 103 Stat. 2077, 2093, 2094; Pub. L. 101–508, title VIII, §8041(a), Nov. 5, 1990, 104 Stat. 1388–349; renumbered §2306 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §11(b), Oct. 28, 1992, 106 Stat. 3644; Pub. L. 104–275, title II, §213(a), (b)(1), Oct. 9, 1996, 110 Stat. 3331, 3332; Pub. L. 105–368, title IV, §§401(a), (b), 403(c)(2), Nov. 11, 1998, 112 Stat. 3334, 3335, 3338; Pub. L. 107–103, title V, §502(a)–(c), Dec. 27, 2001, 115 Stat. 994, 995; Pub. L. 107–330, title II, §201(c), Dec. 6, 2002, 116 Stat. 2823.)
 
 #### Amendments
+
+2002—Subsec. (g). Pub. L. 107–330 added subsec. (g).
 
 2001—Subsec. (a)(5). Pub. L. 107–103, §502(c), substituted “chapter 1223” for “chapter 67”.
 
@@ -140,9 +148,15 @@ Subsec. (e). Pub. L. 100–322, §344(a), added subsec. (e).
 
 Subsecs. (c), (d). Pub. L. 95–476 added subsecs. (c) and (d).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–330 applicable with respect to deaths occurring on or after Dec. 6, 2002, see section 201(d) of Pub. L. 107–330, set out as a note under section 112 of this title.
+
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–103, title V, §502(d), Dec. 27, 2001, 115 Stat. 995, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to markers for the graves of individuals dying on or after the date of the enactment of this Act \[Dec. 27, 2001\].”
+Pub. L. 107–103, title V, §502(d), Dec. 27, 2001, 115 Stat. 995, as amended by Pub. L. 107–330, title II, §203(a), Dec. 6, 2002, 116 Stat. 2824, provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to markers for the graves of individuals dying on or after September 11, 2001.”
+
+\[Pub. L. 107–330, title II, §203(b), Dec. 6, 2002, 116 Stat. 2824, provided that: “The amendment made by subsection (a) \[amending section 502(d) of Pub. L. 107–103, set out above\] shall take effect as if included in the enactment of such section 502.”\]
 
 #### Effective Date of 1998 Amendment
 

@@ -1,6 +1,6 @@
 ### §407a. Administration, protection, and development
 
-The administration, protection, and development of said Carlsbad Caverns National Parkshall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, and Acts supplementary thereto or amendatory thereof.
+The administration, protection, and development of said Carlsbad Caverns National Park shall be exercised under the direction of the Secretary of the Interior by the National Park Service, subject to the provisions of sections 1, 2, 3, and 4 of this title, and Acts supplementary thereto or amendatory thereof.
 
 (May 14, 1930, ch. 272, §2, 46 Stat. 279.)
 

@@ -30,7 +30,7 @@ As used in this subchapter the term:
 
 #### Amendments
 
-1996—Subsec. (d). Pub. L. 104–333, §804(h)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “ ‘Park system resource’ means any living or nonliving resource that is located within or is a living part of a marine regimen or a Great Lakes aquatic regimen (including an aquatic regimen within Voyageurs National Park) within the boundaries of a unit of the National Park System, except for resources owned by a non-Federal entity.”
+1996—Subsec. (d). Pub. L. 104–333, §804(h)(1), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “ ‘Park system resource’ means any living or nonliving resource that is located within or is a living part of a marine regimen or a Great Lakes aquatic regimen (including an aquatic regimen within Voyageurs National Park) within the boundaries of aunit of the National Park System, except for resources owned by a non-Federal entity.”
 
 Subsec. (g). Pub. L. 104–333, §814(h)(2), added subsec. (g).
 

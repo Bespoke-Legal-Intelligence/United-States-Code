@@ -14,7 +14,7 @@ If the Secretary establishes the Consolidated Farm Service Agency under subsecti
 
 &emsp;(3) Agricultural credit programs assigned before October 13, 1994, by law to the Farmers Home Administration (including farm ownership and operating, emergency, and disaster loan programs) and other lending programs for agricultural producers and others engaged in the production of agricultural commodities.
 
-&emsp;(4) Subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 (16 U.S.C. 3831–3836).
+&emsp;(4) Subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3831 et seq.\].
 
 &emsp;(5) Such other functions as the Secretary considers appropriate, except for those programs assigned by the Secretary to the Natural Resources Conservation Service or another agency of the Department under section 6962(b) of this title.
 
@@ -46,7 +46,7 @@ In carrying out the programs specified in subsection (b)(4) of this section, the
 
 #### (B) Economic hardship
 
-&emsp;&emsp;After a technical determination has been made, on a producer's request, if a county orarea committee determines that the application of the producer's conservation system would impose an undue economic hardship on the producer, the committee shall provide the producer with relief to avoid the hardship.
+&emsp;&emsp;After a technical determination has been made, on a producer's request, if a county or area committee determines that the application of the producer's conservation system would impose an undue economic hardship on the producer, the committee shall provide the producer with relief to avoid the hardship.
 
 #### (3) Reinstatement of program benefits
 

@@ -12,7 +12,7 @@ In awarding grants, contracts, or cooperative agreements under subsection (a) of
 
 &emsp;(2) coordinate the provision of treatment services with other social service agencies in the community, including educational, juvenile justice, child welfare, and mental health agencies;
 
-&emsp;(3) provide a continuum of integrated treatment services, including case management, forchildren and adolescents with substance abuse disorders and their families;
+&emsp;(3) provide a continuum of integrated treatment services, including case management, for children and adolescents with substance abuse disorders and their families;
 
 &emsp;(4) provide treatment that is gender-specific and culturally appropriate;
 

@@ -6,5 +6,5 @@ The Council, with the concurrence of the Secretary, shall promulgate regulations
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 470h–2 of this title; title 40 section 611.
+This section is referred to in section 470h–2 of this title; title 40 section 3303.
 

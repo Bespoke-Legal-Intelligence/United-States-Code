@@ -52,7 +52,7 @@ It is unlawful to import into the United States any of the following:
 
 &emsp;&emsp;(B) the sale in commerce of such product in the country of origin of the product is illegal;
 
-&emsp;(3) Any fish, whether fresh, frozen, or otherwise prepared, if such fish was caught in a manner which the Secretary has proscribed for persons subject to the jurisdiction of the United States, whether or not any marine mammals were in fact taken incident to the catching of the fish.
+&emsp;(3) Any fish, whether fresh, frozen, or otherwise prepared, if such fish was caught in amanner which the Secretary has proscribed for persons subject to the jurisdiction of the United States, whether or not any marine mammals were in fact taken incident to the catching of the fish.
 
 #### (d) Nonapplicability of prohibitions
 
@@ -70,7 +70,7 @@ This chapter shall not apply with respect to any marine mammal taken before the 
 
 It is unlawful for any person or vessel or other conveyance to take any species of whale incident to commercial whaling in waters subject to the jurisdiction of the United States.
 
-(Pub. L. 92–522, title I, §102, Oct. 21, 1972, 86 Stat. 1032; Pub. L. 93–205, §13(e)(3), Dec. 28, 1973, 87Stat. 903; Pub. L. 95–136, §4, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 97–58, §3(a), Oct. 9, 1981, 95 Stat. 981; Pub. L. 100–711, §§2(b), 5(b), (e)(2), Nov. 23, 1988, 102 Stat. 4763, 4769, 4771; Pub. L. 102–587, title III, §3004(a)(1), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§5(a), 13(c), 24(c)(9), Apr. 30, 1994, 108 Stat. 536, 558, 566.)
+(Pub. L. 92–522, title I, §102, Oct. 21, 1972, 86 Stat. 1032; Pub. L. 93–205, §13(e)(3), Dec. 28, 1973, 87 Stat. 903; Pub. L. 95–136, §4, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 97–58, §3(a), Oct. 9, 1981, 95 Stat. 981; Pub. L. 100–711, §§2(b), 5(b), (e)(2), Nov. 23, 1988, 102 Stat. 4763, 4769, 4771; Pub. L. 102–587, title III, §3004(a)(1), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §§5(a), 13(c), 24(c)(9), Apr. 30, 1994, 108 Stat. 536, 558, 566.)
 
 #### References in Text
 

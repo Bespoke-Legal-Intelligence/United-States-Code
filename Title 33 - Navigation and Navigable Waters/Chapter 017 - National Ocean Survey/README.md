@@ -6,87 +6,13 @@
 | :--- | ---: |
 | 851 to 852b. Repealed or Omitted. |  |
 | [853\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853%20-%20Power%20to%20settle%20claims.md) | Power to settle claims. |
-| [853a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853a%20-%20Authorized%20numbers%20in%20permanent%20rank.md) | Authorized numbers in permanent rank. |
-| (a) | Fiscal year authorizations; reductions. |
-| (b) | Relative rank; proportion. |
-| (c) | Computation of number in grade. |
-| (d) | Reduction of grade or pay; separation. |
-| (e) | Filling of vacancies; additional numbers. |
-| (f) | Temporary increase in numbers. |
-| [853b.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853b%20-%20Promotion%20by%20selection%20to%20grades%20above%20lieutenant%20%28junior%20grade%29.md) | Promotion by selection to grades above lieutenant (junior grade). |
-| [853c.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853c%20-%20Consideration%20of%20all%20eligible%20officers%20for%20promotion%20purposes%3B%20date%20of%20promotion%3B%20separation%20from%20service.md) | Consideration of all eligible officers for promotion purposes; date of promotion; separation from service. |
-| [853d.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853d%20-%20Promotions%20to%20permanent%20grades%20of%20commander%20and%20captain%3B%20time.md) | Promotions to permanent grades of commander and captain; time. |
-| [853e.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853e%20-%20Promotion%20of%20ensigns%3B%20separation%20from%20service.md) | Promotion of ensigns; separation from service. |
-| [853f.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853f%20-%20Length%20of%20service%20for%20promotion%20purposes.md) | Length of service for promotion purposes. |
-| [853g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853g%20-%20Retirement%20or%20separation%20of%20officers.md) | Retirement or separation of officers. |
-| (a) | Transfer of officers to retired list; separation from service. |
-| (b) | Computations. |
-| (c) | Effective date of retirements and separations. |
-| [853h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853h%20-%20Separation%20pay%20of%20officers.md) | Separation pay of officers. |
-| (a) | Authorization of payment. |
-| (b) | Amount of pay; five or more years; three to five years. |
-| (c) | Determination of officer's years of service. |
-| (d) | Previously received pay excluded from determination of years of creditable service. |
-| (e) | Deduction from retired pay of amount of prior payments; deduction from disability compensation of amount of separation pay; exception. |
-| [853i.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853i%20-%20Appointments%20and%20promotions%20made%20by%20President%3B%20suspension%20during%20war%20or%20emergency.md) | Appointments and promotions made by President; suspension during war or emergency. |
-| [853j.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853j%20-%20Examinations%20for%20promotion.md) | Examinations for promotion. |
-| 853j–1. | Temporary appointments and promotions made by President. |
-| (a) | Ensign. |
-| (b) | Lieutenant junior grade. |
-| (c) | Any one grade. |
-| [853k.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853k%20-%20Retirement%20of%20officers.md) | Retirement of officers. |
-| (a) | For age; effective date. |
-| (b) | Admirals for length of service; deferment. |
-| 853<i>l.</i> | Retirement for length of service upon application. |
-| 853m, 853n. Repealed. |  |
-| 853<i>o.</i> | Computation of pay upon retirement. |
-| (a) | Officer as member of uniformed service before September 8, 1980. |
-| (b) | Officer as member of uniformed service on or after September 8, 1980. |
-| (c) | Treatment of full and fractional parts of months in computing years of service; rounding off. |
+| 853a to 853<i>o. Repealed.</i> |  |
 | 853<i>o–</i>1. | Credit of service as deck officer or junior engineer and certain other active service for retirement and retirement pay. |
-| [853p.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853p%20-%20Rank%20upon%20retirement%3B%20pay%3B%20%E2%80%9Ctemporary%20rank%E2%80%9D%20defined.md) | Rank upon retirement; pay; “temporary rank” defined. |
-| [853q.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853q%20-%20Retired%20rank%20and%20pay%20held%20pursuant%20to%20other%20laws%20unaffected.md) | Retired rank and pay held pursuant to other laws unaffected. |
-| [853r.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853r%20-%20Personnel%20Board%3B%20composition%3B%20duties%3B%20recommendations.md) | Personnel Board; composition; duties; recommendations. |
-| [853s.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853s%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93431%2C%20%C2%A71%28c%29%282%29%2C%20Aug.%2014%2C%201964%2C%2078%20Stat.%20440.md) | Repealed. |
-| [853t.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853t%20-%20Original%20appointments.md) | Original appointments. |
-| (a) | Eligible grades; examination; revocation of commission. |
-| (b) | Lineal list. |
-| (c) | Basic pay service credit. |
-| [853u.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853u%20-%20Positions%20of%20importance%20and%20responsibility.md) | Positions of importance and responsibility. |
-| (a) | Designation; grades; appointment. |
-| (b) | Number of officers appointed. |
-| (c) | Pay and allowances. |
-| (d) | Effect of appointment. |
-| (e) | Retirement rank, pay, and allowances. |
-| [853v.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000853v%20-%20Presentation%20of%20United%20States%20flag%20upon%20retirement.md) | Presentation of United States flag upon retirement. |
-| (a) | Presentation of flag upon retirement. |
-| (b) | Multiple presentations not authorized. |
-| (c) | No cost to recipient. |
-| [854\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000854%20-%20Qualification%20of%20officers%20for%20appointment%20or%20promotion%20generally.md) | Qualification of officers for appointment or promotion generally. |
+| 853p to 854. Repealed. |  |
 | [854a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000854a%20-%20Service%20credit%20as%20deck%20officer%20or%20junior%20engineer%20for%20promotion%20purposes.md) | Service credit as deck officer or junior engineer for promotion purposes. |
 | 854a–1. | Temporary appointment or advancement of commissioned officers in time of war or national emergency. |
 | 854a–2. | Pay and allowances; date of acceptance of promotion. |
-| 854b, 854c. Repealed. |  |
-| [855\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000855%20-%20Cooperation%20with%20and%20transfer%20to%20military%20departments.md) | Cooperation with and transfer to military departments. |
-| [855a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000855a%20-%20Repealed.%20Pub.%20L.%2085%E2%80%93857%2C%20%C2%A714%2879%29%2C%20Sept.%202%2C%201958%2C%2072%20Stat.%201272.md) | Repealed. |
-| [856\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000856%20-%20Relative%20rank%20of%20officers%20when%20serving%20with%20Army%2C%20Navy%2C%20or%20Air%20Force.md) | Relative rank of officers when serving with Army, Navy, or Air Force. |
-| [857\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000857%20-%20Service%20for%20purposes%20of%20servicemen%27s%20and%20veterans%E2%80%99%20benefits.md) | Service for purposes of servicemen's and veterans’ benefits. |
-| 857–1. | National Oceanic and Atmospheric Administration; definitions. |
-| 857–2. | Retirement of officers; retired grade; retired pay; conditions: satisfactory service, length of service. |
-| 857–3. | Service for purposes of certain rights, privileges, immunities, and benefits; exercise of authority by Secretary of Commerce. |
-| 857–4. | Commissary privileges. |
-| (a) | Extension of privilege. |
-| (b) | Sales of rations, stores, uniforms, and related equipment. |
-| (c) | Widows’ rights. |
-| 857–5. | General provisions. |
-| (a) | Statutes applicable to officers of the Environmental Science Services Administration; service in Coast and Geodetic Survey as service in such Administration. |
-| (b) | Statutes applicable to officers of the Environmental Science Services Administration; service in certain agencies as service in the National Oceanic and Atmospheric Administration. |
-| (c) | Change in pay or allowances. |
-| (d) | References in other laws, regulations, and orders. |
-| (e) | Rules, regulations, and orders; continuing effect. |
-| (f) | Construction of provisions; arrangement and headings. |
-| (g) | Separability. |
-| 857–6 to 857–12. Repealed. |  |
+| 854b to 857–12. Repealed. |  |
 | 857–13. | National Advisory Committee on Oceans and Atmosphere. |
 | 857–14. | Membership. |
 | (a) | Appointment and qualifications. |
@@ -104,13 +30,10 @@
 | (c) | Administrative assistance. |
 | 857–18. | Authorization of appropriations. |
 | 857–19. | Biennial report. |
-| [857a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000857a%20-%20Rights%2C%20benefits%2C%20privileges%2C%20and%20immunities%3B%20exercise%20of%20authority%20by%20Secretary%20of%20Commerce%20or%20designee.md) | Rights, benefits, privileges, and immunities; exercise of authority by Secretary of Commerce or designee. |
-| [858\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000858%20-%20Rules%20and%20regulations%20when%20cooperating%20with%20military%20departments.md) | Rules and regulations when cooperating with military departments. |
-| 859 to 863. Repealed or Omitted. |  |
-| [864\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000864%20-%20Retirement%20of%20officers%20generally.md) | Retirement of officers generally. |
-| 864a to 872. Repealed or Omitted. |  |
+| 857–20. | Coordination. |
+| 857a to 872. Repealed or Omitted. |  |
 | [873\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000873%20-%20Extra%20compensation%20for%20instrument%20observers%2C%20recorders%20and%20other%20Federal%20employees%20for%20oceanographic%2C%20seismographic%20and%20magnetic%E2%80%A6.md) | Extra compensation for instrument observers, recorders and other Federal employees for oceanographic, seismographic and magnetic observations. |
-| [874\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000874%20-%20Transportation%20of%20deceased%20officers%E2%80%99%20effects%3B%20reimbursement%20for%20supplies%20furnished%20distressed%20and%20shipwrecked%20persons.md) | Transportation of deceased officers’ effects; reimbursement for supplies furnished distressed and shipwrecked persons. |
+| [874\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000874%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93372%2C%20title%20II%2C%20%C2%A7271%285%29%2C%20Dec.%2019%2C%202002%2C%20116%20Stat.%203094.md) | Repealed. |
 | [875\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000875%20-%20Powers%20of%20officers%20as%20notaries.md) | Powers of officers as notaries. |
 | [876\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000876%20-%20Fees%20for%20notarial%20acts%3B%20prima%20facie%20evidence%20of%20authority.md) | Fees for notarial acts; prima facie evidence of authority. |
 | [877\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000877%20-%20Appropriations%3B%20advances%20from.md) | Appropriations; advances from. |
@@ -178,15 +101,20 @@
 | [892a.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892a%20-%20Functions%20of%20the%20Administrator.md) | Functions of the Administrator. |
 | (a) | Responsibilities. |
 | (b) | Authorities. |
+| (c) | Conservation and management of coastal and ocean resources. |
 | [892b.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892b%20-%20Quality%20assurance%20program.md) | Quality assurance program. |
 | (a) | Definition. |
 | (b) | Program. |
 | (c) | Limitation on liability. |
 | (d) | Hydrographic Services Account. |
 | (e) | Limitation on new fees and increases in existing fees for hydrographic services. |
-| [892c.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892c%20-%20Reports.md) | Reports. |
-| (a) | Repealed. |
-| (b) | Maintaining Federal expertise in hydrographic services. |
+| [892c.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892c%20-%20Hydrographic%20Services%20Review%20Panel.md) | Hydrographic Services Review Panel. |
+| (a) | Establishment. |
+| (b) | Duties. |
+| (c) | Membership. |
+| (d) | Compensation. |
+| (e) | Meetings. |
+| (f) | Powers. |
 | [892d.](Subchapter%20004%20%28IV%29%20-%20NOAA%20Hydrographic%20Services/%C2%A7%2000892d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

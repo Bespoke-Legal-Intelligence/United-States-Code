@@ -36,9 +36,11 @@ In this section, the term “commodity promotion law” means a Federal law that
 
 &emsp;(16) subchapter III of this chapter;
 
-&emsp;(17) subchapter IV of this chapter; or
+&emsp;(17) subchapter IV of this chapter;
 
-&emsp;(18) subchapter V of this chapter.
+&emsp;(18) subchapter V of this chapter; or
+
+&emsp;(19) any other provision of law enacted after April 4, 1996, that provides for the establishment and operation of a promotion program described in the first sentence.
 
 #### (b) Findings
 
@@ -66,7 +68,7 @@ Congress finds the following:
 
 &emsp;(9) While some commodity promotion laws grant a producer or processor the option of crediting individual advertising conducted by the producer or processor for all or a portion of the producer's or processor's marketing promotion assessments, all promotion programs established under the commodity promotion laws, both those programs that permit credit for individual advertising and those programs that do not contain such provisions, are very narrowly tailored to fulfill the congressional purposes of the commodity promotion laws without impairing or infringing the legal or constitutional rights of any individual producer or processor.
 
-&emsp;(10) These generic commodity promotion programs are of particular benefit to small producers who often lack the resources or market power to advertise on their own and who are otherwise often unable to benefit from the economies of scale available in promotion and advertising.
+&emsp;(10) These generic commodity promotion programs are of particular benefit to small producers who often lack the resources or market power to advertise on their own andwho are otherwise often unable to benefit from the economies of scale available in promotion and advertising.
 
 &emsp;(11) Periodic independent evaluation of the effectiveness of these generic commodity promotion programs will assist Congress and the Secretary of Agriculture in ensuring that the objectives of the programs are met.
 
@@ -78,7 +80,17 @@ Except as otherwise provided by law, each commodity board established under the 
 
 The Secretary shall annually provide to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate information on administrative expenses on programs established under commodity promotion laws.
 
-(Pub. L. 104–127, title V, §501, Apr. 4, 1996, 110 Stat. 1029.)
+#### (e) Exemption of certified organic products from assessments
+
+#### (1) In general
+
+&emsp;Notwithstanding any provision of a commodity promotion law, a person that produces and markets solely 100 percent organic products, and that does not produce any conventional or nonorganic products, shall be exempt from the payment of an assessment under a commodity promotion law with respect to any agricultural commodity that is produced on a certified organic farm (as defined in section 6502 of this title).
+
+#### (2) Regulations
+
+&emsp;Not later than 1 year after May 13, 2002, the Secretary shall promulgate regulations concerning eligibility and compliance for an exemption under paragraph (1).
+
+(Pub. L. 104–127, title V, §501, Apr. 4, 1996, 110 Stat. 1029; Pub. L. 107–171, title X, §10607, May 13, 2002, 116 Stat. 514.)
 
 #### References in Text
 
@@ -101,6 +113,12 @@ Public Law 101–624, referred to in subsec. (a)(10), (11), (12), is Pub. L. 101
 Public Law 103–190, referred to in subsec. (a)(13), is Pub. L. 103–190, Dec. 14, 1993, 107 Stat. 2266, known as the Fresh Cut Flowers and Fresh Cut Greens Promotion and Information Act of 1993, which is classified generally to chapter 97 (§6801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6801 of this title and Tables.
 
 Public Law 103–407, referred to in subsec. (a)(14), is Pub. L. 103–407, Oct. 22, 1994, 108 Stat. 4210, known as the Sheep Promotion, Research, and Information Act of 1994, which is classified generally to chapter 99 (§7101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
+
+#### Amendments
+
+2002—Subsec. (a)(19). Pub. L. 107–171, §10607(b), added par. (19).
+
+Subsec. (e). Pub. L. 107–171, §10607(a), added subsec. (e).
 
 #### Short Title
 

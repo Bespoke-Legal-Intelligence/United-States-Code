@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §261 (Jan. 12, 1895, ch. 23, §79, 28 Stat. 62
 
 #### Change of Name
 
-Geological Survey redesignated United States Geological Survey by provision of title I of Pub. L. 102–154,set out as a note under section 31 of Title 43, Public Lands.
+Geological Survey redesignated United States Geological Survey by provision of title I of Pub. L. 102–154, set out as a note under section 31 of Title 43, Public Lands.
 

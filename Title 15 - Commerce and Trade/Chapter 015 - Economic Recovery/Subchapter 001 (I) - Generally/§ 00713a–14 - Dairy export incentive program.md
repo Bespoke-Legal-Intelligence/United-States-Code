@@ -2,7 +2,7 @@
 
 #### (a) Establishment and operation
 
-During the period beginning 60 days after December 23, 1985, and ending on December 31, 2002, the Commodity Credit Corporation shall establish and operate an export incentive program as described in this section for dairy products under section 714c of this title.
+During the period beginning 60 days after December 23, 1985, and ending on December 31, 2007, the Commodity Credit Corporation shall establish and operate an export incentive program as described in this section for dairy products under section 714c of this title.
 
 #### (b) Payments to entity that sells for export United States dairy products; bid basis; criteria for acceptance or rejection of bids
 
@@ -22,7 +22,7 @@ The program shall be operated under such rules and regulations issued by the Sec
 
 #### (d) Payments under program to be made in cash or commodities
 
-(1) The regulations issued by the Secretary may provide for payments under the program tobe made in cash or in commodities of equal value that are available in Commodity Credit Corporation stock.
+(1) The regulations issued by the Secretary may provide for payments under the program to be made in cash or in commodities of equal value that are available in Commodity Credit Corporation stock.
 
 (2) If payments in commodities are authorized, such payments shall be made through the issuance of generic certificates redeemable in commodities.
 
@@ -46,15 +46,17 @@ The program shall be operated under such rules and regulations issued by the Sec
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), the Commodity Credit Corporation shall in each year use money and commodities for the program under this section in the maximum amount consistent with the obligations of the United States as a member of the World Trade Organization, minus the amount expended under section 1163 of the Food Security Act of 1985 (Public Law 99–198; 7 U.S.C. 1731 note) during that year.
+&emsp;Except as provided in paragraph (2), the Commodity Credit Corporation shall in each year use money and commodities for the program under this section in the maximum amount consistent with the obligations of theUnited States as a member of the World Trade Organization, minus the amount expended under section 1163 of the Food Security Act of 1985 (Public Law 99–198; 7 U.S.C. 1731 note) during that year.
 
 #### (2) Volume limitations
 
 &emsp;The Commodity Credit Corporation may not exceed the limitations specified in subsection (c)(3) of this section on the volume of allowable dairy product exports.
 
-(Pub. L. 99–198, title I, §153, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 100–418, title IV, §4308, Aug. 23, 1988, 102 Stat. 1399; Pub. L. 100–435, title I, §106, Sept. 19, 1988, 102 Stat. 1651; Pub. L. 101–624, title I, §114, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 103–465, title IV, §411(b), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title I, §148, Apr. 4, 1996, 110 Stat. 920.)
+(Pub. L. 99–198, title I, §153, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 100–418, title IV, §4308, Aug. 23, 1988, 102 Stat. 1399; Pub. L. 100–435, title I, §106, Sept. 19, 1988, 102 Stat. 1651; Pub. L. 101–624, title I, §114, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 103–465, title IV, §411(b), Dec. 8, 1994, 108 Stat. 4963; Pub. L. 104–127, title I, §148, Apr. 4, 1996, 110 Stat. 920; Pub. L. 107–171, title I, §1503(a), May 13, 2002, 116 Stat. 207.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1996—Subsec. (a). Pub. L. 104–127, §148(a), substituted “2002” for “2001”.
 
@@ -92,5 +94,5 @@ Amendment by Pub. L. 100–435 effective and implemented on Oct. 1, 1988, see se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 7502; title 22 section 7201.
+This section is referred to in title 7 sections 7502, 7983; title 22 section 7201.
 

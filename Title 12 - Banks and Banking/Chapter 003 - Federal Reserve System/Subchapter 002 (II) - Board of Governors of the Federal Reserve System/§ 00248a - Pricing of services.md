@@ -38,7 +38,7 @@ The schedule of fees prescribed pursuant to this section shall be based on the f
 
 #### (d) Budgetary consequences of decline in volume of services
 
-The Board shall require reductions in the operating budgets of the Federal Reserve banks commensurate with any actual or projected decline in the volume of services to be provided by such banks. The full amount of any savings so realized shall be paid into the United States Treasury.
+The Board shall require reductions in the operating budgets of the Federal Reserve bankscommensurate with any actual or projected decline in the volume of services to be provided by such banks. The full amount of any savings so realized shall be paid into the United States Treasury.
 
 #### (e) Parity in clearing
 

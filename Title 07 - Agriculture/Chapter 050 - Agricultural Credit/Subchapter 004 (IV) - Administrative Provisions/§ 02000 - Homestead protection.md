@@ -20,7 +20,7 @@ As used in this section:
 
 #### (b) Occupancy of homestead upon foreclosure, bankruptcy, or liquidation; appraisal; period of occupancy
 
-(1) The Secretary or the Administrator shall, on application by a borrower-owner who meets the eligibility requirements of subsection (c)(1) of this section, permit the borrower-owner to retain possession and occupancy of homestead property under the terms set forth, and until theaction described in this section has been completed, if—
+(1) The Secretary or the Administrator shall, on application by a borrower-owner who meets the eligibility requirements of subsection (c)(1) of this section, permit the borrower-owner to retain possession and occupancy of homestead property under the terms set forth, and until the action described in this section has been completed, if—
 
 &emsp;(A) the Secretary forecloses, holds in inventory on January 6, 1988, or takes into inventory, property securing a loan made or insured under this chapter;
 
@@ -96,7 +96,7 @@ Section 1983b of this title, referred to in subsec. (c)(3), was repealed by Pub.
 
 1996—Subsec. (c)(1)(A). Pub. L. 104–127, §644(1), substituted “30” for “90” in two places.
 
-Subsec. (c)(6). Pub. L. 104–127, §644(2), substituted “Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing a loan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
+Subsec. (c)(6). Pub. L. 104–127, §644(2), substituted “Not later than the date of acquisition of the property securing a loan made under this chapter (or, in the case of real property in inventory on April 4, 1996, not later than 5 days after April 4, 1996),” for “Within 30 days of the acquisition of the homestead property securing aloan made or insured under this chapter,” and struck out at end “For property in inventory on January 6, 1988, the Secretary shall make a good faith effort to notify the borrower-owner of the availability of homestead protection rights under this section within 60 days after January 6, 1988.”
 
 1992—Subsec. (a)(4), (5). Pub. L. 102–552, §516(i), redesignated par. (4), defining “Secretary”, as (5).
 

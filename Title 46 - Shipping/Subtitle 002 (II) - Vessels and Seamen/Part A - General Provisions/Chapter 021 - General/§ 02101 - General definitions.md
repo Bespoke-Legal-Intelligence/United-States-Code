@@ -84,7 +84,7 @@ In this subtitle—
 
 &emsp;(16) “motor vessel” means a vessel propelled by machinery other than steam.
 
-&emsp;(17) “nautical school vessel” means a vessel operated by or in connection with a nautical school or an educational institution under section 13 of the Coast Guard Authorization Act of 1986.
+&emsp;(17) “nautical school vessel” means a vessel operated by or in connection with a nautical school or an educational institution under section 558 of title 40.
 
 &emsp;(17a) “navigable waters of the United States” includes all waters of the territorial sea of the United States as described in Presidential Proclamation No. 5928 of December 27, 1988.
 
@@ -92,7 +92,7 @@ In this subtitle—
 
 &emsp;(18) “oceanographic research vessel” means a vessel that the Secretary finds is being employed only in instruction in oceanography or limnology, or both, or only in oceanographic or limnological research, including those studies about the sea such as seismic, gravity meter, and magnetic exploration and other marine geophysical or geological surveys, atmospheric research, and biological research.
 
-&emsp;(19) “offshore supply vessel” means a motor vessel of more than 15 gross tons but less than 500 gross tons as measured under section 14502of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that regularly carries goods, supplies, individuals in addition to the crew, or equipment in support of exploration, exploitation, or production of offshore mineral or energy resources.
+&emsp;(19) “offshore supply vessel” means a motor vessel of more than 15 gross tons but less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measuredunder section 14302 of this title as prescribed by the Secretary under section 14104 of this title that regularly carries goods, supplies, individuals in addition to the crew, or equipment in support of exploration, exploitation, or production of offshore mineral or energy resources.
 
 &emsp;(20) “oil” includes oil of any type or in any form, including petroleum, fuel oil, sludge, oil refuse, and oil mixed with wastes except dredged spoil.
 
@@ -204,7 +204,7 @@ In this subtitle—
 
 &emsp;(34) “Secretary”, except in part H, means the head of the department in which the Coast Guard is operating.
 
-&emsp;(35) “small passenger vessel” means a vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
+&emsp;(35) “small passenger vessel” means a wing-in-ground craft, regardless of tonnage, carrying at least one passenger for hire, and a vessel of less than 100 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title—
 
 &emsp;&emsp;(A) carrying more than 6 passengers, including at least one passenger for hire;
 
@@ -266,7 +266,9 @@ In this subtitle—
 
 &emsp;&emsp;(D) staffed by a crew under regular armed forces discipline.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445; Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(<i>l</i>), July 5, 1994, 108 Stat. 1375; Pub. L. 104–324, title VII, §709, title XI, §1104(a), Oct. 19, 1996, 110 Stat. 3934, 3966; Pub. L. 105–383, title III, §301(b)(1), Nov. 13, 1998, 112 Stat. 3417.)
+&emsp;(48) “wing-in-ground craft” means a vessel that is capable of operating completely above the surface of the water on a dynamic air cushion created by aerodynamic lift due to the ground effect between the vessel and the water's surface.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 501; Pub. L. 98–364, title IV, §402(1), July 17, 1984, 98 Stat. 445; Pub. L. 98–454, title III, §301(a), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 98–557, §34(a), Oct. 30, 1984, 98 Stat. 2876; Pub. L. 99–307, §1(1), (2), May 19, 1986, 100 Stat. 444; Pub. L. 99–509, title V, §5102(b)(1), Oct. 21, 1986, 100 Stat. 1926; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–640, §§10(b)(1), 11(a), 13(d), Nov. 10, 1986, 100 Stat. 3549–3551; Pub. L. 100–239, §6(a)(1), Jan. 11, 1988, 101 Stat. 1781; Pub. L. 100–424, §8(c)(1), Sept. 9, 1988, 102 Stat. 1593; Pub. L. 100–710, title I, §104(a)(1), (2), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 101–225, title II, §209, Dec. 12, 1989, 103 Stat. 1913; Pub. L. 101–380, title IV, §4103(a)(2)(A), Aug. 18, 1990, 104 Stat. 511; Pub. L. 101–595, title VI, §603(1), Nov. 16, 1990, 104 Stat. 2993; Pub. L. 102–587, title V, §5208(a), Nov. 4, 1992, 106 Stat. 5075; Pub. L. 103–206, title V, §§502–510, Dec. 20, 1993, 107 Stat. 2439–2441; Pub. L. 103–272, §5(<i>l</i>), July 5, 1994, 108 Stat. 1375; Pub. L. 104–324, title VII, §709, title XI, §1104(a), Oct. 19, 1996, 110 Stat. 3934, 3966; Pub. L. 105–383, title III, §301(b)(1), Nov. 13, 1998, 112 Stat. 3417; Pub. L. 107–217, §3(m)(1), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–295, title IV, §419, Nov. 25, 2002, 116 Stat. 2124.)
 
 #### Historical and Revision Notes
 
@@ -343,7 +345,7 @@ Section 2101(9) makes it clear that the term “discharge” when referring to a
 
 Section 2101(10) defines a “documented vessel” as any vessel of the United States that has been issued a certificate of documentation that might include a register, enrollment, license, or enrollment and license for various trades.
 
-Section 2101(11) lists what is included in the term “fisheries” for the purpose of documentation of vesselsand is intended to be all-inclusive of the numerous types of fishing activities.
+Section 2101(11) lists what is included in the term “fisheries” for the purpose of documentation of vessels and is intended to be all-inclusive of the numerous types of fishing activities.
 
 Section 2101(12) defines “foreign vessel” as any foreign flag or foreign operated vessel that is operated under the jurisdiction or authority of a government other than the United States.
 
@@ -415,11 +417,15 @@ Section 1005(e) of the Covenant to establish a Commonwealth of the Northern Mari
 
 Presidential Proclamation Numbered 5030, referred to in par. (10a), is set out under section 1453 of Title 16, Conservation.
 
-Section 13 of the Coast Guard Authorization Act of 1986, referred to in par. (17), is section 13 of Pub. L. 99–640, which enacted section 484d of Title 40, Public Buildings, Property, and Works and amended sections 2101 and 3305 of this title.
-
 Presidential Proclamation No. 5928, referred to in par. (17a), is set out under section 1331 of Title 43, Public Lands.
 
 #### Amendments
+
+2002—Par. (17). Pub. L. 107–217 substituted “section 558 of title 40” for “section 13 of the Coast Guard Authorization Act of 1986”.
+
+Par. (35). Pub. L. 107–295, §419(a), inserted “a wing-in-ground craft, regardless of tonnage, carrying at least one passenger for hire, and” after “ ‘small passenger vessel’ means” in introductory provisions.
+
+Par. (48). Pub. L. 107–295, §419(b), added par. (48).
 
 1998—Pars. (17a), (17b). Pub. L. 105–383 added par. (17a) and redesignated former par. (17a) as (17b).
 
@@ -539,6 +545,12 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 Amendment by Pub. L. 100–710 effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as an Effective Date note under section 30101 of this title.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–295, §1(a), Nov. 25, 2002, 116 Stat. 2064, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Maritime Transportation Security Act of 2002’.”
+
+Pub. L. 107–295, title II, §201, Nov. 25, 2002, 116 Stat. 2093, provided that: “This title \[enacting section 1902a of Title 33, Navigation and Navigable Waters, amending sections 3302, 12111, 31325, and 31343 of this title, sections 808 and 883 of the Appendix to this title, section 5313 of Title 5, Government Organization and Employees, and section 102 of Title 49, Transportation, enacting provisions set out as notes under sections 12106 and 12111 of this title and section 102 of Title 49, and amending provisions set out as notes under section 12106 of this title\] may be cited as the ‘Maritime Policy Improvement Act of 2002’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–277, div. C, title II, §201, Oct. 21, 1998, 112 Stat. 2681–616, provided that: “This title \[amending sections 12102, 12122, and 31322 of this title, enacting provisions set out as notes under section 12102 of this title and section 1851 of Title 16, Conservation, amending provisions set out as a note under section 1274 of the Appendix to this title, and repealing provisions set out as a note under section 12102 of this title\] may be cited as the ‘American Fisheries Act’.”
@@ -564,6 +576,10 @@ Section 1 of Pub. L. 100–239 provided that: “This Act \[enacting section 870
 #### Short Title of 1984 Amendment
 
 Section 401 of title IV of Pub. L. 98–364 provided that: “This title \[enacting sections 4501 to 4504, and 7311a of this title, amending this section and sections 3301, 3302, 3304, 3306, 3702, 7111, 7301, 7306, 7312, 8102, 8104, 8701, 8702, 10101, 11108, 11109, and 12101 of this title and enacting provisions set out as a note under section 3302 of this title\] may be cited as the ‘Commercial Fishing Industry Vessel Act’.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -591,7 +607,7 @@ Applicability Date for Certain Chartered Vessels.—Revised regulations governin
 
 “(b)
 
-Extension of Period.—The Secretary of the department in which the Coast Guard is operating shall extend for up to 30 additional months or until issuance of a certificate of inspection, whichever occurs first, the period of inapplicability specified in subsection (a) if the owner of the vessel concerned carries out the provisions of subsection (c) to the satisfaction of the Secretary.
+Extension of Period.—The Secretary of the department in which the Coast Guard is operating shall extend for up to 30 additional months or until issuanceof a certificate of inspection, whichever occurs first, the period of inapplicability specified in subsection (a) if the owner of the vessel concerned carries out the provisions of subsection (c) to the satisfaction of the Secretary.
 
 “(c)
 
@@ -611,7 +627,7 @@ Conditions for Extension.—To receive an extension authorized by subsection (b)
 
 “(d)
 
-Operation of Vessel During Extension Period.—The owner of a vessel receiving an extension under this section shall operate the vessel under theconditions of route, service, number of passengers, manning, and equipment as may be prescribed by the Coast Guard for the extension period.”
+Operation of Vessel During Extension Period.—The owner of a vessel receiving an extension under this section shall operate the vessel under the conditions of route, service, number of passengers, manning, and equipment as may be prescribed by the Coast Guard for the extension period.”
 
 #### Tank Vessel Definition Clarification
 
@@ -639,7 +655,7 @@ Pub. L. 102–587, title V, §5209, Nov. 4, 1992, 106 Stat. 5076, as amended by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2102, 2113, 3202, 4105 of this title; sections 121, 446c, 808, 808a, 883, 1160, 1807 of Appendix to this title; title 8 section 1184; title 15 section 2052; title 16 sections 1383a, 1802; title 22 section 1980b; title 33 sections 1225, 1321, 2602, 2704, 2732; title 42 section 7511b; title 49 sections 1101, 5117.
+This section is referred to in sections 2102, 2113, 3202, 4105 of this title; sections 121, 316a, 446c, 808, 808a, 883, 1160, 1807 of Appendix to this title; title 8 section 1184; title 15 section 2052; title 16 sections 1383a, 1802; title 22 section 1980b; title 33 sections 1225, 1321, 2602, 2704, 2732; title 42 section 7511b; title 49 sections 1101, 5117.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

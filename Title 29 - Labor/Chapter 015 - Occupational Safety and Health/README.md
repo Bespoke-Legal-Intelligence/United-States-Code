@@ -92,6 +92,7 @@
 | (c) | Contracting authority of Secretary of Labor; cooperation between Secretary of Labor and Secretary of Health and Human Services. |
 | (d) | Dissemination of information to interested parties. |
 | (e) | Delegation of functions of Secretary of Health and Human Services to Director of the National Institute for Occupational Safety and Health. |
+| [669a.](%C2%A7%2000669a%20-%20Expanded%20research%20on%20worker%20health%20and%20safety.md) | Expanded research on worker health and safety. |
 | [670\.](%C2%A7%2000670%20-%20Training%20and%20employee%20education.md) | Training and employee education. |
 | (a) | Authority of Secretary of Health and Human Services to conduct education and informational programs; consultations. |
 | (b) | Authority of Secretary of Labor to conduct short-term training of personnel. |
@@ -163,6 +164,7 @@ This chapter is referred to in section 671a of this title; title 2 sections 1302
 - [&sect; 00667 - State jurisdiction and plans](%C2%A7%2000667%20-%20State%20jurisdiction%20and%20plans.md)
 - [&sect; 00668 - Programs of Federal agencies](%C2%A7%2000668%20-%20Programs%20of%20Federal%20agencies.md)
 - [&sect; 00669 - Research and related activities](%C2%A7%2000669%20-%20Research%20and%20related%20activities.md)
+- [&sect; 00669a - Expanded research on worker health and safety](%C2%A7%2000669a%20-%20Expanded%20research%20on%20worker%20health%20and%20safety.md)
 - [&sect; 00670 - Training and employee education](%C2%A7%2000670%20-%20Training%20and%20employee%20education.md)
 - [&sect; 00671 - National Institute for Occupational Safety and Health](%C2%A7%2000671%20-%20National%20Institute%20for%20Occupational%20Safety%20and%20Health.md)
 - [&sect; 00671a - Workers&#8217; family protection](%C2%A7%2000671a%20-%20Workers%E2%80%99%20family%20protection.md)

@@ -18,7 +18,7 @@ Except as provided in subsection (g) of this section, the Secretary of Commerce 
 
 #### (A) Prohibition
 
-&emsp;&emsp;Subject to subparagraph (B), each order of the Secretary of Commerce under paragraph (1) or (2) shall also prohibit, notwithstanding any other provision of law, any person frompurchasing, directly or indirectly, unprocessed timber originating from public lands in a State if—
+&emsp;&emsp;Subject to subparagraph (B), each order of the Secretary of Commerce under paragraph (1) or (2) shall also prohibit, notwithstanding any other provision of law, any person from purchasing, directly or indirectly, unprocessed timber originating from public lands in a State if—
 
 &emsp;&emsp;&emsp;(i) such unprocessed timber would be used in substitution for exported unprocessed timber originating from private lands in that State; or
 

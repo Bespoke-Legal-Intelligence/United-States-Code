@@ -1,28 +1,22 @@
 ### §78kk. Authorization of appropriations
 
-#### (a) In general
+In addition to any other funds authorized to be appropriated to the Commission, there are authorized to be appropriated to carry out the functions, powers, and duties of the Commission, $776,000,000 for fiscal year 2003, of which—
 
-In addition to any other funds authorized to be appropriated to the Commission, there are authorized to be appropriated to carry out the functions, powers, and duties of the Commission, $351,280,000 for fiscal year 1999.
+&emsp;(1) $102,700,000 shall be available to fund additional compensation, including salaries and benefits, as authorized in the Investor and Capital Markets Fee Relief Act (Public Law 107–123; 115 Stat. 2390 et seq.);
 
-#### (b) Miscellaneous expenses
+&emsp;(2) $108,400,000 shall be available for information technology, security enhancements, and recovery and mitigation activities in light of the terrorist attacks of September 11, 2001; and
 
-Funds appropriated pursuant to this section are authorized to be expended—
+&emsp;(3) $98,000,000 shall be available to add not fewer than an additional 200 qualified professionals to provide enhanced oversight of auditors and audit services required by the Federal securities laws, and to improve Commission investigative and disciplinary efforts with respect to such auditors and services, as well as for additional professional support staff necessary to strengthen the programs of the Commission involving Full Disclosure and Prevention and Suppression of Fraud, risk management, industry technology review, compliance, inspections, examinations, market regulation, and investment management.
 
-&emsp;(1) not to exceed $3,000 per fiscal year, for official reception and representation expenses;
+(June 6, 1934, ch. 404, title I, §35, as added Pub. L. 94–29, §24, June 4, 1975, 89 Stat. 162; amended Pub. L. 95–20, Apr. 13, 1977, 91 Stat. 47; Pub. L. 95–211, Dec. 19, 1977, 91 Stat. 1492; Pub. L. 95–425, §1, Oct. 6, 1978, 92 Stat. 962; Pub. L. 96–477, title IV, §401, Oct. 21, 1980, 94 Stat. 2291; Pub. L. 100–181, title I, §101, Dec. 4, 1987, 101 Stat. 1249; Pub. L. 100–704, §8, Nov. 19, 1988, 102 Stat. 4683; Pub. L. 101–550, title I, §102, Nov. 15, 1990, 104 Stat. 2713; Pub. L. 104–290, title IV, §403, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 105–353, title II, §201, Nov. 3, 1998, 112 Stat. 3233; Pub. L. 107–204, title VI, §601, July 30, 2002, 116 Stat. 793.)
 
-&emsp;(2) not to exceed $10,000 per fiscal year, for funding a permanent secretariat for the International Organization of Securities Commissions; and
+#### References in Text
 
-&emsp;(3) not to exceed $100,000 per fiscal year, for expenses for consultations and meetings hosted by the Commission with foreign governmental and other regulatory officials, members of their delegations, appropriate representatives, and staff to exchange views concerning developments relating to securities matters, for development and implementation of cooperation agreements concerning securities matters, and provision of technical assistance for the development of foreign securities markets, such expenses to include necessary logistic and administrative expenses and the expenses of Commission staff and foreign invitees in attendance at such consultations and meetings, including—
-
-&emsp;&emsp;(A) such incidental expenses as meals taken in the course of such attendance;
-
-&emsp;&emsp;(B) any travel or transportation to or from such meetings; and
-
-&emsp;&emsp;(C) any other related lodging or subsistence.
-
-(June 6, 1934, ch. 404, title I, §35, as added Pub. L. 94–29, §24, June 4, 1975, 89 Stat. 162; amended Pub. L. 95–20, Apr. 13, 1977, 91 Stat. 47; Pub. L. 95–211, Dec. 19, 1977, 91 Stat. 1492; Pub. L. 95–425, §1, Oct. 6, 1978, 92 Stat. 962; Pub. L. 96–477, title IV, §401, Oct. 21, 1980, 94 Stat. 2291; Pub. L. 100–181, title I, §101, Dec. 4, 1987, 101 Stat. 1249; Pub. L. 100–704, §8, Nov. 19, 1988, 102 Stat. 4683; Pub. L. 101–550, title I, §102, Nov. 15, 1990, 104 Stat. 2713; Pub. L. 104–290, title IV, §403, Oct. 11, 1996, 110 Stat. 3441; Pub. L. 105–353, title II, §201, Nov. 3, 1998, 112 Stat. 3233.)
+The Investor and Capital Markets Fee Relief Act, referred to in par. (1), is Pub. L. 107–123, Jan. 16, 2002, 115 Stat. 2390. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 78a of this title and Tables.
 
 #### Amendments
+
+2002—Pub. L. 107–204 reenacted section catchline without change and amended text generally, updating fiscal year from 1999 to 2003, striking out subsec. designations, and substituting provisions relating to funding of additional compensation, terrorist-related information technology, security enhancements, and recovery and mitigation activities, and an additional 200 qualified professionals to provide enhanced oversight for provisions relating to miscellaneous expenses such as meetings and official functions.
 
 1998—Pub. L. 105–353 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to carry out the functions, powers, and duties of the Commission $300,000,000 for fiscal year 1997, in addition to any other funds authorized to be appropriated to the Commission.”
 

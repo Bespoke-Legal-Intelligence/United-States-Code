@@ -80,7 +80,7 @@ In general.—Subject to the availability of the funds identified in paragraph (
 
 &emsp;&emsp;“(B)
 
-Limitation.—The Secretary may not convey any lands or make payment to KNA under this section unless title to the lands to be conveyed by KNA under this section has been found by the United States to be sufficient in accordance with the provisions of section 355 of the Revised Statutes (40 U.S.C. 255).
+Limitation.—The Secretary may not convey any lands or make payment to KNA under this section unless title to the lands to be conveyed by KNA under this section has been found by the United States to be sufficient in accordance with the provisions of section 355 of the Revised Statutes (40 U.S.C. 255) \[now 40 U.S.C. 3111, 3112\].
 
 &emsp;“(2)
 
@@ -102,7 +102,7 @@ Lands to be conveyed to the united states.—The lands to be conveyed by KNA to 
 
 &emsp;&emsp;&emsp;“(vi) The conveyance of an access easement providing the United States and its assigns access across KNA's surface estate in the SW1/4 of section 21, T. 6 N., R. 9 W., Seward Meridian, Alaska.
 
-&emsp;&emsp;&emsp;“(vii) The conveyance of approximately 100 acres within the Beaver Creek Patented Tract, which is contiguous to lands being retained by the United States contiguous to the Beaver Creek Patented Tract, in exchange for 280 acres of Service lands currently situated within the Beaver Creek Selected Tract.
+&emsp;&emsp;&emsp;“(vii) The conveyance of approximately 100 acres within the Beaver Creek Patented Tract,which is contiguous to lands being retained by the United States contiguous to the Beaver Creek Patented Tract, in exchange for 280 acres of Service lands currently situated within the Beaver Creek Selected Tract.
 
 &emsp;&emsp;“(B)
 
@@ -122,7 +122,7 @@ Lands to be conveyed to kna.—The rights provided or lands to be conveyed by th
 
 &emsp;&emsp;“(C)
 
-Payment.—The United States shall make a total cash payment to KNA for the above-described lands of $4,443,000, contingent upon the appropriate approvals of the Federal or State of Alaska EVOSTrustees (or both) necessary for any expenditure of the EVOS settlement funds.
+Payment.—The United States shall make a total cash payment to KNA for the above-described lands of $4,443,000, contingent upon the appropriate approvals of the Federal or State of Alaska EVOS Trustees (or both) necessary for any expenditure of the EVOS settlement funds.
 
 &emsp;&emsp;“(D)
 
@@ -144,7 +144,7 @@ Removal of kna lands from the national wildlife refuge system.—
 
 &emsp;&emsp;&emsp;“(iii) The Secretary is authorized to acquire by purchase or exchange, on a willing seller basis only, any lands retained by or conveyed to KNA. In the event that any lands owned by KNA are subsequently acquired by the United States, they shall be automatically included in the Refuge System. The laws and regulations applicable to Refuge lands shall then apply to these lands and the Secretary shall then adjust the boundaries accordingly.
 
-&emsp;&emsp;&emsp;“(iv) Nothing in this section is intended to enlarge or diminish the authorities, rights, duties, obligations, or the property rights held by CIRI under the Terms and Conditions, or otherwise except as set forth in this section. In the event of the purchase by the United States of any lands from KNA in accordance with subparagraph (A)(ii), the United States shall reassume from KNA the rights it previously held under the Terms and Conditions and the provisions in any patent implementing section 22(g) of ANCSA \[43 U.S.C. 1621(g)\] will again apply.
+&emsp;&emsp;&emsp;“(iv) Nothing in this section is intended to enlarge or diminish the authorities, rights, duties, obligations, or the property rights held by CIRI under the Terms and Conditions, or otherwise except as set forth in this section. In the event of the purchase by the United States of any lands from KNA in accordance with subparagraph (A)(ii), the United States shall reassume fromKNA the rights it previously held under the Terms and Conditions and the provisions in any patent implementing section 22(g) of ANCSA \[43 U.S.C. 1621(g)\] will again apply.
 
 &emsp;&emsp;&emsp;“(v) By virtue of implementation of this section, CIRI is deemed entitled to 1,207 acres of in-lieu subsurface entitlement under section 12(a)(1) of ANCSA \[43 U.S.C. 1611(a)(1)\]. Such entitlement shall be fulfilled in accordance with paragraph 1(B)(2)(A) of the Terms and Conditions.
 
@@ -176,7 +176,7 @@ Purpose.—To balance the potential effects on fish, wildlife, and habitat of th
 
 Management.—
 
-&emsp;&emsp;“(A) Such designation is subject to all valid existing rights as well as the subsistence preferences provided under title VIII of ANILCA \[16 U.S.C. 3111 et seq.\]. Any lands conveyed to the State of Alaskashall be removed from the Lake Todatonten Special Management Area.
+&emsp;&emsp;“(A) Such designation is subject to all valid existing rights as well as the subsistence preferences provided under title VIII of ANILCA \[16 U.S.C. 3111 et seq.\]. Any lands conveyed to the State of Alaska shall be removed from the Lake Todatonten Special Management Area.
 
 &emsp;&emsp;“(B) The Secretary may permit any additional uses of the area, or grant easements, only to the extent that such use, including leasing under the mineral leasing laws, is determined to not detract from nor materially interfere with the purposes for which the Special Management Area is established.
 

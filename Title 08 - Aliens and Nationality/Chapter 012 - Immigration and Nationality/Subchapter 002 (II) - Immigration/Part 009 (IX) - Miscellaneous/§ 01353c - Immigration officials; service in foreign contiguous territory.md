@@ -1,6 +1,6 @@
 ### §1353c. Immigration officials; service in foreign contiguous territory
 
-Nothing in section 209 of title 18 relative to augmenting salaries of Government officials from outside sources shall prevent receiving reimbursements for services of immigration officials incident to the inspection of aliens in foreign contiguous territory and such reimbursement shall be credited to the appropriation, “Immigration and Naturalization Service—Salaries and Expenses.”
+Nothing in section 209 of title 18 relative to augmenting salaries of Government officialsfrom outside sources shall prevent receiving reimbursements for services of immigration officials incident to the inspection of aliens in foreign contiguous territory and such reimbursement shall be credited to the appropriation, “Immigration and Naturalization Service—Salaries and Expenses.”
 
 (Mar. 4, 1921, ch. 161, §1, 41 Stat. 1424; Sept. 3, 1954, ch. 1263, §6, 68 Stat. 1227.)
 
@@ -17,4 +17,8 @@ Section was formerly classified to section 68 of Title 5 prior to the general re
 #### Amendments
 
 1954—Act Sept. 3, 1954, amended section generally, substituting “section 1914 of title 18” for reference to the proviso in the Act of March 3, 1917 (5 U.S.C. 66), and substituting “Immigration and Naturalization Service—Salaries and Expenses” for “Expenses of regulating immigration”.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

@@ -16,7 +16,7 @@ The purpose of this part is to increase the flexibility of States in operating a
 
 This part shall not be interpreted to entitle any individual or family to assistance under any State program funded under this part.
 
-(Aug. 14, 1935, ch. 531, title IV, §401, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996,110 Stat. 2112; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
+(Aug. 14, 1935, ch. 531, title IV, §401, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2112; amended Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.)
 
 #### Prior Provisions
 
@@ -108,7 +108,7 @@ Under afdc program.—The total obligations of the Federal Government to a State
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) for fiscal year 1997, shall be an amount equal to the lesser of—
 
-&emsp;&emsp;&emsp;“(aa) the amount (if any) by which the sum of the State family assistance grant and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act \[section 603(b) of this title\] (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[section 602(a) of this title\] (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996, exceeds the total obligations of the Federal Government to the State under part A of title IV of the Social Security Act \[this part\] (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997; or
+&emsp;&emsp;&emsp;“(aa) the amount (if any) by which the sum of the State family assistance grant and theamount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act \[section 603(b) of this title\] (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act \[section 602(a) of this title\] (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996, exceeds the total obligations of the Federal Government to the State under part A of title IV of the Social Security Act \[this part\] (as in effect on September 30, 1995) with respect to expenditures in fiscal year 1997; or
 
 &emsp;&emsp;&emsp;“(bb) the sum of the State family assistance grant, multiplied by 1/365 of the number of days during the period that begins on October 1, 1996, or the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as added by the amendment made by section 103(a)(1) of this Act), whichever is later, and ends on September 30, 1997, and the amount, if any, that the State would have been eligible to be paid under the Contingency Fund for State Welfare Programs established under section 403(b) of the Social Security Act (as amended by section 103(a)(1) of this Act), during the period beginning on October 1, 1996, and ending on the date the Secretary of Health and Human Services first receives from the State a plan described in section 402(a) of the Social Security Act (as so amended) if, with respect to such State, the effective date of this Act \[title\] under subsection (a)(1) were August 22, 1996.
 
@@ -204,7 +204,7 @@ Section 101 of Pub. L. 104–193 provided that: “The Congress makes the follow
 
 &emsp;“(6) The increase of out-of-wedlock pregnancies and births is well documented as follows:
 
-&emsp;&emsp;“(A) It is estimated that the rate of nonmarital teen pregnancy rose 23 percent from 54 pregnanciesper 1,000 unmarried teenagers in 1976 to 66.7 pregnancies in 1991. The overall rate of nonmarital pregnancy rose 14 percent from 90.8 pregnancies per 1,000 unmarried women in 1980 to 103 in both 1991 and 1992. In contrast, the overall pregnancy rate for married couples decreased 7.3 percent between 1980 and 1991, from 126.9 pregnancies per 1,000 married women in 1980 to 117.6 pregnancies in 1991.
+&emsp;&emsp;“(A) It is estimated that the rate of nonmarital teen pregnancy rose 23 percent from 54 pregnancies per 1,000 unmarried teenagers in 1976 to 66.7 pregnancies in 1991. The overall rate of nonmarital pregnancy rose 14 percent from 90.8 pregnancies per 1,000 unmarried women in 1980 to 103 in both 1991 and 1992. In contrast, the overall pregnancy rate for married couples decreased 7.3 percent between 1980 and 1991, from 126.9 pregnancies per 1,000 married women in 1980 to 117.6 pregnancies in 1991.
 
 &emsp;&emsp;“(B) The total of all out-of-wedlock births between 1970 and 1991 has risen from 10.7 percent to 29.5 percent and if the current trend continues, 50 percent of all births by the year 2015 will be out-of-wedlock.
 

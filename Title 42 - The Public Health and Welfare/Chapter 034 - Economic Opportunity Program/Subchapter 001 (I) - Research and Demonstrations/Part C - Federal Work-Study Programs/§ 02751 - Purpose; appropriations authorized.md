@@ -32,7 +32,7 @@ For purposes of this part, the term “community services” means services whic
 
 Section was originally enacted as section 121 of the Economic Opportunity Act of 1964, Pub. L. 88–452, title I, Aug. 20, 1964, 78 Stat. 513. As such, it had been amended by Pub. L. 89–329, title IV, §441(2), Nov. 8, 1965, 79 Stat. 1249, and renumbered section 141 by Pub. L. 90–222, title I, §111(a), Dec. 23, 1967, 81 Stat. 726.
 
-Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was stricken to accommodate the transferal but the amendment of this section by section 441(2) of Pub. L. 89–329 has not been stricken. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
+Under Pub. L. 90–575, title I, §131(a), Oct. 16, 1968, 82 Stat. 1028, section was transferred along with the remainder of part C of title I of the Economic Opportunity Act of 1964, Pub. L. 88–452, and inserted as Part C of title IV of the Higher Education Act of 1965, Pub. L. 89–329. Former Part C of title IV of Pub. L. 89–329, as originally enacted, comprising sections 441 and 442 thereof, was stricken to accommodate the transferalbut the amendment of this section by section 441(2) of Pub. L. 89–329 has not been stricken. For amendment of section in addition to the transfers and redesignations treated above, see 1968 Amendment note below.
 
 #### Prior Provisions
 

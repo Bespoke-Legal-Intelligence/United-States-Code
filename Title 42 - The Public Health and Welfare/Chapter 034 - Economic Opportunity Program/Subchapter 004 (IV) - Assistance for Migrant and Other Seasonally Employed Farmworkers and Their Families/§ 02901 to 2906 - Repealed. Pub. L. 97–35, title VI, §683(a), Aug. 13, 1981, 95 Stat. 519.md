@@ -2,7 +2,7 @@
 
 Section 2901, Pub. L. 88–452, title IV, §401, as added Pub. L. 95–568, §9, Nov. 2, 1978, 92 Stat. 2429, set forth statement of purpose for program assistance.
 
-A prior section 2901, Pub. L. 88–452, title IV, §401, as added Pub. L. 93–644, §7, Jan. 4, 1975, 88 Stat. 2298;amended Pub. L. 94–341, §2(a)(16), July 6, 1976, 90 Stat. 804, related to establishment of Comprehensive Health Services Program, prior to the general revision of this subchapter by Pub. L. 95–568.
+A prior section 2901, Pub. L. 88–452, title IV, §401, as added Pub. L. 93–644, §7, Jan. 4, 1975, 88 Stat. 2298; amended Pub. L. 94–341, §2(a)(16), July 6, 1976, 90 Stat. 804, related to establishment of Comprehensive Health Services Program, prior to the general revision of this subchapter by Pub. L. 95–568.
 
 Another prior section 2901, Pub. L. 88–452, title IV, §401, Aug. 20, 1964, 78 Stat. 526; Pub. L. 90–222, title I, §106(a), Dec. 23, 1967, 81 Stat. 710, set forth Congressional statement of purpose of this subchapter as establishment, preservation, and strengthening of small business concerns and improvement of managerial skills employed in such enterprises, prior to repeal by Pub. L. 93–386, §2(b), Aug. 23, 1974, 88 Stat. 745. See section 636 of Title 15, Commerce and Trade.
 

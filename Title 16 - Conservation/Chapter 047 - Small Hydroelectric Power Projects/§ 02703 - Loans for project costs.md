@@ -28,7 +28,7 @@ Every applicant for a license for a small hydroelectric power project receiving 
 
 #### (d) Joint participation
 
-In making loans for small hydroelectric power projects under this section, the Secretary shall encourage joint participation, to the extent permitted by law, by applicants eligible to receive loans under this section with respect to the same project.
+In making loans for small hydroelectric power projects under this section, the Secretary shallencourage joint participation, to the extent permitted by law, by applicants eligible to receive loans under this section with respect to the same project.
 
 (Pub. L. 95–617, title IV, §403, Nov. 9, 1978, 92 Stat. 3155.)
 

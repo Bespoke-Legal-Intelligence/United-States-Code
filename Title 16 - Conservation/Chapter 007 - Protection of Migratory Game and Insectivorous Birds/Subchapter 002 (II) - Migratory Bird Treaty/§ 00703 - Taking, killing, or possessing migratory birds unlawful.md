@@ -20,6 +20,58 @@ Section 3 of Pub. L. 93–300 provided that: “The amendments made by this Act 
 
 Section 1 of act June 20, 1936, in conjunction with sections 2 to 5 of that act, provided that the amendment of this section and sections 704, 705, 707, 708 and the enactment of section 709a of this title by that act, are effective as of the day on which the President shall proclaim the exchange of ratifications of the convention between the United States and the United Mexican States for the protection of migratory birds and game mammals concluded February 7, 1936, or on June 20, 1936, whichever date is later. Such proclamation was made on June 30, 1937.
 
+#### Incidental Taking of Migratory Birds During Military Readiness Activities
+
+Pub. L. 107–314, div. A, title III, §315, Dec. 2, 2002, 116 Stat. 2509, provided that:
+
+“(a)
+
+Interim Authority for Incidental Takings.—During the period described in subsection (c), section 2 of the Migratory Bird Treaty Act (16 U.S.C. 703) shall not apply to the incidental taking of a migratory bird by a member of the Armed Forces during a military readiness activity authorized by the Secretary of Defense or the Secretary of the military department concerned.
+
+“(b)
+
+Identification of Measures to Minimize Impact of Activities.—During the periods described in subsections (c) and (d), the Secretary of Defense shall, in consultation with the Secretary of the Interior, identify measures—
+
+&emsp;“(1) to minimize and mitigate, to the extent practicable, any adverse impacts of authorized military readiness activities on affected species of migratory birds; and
+
+&emsp;“(2) to monitor the impacts of such military readiness activities on affected species of migratory birds.
+
+“(c)
+
+Period of Application for Interim Authority.—The period described in this subsection is the period beginning on the date of the enactment of this Act \[Dec. 2, 2002\] and ending on the date on which the Secretary of the Interior publishes in the Federal Register a notice that—
+
+&emsp;“(1) regulations authorizing the incidental taking of migratory birds by members of the Armed Forces have been prescribed in accordance with the requirements of subsection (d);
+
+&emsp;“(2) all legal challenges to the regulations and to the manner of their promulgation (if any) have been exhausted as provided in subsection (e); and
+
+&emsp;“(3) the regulations have taken effect.
+
+“(d)
+
+Incidental Takings After Interim Period.—(1) Not later than the expiration of the one-year period beginning on the date of the enactment of this Act, the Secretary of the Interior shall exercise the authority of that Secretary under section 3(a) of the Migratory Bird Treaty Act (16 U.S.C. 704(a)) to prescribe regulations to exempt the Armed Forces for the incidental taking of migratory birds during military readiness activities authorized by the Secretary of Defense or the Secretary of the military department concerned.
+
+“(2) The Secretary of the Interior shall exercise authority under paragraph (1) with the concurrence of the Secretary of Defense.
+
+“(e)
+
+Limitation on Judicial Review.—An action seeking judicial review of regulations prescribed pursuant to this section or of the manner of their promulgation must be filed in the appropriate Federal court by not later than the expiration of the 120-day period beginning on the date on which such regulations are published in the Federal Register. Upon the expiration of such period and the exhaustion of any legal challenges to the regulations pursuant to any action filed in such period, there shall be no further judicial review of such regulations or of the manner of their promulgation.
+
+“(f)
+
+Military Readiness Activity.—(1) In this section the term ‘military readiness activity’ includes—
+
+&emsp;“(A) all training and operations of the Armed Forces that relate to combat; and
+
+&emsp;“(B) the adequate and realistic testing of military equipment, vehicles, weapons, and sensors for proper operation and suitability for combat use.
+
+“(2) The term does not include—
+
+&emsp;“(A) the routine operation of installation operating support functions, such as administrative offices, military exchanges, commissaries, water treatment facilities, storage facilities, schools, housing, motor pools, laundries, morale, welfare, and recreation activities, shops, and mess halls;
+
+&emsp;“(B) the operation of industrial activities; or
+
+&emsp;“(C) the construction or demolition of facilities used for a purpose described in subparagraph (A) or (B).”
+
 #### Arctic Tundra Habitat Emergency Conservation
 
 Pub. L. 106–108, Nov. 24, 1999, 113 Stat. 1491, provided that:

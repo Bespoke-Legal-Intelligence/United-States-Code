@@ -22,7 +22,7 @@ The Board may make examinations of each representative office of a foreign bank,
 
 This chapter does not authorize the establishment of a representative office in any State in contravention of State law.
 
-(Pub. L. 95–369, §10, Sept. 17, 1978, 92 Stat. 624; Pub. L. 102–242, title II, §204, Dec. 19, 1991, 105 Stat. 2292; Pub. L. 102–550, title XVI, §1604(a)(4), Oct. 28, 1992, 106 Stat. 4082; Pub. L. 106–102, title I, §142(b), Nov. 12, 1999, 113 Stat. 1384.)
+(Pub. L. 95–369, §10, Sept. 17, 1978, 92 Stat. 624; Pub. L. 102–242, title II, §204, Dec. 19, 1991, 105 Stat. 2292; Pub. L. 102–550, title XVI, §1604(a)(4),Oct. 28, 1992, 106 Stat. 4082; Pub. L. 106–102, title I, §142(b), Nov. 12, 1999, 113 Stat. 1384.)
 
 #### References in Text
 

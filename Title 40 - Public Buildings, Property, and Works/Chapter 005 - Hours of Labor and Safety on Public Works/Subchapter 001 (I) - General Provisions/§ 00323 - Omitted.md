@@ -1,6 +1,0 @@
-### §323. Omitted
-
-#### Codification
-
-Section, acts Aug. 1, 1892, ch. 352, §3, 27 Stat. 340; Mar. 3, 1913, ch. 106, 37 Stat. 727, provided that sections 321 and 322 of this title should not affect contracts entered into prior to Aug. 1, 1892.
-

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-There is hereby established in the Treasury of the United States a trust fund to be known as the “Unemployment Trust Fund”, hereinafter in this subchapter called the “Fund”. The Secretary of the Treasury is authorized and directed to receive and hold in the Fund all moneys deposited therein by a State agency from a State unemployment fund, or by the Railroad Retirement Board to the credit of the railroad unemployment insurance account or the railroad unemployment insurance administration fund, or otherwise deposited in or credited to the Fund or any account therein. Such deposit may be made directly with the Secretary of the Treasury, with any depositary <sup>1</sup> designated by him for such purpose, or with any Federal Reserve Bank.
+There is hereby established in the Treasury of the United States a trust fund to be known as the “Unemployment Trust Fund”, hereinafter in this subchapter called the “Fund”. The Secretary of the Treasury is authorized and directed to receive and hold in the Fund all moneys deposited therein by a State agency from a State unemployment fund, or by the Railroad Retirement Board to the credit of the railroad unemployment insurance account or the railroad unemployment insurance administration fund, or otherwise deposited in or credited to the Fund or any account therein. Such deposit may be made directly with the Secretary of the Treasury, with any depositary designated by him for such purpose, or with any Federal Reserve Bank.
 
 #### (b) Investments
 
@@ -68,7 +68,7 @@ Subsec. (e). Act Aug. 5, 1954, §5(d), inserted “For the purposes of this subs
 
 &emsp;“(1) in the case of any State account, by reducing (but not below zero) the amount in the account by the aggregate of the outstanding advances under section 1201 from the Federal unemployment account, and
 
-&emsp;“(2) in the case of the Federal unemployment account, (A) by adding to the amount in the account the aggregate of the reductions under paragraph (1), and (B) by subtracting from the sum so obtained theaggregate of the outstanding advances from the Treasury to the account pursuant to section 1202(c).”
+&emsp;“(2) in the case of the Federal unemployment account, (A) by adding to the amount in the account the aggregate of the reductions under paragraph (1),and (B) by subtracting from the sum so obtained the aggregate of the outstanding advances from the Treasury to the account pursuant to section 1202(c).”
 
 Subsec. (g). Act Aug. 5, 1954, §5(e), repealed subsec. (g) which authorized Secretary of Treasury to make transfers from Federal unemployment account to account of any State in Unemployment Trust Fund.
 
@@ -113,6 +113,4 @@ Act Aug. 24, 1937, ch. 755, 50 Stat. 754, provided for payments to States of 90 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 503, 1105, 1109, 1322 of this title; title 2 section 906; title 5 section 8509; title 26 sections 3304, 3306; title 45 sections 360, 361, 363a, 366a.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “depository”.</i>
 

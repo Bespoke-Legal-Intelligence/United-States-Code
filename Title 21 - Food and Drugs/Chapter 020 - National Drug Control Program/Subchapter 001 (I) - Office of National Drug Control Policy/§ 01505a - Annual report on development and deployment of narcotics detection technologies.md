@@ -2,7 +2,7 @@
 
 #### (a) Report requirement
 
-Not later than December 1st of each year, the Director of the Office of National Drug Control Policy shall submit to Congress and the President a report on the development and deployment of narcotics detection technologies by Federal agencies. Each such report shall be prepared in consultation with the Secretary of Defense, the Secretary of State, the Secretary of Transportation, and the Secretary of the Treasury.
+Not later than December 1st of each year, the Director of the Office of National Drug Control Policy shall submit to Congress and the President a report on the development and deployment of narcotics detection technologies by Federal agencies. Each such report shall be prepared in consultation with the Secretary of Defense, the Secretary of State, the Secretary of Homeland Security, and the Secretary of the Treasury.
 
 #### (b) Matters to be included
 
@@ -18,9 +18,17 @@ Each report under subsection (a) of this section shall include—
 
 &emsp;(5) a detailed timeline for implementation of each project described in paragraph (1).
 
-(Pub. L. 105–85, div. A, title X, §1034, Nov. 18, 1997, 111 Stat. 1884.)
+(Pub. L. 105–85, div. A, title X, §1034, Nov. 18, 1997, 111 Stat. 1884; Pub. L. 107–296, title XVII, §1704(e)(10), Nov. 25, 2002, 116 Stat. 2315.)
 
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as part of the National Narcotics Leadership Act of 1988 which comprises this chapter.
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 

@@ -12,7 +12,7 @@ The House amendment deletes section 950 of the Senate amendment as unnecessary. 
 
 #### senate report no. 95–989
 
-\[Section 949\] This section \[enacted as section 946\], which follows section 97 of current law \[section 417 offormer title 11\], permits an exchange of a security before the case is filed to constitute an acceptance of the plan if the exchange was under a proposal that later becomes the plan.
+\[Section 949\] This section \[enacted as section 946\], which follows section 97 of current law \[section 417 of former title 11\], permits an exchange of a security before the case is filed to constitute an acceptance of the plan if the exchange was under a proposal that later becomes the plan.
 
 &nbsp;
 

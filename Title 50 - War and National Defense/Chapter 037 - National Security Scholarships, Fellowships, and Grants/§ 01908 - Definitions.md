@@ -14,9 +14,17 @@ For the purpose of this chapter:
 
 &emsp;&emsp;(B) in which the individual in such position makes their foreign language skills available to such agency or office.
 
-(Pub. L. 102–183, title VIII, §808, Dec. 4, 1991, 105 Stat. 1276; Pub. L. 104–201, div. A, title X, §1078(f)(1), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–244, title I, §102(a)(15), Oct. 7, 1998, 112 Stat. 1622.)
+&emsp;(5) The term “congressional intelligence committees” means—
+
+&emsp;&emsp;(A) the Select Committee on Intelligence of the Senate; and
+
+&emsp;&emsp;(B) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+(Pub. L. 102–183, title VIII, §808, Dec. 4, 1991, 105 Stat. 1276; Pub. L. 104–201, div. A, title X, §1078(f)(1), Sept. 23, 1996, 110 Stat. 2666; Pub. L. 105–244, title I, §102(a)(15), Oct. 7, 1998, 112 Stat. 1622; Pub. L. 107–306, title VIII, §811(b)(7)(B), Nov. 27, 2002, 116 Stat. 2426.)
 
 #### Amendments
+
+2002—Par. (5). Pub. L. 107–306 added par. (5).
 
 1998—Par. (3). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 

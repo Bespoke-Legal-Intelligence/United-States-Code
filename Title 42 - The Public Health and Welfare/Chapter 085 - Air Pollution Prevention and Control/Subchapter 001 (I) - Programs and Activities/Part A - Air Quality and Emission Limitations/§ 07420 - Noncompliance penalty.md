@@ -10,7 +10,7 @@
 
 (2)(A) Except as provided in subparagraph (B) or (C) of this paragraph, the State or the Administrator shall assess and collect a noncompliance penalty against every person who owns or operates—
 
-&emsp;(i) a major stationary source (other than a primary nonferrous smelter which has received a primary nonferrous smelter order under section 7419 of this title), which is not in compliance with any emission limitation, emission standard or compliance schedule under any applicable implementation plan (whether or not such source is subject to a Federal or State consent decree), or
+&emsp;(i) a major stationary source (other than a primary nonferrous smelter which has received a primary nonferrous smelter order under section 7419 of this title), which is not in compliance with any emission limitation, emission standard or compliance scheduleunder any applicable implementation plan (whether or not such source is subject to a Federal or State consent decree), or
 
 &emsp;(ii) a stationary source which is not in compliance with an emission limitation, emission standard, standard of performance, or other requirement established under section 7411, 7477, 7603, or 7412 of this title, or
 
@@ -56,7 +56,7 @@ Regulations under subsection (a) of this section shall—
 
 &emsp;&emsp;(B) submit a petition, within forty–five days after the issuance of such notice, challenging such notice of noncompliance or alleging entitlement to an exemption under subsection (a)(2)(B) of this section with respect to a particular source;
 
-&emsp;(5) require the Administrator to provide a hearing on the record (within the meaning of subchapter II of chapter 5 of title 5) and to make a decision on such petition (including findings of fact and conclusions of law) not later than ninety days after the receipt of any petition under paragraph (4)(B), unless the State agrees to provide a hearing which is substantially similar to such a hearing on the record and to make a decision on such petition (including such findings and conclusions) within such ninety-day period;
+&emsp;(5) require the Administrator to provide a hearing on the record (within the meaning ofsubchapter II of chapter 5 of title 5) and to make a decision on such petition (including findings of fact and conclusions of law) not later than ninety days after the receipt of any petition under paragraph (4)(B), unless the State agrees to provide a hearing which is substantially similar to such a hearing on the record and to make a decision on such petition (including such findings and conclusions) within such ninety-day period;
 
 &emsp;(6)(A) authorize the Administrator on his own initiative to review the decision of the State under paragraph (5) and disapprove it if it is not in accordance with the requirements of this section, and (B) require the Administrator to do so not later than sixty days after receipt of a petition under this subparagraph, notice, and public hearing and a showing by such petitioner that the State decision under paragraph (5) is not in accordance with the requirements of this section;
 
@@ -96,7 +96,7 @@ If the owner or operator of any stationary source to whom a notice is issued und
 
 (C) For the purpose of this section, the term “period of covered noncompliance” means the period which begins—
 
-&emsp;(i) two years after August 7, 1977, in the case of a source for which notice of noncompliance under subsection (b)(3) of this section is issued on or before the date two years after August 7, 1977, or
+&emsp;(i) two years after August 7, 1977, in the case of a source for which notice of noncomplianceunder subsection (b)(3) of this section is issued on or before the date two years after August 7, 1977, or
 
 &emsp;(ii) on the date of issuance of the notice of noncompliance under subsection (b)(3) of this section, in the case of a source for which such notice is issued after July 1, 1979,
 
@@ -122,7 +122,7 @@ Any orders, payments, sanctions, or other requirements under this section shall 
 
 In the case of any emission limitation or other requirement approved or promulgated by the Administrator under this chapter after August 7, 1977, which is more stringent than the emission limitation or requirement for the source in effect prior to such approval or promulgation, if any, or where there was no emission limitation or requirement approved or promulgated before August 7, 1977, the date for imposition of the non-compliance penalty under this section, shall be either July 1, 1979, or the date on which the source is required to be in full compliance with such emission limitation or requirement, whichever is later, but in no event later than three years after the approval or promulgation of such emission limitation or requirement.
 
-(July 14, 1955, ch. 360, title I, §120, as added Pub. L. 95–95, title I, §118, Aug. 7, 1977, 91 Stat. 714;amended Pub. L. 95–190, §14(a)(28)–(38), Nov. 16, 1977, 91 Stat. 1401; Pub. L. 101–549, title VII, §710(a), Nov. 15, 1990, 104 Stat. 2684.)
+(July 14, 1955, ch. 360, title I, §120, as added Pub. L. 95–95, title I, §118, Aug. 7, 1977, 91 Stat. 714; amended Pub. L. 95–190, §14(a)(28)–(38), Nov. 16, 1977, 91 Stat. 1401; Pub. L. 101–549, title VII, §710(a), Nov. 15, 1990, 104 Stat. 2684.)
 
 #### References in Text
 

@@ -34,7 +34,7 @@ New budget authority.—The term “new budget authority” means, with respect 
 
 > &emsp;&emsp;and includes a change in the estimated level of new budget authority provided in indefinite amounts by existing law.
 
-&emsp;(3) The term “tax expenditures” means those revenue losses attributable to provisions of the Federal tax laws which allow a special exclusion, exemption, or deduction from gross income or which provide a special credit, a preferential rate of tax, or a deferral of tax liability; and the term “tax expenditures budget” means an enumeration of such tax expenditures.
+&emsp;(3) The term “tax expenditures” means those revenue losses attributable to provisionsof the Federal tax laws which allow a special exclusion, exemption, or deduction from gross income or which provide a special credit, a preferential rate of tax, or a deferral of tax liability; and the term “tax expenditures budget” means an enumeration of such tax expenditures.
 
 &emsp;(4) The term “concurrent resolution on the budget” means—
 

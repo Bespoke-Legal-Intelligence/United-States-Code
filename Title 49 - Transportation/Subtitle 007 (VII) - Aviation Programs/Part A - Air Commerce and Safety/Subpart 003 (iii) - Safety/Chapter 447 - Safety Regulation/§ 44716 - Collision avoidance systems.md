@@ -20,7 +20,7 @@ Installation and Operation.—The Administrator shall require by regulation that
 
 (c)
 
-Operational Evaluation.—Not later than December 30, 1990, the Administrator shall establish a one-year program to collect and assess safety and operational information from civil aircraft equipped with TCAS–II for the operational evaluation of TCAS–II. The Administrator shall encourage foreign air carriers that operate civil aircraft equipped with TCAS–II to participate in the program.
+Operational Evaluation.—Not later than December 30, 1990, the Administrator shall establish a one-year program to collect and assess safety and operational information from civil aircraft equipped with TCAS–II for the operational evaluation of TCAS–II. The Administrator shall encourage foreign air carriers thatoperate civil aircraft equipped with TCAS–II to participate in the program.
 
 (d)
 

@@ -6,7 +6,7 @@ Notwithstanding any other law (except a law that specifically provides for a pro
 
 #### (b) Availability
 
-Amounts in the Federal Land Disposal Account shall be available to the Secretary andthe Secretary of Agriculture, without further Act of appropriation, to carry out this chapter.
+Amounts in the Federal Land Disposal Account shall be available to the Secretary and the Secretary of Agriculture, without further Act of appropriation, to carry out this chapter.
 
 #### (c) Use of the Federal Land Disposal Account
 

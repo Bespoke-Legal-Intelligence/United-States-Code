@@ -2,7 +2,7 @@
 
 #### (a) Similar construction in locality
 
-All laborers and mechanics employed by contractors or subcontractors (excluding tribes and tribal organizations) in the construction, alteration, or repair, including painting or decorating of buildings or other facilities in connection with contracts or grants entered into pursuant to this subchapter, shall be paid wages at not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494), as amended \[40 U.S.C. 276a et seq.\]. With respect to construction, alteration, or repair work to which the Act of March 3, 1921 is applicable under the terms of this section, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14, of 1950, and section 276c of title 40.
+All laborers and mechanics employed by contractors or subcontractors (excluding tribes and tribal organizations) in the construction, alteration, or repair, including painting or decorating of buildings or other facilities in connection with contracts or grants entered into pursuant to this subchapter, shall be paid wages at not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. With respect to construction, alteration, or repair work to which the Act of March 3, 1921 <sup>1</sup> is applicable under the terms of this section, the Secretary of Labor shall have the authority and functions set forth in Reorganization Plan Numbered 14, of 1950, and section 3145 of title 40.
 
 #### (b) Preference requirements for wages and grants
 
@@ -20,13 +20,15 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any sel
 
 #### References in Text
 
-The Davis-Bacon Act, referred to in subsec. (a), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
-Act of March 3, 1921, referred to in subsec. (a), probably means the act of March 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis Bacon Act. See note above.
+Act of March 3, 1921, referred to in subsec. (a), probably means the act of March 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis Bacon Act, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Act of April 16, 1934, referred to in subsec. (b), is act Apr. 16, 1934, ch. 147, 48 Stat. 596, as amended, popularly known as the Johnson-O'Malley Act, which is classified generally to section 452 et seq. of this title. For complete classification of this Act to the Code, see Short Title note set out under section 452 of this title and Tables.
+
+#### Codification
+
+In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act of March 3, 1931 (46 Stat. 1494), as amended” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (48 Stat. 948, 40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -36,5 +38,7 @@ Subsec. (c). Pub. L. 103–413, §102(4), added subsec. (c).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 458aaa–15, 2012, 2507, 3307 of this title; title 23 section 204; title 29 section 741; title 42 section 5662.
+This section is referred to in sections 458aaa–15, 2012, 2507, 3307 of this title; title 23 section 204; title 29 section 741.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

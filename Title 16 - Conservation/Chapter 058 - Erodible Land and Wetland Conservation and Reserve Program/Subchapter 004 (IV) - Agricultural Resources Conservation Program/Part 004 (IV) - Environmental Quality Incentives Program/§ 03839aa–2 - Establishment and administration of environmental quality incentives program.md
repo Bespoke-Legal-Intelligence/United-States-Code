@@ -4,77 +4,63 @@
 
 #### (1) In general
 
-&emsp;During the 1996 through 2002 fiscal years, the Secretary shall provide technical assistance, cost-share payments, incentive payments, and education to producers, who enter into contracts with the Secretary, through an environmental quality incentives program in accordance with this part.
+&emsp;During each of the 2002 through 2007 fiscal years, the Secretary shall provide cost-share payments and incentive payments to producers that enter into contracts with the Secretary under the program.
 
 #### (2) Eligible practices
 
-#### (A) Structural practices
+&emsp;With respect to practices implemented under this part—
 
-&emsp;&emsp;A producer who implements a structural practice shall be eligible for any combination of technical assistance, cost-share payments, and education.
+&emsp;&emsp;(A) a producer that implements a structural practice in accordance with this part shall be eligible to receive cost-share payments; and
 
-#### (B) Land management practices
+&emsp;&emsp;(B) a producer that implements a land management practice, or develops a comprehensive nutrient management plan, in accordance with this part shall be eligible to receive incentive payments.
 
-&emsp;&emsp;A producer who performs a land management practice shall be eligible for any combination of technical assistance, incentive payments, and education.
+#### (b) Practices and term
 
-#### (b) Application and term
+#### (1) Practices
 
-A contract between a producer and the Secretary under this part may—
+&emsp;A contract under this part may apply to 1 or more structural practices, land management practices, and comprehensive nutrient management practices.
 
-&emsp;(1) apply to 1 or more structural practices or 1 or more land management practices, or both; and
+#### (2) Term
 
-&emsp;(2) have a term of not less than 5, nor more than 10, years, as determined appropriate by the Secretary, depending on the practice or practices that are the basis of the contract.
+&emsp;A contract under this part shall have a term that—
 
-#### (c) Structural practices
+&emsp;&emsp;(A) at a minimum, is equal to the period beginning on the date on which the contract is entered into and ending on the date that is 1 year after the date on which all practices under the contract have been implemented; but
 
-#### (1) Offer selection process
+&emsp;&emsp;(B) not to exceed 10 years.
 
-&emsp;The Secretary shall, to the maximum extent practicable, establish a process for selecting applications for financial assistance if there are numerous applications for assistance for structural practices that would provide substantially the same level of environmental benefits. The process shall be based on—
+#### (c) Bidding down
 
-&emsp;&emsp;(A) a reasonable estimate of the projected cost of the proposals and other factors identified by the Secretary for determining which applications will result in the least cost to the program authorized by this part; and
+If the Secretary determines that the environmental values of 2 or more applications for cost-share payments or incentive payments are comparable, the Secretary shall not assign a higher priority to the application only because it would present the least cost to the program established under the program.
 
-&emsp;&emsp;(B) the priorities established under this subchapter and such other factors determined by the Secretary that maximize environmental benefits per dollar expended.
+#### (d) Cost-share payments
 
-#### (2) Concurrence of owner
+#### (1) In general
 
-&emsp;If the producer making an offer to implement a structural practice is a tenant of the land involved in agricultural production, for the offer to be acceptable, the producer shall obtain the concurrence of the owner of the land with respect to the offer.
+&emsp;Except as provided in paragraph (2), the cost-share payments provided to a producerproposing to implement 1 or more practices under the program shall be not more than 75 percent of the cost of the practice, as determined by the Secretary.
 
-#### (d) Land management practices
+#### (2) Exceptions
 
-The Secretary shall establish an application and evaluation process for awarding technical assistance or incentive payments, or both, to a producer in exchange for the performance of 1 or more land management practices by the producer.
+#### (A) Limited resource and beginning farmers
 
-#### (e) Cost-share payments, incentive payments, and technical assistance
+&emsp;&emsp;The Secretary may increase the amount provided to a producer under paragraph (1) to not more than 90 percent if the producer is a limited resource or beginning farmer or rancher, as determined by the Secretary.
 
-#### (1) Cost-share payments
+#### (B) Cost-share assistance from other sources
 
-#### (A) In general
+&emsp;&emsp;Except as provided in paragraph (3), any cost-share payments received by a producer from a State or private organization or person for the implementation of 1 or more practices on eligible land of the producer shall be in addition to the payments provided to the producer under paragraph (1).
 
-&emsp;&emsp;The Federal share of cost-share payments to a producer proposing to implement 1 or more structural practices shall be not more than 75 percent of the projected cost of the practice, as determined by the Secretary, taking into consideration any payment received by the producer from a State or local government.
+#### (3) Other payments
 
-#### (B) Limitation
+&emsp;A producer shall not be eligible for cost-share payments for practices on eligible land under the program if the producer receives cost-share payments or other benefits for the same practice on the same land under part I of this subchapter and the program.
 
-&emsp;&emsp;A producer who owns or operates a large confined livestock operation (as defined by the Secretary) shall not be eligible for cost-share payments to construct an animal waste management facility.
+#### (e) Incentive payments
 
-#### (C) Other payments
+#### (1) In general
 
-&emsp;&emsp;A producer shall not be eligible for cost-share payments for structural practices on eligible land under this part if the producer receives cost-share payments or other benefits for the same land under part I or III of this subchapter.
+&emsp;The Secretary shall make incentive payments in an amount and at a rate determined by the Secretary to be necessary to encourage a producer to perform 1 or more land management practices.
 
-#### (2) Incentive payments
+#### (2) Special rule
 
-&emsp;The Secretary shall make incentive payments in an amount and at a rate determinedby the Secretary to be necessary to encourage a producer to perform 1 or more land management practices.
-
-#### (3) Technical assistance
-
-#### (A) Funding
-
-&emsp;&emsp;The Secretary shall allocate funding under this part for the provision of technical assistance according to the purpose and projected cost for which the technical assistance is provided for a fiscal year. The allocated amount may vary according to the type of expertise required, quantity of time involved, and other factors as determined appropriate by the Secretary. Funding shall not exceed the projected cost to the Secretary of the technical assistance provided for a fiscal year.
-
-#### (B) Other authorities
-
-&emsp;&emsp;The receipt of technical assistance under this part shall not affect the eligibility of the producer to receive technical assistance under other authorities of law available to the Secretary.
-
-#### (C) Private sources
-
-&emsp;&emsp;The Secretary shall ensure that the processes of writing and developing proposals and plans for contracts under this part, and of assisting in the implementation of structural practices and land management practices covered by the contracts, are open to individuals in agribusiness, including agricultural producers, representatives from agricultural cooperatives, agricultural input retail dealers, and certified crop advisers. The requirements of this subparagraph shall also apply to any other conservation program of the Department of Agriculture that provides incentive payments, technical assistance, or cost-share payments.
+&emsp;In determining the amount and rate of incentive payments, the Secretary may accord great significance to a practice that promotes residue, nutrient, pest, invasive species, or air quality management.
 
 #### (f) Modification or termination of contracts
 
@@ -90,9 +76,13 @@ The Secretary shall establish an application and evaluation process for awarding
 
 &emsp;The Secretary may terminate a contract under this part if the Secretary determines that the producer violated the contract.
 
-#### (g) Non-Federal assistance
+#### (g) Allocation of funding
 
-The Secretary may request the services of a State water quality agency, State fish and wildlife agency, State forestry agency, or any other governmental or private resource considered appropriate to assist in providing the technical assistance necessary for the development and implementation of a structural practice or land management practice.
+For each of fiscal years 2002 through 2007, 60 percent of the funds made available for cost-share payments and incentive payments under this part shall be targeted at practices relating to livestock production.
 
-(Pub. L. 99–198, title XII, §1240B, as added Pub. L. 104–127, title III, §334, Apr. 4, 1996, 110 Stat. 998.)
+(Pub. L. 99–198, title XII, §1240B, as added Pub. L. 107–171, title II, §2301, May 13, 2002, 116 Stat. 254.)
+
+#### Prior Provisions
+
+A prior section 3839aa–2, Pub. L. 99–198, title XII, §1240B, as added Pub. L. 104–127, title III, §334, Apr. 4, 1996, 110 Stat. 998, related to establishment and administration of environmental quality incentives program, prior to the general amendment of this part by Pub. L. 107–171.
 

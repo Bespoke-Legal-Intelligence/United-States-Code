@@ -15,7 +15,7 @@
 - [&sect; 04206 - Rights of declarants; notifications; Government accountability](%C2%A7%2004206%20-%20Rights%20of%20declarants%3B%20notifications%3B%20Government%20accountability.md)
 - [&sect; 04207 - Unreviewed declarations; petition to pursue action as private contractor](%C2%A7%2004207%20-%20Unreviewed%20declarations%3B%20petition%20to%20pursue%20action%20as%20private%20contractor.md)
 - [&sect; 04208 - Nonreviewability of action by Attorney General](%C2%A7%2004208%20-%20Nonreviewability%20of%20action%20by%20Attorney%20General.md)
-- [&sect; 04209 - Financial Institution Information Award Fund](%C2%A7%2004209%20-%20Financial%20Institution%20Information%20Award%20Fund.md)
+- [&sect; 04209 - Repealed. Pub. L. 107&#8211;273, div. A, title III, &sect;301(c)(3), Nov. 2, 2002, 116 Stat. 1781](%C2%A7%2004209%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93273%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7301%28c%29%283%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201781.md)
 - [&sect; 04210 - Sources of payments to declarants](%C2%A7%2004210%20-%20Sources%20of%20payments%20to%20declarants.md)
 - [&sect; 04211 - Repealed. Pub. L. 105&#8211;362, title X, &sect;1001(e), Nov. 10, 1998, 112 Stat. 3291](%C2%A7%2004211%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20X%2C%20%C2%A71001%28e%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203291.md)
 - [&sect; 04212 - Protection for declarants](%C2%A7%2004212%20-%20Protection%20for%20declarants.md)

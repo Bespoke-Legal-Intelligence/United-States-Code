@@ -16,7 +16,7 @@ The declaration under subsection (a) of this section shall apply to those parts 
 
 #### (d) Expiration date
 
-If, 20 years from December 11, 2000, any area or part thereof described in subsection (a) of this section is not occupied by permanent structures in accordance with the requirements set out in subsection (c) of this section, or if work in connection with any activity permitted in subsection (c) of this section is not commenced within 5 years after issuance of such permits, then the declaration of nonnavigability for such area or part thereof shall expire.
+If, 20 years from December 11, 2000, any area or part thereof described in subsection (a) of this section is not occupied by permanent structures in accordance with the requirements set out in subsection (c) of this section, or if work in connection with any activity permitted in subsection (c) of this section is not commenced within 5 years after issuance of such permits,then the declaration of nonnavigability for such area or part thereof shall expire.
 
 (Pub. L. 106–541, title III, §346, Dec. 11, 2000, 114 Stat. 2614.)
 
@@ -26,7 +26,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (c), is Pu
 
 #### Codification
 
-The provisions of subsec. (b) of this section, which contain the text of the boundary descriptions, have been omitted. Such provisions appear at 106 Stat. 2614 to 2618.
+The provisions of subsec. (b) of this section, which contain the text of the boundary descriptions, have been omitted. Such provisions appear at 114 Stat. 2614 to 2618.
 
 #### “Secretary” Defined
 

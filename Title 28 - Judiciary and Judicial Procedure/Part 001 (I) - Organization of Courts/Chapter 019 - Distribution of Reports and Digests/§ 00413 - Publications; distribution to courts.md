@@ -50,7 +50,7 @@ Subsection (b) of this section incorporates in section 413 of title 28, U.S.C., 
 
 #### Amendments
 
-<b>1952</b>—Act July 10, 1952, amended section generally, and permitted delivery of publication to buildings controlled by the Government as well as to buildings owned by it.
+1952—Act July 10, 1952, amended section generally, and permitted delivery of publication to buildings controlled by the Government as well as to buildings owned by it.
 
-<b>1949</b>—Act May 24, 1949, struck out reference to the Tax Court in former provisions enumerating judges and courts to receive certain publications, and inserted provisions set out as second par.
+1949—Act May 24, 1949, struck out reference to the Tax Court in former provisions enumerating judges and courts to receive certain publications, and inserted provisions set out as second par.
 

@@ -1,0 +1,36 @@
+### §6137. Penalties
+
+(a)
+
+In General.—An individual who violates this subchapter, or a regulation prescribed under section 6102 of this title, shall be fined under title 18, imprisoned not more than 60 days, or both.
+
+(b)
+
+Venue and Procedure.—Prosecution for a violation described in subsection (a) shall be in the Superior Court of the District of Columbia, on information by the United States Attorney or an Assistant United States Attorney.
+
+(c)
+
+Offenses Involving Property Damage Over $100.—If during the commission of a violation described in subsection (a), public property is damaged in an amount exceeding $100, the period of imprisonment for the offense may be not more than five years.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1183.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+6137
+
+40:13m.
+
+Aug. 18, 1949, ch. 479, §8, 63 Stat. 617.
+
+In subsection (a), the words “fined under title 18” are substituted for “fined not more than $100” for consistency with chapter 227 of title 18.
+
+In subsection (b), the words “Superior Court of the District of Columbia” are substituted for “Municipal Court for the District of Columbia” \[subsequently changed to “District of Columbia Court of General Sessions” because of sections 1 and 7 of the Act of July 8, 1963 (Public Law 88–60, 77 Stat. 77, 78)\] because of section 155(a) of the District of Columbia Court Reorganization Act of 1970 (Public Law 91–358, 85 Stat. 570).
+

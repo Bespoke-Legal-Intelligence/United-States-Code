@@ -222,8 +222,6 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 (iii) The responsibilities of the Director under this subparagraph may not be delegated.
 
-(iv) This subparagraph has no legal effect after the expiration of the five-year period beginning on November 21, 1997.
-
 (F) Not later than 270 days after November 21, 1997, the Secretary shall issue guidance specifying the general principles that the Secretary will consider in determining when a specific intended use of a device is not reasonably included within a general use of such device for purposes of a determination of substantial equivalence under subsection (f) of this section or section 360j(<i>l</i>) of this title.
 
 (2) A device may not be found to be substantially equivalent to a predicate device that has been removed from the market at the initiative of the Secretary or that has been determined to be misbranded or adulterated by a judicial order.
@@ -232,13 +230,15 @@ For purposes of this section and sections 351, 360, 360d, 360e, 360f, 360i, and 
 
 (B) Any summary under subparagraph (A) respecting a device shall contain detailed information regarding data concerning adverse health effects and shall be made available to the public by the Secretary within 30 days of the issuance of a determination that such device is substantially equivalent to another device.
 
-(June 25, 1938, ch. 675, §513, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 540; amended Pub. L. 101–629, §§4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, 104 Stat. 4515, 4517, 4518, 4523, 4528; Pub. L. 102–300, §6(e), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(s), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, 111 Stat. 2336, 2337, 2339, 2340, 2350.)
+(June 25, 1938, ch. 675, §513, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 540; amended Pub. L. 101–629, §§4(a), 5(a)–(c)(1), (3), 12(a), 18(a), Nov. 28, 1990, 104 Stat. 4515, 4517, 4518, 4523, 4528; Pub. L. 102–300, §6(e), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(s), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§205(a), (b), 206(b), (c), 207, 208, 217, Nov. 21, 1997, 111 Stat. 2336, 2337, 2339, 2340, 2350; Pub. L. 107–250, title II, §208, Oct. 26, 2002, 116 Stat. 1613.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (b)(1), (8), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2002—Subsec. (i)(1)(E)(iv). Pub. L. 107–250 struck out cl. (iv) which read as follows: “This subparagraph has no legal effect after the expiration of the five-year period beginning on November 21, 1997.”
 
 1997—Subsec. (a)(3)(A). Pub. L. 105–115, §217, substituted “1 or more clinical investigations” for “clinical investigations”.
 
@@ -318,5 +318,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 331, 351, 360, 360d, 360e, 360g, 360j, 360m, 360aaa, 1604 of this title.
+This section is referred to in sections 331, 351, 360, 360d, 360e, 360g, 360j, 360m, 360aaa, 379i, 1604 of this title.
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) effective on the first day of the month in which such pay adjustment by the President is made effective as described above, shall adjust—
 
-&emsp;&emsp;(A) each minimum and maximum rate of pay applicable to any employee or class of employees whose pay is disbursed by the Chief Administrative Officer (other than a maximum rate equal to or greater than themaximum rate then currently being paid under the General Schedule of section 5332 of title 5 as a result of such adjustment); and
+&emsp;&emsp;(A) each minimum and maximum rate of pay applicable to any employee or class of employees whose pay is disbursed by the Chief Administrative Officer (other than a maximum rate equal to or greater than the maximum rate then currently being paid under the General Schedule of section 5332 of title 5 as a result of such adjustment); and
 
 &emsp;&emsp;(B) each monetary limitation on or monetary allowance for pay applicable to any such employee or class of employees;
 

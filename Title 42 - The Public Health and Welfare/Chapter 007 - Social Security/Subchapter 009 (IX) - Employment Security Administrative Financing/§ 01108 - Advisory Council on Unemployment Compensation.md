@@ -66,11 +66,11 @@ Each member of any Council—
 
 &emsp;The Council shall include in its report required to be submitted by February 1, 1995, the Council's findings and recommendations with respect to determining eligibility for extended unemployment benefits on the basis of unemployment statistics for regions, States, or subdivisions of States.
 
-(Aug. 14, 1935, ch. 531, title IX, §908, as added Pub. L. 91–373, title I, §141, Aug. 10, 1970, 84 Stat. 706; amended Pub. L. 98–369, div. B, title VI, §2663(d)(4), July 18, 1984, 98 Stat. 1167; Pub. L. 102–164, title III, §303, Nov. 15, 1991, 105 Stat. 1059; Pub. L. 103–152, §6, Nov. 24, 1993, 107 Stat. 1518.)
+(Aug. 14, 1935, ch. 531, title IX, §908, as added Pub. L. 91–373, title I, §141, Aug. 10, 1970, 84 Stat. 706; amended Pub. L. 98–369, div. B, title VI, §2663(d)(4), July 18, 1984, 98 Stat. 1167; Pub. L.102–164, title III, §303, Nov. 15, 1991, 105 Stat. 1059; Pub. L. 103–152, §6, Nov. 24, 1993, 107 Stat. 1518.)
 
 #### Codification
 
-Section 9 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 547, which contained provisions substantially identicalto those of section 303 of Pub. L. 102–164, amending this section, did not become effective pursuant to section 10(b) of Pub. L. 102–107, because the President did not take the action required by that section by Aug. 17, 1991.
+Section 9 of Pub. L. 102–107, Aug. 17, 1991, 105 Stat. 547, which contained provisions substantially identical to those of section 303 of Pub. L. 102–164, amending this section, did not become effective pursuant to section 10(b) of Pub. L. 102–107, because the President did not take the action required by that section by Aug. 17, 1991.
 
 #### Prior Provisions
 

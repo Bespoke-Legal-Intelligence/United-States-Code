@@ -2,7 +2,7 @@
 
 #### (a) Liens and forfeitures, etc.
 
-(1) None of the funds, assets, or income from the trust fund established in section 1773d(b) of this title which are received by the Tribe under the Settlement Agreement shall be subject tolevy, execution, forfeiture, garnishment, lien, encumbrance, or seizure.
+(1) None of the funds, assets, or income from the trust fund established in section 1773d(b) of this title which are received by the Tribe under the Settlement Agreement shall be subject to levy, execution, forfeiture, garnishment, lien, encumbrance, or seizure.
 
 (2) The annuity fund, or other investment program, established in section 1773d(a) of this title shall not be subject to levy, execution, forfeiture, garnishment, lien, encumbrance, or seizure. Payments from the fund shall be in accordance with the Act of August 2, 1983 (25 U.S.C. 117a et seq.; commonly referred to as the “Per Capita Act”).
 

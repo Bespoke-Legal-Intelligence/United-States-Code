@@ -2,13 +2,13 @@
 
 #### (a) In general
 
-Subject to subsection (b) of this section, there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2002 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
+Subject to subsection (b) of this section, there are authorized to be appropriated such sums as are necessary for each of fiscal years 1996 through 2007 for the study, plan, design, structure, and related costs of agricultural research facilities under this subchapter.
 
 #### (b) Allowable administrative costs
 
 Not more than 3 percent of the funds made available for any project for an agricultural research facility shall be available for administration of the project.
 
-(Pub. L. 88–74, §6, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, §301(d), June 23, 1998, 112 Stat. 563.)
+(Pub. L. 88–74, §6, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1179; amended Pub. L. 105–185, title III, §301(d), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7135, May 13, 2002, 116 Stat. 436.)
 
 #### Prior Provisions
 
@@ -37,6 +37,8 @@ A prior section 9 of Pub. L. 88–74 was renumbered section 7 and was classified
 A prior section 390k, Pub. L. 88–74, §12, July 22, 1963, 77 Stat. 92, authorized appropriation of such sums as might be necessary for proper administration of this subchapter, prior to repeal by Pub. L. 95–113, title XIV, §1416(2), Sept. 29, 1977, 91 Stat. 994, effective Oct. 1, 1977.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1998—Subsec. (a). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
 

@@ -32,6 +32,8 @@ Sec. 2. Articles of furniture, fixtures, and decorative objects of the White Hou
 
 Sec. 3. Nothing in this Act shall alter any privileges, powers, or duties vested in the White House Police and the United States Secret Service, Treasury Department, by section 202 of title 3, United States Code, and section 3056 of title 18, United States Code.”
 
+\[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
 #### Ex. Ord. No. 11145. Curator of White House; Committee for Preservation of White House
 
 Ex. Ord. No. 11145, Mar. 7, 1964, 29 F.R. 3189, as amended by Ex. Ord. No. 11565, Oct. 13, 1970, 35 F.R. 16155, provided:

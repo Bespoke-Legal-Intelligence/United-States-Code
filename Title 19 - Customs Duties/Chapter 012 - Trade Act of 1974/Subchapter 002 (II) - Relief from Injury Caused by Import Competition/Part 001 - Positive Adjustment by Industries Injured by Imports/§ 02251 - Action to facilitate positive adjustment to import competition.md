@@ -44,6 +44,10 @@ Amendment by Pub. L. 98–573 effective on 15th day after Oct. 30, 1984, see sec
 
 Amendment by Pub. L. 96–39 effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as an Effective Date note under section 1671 of this title.
 
+#### Study on Trade Adjustment Assistance for Fishermen
+
+Pub. L. 107–210, div. A, title I, §143, Aug. 6, 2002, 116 Stat. 953, provided that: “Not later than 1 year after the date of enactment of this Act \[Aug. 6, 2002\], the Secretary of Commerce shall conduct a study and report to Congress regarding whether a trade adjustment assistance program is appropriate and feasible for fishermen. For purposes of the preceding sentence, the term ‘fishermen’ means any person who is engaged in commercial fishing or is a United States fish processor.”
+
 #### Term “Industry” To Include Producers Located in United States Insular Possessions
 
 Pub. L. 98–67, title II, §214(f), Aug. 5, 1983, 97 Stat. 393, provided that: “For purposes of chapter 1 of title II of the Trade Act of 1974 \[this part\], the term ‘industry’ shall include producers located in the United States insular possessions.”

@@ -6,7 +6,7 @@ The Director of a facility of the Retirement Home shall safeguard and dispose of
 
 &emsp;(1) A will or other instrument of a testamentary nature involving property rights executed by a resident shall be promptly delivered, upon the death of the resident, to the proper court of record.
 
-&emsp;(2) If a resident dies intestate and the heirs or legal representative of the deceased cannot be immediately ascertained, the Director shall retain all property left by the decedent for a three-year period beginning on the date of the death. If entitlement to such property is established to the satisfaction of the Director at any time during the three-year period, the Director shall distribute the decedent's property, in equal pro-rata shares when multiple beneficiaries have been identified, to the highest following categories of identified survivors (listed in the order of precedence indicated):
+&emsp;(2) If a resident dies intestate and the heirs or legal representative of the deceased cannot be immediately ascertained, the Director shall retain all property left by the decedent for a three-year period beginning on the date of thedeath. If entitlement to such property is established to the satisfaction of the Director at any time during the three-year period, the Director shall distribute the decedent's property, in equal pro-rata shares when multiple beneficiaries have been identified, to the highest following categories of identified survivors (listed in the order of precedence indicated):
 
 &emsp;&emsp;(A) The surviving spouse or legal representative.
 
@@ -24,7 +24,7 @@ The Director of a facility of the Retirement Home shall safeguard and dispose of
 
 (B) Upon the sale of any such unclaimed estate property, the proceeds of the sale shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
-(C) If a personal representative or other fiduciary is appointed to administer a deceased resident's estate and the administration is completed before the end of such three-year period, the balance of the entire net proceeds of the estate, less expenses, shall be deposited directly in the Retirement Home Trust Fund. <sup>1</sup> The heirs or legatees of the deceased resident may file a claim made with the Secretary of Defense to reclaim such proceeds. A determination of the claim by the Secretary shall be subject to judicial review exclusively by the United States Court of Federal Claims.
+(C) If a personal representative or other fiduciary is appointed to administer a deceased resident's estate and the administration is completed before the end of such three-year period, the balance of the entire net proceeds of the estate, less expenses, shall be deposited directly in the Retirement Home Trust Fund.<sup>1</sup> The heirs or legatees of the deceased resident may file a claim made with the Secretary of Defense to reclaim such proceeds. A determination of the claim by the Secretary shall be subject to judicial review exclusively by the United States Court of Federal Claims.
 
 (2)(A) The Director of a facility of the Retirement Home may designate an attorney who is a full-time officer or employee of the United States or a member of the Armed Forces on active duty to serve as attorney or agent for the facility in any probate proceeding in which the Retirement Home may have a legal interest as nominated fiduciary, testamentary legatee, escheat legatee, or in any other capacity.
 
@@ -56,9 +56,11 @@ The net proceeds received by the Directors from the sale of effects under subsec
 
 In the case of property delivered to the Retirement Home under section 2575 of title 10, the Director of the facility shall deliver the property to the owner, the heirs or next of kin of the owner, or the legal representative of the owner, if a right to the property is established to the satisfaction of the Director of the facility within two years after the delivery.
 
-(Pub. L. 101–510, div. A, title XV, §1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, title III, §366(d), (e), Nov. 30, 1993, 107 Stat. 1631; Pub. L. 104–316, title II, §202(j), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 107–107, div. A, title XIV, §§1408, 1410(a)(3), Dec. 28, 2001, 115 Stat. 1265, 1266.)
+(Pub. L. 101–510, div. A, title XV, §1520, Nov. 5, 1990, 104 Stat. 1731; Pub. L. 103–160, div. A, title III, §366(d), (e), Nov. 30, 1993, 107 Stat. 1631; Pub. L. 104–316, title II, §202(j), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 107–107, div. A, title XIV, §§1408, 1410(a)(3), Dec. 28, 2001, 115 Stat. 1265, 1266; Pub. L. 107–314, div. A, title X, §1062(f)(3), Dec. 2, 2002, 116 Stat. 2651.)
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–314 made technical correction to directory language of Pub. L. 107–107, §1410(a)(3)(C). See 2001 Amendment note below.
 
 2001—Subsec. (a). Pub. L. 107–107, §1410(a)(3)(A), substituted “a facility” for “each facility that is maintained as a separate establishment” in introductory provisions.
 
@@ -66,7 +68,7 @@ Subsec. (b)(1)(B). Pub. L. 107–107, §1408(b), inserted “Armed Forces” bef
 
 Subsec. (b)(2)(A). Pub. L. 107–107, §§1408(a), 1410(a)(3)(B), struck out “maintained as a separate establishment” before “of the Retirement Home” and inserted “who is a full-time officer or employee of the United States or a member of the Armed Forces on active duty” after “may designate an attorney”.
 
-Subsec. (e). Pub. L. 107–107, §1410(a)(3)(C), which directed the amendment of subsec. (e) by substituting “Director of the facility” for “Directors”, was executed by making the substitution in two places to reflect the probable intent of Congress.
+Subsec. (e). Pub. L. 107–107, §1410(a)(3)(C), as amended by Pub. L. 107–314, substituted “Director of the facility” for “Directors” in two places.
 
 1996—Subsec. (b)(1)(C). Pub. L. 104–316, §202(j)(1), substituted “Secretary of Defense” for “Comptroller General of the United States” and “Secretary” for “Comptroller General”.
 
@@ -101,6 +103,10 @@ Subsec. (b). Pub. L. 103–160, §366(e), amended heading and text of subsec. (b
 &emsp;“(B) delivering the effects to the Secretary of Veterans Affairs, to a State or other military home, to a museum, or to any other appropriate institution; or
 
 &emsp;“(C) destroying the effects if the Retirement Home Board determines that they are valueless.”
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–314, div. A, title X, §1062(f), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(f)(3) is effective as of Dec. 28, 2001, and as if included in Pub. L. 107–107 as enacted.
 
 #### Effective Date
 

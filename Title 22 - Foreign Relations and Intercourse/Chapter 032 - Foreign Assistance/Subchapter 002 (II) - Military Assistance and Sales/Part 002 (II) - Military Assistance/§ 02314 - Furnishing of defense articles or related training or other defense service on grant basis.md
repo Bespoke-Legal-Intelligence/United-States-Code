@@ -64,7 +64,7 @@ Effective July 1, 1974, no defense article shall be furnished to any country on 
 
 (2)(A) No agency performing functions under this part shall, in employing or assigning personnel to participate in the performance of any such function, whether in the United States or abroad, take into account the exclusionary policies or practices of any foreign government where such policies or practices are based upon race, religion, national origin, or sex.
 
-(B) Each contract entered into by any such agency for the performance of any function under this part shall contain a provision to theeffect that no person, partnership, corporation, or other entity performing functions pursuant to such contract, shall, in employing or assigning personnel to participate in the performance of any such function, whether in the United States or abroad, take into account the exclusionary policies or practices of any foreign government where such policies or practices are based upon race, religion, national origin, or sex.
+(B) Each contract entered into by any such agency for the performance of any function under this part shall contain a provision to the effect that no person, partnership, corporation, or other entity performing functions pursuant to such contract, shall, in employing or assigning personnel to participate in the performance of any such function, whether in the United States or abroad, take into account the exclusionary policies or practices of any foreign government where such policies or practices are based upon race, religion, national origin, or sex.
 
 (3) The President shall promptly transmit reports to the Speaker of the House of Representatives and the chairman of the Committee on Foreign Relations of the Senate concerning any transaction in which any United States person (as defined in section 7701(a)(30) of title 26) is prevented by a foreign government on the basis of race, religion, national origin, or sex, from participating in the furnishing of assistance under this part, or education and training under part V of this subchapter, to any foreign country. Such reports shall include (A) a description of the facts and circumstances of any such discrimination, (B) the response thereto on the part of the United States or any agency or employee thereof, and (C) the result of such response, if any.
 
@@ -78,7 +78,7 @@ Effective July 1, 1974, no defense article shall be furnished to any country on 
 
 &emsp;&emsp;(I) extraordinary circumstances exist which necessitate a continuation of such assistance or education and training transaction, and, if so, a description of such circumstances and the extent to which such assistance or education and training transaction should be continued (subject to such conditions as Congress may impose under this section), and
 
-&emsp;&emsp;(II) on all the facts it is in the national interest of the United States to continue such assistance or education and training transaction; and
+&emsp;&emsp;(II) on all the facts it is in the national interest of the United States to continue suchassistance or education and training transaction; and
 
 &emsp;(iv) such other information as such committee may request.
 

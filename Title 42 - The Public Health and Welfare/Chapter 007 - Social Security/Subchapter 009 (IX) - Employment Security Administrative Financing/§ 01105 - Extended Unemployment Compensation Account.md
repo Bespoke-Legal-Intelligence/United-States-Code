@@ -24,7 +24,7 @@ There is hereby established in the Unemployment Trust Fund an extended unemploym
 
 #### (c) Transfers to State accounts
 
-Amounts in the extended unemployment compensation account shall be available for transferto the accounts of the States in the Unemployment Trust Fund as provided in section 204(e) of the Federal-State Extended Unemployment Compensation Act of 1970.
+Amounts in the extended unemployment compensation account shall be available for transfer to the accounts of the States in the Unemployment Trust Fund as provided in section 204(e) of the Federal-State Extended Unemployment Compensation Act of 1970.
 
 #### (d) Advances to account; repayment
 
@@ -70,7 +70,7 @@ Subsec. (d). Pub. L. 100–203, §9155(a), struck out “(without interest)” a
 
 Subsec. (d). Pub. L. 97–248, §275, inserted provision that repayment shall be made whenever the Secretary of the Treasury determines that the amount then in the account exceeds the amount necessary to meet the anticipated payments from the account during the next 3 months.
 
-1976—Subsec. (b)(1). Pub. L. 94–566 substituted “In the case of any month after March 1977 and before April of the first calendar year to which paragraph (2) of section 3301 of the Federal Unemployment Tax Act applies, the first sentence of this paragraph shall be applied by substituting ‘five-fourteenths’ for ‘one-tenth’ ” for “In the case of any month after March 1973 and before April 1974, the first sentence of this paragraph shall be applied by substituting ‘thirteen fifty-eighths’ for ‘one-tenth’ ”.
+1976—Subsec. (b)(1). Pub. L. 94–566 substituted “In the case of any month after March 1977 and before April of the first calendar year to which paragraph (2) of section3301 of the Federal Unemployment Tax Act applies, the first sentence of this paragraph shall be applied by substituting ‘five-fourteenths’ for ‘one-tenth’ ” for “In the case of any month after March 1973 and before April 1974, the first sentence of this paragraph shall be applied by substituting ‘thirteen fifty-eighths’ for ‘one-tenth’ ”.
 
 1972—Subsec. (b)(1). Pub. L. 92–329 inserted provisions for transfers in the case of any month after March 1973 and before April 1974.
 

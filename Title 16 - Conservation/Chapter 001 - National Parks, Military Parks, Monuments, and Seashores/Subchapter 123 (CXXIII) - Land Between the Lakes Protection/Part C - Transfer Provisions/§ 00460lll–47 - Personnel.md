@@ -54,7 +54,7 @@ An eligible employee shall have the right to apply for employment by the Secreta
 
 #### (4) Period of service
 
-&emsp;Except to the extent that an eligible employee that is appointed by the Secretary maybe otherwise compensated for the period of service as an employee of the Tennessee Valley Authority, that period of service shall be treated as a period of service as an employee of the Secretary for the purposes of probation, career tenure, time-in-grade, and leave.
+&emsp;Except to the extent that an eligible employee that is appointed by the Secretary may be otherwise compensated for the period of service as an employee of the Tennessee Valley Authority, that period of service shall be treated as a period of service as an employee of the Secretary for the purposes of probation, career tenure, time-in-grade, and leave.
 
 #### (d) Transfer to positions in other units of Tennessee Valley Authority
 
@@ -74,7 +74,7 @@ The Tennessee Valley Authority—
 
 #### (B) Employee participation
 
-&emsp;&emsp;In deciding on the terms of the memorandum of understanding, the Secretary and the heads of the Office of Personnel Management, the Tennessee Valley Authority and the Tennessee Valley Authority Retirement System shall meet and consult with and give full consideration to the views of employees and representatives of the employees of the Tennessee Valley Authority.
+&emsp;&emsp;In deciding on the terms of the memorandum of understanding, the Secretary and the heads of the Office of Personnel Management, the Tennessee Valley Authority and the Tennessee Valley Authority RetirementSystem shall meet and consult with and give full consideration to the views of employees and representatives of the employees of the Tennessee Valley Authority.
 
 #### (2) Eligible employees that are transferred to other units of TVA
 
@@ -126,7 +126,7 @@ The Tennessee Valley Authority—
 
 #### (A) Level of benefits
 
-&emsp;&emsp;The parties to the memorandum of understanding shall have authority to deem any applicable requirement to be met, to make payments to an employee, or take any other action necessary to provide to an eligible employee that is discharged as being excess to the needs of the Tennessee Valley Authority or the Secretary and not for cause and that does not accept an offer of employmentfrom the Secretary, an optimum level of retirement and health benefits that is equivalent to the level that has been afforded employees discharged in previous reductions in force by the Tennessee Valley Authority.
+&emsp;&emsp;The parties to the memorandum of understanding shall have authority to deem any applicable requirement to be met, to make payments to an employee, or take any other action necessary to provide to an eligible employee that is discharged as being excess to the needs of the Tennessee Valley Authority or the Secretary and not for cause and that does not accept an offer of employment from the Secretary, an optimum level of retirement and health benefits that is equivalent to the level that has been afforded employees discharged in previous reductions in force by the Tennessee Valley Authority.
 
 #### (B) Minimum benefits
 

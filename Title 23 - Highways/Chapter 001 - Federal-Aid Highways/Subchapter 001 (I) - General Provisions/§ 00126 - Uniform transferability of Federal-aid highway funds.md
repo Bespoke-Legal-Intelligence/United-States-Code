@@ -16,7 +16,7 @@ Application to Certain CMAQ Funds.—The maximum amount that a State may transfe
 
 #### Prior Provisions
 
-A prior section 126, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 93–87, title I, §152(3), Aug. 13, 1973, 87 Stat. 276, related to providing Federal aid for highway construction only to States that used at least amounts provided by law on June 18, 1934, for such purposes, prior to repeal by Pub. L. 105–178, title I, §1226(d), as added by Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837.
+A prior section 126, Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 901; Pub. L. 93–87, title I, §152(3), Aug. 13, 1973, 87Stat. 276, related to providing Federal aid for highway construction only to States that used at least amounts provided by law on June 18, 1934, for such purposes, prior to repeal by Pub. L. 105–178, title I, §1226(d), as added by Pub. L. 105–206, title IX, §9003(a), July 22, 1998, 112 Stat. 837.
 
 #### Amendments
 

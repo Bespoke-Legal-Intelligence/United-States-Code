@@ -6,7 +6,7 @@ It shall be unlawful for any person other than an issuer that is subject to sect
 
 &emsp;(1) any foreign official for purposes of—
 
-&emsp;&emsp;(A)(i) influencing any act or decision of such foreign official in his official capacity, (ii) inducing such foreign official to do oromit to do any act in violation of the lawful duty of such official, or (iii) securing any improper advantage; or
+&emsp;&emsp;(A)(i) influencing any act or decision of such foreign official in his official capacity, (ii) inducing such foreign official to do or omit to do any act in violation of the lawful duty of such official, or (iii) securing any improper advantage; or
 
 &emsp;&emsp;(B) inducing such foreign official to use his influence with a foreign government or instrumentality thereof to affect or influence any act or decision of such government or instrumentality,
 
@@ -46,7 +46,7 @@ It shall be an affirmative defense to actions under subsection (a) of this secti
 
 #### (d) Injunctive relief
 
-(1) When it appears to the Attorney General that any person to which this section applies, or officer, director, employee, agent, or stockholder thereof, is engaged, or about to engage, in any act or practice constituting a violation of subsection (a) of this section, the Attorney General may, in his discretion, bring a civil action in an appropriate district court of the United States to enjoin such act or practice, and upon a proper showing, a permanent injunction or a temporary restraining order shall be granted without bond.
+(1) When it appears to the Attorney General that any person to which this section applies, or officer, director, employee, agent, or stockholder thereof, is engaged, or about to engage,in any act or practice constituting a violation of subsection (a) of this section, the Attorney General may, in his discretion, bring a civil action in an appropriate district court of the United States to enjoin such act or practice, and upon a proper showing, a permanent injunction or a temporary restraining order shall be granted without bond.
 
 (2) For the purpose of any civil investigation which, in the opinion of the Attorney General, is necessary and proper to enforce this section, the Attorney General or his designee are empowered to administer oaths and affirmations, subpoena witnesses, take evidence, and require the production of any books, papers, or other documents which the Attorney General deems relevant or material to such investigation. The attendance of witnesses and the production of documentary evidence may be required from any place in the United States, or any territory, possession, or commonwealth of the United States, at any designated place of hearing.
 

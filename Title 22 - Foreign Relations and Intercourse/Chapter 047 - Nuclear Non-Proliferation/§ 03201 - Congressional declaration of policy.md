@@ -8,7 +8,7 @@ The Congress finds and declares that the proliferation of nuclear explosive devi
 
 &emsp;(c) strongly encourage nations which have not ratified the Treaty on the Non-Proliferation of Nuclear Weapons to do so at the earliest possible date; and
 
-&emsp;(d) cooperate with foreign nations in identifying and adapting suitable technologies for energy production and, in particular, to identify alternative options to nuclear power in aiding such nations to meet their energy needs, consistent with the economic and material resources of those nations and environmental protection.
+&emsp;(d) cooperate with foreign nations in identifying and adapting suitable technologies for energy production and, in particular, to identify alternative options to nuclear power inaiding such nations to meet their energy needs, consistent with the economic and material resources of those nations and environmental protection.
 
 (Pub. L. 95–242, §2, Mar. 10, 1978, 92 Stat. 120.)
 
@@ -18,7 +18,7 @@ Section 603(c) of Pub. L. 95–242 provided that: “Except where otherwise prov
 
 #### Short Title
 
-Section 1 of Pub. L. 95–242 provided: “That this Act \[enacting this chapter and sections 2139a, 2141, 2153a to 2153e, 2153f, and 2155 to 2160a of Title 42, The PublicHealth and Welfare, amending sections 2074, 2075, 2077, 2094, 2139, and 2153 of Title 42, and enacting provisions set out as notes under sections 3201, 3222, and 3262 of this title and section 2139 of Title 42\] may be cited as the ‘Nuclear Non-Proliferation Act of 1978’.”
+Section 1 of Pub. L. 95–242 provided: “That this Act \[enacting this chapter and sections 2139a, 2141, 2153a to 2153e, 2153f, and 2155 to 2160a of Title 42, The Public Health and Welfare, amending sections 2074, 2075, 2077, 2094, 2139, and 2153 of Title 42, and enacting provisions set out as notes under sections 3201, 3222, and 3262 of this title and section 2139 of Title 42\] may be cited as the ‘Nuclear Non-Proliferation Act of 1978’.”
 
 #### Nuclear Proliferation Prevention; Effective and Termination Dates of 1994 Amendment
 

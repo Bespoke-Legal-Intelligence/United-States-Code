@@ -26,7 +26,7 @@
 
 #### (3) Coordination with benefits under title 5
 
-&emsp;Extra credit for service at an unhealthful post may not be credited to a participant who is paid a differential under section 5925 or 5928 of title 5 for the same service.
+&emsp;Extra credit for service at an unhealthful post may not be credited to a participant whois paid a differential under section 5925 or 5928 of title 5 for the same service.
 
 (Pub. L. 88–643, title II, §251, as added Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3228.)
 

@@ -8,7 +8,7 @@ For purposes of the Administrator's approval or disapproval under section 300h�
 
 &emsp;(2) any underground injection for the secondary or tertiary recovery of oil or natural gas,
 
-> in lieu of the showing required under subparagraph (A) of section 300h–1(b)(1) of this title theState may demonstrate that such portion of the State program meets the requirements of subparagraphs (A) through (D) of section 300h(b)(1) of this title and represents an effective program (including adequate recordkeeping and reporting) to prevent underground injection which endangers drinking water sources.
+> in lieu of the showing required under subparagraph (A) of section 300h–1(b)(1) of this title the State may demonstrate that such portion of the State program meets the requirements of subparagraphs (A) through (D) of section 300h(b)(1) of this title and represents an effective program (including adequate recordkeeping and reporting) to prevent underground injection which endangers drinking water sources.
 
 #### (b) Revision or amendment of requirements of regulation; showing of effectiveness of program by State
 

@@ -6,7 +6,7 @@ The salaries and travel allowances of the Governor, Lieutenant Governor, the hea
 
 #### Codification
 
-Prior to the 1968 amendment of section 20 of act July 22, 1954, this section constituted subsec. (c) of said section 20. Subsecs. (a) and (b) of said section 20 were classified to sections 1592 and 1598, respectively, of thistitle. Section 10 of Pub. L. 90–496 consolidated the text of said section 20 into a single unlettered paragraph, classified to this section.
+Prior to the 1968 amendment of section 20 of act July 22, 1954, this section constituted subsec. (c) of said section 20. Subsecs. (a) and (b) of said section 20 were classified to sections 1592 and 1598, respectively, of this title. Section 10 of Pub. L. 90–496 consolidated the text of said section 20 into a single unlettered paragraph, classified to this section.
 
 #### Amendments
 

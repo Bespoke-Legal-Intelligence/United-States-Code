@@ -10,7 +10,7 @@
 
 &emsp;(4) the broadening of stock ownership, particularly with regard to employee stock ownership plans (as defined in section 4975(e)(7) of title 26 and section 1107(d)(6) of this title) and all other alternative methods for broadening stock ownership to the American labor force and others;
 
-&emsp;(5) the effects and desirability of the Federal preemption of State and local law with respect to matters relating to pension and similar plans; and
+&emsp;(5) the effects and desirability of the Federal preemption of State and local law with respectto matters relating to pension and similar plans; and
 
 &emsp;(6) such other matter as any of the committees referred to in section 1221 of this title may refer to it.
 

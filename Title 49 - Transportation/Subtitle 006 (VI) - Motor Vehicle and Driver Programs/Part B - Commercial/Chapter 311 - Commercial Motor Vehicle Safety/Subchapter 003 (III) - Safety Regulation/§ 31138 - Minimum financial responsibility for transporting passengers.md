@@ -56,13 +56,13 @@ Nonapplication.—This section does not apply to a motor vehicle—
 
 &emsp;(1) transporting only school children and teachers to or from school;
 
-&emsp;(2) providing taxicab service, having a seating capacity of not more than 6 passengers, and not being operated on a regular route or between specified places;
+&emsp;(2) providing taxicab service (as defined in section 13102);
 
 &emsp;(3) carrying not more than 15 individuals in a single, daily round trip to and from work; or
 
 &emsp;(4) providing transportation service within a transit service area under an agreement with a Federal, State, or local government funded, in whole or in part, with a grant under section 5307, 5310, or 5311, including transportation designed and carried out to meet the special needs of elderly individuals and individuals with disabilities; except that, in any case in which the transit service area is located in more than 1 State, the minimum level of financial responsibility for such motor vehicle will be at least the highest level required for any of such States.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1005; Pub. L. 104–88, title I, §104(c), (d), Dec. 29, 1995, 109 Stat. 919.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1005; Pub. L. 104–88, title I, §104(c), (d), Dec. 29, 1995, 109 Stat. 919; Pub. L. 107–298, §3(b)(2), Nov. 26, 2002, 116 Stat. 2343.)
 
 Historical and Revision Notes
 
@@ -116,6 +116,8 @@ In subsection (e), before clause (1), the text of section 18(g) of the Bus Regul
 
 #### Amendments
 
+2002—Subsec. (e)(2). Pub. L. 107–298 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “providing taxicab service, having a seating capacity of not more than 6 passengers, and not being operated on a regular route or between specified places;”.
+
 1995—Subsec. (c)(3). Pub. L. 104–88, §104(c), added par. (3).
 
 Subsec. (e)(4). Pub. L. 104–88, §104(d), added par. (4).
@@ -126,5 +128,5 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 507, 521, 526, 10927, 13101, 13902, 13906, 31102 of this title.
+This section is referred to in sections 507, 521, 526, 10927, 13101, 13902, 13906, 14501, 31102 of this title.
 

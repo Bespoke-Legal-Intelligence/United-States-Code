@@ -72,6 +72,10 @@ Amendment by Pub. L. 100–448 effective Oct. 1, 1988, see section 6(e) of Pub. 
 
 Amendment by Pub. L. 98–369 effective Oct. 1, 1984, to apply with respect to fiscal years beginning after Sept. 30, 1984, see section 1013 of Pub. L. 98–369, set out as a note under section 13101 of this title.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Boating Safety Fund
 
 Pub. L. 99–272, title VI, §6001, Apr. 7, 1986, 100 Stat. 121, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “An amount equal to one-third of the amount transferred for fiscal year 1985 to the Boat Safety Account under section 9503(c)(4) of the Internal Revenue Code of 1986 (26 U.S.C. 9503(c)(4)) shall be deposited in the general fund of the Treasury as proprietary receipts of the department in which the Coast Guard is operating and ascribed to Coast Guard activities. Section 13106(a) of title 46, United States Code, shall be applied with respect to fiscal year 1985 by substituting ‘one-third’ for ‘two-thirds’ in the first sentence.”

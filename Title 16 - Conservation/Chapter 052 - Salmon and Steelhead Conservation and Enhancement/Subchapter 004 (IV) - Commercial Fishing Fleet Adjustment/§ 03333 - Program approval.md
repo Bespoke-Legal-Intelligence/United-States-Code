@@ -8,7 +8,7 @@ The State shall submit its program and submit revisions, modifications, or amend
 
 Prior to approving such program or any revision, modification, or amendment, and authorizing Federal funds to be distributed in accordance with this subchapter, the Secretary must find that—
 
-&emsp;(1) the State, acting through its chosen agency or agencies, has authority to carry out a commercial and charter vessel fleet reduction program in accordance with the provisions of this subchapter;
+&emsp;(1) the State, acting through its chosen agency or agencies, has authority to carry outa commercial and charter vessel fleet reduction program in accordance with the provisions of this subchapter;
 
 &emsp;(2) the State program provides that a fishing or charter vessel may not be purchased by the State from other than the person who owned the vessel on December 22, 1980;
 

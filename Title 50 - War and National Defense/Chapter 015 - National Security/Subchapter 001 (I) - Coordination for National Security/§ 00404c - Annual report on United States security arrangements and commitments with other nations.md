@@ -36,7 +36,7 @@ The congressional committees referred to in subsection (a) of this section are t
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1991, and not as partof the National Security Act of 1947 which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1991, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
 

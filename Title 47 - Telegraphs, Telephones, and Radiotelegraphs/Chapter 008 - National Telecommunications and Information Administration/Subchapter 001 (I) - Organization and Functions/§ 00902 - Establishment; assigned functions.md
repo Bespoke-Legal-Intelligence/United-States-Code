@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(ii) conduct a continuous review of all phases of the development and operation of such system, including the activities of the Corporation;
 
-&emsp;&emsp;&emsp;(iii) coordinate, in consultation with the Secretary of State, the activities of governmental agencies with responsibilities in the field of telecommunications, so as to ensure that there is full and effective compliance at all times with the policies set forth in the Communications Satellite Act of 1962 \[47 U.S.C. 701 et seq.\];
+&emsp;&emsp;&emsp;(iii) coordinate, in consultation with the Secretary of State, the activities of governmental agencies with responsibilities inthe field of telecommunications, so as to ensure that there is full and effective compliance at all times with the policies set forth in the Communications Satellite Act of 1962 \[47 U.S.C. 701 et seq.\];
 
 &emsp;&emsp;&emsp;(iv) make recommendations to the President and others as appropriate, with respect to steps necessary to ensure the availability and appropriate utilization of the communications satellite system for general governmental purposes in consonance with section 201(a)(6) of the Communications Satellite Act of 1962 (47 U.S.C. 721(a)(6)); <sup>1</sup>
 
@@ -92,11 +92,13 @@
 
 &emsp;In addition to the functions described in paragraph (2), the Secretary under paragraph (1)—
 
-&emsp;&emsp;(A) may assign to the NTIA the performance of functions under section 504(a) of the Communications Satellite Act of 1962 (47 U.S.C. 753(a)); and
+&emsp;&emsp;(A) may assign to the NTIA the performance of functions under section 504(a) of the Communications Satellite Act of 1962 (47 U.S.C. 753(a));
 
-&emsp;&emsp;(B) shall assign to the NTIA the administration of the Public Telecommunications Facilities Program under sections 390 through 393 of this title, and the National Endowment for Children's Educational Television under section 394 of this title.
+&emsp;&emsp;(B) shall assign to the NTIA the administration of the Public Telecommunications Facilities Program under sections 390 through 393 of this title, and the National Endowment for Children's Educational Television under section 394 of this title; and
 
-(Pub. L. 102–538, title I, §103, Oct. 27, 1992, 106 Stat. 3534.)
+&emsp;&emsp;(C) shall assign to the NTIA responsibility for providing for the establishment, and overseeing operation, of a second-level Internet domain within the United States country code domain in accordance with section 941 of this title.
+
+(Pub. L. 102–538, title I, §103, Oct. 27, 1992, 106 Stat. 3534; Pub. L. 107–317, §3, Dec. 4, 2002, 116 Stat. 2767.)
 
 #### References in Text
 
@@ -109,6 +111,10 @@ The Communications Satellite Act of 1962, referred to in subsec. (b)(2)(C)(iii),
 Section 201(a)(6) of the Communications Satellite Act of 1962, referred to in subsec. (b)(2)(C)(iv), was classified to section 721(a)(6) of this title and was omitted from the Code.
 
 Executive Order 11556, referred to in subsec. (b)(2)(S), which was formerly set out as a note under section 305 of this title was revoked by Ex. Ord. No. 12046, set out as a note under section 305 of this title. Section 10 of Ex. Ord. No. 11556 related to advisory committees established by the Director of the former Office of Telecommunications Policy.
+
+#### Amendments
+
+2002—Subsec. (b)(3)(C). Pub. L. 107–317 added subpar. (C).
 
 #### Study of Technology Protection Measures
 

@@ -10,7 +10,7 @@ The Chief Administrative Officer is authorized to receive for deposit, amounts c
 
 #### (c) Deposit of receipts; availability for expenditure
 
-Receipts from the commissions and charges set forth in subsections (a) and (b) of this section shall be deposited in the United States Treasury for credit to the appropriation for “Salaries and Expenses of the United States House of Representatives”, and shall be available for expenditure upon the approval of the Committee on Appropriations of the House of Representatives.
+Receipts from the commissions and charges set forth in subsections (a) and (b) of this section shall be deposited in the United States Treasury for credit to the appropriation for “Salaries and Expenses of the United StatesHouse of Representatives”, and shall be available for expenditure upon the approval of the Committee on Appropriations of the House of Representatives.
 
 (Pub. L. 100–458, title III, §306, Oct. 1, 1988, 102 Stat. 2182; Pub. L. 104–186, title II, §204(64), Aug. 20, 1996, 110 Stat. 1739.)
 

@@ -270,7 +270,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 15b, 16a, 27a, 27b, 27c, 27d, 27e, 27f, 499n, 1502, 7331 of this title; title 2 section 1602; title 11 section 761; title 12 sections 4421, 4422; title 15 sections 78c, 78f, 78i, 78<i>o</i>, 78q–1, 80a–9, 80b–3, 431, 6809, 6827; title 26 section 277.
+This chapter is referred to in sections 15b, 16a, 27a, 27b, 27c, 27d, 27e, 27f, 499n, 1502, 7331 of this title; title 2 section 1602; title 11 section 761; title 12 sections 4421, 4422; title 15 sections 78c, 78f, 78i, 78<i>o</i>, 78q–1, 80a–9, 80b–3, 431, 6809, 6827; title 26 section 277; title 31 section 5312.
 
 
 ---

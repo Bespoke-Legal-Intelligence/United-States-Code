@@ -4,7 +4,7 @@
 
 (b) The President, with respect to the Executive agencies, the head of the agency concerned, with respect to the appropriate agency outside the executive branch, and the District of Columbia Council, with respect to the government of the District of Columbia, shall prescribe and issue, or provide for the formulation and issuance of, regulations necessary and appropriate to carry out the provisions, accomplish the purposes, and govern the administration of this subchapter.
 
-(c) The head of each Executive agency may prescribe and issue regulations, not inconsistent with the regulations of the President issued under subsection (b) of this section, necessaryand appropriate to carry out his functions under this subchapter.
+(c) The head of each Executive agency may prescribe and issue regulations, not inconsistent with the regulations of the President issued under subsection (b) of this section, necessary and appropriate to carry out his functions under this subchapter.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 481; Pub. L. 90–623, §1(11), Oct. 22, 1968, 82 Stat. 1312.)
 

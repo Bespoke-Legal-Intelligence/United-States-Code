@@ -14,7 +14,7 @@
 
 #### (C) Duration
 
-&emsp;&emsp;The State plan shall remain in effect subject to the submission of such modifications as the State determines to be necessary or as the Commissioner may require based on a change in State policy, a change in Federal law (including regulations), an interpretation of this chapter by a Federal court or the highest court of the State, or a finding by the Commissioner of State noncompliance with the requirements of this chapter, until the State submits and receives approval of a new State plan.
+&emsp;&emsp;The State plan shall remain in effect subject to the submission of such modificationsas the State determines to be necessary or as the Commissioner may require based on a change in State policy, a change in Federal law (including regulations), an interpretation of this chapter by a Federal court or the highest court of the State, or a finding by the Commissioner of State noncompliance with the requirements of this chapter, until the State submits and receives approval of a new State plan.
 
 #### (2) Designated State agency; designated State unit
 
@@ -124,7 +124,7 @@
 
 &emsp;&emsp;&emsp;(ii) to the extent that such standards are not based on the highest requirements in the State applicable to a specific profession or discipline, the steps the State is taking to require the retraining or hiring of personnel within the designated State unit that meet appropriate professional requirements in the State; and
 
-&emsp;&emsp;(C) contain provisions relating to the establishment and maintenance of minimum standards to ensure the availability of personnel within the designated State unit, tothe maximum extent feasible, trained to communicate in the native language or mode of communication of an applicant or eligible individual.
+&emsp;&emsp;(C) contain provisions relating to the establishment and maintenance of minimum standards to ensure the availability of personnel within the designated State unit, to the maximum extent feasible, trained to communicate in the native language or mode of communication of an applicant or eligible individual.
 
 #### (8) Comparable services and benefits
 
@@ -172,7 +172,7 @@
 
 #### (ii) Reimbursement
 
-&emsp;&emsp;&emsp;If a public entity other than the designated State unit fails to provide or pay for the services described in clause (i) for an eligible individual, the designated State unit shall provide or pay for such services to the individual. Such designated State unit may claim reimbursement for the services from the public entity that failed to provide or pay for such services. Such public entity shall reimburse the designated State unit pursuant to the terms of the interagency agreement or other mechanism described in this paragraph according to the procedures established in such agreement or mechanism pursuant to subparagraph (B)(ii).
+&emsp;&emsp;&emsp;If a public entity other than the designated State unit fails to provide or pay for the services described in clause (i) for an eligible individual, the designated State unit shall provide or pay for such services to the individual. Such designated State unit may claim reimbursement for theservices from the public entity that failed to provide or pay for such services. Such public entity shall reimburse the designated State unit pursuant to the terms of the interagency agreement or other mechanism described in this paragraph according to the procedures established in such agreement or mechanism pursuant to subparagraph (B)(ii).
 
 #### (D) Methods
 
@@ -308,7 +308,7 @@
 
 #### (B) Replication of cooperative agreements
 
-&emsp;&emsp;The State plan shall provide for the replication of such cooperative agreements atthe local level between individual offices of the designated State unit and local entities carrying out activities through the statewide workforce investment system.
+&emsp;&emsp;The State plan shall provide for the replication of such cooperative agreements at the local level between individual offices of the designated State unit and local entities carrying out activities through the statewide workforce investment system.
 
 #### (C) Interagency cooperation with other agencies
 
@@ -484,7 +484,7 @@
 
 #### (19) Choice
 
-&emsp;The State plan shall include an assurance that applicants and eligible individuals or, asappropriate, the applicants’ representatives or individuals’ representatives, will be provided information and support services to assist the applicants and individuals in exercising informed choice throughout the rehabilitation process, consistent with the provisions of section 722(d) of this title.
+&emsp;The State plan shall include an assurance that applicants and eligible individuals or, as appropriate, the applicants’ representatives or individuals’ representatives, will be provided information and support services to assist the applicants and individuals in exercising informed choice throughout the rehabilitation process, consistent with the provisions of section 722(d) of this title.
 
 #### (20) Information and referral services
 
@@ -544,7 +544,7 @@
 
 #### (B) More than one designated State agency
 
-&emsp;&emsp;In the case of a State that, under subsection (a)(2) of this section, designates a State agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State Rehabilitation Council for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for both agencies if neither agency meets the requirements of subparagraph (A)(i).
+&emsp;&emsp;In the case of a State that, under subsection (a)(2) of this section, designates aState agency to administer the part of the State plan under which vocational rehabilitation services are provided for individuals who are blind (or to supervise the administration of such part by a local agency) and designates a separate State agency to administer the rest of the State plan, the State shall either establish a State Rehabilitation Council for each of the two agencies that does not meet the requirements in subparagraph (A)(i), or establish one State Rehabilitation Council for both agencies if neither agency meets the requirements of subparagraph (A)(i).
 
 #### (22) Supported employment State plan supplement
 

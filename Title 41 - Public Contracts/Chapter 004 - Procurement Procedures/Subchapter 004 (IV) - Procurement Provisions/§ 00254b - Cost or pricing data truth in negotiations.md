@@ -42,7 +42,7 @@
 
 (4) Except as provided under subsection (b) of this section, this section applies to contracts entered into by the head of an executive agency on behalf of a foreign government.
 
-(5) A waiver of requirements for submission of certified cost or pricing data that is granted under subsection (b)(1)(C) of this section in the case of a contract or subcontract does not waive the requirement under paragraph (1)(C) for submission of cost or pricing data in the case of subcontracts under that contract or subcontract unless the head of the procuring activity granting the waiver determines that the requirement under that paragraph should be waived in the case of such subcontracts and justifies in writing the reasons for the determination.
+(5) A waiver of requirements for submission of certified cost or pricing data that is granted under subsection (b)(1)(C) of this section in thecase of a contract or subcontract does not waive the requirement under paragraph (1)(C) for submission of cost or pricing data in the case of subcontracts under that contract or subcontract unless the head of the procuring activity granting the waiver determines that the requirement under that paragraph should be waived in the case of such subcontracts and justifies in writing the reasons for the determination.
 
 (6) Upon the request of a contractor that was required to submit cost or pricing data under paragraph (1) in connection with a prime contract entered into on or before October 13, 1994, the head of the executive agency that entered into such contract shall modify the contract to reflect subparagraphs (B)(ii) and (C)(ii) of paragraph (1). All such modifications shall be made without requiring consideration.
 

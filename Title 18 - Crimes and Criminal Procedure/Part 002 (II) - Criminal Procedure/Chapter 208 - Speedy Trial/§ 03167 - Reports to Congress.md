@@ -26,7 +26,7 @@
 
 &emsp;(4) suggested changes in the guidelines or other rules implementing this chapter or statutory amendments which the Department of Justice deems necessary to further improve the administration of justice and meet the objectives of this chapter; and
 
-&emsp;(5) the impact of compliance with the time limits of subsections (b) and (c) of section 3161 upon the litigation of civil cases by the offices of the United States Attorneys and the rule changes, statutory amendments, and resources necessary to assure that such litigation is not prejudiced by full compliance with this chapter.
+&emsp;(5) the impact of compliance with the time limits of subsections (b) and (c) of section 3161 upon the litigation of civil cases by the offices of the United States Attorneys and the rulechanges, statutory amendments, and resources necessary to assure that such litigation is not prejudiced by full compliance with this chapter.
 
 (Added Pub. L. 93–619, title I, §101, Jan. 3, 1975, 88 Stat. 2083; amended Pub. L. 96–43, §9(e), Aug. 2, 1979, 93 Stat. 330.)
 

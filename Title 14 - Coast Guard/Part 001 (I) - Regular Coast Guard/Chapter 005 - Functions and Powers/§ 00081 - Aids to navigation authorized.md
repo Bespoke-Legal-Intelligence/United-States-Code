@@ -8,7 +8,7 @@ In order to aid navigation and to prevent disasters, collisions, and wrecks of v
 
 &emsp;(3) electronic aids to navigation systems (a) required to serve the needs of the armed forces of the United States peculiar to warfare and primarily of military concern as determined by the Secretary of Defense or any department within the Department of Defense; or (b) required to serve the needs of the maritime commerce of the United States; or (c) required to serve the needs of the air commerce of the United States as requested by the Administrator of the Federal Aviation Administration.
 
-> These aids to navigation other than electronic aids to navigation systems shall be established and operated only within the United States, the waters above the Continental Shelf, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and beyond the territorial jurisdiction of the United States at places where naval or military bases ofthe United States are or may be located. The Coast Guard may establish, maintain, and operate aids to maritime navigation under paragraph (1) of this section by contract with any person, public body, or instrumentality.
+> These aids to navigation other than electronic aids to navigation systems shall be established and operated only within the United States, the waters above the Continental Shelf, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and beyond the territorial jurisdiction of the United States at places where naval or military bases of the United States are or may be located. The Coast Guard may establish, maintain, and operate aids to maritime navigation under paragraph (1) of this section by contract with any person, public body, or instrumentality.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 500; June 22, 1951, ch. 150, 65 Stat. 89; Sept. 3, 1954, ch. 1263, §30, 68 Stat. 1237; Pub. L. 85–726, title XIV, §1404, Aug. 23, 1958, 72 Stat. 808; Pub. L. 89–662, §1, Oct. 14, 1966, 80 Stat. 912; Pub. L. 94–546, §1(3), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–322, title I, §105(a), Oct. 15, 1982, 96 Stat. 1582.)
 
@@ -34,7 +34,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Effective Date of 1958 Amendment
 
-Section 1505(2) of Pub. L. 85–726, title XV, Aug. 23, 1958, 72 Stat. 810, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following date on which Administrator of Federal Aviation Agency \[Federal Aviation Administration\] first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office on Oct. 31, 1958.
+Section 1505(2) of Pub. L. 85–726, title XV, Aug. 23, 1958, 72 Stat. 810, provided that the amendment made by Pub. L. 85–726 is effective on 60th day following dateon which Administrator of Federal Aviation Agency \[Federal Aviation Administration\] first appointed under Pub. L. 85–726 qualifies and takes office. Administrator appointed, qualified, and took office on Oct. 31, 1958.
 
 #### Termination of Trust Territory of the Pacific Islands
 

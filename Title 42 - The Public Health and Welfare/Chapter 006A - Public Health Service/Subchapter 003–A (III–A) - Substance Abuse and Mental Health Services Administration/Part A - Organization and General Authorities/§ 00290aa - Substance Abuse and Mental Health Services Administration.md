@@ -70,7 +70,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;(17) in collaboration with the National Institute on Aging, and in consultation with the National Institute on Drug Abuse, the National Institute on Alcohol Abuse and Alcoholism and the National Institute of Mental Health, as appropriate, promote and evaluate substance abuse services for older Americans in need of such services, and mental health services for older Americans who are seriously mentally ill; and
 
-&emsp;(18) promote the coordination of service programs conducted by other departments, agencies, organizations and individuals that are or may be related to the problems of individuals suffering from mental illness or substance abuse, including liaisons with the Social Security Administration, Health Care FinancingAdministration, and other programs of the Department, as well as liaisons with the Department of Education, Department of Justice, and other Federal Departments and offices, as appropriate.
+&emsp;(18) promote the coordination of service programs conducted by other departments, agencies, organizations and individuals that are or may be related to the problems of individuals suffering from mental illness or substance abuse, including liaisons with the Social Security Administration, Health Care Financing Administration, and other programs of the Department, as well as liaisons with the Department of Education, Department of Justice, and other Federal Departments and offices, as appropriate.
 
 #### (e) Associate Administrator for Alcohol Prevention and Treatment Policy
 
@@ -114,7 +114,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;&emsp;&emsp;(iv) assure that the unique needs of minority women, including Native American, Hispanic, African-American and Asian women, are recognized and addressed within the activities of the Administration; and
 
-&emsp;&emsp;(C) establish an advisory committee to be known as the Advisory Committee for Women's Services, which shall be composed of not more than 10 individuals, a majority of whom shall be women, who are not officers or employees of the Federal Government, to be appointed by the Administrator from among physicians, practitioners, treatment providers, and other health professionals, whose clinical practice, specialization, or professional expertise includes a significant focus on women's substance abuse and mental health conditions, that shall—
+&emsp;&emsp;(C) establish an advisory committee to be known as the Advisory Committee for Women's Services, which shall be composed ofnot more than 10 individuals, a majority of whom shall be women, who are not officers or employees of the Federal Government, to be appointed by the Administrator from among physicians, practitioners, treatment providers, and other health professionals, whose clinical practice, specialization, or professional expertise includes a significant focus on women's substance abuse and mental health conditions, that shall—
 
 &emsp;&emsp;&emsp;(i) advise the Associate Administrator on appropriate activities to be undertaken by the agencies of the Administration with respect to women's substance abuse and mental health services, including services which require a multidisciplinary approach;
 
@@ -122,7 +122,7 @@ The Secretary, acting through the Administrator, shall—
 
 &emsp;&emsp;&emsp;(iii) prepare, for inclusion in the biennial report required pursuant to subsection (k) of this section, a description of activities of the Committee, including findings made by the Committee regarding—
 
-&emsp;&emsp;&emsp;&emsp;(I) the extent of expenditures made for women's substance abuse and mentalhealth services by the agencies of the Administration; and
+&emsp;&emsp;&emsp;&emsp;(I) the extent of expenditures made for women's substance abuse and mental health services by the agencies of the Administration; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the estimated level of funding needed for substance abuse and mental health services to meet the needs of women;
 
@@ -166,7 +166,7 @@ The Secretary, acting through the Administrator, shall—
 
 #### (h) Peer review groups
 
-The Administrator shall, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, establish such peer review groups and program advisory committees as are needed to carry out the requirements of this subchapter and appoint and pay members of such groups, except that officers and employees of the United States shall not receive additional compensation for services as members of such groups. The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under this subsection.
+The Administrator shall, without regard to the provisions of title 5 governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, establish such peer review groups and program advisory committees as are needed to carry out the requirements of this subchapter and appoint and pay members of such groups, except that officersand employees of the United States shall not receive additional compensation for services as members of such groups. The Federal Advisory Committee Act shall not apply to the duration of a peer review group appointed under this subsection.
 
 #### (i) Voluntary services
 
@@ -318,7 +318,7 @@ Adequate Personnel and Resources.—The transfers required under this subtitle s
 
 “(a)
 
-Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in the Public Health Service Act \[this chapter\], all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, andother funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
+Substance Abuse and Mental Health Services Administration.—Except as otherwise provided in the Public Health Service Act \[this chapter\], all personnel employed in connection with, and all assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, used, held, arising from, available to, or to be made available in connection with the functions transferred to the Administrator of the Substance Abuse and Mental Health Services Administration by this subtitle, subject to section 1531 of title 31, United States Code, shall be transferred to the Substance Abuse and Mental Health Services Administration. Unexpended funds transferred pursuant to this subsection shall be used only for the purposes for which the funds were originally authorized and appropriated.
 
 “(b)
 
@@ -380,7 +380,7 @@ No Abatement of Actions or Proceedings.—No action or other proceeding commence
 
 “(e)
 
-Substitution.—If, before the date of enactment of this Act \[July 10, 1992\], the Department of Healthand Human Services, or any officer thereof in the official capacity of such officer, is a party to an action, and under this subtitle any function of such Department, Office, or officer is transferred to the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, then such action shall be continued with the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, as the case may be, substituted or added as a party.
+Substitution.—If, before the date of enactment of this Act \[July 10, 1992\], the Department of Health and Human Services, or any officer thereof in the official capacity of such officer, is a party to an action, and under this subtitle any function of such Department, Office, or officer is transferred to the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, then such action shall be continued with the Administrator of the Substance Abuse and Mental Health Services Administration or the Directors of the National Institute on Alcohol Abuse and Alcoholism, the National Institute on Drug Abuse and the National Institute of Mental Health, as the case may be, substituted or added as a party.
 
 “(f)
 
@@ -416,7 +416,7 @@ Judicial Review.—Orders and actions of the Administrator of the Substance Abus
 
 #### Report by Substance Abuse and Mental Health Services Administration
 
-Section 708 of Pub. L. 102–321 directed Administrator of Substance Abuse and Mental Health Services Administration to submit to Congress an interim report, not later than 6 months after July 10, 1992, and a final report, not later than Oct. 1, 1993, concerning current policies and barriers to provision of substance abuse and mental health services, with emphasis on barriers to health insurance and Medicaid coverage of such services, and further directed Secretary of Health and Human Services to initiate, not later than Jan. 1, 1994, research and demonstration projects which, consistent with information from reports submitted by the Administrator, explore alternative mechanisms of providing health insurance and treatment services for substance abuse and mental illness.
+Section 708 of Pub. L. 102–321 directed Administrator of Substance Abuse and Mental Health Services Administration to submit to Congress an interim report, not later than 6 months after July 10, 1992, and a final report, not later than Oct. 1, 1993, concerning currentpolicies and barriers to provision of substance abuse and mental health services, with emphasis on barriers to health insurance and Medicaid coverage of such services, and further directed Secretary of Health and Human Services to initiate, not later than Jan. 1, 1994, research and demonstration projects which, consistent with information from reports submitted by the Administrator, explore alternative mechanisms of providing health insurance and treatment services for substance abuse and mental illness.
 
 #### Relationship Between Mental Illness and Substance Abuse
 
@@ -428,7 +428,7 @@ Section 2073 of Pub. L. 100–690 directed Secretary of Health and Human Service
 
 #### Congressional Statement of Policy for Alcohol and Drug Abuse Amendments of 1983
 
-Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United States and the purpose of this Act\[see Short Title of 1983 Amendment note set out under section 201 of this title\] to provide leadership in the national effort to reduce the incidence of alcoholism and alcohol-related problems and drug abuse through—
+Section 1(b) of Pub. L. 98–24 provided that: “It is the policy of the United States and the purpose of this Act \[see Short Title of 1983 Amendment note set out under section 201 of this title\] to provide leadership in the national effort to reduce the incidence of alcoholism and alcohol-related problems and drug abuse through—
 
 &emsp;“(1) a continued Federal commitment to research into the behavioral and biomedical etiology, the treatment, and the mental and physical health and social and economic consequences of alcohol abuse and alcoholism and drug abuse;
 

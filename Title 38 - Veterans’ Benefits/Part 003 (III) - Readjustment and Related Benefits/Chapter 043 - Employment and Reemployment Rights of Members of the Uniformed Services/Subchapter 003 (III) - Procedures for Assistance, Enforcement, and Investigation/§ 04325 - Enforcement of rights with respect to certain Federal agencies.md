@@ -2,7 +2,7 @@
 
 (a) This section applies to any person who alleges that—
 
-&emsp;(1) the reemployment of such person by an agency referred to in subsection (a) of section4315 was not in accordance with procedures for the reemployment of such person under subsection (b) of such section; or
+&emsp;(1) the reemployment of such person by an agency referred to in subsection (a) of section 4315 was not in accordance with procedures for the reemployment of such person under subsection (b) of such section; or
 
 &emsp;(2) the failure of such agency to reemploy the person under such section was otherwise wrongful.
 

@@ -40,7 +40,7 @@ Regulations under subsection (a) of this section shall require an importer of a 
 
 &emsp;&emsp;(C) In the case of the initial imported shipment, documentation demonstrating that each batch of such shipment was statistically sampled and tested for authenticity and degradation.
 
-&emsp;&emsp;(D) In the case of all subsequent shipments from such recipient, documentation demonstrating that a statistically valid sample of such shipments was tested for authenticity and degradation.
+&emsp;&emsp;(D) In the case of all subsequent shipments from such recipient, documentation demonstrating that a statistically valid sampleof such shipments was tested for authenticity and degradation.
 
 &emsp;&emsp;(E) Certification from the importer or manufacturer of such product that the product is approved for marketing in the United States and meets all labeling requirements under this chapter.
 
@@ -145,6 +145,10 @@ This section shall become effective only if the Secretary demonstrates to the Co
 Effective upon the expiration of the 5-year period beginning on the effective date of final regulations under subsection (a) of this section, this section ceases to have any legal effect.
 
 (June 25, 1938, ch. 675, §804, as added Pub. L. 106–387, §1(a) \[title VII, §745(c)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–36.)
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Findings
 

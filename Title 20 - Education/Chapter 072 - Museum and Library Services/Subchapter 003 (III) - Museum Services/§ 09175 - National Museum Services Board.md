@@ -84,7 +84,7 @@ A majority of the members of the Museum Board shall constitute a quorum for the 
 
 #### (1) Compensation
 
-&emsp;Each member of the Museum Board who is not an officer or employee of the Federal Government may be compensated at a rate to be fixed by the President, but not to exceed the daily equivalent of the maximum rate authorized for a position above grade GS–15 of the General Schedule under section 5108 of title 5, for each day (including travel time) during which such member is engaged in the performance of the duties of the Museum Board. All members of the Museum Board who are officers or employees of the Federal Government shall serve without compensation in addition to compensation received for their services as officers or employees of the Federal Government.
+&emsp;Each member of the Museum Board who is not an officer or employee of the Federal Government may be compensated at a rate to be fixed by the President, but not to exceed the daily equivalent of the maximum rate authorized for a position above grade GS–15 of the General Schedule under section 5108 of title 5, for each day (including travel time) duringwhich such member is engaged in the performance of the duties of the Museum Board. All members of the Museum Board who are officers or employees of the Federal Government shall serve without compensation in addition to compensation received for their services as officers or employees of the Federal Government.
 
 #### (2) Travel expenses
 

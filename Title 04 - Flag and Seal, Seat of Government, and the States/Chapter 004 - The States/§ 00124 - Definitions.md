@@ -4,7 +4,7 @@ In sections 116 through 126 of this title:
 
 &emsp;(1)
 
-Charges for mobile telecommunications services.—The term “charges for mobile telecommunications services” means any charge for, or associated with, the provision of commercial mobile radio service, as defined insection 20.3 of title 47 of the Code of Federal Regulations as in effect on June 1, 1999, or any charge for, or associated with, a service provided as an adjunct to a commercial mobile radio service, that is billed to the customer by or for the customer's home service provider regardless of whether individual transmissions originate or terminate within the licensed service area of the home service provider.
+Charges for mobile telecommunications services.—The term “charges for mobile telecommunications services” means any charge for, or associated with, the provision of commercial mobile radio service, as defined in section 20.3 of title 47 of the Code of Federal Regulations as in effect on June 1, 1999, or any charge for, or associated with, a service provided as an adjunct to a commercial mobile radio service, that is billed to the customer by or for the customer's home service provider regardless of whether individual transmissions originate or terminate within the licensed service area of the home service provider.
 
 &emsp;(2)
 
@@ -58,7 +58,7 @@ Place of primary use.—The term “place of primary use” means the street add
 
 &emsp;(9)
 
-Prepaid telephone calling services.—The term “prepaid telephone calling service” means the right to purchase exclusively telecommunications services that must be paid for in advance, that enables the origination of calls using an access number, authorization code, or both, whether manually or electronically dialed, if the remaining amount of units of service that have been prepaid is known by the provider of the prepaid service on a continuous basis.
+Prepaid telephone calling services.—The term “prepaid telephone calling service” means the right to purchase exclusively telecommunications services that must be paid for in advance, that enables the origination of calls using an access number, authorizationcode, or both, whether manually or electronically dialed, if the remaining amount of units of service that have been prepaid is known by the provider of the prepaid service on a continuous basis.
 
 &emsp;(10)
 

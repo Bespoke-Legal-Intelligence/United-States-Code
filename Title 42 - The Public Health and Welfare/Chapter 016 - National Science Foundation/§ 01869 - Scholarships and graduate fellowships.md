@@ -2,7 +2,7 @@
 
 The Foundation is authorized to award scholarships and graduate fellowships for study and research in the sciences or in engineering at appropriate nonprofit American or nonprofit foreign institutions selected by the recipient of such aid, for stated periods of time. Persons shall be selected for such scholarships and fellowships from among citizens, nationals or lawfully admitted permanent resident aliens of the United States, and such selections shall be made solely on the basis of ability; but in any case in which two or more applicants for scholarships or fellowships, as the case may be, are deemed by the Foundation to be possessed of substantially equal ability, and there are not sufficient scholarships or fellowships, as the case may be, available to grant one to each of such applicants, the available scholarship or scholarships or fellowship or fellowships shall be awarded to the applicants in such manner as will tend to result in a wide distribution of scholarships and fellowships throughout the United States. Nothing contained in this chapter shall prohibit the Foundation from refusing or revoking a scholarship or fellowship award, in whole or in part, in the case of any applicant or recipient, if the Board is of the opinion that such award is not in the best interests of the United States.
 
-(May 10, 1950, ch. 171, §10, 64 Stat. 152; Pub. L. 86–232, §5, Sept. 8, 1959, 73 Stat. 468; Pub. L.86–550, June 29, 1960, 74 Stat. 256; Pub. L. 87–835, §2, Oct. 16, 1962, 76 Stat. 1070; Pub. L. 90–407, §8, July 18, 1968, 82 Stat. 364; Pub. L. 99–159, title I, §110(a)(13), Nov. 22, 1985, 99 Stat. 891; Pub. L. 99–383, §7(c), Aug. 21, 1986, 100 Stat. 814; Pub. L. 101–589, title III, §302(c), Nov. 16, 1990, 104 Stat. 2895.)
+(May 10, 1950, ch. 171, §10, 64 Stat. 152; Pub. L. 86–232, §5, Sept. 8, 1959, 73 Stat. 468; Pub. L. 86–550, June 29, 1960, 74 Stat. 256; Pub. L. 87–835, §2, Oct. 16, 1962, 76 Stat. 1070; Pub. L. 90–407, §8, July 18, 1968, 82 Stat. 364; Pub. L. 99–159, title I, §110(a)(13), Nov. 22, 1985, 99 Stat. 891; Pub. L. 99–383, §7(c), Aug. 21, 1986, 100 Stat. 814; Pub. L. 101–589, title III, §302(c), Nov. 16, 1990, 104 Stat. 2895.)
 
 #### Amendments
 
@@ -26,5 +26,5 @@ Amendment by Pub. L. 90–407 intended to continue in effect the existing office
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1862, 1872 of this title.
+This section is referred to in sections 1862, 1872 of this title; title 15 section 7404.
 

@@ -18,7 +18,7 @@ In any major disaster, the President may—
 
 &emsp;&emsp;(E) management, control, and reduction of immediate threats to public health and safety; and
 
-&emsp;(4) assist State and local governments in the distribution of medicine, food, and otherconsumable supplies, and emergency assistance.
+&emsp;(4) assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance.
 
 (Pub. L. 93–288, title IV, §402, as added Pub. L. 100–707, title I, §106(a)(3), Nov. 23, 1988, 102 Stat. 4696.)
 

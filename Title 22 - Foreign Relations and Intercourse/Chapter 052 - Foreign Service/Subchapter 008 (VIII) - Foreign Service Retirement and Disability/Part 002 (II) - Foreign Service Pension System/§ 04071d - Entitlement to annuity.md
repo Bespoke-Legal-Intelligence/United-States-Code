@@ -10,9 +10,11 @@
 
 &emsp;(B) the term “System”, as used in those sections, means the Foreign Service Pension System.
 
+(3) For purposes of any annuity computation under this subsection, the average pay (as used in section 8414 <sup>1</sup> of title 5) of any member of the Service whose official duty station is outside the continental United States shall be considered to be the salary that would have been paid to the member had the member's official duty station been Washington, D.C., including locality-based comparability payments under section 5304 of title 5 that would have been payable to the member if the member's official duty station had been Washington, D.C.
+
 #### (b) Voluntary or mandatory retirement with authorization for immediate annuity; computation of annuity
 
-(1) Any participant who retires voluntarily or mandatorily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title under conditions authorizing an immediate annuity for participants in the Foreign Service Retirement and Disability System or for participants in the Foreign Service Pension System, and who has completed at least 5 years as a member of the Foreign Service, shall be entitled to an immediate annuity computed under paragraph (2).
+(1) Any participant who retires voluntarily or mandatorily under section 4007, 4008, 4010a, 4051, 4052, or 4053 of this title under conditions authorizing an immediate annuity for participants in the Foreign Service Retirement and Disability System or for participants in the Foreign Service Pension System, and who has completedat least 5 years as a member of the Foreign Service, shall be entitled to an immediate annuity computed under paragraph (2).
 
 (2) An annuity under paragraph (1) shall be computed—
 
@@ -44,13 +46,17 @@ A participant who is entitled to an immediate annuity under subsection (b) of th
 
 Any participant who is separated for cause under section 4010 of this title shall not be entitled to an annuity under this System when the Secretary determines that the separation was based in whole or in part on disloyalty to the United States.
 
-(Pub. L. 96–465, title I, §855, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 617; amended Pub. L. 99–556, title IV, §406, Oct. 27, 1986, 100 Stat. 3138; Pub. L. 103–178, title II, §204(b)(3), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2312(b), Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 105–382, §2(d)(3)(B), Nov. 13, 1998, 112 Stat. 3408.)
+(Pub. L. 96–465, title I, §855, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 617; amended Pub. L. 99–556, title IV, §406, Oct. 27, 1986, 100 Stat. 3138; Pub. L. 103–178, title II, §204(b)(3), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2312(b), Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 105–382, §2(d)(3)(B), Nov. 13, 1998, 112 Stat. 3408; Pub. L. 107–228, div. A, title III, §322(b)(1), Sept. 30, 2002, 116 Stat. 1384.)
 
 #### References in Text
+
+Section 8414 of title 5, referred to in subsec. (a)(3), does not contain the term “average pay”. Section 8415 of title 5 relates to annuity computation, and section 8401 of title 5 defines “average pay”.
 
 The Central Intelligence Agency Retirement Act, referred to in subsec. (b)(2)(A)(ii), is Pub. L. 88–643, as revised generally by Pub. L. 102–496, title VIII, §802, Oct. 24, 1992, 106 Stat. 3196. Title II of the Act is classified generally to subchapter II (§2011 et seq.) of chapter 38 of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 2001 of Title 50 and Tables.
 
 #### Amendments
+
+2002—Subsec. (a)(3). Pub. L. 107–228 added par. (3).
 
 1998—Subsec. (b)(1). Pub. L. 105–277, §2312(b)(1)(A), and Pub. L. 105–382 amended par. (1) identically, inserting “4010a,” after “4008,”.
 
@@ -76,6 +82,10 @@ Subsec. (b)(2). Pub. L. 99–556, §406(b), amended par. (2) by substituting sub
 
 Subsec. (b)(3) to (6). Pub. L. 99–556, §406(c), added pars. (3) to (6).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–228 applicable to service performed on or after the first day of the first pay period beginning on or after the date that is 90 days after Sept. 30, 2002, see section 322(c)(1) of Pub. L. 107–228, set out as a note under section 4046 of this title.
+
 #### Effective Date of 1998 Amendments
 
 Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating to applicability with respect to certain individuals, see section 4 of Pub. L. 105–382, as amended, set out as a note under section 4044 of this title.
@@ -89,4 +99,6 @@ Amendment by Pub. L. 99–556 effective Jan. 1, 1987, see section 408 of Pub. L.
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4009, 4053 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

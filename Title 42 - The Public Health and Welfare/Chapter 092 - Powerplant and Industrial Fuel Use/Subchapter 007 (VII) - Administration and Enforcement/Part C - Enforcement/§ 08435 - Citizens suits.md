@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Except as otherwise provided in subsection (b) of this section, any aggrieved person may commence a civil action for mandatory or prohibitive injunctive relief, including interim equitable relief, against the Secretary or the head of any Federal agency which has a responsibility under this chapter if there is an alleged failure of the Secretary or such agency head to perform any act or duty under this chapter which is not discretionary. The United States district courts shall have jurisdiction over actions brought under this section, without regard to the amount in controversy or the citizenship of the parties.
+Except as otherwise provided in subsection (b) of this section, any aggrieved person may commence a civil action for mandatory or prohibitive injunctive relief, including interim equitable relief, against the Secretary or the head of any Federal agency which has a responsibilityunder this chapter if there is an alleged failure of the Secretary or such agency head to perform any act or duty under this chapter which is not discretionary. The United States district courts shall have jurisdiction over actions brought under this section, without regard to the amount in controversy or the citizenship of the parties.
 
 #### (b) Notice to Secretary or agency head
 

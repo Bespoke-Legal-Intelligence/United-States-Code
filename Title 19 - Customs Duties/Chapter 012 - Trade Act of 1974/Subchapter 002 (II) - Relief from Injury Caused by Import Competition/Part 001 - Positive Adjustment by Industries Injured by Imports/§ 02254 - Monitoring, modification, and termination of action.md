@@ -12,7 +12,7 @@
 
 #### (b) Reduction, modification, and termination of action
 
-(1) Action taken under section 2253 of this title may be reduced, modified, or terminated by thePresident (but not before the President receives the report required under subsection (a)(2)(A) of this section) if the President—
+(1) Action taken under section 2253 of this title may be reduced, modified, or terminated by the President (but not before the President receives the report required under subsection (a)(2)(A) of this section) if the President—
 
 &emsp;(A) after taking into account any report or advice submitted by the Commission under subsection (a) of this section and after seeking the advice of the Secretary of Commerce and the Secretary of Labor, determines, on the basis that either—
 
@@ -50,7 +50,7 @@
 
 (2) If the Commission treats as the domestic industry production located in a major geographic area of the United States under section 2252(c)(4)(C) of this title, then the President shall take into account the geographic concentration of domestic production and of imports in that area in taking any action authorized under paragraph (1).
 
-(Pub. L. 93–618, title II, §204, as added Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1238; amended Pub. L. 100–647, title IX, §9001(a)(8), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 103–465, title I, §129(a)(7), title III, §302(c), (d), Dec. 8, 1994, 108 Stat. 4837, 4936.)
+(Pub. L. 93–618, title II, §204, as added Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1238; amended Pub. L. 100–647, title IX, §9001(a)(8), Nov. 10, 1988, 102 Stat. 3807; Pub. L.103–465, title I, §129(a)(7), title III, §302(c), (d), Dec. 8, 1994, 108 Stat. 4837, 4936.)
 
 #### Amendments
 
@@ -76,7 +76,7 @@ Amendment by section 302(c), (d) of Pub. L. 103–465 effective on the date on w
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
+Amendment by Pub. L. 100–647 applicable as if such amendment took effect on Aug. 23, 1988, see section 9001(b) of Pub. L. 100–647, set out as an Effective and Termination Dates of 1988 Amendments note under section 58c of this title.
 
 #### Effective Date
 

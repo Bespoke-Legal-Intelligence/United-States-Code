@@ -74,7 +74,7 @@ The revised section continues the provision respecting the salary of a resigned 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)(2)\], substituted “subsection (e)” for “subsection (f)” wherever appearing.
+2000—Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)(2)\], substituted “subsection (e)” for “subsection (f)” wherever appearing.
 
 Subsec. (e). Pub. L. 106–518, which directed amendment of subsec. (e) by inserting “, except such pay as is deductible from the retired or retainer pay as a result of participation in any survivor's benefits plan in connection with the retired pay,” after “such retired or retainer pay”, could not be executed because of amendment by Pub. L. 106–398. See below.
 
@@ -82,17 +82,17 @@ Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)(1)\], redesignated subse
 
 Subsec. (f). Pub. L. 106–398, §1 \[\[div. A\], title VI, §654(a)(1)(B)\], redesignated subsec. (f) as (e).
 
-<b>1996</b>—Subsec. (f)(1)(D). Pub. L. 104–317, §301(b), inserted at end “In any year in which a justice or judge performs work described under this subparagraph for less than the full year, one-half of such work may be aggregated with work described under subparagraph (A), (B), or (C) of this paragraph for the purpose of the justice or judge satisfying the requirements of such subparagraph.”
+1996—Subsec. (f)(1)(D). Pub. L. 104–317, §301(b), inserted at end “In any year in which a justice or judge performs work described under this subparagraph for less than the full year, one-half of such work may be aggregated with work described under subparagraph (A), (B), or (C) of this paragraph for the purpose of the justice or judge satisfying the requirements of such subparagraph.”
 
-Subsec. (f)(3). Pub. L. 104–317, §301(a), substituted “may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficient part of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, a justice or judge may not receive credit for the same work for purposes of certification for more than 1 year.” for “is thereafter ineligible to receive such a certification.”
+Subsec. (f)(3). Pub. L. 104–317, §301(a), substituted “may thereafter receive a certification for that year by satisfying the requirements of subparagraph (A), (B), (C), or (D) of paragraph (1) of this subsection in a subsequent year and attributing a sufficient part of the work performed in such subsequent year to the earlier year so that the work so attributed, when added to the work performed during such earlier year, satisfies the requirements for certification for that year. However, ajustice or judge may not receive credit for the same work for purposes of certification for more than 1 year.” for “is thereafter ineligible to receive such a certification.”
 
-<b>1989</b>—Subsec. (b). Pub. L. 101–194, §705(a)(1), designated existing provisions as par. (1), inserted “or her” after “his”, substituted “of the office if he or she meets the requirements of subsection (f)” for “of the office”, and added par. (2).
+1989—Subsec. (b). Pub. L. 101–194, §705(a)(1), designated existing provisions as par. (1), inserted “or her” after “his”, substituted “of the office if he or she meets the requirements of subsection (f)” for “of the office”, and added par. (2).
 
 Subsec. (f). Pub. L. 101–194, §705(a)(2), added subsec. (f).
 
-<b>1988</b>—Subsec. (e). Pub. L. 100–702 added subsec. (e).
+1988—Subsec. (e). Pub. L. 100–702 added subsec. (e).
 
-<b>1984</b>—Pub. L. 98–353 substituted “Retirement on salary; retirement in senior status” for “Resignation or retirement for age” in section catchline.
+1984—Pub. L. 98–353 substituted “Retirement on salary; retirement in senior status” for “Resignation or retirement for age” in section catchline.
 
 Subsec. (a). Pub. L. 98–353 amended subsec. (a) generally, substituting “may retire from the office after attaining the age and meeting the service requirements, whether continuous or otherwise, of subsection (c) and shall, during the remainder of his lifetime, receive an annuity equal to the salary he was receiving at the time he retired” for “who resigns after attaining the age of seventy years and after serving at least ten years continuously or otherwise shall, during the remainder of his lifetime, continue to receive the salary which he was receiving when he resigned”.
 
@@ -100,7 +100,7 @@ Subsec. (b). Pub. L. 98–353 amended subsec. (b) generally, substituting “may
 
 Subsecs. (c), (d). Pub. L. 98–353 added subsecs. (c) and (d).
 
-<b>1954</b>—Act Feb. 10, 1954, struck out “; substitute judge on failure to retire” in section catchline.
+1954—Act Feb. 10, 1954, struck out “; substitute judge on failure to retire” in section catchline.
 
 Subsec. (a). Act Feb. 10, 1954, reenacted subsec. (a) without change.
 
@@ -108,7 +108,7 @@ Subsec. (b). Act Feb. 10, 1954, in first sentence, inserted provision for retire
 
 Subsec. (c). Act Feb. 10, 1954, in general amendment of section, omitted subsec. (c) which related to appointment of substitute judges for disabled judges eligible to resign or retire where the latter fail to resign or retire, and to precedence of such disabled judges who remain on the active list after the appointment of substitutes.
 
-<b>1951</b>—Act Oct. 31, 1951, subdivided section into subsections, and limited second par. of subsec. (c) (as so designated) to judges who remain on the active list but whose disabilities cause the appointment of additional judges as authorized by first par. of such subsec.
+1951—Act Oct. 31, 1951, subdivided section into subsections, and limited second par. of subsec. (c) (as so designated) to judges who remain on the active list but whose disabilities cause the appointment of additional judges as authorized by first par. of such subsec.
 
 #### Effective Date of 2000 Amendment
 
@@ -150,5 +150,5 @@ Pub. L. 86–3, §14(d), Mar. 18, 1959, 73 Stat. 10, provided in part: “That s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 178, 294, 331, 332, 372, 375, 376, 377, 458, 621 of this title; title 5 sections 8440a, 8701, 8714a, 8714b; title 26 section 3121; title 42 section 409.
+This section is referred to in sections 178, 294, 331, 332, 353, 354, 364, 372, 375, 376, 377, 458, 621 of this title; title 5 sections 8440a, 8701, 8714a, 8714b; title 26 section 3121; title 42 section 409.
 

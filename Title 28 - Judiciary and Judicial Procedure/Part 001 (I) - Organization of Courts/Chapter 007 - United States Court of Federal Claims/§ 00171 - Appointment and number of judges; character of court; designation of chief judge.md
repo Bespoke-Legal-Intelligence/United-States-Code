@@ -22,19 +22,19 @@ Minor changes were made in arrangement and phraseology.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in subsec. (b).
+1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in subsec. (b).
 
-<b>1982</b>—Pub. L. 97–164 designated existing provisions as subsec. (a), substituted “sixteen judges who shall constitute a court of record known as the United States Claims Court” for “a chief judge and six associate judges who shall constitute a court of record known as the United States Court of Claims” and “The court is declared to be a court established under article I of the Constitution of the United States” for “Such court is hereby declared to be a court established under article III of the Constitution of the United States” in subsec. (a) as so designated, and added subsec. (b).
+1982—Pub. L. 97–164 designated existing provisions as subsec. (a), substituted “sixteen judges who shall constitute a court of record known as the United States Claims Court” for “a chief judge and six associate judges who shall constitute a court of record known as the United States Court of Claims” and “The court is declared to be a court established under article I of the Constitution of the United States” for “Such court is hereby declared to be a court established under article III of the Constitution of the United States” in subsec. (a) as so designated, and added subsec. (b).
 
-<b>1966</b>—Pub. L. 89–425 increased the number of associate judges from four to six.
+1966—Pub. L. 89–425 increased the number of associate judges from four to six.
 
-<b>1954</b>—Act Sept. 3, 1954, inserted “; character or court” in section catchline.
+1954—Act Sept. 3, 1954, inserted “; character or court” in section catchline.
 
-<b>1953</b>—Act July 28, 1953, inserted second sentence.
+1953—Act July 28, 1953, inserted second sentence.
 
 #### Change of Name
 
-Section 902(b) of Pub. L. 102–572 provided that: “Reference in any other Federal law \[meaning any Federallaw other than chapters 7, 51, 91, and 165 of this title\] or any document to—
+Section 902(b) of Pub. L. 102–572 provided that: “Reference in any other Federal law \[meaning any Federal law other than chapters 7, 51, 91, and 165 of this title\] or any document to—
 
 &emsp;“(1) the ‘United States Claims Court’ shall be deemed to refer to the ‘United States Court of Federal Claims’; and
 

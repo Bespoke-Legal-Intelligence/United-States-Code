@@ -1,6 +1,6 @@
 ### §2717. Defense trade controls registration fees
 
-For each fiscal year, 100 percent of the registration fees collected by the Office of Defense Trade Controls of the Department of State shallbe credited to a Department of State account, to be available without fiscal year limitation. Fees credited to that account shall be available only for payment of expenses incurred for—
+For each fiscal year, 100 percent of the registration fees collected by the Office of Defense Trade Controls of the Department of State shall be credited to a Department of State account, to be available without fiscal year limitation. Fees credited to that account shall be available only for payment of expenses incurred for—
 
 &emsp;(1) contract personnel to assist in the evaluation of defense trade controls license applications, reduction in processing time for license applications, and improved monitoring of compliance with the terms of licenses;
 
@@ -16,7 +16,7 @@ A prior section 45 of act Aug. 1, 1956, was renumbered section 46 by section 118
 
 #### Amendments
 
-1998—Pub. L. 105–277, which directed the amendment of subsec. (a) by striking out “and” at end of par. (1), substituting “functions, including compliance and enforcement activities,” for “functions” in par. (2), substituting “; and” for period at end of par. (2), and adding par. (3), was executed by making the amendments to text of section to reflect the probable intent of Congress and the amendment by Pub. L. 105–261. See below.
+1998—Pub. L. 105–277, which directed the amendment of subsec. (a) by striking out “and” at end of par. (1),substituting “functions, including compliance and enforcement activities,” for “functions” in par. (2), substituting “; and” for period at end of par. (2), and adding par. (3), was executed by making the amendments to text of section to reflect the probable intent of Congress and the amendment by Pub. L. 105–261. See below.
 
 Pub. L. 105–261 designated subsec. (a) as entire section, struck out former subsec. (a) heading “Defense trade controls registration fees”, substituted “100 percent” for “$700,000”, and struck out heading and text of subsec. (b). Text read as follows: “The authority contained in subsection (a) of this section shall be exercised to such extent and in such amounts as are to be provided in an appropriation Act.”
 

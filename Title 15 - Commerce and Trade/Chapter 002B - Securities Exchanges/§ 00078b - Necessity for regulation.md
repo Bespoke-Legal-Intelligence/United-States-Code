@@ -6,7 +6,7 @@ For the reasons hereinafter enumerated, transactions in securities as commonly c
 
 &emsp;(2) The prices established and offered in such transactions are generally disseminated and quoted throughout the United States and foreign countries and constitute a basis for determining and establishing the prices at which securities are bought and sold, the amount of certain taxes owing to the United States and to the several States by owners, buyers, and sellers of securities, and the value of collateral for bank loans.
 
-&emsp;(3) Frequently the prices of securities on such exchanges and markets are susceptible to manipulation and control, and the dissemination of such prices gives rise to excessive speculation, resulting in sudden and unreasonable fluctuations in the prices of securities which (a) cause alternately unreasonable expansion and unreasonable contraction of the volume of credit available for trade, transportation, and industry in interstate commerce, (b) hinderthe proper appraisal of the value of securities and thus prevent a fair calculation of taxes owing to the United States and to the several States by owners, buyers, and sellers of securities, and (c) prevent the fair valuation of collateral for bank loans and/or obstruct the effective operation of the national banking system and Federal Reserve System.
+&emsp;(3) Frequently the prices of securities on such exchanges and markets are susceptible to manipulation and control, and the dissemination of such prices gives rise to excessive speculation, resulting in sudden and unreasonable fluctuations in the prices of securities which (a) cause alternately unreasonable expansion and unreasonable contraction of the volume of credit available for trade, transportation, and industry in interstate commerce, (b) hinder the proper appraisal of the value of securities and thus prevent a fair calculation of taxes owing to the United States and to the several States by owners, buyers, and sellers of securities, and (c) prevent the fair valuation of collateral for bank loans and/or obstruct the effective operation of the national banking system and Federal Reserve System.
 
 &emsp;(4) National emergencies, which produce widespread unemployment and the dislocation of trade, transportation, and industry, and which burden interstate commerce and adversely affect the general welfare, are precipitated, intensified, and prolonged by manipulation and sudden and unreasonable fluctuations of security prices and by excessive speculation on such exchanges and markets, and to meet such emergencies the Federal Government is put to such great expense as to burden the national credit.
 
@@ -134,7 +134,7 @@ Pub. L. 93–479, Oct. 26, 1974, 88 Stat. 1450, directed Secretary of the Treasu
 
 #### Ex. Ord. No. 11858. Foreign Investment in the United States
 
-Ex. Ord. No. 11858, May 7, 1975, 40 F.R. 20263, as amended by Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989; Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779; Ex. Ord. No. 12860, Sept. 3, 1993, 58 F.R. 47201, provided:
+Ex. Ord. No. 11858, May 7, 1975, 40 F.R. 20263, as amended by Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989; Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779; Ex. Ord. No. 12860, Sept. 3, 1993, 58 F.R. 47201; Ex. Ord. No. 13286, §57, Feb. 28, 2003, 68 F.R. 10629, provided:
 
 By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including the Act of February 14, 1903, as amended (15 U.S.C. 1501 et seq.), section 10 of the Gold Reserve Act of 1934, as amended (31 U.S.C. 822a), and section 301 of title 3 of the United States Code, and as President of the United States of America, it is hereby ordered as follows:
 
@@ -154,9 +154,11 @@ Section 1. (a) There is hereby established the Committee on Foreign Investment i
 
 (7) The Attorney General.
 
-(8) The Director of the Office of Management and Budget.
+(8) The Secretary of Homeland Security.
 
-(9) the Director of the Office of Science and Technology Policy.
+(9) The Director of the Office of Management and Budget.
+
+(9)\[sic\] the Director of the Office of Science and Technology Policy.
 
 (10) the Assistant to the President for National Security Affairs.
 

@@ -4,11 +4,11 @@ In connection with loans made or insured under this chapter, the Secretary shall
 
 &emsp;(1) the applicant (A) to certify in writing, and the Secretary shall determine, that he is unable to obtain sufficient credit elsewhere to finance his actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time, and (B) to furnish an appropriate written financial statement;
 
-&emsp;(2) except with respect to a loan under section 1926, 1932, or 1944 of this title, the county or area committee established under section 590h(b)(5)(B) of title 16 to certify in writing—
+&emsp;(2) except with respect to a loan under section 1926, 1932, or 1944 of this title—
 
-&emsp;&emsp;(A) that an annual review of the credit history and business operation of the borrower has been conducted; and
+&emsp;&emsp;(A) an annual review of the credit history and business operation of the borrower; and
 
-&emsp;&emsp;(B) that a review of the continued eligibility of the borrower for the loan has been conducted;
+&emsp;&emsp;(B) an annual review of the continued eligibility of the borrower for the loan;
 
 &emsp;(3) except for guaranteed loans, an agreement by the borrower that if at any time it shall appear to the Secretary that the borrower may be able to obtain a loan from a production credit association, a Federal land bank, or other responsible cooperative or private credit source (or, in the case of a borrower under section 1934 of this title, the borrower may be able to obtain a loan under section 1922 of this title), at reasonable rates and terms for loans for similar purposes and periods of time, the borrower will, upon request by the Secretary, apply for and accept such loan in sufficient amount to repay the Secretary or the insured lender, or both, and to pay for any stock necessary to be purchased in a cooperative lending agency in connection with such loan;
 
@@ -16,13 +16,19 @@ In connection with loans made or insured under this chapter, the Secretary shall
 
 &emsp;(5) the application of a person who is a veteran of any war, as defined in section 101(12) of title 38, for a loan under subchapter I or II of this chapter to be given preference over a similar application from a person who is not a veteran of any war, if the applications are on file in a county or area office at the same time.
 
-(Pub. L. 87–128, title III, §333, Aug. 8, 1961, 75 Stat. 314; Pub. L. 90–488, §12, Aug. 15, 1968, 82 Stat. 771; Pub. L. 91–620, §3, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 92–419, title I, §§118(b), 125, 126, Aug. 30, 1972, 86 Stat. 664, 666; Pub. L. 95–334, title I, §123, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §3(c), Oct. 13, 1980, 94 Stat. 1875; Pub. L. 97–98, title XVI, §1604, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 101–624, title XVIII, §1810, title XXIII, §2388(e), Nov. 28, 1990, 104 Stat. 3820, 4053; Pub. L. 102–237, title V, §501(e), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–554, §12, Oct. 28, 1992, 106 Stat. 4151; Pub. L. 103–354, title II, §227(b)(2), Oct. 13, 1994, 108 Stat. 3218; Pub. L. 104–127, title VI, §§634, 635(a), 636, Apr. 4, 1996, 110 Stat. 1093.)
+(Pub. L. 87–128, title III, §333, Aug. 8, 1961, 75 Stat. 314; Pub. L. 90–488, §12, Aug. 15, 1968, 82 Stat. 771; Pub. L. 91–620, §3, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 92–419, title I, §§118(b), 125, 126, Aug. 30, 1972, 86 Stat. 664, 666; Pub. L. 95–334, title I, §123, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §3(c), Oct. 13, 1980, 94 Stat. 1875; Pub. L. 97–98, title XVI, §1604, Dec. 22, 1981, 95 Stat. 1346; Pub. L. 101–624, title XVIII, §1810, title XXIII, §2388(e), Nov. 28, 1990, 104 Stat. 3820, 4053; Pub. L. 102–237, title V, §501(e), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–554, §12, Oct. 28, 1992, 106 Stat. 4151; Pub. L. 103–354, title II, §227(b)(2), Oct. 13, 1994, 108 Stat. 3218; Pub. L. 104–127, title VI, §§634, 635(a), 636, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, §5306, May 13, 2002, 116 Stat. 345.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in introductory provisions, see note set out under section 1921 of this title.
 
 #### Amendments
+
+2002—Par. (2). Pub. L. 107–171 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “except with respect to a loan under section 1926, 1932, or 1944 of this title, the county or area committee established under section 590h(b)(5)(B) of title 16 to certify in writing—
+
+&emsp;“(A) that an annual review of the credit history and business operation of the borrower has been conducted; and
+
+&emsp;“(B) that a review of the continued eligibility of the borrower for the loan has been conducted;”.
 
 1996—Par. (1)(B). Pub. L. 104–127, §634, substituted “an appropriate written financial statement” for “a written statement showing the applicant's net worth”.
 

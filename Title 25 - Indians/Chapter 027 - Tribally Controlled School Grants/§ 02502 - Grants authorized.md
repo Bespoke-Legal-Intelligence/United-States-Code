@@ -38,7 +38,7 @@
 
 #### (2) Nonsectarian use
 
-&emsp;Funds provided under any grant made under this chapter may not be used in connectionwith religious worship or sectarian instruction.
+&emsp;Funds provided under any grant made under this chapter may not be used in connection with religious worship or sectarian instruction.
 
 #### (3) Administrative costs limitation
 
@@ -76,7 +76,7 @@ Grants provided under this chapter shall not terminate, modify, suspend, or redu
 
 #### (1) In general
 
-&emsp;Whenever a tribal governing body requests retrocession of any program for which assistance is provided under this chapter, such retrocession shall become effective upon a date specified by the Secretary that is not later than 120 days after the date on which the tribal governing body requests the retrocession. A later date may be specified if mutually agreed upon by the Secretary and the tribal governing body. If such a program is retroceded, the Secretary shall provide to any Indian tribe served by such program at least the same quantity and quality of services that would have been provided under such program at the level of funding provided under this chapter prior to the retrocession.
+&emsp;Whenever a tribal governing body requests retrocession of any program for which assistance is provided under this chapter, such retrocession shall become effective upon a date specified by the Secretary that is not later than 120 days after the date on which the tribal governing body requests the retrocession. A later date may be specified if mutually agreed upon by the Secretary and the tribal governing body. If such a program is retroceded, the Secretary shall provide to any Indian tribe served by such program at least the samequantity and quality of services that would have been provided under such program at the level of funding provided under this chapter prior to the retrocession.
 
 #### (2) Status after retrocession
 

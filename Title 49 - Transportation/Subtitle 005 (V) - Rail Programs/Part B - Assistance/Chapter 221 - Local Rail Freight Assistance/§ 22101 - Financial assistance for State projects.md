@@ -76,7 +76,7 @@ In subsection (b), the words “no later than July 1, 1990” are omitted as exe
 
 In subsection (c)(1), before clause (A), the words “Assistance for a project shall be provided under this chapter only if” are substituted for “No project shall be provided rail freight assistance under this section unless” because of the restatement.
 
-In subsection (c)(2), the words “If the rail carrier that provided the transportation on the rail line” are substituted for “In a case where the railroad”, and the words “information required by the certification under paragraph (1)(A) of this subsection” are substituted for “such information”, for clarity.
+In subsection (c)(2), the words “If the rail carrier that provided the transportation on the rail line” are substituted for “In a case where the railroad”, and the words “information required by the certification underparagraph (1)(A) of this subsection” are substituted for “such information”, for clarity.
 
 #### Amendments
 

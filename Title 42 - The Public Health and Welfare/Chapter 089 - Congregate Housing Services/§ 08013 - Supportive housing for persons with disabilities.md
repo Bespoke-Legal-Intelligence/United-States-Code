@@ -62,7 +62,7 @@ The Secretary shall take such actions as may be necessary to ensure that—
 
 #### (C) Allocation of assistance
 
-&emsp;&emsp;In determining the amount of assistance provided under subsection (b)(1) of this section for a private nonprofit organization or public housing agency, the Secretary shallconsider the needs and capabilities of the organization or agency, in the case of a public housing agency, as described in the plan for the agency under section 1437e of this title.
+&emsp;&emsp;In determining the amount of assistance provided under subsection (b)(1) of this section for a private nonprofit organization or public housing agency, the Secretary shall consider the needs and capabilities of the organization or agency, in the case of a public housing agency, as described in the plan for the agency under section 1437e of this title.
 
 #### (e) Term of commitment
 
@@ -140,7 +140,7 @@ The Secretary shall establish selection criteria for assistance under subsection
 
 &emsp;&emsp;(G) the cost of land, including necessary site improvement.
 
-> &emsp;In establishing development cost limitations for a given market area, the Secretary shalluse data that reflect currently prevailing costs of acquisition, construction, reconstruction, or rehabilitation, and land acquisition in the area. Neither this section nor any other provision of law may be construed as prohibiting or preventing the location and operation, in a project assisted under this section, of commercial facilities for the benefit of residents of the project and the community in which the project is located, except that assistance made available under this section may not be used to subsidize any such commercial facility.
+> &emsp;In establishing development cost limitations for a given market area, the Secretary shall use data that reflect currently prevailing costs of acquisition, construction, reconstruction, or rehabilitation, and land acquisition in the area. Neither this section nor any other provision of law may be construed as prohibiting or preventing the location and operation, in a project assisted under this section, of commercial facilities for the benefit of residents of the project and the community in which the project is located, except that assistance made available under this section may not be used to subsidize any such commercial facility.
 
 #### (2) RTC properties
 
@@ -202,7 +202,7 @@ The Secretary shall establish selection criteria for assistance under subsection
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall take such action as may be necessary to insure that all laborers and mechanics employed by contractors and subcontractors in the construction of housing with 12 or more units assisted under this section shall be paid wages at rates not less than those prevailing in the locality involved for the corresponding classes of laborers and mechanics employed on construction of a similar character, as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (commonly known as the Davis-Bacon Act \[40 U.S.C. 276a et seq.\]).
+&emsp;&emsp;The Secretary shall take such action as may be necessary to insure that all laborers and mechanics employed by contractors and subcontractors in the construction of housing with 12 or more units assisted under this section shall be paid wages at rates not less than those prevailing in the locality involved for the corresponding classes of laborers and mechanics employed on construction of a similar character, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40.
 
 #### (B) Exemption
 
@@ -282,7 +282,7 @@ There are authorized to be appropriated for providing assistance under this sect
 
 #### (1) In general
 
-&emsp;The amendments made by this section shall take effect on October 1, 1991, with respect to projects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and public comment.
+&emsp;The amendments made by this section shall take effect on October 1, 1991, with respect toprojects approved on or after such date. The Secretary shall issue regulations for such purpose after notice and public comment.
 
 #### (2) Earlier applicability
 
@@ -302,11 +302,11 @@ The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352
 
 The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I of chapter 45 (§3601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of this title and Tables.
 
-Act of March 3, 1931 (commonly known as the Davis-Bacon Act), referred to in subsec. (j)(6)(A), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 #### Codification
 
 Section was enacted as part of the Cranston-Gonzalez National Affordable Housing Act, and not as part of the Congregate Housing Services Act of 1978 which comprises this chapter.
+
+In subsec. (j)(6)(A), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 November 28, 1990, referred to in subsecs. (<i>l</i>)(2) and (n)(2), was in the original “the enactment of this Act” and “the date of enactment of this Act”, respectively, see Enactment of Section note below.
 
@@ -314,7 +314,7 @@ November 28, 1990, referred to in subsecs. (<i>l</i>)(2) and (n)(2), was in the 
 
 2000—Subsec. (d)(4). Pub. L. 106–569, §843(1), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “Tenant-based rental assistance provided under subsection (b)(1) of this section may be provided only through a public housing agency that has submitted, and had approved, an allocation plan under section 1437e(f) of this title, and a public housing agency shall be eligible to apply under this section only for the purposes of providing such assistance. Such assistance shall be made available to eligible persons with disabilities and administered under the same rules that govern rental assistance made available under section 1437f of this title. In determining the amount of assistance provided under subsection (b)(1) of this section for a public housing agency, the Secretary shall consider the needs of the agency as described in the allocation plan.”
 
-Subsec. (h)(1). Pub. L. 106–569, §845, inserted at end of concluding provisions “Neither this section nor anyother provision of law may be construed as prohibiting or preventing the location and operation, in a project assisted under this section, of commercial facilities for the benefit of residents of the project and the community in which the project is located, except that assistance made available under this section may not be used to subsidize any such commercial facility.”
+Subsec. (h)(1). Pub. L. 106–569, §845, inserted at end of concluding provisions “Neither this section nor any other provision of law may be construed as prohibiting or preventing the location and operation, in a project assisted under this section, of commercial facilities for the benefit of residents of the project and the community in which the project is located, except that assistance made available under this section may not be used to subsidize any such commercial facility.”
 
 Subsec. (h)(5). Pub. L. 106–569, §842, substituted “sources other than this section” for “non-Federal sources” and inserted at end “Notwithstanding any other provision of law, assistance amounts provided under this section may be treated as amounts not derived from a Federal grant.”
 
@@ -350,7 +350,7 @@ Subsec. (f). Pub. L. 102–550, §623(a)(5), substituted “subsection (b)(2) of
 
 Subsec. (g). Pub. L. 102–550, §623(a)(6), which directed the substitution of “subsection (b)(2) of this section” for “this section”, was executed by making the substitution in the introductory provisions and in par. (7), to reflect the probable intent of Congress.
 
-Subsec. (j)(6). Pub. L. 102–550, §913(b), designated existing provisions as subpar. (A), inserted subpar. heading, substituted “with 12 or more units assisted under this section” for “assisted under this section and designed for dwelling use by 12 or more persons with disabilities”, inserted “commonly known as” before “the Davis-Bacon Act”, struck out before period at end “;  but the Secretary may waive the application of this paragraph in cases or classes of cases where laborers or mechanics, not otherwise employed at any time in the construction of such housing, voluntarily donate their services without full compensation for the purposes of lowering the costs of construction and the Secretary determines that any amounts saved thereby are fully credited to the corporation, cooperative, or public body or agency undertaking the construction”, and added subpar. (B).
+Subsec. (j)(6). Pub. L. 102–550, §913(b), designated existing provisions as subpar. (A), inserted subpar. heading, substituted “with 12 or more units assisted under this section” for “assisted under this section and designed for dwelling use by 12 or more persons with disabilities”, inserted “commonly known as” before “the Davis-Bacon Act”, struck out before period at end “; but the Secretary may waive the application of this paragraph in cases or classes of cases where laborers or mechanics, not otherwise employed at any time in the construction of such housing, voluntarily donate their services without full compensation for the purposes of lowering the costs of construction and the Secretary determines that any amounts saved thereby are fully credited to the corporation, cooperative, or public body or agency undertaking the construction”, and added subpar. (B).
 
 Subsec. (k)(6). Pub. L. 102–550, §603, struck out “incorporated private” before “institution” in introductory provisions, added subpar. (A), and redesignated former subpars. (A) to (C) as (B) to (D), respectively.
 

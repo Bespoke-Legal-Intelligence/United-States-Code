@@ -6,7 +6,7 @@
 
 (c) The initial appointment to a commissioned grade of a member designated as director of the Coast Guard Band shall be in the grade of lieutenant (junior grade) or lieutenant.
 
-(d) A member who is designated and commissioned under this section shall not be included on the active duty promotion list. He shall be promoted under section 276 of this title. However, the grade of the director may not be higher than commander.
+(d) A member who is designated and commissioned under this section shall not be included on the active duty promotion list. He shall be promoted under section 276 of this title. However, the grade of the director may not be higher than captain.
 
 (e) The Secretary may revoke any designation as director of the Coast Guard Band. When a member's designation is revoked, his appointment to commissioned grade under this section terminates and he is entitled, at his option:
 
@@ -14,9 +14,11 @@
 
 &emsp;(2) to revert to the grade and status he held at the time of his designation as director.
 
-(Added Pub. L. 89–189, §1(1), Sept. 17, 1965, 79 Stat. 820; amended Pub. L. 102–587, title V, §5201, Nov. 4, 1992, 106 Stat. 5071.)
+(Added Pub. L. 89–189, §1(1), Sept. 17, 1965, 79 Stat. 820; amended Pub. L. 102–587, title V, §5201, Nov. 4, 1992, 106 Stat. 5071; Pub. L. 107–295, title III, §311, Nov. 25, 2002, 116 Stat. 2102.)
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–295 substituted “captain” for “commander”.
 
 1992—Subsec. (d). Pub. L. 102–587 substituted “commander” for “lieutenant commander”.
 

@@ -16,7 +16,7 @@ For the purpose of performing functions under this chapter outside the United St
 
 #### (e) Grants; use of funds, counseling service; publicity and promotion abroad
 
-(1) In providing for the activities and interchanges authorized by section 2452 of this title, grants may be made to or for individuals, either directly or through foundations or educational or other institutions, which foundations or institutions are public or private nonprofit, and may include funds for tuition and other necessary incidental expenses, for travel expenses from their places of residence and return for themselves, and, whenever it would further the purposes of this chapter, for the dependent members of their immediate families, for health and accident insurance premiums, emergencymedical expenses, costs of preparing and transporting to their former homes the remains of any of such persons who may die while away from their homes as participants or dependents of participants in any program under this chapter, and for per diem in lieu of subsistence at rates prescribed by the Director of the United States Information Agency, for all such persons, and for such other expenses as are necessary for the successful accomplishment of the purposes of this chapter.
+(1) In providing for the activities and interchanges authorized by section 2452 of this title, grants may be made to or for individuals, either directly or through foundations or educational or other institutions, which foundations or institutions are public or private nonprofit, and may include funds for tuition and other necessary incidental expenses, for travel expenses from their places of residence and return for themselves, and, whenever it would further the purposes of this chapter, for the dependent members of their immediate families, for health and accident insurance premiums, emergency medical expenses, costs of preparing and transporting to their former homes the remains of any of such persons who may die while away from their homes as participants or dependents of participants in any program under this chapter, and for per diem in lieu of subsistence at rates prescribed by the Director of the United States Information Agency, for all such persons, and for such other expenses as are necessary for the successful accomplishment of the purposes of this chapter.
 
 (2) Funds available for programs under this chapter may be used (i) to provide for orientation courses, language training, or other appropriate services and materials for persons traveling out of the countries of their residence for educational and cultural purposes which further the purposes of this chapter, whether or not they are receiving other financial support from the Government, and (ii) to provide or continue services to increase the effectiveness of such programs following the return of such persons to the countries of their residence.
 
@@ -52,7 +52,7 @@ In subsec. (b), “chapter 51 and subchapter III of chapter 53 of title 5” and
 
 #### Amendments
 
-1994—Subsec. (e)(4). Pub. L. 103–236 inserted before period at end “, and of similar services and opportunitiesfor interchange not supported by the United States Government”.
+1994—Subsec. (e)(4). Pub. L. 103–236 inserted before period at end “, and of similar services and opportunities for interchange not supported by the United States Government”.
 
 1980—Subsec. (c). Pub. L. 96–465, §2205(7), struck out subsec. (c) which related to employment or assignment of persons in or to Foreign Service Reserve or Foreign Service Staff and alien clerks and employees.
 
@@ -80,7 +80,7 @@ Amendment by Pub. L. 87–793 effective on first day of first pay period which b
 
 #### Transfer of Functions
 
-United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsecs. (d) and (e)(1), (3), and (4), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “Secretary of State” in subsec. (c) and for “President” in subsecs. (d), (e)(3), (4), pursuant to Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsecs. (a), (e)(1), (2), (f), (g) of this section, sections 2452(b)(6), (10), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by subsec. (b) of this section and sections 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
+United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of thistitle. “Director of the United States Information Agency” substituted for “Director of the International Communication Agency” in subsecs. (d) and (e)(1), (3), and (4), pursuant to section 303(b) of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. Previously, “Director of the International Communication Agency” substituted for “Secretary of State” in subsec. (c) and for “President” in subsecs. (d), (e)(3), (4), pursuant to Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, which transferred functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof, under this chapter, to Director of International Communication Agency, except (A) for such functions as are vested by subsecs. (a), (e)(1), (2), (f), (g) of this section, sections 2452(b)(6), (10), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by subsec. (b) of this section and sections 2455(d)(2), (f), and 2456(d), (f) of this title, to the extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to the extent that any such function therein is vested in President or Secretary of State.
 
 For transfer of functions and offices (relating to education) of Secretary and Department of Health, Education, and Welfare to Secretary and Department of Education, and termination of certain offices and positions under Ex. Ord. No. 11034, June 25, 1962, as amended, set out under this section, see sections 3441 and 3503 of Title 20, Education.
 
@@ -124,7 +124,7 @@ Sec. 2. <i>United States Information Agency</i>. (a) Subject to the provisions o
 
 (c) The functions so conferred by Section 102(a)(3) of the Act \[section 2452(a)(3) of this title\] to the extent that they are in respect of fairs, expositions, and demonstrations held outside of the United States, but exclusive of the functions delegated by the provisions of Section 1(a)(3) of this order.
 
-(d) The functions so conferred by Sections 104(d) and 108(c) and (d) of the Act \[subsec. (d) of this section and section 2458(c), (d) of this title\] to the extent that they pertain to the functions delegated by the foregoing provisions of this section.
+(d) The functions so conferred by Sections 104(d) and 108(c) and (d) of the Act \[subsec. (d) of this section andsection 2458(c), (d) of this title\] to the extent that they pertain to the functions delegated by the foregoing provisions of this section.
 
 Sec. 3. <i>Department of Commerce</i>. Subject to the provisions of Section 6 of this order, the following functions conferred upon the President by the Act are hereby delegated to the Secretary of Commerce:
 
@@ -156,13 +156,13 @@ Sec. 7. <i>Functions reserved to the President</i>. (a) There are hereby exclude
 
 Sec. 8. <i>Waivers</i>. (a) It is hereby determined that the performance by any department or other executive agency of functions authorized by Sections 102(a)(2) and 102(a)(3) of the Act (22 U.S.C. 2452(a)(2) and (3)) without regard to prohibitions and limitations of authority contained in the following-specified provisions of law is in furtherance of the purposes of the Act:
 
-(1) Section 15 of the Administrative Expenses Act of 1946 (c. 744, August 2, 1946; 60 Stat. 810), as amended (5U.S.C. 55a) \[section 3109(b) of Title 5, Government Organization and Employees\] (experts and consultants; but the compensation paid individuals in pursuance of this paragraph shall not exceed the rate of $100.00 per diem.
+(1) Section 15 of the Administrative Expenses Act of 1946 (c. 744, August 2, 1946; 60 Stat. 810), as amended (5 U.S.C. 55a) \[section 3109(b) of Title 5, Government Organization and Employees\] (experts and consultants; but the compensation paid individuals in pursuance of this paragraph shall not exceed the rate of $100.00 per diem.
 
 (2) Section 16(a) of the Administrative Expenses Act of 1946 (c. 744, August 2, 1946; 60 Stat. 810; 5 U.S.C. 78) \[section 1343, 1344, and 1349(b) of Title 31, Money and Finance\] to the extent that it pertains to hiring automobiles and aircraft.
 
 (3) Section 3648 of the Revised Statutes, as amended (31 U.S.C. 529) \[section 3324(a) and (b) of Title 31\] (advance of funds).
 
-(4) Section 322 of the Act of June 30, 1932, c. 314, 47 Stat. 412 (40 U.S.C. 278a) (maximum charges).
+(4) Section 322 of the Act of June 30, 1932, c. 314, 47 Stat. 412 (\[former\] 40 U.S.C. 278a) (maximum charges).
 
 (5) Section 3709 of the Revised Statutes, as amended (41 U.S.C. 5) (competitive bids).
 
@@ -184,7 +184,7 @@ Sec. 8. <i>Waivers</i>. (a) It is hereby determined that the performance by any 
 
 (14) Any provision of law or limitation of authority to the extent that such provision or limitation would limit or prohibit construction of buildings by the United States on property not owned by it.
 
-(15) Any provision of law or limitation of authority to the extent that such provision or limitation would limit or prohibit (i) receipt of admission fees or payments under contracts through advances or otherwise, for concessions, services, space, or other consideration, and the credit of such receipts to the applicable appropriation, and (ii) rental or lease for periods not exceeding ten years of buildings and grounds.
+(15) Any provision of law or limitation of authority to the extent that such provision or limitation wouldlimit or prohibit (i) receipt of admission fees or payments under contracts through advances or otherwise, for concessions, services, space, or other consideration, and the credit of such receipts to the applicable appropriation, and (ii) rental or lease for periods not exceeding ten years of buildings and grounds.
 
 (b) It is directed (1) that all waivers of statutes and limitations of authority effected by the foregoing provisions of this section shall be utilized in a prudent manner and as sparingly as may be practical, and (2) that suitable steps shall be taken by the administrative agencies concerned to insure that result, including, as may be appropriate, the imposition of administrative limitations in lieu of waived statutory requirements and limitations of authority.
 
@@ -232,7 +232,7 @@ Section 101. Executive Order No. 11034 of June 25, 1962 \[set out as a note abov
 
 “(c) References in this order to this order shall be deemed to include references thereto as amended from time to time.”
 
-Sec. 2. It is hereby determined that the performance by any department or other executive agency of functions authorized by sections 102(a)(2) and 102(a)(3) of the Mutual Educational and Cultural Exchange Act of 1961\(22 U.S.C. 2452(a)(2) and (3)) without regard to the provisions and limitations referred to in section (8)(a)(15) of Executive Order No. 11034 of June 25, 1962 (to the extent set forth in the latter section) is in furtherance of the purposes of that Act.
+Sec. 2. It is hereby determined that the performance by any department or other executive agency of functions authorized by sections 102(a)(2) and 102(a)(3) of the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2452(a)(2) and (3)) without regard to the provisions and limitations referred to in section (8)(a)(15) of Executive Order No. 11034 of June 25, 1962 (to the extent set forth in the latter section) is in furtherance of the purposes of that Act.
 
 #### Part II—Approval of Certain Regulations Relating to Living Quarters
 

@@ -8,5 +8,5 @@ On and after October 1, 1982, receipts from the sale of used or surplus furnitur
 
 Section is based on title I (2d proviso under “Senate Office Buildings”) of S. 2939, as reported Sept. 22, 1982, which was enacted into law by Pub. L. 97–276.
 
-Section was formerly classified to section 170a of Title 40, Public Buildings, Property, and Works.
+Section was formerly classified to section 170a of former Title 40, Public Buildings, Property, and Works.
 

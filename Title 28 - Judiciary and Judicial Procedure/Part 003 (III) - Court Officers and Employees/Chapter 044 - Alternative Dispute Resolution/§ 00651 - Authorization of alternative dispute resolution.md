@@ -30,11 +30,11 @@ Program Support.—The Federal Judicial Center and the Administrative Office of 
 
 #### References in Text
 
-The date of the enactment of the Alternative Dispute Resolution Act of 1998, referred to in subsec. (c), is the date of enactment of Pub. L. 105–315, which was approved Oct. 30, 1998.
+The date of the enactment of the Alternative Dispute Resolution Act of 1998, referred to in subsec. (c), is thedate of enactment of Pub. L. 105–315, which was approved Oct. 30, 1998.
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–315 amended section generally, substituting provisions relating to authorization of alternative dispute resolution for provisions relating to authorization of arbitration.
+1998—Pub. L. 105–315 amended section generally, substituting provisions relating to authorization of alternative dispute resolution for provisions relating to authorization of arbitration.
 
 #### Effective Date
 

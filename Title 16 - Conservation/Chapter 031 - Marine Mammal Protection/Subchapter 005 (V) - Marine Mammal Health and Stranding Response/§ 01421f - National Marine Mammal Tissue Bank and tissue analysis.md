@@ -38,7 +38,7 @@ The Secretary shall, in consultation with the Marine Mammal Commission, the Secr
 
 #### (1) In general
 
-&emsp;The Secretary shall maintain a central data base which provides an effective means for tracking and accessing data on marine mammals, including relevant data on marine mammal tissues collected for and maintained in the Tissue Bank.
+&emsp;The Secretary shall maintain a central data base which provides an effective means fortracking and accessing data on marine mammals, including relevant data on marine mammal tissues collected for and maintained in the Tissue Bank.
 
 #### (2) Contents
 

@@ -16,7 +16,7 @@
 
 #### (2) Information used in preparation
 
-&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288, 1313(e), 1314(f), 1315(b), and 1324 of this title, and other information as appropriate, and (B) may utilize appropriate elements of the waste treatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
+&emsp;In developing the report required by this section, the State (A) may rely upon information developed pursuant to sections 1288, 1313(e), 1314(f), 1315(b), and 1324 of this title, and other information as appropriate, and (B) may utilize appropriate elements of the wastetreatment management plans developed pursuant to sections 1288(b) and 1313 of this title, to the extent such elements are consistent with and fulfill the requirements of this section.
 
 #### (b) State management programs
 
@@ -62,7 +62,7 @@
 
 #### (1) Deadline
 
-&emsp;Subject to paragraph (2), not later than 180 days after the date of submission to the Administrator of any report or management program under this section (other than subsections (h), (i), and (k) of this section), the Administrator shall either approve or disapprove such report or management program, as the case may be. The Administrator may approve a portion of a management program under this subsection. If the Administrator does not disapprove a report, management program, or portion of a management program in such 180-day period, such report, management program, or portion shall be deemed approved for purposes of this section.
+&emsp;Subject to paragraph (2), not later than 180 days after the date of submission to the Administrator of any report or management program under this section (other than subsections (h), (i), and (k) of this section), the Administrator shall either approve or disapprove such report or management program,as the case may be. The Administrator may approve a portion of a management program under this subsection. If the Administrator does not disapprove a report, management program, or portion of a management program in such 180-day period, such report, management program, or portion shall be deemed approved for purposes of this section.
 
 #### (2) Procedure for disapproval
 
@@ -162,7 +162,7 @@ Upon request of a State, the Administrator may provide technical assistance to s
 
 #### (1) Eligible applicants and activities
 
-&emsp;Upon application of a State for which a report submitted under subsection (a) of thissection and a plan submitted under subsection (b) of this section is approved under this section, the Administrator shall make grants under this subsection to such State for the purpose of assisting such State in carrying out groundwater quality protection activities which the Administrator determines will advance the State toward implementation of a comprehensive nonpoint source pollution control program. Such activities shall include, but not be limited to, research, planning, groundwater assessments, demonstration programs, enforcement, technical assistance, education and training to protect the quality of groundwater and to prevent contamination of groundwater from nonpoint sources of pollution.
+&emsp;Upon application of a State for which a report submitted under subsection (a) of this section and a plan submitted under subsection (b) of this section is approved under this section, the Administrator shall make grants under this subsection to such State for the purpose of assisting such State in carrying out groundwater quality protection activities which the Administrator determines will advance the State toward implementation of a comprehensive nonpoint source pollution control program. Such activities shall include, but not be limited to, research, planning, groundwater assessments, demonstration programs, enforcement, technical assistance, education and training to protect the quality of groundwater and to prevent contamination of groundwater from nonpoint sources of pollution.
 
 #### (2) Applications
 
@@ -171,6 +171,10 @@ Upon request of a State, the Administrator may provide technical assistance to s
 #### (3) Federal share; maximum amount
 
 &emsp;The Federal share of the cost of assisting a State in carrying out groundwater protection activities in any fiscal year under this subsection shall be 50 percent of the costs incurred by the State in carrying out such activities, except that the maximum amount of Federal assistance which any State may receive under this subsection in any fiscal year shall not exceed $150,000.
+
+#### (4) Report
+
+&emsp;The Administrator shall include in each report transmitted under subsection (m) of this section a report on the activities and programs implemented under this subsection during the preceding fiscal year.
 
 #### (j) Authorization of appropriations
 
@@ -184,11 +188,37 @@ The Administrator shall transmit to the Office of Management and Budget and the 
 
 The Administrator shall collect and make available, through publications and other appropriate means, information pertaining to management practices and implementation methods, including, but not limited to, (1) information concerning the costs and relative efficiencies of best management practices for reducing nonpoint source pollution; and (2) available data concerning the relationship between water quality and implementation of various management practices to control nonpoint sources of pollution.
 
-#### (m) Set aside for administrative personnel
+#### (m) Reports of Administrator
+
+#### (1) Annual reports
+
+&emsp;Not later than January 1, 1988, and each January 1 thereafter, the Administrator shall transmit to the Committee on Public Works
+
+and Transportation of the House of Representatives and the Committee on Environment and Public Works of the Senate, a report for the preceding fiscal year on the activities and programs implemented under this section and the progress made in reducing pollution in the navigable waters resulting from nonpoint sources and improving the quality of such waters.
+
+#### (2) Final report
+
+&emsp;Not later than January 1, 1990, the Administrator shall transmit to Congress a final report on the activities carried out under this section. Such report, at a minimum, shall—
+
+&emsp;&emsp;(A) describe the management programs being implemented by the States by types and amount of affected navigable waters, categories and subcategories of nonpoint sources, and types of best management practices being implemented;
+
+&emsp;&emsp;(B) describe the experiences of the States in adhering to schedules and implementing best management practices;
+
+&emsp;&emsp;(C) describe the amount and purpose of grants awarded pursuant to subsections (h) and (i) of this section;
+
+&emsp;&emsp;(D) identify, to the extent that information is available, the progress made in reducing pollutant loads and improving water quality in the navigable waters;
+
+&emsp;&emsp;(E) indicate what further actions need to be taken to attain and maintain in those navigable waters (i) applicable water quality standards, and (ii) the goals and requirements of this chapter;
+
+&emsp;&emsp;(F) include recommendations of the Administrator concerning future programs (including enforcement programs) for controlling pollution from nonpoint sources; and
+
+&emsp;&emsp;(G) identify the activities and programs of departments, agencies, and instrumentalities of the United States which are inconsistent with the management programs submitted by the States and recommend modifications so that such activities and programs are consistent with and assist the States in implementation of such management programs.
+
+#### (n) Set aside for administrative personnel
 
 Not less than 5 percent of the funds appropriated pursuant to subsection (j) of this section for any fiscal year shall be available to the Administrator to maintain personnel levels at the Environmental Protection Agency at levels which are adequate to carry out this section in such year.
 
-(June 30, 1948, ch. 758, title III, §319, as added Pub. L. 100–4, title III, §316(a), Feb. 4, 1987, 101 Stat. 52; amended Pub. L. 105–362, title V, §501(c), Nov. 10, 1998, 112 Stat. 3283.)
+(June 30, 1948, ch. 758, title III, §319, as added Pub. L. 100–4, title III, §316(a), Feb. 4, 1987, 101 Stat. 52; amended Pub. L. 105–362, title V, §501(c), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
 #### References in Text
 
@@ -198,9 +228,19 @@ The Colorado River Basin Salinity Control Act, referred to in subsec. (g)(1), is
 
 #### Amendments
 
-1998—Subsec. (i)(4). Pub. L. 105–362, §501(c)(1), struck out heading and text of par. (4). Text read as follows: “The Administrator shall include in each report transmitted under subsection (m) of this section a report on the activities and programs implemented under this subsection during the preceding fiscal year.”
+2002—Subsecs. (i)(4), (m), (n). Pub. L. 107–303 repealed Pub. L. 105–362, §501(c). See 1998 Amendment note below.
 
-Subsecs. (m), (n). Pub. L. 105–362, §501(c)(2), (3), redesignated subsec. (n) as (m) and struck out heading and text of former subsec. (m) which related to reports of Administrator.
+1998—Subsec. (i)(4). Pub. L. 105–362, §501(c)(1), which directed the striking out of heading and text of par. (4), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+
+Subsecs. (m), (n). Pub. L. 105–362, §501(c)(2), (3), which directed the redesignation of subsec. (n) as (m) and striking out of heading and text of former subsec. (m), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
+
+#### Change of Name
+
+Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
 
 #### Section Referred to in Other Sections
 

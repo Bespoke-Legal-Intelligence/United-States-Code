@@ -32,6 +32,10 @@
 
 &emsp;A grant awarded under this subsection may not be less than $150,000.
 
+#### (6) Consideration for grants for new programs
+
+&emsp;For each fiscal year that amounts are made available for grants under this subsection, the Secretary may make grants in a manner that ensures that eligible entities who apply for grants, but have not previously received a grant under this subsection, are given full consideration.
+
 #### (b) National grant for technical assistance, training, and dissemination
 
 The Secretary of Agriculture shall award a competitive grant to a national private nonprofit disability organization to enable such organization to provide technical assistance, training, information dissemination and other activities to support community-based direct service programs of on-site rural rehabilitation and assistive technology for individuals with disabilities, and their families, who are engaged in farming or farm-related occupations.
@@ -40,15 +44,19 @@ The Secretary of Agriculture shall award a competitive grant to a national priva
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), there is authorized to be appropriated to carry out this section $6,000,000 for each of fiscal years 1999 through 2002.
+&emsp;Subject to paragraph (2), there is authorized to be appropriated to carry out this section $6,000,000 for each of fiscal years 1999 through 2007.
 
 #### (2) National grant
 
 &emsp;Not more than 15 percent of the amounts made available under paragraph (1) for a fiscal year shall be used to carry out subsection (b) of this section.
 
-(Pub. L. 101–624, title XVI, §1680, Nov. 28, 1990, 104 Stat. 3781; Pub. L. 104–127, title VIII, §841, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 105–185, title II, §246, June 23, 1998, 112 Stat. 556.)
+(Pub. L. 101–624, title XVI, §1680, Nov. 28, 1990, 104 Stat. 3781; Pub. L. 104–127, title VIII, §841, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 105–185, title II, §246, June 23, 1998, 112 Stat. 556; Pub. L. 107–171, title VII, §§7122, 7208(c), May 13, 2002, 116 Stat. 434, 444.)
 
 #### Amendments
+
+2002—Subsec. (a)(6). Pub. L. 107–171, §7208(c), added par. (6).
+
+Subsec. (c)(1). Pub. L. 107–171, §7122, substituted “2007” for “2002”.
 
 1998—Subsec. (a)(6). Pub. L. 105–185, §246(1), struck out heading and text of par. (6). Text read as follows: “There are authorized to be appropriated to carry out this subsection—
 

@@ -36,7 +36,7 @@ At the request of the Committee on the Budget of either House, personnel of the 
 
 #### (f) Use of computers and other techniques
 
-The Director may equip the Office with up-to-date computer capability (upon approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate), obtain the services of experts and consultants in computer technology, and develop techniques for the evaluation of budgetary requirements.
+The Director may equip the Office with up-to-date computer capability (upon approval of the Committee on House Oversight of the House of Representatives and the Committee on Rules and Administration of the Senate), obtain theservices of experts and consultants in computer technology, and develop techniques for the evaluation of budgetary requirements.
 
 #### (g) Studies
 
@@ -112,5 +112,5 @@ Section effective on day on which first Director of Congressional Budget Office 
 
 #### Credit Reform
 
-Pub. L. 100–119, title II, §212, Sept. 29, 1987, 101 Stat. 787, provided that: “The Congressional Budget Office, in consultation with the General Accounting Office, shall study and report to Congress on Federal direct loan and loan guarantee programs for fiscal year 1987 and fiscal year 1988. The report shall be submitted as soon as practicable to all congressional committees of appropriate jurisdiction. The report shall provide information and recommendations on: (1) more accurately measuring the costs to the Federal Government of such credit programs, (2) comparing the cost of credit programs to other forms of Federal assistance, and (3) improving the allocation of resources between credit and other programs. The report shall also discuss the considerations involved in establishing a system for using the information on the costs of credit programs as part of the budget process.”
+Pub. L. 100–119, title II, §212, Sept. 29, 1987, 101 Stat. 787, provided that: “The Congressional Budget Office, in consultation with the General Accounting Office, shall study and report to Congress on Federal direct loan and loan guarantee programs for fiscal year 1987 and fiscal year 1988. The report shall be submitted as soon aspracticable to all congressional committees of appropriate jurisdiction. The report shall provide information and recommendations on: (1) more accurately measuring the costs to the Federal Government of such credit programs, (2) comparing the cost of credit programs to other forms of Federal assistance, and (3) improving the allocation of resources between credit and other programs. The report shall also discuss the considerations involved in establishing a system for using the information on the costs of credit programs as part of the budget process.”
 

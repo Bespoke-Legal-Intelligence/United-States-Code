@@ -32,7 +32,7 @@
 
 (2) Each agency may accept any financial incentive, goods, or services generally available from any such utility, to increase energy efficiency or to conserve water or manage electricity demand.
 
-(3) Each agency is encouraged to enter into negotiations with electric, water, and gas utilities to design cost-effective demand management and conservation incentive programs to address the unique needs of facilities utilized by such agency.
+(3) Each agency is encouraged to enter into negotiations with electric, water, and gas utilities to design cost-effective demand managementand conservation incentive programs to address the unique needs of facilities utilized by such agency.
 
 (4) If an agency satisfies the criteria which generally apply to other customers of a utility incentive program, such agency may not be denied collection of rebates or other incentives.
 
@@ -62,7 +62,7 @@
 
 (3) There is authorized to be appropriated to carry out this subsection not more than $250,000 for each of the fiscal years 1993, 1994, and 1995.
 
-(Pub. L. 95–619, title V, §546, Nov. 9, 1978, 92 Stat. 3278; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat.3187; Pub. L. 102–486, title I, §152(f), Oct. 24, 1992, 106 Stat. 2846.)
+(Pub. L. 95–619, title V, §546, Nov. 9, 1978, 92 Stat. 3278; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187; Pub. L. 102–486, title I, §152(f), Oct. 24, 1992, 106 Stat. 2846.)
 
 #### References in Text
 
@@ -82,7 +82,7 @@ Subsecs. (c), (d). Pub. L. 102–486, §152(f)(3), (4), added subsecs. (c) and (
 
 Pub. L. 104–52, title VI, §625, Nov. 19, 1995, 109 Stat. 502, provided that:
 
-“(a) Beginning in fiscal year 1996 and thereafter, for each Federal agency, except the Department of Defense (which has separate authority), and except as provided in Public Law 102–393, title IV, section 13 (40 U.S.C. 490g) with respect to the Fund established pursuant to 40 U.S.C. 490(f), an amount equal to 50 percent of—
+“(a) Beginning in fiscal year 1996 and thereafter, for each Federal agency, except the Department of Defense (which has separate authority), and except as provided in Public Law 102–393, title IV, section 13 (40 U.S.C. 490g) \[now 40 U.S.C. 592(f)\] with respect to the Fund established pursuant to 40 U.S.C. 490(f) \[now 40 U.S.C. 592(a)–(c)(1), (d), (e)\], an amount equal to 50 percent of—
 
 &emsp;“(1) the amount of each utility rebate received by the agency for energy efficiency and water conservation measures, which the agency has implemented; and
 

@@ -34,7 +34,7 @@ The Secretary shall address priority substance abuse treatment needs of regional
 
 #### (3) Matching funds
 
-&emsp;The Secretary may, for projects carried out under subsection (a) of this section, require that entities that apply for grants, contracts, or cooperative agreements under that project provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity tothe projects funded under the grant, contract, or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
+&emsp;The Secretary may, for projects carried out under subsection (a) of this section, require that entities that apply for grants, contracts, or cooperative agreements under that project provide non-Federal matching funds, as determined appropriate by the Secretary, to ensure the institutional commitment of the entity to the projects funded under the grant, contract, or cooperative agreement. Such non-Federal matching funds may be provided directly or through donations from public or private entities and may be in cash or in kind, fairly evaluated, including plant, equipment, or services.
 
 #### (4) Maintenance of effort
 

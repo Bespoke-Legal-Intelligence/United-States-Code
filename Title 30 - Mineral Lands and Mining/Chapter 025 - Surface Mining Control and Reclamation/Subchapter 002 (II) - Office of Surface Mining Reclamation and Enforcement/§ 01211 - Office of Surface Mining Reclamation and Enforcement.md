@@ -62,7 +62,7 @@ No employee of the Office or any other Federal employee performing any function 
 
 #### References in Text
 
-The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (b) and (d), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290, and is classified principally to chapter 22 (§801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
+The Federal Coal Mine Health and Safety Act of 1969, referred to in subsecs. (b) and (d), is Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 742, as amended, which was redesignated the Federal Mine Safety and Health Act of 1977 by Pub. L. 95–164, title I, §101, Nov. 9, 1977, 91 Stat. 1290,and is classified principally to chapter 22 (§801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
 
@@ -99,8 +99,6 @@ Pub. L. 106–291, title I, Oct. 11, 2000, 114 Stat. 933.
 Pub. L. 106–113, div. B, §1000(a)(3) \[title I\], Nov. 29, 1999, 113 Stat. 1535, 1501A–147.
 
 Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–244.
-
-s
 
 Pub. L. 105–83, title I, Nov. 14, 1997, 111 Stat. 1553.
 

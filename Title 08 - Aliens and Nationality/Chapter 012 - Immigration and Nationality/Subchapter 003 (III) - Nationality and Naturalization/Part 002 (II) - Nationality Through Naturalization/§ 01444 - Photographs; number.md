@@ -32,3 +32,7 @@ One such photograph shall be affixed to each such certificate issued by the Atto
 
 Amendment by Pub. L. 103–416 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 219(dd) of Pub. L. 103–416, set out as a note under section 1101 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+

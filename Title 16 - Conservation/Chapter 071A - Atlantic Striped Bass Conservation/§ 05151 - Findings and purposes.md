@@ -32,7 +32,7 @@ It is therefore declared to be the purpose of the Congress in this chapter to su
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–146, §1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act \[enacting section 5158 of this title, amending this section and sections 5152 to 5157 of this title, repealing section 757g of this title, amending provisions set out as a note under this section and listed in a table of National Wildlife Conservation Areasset out under section 668dd of this title, and repealing provisions set out as notes under section 1851 of this title\] may be cited as the ‘Atlantic Striped Bass Conservation Act Amendments of 1997’.”
+Pub. L. 105–146, §1, Dec. 16, 1997, 111 Stat. 2672, provided that: “This Act \[enacting section 5158 of this title, amending this section and sections 5152 to 5157 of this title, repealing section 757g of this title, amending provisions set out as a note under this section and listed in a table of National Wildlife Conservation Areas set out under section 668dd of this title, and repealing provisions set out as notes under section 1851 of this title\] may be cited as the ‘Atlantic Striped Bass Conservation Act Amendments of 1997’.”
 
 #### Short Title
 

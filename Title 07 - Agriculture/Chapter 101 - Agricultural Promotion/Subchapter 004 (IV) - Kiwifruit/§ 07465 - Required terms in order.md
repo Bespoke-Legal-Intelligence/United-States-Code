@@ -140,6 +140,10 @@ Nothing in this subchapter authorizes the withholding of information from Congre
 
 (Pub. L. 104–127, title V, §556, Apr. 4, 1996, 110 Stat. 1067.)
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 7466 of this title.

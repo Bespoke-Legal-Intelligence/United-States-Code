@@ -24,7 +24,7 @@ Nonvoting investment stock may be issued in such series and in such amounts as m
 
 Participation certificates may be issued to parties to whom voting stock may not be issued.
 
-(Pub. L. 92–181, title III, §3.3, Dec. 10, 1971, 85 Stat. 603; Pub. L. 96–592, title III, §302, Dec. 24,1980, 94 Stat. 3443; Pub. L. 99–205, title II, §205(e)(3), (4), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, §§802(<i>o</i>), 805(k), Jan. 6, 1988, 101 Stat. 1712, 1715.)
+(Pub. L. 92–181, title III, §3.3, Dec. 10, 1971, 85 Stat. 603; Pub. L. 96–592, title III, §302, Dec. 24, 1980, 94 Stat. 3443; Pub. L. 99–205, title II, §205(e)(3), (4), Dec. 23, 1985, 99 Stat. 1705; Pub. L. 100–233, title VIII, §§802(<i>o</i>), 805(k), Jan. 6, 1988, 101 Stat. 1712, 1715.)
 
 #### Amendments
 

@@ -1,5 +1,5 @@
 
-31 U.S.C.<br>United States Code, 2001 Edition<br>Title 31 - MONEY AND FINANCE<br>From the U.S. Government Publishing Office, www.gpo.gov
+31 U.S.C.<br>United States Code, 2002 Edition<br>Title 31 - MONEY AND FINANCE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 31—MONEY AND FINANCE
 
@@ -1676,7 +1676,7 @@ T. 16 §580<i>o</i>–4
 
 489
 
-T. 40 §485a
+T. 40 §485a (See Rev. T. 40 Table)
 
 489a
 
@@ -2316,7 +2316,7 @@ Rep.
 
 689
 
-T. 40 §166a–1
+T. 40 §166a–1 (See T. 2 §1861)
 
 690
 
@@ -2976,7 +2976,7 @@ Rep.
 
 871
 
-Rep. See T. 40 §33a
+Rep.
 
 901–904
 
@@ -3962,7 +3962,7 @@ Pub. L. 97–452, §3, Jan. 12, 1983, 96 Stat. 2479, provided that:
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 12 sections 93, 1464, 1722d, 1786, 1818; title 26 section 6050I; title 28 section 613; title 40 section 490b; title 45 section 231n; title 49 sections 24301, 40125.
+This title is referred to in title 12 sections 93, 1464, 1722d, 1786, 1818; title 26 section 6050I; title 28 section 613; title 40 section 590; title 45 section 231n; title 49 sections 24301, 40125.
 
 
 ---

@@ -6,11 +6,11 @@ There is established within the Federal Government an Interagency Committee on E
 
 #### (b) Federal agencies; affirmative action program plans
 
-Each department, agency, and instrumentality (including the United States Postal Service and the Postal Rate Commission) in the executive branch and the Smithsonian Institution shall, within one hundred and eighty days after September 26, 1973, submit to the Commission and to the Committee an affirmative action program plan for the hiring, placement, and advancement of individuals with disabilities in such department, agency, instrumentality, or Institution. Such plan shall include a description of the extent to which and methods whereby the special needs of employees who are individuals with disabilities are being met. Such plan shall be updated annually, and shall be reviewed annually and approved by the Commission, if the Commission determines, after consultation with the Committee, that such plan provides sufficient assurances, procedures and commitments to provide adequate hiring, placement, and advancement opportunities for individuals with disabilities.
+Each department, agency, and instrumentality (including the United States Postal Service and the Postal Rate Commission) in the executive branch and the Smithsonian Institution shall, within one hundred and eighty days after September 26, 1973, submit to the Commission and to the Committee an affirmative action program plan for the hiring, placement, and advancement of individuals with disabilities in such department, agency, instrumentality, or Institution. Such plan shall include a description of the extent to which and methods whereby the special needs of employees who are individuals with disabilities are being met. Suchplan shall be updated annually, and shall be reviewed annually and approved by the Commission, if the Commission determines, after consultation with the Committee, that such plan provides sufficient assurances, procedures and commitments to provide adequate hiring, placement, and advancement opportunities for individuals with disabilities.
 
 #### (c) State agencies; rehabilitated individuals, employment
 
-The Commission, after consultation with the Committee, shall develop and recommend to the Secretary for referral to the appropriate State agencies, policies and procedures which will facilitate the hiring, placement, and advancement in employment of individuals who have received rehabilitation services under State vocationalrehabilitation programs, veterans’ programs, or any other program for individuals with disabilities, including the promotion of job opportunities for such individuals. The Secretary shall encourage such State agencies to adopt and implement such policies and procedures.
+The Commission, after consultation with the Committee, shall develop and recommend to the Secretary for referral to the appropriate State agencies, policies and procedures which will facilitate the hiring, placement, and advancement in employment of individuals who have received rehabilitation services under State vocational rehabilitation programs, veterans’ programs, or any other program for individuals with disabilities, including the promotion of job opportunities for such individuals. The Secretary shall encourage such State agencies to adopt and implement such policies and procedures.
 
 #### (d) Report to Congressional committees
 
@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 105–220, §408(a)(1)(B), substituted “individualized pl
 
 Subsec. (a). Pub. L. 102–569, §503(a), substituted “the Director of the Office of Personnel Management, the Secretary of Veterans Affairs” for “the Secretary of Veterans Affairs, and”, and amended second sentence generally. Prior to amendment, second sentence read as follows: “The Secretary of Education and the Chairman of the Commission shall serve as co-chairpersons of the Committee.”
 
-Pub. L. 102–569, §102(p)(29)(B), (C), substituted “Interagency Committee on Employees who are Individuals with Disabilities” for “Interagency Committee on Handicapped Employees” and “individuals with disabilities” for “individuals with handicaps” in two places.
+Pub. L. 102–569, §102(p)(29)(B), (C), substituted “Interagency Committee on Employees who are Individuals with Disabilities” for “Interagency Committee onHandicapped Employees” and “individuals with disabilities” for “individuals with handicaps” in two places.
 
 Subsec. (b). Pub. L. 102–569, §102(p)(29)(C), (D), substituted “individuals with disabilities” for “individuals with handicaps” after “advancement of” and after “opportunities for” and “employees who are individuals with disabilities” for “employees with handicaps”.
 
@@ -132,7 +132,7 @@ Ex. Ord. No. 10640, Oct. 10, 1955, 20 F.R. 7717, formerly set out as a note unde
 
 #### Executive Order No. 10994
 
-Ex. Ord. No. 10994, Feb. 14, 1962, 27 F.R. 1447, as amended by Ex. Ord. No. 11018, Apr. 27, 1962, 27 F.R. 4143, which established the President's Committee on Employment of the Handicapped, was superseded by Ex. Ord. No. 11480, Sept. 9, 1969, 34 F.R. 14273, formerly set out below.
+Ex. Ord. No. 10994, Feb. 14, 1962, 27 F.R. 1447, as amended by Ex. Ord. No. 11018, Apr. 27, 1962, 27 F.R.4143, which established the President's Committee on Employment of the Handicapped, was superseded by Ex. Ord. No. 11480, Sept. 9, 1969, 34 F.R. 14273, formerly set out below.
 
 #### Executive Order No. 11480
 
@@ -140,7 +140,7 @@ Ex. Ord. No. 11480, Sept. 9, 1969, 34 F.R. 14273, as amended by Ex. Ord. No. 121
 
 #### Ex. Ord. No. 11830. Enlarging Membership of Interagency Committee on Handicapped Employees
 
-Ex. Ord. No. 11830, Jan. 9, 1975, 40 F.R. 2411, as amended by Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053; Ex.Ord. No. 12450, Dec. 9, 1983, 48 F.R. 55409; Ex. Ord. No. 12672, Mar. 21, 1989, 54 F.R. 12167; Ex. Ord. No. 12704, §1, Feb. 26, 1990, 55 F.R. 6969, provided:
+Ex. Ord. No. 11830, Jan. 9, 1975, 40 F.R. 2411, as amended by Ex. Ord. No. 12106, Dec. 26, 1978, 44 F.R. 1053; Ex. Ord. No. 12450, Dec. 9, 1983, 48 F.R. 55409; Ex. Ord. No. 12672, Mar. 21, 1989, 54 F.R. 12167; Ex. Ord. No. 12704, §1, Feb. 26, 1990, 55 F.R. 6969, provided:
 
 By virtue of the authority vested in me by section 501(a) of the Rehabilitation Act of 1973 (Public Law 93–112; 87 Stat. 390) \[subsec. (a) of this section\], it is hereby ordered as follows:
 
@@ -218,7 +218,7 @@ Section 1. <i>Establishment of Effective Written Procedures to Facilitate the Pr
 
 &emsp;(2) Explain how the agency will process a request for reasonable accommodation, and from whom the individual will receive a final decision;
 
-&emsp;(3) Designate a time period during which reasonable accommodation requests will be granted or denied, absent extenuating circumstances. Time limits fordecision making should be as short as reasonably possible;
+&emsp;(3) Designate a time period during which reasonable accommodation requests will be granted or denied, absent extenuating circumstances. Time limits for decision making should be as short as reasonably possible;
 
 &emsp;(4) Explain the responsibility of the employee or applicant to provide appropriate medical information related to the functional impairment at issue and the requested accommodation where the disability and/or need for accommodation is not obvious;
 

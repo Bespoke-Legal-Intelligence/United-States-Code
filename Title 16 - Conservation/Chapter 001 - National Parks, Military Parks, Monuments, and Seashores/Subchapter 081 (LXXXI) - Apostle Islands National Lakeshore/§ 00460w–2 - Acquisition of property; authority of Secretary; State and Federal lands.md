@@ -8,3 +8,7 @@ The Secretary may acquire within the boundaries of the lakeshore lands and inter
 
 1986—Pub. L. 99–497 substituted “is hereby” for “may, with the concurrence of the agency having custody thereof, be” and inserted proviso permitting the United States Coast Guard to utilize a portion of the lands and facilities for use as navigational aids as long as required.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

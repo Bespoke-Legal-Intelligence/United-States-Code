@@ -27,7 +27,7 @@
 | [<b>221.</b>](Part%20B%20-%20Organizations/Chapter%20221%20-%20The%20American%20Society%20of%20International%20Law/README.md) | <b>The American Society of International Law</b> | <b>22101</b> |
 | [<b>223.</b>](Part%20B%20-%20Organizations/Chapter%20223%20-%20American%20Symphony%20Orchestra%20League/README.md) | <b>American Symphony Orchestra League</b> | <b>22301</b> |
 | [<b>225.</b>](Part%20B%20-%20Organizations/Chapter%20225%20-%20American%20War%20Mothers/README.md) | <b>American War Mothers</b> | <b>22501</b> |
-| [<b>227.</b>](Part%20B%20-%20Organizations/Chapter%20227%20-%20AMVETS%20%28American%20Veterans%20of%20World%20War%20II%2C%20Korea%2C%20and%20Vietnam%29/README.md) | <b>AMVETS (American Veterans of World War II, Korea, and Vietnam)</b> | <b>22701</b> |
+| [<b>227.</b>](Part%20B%20-%20Organizations/Chapter%20227%20-%20AMVETS%20%28American%20Veterans%29/README.md) | <b>AMVETS (American Veterans)</b> | <b>22701</b> |
 | [<b>229.</b>](Part%20B%20-%20Organizations/Chapter%20229%20-%20Army%20and%20Navy%20Union%20of%20the%20United%20States%20of%20America/README.md) | <b>Army and Navy Union of the United States of America</b> | <b>22901</b> |
 | [<b>231.</b>](Part%20B%20-%20Organizations/Chapter%20231%20-%20Aviation%20Hall%20of%20Fame/README.md) | <b>Aviation Hall of Fame</b> | <b>23101</b> |
 | [<b>301.</b>](Part%20B%20-%20Organizations/Chapter%20301%20-%20Big%20Brothers%E2%80%94Big%20Sisters%20of%20America/README.md) | <b>Big Brothers—Big Sisters of America</b> | <b>30101</b> |
@@ -77,6 +77,7 @@
 | [<b>1523.</b>](Part%20B%20-%20Organizations/Chapter%201523%20-%20National%20Music%20Council/README.md) | <b>National Music Council</b> | <b>152301</b> |
 | [<b>1524.</b>](Part%20B%20-%20Organizations/Chapter%201524%20-%20National%20Recording%20Preservation%20Foundation/README.md) | <b>National Recording Preservation Foundation</b> | <b>152401</b> |
 | [<b>1525.</b>](Part%20B%20-%20Organizations/Chapter%201525%20-%20National%20Safety%20Council/README.md) | <b>National Safety Council</b> | <b>152501</b> |
+| [<b>1526.</b>](Part%20B%20-%20Organizations/Chapter%201526%20-%20Help%20America%20Vote%20Foundation/README.md) | <b>Help America Vote Foundation</b> | <b>152601</b> |
 | [<b>1527.</b>](Part%20B%20-%20Organizations/Chapter%201527%20-%20National%20Ski%20Patrol%20System%2C%20Incorporated/README.md) | <b>National Ski Patrol System, Incorporated</b> | <b>152701</b> |
 | [<b>1529.</b>](Part%20B%20-%20Organizations/Chapter%201529%20-%20National%20Society%2C%20Daughters%20of%20the%20American%20Colonists/README.md) | <b>National Society, Daughters of the American Colonists</b> | <b>152901</b> |
 | [<b>1531.</b>](Part%20B%20-%20Organizations/Chapter%201531%20-%20The%20National%20Society%20of%20the%20Daughters%20of%20the%20American%20Revolution/README.md) | <b>The National Society of the Daughters of the American Revolution</b> | <b>153101</b> |
@@ -114,6 +115,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–252, title VI, §601(b), Oct. 29, 2002, 116 Stat. 1721, added item for chapter 1526.
+
+Pub. L. 107–241, §1(a)(2)(B), Oct. 16, 2002, 116 Stat. 1496, substituted “AMVETS (American Veterans)” for “AMVETS (American Veterans of World War II, Korea, and Vietnam)” in item for chapter 227.
 
 2000—Pub. L. 106–474, title II, §201(b), Nov. 9, 2000, 114 Stat. 2095, added item for chapter 1524.
 

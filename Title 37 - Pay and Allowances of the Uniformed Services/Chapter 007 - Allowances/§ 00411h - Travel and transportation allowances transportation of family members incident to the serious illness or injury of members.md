@@ -56,5 +56,5 @@ Amendment by Pub. L. 100–456 effective Oct. 1, 1988, see section 632(c) of Pub
 
 #### Effective Date
 
-Section 615(b) of Pub. L. 100–180 provided that: “The authority to provide transportation or to pay transportation expenses under section 411h of title 37, United States Code, as added by subsection (a), shall be effective only with respect to travel that occurs on or after the effective date of regulations prescribed under such section.”
+Section 615(b) of Pub. L. 100–180 provided that: “The authority to provide transportation or to pay transportation expenses under section 411h of title 37, United States Code, as added by subsection (a), shall be effective only with respect to travel that occurs on or afterthe effective date of regulations prescribed under such section.”
 

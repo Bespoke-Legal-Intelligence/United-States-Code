@@ -12,7 +12,7 @@ The head of each executive agency that is subject to the provisions of title III
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in provision preceding par. (1), is act June 30, 1949, ch. 288, 63 Stat. 393, as amended. Title III of the Federal Property and Administrative Services Act of 1949 is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in provision preceding par. (1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Tables.
 
 This Act and the Small Business and Federal Procurement Competition Enhancement Act of 1984, referred to in provision preceding par. (1) and par. (2), is Pub. L. 98–577, Oct. 30, 1984, 98 Stat. 3066. For complete classification of this Act to the Code, see Short Title note set out under section 251 of this title and Tables.
 

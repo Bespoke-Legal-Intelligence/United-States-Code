@@ -48,7 +48,7 @@ The Secretary shall award contracts to entities that have the expertise to condu
 
 #### (4) Guidance
 
-&emsp;Not later than 270 days after January 4, 2002, the Commissioner of Food and Drugs shall promulgate guidance to establish the processfor the submission of responses to written requests under paragraph (1).
+&emsp;Not later than 270 days after January 4, 2002, the Commissioner of Food and Drugs shall promulgate guidance to establish the process for the submission of responses to written requests under paragraph (1).
 
 #### (5) Contracts
 
@@ -84,7 +84,7 @@ The Secretary shall award contracts to entities that have the expertise to condu
 
 #### (A) Referral to Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee
 
-&emsp;&emsp;If, not later than the end of the 180-day period specified in paragraph (7), the holder of an approved application for the drug involved does not agree to any labeling change requested by the Commissioner of Food and Drugs under that paragraph, the Commissioner of Food and Drugs shall refer the request to the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee.
+&emsp;&emsp;If, not later than the end of the 180-day period specified in paragraph (7), the holder ofan approved application for the drug involved does not agree to any labeling change requested by the Commissioner of Food and Drugs under that paragraph, the Commissioner of Food and Drugs shall refer the request to the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee.
 
 #### (B) Action by the Pediatric Advisory Subcommittee of the Anti-Infective Drugs Advisory Committee
 

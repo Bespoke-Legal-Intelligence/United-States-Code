@@ -10,13 +10,15 @@
 
 &emsp;(2) an identification of any significant difficulties experienced by the pilot agencies in preparing proposed waivers.
 
-(d) For purposes of this section the definitions under section 1115(f) shall apply.
+(d) For purposes of this section the definitions under section 1115(f) <sup>1</sup> shall apply.
 
 (Added Pub. L. 103–62, §6(b), Aug. 3, 1993, 107 Stat. 290.)
 
 #### References in Text
 
 Section 9703, referred to in subsec. (b), probably means the section 9703 added by section 5(a) of Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 289, which is set out preceding this section.
+
+Section 1115(f), referred to in subsec. (d), was redesignated section 1115(g) of this title by Pub. L. 107–296, title XIII, §1311(a)(2), Nov. 25, 2002, 116 Stat. 2290.
 
 #### Construction
 

@@ -26,7 +26,7 @@ The Secretary shall carry out this section with amounts available under section 
 
 2000—Subsec. (c). Pub. L. 106–345 substituted “2001 through 2005” for “1991 through 1995”.
 
-1996—Subsec. (b). Pub. L. 104–146, §3(f)(1)(A), substituted “not later than October 1, 1996,” for “not later than 1 year after the date on which amounts are first appropriated under this subchapter,” in introductory provisions.
+1996—Subsec. (b). Pub. L. 104–146, §3(f)(1)(A), substituted “not later than October 1, 1996,” for “not laterthan 1 year after the date on which amounts are first appropriated under this subchapter,” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 104–146, §3(f)(1)(B), added par. (1) and struck out former par. (1) which read as follows: “summarizing all of the reports that are required to be submitted to the Secretary under this subchapter;”.
 

@@ -1,6 +1,6 @@
 ### §603. Correction of membership roll
 
-Corrections in the roll prepared hereunder, by striking therefrom the name of any person erroneously placed on the roll or by adding to theroll the name of any person erroneously omitted therefrom, may be made at any time by the Yakima Tribal Council.
+Corrections in the roll prepared hereunder, by striking therefrom the name of any person erroneously placed on the roll or by adding to the roll the name of any person erroneously omitted therefrom, may be made at any time by the Yakima Tribal Council.
 
 (Aug. 9, 1946, ch. 933, §3, 60 Stat. 969.)
 

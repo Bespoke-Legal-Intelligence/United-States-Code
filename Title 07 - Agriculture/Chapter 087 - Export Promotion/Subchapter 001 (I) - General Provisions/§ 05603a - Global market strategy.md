@@ -1,0 +1,28 @@
+### §5603a. Global market strategy
+
+#### (a) In general
+
+Not later than 180 days after May 13, 2002, and biennially thereafter, the Secretary of Agriculture shall consult with the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the formulation and implementation of a global market strategy for the Department of Agriculture that, to the maximum extent practicable—
+
+&emsp;(1) identifies opportunities for the growth of agricultural exports to overseas markets;
+
+&emsp;(2) ensures that the resources, programs, and policies of the Department are coordinated with those of other agencies; and
+
+&emsp;(3) remove <sup>1</sup> barriers to agricultural trade in overseas markets.
+
+#### (b) Review
+
+The consultations under subsection (a) of this section shall include a review of—
+
+&emsp;(1) the strategic goals of the Department; and
+
+&emsp;(2) the progress of the Department in implementing the strategic goals through the global market strategy.
+
+(Pub. L. 107–171, title III, §3206, May 13, 2002, 116 Stat. 301.)
+
+#### Codification
+
+Section was enacted as part of the Farm Security and Rural Investment Act of 2002, and not as part of the Agricultural Trade Act of 1978 which comprises this chapter.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “removes”.</i>
+

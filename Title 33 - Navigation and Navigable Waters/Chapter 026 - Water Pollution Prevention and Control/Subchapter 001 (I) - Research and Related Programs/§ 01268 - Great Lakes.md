@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(E) “Research Office” means the Great Lakes Research Office established by subsection (d) of this section;
 
-&emsp;&emsp;(F) “area of concern” means a geographic area located within the Great Lakes, in which beneficial uses are impaired and which has been officially designated as such under Annex 2 of the Great Lakes Water Quality Agreement;
+&emsp;&emsp;(F) “area of concern” means a geographic area located within the Great Lakes, inwhich beneficial uses are impaired and which has been officially designated as such under Annex 2 of the Great Lakes Water Quality Agreement;
 
 &emsp;&emsp;(G) “Great Lakes States” means the States of Illinois, Indiana, Michigan, Minnesota, New York, Ohio, Pennsylvania, and Wisconsin;
 
@@ -80,9 +80,17 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;(B) For each area of concern for which Canada has agreed to draft a Remedial Action Plan, the Program Office shall, pursuant to subparagraph (c)(1)(C) of this section, work with Canada to assure the submission of such Remedial Action Plans to the International Joint Commission by June 30, 1991, and to finalize such Remedial Action Plans by January 1, 1993.
 
-&emsp;(C) For any area of concern designated as such subsequent to November 16, 1990, the Program Office shall (i) if the United States has agreed to draft the Remedial Action Plan, ensure that the Great Lakes State in which such area of concern is located submits such Plan to the Program Office within two years of the area's designation, submits it to the International Joint Commission no later than six months after submitting it to the Program Office, and includes such Plan in the State's water quality plan no later than one year after submitting it to the Commission; and (ii) if Canada has agreed to draft the Remedial Action Plan, work with Canada, pursuant to subparagraph (c)(1)(C) of this section, to ensure the submission of such Plan to the International Joint Commission within two yearsof the area's designation and the finalization of such Plan no later than eighteen months after submitting it to such Commission.
+&emsp;(C) For any area of concern designated as such subsequent to November 16, 1990, the Program Office shall (i) if the United States has agreed to draft the Remedial Action Plan, ensure that the Great Lakes State in which such area of concern is located submits such Plan to the Program Office within two years of the area's designation, submits it to the International Joint Commission no later than six months after submitting it to the Program Office, and includes such Plan in the State's water quality plan no later than one year after submitting it to the Commission; and (ii) if Canada has agreed to draft the Remedial Action Plan, work with Canada, pursuant to subparagraph (c)(1)(C) of this section, to ensure the submission of such Plan to the International Joint Commission within two years of the area's designation and the finalization of such Plan no later than eighteen months after submitting it to such Commission.
 
 &emsp;(D) The Program Office shall compile formal comments on individual Remedial Action Plans made by the International Joint Commission pursuant to section 4(d) of Annex 2 of the Great Lakes Water Quality Agreement and, upon request by a member of the public, shall make such comments available for inspection and copying. The Program Office shall also make available, upon request, formal comments made by the Environmental Protection Agency on individual Remedial Action Plans.
+
+&emsp;(E)
+
+Report.—Not later than 1 year after November 27, 2002, the Administrator shall submit to Congress a report on such actions, time periods, and resources as are necessary to fulfill the duties of the Agency relating to oversight of Remedial Action Plans under—
+
+&emsp;&emsp;(i) this paragraph; and
+
+&emsp;&emsp;(ii) the Great Lakes Water Quality Agreement.
 
 #### (4) Lakewide Management Plans
 
@@ -134,7 +142,21 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;The Administrator shall, in the Agency's annual budget submission to Congress, include a funding request for the Program Office as a separate budget line item.
 
-#### (10) Omitted
+#### (10) Comprehensive report
+
+&emsp;Within 90 days after the end of each fiscal year, the Administrator shall submit to Congress a comprehensive report which—
+
+&emsp;&emsp;(A) describes the achievements in the preceding fiscal year in implementing the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments, and shows by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amounts expended on Great Lakes water quality initiatives in such preceding fiscal year;
+
+&emsp;&emsp;(B) describes the progress made in such preceding fiscal year in implementing the system of surveillance of the water quality in the Great Lakes System, including the monitoring of groundwater and sediment, with particular reference to toxic pollutants;
+
+&emsp;&emsp;(C) describes the long-term prospects for improving the condition of the Great Lakes; and
+
+&emsp;&emsp;(D) provides a comprehensive assessment of the planned efforts to be pursued in the succeeding fiscal year for implementing the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,,<sup>1</sup> which assessment shall—
+
+&emsp;&emsp;&emsp;(i) show by categories (including judicial enforcement, research, State cooperative efforts, and general administration) the amount anticipated to be expended on Great Lakes water quality initiatives in the fiscal year to which the assessment relates; and
+
+&emsp;&emsp;&emsp;(ii) include a report of current programs administered by other Federal agencies which make available resources to the Great Lakes water quality management efforts.
 
 #### (11) Confined disposal facilities
 
@@ -153,6 +175,94 @@ The Great Lakes National Program Office (previously established by the Administr
 &emsp;(C) The plan shall identify the anticipated use and management of the site over the following twenty-year period including the expected termination of dumping at the site, the anticipated need for site management, including pollution control, following the termination of the use of the site.
 
 &emsp;(D) The plan shall identify a schedule for review and revision of the plan which shall not be less frequent than five years after adoption of the plan and every five years thereafter.
+
+#### (12) Remediation of sediment contamination in areas of concern
+
+#### (A) In general
+
+&emsp;&emsp;In accordance with this paragraph, the Administrator, acting through the Program Office, may carry out projects that meet the requirements of subparagraph (B).
+
+#### (B) Eligible projects
+
+&emsp;&emsp;A project meets the requirements of this subparagraph if the project is to be carried out in an area of concern located wholly or partially in the United States and the project—
+
+&emsp;&emsp;&emsp;(i) monitors or evaluates contaminated sediment;
+
+&emsp;&emsp;&emsp;(ii) subject to subparagraph (D), implements a plan to remediate contaminated sediment; or
+
+&emsp;&emsp;&emsp;(iii) prevents further or renewed contamination of sediment.
+
+#### (C) Priority
+
+&emsp;&emsp;In selecting projects to carry out under this paragraph, the Administrator shall give priority to a project that—
+
+&emsp;&emsp;&emsp;(i) constitutes remedial action for contaminated sediment;
+
+&emsp;&emsp;&emsp;(ii)(I) has been identified in a Remedial Action Plan submitted under paragraph (3); and
+
+&emsp;&emsp;&emsp;(II) is ready to be implemented;
+
+&emsp;&emsp;&emsp;(iii) will use an innovative approach, technology, or technique that may provide greater environmental benefits, or equivalent environmental benefits at a reduced cost; or
+
+&emsp;&emsp;&emsp;(iv) includes remediation to be commenced not later than 1 year after the date of receipt of funds for the project.
+
+#### (D) Limitation
+
+&emsp;&emsp;The Administrator may not carry out a project under this paragraph for remediation of contaminated sediments located in an area of concern—
+
+&emsp;&emsp;&emsp;(i) if an evaluation of remedial alternatives for the area of concern has not been conducted, including a review of the short-term and long-term effects of the alternatives on human health and the environment; or
+
+&emsp;&emsp;&emsp;(ii) if the Administrator determines that the area of concern is likely to suffer significant further or renewed contamination from existing sources of pollutants causing sediment contamination following completion of the project.
+
+#### (E) Non-Federal share
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The non-Federal share of the cost of a project carried out under this paragraph shall be at least 35 percent.
+
+#### (ii) In-kind contributions
+
+&emsp;&emsp;&emsp;The non-Federal share of the cost of a project carried out under this paragraph may include the value of in-kind services contributed by a non-Federal sponsor.
+
+#### (iii) Non-Federal share
+
+&emsp;&emsp;&emsp;The non-Federal share of the cost of a project carried out under this paragraph—
+
+&emsp;&emsp;&emsp;&emsp;(I) may include monies paid pursuant to, or the value of any in-kind service performed under, an administrative order on consent or judicial consent decree; but
+
+&emsp;&emsp;&emsp;&emsp;(II) may not include any funds paid pursuant to, or the value of any in-kind service performed under, a unilateral administrative order or court order.
+
+#### (iv) Operation and maintenance
+
+&emsp;&emsp;&emsp;The non-Federal share of the cost of the operation and maintenance of a project carried out under this paragraph shall be 100 percent.
+
+#### (F) Maintenance of effort
+
+&emsp;&emsp;The Administrator may not carry out a project under this paragraph unless the non-Federal sponsor enters into such agreements with the Administrator as the Administrator may require to ensure that the non-Federal sponsor will maintain its aggregate expenditures from all other sources for remediation programs in the area of concern in which the project is located at or above the average level of such expenditures in the 2 fiscal years preceding the date on which the project is initiated.
+
+#### (G) Coordination
+
+&emsp;&emsp;In carrying out projects under this paragraph, the Administrator shall coordinate with the Secretary of the Army, and with the Governors of States in which the projects are located, to ensure that Federal and State assistance for remediation in areas of concern is used as efficiently as practicable.
+
+#### (H) Authorization of appropriations
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;In addition to other amounts authorized under this section, there is authorized to be appropriated to carry out this paragraph $50,000,000 for each of fiscal years 2004 through 2008.
+
+#### (ii) Availability
+
+&emsp;&emsp;&emsp;Funds made available under clause (i) shall remain available until expended.
+
+#### (13) Public information program
+
+#### (A) In general
+
+&emsp;&emsp;The Administrator, acting through the Program Office and in coordination with States, Indian tribes, local governments, and other entities, may carry out a public information program to provide information relating to the remediation of contaminated sediment to the public in areas of concern that are located wholly or partially in the United States.
+
+#### (B) Authorization of appropriations
+
+&emsp;&emsp;There is authorized to be appropriated to carry out this paragraph $1,000,000 for each of fiscal years 2004 through 2008.
 
 #### (d) Great Lakes research
 
@@ -194,7 +304,7 @@ The Great Lakes National Program Office (previously established by the Administr
 
 &emsp;Each plan prepared under paragraph (1) shall—
 
-&emsp;&emsp;(A) identify all proposed research dedicated to activities conducted under the Great Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>3</sup>
+&emsp;&emsp;(A) identify all proposed research dedicated to activities conducted under theGreat Lakes Water Quality Agreement of 1978, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,; <sup>3</sup>
 
 &emsp;&emsp;(B) include the Agency's assessment of priorities for research needed to fulfill the terms of such Agreement; and
 
@@ -212,27 +322,43 @@ The head of each department, agency, or other instrumentality of the Federal Gov
 
 #### (g) Relationship to existing Federal and State laws and international treaties
 
-Nothing in this section shall be construed to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any State government, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body createdby treaty with authority relating to the Great Lakes.
+Nothing in this section shall be construed—
+
+&emsp;(1) to affect the jurisdiction, powers, or prerogatives of any department, agency, or officer of the Federal Government or of any State government, or of any tribe, nor any powers, jurisdiction, or prerogatives of any international body created by treaty with authority relating to the Great Lakes; or
+
+&emsp;(2) to affect any other Federal or State authority that is being used or may be used to facilitate the cleanup and protection of the Great Lakes.
 
 #### (h) Authorizations of Great Lakes appropriations
 
-There are authorized to be appropriated to the Administrator to carry out this section not to exceed $11,000,000 per fiscal year for the fiscal years 1987, 1988, 1989, and 1990, and $25,000,000 for fiscal year 1991. Of the amounts appropriated each fiscal year—
+There are authorized to be appropriated to the Administrator to carry out this section not to exceed—
 
-&emsp;(1) 40 percent shall be used by the Great Lakes National Program Office on demonstration projects on the feasibility of controlling and removing toxic pollutants;
+&emsp;(1) $11,000,000 per fiscal year for the fiscal years 1987, 1988, 1989, and 1990, and $25,000,000 for fiscal year 1991;
 
-&emsp;(2) 7 percent shall be used by the Great Lakes National Program Office for the program of nutrient monitoring; and
+&emsp;(2) such sums as are necessary for each of fiscal years 1992 through 2003; and
 
-&emsp;(3) 30 percent or $3,300,000, whichever is the lesser, shall be transferred to the National Oceanic and Atmospheric Administration for use by the Great Lakes Research Office.
+&emsp;(3) $25,000,000 for each of fiscal years 2004 through 2008.
 
-(June 30, 1948, ch. 758, title I, §118, as added Pub. L. 100–4, title I, §104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, §1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§101–106, Nov. 16, 1990, 104 Stat. 3000–3004.)
+(June 30, 1948, ch. 758, title I, §118, as added Pub. L. 100–4, title I, §104, Feb. 4, 1987, 101 Stat. 11; amended Pub. L. 100–688, title I, §1008, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 101–596, title I, §§101–106, Nov. 16, 1990, 104 Stat. 3000–3004; Pub. L. 107–303, title I, §§102–105, Nov. 27, 2002, 116 Stat. 2355–2358.)
 
 #### Codification
 
 November 16, 1990, referred to in subsec. (c)(3)(C), (7)(C), was in the original “the enactment of this Act”, and “the date of the enactment of this title” which were translated as meaning the date of enactment of Pub. L. 101–596, title I of which enacted subsec. (c)(3), (7)(C), to reflect the probable intent of Congress.
 
-Subsec. (c)(10) of this section, which required the Administrator to submit a comprehensive annual report to Congress on implementation of the Great Lakes Water Quality Agreement of 1978 and certain related matters, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 163 of House Document No. 103–7.
-
 #### Amendments
+
+2002—Subsec. (c)(3)(E). Pub. L. 107–303, §102, added subpar. (E).
+
+Subsec. (c)(12), (13). Pub. L. 107–303, §103, added pars. (12) and (13).
+
+Subsec. (g). Pub. L. 107–303, §104, substituted “construed—” for “construed to affect”, inserted “(1) to affect” before “the jurisdiction”, substituted “Lakes; or” for “Lakes.”, and added par. (2).
+
+Subsec. (h). Pub. L. 107–303, §105, substituted “not to exceed—” for “not to exceed $11,000,000”, inserted “(1) $11,000,000” before “per fiscal year for”, substituted “1991;” for “1991.”, added pars. (2) and (3), and struck out former last sentence which read as follows: “Of the amounts appropriated each fiscal year—
+
+&emsp;“(1) 40 percent shall be used by the Great Lakes National Program Office on demonstration projects on the feasibility of controlling and removing toxic pollutants;
+
+&emsp;“(2) 7 percent shall be used by the Great Lakes National Program Office for the program of nutrient monitoring; and
+
+&emsp;“(3) 30 percent or $3,300,000, whichever is the lesser, shall be transferred to the National Oceanic and Atmospheric Administration for use by the Great Lakes Research Office.”
 
 1990—Subsec. (a)(3)(F) to (J). Pub. L. 101–596, §103, added subpars. (F) to (J).
 
@@ -243,6 +369,10 @@ Subsec. (e)(3). Pub. L. 101–596, §106, added par. (3).
 Subsec. (h). Pub. L. 101–596, §105, substituted “and 1990, and $25,000,000 for fiscal year 1991” for “1990, and 1991” in introductory provisions and inserted “or $3,300,000, whichever is the lesser,” after “30 percent” in par. (3).
 
 1988—Subsecs. (a)(1)(B), (2), (c)(1)(A), (6)(A), (D), (e)(2)(A), (f). Pub. L. 100–688 inserted “, as amended by the Water Quality Agreement of 1987 and any other agreements and amendments,” after “the Great Lakes Water Quality Agreement of 1978”.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Great Lakes Remedial Action Plans and Sediment Remediation
 

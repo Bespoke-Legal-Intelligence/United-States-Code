@@ -4,7 +4,7 @@
 
 (1) The Secretary of State shall develop and implement (in consultation with the heads of other Federal agencies having personnel or missions abroad where appropriate and within the scope of the resources made available) policies and programs, including funding levels and standards, to provide for the security of United States Government operations of a diplomatic nature and foreign government operations of a diplomatic nature in the United States. Such policies and programs shall include—
 
-&emsp;(A) protection of all United States Government personnel on official duty abroad (other than those personnel under the command of a United States area military commander) and their accompanying dependents;
+&emsp;(A) protection of all United States Government personnel on official duty abroad (other than Voice of America correspondents on official assignment and those personnel under the command of a United States area military commander) and their accompanying dependents;
 
 &emsp;(B) establishment and operation of security functions at all United States Government missions abroad (other than facilities or installations subject to the control of a United States area military commander);
 
@@ -88,7 +88,7 @@ The Secretary of State shall—
 
 As used in this subchapter and subchapter III of this chapter, the term “Federal agency” includes any department or agency of the United States Government.
 
-(Pub. L. 99–399, title I, §103, Aug. 27, 1986, 100 Stat. 856; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 100–461, title II, §201, Oct. 1, 1988, 102 Stat. 2268–10; Pub. L. 101–246, title I, §115(b), Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §162(g)(2), Apr. 30, 1994, 108 Stat. 406; Pub. L. 103–415, §1(f)(4)(A)(i), Oct. 25, 1994, 108 Stat. 4300.)
+(Pub. L. 99–399, title I, §103, Aug. 27, 1986, 100 Stat. 856; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–141; Pub. L. 100–461, title II, §201, Oct. 1, 1988, 102 Stat. 2268–10; Pub. L. 101–246, title I, §115(b), Feb. 16, 1990, 104 Stat. 22; Pub. L. 103–236, title I, §162(g)(2), Apr. 30, 1994, 108 Stat. 406; Pub. L. 103–415, §1(f)(4)(A)(i), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 107–228, div. A, title V, §505(a), Sept. 30, 2002, 116 Stat. 1393.)
 
 #### References in Text
 
@@ -97,6 +97,8 @@ Section 2708 of this title, referred to in subsec. (a)(2)(B)(xi), was amended ge
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(G), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended. Chapter 8 of part II of the Act is classified generally to part VIII (§2349aa et seq.) of subchapter II of chapter 32 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (a)(1)(A). Pub. L. 107–228 inserted “Voice of America correspondents on official assignment and” after “abroad (other than”.
 
 1994—Subsec. (a). Pub. L. 103–415 substituted “operation” for “operations” in par. (2)(B)(i).
 

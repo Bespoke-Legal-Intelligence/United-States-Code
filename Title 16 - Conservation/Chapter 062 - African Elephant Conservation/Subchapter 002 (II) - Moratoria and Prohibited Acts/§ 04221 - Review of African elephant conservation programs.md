@@ -26,7 +26,7 @@ Within one month after October 7, 1988, the Secretary shall issue a call for inf
 
 #### (2) Delay in issuing determination
 
-&emsp;If the Secretary finds within one year after October 7, 1988, that there is insufficient information upon which to make the determination under paragraph (1), the Secretary may delay issuing the determination until no later than December 31, 1989. The Secretary shall issue and publish in the Federal Register at the time of the finding a statement explaining the reasons for any such delay.
+&emsp;If the Secretary finds within one year after October 7, 1988, that there is insufficient information upon which to make the determination under paragraph (1), the Secretary may delay issuing the determination until no later thanDecember 31, 1989. The Secretary shall issue and publish in the Federal Register at the time of the finding a statement explaining the reasons for any such delay.
 
 (Pub. L. 100–478, title II, §2201, Oct. 7, 1988, 102 Stat. 2318.)
 

@@ -8,7 +8,7 @@ Congress finds that—
 
 &emsp;(3) the United States Government has a continuing but limited interest in the operation of the 2 federally owned airports, which serve the travel and cargo needs of the entire Metropolitan Washington region as well as the District of Columbia as the national seat of government;
 
-&emsp;(4) operation of the Metropolitan Washington Airports by an independent local authority will facilitate timely improvements at both airports to meet the growing demand of interstate air transportation occasioned by the Airline Deregulation Act of 1978 (Public Law 95–504; 92 Stat. 1705);
+&emsp;(4) operation of the Metropolitan Washington Airports by an independent local authority will facilitate timely improvements at both airports to meet the growing demand ofinterstate air transportation occasioned by the Airline Deregulation Act of 1978 (Public Law 95–504; 92 Stat. 1705);
 
 &emsp;(5) all other major air carrier airports in the United States are operated by public entities at the State, regional, or local level;
 

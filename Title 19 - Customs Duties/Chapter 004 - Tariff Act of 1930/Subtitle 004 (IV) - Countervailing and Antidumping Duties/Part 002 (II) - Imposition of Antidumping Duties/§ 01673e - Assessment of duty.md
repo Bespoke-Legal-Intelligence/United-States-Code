@@ -18,7 +18,7 @@ Within 7 days after being notified by the Commission of an affirmative determina
 
 #### (1) General rule
 
-&emsp;If the Commission, in its final determination under section 1673d(b) of this title, finds material injury or threat of material injury which, but for the suspension of liquidation under section 1673b(d)(2) of this title would have led to a finding of material injury, then entries of the subject merchandise, the liquidation of which has been suspended under section 1673b(d)(2) of this title, shall be subject to the imposition of antidumping duties under section 1673 of this title.
+&emsp;If the Commission, in its final determination under section 1673d(b) of this title, finds material injury or threat of material injury which, but for the suspension of liquidation under section 1673b(d)(2) of this title would have led to a finding of material injury, then entries of the subject merchandise, the liquidation of which has been suspended under section 1673b(d)(2) of this title, shall be subject to theimposition of antidumping duties under section 1673 of this title.
 
 #### (2) Special rule
 

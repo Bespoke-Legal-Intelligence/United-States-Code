@@ -22,5 +22,5 @@ The language is parallel to that found in title 34, U.S.C., 1946 ed., §354, pro
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 1074h; title 18 section 704.
+This section is referred to in section 505 of this title; title 10 section 1074h; title 18 section 704.
 

@@ -12,9 +12,9 @@ Changes in phraseology were made.
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-<b>1970</b>—Pub. L. 91–271 inserted “or his designee” after “Secretary of the Treasury,” and substituted “to the appropriate customs officer” for “the collector”.
+1970—Pub. L. 91–271 inserted “or his designee” after “Secretary of the Treasury,” and substituted “to the appropriate customs officer” for “the collector”.
 
 #### Effective Date of 1980 Amendment
 

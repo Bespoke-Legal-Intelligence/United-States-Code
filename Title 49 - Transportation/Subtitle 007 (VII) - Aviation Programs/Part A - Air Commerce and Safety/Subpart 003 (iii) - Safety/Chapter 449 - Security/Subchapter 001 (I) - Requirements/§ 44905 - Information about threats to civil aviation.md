@@ -10,7 +10,7 @@ Flight Cancellation.—If a decision is made that a particular threat cannot be 
 
 (c)
 
-Guidelines on Public Notice.—(1) The President shall develop guidelines for ensuring that public notice is provided in appropriatecases about threats to civil aviation. The guidelines shall identify officials responsible for—
+Guidelines on Public Notice.—(1) The President shall develop guidelines for ensuring that public notice is provided in appropriate cases about threats to civil aviation. The guidelines shall identify officials responsible for—
 
 &emsp;(A) deciding, on a case-by-case basis, if public notice of a threat is in the best interest of the United States and the traveling public;
 
@@ -112,7 +112,11 @@ In subsection (f), the words “departments, agencies, and instrumentalities of 
 
 Subsecs. (c)(2)(E), (G), (d), (f). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator”.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40119 of this title.
+This section is referred to in section 106 of this title.
 

@@ -2,7 +2,7 @@
 
 #### (a) Reasonable use and enjoyment of land within boundaries of National Forest System
 
-Notwithstanding any other provision of law, and subject to such terms and conditions as the Secretary of Agriculture may prescribe, the Secretary shall provide such access to nonfederally owned land within the boundaries of the National Forest System as the Secretary deems adequate to secure to the owner the reasonable use and enjoyment thereof: <i>Provided</i>, That such owner comply with rules and regulations applicable to ingress and egress to or from the National Forest System.
+Notwithstanding any other provision of law, and subject to such terms and conditions as the Secretary of Agriculture may prescribe, the Secretary shall provide such access to nonfederally owned land within the boundaries of the National Forest System as the Secretary deems adequate to secure to the owner the reasonableuse and enjoyment thereof: <i>Provided</i>, That such owner comply with rules and regulations applicable to ingress and egress to or from the National Forest System.
 
 #### (b) Reasonable use and enjoyment of land surrounded by public lands managed by Secretary
 

@@ -46,7 +46,7 @@
 
 (c) Each prevailing rate employee employed within any of the several States or the District of Columbia shall be a United States citizen or a bona fide resident of one of the several States or the District of Columbia unless the Secretary of Labor certifies that no United States citizen or bona fide resident of one of the several States or the District of Columbia is available to fill the particular position.
 
-(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 564; amended Pub. L. 96–70, title III, §3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(d), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–468, title VI, §615(b)(1)(D), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(b), Nov. 8, 1984, 98 Stat. 3303; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(h), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(3)(A), Sept. 23, 1996, 110 Stat. 2687, 2868.)
+(Added Pub. L. 92–392, §1(a), Aug. 19, 1972, 86 Stat. 564; amended Pub. L. 96–70, title III,§3302(e)(1), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–191, §8(d), Feb. 15, 1980, 94 Stat. 33; Pub. L. 97–468, title VI, §615(b)(1)(D), Jan. 14, 1983, 96 Stat. 2578; Pub. L. 98–618, title V, §502(b), Nov. 8, 1984, 98 Stat. 3303; Pub. L. 102–54, §13(b)(1), June 13, 1991, 105 Stat. 274; Pub. L. 103–359, title V, §501(h), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a)(1), div. C, title XXXV, §3548(a)(3)(A), Sept. 23, 1996, 110 Stat. 2687, 2868.)
 
 #### Prior Provisions
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 96–191 effective Oct. 1, 1980, see section 10(a) of Pub. 
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date
 

@@ -20,7 +20,7 @@
 
 Pub. L. 102–54, §14(e)(1), June 13, 1991, 105 Stat. 287, inserted “United States” before “Court of Veterans Appeals” in item for chapter 72.
 
-Pub. L. 102–40, title IV, §§402(c)(2), 403(e)(1), (f)(2), May 7, 1991, 105 Stat. 239–241, substituted “BOARDS, ADMINISTRATIONS, AND SERVICES” for “BOARDS AND DEPARTMENTS” in part heading, renumbered section numbers by substituting “7101” for “4001” in item for chapter 71, “7251” for “4051” in item for chapter 72, and “7601” for “4301” in item for chapter 76, substituted “Veterans Health Administration—Organization and Functions” for “Department of Medicine and Surgery” and “7301” for “4101” in item for chapter 73, added item for chapter 74, struck out item for chapter 75 “Veterans’ Canteen Service”, and added item for chapter 78.
+Pub. L. 102–40, title IV, §§402(c)(2), 403(e)(1), (f)(2), May 7, 1991, 105 Stat. 239–241, substituted “BOARDS, ADMINISTRATIONS, AND SERVICES” for “BOARDS AND DEPARTMENTS” in part heading, renumbered section numbers by substituting “7101” for “4001” initem for chapter 71, “7251” for “4051” in item for chapter 72, and “7601” for “4301” in item for chapter 76, substituted “Veterans Health Administration—Organization and Functions” for “Department of Medicine and Surgery” and “7301” for “4101” in item for chapter 73, added item for chapter 74, struck out item for chapter 75 “Veterans’ Canteen Service”, and added item for chapter 78.
 
 1988—Pub. L. 100–687, div. A, title III, §301(b), Nov. 18, 1988, 102 Stat. 4121, added item for chapter 72.
 

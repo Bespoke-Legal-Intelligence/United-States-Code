@@ -38,7 +38,7 @@
 
 #### (E) Agency for early intervention services
 
-&emsp;&emsp;At least one member shall be from each of the State agencies involved in the provisionof, or payment for, early intervention services to infants and toddlers with disabilities and their families and shall have sufficient authority to engage in policy planning and implementation on behalf of such agencies.
+&emsp;&emsp;At least one member shall be from each of the State agencies involved in the provision of, or payment for, early intervention services to infants and toddlers with disabilities and their families and shall have sufficient authority to engage in policy planning and implementation on behalf of such agencies.
 
 #### (F) Agency for preschool services
 
@@ -74,7 +74,7 @@ Subject to the approval of the Governor, the council may prepare and approve a b
 
 &emsp;The council shall—
 
-&emsp;&emsp;(A) advise and assist the lead agency designated or established under section 1435(a)(10) of this title in the performance of the responsibilities set forth in such section, particularly the identification of the sources of fiscal and other support for services for early intervention programs, assignment of financial responsibility to the appropriate agency, and the promotion of the interagency agreements;
+&emsp;&emsp;(A) advise and assist the lead agency designated or established under section1435(a)(10) of this title in the performance of the responsibilities set forth in such section, particularly the identification of the sources of fiscal and other support for services for early intervention programs, assignment of financial responsibility to the appropriate agency, and the promotion of the interagency agreements;
 
 &emsp;&emsp;(B) advise and assist the lead agency in the preparation of applications and amendments thereto;
 

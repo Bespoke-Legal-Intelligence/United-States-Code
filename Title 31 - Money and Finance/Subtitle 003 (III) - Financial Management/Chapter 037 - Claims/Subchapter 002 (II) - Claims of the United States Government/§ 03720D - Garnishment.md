@@ -44,7 +44,7 @@
 
 &emsp;(B) shall be liable for any amount that the employer fails to withhold from wages due an employee following receipt by such employer of notice of the withholding order, plus attorneys’ fees, costs, and, in the court's discretion, punitive damages.
 
-(2)(A) The head of an executive, judicial, or legislative agency may sue an employer in aState or Federal court of competent jurisdiction to recover amounts for which the employer is liable under paragraph (1)(B).
+(2)(A) The head of an executive, judicial, or legislative agency may sue an employer in a State or Federal court of competent jurisdiction to recover amounts for which the employer is liable under paragraph (1)(B).
 
 (B) A suit under this paragraph may not be filed before the termination of the collection action, unless earlier filing is necessary to avoid expiration of any applicable statute of limitations period.
 

@@ -16,7 +16,3 @@ The remaining provisions of said sections 98 and 349 of title 18, U.S.C., 1940 e
 
 1976—Pub. L. 94–467 inserted “except in sections 112, 878, 970, 1116, and 1201” after “title”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
-

@@ -24,7 +24,7 @@ For purposes of any action brought by the Commission under paragraph (1) or (3) 
 
 The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 206B of the Gramm-Leach-Bliley Act) shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
 
-(June 6, 1934, ch. 404, title I, §20, 48 Stat. 899; May 27, 1936, ch. 462, §6, 49 Stat. 1379; Pub. L.88–467, §9, Aug. 20, 1964, 78 Stat. 579; Pub. L. 98–376, §5, Aug. 10, 1984, 98 Stat. 1265; Pub. L. 104–67, title I, §104, Dec. 22, 1995, 109 Stat. 757; Pub. L. 105–353, title III, §301(b)(12), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(3), title III, §303(i), (j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456.)
+(June 6, 1934, ch. 404, title I, §20, 48 Stat. 899; May 27, 1936, ch. 462, §6, 49 Stat. 1379; Pub. L. 88–467, §9, Aug. 20, 1964, 78 Stat. 579; Pub. L. 98–376, §5, Aug. 10, 1984, 98 Stat. 1265; Pub. L. 104–67, title I, §104, Dec. 22, 1995, 109 Stat. 757; Pub. L. 105–353, title III, §301(b)(12), Nov. 3, 1998, 112 Stat. 3236; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(3), title III, §303(i), (j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456.)
 
 #### References in Text
 

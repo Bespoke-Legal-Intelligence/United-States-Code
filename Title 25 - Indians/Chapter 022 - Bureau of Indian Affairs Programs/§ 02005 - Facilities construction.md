@@ -76,7 +76,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall immediately begin to bring all schools, dormitories, and other Indian education-related facilities operated bythe Bureau or under contract or grant with the Bureau, into compliance with—
+&emsp;The Secretary shall immediately begin to bring all schools, dormitories, and other Indian education-related facilities operated by the Bureau or under contract or grant with the Bureau, into compliance with—
 
 &emsp;&emsp;(A) all applicable tribal, Federal, or State health and safety standards, whichever provides greater protection (except that the tribal standards to be applied shall be no greater than any otherwise applicable Federal or State standards);
 
@@ -222,7 +222,7 @@ Nothing in this section shall diminish any Federal funding due to the receipt by
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(5)(A)(i)(V), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended,known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
+This Act, referred to in subsec. (a)(5)(A)(i)(V), means Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2143, as amended, known as the Education Amendments of 1978. For complete classification of this Act to the Code, see Short Title of 1978 Amendment note set out under section 6301 of Title 20, Education, and Tables.
 
 The Americans with Disabilities Act of 1990, referred to in subsec. (b)(1)(C), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 

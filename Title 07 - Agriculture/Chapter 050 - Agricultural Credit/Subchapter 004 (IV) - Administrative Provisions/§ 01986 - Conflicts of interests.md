@@ -6,7 +6,7 @@ No officer, attorney, or other employee of the Secretary shall, directly or indi
 
 #### (b) Acquisition of interest in land by certain officers or employees of Department of Agriculture prohibited; 3-year period
 
-Except as otherwise provided in this subsection, no officer or employee of the Department of Agriculture who acts on or reviews an application made by any person under this chapter for a loan to purchase land may acquire, directly or indirectly, any interest in such land for a period of three years after the date on which such action is taken or such review is made. This prohibition shall not apply to a former member of a county committee provided for in section 1982 <sup>1</sup> of this title upon a determination by the Secretary, prior to the acquisition of such interest, that such former member acted in good faith when acting on or reviewing such application.
+Except as otherwise provided in this subsection, no officer or employee of the Department of Agriculture who acts on or reviews an application made by any person under this chapter for a loan to purchase land may acquire, directly or indirectly, any interest in such land for a period of three years after the date on which such action is taken or such review is made. This prohibition shall not apply to a former member of a county committee upon a determination by the Secretary, prior to the acquisition of such interest, that such former member acted in good faith when acting on or reviewing such application.
 
 #### (c) Certifications on loans to family members prohibited
 
@@ -16,17 +16,15 @@ No member of a county committee shall knowingly make or join in making any certi
 
 Any persons violating any provision of this section shall, upon conviction thereof, be punished by a fine of not more than $2,000 or imprisonment for not more than two years, or both.
 
-(Pub. L. 87–128, title III, §336, Aug. 8, 1961, 75 Stat. 316; Pub. L. 98–258, title VI, §606, Apr. 10, 1984, 98 Stat. 140.)
+(Pub. L. 87–128, title III, §336, Aug. 8, 1961, 75 Stat. 316; Pub. L. 98–258, title VI, §606, Apr. 10, 1984, 98 Stat. 140; Pub. L. 107–171, title V, §5501(b), May 13, 2002, 116 Stat. 351.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (a) and (b), see note set out under section 1921 of this title.
 
-Section 1982 of this title, referred to in subsec. (b), was repealed by Pub. L. 103–354, title II, §227(b)(1), Oct. 13, 1994, 108 Stat. 3218.
-
 #### Amendments
 
-1984—Pub. L. 98–258 designated first, second, and third sentences of existing provisions as subsecs. (a), (c), and (d), respectively, and added subsec. (b).
+2002—Subsec. (b). Pub. L. 107–171 struck out “provided for in section 1982 of this title” after “former member of a county committee”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+1984—Pub. L. 98–258 designated first, second, and third sentences of existing provisions as subsecs. (a), (c), and (d), respectively, and added subsec. (b).
 

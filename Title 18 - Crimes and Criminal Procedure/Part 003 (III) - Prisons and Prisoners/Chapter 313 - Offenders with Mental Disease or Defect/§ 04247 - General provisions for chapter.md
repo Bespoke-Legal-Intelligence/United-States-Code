@@ -110,6 +110,10 @@ Subsec. (e)(1)(B). Pub. L. 100–690, §7044, inserted at end “A copy of each 
 
 Amendment by Pub. L. 105–33 effective Oct. 1, 1997, except as otherwise provided in title XI of Pub. L. 105–33, see section 11721 of Pub. L. 105–33, set out as a note under section 4246 of this title.
 
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4241, 4242, 4243, 4244, 4245, 4246 of this title; title 10 section 876b.

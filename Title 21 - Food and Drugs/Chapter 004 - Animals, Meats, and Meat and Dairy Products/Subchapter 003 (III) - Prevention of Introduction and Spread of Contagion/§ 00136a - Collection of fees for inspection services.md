@@ -54,7 +54,9 @@
 
 &emsp;The Secretary may prescribe and collect fees to reimburse the Secretary for the cost of carrying out the provisions of the Federal Animal Quarantine Laws that relate to the importation, entry, and exportation of animals, articles, or means of conveyance.
 
-#### (2) Omitted
+#### (2) Veterinary diagnostics
+
+&emsp;The Secretary may prescribe and collect fees to recover the costs of carrying out the provisions of the Animal Health Protection Act \[7 U.S.C. 8301 et seq.\] that relate to veterinary diagnostics.
 
 #### (3) Fees
 
@@ -98,39 +100,17 @@ An action may be brought for the recovery of fees, late payment penalties, and a
 
 &emsp;For purposes of this section, the term “animal quarantine laws” means—
 
-&emsp;&emsp;(A) section 306 of the Tariff Act of 1930 (19 U.S.C. 1306);
+&emsp;&emsp;(A) section 306 of the Tariff Act of 1930 <sup>3</sup> (19 U.S.C. 1306);
 
-&emsp;&emsp;(B) sections 6 through 10 of the Act of August 30, 1890 (26 Stat. 416, chapter 839; 21 U.S.C. 101–105);
+&emsp;&emsp;(B) section 9 of the Act of August 30, 1890 (21 U.S.C. 101);
 
-&emsp;&emsp;(C) section 2 of the Act of February 2, 1903 (32 Stat. 792, chapter 349; 21 U.S.C. 111);
+&emsp;&emsp;(C) the Animal Health Protection Act \[7 U.S.C. 8301 et seq.\]; or
 
-&emsp;&emsp;(D) the Act of May 29, 1884 (23 Stat. 32, chapter 60; 21 U.S.C. 112 to 114a–1, 115, 117–119, and 130) (commonly known as the “Animal Industry Act”);
-
-&emsp;&emsp;(E) the Act of February 28, 1947 (61 Stat. 7, chapter 8; 21 U.S.C. 114b, 114c, \[114d,\] and 114d–1);
-
-&emsp;&emsp;(F) the Act of June 16, 1948 (62 Stat. 458, chapter 477; 21 U.S.C. 114e and 114f);
-
-&emsp;&emsp;(G) Public Law 87–209 (21 U.S.C. 114g and 114h);
-
-&emsp;&emsp;(H) the Act of May 31, 1920 (41 Stat. 699, chapter 217; 21 U.S.C. 116);
-
-&emsp;&emsp;(I) the Act of February 2, 1903 (32 Stat. 791, chapter 349; 21 U.S.C. 112 and 120–122) (commonly known as the “Cattle Contagious Diseases Act of 1903”);
-
-&emsp;&emsp;(J) the Act of March 3, 1905 (33 Stat. 1264, chapter 1496; 21 U.S.C. 123–127) (commonly known as the “Cattle Contagious Diseases Act of 1905”);
-
-&emsp;&emsp;(K) the matter under the heading “Bureau of Animal Industry” of the Act of June 30, 1914 (38 Stat. 419, chapter 131; 21 U.S.C. 128);
-
-&emsp;&emsp;(L) section 101 of Public Law 92–73 (21 U.S.C. 129);
-
-&emsp;&emsp;(M) the matter under the heading “Miscellaneous” of the Act of May 26, 1910 (36 Stat. 440, chapter 256; 21 U.S.C. 131);
-
-&emsp;&emsp;(N) sections 1 through 6 and 11 through 13 of Public Law 87–518 (21 U.S.C. 134–134h); or
-
-&emsp;&emsp;(O) any other Act administered by the Secretary relating to plant or animal diseases or pests, other than the first section of Public Law 91–239 (21 U.S.C. 135).
+&emsp;&emsp;(D) any other Act administered by the Secretary relating to plant or animal diseases or pests.
 
 #### (2) Customs territory
 
-&emsp;For the purposes of subsection (a) of this section, the term “customs territory of theUnited States” means the 50 States, the District of Columbia, and Puerto Rico.
+&emsp;For the purposes of subsection (a) of this section, the term “customs territory of the United States” means the 50 States, the District of Columbia, and Puerto Rico.
 
 #### (3) Person
 
@@ -144,17 +124,51 @@ An action may be brought for the recovery of fees, late payment penalties, and a
 
 &emsp;For the purposes of subsection (a) of this section, the term “vessel” does not include any ferry.
 
-(Pub. L. 101–624, title XXV, §2509, Nov. 28, 1990, 104 Stat. 4069; Pub. L. 101–508, title I, §1203, Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title X, §1015, Dec. 13, 1991, 105 Stat. 1902; Pub. L. 104–127, title IX, §917, Apr. 4, 1996, 110 Stat. 1187.)
+(Pub. L. 101–624, title XXV, §2509, Nov. 28, 1990, 104 Stat. 4069; Pub. L. 101–508, title I, §1203, Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 102–237, title X, §1015, Dec. 13, 1991, 105 Stat. 1902; Pub. L. 104–127, title IX, §917, Apr. 4, 1996, 110 Stat. 1187; Pub. L. 107–171, title X, §10418(b)(5), May 13, 2002, 116 Stat. 509.)
 
 #### References in Text
 
-Section 101 of Public Law 92–73, referred to in subsec. (f)(1)(L), is listed in a Similar Provisions note set out under section 129 of this title.
+The Animal Health Protection Act, referred to in subsecs. (c)(2), (f)(1)(C), is subtitle E (§§10401–10418) of title X of Pub. L. 107–171, May 13, 2002, 116 Stat. 494, which is classified principally to chapter 109 (§8301 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 8301 of Title 7 and Tables.
+
+Section 306 of the Tariff Act of 1930 (19 U.S.C. 1306), referred to in subsec. (f)(1)(A), was repealed by Pub. L. 107–171, title X, §10418(a)(5), May 13, 2002, 116 Stat. 507.
 
 #### Codification
 
-Section is comprised of section 2509 of Pub. L. 101–624. Subsecs. (b) and (c)(2) of section 2509 of Pub. L. 101–624 amended section 7759(f) of Title 7, Agriculture, and section 114a of this title, respectively.
+Section is comprised of section 2509 of Pub. L. 101–624. Subsec. (b) and another subsec. (c)(2) of section 2509 of Pub. L. 101–624 amended section 7759(f) of Title 7, Agriculture, and section 114a of this title, respectively.
 
 #### Amendments
+
+2002—Subsec. (c)(2). Pub. L. 107–171, §10418(b)(5)(A), added par. (2) relating to veterinary diagnostics.
+
+Subsec. (f)(1)(B) to (O). Pub. L. 107–171, §10418(b)(5)(B), added subpars. (B) to (D) and struck out former subpars. (B) to (O), which read as follows:
+
+“(B) sections 6 through 10 of the Act of August 30, 1890 (26 Stat. 416, chapter 839; 21 U.S.C. 101–105);
+
+“(C) section 2 of the Act of February 2, 1903 (32 Stat. 792, chapter 349; 21 U.S.C. 111);
+
+“(D) the Act of May 29, 1884 (23 Stat. 32, chapter 60; 21 U.S.C. 112 to 114a–1, 115, 117–119, and 130) (commonly known as the ‘Animal Industry Act’);
+
+“(E) the Act of February 28, 1947 (61 Stat. 7, chapter 8; 21 U.S.C. 114b, 114c, and 114d–1);
+
+“(F) the Act of June 16, 1948 (62 Stat. 458, chapter 477; 21 U.S.C. 114e and 114f);
+
+“(G) Public Law 87–209 (21 U.S.C. 114g and 114h);
+
+“(H) the Act of May 31, 1920 (41 Stat. 699, chapter 217; 21 U.S.C. 116);
+
+“(I) the Act of February 2, 1903 (32 Stat. 791, chapter 349; 21 U.S.C. 112 and 120–122) (commonly known as the ‘Cattle Contagious Diseases Act of 1903’);
+
+“(J) the Act of March 3, 1905 (33 Stat. 1264, chapter 1496; 21 U.S.C. 123–127) (commonly known as the ‘Cattle Contagious Diseases Act of 1905’);
+
+“(K) the matter under the heading ‘Bureau of Animal Industry’ of the Act of June 30, 1914 (38 Stat. 419, chapter 131; 21 U.S.C. 128);
+
+“(L) section 101 of Public Law 92–73 (21 U.S.C. 129);
+
+“(M) the matter under the heading ‘Miscellaneous’ of the Act of May 26, 1910 (36 Stat. 440, chapter 256; 21 U.S.C. 131);
+
+“(N) sections 1 through 6 and 11 through 13 of Public Law 87–518 (21 U.S.C. 134–134h); or
+
+“(O) any other Act administered by the Secretary relating to plant or animal diseases or pests, other than the first section of Public Law 91–239 (21 U.S.C. 135).”
 
 1996—Subsec. (a). Pub. L. 104–127 added subsec. (a) and struck out heading and text of former subsec. (a) which consisted of pars. (1) to (4) relating to quarantine, inspection, and transportation fees.
 
@@ -177,4 +191,8 @@ Amendment by Pub. L. 101–508 effective Nov. 29, 1990, see section 1301 of Pub.
 #### Report on Agricultural Quarantine Inspection Fund
 
 Pub. L. 104–66, title I, §1012(c), Dec. 21, 1995, 109 Stat. 712, provided that: “The Secretary of Agriculture shall not be required to submit a report to the appropriate committees of Congress on the status of the Agricultural Quarantine Inspection fund more frequently than annually.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 6 section 231; title 7 section 1961; title 16 section 1540.
 

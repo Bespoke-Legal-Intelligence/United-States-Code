@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-After an applicant is determined eligible for assistance under this chapter by the appropriate county committee established pursuant to section 1982 <sup>1</sup> of this title, the Secretary shall evaluate, in accordance with regulations issued by the Secretary, the farming plan and financial situation of each qualified farmer or rancher applicant.
+The Secretary shall evaluate, in accordance with regulations issued by the Secretary, the farming plan and financial situation of each qualified farmer or rancher applicant.
 
 #### (b) Determinations
 
@@ -26,7 +26,7 @@ The Secretary may contract with a third party (including those entities eligible
 
 #### (1) In general
 
-&emsp;Loan assessments conducted under this section shall include biannual review of direct loans, and periodic review (as determined necessary by the Secretary) of guaranteed loans, made under this chapter to assess the progress of a borrower in meeting the goals for the farm or ranch operation.
+&emsp;Loan assessments conducted under this section shall include annual review of direct loans, and periodic review (as determined necessary by the Secretary) of guaranteed loans, made under this chapter to assess the progress of a borrower in meeting the goals for the farm or ranch operation.
 
 #### (2) Contracts
 
@@ -40,17 +40,19 @@ The Secretary may contract with a third party (including those entities eligible
 
 The Secretary shall issue regulations providing guidelines for loan assessments conducted under this section.
 
-(Pub. L. 87–128, title III, §360, as added Pub. L. 101–624, title XVIII, §1819, Nov. 28, 1990, 104 Stat. 3830.)
+(Pub. L. 87–128, title III, §360, as added Pub. L. 101–624, title XVIII, §1819, Nov. 28, 1990, 104 Stat. 3830; amended Pub. L. 107–171, title V, §§5317, 5318, May 13, 2002, 116 Stat. 348.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (a), (b)(5), and (d)(1), (3), see note set out under section 1921 of this title.
 
-Section 1982 of this title, referred to in subsec. (a), was repealed by Pub. L. 103–354, title II, §227(b)(1), Oct. 13, 1994, 108 Stat. 3218.
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171, §5317, substituted “The Secretary” for “After an applicant is determined eligible for assistance under this chapter by the appropriate county committee established pursuant to section 1982 of this title, the Secretary”.
+
+Subsec. (d)(1). Pub. L. 107–171, §5318, substituted “annual review” for “biannual review”.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1935, 1949, 1983a of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

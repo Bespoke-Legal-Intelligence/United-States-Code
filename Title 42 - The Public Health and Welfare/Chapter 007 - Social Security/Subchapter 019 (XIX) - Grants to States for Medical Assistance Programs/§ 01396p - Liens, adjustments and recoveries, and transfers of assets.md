@@ -40,7 +40,7 @@
 
 &emsp;(C)(i) In the case of an individual who has received (or is entitled to receive) benefits under a long-term care insurance policy in connection with which assets or resources are disregarded in the manner described in clause (ii), except as provided in such clause, the State shall seek adjustment or recovery from the individual's estate on account of medical assistance paid on behalf of the individual for nursing facility and other long-term care services.
 
-&emsp;(ii) Clause (i) shall not apply in the case of an individual who received medical assistance under a State plan of a State which had aState plan amendment approved as of May 14, 1993, which provided for the disregard of any assets or resources—
+&emsp;(ii) Clause (i) shall not apply in the case of an individual who received medical assistance under a State plan of a State which had a State plan amendment approved as of May 14, 1993, which provided for the disregard of any assets or resources—
 
 &emsp;&emsp;(I) to the extent that payments are made under a long-term care insurance policy; or
 
@@ -150,11 +150,11 @@
 
 &emsp;(ii) The individual's spouse.
 
-&emsp;(iii) A person, including a court or administrative body, with legal authority to act inplace of or on behalf of the individual or the individual's spouse.
+&emsp;(iii) A person, including a court or administrative body, with legal authority to act in place of or on behalf of the individual or the individual's spouse.
 
 &emsp;(iv) A person, including any court or administrative body, acting at the direction or upon the request of the individual or the individual's spouse.
 
-(B) In the case of a trust the corpus of which includes assets of an individual (as determined under subparagraph (A)) and assets of any other person or persons, the provisions of this subsection shall apply to the portion of the trust attributable to the assets of the individual.
+(B) In the case of a trust the corpus of which includes assets of an individual (as determinedunder subparagraph (A)) and assets of any other person or persons, the provisions of this subsection shall apply to the portion of the trust attributable to the assets of the individual.
 
 (C) Subject to paragraph (4), this subsection shall apply without regard to—
 
@@ -220,7 +220,7 @@ In this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) by a person, including a court or administrative body, with legal authority to act in place of or on behalf of the individual or such individual's spouse, or
 
-&emsp;&emsp;(C) by any person, including any court or administrative body, acting at the direction or upon the request of the individual or such individual's spouse.
+&emsp;&emsp;(C) by any person, including any court or administrative body, acting at the directionor upon the request of the individual or such individual's spouse.
 
 &emsp;(2) The term “income” has the meaning given such term in section 1382a of this title.
 
@@ -336,7 +336,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) ofPub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+Amendment by Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 
 #### Effective Date of 1983 Amendment
 

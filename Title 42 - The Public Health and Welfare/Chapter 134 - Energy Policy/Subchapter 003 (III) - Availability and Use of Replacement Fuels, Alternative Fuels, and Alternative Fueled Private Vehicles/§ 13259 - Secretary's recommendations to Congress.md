@@ -10,7 +10,7 @@ If the Secretary determines, under section 13257(f) of this title, that a fleet 
 
 &emsp;(3) motor vehicle drivers to use replacement fuels,
 
-> to the extent necessary to achieve such goals of replacement fuel use and to ensure that theavailability of alternative fuels and of alternative fueled vehicles are consistent with each other.
+> to the extent necessary to achieve such goals of replacement fuel use and to ensure that the availability of alternative fuels and of alternative fueled vehicles are consistent with each other.
 
 #### (b) Fair and equitable application
 

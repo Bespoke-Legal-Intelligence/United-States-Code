@@ -1,6 +1,6 @@
 ### §2424. Filing factual statement about alien individual
 
-(a) Whoever keeps, maintains, controls, supports, or harbors in any house or place for the purpose of prostitution, or for any other immoral purpose, any individual, knowing or in reckless disregard of the fact that the individual is an alien, shall file with the Commissioner of Immigration and Naturalization a statement in writing setting forth the name of such individual, the place at which that individual is kept, and all facts as to the date of that individual's entry into the United States, the port through which that individual entered, that individual's age, nationality, and parentage, and concerning that individual's procuration to come to this country within the knowledge of such person; and
+(a) Whoever keeps, maintains, controls, supports, or harbors in any house or place for the purpose of prostitution, or for any other immoral purpose, any individual, knowing or in reckless disregard of the fact that the individual is an alien, shall file with the Commissioner of Immigration and Naturalization a statement in writing setting forth the name of such individual, the place at which that individual is kept, and all facts as to the date of that individual's entry into the United States, the port through which that individual entered, that individual's age, nationality, and parentage, and concerningthat individual's procuration to come to this country within the knowledge of such person; and
 
 Whoever fails within five business days after commencing to keep, maintain, control, support, or harbor in any house or place for the purpose of prostitution, or for any other immoral purpose, any alien individual to file such statement concerning such alien individual with the Commissioner of Immigration and Naturalization; or
 
@@ -42,9 +42,13 @@ Subsec. (b). Pub. L. 99–628, §5(c)(5), substituted “that person” for “h
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L.91–452, set out as an Effective Date; Savings Provision note under section 6001 of this title.
+Amendment by Pub. L. 91–452 effective on sixtieth day following Oct. 15, 1970, and not to affect any immunity to which any individual is entitled under this section by reason of any testimony given before sixtieth day following Oct. 15, 1970, see section 260 of Pub. L. 91–452, set out as an Effective Date; Savings Provision note under section 6001 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1961 of this title.
+This section is referred to in section 1961 of this title.
 

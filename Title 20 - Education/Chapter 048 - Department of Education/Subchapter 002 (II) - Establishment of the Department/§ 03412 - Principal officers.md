@@ -6,7 +6,7 @@
 
 (2)(A) The Deputy Secretary shall have responsibility for the conduct of intergovernmental relations of the Department, including assuring (i) that the Department carries out its functions in a manner which supplements and complements the education policies, programs, and procedures of the States and the local school systems and other instrumentalities of the States, and (ii) that appropriate officials of the Department consult with individuals responsible for making policy relating to education in the States and the local school systems and other instrumentalities of the States concerning differences over education policies, programs, and procedures and concerning the impact of the rules and regulations of the Department on the States and the local school systems and other instrumentalities of the States.
 
-(B) Local education authorities may inform the Deputy Secretary of any rules or regulationsof the Department which are in conflict with another rule or regulation issued by any other Federal department or agency or with any other office of the Department. If the Deputy Secretary determines, after consultation with the appropriate Federal department or agency, that such a conflict does exist, the Deputy Secretary shall report such conflict or conflicts to the appropriate Federal department or agency together with recommendations for the correction of the conflict.
+(B) Local education authorities may inform the Deputy Secretary of any rules or regulations of the Department which are in conflict with another rule or regulation issued by any other Federal department or agency or with any other office of the Department. If the Deputy Secretary determines, after consultation with theappropriate Federal department or agency, that such a conflict does exist, the Deputy Secretary shall report such conflict or conflicts to the appropriate Federal department or agency together with recommendations for the correction of the conflict.
 
 #### (b) Assistant Secretaries and General Counsel
 
@@ -28,17 +28,7 @@
 
 (3) There shall be in the Department, a Special Assistant for Gender Equity who shall be appointed by the Secretary. The Special Assistant shall promote, coordinate, and evaluate gender equity programs, including the dissemination of information, technical assistance, and coordination of research activities. The Special Assistant shall advise the Secretary and Deputy Secretary on all matters relating to gender equity.
 
-(4) There shall be in the Department an Assistant Secretary for Educational Research and Improvement who shall be—
-
-&emsp;(A) appointed by the President, by and with the consent of the Senate; and
-
-&emsp;(B) selected (giving due consideration to recommendations from the National Educational Research Policy and Priorities Board) from among individuals who—
-
-&emsp;&emsp;(i) are distinguished educational researchers or practitioners;
-
-&emsp;&emsp;(ii) have proven management ability; and
-
-&emsp;&emsp;(iii) have substantial knowledge of education within the United States.
+(4) There shall be in the Department a Director of the Institute of Education Sciences who shall be appointed in accordance with section 114(a) of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9514(a)\] and perform the duties described in that Act \[20 U.S.C. 9501 et seq.\].
 
 #### (c) Inspector General
 
@@ -100,15 +90,29 @@ The Assistant Secretary for Vocational and Adult Education, in addition to perfo
 
 &emsp;&emsp;(iii) education programs located in, and regarding, rural areas.
 
-(Pub. L. 96–88, title II, §202, Oct. 17, 1979, 93 Stat. 671; Pub. L. 99–145, title XII, §1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 101–509, title V, §529 \[title I, §112(a)(3)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 102–73, title I, §101, July 25, 1991, 105 Stat. 334; Pub. L. 102–103, title II, §201, Aug. 17, 1991, 105 Stat. 498; Pub. L. 102–325, title XV, §1553(a), July 23, 1992, 106 Stat. 838; Pub. L. 103–227, title IX, §913, Mar. 31, 1994, 108 Stat. 223; Pub. L. 103–382, title II, §271(b), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–110, title X, §1072(e)(2), Jan. 8, 2002, 115 Stat. 2089.)
+(Pub. L. 96–88, title II, §202, Oct. 17, 1979, 93 Stat. 671; Pub. L. 99–145, title XII, §1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 101–509, title V, §529 \[title I, §112(a)(3)(B)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 102–73, title I, §101, July 25, 1991, 105 Stat. 334; Pub. L. 102–103, title II, §201, Aug. 17, 1991, 105 Stat. 498; Pub. L. 102–325, title XV, §1553(a), July 23, 1992, 106 Stat. 838; Pub. L. 103–227, title IX, §913, Mar. 31, 1994, 108 Stat. 223; Pub. L. 103–382, title II, §271(b), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–110, title X, §1072(e)(2), Jan. 8, 2002, 115 Stat. 2089; Pub. L. 107–279, title IV, §402(1), Nov. 5, 2002, 116 Stat. 1984.)
 
 #### References in Text
+
+The Education Sciences Reform Act of 2002, referred to in subsec. (b)(4), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941, which is classified generally to subchapter I (§9501 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
 
 The Inspector General Act of 1978, referred to in subsec. (c), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 
-2002—Subsec. (b)(3), (4). Pub. L. 107–110 redesignated par. (3), relating to Assistant Secretary for Educational Research and Improvement, as (4).
+2002—Subsec. (b)(4). Pub. L. 107–279 added par. (4) and struck out former par. (4) which read as follows: “There shall be in the Department an Assistant Secretary for Educational Research and Improvement who shall be—
+
+&emsp;“(A) appointed by the President, by and with the consent of the Senate; and
+
+&emsp;“(B) selected (giving due consideration to recommendations from the National Educational Research Policy and Priorities Board) from among individuals who—
+
+&emsp;&emsp;“(i) are distinguished educational researchers or practitioners;
+
+&emsp;&emsp;“(ii) have proven management ability; and
+
+&emsp;&emsp;“(iii) have substantial knowledge of education within the United States.”
+
+Subsec. (b)(3), (4). Pub. L. 107–110 redesignated par. (3), relating to Assistant Secretary for Educational Research and Improvement, as (4).
 
 1994—Subsec. (b)(1)(E) to (G). Pub. L. 103–227, §913(1), redesignated subpars. (F) and (G) as (E) and (F), respectively, and struck out former subpar. (E) which read as follows: “an Assistant Secretary for Educational Research and Improvement;”.
 
@@ -152,5 +156,5 @@ Amendment by Pub. L. 101–509 effective on first day of first pay period beginn
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3413, 3414, 3415, 3416, 3417, 3419, 3421, 3473, 6011, 9001 of this title.
+This section is referred to in sections 3413, 3414, 3415, 3416, 3417, 3421, 3473 of this title.
 

@@ -60,9 +60,9 @@
 
 (f)(1) Within such deadlines as the Comptroller General prescribes, upon request each Federal agency shall provide to an interested party any document relevant to a protested procurement action (including the report required by subsection (b)(2) of this section) that would not give that party a competitive advantage and that the party is otherwise authorized by law to receive.
 
-(2)(A) The Comptroller General may issue protective orders which establish terms, conditions, and restrictions for the provision of any document to a party under paragraph (1), that prohibit or restrict the disclosure by the party ofinformation described in subparagraph (B) that is contained in such a document.
+(2)(A) The Comptroller General may issue protective orders which establish terms, conditions, and restrictions for the provision of any document to a party under paragraph (1), that prohibit or restrict the disclosure by the party of information described in subparagraph (B) that is contained in such a document.
 
-(B) Information referred to in subparagraph (A) is procurement sensitive information, trade secrets, or other proprietary or confidential research, development, or commercial information.
+(B) Information referred to in subparagraph (A) is procurement sensitive information, tradesecrets, or other proprietary or confidential research, development, or commercial information.
 
 (C) A protective order under this paragraph shall not be considered to authorize the withholding of any document or information from Congress or an executive agency.
 
@@ -102,7 +102,7 @@ Subsec. (f). Pub. L. 103–355, §1403(c), designated existing provisions as par
 
 For effective date and applicability of amendment by section 4321(d)(2) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
-Amendment by section 5501(1) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by section 5501(1) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, div. E, title LVII, Feb. 10, 1996, 110 Stat. 702.
 
 #### Effective Date of 1994 Amendment
 

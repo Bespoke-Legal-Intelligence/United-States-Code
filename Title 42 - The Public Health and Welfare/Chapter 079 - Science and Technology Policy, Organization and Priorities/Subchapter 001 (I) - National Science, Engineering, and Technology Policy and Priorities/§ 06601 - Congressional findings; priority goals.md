@@ -84,11 +84,11 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12700
 
-Ex. Ord. No. 12700, Jan. 19, 1990, 55 F.R. 2219, as amended by Ex. Ord. No. 12768, June 28, 1991, 56 F.R. 30302, which established the President's Council of Advisors on Science and Technology and provided for its functions, administration, and termination on June 30, 1993, was revoked by section 4(c) of Ex. Ord. No. 12882, §4(c), Nov. 23, 1993, 58 F.R. 62493. Ex. Ord. No. 12869, Sept. 30, 1993, §2, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees, which reestablished the President's Council of Advisors on Science and Technology in accordance with the provisions of Ex. Ord. No. 12700 and extended its term until Sept. 30, 1995, was also revoked by Ex. Ord. 12882, §4(c).
+Ex. Ord. No. 12700, Jan. 19, 1990, 55 F.R. 2219, as amended by Ex. Ord. No. 12768, June 28, 1991, 56 F.R. 30302, which established the President's Council of Advisors on Science and Technology and provided for its functions, administration, and termination on June 30,1993, was revoked by section 4(c) of Ex. Ord. No. 12882, §4(c), Nov. 23, 1993, 58 F.R. 62493. Ex. Ord. No. 12869, Sept. 30, 1993, §2, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees, which reestablished the President's Council of Advisors on Science and Technology in accordance with the provisions of Ex. Ord. No. 12700 and extended its term until Sept. 30, 1995, was also revoked by Ex. Ord. 12882, §4(c).
 
 #### Ex. Ord. No. 12881. Establishment of National Science and Technology Council
 
-Ex. Ord. No. 12881, Nov. 23, 1993, 58 F.R. 62491, provided:
+Ex. Ord. No. 12881, Nov. 23, 1993, 58 F.R. 62491; Ex. Ord. No. 13284, §9, Jan. 23, 2003, 68 F.R. 4076, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -112,23 +112,25 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 &emsp;(h) Secretary of the Interior;
 
-&emsp;(i) Administrator, National Aeronautics and Space Administration;
+&emsp;(i) Secretary of Homeland Security;
 
-&emsp;(j) Director, National Science Foundation;
+&emsp;(j) Administrator, National Aeronautics and Space Administration;
 
-&emsp;(k) Director of the Office of Management and Budget;
+&emsp;(k) Director, National Science Foundation;
 
-&emsp;(<i>l</i>) Administrator, Environmental Protection Agency;
+&emsp;(<i>l</i>) Director of the Office of Management and Budget;
 
-&emsp;(m) Assistant to the President for Science and Technology;
+&emsp;(m) Administrator, Environmental Protection Agency;
 
-&emsp;(n) National Security Adviser;
+&emsp;(n) Assistant to the President for Science and Technology;
 
-&emsp;(<i>o</i>) Assistant to the President for Economic Policy;
+&emsp;(<i>o</i>) National Security Adviser;
 
-&emsp;(p) Assistant to the President for Domestic Policy; and
+&emsp;(p) Assistant to the President for Economic Policy;
 
-&emsp;(q) Such other officials of executive departments and agencies as the President may, from time to time, designate.
+&emsp;(q) Assistant to the President for Domestic Policy; and
+
+&emsp;(r) Such other officials of executive departments and agencies as the President may, from time to time, designate.
 
 Sec. 3. <i>Meetings of the Council</i>. The President or, upon his direction, the Assistant to the President for Science and Technology (“the Assistant”), may convene meetings of the Council. The President shall preside over the meetings of the Council, provided that in his absence the Vice President, and in his absence the Assistant, will preside.
 
@@ -147,8 +149,6 @@ Sec. 5. <i>Administration</i>. (a) The Council will oversee the duties of the Fe
 (c) To the extent practicable and permitted by law, executive departments and agencies shall make resources, including, but not limited to, personnel, office support, and printing, available to the Council as requested by the Assistant.
 
 (d) All executive departments and agencies shall cooperate with the Council and provide such assistance, information, and advice to the Council as the Council may request, to the extent permitted by law.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Executive Order No. 12882
 
@@ -322,7 +322,7 @@ I have worked hard to restore trust and ensure openness in government. This memo
 
 In January 1994, I established the Advisory Committee on Human Radiation Experiments (the “Advisory Committee”) to examine reports that the government had funded and conducted unethical human radiation experiments during the Cold War \[see Ex. Ord. No. 12891, set out as a note under section 2210 of this title\]. I directed the Advisory Committee to uncover the truth, recommend steps to right past wrongs, and propose ways to prevent unethical human subjects research from occurring in the future. In its October 1995 final report, the Advisory Committee recommended, among other things, that the government modify its policy governing classified research on human subjects (“Recommendations for Balancing National Security Interests and the Rights of the Public,” Recommendation 15, Final Report, Advisory Committee on Human Radiation Experiments). This memorandum sets forth policy changes in response to those recommendations.
 
-The Advisory Committee acknowledged that it is in the Nation's interest to continue to allow the government to conduct classified research involving humansubjects where such research serves important national security interests. The Advisory Committee found, however, that classified human subjects research should be a “rare event” and that the “subjects of such research, as well as the interests of the public in openness in science and in government, deserve special protections.” The Advisory Committee was concerned about “exceptions to informed consent requirements and the absence of any special review and approval process for human research that is to be classified.” The Advisory Committee recommended that in all classified research projects the agency conducting or sponsoring the research meet the following requirements:
+The Advisory Committee acknowledged that it is in the Nation's interest to continue to allow the government to conduct classified research involving human subjects where such research serves important national security interests. The Advisory Committee found, however, that classified human subjects research should be a “rare event” and that the “subjects of such research, as well as the interests of the public in openness in science and in government, deserve special protections.” The Advisory Committee was concerned about “exceptions to informed consent requirements and the absence of any special review and approval process for human research that is to be classified.” The Advisory Committee recommended that in all classified research projects the agency conducting or sponsoring the research meet the following requirements:
 
 —obtain informed consent from all human subjects;
 
@@ -360,7 +360,7 @@ These steps, set forth in detail below, will preserve the government's ability t
 
 (i) The Common Rule currently requires that each IRB “include at least one member who is not otherwise affiliated with the institution and who is not part of the immediate family of a person who is affiliated with the institution.” For classified research, the agencies shall define “not otherwise affiliated with the institution,” as a nongovernmental member with the appropriate security clearance.
 
-(ii) Under the Common Rule, research projects are approved by the IRB if a “majority of those (IRB) members present at a meeting” approved the project. For classified research, the agencies shall propose to permit any member of the IRB who does not believe a specific project should be approved by the IRB to appeal a majority decision to approve the project to the head of the sponsoring agency. If the agency head affirms the IRB's decision to approve the project, the dissenting IRB member may appeal the IRB's decisions to the Director of OSTP. The Director of OSTP shall review the IRB's decision and approve or disapprove the project, or, at the Director's discretion, convene an IRB made up of nongovernmental officials, each with the appropriate security clearances, to approve or disapprove the project.
+(ii) Under the Common Rule, research projects are approved by the IRB if a “majority of those (IRB) members present at a meeting” approved the project. For classified research, the agencies shall propose to permit any member of the IRB who does not believe a specific project should be approved by the IRB to appeal a majority decision to approve the project to the head of the sponsoring agency. If the agency head affirms the IRB's decision to approve the project, the dissenting IRBmember may appeal the IRB's decisions to the Director of OSTP. The Director of OSTP shall review the IRB's decision and approve or disapprove the project, or, at the Director's discretion, convene an IRB made up of nongovernmental officials, each with the appropriate security clearances, to approve or disapprove the project.
 
 (iii) IRBs for classified research shall determine whether potential subjects need access to classified information to make a valid informed consent decision.
 

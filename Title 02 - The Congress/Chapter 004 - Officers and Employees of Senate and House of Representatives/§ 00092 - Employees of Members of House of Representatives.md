@@ -74,7 +74,7 @@ Section 104(b) of Pub. L. 105–55 provided that: “The amendment made by subse
 
 #### Employment of Permanent Clerks
 
-House Resolution No. 359, Ninety-sixth Congress, July 20, 1979, as enacted into permanent law by H.R.7593, as passed the House of Representatives on July 21, 1980, and enacted into permanent law by Pub. L. 96–536, §101(c), Dec. 16, 1980, 94 Stat. 3167, which related to the employment of employees by Members of House of Representatives, Delegates, and Resident Commissioners, was repealed by Pub. L. 104–186, title I, §104(e)(2), Aug. 20, 1996, 110 Stat. 1721.
+House Resolution No. 359, Ninety-sixth Congress, July 20, 1979, as enacted into permanent law by H.R. 7593, as passed the House of Representatives on July 21, 1980, and enacted into permanent law by Pub. L. 96–536, §101(c), Dec. 16, 1980, 94 Stat. 3167, which related to the employment of employees by Members of House of Representatives, Delegates, and Resident Commissioners, was repealed by Pub. L. 104–186, title I, §104(e)(2), Aug. 20, 1996, 110 Stat. 1721.
 
 House Resolution No. 357, Ninety-first Congress, June 25, 1969, as enacted into permanent law by Pub. L. 91–145, §103, Dec. 12, 1969, 83 Stat. 359, which increased base Clerk Hire allowance of Members of House of Representatives and Resident Commissioner from Puerto Rico and authorized them to employ one additional clerk each, was repealed by Pub. L. 104–186, title I, §104(e)(3), Aug. 20, 1996, 110 Stat. 1721.
 

@@ -22,7 +22,7 @@ The authority vested by law in the Department of the Army, the Secretary of the 
 
 #### (d) Active service deemed active military service with respect to laws administered by Secretary of Veterans Affairs
 
-Active service of commissioned officers of the Service shall be deemed to be active militaryservice in the Armed Forces of the United States for the purposes of all laws administered by the Secretary of Veterans Affairs (except the Servicemen's Indemnity Act of 1951) and section 417 of this title.
+Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for the purposes of all laws administered by the Secretary of Veterans Affairs (except the Servicemen's Indemnity Act of 1951) and section 417 of this title.
 
 #### (e) Active service deemed active military service with respect to Soldiers’ and Sailors’ Civil Relief Act of 1940
 
@@ -30,7 +30,7 @@ Active service of commissioned officers of the Service shall be deemed to be act
 
 #### (f) Active service deemed active military service with respect to anti-discrimination laws
 
-Active service of commissioned officers of the Service shall be deemed to be active military service in the Armed Forces of the United States for purposes of all laws related to discrimination on the basis of race, color, sex, ethnicity, age, religion, and disability.
+Active service of commissioned officers of the Service shall be deemed to be active militaryservice in the Armed Forces of the United States for purposes of all laws related to discrimination on the basis of race, color, sex, ethnicity, age, religion, and disability.
 
 (July 1, 1944, ch. 373, title II, §212, 58 Stat. 689; July 15, 1954, ch. 507, §14(a), 68 Stat. 481; Aug. 1, 1956, ch. 837, title V, §501(b)(1), 70 Stat. 881; Pub. L. 94–278, title XI, §1101, Apr. 22, 1976, 90 Stat. 415; Pub. L. 102–54, §13(q)(1)(C), June 13, 1991, 105 Stat. 278; Pub. L. 105–392, title IV, §402(a), Nov. 13, 1998, 112 Stat. 3587.)
 
@@ -57,6 +57,8 @@ The Soldiers’ and Sailors’ Civil Relief Act of 1940, referred to in subsec. 
 Section 501(b)(2) of act Aug. 1, 1956, provided that: “The amendment made by this subsection \[amending this section\] (A) shall apply only with respect to service performed on or after July 4, 1952, (B) shall not be construed to affect the entitlement of any person to benefits under the Veterans’ Readjustment Assistance Act of 1952 \[act July 16, 1952, ch. 875, 66 Stat. 633\], (C) shall not be construed to authorize any payment under section 202(i) of the Social Security Act \[section 402(i) of this title\], or under Veterans Regulation Numbered 9(a), for any death occurring prior to January 1, 1957, and (D) shall not be construed to authorize payment of any benefits for any period prior to January 1, 1957.”
 
 #### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 

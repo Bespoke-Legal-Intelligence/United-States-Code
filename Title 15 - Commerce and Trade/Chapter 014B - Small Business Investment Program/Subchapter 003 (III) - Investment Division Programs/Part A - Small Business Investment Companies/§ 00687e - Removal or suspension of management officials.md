@@ -2,7 +2,7 @@
 
 #### (a) Definition of “management official”
 
-In this section, the term “management official” means an officer, director, general partner,manager, employee, agent, or other participant in the management or conduct of the affairs of a licensee.
+In this section, the term “management official” means an officer, director, general partner, manager, employee, agent, or other participant in the management or conduct of the affairs of a licensee.
 
 #### (b) Removal of management officials
 
@@ -82,7 +82,7 @@ In this section, the term “management official” means an officer, director, 
 
 #### (1) In general
 
-&emsp;Whenever a management official is charged in any information, indictment, or complaint authorized by a United States attorney, with the commission of or participation in a felony involving dishonesty or breach of trust, the Administrator may, by written notice served upon that management official, suspend thatmanagement official from office or prohibit that management official from further participation in any manner in the management or conduct of the affairs of the licensee, or both.
+&emsp;Whenever a management official is charged in any information, indictment, or complaint authorized by a United States attorney, with the commission of or participation in a felony involving dishonesty or breach of trust, the Administrator may, by written notice served upon that management official, suspend that management official from office or prohibit that management official from further participation in any manner in the management or conduct of the affairs of the licensee, or both.
 
 #### (2) Effectiveness
 

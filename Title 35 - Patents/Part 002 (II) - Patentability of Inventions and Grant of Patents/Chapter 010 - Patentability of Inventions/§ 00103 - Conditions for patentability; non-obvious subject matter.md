@@ -28,7 +28,7 @@
 
 &emsp;(C) a method of using a product produced by a process defined by subparagraph (A) or (B), or a combination of subparagraphs (A) and (B).
 
-(c) Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of section 102 of this title, shall not preclude patentabilityunder this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.
+(c) Subject matter developed by another person, which qualifies as prior art only under one or more of subsections (e), (f), and (g) of section 102 of this title, shall not preclude patentability under this section where the subject matter and the claimed invention were, at the time the invention was made, owned by the same person or subject to an obligation of assignment to the same person.
 
 (July 19, 1952, ch. 950, 66 Stat. 798; Pub. L. 98–622, title I, §103, Nov. 8, 1984, 98 Stat. 3384; Pub. L. 104–41, §1, Nov. 1, 1995, 109 Stat. 351; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4807(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–591.)
 

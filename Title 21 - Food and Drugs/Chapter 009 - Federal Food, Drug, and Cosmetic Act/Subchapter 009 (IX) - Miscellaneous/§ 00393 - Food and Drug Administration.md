@@ -122,7 +122,7 @@ Section 503(c) of title V of Pub. L. 100–607 provided that:
 
 #### Regulations for Sunscreen Products
 
-Section 129 of Pub. L. 105–115 provided that: “Not later than 18 months after the date of enactment of this Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn.”
+Section 129 of Pub. L. 105–115 provided that: “Not later than 18 months after the date of enactment ofthis Act \[Nov. 21, 1997\], the Secretary of Health and Human Services shall issue regulations for over-the-counter sunscreen products for the prevention or treatment of sunburn.”
 
 #### FDA Study of Mercury Compounds in Drugs and Food
 
@@ -176,5 +176,5 @@ Section 502 of Pub. L. 100–607 provided that: “Congress finds that—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 360m of this title.
+This section is referred to in sections 360m, 374 of this title.
 

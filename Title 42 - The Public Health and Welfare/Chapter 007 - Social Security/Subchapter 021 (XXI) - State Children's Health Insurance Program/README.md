@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 247b–4a, 247b–16, 280g, 280g–1, 290bb–25, 290bb–39, 299a, 299b–6, 299c–2, 300b–8, 300ff–12, 300ff–14, 300ff–21, 300ff–27, 603, 706, 1301, 1320a–7, 1396d, 1396r–1a, 1758, 1786 of this title.
+This subchapter is referred to in sections 247b–4a, 247b–16, 254b, 254e, 254g, 254h, 280g, 280g–1, 290bb–25, 290bb–39, 299a, 299b–6, 299c–2, 300b–8, 300ff–12, 300ff–14, 300ff–21, 300ff–27, 603, 706, 1301, 1320a–7, 1320b–5, 1396d, 1396r–1a, 1758, 1786 of this title; title 26 section 35; title 29 section 2918.
 
 
 ---

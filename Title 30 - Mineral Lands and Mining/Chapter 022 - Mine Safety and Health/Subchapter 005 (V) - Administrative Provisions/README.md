@@ -1,7 +1,5 @@
 ### SUBCHAPTER V—ADMINISTRATIVE PROVISIONS
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Social Security Administration”.</i>
-
 
 ---
 

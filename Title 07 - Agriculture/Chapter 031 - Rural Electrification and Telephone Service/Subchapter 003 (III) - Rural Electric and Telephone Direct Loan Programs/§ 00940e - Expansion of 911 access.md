@@ -1,0 +1,12 @@
+### §940e. Expansion of 911 access
+
+#### (a) In general
+
+Subject to such terms and conditions as the Secretary may prescribe, the Secretary may make telephone loans under this subchapter to borrowers of loans made by the Rural Utilities Service, State or local governments, Indian tribes (as defined in section 450b of title 25), or other public entities for facilities and equipment to expand or improve 911 access and integrated emergency communications systems in rural areas.
+
+#### (b) Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 2002 through 2007.
+
+(May 20, 1936, ch. 432, title III, §315, as added Pub. L. 107–171, title VI, §6102, May 13, 2002, 116 Stat. 415.)
+

@@ -64,7 +64,7 @@ Subject to subsections (c) and (d) of this section, payment under this part may 
 
 #### (A) Proportional adjustment
 
-&emsp;&emsp;If the Secretary determines that the level estimated under paragraph (1) for a fiscal year will exceed the trigger level (as defined in subparagraph (C)) for that fiscal year, the Secretary shall, subject to subparagraph (B), provide for such a proportional reduction in payment amounts under this part for services described in subsection (a) of this section for the fiscal year involved as will assure that such level (taking into account any adjustment under subparagraph (B)) does not exceed the trigger level for that fiscal year.
+&emsp;&emsp;If the Secretary determines that the level estimated under paragraph (1) for a fiscal year will exceed the trigger level (as defined in subparagraph (C)) for that fiscal year, the Secretary shall, subject to subparagraph (B), provide for such a proportional reduction in payment amounts under this part for services described in subsection (a) of this section for the fiscal year involved as will assure that such level (taking into account any adjustment under subparagraph (B))does not exceed the trigger level for that fiscal year.
 
 #### (B) Alternative adjustments
 

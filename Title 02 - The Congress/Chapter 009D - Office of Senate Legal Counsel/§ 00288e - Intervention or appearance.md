@@ -16,5 +16,5 @@ The Counsel shall limit any intervention or appearance as amicus curiae in an ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 288, 288b, 288k, 288<i>l</i> of this title.
+This section is referred to in sections 288, 288b, 288<i>l</i> of this title.
 

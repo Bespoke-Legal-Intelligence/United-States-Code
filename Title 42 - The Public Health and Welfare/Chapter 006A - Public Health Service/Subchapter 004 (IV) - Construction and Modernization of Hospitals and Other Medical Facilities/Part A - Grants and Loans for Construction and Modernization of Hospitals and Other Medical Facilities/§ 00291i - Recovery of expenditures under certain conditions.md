@@ -22,7 +22,7 @@ The transferor of a facility which is sold or transferred as described in subsec
 
 &emsp;(i) 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section, in the case of a facility which is sold or transferred or the use of which changes after July 18, 1984, or
 
-&emsp;(ii) thirty days after July 18, 1984, or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section, in the case of afacility which was sold or transferred or the use of which changed before July 18, 1984.<sup>1</sup>
+&emsp;(ii) thirty days after July 18, 1984, or if later 180 days after the date of the sale, transfer, or change of use for which a notice is required by subsection (b) of this section, in the case of a facility which was sold or transferred or the use of which changed before July 18, 1984.<sup>1</sup>
 
 > the amount which the United States is entitled to recover under paragraph (1) with respect to a facility shall be the amount prescribed by paragraph (1) plus interest, during the period described in subparagraph (B), at a rate (determined by the Secretary) based on the average of the bond equivalent of the weekly ninety-day Treasury bill auction rate.
 
@@ -76,7 +76,7 @@ Provisions similar to those comprising this section were contained in section 29
 
 #### Transfer of Functions
 
-Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+Office of Surgeon General abolished by section 3 of Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, and functions thereof transferred to Secretary of Health, Education, and Welfare by section 1 of Reorg. Plan No. 3 of 1966, set out as a note under section 202 of this title. Secretary of Health, Education,and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
 #### Regulations and Personnel
 

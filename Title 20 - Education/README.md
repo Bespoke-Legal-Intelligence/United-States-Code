@@ -1,5 +1,5 @@
 
-20 U.S.C.<br>United States Code, 2001 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
+20 U.S.C.<br>United States Code, 2002 Edition<br>Title 20 - EDUCATION<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 20—EDUCATION
 
@@ -81,11 +81,12 @@
 | [<b>68.</b>](Chapter%20068%20-%20National%20Education%20Reform/README.md) | <b>National Education Reform</b> | <b>5801</b> |
 | [<b>69.</b>](Chapter%20069%20-%20School-to-Work%20Opportunities/README.md) | <b>School-to-Work Opportunities</b> | <b>6101</b> |
 | [<b>70.</b>](Chapter%20070%20-%20Strengthening%20and%20Improvement%20of%20Elementary%20and%20Secondary%20Schools/README.md) | <b>Strengthening and Improvement of Elementary and Secondary Schools</b> | <b>6301</b> |
-| [<b>71.</b>](Chapter%20071%20-%20National%20Education%20Statistics/README.md) | <b>National Education Statistics</b> | <b>9001</b> |
+| [<b>71.</b>](Chapter%20071%20-%20National%20Education%20Statistics/README.md) | <b>National Education Statistics \[Repealed or Transferred\]</b> | <b>9001</b> |
 | [<b>72.</b>](Chapter%20072%20-%20Museum%20and%20Library%20Services/README.md) | <b>Museum and Library Services</b> | <b>9101</b> |
 | [<b>73.</b>](Chapter%20073%20-%20Adult%20Education%20and%20Literacy/README.md) | <b>Adult Education and Literacy</b> | <b>9201</b> |
 | [<b>74.</b>](Chapter%20074%20-%20Troops-to-Teachers%20Program/README.md) | <b>Troops-to-Teachers Program</b> | <b>9301</b> |
 | [<b>75.</b>](Chapter%20075%20-%20Early%20Learning%20Opportunities/README.md) | <b>Early Learning Opportunities</b> | <b>9401</b> |
+| [<b>76.</b>](Chapter%20076%20-%20Education%20Research%2C%20Statistics%2C%20Evaluation%2C%20Information%2C%20and%20Dissemination/README.md) | <b>Education Research, Statistics, Evaluation, Information, and Dissemination</b> | <b>9501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -175,3 +176,4 @@
 - [Chapter 073 - Adult Education and Literacy](Chapter%20073%20-%20Adult%20Education%20and%20Literacy/README.md)
 - [Chapter 074 - Troops-to-Teachers Program](Chapter%20074%20-%20Troops-to-Teachers%20Program/README.md)
 - [Chapter 075 - Early Learning Opportunities](Chapter%20075%20-%20Early%20Learning%20Opportunities/README.md)
+- [Chapter 076 - Education Research, Statistics, Evaluation, Information, and Dissemination](Chapter%20076%20-%20Education%20Research%2C%20Statistics%2C%20Evaluation%2C%20Information%2C%20and%20Dissemination/README.md)

@@ -2,7 +2,7 @@
 
 #### (a) Additional duties
 
-The President when he finds that the public interest will be served shall by proclamation specify and declare new or additional duties as hereinafter provided upon articles wholly or in part the growth or product of, or imported in avessel of, any foreign country whenever he shall find as a fact that such country—
+The President when he finds that the public interest will be served shall by proclamation specify and declare new or additional duties as hereinafter provided upon articles wholly or in part the growth or product of, or imported in a vessel of, any foreign country whenever he shall find as a fact that such country—
 
 &emsp;(1) Imposes, directly or indirectly, upon the disposition in or transportation in transit through or reexportation from such country of any article wholly or in part the growth or product of the United States any unreasonable charge, exaction, regulation, or limitation which is not equally enforced upon the like articles of every foreign country; or
 
@@ -26,7 +26,7 @@ Whenever the President shall find as a fact that any foreign country imposes any
 
 #### (f) Forfeiture of articles
 
-All articles imported contrary to the provisions of this section shall be forfeited to the United States and shall be liable to be seized, prosecuted, and condemned in like manner and under the same regulations, restrictions, and provisions as may from time to time be established for the recovery, collection, distribution, and remission of forfeitures to the United States by the several revenue laws. Whenever the provisions of this chapter shall be applicable to importations into the United States of articles wholly or in part the growth or product of any foreign country, they shall be applicable thereto whether such articles are imported directly or indirectly.
+All articles imported contrary to the provisions of this section shall be forfeited to the United States and shall be liable to be seized, prosecuted, and condemned in like manner andunder the same regulations, restrictions, and provisions as may from time to time be established for the recovery, collection, distribution, and remission of forfeitures to the United States by the several revenue laws. Whenever the provisions of this chapter shall be applicable to importations into the United States of articles wholly or in part the growth or product of any foreign country, they shall be applicable thereto whether such articles are imported directly or indirectly.
 
 #### (g) Ascertainment by Commission of discriminations
 
@@ -38,7 +38,7 @@ The Secretary of the Treasury with the approval of the President shall make such
 
 #### (i) “Foreign country” defined
 
-When used in this section the term “foreign country” means any empire, country, dominion,colony or protectorate, or any subdivision or subdivisions thereof (other than the United States and its possessions), within which separate tariff rates or separate regulations of commerce are enforced.
+When used in this section the term “foreign country” means any empire, country, dominion, colony or protectorate, or any subdivision or subdivisions thereof (other than the United States and its possessions), within which separate tariff rates or separate regulations of commerce are enforced.
 
 (June 17, 1930, ch. 497, title III, §338, 46 Stat. 704.)
 

@@ -2,7 +2,7 @@
 
 No person shall serve as representative, delegate, or alternate from the United States until such person has been investigated as to loyalty and security by the Director of the Office of Personnel Management.
 
-(June 30, 1948, ch. 756, §3, 62 Stat. 1152; Apr. 5, 1952, ch. 159, §1, 66 Stat. 43; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784.)
+(June 30, 1948, ch. 756, §3, 62 Stat. 1152; Apr. 5, 1952, ch. 159, §1, 66 Stat. 43; 1978 Reorg. Plan No.2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784.)
 
 #### Amendments
 

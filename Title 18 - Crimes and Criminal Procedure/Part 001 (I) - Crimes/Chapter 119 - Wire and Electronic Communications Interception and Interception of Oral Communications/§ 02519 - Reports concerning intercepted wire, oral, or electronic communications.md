@@ -54,7 +54,43 @@ Amendment by Pub. L. 99–508 effective 90 days after Oct. 21, 1986, and, in cas
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub. L. 95–511, set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
+Amendment by Pub. L. 95–511 effective Oct. 25, 1978, except as specifically provided, see section 401 of Pub.L. 95–511, set out as an Effective Date note under section 1801 of Title 50, War and National Defense.
+
+#### Report on Use of DCS 1000 (Carnivore) To Implement Orders Under Section 2518
+
+Pub. L. 107–273, div. A, title III, §305(b), Nov. 2, 2002, 116 Stat. 1782, provided that: “At the same time that the Attorney General, or Assistant Attorney General specially designated by the Attorney General, submits to the Administrative Office of the United States Courts the annual report required by section 2519(2) of title 18, United States Code, that is respectively next due after the end of each of the fiscal years 2002 and 2003, the Attorney General shall also submit to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives a report, covering the same respective time period, that contains the following information with respect to those orders described in that annual report that were applied for by law enforcement agencies of the Department of Justice and whose implementation involved the use of the DCS 1000 program (or any subsequent version of such program)—
+
+&emsp;“(1) the kind of order or extension applied for (including whether or not the order was an order with respect to which the requirements of sections 2518(1)(b)(ii) and 2518(3)(d) of title 18, United States Code, did not apply by reason of section 2518 (11) of title 18);
+
+&emsp;“(2) the period of interceptions authorized by the order, and the number and duration of any extensions of the order;
+
+&emsp;“(3) the offense specified in the order or application, or extension of an order;
+
+&emsp;“(4) the identity of the applying investigative or law enforcement officer and agency making the application and the person authorizing the application;
+
+&emsp;“(5) the nature of the facilities from which or place where communications were to be intercepted;
+
+&emsp;“(6) a general description of the interceptions made under such order or extension, including—
+
+&emsp;&emsp;“(A) the approximate nature and frequency of incriminating communications intercepted;
+
+&emsp;&emsp;“(B) the approximate nature and frequency of other communications intercepted;
+
+&emsp;&emsp;“(C) the approximate number of persons whose communications were intercepted;
+
+&emsp;&emsp;“(D) the number of orders in which encryption was encountered and whether such encryption prevented law enforcement from obtaining the plain text of communications intercepted pursuant to such order; and
+
+&emsp;&emsp;“(E) the approximate nature, amount, and cost of the manpower and other resources used in the interceptions;
+
+&emsp;“(7) the number of arrests resulting from interceptions made under such order or extension, and the offenses for which arrests were made;
+
+&emsp;“(8) the number of trials resulting from such interceptions;
+
+&emsp;“(9) the number of motions to suppress made with respect to such interceptions, and the number granted or denied;
+
+&emsp;“(10) the number of convictions resulting from such interceptions and the offenses for which the convictions were obtained and a general assessment of the importance of the interceptions; and
+
+&emsp;“(11) the specific persons authorizing the use of the DCS 1000 program (or any subsequent version of such program) in the implementation of such order.”
 
 #### Encryption Reporting Requirements
 

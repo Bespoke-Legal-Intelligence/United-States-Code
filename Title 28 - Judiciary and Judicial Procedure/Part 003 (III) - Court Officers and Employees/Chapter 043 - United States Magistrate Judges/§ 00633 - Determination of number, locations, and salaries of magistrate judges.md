@@ -26,17 +26,17 @@ Date of the enactment of the Federal Magistrates Act, referred to in subsec. (a)
 
 #### Amendments
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–651 substituted “section 634” for “section 643”.
+1986—Subsec. (b). Pub. L. 99–651 substituted “section 634” for “section 643”.
 
-<b>1979</b>—Subsec. (c). Pub. L. 96–82 struck out provision that determinations of the conference changing the number, locations, and salaries of full-time and part-time magistrates take effect sixty days after they are promulgated.
+1979—Subsec. (c). Pub. L. 96–82 struck out provision that determinations of the conference changing the number, locations, and salaries of full-time and part-time magistrates take effect sixty days after they are promulgated.
 
-<b>1968</b>—Pub. L. 90–578 substituted provisions for determination of number, locations, and salaries of magistrates, comprising subsecs. (a) to (c) of this section, relating to: surveys by the Director; determination by the conference; and changes in number, locations, and salaries”, respectively, for prior provisions for fees and expenses of United States commissioners, prescribing in undesignated introductory provisions a $10,500 limitation for any one calendar year for certain enumerated services rendered, and in former subsec. (c) for actual and necessary office expenses, including compensation of a necessary clerical assistant, of United States commissioners performing full time duty in office and not engaged in practice of law, now covered in sections 634 and 635 of this title.
+1968—Pub. L. 90–578 substituted provisions for determination of number, locations, and salaries of magistrates, comprising subsecs. (a) to (c) of this section, relating to: surveys by the Director; determination by the conference; and changes in number, locations, and salaries”, respectively, for prior provisions for fees and expenses of United States commissioners, prescribing in undesignated introductory provisions a $10,500 limitation for any one calendar year for certain enumerated services rendered, and in former subsec. (c) for actual and necessary office expenses, including compensation of a necessary clerical assistant, of United States commissioners performing full time duty in office and not engaged in practice of law, now covered in sections 634 and 635 of this title.
 
-<b>1957</b>—Subsec. (a). Pub. L. 85–276, §1, placed in subsec. (a) provisions of former subsec. (b) relating to limitation of compensation of commissioners and, among other charges, increased fees and compensation of commissioners.
+1957—Subsec. (a). Pub. L. 85–276, §1, placed in subsec. (a) provisions of former subsec. (b) relating to limitation of compensation of commissioners and, among other charges, increased fees and compensation of commissioners.
 
 Subsec. (b). Pub. L. 85–276, §2, repealed subsec. (b) which limited compensation of commissioners.
 
-<b>1954</b>—Act Aug. 13, 1954, inserted “and expenses” after “Fees” in section catchline.
+1954—Act Aug. 13, 1954, inserted “and expenses” after “Fees” in section catchline.
 
 Subsec. (c). Act Aug. 13, 1954, added subsec. (c).
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 99–651 effective Jan. 1, 1987, see section 203 of Pub. L.
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of officetakes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
+Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
 
 #### Section Referred to in Other Sections
 

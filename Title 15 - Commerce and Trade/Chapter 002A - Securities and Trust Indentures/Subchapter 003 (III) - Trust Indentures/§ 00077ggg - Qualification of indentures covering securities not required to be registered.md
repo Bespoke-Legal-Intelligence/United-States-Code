@@ -6,7 +6,7 @@ In the case of any security which is not required to be registered under the Sec
 
 #### (b) Filing of application
 
-The filing with the Commission of an application, or of an amendment to an application,shall be deemed to have taken place upon the receipt thereof by the Commission.
+The filing with the Commission of an application, or of an amendment to an application, shall be deemed to have taken place upon the receipt thereof by the Commission.
 
 #### (c) Applicability of other statutory provisions
 

@@ -54,7 +54,7 @@
 
 (4) The advance payment authorized by paragraph (2) of this subsection shall, in the case of an eligible veteran or eligible person, be (A) drawn in favor of the veteran or person; (B) mailed to the educational institution listed on the application form for temporary care and delivery to the veteran or person by such institution; and (C) delivered to the veteran or person upon such veteran's or person's registration at such institution, but in no event shall such delivery be made earlier than thirty days before the program of education is to commence.
 
-(5) Upon delivery of the advance payment pursuant to paragraph (4) of this subsection, the institution shall submit to the Secretary a certification of such delivery. If such delivery is not effected within thirty days after commencement of the program of education in question, such institution shall return such payment to the Secretary forthwith.
+(5) Upon delivery of the advance payment pursuant to paragraph (4) of this subsection, the institution shall submit to the Secretary a certification of such delivery. If such delivery is not effected within thirty days after commencementof the program of education in question, such institution shall return such payment to the Secretary forthwith.
 
 ### Recovery of Erroneous Payments
 
@@ -228,7 +228,7 @@ Section 603 of Pub. L. 92–540 provided that:
 
 #### Study of Tuition Assistance Allowance Program Abuses
 
-Section 105 of Pub. L. 93–508 authorized the Administrator to study the potential administrative difficulties and abuses that would arise if some form of variable tuition assistance allowance program were enacted after consideration of past difficulties and abuses which arose after the Second World War and such difficulties and abuses as were being experienced by the Veterans’ Administration in managing certain current programs, and to report to the Congress and the President his findings and recommendations for legislative and administrative action no later than one year after Dec. 3, 1974.
+Section 105 of Pub. L. 93–508 authorized the Administrator to study the potential administrative difficultiesand abuses that would arise if some form of variable tuition assistance allowance program were enacted after consideration of past difficulties and abuses which arose after the Second World War and such difficulties and abuses as were being experienced by the Veterans’ Administration in managing certain current programs, and to report to the Congress and the President his findings and recommendations for legislative and administrative action no later than one year after Dec. 3, 1974.
 
 #### Ex. Ord. No. 12020. Payment of Benefits When Schools Are Temporarily Closed To Conserve Energy
 

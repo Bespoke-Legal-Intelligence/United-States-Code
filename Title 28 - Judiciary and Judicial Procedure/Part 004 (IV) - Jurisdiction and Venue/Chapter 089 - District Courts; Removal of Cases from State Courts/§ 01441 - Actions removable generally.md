@@ -8,9 +8,27 @@
 
 (d) Any civil action brought in a State court against a foreign state as defined in section 1603(a) of this title may be removed by the foreign state to the district court of the United States for the district and division embracing the place where such action is pending. Upon removal the action shall be tried by the court without jury. Where removal is based upon this subsection, the time limitations of section 1446(b) of this chapter may be enlarged at any time for cause shown.
 
-(e) The court to which such civil action is removed is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
+(e)(1) Notwithstanding the provisions of subsection (b) of this section, a defendant in a civil action in a State court may remove the action to the district court of the United States for the district and division embracing the place where the action is pending if—
 
-(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 94–583, §6, Oct. 21, 1976, 90 Stat. 2898; Pub. L. 99–336, §3(a), June 19, 1986, 100 Stat. 637; Pub. L. 100–702, title X, §1016(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, §312, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, §4, Dec. 9, 1991, 105 Stat. 1623.)
+&emsp;(A) the action could have been brought in a United States district court under section 1369 of this title; or
+
+&emsp;(B) the defendant is a party to an action which is or could have been brought, in whole or in part, under section 1369 in a United States district court and arises from the same accident as the action in State court, even if the action to be removed could not have been brought in a district court as an original matter.
+
+> The removal of an action under this subsection shall be made in accordance with section 1446 of this title, except that a notice of removal may also be filed before trial of the action in State court within 30 days after the date on which the defendant first becomes a party to an action under section 1369 in a United States district court that arises from the same accident as the action in State court, or at a later time with leave of the district court.
+
+(2) Whenever an action is removed under this subsection and the district court to which it is removed or transferred under section 1407(j) has made a liability determination requiring further proceedings as to damages, the district court shall remand the action to the State court from which it had been removed for the determination of damages, unless the court finds that, for the convenience of parties and witnesses and in the interest of justice, the action should be retained for the determination of damages.
+
+(3) Any remand under paragraph (2) shall not be effective until 60 days after the district court has issued an order determining liability and has certified its intention to remand the removed action for the determination of damages. An appeal with respect to the liability determination of the district court may be taken during that 60-day period to the court of appeals with appellate jurisdiction over the district court. In the event a party files such an appeal, the remand shall not be effective until the appeal has been finally disposed of. Once the remand has become effective, the liability determination shall not be subject to further review by appeal or otherwise.
+
+(4) Any decision under this subsection concerning remand for the determination of damages shall not be reviewable by appeal or otherwise.
+
+(5) An action removed under this subsection shall be deemed to be an action under section 1369 and an action in which jurisdiction is based on section 1369 of this title for purposes of this section and sections 1407, 1697, and 1785 of this title.
+
+(6) Nothing in this subsection shall restrict the authority of the district court to transfer or dismiss an action on the ground of inconvenient forum.
+
+(f) The court to which a civil action is removed under this section is not precluded from hearing and determining any claim in such civil action because the State court from which such civil action is removed did not have jurisdiction over that claim.
+
+(June 25, 1948, ch. 646, 62 Stat. 937; Pub. L. 94–583, §6, Oct. 21, 1976, 90 Stat. 2898; Pub. L. 99–336, §3(a), June 19, 1986, 100 Stat. 637; Pub. L. 100–702, title X, §1016(a), Nov. 19, 1988, 102 Stat. 4669; Pub. L. 101–650, title III, §312, Dec. 1, 1990, 104 Stat. 5114; Pub. L. 102–198, §4, Dec. 9, 1991, 105 Stat. 1623; Pub. L. 107–273, div. C, title I, §11020(b)(3), Nov. 2, 2002, 116 Stat. 1827.)
 
 #### Historical and Revision Notes
 
@@ -20,7 +38,7 @@ Section consolidates removal provisions of sections 71 and 114 of title 28, U.S.
 
 Phrases such as “in suits of a civil nature, at law or in equity,” the words “case,” “cause,” “suit,” and the like have been omitted and the words “civil action” substituted in harmony with Rules 2 and 81(c) of the Federal Rules of Civil Procedure.
 
-Ambiguous phrases such as “the District Court of the United States for the proper district” have been clarified by the substitution of the phrase “the district and division embracing the place where such action is pending.” (See <i>General Investment Co. v. Lake Shore \& M.S. Ry. Co</i>., 1922, 43 S.Ct. 107, 112, 260 U.S. 261, 67 L.Ed. 244 and cases cited therein.)
+Ambiguous phrases such as “the District Court of the United States for the proper district” have been clarified by the substitution of the phrase “the district and division embracing the place where such action is pending.” (See <i>General Investment Co. v. Lake Shore \& M.S.</i><i>Ry. Co</i>., 1922, 43 S.Ct. 107, 112, 260 U.S. 261, 67 L.Ed. 244 and cases cited therein.)
 
 All the provisions with reference to removal of controversies between citizens of different States because of inability, from prejudice or local influence, to obtain justice, have been discarded. These provisions, born of the bitter sectional feelings engendered by the Civil War and the Reconstruction period, have no place in the jurisprudence of a nation since united by three wars against foreign powers. Indeed, the practice of removal for prejudice or local influence has not been employed much in recent years.
 
@@ -36,15 +54,21 @@ The provisions of section 71 of title 28, U.S.C., 1940 ed., with respect to remo
 
 #### Amendments
 
-<b>1991</b>—Subsec. (c). Pub. L. 102–198 struck out comma after “title” and substituted “may” for “may may” before “remand”.
+2002—Subsecs. (e), (f). Pub. L. 107–273 added subsec. (e), redesignated former subsec. (e) as (f), and substituted “The court to which a civil action is removed under this section” for “The court to which such civil action is removed”.
 
-<b>1990</b>—Subsec. (c). Pub. L. 101–650 substituted “within the jurisdiction conferred by section 1331 of this title” for “, which would be removable if sued upon alone” and “may remand all matters in which State law predominates” for “remand all matters not otherwise within its original jurisdiction”.
+1991—Subsec. (c). Pub. L. 102–198 struck out comma after “title” and substituted “may” for “may may” before “remand”.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–702 inserted at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
+1990—Subsec. (c). Pub. L. 101–650 substituted “within the jurisdiction conferred by section 1331 of this title” for “, which would be removable if sued upon alone” and “may remand all matters in which State law predominates” for “remand all matters not otherwise within its original jurisdiction”.
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–336 added subsec. (e).
+1988—Subsec. (a). Pub. L. 100–702 inserted at end “For purposes of removal under this chapter, the citizenship of defendants sued under fictitious names shall be disregarded.”
 
-<b>1976</b>—Subsec. (d). Pub. L. 94–583 added subsec. (d).
+1986—Subsec. (e). Pub. L. 99–336 added subsec. (e).
+
+1976—Subsec. (d). Pub. L. 94–583 added subsec. (d).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–273 applicable to a civil action if the accident giving rise to the cause of action occurred on or after the 90th day after Nov. 2, 2002, see section 11020(c) of Pub. L. 107–273, set out as an Effective Date note under section 1369 of this title.
 
 #### Effective Date of 1986 Amendment
 

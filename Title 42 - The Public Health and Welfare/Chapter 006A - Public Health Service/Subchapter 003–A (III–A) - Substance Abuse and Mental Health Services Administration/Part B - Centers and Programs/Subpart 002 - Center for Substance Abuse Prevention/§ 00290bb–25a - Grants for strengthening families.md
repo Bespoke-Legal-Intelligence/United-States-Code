@@ -44,7 +44,7 @@ An applicant that is awarded a grant under subsection (a) of this section shallâ
 
 &emsp;&emsp;(C) reduce family and community risks, such as family violence, alcohol or drug abuse, crime, and other behaviors that may effect healthy child development and increase the likelihood of substance abuse; and
 
-&emsp;&emsp;(D) build collaborative and formal partnerships between community agencies, institutions, and businesses to ensure that comprehensive high quality services are provided, such as early childhood education, healthcare, family support programs, parent education programs, and home visits for infants.
+&emsp;&emsp;(D) build collaborative and formal partnerships between community agencies, institutions, and businesses to ensure that comprehensive high quality services are provided, such as early childhood education, health care, family support programs, parent education programs, and home visits for infants.
 
 #### (e) Application
 

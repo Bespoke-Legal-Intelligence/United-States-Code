@@ -140,13 +140,13 @@ Economic Disaster Relief.—$30,000,000 is hereby appropriated to the Secretary 
 
 Pub. L. 105–277, div. A, §101(b) \[title VI, §617\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–115, as amended by Pub. L. 106–31, title III, §3025, May 21, 1999, 113 Stat. 100, provided that:
 
-“(a) None of the funds made available in this Act or any other Act hereafter enacted may be used to issue or renew a fishing permit or authorization for any fishing vessel of the United States greater than 165 feet in registered length, of more than 750 gross registered tons, or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower asspecified in the permit application required under part 648.4(a)(5) of title 50, Code of Federal Regulations, part 648.12 of title 50, Code of Federal Regulations, and the authorization required under part 648.80(d)(2) of title 50, Code of Federal Regulations, to engage in fishing for Atlantic mackerel or herring (or both) under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), unless the regional fishery management council of jurisdiction recommends after October 21, 1998, and the Secretary of Commerce approves, conservation and management measures in accordance with such Act to allow such vessel to engage in fishing for Atlantic mackerel or herring (or both).
+“(a) None of the funds made available in this Act or any other Act hereafter enacted may be used to issue or renew a fishing permit or authorization for any fishing vessel of the United States greater than 165 feet in registered length, of more than 750 gross registered tons, or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower as specified in the permit application required under part 648.4(a)(5) of title 50, Code of Federal Regulations, part 648.12 of title 50, Code of Federal Regulations, and the authorization required under part 648.80(d)(2) of title 50, Code of Federal Regulations, to engage in fishing for Atlantic mackerel or herring (or both) under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.), unless the regional fishery management council of jurisdiction recommends after October 21, 1998, and the Secretary of Commerce approves, conservation and management measures in accordance with such Act to allow such vessel to engage in fishing for Atlantic mackerel or herring (or both).
 
 “(b) Any fishing permit or authorization issued or renewed prior to the date of the enactment of this Act \[Oct. 21, 1998\] for a fishing vessel to which the prohibition in subsection (a) applies that would allow such vessel to engage in fishing for Atlantic mackerel or herring (or both) during fiscal year 1999 shall be null and void, and none of the funds made available in this Act \[see Tables for classification\] may be used to issue a fishing permit or authorization that would allow a vessel whose permit or authorization was made null and void pursuant to this subsection to engage in the catching, taking, or harvesting of fish in any other fishery within the exclusive economic zone of the United States.”
 
 #### Bering Sea Pollock Fishery
 
-Pub. L. 105–277, div. C, title II, subtitle II, Oct. 21, 1998, 112 Stat. 2681–621, as amended by Pub. L. 106–31, title III, §3027(a)(2)–(7), May 21, 1999, 113 Stat. 101; Pub. L. 107–20, title II, §2202(e)(1), July 24, 2001, 115 Stat. 170; Pub. L. 107–77, title II, §211, Nov. 28, 2001, 115 Stat. 779, provided that:
+Pub. L. 105–277, div. C, title II, subtitle II, Oct. 21, 1998, 112 Stat. 2681–621, as amended by Pub. L. 106–31, title III, §3027(a)(2)–(7), May 21, 1999, 113 Stat. 101; Pub. L. 107–20, title II, §2202(e)(1), July 24, 2001, 115 Stat. 170; Pub. L. 107–77, title II, §211, Nov. 28, 2001, 115 Stat. 779; Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884, provided that:
 
 #### “SEC. 205. DEFINITIONS.
 
@@ -222,7 +222,7 @@ Payments.—Subject to the availability of appropriations for the cost of the di
 
 &emsp;“(1) up to $90,000,000 to the owner or owners of the catcher/processors listed in paragraphs (1) through (9) of section 209, in such manner as the owner or owners, with the concurrence of the Secretary, agree, except that—
 
-&emsp;&emsp;“(A) the portion of such payment with respect to the catcher/processor listed in paragraph (1) of section 209 shall be made only after the owner submits a written certification acceptable to the Secretary that neither the owner nor a purchaser from the owner intends to use such catcher/processor outside of the exclusive economic zone of the United States to harvest any stock of fish (as such term is definedin section 3 of the Magnuson-Stevens Act (16 U.S.C. 1802)) that occurs within the exclusive economic zone of the United States; and
+&emsp;&emsp;“(A) the portion of such payment with respect to the catcher/processor listed in paragraph (1) of section 209 shall be made only after the owner submits a written certification acceptable to the Secretary that neither the owner nor a purchaser from the owner intends to use such catcher/processor outside of the exclusive economic zone of the United States to harvest any stock of fish (as such term is defined in section 3 of the Magnuson-Stevens Act (16 U.S.C. 1802)) that occurs within the exclusive economic zone of the United States; and
 
 &emsp;&emsp;“(B) the portion of such payment with respect to the catcher/processors listed in paragraphs (2) through (9) of section 209 shall be made only after the owner or owners of such catcher/processors submit a written certification acceptable to the Secretary that such catcher/processors will be scrapped by December 31, 2000 and will not, before that date, be used to harvest or process any fish; and
 
@@ -416,7 +416,7 @@ Replacement Vessels.—In the event of the actual total loss or constructive tot
 
 &emsp;“(3) the fishery endorsement for the replacement vessel is issued within 36 months of the end of the last year in which the eligible vessel harvested or processed pollock in the directed pollock fishery;
 
-&emsp;“(4) if the eligible vessel is greater than 165 feet in registered length, of more than 750 gross registered tons, or has engines capable of producing more than 3,000 shaft horsepower, the replacement vessel is of the same or lesser registered length, gross registered tons, and shaft horsepower;
+&emsp;“(4) if the eligible vessel is greater than 165 feet in registered length, of more than 750 gross registered tons (as measured under chapter 145 of title 46 \[United States Code\]) or 1,900 gross registered tons \[(\]as measured under chapter 143 of that title), or has engines capable of producing more than 3,000 shaft horsepower, the replacement vessel is of the same or lesser registered length, gross registered tons, and shaft horsepower;
 
 &emsp;“(5) if the eligible vessel is less than 165 feet in registered length, of fewer than 750 gross registered tons, and has engines incapable of producing less than 3,000 shaft horsepower, the replacement vessel is less than each of such thresholds and does not exceed by more than 10 percent the registered length, gross registered tons or shaft horsepower of the eligible vessel; and
 
@@ -430,7 +430,7 @@ Eligibility During Implementation.—In the event the Secretary is unable to mak
 
 Eligibility Not a Right.—Eligibility under this section shall not be construed—
 
-&emsp;“(1) to confer any right of compensation, monetary or otherwise, to the owner of any catcher vessel, catcher/processor, mothership, or shoreside processor if such eligibility is revoked or limited in any way,including through the revocation or limitation of a fishery endorsement or any federal permit or license;
+&emsp;“(1) to confer any right of compensation, monetary or otherwise, to the owner of any catcher vessel, catcher/processor, mothership, or shoreside processor if such eligibility is revoked or limited in any way, including through the revocation or limitation of a fishery endorsement or any federal permit or license;
 
 &emsp;“(2) to create any right, title, or interest in or to any fish in any fishery; or
 
@@ -504,7 +504,7 @@ Transfer of cooperative harvest.—A contract implementing a fishery cooperative
 
 “(c)
 
-Catcher Vessels to Catcher/Processors.—Effective January 1, 1999, not less than 8.5 percent of the directed fishing allowance under section 206(b)(2) shall be available for harvest only by the catcher vessels eligible under section 208(b). The owners of such catcher vessels may participate in a fishery cooperative with the owners of the catcher/processors eligible under paragraphs (1) through (20) of the section 208(e). The owners of such catcher vessels may participate in a fishery cooperative that will be in effect during 1999only if the contract implementing such cooperative establishes penalties to prevent such vessels from exceeding in 1999 the traditional levels harvested by such vessels in all other fisheries in the exclusive economic zone of the United States.
+Catcher Vessels to Catcher/Processors.—Effective January 1, 1999, not less than 8.5 percent of the directed fishing allowance under section 206(b)(2) shall be available for harvest only by the catcher vessels eligible under section 208(b). The owners of such catcher vessels may participate in a fishery cooperative with the owners of the catcher/processors eligible under paragraphs (1) through (20) of the section 208(e). The owners of such catcher vessels may participate in a fishery cooperative that will be in effect during 1999 only if the contract implementing such cooperative establishes penalties to prevent such vessels from exceeding in 1999 the traditional levels harvested by such vessels in all other fisheries in the exclusive economic zone of the United States.
 
 “(d)
 
@@ -636,7 +636,7 @@ Fisheries other than north pacific.—
 
 “(d)
 
-Bycatch Information.—Notwithstanding section 402 of the Magnuson-Stevens Act (16 U.S.C. 1881a), the North Pacific Council may recommend and the Secretary may approve, under such terms and conditions as the North Pacific Council and Secretary deem appropriate, the public disclosure of any information fromthe groundfish fisheries under the authority of such Council that would be beneficial in the implementation of section 301(a)(9) or section 303(a)(11) of the Magnuson-Stevens Act (16 U.S.C. 1851(a)(9) and 1853(a)(11)).
+Bycatch Information.—Notwithstanding section 402 of the Magnuson-Stevens Act (16 U.S.C. 1881a), the North Pacific Council may recommend and the Secretary may approve, under such terms and conditions as the North Pacific Council and Secretary deem appropriate, the public disclosure of any information from the groundfish fisheries under the authority of such Council that would be beneficial in the implementation of section 301(a)(9) or section 303(a)(11) of the Magnuson-Stevens Act (16 U.S.C. 1851(a)(9) and 1853(a)(11)).
 
 “(e)
 

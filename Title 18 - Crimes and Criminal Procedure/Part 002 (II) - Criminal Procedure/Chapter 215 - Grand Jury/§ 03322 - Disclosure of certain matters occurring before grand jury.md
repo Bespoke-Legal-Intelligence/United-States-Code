@@ -22,15 +22,17 @@
 
 &emsp;(1) the term “banking law violation” means a violation of, or a conspiracy to violate—
 
-&emsp;&emsp;(A) section 215, 656, 657, 1005, 1006, 1007, 1014, or 1344; or
+&emsp;&emsp;(A) section 215, 656, 657, 1005, 1006, 1007, 1014, 1344, 1956, or 1957;
 
-&emsp;&emsp;(B) section 1341 or 1343 affecting a financial institution;
+&emsp;&emsp;(B) section 1341 or 1343 affecting a financial institution; or
+
+&emsp;&emsp;(C) any provision of subchapter II of chapter 53 of title 31, United States Code;
 
 &emsp;(2) the term “attorney for the government” has the meaning given such term in the Federal Rules of Criminal Procedure; and
 
 &emsp;(3) the term “grand jury information” means matters occurring before a grand jury other than the deliberations of the grand jury or the vote of any grand juror.
 
-(Added Pub. L. 101–73, title IX, §964(a), Aug. 9, 1989, 103 Stat. 505; amended Pub. L. 106–102, title VII, §740, Nov. 12, 1999, 113 Stat. 1480; Pub. L. 106–185, §10, Apr. 25, 2000, 114 Stat. 217.)
+(Added Pub. L. 101–73, title IX, §964(a), Aug. 9, 1989, 103 Stat. 505; amended Pub. L. 106–102, title VII, §740, Nov. 12, 1999, 113 Stat. 1480; Pub. L. 106–185, §10, Apr. 25, 2000, 114 Stat. 217; Pub. L. 107–273, div. C, title I, §11002, Nov. 2, 2002, 116 Stat. 1816.)
 
 #### References in Text
 
@@ -40,9 +42,13 @@ The Federal Rules of Criminal Procedure, referred to in subsecs. (a)(2) and (d)(
 
 #### Prior Provisions
 
-A prior section 3322, act June 25, 1948, ch. 645, 62 Stat. 829, related to the summoning of and number of grand jurors, prior to repeal by Pub. L. 101–73, §964(a). See Rule 6(a) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
+A prior section 3322, act June 25, 1948, ch. 645, 62 Stat. 829, related to the summoning of and number of grandjurors, prior to repeal by Pub. L. 101–73, §964(a). See Rule 6(a) of the Federal Rules of Criminal Procedure, set out in the Appendix to this title.
 
 #### Amendments
+
+2002—Subsec. (d)(1)(A). Pub. L. 107–273, §11002(1), substituted “1344, 1956, or 1957;” for “or 1344; or”.
+
+Subsec. (d)(1)(C). Pub. L. 107–273, §11002(2), (3), added subpar. (C).
 
 2000—Subsec. (a). Pub. L. 106–185 struck out “concerning a banking law violation” after “grand jury information” in introductory provisions and substituted “any civil forfeiture provision of Federal law” for “civil forfeiture under section 981 of title 18, United States Code, of property described in section 981(a)(1)(C) of such title” in concluding provisions.
 

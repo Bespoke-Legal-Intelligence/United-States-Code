@@ -2,7 +2,7 @@
 
 #### (a) Conclusiveness of settlement
 
-Where, in connection with the settlement of any termination claim by a contracting agency,any war contractor makes settlements of the termination claims of his subcontractors, the contracting agency shall limit or omit its review of such settlements with subcontractors to the maximum extent compatible with the public interest. Any contracting agency (1) may approve, ratify, or authorize such settlements with subcontractors upon such evidence, terms, and conditions as it deems proper; (2) shall vary the scope and intensity of its review of such settlements according to the reliability of the war contractor, the size, number, and complexity of such claims, and other relevant factors; and (3) shall authorize war contractors to make such settlements with subcontractors without review by the contracting agency, whenever the reliability of the war contractor, the amount or nature of the claims, or other reasons appear to the contracting agency to justify such action. Any such settlement of a subcontract approved, ratified, or authorized by a contracting agency shall be final and conclusive as to the amount due to the same extent as a settlement under subsection (c) of section 106 of this title, and no war contractor shall be liable to the United States on account of any amounts paid thereon except for his own fraud.
+Where, in connection with the settlement of any termination claim by a contracting agency, any war contractor makes settlements of the termination claims of his subcontractors, the contracting agency shall limit or omit its review of such settlements with subcontractors to the maximum extent compatible with the public interest. Any contracting agency (1) may approve, ratify, or authorize such settlements with subcontractors upon such evidence, terms, and conditions as it deems proper; (2) shall vary the scope and intensity of its review of such settlements according to the reliability of the war contractor, the size, number, and complexity of such claims, and other relevant factors; and (3) shall authorize war contractors to make such settlements with subcontractors without review by the contracting agency, whenever the reliability of the war contractor, the amount or nature of the claims, or other reasons appear to the contracting agency to justify such action. Any such settlement of a subcontract approved, ratified, or authorized by a contracting agency shall be final and conclusive as to the amount due to the same extent as a settlement under subsection (c) of section 106 of this title, and no war contractor shall be liable to the United States on account of any amounts paid thereon except for his own fraud.
 
 #### (b) Supervision of payments to war contractors
 
@@ -28,13 +28,13 @@ If any contracting agency determines that in the circumstances of a particular c
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works.
+Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 “Secretary” substituted for “Director” by section 8 of Ex. Ord. No. 9809 and section 201 of Reorg. Plan No. 1 of 1947. Reorg. Plan No. 1 of 1947 is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date of Transfer of Functions
 
-Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605 of act June 30, 1949, set out as an Effective Date note under section 471 of Title 40, Public Buildings, Property, and Works.
+Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605, formerly section 505, of actJune 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Application to Terminated War Contracts
 

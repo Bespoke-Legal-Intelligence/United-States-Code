@@ -74,7 +74,7 @@ Ex. Ord. No. 11867, eff. June 19, 1975, 40 F.R. 26253, which delegated to Admini
 
 Ex. Ord. No. 11893, eff. Dec. 31, 1975, 41 F.R. 1040, provided:
 
-By virtue of the authority vested in me as President by the Constitution and Statutes of the United States, particularly by section 301 of title 3 of the United States Code, the Federal Property and Administrative Services Act of 1949, as amended, the Budget and Accounting Act, 1921, as amended, the Budget and Accounting Procedures Act of 1950, as amended, Reorganization Plan No. 2 of 1970 \[set out in the Appendix to Title 5, Government Organization and Employees\]; and section 5317 of title 5 of the United States Code, it is hereby ordered as follows:
+By virtue of the authority vested in me as President by the Constitution and Statutes of the United States,particularly by section 301 of title 3 of the United States Code, the Federal Property and Administrative Services Act of 1949, as amended, the Budget and Accounting Act, 1921, as amended, the Budget and Accounting Procedures Act of 1950, as amended, Reorganization Plan No. 2 of 1970 \[set out in the Appendix to Title 5, Government Organization and Employees\]; and section 5317 of title 5 of the United States Code, it is hereby ordered as follows:
 
 Section 1. There are hereby transferred to the Director of the Office of Management and Budget all policy functions that were transferred to the Administrator of General Services by Section 1 (1) of Executive Order No. 11717, dated May 9, 1973 \[set out as a note under section 501 of Title 31, Money and Finance\], and Executive Order No. 11867, dated June 19, 1975 \[formerly set out above\].
 

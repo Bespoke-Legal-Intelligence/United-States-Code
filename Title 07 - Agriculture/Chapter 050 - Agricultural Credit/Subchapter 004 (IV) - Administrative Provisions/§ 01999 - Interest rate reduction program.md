@@ -2,13 +2,7 @@
 
 #### (a) Establishment of program
 
-#### (1) In general
-
-&emsp;The Secretary shall establish and carry out in accordance with this section an interest rate reduction program for loans guaranteed under this chapter.
-
-#### (2) Termination of authority
-
-&emsp;The authority provided by this subsection shall terminate on September 30, 2002.
+The Secretary shall establish and carry out in accordance with this section an interest rate reduction program for loans guaranteed under this chapter.
 
 #### (b) Contracts with lenders
 
@@ -36,7 +30,25 @@ The term of a contract entered into under this section to reduce the interest ra
 
 (1) Notwithstanding any other provision of this chapter, the Agricultural Credit Insurance Fund established under section 1929 of this title may be used by the Secretary to carry out this section.
 
-(2) The total amount of funds used by the Secretary to carry out this section may not exceed $490,000,000.
+(2)
+
+Maximum amount of funds.—
+
+&emsp;(A)
+
+In general.—The total amount of funds used by the Secretary to carry out this section for a fiscal year shall not exceed $750,000,000.
+
+&emsp;(B)
+
+Beginning farmers and ranchers.—
+
+&emsp;&emsp;(i)
+
+In general.—The Secretary shall reserve not less than 15 percent of the funds used by the Secretary under subparagraph (A) to make payments for guaranteed loans made to beginning farmers and ranchers.
+
+&emsp;&emsp;(ii)
+
+Duration of reservation of funds.—Funds reserved for beginning farmers or ranchers under clause (i) for a fiscal year shall be reserved only until March 1 of the fiscal year.
 
 #### (f) List of lender participants in guaranteed loan program
 
@@ -46,13 +58,17 @@ The Secretary shall make available to farmers, on request, a list of lenders in 
 
 Notwithstanding any other provision of law, each contract of guarantee on a farm loan entered into under this chapter after January 6, 1988, shall contain a condition that the lender of the guaranteed loan may not initiate foreclosure action on the loan until 60 days after a determination is made with respect to the eligibility of the borrower thereof to participate in the program under this section.
 
-(Pub. L. 87–128, title III, §351, as added Pub. L. 99–198, title XIII, §1320, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, §613(b), (c), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, §1202(b)(1), (c), Nov. 5, 1990, 104 Stat. 1388–10, 1388–11; Pub. L. 104–105, title II, §220, Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–127, title VI, §643(a), Apr. 4, 1996, 110 Stat. 1102.)
+(Pub. L. 87–128, title III, §351, as added Pub. L. 99–198, title XIII, §1320, Dec. 23, 1985, 99 Stat. 1532; amended Pub. L. 100–233, title VI, §613(b), (c), Jan. 6, 1988, 101 Stat. 1674; Pub. L. 101–508, title I, §1202(b)(1), (c), Nov. 5, 1990, 104 Stat. 1388–10, 1388–11; Pub. L. 104–105, title II, §220, Feb. 10, 1996, 110 Stat. 184; Pub. L. 104–127, title VI, §643(a), Apr. 4, 1996, 110 Stat. 1102; Pub. L. 107–171, title V, §5313, May 13, 2002, 116 Stat. 347.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (a)(1), (e)(1), and (g), see note set out under section 1921 of this title.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171, §5313(1), struck out par. (1) designation and heading and struck out heading and text of par. (2). Text read as follows: “The authority provided by this subsection shall terminate on September 30, 2002.”
+
+Subsec. (e)(2). Pub. L. 107–171, §5313(2), added par. (2) and struck out former par. (2) which read as follows: “The total amount of funds used by the Secretary to carry out this section may not exceed $490,000,000.”
 
 1996—Subsec. (a). Pub. L. 104–105 inserted heading, designated existing provisions as par. (1) and inserted heading, and added par. (2).
 

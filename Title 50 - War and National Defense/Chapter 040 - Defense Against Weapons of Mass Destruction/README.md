@@ -72,6 +72,22 @@
 | (a) | Replacement program. |
 | (b) | Program requirements. |
 | (c) | Submission of program plan to Congress. |
+| [2342\.](Subchapter%20003%20%28III%29%20-%20Control%20and%20Disposition%20of%20Weapons%20of%20Mass%20Destruction%20and%20Related%20Materials%20Threatening%20the%20United%20States/%C2%A7%2002342%20-%20Cooperative%20program%20on%20research%2C%20development%2C%20and%20demonstration%20of%20technology%20regarding%20nuclear%20or%20radiological%20terrorism.md) | Cooperative program on research, development, and demonstration of technology regarding nuclear or radiological terrorism. |
+| (a) | Program required. |
+| (b) | Program elements. |
+| (c) | Consultation. |
+| (d) | Amount for activities. |
+| [2343\.](Subchapter%20003%20%28III%29%20-%20Control%20and%20Disposition%20of%20Weapons%20of%20Mass%20Destruction%20and%20Related%20Materials%20Threatening%20the%20United%20States/%C2%A7%2002343%20-%20Matters%20relating%20to%20the%20international%20materials%20protection%2C%20control%2C%20and%20accounting%20program%20of%20the%20Department%20of%20Energy.md) | Matters relating to the international materials protection, control, and accounting program of the Department of Energy. |
+| (a) | Radiological dispersal device materials protection, control, and accounting. |
+| (b) | Revised focus for materials protection, control, and accounting program of Russian Federation. |
+| (c) | Amount for activities. |
+| [2344\.](Subchapter%20003%20%28III%29%20-%20Control%20and%20Disposition%20of%20Weapons%20of%20Mass%20Destruction%20and%20Related%20Materials%20Threatening%20the%20United%20States/%C2%A7%2002344%20-%20Strengthened%20international%20security%20for%20nuclear%20materials%20and%20security%20of%20nuclear%20operations.md) | Strengthened international security for nuclear materials and security of nuclear operations. |
+| (a) | Report on options for international program to strengthen security. |
+| (b) | Joint programs with Russia on proliferation-resistant nuclear energy technologies. |
+| (c) | Assistance regarding hostile insiders. |
+| [2345\.](Subchapter%20003%20%28III%29%20-%20Control%20and%20Disposition%20of%20Weapons%20of%20Mass%20Destruction%20and%20Related%20Materials%20Threatening%20the%20United%20States/%C2%A7%2002345%20-%20Export%20control%20programs.md) | Export control programs. |
+| (a) | Authority to pursue options for strengthening export control programs. |
+| (b) | Amount for activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -95,6 +111,31 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER IV–A—NONPROLIFERATION ASSISTANCE COORDINATION
+
+|  |  |
+| :--- | ---: |
+| [2357\.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Nonproliferation%20Assistance%20Coordination/%C2%A7%2002357%20-%20Findings.md) | Findings. |
+| [2357a.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Nonproliferation%20Assistance%20Coordination/%C2%A7%2002357a%20-%20Definitions.md) | Definitions. |
+| (a) | Independent states of the former Soviet Union. |
+| (b) | Appropriate committees of Congress. |
+| [2357b.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Nonproliferation%20Assistance%20Coordination/%C2%A7%2002357b%20-%20Establishment%20of%20Committee%20on%20Nonproliferation%20Assistance.md) | Establishment of Committee on Nonproliferation Assistance. |
+| (a) | In general. |
+| (b) | Membership. |
+| (c) | Level of representation. |
+| (d) | Chair. |
+| [2357c.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Nonproliferation%20Assistance%20Coordination/%C2%A7%2002357c%20-%20Purposes%20and%20authority.md) | Purposes and authority. |
+| (a) | Purposes. |
+| (b) | Authority. |
+| [2357d.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Nonproliferation%20Assistance%20Coordination/%C2%A7%2002357d%20-%20Administrative%20support.md) | Administrative support. |
+| [2357e.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Nonproliferation%20Assistance%20Coordination/%C2%A7%2002357e%20-%20Confidentiality%20of%20information.md) | Confidentiality of information. |
+| [2357f.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Nonproliferation%20Assistance%20Coordination/%C2%A7%2002357f%20-%20Statutory%20construction.md) | Statutory construction. |
+| [2357g.](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Nonproliferation%20Assistance%20Coordination/%C2%A7%2002357g%20-%20Reporting%20and%20consultation.md) | Reporting and consultation. |
+| (a) | Presidential report. |
+| (b) | Consultation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER V—MISCELLANEOUS
 
 |  |  |
@@ -108,12 +149,25 @@
 | [2365\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2002365%20-%20Sense%20of%20Congress%20concerning%20purchase%2C%20packaging%2C%20and%20transportation%20of%20fissile%20materials%20at%20risk%20of%20theft.md) | Sense of Congress concerning purchase, packaging, and transportation of fissile materials at risk of theft. |
 | [2366\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2002366%20-%20Reports%20on%20acquisition%20of%20technology%20relating%20to%20weapons%20of%20mass%20destruction%20and%20advanced%20conventional%20munitions.md) | Reports on acquisition of technology relating to weapons of mass destruction and advanced conventional munitions. |
 | (a) | Reports. |
-| (b) | Form of reports. |
+| (b) | Submittal dates. |
+| (c) | Form of reports. |
 | [2367\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2002367%20-%20Annual%20report%20on%20threat%20posed%20to%20United%20States%20by%20weapons%20of%20mass%20destruction%2C%20ballistic%20missiles%2C%20and%20cruise%20missiles.md) | Annual report on threat posed to United States by weapons of mass destruction, ballistic missiles, and cruise missiles. |
 | (a) | Annual report. |
 | (b) | Consultation. |
 | (c) | Matters to be included. |
 | (d) | Classification. |
+| [2368\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2002368%20-%20Annual%20reports%20on%20the%20proliferation%20of%20missiles%20and%20essential%20components%20of%20nuclear%2C%20biological%2C%20chemical%2C%20and%20radiological%20weapons.md) | Annual reports on the proliferation of missiles and essential components of nuclear, biological, chemical, and radiological weapons. |
+| (a) | Report. |
+| (b) | Matters to be included. |
+| (c) | Content of report. |
+| (d) | Exclusions. |
+| (e) | Classification of report. |
+| (f) | Definitions. |
+| [2369\.](Subchapter%20005%20%28V%29%20-%20Miscellaneous/%C2%A7%2002369%20-%20Semiannual%20report%20on%20contributions%20of%20foreign%20persons%20to%20weapons%20of%20mass%20destruction%20and%20delivery%20systems%20efforts%20of%20countries%20of%E2%80%A6.md) | Semiannual report on contributions of foreign persons to weapons of mass destruction and delivery systems efforts of countries of proliferation concern. |
+| (a) | Reports. |
+| (b) | Period of semiannual reports. |
+| (c) | Form of reports. |
+| (d) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -128,4 +182,5 @@
 - [Subchapter 002 (II) - Interdiction of Weapons of Mass Destruction and Related Materials](Subchapter%20002%20%28II%29%20-%20Interdiction%20of%20Weapons%20of%20Mass%20Destruction%20and%20Related%20Materials/README.md)
 - [Subchapter 003 (III) - Control and Disposition of Weapons of Mass Destruction and Related Materials Threatening the United States](Subchapter%20003%20%28III%29%20-%20Control%20and%20Disposition%20of%20Weapons%20of%20Mass%20Destruction%20and%20Related%20Materials%20Threatening%20the%20United%20States/README.md)
 - [Subchapter 004 (IV) - Coordination of Policy and Countermeasures Against Proliferation of Weapons of Mass Destruction](Subchapter%20004%20%28IV%29%20-%20Coordination%20of%20Policy%20and%20Countermeasures%20Against%20Proliferation%20of%20Weapons%20of%20Mass%20Destruction/README.md)
+- [Subchapter 004&#8211;A (IV&#8211;A) - Nonproliferation Assistance Coordination](Subchapter%20004%E2%80%93A%20%28IV%E2%80%93A%29%20-%20Nonproliferation%20Assistance%20Coordination/README.md)
 - [Subchapter 005 (V) - Miscellaneous](Subchapter%20005%20%28V%29%20-%20Miscellaneous/README.md)

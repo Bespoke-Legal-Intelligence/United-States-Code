@@ -12,8 +12,6 @@ Section 7c–1, act May 14, 1935, ch. 110, 49 Stat. 234; Ex. Ord. No. 6166, §1,
 
 Section 7d, act Feb. 27, 1929, ch. 354, §4, 45 Stat. 1342, related to Secretary of Treasury's authority to prescribe regulations.
 
-For similar subject matter, see section 201 et seq. of this title and sections 471 et seq. and 751 et seq. of Title 40, Public Buildings, Property, and Works.
-
 #### Effective Date of Repeal
 
 Repeal effective July 1, 1949, see section 605 of act June 30, 1949.

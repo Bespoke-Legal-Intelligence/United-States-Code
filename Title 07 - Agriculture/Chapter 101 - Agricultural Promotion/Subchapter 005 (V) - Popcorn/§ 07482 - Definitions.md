@@ -54,7 +54,7 @@ In this subchapter (unless the context otherwise requires):
 
 #### (11) Processor
 
-&emsp;The term “processor” means a person engaged in the preparation of unpopped popcornfor the market who owns or shares the ownership and risk of loss of the popcorn and who processes and distributes over 4,000,000 pounds of popcorn in the market per year.
+&emsp;The term “processor” means a person engaged in the preparation of unpopped popcorn for the market who owns or shares the ownership and risk of loss of the popcorn and who processes and distributes over 4,000,000 pounds of popcorn in the market per year.
 
 #### (12) Promotion
 

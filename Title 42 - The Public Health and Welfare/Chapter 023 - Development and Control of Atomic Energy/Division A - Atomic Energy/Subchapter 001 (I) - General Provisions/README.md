@@ -10,6 +10,7 @@
 - [&sect; 02013 - Purpose of chapter](%C2%A7%2002013%20-%20Purpose%20of%20chapter.md)
 - [&sect; 02014 - Definitions](%C2%A7%2002014%20-%20Definitions.md)
 - [&sect; 02015 - Transfer of property](%C2%A7%2002015%20-%20Transfer%20of%20property.md)
+- [&sect; 02015a - Cold standby](%C2%A7%2002015a%20-%20Cold%20standby.md)
 - [&sect; 02016 - Repealed. Pub. L. 105&#8211;85, div. C, title XXXI, &sect;3152(a)(1), Nov. 18, 1997, 111 Stat. 2042](%C2%A7%2002016%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73152%28a%29%281%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%202042.md)
 - [&sect; 02017 - Authorization of appropriations](%C2%A7%2002017%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 02017a - Omitted](%C2%A7%2002017a%20-%20Omitted.md)

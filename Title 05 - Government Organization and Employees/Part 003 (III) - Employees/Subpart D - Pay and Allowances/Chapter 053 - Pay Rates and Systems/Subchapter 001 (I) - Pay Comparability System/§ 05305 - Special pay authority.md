@@ -84,9 +84,9 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(a)\], Dec. 21, 2000, 114 
 
 &emsp;“(1) no existing special salary rates shall be authorized for members of the United States Park Police under section 5305 of title 5, United States Code (or any previous similar provision of law); and
 
-&emsp;“(2) no special rates of pay or special pay adjustments shall be applicable to members of the United States Park Police pursuant to section 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[section 529 \[title IV, §405\] of Pub. L. 101–509, set out in a note below\].”
+&emsp;“(2) no special rates of pay or special pay adjustments shall be applicable to members of the UnitedStates Park Police pursuant to section 405 of the Federal Law Enforcement Pay Reform Act of 1990 \[section 529 \[title IV, §405\] of Pub. L. 101–509, set out in a note below\].”
 
-Section 529 \[title IV, §§401–407\] of Pub. L. 101–509, as amended by Pub. L. 102–378, §3(5)–(9), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–123, title VI, §628, Oct. 28, 1993, 107 Stat. 1266; Pub. L. 103–178, title III, §303(a), Dec. 3, 1993, 107 Stat. 2034; Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288; Pub. L. 106–554, §1(a)(4) \[div. B,title IX, §907(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–309, provided that:
+Section 529 \[title IV, §§401–407\] of Pub. L. 101–509, as amended by Pub. L. 102–378, §3(5)–(9), Oct. 2, 1992, 106 Stat. 1356; Pub. L. 103–123, title VI, §628, Oct. 28, 1993, 107 Stat. 1266; Pub. L. 103–178, title III, §303(a), Dec. 3, 1993, 107 Stat. 2034; Pub. L. 105–61, title I, §118(e), Oct. 10, 1997, 111 Stat. 1288; Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §907(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–309, provided that:
 
 #### “SEC. 401. SHORT TITLE.
 
@@ -221,7 +221,7 @@ Step 2
 
 #### “SEC. 406. FBI NEW YORK FIELD DIVISION.
 
-“(a) The total pay of an employee of the Federal Bureau of Investigation assigned to the New York FieldDivision before the date of September 29, 1993, in a position covered by the demonstration project conducted under section 601 of the Intelligence Authorization Act for Fiscal Year 1989 (Public Law 100–453) \[102 Stat. 1911\] shall not be reduced as a result of the termination of the demonstration project during the period that employee remains employed after that date in a position covered by the demonstration project.
+“(a) The total pay of an employee of the Federal Bureau of Investigation assigned to the New York Field Division before the date of September 29, 1993, in a position covered by the demonstration project conducted under section 601 of the Intelligence Authorization Act for Fiscal Year 1989 (Public Law 100–453) \[102 Stat. 1911\] shall not be reduced as a result of the termination of the demonstration project during the period that employee remains employed after that date in a position covered by the demonstration project.
 
 “(b) Beginning on September 30, 1993, any periodic payment under section 601(a)(2) of the Intelligence Authorization Act for Fiscal Year 1989 \[Pub. L. 100–453, 102 Stat. 1911\] for any such employee shall be reduced by the amount of any increase in basic pay under title 5, United States Code, including the following provisions: an annual adjustment under section 5303, locality-based comparability payment under section 5304, initiation or increase in a special pay rate under section 5305, promotion under section 5334, periodic step increase under section 5335, merit increase under section 5404, or other increase to basic pay under any provision of law.
 
@@ -239,5 +239,5 @@ Section 529 \[title IV, §412\] of Pub. L. 101–509 provided that: “Not later
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3326, 5363, 5542, 5543, 5545, 5547 of this title; title 18 section 3006A; title 21 section 848; title 31 section 325; title 38 section 7451.
+This section is referred to in sections 3326, 5363, 5542, 5543, 5545, 5547 of this title; title 18 section 3006A; title 21 section 848; title 31 section 325; title 49 section 1113.
 

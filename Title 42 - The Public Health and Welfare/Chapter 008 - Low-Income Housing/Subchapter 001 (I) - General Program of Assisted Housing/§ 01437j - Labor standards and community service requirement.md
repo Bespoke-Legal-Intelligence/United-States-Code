@@ -2,7 +2,7 @@
 
 #### (a) Payment of wages prevailing in locality
 
-Any contract for loans, contributions, sale, or lease pursuant to this chapter shall contain a provision requiring that not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, and technicians employed in the development, and all maintenance laborers and mechanics employed in the operation, of the low-income housing project involved; and shall also contain a provision that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to the Davis-Bacon Act \[40 U.S.C. 276a et seq.\], shall be paid to all laborers and mechanics employed in the development of the project involved (including a project with nine or more units assisted under section 1437f of this title, where the public housing agency or the Secretary and the builder or sponsor enter into agreement for such use before construction or rehabilitation is commenced), and the Secretary shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
+Any contract for loans, contributions, sale, or lease pursuant to this chapter shall contain a provision requiring that not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, and technicians employed in the development, and all maintenance laborers and mechanics employed in the operation, of the low-income housing project involved; and shall also contain a provision that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40, shall be paid to all laborers and mechanics employed in the development of the project involved (including a project with nine or more units assisted under section 1437f of this title, where the public housing agency or the Secretary and the builder or sponsor enter into agreement for such use before construction or rehabilitation is commenced), and the Secretary shall require certification as to compliance with the provisions of this section prior to making any payment under such contract.
 
 #### (b) Exception for volunteers
 
@@ -20,7 +20,7 @@ Subsection (a) of this section and the provisions relating to wages (pursuant to
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, eachadult resident of a public housing project shall—
+&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, each adult resident of a public housing project shall—
 
 &emsp;&emsp;(A) contribute 8 hours per month of community service (not including political activities) within the community in which that adult resides; or
 
@@ -150,11 +150,13 @@ For purposes of this section, the term “economic self-sufficiency program” m
 
 #### References in Text
 
-The Davis-Bacon Act, referred to in subsec. (a), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 The Social Security Act, referred to in subsec. (c)(2)(D), (E), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 Subsection (k), referred to in subsec. (c)(3)(C)(i)(II), probably means section 1437d(k) of this title, which relates to administrative grievance procedures. This section does not contain a subsec. (k).
+
+#### Codification
+
+In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act (49 Stat. 1011)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 

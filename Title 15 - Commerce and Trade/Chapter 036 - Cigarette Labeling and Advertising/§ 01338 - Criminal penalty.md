@@ -2,7 +2,7 @@
 
 Any person who violates the provisions of this chapter shall be guilty of a misdemeanor and shall on conviction thereof be subject to a fine of not more than $10,000.
 
-(Pub. L. 89–92, §10, formerly §9, July 27, 1965, 79 Stat. 284; Pub. L. 91–222, §2, Apr. 1, 1970, 84 Stat.89; renumbered §10, Pub. L. 98–474, §5(a), Oct. 12, 1984, 98 Stat. 2203.)
+(Pub. L. 89–92, §10, formerly §9, July 27, 1965, 79 Stat. 284; Pub. L. 91–222, §2, Apr. 1, 1970, 84 Stat. 89; renumbered §10, Pub. L. 98–474, §5(a), Oct. 12, 1984, 98 Stat. 2203.)
 
 #### Prior Provisions
 

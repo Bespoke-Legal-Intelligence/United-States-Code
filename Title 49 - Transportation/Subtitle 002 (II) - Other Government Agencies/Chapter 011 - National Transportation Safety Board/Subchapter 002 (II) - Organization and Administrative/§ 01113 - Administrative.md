@@ -154,9 +154,9 @@ Jan. 3, 1975, Pub. L. 93–633, §304(b)(12), 88 Stat. 2171; July 19, 1988, Pub.
 
 In subsection (a)(1), the words “sit and act at such times and places” are omitted as unnecessary. The word “necessary” is substituted for “as the Board or such officer or employee deems advisable” because it is more accurate.
 
-In subsection (a)(2), the words “the witness would have been” are added for clarity and consistency in the revised title and with other titles of the United States Code.
+In subsection (a)(2), the words “the witness would have been” are added for clarity and consistency in therevised title and with other titles of the United States Code.
 
-In subsection (a)(4), the words “If a person disobeys” are substituted for “In case of contumacy or refusal to obey” for consistency in the revised title and with other titles of the Code. The words “of the Board” are substituted for “of the Board, or of any duly designated employee thereof” to eliminate unnecessary words. The words “the Board may bring a civil action in a district court of the United States” are substituted for “such district court shall, upon the request of the Board, have jurisdiction” for consistency in the revised title and because of 28:1331. The word “forthwith” is omitted assurplus. The words “An action under this paragraph may be brought in the judicial district” are added for clarity.
+In subsection (a)(4), the words “If a person disobeys” are substituted for “In case of contumacy or refusal to obey” for consistency in the revised title and with other titles of the Code. The words “of the Board” are substituted for “of the Board, or of any duly designated employee thereof” to eliminate unnecessary words. The words “the Board may bring a civil action in a district court of the United States” are substituted for “such district court shall, upon the request of the Board, have jurisdiction” for consistency in the revised title and because of 28:1331. The word “forthwith” is omitted as surplus. The words “An action under this paragraph may be brought in the judicial district” are added for clarity.
 
 In subsection (b)(1)(A), the text of 49 App.:1441(b) (words before semicolon) is omitted as superseded by 49 App.:1903(b)(6)(C).
 

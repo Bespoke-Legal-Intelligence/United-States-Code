@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1961, 1963, 1964, 1981b, 1983, 1983a, 1985, 1994, 2000, 2003 of this title.
+This subchapter is referred to in sections 1961, 1963, 1964, 1981b, 1983, 1983a, 1985, 1994, 2000, 2003, 2008<i>l</i> of this title.
 
 
 ---
@@ -15,10 +15,11 @@ This subchapter is referred to in sections 1961, 1963, 1964, 1981b, 1983, 1983a,
 - [&sect; 01925 - Limitations on amount of farm ownership loans](%C2%A7%2001925%20-%20Limitations%20on%20amount%20of%20farm%20ownership%20loans.md)
 - [&sect; 01926 - Water and waste facility loans and grants](%C2%A7%2001926%20-%20Water%20and%20waste%20facility%20loans%20and%20grants.md)
 - [&sect; 01926&#8211;1 - Repealed. Pub. L. 104&#8211;127, title VII, &sect;702, Apr. 4, 1996, 110 Stat. 1108](%C2%A7%2001926%E2%80%931%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7702%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201108.md)
-- [&sect; 01926a - Emergency community water assistance grant program](%C2%A7%2001926a%20-%20Emergency%20community%20water%20assistance%20grant%20program.md)
+- [&sect; 01926a - Emergency and imminent community water assistance grant program](%C2%A7%2001926a%20-%20Emergency%20and%20imminent%20community%20water%20assistance%20grant%20program.md)
 - [&sect; 01926b - Repealed. Pub. L. 104&#8211;127, title VII, &sect;743, Apr. 4, 1996, 110 Stat. 1125](%C2%A7%2001926b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7743%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201125.md)
 - [&sect; 01926c - Water and waste facility loans and grants to alleviate health risks](%C2%A7%2001926c%20-%20Water%20and%20waste%20facility%20loans%20and%20grants%20to%20alleviate%20health%20risks.md)
 - [&sect; 01926d - Water systems for rural and Native villages in Alaska](%C2%A7%2001926d%20-%20Water%20systems%20for%20rural%20and%20Native%20villages%20in%20Alaska.md)
+- [&sect; 01926e - Grants to nonprofit organizations to finance the construction, refurbishing, and servicing of individually-owned household water well&#8230;](%C2%A7%2001926e%20-%20Grants%20to%20nonprofit%20organizations%20to%20finance%20the%20construction%2C%20refurbishing%2C%20and%20servicing%20of%20individually-owned%20household%20water%20well%E2%80%A6.md)
 - [&sect; 01927 - Repayment requirements](%C2%A7%2001927%20-%20Repayment%20requirements.md)
 - [&sect; 01927a - Loan interest rates charged by Farmers Home Administration; grant funds associated with loans](%C2%A7%2001927a%20-%20Loan%20interest%20rates%20charged%20by%20Farmers%20Home%20Administration%3B%20grant%20funds%20associated%20with%20loans.md)
 - [&sect; 01928 - Full faith and credit](%C2%A7%2001928%20-%20Full%20faith%20and%20credit.md)
@@ -32,4 +33,5 @@ This subchapter is referred to in sections 1961, 1963, 1964, 1981b, 1983, 1983a,
 - [&sect; 01933 - Guaranteed rural housing loans; Hawaiian home lands](%C2%A7%2001933%20-%20Guaranteed%20rural%20housing%20loans%3B%20Hawaiian%20home%20lands.md)
 - [&sect; 01934 - Low-income farm ownership loan program; eligibility; repayment requirements](%C2%A7%2001934%20-%20Low-income%20farm%20ownership%20loan%20program%3B%20eligibility%3B%20repayment%20requirements.md)
 - [&sect; 01935 - Down payment loan program](%C2%A7%2001935%20-%20Down%20payment%20loan%20program.md)
-- [&sect; 01936 - Repealed. Pub. L. 104&#8211;127, title VI, &sect;616(b), Apr. 4, 1996, 110 Stat. 1090](%C2%A7%2001936%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VI%2C%20%C2%A7616%28b%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201090.md)
+- [&sect; 01936 - Beginning farmer and rancher contract land sales program](%C2%A7%2001936%20-%20Beginning%20farmer%20and%20rancher%20contract%20land%20sales%20program.md)
+- [&sect; 01936a - Use of rural development loans and grants for other purposes](%C2%A7%2001936a%20-%20Use%20of%20rural%20development%20loans%20and%20grants%20for%20other%20purposes.md)

@@ -7,6 +7,9 @@
 | [1223\.](%C2%A7%2001223%20-%20Limitations.md) | Limitations. |
 | [1224\.](%C2%A7%2001224%20-%20Antitrust%20laws%20as%20affected.md) | Antitrust laws as affected. |
 | [1225\.](%C2%A7%2001225%20-%20State%20laws%20as%20affected.md) | State laws as affected. |
+| [1226\.](%C2%A7%2001226%20-%20Motor%20vehicle%20franchise%20contract%20dispute%20resolution%20process.md) | Motor vehicle franchise contract dispute resolution process. |
+| (a) | Election of arbitration. |
+| (b) | Application. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -20,3 +23,4 @@
 - [&sect; 01223 - Limitations](%C2%A7%2001223%20-%20Limitations.md)
 - [&sect; 01224 - Antitrust laws as affected](%C2%A7%2001224%20-%20Antitrust%20laws%20as%20affected.md)
 - [&sect; 01225 - State laws as affected](%C2%A7%2001225%20-%20State%20laws%20as%20affected.md)
+- [&sect; 01226 - Motor vehicle franchise contract dispute resolution process](%C2%A7%2001226%20-%20Motor%20vehicle%20franchise%20contract%20dispute%20resolution%20process.md)

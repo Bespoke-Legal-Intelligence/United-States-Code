@@ -12,7 +12,7 @@
 
 &emsp;(B) In the case of contaminants for which a treatment technique is established in a national primary drinking water regulation under section 1412 of the Safe Drinking Water Act (42 U.S.C. 300g–1), the regulation under this subsection shall require that bottled water be subject to requirements no less protective of the public health than those applicable to water provided by public water systems using the treatment technique required by the national primary drinking water regulation.
 
-(4)(A) If the Secretary does not promulgate a regulation under this subsection within the period described in paragraph (1), the national primary drinking water regulation referred to in paragraph (1) shall be considered, as of the date on which the Secretary is required to establisha regulation under paragraph (1), as the regulation applicable under this subsection to bottled water.
+(4)(A) If the Secretary does not promulgate a regulation under this subsection within the period described in paragraph (1), the national primary drinking water regulation referred to in paragraph (1) shall be considered, as of the date on which the Secretary is required to establish a regulation under paragraph (1), as the regulation applicable under this subsection to bottled water.
 
 (B) In the case of a national primary drinking water regulation that pursuant to subparagraph (A) is considered to be a standard of quality regulation, the Secretary shall, not later than the applicable date referred to in such subparagraph, publish in the Federal Register a notice—
 

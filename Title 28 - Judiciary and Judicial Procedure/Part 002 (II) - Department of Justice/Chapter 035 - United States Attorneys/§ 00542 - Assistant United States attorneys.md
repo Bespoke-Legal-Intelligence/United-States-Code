@@ -52,5 +52,5 @@ Changes were made in phraseology.
 
 #### Prior Provisions
 
-A prior section 542, act June 25, 1948, ch. 646, 62 Stat. 911, related to appointment and tenure of deputies andassistants for United States marshals, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 562 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 542, act June 25, 1948, ch. 646, 62 Stat. 911, related to appointment and tenure of deputies and assistants for United States marshals, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 562 of this title by section 4(c) of Pub. L. 89–554.
 

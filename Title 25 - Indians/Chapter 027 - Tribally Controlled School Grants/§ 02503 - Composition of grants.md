@@ -4,7 +4,7 @@
 
 The grant provided under this chapter to an Indian tribe or tribal organization for any fiscal year shall consist of—
 
-&emsp;(1) the total amount of funds allocated for such fiscal year under sections 1127 and 1128 ofthe Education Amendments of 1978 \[25 U.S.C. 2007, 2008\] with respect to the tribally controlled schools eligible for assistance under this chapter which are operated by such Indian tribe or tribal organization, including, but not limited to, funds provided under such sections, or under any other provision of law, for transportation costs;
+&emsp;(1) the total amount of funds allocated for such fiscal year under sections 1127 and 1128 of the Education Amendments of 1978 \[25 U.S.C. 2007, 2008\] with respect to the tribally controlled schools eligible for assistance under this chapter which are operated by such Indian tribe or tribal organization, including, but not limited to, funds provided under such sections, or under any other provision of law, for transportation costs;
 
 &emsp;(2) to the extent requested by such Indian tribe or tribal organization, the total amount of funds provided from operations and maintenance accounts and, notwithstanding section 450j of this title, or any other provision of law, other facilities accounts for such schools for such fiscal year (including but not limited to those referenced under section 1126(d) of the Education Amendments of 1978 \[25 U.S.C. 2006(d)\] or any other law); and
 
@@ -80,7 +80,7 @@ The grant provided under this chapter to an Indian tribe or tribal organization 
 
 #### (iii) Applications
 
-&emsp;&emsp;&emsp;In considering applications for a grant described in clause (i), the Secretary shallconsider whether the Indian tribe or tribal organization involved would be deficient in ensuring that the construction projects under the proposed grant conform to applicable building standards and codes and Federal, tribal, or State health and safety standards as required under section 1124 of the Education Amendments of 1978 (25 U.S.C. 2005(a)) <sup>3</sup> with respect to organizational and financial management capabilities.
+&emsp;&emsp;&emsp;In considering applications for a grant described in clause (i), the Secretary shall consider whether the Indian tribe or tribal organization involved would be deficient in ensuring that the construction projects under the proposed grant conform to applicable building standards and codes and Federal, tribal, or State health and safety standards as required under section 1124 of the Education Amendments of 1978 (25 U.S.C. 2005(a)) <sup>3</sup> with respect to organizational and financial management capabilities.
 
 #### (iv) Disputes
 

@@ -14,7 +14,7 @@ Changes were made in arrangement and phraseology.
 
 #### Amendments
 
-<b>1980</b>—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
+1980—Pub. L. 96–417 inserted exception for matters within the jurisdiction of the Court of International Trade under section 1582 of this title.
 
 #### Effective Date of 1980 Amendment
 

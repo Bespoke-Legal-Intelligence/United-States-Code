@@ -18,13 +18,13 @@ It shall be unlawful for the owner or operator of any source liable for a penalt
 
 #### (e) Savings provision
 
-Nothing in this subchapter shall limit or otherwise affect the application of section 7413, 7414, 7420, or 7604 of this title except as otherwise explicitly provided in this subchapter.
+Nothing in this subchapter shall limit or otherwise affect the application of section 7413,7414, 7420, or 7604 of this title except as otherwise explicitly provided in this subchapter.
 
 (July 14, 1955, ch. 360, title IV, §411, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2623.)
 
 #### References in Text
 
-The Miscellaneous Receipts Act, referred to in subsec. (a), is not a recognized popular name for an act.For provisions relating to deposit of monies, see section 3302 of Title 31, Money and Finance.
+The Miscellaneous Receipts Act, referred to in subsec. (a), is not a recognized popular name for an act. For provisions relating to deposit of monies, see section 3302 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

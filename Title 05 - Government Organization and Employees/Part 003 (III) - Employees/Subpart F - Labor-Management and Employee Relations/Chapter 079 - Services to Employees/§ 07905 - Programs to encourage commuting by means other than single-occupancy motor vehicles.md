@@ -2,7 +2,7 @@
 
 (a) For the purpose of this section—
 
-&emsp;(1) the term “employee” means an employee as defined by section 2105 and a member of a uniformed service;
+&emsp;(1) the term “employee” means an employee as defined by section 2105, a member of a uniformed service, and a student who provides voluntary services under section 3111;
 
 &emsp;(2) the term “agency” means—
 
@@ -52,15 +52,27 @@
 
 &emsp;&emsp;(E) any other matter which may be appropriate.
 
-(Added Pub. L. 103–172, §2(a), Dec. 2, 1993, 107 Stat. 1995.)
+(Added Pub. L. 103–172, §2(a), Dec. 2, 1993, 107 Stat. 1995; amended Pub. L. 107–296, title XIII, §1314(a), Nov. 25, 2002, 116 Stat. 2296.)
 
 #### References in Text
 
 Section 132(f)(5) of the Internal Revenue Code of 1986, referred to in subsec. (a)(4), is classified to section 132(f)(5) of Title 26, Internal Revenue Code.
 
+#### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–296 substituted “, a member of a uniformed service, and a student who provides voluntary services under section 3111” for “and a member of a uniformed service”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date
 
 Section 3 of Pub. L. 103–172 provided that: “This Act \[enacting this section and provisions set out as notes under this section and section 7901 of this title\] and the amendments made by this Act shall take effect on January 1, 1994.”
+
+#### Transportation Subsidy for Employees of the Senate
+
+Pub. L. 107–68, title I, §112, Nov. 12, 2001, 115 Stat. 569, authorized an employing office of an employee of the Senate to provide a monthly transportation subsidy to such employee up to the maximum monthly amount authorized under section 132(f)(2)(A) of Title 26, Internal Revenue Code.
 
 #### Transit Subsidies; Appropriations
 
@@ -78,7 +90,7 @@ Section 1(b) of Pub. L. 103–172 provided that: “The purpose of this Act \[en
 
 Ex. Ord. No. 13150, Apr. 21, 2000, 65 F.R. 24613, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Transportation Equity Act for the 21st Century (Public Law 105–178) \[see Tables for classification\], section 1911 of the Energy Policy Act of1992 (Public Law 102–486) \[amending section 132 of Title 26, Internal Revenue Code\], section 531(a)(1) of the Deficit Reduction Act of 1984 (26 U.S.C. 132), and the Federal Employees Clean Air Incentives Act (Public Law 103–172) \[enacting this section and provisions set out as notes above\], and in order to reduce Federal employees’ contribution to traffic congestion and air pollution and to expand their commuting alternatives, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Transportation Equity Act for the 21st Century (Public Law 105–178) \[see Tables for classification\], section 1911 of the Energy Policy Act of 1992 (Public Law 102–486) \[amending section 132 of Title 26, Internal Revenue Code\], section 531(a)(1) of the Deficit Reduction Act of 1984 (26 U.S.C. 132), and the Federal Employees Clean Air Incentives Act (Public Law 103–172) \[enacting this section and provisions set out as notes above\], and in order to reduce Federal employees’ contribution to traffic congestion and air pollution and to expand their commuting alternatives, it is hereby ordered as follows:
 
 Section 1. <i>Mass Transportation and Vanpool Transportation Fringe Benefit Program</i>. (a) By no later than October 1, 2000, Federal agencies shall implement a transportation fringe benefit program that offers qualified Federal employees the option to exclude from taxable wages and compensation, consistent with section 132 of title 26, United States Code, employee commuting costs incurred through the use of mass transportation and vanpools, not to exceed the maximum level allowed by law (26 U.S.C. 132 (f)(2)). These agency programs shall comply with the requirements of Internal Revenue Service regulations for qualified transportation fringe benefits under section 1.132–9 of title 26, Code of Federal Regulations, and other guidance.
 
@@ -93,4 +105,8 @@ Sec. 4. <i>Guidance</i>. Federal agencies shall develop plans to implement this 
 Sec. 5. <i>Judicial Review</i>. This order is not intended to and does not create any right or benefit, substantive or procedural, enforceable at law by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3111 of this title; title 10 section 2259.
 

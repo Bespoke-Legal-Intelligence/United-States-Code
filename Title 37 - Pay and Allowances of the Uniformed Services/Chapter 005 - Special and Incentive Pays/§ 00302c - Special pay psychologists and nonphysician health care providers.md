@@ -86,6 +86,10 @@ Section 1073(c) of Pub. L. 105–85 provided that the amendment made by that sec
 
 Section 2(c) of Pub. L. 100–140 provided that: “The amendments made by this section \[enacting this section and amending section 303a of this title\] shall take effect on October 1, 1987 or on the date of the enactment of this Act \[Oct. 26, 1987\], whichever is later, and shall apply with respect to pay periods beginning on or after that effective date.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Implementation of Subsection (d)
 
 Section 618(b) of Pub. L. 101–510 provided that: “The Secretary of Defense may not implement subsection (d) of section 302c of title 37, United States Code (as added by subsection (a)), unless the Secretary submits to the Committees on Armed Services of the Senate and House of Representatives a report—

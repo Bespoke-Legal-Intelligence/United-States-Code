@@ -48,11 +48,11 @@ A prior section 2636, acts June 25, 1948, ch. 646, 62 Stat. 981; June 2, 1970, P
 
 #### Amendments
 
-<b>1993</b>—Subsecs. (h), (i). Pub. L. 103–182 added subsec. (h) and redesignated former subsec. (h) as (i).
+1993—Subsecs. (h), (i). Pub. L. 103–182 added subsec. (h) and redesignated former subsec. (h) as (i).
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–573, §623(b)(1)(A), amended subsec. (c) generally, striking out “, other than a determination under section 703(b), 703(c), 733(b), or 733(c) of such Act,” and substituting “within the time specified in such section” for “within thirty days after the date of the publication of such determination in the Federal Register”.
+1984—Subsec. (c). Pub. L. 98–573, §623(b)(1)(A), amended subsec. (c) generally, striking out “, other than a determination under section 703(b), 703(c), 733(b), or 733(c) of such Act,” and substituting “within the time specified in such section” for “within thirty days after the date of the publication of such determination in the Federal Register”.
 
-Subsec. (d). Pub. L. 98–573, §623(b)(1)(B), redesignated subsec. (e) as (d). Former subsec. (d), which provided that civil actions contesting certain determinations by the administering authority under sections 703(b), (c), and 733(b), (c), of the Tariff Act of 1930 were barred unless commenced in accordance with the rules of the Court of International Trade within 10 days after publication of the determination in the Federal Register, was struck out.
+Subsec. (d). Pub. L. 98–573, §623(b)(1)(B), redesignated subsec. (e) as (d). Former subsec. (d), which providedthat civil actions contesting certain determinations by the administering authority under sections 703(b), (c), and 733(b), (c), of the Tariff Act of 1930 were barred unless commenced in accordance with the rules of the Court of International Trade within 10 days after publication of the determination in the Federal Register, was struck out.
 
 Subsecs. (e) to (g). Pub. L. 98–573, §623(b)(1)(B), redesignated subsecs. (f) to (h) as (e) to (g), respectively. Former subsec. (e) redesignated (d).
 
@@ -75,6 +75,10 @@ Section applicable with respect to civil actions commenced on or after Nov. 1, 1
 #### Application of 1993 Amendment
 
 For purposes of applying amendment by Pub. L. 103–182, any decision or order of Customs Service denying, suspending, or revoking accreditation of a private laboratory on or after Dec. 8, 1993, and before regulations to implement 19 U.S.C. 1499(b) are issued to be treated as having been denied, suspended, or revoked under such section 1499(b), see section 684(b) of Pub. L. 103–182, set out as a note under section 1581 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

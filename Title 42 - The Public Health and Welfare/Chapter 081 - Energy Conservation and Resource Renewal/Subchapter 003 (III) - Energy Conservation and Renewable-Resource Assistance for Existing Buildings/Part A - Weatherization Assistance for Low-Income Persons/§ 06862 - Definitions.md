@@ -46,7 +46,7 @@ As used in this part:
 
 &emsp;&emsp;(J) such other insulating or energy conserving devices or technologies as the Secretary may determine, after consulting with the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Director, of the Community Services Administration.
 
-(Pub. L. 94–385, title IV, §412, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–602, title I, §122(e), Nov. 6,1978, 92 Stat. 2987; Pub. L. 95–619, title II, §231(a)(1), (b)(2), Nov. 9, 1978, 92 Stat. 3224, 3225; Pub. L. 96–294, title V, §577(1), (2), June 30, 1980, 94 Stat. 760; Pub. L. 98–558, title IV, §§401, 402, Oct. 30, 1984, 98 Stat. 2887; Pub. L. 100–242, title V, §570(d), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 101–440, §7(a), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 102–486, title I, §142(b), Oct. 24, 1992, 106 Stat. 2843; Pub. L. 105–220, title IV, §414(f), Aug. 7, 1998, 112 Stat. 1242.)
+(Pub. L. 94–385, title IV, §412, Aug. 14, 1976, 90 Stat. 1152; Pub. L. 95–602, title I, §122(e), Nov. 6, 1978, 92 Stat. 2987; Pub. L. 95–619, title II, §231(a)(1), (b)(2), Nov. 9, 1978, 92 Stat. 3224, 3225; Pub. L. 96–294, title V, §577(1), (2), June 30, 1980, 94 Stat. 760; Pub. L. 98–558, title IV, §§401, 402, Oct. 30, 1984, 98 Stat. 2887; Pub. L. 100–242, title V, §570(d), Feb. 5, 1988, 101 Stat. 1950; Pub. L. 101–440, §7(a), Oct. 18, 1990, 104 Stat. 1012; Pub. L. 102–486, title I, §142(b), Oct. 24, 1992, 106 Stat. 2843; Pub. L. 105–220, title IV, §414(f), Aug. 7, 1998, 112 Stat. 1242.)
 
 #### References in Text
 
@@ -82,7 +82,7 @@ Pars. (7), (9)(G). Pub. L. 96–294, §577(2), substituted “Secretary” for �
 
 1978—Par. (5). Pub. L. 95–602 substituted “section 7(7) of the Rehabilitation Act of 1973” for “section 7(6) of the Rehabilitation Act of 1973”.
 
-Par. (7)(A). Pub. L. 95–619, §231(a)(1), inserted “125 percent of” after “at or below” and inserted provision authorizing the Administrator to establish a higher level for low-income computations after determining such higher level to be necessary to carry out the purposes of this part.
+Par. (7)(A). Pub. L. 95–619, §231(a)(1), inserted “125 percent of” after “at or below” and inserted provision authorizing the Administrator to establish a higherlevel for low-income computations after determining such higher level to be necessary to carry out the purposes of this part.
 
 Par. (9). Pub. L. 95–619, §231(b)(2), substituted a specific listing of items to be considered weatherization materials for purposes of this part for a general statement of the sort of materials that could be considered as such.
 

@@ -34,7 +34,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) arranged within each such product—
 
-&emsp;&emsp;&emsp;&emsp;(I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing business other than as individuals, the first word in the name of such debtors; and
+&emsp;&emsp;&emsp;&emsp;(I) in alphabetical order according to the last name of the individual debtors, or, in the case of debtors doing businessother than as individuals, the first word in the name of such debtors; and
 
 &emsp;&emsp;&emsp;&emsp;(II) in numerical order according to the social security number of the individual debtors or, in the case of debtors doing business other than as individuals, the Internal Revenue Service taxpayer identification number of such debtors; and
 
@@ -62,29 +62,27 @@ For the purposes of this section—
 
 &emsp;&emsp;(A) is an original or reproduced copy of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement;
 
-&emsp;&emsp;(B) other than in the case of an electronically reproduced copy of the statement, is signed and filed with the Secretary of State of a State by the secured party;
+&emsp;&emsp;(B) other than in the case of an electronically reproduced copy of the statement, is signed, authorized, or otherwise authenticated by the debtor, and filed with the Secretary of State of a State by the secured party;
 
-&emsp;&emsp;(C) other than in the case of an electronically reproduced copy of the statement, is signed by the debtor;
-
-&emsp;&emsp;(D) contains,
+&emsp;&emsp;(C) contains,
 
 &emsp;&emsp;&emsp;(i) the name and address of the secured party;
 
 &emsp;&emsp;&emsp;(ii) the name and address of the person indebted to the secured party;
 
-&emsp;&emsp;&emsp;(iii) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor;
+&emsp;&emsp;&emsp;(iii) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
 
-&emsp;&emsp;&emsp;(iv) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable; and a reasonable description of the property, including <sup>3</sup> county or parish in which the property is located;
+&emsp;&emsp;&emsp;(iv) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, and the name of each county or parish in which the farm products are produced or located;
 
-&emsp;&emsp;(E) must be amended in writing, within 3 months, similarly signed and filed, to reflect material changes;
+&emsp;&emsp;(D) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated by the debtor and filed, to reflect material changes;
 
-&emsp;&emsp;(F) remains effective for a period of 5 years from the date of filing, subject to extensions for additional periods of 5 years each by refiling or filing a continuation statement within 6 months before the expiration of the initial 5 year period;
+&emsp;&emsp;(E) remains effective for a period of 5 years from the date of filing, subject to extensions for additional periods of 5 years each by refiling or filing a continuation statement within 6 months before the expiration of the initial 5 year period;
 
-&emsp;&emsp;(G) lapses on either the expiration of the effective period of the statement or the filing of a notice signed by the secured party that the statement has lapsed, whichever occurs first;
+&emsp;&emsp;(F) lapses on either the expiration of the effective period of the statement or the filing of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first;
 
-&emsp;&emsp;(H) is accompanied by the requisite filing fee set by the Secretary of State; and
+&emsp;&emsp;(G) is accompanied by the requisite filing fee set by the Secretary of State; and
 
-&emsp;&emsp;(I) substantially complies with the requirements of this subparagraph even though it contains minor errors that are not seriously misleading.
+&emsp;&emsp;(H) substantially complies with the requirements of this subparagraph even though it contains minor errors that are not seriously misleading.
 
 &emsp;(5) The term “farm product” means an agricultural commodity such as wheat, corn, soybeans, or a species of livestock such as cattle, hogs, sheep, horses, or poultry used or produced in farming operations, or a product of such crop or livestock in its unmanufactured state (such as ginned cotton, wool-clip, maple syrup, milk, and eggs), that is in the possession of a person engaged in farming operations.
 
@@ -118,15 +116,15 @@ A buyer of farm products takes subject to a security interest created by the sel
 
 &emsp;&emsp;&emsp;(II) the name and address of the person indebted to the secured party;
 
-&emsp;&emsp;&emsp;(III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor;
+&emsp;&emsp;&emsp;(III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
 
-&emsp;&emsp;&emsp;(IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, crop year, county or parish, and a reasonable description of the property; and
+&emsp;&emsp;&emsp;(IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products where applicable, crop year, and the name of each county or parish in which the farm products are produced or located;
 
-&emsp;&emsp;(iii) must be amended in writing, within 3 months, similarly signed and transmitted, to reflect material changes;
+&emsp;&emsp;(iii) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated and transmitted, to reflect material changes;
 
-&emsp;&emsp;(iv) will lapse on either the expiration period of the statement or the transmission of a notice signed by the secured party that the statement has lapsed, whichever occurs first; and
+&emsp;&emsp;(iv) will lapse on either the expiration period of the statement or the transmission of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first; and
 
-&emsp;&emsp;(v) any <sup>4</sup> payment obligations imposed on the buyer by the secured party as conditions for waiver or release of the security interest; and
+&emsp;&emsp;(v) contains any payment obligations imposed on the buyer by the secured party as conditions for waiver or release of the security interest; and
 
 &emsp;(B) the buyer has failed to perform the payment obligations, or
 
@@ -138,9 +136,9 @@ A buyer of farm products takes subject to a security interest created by the sel
 
 &emsp;(3) in the case of a farm product produced in a State that has established a central filing system, the buyer—
 
-&emsp;&emsp;(A) receives from the Secretary of State of such State written notice as provided in subparagraph <sup>5</sup> (c)(2)(E) or (c)(2)(F) that specifies both the seller and the farm product being sold by such seller as being subject to an effective financing statement or notice; and
+&emsp;&emsp;(A) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) that specifies both the seller and the farm product being sold by such seller as being subject to an effective financing statement or notice; and
 
-&emsp;&emsp;(B) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise; and <sup>6</sup>
+&emsp;&emsp;(B) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
 
 #### (f) Law governing “receipt”
 
@@ -162,15 +160,15 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 &emsp;&emsp;&emsp;(II) the name and address of the person indebted to the secured party;
 
-&emsp;&emsp;&emsp;(III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor;
+&emsp;&emsp;&emsp;(III) the social security number of the debtor or, in the case of a debtor doing business other than as an individual, the Internal Revenue Service taxpayer identification number of such debtor; and
 
-&emsp;&emsp;&emsp;(IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products, where applicable, crop year, county or parish, and a reasonable description of the property, etc.; and
+&emsp;&emsp;&emsp;(IV) a description of the farm products subject to the security interest created by the debtor, including the amount of such products, where applicable, crop year, and the name of each county or parish in which the farm products are produced or located;
 
-&emsp;&emsp;(iii) must be amended in writing, within 3 months, similarly signed and transmitted, to reflect material changes;
+&emsp;&emsp;(iii) must be amended in writing, within 3 months, similarly signed, authorized, or otherwise authenticated and transmitted, to reflect material changes;
 
-&emsp;&emsp;(iv) will lapse on either the expiration period of the statement or the transmission of a notice signed by the secured party that the statement has lapsed, whichever occurs first; and
+&emsp;&emsp;(iv) will lapse on either the expiration period of the statement or the transmission of a notice signed, authorized, or otherwise authenticated by the secured party that the statement has lapsed, whichever occurs first; and
 
-&emsp;&emsp;(v) any <sup>7</sup> payment obligations imposed on the commission merchant or selling agent by the secured party as conditions for waiver or release of the security interest; and
+&emsp;&emsp;(v) contains any payment obligations imposed on the commission merchant or selling agent by the secured party as conditions for waiver or release of the security interest; and
 
 &emsp;(B) the commission merchant or selling agent has failed to perform the payment obligations;
 
@@ -182,7 +180,7 @@ What constitutes receipt, as used in this section, shall be determined by the la
 
 &emsp;(D) in the case of a farm product produced in a State that has established a central filing system, the commission merchant or selling agent—
 
-&emsp;&emsp;(i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this section that specifies both the seller and the farm products being sold by such seller as beingsubject to an effective financing statement or notice; and
+&emsp;&emsp;(i) receives from the Secretary of State of such State written notice as provided in subsection (c)(2)(E) or (c)(2)(F) of this section that specifies both the seller and the farm products being sold by such seller as being subject to an effective financing statement or notice; and
 
 &emsp;&emsp;(ii) does not secure a waiver or release of the security interest specified in such effective financing statement or notice from the secured party by performing any payment obligation or otherwise.
 
@@ -208,13 +206,59 @@ The Secretary of Agriculture shall prescribe regulations not later than 90 days 
 
 This section shall become effective 12 months after December 23, 1985.
 
-(Pub. L. 99–198, title XIII, §1324, Dec. 23, 1985, 99 Stat. 1535; Pub. L. 104–127, title VI, §662, Apr. 4, 1996, 110 Stat. 1107.)
+(Pub. L. 99–198, title XIII, §1324, Dec. 23, 1985, 99 Stat. 1535; Pub. L. 104–127, title VI, §662, Apr. 4, 1996, 110 Stat. 1107; Pub. L. 107–171, title X, §10604, May 13, 2002, 116 Stat. 512.)
 
 #### Codification
 
 Section was enacted as part of the Food Security Act of 1985, and not as part of the Agricultural Marketing Act of 1946 which comprises this chapter.
 
 #### Amendments
+
+2002—Subsec. (c)(4)(B). Pub. L. 107–171, §10604(a)(1), substituted “signed, authorized, or otherwise authenticated by the debtor,” for “signed”.
+
+Subsec. (c)(4)(C). Pub. L. 107–171, §10604(a)(2), (6), redesignated subpar. (D) as (C) and struck out former subpar. (C) which read as follows: “other than in the case of an electronically reproduced copy of the statement, is signed by the debtor;”.
+
+Subsec. (c)(4)(D). Pub. L. 107–171, §10604(a)(6), redesignated subpar. (E) as (D). Former subpar. (D) redesignated (C).
+
+Subsec. (c)(4)(D)(iii). Pub. L. 107–171, §10604(a)(3)(A), inserted “and” after semicolon at end.
+
+Subsec. (c)(4)(D)(iv). Pub. L. 107–171, §10604(a)(3)(B), substituted “applicable, and the name of each county or parish in which the farm products are produced or located;” for “applicable; and a reasonable description of the property, includingcounty or parish in which the property is located;”.
+
+Subsec. (c)(4)(E). Pub. L. 107–171, §10604(a)(6), redesignated subpar. (F) as (E). Former subpar. (E) redesignated (D).
+
+Pub. L. 107–171, §10604(a)(4), substituted “signed, authorized, or otherwise authenticated by the debtor” for “signed”.
+
+Subsec. (c)(4)(F). Pub. L. 107–171, §10604(a)(6), redesignated subpar. (G) as (F). Former subpar. (F) redesignated (E).
+
+Subsec. (c)(4)(G). Pub. L. 107–171, §10604(a)(6), redesignated subpar. (H) as (G). Former subpar. (G) redesignated (F).
+
+Pub. L. 107–171, §10604(a)(5), substituted “notice signed, authorized, or otherwise authenticated” for “notice signed”.
+
+Subsec. (c)(4)(H), (I). Pub. L. 107–171, §10604(a)(6), redesignated subpar. (I) as (H). Former subpar. (H) redesignated (G).
+
+Subsec. (e)(1)(A)(ii)(III). Pub. L. 107–171, §10604(b)(1)(A), inserted “and” after semicolon at end.
+
+Subsec. (e)(1)(A)(ii)(IV). Pub. L. 107–171, §10604(b)(1)(B), substituted “crop year, and the name of each county or parish in which the farm products are produced or located;” for “crop year, county or parish, and a reasonable description of the property; and”.
+
+Subsec. (e)(1)(A)(iii). Pub. L. 107–171, §10604(b)(2), substituted “similarly signed, authorized, or otherwise authenticated” for “similarly signed”.
+
+Subsec. (e)(1)(A)(iv). Pub. L. 107–171, §10604(b)(3), substituted “notice signed, authorized, or otherwise authenticated” for “notice signed”.
+
+Subsec. (e)(1)(A)(v). Pub. L. 107–171, §10604(b)(4), inserted “contains” before “any payment”.
+
+Subsec. (e)(3)(A). Pub. L. 107–171, §10604(b)(5)(A), substituted “subsection” for “subparagraph”.
+
+Subsec. (e)(3)(B). Pub. L. 107–171, §10604(b)(5)(B), substituted a period for “; and” at end.
+
+Subsec. (g)(2)(A)(ii)(III). Pub. L. 107–171, §10604(c)(1)(A), inserted “and” after semicolon at end.
+
+Subsec. (g)(2)(A)(ii)(IV). Pub. L. 107–171, §10604(c)(1)(B), substituted “crop year, and the name of each county or parish in which the farm products are produced or located;” for “crop year, county or parish, and a reasonable description of the property, etc.; and”.
+
+Subsec. (g)(2)(A)(iii). Pub. L. 107–171, §10604(c)(2), substituted “similarly signed, authorized, or otherwise authenticated” for “similarly signed”.
+
+Subsec. (g)(2)(A)(iv). Pub. L. 107–171, §10604(c)(3), substituted “notice signed, authorized, or otherwise authenticated” for “notice signed”.
+
+Subsec. (g)(2)(A)(v). Pub. L. 107–171, §10604(c)(4), inserted “contains” before “any payment”.
 
 1996—Subsec. (c)(4)(A). Pub. L. 104–127, §662(1), substituted “of the statement, or, in the case of a State which (under the applicable State law provisions of the Uniform Commercial Code) allows the electronic filing of financing statements without the signature of the debtor, is an electronically reproduced copy of the statement” for “thereof”.
 
@@ -227,14 +271,4 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “pursuant to subparagraph (D)”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by “the”.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be preceded by “contains”.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be “subsection”.</i>
-
-<i><sup>6</sup></i><i> So in original. A period probably should appear instead of “; and”.</i>
-
-<i><sup>7</sup></i><i> So in original. Probably should be preceded by “contains”.</i>
 

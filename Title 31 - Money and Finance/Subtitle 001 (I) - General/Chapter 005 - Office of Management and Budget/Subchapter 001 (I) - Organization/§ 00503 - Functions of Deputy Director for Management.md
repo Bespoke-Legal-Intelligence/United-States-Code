@@ -56,21 +56,23 @@
 
 &emsp;(4) Facilitate actions by the Congress and the executive branch to improve the management of Federal Government operations and to remove impediments to effective administration.
 
-&emsp;(5) Provide leadership in management innovation, through—
+&emsp;(5) Chair the Chief Information Officers Council established under section 3603 of title 44.
+
+&emsp;(6) Provide leadership in management innovation, through—
 
 &emsp;&emsp;(A) experimentation, testing, and demonstration programs; and
 
 &emsp;&emsp;(B) the adoption of modern management concepts and technologies.
 
-&emsp;(6) Work with State and local governments to improve and strengthen intergovernmental relations, and provide assistance to such governments with respect to intergovernmental programs and cooperative arrangements.
+&emsp;(7) Work with State and local governments to improve and strengthen intergovernmental relations, and provide assistance to such governments with respect to intergovernmental programs and cooperative arrangements.
 
-&emsp;(7) Review and, where appropriate, recommend to the Director changes to the budget and legislative proposals of agencies to ensure that they respond to program evaluations by, and are in accordance with general management plans of, the Office of Management and Budget.
+&emsp;(8) Review and, where appropriate, recommend to the Director changes to the budget and legislative proposals of agencies to ensure that they respond to program evaluations by, and are in accordance with general management plans of, the Office of Management and Budget.
 
-&emsp;(8) Provide advice to agencies on the qualification, recruitment, performance, and retention of managerial personnel.
+&emsp;(9) Provide advice to agencies on the qualification, recruitment, performance, and retention of managerial personnel.
 
-&emsp;(9) Perform any other functions prescribed by the Director.
+&emsp;(10) Perform any other functions prescribed by the Director.
 
-(Added Pub. L. 101–576, title II, §202(b), Nov. 15, 1990, 104 Stat. 2839; amended Pub. L. 103–272, §4(f)(1)(B), July 5, 1994, 108 Stat. 1361; Pub. L. 106–58, title VI, §638(g), Sept. 29, 1999, 113 Stat. 476.)
+(Added Pub. L. 101–576, title II, §202(b), Nov. 15, 1990, 104 Stat. 2839; amended Pub. L. 103–272, §4(f)(1)(B), July 5, 1994, 108 Stat. 1361; Pub. L. 106–58, title VI, §638(g), Sept. 29, 1999, 113 Stat. 476; Pub. L. 107–347, title I, §102(b), Dec. 17, 2002, 116 Stat. 2910.)
 
 #### References in Text
 
@@ -82,11 +84,17 @@ A prior section 503 was renumbered section 505 of this title.
 
 #### Amendments
 
+2002—Subsec. (b)(5) to (10). Pub. L. 107–347 added par. (5) and redesignated former pars. (5) to (9) as (6) to (10), respectively.
+
 1999—Subsec. (a)(7). Pub. L. 106–58, §638(g)(1), substituted “respectively (excluding any officer designated or appointed under section 901(c)).” for “respectively.”
 
 Subsec. (a)(8). Pub. L. 106–58, §638(g)(2), substituted “Officers (excluding any officer designated or appointed under section 901(c)).” for “Officers.”
 
 1994—Subsec. (b)(9). Pub. L. 103–272 substituted “Perform” for “perform”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a)(1) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 1999 Amendment
 

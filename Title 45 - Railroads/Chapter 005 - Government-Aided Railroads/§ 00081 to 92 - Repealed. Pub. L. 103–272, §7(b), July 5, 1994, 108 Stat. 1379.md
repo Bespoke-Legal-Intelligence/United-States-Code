@@ -14,7 +14,7 @@ Section 86, R.S. §5260, related to withholding by Secretary of the Treasury of 
 
 Section 87, R.S. §5261; June 25, 1948, ch. 646, §4, 62 Stat. 986; Apr. 2, 1982, Pub. L. 97–164, title I, §161(8), 96 Stat. 49; Oct. 29, 1992, Pub. L. 102–572, title IX, §902(b)(2), 106 Stat. 4516, provided that companies from whom payments for freight and transportation had been withheld under provisions of section 86 of this title could sue in Court of Federal Claims.
 
-Section 88, R.S. §5262; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167, related to jurisdiction of proper United States district court to hear and determine all cases of mandamus to compel Union Pacific Railroad Company to operate its road.
+Section 88, R.S. §5262; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167, related to jurisdiction of proper UnitedStates district court to hear and determine all cases of mandamus to compel Union Pacific Railroad Company to operate its road.
 
 Section 89, acts June 22, 1874, ch. 414, 18 Stat. 200; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167, directed Secretary of the Treasury to require that railroad companies, their successors and assigns, pay United States a percentage of net earnings as provided for by law.
 

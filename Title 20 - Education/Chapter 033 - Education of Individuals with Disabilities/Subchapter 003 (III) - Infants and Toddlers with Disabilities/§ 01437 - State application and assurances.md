@@ -34,7 +34,7 @@ A State desiring to receive a grant under section 1433 of this title shall submi
 
 &emsp;&emsp;&emsp;&emsp;(II) in the case of a child who may be eligible for such preschool services, with the approval of the family of the child, convene a conference among the lead agency, the family, and the local educational agency at least 90 days (and at the discretion of all such parties, up to 6 months) before the child is eligible for the preschool services, to discuss any such services that the child may receive; and
 
-&emsp;&emsp;&emsp;&emsp;(III) in the case of a child who may not be eligible for such preschool services, with the approval of the family, make reasonable efforts to convene a conference among the lead agency, the family, and providers of other appropriate services for children who are not eligible for preschool services under subchapter II of this chapter, to discuss the appropriate services that the child may receive;
+&emsp;&emsp;&emsp;&emsp;(III) in the case of a child who may not be eligible for such preschool services,with the approval of the family, make reasonable efforts to convene a conference among the lead agency, the family, and providers of other appropriate services for children who are not eligible for preschool services under subchapter II of this chapter, to discuss the appropriate services that the child may receive;
 
 &emsp;&emsp;(B) to review the child's program options for the period from the child's third birthday through the remainder of the school year; and
 
@@ -72,7 +72,7 @@ The application described in subsection (a) of this section—
 
 #### (c) Standard for disapproval of application
 
-The Secretary may not disapprove such an application unless the Secretary determines, afternotice and opportunity for a hearing, that the application fails to comply with the requirements of this section.
+The Secretary may not disapprove such an application unless the Secretary determines, after notice and opportunity for a hearing, that the application fails to comply with the requirements of this section.
 
 #### (d) Subsequent State application
 

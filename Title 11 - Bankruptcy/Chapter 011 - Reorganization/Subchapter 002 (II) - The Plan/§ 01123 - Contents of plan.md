@@ -58,7 +58,7 @@
 
 (d) Notwithstanding subsection (a) of this section and sections 506(b), 1129(a)(7), and 1129(b) of this title, if it is proposed in a plan to cure a default the amount necessary to cure the default shall be determined in accordance with the underlying agreement and applicable nonbankruptcy law.
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, §507, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §206, title III, §§304(h)(6),305(a), title V, §501(d)(31), Oct. 22, 1994, 108 Stat. 4123, 4134, 4146.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2631; Pub. L. 98–353, title III, §507, July 10, 1984, 98 Stat. 385; Pub. L. 103–394, title II, §206, title III, §§304(h)(6), 305(a), title V, §501(d)(31), Oct. 22, 1994, 108 Stat. 4123, 4134, 4146.)
 
 #### Historical and Revision Notes
 
@@ -108,7 +108,7 @@ Subsec. (b)(2). Pub. L. 98–353, §507(b), substituted “rejection, or assignm
 
 #### Effective Date of 1994 Amendment
 
-Amendment by sections 206, 304(h)(6), and 501(d)(31) of Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, and amendment by section 305(a) of Pub. L. 103–394 effective Oct. 22, 1994, and applicable only to agreements entered into after Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
+Amendment by sections 206, 304(h)(6), and 501(d)(31) of Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with respect to cases commenced under this title before Oct. 22, 1994, and amendment by section 305(a) of Pub. L. 103–394 effective Oct. 22, 1994, and applicable only toagreements entered into after Oct. 22, 1994, see section 702 of Pub. L. 103–394, set out as a note under section 101 of this title.
 
 #### Effective Date of 1984 Amendment
 

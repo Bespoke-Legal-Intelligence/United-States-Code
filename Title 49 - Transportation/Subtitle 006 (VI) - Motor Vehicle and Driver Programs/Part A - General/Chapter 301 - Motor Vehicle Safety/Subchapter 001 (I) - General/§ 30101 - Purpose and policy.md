@@ -24,7 +24,7 @@ Historical and Revision Notes
 
 Sept. 9, 1966, Pub. L. 89–563, §1, 80 Stat. 718.
 
-The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driver register, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
+The words “Congress hereby declares that”, “to persons”, and “Congress determines that” are omitted as surplus. The words “motor vehicle” before “equipment” are added for consistency. The words “and to expand the national driver register” are omitted because section 401 of the National Traffic and Motor Vehicle Safety Act of 1966 (Public Law 89–563, 80 Stat. 730), the only section in this law related to the national driverregister, was superseded by the National Driver Register Act of 1982 (Public Law 97–364, 96 Stat. 1740).
 
 #### Short Title of 2000 Amendment
 
@@ -110,7 +110,7 @@ Action.—A rulemaking under paragraph (5) of section 2503 shall be considered c
 
 &emsp;&emsp;“(C)
 
-Standard.—The Secretary may, as part of any action taken under section 2503, amend any motor vehicle safety standard or establish a new standard under the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.).
+Standard.—The Secretary may, as part of any action taken under section 2503, amend anymotor vehicle safety standard or establish a new standard under the National Traffic and Motor Vehicle Safety Act of 1966 (\[formerly\] 15 U.S.C. 1381 et seq.).
 
 #### “SEC. 2503. MATTERS BEFORE THE SECRETARY.
 
@@ -158,7 +158,7 @@ Amendment or Repeal of Standard.—The Secretary may amend the standard describe
 
 Ex. Ord. No. 11357, June 6, 1967, 32 F.R. 8225, provided:
 
-By virtue of the authority vested in me as President of the United States by Section 201 of the Highway Safety Act of 1966, as amended (80 Stat. 735, 943) \[set out as a note under section 401 of Title 23, Highways\], and by Section 3(f)(3) of the Department of Transportation Act (80 Stat. 932) \[former 49 U.S.C. 1652(f)(3)\], itis hereby ordered that the provisions of the National Traffic and Motor Vehicle Safety Act of 1966, as amended (80 Stat. 718, 943) \[formerly 15 U.S.C. 1381 et seq.\], shall be carried out through the National Highway Safety Bureau and the Director thereof.
+By virtue of the authority vested in me as President of the United States by Section 201 of the Highway Safety Act of 1966, as amended (80 Stat. 735, 943) \[set out as a note under section 401 of Title 23, Highways\], and by Section 3(f)(3) of the Department of Transportation Act (80 Stat. 932) \[former 49 U.S.C. 1652(f)(3)\], it is hereby ordered that the provisions of the National Traffic and Motor Vehicle Safety Act of 1966, as amended (80 Stat. 718, 943) \[formerly 15 U.S.C. 1381 et seq.\], shall be carried out through the National Highway Safety Bureau and the Director thereof.
 
 Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -4,9 +4,11 @@
 
 In the case of information furnished under a provision of law referred to in subsection (d) of this section, neither the Secretary of Agriculture, any other officer or employee of the Department of Agriculture or agency thereof, nor any other person may—
 
-&emsp;(1) use such information for a purpose other than the development or reporting of aggregate data in a manner such that the identity of the person who supplied such information is not discernible and is not material to the intended uses of such information; or
+&emsp;(1) use such information for a purpose other than the development or reporting of aggregate data in a manner such that the identity of the person who supplied such information is not discernible and is not material to the intended uses of such information;
 
-&emsp;(2) disclose such information to the public, unless such information has been transformed into a statistical or aggregate form that does not allow the identification of the person who supplied particular information.
+&emsp;(2) disclose such information to the public, unless such information has been transformed into a statistical or aggregate form that does not allow the identification of the person who supplied particular information; or
+
+&emsp;(3) in the case of information collected under the authority described in subsection (d)(12) of this section, disclose the information to any person or any Federal, State, local, or tribal agency outside the Department of Agriculture, unless the information has been converted into a statistical or aggregate form that does not allow the identification of the person that supplied particular information.
 
 #### (b) Duty of Secretary; immunity from disclosure; necessary consent
 
@@ -42,19 +44,25 @@ For purposes of this section, a provision of law referred to in this subsection 
 
 &emsp;(8) section 4 of the Act entitled “An Act to establish the Department of Commerce and Labor”, approved February 14, 1903 (15 U.S.C. 1516);
 
-&emsp;(9) section 2 of the joint resolution entitled “Joint resolution relating to the publication of economic and social statistics for Americans of Spanish origin or descent”, approved June 16, 1976 (15 U.S.C. 1516a); or <sup>2</sup>
+&emsp;(9) section 2 of the joint resolution entitled “Joint resolution relating to the publication of economic and social statistics for Americans of Spanish origin or descent”, approved June 16, 1976 (15 U.S.C. 1516a);
 
-&emsp;(10) section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 (16 U.S.C. 1642(e)); <sup>2</sup>
+&emsp;(10) section 3(e) of the Forest and Rangeland Renewable Resources Research Act of 1978 (16 U.S.C. 1642(e));
 
-&emsp;(11) section 2204g of this title.
+&emsp;(11) section 2204g of this title; or
+
+&emsp;(12) section 302 of the Rural Development Act of 1972 (7 U.S.C. 1010a) regarding the authority to collect data for the National Resources Inventory.
 
 #### (e) Information provided to Secretary of Commerce
 
 This section shall not prohibit the release of information under section 2204g(f)(2) of this title.
 
-(Pub. L. 99–198, title XVII, §1770, Dec. 23, 1985, 99 Stat. 1657; Pub. L. 105–113, §4(a)(2), (b), Nov. 21, 1997, 111 Stat. 2276; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §348\], Nov. 29, 1999, 113 Stat. 1535, 1501A–207.)
+(Pub. L. 99–198, title XVII, §1770, Dec. 23, 1985, 99 Stat. 1657; Pub. L. 105–113, §4(a)(2), (b), Nov. 21, 1997, 111 Stat. 2276; Pub. L. 106–113, div. B, §1000(a)(3) \[title III, §348\], Nov. 29, 1999, 113 Stat. 1535, 1501A–207; Pub. L. 107–171, title II, §2004(b), May 13, 2002, 116 Stat. 236.)
 
 #### Amendments
+
+2002—Subsec. (a)(3). Pub. L. 107–171, §2004(b)(1), added par. (3).
+
+Subsec. (d)(12). Pub. L. 107–171, §2004(b)(2), added par. (12).
 
 1999—Subsec. (d)(10), (11). Pub. L. 106–113 added par. (10) and redesignated former par. (10) as (11).
 
@@ -67,6 +75,4 @@ Subsec. (e). Pub. L. 105–113, §4(b), added subsec. (e).
 This section is referred to in section 1502 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
-
-<i><sup>2</sup></i><i> So in original. The word “or” probably should appear at end of par. (10).</i>
 

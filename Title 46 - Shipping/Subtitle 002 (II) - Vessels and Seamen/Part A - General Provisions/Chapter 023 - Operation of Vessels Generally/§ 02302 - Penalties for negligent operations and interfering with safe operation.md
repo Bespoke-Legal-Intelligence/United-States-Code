@@ -1,6 +1,6 @@
 ### §2302. Penalties for negligent operations and interfering with safe operation
 
-(a) A person operating a vessel in a negligent manner or interfering with the safe operation of a vessel, so as to endanger the life, limb, or property of a person is liable to the United States Government for a civil penalty of not more than $1,000.
+(a) A person operating a vessel in a negligent manner or interfering with the safe operation of a vessel, so as to endanger the life, limb, or property of a person is liable to the United States Government for a civil penalty of not more than $5,000 in the case of a recreational vessel, or $25,000 in the case of any other vessel.
 
 (b) A person operating a vessel in a grossly negligent manner that endangers the life, limb, or property of a person commits a class A misdemeanor.
 
@@ -32,7 +32,7 @@
 
 (3) As used in this subsection, the term “Government-impelled cargo” means cargo for which a Federal agency contracts directly for shipping by water or for which (or the freight of which) a Federal agency provides financing, including financing by grant, loan, or loan guarantee, resulting in shipment of the cargo by water.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 508; Pub. L. 98–557, §7(a), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–380, title IV, §§4105(b)(2), 4302(a), Aug. 18, 1990, 104 Stat. 513, 537; Pub. L. 102–587, title V, §5102, Nov. 4, 1992, 106 Stat. 5071; Pub. L. 105–383, title III, §§302(a), 304(c), title IV, §408(a), Nov. 13, 1998, 112 Stat. 3417, 3419, 3430.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 508; Pub. L. 98–557, §7(a), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–380, title IV, §§4105(b)(2), 4302(a), Aug. 18, 1990, 104 Stat. 513, 537; Pub. L. 102–587, title V, §5102, Nov. 4, 1992, 106 Stat. 5071; Pub. L. 105–383, title III, §§302(a), 304(c), title IV, §408(a), Nov. 13, 1998, 112 Stat. 3417, 3419, 3430; Pub. L. 107–295, title III, §325, Nov. 25, 2002, 116 Stat. 2105.)
 
 Historical and Revision Notes
 
@@ -56,9 +56,11 @@ Historical and Revision Notes
 
 46:1484(b)
 
-Section 2302 states that the negligent operation of a vessel is prohibited. These acts are subject to civil and criminal penalties and the involved vessel is subject to an in rem action. The negligent operation provisions have their genesis in the Act of April 25, 1940, 54 Stat. 167, when Congress prescribed that no person shall operate any motorboat or <i>any vessel</i> in a reckless or negligent manner. This provision was directed at all vessels and not those solely engaged in recreational boating. When the Federal Boat Safety Act of 1971, P.L. 92–75, 85 Stat. 217 (46 U.S.C. 1461) was enacted it adopted the reckless or negligent operation provisions of the 1940 Act. It adopted for the first time a provision for assessing civil penalties in addition to criminal penalties. It dropped the word “reckless” because of redundancy.It also combined the two classes of vessels; “any motorboat or any vessel” into one class by using the word “vessel” and defined vessel as including every description of watercraft.
+Section 2302 states that the negligent operation of a vessel is prohibited. These acts are subject to civil and criminal penalties and the involved vessel is subject to an in rem action. The negligent operation provisions have their genesis in the Act of April 25, 1940, 54 Stat. 167, when Congress prescribed that no person shall operate any motorboat or <i>any vessel</i> in a reckless or negligent manner. This provision was directed at all vessels and not those solely engaged in recreational boating. When the Federal Boat Safety Act of 1971, P.L. 92–75, 85 Stat. 217 (46 U.S.C. 1461) was enacted it adopted the reckless or negligent operation provisions of the 1940 Act. It adopted for the first time a provision for assessing civil penalties in addition to criminal penalties. It dropped the word “reckless” because of redundancy. It also combined the two classes of vessels; “any motorboat or any vessel” into one class by using the word “vessel” and defined vessel as including every description of watercraft.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–295 substituted “$5,000 in the case of a recreational vessel, or $25,000 in the case of any other vessel” for “$1,000”
 
 1998—Pub. L. 105–383, §302(a)(1), substituted “Penalties for negligent operations and interfering with safe operation” for “Penalties for negligent operations” in section catchline.
 

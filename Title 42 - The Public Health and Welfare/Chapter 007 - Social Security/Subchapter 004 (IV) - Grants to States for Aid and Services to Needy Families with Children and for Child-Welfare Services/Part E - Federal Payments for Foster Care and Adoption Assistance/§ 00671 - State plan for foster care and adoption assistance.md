@@ -18,7 +18,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(7) provides that the State agency will monitor and conduct periodic evaluations of activities carried out under this part;
 
-&emsp;(8) provides safeguards which restrict the use of or disclosure of information concerningindividuals assisted under the State plan to purposes directly connected with (A) the administration of the plan of the State approved under this part, the plan or program of the State under part A, B, or D of this subchapter or under subchapter I, V, X, XIV, XVI (as in effect in Puerto Rico, Guam, and the Virgin Islands), XIX, or XX of this chapter, or the supplemental security income program established by subchapter XVI of this chapter, (B) any investigation, prosecution, or criminal or civil proceeding, conducted in connection with the administration of any such plan or program, (C) the administration of any other Federal or federally assisted program which provides assistance, in cash or in kind, or services, directly to individuals on the basis of need, (D) any audit or similar activity conducted in connection with the administration of any such plan or program by any governmental agency which is authorized by law to conduct such audit or activity, and (E) reporting and providing information pursuant to paragraph (9) to appropriate authorities with respect to known or suspected child abuse or neglect; and the safeguards so provided shall prohibit disclosure, to any committee or legislative body (other than an agency referred to in clause (D) with respect to an activity referred to in such clause), of any information which identifies by name or address any such applicant or recipient; except that nothing contained herein shall preclude a State from providing standards which restrict disclosures to purposes more limited than those specified herein, or which, in the case of adoptions, prevent disclosure entirely;
+&emsp;(8) provides safeguards which restrict the use of or disclosure of information concerning individuals assisted under the State plan to purposes directly connected with (A) the administration of the plan of the State approved under this part, the plan or program of the State under part A, B, or D of this subchapter or under subchapter I, V, X, XIV, XVI (as in effect in Puerto Rico, Guam, and the Virgin Islands), XIX, or XX of this chapter, or the supplemental security income program established by subchapter XVI of this chapter, (B) any investigation, prosecution, or criminal or civil proceeding, conducted in connection with the administration of any such plan or program, (C) the administration of any other Federal or federally assisted program which provides assistance, in cash or in kind, or services, directly to individuals on the basis of need, (D) any audit or similar activity conducted in connection with the administration of any such plan or program by any governmental agency which is authorized by law to conduct such audit or activity, and (E) reporting and providing information pursuant to paragraph (9) to appropriate authorities with respect to known or suspected child abuse or neglect; and the safeguards so provided shall prohibit disclosure, to any committee or legislative body (other than an agency referred to in clause (D) with respect to an activity referred to in such clause), of any information which identifies by name or address any such applicant or recipient; except that nothing contained herein shall preclude a State from providing standards which restrict disclosures to purposes more limited than those specified herein, or which, in the case of adoptions, prevent disclosure entirely;
 
 &emsp;(9) provides that the State agency will—
 
@@ -30,7 +30,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(11) provides for periodic review of the standards referred to in the preceding paragraph and amounts paid as foster care maintenance payments and adoption assistance to assure their continuing appropriateness;
 
-&emsp;(12) provides for granting an opportunity for a fair hearing before the State agency to any individual whose claim for benefits available pursuant to this part is denied or is not acted upon with reasonable promptness;
+&emsp;(12) provides for granting an opportunity for a fair hearing before the State agency to anyindividual whose claim for benefits available pursuant to this part is denied or is not acted upon with reasonable promptness;
 
 &emsp;(13) provides that the State shall arrange for a periodic and independently conducted audit of the programs assisted under this part and part B of this subchapter, which shall be conducted no less frequently than once every three years;
 
@@ -84,7 +84,7 @@ In order for a State to be eligible for payments under this part, it shall have 
 
 &emsp;(19) provides that the State shall consider giving preference to an adult relative over a non-related caregiver when determining a placement for a child, provided that the relative caregiver meets all relevant State child protection standards;
 
-&emsp;(20)(A) unless an election provided for in subparagraph (B) is made with respect to the State, provides procedures for criminal records checks for any prospective foster or adoptive parent before the foster or adoptive parent may be finally approved for placement of a child on whose behalf foster care maintenance payments or adoption assistance payments are to be made under the State plan under this part, including procedures requiring that—
+&emsp;(20)(A) unless an election provided for in subparagraph (B) is made with respect to theState, provides procedures for criminal records checks for any prospective foster or adoptive parent before the foster or adoptive parent may be finally approved for placement of a child on whose behalf foster care maintenance payments or adoption assistance payments are to be made under the State plan under this part, including procedures requiring that—
 
 &emsp;&emsp;(i) in any case in which a record check reveals a felony conviction for child abuse or neglect, for spousal abuse, for a crime against children (including child pornography), or for a crime involving violence, including rape, sexual assault, or homicide, but not including other physical assault or battery, if a State finds that a court of competent jurisdiction has determined that the felony was committed at any time, such final approval shall not be granted; and
 
@@ -168,7 +168,7 @@ Subsec. (a)(9). Pub. L. 101–508, §5054(b)(1), amended par. (9) generally. Pri
 
 1982—Subsec. (a)(10). Pub. L. 97–248 amended Pub. L. 97–35, §2353(r), generally. See 1981 Amendment note below.
 
-1981—Subsec. (a)(10). Pub. L. 97–35, §2353(r), as amended by Pub. L. 97–248, §160(d), substituted provisions that in order for a State to be eligible for payments underthis part a State plan must provide for establishment or designation of a State authority or authorities responsible for standards for foster family homes and child care institutions, such standards to be reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, for provisions that such State plan provide for the application of standards referred to in section 1397b(d)(1) of this title.
+1981—Subsec. (a)(10). Pub. L. 97–35, §2353(r), as amended by Pub. L. 97–248, §160(d), substituted provisions that in order for a State to be eligible for payments under this part a State plan must provide for establishment or designation of a State authority or authorities responsible for standards for foster family homes and child care institutions, such standards to be reasonably in accord with recommended standards of national organizations concerned with standards for such institutions or homes, including standards related to admission policies, safety, sanitation, and protection of civil rights, for provisions that such State plan provide for the application of standards referred to in section 1397b(d)(1) of this title.
 
 #### Effective Date of 1999 Amendment
 
@@ -238,7 +238,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explici
 
 #### Regulations
 
-Section 203(a) of title II of Pub. L. 100–485 provided that: “Not later than 6 months after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall issue proposed regulations for the purpose of implementing the amendments made bythis title \[see Effective Date of 1988 Amendment note above\], including regulations establishing uniform data collection requirements. The Secretary shall publish final regulations for such purpose not later than one year after the date of the enactment of this Act. Regulations issued under this subsection shall be developed by the Secretary in consultation with the Secretary of Labor and with the responsible State agencies described in section 482(a)(2) of the Social Security Act \[section 682(a)(2) of this title\].”
+Section 203(a) of title II of Pub. L. 100–485 provided that: “Not later than 6 months after the date of the enactment of this Act \[Oct. 13, 1988\], the Secretary of Health and Human Services (in this section referred to as the ‘Secretary’) shall issue proposed regulations for the purpose of implementing the amendments made by this title \[see Effective Date of 1988 Amendment note above\], including regulations establishing uniform data collection requirements. The Secretary shall publish final regulations for such purpose not later than one year after the date of the enactment of this Act. Regulations issued under this subsection shall be developed by the Secretary in consultation with the Secretary of Labor and with the responsible State agencies described in section 482(a)(2) of the Social Security Act \[section 682(a)(2) of this title\].”
 
 #### Preservation of Reasonable Parenting
 
@@ -262,7 +262,7 @@ Notice Requirement.—In providing financial assistance to, or entering into any
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 652, 664, 666, 672, 674, 675, 678, 1320a–2, 1320a–10 of this title; title 26 section 6402.
+This section is referred to in sections 652, 664, 666, 672, 674, 675, 678, 1320a–2, 1320a–10, 5633 of this title; title 26 section 6402.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “includes”.</i>
 

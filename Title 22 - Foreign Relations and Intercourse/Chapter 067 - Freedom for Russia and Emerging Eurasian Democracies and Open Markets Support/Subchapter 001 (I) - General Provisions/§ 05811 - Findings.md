@@ -8,9 +8,9 @@ The Congress finds that—
 
 &emsp;(3) the United States is especially well-positioned because of its heritage and traditions to make a substantial contribution to this transition by building on current technical cooperation, medical, and food assistance programs, by assisting in the development of democratic institutions, and by fostering conditions that will encourage the United States business community to engage in trade and investment;
 
-&emsp;(4) failure to meet the opportunities presented by these developments could threaten United States national security interests and jeopardize substantial savings in United States defense that these developments have made possible;
+&emsp;(4) failure to meet the opportunities presented by these developments could threaten United States national security interests and jeopardize substantial savings in UnitedStates defense that these developments have made possible;
 
-&emsp;(5) the independent states of the former Soviet Union face unprecedented environmental problems that jeopardize the quality of life and the very existence of not only their own peoples but also the peoples of other countries,and it is incumbent on the international community to assist the independent states in addressing these problems and in promoting sustainable use of resources and development;
+&emsp;(5) the independent states of the former Soviet Union face unprecedented environmental problems that jeopardize the quality of life and the very existence of not only their own peoples but also the peoples of other countries, and it is incumbent on the international community to assist the independent states in addressing these problems and in promoting sustainable use of resources and development;
 
 &emsp;(6) the success of United States assistance for the independent states of the former Soviet Union depends on—
 

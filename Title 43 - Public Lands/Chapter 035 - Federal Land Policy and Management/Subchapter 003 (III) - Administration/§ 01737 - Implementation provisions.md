@@ -2,7 +2,7 @@
 
 #### (a) Investigations, studies, and experiments
 
-The Secretary may conduct investigations, studies, and experiments, on his own initiativeor in cooperation with others, involving the management, protection, development, acquisition, and conveying of the public lands.
+The Secretary may conduct investigations, studies, and experiments, on his own initiative or in cooperation with others, involving the management, protection, development, acquisition, and conveying of the public lands.
 
 #### (b) Contracts and cooperative agreements
 
@@ -44,7 +44,7 @@ Effective with fiscal years beginning after September 30, 1984, there are author
 
 The civil service classification laws, referred to in subsec. (d), probably should refer to civil service and classification laws. The civil service laws are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5. The classification laws are set forth in chapter 51 and subchapter III of chapter 53 of Title 5.
 
-The tort claims provisions of title 28, referred to in subsec. (f)(1), is the Federal Tort Claims Act, which is classified generally to section 1346(b) and chapter 171 (§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
+The tort claims provisions of title 28, referred to in subsec. (f)(1), is the Federal Tort Claims Act, which is classified generally to section 1346(b) and chapter 171\(§2671 et seq.) of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
 

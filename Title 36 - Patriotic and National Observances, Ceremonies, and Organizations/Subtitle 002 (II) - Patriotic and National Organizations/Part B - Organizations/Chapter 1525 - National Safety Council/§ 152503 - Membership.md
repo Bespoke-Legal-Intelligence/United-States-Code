@@ -6,7 +6,7 @@ Eligibility.—Except as provided in this chapter, eligibility for membership in
 
 (b)
 
-Voting.—Each member (except an honorary or sustaining member) has one vote on each matter submitted to a vote at a meeting of the members. The corporation may provide in its constitution and bylaws for additional voting rights based on dues paid.
+Voting.—Each member (except an honorary or sustaining member) has one vote on eachmatter submitted to a vote at a meeting of the members. The corporation may provide in its constitution and bylaws for additional voting rights based on dues paid.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1415.)
 

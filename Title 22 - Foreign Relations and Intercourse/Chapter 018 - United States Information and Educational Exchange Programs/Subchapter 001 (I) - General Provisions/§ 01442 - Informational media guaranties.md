@@ -10,7 +10,7 @@ The Director is authorized to assume the obligation of not to exceed $28,000,000
 
 #### (c) Limitations of time; total of guaranties outstanding
 
-The Director is authorized to make informational media guaranties without regard to the limitations of time contained in section1933(b)(4) <sup>1</sup> of this title, but the total of such guaranties outstanding at any one time shall not exceed the sum of the face amount of the notes assumed by the Director less the amounts previously advanced on such notes by the Secretary of the Treasury plus the amount of the funds in the special account referred to in subsection (b) of this section.
+The Director is authorized to make informational media guaranties without regard to the limitations of time contained in section 1933(b)(4) <sup>1</sup> of this title, but the total of such guaranties outstanding at any one time shall not exceed the sum of the face amount of the notes assumed by the Director less the amounts previously advanced on such notes by the Secretary of the Treasury plus the amount of the funds in the special account referred to in subsection (b) of this section.
 
 #### (d) Sale of foreign currencies; special account; availability
 
@@ -22,7 +22,7 @@ Notwithstanding the provisions of section 1933(b)(4)(E) <sup>1</sup> of this ti
 
 #### (f) Advance payments
 
-The Director is further authorized, under such terms as he may prescribe, to make advance payments under informational media guaranties: <i>Provided</i>, That currencies receivable from holders of such guaranties on account of such advance payments shall be paid to the United States within nine months from the date of the advance payment and that appropriate security to assure such payments is required before any advance payment is made.
+The Director is further authorized, under such terms as he may prescribe, to make advancepayments under informational media guaranties: <i>Provided</i>, That currencies receivable from holders of such guaranties on account of such advance payments shall be paid to the United States within nine months from the date of the advance payment and that appropriate security to assure such payments is required before any advance payment is made.
 
 #### (g) Separate accounts; transfers
 
@@ -52,7 +52,7 @@ Section 1476(a) of this title, referred to in subsec. (h)(4), was repealed by Pu
 
 1982—Subsec. (h)(4). Pub. L. 97–241, §304(f), added par. (4).
 
-1959—Subsec. (a). Pub. L. 86–108 provided that the purpose of making informational media guaranties shallbe the achievement of the foreign policy objectives of the United States, including the objective mentioned in former sections 1933(b)(4)(A) and 1933(b)(4)(G) of this title, now covered by section 2351 of this title.
+1959—Subsec. (a). Pub. L. 86–108 provided that the purpose of making informational media guaranties shall be the achievement of the foreign policy objectives of the United States, including the objective mentioned in former sections 1933(b)(4)(A) and 1933(b)(4)(G) of this title, now covered by section 2351 of this title.
 
 1958—Subsec. (h). Pub. L. 85–477 added subsec. (h).
 

@@ -86,7 +86,7 @@ In this subchapter—
 
 &emsp;(7) “commercial service airport” means a public airport in a State that the Secretary determines has at least 2,500 passenger boardings each year and is receiving scheduled passenger aircraft service.
 
-&emsp;(8) “integrated airport system planning” means developing for planning purposes information and guidance to decide the extent, kind, location, and timing of airport development needed in a specific area to establish aviable, balanced, and integrated system of public-use airports, including—
+&emsp;(8) “integrated airport system planning” means developing for planning purposes information and guidance to decide the extent, kind, location, and timing of airport development needed in a specific area to establish a viable, balanced, and integrated system of public-use airports, including—
 
 &emsp;&emsp;(A) identifying system needs;
 
@@ -136,7 +136,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ii) determined by the Secretary to have at least 2,500 passenger boardings each year and to receive scheduled passenger aircraft service.
 
-&emsp;(18) “reliever airport” means an airport the Secretary designates to relieve congestion at a commercial service airport and to provide more general aviation access to the overall community.
+&emsp;(18) “reliever airport” means an airport the Secretary designates to relieve congestion at acommercial service airport and to provide more general aviation access to the overall community.
 
 &emsp;(19) “sponsor” means—
 
@@ -334,5 +334,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40117, 44502, 47109, 47110, 47114, 47115, 47134, 47151, 47501, 50104 of this title; title 18 section 1036; title 19 section 1644a; title 50 App. section 1622.
+This section is referred to in sections 40117, 44502, 47106, 47109, 47110, 47114, 47115, 47134, 47151, 47501, 50104 of this title; title 18 section 1036; title 19 section 1644a; title 50 App. section 1622.
 

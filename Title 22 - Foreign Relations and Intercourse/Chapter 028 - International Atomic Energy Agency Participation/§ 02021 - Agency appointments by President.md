@@ -10,11 +10,11 @@ The President, by and with the advice and consent of the Senate, may appoint or 
 
 #### (c) Designation of other persons
 
-The President may also appoint or designate from time to time such other persons as he may deem necessary to represent the United States in the organs of the Agency. The President may designate any officer of the United States Government, whose appointment is subject to confirmation by the Senate, to act, without additional compensation, for temporary periods as the representative of the United States on the Board of Governors or to the General Conference of the Agency in the absence or disability of the representative and deputy representative appointed under subsection (a) of this section or in lieu of such representatives in connection with a specified subject matter.
+The President may also appoint or designate from time to time such other persons as he maydeem necessary to represent the United States in the organs of the Agency. The President may designate any officer of the United States Government, whose appointment is subject to confirmation by the Senate, to act, without additional compensation, for temporary periods as the representative of the United States on the Board of Governors or to the General Conference of the Agency in the absence or disability of the representative and deputy representative appointed under subsection (a) of this section or in lieu of such representatives in connection with a specified subject matter.
 
 #### (d) Compensation; allowances and benefits
 
-All persons appointed or designated in pursuance of authority contained in this section shall receive compensation at rates determined by the President upon the basis of duties to be performed but not in excess of rates authorized by sections 401, 402, and 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3961, 3962, and 3963\] for chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance, except that no Member of the Senate or House of Representatives or officer of the United States who is designated under subsection (b) or subsection (c) of this section as a delegate or representative of the United States or as an alternate to attend any specified session or specified sessions of theGeneral Conference shall be entitled to receive such compensation. Any person who receives compensation pursuant to the provisions of this subsection may be granted allowances and benefits not to exceed those received under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] by chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance.
+All persons appointed or designated in pursuance of authority contained in this section shall receive compensation at rates determined by the President upon the basis of duties to be performed but not in excess of rates authorized by sections 401, 402, and 403 of the Foreign Service Act of 1980 \[22 U.S.C. 3961, 3962, and 3963\] for chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance, except that no Member of the Senate or House of Representatives or officer of the United States who is designated under subsection (b) or subsection (c) of this section as a delegate or representative of the United States or as an alternate to attend any specified session or specified sessions of the General Conference shall be entitled to receive such compensation. Any person who receives compensation pursuant to the provisions of this subsection may be granted allowances and benefits not to exceed those received under the Foreign Service Act of 1980 \[22 U.S.C. 3901 et seq.\] by chiefs of mission, members of the Senior Foreign Service, and Foreign Service officers occupying positions of equivalent importance.
 
 (Pub. L. 85–177, §2, Aug. 28, 1957, 71 Stat. 453; Pub. L. 96–465, title II, §2206(a)(7)(A), Oct. 17, 1980, 94 Stat. 2161; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §708(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–462.)
 
@@ -36,9 +36,37 @@ Amendment by Pub. L. 106–113 applicable to individuals appointed on or after N
 
 Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as an Effective Date note under section 3901 of this title.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–228, div. B, title XIII, §1341, Sept. 30, 2002, 116 Stat. 1451, provided that: “This subtitle \[subtitle D (§§1341–1345) of title XIII of div. B of Pub. L. 107–228, enacting section 2027 of this title, amending section 2227 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Iran Nuclear Proliferation Prevention Act of 2002’.”
+
 #### Short Title
 
 Section 1 of Pub. L. 85–177 provided that: “This Act \[enacting this chapter and amending section 2074 of Title 42, The Public Health and Welfare\] may be cited as the ‘International Atomic Energy Agency Participation Act of 1957’.”
+
+#### Reporting Requirements
+
+Pub. L. 107–228, div. B, title XIII, §1344, Sept. 30, 2002, 116 Stat. 1452, provided that:
+
+“(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Sept. 30, 2002\], and on an annual basis thereafter for five years, the Secretary, in consultation with the United States representative to the International Atomic Energy Agency, shall prepare and submit to Congress a report that contains—
+
+&emsp;“(1) a description of the total amount of annual assistance to Iran from the International Atomic Energy Agency;
+
+&emsp;“(2) a list of Iranian officials in leadership positions at the Agency;
+
+&emsp;“(3) the expected timeframe for the completion of the nuclear power reactors at the Bushehr nuclear power plant;
+
+&emsp;“(4) a summary of the nuclear materials and technology transferred to Iran from the Agency in the preceding year that could assist in the development of Iran's nuclear weapons program; and
+
+&emsp;“(5) a description of all programs and projects of the International Atomic Energy Agency in each country described in section 307(a) of the Foreign Assistance Act of 1961 (22 U.S.C. 2227(a)) and any inconsistencies between the technical cooperation and assistance programs and projects of the Agency and United States nuclear nonproliferation and safety goals in those countries.
+
+“(b)
+
+Additional Requirement.—The report required to be submitted under subsection (a) shall be submitted in an unclassified form, to the extent appropriate, but may include a classified annex.”
+
+\[For definition of “Secretary” as used in section 1344 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 #### Opposition to Certain Programs or Projects; Reporting Requirements
 
@@ -58,7 +86,7 @@ Reporting Requirements.—
 
 &emsp;“(1)
 
-Request for iaea reports.—The Secretary of State shall direct the United States representative to the International Atomic Energy Agency to request the Director-General of the Agency to submit to the United States all reports prepared with respect to all programs or projects of the Agency that are of concern to the United States, including the programs or projects described in subsection (b).
+Request for iaea reports.—The Secretary of State shall direct the United States representative tothe International Atomic Energy Agency to request the Director-General of the Agency to submit to the United States all reports prepared with respect to all programs or projects of the Agency that are of concern to the United States, including the programs or projects described in subsection (b).
 
 &emsp;“(2)
 

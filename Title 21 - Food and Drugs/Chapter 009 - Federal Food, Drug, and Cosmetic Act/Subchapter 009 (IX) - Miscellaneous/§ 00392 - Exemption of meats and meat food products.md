@@ -6,7 +6,7 @@ Meats and meat food products shall be exempt from the provisions of this chapter
 
 #### (b) Laws unaffected
 
-Nothing contained in this chapter shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of section 351 of Public Health Service Act \[42 U.S.C. 262\] (relating to viruses, serums, toxins, and analogous products applicable to man); the virus, serum, toxin, and analogous products provisions, applicable to domestic animals, of the Act of Congress approved March 4, 1913 \[21 U.S.C. 151 et seq.\]; the Filled Cheese Act of June 6, 1896 (U.S.C., 1934 ed., title 26, ch. 10), the Filled Milk Act of March 4, 1923 \[21 U.S.C. 61 et seq.\]; or the Import Milk Act of February 15, 1927 \[21 U.S.C. 141 et seq.\].
+Nothing contained in this chapter shall be construed as in any way affecting, modifying, repealing, or superseding the provisions of section 351 of Public Health Service Act \[42 U.S.C. 262\] (relating to viruses, serums, toxins, and analogous products applicable to man); the virus, serum, toxin, and analogous products provisions, applicable to domestic animals, of the Act of Congress approved March 4, 1913 (37 Stat. 832–833) \[21 U.S.C. 151 et seq.\]; the Filled Cheese Act of June 6, 1896 (U.S.C., 1934 ed., title 26, ch. 10), the Filled Milk Act of March 4, 1923 \[21 U.S.C. 61 et seq.\]; or the Import Milk Act of February 15, 1927 \[21 U.S.C. 141 et seq.\].
 
 (June 25, 1938, ch. 675, §902(b), (c), 52 Stat. 1059; Pub. L. 90–399, §107, July 13, 1968, 82 Stat. 353.)
 
@@ -14,7 +14,7 @@ Nothing contained in this chapter shall be construed as in any way affecting, mo
 
 The Meat Inspection Act, approved March 4, 1907, as amended, referred to in subsec. (a), is act Mar. 4, 1907, ch. 2907, titles I to IV, as added Dec. 15, 1967, Pub. L. 90–201, 81 Stat. 584, which are classified generally to subchapters I to IV (§601 et seq.) of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 601 of this title and Tables.
 
-Act of March 4, 1913, referred to in subsec. (b), is act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended. The provisions of such act relating to viruses, etc., applicable to domestic animals, popularly known as the Virus-Serum-Toxin Act, are classified generally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 151 of this title and Tables.
+Act of March 4, 1913, referred to in subsec. (b), is act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended. The provisions of such act referred to relating to viruses, etc., applicable to domestic animals, are contained in the eighth paragraph under the heading “Bureau of Animal Industry”, 37 Stat. 832, as amended, popularly known as the Virus-Serum-Toxin Act, which is classified generally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 151 of this title and Tables.
 
 The Filled Cheese Act of June 6, 1896 (U.S.C., 1934 ed., title 26, ch. 10), referred to in subsec. (b), is act June 6, 1896, ch. 337, 29 Stat. 253, as amended, which had been classified to chapter 10 (§1000 et seq.) of Title 26, Internal Revenue, and included as chapter 17 (§2350 et seq.) of Title 26, Internal Revenue Code of 1939. Such chapter 17 was covered by section 4831 et seq. of Title 26, Internal Revenue Code, prior to the repeal of section 4831 et seq. of Title 26 by Pub. L. 93–490, §3(a)(1), Oct. 26, 1974, 88 Stat. 1466.
 
@@ -24,7 +24,7 @@ The Import Milk Act of February 15, 1927, referred to in subsec. (b), is act Feb
 
 #### Codification
 
-Subsecs. (a) and (b) of this section comprise respectively subsecs. (b) and (c) of section 902 of act June 25,1938. Subsecs. (a) and (d) of section 902 of act June 25, 1938, which prescribed the effective date of this chapter and made appropriations available, are set out as notes under section 301 of this title and this section, respectively.
+Subsecs. (a) and (b) of this section comprise respectively subsecs. (b) and (c) of section 902 of act June 25, 1938. Subsecs. (a) and (d) of section 902 of act June 25, 1938, which prescribed the effective date of this chapter and made appropriations available, are set out as notes under section 301 of this title and this section, respectively.
 
 #### Amendments
 

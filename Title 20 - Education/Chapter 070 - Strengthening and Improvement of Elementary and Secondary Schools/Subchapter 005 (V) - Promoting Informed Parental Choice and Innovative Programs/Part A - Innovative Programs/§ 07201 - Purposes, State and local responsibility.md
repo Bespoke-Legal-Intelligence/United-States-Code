@@ -8,7 +8,7 @@ The purposes of this part are the following:
 
 &emsp;(2) To provide funding to enable State educational agencies and local educational agencies to implement promising educational reform programs and school improvement programs based on scientifically based research.
 
-&emsp;(3) To provide a continuing source of innovation and educational improvement, includingsupport programs to provide library services and instructional and media materials.
+&emsp;(3) To provide a continuing source of innovation and educational improvement, including support programs to provide library services and instructional and media materials.
 
 &emsp;(4) To meet the educational needs of all students, including at-risk youth.
 

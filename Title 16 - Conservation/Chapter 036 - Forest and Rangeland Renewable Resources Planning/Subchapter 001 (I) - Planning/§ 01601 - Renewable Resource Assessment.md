@@ -62,7 +62,7 @@ For termination, effective May 15, 2000, of provisions in subsecs. (d)(1) and (e
 
 #### Transfer of Functions
 
-Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this subchapter and system activities requiring coordination and approval under general authorities of this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
+Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this subchapter and system activities requiring coordination and approval under general authorities of this subchapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian andAlaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
 
 #### Presidential Commission on State and Private Forests
 
@@ -178,7 +178,7 @@ Authorization of appropriations.—There is authorized to be appropriated such s
 
 &emsp;“(2)
 
-Spending authority.—Any spending authority (as defined in section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651\]) provided in this title \[see Short Title of 1990 Amendment note set out under section 2101 of this title\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
+Spending authority.—Any spending authority (as defined in section 401 of the Congressional Budget Act of 1974 \[2 U.S.C. 651\]) provided in this title \[see Short Title of 1990 Amendment note set out undersection 2101 of this title\] shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
 “(i)
 

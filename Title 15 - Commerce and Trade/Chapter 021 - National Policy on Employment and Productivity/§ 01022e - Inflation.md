@@ -18,7 +18,7 @@ The President shall initiate specific policies to reduce the rate of inflation, 
 
 &emsp;(3) the establishment of stockpiles of agricultural commodities and other critical materials to help stabilize prices, meet emergency needs, and promote adequate income to producers;
 
-&emsp;(4) encouragement to labor and management to increase productivity within the national framework of full employment through voluntary arrangements in industries and economic sectors;
+&emsp;(4) encouragement to labor and management to increase productivity within the nationalframework of full employment through voluntary arrangements in industries and economic sectors;
 
 &emsp;(5) recommendations to increase competition in the private sector and to improve the economic climate for the creation and growth of smaller businesses, including recommendations to strengthen and enforce the antitrust laws, the patent laws, and the internal revenue laws and regulations;
 

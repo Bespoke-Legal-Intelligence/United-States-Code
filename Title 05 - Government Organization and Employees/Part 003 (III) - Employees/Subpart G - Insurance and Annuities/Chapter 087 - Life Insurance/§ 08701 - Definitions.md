@@ -162,7 +162,7 @@ Maximum Limitation on Employee Insurance.—Section 3 \[amending this section an
 
 “(c)
 
-Erroneous Coverage.—Section 5 \[amending section 8706 of this title\] shall be effective in any case in which a finding of erroneous insurance coverage is made on or after the date of enactment of this Act.
+Erroneous Coverage.—Section 5 \[amending section 8706 of this title\] shall be effective in any case inwhich a finding of erroneous insurance coverage is made on or after the date of enactment of this Act.
 
 “(d)
 
@@ -262,7 +262,7 @@ For provisions relating to treatment of certain Federal employees of Saint Eliza
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8706, 8714a, 8714b, 8714c, 8716 of this title; title 2 section 162b; title 40 section 214d.
+This section is referred to in sections 8706, 8714a, 8714b, 8714c, 8716 of this title; title 2 sections 162b, 2064; title 28 section 179.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

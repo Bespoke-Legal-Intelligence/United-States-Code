@@ -12,7 +12,7 @@ A State may receive a development grant under section 6122 of this title for a f
 
 #### (1) Determination
 
-&emsp;The Secretaries may jointly waive the requirements described in subsection (a) of this section for a State that requests such a waiver if the Secretaries determine that such a waiver would be equitable due to—
+&emsp;The Secretaries may jointly waive the requirements described in subsection (a) of thissection for a State that requests such a waiver if the Secretaries determine that such a waiver would be equitable due to—
 
 &emsp;&emsp;(A) exceptional or uncontrollable circumstances such as a natural disaster; or
 

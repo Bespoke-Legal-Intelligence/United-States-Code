@@ -6,7 +6,7 @@ As used in this subchapter—
 
 (b) The term “competitive procedures” means procedures under which an executive agency enters into a contract pursuant to full and open competition. Such term also includes—
 
-&emsp;(1) procurement of architectural or engineering services conducted in accordance with title IX of this Act (40 U.S.C. 541 et seq.);
+&emsp;(1) procurement of architectural or engineering services conducted in accordance with title IX of this Act; <sup>1</sup>
 
 &emsp;(2) the competitive selection of basic research proposals resulting from a general solicitation and the peer review or scientific review (as appropriate) of such proposals;
 
@@ -64,7 +64,7 @@ As used in this subchapter—
 
 #### References in Text
 
-This Act, referred to in subsec. (b)(1), is the Federal Property and Administrative Services Act of 1949, approved June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of this Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+This Act, referred to in subsec. (b)(1), is the Federal Property and Administrative Services Act of 1949, approved June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of this Act, which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 
@@ -94,7 +94,7 @@ Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bi
 
 #### Effective Date
 
-Section effective July 1, 1949, see section 605 of act June 30, 1949, set out as a note under section 471 of Title 40, Public Buildings, Property, and Works.
+Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Small Business Act
 
@@ -102,9 +102,11 @@ Amendment to this section by section 2711(a)(3) of Pub. L. 98–369 not to affec
 
 #### Definitions
 
-The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
+The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 1018a.
+This section is referred to in title 6 section 423; title 20 section 1018a.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

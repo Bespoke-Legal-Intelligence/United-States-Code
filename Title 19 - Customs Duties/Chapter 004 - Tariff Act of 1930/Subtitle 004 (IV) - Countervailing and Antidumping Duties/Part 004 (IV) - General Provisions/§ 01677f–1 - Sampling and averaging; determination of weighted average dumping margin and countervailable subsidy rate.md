@@ -78,7 +78,7 @@ The authority to select averages and statistically valid samples shall rest excl
 
 Pub. L. 103–465, §269(a), added subsec. (e).
 
-Pub. L. 103–465, §229(a), amended section generally, substituting present provisions for provisions authorizing use of averaging or generally recognized sampling techniques for purposes of determining United States price or foreign market value and for purposes of annual reviews under section 1675 of this title, and providing for selection of samples and averages by administering authority.
+Pub. L. 103–465, §229(a), amended section generally, substituting present provisions for provisions authorizing use of averaging or generally recognized samplingtechniques for purposes of determining United States price or foreign market value and for purposes of annual reviews under section 1675 of this title, and providing for selection of samples and averages by administering authority.
 
 #### Effective Date of 1994 Amendment
 

@@ -16,7 +16,7 @@ Section 3 of Pub. L. 99–634 provided that:
 
 “(a) Except as provided in subsection (b), the Anti-Kickback Act of 1986 (as set out in section 2(a)) \[sections 51 to 58 of this title\] shall take effect with respect to conduct described in section 3 of such Act \[section 53 of this title\] which occurs on or after the date of the enactment of this Act \[Nov. 7, 1986\].
 
-“(b) Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (as set out in section 2(a)) \[section57(a) and (b) of this title\] shall take effect with respect to contract solicitations issued by an agency, department, or other establishment of the Federal Government on or after the date which is 90 days after the date of the enactment of this Act \[Nov. 7, 1986\].”
+“(b) Subsections (a) and (b) of section 7 of the Anti-Kickback Act of 1986 (as set out in section 2(a)) \[section 57(a) and (b) of this title\] shall take effect with respect to contract solicitations issued by an agency, department, or other establishment of the Federal Government on or after the date which is 90 days after the date of the enactment of this Act \[Nov. 7, 1986\].”
 
 #### Short Title of 1986 Amendment
 

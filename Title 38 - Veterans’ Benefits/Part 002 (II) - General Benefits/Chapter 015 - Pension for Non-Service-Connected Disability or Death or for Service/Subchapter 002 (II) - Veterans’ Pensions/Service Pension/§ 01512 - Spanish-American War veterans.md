@@ -14,7 +14,7 @@
 
 &emsp;(C) for a period of ninety consecutive days or more and such period began or ended during the Spanish-American War.
 
-(3)(A) Any veteran eligible for pension under this subsection shall, if such veteran so elects, be paid pension at the rates prescribed by section 1521 of this title (except the rate provided under subsection (g) of such section), and under the conditions (other than the service requirements) applicable to pension paid under thatsection to veterans of a period of war. If pension is paid pursuant to such an election, the election shall be irrevocable.
+(3)(A) Any veteran eligible for pension under this subsection shall, if such veteran so elects, be paid pension at the rates prescribed by section 1521 of this title (except the rate provided under subsection (g) of such section), and under the conditions (other than the service requirements) applicable to pension paid under that section to veterans of a period of war. If pension is paid pursuant to such an election, the election shall be irrevocable.
 
 (B) The Secretary shall pay each month to each Spanish-American War veteran who is receiving, or entitled to receive, pension based on a need of regular aid and attendance, whichever amount is greater (i) that provided by subparagraph (B) of subsection (a)(1) of this section, or (ii) that which is payable to the veteran under section 1521 of this title as in effect on December 31, 1978, under regulations which the Secretary shall prescribe. Each change in the amount of pension payment required by this subparagraph shall be effective as of the first day of the month during which the facts of the particular case warrant such change, and shall be made without specific application therefor.
 
@@ -52,7 +52,7 @@ Subsec. (b)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary”
 
 1978—Subsec. (a)(3)(A). Pub. L. 95–588, §105(1), inserted “(except the rate provided under subsection (g) of such section)” after “of this title”, substituted “a period of war” for “World War I”, and struck out exception to pension elections formerly provided pursuant to subpar. (B).
 
-Subsec. (a)(3)(B). Pub. L. 95–588, §105(2), substituted “as in effect on December 31, 1978, under regulations which the Administrator shall prescribe” for “if such veteran has elected, or would be payable if such veteran were to elect, to receive pension under such section pursuant to subparagraph (A) of this paragraph”.
+Subsec. (a)(3)(B). Pub. L. 95–588, §105(2), substituted “as in effect on December 31, 1978, under regulations which the Administrator shall prescribe” for “if such veteran has elected, or would be payable if such veteranwere to elect, to receive pension under such section pursuant to subparagraph (A) of this paragraph”.
 
 1975—Subsec. (a). Pub. L. 94–169 substituted “such veteran” for “he” wherever appearing.
 

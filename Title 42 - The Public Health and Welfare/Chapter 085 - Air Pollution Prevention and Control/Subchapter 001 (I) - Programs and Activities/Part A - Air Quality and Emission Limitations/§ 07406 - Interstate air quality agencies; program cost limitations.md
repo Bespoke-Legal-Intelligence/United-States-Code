@@ -16,7 +16,7 @@ A prior section 106 of act July 14, 1955, was renumbered section 117 by Pub. L. 
 
 1990—Pub. L. 101–549, §102(f)(2)(A), inserted “or of implementing section 7506a of this title (relating to control of interstate air pollution) or section 7511c of this title (relating to control of interstate ozone pollution)” after “section 7407 of this title”.
 
-Pub. L. 101–549, §102(f)(2)(B), which directed insertion of “any commission established under section 7506a ofthis title (relating to control of interstate air pollution) or section 7511c of this title (relating to control of interstate ozone pollution) or” after “program costs of”, was executed by making the insertion after that phrase the first place it appeared to reflect the probable intent of Congress.
+Pub. L. 101–549, §102(f)(2)(B), which directed insertion of “any commission established under section 7506a of this title (relating to control of interstate air pollution) or section 7511c of this title (relating to control of interstate ozone pollution) or” after “program costs of”, was executed by making the insertion after that phrase the first place it appeared to reflect the probable intent of Congress.
 
 Pub. L. 101–549, §102(f)(2)(C), which directed insertion of “or such commission” after “such agency” in last sentence, was executed by making insertion after “such agency” the first place it appeared in the last sentence to reflect the probable intent of Congress.
 

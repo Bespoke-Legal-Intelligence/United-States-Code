@@ -24,7 +24,7 @@
 
 (b) If a member of the Service is appointed to any position in the executive branch by the President, by and with the advice and consent of the Senate, or by the President alone, the period of service in that position by the member shall be regarded as an assignment under subchapter V of this chapter and the member shall not, by virtue of the acceptance of such assignment, lose his or her status as a member of the Service. A member of the Senior Foreign Service who accepts such an assignment may elect to continue to receive the salary of his or her salary class, to remain eligible for performance pay under subchapter IV of this chapter, and to receive the leave to which such member is entitled under subchapter I of chapter 63, title 5, as a member of the Senior Foreign Service, in lieu of receiving the salary and leave (if any) of the position to which the member is appointed by the President.
 
-(Pub. L. 96–465, title I, §302, Oct. 17, 1980, 94 Stat. 2084; Pub. L. 100–204, title I, §177(b), Dec. 22, 1987,101 Stat. 1362; Pub. L. 102–138, title I, §§141, 142(a), Oct. 28, 1991, 105 Stat. 667.)
+(Pub. L. 96–465, title I, §302, Oct. 17, 1980, 94 Stat. 2084; Pub. L. 100–204, title I, §177(b), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 102–138, title I, §§141, 142(a), Oct. 28, 1991, 105 Stat. 667.)
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Initial distribution
 
-The Secretary of the Interior shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection,<sup>1</sup> and Restoration Act (title III, Public Law 101–646) \[16 U.S.C. 3951 et seq.\]. Notwithstanding the provisions of section 777b of this title, such sums shall remain available to carry out such Act through fiscal year 2009.
+The Secretary of the Interior shall distribute 18 per centum of each annual appropriation made in accordance with the provisions of section 777b of this title as provided in the Coastal Wetlands Planning, Protection,<sup>1</sup> and Restoration Act (title III, Public Law 101–646) \[16 U.S.C. 3951 et seq.\]. Notwithstanding the provisions ofsection 777b of this title, such sums shall remain available to carry out such Act through fiscal year 2009.
 
 #### (b) Use of balance after distribution
 
@@ -82,7 +82,7 @@ Of the balance of each such annual appropriation remaining after making the dist
 
 #### (B) Apportionment of unobligated amounts
 
-&emsp;&emsp;Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the same manner as other amounts made available under this chapter are apportioned among the States under subsection (e) of this section for the fiscal year.
+&emsp;&emsp;Not later than 60 days after the end of a fiscal year, the Secretary of the Interior shall apportion among the States any of the available amount under paragraph (1) that remains unobligated at the end of the fiscal year, on the same basis and in the samemanner as other amounts made available under this chapter are apportioned among the States under subsection (e) of this section for the fiscal year.
 
 #### (e) Apportionment among States
 
@@ -102,7 +102,7 @@ So much of any sum not allocated under the provisions of this section for any fi
 
 &emsp;For each fiscal year, the Secretary of the Interior may use not more than $900,000 in accordance with paragraph (1).
 
-(Aug. 9, 1950, ch. 658, §4, 64 Stat. 432; Pub. L. 91–503, title II, §201, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 94–273, §4(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–369, div. A, title X, §1014(a)(3), July 18, 1984, 98 Stat. 1015; Pub. L. 101–646, title III, §308, Nov. 29, 1990, 104 Stat. 4787; Pub. L. 102–587, title V, §5604(a), Nov. 4, 1992, 106 Stat. 5087; Pub. L. 105–178, title VII, §§7402(b), 7403, June 9, 1998, 112 Stat. 483, 485; Pub. L. 105–206, title IX, §9012(b), July 22, 1998, 112 Stat. 864; Pub. L. 106–74, title IV, §430, Oct. 20, 1999, 113 Stat. 1096; Pub. L.106–377, §1(a)(2) \[title VI, §605\], Oct. 27, 2000, 114 Stat. 1441, 1441A–85; Pub. L. 106–408, title I, §§121(a), (c), 122(b)–124, Nov. 1, 2000, 114 Stat. 1769, 1772, 1774.)
+(Aug. 9, 1950, ch. 658, §4, 64 Stat. 432; Pub. L. 91–503, title II, §201, Oct. 23, 1970, 84 Stat. 1101; Pub. L. 94–273, §4(2), Apr. 21, 1976, 90 Stat. 377; Pub. L. 98–369, div. A, title X, §1014(a)(3), July 18, 1984, 98 Stat. 1015; Pub. L. 101–646, title III, §308, Nov. 29, 1990, 104 Stat. 4787; Pub. L. 102–587, title V, §5604(a), Nov. 4, 1992, 106 Stat. 5087; Pub. L. 105–178, title VII, §§7402(b), 7403, June 9, 1998, 112 Stat. 483, 485; Pub. L. 105–206, title IX, §9012(b), July 22, 1998, 112 Stat. 864; Pub. L. 106–74, title IV, §430, Oct. 20, 1999, 113 Stat. 1096; Pub. L. 106–377, §1(a)(2) \[title VI, §605\], Oct. 27, 2000, 114 Stat. 1441, 1441A–85; Pub. L. 106–408, title I, §§121(a), (c), 122(b)–124, Nov. 1, 2000, 114 Stat. 1769, 1772, 1774.)
 
 #### References in Text
 
@@ -156,7 +156,7 @@ Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L.
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respect to fiscal years beginningafter Sept. 30, 1984, see section 1014(b) of Pub. L. 98–369, set out as a note under section 777 of this title.
+Amendment by Pub. L. 98–369 effective Oct. 1, 1984, and applicable with respect to fiscal years beginning after Sept. 30, 1984, see section 1014(b) of Pub. L. 98–369, set out as a note under section 777 of this title.
 
 #### Transfer of Functions
 

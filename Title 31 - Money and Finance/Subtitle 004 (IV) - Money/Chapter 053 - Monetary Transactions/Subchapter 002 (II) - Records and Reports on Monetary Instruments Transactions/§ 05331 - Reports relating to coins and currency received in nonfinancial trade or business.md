@@ -36,7 +36,7 @@ Amounts received by financial institutions.—Subsection (a) shall not apply to 
 
 &emsp;(2)
 
-Transactions occurring outside the united states.—Except to the extent provided in regulations prescribed by the Secretary,subsection (a) shall not apply to any transaction if the entire transaction occurs outside the United States.
+Transactions occurring outside the united states.—Except to the extent provided in regulations prescribed by the Secretary, subsection (a) shall not apply to any transaction if the entire transaction occurs outside the United States.
 
 (d)
 

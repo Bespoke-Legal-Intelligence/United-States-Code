@@ -1,12 +1,12 @@
 ### §642. Appointment of commissioners; vacancies; chairman; tenure of office
 
-The President of the United States shall, by and with the advice and consent of the Senate, appoint seven commissioners, three of whom shall be selected from the Engineer Corps of the Army, one from the National Ocean Survey, and three from civil life, two of whom shall be civil engineers. And any vacancy which may occur in the commission shall in like manner be filled by the President of the United States; and he shall designate one of the commissioners appointed from the Engineer Corps of the Army to be president of the commission. The commissioners appointed under sections 641 to 644, 646, and 647 of this title, except those appointed from civil life, shall remain in office subject to removal by the President of the United States. Each commissioner appointed from civil life after November 7, 1966, shall be appointed for a term of nine years.
+The President of the United States shall, by and with the advice and consent of the Senate, appoint seven commissioners, three of whom shall be selected from the Engineer Corps of the Army, one from the National Ocean Survey, and three from civil life, two of whom shall be civil engineers. And any vacancy which may occur inthe commission shall in like manner be filled by the President of the United States; and he shall designate one of the commissioners appointed from the Engineer Corps of the Army to be president of the commission. The commissioners appointed under sections 641 to 644, 646, and 647 of this title, except those appointed from civil life, shall remain in office subject to removal by the President of the United States. Each commissioner appointed from civil life after November 7, 1966, shall be appointed for a term of nine years.
 
 (June 28, 1879, ch. 43, §2, 21 Stat. 37; Pub. L. 89–789, title II, §208, Nov. 7, 1966, 80 Stat. 1423.)
 
 #### Amendments
 
-1966—Pub. L. 89–789 inserted “, except those appointed from civil life,” and provided a nine year termfor each commissioner appointed from civil life after Nov. 7, 1966.
+1966—Pub. L. 89–789 inserted “, except those appointed from civil life,” and provided a nine year term for each commissioner appointed from civil life after Nov. 7, 1966.
 
 #### Change of Name
 

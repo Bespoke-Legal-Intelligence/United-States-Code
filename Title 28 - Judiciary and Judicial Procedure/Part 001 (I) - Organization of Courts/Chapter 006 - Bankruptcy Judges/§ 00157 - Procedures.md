@@ -54,9 +54,9 @@
 
 #### Amendments
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–394 added subsec. (e).
+1994—Subsec. (e). Pub. L. 103–394 added subsec. (e).
 
-<b>1986</b>—Subsec. (b)(2). Pub. L. 99–554, in subpar. (B) substituted “interests” for “interest” and inserted reference to chapter 12, and in subpar. (G) inserted a comma after “annul”.
+1986—Subsec. (b)(2). Pub. L. 99–554, in subpar. (B) substituted “interests” for “interest” and inserted reference to chapter 12, and in subpar. (G) inserted a comma after “annul”.
 
 #### Effective Date of 1994 Amendment
 

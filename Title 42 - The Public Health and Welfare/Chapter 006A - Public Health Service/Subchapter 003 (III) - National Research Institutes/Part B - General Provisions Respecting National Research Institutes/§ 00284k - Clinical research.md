@@ -24,7 +24,7 @@ The Director of National Institutes of Health shall establish peer review mechan
 
 #### References in Text
 
-Section 284<i>l</i> of this title, referred to in subsec. (d), was in the original “section 409D”, and was translated as meaning section 409D of act July 1, 1944, ch. 373, as added by section 204(b) of Pub. L. 106–505. Such section 409D was renumbered section 409H of act July 1, 1944, ch. 373, by Pub. L. 107–109, §3(2), Jan. 4, 2002, 115 Stat. 1408. Another section 409D of act July 1, 1944, ch. 373, as added by section 1001 of Pub. L. 106–310, is classified to section 284h of this title.
+Section 284<i>l</i> of this title, referred to in subsec. (d), was in the original “section 409D”, and was translatedas meaning section 409D of act July 1, 1944, ch. 373, as added by section 204(b) of Pub. L. 106–505. Such section 409D was renumbered section 409H of act July 1, 1944, ch. 373, by Pub. L. 107–109, §3(2), Jan. 4, 2002, 115 Stat. 1408. Another section 409D of act July 1, 1944, ch. 373, as added by section 1001 of Pub. L. 106–310, is classified to section 284h of this title.
 
 #### Findings and Purpose
 
@@ -68,7 +68,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;&emsp;“(E) The almost complete absence of clinical research training in the curriculum of training grant awardees.
 
-&emsp;&emsp;“(F) Academic Medical Centers are experiencing difficulties in maintaining a proper environmentfor research in a highly competitive health care marketplace, which are compounded by the decreased willingness of third party payers to cover health care costs for patients engaged in research studies and research procedures.
+&emsp;&emsp;“(F) Academic Medical Centers are experiencing difficulties in maintaining a proper environment for research in a highly competitive health care marketplace, which are compounded by the decreased willingness of third party payers to cover health care costs for patients engaged in research studies and research procedures.
 
 &emsp;“(10) In 1960, general clinical research centers were established under the Office of the Director of the National Institutes of Health with an initial appropriation of $3,000,000.
 

@@ -32,7 +32,7 @@
 
 &emsp;The Secretary shall provide the assistance described in paragraph (1) for rural community development activities, which shall include providing—
 
-&emsp;&emsp;(A) grants to private, nonprofit corporations to enable the corporations to provideassistance concerning home repair to rural low-income families and concerning planning and developing low-income rural rental housing units; and
+&emsp;&emsp;(A) grants to private, nonprofit corporations to enable the corporations to provide assistance concerning home repair to rural low-income families and concerning planning and developing low-income rural rental housing units; and
 
 &emsp;&emsp;(B) grants to multistate, regional, private, nonprofit organizations to enable the organizations to provide training and technical assistance to small, rural communities concerning meeting their community facility needs.
 

@@ -16,7 +16,7 @@
 
 (c)(1) If a lump-sum payment is taken under this section—
 
-&emsp;(A) no insurance under the provisions of section 8704(a) or (b) shall be payable based on thedeath or any loss of the individual involved, unless the lump-sum payment represents only a portion of the total benefits which could have been taken, in which case benefits under those provisions shall remain in effect, except that the basic insurance amount on which they are based—
+&emsp;(A) no insurance under the provisions of section 8704(a) or (b) shall be payable based on the death or any loss of the individual involved, unless the lump-sum payment represents only a portion of the total benefits which could have been taken, in which case benefits under those provisions shall remain in effect, except that the basic insurance amount on which they are based—
 
 &emsp;&emsp;(i) shall be reduced by the percentage which the designated portion comprised relative to the total benefits which could have been taken (rounding the result to the nearest multiple of $1,000 or, if midway between multiples of $1,000, to the next higher multiple of $1,000); and
 

@@ -18,9 +18,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–82 inserted reference to the compensation of such legal assistants as the Judicial Conference, on the basis of the recommendations of the judicial councils of the circuits, considers necessary.
+1979—Subsec. (a). Pub. L. 96–82 inserted reference to the compensation of such legal assistants as the Judicial Conference, on the basis of the recommendations of the judicial councils of the circuits, considers necessary.
 
-<b>1968</b>—Pub. L. 90–578 substituted provisions relating to expenses for provisions prescribing residence for park commissioners. See section 631(b)(3) of this title.
+1968—Pub. L. 90–578 substituted provisions relating to expenses for provisions prescribing residence for park commissioners. See section 631(b)(3) of this title.
 
 #### Change of Name
 

@@ -4,7 +4,7 @@
 
 &emsp;(A) the attendance of a witness or party at an official proceeding, or any testimony given or any record, document, or other object produced by a witness in an official proceeding; or
 
-&emsp;(B) providing to a law enforcement officer any information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, parole, or release pending judicial proceedings,
+&emsp;(B) providing to a law enforcement officer any information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation <sup>1</sup> supervised release,,<sup>1</sup> parole, or release pending judicial proceedings,
 
 > shall be punished as provided in paragraph (2).
 
@@ -18,7 +18,7 @@
 
 &emsp;(1) the attendance of a witness or party at an official proceeding, or any testimony given or any record, document, or other object produced by a witness in an official proceeding; or
 
-&emsp;(2) any information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, parole, or release pending judicial proceedings given by a person to a law enforcement officer;
+&emsp;(2) any information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation <sup>1</sup> supervised release,,<sup>1</sup> parole, or release pending judicial proceedings given by a person to a law enforcement officer;
 
 > or attempts to do so, shall be fined under this title or imprisoned not more than ten years, or both.
 
@@ -26,11 +26,23 @@
 
 (d) There is extraterritorial Federal jurisdiction over an offense under this section.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1250; amended Pub. L. 103–322, title VI, §60017, title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(1), Oct. 1, 1996, 110 Stat. 3017.)
+(e) <sup>2</sup> Whoever knowingly, with the intent to retaliate, takes any action harmful to any person, including interference with the lawful employment or livelihood of any person, for providing to a law enforcement officer any truthful information relating to the commission or possible commission of any Federal offense, shall be fined under this title or imprisoned not more than 10 years, or both.
+
+(e) <sup>2</sup> Whoever conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense the commission of which was the object of the conspiracy.
+
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1250; amended Pub. L. 103–322, title VI, §60017, title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(1), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 107–204, title XI, §1107(a), July 30, 2002, 116 Stat. 810; Pub. L. 107–273, div. B, title III, §3001(b), (c)(2), title IV, §4002(b)(4), Nov. 2, 2002, 116 Stat. 1804, 1807.)
 
 #### Amendments
 
-1996—Subsec. (c). Pub. L. 104–214, §1(1)(B), which directed the addition of subsec. (c) at the end of this section, was executed by adding subsec. (c) before subsec. (d) to reflect the probable intent of Congress.
+2002—Subsecs. (a)(1)(B), (b)(2). Pub. L. 107–273, §3001(c)(2), inserted “supervised release,” after “probation”.
+
+Subsec. (d). Pub. L. 107–273, §4002(b)(4), transferred subsec. (d) to appear after subsec. (c).
+
+Subsec. (e). Pub. L. 107–273, §3001(b), added subsec. (e) relating to conspiracy to commit any offense under this section.
+
+Pub. L. 107–204 added subsec. (e) relating to taking of action harmful to any person for providing law enforcement officer truthful information relating to commission of offense.
+
+1996—Subsec. (c). Pub. L. 104–214, §1(1)(B), added subsec. (c) at end.
 
 Pub. L. 104–214, §1(1)(A), redesignated subsec. (c) as (d).
 
@@ -51,4 +63,8 @@ Section effective Oct. 12, 1982, see section 9(a) of Pub. L. 97–291, set out a
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1514, 1515, 1961, 2516, 3142 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
 

@@ -10,7 +10,7 @@ Adoptions Covered.—An adoption for which expenses may be reimbursed under this
 
 (c)
 
-Benefits Paid After Adoption Is Final.—Benefits paid under this section in the case of an adoption may be paid only after the adoption is final.
+Benefits Paid After Adoption Is Final.—Benefits paid under this section in the case of anadoption may be paid only after the adoption is final.
 
 (d)
 

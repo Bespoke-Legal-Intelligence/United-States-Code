@@ -22,9 +22,9 @@ National Historic Sites
 
 Adams National Historic Site, Massachusetts \[redesignated Adams National Historical Park by Pub. L. 105–342, §5(e), Nov. 2, 1998, 112 Stat. 3202 (16 U.S.C. 410eee et seq.)\].—Designated Dec. 9, 1946.
 
-Allegheny Portage Railroad National Historic Site, Pennsylvania.—Pub. L. 88–546, Aug. 31, 1964, 78 Stat. 752.
+Allegheny Portage Railroad National Historic Site, Pennsylvania.—Pub. L. 88–546, Aug. 31, 1964, 78 Stat. 752; Pub. L. 107–369, Dec. 19, 2002, 116 Stat. 3069.
 
-Andersonville National Historic Site, Georgia.—Pub. L. 91–465, Oct. 16, 1970, 84 Stat. 989.
+Andersonville National Historic Site, Georgia.—Pub. L. 91–465, Oct. 16, 1970, 84 Stat. 989; Pub. L. 107–357, §1, Dec. 17, 2002, 116 Stat. 3014.
 
 Andrew Johnson National Historic Site.—Aug. 29, 1935, ch. 801, 49 Stat. 958 (16 U.S.C. 450<i>o</i>–450q); Proc. No. 2554, Apr. 27, 1942, 56 Stat. 1955; Pub. L. 88–197, Dec. 11, 1963, 77 Stat. 349.
 
@@ -146,6 +146,8 @@ Palo Alto Battlefield National Historic Site, Texas.—Pub. L. 95–625, title V
 
 Pu‘ukohola�AE8 Heiau National Historic Site, Hawaii.—Pub. L. 92–388, Aug. 17, 1972, 86 Stat. 562; Pub. L. 106–510, §3(e), Nov. 13, 2000, 114 Stat. 2364.
 
+Ronald Reagan Boyhood Home National Historic Site, Illinois.—Pub. L. 107–137, Feb. 6, 2002, 116 Stat. 3.
+
 Saint Gaudens National Historic Site, New Hampshire.—Pub. L. 88–543, Aug. 31, 1964, 78 Stat. 749; Pub. L. 106–491, Nov. 9, 2000, 114 Stat. 2209.
 
 Salem Maritime National Historic Site, Massachusetts.—Designated Mar. 17, 1938; Pub. L. 100–349, June 27, 1988, 102 Stat. 659; Pub. L. 101–632, Nov. 28, 1990, 104 Stat. 4575.
@@ -262,7 +264,7 @@ Pub. L. 106–45, Aug. 10, 1999, 113 Stat. 224, authorized the Secretary of the 
 
 #### Chesapeake Bay Initiative
 
-Pub. L. 105–312, title V, Oct. 30, 1998, 112 Stat. 2961, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
+Pub. L. 105–312, title V, Oct. 30, 1998, 112 Stat. 2961, as amended by Pub. L. 107–308, §9, Dec. 2, 2002, 116 Stat. 2448, authorized Secretary of the Interior, in cooperation with Administrator of the Environmental Protection Agency, to create a Chesapeake Bay Gateways and Watertrails Network and to provide assistance to State and local governments in establishing this network, and authorized appropriations for these purposes.
 
 #### Charleston, Arkansas, National Commemorative Site
 
@@ -284,7 +286,7 @@ Pub. L. 105–277, div. A, §101(e) \[title I, §128\], Oct. 21, 1998, 112 Stat.
 
 #### Vancouver National Historic Reserve
 
-Pub. L. 104–333, div. I, title V, §502, Nov. 12, 1996, 110 Stat. 4154, as amended by Pub. L. 106–176, title I, §107, Mar. 10, 2000, 114 Stat. 26, established Vancouver National Historic Reserve, Washington, directed that Reserve be administered through general management plan submitted by National Park Service to Secretary of the Interior within 3 years after Nov. 12, 1996, developed by partnership of interests including National Park Service, Historic Preservation Office of State of Washington, Department of the Army, and City of Vancouver, Washington, and to include specific findings of Vancouver Historic Reserve Report and to meet with approval of Secretary of the Interior and Secretary of the Army, directed that plan not be deemed new unit of National Park System and not limit authority of Federal Aviation Administration, and authorized appropriations.
+Pub. L. 104–333, div. I, title V, §502, Nov. 12, 1996, 110 Stat. 4154, as amended by Pub. L. 106–176, title I, §107, Mar. 10, 2000, 114 Stat. 26; Pub. L. 107–342, §1, Dec. 17, 2002, 116 Stat. 2891, established Vancouver National Historic Reserve, Washington, directed that Reserve be administered through general management plan submitted by National Park Service to Secretary of the Interior within 3 years after Nov. 12, 1996, developed by partnership of interests including National Park Service, Historic Preservation Office of State of Washington, Department of the Army, and City of Vancouver, Washington, and to include specific findings of Vancouver Historic Reserve Report and to meet with approval of Secretary of the Interior and Secretary of the Army, directed that plan not be deemed new unit of National Park System and not limit authority of Federal Aviation Administration, and authorized appropriations.
 
 #### Great Falls Historic District, New Jersey
 
@@ -356,7 +358,7 @@ Pub. L. 95–625, title V, §504, Nov. 10, 1978, 92 Stat. 3498, provided:
 
 “(a) \[Acquisition of property\] In order to preserve and protect Saint Paul's Church, Eastchester, in Mount Vernon, New York, for the benefit of present and future generations, the Secretary may accept any gift or bequest of any property or structure which comprises such church and any other real or personal property located within the square bounded by South Columbus Avenue, South Third Avenue, Edison Avenue, and South Fulton Avenue, in Mount Vernon, New York, including the cemetery located within such square and any real property located within such square which was at any time a part of the old village green, now in Mount Vernon, New York.
 
-“(b) \[Administration; repairs; cooperative agreements: management protection, development and interpretation\] Any property acquired under subsection (a) shall be administered by the Secretary acting through the National Park Service, in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act approved August 25, 1916 (16 U.S.C. 1 and following) \[sections 1, 2, 3, and 4 of this title\] and the Act approved August 21, 1935 \[sections 461 to 467 of this title\]. The Secretary, in carrying out the provisions of such Acts (i) shall give particular attention to assuring the completion of such structural and other repairs as he considers necessary to restore and preserve any propertyacquired in accordance with this section, and (ii) may enter into cooperative agreements with other public or private entities for the management, protection, development, and interpretation, in whole or in part, of the property so acquired.”
+“(b) \[Administration; repairs; cooperative agreements: management protection, development and interpretation\] Any property acquired under subsection (a) shall be administered by the Secretary acting through the National Park Service, in accordance with this section and provisions of law generally applicable to units of the National Park System, including the Act approved August 25, 1916 (16 U.S.C. 1 and following) \[sections 1, 2, 3, and 4 of this title\] and the Act approved August 21, 1935 \[sections 461 to 467 of this title\]. The Secretary, in carrying out the provisions of such Acts (i) shall give particular attention to assuring the completion of such structural and other repairs as he considers necessary to restore and preserve any property acquired in accordance with this section, and (ii) may enter into cooperative agreements with other public or private entities for the management, protection, development, and interpretation, in whole or in part, of the property so acquired.”
 
 #### Lowell Historic Canal District, Lowell, Massachusetts
 
@@ -464,5 +466,5 @@ Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 410ddd, 410eee, 410eee–3, 410fff–2, 410ggg–1, 410hhh–5, 423<i>l</i>–5, 430f–5, 430f–10, 430m, 450e–1, 450hh–2, 450jj–5, 450pp–1, 450ss–2, 450ss–4, 459h–4, 460kkk, 462, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 698u–3, 1133, 1244, 3206 of this title; title 40 sections 304a–2, 871; title 43 section 377b.
+This section is referred to in sections 1e, 230e, 281e, 282a, 282b, 396d, 397d, 407q, 410u, 410w, 410z–4, 410aa–2, 410bb–1, 410ee, 410ii–5, 410jj–4, 410kk–1, 410<i>ll</i>, 410nn–1, 410<i>oo</i>–3, 410rr–3, 410rr–7, 410ss–1, 410tt–3, 410yy–2, 410bbb–2, 410ccc–2, 410ddd, 410eee, 410eee–3, 410fff–2, 410ggg–1, 410hhh–5, 410iii–5, 423<i>l</i>–5, 430f–5, 430f–10, 430m,450e–1, 450hh–2, 450jj–5, 450pp–1, 450ss–2, 450ss–4, 459h–4, 460kkk, 462, 463, 464, 465, 466, 467, 467b, 468, 469, 470a, 698r, 698u–3, 1133, 1244, 3206 of this title; title 40 sections 550, 1303; title 43 section 377b.
 

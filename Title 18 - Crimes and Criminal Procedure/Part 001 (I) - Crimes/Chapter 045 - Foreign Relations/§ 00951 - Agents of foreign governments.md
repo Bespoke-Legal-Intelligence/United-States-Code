@@ -56,7 +56,3 @@ Section 11 of the Export Administration Act of 1979, referred to in subsec. (e)(
 
 Amendment by Pub. L. 97–462 effective 45 days after Jan. 12, 1983, see section 4 of Pub. L. 97–462, set out as a note under section 2071 of Title 28, Judiciary and Judicial Procedure.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
-

@@ -72,7 +72,7 @@ Form of records and reports.—Such records and reports shall be made and retain
 
 &emsp;(2)
 
-Information relating to beneficial ownership.—In addition to any other requirement under any other provision of law, the Secretary may require any domestic financial institution or domestic financial agency to take such steps as the Secretary may determine to be reasonable and practicable to obtain and retain information concerning the beneficial ownership of any account opened or maintained in the United States by a foreign person (other than a foreign entity whose shares are subject to public reporting requirements or are listed and traded on a regulated exchange or trading market), or a representative of such a foreign person, that involves a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts if the Secretary finds any such jurisdiction, institution, or transaction or type of account to be of primary money laundering concern.
+Information relating to beneficial ownership.—In addition to any other requirement under any other provision of law, the Secretary may require any domestic financial institution or domestic financial agency to take such steps as the Secretary may determine to be reasonable and practicable to obtain and retain information concerning the beneficial ownership of any account opened or maintained in the United States by a foreign person (other than a foreign entity whose shares are subject to public reporting requirements or are listed and traded on a regulated exchange or trading market), or a representative of such a foreign person, that involves a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, 1 or more classes oftransactions within, or involving, a jurisdiction outside of the United States, or 1 or more types of accounts if the Secretary finds any such jurisdiction, institution, or transaction or type of account to be of primary money laundering concern.
 
 &emsp;(3)
 
@@ -84,7 +84,7 @@ Information relating to certain payable-through accounts.—If the Secretary fin
 
 &emsp;(4)
 
-Information relating to certain correspondent accounts.—If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classesof transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary may require any domestic financial institution or domestic financial agency that opens or maintains a correspondent account in the United States for a foreign financial institution involving any such jurisdiction or any such financial institution operating outside of the United States, or a correspondent account through which any such transaction may be conducted, as a condition of opening or maintaining such account—
+Information relating to certain correspondent accounts.—If the Secretary finds a jurisdiction outside of the United States, 1 or more financial institutions operating outside of the United States, or 1 or more classes of transactions within, or involving, a jurisdiction outside of the United States to be of primary money laundering concern, the Secretary may require any domestic financial institution or domestic financial agency that opens or maintains a correspondent account in the United States for a foreign financial institution involving any such jurisdiction or any such financial institution operating outside of the United States, or a correspondent account through which any such transaction may be conducted, as a condition of opening or maintaining such account—
 
 &emsp;&emsp;(A) to identify each customer (and representative of such customer) of any such financial institution who is permitted to use, or whose transactions are routed through, such correspondent account; and
 
@@ -120,7 +120,7 @@ Jurisdictional factors.—In the case of a particular jurisdiction—
 
 &emsp;&emsp;&emsp;(v) the extent to which that jurisdiction is characterized as an offshore banking or secrecy haven by credible international organizations or multilateral expert groups;
 
-&emsp;&emsp;&emsp;(vi) whether the United States has a mutual legal assistance treaty with that jurisdiction, and the experience of United States law enforcement officials and regulatory officials in obtaining information about transactions originating in or routed through or to such jurisdiction; and
+&emsp;&emsp;&emsp;(vi) whether the United States has a mutual legal assistance treaty with that jurisdiction, and the experience of United States law enforcement officials and regulatory officials in obtaining informationabout transactions originating in or routed through or to such jurisdiction; and
 
 &emsp;&emsp;&emsp;(vii) the extent to which that jurisdiction is characterized by high levels of official or institutional corruption.
 
@@ -140,7 +140,7 @@ Notification of Special Measures Invoked by the Secretary.—Not later than 10 d
 
 (e)
 
-Definitions.—Notwithstanding any other provision of this subchapter, for purposes of thissection and subsections (i) and (j) of section 5318, the following definitions shall apply:
+Definitions.—Notwithstanding any other provision of this subchapter, for purposes of this section and subsections (i) and (j) of section 5318, the following definitions shall apply:
 
 &emsp;(1)
 

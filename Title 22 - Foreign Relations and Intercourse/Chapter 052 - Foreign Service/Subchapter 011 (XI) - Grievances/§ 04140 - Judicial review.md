@@ -1,6 +1,6 @@
 ### §4140. Judicial review
 
-(a) Any aggrieved party may obtain judicial review of a final action of the Secretary or the Board on any grievance in the district courts of the United States in accordance with the standards set forth in chapter 7 of title 5, if the request for judicial review is filed not later than 180 days after the final action of the Secretary or the Board (or in the case of an aggrieved party who is posted abroad at the time of the final action of the Secretary or the Board, if the request for judicial review is filed not later than 180 days after the aggrieved party's return to the United States). Section 706 of title 5 shall apply without limitation or exception. This subsection shall not apply to any grievance with respect to which subsection (b) of this section applies.
+(a) Any aggrieved party may obtain judicial review of a final action of the Secretary or theBoard on any grievance in the district courts of the United States in accordance with the standards set forth in chapter 7 of title 5, if the request for judicial review is filed not later than 180 days after the final action of the Secretary or the Board (or in the case of an aggrieved party who is posted abroad at the time of the final action of the Secretary or the Board, if the request for judicial review is filed not later than 180 days after the aggrieved party's return to the United States). Section 706 of title 5 shall apply without limitation or exception. This subsection shall not apply to any grievance with respect to which subsection (b) of this section applies.
 
 (b)(1) For purposes of this subsection, the term “aggrieved party” means a grievant.
 
@@ -10,7 +10,7 @@
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–236 inserted before period at end of first sentence “, if the request for judicial review is filed not later than 180 days after the final action of the Secretary or the Board (or in the case of an aggrieved party who is posted abroad at thetime of the final action of the Secretary or the Board, if the request for judicial review is filed not later than 180 days after the aggrieved party's return to the United States)”.
+1994—Subsec. (a). Pub. L. 103–236 inserted before period at end of first sentence “, if the request for judicial review is filed not later than 180 days after the final action of the Secretary or the Board (or in the case of an aggrieved party who is posted abroad at the time of the final action of the Secretary or the Board, if the request for judicial review is filed not later than 180 days after the aggrieved party's return to the United States)”.
 
 1991—Pub. L. 102–138 designated existing provisions as subsec. (a), inserted provision that subsec. (a) not apply to any grievance with respect to which subsec. (b) applies, and added subsec. (b).
 

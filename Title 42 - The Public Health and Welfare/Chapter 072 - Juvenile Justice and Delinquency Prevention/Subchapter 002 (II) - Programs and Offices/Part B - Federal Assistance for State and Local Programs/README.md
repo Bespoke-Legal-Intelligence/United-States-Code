@@ -2,7 +2,7 @@ Part B—Federal Assistance for State and Local Programs
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 5667–1, 5667a–1, 5671, 5784 of this title.
+This part is referred to in sections 5667–1, 5667a–1, 5671, 5783, 5784 of this title.
 
 #### Amendments
 

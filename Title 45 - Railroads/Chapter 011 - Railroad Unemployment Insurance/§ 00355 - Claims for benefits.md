@@ -26,7 +26,7 @@ The Board is authorized and directed to make findings of fact with respect to an
 
 #### (d) Decisions of reviewing bodies; review and finality
 
-The Board shall prescribe regulations governing the filing of cases with and the decision of cases by reviewing bodies, and the review of such decisions. The Board may provide for intermediate reviews of such decisions by such bodies as the Board may establish or assign thereto. The Board may (i) on its own motion review a decision of an intermediate reviewing body on the basis of the evidence previously submittedin such case, and may direct the taking of additional evidence, or (ii) permit such parties as it finds properly interested in the proceedings to take appeals to the Board. Unless a review or an appeal is had pursuant to this subsection, the decision of an intermediate reviewing body shall, subject to such regulations as the Board may prescribe, be deemed to be the final decision of the Board.
+The Board shall prescribe regulations governing the filing of cases with and the decision of cases by reviewing bodies, and the review of such decisions. The Board may provide for intermediate reviews of such decisions by such bodies as the Board may establish or assign thereto. The Board may (i) on its own motion review a decision of an intermediate reviewing body on the basis of the evidence previously submitted in such case, and may direct the taking of additional evidence, or (ii) permit such parties as it finds properly interested in the proceedings to take appeals to the Board. Unless a review or an appeal is had pursuant to this subsection, the decision of an intermediate reviewing body shall, subject to such regulations as the Board may prescribe, be deemed to be the final decision of the Board.
 
 #### (e) Application of rules of evidence in law and equity; notice of findings
 
@@ -54,7 +54,7 @@ No claimant or other properly interested person claiming benefits shall be charg
 
 #### References in Text
 
-The Railway Labor Act, referred to in subsec. (f), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, whichis classified principally to chapter 8 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 151 of this title and Tables.
+The Railway Labor Act, referred to in subsec. (f), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of this title. For complete classification of this Act to the Code, see section 151 of this title and Tables.
 
 #### Codification
 
@@ -64,7 +64,7 @@ In subsec. (f), “Courts of Appeals”, “United States court of appeals for t
 
 1988—Subsec. (b). Pub. L. 100–647, §7104(a), inserted at end “When a claim for benefits is filed with the Board, the Board shall provide notice of such claim to the claimant's base-year employer or employers and afford such employer or employers an opportunity to submit information relevant to the claim before making an initial determination on the claim. When the Board initially determines to pay benefits to a claimant under this chapter, the Board shall provide notice of such determination to the claimant's base-year employer or employers.”
 
-Subsec. (c)(1). Pub. L. 100–647, §7401(b)(1), (2), inserted “(1)” after “(c)” and inserted at end “In any such case the Board or the person or reviewing body so established or assigned shall, by publication or otherwise, notify all parties properly interested of their right to participate in the hearing and of the time and place of the hearing.”
+Subsec. (c)(1). Pub. L. 100–647, §7401(b)(1), (2), inserted “(1)” after “(c)” and inserted at end “In any such case the Board or the person or reviewing body so established or assigned shall, by publication or otherwise,notify all parties properly interested of their right to participate in the hearing and of the time and place of the hearing.”
 
 Subsec. (c)(2). Pub. L. 100–647, §7104(b)(3), inserted “(2)” before “Any claimant whose claim”.
 

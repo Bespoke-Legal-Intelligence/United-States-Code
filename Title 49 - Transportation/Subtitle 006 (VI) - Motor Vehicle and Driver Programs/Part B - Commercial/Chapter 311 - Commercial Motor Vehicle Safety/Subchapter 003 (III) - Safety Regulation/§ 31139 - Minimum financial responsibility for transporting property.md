@@ -18,7 +18,7 @@ Definitions.—In this section—
 
 (b)
 
-General Requirement and Minimum Amount.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient tosatisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property for compensation by motor vehicle in the United States between a place in a State and—
+General Requirement and Minimum Amount.—(1) The Secretary of Transportation shall prescribe regulations to require minimum levels of financial responsibility sufficient to satisfy liability amounts established by the Secretary covering public liability, property damage, and environmental restoration for the transportation of property for compensation by motor vehicle in the United States between a place in a State and—
 
 &emsp;(A) a place in another State;
 
@@ -40,7 +40,7 @@ Requirements for Hazardous Matter and Oil.—(1) The Secretary of Transportation
 
 (2)(A) Except as provided in subparagraph (B) of this paragraph, the level of financial responsibility established under paragraph (1) of this subsection shall be at least $5,000,000 for the transportation—
 
-&emsp;(i) of hazardous substances (as defined by the Administrator) in cargo tanks, portable tanks, or hopper-type vehicles, with capacities of more than 3,500 water gallons;
+&emsp;(i) of hazardous substances (as defined by the Administrator) in cargo tanks, portable tanks,or hopper-type vehicles, with capacities of more than 3,500 water gallons;
 
 &emsp;(ii) in bulk of class A explosives, poison gas, liquefied gas, or compressed gas; or
 
@@ -96,7 +96,7 @@ Civil Penalty.—(1) If, after notice and an opportunity for a hearing, the Secr
 
 (4) The Attorney General shall bring a civil action in an appropriate district court of the United States to collect a penalty referred to the Attorney General for collection under this subsection.
 
-(5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this sectionshall be deposited in the Treasury as miscellaneous receipts.
+(5) The amount of the penalty may be deducted from amounts the Government owes the person. An amount collected under this section shall be deposited in the Treasury as miscellaneous receipts.
 
 (g)
 

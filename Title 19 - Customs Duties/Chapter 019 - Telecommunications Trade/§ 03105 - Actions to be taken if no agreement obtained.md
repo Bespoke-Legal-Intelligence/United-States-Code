@@ -8,7 +8,7 @@
 
 #### (b) Actions authorized
 
-(1) The President is authorized to take any of the following actions under subsection (a) ofthis section with respect to any priority foreign country:
+(1) The President is authorized to take any of the following actions under subsection (a) of this section with respect to any priority foreign country:
 
 &emsp;(A) termination, withdrawal, or suspension of any portion of any trade agreement entered into with such country under—
 

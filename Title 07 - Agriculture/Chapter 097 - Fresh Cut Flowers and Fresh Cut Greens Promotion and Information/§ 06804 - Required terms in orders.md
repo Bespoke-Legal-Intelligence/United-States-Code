@@ -76,7 +76,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;The term “qualified wholesale handler” means a person in business as a floral wholesale jobber or floral supplierthat is subject to assessments as a qualified handler under the order.
+&emsp;&emsp;&emsp;&emsp;The term “qualified wholesale handler” means a person in business as a floral wholesale jobber or floral supplier that is subject to assessments as a qualified handler under the order.
 
 #### (II) Definitions
 
@@ -268,7 +268,7 @@ The order shall define the general responsibilities of the PromoFlor Council, wh
 
 #### (2) Other contracts and agreements
 
-&emsp;The order shall provide that the PromoFlor Council may enter into a contract or agreement for administrative services. Any contract or agreement entered into under this paragraph shall include provisions comparable to the provisions described in paragraph (1)(B).
+&emsp;The order shall provide that the PromoFlor Council may enter into a contract or agreement for administrative services. Any contract or agreement entered into under thisparagraph shall include provisions comparable to the provisions described in paragraph (1)(B).
 
 #### (f) Books and records of PromoFlor Council
 
@@ -324,7 +324,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (III) Direct sales by producers
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclause (IV), in the case of a direct sale to a consumer by a producer, the amount of the sale shall be equal to an amount determined by multiplying the price paid by the consumerby a uniform percentage established by the order to represent the cost of producing the article and the mark-up of a wholesale handler on a sale to a retailer.
+&emsp;&emsp;&emsp;&emsp;Subject to subclause (IV), in the case of a direct sale to a consumer by a producer, the amount of the sale shall be equal to an amount determined by multiplying the price paid by the consumer by a uniform percentage established by the order to represent the cost of producing the article and the mark-up of a wholesale handler on a sale to a retailer.
 
 #### (IV) Changes in uniform percentages
 
@@ -350,7 +350,7 @@ The order shall provide that the PromoFlor Council shall, as soon as practicable
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;After the first 3 years the order is in effect, the uniform assessment rate may be increased or decreased annually by not more than .25 percent of—
+&emsp;&emsp;&emsp;After the first 3 years the order is in effect, the uniform assessment rate may beincreased or decreased annually by not more than .25 percent of—
 
 &emsp;&emsp;&emsp;&emsp;(I) the gross sales price of a product sold; or
 
@@ -507,6 +507,10 @@ The order shall prohibit the use of any funds received by the PromoFlor Council 
 The order shall contain such other terms and provisions, consistent with this chapter, as are necessary to carry out this chapter (including provision for the assessment of interest and a charge for each late payment of assessments under subsection (h) of this section and for carrying out section 6805 of this title).
 
 (Pub. L. 103–190, §5, Dec. 14, 1993, 107 Stat. 2272.)
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

@@ -12,13 +12,13 @@ The Secretary of the Interior is authorized during the fiscal years 1950 and 195
 
 Functions of Administrator of General Services with respect to Bureau of Public Roads transferred to Secretary of Commerce by Reorg. Plan No. 7 of 1949, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal WorksAdministrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. Section 103 is classified to section 753 of Title 40, Public Buildings, Property, and Works.
+Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. See text of, and Historical and Revision Notes under, section 303(b) of Title 40, Public Buildings, Property, and Works.
 
 Functions of Secretary of Agriculture with respect to Public Roads Administration transferred to Federal Works Administrator by Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date of Transfer of Functions
 
-Transfer of functions effective July 1, 1949, see Effective Date note set out under section 471 of Title 40, Public Buildings, Property, and Works.
+Transfer of functions effective July 1, 1949, see section 605, formerly §505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Section Referred to in Other Sections
 

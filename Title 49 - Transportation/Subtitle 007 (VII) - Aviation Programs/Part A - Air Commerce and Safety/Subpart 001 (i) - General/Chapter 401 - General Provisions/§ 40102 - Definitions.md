@@ -84,7 +84,7 @@ General Definitions.—In this part—
 
 &emsp;(23) “foreign air transportation” means the transportation of passengers or property by aircraft as a common carrier for compensation, or the transportation of mail by aircraft, between a place in the United States and a place outside the United States when any part of the transportation is by aircraft.
 
-&emsp;(24) “interstate air commerce” means the transportation of passengers or property byaircraft for compensation, the transportation of mail by aircraft, or the operation of aircraft in furthering a business or vocation—
+&emsp;(24) “interstate air commerce” means the transportation of passengers or property by aircraft for compensation, the transportation of mail by aircraft, or the operation of aircraft in furthering a business or vocation—
 
 &emsp;&emsp;(A) between a place in—
 

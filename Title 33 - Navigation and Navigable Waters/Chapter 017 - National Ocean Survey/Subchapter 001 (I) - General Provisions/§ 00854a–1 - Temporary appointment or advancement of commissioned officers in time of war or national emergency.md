@@ -2,13 +2,21 @@
 
 Personnel of the National Oceanic and Atmospheric Administration shall be subject in like manner and to the same extent as personnel of the Navy to all laws authorizing temporary appointment or advancement of commissioned officers in time of war or national emergency subject to the following limitations:
 
-&emsp;(1) Commissioned officers in the service of a military department, under the provisions of sections 854, 855, 856, 857, and 858 of this title may, upon the recommendation of the Secretary of the military department concerned, be temporarily promoted to higher ranks or grades.
+&emsp;(1) Commissioned officers in the service of a military department, under the provisions of sections 854, 855, 856, 857, and 858 <sup>1</sup> of this title may, upon the recommendation of the Secretary of the military department concerned, be temporarily promoted to higher ranks or grades.
 
-&emsp;(2) Commissioned officers in the service of the National Oceanic and Atmospheric Administration may be temporarily promoted to fill vacancies in ranks and grades caused by the transfer of commissioned officers to the service and jurisdiction of a military department under the provisions of sections 854, 855, 856, 857, and 858 of this title.
+&emsp;(2) Commissioned officers in the service of the National Oceanic and Atmospheric Administration may be temporarily promoted to fill vacancies in ranks and grades caused by the transfer of commissioned officers to the service and jurisdiction of a military department under the provisions of sections 854, 855, 856, 857, and 858 <sup>1</sup> of this title.
 
-&emsp;(3) Temporary appointments may be made in all grades to which original appointments in the National Oceanic and Atmospheric Administration are authorized: <i>Provided</i>, That the number of officers holding temporary appointments shall not exceed the number of officers transferred to a military department under the provisions of sections 854, 855, 856, 857, and 858 of this title.
+&emsp;(3) Temporary appointments may be made in all grades to which original appointments in the National Oceanic and Atmospheric Administration are authorized: <i>Provided</i>, That the number of officers holding temporary appointments shall not exceed the number of officers transferred to a military department under the provisions of sections 854, 855, 856, 857, and 858 <sup>1</sup> of this title.
 
 (Dec. 3, 1942, ch. 670, §1, 56 Stat. 1038; Pub. L. 89–657, §3, Oct. 14, 1966, 80 Stat. 907; 1965 Reorg. Plan No. 2, eff. July 13, 1965, 30 F.R. 8819, 79 Stat. 1318; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090.)
+
+#### References in Text
+
+Sections 854, 855, 856, 857, and 858 of this title, referred to in text, were repealed by Pub. L. 107–372, title II, §271(4), Dec. 19, 2002, 116 Stat. 3094.
+
+#### Codification
+
+Provisions similar to this section are contained in section 3030 of this title.
 
 #### Amendments
 
@@ -21,4 +29,6 @@ Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency 
 #### Delegation of Functions
 
 Functions of President under subsecs. (1), (2), and (3) delegated to Secretary of Commerce, see section 1(b), (i) and (j) of Ex. Ord. No. 11023, May 28, 1962, 27 F.R. 5131, set out as a note under section 301 of Title 3, The President.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -38,7 +38,7 @@ Jurisdiction and Venue.—
 
 &emsp;(1)
 
-In general.—If the Attorney General or the designee of the Attorney General certifies a request under subsection (b), the United States may file an application on behalf of a foreign nation in district court of the United States seeking to enforce the foreign forfeiture or confiscation judgment as if the judgment had been entered by a court in the United States.
+In general.—If the Attorney General or the designee of the Attorney General certifies a request under subsection (b), the UnitedStates may file an application on behalf of a foreign nation in district court of the United States seeking to enforce the foreign forfeiture or confiscation judgment as if the judgment had been entered by a court in the United States.
 
 &emsp;(2)
 
@@ -46,7 +46,7 @@ Proceedings.—In a proceeding filed under paragraph (1)—
 
 &emsp;&emsp;(A) the United States shall be the applicant and the defendant or another person or entity affected by the forfeiture or confiscation judgment shall be the respondent;
 
-&emsp;&emsp;(B) venue shall lie in the district court for the District of Columbia or in any other district in which the defendant or the propertythat may be the basis for satisfaction of a judgment under this section may be found; and
+&emsp;&emsp;(B) venue shall lie in the district court for the District of Columbia or in any other district in which the defendant or the property that may be the basis for satisfaction of a judgment under this section may be found; and
 
 &emsp;&emsp;(C) the district court shall have personal jurisdiction over a defendant residing outside of the United States if the defendant is served with process in accordance with rule 4 of the Federal Rules of Civil Procedure.
 
@@ -108,7 +108,7 @@ The Federal Rules of Civil Procedure, referred to in subsecs. (c)(2)(C) and (d)(
 
 #### Amendments
 
-<b>2001</b>—Subsec. (a)(2)(A). Pub. L. 107–56, §323(4), inserted “, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States” after “United Nations Convention”.
+2001—Subsec. (a)(2)(A). Pub. L. 107–56, §323(4), inserted “, any violation of foreign law that would constitute a violation or an offense for which property could be forfeited under Federal law if the offense were committed in the United States” after “United Nations Convention”.
 
 Subsec. (b)(1)(C). Pub. L. 107–56, §323(2), substituted “establishing that the foreign nation took steps, in accordance with the principles of due process, to give notice of the proceedings to all persons with an interest in the property in sufficient time to enable such persons” for “establishing that the defendant received notice of the proceedings in sufficient time to enable the defendant”.
 
@@ -123,8 +123,4 @@ Amendments by title III of Pub. L. 107–56 to terminate effective on and after 
 #### Effective Date
 
 Section applicable to any forfeiture proceeding commenced on or after the date that is 120 days after Apr. 25, 2000, see section 21 of Pub. L. 106–185, set out as an Effective Date of 2000 Amendment note under section 1324 of Title 8, Aliens and Nationality.
-
-<i><sup>1</sup></i><i> So in original. Probably should be preceded by “a”.</i>
-
-<i><sup>2</sup></i><i> So in original. The words “of the proceedings” probably should not appear.</i>
 

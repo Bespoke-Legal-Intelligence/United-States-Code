@@ -32,7 +32,7 @@ Subsec. (a). Pub. L. 103–156, §12(i)(1), substituted “the Administrator” 
 
 Subsec. (b). Pub. L. 103–156, §12(i)(2), substituted “the person” for “he”.
 
-1976—Subsec. (a). Pub. L. 94–582 substituted “Administrator” for “Secretary”, “grain offered for such services” for “grain offered for inspection”, “has knowingly committed any violation of section 87b of this title or has been convicted of any violation of other Federal law with respect to the handling, weighing, or official inspection of grain, or that official inspection or the services related to weighing have been refused” for “has been convicted of any violation of section 87b of this title, or that official inspection has been refused”, and “integrity of the service” for “integrity of the official inspection service”, and authorized refusal of provision of services relating to weighing.
+1976—Subsec. (a). Pub. L. 94–582 substituted “Administrator” for “Secretary”, “grain offered for such services” for “grain offered for inspection”, “has knowingly committed any violation of section 87b of this title or has been convicted of any violation of otherFederal law with respect to the handling, weighing, or official inspection of grain, or that official inspection or the services related to weighing have been refused” for “has been convicted of any violation of section 87b of this title, or that official inspection has been refused”, and “integrity of the service” for “integrity of the official inspection service”, and authorized refusal of provision of services relating to weighing.
 
 Subsec. (c). Pub. L. 94–582 added subsec. (c). Former subsec. (c) redesignated (d).
 

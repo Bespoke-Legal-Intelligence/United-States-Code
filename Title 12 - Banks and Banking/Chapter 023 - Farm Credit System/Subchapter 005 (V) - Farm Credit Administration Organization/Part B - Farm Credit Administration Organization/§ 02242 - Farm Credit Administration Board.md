@@ -14,7 +14,7 @@ Each member of the Board, within fifteen days after notice of appointment, shall
 
 #### (d) Compensation
 
-The members of the Board shall devote their full time and attention to the business of the Board. The Chairman of the Board shall receive compensation at the rate prescribed for level III of the Executive Schedule under section 5314 of title 5. Each of the other members of the Board shall receive compensation at the rate prescribed for level IV of the Executive Schedule under section 5315 of title 5. Each member of the Board shall be reimbursed for necessary travel, subsistence, and other expenses in the discharge of the member's official duties without regard to other laws with respect to allowance for travel and subsistence of officers and employees of the United States. This subsection shall be subject to the provisions of section 2245 of this title.
+The members of the Board shall devote their full time and attention to the business of the Board. The Chairman of the Board shall receive compensation at the rate prescribed for level III of the Executive Schedule under section 5314 of title 5. Each of the other members of the Boardshall receive compensation at the rate prescribed for level IV of the Executive Schedule under section 5315 of title 5. Each member of the Board shall be reimbursed for necessary travel, subsistence, and other expenses in the discharge of the member's official duties without regard to other laws with respect to allowance for travel and subsistence of officers and employees of the United States. This subsection shall be subject to the provisions of section 2245 of this title.
 
 #### (e) Qualifications of Farm Credit Administration Board members
 
@@ -26,7 +26,7 @@ The President shall appoint members of the Board who—
 
 &emsp;(3) have a strong financial, legal, or regulatory background.
 
-(Pub. L. 92–181, title V, §5.8, Dec. 10, 1971, 85 Stat. 617; Pub. L. 96–592, title V, §503, Dec. 24,1980, 94 Stat. 3449; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1688; Pub. L. 100–233, title IV, §431(a), Jan. 6, 1988, 101 Stat. 1658; Pub. L. 102–552, title I, §102, Oct. 28, 1992, 106 Stat. 4103.)
+(Pub. L. 92–181, title V, §5.8, Dec. 10, 1971, 85 Stat. 617; Pub. L. 96–592, title V, §503, Dec. 24, 1980, 94 Stat. 3449; Pub. L. 99–205, title II, §201(1), Dec. 23, 1985, 99 Stat. 1688; Pub. L. 100–233, title IV, §431(a), Jan. 6, 1988, 101 Stat. 1658; Pub. L. 102–552, title I, §102, Oct. 28, 1992, 106 Stat. 4103.)
 
 #### Amendments
 

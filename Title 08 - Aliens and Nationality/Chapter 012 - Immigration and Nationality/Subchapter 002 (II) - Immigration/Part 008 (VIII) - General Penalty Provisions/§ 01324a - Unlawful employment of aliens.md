@@ -166,7 +166,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 #### (A) Monitoring
 
-&emsp;&emsp;The President shall provide for the monitoring and evaluation of the degree towhich the employment verification system established under subsection (b) of this section provides a secure system to determine employment eligibility in the United States and shall examine the suitability of existing Federal and State identification systems for use for this purpose.
+&emsp;&emsp;The President shall provide for the monitoring and evaluation of the degree to which the employment verification system established under subsection (b) of this section provides a secure system to determine employment eligibility in the United States and shall examine the suitability of existing Federal and State identification systems for use for this purpose.
 
 #### (B) Improvements to establish secure system
 
@@ -278,7 +278,7 @@ Nothing in this section shall be construed to authorize, directly or indirectly,
 
 &emsp;In conducting investigations and hearings under this subsection—
 
-&emsp;&emsp;(A) immigration officers and administrative law judges shall have reasonable access to examine evidence of any person or entity being investigated,
+&emsp;&emsp;(A) immigration officers and administrative law judges shall have reasonable accessto examine evidence of any person or entity being investigated,
 
 &emsp;&emsp;(B) administrative law judges, may, if necessary, compel by subpoena the attendance of witnesses and the production of evidence at any designated place or hearing, and
 
@@ -482,6 +482,10 @@ Amendment by Pub. L. 100–525 effective as if included in enactment of Immigrat
 
 Date of enactment of this section with respect to aliens deemed employed under section 8704 of Title 46, Shipping, as the date 180 days after Jan. 11, 1988, see section 5(f)(3) of Pub. L. 100–239, set out as a Construction note under section 8704 of Title 46.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Delegation of Authority
 
 Memorandum of President of the United States, Feb. 10, 1992, 57 F.R. 24345, provided:
@@ -584,7 +588,7 @@ General Terms of Elections.—
 
 &emsp;“(1)
 
-In general.—An election under subsection (a) shall be in such form and manner, under such terms and conditions, and shall take effect, as the Attorney General shall specify. The Attorney General may not impose any fee as a condition of making an election or participating in a pilot program.
+In general.—An election under subsection (a) shall be in such form and manner, under such terms and conditions, and shall take effect, as the AttorneyGeneral shall specify. The Attorney General may not impose any fee as a condition of making an election or participating in a pilot program.
 
 &emsp;“(2)
 
@@ -708,7 +712,7 @@ Provision of additional information.—The person or entity shall obtain from th
 
 &emsp;&emsp;“(A) the individual's social security account number, if the individual has been issued such a number, and
 
-&emsp;&emsp;“(B) if the individual does not attest to United States citizenship under section 274A(b)(2), such identification or authorization number established by the Immigration and Naturalization Service for the alien as the Attorney General shall specify,
+&emsp;&emsp;“(B) if the individual does not attest to United States citizenship under section 274A(b)(2), suchidentification or authorization number established by the Immigration and Naturalization Service for the alien as the Attorney General shall specify,
 
 > &emsp;and shall retain the original form and make it available for inspection for the period and in the manner required of I–9 forms under section 274A(b)(3).
 
@@ -806,7 +810,7 @@ Restrictions.—
 
 &emsp;&emsp;“(A)
 
-State document requirement to participate in pilot program.—The Attorney General may not provide for the operation of the citizen attestation pilot program in a State unless each driver's license or similar identification document described in section 274A(b)(1)(D)(i) issued by the State—
+State document requirement to participate in pilot program.—The Attorney Generalmay not provide for the operation of the citizen attestation pilot program in a State unless each driver's license or similar identification document described in section 274A(b)(1)(D)(i) issued by the State—
 
 &emsp;&emsp;&emsp;“(i) contains a photograph of the individual involved, and
 
@@ -940,7 +944,7 @@ Section 413(a) of div. C of Pub. L. 104–208 provided that: “Not later than 1
 
 &emsp;“(1) by the Immigration and Naturalization Service in order to enforce section 274A of the Immigration and Nationality Act \[8 U.S.C. 1324a\], or
 
-&emsp;“(2) by Federal agencies in order to carry out the Executive Order of February 13, 1996 (entitled ‘Economy and Efficiency in Government Procurement Through Compliance with Certain Immigration and Naturalization Act Provisions’) \[Ex. Ord. No. 12989, set out below\] and to expand the restrictions in such order to cover agricultural subsidies, grants, job training programs, and other Federally subsidized assistance programs.”
+&emsp;“(2) by Federal agencies in order to carry out the Executive Order of February 13, 1996 (entitled ‘Economy and Efficiency in Government Procurement Through Compliance with Certain Immigration and Naturalization \[Nationality\] Act Provisions’) \[Ex. Ord. No. 12989, set out below\] and to expand the restrictions in such order to cover agricultural subsidies, grants, job training programs, and other Federally subsidized assistance programs.”
 
 #### Pilot Projects for Secure Documents
 
@@ -1012,51 +1016,49 @@ Section 402 of Pub. L. 99–603 provided that: “The President shall transmit t
 
 &emsp;&emsp;“(C) the violation of terms and conditions of nonimmigrant visas by foreign visitors.”
 
-\[Functions of President under section 402 of Pub. L. 99–603 delegated to Attorney General, except functions in section 402(3)(A) which were delegated to Secretary of Labor, by sections 1(b) and 2(a) of Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, set out as a note under section 1364 of this title.\]
+\[Functions of President under section 402 of Pub. L. 99–603 delegated to Secretary of Homeland Security, except functions in section 402(3)(A) which were delegated to Secretary of Labor, by sections 1(b) and 2(a) of Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, set out as a note under section 1364 of this title.\]
 
-#### Ex. Ord. No. 12989. Economy and Efficiency in Government Procurement Through Compliance With Certain Immigration and Naturalization Act Provisions
+#### Ex. Ord. No. 12989. Economy and Efficiency in Government Procurement Through Compliance With Certain Immigration and Nationality Act Provisions
 
-Ex. Ord. No. 12989, Feb. 13, 1996, 61 F.R. 6091, provided:
+Ex. Ord. No. 12989, Feb. 13, 1996, 61 F.R. 6091, as amended by Ex. Ord. No. 13286, §19, Feb. 28, 2003, 68 F.R. 10623, provided:
 
 This order is designed to promote economy and efficiency in Government procurement. Stability and dependability are important elements of economy and efficiency. A contractor whose work force is less stable will be less likely to produce goods and services economically and efficiently than a contractor whose work force is more stable. It remains the policy of this Administration to enforce the immigration laws to the fullest extent, including the detection and deportation of illegal aliens. In these circumstances, contractors cannot rely on the continuing availability and service of illegal aliens, and contractors that choose to employ unauthorized aliens inevitably will have a less stable and less dependable work force than contractors that do not employ such persons. Because of this Administration's vigorous enforcement policy, contractors that employ unauthorized alien workers are necessarily less stable and dependable procurement sources than contractors that do not hire such persons. I find, therefore, that adherence to the general policy of not contracting with providers that knowingly employ unauthorized alien workers will promote economy and efficiency in Federal procurement.
 
-NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including 40 U.S.C. 486(a) and 3 U.S.C. 301, it is hereby ordered as follows:
+NOW, THEREFORE, to ensure the economical and efficient administration and completion of Federal Government contracts, and by the authority vested in me as President by the Constitution and the laws of the United States of America, including 40 U.S.C. 486(a) \[now 40 U.S.C. 121(a)\] and 3 U.S.C. 301, it is hereby ordered as follows:
 
 Section 1. (a) It is the policy of the executive branch in procuring goods and services that, to ensure the economical and efficient administration and completion of Federal Government contracts, contracting agencies should not contract with employers that have not complied with section 274A(a)(1)(A) and 274A(a)(2) of the Immigration and Nationality Act (8 U.S.C. 1324a(a)(1)(A), 1324a(a)(2)) (the “INA employment provisions”) prohibiting the unlawful employment of aliens. All discretion under this Executive order shall be exercised consistent with this policy.
 
-(b) It remains the policy of this Administration to fully and aggressively enforce the antidiscrimination provisions of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] to the fullest extent. Nothing in this order relieves employers from their obligation to avoid unfair immigration-related employment practices as required by the antidiscrimination provisions of section 1324(b) \[274B\] of the INA (8 U.S.C. 1324b) and all other antidiscrimination requirements of applicable law, including the requirements of 8 U.S.C. 1324b(a)(6) concerning the treatment of certain documentary practices as unfair immigration-related employment practices.
+(b) It remains the policy of this Administration to fully and aggressively enforce the antidiscrimination provisions of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] to the fullest extent. Nothing in this order relieves employers from their obligation to avoid unfair immigration-related employment practices as required by the antidiscrimination provisions of section 1324(b) \[274B\] of the INA (8 U.S.C. 1324b) and all other antidiscrimination requirements of applicable law, including the requirements of 8 U.S.C. 1324b(a)(6)concerning the treatment of certain documentary practices as unfair immigration-related employment practices.
 
 Sec. 2. Contractor, as used in this Executive order, shall have the same meaning as defined in subpart 9.4 of the Federal Acquisition Regulation.
 
-Sec. 3. Using the procedures established pursuant to 8 U.S.C. 1324a(e), the Attorney General: (a) may investigate to determine whether a contractor or an organizational unit thereof is not in compliance with the INA employment provisions;
+Sec. 3. Using the procedures established pursuant to 8 U.S.C. 1324a(e): (a) the Secretary of Homeland Security may investigate to determine whether a contractor or an organizational unit thereof is not in compliance with the INA employment provisions;
 
-(b) shall receive and may investigate complaints by employees of any entity covered under section 3(a) of this order where such complaints allege noncompliance with the INA employment provisions; and
+(b) the Secretary of Homeland Security shall receive and may investigate complaints by employees of any entity covered under section 3(a) of this order where such complaints allege noncompliance with the INA employment provisions; and
 
-(c) shall hold such hearings as are required under 8 U.S.C. 1324a(e) to determine whether an entity covered under section 3(a) is not in compliance with the INA employment provisions.
+(c) the Attorney General shall hold such hearings as are required under 8 U.S.C. 1324a(e) to determine whether an entity covered under section 3(a) is not in compliance with the INA employment provisions.
 
-Sec. 4. (a) Whenever the Attorney General determines that a contractor or an organizational unit thereof is not in compliance with the INA employment provisions, the Attorney General shall transmit that determination to the appropriate contracting agency and such other Federal agencies as the Attorney General may determine. Upon receipt of such determination from the Attorney General, the head of the appropriate contracting agency shall consider the contractor or an organizational unit thereof for debarment as well as for such other action as may be appropriate in accordance with the procedures and standards prescribed by the Federal Acquisition Regulation.
+Sec. 4. (a) Whenever the Secretary of Homeland Security or the Attorney General determines that a contractor or an organizational unit thereof is not in compliance with the INA employment provisions, the Secretary of Homeland Security or the Attorney General shall transmit that determination to the appropriate contracting agency and such other Federal agencies as the Secretary of Homeland Security or the Attorney General may determine. Upon receipt of such determination from the Secretary of Homeland Security or the Attorney General, the head of the appropriate contracting agency shall consider the contractor or an organizational unit thereof for debarment as well as for such other action as may be appropriate in accordance with the procedures and standards prescribed by the Federal Acquisition Regulation.
 
-(b) The head of the contracting agency may debar the contractor or an organizational unit thereof based on the determination of the Attorney General that it is not in compliance with the INA employment provisions. The Attorney General's determination shall not be reviewable in the debarment proceedings.
+(b) The head of the contracting agency may debar the contractor or an organizational unit thereof based on the determination of the Secretary of Homeland Security or the Attorney General that it is not in compliance with the INA employment provisions. Such determination shall not be reviewable in the debarment proceedings.
 
-(c) The scope of the debarment generally should be limited to those organizational units of a Federal contractor that the Attorney General finds are not in compliance with the INA employment provisions.
+(c) The scope of the debarment generally should be limited to those organizational units of a Federal contractor that the Secretary of Homeland Security or the Attorney General finds are not in compliance with the INA employment provisions.
 
-(d) The period of the debarment shall be for 1 year and may be extended for additional periods of 1 year if, using the procedures established pursuant to 8 U.S.C. 1324a(e), the Attorney General determines that the organizational unit of the Federal contractor continues to be in violation of the INA employment provisions.
+(d) The period of the debarment shall be for 1 year and may be extended for additional periods of 1 year if, using the procedures established pursuant to 8 U.S.C. 1324a(e), the Secretary of Homeland Security or the Attorney General determines that the organizational unit of the Federal contractor continues to be in violation of the INA employment provisions.
 
 (e) The Administrator of General Services shall list a debarred contractor or an organizational unit thereof on the List of Parties Excluded from Federal Procurement and Nonprocurement Programs and the contractor or an organizational unit thereof shall be ineligible to participate in any procurement or nonprocurement activities.
 
-Sec. 5. (a) The Attorney General shall be responsible for the administration and enforcement of this order, except for the debarment procedures. The Attorney General may adopt such additional rules and regulations and issue such orders as may be deemed necessary and appropriate to carry out the responsibilities of the Attorney General under this order. If the Attorney General proposes to issue rules, regulations, or orders that affect the contracting departments and agencies, the Attorney General shall consult with the Secretary of Defense, the Secretary of Labor, the Administrator of General Services, the Administrator of the National Aeronautics and Space Administration, the Administrator for Federal Procurement Policy, and such other agencies as may be appropriate.
+Sec. 5. (a) The Secretary of Homeland Security and Attorney General shall be responsible for the administration and enforcement of this order, except for the debarment procedures. The Secretary of Homeland Security and Attorney General may adopt such additional rules and regulations and issue such orders as may be deemed necessary and appropriate to carry out their respective responsibilities under this order. If the Secretary of Homeland Security or the Attorney General proposes to issue rules, regulations, or orders that affect the contracting departments and agencies, the Secretary of Homeland Security or the Attorney General shall consult with the Secretary of Defense, the Secretary of Labor, the Administrator of General Services, the Administrator of the National Aeronautics and Space Administration, the Administrator for Federal Procurement Policy, and such other agencies as may be appropriate.
 
 (b) The Secretary of Defense, the Administrator of General Services, and the Administrator of the National Aeronautics and Space Administration shall amend the Federal Acquisition Regulation to the extent necessary and appropriate to implement the debarment responsibility and other related responsibilities assigned to heads of contracting departments and agencies under this order.
 
-Sec. 6. Each contracting department and agency shall cooperate with and provide such information and assistance to the Attorney General as may be required in the performance of the Attorney General's functions under this order.
+Sec. 6. Each contracting department and agency shall cooperate with and provide such information and assistance to the Secretary of Homeland Security and the Attorney General as may be required in the performance of their respective functions under this order.
 
-Sec. 7. The Attorney General, the Secretary of Defense, the Administrator of General Services, the Administrator of the National Aeronautics and Space Administration, and the heads of contracting departments and agencies may delegate any of their functions or duties under this order to any officer or employee of their respective agencies.
+Sec. 7. The Secretary of Homeland Security, the Attorney General, the Secretary of Defense, the Administrator of General Services, the Administrator of the National Aeronautics and Space Administration, and the heads of contracting departments and agencies may delegate any of their functions or duties under this order to any officer or employee of their respective agencies.
 
 Sec. 8. This order shall be implemented in a manner intended to least burden the procurement process. This order neither authorizes nor requires any additional certification provision, clause, or requirement to be included in any contract or contract solicitation.
 
 Sec. 9. This order is not intended, and should not be construed, to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or its employees. This order is not intended, however, to preclude judicial review of final agency decisions in accordance with the Administrative Procedure Act, 5 U.S.C. 701 <i>et seq.</i>
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

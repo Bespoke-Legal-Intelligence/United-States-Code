@@ -32,7 +32,7 @@
 
 &emsp;(6) make such reports as the Attorney General directs.
 
-(b) If the number of cases under chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any suchindividual appointed as standing trustee in the performance of the duties of standing trustee.
+(b) If the number of cases under chapter 12 or 13 of title 11 commenced in a particular region so warrants, the United States trustee for such region may, subject to the approval of the Attorney General, appoint one or more individuals to serve as standing trustee, or designate one or more assistant United States trustees to serve in cases under such chapter. The United States trustee for such region shall supervise any such individual appointed as standing trustee in the performance of the duties of standing trustee.
 
 (c) Each United States trustee shall be under the general supervision of the Attorney General, who shall provide general coordination and assistance to the United States trustees.
 
@@ -80,11 +80,11 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–394 inserted “12,” after “11,” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “monitoring applications for compensation and reimbursement filed under section 330 of title 11 and, whenever the United States trustee deems it to be appropriate, filing with the court comments with respect to any of such applications;”.
+1994—Subsec. (a)(3). Pub. L. 103–394 inserted “12,” after “11,” in introductory provisions and amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “monitoring applications for compensation and reimbursement filed under section 330 of title 11 and, whenever the United States trustee deems it to be appropriate, filing with the court comments with respect to any of such applications;”.
 
-<b>1990</b>—Subsec. (e)(1)(A). Pub. L. 101–509 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a maximum annual compensation for such individual, not to exceed the annual rate of basic pay in effect for step 1 of grade GS–16 of the General Schedule prescribed under section 5332 of title 5; and”.
+1990—Subsec. (e)(1)(A). Pub. L. 101–509 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “a maximum annual compensation for such individual, not to exceed the annual rate of basic pay in effect for step 1 of grade GS–16 of the General Schedule prescribed under section 5332 of title 5; and”.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–554, §113(a)(1), substituted “the region for which such United States trustee is appointed” for “his district” in introductory text.
+1986—Subsec. (a). Pub. L. 99–554, §113(a)(1), substituted “the region for which such United States trustee is appointed” for “his district” in introductory text.
 
 Subsec. (a)(3). Pub. L. 99–554, §113(a)(2), substituted “title 11 by, whenever the United States trustee considers it to be appropriate—” for “title 11;” and added subpars. (A) to (H).
 

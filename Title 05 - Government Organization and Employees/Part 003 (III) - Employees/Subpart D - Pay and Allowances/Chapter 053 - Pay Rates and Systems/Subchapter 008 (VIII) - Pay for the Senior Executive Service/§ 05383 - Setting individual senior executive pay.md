@@ -54,5 +54,5 @@ Pub. L. 98–168, title III, §301(a), Nov. 29, 1983, 97 Stat. 1112, required Of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5347 of this title; title 20 section 4709.
+This section is referred to in sections 5307, 5347 of this title; title 20 section 4709.
 

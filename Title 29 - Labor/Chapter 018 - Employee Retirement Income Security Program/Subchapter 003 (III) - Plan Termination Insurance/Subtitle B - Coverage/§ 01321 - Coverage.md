@@ -60,7 +60,7 @@ This section does not apply to any plan—
 
 &emsp;(B) the term “professional individuals” includes but is not limited to, physicians, dentists, chiropractors, osteopaths, optometrists, other licensed practitioners of the healing arts, attorneys at law, public accountants, public engineers, architects, draftsmen, actuaries, psychologists, social or physical scientists, and performing artists.
 
-(3) In the case of a plan established and maintained by more than one professional service employer, the plan shall not be treated as a plan described in subsection (b)(13) of this section if, at any time after September 2, 1974, the plan has more than 25 active participants.
+(3) In the case of a plan established and maintained by more than one professional service employer, the plan shall not be treated as a plandescribed in subsection (b)(13) of this section if, at any time after September 2, 1974, the plan has more than 25 active participants.
 
 (Pub. L. 93–406, title IV, §4021, Sept. 2, 1974, 88 Stat. 1014; Pub. L. 96–364, title IV, §402(a)(4), Sept. 26, 1980, 94 Stat. 1298; Pub. L. 101–239, title VII, §§7891(a)(1), 7894(g)(3)(A), Dec. 19, 1989, 103 Stat. 2445, 2451.)
 

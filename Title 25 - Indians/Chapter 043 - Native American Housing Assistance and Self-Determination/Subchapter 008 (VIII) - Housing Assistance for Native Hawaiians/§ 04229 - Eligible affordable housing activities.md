@@ -44,7 +44,7 @@ The activities described in this subsection are the following:
 
 &emsp;&emsp;(D) activities related to the provisions of self-sufficiency and other services; and
 
-&emsp;&emsp;(E) other services related to assisting owners, tenants, contractors, and other entities participating or seeking to participate in other housing activities assisted pursuant to this section.
+&emsp;&emsp;(E) other services related to assisting owners, tenants, contractors, and other entities participating or seeking to participate inother housing activities assisted pursuant to this section.
 
 #### (3) Housing management services
 

@@ -6,7 +6,7 @@ Any Federal reserve bank may also buy and sell debentures and other such obligat
 
 #### References in Text
 
-Title I of the Federal Farm Loan Act, referred to in text, is title I of act July 17, 1916, ch. 245, 39 Stat. 360. Title I was classified to chapter 7 (§641 et seq.) of this title, and was repealed by Pub. L. 92–181, title V, §5.26(a), Dec. 10, 1971, 85 Stat. 624.
+Title I of the Federal Farm Loan Act, referred to in text, is title I of act July 17, 1916, ch. 245, 39 Stat. 360.Title I was classified to chapter 7 (§641 et seq.) of this title, and was repealed by Pub. L. 92–181, title V, §5.26(a), Dec. 10, 1971, 85 Stat. 624.
 
 #### Codification
 

@@ -39,6 +39,8 @@
 
 This chapter is referred to in sections 6021, 6023, 6032 of this title.
 
+<i><sup>1</sup></i><i> So in original. Two pars. (6) have been enacted.</i>
+
 
 ---
 

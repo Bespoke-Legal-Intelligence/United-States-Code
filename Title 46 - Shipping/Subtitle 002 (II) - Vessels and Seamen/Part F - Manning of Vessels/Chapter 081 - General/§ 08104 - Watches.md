@@ -86,7 +86,7 @@ Section 8104 prescribes certain working hours and conditions under which working
 
 Subsection (a) permits an individual to take charge of the deck watch on leaving port and immediately thereafter only if the individual has been off duty for 6 of the 12 hours immediately prior to departure.
 
-Subsection (b) prohibits a licensed individual from being required to work more than 9 of 24 hours in port or more than 12 of 24 hours at sea on an oceangoing or coastwise vessel of not more than 100 gross tons, except in an emergency.
+Subsection (b) prohibits a licensed individual from being required to work more than 9 of 24 hours in portor more than 12 of 24 hours at sea on an oceangoing or coastwise vessel of not more than 100 gross tons, except in an emergency.
 
 Subsection (c) prescribes a maximum 8-hour day for licensed individuals and seamen on towing vessels operating on the Great Lakes and certain connecting or tributary waters.
 

@@ -18,15 +18,17 @@ As used in this chapter—
 
 &emsp;(B) was discharged or released from active duty because of a service-connected disability; or
 
-&emsp;(C) as a member of a reserve component under an order to active duty pursuant to section 12301(a), (d), or (g), 12302, or 12304 of title10, served on active duty during a period of war or in a campaign or expedition for which a campaign badge is authorized and was discharged or released from such duty with other than a dishonorable discharge.
+&emsp;(C) as a member of a reserve component under an order to active duty pursuant to section 12301(a), (d), or (g), 12302, or 12304 of title 10, served on active duty during a period of war or in a campaign or expedition for which a campaign badge is authorized and was discharged or released from such duty with other than a dishonorable discharge.
 
 (5) The term “department or agency” means any agency of the Federal Government or the District of Columbia, including any Executive agency as defined in section 105 of title 5 and the United States Postal Service and the Postal Rate Commission, and the term “department, agency, or instrumentality in the executive branch” includes the United States Postal Service and the Postal Rate Commission.
 
-(6) The term “recently separated veteran” means any veteran during the one-year period beginning on the date of such veteran's discharge or release from active duty.
+(6) The term “recently separated veteran” means any veteran during the three-year periodbeginning on the date of such veteran's discharge or release from active duty.
 
-(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1097, §2011; amended Pub. L. 94–502, title VI, §607(1), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 96–466, title V, §508, Oct. 17, 1980, 94 Stat. 2206; Pub. L. 97–306, title III, §309, Oct. 14, 1982, 96 Stat. 1441; Pub. L. 98–223, title II, §206, Mar. 2, 1984, 98 Stat. 43; Pub. L. 101–237, title IV, §407(a)(2), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §1, Mar. 22, 1991, 105 Stat. 48; Pub. L. 102–54, §14(c)(9), June 13, 1991, 105 Stat. 285; renumbered §4211 and amended Pub. L. 102–83, §§4(a)(1), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–127, §5, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §502, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(D), Feb. 10, 1996, 110 Stat. 501; Pub. L. 106–419, title III, §322(c), Nov. 1, 2000, 114 Stat. 1855.)
+(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1097, §2011; amended Pub. L. 94–502, title VI, §607(1), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 96–466, title V, §508, Oct. 17, 1980, 94 Stat. 2206; Pub. L. 97–306, title III, §309, Oct. 14, 1982, 96 Stat. 1441; Pub. L. 98–223, title II, §206, Mar. 2, 1984, 98 Stat. 43; Pub. L. 101–237, title IV, §407(a)(2), Dec. 18, 1989, 103 Stat. 2082; Pub. L. 102–16, §1, Mar. 22, 1991, 105 Stat. 48; Pub. L. 102–54, §14(c)(9), June 13, 1991, 105 Stat. 285; renumbered §4211 and amended Pub. L. 102–83, §§4(a)(1), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 102–127, §5, Oct. 10, 1991, 105 Stat. 622; Pub. L. 102–568, title V, §502, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(D), Feb. 10, 1996, 110 Stat. 501; Pub. L. 106–419, title III, §322(c), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–288, §2(b)(2)(D), Nov. 7, 2002, 116 Stat. 2036.)
 
 #### Amendments
+
+2002—Par. (6). Pub. L. 107–288 substituted “three-year period” for “one-year period”.
 
 2000—Par. (6). Pub. L. 106–419 added par. (6).
 
@@ -62,6 +64,10 @@ Par. (5). Pub. L. 97–306, §309(2), inserted provision that the United States 
 
 1976—Par. (2). Pub. L. 94–502 substituted “the person's” for “his”.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–288, §2(b)(3), Nov. 7, 2002, 116 Stat. 2036, provided that: “The amendments made by this subsection \[amending this section and section 4212 of this title\] shall apply with respect to contracts entered into on or after the first day of the first month that begins 12 months after the date of the enactment of this Act \[Nov. 7, 2002\].”
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
@@ -84,5 +90,5 @@ Section effective 90 days after Oct. 24, 1972, see section 601(b) of Pub. L. 92�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4101, 4214 of this title; title 15 sections 636, 637, 1022a; title 42 section 6706.
+This section is referred to in sections 4101, 4107, 4214 of this title; title 15 sections 636, 637, 1022a; title 42 section 6706.
 

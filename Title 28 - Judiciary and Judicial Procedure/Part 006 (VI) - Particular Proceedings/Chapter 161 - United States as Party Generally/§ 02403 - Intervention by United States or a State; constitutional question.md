@@ -20,7 +20,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–381, §5(b), inserted “or a State” after “United States” in section catchline.
+1976—Pub. L. 94–381, §5(b), inserted “or a State” after “United States” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 94–381, §5(a), designated existing provisions as subsec. (a) and added subsec. (b).
 

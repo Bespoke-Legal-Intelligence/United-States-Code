@@ -2,7 +2,7 @@
 
 #### (a) Federal regulations; exceptions
 
-Contracts with urban Indian organizations entered into pursuant to this subchapter shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the Secretary, such contracts may be negotiated without advertising and need not conform to the provisions of sections 270a to 270d–1 of title 40.
+Contracts with urban Indian organizations entered into pursuant to this subchapter shall bein accordance with all Federal contracting laws and regulations except that, in the discretion of the Secretary, such contracts may be negotiated without advertising and need not conform to the provisions of sections 3131 and 3133 of title 40.
 
 #### (b) Payment
 
@@ -10,7 +10,7 @@ Payments under any contracts or grants pursuant to this subchapter may be made i
 
 #### (c) Revision or amendment
 
-Notwithstanding any provision of law to the contrary, the Secretary may, at the request orconsent of an urban Indian organization, revise or amend any contract entered into by the Secretary with such organization under this subchapter as necessary to carry out the purposes of this subchapter.
+Notwithstanding any provision of law to the contrary, the Secretary may, at the request or consent of an urban Indian organization, revise or amend any contract entered into by the Secretary with such organization under this subchapter as necessary to carry out the purposes of this subchapter.
 
 #### (d) Existing Government facilities
 
@@ -25,6 +25,10 @@ Contracts with, or grants to, urban Indian organizations and regulations adopted
 Urban Indians, as defined in section 1603(f) of this title, shall be eligible for health care or referral services provided pursuant to this subchapter.
 
 (Pub. L. 94–437, title V, §506, as added Pub. L. 100–713, title V, §501, Nov. 23, 1988, 102 Stat. 4823; amended Pub. L. 102–573, title V, §501(b)(4), Oct. 29, 1992, 106 Stat. 4568.)
+
+#### Codification
+
+“Sections 3131 and 3133 of title 40” substituted in subsec. (a) for “the Act of August 24, 1935 (40 U.S.C. 270a, et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 

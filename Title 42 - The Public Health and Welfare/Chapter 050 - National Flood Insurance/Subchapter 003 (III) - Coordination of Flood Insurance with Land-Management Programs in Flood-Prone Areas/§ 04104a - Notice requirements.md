@@ -26,7 +26,7 @@
 
 #### (1) Lending institutions
 
-&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require regulated lending institutions, in connection with the making, increasing, extending, renewing, selling, or transferring any loan described in subsection (a)(1) of this section, to notify the Director (or the designee of the Director) in writing during the term of the loan of the servicer of the loan. Such institutions shall also notify theDirector (or such designee) of any change in the servicer of the loan, not later than 60 days after the effective date of such change. The regulations under this subsection shall provide that upon any change in the servicing of a loan, the duty to provide notification under this subsection shall transfer to the transferee servicer of the loan.
+&emsp;Each Federal entity for lending regulation (after consultation and coordination with the Financial Institutions Examination Council) shall by regulation require regulated lending institutions, in connection with the making, increasing, extending, renewing, selling, or transferring any loan described in subsection (a)(1) of this section, to notify the Director (or the designee of the Director) in writing during the term of the loan of the servicer of the loan. Such institutions shall also notify the Director (or such designee) of any change in the servicer of the loan, not later than 60 days after the effective date of such change. The regulations under this subsection shall provide that upon any change in the servicing of a loan, the duty to provide notification under this subsection shall transfer to the transferee servicer of the loan.
 
 #### (2) Federal agency lenders
 
@@ -47,6 +47,10 @@ The Flood Disaster Protection Act of 1973, referred to in subsec. (a)(1), (2), i
 1994—Pub. L. 103–325 amended section generally. Prior to amendment, section read as follows: “Each Federal instrumentality responsible for the supervision, approval, regulation, or insuring of banks, savings and loan associations, or similar institutions shall by regulation require such institutions, as a condition of making, increasing, extending, or renewing (after the expiration of thirty days following August 22, 1974) any loan secured by improved real estate or a mobile home located or to be located in an area that has been identified by the Director under this chapter or Public Law 93–234 as an area having special flood hazards, to notify the purchaser or lessee (or obtain satisfactory assurances that the seller or lessor has notified the purchaser or lessee) of such special flood hazards, in writing, a reasonable period in advance of the signing of the purchase agreement, lease, or other documents involved in the transaction.”
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary”.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

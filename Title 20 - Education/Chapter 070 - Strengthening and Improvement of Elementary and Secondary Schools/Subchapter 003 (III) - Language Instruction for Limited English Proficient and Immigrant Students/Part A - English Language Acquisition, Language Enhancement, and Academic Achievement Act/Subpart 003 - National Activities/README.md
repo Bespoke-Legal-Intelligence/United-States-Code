@@ -1,9 +1,5 @@
 subpart 3—national activities
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 6054 of this title.
-
 
 ---
 

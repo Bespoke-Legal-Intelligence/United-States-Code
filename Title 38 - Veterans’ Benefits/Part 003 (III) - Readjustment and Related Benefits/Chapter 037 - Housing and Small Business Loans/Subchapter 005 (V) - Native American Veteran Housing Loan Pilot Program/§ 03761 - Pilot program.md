@@ -24,5 +24,5 @@ Section 8(d) of Pub. L. 102–547 directed Secretary of Veterans Affairs to tran
 
 #### Authorization of Appropriations for Native American Veteran Housing Loans
 
-Section 8(e) of Pub. L. 102–547 provided that: “New direct loan obligations for Native American veteran housing loans under subchapter V of chapter 37 of title 38, United States Code (as added by subsection (a)), may be incurred only to the extent that appropriations of budget authority to cover the anticipated cost, asdefined in section 502 of the Congressional Budget Act of 1974 \[2 U.S.C. 661a\], for such loans are made in advance. There is authorized to be appropriated for such purpose $5,000,000 for fiscal year 1993, which amount shall remain available without fiscal year limitation.”
+Section 8(e) of Pub. L. 102–547 provided that: “New direct loan obligations for Native American veteran housing loans under subchapter V of chapter 37 of title 38, United States Code (as added by subsection (a)), may be incurred only to the extent that appropriations of budget authority to cover the anticipated cost, as defined in section 502 of the Congressional Budget Act of 1974 \[2 U.S.C. 661a\], for such loans are made in advance. There is authorized to be appropriated for such purpose $5,000,000 for fiscal year 1993, which amount shall remain available without fiscal year limitation.”
 

@@ -46,7 +46,7 @@ In carrying out this section, the Secretary shall support—
 
 &emsp;&emsp;(B) increase public awareness and understanding of deafness and of the artistic and intellectual achievements of deaf and hard-of-hearing persons; or
 
-&emsp;&emsp;(C) promote the integration of hearing, deaf, and hard-of-hearing persons through shared cultural, educational, and social experiences; and
+&emsp;&emsp;(C) promote the integration of hearing, deaf, and hard-of-hearing persons throughshared cultural, educational, and social experiences; and
 
 &emsp;(6) compiling and analyzing appropriate data relating to the activities described in paragraphs (1) through (5).
 

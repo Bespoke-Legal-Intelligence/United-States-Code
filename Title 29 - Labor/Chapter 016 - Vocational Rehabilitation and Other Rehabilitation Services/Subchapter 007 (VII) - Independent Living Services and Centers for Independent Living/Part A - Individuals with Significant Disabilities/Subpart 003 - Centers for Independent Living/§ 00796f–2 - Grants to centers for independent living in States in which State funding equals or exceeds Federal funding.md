@@ -8,7 +8,7 @@
 
 #### (i) Determination
 
-&emsp;&emsp;&emsp;The director of a designated State unit, as provided in paragraph (2), or the Commissioner, as provided in paragraph (3), shall award grants under this section for an initial fiscal year if the Commissioner determines that the amount of State funds that were earmarked by a State for a preceding fiscal year to support the general operation of centers for independent living meeting the requirements of this subpart equaled or exceeded the amount of funds allotted to the State under subsection (c) or (d) of section 796f of this title for such year.
+&emsp;&emsp;&emsp;The director of a designated State unit, as provided in paragraph (2), or the Commissioner, as provided in paragraph (3), shall award grants under this section for an initial fiscal year if the Commissioner determines that the amount of State funds that were earmarked by a State for a preceding fiscal year to support the general operation of centers for independent livingmeeting the requirements of this subpart equaled or exceeded the amount of funds allotted to the State under subsection (c) or (d) of section 796f of this title for such year.
 
 #### (ii) Grants
 
@@ -80,7 +80,7 @@ In the administration of the provisions of this section, the director of the des
 
 #### (e) Order of priorities
 
-Unless the director of the designated State unit and the chairperson of the Council or otherindividual designated by the Council acting on behalf of and at the direction of the Council jointly agree on another order of priority, the director shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
+Unless the director of the designated State unit and the chairperson of the Council or other individual designated by the Council acting on behalf of and at the direction of the Council jointly agree on another order of priority, the director shall be guided by the following order of priorities in allocating funds among centers for independent living within a State, to the extent funds are available:
 
 &emsp;(1) The director of the designated State unit shall support existing centers for independent living, as described in subsection (c) of this section, that comply with the standards and assurances set forth in section 796f–4 of this title, at the level of funding for the previous year.
 

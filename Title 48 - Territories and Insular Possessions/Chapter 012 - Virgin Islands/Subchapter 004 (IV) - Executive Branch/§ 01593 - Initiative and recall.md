@@ -2,7 +2,7 @@
 
 #### (a) Grant of rights
 
-The people of the Virgin Islands shall have the rights of initiative and recall to be exercised as provided in subsection (b) and subsection (c) of this section, respectively.
+The people of the Virgin Islands shall have the rights of initiative and recall to be exercised asprovided in subsection (b) and subsection (c) of this section, respectively.
 
 #### (b) Initiative
 
@@ -54,7 +54,7 @@ As used in this section, the term—
 
 1986—Pub. L. 99–396 amended section generally, substituting provisions giving people of Virgin Islands the rights of initiative and recall and spelling out ways in which those rights are to be exercised for provisions which had formerly only set out a method for removal of Governor by referendum election.
 
-1968—Pub. L. 90–496 substituted provisions authorizing the removal of the Governor from office by a recall referendum for provisions authorizing the appointment of a Government Secretary for the Virgin Islands, and provisions setting forth his powers and duties.
+1968—Pub. L. 90–496 substituted provisions authorizing the removal of the Governor from office by a recallreferendum for provisions authorizing the appointment of a Government Secretary for the Virgin Islands, and provisions setting forth his powers and duties.
 
 #### Effective Date of 1968 Amendment
 

@@ -10,7 +10,7 @@ Section was superseded in part by section 2071 et seq. of this title.
 
 #### Prior Provisions
 
-This was a provision of the sundry civil appropriation act for the fiscal year 1913. Prior to its incorporation into the Code, it reads as follows: “The President is authorized to reorganize the customs service and cause estimates to be submitted therefor on account of the fiscal year nineteen hundred and fourteen bringing the total cost of said service for said fiscal year within a sum not exceeding $10,150,000 instead of $10,500,000, the amount authorized to be expended therefor on accountof the current fiscal year nineteen hundred and twelve; in making such reorganization and reduction in expenses he is authorized to abolish or consolidate collection districts, ports, and subports of entry and delivery, to discontinue needless offices and employments, to reduce excessive rates of compensation below amounts fixed by law or Executive order, and to do all such other and further things that in his judgment may be necessary to make such organization effective and within the limit of cost herein fixed; such reorganization shall be communicated to Congress at its next regular session and shall constitute for the fiscal year nineteen hundred and fourteen and until otherwise provided by Congress the permanent organization of the customs service.” Such of the foregoing provisions as were not carried into the Code were omitted as temporary and executed.
+This was a provision of the sundry civil appropriation act for the fiscal year 1913. Prior to its incorporation into the Code, it read as follows: “The President is authorized to reorganize the customs service and cause estimates to be submitted therefor on account of the fiscal year nineteen hundred and fourteen bringing the total cost of said service for said fiscal year within asum not exceeding $10,150,000 instead of $10,500,000, the amount authorized to be expended therefor on account of the current fiscal year nineteen hundred and twelve; in making such reorganization and reduction in expenses he is authorized to abolish or consolidate collection districts, ports, and subports of entry and delivery, to discontinue needless offices and employments, to reduce excessive rates of compensation below amounts fixed by law or Executive order, and to do all such other and further things that in his judgment may be necessary to make such organization effective and within the limit of cost herein fixed; such reorganization shall be communicated to Congress at its next regular session and shall constitute for the fiscal year nineteen hundred and fourteen and until otherwise provided by Congress the permanent organization of the customs service.” Such of the foregoing provisions as were not carried into the Code were omitted as temporary and executed.
 
 The plan of reorganization, with an estimate of the expenses of the same, was communicated by the President to Congress by Message dated March 3, 1913, as follows:
 
@@ -55,6 +55,10 @@ The plan of reorganization, with an estimate of the expenses of the same, was co
 “Done at Washington, D.C., this 3d day of March, 1913.
 
 “Wm. H. Taft.”&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### <b>REORGANIZATION PLAN NO. 1 OF 1965</b>
 

@@ -6,7 +6,7 @@ It is the sense of Congress that the absence of locally convenient day schools m
 
 #### (b) Report to Congress; contents, etc.
 
-The Secretary is authorized and directed to prepare, in consultation with appropriate agencies in the Department of Health and Human Services, a report on the feasibility of providing Indian children with schools located near their homes, and to submit such report to the Select Committee on Indian Affairs of the UnitedStates Senate and the Committee on Interior and Insular Affairs of the United States House of Representatives within two years from November 8, 1978. In developing this report the Secretary shall give particular consideration to the provision of educational facilities for children in the elementary grades.
+The Secretary is authorized and directed to prepare, in consultation with appropriate agencies in the Department of Health and Human Services, a report on the feasibility of providing Indian children with schools located near their homes, and to submit such report to the Select Committee on Indian Affairs of the United States Senate and the Committee on Interior and Insular Affairs of the United States House of Representatives within two years from November 8, 1978. In developing this report the Secretary shall give particular consideration to the provision of educational facilities for children in the elementary grades.
 
 (Pub. L. 95–608, title IV, §401, Nov. 8, 1978, 92 Stat. 3078; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 

@@ -22,7 +22,7 @@ Training and instruction may be provided at the Institute <sup>2</sup> for not 
 
 #### (e) Training or services for United States person
 
-(1) The Secretary may provide appropriate training or related services, except foreign language training, through the institution to any United States person (or any employee or family member thereof) that is engaged in business abroad.
+(1) The Secretary may provide appropriate training or related services, except foreign language training, through the institution to anyUnited States person (or any employee or family member thereof) that is engaged in business abroad.
 
 (2) The Secretary may provide job-related training or related services, including foreign language training, through the institution to a United States person under contract to provide services to the United States Government or to any employee thereof that is performing such services.
 
@@ -50,11 +50,7 @@ Training and instruction may be provided at the Institute <sup>2</sup> for not 
 
 The authorities of section 4024 of this title shall apply to training and instruction provided under this section.
 
-(Pub. L. 96–465, title I, §701, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 98–164, title I, §126, Nov. 22, 1983, 97 Stat. 1026; Pub. L. 103–236, title I, §126(2), (3), Apr. 30, 1994, 108 Stat. 393, 394; Pub. L. 103–415, §1(y), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(1), (3), Oct. 21, 1998, 112 Stat. 2681–808, 2681–809; Pub. L. 107–132, §1(a), Jan. 16, 2002, 115 Stat. 2412.)
-
-#### Amendment of Section
-
-<i>Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(3), Oct. 21, 1998, 112 Stat. 2681–809, provided that, effective Oct. 1, 2002, this section is amended by striking out subsections (e) and (f) and by redesignating subsection (g) as paragraph (4) of subsection (d).</i>
+(Pub. L. 96–465, title I, §701, Oct. 17, 1980, 94 Stat. 2099; Pub. L. 98–164, title I, §126, Nov. 22, 1983, 97 Stat. 1026; Pub. L. 103–236, title I, §126(2), (3), Apr. 30, 1994, 108 Stat. 393, 394; Pub. L. 103–415, §1(y), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(1), (3), Oct. 21, 1998, 112 Stat. 2681–808, 2681–809; Pub. L. 107–132, §1(a), Jan. 16, 2002, 115 Stat. 2412; Pub. L. 107–228, div. A, title III, §318(2), Sept. 30, 2002, 116 Stat. 1379.)
 
 #### References in Text
 
@@ -64,11 +60,19 @@ Section 701 of the Foreign Service Act of 1946, referred to in subsec. (a), whic
 
 2002—Subsec. (a). Pub. L. 107–132 inserted at end “The institution shall be designated the ‘George P. Shultz National Foreign Affairs Training Center’ ”.
 
-1998—Subsec. (d)(4). Pub. L. 105–277, §2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
+Subsecs. (d)(4) to (g). Pub. L. 107–228 repealed Pub. L. 105–277, §2205(a)(3). See 1998 Amendment notes below.
 
-Subsecs. (e), (f). Pub. L. 105–277, §2205(a)(1)(B), added subsecs. (e) and (f).
+1998—Subsec. (d)(4). Pub. L. 105–277, §2205(a)(3)(B), which directed the redesignation of subsec. (g) as (d)(4), effective Oct. 1, 2002, was repealed by Pub. L. 107–228, effective Sept. 30, 2002.
 
-Subsec. (g). Pub. L. 105–277, §2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
+Pub. L. 105–277, §2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
+
+Subsecs. (e), (f). Pub. L. 105–277, §2205(a)(3)(A), which directed the striking out of subsecs. (e) and (f), effective Oct. 1, 2002, was repealed by Pub. L. 107–228, effective Sept. 30, 2002.
+
+Pub. L. 105–277, §2205(a)(1)(B), added subsecs. (e) and (f).
+
+Subsec. (g). Pub. L. 105–277, §2205(a)(3)(B), which directed the redesignation of subsec. (g) as (d)(4), effective Oct. 1, 2002, was repealed by Pub. L. 107–228, effective Sept. 30, 2002.
+
+Pub. L. 105–277, §2205(a)(1)(A), redesignated subsec. (d)(4) as (g).
 
 1994—Pub. L. 103–415 made technical amendment relating to style of section catchline.
 
@@ -90,7 +94,7 @@ Pub. L. 107–132, §1(b), Jan. 16, 2002, 115 Stat. 2412, provided that: “Any 
 
 Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(2), Oct. 21, 1998, 112 Stat. 2681–809, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on October 1, 1998.”
 
-Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(3), Oct. 21, 1998, 112 Stat. 2681–809, provided that the amendment made by section 2205(a)(3) is effective Oct. 1, 2002.
+Pub. L. 105–277, div. G, subdiv. B, title XXII, §2205(a)(3), Oct. 21, 1998, 112 Stat. 2681–809, which provided that the amendment made by section 2205(a)(3) was effective Oct. 1, 2002, was repealed by Pub. L. 107–228, div. A, title III, §318(2), Sept. 30, 2002, 116 Stat. 1379.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -158,13 +162,13 @@ Jurisdiction and Custody.—The facility constructed under this section and the 
 
 “(e)
 
-Operation, Maintenance, Security, Alteration, and Repair.—(1) The Administrator of General Services shall delegate, in accordance with section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486) and section 15 of the Public Buildings Act of 1959 (40 U.S.C. 614), to the Secretary of State responsibility for the operation, maintenance, and security of and alterations and repairs to the facility constructed pursuant to this section, provided the facility is used by the Secretary for the purposes authorized by this section.
+Operation, Maintenance, Security, Alteration, and Repair.—(1) The Administrator of General Services shall delegate, in accordance with section 205 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486) \[see 40 U.S.C. 121 and Historical and Revision notes thereunder\] and section 15 of the Public Buildings Act of 1959 (40 U.S.C. 614) \[now 40 U.S.C. 3313\], to the Secretary of State responsibility for the operation, maintenance, and security of and alterations and repairs to the facility constructed pursuant to this section, provided the facility is used by the Secretary for the purposes authorized by this section.
 
 “\[(2) Repealed. Pub. L. 105–277, div. G, subdiv. B, title XXII, §2219(a)(3), Oct. 21, 1998, 112 Stat. 2681–817.\]
 
 “(f)
 
-Exemption From Payment of Charges.—(1) Except as provided in paragraph (2), the Department of State shall be exempt from the charges required by section 210(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(j)) for the use of the facility constructed under this section for the Foreign Service Institute.
+Exemption From Payment of Charges.—(1) Except as provided in paragraph (2), the Department of State shall be exempt from the charges required by section 210(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(j)) \[now 40 U.S.C. 586(a), (b)\] for the use of the facility constructed under this section for the Foreign Service Institute.
 
 “(2) The Administrator of General Services shall charge the Department of State under such section 210(j) for the costs of any operation, maintenance, repairs, or alterations of such facility carried out by the Administrator of General Services.”
 

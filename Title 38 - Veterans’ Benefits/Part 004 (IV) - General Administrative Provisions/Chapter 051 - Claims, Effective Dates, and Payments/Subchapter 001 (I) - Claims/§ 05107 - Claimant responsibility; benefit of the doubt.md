@@ -14,7 +14,7 @@ Benefit of the Doubt.—The Secretary shall consider all information and lay and
 
 2000—Pub. L. 106–475 substituted “Claimant responsibility; benefit of the doubt” for “Burden of proof; benefit of the doubt” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
-“(a) Except when otherwise provided by the Secretary in accordance with the provisions of this title, a person who submits a claim for benefits under a law administered by the Secretary shall have the burden of submitting evidence sufficient to justify a belief by a fair and impartial individual that the claim is wellgrounded. The Secretary shall assist such a claimant in developing the facts pertinent to the claim. Such assistance shall include requesting information as described in section 5106 of this title.
+“(a) Except when otherwise provided by the Secretary in accordance with the provisions of this title, a person who submits a claim for benefits under a law administered by the Secretary shall have the burden of submitting evidence sufficient to justify a belief by a fair and impartial individual that the claim is well grounded. The Secretary shall assist such a claimant in developing the facts pertinent to the claim. Such assistance shall include requesting information as described in section 5106 of this title.
 
 “(b) When, after consideration of all evidence and material of record in a case before the Department with respect to benefits under laws administered by the Secretary, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of the matter, the benefit of the doubt in resolving each such issue shall be given to the claimant. Nothing in this subsection shall be construed as shifting from the claimant to the Secretary the burden specified in subsection (a) of this section.”
 
@@ -63,4 +63,8 @@ Rule for Claims the Denial of Which Became Final After the Court of Appeals for 
 #### Effective Date
 
 Section effective Sept. 1, 1989, see section 401(a) of Pub. L. 100–687, set out as a note under section 7251 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7261 of this title.
 

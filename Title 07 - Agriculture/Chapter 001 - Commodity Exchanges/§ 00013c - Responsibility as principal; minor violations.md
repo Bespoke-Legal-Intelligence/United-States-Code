@@ -18,7 +18,7 @@ Pub. L. 102–546, §402(1)(D), substituted “Commission” for “commission�
 
 Subsecs. (b), (c). Pub. L. 97–444, §230(2), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-1974—Subsec. (b). Pub. L. 93–463, §103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared inthe phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
+1974—Subsec. (b). Pub. L. 93–463, §103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in the text of this section, section 103(b) did not apply to this section and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
 
 #### Effective Date of 1983 Amendment
 

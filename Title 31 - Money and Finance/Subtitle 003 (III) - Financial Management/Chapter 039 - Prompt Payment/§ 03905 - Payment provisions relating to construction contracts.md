@@ -36,7 +36,7 @@
 
 (e) If a prime contractor, after making application to an agency for payment under a contract but before making a payment to a subcontractor for the subcontractor's performance covered by such application, discovers that all or a portion of the payment otherwise due such subcontractor is subject to withholding from the subcontractor in accordance with the subcontract agreement, then the prime contractor shall—
 
-&emsp;(1) furnish to the subcontractor a notice conforming to the standards of subsection (g) ofthis section as soon as practicable upon ascertaining the cause giving rise to a withholding, but prior to the due date for subcontractor payment;
+&emsp;(1) furnish to the subcontractor a notice conforming to the standards of subsection (g) of this section as soon as practicable upon ascertaining the cause giving rise to a withholding, but prior to the due date for subcontractor payment;
 
 &emsp;(2) furnish to the Government, as soon as practicable, a copy of the notice furnished to the subcontractor pursuant to paragraph (1) of this subsection;
 
@@ -68,13 +68,13 @@
 
 &emsp;&emsp;(B) the date that any subsequent payment is reduced under paragraph (5)(A).
 
-(f)(1) If a prime contractor, after making payment to a first-tier subcontractor, receives from a supplier or subcontractor of the first-tier subcontractor (hereafter referred to as a “second-tier subcontractor”) a written notice in accordance with section 2 of the Act of August 24, 1935 (40 U.S.C. 270b), asserting a deficiency in such first-tier subcontractor's performance under the contract for which the prime contractor may be ultimately liable, and the prime contractor determines that all or a portion of future payments otherwise due such first-tier subcontractor is subject to withholding in accordance with the subcontract agreement, then the prime contractor may, without incurring an obligation to pay an interest penalty under subsection (e)(6) of this section—
+(f)(1) If a prime contractor, after making payment to a first-tier subcontractor, receives from a supplier or subcontractor of the first-tier subcontractor (hereafter referred to as a “second-tier subcontractor”) a written notice in accordance with section 3133(b) of title 40, asserting a deficiency in such first-tier subcontractor's performance under the contract for which the prime contractor may be ultimately liable, and the prime contractor determines that all or a portion of future payments otherwise due such first-tier subcontractor is subject to withholding in accordance with the subcontract agreement, then the prime contractor may, without incurring an obligation to pay an interest penalty under subsection (e)(6) of this section—
 
 &emsp;(A) furnish to the first-tier subcontractor a notice conforming to the standards of subsection (g) of this section as soon as practicable upon making such determination; and
 
 &emsp;(B) withhold from the first-tier subcontractor's next available progress payment or payments an amount not to exceed the amount specified in the notice of withholding furnished under subparagraph (A) of this paragraph.
 
-(2) As soon as practicable, but not later than 7 days after receipt of satisfactory written notification that the identified subcontract performance deficiency has been corrected, the prime contractor shall pay the amount withheld under paragraph (1)(B) of this subsection to such first-tier subcontractor, or shall incur an obligation to pay a late payment interest penalty to such first-tier subcontractor computed at the rate specified by section 3902(a) of this title.
+(2) As soon as practicable, but not later than 7 days after receipt of satisfactory written notification that the identified subcontract performance deficiency has been corrected, the prime contractor shall pay the amount withheld under paragraph (1)(B) of this subsection to such first-tier subcontractor, or shall incur an obligation to pay a late payment interest penalty to suchfirst-tier subcontractor computed at the rate specified by section 3902(a) of this title.
 
 (g) A written notice of any withholding shall be issued to a subcontractor (with a copy to the Government of any such notice issued by a prime contractor), specifying—
 
@@ -92,11 +92,15 @@
 
 (k) A contractor's obligation to pay an interest penalty to a subcontractor pursuant to the clauses included in a subcontract under subsection (b) or (c) of this section may not be construed to be an obligation of the United States for such interest penalty. A contract modification may not be made for the purpose of providing reimbursement of such interest penalty. A cost reimbursement claim may not include any amount for reimbursement of such interest penalty.
 
-(Added Pub. L. 100–496, §9(a)(2), Oct. 17, 1988, 102 Stat. 2460.)
+(Added Pub. L. 100–496, §9(a)(2), Oct. 17, 1988, 102 Stat. 2460; amended Pub. L. 107–217, §3(h)(7), Aug. 21, 2002, 116 Stat. 1300.)
 
 #### Prior Provisions
 
 A prior section 3905 was renumbered section 3906 of this title.
+
+#### Amendments
+
+2002—Subsec. (f)(1). Pub. L. 107–217 substituted “section 3133(b) of title 40” for “section 2 of the Act of August 24, 1935 (40 U.S.C. 270b)”.
 
 #### Effective Date
 

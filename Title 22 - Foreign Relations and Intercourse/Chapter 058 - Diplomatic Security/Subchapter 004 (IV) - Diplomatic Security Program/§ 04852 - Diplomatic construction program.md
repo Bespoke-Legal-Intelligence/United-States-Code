@@ -6,7 +6,7 @@ Notwithstanding section 302 of this title, and where adequate competition exists
 
 &emsp;(1) bid on a diplomatic construction or design project which has an estimated total project value exceeding $10,000,000; and
 
-&emsp;(2) bid on a diplomatic construction or design project which involves technical security,unless the project involves low-level technology, as determined by the Secretary of State.
+&emsp;(2) bid on a diplomatic construction or design project which involves technical security, unless the project involves low-level technology, as determined by the Secretary of State.
 
 #### (b) Exception
 
@@ -30,7 +30,7 @@ For the purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) for more than 2 years before the issuance date of the invitation for bids or request for proposals with respect to a construction or design project which involves physical or technical security under subsection (a)(2) of this section;
 
-&emsp;&emsp;(D) has performed within the United States administrative and technical, professional, or construction services similar in complexity, type of construction, and value to the project being bid;
+&emsp;&emsp;(D) has performed within the United States or at a United States diplomatic or consular establishment abroad administrative and technical, professional, or construction services similar in complexity, type of construction, and value to the project being bid;
 
 &emsp;&emsp;(E) with respect to a construction project under subsection (a)(1) of this section, has achieved total business volume equal to or greater than the value of the project being bid in 3 years of the 5-year period before the date specified in subparagraph (C)(i);
 
@@ -56,13 +56,15 @@ Not less than 10 percent of the amount appropriated pursuant to section 4851(a) 
 
 With respect to a diplomatic construction project, a prime contractor may not subcontract more than 50 percent of the total value of its contract for that project.
 
-(Pub. L. 99–399, title IV, §402, Aug. 27, 1986, 100 Stat. 864; Pub. L. 101–246, title I, §132, Feb. 16, 1990, 104 Stat. 32; Pub. L. 102–138, title I, §131, Oct. 28, 1991, 105 Stat. 662; Pub. L. 103–236, title I, §162(g)(10), Apr. 30, 1994, 108 Stat. 407.)
+(Pub. L. 99–399, title IV, §402, Aug. 27, 1986, 100 Stat. 864; Pub. L. 101–246, title I, §132, Feb. 16, 1990, 104 Stat. 32; Pub. L. 102–138, title I, §131, Oct. 28, 1991, 105 Stat. 662; Pub. L. 103–236, title I, §162(g)(10), Apr. 30, 1994, 108 Stat. 407; Pub. L. 107–228, div. A, title II, §206(b), Sept. 30, 2002, 116 Stat. 1364.)
 
 #### References in Text
 
 Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (b), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of this title. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (c)(2)(D). Pub. L. 107–228 inserted “or at a United States diplomatic or consular establishment abroad” after “United States”.
 
 1994—Subsec. (a)(2). Pub. L. 103–236 substituted “Secretary of State” for “Assistant Secretary for Diplomatic Security”.
 

@@ -1,10 +1,14 @@
 ### §1836. Civil proceedings to enjoin violations
 
-(a) The Attorney General may, in a civil action, obtain appropriate injunctive relief against any violation of this section.<sup>1</sup>
+(a) The Attorney General may, in a civil action, obtain appropriate injunctive relief against any violation of this chapter.
 
-(b) The district courts of the United States shall have exclusive original jurisdiction of civil actions under this subsection.<sup>1</sup>
+(b) The district courts of the United States shall have exclusive original jurisdiction of civil actions under this section.
 
-(Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3490.)
+(Added Pub. L. 104–294, title I, §101(a), Oct. 11, 1996, 110 Stat. 3490; amended Pub. L. 107–273, div. B, title IV, §4002(e)(9), Nov. 2, 2002, 116 Stat. 1810.)
 
-<i><sup>1</sup></i><i> So in original.</i>
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–273, §4002(e)(9)(A), substituted “this chapter” for “this section”.
+
+Subsec. (b). Pub. L. 107–273, §4002(e)(9)(B), substituted “this section” for “this subsection”.
 

@@ -16,7 +16,7 @@
 
 #### (b) Initiation of investigation by means other than petition
 
-(1)(A) If the Trade Representative determines that an investigation should be initiated under this subchapter with respect to any matter in order to determine whether the matter is actionable under section 2411 of this title, the Trade Representative shall publish such determination in the Federal Register and shall initiate such investigation.
+(1)(A) If the Trade Representative determines that an investigation should be initiated underthis subchapter with respect to any matter in order to determine whether the matter is actionable under section 2411 of this title, the Trade Representative shall publish such determination in the Federal Register and shall initiate such investigation.
 
 (B) The Trade Representative shall, before making any determination under subparagraph (A), consult with appropriate committees established pursuant to section 2155 of this title.
 
@@ -38,7 +38,7 @@
 
 #### (c) Discretion
 
-In determining whether to initiate an investigation under subsection (a) or (b) of this section of any act, policy, or practice that is enumerated in any provision of section 2411(d) ofthis title, the Trade Representative shall have discretion to determine whether action under section 2411 of this title would be effective in addressing such act, policy, or practice.
+In determining whether to initiate an investigation under subsection (a) or (b) of this section of any act, policy, or practice that is enumerated in any provision of section 2411(d) of this title, the Trade Representative shall have discretion to determine whether action under section 2411 of this title would be effective in addressing such act, policy, or practice.
 
 (Pub. L. 93–618, title III, §302, as added Pub. L. 96–39, title IX, §901, July 26, 1979, 93 Stat. 296; amended Pub. L. 98–573, title III, §304(d)(1), Oct. 30, 1984, 98 Stat. 3003; Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1168; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(9)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
 

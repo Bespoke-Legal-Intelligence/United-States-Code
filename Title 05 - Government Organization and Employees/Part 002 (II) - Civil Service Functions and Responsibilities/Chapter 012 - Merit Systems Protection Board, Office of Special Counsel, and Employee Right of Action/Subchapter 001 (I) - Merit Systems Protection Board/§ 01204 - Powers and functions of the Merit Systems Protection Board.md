@@ -4,7 +4,7 @@
 
 &emsp;(1) hear, adjudicate, or provide for the hearing or adjudication, of all matters within the jurisdiction of the Board under this title, chapter 43 of title 38, or any other law, rule, or regulation, and, subject to otherwise applicable provisions of law, take final action on any such matter;
 
-&emsp;(2) order any Federal agency or employee to comply with any order or decision issued by the Board under the authority granted under paragraph (1) of this subsection and enforce compliance with any such order;
+&emsp;(2) order any Federal agency or employee to comply with any order or decision issued bythe Board under the authority granted under paragraph (1) of this subsection and enforce compliance with any such order;
 
 &emsp;(3) conduct, from time to time, special studies relating to the civil service and to other merit systems in the executive branch, and report to the President and to the Congress as to whether the public interest in a civil service free of prohibited personnel practices is being adequately protected; and
 
@@ -36,7 +36,7 @@
 
 (3) In carrying out any study under subsection (a)(3), the Board shall make such inquiries as may be necessary and, unless otherwise prohibited by law, shall have access to personnel records or information collected by the Office of Personnel Management and may require additional reports from other agencies as needed.
 
-(f)(1) At any time after the effective date of any rule or regulation issued by the Director ofthe Office of Personnel Management in carrying out functions under section 1103, the Board shall review any provision of such rule or regulation—
+(f)(1) At any time after the effective date of any rule or regulation issued by the Director of the Office of Personnel Management in carrying out functions under section 1103, the Board shall review any provision of such rule or regulation—
 
 &emsp;(A) on its own motion;
 
@@ -116,7 +116,7 @@ Subsec. (d). Pub. L. 101–12, §3(a)(7)(F), added subsec. (d). Former subsec. (
 
 Subsec. (e). Pub. L. 101–12, §3(a)(7)(F), redesignated former subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
-Subsec. (e)(1). Pub. L. 101–12, §3(a)(7)(A), (G)(i), designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(1)”, and added subpar. (B).
+Subsec. (e)(1). Pub. L. 101–12, §3(a)(7)(A), (G)(i), designated existing provisions as subpar. (A), struck out“of this section” after “subsection (a)(1)”, and added subpar. (B).
 
 Subsec. (e)(2). Pub. L. 101–12, §3(a)(7)(G)(ii), designated existing provisions as subpar. (A), struck out “of this section” after “subsection (a)(2)”, and added subpar. (B).
 
@@ -150,5 +150,5 @@ Amendment by Pub. L. 101–12 effective 90 days following Apr. 10, 1989, see sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1212, 1221 of this title.
+This section is referred to in sections 1212, 1221 of this title; title 49 section 40122.
 

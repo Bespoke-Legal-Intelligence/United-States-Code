@@ -1,6 +1,6 @@
 ### §1461–1a. Ban on domestic activities by United States Information Agency
 
-Except as provided in section 1461 of this title and this section, no funds authorized to be appropriated to the United States Information Agency shall be used to influence public opinion in the United States, and no program material prepared by the United States Information Agency shall be distributed within the United States. This section shall not apply to programs carried out pursuant to the Mutual Educational and Cultural Exchange Act of 1961 (22 U.S.C. 2451 et seq.). The provisions of this section shall not prohibit the United States Information Agency from responding to inquiries from members of the public about its operations, policies, or programs.
+Except as provided in section 1461 of this title and this section, no funds authorized to be appropriated to the United States Information Agency shall be used to influence public opinion in the United States, and no program material prepared by the United States Information Agency shall be distributed within the United States. This section shall not apply to programs carried out pursuant to the Mutual Educationaland Cultural Exchange Act of 1961 (22 U.S.C. 2451 et seq.). The provisions of this section shall not prohibit the United States Information Agency from responding to inquiries from members of the public about its operations, policies, or programs.
 
 (Pub. L. 99–93, title II, §208, Aug. 16, 1985, 99 Stat. 431; Pub. L. 103–236, title II, §232, Apr. 30, 1994, 108 Stat. 424.)
 

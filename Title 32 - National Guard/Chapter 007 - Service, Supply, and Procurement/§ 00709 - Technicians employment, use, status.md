@@ -1,6 +1,6 @@
 ### §709. Technicians: employment, use, status
 
-(a) Under regulations prescribed by the Secretary of the Army or the Secretary of the AirForce, as the case may be, and subject to subsections (b) and (c), persons may be employed as technicians in—
+(a) Under regulations prescribed by the Secretary of the Army or the Secretary of the Air Force, as the case may be, and subject to subsections (b) and (c), persons may be employed as technicians in—
 
 &emsp;(1) the administration and training of the National Guard; and
 
@@ -148,7 +148,7 @@ Subsec. (c). Pub. L. 90–486 substituted provisions authorizing the Secretary c
 
 Subsec. (d). Pub. L. 90–486 substituted provisions that a technician employed under subsec. (a) is an employee of the particular department concerned, and an employee of the United States, with proviso that a position authorized by this section is outside competitive service if technician so employed is required under subsec. (b) to be a member of the National Guard, for provisions that one commissioned officer of the National Guard in a grade below major may be employed for each pool set up and for each squadron of the Air National Guard.
 
-Subsec. (e). Pub. L. 90–486 substituted provisions authorizing the adjutant general of the jurisdiction concerned to separate from technicians employment any technician for the specified grounds, provisions requiring the technician concerned to be notified in writing of the termination of his employment at least 30 days prior to the termination date of such employment, andprovisions granting a limited right of appeal from such termination, for provisions appropriating funds by Congress for the National Guard as additional to funds appropriated by the several states and territories, etc., and provisions making such funds available for the hire of caretakers and clerks.
+Subsec. (e). Pub. L. 90–486 substituted provisions authorizing the adjutant general of the jurisdiction concerned to separate from technicians employment any technician for the specified grounds, provisions requiring the technician concerned to be notified in writing of the termination of his employment at least 30 days prior to the termination date of such employment, and provisions granting a limited right of appeal from such termination, for provisions appropriating funds by Congress for the National Guard as additional to funds appropriated by the several states and territories, etc., and provisions making such funds available for the hire of caretakers and clerks.
 
 Subsec. (f). Pub. L. 90–486 substituted provisions making inapplicable sections 2108, 3502, 7511, and 7512 of Title 5 to any person employed under this section for provisions authorizing the Secretary concerned to fix the salaries of clerks and caretakers and to designate the person to employ them, and provisions authorizing compensation to include the amounts of the employer's contributions to retirement systems.
 
@@ -212,7 +212,7 @@ Section 3 of Pub. L. 90–486, as amended by Pub. L. 101–530, §2, Nov. 6, 199
 
 “(a) A claim accrued under section 715 of title 32, United States Code, before the effective date of this Act \[see effective date note above\] by reason of the act or omission of a person employed under section 709 of title 32, United States Code, may, if otherwise allowable, be settled and paid under section 715 of title 32, United States Code.
 
-“(b) Except as provided in this Act and in the amendments made by this Act \[see Short Title note above\]and notwithstanding any law, rule, regulation, or decision to the contrary, the positions of persons employed under section 709 of title 32, United States Code, existing on the day before the effective date of this Act, and the persons holding those positions on that day, shall, on and after that effective date, be considered to be positions in and employees of the Department of the Army or the Department of the Air Force, as the case may be, and employees of the United States to the same extent as other positions in and employees of the Department of the Army or the Department of the Air Force. Such positions shall be outside the competitive service, if, as a condition of employment, the persons employed therein were, on the day before the effective date of this Act, required to be members of the Army National Guard or the Air National Guard.
+“(b) Except as provided in this Act and in the amendments made by this Act \[see Short Title note above\] and notwithstanding any law, rule, regulation, or decision to the contrary, the positions of persons employed under section 709 of title 32, United States Code, existing on the day before the effective date of this Act, and the persons holding those positions on that day, shall, on and after that effective date, be considered to be positions in and employees of the Department of the Army or the Department of the Air Force, as the case may be, and employees of the United States to the same extent as other positions in and employees of the Department of the Army or the Department of the Air Force. Such positions shall be outside the competitive service, if, as a condition of employment, the persons employed therein were, on the day before the effective date of this Act, required to be members of the Army National Guard or the Air National Guard.
 
 “(c) All service under section 709 of title 32, United States Code, or prior corresponding provision of law, performed before the effective date of this Act shall be included and credited in the determination of length of service for the purposes of leave, Federal employees death and disability compensation, group life and health insurance, severance pay, tenure, and status.
 
@@ -238,7 +238,7 @@ Rule for individuals separating after december 31, 1968, and before the enactmen
 
 &emsp;\[“(B)
 
-Conditions for enrolling in a health benefits plan.—Any individual who satisfies the length of service requirement referred to in subparagraph (A) as a result of the application of the amendment made by section 2 shall be enrolled in a health benefits plan (described in section 8903 of such title) of such individual's choice, if—
+Conditions for enrolling in a health benefits plan.—Any individual who satisfies the length of service requirement referred to in subparagraph (A) as a result of the application of the amendment made by section 2 shall be enrolled in a health benefits plan\(described in section 8903 of such title) of such individual's choice, if—
 
 &emsp;&emsp;\[“(i) application for enrollment is received by the Office of Personnel Management within one year after the date of the enactment of this Act; and
 

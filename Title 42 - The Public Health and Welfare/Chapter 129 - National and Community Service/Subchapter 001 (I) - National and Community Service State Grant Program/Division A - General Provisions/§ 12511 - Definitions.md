@@ -48,7 +48,7 @@ For purposes of this subchapter:
 
 #### (10) Indian lands
 
-&emsp;The term “Indian lands” means any real property owned by an Indian tribe, any real property held in trust by the United States for an Indian or Indian tribe, and any real property held by an Indian or Indian tribe that is subject to restrictions on alienation imposed by the United States.
+&emsp;The term “Indian lands” means any real property owned by an Indian tribe, any realproperty held in trust by the United States for an Indian or Indian tribe, and any real property held by an Indian or Indian tribe that is subject to restrictions on alienation imposed by the United States.
 
 #### (11) Indian tribe
 
@@ -148,7 +148,7 @@ For purposes of this subchapter:
 
 #### (24) Service-learning coordinator
 
-&emsp;The term “service-learning coordinator” means an individual who provides services as described in subsection (a)(3) or (b) of section 12521 of this title.
+&emsp;The term “service-learning coordinator” means an individual who provides services asdescribed in subsection (a)(3) or (b) of section 12521 of this title.
 
 #### (25) Service sponsor
 
@@ -180,7 +180,7 @@ This chapter, referred to in pars. (15) and (17)(A)(ii), was in the original “
 
 The Domestic Volunteer Service Act of 1973, referred to in par. (15), is Pub. L. 93–113, Oct. 1, 1973, 87 Stat. 394, as amended, which is classified principally to chapter 66 (§4950 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4950 of this title and Tables.
 
-The Individuals with Disabilities Education Act, referred to in par. (21)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20, Education. Section 602 of the Act,which was classified to section 1401 of Title 20, was omitted in the general amendment of subchapter I of chapter 33 of Title 20 by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602, which is classified to section 1401 of Title 20, and contains provisions defining “child with a disability”. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
+The Individuals with Disabilities Education Act, referred to in par. (21)(B), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of Title 20, Education. Section 602 of the Act, which was classified to section 1401 of Title 20, was omitted in the general amendment of subchapter I of chapter 33 of Title 20 by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602, which is classified to section 1401 of Title 20, and contains provisions defining “child with a disability”. For complete classification of this Act to the Code, see section 1400 of Title 20 and Tables.
 
 For ratification of Compact of Free Association with Palau, referred to in par. (26), see Proc. No. 6726, Sept. 27, 1994, 59 F.R. 49777, set out as a note under section 1931 of Title 48, Territories and Insular Possessions.
 
@@ -228,7 +228,7 @@ Par. (30). Pub. L. 102–10, §3(2), (7), redesignated par. (29) as (30) and ins
 
 #### Effective Date of 2002 Amendment
 
-Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
+Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub.L. 107–110, set out as an Effective Date note under section 6301 of Title 20, Education.
 
 #### Effective Date of 1998 Amendment
 

@@ -2,7 +2,7 @@
 
 The clerks of the courts of the United States, within one month after the filing of an action under this title shall give notice thereof in writing to the Director, setting forth so far as known the names and addresses of the parties, name of the inventor, and the designating number of the patent upon which the action has been brought. If any other patent is subsequently included in the action he shall give like notice thereof. Within one month after the decision is rendered or a judgment issued the clerk of the court shall give notice thereof to the Director. The Director shall, on receipt of such notices, enter the same in the file of such patent.
 
-(July 19, 1952, ch. 950, 66 Stat. 814; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 814; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,9 @@ This is the last sentence of R.S. 4921, third paragraph, with minor changes in l
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+
+1999—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
 
 #### Effective Date of 1999 Amendment
 

@@ -1,6 +1,6 @@
 ### §404. Travel and transportation allowances: general
 
-(a) Except as provided in subsection (f) and under regulations prescribed by the Secretaries concerned, a member of a uniformed service is entitled to travel and transportation allowances for travel performed or to be performed under orders, without regard to the comparative costs of the various modes of transportation—
+(a) Except as provided in subsection (f) and under regulations prescribed by the Secretariesconcerned, a member of a uniformed service is entitled to travel and transportation allowances for travel performed or to be performed under orders, without regard to the comparative costs of the various modes of transportation—
 
 &emsp;(1) upon a change of permanent station, or otherwise, or when away from his designated post of duty regardless of the length of time he is away from that post;
 
@@ -56,7 +56,7 @@
 
 &emsp;(C) A combination of payments described in subparagraphs (A) and (B).
 
-(3) A per diem allowance or maximum amount of reimbursement established for purposes of paragraph (2) shall be established, to the extent feasible, by locality.
+(3) A per diem allowance or maximum amount of reimbursement established for purposes ofparagraph (2) shall be established, to the extent feasible, by locality.
 
 (4) For travel consuming less than a full day, the payment prescribed by regulation under paragraph (2) shall be allocated in such manner as the Secretaries concerned prescribe.
 
@@ -120,7 +120,7 @@
 
 (j) In this section, the term “involuntarily separated” has the meaning given that term in section 1141 of title 10.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a),title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–65, div. A, title VI, §631, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title X, §1087(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–292; Pub. L. 107–107, div. A, title VI, §631, Dec. 28, 2001, 115 Stat. 1143.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 472; Pub. L. 89–680, §1(1), Oct. 15, 1966, 80 Stat. 957; Pub. L. 89–718, §§55, 56, Nov. 2, 1966, 80 Stat. 1122, 1123; Pub. L. 90–168, §3, Dec. 1, 1967, 81 Stat. 525; Pub. L. 91–183, Dec. 30, 1969, 83 Stat. 840; Pub. L. 94–296, §1, May 29, 1976, 90 Stat. 584; Pub. L. 96–342, title VIII, §807(a), Sept. 8, 1980, 94 Stat. 1096; Pub. L. 96–343, §5(a), Sept. 8, 1980, 94 Stat. 1126; Pub. L. 97–60, title I, §121(a), Oct. 14, 1981, 95 Stat. 999; Pub. L. 98–94, title IX, §908(b), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title V, §533(g), title VI, §613(a), title XIV, §1402(c), Oct. 19, 1984, 98 Stat. 2528, 2539, 2621; Pub. L. 99–145, title VI, §612(a), Nov. 8, 1985, 99 Stat. 639; Pub. L. 99–500, §101(c) \[title IX, §9073\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–113, and Pub. L. 99–591, §101(c) \[title IX, §9073\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–113; Pub. L. 99–661, div. A, title VI, §614(a), title XIII, §1343(b)(2), Nov. 14, 1986, 100 Stat. 3879, 3995; Pub. L. 100–26, §8(a), (d)(6), Apr. 21, 1987, 101 Stat. 284, 285; Pub. L. 100–180, div. A, title VI, §617(a), Dec. 4, 1987, 101 Stat. 1096; Pub. L. 101–189, div. A, title VI, §621(a), Nov. 29, 1989, 103 Stat. 1446; Pub. L. 101–510, div. A, title V, §503(a), Nov. 5, 1990, 104 Stat. 1558; Pub. L. 102–25, title VII, §702(b)(1)–(3), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §624, Oct. 23, 1992, 106 Stat. 2423; Pub. L. 103–160, div. A, title V, §561(<i>l</i>)(1), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–337, div. A, title VI, §§621, 622, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 104–106, div. A, title VI, §621, Feb. 10, 1996, 110 Stat. 363; Pub. L. 104–201, div. A, title XII, §1252, Sept. 23, 1996, 110 Stat. 2698; Pub. L. 105–85, div. A, title VI, §602(b)(1), Nov. 18, 1997, 111 Stat. 1772; Pub. L. 105–261, div. A, title V, §561(f), Oct. 17, 1998, 112 Stat. 2025; Pub. L. 106–65, div. A, title VI, §631, Oct. 5, 1999, 113 Stat. 661; Pub. L. 106–398, §1 \[\[div. A\], title V, §571(f), title X, §1087(b)(3)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–134, 1654A–292; Pub. L. 107–107, div. A, title VI, §631, Dec. 28, 2001, 115 Stat. 1143.)
 
 Historical and Revision Notes
 
@@ -206,7 +206,7 @@ Subsec. (i)(4). Pub. L. 106–65, §631(c), added par. (4).
 
 1998—Subsecs. (c)(1)(C), (f)(2)(B)(v). Pub. L. 105–261 substituted “during the period beginning on October 1, 1990, and ending on September 30, 2001” for “during the nine-year period beginning on October 1, 1990”.
 
-1997—Subsecs. (g) to (k). Pub. L. 105–85 redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struck out former subsec. (g) which read as follows: “In the case of an enlisted member who is in a travel status and not entitled to receive per diem in lieu of subsistence for any day (or portion of a day) because the member is furnished meals in a Government mess, the member may not be paid a basic allowance for subsistence for such day (or portion of such day) that the member is furnished meals in a Government mess.”
+1997—Subsecs. (g) to (k). Pub. L. 105–85 redesignated subsecs. (h) to (k) as (g) to (j), respectively, and struckout former subsec. (g) which read as follows: “In the case of an enlisted member who is in a travel status and not entitled to receive per diem in lieu of subsistence for any day (or portion of a day) because the member is furnished meals in a Government mess, the member may not be paid a basic allowance for subsistence for such day (or portion of such day) that the member is furnished meals in a Government mess.”
 
 1996—Subsec. (d)(1)(A). Pub. L. 104–106 struck out “, based on distances established over the shortest usually traveled route, under mileage tables prepared under the direction of the Secretary of Defense” after “section 5704 of title 5”.
 
@@ -298,7 +298,7 @@ Amendment by Pub. L. 100–180 applicable with respect to travel performed after
 
 #### Effective Date of 1986 Amendments
 
-Section 612(b)(1) of Pub. L. 100–180 provided that: “The amendments made by section 614(a) of the National Defense Authorization Act for Fiscal Year 1987 \[section 614(a) of Pub. L. 99–661, which amended thissection\] shall be implemented by the Secretaries concerned (as defined in section 101(5) of title 37, United States Code) not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\] and shall apply with respect to travel performed on or after the date of implementation.”
+Section 612(b)(1) of Pub. L. 100–180 provided that: “The amendments made by section 614(a) of the National Defense Authorization Act for Fiscal Year 1987 \[section 614(a) of Pub. L. 99–661, which amended this section\] shall be implemented by the Secretaries concerned (as defined in section 101(5) of title 37, United States Code) not later than 90 days after the date of the enactment of this Act \[Dec. 4, 1987\] and shall apply with respect to travel performed on or after the date of implementation.”
 
 Section 614(b) of Pub. L. 99–661, which provided that amendments made by section 614(a) of Pub. L. 99–661 shall become effective on such date as the President makes a certification regarding savings to the United States by such amendments, was repealed by Pub. L. 100–180, div. A, title VI, §612(a), Dec. 4, 1987, 101 Stat. 1093.
 
@@ -360,5 +360,5 @@ The increase from $12 to $16 in the per diem allowance and the provision for rei
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 404a, 406, 406a, 406b, 406c, 408, 410, 411, 411a, 411b, 411e, 420, 433, 1002, 1003 of this title; title 5 section 4109; title 10 sections 1174a, 1175, 2013.
+This section is referred to in sections 404a, 406, 406a, 406b, 406c, 408, 410, 411, 411a, 411b, 411e, 420, 433, 1002, 1003 of this title; title 5 section 4109; title 10 sections 1174a, 1175, 2013, 2784a.
 

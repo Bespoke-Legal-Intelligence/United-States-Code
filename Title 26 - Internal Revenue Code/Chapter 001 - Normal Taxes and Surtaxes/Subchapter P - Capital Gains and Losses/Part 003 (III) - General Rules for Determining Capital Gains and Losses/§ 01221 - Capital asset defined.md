@@ -1,0 +1,134 @@
+### §1221. Capital asset defined
+
+#### (a) In general
+
+For purposes of this subtitle, the term “capital asset” means property held by the taxpayer (whether or not connected with his trade or business), but does not include—
+
+&emsp;(1) stock in trade of the taxpayer or other property of a kind which would properly be included in the inventory of the taxpayer if on hand at the close of the taxable year, or property held by the taxpayer primarily for sale to customers in the ordinary course of his trade or business;
+
+&emsp;(2) property, used in his trade or business, of a character which is subject to the allowance for depreciation provided in section 167, or real property used in his trade or business;
+
+&emsp;(3) a copyright, a literary, musical, or artistic composition, a letter or memorandum, or similar property, held by—
+
+&emsp;&emsp;(A) a taxpayer whose personal efforts created such property,
+
+&emsp;&emsp;(B) in the case of a letter, memorandum, or similar property, a taxpayer for whom such property was prepared or produced, or
+
+&emsp;&emsp;(C) a taxpayer in whose hands the basis of such property is determined, for purposes of determining gain from a sale or exchange, in whole or part by reference to the basis of such property in the hands of a taxpayer described in subparagraph (A) or (B);
+
+&emsp;(4) accounts or notes receivable acquired in the ordinary course of trade or business for services rendered or from the sale of property described in paragraph (1);
+
+&emsp;(5) a publication of the United States Government (including the Congressional Record) which is received from the United States Government or any agency thereof, other than by purchase at the price at which it is offered for sale to the public, and which is held by—
+
+&emsp;&emsp;(A) a taxpayer who so received such publication, or
+
+&emsp;&emsp;(B) a taxpayer in whose hands the basis of such publication is determined, for purposes of determining gain from a sale or exchange, in whole or in part by reference to the basis of such publication in the hands of a taxpayer described in subparagraph (A);
+
+&emsp;(6) any commodities derivative financial instrument held by a commodities derivatives dealer, unless—
+
+&emsp;&emsp;(A) it is established to the satisfaction of the Secretary that such instrument has no connection to the activities of such dealer as a dealer, and
+
+&emsp;&emsp;(B) such instrument is clearly identified in such dealer's records as being described in subparagraph (A) before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe);
+
+&emsp;(7) any hedging transaction which is clearly identified as such before the close of the day on which it was acquired, originated, or entered into (or such other time as the Secretary may by regulations prescribe); or
+
+&emsp;(8) supplies of a type regularly used or consumed by the taxpayer in the ordinary course of a trade or business of the taxpayer.
+
+#### (b) Definitions and special rules
+
+#### (1) Commodities derivative financial instruments
+
+&emsp;For purposes of subsection (a)(6)—
+
+#### (A) Commodities derivatives dealer
+
+&emsp;&emsp;The term “commodities derivatives dealer” means a person which <sup>1</sup> regularly offers to enter into, assume, offset, assign, or terminate positions in commodities derivative financial instruments with customers in the ordinary course of a trade or business.
+
+#### (B) Commodities derivative financial instrument
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The term “commodities derivative financial instrument” means any contract or financial instrument with respect to commodities (other than a share of stock in a corporation, a beneficial interest in a partnership or trust, a note, bond, debenture, or other evidence of indebtedness, or a section 1256 contract (as defined in section 1256(b))), the value or settlement price of which is calculated by or determined by reference to a specified index.
+
+#### (ii) Specified index
+
+&emsp;&emsp;&emsp;The term “specified index” means any one or more or any combination of—
+
+&emsp;&emsp;&emsp;&emsp;(I) a fixed rate, price, or amount, or
+
+&emsp;&emsp;&emsp;&emsp;(II) a variable rate, price, or amount,
+
+&emsp;&emsp;&nbsp;which is based on any current, objectively determinable financial or economic information with respect to commodities which is not within the control of any of the parties to the contract or instrument and is not unique to any of the parties’ circumstances.
+
+#### (2) Hedging transaction
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of this section, the term “hedging transaction” means any transaction entered into by the taxpayer in the normal course of the taxpayer's trade or business primarily—
+
+&emsp;&emsp;&emsp;(i) to manage risk of price changes or currency fluctuations with respect to ordinary property which is held or to be held by the taxpayer,
+
+&emsp;&emsp;&emsp;(ii) to manage risk of interest rate or price changes or currency fluctuations with respect to borrowings made or to be made, or ordinary obligations incurred or to be incurred, by the taxpayer, or
+
+&emsp;&emsp;&emsp;(iii) to manage such other risks as the Secretary may prescribe in regulations.
+
+#### (B) Treatment of nonidentification or improper identification of hedging transactions
+
+&emsp;&emsp;Notwithstanding subsection (a)(7), the Secretary shall prescribe regulations to properly characterize any income, gain, expense, or loss arising from a transaction—
+
+&emsp;&emsp;&emsp;(i) which is a hedging transaction but which was not identified as such in accordance with subsection (a)(7), or
+
+&emsp;&emsp;&emsp;(ii) which was so identified but is not a hedging transaction.
+
+#### (3) Regulations
+
+&emsp;The Secretary shall prescribe such regulations as are appropriate to carry out the purposes of paragraph (6) and (7) of subsection (a) in the case of transactions involving related parties.
+
+(Aug. 16, 1954, ch. 736, 68A Stat. 321; Pub. L. 91–172, title V, §514(a), Dec. 30, 1969, 83 Stat. 643; Pub. L. 94–455, title XIX, §1901(c)(9), title XXI, §2132(a), Oct. 4, 1976, 90 Stat. 1803, 1925; Pub. L. 97–34, title V, §505(a), Aug. 13, 1981, 95 Stat. 331; Pub. L. 106–170, title V, §532(a), Dec. 17, 1999, 113 Stat. 1928; Pub. L. 107–16, title V, §542(e)(2)(A), June 7, 2001, 115 Stat. 85; Pub. L. 107–147, title IV, §417(20), Mar. 9, 2002, 116 Stat. 57.)
+
+#### Amendment of Subsection (a)(3)(C)
+
+<i>Pub. L. 107–16, title V, §542(e)(2)(A), (f)(1), title IX, §901, June 7, 2001, 115 Stat. 85, 86, 150, provided that, applicable to estates of decedents dying after Dec. 31, 2009, subsection (a)(3)(C) of this section is temporarily amended by inserting “(other than by reason of section 1022)” after “is determined”. See Effective and Termination Dates of 2001 Amendment note below.</i>
+
+#### Amendments
+
+2002—Subsec. (b)(1)(B)(i). Pub. L. 107–147 substituted “1256(b)))” for “1256(b))”.
+
+1999—Pub. L. 106–170 designated existing provisions as subsec. (a), inserted heading, and added pars. (6) to (8) and subsec. (b).
+
+1981—Pars. (5), (6). Pub. L. 97–34 redesignated par. (6) as (5) and struck out former par. (5), which excluded from definition of “capital asset” an obligation of the United States or any of its possessions, or of a State or any political subdivision thereof, or of the District of Columbia, issued on or after March 1, 1941, on a discount basis and payable without interest at a fixed maturity date not exceeding one year from the date of issue, and is covered by section 1232(a)(4)(B) of this title.
+
+1976—Par. (5). Pub. L. 94–455, §1901(c)(9), struck out “or Territory,” after “State”.
+
+Par. (6). Pub. L. 94–455, §2132(a), added par. (6).
+
+1969—Par. (3). Pub. L. 91–172 inserted reference to a letter or memorandum, added subpar. (B) dealing with a letter or memorandum, and redesignated former subpar. (B) as (C).
+
+#### Effective and Termination Dates of 2001 Amendment
+
+Amendment by Pub. L. 107–16 applicable to estates of decedents dying after Dec. 31, 2009, see section 542(f)(1) of Pub. L. 107–16, set out as a note under section 121 of this title.
+
+Amendment by Pub. L. 107–16 inapplicable to estates of decedents dying, gifts made, or generation skipping transfers, after Dec. 31, 2010, and the Internal Revenue Code of 1986 to be applied and administered to such estates, gifts, and transfers as if such amendment had never been enacted, see section 901 of Pub. L. 107–16, set out as a note under section 1 of this title.
+
+#### Effective Date of 1999 Amendment
+
+Amendment by Pub. L. 106–170 applicable to any instrument held, acquired, or entered into, any transaction entered into, and supplies held or acquired on or after Dec. 17, 1999, see section 532(d) of Pub. L. 106–170, set out as a note under section 170 of this title.
+
+#### Effective Date of 1981 Amendment
+
+Amendment by Pub. L. 97–34 applicable to property acquired and positions established by the taxpayer after June 23, 1981, in taxable years ending after such date, and applicable when so elected with respect to property held on June 23, 1981, see section 508 of Pub. L. 97–34, set out as an Effective Date note under section 1092 of this title.
+
+#### Effective Date of 1976 Amendment
+
+Section 2132(b) of Pub. L. 94–455 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to sales, exchanges, and contributions made after the date of enactment of this Act \[Oct. 4, 1976\].”
+
+#### Effective Date of 1969 Amendment
+
+Section 514(c) of Pub. L. 91–172 provided that: “The amendments made by this section \[amending this section and sections 341 and 1231 of this title\] shall apply to sales and other dispositions occurring after July 25, 1969.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 170, 198, 263A, 267, 341, 367, 543, 707, 751, 775, 818, 856, 857, 864, 865, 954, 995, 1092, 1223, 1231, 1234, 1234B, 1248, 1256, 1362, 1397C, 4662, 7704 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “who”.</i>
+

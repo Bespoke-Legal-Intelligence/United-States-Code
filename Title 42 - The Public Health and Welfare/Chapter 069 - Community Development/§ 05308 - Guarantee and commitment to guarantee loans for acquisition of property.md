@@ -48,7 +48,7 @@ With respect to any obligation issued by a <sup>2</sup> eligible public entity 
 
 #### (k) Outstanding obligations; limitation; monitoring use of guarantees under this section
 
-(1) The total amount of outstanding obligations guaranteed on a cumulative basis by the Secretary pursuant to subsection (a) of this section shall not at any time exceed $4,500,000,000 or such higher amount as may be authorized to be appropriated for sections 5306 and 5307 of this title for any fiscal year.
+(1) The total amount of outstanding obligations guaranteed on a cumulative basis by the Secretary pursuant to subsection (a) of this section shall not at any time exceed $4,500,000,000 or such higher amount as may be authorized to beappropriated for sections 5306 and 5307 of this title for any fiscal year.
 
 (2) The Secretary shall monitor the use of guarantees under this section by eligible public entities. If the Secretary finds that 50 percent of the aggregate guarantee authority has been committed, the Secretary may—
 
@@ -130,7 +130,7 @@ For purposes of this section, the term “eligible public entity” means any un
 
 &emsp;&emsp;(B) the right to enforce any such contract by any means deemed appropriate by the Secretary; and
 
-&emsp;&emsp;(C) any ownership rights of the Secretary, as applicable, in notes, certificates, or other obligations guaranteed under this section, or constituting the trust or pool against which trust certificates, or other obligations guaranteed under this section, are offered.
+&emsp;&emsp;(C) any ownership rights of the Secretary, as applicable, in notes, certificates, or other obligations guaranteed under this section, orconstituting the trust or pool against which trust certificates, or other obligations guaranteed under this section, are offered.
 
 (Pub. L. 93–383, title I, §108, Aug. 22, 1974, 88 Stat. 647; Pub. L. 95–128, title I, §108, Oct. 12, 1977, 91 Stat. 1123; Pub. L. 96–399, title I, §108, Oct. 8, 1980, 94 Stat. 1619; Pub. L. 97–35, title III, §309(i), Aug. 13, 1981, 95 Stat. 397; Pub. L. 98–181, title I, §108, Nov. 30, 1983, 97 Stat. 1168; Pub. L. 98–479, title II, §§203(<i>l</i>)(2), 204(k)(1), Oct. 17, 1984, 98 Stat. 2231, 2233; Pub. L. 99–272, title III, §3002(a), Apr. 7, 1986, 100 Stat. 102; Pub. L. 100–242, title V, §514, Feb. 5, 1988, 101 Stat. 1930; Pub. L. 101–625, title IX, §§901(b), 910(b)–(g), Nov. 28, 1990, 104 Stat. 4385, 4389–4391; Pub. L. 102–550, title VIII, §801(b), Oct. 28, 1992, 106 Stat. 3843; Pub. L. 103–233, title II, §§231, 232(a)(1), 233, Apr. 11, 1994, 108 Stat. 366, 368; Pub. L. 104–120, §3(b), Mar. 28, 1996, 110 Stat. 835.)
 
@@ -160,7 +160,7 @@ Subsec. (r). Pub. L. 103–233, §233, added subsec. (r).
 
 1992—Subsec. (a). Pub. L. 102–550 amended fifth sentence generally. Prior to amendment, fifth sentence read as follows: “Notwithstanding any other provision of law and subject only to the absence of qualified applicants or proposed activities and to the authority provided in this section, to the extent approved or provided in appropriation Acts, the Secretary shall enter into commitments to guarantee notes and obligations under this section with an aggregate principal amount of $300,000,000 during fiscal year 1991 and $300,000,000 during fiscal year 1992.”
 
-1990—Subsec. (a). Pub. L. 101–625, §910(e)(1), inserted at end “Of the amount approved in any appropriation Act for guarantees under this section in any fiscal year, the Secretary shall allocate 70 percent for guarantees for metropolitan cities, urban counties, and Indian tribes and 30 percent for guarantees for units of general local government in nonentitlement areas. TheSecretary may waive the percentage requirements of the preceding sentence in any fiscal year only to the extent that there is an absence of qualified applicants or proposed activities from metropolitan cities, urban counties, and Indian tribes or units of general local government in nonentitlement areas.”
+1990—Subsec. (a). Pub. L. 101–625, §910(e)(1), inserted at end “Of the amount approved in any appropriation Act for guarantees under this section in any fiscal year, the Secretary shall allocate 70 percent for guarantees for metropolitan cities, urban counties, and Indian tribes and 30 percent for guarantees for units of general local government in nonentitlement areas. The Secretary may waive the percentage requirements of the preceding sentence in any fiscal year only to the extent that there is an absence of qualified applicants or proposed activities from metropolitan cities, urban counties, and Indian tribes or units of general local government in nonentitlement areas.”
 
 Pub. L. 101–625, §910(c), inserted “The Secretary may not deny a guarantee under this section on the basis of the proposed repayment period for the note or other obligation, unless the period is more than 20 years or the Secretary determines that the period causes the guarantee to constitute an unacceptable financial risk.”
 

@@ -25,6 +25,7 @@ Part H—General Provisions
 - [&sect; 00289g - Fetal research](%C2%A7%2000289g%20-%20Fetal%20research.md)
 - [&sect; 00289g&#8211;1 - Research on transplantation of fetal tissue](%C2%A7%2000289g%E2%80%931%20-%20Research%20on%20transplantation%20of%20fetal%20tissue.md)
 - [&sect; 00289g&#8211;2 - Prohibitions regarding human fetal tissue](%C2%A7%2000289g%E2%80%932%20-%20Prohibitions%20regarding%20human%20fetal%20tissue.md)
+- [&sect; 00289g&#8211;3 - Breast implant research](%C2%A7%2000289g%E2%80%933%20-%20Breast%20implant%20research.md)
 - [&sect; 00289h - Repealed. Pub. L. 103&#8211;43, title I, &sect;121(b)(2), June 10, 1993, 107 Stat. 133](%C2%A7%2000289h%20-%20Repealed.%20Pub.%20L.%20103%E2%80%9343%2C%20title%20I%2C%20%C2%A7121%28b%29%282%29%2C%20June%2010%2C%201993%2C%20107%20Stat.%20133.md)
 - [&sect; 00290 - National Institutes of Health Management Fund; establishment; advancements; availability; final adjustments of advances](%C2%A7%2000290%20-%20National%20Institutes%20of%20Health%20Management%20Fund%3B%20establishment%3B%20advancements%3B%20availability%3B%20final%20adjustments%20of%20advances.md)
 - [&sect; 00290a - Victims of fire](%C2%A7%2000290a%20-%20Victims%20of%20fire.md)

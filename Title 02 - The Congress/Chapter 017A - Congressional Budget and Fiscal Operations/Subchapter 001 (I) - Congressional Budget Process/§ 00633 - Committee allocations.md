@@ -100,7 +100,7 @@ At any time after a committee reports the allocations required to be made under 
 
 &emsp;&emsp;(iii) the enactment of that bill or resolution in the form recommended in that conference report,
 
-> &emsp;would not increase the deficit, and, if the sum of any outlay reductions provided in legislation already enacted during the current session (when added to outlay reductions, if any, in excess of any revenue reduction provided bythe legislation proposed for consideration) is at least as great as the sum of the amount, if any, by which the aggregate level of Federal outlays should be reduced as required by that concurrent resolution and the amount, if any, by which outlays are to be reduced pursuant to pay-as-you-go procedures under section 632(b)(8) of this title, if included in that concurrent resolution.
+> &emsp;would not increase the deficit, and, if the sum of any outlay reductions provided in legislation already enacted during the current session (when added to outlay reductions, if any, in excess of any revenue reduction provided by the legislation proposed for consideration) is at least as great as the sum of the amount, if any, by which the aggregate level of Federal outlays should be reduced as required by that concurrent resolution and the amount, if any, by which outlays are to be reduced pursuant to pay-as-you-go procedures under section 632(b)(8) of this title, if included in that concurrent resolution.
 
 #### (2) Revised allocations
 
@@ -188,7 +188,7 @@ Amendment by section 13303(c) of Pub. L. 101–508 applicable with respect to fi
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (f), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginningafter Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (f), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
 
 #### Section Referred to in Other Sections
 

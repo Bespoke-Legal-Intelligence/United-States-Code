@@ -34,7 +34,7 @@ Any officer or employee who is subject to, and knowingly violates, this section,
 
 #### References in Text
 
-This Act, referred to in subsec. (a)(1), (2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known as the Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a)(1), (2), is Pub. L. 94–579, Oct. 21, 1976, 90 Stat. 2743, as amended, known asthe Federal Land Policy and Management Act of 1976. For complete classification of this Act to the Code, see Tables.
 
 #### Termination of Reporting Requirements
 

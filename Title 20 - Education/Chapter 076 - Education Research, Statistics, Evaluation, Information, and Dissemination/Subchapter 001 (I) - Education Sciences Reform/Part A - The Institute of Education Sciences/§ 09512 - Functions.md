@@ -1,0 +1,18 @@
+### §9512. Functions
+
+From funds appropriated under section 9584 of this title, the Institute, directly or through grants, contracts, or cooperative agreements, shall—
+
+&emsp;(1) conduct and support scientifically valid research activities, including basic research and applied research, statistics activities, scientifically valid education evaluation, development, and wide dissemination;
+
+&emsp;(2) widely disseminate the findings and results of scientifically valid research in education;
+
+&emsp;(3) promote the use, development, and application of knowledge gained from scientifically valid research activities;
+
+&emsp;(4) strengthen the national capacity to conduct, develop, and widely disseminate scientifically valid research in education;
+
+&emsp;(5) promote the coordination, development, and dissemination of scientifically valid research in education within the Department and the Federal Government; and
+
+&emsp;(6) promote the use and application of research and development to improve practice in the classroom.
+
+(Pub. L. 107–279, title I, §112, Nov. 5, 2002, 116 Stat. 1945.)
+

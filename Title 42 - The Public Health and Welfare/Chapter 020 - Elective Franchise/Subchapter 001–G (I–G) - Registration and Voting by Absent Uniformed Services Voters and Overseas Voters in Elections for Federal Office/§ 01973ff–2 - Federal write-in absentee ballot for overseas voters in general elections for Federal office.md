@@ -42,7 +42,7 @@ A State is not required to permit use of the Federal write-in absentee ballot, i
 
 &emsp;(1) a State absentee ballot is required to be available to any voter described in section 1973ff–6(5)(A) of this title at least 90 days before the general election involved; and
 
-&emsp;(2) a State absentee ballot is required to be available to any voter described in section 1973ff–6(5)(B) or (C) of this title, as soon as the official list of candidates in the general election is complete.
+&emsp;(2) a State absentee ballot is required to be available to any voter described in section1973ff–6(5)(B) or (C) of this title, as soon as the official list of candidates in the general election is complete.
 
 (Pub. L. 99–410, title I, §103, Aug. 28, 1986, 100 Stat. 925.)
 

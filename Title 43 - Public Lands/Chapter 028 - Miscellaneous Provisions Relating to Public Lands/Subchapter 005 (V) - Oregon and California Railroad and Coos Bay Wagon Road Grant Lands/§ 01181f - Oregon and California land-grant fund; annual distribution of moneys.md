@@ -16,7 +16,7 @@ From and after payment of the above accrued taxes said 25 per centum shall be ac
 
 Act of June 9, 1916, referred to in subsec. (a), is act June 9, 1916, ch. 137, 39 Stat. 218, which is not classified to the Code.
 
-Act of July 13, 1926 (44 Stat. 915), Forty-fourth Statutes, page 915, and said Act, referred to in subsec. (b), mean act July 13, 1926, ch. 897, 44 Stat. 915, which is not classified to the Code.
+Act of July 13, 1926 (44 Stat. 915), Forty-fourth Statutes, page 915, and said Act, referred to in subsec. (b),mean act July 13, 1926, ch. 897, 44 Stat. 915, which is not classified to the Code.
 
 #### Codification
 

@@ -28,7 +28,7 @@ The term “receiver” is used in sections 1121 and 1311 of title 12, U.S.C., 1
 
 The suggestion has been made that “private examiners” should be included. These undoubtedly are covered by the words “connected in any capacity with.” (See also section 655 of this title.)
 
-The term “or any department or agency of the United States” was inserted in each revised section in order to clarify the sweeping provisions against fraudulent acts and to obviate any possibility of ambiguity by reason of the omission of specific agencies named in the constituent sections. (See section 6 of this title defining “department and agency.” For other verbal changes and deletions see reviser's note under section 656 of this title.)
+The term “or any department or agency of the United States” was inserted in each revised section in order to clarify the sweeping provisions against fraudulent acts and to obviate any possibility of ambiguity by reason of the omission of specific agencies named in the constituent sections. (See section 6 of this title defining “department and agency.” For other verbal changesand deletions see reviser's note under section 656 of this title.)
 
 #### Senate Revision Amendment
 
@@ -92,5 +92,5 @@ Establishment of Farm Credit Administration as independent agency, and other cha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 225, 981, 982, 1510, 1956, 3056, 3059A, 3293, 3322 of this title; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b.
+This section is referred to in sections 225, 981, 982, 1510, 1956, 3056, 3293, 3322 of this title; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b.
 

@@ -8,21 +8,21 @@ Textile and apparel articles described in subsection (b) of this section that ar
 
 The preferential treatment described in subsection (a) of this section shall apply only to the following textile and apparel products:
 
-#### (1) Apparel articles assembled in beneficiary sub-Saharan African countries
+#### (1) Apparel articles assembled in one or more beneficiary sub-Saharan African countries
 
-&emsp;Apparel articles assembled in one or more beneficiary sub-Saharan African countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in the United States) that are—
+&emsp;Apparel articles sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries from fabrics wholly formed and cut, or from components knit-to-shape, in the United States from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in the United States) that are—
 
 &emsp;&emsp;(A) entered under subheading 9802.00.80 of the Harmonized Tariff Schedule of the United States; or
 
 &emsp;&emsp;(B) entered under chapter 61 or 62 of the Harmonized Tariff Schedule of the United States, if, after such assembly, the articles would have qualified for entry under subheading 9802.00.80 of the Harmonized Tariff Schedule of the United States but for the fact that the articles were embroidered or subjected to stone-washing, enzyme-washing, acid washing, perma-pressing, oven-baking, bleaching, garment-dyeing, screen printing, or other similar processes.
 
-#### (2) Apparel articles cut and assembled in beneficiary sub-Saharan African countries
+#### (2) Other apparel articles assembled in one or more beneficiary sub-Saharan African countries
 
-&emsp;Apparel articles cut in one or more beneficiary sub-Saharan African countries from fabric wholly formed in the United States from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in the United States) if such articles are assembled in one or more beneficiary sub-Saharan African countries with thread formed in the United States.
+&emsp;Apparel articles sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries with thread formed in the United States from fabrics wholly formed in the United States and cut in one or more beneficiary sub-Saharan African countries from yarns wholly formed in the United States, or from components knit-to-shape in the United States from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in the United States).
 
-#### (3) Apparel articles assembled from regional and other fabric
+#### (3) Apparel articles from regional fabric or yarns
 
-&emsp;Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarn originating either in the United States or one or more beneficiary sub-Saharan African countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in one or more beneficiary sub-Saharan African countries), subject to the following:
+&emsp;Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarns originating either in the United States or one or more beneficiary sub-Saharan African countries (including fabrics not formed from yarns, if such fabrics are classified under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in one or more beneficiary sub-Saharan African countries), or from components knit-to-shape in one or more beneficiary sub-Saharan African countries from yarns originating either in the United States or one or more beneficiary sub-Saharan African countries, or apparel articles wholly formed on seamless knitting machines in a beneficiary sub-Saharan African country from yarns originating either in the United States or one or more beneficiary sub-Saharan African countries, subject to the following:
 
 #### (A) Limitations on benefits
 
@@ -38,21 +38,27 @@ The preferential treatment described in subsection (a) of this section shall app
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to subparagraph (A), preferential treatment shall be extended through September 30, 2004, for apparel articles wholly assembled in one or more lesser developed beneficiary sub-Saharan African countries regardless of the country of origin of the fabric used to make such articles.
+&emsp;&emsp;&emsp;Subject to subparagraph (A), preferential treatment under this paragraph shall be extended through September 30, 2004, for apparel articles wholly assembled, or knit-to-shape and wholly assembled, or both, in one or more lesser developed beneficiary sub-Saharan African countries regardless of the country of origin of the fabric or the yarn used to make such articles.
 
 #### (ii) Lesser developed beneficiary sub-Saharan African country
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph the term “lesser developed beneficiary sub-Saharan African country” means a beneficiary sub-Saharan African country that had a per capita gross national product of less than $1,500 a year in 1998, as measured by the World Bank.
+&emsp;&emsp;&emsp;For purposes of clause (i), the term “lesser developed beneficiary sub-Saharan African country” means—
+
+&emsp;&emsp;&emsp;&emsp;(I) a beneficiary sub-Saharan African country that had a per capita gross national product of less than $1,500 in 1998, as measured by the International Bank for Reconstruction and Development;
+
+&emsp;&emsp;&emsp;&emsp;(II) Botswana; and
+
+&emsp;&emsp;&emsp;&emsp;(III) Namibia.
 
 #### (C) Surge mechanism
 
 #### (i) Import monitoring
 
-&emsp;&emsp;&emsp;The Secretary of Commerce shall monitor imports of articles described in this paragraph on a monthly basis to determine if there has been a surge in imports of such articles. In order to permit public access to preliminary international trade data and to facilitate the early identification of potentially disruptive import surges, the Director of the Office of Management and Budget may grant an exception to the publication dates established for the release of data on United States international trade in covered articles, if the Director notifies Congress of the early release of the data.
+&emsp;&emsp;&emsp;The Secretary of Commerce shall monitor imports of articles described in this paragraph on a monthly basis to determine if there has been a surge in imports of such articles. In order to permit public access to preliminary international trade dataand to facilitate the early identification of potentially disruptive import surges, the Director of the Office of Management and Budget may grant an exception to the publication dates established for the release of data on United States international trade in covered articles, if the Director notifies Congress of the early release of the data.
 
 #### (ii) Determination of damage or threat thereof
 
-&emsp;&emsp;&emsp;Whenever the Secretary of Commerce determines, based on the data described in clause (i), or pursuant to a written request made by an interested party, that there has been a surge in imports of an article described in this paragraph from a beneficiary sub-Saharan African country, theSecretary shall determine whether such article from such country is being imported in such increased quantities as to cause serious damage, or threat thereof, to the domestic industry producing a like or directly competitive article. If the Secretary's determination is affirmative, the President shall suspend the duty-free treatment provided for such article under this paragraph. If the inquiry is initiated at the request of an interested party, the Secretary shall make the determination within 60 days after the date of the request.
+&emsp;&emsp;&emsp;Whenever the Secretary of Commerce determines, based on the data described in clause (i), or pursuant to a written request made by an interested party, that there has been a surge in imports of an article described in this paragraph from a beneficiary sub-Saharan African country, the Secretary shall determine whether such article from such country is being imported in such increased quantities as to cause serious damage, or threat thereof, to the domestic industry producing a like or directly competitive article. If the Secretary's determination is affirmative, the President shall suspend the duty-free treatment provided for such article under this paragraph. If the inquiry is initiated at the request of an interested party, the Secretary shall make the determination within 60 days after the date of the request.
 
 #### (iii) Factors to consider
 
@@ -88,7 +94,7 @@ The preferential treatment described in subsection (a) of this section shall app
 
 #### (B) Merino wool
 
-&emsp;&emsp;Sweaters, 50 percent or more by weight of wool measuring 18.5 microns in diameter or finer, knit-to-shape in one or more beneficiary sub-Saharan African countries.
+&emsp;&emsp;Sweaters, 50 percent or more by weight of wool measuring 21.5 microns in diameter or finer, knit-to-shape in one or more beneficiary sub-Saharan African countries.
 
 #### (5) Apparel articles wholly assembled from fabric or yarn not available in commercial quantities in the United States
 
@@ -117,6 +123,10 @@ The preferential treatment described in subsection (a) of this section shall app
 #### (6) Handloomed, handmade, and folklore articles
 
 &emsp;A handloomed, handmade, or folklore article of a beneficiary sub-Saharan African country or countries that is certified as such by the competent authority of such beneficiary country or countries. For purposes of this paragraph, the President, after consultation with the beneficiary sub-Saharan African country or countries concerned, shall determine which, if any, particular textile and apparel goods of the country (or countries) shall be treated as being handloomed, handmade, or folklore articles.
+
+#### (7) Apparel articles assembled in one or more beneficiary sub-Saharan African countries from United States and beneficiary sub-Saharan African country components
+
+&emsp;Apparel articles sewn or otherwise assembled in one or more beneficiary sub-Saharan African countries with thread formed in the United States from components cut in the United States and one or more beneficiary sub-Saharan African countries from fabric wholly formed in the United States from yarns wholly formed in the United States, or from components knit-to-shape in the United States and one or more beneficiary sub-Saharan African countries from yarns wholly formed in the United States, or both (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States).
 
 #### (c) Treatment of quotas on textile and apparel imports from Kenya and Mauritius
 
@@ -164,7 +174,7 @@ In this section and section 3722 of this title:
 
 #### (1) Agreement on textiles and clothing
 
-&emsp;The term “Agreement on Textiles and Clothing” means the Agreement on Textiles and Clothing referred to in section 3511(d)(4) of this title.
+&emsp;The term “Agreement on Textiles and Clothing” means the Agreement on Textiles andClothing referred to in section 3511(d)(4) of this title.
 
 #### (2) Beneficiary sub-Saharan African country, etc.
 
@@ -178,15 +188,51 @@ In this section and section 3722 of this title:
 
 This section takes effect on October 1, 2000, and shall remain in effect through September 30, 2008.
 
-(Pub. L. 106–200, title I, §112, May 18, 2000, 114 Stat. 258.)
+(Pub. L. 106–200, title I, §112, May 18, 2000, 114 Stat. 258; Pub. L. 107–210, div. C, title XXXI, §3108(a), Aug. 6, 2002, 116 Stat. 1038.)
 
 #### References in Text
 
 The Harmonized Tariff Schedule of the United States, referred to in subsec. (b)(1) to (4), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of this title.
 
+#### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–210, §3108(a)(1), substituted “Apparel articles assembled in one or more beneficiary sub-Saharan African countries” for “Apparel articles assembled in beneficiary sub-Saharan African countries” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles assembled in one or more beneficiary sub-Saharan African countries from fabrics wholly formed and cut in the United States, from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in the United States) that are—”.
+
+Subsec. (b)(2). Pub. L. 107–210, §3108(a)(2), substituted “Other apparel articles assembled in one or more beneficiary sub-Saharan African countries” for “Apparel articles cut and assembled in beneficiary sub-Saharan African countries” in heading and amended text generally. Prior to amendment, text read as follows: “Apparel articles cut in one or more beneficiary sub-Saharan African countries from fabric wholly formed in the United States from yarns wholly formed in the United States, (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed in the United States) if such articles are assembled in one or more beneficiary sub-Saharan African countries with thread formed in the United States.”
+
+Subsec. (b)(3). Pub. L. 107–210, §3108(a)(3)(A), substituted “Apparel articles from regional fabric or yarns” for “Apparel articles assembled from regional and other fabric” in heading and amended introductory provisions generally. Prior to amendment, introductory provisions read as follows: “Apparel articles wholly assembled in one or more beneficiary sub-Saharan African countries from fabric wholly formed in one or more beneficiary sub-Saharan African countries from yarn originating either in the United States or one or more beneficiary sub-Saharan African countries (including fabrics not formed from yarns, if such fabrics are classifiable under heading 5602 or 5603 of the Harmonized Tariff Schedule of the United States and are wholly formed and cut in one or more beneficiary sub-Saharan African countries), subject to the following:”.
+
+Subsec. (b)(3)(B). Pub. L. 107–210, §3108(a)(3)(B), amended heading and text generally. Prior to amendment, text read as follows:
+
+“(i)
+
+In general.—Subject to subparagraph (A), preferential treatment shall be extended through September 30, 2004, for apparel articles wholly assembled in one or more lesser developed beneficiary sub-Saharan African countries regardless of the country of origin of the fabric used to make such articles.
+
+“(ii)
+
+Lesser developed beneficiary sub-saharan african country.—For purposes of this subparagraph the term ‘lesser developed beneficiary sub-Saharan African country’ means a beneficiary sub-Saharan African country that had a per capita gross national product of less than $1,500 a year in 1998, as measured by the World Bank.”
+
+Subsec. (b)(4)(B). Pub. L. 107–210, §3108(a)(4), substituted “21.5 microns” for “18.5 microns”.
+
+Subsec. (b)(7). Pub. L. 107–210, §3108(a)(5), added par. (7).
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Delegation of Authority
 
 For delegation of certain authority of the President under this section to the Committee for the Implementation of Textile Agreements and the United States Trade Representative, see Ex. Ord. No. 13191, §§1–3, Jan. 17, 2001, 66 F.R. 7271, set out as a note under section 2703 of this title.
+
+#### Increase in Limitation on Certain Benefits
+
+Pub. L. 107–210, div. C, title XXXI, §3108(b), Aug. 6, 2002, 116 Stat. 1039, provided that: “The applicable percentage under clause (ii) of section 112(b)(3)(A) of the African Growth and Opportunity Act (19 U.S.C. 3721(b)(3)(A)) shall be increased—
+
+&emsp;“(1) by 2.17 percent for the 1-year period beginning on October 1, 2002, and
+
+&emsp;“(2) by equal increments in each succeeding 1-year period provided for in such clause, so that for the 1-year period beginning October 1, 2007, the applicable percentage is increased by 3.5 percent,
+
+> except that such increase shall not apply with respect to articles eligible under subparagraph (B) of section 112(b)(3) of that Act.”
 
 #### Proc. No. 7350. To Implement the African Growth and Opportunity Act and To Designate Eritrea as a Beneficiary Developing Country for Purposes of the Generalized System of Preferences
 

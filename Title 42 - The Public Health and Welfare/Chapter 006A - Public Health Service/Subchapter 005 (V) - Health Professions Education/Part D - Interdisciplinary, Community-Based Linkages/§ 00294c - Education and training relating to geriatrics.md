@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall award grants or contracts under this section to entities described in paragraphs <sup>1</sup> (1), (3), or (4) of section 295p of this title, and section 298b(2) <sup>2</sup> of this title, for the establishment or operation of geriatric education centers.
+&emsp;The Secretary shall award grants or contracts under this section to entities described in paragraphs <sup>1</sup> (1), (3), or (4) of section 295p of this title, and section 296(2) of this title, for the establishment or operation of geriatric education centers.
 
 #### (2) Requirements
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(A) has submitted to the Secretary an application, at such time, in such manner, and containing such information as the Secretary may require, and the Secretary has approved such application; and
 
-&emsp;&emsp;(B) provides, in such form and manner as the Secretary may require, assurances that the individual will meet the service requirement described in subsection (e) <sup>3</sup>.
+&emsp;&emsp;(B) provides, in such form and manner as the Secretary may require, assurances that the individual will meet the service requirement described in subsection (e) <sup>2</sup>.
 
 #### (4) Amount and term
 
@@ -116,11 +116,7 @@
 
 &emsp;An individual who receives an Award under this subsection shall provide training in clinical geriatrics, including the training of interdisciplinary teams of health care professionals. The provision of such training shall constitute at least 75 percent of the obligations of such individual under the Award.
 
-(July 1, 1944, ch. 373, title VII, §753, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3544.)
-
-#### References in Text
-
-Section 298b(2) of this title, referred to in subsec. (a)(1), was repealed by Pub. L. 105–392, title I, §123(1), Nov. 13, 1998, 112 Stat. 3562. See section 296(2) of this title.
+(July 1, 1944, ch. 373, title VII, §753, as added Pub. L. 105–392, title I, §103, Nov. 13, 1998, 112 Stat. 3544; amended Pub. L. 107–205, title II, §202(b), Aug. 1, 2002, 116 Stat. 817.)
 
 #### Prior Provisions
 
@@ -130,13 +126,15 @@ Another prior section 294c, act July 1, 1944, ch. 373, title VII, §730, as adde
 
 Another prior section 294c, act July 1, 1944, ch. 373, title VII, §743, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 172; amended Oct. 22, 1965, Pub. L. 89–290, §4(d), 79 Stat. 1057; Nov. 3, 1966, Pub. L. 89–751, §5(c)(2), (3), 80 Stat. 1233; Aug. 16, 1968, Pub. L. 90–490, title I, §121(c), 82 Stat. 778; July 9, 1971, Pub. L. 92–52, §1(b), 85 Stat. 144; Nov. 18, 1971, Pub. L. 92–157, title I, §105(e)(2), (f)(2), 85 Stat. 451; Oct. 12, 1976, Pub. L. 94–484, title IV, §§405, 406(e), 90 Stat. 2267, 2268, which related to the distribution of assets from loan funds, was transferred to section 294p of this title.
 
+#### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–205 substituted “, and section 296(2) of this title,” for “, and section 298b(2) of this title,”.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 294f, 294g of this title.
+This section is referred to in sections 294f, 294g, 298 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “paragraph (5)”.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “paragraph (5)”.</i>
 

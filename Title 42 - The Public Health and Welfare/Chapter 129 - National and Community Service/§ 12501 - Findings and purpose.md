@@ -30,7 +30,7 @@ It is the purpose of this chapter to—
 
 &emsp;(5) reinvent government to eliminate duplication, support locally established initiatives, require measurable goals for performance, and offer flexibility in meeting those goals;
 
-&emsp;(6) expand and strengthen existing service programs with demonstrated experience in providing structured service opportunitieswith visible benefits to the participants and community;
+&emsp;(6) expand and strengthen existing service programs with demonstrated experience in providing structured service opportunities with visible benefits to the participants and community;
 
 &emsp;(7) build on the existing organizational service infrastructure of Federal, State, and local programs and agencies to expand full-time and part-time service opportunities for all citizens; and
 
@@ -100,11 +100,11 @@ Section 503 of Pub. L. 103–82 provided that: “If it has been finally determi
 
 #### Ex. Ord. No. 13254. Establishing the USA Freedom Corps
 
-Ex. Ord. No. 13254, Jan. 29, 2002, 67 F.R. 4869, provided:
+Ex. Ord. No. 13254, Jan. 29, 2002, 67 F.R. 4869, as amended by Ex. Ord. No. 13286, §6, Feb. 28, 2003, 68 F.R. 10620, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-Section 1. <i>Policy</i>. Building on our Nation's rich tradition of citizen service, this Administration's policy is to foster a culture of responsibility, service, and citizenship by promoting, expanding, and enhancing public service opportunities for all Americans and by making these opportunities readily available to citizens from all geographic areas, professions, and walks of life.More specifically, this Administration encourages all Americans to serve their country for the equivalent of at least 2 years (4,000 hours) over their lifetimes. Toward those ends, the executive departments, agencies, and offices constituting the USA Freedom Corps shall coordinate and strengthen Federal and other service opportunities, including opportunities for participation in homeland security preparedness and response, other areas of public and social service, and international service. The executive branch departments, agencies, and offices also will work with State and local governments and private entities to foster and encourage participation in public and social service programs, as appropriate.
+Section 1. <i>Policy</i>. Building on our Nation's rich tradition of citizen service, this Administration's policy is to foster a culture of responsibility, service, and citizenship by promoting, expanding, and enhancing public service opportunities for all Americans and by making these opportunities readily available to citizens from all geographic areas, professions, and walks of life. More specifically, this Administration encourages all Americans to serve their country for the equivalent of at least 2 years (4,000 hours) over their lifetimes. Toward those ends, the executive departments, agencies, and offices constituting the USA Freedom Corps shall coordinate and strengthen Federal and other service opportunities, including opportunities for participation in homeland security preparedness and response, other areas of public and social service, and international service. The executive branch departments, agencies, and offices also will work with State and local governments and private entities to foster and encourage participation in public and social service programs, as appropriate.
 
 Sec. 2. <i>USA Freedom Corps</i>. The USA Freedom Corps shall be an interagency initiative, bringing together executive branch departments, agencies, and offices with public service programs and components, including but not limited to programs and components with the following functions:
 
@@ -148,7 +148,7 @@ Sec. 3. <i>USA Freedom Corps Council</i>. (a) <i>Establishment and Mission</i>. 
 
 &emsp;(vii) Secretary of Veterans Affairs;
 
-&emsp;(viii) Director of the Federal Emergency Management Agency;
+&emsp;(viii) Secretary of Homeland Security;
 
 &emsp;(ix) Chief Executive Officer of the Corporation for National and Community Service;
 

@@ -2,7 +2,7 @@
 
 #### (a) Purchase of private settlement lands
 
-The Secretary is authorized and directed to expend, at the request of the Wampanoag Tribal Council of Gay Head, Inc., $2,125,000 to acquire the private settlement lands. At the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall not purchase lots 705, 222, and 528 of the private settlement lands, but, at the request of the Wampanoag Tribal Councilof Gay Head, Inc., the Secretary shall acquire in lieu thereof such other lands that are contiguous to the remaining private settlement lands. Upon the purchase of such contiguous lands, those lands shall be subject to the same restrictions and benefits as the private settlement lands.
+The Secretary is authorized and directed to expend, at the request of the Wampanoag Tribal Council of Gay Head, Inc., $2,125,000 to acquire the private settlement lands. At the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall not purchase lots 705, 222, and 528 of the private settlement lands, but, at the request of the Wampanoag Tribal Council of Gay Head, Inc., the Secretary shall acquire in lieu thereof such other lands that are contiguous to the remaining private settlement lands. Upon the purchase of such contiguous lands, those lands shall be subject to the same restrictions and benefits as the private settlement lands.
 
 #### (b) Payment for survey and appraisal
 
@@ -30,7 +30,7 @@ The Secretary is authorized to accept and hold in trust for the benefit of the W
 
 #### (g) Application
 
-The terms of this section shall apply to land in the town of Gay Head. Any land acquired by the Wampanoag Tribal Council of Gay Head, Inc., that is located outside the town of Gay Head shall be subject to all the civil and criminal laws, ordinances, and jurisdiction of the Commonwealth of Massachusetts.
+The terms of this section shall apply to land in the town of Gay Head. Any land acquired bythe Wampanoag Tribal Council of Gay Head, Inc., that is located outside the town of Gay Head shall be subject to all the civil and criminal laws, ordinances, and jurisdiction of the Commonwealth of Massachusetts.
 
 #### (h) Spending authority
 

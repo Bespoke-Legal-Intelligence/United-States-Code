@@ -14,7 +14,7 @@
 
 #### (C) Three-year rule
 
-&emsp;&emsp;If, after receiving the advice of the International Trade Commission under subsection (e) of this section, an article has been formally considered for designation as an eligible article under this subchapter and denied such designation, such article may not be reconsidered for such designation for a period of 3 years after such denial.
+&emsp;&emsp;If, after receiving the advice of the International Trade Commission under subsection (e) of this section, an article has been formally considered for designation as an eligible article under this subchapter anddenied such designation, such article may not be reconsidered for such designation for a period of 3 years after such denial.
 
 #### (2) Rule of origin
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(F) Import-sensitive semimanufactured and manufactured glass products.
 
-&emsp;&emsp;(G) Any other articles which the President determines to be import-sensitive in thecontext of the Generalized System of Preferences.
+&emsp;&emsp;(G) Any other articles which the President determines to be import-sensitive in the context of the Generalized System of Preferences.
 
 #### (2) Articles against which other actions taken
 
@@ -174,7 +174,7 @@
 
 #### (B) Other waiver limits
 
-&emsp;&emsp;The President may not exercise the waiver authority provided under this subsection with respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which exceeds 15 percent of the aggregate appraised value of all articles that have entered duty-free under this subchapter during the preceding calendar year from those beneficiary developing countries which for the preceding calendar year—
+&emsp;&emsp;The President may not exercise the waiver authority provided under this subsectionwith respect to a quantity of an eligible article entered during any calendar year beginning after 1995, the aggregate appraised value of which exceeds 15 percent of the aggregate appraised value of all articles that have entered duty-free under this subchapter during the preceding calendar year from those beneficiary developing countries which for the preceding calendar year—
 
 &emsp;&emsp;&emsp;(i) had a per capita gross national product (calculated on the basis of the best available information, including that of the International Bank for Reconstruction and Development) of $5,000 or more; or
 
@@ -214,5 +214,5 @@ A prior section 2463, Pub. L. 93–618, title V, §503, Jan. 3, 1975, 88 Stat. 2
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2466a, 3011 of this title; title 7 section 7236.
+This section is referred to in sections 2466a, 3011 of this title; title 7 sections 7236, 7937.
 

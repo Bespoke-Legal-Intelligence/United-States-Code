@@ -24,7 +24,7 @@ In regulating the railroad industry, it is the policy of the United States Gover
 
 &emsp;(11) to encourage fair wages and safe and suitable working conditions in the railroad industry;
 
-&emsp;(12) to prohibit predatory pricing and practices, to avoid undue concentrations of marketpower, and to prohibit unlawful discrimination;
+&emsp;(12) to prohibit predatory pricing and practices, to avoid undue concentrations of market power, and to prohibit unlawful discrimination;
 
 &emsp;(13) to ensure the availability of accurate cost information in regulatory proceedings, while minimizing the burden on rail carriers of developing and maintaining the capability of providing such information;
 
@@ -45,6 +45,10 @@ Section 10101a, added Pub. L. 96–448, title I, §101(a), Oct. 14, 1980, 94 Sta
 #### Effective Date
 
 Chapter effective Jan. 1, 1996, except as otherwise provided in Pub. L. 104–88, see section 2 of Pub. L. 104–88, set out as a note under section 701 of this title.
+
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–298, §1, Nov. 26, 2002, 116 Stat. 2342, provided that: “This Act \[amending sections 13102, 13506, 14501, and 31138 of this title\] may be cited as the ‘Real Interstate Driver Equity Act of 2002’.”
 
 #### Short Title of 1986 Amendment
 

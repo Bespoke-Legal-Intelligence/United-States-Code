@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, if the Secretary—
 
 &emsp;(2) issues a license under section 262 of title 42
 
-> for a drug designated under section 360bb of this title for a rare disease or condition, the Secretary may not approve another application under section 355 of this title or issue another license under section 262 of title 42 for such drug for such disease or condition for a person who is not the holder of such approved application, of such certification, or of such license until the expiration of seven years from the date of the approval of the approved application, the issuance of the certification, or the issuance of the license. Section 355(c)(2) of this title does not apply to the refusal to approve an application under the preceding sentence.
+> for a drug designated under section 360bb of this title for a rare disease or condition, the Secretary may not approve another application under section 355 of this title or issue another license under section 262 of title 42 for such drug for such disease or condition for a person who is not the holder of such approved application or of such license until the expiration of seven years from the date of the approval of the approved application or the issuance of the license. Section 355(c)(2) of this title does not apply to the refusal to approve an application under the preceding sentence.
 
 #### (b) Exceptions
 
@@ -18,9 +18,11 @@ If an application filed pursuant to section 355 of this title is approved for a 
 
 &emsp;(2) such holder provides the Secretary in writing the consent of such holder for the approval of other applications or the issuance of other licenses before the expiration of such seven-year period.
 
-(June 25, 1938, ch. 675, §527, as added Pub. L. 97–414, §2(a), Jan. 4, 1983, 96 Stat. 2050; amended Pub. L. 98–417, title I, §102(b)(6), Sept. 24, 1984, 98 Stat. 1593; Pub. L. 99–91, §§2, 3(a)(3), Aug. 15, 1985, 99 Stat. 387, 388; Pub. L. 103–80, §3(v), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(J), (K), Nov. 21, 1997, 111 Stat. 2326.)
+(June 25, 1938, ch. 675, §527, as added Pub. L. 97–414, §2(a), Jan. 4, 1983, 96 Stat. 2050; amended Pub. L. 98–417, title I, §102(b)(6), Sept. 24, 1984, 98 Stat. 1593; Pub. L. 99–91, §§2, 3(a)(3), Aug. 15, 1985, 99 Stat. 387, 388; Pub. L. 103–80, §3(v), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title I, §125(b)(2)(J), (K), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 107–281, §4, Nov. 6, 2002, 116 Stat. 1993.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–281, in concluding provisions, struck out “, of such certification,” after “such approved application” and “, the issuance of the certification,” after “approval of the approved application”.
 
 1997—Subsec. (a). Pub. L. 105–115, §125(b)(2)(J), struck out “, issue another certification under section 357 of this title,” before “or issue another license” in closing provisions, inserted “or” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2) which read as follows: “issues a certification under section 357 of this title, or”.
 

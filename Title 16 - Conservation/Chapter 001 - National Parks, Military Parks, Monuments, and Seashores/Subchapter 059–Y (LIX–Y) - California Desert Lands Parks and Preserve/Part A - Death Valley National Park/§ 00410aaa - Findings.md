@@ -20,7 +20,7 @@ The Wilderness Act, referred to in par. (5), is Pub. L. 88–577, Sept. 3, 1964,
 
 #### Short Title
 
-Section 1 of Pub. L. 103–433 provided that: “Sections 1 and 2, and titles I through IX of this Act \[enacting this subchapter, provisions listed in a table of Wilderness Areas set out under section 1132 of this title, and provisions set out as notes under this section, section 410aaa–82 of this title, and section 1781 of Title 43, Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title and a table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘California Desert Protection Act of 1994’.”
+Section 1 of Pub. L. 103–433 provided that: “Sections 1 and 2, and titles I through IX of this Act \[enacting this subchapter, provisions listed in a table of Wilderness Areas set out under section 1132 of this title, and provisions set out as notes under this section, section 410aaa–82 of this title, and section 1781 of Title 43, Public Lands, and amending provisions listed in a table of National Monuments Established Under Presidential Proclamation set out under section 431 of this title anda table of Wilderness Areas set out under section 1132 of this title\] may be cited as the ‘California Desert Protection Act of 1994’.”
 
 #### Timbisha Shoshone Homeland
 
@@ -66,7 +66,7 @@ Pub. L. 106–423, Nov. 1, 2000, 114 Stat. 1875, provided that:
 
 &emsp;“(6) to provide appropriate opportunities for economically viable and ecologically sustainable visitor-related development, by the Tribe within the Park, that is not in derogation of the purposes and values for which the Park was established; and
 
-&emsp;“(7) to provide trust lands for the Tribe in 4 separate parcels of land that is now managed by the Bureau of Land Management and authorize the purchaseof 2 parcels now held in private ownership to be taken into trust for the Tribe.
+&emsp;“(7) to provide trust lands for the Tribe in 4 separate parcels of land that is now managed by the Bureau of Land Management and authorize the purchase of 2 parcels now held in private ownership to be taken into trust for the Tribe.
 
 #### “SEC. 4. DEFINITIONS.
 
@@ -112,7 +112,7 @@ In general.—The following lands and water shall be held in trust for the Tribe
 
 &emsp;&emsp;“(C)(i) Centennial, California, an area of approximately 640 acres, as generally depicted on the map entitled ‘Centennial, California’, numbered Map \#3 and dated April 12, 2000, together with an amount of ground water not to exceed 10 acre feet per annum for the purposes associated with the transfer of such lands.
 
-&emsp;&emsp;“(ii) If the Secretary determines that there is insufficient ground water available on the lands described in clause (i) to satisfy the Tribe's right to ground water to fulfill the purposes associated with the transfer of such lands, then the Tribe and the Secretary shall, within 2 years of such determination, identify approximately 640 acres of land that are administered by the Bureau of Land Management in that portion of Inyo County, California, to the north and east of the China Lake Naval Weapons Center, to be a mutually agreed upon substitute for the lands described in clause (i). If the Secretary determines that sufficient water is available to fulfill the purposes associated with the transfer of the lands described in the preceding sentence, then the Tribe shall request that the Secretary accept such lands into trust for the benefit of the Timbisha Shoshone Tribe, and the Secretary shall accept such lands, together with an amount of water not to exceed 10 acre feet per annum, into trust for the Tribe as a substitute for the lands described in clause (i).
+&emsp;&emsp;“(ii) If the Secretary determines that there is insufficient ground water available on the lands described in clause (i) to satisfy the Tribe's right to ground water to fulfill the purposes associated with the transfer of such lands, then the Tribe and the Secretary shall, within 2 years of such determination, identify approximately 640 acres of land that are administered by the Bureau of Land Management in that portion of Inyo County, California, to the north and east of the China Lake Naval Weapons Center, to be a mutually agreed upon substitute for the lands described in clause (i). If the Secretary determines that sufficient water is available to fulfill the purposes associated with the transfer of the lands described in the preceding sentence, then theTribe shall request that the Secretary accept such lands into trust for the benefit of the Timbisha Shoshone Tribe, and the Secretary shall accept such lands, together with an amount of water not to exceed 10 acre feet per annum, into trust for the Tribe as a substitute for the lands described in clause (i).
 
 &emsp;&emsp;“(D) Scotty's Junction, Nevada, an area of approximately 2,800 acres, as generally depicted on the map entitled ‘Scotty's Junction, Nevada’, numbered Map \#4 and dated April 12, 2000, together with 375.5 acre feet per annum of ground water for the purposes associated with the transfer of such lands.
 
@@ -240,7 +240,7 @@ Standards.—The National Park Service and the Tribe shall develop mutually agre
 
 “(c)
 
-Water Monitoring.—The Secretary and the Tribe shall develop mutually agreed upon standards fora water monitoring system to assess the effects of water use at Scotty's Junction and at Death Valley Junction on the tribal trust lands described in subparagraphs (A), (B), and (D) of section 5(b)(1), and on the Park. Water monitoring shall be conducted in a manner that is consistent with such standards, which shall be reviewed periodically and revised as necessary.
+Water Monitoring.—The Secretary and the Tribe shall develop mutually agreed upon standards for a water monitoring system to assess the effects of water use at Scotty's Junction and at Death Valley Junction on the tribal trust lands described in subparagraphs (A), (B), and (D) of section 5(b)(1), and on the Park. Water monitoring shall be conducted in a manner that is consistent with such standards, which shall be reviewed periodically and revised as necessary.
 
 #### “SEC. 7. MISCELLANEOUS PROVISIONS.
 

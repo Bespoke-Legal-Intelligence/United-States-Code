@@ -16,5 +16,5 @@ The second paragraph was based on H. Res. No. 279, Ninety-eighth Congress, July 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 40 section 184a.
+This section is referred to in section 2161 of this title.
 

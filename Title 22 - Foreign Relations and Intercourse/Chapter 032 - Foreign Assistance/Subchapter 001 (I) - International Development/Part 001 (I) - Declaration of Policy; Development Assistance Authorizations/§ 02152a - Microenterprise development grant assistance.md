@@ -74,7 +74,7 @@ Congress finds and declares that—
 
 #### (c) Monitoring system
 
-In order to maximize the sustainable development impact of the assistance authorized under subsection (b)(1) of this section, the Administrator of the agency primarily responsible for administering subchapter I of this chapter shall establish a monitoring system that—
+In order to maximize the sustainable development impact of the assistance authorized undersubsection (b)(1) of this section, the Administrator of the agency primarily responsible for administering subchapter I of this chapter shall establish a monitoring system that—
 
 &emsp;(1) establishes performance goals for such assistance and expresses such goals in an objective and quantifiable form, to the extent feasible;
 

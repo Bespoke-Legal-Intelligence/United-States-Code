@@ -50,7 +50,7 @@ Sense of Congress.—It is the sense of the Congress that—
 
 &emsp;&emsp;“(C) to eliminate any requirement of prisoner consent to such a transfer, and
 
-&emsp;&emsp;“(D) to allow the Federal Government or the States to keep their original prison sentences inforce so that transferred prisoners who return to the United States prior to the completion of their original United States sentences can be returned to custody for the balance of their prisons \[sic\] sentences;
+&emsp;&emsp;“(D) to allow the Federal Government or the States to keep their original prison sentences in force so that transferred prisoners who return to the United States prior to the completion of their original United States sentences can be returned to custody for the balance of their prisons \[sic\] sentences;
 
 &emsp;“(2) the Secretary of State should give priority to concluding an agreement with any country for which the President determines that the number of aliens described in subsection (a) who are nationals of that country in the United States represents a significant percentage of all such aliens in the United States; and
 
@@ -79,6 +79,8 @@ Training Foreign Law Enforcement Personnel.—(1) Subject to paragraph (2), the 
 “(f)
 
 Authorization of Appropriations.—There are authorized to be appropriated such sums as may be necessary to carry out this section.”
+
+\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Section Referred to in Other Sections
 

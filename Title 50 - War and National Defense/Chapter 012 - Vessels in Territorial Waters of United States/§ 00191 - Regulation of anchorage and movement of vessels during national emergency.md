@@ -1,6 +1,6 @@
 ### §191. Regulation of anchorage and movement of vessels during national emergency
 
-Whenever the President by proclamation or Executive order declares a national emergency to exist by reason of actual or threatened war, insurrection, or invasion, or disturbance or threatened disturbance of the international relations of the United States, or whenever the Attorney General determines that an actual or anticipated mass migration of aliens en route to, or arriving off the coast of, the United States presents urgent circumstances requiring an immediate Federal response, the Secretary of Transportation may make, subject to the approval of the President, rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, may inspect such vessel at any time, place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of the rights and obligations of the United States, may take, by and with the consent of the President, for such purposes, full possession and control of such vessel and remove therefrom the officers and crew thereof and all other persons not specially authorized by him to go or remain on board thereof.
+Whenever the President by proclamation or Executive order declares a national emergencyto exist by reason of actual or threatened war, insurrection, or invasion, or disturbance or threatened disturbance of the international relations of the United States, or whenever the Attorney General determines that an actual or anticipated mass migration of aliens en route to, or arriving off the coast of, the United States presents urgent circumstances requiring an immediate Federal response, the Secretary of Transportation may make, subject to the approval of the President, rules and regulations governing the anchorage and movement of any vessel, foreign or domestic, in the territorial waters of the United States, may inspect such vessel at any time, place guards thereon, and, if necessary in his opinion in order to secure such vessels from damage or injury, or to prevent damage or injury to any harbor or waters of the United States, or to secure the observance of the rights and obligations of the United States, may take, by and with the consent of the President, for such purposes, full possession and control of such vessel and remove therefrom the officers and crew thereof and all other persons not specially authorized by him to go or remain on board thereof.
 
 Whenever the President finds that the security of the United States is endangered by reason of actual or threatened war, or invasion, or insurrection, or subversive activity, or of disturbances or threatened disturbances of the international relations of the United States, the President is authorized to institute such measures and issue such rules and regulations—
 
@@ -14,7 +14,7 @@ Whenever the President finds that the security of the United States is endangere
 
 #### References in Text
 
-This title, referred to in text, means title II of act June 15, 1917, ch. 30, 40 Stat. 220, as amended, which enacted sections 191 and 192 to 194 of this title. For complete classification of this Act to the Code, see Tables.
+This title, referred to in text, means title II of act June 15, 1917, ch. 30, 40 Stat. 220, as amended, which enacted sections 191 and 192 to 194 of this title. For complete classification of title II to the Code, see Tables.
 
 #### Amendments
 
@@ -56,11 +56,13 @@ Section 4 of title XIII of act June 15, 1917, provided: “If any clause, senten
 
 #### Transfer of Functions
 
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 “Secretary of Transportation” substituted for “Secretary of the Treasury” in first paragraph of text pursuant to section 6(b)(1) of Pub. L. 89–670, which transferred Coast Guard to Department of Transportation and transferred to and vested in Secretary of Transportation functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other officers and offices of Department of the Treasury. See section 108 of Title 49, Transportation.
 
 #### Delegation of Functions
 
-For delegation to Secretary of the Treasury of authority vested in President by this section, see section2(e) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended, and section 1(r) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, set out as notes under section 301 of Title 3, The President.
+For delegation to Secretary of the Treasury of authority vested in President by this section, see section 2(e) of Ex. Ord. No. 10289, Sept. 17, 1951, 16 F.R. 9499, as amended, set out as a note under section 301 of Title 3, The President.
 
 #### Proc. No. 6867. Declaration of National Emergency and Invocation of Emergency Authority Relating to Regulation of Anchorage and Movement of Vessels
 
@@ -94,7 +96,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Continuation of National Emergency Declared by Proc. No. 6867
 
-Notice of President of the United States, dated Feb. 26, 2002, 67 F.R. 9387, provided:
+Notice of President of the United States, dated Feb. 27, 2003, 68 F.R. 9849, provided:
 
 On March 1, 1996, by Proclamation 6867 \[set out above\], President Clinton declared a national emergency to address the disturbance or threatened disturbance of international relations caused by the February 24, 1996, destruction by the Government of Cuba of two unarmed U.S.-registered civilian aircraft in international airspace north of Cuba. In July 1996 and on subsequent occasions, the Government of Cuba stated its intent to forcefully defend its sovereignty against any U.S.-registered vessels or aircraft that might enter Cuban territorial waters or airspace while involved in a flotilla and peaceful protest. Since these events, the Government of Cuba has not demonstrated that it will refrain from the future use of reckless and excessive force against U.S. vessels or aircraft that may engage in memorial activities or peaceful protest north of Cuba. Therefore, in accordance with section 202(d) of the National Emergencies Act (50 U.S.C. 1622(d)), I am continuing the national emergency with respect to Cuba and the emergency authority relating to the regulation of the anchorage and movement of vessels set out in Proclamation 6867.
 
@@ -103,6 +105,8 @@ This notice shall be published in the Federal Register and transmitted to the Co
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Prior continuations of national emergency declared by Proc. No. 6867 were contained in the following:
+
+Notice of President of the United States, dated Feb. 26, 2002, 67 F.R. 9387.
 
 Notice of President of the United States, dated Feb. 27, 2001, 66 F.R. 12841.
 

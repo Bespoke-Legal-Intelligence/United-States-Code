@@ -24,7 +24,7 @@ For provisions relating to the Northern Mariana Islands, formerly set out as not
 
 #### Similar Provisions
 
-Similar provisions continuing the civil government for the Trust Territory of the Pacific Islands until June30, 1954, were contained in act Aug. 8, 1953, ch. 383, §§1, 2, 67 Stat. 494, 495.
+Similar provisions continuing the civil government for the Trust Territory of the Pacific Islands until June 30, 1954, were contained in act Aug. 8, 1953, ch. 383, §§1, 2, 67 Stat. 494, 495.
 
 #### Authorization of Appropriations
 

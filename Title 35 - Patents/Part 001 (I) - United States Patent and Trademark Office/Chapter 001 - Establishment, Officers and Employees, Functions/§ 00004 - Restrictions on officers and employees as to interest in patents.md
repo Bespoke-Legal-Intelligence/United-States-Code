@@ -1,6 +1,6 @@
 ### §4. Restrictions on officers and employees as to interest in patents
 
-Officers and employees of the Patent and Trademark Office shall be incapable, during the period of their appointments and for one year thereafter, of applying for a patent and of acquiring, directly or indirectly, except by inheritance or bequest, any patent or any right or interest in any patent, issued or to be issued by the Office. In patents applied for thereafter theyshall not be entitled to any priority date earlier than one year after the termination of their appointment.
+Officers and employees of the Patent and Trademark Office shall be incapable, during the period of their appointments and for one year thereafter, of applying for a patent and of acquiring, directly or indirectly, except by inheritance or bequest, any patent or any right or interest in any patent, issued or to be issued by the Office. In patents applied for thereafter they shall not be entitled to any priority date earlier than one year after the termination of their appointment.
 
 (July 19, 1952, ch. 950, 66 Stat. 793; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949.)
 
@@ -23,4 +23,8 @@ The one year period is made inapplicable to applications which may be pending wh
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5 of this title.
 

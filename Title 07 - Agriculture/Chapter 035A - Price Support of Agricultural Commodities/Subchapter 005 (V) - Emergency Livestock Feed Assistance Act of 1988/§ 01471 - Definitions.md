@@ -56,6 +56,8 @@ For short title of title VI of act Oct. 31, 1949, ch. 792, which enacted this su
 
 #### Inapplicability of Section
 
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(12) of this title.
+
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 
 #### Section Referred to in Other Sections

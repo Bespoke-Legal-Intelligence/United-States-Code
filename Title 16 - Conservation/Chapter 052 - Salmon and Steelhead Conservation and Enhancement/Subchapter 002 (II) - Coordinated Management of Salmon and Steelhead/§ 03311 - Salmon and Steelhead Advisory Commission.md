@@ -18,7 +18,7 @@ Within 90 days after December 22, 1980, the Secretary of Commerce (hereinafter i
 
 #### (b) Membership
 
-(1) The voting representatives shall be appointed by the Secretary from a list of qualified individuals submitted by the Governor of each applicable State, by each appropriate tribal coordinating body, and by the Pacific Fishery Management Council. The representative for the National Marine Fisheries Service shall be theNorthwest regional director of the Service or his designee.
+(1) The voting representatives shall be appointed by the Secretary from a list of qualified individuals submitted by the Governor of each applicable State, by each appropriate tribal coordinating body, and by the Pacific Fishery Management Council. The representative for the National Marine Fisheries Service shall be the Northwest regional director of the Service or his designee.
 
 (2) The Commission shall have 6 nonvoting members, 5 of which shall be qualified individuals appointed by the Secretary. The sixth nonvoting member shall be the regional director of the United States Fish and Wildlife Service or his designee.
 
@@ -26,7 +26,7 @@ Within 90 days after December 22, 1980, the Secretary of Commerce (hereinafter i
 
 #### (c) Report by Commission
 
-Within 15 months after the date of the establishment of the Commission, it shall prepare, and submit to the Secretary and Congress, a comprehensive report containing conclusions, comments, and recommendations for the development, of a management structure (including effective procedures, mechanisms, and institutional arrangements) for the effective coordination of research, enhancement, management, and enforcement policies for the salmon and steelhead resources of the Columbia River and Washington conservation areas, and for the resolution of disputes between management entities that are concerned with stocks of common interest. The principal objectives of, and the standards for, the management structure shall include, but not be limited to—
+Within 15 months after the date of the establishment of the Commission, it shall prepare, and submit to the Secretary and Congress, a comprehensive report containing conclusions, comments, and recommendations for the development, of a management structure (including effective procedures, mechanisms, and institutional arrangements) for the effective coordination of research, enhancement, management, and enforcement policies for the salmon and steelhead resources of the Columbia River and Washington conservation areas, and for the resolution of disputes between management entities that are concerned with stocks of commoninterest. The principal objectives of, and the standards for, the management structure shall include, but not be limited to—
 
 &emsp;(1) the development of common principles to govern and coordinate effectively management and enhancement activities;
 

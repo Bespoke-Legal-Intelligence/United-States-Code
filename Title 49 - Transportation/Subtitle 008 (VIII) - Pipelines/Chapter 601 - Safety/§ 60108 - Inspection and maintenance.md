@@ -38,7 +38,7 @@ Inspection and Testing.—(1) The Secretary shall inspect and require appropriat
 
 &emsp;(I) other factors the Secretary decides are relevant to the safety of pipeline facilities.
 
-(2) To the extent and in amounts provided in advance in an appropriation law, the Secretary shall decide on the frequency of inspection under paragraph (1) of this subsection. The Secretary may reduce the frequency of an inspection of a master meter system.
+(2) To the extent and in amounts provided in advance in an appropriation law, the Secretaryshall decide on the frequency of inspection under paragraph (1) of this subsection. The Secretary may reduce the frequency of an inspection of a master meter system.
 
 (3) Testing under this subsection shall use the most appropriate technology practicable.
 
@@ -260,7 +260,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §203(<i>l</i>)(5), (6); added Oc
 
 Aug. 12, 1968, Pub. L. 90–481, 82 Stat. 720, §13(c); added Oct. 24, 1992, Pub. L. 102–508, §107, 106 Stat. 3293.
 
-In subsection (a)(1), the word “prepare” is omitted as surplus. The words “or offices” are omitted because of 1:1. The words “in accordance with regulations prescribed by the Secretary or appropriate State agency”in 49 App.:1680(a) (1st sentence), “in accordance with regulations prescribed by the Secretary or, where a certification or agreement pursuant to section 2004 of this Appendix is in effect, by the appropriate State agency” in 49 App.:2009(a) (1st sentence), and “by regulation” are omitted as surplus because of 49:322(a) and sections 60102–60105 of the revised title.
+In subsection (a)(1), the word “prepare” is omitted as surplus. The words “or offices” are omitted because of 1:1. The words “in accordance with regulations prescribed by the Secretary or appropriate State agency” in 49 App.:1680(a) (1st sentence), “in accordance with regulations prescribed by the Secretary or, where a certification or agreement pursuant to section 2004 of this Appendix is in effect, by the appropriate State agency” in 49 App.:2009(a) (1st sentence), and “by regulation” are omitted as surplus because of 49:322(a) and sections 60102–60105 of the revised title.
 
 In subsection (a)(2), before clause (A), the words “the Secretary or” are added for clarity. The words “at any time” in 49 App.:1680(a) (3d sentence) are omitted as surplus.
 
@@ -316,11 +316,35 @@ Subsec. (c)(4)(A). Pub. L. 104–304, §20(h)(2), substituted “establish a sta
 
 Subsecs. (c)(4)(B), (d)(3). Pub. L. 104–304, §20(h)(1), substituted “standards” for “regulations”.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Pipeline Bridge Risk Study
+
+Pub. L. 107–355, §25, Dec. 17, 2002, 116 Stat. 3011, provided that:
+
+“(a)
+
+In General.—The Secretary of Transportation shall conduct a study to determine whether cable-suspension pipeline bridges pose structural or other risks warranting particularized attention in connection with pipeline operators risk assessment programs and whether particularized inspection standards need to be developed by the Department of Transportation to recognize the peculiar risks posed by such bridges.
+
+“(b)
+
+Public Participation and Comments.—In conducting the study, the Secretary shall provide, to the maximum extent practicable, for public participation and comment and shall solicit views and comments from the public and interested persons, including participants in the pipeline industry with knowledge and experience in inspection of pipeline facilities.
+
+“(c)
+
+Completion and Report.—Within 2 years after the date of enactment of this Act \[Dec. 17, 2002\], the Secretary shall complete the study and transmit to Congress a report detailing the results of the study.
+
+“(d)
+
+Funding.—The Secretary may carry out this section using only amounts that are specifically appropriated to carry out this section.”
+
 #### Study of Underwater Abandoned Pipeline Facilities
 
 Pub. L. 102–508, title III, §307, Oct. 24, 1992, 106 Stat. 3309, directed Secretary of Transportation, in consultation with State and other Federal agencies having authority over underwater natural gas and hazardous liquid pipeline facilities and with pipeline owners and operators, fishing and maritime industries, and other affected groups, to submit to Congress, not later than 3 years after Oct. 24, 1992, report and recommendations on abandonment of such pipeline facilities, including analysis of problems caused by such facilities, alternative methods to abandonment, as well as navigational, safety, economic, and environmental impacts associated with abandonment, and further authorized Secretary to require, based on findings of such study, additional appropriate actions to prevent hazards to navigation in connection with such facilities.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 60102, 60104, 60105, 60106, 60118 of this title.
+This section is referred to in sections 60102, 60104, 60105, 60106, 60109, 60118, 60131 of this title.
 

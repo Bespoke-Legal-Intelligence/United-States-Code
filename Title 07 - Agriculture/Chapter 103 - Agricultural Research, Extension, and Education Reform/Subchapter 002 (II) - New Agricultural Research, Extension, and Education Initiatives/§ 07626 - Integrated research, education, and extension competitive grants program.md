@@ -6,7 +6,7 @@ It is the purpose of this section to authorize the Secretary of Agriculture to e
 
 #### (b) Competitive grants authorized
 
-Subject to the availability of appropriations to carry out this section, the Secretary may award grants to colleges and universities (as defined in section 3103 of this title) on a competitive basis for integrated agricultural research, education, and extension projects in accordance with this section.
+Subject to the availability of appropriations to carry out this section, the Secretary may award grants to colleges and universities (as defined in section 3103 of this title) and 1994 Institutions on a competitive basis for integrated agricultural research, education, and extension projects in accordance with this section.
 
 #### (c) Criteria for grants
 
@@ -26,9 +26,21 @@ Grants under this section shall be awarded to address priorities in United State
 
 &emsp;&emsp;(B) the project involves a minor commodity, the project deals with scientifically important research, and the grant recipient is unable to satisfy the matching funds requirement.
 
-#### (e) Authorization of appropriations
+#### (e) Term of grant
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002.
+A grant under this section shall have a term of not more than 5 years.
 
-(Pub. L. 105–185, title IV, §406, June 23, 1998, 112 Stat. 573.)
+#### (f) Authorization of appropriations
+
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007.
+
+(Pub. L. 105–185, title IV, §406, June 23, 1998, 112 Stat. 573; Pub. L. 107–171, title VII, §§7125, 7206, May 13, 2002, 116 Stat. 434, 439.)
+
+#### Amendments
+
+2002—Subsec. (b). Pub. L. 107–171, §7206, inserted “and 1994 Institutions” before “on a competitive basis”.
+
+Subsec. (e). Pub. L. 107–171, §7125(1), (2), added subsec. (e). Former subsec. (e) redesignated (f).
+
+Subsec. (f). Pub. L. 107–171, §7125(1), (3), redesignated subsec. (e) as (f) and substituted “2007” for “2002”.
 

@@ -16,7 +16,7 @@ The responsibilities of the Liaison shall include—
 
 > &emsp;for the purpose of providing job opportunities for Job Corps graduates; and
 
-&emsp;(2) establishing and developing relationships with members of the community in which the Job Corps center is located, informing members of the community about the projects of the Job Corps center and changes in the rules, procedures, or activities of the center thatmay affect the community, and planning events of mutual interest to the community and the Job Corps center.
+&emsp;(2) establishing and developing relationships with members of the community in which the Job Corps center is located, informing members of the community about the projects of the Job Corps center and changes in the rules, procedures, or activities of the center that may affect the community, and planning events of mutual interest to the community and the Job Corps center.
 
 #### (c) New centers
 
@@ -26,5 +26,5 @@ The Liaison for a Job Corps center that is not yet operating shall establish and
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+This Act, referred to in subsec. (a), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as theWorkforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 

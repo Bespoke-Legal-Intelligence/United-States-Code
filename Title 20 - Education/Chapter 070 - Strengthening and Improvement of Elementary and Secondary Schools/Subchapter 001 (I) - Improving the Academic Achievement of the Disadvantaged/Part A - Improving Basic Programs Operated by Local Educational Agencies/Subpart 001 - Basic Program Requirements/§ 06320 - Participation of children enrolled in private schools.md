@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;To ensure timely and meaningful consultation, a local educational agency shall consultwith appropriate private school officials during the design and development of such agency's programs under this part, on issues such as—
+&emsp;To ensure timely and meaningful consultation, a local educational agency shall consult with appropriate private school officials during the design and development of such agency's programs under this part, on issues such as—
 
 &emsp;&emsp;(A) how the children's needs will be identified;
 

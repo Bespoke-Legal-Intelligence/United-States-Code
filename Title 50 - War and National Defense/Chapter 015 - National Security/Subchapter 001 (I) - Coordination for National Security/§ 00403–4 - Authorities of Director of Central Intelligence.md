@@ -38,9 +38,9 @@ No funds made available under the National Foreign Intelligence Program may be r
 
 (3) Funds transferred under this subsection shall remain available for the same period as the appropriations account to which transferred.
 
-(4) Any transfer of funds under this subsection shall be carried out in accordance with existing procedures applicable to reprogramming notifications for the appropriate congressional committees. Any proposed transfer for which notice is given to the appropriate congressional committees shall be accompanied by a report explaining the nature of the proposed transfer and how it satisfies the requirements of this subsection. In addition, the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives shall be promptly notified of any transfer of funds made pursuant to this subsection in any case in which the transfer would not have otherwise required reprogramming notification under procedures in effect as of October 24, 1992.
+(4) Any transfer of funds under this subsection shall be carried out in accordance with existing procedures applicable to reprogramming notifications for the appropriate congressional committees. Any proposed transfer for which notice is given to the appropriate congressional committees shall be accompanied by a report explaining the nature of the proposed transfer and how it satisfies the requirements of this subsection. In addition, the congressional intelligence committees shall be promptly notified of any transfer of funds made pursuant to this subsection in any case in which the transfer would not have otherwise required reprogramming notification under procedures in effect as of October 24, 1992.
 
-(5) The Director shall promptly submit to the Select Committee on Intelligence of the Senate and to the Permanent Select Committee on Intelligence of the House of Representatives and, in the case of the transfer of personnel to or from the Department of Defense, the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, a report on any transfer of personnel made pursuant to this subsection. The Director shall include in any such report an explanation of the nature of the transfer and how it satisfies the requirements of this subsection.
+(5) The Director shall promptly submit to the congressional intelligence committees and, in the case of the transfer of personnel to or from the Department of Defense, the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives, a report on any transfer of personnel made pursuant to this subsection. The Director shall include in any such report an explanation of the nature of the transfer and how it satisfies the requirements of this subsection.
 
 #### (e) Coordination with foreign governments
 
@@ -54,17 +54,27 @@ The Director shall, in coordination with the heads of departments and agencies w
 
 &emsp;(2) to consolidate, wherever possible, personnel, administrative, and security programs to reduce the overall costs of these activities within the intelligence community.
 
-#### (g) Termination of employment of CIA employees
+#### (g) Standards and qualifications for performance of intelligence activities
+
+The Director, acting as the head of the intelligence community, shall, in consultation with the heads of effected agencies, develop standards and qualifications for persons engaged in the performance of intelligence activities within the intelligence community.
+
+#### (h) Termination of employment of CIA employees
 
 Notwithstanding the provisions of any other law, the Director may, in the Director's discretion, terminate the employment of any officer or employee of the Central Intelligence Agency whenever the Director shall deem such termination necessary or advisable in the interests of the United States. Any such termination shall not affect the right of the officer or employee terminated to seek or accept employment in any other department or agency of the Government if declared eligible for such employment by the Office of Personnel Management.
 
-(July 26, 1947, ch. 343, title I, §104, as added Pub. L. 102–496, title VII, §705(a)(3), Oct. 24, 1992, 106 Stat. 3192; amended Pub. L. 104–106, div. A, title XV, §1502(f)(5), Feb. 10, 1996, 110 Stat. 510; Pub. L. 104–293, title VIII, §807(b), Oct. 11, 1996, 110 Stat. 3480; Pub. L. 106–65, div. A, title X, §1067(16), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–567, title I, §105, Dec. 27, 2000, 114 Stat. 2834.)
+(July 26, 1947, ch. 343, title I, §104, as added Pub. L. 102–496, title VII, §705(a)(3), Oct. 24, 1992, 106 Stat. 3192; amended Pub. L. 104–106, div. A, title XV, §1502(f)(5), Feb. 10, 1996, 110 Stat. 510; Pub. L. 104–293, title VIII, §807(b), Oct. 11, 1996, 110 Stat. 3480; Pub. L. 106–65, div. A, title X, §1067(16), Oct. 5, 1999, 113 Stat. 775; Pub. L. 106–567, title I, §105, Dec. 27, 2000, 114 Stat. 2834; Pub. L. 107–306, title III, §§321, 353(b)(1)(A), (4), Nov. 27, 2002, 116 Stat. 2391, 2402.)
 
 #### Prior Provisions
 
 A prior section 104 of act July 26, 1947, was renumbered section 108 and is classified to section 404a of this title.
 
 #### Amendments
+
+2002—Subsec. (d)(4). Pub. L. 107–306, §353(b)(1)(A), substituted “congressional intelligence committees” for “Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives”.
+
+Subsec. (d)(5). Pub. L. 107–306, §353(b)(4), substituted “congressional intelligence committees” for “Select Committee on Intelligence of the Senate and to the Permanent Select Committee on Intelligence of the House of Representatives”.
+
+Subsecs. (g), (h). Pub. L. 107–306, §321, added subsec. (g) and redesignated former subsec. (g) as (h).
 
 2000—Subsec. (d)(1). Pub. L. 106–567, §105(b), designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -75,6 +85,38 @@ Subsec. (d)(2). Pub. L. 106–567, §105(a), designated existing provisions as s
 1996—Subsec. (c). Pub. L. 104–293 inserted at end “The Secretary of Defense shall consult with the Director of Central Intelligence before reprogramming funds made available under the Joint Military Intelligence Program.”
 
 Subsec. (d)(5). Pub. L. 104–106 substituted “Committee on Armed Services of the Senate and the Committee on National Security of the House of Representatives” for “Committees on Armed Services of the Senate and House of Representatives”.
+
+#### Implementation of Compensation Reform Plan
+
+Pub. L. 107–306, title IV, §402, Nov. 27, 2002, 116 Stat. 2403, provided that:
+
+“(a)
+
+Delay on Implementation on Compensation Reform Plan.—(1) The Director of Central Intelligence may not implement before the implementation date (described in paragraph (2)) a plan for the compensation of employees of the Central Intelligence Agency that differs from the plan in effect on October 1, 2002.
+
+“(2) The implementation date referred to in paragraph (1) is February 1, 2004, or the date on which the Director submits to the congressional intelligence committees a report on the pilot project conducted under subsection (b), whichever is later.
+
+“(3) It is the sense of Congress that an employee performance evaluation mechanism with evaluation training for managers and employees of the Central Intelligence Agency should be phased in before the implementation of any new compensation plan.
+
+“(b)
+
+Pilot Project.—(1) The Director shall conduct a pilot project to test the efficacy and fairness of a plan for the compensation of employees of the Central Intelligence Agency that differs from the plan in effect on October 1, 2002, within any one component of the Central Intelligence Agency selected by the Director, other than a component for which a pilot project on employee compensation has been previously conducted.
+
+“(2) The pilot project under paragraph (1) shall be conducted for a period of at least 1 year.
+
+“(3) Not later than the date that is 45 days after the completion of the pilot project under paragraph (1), the Director shall submit to the congressional intelligence committees a report that contains an evaluation of the project and such recommendations as the Director considers appropriate for the modification of the plans for the compensation of employees throughout the Agency which are in effect on such date.
+
+“(c)
+
+Sense of Congress on Implementation of Compensation Reform Plan for the National Security Agency.—It is the sense of Congress that—
+
+&emsp;“(1) the Director of the National Security Agency should not implement before February 1, 2004, a plan for the compensation of employees of the National Security Agency that differs from the plan in effect on October 1, 2002; and
+
+&emsp;“(2) an employee performance evaluation mechanism with evaluation training for managers and employees of the National Security Agency should be phased in before the implementation of any new compensation plan.
+
+“(d)
+
+Congressional Intelligence Committees Defined.—In this section, the term ‘congressional intelligence committees’ means the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.”
 
 #### Post-Employment Restrictions
 
@@ -98,7 +140,7 @@ Section 807(e) of Pub. L. 104–293 provided that: “Not later than January 31 
 
 #### Separation Pay Program for Voluntary Separation From Service
 
-Pub. L. 103–36, §2, June 8, 1993, 107 Stat. 104, as amended by Pub. L. 103–226, §8(b), Mar. 30, 1994, 108 Stat. 118; Pub. L. 104–93, title IV, §401, Jan. 6, 1996, 109 Stat. 968; Pub. L. 104–293, title IV, §401, Oct. 11, 1996, 110 Stat. 3468; Pub. L. 106–120, title IV, §402, Dec. 3, 1999, 113 Stat. 1616; Pub. L. 107–108, title IV, §402, Dec. 28, 2001, 115 Stat. 1403, provided that:
+Pub. L. 103–36, §2, June 8, 1993, 107 Stat. 104, as amended by Pub. L. 103–226, §8(b), Mar. 30, 1994, 108 Stat. 118; Pub. L. 104–93, title IV, §401, Jan. 6, 1996, 109 Stat. 968; Pub. L. 104–293, title IV, §401, Oct. 11, 1996, 110 Stat. 3468; Pub. L. 106–120, title IV, §402, Dec. 3, 1999, 113 Stat. 1616; Pub. L. 107–108, title IV, §402, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title IV, §401, Nov. 27, 2002, 116 Stat. 2403, provided that:
 
 “(a)
 
@@ -114,7 +156,7 @@ Definitions.—For purposes of this section—
 
 “(b)
 
-Establishment of Program.—In order to avoid or minimize the need for involuntary separations due to downsizing, reorganization, transfer of function, or other similar action, the Director may establish a program under which employees may be offered separation pay to separate from service voluntarily (whether by retirement or resignation). An employee who receives separation pay under such program may not be reemployed by the Central Intelligence Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separation occurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 \[Mar. 30, 1994\] and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the Central Intelligence Agency. If the employment is with an Executive agency (as defined by section 105 of title 5, United States Code), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with an entity inthe legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+Establishment of Program.—In order to avoid or minimize the need for involuntary separations due to downsizing, reorganization, transfer of function, or other similar action, the Director may establish a program under which employees may be offered separation pay to separate from service voluntarily (whether by retirement or resignation). An employee who receives separation pay under such program may not be reemployed by the Central Intelligence Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separation occurring on or after the date of the enactment of the Federal Workforce Restructuring Act of 1994 \[Mar. 30, 1994\] and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the Central Intelligence Agency. If the employment is with an Executive agency (as defined by section 105 of title 5, United States Code), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 “(c)
 
@@ -160,7 +202,7 @@ Amount and Treatment for Other Purposes.—Such separation pay—
 
 “(f)
 
-Termination.—No amount shall be payable under this section based on any separation occurring after September 30, 2003.
+Termination.—No amount shall be payable under this section based on any separation occurring after September 30, 2005.
 
 “(g)
 
@@ -180,7 +222,7 @@ Annual report.—At the end of each of the fiscal years 1993 through 1997, the D
 
 “(i)
 
-Remittance of Funds.—The Director shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund (in addition to any other payments which the Director is required to make under subchapter III of chapter 83 and subchapter II of chapter 84 of title 5, United States Code), an amount equal to 15 percent of the final basic pay of each employee who, in fiscal year 1998, 1999, 2000, 2001, 2002, or 2003 retires voluntarily under section 8336, 8412, or 8414 of such title or resigns and to whom a voluntary separation incentive payment has been or is to be paid under this section. The remittance required by this subsection shall be in lieu of any remittance required by section 4(a) of the Federal Workforce Restructuring Act of 1994 (5 U.S.C. 8331 note).”
+Remittance of Funds.—The Director shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund (in addition to any other payments which the Director is required to make under subchapter III of chapter 83 and subchapter II of chapter 84 of title 5, United States Code), an amount equal to 15 percent of the final basic pay of each employee who, in fiscal year 1998, 1999, 2000, 2001, 2002, 2003, 2004, or 2005 retires voluntarily under section 8336, 8412, or 8414 of such title or resigns and to whom a voluntary separation incentive payment has been or is to be paid under this section. The remittance required by this subsection shall be in lieu of any remittance required by section 4(a) of the Federal Workforce Restructuring Act of 1994 (5 U.S.C. 8331 note).”
 
 #### Section Referred to in Other Sections
 

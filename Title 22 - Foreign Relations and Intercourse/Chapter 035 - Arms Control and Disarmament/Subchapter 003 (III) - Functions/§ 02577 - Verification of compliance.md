@@ -8,7 +8,7 @@ In order to ensure that arms control, nonproliferation, and disarmament agreemen
 
 &emsp;(2) in the case of any arms control, nonproliferation, or disarmament agreement that has entered into force, any significant degradation or alteration in the capacity of the United States to verify compliance of the components of such agreement;
 
-&emsp;(3) the amount and percentage of research funds expended by the Department of State forthe purpose of analyzing issues relating to arms control, nonproliferation, and disarmament verification; and
+&emsp;(3) the amount and percentage of research funds expended by the Department of State for the purpose of analyzing issues relating to arms control, nonproliferation, and disarmament verification; and
 
 &emsp;(4) the number of professional personnel assigned to arms control verification on a full-time basis by each Government agency.
 
@@ -38,7 +38,7 @@ Subsec. (b). Pub. L. 105–277, §1223(11)(A), substituted “Secretary of State
 
 Subsec. (d). Pub. L. 105–277, §1223(11)(B), struck out heading and text of subsec. (d). Text read as follows: “In order to ensure adherence of the United States to obligations or commitments undertaken in arms control, nonproliferation, and disarmament agreements, and in order for the Director to make the assessment required by section 2593a(a)(5) of this title, the Director, or the Director's designee, shall participate in all interagency groups or organizations within the executive branch of Government that assess, analyze, or review United States planned or ongoing policies, programs, or actions that have a direct bearing on United States adherence to obligations undertaken in arms control, nonproliferation, or disarmament agreements.”
 
-1994—Pub. L. 103–236 substituted “Verification of compliance” for “Verification of Arms Control Agreements” as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (c) requiring the Director to report to Congress relating to verification of arms control proposals and agreements.
+1994—Pub. L. 103–236 substituted “Verification of compliance” for “Verification of Arms Control Agreements” as section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a)to (c) requiring the Director to report to Congress relating to verification of arms control proposals and agreements.
 
 #### Effective Date of 1998 Amendment
 

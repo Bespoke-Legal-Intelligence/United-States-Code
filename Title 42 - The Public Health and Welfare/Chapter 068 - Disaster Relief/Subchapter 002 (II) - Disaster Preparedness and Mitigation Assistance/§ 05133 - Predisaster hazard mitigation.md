@@ -36,7 +36,7 @@ If the President determines that a State or local government has identified natu
 
 #### (B) Extraordinary circumstances
 
-&emsp;&emsp;In providing assistance to local governments under this section, the President may select a local government that has not been recommended by a Governor under this subsection if the President determines that extraordinary circumstances justify the selection and that making the selection will further the purpose of this section.
+&emsp;&emsp;In providing assistance to local governments under this section, the President may select a local government that has not beenrecommended by a Governor under this subsection if the President determines that extraordinary circumstances justify the selection and that making the selection will further the purpose of this section.
 
 #### (3) Effect of failure to nominate
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Administration is authorized to establish an Accredited Lenders Program for qualified State and local development companies that meet the requirements of subsection (b) of this section.
+The Administration is authorized to establish an Accredited Lenders Program for qualifiedState and local development companies that meet the requirements of subsection (b) of this section.
 
 #### (b) Requirements
 

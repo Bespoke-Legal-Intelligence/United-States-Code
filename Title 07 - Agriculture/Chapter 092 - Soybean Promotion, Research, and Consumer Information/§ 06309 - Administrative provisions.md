@@ -28,7 +28,7 @@ Except as provided in subsection (b) of this section, nothing in this chapter ma
 
 #### (3) Assessments collected by qualified State soybean boards
 
-&emsp;To ensure adequate funding of the operations of qualified State soybean boards under this chapter, whenever an order is in effect under this chapter, no State law or regulation that limits the rate of assessment that the qualified State soybean board in that State may collect from producers on soybeans produced in such State, or that has the effect of limiting such rate, may be applied to prohibit such State board from collecting, and expending for authorized purposes, assessments from producers of up to the full amount of the credit authorized for producer contributions to qualified State soybean boards under section 6304(<i>l</i>)(4) of this title.
+&emsp;To ensure adequate funding of the operations of qualified State soybean boards under this chapter, whenever an order is in effect under this chapter, no State law or regulationthat limits the rate of assessment that the qualified State soybean board in that State may collect from producers on soybeans produced in such State, or that has the effect of limiting such rate, may be applied to prohibit such State board from collecting, and expending for authorized purposes, assessments from producers of up to the full amount of the credit authorized for producer contributions to qualified State soybean boards under section 6304(<i>l</i>)(4) of this title.
 
 #### (c) Amendments to orders
 

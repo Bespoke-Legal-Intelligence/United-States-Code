@@ -1,6 +1,6 @@
 ### §109. Limitations on exclusive rights: Effect of transfer of particular copy or phonorecord
 
-(a) Notwithstanding the provisions of section 106(3), the owner of a particular copy or phonorecord lawfully made under this title, or any person authorized by such owner, is entitled, without the authority of the copyright owner, to sell or otherwise dispose of the possession of that copy or phonorecord. Notwithstanding the preceding sentence, copies or phonorecords of works subject to restored copyright under section 104A that are manufactured before the date of restoration of copyright or, with respect to reliance parties, before publication or service of notice under section 104A(e), may be sold or otherwise disposed of without the authorization of the owner of the restored copyright for purposes of direct or indirect commercial advantage only during the 12-month period beginning on—
+(a) Notwithstanding the provisions of section 106(3), the owner of a particular copy or phonorecord lawfully made under this title, or any person authorized by such owner, is entitled,without the authority of the copyright owner, to sell or otherwise dispose of the possession of that copy or phonorecord. Notwithstanding the preceding sentence, copies or phonorecords of works subject to restored copyright under section 104A that are manufactured before the date of restoration of copyright or, with respect to reliance parties, before publication or service of notice under section 104A(e), may be sold or otherwise disposed of without the authorization of the owner of the restored copyright for purposes of direct or indirect commercial advantage only during the 12-month period beginning on—
 
 &emsp;(1) the date of the publication in the Federal Register of the notice of intent filed with the Copyright Office under section 104A(d)(2)(A), or
 
@@ -72,7 +72,7 @@ Section 5 of the Federal Trade Commission Act, referred to in subsec. (b)(3), is
 
 1997—Subsec. (b)(2)(B). Pub. L. 105–80 substituted “Register of Copyrights considers appropriate” for “Register of Copyright considers appropriate”.
 
-1994—Subsec. (a). Pub. L. 103–465 inserted at end “Notwithstanding the preceding sentence, copies or phonorecords of works subject to restored copyright under section 104A that are manufactured before the date of restoration of copyright or, with respect to reliance parties, before publication or service of notice under section 104A(e), may be sold or otherwise disposed of without the authorization of the owner of the restored copyright for purposes of direct or indirect commercial advantage only during the 12-month period beginning on—
+1994—Subsec. (a). Pub. L. 103–465 inserted at end “Notwithstanding the preceding sentence, copies or phonorecords of works subject to restored copyrightunder section 104A that are manufactured before the date of restoration of copyright or, with respect to reliance parties, before publication or service of notice under section 104A(e), may be sold or otherwise disposed of without the authorization of the owner of the restored copyright for purposes of direct or indirect commercial advantage only during the 12-month period beginning on—
 
 &emsp;“(1) the date of the publication in the Federal Register of the notice of intent filed with the Copyright Office under section 104A(d)(2)(A), or
 

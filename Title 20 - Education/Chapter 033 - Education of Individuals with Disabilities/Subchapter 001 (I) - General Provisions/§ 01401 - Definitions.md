@@ -148,7 +148,7 @@ Except as otherwise provided, as used in this chapter:
 
 &emsp;&emsp;(A) includes a legal guardian; and
 
-&emsp;&emsp;(B) except as used in sections 1415(b)(2) and 1439(a)(5) of this title, includes an individualassigned under either of those sections to be a surrogate parent.
+&emsp;&emsp;(B) except as used in sections 1415(b)(2) and 1439(a)(5) of this title, includes an individual assigned under either of those sections to be a surrogate parent.
 
 #### (20) Parent organization
 
@@ -186,7 +186,7 @@ Except as otherwise provided, as used in this chapter:
 
 #### (B) Disorders included
 
-&emsp;&emsp;Such term includes such conditions as perceptual disabilities, brain injury, minimal brain dysfunction, dyslexia, and developmental aphasia.
+&emsp;&emsp;Such term includes such conditions as perceptual disabilities, brain injury, minimalbrain dysfunction, dyslexia, and developmental aphasia.
 
 #### (C) Disorders not included
 
@@ -222,7 +222,7 @@ The Elementary and Secondary Education Act of 1965, referred to in par. (7)(A)(i
 
 The Alaska Native Claims Settlement Act, referred to in par. (10), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
-Section 1141(a) of this title, referred to in par. (14)(A), was repealed by Pub. L. 105–244, §3, title I, §101(b), titleVII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998. However, the term “institution of higher education” is defined in section 1001 of this title.
+Section 1141(a) of this title, referred to in par. (14)(A), was repealed by Pub. L. 105–244, §3, title I, §101(b), title VII, §702, Oct. 7, 1998, 112 Stat. 1585, 1616, 1803, effective Oct. 1, 1998. However, the term “institution of higher education” is defined in section 1001 of this title.
 
 The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (14)(B), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
@@ -240,7 +240,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1003, 1087ee, 1087ii, 1412, 1414, 1418, 5802, 6063, 6103, 6311, 6362, 7221g, 7801 of this title; title 10 section 2164; title 42 sections 290ff–2, 1396n, 9832, 12511.
+This section is referred to in sections 1003, 1087ee, 1087ii, 1412, 1414, 1418, 5802, 6063, 6103, 6311, 6362, 7221g, 7801 of this title; title 10 section 2164; title 42 sections 290ff–2, 1396n, 9832, 9859, 12511.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,6 +6,7 @@ Part II—Report, Entry, and Unlading of Vessels and Vehicles
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 01431 - Manifests](%C2%A7%2001431%20-%20Manifests.md)
+- [&sect; 01431a - Documentation of waterborne cargo](%C2%A7%2001431a%20-%20Documentation%20of%20waterborne%20cargo.md)
 - [&sect; 01432, 1432a - Repealed. Pub. L. 103&#8211;182, title VI, &sect;690(b)(1), (c)(5), Dec. 8, 1993, 107 Stat. 2223](%C2%A7%2001432%2C%201432a%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93182%2C%20title%20VI%2C%20%C2%A7690%28b%29%281%29%2C%20%28c%29%285%29%2C%20Dec.%208%2C%201993%2C%20107%20Stat.%202223.md)
 - [&sect; 01433 - Report of arrival of vessels, vehicles, and aircraft](%C2%A7%2001433%20-%20Report%20of%20arrival%20of%20vessels%2C%20vehicles%2C%20and%20aircraft.md)
 - [&sect; 01434 - Entry; vessels](%C2%A7%2001434%20-%20Entry%3B%20vessels.md)

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) use the list exclusively for communicating with stockholders for permissible purposes; and
 
-&emsp;&emsp;(B) not make the list available to any person, other than the stockholder's attorney or accountant, without first obtaining the written consent of the institution.
+&emsp;&emsp;(B) not make the list available to any person, other than the stockholder's attorneyor accountant, without first obtaining the written consent of the institution.
 
 #### (b) Alternative communications
 

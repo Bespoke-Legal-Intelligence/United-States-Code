@@ -202,7 +202,7 @@ Sec. 2. The Secretary of State shall, in accord with Section 205 of the Act (22 
 
 Sec. 3. The Secretary of State shall make recommendations to the President through the Director of the Office of Management and Budget whenever action is appropriate under Section 827 of the Act (22 U.S.C. 4067) to maintain existing conformity between the Civil Service Retirement and Disability System and the Foreign Service Retirement and Disability System.
 
-Sec. 4. In accord with Section 402 of the Act (22 U.S.C. 3962), there are established the following salary classes with titles for the Senior Foreign Service (SFS), at basic rates of pay equivalent to that established from time to time for the Senior Executive Service (ES) under Section 5382 of Title 5 of the United States Code.
+Sec. 4. In accord with Section 402 of the Act (22 U.S.C. 3962), there are established the following salary classeswith titles for the Senior Foreign Service (SFS), at basic rates of pay equivalent to that established from time to time for the Senior Executive Service (ES) under Section 5382 of Title 5 of the United States Code.
 
 > Career Minister
 
@@ -246,7 +246,7 @@ Sec. 6. (a) Pursuant to Section 211 of the Act (22 U.S.C. 3931), there is establ
 
 (d) The Secretary of State shall provide all necessary administrative services and facilities for the Board.
 
-Sec. 7. For the purpose of ensuring the accuracy of information used in the administration of the Foreign Service Retirement and Disability System, the Secretary of State may request from the Secretary of Defense and the Administrator of Veterans Affairs such information as the Secretary deems necessary. To the extent permitted by law: (a) The Secretary of Defense shall provide information on retired or retainer payprovided under Title 10, United States Code; and, (b) the Administrator of Veterans Affairs shall provide information on pensions or compensation provided under Title 38 of the United States Code. The Secretary, in consultation with the officials from whom information is requested, shall ensure that information made available under this Order is used only for the purpose authorized.
+Sec. 7. For the purpose of ensuring the accuracy of information used in the administration of the Foreign Service Retirement and Disability System, the Secretary of State may request from the Secretary of Defense and the Administrator of Veterans Affairs such information as the Secretary deems necessary. To the extent permitted by law: (a) The Secretary of Defense shall provide information on retired or retainer pay provided under Title 10, United States Code; and, (b) the Administrator of Veterans Affairs shall provide information on pensions or compensation provided under Title 38 of the United States Code. The Secretary, in consultation with the officials from whom information is requested, shall ensure that information made available under this Order is used only for the purpose authorized.
 
 Sec. 8. The first seven Sections of this Order shall be effective as of February 15, 1981.
 

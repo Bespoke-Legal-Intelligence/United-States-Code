@@ -12,7 +12,7 @@
 
 &emsp;(1) the percentages applicable to payments under that section are—
 
-&emsp;&emsp;(A) 45 percent under subsection (a)(2) of that section, where the member died fully or currently insured under title II of the Social Security Act (42 U.S.C. 401 et seq.), with no additional payments for a child or children so long as the widow or widower remains eligible for payments under that subsection;
+&emsp;&emsp;(A) 45 percent under subsection (a)(2) of that section, where the member died fully or currently insured under title II of the SocialSecurity Act (42 U.S.C. 401 et seq.), with no additional payments for a child or children so long as the widow or widower remains eligible for payments under that subsection;
 
 &emsp;&emsp;(B) 20 percent under subsection (a)(3) of that section, for one child, and 10 percent additional for each additional child, not to exceed a total of 75 percent, where the member died fully or currently insured under title II of the Social Security Act; and
 

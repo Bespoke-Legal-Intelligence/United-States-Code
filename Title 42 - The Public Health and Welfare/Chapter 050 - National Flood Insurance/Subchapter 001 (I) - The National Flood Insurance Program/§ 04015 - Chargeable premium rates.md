@@ -2,7 +2,7 @@
 
 #### (a) Establishment; terms and conditions
 
-On the basis of estimates made under section 4014 of this title, and such other information as may be necessary, the Director shall from time to time, after consultation with the advisory committee authorized under section 4025 of this title, appropriate representatives of the pool formed or otherwise created under section 4051 of this title, and appropriate representatives of the insurance authorities of the respective States, prescribe by regulation—
+On the basis of estimates made under section 4014 of this title, and such other information as may be necessary, the Director shall from time to time, after consultation with the advisory committee authorized under section 4025 of this title, appropriate representatives of the poolformed or otherwise created under section 4051 of this title, and appropriate representatives of the insurance authorities of the respective States, prescribe by regulation—
 
 &emsp;(1) chargeable premium rates for any types and classes of properties for which insurance coverage shall be available under section 4012 of this title (at less than the estimated risk premium rates under section 4014(a)(1) of this title, where necessary), and
 
@@ -32,7 +32,7 @@ With respect to any chargeable premium rate prescribed under this section, a sum
 
 Notwithstanding any other provision of this chapter, the chargeable risk premium rates for flood insurance under this chapter for any properties within any single risk classification may not be increased by an amount that would result in the average of such rate increases for properties within the risk classification during any 12-month period exceeding 10 percent of the average of the risk premium rates for properties within the risk classification upon the commencement of such 12-month period.
 
-(Pub. L. 90–448, title XIII, §1308, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §103, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title IV,§451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(2), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §572(a), Sept. 23, 1994, 108 Stat. 2277.)
+(Pub. L. 90–448, title XIII, §1308, Aug. 1, 1968, 82 Stat. 576; Pub. L. 93–234, title I, §103, Dec. 31, 1973, 87 Stat. 978; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 101–508, title II, §2302(e)(2), Nov. 5, 1990, 104 Stat. 1388–24; Pub. L. 103–325, title V, §572(a), Sept. 23, 1994, 108 Stat. 2277.)
 
 #### Amendments
 
@@ -54,9 +54,13 @@ Subsec. (d). Pub. L. 101–508, §2302(e)(2)(B), added subsec. (d) and struck ou
 
 1973—Subsec. (c). Pub. L. 93–234 substituted “started after December 31, 1974, or the effective date of the initial rate map published by the Secretary under paragraph (2) of section 4101 of this title for the area in which such property is located, whichever is later” for “started after the identification of the area in which such property is located has been published under paragraph (1) of section 4101 of this title”.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Limitation on Premiums
 
-Section 2302(e)(5) of Pub. L. 101–508 provided that, notwithstanding section 541(d) of Pub. L. 100–242, formerly set out below, premium rates charged for flood insurance under any program established pursuant to this chapter could be increased by more than 10 percent during fiscal year 1991, with certain exceptions.
+Section 2302(e)(5) of Pub. L. 101–508 provided that, notwithstanding section 541(d) of Pub. L. 100–242, formerly set out below, premium rates charged for floodinsurance under any program established pursuant to this chapter could be increased by more than 10 percent during fiscal year 1991, with certain exceptions.
 
 Pub. L. 100–242, title V, §541(d), Feb. 5, 1988, 101 Stat. 1939, as amended by Pub. L. 101–137, §1(d), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(c), Nov. 5, 1990, 104 Stat. 1388–23, limited increases in premium rates charged for flood insurance under programs established pursuant to this chapter during period beginning Feb. 5, 1988, and ending Sept. 30, 1995, to prorated annual rate of 10 percent, prior to repeal by Pub. L. 103–325, title V, §572(b), Sept. 23, 1994, 108 Stat. 2278.
 

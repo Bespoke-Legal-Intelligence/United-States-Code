@@ -14,10 +14,13 @@
 | [928\.](%C2%A7%2000928%20-%20Separability.md) | Separability. |
 | [929\.](%C2%A7%2000929%20-%20Use%20of%20restricted%20ammunition.md) | Use of restricted ammunition. |
 | [930\.](%C2%A7%2000930%20-%20Possession%20of%20firearms%20and%20dangerous%20weapons%20in%20Federal%20facilities.md) | Possession of firearms and dangerous weapons in Federal facilities. |
+| [931\.](%C2%A7%2000931%20-%20Prohibition%20on%20purchase%2C%20ownership%2C%20or%20possession%20of%20body%20armor%20by%20violent%20felons.md) | Prohibition on purchase, ownership, or possession of body armor by violent felons. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–273, div. C, title I, §11009(e)(2)(B), Nov. 2, 2002, 116 Stat. 1821, added item 931.
 
 1993—Pub. L. 103–159, title I, §104(b), Nov. 30, 1993, 107 Stat. 1543, added item 925A.
 
@@ -54,3 +57,4 @@ This chapter is referred to in section 922 of this title; title 26 section 4182;
 - [&sect; 00928 - Separability](%C2%A7%2000928%20-%20Separability.md)
 - [&sect; 00929 - Use of restricted ammunition](%C2%A7%2000929%20-%20Use%20of%20restricted%20ammunition.md)
 - [&sect; 00930 - Possession of firearms and dangerous weapons in Federal facilities](%C2%A7%2000930%20-%20Possession%20of%20firearms%20and%20dangerous%20weapons%20in%20Federal%20facilities.md)
+- [&sect; 00931 - Prohibition on purchase, ownership, or possession of body armor by violent felons](%C2%A7%2000931%20-%20Prohibition%20on%20purchase%2C%20ownership%2C%20or%20possession%20of%20body%20armor%20by%20violent%20felons.md)

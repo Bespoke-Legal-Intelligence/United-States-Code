@@ -88,7 +88,7 @@ Information.—In carrying out subsection (a), the Secretary shall—
 
 &emsp;“(3) inform senior citizens how to identify telemarketing and sweepstakes fraud;
 
-&emsp;“(4) inform senior citizens how to protect themselves against telemarketing and sweepstakes fraud, including an explanation of the dangers of providing bank account, credit card, or other financial or personal information over the telephone to unsolicited callers;
+&emsp;“(4) inform senior citizens how to protect themselves against telemarketing and sweepstakes fraud,including an explanation of the dangers of providing bank account, credit card, or other financial or personal information over the telephone to unsolicited callers;
 
 &emsp;“(5) inform senior citizens how to report suspected attempts at or acts of fraud;
 

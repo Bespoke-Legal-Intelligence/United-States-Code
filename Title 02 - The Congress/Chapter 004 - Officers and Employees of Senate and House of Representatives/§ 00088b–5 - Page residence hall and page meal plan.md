@@ -6,7 +6,7 @@ Effective at the beginning of the Ninety-eighth Congress and until otherwise pro
 
 #### (b) Deposits in revolving fund; disbursements by Chief Administrative Officer of House
 
-There shall be deposited in the revolving fund such amounts as may be received by the ChiefAdministrative Officer of the House of Representatives with respect to lodging, meals, and related services furnished for congressional pages. Amounts so deposited shall be available for disbursement by the Chief Administrative Officer of the House of Representatives, as determined by the Clerk of the House of Representatives, for expenses relating to the page residence hall and the page meal plan.
+There shall be deposited in the revolving fund such amounts as may be received by the Chief Administrative Officer of the House of Representatives with respect to lodging, meals, and related services furnished for congressional pages. Amounts so deposited shall be available for disbursement by the Chief Administrative Officer of the House of Representatives, as determined by the Clerk of the House of Representatives, for expenses relating to the page residence hall and the page meal plan.
 
 #### (c) Regulations
 
@@ -26,7 +26,7 @@ Sections 1 to 4 of House Resolution No. 64 have been redesignated subsecs. (a) t
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–186, §204(38)(A), (B), substituted “Chief Administrative Officer of the House of Representatives” for “Clerk” in first sentence and “Chief Administrative Officer of the House of Representatives, as determined by the Clerk of the House of Representatives,” for “Clerk” in second sentence.
+1996—Subsec. (b). Pub. L. 104–186, §204(38)(A), (B), substituted “Chief Administrative Officer of the House ofRepresentatives” for “Clerk” in first sentence and “Chief Administrative Officer of the House of Representatives, as determined by the Clerk of the House of Representatives,” for “Clerk” in second sentence.
 
 Subsecs. (c), (d). Pub. L. 104–186, §204(38)(C), (D), redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “As used in this section, the term ‘Clerk’ means the Clerk of the House of Representatives.”
 

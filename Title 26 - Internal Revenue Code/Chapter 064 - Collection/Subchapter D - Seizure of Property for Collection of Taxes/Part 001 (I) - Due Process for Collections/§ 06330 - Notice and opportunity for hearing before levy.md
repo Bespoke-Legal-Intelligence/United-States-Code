@@ -1,0 +1,158 @@
+### §6330. Notice and opportunity for hearing before levy
+
+#### (a) Requirement of notice before levy
+
+#### (1) In general
+
+&emsp;No levy may be made on any property or right to property of any person unless the Secretary has notified such person in writing of their right to a hearing under this section before such levy is made. Such notice shall be required only once for the taxable period to which the unpaid tax specified in paragraph (3)(A) relates.
+
+#### (2) Time and method for notice
+
+&emsp;The notice required under paragraph (1) shall be—
+
+&emsp;&emsp;(A) given in person;
+
+&emsp;&emsp;(B) left at the dwelling or usual place of business of such person; or
+
+&emsp;&emsp;(C) sent by certified or registered mail, return receipt requested, to such person's last known address;
+
+> &emsp;not less than 30 days before the day of the first levy with respect to the amount of the unpaid tax for the taxable period.
+
+#### (3) Information included with notice
+
+&emsp;The notice required under paragraph (1) shall include in simple and nontechnical terms—
+
+&emsp;&emsp;(A) the amount of unpaid tax;
+
+&emsp;&emsp;(B) the right of the person to request a hearing during the 30-day period under paragraph (2); and
+
+&emsp;&emsp;(C) the proposed action by the Secretary and the rights of the person with respect to such action, including a brief statement which sets forth—
+
+&emsp;&emsp;&emsp;(i) the provisions of this title relating to levy and sale of property;
+
+&emsp;&emsp;&emsp;(ii) the procedures applicable to the levy and sale of property under this title;
+
+&emsp;&emsp;&emsp;(iii) the administrative appeals available to the taxpayer with respect to such levy and sale and the procedures relating to such appeals;
+
+&emsp;&emsp;&emsp;(iv) the alternatives available to taxpayers which could prevent levy on property (including installment agreements under section 6159); and
+
+&emsp;&emsp;&emsp;(v) the provisions of this title and procedures relating to redemption of property and release of liens on property.
+
+#### (b) Right to fair hearing
+
+#### (1) In general
+
+&emsp;If the person requests a hearing under subsection (a)(3)(B), such hearing shall be held by the Internal Revenue Service Office of Appeals.
+
+#### (2) One hearing per period
+
+&emsp;A person shall be entitled to only one hearing under this section with respect to the taxable period to which the unpaid tax specified in subsection (a)(3)(A) relates.
+
+#### (3) Impartial officer
+
+&emsp;The hearing under this subsection shall be conducted by an officer or employee who has had no prior involvement with respect to the unpaid tax specified in subsection (a)(3)(A) before the first hearing under this section or section 6320. A taxpayer may waive the requirement of this paragraph.
+
+#### (c) Matters considered at hearing
+
+In the case of any hearing conducted under this section—
+
+#### (1) Requirement of investigation
+
+&emsp;The appeals officer shall at the hearing obtain verification from the Secretary that the requirements of any applicable law or administrative procedure have been met.
+
+#### (2) Issues at hearing
+
+#### (A) In general
+
+&emsp;&emsp;The person may raise at the hearing any relevant issue relating to the unpaid tax or the proposed levy, including—
+
+&emsp;&emsp;&emsp;(i) appropriate spousal defenses;
+
+&emsp;&emsp;&emsp;(ii) challenges to the appropriateness of collection actions; and
+
+&emsp;&emsp;&emsp;(iii) offers of collection alternatives, which may include the posting of a bond, the substitution of other assets, an installment agreement, or an offer-in-compromise.
+
+#### (B) Underlying liability
+
+&emsp;&emsp;The person may also raise at the hearing challenges to the existence or amount of the underlying tax liability for any tax period if the person did not receive any statutory notice of deficiency for such tax liability or did not otherwise have an opportunity to dispute such tax liability.
+
+#### (3) Basis for the determination
+
+&emsp;The determination by an appeals officer under this subsection shall take into consideration—
+
+&emsp;&emsp;(A) the verification presented under paragraph (1);
+
+&emsp;&emsp;(B) the issues raised under paragraph (2); and
+
+&emsp;&emsp;(C) whether any proposed collection action balances the need for the efficient collection of taxes with the legitimate concern of the person that any collection action be no more intrusive than necessary.
+
+#### (4) Certain issues precluded
+
+&emsp;An issue may not be raised at the hearing if—
+
+&emsp;&emsp;(A) the issue was raised and considered at a previous hearing under section 6320 or in any other previous administrative or judicial proceeding; and
+
+&emsp;&emsp;(B) the person seeking to raise the issue participated meaningfully in such hearing or proceeding.
+
+> &emsp;This paragraph shall not apply to any issue with respect to which subsection (d)(2)(B) applies.
+
+#### (d) Proceeding after hearing
+
+#### (1) Judicial review of determination
+
+&emsp;The person may, within 30 days of a determination under this section, appeal such determination—
+
+&emsp;&emsp;(A) to the Tax Court (and the Tax Court shall have jurisdiction with respect to such matter); or
+
+&emsp;&emsp;(B) if the Tax Court does not have jurisdiction of the underlying tax liability, to a district court of the United States.
+
+> &emsp;If a court determines that the appeal was to an incorrect court, a person shall have 30 days after the court determination to file such appeal with the correct court.
+
+#### (2) Jurisdiction retained at IRS Office of Appeals
+
+&emsp;The Internal Revenue Service Office of Appeals shall retain jurisdiction with respect to any determination made under this section, including subsequent hearings requested by the person who requested the original hearing on issues regarding—
+
+&emsp;&emsp;(A) collection actions taken or proposed with respect to such determination; and
+
+&emsp;&emsp;(B) after the person has exhausted all administrative remedies, a change in circumstances with respect to such person which affects such determination.
+
+#### (e) Suspension of collections and statute of limitations
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), if a hearing is requested under subsection (a)(3)(B), the levy actions which are the subject of the requested hearing and the running of any period of limitations under section 6502 (relating to collection after assessment), section 6531 (relating to criminal prosecutions), or section 6532 (relating to other suits) shall be suspended for the period during which such hearing, and appeals therein, are pending. In no event shall any such period expire before the 90th day after the day on which there is a final determination in such hearing. Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.
+
+#### (2) Levy upon appeal
+
+&emsp;Paragraph (1) shall not apply to a levy action while an appeal is pending if the underlying tax liability is not at issue in the appeal and the court determines that the Secretary has shown good cause not to suspend the levy.
+
+#### (f) Jeopardy and State refund collection
+
+If—
+
+&emsp;(1) the Secretary has made a finding under the last sentence of section 6331(a) that the collection of tax is in jeopardy; or
+
+&emsp;(2) the Secretary has served a levy on a State to collect a Federal tax liability from a State tax refund,
+
+> this section shall not apply, except that the taxpayer shall be given the opportunity for the hearing described in this section within a reasonable period of time after the levy.
+
+(Added Pub. L. 105–206, title III, §3401(b), July 22, 1998, 112 Stat. 747; amended Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A), (d)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–642, 2763A–643.)
+
+#### Amendments
+
+2000—Subsec. (d)(1)(A). Pub. L. 106–554, §1(a)(7) \[title III, §313(d)\], substituted “with respect to” for “to hear”.
+
+Subsec. (e)(1). Pub. L. 106–554, §1(a)(7) \[title III, §313(b)(2)(A)\], inserted at end “Notwithstanding the provisions of section 7421(a), the beginning of a levy or proceeding during the time the suspension under this paragraph is in force may be enjoined by a proceeding in the proper court, including the Tax Court. The Tax Court shall have no jurisdiction under this paragraph to enjoin any action or proceeding unless a timely appeal has been filed under subsection (d)(1) and then only in respect of the unpaid tax or proposed levy to which the determination being appealed relates.”
+
+#### Effective Date of 2000 Amendment
+
+Amendment by section 1(a)(7) \[title III, §313(b)(2)(A)\] of Pub. L. 106–554 effective Dec. 21, 2000, and amendment by section 1(a)(7) \[title III, §313(d)\] of Pub. L. 106–554, effective as if included in the provisions of the Internal Revenue Service Restructuring and Reform Act of 1998, Pub. L. 105–206, to which such amendment relates, see section 1(a)(7) \[title III, §313(f)\] of Pub. L. 106–554, set out as a note under section 6015 of this title.
+
+#### Effective Date
+
+Section applicable to collection actions initiated after the date which is 180 days after July 22, 1998, see section 3401(d) of Pub. L. 105–206, set out as a note under section 6320 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 6320, 7421, 7443A, 7463, 7803 of this title.
+

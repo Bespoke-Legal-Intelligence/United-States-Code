@@ -46,7 +46,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and 
 
 #### General Provisions
 
-Section 1. <i>Policy</i>. (a) Each employee of the executive branch of the Federal Government has the right, freely and without fear of penalty or reprisal, to form, join, and assist a labor organization or to refrain from any such activity, and each employee shall be protected in the exercise of this right. Except as otherwise expressly provided in this Order, the right to assist a labor organization extends to participation in the management ofthe organization and acting for the organization in the capacity of an organization representative, including presentation of its views to officials of the executive branch, the Congress, or other appropriate authority. The head of each agency shall take the action required to assure that employees in the agency are apprised of their rights under this section and that no interference, restraint, coercion, or discrimination is practiced within his agency to encourage or discourage membership in a labor organization.
+Section 1. <i>Policy</i>. (a) Each employee of the executive branch of the Federal Government has the right, freely and without fear of penalty or reprisal, to form, join, and assist a labor organization or to refrain from any such activity, and each employee shall be protected in the exercise of this right. Except as otherwise expressly provided in this Order, the right to assist a labor organization extends to participation in the management of the organization and acting for the organization in the capacity of an organization representative, including presentation of its views to officials of the executive branch, the Congress, or other appropriate authority. The head of each agency shall take the action required to assure that employees in the agency are apprised of their rights under this section and that no interference, restraint, coercion, or discrimination is practiced within his agency to encourage or discourage membership in a labor organization.
 
 (b) Paragraph (a) of this section does not authorize participation in the management of a labor organization or acting as a representative of such an organization by a supervisor, except as provided in section 24 of this Order, or by an employee when the participation or activity would result in a conflict or apparent conflict of interest or otherwise be incompatible with law or with the official duties of the employee.
 
@@ -136,7 +136,7 @@ Sec. 4. <i>Powers and Duties of the Federal Labor Relations Authority.</i>
 
 (f) In performing the duties imposed on it by this Section, the Authority may request and use the services and assistance of employees of other agencies in accordance with Section 1 of the Act of March 4, 1915 (38 Stat. 1084, as amended; 31 U.S.C. 686) \[31 U.S.C. 1535\].
 
-Sec. 5. <i>Powers and Duties of the Federal Service Impasses Panel</i>. (a) There is hereby established the FederalService Impasses Panel as a distinct organizational entity within the Authority. The Panel consists of at least three members appointed by the President, one of whom he designates as chairman. The Authority shall provide the services and staff assistance needed by the Panel.
+Sec. 5. <i>Powers and Duties of the Federal Service Impasses Panel</i>. (a) There is hereby established the Federal Service Impasses Panel as a distinct organizational entity within the Authority. The Panel consists of at least three members appointed by the President, one of whom he designates as chairman. The Authority shall provide the services and staff assistance needed by the Panel.
 
 (b) The Panel may consider negotiation impasses as provided in section 17 of this Order and may take any action it considers necessary to settle an impasse.
 
@@ -222,7 +222,7 @@ Sec. 10. <i>Exclusive recognition</i>. (a) An agency shall accord exclusive reco
 
 #### Agreements
 
-Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, to assist in such negotiation; and execute a written agreement or memorandum of understanding.
+Sec. 11. <i>Negotiation of agreements</i>. (a) An agency and a labor organization that has been accorded exclusive recognition, through appropriate representatives, shall meet at reasonable times and confer in good faith with respect to personnel policies and practices and matters affecting working conditions, so far as may be appropriate under applicable laws and regulations, including policies set forth in the Federal Personnel Manual; published agency policies and regulations for which a compelling need exists under criteria established by the Federal Labor Relations Authority and which are issued at the agency headquarters level or at the level of a primary national subdivision; a national or other controlling agreement at a higher level in the agency; and this order. They may negotiate an agreement, or any question arising thereunder; determine appropriate techniques, consistent with section 17 of this order, toassist in such negotiation; and execute a written agreement or memorandum of understanding.
 
 (b) In prescribing regulations relating to personnel policies and practices and working conditions, an agency shall have due regard for the obligation imposed by paragraph (a) of this section. However, the obligation to meet and confer does not include matters with respect to the mission of an agency; its budget; its organization; the number of employees; and the numbers, types, and grades of positions or employees assigned to an organizational unit, work project or tour of duty; the technology of performing its work; or its internal security practices. This does not preclude the parties from negotiating agreements providing appropriate arrangements for employees adversely affected by the impact of realignment of work forces or technological change.
 
@@ -374,99 +374,7 @@ Sec. 26. <i>Effective date</i>. This Order is effective on January 1, 1970, exce
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
 
-#### Ex. Ord. No. 12871. Labor-Management Partnerships
+#### Executive Order No. 12871
 
-Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R. 66855; Ex. Ord. No. 13156, §1, May 17, 2000, 65 F.R. 31785, provided:
-
-The involvement of Federal Government employees and their union representatives is essential to achieving the National Performance Review's Government reform objectives. Only by changing the nature of Federal labor-management relations so that managers, employees, and employees’ elected union representatives serve as partners will it be possible to design and implement comprehensive changes necessary to reform Government. Labor-management partnerships will champion change in Federal Government agencies to transform them into organizations capable of delivering the highest quality services to the American people.
-
-By the authority vested in me as President by the Constitution and the laws of the United States, including section 301 of title 3, United States Code, and in order to establish a new form of labor-management relations throughout the executive branch to promote the principles and recommendations adopted as a result of the National Performance Review, it is hereby ordered:
-
-Section 1.
-
-The National Partnership Council. (a) <i>Establishment and Membership</i>. There is established the National Partnership Council (“Council”). The Council shall comprise the following members appointed by the President:
-
-(1) Director of the Office of Personnel Management (“OPM”);
-
-(2) Deputy Secretary of Labor;
-
-(3) Deputy Director for Management, Office of Management and Budget;
-
-(4) Chair, Federal Labor Relations Authority;
-
-(5) Federal Mediation and Conciliation Director;
-
-(6) President, American Federation of Government Employees, AFL–CIO;
-
-(7) President, National Federation of Federal Employees;
-
-(8) President, National Treasury Employees Union;
-
-(9) Secretary-Treasurer of the Public Employees Department, AFL–CIO;
-
-(10) A deputy Secretary or other officer with department- or agency-wide authority from three executive departments or agencies (hereafter collectively “agency”), not otherwise represented on the Council; and
-
-(11) one elected office holder each from both the Senior Executives Association and the Federal Managers Association.
-
-Members shall have 2-year terms on the Council, which may be extended by the President.
-
-(b) <i>Responsibilities and Functions</i>. The Council shall advise the President on matters involving labor-management relations in the executive branch. Its activities shall include:
-
-(1) supporting the creation of labor-management partnerships and promoting partnership efforts in the executive branch, to the extent permitted by law;
-
-(2) proposing to the President by January 1994 statutory changes necessary to achieve the objectives of this order, including legislation consistent with the National Performance Review's recommendations for the creation of a flexible and responsive hiring system and the reform of the General Schedule classification system;
-
-(3) collecting and disseminating information about, and providing guidance on, partnership efforts in the executive branch, including results achieved, to the extent permitted by law;
-
-(4) utilizing the expertise of individuals both within and outside the Federal Government to foster partnership arrangements;
-
-(5) working with the President's Management Council toward reform consistent with the National Performance Review's recommendations throughout the executive branch; and
-
-(6) reporting to the President by October 1996 on the progress of and results achieved through labor-management partnership throughout the executive branch.
-
-(c) <i>Administration</i>. (1) The President shall designate a member of the Council who is a full-time Federal employee to serve as Chairperson. The responsibilities of the Chairperson shall include scheduling meetings of the Council.
-
-(2) The Council shall seek input from nonmember Federal agencies, particularly smaller agencies. It also may, from time to time, invite experts from the private and public sectors to submit information. The Council shall also seek input from Federal manager and professional associations, companies, nonprofit organizations, State and local governments. Federal employees, and customers of Federal services, as needed.
-
-(3) To the extent permitted by law and subject to the availability of appropriations, OPM shall provide such facilities, support, and administrative services to the Council as the Director of OPM deems appropriate.
-
-(4) Members of the Council shall serve without compensation for their work on the Council, but may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law, for persons serving intermittently in Government service.
-
-(5) All agencies shall, to the extent permitted by law, provide to the Council such assistance, information, and advice as the Council may request.
-
-(d) <i>General</i>. (1) I have determined that the Council shall be established in compliance with the Federal Advisory Committee Act, as amended (5 U.S.C. App.).
-
-(2) Notwithstanding any other executive order, the functions of the President under the Federal Advisory Committee Act, as amended, except that of reporting to the Congress, that are applicable to the Council, shall be performed by the Director of OPM, in accordance with guidelines and procedures issued by the Administrator of General Services.
-
-(3) The Council shall exist for a period of 2 years from the date of this order, unless extended.
-
-(4) Members of the Council who are not otherwise officers or employees of the Federal Government shall serve in a representative capacity and shall not be considered special Government employees for any purpose.
-
-Sec. 2.
-
-Implementation of Labor-Management Partnerships Throughout the Executive Branch. The head of each agency subject to the provisions of chapter 71 of title 5, United States Code shall:
-
-(a) create labor-management partnerships by forming labor-management committees or councils at appropriate levels, or adapting existing councils or committees if such groups exist, to help reform Government;
-
-(b) involve employees and their union representatives as full partners with management representatives to identify problems and craft solutions to better serve the agency's customers and mission;
-
-(c) provide systematic training of appropriate agency employees (including line managers, first line supervisors, and union representatives who are Federal employees) in consensual methods of dispute resolution, such as alternative dispute resolution techniques and interest-based bargaining approaches;
-
-(d) negotiate over the subjects set forth in 5 U.S.C. 7106(b)(1), and instruct subordinate officials to do the same; and
-
-(e) evaluate progress and improvements in organizational performance resulting from the labor-management partnerships.
-
-Sec. 3.
-
-No Administrative or Judicial Review. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Extension of Term of National Partnership Council
-
-Term of the National Partnership Council extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
-
-Term of the National Partnership Council extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(c), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
-
-Term of the National Partnership Council extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Ex. Ord. No. 12871, Oct. 1, 1993, 58 F.R. 52201, as amended by Ex. Ord. No. 12983, Dec. 21, 1995, 60 F.R. 66855; Ex. Ord. No. 13156, §1, May 17, 2000, 65 F.R. 31785, which established the National Partnership Council and required the head of certain Government agencies to implement labor-management partnerships to help reform Government, was revoked by Ex. Ord. No. 13203, Feb. 17, 2001, 66 F.R. 11227.
 

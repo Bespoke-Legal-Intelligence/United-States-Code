@@ -66,7 +66,7 @@ Each plan for child welfare services under this subpart shall—
 
 &emsp;(12) contain assurances that the State shall develop plans for the effective use of cross-jurisdictional resources to facilitate timely adoptive or permanent placements for waiting children;
 
-&emsp;(13) contain a description of the activities that the State has undertaken for children adopted from other countries, including the provision of adoption and post-adoption services; and
+&emsp;(13) contain a description of the activities that the State has undertaken for children adopted from other countries, including theprovision of adoption and post-adoption services; and
 
 &emsp;(14) provide that the State shall collect and report information on children who are adopted from other countries and who enter into State custody as a result of the disruption of a placement for adoption or the dissolution of an adoption, including the number of children, the agencies who handled the placement or adoption, the plans for the child, and the reasons for the disruption or dissolution.
 
@@ -174,7 +174,7 @@ Section 13711(c) of Pub. L. 103–66 provided that: “The amendments made by th
 
 #### Effective Date of 1989 Amendment
 
-Section 10403(b)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall take effect as if such amendment had been included in section 1883(e)(1) of the Tax Reform Act of 1986 \[Pub. L. 99–514, amending section 1397b of this title\] on the date of the enactment of such Act \[Oct. 22, 1986\].”
+Section 10403(b)(2) of Pub. L. 101–239 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if such amendment had been included in section 1883(e)(1) of the Tax Reform Act of 1986 \[Pub. L. 99–514, amending section 1397b of this title\] on the date of the enactment of such Act \[Oct. 22, 1986\].”
 
 #### Effective Date of 1975 Amendment
 

@@ -6,17 +6,21 @@ In General.—Except as otherwise provided in this section, reexamination shall 
 
 (b)
 
-Response.—(1) This subsection shall apply to any inter partes reexamination proceeding in which the order for inter partes reexamination is based upon a request by a third-party requester.
+Response.—(1) With the exception of the inter partes reexamination request, any document filed by either the patent owner or the third-party requester shall be served on the other party. In addition, the Office shall send to the third-party requester a copy of any communication sent by the Office to the patent owner concerning the patent subject to the inter partes reexamination proceeding.
 
-(2) With the exception of the inter partes reexamination request, any document filed by either the patent owner or the third-party requester shall be served on the other party. In addition, the third-party requester shall receive a copy of any communication sent by the Office to the patent owner concerning the patent subject to the inter partes reexamination proceeding.
-
-(3) Each time that the patent owner files a response to an action on the merits from the Patent and Trademark Office, the third-party requester shall have one opportunity to file written comments addressing issues raised by the action of the Office or the patent owner's response thereto, if those written comments are received by the Office within 30 days after the date of service of the patent owner's response.
+(2) Each time that the patent owner files a response to an action on the merits from the Patent and Trademark Office, the third-party requester shall have one opportunity to file written comments addressing issues raised by the action of the Office or the patent owner's response thereto, if those written comments are received by the Office within 30 days after the date of service of the patent owner's response.
 
 (c)
 
 Special Dispatch.—Unless otherwise provided by the Director for good cause, all inter partes reexamination proceedings under this section, including any appeal to the Board of Patent Appeals and Interferences, shall be conducted with special dispatch within the Office.
 
-(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–568.)
+(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–568; amended Pub. L. 107–273, div. C, title III, §13202(a)(3), (c)(1), Nov. 2, 2002, 116 Stat. 1901, 1902.)
+
+#### Amendments
+
+2002—Pub. L. 107–273, §13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+
+Subsec. (b). Pub. L. 107–273, §13202(a)(3), redesignated par. (2) as (1), substituted “the Office shall send to the third-party requester a copy” for “the third-party requester shall receive a copy”, redesignated par. (3) as (2), and struck out former par. (1) which read as follows: “This subsection shall apply to any inter partes reexamination proceeding in which the order for inter partes reexamination is based upon a request by a third-party requester.”
 
 #### Section Referred to in Other Sections
 

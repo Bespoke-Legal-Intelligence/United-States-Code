@@ -2,7 +2,7 @@
 
 #### (a) Effective date of final regulations
 
-No final regulation of the Secretary shall become effective prior to the expiration of thirty calendar days after it is published in the Federal Register during which either or both Houses of Congress are in session.
+No final regulation of the Secretary shall become effective prior to the expiration of thirtycalendar days after it is published in the Federal Register during which either or both Houses of Congress are in session.
 
 #### (b) Disapproval of regulation by resolution of Congress
 
@@ -40,7 +40,7 @@ Pub. L. 106–208, §5(a)(12), which directed the amendment of subsec. (c) by su
 
 Subsecs. (d) to (f). Pub. L. 106–208, §5(a)(13), redesignated subsecs. (d) to (f) as (c) to (e), respectively.
 
-1996—Subsec. (a). Pub. L. 104–333, §814(d)(2)(E), as amended by Pub. L. 106–176, struck out first two sentences which read as follows: “At least thirty daysprior to publishing in the Federal Register any proposed regulation required by this subchapter, the Secretary shall transmit a copy of the regulation to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The Secretary also shall transmit to such committees a copy of any final regulation prior to its publication in the Federal Register.”
+1996—Subsec. (a). Pub. L. 104–333, §814(d)(2)(E), as amended by Pub. L. 106–176, struck out first two sentences which read as follows: “At least thirty days prior to publishing in the Federal Register any proposed regulation required by this subchapter, the Secretary shall transmit a copy of the regulation to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate. The Secretary also shall transmit to such committees a copy of any final regulation prior to its publication in the Federal Register.”
 
 Subsec. (b). Pub. L. 104–333, §814(d)(1)(O), struck out subsec. (b) which read as follows: “In the case of an emergency, a final regulation of the Secretary may become effective without regard to the last sentence of subsection (a) of this section if the Secretary notified in writing the Committee on Natural Resources of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate setting forth the reasons why it is necessary to make the regulation effective prior to the expiration of the thirty-day period.”
 

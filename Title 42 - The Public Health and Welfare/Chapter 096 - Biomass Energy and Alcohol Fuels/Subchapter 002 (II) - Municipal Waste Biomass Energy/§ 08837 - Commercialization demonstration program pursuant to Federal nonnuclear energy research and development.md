@@ -16,7 +16,7 @@
 
 &emsp;(D) the evaluation of municipal waste energy projects for the purpose of developing a base of engineering data that can be used in the design of future municipal waste energy projects to recover energy from municipal wastes; and
 
-&emsp;(E) research studies on the size and other significant characteristics of potential markets for municipal waste-to-energy recoverytechnologies, and recovered energy, and energy intensive materials.
+&emsp;(E) research studies on the size and other significant characteristics of potential markets for municipal waste-to-energy recovery technologies, and recovered energy, and energy intensive materials.
 
 #### (b) Financial assistance
 

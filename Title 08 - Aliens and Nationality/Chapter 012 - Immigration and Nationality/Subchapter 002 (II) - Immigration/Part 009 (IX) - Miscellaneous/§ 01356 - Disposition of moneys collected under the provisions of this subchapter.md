@@ -34,7 +34,7 @@ In addition to any other fee authorized by law, the Attorney General shall charg
 
 &emsp;(B) for whom immigration inspection services are not provided.
 
-(3) The Attorney General is authorized to charge and collect $3 per individual for the immigration inspection or pre-inspection of each commercial vessel passenger whose journey originated in the United States or in any place set forth in paragraph (1): <i>Provided</i>, That this authorization shall not apply to immigration inspection at designated ports of entry of passengers arriving by the following vessels, when operating on a regular schedule: Great Lakes international ferries, or Great Lakes Vessels on the Great Lakes and connecting waterways.
+(3) The Attorney General shall charge and collect $3 per individual for the immigration inspection or pre-inspection of each commercial vessel passenger whose journey originated in the United States or in any place set forth in paragraph (1): <i>Provided</i>, That this requirement shall not apply to immigration inspection at designated ports of entry of passengers arriving by the following vessels, when operating on a regular schedule: Great Lakes international ferries, or Great Lakes Vessels on the Great Lakes and connecting waterways.
 
 #### (f) Collection
 
@@ -52,11 +52,11 @@ In addition to any other fee authorized by law, the Attorney General shall charg
 
 > the person providing transportation to such passenger shall collect such fee at the time such passenger departs from the United States and shall provide such passenger a receipt for the payment of such fee.
 
-(3) The person who collects fees under paragraph (1) or (2) shall remit those fees to the Attorney General at any time before the date that is thirty-one days after the close of the calendar quarter in which the fees are collected, except the fourth quarter payment for fees collected from airline passengers shall be made on the date that is ten days before the end of the fiscal year, and the first quarter payment shall include any collections made in the preceding quarter that were not remitted with the previous payment. Regulations issued by the Attorney General under this subsection with respect to the collection of the fees charged under subsection (d) of this section and the remittance of such fees to the Treasury of the United States shall be consistent with the regulations issued by the Secretary of the Treasury for the collection and remittance of the taxes imposed by subchapter C of chapter 33 of title 26, but only to the extent the regulations issued with respect to such taxes do not conflict with the provisions of this section.
+(3) The person who collects fees under paragraph (1) or (2) shall remit those fees to the Attorney General at any time before the date that is thirty-one days after the close of the calendar quarter in which the fees are collected, except the fourth quarter payment for fees collected from airline passengers shall be made on the date that is ten days before the end of the fiscal year, and the first quarter payment shall include any collections made in the preceding quarter that were not remitted with the previous payment. Regulations issued by the Attorney General under this subsection with respect to the collection of the fees charged under subsection (d) of this section and the remittance of such fees to the Treasury of the United States shall be consistent with the regulations issuedby the Secretary of the Treasury for the collection and remittance of the taxes imposed by subchapter C of chapter 33 of title 26, but only to the extent the regulations issued with respect to such taxes do not conflict with the provisions of this section.
 
 #### (g) Provision of immigration inspection and preinspection services
 
-Notwithstanding section 1353b of this title, or any other provision of law, the immigration services required to be provided to passengers upon arrival in the United States on scheduled airline flights shall be adequately provided, within forty-five minutes of their presentation for inspection, when needed and at no cost (other than the fees imposed under subsection (d) of this section) to airlines and airline passengers at:
+Notwithstanding section 1353b of this title, or any other provision of law, the immigration services required to be provided to passengers upon arrival in the United States on scheduled airline flights shall be adequately provided when needed and at no cost (other than the fees imposed under subsection (d) of this section) to airlines and airline passengers at:
 
 &emsp;(1) immigration serviced airports, and
 
@@ -96,7 +96,7 @@ The Attorney General may prescribe such rules and regulations as may be necessar
 
 #### (k) Advisory committee
 
-In accordance with the provisions of the Federal Advisory Committee Act, the Attorney General shall establish an advisory committee, whose membership shall consist of representatives from the airline and other transportation industries who may be subject to any fee or charge authorized by law or proposed by the Immigration and Naturalization Service for the purpose of covering expenses incurred by the Immigration and Naturalization Service. The advisory committee shall meet on a periodic basis and shall advise the Attorney General on issues related to the performance of the inspectional services of the Immigration and Naturalization Service. This advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Attorney General shall give substantial consideration to the views of the advisory committee in the exercise of his duties.
+In accordance with the provisions of the Federal Advisory Committee Act, the Attorney General shall establish an advisory committee, whose membership shall consist of representatives from the airline and other transportation industries who may be subject to any fee or charge authorized by law or proposed by the Immigration and Naturalization Service for the purpose of covering expenses incurred by the Immigration and Naturalization Service. The advisory committee shall meet on a periodic basis and shall advise the Attorney General on issues related to the performance of the inspectionalservices of the Immigration and Naturalization Service. This advice shall include, but not be limited to, such issues as the time periods during which such services should be performed, the proper number and deployment of inspection officers, the level of fees, and the appropriateness of any proposed fee. The Attorney General shall give substantial consideration to the views of the advisory committee in the exercise of his duties.
 
 #### (<i>l</i>) Report to Congress
 
@@ -104,7 +104,7 @@ In addition to the reporting requirements established pursuant to subsection (h)
 
 #### (m) Immigration Examinations Fee Account
 
-Notwithstanding any other provisions of law, all adjudication fees as are designated by the Attorney General in regulations shall be deposited as offsetting receipts into a separate account entitled “Immigration Examinations Fee Account” in the Treasury of the United States, whether collected directly by the Attorney General or through clerks of courts: <i>Provided, however</i>, That all fees received by the Attorney General from applicants residing in the Virgin Islands of the United States, and in Guam, under this subsection shall be paid over to the treasury of the Virgin Islands and to the treasury of Guam: <i>Provided further</i>, That fees for providing adjudication and naturalization services may be set at a level that will ensure recovery of the full costs of providing all such services, including the costs of similar services provided without charge to asylum applicants or other immigrants. Such fees may also be set at a level that will recover any additional costs associated with the administration of the fees collected.
+Notwithstanding any other provisions of law, all adjudication fees as are designated by the Attorney General in regulations shall be deposited as offsetting receipts into a separate account entitled “Immigration Examinations Fee Account” in the Treasury of the United States, whether collected directly by the Attorney General or through clerks of courts: <i>Provided, however</i>, That all fees received by the Attorney General from applicants residing in the Virgin Islands of the United States, and in Guam, under this subsection shall be paid over to the treasury of the Virgin Islands and to the treasury of Guam: <i>Provided further</i>, That fees for providing adjudication and naturalization services may be set at a level that will ensure recovery of the full costs of providing all such services. Such fees may also be set at a level that will recover any additional costs associated with the administration of the fees collected.
 
 #### (n) Reimbursement of administrative expenses; transfer of deposits to General Fund of United States Treasury
 
@@ -128,7 +128,7 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 (B) The Attorney General, in consultation with the Secretary of the Treasury, may conduct pilot projects to demonstrate the use of designated ports of entry after working hours through the use of card reading machines or other appropriate technology.
 
-(2) All of the fees collected under this subsection shall be deposited as offsetting receipts in a separate account within the general fund of the Treasury of the United States, to remain available until expended. Such account shall be known as the Land Border Inspection Fee Account.
+(2) All of the fees collected under this subsection, including receipts for services performed in processing forms I–94, I–94W, and I–68, and other similar applications processed at land border ports of entry, shall be deposited as offsetting receipts in a separate account within the general fund of the Treasury of the United States, to remain available until expended. Such account shall be known as the Land Border Inspection Fee Account.
 
 (3)(A) The Secretary of the Treasury shall refund, at least on a quarterly basis amounts to any appropriations for expenses incurred in providing inspection services at land border points of entry. Such expenses shall include—
 
@@ -210,7 +210,7 @@ The provisions set forth in subsections (m), (n), and (<i>o</i>) of this section
 
 The Attorney General is authorized to establish and collect a premium fee for employment-based petitions and applications. This fee shall be used to provide certain premium-processing services to business customers, and to make infrastructure improvements in the adjudications and customer-service processes. For approval of the benefit applied for, the petitioner/applicant must meet the legal criteria for such benefit. This fee shall be set at $1,000, shall be paid in addition to any normal petition/application fee that may be applicable, and shall be deposited as offsetting collections in the Immigration Examinations Fee Account. The Attorney General may adjust this fee according to the Consumer Price Index.
 
-(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765.)
+(June 27, 1952, ch. 477, title II, ch. 9, §286, 66 Stat. 232; Pub. L. 97–116, §13, Dec. 29, 1981, 95 Stat. 1618; Pub. L. 99–500, §101(b) \[title II, §205(a), formerly §205\], Oct. 18, 1986, 100 Stat. 1783–39, 1783–53, renumbered §205(a), Pub. L. 100–525, §4(a)(2)(A), Oct. 24, 1988, 102 Stat. 2615; Pub. L. 99–591, §101(b) \[title II, §205\], Oct. 30, 1986, 100 Stat. 3341–39, 3341–53; Pub. L. 99–653, §7(d)(1), Nov. 14, 1986, as added Pub. L. 100–525, §8(f), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 100–71, title I, §1, July 11, 1987, 101 Stat. 394; Pub. L. 100–459, title II, §209(a), Oct. 1, 1988, 102 Stat. 2203; Pub. L. 100–525, §4(a)(1), (d), Oct. 24, 1988, 102 Stat. 2614, 2615; Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 1000; Pub. L. 101–515, title II, §210(a), (d), Nov. 5, 1990, 104 Stat. 2120, 2121; Pub. L. 102–232, title III, §309(a)(1)(A)(i), (B), (2), (b)(12), Dec. 12, 1991, 105 Stat. 1757–1759; Pub. L. 102–395, title I, §112, Oct. 6, 1992, 106 Stat. 1843; Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161; Pub. L. 103–416, title II, §219(t), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–208, div. C, title I, §§122(a), 124(a)(1), title III, §§308(d)(3)(A), (4)(K), (e)(1)(L), (g)(1), 376(b), 382(b), title VI, §671(b)(11), (e)(5), (6), Sept. 30, 1996, 110 Stat. 3009–560, 3009–562, 3009–617 to 3009–619, 3009–622, 3009–648, 3009–651, 3009–722, 3009–723; Pub. L. 105–119, title I, §110(1), (2), Nov. 26, 1997, 111 Stat. 2457; Pub. L. 105–277, div. A, §101(b) \[title I, §114\], div. C, title IV, §414(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–68, 2681–652; Pub. L. 106–113, div. B, §1000(a)(1) \[title I, §118\], Nov. 29, 1999, 113 Stat. 1535, 1501A–22; Pub. L. 106–313, title I, §§110(a), 113, Oct. 17, 2000, 114 Stat. 1255, 1261; Pub. L. 106–553, §1(a)(2) \[title I, §112\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 106–554, §1(a)(1) \[title I, §106\], Dec. 21, 2000, 114 Stat. 2763, 2763A–11; Pub. L. 107–77, title I, §§109, 110, Nov. 28, 2001, 115 Stat. 765; Pub. L. 107–173, title IV, §403(a), May 14, 2002, 116 Stat. 559; Pub. L. 107–206, title I, §202, Aug. 2, 2002, 116 Stat. 832; Pub. L. 107–273, div. C, title I, §11016(2), Nov. 2, 2002, 116 Stat. 1824; Pub. L. 107–296, title IV, §457, Nov. 25, 2002, 116 Stat. 2201.)
 
 #### References in Text
 
@@ -221,6 +221,14 @@ The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–
 Section 606 of Public Law 101–162, referred to in subsec. (q)(3)(B), is section 606 of Pub. L. 101–162, title VI, Nov. 21, 1989, 103 Stat. 1031, which is not classified to the Code.
 
 #### Amendments
+
+2002—Subsec. (e)(3). Pub. L. 107–206 substituted “shall” for “is authorized to” and “requirement” for “authorization”.
+
+Subsec. (g). Pub. L. 107–173 struck out “, within forty-five minutes of their presentation for inspection,” after “adequately provided” in introductory provisions.
+
+Subsec. (m). Pub. L. 107–296 substituted “such services.” for “such services, including the costs of similar services provided without charge to asylum applicants or other immigrants.”
+
+Subsec. (q)(2). Pub. L. 107–273 inserted “, including receipts for services performed in processing forms I–94, I–94W, and I–68, and other similar applications processed at land border ports of entry,” after “subsection”.
 
 2001—Subsec. (d). Pub. L. 107–77, §109(1), substituted “$7” for “$6”.
 
@@ -408,6 +416,10 @@ Pub. L. 99–591, §101(b) \[title II, §205\], a corrected version of Pub. L. 9
 
 1981—Subsecs. (b), (c). Pub. L. 97–116 added subsec. (b), redesignated former subsec. (b) as (c), and inserted “and subsection (b)” after “subsection (a)”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date of 1996 Amendment
 
 Section 124(a)(2) of div. C of Pub. L. 104–208 provided that: “The amendments made by paragraph (1) \[amending this section\] shall apply to expenses incurred during or after fiscal year 1997.”
@@ -452,9 +464,13 @@ Pub. L. 99–500, §101(b) \[title II, §205(b)\], as added by Pub. L. 100–525
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment,unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Reporting Requirement
 
@@ -484,7 +500,7 @@ Pub. L. 103–121, title I, Oct. 27, 1993, 107 Stat. 1161, as amended by Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1158, 1184, 1187, 1255, 1372, 1455 of this title; title 29 section 2916a; title 42 section 1869c.
+This section is referred to in sections 1158, 1184, 1187, 1255, 1372, 1455, 1752 of this title; title 6 section 296; title 29 section 2916a; title 42 section 1869c.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -18,7 +18,7 @@ An application for a grant shall be made at such time or times, and contain such
 
 &emsp;(5) sets forth clear and practicable actions for the improvement of particular aspects of personnel administration such as—
 
-&emsp;&emsp;(A) establishment of statewide personnel systems of general or special functional coverage to meet the needs of urban, suburban, or rural governmental jurisdictions that are not able to provide sound career services, opportunities for advancement, adequate retirement and leave systems, and other career inducements to well-qualified professional, administrative, and technical personnel;
+&emsp;&emsp;(A) establishment of statewide personnel systems of general or special functional coverage to meet the needs of urban, suburban,or rural governmental jurisdictions that are not able to provide sound career services, opportunities for advancement, adequate retirement and leave systems, and other career inducements to well-qualified professional, administrative, and technical personnel;
 
 &emsp;&emsp;(B) making State grants to local governments to strengthen their staffs by improving their personnel administration;
 

@@ -1,6 +1,6 @@
 ### §57c. Authorization of appropriations
 
-There are authorized to be appropriated to carry out the functions, powers, and duties of the Commission not to exceed $92,700,000 for fiscal year 1994; not to exceed $99,000,000 for fiscal year 1995; not to exceed $102,000,000 for fiscal year 1996; not to exceed $107,000,000 for fiscal year 1997; and not to exceed $111,000,000 for fiscal year 1998.
+There are authorized to be appropriated to carry out the functions, powers, and duties ofthe Commission not to exceed $92,700,000 for fiscal year 1994; not to exceed $99,000,000 for fiscal year 1995; not to exceed $102,000,000 for fiscal year 1996; not to exceed $107,000,000 for fiscal year 1997; and not to exceed $111,000,000 for fiscal year 1998.
 
 (Sept. 26, 1914, ch. 311, §25, formerly §20, as added Pub. L. 93–367, title II, §207, Jan. 4, 1975, 88 Stat. 2203; amended Pub. L. 94–299, §1, May 29, 1976, 90 Stat. 588; renumbered §24 and amended Pub. L. 96–252, §§13, 17, May 28, 1980, 94 Stat. 380, 391; renumbered §25 and amended Pub. L. 103–312, §§2, 14, Aug. 26, 1994, 108 Stat. 1691, 1697; Pub. L. 104–216, §2, Oct. 1, 1996, 110 Stat. 3019.)
 

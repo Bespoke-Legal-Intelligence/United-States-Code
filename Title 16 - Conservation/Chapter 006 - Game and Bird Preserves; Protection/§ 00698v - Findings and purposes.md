@@ -4,7 +4,7 @@
 
 Congress finds that—
 
-&emsp;(1) the Baca ranch comprises most of the Valles Caldera in central New Mexico, and constitutes a unique land mass, with significant scientific, cultural, historic, recreational,ecological, wildlife, fisheries, and productive values;
+&emsp;(1) the Baca ranch comprises most of the Valles Caldera in central New Mexico, and constitutes a unique land mass, with significant scientific, cultural, historic, recreational, ecological, wildlife, fisheries, and productive values;
 
 &emsp;(2) the Valles Caldera is a large resurgent lava dome with potential geothermal activity;
 
@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) historical evidence, in the form of old logging camps and other artifacts, and the history of territorial New Mexico indicate the importance of this land over many generations for domesticated livestock production and timber supply;
 
-&emsp;(5) the careful husbandry of the Baca ranch by the current owners, including selective timbering, limited grazing and hunting, and the use of prescribed fire, have preserved a mix of healthy range and timber land with significant species diversity, thereby serving as a model for sustainable land development and use;
+&emsp;(5) the careful husbandry of the Baca ranch by the current owners, including selective timbering, limited grazing and hunting, andthe use of prescribed fire, have preserved a mix of healthy range and timber land with significant species diversity, thereby serving as a model for sustainable land development and use;
 
 &emsp;(6) the Baca ranch's natural beauty and abundant resources, and its proximity to large municipal populations, could provide numerous recreational opportunities for hiking, fishing, camping, cross-country skiing, and hunting;
 

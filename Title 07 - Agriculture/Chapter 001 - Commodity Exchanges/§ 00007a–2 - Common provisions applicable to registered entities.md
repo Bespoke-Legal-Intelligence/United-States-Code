@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;A contract market or derivatives transaction execution facility may comply with any applicable core principle through delegation of any relevant function to a registered futures association or another registered entity.
+&emsp;A contract market or derivatives transaction execution facility may comply withany applicable core principle through delegation of any relevant function to a registered futures association or another registered entity.
 
 #### (2) Responsibility
 

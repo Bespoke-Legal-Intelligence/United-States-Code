@@ -60,7 +60,7 @@ Section 101 of title I of Pub. L. 98–373 provided that: “This title \[enacti
 
 #### Ex. Ord. No. 12501. Arctic Research
 
-Ex. Ord. No. 12501, Jan. 28, 1985, 50 F.R. 4191, provided:
+Ex. Ord. No. 12501, Jan. 28, 1985, 50 F.R. 4191, as amended by Ex. Ord. No. 13286, §45, Feb. 28, 2003, 68 F.R. 10627, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Arctic Research and Policy Act of 1984 (Title I of Public Law 98–373) (“the Act”) \[15 U.S.C. 4101 et seq.\], it is hereby ordered as follows:
 
@@ -108,7 +108,7 @@ Sec. 4. <i>Functions of the Commission</i>. (a) The Commission shall:
 
 Sec. 5. <i>Responsibilities of Federal Agencies</i>. (a) The heads of Executive agencies shall, to the extent permitted by law, and in accordance with Section 105 of the Act \[15 U.S.C. 4104\], provide the Commission such information as it may require for purposes of carrying out its functions.
 
-(b) The heads of Executive agencies shall, upon reimbursement to be agreed upon by the Commission and the agency head, permit the Commission to utilize their facilities and services to the extent that the facilities and services are needed for the establishment and development of an Arctic research policy. The Commission shall take every feasible step to avoid duplication of effort.
+(b) The heads of Executive agencies shall, upon reimbursement to be agreed upon by the Commission and the agency head, permit the Commission to utilizetheir facilities and services to the extent that the facilities and services are needed for the establishment and development of an Arctic research policy. The Commission shall take every feasible step to avoid duplication of effort.
 
 (c) All Federal agencies shall consult with the Commission before undertaking major Federal actions relating to Arctic research.
 
@@ -134,13 +134,15 @@ Sec. 8. <i>Membership of the Interagency Committee</i>. The Interagency Committe
 
 (h) Department of Health and Human Services;
 
-(i) National Aeronautics and Space Administration;
+(i) Department of Homeland Security;
 
-(j) Environmental Protection Agency;
+(j) National Aeronautics and Space Administration;
 
-(k) Office of Science and Technology Policy; and
+(k) Environmental Protection Agency;
 
-(<i>l</i>) any other Executive agency that the Director of the National Science Foundation shall deem appropriate. The Director of the National Science Foundation or his designee shall serve as Chairperson of the Interagency Committee.
+(<i>l</i>) Office of Science and Technology Policy; and
+
+(m) any other Executive agency that the Director of the National Science Foundation shall deem appropriate. The Director of the National Science Foundation or his designee shall serve as Chairperson of the Interagency Committee.
 
 Sec. 9. <i>Functions of the Interagency Committee</i>. (a) The Interagency Committee shall:
 
@@ -164,7 +166,7 @@ Sec. 9. <i>Functions of the Interagency Committee</i>. (a) The Interagency Commi
 
 (6) facilitate cooperation between the Federal government and State and local governments in Arctic research, and recommend the undertaking of neglected areas of research;
 
-(7) coordinate and promote cooperative Arctic scientific research programs with other nations, subjectto the foreign policy guidance of the Secretary of State;
+(7) coordinate and promote cooperative Arctic scientific research programs with other nations, subject to the foreign policy guidance of the Secretary of State;
 
 (8) cooperate with the Governor of the State of Alaska in fulfilling its responsibilities under the Act; and
 
@@ -183,6 +185,4 @@ Sec. 9. <i>Functions of the Interagency Committee</i>. (a) The Interagency Commi
 Sec. 10. <i>Public Participation</i>. The Interagency Committee will provide public notice of its meetings and an opportunity for the public to participate in the development and implementation of national Arctic research policy.
 
 Sec. 11. <i>Administration of Interagency Committee</i>. Each agency represented on the Committee shall, to the extent permitted by law and subject to the availability of funds, provide the Committee with such administrative services, facilities, staff, and other support services as may be necessary for effective performance of its functions.
-
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

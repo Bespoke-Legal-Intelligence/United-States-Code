@@ -24,7 +24,7 @@ On November 12, 1996, the Secretary shall review and revise the existing criteri
 
 #### (4) Submission of report
 
-A report detailing the results of the revisions required by paragraph (3) shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 180 days after November 12, 1996. The report shall include justifications for keeping, or for changing, each of the criteria or factors used by the Department of the Interior with regard to the provision of housing to employees of the National Park Service.
+A report detailing the results of the revisions required by paragraph (3) shall be submitted to the Committee on Resources of the House of Representatives and the Committee on Energy and Natural Resources of the Senate not later than 180 days after November 12, 1996. The report shall include justifications for keeping, or forchanging, each of the criteria or factors used by the Department of the Interior with regard to the provision of housing to employees of the National Park Service.
 
 #### (5) Review of condition of and costs relating to housing
 
@@ -96,7 +96,7 @@ The Secretary may use authorities granted by statute in combination with one ano
 
 #### (A) General authority
 
-&emsp;Subject to the appropriation of necessary funds in advance, the Secretary may enter into contracts of any duration for the management, repair, and maintenance of field employee quarters.
+&emsp;Subject to the appropriation of necessary funds in advance, the Secretary may enterinto contracts of any duration for the management, repair, and maintenance of field employee quarters.
 
 #### (B) Terms and conditions
 
@@ -156,7 +156,7 @@ Within 18 months of November 12, 1996, the Secretary shall complete a study of t
 
 #### (C) Exemption from leasing requirements
 
-&emsp;The provisions of section 460<i>l</i>–22 of this title and section 303b of title 40 shall not apply to leases issued by the Secretary under this section.
+&emsp;The provisions of section 460<i>l</i>–22 of this title and section 1302 of title 40 shall not apply to leases issued by the Secretary under this section.
 
 #### (18) Proceeds
 
@@ -185,6 +185,10 @@ For purposes of this section:
 #### References in Text
 
 This section, referred to in pars. (1), (6), (13), and (17)(A), (C), means section 814 of title VIII of div. I of Pub. L. 104–333 which enacted this section and sections 1f and 346e of this title and made numerous amendments to this title. The reference probably should have been “this subsection” meaning subsec. (a) of section 814 which enacted this section.
+
+#### Codification
+
+“Section 1302 of title 40” substituted in par. (17)(C) for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b; 47 Stat. 412)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

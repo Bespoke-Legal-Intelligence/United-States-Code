@@ -8,5 +8,5 @@ And no such restraining order or injunction shall prohibit any person or persons
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 53, 186 of this title; title 18 section 1951; title 42 section 2135; title 47 section 606.
+This section is referred to in sections 53, 186 of this title; title 18 section 1951; title 40 section 559; title 42 section 2135; title 47 section 606.
 

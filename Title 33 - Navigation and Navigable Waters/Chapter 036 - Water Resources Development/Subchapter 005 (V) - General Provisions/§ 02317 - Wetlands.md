@@ -44,7 +44,7 @@ For the project conducted under subsection (b) of this section, the non-Federal 
 
 &emsp;(1) to provide, without cost to the United States, all lands, easements, rights-of-way, relocations, and dredged material disposal areas necessary for construction and subsequent research and demonstration work;
 
-&emsp;(2) to hold and save the United States free from damages due to construction, operation,and maintenance of the project, except damages due to the fault or negligence of the United States or its contractors; and
+&emsp;(2) to hold and save the United States free from damages due to construction, operation, and maintenance of the project, except damages due to the fault or negligence of the United States or its contractors; and
 
 &emsp;(3) to operate and maintain the restored or constructed wetlands in accordance with good management practices; except that nothing in this paragraph shall be construed as precluding a Federal agency from agreeing to operate and maintain the restored or reconstructed wetlands.
 

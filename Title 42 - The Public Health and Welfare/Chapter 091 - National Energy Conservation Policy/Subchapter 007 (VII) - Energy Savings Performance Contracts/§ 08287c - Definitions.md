@@ -14,11 +14,15 @@ For purposes of this subchapter, the following definitions apply:
 
 &emsp;&emsp;(A) may provide for appropriate software licensing agreements; and
 
-&emsp;&emsp;(B) shall, with respect to an agency facility that is a public building as such term is defined in section 612(1) of title 40, be in compliance with the prospectus requirements and procedures of section 606 of title 40.
+&emsp;&emsp;(B) shall, with respect to an agency facility that is a public building as such term is defined in section 3301(a)(5) of title 40, be in compliance with the prospectus requirements and procedures of section 3307 of title 40.
 
 &emsp;(4) The term “energy conservation measures” has the meaning given such term in section 8259(4) of this title.
 
 (Pub. L. 95–619, title VIII, §804, as added Pub. L. 99–272, title VII, §7201(a), Apr. 7, 1986, 100 Stat. 143; amended Pub. L. 102–486, title I, §155(b), Oct. 24, 1992, 106 Stat. 2855; Pub. L. 105–388, §4(b), Nov. 13, 1998, 112 Stat. 3477.)
+
+#### Codification
+
+In par. (3)(B), “section 3301(a)(5) of title 40” substituted for “section 13(1) of the Public Buildings Act of 1959 (40 U.S.C. 612(1))” and “section 3307 of title 40” substituted for “section 7 of the Public Buildings Act of 1959 (40 U.S.C. 606)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -26,7 +30,7 @@ For purposes of this subchapter, the following definitions apply:
 
 1992—Pub. L. 102–486, §155(b)(1), substituted “subchapter, the following definitions apply:” for “subchapter—” in introductory provisions
 
-Par. (1). Pub. L. 102–486, §155(b)(2), substituted “The” for “the” and a period for “, and ” at end.
+Par. (1). Pub. L. 102–486, §155(b)(2), substituted “The” for “the” and a period for “, and” at end.
 
 Par. (2). Pub. L. 102–486, §155(b)(3), substituted “The term” for “the term”.
 

@@ -60,7 +60,7 @@ There is hereby established the Medicare Payment Advisory Commission (in this se
 
 #### (5) Availability of reports
 
-&emsp;The Commission shall transmit to the Secretary a copy of each report submitted underthis subsection and shall make such reports available to the public.
+&emsp;The Commission shall transmit to the Secretary a copy of each report submitted under this subsection and shall make such reports available to the public.
 
 #### (6) Appropriate committees of Congress
 
@@ -150,7 +150,7 @@ Subject to such review as the Comptroller General deems necessary to assure the 
 
 #### (3) Access of GAO to information
 
-&emsp;The Comptroller General shall have unrestricted access to all deliberations, records, and nonproprietary data of the Commission, immediately upon request.
+&emsp;The Comptroller General shall have unrestricted access to all deliberations, records,and nonproprietary data of the Commission, immediately upon request.
 
 #### (4) Periodic audit
 
@@ -210,7 +210,7 @@ Continuing responsibility for reports.—The MedPAC shall be responsible for the
 
 #### MedPAC Analysis of Impact of Volume on Per Unit Cost of Rural Hospitals With Psychiatric Units
 
-Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763, 2763A–486, provided that: “The MedicarePayment Advisory Commission, in its study conducted pursuant to subsection (a) of section 411 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title IV, §411\], set out as a note below\] (113 Stat. 1501A–377), shall include—
+Pub. L. 106–554, §1(a)(6) \[title II, §214\], Dec. 21, 2000, 114 Stat. 2763, 2763A–486, provided that: “The Medicare Payment Advisory Commission, in its study conducted pursuant to subsection (a) of section 411 of BBRA \[Pub. L. 106–113, §1000(a)(6) \[title IV, §411\], set out as a note below\] (113 Stat. 1501A–377), shall include—
 
 &emsp;“(1) in such study an analysis of the impact of volume on the per unit cost of rural hospitals with psychiatric units; and
 
@@ -234,7 +234,7 @@ Report.—Not later than December 31, 2001, the Commission shall submit to Congr
 
 #### MedPAC Report
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §312(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, provided that: “The Medicare Payment Advisory Commission shall include in its report submitted to Congress in March of 2001 recommendations regarding the appropriateness of the initial residency period used under section 1886(h)(5)(F) of the Social Security Act (42 U.S.C. 1395ww(h)(5)(F)) for other residency training programs in a specialty that require preliminary years of study in another specialty.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §312(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–365, provided that:“The Medicare Payment Advisory Commission shall include in its report submitted to Congress in March of 2001 recommendations regarding the appropriateness of the initial residency period used under section 1886(h)(5)(F) of the Social Security Act (42 U.S.C. 1395ww(h)(5)(F)) for other residency training programs in a specialty that require preliminary years of study in another specialty.”
 
 #### MedPAC Study of Rural Providers
 

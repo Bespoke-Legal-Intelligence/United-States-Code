@@ -66,6 +66,10 @@ Amendment by Pub. L. 100–689 effective Jan. 1, 1989, see section 108(c) of Pub
 
 Section 802(d)(1) of Pub. L. 96–466 provided that: “The amendments made by section 401 \[amending this section\] shall take effect as of January 1, 1977.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Enrollment in Program Before April 1, 1987
 
 For provisions for continued eligibility for enrollment in the program established by this chapter until Apr. 1, 1987, of individuals on active duty in the Armed Forces who were eligible therefor on June 30, 1985, and requiring notice of such continued eligibility to affected individuals, see section 309(c), (d) of Pub. L. 99–576, set out as a note under section 3201 of this title.

@@ -10,7 +10,7 @@ The master of any vessel from a foreign port or place, or of a hovering vessel w
 
 #### (c) Penalty for unlawful transshipment to any vessel of United States
 
-The master of any vessel from a foreign port or place, or of a hovering vessel which has received or delivered merchandise while outside the territorial sea, who allows any merchandise (including sea stores) destined to the United States, the importation of which into the United States is prohibited, or which consists of any spirits, wines, or other alcoholic liquors, to be unladen, without permit to unlade, at any place upon the high seas adjacent to the customs waters of the United States, to be transshipped to or placed in or received on any vessel of the United States or any other vessel which is owned by any person a citizen of, or domiciled in, the United States, or any corporation incorporated in the United States, shall be liable to a penalty equal to twice the value of the merchandise but not less than $10,000, and the vessel from which the merchandise is so unladen, and its cargo and such merchandise, shall be seized and forfeited.
+The master of any vessel from a foreign port or place, or of a hovering vessel which has received or delivered merchandise while outside the territorial sea, who allows any merchandise (including sea stores) destined to the United States, the importation of which into the United States is prohibited, or which consists of any spirits, wines, or other alcoholic liquors, to be unladen, without permit to unlade, at any place upon the high seas adjacent to the customs waters of the United States, to be transshipped to or placed in or received on any vessel of the United States or any other vessel which is owned by any person a citizen of, or domiciled in, the United States, or any corporation incorporated in the United States, shall be liable to a penalty equal to twice the value of the merchandise but not less than $10,000, and the vesselfrom which the merchandise is so unladen, and its cargo and such merchandise, shall be seized and forfeited.
 
 #### (d) Liability of master of receiving vessel in unlawful transshipment
 
@@ -53,4 +53,8 @@ Pub. L. 99–570, §3119(2)(B), which directed that “15 years” be substitute
 #### Effective Date of 1970 Amendment
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

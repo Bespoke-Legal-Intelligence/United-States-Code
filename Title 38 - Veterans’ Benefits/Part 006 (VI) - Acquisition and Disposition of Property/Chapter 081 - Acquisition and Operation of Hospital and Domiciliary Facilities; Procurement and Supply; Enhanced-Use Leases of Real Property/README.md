@@ -14,13 +14,14 @@
 | [8108\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008108%20-%20Contributions%20to%20local%20authorities.md) | Contributions to local authorities. |
 | [8109\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008109%20-%20Parking%20facilities.md) | Parking facilities. |
 | [8110\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008110%20-%20Operation%20of%20medical%20facilities.md) | Operation of medical facilities. |
-| [8111\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008111%20-%20Sharing%20of%20Department%20and%20Department%20of%20Defense%20health-care%20resources.md) | Sharing of Department and Department of Defense health-care resources. |
+| [8111\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008111%20-%20Sharing%20of%20Department%20of%20Veterans%20Affairs%20and%20Department%20of%20Defense%20health%20care%20resources.md) | Sharing of Department of Veterans Affairs and Department of Defense health care resources. |
 | [8111A.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008111A%20-%20Furnishing%20of%20health-care%20services%20to%20members%20of%20the%20Armed%20Forces%20during%20a%20war%20or%20national%20emergency.md) | Furnishing of health-care services to members of the Armed Forces during a war or national emergency. |
 | [8112\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008112%20-%20Partial%20relinquishment%20of%20legislative%20jurisdiction.md) | Partial relinquishment of legislative jurisdiction. |
 | [8113\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008113%20-%20Property%20formerly%20owned%20by%20National%20Home%20for%20Disabled%20Volunteer%20Soldiers.md) | Property formerly owned by National Home for Disabled Volunteer Soldiers. |
 | [8114\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008114%20-%20Use%20of%20federally%20owned%20facilities%3B%20use%20of%20personnel.md) | Use of federally owned facilities; use of personnel. |
 | [8115\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008115%20-%20Acceptance%20of%20certain%20property.md) | Acceptance of certain property. |
 | [8116\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008116%20-%20Nursing%20home%20revolving%20fund.md) | Nursing home revolving fund. |
+| [8117\.](Subchapter%20001%20%28I%29%20-%20Acquisition%20and%20Operation%20of%20Medical%20Facilities/%C2%A7%2008117%20-%20Emergency%20preparedness.md) | Emergency preparedness. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -83,6 +84,10 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title VII, §721(a)(2), Dec. 2, 2002, 116 Stat. 2595, substituted “Sharing of Department of Veterans Affairs and Department of Defense health care resources” for “Sharing of Department and Department of Defense health-care resources” in item 8111.
+
+Pub. L. 107–287, §6(a)(2), Nov. 7, 2002, 116 Stat. 2032, added item 8117.
 
 1997—Pub. L. 105–114, title II, §205(b)(2), Nov. 21, 1997, 111 Stat. 2289, struck out item 8168 “Limitation on number of agreements”.
 

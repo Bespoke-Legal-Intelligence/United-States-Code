@@ -32,7 +32,3 @@ Sections 471 and 474 of title 18, U.S.C., 1940 ed., were omitted as obviously un
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in fourth par.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
-

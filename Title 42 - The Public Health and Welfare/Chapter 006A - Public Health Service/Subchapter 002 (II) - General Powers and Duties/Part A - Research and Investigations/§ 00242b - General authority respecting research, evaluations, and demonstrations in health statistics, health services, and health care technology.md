@@ -2,7 +2,7 @@
 
 #### (a) Scope of activities
 
-The Secretary may, through the Agency for Healthcare Research and Quality or the National Center for Health Statistics, or using National Research Service Awards or other appropriate authorities, undertake and support training programs to provide for an expanded and continuing supply of individuals qualified to perform the research, evaluation, and demonstration projects set forth in section 242k of this title and in subchapter VII of this chapter.
+The Secretary may, through the Agency for Healthcare Research and Quality or the National Center for Health Statistics, or using Ruth L. Kirschstein National Research Service Awards or other appropriate authorities, undertake and support training programs to provide for an expanded and continuing supply of individuals qualified to perform the research, evaluation, and demonstration projects set forth in section 242k of this title and in subchapter VII of this chapter.
 
 #### (b) Additional authority; scope of activities
 
@@ -12,9 +12,9 @@ To implement subsection (a) of this section and section 242k of this title, the 
 
 &emsp;(2) Admit and treat at hospitals and other facilities of the Service persons not otherwise eligible for admission and treatment at such facilities.
 
-&emsp;(3) Secure, from time to time and for such periods as the Secretary deems advisable but in accordance with section 3109 of title 5, theassistance and advice of consultants from the United States or abroad. The Secretary may for the purpose of carrying out the functions set forth in sections 242c,<sup>1</sup> 242k, and 242n <sup>1</sup> of this title, obtain (in accordance with section 3109 of title 5, but without regard to the limitation in such section on the number of days or the period of service) for each of the centers the services of not more than fifteen experts who have appropriate scientific or professional qualifications.
+&emsp;(3) Secure, from time to time and for such periods as the Secretary deems advisable but in accordance with section 3109 of title 5, the assistance and advice of consultants from the United States or abroad. The Secretary may for the purpose of carrying out the functions set forth in sections 242c,<sup>1</sup> 242k, and 242n <sup>1</sup> of this title, obtain (in accordance with section 3109 of title 5, but without regard to the limitation in such section on the number of days or the period of service) for each of the centers the services of not more than fifteen experts who have appropriate scientific or professional qualifications.
 
-&emsp;(4) Acquire, construct, improve, repair, operate, and maintain laboratory, research, and other necessary facilities and equipment, and such other real or personal property (including patents) as the Secretary deems necessary; and acquire, without regard to section 34 of title 40, by lease or otherwise, through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia.
+&emsp;(4) Acquire, construct, improve, repair, operate, and maintain laboratory, research, and other necessary facilities and equipment, and such other real or personal property (including patents) as the Secretary deems necessary; and acquire, without regard to section 8141 of title 40, by lease or otherwise, through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia.
 
 #### (c) Coordination of activities through units of Department
 
@@ -22,13 +22,19 @@ To implement subsection (a) of this section and section 242k of this title, the 
 
 (2) The Secretary shall coordinate the health services research, evaluations, and demonstrations, the health statistical and (where appropriate) epidemiological activities, and the research, evaluations, and demonstrations respecting the assessment of health care technology authorized by this chapter through the Agency for Healthcare Research and Quality and the National Center for Health Statistics.
 
-(July 1, 1944, ch. 373, title III, §304, as added July 28, 1955, ch. 417, §3, 69 Stat. 382; amended Aug. 2, 1956, ch. 871, title V, §502, 70 Stat. 930; Pub. L. 90–174, §3(a), Dec. 5, 1967, 81 Stat. 534; Pub. L. 91–296, title IV, §401(b)(1)(A), June 30, 1970, 84 Stat. 352; Pub. L. 91–515, title II, §§201(a)–(c), 202, 203, Oct. 30, 1970, 84 Stat. 1301–1303; Pub. L. 93–45, title I, §102, June 18, 1973, 87 Stat. 91; Pub. L. 93–353, title I, §103, July 23, 1974, 88 Stat. 362; Pub. L. 95–623, §§3, 7, Nov. 9, 1978, 92 Stat. 3443, 3451; Pub. L. 96–32, §5(a)–(c), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title IX, §918, Aug. 13, 1981, 95 Stat. 565; Pub. L. 98–551, §5(c), Oct. 30, 1984, 98 Stat. 2819; Pub. L. 101–239, title VI, §6103(e)(1), Dec. 19, 1989, 103 Stat. 2205; Pub. L. 103–183, title V, §501(b), Dec. 14, 1993, 107 Stat. 2237; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670.)
+(July 1, 1944, ch. 373, title III, §304, as added July 28, 1955, ch. 417, §3, 69 Stat. 382; amended Aug. 2, 1956, ch. 871, title V, §502, 70 Stat. 930; Pub. L. 90–174, §3(a), Dec. 5, 1967, 81 Stat. 534; Pub. L. 91–296, title IV, §401(b)(1)(A), June 30, 1970, 84 Stat. 352; Pub. L. 91–515, title II, §§201(a)–(c), 202, 203, Oct. 30, 1970, 84 Stat. 1301–1303; Pub. L. 93–45, title I, §102, June 18, 1973, 87 Stat. 91; Pub. L. 93–353, title I, §103, July 23, 1974, 88 Stat. 362; Pub. L. 95–623, §§3, 7, Nov. 9, 1978, 92 Stat. 3443, 3451; Pub. L. 96–32, §5(a)–(c), July 10, 1979, 93 Stat. 82; Pub. L. 97–35, title IX, §918, Aug. 13, 1981, 95 Stat. 565; Pub. L. 98–551, §5(c), Oct. 30, 1984, 98 Stat. 2819; Pub. L. 101–239, title VI, §6103(e)(1), Dec. 19, 1989, 103 Stat. 2205; Pub. L. 103–183, title V, §501(b), Dec. 14, 1993, 107 Stat. 2237; Pub. L. 106–129, §2(b)(2), Dec. 6, 1999, 113 Stat. 1670; Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874.)
 
 #### References in Text
 
 Sections 242c and 242n of this title, referred to in subsec. (b)(3), were repealed by Pub. L. 101–239, title VI, §6103(d)(1), Dec. 19, 1989, 103 Stat. 2205.
 
+#### Codification
+
+In subsec. (b)(4), “section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards”.
 
 1999—Subsecs. (a), (c). Pub. L. 106–129 substituted “Agency for Healthcare Research and Quality” for “Agency for Health Care Policy and Research” wherever appearing.
 
@@ -114,7 +120,7 @@ Pub. L. 95–83, title III, §314, Aug. 1, 1977, 91 Stat. 398, required the Secr
 
 #### Transfer of Equipment
 
-Pub. L. 94–573, §15, Oct. 21, 1976, 90 Stat. 2719, provided that notwithstanding any other provision of law, the Secretary of Health, Education, and Welfare could vest title to equipment purchased with funds under the seven contracts for emergency medical services demonstration projects entered into in 1972 and 1973 under this section (as in effect at the time the contracts were entered into), and by contractors with the United States under such contracts or subcontractors under such contracts, in such contractors or subcontractorswithout further obligation to the Government or on such terms as the Secretary considered appropriate.
+Pub. L. 94–573, §15, Oct. 21, 1976, 90 Stat. 2719, provided that notwithstanding any other provision of law, the Secretary of Health, Education, and Welfare could vest title to equipment purchased with funds under the seven contracts for emergency medical services demonstration projects entered into in 1972 and 1973 under this section (as in effect at the time the contracts were entered into), and by contractors with the United States under such contracts or subcontractors under such contracts, in such contractors or subcontractors without further obligation to the Government or on such terms as the Secretary considered appropriate.
 
 #### Congressional Declaration of Purpose
 
@@ -122,7 +128,7 @@ Section 2 of Joint Res. July 28, 1955, provides a Congressional statement of the
 
 #### Children's Emotional Illness Study; Program Grants; Conditions; Definitions; Appropriations; Terms of Grant
 
-Pub. L. 89–97, title II, §231, July 30, 1965, 79 Stat. 360, as amended by Pub. L. 90–248, title III, §305, Jan. 2, 1968, 81 Stat. 929, authorized the Secretary of Health, Education, and Welfare upon the recommendation of the National Advisory Mental Health Council and after securing the advice of experts in pediatrics and child welfare, to make grants to organizations on certain conditions for carrying out a program of research into and study of resources, methods, and practices for diagnosing or preventing emotional illness in children and of treating, caring for, and rehabilitating children with emotional illnesses, defined “organization”, and authorized appropriations for the making of such grants for fiscal years ending June 30, 1966, and June 30, 1967, with such research and study to be completed not later than three years from the date it was inaugurated.
+Pub. L. 89–97, title II, §231, July 30, 1965, 79 Stat. 360, as amended by Pub. L. 90–248, title III, §305, Jan. 2, 1968, 81 Stat. 929, authorized the Secretary of Health, Education, and Welfare upon the recommendation of theNational Advisory Mental Health Council and after securing the advice of experts in pediatrics and child welfare, to make grants to organizations on certain conditions for carrying out a program of research into and study of resources, methods, and practices for diagnosing or preventing emotional illness in children and of treating, caring for, and rehabilitating children with emotional illnesses, defined “organization”, and authorized appropriations for the making of such grants for fiscal years ending June 30, 1966, and June 30, 1967, with such research and study to be completed not later than three years from the date it was inaugurated.
 
 #### Section Referred to in Other Sections
 

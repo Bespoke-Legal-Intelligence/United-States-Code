@@ -1,6 +1,6 @@
 ### §1370. Reimbursement of States and localities for emergency ambulance services
 
-Subject to the availability of appropriations, the Attorney General shall fully reimburse States and political subdivisions of States for costs incurred by such a State or subdivision for emergency ambulance services provided to any alien who—
+Subject to the availability of appropriations, the Attorney General shall fully reimburse States and political subdivisions of States for costs incurred by such a State or subdivision foremergency ambulance services provided to any alien who—
 
 &emsp;(1) is injured while crossing a land or sea border of the United States without inspection or at any time or place other than as designated by the Attorney General; and
 
@@ -11,4 +11,8 @@ Subject to the availability of appropriations, the Attorney General shall fully 
 #### Codification
 
 Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

@@ -28,5 +28,5 @@ Based on section 234 of title 22, U.S.C., 1940 ed., Foreign Relations and Interc
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1717, 1956, 2332b, 2339A, 3142 of this title.
+This section is referred to in sections 1717, 1956, 2332b, 2339A, 3142 of this title.
 

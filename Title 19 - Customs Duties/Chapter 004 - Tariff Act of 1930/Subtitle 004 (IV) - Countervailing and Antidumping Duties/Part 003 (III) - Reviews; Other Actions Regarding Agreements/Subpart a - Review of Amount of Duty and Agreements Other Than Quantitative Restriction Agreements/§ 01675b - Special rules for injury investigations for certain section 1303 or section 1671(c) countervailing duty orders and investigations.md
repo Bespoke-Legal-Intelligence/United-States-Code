@@ -116,7 +116,7 @@ The administering authority or the Commission, as the case may be, shall publish
 
 #### (B) Exception
 
-&emsp;&emsp;If the administering authority determines that the interested party who requested an investigation under this section is a related party or an importer within the meaning of section 1677(4)(B) of this title, the administering authority may decline a request by such party to initiate a review of an order under section 1675(c) of this title which involves the same or comparable subject merchandise.
+&emsp;&emsp;If the administering authority determines that the interested party who requested an investigation under this section is a related party or an importer within the meaning of section 1677(4)(B) of this title, the administering authority may decline a request by such party to initiate a review of an orderunder section 1675(c) of this title which involves the same or comparable subject merchandise.
 
 #### (2) Cumulation
 

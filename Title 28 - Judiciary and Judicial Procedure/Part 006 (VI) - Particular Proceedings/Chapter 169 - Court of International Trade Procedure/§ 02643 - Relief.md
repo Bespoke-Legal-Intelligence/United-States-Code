@@ -6,7 +6,7 @@
 
 &emsp;(2) for or against the United States or any other party in any counterclaim, cross-claim, or third-party action under section 1583 of this title.
 
-(b) If the Court of International Trade is unable to determine the correct decision on the basis of the evidence presented in any civil action, the court may order a retrial or rehearing for all purposes, or may order such further administrative or adjudicative procedures as the court considers necessary to enable it to reach the correct decision.
+(b) If the Court of International Trade is unable to determine the correct decision on thebasis of the evidence presented in any civil action, the court may order a retrial or rehearing for all purposes, or may order such further administrative or adjudicative procedures as the court considers necessary to enable it to reach the correct decision.
 
 (c)(1) Except as provided in paragraphs (2), (3), (4), and (5) of this subsection, the Court of International Trade may, in addition to the orders specified in subsections (a) and (b) of this section, order any other form of relief that is appropriate in a civil action, including, but not limited to, declaratory judgments, orders of remand, injunctions, and writs of mandamus and prohibition.
 
@@ -36,11 +36,11 @@ Section 641 of the Tariff Act of 1930, referred to in subsec. (e), is classified
 
 #### Amendments
 
-<b>1993</b>—Subsec. (c)(5). Pub. L. 103–182 substituted “merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930)” for “Canadian merchandise”.
+1993—Subsec. (c)(5). Pub. L. 103–182 substituted “merchandise of a free trade area country (as defined in section 516A(f)(10) of the Tariff Act of 1930)” for “Canadian merchandise”.
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–449 substituted “(4), and (5)” for “and (4)” in par. (1) and added par. (5).
+1988—Subsec. (c). Pub. L. 100–449 substituted “(4), and (5)” for “and (4)” in par. (1) and added par. (5).
 
-<b>1984</b>—Subsec. (e). Pub. L. 98–573 added subsec. (e).
+1984—Subsec. (e). Pub. L. 98–573 added subsec. (e).
 
 #### Effective Date of 1993 Amendment
 

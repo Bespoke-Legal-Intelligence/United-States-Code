@@ -92,7 +92,7 @@ The certification referred to in subsection (a)(3) of this section for a fiscal 
 
 &emsp;&emsp;(A) to hold public hearings on the State plan required in subsection (a)(2) of this section; and
 
-&emsp;&emsp;(B) to make recommendations pursuant to subsection (b)(1) of this section regardingthe development and implementation of such plan, including recommendations on—
+&emsp;&emsp;(B) to make recommendations pursuant to subsection (b)(1) of this section regarding the development and implementation of such plan, including recommendations on—
 
 &emsp;&emsp;&emsp;(i) the conduct of assessments of the public health;
 

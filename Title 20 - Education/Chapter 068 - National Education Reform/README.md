@@ -171,20 +171,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6011\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20A%20-%20General%20Provisions%20Regarding%20Office%20of%20Educational%20Research%20and%20Improvement/%C2%A7%2006011%20-%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Office of Educational Research and Improvement. |
-| (a) | Declaration of policy regarding educational opportunity. |
-| (b) | Purpose and structure of Office. |
-| (c) | Appointment of employees. |
-| (d) | Authority to publish. |
-| (e) | Biennial report on activities of Office. |
-| (f) | Research priorities plan. |
-| (g) | Coordination. |
-| (h) | Activities required with respect to coordination. |
-| (i) | Standards for conduct and evaluation of research. |
-| (j) | Additional responsibilities of Assistant Secretary. |
-| (k) | Independent evaluations. |
-| (<i>l</i>) | Definitions. |
-| (m) | Authorization of appropriations. |
+| [6011\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20A%20-%20General%20Provisions%20Regarding%20Office%20of%20Educational%20Research%20and%20Improvement/%C2%A7%2006011%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93279%2C%20title%20IV%2C%20%C2%A7403%282%29%2C%20Nov.%205%2C%202002%2C%20116%20Stat.%201985.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -192,20 +179,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6021\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20B%20-%20National%20Educational%20Research%20Policy%20and%20Priorities%20Board/%C2%A7%2006021%20-%20Establishment%20within%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Establishment within Office of Educational Research and Improvement. |
-| (a) | In general. |
-| (b) | Functions. |
-| (c) | Additional responsibilities of Board. |
-| (d) | Standing subcommittees. |
-| (e) | Powers of Board. |
-| (f) | Membership in general. |
-| (g) | Secretarial appointments. |
-| (h) | Requirements for nominations by National Academy of Sciences. |
-| (i) | Nominations for Board membership. |
-| (j) | Ex officio members. |
-| (k) | Chair. |
-| (<i>l</i>) | Terms of office. |
-| (m) | Meetings of Board. |
+| [6021\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20B%20-%20National%20Educational%20Research%20Policy%20and%20Priorities%20Board/%C2%A7%2006021%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93279%2C%20title%20IV%2C%20%C2%A7403%282%29%2C%20Nov.%205%2C%202002%2C%20116%20Stat.%201985.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -213,17 +187,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6031\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20C%20-%20National%20Research%20Institutes/%C2%A7%2006031%20-%20Establishment%20within%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Establishment within Office of Educational Research and Improvement. |
-| (a) | Establishment of Institutes. |
-| (b) | Directors. |
-| (c) | Authorities and duties. |
-| (d) | National Institute on Student Achievement, Curriculum, and Assessment. |
-| (e) | National Institute on the Education of At-Risk Students. |
-| (f) | National Institute on Early Childhood Development and Education. |
-| (g) | National Institute on Educational Governance, Finance, Policy-Making, and Management. |
-| (h) | National Institute on Postsecondary Education, Libraries, and Lifelong Learning. |
-| (i) | Coordination and research synthesis. |
-| (j) | Dates for establishment of Institutes. |
+| [6031\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20C%20-%20National%20Research%20Institutes/%C2%A7%2006031%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93279%2C%20title%20IV%2C%20%C2%A7403%282%29%2C%20Nov.%205%2C%202002%2C%20116%20Stat.%201985.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -231,16 +195,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6041\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20D%20-%20National%20Education%20Dissemination%20System/%C2%A7%2006041%20-%20Establishment%20within%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Establishment within Office of Educational Research and Improvement. |
-| (a) | In general. |
-| (b) | Establishment of Office. |
-| (c) | Identification of programs. |
-| (d) | Designation of exemplary and promising programs. |
-| (e) | Dissemination of exemplary and promising programs. |
-| (f) | Educational resources information center clearinghouses. |
-| (g) | Dissemination through new technologies. |
-| (h) | Regional educational laboratories for research, development, dissemination, and technical assistance. |
-| (i) | Goals 2000 Community Partnerships Program. |
+| [6041\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20D%20-%20National%20Education%20Dissemination%20System/%C2%A7%2006041%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93279%2C%20title%20IV%2C%20%C2%A7403%282%29%2C%20Nov.%205%2C%202002%2C%20116%20Stat.%201985.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -248,18 +203,7 @@
 
 |  |  |
 | :--- | ---: |
-| [6051\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20E%20-%20National%20Library%20of%20Education/%C2%A7%2006051%20-%20Establishment%20within%20Office%20of%20Educational%20Research%20and%20Improvement.md) | Establishment within Office of Educational Research and Improvement. |
-| (a) | In general. |
-| (b) | Functions of Library. |
-| (c) | Mission. |
-| (d) | One-stop information and referral service. |
-| (e) | Comprehensive reference services. |
-| (f) | Cooperation and resource sharing. |
-| (g) | Administration. |
-| (h) | Task Force. |
-| (i) | Transfer of functions. |
-| (j) | Collection development policy. |
-| (k) | Arrearage and preservation. |
+| [6051\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20E%20-%20National%20Library%20of%20Education/%C2%A7%2006051%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93279%2C%20title%20IV%2C%20%C2%A7403%282%29%2C%20Nov.%205%2C%202002%2C%20116%20Stat.%201985.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -275,79 +219,33 @@
 
 #### Part G—Comprehensive Regional Assistance Centers
 
-|  |  |
-| :--- | ---: |
-| [6053\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20G%20-%20Comprehensive%20Regional%20Assistance%20Centers/%C2%A7%2006053%20-%20Program%20authorized.md) | Program authorized. |
-| (a) | Comprehensive regional assistance centers. |
-| (b) | Service to Indians and Alaska Natives. |
-| (c) | Accountability. |
-| (d) | Duration. |
-| [6053a.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20G%20-%20Comprehensive%20Regional%20Assistance%20Centers/%C2%A7%2006053a%20-%20Requirements%20of%20comprehensive%20regional%20assistance%20centers.md) | Requirements of comprehensive regional assistance centers. |
-| (a) | In general. |
-| (b) | Priority. |
-| [6053b.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20G%20-%20Comprehensive%20Regional%20Assistance%20Centers/%C2%A7%2006053b%20-%20Maintenance%20of%20service%20and%20application%20requirements.md) | Maintenance of service and application requirements. |
-| (a) | Maintenance of service. |
-| (b) | Application requirements. |
-| [6053c.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20G%20-%20Comprehensive%20Regional%20Assistance%20Centers/%C2%A7%2006053c%20-%20Transition.md) | Transition. |
-| (a) | In general. |
-| (b) | Extension of previous centers. |
-| [6053d.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20G%20-%20Comprehensive%20Regional%20Assistance%20Centers/%C2%A7%2006053d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [6053e.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20G%20-%20Comprehensive%20Regional%20Assistance%20Centers/%C2%A7%2006053e%20-%20Defined%20terms.md) | Defined terms. |
+|  |
+| :--- |
+| 6053 to 6053e. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part H—National Diffusion Network
 
-|  |  |
-| :--- | ---: |
-| [6054\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20H%20-%20National%20Diffusion%20Network/%C2%A7%2006054%20-%20Program%20authorized.md) | Program authorized. |
-| (a) | Authority. |
-| (b) | Eligible entities. |
-| (c) | Administration. |
-| (d) | Coordination. |
-| (e) | State facilitator activities. |
-| (f) | Additional duties. |
-| (g) | National Diffusion Network effective programs and promising practices system. |
-| [6054a.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20H%20-%20National%20Diffusion%20Network/%C2%A7%2006054a%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [6054b.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20H%20-%20National%20Diffusion%20Network/%C2%A7%2006054b%20-%20Defined%20terms.md) | Defined terms. |
+|  |
+| :--- |
+| 6054 to 6054b. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part I—Eisenhower Regional Mathematics and Science Education Consortia
 
-|  |  |
-| :--- | ---: |
-| [6055\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20I%20-%20Eisenhower%20Regional%20Mathematics%20and%20Science%20Education%20Consortia/%C2%A7%2006055%20-%20Program%20established.md) | Program established. |
-| (a) | In general. |
-| (b) | Grant term and review. |
-| (c) | Amount. |
-| [6055a.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20I%20-%20Eisenhower%20Regional%20Mathematics%20and%20Science%20Education%20Consortia/%C2%A7%2006055a%20-%20Use%20of%20funds.md) | Use of funds. |
-| [6055b.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20I%20-%20Eisenhower%20Regional%20Mathematics%20and%20Science%20Education%20Consortia/%C2%A7%2006055b%20-%20Application%20and%20review.md) | Application and review. |
-| (a) | In general. |
-| (b) | Approval of application. |
-| [6055c.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20I%20-%20Eisenhower%20Regional%20Mathematics%20and%20Science%20Education%20Consortia/%C2%A7%2006055c%20-%20Regional%20boards.md) | Regional boards. |
-| (a) | In general. |
-| (b) | Prohibition on use of Federal funds. |
-| [6055d.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20I%20-%20Eisenhower%20Regional%20Mathematics%20and%20Science%20Education%20Consortia/%C2%A7%2006055d%20-%20Payments%3B%20Federal%20share%3B%20non-Federal%20share.md) | Payments; Federal share; non-Federal share. |
-| (a) | Payments. |
-| (b) | Federal share. |
-| (c) | Non-Federal share. |
-| [6055e.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20I%20-%20Eisenhower%20Regional%20Mathematics%20and%20Science%20Education%20Consortia/%C2%A7%2006055e%20-%20Evaluation.md) | Evaluation. |
-| (a) | Evaluation required. |
-| (b) | Assessment. |
-| (c) | Report. |
-| [6055f.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20I%20-%20Eisenhower%20Regional%20Mathematics%20and%20Science%20Education%20Consortia/%C2%A7%2006055f%20-%20Definitions.md) | Definitions. |
-| [6055g.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20I%20-%20Eisenhower%20Regional%20Mathematics%20and%20Science%20Education%20Consortia/%C2%A7%2006055g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [6055h.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20I%20-%20Eisenhower%20Regional%20Mathematics%20and%20Science%20Education%20Consortia/%C2%A7%2006055h%20-%20Defined%20terms.md) | Defined terms. |
+|  |
+| :--- |
+| 6055 to 6055h. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Part J—Technology-Based Technical Assistance
 
-|  |  |
-| :--- | ---: |
-| [6056\.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20J%20-%20Technology-Based%20Technical%20Assistance/%C2%A7%2006056%20-%20Technology-based%20technical%20assistance.md) | Technology-based technical assistance. |
-| [6056a.](Subchapter%20009%20%28IX%29%20-%20Educational%20Research%20and%20Improvement/Part%20J%20-%20Technology-Based%20Technical%20Assistance/%C2%A7%2006056a%20-%20Defined%20terms.md) | Defined terms. |
+|  |
+| :--- |
+| 6056, 6056a. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -104,7 +104,7 @@ The Assistant Secretary shall consider the following criteria in awarding grants
 
 #### (2) Content
 
-&emsp;Such hotline described in paragraph (1) shall provide information for individuals seekingoutreach, information, counseling, referral, and assistance regarding pension and other retirement benefits, and rights related to such benefits.
+&emsp;Such hotline described in paragraph (1) shall provide information for individuals seeking outreach, information, counseling, referral, and assistance regarding pension and other retirement benefits, and rights related to such benefits.
 
 #### (3) Agreements
 
@@ -124,7 +124,7 @@ Not later than 30 months after November 13, 2000, the Assistant Secretary shall 
 
 #### (j) Administrative expenses
 
-Of the funds appropriated under section 3020f of this title to carry out this section for a fiscal year, not more than $100,000 may be used by the Administration for administrative expenses.
+Of the funds appropriated under section 3020f of this title to carry out this section for a fiscalyear, not more than $100,000 may be used by the Administration for administrative expenses.
 
 (Pub. L. 89–73, title II, §215, as added Pub. L. 106–501, title II, §202(5), Nov. 13, 2000, 114 Stat. 2231.)
 

@@ -35,10 +35,7 @@
 | (d) | Stay of forfeiture proceedings. |
 | (b) | Coordination of forfeiture proceedings with criminal proceedings. |
 | (c) | Stay on motion. |
-| [1306\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001306%20-%20Cattle%2C%20sheep%2C%20swine%2C%20and%20meats%3B%20importation%20prohibited%20in%20certain%20cases.md) | Cattle, sheep, swine, and meats; importation prohibited in certain cases. |
-| (a) | In general. |
-| (b) | Exception. |
-| (c) | Regulations. |
+| [1306\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001306%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20X%2C%20%C2%A710418%28a%29%285%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20507.md) | Repealed. |
 | [1307\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001307%20-%20Convict-made%20goods%3B%20importation%20prohibited.md) | Convict-made goods; importation prohibited. |
 | [1308\.](Subtitle%20002%20%28II%29%20-%20Special%20Provisions/Part%20001%20%28I%29%20-%20Miscellaneous/%C2%A7%2001308%20-%20Prohibition%20on%20importation%20of%20dog%20and%20cat%20fur%20products.md) | Prohibition on importation of dog and cat fur products. |
 | (a) | Definitions. |
@@ -307,6 +304,14 @@ I74subpart a—definitions
 | (b) | Production of manifest. |
 | (c) | Public disclosure of certain manifest information. |
 | (d) | Regulations. |
+| [1431a.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Report%2C%20Entry%2C%20and%20Unlading%20of%20Vessels%20and%20Vehicles/%C2%A7%2001431a%20-%20Documentation%20of%20waterborne%20cargo.md) | Documentation of waterborne cargo. |
+| (a) | Applicability. |
+| (b) | Documentation required. |
+| (c) | Loading undocumented cargo prohibited. |
+| (d) | Reporting of undocumented cargo. |
+| (e) | Assessment of penalties. |
+| (f) | Seizure of undocumented cargo. |
+| (g) | Effect on other provisions. |
 | 1432, 1432a. Repealed. |  |
 | [1433\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20002%20%28II%29%20-%20Report%2C%20Entry%2C%20and%20Unlading%20of%20Vessels%20and%20Vehicles/%C2%A7%2001433%20-%20Report%20of%20arrival%20of%20vessels%2C%20vehicles%2C%20and%20aircraft.md) | Report of arrival of vessels, vehicles, and aircraft. |
 | (a) | Vessel arrival. |
@@ -456,7 +461,7 @@ I74subpart a—definitions
 | (c) | Notice of suspension. |
 | (d) | Removal of suspension. |
 | [1505\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20003%20%28III%29%20-%20Ascertainment%2C%20Collection%2C%20and%20Recovery%20of%20Duties/%C2%A7%2001505%20-%20Payment%20of%20duties%20and%20fees.md) | Payment of duties and fees. |
-| (a) | Deposit of estimated duties, fees, and interest. |
+| (a) | Deposit of estimated duties and fees. |
 | (b) | Collection or refund of duties, fees, and interest due upon liquidation or reliquidation. |
 | (c) | Interest. |
 | (d) | Delinquency. |
@@ -587,7 +592,11 @@ I74subpart a—definitions
 | (g) | Vessels deemed employed within United States. |
 | (h) | Application of section to treaties of United States. |
 | [1582\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001582%20-%20Search%20of%20persons%20and%20baggage%3B%20regulations.md) | Search of persons and baggage; regulations. |
-| [1583\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001583%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93182%2C%20title%20VI%2C%20%C2%A7690%28b%29%289%29%2C%20Dec.%208%2C%201993%2C%20107%20Stat.%202223.md) | Repealed. |
+| [1583\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001583%20-%20Examination%20of%20outbound%20mail.md) | Examination of outbound mail. |
+| (a) | Examination. |
+| (b) | Search of mail not sealed against inspection and other mail. |
+| (c) | Search of mail sealed against inspection weighing in excess of 16 ounces. |
+| (d) | Search of mail sealed against inspection weighing 16 ounces or less. |
 | [1584\.](Subtitle%20003%20%28III%29%20-%20Administrative%20Provisions/Part%20005%20%28V%29%20-%20Enforcement%20Provisions/%C2%A7%2001584%20-%20Falsity%20or%20lack%20of%20manifest%3B%20penalties.md) | Falsity or lack of manifest; penalties. |
 | (a) | General rule. |
 | (b) | Procedures. |
@@ -1069,7 +1078,7 @@ I74subpart a—review of amount of duty and agreements other than quantitative r
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 81c, 3538 of this title; title 7 section 624; title 13 section 301; title 15 section 69d; title 16 section 1540; title 18 section 983; title 26 sections 993, 5007; title 33 section 2236; title 42 section 9163.
+This chapter is referred to in sections 81c, 3538 of this title; title 6 section 212; title 7 section 624; title 13 section 301; title 15 section 69d; title 16 section 1540; title 18 section 983; title 26 sections 993, 5007; title 33 section 2236; title 42 section 9163.
 
 
 ---

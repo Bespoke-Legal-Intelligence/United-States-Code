@@ -24,17 +24,17 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1978</b>—Subsecs. (c), (d). Pub. L. 95–598 directed the amendment of subsec. (c) by substituting “district or bankruptcy judge” for “or district” and the amendment of subsec. (d) by substituting “, district judge or bankruptcy judge” for “or district judge”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Subsecs. (c), (d). Pub. L. 95–598 directed the amendment of subsec. (c) by substituting “district or bankruptcy judge” for “or district” and the amendment of subsec. (d) by substituting “, district judge or bankruptcy judge” for “or district judge”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–755 reenacted subsec. (a) without change.
+1958—Subsec. (a). Pub. L. 85–755 reenacted subsec. (a) without change.
 
 Subsecs. (b) to (d). Pub. L. 85–755 revised and rearranged subject matter to apply “senior judge” to all judges who retire from regular active service under sections 371(b) and 372(a) of this title, while retaining their commissions, rather than merely to those who ask to be placed on the Chief Justice's roster, to lodge solely in the chief judge and judicial council of the circuit concerned the intracircuit assignment power, and in the Chief Justice the power to assign retired judges beyond their circuits or special courts.
 
 Subsec. (e). Pub. L. 85–755 reenacted subsec. (e) without change.
 
-<b>1957</b>—Subsec. (d). Pub. L. 85–219 added subsec. (d).
+1957—Subsec. (d). Pub. L. 85–219 added subsec. (d).
 
-<b>1956</b>—Subsec. (b). Act July 9, 1956, inserted provisions relating to assignment of retired judges of the Court of Claims.
+1956—Subsec. (b). Act July 9, 1956, inserted provisions relating to assignment of retired judges of the Court of Claims.
 
 #### Jurisdiction of United States Court of Customs and Patent Appeals
 

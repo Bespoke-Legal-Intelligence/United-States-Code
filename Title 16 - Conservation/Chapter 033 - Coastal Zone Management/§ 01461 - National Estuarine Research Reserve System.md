@@ -68,7 +68,7 @@ The Secretary shall take such action as is necessary to promote and coordinate t
 
 (3)(A) The amount of the financial assistance provided under paragraph (1)(A)(i) with respect to the acquisition of lands and waters, or interests therein, for any one national estuarine reserve may not exceed an amount equal to 50 percent of the costs of the lands, waters, and interests therein or $5,000,000, whichever amount is less.
 
-(B) The amount of the financial assistance provided under paragraph (1)(A)(ii) and (iii) and paragraph (1)(B) may not exceed 70 percent of the costs incurred to achieve the purposes described in those paragraphs with respect to a reserve; except that the amount of the financialassistance provided under paragraph (1)(A)(iii) may be up to 100 percent of any costs for activities that benefit the entire System.
+(B) The amount of the financial assistance provided under paragraph (1)(A)(ii) and (iii) and paragraph (1)(B) may not exceed 70 percent of the costs incurred to achieve the purposes described in those paragraphs with respect to a reserve; except that the amount of the financial assistance provided under paragraph (1)(A)(iii) may be up to 100 percent of any costs for activities that benefit the entire System.
 
 (C) Notwithstanding subparagraphs (A) and (B), financial assistance under this subsection provided from amounts recovered as a result of damage to natural resources located in the coastal zone may be used to pay 100 percent of the costs of activities carried out with the assistance.
 

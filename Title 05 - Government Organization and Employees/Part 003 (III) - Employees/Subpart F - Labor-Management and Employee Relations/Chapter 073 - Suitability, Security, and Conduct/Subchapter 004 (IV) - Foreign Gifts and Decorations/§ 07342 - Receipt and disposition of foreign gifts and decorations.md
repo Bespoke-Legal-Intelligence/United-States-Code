@@ -74,7 +74,7 @@
 
 (d) The Congress consents to the accepting, retaining, and wearing by an employee of a decoration tendered in recognition of active field service in time of combat operations or awarded for other outstanding or unusually meritorious performance, subject to the approval of the employing agency of such employee. Without this approval, the decoration is deemed to have been accepted on behalf of the United States, shall become the property of the United States, and shall be deposited by the employee, within sixty days of acceptance, with the employing agency for official use, for forwarding to the Administrator of General Services for disposal in accordance with subsection (e)(1), or for disposal in accordance with subsection (e)(2).
 
-(e)(1) Except as provided in paragraph (2), gifts and decorations that have been deposited with an employing agency for disposal shall be (A) returned to the donor, or (B) forwarded to the Administrator of General Services for transfer, donation, or other disposal in accordance with the provisions of the Federal Property and Administrative Services Act of 1949. However, no gift or decoration that has been deposited for disposal may be sold without the approval of the Secretary of State, upon a determination that the sale will not adversely affect the foreign relations of the United States. Gifts and decorations may be sold by negotiated sale.
+(e)(1) Except as provided in paragraph (2), gifts and decorations that have been deposited with an employing agency for disposal shall be (A) returned to the donor, or (B) forwarded to the Administrator of General Services for transfer, donation, or other disposal in accordance with the provisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.). However, no gift or decoration that has been deposited for disposal may be sold without the approval of the Secretary of State, upon a determination that the sale will not adversely affect the foreign relations of the United States. Gifts and decorations may be sold by negotiated sale.
 
 (2) Gifts and decorations received by a Senator or an employee of the Senate that are deposited with the Secretary of the Senate for disposal, or are deposited for an official use which has terminated, shall be disposed of by the Commission on Arts and Antiquities of the United States Senate. Any such gift or decoration, may be returned by the Commission to the donor or may be transferred or donated by the Commission, subject to such terms and conditions as it may prescribe, (A) to an agency or instrumentality of (i) the United States, (ii) a State, territory, or possession of the United States, or a political subdivision of the foregoing, or (iii) the District of Columbia, or (B) to an organization described in section 501(c)(3) of the Internal Revenue Code of 1986 which is exempt from taxation under section 501(a) of such Code. Any such gift or decoration not disposed of as provided in the preceding sentence shall be forwarded to the Administrator of General Services for disposal in accordance with paragraph (1). If the Administrator does not dispose of such gift or decoration within one year, he shall, at the request of the Commission, return it to the Commission and the Commission may dispose of such gift or decoration in such manner as it considers proper, except that such gift or decoration may be sold only with the approval of the Secretary of State upon a determination that the sale will not adversely affect the foreign relations of the United States.
 
@@ -122,7 +122,7 @@
 
 (k) The provisions of this section do not apply to grants and other forms of assistance to which section 108A of the Mutual Educational and Cultural Exchange Act of 1961 applies.
 
-(Added Pub. L. 90–83, §1(45)(C), Sept. 11, 1967, 81 Stat. 208; amended Pub. L. 95–105, title V, §515(a)(1), Aug. 17, 1977, 91 Stat. 862; Pub. L. 95–426, title VII, §712(a)–(c), Oct. 7, 1978, 92 Stat. 994; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Added Pub. L. 90–83, §1(45)(C), Sept. 11, 1967, 81 Stat. 208; amended Pub. L. 95–105, title V, §515(a)(1), Aug. 17, 1977, 91 Stat. 862; Pub. L. 95–426, title VII, §712(a)–(c), Oct. 7, 1978, 92 Stat. 994; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–217, §3(a)(1), Aug. 21, 2002, 116 Stat. 1295.)
 
 Historical and Revision Notes
 
@@ -174,13 +174,15 @@ In subsection (e), the words “The President may prescribe regulations to carry
 
 Section 152 of the Internal Revenue Code of 1986, referred to in subsec. (a)(1)(G), is classified to section 152 of Title 26, Internal Revenue Code.
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (e)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (e)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 Section 501 of the Internal Revenue Code of 1986, referred to in subsec. (e)(2), is classified to section 501 of Title 26, Internal Revenue Code.
 
 Section 108A of the Mutual Educational and Cultural Exchange Act of 1961, referred to in subsec. (k), is classified to section 2458a of Title 22, Foreign Relations and Intercourse.
 
 #### Amendments
+
+2002—Subsec. (e)(1). Pub. L. 107–217 substituted “provisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.)” for “provisions of the Federal Property and Administrative Services Act of 1949”.
 
 1986—Subsecs. (a)(1)(G), (e)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
@@ -228,11 +230,9 @@ Ex. Ord. No. 11320, Dec. 12, 1966, 31 F.R. 15789, which delegated to the Secreta
 
 #### Ex Ord. No. 11446. Acceptance of Service Medals and Ribbons From Multilateral Organizations Other Than United Nations
 
-Ex. Ord. No. 11446, Jan. 16, 1969, 34 F.R. 803, provided:
+Ex. Ord. No. 11446, Jan. 16, 1969, 34 F.R. 803, as amended by Ex. Ord. No. 13286, §62, Feb. 28, 2003, 68 F.R. 10629, provided:
 
-By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, I hereby authorize the Secretary of Defense, with respect to members of the Army, Navy, Air Force, and Marine Corps, and the Secretary of Transportation, with respect to members of the Coast Guard when it is not operating as a service in the Navy, to prescribe regulations for the acceptance of medals and ribbons which are offered by multilateral organizations, other than the United Nations, to members of the Armed Forces of the United States in recognition of service conducted under the auspices of those organizations. A determination that service for a multilateral organization in a particular geographical area or for a particular purpose constitutes a justifiable basis for authorizing acceptance of the medal or ribbon offered to eligible members of the Armed Forces of the United States shall be made with the concurrence of the Secretary of State.
-
-Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+By virtue of the authority vested in me as President of the United States and as Commander in Chief of the Armed Forces of the United States, I hereby authorize the Secretary of Defense, with respect to members of the Army, Navy, Air Force, and Marine Corps, and the Secretary of Homeland Security, with respect to members of the Coast Guard when it is not operating as a service in the Navy, to prescribe regulations for the acceptance of medals and ribbons which are offered by multilateral organizations, other than the United Nations, to members of the Armed Forces of the United States in recognition of service conducted under the auspices of those organizations. A determination that service for a multilateral organization in a particular geographical area or for a particular purpose constitutes a justifiable basis for authorizing acceptance of the medal or ribbon offered to eligible members of the Armed Forces of the United States shall be made with the concurrence of the Secretary of State.
 
 #### Section Referred to in Other Sections
 

@@ -38,7 +38,7 @@ The following laws shall apply, as prescribed by this chapter, to the legislativ
 
 #### (3) Reports of congressional committees
 
-&emsp;Each report accompanying any bill or joint resolution relating to terms and conditions of employment or access to public services or accommodations reported by a committee of the House of Representatives or the Senate shall—
+&emsp;Each report accompanying any bill or joint resolution relating to terms and conditions ofemployment or access to public services or accommodations reported by a committee of the House of Representatives or the Senate shall—
 
 &emsp;&emsp;(A) describe the manner in which the provisions of the bill or joint resolution apply to the legislative branch; or
 
@@ -70,5 +70,5 @@ The Rehabilitation Act of 1973, referred to in subsec. (a)(10), is Pub. L. 93–
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1381, 1382, 1405, 1431 of this title; title 40 section 207b–2.
+This section is referred to in sections 1381, 1382, 1405, 1431, 1927 of this title.
 

@@ -12,7 +12,7 @@
 
 #### Amendments
 
-1994—Pub. L. 103–446, §1201(e)(16)(A), (B), inserted “(a)” before “Any person desiring” and substituted “custody of the Secretary that may be disclosed undersection 5701 of this title must submit to the Secretary an application in writing for such copy. The application shall state” for “custody of the Secretary, which may be disclosed under section 5701 of this title, must make written application therefor to the Secretary, stating”.
+1994—Pub. L. 103–446, §1201(e)(16)(A), (B), inserted “(a)” before “Any person desiring” and substituted “custody of the Secretary that may be disclosed under section 5701 of this title must submit to the Secretary an application in writing for such copy. The application shall state” for “custody of the Secretary, which may be disclosed under section 5701 of this title, must make written application therefor to the Secretary, stating”.
 
 Subsec. (b). Pub. L. 103–446, §1201(e)(16)(C), which directed amendment of subsec. (c) by substituting “may establish” for “is authorized to fix”, was executed to subsec. (b) to reflect the probable intent of Congress, because the language sought to be amended appears in subsec. (b) and this section does not contain a subsec. (c).
 

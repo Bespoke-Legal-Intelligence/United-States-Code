@@ -34,7 +34,7 @@ An application for a charter for a council shall be made by filing with the Secr
 
 &emsp;(10) such other provisions relating to administration of the council as the Secretary considers necessary.
 
-> The text of a proposed charter shall be accompanied by a document identifying, to the extentpracticable by address of place of business, the persons (hereinafter referred to as “sector participants”) that are considered by the applicants to meet the requirements specified in paragraph (6) of this subsection. The text of a proposed charter shall include provisions setting forth procedures for providing refunds to those sector participants subject to assessment under section 4012 of this title, and may also include provisions which establish a maximum limit on the amount that any one sector participant may be required to pay under an assessment for any period.
+> The text of a proposed charter shall be accompanied by a document identifying, to the extent practicable by address of place of business, the persons (hereinafter referred to as “sector participants”) that are considered by the applicants to meet the requirements specified in paragraph (6) of this subsection. The text of a proposed charter shall include provisions setting forth procedures for providing refunds to those sector participants subject to assessment under section 4012 of this title, and may also include provisions which establish a maximum limit on the amount that any one sector participant may be required to pay under an assessment for any period.
 
 #### (c) Contents of charter
 
@@ -50,7 +50,7 @@ The Secretary may not approve a proposed charter filed under subsection (a) of t
 
 &emsp;(A) identify, to the extent practicable, those sector participants that meet the requirements for eligibility to participate in the referendum under subsection (e) of this section;
 
-&emsp;(B) determine, to the extent practicable, if the charter is accompanied by a petition comprised of the signatures or corporate certifications, as the case may be, of no less than three sector participants in each sector identified in accordance with subsection (b)(5) of this section who collectively accounted for, in the twelve-month period immediately preceding the month in which the application was filed, not less than 10 percent of the value of the fish or fish products described in accordance with subsection (b)(3) of this section that were handled by each such sector during that period; and
+&emsp;(B) determine, to the extent practicable, if the charter is accompanied by a petition comprised of the signatures or corporate certifications, as the case may be, of no less than three sector participants in each sector identified in accordance with subsection (b)(5) ofthis section who collectively accounted for, in the twelve-month period immediately preceding the month in which the application was filed, not less than 10 percent of the value of the fish or fish products described in accordance with subsection (b)(3) of this section that were handled by each such sector during that period; and
 
 &emsp;(C) determine if the proposed charter is consistent with the provisions of this chapter and any other applicable law.
 
@@ -78,7 +78,7 @@ The Secretary may not approve a proposed charter filed under subsection (a) of t
 
 (3) The Secretary shall, within sixty days after the end of the thirty-day period referred to in paragraph (1) of this subsection, appoint the members of the council from among the nominees.
 
-(4) A vacancy on a council shall be filled, within sixty days after the vacancy occurs, in the same manner in which the original appointment was made. A member appointed to fill a vacancy occurring before the expiration of the term forwhich the member's predecessor was appointed shall be appointed only for the remainder of such term.
+(4) A vacancy on a council shall be filled, within sixty days after the vacancy occurs, in the same manner in which the original appointment was made. A member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of such term.
 
 (5) The Secretary shall remove any member of a council if the council concerned first recommends, by not less than two-thirds of its members, removal for cause. Such a recommendation of a council must be in writing and accompanied by a statement of the reasons upon which the recommendation is based.
 

@@ -42,5 +42,5 @@ Any rights or liabilities existing on Oct. 2, 1983, not to be affected and any r
 
 #### Separability
 
-Pub. L. 87–167, §14, formerly §15, Aug. 30, 1961, 75 Stat. 407, renumbered by Pub. L. 93–119, §2(13), Oct. 4, 1973, 87 Stat. 428, which provided for the separability of the provisions of Pub. L. 87–167, was repealed by Pub. L. 96–478, §12, Oct. 21, 1980, 94 Stat. 2303.
+Pub. L. 87–167, §14, formerly §15, Aug. 30, 1961, 75 Stat. 407, renumbered by Pub. L. 93–119, §2(13), Oct. 4, 1973, 87Stat. 428, which provided for the separability of the provisions of Pub. L. 87–167, was repealed by Pub. L. 96–478, §12, Oct. 21, 1980, 94 Stat. 2303.
 

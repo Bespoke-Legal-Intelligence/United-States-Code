@@ -14,7 +14,7 @@ No public utility shall, without the consent of the Commission, apply any securi
 
 #### (d) Authorization of capitalization not to exceed amount paid
 
-The Commission shall not authorize the capitalization of the right to be a corporation or ofany franchise, permit, or contract for consolidation, merger, or lease in excess of the amount (exclusive of any tax or annual charge) actually paid as the consideration for such right, franchise, permit, or contract.
+The Commission shall not authorize the capitalization of the right to be a corporation or of any franchise, permit, or contract for consolidation, merger, or lease in excess of the amount (exclusive of any tax or annual charge) actually paid as the consideration for such right, franchise, permit, or contract.
 
 #### (e) Notes or drafts maturing less than one year after issuance
 

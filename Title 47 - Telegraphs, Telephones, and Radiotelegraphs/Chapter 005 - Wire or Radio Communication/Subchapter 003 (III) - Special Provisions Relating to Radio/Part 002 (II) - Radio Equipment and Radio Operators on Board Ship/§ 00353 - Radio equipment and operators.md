@@ -20,7 +20,7 @@ The Commission shall, when it finds it necessary for safety purposes, have autho
 
 On all ships of the United States equipped with a radiotelegraph auto alarm, said apparatus shall be in operation at all times while the ship is being navigated in the open sea outside of a harbor or port when the radio officer is not on watch.
 
-(June 19, 1934, ch. 652, title III, §353, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 193; amendedJuly 8, 1941, ch. 278, 55 Stat. 579; June 22, 1943, ch. 137, 57 Stat. 161; July 25, 1947, ch. 327, §2(a), 61 Stat. 451; Aug. 13, 1954, ch. 729, §1(d), 68 Stat. 705; Pub. L. 89–121, §4, Aug. 13, 1965, 79 Stat. 513.)
+(June 19, 1934, ch. 652, title III, §353, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 193; amended July 8, 1941, ch. 278, 55 Stat. 579; June 22, 1943, ch. 137, 57 Stat. 161; July 25, 1947, ch. 327, §2(a), 61 Stat. 451; Aug. 13, 1954, ch. 729, §1(d), 68 Stat. 705; Pub. L. 89–121, §4, Aug. 13, 1965, 79 Stat. 513.)
 
 #### Amendments
 

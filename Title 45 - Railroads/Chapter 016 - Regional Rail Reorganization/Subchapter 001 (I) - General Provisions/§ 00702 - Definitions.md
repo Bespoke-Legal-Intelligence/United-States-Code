@@ -14,7 +14,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(6) “effective date of the final system plan” means the date on which the final system plan or any revised final system plan is deemed approved by Congress, in accordance with section 718 of this title;
 
-&emsp;(7) “employee stock ownership plan” means a technique of corporate finance that uses a stock bonus trust or a company stock money purchase pension trust which qualifies under section 401(a) of title 26 in connection with the financing of corporate improvements, transfers in the ownership of corporate assets, and other capital requirements of a corporationand which is designed to build beneficial equity ownership of shares in the employer corporation into its employees substantially in proportion to their relative incomes, without requiring any cash outlay, any reduction in pay or other employee benefits, or the surrender of any other rights on the part of such employees;
+&emsp;(7) “employee stock ownership plan” means a technique of corporate finance that uses a stock bonus trust or a company stock money purchase pension trust which qualifies under section 401(a) of title 26 in connection with the financing of corporate improvements, transfers in the ownership of corporate assets, and other capital requirements of a corporation and which is designed to build beneficial equity ownership of shares in the employer corporation into its employees substantially in proportion to their relative incomes, without requiring any cash outlay, any reduction in pay or other employee benefits, or the surrender of any other rights on the part of such employees;
 
 &emsp;(8) “final system plan” means the plan of reorganization for the restructure, rehabilitation, and modernization of railroads in reorganization prepared pursuant to section 716 of this title and approved pursuant to section 718 of this title;
 
@@ -28,7 +28,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(13) “profitable railroad” means a railroad which is not a railroad in reorganization. The term does not include the Corporation, the National Railroad Passenger Corporation, or a railroad leased, operated, or controlled by a railroad in reorganization in the region;
 
-&emsp;(14) “rail properties” means assets or rights owned, leased, or otherwise controlled by a railroad (or a person owned, leased, or otherwise controlled by a railroad) which are used or useful in rail transportation service; except that the term, when used in conjunction with the phrase “railroads leased, operated, or controlled by a railroad in reorganization”, shall not include assets or rights owned, leased, or otherwise controlled by a Class I railroad which is not wholly owned, operated, or leased by a railroad in reorganization but is controlled by a railroad in reorganization;
+&emsp;(14) “rail properties” means assets or rights owned, leased, or otherwise controlled by a railroad (or a person owned, leased, or otherwise controlled by a railroad) which are used or useful in rail transportation service; except that the term, when used in conjunction withthe phrase “railroads leased, operated, or controlled by a railroad in reorganization”, shall not include assets or rights owned, leased, or otherwise controlled by a Class I railroad which is not wholly owned, operated, or leased by a railroad in reorganization but is controlled by a railroad in reorganization;
 
 &emsp;(15) “railroad” means a rail carrier subject to part A of subtitle IV of title 49. The term includes the Corporation and the National Railroad Passenger Corporation;
 
@@ -56,7 +56,7 @@ Section 10361 of title 49, referred to in par. (12), was omitted in the general 
 
 Section 77 of the Bankruptcy Act, referred to in par. (16), was classified to section 205 of former Title 11, Bankruptcy. The Bankruptcy Act (act July 1, 1898, ch. 541, 30 Stat. 544, as amended) was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11. For current provisions relating to railroad reorganization, see subchapter IV (§1161 et seq.) of chapter 11 of Title 11.
 
-The Conrail Privatization Act, referred to in par. (17A), is subtitle A (§§4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892, which is classified principally to chapter 22 (§1301 et seq.) of this title. Forcomplete classification of this Act to the Code see Short Title note set out under section 1301 of this title and Tables. The date on which the initial public offering of the securities of the corporation is closed under this Act was Apr. 2, 1987.
+The Conrail Privatization Act, referred to in par. (17A), is subtitle A (§§4001–4052) of title IV of Pub. L. 99–509, Oct. 21, 1986, 100 Stat. 1892, which is classified principally to chapter 22 (§1301 et seq.) of this title. For complete classification of this Act to the Code see Short Title note set out under section 1301 of this title and Tables. The date on which the initial public offering of the securities of the corporation is closed under this Act was Apr. 2, 1987.
 
 #### Codification
 
@@ -82,7 +82,7 @@ Par. (7). Pub. L. 94–210, §603(c), added par. (7). Former par. (7) redesignat
 
 Par. (8). Pub. L. 94–210, §§601(g), 603(c), redesignated former par. (7) as (8). Former par. (8) redesignated (10).
 
-Pars. (9) to (11). Pub. L. 94–210, §601(g), added par. (9) and redesignated former pars. (8) and (9) as (10) and (11), respectively. Former pars. (10) and (11) redesignated (12) and (13), respectively.
+Pars. (9) to (11). Pub. L. 94–210, §601(g), added par. (9) and redesignated former pars. (8) and (9) as (10) and (11),respectively. Former pars. (10) and (11) redesignated (12) and (13), respectively.
 
 Par. (12). Pub. L. 94–210, §§601(g), 607(t), redesignated former par. (10) as (12), inserted “(or a person owned, leased, or otherwise controlled by a railroad)” before “which are used or useful”, and substituted “phrase” for “phase”. Former par. (12) redesignated (14).
 

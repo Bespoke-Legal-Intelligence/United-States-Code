@@ -2,7 +2,7 @@
 
 (a)(1) Subject to subsection (b), any court of the United States may authorize the commencement, prosecution or defense of any suit, action or proceeding, civil or criminal, or appeal therein, without prepayment of fees or security therefor, by a person who submits an affidavit that includes a statement of all assets such prisoner possesses that the person is unable to pay such fees or give security therefor. Such affidavit shall state the nature of the action, defense or appeal and affiant's belief that the person is entitled to redress.
 
-(2) A prisoner seeking to bring a civil action or appeal a judgment in a civil action or proceeding without prepayment of fees or security therefor, in addition to filing the affidavit filed under paragraph (1), shall submit a certifiedcopy of the trust fund account statement (or institutional equivalent) for the prisoner for the 6-month period immediately preceding the filing of the complaint or notice of appeal, obtained from the appropriate official of each prison at which the prisoner is or was confined.
+(2) A prisoner seeking to bring a civil action or appeal a judgment in a civil action or proceeding without prepayment of fees or security therefor, in addition to filing the affidavit filed under paragraph (1), shall submit a certified copy of the trust fund account statement (or institutional equivalent) for the prisoner for the 6-month period immediately preceding the filing of the complaint or notice of appeal, obtained from the appropriate official of each prison at which the prisoner is or was confined.
 
 (3) An appeal may not be taken in forma pauperis if the trial court certifies in writing that it is not taken in good faith.
 
@@ -62,7 +62,7 @@ For distribution of other provisions of section 9a of title 28, U.S.C., 1940 ed.
 
 Section 832 of title 28, U.S.C., 1940 ed., was completely rewritten, and constitutes subsections (a) and (b).
 
-Words “and willful false swearing in any affidavit provided for in this section or section 832 of this title, shall be punishable as perjury as in other cases,” insection 833 of title 28, U.S.C., 1940 ed., were omitted as covered by the general perjury statute, title 18, U.S.C., 1940 ed., §231 (H.R. 1600, 80th Cong., sec. 1621).
+Words “and willful false swearing in any affidavit provided for in this section or section 832 of this title, shall be punishable as perjury as in other cases,” in section 833 of title 28, U.S.C., 1940 ed., were omitted as covered by the general perjury statute, title 18, U.S.C., 1940 ed., §231 (H.R. 1600, 80th Cong., sec. 1621).
 
 A proviso in section 836 of title 28, U.S.C., 1940 ed., that the United States should not be liable for costs was deleted as covered by section 2412 of this title.
 
@@ -74,11 +74,11 @@ Changes in phraseology were made.
 
 #### 1949 Act
 
-This amendment clarifies the meaning of subsection (b) of section 1915 of title 28, U.S.C., and supplies, in subsection (e) of section 1915, an inadvertent omission to make possible the recovery of public funds expended in printing the record for persons successfully suing in forma pauperis.
+This amendment clarifies the meaning of subsection (b) of section 1915 of title 28, U.S.C., and supplies, insubsection (e) of section 1915, an inadvertent omission to make possible the recovery of public funds expended in printing the record for persons successfully suing in forma pauperis.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(1)\], designated first paragraph as par. (1), substituted “Subject to subsection (b), any” for “Any”, struck out “and costs” after “of fees”, substituted “submits an affidavit that includes a statement of all assets such prisoner possesses” for “makes affidavit”, substituted “such fees” for “such costs”, substituted “the person” for “he” in two places, added par. (2), and designated last paragraph as par. (3).
+1996—Subsec. (a). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(1)\], designated first paragraph as par. (1), substituted “Subject to subsection (b), any” for “Any”, struck out “and costs” after “of fees”, substituted “submits an affidavit that includes a statement of all assets such prisoner possesses” for “makes affidavit”, substituted “such fees” for “such costs”, substituted “the person” for “he” in two places, added par. (2), and designated last paragraph as par. (3).
 
 Subsec. (b). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(a)(3)\], added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -96,15 +96,15 @@ Subsec. (g). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(d)\], added sub
 
 Subsec. (h). Pub. L. 104–134, §101\[(a)\] \[title VIII, §804(e)\], added subsec. (h).
 
-<b>1979</b>—Subsec. (b). Pub. L. 96–82 substituted “Upon the filing of an affidavit in accordance with subsection (a) of this section, the court may direct payment by the United States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by the appellate court; (2) preparing a transcript of proceedings before a United States magistrate in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title” and “Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts” for “In any civil or criminal case the court may, upon the filing of a like affidavit, direct that the expense of printing the record on appeal, if such printing is required by the appellate court, be paid by the United States, and the same shall be paid when authorized by the Director of the Administrative Office of the United States Courts”.
+1979—Subsec. (b). Pub. L. 96–82 substituted “Upon the filing of an affidavit in accordance with subsection (a) of this section, the court may direct payment by the United States of the expenses of (1) printing the record on appeal in any civil or criminal case, if such printing is required by the appellate court; (2) preparing a transcript of proceedings before a United States magistrate in any civil or criminal case, if such transcript is required by the district court, in the case of proceedings conducted under section 636(b) of this title or under section 3401(b) of title 18, United States Code; and (3) printing the record on appeal if such printing is required by the appellate court, in the case of proceedings conducted pursuant to section 636(c) of this title” and “Such expenses shall be paid when authorized by the Director of the Administrative Office of the United States Courts” for “In any civil or criminal case the court may, upon the filing of a like affidavit, direct that the expense of printing the record on appeal, if such printing is required by the appellate court, be paid by the United States, and the same shall be paid when authorized by the Director of the Administrative Office of the United States Courts”.
 
-<b>1959</b>—Subsec. (a). Pub. L. 86–320 substituted “person” for “citizen”.
+1959—Subsec. (a). Pub. L. 86–320 substituted “person” for “citizen”.
 
-<b>1951</b>—Subsec. (b). Act Oct. 31, 1951, struck out “furnishing a stenographic transcript and” after “expense of”.
+1951—Subsec. (b). Act Oct. 31, 1951, struck out “furnishing a stenographic transcript and” after “expense of”.
 
 Subsec. (e). Act Oct. 31, 1951, inserted provision that the United States shall not be liable for any of the costs incurred.
 
-<b>1949</b>—Subsec. (b). Act May 24, 1949, §98(a), inserted “such printing is” between “if” and “required”.
+1949—Subsec. (b). Act May 24, 1949, §98(a), inserted “such printing is” between “if” and “required”.
 
 Subsec. (e). Act May 24, 1949, §98(b), inserted “or printed record” after “stenographic transcript”.
 

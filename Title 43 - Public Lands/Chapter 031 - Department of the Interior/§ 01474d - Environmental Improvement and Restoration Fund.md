@@ -42,7 +42,7 @@ A project referred to in subsection (c)(1) of this section shall be consistent w
 
 (1) Funds available under subsection (c)(2) of this section shall be used by the Secretary of Commerce according to this subsection to provide grants to Federal, State, private or foreign organizations or individuals to conduct research activities on or relating to the fisheries or marine ecosystems in the north Pacific Ocean, Bering Sea, and Arctic Ocean (including any lesser related bodies of water).
 
-(2) Research priorities and grant requests shall be reviewed by a board to be known as the North Pacific Research Board (referred to in this subsection as the “Board”). The Board shall seek to avoid duplicating other research activities, and shall place a priority on cooperative research efforts designed to address pressing fishery management or marine ecosystem information needs.
+(2) Research priorities and grant requests shall be reviewed by a board to be known as the North Pacific Research Board (referred to in this subsection as the “Board”). The Board shall seek to avoid duplicating other research activities, andshall place a priority on cooperative research efforts designed to address pressing fishery management or marine ecosystem information needs.
 
 (3) The Board shall be comprised of the following representatives or their designees—
 
@@ -105,6 +105,10 @@ Subsec. (e)(5). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(c)(2)(F)\]
 Subsec. (f). Pub. L. 106–113, §1000(a)(3) \[title III, §352(a)(2)\], struck out heading and text of subsec. (f). Text read as follows: “If amounts are not assumed by the concurrent budget resolution and appropriated from the Fund by December 15, 1999, the Fund shall terminate and the amounts in the Fund including the accrued interest shall be applied to reduce the Federal deficit.”
 
 1998—Subsec. (f). Pub. L. 105–277 substituted “1999” for “1998”.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
 

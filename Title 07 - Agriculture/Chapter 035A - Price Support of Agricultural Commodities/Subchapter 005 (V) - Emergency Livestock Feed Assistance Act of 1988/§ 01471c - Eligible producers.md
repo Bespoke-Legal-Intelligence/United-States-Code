@@ -20,13 +20,15 @@ Any livestock producer, located in a county or area in which benefits under the 
 
 #### References in Text
 
-The effective date of this subchapter, referred to in subsec. (c), is 15 days after Aug. 11, 1988, the effectivedate of section 101(a) of Pub. L. 100–387. See section 101(c) of Pub. L. 100–387, set out as a note under section 1427 of this title.
+The effective date of this subchapter, referred to in subsec. (c), is 15 days after Aug. 11, 1988, the effective date of section 101(a) of Pub. L. 100–387. See section 101(c) of Pub. L. 100–387, set out as a note under section 1427 of this title.
 
 #### Effective Date
 
-Section effective 15 days after Aug. 11, 1988, with subsec. (c) of this section applicable only with respect to any livestock emergency in 1988, see section 101(c) of Pub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
+Section effective 15 days after Aug. 11, 1988, with subsec. (c) of this section applicable only with respect to any livestock emergency in 1988, see section 101(c) ofPub. L. 100–387, set out as an Effective and Termination Dates of 1988 Amendment note under section 1427 of this title.
 
 #### Inapplicability of Section
+
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(12) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(L) of this title.
 

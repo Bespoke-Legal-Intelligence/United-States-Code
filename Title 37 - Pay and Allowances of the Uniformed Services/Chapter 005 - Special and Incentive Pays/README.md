@@ -28,6 +28,7 @@
 | [306\.](%C2%A7%2000306%20-%20Special%20pay%20officers%20holding%20positions%20of%20unusual%20responsibility%20and%20of%20critical%20nature.md) | Special pay: officers holding positions of unusual responsibility and of critical nature. |
 | [306a.](%C2%A7%2000306a%20-%20Special%20pay%20members%20assigned%20to%20international%20military%20headquarters.md) | Special pay: members assigned to international military headquarters. |
 | [307\.](%C2%A7%2000307%20-%20Special%20pay%20special%20duty%20assignment%20pay%20for%20enlisted%20members.md) | Special pay: special duty assignment pay for enlisted members. |
+| [307a.](%C2%A7%2000307a%20-%20Special%20pay%20assignment%20incentive%20pay.md) | Special pay: assignment incentive pay. |
 | [308\.](%C2%A7%2000308%20-%20Special%20pay%20reenlistment%20bonus.md) | Special pay: reenlistment bonus. |
 | \[308a. | Repealed.\] |
 | [308b.](%C2%A7%2000308b%20-%20Special%20pay%20reenlistment%20bonus%20for%20members%20of%20the%20Selected%20Reserve.md) | Special pay: reenlistment bonus for members of the Selected Reserve. |
@@ -64,6 +65,8 @@
 
 #### Amendments
 
+2002—Pub. L. 107–314, div. A, title VI, §616(a)(2), Dec. 2, 2002, 116 Stat. 2570, added item 307a.
+
 2001—Pub. L. 107–107, div. A, title VI, §§621(b), 622(a)(2), Dec. 28, 2001, 115 Stat. 1140, 1142, added items 324 and 325.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title VI, §§624(a)(2), (b)(2), 628(c), 633(a)(2)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152, 1654A–153, 1654A–155, 1654A–158, added items 302i, 302j, 309, and 323 and struck out items 308a “Special pay: enlistment bonus” and 308f “Special pay: bonus for enlistment in the Army”.
@@ -90,7 +93,7 @@ Pub. L. 102–25, title VII, §702(a)(1), Apr. 6, 1991, 105 Stat. 117, substitut
 
 1986—Pub. L. 99–661, div. A, title VI, §634(a)(2), Nov. 14, 1986, 100 Stat. 3885, added item 316.
 
-1985—Pub. L. 99–145, title VI, §§639(e), 644(a)(2), Nov. 8, 1985, 99 Stat. 651, 653, substituted “dental officers of thearmed forces” for “dentists” in item 302b, added item 308i, and struck out item 311 “Special pay: continuation pay for dentists in the armed forces”.
+1985—Pub. L. 99–145, title VI, §§639(e), 644(a)(2), Nov. 8, 1985, 99 Stat. 651, 653, substituted “dental officers of the armed forces” for “dentists” in item 302b, added item 308i, and struck out item 311 “Special pay: continuation pay for dentists in the armed forces”.
 
 1984—Pub. L. 98–525, title VI, §623(b)(2), title XIV, §1402(b)(2), Oct. 19, 1984, 98 Stat. 2542, 2621, substituted “special duty assignment pay for enlisted members” for “proficiency pay for enlisted members” in item 307, and added item 306a.
 
@@ -163,6 +166,7 @@ This chapter is referred to in sections 907, 909, 1003 of this title; title 5 se
 - [&sect; 00306 - Special pay officers holding positions of unusual responsibility and of critical nature](%C2%A7%2000306%20-%20Special%20pay%20officers%20holding%20positions%20of%20unusual%20responsibility%20and%20of%20critical%20nature.md)
 - [&sect; 00306a - Special pay members assigned to international military headquarters](%C2%A7%2000306a%20-%20Special%20pay%20members%20assigned%20to%20international%20military%20headquarters.md)
 - [&sect; 00307 - Special pay special duty assignment pay for enlisted members](%C2%A7%2000307%20-%20Special%20pay%20special%20duty%20assignment%20pay%20for%20enlisted%20members.md)
+- [&sect; 00307a - Special pay assignment incentive pay](%C2%A7%2000307a%20-%20Special%20pay%20assignment%20incentive%20pay.md)
 - [&sect; 00308 - Special pay reenlistment bonus](%C2%A7%2000308%20-%20Special%20pay%20reenlistment%20bonus.md)
 - [&sect; 00308a - Repealed. Pub. L. 106&#8211;398, &sect;1 \[\[div. A\], title VI, &sect;624(b)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A&#8211;153](%C2%A7%2000308a%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93398%2C%20%C2%A71%20%5B%5Bdiv.%20A%5D%2C%20title%20VI%2C%20%C2%A7624%28b%29%281%29%5D%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201654%2C%201654A%E2%80%93153.md)
 - [&sect; 00308b - Special pay reenlistment bonus for members of the Selected Reserve](%C2%A7%2000308b%20-%20Special%20pay%20reenlistment%20bonus%20for%20members%20of%20the%20Selected%20Reserve.md)

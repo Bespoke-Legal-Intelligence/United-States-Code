@@ -42,7 +42,7 @@ In the case of any clinical trial in which women or members of minority groups w
 
 #### (2) Certain provisions
 
-&emsp;With respect to the circumstances under which the inclusion of women or members of minority groups (as the case may be) as subjects in a project of clinical research is inappropriate for purposes of subsection (b) of this section, the following applies to guidelines under paragraph (1):
+&emsp;With respect to the circumstances under which the inclusion of women or members ofminority groups (as the case may be) as subjects in a project of clinical research is inappropriate for purposes of subsection (b) of this section, the following applies to guidelines under paragraph (1):
 
 &emsp;&emsp;(A)(i) In the case of a clinical trial, the guidelines shall provide that the costs of such inclusion in the trial is not a permissible consideration in determining whether such inclusion is inappropriate.
 

@@ -50,7 +50,7 @@ The Institute shall conduct research and carry out educational and demonstration
 
 #### (1) In general
 
-&emsp;The Advisory Board shall establish a scientific and technical committee, composed of specialists in matters relating to oil spill containment and cleanup technology, arctic and subarctic marine ecology, and the living resources and socioeconomics of Prince William Sound and its adjacent waters, from the University of Alaska, the Institute of Marine Science, the Prince William Sound Science and Technology Institute, and elsewhere in the academic community.
+&emsp;The Advisory Board shall establish a scientific and technical committee, composed of specialists in matters relating to oil spill containment and cleanup technology, arctic and subarctic marine ecology, and the living resources and socioeconomics of Prince William Sound and its adjacent waters, from the University of Alaska, the Institute of Marine Science, the Prince William Sound Scienceand Technology Institute, and elsewhere in the academic community.
 
 #### (2) Functions
 
@@ -74,7 +74,7 @@ Employees of the Institute shall not, by reason of such employment, be considere
 
 #### (i) Termination
 
-The authorization in section 2736(b) of this title providing funding for the Institute shall terminate 10 years after October 19, 1996.
+The authorization in section 2736(b) of this title providing funding for the Institute shall terminate September 30, 2012.
 
 #### (j) Use of funds
 
@@ -88,9 +88,11 @@ The Institute shall publish and make available to any person upon request the re
 
 In this section, the term “Prince William Sound and its adjacent waters” means such sound and waters as generally depicted on the map entitled “EXXON VALDEZ oil spill dated March 1990”.
 
-(Pub. L. 101–380, title V, §5001, Aug. 18, 1990, 104 Stat. 542; Pub. L. 104–324, title XI, §1102(a), Oct. 19, 1996, 110 Stat. 3964.)
+(Pub. L. 101–380, title V, §5001, Aug. 18, 1990, 104 Stat. 542; Pub. L. 104–324, title XI, §1102(a), Oct. 19, 1996, 110 Stat. 3964; Pub. L. 107–295, title IV, §427, Nov. 25, 2002, 116 Stat. 2127.)
 
 #### Amendments
+
+2002—Subsec. (i). Pub. L. 107–295 substituted “September 30, 2012” for “10 years after October 19, 1996”.
 
 1996—Subsec. (a). Pub. L. 104–324, §1102(a)(1), (2), struck out “to be administered by the Secretary of Commerce” after “as the ‘Institute’)” and substituted “located” for “and located”.
 

@@ -12,7 +12,7 @@ Provisions similar to those comprising the first sentence of this section were c
 
 1987—Pub. L. 100–203 struck out “(without interest)” after “account, as repayable advances” and “, without interest,” after “shall be repaid”, and inserted sentence at end relating to amounts appropriated as repayable advances for purposes of this subsection.
 
-1983—Pub. L. 98–135 inserted provision requiring that amounts appropriated as repayable advances be repaid, without interest, by transfers from the Federal unemployment account to the general fund of the Treasury, at such times as the amount in the Federal unemployment account is determined by the Secretary of the Treasury, in consultation with the Secretary of Labor, to be adequate for such purpose, and that any amount transferred as a repayment under this section be credited against, and operate to reduce, any balance of advances repayable under this section.
+1983—Pub. L. 98–135 inserted provision requiring that amounts appropriated as repayable advances be repaid,without interest, by transfers from the Federal unemployment account to the general fund of the Treasury, at such times as the amount in the Federal unemployment account is determined by the Secretary of the Treasury, in consultation with the Secretary of Labor, to be adequate for such purpose, and that any amount transferred as a repayment under this section be credited against, and operate to reduce, any balance of advances repayable under this section.
 
 1970—Pub. L. 91–373 inserted reference to section 1102(a) of this title.
 

@@ -26,11 +26,11 @@ An application for registration of a mark under section 1051, 1053, 1054, or 109
 
 &emsp;(4) nothing in this subsection shall entitle the owner of a registration granted under this section to sue for acts committed prior to the date on which his mark was registered in this country unless the registration is based on use in commerce.
 
-In like manner and subject to the same conditions and requirements, the right provided in this section may be based upon a subsequent regularly filed application in the same foreigncountry, instead of the first filed foreign application: <i>Provided</i>, That any foreign application filed prior to such subsequent application has been withdrawn, abandoned, or otherwise disposed of, without having been laid open to public inspection and without leaving any rights outstanding, and has not served, nor thereafter shall serve, as a basis for claiming a right of priority.
+In like manner and subject to the same conditions and requirements, the right provided in this section may be based upon a subsequent regularly filed application in the same foreign country, instead of the first filed foreign application: <i>Provided</i>, That any foreign application filed prior to such subsequent application has been withdrawn, abandoned, or otherwise disposed of, without having been laid open to public inspection and without leaving any rights outstanding, and has not served, nor thereafter shall serve, as a basis for claiming a right of priority.
 
 #### (e) Registration on principal or supplemental register; copy of foreign registration
 
-A mark duly registered in the country of origin of the foreign applicant may be registered on the principal register if eligible, otherwise on the supplemental register in this chapter provided. Such applicant shall submit, within such time period as may be prescribed by the Director, a certification or a certified copy of the registration in the country of origin of the applicant. The application must state the applicant's bona fide intention to use the mark in commerce, but use in commerce shall not be required prior to registration.
+A mark duly registered in the country of origin of the foreign applicant may be registered on the principal register if eligible, otherwise on the supplemental register in this chapter provided. Such applicant shall submit, within such time period as may be prescribed by the Director, a true copy, a photocopy, a certification, or a certified copy of the registration in the country of origin of the applicant. The application must state the applicant's bona fide intention to use the mark in commerce, but use in commerce shall not be required prior to registration.
 
 #### (f) Domestic registration independent of foreign registration
 
@@ -48,7 +48,7 @@ Any person designated in subsection (b) of this section as entitled to the benef
 
 Citizens or residents of the United States shall have the same benefits as are granted by this section to persons described in subsection (b) of this section.
 
-(July 5, 1946, ch. 540, title IX, §44, 60 Stat. 441; Pub. L. 87–333, §2, Oct. 3, 1961, 75 Stat. 748; Pub. L. 87–772, §20, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §133, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title I, §108, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title IX, §44, 60 Stat. 441; Pub. L. 87–333, §2, Oct. 3, 1961, 75 Stat. 748; Pub. L. 87–772, §20, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §133, Nov. 16, 1988, 102 Stat. 3946; Pub. L. 105–330, title I, §108, Oct. 30, 1998, 112 Stat. 3068; Pub. L. 106–43, §6(b), Aug. 5, 1999, 113 Stat. 220; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(12), Nov. 2, 2002, 116 Stat. 1908.)
 
 #### References in Text
 
@@ -59,6 +59,8 @@ Section 1(a) of the Act of March 19, 1920, referred to in subsec. (a), is sectio
 Acts Feb. 20, 1905, ch. 592, §§1, 2, 4, 33 Stat. 724, 725; May 4, 1906, ch. 2081, §§1, 3, 34 Stat. 168, 169; Feb. 18, 1909, ch. 144, 35 Stat. 628; Mar. 19, 1920, ch. 104, §§1, 6, 41 Stat. 533, 535; Apr. 11, 1930, ch. 132, §4, 46 Stat. 155; June 20, 1936, ch. 617, 49 Stat. 1539; June 10, 1938, ch. 332, §§1, 2, 3, 52 Stat. 638, 639.
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–273 substituted “a true copy, a photocopy, a certification,” for “a certification”.
 
 1999—Subsec. (a). Pub. L. 106–113 substituted “Director” for “Commissioner”.
 
@@ -92,7 +94,7 @@ Subsec. (e). Pub. L. 87–772 inserted “certification or a” after “accompa
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1998 Amendment
 
@@ -118,5 +120,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1051, 1057, 1063 of this title.
+This section is referred to in sections 1051, 1057, 1063, 1141j of this title.
 

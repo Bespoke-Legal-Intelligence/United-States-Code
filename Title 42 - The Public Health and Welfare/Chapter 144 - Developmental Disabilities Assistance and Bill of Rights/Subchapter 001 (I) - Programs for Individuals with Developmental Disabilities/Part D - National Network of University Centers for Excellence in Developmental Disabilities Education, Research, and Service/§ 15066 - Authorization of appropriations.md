@@ -4,7 +4,7 @@
 
 #### (1) Authorization
 
-&emsp;There are authorized to be appropriated to carry out this part (other than section 15063(c)(4) of this title) $30,000,000 for fiscal year 2001 and such sums as may be necessary for each of fiscal years 2002 through 2007.
+&emsp;There are authorized to be appropriated to carry out this part (other than section 15063(c)(4) of this title) $30,000,000 for fiscalyear 2001 and such sums as may be necessary for each of fiscal years 2002 through 2007.
 
 #### (2) Reservation for training initiatives
 

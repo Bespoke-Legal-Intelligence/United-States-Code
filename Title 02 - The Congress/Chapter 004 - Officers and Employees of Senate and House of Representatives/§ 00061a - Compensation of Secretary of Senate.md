@@ -32,5 +32,5 @@ Section 4 of Pub. L. 93–371, eff. July 1, 1974, provided in part that: “This
 
 #### Increases in Compensation
 
-Increases in compensation of Secretary of Senate under authority of Federal Salary Act of 1967 (Pub. L.90–206) and Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see section 60a–1 of this title, and Salary Directives of President pro tempore of the Senate, set out as notes under that section.
+Increases in compensation of Secretary of Senate under authority of Federal Salary Act of 1967 (Pub. L. 90–206) and Federal Pay Comparability Act of 1970 (Pub. L. 91–656), see section 60a–1 of this title, and Salary Directives of President pro tempore of the Senate, set out as notes under that section.
 

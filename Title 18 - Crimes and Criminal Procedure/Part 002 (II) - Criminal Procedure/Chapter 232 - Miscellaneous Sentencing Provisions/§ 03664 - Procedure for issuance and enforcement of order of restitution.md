@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) appealed and modified under section 3742;
 
-&emsp;&emsp;(C) amended under section 3664(d)(3); or
+&emsp;&emsp;(C) amended under subsection (d)(5); or
 
 &emsp;&emsp;(D) adjusted under section 3664(k), 3572, or 3613A; or
 
@@ -106,13 +106,15 @@
 
 (p) Nothing in this section or sections 2248, 2259, 2264, 2327, 3663, and 3663A and arising out of the application of such sections, shall be construed to create a cause of action not otherwise authorized in favor of any person against the United States or any officer or employee of the United States.
 
-(Added Pub. L. 97–291, §5(a), Oct. 12, 1982, 96 Stat. 1255, §3580; renumbered §3664, Pub. L. 98–473, title II, §212(a)(1), Oct. 12, 1984, 98 Stat. 1987; amended Pub. L. 101–647, title XXXV, §3596, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §206(a), Apr. 24, 1996, 110 Stat. 1232.)
+(Added Pub. L. 97–291, §5(a), Oct. 12, 1982, 96 Stat. 1255, §3580; renumbered §3664, Pub. L. 98–473, title II, §212(a)(1), Oct. 12, 1984, 98 Stat. 1987; amended Pub. L. 101–647, title XXXV, §3596, Nov. 29, 1990, 104 Stat. 4931; Pub. L. 104–132, title II, §206(a), Apr. 24, 1996, 110 Stat. 1232; Pub. L. 107–273, div. B, title IV, §4002(e)(1), Nov. 2, 2002, 116 Stat. 1810.)
 
 #### References in Text
 
 The Federal Rules of Criminal Procedure, referred to in subsecs. (c) and (<i>o</i>)(1)(A), are set out in the Appendix to this title.
 
 #### Amendments
+
+2002—Subsec. (<i>o</i>)(1)(C). Pub. L. 107–273 substituted “subsection (d)(5)” for “section 3664(d)(3)”.
 
 1996—Pub. L. 104–132 amended section generally, substituting provisions relating to procedure for issuance and enforcement of orders of restitution for provisions relating to procedure for issuing orders of restitution.
 

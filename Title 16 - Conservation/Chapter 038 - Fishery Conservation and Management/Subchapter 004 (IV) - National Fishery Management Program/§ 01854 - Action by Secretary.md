@@ -28,7 +28,7 @@
 
 (4) If the Secretary disapproves or partially approves a plan or amendment, the Council may submit a revised plan or amendment to the Secretary for review under this subsection.
 
-(5) For purposes of this subsection and subsection (b) of this section, the term “immediately” means on or before the 5th day after the day on which a Council transmits to the Secretary a fishery management plan, planamendment, or proposed regulation that the Council characterizes as final.
+(5) For purposes of this subsection and subsection (b) of this section, the term “immediately” means on or before the 5th day after the day on which a Council transmits to the Secretary a fishery management plan, plan amendment, or proposed regulation that the Council characterizes as final.
 
 #### (b) Review of regulations
 
@@ -90,7 +90,7 @@
 
 #### (e) Rebuilding overfished fisheries
 
-(1) The Secretary shall report annually to the Congress and the Councils on the status of fisheries within each Council's geographical area of authority and identify those fisheries that are overfished or are approaching a condition of being overfished. For those fisheries managed under a fishery management plan or international agreement, the status shall be determined using the criteria for overfishing specified in such plan or agreement. A fishery shall be classified as approaching a condition of being overfished if, based on trends in fishing effort, fishery resource size, and other appropriate factors, the Secretary estimates that the fishery will become overfished within two years.
+(1) The Secretary shall report annually to the Congress and the Councils on the status of fisheries within each Council's geographical area of authority and identify those fisheries that are overfished or are approaching a condition of being overfished. For those fisheries managed under a fishery management plan or international agreement, the status shall be determined using the criteria for overfishing specified in such plan or agreement. A fishery shall be classified as approaching a condition of being overfished if, based on trends in fishing effort,fishery resource size, and other appropriate factors, the Secretary estimates that the fishery will become overfished within two years.
 
 (2) If the Secretary determines at any time that a fishery is overfished, the Secretary shall immediately notify the appropriate Council and request that action be taken to end overfishing in the fishery and to implement conservation and management measures to rebuild affected stocks of fish. The Secretary shall publish each notice under this paragraph in the Federal Register.
 
@@ -182,7 +182,7 @@ The Atlantic Tunas Convention Act of 1975, referred to in subsec. (g)(2), is Pub
 
 #### Amendments
 
-1996—Subsecs. (a), (b). Pub. L. 104–297, §109(a), added subsecs. (a) and (b) and struck out former subsecs. (a)which related to actions by Secretary after receipt of a fishery management plan or amendment to a plan and (b) which related to implementation of approved plans and amendments and submission and review of revised plans and amendments.
+1996—Subsecs. (a), (b). Pub. L. 104–297, §109(a), added subsecs. (a) and (b) and struck out former subsecs. (a) which related to actions by Secretary after receipt of a fishery management plan or amendment to a plan and (b) which related to implementation of approved plans and amendments and submission and review of revised plans and amendments.
 
 Subsec. (c). Pub. L. 104–297, §109(b)(1), amended heading to read “Preparation and review of Secretarial plans”.
 
@@ -269,6 +269,10 @@ Subsec. (d). Pub. L. 97–453, §7(a)(3), inserted provisions relating to agreem
 #### Effective Date of 1983 Amendment
 
 Section 7(b) of Pub. L. 97–453 provided that: “The amendments made by subsection (a) \[amending this section\] shall only apply with respect to fishery management plans and amendments thereto that are initially submitted to the Secretary of Commerce on or after the date of the enactment of this Act \[Jan. 12, 1983\] for action under section 304 \[this section\].”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 

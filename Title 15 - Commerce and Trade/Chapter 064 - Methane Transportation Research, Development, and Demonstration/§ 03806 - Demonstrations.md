@@ -6,7 +6,7 @@ Not later than January 1, 1982, the Secretary shall develop data assessing the c
 
 #### (b) Guidelines; promulgation, criteria, scope, etc.
 
-Not later than April 1, 1982, the Secretary shall have promulgated necessary and appropriate guidelines for demonstrations and issued an initial request for proposals for technical and financial assistance to support public and private entities in developing and implementing demonstration projects to gather data on the operation of methane-fueled vehicles and methane transmission, storage, and dispensing facilities, under differing climatic, atmospheric, and operating conditions and on design and technical modifications of those vehicles and facilities:
+Not later than April 1, 1982, the Secretary shall have promulgated necessary and appropriate guidelines for demonstrations and issued an initial request for proposals for technical and financial assistance to support public and private entities in developing and implementingdemonstration projects to gather data on the operation of methane-fueled vehicles and methane transmission, storage, and dispensing facilities, under differing climatic, atmospheric, and operating conditions and on design and technical modifications of those vehicles and facilities:
 
 &emsp;(1) In the case of public entities, the Secretary is authorized to provide—
 
@@ -22,7 +22,7 @@ Not later than April 1, 1982, the Secretary shall have promulgated necessary and
 
 &emsp;(B) Loans issued under this section shall bear interest at such rate as the Secretary may determine, giving consideration to the needs and capacities of the recipient and the prevailing rates of interest (public and private), except that such rate shall not be less than a rate determined by the Secretary of the Treasury, taking into consideration the current average yield on outstanding marketable obligations of the United States with remaining periods of maturity comparable to the average maturities of such loans. No loan shall be made unless the Secretary shall have determined that there is reasonable prospect of repayment.
 
-&emsp;(C) The terms and conditions of loans issued under this section shall take into account the scope of the particular demonstration and any particular conditions which might reasonablybe expected to result in additional costs to the recipient, and shall reflect the relative costs of gasoline and diesel fuel and methane and the projected savings in fuel costs to the recipient as a result of participating in the demonstration. In no instance shall a loan issued under this section be for a period in excess of five years.
+&emsp;(C) The terms and conditions of loans issued under this section shall take into account the scope of the particular demonstration and any particular conditions which might reasonably be expected to result in additional costs to the recipient, and shall reflect the relative costs of gasoline and diesel fuel and methane and the projected savings in fuel costs to the recipient as a result of participating in the demonstration. In no instance shall a loan issued under this section be for a period in excess of five years.
 
 &emsp;(3) The Secretary shall provide for appropriate assistance to defray costs associated with complying with data acquisition and reporting requirements under this chapter.
 
@@ -52,7 +52,7 @@ In selecting proposed demonstrations to be supported under this section, the Sec
 
 &emsp;(6) average trip lengths:
 
-> <i>Provided, however</i>, That not fewer than two demonstrations initiated in each year shall be located in a county or standard metropolitan statistical area designated by the Secretary upon recommendation of the Administrator of the Environmental Protection Agency based on severity or uniqueness of air quality conditions: <i>And provided further</i>, That the fleet or portions of fleets participating in each demonstration with funding under this chapter shall consist of not fewer than fifty vehicles except in the case of one demonstration each year involving methane-fueled off-road agricultural equipment.
+> <i>Provided, however</i>, That not fewer than two demonstrations initiated in each year shall be located in a county or standard metropolitan statistical area designated by the Secretary upon recommendation of the Administrator of the Environmental Protection Agency based on severity or uniqueness of air quality conditions: <i>And provided further</i>, That the fleet or portions of fleets participating in each demonstration withfunding under this chapter shall consist of not fewer than fifty vehicles except in the case of one demonstration each year involving methane-fueled off-road agricultural equipment.
 
 (Pub. L. 96–512, §7, Dec. 12, 1980, 94 Stat. 2830.)
 

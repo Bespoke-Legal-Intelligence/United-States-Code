@@ -2,15 +2,21 @@
 
 The purposes of this chapter are—
 
-&emsp;(1) to promote and encourage State activities in support of the management of interjurisdictional fishery resources; and
+&emsp;(1) to promote and encourage State activities in support of the management of interjurisdictional fishery resources;
 
-&emsp;(2) to promote and encourage management of interjurisdictional fishery resources throughout their range.
+&emsp;(2) to promote and encourage management of interjurisdictional fishery resources throughout their range; and
 
-(Pub. L. 99–659, title III, §302, Nov. 14, 1986, 100 Stat. 3732.)
+&emsp;(3) to promote and encourage research in preparation for the implementation of the use of ecosystems and interspecies approaches to the conservation and management of interjurisdictional fishery resources throughout their range.
+
+(Pub. L. 99–659, title III, §302, Nov. 14, 1986, 100 Stat. 3732; Pub. L. 107–372, title III, §302(b), Dec. 19, 2002, 116 Stat. 3095.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this title”, meaning title III of Pub. L. 99–659, Nov. 14, 1986, 100 Stat. 3731, which is classified principally to this chapter. For complete classification of title III to the Code, see Short Title note set out below and Tables.
+
+#### Amendments
+
+2002—Par. (3). Pub. L. 107–372 added par. (3).
 
 #### Effective Date
 

@@ -44,5 +44,5 @@ Subsec. (b)(3). Pub. L. 102–190, §1094(a)(2), added par. (3).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 40 section 490b.
+This section is referred to in title 40 section 590.
 

@@ -28,7 +28,7 @@
 
 (f) A prosecution of an offense under this section may be commenced any time not later than 7 years after the offense is committed, plus any additional time otherwise allowed by law.
 
-(g)(1) In special circumstances and in his or her sole discretion, the Attorney General is authorized to make payments from funds appropriated to the Department of Justice to persons who furnish information relating to a possible prosecution under this section. The amount of such payment shall not exceed $250,000. Upon application by the Attorney General, the courtmay order that the Department shall be reimbursed for a payment from a criminal fine imposed under this section.
+(g)(1) In special circumstances and in his or her sole discretion, the Attorney General is authorized to make payments from funds appropriated to the Department of Justice to persons who furnish information relating to a possible prosecution under this section. The amount of such payment shall not exceed $250,000. Upon application by the Attorney General, the court may order that the Department shall be reimbursed for a payment from a criminal fine imposed under this section.
 
 (2) An individual is not eligible for such a payment if—
 
@@ -46,7 +46,7 @@
 
 &emsp;(1) is discharged, demoted, suspended, threatened, harassed, or in any other manner discriminated against in the terms and conditions of employment by an employer because of lawful acts done by the employee on behalf of the employee or others in furtherance of a prosecution under this section (including investigation for, initiation of, testimony for, or assistance in such prosecution), and
 
-&emsp;(2) was not a participant in the unlawful activity that is the subject of said prosecution, may, in a civil action, obtain all relief necessary to make such individual whole. Such relief shall include reinstatement with the same seniority status such individual would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorney's fees.
+&emsp;(2) was not a participant in the unlawful activity that is the subject of said prosecution,may, in a civil action, obtain all relief necessary to make such individual whole. Such relief shall include reinstatement with the same seniority status such individual would have had but for the discrimination, 2 times the amount of back pay, interest on the back pay, and compensation for any special damages sustained as a result of the discrimination, including litigation costs and reasonable attorney's fees.
 
 (Added Pub. L. 100–700, §2(a), Nov. 19, 1988, 102 Stat. 4631; amended Pub. L. 101–123, §2(a), Oct. 23, 1989, 103 Stat. 759; Pub. L. 103–322, title XXXIII, §330002(a), (f), Sept. 13, 1994, 108 Stat. 2140.)
 

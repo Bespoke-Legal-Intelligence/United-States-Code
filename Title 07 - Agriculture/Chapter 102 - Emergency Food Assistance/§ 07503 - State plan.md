@@ -18,7 +18,7 @@ Each plan shall—
 
 &emsp;&emsp;(A) individuals or households to be comprised of needy persons; and
 
-&emsp;&emsp;(B) individual or household members to be residing in the geographic location served by the distributing agency at the time of applying for assistance.
+&emsp;&emsp;(B) individual or household members to be residing in the geographic location served bythe distributing agency at the time of applying for assistance.
 
 #### (c) State advisory board
 

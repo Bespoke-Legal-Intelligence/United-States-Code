@@ -54,6 +54,48 @@ Authority of Director of National Science Foundation, from time to time, to make
 
 Office of Director of National Science Foundation established under provisions of this section abolished and functions transferred to Director of National Science Foundation appointed pursuant to Reorg. Plan No. 2 of 1962, see section 22 (a), (b) of Reorg. Plan No. 2 of 1962, eff. June 8, 1962, 27 F.R. 5419, 76 Stat. 1253, set out as a note under section 1861 of this title.
 
+#### Study on Research and Development Funding Data Discrepancies
+
+Pub. L. 107–368, §25, Dec. 19, 2002, 116 Stat. 3067, provided that:
+
+“(a)
+
+Study.—The Director, in consultation with the Director of the Office of Management and Budget and the heads of other Federal agencies, shall enter into agreement with the National Academy of Sciences to conduct a comprehensive study to determine the source of discrepancies in Federal reports on obligations and actual expenditures of Federal research and development funding.
+
+“(b)
+
+Contents.—The study shall—
+
+&emsp;“(1) examine the relevance and accuracy of reporting classifications and definitions used in the reports described in subsection (a);
+
+&emsp;“(2) examine whether the classifications and definitions are used consistently across Federal agencies for data gathering;
+
+&emsp;“(3) examine whether and how Federal agencies use reports described in subsection (a), and describe any other sources of similar data used by those agencies;
+
+&emsp;“(4) recommend alternatives for modifications to the current reporting process and system that would—
+
+&emsp;&emsp;“(A) accommodate emerging fields of science and changing practices in the conduct of research and development;
+
+&emsp;&emsp;“(B) minimize, to the extent possible, the burden imposed on the reporters of these data;
+
+&emsp;&emsp;“(C) increase the consistency of application of the system across the Federal agencies including the Office of Management and Budget and the Foundation;
+
+&emsp;&emsp;“(D) encourage the use of new technologies to increase accuracy, timeliness, and consistency of the reported data between the agencies and the research performers; and
+
+&emsp;&emsp;“(E) overcome systemic shortfalls; and
+
+&emsp;“(5) recommend an implementation timeline for the modifications recommended under paragraph (4), and recommend specific responsibilities for the program and budget offices in the agencies, taking into consideration required changes to the current computer systems and processes used by the agencies.
+
+“(c)
+
+Submission.—The Director shall submit a report on the results of the study to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate within one year after the date of enactment of this Act \[Dec. 19, 2002\].
+
+“(d)
+
+Implementation.—Within 6 months after the completion of the study required by subsection (a), the Director of the Office of Science and Technology Policy shall submit to the Committee on Science of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Health, Education, Labor, and Pensions of the Senate a plan for implementation of the recommendations of the study.”
+
+\[For definitions of terms used in section 25 of Pub. L. 107–368, set out above, see section 4 of Pub. L. 107–368, set out as a note under section 1862n of this title.\]
+
 #### Research Purposes of Grants; Brief Statement in Titles
 
 Pub. L. 96–516, §20, Dec. 12, 1980, 94 Stat. 3010, provided that: “The Director of the National Science Foundation shall require the titles of all its grants to contain a brief statement of the purpose of the research being undertaken. Insofar as possible such statements shall be in layman's language.”
@@ -72,7 +114,7 @@ Pub. L. 95–434, §8, Oct. 10, 1978, 92 Stat. 1050, provided that:
 
 #### Feasibility Study of the Operation of the Peer Review System in the Evaluation of Grant Proposals
 
-Pub. L. 94–471, §2(f), Oct. 11, 1976, 90 Stat. 2053, provided that: “The Director of the National Science Foundation is authorized and directed to conduct a feasibility study of operating the peer review system used in the evaluation of grant proposals within the Foundation so as to assure that the identity of the proposer is not known to the reviewers of the proposal. Any such system shall be considered to supplement and not to supplant the peer review system in operation in the Foundation on the date of enactment of this Act \[Oct. 11, 1976\].”
+Pub. L. 94–471, §2(f), Oct. 11, 1976, 90 Stat. 2053, provided that: “The Director of the National ScienceFoundation is authorized and directed to conduct a feasibility study of operating the peer review system used in the evaluation of grant proposals within the Foundation so as to assure that the identity of the proposer is not known to the reviewers of the proposal. Any such system shall be considered to supplement and not to supplant the peer review system in operation in the Foundation on the date of enactment of this Act \[Oct. 11, 1976\].”
 
 #### Science for Citizens Program; Preparation and Submission of Plan to Committees of Congress
 

@@ -18,7 +18,7 @@ After the Board has been duly constituted, subject to the other provisions of th
 
 #### (2) Executive officers and functions
 
-&emsp;The persons elected or appointed under paragraph (1)(B) shall be the executive officers of the Corporation and shall discharge the executive functions, powers, and duties of the Corporation.
+&emsp;The persons elected or appointed under paragraph (1)(B) shall be the executive officers ofthe Corporation and shall discharge the executive functions, powers, and duties of the Corporation.
 
 #### (c) Powers of Corporation
 

@@ -1,0 +1,40 @@
+### §1220c–1. Financial assistance to State to prepare transferred ship
+
+#### (a) Assistance authorized
+
+The Secretary, subject to the availability of appropriations, may provide, to any State to which an obsolete ship is transferred under this chapter, financial assistance to prepare the ship for use as an artificial reef, including for—
+
+&emsp;(1) environmental remediation;
+
+&emsp;(2) towing; and
+
+&emsp;(3) sinking.
+
+#### (b) Amount of assistance
+
+The Secretary shall determine the amount of assistance under this section with respect to an obsolete ship based on—
+
+&emsp;(1) the total amount available for providing assistance under this section;
+
+&emsp;(2) the benefit achieved by providing assistance for that ship; and
+
+&emsp;(3) the cost effectiveness of disposing of the ship by transfer under this chapter and provision of assistance under this section, compared to other disposal options for that ship.
+
+#### (c) Terms and conditions
+
+The Secretary—
+
+&emsp;(1) shall require a State seeking assistance under this section to provide cost data and other information determined by the Secretary to be necessary to justify and document the assistance; and
+
+&emsp;(2) may require a State receiving such assistance to comply with terms and conditions necessary to protect the environment and the interests of the United States.
+
+(Pub. L. 92–402, §7, as added Pub. L. 107–314, div. C, title XXXV, §3504(a)(1)(B), Dec. 2, 2002, 116 Stat. 2754.)
+
+#### Prior Provisions
+
+A prior section 7 of Pub. L. 92–402 was renumbered section 8 and is classified to section 1220d of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1220a of this title.
+

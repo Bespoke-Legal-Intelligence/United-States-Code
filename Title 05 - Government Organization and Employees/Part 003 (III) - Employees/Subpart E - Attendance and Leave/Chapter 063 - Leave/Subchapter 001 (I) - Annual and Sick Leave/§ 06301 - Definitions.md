@@ -150,7 +150,7 @@ Pub. L. 100–566, §1, Oct. 31, 1988, 102 Stat. 2834, provided that: “This Ac
 
 #### Employees of the District of Columbia
 
-Pub. L. 99–335, title II, §207(c)(2), as added by Pub. L. 99–556, title II, §201, Oct. 27, 1986, 100 Stat. 3135, providedthat: “The amendment made by paragraph (1) \[amending this section\] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made.”
+Pub. L. 99–335, title II, §207(c)(2), as added by Pub. L. 99–556, title II, §201, Oct. 27, 1986, 100 Stat. 3135, provided that: “The amendment made by paragraph (1) \[amending this section\] shall not result in the coverage, under subchapter I of chapter 63 of title 5, United States Code, of any individual (or class of individuals) employed by the government of the District of Columbia who would not have been covered under such subchapter if such amendment had not been made.”
 
 #### Executive Order No. 10540
 

@@ -16,7 +16,7 @@ There shall be an Office of Small Business, headed by a Special Assistant for Sm
 
 #### (c) Information with respect to certain purchases by Department of Defense
 
-The Secretary of Defense shall assure that there is made available to suppliers in theUnited States, and particularly to small independent enterprises, information with respect to purchases made by the Department of Defense pursuant to subchapter II of this chapter, such information to be furnished as far in advance as possible.
+The Secretary of Defense shall assure that there is made available to suppliers in the United States, and particularly to small independent enterprises, information with respect to purchases made by the Department of Defense pursuant to subchapter II of this chapter, such information to be furnished as far in advance as possible.
 
 (Pub. L. 87–195, pt. III, §602, Sept. 4, 1961, 75 Stat. 439.)
 
@@ -32,13 +32,105 @@ References to subchapter II of this chapter are deemed to exclude parts IV (§23
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Reports on Participation by Small Businesses in Procurement Contracts of USAID
+
+Pub. L. 107–228, div. A, title VI, §687, Sept. 30, 2002, 116 Stat. 1411, provided that:
+
+“(a)
+
+Initial Report.—Not later than 120 days after the date of the enactment of this Act \[Sept. 30, 2002\],the Administrator shall submit to the designated congressional committees a report that contains the following:
+
+&emsp;“(1) For each of the fiscal years 2000, 2001, and 2002:
+
+&emsp;&emsp;“(A) The total number of the contracts that were awarded by the Agency to—
+
+&emsp;&emsp;&emsp;“(i) all small businesses;
+
+&emsp;&emsp;&emsp;“(ii) small business concerns owned and controlled by socially and economically disadvantaged individuals;
+
+&emsp;&emsp;&emsp;“(iii) small business concerns owned and controlled by women;
+
+&emsp;&emsp;&emsp;“(iv) small businesses participating in the program under section 8(a) of such Act \[probably means section 8(a) of the Small Business Act\] (15 U.S.C. 637(a)); and
+
+&emsp;&emsp;&emsp;“(v) qualified HUBZone small business concerns.
+
+&emsp;&emsp;“(B) The percentage of all contracts awarded by the Agency that were awarded to the small businesses in each category of small businesses specified in clauses (i) through (v) of subparagraph (A), as computed on the basis of dollar amounts.
+
+&emsp;&emsp;“(C) Of all contracts awarded by the Agency for performance in the United States, the percentage of the contracts that were awarded to the small businesses in each category of small businesses specified in clauses (i) through (v) of subparagraph (A), as computed on the basis of dollar amounts.
+
+&emsp;&emsp;“(D) To the extent available—
+
+&emsp;&emsp;&emsp;“(i) the total number of grant and cooperative agreements that were made by the Agency to the small businesses in each category of small businesses specified in clauses (i) through (v) of subparagraph (A);
+
+&emsp;&emsp;&emsp;“(ii) the percentage of all grant and cooperative agreements awarded by the Agency that were awarded to small businesses in each category of small businesses specified in clauses (i) through (v) of subparagraph (A), as computed on the basis of dollar amounts; and
+
+&emsp;&emsp;&emsp;“(iii) of all grant and cooperative agreements made by the Agency to entities in the United States, the percentage of the grant and cooperative agreements that were awarded to small businesses in each category of small businesses specified in clauses (i) through (v) of subparagraph (A), as computed on the basis of dollar amounts.
+
+&emsp;&emsp;“(E) To the extent available—
+
+&emsp;&emsp;&emsp;“(i) the total dollar amount of all subcontracts entered into with the small businesses in each category specified in clauses (i) through (v) of subparagraph (A) by the prime contractors for contracts entered into by the Agency; and
+
+&emsp;&emsp;&emsp;“(ii) the percentage of all contracts entered into by the Agency that were performed under subcontracts described in clause (i), as computed on the basis of dollar amounts.
+
+&emsp;“(2) An analysis of any specific industries or sectors that are underrepresented by small businesses in the awarding of contracts by the Agency and, to the extent such information is available, such analysis pertaining to the making of grants and cooperative agreements by the Agency.
+
+&emsp;“(3) A specific plan of outreach, including measurable achievement milestones, to increase the total number of contracts that are awarded by the Agency, and the percentage of all contracts awarded by the Agency (computed on the basis of dollar amount) that are awarded, to—
+
+&emsp;&emsp;“(A) all small businesses;
+
+&emsp;&emsp;“(B) small business concerns owned and controlled by socially and economically disadvantaged individuals;
+
+&emsp;&emsp;“(C) small business concerns owned and controlled by women;
+
+&emsp;&emsp;“(D) small businesses participating in the program under section 8(a) of such Act (15 U.S.C. 637(a)); and
+
+&emsp;&emsp;“(E) qualified HUBZone small business concerns,
+
+> &emsp;in order to meet the statutory and voluntary targets established by the Agency and the Small Business Administration, with a particular focus on the industries or sectors identified in paragraph (2).
+
+&emsp;“(4) Any other information the Administrator determines appropriate.
+
+“(b)
+
+Plan To Increase Small Business Contracting.—The plan required for the report under subsection (a)(3) shall include the following matters:
+
+&emsp;“(1) Proposals and milestones that apply to all contracts entered into by or on behalf of the Agency in Washington, D.C., and proposals and milestones that apply to all contracts entered into by or on behalf of the Agency by offices outside Washington, D.C.
+
+&emsp;“(2) Proposals and milestones of the Agency to increase the amount of subcontracting to businesses described in such subsection (a)(3) by the prime contractors of the Agency.
+
+&emsp;“(3) With the milestones described in paragraph (2), a description of how the Administrator plans to use the failure of a prime contractor to meet goals as a ranking factor for evaluating any other submission from the contractor for future contracts by the Agency.
+
+“(c)
+
+Annual Reports.—Not later than January 31, 2004, January 31, 2005, and January 31, 2006, the Administrator shall submit to the designated congressional committees a report for the preceding fiscal year that contains a description of the percentage of total contract and grant and cooperative agreement dollar amounts that were entered into by the Agency, and the total number of contracts and grants and cooperative agreements that were awarded by the Agency, to small businesses in each category specified in clauses (i) through (v) of subsection (a)(1)(A) during such fiscal year. The report for a fiscal year shall include, separately stated for contracts and grant and cooperative agreements entered into by the Agency, the percentage of the contracts and grant and cooperative agreements, respectively, that were awarded to small businesses in each such category, as computed on the basis of dollar amounts. The report shall also include a description of achievements toward measurable milestones for direct contracts of the Agency entered into by offices outside of Washington, D.C., and for subcontracting by prime contractors of the Agency.
+
+“(d)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Administrator.—The term ‘Administrator’ means the Administrator of the United States Agency for International Development.
+
+&emsp;“(2)
+
+Agency.—The term ‘Agency’ means the United States Agency for International Development.
+
+&emsp;“(3)
+
+Designated congressional committees.—The term ‘designated congressional committees’ means—
+
+&emsp;&emsp;“(A) the Committee on International Relations and the Committee on Small Business of the House of Representatives; and
+
+&emsp;&emsp;“(B) the Committee on Foreign Relations and the Committee on Small Business of the Senate.”
+
 #### Office in Agency for International Development
 
 For location of the Office of Small Business, provided for in subsec. (b), in the United States Agency for International Development, see section 1–200(d) of Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
 #### Procurements From Small Businesses
 
-Pub. L. 94–329, title VI, §602, June 30, 1976, 90 Stat. 766, provided that: “In order to encourage procurements from small business concerns under chapter 4 of the Foreign Assistance Act of 1961 \[part IV of subchapter II of this chapter\], the Administrator of the Agency for International Development shall report to the Congress every six months on the extent to which small businesses have participated in procurements under such chapter \[part\] and on what efforts the Agency has made to foster such procurements from small business concerns. The Small Business Administration shall lend all available assistance to the Agency for the purposes of carrying out this section.”
+Pub. L. 94–329, title VI, §602, June 30, 1976, 90 Stat. 766, provided that: “In order to encourage procurements from small business concerns under chapter 4 of the Foreign Assistance Act of 1961 \[part IV of subchapter II of this chapter\], the Administrator of the Agency for International Development shall report to the Congress every six months on the extent to which small businesses have participated in procurements under such chapter \[part\] and on what efforts the Agency has made to foster such procurements from small business concerns. The Small Business Administrationshall lend all available assistance to the Agency for the purposes of carrying out this section.”
 
 \[For termination, effective May 15, 2000, of reporting provisions in section 602 of Pub. L. 94–329, set out above, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 130 of House Document No. 103–7.\]
 

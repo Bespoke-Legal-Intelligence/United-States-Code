@@ -23,6 +23,7 @@
 | (k) | Assistance to third parties included; educational benefits; exceptions. |
 | (<i>l</i>) | Earnings to participants of on-the-job training programs; exception. |
 | (m) | Simplified calculation of income for self-employed. |
+| (n) | State options to simplify determination of child support payments. |
 | [2015\.](%C2%A7%2002015%20-%20Eligibility%20disqualifications.md) | Eligibility disqualifications. |
 | (a) | Additional specific conditions rendering individuals ineligible. |
 | (b) | Fraud and misrepresentation; disqualification penalties; ineligibility period; applicable procedures. |
@@ -57,6 +58,7 @@
 | (c) | First month benefits prorated. |
 | (d) | Reduction of public assistance benefits. |
 | (e) | Allotments for households residing in centers. |
+| (f) | Alternative procedures for residents of certain group facilities. |
 | [2018\.](%C2%A7%2002018%20-%20Approval%20of%20retail%20food%20stores%20and%20wholesale%20food%20concerns.md) | Approval of retail food stores and wholesale food concerns. |
 | (a) | Applications; qualifications; certificate of approval; periodic reauthorization. |
 | (b) | Effective and efficient operation of program; effect of disqualification; posting of bond. |
@@ -84,6 +86,8 @@
 | (p) | State verification option. |
 | (q) | Denial of food stamps for prisoners. |
 | (r) | Denial of food stamps for deceased individuals. |
+| (s) | Transitional benefits option. |
+| (t) | Grants for simple application and eligibility determination systems and improved access to benefits. |
 | [2021\.](%C2%A7%2002021%20-%20Civil%20money%20penalties%20and%20disqualification%20of%20retail%20food%20stores%20and%20wholesale%20food%20concerns.md) | Civil money penalties and disqualification of retail food stores and wholesale food concerns. |
 | (a) | Disqualification or civil penalty. |
 | (b) | Period of disqualification. |
@@ -93,7 +97,7 @@
 | (f) | Fines for unauthorized third parties that accept food stamps. |
 | (g) | Disqualification of retailers who are disqualified under WIC program. |
 | [2022\.](%C2%A7%2002022%20-%20Disposition%20of%20claims.md) | Disposition of claims. |
-| (a) | Authority of Secretary; review of State program investment when settling claims; interest on claims against State agencies; joint and several liability. |
+| (a) | General authority of the Secretary. |
 | (b) | Collection of overissuances. |
 | (c) | Food stamp intercept of unemployment benefits. |
 | (d) | Recovery of overissuance of coupons. |
@@ -110,8 +114,8 @@
 | [2025\.](%C2%A7%2002025%20-%20Administrative%20cost-sharing%20and%20quality%20control.md) | Administrative cost-sharing and quality control. |
 | (a) | Administrative costs. |
 | (b) | Work supplementation or support program. |
-| (c) | Payment error improvement system; purposes, establishment, definitions, implementation, etc. |
-| (d) | Assessment and evaluation of payment error improvement system. |
+| (c) | Quality control system. |
+| (d) | Bonuses for States that demonstrate high or most improved performance. |
 | (e) | Use of social security account numbers; access to information. |
 | (f) | Payment of certain legal fees. |
 | (g) | Cost sharing for computerization. |
@@ -128,9 +132,8 @@
 | (f) | Demonstration projects for development and use of intelligent computer benefit cards to pay food stamp benefits. |
 | (g) | Study of effectiveness of food stamp employment and training program. |
 | (h) | Demonstration projects for vehicle exclusion limits. |
-| (i) | Grants to improve food stamp participation. |
-| (j) | Testing resource accumulation. |
-| (k) | Demonstration projects directed at food coupon trafficking. |
+| (i) | Testing resource accumulation. |
+| (j) | Demonstration projects directed at food coupon trafficking. |
 | [2027\.](%C2%A7%2002027%20-%20Appropriations%20and%20allotments.md) | Appropriations and allotments. |
 | (a) | Authorization of allotments; monthly reports of expenditures to Congressional committees; restriction on use of funds; nutrition education improvements. |
 | (b) | Limitation of value of allotments; reduction of allotments. |
@@ -138,8 +141,8 @@
 | (d) | Requisite action by Secretary to reduce allotments; statement to Congressional committees. |
 | (e) | Disposition of funds collected pursuant to claims. |
 | (f) | Transfer of funds. |
-| [2028\.](%C2%A7%2002028%20-%20Puerto%20Rico%20block%20grant.md) | Puerto Rico block grant. |
-| (a) | Appropriations; payment. |
+| [2028\.](%C2%A7%2002028%20-%20Consolidated%20block%20grants%20for%20Puerto%20Rico%20and%20American%20Samoa.md) | Consolidated block grants for Puerto Rico and American Samoa. |
+| (a) | Payments to governmental entities. |
 | (b) | Plan for provision of assistance; approval; noncompliance. |
 | (c) | Review; technical assistance. |
 | (d) | Penalty for violations. |
@@ -175,7 +178,7 @@
 | (a) | Standards and procedures for reviews. |
 | (b) | Standards for approval of systems. |
 | (c) | Report. |
-| [2033\.](%C2%A7%2002033%20-%20Territory%20of%20American%20Samoa.md) | Territory of American Samoa. |
+| [2033\.](%C2%A7%2002033%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20IV%2C%20%C2%A74124%28b%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20326.md) | Repealed. |
 | [2034\.](%C2%A7%2002034%20-%20Assistance%20for%20community%20food%20projects.md) | Assistance for community food projects. |
 | (a) | “Community food projects” defined. |
 | (b) | Authority to provide assistance. |
@@ -184,7 +187,7 @@
 | (e) | Matching funds requirements. |
 | (f) | Term of grant. |
 | (g) | Technical assistance and related information. |
-| (h) | Evaluation. |
+| (h) | Innovative programs for addressing common community problems. |
 | [2035\.](%C2%A7%2002035%20-%20Simplified%20Food%20Stamp%20Program.md) | Simplified Food Stamp Program. |
 | (a) | “Federal costs” defined. |
 | (b) | Election. |
@@ -200,7 +203,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2270, 3175a, 3175b of this title; title 8 sections 1255a, 1612; title 21 section 862a; title 26 sections 32, 51, 6103, 6109; title 29 sections 49b, 2801; title 42 sections 405, 503, 603, 608, 608a, 1314a, 1320b–7, 1383, 1437f, 1758, 1766, 1786, 3012, 3056g, 3058e, 5179, 8622, 8624, 9858i; title 43 section 1626; title 48 section 1841.
+This chapter is referred to in sections 2270, 3175a, 3175b of this title; title 8 sections 1255a, 1612, 1613, 1631; title 21 section 862a; title 26 sections 32, 51, 6103, 6109; title 29 sections 49b, 2801; title 42 sections 405, 503, 603, 608, 608a, 1314a, 1320b–7, 1383, 1437f, 1758, 1766, 1786, 3012, 3056g, 3058e, 5179, 8622, 8624, 9858i; title 43 section 1626; title 48 section 1841.
 
 
 ---
@@ -225,12 +228,12 @@ This chapter is referred to in sections 2270, 3175a, 3175b of this title; title 
 - [&sect; 02025 - Administrative cost-sharing and quality control](%C2%A7%2002025%20-%20Administrative%20cost-sharing%20and%20quality%20control.md)
 - [&sect; 02026 - Research, demonstration, and evaluations](%C2%A7%2002026%20-%20Research%2C%20demonstration%2C%20and%20evaluations.md)
 - [&sect; 02027 - Appropriations and allotments](%C2%A7%2002027%20-%20Appropriations%20and%20allotments.md)
-- [&sect; 02028 - Puerto Rico block grant](%C2%A7%2002028%20-%20Puerto%20Rico%20block%20grant.md)
+- [&sect; 02028 - Consolidated block grants for Puerto Rico and American Samoa](%C2%A7%2002028%20-%20Consolidated%20block%20grants%20for%20Puerto%20Rico%20and%20American%20Samoa.md)
 - [&sect; 02029 - Workfare](%C2%A7%2002029%20-%20Workfare.md)
 - [&sect; 02030 - Washington Family Independence Demonstration Project](%C2%A7%2002030%20-%20Washington%20Family%20Independence%20Demonstration%20Project.md)
 - [&sect; 02031 - Food stamp portion of Minnesota Family Investment Plan](%C2%A7%2002031%20-%20Food%20stamp%20portion%20of%20Minnesota%20Family%20Investment%20Plan.md)
 - [&sect; 02032 - Automated data processing and information retrieval systems](%C2%A7%2002032%20-%20Automated%20data%20processing%20and%20information%20retrieval%20systems.md)
-- [&sect; 02033 - Territory of American Samoa](%C2%A7%2002033%20-%20Territory%20of%20American%20Samoa.md)
+- [&sect; 02033 - Repealed. Pub. L. 107&#8211;171, title IV, &sect;4124(b), May 13, 2002, 116 Stat. 326](%C2%A7%2002033%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20IV%2C%20%C2%A74124%28b%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20326.md)
 - [&sect; 02034 - Assistance for community food projects](%C2%A7%2002034%20-%20Assistance%20for%20community%20food%20projects.md)
 - [&sect; 02035 - Simplified Food Stamp Program](%C2%A7%2002035%20-%20Simplified%20Food%20Stamp%20Program.md)
 - [&sect; 02036 - Availability of commodities for emergency food assistance program](%C2%A7%2002036%20-%20Availability%20of%20commodities%20for%20emergency%20food%20assistance%20program.md)

@@ -58,5 +58,5 @@ Subsecs. (b) to (d). Pub. L. 106–398, §1 \[\[div. A\], title III, §385(a)(2)
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–398, §1 \[\[div. A\], title III, §385(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–87, provided that: “The amendments made by this section \[amending this section\] shall take effect on October 1, 2000.”
+Pub. L. 106–398, §1 \[\[div. A\], title III, §385(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–87, provided that: “Theamendments made by this section \[amending this section\] shall take effect on October 1, 2000.”
 

@@ -24,7 +24,7 @@
 
 &emsp;(10) A description of the available space, facilities, and equipment;
 
-&emsp;(11) A course outline for each course for which approval is requested, showing subjects or units in the course, type of work or skill to be learned, and approximate time and clock hours to be spent on each subject or unit; and
+&emsp;(11) A course outline for each course for which approval is requested, showing subjectsor units in the course, type of work or skill to be learned, and approximate time and clock hours to be spent on each subject or unit; and
 
 &emsp;(12) Policy and regulations of the institution relative to granting credit for previous educational training.
 
@@ -54,7 +54,7 @@
 
 &emsp;(12) The institution's administrators, directors, owners, and instructors are of good reputation and character.
 
-&emsp;(13) The institution has and maintains a policy for the refund of the unused portion of tuition, fees, and other charges in the event the eligible person fails to enter the course or withdraws or is discontinued therefrom at any time prior to completion and such policy mustprovide that the amount charged to the eligible person for tuition, fees, and other charges for a portion of the course shall not exceed the approximate pro rata portion of the total charges for tuition, fees, and other charges that the length of the completed portion of the course bears to its total length.
+&emsp;(13) The institution has and maintains a policy for the refund of the unused portion of tuition, fees, and other charges in the event the eligible person fails to enter the course or withdraws or is discontinued therefrom at any time prior to completion and such policy must provide that the amount charged to the eligible person for tuition, fees, and other charges for a portion of the course shall not exceed the approximate pro rata portion of the total charges for tuition, fees, and other charges that the length of the completed portion of the course bears to its total length.
 
 &emsp;(14) Such additional criteria as may be deemed necessary by the State approving agency.
 

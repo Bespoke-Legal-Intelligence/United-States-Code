@@ -22,5 +22,5 @@ Act Sept. 23, 1950, ch. 1024, §19, 64 Stat. 1005, provided that an indictment f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 951 of this title; title 5 section 8312; title 38 section 6105; title 42 section 2000aa; title 50 App. sections 19, 34.
+This section is referred to in section 951 of this title; title 5 section 8312; title 38 section 6105; title 42 section 2000aa; title 50 App. sections 19, 34.
 

@@ -30,7 +30,7 @@
 
 &emsp;(1) the non-Federal average manufacturer price of the drug during the 3-month period that ends one year before the last day of the month preceding the month during which the contract for the covered drug goes into effect (or, in the case of a covered drug for which sufficient data for determining the non-Federal average manufacturer price during such period is not available, during such period as the Secretary considers appropriate); multiplied by
 
-&emsp;(2) the percentage increase in the Consumer Price Index for all urban consumers (U.S. city average) between the last month of the period described in paragraph (1) and the last month preceding the month during which the contract goes into effect for which Consumer Price Index data is available.
+&emsp;(2) the percentage increase in the Consumer Price Index for all urban consumers (U.S. cityaverage) between the last month of the period described in paragraph (1) and the last month preceding the month during which the contract goes into effect for which Consumer Price Index data is available.
 
 (d) In the case of a covered drug of a manufacturer that has entered into a multi-year contract with the Secretary under subsection (a)(2) for the procurement of the drug—
 
@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(B) the total number of package units of the drug sold during the period.
 
-(i)(1) If the Secretary modifies a multi-year contract described in subsection (d) to include acovered drug of the manufacturer that was not available for inclusion under the contract at the time the contract went into effect, the price of the drug shall be determined as follows:
+(i)(1) If the Secretary modifies a multi-year contract described in subsection (d) to include a covered drug of the manufacturer that was not available for inclusion under the contract at the time the contract went into effect, the price of the drug shall be determined as follows:
 
 &emsp;(A) For the portion of the first contract year during which the drug is so included, the price of the drug shall be determined in accordance with subsection (a)(2), except that the reference in such subsection to “the one-year period beginning on the date the agreement takes effect” shall be considered a reference to such portion of the first contract year.
 
@@ -151,6 +151,10 @@ Section 737(b) of Pub. L. 104–106 provided that: “The amendment made by subs
 #### Effective Date of 1993 Amendment
 
 Section 1(b) of Pub. L. 103–18 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect as if included in the enactment of section 603 of the Veterans Health Care Act of 1992 \[Pub. L. 102–585\].”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

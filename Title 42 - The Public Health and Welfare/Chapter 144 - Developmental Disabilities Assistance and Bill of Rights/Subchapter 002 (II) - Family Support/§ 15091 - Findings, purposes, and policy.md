@@ -38,7 +38,7 @@ The purposes of this subchapter are—
 
 #### (c) Policy
 
-It is the policy of the United States that all programs, projects, and activities funded under this subchapter shall be family-centered andfamily-directed, and shall be provided in a manner consistent with the goal of providing families of children with disabilities with the support the families need to raise their children at home.
+It is the policy of the United States that all programs, projects, and activities funded under this subchapter shall be family-centered and family-directed, and shall be provided in a manner consistent with the goal of providing families of children with disabilities with the support the families need to raise their children at home.
 
 (Pub. L. 106–402, title II, §202, Oct. 30, 2000, 114 Stat. 1728.)
 

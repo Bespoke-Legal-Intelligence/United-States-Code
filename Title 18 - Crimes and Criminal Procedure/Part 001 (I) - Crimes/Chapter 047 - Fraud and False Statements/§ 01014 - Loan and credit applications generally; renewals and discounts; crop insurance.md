@@ -8,7 +8,7 @@ Whoever knowingly makes any false statement or report, or willfully overvalues a
 
 #### 1948 Act
 
-Based on sections 1026(a) and 1514(a) of title 7, U.S.C., 1940 ed., Agriculture, sections 596, 981, 1122, 1123,1138d(a), 1248, 1312, 1313, 1441(a), and 1467(a), of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(a) of title 15, U.S.C., 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, §22(h), as added June 19, 1934, ch. 653, §3, 48 Stat. 1107; July 17, 1916, ch. 245, §31, first paragraph, 39 Stat. 382; July 17, 1916, ch. 245, §211(b), (c), as added Mar. 4, 1923, ch. 252, §2, 42 Stat. 1460; Mar. 4, 1923, ch. 252, title II, §§209(h), 216(b), (c), 42 Stat. 1468, 1472; Jan. 22, 1932, ch. 8, §16 (a), 47 Stat. 11; July 22, 1932, ch. 522, §21(a), 47 Stat. 738; June 13, 1933, ch. 64, §8(a), 48 Stat. 134; June 16, 1933, ch. 98, §64(a), 48 Stat. 267; Jan. 31, 1934, ch. 7, §13, 48 Stat. 347; June 3, 1935, ch. 164, §21, 49 Stat. 319; July 22, 1937, ch. 517, title IV, §52(a); 50 Stat. 531; Feb. 16, 1938, ch. 30, title V, §514(a), 52 Stat. 76; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064).
+Based on sections 1026(a) and 1514(a) of title 7, U.S.C., 1940 ed., Agriculture, sections 596, 981, 1122, 1123, 1138d(a), 1248, 1312, 1313, 1441(a), and 1467(a), of title 12, U.S.C., 1940 ed., Banks and Banking, and section 616(a) of title 15, U.S.C., 1940 ed., Commerce and Trade (Dec. 23, 1913, ch. 6, §22(h), as added June 19, 1934, ch. 653, §3, 48 Stat. 1107; July 17, 1916, ch. 245, §31, first paragraph, 39 Stat. 382; July 17, 1916, ch. 245, §211(b), (c), as added Mar. 4, 1923, ch. 252, §2, 42 Stat. 1460; Mar. 4, 1923, ch. 252, title II, §§209(h), 216(b), (c), 42 Stat. 1468, 1472; Jan. 22, 1932, ch. 8, §16 (a), 47 Stat. 11; July 22, 1932, ch. 522, §21(a), 47 Stat. 738; June 13, 1933, ch. 64, §8(a), 48 Stat. 134; June 16, 1933, ch. 98, §64(a), 48 Stat. 267; Jan. 31, 1934, ch. 7, §13, 48 Stat. 347; June 3, 1935, ch. 164, §21, 49 Stat. 319; July 22, 1937, ch. 517, title IV, §52(a); 50 Stat. 531; Feb. 16, 1938, ch. 30, title V, §514(a), 52 Stat. 76; Aug. 14, 1946, ch. 964, §3, 60 Stat. 1064).
 
 Each of the 13 sections from which this section was derived contained similar provisions either relating to false representations and statements, or overvaluation of security, with respect to one or more of the named banks, agencies, or corporations.
 
@@ -120,7 +120,7 @@ Establishment as independent agency, membership, etc., see section 1752 et seq. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 225, 981, 982, 1510, 1956, 3056, 3059A, 3293, 3322 of this title; title 12 sections 503, 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b.
+This section is referred to in sections 225, 981, 982, 1510, 1956, 3056, 3293, 3322 of this title; title 12 sections 503, 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

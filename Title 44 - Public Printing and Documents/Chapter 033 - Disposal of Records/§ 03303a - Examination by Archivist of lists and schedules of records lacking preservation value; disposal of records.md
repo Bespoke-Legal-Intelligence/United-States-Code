@@ -1,6 +1,6 @@
 ### §3303a. Examination by Archivist of lists and schedules of records lacking preservation value; disposal of records
 
-(a) The Archivist shall examine the lists and schedules submitted to him under section 3303 of this title. If the Archivist determines that any of the records listed in a list or schedule submitted to him do not, or will not after the lapse of the period specified, have sufficient administrative, legal, research, or other value to warrant their continued preservation by the Government, he may, after publication of notice in the Federal Register and an opportunity for interested persons to submit comment thereon—
+(a) The Archivist shall examine the lists and schedules submitted to him under section 3303 of this title. If the Archivist determines that anyof the records listed in a list or schedule submitted to him do not, or will not after the lapse of the period specified, have sufficient administrative, legal, research, or other value to warrant their continued preservation by the Government, he may, after publication of notice in the Federal Register and an opportunity for interested persons to submit comment thereon—
 
 &emsp;(1) notify the agency to that effect; and
 

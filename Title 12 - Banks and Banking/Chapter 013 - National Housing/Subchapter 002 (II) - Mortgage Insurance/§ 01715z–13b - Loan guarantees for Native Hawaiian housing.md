@@ -284,7 +284,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (A) In general
 
-&emsp;&emsp;If a borrower defaults on a loan guaranteed under this section that involves a securityinterest in restricted Hawaiian Home Land property, the mortgagee or the Secretary shall only pursue liquidation after offering to transfer the account to another eligible Hawaiian family or the Department of Hawaiian Home Lands.
+&emsp;&emsp;If a borrower defaults on a loan guaranteed under this section that involves a security interest in restricted Hawaiian Home Land property, the mortgagee or the Secretary shall only pursue liquidation after offering to transfer the account to another eligible Hawaiian family or the Department of Hawaiian Home Lands.
 
 #### (B) Limitation
 

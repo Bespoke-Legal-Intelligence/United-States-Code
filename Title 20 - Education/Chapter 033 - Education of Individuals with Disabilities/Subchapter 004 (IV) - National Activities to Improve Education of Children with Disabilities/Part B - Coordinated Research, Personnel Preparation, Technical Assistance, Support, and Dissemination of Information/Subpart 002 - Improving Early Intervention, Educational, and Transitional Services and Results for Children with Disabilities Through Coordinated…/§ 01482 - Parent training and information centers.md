@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-The Secretary may make grants to, and enter into contracts and cooperative agreements with,parent organizations to support parent training and information centers to carry out activities under this section.
+The Secretary may make grants to, and enter into contracts and cooperative agreements with, parent organizations to support parent training and information centers to carry out activities under this section.
 
 #### (b) Required activities
 
@@ -24,7 +24,7 @@ Each parent training and information center that receives assistance under this 
 
 &emsp;&emsp;(D) obtain appropriate information about the range of options, programs, services, and resources available to assist children with disabilities and their families;
 
-&emsp;&emsp;(E) understand the provisions of this chapter for the education of, and the provision of early intervention services to, children with disabilities; and
+&emsp;&emsp;(E) understand the provisions of this chapter for the education of, and the provision ofearly intervention services to, children with disabilities; and
 
 &emsp;&emsp;(F) participate in school reform activities;
 
@@ -112,5 +112,5 @@ A prior section 1482, Pub. L. 91–230, title VI, §682, as added Pub. L. 99–4
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1401, 1415, 1483, 1484, 1486, 7273b of this title; title 29 sections 725, 773.
+This section is referred to in sections 1401, 1415, 1483, 1484, 1486, 7273b of this title; title 29 sections 725, 773; title 42 section 15064.
 

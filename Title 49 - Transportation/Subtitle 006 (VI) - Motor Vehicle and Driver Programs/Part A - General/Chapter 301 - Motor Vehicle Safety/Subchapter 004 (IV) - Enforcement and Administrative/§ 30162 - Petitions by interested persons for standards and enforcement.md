@@ -18,7 +18,7 @@ Proceedings.—The Secretary may hold a public hearing or conduct an investigati
 
 (d)
 
-Actions of Secretary.—The Secretary shall grant or deny a petition not later than 120days after the petition is filed. If a petition is granted, the Secretary shall begin the proceeding promptly. If a petition is denied, the Secretary shall publish the reasons for the denial in the Federal Register.
+Actions of Secretary.—The Secretary shall grant or deny a petition not later than 120 days after the petition is filed. If a petition is granted, the Secretary shall begin the proceeding promptly. If a petition is denied, the Secretary shall publish the reasons for the denial in the Federal Register.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 967.)
 

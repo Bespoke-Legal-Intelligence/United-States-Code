@@ -4,5 +4,5 @@ Section, act Mar. 12, 1914, ch. 37, §1, as added Mar. 29, 1940, ch. 74, 54 Stat
 
 #### Effective Date of Repeal
 
-Repeal effective on date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203of Title 45, Railroads, see section 615(a) of Pub. L. 97–468.
+Repeal effective on date of transfer of Alaska Railroad to the State \[Jan. 5, 1985\], pursuant to section 1203 of Title 45, Railroads, see section 615(a) of Pub. L. 97–468.
 

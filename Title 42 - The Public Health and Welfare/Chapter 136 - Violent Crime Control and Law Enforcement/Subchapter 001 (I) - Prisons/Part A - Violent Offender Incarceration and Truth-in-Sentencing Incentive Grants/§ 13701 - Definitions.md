@@ -50,7 +50,7 @@ Section 40201 of title IV of Pub. L. 103–322 provided that: “This title \[pr
 
 Section 40301 of title IV of Pub. L. 103–322 provided that: “This subtitle \[subtitle C (§§40301–40304) of title IV of Pub. L. 103–322, enacting part C (§13981) of subchapter III of this chapter and amending section 1988 of this title and section 1445 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Civil Rights Remedies for Gender-Motivated Violence Act’.”
 
-Section 40401 of title IV of Pub. L. 103–322 provided that: “This subtitle \[subtitle D (§§40401–40422) of titleIV of Pub. L. 103–322, enacting part D (§13991 et seq.) of subchapter III of this chapter\] may be cited as the ‘Equal Justice for Women in the Courts Act of 1994’.”
+Section 40401 of title IV of Pub. L. 103–322 provided that: “This subtitle \[subtitle D (§§40401–40422) of title IV of Pub. L. 103–322, enacting part D (§13991 et seq.) of subchapter III of this chapter\] may be cited as the ‘Equal Justice for Women in the Courts Act of 1994’.”
 
 Section 200101 of title XX of Pub. L. 103–322 provided that: “This subtitle \[subtitle A (§§200101–200113) of title XX of Pub. L. 103–322, enacting part A (§14091 et seq.) of subchapter VIII of this chapter\] may be cited as the ‘Police Corps Act’.”
 

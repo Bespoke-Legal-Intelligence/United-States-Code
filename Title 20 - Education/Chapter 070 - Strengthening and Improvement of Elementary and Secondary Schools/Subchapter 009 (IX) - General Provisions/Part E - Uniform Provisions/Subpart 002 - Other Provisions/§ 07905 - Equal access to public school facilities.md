@@ -26,7 +26,7 @@ This section may be cited as the “Boy Scouts of America Equal Access Act”.
 
 #### (3) Judicial review
 
-&emsp;Any action taken by the Secretary under paragraph (1) shall be subject to the judicialreview described in section 2000d–2 of title 42. Any person aggrieved by the action may obtain that judicial review in the manner, and to the extent, provided in section 2000d–2 of title 42.
+&emsp;Any action taken by the Secretary under paragraph (1) shall be subject to the judicial review described in section 2000d–2 of title 42. Any person aggrieved by the action may obtain that judicial review in the manner, and to the extent, provided in section 2000d–2 of title 42.
 
 #### (d) Definition and rule
 

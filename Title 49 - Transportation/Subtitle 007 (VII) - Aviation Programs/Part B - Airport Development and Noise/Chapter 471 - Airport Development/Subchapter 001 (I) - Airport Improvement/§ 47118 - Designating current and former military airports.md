@@ -16,7 +16,7 @@ General Requirements.—The Secretary of Transportation shall designate current 
 
 (b)
 
-Survey.—Not later than September 30, 1991, the Secretary shall complete a survey of current and former military airports to identify which airports have the greatest potential to improve the capacity of the national air transportation system. The survey shall identify the capital development needs of those airports to make them part of the system and which ofthose qualify for grants under section 47104 of this title.
+Survey.—Not later than September 30, 1991, the Secretary shall complete a survey of current and former military airports to identify which airports have the greatest potential to improve the capacity of the national air transportation system. The survey shall identify the capital development needs of those airports to make them part of the system and which of those qualify for grants under section 47104 of this title.
 
 (c)
 
@@ -156,7 +156,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Amendment by section 5(83)(A) of Pub. L. 104–287 effective Sept. 30, 1998, see section 8(2) of Pub. L. 104–287, as amended, set out as a note under section 47117 of this title.
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construedas affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

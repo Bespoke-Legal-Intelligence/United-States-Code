@@ -132,7 +132,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 Section 411(b) of Pub. L. 100–242 directed Secretary of Housing and Urban Development to issue regulations to carry out amendment of this section by not later than expiration of 90-day period following Feb. 5, 1988.
 
-Secretary of Housing and Urban Development directed to issue regulations implementing amendmentsto this section by section 436 of Pub. L. 98–181, not later than Oct. 31, 1984, see section 104(f) of Pub. L. 98–479, set out as a note under section 1715b of this title.
+Secretary of Housing and Urban Development directed to issue regulations implementing amendments to this section by section 436 of Pub. L. 98–181, not later than Oct. 31, 1984, see section 104(f) of Pub. L. 98–479, set out as a note under section 1715b of this title.
 
 #### Section Referred to in Other Sections
 

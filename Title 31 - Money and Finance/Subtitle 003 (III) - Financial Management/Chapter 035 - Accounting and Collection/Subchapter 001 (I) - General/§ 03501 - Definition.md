@@ -1,6 +1,6 @@
 ### §3501. Definition
 
-In this chapter, “executive agency” does not include (except in section 3513 and subchapterVI <sup>1</sup> of this title) a corporation, agency, or instrumentality subject to chapter 91 of this title.
+In this chapter, “executive agency” does not include (except in section 3513 and subchapter VI <sup>1</sup> of this title) a corporation, agency, or instrumentality subject to chapter 91 of this title.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 107–107, div. A, title VIII, §831(c), Dec. 28, 2001, 115 Stat. 1189.)
 
@@ -23,6 +23,10 @@ The words “As used . . . the term” are omitted as surplus. The words “me
 #### Amendments
 
 2001—Pub. L. 107–107 inserted “and subchapter VI” after “section 3513”.
+
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–289, §1, Nov. 7, 2002, 116 Stat. 2049, provided that: “This Act \[amending section 3515 of this title and enacting provisions set out as a note under section 3515 of this title\] may be cited as the ‘Accountability of Tax Dollars Act of 2002’.”
 
 #### Short Title of 2000 Amendment
 

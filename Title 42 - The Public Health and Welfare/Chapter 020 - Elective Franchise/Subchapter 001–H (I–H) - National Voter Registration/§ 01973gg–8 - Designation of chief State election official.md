@@ -6,5 +6,5 @@ Each State shall designate a State officer or employee as the chief State electi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1973gg–6 of this title.
+This section is referred to in sections 1973gg–6, 15403 of this title.
 

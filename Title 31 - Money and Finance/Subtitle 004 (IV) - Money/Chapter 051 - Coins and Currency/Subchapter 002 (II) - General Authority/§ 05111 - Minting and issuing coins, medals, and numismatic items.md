@@ -10,7 +10,7 @@
 
 &emsp;(4) may mint coins for a foreign country if the minting does not interfere with regular minting operations, and shall prescribe a charge for minting the foreign coins equal to the cost of the minting (including labor, materials, and the use of machinery).
 
-(b) The Department of the Treasury has a coinage metal fund and a coinage profit fund. The Secretary may use the coinage metal fund to buy metal to mint coins. The Secretary shall credit the coinage profit fund with the amount by which the nominal value of the coins minted from the metal exceeds the cost of the metal. The Secretary shall charge the coinage profit fund with waste incurred in minting coins and the cost of distributing the coins, including the cost of coin bags and pallets. The Secretary shall deposit in the Treasury as miscellaneous receipts excess amounts in the coinage profit fund.
+(b) The Department of the Treasury has a coinage metal fund and a coinage profit fund.The Secretary may use the coinage metal fund to buy metal to mint coins. The Secretary shall credit the coinage profit fund with the amount by which the nominal value of the coins minted from the metal exceeds the cost of the metal. The Secretary shall charge the coinage profit fund with waste incurred in minting coins and the cost of distributing the coins, including the cost of coin bags and pallets. The Secretary shall deposit in the Treasury as miscellaneous receipts excess amounts in the coinage profit fund.
 
 (c)
 
@@ -42,7 +42,7 @@ Other rights unaffected.—This paragraph does not alter or annul any right of r
 
 (d)(1) The Secretary may prohibit or limit the exportation, melting, or treatment of United States coins when the Secretary decides the prohibition or limitation is necessary to protect the coinage of the United States.
 
-(2) A person knowingly violating an order or license issued or regulation prescribed underparagraph (1) of this subsection, shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
+(2) A person knowingly violating an order or license issued or regulation prescribed under paragraph (1) of this subsection, shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
 
 (3) Coins exported, melted, or treated in violation of an order or license issued or regulation prescribed, and metal resulting from the melting or treatment, shall be forfeited to the United States Government. The powers of the Secretary and the remedies available to enforce forfeitures are those provided in part II of subchapter C of chapter 75 of the Internal Revenue Code of 1954 <sup>1</sup> (26 U.S.C. 7321 et seq.).
 
@@ -136,7 +136,7 @@ In subsection (a)(1), the words “coins described in” are substituted for “
 
 In subsection (a)(2), the words “Secretary of the Treasury” are substituted for “engraver” and “superintendent of coining department of the mint at Philadelphia” because of the source provisions restated in section 321(c) of the revised title. The words “under such regulations as the superintendent, with the approval of the Director of the Mint, may prescribe” are omitted as unnecessary because of section 321(b) of the revised title. The words “national medal dies” are substituted for “Dies of a national character” for clarity. The words “or the machinery or apparatus thereof be used for that purpose” are omitted as unnecessary because of the restatement.
 
-In subsection (a)(3), the words “numismatic items” are retained and used throughout the revised title to apply to medals, proof coins, uncirculated coins, numismatic accessories, and other numismatic items to eliminate unnecessary words and for consistency. The words “In connection with the operations of the Bureau of the Mint” are omitted as unnecessary because of the restatement. The text of 31:324h(last sentence) is omitted as unnecessary because of the source provisions restated in section 5132(a) of the revised title.
+In subsection (a)(3), the words “numismatic items” are retained and used throughout the revised title toapply to medals, proof coins, uncirculated coins, numismatic accessories, and other numismatic items to eliminate unnecessary words and for consistency. The words “In connection with the operations of the Bureau of the Mint” are omitted as unnecessary because of the restatement. The text of 31:324h(last sentence) is omitted as unnecessary because of the source provisions restated in section 5132(a) of the revised title.
 
 In subsection (a)(4), the words “may mint” are substituted for “It shall be lawful for coinage to be executed” in 31:367, and the words “regular minting operations” are substituted for “required coinage of the United States”, for consistency in the revised section. The words “at the mints of the United States” and “according to the legally prescribed standards and devices of such country” are omitted as unnecessary because of the restatement. The words “The Secretary of the Treasury . . . shall prescribe a charge” are substituted for “the charge . . . to be fixed by the Director of the Mint, with the approval of the Secretary of the Treasury” because of the source provisions restated in section 321(c) of the revised title. The words “minting the foreign coins” are substituted for “the same”, for clarity. The words “under such regulations as the Secretary of the Treasury may prescribe” are omitted as unnecessary because of section 321(b) of the revised title.
 
@@ -214,7 +214,7 @@ Pub. L. 102–32, Apr. 23, 1991, 105 Stat. 175, recognizing General H. Norman Sc
 
 Pub. L. 101–510, div. A, title XIV, §§1491, 1494, Nov. 5, 1990, 104 Stat. 1720, 1722, recognizing General Matthew B. Ridgway.
 
-Pub. L. 101–510, div. A, title XIV, §§1492, 1494, Nov. 5, 1990, 104 Stat. 1721, 1722, recognizing veterans of the Armed Forces of the United States who were present in Hawaii on Dec. 7, 1941, and participated in combat operations that day.
+Pub. L. 101–510, div. A, title XIV, §§1492, 1494, Nov. 5, 1990, 104 Stat. 1721, 1722, recognizing veterans of the Armed Forces of the United States who were present inHawaii on Dec. 7, 1941, and participated in combat operations that day.
 
 Pub. L. 101–510, div. A, title XIV, §§1493, 1494, Nov. 5, 1990, 104 Stat. 1722, commemorating centennial of Yosemite National Park.
 

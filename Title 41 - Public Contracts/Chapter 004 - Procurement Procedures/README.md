@@ -85,7 +85,7 @@
 | (e) | Claim; considered claim within Contract Disputes Act of 1978. |
 | (f) | Challenge; use of technical data; sustained; liability of United States for costs and fees. |
 | 253e. | Repealed. |
-| 253f. | Economic order qualities. |
+| 253f. | Economic order quantities. |
 | (a) | Procurement of supplies; costs advantageous to United States. |
 | (b) | Opinions; economic advantage to United States. |
 | 253g. | Prohibition of contractors limiting subcontractor sales directly to United States. |
@@ -219,6 +219,11 @@
 | (b) | Rule of construction. |
 | (c) | New grant defined. |
 | (d) | Inapplicability to certain grants. |
+| 266a. | Share-in-savings contracts. |
+| (a) | Authority to enter into share-in-savings contracts. |
+| (b) | Cancellation and termination. |
+| (c) | Definitions. |
+| (d) | Termination. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

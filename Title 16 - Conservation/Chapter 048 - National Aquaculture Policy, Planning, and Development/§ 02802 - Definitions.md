@@ -4,7 +4,7 @@ As used in this chapter, unless the context otherwise requires—
 
 &emsp;(1) The term “aquaculture” means the propagation and rearing of aquatic species in controlled or selected environments, including, but not limited to, ocean ranching (except private ocean ranching of Pacific salmon for profit in those States where such ranching is prohibited by law).
 
-&emsp;(2) The term “aquaculture facility” means any land, structure, or other appurtenance that is used for aquaculture and is located in any State. Such term includes, but is not limited to, any laboratory, hatchery, rearing pond, raceway, pen, incubator, or other equipment used in aquaculture.
+&emsp;(2) The term “aquaculture facility” means any land, structure, or other appurtenance that is used for aquaculture and is located inany State. Such term includes, but is not limited to, any laboratory, hatchery, rearing pond, raceway, pen, incubator, or other equipment used in aquaculture.
 
 &emsp;(3) The term “aquatic species” means any species of finfish, mollusk, crustacean, or other aquatic invertebrate, amphibian, reptile, or aquatic plant.
 

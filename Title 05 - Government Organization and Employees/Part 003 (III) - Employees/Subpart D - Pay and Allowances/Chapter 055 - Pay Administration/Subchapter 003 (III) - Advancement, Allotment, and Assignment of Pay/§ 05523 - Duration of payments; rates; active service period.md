@@ -10,7 +10,7 @@
 
 (b) Subject to adjustment of the account of an employee under section 5524 of this title and other applicable statute, each payment under this section is at rates of pay, allowances, and differentials, or any of them, currently authorized with respect to the employee on the date payment is made under agency procedures governing payments under this section. The rates so authorized may not exceed the rates to which the employee was entitled immediately before issuance of the departure order. An employee in an Executive agency may be granted such additional allowance payments as the President determines necessary to offset the direct added expenses incident to the departure.
 
-(c) Each period for which payment of amounts is made under this section to or for the account of an employee is deemed, for all purposes with respect to the employee, a period of active service, without break in service, performed by the employee in the employment of the Government of the United States or the government of the District of Columbia.
+(c) Each period for which payment of amounts is made under this section to or for the accountof an employee is deemed, for all purposes with respect to the employee, a period of active service, without break in service, performed by the employee in the employment of the Government of the United States or the government of the District of Columbia.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 480; Pub. L. 96–465, title II, §2303(c), (d), Oct. 17, 1980, 94 Stat. 2165; Pub. L. 102–138, title I, §147(a), Oct. 28, 1991, 105 Stat. 669.)
 

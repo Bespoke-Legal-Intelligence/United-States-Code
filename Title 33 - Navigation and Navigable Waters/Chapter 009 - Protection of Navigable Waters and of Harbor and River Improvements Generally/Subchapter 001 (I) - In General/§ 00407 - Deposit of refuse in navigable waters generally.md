@@ -10,7 +10,7 @@ Section is from act Mar. 3, 1899, popularly known as the “Rivers and Harbors A
 
 #### Prior Provisions
 
-This section and sections 408, 411, and 412 of this title, superseded act Aug. 18, 1894, ch. 299, §§6, 7, 8, 28 Stat. 363, which prohibited the depositing of refuse in navigable waters for the improvement of which money had been appropriated, and the injury to sea walls and other works built by the Government, and prescribed penalties for violations, including penalties against masters, etc., and vessels.
+This section and sections 408, 411, and 412 of this title, superseded act Aug. 18, 1894, ch. 299, §§6, 7, 8, 28 Stat.363, which prohibited the depositing of refuse in navigable waters for the improvement of which money had been appropriated, and the injury to sea walls and other works built by the Government, and prescribed penalties for violations, including penalties against masters, etc., and vessels.
 
 Section also superseded act Sept. 19, 1890, ch. 907, §6, 26 Stat. 453, which prohibited obstructing navigation by deposits of refuse, etc., in navigable waters.
 
@@ -24,7 +24,7 @@ This section is popularly known as the “Refuse Act of 1899”.
 
 #### Transfer of Functions
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department ofthe Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 #### Termination of Discharge Permit Program
 

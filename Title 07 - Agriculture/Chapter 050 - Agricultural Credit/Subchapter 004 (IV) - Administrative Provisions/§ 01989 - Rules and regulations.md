@@ -78,13 +78,19 @@ Notwithstanding subsection (a) of this section, in providing farmer program loan
 
 &emsp;&emsp;(C) be deemed to have guaranteed 80 percent of a loan made by a preferred certified lending institution as described in paragraph (1), if the Secretary fails to approve or reject the application of such institution within 14 calendar days after the date that the lending institution presented the application to the Secretary. If the Secretary rejects the application within the 14-day period, the Secretary shall state, in writing, the reasons the application was rejected.
 
-(Pub. L. 87–128, title III, §339, Aug. 8, 1961, 75 Stat. 318; Pub. L. 102–554, §18, Oct. 28, 1992, 106 Stat. 4155; Pub. L. 106–31, title III, §3019(a), May 21, 1999, 113 Stat. 99.)
+#### (e) Administration of Certified Lenders and Preferred Certified Lenders programs
+
+The Secretary may administer the loan guarantee programs under subsections (c) and (d) of this section through central offices established in States or in multi-State areas.
+
+(Pub. L. 87–128, title III, §339, Aug. 8, 1961, 75 Stat. 318; Pub. L. 102–554, §18, Oct. 28, 1992, 106 Stat. 4155; Pub. L. 106–31, title III, §3019(a), May 21, 1999, 113 Stat. 99; Pub. L. 107–171, title V, §5309, May 13, 2002, 116 Stat. 346.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–171 added subsec. (e).
 
 1999—Subsec. (b)(3). Pub. L. 106–31 struck out “, including expenses of replacing capital items (determined after taking into account depreciation of the items)” after “paragraph (1)”.
 

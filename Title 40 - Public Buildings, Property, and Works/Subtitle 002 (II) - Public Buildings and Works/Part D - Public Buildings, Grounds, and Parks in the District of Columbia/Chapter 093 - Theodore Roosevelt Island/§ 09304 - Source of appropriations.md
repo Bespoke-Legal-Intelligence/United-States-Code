@@ -1,0 +1,22 @@
+### §9304. Source of appropriations
+
+The appropriations needed for construction of suitable means of access to and on Theodore Roosevelt Island and annually for the care, maintenance, and improvement of the land and improvements may be made from amounts not otherwise appropriated from the Treasury.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1233.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+9304
+
+40:125 (words after semicolon).
+
+May 21, 1932, ch. 200, §2 (words after semicolon), 47 Stat. 164.
+

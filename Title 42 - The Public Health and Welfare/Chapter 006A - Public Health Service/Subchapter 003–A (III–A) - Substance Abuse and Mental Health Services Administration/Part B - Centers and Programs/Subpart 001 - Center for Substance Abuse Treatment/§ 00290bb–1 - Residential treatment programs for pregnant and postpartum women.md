@@ -100,7 +100,7 @@ In the case of an eligible woman, the services referred to in subsection (a)(3) 
 
 &emsp;With respect to the costs of the program to be carried out by an applicant pursuant to subsection (a) of this section, a funding agreement for an award under such subsection is that the applicant will make available (directly or through donations from public or private entities) non-Federal contributions toward such costs in an amount that—
 
-&emsp;&emsp;(A) for the first fiscal year for which the applicant receives payments under an award under such subsection, is not less than $1 for each $9 of Federal funds provided in the award;
+&emsp;&emsp;(A) for the first fiscal year for which the applicant receives payments under an awardunder such subsection, is not less than $1 for each $9 of Federal funds provided in the award;
 
 &emsp;&emsp;(B) for any second such fiscal year, is not less than $1 for each $9 of Federal funds provided in the award; and
 
@@ -192,7 +192,7 @@ The Social Security Act, referred to in subsec. (e)(2)(A), is act Aug. 14, 1935,
 
 #### Prior Provisions
 
-A prior section 290bb–1, act July 1, 1944, ch. 373, title V, §511, formerly Pub. L. 91–616, title V, §503, formerly §504, as added Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1039; amended Pub. L. 95–622, title I, §110(d), Nov. 9, 1978, 92 Stat. 3420; Pub. L. 96–180, §16, Jan. 2, 1980, 93 Stat. 1305; renumbered §503 of Pub. L. 91–616 and amended Pub. L. 97–35, title IX, §965(b), (c), Aug. 13, 1981, 95 Stat. 594; renumbered §511 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(9), 97Stat. 179; Oct. 27, 1986, Pub. L. 99–570, title IV, §4008, 100 Stat. 3207–115, which related to National Alcohol Research Centers and a mandatory grant for research of the effects of alcohol on the elderly, was renumbered section 464J of title IV of act July 1, 1944, by Pub. L. 102–321 and transferred to section 285n–2 of this title.
+A prior section 290bb–1, act July 1, 1944, ch. 373, title V, §511, formerly Pub. L. 91–616, title V, §503, formerly §504, as added Pub. L. 94–371, §7, July 26, 1976, 90 Stat. 1039; amended Pub. L. 95–622, title I, §110(d), Nov. 9, 1978, 92 Stat. 3420; Pub. L. 96–180, §16, Jan. 2, 1980, 93 Stat. 1305; renumbered §503 of Pub. L. 91–616 and amended Pub. L. 97–35, title IX, §965(b), (c), Aug. 13, 1981, 95 Stat. 594; renumbered §511 of act July 1, 1944, and amended Apr. 26, 1983, Pub. L. 98–24, §2(b)(9), 97 Stat. 179; Oct. 27, 1986, Pub. L. 99–570, title IV, §4008, 100 Stat. 3207–115, which related to National Alcohol Research Centers and a mandatory grant for research of the effects of alcohol on the elderly, was renumbered section 464J of title IV of act July 1, 1944, by Pub. L. 102–321 and transferred to section 285n–2 of this title.
 
 A prior section 508 of act July 1, 1944, which was classified to section 290aa–6 of this title, was renumbered section 515 of act July 1, 1944, by Pub. L. 102–321 and transferred to section 290bb–21 of this title.
 

@@ -10,7 +10,7 @@
 
 (1) For purposes of this subchapter and part C of subchapter I of chapter 34 of title 42, the term “eligible program” means a program of at least—
 
-&emsp;(A) 600 clock hours of instruction, 16 semester hours, or 24 quarter hours, offered during a minimum of 15 weeks, in the case of a program that—
+&emsp;(A) 600 clock hours of instruction, 16 semester hours, or 24 quarter hours, offered during aminimum of 15 weeks, in the case of a program that—
 
 &emsp;&emsp;(i) provides a program of training to prepare students for gainful employment in a recognized profession; and
 
@@ -38,7 +38,7 @@ For purposes of this subchapter and part C of subchapter I of chapter 34 of titl
 
 &emsp;(1) any eligible institution of higher education to administer, through either manual or automated processing, any aspect of such institution's student assistance programs under this subchapter and part C of subchapter I of chapter 34 of title 42; or
 
-&emsp;(2) any guaranty agency, or any eligible lender, to administer, through either manual or automated processing, any aspect of suchguaranty agency's or lender's student loan programs under part B of this subchapter, including originating, guaranteeing, monitoring, processing, servicing, or collecting loans.
+&emsp;(2) any guaranty agency, or any eligible lender, to administer, through either manual or automated processing, any aspect of such guaranty agency's or lender's student loan programs under part B of this subchapter, including originating, guaranteeing, monitoring, processing, servicing, or collecting loans.
 
 (Pub. L. 89–329, title IV, §481, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1476; amended Pub. L. 100–50, §15(1), June 3, 1987, 101 Stat. 355; Pub. L. 101–239, title II, §2007(b), (c), Dec. 19, 1989, 103 Stat. 2120, 2121; Pub. L. 101–508, title III, §3005(b), Nov. 5, 1990, 104 Stat. 1388–28; Pub. L. 102–26, §2(a)(2), (3), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–325, title IV, §481, July 23, 1992, 106 Stat. 609; Pub. L. 103–208, §2(h)(1)–(6), Dec. 20, 1993, 107 Stat. 2475, 2476; Pub. L. 105–216, §12, July 29, 1998, 112 Stat. 908; Pub. L. 105–244, title I, §101(c), Oct. 7, 1998, 112 Stat. 1617.)
 
@@ -62,7 +62,7 @@ Subsec. (a)(4)(A). Pub. L. 103–208, §2(h)(3), amended subpar. (A) generally. 
 
 Subsec. (d)(2). Pub. L. 103–208, §2(h)(4), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “For the purpose of any program under this subchapter and part C of subchapter I of chapter 34 of title 42, the term ‘academic year’ shall require a minimum of 30 weeks of instructional time in which a full-time student is expected to complete at least 24 semester or trimester hours or 36 quarter hours at an institution which measures program length in credit hours or at least 900 clock hours at an institution which measures program length in clock hours.”
 
-Subsec. (e)(2). Pub. L. 103–208, §2(h)(5), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall develop regulations to determine the quality of programs of less than 600 clock hours in length. Such regulations shall require, at a minimum, that the programs have a verified rate of completion of at least 70 percent and a verified rate of placement of at least 70 percent. Pursuant to these regulations and notwithstanding paragraph (1), the Secretary shall allow programs of less than 600 clock hours, but greater than 300 clock hours, in length to be eligible to participate in the programs authorized under part B of this subchapter.”
+Subsec. (e)(2). Pub. L. 103–208, §2(h)(5), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall develop regulations to determine the quality of programs of less than 600 clock hours in length. Such regulations shall require, at aminimum, that the programs have a verified rate of completion of at least 70 percent and a verified rate of placement of at least 70 percent. Pursuant to these regulations and notwithstanding paragraph (1), the Secretary shall allow programs of less than 600 clock hours, but greater than 300 clock hours, in length to be eligible to participate in the programs authorized under part B of this subchapter.”
 
 Subsec. (f). Pub. L. 103–208, §2(h)(6), substituted “individual, or any State,” for “State” in introductory provisions.
 
@@ -88,7 +88,7 @@ Subsec. (f). Pub. L. 102–325, §481(f), added subsec. (f).
 
 1991—Subsec. (b). Pub. L. 102–26, §2(d)(2)(A), repealed Pub. L. 101–508, §3005(b). See 1990 Amendment note below.
 
-Pub. L. 102–26, §2(a)(2), struck out “and who have the ability to benefit (as determined by the institution under section 1091(d) of this title) from the training offered by the institution” before period at end of second sentence, and struck out at end “The Secretary shallnot promulgate regulations defining the admissions procedures or remediation programs that must be used by an institution in admitting students on the basis of their ability to benefit from the training offered and shall not, as a condition of recognition under section 413(e) of this Act, impose upon any accrediting body or bodies standards which are different or more restrictive than the standards provided in this subsection.”
+Pub. L. 102–26, §2(a)(2), struck out “and who have the ability to benefit (as determined by the institution under section 1091(d) of this title) from the training offered by the institution” before period at end of second sentence, and struck out at end “The Secretary shall not promulgate regulations defining the admissions procedures or remediation programs that must be used by an institution in admitting students on the basis of their ability to benefit from the training offered and shall not, as a condition of recognition under section 413(e) of this Act, impose upon any accrediting body or bodies standards which are different or more restrictive than the standards provided in this subsection.”
 
 Subsec. (c). Pub. L. 102–26, §2(a)(3), struck out before period at end “and who have the ability to benefit (as determined by the institution under section 1091(d) of this title) from the training offered by the institution”.
 
@@ -144,7 +144,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Construction of 1991 Amendment
 
-Section 2(d)(2)(A) of Pub. L. 102–26 provided that: “Section 3005 of the Omnibus Reconciliation Act of 1990 \[Pub. L. 101–508, amending this section and section 1091 of this title and enacting provisions set out as a note above\] is repealed. Sections 484(d) and 481(b) of the Act \[20 U.S.C. 1091(d), 1088(b)\] shall be applied as if such section 3005 had not been enacted.”
+Section 2(d)(2)(A) of Pub. L. 102–26 provided that: “Section 3005 of the Omnibus Reconciliation Act of 1990\[Pub. L. 101–508, amending this section and section 1091 of this title and enacting provisions set out as a note above\] is repealed. Sections 484(d) and 481(b) of the Act \[20 U.S.C. 1091(d), 1088(b)\] shall be applied as if such section 3005 had not been enacted.”
 
 #### Need-Based Aid
 

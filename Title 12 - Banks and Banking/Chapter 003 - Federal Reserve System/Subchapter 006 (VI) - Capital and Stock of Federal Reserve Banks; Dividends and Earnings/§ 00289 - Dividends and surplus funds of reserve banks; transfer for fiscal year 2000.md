@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 106–113, §1000(a)(5) \[title III, §302(2)\], added subs
 
 Par. (2). Pub. L. 103–325, §602(d)(2), substituted “paragraph (1)(A)” for “subparagraph (A)”.
 
-1993—Pub. L. 103–66 inserted section catchline and amended section generally. Prior to amendment, section read as follows: “After all necessary expenses of a Federal reserve bank shall have been paid or provided for, the stockholders shall be entitled to receive an annual dividend of 6 per centum on the paid-in capitalstock, which dividend shall be cumulative. After the aforesaid dividend claims have been fully met, the net earnings shall be paid into the surplus fund of the Federal reserve bank.”
+1993—Pub. L. 103–66 inserted section catchline and amended section generally. Prior to amendment, section read as follows: “After all necessary expenses of a Federal reserve bank shall have been paid or provided for, the stockholders shall be entitled to receive an annual dividend of 6 per centum on the paid-in capital stock, which dividend shall be cumulative. After the aforesaid dividend claims have been fully met, the net earnings shall be paid into the surplus fund of the Federal reserve bank.”
 
 1933—Act June 16, 1933, provided that net earnings shall be paid into surplus instead of to the United States as a franchise tax.
 

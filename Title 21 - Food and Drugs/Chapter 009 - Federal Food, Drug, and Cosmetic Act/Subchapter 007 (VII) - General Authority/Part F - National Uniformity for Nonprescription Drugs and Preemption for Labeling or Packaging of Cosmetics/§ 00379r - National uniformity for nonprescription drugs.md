@@ -22,7 +22,7 @@ Except as provided in subsection (b), (c)(1), (d), (e), or (f) of this section, 
 
 #### (2) Timely action
 
-&emsp;The Secretary shall make a decision on the exemption of a State or political subdivision requirement under paragraph (1) not later than 120 days after receiving the application of the State or political subdivision under paragraph (1).
+&emsp;The Secretary shall make a decision on the exemption of a State or political subdivisionrequirement under paragraph (1) not later than 120 days after receiving the application of the State or political subdivision under paragraph (1).
 
 #### (c) Scope
 

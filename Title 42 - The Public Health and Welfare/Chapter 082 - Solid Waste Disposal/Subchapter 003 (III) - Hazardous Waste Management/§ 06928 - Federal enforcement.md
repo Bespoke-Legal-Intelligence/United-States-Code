@@ -96,7 +96,7 @@ For the purposes of subsection (e) of this section—
 
 #### (g) Civil penalty
 
-Any person who violates any requirement of this subchapter shall be liable to the UnitedStates for a civil penalty in an amount not to exceed $25,000 for each such violation. Each day of such violation shall, for purposes of this subsection, constitute a separate violation.
+Any person who violates any requirement of this subchapter shall be liable to the United States for a civil penalty in an amount not to exceed $25,000 for each such violation. Each day of such violation shall, for purposes of this subsection, constitute a separate violation.
 
 #### (h) Interim status corrective action orders
 
@@ -124,7 +124,7 @@ Subsec. (e). Pub. L. 99–499, §205(i)(5), inserted “or used oil not identifi
 
 1984—Subsec. (a)(1). Pub. L. 98–616, §403(d)(1), in amending par. (1) generally, expanded authority of Administrator by empowering him to determine that a person “has violated” a requirement of this subchapter, and to assess a civil penalty for a past or current violation.
 
-Subsec. (a)(3). Pub. L. 98–616, §403(d)(2), in amending par. (3) generally, substituted provision that any order issued pursuant to this subsection may include a suspension or revocation of any permit issued by the Administrator or a State under this subchapter and shall state with reasonable specificity the nature of the violation, and provision that any penalty assessed in the order shall not exceed $25,000 per day of noncompliance for each violation of a requirement of this subchapter, and that in assessing such a penalty, the Administrator take into account the seriousness of the violation and any good faith efforts to comply with applicable requirements, for provision that if such violator fails to take corrective action within the time specified in the order, he shall be liable for a civil penalty of not more than $25,000 for each day of continued noncompliance and the Administrator may suspend or revoke any permit issued to the violator, whether issued by the Administrator or the State.
+Subsec. (a)(3). Pub. L. 98–616, §403(d)(2), in amending par. (3) generally, substituted provision that any orderissued pursuant to this subsection may include a suspension or revocation of any permit issued by the Administrator or a State under this subchapter and shall state with reasonable specificity the nature of the violation, and provision that any penalty assessed in the order shall not exceed $25,000 per day of noncompliance for each violation of a requirement of this subchapter, and that in assessing such a penalty, the Administrator take into account the seriousness of the violation and any good faith efforts to comply with applicable requirements, for provision that if such violator fails to take corrective action within the time specified in the order, he shall be liable for a civil penalty of not more than $25,000 for each day of continued noncompliance and the Administrator may suspend or revoke any permit issued to the violator, whether issued by the Administrator or the State.
 
 Subsec. (b). Pub. L. 98–616, §233(b), inserted “issued under this section”.
 

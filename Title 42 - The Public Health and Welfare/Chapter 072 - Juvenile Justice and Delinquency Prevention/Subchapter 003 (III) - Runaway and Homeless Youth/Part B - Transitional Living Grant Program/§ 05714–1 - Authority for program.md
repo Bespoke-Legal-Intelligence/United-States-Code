@@ -1,6 +1,6 @@
 ### §5714–1. Authority for program
 
-The Secretary is authorized to make grants and to provide technical assistance to public and nonprofit private entities to establish and operate transitional living youth projects for homeless youth.
+The Secretary is authorized to make grants and to provide technical assistance to public andnonprofit private entities to establish and operate transitional living youth projects for homeless youth.
 
 (Pub. L. 93–415, title III, §321, as added Pub. L. 100–690, title VII, §7273(f), Nov. 18, 1988, 102 Stat. 4455; amended Pub. L. 106–71, §3(e), Oct. 12, 1999, 113 Stat. 1038.)
 

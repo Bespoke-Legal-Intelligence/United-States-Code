@@ -24,7 +24,7 @@ The annuity to a survivor shall become effective as otherwise specified but shal
 
 #### (c) Waiver
 
-An individual entitled to annuity from the Fund may decline to accept all or any part ofthe annuity by submitting a signed waiver to the Secretary of State. The waiver may be revoked in writing at any time. Payment of the annuity waived may not be made for the period during which the waiver was in effect.
+An individual entitled to annuity from the Fund may decline to accept all or any part of the annuity by submitting a signed waiver to the Secretary of State. The waiver may be revoked in writing at any time. Payment of the annuity waived may not be made for the period during which the waiver was in effect.
 
 #### (d) Recovery of overpayment
 

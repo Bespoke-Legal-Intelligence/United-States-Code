@@ -50,9 +50,5 @@ First submission.—The first plan under this paragraph shall be prepared in tim
 
 “(2)
 
-Postal inspection service.—The Chief Postal Inspector shall, with respect to the Postal InspectionService, prepare a strategic plan similar in content to that required under paragraph (1)(A) with respect to the Office of Inspector General of the United States Postal Service. Such plan shall be prepared in time to be included with the annual budget under section 2009 of such title 39 next due to be submitted after the end of the 30-day period beginning on the date of the enactment of this Act \[Sept. 30, 1996\].”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 44 section 3534.
+Postal inspection service.—The Chief Postal Inspector shall, with respect to the Postal Inspection Service, prepare a strategic plan similar in content to that required under paragraph (1)(A) with respect to the Office of Inspector General of the United States Postal Service. Such plan shall be prepared in time to be included with the annual budget under section 2009of such title 39 next due to be submitted after the end of the 30-day period beginning on the date of the enactment of this Act \[Sept. 30, 1996\].”
 

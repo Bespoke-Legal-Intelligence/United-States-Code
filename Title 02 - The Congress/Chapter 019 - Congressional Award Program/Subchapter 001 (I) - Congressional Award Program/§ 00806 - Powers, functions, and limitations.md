@@ -64,7 +64,7 @@ The Board may enter into and perform such contracts as may be appropriate to car
 
 #### (e) Obtaining and acceptance of non-Federal funds and resources; indirect resources
 
-(1) Subject to the provisions of paragraph (2), the Board may seek and accept funds and other resources to carry out its activities. The Board may not accept any funds or other resources which are—
+(1) Subject to the provisions of paragraph (2), the Board may seek and accept funds and otherresources to carry out its activities. The Board may not accept any funds or other resources which are—
 
 &emsp;(A) donated with a restriction on their use unless such restriction merely provides that such funds or other resources be used in furtherance of the Congressional Award Program or a specific regional or local program; and
 

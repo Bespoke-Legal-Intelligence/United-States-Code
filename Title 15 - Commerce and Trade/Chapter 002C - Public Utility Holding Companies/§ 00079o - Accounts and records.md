@@ -2,7 +2,7 @@
 
 #### (a) Duty of holding companies to keep
 
-Every registered holding company and every subsidiary company thereof shall make, keep,and preserve for such periods, such accounts, cost-accounting procedures, correspondence, memoranda, papers, books, and other records as the Commission deems necessary or appropriate in the public interest or for the protection of investors or consumers or for the enforcement of the provisions of this chapter or the rules, regulations, or orders thereunder.
+Every registered holding company and every subsidiary company thereof shall make, keep, and preserve for such periods, such accounts, cost-accounting procedures, correspondence, memoranda, papers, books, and other records as the Commission deems necessary or appropriate in the public interest or for the protection of investors or consumers or for the enforcement of the provisions of this chapter or the rules, regulations, or orders thereunder.
 
 #### (b) Duty of affiliates to keep
 
@@ -22,7 +22,7 @@ After the Commission has prescribed the form and manner of making and keeping ac
 
 #### (f) Examinations by Commission
 
-All accounts, cost-accounting procedures, correspondence, memoranda, papers, books, and other records kept or required to be kept by persons subject to any provision of this section shall be subject at any time and from time to time to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe. The Commission, after notice and opportunity for hearing, may prescribe the account or accounts in which particular outlays, receipts, and other transactions shall be entered, charged, or credited and the manner in which such entry, charge, or credit shall be made, and may require an entry to be modified or supplemented so as properly to show the cost of any asset or any other cost.
+All accounts, cost-accounting procedures, correspondence, memoranda, papers, books, and other records kept or required to be kept by persons subject to any provision of this section shall be subject at any time and from time totime to such reasonable periodic, special, and other examinations by the Commission, or any member or representative thereof, as the Commission may prescribe. The Commission, after notice and opportunity for hearing, may prescribe the account or accounts in which particular outlays, receipts, and other transactions shall be entered, charged, or credited and the manner in which such entry, charge, or credit shall be made, and may require an entry to be modified or supplemented so as properly to show the cost of any asset or any other cost.
 
 #### (g) Submission by holding company or subsidiary to examination by holders of securities
 
@@ -34,7 +34,7 @@ It shall be the duty of every mutual service company, and of every affiliate of 
 
 #### (i) Uniform methods for keeping accounts; power of Commission to prescribe
 
-The Commission, by such rules and regulations as it deems necessary or appropriate in the public interest or for the protection of investors or consumers may prescribe for persons subject to the provisions of subsections (a), (b), (c), or\(d) of this section uniform methods for keeping accounts required under any provision of this section, including, among other things, the manner in which the cost of all assets, whenever determinable, shall be shown, the methods of classifying and segregating accounts, and the manner in which cost-accounting procedures shall be maintained.
+The Commission, by such rules and regulations as it deems necessary or appropriate in the public interest or for the protection of investors or consumers may prescribe for persons subject to the provisions of subsections (a), (b), (c), or (d) of this section uniform methods for keeping accounts required under any provision of this section, including, among other things, the manner in which the cost of all assets, whenever determinable, shall be shown, the methods of classifying and segregating accounts, and the manner in which cost-accounting procedures shall be maintained.
 
 (Aug. 26, 1935, ch. 687, title I, §15, 49 Stat. 828.)
 

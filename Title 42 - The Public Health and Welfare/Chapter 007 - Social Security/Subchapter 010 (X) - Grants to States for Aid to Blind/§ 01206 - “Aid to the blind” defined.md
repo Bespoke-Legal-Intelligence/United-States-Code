@@ -38,7 +38,7 @@ For the purposes of this subchapter, the term “aid to the blind” means money
 
 Amendment by section 221(b) of Pub. L. 89–97 applicable in the case of expenditures made after Dec. 31, 1965, under a State plan approved under this subchapter, see section 221(e) of Pub. L. 89–97, set out as a note under section 302 of this title.
 
-Amendment by section 402(c) of Pub. L. 89–97 applicable in the case of expenditures made after December 31, 1965, under a State plan approved under subchapters I, X, XIV, or XVI of this chapter, see section 402(e) of Pub. L. 89–97, set out as a note under section 306 of this title.
+Amendment by section 402(c) of Pub. L. 89–97 applicable in the case of expenditures made after December 31, 1965, under a State plan approved under subchapters I,X, XIV, or XVI of this chapter, see section 402(e) of Pub. L. 89–97, set out as a note under section 306 of this title.
 
 #### Effective Date of 1962 Amendment
 
@@ -46,5 +46,5 @@ Amendment by section 156(c) of Pub. L. 87–543 applicable in the case of applic
 
 #### Effective Date of 1950 Amendment
 
-Section 343(b) of act Aug. 28, 1950, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950, except that theexclusion of money payments to needy individuals described in clause (a) or (b) of section 1006 of the Social Security Act \[this section\] as so amended shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952.”
+Section 343(b) of act Aug. 28, 1950, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 1950, except that the exclusion of money payments to needy individuals described in clause (a) or (b) of section 1006 of the Social Security Act \[this section\] as so amended shall, in the case of any of such individuals who are not patients in a public institution, be effective July 1, 1952.”
 

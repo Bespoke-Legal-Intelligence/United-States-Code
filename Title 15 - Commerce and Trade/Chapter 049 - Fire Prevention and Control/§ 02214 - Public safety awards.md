@@ -74,6 +74,8 @@ Subsec. (f). Pub. L. 106–503, §110(a)(2)(B)(iv), substituted “Director” f
 
 #### Transfer of Functions
 
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 
 #### Ex. Ord. No. 13161. Establishment of the Presidential Medal of Valor for Public Safety Officers
@@ -90,7 +92,7 @@ Section 1. The Presidential Medal of Valor for Public Safety Officers (Medal) is
 
 &emsp;(3) who is employed by the Government of the United States, any State of the United States, any officially recognized elective body within a State of the United States, or any Federally recognized tribal organization.
 
-Sec. 2. Eligible recipients generally will be recommended to the President by the Attorney General by April 1 of each year. Pursuant to 36 U.S.C. 136–137, the President designates May 15 of each year as “Peace Officers Memorial Day” and the week in which it falls as “Police Week.” Presentation of the Medal shall occur at an appropriate time during the commemoration of Police Week, as far as is practicable.
+Sec. 2. Eligible recipients generally will be recommended to the President by the Attorney General byApril 1 of each year. Pursuant to 36 U.S.C. 136–137, the President designates May 15 of each year as “Peace Officers Memorial Day” and the week in which it falls as “Police Week.” Presentation of the Medal shall occur at an appropriate time during the commemoration of Police Week, as far as is practicable.
 
 Sec. 3. The President may select for the Medal up to ten persons annually from among those persons recommended to the President by the Attorney General. In submitting recommendations to the President, the Attorney General may consult with experts representing all segments of the public safety sector, including representatives from law enforcement, firefighters, and emergency services.
 

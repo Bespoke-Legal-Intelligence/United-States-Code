@@ -46,7 +46,7 @@ July 18, 1958, Pub. L. 85–533, §1, 72 Stat. 377.
 
 In subsections (a) and (b), the word “officer” is omitted as included in “employee”.
 
-In subsections (b) and (c), the word “designated” is substituted for “such a” and “such” in former section922(b) and (c) to identify the holiday as one designated by statute, Executive order, or the Board of Commissioners of the District of Columbia.
+In subsections (b) and (c), the word “designated” is substituted for “such a” and “such” in former section 922(b) and (c) to identify the holiday as one designated by statute, Executive order, or the Board of Commissioners of the District of Columbia.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

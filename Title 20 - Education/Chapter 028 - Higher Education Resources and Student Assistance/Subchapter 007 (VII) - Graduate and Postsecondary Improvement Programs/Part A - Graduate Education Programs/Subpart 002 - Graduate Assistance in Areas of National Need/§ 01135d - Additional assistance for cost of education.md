@@ -8,7 +8,7 @@
 
 #### (2) Reduction
 
-&emsp;The institutional allowance paid under paragraph (1) shall be reduced by the amount theinstitution charges and collects from a fellowship recipient for tuition and other expenses as part of the recipient's instructional program.
+&emsp;The institutional allowance paid under paragraph (1) shall be reduced by the amount the institution charges and collects from a fellowship recipient for tuition and other expenses as part of the recipient's instructional program.
 
 #### (b) Use for overhead prohibited
 

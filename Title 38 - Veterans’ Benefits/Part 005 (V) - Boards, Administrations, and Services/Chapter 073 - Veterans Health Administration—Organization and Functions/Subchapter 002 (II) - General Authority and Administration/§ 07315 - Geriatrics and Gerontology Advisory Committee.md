@@ -1,6 +1,6 @@
 ### §7315. Geriatrics and Gerontology Advisory Committee
 
-(a) The Secretary shall establish in the Administration a Geriatrics and Gerontology Advisory Committee (hereinafter in this section referred to as the “Committee”). The membership of the Committee shall be appointed by the Secretary, upon the recommendation of the Under Secretary for Health, and shall include individuals who are not employees of the Federal Government and who have demonstrated interest and expertise in research, education, and clinical activities related to aging and at least one representative of a national veterans service organization. The Secretary, upon the recommendation of the Under Secretary for Health, shall invite representatives of other appropriate departments and agencies of the United States to participate in the activities of the Committee and shall provide the Committee with such staff and other support as may be necessary for the Committee to carry out effectively its functions under this section.
+(a) The Secretary shall establish in the Veterans Health Administration a Geriatrics and Gerontology Advisory Committee (hereinafter in this section referred to as the “Committee”). The membership of the Committee shall be appointed by the Secretary, upon the recommendation of the Under Secretary for Health, and shall include individuals who are not employees of the Federal Government and who have demonstrated interest and expertise in research, education, and clinical activities related to aging and at least one representative of a national veterans service organization. The Secretary, upon the recommendation of the Under Secretary for Health, shall invite representatives of other appropriate departments and agencies of the United States to participate in the activities of the Committee and shall provide the Committee with such staff and other support as may be necessary for the Committee to carry out effectively its functions under this section.
 
 (b) The Committee shall—
 
@@ -28,13 +28,15 @@
 
 (2) Whenever the Committee submits a report to the Secretary under paragraph (1), the Committee shall at the same time transmit a copy of the report in the same form to the appropriate committees of Congress. Not later than 90 days after receipt of a report under that paragraph, the Secretary shall submit to the appropriate committees of Congress a report containing any comments and recommendations of the Secretary with respect to the report of the Committee.
 
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 217; amended Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 102–405, title I, §102, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1973, 1984; Pub. L. 103–446, title XII, §§1201(i)(9), 1202(b)(2), Nov. 2, 1994, 108 Stat. 4688, 4689.)
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 217; amended Pub. L. 102–83, §4(a)(3), (4), Aug. 6, 1991, 105 Stat. 404; Pub. L. 102–405, title I, §102, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1973, 1984; Pub. L. 103–446, title XII, §§1201(i)(9), 1202(b)(2), Nov. 2, 1994, 108 Stat. 4688, 4689; Pub. L. 107–330, title III, §308(g)(13), Dec. 6, 2002, 116 Stat. 2829.)
 
 #### References in Text
 
-The Veterans’ Administration Health-Care Amendments of 1980, referred to in subsec. (b)(2), is Pub. L. 96–330, Aug. 26, 1980, 94 Stat. 1030. Title III of the Act amended former sections 4101 and 4103 of this title and enacted provisions set out as notes under former section 4101 of this title. For the purposes of title III, seesection 301 of Pub. L. 96–330, set out as a note under section 7314 of this title. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of this title and Tables.
+The Veterans’ Administration Health-Care Amendments of 1980, referred to in subsec. (b)(2), is Pub. L. 96–330, Aug. 26, 1980, 94 Stat. 1030. Title III of the Act amended former sections 4101 and 4103 of this title and enacted provisions set out as notes under former section 4101 of this title. For the purposes of title III, see section 301 of Pub. L. 96–330, set out as a note under section 7314 of this title. For complete classification of this Act to the Code, see Short Title of 1980 Amendment note set out under section 101 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–330 inserted “Veterans Health” before “Administration” in first sentence.
 
 1994—Subsec. (b)(2). Pub. L. 103–446, §1201(i)(9), which directed substitution of “Veterans’ Administration” for “Department”, could not be executed because “Department” did not appear subsequent to execution of amendment by Pub. L. 103–446, §1202(b)(2). See below.
 

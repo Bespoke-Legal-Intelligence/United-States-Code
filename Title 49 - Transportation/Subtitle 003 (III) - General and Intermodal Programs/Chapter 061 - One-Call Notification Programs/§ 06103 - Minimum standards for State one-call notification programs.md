@@ -4,9 +4,9 @@
 
 Minimum Standards.—In order to qualify for a grant under section 6106, a State one-call notification program shall, at a minimum, provide for—
 
-&emsp;(1) appropriate participation by all underground facility operators;
+&emsp;(1) appropriate participation by all underground facility operators, including all government operators;
 
-&emsp;(2) appropriate participation by all excavators; and
+&emsp;(2) appropriate participation by all excavators, including all government and contract excavators; and
 
 &emsp;(3) flexible and effective enforcement under State law with respect to participation in, and use of, one-call notification systems.
 
@@ -20,7 +20,7 @@ Appropriate Participation.—In determining the appropriate extent of participat
 
 (c)
 
-Implementation.—A State one-call notification program also shall, at a minimum, provide for—
+Implementation.—A State one-call notification program also shall, at a minimum, provide for and document—
 
 &emsp;(1) consideration of the ranking of risks under subsection (b) in the enforcement of its provisions;
 
@@ -42,7 +42,15 @@ Penalties.—To the extent the State determines appropriate and necessary to ach
 
 &emsp;(5) citation of violations.
 
-(Added Pub. L. 105–178, title VII, §7302(a), June 9, 1998, 112 Stat. 479.)
+(Added Pub. L. 105–178, title VII, §7302(a), June 9, 1998, 112 Stat. 479; amended Pub. L. 107–355, §2(a), Dec. 17, 2002, 116 Stat. 2985.)
+
+#### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–355, §2(a)(1)(A), inserted “, including all government operators” before semicolon at end.
+
+Subsec. (a)(2). Pub. L. 107–355, §2(a)(1)(B), inserted “, including all government and contract excavators” before semicolon.
+
+Subsec. (c). Pub. L. 107–355, §2(a)(2), substituted “provide for and document” for “provide for” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

@@ -50,7 +50,7 @@ A system established in a State under section 10803 of this title to protect and
 
 &emsp;&emsp;(B) which shall include attorneys, mental health professionals, individuals from the public who are knowledgeable about mental illness, a provider of mental health services, individuals who have received or are receiving mental health services, and family members of such individuals, and at least 60 percent the membership of which shall be comprised of individuals who have received or are receiving mental health services or who are family members of such individuals; and
 
-&emsp;&emsp;(C) which shall be chaired by an individual who has received or is receiving mental health services or who is a family member of such an individual;
+&emsp;&emsp;(C) which shall be chaired by an individual who has received or is receiving mentalhealth services or who is a family member of such an individual;
 
 &emsp;(7) on January 1, 1987, and January 1 of each succeeding year, prepare and transmit to the Secretary and the head of the State mental health agency of the State in which the system is located a report describing the activities, accomplishments, and expenditures of the system during the most recently completed fiscal year, including a section prepared by the advisory council that describes the activities of the council and its assessment of the operations of the system;
 
@@ -70,7 +70,7 @@ The Secretary and the agency of a State which administers its State plan under t
 
 (B) In States in which the governing authority is organized as a private non-profit entity with a multi-member governing board, or a public system with a multi-member governing board, such governing board shall be selected according to the policies and procedures of the system. The governing board shall be composed of—
 
-&emsp;(i) members (to be selected no later than October 1, 1990) who broadly represent or areknowledgeable about the needs of the clients served by the system; and
+&emsp;(i) members (to be selected no later than October 1, 1990) who broadly represent or are knowledgeable about the needs of the clients served by the system; and
 
 &emsp;(ii) in the case of a governing authority organized as a private non-profit entity, members who broadly represent or are knowledgeable about the needs of the clients served by the system including the chairperson of the advisory council of such system.
 

@@ -26,7 +26,7 @@
 
 1990—Par. (1). Pub. L. 101–649 substituted “either (A) is over 50 years of age and has been living in the United States for periods totaling at least 20 years subsequent to a lawful admission for permanent residence, or (B) is over 55 years of age and has been living in the United States for periods totaling at least 15 years subsequent to a lawful admission for permanent residence” for “is over fifty years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence”.
 
-1978—Par. (1). Pub. L. 95–579 substituted “person who, on the date of the filing of his petition for naturalization as provided in section 1445 of this title, is over fifty years of age and has been living in the UnitedStates for periods totaling at least twenty years subsequent to a lawful admission for permanent residence” for “person who, on the effective date of this chapter, is over fifty years of age and has been living in the United States for periods totaling at least twenty years”.
+1978—Par. (1). Pub. L. 95–579 substituted “person who, on the date of the filing of his petition for naturalization as provided in section 1445 of this title, is over fifty years of age and has been living in the United States for periods totaling at least twenty years subsequent to a lawful admission for permanent residence”for “person who, on the effective date of this chapter, is over fifty years of age and has been living in the United States for periods totaling at least twenty years”.
 
 #### Effective Date of 1994 Amendment
 
@@ -39,6 +39,10 @@ Section 305(m) of Pub. L. 102–232 provided that the amendment made by that sec
 #### Regulations
 
 Section 108(d) of Pub. L. 103–416 provided that: “Not later than 120 days after the date of enactment of this Act \[Oct. 25, 1994\], the Attorney General shall promulgate regulations to carry out section 312(b)(3) of the Immigration and Nationality Act \[8 U.S.C. 1423(b)(3)\] (as amended by subsection (a)).”
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Hmong Veterans’ Naturalization
 

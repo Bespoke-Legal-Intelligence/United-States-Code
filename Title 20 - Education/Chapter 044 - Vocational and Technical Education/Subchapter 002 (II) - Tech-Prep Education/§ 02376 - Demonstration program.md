@@ -30,7 +30,7 @@ The provisions of sections 2372, 2373, 2374, and 2375 of this title shall not ap
 
 &emsp;(2) each tech-prep education program assisted under this section shall meet the requirements of paragraphs (1), (2), (3)(A), (3)(B), (3)(C), (3)(D), (4), (5), (6), and (7) of section 2373(c) of this title, except that such paragraph (3)(B) shall be applied by striking “, and if possible and practicable, 4-year institutions of higher education through nonduplicative sequences of courses in career fields”; and
 
-&emsp;(3) in awarding grants under this section, the Secretary shall give special consideration toconsortia submitting applications under subsection (c) of this section that meet the requirements of paragraphs (1), (3), (4), and (5) of section 2374(d) of this title, except that such paragraph (1) shall be applied by striking “or the transfer of students to baccalaureate degree programs”.
+&emsp;(3) in awarding grants under this section, the Secretary shall give special consideration to consortia submitting applications under subsection (c) of this section that meet the requirements of paragraphs (1), (3), (4), and (5) of section 2374(d) of this title, except that such paragraph (1) shall be applied by striking “or the transfer of students to baccalaureate degree programs”.
 
 #### (e) Authorization of appropriations
 
@@ -40,7 +40,7 @@ There is authorized to be appropriated to carry out this section $25,000,000 for
 
 #### Prior Provisions
 
-A prior section 2376, Pub. L. 88–210, title III, §326, as added Pub. L. 100–418, title VI, §6131(a)(3), Aug. 23, 1988, 102 Stat. 1509, provided findings and purpose of special program of financial assistance to States to enable them to expand and improve vocational education programs designed to meet current needs for training, retraining, and employment development of adults who had completed or left high school and were preparing to enter or had entered the labor market, including workers who were 55 years of age and older, in order to equip adults with competencies and skills required for productive employment, prior to repeal by Pub. L. 101–392, title III, §305, title VII, §702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
+A prior section 2376, Pub. L. 88–210, title III, §326, as added Pub. L. 100–418, title VI, §6131(a)(3), Aug. 23, 1988,102 Stat. 1509, provided findings and purpose of special program of financial assistance to States to enable them to expand and improve vocational education programs designed to meet current needs for training, retraining, and employment development of adults who had completed or left high school and were preparing to enter or had entered the labor market, including workers who were 55 years of age and older, in order to equip adults with competencies and skills required for productive employment, prior to repeal by Pub. L. 101–392, title III, §305, title VII, §702(a), Sept. 25, 1990, 104 Stat. 786, 843, effective July 1, 1991.
 
 #### Section Referred to in Other Sections
 

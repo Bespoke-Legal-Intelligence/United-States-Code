@@ -26,5 +26,5 @@ If, under any other provision of this chapter (other than subchapter I), funds a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1226c, 6055e, 6434, 6435, 7253e of this title.
+This section is referred to in sections 1226c, 6434, 6435, 7253e of this title.
 

@@ -6,7 +6,7 @@ As used in this chapter, the term—
 
 &emsp;(2) “Council” means the Federal Coordinating Council on Science, Engineering, and Technology;
 
-&emsp;(3) “global change” means changes in the global environment (including alterations in climate, land productivity, oceans or other water resources, atmospheric chemistry, and ecological systems) that may alter the capacity of the Earth to sustain life;
+&emsp;(3) “global change” means changes in the global environment (including alterations in climate, land productivity, oceans or otherwater resources, atmospheric chemistry, and ecological systems) that may alter the capacity of the Earth to sustain life;
 
 &emsp;(4) “global change research” means study, monitoring, assessment, prediction, and information management activities to describe and understand—
 

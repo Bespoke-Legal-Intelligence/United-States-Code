@@ -10,7 +10,7 @@ Fiscal year 1999.—The Secretary shall withhold 5 percent of the amount require
 
 &emsp;(2)
 
-Thereafter.—The Secretary shall withhold 10 percent (including any amounts withheld under paragraph (1)) of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (4) of section 104(b) on October 1, 1999, and on October 1 of each fiscal year thereafter, if the State does not meet the requirement of paragraph (3) on that date.
+Thereafter.—The Secretary shall withhold 10 percent (including any amounts withheld under paragraph (1)) of the amount required to be apportioned to any State under each of paragraphs (1), (3), and (4) of section 104(b) on October 1, 1999, and on October 1 ofeach fiscal year thereafter, if the State does not meet the requirement of paragraph (3) on that date.
 
 &emsp;(3)
 

@@ -34,7 +34,7 @@ Fourteen. Of the Government Printing Office.
 
 #### Codification
 
-Section is from a resolution adopted Apr. 12, 1892, the Deficiencies Appropriation Act of Mar. 3, 1901, and the Legislative Appropriations Act of May 14, 1928, providing that facilities for study and research be afforded to investigators, students, etc., in the several States and Territories as well as in the District of Columbia.
+Section is from a resolution adopted Apr. 12, 1892, the Deficiencies Appropriation Act of Mar. 3, 1901, and theLegislative Appropriations Act of May 14, 1928, providing that facilities for study and research be afforded to investigators, students, etc., in the several States and Territories as well as in the District of Columbia.
 
 #### Amendments
 

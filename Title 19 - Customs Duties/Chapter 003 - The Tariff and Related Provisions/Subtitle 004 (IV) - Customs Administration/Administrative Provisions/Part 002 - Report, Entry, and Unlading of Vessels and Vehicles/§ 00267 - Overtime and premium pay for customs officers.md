@@ -10,7 +10,7 @@
 
 #### (A) Minimum duration
 
-&emsp;&emsp;Any work for which compensation is authorized under paragraph (1) and for which the customs officer is required to return to the officer's place of work shall be treated asbeing not less than 2 hours in duration; but only if such work begins at least 1 hour after the end of any previous regularly scheduled work assignment and ends at least 1 hour before the beginning of the following regularly scheduled work assignment.
+&emsp;&emsp;Any work for which compensation is authorized under paragraph (1) and for which the customs officer is required to return to the officer's place of work shall be treated as being not less than 2 hours in duration; but only if such work begins at least 1 hour after the end of any previous regularly scheduled work assignment and ends at least 1 hour before the beginning of the following regularly scheduled work assignment.
 
 #### (B) Compensation for commuting time
 
@@ -20,7 +20,7 @@
 
 #### (ii) Exception
 
-&emsp;&emsp;&emsp;Compensation for commuting time is not payable under clause (i) if the work for which compensation is authorized under paragraph (1)—
+&emsp;&emsp;&emsp;Compensation for commuting time is not payable under clause (i) if the work forwhich compensation is authorized under paragraph (1)—
 
 &emsp;&emsp;&emsp;&emsp;(I) does not commence within 16 hours of the customs officer's last regularly scheduled work assignment, or
 
@@ -86,7 +86,7 @@ As used in this section:
 
 Section derived from R.S. §2872, as amended by act June 26, 1884, ch. 121, §25, 23 Stat. 59.
 
-Prior to the general revision of section 5 of act Feb. 13, 1911, by section 13811(a) of Pub. L. 103–66, provisions of section 5 of act Feb. 13, 1911, relating to extra compensation for boarding officers performing services atnight or on Sundays and holidays, were classified to section 261 of this title.
+Prior to the general revision of section 5 of act Feb. 13, 1911, by section 13811(a) of Pub. L. 103–66, provisions of section 5 of act Feb. 13, 1911, relating to extra compensation for boarding officers performing services at night or on Sundays and holidays, were classified to section 261 of this title.
 
 #### Amendments
 
@@ -104,7 +104,9 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Transfer of Functions
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in this section, are under Department of the Treasury.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of those officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in this section, were under Department of the Treasury.
 
 #### Section Referred to in Other Sections
 

@@ -22,7 +22,7 @@ The purposes of federally supported agricultural research, extension, and educat
 
 #### Prior Provisions
 
-A prior section 3101, Pub. L. 95–113, title XIV, §1402, Sept. 29, 1977, 91 Stat. 981; Pub. L. 97–98, title XIV, §1402, Dec. 22, 1981, 95 Stat. 1294; Pub. L. 99–198, titleXIV, §1402, Dec. 23, 1985, 99 Stat. 1542, stated Congressional findings, prior to repeal by Pub. L. 101–624, title XVI, §1601(f)(1)(A), Nov. 28, 1990, 104 Stat. 3704.
+A prior section 3101, Pub. L. 95–113, title XIV, §1402, Sept. 29, 1977, 91 Stat. 981; Pub. L. 97–98, title XIV, §1402, Dec. 22, 1981, 95 Stat. 1294; Pub. L. 99–198, title XIV, §1402, Dec. 23, 1985, 99 Stat. 1542, stated Congressional findings, prior to repeal by Pub. L. 101–624, title XVI, §1601(f)(1)(A), Nov. 28, 1990, 104 Stat. 3704.
 
 #### Amendments
 
@@ -34,13 +34,87 @@ Section 1401 of title XIV of Pub. L. 99–198 provided that: “This title \[ena
 
 #### Short Title of 1981 Amendment
 
-Section 1401 of title XIV of Pub. L. 97–98 provided that: “This title \[enacting sections 2271, 2661 to 2667, 3124a, 3223, 3317 to 3319, 3321 to 3324, and 3331 to 3336 of this title, amending this section and sections 322, 361c, 390c, 450i, 3102, 3103, 3121 to 3124, 3125 to 3128, 3151 to 3154, 3175, 3177, 3191, 3192, 3194 to 3196, 3221, 3222, 3263, 3282, 3291, 3311, and 3312 of this title, section 5315 of Title 5, Government Organization and Employees, sections 582a, 582a–1, and 582a–3 to 582a–5 of Title 16, Conservation, section 483 of Title 40, Public Buildings, Property, and Works, and sections 6651 and 8852 of Title 42, The Public Health and Welfare, repealing sections 2670 and 3176 of this title, omitting section 2668 of this title, and enacting provisions set out as notes under sections 2281 and 3176 of this title\] may be cited as the ‘National Agricultural Research, Extension, and Teaching Policy Act Amendments of 1981’.”
+Section 1401 of title XIV of Pub. L. 97–98 provided that: “This title \[enacting sections 2271, 2661 to 2667, 3124a, 3223, 3317 to 3319, 3321 to 3324, and 3331 to 3336 of this title, amending this section and sections 322, 361c, 390c, 450i, 3102, 3103, 3121 to 3124, 3125 to 3128, 3151 to 3154, 3175, 3177, 3191, 3192, 3194 to 3196, 3221, 3222, 3263, 3282, 3291, 3311, and 3312 of this title, section 5315 of Title 5, Government Organization and Employees, sections 582a, 582a–1, and 582a–3 to 582a–5 of Title 16, Conservation, section 483 of former Title 40, Public Buildings, Property, and Works, and sections 6651 and 8852 of Title 42, The Public Health and Welfare, repealing sections 2670 and 3176 of this title, omitting section 2668 of this title, and enacting provisions set out as notes under sections 2281 and 3176 of this title\] may be cited as the ‘National Agricultural Research, Extension, and Teaching Policy Act Amendments of 1981’.”
 
 #### Short Title
 
 Section 1401 of title XIV of Pub. L. 95–113 provided that: “This title \[enacting this chapter and sections 2669 and 2670 of this title, amending sections 341, 342, 343, 361c, 390 to 390j, 427, 450i, 1923, 1942, 2662, 2663, and 2667 of this title and section 6651 of Title 42, The Public Health and Welfare, and repealing section 390k of this title\] may be cited as the ‘National Agricultural Research, Extension, and Teaching Policy Act of 1977’.”
 
+#### Review of Agricultural Research Service
+
+Pub. L. 107–171, title VII, §7404, May 13, 2002, 116 Stat. 457, provided that:
+
+“(a)
+
+In General.—Not later than 90 days after the date of enactment of this Act \[May 13, 2002\], the Secretary \[of Agriculture\] shall establish a task force to—
+
+&emsp;“(1) conduct a review of the Agricultural Research Service; and
+
+&emsp;“(2) evaluate the merits of establishing one or more National Institutes focused on disciplines important to the progress of food and agricultural science.
+
+“(b)
+
+Membership.—
+
+&emsp;“(1)
+
+In general.—The Task Force shall consist of 8 members, appointed by the Secretary, that—
+
+&emsp;&emsp;“(A) have a broad-based background in plant, animal, and agricultural sciences research, food, nutrition, biotechnology, crop production methods, environmental science, or related disciplines; and
+
+&emsp;&emsp;“(B) are familiar with the role and infrastructure used to conduct Federal and private research, including—
+
+&emsp;&emsp;&emsp;“(i) the Agricultural Research Service;
+
+&emsp;&emsp;&emsp;“(ii) the National Institutes of Health;
+
+&emsp;&emsp;&emsp;“(iii) the National Science Foundation;
+
+&emsp;&emsp;&emsp;“(iv) the National Aeronautics and Space Administration;
+
+&emsp;&emsp;&emsp;“(v) the Department of Energy laboratory system; or
+
+&emsp;&emsp;&emsp;“(vi) the Cooperative State Research, Education, and Extension Service.
+
+&emsp;“(2)
+
+Private sector.—Of the members appointed under paragraph (1), the Secretary shall appoint at least 6 members that are members of the private sector or come from institutions of higher education.
+
+&emsp;“(3)
+
+Plant and agricultural sciences research.—Of the members appointed under paragraph (1), the Secretary shall appoint at least 3 members that have an extensive background and preeminence in the field of plant, animal, and agricultural sciences research.
+
+&emsp;“(4)
+
+Chairperson.—Of the members appointed under paragraph (1), the Secretary shall designate a Chairperson that has significant leadership experience in educational and research institutions and indepth knowledge of the research enterprises of the United States.
+
+&emsp;“(5)
+
+Consultation.—Before appointing members of the Task Force under this subsection, the Secretary shall consult with the National Academy of Sciences and the Office of Science and Technology Policy.
+
+“(c)
+
+Duties.—The Task Force shall—
+
+&emsp;“(1) conduct a review of the purpose, efficiency, effectiveness, and impact on agricultural research of the Agricultural Research Service;
+
+&emsp;“(2) conduct a review and evaluation of the merits of establishing one or more National Institutes (such as National Institutes for Plant and Agricultural Sciences) focused on disciplines important to the progress of food and agricultural sciences, and, if establishment of one or more National Institutes is recommended, provide further recommendations to the Secretary, including the structure for establishing each Institute, the multistate area location of each Institute, and the amount of funding necessary to establish each Institute; and
+
+&emsp;“(3) submit the reports required by subsection (d).
+
+“(d)
+
+Reports.—Not later than 12 months after the date of enactment of this Act \[May 13, 2002\], the Task Force shall submit to the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, and the Secretary—
+
+&emsp;“(1) a report on the review and evaluation required under subsection (c)(1); and
+
+&emsp;“(2) a report on the review and evaluation required under subsection (c)(2).
+
+“(e)
+
+Funding.—The Secretary shall use to carry out this section not more than 0.1 percent of the amount of appropriations available to the Agricultural Research Service for fiscal year 2003.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 390a, 2204f, 3123, 7612 of this title.
+This section is referred to in sections 390a, 3123, 3363, 7612 of this title.
 

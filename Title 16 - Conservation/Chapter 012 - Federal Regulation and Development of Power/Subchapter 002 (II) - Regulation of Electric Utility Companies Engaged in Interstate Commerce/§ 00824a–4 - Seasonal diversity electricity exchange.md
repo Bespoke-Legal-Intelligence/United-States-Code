@@ -46,7 +46,7 @@ The Commission, referred to in subsec. (b), means the Federal Energy Regulatory 
 
 Subsection (f), which required the Secretary to report annually to Congress on actions taken pursuant to this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 90 of House Document No. 103–7.
 
-Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of the Federal Power Act which generally comprises this chapter.
+Section was enacted as part of the Public Utility Regulatory Policies Act of 1978, and not as part of theFederal Power Act which generally comprises this chapter.
 
 <i><sup>1</sup></i><i> So in original. Comma probably should be deleted.</i>
 

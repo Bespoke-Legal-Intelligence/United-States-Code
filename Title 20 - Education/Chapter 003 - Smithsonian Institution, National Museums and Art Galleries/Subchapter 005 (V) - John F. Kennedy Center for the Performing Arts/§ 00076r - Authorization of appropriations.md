@@ -20,13 +20,23 @@ There are authorized to be appropriated to the Board to carry out subparagraphs 
 
 &emsp;(3) $17,000,000 for fiscal year 2003.
 
-#### (c) Limitation on use of funds
+#### (c) John F. Kennedy Center Plaza
+
+There is authorized to be appropriated to the Secretary of Transportation for capital costs incurred in the planning, design, engineering, and construction of the project authorized by section 76q–1 of this title (including roadway improvements related to the North and South Interchanges and construction of the John F. Kennedy Center Plaza, but not including construction of any buildings on the plaza) a total of $400,000,000 for fiscal years 2003 through 2010. Such sums shall remain available until expended.
+
+#### (d) Limitation on use of funds
 
 No funds appropriated pursuant to this section may be used for any direct expense incurred in the production of a performing arts attraction, for personnel who are involved in performing arts administration (including any supply or equipment used by the personnel), or for production, staging, public relations, marketing, fundraising, ticket sales, or education. Funds appropriated directly to the Board shall not affect nor diminish other Federal funds sought for any performing arts function and may be used to reimburse the Board for that portion of costs that are Federal costs reasonably allocated to building services and theater maintenance and repair.
 
-(Pub. L. 85–874, §12, as added Pub. L. 103–279, §7, July 21, 1994, 108 Stat. 1415; amended Pub. L. 105–226, §5, Aug. 12, 1998, 112 Stat. 1513.)
+(Pub. L. 85–874, §13, formerly §12, as added Pub. L. 103–279, §7, July 21, 1994, 108 Stat. 1415; amended Pub. L. 105–226, §5, Aug. 12, 1998, 112 Stat. 1513; renumbered §13 and amended Pub. L. 107–224, §§2(1), 3, Sept. 18, 2002, 116 Stat. 1340, 1342.)
+
+#### Prior Provisions
+
+A prior section 13 of Pub. L. 85–874 was renumbered section 14 and is classified to section 76s of this title.
 
 #### Amendments
+
+2002—Subsecs. (c), (d). Pub. L. 107–224, §3, added subsec. (c) and redesignated former subsec. (c) as (d).
 
 1998—Subsecs. (a), (b). Pub. L. 105–226 added subsecs. (a) and (b) and struck out former subsecs. (a) and (b) which read as follows:
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-For the purpose of carrying out this subpart, and subpart III and section 290aa–4 of this title with respect to mental health, there are authorized to be appropriated $450,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
+For the purpose of carrying out this subpart, and subpart III and section 290aa–4 of this titlewith respect to mental health, there are authorized to be appropriated $450,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003.
 
 #### (b) Allocations for technical assistance, data collection, and program evaluation
 
@@ -42,7 +42,7 @@ Section 300x–13, act July 1, 1944, ch. 373, title XIX, §1927, formerly §1920
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–310, §3204(f)(1), substituted “$450,000,000 for fiscal year 2001, and such sumsas may be necessary for each of the fiscal years 2002 and 2003” for “$450,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994”.
+2000—Subsec. (a). Pub. L. 106–310, §3204(f)(1), substituted “$450,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “$450,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994”.
 
 Subsec. (b)(2). Pub. L. 106–310, §3204(f)(2), substituted “sections 290aa–4 and 300y of this title” for “section 290aa–4 of this title”.
 

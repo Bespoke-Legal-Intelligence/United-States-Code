@@ -1,6 +1,6 @@
 ### §455. Period of limitations
 
-(a) No person shall be prosecuted, tried, or punished for any violation of subchapter I of this chapter, unless the indictment is found or the information is instituted within 3 years after the date of the violation.
+(a) No person shall be prosecuted, tried, or punished for any violation of subchapter I of this chapter, unless the indictment is found or the information is instituted within 5 years after the date of the violation.
 
 (b) Notwithstanding any other provision of law—
 
@@ -10,7 +10,7 @@
 
 > Nothing in this subsection shall affect any proceeding pending in any court of the United States on January 1, 1975.
 
-(Pub. L. 92–225, title IV, §406, as added Pub. L. 93–443, title III, §302, Oct. 15, 1974, 88 Stat. 1289; amended Pub. L. 94–283, title I, §115(f), May 11, 1976, 90 Stat. 496.)
+(Pub. L. 92–225, title IV, §406, as added Pub. L. 93–443, title III, §302, Oct. 15, 1974, 88 Stat. 1289; amended Pub. L. 94–283, title I, §115(f), May 11, 1976, 90 Stat. 496; Pub. L. 107–155, title III, §313(a), Mar. 27, 2002, 116 Stat. 106.)
 
 #### References in Text
 
@@ -18,9 +18,15 @@ The Federal Election Campaign Act Amendments of 1974, referred to in subsec. (b)
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–155 substituted “5 years” for “3 years”.
+
 1976—Subsec. (a). Pub. L. 94–283, §115(f)(1), struck out references to sections 608, 610, 611, 613, 614, 615, 616, and 617 of title 18.
 
 Subsec. (b)(2). Pub. L. 94–283, §115(f)(2), struck out references to sections 608, 610, 611, and 613 of title 18.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–155, title III, §313(b), Mar. 27, 2002, 116 Stat. 106, provided that: “The amendment made by this section \[amending this section\] shall apply to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title\].”
 
 #### Effective Date
 

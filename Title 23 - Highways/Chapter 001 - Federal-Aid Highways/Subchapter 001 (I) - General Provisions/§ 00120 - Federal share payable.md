@@ -26,7 +26,7 @@ Other Projects.—Except as otherwise provided in this title, the Federal share 
 
 Increased Federal Share for Certain Safety Projects.—The Federal share payable on account of any project for traffic control signalization, safety rest areas, pavement marking, commuter carpooling and vanpooling, rail-highway crossing closure, or installation of traffic signs, traffic lights, guardrails, impact attenuators, concrete barrier endtreatments, breakaway utility poles, or priority control systems for emergency vehicles or transit vehicles at signalized intersections may amount to 100 percent of the cost of construction of such projects; except that not more than 10 percent of all sums apportioned for all the Federal-aid systems for any fiscal year in accordance with section 104 of this title shall be used under this subsection. In this subsection, the term “safety rest area” means an area where motor vehicle operators can park their vehicles and rest, where food, fuel, and lodging services are not available, and that is located on a segment of highway with respect to which the Secretary determines there is a shortage of public and private areas at which motor vehicle operators can park their vehicles and rest.
 
-(d) The Secretary may rely on a statement from the Secretary of the Interior as to the area of the lands referred to in subsections (a) and (b) of this section. The Secretary of the Interior is authorized and directed to provide such statement annually.
+(d) The Secretary may rely on a statement from the Secretary of the Interior as to the area of the lands referred to in subsections (a) and (b) of this section. The Secretary of the Interior isauthorized and directed to provide such statement annually.
 
 (e)
 
@@ -90,7 +90,7 @@ Use of Federal Land Management Agency Funds.—Notwithstanding any other provisi
 
 Use of Federal Lands Highways Program Funds.—Notwithstanding any other provision of law, the funds authorized to be appropriated to carry out the Federal lands highways program under section 204 may be used to pay the non-Federal share of the cost of any project that is funded under section 104 and that provides access to or within Federal or Indian lands.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145, 146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat.769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582; Pub. L. 104–205, title III, §353(a), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 145, 151, 152, 154, 193; Pub. L. 105–206, title IX, §§9002(i), 9006(a)(2), July 22, 1998, 112 Stat. 836, 848.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 898; Pub. L. 86–70, §21(d)(4), (e)(4), June 25, 1959, 73 Stat. 145, 146; Pub. L. 86–342, title I, §107(b), Sept. 21, 1959, 73 Stat. 613; Pub. L. 86–657, §3, July 14, 1960, 74 Stat. 522; Pub. L. 88–658, Oct. 13, 1964, 78 Stat. 1090; Pub. L. 89–574, §9(a), Sept. 13, 1966, 80 Stat. 769; Pub. L. 90–495, §§27(b), 34, Aug. 23, 1968, 82 Stat. 829, 835; Pub. L. 91–605, title I, §§106(f), 108(a), 109(b), 128, Dec. 31, 1970, 84 Stat. 1718, 1719, 1731; Pub. L. 95–599, title I, §§117, 129(a)–(c), (i), Nov. 6, 1978, 92 Stat. 2699, 2707, 2708; Pub. L. 97–424, title I, §§109(b), 117, 123(a), 153(f), 156(c), Jan. 6, 1983, 96 Stat. 2105, 2109, 2113, 2133, 2134; Pub. L. 98–78, title III, §318, Aug. 15, 1983, 97 Stat. 473; Pub. L. 100–17, title I, §117(a)–(c)(1), (d), (e), Apr. 2, 1987, 101 Stat. 155, 156; Pub. L. 102–240, title I, §§1021(a), (b), 1022(a), Dec. 18, 1991, 105 Stat. 1950, 1951; Pub. L. 104–59, title III, §310(a), Nov. 28, 1995, 109 Stat. 582; Pub. L. 104–205, title III, §353(a), Sept. 30, 1996, 110 Stat. 2980; Pub. L. 105–178, title I, §§1111(a)–(c), 1113(a), (c), formerly (d), 1115(a), (f)(1), 1212(a)(2)(A)(ii), June 9, 1998, 112 Stat. 145, 151, 152, 154, 193; Pub. L. 105–206, title IX, §§9002(i), 9006(a)(2), July 22, 1998, 112 Stat. 836, 848.)
 
 #### Amendments
 
@@ -154,7 +154,7 @@ Subsec. (m). Pub. L. 100–17, §117(d)(2), added subsec. (m).
 
 Subsec. (n). Pub. L. 100–17, §117(e), added subsec. (n).
 
-1983—Subsec. (j). Pub. L. 98–78 inserted “, and for funds allocated under the provisions of section 155 of this title and obligated subsequent to January 6, 1983,” after “Representatives”.
+1983—Subsec. (j). Pub. L. 98–78 inserted “, and for funds allocated under the provisions of section 155 ofthis title and obligated subsequent to January 6, 1983,” after “Representatives”.
 
 1983—Subsec. (c). Pub. L. 97–424, §117(a), inserted provision at end that, notwithstanding subsection (a) of this section, the Federal share payable on account of any project financed with primary funds on the Interstate System for resurfacing, restoring, rehabilitating, and reconstructing shall be the percentage provided in this subsection.
 
@@ -226,7 +226,7 @@ Section 108(b) of Pub. L. 91–605, as amended by Pub. L. 93–87, title I, §15
 
 #### Effective Date of 1968 Amendment
 
-Amendment by section 27(b) of Pub. L. 90–495 applicable to repair or construction with respect to which project agreements have been entered into on or beforeJan. 1, 1968, see section 27(c) of Pub. L. 90–495, set out as a note under section 125 of this title.
+Amendment by section 27(b) of Pub. L. 90–495 applicable to repair or construction with respect to which project agreements have been entered into on or before Jan. 1, 1968, see section 27(c) of Pub. L. 90–495, set out as a note under section 125 of this title.
 
 Amendment by section 34 of Pub. L. 90–495 effective Aug. 23, 1968, see section 37 of Pub. L. 90–495, set out as a note under section 101 of this title.
 
@@ -300,7 +300,7 @@ In General.—The Secretary of the Treasury, in consultation with the Secretary 
 
 &emsp;&emsp;“(B) a new system of raising revenues to fund the Highway Trust Fund which would meet the objectives set forth in subparagraph (A).
 
-> The recommendations described in paragraph (2) shall be formulated in conjunction with the recommendations of the cost allocation study under section 506 setout as note under section 307 of this title of the equitable distribution of the highway excise taxes.
+> The recommendations described in paragraph (2) shall be formulated in conjunction with the recommendations of the cost allocation study under section 506 set out as note under section 307 of this title of the equitable distribution of the highway excise taxes.
 
 “(b)
 

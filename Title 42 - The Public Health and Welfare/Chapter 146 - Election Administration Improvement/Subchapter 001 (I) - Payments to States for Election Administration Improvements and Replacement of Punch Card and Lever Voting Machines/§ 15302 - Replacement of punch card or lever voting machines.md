@@ -1,0 +1,98 @@
+### §15302. Replacement of punch card or lever voting machines
+
+#### (a) Establishment of program
+
+#### (1) In general
+
+&emsp;Not later than 45 days after October 29, 2002, the Administrator shall establish a program under which the Administrator shall make a payment to each State eligible under subsection (b) of this section in which a precinct within that State used a punch card voting system or a lever voting system to administer the regularly scheduled general election for Federal office held in November 2000 (in this section referred to as a “qualifying precinct”).
+
+#### (2) Use of funds
+
+&emsp;A State shall use the funds provided under a payment under this section (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in qualifying precincts within that State with a voting system (by purchase, lease, or such other arrangement as may be appropriate) that—
+
+&emsp;&emsp;(A) does not use punch cards or levers;
+
+&emsp;&emsp;(B) is not inconsistent with the requirements of the laws described in section 15545 of this title; and
+
+&emsp;&emsp;(C) meets the requirements of section 15481 of this title.
+
+#### (3) Deadline
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), a State receiving a payment under the program under this section shall ensure that all of the punch card voting systems or lever voting systems in the qualifying precincts within that State have been replaced in time for the regularly scheduled general election for Federal office to be held in November 2004.
+
+#### (B) Waiver
+
+&emsp;&emsp;If a State certifies to the Administrator not later than January 1, 2004, that the State will not meet the deadline described in subparagraph (A) for good cause and includes in the certification the reasons for the failure to meet such deadline, the State shall ensure that all of the punch card voting systems or lever voting systems in the qualifying precincts within that State will be replaced in time for the first election for Federal office held after January 1, 2006.
+
+#### (b) Eligibility
+
+#### (1) In general
+
+&emsp;A State is eligible to receive a payment under the program under this section if it submits to the Administrator a notice not later than the date that is 6 months after October 29, 2002 (in such form as the Administrator may require) that contains—
+
+&emsp;&emsp;(A) certifications that the State will use the payment (either directly or as reimbursement, including as reimbursement for costs incurred on or after January 1, 2001, under multiyear contracts) to replace punch card voting systems or lever voting systems (as the case may be) in the qualifying precincts within the State by the deadline described in subsection (a)(3) of this section;
+
+&emsp;&emsp;(B) certifications that the State will continue to comply with the laws described in section 15545 of this title;
+
+&emsp;&emsp;(C) certifications that the replacement voting systems will meet the requirements of section 15481 of this title; and
+
+&emsp;&emsp;(D) such other information and certifications as the Administrator may require which are necessary for the administration of the program.
+
+#### (2) Compliance of states that require changes to State law
+
+&emsp;In the case of a State that requires State legislation to carry out an activity covered by any certification submitted under this subsection, the State shall be permitted to make the certification notwithstanding that the legislation has not been enacted at the time the certification is submitted and such State shall submit an additional certification once such legislation is enacted.
+
+#### (c) Amount of payment
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2) and section 15303(b) of this title, the amount of payment made to a State under the program under this section shall be equal to the product of—
+
+&emsp;&emsp;(A) the number of the qualifying precincts within the State; and
+
+&emsp;&emsp;(B) $4,000.
+
+#### (2) Reduction
+
+&emsp;If the amount of funds appropriated pursuant to the authority of section 15304(a)(2) of this title is insufficient to ensure that each State receives the amount of payment calculated under paragraph (1), the Administrator shall reduce the amount specified in paragraph (1)(B) to ensure that the entire amount appropriated under such section is distributed to the States.
+
+#### (d) Repayment of funds for failure to meet deadlines
+
+#### (1) In general
+
+&emsp;If a State receiving funds under the program under this section fails to meet the deadline applicable to the State under subsection (a)(3) of this section, the State shall pay to the Administrator an amount equal to the noncompliant precinct percentage of the amount of the funds provided to the State under the program.
+
+#### (2) Noncompliant precinct percentage defined
+
+&emsp;In this subsection, the term “noncompliant precinct percentage” means, with respect to a State, the amount (expressed as a percentage) equal to the quotient of—
+
+&emsp;&emsp;(A) the number of qualifying precincts within the State for which the State failed to meet the applicable deadline; and
+
+&emsp;&emsp;(B) the total number of qualifying precincts in the State.
+
+#### (e) Punch card voting system defined
+
+For purposes of this section, a “punch card voting system” includes any of the following voting systems:
+
+&emsp;(1) C.E.S.
+
+&emsp;(2) Datavote.
+
+&emsp;(3) PBC Counter.
+
+&emsp;(4) Pollstar.
+
+&emsp;(5) Punch Card.
+
+&emsp;(6) Vote Recorder.
+
+&emsp;(7) Votomatic.
+
+(Pub. L. 107–252, title I, §102, Oct. 29, 2002, 116 Stat. 1670.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 15303, 15304 of this title.
+

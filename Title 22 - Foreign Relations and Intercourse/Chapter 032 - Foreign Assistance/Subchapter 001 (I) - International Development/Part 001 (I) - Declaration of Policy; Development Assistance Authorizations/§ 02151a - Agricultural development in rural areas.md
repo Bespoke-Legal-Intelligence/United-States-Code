@@ -12,7 +12,7 @@
 
 (2) There are authorized to be appropriated to the President for purposes of this section, in addition to funds otherwise available for such purposes, $760,000,000 for fiscal year 1986 and $760,000,000 for fiscal year 1987. Of these amounts, the President may use such amounts as he deems appropriate to carry out the provisions of section 316 of the International Security and Development Cooperation Act of 1980. Amounts appropriated under this section are authorized to remain available until expended.
 
-(3) Of the amounts authorized to be appropriated in paragraph (2) for the fiscal year 1987, not less than $2,000,000 shall be available only for the purpose of controlling and eradicating amblyomma variegatum (heartwater) in bovine animals in the Caribbean.
+(3) Of the amounts authorized to be appropriated in paragraph (2) for the fiscal year 1987, not less than $2,000,000 shall be available onlyfor the purpose of controlling and eradicating amblyomma variegatum (heartwater) in bovine animals in the Caribbean.
 
 #### (b) Use of assistance primarily in aid of rural poor; multilateral infrastructure projects; forestry projects
 
@@ -66,7 +66,7 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 
 1986—Subsec. (a)(3). Pub. L. 99–399 added par. (3).
 
-1985—Subsec. (a)(2). Pub. L. 99–83, §302, substituted “$760,000,000 for fiscal year 1986 and $760,000,000 for fiscal year 1987. Of these amounts, the President may use such amounts as he deems appropriate to carry out theprovisions of section 316 of the International Security and Development Cooperation Act of 1980.” for “$700,000,000 for the fiscal year 1982 and $700,000,000 for the fiscal year 1983, of which up to $1,000,000 for each such fiscal year shall be available only to carry out section 316 of the International Security and Development Cooperation Act of 1980.”
+1985—Subsec. (a)(2). Pub. L. 99–83, §302, substituted “$760,000,000 for fiscal year 1986 and $760,000,000 for fiscal year 1987. Of these amounts, the President may use such amounts as he deems appropriate to carry out the provisions of section 316 of the International Security and Development Cooperation Act of 1980.” for “$700,000,000 for the fiscal year 1982 and $700,000,000 for the fiscal year 1983, of which up to $1,000,000 for each such fiscal year shall be available only to carry out section 316 of the International Security and Development Cooperation Act of 1980.”
 
 Subsec. (g). Pub. L. 99–83, §1001, amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “In order to carry out the purposes of this section, the President may continue to participate in and may provide, on such terms and conditions as he may determine, up to $180,000,000 to the International Fund for Agricultural Development. There are authorized to be appropriated to the President for the purposes of this subsection $180,000,000, except that not more than $40,500,000 may be appropriated under this subsection for the fiscal year 1982. Amounts appropriated under this subsection are authorized to remain available until expended.”
 

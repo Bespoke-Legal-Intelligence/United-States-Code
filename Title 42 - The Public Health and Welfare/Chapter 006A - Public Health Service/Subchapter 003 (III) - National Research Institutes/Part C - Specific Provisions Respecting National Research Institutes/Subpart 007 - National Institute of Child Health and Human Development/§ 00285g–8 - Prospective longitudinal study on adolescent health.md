@@ -20,7 +20,7 @@ Not later than October 1, 1993, the Director of the Institute shall commence a s
 
 #### (c) Coordination with Women's Health Initiative
 
-With respect to the national study of women being conducted by the Secretary and known as the Women's Health Initiative, the Secretary shall ensure that such study is coordinated with the component of the study required in subsection (a) of this section that concerns adolescent females, including coordination in the design of the 2 studies.
+With respect to the national study of women being conducted by the Secretary and known as the Women's Health Initiative, the Secretary shall ensure that such study is coordinated withthe component of the study required in subsection (a) of this section that concerns adolescent females, including coordination in the design of the 2 studies.
 
 (July 1, 1944, ch. 373, title IV, §452D, as added Pub. L. 103–43, title X, §1031, June 10, 1993, 107 Stat. 167.)
 

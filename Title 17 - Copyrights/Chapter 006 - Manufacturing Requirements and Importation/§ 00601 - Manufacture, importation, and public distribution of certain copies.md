@@ -28,7 +28,7 @@
 
 &emsp;&emsp;(B) the first publication of the work has previously taken place outside the United States under a transfer or license granted by such author to a transferee or licensee who was not a national or domiciliary of the United States or a domestic corporation or enterprise; and
 
-&emsp;&emsp;(C) there has been no publication of an authorized edition of the work of which the copies were manufactured in the United States; and
+&emsp;&emsp;(C) there has been no publication of an authorized edition of the work of which thecopies were manufactured in the United States; and
 
 &emsp;&emsp;(D) the copies were reproduced under a transfer or license granted by such author or by the transferee or licensee of the right of first publication as mentioned in subclause (B), and the transferee or the licensee of the right of reproduction was not a national or domiciliary of the United States or a domestic corporation or enterprise.
 
@@ -68,13 +68,13 @@ The principal arguments for elimination of the manufacturing requirement can be 
 
 &emsp;2\. The provision places unjustified burdens on the author, who is treated as a hostage. It hurts the author most where it benefits the manufacturer least: in cases where the author must publish abroad or not at all. It unfairly discriminates between American authors and other authors, and between authors of books and authors of other works.
 
-&emsp;3\. The manufacturing clause violates the basic principle that an author's rights should not be dependenton the circumstances of manufacture. Complete repeal would substantially reduce friction with foreign authors and publishers, increase opportunities for American authors to have their works published, encourage international publishing ventures, and eliminate the tangle of procedural requirements now burdening authors, publishers, the Copyright Office, and the United States Customs Service.
+&emsp;3\. The manufacturing clause violates the basic principle that an author's rights should not be dependent on the circumstances of manufacture. Complete repeal would substantially reduce friction with foreign authors and publishers, increase opportunities for American authors to have their works published, encourage international publishing ventures, and eliminate the tangle of procedural requirements now burdening authors, publishers, the Copyright Office, and the United States Customs Service.
 
 &emsp;4\. Studies prove that the economic fears of the printing industry and unions are unfounded. The vast bulk of American titles are completely manufactured in the United States, and U.S. exports of printed matter are much greater than imports. The American book manufacturing industry is healthy and growing, to the extent that it cannot keep pace with its orders. There are increasing advantages to domestic manufacture because of improved technology, and because of the delays, inconveniences, and other disadvantages of foreign manufacture. Even with repeal, foreign manufacturing would be confined to small editions and scholarly works, some of which could not be published otherwise.
 
 The following were the principal arguments in favor of retaining some kind of manufacturing restriction.
 
-1\. The historical reasons for the manufacturing clause were valid originally and still are. It is unrealistic to speak of this as a “free trade” issue or of tariffs as offering any solution, since book tariffs have been removed entirely under the Florence Agreement. The manufacturing requirement remains a reasonable and justifiable condition to the granting of a monopoly. There is no problem of international comity, since only works by American authors are affected by section 601. Foreign countries have many kinds of import barriers, currency controls, and similar restrictive devices comparable to a manufacturing requirement.
+1\. The historical reasons for the manufacturing clause were valid originally and still are. It is unrealistic to speak of this as a “free trade” issue or of tariffs as offering any solution, since book tariffs have been removed entirely under the Florence Agreement. The manufacturing requirement remains a reasonable and justifiable condition to the granting of a monopoly.There is no problem of international comity, since only works by American authors are affected by section 601. Foreign countries have many kinds of import barriers, currency controls, and similar restrictive devices comparable to a manufacturing requirement.
 
 2\. The differentials between U.S. and foreign wage rates in book production are extremely broad and are not diminishing: Congress should not create a condition whereby work can be done under the most degraded working conditions in the world, be given free entry, and thus exclude American manufacturers from the market. The manufacturing clause has been responsible for a strong and enduring industry. Repeal could destroy small businesses, bring chaos to the industry, and catch manufacturers, whose labor costs and break-even points are extremely high, in a cost-price squeeze at a time when expenditures for new equipment have reduced profits to a minimum.
 
@@ -125,6 +125,10 @@ Subsection (e) requires the plaintiff in any infringement action involving publi
 Subsec. (b)(1). Pub. L. 105–80, §12(a)(16), substituted “substantial” for “subsustantial” before “part of the work”.
 
 1982—Subsec. (a). Pub. L. 97–215 substituted “1986” for “1982”.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

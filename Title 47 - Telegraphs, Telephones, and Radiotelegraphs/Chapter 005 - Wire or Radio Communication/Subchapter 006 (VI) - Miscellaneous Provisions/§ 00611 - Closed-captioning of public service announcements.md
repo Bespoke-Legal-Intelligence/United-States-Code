@@ -4,7 +4,7 @@ Any television public service announcement that is produced or funded in whole o
 
 &emsp;(1) shall not be required to supply closed captioning for any such announcement that fails to include it; and
 
-&emsp;(2) shall not be liable for broadcasting any such announcement without transmitting aclosed caption unless the licensee intentionally fails to transmit the closed caption that was included with the announcement.
+&emsp;(2) shall not be liable for broadcasting any such announcement without transmitting a closed caption unless the licensee intentionally fails to transmit the closed caption that was included with the announcement.
 
 (June 19, 1934, ch. 652, title VII, §711, as added Pub. L. 98–549, §8, Oct. 30, 1984, 98 Stat. 2804; amended Pub. L. 101–336, title IV, §402, July 26, 1990, 104 Stat. 369.)
 

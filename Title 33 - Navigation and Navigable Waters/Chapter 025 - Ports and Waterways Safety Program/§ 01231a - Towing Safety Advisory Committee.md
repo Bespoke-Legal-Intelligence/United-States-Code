@@ -32,15 +32,17 @@ Members of the Committee who are not officers or employees of the United States 
 
 #### (e) Termination
 
-Unless extended by subsequent Act of Congress, the Committee shall terminate on September 30, 2000.
+Unless extended by subsequent Act of Congress, the Committee shall terminate on September 30, 2005.
 
-(Pub. L. 96–380, Oct. 6, 1980, 94 Stat. 1521; Pub. L. 97–322, title I, §118(d), Oct. 15, 1982, 96 Stat. 1587; Pub. L. 98–557, §16(a), Oct. 30, 1984, 98 Stat. 2866; Pub. L. 101–225, title I, §105(b), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–324, title III, §304(c), Oct. 19, 1996, 110 Stat. 3917.)
+(Pub. L. 96–380, Oct. 6, 1980, 94 Stat. 1521; Pub. L. 97–322, title I, §118(d), Oct. 15, 1982, 96 Stat. 1587; Pub. L. 98–557, §16(a), Oct. 30, 1984, 98 Stat. 2866; Pub. L. 101–225, title I, §105(b), Dec. 12, 1989, 103 Stat. 1910; Pub. L. 104–324, title III, §304(c), Oct. 19, 1996, 110 Stat. 3917; Pub. L. 107–295, title III, §336, Nov. 25, 2002, 116 Stat. 2105.)
 
 #### Codification
 
 Section was not enacted as part of the Ports and Waterways Safety Act which comprises this chapter.
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–295 substituted “September 30, 2005” for “September 30, 2000”.
 
 1996—Subsec. (e). Pub. L. 104–324 substituted “September 30, 2000” for “September 30, 1995”.
 
@@ -53,4 +55,8 @@ Section was not enacted as part of the Ports and Waterways Safety Act which comp
 Subsec. (c). Pub. L. 97–322, §118(d)(2), authorized the Committee to make available to Congress any information, advice, and recommendations which the Committee is authorized to give to the Secretary.
 
 Subsec. (d). Pub. L. 97–322, §118(d)(3), inserted introductory provisions respecting compensation and travel expenses of members of the Committee.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

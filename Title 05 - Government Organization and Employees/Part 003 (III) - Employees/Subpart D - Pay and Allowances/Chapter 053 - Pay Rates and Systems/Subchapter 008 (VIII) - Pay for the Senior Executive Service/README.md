@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 5948 of this title; title 38 section 7425.
+This subchapter is referred to in section 5948 of this title; title 2 sections 60c–5, 1849; title 38 section 7425.
 
 
 ---

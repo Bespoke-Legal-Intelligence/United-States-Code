@@ -20,7 +20,7 @@ For the purpose of complementing (but not reducing) the authority of, or actions
 
 &emsp;(F) contain such other information as the Administrator may prescribe.
 
-(2) The Administrator may approve an application submitted in accordance with paragraph (1) only if the applicant has established to the satisfaction of the Administrator a priority need, as determined under rules of the Administrator,for the grant for which the application has been submitted. Such rules shall take into consideration the seriousness of the health effects in a State which are associated with chemical substances or mixtures, including cancer, birth defects, and gene mutations, the extent of the exposure in a State of human beings and the environment to chemical substances and mixtures, and the extent to which chemical substances and mixtures are manufactured, processed, used, and disposed of in a State.
+(2) The Administrator may approve an application submitted in accordance with paragraph (1) only if the applicant has established to the satisfaction of the Administrator a priority need, as determined under rules of the Administrator, for the grant for which the application has been submitted. Such rules shall take into consideration the seriousness of the health effects in a State which are associated with chemical substances or mixtures, including cancer, birth defects, and gene mutations, the extent of the exposure in a State of human beings and the environment to chemical substances and mixtures, and the extent to which chemical substances and mixtures are manufactured, processed, used, and disposed of in a State.
 
 #### (c) Annual reports
 

@@ -13,3 +13,4 @@ Part C—Uruguay Round Implementation and Dispute Settlement
 - [&sect; 03536 - Increased transparency](%C2%A7%2003536%20-%20Increased%20transparency.md)
 - [&sect; 03537 - Access to WTO dispute settlement process](%C2%A7%2003537%20-%20Access%20to%20WTO%20dispute%20settlement%20process.md)
 - [&sect; 03538 - Administrative action following WTO panel reports](%C2%A7%2003538%20-%20Administrative%20action%20following%20WTO%20panel%20reports.md)
+- [&sect; 03539 - Fund for WTO dispute settlements](%C2%A7%2003539%20-%20Fund%20for%20WTO%20dispute%20settlements.md)

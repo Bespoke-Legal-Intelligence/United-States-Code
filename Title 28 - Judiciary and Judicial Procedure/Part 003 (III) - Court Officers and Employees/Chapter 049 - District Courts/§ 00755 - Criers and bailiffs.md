@@ -18,7 +18,7 @@ Compensation of criers and other court attendants, except bailiffs under section
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–690 struck out third par. which provided each bailiff an allowance of $6 a day for services to be paid only for actual attendance when court was in session or judge or jury was present.
+1988—Pub. L. 100–690 struck out third par. which provided each bailiff an allowance of $6 a day for services to be paid only for actual attendance when court was in session or judge or jury was present.
 
-<b>1965</b>—Pub. L. 89–281 inserted provisions to first par. permitting a crier to perform duties of law clerk if he is qualified to do so and district judge who appointed him designates him to serve as a crier-law clerk, specifying that a crier-law clerk shall receive compensation of a law clerk, and requiring that only so much of that compensation as is in excess of compensation to which he would be entitled as a crier shall be deemed compensation of a law clerk for purposes of any limitation imposed by law upon aggregate salaries of law clerks and secretaries appointed by a district judge.
+1965—Pub. L. 89–281 inserted provisions to first par. permitting a crier to perform duties of law clerk if he is qualified to do so and district judge who appointed him designates him to serve as a crier-law clerk, specifying that a crier-law clerk shall receive compensation of a law clerk, and requiring that only so much of that compensation as is in excess of compensation to which he would be entitled as a crier shall be deemed compensation of a law clerk for purposes of any limitation imposed by law upon aggregate salaries of law clerks and secretaries appointed by a district judge.
 

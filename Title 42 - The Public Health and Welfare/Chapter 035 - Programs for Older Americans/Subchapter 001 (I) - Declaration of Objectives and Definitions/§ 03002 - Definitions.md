@@ -300,7 +300,7 @@ Par. (44). Pub. L. 106–501, §101(6), redesignated par. (44) as (41).
 
 Par. (3). Pub. L. 103–171, §2(1), substituted “Virgin Islands of the United States” for “Virgin Islands”.
 
-1992—Par. (2). Pub. L. 102–375, §904(a)(2), which directed amendment of par. (2) by substituting “United States Virgin Islands” for “Virgin Islands”, could not be executed because “Virgin Islands” did not appear in par. (2).
+1992—Par. (2). Pub. L. 102–375, §904(a)(2), which directed amendment of par. (2) by substituting “UnitedStates Virgin Islands” for “Virgin Islands”, could not be executed because “Virgin Islands” did not appear in par. (2).
 
 Pub. L. 102–375, §102(b)(1)(A), substituted “Administration” for “Administration on Aging”.
 

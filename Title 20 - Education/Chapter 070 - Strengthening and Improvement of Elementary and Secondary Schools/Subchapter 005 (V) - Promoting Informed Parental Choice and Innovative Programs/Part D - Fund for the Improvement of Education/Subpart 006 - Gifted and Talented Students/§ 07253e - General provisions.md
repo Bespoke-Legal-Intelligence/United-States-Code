@@ -2,7 +2,7 @@
 
 #### (a) Participation of private school children and teachers
 
-In making grants and entering into contracts under this subpart, the Secretary shall ensure, where appropriate, that provision is made for the equitable participation of students and teachers in private nonprofit elementary schools and secondary schools, including the participation of teachers and other personnel in professional development programs serving such students.
+In making grants and entering into contracts under this subpart, the Secretary shall ensure,where appropriate, that provision is made for the equitable participation of students and teachers in private nonprofit elementary schools and secondary schools, including the participation of teachers and other personnel in professional development programs serving such students.
 
 #### (b) Review, dissemination, and evaluation
 

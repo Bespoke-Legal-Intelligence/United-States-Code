@@ -48,7 +48,7 @@ R.S. §2789, authorizing the collector, when an entry was imperfect, to take the
 
 R.S. §2840, providing that when the collector should suspect that merchandise was not invoiced at a sum equal to that for which it had usually been sold, he should take possession and retain the same until its value had been ascertained and the duties paid or secured;
 
-R.S. §2926, providing that merchandise of which incomplete entry had been made, or entry without specification of particulars, should be conveyed to somewarehouse or designated by the collector to remain until the particulars, cost or value should have been ascertained, and the duties paid or secured, and a permit for delivery granted;
+R.S. §2926, providing that merchandise of which incomplete entry had been made, or entry without specification of particulars, should be conveyed to some warehouse or designated by the collector to remain until the particulars, cost or value should have been ascertained, and the duties paid or secured, and a permit for delivery granted;
 
 R.S. §2963, providing that when merchandise had not been entered it should be deposited in a public warehouse, and there remain until an invoice was produced, but that it should not be construed to prohibit sales of merchandise to discharge duties and charges;
 
@@ -75,6 +75,10 @@ Subsec. (c). Pub. L. 103–182, §658(3), added subsec. (c).
 #### Effective Date of 1970 Amendment
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

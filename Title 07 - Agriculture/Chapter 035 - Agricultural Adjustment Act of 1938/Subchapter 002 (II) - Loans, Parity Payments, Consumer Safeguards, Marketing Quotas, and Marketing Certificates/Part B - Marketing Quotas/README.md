@@ -15,4 +15,4 @@ This part is referred to in sections 1361, 1372 of this title.
 - [Subpart 004 (iv) - Marketing Quotas&#8212;Cotton](Subpart%20004%20%28iv%29%20-%20Marketing%20Quotas%E2%80%94Cotton/README.md)
 - [Subpart 005 (v) - Marketing Quotas&#8212;Rice](Subpart%20005%20%28v%29%20-%20Marketing%20Quotas%E2%80%94Rice/README.md)
 - [Subpart 006 (vi) - Marketing Quotas&#8212;Peanuts](Subpart%20006%20%28vi%29%20-%20Marketing%20Quotas%E2%80%94Peanuts/README.md)
-- [Subpart 007 (vii) - Marketing Quotas&#8212;Sugar and Crystalline Fructose](Subpart%20007%20%28vii%29%20-%20Marketing%20Quotas%E2%80%94Sugar%20and%20Crystalline%20Fructose/README.md)
+- [Subpart 007 (vii) - Flexible Marketing Allotments for Sugar](Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/README.md)

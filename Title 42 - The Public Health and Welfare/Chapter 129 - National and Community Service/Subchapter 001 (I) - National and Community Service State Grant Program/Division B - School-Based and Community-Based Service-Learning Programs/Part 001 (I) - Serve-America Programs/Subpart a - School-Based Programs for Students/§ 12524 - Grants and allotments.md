@@ -28,7 +28,7 @@ The Corporation shall use the remainder of the funds appropriated to carry out t
 
 #### (3) Minimum amount
 
-&emsp;No State shall receive, under paragraph (2), an allotment that is less than the allotmentsuch State received for fiscal year 1993 under section 12522(b) of this title, as in effect on the day before September 21, 1993. If the amount of funds made available in a fiscal year to carry out paragraph (2) is insufficient to make such allotments, the Corporation shall make available sums from the 25 percent described in paragraph (1) for such fiscal year to make such allotments.
+&emsp;No State shall receive, under paragraph (2), an allotment that is less than the allotment such State received for fiscal year 1993 under section 12522(b) of this title, as in effect on the day before September 21, 1993. If the amount of funds made available in a fiscal year to carry out paragraph (2) is insufficient to make such allotments, the Corporation shall make available sums from the 25 percent described in paragraph (1) for such fiscal year to make such allotments.
 
 #### (4) “State” defined
 

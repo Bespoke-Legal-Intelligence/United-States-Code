@@ -34,7 +34,7 @@ The Secretary, in consultation with the Administrator of General Services, shall
 
 &emsp;(2) not later than 18 months after October 24, 1992, transmit to the Congress a report containing the findings and conclusions of such study, including recommendations for the development of streamlined processes for the consideration of connecting buildings owned or leased by the Federal Government to district heating and cooling systems.
 
-(Pub. L. 95–619, title V, §548, Nov. 9, 1978, 92 Stat. 3279; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat. 3187; Pub. L. 102–486, title I, §152(g), (i)(1), Oct. 24, 1992, 106 Stat. 2848, 2851; Pub. L. 104–66, title I, §1052(d), Dec. 21, 1995, 109 Stat. 718.)
+(Pub. L. 95–619, title V, §548, Nov. 9, 1978, 92 Stat. 3279; Pub. L. 100–615, §2(a), Nov. 5, 1988, 102 Stat.3187; Pub. L. 102–486, title I, §152(g), (i)(1), Oct. 24, 1992, 106 Stat. 2848, 2851; Pub. L. 104–66, title I, §1052(d), Dec. 21, 1995, 109 Stat. 718.)
 
 #### Amendments
 

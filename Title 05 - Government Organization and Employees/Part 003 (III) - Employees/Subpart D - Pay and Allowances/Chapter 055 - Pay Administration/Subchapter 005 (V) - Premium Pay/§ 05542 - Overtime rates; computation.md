@@ -1,6 +1,6 @@
 ### §5542. Overtime rates; computation
 
-(a) For full-time, part-time and intermittent tours of duty, hours of work officially ordered or approved in excess of 40 hours in an administrative workweek, or (with the exception of an employee engaged in professional or technical engineering or scientific activities for whom the first 40 hours of duty in an administrative workweek is the basic workweek and an employee whose basic pay exceeds the minimum rate for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) for whom the first 40 hours of duty in an administrative workweek is the basic workweek) in excess of 8 hours in a day, performed by an employee are overtime work and shall be paid for, except as otherwise provided by this subchapter, at the following rates:
+(a) For full-time, part-time and intermittent tours of duty, hours of work officially ordered or approved in excess of 40 hours in an administrative workweek, or (with the exception of an employee engaged in professional or technical engineering or scientific activities for whom the first 40 hours of duty in an administrative workweek is the basic workweek and an employee whose basic pay exceeds the minimum rate for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law) for whom the first 40 hours of duty in an administrative workweek is the basic workweek) in excess of 8 hours in a day, performed by an employee are overtime work andshall be paid for, except as otherwise provided by this subchapter, at the following rates:
 
 &emsp;(1) For an employee whose basic pay is at a rate which does not exceed the minimum rate of basic pay for GS–10 (including any applicable locality-based comparability payment under section 5304 or similar provision of law and any applicable special rate of pay under section 5305 or similar provision of law), the overtime hourly rate of pay is an amount equal to one and one-half times the hourly rate of basic pay of the employee, and all that amount is premium pay.
 
@@ -36,7 +36,7 @@
 
 &emsp;&emsp;(B) the travel (i) involves the performance of work while traveling, (ii) is incident to travel that involves the performance of work while traveling, (iii) is carried out under arduous conditions, or (iv) results from an event which could not be scheduled or controlled administratively, including travel by an employee to such an event and the return of such employee from such event to his or her official-duty station.
 
-(c) Subsection (a) shall not apply to an employee who is subject to the overtime pay provisions of section 7 of the Fair labor <sup>1</sup> Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, the Office of Personnel Management shall by regulation prescribe what hours shall be deemed to be hours of work and what hours of work shall be deemed to be overtime hours for the purpose of such section 7 soas to ensure that no employee receives less pay by reason of the preceding sentence.
+(c) Subsection (a) shall not apply to an employee who is subject to the overtime pay provisions of section 7 of the Fair labor <sup>1</sup> Standards Act of 1938. In the case of an employee who would, were it not for the preceding sentence, be subject to this section, the Office of Personnel Management shall by regulation prescribe what hours shall be deemed to be hours of work and what hours of work shall be deemed to be overtime hours for the purpose of such section 7 so as to ensure that no employee receives less pay by reason of the preceding sentence.
 
 (d) In applying subsection (a) of this section with respect to any criminal investigator who is paid availability pay under section 5545a—
 
@@ -150,7 +150,7 @@ Subsec. (c). Pub. L. 101–509, §529 \[title II, §210(1)\], added subsec. (c).
 
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–558, §2(b), Dec. 21, 2000, 114 Stat. 2777, provided that: “The amendments made by this section \[amending this section\] shall take effect on the first day of the first applicable pay period beginning on or after the end of the 30-day period beginning on the date of the enactment of this Act \[Dec. 21, 2000\], and shall apply only to funds appropriated after the date of the enactment of this Act.”
+Pub. L. 106–558, §2(b), Dec. 21, 2000, 114 Stat. 2777, as amended by Pub. L. 107–20, title II, §2605, July 24, 2001, 115 Stat. 178, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Dec. 21, 2000\].”
 
 #### Effective Date of 1998 Amendment
 
@@ -184,7 +184,7 @@ Section 220(a)(4) of title II of Pub. L. 90–206 provided that, except as other
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5543, 5545, 5545a, 5545b, 5546, 5547, 6123, 6128 of this title; title 2 section 1371; title 14 section 432; title 15 section 278e; title 32 section 709.
+This section is referred to in sections 5543, 5545, 5545a, 5545b, 5546, 5547, 6123, 6128 of this title; title 2 section 1371; title 14 section 432; title 15 section 278e; title 32 section 709; title 49 section 1113.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

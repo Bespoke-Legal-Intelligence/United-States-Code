@@ -1,0 +1,38 @@
+### §1723. Commission on Interoperable Data Sharing
+
+#### (a) Establishment
+
+Not later than one year after October 26, 2001, the President shall establish a Commission on Interoperable Data Sharing (in this section referred to as the “Commission”). The purposes of the Commission shall be to—
+
+&emsp;(1) monitor the protections described in section 1721(c)(3) of this title;
+
+&emsp;(2) provide oversight of the interoperable electronic data system described in section 1722 of this title; and
+
+&emsp;(3) report to Congress annually on the Commission's findings and recommendations.
+
+#### (b) Composition
+
+The Commission shall consist of nine members, who shall be appointed by the President, as follows:
+
+&emsp;(1) One member, who shall serve as Chair of the Commission.
+
+&emsp;(2) Eight members, who shall be appointed from a list of nominees jointly provided by the Speaker of the House of Representatives, the Minority Leader of the House of Representatives, the Majority Leader of the Senate, and the Minority Leader of the Senate.
+
+#### (c) Considerations
+
+The Commission shall consider recommendations regarding the following issues:
+
+&emsp;(1) Adequate protection of privacy concerns inherent in the design, implementation, or operation of the interoperable electronic data system.
+
+&emsp;(2) Timely adoption of security innovations, consistent with generally accepted security standards, to protect the integrity and confidentiality of information to prevent the risks of accidental or unauthorized loss, access, destruction, use modification, or disclosure of information.
+
+&emsp;(3) The adequacy of mechanisms to permit the timely correction of errors in data maintained by the interoperable data system.
+
+&emsp;(4) Other protections against unauthorized use of data to guard against the misuse of the interoperable data system or the data maintained by the system, including recommendations for modifications to existing laws and regulations to sanction misuse of the system.
+
+#### (d) Authorization of appropriations
+
+There are authorized to be appropriated to the Commission such sums as may be necessary to carry out this section.
+
+(Pub. L. 107–173, title II, §203, May 14, 2002, 116 Stat. 551.)
+

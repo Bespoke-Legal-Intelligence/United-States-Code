@@ -8,7 +8,7 @@ The Administrator of AID shall establish a capital projects office to carry out 
 
 The purposes referred to in subsection (a) of this section are—
 
-&emsp;(1) to develop an AID program that would focus solely on developmentally sound capitalprojects, taking into consideration development needs of the host country and the export opportunities for the United States; and
+&emsp;(1) to develop an AID program that would focus solely on developmentally sound capital projects, taking into consideration development needs of the host country and the export opportunities for the United States; and
 
 &emsp;(2) to consider specifically opportunities for United States high-technology firms, including small- and medium-sized firms, in supporting capital projects for developing countries and for countries making the transition from nonmarket to market economies.
 

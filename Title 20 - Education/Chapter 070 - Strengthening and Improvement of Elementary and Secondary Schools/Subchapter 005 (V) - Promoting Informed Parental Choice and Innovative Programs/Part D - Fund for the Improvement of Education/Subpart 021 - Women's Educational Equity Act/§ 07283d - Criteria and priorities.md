@@ -52,17 +52,23 @@ To the extent feasible, the Secretary shall ensure that grants awarded under thi
 
 Research activities supported under this subpart—
 
-&emsp;(1) shall be carried out in consultation with the Office of Educational Research and Improvement to ensure that such activities are coordinated with and enhance the research and development activities supported by the Office; and
+&emsp;(1) shall be carried out in consultation with the Institute of Education Sciences to ensure that such activities are coordinated with and enhance the research and development activities supported by the Institute; and
 
-&emsp;(2) may include collaborative research activities which are jointly funded and carried out with the Office of Educational Research and Improvement.
+&emsp;(2) may include collaborative research activities which are jointly funded and carried out with the Institute of Education Sciences.
 
 #### (e) Limitation
 
 Nothing in this subpart shall be construed as prohibiting men and boys from participating in any programs or activities assisted with funds under this subpart.
 
-(Pub. L. 89–10, title V, §5615, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1871.)
+(Pub. L. 89–10, title V, §5615, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1871; amended Pub. L. 107–279, title IV, §404(d)(5)(D), (8), Nov. 5, 2002, 116 Stat. 1986.)
 
 #### References in Text
 
-The Education Amendments of 1972, referred to in subsec. (a)(2)(B), (C), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (a)(2)(B), (C), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
+
+#### Amendments
+
+2002—Subsec. (d)(1). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement” and “by the Institute” for “by the Office”.
+
+Subsec. (d)(2). Pub. L. 107–279, §404(d)(5)(D), substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement”.
 

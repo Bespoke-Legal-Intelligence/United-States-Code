@@ -1,6 +1,6 @@
 ### §7306. General requirements and classifications for able seamen
 
-(a) To qualify for an endorsement as able seaman authorized by this section, an applicant must provide satisfactory proof that the applicant—
+(a) To qualify for an endorsement as able seaman authorized by this section, an applicantmust provide satisfactory proof that the applicant—
 
 &emsp;(1) is at least 18 years of age;
 

@@ -36,9 +36,11 @@ Except as provided in subsection (d) <sup>1</sup> of this section, no later tha
 
 &emsp;(12)(A) a detailed accounting of all articles, services, credits, guarantees, or any other form of assistance furnished by the United States to each country and international organization, including payments to the United Nations, during the preceding fiscal year for the detection and clearance of landmines, including activities relating to the furnishing of education, training, and technical assistance for the detection and clearance of landmines; and
 
-&emsp;(B) for each provision of law making funds available or authorizing appropriations for demining activities described in subparagraph (A), an analysis and description of the objectives and activities undertaken during the preceding fiscal year, including the number of personnel involved in performing such activities; and
+&emsp;(B) for each provision of law making funds available or authorizing appropriations for demining activities described in subparagraph (A), an analysis and description of the objectives and activities undertaken during the preceding fiscal year, including the number of personnel involved in performing such activities;
 
-&emsp;(13) such other information as the President may deem necessary.
+&emsp;(13) a list of weapons systems that are significant military equipment (as defined in section 2794(9) of this title), and numbers thereof, that are believed likely to become available for transfer as excess defense articles during the next 12 months; and
+
+&emsp;(14) such other information as the President may deem necessary.
 
 #### (b) Congressional request for additional information
 
@@ -60,7 +62,7 @@ The information required by subsection (a)(4) of this section shall be transmitt
 
 As used in this section, the term “appropriate congressional committees” means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on International Relations and the Committee on Appropriations of the House of Representatives.
 
-(Pub. L. 90–629, ch. 2, §25, as added Pub. L. 94–329, title II, §209(a), June 30, 1976, 90 Stat. 739; amended Pub. L. 95–384, §18, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §§13, 14, Oct. 29, 1979, 93 Stat. 706; Pub. L. 96–533, title I, §§104(c), 107(d), Dec. 16, 1980, 94 Stat. 3133, 3137; Pub. L. 97–113, title VII, §732, Dec. 29, 1981, 95 Stat. 1557; Pub. L. 99–83, title I, §§112, 113, Aug. 8, 1985, 99 Stat. 198; Pub. L. 104–164, title I, §102(d), July 21, 1996, 110 Stat. 1423; Pub. L. 105–118, title V, §519, Nov. 26, 1997, 111 Stat. 2411.)
+(Pub. L. 90–629, ch. 2, §25, as added Pub. L. 94–329, title II, §209(a), June 30, 1976, 90 Stat. 739; amended Pub. L. 95–384, §18, Sept. 26, 1978, 92 Stat. 740; Pub. L. 96–92, §§13, 14, Oct. 29, 1979, 93 Stat. 706; Pub. L. 96–533, title I, §§104(c), 107(d), Dec. 16, 1980, 94 Stat. 3133, 3137; Pub. L. 97–113, title VII, §732, Dec. 29, 1981, 95 Stat. 1557; Pub. L. 99–83, title I, §§112, 113, Aug. 8, 1985, 99 Stat. 198; Pub. L. 104–164, title I, §102(d), July 21, 1996, 110 Stat. 1423; Pub. L. 105–118, title V, §519, Nov. 26, 1997, 111 Stat. 2411; Pub. L. 107–228, div. B, title XII, §1232, Sept. 30, 2002, 116 Stat. 1433.)
 
 #### References in Text
 
@@ -71,6 +73,8 @@ Subsection (d) of this section, referred to in subsec. (a)(5)(B), probably means
 The Foreign Assistance Act of 1961, referred to in subsec. (a)(11), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (a)(13), (14). Pub. L. 107–228 added par. (13) and redesignated former par. (13) as (14).
 
 1997—Subsec. (a). Pub. L. 105–118, §519(1), substituted “appropriate congressional committees” for “Congress” in introductory provisions.
 

@@ -16,7 +16,7 @@ The Secretary of State, in consultation with the Secretary, shall take appropria
 
 #### (c) International cooperation
 
-The Secretary, in consultation with the Secretary of State and other appropriate Federal agencies, shall cooperate with other governments and international organizations in furtherance of the purposes and policies of this chapter and consistent with applicable regional and mutilateral arrangements for the protection and management of special marine areas.
+The Secretary, in consultation with the Secretary of State and other appropriate Federal agencies, shall cooperate with other governments and international organizations in furtherance of the purposes and policies of this chapter and consistent with applicable regionaland mutilateral arrangements for the protection and management of special marine areas.
 
 (Pub. L. 92–532, title III, §305, as added Pub. L. 98–498, title I, §102, Oct. 19, 1984, 98 Stat. 2302; amended Pub. L. 102–587, title II, §2105, Nov. 4, 1992, 106 Stat. 5043.)
 

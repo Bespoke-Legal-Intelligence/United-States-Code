@@ -12,7 +12,7 @@ At the earliest opportunity after the detection of a crime at which it may be do
 
 &emsp;(2) inform the victims of their right to receive, on request, the services described in subsection (c) of this section; and
 
-&emsp;(3) inform each victim of the name, title, and business address and telephone number of the responsible official to whom the victimshould address a request for each of the services described in subsection (c) of this section.
+&emsp;(3) inform each victim of the name, title, and business address and telephone number of the responsible official to whom the victim should address a request for each of the services described in subsection (c) of this section.
 
 #### (c) Description of services
 
@@ -98,7 +98,7 @@ Section 10606(b)(4) of this title, referred to in subsec. (c)(3)(D), was in the 
 
 #### Codification
 
-Section enacted as part of the Victims’ Rights and Restitution Act of 1990 and also as part of the CrimeControl Act of 1990, and not as part of the Victims of Crime Act of 1984 which comprises this chapter.
+Section enacted as part of the Victims’ Rights and Restitution Act of 1990 and also as part of the Crime Control Act of 1990, and not as part of the Victims of Crime Act of 1984 which comprises this chapter.
 
 #### Amendments
 

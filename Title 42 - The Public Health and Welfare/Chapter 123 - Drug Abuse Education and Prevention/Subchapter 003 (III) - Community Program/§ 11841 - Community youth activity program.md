@@ -64,7 +64,7 @@ In making grants under this section, the Secretary shall give priority to—
 
 &emsp;(3) projects to provide after-school, vacation, and weekend activities designed to give youth opportunities to actively participate in a variety of activities, including youth sports programs;
 
-&emsp;(4) activities and projects that are consistent with activities and projects described insubsection (e)(1) of this section and that include participation by the business community;
+&emsp;(4) activities and projects that are consistent with activities and projects described in subsection (e)(1) of this section and that include participation by the business community;
 
 &emsp;(5) projects that provide outreach to individuals of all ages who are at high risk of involvement with drug abuse;
 

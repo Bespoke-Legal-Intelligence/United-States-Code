@@ -18,7 +18,7 @@ Qualifications of independent counsel.—The division of the court shall appoint
 
 &emsp;(3)
 
-Scope of prosecutorial jurisdiction.—In defining the independent counsel's prosecutorial jurisdiction, the division of the court shall assure that the independent counsel has adequate authority to fully investigate and prosecute the subject matter with respect to which the Attorney General has requested the appointment of the independent counsel, and all matters related to that subject matter. Such jurisdiction shall also include the authority to investigate and prosecute Federal crimes, other than those classified as Class B or C misdemeanors or infractions, that may arise out of the investigation or prosecution of the matter with respect to which the Attorney General's request was made, including perjury, obstruction of justice, destruction of evidence, and intimidation of witnesses.
+Scope of prosecutorial jurisdiction.—In defining the independent counsel's prosecutorial jurisdiction, the division of the court shall assure that the independent counsel has adequate authority to fully investigate and prosecute the subject matter with respect to which the Attorney General has requested the appointment of the independent counsel, and all matters related to that subject matter.Such jurisdiction shall also include the authority to investigate and prosecute Federal crimes, other than those classified as Class B or C misdemeanors or infractions, that may arise out of the investigation or prosecution of the matter with respect to which the Attorney General's request was made, including perjury, obstruction of justice, destruction of evidence, and intimidation of witnesses.
 
 &emsp;(4)
 
@@ -52,7 +52,7 @@ Return for Further Explanation.—Upon receipt of a notification under section 5
 
 (e)
 
-Vacancies.—If a vacancy in office arises by reason of the resignation, death, or removal of an independent counsel, the division of the court shall appoint an independent counsel to complete the work of the independent counsel whoseresignation, death, or removal caused the vacancy, except that in the case of a vacancy arising by reason of the removal of an independent counsel, the division of the court may appoint an acting independent counsel to serve until any judicial review of such removal is completed.
+Vacancies.—If a vacancy in office arises by reason of the resignation, death, or removal of an independent counsel, the division of the court shall appoint an independent counsel to complete the work of the independent counsel whose resignation, death, or removal caused the vacancy, except that in the case of a vacancy arising by reason of the removal of an independent counsel, the division of the court may appoint an acting independent counsel to serve until any judicial review of such removal is completed.
 
 (f)
 
@@ -82,11 +82,11 @@ Disclosure of Information.—The division of the court may, subject to section 5
 
 Amicus Curiae Briefs.—When presented with significant legal issues, the division of the court may disclose sufficient information about the issues to permit the filing of timely amicus curiae briefs.
 
-(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409, §§2(a)(1), 5, Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1297; Pub. L. 103–270, §3(n), June 30, 1994, 108 Stat. 736.)
+(Added Pub. L. 95–521, title VI, §601(a), Oct. 26, 1978, 92 Stat. 1869; amended Pub. L. 97–409,§§2(a)(1), 5, Jan. 3, 1983, 96 Stat. 2039, 2041; Pub. L. 100–191, §2, Dec. 15, 1987, 101 Stat. 1297; Pub. L. 103–270, §3(n), June 30, 1994, 108 Stat. 736.)
 
 #### Amendments
 
-<b>1994</b>—Subsec. (f)(1). Pub. L. 103–270, §3(n)(1), inserted “the independent counsel who conducted the investigation and” before “Attorney General” in last sentence.
+1994—Subsec. (f)(1). Pub. L. 103–270, §3(n)(1), inserted “the independent counsel who conducted the investigation and” before “Attorney General” in last sentence.
 
 Subsec. (f)(2). Pub. L. 103–270, §3(n)(2), in introductory provisions substituted “shall direct such independent counsel and” for “may direct” and “subsection, addressing—” for “subsection, analyzing for each expense—”, added subpars. (A) to (D) and struck out former subpars. (A) to (C) which read as follows:
 
@@ -96,9 +96,9 @@ Subsec. (f)(2). Pub. L. 103–270, §3(n)(2), in introductory provisions substit
 
 &emsp;“(C) the reasonableness of the amount of money requested.”
 
-<b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (h) for former subsecs. (a) to (g) which related to similar subject matter.
+1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (h) for former subsecs. (a) to (g) which related to similar subject matter.
 
-<b>1983</b>—Subsec. (b). Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel's” for “special prosecutor's” wherever appearing.
+1983—Subsec. (b). Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel's” for “special prosecutor's” wherever appearing.
 
 Subsecs. (c) to (e). Pub. L. 97–409, §2(a)(1)(A), substituted “independent counsel” for “special prosecutor” wherever appearing.
 

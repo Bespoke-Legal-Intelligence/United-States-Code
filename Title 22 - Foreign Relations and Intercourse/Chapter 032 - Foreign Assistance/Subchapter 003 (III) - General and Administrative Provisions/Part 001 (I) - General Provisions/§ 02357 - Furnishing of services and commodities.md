@@ -20,7 +20,7 @@ When any agency of the United States Government provides services on an advance-
 
 &emsp;(B) as to the status and responsibility of the designated end-user and his ability effectively to use and maintain such property; and
 
-&emsp;(C) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing,crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
+&emsp;(C) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing, crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
 
 (2) For purposes of transferring property described in this subsection in furtherance of the provisions of part VIII of subchapter I of this chapter, the phrase “the agency administering such subchapter I” shall be considered to refer to the Department of State.
 
@@ -34,7 +34,7 @@ The Secretary of State, acting through the Assistant Secretary of State for Ocea
 
 &emsp;(3) that the residual value, serviceability, and appearance of such property would not reflect unfavorably on the image of the United States and would justify the costs of packing, crating, handling, transportation, and other accessorial costs, and that the residual value at least equals the total of these costs.
 
-(Pub. L. 87–195, pt. III, §607, Sept. 4, 1961, 75 Stat. 441; Pub. L. 90–554, pt. III, §301(b), Oct. 8, 1968, 82 Stat. 963; Pub. L. 94–161, title III, §315, Dec. 20, 1975, 89 Stat. 867; Pub. L. 95–88, title I, §122(a), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–424, title V, §503, Oct. 6, 1978, 92 Stat. 959; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 99–93, title I, §129, Aug. 16, 1985, 99 Stat. 419.)
+(Pub. L. 87–195, pt. III, §607, Sept. 4, 1961, 75 Stat. 441; Pub. L. 90–554, pt. III, §301(b), Oct. 8, 1968, 82 Stat. 963; Pub. L. 94–161, title III, §315, Dec. 20, 1975, 89 Stat. 867; Pub. L. 95–88, title I, §122(a), Aug. 3, 1977, 91 Stat. 541; Pub. L. 95–424, title V, §503, Oct. 6, 1978, 92 Stat. 959; 1978 Reorg. PlanNo. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3783; Pub. L. 96–53, title I, §121, Aug. 14, 1979, 93 Stat. 366; Pub. L. 99–93, title I, §129, Aug. 16, 1985, 99 Stat. 419.)
 
 #### References in Text
 
@@ -116,9 +116,9 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed byappropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 287e–2, 2358, 2395 of this title; title 40 section 512.
+This section is referred to in sections 287e–2, 2358, 2395 of this title; title 40 section 703.
 

@@ -72,7 +72,7 @@ In subsection (c), the word “duly” is omitted as surplus.
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–71, §140(d)(6), in introductory provisions, inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary,” after “Transportation,” and “Under Secretary,” after “Secretary,” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
+2001—Subsec. (a). Pub. L. 107–71, §140(d)(6), in introductory provisions, inserted “the Under Secretary of Transportation for Security with respect to securityduties and powers designated to be carried out by the Under Secretary,” after “Transportation,” and “Under Secretary,” after “Secretary,” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
 
 Subsec. (a)(1). Pub. L. 107–71, §140(d)(6)(B) inserted “Under Secretary,” after “Secretary,”.
 
@@ -81,6 +81,10 @@ Subsec. (b)(1). Pub. L. 107–71, §140(d)(6)(C), substituted “, Under Secret
 Subsec. (b)(2). Pub. L. 107–71, §140(d)(6)(B) inserted “Under Secretary,” after “Secretary,”.
 
 Subsec. (c). Pub. L. 107–71, §140(d)(6)(C), substituted “, Under Secretary, or Administrator” for “or Administrator”.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

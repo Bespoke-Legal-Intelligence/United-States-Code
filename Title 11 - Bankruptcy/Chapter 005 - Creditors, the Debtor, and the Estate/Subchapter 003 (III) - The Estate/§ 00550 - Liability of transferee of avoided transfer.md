@@ -8,7 +8,7 @@
 
 (b) The trustee may not recover under section (a)(2) of this section from—
 
-&emsp;(1) a transferee that takes for value, including satisfaction or securing of a present or antecedent debt, in good faith, and withoutknowledge of the voidability of the transfer avoided; or
+&emsp;(1) a transferee that takes for value, including satisfaction or securing of a present or antecedent debt, in good faith, and without knowledge of the voidability of the transfer avoided; or
 
 &emsp;(2) any immediate or mediate good faith transferee of such transferee.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@ Pub. L. 94–2, Feb. 18, 1975, 89 Stat. 4, provided in part that the compensatio
 
 <i>Dear Mr. Speaker: (Dear Mr. President:)</i> <sup>1</sup>
 
-As required by section 225 of the Federal Salary Act of 1967, Public Law 90–206 (2 U.S.C. 351 <i>et seq</i>.), the latest Quadrennial Commission on Executive, Legislative, and Judicial Salaries (“Commission”) has submitted to me recommendations on salaries for Senators, Representatives, Federal judges, Cabinet officers, and other agency heads, and certain other officials in the executive, legislative, and judicial branches.
+As required by section 225 of the Federal Salary Act of 1967, Public Law 90–206 (2 U.S.C. 351 <i>et seq</i>.), the latestQuadrennial Commission on Executive, Legislative, and Judicial Salaries (“Commission”) has submitted to me recommendations on salaries for Senators, Representatives, Federal judges, Cabinet officers, and other agency heads, and certain other officials in the executive, legislative, and judicial branches.
 
 The statute requires that, in the budget next submitted after receipt of the report of the Commission, I set forth recommendations for adjustment of these salaries. Pursuant to section 225(i), as amended by section 135 of Public Law 99–190 \[2 U.S.C. 359\], these recommendations will be effective unless Congress disapproves the recommendation by a joint resolution within 30 days following the transmittal of my budget.
 

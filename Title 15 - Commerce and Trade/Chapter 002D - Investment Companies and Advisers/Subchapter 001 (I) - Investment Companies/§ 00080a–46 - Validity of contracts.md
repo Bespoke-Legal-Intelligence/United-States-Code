@@ -10,7 +10,7 @@ Any condition, stipulation, or provision binding any person to waive compliance 
 
 (2) To the extent that a contract described in paragraph (1) has been performed, a court may not deny rescission at the instance of any party unless such court finds that under the circumstances the denial of rescission would produce a more equitable result than its grant and would not be inconsistent with the purposes of this subchapter.
 
-(3) This subsection shall not apply (A) to the lawful portion of a contract to the extent that it may be severed from the unlawful portion of the contract, or (B) to preclude recovery against any person for unjust enrichment.
+(3) This subsection shall not apply (A) to the lawful portion of a contract to the extent that it may be severed from the unlawful portion of thecontract, or (B) to preclude recovery against any person for unjust enrichment.
 
 (Aug. 22, 1940, ch. 686, title I, §47, 54 Stat. 845; Pub. L. 96–477, title I, §104, Oct. 21, 1980, 94 Stat. 2277.)
 

@@ -18,7 +18,7 @@
 
 (e) Each agency shall—
 
-&emsp;(1) keep a record of injuries and accidents to its employees whether or not they result inloss of time or in the payment or furnishing of benefits; and
+&emsp;(1) keep a record of injuries and accidents to its employees whether or not they result in loss of time or in the payment or furnishing of benefits; and
 
 &emsp;(2) make such statistical or other reports on such forms as the Secretary may prescribe by regulation.
 
@@ -152,7 +152,7 @@ Department of Labor
 
 (f) Facilitate the exchange of ideas and information throughout the government about occupational safety and health.
 
-(g) Provide technical services to agencies upon request, where the Secretary deems necessary, and with reimbursement. These services may include studies of accidents, causes of injury and illness, identification of unsafe and unhealthful working conditions, and means to abate hazards.
+(g) Provide technical services to agencies upon request, where the Secretary deems necessary, and withreimbursement. These services may include studies of accidents, causes of injury and illness, identification of unsafe and unhealthful working conditions, and means to abate hazards.
 
 (h) Evaluate the occupational safety and health programs of agencies and promptly submit reports to the agency heads. The evaluations shall be conducted through such scheduled headquarters or field reviews, studies or inspections as the Secretary deems necessary, at least annually for the larger or more hazardous agencies or operations, and as the Secretary deems appropriate for the smaller or less hazardous agencies.
 
@@ -214,7 +214,7 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1985,by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
@@ -230,7 +230,9 @@ Term of the Federal Advisory Council on Occupational Safety and Health extended 
 
 Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 1999, by Ex. Ord. No. 13062, §1(b), Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
-Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
+
+Term of the Federal Advisory Council on Occupational Safety and Health extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to this title.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ A liquidation made in accordance with section 1500 of this title or any reliquid
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §501, 42Stat. 966. That section was superseded by section 501 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
+Provisions similar to those in this section were contained in act Sept. 21, 1922, ch. 356, title IV, §501, 42 Stat. 966. That section was superseded by section 501 of act June 17, 1930, comprising this section, and repealed by section 651(a)(1) of the 1930 act.
 
 Prior provisions for appeals to reappraisement and for a further appeal to be assigned to a board of general appraisers, with further provisions as to the fee to be paid, the proceedings on appeal, and the conclusiveness of decisions, were contained in act Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §643, 42 Stat. 989.
 
@@ -47,6 +47,8 @@ Section 38 of act June 25, 1948, provided that the amendment made by that act is
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specially provided, see section 37 of act June 25, 1938, set out as a note under section 1401 of this title.
 
 #### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 

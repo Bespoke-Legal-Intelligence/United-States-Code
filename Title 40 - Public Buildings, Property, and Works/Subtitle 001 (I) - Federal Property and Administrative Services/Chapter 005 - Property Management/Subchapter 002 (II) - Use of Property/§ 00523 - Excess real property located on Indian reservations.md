@@ -1,0 +1,44 @@
+### §523. Excess real property located on Indian reservations
+
+(a)
+
+Procedures for Transfer.—The Administrator of General Services shall prescribe procedures necessary to transfer to the Secretary of the Interior, without compensation, excess real property located within the reservation of any group, band, or tribe of Indians that is recognized as eligible for services by the Bureau of Indian Affairs.
+
+(b)
+
+Property Held in Trust.—
+
+&emsp;(1)
+
+In general.—Except as provided in paragraph (2), the Secretary shall hold excess real property transferred under this section in trust for the benefit and use of the group, band, or tribe of Indians, within whose reservation the excess real property is located.
+
+&emsp;(2)
+
+Special requirement for oklahoma.—The Secretary shall hold excess real property that is located in Oklahoma and transferred under this section in trust for Oklahoma Indian tribes recognized by the Secretary if the real property—
+
+&emsp;&emsp;(A) is located within boundaries of former reservations in Oklahoma, as defined by the Secretary, and was held in trust by the Federal Government for an Indian tribe when the Government acquired it; or
+
+&emsp;&emsp;(B) is contiguous to real property presently held in trust by the Government for an Oklahoma Indian tribe and was held in trust by the Government for an Indian tribe at any time.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1083.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+523
+
+40:483(a)(2).
+
+June 30, 1949, ch. 288, title II, §202(a)(2), as added Pub. L. 93–599, (2), Jan. 2, 1975, 88 Stat. 1954.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 521, 556 of this title; title 25 section 1812.
+

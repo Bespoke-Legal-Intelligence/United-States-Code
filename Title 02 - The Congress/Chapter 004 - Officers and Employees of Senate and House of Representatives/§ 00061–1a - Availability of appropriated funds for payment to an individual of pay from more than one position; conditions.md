@@ -1,6 +1,6 @@
 ### §61–1a. Availability of appropriated funds for payment to an individual of pay from more than one position; conditions
 
-Notwithstanding any other provision of law, appropriated funds are available for payment toan individual of pay from more than one position, each of which is either in the office of a Senator and the pay of which is disbursed by the Secretary of the Senate or is in another office and the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading “Salaries, Officers, and Employees”, if the aggregate gross pay from those positions does not exceed the maximum rate specified in section 61–1(d)(2) of this title.
+Notwithstanding any other provision of law, appropriated funds are available for payment to an individual of pay from more than one position, each of which is either in the office of a Senator and the pay of which is disbursed by the Secretary of the Senate or is in another office and the pay of which is disbursed by the Secretary of the Senate out of an appropriation under the heading “Salaries, Officers, and Employees”, if the aggregate gross pay from those positions does not exceed the maximum rate specified in section 61–1(d)(2) of this title.
 
 (Pub. L. 95–94, title I, §114, Aug. 5, 1977, 91 Stat. 665; Pub. L. 95–240, title II, §207, Mar. 7, 1978, 92 Stat. 117; Pub. L. 100–202, §101(i) \[title I, §9\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–295.)
 

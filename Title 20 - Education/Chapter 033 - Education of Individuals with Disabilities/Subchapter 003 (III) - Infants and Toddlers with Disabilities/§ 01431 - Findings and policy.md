@@ -34,5 +34,9 @@ A prior section 1431, Pub. L. 91–230, title VI, §631, Apr. 13, 1970, 84 Stat.
 
 #### Effective Date
 
-Section 201(b) of Pub. L. 105–17 provided that: “Part C of the Individuals with Disabilities Education Act \[20 U.S.C. 1431–1445\], as amended by title I, shall take effect on July 1, 1998.”
+Section 201(b) of Pub. L. 105–17 provided that: “Part C of the Individuals with Disabilities Education Act \[20U.S.C. 1431–1445\], as amended by title I, shall take effect on July 1, 1998.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 9859.
 

@@ -18,7 +18,7 @@ In order for any State which makes supplementary payments of the type described 
 
 (1) The Commissioner of Social Security shall not find that a State has failed to meet the requirements imposed by paragraph (4) of subsection (a) of this section with respect to the levels of its supplementary payments for a particular month or months if the State's expenditures for such payments in the twelve-month period (within which such month or months fall) beginning on the effective date of any increase in the level of supplemental security income benefits pursuant to section 1382f of this title are not less than its expenditures for such payments in the preceding twelve-month period.
 
-(2) For purposes of determining under paragraph (1) whether a State's expenditures for supplementary payments in the 12-month period beginning on the effective date of any increase inthe level of supplemental security income benefits are not less than the State's expenditures for such payments in the preceding 12-month period, the Commissioner of Social Security, in computing the State's expenditures, shall disregard, pursuant to a 1-time election of the State, all expenditures by the State for retroactive supplementary payments that are required to be made in connection with the retroactive supplemental security income benefits referred to in section 5041 of the Omnibus Budget Reconciliation Act of 1990.
+(2) For purposes of determining under paragraph (1) whether a State's expenditures for supplementary payments in the 12-month period beginning on the effective date of any increase in the level of supplemental security income benefits are not less than the State's expenditures for such payments in the preceding 12-month period, the Commissioner of Social Security, in computing the State's expenditures, shall disregard, pursuant to a 1-time election of the State, all expenditures by the State for retroactive supplementary payments that are required to be made in connection with the retroactive supplemental security income benefits referred to in section 5041 of the Omnibus Budget Reconciliation Act of 1990.
 
 #### (c) Election to apply subsection (a)(4)
 
@@ -26,7 +26,7 @@ Any State which satisfies the requirements of this section solely by reason of s
 
 #### (d) Determinations respecting any portion of period July 1, 1980, through June 30, 1981
 
-The Commissioner of Social Security shall not find that a State has failed to meet the requirements imposed by paragraph (4) of subsection (a) of this section with respect to the levels of its supplementary payments for any portion of the period July 1, 1980, through June 30, 1981, if the State's expenditures for such payments in that twelve-month period were not less than its expenditures for such payments for the period July 1, 1976, through June 30, 1977 (or, if the State made no supplementary payments in the period July 1, 1976, through June 30, 1977, the expenditures for the first twelve-month period extending from July 1 through June 30 in which the State made such payments).
+The Commissioner of Social Security shall not find that a State has failed to meet the requirements imposed by paragraph (4) of subsection (a) of this section with respect to the levels of its supplementary payments for any portion of the period July 1, 1980, through June 30, 1981, if the State's expenditures for such payments in that twelve-month period were not less than its expenditures for such payments for the period July 1, 1976, through June 30, 1977 (or, if the Statemade no supplementary payments in the period July 1, 1976, through June 30, 1977, the expenditures for the first twelve-month period extending from July 1 through June 30 in which the State made such payments).
 
 #### (e) Meeting subsection (a)(4) requirements for any month after March 1983
 
@@ -76,7 +76,7 @@ Sections 211(a)(1)(A) and 212(a) of Public Law 93–66, referred to in subsecs. 
 
 Section 5041 of the Omnibus Budget Reconciliation Act of 1990, referred to in subsec. (b)(2), is section 5041 of Pub. L. 101–508, title V, Nov. 5, 1990, 104 Stat. 1388–227, which is not classified to the Code.
 
-Section 111 of the Social Security Amendments of 1983, referred to in subsec. (e)(2), is section 111 of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 72, which amended sections 402, 403, 415, and 430 of this title and enacted provisions set out as notes under sections 402 and 415 of this title and section 5123 of Title 38, Veterans’ Benefits.
+Section 111 of the Social Security Amendments of 1983, referred to in subsec. (e)(2), is section 111 of Pub. L. 98–21, title I, Apr. 20, 1983, 97 Stat. 72, which amended sections 402, 403, 415, and 430 of this title and enactedprovisions set out as notes under sections 402 and 415 of this title and section 5123 of Title 38, Veterans’ Benefits.
 
 #### Amendments
 

@@ -70,7 +70,7 @@ Sec. 2(a). In no case covered by subsections (a), (b), (e), (g), and (h) of sect
 
 “(b) Nothing in this Act shall be construed to authorize the Secretary of Agriculture to determine or adjudicate the validity or invalidity of any mining claim or part thereof.
 
-“(c) Nothing in subsection (1) of section 1 hereof shall be construed to authorize the Secretary of Agriculture to dispose of coal, phosphate, sodium, potassium, oil, oil shale, gas, or sulfur, or to dispose of any minerals which would be subject to disposal under the mining laws if said laws were applicable to the lands in which the minerals are situated.
+“(c) Nothing in subsection (1) of section 1 hereof shall be construed to authorize the Secretary of Agricultureto dispose of coal, phosphate, sodium, potassium, oil, oil shale, gas, or sulfur, or to dispose of any minerals which would be subject to disposal under the mining laws if said laws were applicable to the lands in which the minerals are situated.
 
 “(d) Upon approval by the Secretary of Agriculture pursuant to the provisions of this Act of any exchange or sale, respectively, of national forest lands under the provisions of law referred to in subsections (a), (b), (e), (f), (g), and (j) of section 1, hereof, the Secretary of the Interior, upon the recommendation of the Secretary of Agriculture, shall issue the patent therefor.
 
@@ -88,7 +88,7 @@ I74Section 1. Transfer of Functions to the Secretary
 
 (a) Subject to the exceptions specified in subsection (b) of this section, there are hereby transferred to the Secretary of Agriculture all functions not now vested in him of all other officers, and of all agencies and employees, of the Department of Agriculture.
 
-(b) This section shall not apply to the functions vested by the Administrative Procedure Act (5 U.S.C. 1001 et seq.) \[5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of Agriculture nor to the functions of (1) corporations of the Department of Agriculture, (2) the boards of directors and officers of such corporations, (3) the Advisory Board of theCommodity Credit Corporation, or (4) the Farm Credit Administration or any agency, officer, or entity of, under, or subject to the supervision of the said administration.
+(b) This section shall not apply to the functions vested by the Administrative Procedure Act (5 U.S.C. 1001 et seq.) \[5 U.S.C. 551 et seq. and 701 et seq.\] in hearing examiners employed by the Department of Agriculture nor to the functions of (1) corporations of the Department of Agriculture, (2) the boards of directors and officers of such corporations, (3) the Advisory Board of the Commodity Credit Corporation, or (4) the Farm Credit Administration or any agency, officer, or entity of, under, or subject to the supervision of the said administration.
 
 #### Sec. 2. Assistant Secretaries of Agriculture
 

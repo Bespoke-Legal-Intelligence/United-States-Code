@@ -14,13 +14,17 @@ Offense.—Except as provided in subsection (c) of this section whoever—
 
 Punishment.—The punishment for an offense under subsection (a) of this section is—
 
-&emsp;(1) if the offense is committed for purposes of commercial advantage, malicious destruction or damage, or private commercial gain—
+&emsp;(1) if the offense is committed for purposes of commercial advantage, malicious destruction or damage, or private commercial gain, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or any State—
 
-&emsp;&emsp;(A) a fine under this title or imprisonment for not more than one year, or both, in the case of a first offense under this subparagraph; and
+&emsp;&emsp;(A) a fine under this title or imprisonment for not more than 5 years, or both, in the case of a first offense under this subparagraph; and
 
-&emsp;&emsp;(B) a fine under this title or imprisonment for not more than two years, or both, for any subsequent offense under this subparagraph; and
+&emsp;&emsp;(B) a fine under this title or imprisonment for not more than 10 years, or both, for any subsequent offense under this subparagraph; and
 
-&emsp;(2) a fine under this title or imprisonment for not more than six months, or both, in any other case.
+&emsp;(2) in any other case—
+
+&emsp;&emsp;(A) a fine under this title or imprisonment for not more than 1 year or both, in the case of a first offense under this paragraph; and
+
+&emsp;&emsp;(B) a fine under this title or imprisonment for not more than 5 years, or both, in the case of an offense under this subparagraph that occurs after a conviction of another offense under this section.
 
 (c)
 
@@ -32,15 +36,27 @@ Exceptions.—Subsection (a) of this section does not apply with respect to cond
 
 &emsp;(3) in section 2703, 2704 or 2518 of this title.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 103–322, title XXXIII, §330016(1)(K), (U), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, §601(a)(3), Oct. 11, 1996, 110 Stat. 3498.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1860; amended Pub. L. 103–322, title XXXIII, §330016(1)(K), (U), Sept. 13, 1994, 108 Stat. 2147, 2148; Pub. L. 104–294, title VI, §601(a)(3), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–296, title II, §225(j)(2), Nov. 25, 2002, 116 Stat. 2158.)
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–296, §225(j)(2)(A), in introductory provisions, inserted “, or in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or any State” after “commercial gain”.
+
+Subsec. (b)(1)(A). Pub. L. 107–296, §225(j)(2)(B), substituted “5 years” for “one year”.
+
+Subsec. (b)(1)(B). Pub. L. 107–296, §225(j)(2)(C), substituted “10 years” for “two years”.
+
+Subsec. (b)(2). Pub. L. 107–296, §225(j)(2)(D), added par. (2) and struck out former par. (2) which read as follows: “a fine under this title or imprisonment for not more than six months, or both, in any other case.”
 
 1996—Subsec. (b)(1)(A), (2). Pub. L. 104–294 substituted “fine under this title” for “fine of under this title”.
 
 1994—Subsec. (b)(1)(A). Pub. L. 103–322, §330016(1)(U), substituted “under this title” for “not more than $250,000”.
 
 Subsec. (b)(2). Pub. L. 103–322, §330016(1)(K), substituted “under this title” for “not more than $5,000”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date
 

@@ -20,7 +20,7 @@
 
 #### (3) Linking of local disbursement units
 
-&emsp;The State disbursement unit may be established by linking local disbursement unitsthrough an automated information network, subject to this section, if the Secretary agrees that the system will not cost more nor take more time to establish or operate than a centralized system. In addition, employers shall be given 1 location to which income withholding is sent.
+&emsp;The State disbursement unit may be established by linking local disbursement units through an automated information network, subject to this section, if the Secretary agrees that the system will not cost more nor take more time to establish or operate than a centralized system. In addition, employers shall be given 1 location to which income withholding is sent.
 
 #### (b) Required procedures
 

@@ -1,6 +1,6 @@
 ### §901. Social Security Administration
 
-(a) There is hereby established, as an independent agency in the executive branch of theGovernment, a Social Security Administration (in this subchapter referred to as the “Administration”).
+(a) There is hereby established, as an independent agency in the executive branch of the Government, a Social Security Administration (in this subchapter referred to as the “Administration”).
 
 (b) It shall be the duty of the Administration to administer the old-age, survivors, and disability insurance program under subchapter II of this chapter and the supplemental security income program under subchapter XVI of this chapter.
 
@@ -82,7 +82,7 @@ Special rules.—
 
 &emsp;“(4)
 
-Office space.—Notwithstanding section 7 of the Public Buildings Act of 1959 (40 U.S.C. 606), and subject to available appropriations, the Administrator of General Services may, after consultation with the Commissioner of Social Security and under such terms and conditions as the Administrator finds to be in the interests of the United States—
+Office space.—Notwithstanding section 7 of the Public Buildings Act of 1959 (40 U.S.C. 606) \[now 40 U.S.C. 3305(b)(2)(B), 3307\], and subject to available appropriations, the Administrator of General Services may, after consultation with the Commissioner of Social Security and under such terms and conditions as the Administrator finds to be in the interests of the United States—
 
 &emsp;&emsp;“(A) acquire occupiable space in the metropolitan area of Washington, District of Columbia, for housing the Social Security Administration, and
 
@@ -146,7 +146,7 @@ Continuation of Orders, Determinations, Rules, Regulations, Etc.—All orders, d
 
 “(c)
 
-Continuation of Proceedings.—The provisions of this title (including the amendments made thereby) shall not affect any proceeding pending before the Secretary of Health and Human Services immediately before March 31, 1995, with respect to functions vested (by reason of this title, the amendments made thereby, and regulations prescribed thereunder) in the Commissioner of Social Security, except that such proceedings, to the extent that such proceedings relate to such functions, shall continue before such Commissioner. Ordersshall be issued under any such proceeding, appeals taken therefrom, and payments shall be made pursuant to such orders, in like manner as if this title had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or repealed by such Commissioner, by a court of competent jurisdiction, or by operation of law.
+Continuation of Proceedings.—The provisions of this title (including the amendments made thereby) shall not affect any proceeding pending before the Secretary of Health and Human Services immediately before March 31, 1995, with respect to functions vested (by reason of this title, the amendments made thereby, and regulations prescribed thereunder) in the Commissioner of Social Security, except that such proceedings, to the extent that such proceedings relate to such functions, shall continue before such Commissioner. Orders shall be issued under any such proceeding, appeals taken therefrom, and payments shall be made pursuant to such orders, in like manner as if this title had not been enacted, and orders issued in any such proceeding shall continue in effect until modified, terminated, superseded, or repealed by such Commissioner, by a court of competent jurisdiction, or by operation of law.
 
 “(d)
 
@@ -180,7 +180,7 @@ References to the Department of Health and Human Services.—Whenever any refere
 
 “(b)
 
-References to the Secretary of Health and Human Services.—Whenever any reference is made in any provision of law (other than this title or a provision of law amended by this title), regulation, rule, record, or document to the Secretary of Health and Human Services with respect to such Secretary's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act or the supplemental security income program under title XVI of such Act or other functions performed by the Commissioner of Social Security pursuant to section 105(a)(2) of this Act, such reference shall be considered a reference to the Commissioner of Social Security.
+References to the Secretary of Health and Human Services.—Whenever any reference is made inany provision of law (other than this title or a provision of law amended by this title), regulation, rule, record, or document to the Secretary of Health and Human Services with respect to such Secretary's functions under the old-age, survivors, and disability insurance program under title II of the Social Security Act or the supplemental security income program under title XVI of such Act or other functions performed by the Commissioner of Social Security pursuant to section 105(a)(2) of this Act, such reference shall be considered a reference to the Commissioner of Social Security.
 
 “(c)
 

@@ -20,7 +20,7 @@ Each residential rental housing project receiving assistance under this part sha
 
 #### (B) Termination of tenancy
 
-&emsp;&emsp;An owner shall not terminate the tenancy or refuse to renew the lease of a tenant of residential rental housing assisted under this title <sup>1</sup> except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause. Any termination or refusal to renew must be preceded by not less than 30 days by the owner's service upon the tenant of a written notice specifying the grounds for the action.
+&emsp;&emsp;An owner shall not terminate the tenancy or refuse to renew the lease of a tenant of residential rental housing assisted under this title <sup>1</sup> except for serious or repeated violation of the terms and conditions of the lease, for violation of applicable Federal, State, or local law, or for other good cause.Any termination or refusal to renew must be preceded by not less than 30 days by the owner's service upon the tenant of a written notice specifying the grounds for the action.
 
 #### (C) Maintenance and replacement
 
@@ -48,7 +48,7 @@ Each residential rental housing project receiving assistance under this part sha
 
 #### (5) Prohibition against discrimination
 
-&emsp;A unit in a project assisted under this part may not be refused for leasing to a familyholding tenant-based assistance under section 1437f of this title because of the status of the prospective tenant as a holder of such assistance.
+&emsp;A unit in a project assisted under this part may not be refused for leasing to a family holding tenant-based assistance under section 1437f of this title because of the status of the prospective tenant as a holder of such assistance.
 
 #### (b) Transitional housing
 
@@ -96,7 +96,7 @@ The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b), is Pub. 
 
 2000—Subsec. (b). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
-1998—Subsec. (a)(2)(D)(iii). Pub. L. 105–276 substituted “any system of preferences established under section 1437d(c)(1) of this title” for “section 1437d(c)(4)(A) of this title”.
+1998—Subsec. (a)(2)(D)(iii). Pub. L. 105–276 substituted “any system of preferences established under section1437d(c)(1) of this title” for “section 1437d(c)(4)(A) of this title”.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

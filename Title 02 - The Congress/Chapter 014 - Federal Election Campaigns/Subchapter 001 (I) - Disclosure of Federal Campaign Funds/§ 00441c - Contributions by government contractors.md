@@ -22,6 +22,12 @@ For purposes of this section, the term “labor organization” has the meaning 
 
 Section 441b of this title, referred to in subsecs. (b) and (c), was in the original “section 321” meaning section 321 of Pub. L. 92–225 which is classified to section 441g of this title. In view of the renumbering of section 321 as section 316 by section 105(5) of Pub. L. 96–187, the reference has been translated as reading “section 316” to reflect the probable intent of Congress.
 
+#### Prior Provisions
+
+A prior section 317 of Pub. L. 92–225 was renumbered section 313, and is classified to section 439a of this title.
+
+Another prior section 317 of Pub. L. 92–225 was renumbered section 312, and is classified to section 439 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 437g of this title.

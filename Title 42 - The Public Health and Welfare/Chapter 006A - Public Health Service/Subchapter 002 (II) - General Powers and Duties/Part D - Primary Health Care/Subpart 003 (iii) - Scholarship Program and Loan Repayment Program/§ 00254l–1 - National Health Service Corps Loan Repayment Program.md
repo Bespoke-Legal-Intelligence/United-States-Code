@@ -4,15 +4,15 @@
 
 The Secretary shall establish a program to be known as the National Health Service Corps Loan Repayment Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—
 
-&emsp;(1) an adequate supply of physicians, dentists, certified nurse midwives, certified nurse practitioners, and physician assistants; and
+&emsp;(1) an adequate supply of physicians, dentists, behavioral and mental health professionals, certified nurse midwives, certified nurse practitioners, and physician assistants; and
 
-&emsp;(2) if needed by the Corps, an adequate supply of other health professionals (including mental health professionals).
+&emsp;(2) if needed by the Corps, an adequate supply of other health professionals.
 
 #### (b) Eligibility
 
 To be eligible to participate in the Loan Repayment Program, an individual must—
 
-&emsp;(1)(A) must <sup>1</sup> have a degree in medicine, osteopathic medicine, dentistry, or other health profession, or be certified as a nurse midwife, nurse practioner,<sup>2</sup> or physician assistant;
+&emsp;(1)(A) have a degree in medicine, osteopathic medicine, dentistry, or another health profession, or an appropriate degree from a graduate program of behavioral and mental health, or be certified as a nurse midwife, nurse practitioner, or physician assistant;
 
 &emsp;(B) be enrolled in an approved graduate training program in medicine, osteopathic medicine, dentistry, behavioral and mental health, or other health profession; or
 
@@ -72,11 +72,7 @@ To be eligible to participate in the Loan Repayment Program, an individual must�
 
 #### (e) Approval required for participation
 
-#### (1) In general
-
-&emsp;An individual becomes a participant in the Loan Repayment Program only upon the Secretary and the individual entering into a written contract described in subsection (f) of this section.
-
-#### (2) Repealed. Pub. L. 101–597, title II, §202(b)(2)(B), Nov. 16, 1990, 104 Stat. 3024
+An individual becomes a participant in the Loan Repayment Program only upon the Secretary and the individual entering into a written contract described in subsection (f) of this section.
 
 #### (f) Contents of contracts
 
@@ -152,17 +148,23 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic or other training, shall not be counted against any employment ceiling affecting the Department.
 
-(July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562.)
-
-#### Codification
-
-Subsec. (i) of this section, which required the Secretary to submit not later than Mar. 1 of each year a report to Congress providing, with respect to the preceding fiscal year, information about the Loan Repayment Program, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 11 on page 93 of House Document No. 103–7.
+(July 1, 1944, ch. 373, title III, §338B, as added Pub. L. 100–177, title II, §201(3), Dec. 1, 1987, 101 Stat. 992; amended Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title II, §202(a)–(g)(1), (h), title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3023–3026, 3035; Pub. L. 105–392, title I, §109, Nov. 13, 1998, 112 Stat. 3562; Pub. L. 107–251, title III, §310, Oct. 26, 2002, 116 Stat. 1650.)
 
 #### Prior Provisions
 
 A prior section 338B of act July 1, 1944, was renumbered section 338C by section 201(2) of Pub. L. 100–177 and is classified to section 254m of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–251, §310(1)(A), inserted “behavioral and mental health professionals,” after “dentists,”.
+
+Subsec. (a)(2). Pub. L. 107–251, §310(1)(B), struck out “(including mental health professionals)” before period at end.
+
+Subsec. (b)(1)(A). Pub. L. 107–251, §310(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “must have a degree in medicine, osteopathic medicine, dentistry, or other health profession, or be certified as a nurse midwife, nurse practioner, or physician assistant;”.
+
+Subsec. (e)(1). Pub. L. 107–251, §310(3), struck out par. (1) designation and heading.
+
+Subsec. (i). Pub. L. 107–251, §310(4), struck out subsec. (i), which required an annual report to Congress about the Loan Repayment Program.
 
 1998—Subsec. (b)(1)(B). Pub. L. 105–392 substituted “behavioral and mental health, or other health profession” for “or other health profession”.
 
@@ -210,7 +212,7 @@ Pub. L. 101–597, §202(d), amended subsec. (d) generally. Prior to amendment, 
 
 &emsp;“(2) individuals who are committed to service in medically underserved areas.”
 
-Subsec. (e). Pub. L. 101–597, §202(b)(2)(B), substituted “only upon the Secretary and the individual entering into a written contract described in subsection (f) of this section.” for “only on the Secretary's approval of the individual's application submitted under subsection\(b)(3) of this section and the Secretary's acceptance of the contract submitted by the individual under subsection (b)(4) of this section.” in par. (1) and struck out par. (2) which read as follows: “The Secretary shall provide written notice to an individual promptly on—
+Subsec. (e). Pub. L. 101–597, §202(b)(2)(B), substituted “only upon the Secretary and the individual entering into a written contract described in subsection (f) of this section.” for “only on the Secretary's approval of the individual's application submitted under subsection (b)(3) of this section and the Secretary's acceptance of the contract submitted by the individual under subsection (b)(4) of this section.” in par. (1) and struck out par. (2) which read as follows: “The Secretary shall provide written notice to an individual promptly on—
 
 &emsp;“(A) the Secretary's approving, under paragraph (1), of the individual's participation in the Loan Repayment Program; or
 
@@ -258,9 +260,5 @@ Section 205 of title II of Pub. L. 100–177 provided that: “Not later than 18
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254d, 254h–1, 254m, 254n, 254<i>o</i>, 254<i>o</i>–1, 254q–1, 287c–33, 288–2, 288–4, 288–5, 288–5a, 288–6 of this title; title 25 section 1616a; title 37 section 303a.
-
-<i><sup>1</sup></i><i> So in original. The word “must” probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “practitioner,”.</i>
+This section is referred to in sections 254d, 254h–1, 254m, 254n, 254<i>o</i>, 254<i>o</i>–1, 254q, 254q–1, 254t, 287c–33, 288–2, 288–4, 288–5, 288–5a, 288–6 of this title; title 25 section 1616a; title 37 section 303a.
 

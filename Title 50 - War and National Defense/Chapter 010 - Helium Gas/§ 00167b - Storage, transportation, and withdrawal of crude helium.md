@@ -16,7 +16,7 @@ Not later than 18 months after October 9, 1996, the Secretary shall cease produc
 
 #### (2) Applicable law
 
-&emsp;The disposal of such property shall be in accordance with the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 471 et seq.\].
+&emsp;The disposal of such property shall be in accordance with the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
 
 #### (3) Proceeds
 
@@ -44,7 +44,7 @@ Not later than 18 months after October 9, 1996, the Secretary shall cease produc
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 
@@ -57,4 +57,6 @@ A prior section 4 of act Mar. 3, 1925, related to exportation of helium gas and 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 167d of this title; title 35 section 210.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

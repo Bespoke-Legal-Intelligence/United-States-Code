@@ -1,6 +1,6 @@
 ### §1462. Importation or transportation of obscene matters
 
-Whoever brings into the United States, or any place subject to the jurisdiction thereof, or knowingly uses any express company or other common carrier or interactive computer service (as defined in section 230(e)(2) <sup>1</sup> of the Communications Act of 1934), for carriage in interstate or foreign commerce—
+Whoever brings into the United States, or any place subject to the jurisdiction thereof, orknowingly uses any express company or other common carrier or interactive computer service (as defined in section 230(e)(2) <sup>1</sup> of the Communications Act of 1934), for carriage in interstate or foreign commerce—
 
 &emsp;(a) any obscene, lewd, lascivious, or filthy book, pamphlet, picture, motion-picture film, paper, letter, writing, print, or other matter of indecent character; or
 

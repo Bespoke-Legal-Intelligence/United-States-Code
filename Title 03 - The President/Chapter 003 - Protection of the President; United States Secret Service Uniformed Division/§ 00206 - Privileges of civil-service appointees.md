@@ -10,3 +10,7 @@ Members of the United States Secret Service Uniformed Division not appointed fro
 
 1970—Pub. L. 91–217 substituted “Members of the Executive Protective Service not appointed from the Metropolitan Police force or the United States Park Police force” for “Members appointed pursuant to section 205 of this title”.
 
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

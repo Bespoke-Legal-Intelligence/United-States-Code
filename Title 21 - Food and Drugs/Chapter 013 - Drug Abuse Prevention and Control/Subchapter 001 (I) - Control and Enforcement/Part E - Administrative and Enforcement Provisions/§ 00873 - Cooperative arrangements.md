@@ -70,6 +70,26 @@ Subsec. (d). Pub. L. 98–473, §517(b), added subsec. (d).
 
 1980—Subsec. (c). Pub. L. 96–359 added subsec. (c).
 
+#### Annual Report on Counterdrug Intelligence Matters
+
+Pub. L. 107–306, title VIII, §826, Nov. 27, 2002, 116 Stat. 2429, provided that:
+
+“(a)
+
+Annual Report.—The Counterdrug Intelligence Coordinating Group shall submit to the appropriate committees of Congress each year a report on current counterdrug intelligence matters. The report shall include the recommendations of the Counterdrug Intelligence Coordinating Group on the appropriate number of permanent staff, and of detailed personnel, for the staff of the Counterdrug Intelligence Executive Secretariat.
+
+“(b)
+
+Submittal Date.—The date of the submittal each year of the report required by subsection (a) shall be the date provided in section 507 of the National Security Act of 1947 \[50 U.S.C. 415b\], as added by section 811 of this Act.
+
+“(c)
+
+Appropriate Committees of Congress Defined.—In this section, the term ‘appropriate committees of Congress’ means—
+
+&emsp;“(1) the Committees on Appropriations of the Senate and House of Representatives; and
+
+&emsp;“(2) the congressional intelligence committees (as defined in section 3 of the National Security Act of 1947 (50 U.S.C. 401a)).”
+
 #### Combating Amphetamine and Methamphetamine Manufacturing and Trafficking
 
 Pub. L. 106–310, div. B, title XXXVI, §3625, Oct. 17, 2000, 114 Stat. 1233, provided that:
@@ -114,11 +134,11 @@ Authorization of Appropriations.—There are authorized to be appropriated for t
 
 #### National Drug Intelligence Center
 
-Pub. L. 107–108, title I, §104(e), Dec. 28, 2001, 115 Stat. 1396, provided that:
+Pub. L. 107–306, title I, §104(e), Nov. 27, 2002, 116 Stat. 2387, provided that:
 
 “(1)
 
-In general.—Of the amount authorized to be appropriated in subsection (a) \[115 Stat. 1396\], $44,000,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, testing, and evaluation purposes shall remain available until September 30, 2003, and funds provided for procurement purposes shall remain available until September 30, 2004.
+In general.—Of the amount authorized to be appropriated in subsection (a) \[116 Stat. 2386\], $34,100,000 shall be available for the National Drug Intelligence Center. Within such amount, funds provided for research, development, testing, and evaluation purposes shall remain available until September 30, 2004, and funds provided for procurement purposes shall remain available until September 30, 2005.
 
 “(2)
 
@@ -133,6 +153,8 @@ Limitation.—Amounts available for the National Drug Intelligence Center may no
 Authority.—Notwithstanding any other provision of law, the Attorney General shall retain full authority over the operations of the National Drug Intelligence Center.”
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–108, title I, §104(e), Dec. 28, 2001, 115 Stat. 1396.
 
 Pub. L. 106–567, title I, §104(e), Dec. 27, 2000, 114 Stat. 2834.
 

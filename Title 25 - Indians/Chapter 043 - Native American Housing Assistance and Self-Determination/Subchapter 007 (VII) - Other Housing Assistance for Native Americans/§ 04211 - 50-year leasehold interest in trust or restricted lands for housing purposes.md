@@ -2,7 +2,7 @@
 
 #### (a) Authority to lease
 
-Notwithstanding any other provision of law, any trust or restricted Indian lands, whether tribally or individually owned, may be leased by the Indian owners, subject to the approval of the affected Indian tribe and the Secretary of the Interior, for housing development and residential purposes.
+Notwithstanding any other provision of law, any trust or restricted Indian lands, whether tribally or individually owned, may be leased by the Indian owners, subject to the approval of the affected Indian tribe and the Secretary of theInterior, for housing development and residential purposes.
 
 #### (b) Term
 

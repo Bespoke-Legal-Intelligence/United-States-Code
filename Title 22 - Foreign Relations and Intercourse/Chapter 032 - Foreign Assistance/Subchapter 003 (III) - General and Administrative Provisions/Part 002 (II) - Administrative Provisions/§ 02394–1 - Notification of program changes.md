@@ -2,7 +2,7 @@
 
 #### (a) Covered programs; content of notifications
 
-None of the funds appropriated to carry out the purposes of this chapter (except for programs under subpart III or subpart IV of part II of subchapter I of this chapter, part V of subchapter I of this chapter, and programs of disaster relief and rehabilitation) or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] may be obligated for any activities, programs, projects, types of materiel assistance, countries, or otheroperations not justified, or in excess of the amount justified, to the Congress for obligation under this chapter or the Arms Export Control Act for any fiscal year unless the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of the Congress are notified fifteen days in advance of such obligation. Whenever a proposed reprograming exceeds $1,000,000 and the total amount proposed for obligation for a country under this chapter in a fiscal year exceeds by more than $5,000,000 the amount specified for that country in the report required by section 2413(a) of this title, notifications of such proposed reprogramings shall specify—
+None of the funds appropriated to carry out the purposes of this chapter (except for programs under subpart III or subpart IV of part II of subchapter I of this chapter, part V of subchapter I of this chapter, and programs of disaster relief and rehabilitation) or the Arms Export Control Act \[22 U.S.C. 2751 et seq.\] may be obligated for any activities, programs, projects, types of materiel assistance, countries, or other operations not justified, or in excess of the amount justified, to the Congress for obligation under this chapter or the Arms Export Control Act for any fiscal year unless the Committee on Foreign Relations of the Senate, the Committee on Foreign Affairs of the House of Representatives, and the Committee on Appropriations of each House of the Congress are notified fifteen days in advance of such obligation. Whenever a proposed reprograming exceeds $1,000,000 and the total amount proposed for obligation for a country under this chapter in a fiscal year exceeds by more than $5,000,000 the amount specified for that country in the report required by section 2413(a) of this title, notifications of such proposed reprogramings shall specify—
 
 &emsp;(1) the nature and purpose of such proposed obligation, and
 
@@ -58,5 +58,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 287e–2, 2152b, 2194, 2274, 2291, 2291–5, 2291a, 2291c, 2291e, 2291g, 2291j, 2293, 2295b, 2295c, 2318, 2321h, 2321j, 2346c, 2394aa–2, 2420, 2763, 2799c, 5476, 5605, 6039, 6062, 6063, 7102 of this title.
+This section is referred to in sections 287e–2, 2152b, 2194, 2274, 2778, 2291, 2291–5, 2291a, 2291c, 2291e, 2291g, 2291j, 2293, 2295b, 2295c, 2318, 2321h, 2321j, 2346c, 2394aa–2, 2420, 2763, 2799c, 5476, 5605, 6039, 6062, 6063, 7102, 7536 of this title.
 

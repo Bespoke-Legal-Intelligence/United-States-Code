@@ -40,7 +40,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraphs (B) and (C), each employer shall furnish to the Directory of New Hires of the State in which a newly hired employee works, a report that contains the name, address, and social security number of the employee, and the name and address of, and identifying number assigned under section 6109 of the Internal Revenue Code of 1986 to, the employer.
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), each employer shall furnish to theDirectory of New Hires of the State in which a newly hired employee works, a report that contains the name, address, and social security number of the employee, and the name and address of, and identifying number assigned under section 6109 of the Internal Revenue Code of 1986 to, the employer.
 
 #### (B) Multistate employers
 

@@ -2,7 +2,7 @@
 
 #### (a) Amount of funds provided
 
-(1) The amount of funds provided under the terms of self-determination contracts enteredinto pursuant to this subchapter shall not be less than the appropriate Secretary would have otherwise provided for the operation of the programs or portions thereof for the period covered by the contract, without regard to any organizational level within the Department of the Interior or the Department of Health and Human Services, as appropriate, at which the program, function, service, or activity or portion thereof, including supportive administrative functions that are otherwise contractable, is operated.
+(1) The amount of funds provided under the terms of self-determination contracts entered into pursuant to this subchapter shall not be less than the appropriate Secretary would have otherwise provided for the operation of the programs or portions thereof for the period covered by the contract, without regard to any organizational level within the Department of the Interior or the Department of Health and Human Services, as appropriate, at which the program, function, service, or activity or portion thereof, including supportive administrative functions that are otherwise contractable, is operated.
 
 (2) There shall be added to the amount required by paragraph (1) contract support costs which shall consist of an amount for the reasonable costs for activities which must be carried on by a tribal organization as a contractor to ensure compliance with the terms of the contract and prudent management, but which—
 
@@ -44,7 +44,7 @@ The amount of funds required by subsection (a) of this section—
 
 &emsp;&emsp;(A) a reduction in appropriations from the previous fiscal year for the program or function to be contracted;
 
-&emsp;&emsp;(B) a directive in the statement of the managers accompanying a conference report on an appropriation bill or continuing resolution;
+&emsp;&emsp;(B) a directive in the statement of the managers accompanying a conference reporton an appropriation bill or continuing resolution;
 
 &emsp;&emsp;(C) a tribal authorization;
 
@@ -100,7 +100,7 @@ In calculating the indirect costs associated with a self-determination contract 
 
 #### (i) Indian Health Service and Bureau of Indian Affairs budget consultations
 
-On an annual basis, the Secretary shall consult with, and solicit the participation of, Indian tribes and tribal organizations in the development of the budget for the Indian Health Service and the Bureau of Indian Affairs (including participation of Indian tribes and tribal organizations in formulating annual budget requests that the Secretary submits to the President for submission to Congress pursuant to section 1105 of title 31).
+On an annual basis, the Secretary shall consult with, and solicit the participation of, Indiantribes and tribal organizations in the development of the budget for the Indian Health Service and the Bureau of Indian Affairs (including participation of Indian tribes and tribal organizations in formulating annual budget requests that the Secretary submits to the President for submission to Congress pursuant to section 1105 of title 31).
 
 #### (j) Use of funds for matching or cost participation requirements
 
@@ -126,7 +126,7 @@ Without intending any limitation, a tribal organization may, without the approva
 
 &emsp;(8) Insurance and indemnification, including insurance covering the risk of loss of or damage to property used in connection with the contract without regard to the ownership of such property.
 
-&emsp;(9) Costs incurred to raise funds or contributions from non-Federal sources for the purposeof furthering the goals and objectives of the self-determination contract.
+&emsp;(9) Costs incurred to raise funds or contributions from non-Federal sources for the purpose of furthering the goals and objectives of the self-determination contract.
 
 &emsp;(10) Interest expenses paid on capital expenditures such as buildings, building renovation, or acquisition or fabrication of capital equipment, and interest expenses on loans necessitated due to delays by the Secretary in providing funds under a contract.
 
@@ -184,7 +184,7 @@ Subsec. (c)(6). Pub. L. 103–413, §102(15)(C)–(E), added par. (6).
 
 Subsec. (f). Pub. L. 103–413, §102(16), inserted after second sentence “For the purpose of determining the 365-day period specified in this paragraph, an audit report shall be deemed to have been received on the date of actual receipt by the Secretary, if, within 60 days after receiving the report, the Secretary does not give notice of a determination by the Secretary to reject the single-agency report as insufficient due to noncompliance with chapter 75 of title 31 or noncompliance with any other applicable law.”
 
-Subsec. (g). Pub. L. 103–413, §102(17), added subsec. (g) and struck out former subsec. (g) which read as follows: “Upon the approval of a self-determination contract and at the request of an Indian tribe or tribal organization, the Secretary shall add the indirect cost funding amount awarded for a self-determination contract to the amount awarded for direct program funding for the first year and, subject to adjustments in the amount ofdirect program costs for the contract, for each subsequent year that the program remains continuously under contract.”
+Subsec. (g). Pub. L. 103–413, §102(17), added subsec. (g) and struck out former subsec. (g) which read as follows: “Upon the approval of a self-determination contract and at the request of an Indian tribe or tribal organization, the Secretary shall add the indirect cost funding amount awarded for a self-determination contract to the amount awarded for direct program funding for the first year and, subject to adjustments in the amount of direct program costs for the contract, for each subsequent year that the program remains continuously under contract.”
 
 Subsec. (i). Pub. L. 103–413, §102(18), added subsec. (i) and struck out former subsec. (i) which read as follows: “Within one month after October 5, 1988, the Secretary is mandated to establish a team in each area of the Bureau of Indian Affairs which consists of agency personnel (area personnel in the Navajo Area and in the case of Indian tribes not served by an agency) and tribal representatives for the purpose of analyzing the ‘Indian Priority System’ and other aspects of the budgeting and funding allocation process of the Bureau of Indian Affairs for the purpose of making a report to Congress with appropriate recommendations for changes and legislative actions to achieve greater tribal decision-making authority over the use of funds appropriated for the benefit of the tribes and their members. The report along with the analysis, findings and recommendations of the area teams shall be submitted to Congress within six months of October 5, 1988. The Secretary may submit to Congress separate comments on the information and recommendations on the report.”
 

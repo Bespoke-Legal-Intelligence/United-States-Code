@@ -22,7 +22,7 @@ The Secretary may—
 
 &emsp;(1) appoint the Director, 2 employees under subsection (a)(2) of this section, and the employees under subsection (b) of this section without regard to the provisions of title 5, governing appointments in the competitive service;
 
-&emsp;(2) fix the pay of the Director and such 2 employees without regard to the provisions ofchapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates; and
+&emsp;(2) fix the pay of the Director and such 2 employees without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates; and
 
 &emsp;(3) fix the pay of the employees under subsection (b) of this section in accordance with the provisions of chapter 51 and subchapter III of chapter 53 of such title, relating to classification and General Schedule pay rates, subject to subsection (b)(2) of this section.
 

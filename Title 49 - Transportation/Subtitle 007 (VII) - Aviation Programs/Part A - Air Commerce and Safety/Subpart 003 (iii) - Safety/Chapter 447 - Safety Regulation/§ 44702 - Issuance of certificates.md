@@ -26,7 +26,7 @@ Prior Certification.—The Administrator may authorize an aircraft, aircraft eng
 
 (d)
 
-Delegation.—(1) Subject to regulations, supervision, and review the Administrator mayprescribe, the Administrator may delegate to a qualified private person, or to an employee under the supervision of that person, a matter related to—
+Delegation.—(1) Subject to regulations, supervision, and review the Administrator may prescribe, the Administrator may delegate to a qualified private person, or to an employee under the supervision of that person, a matter related to—
 
 &emsp;(A) the examination, testing, and inspection necessary to issue a certificate under this chapter; and
 
@@ -120,7 +120,7 @@ In subsection (d)(1), before clause (A), the words “In exercising the powers a
 
 In subsection (d)(2), the words “made by him” are omitted as surplus.
 
-In subsection (d)(3), the words “exercising delegated authority” and “with respect to the authority granted under subsection (a) of this section” are omitted as surplus. The words “at any time” are substituted for “either before or after it has become effective”, and the words “If the Administrator decides on reconsideration that the action is unreasonable or unwarranted” are substituted for “If, upon reconsideration by the Secretary of Transportation, it shall appear that the action in question is in any respect unjust or unwarranted”, to eliminate unnecessary words. The words “the action” are substituted for “the same accordingly”, and the words “If the Administrator decides the action is warranted, the Administrator shall affirm the action” are substituted for “otherwise, such action shall be affirmed”, for clarity. The text of 49 App.:1355(b) (proviso) is omitted as unnecessary because of 5:559 (last sentence).
+In subsection (d)(3), the words “exercising delegated authority” and “with respect to the authority granted under subsection (a) of this section” are omitted as surplus. The words “at any time” are substituted for “either before or after it has become effective”, and the words “If the Administrator decides on reconsideration that the action is unreasonable or unwarranted” are substituted for “If, upon reconsideration by the Secretary of Transportation, it shall appear that the action in question is in any respect unjust or unwarranted”, to eliminate unnecessary words. The words “the action” are substituted for “the same accordingly”, and the words “If the Administrator decides the action is warranted, the Administrator shall affirm theaction” are substituted for “otherwise, such action shall be affirmed”, for clarity. The text of 49 App.:1355(b) (proviso) is omitted as unnecessary because of 5:559 (last sentence).
 
 #### Section Referred to in Other Sections
 

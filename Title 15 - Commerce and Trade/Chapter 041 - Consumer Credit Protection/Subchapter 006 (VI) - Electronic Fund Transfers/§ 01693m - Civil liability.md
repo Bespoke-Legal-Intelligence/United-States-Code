@@ -28,7 +28,7 @@ Except as provided in section 1693h of this title, a person may not be held liab
 
 No provision of this section or section 1693n of this title imposing any liability shall apply to—
 
-&emsp;(1) any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Board or in conformity with any interpretation or approval by an official or employee of the Federal Reserve System duly authorized by the Board to issue such interpretations or approvals under such procedures as the Board may prescribe therefor; or
+&emsp;(1) any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Board or in conformity with any interpretation or approval by an official or employee of the Federal Reserve System duly authorized by the Board to issue such interpretations or approvals under suchprocedures as the Board may prescribe therefor; or
 
 &emsp;(2) any failure to make disclosure in proper form if a financial institution utilized an appropriate model clause issued by the Board,
 

@@ -110,11 +110,13 @@
 |  |  |  |
 | :--- | :---: | ---: |
 | [<b>121.</b>](Chapter%20121%20-%20Stored%20Wire%20and%20Electronic%20Communications%20and%20Transactional%20Records%20Access/README.md) | <b>Stored wire and electronic communications and transactional records access</b> | <b>2701</b> |
-| [<b>123.</b>](Chapter%20123%20-%20Prohibition%20on%20Release%20and%20Use%20of%20Certain%20Personal%20Information%20from%20State%20Motor%20Vehicle%20Records/README.md) | <b>Prohibition on release and use of certain personal information from State motor vehicle records</b> | <b><sup>5</sup></b><b> 2271</b> |
+| [<b>123.</b>](Chapter%20123%20-%20Prohibition%20on%20Release%20and%20Use%20of%20Certain%20Personal%20Information%20from%20State%20Motor%20Vehicle%20Records/README.md) | <b>Prohibition on release and use of certain personal information from State motor vehicle records</b> | <b>2721</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–273, div. B, title IV, §4002(c)(1), (e)(5), Nov. 2, 2002, 116 Stat. 1808, 1810, substituted “2721” for “2271” in item for chapter 123 and repealed amendment by Pub. L. 104–294, §601(j)(2)(A). See 1996 Amendment note below.
 
 1998—Pub. L. 105–277, div. I, title II, §201(b)(2), Oct. 21, 1998, 112 Stat. 2681–871, added item for chapter 11B.
 
@@ -124,7 +126,7 @@ Pub. L. 104–201, div. A, title X, §1069(b)(4), Sept. 23, 1996, 110 Stat. 2656
 
 Pub. L. 104–192, §2(b), Aug. 21, 1996, 110 Stat. 2104, added item for chapter 118.
 
-Pub. L. 104–132, title III, §303(c)(2), Apr. 24, 1996, 110 Stat. 1253, and Pub. L. 104–294, title VI, §601(j)(2)(A), Oct. 11, 1996, 110 Stat. 3501, amended analysis identically, redesignating item 113B, relating to torture, as 113C.
+Pub. L. 104–132, title III, §303(c)(2), Apr. 24, 1996, 110 Stat. 1253, redesignated item 113B, relating to torture, as 113C. Pub. L. 104–294, title VI, §601(j)(2)(A), Oct. 11, 1996, 110 Stat. 3501, which amended analysis identically, was repealed by Pub. L. 107–273, div. B., title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, effective Oct. 11, 1996.
 
 1994—Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150, which directed the amendment of this title by striking “kidnaping” each place it appears and inserting “kidnapping”, was executed by substituting “Kidnapping” for “Kidnaping” in item for chapter 55, to reflect the probable intent of Congress.
 

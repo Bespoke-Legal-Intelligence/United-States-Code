@@ -30,7 +30,7 @@ Second and Multiple Violations.—(1) Subject to paragraph (2) of this subsectio
 
 &emsp;(C) using a commercial motor vehicle in committing more than one felony arising out of different criminal episodes;
 
-&emsp;(D) committing more than one violation of driving a commercial motor vehicle when the individual's commercial driver's license is revoked, suspended, or canceled based on the individual's operation of a commercial motor vehicle or when the individual is disqualified from operating a commercial motor vehicle based on the individual's operation of a commercial motor vehicle;
+&emsp;(D) committing more than one violation of driving a commercial motor vehicle when the individual's commercial driver's license is revoked, suspended, or canceled based on the individual's operation of a commercial motor vehicle or when the individual is disqualified from operating a commercial motor vehiclebased on the individual's operation of a commercial motor vehicle;
 
 &emsp;(E) convicted of more than one offense of causing a fatality through negligent or criminal operation of a commercial motor vehicle; or
 

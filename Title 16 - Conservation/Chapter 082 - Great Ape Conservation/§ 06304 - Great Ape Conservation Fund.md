@@ -14,7 +14,7 @@ There is established in the Multinational Species Conservation Fund a separate a
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), upon request by the Secretary, the Secretary of the Treasury shall transfer from the Fund to the Secretary, without further appropriation, such amounts as the Secretary determines are necessary to provide assistance under section 6303 of this title.
+&emsp;Subject to paragraph (2), upon request by the Secretary, the Secretary of the Treasury shall transfer from the Fund to the Secretary,without further appropriation, such amounts as the Secretary determines are necessary to provide assistance under section 6303 of this title.
 
 #### (2) Administrative expenses
 

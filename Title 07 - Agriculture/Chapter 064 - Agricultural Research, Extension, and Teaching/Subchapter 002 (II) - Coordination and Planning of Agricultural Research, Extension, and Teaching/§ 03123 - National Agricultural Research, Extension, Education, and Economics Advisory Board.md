@@ -8,7 +8,7 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 #### (1) In general
 
-&emsp;The Advisory Board shall consist of 30 members, appointed by the Secretary.
+&emsp;The Advisory Board shall consist of 31 members, appointed by the Secretary.
 
 #### (2) Selection of members
 
@@ -52,31 +52,33 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 &emsp;&emsp;(Q) 1 member representing the American Colleges of Veterinary Medicine.
 
-&emsp;&emsp;(R) 1 member representing that portion of the scientific community not closely associated with agriculture.
+&emsp;&emsp;(R) 1 member representing a non-land grant college or university with a historic commitment to research in the food and agricultural sciences.
 
-&emsp;&emsp;(S) 1 member engaged in the transportation of food and agricultural products to domestic and foreign markets.
+&emsp;&emsp;(S) 1 member representing that portion of the scientific community not closely associated with agriculture.
 
-&emsp;&emsp;(T) 1 member representing food retailing and marketing interests.
+&emsp;&emsp;(T) 1 member engaged in the transportation of food and agricultural products to domestic and foreign markets.
 
-&emsp;&emsp;(U) 1 member representing food and fiber processors.
+&emsp;&emsp;(U) 1 member representing food retailing and marketing interests.
 
-&emsp;&emsp;(V) 1 member actively engaged in rural economic development.
+&emsp;&emsp;(V) 1 member representing food and fiber processors.
 
-&emsp;&emsp;(W) 1 member representing a national consumer interest group.
+&emsp;&emsp;(W) 1 member actively engaged in rural economic development.
 
-&emsp;&emsp;(X) 1 member representing a national forestry group.
+&emsp;&emsp;(X) 1 member representing a national consumer interest group.
 
-&emsp;&emsp;(Y) 1 member representing a national conservation or natural resource group.
+&emsp;&emsp;(Y) 1 member representing a national forestry group.
 
-&emsp;&emsp;(Z) 1 member representing private sector organizations involved in international development.
+&emsp;&emsp;(Z) 1 member representing a national conservation or natural resource group.
 
-&emsp;&emsp;(AA) 1 member representing an agency within the Department of Agriculture that lacks research capabilities.
+&emsp;&emsp;(AA) 1 member representing private sector organizations involved in international development.
 
-&emsp;&emsp;(BB) 1 member representing a research agency of the Federal Government (other than the Department of Agriculture).
+&emsp;&emsp;(BB) 1 member representing an agency within the Department of Agriculture that lacks research capabilities.
 
-&emsp;&emsp;(CC) 1 member representing a national social science association.
+&emsp;&emsp;(CC) 1 member representing a research agency of the Federal Government (other than the Department of Agriculture).
 
-&emsp;&emsp;(DD) 1 member representing national organizations directly concerned with agricultural research, education, and extension.
+&emsp;&emsp;(DD) 1 member representing a national social science association.
+
+&emsp;&emsp;(EE) 1 member representing national organizations directly concerned with agricultural research, education, and extension.
 
 #### (4) Ex officio members
 
@@ -98,7 +100,7 @@ The Secretary shall establish within the Department of Agriculture a board to be
 
 The Advisory Board shall—
 
-&emsp;(1) review and provide consultation to the Secretary and land-grant colleges and universities on long-term and short-term national policies and priorities, as set forth in section 3101 of this title, relating to agricultural research, extension, education, and economics;
+&emsp;(1) review and provide consultation to the Secretary, land-grant colleges and universities, and the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Subcommittee on Agriculture, Rural Development, Food and Drug Administration and Related Agencies of the Committee on Appropriations of the House of Representatives, and the Subcommittee on Agriculture, Rural Development and Related Agencies of the Committee on Appropriations of the Senate on long-term and short-term national policies and priorities, as set forth in section 3101 of this title, relating to agricultural research, extension, education, and economics;
 
 &emsp;(2) evaluate the results and effectiveness of agricultural research, extension, education, and economics with respect to the policies and priorities;
 
@@ -116,7 +118,7 @@ The Advisory Board shall—
 
 #### (1) Duties of Advisory Board
 
-&emsp;In carrying out this section, the Advisory Board shall solicit opinions and recommendations from persons who will benefit from and use federally funded agricultural research, extension, education, and economics.
+&emsp;In carrying out this section, the Advisory Board shall consult with any appropriate agencies of the Department of Agriculture and solicit opinions and recommendations from persons who will benefit from and use federally funded agricultural research, extension, education, and economics.
 
 #### (2) Duties of Secretary
 
@@ -146,9 +148,9 @@ The Advisory Board shall be deemed to have filed a charter for the purpose of se
 
 #### (h) Termination
 
-The Advisory Board shall remain in existence until September 30, 2002.
+The Advisory Board shall remain in existence until September 30, 2007.
 
-(Pub. L. 95–113, title XIV, §1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, §1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, §1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, §402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, §802(a), Apr. 4, 1996, 110 Stat. 1156; Pub. L. 105–185, title II, §222, June 23, 1998, 112 Stat. 538.)
+(Pub. L. 95–113, title XIV, §1408, Sept. 29, 1977, 91 Stat. 988; Pub. L. 97–98, title XIV, §1408, Dec. 22, 1981, 95 Stat. 1300; Pub. L. 99–198, title XIV, §1406, Dec. 23, 1985, 99 Stat. 1545; Pub. L. 101–624, title XVI, §1604(b), Nov. 28, 1990, 104 Stat. 3709; Pub. L. 102–237, title IV, §402(2), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–66, title I, §§1011(t), 1012(f), Dec. 21, 1995, 109 Stat. 710, 712; Pub. L. 104–127, title VIII, §802(a), Apr. 4, 1996, 110 Stat. 1156; Pub. L. 105–185, title II, §222, June 23, 1998, 112 Stat. 538; Pub. L. 107–171, title VII, §§7133, 7209(a), May 13, 2002, 116 Stat. 435, 444.)
 
 #### References in Text
 
@@ -161,6 +163,16 @@ For definition of “this chapter”, referred to in subsec. (d)(2), see note se
 Section 9 of the Federal Advisory Committee Act, referred to in subsec. (f), is section 9 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–171, §7209(a)(1), substituted “31 members” for “30 members”.
+
+Subsec. (b)(3)(R) to (EE). Pub. L. 107–171, §7209(a)(2), added subpar. (R) and redesignated former subpars. (R) to (DD) as (S) to (EE), respectively.
+
+Subsec. (c)(1). Pub. L. 107–171, §7209(a)(3), substituted “Secretary, land-grant colleges and universities, and the Committee on Agriculture of the House of Representatives, the Committee on Agriculture, Nutrition, and Forestry of the Senate, the Subcommittee on Agriculture, Rural Development, Food and Drug Administration and Related Agencies of the Committee on Appropriations of the House of Representatives, and the Subcommittee on Agriculture, Rural Development and Related Agencies of the Committee on Appropriations of the Senate” for “Secretary and land-grant colleges and universities”.
+
+Subsec. (d)(1). Pub. L. 107–171, §7209(a)(4), inserted “consult with any appropriate agencies of the Department of Agriculture and” after “The Advisory Board shall”.
+
+Subsec. (h). Pub. L. 107–171, §7133, substituted “2007” for “2002”.
 
 1998—Subsec. (b)(7). Pub. L. 105–185, §222(a), added par. (7).
 
@@ -198,5 +210,5 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 344, 361g, 390b, 450i, 2204f, 7601 of this title; title 16 section 1673.
+This section is referred to in sections 344, 361g, 450i, 7601 of this title; title 16 section 1673.
 

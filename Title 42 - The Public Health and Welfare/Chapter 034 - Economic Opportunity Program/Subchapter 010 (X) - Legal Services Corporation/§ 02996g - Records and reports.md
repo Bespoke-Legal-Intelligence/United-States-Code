@@ -2,7 +2,7 @@
 
 #### (a) Authority to require reports
 
-The Corporation is authorized to require such reports as it deems necessary from any grantee, contractor, or person or entity receiving financial assistance under this subchapter regardingactivities carried out pursuant to this subchapter.
+The Corporation is authorized to require such reports as it deems necessary from any grantee, contractor, or person or entity receiving financial assistance under this subchapter regarding activities carried out pursuant to this subchapter.
 
 #### (b) Authority to require recordkeeping; access to records
 

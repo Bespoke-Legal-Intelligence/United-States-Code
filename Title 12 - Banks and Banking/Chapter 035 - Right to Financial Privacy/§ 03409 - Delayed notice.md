@@ -2,7 +2,7 @@
 
 #### (a) Application by Government authority; findings
 
-Upon application of the Government authority, the customer notice required under section3404(c), 3405(2), 3406(c), 3407(2), 3408(4), or 3412(b) of this title may be delayed by order of an appropriate court if the presiding judge or magistrate judge finds that—
+Upon application of the Government authority, the customer notice required under section 3404(c), 3405(2), 3406(c), 3407(2), 3408(4), or 3412(b) of this title may be delayed by order of an appropriate court if the presiding judge or magistrate judge finds that—
 
 &emsp;(1) the investigation being conducted is within the lawful jurisdiction of the Government authority seeking the financial records;
 

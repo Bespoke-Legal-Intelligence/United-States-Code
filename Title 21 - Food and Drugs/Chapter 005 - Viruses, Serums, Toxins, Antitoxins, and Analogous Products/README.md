@@ -21,7 +21,7 @@ By virtue of act June 25, 1938, ch. 675, §902(c), 52 Stat. 1059 \[section 392(b
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 382, 392 of this title; title 15 section 1459; title 35 sections 156, 271.
+This chapter is referred to in sections 382, 392 of this title; title 6 section 231; title 7 section 8401; title 15 section 1459; title 35 sections 156, 271; title 42 section 262a.
 
 
 ---

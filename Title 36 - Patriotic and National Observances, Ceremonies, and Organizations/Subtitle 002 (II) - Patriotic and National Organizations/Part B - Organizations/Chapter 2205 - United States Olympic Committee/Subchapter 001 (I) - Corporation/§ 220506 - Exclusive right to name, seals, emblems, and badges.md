@@ -14,7 +14,7 @@ Exclusive Right of Corporation.—Except as provided in subsection (d) of this s
 
 (b)
 
-Contributors and Suppliers.—The corporation may authorize contributors and suppliers of goods or services to use the trade name of the corporation or any trademark, symbol, insignia, or emblem of the International Olympic Committee, International Paralympic Committee, the Pan-American Sports Organization, or of the corporation to advertise that the contributions, goods, or services were donated orsupplied to, or approved, selected, or used by, the corporation, the United States Olympic team, the Paralympic team, the Pan-American team, or team members.
+Contributors and Suppliers.—The corporation may authorize contributors and suppliers of goods or services to use the trade name of the corporation or any trademark, symbol, insignia, or emblem of the International Olympic Committee, International Paralympic Committee, the Pan-American Sports Organization, or of the corporation to advertise that the contributions, goods, or services were donated or supplied to, or approved, selected, or used by, the corporation, the United States Olympic team, the Paralympic team, the Pan-American team, or team members.
 
 (c)
 
@@ -112,7 +112,7 @@ Subsec. (d)(3). Pub. L. 105–277, §142(g)(8), added par. (3).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 15 sections 1116, 1117, 1125.
+This section is referred to in title 15 sections 1116, 1117, 1125; title 18 section 2320.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

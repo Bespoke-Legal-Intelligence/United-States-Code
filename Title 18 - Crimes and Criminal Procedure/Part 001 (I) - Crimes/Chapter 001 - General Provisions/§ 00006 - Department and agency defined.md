@@ -20,5 +20,5 @@ Section 1 of Title 5, referred to in text, was repealed by Pub. L. 89–554, §8
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14 of this title; title 12 section 1821.
+This section is referred to in title 12 section 1821.
 

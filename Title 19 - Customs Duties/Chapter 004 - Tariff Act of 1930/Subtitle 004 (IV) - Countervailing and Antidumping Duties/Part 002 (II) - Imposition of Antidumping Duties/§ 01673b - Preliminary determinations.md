@@ -66,7 +66,7 @@
 
 #### (3) De minimis dumping margin
 
-&emsp;In making a determination under this subsection, the administering authority shall disregard any weighted average dumping margin that is de minimis. For purposes of the preceding sentence, a weighted average dumping margin is de minimis if the administering authority determines that it is less than 2 percent ad valorem or the equivalent specific rate for the subject merchandise.
+&emsp;In making a determination under this subsection, the administering authority shall disregard any weighted average dumping margin that is de minimis. For purposes of the preceding sentence, a weighted average dumpingmargin is de minimis if the administering authority determines that it is less than 2 percent ad valorem or the equivalent specific rate for the subject merchandise.
 
 #### (c) Extension of period in extraordinarily complicated cases
 
@@ -132,7 +132,7 @@ If the preliminary determination of the administering authority under subsection
 
 #### (2) Suspension of liquidation
 
-&emsp;If the determination of the administering authority under paragraph (1) is affirmative, then any suspension of liquidation ordered under subsection (d)(2) of this section shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
+&emsp;If the determination of the administering authority under paragraph (1) is affirmative,then any suspension of liquidation ordered under subsection (d)(2) of this section shall apply, or, if notice of such suspension of liquidation is already published, be amended to apply, to unliquidated entries of merchandise entered, or withdrawn from warehouse, for consumption on or after the later of—
 
 &emsp;&emsp;(A) the date which is 90 days before the date on which the suspension of liquidation was first ordered, or
 
@@ -190,7 +190,7 @@ Subsec. (e)(2). Pub. L. 103–465, §§215(b)(2), 219(c)(1), substituted “subs
 
 Subsec. (f). Pub. L. 103–465, §212(b)(2)(E), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “Whenever the Commission or the administering authority makes a determination under this section, it shall notify the petitioner, other parties to the investigation, and the other agency of its determination and of the facts and conclusions of law upon which the determination is based, and it shall publish notice of its determination in the Federal Register.”
 
-1988—Subsec. (b)(1). Pub. L. 100–418, §1323(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Within 160 days after the date on which a petition is filed under section 1673a(b) of this title, or an investigation is commenced under section 1673a(a) of this title, but not before an affirmative determination by the Commission under subsection (a) of this section, the administering authority shall make a determination, based upon the best information available to it at the time of the determination, of whether there is a reasonable basis to believe or suspect that the merchandise is being sold, or is likely to be sold at less than fair value. If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price.”
+1988—Subsec. (b)(1). Pub. L. 100–418, §1323(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Within 160 days after the date on which a petition is filed under section 1673a(b) of this title, or an investigation is commenced under section 1673a(a) of this title, but not before an affirmative determination by the Commission under subsection (a) of this section, the administering authority shall make a determination, based upon the best information available to it at the time of the determination, of whetherthere is a reasonable basis to believe or suspect that the merchandise is being sold, or is likely to be sold at less than fair value. If the determination of the administering authority under this subsection is affirmative, the determination shall include the estimated average amount by which the foreign market value exceeds the United States price.”
 
 Subsec. (b)(2). Pub. L. 100–418, §1326(d)(1), substituted “(F), or (G)” for “or (F)” in two places.
 

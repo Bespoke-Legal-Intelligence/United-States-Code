@@ -94,7 +94,7 @@ Except in the case of merchandise with respect to which the determination of adm
 
 #### (2) Notice of detention
 
-&emsp;The Customs Service shall issue a notice to the importer or other party having an interest in detained merchandise no later than 5 days, excluding weekends and holidays, after the decision to detain the merchandise is made. The notice shall advise the importer or other interested party of—
+&emsp;The Customs Service shall issue a notice to the importer or other party having an interestin detained merchandise no later than 5 days, excluding weekends and holidays, after the decision to detain the merchandise is made. The notice shall advise the importer or other interested party of—
 
 &emsp;&emsp;(A) the initiation of the detention;
 
@@ -158,11 +158,13 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 #### Transfer of Functions
 
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Existing Laboratories
 
-Section §613(b) of Pub. L. 103–182 provided that: “Accreditation under section 499(b) of the Tariff Act of 1930 \[19 U.S.C. 1499(b)\] (as added by subsection (a)) is not required for any private laboratory (including any gauger) that was accredited or approved by the Customs Service as of the day before the date of the enactment of this Act \[Dec. 8, 1993\]; but any such laboratory is subject to reaccreditation under the provisions of such section and the regulations promulgated thereunder.”
+Section §613(b) of Pub. L. 103–182 provided that: “Accreditation under section 499(b) of the Tariff Act of 1930\[19 U.S.C. 1499(b)\] (as added by subsection (a)) is not required for any private laboratory (including any gauger) that was accredited or approved by the Customs Service as of the day before the date of the enactment of this Act \[Dec. 8, 1993\]; but any such laboratory is subject to reaccreditation under the provisions of such section and the regulations promulgated thereunder.”
 
 #### Section Referred to in Other Sections
 

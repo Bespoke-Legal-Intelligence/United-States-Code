@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1701s, 1701x, 1702, 1703, 1705, 1709–1a, 1715f, 1715z–1, 1715z–4a, 1715z–13a,1715z–13b, 1721, 1731a, 1735f–2, 1735f–6, 1735f–8, 1735f–9, 1735f–10, 1735f–14, 1743, 1748b, 2803, 2810, 3702, 3751, 3752 of this title; title 38 sections 3707, 3728; title 42 sections 1437aaa–3, 1472, 1479, 3535, 5403, 12773, 12852, 12874.
+This subchapter is referred to in sections 1701s, 1701x, 1702, 1703, 1705, 1709–1a, 1715f, 1715z–1, 1715z–4a, 1715z–13a, 1715z–13b, 1721, 1731a, 1735f–2, 1735f–6, 1735f–8, 1735f–9, 1735f–10, 1735f–14, 1743, 1748b, 2803, 2810, 3702, 3751, 3752 of this title; title 38 sections 3707, 3728; title 42 sections 1437aaa–3, 1472, 1479, 3535, 5403, 12773, 12852, 12874.
 
 
 ---
@@ -20,6 +20,7 @@ This subchapter is referred to in sections 1701s, 1701x, 1702, 1703, 1705, 1709�
 - [&sect; 01710 - Payment of insurance](%C2%A7%2001710%20-%20Payment%20of%20insurance.md)
 - [&sect; 01711 - General Surplus and Participating Reserve Accounts](%C2%A7%2001711%20-%20General%20Surplus%20and%20Participating%20Reserve%20Accounts.md)
 - [&sect; 01712 - Investment of funds](%C2%A7%2001712%20-%20Investment%20of%20funds.md)
+- [&sect; 01712a - Indexing of FHA multifamily housing loan limits](%C2%A7%2001712a%20-%20Indexing%20of%20FHA%20multifamily%20housing%20loan%20limits.md)
 - [&sect; 01713 - Rental housing insurance](%C2%A7%2001713%20-%20Rental%20housing%20insurance.md)
 - [&sect; 01714 - Taxation](%C2%A7%2001714%20-%20Taxation.md)
 - [&sect; 01715 - Statistical and economic surveys](%C2%A7%2001715%20-%20Statistical%20and%20economic%20surveys.md)

@@ -8,7 +8,7 @@ A certificate of documentation is—
 
 &emsp;(3) not conclusive evidence of ownership in a proceeding in which ownership is in issue.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 586; Pub. L. 99–36, §1(a)(7)(B), May 15, 1985, 99 Stat. 67; Pub.L. 101–225, title III, §301(a)(4), Dec. 12, 1989, 103 Stat. 1920.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 586; Pub. L. 99–36, §1(a)(7)(B), May 15, 1985, 99 Stat. 67; Pub. L. 101–225, title III, §301(a)(4), Dec. 12, 1989, 103 Stat. 1920.)
 
 Historical and Revision Notes
 

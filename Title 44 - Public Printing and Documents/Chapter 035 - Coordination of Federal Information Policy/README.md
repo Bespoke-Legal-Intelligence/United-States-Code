@@ -23,7 +23,8 @@
 | [3517\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003517%20-%20Consultation%20with%20other%20agencies%20and%20the%20public.md) | Consultation with other agencies and the public. |
 | [3518\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003518%20-%20Effect%20on%20existing%20laws%20and%20regulations.md) | Effect on existing laws and regulations. |
 | [3519\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003519%20-%20Access%20to%20information.md) | Access to information. |
-| [3520\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003520%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [3520\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003520%20-%20Establishment%20of%20task%20force%20on%20information%20collection%20and%20dissemination.md) | Establishment of task force on information collection and dissemination. |
+| [3521\.](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/%C2%A7%2003521%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -36,11 +37,35 @@
 | [3533\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003533%20-%20Authority%20and%20functions%20of%20the%20Director.md) | Authority and functions of the Director. |
 | [3534\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003534%20-%20Federal%20agency%20responsibilities.md) | Federal agency responsibilities. |
 | [3535\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003535%20-%20Annual%20independent%20evaluation.md) | Annual independent evaluation. |
-| [3536\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003536%20-%20Expiration.md) | Expiration. |
+| [3536\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003536%20-%20National%20security%20systems.md) | National security systems. |
+| [3537\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003537%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [3538\.](Subchapter%20002%20%28II%29%20-%20Information%20Security/%C2%A7%2003538%20-%20Effect%20on%20existing%20law.md) | Effect on existing law. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER III—INFORMATION SECURITY
+
+|  |  |
+| :--- | ---: |
+| [3541\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2003541%20-%20Purposes.md) | Purposes. |
+| [3542\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2003542%20-%20Definitions.md) | Definitions. |
+| [3543\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2003543%20-%20Authority%20and%20functions%20of%20the%20Director.md) | Authority and functions of the Director. |
+| [3544\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2003544%20-%20Federal%20agency%20responsibilities.md) | Federal agency responsibilities. |
+| [3545\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2003545%20-%20Annual%20independent%20evaluation.md) | Annual independent evaluation. |
+| [3546\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2003546%20-%20Federal%20information%20security%20incident%20center.md) | Federal information security incident center. |
+| [3547\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2003547%20-%20National%20security%20systems.md) | National security systems. |
+| [3548\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2003548%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [3549\.](Subchapter%20003%20%28III%29%20-%20Information%20Security/%C2%A7%2003549%20-%20Effect%20on%20existing%20law.md) | Effect on existing law. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–347, title III, §301(b)(2), Dec. 17, 2002, 116 Stat. 2955, added heading for subchapter III and items 3541 to 3549.
+
+Pub. L. 107–296, title X, §1001(b)(2), Nov. 25, 2002, 116 Stat. 2267, reenacted items 3531 to 3535 without change, substituted “National security systems” for “Expiration” in item 3536, and added items 3537 and 3538.
+
+Pub. L. 107–198, §3(b), June 28, 2002, 116 Stat. 732, added item 3520 and renumbered former item 3520 as 3521.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275, inserted subchapters I and II headings and added items 3531 to 3536.
 
@@ -50,7 +75,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 5 section 552; title 7 section 7281; title 10 section 2223; title 16 sections 1379, 1855; title 19 section 1330; title 20 section 9007; title 22 section 3145; title 29 section 49<i>l</i>–2; title 31 section 3811; title 38 section 310; title 40 sections 1411, 1421, 1425; title 41 section 421; title 42 sections 1396r–8, 6924, 6992i, 7661f; title 49 sections 5107, 5108, 60108.
+This chapter is referred to in section 3602 of this title; title 5 section 552; title 7 sections 7281, 7991; title 8 section 1753; title 10 section 2223; title 16 sections 1379, 1855; title 19 section 1330; title 20 section 9573; title 22 section 3145; title 29 section 49<i>l</i>–2; title 31 section 3811; title 38 section 310; title 40 sections 11301, 11311, 11315; title 41 section 421; title 42 sections 1396r–8, 6924, 6992i, 7661f; title 49 sections 5107, 5108, 60108.
 
 
 ---
@@ -59,3 +84,4 @@ This chapter is referred to in title 5 section 552; title 7 section 7281; title 
 
 - [Subchapter 001 (I) - Federal Information Policy](Subchapter%20001%20%28I%29%20-%20Federal%20Information%20Policy/README.md)
 - [Subchapter 002 (II) - Information Security](Subchapter%20002%20%28II%29%20-%20Information%20Security/README.md)
+- [Subchapter 003 (III) - Information Security](Subchapter%20003%20%28III%29%20-%20Information%20Security/README.md)

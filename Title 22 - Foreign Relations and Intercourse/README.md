@@ -1,5 +1,5 @@
 
-22 U.S.C.<br>United States Code, 2001 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+22 U.S.C.<br>United States Code, 2002 Edition<br>Title 22 - FOREIGN RELATIONS AND INTERCOURSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 22—FOREIGN RELATIONS AND INTERCOURSE
 
@@ -96,6 +96,8 @@
 | [<b>78.</b>](Chapter%20078%20-%20Trafficking%20Victims%20Protection/README.md) | <b>Trafficking Victims Protection</b> | <b>7101</b> |
 | [<b>79.</b>](Chapter%20079%20-%20Trade%20Sanctions%20Reform%20and%20Export%20Enhancement/README.md) | <b>Trade Sanctions Reform and Export Enhancement</b> | <b>7201</b> |
 | [<b>80.</b>](Chapter%20080%20-%20Diplomatic%20Telecommunications%20Service%20Program%20Office%20%28DTS-PO%29/README.md) | <b>Diplomatic Telecommunications Service Program Office (DTS-PO)</b> | <b>7301</b> |
+| [<b>81.</b>](Chapter%20081%20-%20International%20Criminal%20Court/README.md) | <b>International Criminal Court</b> | <b>7401</b> |
+| [<b>82.</b>](Chapter%20082%20-%20Afghanistan%20Freedom/README.md) | <b>Afghanistan Freedom Support</b> | <b>7501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -195,3 +197,5 @@
 - [Chapter 078 - Trafficking Victims Protection](Chapter%20078%20-%20Trafficking%20Victims%20Protection/README.md)
 - [Chapter 079 - Trade Sanctions Reform and Export Enhancement](Chapter%20079%20-%20Trade%20Sanctions%20Reform%20and%20Export%20Enhancement/README.md)
 - [Chapter 080 - Diplomatic Telecommunications Service Program Office (DTS-PO)](Chapter%20080%20-%20Diplomatic%20Telecommunications%20Service%20Program%20Office%20%28DTS-PO%29/README.md)
+- [Chapter 081 - International Criminal Court](Chapter%20081%20-%20International%20Criminal%20Court/README.md)
+- [Chapter 082 - Afghanistan Freedom](Chapter%20082%20-%20Afghanistan%20Freedom/README.md)

@@ -1,0 +1,36 @@
+### §902. Definitions
+
+In this chapter, the following definitions apply:
+
+&emsp;(1)
+
+Unit of general local government.—The term “unit of general local government”means a city, county, town, parish, village, or other general-purpose political subdivision of a State.
+
+&emsp;(2)
+
+Urban area.—The term “urban area” means—
+
+&emsp;&emsp;(A) a geographical area within the jurisdiction of an incorporated city, town, borough, village, or other unit of general local government, except a county or parish, having a population of at least 10,000 inhabitants;
+
+&emsp;&emsp;(B) that portion of the geographical area within the jurisdiction of a county, town, township, or similar governmental entity which contains no incorporated unit of general local government but has a population density of at least 1,500 inhabitants per square mile; and
+
+&emsp;&emsp;(C) that portion of a geographical area having a population density of at least 1,500 inhabitants per square mile and situated adjacent to the boundary of an incorporated unit of general local government which has a population of at least 10,000.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1128.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+902
+
+40:535(a), (b).
+
+June 30, 1949, ch. 288, title VIII, §806(a), (b), as added Pub. L. 90–577, title V, §501, Oct. 16, 1968, 82 Stat. 1105.
+

@@ -1,6 +1,6 @@
 ### §708. Sale of surplus waters for domestic and industrial uses; disposition of moneys
 
-The Secretary of the Army is authorized to make contracts with States, municipalities, private concerns, or individuals, at such prices and on such terms as he may deem reasonable, for domestic and industrial uses for surplus water that may be available at any reservoir under the control of the Department of the Army: <i>Provided</i>, That no contracts for such water shall adversely affect then existing lawful uses of such water. All moneys received from such contracts shall be deposited in the Treasury of the United States as miscellaneous receipts.
+The Secretary of the Army is authorized to make contracts with States, municipalities, private concerns, or individuals, at such prices and on such terms as he may deem reasonable, for domestic and industrial uses for surplus water that may be available at any reservoir under thecontrol of the Department of the Army: <i>Provided</i>, That no contracts for such water shall adversely affect then existing lawful uses of such water. All moneys received from such contracts shall be deposited in the Treasury of the United States as miscellaneous receipts.
 
 (Dec. 22, 1944, ch. 665, §6, 58 Stat. 890; July 26, 1947, ch. 343, title II, §205(a), 61 Stat. 501; May 23, 1952, ch. 328, §1(a), 66 Stat. 93.)
 

@@ -10,5 +10,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 “Officer designated by the Secretary of the Interior” substituted for “register” on authority of section 403 of Reorg. Plan No. 3 of 1946, which abolished all registers of district land offices and transferred function of register of district land offices to Secretary of the Interior. See section 403 of Reorg. Plan No. 3 of 1946, set out as a note under section 1 of this title.
 
-Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities in charge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
+Act Mar. 3, 1925, abolished office of surveyor general and transferred administration of all activities incharge of surveyors general to Field Surveying Service under jurisdiction of United States Supervisor of Surveys.
 

@@ -24,7 +24,7 @@
 
 &emsp;(A) any cause of action from undertakings commenced before the effective date set forth in section 610(a) of the Visual Artists Rights Act of 1990;
 
-&emsp;(B) activities violating legal or equitable rights that are not equivalent to any of therights conferred by section 106A with respect to works of visual art; or
+&emsp;(B) activities violating legal or equitable rights that are not equivalent to any of the rights conferred by section 106A with respect to works of visual art; or
 
 &emsp;(C) activities violating legal or equitable rights which extend beyond the life of the author.
 

@@ -402,5 +402,5 @@ Nothing contained in section 203 of Pub. L. 89–695 amending subsecs. (b) and (
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1464, 1820a, 1821, 1831v, 4204, 4224 of this title; title 18 section 3059A.
+This section is referred to in sections 1464, 1820a, 1821, 1831v, 4204, 4224 of this title.
 

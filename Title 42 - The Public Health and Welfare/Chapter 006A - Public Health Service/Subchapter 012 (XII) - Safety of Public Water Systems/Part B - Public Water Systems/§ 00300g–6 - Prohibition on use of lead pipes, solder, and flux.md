@@ -22,7 +22,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each owner or operator of a public water system shall identify and provide notice to persons that may be affected by lead contamination of their drinking water where such contamination results from either or both of the following:
+&emsp;&emsp;Each owner or operator of a public water system shall identify and provide notice topersons that may be affected by lead contamination of their drinking water where such contamination results from either or both of the following:
 
 &emsp;&emsp;&emsp;(i) The lead content in the construction materials of the public water distribution system.
 

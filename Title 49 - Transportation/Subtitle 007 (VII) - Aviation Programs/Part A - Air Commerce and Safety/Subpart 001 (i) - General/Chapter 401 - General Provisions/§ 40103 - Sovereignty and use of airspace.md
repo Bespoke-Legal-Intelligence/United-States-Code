@@ -8,7 +8,7 @@ Sovereignty and Public Right of Transit.—(1) The United States Government has 
 
 (b)
 
-Use of Airspace.—(1) The Administrator of the Federal Aviation Administration shall develop plans and policy for the use of the navigable airspace and assign by regulation or order the use of the airspace necessary to ensure the safety of aircraft and the efficient use of airspace. The Administrator may modify or revoke an assignment when required in the public interest.
+Use of Airspace.—(1) The Administrator of the Federal Aviation Administration shall develop plans and policy for the use of the navigable airspace and assign by regulation or order the use of the airspace necessary to ensure the safety of aircraft and the efficient use of airspace. The Administrator may modify or revokean assignment when required in the public interest.
 
 (2) The Administrator shall prescribe air traffic regulations on the flight of aircraft (including regulations on safe altitudes) for—
 

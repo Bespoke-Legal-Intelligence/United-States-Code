@@ -74,7 +74,7 @@ Sec. 2. <i>Department and Agency Responsibilities</i>. All executive branch depa
 
 (1) Metric usage shall not be required to the extent that such use is impractical or is likely to cause significant inefficiencies or loss of markets to United States firms.
 
-(2) Heads of departments and agencies shall establish an effective process for a policy-level and program-level review of proposed exceptions to metric usage.Appropriate information about exceptions granted shall be included in the agency annual report along with recommendations for actions to enable future metric usage.
+(2) Heads of departments and agencies shall establish an effective process for a policy-level and program-level review of proposed exceptions to metric usage. Appropriate information about exceptions granted shall be included in the agency annual report along with recommendations for actions to enable future metric usage.
 
 (b) seek out ways to increase understanding of the metric system of measurement through educational information and guidance and in Government publications. The transition to use of metric units in Government publications should be made as publications are revised on normal schedules or new publications are developed, or as metric publications are required in support of metric usage pursuant to paragraph (a) of this section.
 

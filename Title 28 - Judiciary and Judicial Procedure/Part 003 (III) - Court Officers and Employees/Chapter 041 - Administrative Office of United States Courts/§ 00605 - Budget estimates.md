@@ -22,15 +22,15 @@ Those provisions of this section which related to the Tax Court were eliminated 
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–258 struck out paragraph which had provided that budget estimates be included in the budget without revision, but subject to the recommendations of the Bureau of the Budget, as provided by section 11 of Title 31 for the estimates of the Supreme Court. See section 1105(b) of Title 31, Money and Finance.
+1982—Pub. L. 97–258 struck out paragraph which had provided that budget estimates be included in the budget without revision, but subject to the recommendations of the Bureau of the Budget, as provided by section 11 of Title 31 for the estimates of the Supreme Court. See section 1105(b) of Title 31, Money and Finance.
 
 Pub. L. 97–164 substituted “Office of Management and Budget” for “Bureau of the Budget” wherever appearing and inserted requirement that the estimate of the expenditures and appropriations necessary for the maintenance and operation of the United States Court of Appeals for the Federal Circuit be approved by such court.
 
-<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-<b>1961</b>—Pub. L. 87–253 struck out from second paragraph the requirement that the estimate with respect to the Court of Customs and Patent Appeals be approved by such court.
+1961—Pub. L. 87–253 struck out from second paragraph the requirement that the estimate with respect to the Court of Customs and Patent Appeals be approved by such court.
 
-<b>1956</b>—Act Aug. 3, 1956, inserted provision to authorize the Director to include in the budget estimates of the courts the expenditures and appropriations necessary for the operation of the judicial survivors annuity fund, and inserted provision that Director shall cause periodic actuarial examinations to be made of the judicial survivors annuity fund and shall report the actuary's findings and recommendations to the Judicial Conference.
+1956—Act Aug. 3, 1956, inserted provision to authorize the Director to include in the budget estimates of the courts the expenditures and appropriations necessary for the operation of the judicial survivors annuity fund, and inserted provision that Director shall cause periodic actuarial examinations to be made of the judicial survivors annuity fund and shall report the actuary's findings and recommendations to the Judicial Conference.
 
 Act July 9, 1956, struck out “and the Court of Claims” after “the Customs Court” and substituted “and” for the comma after “the Court of Customs and Patents Appeals” in second par.
 

@@ -8,7 +8,7 @@ The Secretary is authorized to appoint and fix the compensation of such officers
 
 (1) At the request of the Secretary, the Director of the Office of Personnel Management shall, under section 5108 of title 5, provide for the establishment in each of the grade levels GS–16, GS–17, and GS–18 of a number of positions in the Department equal to the number of positions in that grade level which were used primarily for the performance of functions and offices transferred under this chapter and which were assigned and filled on the day before May 4, 1980.
 
-(2) At the request of the Secretary, the Director of the Office of Personnel Management shall, under section 3104 of title 5, provide for the establishment in the Office created by section 3419 of this title of a number of scientific, professional, and technical positions outside of the General Schedule equal to the number of such positions which were used primarily for the performance of functions and offices transferred under this chapter and which were assigned and filled on the day before May 4, 1980.
+(2) Repealed. Pub. L. 107–279, title IV, §403(3), Nov. 5, 2002, 116 Stat. 1985.
 
 (3) Appointments to positions provided for under this subsection may be made without regard to the provisions of section 3324 of title 5, if the individual appointed in such position is an individual who is transferred in connection with the transfer of functions and offices under this chapter and, on the day preceding May 4, 1980, holds a position and has duties comparable to those of the position to which appointed hereunder.
 
@@ -20,13 +20,13 @@ The Secretary is authorized to appoint and fix the compensation of such officers
 
 #### (d) Senior Executive Service
 
-Notwithstanding any other provision of law, the Director of the Office of Personnel Management shall establish positions within the Senior Executive Service for 15 limited-term appointees. The Secretary shall appoint individuals to such positions as provided by section 3394of title 5. Such positions shall expire on the later of three years after May 4, 1980, or three years after the initial appointment to each position. Positions in effect under this subsection shall be taken into account in applying the limitations on positions prescribed under section 3134(e) and section 5108 of such title.
+Notwithstanding any other provision of law, the Director of the Office of Personnel Management shall establish positions within the Senior Executive Service for 15 limited-term appointees. The Secretary shall appoint individuals to such positions as provided by section 3394 of title 5. Such positions shall expire on the later of three years after May 4, 1980, or three years after the initial appointment to each position. Positions in effect under this subsection shall be taken into account in applying the limitations on positions prescribed under section 3134(e) and section 5108 of such title.
 
 #### (e) Indian preference laws
 
 Nothing in this chapter shall be construed to prevent the application of any Indian preference law in effect on the day before October 17, 1979, to any function or office transferred by this chapter and subject to any such law on the day before October 17, 1979. Any function or office transferred by this chapter and subject to any such law shall continue to be subject to any such law.
 
-(Pub. L. 96–88, title IV, §401, Oct. 17, 1979, 93 Stat. 681; Pub. L. 99–145, title XII, §1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 99–498, title XIV, §1401(d), Oct. 17, 1986, 100 Stat. 1597; Pub. L. 103–382, title II, §271(a)(3)(A), Oct. 20, 1994, 108 Stat. 3929.)
+(Pub. L. 96–88, title IV, §401, Oct. 17, 1979, 93 Stat. 681; Pub. L. 99–145, title XII, §1204(a)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 99–498, title XIV, §1401(d), Oct. 17, 1986, 100 Stat. 1597; Pub. L. 103–382, title II, §271(a)(3)(A), Oct. 20, 1994, 108 Stat. 3929; Pub. L. 107–279, title IV, §403(3), Nov. 5, 2002, 116 Stat. 1985.)
 
 #### References in Text
 
@@ -39,6 +39,8 @@ Section 414(a)(3)(A) of the Civil Service Reform Act of 1978, referred to in sub
 In subsecs. (a) and (d), “May 4, 1980” substituted for “the effective date of this chapter” pursuant to section 601 of Pub. L. 96–88, set out as an Effective Date note under section 3401 of this title.
 
 #### Amendments
+
+2002—Subsec. (b)(2). Pub. L. 107–279 struck out par. (2) which read as follows: “At the request of the Secretary, the Director of the Office of Personnel Management shall, under section 3104 of title 5, provide for the establishment in the Office created by section 3419 of this title of a number of scientific, professional, and technical positions outside of the General Schedule equal to the number of such positions which were used primarily for the performance of functions and offices transferred under this chapter and which were assigned and filled on the day before May 4, 1980.”
 
 1994—Subsec. (b)(2). Pub. L. 103–382 made technical amendment to reference to section 3419 of this title to reflect renumbering of corresponding section of original act.
 

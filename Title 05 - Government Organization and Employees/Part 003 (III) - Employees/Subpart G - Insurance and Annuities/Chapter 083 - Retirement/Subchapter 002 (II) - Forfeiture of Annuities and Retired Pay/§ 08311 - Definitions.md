@@ -82,7 +82,7 @@ In paragraph (1)(B), the reference to “Resident Commissioner” is omitted as 
 
 In paragraph (1)(C), the words “uniformed service” are coextensive with and substituted for “armed forces, the Coast and Geodetic Survey, or the Public Health Service” in view of the definition of “uniformed services” in section 2101.
 
-In paragraph (3), the words “uniformed service” are coextensive with and substituted for “armed forces, theCoast and Geodetic Survey, and the Public Health Service” in view of the definition of “uniformed services” in section 2101.
+In paragraph (3), the words “uniformed service” are coextensive with and substituted for “armed forces, the Coast and Geodetic Survey, and the Public Health Service” in view of the definition of “uniformed services” in section 2101.
 
 The definition of “armed forces” in former section 2281(4) is omitted as unnecessary in view of the definition of “armed forces” in section 2101.
 

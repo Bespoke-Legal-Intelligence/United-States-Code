@@ -72,7 +72,7 @@ Each appropriate Federal banking agency shall, for all insured depository instit
 
 &emsp;&emsp;(A) to preserve the safety and soundness of the institution; or
 
-&emsp;&emsp;(B) in connection with any action under section 1818 of this title or any order issued by the agency, any agreement between theagency and the institution, or any condition imposed by the agency in connection with the agency's approval of an application or other request by the institution, which is enforceable under section 1818 of this title.
+&emsp;&emsp;(B) in connection with any action under section 1818 of this title or any order issued by the agency, any agreement between the agency and the institution, or any condition imposed by the agency in connection with the agency's approval of an application or other request by the institution, which is enforceable under section 1818 of this title.
 
 #### (e) Failure to meet standards
 

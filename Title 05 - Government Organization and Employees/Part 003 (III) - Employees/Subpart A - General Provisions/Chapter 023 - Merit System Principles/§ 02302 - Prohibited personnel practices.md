@@ -58,7 +58,7 @@
 
 &emsp;&emsp;(E) on the basis of marital status or political affiliation, as prohibited under any law, rule, or regulation;
 
-&emsp;(2) solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is based on the personal knowledge or records of the person furnishing it and consists of—
+&emsp;(2) solicit or consider any recommendation or statement, oral or written, with respect to any individual who requests or is under consideration for any personnel action unless such recommendation or statement is basedon the personal knowledge or records of the person furnishing it and consists of—
 
 &emsp;&emsp;(A) an evaluation of the work performance, ability, aptitude, or general qualifications of such individual; or
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;(D) for refusing to obey an order that would require the individual to violate a law;
 
-&emsp;(10) discriminate for or against any employee or applicant for employment on thebasis of conduct which does not adversely affect the performance of the employee or applicant or the performance of others; except that nothing in this paragraph shall prohibit an agency from taking into account in determining suitability or fitness any conviction of the employee or applicant for any crime under the laws of any State, of the District of Columbia, or of the United States;
+&emsp;(10) discriminate for or against any employee or applicant for employment on the basis of conduct which does not adversely affect the performance of the employee or applicant or the performance of others; except that nothing in this paragraph shall prohibit an agency from taking into account in determining suitability or fitness any conviction of the employee or applicant for any crime under the laws of any State, of the District of Columbia, or of the United States;
 
 &emsp;(11)(A) knowingly take, recommend, or approve any personnel action if the taking of such action would violate a veterans’ preference requirement; or
 
@@ -116,7 +116,7 @@
 
 &emsp;(1) section 717 of the Civil Rights Act of 1964 (42 U.S.C. 2000e–16), prohibiting discrimination on the basis of race, color, religion, sex, or national origin;
 
-&emsp;(2) sections 12 and 15 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 631, 633a), prohibiting discrimination on the basis of age;
+&emsp;(2) sections 12 and 15 of the Age Discrimination in Employment Act of 1967 (29 U.S.C. 631,633a), prohibiting discrimination on the basis of age;
 
 &emsp;(3) under section 6(d) of the Fair Labor Standards Act of 1938 (29 U.S.C. 206(d)), prohibiting discrimination on the basis of sex;
 
@@ -134,7 +134,7 @@
 
 &emsp;(D) Section 301(c) of the Foreign Service Act of 1980.
 
-&emsp;(E) Sections 106(f), 7281(e), and 7802(5) of title 38.
+&emsp;(E) Sections 106(f),<sup>1</sup> 7281(e), and 7802(5) of title 38.
 
 &emsp;(F) Section 1005(a) of title 39.
 
@@ -153,6 +153,8 @@ The civil service laws, referred to in subsec. (c), are set out in this title. S
 Section 1308(b) of the Alaska National Interest Lands Conservation Act, referred to in subsec. (e)(1)(C), is classified to section 3198(b) of Title 16, Conservation.
 
 Section 301(c) of the Foreign Service Act of 1980, referred to in subsec. (e)(1)(D), is classified to section 3941(c) of Title 22, Foreign Relations and Intercourse.
+
+Section 106(f) of title 38, referred to in subsec. (e)(1)(E), was enacted subsequent to the enactment of subsec. (e) of this section.
 
 #### Amendments
 
@@ -222,5 +224,7 @@ Pub. L. 105–339, §6(d), Oct. 31, 1998, 112 Stat. 3188, provided that: “This
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701 of this title; title 2 section 1371; title 7 sections 6932, 6962; title 10 section 1612; title 22 sections 3657, 3664, 3673, 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331; title 50 section 403q.
+This section is referred to in sections 1204, 1212, 1214, 1221, 2105, 2301, 2303, 3352, 4505a, 4703, 5754, 5755, 7116, 7121, 7701, 9701 of this title; title 2 section 1371; title 6 sections 344, 463; title 7 sections 6932, 6962; title 10 section 1612; title 22 sections 3657, 3664, 3673, 3905, 4115; title 31 section 732; title 38 sections 4303, 4315, 4331; title 49 section 40122; title 50 section 403q.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

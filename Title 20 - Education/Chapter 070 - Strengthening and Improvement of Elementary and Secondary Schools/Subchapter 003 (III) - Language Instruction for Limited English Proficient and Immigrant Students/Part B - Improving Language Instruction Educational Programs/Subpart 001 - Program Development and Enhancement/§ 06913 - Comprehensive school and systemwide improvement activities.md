@@ -60,7 +60,7 @@
 
 #### (A) Planning
 
-&emsp;&emsp;A recipient of a grant under this section, before carrying out activities under this section, shall plan, train personnel, develop curricula, and acquire or develop materials, but shall not use funds made available under this section for planning purposes for more than 45 days.
+&emsp;&emsp;A recipient of a grant under this section, before carrying out activities under this section, shall plan, train personnel, develop curricula, and acquire or develop materials,but shall not use funds made available under this section for planning purposes for more than 45 days.
 
 #### (B) Commencement of activities
 

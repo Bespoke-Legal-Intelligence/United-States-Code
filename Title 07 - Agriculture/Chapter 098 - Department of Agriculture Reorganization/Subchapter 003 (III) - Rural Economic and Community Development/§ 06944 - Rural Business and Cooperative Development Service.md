@@ -10,7 +10,7 @@ If the Secretary establishes the Rural Business and Cooperative Development Serv
 
 &emsp;(1) Section 313 and title V of the Rural Electrification Act of 1936 (7 U.S.C. 940c and 950aa et seq.).
 
-&emsp;(2) Subtitle G of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5901 et seq.).
+&emsp;(2) Subtitle G <sup>1</sup> of title XVI of the Food, Agriculture, Conservation, and Trade Act of 1990.
 
 &emsp;(3) Sections 306(a)(1) and 310B of the Consolidated Farm and Rural Development Act (7 U.S.C. 1926(a)(1) and 1932).
 
@@ -24,7 +24,7 @@ If the Secretary establishes the Rural Business and Cooperative Development Serv
 
 The Rural Electrification Act of 1936, referred to in subsec. (b)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended. Title V of the Act is classified generally to subchapter V (§950aa et seq.) of chapter 31 of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.
 
-The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (b)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, is classified generally to subchapter VI (§5901 et seq.) of chapter 88 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 1421 of this title and Tables.
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (b)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G oftitle XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§5901 et seq.) of chapter 88 of this title prior to repeal by Pub. L. 107–171, title VI, §6201(a), May 13, 2002, 116 Stat. 418. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 1421 of this title and Tables.
 
 Act of July 2, 1926, referred to in subsec. (b)(5), is act July 2, 1926, ch. 725, 44 Stat. 802, which is classified generally to chapter 18 (§451 et seq.) of this title. For complete classification of this Act to the Code, see Tables.
 

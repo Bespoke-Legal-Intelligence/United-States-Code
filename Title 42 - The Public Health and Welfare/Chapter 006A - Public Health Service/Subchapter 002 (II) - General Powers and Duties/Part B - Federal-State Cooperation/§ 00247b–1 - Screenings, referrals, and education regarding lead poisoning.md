@@ -18,7 +18,7 @@
 
 #### (2) Authority regarding certain entities
 
-&emsp;With respect to a geographic area with a need for activities authorized in paragraph (1), in any case in which neither the State nor the political subdivision in which such area is located has applied for a grant under paragraph (1), the Secretary may make a grant under such paragraph to any grantee under section 254b, 254c, 256, or 256a of this title <sup>1</sup> for carrying out such activities in the area.
+&emsp;With respect to a geographic area with a need for activities authorized in paragraph (1), in any case in which neither the State nor the political subdivision in which such area is located has applied for a grant under paragraph (1), the Secretary may make a grant under such paragraph to any grantee under section 254b, 254c, 254b(h), or 256a of this title <sup>1</sup> for carrying out such activities in the area.
 
 #### (3) Provision of all services and activities through each grantee
 
@@ -36,7 +36,7 @@
 
 #### (2) Waiver regarding certain secondary agreements
 
-&emsp;(A) In the case of a provider making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph regardinga participation agreement shall be waived by the Secretary if the provider does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
+&emsp;(A) In the case of a provider making an agreement pursuant to paragraph (1)(B) regarding the provision of services, the requirement established in such paragraph regarding a participation agreement shall be waived by the Secretary if the provider does not, in providing health care services, impose a charge or accept reimbursement available from any third-party payor, including reimbursement under any insurance policy or under any Federal or State health benefits plan.
 
 &emsp;(B) A determination by the Secretary of whether a provider referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the provider accepts voluntary donations regarding the provision of services to the public.
 
@@ -92,7 +92,7 @@ The Secretary, at the request of a recipient of a grant under subsection (a) of 
 
 &emsp;(1) the fair market value of any supplies or equipment furnished the grant recipient; and
 
-&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee ofthe Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
+&emsp;(2) the amount of the pay, allowances, and travel expenses of any officer or employee of the Government when detailed to the grant recipient and the amount of any other costs incurred in connection with the detail of such officer or employee;
 
 > when the furnishing of such supplies or equipment or the detail of such an officer or employee is for the convenience of and at the request of such grant recipient and for the purpose of carrying out a program with respect to which the grant under subsection (a) of this section is made. The amount by which any such grant is so reduced shall be available for payment by the Secretary of the costs incurred in furnishing the supplies or equipment, or in detailing the personnel, on which the reduction of such grant is based, and such amount shall be deemed as part of the grant and shall be deemed to have been paid to the grant recipient.
 
@@ -146,13 +146,13 @@ For purposes of this section, the term “political subdivision” includes Indi
 
 The Secretary, acting through the Director of the Centers for Disease Control and Prevention, shall develop national guidelines for the uniform reporting of all blood lead test results to State and local health departments.
 
-(July 1, 1944, ch. 373, title III, §317A, as added Pub. L. 100–572, §3, Oct. 31, 1988, 102 Stat. 2887; amended Pub. L. 102–531, title III, §303(a), Oct. 27, 1992, 106 Stat. 3484; Pub. L. 103–183, title VII, §705(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §404, Nov. 13, 1998, 112 Stat. 3588; Pub. L. 106–310, div. A, title XXV, §§2501(a), (b), 2504, Oct. 17, 2000, 114 Stat. 1161, 1164.)
+(July 1, 1944, ch. 373, title III, §317A, as added Pub. L. 100–572, §3, Oct. 31, 1988, 102 Stat. 2887; amended Pub. L. 102–531, title III, §303(a), Oct. 27, 1992, 106 Stat. 3484; Pub. L. 103–183, title VII, §705(a), Dec. 14, 1993, 107 Stat. 2241; Pub. L. 105–392, title IV, §404, Nov. 13, 1998, 112 Stat. 3588; Pub. L. 106–310, div. A, title XXV, §§2501(a), (b), 2504, Oct. 17, 2000, 114 Stat. 1161, 1164; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
 
 #### References in Text
 
-Sections 254b and 254c of this title, referred to in subsec. (a)(2), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+The reference to section 254b of this title the first place appearing and the reference to section 254c of this title, appearing in subsec. (a)(2), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
-Sections 256 and 256a of this title, referred to in subsec. (a)(2), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+Section 256a of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
 The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles V and XIX of the Act are classified generally to subchapters V (§701 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
@@ -161,6 +161,8 @@ The Social Security Act, referred to in subsecs. (b)(1) and (d)(5), is act Aug. 
 A prior section 247b–1, Pub. L. 95–626, title IV, §401, Nov. 10, 1978, 92 Stat. 3590; S. Res. 30, Mar. 7, 1979; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; H. Res. 549, Mar. 25, 1980, related to demonstration and evaluation of optimal methods for organizing and delivering comprehensive preventive health services to defined populations, prior to repeal by Pub. L. 97–35, title IX, §902(a), (h), Aug. 13, 1981, 95 Stat. 559, 561, eff. Oct. 1, 1981.
 
 #### Amendments
+
+2002—Subsec. (a)(2). Pub. L. 107–251 substituted “254b(h)” for “256”.
 
 2000—Subsec. (d)(7), (8). Pub. L. 106–310, §2501(a)(1), added par. (7) and redesignated former par. (7) as (8).
 

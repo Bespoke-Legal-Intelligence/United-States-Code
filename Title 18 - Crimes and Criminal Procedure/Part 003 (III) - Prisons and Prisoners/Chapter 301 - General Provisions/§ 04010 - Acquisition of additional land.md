@@ -22,3 +22,7 @@ Sept. 16, 1959, Pub. L. 86–286, 73 Stat. 567.
 
 The reference to an appropriation law is omitted as covered by the words “when authorized by law”.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 28 section 530C.
+

@@ -30,7 +30,7 @@ Special Apportionment Categories.—(1) The Secretary shall use amounts availabl
 
 &emsp;(B) at <sup>1</sup> least 4 percent to sponsors of current or former military airports designated by the Secretary under section 47118(a) of this title for grants for developing current and former military airports to improve the capacity of the national air transportation system and to sponsors of noncommercial service airports for grants for operational and maintenance expenses at any such airport if the amount of such grants to the sponsor of the airport does not exceed $30,000 in that fiscal year, if the Secretary determines that the airport is adversely affected by the closure or realignment of a military base, and if the sponsor of the airport certifies that the airport would otherwise close if the airport does not receive the grant.
 
-&emsp;(C) In any fiscal year in which the total amount made available under section 48103 is$3,200,000,000 or more, at least two-thirds of 1 percent for grants to sponsors of reliever airports which have—
+&emsp;(C) In any fiscal year in which the total amount made available under section 48103 is $3,200,000,000 or more, at least two-thirds of 1 percent for grants to sponsors of reliever airports which have—
 
 &emsp;&emsp;(i) more than 75,000 annual operations;
 

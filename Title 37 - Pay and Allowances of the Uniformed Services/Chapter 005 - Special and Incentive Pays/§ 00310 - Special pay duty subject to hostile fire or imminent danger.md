@@ -86,5 +86,5 @@ Section 1111(a) of Pub. L. 101–510 provided that: “The Secretary of Defense 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 411a of this title; title 10 sections 701, 703, 1079, 1133; title 20 section 1087ee; title 24 section 412; title 26 section 112; title 42 section 1382a.
+This section is referred to in section 411a of this title; title 10 sections 701, 703, 1079, 1133; title 20 section 1087ee; title 24 section 412; title 26 section 112; title 36 section 230103; title 42 section 1382a.
 

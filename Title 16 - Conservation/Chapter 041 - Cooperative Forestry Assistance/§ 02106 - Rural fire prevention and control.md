@@ -24,13 +24,13 @@ Notwithstanding the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 
 
 &emsp;(2) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, for the prevention, control, suppression, and prescribed use of fires on non-Federal forest lands and other non-Federal lands;
 
-&emsp;(3) provide financial, technical, and related assistance to State foresters or equivalent State officials in cooperative efforts to organize, train, and equip local firefighting forces, including those of Indian tribes or other native groups, to prevent, control, and suppress fires threatening human lives, crops, livestock, farmsteads or other improvements, pastures, orchards, wildlife, rangeland, woodland, and other resources in rural areas. As used herein, the term “rural areas” shall have the meaning set out in the first clause of section 1926(a)(7) of title 7; and
+&emsp;(3) provide financial, technical, and related assistance to State foresters or equivalent State officials in cooperative efforts to organize, train, and equip local firefighting forces, including those of Indian tribes or other native groups, to prevent, control, and suppress fires threatening human lives, crops, livestock, farmsteads or other improvements, pastures, orchards, wildlife, rangeland, woodland, and other resources in rural areas. As used herein, the term “rural areas” shall have the meaning set out in the first clause of section 1926(a)(7) <sup>1</sup> of title 7; and
 
 &emsp;(4) provide financial, technical, and related assistance to State foresters or equivalent State officials, and through them to other agencies and individuals, including rural volunteer fire departments, to conduct preparedness and mobilization activities, including training, equipping, and otherwise enabling State and local firefighting agencies to respond to requests for fire suppression assistance.
 
 #### (c) Encouragement of use of excess personal property by State and local fire forces receiving assistance; cooperation and assistance of Administrator of General Services
 
-The Secretary, with the cooperation and assistance of the Administrator of General Services, shall encourage the use of excess personal property (within the meaning of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 471 et seq.\]) by State and local fire forces receiving assistance under this section.
+The Secretary, with the cooperation and assistance of the Administrator of General Services, shall encourage the use of excess personal property (within the meaning of the Federal Property and Administrative Services Act of 1949) by State and local fire forces receiving assistance under this section.
 
 #### (d) Coordination of assistance with assistance of Secretary of Commerce under Federal fire prevention and control provisions
 
@@ -66,7 +66,9 @@ As used in this section—
 
 The Federal Fire Prevention and Control Act of 1974, referred to in subsecs. (b) and (d), is Pub. L. 93–498, Oct. 29, 1974, 88 Stat. 1535, as amended, which is classified principally to chapter 49 (§2201 et seq.) of Title 15, Commerce and Trade. For complete classification of the Act to the Code, see Short Title note set out under section 2201 of Title 15 and Tables.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. The surplus property provisions of that act are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+Section 1926(a)(7) of title 7, referred to in subsec. (b)(3), was repealed by Pub. L. 107–171, title VI, §6020(b)(1), May 13, 2002, 116 Stat. 363.
+
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 
@@ -84,9 +86,13 @@ Subsec. (g). Pub. L. 101–624, §1220(c), added subsec. (g).
 
 #### Transfer of Functions
 
-Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5, Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+Functions vested in Secretary of Commerce pursuant to provisions of Federal Fire Prevention Control Act of 1974, 15 U.S.C. 2201 et seq., transferred to Director of Federal Emergency Management Agency pursuant to Reorg. Plan No. 3 of 1978, §201, June 19, 1978, 43 F.R. 41944, 92 Stat. 3788, set out in the Appendix to Title 5,Government Organization and Employees, effective Apr. 1, 1979, as provided by Ex. Ord. No. 12127, §§1–101, 1–103(a), Mar. 31, 1979, 44 F.R. 19637.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2106b of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

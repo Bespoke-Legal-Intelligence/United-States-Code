@@ -24,9 +24,11 @@ The Secretary may not make a direct operating loan under subchapter II of this c
 
 &emsp;&emsp;The Secretary may make a direct or guaranteed farm operating loan for paying annual farm or ranch operating expenses of a borrower who—
 
-&emsp;&emsp;&emsp;(i) was restructured with a write-down under section 2001 of this title; or
+&emsp;&emsp;&emsp;(i) was restructured with a write-down under section 2001 of this title;
 
-&emsp;&emsp;&emsp;(ii) is current on payments under a confirmed reorganization plan under chapters <sup>1</sup> 11, 12, or 13 of title 11.
+&emsp;&emsp;&emsp;(ii) is current on payments under a confirmed reorganization plan under chapters <sup>1</sup> 11, 12, or 13 of title 11; or
+
+&emsp;&emsp;&emsp;(iii) received debt forgiveness on not more than 1 occasion resulting directly and primarily from a major disaster or emergency designated by the President on or after April 4, 1996, under the Robert T. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
 
 #### (B) Emergency loans
 
@@ -40,13 +42,17 @@ The Secretary may not make a direct operating loan under subchapter II of this c
 
 The Secretary may not provide to a borrower debt forgiveness on a direct loan made under this chapter if the borrower has received debt forgiveness on another direct loan made under this chapter.
 
-(Pub. L. 87–128, title III, §373, as added Pub. L. 104–127, title VI, §648(b), Apr. 4, 1996, 110 Stat. 1104; amended Pub. L. 105–277, div. A, §101(a) \[title VIII, §801\], Oct. 21, 1998, 112 Stat. 2681, 2681–37.)
+(Pub. L. 87–128, title III, §373, as added Pub. L. 104–127, title VI, §648(b), Apr. 4, 1996, 110 Stat. 1104; amended Pub. L. 105–277, div. A, §101(a) \[title VIII, §801\], Oct. 21, 1998, 112 Stat. 2681, 2681–37; Pub. L. 107–171, title V, §5319, May 13, 2002, 116 Stat. 348.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
 
+The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (b)(2)(A)(iii), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
+
 #### Amendments
+
+2002—Subsec. (b)(2)(A)(iii). Pub. L. 107–171 added cl. (iii).
 
 1998—Subsec. (b). Pub. L. 105–277 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
 

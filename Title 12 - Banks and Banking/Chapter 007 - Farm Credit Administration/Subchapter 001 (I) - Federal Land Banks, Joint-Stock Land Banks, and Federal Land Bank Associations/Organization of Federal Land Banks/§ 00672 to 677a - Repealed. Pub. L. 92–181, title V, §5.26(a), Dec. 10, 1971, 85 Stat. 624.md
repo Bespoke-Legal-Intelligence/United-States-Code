@@ -6,7 +6,7 @@ Section 672a, acts Mar. 10, 1924, ch. 46, §2, 43 Stat. 17; Ex. Ord. No. 6084, M
 
 Section 673, act July 17, 1916, ch. 245, title I, §4, 39 Stat. 362; Ex. Ord. No. 6084, Mar. 27, 1933, provided for temporary management of Federal land banks.
 
-Section 674, acts July 17, 1916, ch. 245, title I, §4, 39 Stat. 362; June 16, 1933, ch. 98, title VIII, §80(a), 48 Stat.273; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, set out requisite contents of organization certificates for land banks.
+Section 674, acts July 17, 1916, ch. 245, title I, §4, 39 Stat. 362; June 16, 1933, ch. 98, title VIII, §80(a), 48 Stat. 273; Aug. 18, 1959, Pub. L. 86–168, title I, §104(h), 73 Stat. 387, set out requisite contents of organization certificates for land banks.
 
 Section 675, act July 17, 1916, ch. 245, title I, §4, 39 Stat. 363; Ex. Ord. No. 6084, Mar. 27, 1933, authorized changes in organization certificates on direction of Farm Credit Administration.
 

@@ -18,7 +18,7 @@ Notwithstanding subsection (a) of section 553 of title 5, and except as otherwis
 
 &emsp;(B) applicable exclusively to any program, project, or activity authorized by, or carried out under, this subchapter.
 
-(3) The first 2 sentences of section 553(b) of title 5 shall apply with respect to any rule\(other than an interpretative rule, a general statement of policy, or a rule of agency organization, procedure, or practice) that is—
+(3) The first 2 sentences of section 553(b) of title 5 shall apply with respect to any rule (other than an interpretative rule, a general statement of policy, or a rule of agency organization, procedure, or practice) that is—
 
 &emsp;(A) proposed under this subchapter; or
 
@@ -38,7 +38,7 @@ Notwithstanding section 553(d) of title 5, no rule (including an interpretative 
 
 #### (d) Statutory citation required
 
-Each rule (including an interpretative rule) and each general statement of policy to which this section applies shall contain after each of its sections, paragraphs, or similar textual units a citation to the particular provision of statutory or other law that is the legal authority for such section, paragraph, or unit.
+Each rule (including an interpretative rule) and each general statement of policy to which this section applies shall contain after each ofits sections, paragraphs, or similar textual units a citation to the particular provision of statutory or other law that is the legal authority for such section, paragraph, or unit.
 
 #### (e) Rule or general statement of policy necessary as result of legislation; time for issuance
 

@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction of courts
 
-The district courts of the United States shall have jurisdiction, for cause shown, to restrain violations of section 360<i>oo</i> of this title and to restrain dealers and distributors of electronic products from selling or otherwise disposing of electronic products which do not conform to an applicable standard prescribed pursuant to section 360kk of this title except when such products are disposed of by returning them to the distributor or manufacturer from whom they were obtained. The district courts of the United States shall also have jurisdiction in accordance with section 1355 of title 28 to enforce the provisions of subsection (b) of this section.
+The district courts of the United States shall have jurisdiction, for cause shown, to restrain violations of section 360<i>oo</i> of this title and to restrain dealers and distributors of electronic products from selling or otherwise disposing of electronic products which do not conform to anapplicable standard prescribed pursuant to section 360kk of this title except when such products are disposed of by returning them to the distributor or manufacturer from whom they were obtained. The district courts of the United States shall also have jurisdiction in accordance with section 1355 of title 28 to enforce the provisions of subsection (b) of this section.
 
 #### (b) Penalties
 
@@ -12,7 +12,7 @@ The district courts of the United States shall have jurisdiction, for cause show
 
 #### (c) Venue; process
 
-Actions under subsections (a) and (b) of this section may be brought in the district court ofthe United States for the district wherein any act or omission or transaction constituting the violation occurred, or in such court for the district where the defendant is found or transacts business, and process in such cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found.
+Actions under subsections (a) and (b) of this section may be brought in the district court of the United States for the district wherein any act or omission or transaction constituting the violation occurred, or in such court for the district where the defendant is found or transacts business, and process in such cases may be served in any other district of which the defendant is an inhabitant or wherever the defendant may be found.
 
 #### (d) Warnings
 

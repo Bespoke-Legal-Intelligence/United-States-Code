@@ -2,7 +2,7 @@
 
 No person, firm, or corporation shall sell, transport, offer for sale or transportation, or receive for transportation, in commerce, any carcasses of horses, mules, or other equines or parts of such carcasses, or the meat or meat food products thereof, unless they are plainly and conspicuously marked or labeled or otherwise identified as required by regulations prescribed by the Secretary to show the kinds of animals from which they were derived. When required by the Secretary, with respect to establishments at which inspection is maintained under this subchapter, such animals and their carcasses, parts thereof, meat and meat food products shall be prepared in establishments separate from those in which cattle, sheep, swine, or goats are slaughtered or their carcasses, parts thereof, meat or meat food products are prepared.
 
-(Mar. 4, 1907, ch. 2907, title I, §19, formerly 17th par., 34 Stat. 1264; renumbered §19 and amendedPub. L. 90–201, §§1, 9, Dec. 15, 1967, 81 Stat. 584, 590.)
+(Mar. 4, 1907, ch. 2907, title I, §19, formerly 17th par., 34 Stat. 1264; renumbered §19 and amended Pub. L. 90–201, §§1, 9, Dec. 15, 1967, 81 Stat. 584, 590.)
 
 #### Codification
 

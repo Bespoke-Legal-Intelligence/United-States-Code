@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Availability of funds.—For the purpose of facilitating the timely and economical acquisition of real property for a transportation improvement eligible for funding under this title, the Secretary, upon the request of a State, may make available, for the acquisition of real property, such funds apportioned to the State as may be expended on the transportation improvement, under such rules and regulations as the Secretary may issue.
+Availability of funds.—For the purpose of facilitating the timely and economical acquisition of real property for a transportation improvement eligible for funding under thistitle, the Secretary, upon the request of a State, may make available, for the acquisition of real property, such funds apportioned to the State as may be expended on the transportation improvement, under such rules and regulations as the Secretary may issue.
 
 &emsp;(2)
 
@@ -62,13 +62,13 @@ Section 7 of the Endangered Species Act, referred to in subsec. (c)(2)(F), proba
 
 1998—Pub. L. 105–178, §1301(a), substituted “Advance acquisition of real property” for “Advance acquisition of rights-of-way” in section catchline.
 
-Subsec. (a). Pub. L. 105–178, §1301(a), added subsec. (a) and struck out former subsec. (a) which read as follows: “For the purpose of facilitating the acquisition of rights-of-way on any Federal-aid highway in the most expeditious and economical manner, and recognizing that the acquisition of rights-of-way requires lengthy planning and negotiations if it is to be done at a reasonable cost, the Secretary, upon the request of the State highway department, is authorized to make available the funds apportioned to any State which may be expended on such highway for acquisition of rights-of-way, in anticipation of construction and under such rules and regulations as the Secretary may prescribe. The agreement between the Secretary and the State highway department for the reimbursement of the cost of such rights-of-way shall provide for the actual construction of a road on such rights-of-way within a period not exceeding 20 years following the fiscal year in which such request is made unless a longer period is determined to be reasonable by the Secretary.”
+Subsec. (a). Pub. L. 105–178, §1301(a), added subsec. (a) and struck out former subsec. (a) which read as follows:“For the purpose of facilitating the acquisition of rights-of-way on any Federal-aid highway in the most expeditious and economical manner, and recognizing that the acquisition of rights-of-way requires lengthy planning and negotiations if it is to be done at a reasonable cost, the Secretary, upon the request of the State highway department, is authorized to make available the funds apportioned to any State which may be expended on such highway for acquisition of rights-of-way, in anticipation of construction and under such rules and regulations as the Secretary may prescribe. The agreement between the Secretary and the State highway department for the reimbursement of the cost of such rights-of-way shall provide for the actual construction of a road on such rights-of-way within a period not exceeding 20 years following the fiscal year in which such request is made unless a longer period is determined to be reasonable by the Secretary.”
 
 Subsecs. (c), (d). Pub. L. 105–178, §1211(e)(1), redesignated subsec. (d) as (c) and struck out former subsec. (c) which related to establishment and administration of right-of-way revolving fund.
 
 1994—Subsec. (d)(2)(F). Pub. L. 103–429 substituted “section 303 of title 49” for “section 4(f) of the Department of Transportation Act”.
 
-1992—Subsec. (a). Pub. L. 102–388, §346(1), (2), substituted “Federal-aid highway” for “of the Federal-aidhighway systems, including the Interstate System,” and “which may be expended on such highway” for “for expenditure on any of the Federal-aid highway systems, including the Interstate System,”.
+1992—Subsec. (a). Pub. L. 102–388, §346(1), (2), substituted “Federal-aid highway” for “of the Federal-aid highway systems, including the Interstate System,” and “which may be expended on such highway” for “for expenditure on any of the Federal-aid highway systems, including the Interstate System,”.
 
 Subsec. (c)(2). Pub. L. 102–388, §346(3), inserted “and passenger transit facilities”.
 
@@ -130,7 +130,7 @@ Section 7(c)–(e) of Pub. L. 90–495 provided that $100,000,000 for the fiscal
 
 #### Study of Advance Acquisition of Rights-of-Way
 
-Pub. L. 89–574, §10, Sept. 13, 1966, 80 Stat. 769, as amended by Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, directed the Secretary to make a full and complete investigation and study of the advance acquisition of rights-of-way for future construction of highways on the Federal-aid highway systems, with particular reference to the provision of adequate time for the removal and disposal of improvements located on rights-of-way and the relocation of affected individuals, businesses, institutions, and organizations, the tax status of such property after acquisition and before its use for highway purposes, and the methods for financing advance right-of-way acquisition by both the State governments and the Federal Government, including the possible creation of revolving funds for such purpose. The Secretary was required to submit a report of results of such study to Congress not later than July 1, 1967, together with his recommendations.
+Pub. L. 89–574, §10, Sept. 13, 1966, 80 Stat. 769, as amended by Pub. L. 97–449, §2(a), Jan. 12, 1983, 96 Stat. 2439, directed the Secretary to make a full and complete investigation and study of the advance acquisition of rights-of-way for future construction of highways on the Federal-aid highway systems, with particular reference to the provision of adequate time for the removal and disposal of improvements located on rights-of-way and the relocation of affected individuals, businesses, institutions, and organizations, the tax status of such property after acquisition and before its use for highway purposes, and the methods for financing advance right-of-way acquisition by both the State governments and the Federal Government, including the possible creation of revolving funds for such purpose. The Secretary was required to submit a report ofresults of such study to Congress not later than July 1, 1967, together with his recommendations.
 
 #### Increased Limitation Period Applicable to Certain Contracts
 

@@ -44,7 +44,7 @@ Members of the advisory council shall serve without compensation, if not otherwi
 
 #### (2) Initial appointment
 
-&emsp;The Secretary shall make appointments to the advisory council so as to ensure that the terms of the members appointed under subsection (c) of this section do not all expire in the same year. A member may serve after the expiration of the member's term until a successor takes office.
+&emsp;The Secretary shall make appointments to the advisory council so as to ensure that theterms of the members appointed under subsection (c) of this section do not all expire in the same year. A member may serve after the expiration of the member's term until a successor takes office.
 
 #### (3) Reappointment
 
@@ -60,7 +60,7 @@ The Secretary shall select as the chair of the advisory council one of the membe
 
 #### (g) Meetings
 
-The advisory council shall meet at the call of the chair or on the request of the Director, butat least two times each fiscal year. The location of the meetings of the advisory council shall be subject to the approval of the Director.
+The advisory council shall meet at the call of the chair or on the request of the Director, but at least two times each fiscal year. The location of the meetings of the advisory council shall be subject to the approval of the Director.
 
 #### (h) Staff
 

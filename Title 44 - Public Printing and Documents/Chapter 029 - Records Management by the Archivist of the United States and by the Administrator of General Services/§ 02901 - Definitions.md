@@ -42,23 +42,25 @@ As used in this chapter, and chapters 21, 25, 31, and 33 of this title—
 
 &emsp;(10) the term “unauthenticated copies” means exact copies or reproductions of records or other materials that are not certified as such under seal and that need not be legally accepted as evidence;
 
-&emsp;(11) the term “National Archives of the United States” means those official records which have been determined by the Archivistof the United States to have sufficient historical or other value to warrant their continued preservation by the Federal Government, and which have been accepted by the Archivist for deposit in his custody;
+&emsp;(11) the term “National Archives of the United States” means those official records which have been determined by the Archivist of the United States to have sufficient historical or other value to warrant their continued preservation by the Federal Government, and which have been accepted by the Archivist for deposit in his custody;
 
 &emsp;(12) the term “Archivist” means the Archivist of the United States;
 
-&emsp;(13) the term “executive agency” shall have the meaning given such term by section 3(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472(a));
+&emsp;(13) the term “executive agency” shall have the meaning given such term by section 102 of title 40;
 
 &emsp;(14) the term “Federal agency” means any executive agency or any establishment in the legislative or judicial branch of the Government (except the Supreme Court, the Senate, the House of Representatives, and the Architect of the Capitol and any activities under the direction of the Architect of the Capitol); and
 
 &emsp;(15) the term “Administrator” means the Administrator of General Services.
 
-(Added Pub. L. 94–575, §2(a)(1), Oct. 21, 1976, 90 Stat. 2723; amended Pub. L. 98–497, title I, §107(b)(13), Oct. 19, 1984, 98 Stat. 2287.)
+(Added Pub. L. 94–575, §2(a)(1), Oct. 21, 1976, 90 Stat. 2723; amended Pub. L. 98–497, title I, §107(b)(13), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 107–217, §3(<i>l</i>)(2), Aug. 21, 2002, 116 Stat. 1301.)
 
 #### Prior Provisions
 
 A prior section 2901, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1295, related to definitions, prior to repeal by Pub. L. 94–575, §2(a)(1).
 
 #### Amendments
+
+2002—Par. (13). Pub. L. 107–217 substituted “section 102 of title 40” for “section 3(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472(a))”.
 
 1984—Pub. L. 98–497, §107(b)(13)(A), struck out reference to chapter 27 in provisions preceding par. (1).
 

@@ -12,7 +12,7 @@ Transportation Allowances.—Under regulations prescribed by the Director of the
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–315 amended section generally, substituting provisions relating to compensation of arbitrators and neutrals for provisions relating to district courts that may authorize arbitration.
+1998—Pub. L. 105–315 amended section generally, substituting provisions relating to compensation of arbitrators and neutrals for provisions relating to district courts that may authorize arbitration.
 
 #### Section Referred to in Other Sections
 

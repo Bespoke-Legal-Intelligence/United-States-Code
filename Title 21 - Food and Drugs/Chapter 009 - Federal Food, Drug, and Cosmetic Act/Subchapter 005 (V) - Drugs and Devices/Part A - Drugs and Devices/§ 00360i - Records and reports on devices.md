@@ -72,7 +72,7 @@ Every person who is a manufacturer or importer of a device intended for human us
 
 &emsp;(B) a communication to a manufacturer of a device which is the subject of a report under paragraph (1).
 
-> This paragraph does not prohibit the Secretary from disclosing the identity of a device user facility making a report under paragraph (1) or any information in such a report to employeesof the Department of Health and Human Services, to the Department of Justice, or to the duly authorized committees and subcommittees of the Congress.
+> This paragraph does not prohibit the Secretary from disclosing the identity of a device user facility making a report under paragraph (1) or any information in such a report to employees of the Department of Health and Human Services, to the Department of Justice, or to the duly authorized committees and subcommittees of the Congress.
 
 (3) No report made under paragraph (1) by—
 
@@ -146,11 +146,11 @@ Subsection (a) of this section shall not apply to—
 
 > A manufacturer or importer of a device who undertakes a correction or removal of a device which is not required to be reported under this paragraph shall keep a record of such correction or removal.
 
-(2) No report of the corrective action or removal of a device may be required under paragraph (1) if a report of the corrective action or removal is required and has been submitted under subsection (a) of this section.
+(2) No report of the corrective action or removal of a device may be required under paragraph (1) if a report of the corrective action orremoval is required and has been submitted under subsection (a) of this section.
 
 (3) For purposes of paragraphs (1) and (2), the terms “correction” and “removal” do not include routine servicing.
 
-(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28,1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347.)
+(June 25, 1938, ch. 675, §519, as added Pub. L. 94–295, §2, May 28, 1976, 90 Stat. 564; amended Pub. L. 101–629, §§2(a), 3(a)(1), (b)(1), 7, Nov. 28, 1990, 104 Stat. 4511, 4513, 4514, 4520; Pub. L. 102–300, §5(a), June 16, 1992, 106 Stat. 239; Pub. L. 103–80, §3(u), Aug. 13, 1993, 107 Stat. 778; Pub. L. 105–115, title II, §§211, 213(a), (c), Nov. 21, 1997, 111 Stat. 2345–2347.)
 
 #### Amendments
 
@@ -244,7 +244,7 @@ Section 3(b)(3) of Pub. L. 101–629, as amended by Pub. L. 102–300, §2(a)(1)
 
 #### Regulations
 
-Section 2(b) of Pub. L. 101–629 provided that: “The Secretary of Health and Human Services shall promulgate regulations to implement section 519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a) (including a definition of the summary required by paragraph (1)(C) of such section) not later than 12 months after the date of enactment of this Act\[Nov. 28, 1990\]. In promulgating the regulations, the Secretary shall minimize the administrative burdens on device user facilities consistent with the need to assure adequate information.”
+Section 2(b) of Pub. L. 101–629 provided that: “The Secretary of Health and Human Services shall promulgate regulations to implement section 519(b) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360i(b)\], as added by the amendment made by subsection (a) (including a definition of the summary required by paragraph (1)(C) of such section) not later than 12 months after the date of enactment of this Act \[Nov. 28, 1990\]. In promulgating the regulations, the Secretary shall minimize the administrative burdens on device user facilities consistent with the need to assure adequate information.”
 
 Section 3(c) of Pub. L. 101–629, as amended by Pub. L. 102–300, §2(a)(2), (3), June 16, 1992, 106 Stat. 238, provided that:
 

@@ -1,0 +1,28 @@
+### §7266. Enhanced review of periodic disclosures by issuers
+
+#### (a) Regular and systematic review
+
+The Commission shall review disclosures made by issuers reporting under section 78m(a) of this title (including reports filed on Form 10–K), and which have a class of securities listed on a national securities exchange or traded on an automated quotation facility of a national securities association, on a regular and systematic basis for the protection of investors. Such review shall include a review of an issuer's financial statement.
+
+#### (b) Review criteria
+
+For purposes of scheduling the reviews required by subsection (a) of this section, the Commission shall consider, among other factors—
+
+&emsp;(1) issuers that have issued material restatements of financial results;
+
+&emsp;(2) issuers that experience significant volatility in their stock price as compared to other issuers;
+
+&emsp;(3) issuers with the largest market capitalization;
+
+&emsp;(4) emerging companies with disparities in price to earning ratios;
+
+&emsp;(5) issuers whose operations significantly affect any material sector of the economy; and
+
+&emsp;(6) any other factors that the Commission may consider relevant.
+
+#### (c) Minimum review period
+
+In no event shall an issuer required to file reports under section 78m(a) or 78<i>o</i>(d) of this title be reviewed under this section less frequently than once every 3 years.
+
+(Pub. L. 107–204, title IV, §408, July 30, 2002, 116 Stat. 790.)
+

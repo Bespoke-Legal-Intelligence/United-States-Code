@@ -4,7 +4,7 @@
 
 Congress makes the following findings:
 
-&emsp;(1) Nuclear weapons are the most destructive weapons on earth. The United States and its allies continue to rely on nuclear weapons to deter potential adversaries from using weapons of mass destruction. The safety and reliability of the nuclear weapons stockpile are essential to ensure its credibility as a deterrent.
+&emsp;(1) Nuclear weapons are the most destructive weapons on earth. The United States and itsallies continue to rely on nuclear weapons to deter potential adversaries from using weapons of mass destruction. The safety and reliability of the nuclear weapons stockpile are essential to ensure its credibility as a deterrent.
 
 &emsp;(2) On September 24, 1996, President Clinton signed the Comprehensive Test Ban Treaty.
 
@@ -20,7 +20,7 @@ Congress makes the following findings:
 
 &emsp;(8) The plan of the Department of Energy to maintain the safety and reliability of the United States nuclear weapons stockpile is known as the Stockpile Stewardship and Management Program. The ability of the United States to maintain and certify the safety, security, effectiveness, and reliability of the nuclear weapons stockpile without testing will require utilization of new and sophisticated computational capabilities and diagnostic technologies, methods, and procedures. Current diagnostic technologies and laboratory testing techniques are insufficient to certify the safety and reliability of the United States nuclear weapons stockpile into the future. Whereas in the past laboratory and diagnostic tools were used in conjunction with nuclear testing, in the future they will provide, under the Department of Energy's stockpile stewardship plan, the sole basis for assessing past test data and for making judgments on phenomena observed in connection with the aging of the stockpile.
 
-&emsp;(9) Section 7274<i>o</i> of this title requires that the directors of the nuclear weapons laboratories and the nuclear weapons production plants submit a report to the Assistant Secretary of Energy for Defense Programs if they identify a problem that has significant bearing on confidence in the safety or reliability of a nuclear weapon or nuclear weapon type, thatthe Assistant Secretary must transmit that report, along with any comments, to the congressional defense committees and to the Secretary of Energy and the Secretary of Defense, and that the Joint Nuclear Weapons Council advise Congress regarding its analysis of any such problems.
+&emsp;(9) Section 7274<i>o</i> of this title requires that the directors of the nuclear weapons laboratories and the nuclear weapons production plants submit a report to the Assistant Secretary of Energy for Defense Programs if they identify a problem that has significant bearing on confidence in the safety or reliability of a nuclear weapon or nuclear weapon type, that the Assistant Secretary must transmit that report, along with any comments, to the congressional defense committees and to the Secretary of Energy and the Secretary of Defense, and that the Joint Nuclear Weapons Council advise Congress regarding its analysis of any such problems.
 
 &emsp;(10) On August 11, 1995, President Clinton directed “the establishment of a new annual reporting and certification requirement \[to\] ensure that our nuclear weapons remain safe and reliable under a comprehensive test ban”.
 
@@ -48,7 +48,7 @@ Congress makes the following findings:
 
 &emsp;It is the sense of Congress that—
 
-&emsp;&emsp;(A) the United States should retain a triad of strategic nuclear forces sufficient to deter any future hostile foreign leadership with access to strategic nuclear forces from acting against the vital interests of the United States;
+&emsp;&emsp;(A) the United States should retain a triad of strategic nuclear forces sufficient to deterany future hostile foreign leadership with access to strategic nuclear forces from acting against the vital interests of the United States;
 
 &emsp;&emsp;(B) the United States should continue to maintain nuclear forces of sufficient size and capability to implement an effective and robust deterrent strategy; and
 
@@ -106,9 +106,11 @@ Section 3138(d) of the National Defense Authorization Act for Fiscal Year 1994, 
 
 Section is comprised of section 1305 of Pub. L. 105–85. Subsecs. (c) and (d) of section 1305 of Pub. L. 105–85 amended section 7274<i>o</i> of this title.
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as partof the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1998, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
 #### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the advanced scientific computing research program and activities at Lawrence Livermore National Laboratory, including the functions of the Secretary of Energy relating thereto, to the Secretary of Homeland Security, see sections 183(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 All national security functions and activities performed immediately before Oct. 5, 1999, by nuclear weapons laboratories and production plants defined in this section, transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, see section 2481 of Title 50, War and National Defense.
 

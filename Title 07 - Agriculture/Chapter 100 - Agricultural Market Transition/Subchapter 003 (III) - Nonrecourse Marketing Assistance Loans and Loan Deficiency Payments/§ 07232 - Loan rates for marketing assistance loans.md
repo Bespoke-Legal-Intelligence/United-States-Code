@@ -26,7 +26,7 @@
 
 &emsp;Subject to paragraph (2), the loan rate for a marketing assistance loan under section 7231 of this title for corn shall be—
 
-&emsp;&emsp;(A) not less than 85 percent of the simple average price received by producers of corn, as determined by the Secretary, during themarketing years for the immediately preceding 5 crops of corn, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; but
+&emsp;&emsp;(A) not less than 85 percent of the simple average price received by producers of corn, as determined by the Secretary, during the marketing years for the immediately preceding 5 crops of corn, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; but
 
 &emsp;&emsp;(B) not more than $1.89 per bushel.
 
@@ -62,7 +62,7 @@
 
 The loan rate for a marketing assistance loan under section 7231 of this title for extra long staple cotton shall be—
 
-&emsp;(1) not less than 85 percent of the simple average price received by producers of extra long staple cotton, as determined by the Secretary, during 3 years of the 5-year period ending July 31 of the year preceding the year in which the crop is planted, excluding the year in which the average price was the highest and the year in which the average price was the lowest in the period; but
+&emsp;(1) not less than 85 percent of the simple average price received by producers of extra long staple cotton, as determined by the Secretary, during 3 years of the 5-year period ending July 31 of the year preceding the year in which the crop is planted, excluding the year in which the average price was the highest and the yearin which the average price was the lowest in the period; but
 
 &emsp;(2) not more than $0.7965 per pound.
 
@@ -96,5 +96,5 @@ The loan rate for a marketing assistance loan under section 7231 of this title f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1308, 7231, 7234, 7235, 7236 of this title.
+This section is referred to in sections 7231, 7234, 7235, 7236 of this title.
 

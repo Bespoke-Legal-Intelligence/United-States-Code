@@ -44,7 +44,7 @@ Information Development.—The Administrator \[of the National Aeronautics and S
 
 “(b)
 
-Plan.—After performing the activities described in subsection (a) the Administrator shall, in consultation with the Secretary of Agriculture, develop a plan to inform farmers and other prospective users about the use and availability of remote sensing products that may assist with agricultural and forestry applications identified in subsection (a). The Administrator shall transmit such plan to the Congress not later than180 days after the date of the enactment of this Act \[Oct. 30, 2000\].
+Plan.—After performing the activities described in subsection (a) the Administrator shall, in consultation with the Secretary of Agriculture, develop a plan to inform farmers and other prospective users about the use and availability of remote sensing products that may assist with agricultural and forestry applications identified in subsection (a). The Administrator shall transmit such plan to the Congress not later than 180 days after the date of the enactment of this Act \[Oct. 30, 2000\].
 
 “(c)
 

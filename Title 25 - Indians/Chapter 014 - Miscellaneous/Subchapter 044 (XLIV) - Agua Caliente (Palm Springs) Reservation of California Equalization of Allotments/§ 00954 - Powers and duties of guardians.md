@@ -6,7 +6,7 @@ No guardian or other fiduciary shall be appointed under State law for the estate
 
 #### (b) Management and disposition of trust property and property subject to restrictions against alienation by guardians, conservators, or fiduciaries; approved activities; approval of activities
 
-No guardian, conservator or other fiduciary appointed under State law shall, in his official capacity, participate in the management or disposition of any property or interest therein which is held in trust by the United States for a member of the band or is subject to restrictions against alienation imposed by the laws of the United States, execute or approve any use, expenditure, investment, deposit, or disposition of such property or interest therein, or proceeds therefrom, or receive any fee or other compensation for services hereafter performed with respect to such property or interest therein. The provisions of this subsection shall not preclude any such person, in his private capacity, from participating in the management or disposition of such property or interest therein with the specific approval of the Secretary of the Interior. Actions with respect to the use, expenditure, investment, deposit, or disposition of such property or interests therein, or proceeds therefrom, shall be valid and efficacious in all respects without participation of affirmation by any guardian, conservator, or other fiduciary appointed under State law.
+No guardian, conservator or other fiduciary appointed under State law shall, in his official capacity, participate in the management or disposition of any property or interest therein which is held in trust by the United States for a member of the band or is subject to restrictions against alienation imposed by the laws of the United States, execute or approve any use, expenditure, investment, deposit, or disposition of such property or interest therein, or proceeds therefrom, or receive any fee or other compensation for services hereafter performed with respect to such property or interest therein. The provisions of this subsection shall not preclude any such person, in his private capacity, fromparticipating in the management or disposition of such property or interest therein with the specific approval of the Secretary of the Interior. Actions with respect to the use, expenditure, investment, deposit, or disposition of such property or interests therein, or proceeds therefrom, shall be valid and efficacious in all respects without participation of affirmation by any guardian, conservator, or other fiduciary appointed under State law.
 
 #### (c) Reports by guardians; failure or refusal to report; fraudulent, capricious, arbitrary or grossly erroneous reports; prosecution; appropriate relief
 
@@ -32,7 +32,7 @@ The effective date of this Act, referred to in subsec. (a), probably means the d
 
 #### Codification
 
-In subsec. (e), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” onauthority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+In subsec. (e), “subchapter II of chapter 5 of title 5” substituted for “the Administrative Procedure Act” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
 
 #### Amendments
 

@@ -17,7 +17,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 390b, 390c, 450i, 3124a, 3129a, 3152, 3196 of this title; title 19 section 2155; title 21 section 679a.
+This chapter is referred to in sections 390c, 450i, 3124a, 3129a, 3152, 3196 of this title; title 19 section 2155; title 21 section 679a.
 
 
 ---

@@ -26,6 +26,10 @@ Security Awareness Training for Employees.—The Under Secretary shall require f
 
 Pub. L. 107–71, title I, §113(d), Nov. 19, 2001, 115 Stat. 622, provided that: “The amendment made by subsection (a) \[enacting this section\] applies to applications for training received after the date of enactment of this Act \[Nov. 19, 2001\].”
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### International Cooperation
 
 Pub. L. 107–71, title I, §113(c), Nov. 19, 2001, 115 Stat. 622, provided that: “The Secretary of Transportation, in consultation with the Secretary of State, shall work with the International Civil Aviation Organization and the civil aviation authorities of other countries to improve international aviation security through screening programs for flight instruction candidates.”

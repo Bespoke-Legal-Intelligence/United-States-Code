@@ -34,7 +34,7 @@ The purpose of this section is to promote competition in the delivery of diverse
 
 (2) A cable operator shall not exercise any editorial control over any video programming provided pursuant to this section, or in any other way consider the content of such programming, except that a cable operator may refuse to transmit any leased access program or portion of a leased access program which contains obscenity, indecency, or nudity and may consider such content to the minimum extent necessary to establish a reasonable price for the commercial use of designated channel capacity by an unaffiliated person.
 
-(3) Any cable system channel designated in accordance with this section shall not be used toprovide a cable service that is being provided over such system on October 30, 1984, if the provision of such programming is intended to avoid the purpose of this section.
+(3) Any cable system channel designated in accordance with this section shall not be used to provide a cable service that is being provided over such system on October 30, 1984, if the provision of such programming is intended to avoid the purpose of this section.
 
 (4)(A) The Commission shall have the authority to—
 
@@ -76,7 +76,7 @@ Any cable service offered pursuant to this section shall not be provided, or sha
 
 (2) For purposes of this subsection, the term “qualified minority programming source” means a programming source which devotes substantially all of its programming to coverage of minority viewpoints, or to programming directed at members of minority groups, and which is over 50 percent minority-owned, as the term “minority” is defined in section 309(i)(3)(C)(ii) of this title.
 
-(3) For purposes of this subsection, the term “qualified educational programming source” means a programming source which devotes substantially all of its programming to educational or instructional programming that promotes public understanding of mathematics, the sciences, the humanities, and the arts and has a documented annual expenditure on programming exceeding $15,000,000. The annual expenditure on programming means all annual costs incurred by the programming source to produce or acquire programs which are scheduled to be televised, and specifically excludes marketing, promotion, satellite transmission and operational costs, and general administrative costs.
+(3) For purposes of this subsection, the term “qualified educational programming source” means a programming source which devotes substantially all of its programming to educational or instructional programming that promotes public understanding of mathematics, the sciences, the humanities, and the arts and has adocumented annual expenditure on programming exceeding $15,000,000. The annual expenditure on programming means all annual costs incurred by the programming source to produce or acquire programs which are scheduled to be televised, and specifically excludes marketing, promotion, satellite transmission and operational costs, and general administrative costs.
 
 (4) Nothing in this subsection shall substitute for the requirements to carry qualified noncommercial educational television stations as specified under section 535 of this title.
 

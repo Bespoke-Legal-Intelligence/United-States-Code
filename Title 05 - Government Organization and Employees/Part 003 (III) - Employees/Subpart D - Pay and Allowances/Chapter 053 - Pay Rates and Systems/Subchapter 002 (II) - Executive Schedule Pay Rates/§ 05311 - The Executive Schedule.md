@@ -18,7 +18,7 @@ Historical and Revision Notes
 
 Aug. 14, 1964, Pub. L. 88–426, §302, 78 Stat. 415.
 
-The words “There is hereby established” are omitted as executed. The word “offices” is omitted as includedin “positions”. The words “Executive Schedule” are substituted for “Federal Executive Salary Schedule”.
+The words “There is hereby established” are omitted as executed. The word “offices” is omitted as included in “positions”. The words “Executive Schedule” are substituted for “Federal Executive Salary Schedule”.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 

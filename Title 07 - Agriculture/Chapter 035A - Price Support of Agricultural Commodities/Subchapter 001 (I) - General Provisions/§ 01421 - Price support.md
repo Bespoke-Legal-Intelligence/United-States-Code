@@ -232,9 +232,11 @@ Pub. L. 98–180, title III, §305, Nov. 29, 1983, 97 Stat. 1152, provided that:
 
 #### Exceptions From Transfer of Functions
 
-Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
+Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effectiveJune 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 #### Inapplicability of Section
+
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(10) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
@@ -286,7 +288,7 @@ Payment Rate.—The payment rate for compensation provided to a producer under t
 
 “(d)
 
-Payment Limitation.—The total amount of payments made to a person (as defined in section 1001(5) of the Food Security Act (7 U.S.C. 1308(5))) under this section may not exceed $40,000.”
+Payment Limitation.—The total amount of payments made to a person (as defined in section 1001(5) of the Food Security Act (7 U.S.C. 1308(5) \[now 1308(e)\])) under this section may not exceed $40,000.”
 
 #### Restoration of Eligibility for Crop Loss Assistance
 
@@ -356,7 +358,7 @@ Acreage.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (2), the acreage of the producers on the farm for an oilseed under subsection (b)(2) shall be equal to the number of acres planted to the oilseed by the producers on the farm during the 1997, 1998, or 1999 crop year, whichever is greatest, as reported by the producers on the farm to the Secretary (including any acreage reports that are filed late).
+In general.—Except as provided in paragraph (2), the acreage of the producers on the farm for anoilseed under subsection (b)(2) shall be equal to the number of acres planted to the oilseed by the producers on the farm during the 1997, 1998, or 1999 crop year, whichever is greatest, as reported by the producers on the farm to the Secretary (including any acreage reports that are filed late).
 
 &emsp;“(2)
 
@@ -448,7 +450,7 @@ Grower Compensation.—
 
 Compensation.—Of the amount made available under section 261(a)(2) \[114 Stat. 427\], $25,000,000 shall be used by the Secretary to compensate—
 
-&emsp;&emsp;“(A) growers covered by the Secretary's Declaration of Extraordinary Emergency published onMarch 2, 2000 (65 Fed. Reg. 11280), regarding the plum pox virus;
+&emsp;&emsp;“(A) growers covered by the Secretary's Declaration of Extraordinary Emergency published on March 2, 2000 (65 Fed. Reg. 11280), regarding the plum pox virus;
 
 &emsp;&emsp;“(B) growers for losses due to Pierce's disease; and
 
@@ -498,7 +500,7 @@ In general.—The Secretary shall use funds of the Commodity Credit Corporation 
 
 &emsp;“(2)
 
-Amount.—The amount of a payment made to producers on a farm of quota peanuts or additional peanuts under paragraph (1) shall be equal to the product obtained by multiplying—
+Amount.—The amount of a payment made to producers on a farm of quota peanuts or additionalpeanuts under paragraph (1) shall be equal to the product obtained by multiplying—
 
 &emsp;&emsp;“(A) the quantity of quota peanuts or additional peanuts produced or considered produced by the producers; and
 
@@ -733,7 +735,7 @@ Honey Recourse Loans.—
 
 &emsp;“(1)
 
-In general.—Notwithstanding any other provision of law, in order to assist producers of honey to market their honey in an orderly manner during a period of disastrously low prices, the Secretary may use funds made available under this section to make available recourse loans to producers of the 1999 cropof honey on fair and reasonable terms and conditions, as determined by the Secretary.
+In general.—Notwithstanding any other provision of law, in order to assist producers of honey to market their honey in an orderly manner during a period of disastrously low prices, the Secretary may use funds made available under this section to make available recourse loans to producers of the 1999 crop of honey on fair and reasonable terms and conditions, as determined by the Secretary.
 
 &emsp;“(2)
 
@@ -777,15 +779,15 @@ In general.—The Secretary shall use such amounts as are necessary of funds of 
 
 &emsp;“(2)
 
-Amount.—The amount of a payment made to producers on a farm of quota peanuts or additional peanuts under paragraph (1) shall be equal to the product obtained by multiplying—
+Amount.—The amount of a payment made to producers on a farm of quota peanuts or additionalpeanuts under paragraph (1) shall be equal to the product obtained by multiplying—
 
 &emsp;&emsp;“(A) the quantity of quota peanuts or additional peanuts produced or considered produced by the producers; and
 
-&emsp;&emsp;“(B) an amount equal to 5 percent of the loan rate established for quota peanuts or additional peanuts, respectively, under section 155 of the Agricultural Market Transition Act (7 U.S.C. 7271).
+&emsp;&emsp;“(B) an amount equal to 5 percent of the loan rate established for quota peanuts or additional peanuts, respectively, under section 155 of the Agricultural Market Transition Act (\[former\] 7 U.S.C. 7271).
 
 “(b)
 
-Condition on Payment of Salaries and Expenses.—None of the funds appropriated or otherwise made available by this Act or any other Act may be used to pay the salaries and expenses of personnel of the Department of Agriculture to carry out or enforce section 156(f) of the Agricultural Market Transition Act (7 U.S.C. 7272(f)) through fiscal year 2001.
+Condition on Payment of Salaries and Expenses.—None of the funds appropriated or otherwise made available by this Act or any other Act may be used to pay the salaries and expenses of personnel of the Department of Agriculture to carry out or enforce section 156(f) of the Agricultural Market Transition Act (\[former\] 7 U.S.C. 7272(f)) through fiscal year 2001.
 
 “(c)
 
@@ -939,7 +941,7 @@ Conforming Amendment.—\[Amended former section 7252 of this title.\]
 
 “(a)
 
-In General.—Notwithstanding section 1001(2) of the Food Security Act of 1985 (7 U.S.C. 1308(1) \[1308(2)\]), the total amount of the payments specified in section 1001(3) of that Act that a person shall be entitled to receive under the Agricultural Market Transition Act (7 U.S.C. 7201 et seq.) for one or more contract commodities and oilseeds produced during the 1999 crop year may not exceed $150,000.
+In General.—Notwithstanding section 1001(2) of the Food Security Act of 1985 (7 U.S.C. 1308(1) \[former 1308(2)\]), the total amount of the payments specified in section 1001(3) of that Act that a person shall be entitled to receive under the Agricultural Market Transition Act (7 U.S.C. 7201 et seq.) for one or more contract commodities and oilseeds produced during the 1999 crop year may not exceed $150,000.
 
 “(b) 1999
 
@@ -1133,7 +1135,7 @@ Designation as Emergency Requirement.—Such sums as are necessary to carry out 
 
 Pub. L. 106–31, title I, §104, May 21, 1999, 113 Stat. 62, provided that: “For an additional amount for the Livestock Assistance Program under Public Law 105–277 \[see section 101(a) \[title XI\] of Pub. L. 105–277, set out below\], $70,000,000: <i>Provided</i>, That for the purposes of section 1103 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 1999 (Public Law 105–277) \[set out below\], notwithstanding any other provision of law or regulation, the definition of ‘livestock’ shall include ‘reindeer’: <i>Provided further</i>, That the entire amount shall be available only to the extent an official budget request for $70,000,000, that includes designation of the entire amount of the request as an emergency requirement as defined in the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[see Short Title note set out under section 900 of Title 2, The Congress\], is transmitted by the President to the Congress: <i>Provided further</i>, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of such Act \[2 U.S.C. 901(b)(2)(A)\].”
 
-Pub. L. 105–277, div. A, §101(a) \[title XI\], Oct. 21, 1998, 112 Stat. 2681, 2681–42, as amended by Pub. L. 106–31, title III, §3018, May 21, 1999, 113 Stat. 99; Pub. L. 106–78, title VIII, §817(a)(2), title IX, §913(b), Oct. 22, 1999, 113 Stat. 1184, 1205; Pub. L. 106–387, §1(a) \[title VII, §754\], Oct. 28, 2000, 114 Stat. 1549, 1549A–42; Pub. L. 107–25, §9, Aug. 13, 2001, 115 Stat. 203, provided that:
+Pub. L. 105–277, div. A, §101(a) \[title XI\], Oct. 21, 1998, 112 Stat. 2681, 2681–42, as amended by Pub. L. 106–31,title III, §3018, May 21, 1999, 113 Stat. 99; Pub. L. 106–78, title VIII, §817(a)(2), title IX, §913(b), Oct. 22, 1999, 113 Stat. 1184, 1205; Pub. L. 106–387, §1(a) \[title VII, §754\], Oct. 28, 2000, 114 Stat. 1549, 1549A–42; Pub. L. 107–25, §9, Aug. 13, 2001, 115 Stat. 203, provided that:
 
 #### “Subtitle A—Emergency Assistance for Crop and Livestock Feed Losses Due to Disasters
 
@@ -1227,7 +1229,7 @@ Notice of damages.—The amount of the liquidated damages shall be established b
 
 &emsp;“(5)
 
-Funding for crop insurance purchase requirement.—Subject to section 1132, such sums asmay be necessary, to remain available until expended, shall be available to the Federal Crop Insurance Corporation to cover costs incurred by the Corporation as a result of the crop insurance purchase requirement of paragraph (3). Funds made available under subsections (b) and (c) may not be used to cover such costs.
+Funding for crop insurance purchase requirement.—Subject to section 1132, such sums as may be necessary, to remain available until expended, shall be available to the Federal Crop Insurance Corporation to cover costs incurred by the Corporation as a result of the crop insurance purchase requirement of paragraph (3). Funds made available under subsections (b) and (c) may not be used to cover such costs.
 
 #### “SEC. 1103. EMERGENCY LIVESTOCK FEED ASSISTANCE.
 
@@ -1257,7 +1259,7 @@ Time for Payment.—The assistance made available under this section for an elig
 
 “(a)
 
-Federal Contribution.—Subject to subsection (b), the Secretary of Agriculture shall pay $5,000,000 to the State of Georgia to help fund an indemnity fund, to be established and managed by that State, to compensate cotton producers in that State for losses incurred in 1998 or 1999 from the loss of properly stored, harvested cotton as the result of the bankruptcy of a warehouseman or other party in possession of warehouse receipts evidencing title to the commodity, an improper conversion or transfer of the cotton, or such other potential hazards as determined appropriate by the State.
+Federal Contribution.—Subject to subsection (b), the Secretary of Agriculture shall pay $5,000,000 tothe State of Georgia to help fund an indemnity fund, to be established and managed by that State, to compensate cotton producers in that State for losses incurred in 1998 or 1999 from the loss of properly stored, harvested cotton as the result of the bankruptcy of a warehouseman or other party in possession of warehouse receipts evidencing title to the commodity, an improper conversion or transfer of the cotton, or such other potential hazards as determined appropriate by the State.
 
 “(b)
 
@@ -1349,7 +1351,7 @@ Funding. —An amount of $250,000 is hereby appropriated to carry out subsection
 
 “(a)
 
-Issuance of Regulations.—As soon as practicable after the date of enactment of this Act \[Oct. 21, 1998\], the Secretary and the Commodity Credit Corporation, as appropriate, shall issue such regulations as are necessary to implement subtitles A, B, and C of this title. The issuance of the regulations shall be made without regard to—
+Issuance of Regulations.—As soon as practicable after the date of enactment of this Act \[Oct. 21,1998\], the Secretary and the Commodity Credit Corporation, as appropriate, shall issue such regulations as are necessary to implement subtitles A, B, and C of this title. The issuance of the regulations shall be made without regard to—
 
 &emsp;“(1) the notice and comment provisions of section 553 of title 5, United States Code;
 
@@ -1389,7 +1391,7 @@ Pub. L. 101–624, title XXV, §2515, Nov. 28, 1990, 104 Stat. 4075, authorized 
 
 #### Recordkeeping Improvement
 
-Pub. L. 101–624, title XXV, §2516, Nov. 28, 1990, 104 Stat. 4075, which provided that section could be cited as “Agricultural Program Reporting and RecordkeepingImprovement Act of 1990”, directed Secretary of Agriculture, not later than 240 days after Nov. 28, 1990, to submit to Congress a report containing specific proposals for reducing and simplifying recordkeeping and other paperwork required of producers participating in programs administered by Secretary and directed Secretary to take appropriate action to integrate various data bases of Department relating to agricultural program data, and to facilitate sharing of relevant data among various agencies of Department.
+Pub. L. 101–624, title XXV, §2516, Nov. 28, 1990, 104 Stat. 4075, which provided that section could be cited as “Agricultural Program Reporting and Recordkeeping Improvement Act of 1990”, directed Secretary of Agriculture, not later than 240 days after Nov. 28, 1990, to submit to Congress a report containing specific proposals for reducing and simplifying recordkeeping and other paperwork required of producers participating in programs administered by Secretary and directed Secretary to take appropriate action to integrate various data bases of Department relating to agricultural program data, and to facilitate sharing of relevant data among various agencies of Department.
 
 #### Readjustment of Support Levels
 
@@ -1401,7 +1403,7 @@ Pub. L. 101–220, §14, Dec. 12, 1989, 103 Stat. 1885, provided that effective 
 
 #### Pilot Project on Clean Grain Premiums
 
-Pub. L. 100–518, §3, Oct. 24, 1988, 102 Stat. 2587, directed Secretary of Agriculture to conduct study of schedule of premiums and discounts applied to loans made in accordance with this chapter to determine how premiums and discounts could be used to encourage production, marketing, and exporting of high quality, clean grain, to submit, not later than May 1, 1989, to Congress report on results of such study, to include recommendations with respect to schedule of premiums and discounts in such report, and to establish pilot project for 1989 crops of wheat, soybeans, and feed grains to test effectiveness of such recommendations, and to submit report describing result of project, not later than 180 days after end of 1989 marketing year for feed grains.
+Pub. L. 100–518, §3, Oct. 24, 1988, 102 Stat. 2587, directed Secretary of Agriculture to conduct study ofschedule of premiums and discounts applied to loans made in accordance with this chapter to determine how premiums and discounts could be used to encourage production, marketing, and exporting of high quality, clean grain, to submit, not later than May 1, 1989, to Congress report on results of such study, to include recommendations with respect to schedule of premiums and discounts in such report, and to establish pilot project for 1989 crops of wheat, soybeans, and feed grains to test effectiveness of such recommendations, and to submit report describing result of project, not later than 180 days after end of 1989 marketing year for feed grains.
 
 #### Emergency Crop Loss Assistance
 

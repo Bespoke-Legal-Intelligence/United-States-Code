@@ -110,7 +110,7 @@ The Director, pursuant to regulations which the Secretary shall prescribe, may e
 
 #### (g) Use of funds
 
-Not less than 90 percent of the funds appropriated under this subchapter for any fiscal year shall be expended by the Director to carry out activities under this subchapter through grants, contracts, or cooperative agreements. Up to 10 percent of the funds appropriated under this subchapter for any fiscal year may be expended directly for the purpose of carrying out the functions of the Director under this section.
+Not less than 90 percent of the funds appropriated under this subchapter for any fiscal year shall be expended by the Director to carry out activities under this subchapter through grants, contracts, or cooperative agreements. Up to 10 percent of the funds appropriated under this subchapter for any fiscal year may be expendeddirectly for the purpose of carrying out the functions of the Director under this section.
 
 #### (h) 5-year plan
 
@@ -176,7 +176,7 @@ The Developmental Disabilities Assistance and Bill of Rights Act of 2000, referr
 
 Provisions similar to this section were contained in section 761a of this title prior to the general amendment of this subchapter by Pub. L. 105–220.
 
-A prior section 762, Pub. L. 93–112, title II, §204, formerly §202, Sept. 26, 1973, 87 Stat. 375, amended Pub. L. 93–516, title I, §111(h), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, §111(h), Nov. 21, 1974, 89 Stat. 2–6; renumbered and amended Pub. L. 95–602, title I, §§109(3), 110, 111, Nov. 6, 1978, 92 Stat. 2963, 2966; Pub. L. 98–221, title I, §§104(a)(5), 123, Feb. 22, 1984, 98 Stat. 18, 24; Pub. L. 99–506, title I, §103(d)(2)(C), (h)(2), title III, §§302(b), 305,Oct. 21, 1986, 100 Stat. 1810, 1811, 1821, 1822; Pub. L. 100–630, title II, §203(d), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–569, title I, §102(p)(14), title II, §205, Oct. 29, 1992, 106 Stat. 4358, 4403; Pub. L. 103–73, title I, §109(b), Aug. 11, 1993, 107 Stat. 726, related to research, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 764 of this title.
+A prior section 762, Pub. L. 93–112, title II, §204, formerly §202, Sept. 26, 1973, 87 Stat. 375, amended Pub. L. 93–516, title I, §111(h), Dec. 7, 1974, 88 Stat. 1621; Pub. L. 93–651, title I, §111(h), Nov. 21, 1974, 89 Stat. 2–6; renumbered and amended Pub. L. 95–602, title I, §§109(3), 110, 111, Nov. 6, 1978, 92 Stat. 2963, 2966; Pub. L. 98–221, title I, §§104(a)(5), 123, Feb. 22, 1984, 98 Stat. 18, 24; Pub. L. 99–506, title I, §103(d)(2)(C), (h)(2), title III, §§302(b), 305, Oct. 21, 1986, 100 Stat. 1810, 1811, 1821, 1822; Pub. L. 100–630, title II, §203(d), Nov. 7, 1988, 102 Stat. 3308; Pub. L. 102–569, title I, §102(p)(14), title II, §205, Oct. 29, 1992, 106 Stat. 4358, 4403; Pub. L. 103–73, title I, §109(b), Aug. 11, 1993, 107 Stat. 726, related to research, prior to the general amendment of this subchapter by Pub. L. 105–220. See section 764 of this title.
 
 #### Amendments
 

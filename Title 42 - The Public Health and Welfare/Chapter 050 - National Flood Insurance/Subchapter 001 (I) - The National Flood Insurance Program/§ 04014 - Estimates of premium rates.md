@@ -32,7 +32,7 @@ The Director shall give priority to conducting studies and investigations and ma
 
 #### (d) Parishes of Louisiana; premium rates
 
-Notwithstanding any other provision of law, any structure existing on December 31, 1973, and located within Avoyelles, Evangeline, Rapides, or Saint Landry Parish in the State of Louisiana, which the Secretary determines is subjectto additional flood hazards as a result of the construction or operation of the Atchafalaya Basin Levee System, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates that shall not exceed those which would be applicable if such additional hazards did not exist.
+Notwithstanding any other provision of law, any structure existing on December 31, 1973, and located within Avoyelles, Evangeline, Rapides, or Saint Landry Parish in the State of Louisiana, which the Secretary determines is subject to additional flood hazards as a result of the construction or operation of the Atchafalaya Basin Levee System, shall be eligible for flood insurance under this chapter (if and to the extent it is eligible for such insurance under the other provisions of this chapter) at premium rates that shall not exceed those which would be applicable if such additional hazards did not exist.
 
 #### (e) Eligibility of community making adequate progress on construction of flood protection system for rates not exceeding those applicable to completed flood protection system; determination of adequate progress
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of law, any community that has made adequate
 
 #### (f) Availability of flood insurance in communities restoring disaccredited flood protection systems; criteria; rates
 
-Notwithstanding any other provision of law, this subsection shall only apply in a community which has been determined by the Director of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so. Except as provided in this subsection, in such a community, flood insurance shall be made available to those properties impacted by the disaccreditation of the flood protection system at premium rates that do not exceed those which would be applicable to any property located in an area of special flood hazard, the construction of which was started prior to the effective date of the initial Flood Insurance Rate Map published by the Director for the community in which such property is located. A revised Flood Insurance Rate Map shall be prepared for the community to delineate as Zone AR the areas of special flood hazard that result from the disaccreditation of the flood protection system. A community will be considered to be in the process of restoration if—
+Notwithstanding any other provision of law, this subsection shall only apply in a community which has been determined by the Director of the Federal Emergency Management Agency to be in the process of restoring flood protection afforded by a flood protection system that had been previously accredited on a Flood Insurance Rate Map as providing 100-year frequency flood protection but no longer does so. Except as provided in this subsection, in such a community, flood insurance shall be made available to those properties impacted by the disaccreditation of the flood protection system at premium rates that do not exceed those which would be applicable to any property located in an area of special flood hazard, the construction of which was started prior to the effective date of the initial Flood Insurance Rate Map published by the Director for the community in which such property is located. A revised Flood Insurance Rate Map shall be prepared for the community to delineate as Zone AR the areas of special flood hazard that result from the disaccreditation of the flood protection system. A community willbe considered to be in the process of restoration if—
 
 &emsp;(1) the flood protection system has been deemed restorable by a Federal agency in consultation with the local project sponsor;
 
@@ -67,6 +67,10 @@ Subsec. (a)(2). Pub. L. 101–508, §2302(e)(1)(D), inserted before semicolon �
 1974—Subsec. (e). Pub. L. 93–383 added subsec. (e).
 
 1973—Subsec. (d). Pub. L. 93–234 added subsec. (d).
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Study of Economic Effects of Charging Actuarially Based Premium Rates for Pre-FIRM Structures
 

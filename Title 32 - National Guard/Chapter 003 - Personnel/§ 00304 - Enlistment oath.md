@@ -6,7 +6,7 @@ Each person enlisting in the National Guard shall sign an enlistment contract an
 
 &emsp;“I, \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States and of the State of \_\_\_\_\_\_\_\_\_\_\_\_ against all enemies, foreign and domestic; that I will bear true faith and allegiance to them; and that I will obey the orders of the President of the United States and the Governor of \_\_\_\_\_\_\_\_\_\_\_\_ and the orders of the officers appointed over me, according to law and regulations. So help me God.”
 
-> The oath may be taken before any officer of the National Guard of the State or Territory, or of Puerto Rico, or the District of Columbia, as thecase may be, or before any other person authorized by the law of the jurisdiction concerned to administer oaths of enlistment in the National Guard.
+> The oath may be taken before any officer of the National Guard of the State or Territory, or of Puerto Rico, or the District of Columbia, as the case may be, or before any other person authorized by the law of the jurisdiction concerned to administer oaths of enlistment in the National Guard.
 
 (Aug. 10, 1956, ch. 1041, 70A Stat. 602; Pub. L. 87–751, §2, Oct. 5, 1962, 76 Stat. 748; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059.)
 

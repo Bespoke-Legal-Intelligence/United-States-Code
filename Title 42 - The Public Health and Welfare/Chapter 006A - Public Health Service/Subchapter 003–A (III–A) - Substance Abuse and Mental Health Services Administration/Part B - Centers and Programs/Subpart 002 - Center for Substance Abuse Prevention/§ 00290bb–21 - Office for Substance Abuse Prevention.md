@@ -14,7 +14,7 @@ The Director of the Prevention Center shall—
 
 &emsp;(3) develop effective drug and alcohol abuse prevention literature (including literature on the adverse effects of cocaine free base (known as “crack”));
 
-&emsp;(4) in cooperation with the Secretary of Education, assure the widespread dissemination of prevention materials among States, political subdivisions, and school systems;
+&emsp;(4) in cooperation with the Secretary of Education, assure the widespread dissemination ofprevention materials among States, political subdivisions, and school systems;
 
 &emsp;(5) support clinical training programs for substance abuse counselors and other health professionals involved in drug abuse education, prevention,; <sup>2</sup>
 

@@ -24,11 +24,11 @@
 
 &emsp;&emsp;(vi) device similar to any of the devices described in the preceding clauses;
 
-&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Secretary finds is generally recognized as particularly suitable for sporting purposes) by whatevername known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
+&emsp;(B) any type of weapon (other than a shotgun or a shotgun shell which the Attorney General finds is generally recognized as particularly suitable for sporting purposes) by whatever name known which will, or which may be readily converted to, expel a projectile by the action of an explosive or other propellant, and which has any barrel with a bore of more than one-half inch in diameter; and
 
 &emsp;(C) any combination of parts either designed or intended for use in converting any device into any destructive device described in subparagraph (A) or (B) and from which a destructive device may be readily assembled.
 
-> The term “destructive device” shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 4684(2), 4685, or 4686 of title 10; or any other device which the Secretary of the Treasury finds is not likely to be used as a weapon, is an antique, or is a rifle which the owner intends to use solely for sporting, recreational or cultural purposes.
+> The term “destructive device” shall not include any device which is neither designed nor redesigned for use as a weapon; any device, although originally designed for use as a weapon, which is redesigned for use as a signaling, pyrotechnic, line throwing, safety, or similar device; surplus ordnance sold, loaned, or given by the Secretary of the Army pursuant to the provisions of section 4684(2), 4685, or 4686 of title 10; or any other device which the Attorney General finds is not likely to be used as a weapon, is an antique, or is a rifle which the owner intends to use solely for sporting, recreational or cultural purposes.
 
 (5) The term “shotgun” means a weapon designed or redesigned, made or remade, and intended to be fired from the shoulder and designed or redesigned and made or remade to use the energy of an explosive to fire through a smooth bore either a number of ball shot or a single projectile for each single pull of the trigger.
 
@@ -46,7 +46,7 @@
 
 (12) The term “pawnbroker” means any person whose business or occupation includes the taking or receiving, by way of pledge or pawn, of any firearm as security for the payment or repayment of money.
 
-(13) The term “collector” means any person who acquires, holds, or disposes of firearms as curios or relics, as the Secretary shall by regulation define, and the term “licensed collector” means any such person licensed under the provisions of this chapter.
+(13) The term “collector” means any person who acquires, holds, or disposes of firearms as curios or relics, as the Attorney General shall by regulation define, and the term “licensed collector” means any such person licensed under the provisions of this chapter.
 
 (14) The term “indictment” includes an indictment or information in any court under which a crime punishable by imprisonment for a term exceeding one year may be prosecuted.
 
@@ -62,7 +62,7 @@
 
 &emsp;&emsp;(ii) uses rimfire or conventional centerfire fixed ammunition which is no longer manufactured in the United States and which is not readily available in the ordinary channels of commercial trade; or
 
-&emsp;(C) any muzzle loading rifle, muzzle loading shotgun, or muzzle loading pistol, which is designed to use black powder, or a black powder substitute, and which cannot use fixed ammunition. For purposes of this subparagraph, the term “antique firearm” shall not include any weapon which incorporates a firearm frame or receiver, any firearm which is converted into a muzzle loading weapon, or any muzzle loading weapon which can be readily converted to fire fixed ammunition by replacing the barrel, bolt, breechblock, or any combination thereof.
+&emsp;(C) any muzzle loading rifle, muzzle loading shotgun, or muzzle loading pistol, which is designed to use black powder, or a black powder substitute, and which cannot use fixed ammunition. For purposes of this subparagraph, the term “antique firearm” shall not include any weapon which incorporates a firearm frame or receiver, any firearm which is converted into a muzzle loading weapon, or any muzzle loading weapon which can be readily converted tofire fixed ammunition by replacing the barrel, bolt, breechblock, or any combination thereof.
 
 (17)(A) The term “ammunition” means ammunition or cartridge cases, primers, bullets, or propellent powder designed for use in any firearm.
 
@@ -72,11 +72,11 @@
 
 &emsp;(ii) a full jacketed projectile larger than .22 caliber designed and intended for use in a handgun and whose jacket has a weight of more than 25 percent of the total weight of the projectile.
 
-(C) The term “armor piercing ammunition” does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile whichthe Secretary finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Secretary finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.
+(C) The term “armor piercing ammunition” does not include shotgun shot required by Federal or State environmental or game regulations for hunting purposes, a frangible projectile designed for target shooting, a projectile which the Attorney General finds is primarily intended to be used for sporting purposes, or any other projectile or projectile core which the Attorney General finds is intended to be used for industrial purposes, including a charge used in an oil and gas well perforating device.
 
-(18) The term “Secretary” or “Secretary of the Treasury” means the Secretary of the Treasury or his delegate.
+(18) The term “Attorney General” means the Attorney General of the United States <sup>1</sup>
 
-(19) The term “published ordinance” means a published law of any political subdivision of a State which the Secretary determines to be relevant to the enforcement of this chapter and which is contained on a list compiled by the Secretary, which list shall be published in the Federal Register, revised annually, and furnished to each licensee under this chapter.
+(19) The term “published ordinance” means a published law of any political subdivision of a State which the Attorney General determines to be relevant to the enforcement of this chapter and which is contained on a list compiled by the Attorney General, which list shall be published in the Federal Register, revised annually, and furnished to each licensee under this chapter.
 
 (20) The term “crime punishable by imprisonment for a term exceeding one year” does not include—
 
@@ -224,11 +224,13 @@
 
 &emsp;(B) a device incorporated into the design of the firearm that is designed to prevent the operation of the firearm by anyone not having access to the device; or
 
-&emsp;(C) a safe, gun safe, gun case, lock box, or other device that is designed to be or can beused to store a firearm and that is designed to be unlocked only by means of a key, a combination, or other similar means.
+&emsp;(C) a safe, gun safe, gun case, lock box, or other device that is designed to be or can be used to store a firearm and that is designed to be unlocked only by means of a key, a combination, or other similar means.
+
+(35) The term “body armor” means any product sold or offered for sale, in interstate or foreign commerce, as personal protective body covering intended to protect against gunfire, regardless of whether the product is to be worn alone or is sold as a complement to another product or garment.
 
 (b) For the purposes of this chapter, a member of the Armed Forces on active duty is a resident of the State in which his permanent duty station is located.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 226; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1214; Pub. L. 93–639, §102, Jan. 4, 1975, 88 Stat. 2217; Pub. L. 99–308, §101, May 19, 1986, 100 Stat. 449; Pub. L. 99–360, §1(b), July 8, 1986, 100 Stat. 766; Pub. L. 99–408, §1, Aug. 28, 1986, 100 Stat. 920; Pub. L. 101–647, title XVII, §1702(b)(2), title XXII, §2204(a), Nov. 29, 1990, 104 Stat. 4845, 4857; Pub. L. 103–159, title I, §102(a)(2), Nov. 30, 1993, 107 Stat. 1539; Pub. L. 103–322, title XI, §§110102(b), 110103(b), 110401(a), 110519, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1997, 1999, 2014, 2020, 2150; Pub. L. 104–88, title III, §303(1), Dec. 29, 1995, 109 Stat. 943; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §658(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–371; Pub. L. 105–277, div. A, §101(b) \[title I, §119(a)\], (h) \[title I, §115\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–69, 2681–480, 2681–490; Pub. L. 107–273, div. C, title I, §11009(e)(1), Nov. 2, 2002, 116 Stat. 1821; Pub. L. 107–296, title XI, §1112(f)(1)–(3), (6), Nov. 25, 2002, 116 Stat. 2276.)
 
 #### Amendment of Section
 
@@ -241,6 +243,18 @@ For definition of Canal Zone, referred to in subsec. (a)(2), see section 3602(b)
 The date of enactment of the Violent Crime Control and Law Enforcement Act of 1994, referred to in subsec. (a)(31)(A), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
 #### Amendments
+
+2002—Subsec. (a)(4). Pub. L. 107–296, §1112(f)(2), substituted “Attorney General” for “Secretary of the Treasury” in concluding provisions.
+
+Subsec. (a)(4)(B). Pub. L. 107–296, §1112(f)(1), substituted “Attorney General” for “Secretary”.
+
+Subsec. (a)(13), (17)(C). Pub. L. 107–296, §1112(f)(6), substituted “Attorney General” for “Secretary” wherever appearing.
+
+Subsec. (a)(18). Pub. L. 107–296, §1112(f)(3), added par. (18) and struck out former par. (18) which read as follows: “The term ‘Secretary’ or ‘Secretary of the Treasury’ means the Secretary of the Treasury or his delegate.”
+
+Subsec. (a)(19). Pub. L. 107–296, §1112(f)(6), substituted “Attorney General” for “Secretary” in two places.
+
+Subsec. (a)(35). Pub. L. 107–273 added par. (35).
 
 1998—Subsec. (a)(5). Pub. L. 105–277, §101(h) \[title I, §115(1)\], substituted “an explosive” for “the explosive in a fixed shotgun shell”.
 
@@ -305,6 +319,10 @@ Subsec. (a)(23), (24). Pub. L. 99–308, §101(6), added pars. (23) and (24).
 1968—Subsec. (a). Pub. L. 90–618 inserted definitions of “collector”, “licensed collector”, and “crime punishable by imprisonment for a term exceeding one year”, amended definitions of “person”, “whoever”, “interstate or foreign commerce”, “State”, “firearm”, “destructive device”, “dealer”, “indictment”, “fugitive from justice”, “antique firearm”, “ammunition”, and “published ordinance”, and reenacted without change definitions of “shotgun”, “short-barreled shotgun”, “rifle”, “short-barreled rifle”, “importer”, “licensed importer”, “manufacturer”, “licensed manufacturer”, “licensed dealer”, “pawnbroker”, and “Secretary” or “Secretary of the Treasury”.
 
 Subsec. (b). Pub. L. 90–618 substituted provisions determining that a member of the armed forces on active duty is a resident of the State in which his permanent duty station is located for provisions defining “firearm”, “destructive device”, and “crime punishable by imprisonment for a term exceeding one year”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1998 Amendment
 
@@ -376,7 +394,7 @@ Section 1702(a) of Pub. L. 101–647 provided that: “This section \[amending t
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–649, §1, Nov. 10, 1988, 102 Stat. 3816, provided that: “This Act \[amending sections 922, 924, and 925 of this title and enacting provisions set out as notesunder section 922 of this title and section 1356 of former Title 49, Transportation\] may be cited as the ‘Undetectable Firearms Act of 1988’.”
+Pub. L. 100–649, §1, Nov. 10, 1988, 102 Stat. 3816, provided that: “This Act \[amending sections 922, 924, and 925 of this title and enacting provisions set out as notes under section 922 of this title and section 1356 of former Title 49, Transportation\] may be cited as the ‘Undetectable Firearms Act of 1988’.”
 
 #### Short Title of 1986 Amendments
 
@@ -444,7 +462,7 @@ Section 901 of title IV of Pub. L. 90–351 provided that:
 
 &emsp;“(5) that the sale or other disposition of concealable weapons by importers, manufacturers, and dealers holding Federal licenses, to nonresidents of the State in which the licensees’ places of business are located, has tended to make ineffective the laws, regulations, and ordinances in the several States and local jurisdictions regarding such firearms;
 
-&emsp;“(6) that there is a casual relationship between the easy availability of firearms other than a rifle or shotgun and juvenile and youthful criminal behavior, and that such firearms have been widely sold by federally licensed importers and dealers to emotionallyimmature, or thrill-bent juveniles and minors prone to criminal behavior;
+&emsp;“(6) that there is a casual relationship between the easy availability of firearms other than a rifle or shotgun and juvenile and youthful criminal behavior, and that such firearms have been widely sold by federally licensed importers and dealers to emotionally immature, or thrill-bent juveniles and minors prone to criminal behavior;
 
 &emsp;“(7) that the United States has become the dumping ground of the castoff surplus military weapons of other nations, and that such weapons, and the large volume of relatively inexpensive pistols and revolvers (largely worthless for sporting purposes), imported into the United States in recent years, has contributed greatly to lawlessness and to the Nation's law enforcement problems;
 
@@ -454,11 +472,11 @@ Section 901 of title IV of Pub. L. 90–351 provided that:
 
 “(b) The Congress further hereby declares that the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15, Commerce and Trade\] is to cope with the conditions referred to in the foregoing subsection, and that it is not the purpose of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] to place any undue or unnecessary Federal restrictions or burdens on lawabiding citizens with respect to the acquisition, possession, or use of firearms appropriate to the purpose of hunting, trap shooting, target shooting, personal protection, or any other lawful activity, and that this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\] is not intended to discourage or eliminate the private ownership or use of firearms by law-abiding citizens for lawful purposes, or provide for the imposition by Federal regulations of any procedures or requirements other than those reasonably necessary to implement and effectuate the provisions of this title \[enacting this chapter and repealing sections 901 to 910 of Title 15\].”
 
-#### Administration and Enforcement by Secretary of Treasury
+#### Administration and Enforcement
 
-Section 103 of title I of Pub. L. 90–618 provided that: “The administration and enforcement of the amendment made by this title \[amending this chapter\] shall be vested in the Secretary of the Treasury.”
+Section 103 of title I of Pub. L. 90–618, as amended by Pub. L. 107–296, title XI, §1112(s), Nov. 25, 2002, 116 Stat. 2279, provided that: “The administration and enforcement of the amendment made by this title \[amending this chapter\] shall be vested in the Attorney General.”
 
-Section 903 of title IV of Pub. L. 90–351 provided that: “The administration and enforcement of the amendment made by this title \[enacting this chapter and provisions set out as notes under this section\] shall be vested in the Secretary of the Treasury.”
+Section 903 of title IV of Pub. L. 90–351 provided that: “The administration and enforcement of the amendment made by this title \[enacting this chapter and provisions set out as notes under this section\] shall be vested in the Secretary of the Treasury \[now Attorney General\].”
 
 #### Modification of Other Laws
 
@@ -480,9 +498,11 @@ Section 904 of title IV of Pub. L. 90–351, as amended by Pub. L. 99–514, §2
 
 #### Definition of “Handgun”
 
-Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. The term also includes any combination of parts from which a handgun can be assembled.”
+Section 10 of Pub. L. 99–408 provided that: “For purposes of section 921(a)(17)(B) of title 18, United States Code, as added by the first section of this Act, ‘handgun’ means any firearm including a pistol or revolver designed to be fired by the use of a single hand. Theterm also includes any combination of parts from which a handgun can be assembled.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 842, 845, 923, 925, 1791, 1993, 2332a, 3565, 3583, 3592 of this title; title 8 sections 1101, 1227; title 10 sections 2722, 4687; title 20 sections 3351, 7151; title 21 section 881; title 22 section 2778; title 26 section 5845; title 42 section 13726b.
+This section is referred to in sections 842, 845, 923, 925, 1791, 1993, 2332a, 3565, 3583, 3592 of this title; title 8 sections 1101, 1227; title 10 sections 2722, 4687; title 20 sections 3351, 7151; title 21 section 881; title 22 section 2778; title 26 section 5845; title 40 section 5104; title 42 section 13726b.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

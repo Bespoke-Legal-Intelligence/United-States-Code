@@ -2,7 +2,7 @@
 
 (a)
 
-Research on Effect of Automation on Performance.—To develop the means necessary to establish appropriate selection criteria and training methodologies for the next generation of air traffic controllers, the Administrator of the Federal Aviation Administration shall conduct research to study the effect of automation on the performance of the next generation of air traffic controllers and the air traffic control system. The research shall include investigating—
+Research on Effect of Automation on Performance.—To develop the means necessaryto establish appropriate selection criteria and training methodologies for the next generation of air traffic controllers, the Administrator of the Federal Aviation Administration shall conduct research to study the effect of automation on the performance of the next generation of air traffic controllers and the air traffic control system. The research shall include investigating—
 
 &emsp;(1) methods for improving and accelerating future air traffic controller training through the application of advanced training techniques, including the use of simulation technology;
 
@@ -16,7 +16,7 @@ Research on Effect of Automation on Performance.—To develop the means necessar
 
 (b)
 
-Research on Human Factor Aspects of Automation.—The Administrators of the Federal Aviation Administration and National Aeronautics and Space Administration may make an agreement for the use of the NationalAeronautics and Space Administration's unique human factor facilities and expertise in conducting research activities to study the human factor aspects of the highly automated environment for the next generation of air traffic controllers. The research activities shall include investigating—
+Research on Human Factor Aspects of Automation.—The Administrators of the Federal Aviation Administration and National Aeronautics and Space Administration may make an agreement for the use of the National Aeronautics and Space Administration's unique human factor facilities and expertise in conducting research activities to study the human factor aspects of the highly automated environment for the next generation of air traffic controllers. The research activities shall include investigating—
 
 &emsp;(1) human perceptual capabilities and the effect of computer-aided decision making on the workload and performance of air traffic controllers;
 

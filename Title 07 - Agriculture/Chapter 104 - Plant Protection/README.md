@@ -50,6 +50,11 @@
 | (d) | Federal cost share of treatment. |
 | (e) | Training. |
 | [7718\.](Subchapter%20001%20%28I%29%20-%20Plant%20Protection/%C2%A7%2007718%20-%20Certification%20for%20exports.md) | Certification for exports. |
+| [7719\.](Subchapter%20001%20%28I%29%20-%20Plant%20Protection/%C2%A7%2007719%20-%20Methyl%20bromide.md) | Methyl bromide. |
+| (a) | In general. |
+| (b) | Methyl bromide alternative. |
+| (c) | Registry. |
+| (d) | Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -68,7 +73,6 @@
 | (c) | Enforcement of subpoena. |
 | (d) | Compensation. |
 | (e) | Procedures. |
-| (f) | Scope of subpoena. |
 | [7734\.](Subchapter%20002%20%28II%29%20-%20Inspection%20and%20Enforcement/%C2%A7%2007734%20-%20Penalties%20for%20violation.md) | Penalties for violation. |
 | (a) | Criminal penalties. |
 | (b) | Civil penalties. |
@@ -123,8 +127,13 @@
 | [7772\.](Subchapter%20004%20%28IV%29%20-%20Authorization%20of%20Appropriations/%C2%A7%2007772%20-%20Transfer%20authority.md) | Transfer authority. |
 | (a) | Authority to transfer certain funds. |
 | (b) | Availability. |
+| (c) | Secretarial discretion. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in sections 1961, 8401 of this title; title 6 section 231.
 
 
 ---

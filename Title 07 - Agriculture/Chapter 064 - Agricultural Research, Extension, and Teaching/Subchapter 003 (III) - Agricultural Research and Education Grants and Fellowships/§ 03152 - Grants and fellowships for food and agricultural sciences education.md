@@ -2,21 +2,21 @@
 
 #### (a) Higher education teaching programs
 
-The Secretary shall promote and strengthen higher education in the food and agricultural sciences by formulating and administering programs to enhance college and university teaching programs in agriculture, natural resources, forestry, veterinary medicine, home economics, and disciplines closely allied to the food and agricultural system.
+The Secretary shall promote and strengthen higher education in the food and agricultural sciences by formulating and administering programs to enhance college and university teaching programs in agriculture, natural resources, forestry, veterinary medicine, home economics, disciplines closely allied to the food and agricultural system, and rural economic, community, and business development.
 
 #### (b) Grants
 
 The Secretary may make competitive grants (or grants without regard to any requirement for competition) to land-grant colleges and universities, to colleges and universities having significant minority enrollments and a demonstrable capacity to carry out the teaching of food and agricultural sciences, and to other colleges and universities having a demonstrable capacity to carry out the teaching of food and agricultural sciences, for a period not to exceed 5 years—
 
-&emsp;(1) to strengthen institutional capacities, including curriculum, faculty, scientific instrumentation, instruction delivery systems, and student recruitment and retention, to respond to identified State, regional, national, or international educational needs in the food and agricultural sciences;
+&emsp;(1) to strengthen institutional capacities, including curriculum, faculty, scientific instrumentation, instruction delivery systems, and student recruitment and retention, to respond to identified State, regional, national, or international educational needs in the food and agricultural sciences, or in rural economic, community, and business development;
 
-&emsp;(2) to attract and support undergraduate and graduate students in order to educate the students in national need areas of the food and agricultural sciences;
+&emsp;(2) to attract and support undergraduate and graduate students in order to educate the students in national need areas of the food and agricultural sciences, or in rural economic, community, and business development;
 
-&emsp;(3) to facilitate cooperative initiatives between two or more eligible institutions, or between eligible institutions and units of State government or organizations in the private sector, to maximize the development and use of resources such as faculty, facilities, and equipment to improve food and agricultural sciences teaching programs;
+&emsp;(3) to facilitate cooperative initiatives between two or more eligible institutions, or between eligible institutions and units of State government or organizations in the private sector, to maximize the development and use of resources such as faculty, facilities, and equipment to improve food and agricultural sciences teaching programs, or teaching programs emphasizing rural economic, community, and business development;
 
-&emsp;(4) to design and implement food and agricultural programs to build teaching and research capacity at colleges and universities having significant minority enrollments;
+&emsp;(4) to design and implement food and agricultural programs, or programs emphasizing rural economic, community, and business development, to build teaching and research capacity at colleges and universities having significant minority enrollments;
 
-&emsp;(5) to conduct undergraduate scholarship programs to meet national and international needs for training food and agricultural scientists and professionals; and
+&emsp;(5) to conduct undergraduate scholarship programs to meet national and international needs for training food and agricultural scientists and professionals, or professionals in rural economic, community, and business development; and
 
 &emsp;(6) to conduct graduate and postdoctoral fellowship programs to attract highly promising individuals to research or teaching careers in the food and agricultural sciences.
 
@@ -32,11 +32,11 @@ In awarding grants under subsection (b) of this section, the Secretary shall giv
 
 #### (1) In general
 
-&emsp;To be eligible for a grant under subsection (b) of this section, a recipient institution musthave a significant demonstrable commitment to higher education teaching programs in the food and agricultural sciences and to each specific subject area for which the grant is to be used.
+&emsp;To be eligible for a grant under subsection (b) of this section, a recipient institution must have a significant demonstrable commitment to higher education teaching programs in the food and agricultural sciences, or in rural economic, community, and business development, and to each specific subject area for which the grant is to be used.
 
 #### (2) Minority groups
 
-&emsp;The Secretary may set aside a portion of the funds appropriated for the awarding of grants under subsection (b) of this section, and make such amounts available only for grants to eligible colleges and universities that the Secretary determines have unique capabilities for achieving the objective of full representation of minority groups in the food and agricultural sciences workforce of the United States.
+&emsp;The Secretary may set aside a portion of the funds appropriated for the awarding of grants under subsection (b) of this section, and make such amounts available only for grants to eligible colleges and universities that the Secretary determines have unique capabilities for achieving the objective of full representation of minority groups in the food and agricultural sciences workforce, or in the rural economic, community, and business development workforce, of the United States.
 
 #### (3) Research foundations
 
@@ -96,7 +96,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 #### (3) Grants
 
-&emsp;The Secretary may make competitive or noncompetitive grants, for grant periods not to exceed 5 years, to public secondary schools, and institutions of higher education that award an associate's degree, that the Secretary determines have made a commitment to teaching agriscience and agribusiness—
+&emsp;The Secretary may make competitive or noncompetitive grants, for grant periods not to exceed 5 years, to public secondary schools, and institutions of higher education thataward an associate's degree, that the Secretary determines have made a commitment to teaching agriscience and agribusiness—
 
 &emsp;&emsp;(A) to enhance curricula in agricultural education;
 
@@ -106,7 +106,7 @@ Funds authorized in section 22 of the Act of June 29, 1935 (49 Stat. 439, chapte
 
 &emsp;&emsp;(D) to promote the incorporation of agriscience and agribusiness subject matter into other instructional programs, particularly classes in science, business, and consumer education;
 
-&emsp;&emsp;(E) to facilitate joint initiatives by the grant recipient with other secondaryschools, institutions of higher education that award an associate's degree, and institutions of higher education that award a bachelor's degree to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve agriscience and agribusiness education; and
+&emsp;&emsp;(E) to facilitate joint initiatives by the grant recipient with other secondary schools, institutions of higher education that award an associate's degree, and institutions of higher education that award a bachelor's degree to maximize the development and use of resources, such as faculty, facilities, and equipment, to improve agriscience and agribusiness education; and
 
 &emsp;&emsp;(F) to support other initiatives designed to meet local, State, regional, or national needs related to promoting excellence in agriscience and agribusiness education.
 
@@ -116,9 +116,9 @@ The Federal Advisory Committee Act and title XVIII of the Food and Agriculture A
 
 #### (<i>l</i>) Authorization of appropriations
 
-There are authorized to be appropriated for carrying out this section $60,000,000 for each of the fiscal years 1990 through 2002.
+There are authorized to be appropriated for carrying out this section $60,000,000 for each of the fiscal years 1990 through 2007.
 
-(Pub. L. 95–113, title XIV, §1417, Sept. 29, 1977, 91 Stat. 996; Pub. L. 97–98, title XIV, §1418, Dec. 22, 1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, §1412, Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, §1608, Nov. 28, 1990, 104 Stat. 3716; Pub. L. 102–237, title IV, §402(6), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §805, Apr. 4, 1996, 110 Stat. 1160; Pub. L. 105–185, title II, §223, title III, §301(a)(1), June 23, 1998, 112 Stat. 539, 562; Pub. L. 105–244, title I, §102(a)(1)(B), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 107–110, title X, §1076(c), Jan. 8, 2002, 115 Stat. 2091.)
+(Pub. L. 95–113, title XIV, §1417, Sept. 29, 1977, 91 Stat. 996; Pub. L. 97–98, title XIV, §1418, Dec. 22, 1981, 95 Stat. 1305; Pub. L. 99–198, title XIV, §1412, Dec. 23, 1985, 99 Stat. 1548; Pub. L. 101–624, title XVI, §1608, Nov. 28, 1990, 104 Stat. 3716; Pub. L. 102–237, title IV, §402(6), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §805, Apr. 4, 1996, 110 Stat. 1160; Pub. L. 105–185, title II, §223, title III, §301(a)(1), June 23, 1998, 112 Stat. 539, 562; Pub. L. 105–244, title I, §102(a)(1)(B), Oct. 7, 1998, 112 Stat. 1617; Pub. L. 107–110, title X, §1076(c), Jan. 8, 2002, 115 Stat. 2091; Pub. L. 107–171, title VII, §7102, May 13, 2002, 116 Stat. 431.)
 
 #### References in Text
 
@@ -130,7 +130,23 @@ The Food and Agriculture Act of 1977, referred to in subsec. (k), is Pub. L. 95�
 
 #### Amendments
 
-2002—Subsec. (j)(1)(B). Pub. L. 107–110 substituted “7801” for “8801(25)”.
+2002—Subsec. (a). Pub. L. 107–171, §7102(1), struck out “and” after “home economics,” and inserted “, and rural economic, community, and business development” before period at end.
+
+Subsec. (b)(1), (2). Pub. L. 107–171, §7102(2)(A), (B), inserted “, or in rural economic, community, and business development” before semicolon.
+
+Subsec. (b)(3). Pub. L. 107–171, §7102(2)(C), inserted “, or teaching programs emphasizing rural economic, community, and business development” before semicolon.
+
+Subsec. (b)(4). Pub. L. 107–171, §7102(2)(D), inserted “, or programs emphasizing rural economic, community, and business development,” after “agricultural programs”.
+
+Subsec. (b)(5). Pub. L. 107–171, §7102(2)(E), inserted “, or professionals in rural economic, community, and business development” before semicolon.
+
+Subsec. (d)(1). Pub. L. 107–171, §7102(3)(A), inserted “, or in rural economic, community, and business development,” after “food and agricultural sciences”.
+
+Subsec. (d)(2). Pub. L. 107–171, §7102(3)(B), inserted “, or in the rural economic, community, and business development workforce,” after “food and agricultural sciences workforce”.
+
+Subsec. (j)(1)(B). Pub. L. 107–110 substituted “7801” for “8801(25)”.
+
+Subsec. (<i>l</i>). Pub. L. 107–171, §7102(4), substituted “2007” for “2002”.
 
 1998—Subsecs. (c), (d). Pub. L. 105–185, §223(1), (2), added subsec. (c) and redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (f).
 
@@ -174,7 +190,7 @@ Subsec. (e). Pub. L. 99–198, §1412(c), added subsec. (e).
 
 1981—Subsec. (a). Pub. L. 97–98, §1418(a), substituted provisions authorizing the Secretary to promote and develop higher education in the food and agricultural science by formulating and administering higher education programs, to make grants to land-grant colleges and universities and other institutions capable of teaching food and agricultural education for specified purposes for a period not to exceed five years without regard to matching funds and to make competitive grants to colleges and universities to develop or administer programs to meet unique food and agricultural educational problems, and to administer and conduct specialized programs and graduate fellowship programs for a period not to exceed five years without regard to matching funds for provisions relating to competitive grants to all colleges and universities for the purpose of furthering education in the food and agricultural sciences in two specified categories.
 
-Subsec. (c). Pub. L. 97–98 inserted provisions relating to the transfer to the Secretary of all the functions and duties of the Secretary of Education under the act of June 29, 1935, applicable to the activities and programsfor which funds are made available under section 329 of this title.
+Subsec. (c). Pub. L. 97–98 inserted provisions relating to the transfer to the Secretary of all the functions and duties of the Secretary of Education under the act of June 29, 1935, applicable to the activities and programs for which funds are made available under section 329 of this title.
 
 Subsec. (d). Pub. L. 97–98, §1418(c), inserted provisions relating to the authorization of appropriations for fiscal years ending Sept. 30, 1983, Sept. 30, 1984, and Sept. 30, 1985.
 

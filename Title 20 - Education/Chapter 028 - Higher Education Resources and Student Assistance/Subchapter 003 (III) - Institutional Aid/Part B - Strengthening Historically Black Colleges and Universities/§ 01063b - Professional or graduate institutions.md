@@ -220,7 +220,7 @@ Section 1 of Pub. L. 104–141 provided that: “The Congress finds the followin
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1068h of this title.
+This section is referred to in section 1068h of this title; title 42 section 5197h.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a colon.</i>
 

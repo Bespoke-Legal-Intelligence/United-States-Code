@@ -1,16 +1,28 @@
 ### §192. Seizure and forfeiture of vessel; fine and imprisonment
 
+#### (a) In general
+
 If any owner, agent, master, officer, or person in charge, or any member of the crew of any such vessel fails to comply with any regulation or rule issued or order given under the provisions of this title,<sup>1</sup> or obstructs or interferes with the exercise of any power conferred by this title,<sup>1</sup> the vessel, together with her tackle, apparel, furniture, and equipment, shall be subject to seizure and forfeiture to the United States in the same manner as merchandise is forfeited for violation of the customs revenue laws; and the person guilty of such failure, obstruction, or interference shall be punished by imprisonment for not more than ten years and may, in the discretion of the court, be fined not more than $10,000.
 
-(a) If any other person knowingly fails to comply with any regulation or rule issued or order given under the provisions of this title,<sup>1</sup> or knowingly obstructs or interferes with the exercise of any power conferred by this title,<sup>1</sup> he shall be punished by imprisonment for not more than ten years and may, at the discretion of the court, be fined not more than $10,000.
+#### (b) Application to others
 
-(June 15, 1917, ch. 30, title II, §2, 40 Stat. 220; Mar. 28, 1940, ch. 72, §3(a), 54 Stat. 79; Nov. 15, 1941, ch. 471, §3, 55 Stat. 763; Aug. 9, 1950, ch. 656, §3, 64 Stat. 428.)
+If any other person knowingly fails to comply with any regulation or rule issued or order given under the provisions of this title,<sup>1</sup> or knowingly obstructs or interferes with the exercise of any power conferred by this title,<sup>1</sup> he shall be punished by imprisonment for not more than ten years and may, at the discretion of the court, be fined not more than $10,000.
+
+#### (c) Civil penalty
+
+A person violating this Act, or a regulation prescribed under this Act, shall be liable to the United States Government for a civil penalty of not more than $25,000 for each violation. Each day of a continuing violation shall constitute a separate violation.
+
+(June 15, 1917, ch. 30, title II, §2, 40 Stat. 220; Mar. 28, 1940, ch. 72, §3(a), 54 Stat. 79; Nov. 15, 1941, ch. 471, §3, 55 Stat. 763; Aug. 9, 1950, ch. 656, §3, 64 Stat. 428; Pub. L. 107–295, title I, §104(b), Nov. 25, 2002, 116 Stat. 2085.)
 
 #### References in Text
 
-This title, referred to in text, means title II of act June 15, 1917, ch. 30, 40 Stat. 220, as amended, which enacted sections 191 and 192 to 194 of this title. For complete classification of this Act to the Code, see Tables.
+This title, referred to in subsecs. (a) and (b), means title II of act June 15, 1917, ch. 30, 40 Stat. 220, as amended, which enacted sections 191 and 192 to 194 of this title. For complete classification of title II to the Code, see Tables.
+
+This Act, referred to in subsec. (c), means act June 15, 1917, ch. 30, 40 Stat. 217, as amended. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2002—Pub. L. 107–295 inserted subsec. headings, designated first par. as subsec. (a), redesignated former subsec. (a) as (b), and added subsec. (c).
 
 1950—Subsec. (a). Act Aug. 9, 1950, added subsec. (a).
 

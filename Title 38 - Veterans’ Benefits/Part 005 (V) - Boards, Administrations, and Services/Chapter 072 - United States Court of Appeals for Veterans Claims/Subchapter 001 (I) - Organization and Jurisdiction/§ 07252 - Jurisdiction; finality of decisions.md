@@ -1,6 +1,6 @@
 ### §7252. Jurisdiction; finality of decisions
 
-(a) The Court of Appeals for Veterans Claims shall have exclusive jurisdiction to review decisions of the Board of Veterans’ Appeals. TheSecretary may not seek review of any such decision. The Court shall have power to affirm, modify, or reverse a decision of the Board or to remand the matter, as appropriate.
+(a) The Court of Appeals for Veterans Claims shall have exclusive jurisdiction to review decisions of the Board of Veterans’ Appeals. The Secretary may not seek review of any such decision. The Court shall have power to affirm, modify, or reverse a decision of the Board or to remand the matter, as appropriate.
 
 (b) Review in the Court shall be on the record of proceedings before the Secretary and the Board. The extent of the review shall be limited to the scope provided in section 7261 of this title. The Court may not review the schedule of ratings for disabilities adopted under section 1155 of this title or any action of the Secretary in adopting or revising that schedule.
 
@@ -29,4 +29,8 @@ Subsec. (c). Pub. L. 102–40, §402(d)(1), substituted “7292” for “4092�
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7261 of this title.
 

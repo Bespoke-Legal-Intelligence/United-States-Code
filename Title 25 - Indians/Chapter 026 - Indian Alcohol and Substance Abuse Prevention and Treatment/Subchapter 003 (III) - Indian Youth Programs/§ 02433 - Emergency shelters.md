@@ -46,7 +46,7 @@ The Assistant Secretary of Indian Affairs shall, as part of the development of t
 
 #### References in Text
 
-The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (b)(1), is Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
+The Juvenile Justice and Delinquency Prevention Act of 1974, referred to in subsec. (b)(1), is Pub. L.93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which is classified principally to chapter 72 (§5601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of Title 42 and Tables.
 
 The Indian Self-Determination Act, referred to in subsec. (e)(3), (5)(A), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 

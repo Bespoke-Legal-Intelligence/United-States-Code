@@ -22,17 +22,17 @@ This section corrects a typographical error in section 2671 of title 28, U.S.C.
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–518, in par. defining “Employee of the government”, inserted “(1)” after “includes” and added cl. (2).
+2000—Pub. L. 106–518, in par. defining “Employee of the government”, inserted “(1)” after “includes” and added cl. (2).
 
 Pub. L. 106–398 inserted “115,” after “members of the National Guard while engaged in training or duty under section” in par. defining “Employee of the government”.
 
-<b>1988</b>—Pub. L. 100–694 inserted “the judicial and legislative branches,” after “departments,” in first par.
+1988—Pub. L. 100–694 inserted “the judicial and legislative branches,” after “departments,” in first par.
 
-<b>1981</b>—Pub. L. 97–124 inserted “members of the National Guard while engaged in training or duty under section 316, 502, 503, 504, or 505 of title 32,” in definition of “Employee of the government” and “or a member of the National Guard as defined in section 101(3) of title 32” in definition of “Acting within the scope of his office or employment”.
+1981—Pub. L. 97–124 inserted “members of the National Guard while engaged in training or duty under section 316, 502, 503, 504, or 505 of title 32,” in definition of “Employee of the government” and “or a member of the National Guard as defined in section 101(3) of title 32” in definition of “Acting within the scope of his office or employment”.
 
-<b>1966</b>—Pub. L. 89–506 expanded definition of “Federal agency” to include military departments.
+1966—Pub. L. 89–506 expanded definition of “Federal agency” to include military departments.
 
-<b>1949</b>—Act May 24, 1949, corrected spelling of “office”.
+1949—Act May 24, 1949, corrected spelling of “office”.
 
 #### Effective Date of 2000 Amendment
 

@@ -6,5 +6,5 @@ The funds apportioned to the Shoshone Tribe of the Wind River Reservation shall 
 
 #### References in Text
 
-Act of May 19, 1947, referred to in text, is act May 19, 1947, ch. 80, 61 Stat. 102, as amended, which is classified generally to subchapter XIX (§611 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
+Act of May 19, 1947, referred to in text, is act May 19, 1947, ch. 80, 61 Stat. 102, as amended, which is classifiedgenerally to subchapter XIX (§611 et seq.) of this chapter. For complete classification of this Act to the Code, see Tables.
 

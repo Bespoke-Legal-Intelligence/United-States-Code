@@ -92,7 +92,7 @@ To meet the bona fide effort requirement referred to in subsection (g)(1) of thi
 
 #### References in Text
 
-The Mineral Leasing Act of February 25, 1920, referred to in subsec. (e), is act Feb. 25, 1920, ch. 85, 41 Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
+The Mineral Leasing Act of February 25, 1920, referred to in subsec. (e), is act Feb. 25, 1920, ch. 85, 41Stat. 437, as amended, known as the Mineral Leasing Act, which is classified generally to chapter 3A (§181 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 181 of this title and Tables.
 
 The Mineral Leasing Act for Acquired Lands, referred to in subsec. (e), is act Aug. 7, 1947, ch. 513, 61 Stat. 913, as amended, which is classified generally to chapter 7 (§351 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 351 of this title and Tables.
 
@@ -102,7 +102,7 @@ The Multiple Mineral Development Act, referred to in subsec. (f), is act Aug. 13
 
 #### Amendments
 
-1988—Subsec. (d). Pub. L. 100–443, §2(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of subsection (a) of this section, production or utilization of geothermal steam incommercial quantities shall be deemed to include the completion of one or more wells producing or capable of producing geothermal steam in commercial quantities and a bona fide sale of such geothermal steam for delivery to or utilization by a facility or facilities not yet installed but scheduled for installation not later than fifteen years from the date of commencement of the primary term of the lease.”
+1988—Subsec. (d). Pub. L. 100–443, §2(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “For purposes of subsection (a) of this section, production or utilization of geothermal steam in commercial quantities shall be deemed to include the completion of one or more wells producing or capable of producing geothermal steam in commercial quantities and a bona fide sale of such geothermal steam for delivery to or utilization by a facility or facilities not yet installed but scheduled for installation not later than fifteen years from the date of commencement of the primary term of the lease.”
 
 Subsecs. (g) to (j). Pub. L. 100–443, §3, added subsecs. (g) to (j).
 
@@ -184,7 +184,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 “(c) Upon receipt of an application for a geothermal lease the Secretary shall determine on the basis of scientific evidence if exploration, development, or utilization of the lands subject to the geothermal lease application is reasonably likely to result in a significant adverse effect on a significant thermal feature listed pursuant to subsection (a) of this section. Such determination shall be subject to notice and public comment. If the Secretary determines on the basis of scientific evidence that the exploration, development, or utilization of the land subject to the geothermal lease application is reasonably likely to result in a significant adverse effect on a significant thermal feature listed pursuant to subsection (a) of this section, the Secretary shall not issue such geothermal lease. In addition, the Secretary shall withdraw from leasing under the Geothermal Steam Act of 1970, as amended, those lands, or portion thereof, subject to the application for geothermal lease, the exploration, development, or utilization of which is reasonably likely to result, based on the Secretary's determination, in a significant adverse effect on a significant thermal feature listed pursuant to subsection (a) of this section.
 
-“(d) With respect to all geothermal leases issued after the date of enactment of this section \[Oct. 18, 1986\] the Secretary shall include stipulations in leases necessary to protect significant thermal features listed pursuant to subsection (a) of this section where a determination is made based on scientific evidence that the exploration, development, or utilization of the lands subject to the lease is reasonably likely to adversely affect such significant features. Such stipulations shall include, but are not limited to:
+“(d) With respect to all geothermal leases issued after the date of enactment of this section \[Oct. 18, 1986\] the Secretary shall include stipulations in leasesnecessary to protect significant thermal features listed pursuant to subsection (a) of this section where a determination is made based on scientific evidence that the exploration, development, or utilization of the lands subject to the lease is reasonably likely to adversely affect such significant features. Such stipulations shall include, but are not limited to:
 
 &emsp;“(1) requiring the lessee to reinject geothermal fluids into the rock formations from which they originate;
 
@@ -194,7 +194,7 @@ Pub. L. 99–500, §101(h) \[title I, §115\], Oct. 18, 1986, 100 Stat. 1783–2
 
 &emsp;“(4) requiring the lessee to suspend activity, temporarily or permanently, on the lease if the Secretary determines that ongoing exploration, development, or utilization activities are having a significant adverse effect on significant thermal features listed pursuant to subsection (a) of this section until such time as the significant adverse effect is eliminated.
 
-“(e) The Secretary of Agriculture shall consider the effects on significant thermal features of those units of the National Park System identified in subsection (a) of this section in determining whether to consent toleasing under the Geothermal Steam Act of 1970, as amended, on national forest or other lands administered by the Department of Agriculture available for leasing under the Geothermal Steam Act of 1970, as amended, including public, withdrawn, and acquired lands.
+“(e) The Secretary of Agriculture shall consider the effects on significant thermal features of those units of the National Park System identified in subsection (a) of this section in determining whether to consent to leasing under the Geothermal Steam Act of 1970, as amended, on national forest or other lands administered by the Department of Agriculture available for leasing under the Geothermal Steam Act of 1970, as amended, including public, withdrawn, and acquired lands.
 
 “(f) Nothing contained in this section shall affect the ban on leasing under the Geothermal Steam Act of 1970, as amended, with respect to the Island Park Known Geothermal Resources Area, as provided for in Public Law 98–473 (98 Stat. 1837) \[see Tables for classification\] and Public Law 99–190 (99 Stat. 1267) \[see Tables for classification\].
 

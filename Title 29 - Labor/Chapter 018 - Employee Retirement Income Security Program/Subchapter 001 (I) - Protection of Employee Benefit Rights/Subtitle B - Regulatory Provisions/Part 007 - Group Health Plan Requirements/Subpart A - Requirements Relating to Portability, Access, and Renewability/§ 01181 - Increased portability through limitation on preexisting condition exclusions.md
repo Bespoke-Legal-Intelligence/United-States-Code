@@ -192,7 +192,7 @@ For purposes of this part—
 
 #### (B) Dependent special enrollment period
 
-&emsp;&emsp;A dependent special enrollment period under this subparagraph shall be a period of not less than 30 days and shall begin on the later of—
+&emsp;&emsp;A dependent special enrollment period under this subparagraph shall be a period ofnot less than 30 days and shall begin on the later of—
 
 &emsp;&emsp;&emsp;(i) the date dependent coverage is made available, or
 
@@ -252,7 +252,7 @@ The Public Health Service Act, referred to in subsec. (g)(3), is act July 1, 194
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning onand after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204, set out as a note under section 1003 of this title.
+Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning on and after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204, set out as a note under section 1003 of this title.
 
 #### Effective Date
 
@@ -292,7 +292,7 @@ No certification required to be provided before june 1, 1997.—In no case is a 
 
 &emsp;&emsp;“(iii)
 
-Certification only on written request for events occurring before october 1, 1996.—In the case of an event occurring after June 30, 1996, and before October 1, 1996, a certification is not required to be provided under such subsection unless an individual (with respect to whom the certification is otherwise required to be made) requests such certification in writing.
+Certification only on written request for events occurring before october 1, 1996.—In the case of an event occurring after June 30, 1996,and before October 1, 1996, a certification is not required to be provided under such subsection unless an individual (with respect to whom the certification is otherwise required to be made) requests such certification in writing.
 
 &emsp;“(C)
 
@@ -322,5 +322,5 @@ Limitation on actions.—No enforcement action shall be taken, pursuant to the a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1182, 1191 of this title.
+This section is referred to in sections 1165, 1182, 1191 of this title; title 26 section 4980B; title 42 section 300bb–5.
 

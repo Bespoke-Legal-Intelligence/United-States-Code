@@ -14,7 +14,7 @@ I74senate report no. 95–989
 
 Section 745(a) indicates that each account held by a customer in a separate capacity is to be considered a separate account. This prevents the offset of accounts held in different capacities.
 
-Subsection (b) indicates that a bank or another stockbroker that is a customer of a debtor is considered to hold its customers accounts in separate capacities. Thus a bank or other stockbroker is not treated as a mutual fund for purposes of bulk investment. This protects unrelated customers of a bank or other stockholder from having their accounts offset.
+Subsection (b) indicates that a bank or another stockbroker that is a customer of a debtor is considered to hold its customers accounts in separate capacities. Thus a bank or other stockbroker is not treated as a mutual fund for purposes of bulk investment. Thisprotects unrelated customers of a bank or other stockholder from having their accounts offset.
 
 Subsection (c) effects the same result with respect to a trust so that each beneficiary is treated as the customer of the debtor rather than the trust itself. This eliminates any doubt whether a trustee holds a personal account in a separate capacity from his trustee's account.
 

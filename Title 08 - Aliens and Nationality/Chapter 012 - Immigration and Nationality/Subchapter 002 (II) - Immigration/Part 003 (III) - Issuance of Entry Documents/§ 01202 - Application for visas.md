@@ -64,7 +64,7 @@ Subsecs. (b), (e). Pub. L. 100–525, §8(e), made technical correction to Pub. 
 
 Subsec. (e). Pub. L. 99–653, §6(b), as amended by Pub. L. 100–525, §8(e)(2), substituted “each application” for “each copy of an application”, “The application for” for “One copy of the application for”, and “the immigrant visa” for “the immigrant visa, and the other copy shall be disposed of as may be by regulations prescribed”.
 
-1965—Subsec. (a). Pub L. 89–236 substituted “an immediate relative within the meaning of section 1151 (b) ofthis title or a preference or special immigrant”, for “preference quota or a nonquota immigrant”.
+1965—Subsec. (a). Pub L. 89–236 substituted “an immediate relative within the meaning of section 1151 (b) of this title or a preference or special immigrant”, for “preference quota or a nonquota immigrant”.
 
 1961—Subsecs. (a), (c). Pub. L. 87–301 struck out requirement to state applicant's race and ethnic classification.
 
@@ -99,6 +99,10 @@ Amendment by Pub. L. 99–653 applicable to applications for immigrant visas mad
 #### Effective Date of 1965 Amendment
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

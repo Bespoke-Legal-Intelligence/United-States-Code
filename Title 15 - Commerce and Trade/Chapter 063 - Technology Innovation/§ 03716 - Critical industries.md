@@ -6,7 +6,7 @@ The Secretary shall—
 
 &emsp;(1) identify those civilian industries in the United States that are necessary to support a robust manufacturing infrastructure and critical to the economic security of the United States; and
 
-&emsp;(2) list the major research and development initiatives being undertaken, and the substantial investments being made, by the Federal Government, including its research laboratories, in each of the critical industries identified under paragraph (1).
+&emsp;(2) list the major research and development initiatives being undertaken, and the substantial investments being made, by the FederalGovernment, including its research laboratories, in each of the critical industries identified under paragraph (1).
 
 #### (b) Initial report
 

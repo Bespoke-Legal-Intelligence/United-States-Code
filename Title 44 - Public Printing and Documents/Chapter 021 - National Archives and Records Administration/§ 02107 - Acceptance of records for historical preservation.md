@@ -298,7 +298,7 @@ Fees for Copying.—Executive branch agencies shall—
 
 &emsp;&emsp;“(C) any other matter currently relating to the military defense, intelligence operations or conduct of foreign relations of the United States, the disclosure of which would demonstrably impair the national security of the United States;
 
-&emsp;“(2) the public disclosure of the assassination record would reveal the name or identity of a living person who provided confidential information to the United States and would pose a substantial risk of harm to that person;
+&emsp;“(2) the public disclosure of the assassination record would reveal the name or identity of a livingperson who provided confidential information to the United States and would pose a substantial risk of harm to that person;
 
 &emsp;“(3) the public disclosure of the assassination record could reasonably be expected to constitute an unwarranted invasion of personal privacy, and that invasion of privacy is so substantial that it outweighs the public interest;
 
@@ -330,7 +330,7 @@ Appointment.—(1) The President, by and with the advice and consent of the Sena
 
 &emsp;“(A) shall be impartial private citizens, none of whom is presently employed by any branch of the Government, and none of whom shall have had any previous involvement with any official investigation or inquiry conducted by a Federal, State, or local government, relating to the assassination of President John F. Kennedy;
 
-&emsp;“(B) shall be distinguished persons of high national professional reputation in their respective fields whoare capable of exercising the independent and objective judgment necessary to the fulfillment of their role in ensuring and facilitating the review, transmission to the public, and public disclosure of records related to the assassination of President John F. Kennedy and who possess an appreciation of the value of such material to the public, scholars, and government; and
+&emsp;“(B) shall be distinguished persons of high national professional reputation in their respective fields who are capable of exercising the independent and objective judgment necessary to the fulfillment of their role in ensuring and facilitating the review, transmission to the public, and public disclosure of records related to the assassination of President John F. Kennedy and who possess an appreciation of the value of such material to the public, scholars, and government; and
 
 &emsp;“(C) shall include at least 1 professional historian and 1 attorney.
 
@@ -488,7 +488,7 @@ Compensation.—Subject to such rules as may be adopted by the Review Board, the
 
 “(d)
 
-Advisory Committees.—(1) The Review Board shall have the authority to create advisory committees to assist in fulfilling the responsibilities of the Review Board under this Act.
+Advisory Committees.—(1) The Review Board shall have the authority to create advisory committeesto assist in fulfilling the responsibilities of the Review Board under this Act.
 
 “(2) Any advisory committee created by the Review Board shall be subject to the Federal Advisory Committee Act (5 U.S.C. App.).
 
@@ -614,7 +614,7 @@ Sense of Congress.—It is the sense of the Congress that—
 
 “(a)
 
-Precedence Over Other Law.—When this Act requires transmission of a record to the Archivist orpublic disclosure, it shall take precedence over any other law (except section 6103 of the Internal Revenue Code \[26 U.S.C. 6103\]), judicial decision construing such law, or common law doctrine that would otherwise prohibit such transmission or disclosure, with the exception of deeds governing access to or transfer or release of gifts and donations of records to the United States Government.
+Precedence Over Other Law.—When this Act requires transmission of a record to the Archivist or public disclosure, it shall take precedence over any other law (except section 6103 of the Internal Revenue Code \[26 U.S.C. 6103\]), judicial decision construing such law, or common law doctrine that would otherwise prohibit such transmission or disclosure, with the exception of deeds governing access to or transfer or release of gifts and donations of records to the United States Government.
 
 “(b)
 
@@ -659,6 +659,8 @@ Interim Funding.—Until such time as funds are appropriated pursuant to subsect
 #### “SEC. 14. SEVERABILITY.
 
 “If any provision of this Act or the application thereof to any person or circumstance is held invalid, the remainder of this Act and the application of that provision to other persons not similarly situated or to other circumstances shall not be affected by the invalidation.”
+
+\[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Classified National Security Information
 

@@ -1,8 +1,8 @@
 ### §1905. Disclosure of confidential information generally
 
-Whoever, being an officer or employee of the United States or of any department or agency thereof, any person acting on behalf of the Office of Federal Housing Enterprise Oversight, or agent of the Department of Justice as defined in the Antitrust Civil Process Act (15 U.S.C. 1311–1314), publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law any information coming to him in the course of his employment or official duties or by reason of any examination or investigation made by, or return, report or record made to or filed with, such department or agency or officer or employee thereof, which information concerns or relates to the trade secrets, processes, operations, style of work, or apparatus, or to the identity, confidential statistical data, amount or source of any income, profits, losses, or expenditures of any person, firm, partnership, corporation, or association; or permits any income return or copy thereof or any book containing any abstract or particulars thereof to be seen or examined by any person except as provided by law; shall be fined under this title, or imprisoned not more than one year, or both; and shall be removed from office or employment.
+Whoever, being an officer or employee of the United States or of any department or agency thereof, any person acting on behalf of the Office of Federal Housing Enterprise Oversight, or agent of the Department of Justice as defined in the Antitrust Civil Process Act (15 U.S.C. 1311–1314), or being an employee of a private sector organization who is or was assigned to an agency under chapter 37 of title 5, publishes, divulges, discloses, or makes known in any manner or to any extent not authorized by law any information coming to him in the course of his employment or official duties or by reason of any examination or investigation made by, or return, report or record made to or filed with, such department or agency or officer or employee thereof, which information concerns or relates to the trade secrets, processes, operations, style of work, or apparatus, or to the identity, confidential statistical data, amount or source of any income, profits, losses, or expenditures of any person, firm, partnership, corporation, or association; or permits any income return or copy thereof or any book containing any abstract or particulars thereof to be seen or examined by any person except as provided by law; shall be fined under this title, or imprisoned not more than one year, or both; and shall be removed from office or employment.
 
-(June 25, 1948, ch. 645, 62 Stat. 791; Pub. L. 96–349, §7(b), Sept. 12, 1980, 94 Stat. 1158; Pub. L. 102–550, title XIII, §1353, Oct. 28, 1992, 106 Stat. 3970; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 791; Pub. L. 96–349, §7(b), Sept. 12, 1980, 94 Stat. 1158; Pub. L. 102–550, title XIII, §1353, Oct. 28, 1992, 106 Stat. 3970; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–347, title II, §209(d)(2), Dec. 17, 2002, 116 Stat. 2930.)
 
 #### Historical and Revision Notes
 
@@ -24,13 +24,19 @@ The Antitrust Civil Process Act, referred to in text, is Pub. L. 87–664, Sept.
 
 #### Amendments
 
+2002—Pub. L. 107–347 inserted “or being an employee of a private sector organization who is or was assigned to an agency under chapter 37 of title 5,” after “(15 U.S.C. 1311–1314),”.
+
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
 
 1992—Pub. L. 102–550 inserted “any person acting on behalf of the Office of Federal Housing Enterprise Oversight,” after “or agency thereof,”.
 
 1980—Pub. L. 96–349 provided for punishment and removal from office of an agent of the Department of Justice as defined in the Antitrust Civil Process Act for disclosure of confidential information.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 3374; title 7 sections 136h, 450i, 5662; title 15 sections 330b, 771, 773, 796, 1193, 1335a, 2217, 2613; title 21 sections 355a, 360<i>ll</i>, 360nn; title 26 section 7213; title 29 section 664; title 30 section 1423; title 33 sections 1318, 1320, 1322, 1369, 1513; title 42 sections 300j–4, 2210b, 4912, 5916, 5919, 6274, 6921, 6927, 6991d, 7135, 7412, 7542, 7607, 7621, 9208, 9310, 9604, 9660, 11023, 11042, 13253, 13255, 13293; title 46 section 4309; title 49 sections 106, 1114, 30167, 32307, 32505, 32708, 32912, 33116, 60117.
+This section is referred to in title 5 sections 3374, 3704; title 7 sections 136h, 450i, 2009cc–10, 5662; title 15 sections 330b, 771, 773, 796, 1193, 1335a, 2217, 2613; title 21 sections 350c, 355a, 360<i>ll</i>, 360nn; title 26 section 7213; title 29 section 664; title 30 section 1423; title 33 sections 1318, 1320, 1322, 1369, 1513; title 42 sections 300j–4, 2210b, 4912, 5916, 5919, 6274, 6921, 6927, 6991d, 7135, 7412, 7542, 7607, 7621, 9208, 9310, 9604, 9660, 11023, 11042, 13253, 13255, 13293; title 46 section 4309; title 49 sections 106, 1114, 30167, 32307, 32505, 32708, 32912, 33116, 60117.
 

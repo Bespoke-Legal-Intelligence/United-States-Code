@@ -6,7 +6,7 @@
 
 &emsp;(2) the price index for a base quarter is the arithmetical mean of such index for the 3 months comprising such quarter.
 
-(b) Except as provided in subsection (c) of this section, effective December 1 of each year, each annuity payable from the Fund having a commencing date not later than such December 1 shall be increased by the percent change in the price index for the base quarter of such year over the price index for the base quarter of the preceding year in which an adjustment under this subsection was made, adjusted to the nearest 1/10 of 1 percent.
+(b) Except as provided in subsection (c) of this section, effective December 1 of each year, eachannuity payable from the Fund having a commencing date not later than such December 1 shall be increased by the percent change in the price index for the base quarter of such year over the price index for the base quarter of the preceding year in which an adjustment under this subsection was made, adjusted to the nearest 1/10 of 1 percent.
 
 (c) Eligibility for an annuity increase under this section is governed by the commencing date of each annuity payable from the Fund as of the effective date of an increase, except as follows:
 
@@ -142,7 +142,7 @@ Subsec. (g). Pub. L. 97–253, §309(a), added subsec. (g).
 
 Subsec. (c)(1). Pub. L. 97–35, §1702(b), in opening provision inserted reference to the widow or widower of a deceased annuitant whose annuity has not been increased under this subsection or subsection (b) of this section, in par. (A) substituted “1/12” for “1/6”, and in subpar. (B) designated existing provisions as item (i) and added item (ii).
 
-1980—Subsec. (c)(1). Pub. L. 96–499, substituted formula for computing the first increase to be made under subsec. (b) of this section to an annuity which is payable from the Fund to an employee or Member who retires, to the widow or widower of a deceased employee or Member for provisions that an annuity, except a deferred annuity under section 8338 of this title or any other provision of law, payable from the Fund to an employee or Member who retires, or to the widow or widower of a deceased employee or Member and having a commencing date after the effective date of the then last preceding annuity increase under subsec. (b) of this section shall not be less than the annuity which would have been payable if the commencing date of such annuity had been the effective date of the then last preceding annuity increase under subsec. (b) of this section and that employees or deceased employees were to be deemed, for purposes of section 8339(m) of this title to have to their credit, on the effective date of the last preceding increase under subsec. (b), unused sick leave equal to that unused sick leave to his credit on the date of separation from service.
+1980—Subsec. (c)(1). Pub. L. 96–499, substituted formula for computing the first increase to be made undersubsec. (b) of this section to an annuity which is payable from the Fund to an employee or Member who retires, to the widow or widower of a deceased employee or Member for provisions that an annuity, except a deferred annuity under section 8338 of this title or any other provision of law, payable from the Fund to an employee or Member who retires, or to the widow or widower of a deceased employee or Member and having a commencing date after the effective date of the then last preceding annuity increase under subsec. (b) of this section shall not be less than the annuity which would have been payable if the commencing date of such annuity had been the effective date of the then last preceding annuity increase under subsec. (b) of this section and that employees or deceased employees were to be deemed, for purposes of section 8339(m) of this title to have to their credit, on the effective date of the last preceding increase under subsec. (b), unused sick leave equal to that unused sick leave to his credit on the date of separation from service.
 
 1978—Subsecs. (a)(1), (b)(1). Pub. L. 95–454 substituted “Office of Personnel Management” for “Civil Service Commission” and “Office” for “Commission”.
 
@@ -222,7 +222,7 @@ Applicability.—This section shall apply with respect to any cost-of-living inc
 
 “(b)
 
-Delay in Effective Date of Adjustments.—A cost-of-living increase described in subsection (a) shallnot take effect until the first day of the third calendar month after the date such increase would otherwise take effect.
+Delay in Effective Date of Adjustments.—A cost-of-living increase described in subsection (a) shall not take effect until the first day of the third calendar month after the date such increase would otherwise take effect.
 
 “(c)
 

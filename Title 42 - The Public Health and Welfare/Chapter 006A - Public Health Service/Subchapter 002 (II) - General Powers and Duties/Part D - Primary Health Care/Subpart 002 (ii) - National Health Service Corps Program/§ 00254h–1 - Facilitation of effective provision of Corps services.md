@@ -12,7 +12,7 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 #### (2) Career advisor regarding obligated service
 
-&emsp;(A) In the case of individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, counseling under paragraph (1) shall include appropriate counseling on matters particular to such obligated service. The Secretary shall ensure that career advisors for providing such counseling are available to such individuals throughout the period of participation in the Scholarship or Loan Repayment Program.
+&emsp;(A) In the case of individuals who have entered into contracts for obligated service under the Scholarship or Loan RepaymentProgram, counseling under paragraph (1) shall include appropriate counseling on matters particular to such obligated service. The Secretary shall ensure that career advisors for providing such counseling are available to such individuals throughout the period of participation in the Scholarship or Loan Repayment Program.
 
 &emsp;(B) With respect to the Scholarship Program, counseling under paragraph (1) shall include counseling individuals during the period in which the individuals are pursuing an educational degree in the health profession involved, including counseling to prepare the individual for service in the Corps.
 
@@ -22,7 +22,7 @@ In making an assignment of a Corps member to an entity that has had an applicati
 
 #### (c) Grants regarding preparation of students for practice
 
-With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, the Secretary may make grants to, and enter into contracts with, public and nonprofit private entities (including health professions schools) for the conduct of programs designed to prepare such individuals for the effective provision of primary health services in the health manpower shortage areas to which the individuals are assigned.
+With respect to individuals who have entered into contracts for obligated service under the Scholarship or Loan Repayment Program, the Secretary may make grants to, and enter into contracts with, public and nonprofit private entities (including health professions schools) for the conduct of programs designed to prepare such individuals for the effective provision of primary health services in the health professional shortage areas to which the individuals are assigned.
 
 #### (d) Assistance in establishing local professional relationships
 
@@ -58,19 +58,19 @@ The Secretary shall assist Corps members in establishing appropriate professiona
 
 #### (5) Sole providers of health services
 
-&emsp;In the case of any Corps member who is the sole provider of health services in the geographic area involved, the Secretary may, from amounts appropriated under section 254k of this title, obligate on behalf of the membersuch sums as the Secretary determines to be necessary for purposes of providing temporary relief under paragraph (1).
+&emsp;In the case of any Corps member who is the sole provider of health services in the geographic area involved, the Secretary may, from amounts appropriated under section 254k of this title, obligate on behalf of the member such sums as the Secretary determines to be necessary for purposes of providing temporary relief under paragraph (1).
 
 #### (f) Determinations regarding effective service
 
 In carrying out subsection (a) of this section and sections 254<i>l</i>(d) and 254<i>l</i>–1(d) of this title, the Secretary shall carry out activities to determine—
 
-&emsp;(1) the characteristics of physicians, dentists, and other health professionals who are more likely to remain in practice in health manpower shortage areas after the completion of the period of service in the Corps;
+&emsp;(1) the characteristics of physicians, dentists, and other health professionals who are more likely to remain in practice in health professional shortage areas after the completion of the period of service in the Corps;
 
 &emsp;(2) the characteristics of health manpower shortage areas, and of entities seeking assignments of Corps members, that are more likely to retain Corps members after the members have completed the period of service in the Corps; and
 
 &emsp;(3) the appropriate conditions for the assignment and utilization in health manpower shortage areas of certified nurse practitioners, certified nurse midwives, and physician assistants.
 
-(July 1, 1944, ch. 373, title III, §336, as added Pub. L. 97–35, title XXVII, §2706(b), Aug. 13, 1981, 95 Stat. 907; amended Pub. L. 100–177, title II, §202(d), Dec. 1, 1987, 101 Stat. 997; Pub. L. 101–597, title I, §107, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3018, 3035.)
+(July 1, 1944, ch. 373, title III, §336, as added Pub. L. 97–35, title XXVII, §2706(b), Aug. 13, 1981, 95 Stat. 907; amended Pub. L. 100–177, title II, §202(d), Dec. 1, 1987, 101 Stat. 997; Pub. L. 101–597, title I, §107, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3018, 3035; Pub. L. 107–251, title III, §307(a), Oct. 26, 2002, 116 Stat. 1649.)
 
 #### References in Text
 
@@ -81,6 +81,8 @@ Section 295g–1 of this title, referred to in subsec. (d), was in the original 
 A prior section 336 of act July 1, 1944, was renumbered section 336A by Pub. L. 97–35, §2706(a), and is classified to section 254i of this title.
 
 #### Amendments
+
+2002—Subsecs. (c), (f)(1). Pub. L. 107–251 substituted “health professional shortage areas” for “health manpower shortage areas”.
 
 1990—Pub. L. 101–597, §107, amended section generally. Prior to amendment, section read as follows:
 

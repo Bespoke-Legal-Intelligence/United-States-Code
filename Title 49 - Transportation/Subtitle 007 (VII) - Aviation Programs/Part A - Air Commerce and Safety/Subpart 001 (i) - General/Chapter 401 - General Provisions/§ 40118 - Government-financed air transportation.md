@@ -6,7 +6,7 @@ Transportation by Air Carriers Holding Certificates.—A department, agency, or 
 
 &emsp;(1) the department, agency, or instrumentality—
 
-&emsp;&emsp;(A) obtains the transportation for itself or in carrying out an arrangement under whichpayment is made by the Government or payment is made from amounts provided for the use of the Government; or
+&emsp;&emsp;(A) obtains the transportation for itself or in carrying out an arrangement under which payment is made by the Government or payment is made from amounts provided for the use of the Government; or
 
 &emsp;&emsp;(B) provides the transportation to or for a foreign country or international or other organization without reimbursement;
 
@@ -44,7 +44,7 @@ Prohibition of Certification or Contract Clause.—(1) No certification by a con
 
 (2) In paragraph (1), the term “commercial item” has the meaning given such term in section 4(12) of the Office of Federal Procurement Policy Act (41 U.S.C. 403(12)).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1116; Pub. L. 103–355, title VIII, §8301(h), Oct. 13, 1994, 108 Stat. 3398; Pub. L. 104–287, §5(68), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 104–316, title I, §127(d), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(h), title XIII, §1335(p), title XIV, §1422(b)(6), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789, 2681–793.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1116; Pub. L. 103–355, title VIII, §8301(h), Oct. 13, 1994, 108 Stat. 3398; Pub. L. 104–287, §5(68), Oct. 11, 1996, 110 Stat. 3395; Pub. L. 104–316, title I, §127(d), Oct. 19, 1996, 110 Stat. 3840; Pub. L. 105–277, div. G, subdiv. A, title XII, §1225(h), titleXIII, §1335(p), title XIV, §1422(b)(6), Oct. 21, 1998, 112 Stat. 2681–775, 2681–789, 2681–793.)
 
 Historical and Revision Notes
 

@@ -2,7 +2,7 @@ Part B—Supplementary Medical Insurance Benefits for Aged and Disabled
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 254n, 254t, 300k, 300gg, 300gg–41, 426–1, 1320a–3, 1320a–3a, 1320a–7a, 1320a–7b, 1320d, 1395a, 1395b–1, 1395b–2, 1395b–6, 1395d, 1395i–2, 1395w–21, 1395w–22, 1395w–23, 1395w–24, 1395w–27, 1395w–28, 1395x, 1395y, 1395cc, 1395cc–1, 1395cc–2, 1395ff, 1395<i>ll</i>, 1395mm, 1395nn, 1395pp, 1395qq, 1395rr, 1395ss, 1395uu, 1395xx, 1395yy, 1395eee, 1395ggg, 1396a, 1396b, 1396d, 1396n, 1396u–4 of this title; title 2 section 906; title 5 sections 8904, 8910; title 10 sections 1079, 1086; title 25 sections 1616m, 1621k; title 26 sections 213, 6103, 9801; title 29 section 1181; title 31 section 3806.
+This part is referred to in sections 300k, 300gg, 300gg–41, 426–1, 1320a–3, 1320a–3a, 1320a–7a, 1320a–7b, 1320d, 1395a, 1395b–1, 1395b–2, 1395b–6, 1395d, 1395i–2, 1395w–21, 1395w–22, 1395w–23, 1395w–24, 1395w–27, 1395w–28, 1395x, 1395y, 1395cc, 1395cc–1, 1395cc–2, 1395ff,1395<i>ll</i>, 1395mm, 1395nn, 1395pp, 1395qq, 1395rr, 1395ss, 1395uu, 1395xx, 1395yy, 1395eee, 1395ggg, 1396a, 1396b, 1396d, 1396n, 1396u–4 of this title; title 2 section 906; title 5 sections 8904, 8910; title 10 sections 1079, 1086; title 25 sections 1616m, 1621k; title 26 sections 35, 213, 6103, 9801; title 29 sections 1181, 2918; title 31 section 3806.
 
 
 ---

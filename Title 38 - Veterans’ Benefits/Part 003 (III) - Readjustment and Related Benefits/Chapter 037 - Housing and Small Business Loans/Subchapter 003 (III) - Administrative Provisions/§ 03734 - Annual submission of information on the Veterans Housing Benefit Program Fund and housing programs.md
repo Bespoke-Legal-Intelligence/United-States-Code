@@ -22,27 +22,23 @@
 
 &emsp;&emsp;(A) Fees collected under section 3729(a) of this title for each category of loan guaranteed, insured, or made under this chapter or collected under section 3729(b) of this title for assumed loans.
 
-&emsp;&emsp;(B) Federal Government payments under section 3729(a)(3) <sup>1</sup> of this title.
+&emsp;&emsp;(B) Investment income.
 
-&emsp;&emsp;(C) Investment income.
+&emsp;&emsp;(C) Sales of foreclosed properties.
 
-&emsp;&emsp;(D) Sales of foreclosed properties.
+&emsp;&emsp;(D) Loan asset sales.
 
-&emsp;&emsp;(E) Loan asset sales.
-
-&emsp;&emsp;(F) Each additional source of revenue.
+&emsp;&emsp;(E) Each additional source of revenue.
 
 &emsp;(3) Information, for each fiscal year referred to in paragraph (2) of this subsection, regarding the types of dispositions made and anticipated to be made of defaults on loans guaranteed, insured, or made under this chapter, including the cost to the fund, and the numbers, of such types of dispositions.
 
 (c) The information submitted under subsection (a) shall include a statement that summarizes the financial activity of each of the housing programs operated under this chapter. The statement shall be presented in a form that is simple, concise, and readily understandable, and shall not include references to financing accounts, liquidating accounts, or program accounts.
 
-(Added Pub. L. 101–237, title III, §302(b)(1), Dec. 18, 1989, 103 Stat. 2070, §1834; renumbered §3734 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, §602(d), (e)(1)(F), (3)(A), Nov. 11, 1998, 112 Stat. 3346, 3347; Pub. L. 107–14, §8(a)(9), June 5, 2001, 115 Stat. 35.)
-
-#### References in Text
-
-Section 3729 of this title, referred to in subsec. (b)(2)(B), was amended by Pub. L. 106–419, title IV, §402(b), Nov. 1, 2000, 114 Stat. 1861, and, as so amended, subsec. (a) of that section no longer contains a par. (3).
+(Added Pub. L. 101–237, title III, §302(b)(1), Dec. 18, 1989, 103 Stat. 2070, §1834; renumbered §3734 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title VI, §602(d), (e)(1)(F), (3)(A), Nov. 11, 1998, 112 Stat. 3346, 3347; Pub. L. 107–14, §8(a)(9), June 5, 2001, 115 Stat. 35; Pub. L. 107–330, title III, §308(g)(12), Dec. 6, 2002, 116 Stat. 2829.)
 
 #### Amendments
+
+2002—Subsec. (b)(2)(B) to (F). Pub. L. 107–330 redesignated subpars. (C) to (F) as (B) to (E), respectively, and struck out former subpar. (B) which read as follows: “Federal Government payments under section 3729(a)(3) of this title.”
 
 2001—Subsec. (a). Pub. L. 107–14, §8(a)(9)(A), struck out “United States Code,” after “section 1105 of title 31,” in introductory provisions.
 
@@ -67,6 +63,4 @@ Subsec. (b)(2). Pub. L. 102–83, §5(c)(1), substituted “3729(a)” for “18
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under section 2106 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

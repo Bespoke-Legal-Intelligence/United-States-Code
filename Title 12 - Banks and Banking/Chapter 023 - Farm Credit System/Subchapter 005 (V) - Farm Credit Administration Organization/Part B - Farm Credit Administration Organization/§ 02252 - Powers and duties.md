@@ -26,7 +26,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;(C) Subparagraph (B) shall apply only in those geographic areas where, due to the failure of a Federal intermediate credit bank to merge in accordance with section 410(a) of the Agricultural Credit Act of 1987 (12 U.S.C. 2011 note), the Federal intermediate credit bank or its successor is chartered to provide short- and intermediate-term credit, and a neighboring Farm Credit Bank that is not the successor to the Federal intermediate credit bank is chartered to provide long-term credit, in the same geographic territory.
 
-&emsp;(3) Make annual reports directly to Congress on the condition of the System and its institutions, based on the examinations carried out under section 2254 of this title, and on the manner and extent to which the purposes and objectives of this chapter are being carried out and, from time to time, recommend directly legislative changes. The annual reports shall include a summary and analysis of the reports submitted to the Farm Credit Administrationby the Farm Credit Banks under section 2207(b) of this title relating to programs for serving young, beginning, and small farmers and ranchers.
+&emsp;(3) Make annual reports directly to Congress on the condition of the System and its institutions, based on the examinations carried out under section 2254 of this title, and on the manner and extent to which the purposes and objectives of this chapter are being carried out and, from time to time, recommend directly legislative changes. The annual reports shall include a summary and analysis of the reports submitted to the Farm Credit Administration by the Farm Credit Banks under section 2207(b) of this title relating to programs for serving young, beginning, and small farmers and ranchers.
 
 &emsp;(4) Approve the issuance of obligations of the System under subsections (c) and (d) of section 2153 of this title for the purpose of funding the authorized operations of the institutions of the System, and prescribe collateral therefor.
 
@@ -76,7 +76,7 @@ The Farm Credit Administration shall have the following powers, functions, and r
 
 &emsp;&emsp;(i) will include any of the geographic area included in the territory served by an association that was reassigned pursuant to section 433 of the Agricultural Credit Act of 1987 (12 U.S.C. 2071 note) (where the geographic area was a part of the association's territory as of the date of the reassignment); and
 
-&emsp;&emsp;(ii) will authorize the association to exercise lending authority in any territory in the geographic area in which the charter of an association that is not requesting the charter authorizes the association to exercise the type of lending authority that is the subject of the charter request.
+&emsp;&emsp;(ii) will authorize the association to exercise lending authority in any territory inthe geographic area in which the charter of an association that is not requesting the charter authorizes the association to exercise the type of lending authority that is the subject of the charter request.
 
 &emsp;(B) The Farm Credit Administration may approve a charter request under subparagraph (A) only on the approval of—
 
@@ -184,7 +184,7 @@ Pub. L. 100–399, §901(n), substituted “section 2015(b) of this title” for
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation, and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(4) of Pub. L. 102–237, set out as a note under section 1421 of Title 7, Agriculture.
+Amendment by Pub. L. 102–237 effective as if included in the provision of the Food, Agriculture, Conservation,and Trade Act of 1990, Pub. L. 101–624, to which the amendment relates, see section 1101(b)(4) of Pub. L. 102–237, set out as a note under section 1421 of Title 7, Agriculture.
 
 #### Effective Date of 1988 Amendments
 
@@ -198,7 +198,7 @@ Amendment by Pub. L. 99–205 effective thirty days after Dec. 23, 1985, see sec
 
 #### Regulations
 
-Section 424(b) of Pub. L. 100–233 provided that: “Within 30 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shallamend its regulations as necessary to implement the amendment made by subsection (a) \[amending this section\].”
+Section 424(b) of Pub. L. 100–233 provided that: “Within 30 days after the date of the enactment of this Act \[Jan. 6, 1988\], the Farm Credit Administration shall amend its regulations as necessary to implement the amendment made by subsection (a) \[amending this section\].”
 
 #### Termination of Reporting Requirements
 

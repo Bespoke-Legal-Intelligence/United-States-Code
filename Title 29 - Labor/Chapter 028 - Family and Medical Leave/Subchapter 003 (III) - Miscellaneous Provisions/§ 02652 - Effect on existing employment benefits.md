@@ -6,7 +6,7 @@ Nothing in this Act or any amendment made by this Act shall be construed to dimi
 
 #### (b) Less protective
 
-The rights established for employees under this Act or any amendment made by this Act shall not be diminished by any collective bargaining agreement or any employment benefit program or plan.
+The rights established for employees under this Act or any amendment made by this Actshall not be diminished by any collective bargaining agreement or any employment benefit program or plan.
 
 (Pub. L. 103–3, title IV, §402, Feb. 5, 1993, 107 Stat. 26.)
 

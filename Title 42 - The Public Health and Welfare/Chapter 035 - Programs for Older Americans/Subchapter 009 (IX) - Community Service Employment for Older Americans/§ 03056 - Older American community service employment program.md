@@ -64,7 +64,7 @@
 
 (2) The Secretary is authorized to establish, issue, and amend such regulations as may be necessary to effectively carry out the provisions of this subchapter.
 
-(3) The Secretary shall develop alternatives for innovative work modes and provide technical assistance in creating job opportunities throughwork sharing and other experimental methods to labor organizations, groups representing business and industry and workers as well as to individual employers, where appropriate.
+(3) The Secretary shall develop alternatives for innovative work modes and provide technical assistance in creating job opportunities through work sharing and other experimental methods to labor organizations, groups representing business and industry and workers as well as to individual employers, where appropriate.
 
 (4)(A) An assessment and service strategy provided for an eligible individual under this subchapter shall satisfy any condition for an assessment and service strategy or individual employment plan for an adult participant under subtitle B of title I of the Workforce Investment Act of 1998 (29 U.S.C. 2811 et seq.), in order to determine whether such individual qualifies for intensive or training services described in section 134(d) of such Act (29 U.S.C. 2864(d)), in accordance with such Act.
 
@@ -84,7 +84,7 @@
 
 (3) Of the amount for any project to be paid by the Secretary under this subsection, not more than 13.5 percent for any fiscal year shall be available for paying the costs of administration for such project, except that—
 
-&emsp;(A) whenever the Secretary determines that it is necessary to carry out the project assisted under this subchapter, based on information submitted by the grantee with which the Secretary has an agreement under subsection (b) of this section, the Secretary may increase the amount available for paying the cost of administration to an amount not more than 15 percent of the cost of such project; and
+&emsp;(A) whenever the Secretary determines that it is necessary to carry out the project assisted under this subchapter, based on information submitted by the grantee with which the Secretary has an agreement under subsection (b) of this section, the Secretary mayincrease the amount available for paying the cost of administration to an amount not more than 15 percent of the cost of such project; and
 
 &emsp;(B) whenever the grantee with which the Secretary has an agreement under subsection (b) of this section demonstrates to the Secretary that—
 

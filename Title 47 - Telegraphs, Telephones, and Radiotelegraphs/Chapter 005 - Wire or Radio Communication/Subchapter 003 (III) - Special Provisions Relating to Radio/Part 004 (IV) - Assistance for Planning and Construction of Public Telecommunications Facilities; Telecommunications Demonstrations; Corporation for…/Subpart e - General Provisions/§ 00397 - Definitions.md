@@ -26,7 +26,7 @@ For the purposes of this part—
 
 (8) The term “nonprofit” (as applied to any foundation, corporation, or association) means a foundation, corporation, or association, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
-(9) The term “non-Federal financial support” means the total value of cash and the fair market value of property and services (including, to the extent provided in the second sentence ofthis paragraph, the personal services of volunteers) received—
+(9) The term “non-Federal financial support” means the total value of cash and the fair market value of property and services (including, to the extent provided in the second sentence of this paragraph, the personal services of volunteers) received—
 
 &emsp;(A) as gifts, grants, bequests, donations, or other contributions for the construction or operation of noncommercial educational broadcast stations, or for the production, acquisition, distribution, or dissemination of educational television or radio programs, and related activities, from any source other than (i) the United States or any agency or instrumentality of the United States; or (ii) any public broadcasting entity; or
 
@@ -74,7 +74,7 @@ Par. (15). Pub. L. 101–437, §203(b)(2), inserted “and subpart B” after �
 
 1981—Par. (15). Pub. L. 97–35 substituted “Health and Human Services” for “Health, Education, and Welfare”.
 
-1978—Pub. L. 95–567, revised definition of “construction”, “corporation”, “interconnection”, “noncommercial educational broadcast station”, “non-Federal financial support”, “Secretary” and “State”, inserted definitions of “meeting”, “interconnection system”,“noncommercial telecommunications entity”, “preoperational expenses”, “public telecommunications entity”, “public telecommunications facilities”, and “public telecommunications services”, and deleted definitions of “educational television or radio programs” and “State educational television agency” in order to make such definitions consistent with the chapter as amended.
+1978—Pub. L. 95–567, revised definition of “construction”, “corporation”, “interconnection”, “noncommercial educational broadcast station”, “non-Federal financial support”, “Secretary” and “State”, inserted definitions of “meeting”, “interconnection system”, “noncommercial telecommunications entity”, “preoperational expenses”, “public telecommunications entity”, “public telecommunications facilities”, and “public telecommunications services”, and deleted definitions of “educational television or radio programs” and “State educational television agency” in order to make such definitions consistent with the chapter as amended.
 
 1976—Par. (2). Pub. L. 94–309 substituted “transmission and reception apparatus” for “transmission apparatus” and “closed circuit television or radio programs” for “closed circuit television programs” and inserted in parenthetical text reference to non-video recording equipment, radio subcarrier receivers and satellite transceivers.
 

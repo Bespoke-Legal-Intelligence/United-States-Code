@@ -6,7 +6,7 @@ For the purpose of promoting responsible repayment of loans covered by Federal l
 
 &emsp;(1) the total amount of loans made to any borrower under this part and the remaining balance of the loans;
 
-&emsp;(2) information concerning the date of any default on the loan and the collection of the loan, including information concerning the repayment status of any defaulted loan on which the Secretary has made a payment pursuant to section 1080(a) of this title or the guaranty agency has made a payment to the previous holder of the loan; and
+&emsp;(2) information concerning the date of any default on the loan and the collection of the loan, including information concerning the repayment status of any defaulted loan on which the Secretary has made a payment pursuantto section 1080(a) of this title or the guaranty agency has made a payment to the previous holder of the loan; and
 
 &emsp;(3) the date of cancellation of the note upon completion of repayment by the borrower of the loan or payment by the Secretary pursuant to section 1087 of this title.
 
@@ -54,7 +54,7 @@ Paragraph (6) of subsection (a) of section 605 of the Fair Credit Reporting Act,
 
 #### Prior Provisions
 
-A prior section 1080a, Pub. L. 89–329, title IV, §430A, as added Pub. L. 99–272, title XVI, §16023, Apr. 7, 1986,100 Stat. 349; amended Pub. L. 99–320, §2(c), May 23, 1986, 100 Stat. 491, related to reports to credit bureaus and institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1080a, Pub. L. 89–329, title IV, §430A, as added Pub. L. 99–272, title XVI, §16023, Apr. 7, 1986, 100 Stat. 349; amended Pub. L. 99–320, §2(c), May 23, 1986, 100 Stat. 491, related to reports to credit bureaus and institutions of higher education, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

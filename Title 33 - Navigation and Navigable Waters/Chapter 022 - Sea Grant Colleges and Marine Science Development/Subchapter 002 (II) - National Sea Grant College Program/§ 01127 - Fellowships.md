@@ -2,35 +2,35 @@
 
 #### (a) In general
 
-To carry out the educational and training objectives of this subchapter, the Secretary shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be related to ocean, coastal, and Great Lakes resources and awarded pursuant to guidelines established by the Secretary.
+To carry out the educational and training objectives of this subchapter, the Secretary shall support a program of fellowships for qualified individuals at the graduate and post-graduate level. The fellowships shall be related to ocean, coastal, and Great Lakes resources and awarded pursuant to guidelines established by the Secretary. The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection. Not later than 1 year after November 26, 2002, and every 2 years thereafter, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.
 
 #### (b) Dean John A. Knauss Marine Policy Fellowship
 
 The Secretary may award marine policy fellowships to support the placement of individuals at the graduate level of education in fields related to ocean, coastal and Great Lakes resources in positions with the executive and legislative branches of the United States Government. A fellowship awarded under this subsection shall be for a period of not more than 1 year.
 
-#### (c) Postdoctoral fellowships
-
-The Secretary shall establish and administer a program of postdoctoral fellowships to accelerate research in critical subject areas. The fellowship awards—
-
-&emsp;(1) shall be for 2 years;
-
-&emsp;(2) may be renewed once for not more than 2 years;
-
-&emsp;(3) shall be awarded on a nationally competitive basis;
-
-&emsp;(4) may be used at any institution of post-secondary education involved in the national sea grant college program;
-
-&emsp;(5) shall be for up to 100 percent of the total cost of the fellowship; and
-
-&emsp;(6) may be made to recipients of terminal professional degrees, as well as doctoral degree recipients.
-
-(Pub. L. 89–454, title II, §208, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–66, §3, July 10, 1987, 101 Stat. 384; Pub. L. 100–220, title III, §3107, Dec. 29, 1987, 101 Stat. 1472; Pub. L. 102–186, §4(b)(1)(C), (D), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 105–160, §4(b)(2), Mar. 6, 1998, 112 Stat. 22.)
+(Pub. L. 89–454, title II, §208, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–66, §3, July 10, 1987, 101 Stat. 384; Pub. L. 100–220, title III, §3107, Dec. 29, 1987, 101 Stat. 1472; Pub. L. 102–186, §4(b)(1)(C), (D), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 105–160, §4(b)(2), Mar. 6, 1998, 112 Stat. 22; Pub. L. 107–299, §5, Nov. 26, 2002, 116 Stat. 2346.)
 
 #### References in Text
 
 This subchapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–299, §5(a), inserted at end “The Secretary shall strive to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection. Not later than 1 year after November 26, 2002, and every 2 years thereafter, the Secretary shall submit a report to the Congress describing the efforts by the Secretary to ensure equal access for minority and economically disadvantaged students to the program carried out under this subsection, and the results of such efforts.”
+
+Subsec. (c). Pub. L. 107–299, §5(b), struck out heading and text of subsec. (c). Text read as follows: “The Secretary shall establish and administer a program of postdoctoral fellowships to accelerate research in critical subject areas. The fellowship awards—
+
+&emsp;“(1) shall be for 2 years;
+
+&emsp;“(2) may be renewed once for not more than 2 years;
+
+&emsp;“(3) shall be awarded on a nationally competitive basis;
+
+&emsp;“(4) may be used at any institution of post-secondary education involved in the national sea grant college program;
+
+&emsp;“(5) shall be for up to 100 percent of the total cost of the fellowship; and
+
+&emsp;“(6) may be made to recipients of terminal professional degrees, as well as doctoral degree recipients.”
 
 1998—Pub. L. 105–160 substituted “Secretary” for “Under Secretary” in subsec. (a) in two places and in subsecs. (b) and (c).
 

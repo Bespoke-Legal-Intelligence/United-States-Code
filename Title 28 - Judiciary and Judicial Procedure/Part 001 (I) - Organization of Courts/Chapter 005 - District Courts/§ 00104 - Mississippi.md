@@ -58,17 +58,17 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b)(3). Pub. L. 106–130, in second sentence, struck out “: <i>Provided</i>, That court shall be held at Natchez if suitable quarters and accommodations are furnished at no cost to the United States” before period at end.
+1999—Subsec. (b)(3). Pub. L. 106–130, in second sentence, struck out “: <i>Provided</i>, That court shall be held at Natchez if suitable quarters and accommodations are furnished at no cost to the United States” before period at end.
 
-<b>1978</b>—Subsec. (a)(1). Pub. L. 95–408 provided for holding court at Corinth.
+1978—Subsec. (a)(1). Pub. L. 95–408 provided for holding court at Corinth.
 
-<b>1970</b>—Subsec. (b)(3). Pub. L. 91–546, §3, provided for holding court at Natchez if suitable quarters and accommodations are furnished at no cost to the United States.
+1970—Subsec. (b)(3). Pub. L. 91–546, §3, provided for holding court at Natchez if suitable quarters and accommodations are furnished at no cost to the United States.
 
 Subsec. (b)(4). Pub. L. 91–546, §2, provided for holding court at Gulfport.
 
-<b>1967</b>—Subsec. (a)(1). Pub. L. 90–92 provided for holding court at Ackerman.
+1967—Subsec. (a)(1). Pub. L. 90–92 provided for holding court at Ackerman.
 
-<b>1950</b>—Act Aug. 7, 1950, created Greenville division in the northern district with terms of courts to be held at Greenville.
+1950—Act Aug. 7, 1950, created Greenville division in the northern district with terms of courts to be held at Greenville.
 
 #### Effective Date of 1978 Amendment; Savings Provision
 

@@ -1,14 +1,16 @@
 ### §3761. Allocation of funds for grants
 
-Of the total amount appropriated for this subchapter (other than subpart 2 of this part) in any fiscal year, 20 percent or $50,000,000, whichever is less, shall be reserved and set aside for this section in a special discretionary fund for use by the Director in carrying out the purposes specified in section 3753 of this title. Grants under this section may be made for amounts up to 100 percent of the costs of the programs or projects contained in the approved application.
+Of the total amount appropriated for this subchapter (other than subpart 2 of this part) in any fiscal year, 20 percent or $50,000,000, whichever is less, shall be reserved and set aside for this section in a special discretionary fund for use by the Director in carrying out the purposes specified in section 3751(b) of this title. Grants under this section may be made for amounts up to 100 percent of the costs of the programs or projects contained in the approved application.
 
-(Pub. L. 90–351, title I, §511, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4336; amended Pub. L. 101–647, title XVIII, §1801(a)(3), Nov. 29, 1990, 104 Stat. 4847.)
+(Pub. L. 90–351, title I, §511, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4336; amended Pub. L. 101–647, title XVIII, §1801(a)(3), Nov. 29, 1990, 104 Stat. 4847; Pub. L. 107–273, div. A, title II, §203(a)(5), Nov. 2, 2002, 116 Stat. 1775.)
 
 #### Prior Provisions
 
 For prior section 511 of Pub. L. 90–351 and prior sections 3761 of this title, see note set out preceding section 3750 of this title.
 
 #### Amendments
+
+2002—Pub. L. 107–273 substituted “3751(b)” for “3753”.
 
 1990—Pub. L. 101–647 struck out “discretionary” before “grants” in section catchline and inserted “(other than subpart 2 of this part)” after “subchapter” in text.
 

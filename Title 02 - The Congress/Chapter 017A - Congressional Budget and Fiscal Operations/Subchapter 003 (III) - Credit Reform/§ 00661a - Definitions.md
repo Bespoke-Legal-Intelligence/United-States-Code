@@ -28,7 +28,7 @@ For purposes of this subchapter—
 
 &emsp;&emsp;(ii) payments to the Government including origination and other fees, penalties and recoveries;
 
-> &emsp;including the effects of changes in loan terms resulting from the exercise by the guaranteedlender of an option included in the loan guarantee contract, or by the borrower of an option included in the guaranteed loan contract.
+> &emsp;including the effects of changes in loan terms resulting from the exercise by the guaranteed lender of an option included in the loan guarantee contract, or by the borrower of an option included in the guaranteed loan contract.
 
 &emsp;(D) The cost of a modification is the difference between the current estimate of the net present value of the remaining cash flows under the terms of a direct loan or loan guarantee contract, and the current estimate of the net present value of the remaining cash flows under the terms of the contract, as modified.
 

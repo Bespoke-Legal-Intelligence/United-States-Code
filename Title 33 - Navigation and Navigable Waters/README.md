@@ -1,5 +1,5 @@
 
-33 U.S.C.<br>United States Code, 2001 Edition<br>Title 33 - NAVIGATION AND NAVIGABLE WATERS<br>From the U.S. Government Publishing Office, www.gpo.gov
+33 U.S.C.<br>United States Code, 2002 Edition<br>Title 33 - NAVIGATION AND NAVIGABLE WATERS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 33—NAVIGATION AND NAVIGABLE WATERS
 
@@ -48,6 +48,7 @@
 | [<b>40.</b>](Chapter%20040%20-%20Oil%20Pollution/README.md) | <b>Oil Pollution</b> | <b>2701</b> |
 | [<b>41.</b>](Chapter%20041%20-%20National%20Coastal%20Monitoring/README.md) | <b>National Coastal Monitoring</b> | <b>2801</b> |
 | [<b>42.</b>](Chapter%20042%20-%20Estuary%20Restoration/README.md) | <b>Estuary Restoration</b> | <b>2901</b> |
+| [<b>43.</b>](Chapter%20043%20-%20National%20Oceanic%20and%20Atmospheric%20Administration%20Commissioned%20Officer%20Corps/README.md) | <b>National Oceanic and Atmospheric Administration Commissioned Officer Corps</b> | <b>3001</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -103,3 +104,4 @@ This title is referred to in title 42 section 9607; title 46 App. section 1273a.
 - [Chapter 040 - Oil Pollution](Chapter%20040%20-%20Oil%20Pollution/README.md)
 - [Chapter 041 - National Coastal Monitoring](Chapter%20041%20-%20National%20Coastal%20Monitoring/README.md)
 - [Chapter 042 - Estuary Restoration](Chapter%20042%20-%20Estuary%20Restoration/README.md)
+- [Chapter 043 - National Oceanic and Atmospheric Administration Commissioned Officer Corps](Chapter%20043%20-%20National%20Oceanic%20and%20Atmospheric%20Administration%20Commissioned%20Officer%20Corps/README.md)

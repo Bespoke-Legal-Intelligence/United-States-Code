@@ -10,7 +10,7 @@ Atomic Energy Commission abolished and functions transferred by sections 5814 an
 
 #### Executive Order No. 10657
 
-Ex. Ord. No. 10657, eff. Feb. 14, 1956, 21 F.R. 1063, as amended by Ex. Ord. No. 10734, eff. Oct. 17, 1957, 22 F.R. 8275; Ex. Ord. No. 11105, eff. Apr. 18, 1963, 28 F.R. 3909, which related to the transfer of certain functions of theAtomic Energy Commission under this chapter to the Housing and Home Finance Administrator, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 10657, eff. Feb. 14, 1956, 21 F.R. 1063, as amended by Ex. Ord. No. 10734, eff. Oct. 17, 1957, 22 F.R. 8275; Ex. Ord. No. 11105, eff. Apr. 18, 1963, 28 F.R. 3909, which related to the transfer of certain functions of the Atomic Energy Commission under this chapter to the Housing and Home Finance Administrator, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Executive Order No. 11105
 

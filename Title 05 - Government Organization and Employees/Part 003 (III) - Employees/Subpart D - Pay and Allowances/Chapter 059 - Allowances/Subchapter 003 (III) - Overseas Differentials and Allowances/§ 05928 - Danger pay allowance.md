@@ -1,6 +1,6 @@
 ### §5928. Danger pay allowance
 
-An employee serving in a foreign area may be granted a danger pay allowance on the basis of civil insurrection, civil war, terrorism, or wartime conditions which threaten physical harm or imminent danger to the health or well-being of the employee. A danger pay allowance may not exceed 25 percent of the basic pay of the employee, except that if an employee is granted anadditional differential under section 5925(b) of this title with respect to an assignment, the sum of that additional differential and any danger pay allowance granted to the employee with respect to that assignment may not exceed 25 percent of the basic pay of the employee. The presence of nonessential personnel or dependents shall not preclude payment of an allowance under this section. In each instance where an allowance under this section is initiated or terminated, the Secretary of State shall inform the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of the action taken and the circumstances justifying it.
+An employee serving in a foreign area may be granted a danger pay allowance on the basis of civil insurrection, civil war, terrorism, or wartime conditions which threaten physical harm or imminent danger to the health or well-being of the employee. A danger pay allowance may not exceed 25 percent of the basic pay of the employee, except that if an employee is granted an additional differential under section 5925(b) of this title with respect to an assignment, the sum of that additional differential and any danger pay allowance granted to the employee with respect to that assignment may not exceed 25 percent of the basic pay of the employee. The presence of nonessential personnel or dependents shall not preclude payment of an allowance under this section. In each instance where an allowance under this section is initiated or terminated, the Secretary of State shall inform the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate of the action taken and the circumstances justifying it.
 
 (Added Pub. L. 96–465, title II, §2311(a), Oct. 17, 1980, 94 Stat. 2166; amended Pub. L. 98–164, title I, §131, Nov. 22, 1983, 97 Stat. 1028.)
 
@@ -12,9 +12,9 @@ An employee serving in a foreign area may be granted a danger pay allowance on t
 
 Section effective Feb. 15, 1981, except as otherwise provided, see section 2403 of Pub. L. 96–465, set out as a note under section 3901 of Title 22, Foreign Relations and Intercourse.
 
-#### Danger Pay Allowance; DEA Employee
+#### Danger Pay Allowance; DEA or FBI Employee
 
-Pub. L. 101–246, title I, §151, Feb. 16, 1990, 104 Stat. 42, provided that: “The Secretary of State may not deny a request by the Drug Enforcement Administration to authorize a danger pay allowance (under section 5928 of title 5, United States Code) for any employee of such agency.”
+Pub. L. 101–246, title I, §151, Feb. 16, 1990, 104 Stat. 42, as amended by Pub. L. 107–273, div. C, title I, §11005, Nov. 2, 2002, 116 Stat. 1817, provided that: “The Secretary of State may not deny a request by the Drug Enforcement Administration or Federal Bureau of Investigation to authorize a danger pay allowance (under section 5928 of title 5, United States Code) for any employee of such agency.”
 
 #### Greater Utilization of Danger Pay Allowance
 
@@ -22,5 +22,5 @@ Pub. L. 98–533, title III, §304, Oct. 19, 1984, 98 Stat. 2711, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5307, 5551 of this title; title 22 sections 1474, 4057; title 50 section 2081.
+This section is referred to in sections 5307, 5551, 5949 of this title; title 22 sections 1474, 4057; title 50 section 2081.
 

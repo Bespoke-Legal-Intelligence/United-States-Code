@@ -44,7 +44,7 @@ Par. (a). Pub. L. 95–405, §13(2), inserted “on the record” after “upon 
 
 1974—Pub. L. 93–463, §103(a), substituted “Commission” for “Secretary of Agriculture” in first par.
 
-Par. (a). Pub. L. 93–463, §103(c), struck out “the Secretary of Agriculture, who shall thereupon notify theother members of” after “The clerk of the court in which such a petition is filed shall immediately cause a copy thereof to be delivered to”.
+Par. (a). Pub. L. 93–463, §103(c), struck out “the Secretary of Agriculture, who shall thereupon notify the other members of” after “The clerk of the court in which such a petition is filed shall immediately cause a copy thereof to be delivered to”.
 
 Pub. L. 93–463, §103(a), provided for substitution of “Commission” for “Secretary of Agriculture” except where such words would be stricken by section 103(b), which directed striking the words “the Secretary of Agriculture or” where they appeared in the phrase “the Secretary of Agriculture or the Commission”. Because the word “commission” was not capitalized in that phrase in par. (a), section 103(b) did not apply to par. (a) and therefore section 103(a) was executed, resulting in the substitution of “the Commission or the commission” for “the Secretary of Agriculture or the commission”.
 

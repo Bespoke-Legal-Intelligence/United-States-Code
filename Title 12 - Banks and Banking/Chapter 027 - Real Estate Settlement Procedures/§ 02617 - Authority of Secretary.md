@@ -6,7 +6,7 @@ The Secretary is authorized to prescribe such rules and regulations, to make suc
 
 #### (b) Liability for acts done in good faith in conformity with rule, regulation, or interpretation
 
-No provision of this chapter or the laws of any State imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Secretary or the Attorney General, notwithstanding that after such act or omission has occurred, such rule, regulation, or interpretation is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
+No provision of this chapter or the laws of any State imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule, regulation, or interpretation thereof by the Secretary or the Attorney General, notwithstanding that after such act oromission has occurred, such rule, regulation, or interpretation is amended, rescinded, or determined by judicial or other authority to be invalid for any reason.
 
 #### (c) Investigations; hearings; failure to obey order; contempt
 

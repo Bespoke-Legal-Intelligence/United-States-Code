@@ -22,13 +22,13 @@ With respect to a grant, contract or cooperative agreement under subsection (a) 
 
 #### (f) Authorization of appropriations
 
-There is authorized to be appropriated to carry out this section, $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2002 and 2003.
+There is authorized to be appropriated to carry out this section, $50,000,000 for fiscal year 2001, and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
 #### (g) Short title
 
 This section may be cited as the “Donald J. Cohen National Child Traumatic Stress Initiative”.
 
-(July 1, 1944, ch. 373, title V, §582, as added Pub. L. 106–310, div. B, title XXXI, §3101, Oct. 17, 2000, 114 Stat. 1169; amended Pub. L. 107–116, title II, §218, Jan. 10, 2002, 115 Stat. 2201.)
+(July 1, 1944, ch. 373, title V, §582, as added Pub. L. 106–310, div. B, title XXXI, §3101, Oct. 17, 2000, 114 Stat. 1169; amended Pub. L. 107–116, title II, §218, Jan. 10, 2002, 115 Stat. 2201; Pub. L. 107–188, title I, §155, June 12, 2002, 116 Stat. 633.)
 
 #### Codification
 
@@ -36,5 +36,7 @@ Another section 582 of act July 1, 1944, is classified to section 290kk–1 of t
 
 #### Amendments
 
-2002—Subsec. (g). Pub. L. 107–116 added subsec. (g).
+2002—Subsec. (f). Pub. L. 107–188 substituted “2003 through 2006” for “2002 and 2003”.
+
+Subsec. (g). Pub. L. 107–116 added subsec. (g).
 

@@ -6,7 +6,7 @@ The Secretary of the Interior shall transfer all right, title, and interest of t
 
 #### (b) Land description
 
-The parcel of land referred to in subsection (a) of this section is all those certain lots, tracts orparcels of land lying and being situated in the County of Potter and State of Texas, and being the East Three Hundred Thirty-One (E331) acres out of Section Seventy-eight (78) in Block Nine (9), B.S. \& F. Survey, (some times known as the G.D. Landis pasture) Potter County, Texas, located by certificate No. 1/39 and evidenced by letters patents Nos. 411 and 412 issued by the State of Texas under date of November 23, 1937, and of record in Vol. 66A of the Patent Records of the State of Texas. The metes and bounds description of such lands is as follows:
+The parcel of land referred to in subsection (a) of this section is all those certain lots, tracts or parcels of land lying and being situated in the County of Potter and State of Texas, and being the East Three Hundred Thirty-One (E331) acres out of Section Seventy-eight (78) in Block Nine (9), B.S. \& F. Survey, (some times known as the G.D. Landis pasture) Potter County, Texas, located by certificate No. 1/39 and evidenced by letters patents Nos. 411 and 412 issued by the State of Texas under date of November 23, 1937, and of record in Vol. 66A of the Patent Records of the State of Texas. The metes and bounds description of such lands is as follows:
 
 #### (1) First tract
 

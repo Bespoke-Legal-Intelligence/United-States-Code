@@ -1,0 +1,34 @@
+### §17703. National defense considerations and qualification of transferee
+
+A transfer under this chapter shall not be made unless the Secretary of Defense determines that—
+
+&emsp;(1) the Federal Government does not need to retain the property involved in the transfer for national defense purposes;
+
+&emsp;(2) the transfer is in the public interest;
+
+&emsp;(3) the person to whom the transfer is made is prepared and qualified to provide the communication service involved in the transfer without interruption; and
+
+&emsp;(4) the long-lines communication facilities will not directly or indirectly be owned, operated, or controlled by a person that would legally be disqualified from holding a radio station license by section 310(a) of the Communications Act of 1934 (47 U.S.C. 310(a)).
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1287.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+17703
+
+40:782.
+
+Pub. L. 90–135, title I, §202, Nov. 14, 1967, 81 Stat. 443.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 17702 of this title.
+

@@ -16,7 +16,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) materials relating to private political associations, and having no relation to or direct effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of the President; and
 
-&emsp;&emsp;(C) materials relating exclusively to the President's own election to the office of the Presidency; and materials directly relating to the election of a particular individual or individuals to Federal, State, or local office, which have no relation to or direct effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of the President.
+&emsp;&emsp;(C) materials relating exclusively to the President's own election to the office of the Presidency; and materials directly relatingto the election of a particular individual or individuals to Federal, State, or local office, which have no relation to or direct effect upon the carrying out of constitutional, statutory, or other official or ceremonial duties of the President.
 
 &emsp;(4) The term “Archivist” means the Archivist of the United States.
 

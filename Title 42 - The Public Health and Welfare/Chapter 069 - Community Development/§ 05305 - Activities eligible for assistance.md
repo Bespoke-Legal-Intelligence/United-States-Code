@@ -26,9 +26,9 @@ Activities assisted under this chapter may include only—
 
 &emsp;(11) relocation payments and assistance for displaced individuals, families, businesses, organizations, and farm operations, when determined by the grantee to be appropriate;
 
-&emsp;(12) activities necessary (A) to develop a comprehensive community development plan, and (B) to develop a policy-planning-management capacity so that the recipient of assistance under this chapter may more rationally and effectively (i) determine its needs, (ii) setlong-term goals and short-term objectives, (iii) devise programs and activities to meet these goals and objectives, (iv) evaluate the progress of such programs in accomplishing these goals and objectives, and (v) carry out management, coordination, and monitoring of activities necessary for effective planning implementation;
+&emsp;(12) activities necessary (A) to develop a comprehensive community development plan, and (B) to develop a policy-planning-management capacity so that the recipient of assistance under this chapter may more rationally and effectively (i) determine its needs, (ii) set long-term goals and short-term objectives, (iii) devise programs and activities to meet these goals and objectives, (iv) evaluate the progress of such programs in accomplishing these goals and objectives, and (v) carry out management, coordination, and monitoring of activities necessary for effective planning implementation;
 
-&emsp;(13) payment of reasonable administrative costs related to establishing and administering federally approved enterprise zones and payment of reasonable administrative costs and carrying charges related to (A) administering the HOME program under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\]; and (B) the planning and execution of community development and housing activities, including the provision of information and resources to residents of areas in which community development and housing activities are to be concentrated with respect to the planning and execution of such activities, and including the carrying out of activities as described in section 461(e) <sup>1</sup> of title 40 on August 12, 1981;
+&emsp;(13) payment of reasonable administrative costs related to establishing and administering federally approved enterprise zones and payment of reasonable administrative costs and carrying charges related to (A) administering the HOME program under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\]; and (B) the planning and execution of community development and housing activities, including the provision of information and resources to residents of areas in which community development and housing activities are to be concentrated with respect to the planning and execution of such activities, and including the carrying out of activities as described in section 701(e) of the Housing Act of 1954 <sup>1</sup> on August 12, 1981;
 
 &emsp;(14) provision of assistance including loans (both interim and long-term) and grants for activities which are carried out by public or private nonprofit entities, including (A) acquisition of real property; (B) acquisition, construction, reconstruction, rehabilitation, or installation of (i) public facilities (except for buildings for the general conduct of government), site improvements, and utilities, and (ii) commercial or industrial buildings or structures and other commercial or industrial real property improvements; and (C) planning;
 
@@ -170,13 +170,13 @@ Notwithstanding any other provision of law, no amount from a grant under section
 
 #### References in Text
 
-Public Law 98–8, referred to in subsec. (a)(8), is Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 13. Provisions of that Actrelating to assistance under this chapter are not classified to the Code. For complete classification of this Act to the Code, see Tables.
+Public Law 98–8, referred to in subsec. (a)(8), is Pub. L. 98–8, Mar. 24, 1983, 97 Stat. 13. Provisions of that Act relating to assistance under this chapter are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 The Housing Act of 1949, referred to in subsec. (a)(10), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended. Title I of the Housing Act of 1949 was classified generally to subchapter II (§1450 et seq.) of chapter 8A of this title, and was omitted from the Code pursuant to section 5316 of this title which terminated authority to make grants and loans under such title I after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of this title and Tables.
 
 The Cranston-Gonzalez National Affordable Housing Act, referred to in subsec. (a)(13)(A), (20), is Pub. L. 101–625, Nov. 28, 1990, 104 Stat. 4079. Title II of the Act, known as the HOME Investment Partnerships Act, is classified principally to subchapter II (§12721 et seq.) of chapter 130 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 12701 of this title and Tables.
 
-Section 461(e) of title 40, referred to in subsec. (a)(13)(B), was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
+Section 701(e) of the Housing Act of 1954, referred to in subsec. (a)(13)(B), is section 701(e) of act Aug. 2, 1954, ch. 649, 68 Stat. 640, as amended, which was classified to section 461(e) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
 
 Section 681(d) of title 15, referred to in subsec. (a)(15), was repealed by Pub. L. 104–208, div. D, title II, §208(b)(3)(A), Sept. 30, 1996, 110 Stat. 3009–742.
 
@@ -206,7 +206,7 @@ Subsec. (a)(8). Pub. L. 104–204 substituted “through 1998” for “through 
 
 Subsec. (a)(13). Pub. L. 104–134, §101(e) \[title II, §225(2)\], struck out “and” at end.
 
-Subsec. (a)(19). Pub. L. 104–134, §101(e) \[title II, §225(3), (6)\], redesignated par. (20) as (19) and struck out former par. (19) which read as follows: “provision of assistance to facilitate substantial reconstruction of housing owned and occupied by low and moderate income persons (A) where the need for the reconstruction was not determinable until after rehabilitation under this section had already commenced, or (B) where the reconstruction is part of a neighborhood rehabilitation effort and the grantee (i) determines the housing is not suitable for rehabilitation, and (ii) demonstrates to the satisfaction of the Secretary that the cost of substantial reconstruction is significantly less than the cost of new construction and less than the fair market value of the property after substantial reconstruction;”.
+Subsec. (a)(19). Pub. L. 104–134, §101(e) \[title II, §225(3), (6)\], redesignated par. (20) as (19) and struck out former par. (19) which read as follows: “provision of assistance to facilitate substantial reconstruction of housing owned and occupied by low and moderate income persons (A) where the need for the reconstruction was not determinable until after rehabilitation under this section had already commenced, or (B) where the reconstruction is part of a neighborhood rehabilitation effort and the grantee (i) determines the housing is not suitable for rehabilitation, and (ii) demonstrates to thesatisfaction of the Secretary that the cost of substantial reconstruction is significantly less than the cost of new construction and less than the fair market value of the property after substantial reconstruction;”.
 
 Subsec. (a)(20). Pub. L. 104–134, §101(e) \[title II, §225(6)\], redesignated par. (21) relating to housing services as (20). Former par. (20) redesignated (19).
 
@@ -304,7 +304,7 @@ Subsec. (a)(9). Pub. L. 97–35, §309(f)(3), substituted “activities assisted
 
 Subsec. (a)(11). Pub. L. 97–35, §309(f)(4), struck out “to the community development program” after “appropriate”.
 
-Subsec. (a)(13). Pub. L. 97–35, §303(a)(2), inserted reference to the carrying out of activities as described in section 461(e) of title 40 on Aug. 12, 1981.
+Subsec. (a)(13). Pub. L. 97–35, §303(a)(2), inserted reference to the carrying out of activities as described in section 701(e) of the Housing Act of 1954 on Aug. 12, 1981.
 
 Subsec. (a)(14). Pub. L. 97–35, §309(f)(5), substituted “which are carried out by public or private non-profit entities” for “(as specifically described in the application submitted pursuant to section 5304 of this title) which are carried out by public or private non-profit entities when such activities are necessary or appropriate to meeting the needs and objectives of the community development plan described in section 5304(a)(1) of this title”.
 
@@ -332,7 +332,7 @@ Subsec. (a)(16). Pub. L. 96–399, §104(c)(5), added par. (16).
 
 Subsec. (a)(4). Pub. L. 95–128, §105(b), substituted “(including interim assistance, and financing public or private acquisition for rehabilitation, and rehabilitation, of privately owned properties)” for “(including interim assistance and financing rehabilitation of privately owned properties when incidental to other activities)”.
 
-Subsec. (a)(8). Pub. L. 95–128, §105(c), struck out from cl. (A) “economic development,” before “crime prevention” and authorized the program to provide publicservices only if such services have not been provided by the unit of general local government during any part of the twelve-month period preceding the date of application submission for funds to be made available under this chapter, and to be utilized for such services, unless the Secretary finds that the discontinuation of such services was the result of events not within the control of the applicant.
+Subsec. (a)(8). Pub. L. 95–128, §105(c), struck out from cl. (A) “economic development,” before “crime prevention” and authorized the program to provide public services only if such services have not been provided by the unit of general local government during any part of the twelve-month period preceding the date of application submission for funds to be made available under this chapter, and to be utilized for such services, unless the Secretary finds that the discontinuation of such services was the result of events not within the control of the applicant.
 
 Subsec. (a)(14), (15). Pub. L. 95–128, §105(d), added pars. (14) and (15).
 
@@ -360,7 +360,7 @@ Section 101(e) \[title II\] of Pub. L. 104–134, Apr. 26, 1996, 110 Stat. 1321�
 
 Pub. L. 104–120, §3(a), Mar. 28, 1996, 110 Stat. 835, provided that: “Notwithstanding the amendments made by section 907(b)(2) of the Cranston-Gonzalez National Affordable Housing Act \[Pub. L. 101–625, set out below\], section 105(a)(25) of the Housing and Community Development Act of 1974 \[subsec. (a)(25) \[now (24)\] of this section\], as in existence on September 30, 1995, shall apply to the use of assistance made available under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\] during fiscal year 1996.”
 
-Amendment by section 907(b)(2) of Pub. L. 101–625, as amended by Pub. L. 102–550, title VIII, §807(b)(1), (2), Oct. 28, 1992, 106 Stat. 3849, effective “October 1, 1994 (or October 1, 1995, if the Secretary determines that such later date is necessary to continue to provide homeownership assistance until homeownership assistance is available under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\])”. \[Date extended by Secretary to Oct. 1, 1995, see 59 F.R. 49954, Sept. 30, 1994.\]
+Amendment by section 907(b)(2) of Pub. L. 101–625, as amended by Pub. L. 102–550, title VIII, §807(b)(1), (2), Oct. 28, 1992, 106 Stat. 3849, effective “October 1, 1994 (orOctober 1, 1995, if the Secretary determines that such later date is necessary to continue to provide homeownership assistance until homeownership assistance is available under title II of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 12721 et seq.\])”. \[Date extended by Secretary to Oct. 1, 1995, see 59 F.R. 49954, Sept. 30, 1994.\]
 
 #### Effective Date of 1984 Amendment
 

@@ -48,7 +48,7 @@
 
 &emsp;(E) for an individual whose date of birth is after December 31, 1969, 57 years of age.
 
-(2)(A) For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1948 through 1952, the age increasefactor shall be equal to two-twelfths times the number of months in the period beginning with January 1948 and ending with December of the year in which the date of birth occurs.
+(2)(A) For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1948 through 1952, the age increase factor shall be equal to two-twelfths times the number of months in the period beginning with January 1948 and ending with December of the year in which the date of birth occurs.
 
 (B) For an individual whose date of birth occurs during the 5-year period consisting of calendar years 1965 through 1969, the age increase factor shall be equal to two-twelfths times the number of months in the period beginning with January 1965 and ending with December of the year in which the date of birth occurs.
 

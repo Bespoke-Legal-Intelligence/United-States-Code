@@ -14,7 +14,7 @@
 
 #### (B) At time of required petition
 
-&emsp;&emsp;In addition, the Attorney General shall attempt to provide notice to such a spouse, son, or daughter, at or about the beginningof the 90-day period described in subsection (d)(2)(A) of this section, of the requirements of subsections <sup>1</sup> (c)(1) of this section.
+&emsp;&emsp;In addition, the Attorney General shall attempt to provide notice to such a spouse, son, or daughter, at or about the beginning of the 90-day period described in subsection (d)(2)(A) of this section, of the requirements of subsections <sup>1</sup> (c)(1) of this section.
 
 #### (C) Effect of failure to provide notice
 
@@ -88,11 +88,11 @@
 
 #### (D) Hearing in removal proceeding
 
-&emsp;&emsp;Any alien whose permanent resident status is terminated under subparagraph (C)may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) of this section and alleged in the petition are not true with respect to the qualifying marriage.
+&emsp;&emsp;Any alien whose permanent resident status is terminated under subparagraph (C) may request a review of such determination in a proceeding to remove the alien. In such proceeding, the burden of proof shall be on the Attorney General to establish, by a preponderance of the evidence, that the facts and information described in subsection (d)(1) of this section and alleged in the petition are not true with respect to the qualifying marriage.
 
 #### (4) Hardship waiver
 
-&emsp;The Attorney General, in the Attorney General's discretion, may remove the conditional basis of the permanent resident status for an alien who fails to meet the requirements of paragraph (1) if the alien demonstrates that—
+&emsp;The Attorney General, in the Attorney General's discretion, may remove the conditionalbasis of the permanent resident status for an alien who fails to meet the requirements of paragraph (1) if the alien demonstrates that—
 
 &emsp;&emsp;(A) extreme hardship would result if such alien is removed,
 
@@ -154,7 +154,7 @@ For purposes of subchapter III of this chapter, in the case of an alien who is i
 
 #### (f) Treatment of certain waivers
 
-In the case of an alien who has permanent residence status on a conditional basis under this section, if, in order to obtain such status, the alien obtained a waiver under subsection (h) or\(i) of section 1182 of this title of certain grounds of inadmissibility, such waiver terminates upon the termination of such permanent residence status under this section.
+In the case of an alien who has permanent residence status on a conditional basis under this section, if, in order to obtain such status, the alien obtained a waiver under subsection (h) or (i) of section 1182 of this title of certain grounds of inadmissibility, such waiver terminates upon the termination of such permanent residence status under this section.
 
 #### (g) Definitions
 
@@ -235,6 +235,10 @@ Section 701(b) of Pub. L. 101–649 provided that: “The amendments made by sub
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Marriage Fraud Amendments of 1986, Pub. L. 99–639, see section 7(d) of Pub. L. 100–525, set out as a note under section 1182 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

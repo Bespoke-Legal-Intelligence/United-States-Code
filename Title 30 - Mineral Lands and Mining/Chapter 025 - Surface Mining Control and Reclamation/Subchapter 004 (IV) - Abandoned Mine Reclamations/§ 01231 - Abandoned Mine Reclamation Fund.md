@@ -54,7 +54,7 @@ Moneys from the fund shall be available for the purposes of this subchapter, onl
 
 #### (e) Interest
 
-The Secretary of the Interior shall notify the Secretary of the Treasury as to what portion ofthe fund is not, in his judgment, required to meet current withdrawals. The Secretary of the Treasury shall invest such portion of the fund in public debt securities with maturities suitable for the needs of such fund and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to, and form a part of, the fund.
+The Secretary of the Interior shall notify the Secretary of the Treasury as to what portion of the fund is not, in his judgment, required to meet current withdrawals. The Secretary of the Treasury shall invest such portion of the fund in public debt securities with maturities suitable for the needs of such fund and bearing interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturities. The income on such investments shall be credited to, and form a part of, the fund.
 
 (Pub. L. 95–87, title IV, §401, Aug. 3, 1977, 91 Stat. 456; Pub. L. 98–473, title I, §101(c) \[title III, §324\], Oct. 12, 1984, 98 Stat. 1837, 1875; Pub. L. 101–508, title VI, §6002, Nov. 5, 1990, 104 Stat. 1388–289; Pub. L. 102–486, title XIX, §19143(b)(3)(A), title XXV, §2504(c)(1), Oct. 24, 1992, 106 Stat. 3056, 3105.)
 

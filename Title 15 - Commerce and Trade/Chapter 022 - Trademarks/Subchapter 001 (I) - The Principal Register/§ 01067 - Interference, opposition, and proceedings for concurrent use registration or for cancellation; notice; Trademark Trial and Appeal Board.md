@@ -1,10 +1,10 @@
 ### §1067. Interference, opposition, and proceedings for concurrent use registration or for cancellation; notice; Trademark Trial and Appeal Board
 
-(a) In every case of interference, opposition to registration, application to register as a lawfulconcurrent user, or application to cancel the registration of a mark, the Director shall give notice to all parties and shall direct a Trademark Trial and Appeal Board to determine and decide the respective rights of registration.
+(a) In every case of interference, opposition to registration, application to register as a lawful concurrent user, or application to cancel the registration of a mark, the Director shall give notice to all parties and shall direct a Trademark Trial and Appeal Board to determine and decide the respective rights of registration.
 
 (b) The Trademark Trial and Appeal Board shall include the Director, the Commissioner for Patents, the Commissioner for Trademarks, and administrative trademark judges who are appointed by the Director.
 
-(July 5, 1946, ch. 540, title I, §17, 60 Stat. 434; Pub. L. 85–609, §1(a), Aug. 8, 1958, 72 Stat. 540; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 96–455, §1, Oct. 15, 1980, 94 Stat. 2024; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4716\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580.)
+(July 5, 1946, ch. 540, title I, §17, 60 Stat. 434; Pub. L. 85–609, §1(a), Aug. 8, 1958, 72 Stat. 540; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 96–455, §1, Oct. 15, 1980, 94 Stat. 2024; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4716\], Nov. 29, 1999, 113 Stat. 1536, 1501A–580; Pub. L. 107–273, div. C, title III, §13203(a)(1), Nov. 2, 2002, 116 Stat. 1902.)
 
 #### Prior Provisions
 
@@ -12,11 +12,13 @@ Act Feb. 20, 1905, ch. 592, §7, 33 Stat. 726.
 
 #### Amendments
 
+2002—Subsec. (b). Pub. L. 107–273, which directed amendment of subsec. (b) by inserting “the Deputy Commissioner,” after “Commissioner,”, could not be executed because “Commissioner,” does not appear in text.
+
 1999—Pub. L. 106–113 amended section generally. Prior to amendment, section read as follows:
 
 “In every case of interference, opposition to registration, application to register as a lawful concurrent user, or application to cancel the registration of a mark, the Commissioner shall give notice to all parties and shall direct a Trademark Trial and Appeal Board to determine and decide the respective rights of registration.
 
-“The Trademark Trial and Appeal Board shall include the Commissioner, the Deputy Commissioner, the Assistant Commissioners, and members appointed by the Commissioner. Employees of the Patent and Trademark Office and other persons, all of whom shall be competent in trademark law, shall be eligible for appointment as members. Each case shall be heard by at least three members of the Board, the members hearing such case to be designated by the Commissioner.”
+“The Trademark Trial and Appeal Board shall include the Commissioner, the Deputy Commissioner, theAssistant Commissioners, and members appointed by the Commissioner. Employees of the Patent and Trademark Office and other persons, all of whom shall be competent in trademark law, shall be eligible for appointment as members. Each case shall be heard by at least three members of the Board, the members hearing such case to be designated by the Commissioner.”
 
 1980—Pub. L. 96–455 inserted provisions requiring that the Trademark Trial and Appeal Board include the Deputy Commissioner and members appointed by the Commissioner and provisions that employees of the Patent and Trademark Office and other persons, all of whom shall be competent in trademark law, shall be eligible for appointment as members; and struck out provision that the Board include Patent and Trademark Office employees, designated by the Commissioner and whose qualifications have been approved by the Civil Service Commission as being adequate for appointment to the position of examiner in charge of interferences.
 

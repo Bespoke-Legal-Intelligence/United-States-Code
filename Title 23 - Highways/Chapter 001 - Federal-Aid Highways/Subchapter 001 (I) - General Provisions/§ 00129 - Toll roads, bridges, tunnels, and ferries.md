@@ -16,7 +16,7 @@ Authorization for federal participation.—Notwithstanding section 301 of this t
 
 &emsp;&emsp;(D) reconstruction of a toll-free Federal-aid highway (other than a highway on the Interstate System) and conversion of the highway to a toll facility; and
 
-&emsp;&emsp;(E) preliminary studies to determine the feasibility of a toll facility for which Federal participation is authorized under subparagraph (A), (B), (C), or (D);
+&emsp;&emsp;(E) preliminary studies to determine the feasibility of a toll facility for which Federalparticipation is authorized under subparagraph (A), (B), (C), or (D);
 
 > &emsp;on the same basis and in the same manner as in the construction of free highways under this chapter.
 
@@ -94,7 +94,7 @@ Initial construction defined.—For purposes of this subsection, the term “ini
 
 (b) Notwithstanding the provisions of section 301 of this title, the Secretary may permit Federal participation under this title in the construction of a project constituting an approach to a ferry, whether toll or free, the route of which is a public road and has not been designated as a route on the Interstate System. Such ferry may be either publicly or privately owned and operated, but the operating authority and the amount of fares charged for passage shall be under the control of a State agency or official, and all revenues derived from publicly owned or operated ferries shall be applied to payment of the cost of construction or acquisition thereof, including debt service, and to actual and necessary costs of operation, maintenance, repair, and replacement.
 
-(c) Notwithstanding section 301 of this title, the Secretary may permit Federal participationunder this title in the construction of ferry boats and ferry terminal facilities, whether toll or free, subject to the following conditions:
+(c) Notwithstanding section 301 of this title, the Secretary may permit Federal participation under this title in the construction of ferry boats and ferry terminal facilities, whether toll or free, subject to the following conditions:
 
 &emsp;(1) It is not feasible to build a bridge, tunnel, combination thereof, or other normal highway structure in lieu of the use of such ferry.
 
@@ -128,13 +128,13 @@ Subsec. (d). Pub. L. 105–178, §1211(f), formerly §1211(g), as renumbered by 
 
 “(5)
 
-Limitation on federal share.—Except as otherwise provided in this paragraph, the Federal share payable for construction of a highway, bridge, tunnel, or approach thereto or conversion of a highway, bridge, or tunnel to a toll facility under this subsection shall be such percentage as the State determines but not to exceed 50 percent. The Federal share payable for construction of a new bridge, tunnel, or approach thereto or for reconstruction or replacement of a bridge, tunnel, or approach thereto shall be such percentage as the Secretary determines but not to exceed 80 percent. In the case of a toll facility subject to an agreement under section 119 or 129, the Federal share payable on any project for resurfacing, restoring, rehabilitating, or reconstructing such facility shall be 80 percent until the scheduled expiration of such agreement (as in effect on the day before the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991).”
+Limitation on federal share.—Except as otherwise provided in this paragraph, the Federal share payable for construction of a highway, bridge, tunnel, or approach thereto or conversion of a highway, bridge, or tunnel to a toll facility under this subsection shall be such percentage as the State determines but not to exceed 50 percent. The Federal share payable for construction of a new bridge, tunnel, or approach thereto or for reconstruction or replacement of a bridge, tunnel, or approach thereto shall be such percentage as the Secretary determines but not to exceed 80 percent. In the case of a toll facility subject to an agreement under section 119 or 129, the Federal share payable on any project for resurfacing, restoring, rehabilitating, or reconstructing such facility shall be 80 percent until thescheduled expiration of such agreement (as in effect on the day before the date of the enactment of the Intermodal Surface Transportation Efficiency Act of 1991).”
 
 Subsec. (a)(7). Pub. L. 104–59, §313(b), amended par. (7) generally. Prior to amendment, par. (7) read as follows:
 
 “(7)
 
-Loans.—A State may loan all or part of the Federal share of a toll project under this section to a public or private agency constructing a toll facility. Such loan may be made only after all Federal environmental requirements have been complied with and permits obtained. The amount loaned shall be subordinated to other debt financing for the facility except for loans made by the State or any other public agency to the agency constructing the facility. Funds loaned pursuant to this section may be obligated for projects eligible under this section. The repayment of any such loan shall commence not more than 5 years after the facility has opened to traffic. Any such loan shall bear interest at the average rate the State's pooled investment fund earned in the 52 weeks preceding the start of repayment. The term of any such loan shall not exceed 30years from the time the loan was obligated. Amounts repaid to a State from any loan made under this section may be obligated for any purpose for which the loaned funds were available. The Secretary shall establish procedures and guidelines for making such loans.”
+Loans.—A State may loan all or part of the Federal share of a toll project under this section to a public or private agency constructing a toll facility. Such loan may be made only after all Federal environmental requirements have been complied with and permits obtained. The amount loaned shall be subordinated to other debt financing for the facility except for loans made by the State or any other public agency to the agency constructing the facility. Funds loaned pursuant to this section may be obligated for projects eligible under this section. The repayment of any such loan shall commence not more than 5 years after the facility has opened to traffic. Any such loan shall bear interest at the average rate the State's pooled investment fund earned in the 52 weeks preceding the start of repayment. The term of any such loan shall not exceed 30 years from the time the loan was obligated. Amounts repaid to a State from any loan made under this section may be obligated for any purpose for which the loaned funds were available. The Secretary shall establish procedures and guidelines for making such loans.”
 
 Subsec. (c)(5). Pub. L. 104–59, §313(c), inserted before period at end of first sentence “or between a point in a State and a point in the Dominion of Canada” and in second sentence substituted “Hawaii,” for “Hawaii and” and inserted “, operations between a point in a State and a point in the Dominion of Canada,” after “Puerto Rico”.
 
@@ -172,7 +172,7 @@ Subsec. (j)(10). Pub. L. 100–457, §326(2), added par. (10).
 
 Subsec. (j)(1). Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(1)\], as amended by Pub. L. 100–457, §335, which directed the amendment of par. (1) by substituting “(9)” for “(9)” was executed by substituting “9” for “7” as the probable intent of Congress.
 
-Subsec. (j)(3). Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(2)(A)\], as amended by Pub. L. 100–457, §335, which directed the amendment of par. (3) by substituting “(9)” for “(7)” was executed by substituting “9” for “7” as the probable intent of Congress.
+Subsec. (j)(3). Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(2)(A)\], as amended by Pub. L. 100–457, §335,which directed the amendment of par. (3) by substituting “(9)” for “(7)” was executed by substituting “9” for “7” as the probable intent of Congress.
 
 Pub. L. 100–202, §101(<i>l</i>) \[title III, §347(d)(2)(B)–(D)\], as amended by Pub. L. 100–457, §335, substituted “States of Pennsylvania and West Virginia” for “State of Pennsylvania” in two places and inserted “States of Georgia and West Virginia,” and “The toll facility in Orange County, California, may be located in more than 1 highway corridor to relieve congestion on existing interstate routes in such County.”
 
@@ -182,7 +182,7 @@ Subsec. (k). Pub. L. 100–17, §120(b), added subsec. (k).
 
 1976—Subsec. (g)(5). Pub. L. 94–280 authorized ferry operations within the islands which comprise the Commonwealth of Puerto Rico and excepted ferry operations between the islands which comprise the Commonwealth of Puerto Rico from the prohibition of ferry operations in foreign or international waters.
 
-1975—Subsec. (g)(5). Pub. L. 93–643 substituted “operations between the islands which comprise the State ofHawaii and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada” for “operations between the islands which comprise the State of Hawaii and operations between the States of Alaska and Washington, or between any two points within the State of Alaska”.
+1975—Subsec. (g)(5). Pub. L. 93–643 substituted “operations between the islands which comprise the State of Hawaii and operations between any two points in Alaska and between Alaska and Washington, including stops at appropriate points in the Dominion of Canada” for “operations between the islands which comprise the State of Hawaii and operations between the States of Alaska and Washington, or between any two points within the State of Alaska”.
 
 1973—Subsec. (b). Pub. L. 93–87, §118(a), inserted third sentence providing that when any toll road which the Secretary has approved as a part of the Interstate System is made a toll-free facility, Federal-aid highway funds apportioned under section 104(b)(5) of this title may be expended for the construction, reconstruction, or improvement of that road to meet the standards adopted for the improvement of projects located on the Interstate System.
 
@@ -260,7 +260,7 @@ Eligibility.—To be eligible to participate in the pilot program, a State shall
 
 &emsp;“(B) In the case of a facility that affects a metropolitan area, an assurance that the metropolitan planning organization established under section 134 of title 23, United States Code, for the area has been consulted concerning the placement and amount of tolls on the facility.
 
-&emsp;“(C) An analysis demonstrating that the facility could not be maintained or improved to meet current or future needs from the State's apportionments and allocations made available by this Act \[see Tables for classification\] (including amendments made by this Act) and from revenues for highways from any other source without toll revenues.
+&emsp;“(C) An analysis demonstrating that the facility could not be maintained or improved to meet currentor future needs from the State's apportionments and allocations made available by this Act \[see Tables for classification\] (including amendments made by this Act) and from revenues for highways from any other source without toll revenues.
 
 &emsp;“(D) A facility management plan that includes—
 
@@ -368,7 +368,7 @@ Section 164 of Pub. L. 95–599, as amended by Pub. L. 96–106, §16, Nov. 19, 
 
 #### Richmond-Petersburg Turnpike
 
-Section 131 of Pub. L. 91–605 provided that: “The Secretary of Transportation is authorized to amend any agreement heretofore entered into under the provisions of section 129(d) of title 23, United States Code, in order to permit the continuation of tolls on the existing Richmond-Petersburg Turnpike to finance the construction within the existing termini of such turnpike of two lanes thereon in addition to the lanes in existence on the date of enactment of this section \[Dec. 31, 1970\] necessary to meet traffic and highway safety requirements. Any amended agreement entered into for such purposes shall provide assurances that the existing turnpike (including the additional lanes) shall become free to the public upon the collection of tolls sufficient to liquidate all construction costs, and the costs of maintenance, operation, and debt service during the period of toll collections to liquidate such construction costs, but in no event shall tolls be collected after date of maturity of those bonds outstanding on the date of enactment of this section \[Dec. 31, 1970\] issued for construction of such turnpike having the latest maturity date.”
+Section 131 of Pub. L. 91–605 provided that: “The Secretary of Transportation is authorized to amend any agreement heretofore entered into under the provisions of section 129(d) of title 23, United States Code, in order to permit the continuation of tolls on the existing Richmond-Petersburg Turnpike to finance the construction within the existing termini of such turnpikeof two lanes thereon in addition to the lanes in existence on the date of enactment of this section \[Dec. 31, 1970\] necessary to meet traffic and highway safety requirements. Any amended agreement entered into for such purposes shall provide assurances that the existing turnpike (including the additional lanes) shall become free to the public upon the collection of tolls sufficient to liquidate all construction costs, and the costs of maintenance, operation, and debt service during the period of toll collections to liquidate such construction costs, but in no event shall tolls be collected after date of maturity of those bonds outstanding on the date of enactment of this section \[Dec. 31, 1970\] issued for construction of such turnpike having the latest maturity date.”
 
 #### Section Referred to in Other Sections
 

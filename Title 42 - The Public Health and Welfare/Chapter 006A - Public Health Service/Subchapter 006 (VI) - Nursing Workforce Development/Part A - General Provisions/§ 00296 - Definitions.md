@@ -40,11 +40,47 @@ As used in this subchapter:
 
 &emsp;The term “State” means a State, the Commonwealth of Puerto Rico, the District of Columbia, the Commonwealth of the Northern Mariana Islands, Guam, American Samoa, the Virgin Islands, or the Trust Territory of the Pacific Islands.
 
-(July 1, 1944, ch. 373, title VIII, §801, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3562.)
+#### (9) Ambulatory surgical center
+
+&emsp;The term “ambulatory surgical center” has the meaning applicable to such term undertitle XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\].
+
+#### (10) Federally qualified health center
+
+&emsp;The term “Federally qualified health center” has the meaning given such term under section 1861(aa)(4) of the Social Security Act \[42 U.S.C. 1395x(aa)(4)\].
+
+#### (11) Health care facility
+
+&emsp;The term “health care facility” means an Indian Health Service health center, a Native Hawaiian health center, a hospital, a Federally qualified health center, a rural health clinic, a nursing home, a home health agency, a hospice program, a public health clinic, a State or local department of public health, a skilled nursing facility, an ambulatory surgical center, or any other facility designated by the Secretary.
+
+#### (12) Home health agency
+
+&emsp;The term “home health agency” has the meaning given such term in section 1861(<i>o</i>) of the Social Security Act \[42 U.S.C. 1395x(<i>o</i>)\].
+
+#### (13) Hospice program
+
+&emsp;The term “hospice program” has the meaning given such term in section 1861(dd)(2) of the Social Security Act \[42 U.S.C. 1395x(dd)(2)\].
+
+#### (14) Rural health clinic
+
+&emsp;The term “rural health clinic” has the meaning given such term in section 1861(aa)(2) of the Social Security Act \[42 U.S.C. 1395x(aa)(2)\].
+
+#### (15) Skilled nursing facility
+
+&emsp;The term “skilled nursing facility” has the meaning given such term in section 1819(a) of the Social Security Act \[42 U.S.C. 1395i–3(a)\].
+
+(July 1, 1944, ch. 373, title VIII, §801, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3562; amended Pub. L. 107–205, title I, §101, Aug. 1, 2002, 116 Stat. 811.)
+
+#### References in Text
+
+The Social Security Act, referred to in par. (9), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Prior Provisions
 
-A prior section 296, act July 1, 1944, ch. 373, title VIII, §801 as added Sept. 4, 1964, Pub. L. 88–581, §2, 78 Stat. 908; amended Nov. 3, 1966, Pub. L. 89–751, §8(a), 80 Stat.1236; Aug. 16, 1968, Pub. L. 90–490, title II, §201(a), 82 Stat. 780; Nov. 18, 1971, Pub. L. 92–158, §2(a), 85 Stat. 465; July 29, 1975, Pub. L. 94–63, title IX, §§902(a), 910(a)(1), 89 Stat. 354, 355; Sept. 29, 1979, Pub. L. 96–76, title I, §102, 93 Stat. 579, authorized appropriations for construction grants, prior to repeal by Pub. L. 99–92, §§9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.
+A prior section 296, act July 1, 1944, ch. 373, title VIII, §801 as added Sept. 4, 1964, Pub. L. 88–581, §2, 78 Stat. 908; amended Nov. 3, 1966, Pub. L. 89–751, §8(a), 80 Stat. 1236; Aug. 16, 1968, Pub. L. 90–490, title II, §201(a), 82 Stat. 780; Nov. 18, 1971, Pub. L. 92–158, §2(a), 85 Stat. 465; July 29, 1975, Pub. L. 94–63, title IX, §§902(a), 910(a)(1), 89 Stat. 354, 355; Sept. 29, 1979, Pub. L. 96–76, title I, §102, 93 Stat. 579, authorized appropriations for construction grants, prior to repeal by Pub. L. 99–92, §§9(a)(1), 10(a), Aug. 16, 1985, 99 Stat. 400, 402, effective Oct. 1, 1985.
+
+#### Amendments
+
+2002—Pars. (9) to (15). Pub. L. 107–205 added pars. (9) to (15).
 
 #### Savings Provision
 
@@ -53,6 +89,22 @@ Pub. L. 105–392, title I, §124, Nov. 13, 1998, 112 Stat. 3574, provided that:
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Reports by General Accounting Office
+
+Pub. L. 107–205, title II, §204, Aug. 1, 2002, 116 Stat. 818, provided that:
+
+“(a)
+
+National Variations.—Not later than 4 years after the date of the enactment of this Act \[Aug. 1, 2002\], the Comptroller General of the United States shall conduct a survey to determine national variations in the nursing shortage at hospitals, nursing homes, and other health care providers, and submit a report, including recommendations, to the Congress on Federal remedies to ease nursing shortages. The Comptroller General shall submit to the Congress this report describing the findings relating to ownership status and associated remedies.
+
+“(b)
+
+Hiring Differences Among Certain Private Entities.—The Comptroller General of the United States shall conduct a study to determine differences in the hiring of nurses by nonprofit private entities as compared to the hiring of nurses by private entities that are not nonprofit. In carrying out the study, the Comptroller General shall determine the effect of the inclusion of private entities that are not nonprofit in the program under section 846 of the Public Health Service Act \[section 297n of this title\]. Not later than 4 years after the date of the enactment of this Act \[Aug. 1, 2002\], the Comptroller General shall submit to the Congress a report describing the findings of the study.
+
+“(c)
+
+Nursing Scholarships.—The Comptroller General of the United States shall conduct an evaluation of whether the program carried out under section 846(d) of the Public Health Service Act \[section 297n(d) of this title\] has demonstrably increased the number of applicants to schools of nursing and, not later than 4 years after the date of the enactment of this Act \[Aug. 1, 2002\], submit a report to the Congress on the results of such evaluation.”
 
 #### Purpose
 
@@ -98,5 +150,5 @@ Section 951 of Pub. L. 94–63, as amended by Pub. L. 95–623, §12(h), Nov. 9,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 293a, 293b of this title.
+This section is referred to in sections 293a, 293b, 294c of this title.
 

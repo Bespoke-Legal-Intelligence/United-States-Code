@@ -10,7 +10,7 @@ With respect to any petition filed pursuant to subsection (a) of this section, t
 
 &emsp;(1) in all respects other than the conduct or completion of any required hearing, the requirements of law are met;
 
-&emsp;(2) in accordance with such requirements, there is reasonable assurance that operation of the facility during the period of the temporary operating license in accordance with its terms and conditions will provide adequate protection to the public health and safety and the environment during the period of temporary operation; and
+&emsp;(2) in accordance with such requirements, there is reasonable assurance that operation of the facility during the period of the temporary operating license in accordance withits terms and conditions will provide adequate protection to the public health and safety and the environment during the period of temporary operation; and
 
 &emsp;(3) denial of such temporary operating license will result in delay between the date on which construction of the facility is sufficiently completed, in the judgment of the Commission, to permit issuance of the temporary operating license, and the date when such facility would otherwise receive a final operating license pursuant to this chapter.
 
@@ -46,9 +46,9 @@ Subsec. (e). Pub. L. 97–415 added subsec. (e).
 
 #### Change of Name
 
-Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives and Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House ofRepresentatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives and Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Transfer of Functions
 
-Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. See also Transfer of Functions notes set out under those sections.
+Atomic Energy Commission abolished and functions transferred by sections 5814 and 5841 of this title. Seealso Transfer of Functions notes set out under those sections.
 

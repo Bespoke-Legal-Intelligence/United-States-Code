@@ -8,7 +8,7 @@ For the purposes of this chapter—
 
 &emsp;(3) the terms “productivity growth” and “improved productivity” shall be interpreted to include, but not be limited to, improvements in technology, management techniques, and the quality of working life; and
 
-&emsp;(4) the term “quality of working life” shall be interpreted to mean the conditions of workrelating to the role of the worker in the production process.
+&emsp;(4) the term “quality of working life” shall be interpreted to mean the conditions of work relating to the role of the worker in the production process.
 
 (Pub. L. 94–136, title I, §104, Nov. 28, 1975, 89 Stat. 735.)
 

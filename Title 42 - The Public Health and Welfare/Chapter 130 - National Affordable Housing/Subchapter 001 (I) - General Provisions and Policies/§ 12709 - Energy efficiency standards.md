@@ -6,7 +6,7 @@
 
 &emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture shall, not later than 1 year after October 24, 1992, jointly establish, by rule, energy efficiency standards for—
 
-&emsp;&emsp;(A) new construction of public and assisted housing and single family and multifamily residential housing (other than manufactured homes) subject to mortgages insuredunder the National Housing Act \[12 U.S.C. 1701 et seq.\]; and
+&emsp;&emsp;(A) new construction of public and assisted housing and single family and multifamily residential housing (other than manufactured homes) subject to mortgages insured under the National Housing Act \[12 U.S.C. 1701 et seq.\]; and
 
 &emsp;&emsp;(B) new construction of single family housing (other than manufactured homes) subject to mortgages insured, guaranteed, or made by the Secretary of Agriculture under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\].
 

@@ -14,7 +14,7 @@ The Trading With the Enemy Act of October 6, 1917, as amended, referred to in te
 
 #### Termination of Philippine Alien Property Administration; Transfer of Functions
 
-Section 101 of act Sept. 6, 1950, ch. 896, Ch. VIII, title I, 64 Stat. 699, provided in part that the PhilippineAlien Property Administration cease to exist after June 30, 1951, and all duties performed by such Administration as of that date be transferred to the Office of Alien Property Custodian, including all records, files, and other property.
+Section 101 of act Sept. 6, 1950, ch. 896, Ch. VIII, title I, 64 Stat. 699, provided in part that the Philippine Alien Property Administration cease to exist after June 30, 1951, and all duties performed by such Administration as of that date be transferred to the Office of Alien Property Custodian, including all records, files, and other property.
 
 #### Executive Order No. 9789
 

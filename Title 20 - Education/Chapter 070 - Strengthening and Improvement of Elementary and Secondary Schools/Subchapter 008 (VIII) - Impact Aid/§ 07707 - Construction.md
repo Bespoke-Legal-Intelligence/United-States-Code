@@ -54,7 +54,7 @@
 
 &emsp;In approving applications from local educational agencies for emergency grants and modernization grants under this subsection, the Secretary shall give priority to applications in accordance with the following:
 
-&emsp;&emsp;(A) The Secretary shall first give priority to applications for emergency grants fromlocal educational agencies that meet the requirements of paragraph (3)(A) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
+&emsp;&emsp;(A) The Secretary shall first give priority to applications for emergency grants from local educational agencies that meet the requirements of paragraph (3)(A) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
 &emsp;&emsp;(B) The Secretary shall next give priority to applications for emergency grants from local educational agencies that meet the requirements of subparagraph (C) or (D) of paragraph (3) and, among such applications for emergency grants, shall give priority to those applications of local educational agencies based on the severity of the emergency, as determined by the Secretary.
 
@@ -150,7 +150,7 @@
 
 &emsp;&emsp;(C) The number and percentages of children described in subparagraphs (A), (B), (C), and (D) of section 7703(a)(1) of this title served in the school facility with the emergency or served in the school facility proposed for modernization, as the case may be.
 
-&emsp;&emsp;(D) In the case of an emergency grant, the severity of the emergency, as measured by the threat that the condition of the school facility poses to the health, safety, and well-being of students.
+&emsp;&emsp;(D) In the case of an emergency grant, the severity of the emergency, as measured by the threat that the condition of the schoolfacility poses to the health, safety, and well-being of students.
 
 &emsp;&emsp;(E) In the case of a modernization grant—
 

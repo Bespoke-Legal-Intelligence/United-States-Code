@@ -32,7 +32,7 @@
 
 (6) In any such suit, the court, in its discretion, may allow the prevailing party a reasonable attorney's fee as part of the costs.
 
-(7) For purposes of this subsection, the term,<sup>1</sup> “aggrieved employee” means an employee who has worked for the employer ordering the plant closing or mass layoff and who, as a result of thefailure by the employer to comply with section 2102 of this title, did not receive timely notice either directly or through his or her representative as required by section 2102 of this title.
+(7) For purposes of this subsection, the term,<sup>1</sup> “aggrieved employee” means an employee who has worked for the employer ordering the plant closing or mass layoff and who, as a result of the failure by the employer to comply with section 2102 of this title, did not receive timely notice either directly or through his or her representative as required by section 2102 of this title.
 
 #### (b) Exclusivity of remedies
 

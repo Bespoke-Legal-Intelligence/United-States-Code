@@ -144,7 +144,7 @@ Consultation.—The Secretary shall establish an advisory panel consisting of ex
 
 &emsp;“(2) assist in developing recommendations and priorities for the methane hydrate research and development program carried out under subsection (a)(1); and
 
-&emsp;“(3) not later than 2 years after the date of the enactment of this Act \[May 2, 2000\], and at such later dates as the panel considers advisable, submit to Congress a report on the anticipated impact on global climate change from—
+&emsp;“(3) not later than 2 years after the date of the enactment of this Act \[May 2, 2000\], and at such laterdates as the panel considers advisable, submit to Congress a report on the anticipated impact on global climate change from—
 
 &emsp;&emsp;“(A) methane hydrate formation;
 

@@ -140,7 +140,7 @@ Mileage limitation.—No carrier subject to jurisdiction under subchapter I or I
 
 (h)
 
-Single Line Rate Defined.—In this section, the term “single line rate” means a rate,charge, or allowance proposed by a single motor carrier that is applicable only over its line and for which the transportation can be provided by that carrier.
+Single Line Rate Defined.—In this section, the term “single line rate” means a rate, charge, or allowance proposed by a single motor carrier that is applicable only over its line and for which the transportation can be provided by that carrier.
 
 (Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 869; amended Pub. L. 104–287, §5(28), Oct. 11, 1996, 110 Stat. 3391; Pub. L. 105–102, §2(9), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 106–159, title II, §227, Dec. 9, 1999, 113 Stat. 1772.)
 

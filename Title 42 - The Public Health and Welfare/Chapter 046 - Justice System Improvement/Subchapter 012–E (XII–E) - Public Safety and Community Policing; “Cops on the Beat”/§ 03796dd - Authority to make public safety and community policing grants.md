@@ -68,7 +68,7 @@ In awarding grants under this subchapter, the Attorney General may give preferen
 
 #### (1) In general
 
-&emsp;The Attorney General may provide technical assistance to States, units of local government, Indian tribal governments, and to otherpublic and private entities, in furtherance of the purposes of the Public Safety Partnership and Community Policing Act of 1994.
+&emsp;The Attorney General may provide technical assistance to States, units of local government, Indian tribal governments, and to other public and private entities, in furtherance of the purposes of the Public Safety Partnership and Community Policing Act of 1994.
 
 #### (2) Model
 

@@ -72,7 +72,7 @@ In subsection (d)(1), the words “the principles of” are omitted as surplus.
 
 #### References in Text
 
-Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred to in subsec. (a)(9), was classified to section 166b–7(e)(2) of Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 104–1, title V, §504(c)(1), Jan. 23, 1995, 109 Stat. 41, except as provided in section 1435 of Title 2, The Congress.
+Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred to in subsec. (a)(9), was classified to section 1831(e)(2) of Title 2, The Congress, and was repealed by Pub. L. 104–1, title V, §504(c)(1), Jan. 23, 1995, 109 Stat. 41, except as provided in section 1435 of Title 2.
 
 #### Amendments
 

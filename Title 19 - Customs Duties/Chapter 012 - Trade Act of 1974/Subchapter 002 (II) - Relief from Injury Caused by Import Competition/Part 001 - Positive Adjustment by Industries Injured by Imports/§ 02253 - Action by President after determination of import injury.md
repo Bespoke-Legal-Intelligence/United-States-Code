@@ -6,7 +6,7 @@
 
 (B) The action taken by the President under subparagraph (A) shall be to such extent, and for such duration, subject to subsection (e)(1) of this section, that the President determines to be appropriate and feasible under such subparagraph.
 
-(C) The interagency trade organization established under section 1872(a) of this title shall, with respect to each affirmative determination reported under section 2252(f) of this title, make a recommendation to the President as to what action the President should take under subparagraph (A).
+(C) The interagency trade organization established under section 1872(a) of this title shall,with respect to each affirmative determination reported under section 2252(f) of this title, make a recommendation to the President as to what action the President should take under subparagraph (A).
 
 (2) In determining what action to take under paragraph (1), the President shall take into account—
 
@@ -74,7 +74,7 @@
 
 (2) On the day on which the President decides that there is no appropriate and feasible action to take under subsection (a)(1) of this section with respect to a domestic industry, the President shall transmit to Congress a document that sets forth in detail the reasons for the decision.
 
-(3) On the day on which the President takes any action under subsection (a)(1) of this section that is not reported under paragraph (1), the President shall transmit to Congress a document setting forth the action being taken and the reasons therefor.
+(3) On the day on which the President takes any action under subsection (a)(1) of this sectionthat is not reported under paragraph (1), the President shall transmit to Congress a document setting forth the action being taken and the reasons therefor.
 
 #### (c) Implementation of action recommended by Commission
 
@@ -88,7 +88,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 #### (d) Time for taking effect of certain relief
 
-(1) Except as provided in paragraph (2), any action described in subsection (a)(3)(A), (B), or (C) of this section, that is taken under subsection (a)(1) of this section shall take effect within 15 days after the day on which the President proclaims the action, unless the President announces, on the date he decides to take such action, his intention to negotiate one or more agreements described in subsection (a)(3)(E) ofthis section in which case the action under subsection (a)(3)(A), (B), or (C) of this section shall be proclaimed and take effect within 90 days after the date of such decision.
+(1) Except as provided in paragraph (2), any action described in subsection (a)(3)(A), (B), or (C) of this section, that is taken under subsection (a)(1) of this section shall take effect within 15 days after the day on which the President proclaims the action, unless the President announces, on the date he decides to take such action, his intention to negotiate one or more agreements described in subsection (a)(3)(E) of this section in which case the action under subsection (a)(3)(A), (B), or (C) of this section shall be proclaimed and take effect within 90 days after the date of such decision.
 
 (2) If the contingency set forth in subsection (c) of this section occurs, the President shall, within 30 days after the date of the enactment of the joint resolution referred to in such subsection, proclaim the action recommended by the Commission under section 2252(e)(1) of this title.
 
@@ -148,7 +148,7 @@ If the President reports under subsection (b)(1) or (2) of this section that—
 
 #### (g) Regulations
 
-(1) The President shall by regulation provide for the efficient and fair administration of allactions taken for the purpose of providing import relief under this part.
+(1) The President shall by regulation provide for the efficient and fair administration of all actions taken for the purpose of providing import relief under this part.
 
 (2) In order to carry out an international agreement concluded under this part, the President may prescribe regulations governing the entry or withdrawal from warehouse of articles covered by such agreement. In addition, in order to carry out any agreement of the type described in subsection (a)(3)(E) of this section that is concluded under this part with one or more countries accounting for a major part of United States imports of the article covered by such agreement, including imports into a major geographic area of the United States, the President may issue regulations governing the entry or withdrawal from warehouse of like articles which are the product of countries not parties to such agreement.
 
@@ -190,7 +190,7 @@ Subsec. (e)(6)(B). Pub. L. 103–465, §303(10), substituted “section 2252(e) 
 
 Subsec. (e)(7). Pub. L. 103–465, §302(b)(4)(A), added par. (7).
 
-Subsec. (f). Pub. L. 103–465, §302(a)(3), in heading, substituted “Certain” for “Orderly marketing and other”, in par. (1), substituted “implementation of agreements of the type described in subsection (a)(3)(E) of this section” for “implementation of orderly marketing agreements” and “negotiate agreements of the type described in subsection (a)(3)(E) of this section” for “negotiate orderly marketing agreements with foreign countries”, and in par. (2), substituted “agreement implemented under subsection (a)(3)(E) of this section” for “orderly marketing agreement implemented under subsection (a) of this section”.
+Subsec. (f). Pub. L. 103–465, §302(a)(3), in heading, substituted “Certain” for “Orderly marketing and other”, in par. (1), substituted “implementation of agreements of the type described in subsection (a)(3)(E) of this section” for “implementation of orderly marketing agreements” and “negotiate agreements of the type described in subsection (a)(3)(E) of this section” for “negotiate orderly marketing agreements with foreign countries”, and in par. (2), substituted “agreement implemented under subsection (a)(3)(E) of this section”for “orderly marketing agreement implemented under subsection (a) of this section”.
 
 Subsec. (g)(2). Pub. L. 103–465, §302(a)(4), in first sentence, struck out “orderly marketing or other” before “international”, and in second sentence, substituted “agreement of the type described in subsection (a)(3)(E) of this section that is” for “orderly marketing agreement” and “covered by such agreement” for “covered by such agreements”.
 

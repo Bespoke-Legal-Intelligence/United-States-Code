@@ -2,7 +2,7 @@ Part C—Claims for Benefits After December 31, 1973
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 902, 921, 922, 924a, 925, 932a of this title; title 26 sections 192, 501, 9501.
+This part is referred to in sections 902, 921, 922, 925, 932a, 936 of this title; title 26 sections 192, 501, 9501.
 
 
 ---
@@ -25,4 +25,4 @@ This part is referred to in sections 902, 921, 922, 924a, 925, 932a of this titl
 - [&sect; 00942 - Miner benefit entitlement reports; penalty for failure or refusal to file](%C2%A7%2000942%20-%20Miner%20benefit%20entitlement%20reports%3B%20penalty%20for%20failure%20or%20refusal%20to%20file.md)
 - [&sect; 00943 - Black lung insurance program](%C2%A7%2000943%20-%20Black%20lung%20insurance%20program.md)
 - [&sect; 00944 - Statement of reasons for denial of claim](%C2%A7%2000944%20-%20Statement%20of%20reasons%20for%20denial%20of%20claim.md)
-- [&sect; 00945 - Review of claims pending on, or denied on or before, March 1, 1978](%C2%A7%2000945%20-%20Review%20of%20claims%20pending%20on%2C%20or%20denied%20on%20or%20before%2C%20March%201%2C%201978.md)
+- [&sect; 00945 - Repealed. Pub. L. 107&#8211;275, &sect;2(c)(1), Nov. 2, 2002, 116 Stat. 1926](%C2%A7%2000945%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93275%2C%20%C2%A72%28c%29%281%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201926.md)

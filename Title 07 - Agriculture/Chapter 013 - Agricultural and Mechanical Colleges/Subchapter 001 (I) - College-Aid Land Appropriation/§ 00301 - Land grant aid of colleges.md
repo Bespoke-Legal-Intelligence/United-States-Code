@@ -14,9 +14,11 @@ Act July 2, 1862, as amended, which is classified to this subchapter, is popular
 
 #### Equity in Educational Land Grant Status
 
+Pub. L. 107–171, title VII, §7201(e), May 13, 2002, 116 Stat. 437, provided that: “Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall submit a report containing recommended criteria for designating additional 1994 Institutions \[see section 532 of Pub. L. 103–382, set out below\] to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate.”
+
 Pub. L. 106–387, §1(a) \[title I\], Oct. 28, 2000, 114 Stat. 1549, 1549A–7, provided in part: “That hereafter, any distribution of the adjusted income from the Native American Institutions Endowment Fund is authorized to be used for facility renovation, repair, construction, and maintenance, in addition to other authorized purposes.”
 
-Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126, provided that:
+Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by Pub. L. 104–127, title VIII, §882, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title II, §251, title III, §301(g), June 23, 1998, 112 Stat. 557, 563; Pub. L. 105–332, §3(d), Oct. 31, 1998, 112 Stat. 3126; Pub. L. 107–171, title VII, §§7126(f)–7128, 7201(a)–(d), May 13, 2002, 116 Stat. 435–437, provided that:
 
 #### “SEC. 531. SHORT TITLE.
 
@@ -30,61 +32,63 @@ Pub. L. 103–382, title V, part C, Oct. 20, 1994, 108 Stat. 4048, as amended by
 
 &emsp;“(2) Blackfeet Community College.
 
-&emsp;“(3) Cheyenne River Community College.
+&emsp;“(3) Cankdeska Cikana Community College.
 
-&emsp;“(4) D–Q University.
+&emsp;“(4) College of Menominee Nation.
 
-&emsp;“(5) Dullknife Memorial College.
+&emsp;“(5) Crownpoint Institute of Technology.
 
-&emsp;“(6) Fond Du Lac Community College.
+&emsp;“(6) D–Q University.
 
-&emsp;“(7) Fort Belknap Community College.
+&emsp;“(7) Dine College.
 
-&emsp;“(8) Fort Berthold Community College.
+&emsp;“(8) Chief Dull Knife Memorial College.
 
-&emsp;“(9) Fort Peck Community College.
+&emsp;“(9) Fond du Lac Tribal and Community College.
 
-&emsp;“(10) LacCourte Orielles Ojibwa Community College.
+&emsp;“(10) Fort Belknap College.
 
-&emsp;“(11) Little Big Horn Community College.
+&emsp;“(11) Fort Berthold Community College.
 
-&emsp;“(12) Little Hoop Community College.
+&emsp;“(12) Fort Peck Community College.
 
-&emsp;“(13) Nebraska Indian Community College.
+&emsp;“(13) Haskell Indian Nations University.
 
-&emsp;“(14) Northwest Indian College.
+&emsp;“(14) Institute of American Indian and Alaska Native Culture and Arts Development.
 
-&emsp;“(15) Oglala Lakota College.
+&emsp;“(15) Lac Courte Oreilles Ojibwa Community College.
 
-&emsp;“(16) Salish Kootenai College.
+&emsp;“(16) Leech Lake Tribal College.
 
-&emsp;“(17) Sinte Gleska University.
+&emsp;“(17) Little Big Horn College.
 
-&emsp;“(18) Sisseton Wahpeton Community College.
+&emsp;“(18) Little Priest Tribal College.
 
-&emsp;“(19) Standing Rock College.
+&emsp;“(19) Nebraska Indian Community College.
 
-&emsp;“(20) Stonechild Community College.
+&emsp;“(20) Northwest Indian College.
 
-&emsp;“(21) Turtle Mountain Community College.
+&emsp;“(21) Oglala Lakota College.
 
-&emsp;“(22) Navajo Community College.
+&emsp;“(22) Salish Kootenai College.
 
-&emsp;“(23) United Tribes Technical College.
+&emsp;“(23) Sinte Gleska University.
 
-&emsp;“(24) Southwest Indian Polytechnic Institute.
+&emsp;“(24) Sisseton Wahpeton Community College.
 
-&emsp;“(25) Institute of American Indian and Alaska Native Culture and Arts Development.
+&emsp;“(25) Si Tanka/Huron University.
 
-&emsp;“(26) Crownpoint Institute of Technology.
+&emsp;“(26) Sitting Bull College.
 
-&emsp;“(27) Haskell Indian Junior College.
+&emsp;“(27) Southwestern Indian Polytechnic Institute.
 
-&emsp;“(28) Leech Lake Tribal College.
+&emsp;“(28) Stone Child College.
 
-&emsp;“(29) College of the Menominee Nation.
+&emsp;“(29) Turtle Mountain Community College.
 
-&emsp;“(30) Little Priest Tribal College.
+&emsp;“(30) United Tribes Technical College.
+
+&emsp;“(31) White Earth Tribal and Community College.
 
 #### “SEC. 533. LAND-GRANT STATUS FOR 1994 INSTITUTIONS.
 
@@ -110,7 +114,7 @@ institutions.—(A) 1994 Institutions shall not be considered as land-grant coll
 
 &emsp;“(3)
 
-Accreditation.—To receive funding under sections 534 and 535, a 1994 Institution shall certify to the Secretary that the 1994 Institution—
+Accreditation.—To receive funding under sections 534, 535, and 536, a 1994 Institution shall certify to the Secretary that the 1994 Institution—
 
 &emsp;&emsp;“(A) is accredited by a nationally recognized accrediting agency or association determined by the Secretary, in consultation with the Secretary of Education, to be a reliable authority regarding the quality of training offered; or
 
@@ -118,7 +122,7 @@ Accreditation.—To receive funding under sections 534 and 535, a 1994 Instituti
 
 “(b)
 
-Authorization of Appropriations.—There are authorized to be appropriated $4,600,000 for each of fiscal years 1996 through 2002. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2007. Amounts appropriated pursuant to this section shall be held and considered to have been granted to 1994 Institutions to establish an endowment pursuant to subsection (c).
 
 “(c)
 
@@ -144,7 +148,7 @@ Investments.—The Secretary shall invest the endowment fund corpus and income i
 
 Withdrawals and expenditures.—The Secretary may not make a withdrawal or expenditure from the endowment fund corpus. On the termination of each fiscal year, the Secretary shall withdraw the amount of the income from the endowment fund for the fiscal year, and after making adjustments for the cost of administering the endowment fund, distribute the adjusted income as follows:
 
-&emsp;&emsp;“(A) 60 percent of the adjusted income shall be distributed among the 1994 Institutions on a pro rata basis. The proportionate share of the adjusted income received by a 1994 Institution under this subparagraph shall be based on the Indian student count (as defined in section 390(3) of the Carl D. Perkins Vocational and Applied Technology Education Act, as such section was in effect on the day preceding the date of enactment of the Carl D. Perkins Vocational and Applied Technology Education Amendments of 1998 \[Oct. 31, 1998\]) for each 1994 Institution for the fiscal year.
+&emsp;&emsp;“(A) 60 percent of the adjusted income shall be distributed among the 1994 Institutions on a pro rata basis. The proportionate share of the adjusted income received by a 1994 Institution under this subparagraph shall be based on the Indian student count (as defined in section 2(a) of the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801(a))).
 
 &emsp;&emsp;“(B) 40 percent of the adjusted income shall be distributed in equal shares to the 1994 Institutions.
 
@@ -162,7 +166,7 @@ Authorization of Appropriations.—
 
 In general.—For fiscal year 1996, and for each fiscal year thereafter, there are authorized to be appropriated to the Department of the Treasury an amount equal to—
 
-&emsp;&emsp;“(A) $50,000; multiplied by
+&emsp;&emsp;“(A) $100,000; multiplied by
 
 &emsp;&emsp;“(B) the number of 1994 Institutions.
 
@@ -206,7 +210,7 @@ In General.—
 
 &emsp;“(1)
 
-Institutional capacity building grants.—For each of fiscal years 1996 through 2002, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
+Institutional capacity building grants.—For each of fiscal years 1996 through 2007, the Secretary shall make two or more institutional capacity building grants to assist 1994 Institutions with constructing, acquiring, and remodeling buildings, laboratories, and other capital facilities (including fixtures and equipment) necessary to conduct instructional activities more effectively in agriculture and sciences.
 
 &emsp;“(2)
 
@@ -222,11 +226,11 @@ Demonstration of need.—The Secretary shall require, as part of an application 
 
 &emsp;“(4)
 
-Payment of non-federal share.—A grant awarded under this subsection shall be made only if the recipient of the grant pays a non-Federal share in an amount specified by the Secretary.
+Payment of non-federal share.—A grant awarded under this subsection shall be made only ifthe recipient of the grant pays a non-Federal share in an amount specified by the Secretary.
 
 “(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated to the Department of Agriculture to carry out this section, $1,700,000 for each of fiscal years 1996 through 2002.
+Authorization of Appropriations.—There are authorized to be appropriated to the Department of Agriculture to carry out this section, such sums as are necessary for each of fiscal years 2002 through 2007.
 
 #### “SEC. 536. RESEARCH GRANTS.
 
@@ -240,7 +244,7 @@ Requirements.—Grant applications submitted under this section shall certify th
 
 “(c)
 
-Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002. Amounts appropriated shall remain available until expended.”
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007. Amounts appropriated shall remain available until expended.”
 
 #### Land Grant Colleges in American Samoa, Northern Mariana Islands, and Trust Territory of the Pacific Islands
 

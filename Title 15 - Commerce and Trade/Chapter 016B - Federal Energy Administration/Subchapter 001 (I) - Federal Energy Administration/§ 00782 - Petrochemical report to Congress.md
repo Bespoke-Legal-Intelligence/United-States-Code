@@ -12,7 +12,7 @@ Within ninety days after he has entered upon the office of Administrator or has 
 
 &emsp;(4) anticipated economic effects of current and expected 1975 levels of domestic supplies of petrochemicals upon domestic producers, converters, and fabricators of petrochemical raw materials and products; and
 
-&emsp;(5) exact nature, extent, and sources of data and other information available to the Federal Government regarding the matters set forth in paragraphs (1) through (4) of this subsection, including the exact nature, extent, and sources of such data and information utilized in connection with the report required by this subsection.
+&emsp;(5) exact nature, extent, and sources of data and other information available to the FederalGovernment regarding the matters set forth in paragraphs (1) through (4) of this subsection, including the exact nature, extent, and sources of such data and information utilized in connection with the report required by this subsection.
 
 #### (b) “Petrochemical” defined
 

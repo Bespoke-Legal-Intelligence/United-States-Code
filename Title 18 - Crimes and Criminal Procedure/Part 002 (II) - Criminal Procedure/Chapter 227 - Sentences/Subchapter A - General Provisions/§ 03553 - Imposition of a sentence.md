@@ -58,7 +58,7 @@ Presentence Procedure for an Order of Notice.—Prior to imposing an order of no
 
 (e)
 
-Limited Authority To Impose a Sentence Below a Statutory Minimum.—Upon motion of the Government, the court shall have the authority to impose a sentence below a level established by statute as minimum sentence so as to reflect a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense. Such sentence shall be imposed in accordance with the guidelines and policy statements issued by the Sentencing Commission pursuant to section 994 of title 28, United States Code.
+Limited Authority To Impose a Sentence Below a Statutory Minimum.—Upon motion of the Government, the court shall have the authority to impose a sentence below a level established by statute as a minimum sentence so as to reflect a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense. Such sentence shall be imposed in accordance with the guidelines and policy statements issued by the Sentencing Commission pursuant to section 994 of title 28, United States Code.
 
 (f)
 
@@ -74,13 +74,15 @@ Limitation on Applicability of Statutory Minimums in Certain Cases.—Notwithsta
 
 &emsp;(5) not later than the time of the sentencing hearing, the defendant has truthfully provided to the Government all information and evidence the defendant has concerning the offense or offenses that were part of the same course of conduct or of a common scheme or plan, but the fact that the defendant has no relevant or useful other information to provide or that the Government is already aware of the information shall not preclude a determination by the court that the defendant has complied with this requirement.
 
-(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1989; amended Pub. L. 99–570, title I, §1007(a), Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§8(a), 9(a), 80(a), 81(a), Nov. 10, 1986, 100 Stat. 3593, 3619; Pub. L. 100–182, §§3, 16(a), 17, Dec. 7, 1987, 101 Stat. 1266, 1269, 1270; Pub. L. 100–690, title VII, §7102, Nov. 18, 1988, 102 Stat. 4416; Pub. L. 103–322, title VIII, §80001(a), title XXVIII, §280001, Sept. 13, 1994, 108 Stat. 1985, 2095; Pub. L. 104–294, title VI, §§601(b)(5), (6), (h), Oct. 11, 1996, 110 Stat. 3499, 3500.)
+(Added Pub. L. 98–473, title II, §212(a)(2), Oct. 12, 1984, 98 Stat. 1989; amended Pub. L. 99–570, title I, §1007(a), Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§8(a), 9(a), 80(a), 81(a), Nov. 10, 1986, 100 Stat. 3593, 3619; Pub. L. 100–182, §§3, 16(a), 17, Dec. 7, 1987, 101 Stat. 1266, 1269, 1270; Pub. L. 100–690, title VII, §7102, Nov. 18, 1988, 102 Stat. 4416; Pub. L. 103–322, title VIII, §80001(a), title XXVIII, §280001, Sept. 13, 1994, 108 Stat. 1985, 2095; Pub. L. 104–294, title VI, §§601(b)(5), (6), (h), Oct. 11, 1996, 110 Stat. 3499, 3500; Pub. L. 107–273, div. B, title IV, §4002(a)(8), Nov. 2, 2002, 116 Stat. 1807.)
 
 #### References in Text
 
 Section 408 of the Controlled Substances Act, referred to in subsec. (f)(4), is classified to section 848 of Title 21, Food and Drugs.
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–273 inserted “a” before “minimum sentence”.
 
 1996—Subsec. (f). Pub. L. 104–294, §601(h), amended directory language of Pub. L. 103–322, §80001(a). See 1994 Amendment note below.
 
@@ -94,7 +96,7 @@ Subsec. (f). Pub. L. 103–322, §80001(a), as amended by Pub. L. 104–294, §6
 
 1988—Subsec. (c). Pub. L. 100–690 inserted “or other appropriate public record” after “transcription” in second sentence and struck out “clerk of the” before “court” in last sentence.
 
-1987—Subsec. (b). Pub. L. 100–182, §3(1), (2), substituted “court finds that there exists an aggravatingor mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result” for “court finds that an aggravating or mitigating circumstance exists that was not adequately taken into consideration by the Sentencing Commission in formulating the guidelines and that should result”.
+1987—Subsec. (b). Pub. L. 100–182, §3(1), (2), substituted “court finds that there exists an aggravating or mitigating circumstance of a kind, or to a degree, not adequately taken into consideration by the Sentencing Commission in formulating the guidelines that should result” for “court finds that an aggravating or mitigating circumstance exists that was not adequately taken into consideration by the Sentencing Commission in formulating the guidelines and that should result”.
 
 Pub. L. 100–182, §3(3), inserted after first sentence “In determining whether a circumstance was adequately taken into consideration, the court shall consider only the sentencing guidelines, policy statements, and official commentary of the Sentencing Commission.”
 

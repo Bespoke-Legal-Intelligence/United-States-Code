@@ -1,6 +1,6 @@
 ### §2515. New trial; stay of judgment
 
-(a) The United States Court of Federal Claims may grant a plaintiff a new trial on any ground established by rules of common law or equity applicable as between private parties.
+(a) The United States Court of Federal Claims may grant a plaintiff a new trial on any groundestablished by rules of common law or equity applicable as between private parties.
 
 (b) Such court, at any time while any suit is pending before it, or after proceedings for review have been instituted, or within two years after the final disposition of the suit, may grant the United States a new trial and stay the payment of any judgment upon satisfactory evidence, cumulative or otherwise, that any fraud, wrong, or injustice has been done the United States.
 
@@ -16,9 +16,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+1982—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
 #### Effective Date of 1992 Amendment
 

@@ -38,5 +38,5 @@ Section 206(b) of Pub. L. 98–577 provided that: “The amendment made by subse
 
 #### Definitions
 
-The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
+The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 

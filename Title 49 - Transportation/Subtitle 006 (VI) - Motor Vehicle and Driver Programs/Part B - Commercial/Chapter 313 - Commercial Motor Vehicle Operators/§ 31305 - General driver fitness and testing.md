@@ -2,7 +2,7 @@
 
 (a)
 
-Minimum Standards for Testing and Fitness.—The Secretary of Transportation shall prescribe regulations on minimum standards for testing and ensuring the fitness of an individual operating a commercial motor vehicle. The regulations—
+Minimum Standards for Testing and Fitness.—The Secretary of Transportation shallprescribe regulations on minimum standards for testing and ensuring the fitness of an individual operating a commercial motor vehicle. The regulations—
 
 &emsp;(1) shall prescribe minimum standards for written and driving tests of an individual operating a commercial motor vehicle;
 
@@ -88,7 +88,7 @@ In subsection (b)(1), the words “taken and” are omitted as unnecessary. The 
 
 #### CDL School Bus Endorsement
 
-Pub. L. 106–159, title II, §214, Dec. 9, 1999, 113 Stat. 1766, provided that: “The Secretary shall conduct arulemaking to establish a special commercial driver's license endorsement for drivers of school buses. The endorsement shall, at a minimum—
+Pub. L. 106–159, title II, §214, Dec. 9, 1999, 113 Stat. 1766, provided that: “The Secretary shall conduct a rulemaking to establish a special commercial driver's license endorsement for drivers of school buses. The endorsement shall, at a minimum—
 
 &emsp;“(1) include a driving skills test in a school bus; and
 
@@ -114,7 +114,7 @@ Determination.—Not later than 18 months after the date of enactment of this Ac
 
 “(b)
 
-Compilation and Evaluation.—Prior to making the determination in subsection (a), the Secretary shall compile and evaluate research and other information on the effects of insulin treated diabetes mellitus on driving performance. In preparing the compilation and evaluation, the Secretary shall, at a minimum—
+Compilation and Evaluation.—Prior to making the determination in subsection (a), the Secretary shallcompile and evaluate research and other information on the effects of insulin treated diabetes mellitus on driving performance. In preparing the compilation and evaluation, the Secretary shall, at a minimum—
 
 &emsp;“(1) consult with States that have developed and are implementing a screening process to identify individuals with insulin treated diabetes mellitus who may obtain waivers to drive commercial motor vehicles in intrastate commerce;
 

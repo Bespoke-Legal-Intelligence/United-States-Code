@@ -14,5 +14,5 @@ Section was added by subsec. (c)(1) of section 304 of Pub. L. 85–568. Subsecs.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 951 of this title.
+This section is referred to in section 951 of this title.
 

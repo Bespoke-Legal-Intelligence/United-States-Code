@@ -76,7 +76,7 @@ Functions vested by statute in United States Civil Service Commission or Chairma
 
 #### Abatement of Actions
 
-Section 1(b)(2) of Pub. L. 100–90 provided that: “An action which is commenced under section 1005(a)(1)(B) of title 39, United States Code, before the effective date of the amendment made by subsection (a) \[see EffectiveDate of 1987 Amendment note above\] shall not abate by reason of the enactment of this Act \[amending this section and enacting provisions set out as a note above\]. Determinations with respect to any such action shall be made as if this Act had not been enacted.”
+Section 1(b)(2) of Pub. L. 100–90 provided that: “An action which is commenced under section 1005(a)(1)(B) of title 39, United States Code, before the effective date of the amendment made by subsection (a) \[see Effective Date of 1987 Amendment note above\] shall not abate by reason of the enactment of this Act \[amending this section and enacting provisions set out as a note above\]. Determinations with respect to any such action shall be made as if this Act had not been enacted.”
 
 #### Section Referred to in Other Sections
 

@@ -16,6 +16,9 @@
 | [321a.](Subchapter%20002%20%28II%29%20-%20Definitions/%C2%A7%2000321a%20-%20%E2%80%9CButter%E2%80%9D%20defined.md) | “Butter” defined. |
 | [321b.](Subchapter%20002%20%28II%29%20-%20Definitions/%C2%A7%2000321b%20-%20%E2%80%9CPackage%E2%80%9D%20defined.md) | “Package” defined. |
 | [321c.](Subchapter%20002%20%28II%29%20-%20Definitions/%C2%A7%2000321c%20-%20Nonfat%20dry%20milk%3B%20%E2%80%9Cmilk%E2%80%9D%20defined.md) | Nonfat dry milk; “milk” defined. |
+| [321d.](Subchapter%20002%20%28II%29%20-%20Definitions/%C2%A7%2000321d%20-%20Market%20names%20for%20catfish%20and%20ginseng.md) | Market names for catfish and ginseng. |
+| (a) | Catfish labeling. |
+| (b) | Ginseng labeling. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -43,10 +46,11 @@
 | (e) | Costs. |
 | (f) | Removal of case for trial. |
 | (g) | Administrative restraint; detention orders. |
+| (h) | Administrative detention of foods. |
 | [335\.](Subchapter%20003%20%28III%29%20-%20Prohibited%20Acts%20and%20Penalties/%C2%A7%2000335%20-%20Hearing%20before%20report%20of%20criminal%20violation.md) | Hearing before report of criminal violation. |
 | [335a.](Subchapter%20003%20%28III%29%20-%20Prohibited%20Acts%20and%20Penalties/%C2%A7%2000335a%20-%20Debarment%2C%20temporary%20denial%20of%20approval%2C%20and%20suspension.md) | Debarment, temporary denial of approval, and suspension. |
-| (a) | Mandatory debarment. |
-| (b) | Permissive debarment. |
+| (a) | Mandatory debarment; certain drug applications. |
+| (b) | Permissive debarment; certain drug applications; food imports. |
 | (c) | Debarment period and considerations. |
 | (d) | Termination of debarment. |
 | (e) | Publication and list of debarred persons. |
@@ -57,6 +61,7 @@
 | (j) | Judicial review. |
 | (k) | Certification. |
 | (<i>l</i>) | Applicability. |
+| (m) | Devices; mandatory debarment regarding third-party inspections and reviews. |
 | [335b.](Subchapter%20003%20%28III%29%20-%20Prohibited%20Acts%20and%20Penalties/%C2%A7%2000335b%20-%20Civil%20penalties.md) | Civil penalties. |
 | (a) | In general. |
 | (b) | Procedure. |
@@ -86,6 +91,7 @@
 | (e) | Oleomargarine containing filthy, putrid, etc., matter. |
 | (f) | Dietary supplement or ingredient: safety. |
 | (g) | Dietary supplement: manufacturing practices. |
+| (h) | Reoffer of food previously denied admission. |
 | [343\.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000343%20-%20Misbranded%20food.md) | Misbranded food. |
 | (a) | False or misleading label. |
 | (b) | Offer for sale under another name. |
@@ -106,6 +112,9 @@
 | (q) | Nutrition information. |
 | (r) | Nutrition levels and health-related claims. |
 | (s) | Dietary supplements. |
+| (t) | Catfish. |
+| (u) | Ginseng. |
+| (v) | Failure to label; health threat. |
 | 343–1. | National uniform nutrition labeling. |
 | 343–2. | Dietary supplement labeling exemptions. |
 | (a) | In general. |
@@ -178,6 +187,15 @@
 | (a) | In general. |
 | (b) | Petition. |
 | (c) | “New dietary ingredient” defined. |
+| [350c.](Subchapter%20004%20%28IV%29%20-%20Food/350c.%20Maintenance%20and%20inspection%20of%20records.md) | Maintenance and inspection of records. |
+| (a) | Records inspection. |
+| (b) | Regulations concerning recordkeeping. |
+| (c) | Protection of sensitive information. |
+| (d) | Limitations. |
+| [350d.](Subchapter%20004%20%28IV%29%20-%20Food/%C2%A7%2000350d%20-%20Registration%20of%20food%20facilities.md) | Registration of food facilities. |
+| (a) | Registration. |
+| (b) | Facility. |
+| (c) | Rule of construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -217,6 +235,8 @@
 | (r) | Restricted devices not carrying requisite accompanying statements in advertisements and other descriptive printed matter. |
 | (s) | Devices subject to performance standards not bearing requisite labeling. |
 | (t) | Devices for which there has been a failure or refusal to give required notification or to furnish required material or information. |
+| (u) | Identification of manufacturer. |
+| (v) | Reprocessed single-use devices. |
 | [353\.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000353%20-%20Exemptions%20and%20consideration%20for%20certain%20drugs%2C%20devices%2C%20and%20biological%20products.md) | Exemptions and consideration for certain drugs, devices, and biological products. |
 | (a) | Regulations for goods to be processed, labeled, or repacked elsewhere. |
 | (b) | Prescription by physician; exemption from labeling and prescription requirements; misbranded drugs; compliance with narcotic and marihuana laws. |
@@ -274,6 +294,11 @@
 | (b) | Approval of application for fast track product. |
 | (c) | Review of incomplete applications for approval of fast track product. |
 | (d) | Awareness efforts. |
+| 356–1. | Accelerated approval of priority countermeasures. |
+| (a) | In general. |
+| (b) | Use of animal trials. |
+| (c) | Priority review of drugs and biological products. |
+| (d) | Definitions. |
 | [356a.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356a%20-%20Manufacturing%20changes.md) | Manufacturing changes. |
 | (a) | In general. |
 | (b) | Validation of effects of changes. |
@@ -283,6 +308,8 @@
 | (a) | Submission. |
 | (b) | Consideration of information as public information. |
 | (c) | Status of studies and reports. |
+| (d) | Disclosure. |
+| (e) | Notification. |
 | [356c.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000356c%20-%20Discontinuance%20of%20life%20saving%20product.md) | Discontinuance of life saving product. |
 | (a) | In general. |
 | (b) | Reduction in notification period. |
@@ -310,6 +337,8 @@
 | (<i>l</i>) | Exemption from reporting requirements. |
 | (m) | List of exempt class II devices; determination by Secretary; publication in Federal Register. |
 | (n) | Review of report; time for determination by Secretary. |
+| (<i>o</i>) | Reprocessed single-use devices. |
+| (p) | Electronic registration. |
 | [360a.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360a%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93513%2C%20title%20II%2C%20%C2%A7701%28a%29%2C%20Oct.%2027%2C%201970%2C%2084%20Stat.%201281.md) | Repealed. |
 | [360b.](Subchapter%20005%20%28V%29%20-%20Drugs%20and%20Devices/Part%20A%20-%20Drugs%20and%20Devices/%C2%A7%2000360b%20-%20New%20animal%20drugs.md) | New animal drugs. |
 | (a) | Unsafe new animal drugs and animal feed containing such drugs; conditions of safety; exemption of drugs for research; import tolerances. |
@@ -399,6 +428,7 @@
 | (a) | In general. |
 | (b) | Accreditation. |
 | (c) | Duration. |
+| (d) | Report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -573,6 +603,7 @@
 | (d) | Analysis of samples furnished owner. |
 | (e) | Accessibility of records. |
 | (f) | Recordkeeping. |
+| (g) | Inspections by accredited persons. |
 | [375\.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20A%20-%20General%20Administrative%20Provisions/%C2%A7%2000375%20-%20Publicity.md) | Publicity. |
 | (a) | Reports. |
 | (b) | Information regarding certain goods. |
@@ -631,15 +662,35 @@ I74subpart 1—freedom of information fees
 | [379g.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20C%20-%20Fees/Subpart%20002%20-%20Fees%20Relating%20to%20Drugs/%C2%A7%2000379g%20-%20Definitions.md) | Definitions. |
 | [379h.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20C%20-%20Fees/Subpart%20002%20-%20Fees%20Relating%20to%20Drugs/%C2%A7%2000379h%20-%20Authority%20to%20assess%20and%20use%20drug%20fees.md) | Authority to assess and use drug fees. |
 | (a) | Types of fees. |
-| (b) | Fee amounts. |
+| (b) | Fee revenue amounts. |
 | (c) | Adjustments. |
 | (d) | Fee waiver or reduction. |
 | (e) | Effect of failure to pay fees. |
-| (f) | Assessment of fees. |
+| (f) | Limitations. |
 | (g) | Crediting and availability of fees. |
 | (h) | Collection of unpaid fees. |
 | (i) | Written requests for waivers, reductions, and refunds. |
 | (j) | Construction. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### subpart 3—fees relating to devices
+
+|  |  |
+| :--- | ---: |
+| [379i.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20C%20-%20Fees/Subpart%20003%20-%20Fees%20Relating%20to%20Devices/%C2%A7%2000379i%20-%20Definitions.md) | Definitions. |
+| [379j.](Subchapter%20007%20%28VII%29%20-%20General%20Authority/Part%20C%20-%20Fees/Subpart%20003%20-%20Fees%20Relating%20to%20Devices/%C2%A7%2000379j%20-%20Authority%20to%20assess%20and%20use%20device%20fees.md) | Authority to assess and use device fees. |
+| (a) | Types of fees. |
+| (b) | Fee revenue amounts. |
+| (c) | Adjustments. |
+| (d) | Small businesses; fee waiver and fee reduction regarding premarket approval fees. |
+| (e) | Small businesses; fee reduction regarding premarket notification submissions. |
+| (f) | Effect of failure to pay fees. |
+| (g) | Conditions. |
+| (h) | Crediting and availability of fees. |
+| (i) | Collection of unpaid fees. |
+| (j) | Written requests for refunds. |
+| (k) | Construction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -702,6 +753,14 @@ I74subpart 1—freedom of information fees
 | (e) | Exports. |
 | (f) | Labeling of exported drugs. |
 | (g) | Warning notice of importation in violation of chapter. |
+| (h) | Protection against adulteration of food. |
+| (i) | Testing for rapid detection of adulteration of food. |
+| (j) | Temporary holds at ports of entry. |
+| (k) | Importation by debarred persons. |
+| (<i>l</i>) | Failure to register. |
+| (m) | Prior notice of imported food shipments. |
+| (n) | Labeling of food refused admission. |
+| (<i>o</i>) | Registration statement. |
 | [382\.](Subchapter%20008%20%28VIII%29%20-%20Imports%20and%20Exports/%C2%A7%2000382%20-%20Exports%20of%20certain%20unapproved%20products.md) | Exports of certain unapproved products. |
 | (a) | Drugs or devices intended for human or animal use which require approval or licensing. |
 | (b) | List of eligible countries for export; criteria for addition to list; direct export; petition for exemption. |
@@ -762,12 +821,19 @@ I74subpart 1—freedom of information fees
 | [397\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000397%20-%20Contracts%20for%20expert%20review.md) | Contracts for expert review. |
 | (a) | In general. |
 | (b) | Review of expert review. |
+| [398\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000398%20-%20Notices%20to%20States%20regarding%20imported%20food.md) | Notices to States regarding imported food. |
+| (a) | In general. |
+| (b) | Rule of construction. |
+| [399\.](Subchapter%20009%20%28IX%29%20-%20Miscellaneous/%C2%A7%2000399%20-%20Grants%20to%20States%20for%20inspections.md) | Grants to States for inspections. |
+| (a) | In general. |
+| (b) | Notices regarding adulterated imported food. |
+| (c) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 355b, 453, 457, 466, 467, 467f, 601, 607, 620, 679, 802, 811, 823, 829, 830, 902, 1033, 1049, 1052, 1401, 1402, 1403, 1601 of this title; title 7 sections 136a–1, 136v, 138i, 1431c, 5341, 6519, 7653; title 15 sections 70j, 1261, 1263, 1277, 1459, 1460, 2057a, 2057b, 2079; title 18 sections 42, 983; title 19 section 2578a; title 26 sections 170, 4817; title 35 sections 155, 156, 271, 287; title 42 sections 262, 284m, 300aa–22, 300aa–23, 1396r–8, 1786, 3512, 7671.
+This chapter is referred to in sections 321d, 355b, 453, 457, 466, 467, 467f, 601, 607, 620, 679, 802, 811, 823, 829, 830, 902, 1033, 1049, 1052, 1401, 1402, 1403, 1601 of this title; title 7 sections 136a–1, 136v, 138i, 1431c, 5341, 6519, 7653, 8401; title 15 sections 70j, 1261, 1263, 1277, 1459, 1460, 2057a, 2057b, 2079; title 18 sections 42, 983; title 19 section 2578a; title 26 sections 170, 4817; title 35 sections 155, 156, 271, 287; title 42 sections 238q, 262, 262a, 284m, 300aa–22, 300aa–23, 1396r–8, 1786, 3512, 7671.
 
 
 ---

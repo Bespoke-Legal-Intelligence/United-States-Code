@@ -38,7 +38,23 @@ Consultation.—The President may require the Secretary to consult with interest
 
 Additional Insurance.—With the approval of the Secretary, a person having an insurable interest in an aircraft may insure with other underwriters in an amount that is more than the amount insured with the Secretary. However, the Secretary may not benefit from the additional insurance. This subsection does not prevent the Secretary from making contracts of coinsurance.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(a), Sept. 22, 2001, 115 Stat. 234.)
+(f)
+
+Extension of Policies.—
+
+&emsp;(1)
+
+In general.—The Secretary shall extend through August 31, 2003, and may extend through December 31, 2003, the termination date of any insurance policy that the Department of Transportation issued to an air carrier under subsection (a) and that is in effect on the date of enactment of this subsection on no less favorable terms to the air carrier than existed on June 19, 2002; except that the Secretary shall amend the insurance policy, subject to such terms and conditions as the Secretary may prescribe, to add coverage for losses or injuries to aircraft hulls, passengers, and crew at the limits carried by air carriers for such losses and injuries as of such date of enactment and at an additional premium comparable to the premium charged for third-party casualty coverage under such policy.
+
+&emsp;(2)
+
+Special rules.—Notwithstanding paragraph (1)—
+
+&emsp;&emsp;(A) in no event shall the total premium paid by the air carrier for the policy, as amended, be more than twice the premium that the air carrier was paying to the Department of Transportation for its third party policy as of June 19, 2002; and
+
+&emsp;&emsp;(B) the coverage in such policy shall begin with the first dollar of any covered loss that is incurred.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1168; Pub. L. 105–137, §2(a), Dec. 2, 1997, 111 Stat. 2640; Pub. L. 107–42, title II, §201(a), Sept. 22, 2001, 115 Stat. 234; Pub. L. 107–296, title XII, §1202, Nov. 25, 2002, 116 Stat. 2286.)
 
 Historical and Revision Notes
 
@@ -78,7 +94,7 @@ Aug. 23, 1958, Pub. L. 85–726, §1311, 72 Stat. 806.
 
 In subsection (a)(1), before clause (A), the words “Subject to subsection (b) of this section” are added, and the words “American aircraft or foreign-flag aircraft” are substituted for “aircraft” in 49 App.:1532(a), for clarity. The words “in the manner and to the extent provided by this subchapter” are omitted as unnecessary. The words “Insurance shall be issued under this subchapter only to cover any risk from the operation of an aircraft . . . such aircraft is” are omitted because of the restatement. In clause (B), the word “places” is substituted for “points” for consistency in the revised title.
 
-In subsection (a)(2), the words “An aircraft may be insured or reinsured for not more than” are substituted for “and such stated amount shall not exceed” in 49 App.:1537(a) for clarity and because of the restatement. The words “its reasonable value” are substituted for“an amount . . . to represent the fair and reasonable value of the aircraft” to eliminate unnecessary words. The words “Insurance or reinsurance may be provided only” are added because of the restatement. The word “conditions” is omitted as being included in “terms”.
+In subsection (a)(2), the words “An aircraft may be insured or reinsured for not more than” are substituted for “and such stated amount shall not exceed” in 49 App.:1537(a) for clarity and because of the restatement. The words “its reasonable value” are substituted for “an amount . . . to represent the fair and reasonable value of the aircraft” to eliminate unnecessary words. The words “Insurance or reinsurance may be provided only” are added because of the restatement. The word “conditions” is omitted as being included in “terms”.
 
 In subsection (b), the words “The Secretary may provide insurance or reinsurance under subsection (a) of this section only with the approval of the President” are substituted for “with the approval of the President” for clarity and because of the restatement. The words “The President may” are substituted for “The President shall” because the authority of the President is discretionary.
 
@@ -90,7 +106,11 @@ In subsection (d), the words “However, the Secretary may not benefit from the 
 
 The date of enactment of this paragraph, referred to in subsec. (b)(4), is the date of enactment of Pub. L. 107–42, which was approved Sept. 22, 2001.
 
+The date of enactment of this subsection, referred to in subsec. (f)(1), is the date of enactment of Pub. L. 107–296, which was approved Nov. 25, 2002.
+
 #### Amendments
+
+2002—Subsec. (f). Pub. L. 107–296 added subsec. (f).
 
 2001—Subsec. (a)(1). Pub. L. 107–42, §201(a)(1), substituted “subsection (c)” for “subsection (b)” and “foreign-flag aircraft.” for “foreign-flag aircraft—” and struck out subpars. (A) and (B) which read as follows:
 
@@ -107,6 +127,10 @@ Subsec. (d). Pub. L. 107–42, §201(a)(2), (5), redesignated subsec. (c) as (d)
 Subsec. (e). Pub. L. 107–42, §201(a)(2), redesignated subsec. (d) as (e).
 
 1997—Subsec. (a)(2). Pub. L. 105–137 substituted “as determined by the Secretary in accordance with reasonable business practices in the commercial aviation insurance industry.” for “as determined by the Secretary.”
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Provision of Aviation Insurance Coverage for Commercial Air Carrier Service
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) to ensure better access to private mortgage markets and to promote self-sufficiency of low-income Native Hawaiian families;
 
-&emsp;&emsp;(C) to coordinate activities to provide housing for low-income Native Hawaiian families with Federal, State, and local activities to further economic and community development;
+&emsp;&emsp;(C) to coordinate activities to provide housing for low-income Native Hawaiianfamilies with Federal, State, and local activities to further economic and community development;
 
 &emsp;&emsp;(D) to plan for and integrate infrastructure resources on the Hawaiian Home Lands with housing development; and
 

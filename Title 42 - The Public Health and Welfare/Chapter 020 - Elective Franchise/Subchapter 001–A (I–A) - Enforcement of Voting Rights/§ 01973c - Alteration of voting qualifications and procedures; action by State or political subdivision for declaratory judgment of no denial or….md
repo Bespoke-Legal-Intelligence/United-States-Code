@@ -12,5 +12,5 @@ Whenever a State or political subdivision with respect to which the prohibitions
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1973b, 1973j, 1973<i>l</i> of this title.
+This section is referred to in sections 1973b, 1973j, 1973<i>l</i>, 15545 of this title.
 

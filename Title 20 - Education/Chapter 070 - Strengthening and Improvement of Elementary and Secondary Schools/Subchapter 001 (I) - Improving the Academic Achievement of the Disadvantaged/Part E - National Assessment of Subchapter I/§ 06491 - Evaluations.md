@@ -74,7 +74,7 @@
 
 #### (3) Sources of information
 
-&emsp;In conducting the assessment under this subsection, the Secretary shall use information from a variety of sources, including the National Assessment of Educational Progress (carried out under section 9010 of this title), State evaluations, and other research studies.
+&emsp;In conducting the assessment under this subsection, the Secretary shall use information from a variety of sources, including the National Assessment of Educational Progress (carried out under section 9622 of this title), State evaluations, and other research studies.
 
 #### (4) Coordination
 
@@ -154,7 +154,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary shall establish an independent review panel (in this subsection referred toas the “Review Panel”) to advise the Secretary on methodological and other issues that arise in carrying out subsections (a) and (c) of this section.
+&emsp;The Secretary shall establish an independent review panel (in this subsection referred to as the “Review Panel”) to advise the Secretary on methodological and other issues that arise in carrying out subsections (a) and (c) of this section.
 
 #### (2) Appointment of members
 
@@ -196,7 +196,7 @@
 
 &emsp;&emsp;&emsp;(iii) that the comments of such experts are transmitted with the report under subsection (a)(6)(B) of this section.
 
-(Pub. L. 89–10, title I, §1501, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1592.)
+(Pub. L. 89–10, title I, §1501, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1592; amended Pub. L. 107–279, title IV, §404(d)(4), Nov. 5, 2002, 116 Stat. 1986.)
 
 #### References in Text
 
@@ -207,6 +207,10 @@ The Government Performance and Results Act of 1993, referred to in subsec. (b)(1
 A prior section 6491, Pub. L. 89–10, title I, §1501, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3601; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(3)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–18, title VI, §60002, June 12, 1997, 111 Stat. 214, related to evaluations, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 A prior section 1501 of Pub. L. 89–10 was classified to section 2911 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
+
+#### Amendments
+
+2002—Subsec. (a)(3). Pub. L. 107–279 substituted “section 9622 of this title” for “section 9010 of this title”.
 
 #### Section Referred to in Other Sections
 

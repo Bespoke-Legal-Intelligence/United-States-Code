@@ -30,7 +30,7 @@
 
 &emsp;(B) Those members who have served for 6 months or less, as of the date of such meeting, shall have an appointment expiring on a date 6 years from October 11, 1990.
 
-&emsp;(C) All other members shall apportion the remaining Board positions between equal numbers of 2 and 4 year terms (providing that if there are an unequal number of remaining members, there shall be a predominance of 4 year terms), such apportionment to be made by lot.
+&emsp;(C) All other members shall apportion the remaining Board positions between equal numbers of 2 and 4 year terms (providing that if there are an unequal number of remainingmembers, there shall be a predominance of 4 year terms), such apportionment to be made by lot.
 
 (3)(A) Subject to the limitations in subparagraphs (B) and (C) of this paragraph, members of the Board may be reappointed, provided that no member may serve more than 2 consecutive terms.
 
@@ -70,7 +70,7 @@ The Chairman and the Vice Chairman of the Board shall be elected from among the 
 
 #### (h) Appointment, functions, etc., of committees; membership
 
-(1) The Board may appoint such committees, and assign to the committees such functions, asmay be appropriate to assist the Board in carrying out its duties under this chapter. Members of such committees may include the members of the Board or such other qualified individuals as the Board may select.
+(1) The Board may appoint such committees, and assign to the committees such functions, as may be appropriate to assist the Board in carrying out its duties under this chapter. Members of such committees may include the members of the Board or such other qualified individuals as the Board may select.
 
 (2) Any employee or officer of the Federal Government may serve as a member of a committee created by the Board, but may not receive compensation for services performed for such a committee.
 

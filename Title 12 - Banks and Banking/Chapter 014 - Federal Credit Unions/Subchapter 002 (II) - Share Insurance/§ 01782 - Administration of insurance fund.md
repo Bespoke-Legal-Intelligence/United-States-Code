@@ -2,7 +2,7 @@
 
 #### (a) Reports of condition
 
-(1) Each insured credit union shall make reports of condition to the Board upon dates which shall be selected by it. Such reports of condition shall be in such form and shall contain such information as the Board may require. The reporting dates selected for reports of condition shall be the same for all insured credit unions except that when any of said reporting dates is a nonbusiness day for any credit union the preceding business day shall be its reporting date. The total amount of the member accounts of each insured credit union as of each reporting date shall be reported in such reports of condition in accordance with regulations prescribed by the Board. Each report of condition shall contain a declaration by the president, by a vice president, by the treasurer, or by any other officer designated by the board of directors of the reporting credit union to make such declaration, that the report is true and correct to the best of such officer's knowledge and belief. Unless suchrequirement is waived by the Board, the correctness of each report of condition shall be attested by the signatures of three of the officers of the reporting credit union with the declaration that the report has been examined by them and to the best of their knowledge and belief is true and correct.
+(1) Each insured credit union shall make reports of condition to the Board upon dates which shall be selected by it. Such reports of condition shall be in such form and shall contain such information as the Board may require. The reporting dates selected for reports of condition shall be the same for all insured credit unions except that when any of said reporting dates is a nonbusiness day for any credit union the preceding business day shall be its reporting date. The total amount of the member accounts of each insured credit union as of each reporting date shall be reported in such reports of condition in accordance with regulations prescribed by the Board. Each report of condition shall contain a declaration by the president, by a vice president, by the treasurer, or by any other officer designated by the board of directors of the reporting credit union to make such declaration, that the report is true and correct to the best of such officer's knowledge and belief. Unless such requirement is waived by the Board, the correctness of each report of condition shall be attested by the signatures of three of the officers of the reporting credit union with the declaration that the report has been examined by them and to the best of their knowledge and belief is true and correct.
 
 (2) The Board may call for such other reports as it may from time to time require.
 
@@ -18,7 +18,7 @@ Audit requirement.—
 
 &emsp;(A)
 
-In general.—Before the end of the 120-day period beginning on August 9, 1989, and notwithstanding any other provision of Federal or State law, the Board shall prescribe, by regulation, audit standards which require an outside, independent audit of any insured credit union by a certified public accountant for any fiscal year (of such credit union)—
+In general.—Before the end of the 120-day period beginning on August 9, 1989, and notwithstanding any other provision of Federal or State law, the Board shall prescribe, by regulation, audit standards which require anoutside, independent audit of any insured credit union by a certified public accountant for any fiscal year (of such credit union)—
 
 &emsp;&emsp;(i) for which such credit union has not conducted an annual supervisory committee audit;
 
@@ -56,7 +56,7 @@ In general.—Each insured credit union having total assets of $500,000,000 or m
 
 &emsp;&emsp;(ii)
 
-Voluntary audits.—If a Federal credit union that is not required to conduct an audit under clause (i), and that has total assets of more than $10,000,000 conducts such an audit for any purpose, using an independent auditor who is compensated for his or her audit services with respect to that audit,the audit shall be performed consistent with the accountancy laws of the appropriate State or jurisdiction, including licensing requirements.
+Voluntary audits.—If a Federal credit union that is not required to conduct an audit under clause (i), and that has total assets of more than $10,000,000 conducts such an audit for any purpose, using an independent auditor who is compensated for his or her audit services with respect to that audit, the audit shall be performed consistent with the accountancy laws of the appropriate State or jurisdiction, including licensing requirements.
 
 (7)
 
@@ -100,7 +100,7 @@ Additional information.—In addition to the copies of the reports required to b
 
 #### (c) Deposit with National Credit Union Share Insurance Fund; amount, return, distribution, etc.
 
-(1)(A)(i) Each insured credit union shall pay to and maintain with the National Credit Union Share Insurance Fund a deposit in an amount equaling 1 per centum of the credit union's insured shares.
+(1)(A)(i) Each insured credit union shall pay to and maintain with the National Credit UnionShare Insurance Fund a deposit in an amount equaling 1 per centum of the credit union's insured shares.
 
 (ii) The Board may, in its discretion, authorize insured credit unions to initially fund such deposit over a period of time in excess of one year if necessary to avoid adverse effects on the condition of insured credit unions.
 
@@ -138,7 +138,7 @@ Relation of premium charge to equity ratio of Fund.—The Board may assess a pre
 
 &emsp;(C)
 
-Premium charge required if equity ratio falls below 1.2 percent.—If the Fund'sequity ratio is less than 1.2 percent, the Board shall, subject to subparagraph (B), assess a premium charge in such an amount as the Board determines to be necessary to restore the equity ratio to, and maintain that ratio at, 1.2 percent.
+Premium charge required if equity ratio falls below 1.2 percent.—If the Fund's equity ratio is less than 1.2 percent, the Board shall, subject to subparagraph (B), assess a premium charge in such an amount as the Board determines to be necessary to restore the equity ratio to, and maintain that ratio at, 1.2 percent.
 
 (3)
 
@@ -218,7 +218,7 @@ Special rule for disputed payments.—No penalty may be assessed for the failure
 
 &emsp;&emsp;(ii) the credit union deposits security satisfactory to the Board for payment of the deposit or insurance premium upon final determination of the dispute.
 
-(3) No insured credit union shall pay any dividends on its insured shares or distribute any ofits assets while it remains in default in the payment of its deposit or any premium charge for insurance due to the fund. Any director or officer of any insured credit union who knowingly participates in the declaration or payment of any such dividend or in any such distribution shall, upon conviction, be fined not more than $1,000 or imprisoned not more than one year, or both. The provisions of this paragraph shall not be applicable in any case in which the default is due to a dispute between the credit union and the Board over the amount of its deposit or the premium charge due to the fund if the credit union deposits security satisfactory to the Board for payment of its deposit or the premium charge upon final determination of the issue.
+(3) No insured credit union shall pay any dividends on its insured shares or distribute any of its assets while it remains in default in the payment of its deposit or any premium charge for insurance due to the fund. Any director or officer of any insured credit union who knowingly participates in the declaration or payment of any such dividend or in any such distribution shall, upon conviction, be fined not more than $1,000 or imprisoned not more than one year, or both. The provisions of this paragraph shall not be applicable in any case in which the default is due to a dispute between the credit union and the Board over the amount of its deposit or the premium charge due to the fund if the credit union deposits security satisfactory to the Board for payment of its deposit or the premium charge upon final determination of the issue.
 
 #### (e) Recovery of unpaid deposit or premium; limitations
 
@@ -230,7 +230,7 @@ Should any Federal credit union fail to make any report of condition under subse
 
 #### (g) Records
 
-Each insured credit union shall maintain such records as will readily permit verification of the correctness of its reports of condition, certified statements, and deposit and premium charges for insurance. However, no insured credit union shall be required to retain such records for such purpose for a period in excess of five years from the date of the making of any such report, the filing of any such statement, or the payment of any deposit or adjustment thereof or any premium charge, except that when there is a dispute between the insured credit union and the Board over the amount of any deposit or adjustment thereof or any premium charge for insurance the credit union shall retain such records until final determination of the issue.
+Each insured credit union shall maintain such records as will readily permit verification of thecorrectness of its reports of condition, certified statements, and deposit and premium charges for insurance. However, no insured credit union shall be required to retain such records for such purpose for a period in excess of five years from the date of the making of any such report, the filing of any such statement, or the payment of any deposit or adjustment thereof or any premium charge, except that when there is a dispute between the insured credit union and the Board over the amount of any deposit or adjustment thereof or any premium charge for insurance the credit union shall retain such records until final determination of the issue.
 
 #### (h) Definitions
 
@@ -262,7 +262,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (4) Normal operating level
 
-&emsp;The term “normal operating level”, when applied to the Fund, means an equity ratiospecified by the Board, which shall be not less than 1.2 percent and not more than 1.5 percent.
+&emsp;The term “normal operating level”, when applied to the Fund, means an equity ratio specified by the Board, which shall be not less than 1.2 percent and not more than 1.5 percent.
 
 (June 26, 1934, ch. 750, title II, §202, as added Pub. L. 91–468, §1(3), Oct. 19, 1970, 84 Stat. 995; amended Pub. L. 93–383, title VII, §727, Aug. 22, 1974, 88 Stat. 720; Pub. L. 95–630, title V, §§502(b), 505, Nov. 10, 1978, 92 Stat. 3681, 3682; Pub. L. 97–320, title V, §§528, 529, Oct. 15, 1982, 96 Stat. 1535; Pub. L. 97–457, §29, Jan. 12, 1983, 96 Stat. 2510; Pub. L. 98–369, div. B, title VIII, §§2802–2810, July 18, 1984, 98 Stat. 1204, 1205; Pub. L. 101–73, title IX, §§911(f), 919, 931(b), Aug. 9, 1989, 103 Stat. 482, 488, 493; Pub. L. 102–242, title III, §313(b), Dec. 19, 1991, 105 Stat. 2369; Pub. L. 102–550, title XVI, §1605(b)(3), Oct. 28, 1992, 106 Stat. 4087; Pub. L. 105–219, title II, §201, title III, §302(a), Aug. 7, 1998, 112 Stat. 918, 931.)
 
@@ -298,7 +298,7 @@ Subsec. (h). Pub. L. 105–219, §302(a)(5), added subsec. (h) and struck out fo
 
 &emsp;“(2) the term ‘normal operating level’, when applied to the fund, means an amount equal to 1.3 per centum of the aggregate amount of the insured shares in all insured credit unions, or such lower level as the Board may determine; and
 
-&emsp;“(3) the term ‘insured shares’ when applied to this section includes share, share draft, share certificate and other similar accounts as determined by the Board, but does not include amounts in excess of the insured account limit set forth in section 1787(c)(1) of this title.”
+&emsp;“(3) the term ‘insured shares’ when applied to this section includes share, share draft, share certificate and other similar accounts as determined by theBoard, but does not include amounts in excess of the insured account limit set forth in section 1787(c)(1) of this title.”
 
 1992—Subsec. (d)(2). Pub. L. 102–550, in subpar. (C), substituted “insured credit union” for “insured depository institution”, struck out “or” after “subsection (b)(1) of this section”, and substituted “Board” for “Corporation” and “assets of the credit union” for “assets of the institution”, in subpar. (D), substituted “Board” for “Corporation”, and in subpar. (E), substituted “insured credit union” for “insured depository institution” and “if the credit union” for “if the institution”.
 
@@ -352,7 +352,7 @@ Subsec. (h)(3). Pub. L. 97–320, §528, substituted “ ‘members accounts’
 
 Subsecs. (b) to (g). Pub. L. 95–630, §502(b), substituted “Board” for “Administrator” wherever appearing, and “its” for “his” where appropriate.
 
-Subsec. (h)(3). Pub. L. 95–630, §505(b), substituted “The term ‘member account’ when” for “the term ‘members accounts’ when”, struck out “of federally insured credit unions” after “of accounts”, and inserted “received from other federally insured credit unions” after “not include amounts”.
+Subsec. (h)(3). Pub. L. 95–630, §505(b), substituted “The term ‘member account’ when” for “the term ‘members accounts’ when”, struck out “of federally insured credit unions” after “of accounts”, and inserted“received from other federally insured credit unions” after “not include amounts”.
 
 1974—Subsec. (h)(3). Pub. L. 93–383 added par. (3).
 

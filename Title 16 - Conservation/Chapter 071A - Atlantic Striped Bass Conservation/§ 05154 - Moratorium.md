@@ -20,7 +20,7 @@ During a moratorium period, it is unlawful for any person—
 
 #### (1) Civil penalty
 
-&emsp;Any person who commits any act that is unlawful under subsection (b) of this section shall be liable to the United States for a civilpenalty as provided by section 308 of the Magnuson Act (16 U.S.C. 1858).
+&emsp;Any person who commits any act that is unlawful under subsection (b) of this section shall be liable to the United States for a civil penalty as provided by section 308 of the Magnuson Act (16 U.S.C. 1858).
 
 #### (2) Civil forfeitures
 
@@ -54,11 +54,15 @@ The Secretaries may issue regulations to implement this section.
 
 1986—Pub. L. 99–432, §3(b), which directed the substitution of “Secretaries” for “Secretary”, was executed by making the substitution in subsec. (a)(2), in three places in subsec. (c), and in two places in subsec. (e) to reflect the probable intent of Congress.
 
-Pub. L. 99–432, §3(a), which directed the substitution of “section 5153(b)” for “section 5153(d)”, was executed by making the substitution in subsecs. (a)(1), (2), (b)(3), and (e) to reflect the probable intent of Congress.
+Pub. L. 99–432, §3(a), which directed the substitution of “section 5153(b)” for “section 5153(d)”, was executedby making the substitution in subsecs. (a)(1), (2), (b)(3), and (e) to reflect the probable intent of Congress.
 
 #### Effective Date of 1996 Amendment
 
 Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

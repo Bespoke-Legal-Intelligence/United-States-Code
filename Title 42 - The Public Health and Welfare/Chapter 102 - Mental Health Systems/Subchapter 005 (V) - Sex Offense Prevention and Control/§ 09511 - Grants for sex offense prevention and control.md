@@ -2,7 +2,7 @@
 
 #### (a) Authority of National Center for the Prevention and Control of Sex Offenses; functions
 
-The Secretary, acting through the National Center for the Prevention and Control of Sex Offenses (hereafter in this section referred to asthe “Center”), may, directly or by grant, carry out the following:
+The Secretary, acting through the National Center for the Prevention and Control of Sex Offenses (hereafter in this section referred to as the “Center”), may, directly or by grant, carry out the following:
 
 &emsp;(1) A continuing study of sex offenses, including a study and investigation of—
 
@@ -62,7 +62,7 @@ For purposes of subsection (a) of this section, the term “sex offense” inclu
 
 1986—Pub. L. 99–646, §87(d)(3), and Pub. L. 99–654, §3(b)(3), amended section catchline identically, substituting “sex offense” for “rape”.
 
-Subsec. (a). Pub. L. 99–646, §87(d)(4)–(6), and Pub. L. 99–654, §3(b)(4)–(6), in amending subsec. (a) identically, in introductory provision substituted “Sex Offenses” for “Rape”, in par. (1) and in subpars. (A), (C), (D), (G), and (H) of par. (1) substituted “sex offenses” for “rape” wherever appearing, in par. (1)(B) substituted “sex offenses” for “the act of rape”, in par. (1)(E) substituted “a sex offense” for “rape”, and in par. (3)(A) and (B) substituted “sex offenses” for “rape”.
+Subsec. (a). Pub. L. 99–646, §87(d)(4)–(6), and Pub. L. 99–654, §3(b)(4)–(6), in amending subsec. (a) identically, in introductory provision substituted “Sex Offenses” for “Rape”, in par. (1) and in subpars. (A), (C), (D), (G),and (H) of par. (1) substituted “sex offenses” for “rape” wherever appearing, in par. (1)(B) substituted “sex offenses” for “the act of rape”, in par. (1)(E) substituted “a sex offense” for “rape”, and in par. (3)(A) and (B) substituted “sex offenses” for “rape”.
 
 Subsec. (e). Pub. L. 99–646, §87(d)(7), and Pub. L. 99–654, §3(b)(7), amended subsec. (e) identically, substituting “the term ‘sex offense’ ” for “the term ‘rape’ ”.
 

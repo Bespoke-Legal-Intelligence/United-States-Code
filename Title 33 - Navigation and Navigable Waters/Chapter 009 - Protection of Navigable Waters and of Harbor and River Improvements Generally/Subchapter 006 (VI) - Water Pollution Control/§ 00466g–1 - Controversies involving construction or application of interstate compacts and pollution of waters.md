@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction of actions by States
 
-The United States district courts shall have original jurisdiction (concurrent with that ofthe Supreme Court of the United States, and concurrent with that of any other court of the United States or of any State of the United States in matters in which the Supreme Court, or any other court, has original jurisdiction) of any case or controversy—
+The United States district courts shall have original jurisdiction (concurrent with that of the Supreme Court of the United States, and concurrent with that of any other court of the United States or of any State of the United States in matters in which the Supreme Court, or any other court, has original jurisdiction) of any case or controversy—
 
 &emsp;(1) which involves the construction or application of an interstate compact which (A) in whole or in part relates to the pollution of the waters of an interstate river system or any portion thereof, and (B) expresses the consent of the States signatory to said compact to be sued in a district court in any case or controversy involving the application or construction thereof; and
 

@@ -8,7 +8,7 @@ There is established in the Treasury of the United States an account to be known
 
 #### (1) In general
 
-&emsp;On October 1, 1998, and each October 1 thereafter through October 1, 2002, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer $120,000,000 to the Account.
+&emsp;On October 1, 1998, and each October 1 thereafter through October 1, 2001 <sup>1</sup>, out of any funds in the Treasury not otherwise appropriated, the Secretary of the Treasury shall transfer $120,000,000 to the Account.
 
 #### (2) Entitlement
 
@@ -20,21 +20,31 @@ There is established in the Treasury of the United States an account to be known
 
 &emsp;&emsp;(C) shall use the funds to carry out this section.
 
+#### (3) Other funding
+
+&emsp;Out of funds in the Commodity Credit Corporation, the Secretary shall transfer to the Account—
+
+&emsp;&emsp;(A) on October 1, 2003, $120,000,000;
+
+&emsp;&emsp;(B) on October 1, 2004, $140,000,000;
+
+&emsp;&emsp;(C) on October 1, 2005, $160,000,000; and
+
+&emsp;&emsp;(D) on October 1, 2006, and each October 1 thereafter, $200,000,000.
+
 #### (c) Purposes
 
-#### (1) Critical emerging issues
+#### (1) Critical emerging agricultural and rural issues
 
-&emsp;The Secretary shall use the funds in the Account—
+&emsp;The Secretary shall use the funds in the Account for research, extension, and education grants (referred to in this section as “grants”) to address critical emerging agricultural and rural issues related to—
 
-&emsp;&emsp;(A) subject to paragraph (2), for research, extension, and education grants (referred to in this section as “grants”) to address critical emerging agricultural issues related to—
+&emsp;&emsp;(A) future food production;
 
-&emsp;&emsp;&emsp;(i) future food production;
+&emsp;&emsp;(B) environmental quality and natural resource management;
 
-&emsp;&emsp;&emsp;(ii) environmental quality and natural resource management; or
+&emsp;&emsp;(C) farm income; or
 
-&emsp;&emsp;&emsp;(iii) farm income; and
-
-&emsp;&emsp;(B) for activities carried out under the Alternative Agricultural Research and Commercialization Act of 1990 (7 U.S.C. 5901 et seq.).
+&emsp;&emsp;(D) rural economic and business and community development policy.
 
 #### (2) Priority mission areas
 
@@ -70,7 +80,7 @@ The Secretary may make a grant under this section to—
 
 #### (1) Smaller institutions
 
-&emsp;The Secretary may award grants under this section in a manner that ensures that the faculty of small and mid-sized institutions that have not previously been successful in obtaining competitive grants under subsection (b) of section 450i of this title receive a portion of the grants under this section.
+&emsp;The Secretary may award grants under this section in a manner that ensures that the faculty of small, mid-sized, and minority-serving institutions that have not previously been successful in obtaining competitive grants under subsection (b) of section 450i of this title receive a portion of the grants under this section.
 
 #### (2) Priorities
 
@@ -126,17 +136,33 @@ The Secretary may make a grant under this section to—
 
 &emsp;Funds made available for grants under this section shall not be used for the construction of a new building or facility or the acquisition, expansion, remodeling, or alteration of an existing building or facility (including site grading and improvement and architect fees).
 
-(Pub. L. 105–185, title IV, §401, June 23, 1998, 112 Stat. 564; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(c)(2)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
-
-#### References in Text
-
-The Alternative Agricultural Research and Commercialization Act of 1990, referred to in subsec. (c)(1)(B), is subtitle G (§§1657–1664) of title XVI of Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3756, which is classified generally to subchapter VI (§5901 et seq.) of chapter 88 of this title. For complete classification of this Act to the Code, see section 5901(a) of this title and Tables.
+(Pub. L. 105–185, title IV, §401, June 23, 1998, 112 Stat. 564; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(c)(2)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7205(a), May 13, 2002, 116 Stat. 439.)
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–171, §7205(a)(1), substituted “2001” for “2002”.
+
+Subsec. (b)(3). Pub. L. 107–171, §7205(a)(2), added par. (3).
+
+Subsec. (c)(1). Pub. L. 107–171, §7205(a)(2), which directed amendment of section 401(b) of the Agricultural Research, Extension, and Education Reform Act of 1998 by amending subsec. (c)(1) generally, was executed by generally amending subsec. (c)(1) of this section to reflect the probable intent of Congress. Prior to amendment, text read as follows: “The Secretary shall use the funds in the Account—
+
+&emsp;“(A) subject to paragraph (2), for research, extension, and education grants (referred to in this section as ‘grants’) to address critical emerging agricultural issues related to—
+
+&emsp;&emsp;“(i) future food production;
+
+&emsp;&emsp;“(ii) environmental quality and natural resource management; or
+
+&emsp;&emsp;“(iii) farm income; and
+
+&emsp;“(B) for activities carried out under the Alternative Agricultural Research and Commercialization Act of 1990 (7 U.S.C. 5901 et seq.).”
+
+Subsec. (e)(1). Pub. L. 107–171, §7205(a)(3), which directed amendment of section 401(b) of the Agricultural Research, Extension, and Education Reform Act of 1998 by substituting “small, mid-sized, and minority-serving” for “small and mid-sized” in subsec. (e)(1), was executed by making the substitution in subsec. (e)(1) of this section to reflect the probable intent of Congress.
 
 1998—Subsec. (d)(5). Pub. L. 105–277 added par. (5).
 
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective June 23, 1998, see section 101(a) \[title VII, §753(f)\] of Pub. L. 105–277, set out as a note under section 343 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “2007”.</i>
 

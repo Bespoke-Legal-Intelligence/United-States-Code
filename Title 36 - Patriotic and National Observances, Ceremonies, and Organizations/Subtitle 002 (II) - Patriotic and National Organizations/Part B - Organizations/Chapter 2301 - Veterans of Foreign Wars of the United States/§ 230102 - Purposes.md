@@ -1,6 +1,6 @@
 ### §230102. Purposes
 
-The purposes of the corporation are fraternal, patriotic, historical, and educational, and are—
+The purposes of the corporation are fraternal, patriotic, historical, charitable, and educational, and are—
 
 &emsp;(1) to preserve and strengthen comradeship among its members;
 
@@ -16,7 +16,7 @@ The purposes of the corporation are fraternal, patriotic, historical, and educat
 
 &emsp;(7) to preserve and defend the United States from all enemies.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1481.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1481; Pub. L. 107–242, §2, Oct. 16, 2002, 116 Stat. 1497.)
 
 Historical and Revision Notes
 
@@ -33,4 +33,8 @@ Historical and Revision Notes
 36:113.
 
 May 28, 1936, ch. 471, §3, 49 Stat. 1391.
+
+#### Amendments
+
+2002—Pub. L. 107–242 inserted “charitable,” before “and educational,” in introductory provisions.
 

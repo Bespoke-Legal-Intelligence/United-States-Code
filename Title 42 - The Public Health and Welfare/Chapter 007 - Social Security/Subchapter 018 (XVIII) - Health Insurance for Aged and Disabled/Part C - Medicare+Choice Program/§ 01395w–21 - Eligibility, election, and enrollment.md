@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) through the original medicare fee-for-service program under parts A and B of this subchapter, or
 
-&emsp;&emsp;(B) through enrollment in a Medicare+�Choice plan under this part.
+&emsp;&emsp;(B) through enrollment in a Medicare+Choice plan under this part.
 
 #### (2) Types of Medicare+Choice plans that may be available
 
@@ -104,7 +104,7 @@
 
 #### (A) Enrollment
 
-&emsp;&emsp;Such process shall permit an individual who wishes to elect a Medicare+Choice plan offered by a Medicare+Choice organization to make such election through the filing of an appropriate election form with the organization.
+&emsp;&emsp;Such process shall permit an individual who wishes to elect a Medicare+Choice plan offered by a Medicare+Choice organizationto make such election through the filing of an appropriate election form with the organization.
 
 #### (B) Disenrollment
 
@@ -120,7 +120,7 @@
 
 #### (ii) Seamless continuation of coverage
 
-&emsp;&emsp;&emsp;The Secretary may establish procedures under which an individual who is enrolled in a health plan (other than Medicare+�Choice plan) offered by a Medicare+Choice organization at the time of the initial election period and who fails to elect to receive coverage other than through the organization is deemed to have elected the Medicare+Choice plan offered by the organization (or, if the organization offers more than one such plan, such plan or plans as the Secretary identifies under such procedures).
+&emsp;&emsp;&emsp;The Secretary may establish procedures under which an individual who is enrolled in a health plan (other than Medicare+Choice plan) offered by a Medicare+Choice organization at the time of the initial election period and who fails to elect to receive coverage other than through the organization is deemed to have elected the Medicare+Choice plan offered by the organization (or, if the organization offers more than one such plan, such plan or plans as the Secretary identifies under such procedures).
 
 #### (B) Continuing periods
 
@@ -156,7 +156,7 @@
 
 > &emsp;&emsp;The mailing of such information shall be coordinated, to the extent practicable, with the mailing of any annual notice under section 1395b–2 of this title.
 
-#### (B) Notification to newly eligible Medicare+�Choice eligible individuals
+#### (B) Notification to newly eligible Medicare+Choice eligible individuals
 
 &emsp;&emsp;To the extent practicable, the Secretary shall, not later than 30 days before the beginning of the initial Medicare+Choice enrollment period for an individual described in subsection (e)(1) of this section, mail to the individual the information described in subparagraph (A).
 
@@ -188,7 +188,7 @@
 
 #### (C) Rights
 
-&emsp;&emsp;A general description of procedural rights (including grievance and appeals procedures) of beneficiaries under the original medicare fee-for-service program and the Medicare+�Choice program and the right to be protected against discrimination based on health status-related factors under section 1395w–22(b) of this title.
+&emsp;&emsp;A general description of procedural rights (including grievance and appeals procedures) of beneficiaries under the original medicare fee-for-service program and the Medicare+Choice program and the right to be protected against discrimination based on health status-related factors under section 1395w–22(b) of this title.
 
 #### (D) Information on medigap and medicare select
 
@@ -254,7 +254,7 @@
 
 #### (5) Maintaining a toll-free number and Internet site
 
-&emsp;The Secretary shall maintain a toll-free number for inquiries regarding Medicare+�Choice options and the operation of this part in all areas in which Medicare+Choice plans are offered and an Internet site through which individuals may electronically obtain information on such options and Medicare+Choice plans.
+&emsp;The Secretary shall maintain a toll-free number for inquiries regarding Medicare+Choice options and the operation of this part in all areas in which Medicare+Choice plans are offered and an Internet site through which individuals may electronically obtain information on such options and Medicare+Choice plans.
 
 #### (6) Use of non-Federal entities
 
@@ -274,15 +274,15 @@
 
 &emsp;Subject to paragraph (5)—
 
-#### (A) Continuous open enrollment and disenrollment through 2001
+#### (A) Continuous open enrollment and disenrollment through 2004
 
-&emsp;&emsp;At any time during 1998, 1999, 2000, and 2001, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
+&emsp;&emsp;At any time during the period beginning January 1, 1998, and ending on December 31,2004, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
 
-#### (B) Continuous open enrollment and disenrollment for first 6 months during 2002
+#### (B) Continuous open enrollment and disenrollment for first 6 months during 2005
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), at any time during the first 6 months of 2002, or, if the individual first becomes a Medicare+Choice eligible individual during 2002, during the first 6 months during 2002 in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
+&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), at any time during the first 6 months of 2005, or, if the individual first becomes a Medicare+Choice eligible individual during 2005, during the first 6 months during 2005 in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
 
 #### (ii) Limitation of one change
 
@@ -292,7 +292,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), at any time during the first 3 months of a year after 2002, or, if the individual first becomes a Medicare+Choice eligible individual during a year after 2002, during the first 3 months of such year in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
+&emsp;&emsp;&emsp;Subject to clause (ii) and subparagraph (D), at any time during the first 3 months of a year after 2005, or, if the individual first becomes a Medicare+Choice eligible individual during a year after 2005, during the first 3 months of such year in which the individual is a Medicare+Choice eligible individual, a Medicare+Choice eligible individual may change the election under subsection (a)(1) of this section.
 
 #### (ii) Limitation of one change during open enrollment period each year
 
@@ -300,7 +300,7 @@
 
 #### (D) Continuous open enrollment for institutionalized individuals
 
-&emsp;&emsp;At any time after 2001 in the case of a Medicare+Choice eligible individual who is institutionalized (as defined by the Secretary), the individual may elect under subsection (a)(1) of this section—
+&emsp;&emsp;At any time after 2004 in the case of a Medicare+Choice eligible individual who is institutionalized (as defined by the Secretary), the individual may elect under subsection (a)(1) of this section—
 
 &emsp;&emsp;&emsp;(i) to enroll in a Medicare+Choice plan; or
 
@@ -314,7 +314,7 @@
 
 #### (B) Annual, coordinated election period
 
-&emsp;&emsp;For purposes of this section, the term “annual, coordinated election period” means, with respect to a calendar year (beginning with 2000), the month of November before such year.
+&emsp;&emsp;For purposes of this section, the term “annual, coordinated election period” means, with respect to a year before 2003 and after 2005, the month of November before such year and with respect to 2003, 2004, and 2005, the period beginning on November 15 and ending on December 31 of the year before such year.
 
 #### (C) Medicare+Choice health information fairs
 
@@ -322,11 +322,11 @@
 
 #### (D) Special information campaign in 1998
 
-&emsp;&emsp;During November 1998 the Secretary shall provide for an educational and publicity campaign to inform Medicare+Choice eligible individuals about the availability ofMedicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title, offered in different areas and the election process provided under this section.
+&emsp;&emsp;During November 1998 the Secretary shall provide for an educational and publicity campaign to inform Medicare+Choice eligible individuals about the availability of Medicare+Choice plans, and eligible organizations with risk-sharing contracts under section 1395mm of this title, offered in different areas and the election process provided under this section.
 
 #### (4) Special election periods
 
-&emsp;Effective as of January 1, 2002, an individual may discontinue an election of a Medicare+�Choice plan offered by a Medicare+Choice organization other than during an annual, coordinated election period and make a new election under this section if—
+&emsp;Effective as of January 1, 2005, an individual may discontinue an election of a Medicare+�Choice plan offered by a Medicare+Choice organization other than during an annual, coordinated election period and make a new election under this section if—
 
 &emsp;&emsp;(A)(i) the certification of the organization or plan under this part has been terminated, or the organization or plan has notified the individual of an impending termination of such certification; or
 
@@ -338,11 +338,11 @@
 
 &emsp;&emsp;&emsp;(i) the organization offering the plan substantially violated a material provision of the organization's contract under this part in relation to the individual (including the failure to provide an enrollee on a timely basis medically necessary care for which benefits are available under the plan or the failure to provide such covered care in accordance with applicable quality standards); or
 
-&emsp;&emsp;&emsp;(ii) the organization (or an agent or other entity acting on the organization's behalf) materially misrepresented the plan's provisions in marketing the plan to the individual; or
+&emsp;&emsp;&emsp;(ii) the organization (or an agent or other entity acting on the organization'sbehalf) materially misrepresented the plan's provisions in marketing the plan to the individual; or
 
 &emsp;&emsp;(D) the individual meets such other exceptional conditions as the Secretary may provide.
 
-> &emsp;Effective as of January 1, 2002, an individual who, upon first becoming eligible for benefits under part A of this subchapter at age 65, enrolls in a Medicare+Choice plan under this part, the individual may discontinue the election of such plan, and elect coverage under the original fee-for-service plan, at any time during the 12-month period beginning on the effective date of such enrollment.
+> &emsp;Effective as of January 1, 2005, an individual who, upon first becoming eligible for benefits under part A of this subchapter at age 65, enrolls in a Medicare+Choice plan under this part, the individual may discontinue the election of such plan, and elect coverage under the original fee-for-service plan, at any time during the 12-month period beginning on the effective date of such enrollment.
 
 #### (5) Special rules for MSA plans
 
@@ -364,7 +364,7 @@
 
 &emsp;Subject to paragraph (5), a Medicare+Choice organization—
 
-&emsp;&emsp;(A) shall accept elections or changes to elections during the initial enrollment periods described in paragraph (1), during the month of November 1998 and each subsequent year (as provided in paragraph (3)), and during special election periods described in the first sentence of paragraph (4); and
+&emsp;&emsp;(A) shall accept elections or changes to elections during the initial enrollment periods described in paragraph (1), during the month of November 1998 and during the annual, coordinated election period under paragraph (3) for each subsequent year, and during special election periods described in the first sentence of paragraph (4); and
 
 &emsp;&emsp;(B) may accept other changes to elections at such other times as the organization provides.
 
@@ -472,13 +472,27 @@
 
 &emsp;Subject to sections 1395w–23(e), 1395w–23(g), 1395w–23(h), 1395w–27(f)(2), 1395ww(d)(11), and 1395ww(h)(3)(D) of this title, only the Medicare+Choice organization shall be entitled to receive payments from the Secretary under this subchapter for services furnished to the individual.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1851, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 275; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(A), title V, §§501(a)(1), (b), (c), 502(a), 519(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–378 to 1501A–380, 1501A–385; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(2)(C), 613(a), 619(a), 620(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558, 2763A–560, 2763A–563; Pub. L. 107–188, title V, §532(a), (c)(1), June 12, 2002, 116 Stat. 696.)
 
 #### References in Text
 
 Parts A and B of this subchapter, referred to in text, are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 #### Amendments
+
+2002—Subsec. (e)(2)(A). Pub. L. 107–188, §532(a)(1), substituted “through 2004” for “through 2001” in heading and “during the period beginning January 1, 1998, and ending on December 31, 2004” for “during 1998, 1999, 2000, and 2001” in text.
+
+Subsec. (e)(2)(B). Pub. L. 107–188, §532(a)(2), substituted “during 2005” for “during 2002” in heading.
+
+Subsec. (e)(2)(B)(i), (C)(i). Pub. L. 107–188, §532(a)(3), substituted “2005” for “2002” wherever appearing.
+
+Subsec. (e)(2)(D). Pub. L. 107–188, §532(a)(4), substituted “2004” for “2001”.
+
+Subsec. (e)(3)(B). Pub. L. 107–188, §532(c)(1)(A), substituted “means, with respect to a year before 2003 and after 2005, the month of November before such year and with respect to 2003, 2004, and 2005, the period beginning on November 15 and ending on December 31 of the year before such year” for “means, with respect to a calendar year (beginning with 2000), the month of November before such year”.
+
+Subsec. (e)(4). Pub. L. 107–188, §532(a)(5), substituted “2005” for “2002” in introductory and concluding provisions.
+
+Subsec. (e)(6)(A). Pub. L. 107–188, §532(c)(1)(B), substituted “during the annual, coordinated election period under paragraph (3) for each subsequent year” for “each subsequent year (as provided in paragraph (3))”.
 
 2000—Subsec. (a)(3)(B). Pub. L. 106–554, §1(a)(6) \[title VI, §620(a)\], substituted “except that—” and cls. (i) and (ii) for “except that an individual who develops end-stage renal disease while enrolled in a Medicare+Choice plan may continue to be enrolled in that plan.”
 
@@ -508,6 +522,10 @@ Subsec. (f)(2). Pub. L. 106–113, §1000(a)(6) \[title V, §502(a)\], inserted 
 
 Subsec. (i)(2). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(A)\], struck out “and” after “1395w–27(f)(2),”.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–188, title V, §532(c)(2), June 12, 2002, 116 Stat. 696, provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to the annual, coordinated election period for years beginning with 2003.”
+
 #### Effective Date of 2000 Amendment
 
 Amendment by section 1(a)(6) \[title VI, §606(a)(2)(C)\] of Pub. L. 106–554 applicable to years beginning with 2003, see section 1(a)(6) \[title VI, §606(b)\] of Pub. L. 106–554, set out as a note under section 1395r of this title.
@@ -534,7 +552,7 @@ Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §501(d)\], Nov. 29, 1999, 11
 
 “(1) The amendments made by subsection (a) \[amending this section and section 1395ss of this title\] apply to notices of impending terminations or discontinuances made on or after the date of the enactment of this Act \[Nov. 29, 1999\].
 
-“(2) The amendments made by subsection (c) \[amending this section\] apply to elections made on or after thedate of the enactment of this Act \[Nov. 29, 1999\] with respect to eliminations of Medicare+Choice payment areas from a service area that occur before, on, or after the date of the enactment of this Act.”
+“(2) The amendments made by subsection (c) \[amending this section\] apply to elections made on or after the date of the enactment of this Act \[Nov. 29, 1999\] with respect to eliminations of Medicare+Choice payment areas from a service area that occur before, on, or after the date of the enactment of this Act.”
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §502(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, provided that: “The amendments made by this section \[amending this section\] apply to elections and changes of coverage made on or after January 1, 2000.”
 
@@ -664,5 +682,5 @@ Separate From Other Demonstration Projects.—A project implemented by the Secre
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1395w–22, 1395w–23, 1395w–24, 1395w–27, 1395w–28, 1395mm, 1395nn, 1395ss, 1395ggg of this title.
+This section is referred to in sections 1320b–5, 1395w–22, 1395w–23, 1395w–24, 1395w–27, 1395w–28, 1395mm, 1395nn, 1395ss, 1395ggg of this title.
 

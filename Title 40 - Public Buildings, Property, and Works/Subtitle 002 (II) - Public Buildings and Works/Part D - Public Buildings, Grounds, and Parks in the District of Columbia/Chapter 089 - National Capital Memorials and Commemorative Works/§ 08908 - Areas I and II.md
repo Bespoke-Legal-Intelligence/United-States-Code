@@ -1,0 +1,44 @@
+### §8908. Areas I and II
+
+(a)
+
+Availability of Map.—The Secretary of the Interior and Administrator of General Services shall make available, for public inspection at appropriate offices of the National Park Service and the General Services Administration, the map numbered 869/86501, and dated May 1, 1986.
+
+(b)
+
+Specific Conditions Applicable to Area I and Area II.—
+
+&emsp;(1)
+
+Area i.—After seeking the advice of the National Capital Memorial Commission, the Secretary or Administrator, as appropriate, may recommend the location of a commemorative work in Area I only if the Secretary or Administrator decides that the subject of the commemorative work is of preeminent historical and lasting significance to the United States. The Secretary or Administrator shall notify the Commission, the Committee on House Administration of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate of the recommendation that a commemorative work should be located in Area I. The location of a commemorative work in Area I is deemed to be authorized only if the recommendation is approved by law not later than 150 calendar days after the notification.
+
+&emsp;(2)
+
+Area ii.—Commemorative works of subjects of lasting historical significance to the American people may be located in Area II.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1231.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8908(a)
+
+40:1005.
+
+Pub. L. 99–652, §5, Nov. 14, 1986, 100 Stat. 3651.
+
+8908(b)
+
+40:1006.
+
+Pub. L. 99–652, §6, Nov. 14, 1986, 100 Stat. 3651; Pub. L. 103–321, §2(c), Aug. 26, 1994, 108 Stat. 1794.
+
+In subsection (b)(1), the words “the Committee on House Administration of the House of Representatives, and the Committee on Energy and Natural Resources of the Senate” are substituted for “the committees of Congress specified in section 1003(b) \[sic\] of this title” for clarity. The reference to section 1003(b) should be to section 1003(d).
+

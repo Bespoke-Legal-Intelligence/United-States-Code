@@ -14,7 +14,7 @@ Section 2(c) of Pub. L. 93–380 provided that:
 
 “(1) Unless otherwise specified, each provision of this Act \[see Tables for classification\] and each amendment made by this Act shall be effective on and after the sixtieth day after the enactment of this Act \[Aug. 21, 1974\].
 
-“(2) In any case where the effective date for an amendment made by this Act is expressly stated to be effective after June 30, 1973, or on July 1, 1973, such amendment shall be deemed to have been enacted on June 30, 1973.”
+“(2) In any case where the effective date for an amendment made by this Act is expressly stated to beeffective after June 30, 1973, or on July 1, 1973, such amendment shall be deemed to have been enacted on June 30, 1973.”
 
 #### Study of Civilian Aviation Training Programs
 

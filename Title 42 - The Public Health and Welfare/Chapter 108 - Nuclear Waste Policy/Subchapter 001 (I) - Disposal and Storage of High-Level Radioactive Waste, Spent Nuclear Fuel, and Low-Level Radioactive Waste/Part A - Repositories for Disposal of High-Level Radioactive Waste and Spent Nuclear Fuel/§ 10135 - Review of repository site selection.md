@@ -82,6 +82,10 @@ In considering any notice of disapproval submitted to the Congress under section
 
 (Pub. L. 97–425, title I, §115, Jan. 7, 1983, 96 Stat. 2217.)
 
+#### Yucca Mountain, Nevada Repository Site
+
+Pub. L. 107–200, July 23, 2002, 116 Stat. 735, provided: “That there hereby is approved the site at Yucca Mountain, Nevada, for a repository, with respect to which a notice of disapproval was submitted by the Governor of the State of Nevada on April 8, 2002.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 10121, 10134, 10136, 10138, 10155, 10161, 10166, 10168, 10225 of this title.

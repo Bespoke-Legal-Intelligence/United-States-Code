@@ -118,7 +118,7 @@ Section 639(b) of Pub. L. 103–337 provided that: “The amendment made by subs
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5569, 8311, 8313, 8315, 8316, 8318, 8320 of this title; title 37 section 559.
+This section is referred to in sections 5569, 8311, 8313, 8315, 8316, 8318, 8320 of this title; title 14 section 424a; title 37 section 559.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph”.</i>
 

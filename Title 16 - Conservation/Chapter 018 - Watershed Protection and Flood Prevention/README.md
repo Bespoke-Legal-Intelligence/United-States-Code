@@ -34,7 +34,7 @@
 | (e) | Application for rehabilitation assistance. |
 | (f) | Ranking of requests for rehabilitation assistance. |
 | (g) | Prohibition on certain rehabilitation assistance. |
-| (h) | Authorization of appropriations. |
+| (h) | Funding. |
 | (i) | Assessment of rehabilitation needs. |
 | (j) | Recordkeeping and reports. |
 
@@ -42,7 +42,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to section 460<i>l–</i>17 of this title; title 22 section 277d–29; title 30 section 1265; title 33 sections 1288, 2298, 2311; title 40 App. section 214.
+This chapter is referred to section 460<i>l–</i>17 of this title; title 22 section 277d–29; title 30 section 1265; title 33 sections 1288, 2298, 2311; title 40 section 14507.
 
 
 ---

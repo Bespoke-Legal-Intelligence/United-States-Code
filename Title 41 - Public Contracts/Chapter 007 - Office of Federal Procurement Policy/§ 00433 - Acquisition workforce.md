@@ -74,7 +74,7 @@ The programs established by this section shall apply to the acquisition workforc
 
 #### (3) Approval of requirements
 
-&emsp;The Administrator shall submit any requirement established or prescription made under paragraph (1) to the Director of the Office ofPersonnel Management for approval. If the Director does not disapprove a requirement or prescription within 30 days after the date on which the Director receives it, the requirement or prescription is deemed to be approved by the Director.
+&emsp;The Administrator shall submit any requirement established or prescription made under paragraph (1) to the Director of the Office of Personnel Management for approval. If the Director does not disapprove a requirement or prescription within 30 days after the date on which the Director receives it, the requirement or prescription is deemed to be approved by the Director.
 
 #### (h) Education and training
 
@@ -92,7 +92,7 @@ The programs established by this section shall apply to the acquisition workforc
 
 #### References in Text
 
-Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (b)(3), is section 5051(c) of Pub. L. 103–355, which is set out as a note under section 263 of this title.
+Section 5051(c) of the Federal Acquisition Streamlining Act of 1994, referred to in subsec. (b)(3), is section5051(c) of Pub. L. 103–355, which is set out as a note under section 263 of this title.
 
 #### Effective Date
 

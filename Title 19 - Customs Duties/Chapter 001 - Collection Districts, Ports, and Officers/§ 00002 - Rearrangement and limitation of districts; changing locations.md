@@ -34,6 +34,8 @@ For list of international airports of entry, see section 6.13 of Part 6 of Chapt
 
 Pub. L. 104–52, title V, §512, Nov. 19, 1995, 109 Stat. 492, provided that: “Notwithstanding any provision of this or any other Act, during the fiscal year ending September 30, 1996, and thereafter, no funds may be obligated or expended in any way to withdraw the designation of the Virginia Inland Port at Front Royal, Virginia, as a United States Customs Service port of entry.”
 
+\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
 #### Columbia-Snake Customs District
 
 Pub. L. 98–573, title II, §238, Oct. 30, 1984, 98 Stat. 2993, directed Commissioner of United States Customs Service to establish a customs district known as Columbia-Snake Customs District.

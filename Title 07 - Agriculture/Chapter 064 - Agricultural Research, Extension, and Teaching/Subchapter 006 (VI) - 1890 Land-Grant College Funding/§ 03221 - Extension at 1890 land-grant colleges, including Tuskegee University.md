@@ -2,7 +2,21 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated annually such sums as Congress may determine necessary to support continuing agricultural and forestry extension at colleges eligible to receive funds under the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University (hereinafter in this section referred to as “eligible institutions”). Beginning with the fiscal year ending September 30, 1979, and ending with the fiscal year ending September 30, 1981, there shall be appropriated under this section for each fiscal year an amount not less than 4 per centum of the total appropriations for such year under the Act of May 8, 1914 (38 Stat. 372–374, as amended; 7 U.S.C. 341–349): <i>Provided</i>, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available for the fiscal year ending September 30, 1978, to such eligible institutions under section 3(d) of the Act of May 8, 1914 (38 Stat. 373, as amended; 7 U.S.C. 343(d). Beginning with the fiscal year ending September 30, 1982, there shall be appropriated under this section an amount not less than 51/2 per centum, and for each fiscal year thereafter an amount not less than 6 per centum of the total appropriations for such year under the Act of May 8, 1914 (7 U.S.C. 341 et seq.), and related acts pertaining to cooperative extension work at the land-grant institutions identified in the Act of May 8, 1914 (38 Stat. 372, chapter 79; 7 U.S.C. 341 et seq.), except that for the purpose of this calculation, the total appropriations shall not include amounts made available after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary. Funds appropriated under this section shall be used for expenses of conducting extension programs and activities, and for contributing to the retirement of employees subject to the provisions of section 331 of this title. No more than 20 per centum of the funds received by an institution in any fiscal year may be carried forward to the succeeding fiscal year.
+#### (1) In general
+
+&emsp;There are authorized to be appropriated annually such sums as Congress may determine necessary to support continuing agricultural and forestry extension at colleges eligible to receive funds under the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University (hereinafter in this section referred to as “eligible institutions”).
+
+#### (2) Minimum amount
+
+&emsp;Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 15 percent of the total appropriations for such year under the Act of May 8, 1914 (7 U.S.C. 341 et seq.), and related acts pertaining to cooperative extension work at the land-grant institutions identified in the Act of May 8, 1914 (38 Stat. 372, chapter 79; 7 U.S.C. 341 et seq.), except that for the purpose of this calculation, the total appropriations shall not include amounts made available after September 30, 1995, under section 3(d) of that Act (7 U.S.C. 343(d)), to carry out programs or initiatives for which no funds were made available under section 3(d) of that Act for fiscal year 1995, or any previous fiscal year, as determined by the Secretary, and shall not include amounts made available after September 30, 1995, to carry out programs or initiatives funded under section 3(d) of that Act prior to that date that are in excess of the highest amount made available for the programs or initiatives for fiscal year 1995, or any previous fiscal year, as determined by the Secretary.
+
+#### (3) Uses
+
+&emsp;Funds appropriated under this section shall be used for expenses of conducting extension programs and activities, and for contributing to the retirement of employees subject to the provisions of section 331 of this title.
+
+#### (4) Carryover
+
+&emsp;No more than 20 per centum of the funds received by an institution in any fiscal year may be carried forward to the succeeding fiscal year.
 
 #### (b) Allocation and distribution of appropriated funds
 
@@ -16,7 +30,7 @@ Beginning with the fiscal year ending September 30, 1979—
 
 &emsp;&emsp;(B) Of the remainder, 20 per centum shall be allotted among the eligible institutions in equal proportions; 40 per centum shall be allotted among the eligible institutions in the proportion that the rural population of the State in which each eligible institution is located bears to the total rural population of all the States in which eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and the balance shall be allotted among the eligible institutions in the proportion that the farm population of the State in which each eligible institution is located bears to the total farm population of all the States in which the eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated.
 
-> In computing the distribution of funds allocated under paragraph (2) of this subsection, the allotments to Tuskegee University and Alabama Agricultural and Mechanical University shall be determined as if each institution were in a separate State.
+> In computing the distribution of funds allocated under paragraph (2) of this subsection, the allotments to Tuskegee University and Alabama Agricultural and Mechanical University shall bedetermined as if each institution were in a separate State.
 
 #### (c) Comprehensive program of extension for each State
 
@@ -66,17 +80,19 @@ If any portion of the moneys received by any eligible institution for the suppor
 
 #### (f) Mailing of correspondence, bulletins, and reports
 
-To the extent that the official mail consists of correspondence, bulletins, and reports for furtherance of the purposes of this section, it shall be transmitted in the mails of the United States under penalty indicia: <i>Provided</i>, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed undersuch regulations as the Postmaster General may from time to time prescribe. Such items may be mailed from a principal place of business of each eligible institution or from an established subunit of such institution.
+To the extent that the official mail consists of correspondence, bulletins, and reports for furtherance of the purposes of this section, it shall be transmitted in the mails of the United States under penalty indicia: <i>Provided</i>, That each item shall bear such indicia as are prescribed by the Postmaster General and shall be mailed under such regulations as the Postmaster General may from time to time prescribe. Such items may be mailed from a principal place of business of each eligible institution or from an established subunit of such institution.
 
-(Pub. L. 95–113, title XIV, §1444, Sept. 29, 1977, 91 Stat. 1007; Pub. L. 97–98, title XIV, §1431, Dec. 22, 1981, 95 Stat. 1310; Pub. L. 99–198, title XIV, §1415, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 104–127, title VIII, §883(b), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §103(f)(3)(A), title II, §§225(a), 226(c)(2), June 23, 1998, 112 Stat. 528, 540, 543.)
+(Pub. L. 95–113, title XIV, §1444, Sept. 29, 1977, 91 Stat. 1007; Pub. L. 97–98, title XIV, §1431, Dec. 22, 1981, 95 Stat. 1310; Pub. L. 99–198, title XIV, §1415, Dec. 23, 1985, 99 Stat. 1549; Pub. L. 104–127, title VIII, §883(b), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §103(f)(3)(A), title II, §§225(a), 226(c)(2), June 23, 1998, 112 Stat. 528, 540, 543; Pub. L. 107–171, title VII, §7203(a), May 13, 2002, 116 Stat. 438.)
 
 #### References in Text
 
-Act of August 30, 1890, 26 Stat. 417, as amended, referred to in subsec. (a), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, 26 Stat. 417, as amended, referred to in subsec. (a)(1), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
-Act of May 8, 1914, 38 Stat. 372, as amended, referred to in subsec. (a), is popularly known as the “Smith-Lever Act”, and is classified generally to subchapter IV (§341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
+Act of May 8, 1914, 38 Stat. 372, as amended, referred to in subsec. (a)(2), is popularly known as the “Smith-Lever Act”, and is classified generally to subchapter IV (§341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171 inserted subsec. heading, designated first, third, fourth, and fifth sentences as pars. (1) to (4), respectively, inserted headings, struck out “Beginning with the fiscal year ending September 30, 1979, and ending with the fiscal year ending September 30, 1981, there shall be appropriated under this section for each fiscal year an amount not less than 4 per centum of the total appropriations for such year under the Act of May 8, 1914 (38 Stat. 372–374, as amended; 7 U.S.C. 341–349): <i>Provided</i>, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available for the fiscal year ending September 30, 1978, to such eligible institutions under section 3(d) of the Act of May 8, 1914 (38 Stat. 373, as amended; 7 U.S.C. 343(d).” after “(hereinafter in this section referred to as “eligible institutions”).” in par. (1), and substituted “Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 15 percent” for “Beginning with the fiscal year ending September 30, 1982, there shall be appropriated under this section an amount not less than 51/2 per centum, and for each fiscal year thereafter an amount not less than 6 per centum” in par. (2).
 
 1998—Pub. L. 105–185, §226(c)(2)(A), substituted “University” for “Institute” in section catchline.
 
@@ -116,5 +132,5 @@ Pub. L. 106–78, title I, Oct. 22, 1999, 113 Stat. 1141, provided in part that 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3222d of this title; title 40 section 483.
+This section is referred to in section 3222d of this title; title 40 section 525.
 

@@ -1,6 +1,6 @@
 ### §522. Report of business and statistics
 
-The Attorney General, by April 1 of each year, shall report to Congress on the business of the Department of Justice for the last preceding fiscal year, and on any other matters pertaining to the Department that he considers proper, including—
+(a) The Attorney General, by April 1 of each year, shall report to Congress on the business of the Department of Justice for the last preceding fiscal year, and on any other matters pertaining to the Department that he considers proper, including—
 
 &emsp;(1) a statement of the several appropriations which are placed under the control of the Department and the amount appropriated;
 
@@ -8,7 +8,9 @@ The Attorney General, by April 1 of each year, shall report to Congress on the b
 
 &emsp;(3) a statement of the number of causes involving the United States, civil and criminal, pending during the preceding year in each of the several courts of the United States.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 94–273, §19, Apr. 21, 1976, 90 Stat. 379.)
+(b) With respect to any data, records, or other information acquired, collected, classified, preserved, or published by the Attorney General for any statistical, research, or other aggregate reporting purpose beginning not later than 1 year after the date of enactment of <sup>1</sup> 21st Century Department of Justice Appropriations Authorization Act and continuing thereafter, and notwithstanding any other provision of law, the same criteria shall be used (and shall be required to be used, as applicable) to classify or categorize offenders and victims (in the criminal context), and to classify or categorize actors and acted upon (in the noncriminal context).
+
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 94–273, §19, Apr. 21, 1976, 90 Stat. 379; Pub. L. 107–273, div. A, title II, §204(b), Nov. 2, 2002, 116 Stat. 1776.)
 
 Historical and Revision Notes
 
@@ -30,9 +32,15 @@ The words “and a detailed statement of the amounts used for defraying the expe
 
 In paragraph (3), the words “involving the United States” are inserted for clarity. The function of reporting on all cases pending in the United States courts is now vested in the Administrative Office of the United States Courts, see 28 U.S.C. 604.
 
+#### References in Text
+
+The date of enactment of 21st Century Department of Justice Appropriations Authorization Act, referred toin subsec. (b), is the date of enactment of Pub. L. 107–273, which was approved Nov. 2, 2002.
+
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–273 substituted “by April 1 of each year” for “at the beginning of each regular session of Congress”.
+2002—Pub. L. 107–273 designated existing provisions as subsec. (a) and added subsec. (b).
+
+1976—Pub. L. 94–273 substituted “by April 1 of each year” for “at the beginning of each regular session of Congress”.
 
 #### Report to Congress on Banking Law Offenses
 
@@ -101,4 +109,6 @@ Pub. L. 98–292, §9, May 21, 1984, 98 Stat. 206, provided that: “Beginning o
 #### Section Referred to in Other Sections
 
 This section is referred to in title 18 section 2320; title 31 section 3516; title 42 section 1997f.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by “the”.</i>
 

@@ -16,11 +16,17 @@
 
 (b) The Commandant may designate to have the authority provided under subsection (a) any special agent of the Coast Guard Investigative Service whose duties include conducting, supervising, or coordinating investigation of criminal activity in programs and operations of the United States Coast Guard.
 
-(c) The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Commandant and approved by the Attorney General and any otherapplicable guidelines prescribed by the Secretary of Transportation or the Attorney General.
+(c) The authority provided under subsection (a) shall be exercised in accordance with guidelines prescribed by the Commandant and approved by the Attorney General and any other applicable guidelines prescribed by the Secretary of Homeland Security or the Attorney General.
 
-(Added Pub. L. 100–448, §10(a), Sept. 28, 1988, 102 Stat. 1842; amended Pub. L. 105–383, title II, §205(a), Nov. 13, 1998, 112 Stat. 3415.)
+(Added Pub. L. 100–448, §10(a), Sept. 28, 1988, 102 Stat. 1842; amended Pub. L. 105–383, title II, §205(a), Nov. 13, 1998, 112 Stat. 3415; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 
+2002—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
 1998—Pub. L. 105–383 substituted “Special agents of the Coast Guard Investigative Service law enforcement authority” for “Civilian agents authorized to carry firearms” as section catchline and amended text generally. Prior to amendment, text read as follows: “Under regulations prescribed by the Secretary with the approval of the Attorney General, civilian special agents of the Coast Guard may carry firearms or other appropriate weapons while assigned to official investigative or law enforcement duties.”
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 

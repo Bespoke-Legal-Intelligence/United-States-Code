@@ -1,5 +1,5 @@
 
-8 U.S.C.<br>United States Code, 2001 Edition<br>Title 8 - ALIENS AND NATIONALITY<br>From the U.S. Government Publishing Office, www.gpo.gov
+8 U.S.C.<br>United States Code, 2002 Edition<br>Title 8 - ALIENS AND NATIONALITY<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 8—ALIENS AND NATIONALITY
 
@@ -19,6 +19,7 @@
 | [<b>12.</b>](Chapter%20012%20-%20Immigration%20and%20Nationality/README.md) | <b>Immigration and Nationality</b> | <b>1101</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Immigration%20and%20Naturalization%20Service/README.md) | <b>Immigration and Naturalization Service</b> | <b>1551</b> |
 | [<b>14.</b>](Chapter%20014%20-%20Restricting%20Welfare%20and%20Public%20Benefits%20for%20Aliens/README.md) | <b>Restricting Welfare and Public Benefits for Aliens</b> | <b>1601</b> |
+| [<b>15.</b>](Chapter%20015%20-%20Enhanced%20Border%20Security%20and%20Visa%20Entry%20Reform/README.md) | <b>Enhanced Border Security and Visa Entry Reform</b> | <b>1701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -41,3 +42,4 @@
 - [Chapter 012 - Immigration and Nationality](Chapter%20012%20-%20Immigration%20and%20Nationality/README.md)
 - [Chapter 013 - Immigration and Naturalization Service](Chapter%20013%20-%20Immigration%20and%20Naturalization%20Service/README.md)
 - [Chapter 014 - Restricting Welfare and Public Benefits for Aliens](Chapter%20014%20-%20Restricting%20Welfare%20and%20Public%20Benefits%20for%20Aliens/README.md)
+- [Chapter 015 - Enhanced Border Security and Visa Entry Reform](Chapter%20015%20-%20Enhanced%20Border%20Security%20and%20Visa%20Entry%20Reform/README.md)

@@ -64,7 +64,7 @@ Location.—The Institute shall be located in the vicinity of Carlsbad Caverns N
 
 “(a)
 
-Management.—The Institute shall be jointly administered by the National Park Service and a publicor private agency, organization, or institution, as determined by the Secretary.
+Management.—The Institute shall be jointly administered by the National Park Service and a public or private agency, organization, or institution, as determined by the Secretary.
 
 “(b)
 
@@ -118,7 +118,7 @@ Section 201 of Pub. L. 101–578 provided that: “The Congress makes the follow
 
 &emsp;“(5) Cave researchers could use this research institute as an operational base for study of caves in other regions and as a focal point for storage of data on cave geology and speleology.
 
-&emsp;“(6) The Congress, with the passage of Public Law 100–691, the Federal Cave Resources Protection Act of 1988 \[16 U.S.C. 4301 et seq.\], recognized the significance of cave resources on Federal lands and established the policy that Federal lands be managed in a manner which protects and maintains, to the extent practicable, significant cave resources.”
+&emsp;“(6) The Congress, with the passage of Public Law 100–691, the Federal Cave Resources Protection Act of1988 \[16 U.S.C. 4301 et seq.\], recognized the significance of cave resources on Federal lands and established the policy that Federal lands be managed in a manner which protects and maintains, to the extent practicable, significant cave resources.”
 
 #### Cave Research Institute Study
 

@@ -8,7 +8,7 @@ It is the intention of the Congress that the provisions of this chapter shall be
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 85–699, which enacted this chapter, amended sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealed section 352a of Title 12, Banks and Banking, and enacted notes set out under this section and section 352a of Title 12. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 85–699, which enacted this chapter, amended sections 77c, 77ddd, 80a–18, 633 and 636 of this title, and sections 217 \[now 212\], 218 \[now 213\], 221 \[now 216\], 657, 1006 and 1014 of Title 18, Crimes and Criminal Procedure, repealed section 352a of Title 12, Banks and Banking, and enacted notes set out under this section and section 352a of Title 12. For completeclassification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 
@@ -52,7 +52,7 @@ Section 201 of Pub. L. 90–104, title II, Oct. 11, 1967, 81 Stat. 269, provided
 
 #### Short Title of 1966 Amendment
 
-Section 1 of Pub. L. 89–779, Nov. 6, 1966, 80 Stat. 1359, provided: “That this Act \[enacting sections 687e, 687f,687g, and 687h of this title and amending sections 633, 671, 687, 687a, 687b, and 687c of this title, and sections 5315 and 5316 of Title 5, Government Organization and Employees\] may be cited as the ‘Small Business Investment Act Amendments of 1966’.”
+Section 1 of Pub. L. 89–779, Nov. 6, 1966, 80 Stat. 1359, provided: “That this Act \[enacting sections 687e, 687f, 687g, and 687h of this title and amending sections 633, 671, 687, 687a, 687b, and 687c of this title, and sections 5315 and 5316 of Title 5, Government Organization and Employees\] may be cited as the ‘Small Business Investment Act Amendments of 1966’.”
 
 #### Short Title of 1964 Amendment
 

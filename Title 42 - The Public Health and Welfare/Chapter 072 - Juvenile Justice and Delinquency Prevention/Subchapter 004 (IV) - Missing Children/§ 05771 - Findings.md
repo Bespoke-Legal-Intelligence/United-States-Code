@@ -42,7 +42,7 @@ The Congress hereby finds that—
 
 &emsp;&emsp;(D) worked with law enforcement on the cases of 59,481 missing children, resulting in the recovery of 40,180 children;
 
-&emsp;(15) the demand for the services of the Center is growing dramatically, as evidenced bythe fact that in 1997, the Center handled 129,100 calls, an all-time record, and by the fact that its new Internet website (www.missingkids.com) receives 1,500,000 “hits” every day, and is linked with hundreds of other websites to provide real-time images of breaking cases of missing children;
+&emsp;(15) the demand for the services of the Center is growing dramatically, as evidenced by the fact that in 1997, the Center handled 129,100 calls, an all-time record, and by the fact that its new Internet website (www.missingkids.com) receives 1,500,000 “hits” every day, and is linked with hundreds of other websites to provide real-time images of breaking cases of missing children;
 
 &emsp;(16) in 1997, the Center provided policy training to 256 police chiefs and sheriffs from 50 States and Guam at its new Jimmy Ryce Law Enforcement Training Center;
 
@@ -60,7 +60,11 @@ The Congress hereby finds that—
 
 #### References in Text
 
-This subchapter, referred to in par. (9)(A), was in the original “Missing Children's Assistance Act of 1984” and was translated as meaning the “Missing Children's Assistance Act”, which enacted this subchapter, to reflect the probable intent of Congress.
+This subchapter, referred to in par. (9)(A), was in the original “Missing Children's Assistance Act of 1984”and was translated as meaning the “Missing Children's Assistance Act”, which enacted this subchapter, to reflect the probable intent of Congress.
+
+#### Prior Provisions
+
+A prior section 402 of Pub. L. 93–415 amended section 3888 of this title and repealed section 3889 of this title, and was repealed by Pub. L. 95–115, §10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, §12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
 
@@ -73,4 +77,8 @@ Subchapter effective Oct. 12, 1984, see section 670(a) of Pub. L. 98–473, set 
 #### Short Title
 
 For short title of title IV of Pub. L. 93–415, which enacted this subchapter, as the “Missing Children's Assistance Act”, see section 401 of Pub. L. 93–415, as added by Pub. L. 98–473, set out as a note under section 5601 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

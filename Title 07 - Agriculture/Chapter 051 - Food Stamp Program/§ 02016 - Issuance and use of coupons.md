@@ -2,7 +2,7 @@
 
 #### (a) Printing
 
-Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and\(except as provided in subsection (j) of this section) shall be issued only to households which have been duly certified as eligible to participate in the food stamp program.
+Coupons shall be printed under such arrangements and in such denominations as may be determined by the Secretary to be necessary, and (except as provided in subsection (j) of this section) shall be issued only to households which have been duly certified as eligible to participate in the food stamp program.
 
 #### (b) Approved food stores; receipt of cash in change for coupons used to purchase food
 
@@ -70,25 +70,23 @@ Operation.—An electronic benefit transfer system should take into account gene
 
 (2) The Secretary shall issue final regulations that establish standards for the approval of such a system. The standards shall include—
 
-&emsp;(A) determining the cost-effectiveness of the system to ensure that its operational cost, including the pro rata cost of capital expenditures and other reasonable startup costs, does not exceed the operational cost of issuance systems in use prior to the implementation of the electronic benefit transfer system;
+&emsp;(A) defining the required level of recipient protection regarding privacy, ease of use, and access to and service in retail food stores;
 
-&emsp;(B) defining the required level of recipient protection regarding privacy, ease of use, and access to and service in retail food stores;
+&emsp;(B) the terms and conditions of participation by retail food stores, financial institutions, and other appropriate parties;
 
-&emsp;(C) the terms and conditions of participation by retail food stores, financial institutions, and other appropriate parties;
-
-&emsp;(D)(i) measures to maximize the security of a system using the most recent technology available that the State agency considers appropriate and cost effective and which may include personal identification numbers, photographic identification on electronic benefit transfer cards, and other measures to protect against fraud and abuse; and
+&emsp;(C)(i) measures to maximize the security of a system using the most recent technology available that the State agency considers appropriate and cost effective and which may include personal identification numbers, photographic identification on electronic benefit transfer cards, and other measures to protect against fraud and abuse; and
 
 &emsp;(ii) effective not later than 2 years after August 22, 1996, to the extent practicable, measures that permit a system to differentiate items of food that may be acquired with an allotment from items of food that may not be acquired with an allotment;
 
-&emsp;(E) system transaction interchange, reliability, and processing speeds;
+&emsp;(D) system transaction interchange, reliability, and processing speeds;
 
-&emsp;(F) financial accountability;
+&emsp;(E) financial accountability;
 
-&emsp;(G) the required testing of system operations prior to implementation;
+&emsp;(F) the required testing of system operations prior to implementation;
 
-&emsp;(H) the analysis of the results of system implementation in a limited project area prior to expansion; and
+&emsp;(G) the analysis of the results of system implementation in a limited project area prior to expansion; and
 
-&emsp;(I) procurement standards.
+&emsp;(H) procurement standards.
 
 (3) In the case of a system described in paragraph (1) in which participation is not optional for households, the Secretary shall not approve such a system unless—
 
@@ -244,7 +242,7 @@ Consultation with the federal reserve board.—Before promulgating regulations o
 
 #### (F) Settling
 
-&emsp;&emsp;The term “settling” means movement, and reporting such movement, of funds from an electronic benefit transfer card issuer that is located in 1 State to a retail food store, or wholesale food concern, that is located in another State, to accomplish an interstate transaction.
+&emsp;&emsp;The term “settling” means movement, and reporting such movement, of funds from anelectronic benefit transfer card issuer that is located in 1 State to a retail food store, or wholesale food concern, that is located in another State, to accomplish an interstate transaction.
 
 #### (G) Smart card
 
@@ -308,13 +306,15 @@ Consultation with the federal reserve board.—Before promulgating regulations o
 
 &emsp;&emsp;The total amount paid to State agencies for each fiscal year under subparagraph (A) shall not exceed $500,000.
 
-(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3.)
+(Pub. L. 88–525, §7, Aug. 31, 1964, 78 Stat. 705; Pub. L. 91–671, §5, Jan. 11, 1971, 84 Stat. 2050; Pub. L. 93–86, §3(m), Aug. 10, 1973, 87 Stat. 248; Pub. L. 93–125, §1(k), Oct. 18, 1973, 87 Stat. 450; Pub. L. 94–339, §2, July 5, 1976, 90 Stat. 799; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 967; Pub. L. 97–98, title XIII, §1312, Dec. 22, 1981, 95 Stat. 1285; Pub. L. 97–253, title I, §§162, 190(c)(2), Sept. 8, 1982, 96 Stat. 778, 787; Pub. L. 99–198, title XV, §§1518, 1519, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–435, title II, §203(b), Sept. 19, 1988, 102 Stat. 1657; Pub. L. 101–624, title XVII, §§1728, 1729(a), Nov. 28, 1990, 104 Stat. 3788, 3789; Pub. L. 103–225, title I, §102, Mar. 25, 1994, 108 Stat. 107; Pub. L. 104–193, title VIII, §825(a), Aug. 22, 1996, 110 Stat. 2324; Pub. L. 105–18, title VII, \[(a)\], June 12, 1997, 111 Stat. 216; Pub. L. 106–171, §3, Feb. 11, 2000, 114 Stat. 3; Pub. L. 107–171, title IV, §4110, May 13, 2002, 116 Stat. 309.)
 
 #### References in Text
 
 Section 2020(e)(20) of this title, referred to in subsec. (f), was redesignated section 2020(e)(19) of this title by Pub. L. 104–193, title VIII, §835(1)(D)(i), Aug. 22, 1996, 110 Stat. 2330.
 
 #### Amendments
+
+2002—Subsec. (i)(2). Pub. L. 107–171 redesignated subpars. (B) to (I) as (A) to (H), respectively, and struck out former subpar. (A) which read as follows: “determining the cost-effectiveness of the system to ensure that its operational cost, including the pro rata cost of capital expenditures and other reasonable startup costs, does not exceed the operational cost of issuance systems in use prior to the implementation of the electronic benefit transfer system;”.
 
 2000—Subsec. (k). Pub. L. 106–171 added subsec. (k).
 
@@ -370,6 +370,10 @@ Pub. L. 93–86 substituted provisions relating to determination of semiannual a
 
 Subsec. (b). Pub. L. 91–671 substituted provisions respecting charges to households for coupon allotments representing reasonable investment on part of the households, issuance of coupon allotments without charge where monthly income is less than $30 for a family of four, and election of coupon allotment with a lesser face value than the face value authorized to be issued for prior provision for a charge determined to be equivalent to normal expenditures for food.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by section 1728 of Pub. L. 101–624 effective and implemented first day of month beginning 120 days after publication of implementing regulations to be promulgated not later than Oct. 1, 1991, and amendment by section 1729 of Pub. L. 101–624 effective Nov. 28, 1990, see section 1781(a), (b)(2) of Pub. L. 101–624, set out as a note under section 2012 of this title.
@@ -391,6 +395,56 @@ Amendment by Pub. L. 97–98 effective upon such date as Secretary of Agricultur
 #### Effective Date of 1977 Amendment
 
 Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
+
+#### Report on Electronic Benefit Transfer Systems
+
+Pub. L. 107–171, title IV, §4111, May 13, 2002, 116 Stat. 309, provided that:
+
+“(a)
+
+Definition of EBT System.—In this section, the term ‘EBT system’ means an electronic benefit transfer system used in issuance of benefits under the food stamp program under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.).
+
+“(b)
+
+Report.—Not later than October 1, 2003, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that—
+
+&emsp;“(1) describes the status of use by each State agency of EBT systems;
+
+&emsp;“(2) specifies the number of vendors that have entered into a contract for an EBT system with a State agency;
+
+&emsp;“(3)(A) specifies the number of State agencies that have entered into an EBT-system contract with multiple EBT-system vendors; and
+
+&emsp;“(B) describes, for each State agency described in subparagraph (A), how responsibilities are divided among the various vendors;
+
+&emsp;“(4) with respect to any State in which an EBT system is not operational throughout the State as of October 1, 2002—
+
+&emsp;&emsp;“(A) provides an explanation of the reasons why an EBT system is not operational throughout the State;
+
+&emsp;&emsp;“(B) describes how the reasons are being addressed; and
+
+&emsp;&emsp;“(C) specifies the expected date of operation of an EBT system throughout the State;
+
+&emsp;“(5) provides a description of—
+
+&emsp;&emsp;“(A) the issues faced by any State agency that has awarded a second EBT-system contract in the 2-year period preceding the date of the report; and
+
+&emsp;&emsp;“(B) the steps that the State agency has taken to address those issues;
+
+&emsp;“(6) provides a description of—
+
+&emsp;&emsp;“(A) the issues faced by any State agency that will award a second EBT-system contract within the 2-year period beginning on the date of the report; and
+
+&emsp;&emsp;“(B) strategies that the State agency is considering to address those issues;
+
+&emsp;“(7) describes initiatives being considered or taken by the Department of Agriculture, food retailers, EBT-system vendors, and client advocates to address any outstanding issues with respect to EBT systems; and
+
+&emsp;“(8) examines areas of potential advances in electronic benefit delivery in the 5- to 10-year period beginning on the date of the report, including—
+
+&emsp;&emsp;“(A) access to EBT systems at farmers’ markets;
+
+&emsp;&emsp;“(B) increased use of transaction data from EBT systems to identify and prosecute fraud; and
+
+&emsp;&emsp;“(C) fostering of increased competition among EBT-system vendors to ensure cost containment and optimal service.”
 
 #### Congressional Statement of Purpose
 
@@ -418,7 +472,7 @@ Pub. L. 94–4, Feb. 20, 1975, 89 Stat. 6, provided that notwithstanding the pro
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2024, 2026, 2027, 2035 of this title.
+This section is referred to in sections 2014, 2019, 2024, 2026, 2027, 2035 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

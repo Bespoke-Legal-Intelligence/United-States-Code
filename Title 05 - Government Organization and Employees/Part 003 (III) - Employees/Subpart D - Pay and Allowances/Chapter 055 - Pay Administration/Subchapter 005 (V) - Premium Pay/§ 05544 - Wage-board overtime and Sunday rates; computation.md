@@ -14,7 +14,7 @@
 
 (c) The provisions of this section, including the last two sentences of subsection (a) and the provisions of section 5543(b), shall apply to a prevailing rate employee described in section 5342(a)(2)(B).
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 486; Pub. L. 90–83, §1(26)(A), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(d), Dec. 16, 1967, 81 Stat. 641; Pub. L. 92–392, §5, Aug. 19, 1972, 86 Stat. 573;Pub. L. 101–509, title V, §529 \[title II, §210(3)\], Nov. 5, 1990, 104 Stat. 1427, 1460; Pub. L. 102–378, §2(42), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 104–201, div. A, title XVI, §1610(b), Sept. 23, 1996, 110 Stat. 2738; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2317(1), Oct. 21, 1998, 112 Stat. 2681–829.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 486; Pub. L. 90–83, §1(26)(A), Sept. 11, 1967, 81 Stat. 200; Pub. L. 90–206, title II, §222(d), Dec. 16, 1967, 81 Stat. 641; Pub. L. 92–392, §5, Aug. 19, 1972, 86 Stat. 573; Pub. L. 101–509, title V, §529 \[title II, §210(3)\], Nov. 5, 1990, 104 Stat. 1427, 1460; Pub. L. 102–378, §2(42), Oct. 2, 1992, 106 Stat. 1352; Pub. L. 104–201, div. A, title XVI, §1610(b), Sept. 23, 1996, 110 Stat. 2738; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2317(1), Oct. 21, 1998, 112 Stat. 2681–829.)
 
 Historical and Revision Notes<br>1966
 

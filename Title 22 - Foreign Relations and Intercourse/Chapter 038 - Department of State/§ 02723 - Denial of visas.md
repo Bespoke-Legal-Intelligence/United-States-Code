@@ -2,7 +2,13 @@
 
 #### (a) Report to Congress
 
-The Secretary shall report, on a timely basis, to the appropriate committees of the Congress each time a consular post denies a visa on the grounds of terrorist activities or foreign policy. Such report shall set forth the name and nationality of each such person and a factual statement of the basis for such denial.
+#### (1) Denial of visas
+
+&emsp;The Secretary shall report, on a timely basis, to the appropriate committees of the Congress each time a consular post denies a visa on the grounds of terrorist activities or foreign policy. Such report shall set forth the name and nationality of each such person and a factual statement of the basis for such denial.
+
+#### (2) Visa issuance to inadmissible aliens
+
+&emsp;The Secretary shall, on a semiannual basis, submit to the appropriate committees of the Congress a report describing every instance during the period covered by the report in which a consular post or the Visa Office of the Department of State issued an immigrant or nonimmigrant visa to an alien who is inadmissible to the United States based upon terrorist activity or failed to object to the issuance of an immigrant or nonimmigrant visa to an alien notwithstanding any such ground of inadmissibility. The report shall set forth the name and nationality of the alien, the issuing post, and a brief factual statement of the basis for issuance of the visa or the failure to object. The report may be submitted in classified or unclassified form.
 
 #### (b) Limitation
 
@@ -12,9 +18,17 @@ Information contained in such report may be classified to the extent necessary a
 
 For the purposes of this section the term “appropriate committees of the Congress” means the Committee on the Judiciary and the Committee on Foreign Affairs of the House of Representatives and the Committee on the Judiciary and the Committee on Foreign Relations of the Senate.
 
-(Aug. 1, 1956, ch. 841, title I, §51, as added Pub. L. 102–138, title I, §127(a), Oct. 28, 1991, 105 Stat. 660.)
+(Aug. 1, 1956, ch. 841, title I, §51, as added Pub. L. 102–138, title I, §127(a), Oct. 28, 1991, 105 Stat. 660; amended Pub. L. 107–228, div. A, title II, §231, Sept. 30, 2002, 116 Stat. 1372.)
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–228 designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 
 #### Change of Name
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 6 section 236.
 

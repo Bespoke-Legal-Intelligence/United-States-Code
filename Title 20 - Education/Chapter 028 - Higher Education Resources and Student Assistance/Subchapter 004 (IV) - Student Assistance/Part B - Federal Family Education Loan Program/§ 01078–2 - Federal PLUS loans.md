@@ -152,7 +152,7 @@ Subsec. (b)(3). Pub. L. 100–50, §10(p)(2), amended first sentence generally, 
 
 Subsec. (c)(1). Pub. L. 100–50, §10(<i>o</i>)(2)(B), struck out “pursuant to sections 1077(a)(2)(C)(i), (viii), and (ix) and 1078(b)(1)(M)(i), (viii), and (ix) of this title” after “subject to deferral” and inserted in lieu cls. (A) and (B).
 
-Subsec. (c)(2). Pub. L. 100–50, §10(<i>o</i>)(1), (2)(C), (q), in introductory provisions, struck out “and interest” after first reference to “principal”, and substituted “pursuant to paragraph (1) of this subsection” for“under sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title”, and, in subpar. (A), inserted “monthly or” before “quarterly”.
+Subsec. (c)(2). Pub. L. 100–50, §10(<i>o</i>)(1), (2)(C), (q), in introductory provisions, struck out “and interest” after first reference to “principal”, and substituted “pursuant to paragraph (1) of this subsection” for “under sections 1077(a)(2)(C)(i) and 1078(b)(1)(M)(i) of this title”, and, in subpar. (A), inserted “monthly or” before “quarterly”.
 
 Subsec. (d)(1). Pub. L. 100–50, §10(r)(1)(A), inserted “at any time” after “eligible lender may” in first sentence, substituted “the consolidated loan is obtained by a borrower who is electing to obtain variable interest under paragraph (2) or (3)” for “the borrower complies with the requirements of paragraph (2)” in second sentence, and inserted “(if required by them)” after “shall be reported” in third sentence.
 
@@ -162,7 +162,7 @@ Subsec. (d)(5). Pub. L. 100–50, §10(r)(1)(C), substituted “October 1, 1987�
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 416(a)(2) of Pub. L. 105–244 applicable with respect to any loan made, insured, or guaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable with respect to any loan made under section 1078–3 of this title for which application is received by an eligible lender on or after Oct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
+Amendment by section 416(a)(2) of Pub. L. 105–244 applicable with respect to any loan made, insured, orguaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable with respect to any loan made under section 1078–3 of this title for which application is received by an eligible lender on or after Oct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
 
 Amendment by section 419 of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 

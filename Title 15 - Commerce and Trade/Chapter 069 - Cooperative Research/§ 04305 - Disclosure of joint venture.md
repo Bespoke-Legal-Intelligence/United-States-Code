@@ -22,7 +22,7 @@ If with respect to a notification filed under subsection (a) of this section, no
 
 &emsp;(1) the date of publication of notice under subsection (b) of this section, or
 
-&emsp;(2) if such notice is not so published within the time required by subsection (b) of this section, after the expiration of the 30-day period beginning on the date the Attorney General or the Commission receives the applicable information described in subsection (a) of this section.
+&emsp;(2) if such notice is not so published within the time required by subsection (b) of this section, after the expiration of the 30-day periodbeginning on the date the Attorney General or the Commission receives the applicable information described in subsection (a) of this section.
 
 #### (d) Exemption; disclosure; information
 

@@ -36,7 +36,7 @@ For purposes of section 300x–21 of this title, an application for a grant unde
 
 #### (c) Waivers regarding certain territories
 
-In the case of any territory of the United States except Puerto Rico, the Secretary may waive such provisions of this subpart and subpart III as the Secretary determines to be appropriate, other than the provisions of section 300x–31 of this title.
+In the case of any territory of the United States except Puerto Rico, the Secretary maywaive such provisions of this subpart and subpart III as the Secretary determines to be appropriate, other than the provisions of section 300x–31 of this title.
 
 #### (d) Issuance of regulations; precondition to making grants
 
@@ -56,7 +56,7 @@ In the case of any territory of the United States except Puerto Rico, the Secret
 
 #### (2) Sections
 
-&emsp;The sections described in paragraph (1) are sections 300x–22(c), 300x–23, 300x–24 and 300x–28 of this title.
+&emsp;The sections described in paragraph (1) are sections 300x–22(c) <sup>1</sup>, 300x–23, 300x–24 and 300x–28 of this title.
 
 #### (3) Date certain for acting upon request
 
@@ -71,6 +71,8 @@ In the case of any territory of the United States except Puerto Rico, the Secret
 #### References in Text
 
 Section 300x–30(c) of this title, referred to in subsec. (a)(5), was redesignated section 300x–30(d) of this title by Pub. L. 106–310, div. B, title XXXIII, §3303(c)(1), Oct. 17, 2000, 114 Stat. 1211.
+
+Section 300x–22(c) of this title, referred to in subsec. (e)(2), was redesignated section 300x–22(b) of this title by Pub. L. 106–310, div. B, title XXXIII, §3303(a)(2), Oct. 17, 2000, 114 Stat. 1210.
 
 #### Prior Provisions
 

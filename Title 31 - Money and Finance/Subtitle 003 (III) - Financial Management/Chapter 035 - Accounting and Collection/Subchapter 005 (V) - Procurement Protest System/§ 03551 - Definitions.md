@@ -14,11 +14,13 @@ In this subchapter:
 
 &emsp;(2) The term “interested party”, with respect to a contract or a solicitation or other request for offers described in paragraph (1), means an actual or prospective bidder or offeror whose direct economic interest would be affected by the award of the contract or by failure to award the contract.
 
-&emsp;(3) The term “Federal agency” has the meaning given such term by section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472).
+&emsp;(3) The term “Federal agency” has the meaning given such term by section 102 of title 40.
 
-(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1199; amended Pub. L. 99–145, title XIII, §1304(d), Nov. 8, 1985, 99 Stat. 742; Pub. L. 103–272, §4(f)(1)(K), July 5, 1994, 108 Stat. 1362; Pub. L. 103–355, title I, §1401, Oct. 13, 1994, 108 Stat. 3287; Pub. L. 104–106, div. D, title XLIII, §4321(d)(1), Feb. 10, 1996, 110 Stat. 674.)
+(Added Pub. L. 98–369, div. B, title VII, §2741(a), July 18, 1984, 98 Stat. 1199; amended Pub. L. 99–145, title XIII, §1304(d), Nov. 8, 1985, 99 Stat. 742; Pub. L. 103–272, §4(f)(1)(K), July 5, 1994, 108 Stat. 1362; Pub. L. 103–355, title I, §1401, Oct. 13, 1994, 108 Stat. 3287; Pub. L. 104–106, div. D, title XLIII, §4321(d)(1), Feb. 10, 1996, 110 Stat. 674; Pub. L. 107–217, §3(h)(6), Aug. 21, 2002, 116 Stat. 1300.)
 
 #### Amendments
+
+2002—Par. (3). Pub. L. 107–217 substituted “section 102 of title 40” for “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)”.
 
 1996—Pub. L. 104–106, §4321(d)(1)(A), substituted “subchapter:” for “subchapter—” in introductory provisions.
 

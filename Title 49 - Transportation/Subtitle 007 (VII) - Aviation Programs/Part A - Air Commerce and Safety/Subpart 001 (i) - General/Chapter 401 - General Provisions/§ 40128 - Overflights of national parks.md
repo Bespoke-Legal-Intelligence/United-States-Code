@@ -62,7 +62,7 @@ Exception.—Notwithstanding paragraph (1), commercial air tour operators may co
 
 &emsp;&emsp;(B) the operator secures a letter of agreement from the Administrator and the national park superintendent for that national park describing the conditions under which the operations will be conducted; and
 
-&emsp;&emsp;(C) the total number of operations under this exception is limited to not more thanfive flights in any 30-day period over a particular park.
+&emsp;&emsp;(C) the total number of operations under this exception is limited to not more than five flights in any 30-day period over a particular park.
 
 &emsp;(4)
 
@@ -142,7 +142,7 @@ Requirements and limitations.—Interim operating authority granted under this s
 
 &emsp;&emsp;&emsp;(ii) the average number of flights per 12-month period used by the operator to provide such operations within the 36-month period prior to such date of enactment, and, for seasonal operations, the number of flights so used during the season or seasons covered by that 12-month period;
 
-&emsp;&emsp;(B) may not provide for an increase in the number of commercial air tour operationsconducted during any time period by the commercial air tour operator above the number that the air tour operator was originally granted unless such an increase is agreed to by the Administrator and the Director;
+&emsp;&emsp;(B) may not provide for an increase in the number of commercial air tour operations conducted during any time period by the commercial air tour operator above the number that the air tour operator was originally granted unless such an increase is agreed to by the Administrator and the Director;
 
 &emsp;&emsp;(C) shall be published in the Federal Register to provide notice and opportunity for comment;
 
@@ -370,7 +370,7 @@ In general.—The advisory group shall be composed of—
 
 &emsp;“(2)
 
-Ex officio members.—The Administrator (or the designee of the Administrator) and the Director\(or the designee of the Director) shall serve as ex officio members.
+Ex officio members.—The Administrator (or the designee of the Administrator) and the Director (or the designee of the Director) shall serve as ex officio members.
 
 &emsp;“(3)
 
@@ -394,7 +394,7 @@ Compensation; Support; FACA.—
 
 &emsp;“(1)
 
-Compensation and travel.—Members of the advisory group who are not officers or employees of the United States, while attending conferences or meetings of the group or otherwise engaged in its business, or while serving away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code, for persons in the Government service employed intermittently.
+Compensation and travel.—Members of the advisory group who are not officers or employees ofthe United States, while attending conferences or meetings of the group or otherwise engaged in its business, or while serving away from their homes or regular places of business, may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code, for persons in the Government service employed intermittently.
 
 &emsp;“(2)
 

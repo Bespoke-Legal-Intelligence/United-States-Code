@@ -6,7 +6,7 @@ The Administrator is authorized to exercise his powers in such manner as to insu
 
 #### (b) Facilities and real property
 
-Except for public buildings as defined in the Public Buildings Act of 1959, as amended \[40 U.S.C. 601 et seq.\], and with respect to leased space subject to the provisions of Reorganization Plan Numbered 18 of 1950, the Administrator is authorized to acquire (by purchase, lease, condemnation, or otherwise), construct, improve, repair, operate, and maintain facilities and real property as the Administrator deems to be necessary in and outside of the District of Columbia. Such authority shall apply only to facilities required for the maintenance and operation of laboratories, research and testing sites and facilities, quarters, and related accommodations for employees and dependents of employees of the Administration, and such other special-purpose real property as the Administrator deems to be necessary in and outside the District of Columbia. Title to any property or interest therein, real, personal, or mixed, acquired pursuant to this section, shall be in the United States.
+Except for public buildings as defined in chapter 33 of title 40, and with respect to leased space subject to the provisions of Reorganization Plan Numbered 18 of 1950, the Administrator is authorized to acquire (by purchase, lease, condemnation, or otherwise), construct, improve, repair, operate, and maintain facilities and real property as the Administrator deems to be necessary in and outside of the District of Columbia. Such authority shall apply only to facilities required for the maintenance and operation of laboratories, research and testing sites and facilities, quarters, and related accommodations for employees and dependents of employees of the Administration, and such other special-purpose real property as the Administrator deems to be necessary in and outside the District of Columbia. Title to any property or interest therein, real, personal, or mixed, acquired pursuant to this section, shall be in the United States.
 
 #### (c) Services for employees at remote locations
 
@@ -28,7 +28,7 @@ Except for public buildings as defined in the Public Buildings Act of 1959, as a
 
 (2) The furnishing of medical treatment under subparagraph (A) of paragraph (1) and the furnishing of services and supplies under paragraphs (B) and (C) of paragraph (1) shall be at prices reflecting reasonable value as determined by the Administrator.
 
-(3) Proceeds from reimbursements under this section shall be deposited in the Treasury and may be withdrawn by the Administrator to pay directly the cost of such work or services, to repay or make advances to appropriations or funds which do or will bear all or a part of such cost, or to refund excess sums when necessary; except that such payments may be credited to a service or working capital fund otherwise established by law, and used under the law governing such funds, if the fund is available for use by the Administrator for performing the work or services for which payment is received.
+(3) Proceeds from reimbursements under this section shall be deposited in the Treasury and may be withdrawn by the Administrator to pay directly the cost of such work or services, to repay or make advances to appropriations or funds which do or will bear all or a part of such cost, or to refund excess sums when necessary;except that such payments may be credited to a service or working capital fund otherwise established by law, and used under the law governing such funds, if the fund is available for use by the Administrator for performing the work or services for which payment is received.
 
 #### (d) Acquisition of copyrights and patents
 
@@ -56,9 +56,11 @@ The Atomic Energy Act of 1954, as amended, referred to in subsecs. (a) and (e), 
 
 The effective date of this chapter, referred to in subsec. (a), refers to the effective date of Pub. L. 93–438. See section 312 of Pub. L. 93–438, set out as an Effective Date; Interim Appointments note under section 5801 of this title.
 
-The Public Buildings Act of 1959, as amended, referred to in subsec. (b), is Pub. L. 86–249, Sept. 9, 1959, 73 Stat. 479, as amended, which is classified principally to chapter 12 (§601 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 40 and Tables.
-
 Reorganization Plan Numbered 18 of 1950, referred to in subsec. (b), is Reorg. Plan No. 18 of 1950, eff. July 1, 1950, 15 F.R. 3177, 64 Stat. 1270, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+
+In subsec. (b), “chapter 33 of title 40” substituted for “the Public Buildings Act of 1959, as amended” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Transfer of Functions
 

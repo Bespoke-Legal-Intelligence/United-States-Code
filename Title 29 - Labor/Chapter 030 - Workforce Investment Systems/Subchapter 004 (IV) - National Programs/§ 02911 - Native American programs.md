@@ -64,7 +64,7 @@ As used in this section:
 
 #### (B) Special rule
 
-&emsp;&emsp;Notwithstanding any other provision of this section, individuals who were eligible to participate in programs under section 1671 of this title (as such section was in effect onthe day before August 7, 1998) shall be eligible to participate in an activity assisted under this section.
+&emsp;&emsp;Notwithstanding any other provision of this section, individuals who were eligible to participate in programs under section 1671 of this title (as such section was in effect on the day before August 7, 1998) shall be eligible to participate in an activity assisted under this section.
 
 #### (e) Program plan
 
@@ -142,7 +142,7 @@ Nothing in this section shall be construed—
 
 #### (iii) Administrative support
 
-&emsp;&emsp;&emsp;The Secretary shall provide the Council with such administrative support as maybe necessary to perform the functions of the Council.
+&emsp;&emsp;&emsp;The Secretary shall provide the Council with such administrative support as may be necessary to perform the functions of the Council.
 
 #### (E) Chairperson
 
@@ -190,11 +190,11 @@ The Indian Employment, Training and Related Services Demonstration Act of 1992, 
 
 This Act, referred to in subsec. (g)(1), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
-This chapter, referred to in subsec. (h)(3)(A), (6), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (h)(3)(A), (6), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 The Federal Advisory Committee Act, referred to in subsec. (h)(4)(G), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Single Audit Act of 1984, referred to in subsec. (i), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act of 1984, referred to in subsec. (i), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
 
 #### Prior Provisions
 

@@ -4,7 +4,7 @@ Section 1501, Pub. L. 91–524, title X, §1001, as added Pub. L. 93–86, §1(2
 
 Section 1502, Pub. L. 91–524, title X, §1002, as added Pub. L. 93–86, §1(28), Aug. 10, 1973, 87 Stat. 242, required eligible landowners and operators to furnish plan of farming operations or land use to Secretary.
 
-Section 1503, Pub. L. 91–524, title X, §1003, as added Pub. L. 93–86, §1(28), Aug. 10, 1973, 87 Stat. 242; amended Pub. L. 93–125, §1(g)(i), Oct. 18, 1973, 87 Stat. 450, related to approved conservation plans as basis for contracts,duties under contracts, and termination or modification of contracts.
+Section 1503, Pub. L. 91–524, title X, §1003, as added Pub. L. 93–86, §1(28), Aug. 10, 1973, 87 Stat. 242; amended Pub. L. 93–125, §1(g)(i), Oct. 18, 1973, 87 Stat. 450, related to approved conservation plans as basis for contracts, duties under contracts, and termination or modification of contracts.
 
 Section 1504, Pub. L. 91–524, title X, §1004, as added Pub. L. 93–86, §1(28), Aug. 10, 1973, 87 Stat. 243, authorized furnishing of conservation materials to eligible owners and operators.
 

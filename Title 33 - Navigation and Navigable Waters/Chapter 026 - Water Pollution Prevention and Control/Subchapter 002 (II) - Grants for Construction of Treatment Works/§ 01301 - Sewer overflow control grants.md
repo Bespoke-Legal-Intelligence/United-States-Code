@@ -50,7 +50,7 @@ There is authorized to be appropriated to carry out this section $750,000,000 fo
 
 #### (1) Fiscal year 2002
 
-&emsp;Subject to subsection (h) of this section, the Administrator shall use the amounts appropriated to carry out this section for fiscal year2002 for making grants to municipalities and municipal entities under subsection (a)(2) of this section, in accordance with the criteria set forth in subsection (b) of this section.
+&emsp;Subject to subsection (h) of this section, the Administrator shall use the amounts appropriated to carry out this section for fiscal year 2002 for making grants to municipalities and municipal entities under subsection (a)(2) of this section, in accordance with the criteria set forth in subsection (b) of this section.
 
 #### (2) Fiscal year 2003
 
@@ -58,7 +58,7 @@ There is authorized to be appropriated to carry out this section $750,000,000 fo
 
 &emsp;&emsp;(A) Not to exceed $250,000,000 for making grants to municipalities and municipal entities under subsection (a)(2) of this section, in accordance with the criteria set forth in subsection (b) of this section.
 
-&emsp;&emsp;(B) All remaining amounts for making grants to States under subsection (a)(1) of this section, in accordance with a formula to be established by the Administrator, after providing notice and an opportunity for public comment, that allocates to each State a proportional share of such amounts based on the total needs of the State for municipal combined sewer overflow controls and sanitary sewer overflow controls identified in the most recent survey conducted pursuant to section 1375(b)(1) <sup>1</sup> of this title.
+&emsp;&emsp;(B) All remaining amounts for making grants to States under subsection (a)(1) of this section, in accordance with a formula to be established by the Administrator, after providing notice and an opportunity for public comment, that allocates to each State a proportional share of such amounts based on the total needs of the State for municipal combined sewer overflow controls and sanitary sewer overflow controls identified in the most recent survey conducted pursuant to section 1375(b)(1) of this title.
 
 #### (h) Administrative expenses
 
@@ -73,10 +73,6 @@ Of the amounts appropriated to carry out this section for each fiscal year—
 Not later than December 31, 2003, and periodically thereafter, the Administrator shall transmit to Congress a report containing recommended funding levels for grants under this section. The recommended funding levels shall be sufficient to ensure the continued expeditious implementation of municipal combined sewer overflow and sanitary sewer overflow controls nationwide.
 
 (June 30, 1948, ch. 758, title II, §221, as added Pub. L. 106–554, §1(a)(4) \[div. B, title I, §112(c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–225.)
-
-#### References in Text
-
-Section 1375 of this title, referred to in subsec. (g)(2)(B), was amended by Pub. L. 105–362, title V, §501(d)(1), Nov. 10, 1998, 112 Stat. 3283, and, as so amended, no longer contains subsections.
 
 #### Information on CSOS and SSOS
 

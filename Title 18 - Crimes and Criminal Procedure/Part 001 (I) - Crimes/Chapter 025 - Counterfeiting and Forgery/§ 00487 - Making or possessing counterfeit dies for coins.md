@@ -26,5 +26,5 @@ Changes in phraseology were made.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 981, 982 of this title.
+This section is referred to in sections 981, 982 of this title.
 

@@ -40,7 +40,7 @@ Section 2529 of Pub. L. 97–35 provided that:
 
 #### Termination Date
 
-No technical assistance to be provided under this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No technical assistance to be provided under this part after Sept. 30, 2007, see section 285 of Pub. L. 93–618, asamended, set out as a note preceding section 2271 of this title.
 
 #### Section Referred to in Other Sections
 

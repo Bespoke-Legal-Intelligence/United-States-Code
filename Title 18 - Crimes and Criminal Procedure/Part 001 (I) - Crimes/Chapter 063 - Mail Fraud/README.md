@@ -9,10 +9,15 @@
 | [1345\.](%C2%A7%2001345%20-%20Injunctions%20against%20fraud.md) | Injunctions against fraud. |
 | [1346\.](%C2%A7%2001346%20-%20Definition%20of%20%E2%80%9Cscheme%20or%20artifice%20to%20defraud%E2%80%9D.md) | Definition of “scheme or artifice to defraud”. |
 | [1347\.](%C2%A7%2001347%20-%20Health%20care%20fraud.md) | Health care fraud. |
+| [1348\.](%C2%A7%2001348%20-%20Securities%20fraud.md) | Securities fraud. |
+| [1349\.](%C2%A7%2001349%20-%20Attempt%20and%20conspiracy.md) | Attempt and conspiracy. |
+| [1350\.](%C2%A7%2001350%20-%20Failure%20of%20corporate%20officers%20to%20certify%20financial%20reports.md) | Failure of corporate officers to certify financial reports. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–204, title VIII, §807(b), title IX, §§902(b), 906(b), July 30, 2002, 116 Stat. 804–806, added items 1348 to 1350.
 
 1996—Pub. L. 104–191, title II, §242(a)(2), Aug. 21, 1996, 110 Stat. 2016, added item 1347.
 
@@ -40,3 +45,6 @@ This chapter is referred to in title 29 section 1111.
 - [&sect; 01345 - Injunctions against fraud](%C2%A7%2001345%20-%20Injunctions%20against%20fraud.md)
 - [&sect; 01346 - Definition of &#8220;scheme or artifice to defraud&#8221;](%C2%A7%2001346%20-%20Definition%20of%20%E2%80%9Cscheme%20or%20artifice%20to%20defraud%E2%80%9D.md)
 - [&sect; 01347 - Health care fraud](%C2%A7%2001347%20-%20Health%20care%20fraud.md)
+- [&sect; 01348 - Securities fraud](%C2%A7%2001348%20-%20Securities%20fraud.md)
+- [&sect; 01349 - Attempt and conspiracy](%C2%A7%2001349%20-%20Attempt%20and%20conspiracy.md)
+- [&sect; 01350 - Failure of corporate officers to certify financial reports](%C2%A7%2001350%20-%20Failure%20of%20corporate%20officers%20to%20certify%20financial%20reports.md)

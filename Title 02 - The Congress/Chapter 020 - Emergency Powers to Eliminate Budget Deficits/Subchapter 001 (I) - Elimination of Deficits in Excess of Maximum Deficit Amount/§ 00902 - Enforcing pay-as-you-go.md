@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to assure that any legislation enacted before October 1, 2002,affecting direct spending or receipts that increases the deficit will trigger an offsetting sequestration.
+The purpose of this section is to assure that any legislation enacted before October 1, 2002, affecting direct spending or receipts that increases the deficit will trigger an offsetting sequestration.
 
 #### (b) Sequestration
 
@@ -78,7 +78,7 @@ The purpose of this section is to assure that any legislation enacted before Oct
 
 #### (e) Emergency legislation
 
-If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from thatprovision shall be designated as an emergency requirement in the reports required under subsection (d) of this section. This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
+If a provision of direct spending or receipts legislation is enacted that the President designates as an emergency requirement and that the Congress so designates in statute, the amounts of new budget authority, outlays, and receipts in all fiscal years resulting from that provision shall be designated as an emergency requirement in the reports required under subsection (d) of this section. This subsection shall not apply to direct spending provisions to cover agricultural crop disaster assistance.
 
 (Pub. L. 99–177, title II, §252, Dec. 12, 1985, 99 Stat. 1072; Pub. L. 100–119, title I, §102(a), Sept. 29, 1987, 101 Stat. 764; Pub. L. 100–203, title VIII, §8003(e), Dec. 22, 1987, 101 Stat. 1330–282; Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–581; Pub. L. 103–66, title XIV, §14003(a), Aug. 10, 1993, 107 Stat. 684; Pub. L. 103–354, title I, §119(d)(2), Oct. 13, 1994, 108 Stat. 3208; Pub. L. 105–33, title X, §10205, Aug. 5, 1997, 111 Stat. 702.)
 
@@ -94,7 +94,7 @@ Subsec. (b). Pub. L. 105–33, §10205(1), added subsec. (b) and struck out head
 
 Subsec. (c)(1)(B). Pub. L. 105–33, §10205(2), inserted “and direct” after “guaranteed”.
 
-Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of the House of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
+Subsec. (d). Pub. L. 105–33, §10205(3), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “As soon as practicable after Congress completes action on any direct spending or receipts legislation enacted after November 5, 1990, after consultation with the Committees on the Budget of theHouse of Representatives and the Senate, CBO shall provide OMB with an estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation. Within 5 calendar days after the enactment of any direct spending or receipts legislation enacted after November 5, 1990, OMB shall transmit a report to the House of Representatives and to the Senate containing such CBO estimate of that legislation, an OMB estimate of the amount of change in outlays or receipts, as the case may be, in each fiscal year through fiscal year 1998 resulting from that legislation, and an explanation of any difference between the two estimates. Those OMB estimates shall be made using current economic and technical assumptions. OMB and CBO shall prepare estimates under this paragraph in conformance with scorekeeping guidelines determined after consultation among the House and Senate Committees on the Budget, CBO, and OMB.”
 
 Subsec. (e). Pub. L. 105–33, §10205(4), struck out “, for any fiscal year from 1991 through 1998,” after “If” and “through 1995” after “receipts in all fiscal years”.
 
@@ -115,6 +115,10 @@ Subsec. (c)(2)(F)(ii). Pub. L. 100–203, §8003(e), substituted “proposed” 
 #### Effective Date of 1994 Amendment
 
 Section 119(d)(2) of Pub. L. 103–354 provided that the amendment made by that section is effective Jan. 1, 1995.
+
+#### Reduction of Preexisting Paygo Balances
+
+Pub. L. 107–312, §1, Dec. 2, 2002, 116 Stat. 2456, provided that: “Upon enactment of this Act \[Dec. 2, 2002\], the Director of the Office of Management and Budget shall reduce any balances of direct spending and receipts legislation for all fiscal years under section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 902\] to zero.”
 
 #### Pay-As-You-Go Adjustment
 
@@ -138,5 +142,5 @@ Section 14003(c) of Pub. L. 103–66 provided that: “Upon enactment of this Ac
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 645, 691c, 901, 903, 904, 906, 907, 907d of this title; title 7 section 1446;title 16 sections 3834, 3837d, 3839c; title 19 section 3624; title 31 section 1341; title 38 section 1729A; title 39 section 2009a.
+This section is referred to in sections 645, 691c, 901, 903, 904, 906, 907, 907d of this title; title 7 section 1446; title 10 section 1414; title 16 sections 3834, 3837d, 3839c; title 19 section 3624; title 31 section 1341; title 38 section 1729A; title 39 section 2009a.
 

@@ -20,7 +20,7 @@ The Corporation and each State Commission shall establish a system to recruit in
 
 #### (1) Selection and training
 
-&emsp;From among individuals recruited under subsection (d) of this section, the Corporation may select individuals with significant leadership potential, as determined by the Corporation, to receive special training to enhance their leadership ability. The leadership training shall be provided by the Corporation directly or through a grant or contract.
+&emsp;From among individuals recruited under subsection (d) of this section, the Corporationmay select individuals with significant leadership potential, as determined by the Corporation, to receive special training to enhance their leadership ability. The leadership training shall be provided by the Corporation directly or through a grant or contract.
 
 #### (2) Emphasis on certain individuals
 

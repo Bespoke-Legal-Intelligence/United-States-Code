@@ -20,7 +20,7 @@ All persons holding office in Guam on August 1, 1950 may, except as otherwise pr
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–396 inserted provisions authorizing establishment of Civil Service Commission and removal of commission members as provided by laws of Guam.
+1986—Subsec. (a). Pub. L. 99–396 inserted provisions authorizing establishment of Civil Service Commissionand removal of commission members as provided by laws of Guam.
 
 1968—Subsec. (a). Pub. L. 90–497, §4(a), struck out requirement that, in making appointments, preference be given persons of Guamanian ancestry and that opportunities for higher education and use of service training facilities be provided to qualified persons of Guamanian ancestry.
 

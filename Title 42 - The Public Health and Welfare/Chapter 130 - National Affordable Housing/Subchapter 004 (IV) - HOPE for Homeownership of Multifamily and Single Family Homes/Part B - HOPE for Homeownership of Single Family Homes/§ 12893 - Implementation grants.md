@@ -72,7 +72,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 &emsp;&emsp;(E) a description of and commitment for the resources that are expected to be made available to provide the matching funding required under subsection (c) of this section and of other resources that are expected to be made available in support of the homeownership program;
 
-&emsp;&emsp;(F) identification and description of the financing proposed for any (i) rehabilitation and (ii) acquisition (I) of the project, where applicable, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
+&emsp;&emsp;(F) identification and description of the financing proposed for any (i) rehabilitationand (ii) acquisition (I) of the project, where applicable, by an entity for transfer to eligible families, and (II) by eligible families of ownership interests in, or shares representing, units in the project;
 
 &emsp;&emsp;(G) the proposed sales prices for the properties, the basis for such price determinations, and terms to an entity, if any, that will purchase that property for resale to eligible families;
 
@@ -88,7 +88,7 @@ Implementation grants may be used for activities to carry out homeownership prog
 
 The Secretary shall establish selection criteria for assistance under this part, which shall include—
 
-&emsp;(1) the ability of the applicant to develop and carry out the proposed homeownershipprogram, taking into account the qualifications and experience of the applicant and the quality of any related ongoing program of the applicant;
+&emsp;(1) the ability of the applicant to develop and carry out the proposed homeownership program, taking into account the qualifications and experience of the applicant and the quality of any related ongoing program of the applicant;
 
 &emsp;(2) the feasibility of the homeownership program;
 

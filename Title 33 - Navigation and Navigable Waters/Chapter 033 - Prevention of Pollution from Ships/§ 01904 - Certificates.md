@@ -2,7 +2,7 @@
 
 #### (a) Issuance by authorized designees; restriction on issuance
 
-The Secretary shall designate those persons authorized to issue on behalf of the United States the certificates required by the MARPOL Protocol. A certificate required by the MARPOL Protocol shall not be issued to a ship which is registered in or of the nationality of a country which is not a party to the MARPOL Protocol.
+The Secretary shall designate those persons authorized to issue on behalf of the United States the certificates required by the MARPOL Protocol. A certificate required by the MARPOLProtocol shall not be issued to a ship which is registered in or of the nationality of a country which is not a party to the MARPOL Protocol.
 
 #### (b) Validity of foreign certificates
 

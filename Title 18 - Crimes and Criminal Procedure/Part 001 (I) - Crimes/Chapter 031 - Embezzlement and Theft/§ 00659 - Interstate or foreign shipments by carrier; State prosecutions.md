@@ -6,7 +6,7 @@ Whoever buys or receives or has in his possession any such goods or chattels, kn
 
 Whoever embezzles, steals, or unlawfully takes, carries away, or by fraud or deception obtains with intent to convert to his own use any baggage which shall have come into the possession of any common carrier for transportation in interstate or foreign commerce or breaks into, steals, takes, carries away, or conceals any of the contents of such baggage, or buys, receives, or has in his possession any such baggage or any article therefrom of whatever nature, knowing the same to have been embezzled or stolen; or
 
-Whoever embezzles, steals, or unlawfully takes by any fraudulent device, scheme, or game, from any railroad car, bus, vehicle, steamboat, vessel, or aircraft operated by any common carrier moving in interstate or foreign commerce or from any passenger thereon any money, baggage, goods, or chattels, or whoever buys, receives, or has in his possession any such money, baggage, goods, or chattels, knowing the same to have been embezzled or stolen—
+Whoever embezzles, steals, or unlawfully takes by any fraudulent device, scheme, or game, from any railroad car, bus, vehicle, steamboat, vessel, or aircraft operated by any common carrier moving in interstate or foreign commerce or from any passenger thereon any money, baggage, goods, or chattels, or whoever buys, receives, or has in his possession any such money,baggage, goods, or chattels, knowing the same to have been embezzled or stolen—
 
 Shall in each case be fined under this title or imprisoned not more than ten years, or both; but if the amount or value of such money, baggage, goods or chattels does not exceed $1,000, he shall be fined under this title or imprisoned not more than one year, or both.
 
@@ -50,7 +50,7 @@ The “corrective legislation”, referred to in this paragraph, became Act Apri
 
 1994—Pub. L. 103–322, in fifth par., substituted “fined under this title” for “fined not more than $5,000” after “Shall in each case be” and for “fined not more than $1,000” after “he shall be”.
 
-1966—Pub. L. 89–654 substituted “shipments by carrier” for “baggage, express, or freight” in sectioncatchline, inserted “pipeline system” and “tank or storage facility” and substituted “freight, express, or other property” for “freight or express” in par. 1, provided in par. 8 that the removal of property from a pipeline system which extends interstate shall be prima facie evidence of the interstate character of the shipment of the property, and, in par. 9, prohibited any construction which indicated an intent on the part of Congress to occupy the field to the exclusion of State laws or to invalidate inconsistent State provisions.
+1966—Pub. L. 89–654 substituted “shipments by carrier” for “baggage, express, or freight” in section catchline, inserted “pipeline system” and “tank or storage facility” and substituted “freight, express, or other property” for “freight or express” in par. 1, provided in par. 8 that the removal of property from a pipeline system which extends interstate shall be prima facie evidence of the interstate character of the shipment of the property, and, in par. 9, prohibited any construction which indicated an intent on the part of Congress to occupy the field to the exclusion of State laws or to invalidate inconsistent State provisions.
 
 1949—Act May 24, 1949, inserted “embezzled or” before “stolen” in second par., and substituted “whoever” for “who” before “buys” in fourth par.
 

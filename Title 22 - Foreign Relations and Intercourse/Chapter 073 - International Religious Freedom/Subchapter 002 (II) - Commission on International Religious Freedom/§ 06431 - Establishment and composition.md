@@ -36,13 +36,39 @@ There is established the United States Commission on International Religious Fre
 
 #### (c) Terms
 
-(1) <sup>2</sup>
+#### (1) In general
 
-In general.—The term of office of each member of the Commission shall be 2 years. The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission. Members of the Commission shall be eligible for reappointment to a second term.
+&emsp;The term of office of each member of the Commission shall be 2 years. The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission. Members of the Commission shall be eligible for reappointment to a second term.
+
+#### (2) Establishment of staggered terms
+
+#### (A) In general
+
+&emsp;&emsp;Notwithstanding paragraph (1), members of the Commission appointed to serve on the Commission during the period May 15, 2003, through May 14, 2005, shall be appointed to terms in accordance with the provisions of this paragraph.
+
+#### (B) Presidential appointments
+
+&emsp;&emsp;Of the three members of the Commission appointed by the President under subsection (b)(1)(B)(i) of this section, two shall be appointed to a 1-year term and one shall be appointed to a 2-year term.
+
+#### (C) Appointments by the President pro tempore of the Senate
+
+&emsp;&emsp;Of the three members of the Commission appointed by the President pro tempore of the Senate under subsection (b)(1)(B)(ii) of this section, one of the appointments made upon the recommendation of the leader in the Senate of the political party that is not the political party of the President shall be appointed to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
+
+#### (D) Appointments by the Speaker of the House of Representatives
+
+&emsp;&emsp;Of the three members of the Commission appointed by the Speaker of the House of Representatives under subsection (b)(1)(B)(iii) of this section, one of the appointments made upon the recommendation of the leader in the House of the political party that is not the political party of the President shall be to a 1-year term, and the other two appointments under such clause shall be 2-year terms.
+
+#### (E) Appointments to 1-year terms
+
+&emsp;&emsp;The term of each member of the Commission appointed to a 1-year term shall be considered to have begun on May 15, 2003, and shall end on May 14, 2004, regardless of the date of the appointment to the Commission. Each vacancy which occurs upon the expiration of the term of a member appointed to a 1-year term shall be filled by the appointment of a successor to a 2-year term.
+
+#### (F) Appointments to 2-year terms
+
+&emsp;&emsp;Each appointment of a member to a two-year term shall identify the member succeeded thereby, and each such term shall end on May 14 of the year that is at least two years after the expiration of the previous term, regardless of the date of the appointment to the Commission.
 
 #### (d) Election of Chair
 
-At the first meeting of the Commission in each calendar year, a majority of the members of the Commission present and voting shall elect the Chair of the Commission.
+At the first meeting of the Commission after May 30 of each year, a majority of the members of the Commission present and voting shall elect the Chair of the Commission.
 
 #### (e) Quorum
 
@@ -50,11 +76,11 @@ Six voting members of the Commission shall constitute a quorum for purposes of t
 
 #### (f) Meetings
 
-Each year, within 15 days, or as soon as practicable, after the issuance of the Country Report on Human Rights Practices, the Commission shall convene. The Commission shall otherwise meet at the call of the Chair or, if no Chair has been elected for that calendar year, at the call of six voting members of the Commission.
+Each year, within 15 days, or as soon as practicable, after the issuance of the Country Reporton Human Rights Practices, the Commission shall convene. The Commission shall otherwise meet at the call of the Chair or, if no Chair has been elected for that calendar year, at the call of six voting members of the Commission.
 
 #### (g) Vacancies
 
-Any vacancy of the Commission shall not affect its powers, but shall be filled in the manner in which the original appointment was made.
+Any vacancy of the Commission shall not affect its powers, but shall be filled in the manner in which the original appointment was made. A member may serve after the expiration of that member's term until a successor has taken office. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term.
 
 #### (h) Administrative support
 
@@ -64,9 +90,15 @@ The Administrator of General Services shall provide to the Commission on a reimb
 
 Members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5 while away from their homes or regular places of business in the performance of services for the Commission.
 
-(Pub. L. 105–292, title II, §201, Oct. 27, 1998, 112 Stat. 2797; Pub. L. 106–55, §§1(a), 2(b), Aug. 17, 1999, 113 Stat. 401, 406.)
+(Pub. L. 105–292, title II, §201, Oct. 27, 1998, 112 Stat. 2797; Pub. L. 106–55, §§1(a), 2(b), Aug. 17, 1999, 113 Stat. 401, 406; Pub. L. 107–228, div. A, title VI, §681(b)–(d), Sept. 30, 2002, 116 Stat. 1408, 1409.)
 
 #### Amendments
+
+2002—Subsec. (c)(2). Pub. L. 107–228, §681(b), added par. (2).
+
+Subsec. (d). Pub. L. 107–228, §681(c), substituted “after May 30 of each” for “in each calendar”.
+
+Subsec. (g). Pub. L. 107–228, §681(d), inserted at end “A member may serve after the expiration of that member's term until a successor has taken office. Any member appointed to fill a vacancy occurring before the expiration of the term for which the member's predecessor was appointed shall be appointed only for the remainder of that term.”
 
 1999—Pub. L. 106–55, §1(a)(2), which directed amendment of section by inserting after first sentence “The term of each member of the Commission appointed to the first two-year term of the Commission shall be considered to have begun on May 15, 1999, and shall end on May 14, 2001, regardless of the date of appointment to the Commission. The term of each member of the Commission appointed to the second two-year term of the Commission shall begin on May 15, 2001, and shall end on May 14, 2003, regardless of the date of appointment to the Commission. In the case in which a vacancy in the membership of the Commission is filled during a two-year term of the Commission, such membership on the Commission shall terminate at the end of that two-year term of the Commission.”, was executed by making the insertion after the first sentence of subsec. (c)(1) to reflect the probable intent of Congress.
 
@@ -81,6 +113,4 @@ Subsec. (h). Pub. L. 106–55, §1(a)(3), amended heading and text of subsec. (h
 This section is referred to in section 6402 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
-
-<i><sup>2</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

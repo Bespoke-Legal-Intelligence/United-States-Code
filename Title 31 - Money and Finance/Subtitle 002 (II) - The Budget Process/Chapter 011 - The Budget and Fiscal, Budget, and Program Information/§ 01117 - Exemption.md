@@ -10,5 +10,5 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1115, 1118, 1119 of this title; title 40 section 1425; title 44 section 3534.
+This section is referred to in sections 1115, 1118, 1119 of this title; title 40 section 11315; title 44 sections 3534, 3544.
 

@@ -176,5 +176,5 @@ A prior section 6333, Pub. L. 89–10, title I, §1124, as added Pub. L. 103–3
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1070a–24, 2351, 6316, 6332, 6334, 6335, 6337, 6338, 6362, 6364, 6368, 6512, 6534, 6537 of this title.
+This section is referred to in sections 1070a–24, 2351, 6316, 6332, 6334, 6335, 6337, 6338, 6362, 6364, 6368, 6512, 6534, 6537, 9602 of this title.
 

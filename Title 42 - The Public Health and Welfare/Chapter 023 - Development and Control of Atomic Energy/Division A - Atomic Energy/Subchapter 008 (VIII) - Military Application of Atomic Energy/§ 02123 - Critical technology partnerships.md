@@ -2,7 +2,7 @@
 
 #### (a) Partnerships
 
-For the purpose of facilitating the transfer of technology, the Secretary of Energy shall ensure, to the maximum extent practicable, that atomic energy defense activities research on, and development of, any dual-use critical technology is conducted through cooperative research and development agreements, or other arrangements, that involve laboratories of the Department of Energy and other entities.
+For the purpose of facilitating the transfer of technology, the Secretary of Energy shall ensure, to the maximum extent practicable, that atomic energy defense activities research on, and development of, any dual-use critical technology is conducted through cooperative research and development agreements, or otherarrangements, that involve laboratories of the Department of Energy and other entities.
 
 #### (b) Definitions
 

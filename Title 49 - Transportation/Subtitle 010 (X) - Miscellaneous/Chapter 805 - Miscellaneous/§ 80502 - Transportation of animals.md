@@ -28,7 +28,7 @@ Nonapplication.—This section does not apply when animals are transported in a 
 
 (d)
 
-Civil Penalty.—A rail carrier, express carrier, or common carrier (except by air or water), a receiver, trustee, or lessee of one of those carriers, or an owner or master of a vessel that knowingly and willfully violates this section is liable to the United States Government for a civil penalty of at least $100 but not more than $500 for each violation. On learning of a violation, the Attorney General shall bring a civil action to collect the penalty in the district court of the United States for the judicial district in which the violation occurred or the defendant resides or does business.
+Civil Penalty.—A rail carrier, express carrier, or common carrier (except by air or water),a receiver, trustee, or lessee of one of those carriers, or an owner or master of a vessel that knowingly and willfully violates this section is liable to the United States Government for a civil penalty of at least $100 but not more than $500 for each violation. On learning of a violation, the Attorney General shall bring a civil action to collect the penalty in the district court of the United States for the judicial district in which the violation occurred or the defendant resides or does business.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1356.)
 

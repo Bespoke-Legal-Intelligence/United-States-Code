@@ -8,7 +8,7 @@
 
 #### (2) Board of Trustees
 
-&emsp;The Center shall be subject to the supervision and direction of a Board of Trusteeswhich shall be composed of nine members as follows:
+&emsp;The Center shall be subject to the supervision and direction of a Board of Trustees which shall be composed of nine members as follows:
 
 &emsp;&emsp;(A) Two members appointed by the Speaker of the House of Representatives, one of whom shall be designated by the Majority Leader of the House of Representatives and one of whom shall be designated by the Minority Leader of the House of Representatives.
 
@@ -218,7 +218,7 @@ In general.—There is established a Russian Leadership Program Advisory Board w
 
 Membership.—The Advisory Board under paragraph (1) shall consist of—
 
-&emsp;&emsp;“(A) two members appointed by the Speaker of the House of Representatives, of whom one shall bedesignated by the Majority Leader of the House of Representatives and one shall be designated by the Minority Leader of the House of Representatives;
+&emsp;&emsp;“(A) two members appointed by the Speaker of the House of Representatives, of whom one shall be designated by the Majority Leader of the House of Representatives and one shall be designated by the Minority Leader of the House of Representatives;
 
 &emsp;&emsp;“(B) two members appointed by the President pro tempore of the Senate, of whom one shall be designated by the Majority Leader of the Senate and one shall be designated by the Minority Leader of the Senate;
 
@@ -234,7 +234,7 @@ Terms.—Each member appointed under paragraph (2) shall serve for a term of 3 y
 
 “(f)
 
-Reporting.—The head of the administering agency shall, not later than 3 months following the close of each fiscal year for which such agency administered the program, report to Congress with respect to the conduct of such program during such fiscal year. Such report shall include information with respect to the number of participants in the program and the cost of the program, and any recommendations on improvements necessary to enable the program to carry out the purposes of this section.
+Reporting.—The head of the administering agency shall, not later than 3 months following the close of each fiscal year for which such agency administered the program, report to Congress with respect to theconduct of such program during such fiscal year. Such report shall include information with respect to the number of participants in the program and the cost of the program, and any recommendations on improvements necessary to enable the program to carry out the purposes of this section.
 
 “(g)
 

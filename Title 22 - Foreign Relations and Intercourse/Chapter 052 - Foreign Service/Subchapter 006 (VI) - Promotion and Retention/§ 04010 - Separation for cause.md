@@ -1,34 +1,34 @@
 ### §4010. Separation for cause
 
-#### (a) Authorization of Secretary; hearing prior to separation; waiver of hearing; suspension pending final resolution
+#### (a) Authorization of Secretary; right to hearing; attorneys fees and backpay; leave without pay
 
-(1) The Secretary may separate any member from the Service for such cause as will promote the efficiency of the Service.
+(1) The Secretary may decide to separate any member from the Service for such cause as will promote the efficiency of the Service.
 
-(2) Except in the case of an individual who has been convicted of a crime for which a sentence of imprisonment of more than 1 year may be imposed, a member of the Service (other than a United States citizen employed under section 3951 of this title who is not a family member) who is a member of the Senior Foreign Service or is assigned to a salary class in the Foreign Service Schedule and who either (A) is serving under a career appointment, or (B) if separation is to be by reason of misconduct, is serving under a limited appointment, shall not be separated from the Service under this section until the member has been granted a hearing before the Foreign Service Grievance Board and the cause for separation established at such hearing, unless the member waives in writing the right to a hearing or, notwithstanding section 4136(8) of this title, unless the member has been convicted of a crime related to the cause for separation, subject to reinstatement with back pay (for any period during which separation for cause had not been established by such a hearing) if such conviction is reversed on appeal. If such cause is not established at such hearing, the Grievance Board shall have the authority to direct the Department to pay reasonable attorneys fees to the extent and in the manner provided by section 4137(b)(5) of this title. The hearing provided under this paragraph shall be in accordance with the hearing procedures applicable to grievances under section 4136 of this title and shall be in lieu of any other administrative procedure authorized or required by this or any other law. Section 4140 of this title shall apply to proceedings under this paragraph.
+(2)(A) Except as provided in subparagraph (B), whenever the Secretary decides under paragraph (1) to separate, on the basis of misconduct, any member of the Service (other than a United States citizen employed under section 3951 of this title who is not a family member) who either—
 
-(3) Notwithstanding the hearing required by this section, or procedures under any other provision of law, where a member has been convicted of a crime for which a sentence of imprisonment may be imposed, and there is a nexus to the efficiency of the Service, the Secretary, or his designee, may suspend such member without pay pending final resolution of the underlying matter, subject to reinstatement with back pay if cause for separation is not established in a hearing before the Board.
+&emsp;(i) is serving under a career appointment, or
 
-(4) Any member suspended pursuant to subsection (a)(3) of this section shall be entitled to—
+&emsp;(ii) is serving under a limited appointment,
 
-&emsp;(A) advance written notice of the specific reasons for such suspension;
+> the member may not be separated from the Service until the member receives a hearing before the Foreign Service Grievance Board and the Board decides that cause for separation has been established, unless the member waives, in writing, the right to such a hearing, or the member's appointment has expired, whichever is sooner.
 
-&emsp;(B) a reasonable time, not less than seven days, to answer orally and in writing;
+(B) The right to a hearing in subparagraph (A) does not apply in the case of an individual who has been convicted of a crime for which a sentence of imprisonment of more than one year may be imposed.
 
-&emsp;(C) be represented by an attorney or other representative; and
+(3) If the Board decides that cause for separation has not been established, the Board may direct the Department to pay reasonable attorneys’ fees to the extent and in the manner provided by section 4137(b)(5) of this title. The hearing provided under this paragraph shall be conducted in accordance with the hearing procedures applicable to grievances under section 4136 of this title and shall be in lieu of any other administrative procedure authorized or required by this or any other Act. Section 4140 of this title shall apply to proceedings under this paragraph.
 
-&emsp;(D) a final written decision.
-
-(5) Any member suspended pursuant to subsection (a)(3) of this section shall be entitled togrieve such action in accordance with procedures applicable to grievances under subchapter XI of this chapter. The Board review, however, shall be limited only to a determination of whether the conviction requirements of subsection (a)(3) of this section have been fulfilled, and whether there is a nexus between the conduct and the efficiency of the Service.
-
-(6) Notwithstanding the hearing required by paragraph (2), at the time the Secretary recommends that a member of the Service be separated for cause, that member shall be placed on leave without pay pending final resolution of the underlying matter, subject to reinstatement with back pay if cause for separation is not established in a hearing before the Board.
+(4) Notwithstanding the hearing required by paragraph (2), at the time that the Secretary decides to separate a member of the Service for cause, the member shall be placed on leave without pay. If the member does not waive the right to a hearing, and the Board decides that cause for separation has not been established, the member shall be reinstated with back pay.
 
 #### (b) Refund of contributions to Fund; annuity election
 
 Any participant in the Foreign Service Retirement and Disability System who is separated under subsection (a) of this section shall be entitled to receive a refund as provided in section 4055 of this title of the contributions made by the participant to the Foreign Service Retirement and Disability Fund. Except in cases where the Secretary determines that separation was based in whole or in part on the ground of disloyalty to the United States, a participant who has at least 5 years of service credit toward retirement under the Foreign Service Retirement and Disability System (excluding military and naval service) may elect, in lieu of such refund, to an annuity, computed under section 4046 of this title, commencing at age 60.
 
-(Pub. L. 96–465, title I, §610, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 100–204, title I, §181(d), Dec. 22, 1987, 101 Stat. 1364; Pub. L. 101–167, title V, §586(b), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 101–246, title I, §143, Feb. 16, 1990, 104 Stat. 36; Pub. L. 102–138, title I, §143(a), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–415, §1(h)(2), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2313, Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §328\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438.)
+(Pub. L. 96–465, title I, §610, Oct. 17, 1980, 94 Stat. 2098; Pub. L. 100–204, title I, §181(d), Dec. 22, 1987, 101 Stat. 1364; Pub. L. 101–167, title V, §586(b), Nov. 21, 1989, 103 Stat. 1252; Pub. L. 101–246, title I, §143, Feb. 16, 1990, 104 Stat. 36; Pub. L. 102–138, title I, §143(a), Oct. 28, 1991, 105 Stat. 668; Pub. L. 103–415, §1(h)(2), Oct. 25, 1994, 108 Stat. 4300; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2313, Oct. 21, 1998, 112 Stat. 2681–827; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §328\], Nov. 29, 1999, 113 Stat. 1536, 1501A–438; Pub. L. 107–228, div. A, title III, §314(a), Sept. 30, 2002, 116 Stat. 1378.)
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–228, §314(a)(1), inserted “decide to” after “may”.
+
+Subsec. (a)(2) to (6). Pub. L. 107–228, §314(a)(2), (3), added pars. (2) to (4) and struck out former pars. (2) to (6) which related to the rights of members of the Service to hearings before the Foreign Service Grievance Board prior to being separated from the Service, suspensions from the Service pending final resolution of the underlying matter, procedural rights of suspended members, review of suspensions by the Board, and leave without pay pending final resolution for members recommended for separation.
 
 1999—Subsec. (a)(6). Pub. L. 106–113 added par. (6).
 
@@ -74,5 +74,5 @@ Section 586(c) of Pub. L. 101–167 provided that for purposes of amendments by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4011, 4071d, 4136 of this title.
+This section is referred to in sections 4011, 4071d of this title.
 

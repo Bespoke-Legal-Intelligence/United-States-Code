@@ -34,7 +34,7 @@ Whoever—
 
 &emsp;(B) to purchase, lease, order, or arrange for or recommend purchasing, leasing, or ordering any good, facility, service, or item for which payment may be made in whole or in part under a Federal health care program,
 
-> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 orimprisoned for not more than five years, or both.
+> shall be guilty of a felony and upon conviction thereof, shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 
 (3) Paragraphs (1) and (2) shall not apply to—
 
@@ -72,7 +72,7 @@ Whoever knowingly and willfully—
 
 > &emsp;when the cost of the services provided therein to the patient is paid for (in whole or in part) under the State plan,
 
-> shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
+> shall be guilty of a felony and upon conviction thereof shall be fined not more than $25,000 orimprisoned for not more than five years, or both.
 
 #### (e) Violation of assignment terms
 
@@ -214,7 +214,7 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 #### Effective Date of 1977 Amendment
 
-Section 4(d) of Pub. L. 95–142 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to acts occurring and statements or representations made on or after the date of the enactment of this Act \[Oct. 25, 1977\].”
+Section 4(d) of Pub. L. 95–142 provided that: “The amendments made by subsections (a) and (b) \[amending this section\] shall apply with respect to acts occurringand statements or representations made on or after the date of the enactment of this Act \[Oct. 25, 1977\].”
 
 #### Effective Date
 

@@ -32,13 +32,13 @@ One-Year Limit for Check Claims.—(1) Any claim on account of a Treasury check 
 
 (d) The official responsible under subsection (a) for settling the claim shall report to Congress on a claim against the Government that is timely presented under this section that may not be adjusted by using an existing appropriation, and that the official believes Congress should consider for legal or equitable reasons. The report shall include recommendations of the official.
 
-(e)(1) Upon the request of the Secretary concerned (as defined in section 101 of title 37, United States Code), the Secretary of Defense may waive the time limitations set forth in subsection (b) or (c) in the case of a claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10 and, subject to paragraph (2), settle the claim.
+(e)(1) The Secretary of Defense may waive the time limitations set forth in subsection (b) or (c) in the case of a claim referred to in subsection (a)(1)(A). In the case of a claim by or with respect to a member of the uniformed services who is not under the jurisdiction of the Secretary of a military department, such a waiver may be made only upon the request of the Secretary concerned (as defined in section 101 of title 37).
 
-(2) Payment of a claim settled under paragraph (1) shall be made from an appropriation that is available, for the fiscal year in which the payment is made, for the same purpose as the appropriation to which the obligation claimed would have been charged if the obligation had been timely paid.
+(2) Payment of a claim settled under subsection (a)(1)(A) shall be made from an appropriation that is available, for the fiscal year in which the payment is made, for the same purpose as the appropriation to which the obligation claimed would have been charged if the obligation had been timely paid, except that in the case of a claim for retired pay or survivor benefits, if the obligation claimed would have been paid from a trust fund if timely paid, the payment of the claim shall be made from that trust fund.
 
 (3) This subsection does not apply to a claim in excess of $25,000.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(14), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 100–86, title X, §1004(b), Aug. 10, 1987, 101 Stat. 659; Pub. L. 104–201, div. A, title VI, §608, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 104–316, title II, §202(n)(1), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 105–85, div. A, title X, §1012, Nov. 18, 1997, 111 Stat. 1874; Pub. L. 106–398, §1 \[\[div. A\], title VI, §664\], Oct. 30, 2000, 114 Stat. 1654, 1654A–168.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 970; Pub. L. 97–452, §1(14), Jan. 12, 1983, 96 Stat. 2470; Pub. L. 100–86, title X, §1004(b), Aug. 10, 1987, 101 Stat. 659; Pub. L. 104–201, div. A, title VI, §608, Sept. 23, 1996, 110 Stat. 2542; Pub. L. 104–316, title II, §202(n)(1), Oct. 19, 1996, 110 Stat. 3843; Pub. L. 105–85, div. A, title X, §1012, Nov. 18, 1997, 111 Stat. 1874; Pub. L. 106–398, §1 \[\[div. A\], title VI, §664\], Oct. 30, 2000, 114 Stat. 1654, 1654A–168; Pub. L. 107–314, div. A, title VI, §635(a), (b), Dec. 2, 2002, 116 Stat. 2574.)
 
 Historical and Revision Notes<br>1982
 
@@ -130,6 +130,12 @@ The effective date of this subsection, referred to in subsec. (c)(1), probably m
 
 #### Amendments
 
+2002—Subsec. (e)(1). Pub. L. 107–314, §635(b)(1), substituted “The Secretary of Defense” for “Upon the request of the Secretary concerned (as defined in section 101 of title 37, United States Code), the Secretary of Defense”, struck out “and, subject to paragraph (2), settle the claim” before period at end of first sentence, and inserted at end “In the case of a claim by or with respect to a member of the uniformed services who is not under the jurisdiction of the Secretary of a military department, such a waiver may be made only upon the request of the Secretary concerned (as defined in section 101 of title 37).”
+
+Pub. L. 107–314, §635(a), substituted “a claim referred to in subsection (a)(1)(A)” for “a claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10”.
+
+Subsec. (e)(2). Pub. L. 107–314, §635(b)(2), substituted “under subsection (a)(1)(A)” for “under paragraph (1)” and inserted before period at end “, except that in the case of a claim for retired pay or survivor benefits, if the obligation claimed would have been paid from a trust fund if timely paid, the payment of the claim shall be made from that trust fund”.
+
 2000—Subsec. (a)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(a)\], inserted “payments for unused accrued leave,” after “transportation,”.
 
 Subsec. (e)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §664(b)\], substituted “claim for pay, allowances, or payment for unused accrued leave under title 37 or a claim for retired pay under title 10” for “claim for pay or allowances provided under title 37”.
@@ -156,9 +162,13 @@ Subsec. (e). Pub. L. 104–201 added subsec. (e).
 
 1983—Subsec. (b)(2). Pub. L. 97–452 inserted “this” before “subsection”.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–314, div. A, title VI, §635(c), Dec. 2, 2002, 116 Stat. 2574, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to claims against the United States presented to the Secretary of Defense under section 3702 of title 31, United States Code, on or after the date of the enactment of this Act \[Dec. 2, 2002\].”
+
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–86 effective 6 months after Aug. 10, 1987, or on such later date as the Secretary of the Treasury may prescribe in regulations, see section 1006 of Pub. L. 100–86, set out as a note under section 3328 of this title.
+Amendment by Pub. L. 100–86 effective 6 months after Aug. 10, 1987, or on such later date as the Secretary ofthe Treasury may prescribe in regulations, see section 1006 of Pub. L. 100–86, set out as a note under section 3328 of this title.
 
 #### Effective Date of 1983 Amendment
 

@@ -16,7 +16,7 @@
 
 &emsp;(3)(A) Subject to subparagraph (B), the number of an individual's supplement entitlement months for a year shall be 12.
 
-&emsp;(B) The number determined under subparagraph (A) shall be reduced so as not to include any month after which such individual ceases to be entitled to an annuity supplement by reason of section 8421(a)(3)(B), relating to cessation of entitlement upon attaining age 62.
+&emsp;(B) The number determined under subparagraph (A) shall be reduced so as not to includeany month after which such individual ceases to be entitled to an annuity supplement by reason of section 8421(a)(3)(B), relating to cessation of entitlement upon attaining age 62.
 
 &emsp;(4)(A) For purposes of this section, and except as provided in subparagraph (B), the “earnings” and the “applicable exempt amount” of an individual shall be determined in a manner consistent with applicable provisions of section 203 of the Social Security Act.
 

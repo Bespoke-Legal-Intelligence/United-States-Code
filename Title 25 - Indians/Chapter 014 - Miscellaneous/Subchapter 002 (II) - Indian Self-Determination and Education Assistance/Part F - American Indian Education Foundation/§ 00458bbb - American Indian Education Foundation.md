@@ -20,7 +20,7 @@ The Foundation shall be incorporated and domiciled in the District of Columbia.
 
 The purposes of the Foundation shall be—
 
-&emsp;(1) to encourage, accept, and administer private gifts of real and personal property or any income therefrom or other interest therein for the benefit of, or in support of, the mission of the Office of Indian Education Programs of the Bureau of Indian Affairs (or its successor office);
+&emsp;(1) to encourage, accept, and administer private gifts of real and personal property or anyincome therefrom or other interest therein for the benefit of, or in support of, the mission of the Office of Indian Education Programs of the Bureau of Indian Affairs (or its successor office);
 
 &emsp;(2) to undertake and conduct such other activities as will further the educational opportunities of American Indians who attend a Bureau funded school; and
 
@@ -48,7 +48,7 @@ The purposes of the Foundation shall be—
 
 #### (1) In general
 
-&emsp;The officers of the Foundation shall be a secretary, elected from among the members ofthe Board, and any other officers provided for in the constitution and bylaws of the Foundation.
+&emsp;The officers of the Foundation shall be a secretary, elected from among the members of the Board, and any other officers provided for in the constitution and bylaws of the Foundation.
 
 #### (2) Secretary of Foundation
 

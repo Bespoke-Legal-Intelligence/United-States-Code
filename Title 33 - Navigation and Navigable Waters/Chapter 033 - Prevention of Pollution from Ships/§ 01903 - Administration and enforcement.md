@@ -54,3 +54,7 @@ Amendment by Pub. L. 100–220 effective Dec. 31, 1988, the date on which Annex 
 
 Subsec. (b) of this section effective Oct. 21, 1980, see section 14(b) of Pub. L. 96–478, set out as a note under section 1901 of this title.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

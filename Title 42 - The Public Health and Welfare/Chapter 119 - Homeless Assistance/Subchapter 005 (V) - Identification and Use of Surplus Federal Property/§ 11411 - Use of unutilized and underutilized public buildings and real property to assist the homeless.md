@@ -2,7 +2,7 @@
 
 #### (a) Identification of suitable property
 
-The Secretary of Housing and Urban Development shall, on a quarterly basis, request information from each landholding agency regarding Federal public buildings and other Federal real properties (including fixtures) that are excess property or surplus property or that are described as unutilized or underutilized in surveys by the heads of landholding agencies under section 483(b)(2) of title 40. No later than 25 days after receiving a request from the Secretary, the head of each landholding agency shall transmit such information to the Secretary. No later than 30 days after receiving such information, the Secretary shall identify which of those buildings and other properties are suitable for use to assist the homeless.
+The Secretary of Housing and Urban Development shall, on a quarterly basis, request information from each landholding agency regarding Federal public buildings and other Federal real properties (including fixtures) that are excess property or surplus property or that are described as unutilized or underutilized in surveys by the heads of landholding agencies under section 524(a)(2) and (3) of title 40. No later than 25 days after receiving a request from the Secretary, the head of each landholding agency shall transmit such information to the Secretary. No later than 30 days after receiving such information, the Secretary shall identify which of those buildings and other properties are suitable for use to assist the homeless.
 
 #### (b) Availability of property
 
@@ -26,7 +26,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 &emsp;(i) in the case of property other than surplus property, for use to assist the homeless in accordance with the provisions of this section; and
 
-&emsp;(ii) in the case of surplus property, for use to assist the homeless either in accordance with this section or as a public health use in accordance with paragraphs (1) and (4) of section 484(k) of title 40.
+&emsp;(ii) in the case of surplus property, for use to assist the homeless either in accordance with this section or as a public health use in accordance with section 550(a)–(d) of title 40.
 
 (3) The Secretary shall maintain a written public record of—
 
@@ -78,7 +78,7 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 (3) Property that is reviewed by the Secretary under subsection (a) of this section and that is not identified by the Secretary as being suitable for use to assist the homeless may not be made available for any other purpose for 20 days after the determination of unsuitability to allow for review of the determination at the request of the representative of the homeless. The Secretary shall disseminate immediately this information to the regional offices of the Department of Housing and Urban Development and to the Interagency Council on the Homeless.
 
-(4)(A) Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) of this section may be filed at any time after the 60-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposal opportunities under section 484 of title 40, except as provided in subsection (f)(3)(A) of this section.
+(4)(A) Written notice of intent to apply for a property published under subsection (c)(1)(A)(ii) of this section may be filed at any time after the 60-day period described in paragraph (1) has expired. In such case, an application submitted pursuant to the notice may be approved for disposal for use to assist the homeless only if the property remains available for application for use to assist the homeless. If the property remains available, the use to assist the homeless shall be given priority of consideration over other competing disposal opportunities under sections 541–555 of title 40, except as provided in subsection (f)(3)(A) of this section.
 
 (B) Surplus property for which an application has been approved shall be assigned promptly to the Secretary of Health and Human Services for disposition in accordance with and subject to subsection (f) of this section.
 
@@ -92,15 +92,15 @@ The Secretary of Housing and Urban Development shall, on a quarterly basis, requ
 
 #### (f) Making property available to representatives of homeless
 
-(1) Subject to the provisions of this subsection, property for which the Secretary of Health and Human Services has approved an application under subsection (e) of this section shall be made promptly available by permit or lease, or by deed as a public health use under paragraphs (1) and (4) of section 484(k) of title 40, to the representative of the homeless that submitted the application.
+(1) Subject to the provisions of this subsection, property for which the Secretary of Health and Human Services has approved an application under subsection (e) of this section shall be made promptly available by permit or lease, or by deed as a public health use under section 550(a)–(d) of title 40, to the representative of the homeless that submitted the application.
 
 (2) Unutilized or underutilized property that is the subject of an agency's statement of intention under subsection (b)(1)(A)(ii) of this section shall be made promptly available by the appropriate landholding agency to the approved applicant by lease or permit for a term of not less than 1 year, unless the applicant requests a shorter term.
 
-(3)(A) In disposing of surplus property by deed or lease under section 484 of title 40, the Administrator and the Secretary of Health and Human Services shall give priority of consideration to uses to assist the homeless, unless the Administrator or the Secretary of Health and Human Services determines that a competing request for the property under section 484(k) of title 40 is so meritorious and compelling as to outweigh the needs of the homeless.
+(3)(A) In disposing of surplus property by deed or lease under sections 541–555 of title 40, the Administrator and the Secretary of Health and Human Services shall give priority of consideration to uses to assist the homeless, unless the Administrator or the Secretary of Health and Human Services determines that a competing request for the property under section 550 of title 40 is so meritorious and compelling as to outweigh the needs of the homeless.
 
 (B) Whenever the Administrator or the Secretary of Health and Human Services makes a determination under subparagraph (A), the Administrator or the Secretary of Health and Human Services shall transmit to the appropriate committees of the Congress an explanatory statement detailing the need satisfied by conveyance of the surplus property and the reasons for determining that such need was so meritorious and compelling as to outweigh the needs of the homeless.
 
-(4) For any property made available by lease to a representative of the homeless before November 29, 1990, the Secretary of Health and Human Services may, upon written request by the representative, convey such property by deed to the representative in accordance with, and subject to the requirements of, section 484(k) of title 40. The lease term shall not be affected if a deed is not granted.
+(4) For any property made available by lease to a representative of the homeless before November 29, 1990, the Secretary of Health and Human Services may, upon written request by the representative, convey such property by deed to the representative in accordance with, and subject to the requirements of, section 550 of title 40. The lease term shall not be affected if a deed is not granted.
 
 #### (g) Records
 
@@ -112,7 +112,7 @@ The Secretary shall maintain a written public record of—
 
 #### (h) Applicability to property under base closure process
 
-(1) The provisions of this section shall not apply to buildings and property at military installations that are approved for closure under the Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) after October 25, 1994.
+(1) The provisions of this section shall not apply to buildings and property at military installations that are approved for closure underthe Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note) after October 25, 1994.
 
 (2) For provisions relating to the use to assist the homeless of buildings and property located at certain military installations approved for closure under such Act, or under title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note), before October 25, 1994, see section 2(e) of Base Closure Community Redevelopment and Homeless Assistance Act of 1994.
 
@@ -122,7 +122,7 @@ For purposes of this section—
 
 &emsp;(1) the term “Administrator” means the Administrator of General Services;
 
-&emsp;(2) each of the terms “excess property” and “surplus property” has the meaning given that term under section 472 of title 40;
+&emsp;(2) each of the terms “excess property” and “surplus property” has the meaning given that term under section 102 of title 40;
 
 &emsp;(3) the term “landholding agency” means a Federal department or agency with statutory authority to control real property;
 
@@ -139,6 +139,10 @@ The Defense Base Closure and Realignment Act of 1990, referred to in subsec. (h)
 Title II of the Defense Authorization Amendments and Base Closure and Realignment Act, referred to in subsec. (h)(2), is title II of Pub. L. 100–526, Oct. 24, 1988, 102 Stat. 2627, as amended, which is set out as a note under section 2687 of Title 10. For complete classification of this Act to the Code, see Short Title of 1988 Amendment note set out under section 2687 of Title 10 and Tables.
 
 Section 2(e) of Base Closure Community Redevelopment and Homeless Assistance Act of 1994, referred to in subsec. (h)(2), is section 2(e) of Pub. L. 103–421, which is set out as a note under section 2687 of Title 10.
+
+#### Codification
+
+In subsec. (a), “section 524(a)(2) and (3) of title 40” substituted for “section 202(b)(2) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483(b)(2))”, in subsecs.(b)(2)(A)(ii) and (f)(1), “section 550(a)–(d) of title 40” substituted for “paragraphs (1) and (4) of section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k)(1) and (4))”, in subsecs. (d)(4)(A) and (f)(3)(A), “sections 541–555 of title 40” substituted for “section 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484)”, in subsec. (f)(3)(A), “section 550 of title 40” substituted for “section 203(k) of such Act”, meaning the Federal Property and Administrative Services Act of 1949, in subsec. (f)(4), “section 550 of title 40” substituted for “section 203(k) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484(k))”, and, in subsec. (i)(2), “section 102 of title 40” substituted for “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -182,7 +186,7 @@ Pub. L. 102–550, title XIV, §1411, Oct. 28, 1992, 106 Stat. 4039, provided th
 
 “(a)
 
-Use of Available Space at National Guard Facilities.—The Secretary of Housing and Urban Development shall consult with the chief executive officers of the States and the Secretary of Defense to determine the availability of space at National Guard facilities for use by homeless organizations in providing overnight shelter for homeless persons and families. The Secretary of Housing and Urban Development shall determine the availability of only such space that can be used for shelter purposes during periods it is not actively being used for National Guard purposes. The Secretary of Housing and Urban Development shall also determine the availability of incidental services at such facilities, including utilities, bedding, security, transportation, renovation of facilities, minor repairsundertaken specifically to make available space in a facility suitable for use as an overnight shelter for homeless individuals, and property liability insurance.
+Use of Available Space at National Guard Facilities.—The Secretary of Housing and Urban Development shall consult with the chief executive officers of the States and the Secretary of Defense to determine the availability of space at National Guard facilities for use by homeless organizations in providing overnight shelter for homeless persons and families. The Secretary of Housing and Urban Development shall determine the availability of only such space that can be used for shelter purposes during periods it is not actively being used for National Guard purposes. The Secretary of Housing and Urban Development shall also determine the availability of incidental services at such facilities, including utilities, bedding, security, transportation, renovation of facilities, minor repairs undertaken specifically to make available space in a facility suitable for use as an overnight shelter for homeless individuals, and property liability insurance.
 
 “(b)
 

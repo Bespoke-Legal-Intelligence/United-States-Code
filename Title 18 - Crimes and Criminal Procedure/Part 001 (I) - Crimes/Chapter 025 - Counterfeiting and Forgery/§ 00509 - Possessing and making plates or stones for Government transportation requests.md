@@ -28,5 +28,5 @@ Minor changes in phraseology were also made.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 3056 of this title.
+This section is referred to in section 3056 of this title.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 1 year after November 13, 2000, the Secretary, and such Administrators, Directors, or Commissioners, as may be appropriate, and in collaboration with State and local health officials, shall establish reasonable capacities that are appropriate for national, State, and local public health systems and the personnel or work forces of such systems. Such capacities shall be revised every 10 years, or more frequently as the Secretary determines to be necessary.
+&emsp;Not later than 1 year after November 13, 2000, the Secretary, and such Administrators, Directors, or Commissioners, as may be appropriate, and in collaboration with State and local health officials, shall establish reasonable capacities that are appropriate for national, State, and local public health systems and the personnel or work forces of such systems. Such capacities shall be revised every five years, or more frequently as the Secretary determines to be necessary.
 
 #### (2) Basis
 
@@ -32,9 +32,13 @@ The Secretary shall provide technical assistance to the States to assist such St
 
 There are authorized to be appropriated to carry out this section $4,000,000 for fiscal year 2001, and such sums as may be necessary for each subsequent fiscal year through 2006.
 
-(July 1, 1944, ch. 373, title III, §319A, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2316.)
+(July 1, 1944, ch. 373, title III, §319A, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2316; amended Pub. L. 107–188, title I, §111(1), June 12, 2002, 116 Stat. 611.)
+
+#### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–188 substituted “five years” for “10 years”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 247d–2, 247d–3, 247d–4 of this title.
+This section is referred to in sections 247d–2, 247d–3, 247d–4, 247d–7c, 300hh, 300hh–11 of this title.
 

@@ -2,7 +2,7 @@
 
 (a) An officer or employee of the United States Government or of the District of Columbia government violating section 1341(a) or 1342 of this title shall be subject to appropriate administrative discipline including, when circumstances warrant, suspension from duty without pay or removal from office.
 
-(b) An officer or employee who willfully uses or authorizes the use of a passenger motor vehicle or aircraft owned or leased by the United States Government (except for an official purpose authorized by section 1344 of this title) orotherwise violates section 1344 shall be suspended without pay by the head of the agency. The officer or employee shall be suspended for at least one month, and when circumstances warrant, for a longer period or summarily removed from office.
+(b) An officer or employee who willfully uses or authorizes the use of a passenger motor vehicle or aircraft owned or leased by the United States Government (except for an official purpose authorized by section 1344 of this title) or otherwise violates section 1344 shall be suspended without pay by the head of the agency. The officer or employee shall be suspended for at least one month, and when circumstances warrant, for a longer period or summarily removed from office.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 926.)
 
@@ -32,5 +32,5 @@ In subsection (b), the words “of the Government” and “from duty” are omi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 60a–2; title 5 sections 3374, 5306; title 22 sections 277d–3, 1461b, 3622; title 40 section 491; title 42 sections 2204, 2204a, 2210, 2295, 2394.
+This section is referred to in title 2 section 60a–2; title 5 sections 3374, 3704, 5306; title 22 sections 277d–3, 1461b, 3622; title 40 section 611; title 42 sections 2204, 2204a, 2210, 2295, 2394.
 

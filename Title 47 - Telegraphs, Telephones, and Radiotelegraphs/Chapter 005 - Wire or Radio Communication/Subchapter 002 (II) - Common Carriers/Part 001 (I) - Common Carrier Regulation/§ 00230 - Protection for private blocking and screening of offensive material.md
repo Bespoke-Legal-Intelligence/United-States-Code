@@ -114,7 +114,7 @@ Amendment by Pub. L. 105–277 effective 30 days after Oct. 21, 1998, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 223, 231 of this title; title 15 section 1127; title 18 sections 1462, 1465; title 27 section 122b.
+This section is referred to in sections 223, 231, 941 of this title; title 15 section 1127; title 18 sections 1462, 1465; title 27 section 122b.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subparagraph (A).”</i>
 

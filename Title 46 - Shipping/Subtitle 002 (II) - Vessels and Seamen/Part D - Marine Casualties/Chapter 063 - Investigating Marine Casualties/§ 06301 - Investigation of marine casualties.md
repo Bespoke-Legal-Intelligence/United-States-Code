@@ -8,7 +8,7 @@ The Secretary shall prescribe regulations for the immediate investigation of mar
 
 &emsp;(3) whether an act of misconduct, incompetence, negligence, unskillfulness, or willful violation of law committed by any person, including an officer, employee, or member of the Coast Guard, contributed to the cause of the casualty, or to a death involved in the casualty;
 
-&emsp;(4) whether there is evidence that an act subjecting the offender to a civil penalty under the laws of the United States has been committed, so that appropriate action may be undertaken to collect the penalty;
+&emsp;(4) whether there is evidence that an act subjecting the offender to a civil penalty underthe laws of the United States has been committed, so that appropriate action may be undertaken to collect the penalty;
 
 &emsp;(5) whether there is evidence that a criminal act under the laws of the United States has been committed, so that the matter may be referred to appropriate authorities for prosecution; and
 
@@ -31,6 +31,10 @@ Section 6301 requires the Secretary to prescribe regulations for the immediate i
 #### Construction
 
 Section 2(h) of Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 599, provided that: “Chapter 63 of title 46 (as enacted by section 1 of this Act) does not supersede section 304(a)(1)(E) of the Independent Safety Board Act of 1974 (49 App. U.S.C. 1903(a)(1)(E)) \[see 49 U.S.C. 1131(a)(1)(E), (b)\].”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

@@ -24,7 +24,7 @@ Subsec. (c). Pub. L. 95–204, §103(2), substituted “$3,080” for “$2,890�
 
 Subsec. (c). Pub. L. 94–432, §204(2), substituted “$2,890” for “$2,700”.
 
-1975—Subsec. (a). Pub. L. 94–169, §§101(2)(D), 104(1), substituted “surviving spouse” for “widow”, struck out“his” before “death,” and, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, substituted “$53” for “$49” and “$22” for “$20”.
+1975—Subsec. (a). Pub. L. 94–169, §§101(2)(D), 104(1), substituted “surviving spouse” for “widow”, struck out “his” before “death,” and, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, substituted “$53” for “$49” and “$22” for “$20”.
 
 Subsec. (c). Pub. L. 94–169, §104, substituted, effective for period beginning Jan. 1, 1976, and ending Sept. 30, 1976, “$2700” for “$2400”.
 

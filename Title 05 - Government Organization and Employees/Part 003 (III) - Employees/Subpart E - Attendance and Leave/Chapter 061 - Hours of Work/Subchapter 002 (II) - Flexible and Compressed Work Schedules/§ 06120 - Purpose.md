@@ -6,7 +6,7 @@ The Congress finds that the use of flexible and compressed work schedules has th
 
 #### Telecommuting in Executive Agencies
 
-Pub. L. 106–346, §101(a) \[title III, §359\], Oct. 23, 2000, 114 Stat. 1356, 1356A–36, provided that: “Each executive agency shall establish a policy under which eligible employees of the agency may participate in telecommuting to the maximum extent possible without diminished employee performance. Not later than 6 months after the date of the enactment of this Act \[Oct. 23, 2000\], the Director of the Office of Personnel Management shall provide that the requirements of this section are applied to 25 percent of the Federal workforce, and to an additional 25 percent of such workforce each year thereafter.”
+Pub. L. 106–346, §101(a) \[title III, §359\], Oct. 23, 2000, 114 Stat. 1356, 1356A–36, provided that: “Each executiveagency shall establish a policy under which eligible employees of the agency may participate in telecommuting to the maximum extent possible without diminished employee performance. Not later than 6 months after the date of the enactment of this Act \[Oct. 23, 2000\], the Director of the Office of Personnel Management shall provide that the requirements of this section are applied to 25 percent of the Federal workforce, and to an additional 25 percent of such workforce each year thereafter.”
 
 #### Expanding Family-Friendly Work Arrangements in Executive Branch
 

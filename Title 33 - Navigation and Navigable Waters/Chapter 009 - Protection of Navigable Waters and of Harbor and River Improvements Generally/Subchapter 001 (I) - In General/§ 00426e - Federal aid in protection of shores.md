@@ -20,7 +20,7 @@ Shores other than public will be eligible for Federal assistance if there is ben
 
 #### (1) In general
 
-&emsp;No Federal contributions shall be made with respect to a project under sections 426e to 426h–1 of this title unless the plan therefor shall have been specifically adopted and authorized by Congress after investigation and study by the Coastal Engineering Research Center under the provisions of section 426 of this title as amended and supplemented, or, in the case of a small project under section 426g or 426h of this title, unless the plan therefor has been approved by the Chief of Engineers.
+&emsp;No Federal contributions shall be made with respect to a project under sections 426e to 426h–1 of this title unless the plan therefor shall have been specifically adopted and authorized by Congress after investigation and study by the Coastal Engineering ResearchCenter under the provisions of section 426 of this title as amended and supplemented, or, in the case of a small project under section 426g or 426h of this title, unless the plan therefor has been approved by the Chief of Engineers.
 
 #### (2) Studies
 
@@ -42,7 +42,7 @@ Shores other than public will be eligible for Federal assistance if there is ben
 
 #### (ii) Considerations
 
-&emsp;&emsp;&emsp;In making recommendations, the Secretary shall consider the economic andecological benefits of the shore protection project.
+&emsp;&emsp;&emsp;In making recommendations, the Secretary shall consider the economic and ecological benefits of the shore protection project.
 
 #### (C) Coordination of projects
 

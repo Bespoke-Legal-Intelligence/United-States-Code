@@ -2,7 +2,7 @@
 
 When title to all or any of the following-described lands on the island of Hawaii, in the Territory of Hawaii, shall be vested in the United States, such lands shall be, and the same are, added to and made a part of the Hawaii National Park:
 
-Kalapana extension (being portions of the lands of Kahaualea, Panaunui, and Apua and all of the lands of Poupou, Pulama, Kamoamoa, Laeapuki, Panauiki, Kealakomo, and Kahue, in the district of Puna, and portion of the land of Keauhou, in the district of Kau): Beginning at the United States National Ocean Survey triangulation station Kupapau (marked by a survey tablet set in large rock), the true azimuth and distance from said point of beginning to the United States National Ocean Survey triangulation station Hakuma (marked by a United States National Ocean Survey tablet set in smooth lava outcrop and surrounded by a circular patch of cement near edge of sea pali) being two hundred and forty-four degrees forty minutes and fifty seconds exactly fourteen thousand four hundred and thirteen feet and running as follows, all azimuths being measured clockwise from true south (note azimuths of courses 1 to 4, inclusive, are referred to Hakuma meridian):
+Kalapana extension (being portions of the lands of Kahaualea, Panaunui, and Apua and all of the lands of Poupou, Pulama, Kamoamoa, Laeapuki, Panauiki, Kealakomo, and Kahue, in the district of Puna, and portion of the land of Keauhou, in the district of Kau): Beginning at the United States National Ocean Survey triangulation station Kupapau (marked by a survey tablet set in large rock), the true azimuth and distance from said point of beginning to the United States National Ocean Survey triangulation station Hakuma (marked by a United States National Ocean Survey tablet set in smooth lava outcrop and surrounded by a circular patch of cement near edge of sea pali) being two hundred and forty-four degrees fortyminutes and fifty seconds exactly fourteen thousand four hundred and thirteen feet and running as follows, all azimuths being measured clockwise from true south (note azimuths of courses 1 to 4, inclusive, are referred to Hakuma meridian):
 
 Along the seacoast at high-water mark, in a general southwesterly direction for the first five courses, the true azimuths and distances between points on said seacoast being—
 
@@ -60,7 +60,7 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 1\. Three hundred and forty-six degrees and twenty minutes exactly fourteen thousand two hundred and fifty-eight feet along Hawaii National Park, Kilauea section, as described in Governor's Executive Order 86;
 
-2\. Fifty degrees and twenty-five minutes exactly twenty-seven thousand six hundred and fifteen feet along Hawaii National Park, Kilauea section, as described in Governor's Executive Order 81, thence along the remainder of the Government land of Kapapala to the point of beginning as follows:
+2\. Fifty degrees and twenty-five minutes exactly twenty-seven thousand six hundred andfifteen feet along Hawaii National Park, Kilauea section, as described in Governor's Executive Order 81, thence along the remainder of the Government land of Kapapala to the point of beginning as follows:
 
 3\. One hundred and ninety-one degrees no minutes and twenty seconds thirteen thousand five hundred and forty-four and five-tenths feet to a pipe at fence corner a little southwest of the old halfway house and about twenty feet southeast of the edge of the Government main road;
 
@@ -86,7 +86,7 @@ Footprint extension: Beginning at the northeast corner of this tract of land, at
 
 14\. Two hundred and twenty-two degrees and fifty-three minutes exactly two hundred and forty feet along fence to a spike in stone pile;
 
-15\. Two hundred and twenty-five degrees and forty-six minutes three hundred and forty andsix-tenths feet to the point of beginning and containing an area of five thousand seven hundred and thirty acres, more or less; and, in addition, any lands adjacent or contiguous to the Hawaii National Park as extended which, in the discretion of the Secretary of the Interior, are necessary for the proper rounding out of the boundaries of the park. Land (including the land depicted on the map entitled “NPS–PAC 1997HW”) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.
+15\. Two hundred and twenty-five degrees and forty-six minutes three hundred and forty and six-tenths feet to the point of beginning and containing an area of five thousand seven hundred and thirty acres, more or less; and, in addition, any lands adjacent or contiguous to the Hawaii National Park as extended which, in the discretion of the Secretary of the Interior, are necessary for the proper rounding out of the boundaries of the park. Land (including the land depicted on the map entitled “NPS–PAC 1997HW”) may be acquired by the Secretary through donation, exchange, or purchase with donated or appropriated funds.
 
 (June 20, 1938, ch. 530, §1, 52 Stat. 781; Pub. L. 105–380, §2, Nov. 12, 1998, 112 Stat. 3401; Pub. L. 106–510, §2, Nov. 13, 2000, 114 Stat. 2363.)
 

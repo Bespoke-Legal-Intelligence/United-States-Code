@@ -56,7 +56,7 @@ In addition to assistance for planning projects, the Secretary may provide finan
 
 (2) Payments for all projects shall be made by the Secretary to the Governor of the State or to a State official or agency designated by the Governor or by State law having authority and responsibility to accept and to administer funds paid hereunder for approved projects. If consistent with an approved project, funds may be transferred by the State to a political subdivision or other appropriate public agency.
 
-(3) No property acquired or developed with assistance under this section shall, without the approval of the Secretary, be converted to other than public outdoor recreation uses. The Secretary shall approve such conversion only if he finds it to be in accord with the then existing comprehensive statewide outdoor recreation plan and only upon such conditions as he deems necessary to assure the substitution of other recreation properties of at least equal fair market value and of reasonably equivalent usefulness and location.: <sup>2</sup> <i>Provided</i>, That wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan and proposed to be acquired as suitable replacement property within that same State that isotherwise acceptable to the Secretary, acting through the Director of the National Park Service, shall be considered to be of reasonably equivalent usefulness with the property proposed for conversion.
+(3) No property acquired or developed with assistance under this section shall, without the approval of the Secretary, be converted to other than public outdoor recreation uses. The Secretary shall approve such conversion only if he finds it to be in accord with the then existing comprehensive statewide outdoor recreation plan and only upon such conditions as he deems necessary to assure the substitution of other recreation properties of at least equal fair market value and of reasonably equivalent usefulness and location.: <sup>2</sup> <i>Provided</i>, That wetland areas and interests therein as identified in the wetlands provisions of the comprehensive plan and proposed to be acquired as suitable replacement property within that same State that is otherwise acceptable to the Secretary, acting through the Director of the National Park Service, shall be considered to be of reasonably equivalent usefulness with the property proposed for conversion.
 
 (4) No payment shall be made to any State until the State has agreed to (1) provide such reports to the Secretary, in such form and containing such information, as may be reasonably necessary to enable the Secretary to perform his duties under this part, and (2) provide such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting for Federal funds paid to the State under this part.
 
@@ -70,7 +70,7 @@ In addition to assistance for planning projects, the Secretary may provide finan
 
 #### (g) Coordination with Federal agencies
 
-In order to assure consistency in policies and actions under this part with other related Federal programs and activities (including those conducted pursuant to title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\] and section 701 <sup>3</sup> of the Housing Act of 1954 \[40 U.S.C. 461\]) and to assure coordination of the planning, acquisition, and development assistance to States under this section with other related Federal programs and activities, the President may issue such regulations with respect thereto as he deems desirable and such assistance may be provided only in accordance with such regulations.
+In order to assure consistency in policies and actions under this part with other related Federal programs and activities (including those conducted pursuant to title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\] and section 701 <sup>3</sup> of the Housing Act of 1954) and to assure coordination of the planning, acquisition, and development assistance to States under this section with other related Federal programs and activities, the President may issue such regulations with respect thereto as he deems desirable and such assistance may be provided only in accordance with such regulations.
 
 #### (h) Capital improvement and other projects to reduce crime
 
@@ -100,7 +100,7 @@ In order to assure consistency in policies and actions under this part with othe
 
 The Housing Act of 1961, referred to in subsec. (g), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149, as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 5316 of Title 42 which terminated authority to make grants or loans under title VII of that Act after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title of 1961 Amendment note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
-Section 701 of the Housing Act of 1954, referred to in subsec. (g), was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
+Section 701 of the Housing Act of 1954, referred to in subsec. (g), is section 701 of act Aug. 2, 1954, ch. 649, title VII, 68 Stat. 640, as amended, which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
 
 #### Prior Provisions
 
@@ -156,7 +156,7 @@ Ex. Ord. No. 11237, July 27, 1965, 30 F.R. 9433, which related to coordinating p
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460<i>l</i>–17, 1250, 1282 of this title; title 23 section 206; title 42 section 3338.
+This section is referred to in sections 460<i>l</i>–17, 469k, 1250, 1282 of this title; title 23 section 206; title 42 section 3338.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

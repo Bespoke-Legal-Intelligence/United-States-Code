@@ -8,119 +8,19 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (1) In general
 
-&emsp;The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title in not more than the following amounts:
+&emsp;The Secretary may make or guarantee loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for not more than $3,796,000,000 for each of fiscal years 2003 through 2007, of which, for each fiscal year—
 
-#### (A) Fiscal year 1996
+&emsp;&emsp;(A) $770,000,000 shall be for direct loans, of which—
 
-&emsp;&emsp;For fiscal year 1996, $3,085,000,000, of which—
+&emsp;&emsp;&emsp;(i) $205,000,000 shall be for farm ownership loans under subchapter I of this chapter; and
 
-&emsp;&emsp;&emsp;(i) $585,000,000 shall be for direct loans, of which—
+&emsp;&emsp;&emsp;(ii) $565,000,000 shall be for operating loans under subchapter II of this chapter; and
 
-&emsp;&emsp;&emsp;&emsp;(I) $85,000,000 shall be for farm ownership loans under subchapter I of this chapter; and
+&emsp;&emsp;(B) $3,026,000,000 shall be for guaranteed loans, of which—
 
-&emsp;&emsp;&emsp;&emsp;(II) $500,000,000 shall be for operating loans under subchapter II of this chapter; and
+&emsp;&emsp;&emsp;(i) $1,000,000,000 shall be for guarantees of farm ownership loans under subchapter I of this chapter; and
 
-&emsp;&emsp;&emsp;(ii) $2,500,000,000 shall be for guaranteed loans, of which—
-
-&emsp;&emsp;&emsp;&emsp;(I) $600,000,000 shall be for guarantees of farm ownership loans under subchapter I of this chapter; and
-
-&emsp;&emsp;&emsp;&emsp;(II) $1,900,000,000 shall be for guarantees of operating loans under subchapter II of this chapter.
-
-#### (B) Fiscal year 1997
-
-&emsp;&emsp;For fiscal year 1997, $3,165,000,000, of which—
-
-&emsp;&emsp;&emsp;(i) $585,000,000 shall be for direct loans, of which—
-
-&emsp;&emsp;&emsp;&emsp;(I) $85,000,000 shall be for farm ownership loans under subchapter I of this chapter; and
-
-&emsp;&emsp;&emsp;&emsp;(II) $500,000,000 shall be for operating loans under subchapter II of this chapter; and
-
-&emsp;&emsp;&emsp;(ii) $2,580,000,000 shall be for guaranteed loans, of which—
-
-&emsp;&emsp;&emsp;&emsp;(I) $630,000,000 shall be for guarantees of farm ownership loans under subchapter I of this chapter; and
-
-&emsp;&emsp;&emsp;&emsp;(II) $1,950,000,000 shall be for guarantees of operating loans under subchapter II of this chapter.
-
-#### (C) Fiscal year 1998
-
-&emsp;&emsp;For fiscal year 1998, $3,245,000,000, of which—
-
-&emsp;&emsp;&emsp;(i) $585,000,000 shall be for direct loans, of which—
-
-&emsp;&emsp;&emsp;&emsp;(I) $85,000,000 shall be for farm ownership loans under subchapter I of this chapter; and
-
-&emsp;&emsp;&emsp;&emsp;(II) $500,000,000 shall be for operating loans under subchapter II of this chapter; and
-
-&emsp;&emsp;&emsp;(ii) $2,660,000,000 shall be for guaranteed loans, of which—
-
-&emsp;&emsp;&emsp;&emsp;(I) $660,000,000 shall be for guarantees of farm ownership loans under subchapter I of this chapter; and
-
-&emsp;&emsp;&emsp;&emsp;(II) $2,000,000,000 shall be for guarantees of operating loans under subchapter II of this chapter.
-
-#### (D) Fiscal year 1999
-
-&emsp;&emsp;For fiscal year 1999, $3,325,000,000, of which—
-
-&emsp;&emsp;&emsp;(i) $585,000,000 shall be for direct loans, of which—
-
-&emsp;&emsp;&emsp;&emsp;(I) $85,000,000 shall be for farm ownership loans under subchapter I of this chapter; and
-
-&emsp;&emsp;&emsp;&emsp;(II) $500,000,000 shall be for operating loans under subchapter II of this chapter; and
-
-&emsp;&emsp;&emsp;(ii) $2,740,000,000 shall be for guaranteed loans, of which—
-
-&emsp;&emsp;&emsp;&emsp;(I) $690,000,000 shall be for guarantees of farm ownership loans under subchapter I of this chapter; and
-
-&emsp;&emsp;&emsp;&emsp;(II) $2,050,000,000 shall be for guarantees of operating loans under subchapter II of this chapter.
-
-#### (E) Fiscal year 2000
-
-&emsp;&emsp;For fiscal year 2000, $3,435,000,000, of which—
-
-&emsp;&emsp;&emsp;(i) $585,000,000 shall be for direct loans, of which—
-
-&emsp;&emsp;&emsp;&emsp;(I) $85,000,000 shall be for farm ownership loans under subchapter I of this chapter; and
-
-&emsp;&emsp;&emsp;&emsp;(II) $500,000,000 shall be for operating loans under subchapter II of this chapter; and
-
-&emsp;&emsp;&emsp;(ii) $2,850,000,000 shall be for guaranteed loans, of which—
-
-&emsp;&emsp;&emsp;&emsp;(I) $750,000,000 shall be for guarantees of farm ownership loans under subchapter I of this chapter; and
-
-&emsp;&emsp;&emsp;&emsp;(II) $2,100,000,000 shall be for guarantees of operating loans under subchapter II of this chapter.
-
-#### (F) Fiscal year 2001
-
-&emsp;&emsp;For fiscal year 2001, $3,435,000,000, of which—
-
-&emsp;&emsp;&emsp;(i) $585,000,000 shall be for direct loans, of which—
-
-&emsp;&emsp;&emsp;&emsp;(I) $85,000,000 shall be for farm ownership loans under subchapter I of this chapter; and
-
-&emsp;&emsp;&emsp;&emsp;(II) $500,000,000 shall be for operating loans under subchapter II of this chapter; and
-
-&emsp;&emsp;&emsp;(ii) $2,850,000,000 shall be for guaranteed loans, of which—
-
-&emsp;&emsp;&emsp;&emsp;(I) $750,000,000 shall be for guarantees of farm ownership loans under subchapter I of this chapter; and
-
-&emsp;&emsp;&emsp;&emsp;(II) $2,100,000,000 shall be for guarantees of operating loans under subchapter II of this chapter.
-
-#### (G) Fiscal year 2002
-
-&emsp;&emsp;For fiscal year 2002, $3,435,000,000, of which—
-
-&emsp;&emsp;&emsp;(i) $585,000,000 shall be for direct loans, of which—
-
-&emsp;&emsp;&emsp;&emsp;(I) $85,000,000 shall be for farm ownership loans under subchapter I of this chapter; and
-
-&emsp;&emsp;&emsp;&emsp;(II) $500,000,000 shall be for operating loans under subchapter II of this chapter; and
-
-&emsp;&emsp;&emsp;(ii) $2,850,000,000 shall be for guaranteed loans, of which—
-
-&emsp;&emsp;&emsp;&emsp;(I) $750,000,000 shall be for guarantees of farm ownership loans under subchapter I of this chapter; and
-
-&emsp;&emsp;&emsp;&emsp;(II) $2,100,000,000 shall be for guarantees of operating loans under subchapter II of this chapter.
+&emsp;&emsp;&emsp;(ii) $2,026,000,000 shall be for guarantees of operating loans under subchapter II of this chapter.
 
 #### (2) Beginning farmers and ranchers
 
@@ -134,7 +34,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (II) Down payment loans
 
-&emsp;&emsp;&emsp;&emsp;Of the amounts reserved for a fiscal year under subclause (I), the Secretaryshall reserve 60 percent for the down payment loan program under section 1935 of this title until April 1 of the fiscal year.
+&emsp;&emsp;&emsp;&emsp;Of the amounts reserved for a fiscal year under subclause (I), the Secretary shall reserve 60 percent for the down payment loan program under section 1935 of this title until April 1 of the fiscal year.
 
 #### (ii) Operating loans
 
@@ -144,7 +44,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 &emsp;&emsp;&emsp;&emsp;(II) for fiscal year 1999, 30 percent; and
 
-&emsp;&emsp;&emsp;&emsp;(III) for each of fiscal years 2000 through 2002, 35 percent.
+&emsp;&emsp;&emsp;&emsp;(III) for each of fiscal years 2003 through 2007, 35 percent.
 
 #### (iii) Funds reserved until September 1
 
@@ -186,7 +86,7 @@ Effective October 1, 1979, the aggregate principal amount of loans under the pro
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding subsection (a) of this section, subject to subparagraphs (B) and (C), beginning on September 1 of each fiscal year, the Secretary may use available funds made available under subchapter III of this chapter for the fiscal year to fund the credit sale of farm real estate in the inventory of the Secretary.
+&emsp;&emsp;Notwithstanding subsection (a) of this section, subject to subparagraphs (B) and (C), beginning on September 1 of each fiscalyear, the Secretary may use available funds made available under subchapter III of this chapter for the fiscal year to fund the credit sale of farm real estate in the inventory of the Secretary.
 
 #### (B) Supplemental appropriations
 
@@ -206,13 +106,17 @@ The Secretary shall develop long-term cost projections for loan program authoriz
 
 (2) The Secretary shall provide notification to farm borrowers under this chapter, as soon as practicable after April 10, 1984, and in the normal course of loan making and loan servicing operations, of the provisions of this chapter relating to low-income, limited-resource borrowers and the procedures by which persons may apply for loans under the low-income, limited-resource borrower program.
 
-(Pub. L. 87–128, title III, §346, as added Pub. L. 95–334, title I, §125, Aug. 4, 1978, 92 Stat. 428; amended Pub. L. 96–438, §4, Oct. 13, 1980, 94 Stat. 1876; Pub. L. 97–35, title I, §164, Aug. 13, 1981, 95 Stat. 379; Pub. L. 98–258, title VI, §607, Apr. 10, 1984, 98 Stat. 140; Pub. L. 99–198, title XIII, §1317, Dec. 23, 1985, 99 Stat. 1529; Pub. L. 101–508, title I, §1202(a), Nov. 5, 1990, 104 Stat. 1388–9; Pub. L. 101–624, title XXIII, §2388(i), Nov. 28, 1990, 104 Stat. 4053; Pub. L. 102–237, title VII, §§701(h)(1)(F), 702(i), Dec. 13, 1991, 105 Stat. 1880, 1881; Pub. L. 102–554, §20, Oct. 28, 1992, 106 Stat. 4159; Pub. L. 104–127, title VI, §641, Apr. 4, 1996, 110 Stat. 1098.)
+(Pub. L. 87–128, title III, §346, as added Pub. L. 95–334, title I, §125, Aug. 4, 1978, 92 Stat. 428; amended Pub. L. 96–438, §4, Oct. 13, 1980, 94 Stat. 1876; Pub. L. 97–35, title I, §164, Aug. 13, 1981, 95 Stat. 379; Pub. L. 98–258, title VI, §607, Apr. 10, 1984, 98 Stat. 140; Pub. L. 99–198, title XIII, §1317, Dec. 23, 1985, 99 Stat. 1529; Pub. L. 101–508, title I, §1202(a), Nov. 5, 1990, 104 Stat. 1388–9; Pub. L. 101–624, title XXIII, §2388(i), Nov. 28, 1990, 104 Stat. 4053; Pub. L. 102–237, title VII, §§701(h)(1)(F), 702(i), Dec. 13, 1991, 105 Stat. 1880, 1881; Pub. L. 102–554, §20, Oct. 28, 1992, 106 Stat. 4159; Pub. L. 104–127, title VI, §641, Apr. 4, 1996, 110 Stat. 1098; Pub. L. 107–171, title V, §§5311, 5312, May 13, 2002, 116 Stat. 346, 347.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (a) and (d)(2), see note set out under section 1921 of this title.
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–171, §5311, reenacted heading without change and amended text generally. Prior to amendment, text related to guaranteed loans under subchapters I and II of this chapter from the Agricultural Credit Insurance Fund provided for in section 1929 of this title for fiscal years 1996 to 2002.
+
+Subsec. (b)(2)(A)(ii)(III). Pub. L. 107–171, §5312, substituted “2003 through 2007” for “2000 through 2002”.
 
 1996—Subsec. (a). Pub. L. 104–127, §641(1), in second sentence, struck out “with or without authority for the Secretary to transfer amounts between such categories within a given program for more effective administration” before period at end.
 
@@ -257,6 +161,10 @@ Section 702(i) of Pub. L. 102–237 provided that: “Subsection (i) of section 
 #### Nullification of Reservation of Funds During Fiscal Year 1999 for Guaranteed Loans for Qualified Beginning Farmers and Ranchers
 
 Pub. L. 106–2, §1, Mar. 15, 1999, 113 Stat. 5, provided that: “Amounts shall be made available pursuant to section 346(b)(1)(D) of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1994(b)(1)(D)\] for guaranteed loans, without regard to any reservation under section 346(b)(2)(B) of such Act.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1923 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

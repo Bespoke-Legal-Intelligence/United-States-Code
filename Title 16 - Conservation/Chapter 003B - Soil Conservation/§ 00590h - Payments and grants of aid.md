@@ -6,7 +6,7 @@
 
 #### (1) Environmental quality incentives program
 
-&emsp;The Secretary shall provide technical assistance, cost-share payments, and incentive payments to operators through the environmental quality incentives program in accordance withchapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\].
+&emsp;The Secretary shall provide technical assistance, cost-share payments, and incentive payments to operators through the environmental quality incentives program in accordance with chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\].
 
 #### (2) to (4) Repealed. Pub. L. 104–127, title III, §336(a)(1)(A)(i)(I), Apr. 4, 1996, 110 Stat. 1004
 
@@ -16,17 +16,109 @@
 
 &emsp;&emsp;The Secretary shall appoint in each State a State committee composed of not fewer than 3 nor more than 5 members who are fairly representative of the farmers in the State. The members of a State committee shall serve at the pleasure of the Secretary for such term as the Secretary may establish.
 
-#### (B) Establishment of county, area, or local committees
+#### (B) Establishment and elections for county, area, or local committees
 
-&emsp;&emsp;(i) In each county or area in which activities are carried out under this section, the Secretary shall establish a county or area committee.
+#### (i) Establishment
 
-&emsp;&emsp;(ii) Any such committee shall consist of not fewer than 3 nor more than 5 members who are fairly representative of the agricultural producers in the county or area and who shall be elected by the agricultural producers in such county or area under such procedures as the Secretary may prescribe.
+#### (I) In general
 
-&emsp;&emsp;(iii) The Secretary may designate local administrative areas within the county or larger area covered by a committee established under clause (i). Only agricultural producers within a local administrative area who participate or cooperate in programs administered within their area shall be eligible for nomination and election to the local committee for that area, under such regulations as the Secretary may prescribe.
+&emsp;&emsp;&emsp;&emsp;In each county or area in which activities are carried out under this section, the Secretary shall establish a county or area committee.
 
-&emsp;&emsp;(iv) The Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e)(1)).
+#### (II) Local administrative areas
 
-&emsp;&emsp;(v) Members of each county, area, or local committee shall serve for terms not to exceed 3 years.
+&emsp;&emsp;&emsp;&emsp;The Secretary may designate local administrative areas within a county or a larger area under the jurisdiction of a committee established under subclause (I).
+
+#### (ii) Composition of county, area, or local committees
+
+&emsp;&emsp;&emsp;A committee established under clause (i) shall consist of not fewer than 3 nor more than 5 members that—
+
+&emsp;&emsp;&emsp;&emsp;(I) are fairly representative of the agricultural producers within the area covered by the county, area, or local committee; and
+
+&emsp;&emsp;&emsp;&emsp;(II) are elected by the agricultural producers that participate or cooperate in programs administered within the area under the jurisdiction of the county, area, or local committee.
+
+#### (iii) Elections
+
+#### (I) In general
+
+&emsp;&emsp;&emsp;&emsp;Subject to subclauses (II) through (V), the Secretary shall establish procedures for nominations and elections to county, area, or local committees.
+
+#### (II) Nondiscrimination statement
+
+&emsp;&emsp;&emsp;&emsp;Each solicitation of nominations for, and notice of elections of, a county, area, or local committee shall include the nondiscrimination statement used by the Secretary.
+
+#### (III) Nominations
+
+#### (aa) Eligibility
+
+&emsp;&emsp;&emsp;&emsp;&emsp;To be eligible for nomination and election to the applicable county, area, or local committee, as determined by the Secretary, an agricultural producer shall be located within the areaunder the jurisdiction of a county, area, or local committee, and participate or cooperate in programs administered within that area.
+
+#### (bb) Outreach
+
+&emsp;&emsp;&emsp;&emsp;&emsp;In addition to such nominating procedures as the Secretary may prescribe, the Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e)(1)).<sup>1</sup>
+
+#### (IV) Opening of ballots
+
+#### (aa) Public notice
+
+&emsp;&emsp;&emsp;&emsp;&emsp;At least 10 days before the date on which ballots are to be opened and counted, a county, area, or local committee shall announce the date, time, and place at which election ballots will be opened and counted.
+
+#### (bb) Opening of ballots
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Election ballots shall not be opened until the date and time announced under item (aa).
+
+#### (cc) Observation
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Any person may observe the opening and counting of the election ballots.
+
+#### (V) Report of election
+
+&emsp;&emsp;&emsp;&emsp;Not later than 20 days after the date on which an election is held, a county, area, or local committee shall file an election report with the Secretary and the State office of the Farm Service Agency that includes—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) the number of eligible voters in the area covered by the county, area, or local committee;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) the number of ballots cast in the election by eligible voters (including the percentage of eligible voters that cast ballots);
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(cc) the number of ballots disqualified in the election;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(dd) the percentage that the number of ballots disqualified is of the number of ballots received;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ee) the number of nominees for each seat up for election;
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(ff) the race, ethnicity, and gender of each nominee, as provided through the voluntary self-identification of each nominee; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(gg) the final election results (including the number of ballots received by each nominee).
+
+#### (VI) National report
+
+&emsp;&emsp;&emsp;&emsp;Not later than 90 days after the date on which the first election of a county, area, or local committee that occurs after May 13, 2002, is held, the Secretary shall complete a report that consolidates all the election data reported to the Secretary under subclause (V).
+
+#### (VII) Election reform
+
+#### (aa) Analysis
+
+&emsp;&emsp;&emsp;&emsp;&emsp;If determined necessary by the Secretary after analyzing the data contained in the report under subclause (VI), the Secretary shall promulgate and publish in the Federal Register proposed uniform guidelines for conducting elections for members and alternate members of county, area, and local committees not later than 1 year after the date of completion of the report.
+
+#### (bb) Inclusion
+
+&emsp;&emsp;&emsp;&emsp;&emsp;The procedures promulgated by the Secretary under item (aa) shall ensure fair representation of socially disadvantaged groups described in subclause (III)(bb) in an area covered by the county, area, or local committee, in cases in which those groups are underrepresented on the county, area, or local committee for that area.
+
+#### (cc) Methods of inclusion
+
+&emsp;&emsp;&emsp;&emsp;&emsp;Notwithstanding clause (ii), the Secretary may ensure inclusion of socially disadvantaged farmers and ranchers through provisions allowing for appointment of 1 additional voting member to a county, area, or local committee or through other methods.
+
+#### (iv) Term of office
+
+&emsp;&emsp;&emsp;The term of office for a member of a county, area, or local committee shall not exceed 3 years.
+
+#### (v) Public availability and report to Congress
+
+#### (I) Public disclosure
+
+&emsp;&emsp;&emsp;&emsp;The Secretary shall maintain and make readily available to the public, via website and otherwise in electronic and paper form, all data required to be collected and computed under section 2279–1(c) of title 7 and clause (iii)(V) collected annually since the most recent Census of Agriculture.
+
+#### (II) Report to Congress
+
+&emsp;&emsp;&emsp;&emsp;After each Census of Agriculture, the Secretary shall report to Congress the rate of loss or gain in participation by each socially disadvantaged group, by race, ethnicity, and gender, since the previous Census.
 
 #### (C) Termination or combination of committees
 
@@ -72,7 +164,7 @@
 
 (1) In apportioning acreage allotments under this section in the case of wheat and corn, the National and State allotments and the allotments to counties shall be apportioned annually on the basis of the acreage seeded for the production of the commodity during the ten calendar years immediately preceding the calendar year in which the national acreage allotment is determined (plus, in applicable years, the acreage diverted under previous agricultural adjustment and conservation programs), with adjustments for abnormal weather conditions and trends in acreage during the applicable period.
 
-(2) In the case of wheat, the allotment to any county shall be apportioned annually by theSecretary, through the local committees, among the farms within such county on the basis of tillable acres, crop-rotation practices, type of soil, and topography. Not more than 3 per centum of such county allotment shall be apportioned to farms on which wheat has not been planted during any of the three marketing years immediately preceding the marketing year in which the allotment is made. Notwithstanding any other provision of this section, the allotments established, or which would have been established, for any farm acquired in 1940 or thereafter by the United States for national-defense purposes shall be placed in an allotment pool and shall be used only to establish allotments for other farms owned or acquired by the owner of the farm so acquired by the United States. The allotments so made for any farm, including a farm on which wheat has not been planted during any of the three marketing years preceding the marketing year in which the allotment is made, shall compare with the allotments established for other farms in the same area which are similar except for the past acreage of wheat.
+(2) In the case of wheat, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acres, crop-rotation practices, type of soil, and topography. Not more than 3 per centum of such county allotment shall be apportioned to farms on which wheat has not been planted during any of the three marketing years immediately preceding the marketing year in which the allotment is made. Notwithstanding any other provision of this section, the allotments established, or which would have been established, for any farm acquired in 1940 or thereafter by the United States for national-defense purposes shall be placed in an allotment pool and shall be used only to establish allotments for other farms owned or acquired by the owner of the farm so acquired by the United States. The allotments so made for any farm, including a farm on which wheat has not been planted during any of the three marketing years preceding the marketing year in which the allotment is made, shall compare with the allotments established for other farms in the same area which are similar except for the past acreage of wheat.
 
 (3) In the case of corn, the allotment to any county shall be apportioned annually by the Secretary, through the local committees, among the farms within such county on the basis of tillable acreage, type of soil, topography, and crop rotation practices.
 
@@ -88,7 +180,7 @@
 
 A payment that may be made to a producer under this section may be assigned only in accordance with regulations issued by the Secretary. This subsection shall not authorize any suit against or impose any liability on the Secretary, any disbursing agent, or any agency of the United States if payment is made to the producer without regard to the existence of any such assignment.
 
-(Apr. 27, 1935, ch. 85, §8, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1149; amended June 28, 1937, ch. 395, §1, 50 Stat. 329; Feb. 16, 1938, ch. 30, title I, §§101, 102, 103, 52 Stat. 31, 34, 35; Apr. 7, 1938, ch. 107, §§16–18, 52 Stat. 204, 205; Apr. 10, 1939, ch. 48, 53 Stat. 573; May 14, 1940, ch. 200, 54 Stat. 216; July 2, 1940, ch. 521, §2, 54 Stat. 727; June 21, 1941, ch. 217, 55 Stat. 257; Dec. 26, 1941, ch. 626, §1, 55 Stat. 860; Feb. 6, 1942, ch. 44, §4, 56 Stat. 53; Sept. 29, 1942, ch. 568, 56 Stat. 761; Sept. 21, 1944, ch. 412, title III, §301, 58 Stat. 737; July 25, 1946, ch. 642, 60 Stat. 663; July 3, 1948, ch. 827, title I, §4, 62 Stat. 1250; Sept. 23, 1950, ch. 997, 64 Stat. 978; May 26, 1952, ch. 335, 66 Stat. 95; Aug. 28, 1954, ch. 1041, title V, §501, 68 Stat. 907; Aug. 9, 1955, ch. 624, 69 Stat. 545; Apr. 6, 1956, ch. 186, 70 Stat. 105; July 24, 1956, ch. 668, 70 Stat. 597; Pub. L. 85–553, July 25, 1958, 72 Stat. 414; Pub. L. 86–70, §13(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §8(a), July 12, 1960, 74 Stat. 412; Pub. L. 87–703, title I, §101(2), (3), Sept. 27, 1962, 76 Stat. 605, 606; Pub. L. 88–534, §1, Aug. 31, 1964, 78 Stat. 743; Pub. L. 89–742, Nov. 2, 1966, 80 Stat. 1167; Pub. L. 92–419, title VI, §§605, 606(2)–(5), Aug. 30, 1972, 86 Stat. 676, 677; Pub. L. 95–113, title XV, §1501(a), Sept. 29, 1977, 91 Stat. 1019; Pub. L. 96–294, title II, §259, June 30, 1980, 94 Stat. 709; Pub. L. 99–198, title XVII, §§1711(a), 1712, Dec. 23, 1985, 99 Stat. 1635, 1636; Pub. L. 99–253, §3, Feb. 28, 1986, 100 Stat. 36; Pub. L. 99–500, §101(a) \[title VI, §645\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §645\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §204, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XI, §1146, Nov. 28, 1990, 104 Stat. 3516; Pub. L. 102–237, title II, §202, Dec. 13, 1991, 105 Stat. 1848; Pub. L. 103–354, title II, §227(a), Oct. 13, 1994, 108 Stat. 3216; Pub. L. 104–127, title III, §336(a)(1)(A), Apr. 4, 1996, 110 Stat. 1004.)
+(Apr. 27, 1935, ch. 85, §8, as added Feb. 29, 1936, ch. 104, §1, 49 Stat. 1149; amended June 28, 1937, ch. 395, §1, 50 Stat. 329; Feb. 16, 1938, ch. 30, title I, §§101, 102, 103, 52 Stat. 31, 34, 35; Apr. 7, 1938, ch. 107, §§16–18, 52 Stat. 204, 205; Apr. 10, 1939, ch. 48, 53 Stat. 573; May 14, 1940, ch. 200, 54 Stat. 216; July 2, 1940, ch. 521, §2, 54 Stat. 727; June 21, 1941, ch. 217, 55 Stat. 257; Dec. 26, 1941, ch. 626, §1, 55 Stat. 860; Feb. 6, 1942, ch. 44, §4, 56 Stat. 53; Sept. 29, 1942, ch. 568, 56 Stat. 761; Sept. 21, 1944, ch. 412, title III, §301, 58 Stat. 737; July 25, 1946, ch. 642, 60 Stat. 663; July 3, 1948, ch. 827, title I, §4, 62 Stat. 1250; Sept. 23, 1950, ch. 997, 64 Stat. 978; May 26, 1952, ch. 335, 66 Stat. 95; Aug. 28, 1954, ch. 1041, title V, §501, 68 Stat. 907; Aug. 9, 1955, ch. 624, 69 Stat. 545; Apr. 6, 1956, ch. 186, 70 Stat. 105; July 24, 1956, ch. 668, 70 Stat. 597; Pub. L. 85–553, July 25, 1958, 72 Stat. 414; Pub. L. 86–70, §13(a), June 25, 1959, 73 Stat. 143; Pub. L. 86–624, §8(a), July 12, 1960, 74 Stat. 412; Pub. L. 87–703, title I, §101(2), (3), Sept. 27, 1962, 76 Stat. 605, 606; Pub. L. 88–534, §1, Aug. 31, 1964, 78 Stat. 743; Pub. L. 89–742, Nov. 2, 1966, 80 Stat. 1167; Pub. L. 92–419, title VI, §§605, 606(2)–(5), Aug. 30, 1972, 86 Stat. 676, 677; Pub. L. 95–113, title XV, §1501(a), Sept. 29, 1977, 91 Stat. 1019; Pub. L. 96–294, title II, §259, June 30, 1980, 94 Stat. 709; Pub. L. 99–198, title XVII, §§1711(a), 1712, Dec. 23, 1985, 99 Stat. 1635, 1636; Pub. L. 99–253, §3, Feb. 28, 1986, 100 Stat. 36; Pub. L. 99–500, §101(a) \[title VI, §645\], Oct. 18, 1986, 100 Stat. 1783, 1783–36, and Pub. L. 99–591, §101(a) \[title VI, §645\], Oct. 30, 1986, 100 Stat. 3341, 3341–36; Pub. L. 99–641, title II, §204, Nov. 10, 1986, 100 Stat. 3563; Pub. L. 101–624, title XI, §1146, Nov. 28, 1990, 104 Stat. 3516; Pub. L. 102–237, title II, §202, Dec. 13, 1991, 105 Stat. 1848; Pub. L. 103–354, title II, §227(a), Oct. 13, 1994, 108 Stat. 3216; Pub. L. 104–127, title III, §336(a)(1)(A), Apr. 4, 1996, 110 Stat. 1004; Pub. L. 107–171, title X, §10708(b), May 13, 2002, 116 Stat. 522.)
 
 #### References in Text
 
@@ -101,6 +193,20 @@ The Consolidated Farm and Rural Development Act, referred to in subsec. (b)(5)(D
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2002—Subsec. (b)(5)(B). Pub. L. 107–171 added subpar. (B) and struck out former subpar. (B) which read as follows:
+
+“(B)
+
+Establishment of county, area, or local committees.—(i) In each county or area in which activities are carried out under this section, the Secretary shall establish a county or area committee.
+
+“(ii) Any such committee shall consist of not fewer than 3 nor more than 5 members who are fairly representative of the agricultural producers in the county or area and who shall be elected by the agricultural producers in such county or area under such procedures as the Secretary may prescribe.
+
+“(iii) The Secretary may designate local administrative areas within the county or larger area covered by a committee established under clause (i). Only agricultural producers within a local administrative area who participate or cooperate in programs administered within their area shall be eligible for nomination and election to the local committee for that area, under such regulations as the Secretary may prescribe.
+
+“(iv) The Secretary shall solicit and accept nominations from organizations representing the interests of socially disadvantaged groups (as defined in section 355(e)(1) of the Consolidated Farm and Rural Development Act (7 U.S.C. 2003(e)(1)).
+
+“(v) Members of each county, area, or local committee shall serve for terms not to exceed 3 years.”
 
 1996—Subsec. (b)(1) to (4). Pub. L. 104–127, §336(a)(1)(A)(i)(I), added par. (1) and struck out former pars. (1) to (4), which related to authorization to provide and eligibility for financial assistance in par. (1), description of purposes of assistance in par. (2), amount of assistance in par. (3), and factors to be considered in formulating national program in par. (4).
 
@@ -224,7 +330,7 @@ Amendment by act July 3, 1948, effective July 3, 1948, see section 6 of act July
 
 #### Effective Date of 1938 Amendment
 
-Section 105 of act Feb. 16, 1938, as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained herein shall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
+Section 105 of act Feb. 16, 1938, as amended by section 1 of act Apr. 7, 1938, provided that the amendments by that act, amending this section, “shall first be effective with respect to farming operations carried out in the calendar year 1938. Notwithstanding such amendments, payments with respect to farming operations carried out in the calendar year 1938 and based upon any soil-depleting crop for which special acreage allotments are established shall be made at not less than 90 per centum of the rates announced by the Secretary prior to the enactment of this act. Nothing contained hereinshall require reconstituting, for 1938, any county or other local committee which has been constituted prior to February 1, 1938.”
 
 #### Transfer of Functions
 
@@ -260,7 +366,7 @@ Pub. L. 89–504, title I, §107, July 18, 1966, 80 Stat. 293, provided that: �
 
 #### 1965 Increase in Rates of Compensation of Persons Employed by County Committees
 
-Pub. L. 89–301, §10, Oct. 29, 1965, 79 Stat. 1120, provided that: “The rates of compensation of persons employedby the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by section 2(a) of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation.”
+Pub. L. 89–301, §10, Oct. 29, 1965, 79 Stat. 1120, provided that: “The rates of compensation of persons employed by the county committees established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) shall be increased by amounts equal, as nearly as may be practicable, to the increases provided by section 2(a) of this Act \[amending section 1113(b) of former Title 5, Executive Departments and Government Officers and Employees\] for corresponding rates of compensation.”
 
 \[Provision effective on first day of first pay period which begins on or after July 1, 1966, see section 109(2) of Pub. L. 89–504.\]
 
@@ -284,5 +390,7 @@ Pub. L. 85–278, Sept. 2, 1957, 71 Stat. 601, provided: “That, notwithstandin
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 590g, 590<i>l</i>, 590m, 590<i>o</i>, 590q–3, 3801, 3839aa, 3842 of this title; title 5 sections 3502, 5306, 5334, 5595, 6312, 8331, 8332, 8701, 8901; title 7 sections 1301, 1308–4, 1314c, 1358b, 1359a, 1359ff, 1359jj, 1388, 1391, 1392, 1433a, 1433c–1, 1444, 1446, 1471b, 1838, 1983, 2272, 2279a, 6912, 6913, 6932, 6962, 6991, 7001, 7214; title 12 section 1150a; title 15 section 714b; title 40 App. section 203.
+This section is referred to in sections 590g, 590<i>l</i>, 590m, 590q–3, 1307, 3801 of this title; title 5 sections 3502, 3521, 5306, 5334, 5595, 6312, 8331, 8332, 8701, 8901; title 7 sections 1301, 1308–4, 1314c, 1359ff, 1359jj, 1388, 1391, 1392, 1433a, 1433c–1, 1444, 1446, 1471b, 1838, 2008k, 2008<i>l</i>, 2272, 2279a, 6912, 6913, 6932, 6962, 6991, 7001, 7214, 7959, 7995; title 12 section 1150a; title 15 section 714b.
+
+<i><sup>1</sup></i><i> So in original. The period probably should be preceded by an additional closing parenthesis.</i>
 

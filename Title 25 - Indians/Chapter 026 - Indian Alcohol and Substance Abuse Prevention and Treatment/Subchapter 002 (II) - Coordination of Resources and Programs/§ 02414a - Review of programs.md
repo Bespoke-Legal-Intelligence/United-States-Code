@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In the development of the Memorandum of Agreement required by section 2411 of this title, the Secretary of the Interior and the Secretary of Health and Human Services shall review and consider—
+In the development of the Memorandum of Agreement required by section 2411 of this title,the Secretary of the Interior and the Secretary of Health and Human Services shall review and consider—
 
 &emsp;(1) the various programs established by Federal law providing health services and benefits to Indian tribes, including those relating to mental health and alcohol and substance abuse prevention and treatment,
 

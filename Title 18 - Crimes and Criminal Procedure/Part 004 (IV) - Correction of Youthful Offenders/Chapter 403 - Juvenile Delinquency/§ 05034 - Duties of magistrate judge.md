@@ -1,6 +1,6 @@
 ### §5034. Duties of magistrate judge
 
-The magistrate judge shall insure that the juvenile is represented by counsel before proceeding with critical stages of the proceedings. Counsel shall be assigned to represent a juvenile when the juvenile and his parents, guardian, or custodian are financially unable to obtain adequate representation. In cases where the juvenile and his parents, guardian, or custodian are financially able to obtain adequate representation but have not retained counsel, the magistrate judge may assign counsel and order the payment of reasonable attorney's fees or may direct the juvenile, his parents, guardian, orcustodian to retain private counsel within a specified period of time.
+The magistrate judge shall insure that the juvenile is represented by counsel before proceeding with critical stages of the proceedings. Counsel shall be assigned to represent a juvenile when the juvenile and his parents, guardian, or custodian are financially unable to obtain adequate representation. In cases where the juvenile and his parents, guardian, or custodian are financially able to obtain adequate representation but have not retained counsel, the magistrate judge may assign counsel and order the payment of reasonable attorney's fees or may direct the juvenile, his parents, guardian, or custodian to retain private counsel within a specified period of time.
 
 The magistrate judge may appoint a guardian ad litem if a parent or guardian of the juvenile is not present, or if the magistrate judge has reason to believe that the parents or guardian will not cooperate with the juvenile in preparing for trial, or that the interests of the parents or guardian and those of the juvenile are adverse.
 
@@ -22,7 +22,7 @@ Changes were made in phraseology and arrangement.
 
 1988—Pub. L. 100–690 substituted “facility) upon” for “facility upon” in last par.
 
-1974—Pub. L. 93–415 amended section generally, substituting “Duties of magistrate”, for “Probation; commitment to custody of Attorney General; support” in section catchline, and substituting provisions relating to procedure before, and duties of, magistrate, for provisions relating to probation, commitment to custody of Attorney General, duties of Attorney General, and procedures aiding court in determining whether to place juvenile on probation or commit him to custody of Attorney General.
+1974—Pub. L. 93–415 amended section generally, substituting “Duties of magistrate”, for “Probation; commitment to custody of Attorney General; support” in section catchline, and substituting provisions relating to procedure before, and duties of, magistrate, for provisions relating to probation, commitment to custody of Attorney General, duties of Attorney General, andprocedures aiding court in determining whether to place juvenile on probation or commit him to custody of Attorney General.
 
 1962—Pub. L. 87–428 added fourth par. authorizing commitment of a juvenile delinquent to the custody of the Attorney General for observation and study.
 

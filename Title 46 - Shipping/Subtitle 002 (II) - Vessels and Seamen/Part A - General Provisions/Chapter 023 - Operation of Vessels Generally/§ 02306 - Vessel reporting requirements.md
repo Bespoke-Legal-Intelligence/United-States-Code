@@ -28,6 +28,10 @@
 
 Section 214 of Pub. L. 98–498 provided that: “Sections 211(a) and 212 of this subtitle \[enacting this section and amending sections 2302, 3309, 6101, and 6103 of this title\] are effective one hundred and eighty days after the date of enactment of this Act \[Oct. 19, 1984\].”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2301 of this title.

@@ -36,7 +36,7 @@ Words “all civil actions” were substituted for “all suits of a civil natur
 
 Words “or citizens of the District of Columbia, Territory of Hawaii, or Alaska, and any State or Territory” which were inserted by the amendatory act April 20, 1940, are omitted. The word “States” is defined in this section and enumeration of the references is unnecessary.
 
-The revised section conforms with the views of Philip F. Herrick, United States Attorney, Puerto Rico, who observed that the act of April 20, 1940, permitted action between a citizen of Hawaii and of Puerto Rico, but notbetween a citizen of New York and Puerto Rico, in the district court.
+The revised section conforms with the views of Philip F. Herrick, United States Attorney, Puerto Rico, who observed that the act of April 20, 1940, permitted action between a citizen of Hawaii and of Puerto Rico, but not between a citizen of New York and Puerto Rico, in the district court.
 
 This changes the law to insure uniformity. The 1940 amendment applied only to the provision as to controversies between “citizens of different States.” The new definition in subsection (b) extends the 1940 amendment to apply to controversies between citizens of the Territories or the District of Columbia, and foreign states or citizens or subjects thereof.
 
@@ -704,9 +704,9 @@ D.C. Code
 
 #### Amendments
 
-<b>1996</b>—Subsecs. (a), (b). Pub. L. 104–317 substituted “$75,000” for “$50,000”.
+1996—Subsecs. (a), (b). Pub. L. 104–317 substituted “$75,000” for “$50,000”.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–702, §201(a), substituted “$50,000” for “$10,000” in introductory text.
+1988—Subsec. (a). Pub. L. 100–702, §201(a), substituted “$50,000” for “$10,000” in introductory text.
 
 Pub. L. 100–702, §203(a), inserted at end “For the purposes of this section, section 1335, and section 1441, an alien admitted to the United States for permanent residence shall be deemed a citizen of the State in which such alien is domiciled.”
 
@@ -714,21 +714,21 @@ Subsec. (b). Pub. L. 100–702, §201(a), substituted “$50,000” for “$10,0
 
 Subsec. (c). Pub. L. 100–702, §202(a), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “For the purposes of this section and section 1441 of this title, a corporation shall be deemed a citizen of any State by which it has been incorporated and of the State where it has its principal place of business: <i>Provided further</i>, That in any direct action against the insurer of a policy or contract of liability insurance, whether incorporated or unincorporated, to which action the insured is not joined as a party-defendant, such insurer shall be deemed a citizen of the State of which the insured is a citizen, as well as of any State by which the insurer has been incorporated and of the State where it has its principal place of business.”
 
-<b>1976</b>—Subsec. (a)(2). Pub. L. 94–583 substituted “and citizens or subjects of a foreign state;” for “, and foreign states or citizens or subjects thereof; and”.
+1976—Subsec. (a)(2). Pub. L. 94–583 substituted “and citizens or subjects of a foreign state;” for “, and foreign states or citizens or subjects thereof; and”.
 
 Subsec. (a)(3). Pub. L. 94–583 substituted “citizens or subjects of a foreign state are additional parties; and” for “foreign states or citizens or subjects thereof are additional parties”.
 
 Subsec. (a)(4). Pub. L. 94–583 added par. (4).
 
-<b>1964</b>—Subsec. (c). Pub. L. 88–439 inserted proviso deeming an insurer of liability insurance, in an action to which the insurer is not joined as a party-defendant, a citizen, of the State of which the insured is a citizen, as well as the State the insurer has been incorporated by and the State where it has its principal place of business.
+1964—Subsec. (c). Pub. L. 88–439 inserted proviso deeming an insurer of liability insurance, in an action to which the insurer is not joined as a party-defendant, a citizen, of the State of which the insured is a citizen, as well as the State the insurer has been incorporated by and the State where it has its principal place of business.
 
-<b>1958</b>—Pub. L. 85–554 included costs in section catchline.
+1958—Pub. L. 85–554 included costs in section catchline.
 
 Subsec. (a). Pub. L. 85–554 substituted “$10,000” for “$3,000”.
 
 Subsecs. (b) to (d). Pub. L. 85–554 added subsecs. (b) and (c) and redesignated former subsec. (b) as (d).
 
-<b>1956</b>—Subsec. (b). Act July 26, 1956, included the Commonwealth of Puerto Rico.
+1956—Subsec. (b). Act July 26, 1956, included the Commonwealth of Puerto Rico.
 
 #### Effective Date of 1996 Amendment
 

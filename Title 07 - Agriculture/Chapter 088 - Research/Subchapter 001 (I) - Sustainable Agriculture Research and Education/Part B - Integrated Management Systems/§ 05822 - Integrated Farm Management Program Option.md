@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to be known as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm program barriers to resource stewardship practices and systems.
+The Secretary of Agriculture (hereafter in this section referred to as the “Secretary”) shall, by regulation, establish a voluntary program, to beknown as the “Integrated Farm Management Program Option” (hereafter referred to in this section as the “program”), designed to assist producers of agricultural commodities in adopting integrated, multiyear, site-specific farm management plans by reducing farm program barriers to resource stewardship practices and systems.
 
 #### (b) Definitions
 
@@ -84,7 +84,7 @@ Each plan approved by the Secretary shall—
 
 #### (B) Technical assistance
 
-&emsp;&emsp;In administering the program, the Secretary, in consultation with the local conservation districts, and any State or local authorities deemed appropriate by the Secretary, shall provide technical assistance to producers in developing and implementing plans, evaluating the effectiveness of plans, and assessing the costs and benefits of farming operations and practices. The plans may draw on handbooks and technical guides and may also include other practices appropriate to the particular circumstances of the producer and the purposes of the program.
+&emsp;&emsp;In administering the program, the Secretary, in consultation with the local conservation districts, and any State or local authorities deemed appropriate by the Secretary, shall provide technical assistance to producers in developing and implementing plans, evaluating the effectiveness of plans,and assessing the costs and benefits of farming operations and practices. The plans may draw on handbooks and technical guides and may also include other practices appropriate to the particular circumstances of the producer and the purposes of the program.
 
 #### (C) Flexibility
 
@@ -146,7 +146,7 @@ Each plan approved by the Secretary shall—
 
 #### (6) Base acre adjustments
 
-&emsp;The Secretary, only for the purpose of establishing a producer's crop acreage base underthe Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], may make such adjustments as the Secretary determines to be fair and equitable to reflect resource-conserving crop rotation practices that were maintained by producers prior to participation in the program and to reflect such other factors as the Secretary determines should be considered, except that the total of such adjustments in any year shall not exceed the total farm program savings in the same year that would result from the implementation of plans.
+&emsp;The Secretary, only for the purpose of establishing a producer's crop acreage base under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], may make such adjustments as the Secretary determines to be fair and equitable to reflect resource-conserving crop rotation practices that were maintained by producers prior to participation in the program and to reflect such other factors as the Secretary determines should be considered, except that the total of such adjustments in any year shall not exceed the total farm program savings in the same year that would result from the implementation of plans.
 
 #### (7) Payment acreage limitation
 

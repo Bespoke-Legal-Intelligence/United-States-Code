@@ -8,7 +8,7 @@
 
 (3) The general counsel of the Commission shall notify the respondent of any recommendation to the Commission by the general counsel to proceed to a vote on probable cause pursuant to paragraph (4)(A)(i). With such notification, the general counsel shall include a brief stating the position of the general counsel on the legal and factual issues of the case. Within 15 days of receipt of such brief, respondent may submit a brief stating the position of such respondent on the legal and factual issues of the case, and replying to the brief of general counsel. Such briefs shall be filed with the Secretary of the Commission and shall be considered by the Commission before proceeding under paragraph (4).
 
-(4)(A)(i) Except as provided in clauses <sup>1</sup> (ii) and subparagraph (C), if the Commission determines, by an affirmative vote of 4 of its members, that there is probable cause to believe that any person has committed, or is about to commit, a violation of this Act or of chapter 95 or chapter 96 of title 26, the Commission shall attempt, for a period of at least 30 days, to correct or prevent such violation by informal methods of conference, conciliation, and persuasion, and to enter into a conciliation agreement with any person involved. Such attempt by the Commission to correct or prevent such violation may continue for a period of not more than 90 days. The Commission may not enter into a conciliation agreement under this clause except pursuant to an affirmative vote of 4 of its members. A conciliation agreement, unless violated, is acomplete bar to any further action by the Commission, including the bringing of a civil proceeding under paragraph (6)(A).
+(4)(A)(i) Except as provided in clauses <sup>1</sup> (ii) and subparagraph (C), if the Commission determines, by an affirmative vote of 4 of its members, that there is probable cause to believe that any person has committed, or is about to commit, a violation of this Act or of chapter 95 or chapter 96 of title 26, the Commission shall attempt, for a period of at least 30 days, to correct or prevent such violation by informal methods of conference, conciliation, and persuasion, and to enter into a conciliation agreement with any person involved. Such attempt by the Commission to correct or prevent such violation may continue for a period of not more than 90 days. The Commission may not enter into a conciliation agreement under this clause except pursuant to an affirmative vote of 4 of its members. A conciliation agreement, unless violated, is a complete bar to any further action by the Commission, including the bringing of a civil proceeding under paragraph (6)(A).
 
 (ii) If any determination of the Commission under clause (i) occurs during the 45-day period immediately preceding any election, then the Commission shall attempt, for a period of at least 15 days, to correct or prevent the violation involved by the methods specified in clause (i).
 
@@ -28,7 +28,7 @@
 
 (5)(A) If the Commission believes that a violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may include a requirement that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $5,000 or an amount equal to any contribution or expenditure involved in such violation.
 
-(B) If the Commission believes that a knowing and willful violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may require that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $10,000 or an amount equal to 200 percent of any contribution or expenditure involved in such violation.
+(B) If the Commission believes that a knowing and willful violation of this Act or of chapter 95 or chapter 96 of title 26 has been committed, a conciliation agreement entered into by the Commission under paragraph (4)(A) may require that the person involved in such conciliation agreement shall pay a civil penalty which does not exceed the greater of $10,000 or an amount equal to 200 percent of any contribution or expenditure involved in such violation (or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation).
 
 (C) If the Commission by an affirmative vote of 4 of its members, determines that there is probable cause to believe that a knowing and willful violation of this Act which is subject to subsection (d) of this section, or a knowing and willful violation of chapter 95 or chapter 96 of title 26, has occurred or is about to occur, it may refer such apparent violation to the Attorney General of the United States without regard to any limitations set forth in paragraph (4)(A).
 
@@ -38,11 +38,11 @@
 
 (B) In any civil action instituted by the Commission under subparagraph (A), the court may grant a permanent or temporary injunction, restraining order, or other order, including a civil penalty which does not exceed the greater of $5,000 or an amount equal to any contribution or expenditure involved in such violation, upon a proper showing that the person involved has committed, or is about to commit (if the relief sought is a permanent or temporary injunction or a restraining order), a violation of this Act or chapter 95 or chapter 96 of title 26.
 
-(C) In any civil action for relief instituted by the Commission under subparagraph (A), if the court determines that the Commission has established that the person involved in such civil action has committed a knowing and willful violation of this Act or of chapter 95 or chapter 96 of title 26, the court may impose a civil penalty which does not exceed the greater of $10,000 or an amount equal to 200 percent of any contribution or expenditure involved in such violation.
+(C) In any civil action for relief instituted by the Commission under subparagraph (A), if the court determines that the Commission has established that the person involved in such civil action has committed a knowing and willful violation of this Act or of chapter 95 or chapter 96 of title 26, the court may impose a civil penalty which does not exceed the greater of $10,000 or an amount equal to 200 percent of any contribution or expenditure involved in such violation (or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation).
 
 (7) In any action brought under paragraph (5) or (6), subpenas for witnesses who are required to attend a United States district court may run into any other district.
 
-(8)(A) Any party aggrieved by an order of the Commission dismissing a complaint filed by such party under paragraph (1), or by a failure of the Commission to act on such complaint duringthe 120-day period beginning on the date the complaint is filed, may file a petition with the United States District Court for the District of Columbia.
+(8)(A) Any party aggrieved by an order of the Commission dismissing a complaint filed by such party under paragraph (1), or by a failure of the Commission to act on such complaint during the 120-day period beginning on the date the complaint is filed, may file a petition with the United States District Court for the District of Columbia.
 
 (B) Any petition under subparagraph (A) shall be filed, in the case of a dismissal of a complaint by the Commission, within 60 days after the date of the dismissal.
 
@@ -68,11 +68,27 @@ Whenever the Commission refers an apparent violation to the Attorney General, th
 
 #### (d) Penalties; defenses; mitigation of offenses
 
-(1)(A) Any person who knowingly and willfully commits a violation of any provision of this Act which involves the making, receiving, or reporting of any contribution or expenditure aggregating $2,000 or more during a calendar year shall be fined, or imprisoned for not more than one year, or both. The amount of this fine shall not exceed the greater of $25,000 or 300 percent of any contribution or expenditure involved in such violation.
+(1)(A) Any person who knowingly and willfully commits a violation of any provision of this Act which involves the making, receiving, or reporting of any contribution, donation, or expenditure—
+
+&emsp;(i) aggregating $25,000 or more during a calendar year shall be fined under title 18, or imprisoned for not more than 5 years, or both; or
+
+&emsp;(ii) aggregating $2,000 or more (but less than $25,000) during a calendar year shall be fined under such title, or imprisoned for not more than 1 year, or both.
 
 (B) In the case of a knowing and willful violation of section 441b(b)(3) of this title, the penalties set forth in this subsection shall apply to a violation involving an amount aggregating $250 or more during a calendar year. Such violation of section 441b(b)(3) of this title may incorporate a violation of section 441c(b), 441f, and 441g of this title.
 
 (C) In the case of a knowing and willful violation of section 441h of this title, the penalties set forth in this subsection shall apply without regard to whether the making, receiving, or reporting of a contribution or expenditure of $1,000 or more is involved.
+
+(D) Any person who knowingly and willfully commits a violation of section 441f of this title involving an amount aggregating more than $10,000 during a calendar year shall be—
+
+&emsp;(i) imprisoned for not more than 2 years if the amount is less than $25,000 (and subject to imprisonment under subparagraph (A) if the amount is $25,000 or more);
+
+&emsp;(ii) fined not less than 300 percent of the amount involved in the violation and not more than the greater of—
+
+&emsp;&emsp;(I) $50,000; or
+
+&emsp;&emsp;(II) 1,000 percent of the amount involved in the violation; or
+
+&emsp;(iii) both imprisoned under clause (i) and fined under clause (ii).
 
 (2) In any criminal action brought for a violation of any provision of this Act or of chapter 95 or chapter 96 of title 26, any defendant may evidence their lack of knowledge or intent to commit the alleged violation by introducing as evidence a conciliation agreement entered into between the defendant and the Commission under subsection (a)(4)(A) of this section which specifically deals with the act or failure to act constituting such violation and which is still in effect.
 
@@ -84,7 +100,7 @@ Whenever the Commission refers an apparent violation to the Attorney General, th
 
 &emsp;(C) the defendant is, with respect to the violation involved, in compliance with the conciliation agreement.
 
-(Pub. L. 92–225, title III, §309, formerly §314, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1284; renumbered §313 and amended Pub. L. 94–283, title I, §§105, 109, May 11, 1976, 90 Stat. 481, 483; renumbered §309 and amended Pub. L. 96–187, title I, §§105(4), 108, Jan. 8, 1980, 93 Stat. 1354, 1358; Pub. L. 98–620, title IV, §402(1)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L.99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–58, title VI, §640(a), (b), Sept. 29, 1999, 113 Stat. 476, 477.)
+(Pub. L. 92–225, title III, §309, formerly §314, as added Pub. L. 93–443, title II, §208(a), Oct. 15, 1974, 88 Stat. 1284; renumbered §313 and amended Pub. L. 94–283, title I, §§105, 109, May 11, 1976, 90 Stat. 481, 483; renumbered §309 and amended Pub. L. 96–187, title I, §§105(4), 108, Jan. 8, 1980, 93 Stat. 1354, 1358; Pub. L. 98–620, title IV, §402(1)(A), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–58, title VI, §640(a), (b), Sept. 29, 1999, 113 Stat. 476, 477; Pub. L. 107–155, title III, §§312(a), 315(a), (b), Mar. 27, 2002, 116 Stat. 106, 108.)
 
 #### References in Text
 
@@ -94,7 +110,21 @@ This Act, referred to in subsecs. (a) and (d), means the Federal Election Campai
 
 Provisions similar to those comprising subsec. (a) of this section were contained in section 308(d) of Pub. L. 92–225, title III, Feb. 7, 1972, 86 Stat. 18 (section 438(d) of this title), prior to amendment of section 308 of Pub. L. 92–225 by Pub. L. 93–443.
 
+A prior section 309 of Pub. L. 92–225 was renumbered section 306, and is classified to section 437c of this title.
+
+Another prior section 309 of Pub. L. 92–225 was renumbered section 308, and was classified to section 437b of this title, prior to repeal by Pub. L. 96–187.
+
+Another prior section 309 of Pub. L. 92–225 was renumbered section 312, and is classified to section 439 of this title.
+
 #### Amendments
+
+2002—Subsec. (a)(5)(B). Pub. L. 107–155, §315(a)(1), inserted before period at end “(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)”.
+
+Subsec. (a)(6)(C). Pub. L. 107–155, §315(a)(2), inserted before period at end “(or, in the case of a violation of section 441f of this title, which is not less than 300 percent of the amount involved in the violation and is not more than the greater of $50,000 or 1,000 percent of the amount involved in the violation)”.
+
+Subsec. (d)(1)(A). Pub. L. 107–155, §312(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Any person who knowingly and willfully commits a violation of any provision of this Act which involves the making, receiving, or reporting of any contribution or expenditure aggregating $2,000 or more during a calendar year shall be fined, or imprisoned for not more than one year, or both. The amount of this fine shall not exceed the greater of $25,000 or 300 percent of any contribution or expenditure involved in such violation.”
+
+Subsec. (d)(1)(D). Pub. L. 107–155, §315(b), added subpar. (D).
 
 1999—Subsec. (a)(4)(A)(i). Pub. L. 106–58, §640(a)(1), substituted “clauses (ii) and subparagraph (C)” for “clause (ii)”.
 
@@ -111,6 +141,12 @@ Subsec. (a)(6)(A). Pub. L. 106–58, §640(b), substituted “paragraph (4)” f
 1976—Subsec. (a). Pub. L. 94–283, §109, generally revised provisions of subsec. (a) to reflect enactment of sections 441a to 441j of this title and repeal of sections 608 and 610 to 617 of title 18 and to update the operations of the Commission.
 
 Subsecs. (b), (c). Pub. L. 94–283, §109, reenacted subsec. (b) without change and added subsec. (c).
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–155, title III, §312(b), Mar. 27, 2002, 116 Stat. 106, provided that: “The amendment made by this section \[amending this section\] shall apply to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title\].”
+
+Pub. L. 107–155, title III, §315(c), Mar. 27, 2002, 116 Stat. 108, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to violations occurring on or after the effective date of this Act \[for general effective date of Pub. L. 107–155, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title\].”
 
 #### Effective Date of 1999 Amendment
 
@@ -130,7 +166,7 @@ Section effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 437d of this title.
+This section is referred to in sections 434, 437d, 441a–1 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “clause”.</i>
 

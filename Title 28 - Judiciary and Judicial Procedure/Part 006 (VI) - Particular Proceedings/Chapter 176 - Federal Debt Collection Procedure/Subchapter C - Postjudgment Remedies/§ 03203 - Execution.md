@@ -82,7 +82,7 @@ Before execution sale.—(A) Before execution sale, the United States marshal ma
 
 &emsp;(B) A judgment debtor who sells or disposes of property replevied under subparagraph (A) shall pay the United States marshal the stipulated value of such property.
 
-&emsp;(C) If the judgment debtor fails to deliver such property to the United States marshalpursuant to the terms of the delivery described in subparagraph (A)(ii)(I) and fails to pay the United States marshal the stipulated value of such property, the United States marshal shall endorse the bond “forfeited” and return it to the court from which the writ of execution issued. If the judgment is not fully satisfied, the court shall issue a writ of execution against the judgment debtor and the sureties on the bond for the amount due, not exceeding the stipulated value of the property, on which execution no delivery bond shall be taken, which instruction shall be endorsed on the writ.
+&emsp;(C) If the judgment debtor fails to deliver such property to the United States marshal pursuant to the terms of the delivery described in subparagraph (A)(ii)(I) and fails to pay the United States marshal the stipulated value of such property, the United States marshal shall endorse the bond “forfeited” and return it to the court from which the writ of execution issued. If the judgment is not fully satisfied, the court shall issue a writ of execution against the judgment debtor and the sureties on the bond for the amount due, not exceeding the stipulated value of the property, on which execution no delivery bond shall be taken, which instruction shall be endorsed on the writ.
 
 &emsp;(2)
 
@@ -146,7 +146,7 @@ Sale of personal property.—(i) Personal property levied on shall be offered fo
 
 &emsp;(2)
 
-Postponement of sale.—The United States marshal may postpone an executionsale from time to time by continuing the required posting or publication of notice until the date to which the sale is postponed, and appending, at the foot of each such notice of a current copy of the following:
+Postponement of sale.—The United States marshal may postpone an execution sale from time to time by continuing the required posting or publication of notice until the date to which the sale is postponed, and appending, at the foot of each such notice of a current copy of the following:
 
 &emsp;“The above sale is postponed until the        day of          , 19  , at    o'clock   .M.,            , United States Marshal for the District of            , by                , Deputy, dated            .”
 
@@ -190,7 +190,7 @@ Disposition of Proceeds; Further Levy.—
 
 Distribution of sale proceeds.—(A) The United States marshal shall first deliver to the judgment debtor such amounts to which the judgment debtor is entitled from the sale of partially exempt property.
 
-&emsp;(B) The United States marshal shall next deduct from the proceeds of an execution sale of property an amount equal to the reasonable expenses incurred in making the levy of execution and in keeping and maintaining the property.
+&emsp;(B) The United States marshal shall next deduct from the proceeds of an execution sale of property an amount equal to the reasonableexpenses incurred in making the levy of execution and in keeping and maintaining the property.
 
 &emsp;(C) Except as provided in subparagraph (D), the United States marshal shall deliver the balance of the proceeds to the counsel for the United States as soon as practicable.
 

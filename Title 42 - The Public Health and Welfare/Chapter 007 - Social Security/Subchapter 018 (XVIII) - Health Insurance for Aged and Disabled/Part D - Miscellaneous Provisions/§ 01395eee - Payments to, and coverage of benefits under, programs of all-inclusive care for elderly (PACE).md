@@ -146,7 +146,7 @@
 
 #### (4) Continuation of eligibility
 
-&emsp;An individual who is a PACE program eligible individual may be deemed to continue to be such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) of this section if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
+&emsp;An individual who is a PACE program eligible individual may be deemed to continue tobe such an individual notwithstanding a determination that the individual no longer meets the requirement of subsection (a)(5)(B) of this section if, in accordance with regulations, in the absence of continued coverage under a PACE program the individual reasonably would be expected to meet such requirement within the succeeding 6-month period.
 
 #### (5) Enrollment; disenrollment
 
@@ -158,7 +158,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Regulations promulgated by the Secretary under this section and section 1396u–4 of this title, and the PACE program agreement, shall provide that thePACE program may not disenroll a PACE program eligible individual except—
+&emsp;&emsp;&emsp;Regulations promulgated by the Secretary under this section and section 1396u–4 of this title, and the PACE program agreement, shall provide that the PACE program may not disenroll a PACE program eligible individual except—
 
 &emsp;&emsp;&emsp;&emsp;(I) for nonpayment of premiums (if applicable) on a timely basis; or
 
@@ -442,7 +442,7 @@ Pub. L. 106–554, §1(a)(6) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2763,
 
 &emsp;“(1) shall approve or deny a request for a modification or a waiver of provisions of the PACE protocol not later than 90 days after the date the Secretary receives the request; and
 
-&emsp;“(2) may exercise authority to modify or waive such provisions in a manner that responds promptly to the needs of PACE programs relating to areas ofemployment and the use of community-based primary care physicians.”
+&emsp;“(2) may exercise authority to modify or waive such provisions in a manner that responds promptly to the needs of PACE programs relating to areas of employment and the use of community-based primary care physicians.”
 
 #### Transition; Regulations
 

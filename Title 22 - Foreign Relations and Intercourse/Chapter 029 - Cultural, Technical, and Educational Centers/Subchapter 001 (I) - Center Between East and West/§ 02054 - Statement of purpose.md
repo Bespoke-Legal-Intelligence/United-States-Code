@@ -12,7 +12,7 @@ The Mutual Security Act of 1954, referred to in text, is act Aug. 26, 1954, ch. 
 
 #### Short Title
 
-Section 701 of Pub. L. 86–472 provided that: “This chapter \[enacting this subchapter\] may be cited as the‘Center for Cultural and Technical Interchange Between East and West Act of 1960’.”
+Section 701 of Pub. L. 86–472 provided that: “This chapter \[enacting this subchapter\] may be cited as the ‘Center for Cultural and Technical Interchange Between East and West Act of 1960’.”
 
 #### Transfer of Functions
 

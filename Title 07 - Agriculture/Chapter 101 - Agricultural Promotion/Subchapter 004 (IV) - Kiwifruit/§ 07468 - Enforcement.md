@@ -6,7 +6,7 @@ A district court of the United States shall have jurisdiction specifically to en
 
 #### (b) Referral to Attorney General
 
-A civil action authorized to be brought under this section shall be referred to the AttorneyGeneral for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this subchapter, or any order or regulation issued under this subchapter, if the Secretary believes that the administration and enforcement of this subchapter would be adequately served by administrative action under subsection (c) of this section or suitable written notice or warning to the person committing the violation.
+A civil action authorized to be brought under this section shall be referred to the Attorney General for appropriate action, except that the Secretary is not required to refer to the Attorney General a violation of this subchapter, or any order or regulation issued under this subchapter, if the Secretary believes that the administration and enforcement of this subchapter would be adequately served by administrative action under subsection (c) of this section or suitable written notice or warning to the person committing the violation.
 
 #### (c) Civil penalties and orders
 
@@ -46,7 +46,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (e) Failure to obey cease-and-desist orders
 
-Any person who fails to obey a cease-and-desist order issued by the Secretary after the cease-and-desist order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d) of this section, of not more than $500 for each offense. Each day during which the failure continues shall be considered a separate violation of the cease-and-desist order.
+Any person who fails to obey a cease-and-desist order issued by the Secretary after the cease-and-desist order has become final and unappealable, or after the appropriate United States district court has entered a final judgment in favor of the Secretary, shall be subject to a civil penalty assessed by the Secretary, after opportunity for a hearing and for judicial review under the procedures specified in subsections (c) and (d) of this section, of not morethan $500 for each offense. Each day during which the failure continues shall be considered a separate violation of the cease-and-desist order.
 
 #### (f) Failure to pay penalties
 

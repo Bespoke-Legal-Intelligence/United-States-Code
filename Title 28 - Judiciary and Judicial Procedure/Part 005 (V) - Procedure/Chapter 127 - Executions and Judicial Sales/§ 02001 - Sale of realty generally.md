@@ -28,7 +28,7 @@ This section corrects a typographical error in subsection (a) of section 2001 of
 
 #### Amendments
 
-<b>1949</b>—Subsec. (a). Act May 24, 1949, corrected spelling of “ancillary” in second par.
+1949—Subsec. (a). Act May 24, 1949, corrected spelling of “ancillary” in second par.
 
 #### Section Referred to in Other Sections
 

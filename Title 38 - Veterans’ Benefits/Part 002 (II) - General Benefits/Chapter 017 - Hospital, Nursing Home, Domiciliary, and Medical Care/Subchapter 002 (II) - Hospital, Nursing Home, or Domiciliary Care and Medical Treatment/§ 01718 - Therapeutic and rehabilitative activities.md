@@ -112,7 +112,7 @@ Section 7 of Pub. L. 102–54, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6
 
 Section 105(b) of Pub. L. 94–581, as amended by Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067; Pub. L. 102–83, §6(a), Aug. 6, 1991, 105 Stat. 407, provided that:
 
-“(1) The Secretary of Veterans Affairs may settle claims made by the Department of Veterans Affairs against any private nonprofit corporation organized under the laws of any State, for the use of facilities and personnel of the Department in work projects as a part of a therapeutic or rehabilitation program for patients and members in health care facilities of the Department, and to execute a binding release of all claims by the United States against any such corporation, in such amounts, and upon such terms and conditions as the Secretary considers appropriate.
+“(1) The Secretary of Veterans Affairs may settle claims made by the Department of Veterans Affairs against any private nonprofit corporation organized under the laws of any State, for the use of facilities andpersonnel of the Department in work projects as a part of a therapeutic or rehabilitation program for patients and members in health care facilities of the Department, and to execute a binding release of all claims by the United States against any such corporation, in such amounts, and upon such terms and conditions as the Secretary considers appropriate.
 
 “(2) For the purposes of this subsection, notwithstanding section 3302 of title 31, or any other provision of law, the Secretary may utilize any funds received under any settlement made pursuant to paragraph (1) of this subsection for any purpose agreed upon by the Secretary and such corporation.”
 

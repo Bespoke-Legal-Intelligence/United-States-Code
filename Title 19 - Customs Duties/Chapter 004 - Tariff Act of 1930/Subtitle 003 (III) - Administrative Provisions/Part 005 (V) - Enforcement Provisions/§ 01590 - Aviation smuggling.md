@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-It is unlawful for the pilot of any aircraft to transport, or for any individual on board any aircraft to possess, merchandise knowing, or intending, that the merchandise will be introduced into the United States contrary to law.
+It is unlawful for the pilot of any aircraft to transport, or for any individual on board anyaircraft to possess, merchandise knowing, or intending, that the merchandise will be introduced into the United States contrary to law.
 
 #### (b) Sea transfers
 
@@ -24,7 +24,7 @@ Any person who violates any provision of this section is liable for a civil pena
 
 In addition to being liable for a civil penalty under subsection (c) of this section, any person who intentionally commits a violation of any provision of this section is, upon conviction—
 
-&emsp;(1) liable for a fine of not more than $10,000 or imprisonment for not more than 5 years, orboth, if none of the merchandise involved was a controlled substance; or
+&emsp;(1) liable for a fine of not more than $10,000 or imprisonment for not more than 5 years, or both, if none of the merchandise involved was a controlled substance; or
 
 &emsp;(2) liable for a fine of not more than $250,000 or imprisonment for not more than 20 years, or both, if any of the merchandise involved was a controlled substance.
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) willfully fails or refuses to make timely application in good faith for travel or other documents necessary to the alien's departure,
 
-&emsp;&emsp;(C) connives or conspires, or takes any other action, designed to prevent or hamperor with the purpose of preventing or hampering the alien's departure pursuant to such, or
+&emsp;&emsp;(C) connives or conspires, or takes any other action, designed to prevent or hamper or with the purpose of preventing or hampering the alien's departure pursuant to such, or
 
 &emsp;&emsp;(D) willfully fails or refuses to present himself or herself for removal at the time and place required by the Attorney General pursuant to such order,
 
@@ -82,7 +82,7 @@ Subsec. (h)(3). Pub. L. 104–132, §413(f), added par. (3) which read as follow
 
 &emsp;“(A) such alien's life or freedom would be threatened, in the country to which such alien would be deported or returned, on account of race, religion, nationality, membership in a particular social group, or political opinion; and
 
-&emsp;“(B) the application of paragraph (1) to such alien is necessary to ensure compliance with the 1967United Nations Protocol Relating to the Status of Refugees.”
+&emsp;“(B) the application of paragraph (1) to such alien is necessary to ensure compliance with the 1967 United Nations Protocol Relating to the Status of Refugees.”
 
 1990—Subsec. (h)(1). Pub. L. 101–649, §603(b)(3), substituted “1251(a)(4)(D)” for “1251(a)(19)”.
 
@@ -120,9 +120,13 @@ Amendment by Pub. L. 96–212 effective Mar. 17, 1980, and applicable to fiscal 
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
-For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
+For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) ofPub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 #### Sense of Congress Respecting Treatment of Cuban Political Prisoners
 

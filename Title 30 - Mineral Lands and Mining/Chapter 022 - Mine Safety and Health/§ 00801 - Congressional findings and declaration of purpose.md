@@ -4,7 +4,7 @@ Congress declares that—
 
 &emsp;(a) the first priority and concern of all in the coal or other mining industry must be the health and safety of its most precious resource—the miner;
 
-&emsp;(b) deaths and serious injuries from unsafe and unhealthful conditions and practices inthe coal or other mines cause grief and suffering to the miners and to their families;
+&emsp;(b) deaths and serious injuries from unsafe and unhealthful conditions and practices in the coal or other mines cause grief and suffering to the miners and to their families;
 
 &emsp;(c) there is an urgent need to provide more effective means and measures for improving the working conditions and practices in the Nation's coal or other mines in order to prevent death and serious physical harm, and in order to prevent occupational diseases originating in such mines;
 
@@ -39,6 +39,10 @@ Section 307 of Pub. L. 95–164 provided that: “Except as otherwise provided, 
 #### Effective Date
 
 Section 509 of Pub. L. 91–173 provided that: “Except to the extent an earlier date is specifically provided in this Act \[see Short Title note below\], the provisions of titles I and III of this Act \[subchapters I and III of this chapter\] shall become operative ninety days after the date of enactment of this Act \[Dec. 30, 1969\], and the provisions of title II of this Act \[subchapter II of this chapter\] shall become operative six months after the date of enactment of this Act. The provisions of the Federal Coal Mine Safety Act, as amended \[section 451 et seq. of this title\], are repealed on the operative date of titles I and III of this Act except that such provisions shall continue to apply to any order, notice, decision, or finding issued under that Act prior to such operative date and to any proceedings related to such order, notice, decision or findings. All other provisions of this Act, shall be effective on the date of enactment of this Act \[Dec. 30, 1969\].”
+
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–275, §1, Nov. 2, 2002, 116 Stat. 1925, provided that: “This Act \[amending sections 902, 921 to 924, 925, 932a, and 936 of this title, repealing sections 904, 924a, and 945 of this title, and enacting provisions set out as notes under sections 902 and 921 of this title\] may be cited as the ‘Black Lung Consolidation of Administrative Responsibility Act’.”
 
 #### Short Title of 1981 Amendment
 

@@ -2,7 +2,7 @@
 
 #### Eligibility of Additional Employees for Reimbursement for Professional Liability Insurance
 
-Pub. L. 106–567, title IV, §406, Dec. 27, 2000, 114 Stat. 2849, provided that:
+Pub. L. 106–567, title IV, §406, Dec. 27, 2000, 114 Stat. 2849, as amended by Pub. L. 107–108, title IV, §404, Dec. 28, 2001, 115 Stat. 1404, provided that:
 
 “(a)
 
@@ -10,7 +10,7 @@ In General.—Notwithstanding any provision of title VI, section 636 of the Trea
 
 &emsp;“(1) designate as qualified employees within the meaning of subsection (b) of that section appropriate categories of employees not otherwise covered by that subsection; and
 
-&emsp;“(2) use appropriated funds available to the Director to reimburse employees within categories so designated for one-half of the costs incurred by such employees for professional liability insurance in accordance with subsection (a) of that section.
+&emsp;“(2) use appropriated funds available to the Director to reimburse employees within categories so designated for 100 percent of the costs incurred by such employees for professional liability insurance in accordance with subsection (a) of that section.
 
 “(b)
 
@@ -46,7 +46,7 @@ Definitions.—For purposes of this section—
 
 &emsp;“(4) the term ‘professional liability insurance’ means insurance which provides coverage for—
 
-&emsp;&emsp;“(A) legal liability for damages due to injuries to other persons, damage to their property, or otherdamage or loss to such other persons (including the expenses of litigation and settlement) resulting from or arising out of any tortious act, error, or omission of the covered individual (whether common law, statutory, or constitutional) while in the performance of such individual's official duties as a qualified employee; and
+&emsp;&emsp;“(A) legal liability for damages due to injuries to other persons, damage to their property, or other damage or loss to such other persons (including the expenses of litigation and settlement) resulting from or arising out of any tortious act, error, or omission of the covered individual (whether common law, statutory, or constitutional) while in the performance of such individual's official duties as a qualified employee; and
 
 &emsp;&emsp;“(B) the cost of legal representation for the covered individual in connection with any administrative or judicial proceeding (including any investigation or disciplinary proceeding) relating to any act, error, or omission of the covered individual while in the performance of such individual's official duties as a qualified employee, and other legal costs and fees relating to any such administrative or judicial proceeding.
 
@@ -70,3 +70,4 @@ Applicability.—The amendments made by this section \[this note\] shall take ef
 - [&sect; 05946 - Membership fees; expenses of attendance at meetings; limitations](%C2%A7%2005946%20-%20Membership%20fees%3B%20expenses%20of%20attendance%20at%20meetings%3B%20limitations.md)
 - [&sect; 05947 - Quarters, subsistence, and allowances for employees of the Corps of Engineers, Department of the Army, engaged in floating plant operations](%C2%A7%2005947%20-%20Quarters%2C%20subsistence%2C%20and%20allowances%20for%20employees%20of%20the%20Corps%20of%20Engineers%2C%20Department%20of%20the%20Army%2C%20engaged%20in%20floating%20plant%20operations.md)
 - [&sect; 05948 - Physicians comparability allowances](%C2%A7%2005948%20-%20Physicians%20comparability%20allowances.md)
+- [&sect; 05949 - Hostile fire pay](%C2%A7%2005949%20-%20Hostile%20fire%20pay.md)

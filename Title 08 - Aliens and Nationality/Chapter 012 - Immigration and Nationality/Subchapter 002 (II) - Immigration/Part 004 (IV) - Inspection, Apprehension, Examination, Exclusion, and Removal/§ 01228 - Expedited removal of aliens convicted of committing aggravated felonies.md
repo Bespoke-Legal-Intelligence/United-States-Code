@@ -20,7 +20,7 @@
 
 &emsp;(A) The Attorney General shall review and evaluate removal proceedings conducted under this section.
 
-&emsp;(B) The Comptroller General shall monitor, review, and evaluate removal proceedings conducted under this section. Within 18 months after the effective date of this section, theComptroller General shall submit a report to such Committees concerning the extent to which removal proceedings conducted under this section may adversely affect the ability of such aliens to contest removal effectively.
+&emsp;(B) The Comptroller General shall monitor, review, and evaluate removal proceedings conducted under this section. Within 18 months after the effective date of this section, the Comptroller General shall submit a report to such Committees concerning the extent to which removal proceedings conducted under this section may adversely affect the ability of such aliens to contest removal effectively.
 
 #### (b) Removal of aliens who are not permanent residents
 
@@ -82,7 +82,7 @@ An alien convicted of an aggravated felony shall be conclusively presumed to be 
 
 &emsp;(ii) Except as provided in clause (iii), such appeal shall be considered consistent with the requirements described in section 1252 of this title.
 
-&emsp;(iii) Upon execution by the defendant of a valid waiver of the right to appeal the conviction on which the order of removal is based, the expiration of the period described in section 1252(b)(1) of this title, or the final dismissal of an appeal from such conviction, the order of removal shall become final and shall be executed at the end of the prison term in accordance with the terms of the order. If the conviction is reversed on direct appeal, theorder entered pursuant to this section shall be void.
+&emsp;(iii) Upon execution by the defendant of a valid waiver of the right to appeal the conviction on which the order of removal is based, the expiration of the period described in section 1252(b)(1) of this title, or the final dismissal of an appeal from such conviction, the order of removal shall become final and shall be executed at the end of the prison term in accordance with the terms of the order. If the conviction is reversed on direct appeal, the order entered pursuant to this section shall be void.
 
 &emsp;(B) As soon as is practicable after entry of a judicial order of removal, the Commissioner shall provide the defendant with written notice of the order of removal, which shall designate the defendant's country of choice for removal and any alternate country pursuant to section 1253(a) <sup>2</sup> of this title.
 
@@ -285,6 +285,10 @@ Section 506(b) of Pub. L. 101–649 provided that: “The amendment made by subs
 #### Effective Date
 
 Section 7347(c) of Pub. L. 100–690 provided that: “The amendments made by subsections (a) and (b) \[enacting this section and amending section 1105a of this title\] shall apply in the case of any alien convicted of an aggravated felony on or after the date of the enactment of this Act \[Nov. 18, 1988\].”
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 

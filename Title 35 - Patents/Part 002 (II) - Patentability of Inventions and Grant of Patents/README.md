@@ -4,12 +4,7 @@
 | :--- | :---: | ---: |
 | [<b>10.</b>](Chapter%20010%20-%20Patentability%20of%20Inventions/README.md) | <b>Patentability of Inventions</b> | <b>100</b> |
 | [<b>11.</b>](Chapter%20011%20-%20Application%20for%20Patent/README.md) | <b>Application for Patent</b> | <b>111</b> |
-| [<b>12.</b>](Chapter%20012%20-%20Examination%20of%20Application/README.md) | <b>Examination of Applications </b><b><sup>1</sup></b> | <b>131</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>12.</b>](Chapter%20012%20-%20Examination%20of%20Application/README.md) | <b>Examination of Application</b> | <b>131</b> |
 | [<b>13.</b>](Chapter%20013%20-%20Review%20of%20Patent%20and%20Trademark%20Office%20Decisions/README.md) | <b>Review of Patent and Trademark Office Decisions</b> | <b>141</b> |
 | [<b>14.</b>](Chapter%20014%20-%20Issue%20of%20Patent/README.md) | <b>Issue of Patent</b> | <b>151</b> |
 | [<b>15.</b>](Chapter%20015%20-%20Plant%20Patents/README.md) | <b>Plant Patents</b> | <b>161</b> |
@@ -20,6 +15,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–273, div. C, title III, §13206(a)(6), Nov. 2, 2002, 116 Stat. 1904, substituted “Examination of Application” for “Examination of Applications” in heading of chapter 12.
 
 1982—Pub. L. 97–256, title I, §101(6), Sept. 8, 1982, 96 Stat. 816, added item for chapter 18.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A local educational agency that receives a subgrant under section 7277a(a) of this title shall use the subgrant funds to plan and prepare for healthy, high-performance school building projects that—
+A local educational agency that receives a subgrant under section 7277a(a) of this title shalluse the subgrant funds to plan and prepare for healthy, high-performance school building projects that—
 
 &emsp;(1) reduce energy use to at least 30 percent below that of a school constructed in compliance with standards prescribed in chapter 8 of the 2000 International Energy Conservation Code, or a similar State code intended to achieve substantially equivalent results;
 

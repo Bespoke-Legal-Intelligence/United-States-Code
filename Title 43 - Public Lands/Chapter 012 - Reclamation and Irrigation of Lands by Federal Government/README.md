@@ -188,6 +188,10 @@
 | (a) | Authorization. |
 | (b) | Cost share. |
 | (c) | Limitation. |
+| 390h–17. | Lakehaven, Washington, Water Reclamation and Reuse Project. |
+| (a) | Authorization. |
+| (b) | Cost share. |
+| (c) | Limitation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

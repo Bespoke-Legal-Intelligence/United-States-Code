@@ -2,7 +2,9 @@
 
 #### (a) In general
 
-(1) Not later than January 31 each year, the President shall submit to the appropriate congressional committees a report on the requirements of the United States for intelligence and the activities of the intelligence community.
+(1)(A) Not later each year than the date provided in section 415b of this title, the President shall submit to the congressional intelligence committees a report on the requirements of the United States for intelligence and the activities of the intelligence community.
+
+(B) Not later than January 31 each year, and included with the budget of the President for the next fiscal year under section 1105(a) of title 31, the President shall submit to the appropriate congressional committees the report described in subparagraph (A).
 
 (2) The purpose of the report is to facilitate an assessment of the activities of the intelligence community during the preceding fiscal year and to assist in the development of a mission and a budget for the intelligence community for the fiscal year beginning in the year in which the report is submitted.
 
@@ -18,21 +20,25 @@
 
 (2) The report shall specify matters under paragraph (1)(A) in sufficient detail to assist Congress in making decisions with respect to the allocation of resources for the matters specified.
 
-#### (c) <sup>1</sup> “Appropriate congressional committees” defined
+#### (c) “Appropriate congressional committees” defined
 
 In this section, the term “appropriate congressional committees” means the following:
 
-&emsp;(1) The Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Armed Services of the Senate.
+&emsp;(1) The Committee on Appropriations and the Committee on Armed Services of the Senate.
 
-&emsp;(2) The Permanent Select Committee on Intelligence, the Committee on Appropriations, and the Committee on Armed Services of the House of Representatives.
+&emsp;(2) The Committee on Appropriations and the Committee on Armed Services of the House of Representatives.
 
-#### (c) <sup>1</sup> Time for submission
-
-The report under this section for any year shall be submitted at the same time that the President submits the budget for the next fiscal year pursuant to section 1105 of title 31.
-
-(July 26, 1947, ch. 343, title I, §109, as added Pub. L. 103–178, title III, §304(a), Dec. 3, 1993, 107 Stat. 2034; amended Pub. L. 104–293, title VIII, §803(a), (b)(1), Oct. 11, 1996, 110 Stat. 3475, 3476; Pub. L. 106–65, div. A, title X, §1067(16), Oct. 5, 1999, 113 Stat. 775.)
+(July 26, 1947, ch. 343, title I, §109, as added Pub. L. 103–178, title III, §304(a), Dec. 3, 1993, 107 Stat. 2034; amended Pub. L. 104–293, title VIII, §803(a), (b)(1), Oct. 11, 1996, 110 Stat. 3475, 3476; Pub. L. 106–65, div. A, title X, §1067(16), Oct. 5, 1999, 113 Stat. 775; Pub. L. 107–306, title VIII, §811(b)(1)(B), Nov. 27, 2002, 116 Stat. 2422.)
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–306, §811(b)(1)(B)(i), added par. (1) and struck out former par. (1), which directed the President to submit to the appropriate congressional committees a report on the requirements of the United States for intelligence and the activities of the intelligence community not later than Jan. 31 each year.
+
+Subsec. (c). Pub. L. 107–306, §811(b)(1)(B)(iii), struck out the subsec. (c) enacted by Pub. L. 103–178, which provided that the report under this section for any year should be submitted at the same time that the President submits the budget for the next fiscal year pursuant to section 1105 of title 31.
+
+Subsec. (c)(1). Pub. L. 107–306, §811(b)(1)(B)(ii)(I), substituted “The Committee on Appropriations” for “The Select Committee on Intelligence, the Committee on Appropriations,”.
+
+Subsec. (c)(2). Pub. L. 107–306, §811(b)(1)(B)(ii)(II), substituted “The Committee on Appropriations” for “The Permanent Select Committee on Intelligence, the Committee on Appropriations,”.
 
 1999—Subsec. (c)(2). Pub. L. 106–65 substituted “Committee on Armed Services” for “Committee on National Security”.
 
@@ -68,7 +74,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 403–5 of this title.
-
-<i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
+This section is referred to in section 415b of this title.
 

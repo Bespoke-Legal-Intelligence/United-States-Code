@@ -6,7 +6,7 @@ The Administrator shall establish and implement a pricing system to recover reim
 
 #### (b) Reports to Congressional committees
 
-Each year the Administrator shall submit to the President of the Senate, the Speaker of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives, a report, transmitted contemporaneously with the annual budget request of the President, which shall inform the Congress how the policy goals contained in section 2466a of this title are being furthered by the shuttle price for foreign and commercial users.
+Each year the Administrator shall submit to the President of the Senate, the Speaker of the House of Representatives, the Committee on Commerce, Science, and Transportation of the Senate, and the Committee on Science, Space, and Technology of the House of Representatives,a report, transmitted contemporaneously with the annual budget request of the President, which shall inform the Congress how the policy goals contained in section 2466a of this title are being furthered by the shuttle price for foreign and commercial users.
 
 #### (c) Reduction of base price
 
@@ -38,7 +38,7 @@ Committee on Science, Space, and Technology of House of Representatives treated 
 
 #### Effective Date
 
-Section applicable to flights of the Space Transportation System beginning on and after Oct. 1, 1988, seesection 205 of Pub. L. 99–170, set out as a note under section 2466 of this title.
+Section applicable to flights of the Space Transportation System beginning on and after Oct. 1, 1988, see section 205 of Pub. L. 99–170, set out as a note under section 2466 of this title.
 
 #### Feasibility of Providing Space Shuttle Launch Services on Basis of Royalty Recovery Over Economic Life of Commercial Products Processed in Space
 

@@ -2,7 +2,7 @@
 
 #### Act Referred to in Other Sections
 
-Sections 361a to 361i, commonly known as the Hatch Act of 1887, are referred to in sections 384, 418, 450i, 3103, 3124a, 3311, 7672 of this title; title 16 section 582a–1; title 40 section 483.
+Sections 361a to 361i, commonly known as the Hatch Act of 1887, are referred to in sections 384, 418, 450i, 3103, 3124a, 3311, 7672 of this title; title 16 section 582a–1; title 40 section 525.
 
 
 ---

@@ -46,7 +46,7 @@ Section 1 of Pub. L. 89–794 provided: “That this Act \[enacting sections 261
 
 #### Short Title of 1965 Amendment
 
-Pub. L. 89–253, §1, Oct. 9, 1965, 79 Stat. 973, provided: “That this Act \[amending sections 2713, 2714, 2716, 2720,2734, 2735, 2754, 2761, 2782, 2785, 2788, 2789, 2802, 2805, 2807, 2822, 2831, 2851, 2854, 2861, 2871, 2881, 2922, 2923, 2943, 2945, 2965, and 2966 of this title and section 425 of Title 20, Education, and enacted sections 2806a, 2950, and 2967 of this title\] may be cited as the ‘Economic Opportunity Amendments of 1965’.”
+Pub. L. 89–253, §1, Oct. 9, 1965, 79 Stat. 973, provided: “That this Act \[amending sections 2713, 2714, 2716, 2720, 2734, 2735, 2754, 2761, 2782, 2785, 2788, 2789, 2802, 2805, 2807, 2822, 2831, 2851, 2854, 2861, 2871, 2881, 2922, 2923, 2943, 2945, 2965, and 2966 of this title and section 425 of Title 20, Education, and enacted sections 2806a, 2950, and 2967 of this title\] may be cited as the ‘Economic Opportunity Amendments of 1965’.”
 
 #### Short Title
 

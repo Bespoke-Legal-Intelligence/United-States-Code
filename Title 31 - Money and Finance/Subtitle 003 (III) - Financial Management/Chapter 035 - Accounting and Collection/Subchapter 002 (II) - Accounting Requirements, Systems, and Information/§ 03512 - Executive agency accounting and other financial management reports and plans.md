@@ -266,7 +266,7 @@ Findings.—The Congress finds the following:
 
 &emsp;“(5) To rebuild the accountability and credibility of the Federal Government, and restore public confidence in the Federal Government, agencies must incorporate accounting standards and reporting objectives established for the Federal Government into their financial management systems so that all the assets and liabilities, revenues, and expenditures or expenses, and the full costs of programs and activities of the Federal Government can be consistently and accurately recorded, monitored, and uniformly reported throughout the Federal Government.
 
-&emsp;“(6) Since its establishment in October 1990, the Federal Accounting Standards Advisory Board (hereinafter referred to as the ‘FASAB’) has made substantial progress toward developing and recommending a comprehensive set of accounting concepts and standards for the Federal Government. When the accounting concepts and standards developed by FASAB are incorporated into Federal financial management systems, agencies will be able to provide cost and financial information that will assist the Congress and financial managers to evaluate the cost and performance of Federal programs and activities, and willtherefore provide important information that has been lacking, but is needed for improved decision making by financial managers and the Congress.
+&emsp;“(6) Since its establishment in October 1990, the Federal Accounting Standards Advisory Board (hereinafter referred to as the ‘FASAB’) has made substantial progress toward developing and recommending a comprehensive set of accounting concepts and standards for the Federal Government. When the accounting concepts and standards developed by FASAB are incorporated into Federal financial management systems, agencies will be able to provide cost and financial information that will assist the Congress and financial managers to evaluate the cost and performance of Federal programs and activities, and will therefore provide important information that has been lacking, but is needed for improved decision making by financial managers and the Congress.
 
 &emsp;“(7) The development of financial management systems with the capacity to support these standards and concepts will, over the long term, improve Federal financial management.
 
@@ -440,13 +440,13 @@ Mixed system.—The term ‘mixed system’ means an information system that sup
 
 “(a) \[Amended section 4001 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.\]
 
-“(b) \[Amended section 5001 of Pub. L. 104–106, set out as a note under section 1401 of Title 40, Public Buildings, Property, and Works.\]
+“(b) \[Amended section 5001 of Pub. L. 104–106, div. E, Feb. 10, 1996, 110 Stat. 679, subsequently repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.\]
 
-“(c) Any reference in any law, regulation, document, record, or other paper of the United States to the Federal Acquisition Reform Act of 1996 or to the Information Technology Management Reform Act of 1996 shall be considered to be a reference to the Clinger-Cohen Act of 1996 \[see Short Title of 1996 Amendment notes set out under 40 U.S.C. 1401 and 41 U.S.C. 251\].”
+“(c) Any reference in any law, regulation, document, record, or other paper of the United States to the Federal Acquisition Reform Act of 1996 or to the Information Technology Management Reform Act of 1996 shall be considered to be a reference to the Clinger-Cohen Act of 1996 \[see Short Title of 1996 Amendment note set out under 41 U.S.C. 251\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 902, 3511, 3521, 5134, 7502 of this title; title 10 sections 3022, 5025, 8022; title 22 section 2421; title 44 section 3534.
+This section is referred to in sections 902, 3511, 3521, 5134, 7502 of this title; title 10 sections 3022, 5025, 8022; title 22 section 2421; title 44 sections 3534, 3544.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

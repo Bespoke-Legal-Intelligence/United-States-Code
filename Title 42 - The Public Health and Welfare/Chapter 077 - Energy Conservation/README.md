@@ -498,7 +498,7 @@
 | (e) | Reallocations. |
 | [6371h.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20E%20-%20Energy%20Conservation%20Program%20for%20Schools%20and%20Hospitals/%C2%A7%2006371h%20-%20Administration%3B%20detailed%20description%20in%20annual%20report.md) | Administration; detailed description in annual report. |
 | [6371i.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20E%20-%20Energy%20Conservation%20Program%20for%20Schools%20and%20Hospitals/%C2%A7%2006371i%20-%20Records.md) | Records. |
-| [6371j.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20E%20-%20Energy%20Conservation%20Program%20for%20Schools%20and%20Hospitals/%C2%A7%2006371j%20-%20Application%20of%20Davis-Bacon%20Act.md) | Application of Davis-Bacon Act. |
+| [6371j.](Subchapter%20003%20%28III%29%20-%20Improving%20Energy%20Efficiency/Part%20E%20-%20Energy%20Conservation%20Program%20for%20Schools%20and%20Hospitals/%C2%A7%2006371j%20-%20Application%20of%20sections%203141%E2%80%933144%2C%203146%2C%20and%203147%20of%20title%2040.md) | Application of sections 3141–3144, 3146, and 3147 of title 40. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

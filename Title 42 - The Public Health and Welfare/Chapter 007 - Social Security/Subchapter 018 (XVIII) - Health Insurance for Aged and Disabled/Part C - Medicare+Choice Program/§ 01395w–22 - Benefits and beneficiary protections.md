@@ -202,7 +202,7 @@
 
 #### (4) Assuring access to services in Medicare+�Choice private fee-for-service plans
 
-&emsp;In addition to any other requirements under this part, in the case of a Medicare+Choice private fee-for-service plan, the organization offering the plan must demonstrate to the Secretary that the organization has sufficient number and range of health care professionals and providers willing to provide services under the terms of the plan. The Secretary shall find that an organization has met such requirement with respect to any category of health care professional or provider if, with respect to that category of provider—
+&emsp;In addition to any other requirements under this part, in the case of a Medicare+Choice private fee-for-service plan, the organization offering the plan must demonstrate to the Secretary that the organization has sufficient number and range of health care professionals and providers willing to provide services under the terms of the plan. The Secretary shall find that an organization has met such requirement with respect to any category of healthcare professional or provider if, with respect to that category of provider—
 
 &emsp;&emsp;(A) the plan has established payment rates for covered services furnished by that category of provider that are not less than the payment rates provided for under part A of this subchapter, part B of this subchapter, or both, for such services, or
 
@@ -278,7 +278,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Each Medicare+Choice organization shall, for each Medicare+Choice plan it operates, have an agreement with an independent quality review and improvement organization approved by the Secretary to perform functions of the type described in sections 1320c–3(a)(4)(B) and 1320c–3(a)(14) of this title with respect to services furnished by Medicare+Choice plans for which payment is made under this subchapter. The previous sentence shall not apply to a Medicare+�Choice private fee-for-service plan or a non-network MSA plan that does not employ utilization review.
+&emsp;&emsp;Each Medicare+Choice organization shall, for each Medicare+Choice plan it operates, have an agreement with an independent quality review and improvement organization approved by the Secretary to perform functions of the type described in sections1320c–3(a)(4)(B) and 1320c–3(a)(14) of this title with respect to services furnished by Medicare+Choice plans for which payment is made under this subchapter. The previous sentence shall not apply to a Medicare+�Choice private fee-for-service plan or a non-network MSA plan that does not employ utilization review.
 
 #### (B) Nonduplication of accreditation
 
@@ -344,7 +344,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (A) In general
 
-&emsp;&emsp;A Medicare+Choice organization shall have a procedure for making determinations regarding whether an individual enrolled with the plan of the organization under this part is entitled to receive a health service under this section and the amount (if any) that the individual is required to pay with respect to such service. Subject to paragraph\(3), such procedures shall provide for such determination to be made on a timely basis.
+&emsp;&emsp;A Medicare+Choice organization shall have a procedure for making determinations regarding whether an individual enrolled with the plan of the organization under this part is entitled to receive a health service under this section and the amount (if any) that the individual is required to pay with respect to such service. Subject to paragraph (3), such procedures shall provide for such determination to be made on a timely basis.
 
 #### (B) Explanation of determination
 
@@ -354,7 +354,7 @@ Each Medicare+Choice organization must provide meaningful procedures for hearing
 
 #### (A) In general
 
-&emsp;&emsp;The organization shall provide for reconsideration of a determination described in paragraph (1)(B) upon request by the enrollee involved. The reconsideration shall be within a time period specified by the Secretary, but shall be made, subject to paragraph (3), not later than 60 days after the date of the receipt of the request for reconsideration.
+&emsp;&emsp;The organization shall provide for reconsideration of a determination described inparagraph (1)(B) upon request by the enrollee involved. The reconsideration shall be within a time period specified by the Secretary, but shall be made, subject to paragraph (3), not later than 60 days after the date of the receipt of the request for reconsideration.
 
 #### (B) Physician decision on certain reconsiderations
 
@@ -412,7 +412,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (1) Procedures
 
-&emsp;Insofar as a Medicare+Choice organization offers benefits under a Medicare+Choice plan through agreements with physicians, the organization shall establish reasonable procedures relating to the participation (under an agreement between a physician and the organization) of physicians under such a plan. Such procedures shall include—
+&emsp;Insofar as a Medicare+Choice organization offers benefits under a Medicare+Choice plan through agreements with physicians, the organization shall establish reasonable proceduresrelating to the participation (under an agreement between a physician and the organization) of physicians under such a plan. Such procedures shall include—
 
 &emsp;&emsp;(A) providing notice of the rules regarding participation,
 
@@ -468,7 +468,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (5) Limitation on provider indemnification
 
-&emsp;A Medicare+Choice organization may not provide (directly or indirectly) for a health care professional, provider of services, or other entity providing health care services (or group of such professionals, providers, or entities) to indemnify the organization against any liability resulting from a civil action brought for any damage caused to an enrollee with a Medicare+Choice plan of the organization under this part by the organization's denial of medically necessary care.
+&emsp;A Medicare+Choice organization may not provide (directly or indirectly) for a health care professional, provider of services, or otherentity providing health care services (or group of such professionals, providers, or entities) to indemnify the organization against any liability resulting from a civil action brought for any damage caused to an enrollee with a Medicare+Choice plan of the organization under this part by the organization's denial of medically necessary care.
 
 #### (6) Special rules for Medicare+Choice private fee-for-service plans
 
@@ -524,7 +524,7 @@ Each Medicare+Choice organization shall meet the requirement of section 1395cc(f
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each Medicare+Choice organization that offers a Medicare+Choice private fee-for-service plan shall provide that enrollees under the plan who are furnished services for which payment is sought under the plan are provided an appropriate explanation of benefits (consistent with that provided under parts A and B of this subchapter and, if applicable, under medicare supplemental policies) that includes a clear statement of the amount of the enrollee's liability (including any liability for balance billing consistent with thissubsection) with respect to payments for such services.
+&emsp;&emsp;&emsp;Each Medicare+Choice organization that offers a Medicare+Choice private fee-for-service plan shall provide that enrollees under the plan who are furnished services for which payment is sought under the plan are provided an appropriate explanation of benefits (consistent with that provided under parts A and B of this subchapter and, if applicable, under medicare supplemental policies) that includes a clear statement of the amount of the enrollee's liability (including any liability for balance billing consistent with this subsection) with respect to payments for such services.
 
 #### (ii) Advance notice before receipt of inpatient hospital services and certain other services
 

@@ -16,7 +16,7 @@ Pub. L. 105–368, title I, §103, Nov. 11, 1998, 112 Stat. 3322, provided that:
 
 Assessment.—The Secretary of Veterans Affairs shall seek to enter into an agreement with the National Academy of Sciences, or another appropriate independent organization, under which such entity shall assist in developing a plan for the establishment of a national center or national centers for the study of war-related illnesses and post-deployment health issues. The purposes of such a center may include—
 
-&emsp;“(1) carrying out and promoting research regarding the etiologies, diagnosis, treatment, and preventionof war-related illnesses and post-deployment health issues; and
+&emsp;“(1) carrying out and promoting research regarding the etiologies, diagnosis, treatment, and prevention of war-related illnesses and post-deployment health issues; and
 
 &emsp;“(2) promoting the development of appropriate health policies, including monitoring, medical recordkeeping, risk communication, and use of new technologies.
 

@@ -30,7 +30,7 @@
 
 (2) An individual not required by this subsection to be a citizen of the United States may be engaged only if the individual has a declaration of intention to become a citizen of the United States or other evidence of admission to the United States for permanent residence. An alien may be employed only in the steward's department of the passenger vessel.
 
-(e) If a documented vessel is deprived for any reason of the services of an individual (exceptthe master and the radio officer) when on a foreign voyage and a vacancy consequently occurs, until the vessel's return to a port at which in the most expeditious manner a replacement who is a citizen of the United States can be obtained, an individual not a citizen of the United States may serve in—
+(e) If a documented vessel is deprived for any reason of the services of an individual (except the master and the radio officer) when on a foreign voyage and a vacancy consequently occurs, until the vessel's return to a port at which in the most expeditious manner a replacement who is a citizen of the United States can be obtained, an individual not a citizen of the United States may serve in—
 
 &emsp;(1) the vacancy; or
 
@@ -135,6 +135,10 @@ Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided th
 Section 5(a)(3) of Pub. L. 100–239 provided that: “Paragraph (2) of this subsection \[amending this section\] is effective 30 days after the date of enactment of this Act \[Jan. 11, 1988\].”
 
 Section 5(d)(2) of Pub. L. 100–239 provided that: “This subsection \[amending this section\] is effective 360 days after the day of the enactment of this Act \[Jan. 11, 1988\].”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Application of Section to Fishing Vessels in California
 

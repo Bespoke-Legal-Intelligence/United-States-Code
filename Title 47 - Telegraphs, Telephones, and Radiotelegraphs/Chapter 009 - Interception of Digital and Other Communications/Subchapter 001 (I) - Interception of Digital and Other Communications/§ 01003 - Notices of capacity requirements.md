@@ -30,7 +30,7 @@
 
 #### (2) Expansion to maximum capacity
 
-&emsp;After the date described in paragraph (1), a telecommunications carrier shall, subject tosubsection (e) of this section, ensure that it can accommodate expeditiously any increase in the actual number of communication interceptions, pen registers, and trap and trace devices that authorized agencies may seek to conduct and use, up to the maximum capacity requirement set forth in the notice under subsection (a)(1)(B) of this section.
+&emsp;After the date described in paragraph (1), a telecommunications carrier shall, subject to subsection (e) of this section, ensure that it can accommodate expeditiously any increase in the actual number of communication interceptions, pen registers, and trap and trace devices that authorized agencies may seek to conduct and use, up to the maximum capacity requirement set forth in the notice under subsection (a)(1)(B) of this section.
 
 #### (c) Notices of increased maximum capacity requirements
 
@@ -48,7 +48,7 @@ Within 180 days after the publication by the Attorney General of a notice of cap
 
 #### (e) Reimbursement required for compliance
 
-The Attorney General shall review the statements submitted under subsection (d) of this section and may, subject to the availability of appropriations, agree to reimburse a telecommunications carrier for costs directly associated with modifications to attain such capacity requirement that are determined to be reasonable in accordance with section 1008(e) of this title. Until the Attorney General agrees to reimburse such carrier for such modification, such carrier shall be considered to be in compliance with the capacity notices under subsection (a) or (c) of this section.
+The Attorney General shall review the statements submitted under subsection (d) of this section and may, subject to the availability of appropriations, agree to reimburse a telecommunications carrier for costs directly associated with modifications to attain such capacity requirement that are determined to be reasonable in accordance with section 1008(e) of thistitle. Until the Attorney General agrees to reimburse such carrier for such modification, such carrier shall be considered to be in compliance with the capacity notices under subsection (a) or (c) of this section.
 
 (Pub. L. 103–414, title I, §104, Oct. 25, 1994, 108 Stat. 4282.)
 

@@ -22,7 +22,7 @@ Not later than January 1, 2003, and every 2 years thereafter, the Secretary shal
 
 #### Prior Provisions
 
-A prior section 7132, Pub. L. 89–10, title IV, §4122, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3687, related to grants to institutions of higher education, prior to repeal by Pub. L. 105–244, §3, title IX, §981, Oct. 7, 1998, 112 Stat. 1585, 1837, effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244.
+A prior section 7132, Pub. L. 89–10, title IV, §4122, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3687, related to grants to institutions of higher education, prior to repeal by Pub. L. 105–244, §3, title IX,§981, Oct. 7, 1998, 112 Stat. 1585, 1837, effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244.
 
 #### Section Referred to in Other Sections
 

@@ -1,13 +1,8 @@
 ## PART IV—GENERAL ADMINISTRATIVE PROVISIONS
 
 | Chap. |  | Sec. |
-| :--- | ---: | ---: |
-| [<b>51.</b>](Chapter%20051%20-%20Claims%2C%20Effective%20Dates%2C%20and%20Payments/README.md) | <b>Claims, Effective Dates, and Payments</b> | <b>5101 </b><b><sup>1</sup></b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
 | :--- | :---: | ---: |
+| [<b>51.</b>](Chapter%20051%20-%20Claims%2C%20Effective%20Dates%2C%20and%20Payments/README.md) | <b>Claims, Effective Dates, and Payments</b> | <b>5100</b> |
 | [<b>53.</b>](Chapter%20053%20-%20Special%20Provisions%20Relating%20to%20Benefits/README.md) | <b>Special Provisions Relating to Benefits</b> | <b>5301</b> |
 | [<b>55.</b>](Chapter%20055%20-%20Minors%2C%20Incompetents%2C%20and%20Other%20Wards/README.md) | <b>Minors, Incompetents, and Other Wards</b> | <b>5501</b> |
 | [<b>57.</b>](Chapter%20057%20-%20Records%20and%20Investigations/README.md) | <b>Records and Investigations</b> | <b>5701</b> |
@@ -17,6 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–330, title III, §308(g)(1)(A), Dec. 6, 2002, 116 Stat. 2828, substituted “5100” for “5101” in item for chapter 51.
 
 1991—Pub. L. 102–40, title IV, §402(c)(2), May 7, 1991, 105 Stat. 239, substituted “5101” for “3001” in item for chapter 51, “5301” for “3101” in item for chapter 53, “5501” for “3201” in item for chapter 55, “5701” for “3301” in item for chapter 57, “5901” for “3401” in item for chapter 59, and “6101” for “3501” in item for chapter 61.
 

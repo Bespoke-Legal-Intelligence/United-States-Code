@@ -4,6 +4,10 @@ There is established in the executive branch of the Government an independent ag
 
 (May 10, 1950, ch. 171, §2, 64 Stat. 149.)
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–368, §1, Dec. 19, 2002, 116 Stat. 3034, provided that: “This Act \[enacting sections 1862n to 1862n–10 of this title, amending sections 1862i, 1862<i>l</i>, 1863, 1873, and 1885 of this title, enacting provisions set out as notes under sections 1862b, 1862g, 1862n, 1864, and 1885c of this title, and amending provisions set out as a note under section 1862k of this title\] may be cited as the ‘National Science Foundation Authorization Act of 2002’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–207, §1, July 29, 1998, 112 Stat. 869, provided that: “This Act \[enacting sections 1862k to 1862m of this title, amending sections 1862, 1863, 1864, 1873, 1874, 1881a, 1881b, 1885b, 1885c, and 6686 of this title, and enacting provisions set out as notes under sections 1862k and 6686 of this title\] may be cited as the ‘National Science Foundation Authorization Act of 1998’.”
@@ -48,7 +52,7 @@ Section 1 of act May 10, 1950, provided: “That this Act \[enacting this chapte
 
 #### Transfer of Functions
 
-Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2 of 1962, abolished and all functions vested by law in Office of Science and Technology or Director or Deputy Director of Office of Science and Technology transferred to Director of National Science Foundation by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
+Office of Science and Technology, including offices of Director and Deputy Director, provided for by sections 1 and 2 of Reorg. Plan No. 2 of 1962, abolished and all functions vested by law in Office of Science and Technology or Director or Deputy Director of Office ofScience and Technology transferred to Director of National Science Foundation by sections 2 and 3(a)(5) of Reorg. Plan No. 1 of 1973, eff. July 1, 1973, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Continuation of Existing Offices, Procedures, and Organization
 
@@ -76,7 +80,7 @@ Sec. 4. \[Repealed. Pub. L. 94–282, title V, §502, May 11, 1976, 90 Stat. 472
 
 I74Section 21. Executive Committee
 
-(a) There is hereby established the Executive Committee of the National Science Board, hereafter in thisPart referred to as the Executive Committee, which shall be composed of five voting members. Four of the members shall be elected as hereinafter provided. The Director provided for in section 22 of this reorganization plan, ex officio, shall be the fifth member and the chairman of the Executive Committee.
+(a) There is hereby established the Executive Committee of the National Science Board, hereafter in this Part referred to as the Executive Committee, which shall be composed of five voting members. Four of the members shall be elected as hereinafter provided. The Director provided for in section 22 of this reorganization plan, ex officio, shall be the fifth member and the chairman of the Executive Committee.
 
 (b) At its annual meeting held in 1964 and at each of its succeeding annual meetings the National Science Board, hereafter in this Part referred to as the Board, shall elect two of its members as members of the Executive Committee, and the Executive Committee members so elected shall hold office for two years from the date of their election. Any person who has been a member of the Executive Committee (established by this reorganization plan) for six consecutive years shall thereafter be ineligible for service as a member thereof during the two-year period following the expiration of such sixth year. For the purposes of this subsection, the period between any two consecutive annual meetings of the Board shall be deemed to be one year.
 
@@ -158,7 +162,7 @@ The ever-growing significance and complexity of Federal programs in science and 
 
 &emsp;(2) The Office of the Special Assistant to the President for Science and Technology was established in 1957. The Special Assistant serves as Chairman of both the President's Science Advisory Committee and the Federal Council for Science and Technology, mentioned below.
 
-&emsp;(3) At the same time, the Science Advisory Committee, composed of eminent non-Government scientists and engineers, and located within the Office of Defense Mobilization, was reconstituted in the White House Office as the President's Science Advisory Committee.
+&emsp;(3) At the same time, the Science Advisory Committee, composed of eminent non-Government scientists and engineers, and located within the Office of Defense Mobilization, was reconstituted in the WhiteHouse Office as the President's Science Advisory Committee.
 
 &emsp;(4) The Federal Council for Science and Technology, composed of policy officials of the principal agencies engaged in scientific and technical activities, was established in 1959.
 
@@ -176,7 +180,7 @@ Part II of the reorganization plan provides for certain reorganizations within t
 
 &emsp;(3) Committees advisory to each of the divisions of the Foundation will make their recommendations to the Director only rather than to both the Director and the National Science Board.
 
-After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 2 of 1962 is necessary to accomplish one ormore of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
+After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 2 of 1962 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended.
 
 I have found and hereby declare that it is necessary to include in the reorganization plan, by reason of reorganizations made thereby, provisions for the appointment and compensation of the Director and Deputy Director of the Office of Science and Technology and of the Director of the National Science Foundation. The rate of compensation fixed for each of these officers is that which I have found to prevail in respect of comparable officers in the executive branch of the Government.
 

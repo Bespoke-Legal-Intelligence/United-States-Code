@@ -82,5 +82,5 @@ In subsection (a), the words “one or more” are omitted as surplus.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40119, 44501, 44508, 48102, 50103 of this title.
+This section is referred to in sections 44501, 44508, 48102, 50103 of this title.
 

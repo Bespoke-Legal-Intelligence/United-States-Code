@@ -22,5 +22,5 @@ Section 8(c) of Pub. L. 101–12 provided that: “The personnel, assets, liabil
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 38 section 4324.
+This section is referred to in title 38 section 4324; title 49 section 40122.
 

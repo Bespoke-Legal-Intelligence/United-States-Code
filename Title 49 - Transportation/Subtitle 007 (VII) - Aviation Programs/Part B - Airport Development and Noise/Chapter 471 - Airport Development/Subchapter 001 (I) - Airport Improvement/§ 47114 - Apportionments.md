@@ -72,7 +72,7 @@ Suballocation formula.—Any funds apportioned under subparagraph (A) to sponsor
 
 &emsp;(C)
 
-Limitation.—In any fiscal year in which the total amount made available under section 48103 is less than $3,200,000,000, not more than8 percent of the amount apportioned under subparagraph (A) may be apportioned for any one airport.
+Limitation.—In any fiscal year in which the total amount made available under section 48103 is less than $3,200,000,000, not more than 8 percent of the amount apportioned under subparagraph (A) may be apportioned for any one airport.
 
 &emsp;(D)
 
@@ -196,7 +196,7 @@ Special rule for transitioning airorts.<sup>1</sup>—
 
 &emsp;&emsp;(A)
 
-In general.—Beginning with the fiscal year following the first calendar year in which the sponsor of an airport has more than .25 percent of the total number of boardings in the United States, the sum of the amount that would be apportioned under this section after application of paragraph (1) in a fiscal year to such sponsor and the projected revenues to be derived from the fee in such fiscal year shall not be less than the sum of the apportionment to such airport for the preceding fiscal year and the revenues derived from such fee in the preceding fiscal year.
+In general.—Beginning with the fiscal year following the first calendar year in which the sponsor of an airport has more than .25 percent of the total number of boardings in the United States, the sum of the amount that would be apportioned under this section after application of paragraph (1) in a fiscal year to such sponsor and the projected revenues to be derived from the fee in such fiscal year shall not be less than the sum of the apportionment to such airport for the preceding fiscal year and the revenuesderived from such fee in the preceding fiscal year.
 
 &emsp;&emsp;(B)
 
@@ -321,7 +321,7 @@ Subsec. (c)(2)(A). Pub. L. 106–181, §104(b)(1), substituted “3 percent” f
 
 Subsec. (c)(2)(C). Pub. L. 106–181, §104(b)(2), substituted “In any fiscal year in which the total amount made available under section 48103 is less than $3,200,000,000, not more than” for “Not more than”.
 
-Subsec. (d). Pub. L. 106–181, §104(c), amended heading and text of subsec. (d) generally, revising and restating as pars. (1) to (6) provisions formerly contained in pars. (1) to (3).
+Subsec. (d). Pub. L. 106–181, §104(c), amended heading and text of subsec. (d) generally, revising and restatingas pars. (1) to (6) provisions formerly contained in pars. (1) to (3).
 
 Subsec. (e). Pub. L. 106–181, §104(d)(1), substituted “Supplemental” for “Alternative” in heading.
 
@@ -357,7 +357,7 @@ Subsec. (d)(2)(B), (C). Pub. L. 104–264, §§121(b)(3), (4), substituted “49
 
 1994—Subsec. (c)(1)(B). Pub. L. 103–429, §6(66)(A), substituted “$500,000” for “$400,000”.
 
-Subsec. (c)(3). Pub. L. 103–429, §6(66)(B), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B) of this paragraph, the”for “The”, “49.5” for “44” in two places, and “If this subparagraph” for “If this paragraph”, and added subpar. (B).
+Subsec. (c)(3). Pub. L. 103–429, §6(66)(B), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B) of this paragraph, the” for “The”, “49.5” for “44” in two places, and “If this subparagraph” for “If this paragraph”, and added subpar. (B).
 
 #### Effective Date of 2000 Amendment
 

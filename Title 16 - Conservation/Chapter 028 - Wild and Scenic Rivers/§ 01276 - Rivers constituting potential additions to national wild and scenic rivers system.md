@@ -56,7 +56,7 @@ The following rivers are hereby designated for potential addition to the nationa
 
 (26) Upper Iowa, Iowa: The entire river.
 
-(27) Youghiogheny, Maryland and Pennsylvania: The segment from Oakland, Maryland, to the Youghiogheny Reservoir, and from the Youghiogheny Dam downstream to the town of Connellsville, Pennsylvania.
+(27) Youghiogheny, Maryland and Pennsylvania: The segment from Oakland, Maryland, tothe Youghiogheny Reservoir, and from the Youghiogheny Dam downstream to the town of Connellsville, Pennsylvania.
 
 (28) American, California: The North Fork from the Cedars to the Auburn Reservoir.
 
@@ -268,7 +268,7 @@ Lamprey, New Hampshire.—The segment from the southern Lee town line downstream
 
 (113)
 
-White Clay Creek, Delaware and Pennsylvania.—The headwaters of the river in Pennsylvania to its confluence with the ChristinaRiver in Delaware, including the East, West, and Middle Branches, Middle Run, Pike Creek, Mill Creek, and other main branches and tributaries as determined by the Secretary of the Interior (herein after referred to as the White Clay Creek).
+White Clay Creek, Delaware and Pennsylvania.—The headwaters of the river in Pennsylvania to its confluence with the Christina River in Delaware, including the East, West, and Middle Branches, Middle Run, Pike Creek, Mill Creek, and other main branches and tributaries as determined by the Secretary of the Interior (herein after referred to as the White Clay Creek).
 
 (114)
 
@@ -328,7 +328,7 @@ Sturgeon, Hiawatha National Forest, Michigan.—The 18.1-mile segment from Sixte
 
 Tahquamenon, Michigan.—The 103.5-mile segment as follows—
 
-&emsp;(A) the 90-mile segment of the mainstream beginning at the source in section 21, township 47 north, range 12 west, to the mouth at Whitefish Bay; and
+&emsp;(A) the 90-mile segment of the mainstream beginning at the source in section 21, township47 north, range 12 west, to the mouth at Whitefish Bay; and
 
 &emsp;(B) the 13.5-mile segment of the east branch from the western boundary of the Hiawatha National Forest in section 19, township 46 north, range 6 west, to its confluence with the mainstream.
 
@@ -420,7 +420,7 @@ Eightmile River, Connecticut.—The segment from its headwaters downstream to it
 
 (2) The study of the river named in subparagraph (56) of subsection (a) of this section shall be completed and the report thereon submitted by not later than January 3, 1976.
 
-(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal years after November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
+(3) The studies of the rivers named in paragraphs (59) through (76) of subsection (a) of this section shall be completed and reports submitted thereon not later than five full fiscal yearsafter November 10, 1978. The study of rivers named in paragraphs (62) through (64) of subsection (a) of this section shall be completed and the report thereon submitted by not later than April 1981. The study of the river named in paragraph (90) of subsection (a) of this section shall be completed not later than three years after October 17, 1984. The study of the river named in paragraph (93) of subsection (a) of this section shall be completed not later than three years after October 30, 1986.
 
 (4) For the purposes of conducting the studies of rivers named in subsection (a) of this section, there are authorized to be appropriated such sums as necessary.
 
@@ -454,7 +454,7 @@ Eightmile River, Connecticut.—The segment from its headwaters downstream to it
 
 &emsp;(ii) consider previous plans for the protection of affected cultural, recreational, and natural resources (including water supply and water quality) and existing State and local regulations, so as to avoid unnecessary duplication.
 
-(C) Pursuant to section 1282(b)(1) of this title, the Secretary shall undertake a river conservation plan for the segment of the Delaware River from the northern city limits of Trenton, New Jersey, to the Southern <sup>7</sup> boundary of Bucks County, Pennsylvania.
+(C) Pursuant to section 1282(b)(1) of this title, the Secretary shall undertake a river conservation plan for the segment of the Delaware River from the northern city limits of Trenton, NewJersey, to the Southern <sup>7</sup> boundary of Bucks County, Pennsylvania.
 
 (15) The study of the Rio Grande in New Mexico shall be completed and the report submitted not later than 3 years after May 4, 1994.
 

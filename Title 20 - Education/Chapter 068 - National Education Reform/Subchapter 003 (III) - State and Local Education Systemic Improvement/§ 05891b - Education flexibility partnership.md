@@ -46,7 +46,7 @@
 
 &emsp;&emsp;&emsp;(iii) a description of clear educational objectives the State intends to meet under the educational flexibility plan;
 
-&emsp;&emsp;&emsp;(iv) a description of how the educational flexibility plan is consistent with and willassist in implementing the State comprehensive reform plan or, if a State does not have a comprehensive reform plan, a description of how the educational flexibility plan is coordinated with activities described in section 1111(b) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(b)\];
+&emsp;&emsp;&emsp;(iv) a description of how the educational flexibility plan is consistent with and will assist in implementing the State comprehensive reform plan or, if a State does not have a comprehensive reform plan, a description of how the educational flexibility plan is coordinated with activities described in section 1111(b) of the Elementary and Secondary Education Act of 1965 \[20 U.S.C. 6311(b)\];
 
 &emsp;&emsp;&emsp;(v) a description of how the State educational agency will evaluate, (consistent with the requirements of title I of the Elementary and Secondary Education Act of 1965) \[20 U.S.C. 6301 et seq.\], the performance of students in the schools and local educational agencies affected by the waivers; and
 
@@ -132,7 +132,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) information describing the relationship of the waivers to the performance of schools and students affected by the waivers; and
 
-&emsp;&emsp;&emsp;&emsp;(IV) an assurance from State program managers that the data reported under this section are reliable, complete, and accurate, as defined by the State, or a description of a plan for improving the reliability, completeness, and accuracy of such data as defined by the State.
+&emsp;&emsp;&emsp;&emsp;(IV) an assurance from State program managers that the data reported under this section are reliable, complete, and accurate, as defined by the State, or adescription of a plan for improving the reliability, completeness, and accuracy of such data as defined by the State.
 
 #### (C) Secretary's reports
 
@@ -176,7 +176,7 @@
 
 &emsp;&emsp;(B) shall provide the opportunity for parents, educators, and all other interested members of the community to comment regarding the proposed waiver authority or waiver;
 
-&emsp;&emsp;(C) shall provide the opportunity described in subparagraph (B) in accordance with anyapplicable State law specifying how the comments may be received, and how the comments may be reviewed by any member of the public; and
+&emsp;&emsp;(C) shall provide the opportunity described in subparagraph (B) in accordance with any applicable State law specifying how the comments may be received, and how the comments may be reviewed by any member of the public; and
 
 &emsp;&emsp;(D) shall submit the comments received with the agency's application to the Secretary or the State educational agency, as appropriate.
 
@@ -256,7 +256,7 @@ education reform” in the Department of Education Appropriations Act, 1996 (Pub
 
 #### (e) Publication
 
-A notice of the Secretary's decision to authorize State educational agencies to issue waivers under this section, including a description of the rationale the Secretary used to approve applications under subsection (a)(3)(B) of this section, shall be published in the Federal Register and the Secretary shall provide for the dissemination of such notice to State educational agencies, interested parties (including educators,parents, students, and advocacy and civil rights organizations), and the public.
+A notice of the Secretary's decision to authorize State educational agencies to issue waivers under this section, including a description of the rationale the Secretary used to approve applications under subsection (a)(3)(B) of this section, shall be published in the Federal Register and the Secretary shall provide for the dissemination of such notice to State educational agencies, interested parties (including educators, parents, students, and advocacy and civil rights organizations), and the public.
 
 (Pub. L. 106–25, §4, Apr. 29, 1999, 113 Stat. 42; Pub. L. 107–110, title X, §1073, Jan. 8, 2002, 115 Stat. 2090.)
 

@@ -8,7 +8,7 @@ The Secretary of the Treasury shall direct the superintendence of the collection
 
 R.S. §249 derived from act May 8, 1792, ch. 37, §6, 1 Stat. 280.
 
-Section, prior to its incorporation into the Code, contained the words “and tonnage” after “duties on imports.” These words were omitted as superseded by section 3 of Title 46, Appendix, Shipping, which charged the Chief of the Bureau of Navigation and Steamboat Inspection (now Commissioner of Customs) with the execution of the laws relating to the collection of the tonnage tax.
+Section, prior to its incorporation into the Code, contained the words “and tonnage,” after “duties on imports”. These words were omitted as superseded by section 3 of Title 46, Appendix, Shipping, which charged the Chief of the Bureau of Navigation and Steamboat Inspection with the execution of the laws relating to the collection of the tonnage tax.
 
 #### Analysis Regarding CES Program; Effect on Implementation of Program
 
@@ -20,7 +20,7 @@ Pub. L. 100–203, title IX, §9501(c), Dec. 22, 1987, 101 Stat. 1330–380, as 
 
 &emsp;“(A) may not, after the date of the enactment of this Act \[Dec. 22, 1987\], establish any new centralized cargo examination station at any ocean port, airport, or land border location unless the Customs Service provides to the Committees advance notice, in writing, of not less than 90 days regarding the proposed establishment; and
 
-&emsp;“(B) shall, on such date of enactment, suspend operations at each centralized cargo examination stationthat was operating at an airport on the day before such date until the 90th day after a date—
+&emsp;“(B) shall, on such date of enactment, suspend operations at each centralized cargo examination station that was operating at an airport on the day before such date until the 90th day after a date—
 
 &emsp;&emsp;“(i) that is not earlier than the date on which the analysis required under paragraph (1) is submitted to the Committees, and
 
@@ -29,4 +29,10 @@ Pub. L. 100–203, title IX, §9501(c), Dec. 22, 1987, 101 Stat. 1330–380, as 
 > During the period of suspension of operations under subparagraph (B) at any centralized cargo examination station at an airport, the Secretary of the Treasury shall maintain customs operations and staffing at that airport at a level not less than that which was in effect immediately before the suspension took effect.
 
 “(3) The Commissioner of Customs is authorized to obtain from the operators of centralized cargo examination stations information regarding the fees paid to them for the provision of services at these stations.”
+
+\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 6 section 212.
 

@@ -17,6 +17,7 @@
 
 |  |  |
 | :--- | ---: |
+| [4507a.](Subchapter%20001%20%28I%29%20-%20Awards%20for%20Superior%20Accomplishments/%C2%A7%2004507a%20-%20Awarding%20of%20ranks%20to%20other%20senior%20career%20employees.md) | Awarding of ranks to other senior career employees. |
 | [4508\.](Subchapter%20001%20%28I%29%20-%20Awards%20for%20Superior%20Accomplishments/%C2%A7%2004508%20-%20Limitation%20of%20awards%20during%20a%20Presidential%20election%20year.md) | Limitation of awards during a Presidential election year. |
 | [4509\.](Subchapter%20001%20%28I%29%20-%20Awards%20for%20Superior%20Accomplishments/%C2%A7%2004509%20-%20Prohibition%20of%20cash%20award%20to%20Executive%20Schedule%20officers.md) | Prohibition of cash award to Executive Schedule officers. |
 
@@ -45,6 +46,8 @@
 
 #### Amendments
 
+2001—Pub. L. 107–67, title VI, §641(c), Nov. 12, 2001, 115 Stat. 555, added item 4507a.
+
 1994—Pub. L. 103–425, §2(b), Oct. 31, 1994, 108 Stat. 4370, added items 4508 and 4509.
 
 1992—Pub. L. 102–487, §1(b), Oct. 24, 1992, 106 Stat. 3134, struck out item 4514 “Expiration of authority”.
@@ -61,7 +64,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 3362 of this title; title 10 section 1124; title 28 sections 995, 996.
+This chapter is referred to in sections 3362, 9701 of this title; title 10 section 1124; title 28 sections 995, 996.
 
 
 ---

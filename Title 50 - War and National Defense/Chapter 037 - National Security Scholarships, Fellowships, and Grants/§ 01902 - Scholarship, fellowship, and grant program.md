@@ -16,9 +16,11 @@
 
 &emsp;&emsp;&emsp;(i) are United States citizens to enable such students to pursue education as part of a graduate degree program of a United States institution of higher education in the disciplines of foreign languages, area studies, counterproliferation studies, and other international fields relating to the national security interests of the United States that are critical areas of those disciplines (as determined under section 1903(d)(4)(B) of this title) and in which deficiencies exist (as identified in the assessments undertaken pursuant to section 1906(d) of this title); and
 
-&emsp;&emsp;&emsp;(ii) pursuant to subsection (b)(2)(B) of this section, enter into an agreement to work in a national security position or work in the field of education in the area of study for which the fellowship was awarded; and
+&emsp;&emsp;&emsp;(ii) pursuant to subsection (b)(2)(B) of this section, enter into an agreement to work in a national security position or work in the field of education in the area of study for which the fellowship was awarded;
 
-&emsp;&emsp;(C) awarding grants to institutions of higher education to enable such institutions to establish, operate, or improve programs in foreign languages, area studies, counterproliferation studies, and other international fields that are critical areas of those disciplines (as determined under section 1903(d)(4)(C) of this title).
+&emsp;&emsp;(C) awarding grants to institutions of higher education to enable such institutions to establish, operate, or improve programs in foreign languages, area studies, counterproliferation studies, and other international fields that are critical areas of those disciplines (as determined under section 1903(d)(4)(C) of this title); and
+
+&emsp;&emsp;(D) awarding grants to institutions of higher education to carry out activities under the National Flagship Language Initiative (described in subsection (i) of this section).
 
 #### (2) Funding allocations
 
@@ -29,6 +31,8 @@
 &emsp;&emsp;(B) 1/3 of such amount for the awarding of fellowships pursuant to paragraph (1)(B); and
 
 &emsp;&emsp;(C) 1/3 of such amount for the awarding of grants pursuant to paragraph (1)(C).
+
+> &emsp;The funding allocation under this paragraph shall not apply to grants under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i) of this section. For the authorization of appropriations for the National Flagship Language Initiative, see section 1911 of this title.
 
 #### (3) Consultation with National Security Education Board
 
@@ -50,13 +54,13 @@ In awarding a scholarship or fellowship under the program, the Secretary or cont
 
 &emsp;&emsp;&emsp;(i) work in a national security position for a period specified by the Secretary, which period shall be no longer than the period for which scholarship assistance was provided; or
 
-&emsp;&emsp;&emsp;(ii) if the recipient demonstrates to the Secretary (in accordance with such regulations) that no national security position is available, work in the field of higher education in a discipline relating to the foreign country, foreign language, area study, counterproliferation study, or international field of study for which the scholarship was awarded, for a period specified by the Secretary, which period shall be determined in accordance with clause (i); or
+&emsp;&emsp;&emsp;(ii) if the recipient demonstrates to the Secretary (in accordance with such regulations) that no national security position in an agency or office of the Federal Government having national security responsibilities is available, work in other offices or agencies of the Federal Government or in the field of higher education in a discipline relating to the foreign country, foreign language, area study, or international field of study for which the scholarship was awarded, for a period specified by the Secretary, which period shall be determined in accordance with clause (i); or
 
 &emsp;&emsp;(B) upon completion of such recipient's education under the program, and in accordance with such regulations—
 
 &emsp;&emsp;&emsp;(i) work in a national security position for a period specified by the Secretary, which period shall be not less than one and not more than three times the period for which the fellowship assistance was provided; or
 
-&emsp;&emsp;&emsp;(ii) if the recipient demonstrates to the Secretary (in accordance with such regulations) that no national security position is available upon the completion of the degree, work in the field of higher education in a discipline relating to the foreign country, foreign language, area study, counterproliferation study, or international field of study for which the fellowship was awarded, for a period specified by the Secretary, which period shall be established in accordance with clause (i); and
+&emsp;&emsp;&emsp;(ii) if the recipient demonstrates to the Secretary (in accordance with such regulations) that no national security position is available upon the completion of the degree, work in other offices or agencies of the Federal Government or in the field of higher education in a discipline relating to foreign country, foreign language, area study, or international field of study for which the fellowship was awarded, for a period specified by the Secretary, which period shall be determined in accordance with clause (i); and
 
 &emsp;(3) if the recipient fails to meet either of the obligations set forth in paragraph (1) or (2), will reimburse the United States Government for the amount of the assistance provided the recipient under the program, together with interest at a rate determined in accordance with regulations issued by the Secretary.
 
@@ -78,13 +82,49 @@ No person who receives a grant, scholarship, or fellowship or any other type of 
 
 #### (g) Determination of agencies and offices of Federal Government having national security responsibilities
 
-(1) The Secretary, in consultation with the Board, shall annually determine and develop alist identifying each agency or office of the Federal Government having national security responsibilities at which a recipient of a fellowship or scholarship under this chapter will be able to make the recipient's foreign area and language skills available to such agency or office. The Secretary shall submit the first such list to the Congress and include each subsequent list in the annual report to the Congress, as required by section 1906(b)(6) of this title.
+(1) The Secretary, in consultation with the Board, shall annually determine and develop a list identifying each agency or office of the Federal Government having national security responsibilities at which a recipient of a fellowship or scholarship under this chapter will be able to make the recipient's foreign area and language skills available to such agency or office. The Secretary shall submit the first such list to the Congress and include each subsequent list in the annual report to the Congress, as required by section 1906(b)(6) of this title.
 
 (2) Notwithstanding section 1904 of this title, funds may not be made available from the Fund to carry out this chapter for fiscal year 1997 until 30 days after the date on which the Secretary of Defense submits to the Congress the first such list required by paragraph (1).
 
-(Pub. L. 102–183, title VIII, §802, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(b), (c), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 103–178, title III, §311(b)(2), (d), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(b)–(d), (f)(2), Sept. 23, 1996, 110 Stat. 2664–2666; Pub. L. 105–272, title III, §305(a)(2), Oct. 20, 1998, 112 Stat. 2400.)
+#### (h) Use of awards to attend the Foreign Language Center of the Defense Language Institute
+
+(1) The Secretary shall provide for the admission of award recipients to the Foreign Language Center of the Defense Language Institute (hereinafter in this subsection referred to as the “Center”). An award recipient may apply a portion of the applicable scholarship or fellowship award for instruction at the Center on a space-available basis as a Department of Defense sponsored program to defray the additive instructional costs.
+
+(2) Except as the Secretary determines necessary, an award recipient who receives instruction at the Center shall be subject to the same regulations with respect to attendance, discipline, discharge, and dismissal as apply to other persons attending the Center.
+
+(3) In this subsection, the term “award recipient” means an undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) of this section or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) of this section who—
+
+&emsp;(A) is in good standing;
+
+&emsp;(B) has completed all academic study in a foreign country, as provided for under the scholarship or fellowship; and
+
+&emsp;(C) would benefit from instruction provided at the Center.
+
+#### (i) National Flagship Language Initiative
+
+(1) Under the National Flagship Language Initiative, institutions of higher education shall establish, operate, or improve activities designed to train students in programs in a range of disciplines to achieve advanced levels of proficiency in those foreign languages that the Secretary identifies as being the most critical in the interests of the national security of the United States.
+
+(2) An undergraduate student who has been awarded a scholarship under subsection (a)(1)(A) of this section or a graduate student who has been awarded a fellowship under subsection (a)(1)(B) of this section may participate in the activities carried out under the National Flagship Language Initiative.
+
+(3) An institution of higher education that receives a grant pursuant to subsection (a)(1)(D) of this section shall give special consideration to applicants who are employees of the Federal Government.
+
+(4) For purposes of this subsection, the Foreign Language Center of the Defense Language Institute and any other educational institution that provides training in foreign languages operated by the Department of Defense or an agency in the intelligence community is deemed to be an institution of higher education, and may carry out the types of activities permitted under the National Flagship Language Initiative.
+
+(Pub. L. 102–183, title VIII, §802, Dec. 4, 1991, 105 Stat. 1271; Pub. L. 102–496, title IV, §404(b), (c), Oct. 24, 1992, 106 Stat. 3185; Pub. L. 103–178, title III, §311(b)(2), (d), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(b)–(d), (f)(2), Sept. 23, 1996, 110 Stat. 2664–2666; Pub. L. 105–272, title III, §305(a)(2), Oct. 20, 1998, 112 Stat. 2400; Pub. L. 107–296, title XIII, §1332(b), Nov. 25, 2002, 116 Stat. 2300; Pub. L. 107–306, title III, §§332, 333(a)(1)–(3), Nov. 27, 2002, 116 Stat. 2395, 2396.)
 
 #### Amendments
+
+2002—Subsec. (a)(1)(D). Pub. L. 107–306, §333(a)(1), added subpar. (D).
+
+Subsec. (a)(2). Pub. L. 107–306, §333(a)(3), inserted at end “The funding allocation under this paragraph shall not apply to grants under paragraph (1)(D) for the National Flagship Language Initiative described in subsection (i) of this section. For the authorization of appropriations for the National Flagship Language Initiative, see section 1911 of this title.”
+
+Subsec. (b)(2)(A)(ii). Pub. L. 107–296, §1332(b)(1), added cl. (ii) and struck out former cl. (ii) which read as follows: “if the recipient demonstrates to the Secretary (in accordance with such regulations) that no national security position is available, work in the field of higher education in a discipline relating to the foreign country, foreign language, area study, counterproliferation study, or international field of study for which the scholarship was awarded, for a period specified by the Secretary, which period shall be determined in accordance with clause (i); or”.
+
+Subsec. (b)(2)(B)(ii). Pub. L. 107–296, §1332(b)(2), added cl. (ii) and struck out former cl. (ii) which read as follows: “if the recipient demonstrates to the Secretary (in accordance with such regulations) that no national security position is available upon the completion of the degree, work in the field of higher education in a discipline relating to the foreign country, foreign language, area study, counterproliferation study, or international field of study for which the fellowship was awarded, for a period specified by the Secretary, which period shall be established in accordance with clause (i); and”.
+
+Subsec. (h). Pub. L. 107–306, §332, added subsec. (h).
+
+Subsec. (i). Pub. L. 107–306, §333(a)(2), added subsec. (i).
 
 1998—Subsec. (a)(1)(B)(i), (C), (4). Pub. L. 105–272, §305(a)(2)(A), inserted “counterproliferation studies,” after “area studies,”.
 
@@ -116,7 +156,17 @@ Subsec. (a)(4). Pub. L. 102–496, §404(b)(3), inserted at end “In addition, 
 
 Subsecs. (e), (f). Pub. L. 102–496, §404(c), redesignated subsec. (f) as (e) and struck out former subsec. (e) which read as follows: “The Secretary shall administer the program through the Defense Intelligence College.”
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–306, title III, §333(c), Nov. 27, 2002, 116 Stat. 2397, provided that: “The amendments made by this section \[enacting section 1911 of this title and amending this section and section 1903 of this title\] shall take effect on the date the Secretary of Defense submits the report required under section 334 of this Act \[116 Stat. 2397\] and notifies the appropriate committees of Congress (as defined in subsection (c) of that section) that the programs carried out under the David L. Boren National Security Education Act of 1991 \[50 U.S.C. 1901 et seq.\] are being managed in a fiscally and programmatically sound manner.”
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+#### Construction
+
+Pub. L. 107–306, title III, §333(d), Nov. 27, 2002, 116 Stat. 2397, provided that: “Nothing in this section \[enacting section 1911 of this title, amending this section and section 1903 of this title, and enacting provisions set out as notes under this section\] shall be construed as affecting any program or project carried out under the David L. Boren National Security Education Act of 1991 \[50 U.S.C. 1901 et seq.\] as in effect on the date that precedes the date of the enactment of this Act \[Nov. 27, 2002\].”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1903, 1904, 1906, 1908 of this title.
+This section is referred to in sections 1903, 1904, 1906, 1908, 1911 of this title.
 

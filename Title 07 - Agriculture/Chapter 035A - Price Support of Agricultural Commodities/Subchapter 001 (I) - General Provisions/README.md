@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 7301 of this title.
+This subchapter is referred to in sections 7301, 7901, 7992 of this title.
 
 
 ---

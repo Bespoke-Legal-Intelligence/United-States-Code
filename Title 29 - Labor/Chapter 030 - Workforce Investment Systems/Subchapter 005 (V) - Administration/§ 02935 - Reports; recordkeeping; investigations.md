@@ -80,7 +80,7 @@ Each State, each local board, and each recipient (other than a subrecipient, sub
 
 #### (1) In general
 
-&emsp;The reports required in subsection (c) of this section shall include information regarding programs and activities carried out under this chapter pertaining to—
+&emsp;The reports required in subsection (c) of this section shall include information regardingprograms and activities carried out under this chapter pertaining to—
 
 &emsp;&emsp;(A) the relevant demographic characteristics (including race, ethnicity, sex, and age) and other related information regarding participants;
 

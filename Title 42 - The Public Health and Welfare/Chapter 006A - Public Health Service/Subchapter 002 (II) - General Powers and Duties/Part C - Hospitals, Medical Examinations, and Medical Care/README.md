@@ -13,7 +13,7 @@ Part C—Hospitals, Medical Examinations, and Medical Care
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00247e - Gillis W. Long Hansen's Disease Center](%C2%A7%2000247e%20-%20Gillis%20W.%20Long%20Hansen%27s%20Disease%20Center.md)
+- [&sect; 00247e - National Hansen's Disease Programs Center](%C2%A7%2000247e%20-%20National%20Hansen%27s%20Disease%20Programs%20Center.md)
 - [&sect; 00248 - Control and management of hospitals; furnishing prosthetic and orthopedic devices; transfer of patients; disposal of articles produced by&#8230;](%C2%A7%2000248%20-%20Control%20and%20management%20of%20hospitals%3B%20furnishing%20prosthetic%20and%20orthopedic%20devices%3B%20transfer%20of%20patients%3B%20disposal%20of%20articles%20produced%20by%E2%80%A6.md)
 - [&sect; 00248a - Closing or transfer of hospitals; reduction of services; Congressional authorization required](%C2%A7%2000248a%20-%20Closing%20or%20transfer%20of%20hospitals%3B%20reduction%20of%20services%3B%20Congressional%20authorization%20required.md)
 - [&sect; 00248b - Transfer or financial self-sufficiency of public health service hospitals and clinics](%C2%A7%2000248b%20-%20Transfer%20or%20financial%20self-sufficiency%20of%20public%20health%20service%20hospitals%20and%20clinics.md)

@@ -110,7 +110,7 @@ The Secretary, acting through the Service, shall facilitate access to, or provid
 
 &emsp;(C) the assessment required under paragraph (2).
 
-(Pub. L. 94–437, title V, §503, as added Pub. L. 100–713, title V, §501, Nov. 23, 1988, 102 Stat. 4821;amended Pub. L. 101–630, title V, §505, Nov. 28, 1990, 104 Stat. 4564; Pub. L. 102–573, title V, §§501(b)(1), 505(b)(1), Oct. 29, 1992, 106 Stat. 4567, 4570.)
+(Pub. L. 94–437, title V, §503, as added Pub. L. 100–713, title V, §501, Nov. 23, 1988, 102 Stat. 4821; amended Pub. L. 101–630, title V, §505, Nov. 28, 1990, 104 Stat. 4564; Pub. L. 102–573, title V, §§501(b)(1), 505(b)(1), Oct. 29, 1992, 106 Stat. 4567, 4570.)
 
 #### References in Text
 

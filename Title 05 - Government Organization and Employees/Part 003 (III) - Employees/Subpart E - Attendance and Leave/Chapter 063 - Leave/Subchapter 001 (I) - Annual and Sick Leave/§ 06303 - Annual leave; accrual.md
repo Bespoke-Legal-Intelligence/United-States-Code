@@ -70,7 +70,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1992—Subsec. (a). Pub. L. 102–378 amended second sentence generally. Prior to amendment, second sentenceread as follows: “In determining years of service, an employee is entitled to credit for all service creditable under section 8332 of this title for the purpose of an annuity under subchapter III of chapter 83 of this title and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title.”
+1992—Subsec. (a). Pub. L. 102–378 amended second sentence generally. Prior to amendment, second sentence read as follows: “In determining years of service, an employee is entitled to credit for all service creditable under section 8332 of this title for the purpose of an annuity under subchapter III of chapter 83 of this title and all service creditable under section 8411 of this title for the purpose of chapter 84 of this title.”
 
 1991—Subsec. (a)(A)(ii). Pub. L. 102–83 substituted reference to section 1101 of title 38 for reference to section 301 of title 38.
 
@@ -122,5 +122,5 @@ Amendment by Pub. L. 99–335 effective Jan. 1, 1987, see section 702(a) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6129, 6302, 6304, 6305, 6312, 6333, 6367 of this title; title 42 section 237.
+This section is referred to in sections 6129, 6302, 6304, 6305, 6312, 6333, 6367 of this title; title 7 section 7657; title 42 section 237.
 

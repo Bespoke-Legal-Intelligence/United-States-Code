@@ -10,7 +10,7 @@
 
 (4) The remaining funds appropriated under this section shall be allocated among the States by the Secretary in amounts the Secretary determines necessary for the improvement in the States of the administration of the programs authorized under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] and this chapter, except for section 1786 of this title, including, but not limited to, improved program integrity and the quality of meals served to children.
 
-(5)(A) Not more than 25 percent of the amounts made available to each State underthis section for the fiscal year 1991 and 20 percent of the amounts made available to each State under this section for the fiscal year 1992 and for each succeeding fiscal year may remain available for obligation or expenditure in the fiscal year succeeding the fiscal year for which such amounts were appropriated.
+(5)(A) Not more than 25 percent of the amounts made available to each State under this section for the fiscal year 1991 and 20 percent of the amounts made available to each State under this section for the fiscal year 1992 and for each succeeding fiscal year may remain available for obligation or expenditure in the fiscal year succeeding the fiscal year for which such amounts were appropriated.
 
 (B)
 
@@ -30,7 +30,7 @@ Use of administrative funds.—Funds available to a State under this subsection 
 
 (7) Where the Secretary is responsible for the administration of programs under this chapter or the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\], the amount of funds that would be allocated to the State agency under this section and under section 13(k)(1) of the Richard B. Russell National School Lunch Act \[42 U.S.C. 1761(k)(1)\] shall be retained by the Secretary for the Secretary's use in the administration of such programs.
 
-(8) In the fiscal year 1991 and each succeeding fiscal year, in accordance with regulations issued by the Secretary, each State shall ensure that the State agency administering the distribution of commodities under programs authorized under this chapter and under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] is provided, from funds made available to the State under this subsection, an appropriate amount of funds for administrative costs incurred in distributing such commodities. In developing such regulations, the Secretary may consider the value of commodities provided to the State under this chapter and under the Richard B. Russell National School Lunch Act.
+(8) In the fiscal year 1991 and each succeeding fiscal year, in accordance with regulations issued by the Secretary, each State shall ensure that the State agency administering the distribution of commodities under programs authorized under this chapter and under the Richard B. Russell National School Lunch Act \[42 U.S.C. 1751 et seq.\] is provided, from funds madeavailable to the State under this subsection, an appropriate amount of funds for administrative costs incurred in distributing such commodities. In developing such regulations, the Secretary may consider the value of commodities provided to the State under this chapter and under the Richard B. Russell National School Lunch Act.
 
 (9)(A) If the Secretary determines that the administration of any program by a State under this chapter (other than section 1786 of this title) or under the Richard B. Russell National School Lunch Act (42 U.S.C. 1751 et seq.)(including any requirement to provide sufficient training, technical assistance, and monitoring of the child and adult care food program under section 17 of that Act (42 U.S.C. 1766)), or compliance with a regulation issued pursuant to either this chapter or such Act, is seriously deficient, and the State fails to correct the deficiency within a specified period of time, the Secretary may withhold from the State some or all of the funds allocated to the State under this section or under section 13(k)(1) or 17 of the Richard B. Russell National School Lunch Act (42 U.S.C. 1761(k)(1) or 1766).
 
@@ -76,7 +76,7 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 1999—Subsecs. (a), (f). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act” wherever appearing.
 
-1998—Subsec. (a)(5)(B). Pub. L. 105–336, §202(a), amended subpar. (B) generally, substituting present provisions for provisions which related to return of unexpended funds to Secretary and reallocation of such funds to provide annual grants to public entities and private nonprofit organizations participating in projects under former section 1766b of this title.
+1998—Subsec. (a)(5)(B). Pub. L. 105–336, §202(a), amended subpar. (B) generally, substituting presentprovisions for provisions which related to return of unexpended funds to Secretary and reallocation of such funds to provide annual grants to public entities and private nonprofit organizations participating in projects under former section 1766b of this title.
 
 Subsec. (a)(6). Pub. L. 105–336, §202(b), amended par. (6) generally. Prior to amendment, par. (6) read as follows: “Funds available to States under this subsection and under section 13(k)(1) of the National School Lunch Act shall be used for the costs of administration of the programs for which the allocations are made, except that States may transfer up to 10 percent of any of the amounts allocated among such programs.”
 
@@ -120,7 +120,7 @@ Subsec. (h). Pub. L. 101–147, §122(a)(3), substituted “For the fiscal year 
 
 Subsecs. (h), (i). Pub. L. 99–500 and Pub. L. 99–591, §§313, 332(2), and Pub. L. 99–661, §§4103, 4212(2), amended section identically, redesignating subsec. (i) as (h) and substituting “1989” for “1984”. Former subsec. (h) redesignated (g).
 
-1981—Subsec. (a). Pub. L. 97–35, §§814(a), 819(e), in par. (1) struck out reference to section 1774 of this title, andin par. (2) substituted “1981” for “1978” and struck out reference to section 1774 of this title.
+1981—Subsec. (a). Pub. L. 97–35, §§814(a), 819(e), in par. (1) struck out reference to section 1774 of this title, and in par. (2) substituted “1981” for “1978” and struck out reference to section 1774 of this title.
 
 Subsec. (b). Pub. L. 97–35, §819(e), struck out reference to section 1774 of this title.
 

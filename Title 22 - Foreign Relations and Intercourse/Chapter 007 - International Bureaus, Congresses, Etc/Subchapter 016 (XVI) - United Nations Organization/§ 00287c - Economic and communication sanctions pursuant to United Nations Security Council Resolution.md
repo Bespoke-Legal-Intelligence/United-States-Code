@@ -96,7 +96,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 (b) To the extent consistent with this order, all determinations, authorizations, regulations, rulings, certificates, orders, directives, licenses, contracts, agreements, and other actions made, issued, taken, or entered into under the provisions of such Executive orders and not previously revoked, superseded, or otherwise made inapplicable, shall continue in full force and effect until amended, modified, or terminated by appropriate authority.
 
-1–102. (a) The Secretaries of State, the Treasury, Commerce, and Transportation, and the heads of other government agencies, shall retain the authority and responsibility for the enforcement of Executive Orders 11322, 11419, and 11978 with respect to transactions occurring prior to the effective date of this order.
+1–102. (a) The Secretaries of State, the Treasury, Commerce, and Transportation, and the heads of othergovernment agencies, shall retain the authority and responsibility for the enforcement of Executive Orders 11322, 11419, and 11978 with respect to transactions occurring prior to the effective date of this order.
 
 (b) The revocation, in Section 1–101 of this order, of such prior Executive orders shall not affect:
 
@@ -114,7 +114,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 12918, May 26, 1994, 59 F.R. 28205, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), theExport Administration Act of 1979, as amended (50 U.S.C. App. 2401 <i>et seq</i>.), the Arms Export Control Act (22 U.S.C. 2751 <i>et seq</i>.), and section 301 of title 3, United States Code, and in view of United Nations Security Council Resolution 918 of May 17, 1994, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 5 of the United Nations Participation Act of 1945, as amended (22 U.S.C. 287c), the Export Administration Act of 1979, as amended (50 U.S.C. App. 2401 <i>et seq</i>.), the Arms Export Control Act (22 U.S.C. 2751 <i>et seq</i>.), and section 301 of title 3, United States Code, and in view of United Nations Security Council Resolution 918 of May 17, 1994, it is hereby ordered as follows:
 
 Section 1. <i>Arms Embargo</i>. The following activities are prohibited, notwithstanding the existence of any rights or obligations conferred or imposed by any international agreement or any contract entered into or any license or permit granted before the effective date of this order, except to the extent provided in regulations, orders, directives, or licenses that may hereafter be issued pursuant to this order: (a) The sale or supply to Rwanda from the territory of the United States by any person, or by any United States person in any foreign country or other location, or using any U.S.-registered vessel or aircraft, of arms and related materiel of all types, including weapons and ammunition, military vehicles and equipment, paramilitary police equipment, and spare parts for the aforementioned, irrespective of origin. This prohibition does not apply to activities related to the United Nations Assistance Mission for Rwanda or the United Nations Observer Mission Uganda-Rwanda or other entities permitted to have such items by the United Nations Security Council; and
 

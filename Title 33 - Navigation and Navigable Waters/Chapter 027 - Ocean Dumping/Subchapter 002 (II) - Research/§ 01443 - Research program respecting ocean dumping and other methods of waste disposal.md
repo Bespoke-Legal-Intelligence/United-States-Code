@@ -18,7 +18,7 @@ Nothing in this section shall be construed to affect in any way the December 31,
 
 #### (c) Regional management plans for waste disposal
 
-The Administrator, in cooperation with the Secretary, the Secretary of Commerce, and other officials of appropriate Federal, State, and local agencies, shall assess the feasibility in coastal areas of regional management plans for the disposal of waste materials. Such plans should integrate where appropriate Federal, State, regional, and local waste disposal activities into a comprehensive regional disposal strategy. These plans should address, among other things—
+The Administrator, in cooperation with the Secretary, the Secretary of Commerce, and other officials of appropriate Federal, State, and local agencies, shall assess the feasibility in coastal areas of regional management plans for the disposal of waste materials. Such plansshould integrate where appropriate Federal, State, regional, and local waste disposal activities into a comprehensive regional disposal strategy. These plans should address, among other things—
 
 &emsp;(1) the sources, quantities, and types of materials that require and will require disposal;
 

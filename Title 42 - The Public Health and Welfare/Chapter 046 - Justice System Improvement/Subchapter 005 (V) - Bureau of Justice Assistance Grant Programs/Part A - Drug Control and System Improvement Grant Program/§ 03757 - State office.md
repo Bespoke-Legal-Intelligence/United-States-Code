@@ -22,5 +22,5 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3789, 3796cc–1, 3796ee–1, 3796ff–1 of this title.
+This section is referred to in sections 3789, 3796cc–1, 3796ff–1 of this title.
 

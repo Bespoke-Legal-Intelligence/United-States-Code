@@ -22,11 +22,11 @@ Section 146, acts Feb. 5, 1917, ch. 29, §10, 39 Stat. 881; May 26, 1924, ch. 19
 
 Section 147, act Feb. 5, 1917, ch. 27, §11, 39 Stat. 881, related to detention of aliens for observation and examination. See section 1222 of this title.
 
-Section 148, acts Feb. 5, 1917, ch. 29, §12, 39 Stat. 882; May 17, 1932, ch. 190, 47 Stat. 158; July 30, 1947, ch. 384, 61 Stat. 630, related to lists of passengers arriving or departing. See section 1221(a), (e) of this title.
+Section 148, acts Feb. 5, 1917, ch. 29, §12, 39 Stat. 882; May 17, 1932, ch. 190, 47 Stat. 158; July 30, 1947, ch. 384, 61 Stat. 630, related to lists of passengers arriving or departing.
 
-Section 149, act Feb. 5, 1917, ch. 29, §13, 39 Stat. 884, related to grouping of alien passengers in lists. See section 1221(c) of this title.
+Section 149, act Feb. 5, 1917, ch. 29, §13, 39 Stat. 884, related to grouping of alien passengers in lists.
 
-Section 150, act Feb. 5, 1917, ch. 29, §14, 39 Stat. 884, related to refusal or failure to furnish alien passenger list. See section 1221(d) of this title.
+Section 150, act Feb. 5, 1917, ch. 29, §14, 39 Stat. 884, related to refusal or failure to furnish alien passenger list.
 
 Section 151, acts Feb. 5, 1917, ch. 29, §15, 39 Stat. 885; Dec. 19, 1944, ch. 608, §1, 58 Stat. 816, related to inspection of alien passengers on arrival. See section 1223(a), (b) of this title.
 

@@ -16,7 +16,7 @@
 
 &emsp;(4) shall require the development and use of a process for determining the fitness and suitability of prospective employees of or volunteers at the center; and
 
-&emsp;(5) shall require in connection with the operation of the center compliance with all State and local laws, ordinances, and regulations relating to health and safety and the operation of child-care centers.
+&emsp;(5) shall require in connection with the operation of the center compliance with all Stateand local laws, ordinances, and regulations relating to health and safety and the operation of child-care centers.
 
 (d) The Secretary shall prescribe regulations to carry out this section.
 

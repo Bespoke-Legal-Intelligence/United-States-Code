@@ -1,14 +1,14 @@
 ### §876. Mailing threatening communications
 
-Whoever knowingly deposits in any post office or authorized depository for mail matter, to be sent or delivered by the Postal Service or knowingly causes to be delivered by the Postal Service according to the direction thereon, any communication, with or without a name or designating mark subscribed thereto, addressed to any other person, and containing any demand or request for ransom or reward for the release of any kidnapped person, shall be fined under this title or imprisoned not more than twenty years, or both.
+(a) Whoever knowingly deposits in any post office or authorized depository for mail matter, to be sent or delivered by the Postal Service or knowingly causes to be delivered by the Postal Service according to the direction thereon, any communication, with or without a name or designating mark subscribed thereto, addressed to any other person, and containing any demand or request for ransom or reward for the release of any kidnapped person, shall be fined under this title or imprisoned not more than twenty years, or both.
 
-Whoever, with intent to extort from any person any money or other thing of value, so deposits, or causes to be delivered, as aforesaid, any communication containing any threat to kidnap any person or any threat to injure the person of the addressee or of another, shall be fined under this title or imprisoned not more than twenty years, or both.
+(b) Whoever, with intent to extort from any person any money or other thing of value, so deposits, or causes to be delivered, as aforesaid, any communication containing any threat to kidnap any person or any threat to injure the person of the addressee or of another, shall be fined under this title or imprisoned not more than twenty years, or both.
 
-Whoever knowingly so deposits or causes to be delivered as aforesaid, any communication with or without a name or designating mark subscribed thereto, addressed to any other person and containing any threat to kidnap any person or any threat to injure the person of the addressee or of another, shall be fined under this title or imprisoned not more than five years, or both.
+(c) Whoever knowingly so deposits or causes to be delivered as aforesaid, any communication with or without a name or designating mark subscribed thereto, addressed to any other person and containing any threat to kidnap any person or any threat to injure the person of the addressee or of another, shall be fined under this title or imprisoned not more than five years, or both. If such a communication is addressed to a United States judge, a Federal law enforcement officer, or an official who is covered by section 1114, the individual shall be fined under this title, imprisoned not more than 10 years, or both.
 
-Whoever, with intent to extort from any person any money or other thing of value, knowingly so deposits or causes to be delivered, as aforesaid, any communication, with or without a name or designating mark subscribed thereto, addressed to any other person and containing any threat to injure the property or reputation of the addressee or of another, or the reputation of a deceased person, or any threat to accuse the addressee or any other person of a crime, shall be fined under this title or imprisoned not more than two years, or both.
+(d) Whoever, with intent to extort from any person any money or other thing of value, knowingly so deposits or causes to be delivered, as aforesaid, any communication, with or without a name or designating mark subscribed thereto, addressed to any other person and containing any threat to injure the property or reputation of the addressee or of another, or the reputation of a deceased person, or any threat to accuse the addressee or any other person of a crime, shall be fined under this title or imprisoned not more than two years, or both. If such a communication is addressed to a United States judge, a Federal law enforcement officer, or an official who is covered by section 1114, the individual shall be fined under this title, imprisoned not more than 10 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 741; Pub. L. 91–375, §6(j)(7), Aug. 12, 1970, 84 Stat. 777; Pub. L. 103–322, title XXXIII, §§330016(1)(G), (H), (K), 330021(2), Sept. 13, 1994, 108 Stat. 2147, 2150.)
+(June 25, 1948, ch. 645, 62 Stat. 741; Pub. L. 91–375, §6(j)(7), Aug. 12, 1970, 84 Stat. 777; Pub. L. 103–322, title XXXIII, §§330016(1)(G), (H), (K), 330021(2), Sept. 13, 1994, 108 Stat. 2147, 2150; Pub. L. 107–273, div. C, title I, §11008(d), Nov. 2, 2002, 116 Stat. 1818.)
 
 #### Historical and Revision Notes
 
@@ -21,6 +21,8 @@ Provisions as to district of trial were omitted as covered by sections 3237 and 
 Changes in phraseology and arrangement were made.
 
 #### Amendments
+
+2002—Pub. L. 107–273 designated first to fourth pars. as subsecs. (a) to (d), respectively, and, in subsecs. (c) and (d), inserted at end “If such a communication is addressed to a United States judge, a Federal law enforcement officer, or an official who is covered by section 1114, the individual shall be fined under this title, imprisoned not more than 10 years, or both.”
 
 1994—Pub. L. 103–322, §330021(2), substituted “kidnapped” for “kidnaped” in first par.
 

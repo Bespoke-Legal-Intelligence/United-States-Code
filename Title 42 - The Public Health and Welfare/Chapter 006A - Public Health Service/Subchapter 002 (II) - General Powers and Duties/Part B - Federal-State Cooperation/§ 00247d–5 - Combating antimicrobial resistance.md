@@ -42,7 +42,7 @@
 
 #### (b) Research and development of new antimicrobial drugs and diagnostics
 
-The Secretary and the Director of Agricultural Research Services, consistent with the recommendations of the task force established under subsection (a) of this section, shall conduct and support research, investigations, experiments, demonstrations, and studies in the health sciences that are related to—
+The Secretary and the Director of Agricultural Research Services, consistent with the recommendations of the task force established under subsection (a) of this section, shall directly or through awards of grants or cooperative agreements to public or private entities provide for the conduct of research, investigations, experiments, demonstrations, and studies in the health sciences that are related to—
 
 &emsp;(1) the development of new therapeutics, including vaccines and antimicrobials, against resistant pathogens;
 
@@ -50,7 +50,7 @@ The Secretary and the Director of Agricultural Research Services, consistent wit
 
 &emsp;(3) the epidemiology, mechanisms, and pathogenesis of antimicrobial resistance;
 
-&emsp;(4) the sequencing of the genomes of priority pathogens as determined by the Director of the National Institutes of Health in consultation with the task force established under subsection (a) of this section; and
+&emsp;(4) the sequencing of the genomes, or other DNA analysis, or other comparative analysis, of priority pathogens (as determined by the Director of the National Institutes of Health in consultation with the task force established under subsection (a) of this section), in collaboration and coordination with the activities of the Department of Defense and the Joint Genome Institute of the Department of Energy; and
 
 &emsp;(5) other relevant research areas.
 
@@ -76,7 +76,7 @@ The Secretary, after consultation with the Assistant Secretary for Health, the S
 
 #### (3) Use of funds
 
-&emsp;An eligible entity receiving a grant under paragraph (1) shall use funds from such grant for activities that are consistent with the factors identified by the task force under subsection (a)(3) of this section, which may include activities that—
+&emsp;An eligible entity receiving a grant under paragraph (1) shall use funds from such grantfor activities that are consistent with the factors identified by the task force under subsection (a)(3) of this section, which may include activities that—
 
 &emsp;&emsp;(A) provide training to enable such entity to identify patterns of resistance rapidly and accurately;
 
@@ -92,7 +92,7 @@ The Secretary, after consultation with the Assistant Secretary for Health, the S
 
 #### (2) Eligible entities
 
-&emsp;Eligible entities for grants under paragraph (1) may include hospitals, clinics, institutions of long-term care, professional medical societies, or other public or private nonprofit entities.
+&emsp;Eligible entities for grants under paragraph (1) may include hospitals, clinics, institutions of long-term care, professional medical societies, schools or programs that train medical laboratory personnel, or other public or private nonprofit entities.
 
 #### (3) Technical assistance
 
@@ -104,7 +104,21 @@ Funds appropriated under this section shall be used to supplement and not suppla
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated to carry out this section, $40,000,000 for fiscal year 2001, and such sums as may be necessary for each subsequent fiscal year through 2006.
+There are authorized to be appropriated to carry out this section, $40,000,000 for fiscal year 2001, $25,000,000 for each of the fiscal years 2002 and 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006.
 
-(July 1, 1944, ch. 373, title III, §319E, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2318.)
+(July 1, 1944, ch. 373, title III, §319E, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2318; amended Pub. L. 107–188, title I, §109, June 12, 2002, 116 Stat. 610.)
+
+#### Amendments
+
+2002—Subsec. (b). Pub. L. 107–188, §109(1)(A), in introductory provisions, substituted “shall directly or through awards of grants or cooperative agreements to public or private entities provide for the conduct of” for “shall conduct and support”.
+
+Subsec. (b)(4). Pub. L. 107–188, §109(1)(B), amended par. (4) generally. Prior to amendment, par. (4) read as follows: “the sequencing of the genomes of priority pathogens as determined by the Director of the National Institutes of Health in consultation with the task force established under subsection (a) of this section; and”.
+
+Subsec. (e)(2). Pub. L. 107–188, §109(2), inserted “schools or programs that train medical laboratory personnel,” after “professional medical societies,”.
+
+Subsec. (g). Pub. L. 107–188, §109(3), substituted “$25,000,000 for each of the fiscal years 2002 and 2003, and such sums as may be necessary for each of the fiscal years 2004 through 2006” for “and such sums as may be necessary for each subsequent fiscal year through 2006”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 247d–7c of this title.
 

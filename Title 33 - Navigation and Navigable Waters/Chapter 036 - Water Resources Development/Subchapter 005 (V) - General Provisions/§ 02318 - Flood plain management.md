@@ -30,7 +30,7 @@ For the purposes of subsection (a) of this section, a county is substantially lo
 
 #### (d) Cost sharing
 
-Not later than January 1, 1992, the Secretary shall transmit to Congress a report on the feasibility and advisability of increasing the non-Federal share of costs for new projects in areas where new or substantially improved structures and other constrictions are built or placed in the 100-year flood plain or the 10-year flood plain, as the case may be, after the initial date of the affected governmental unit's entry into the regular program of the national flood insurance program of the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\].
+Not later than January 1, 1992, the Secretary shall transmit to Congress a report on the feasibility and advisability of increasing the non-Federal share of costs for new projects in areas where new or substantially improved structures and other constrictions are built or placed inthe 100-year flood plain or the 10-year flood plain, as the case may be, after the initial date of the affected governmental unit's entry into the regular program of the national flood insurance program of the National Flood Insurance Act of 1968 \[42 U.S.C. 4001 et seq.\].
 
 #### (e) Regulations
 
@@ -59,6 +59,10 @@ Subsecs. (b) to (d). Pub. L. 106–53, §219(a)(2), (3), added subsec. (b) and r
 Subsec. (e). Pub. L. 106–53, §219(a)(2), (4), redesignated subsec. (d) as (e) and substituted “subsection (c)” for “subsection (b)”. Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 106–53, §219(a)(2), redesignated subsec. (e) as (f).
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Reevaluation of Flood Control Projects
 

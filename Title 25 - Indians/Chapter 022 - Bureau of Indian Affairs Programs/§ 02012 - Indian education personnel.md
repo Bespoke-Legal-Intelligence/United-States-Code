@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Chapter 51, subchapter III of chapter 53, and chapter 63 of title 5, relating to classification, pay and leave, respectively, and the sections of such title relating to the appointment, promotion, hours of work, and removal of civil service employees, shall not apply to educators or to education positions (as defined in subsection (p) of this section).
+Chapter 51, subchapter III of chapter 53, and chapter 63 of title 5, relating to classification,pay and leave, respectively, and the sections of such title relating to the appointment, promotion, hours of work, and removal of civil service employees, shall not apply to educators or to education positions (as defined in subsection (p) of this section).
 
 #### (b) Regulations
 
@@ -324,7 +324,7 @@ Not later than 60 days after January 8, 2002, the Secretary shall prescribe regu
 
 #### (iv) Discontinuation of or decrease in rates
 
-&emsp;&emsp;&emsp;The Secretary or the supervisor of a Bureau school may discontinue or decrease a post differential rate provided for under this paragraph at the beginning of an academic year if—
+&emsp;&emsp;&emsp;The Secretary or the supervisor of a Bureau school may discontinue or decrease a post differential rate provided for underthis paragraph at the beginning of an academic year if—
 
 &emsp;&emsp;&emsp;&emsp;(I) the local school board requests that such differential be discontinued or decreased; or
 
@@ -354,7 +354,7 @@ In the case of any educator employed in an education position described in subse
 
 &emsp;(2) agrees in writing to serve in such position for the next school year; and
 
-&emsp;(3) is employed in another position during the recess period immediately preceding such next school year, or during such recess period receives additional compensation referred toin section 5533 of title 5, relating to dual compensation,
+&emsp;(3) is employed in another position during the recess period immediately preceding such next school year, or during such recess period receives additional compensation referred to in section 5533 of title 5, relating to dual compensation,
 
 > shall not apply to such educator by reason of any such employment during a recess period for any receipt of additional compensation.
 

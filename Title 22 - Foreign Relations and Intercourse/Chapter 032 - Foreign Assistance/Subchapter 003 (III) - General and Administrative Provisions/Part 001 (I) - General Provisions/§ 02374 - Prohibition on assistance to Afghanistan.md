@@ -66,7 +66,7 @@ Pub. L. 107–81, Dec. 12, 2001, 115 Stat. 811, provided that:
 
 “(a)
 
-In General.—Subject to subsection (b), the President is authorized, on such terms and conditions as the President may determine, to provide educational and health care assistance for the women and childrenliving in Afghanistan and as refugees in neighboring countries.
+In General.—Subject to subsection (b), the President is authorized, on such terms and conditions as the President may determine, to provide educational and health care assistance for the women and children living in Afghanistan and as refugees in neighboring countries.
 
 “(b)
 
@@ -88,7 +88,7 @@ Authorization.—The President may make available funds authorized to be appropr
 
 “(b)
 
-Earmarking of Funds.—Each fiscal year, not less than $15,000,000 of the aggregate amount of funds available to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 shall be available only for humanitarian assistance to the Afghan people pursuant to subsection (a) of this section.
+Earmarking of Funds.—Each fiscal year, not less than $15,000,000 of the aggregate amount of fundsavailable to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 shall be available only for humanitarian assistance to the Afghan people pursuant to subsection (a) of this section.
 
 “(c)
 

@@ -60,7 +60,7 @@ Pub. L. 98–359, §1, July 13, 1984, 98 Stat. 402, provided: “That this Act \
 
 Pub. L. 105–277, div. A, §101(f) \[title V, §510\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–385, as amended by Pub. L. 106–31, title V, §5005(<i>l</i>), May 21, 1999, 113 Stat. 111, provided that: “Notwithstanding any other provision of law, hereafter—
 
-&emsp;“(1) no amount may be transferred from an appropriation account for the Departments of Labor, Health and Human Services, and Education except as authorized in this or any subsequent appropriation Act, or in the Act establishing the program or activity for which funds are contained in this Act \[see Tables for classification\];
+&emsp;“(1) no amount may be transferred from an appropriation account for the Departments of Labor, Health and Human Services, and Education except asauthorized in this or any subsequent appropriation Act, or in the Act establishing the program or activity for which funds are contained in this Act \[see Tables for classification\];
 
 &emsp;“(2) no department, agency, or other entity, other than the one responsible for administering the program or activity for which an appropriation is made in this Act, may exercise authority for the timing of the obligation and expenditure of such appropriation, or for the purpose for which it is obligated and expended, except to the extent and in the manner otherwise provided in sections 1512 and 1513 of title 31, United States Code; and
 
@@ -78,5 +78,5 @@ Pub. L. 103–333, title V, §515, Sept. 30, 1994, 108 Stat. 2574.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 2633; title 40 section 481; title 42 section 9619.
+This section is referred to in title 10 section 2633; title 40 section 504; title 42 section 9619.
 

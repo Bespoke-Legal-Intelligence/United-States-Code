@@ -6,5 +6,5 @@ In fiscal year 1990 and thereafter, fees collected pursuant to and as limited by
 
 #### Codification
 
-Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1990,and not as part of the Indian Gaming Regulatory Act which comprises this chapter.
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1990, and not as part of the Indian Gaming Regulatory Act which comprises this chapter.
 

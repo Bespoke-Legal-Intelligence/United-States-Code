@@ -38,7 +38,7 @@ A decision to remit or mitigate a civil penalty under this section is final. Whe
 
 #### (e) Summary seizure of aircraft
 
-(1) An aircraft subject to a lien under this section may be seized summarily by and placed in the custody of a person authorized by regulations of the appropriate Secretary or the Attorney General. A report of the case shall be sentto the Attorney General. The Attorney General shall bring promptly a civil action in rem to enforce the lien or notify the appropriate Secretary that the action will not be brought.
+(1) An aircraft subject to a lien under this section may be seized summarily by and placed in the custody of a person authorized by regulations of the appropriate Secretary or the Attorney General. A report of the case shall be sent to the Attorney General. The Attorney General shall bring promptly a civil action in rem to enforce the lien or notify the appropriate Secretary that the action will not be brought.
 
 (2) An aircraft seized under this section shall be released from custody when—
 
@@ -69,6 +69,10 @@ The customs laws, referred to in subsec. (b)(1)(D), (2), are classified generall
 Section was not enacted as part of the Tariff Act of 1930 which comprises this chapter.
 
 Section is based on sections 1474 and 1509(b)–(e) of former Title 49, Transportation, which were repealed and restated as this section by Pub. L. 103–272, §§2, 7(b), July 5, 1994, 108 Stat. 1358, 1379.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

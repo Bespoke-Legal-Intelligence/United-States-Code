@@ -18,7 +18,7 @@ After December 1, 1935, unless a holding company is registered under section 79e
 
 #### (b) Outstanding securities held by nonresidents; registration
 
-Every holding company which has outstanding any security any of which, by use of the mails or any means or instrumentality of interstate commerce, has been distributed or made the subject of a public offering subsequent to January 1, 1925, and any of which security was owned or held on October 1, 1935 (or, if such company is not a holding company on that date, on the date such company becomes a holding company) by persons not resident in the State in which such holding company is organized, shall register under section 79e of this title on or before December 1, 1935 or the thirtieth day after such company becomes a holding company, whichever date is later.
+Every holding company which has outstanding any security any of which, by use of the mails or any means or instrumentality of interstate commerce, has been distributed or made the subject of a public offering subsequent to January 1, 1925, and any of which security was owned or held on October 1, 1935 (or, if such company is not a holding company on that date, on the date such company becomes a holding company) by persons not resident in the State in which suchholding company is organized, shall register under section 79e of this title on or before December 1, 1935 or the thirtieth day after such company becomes a holding company, whichever date is later.
 
 (Aug. 26, 1935, ch. 687, title I, §4, 49 Stat. 812.)
 

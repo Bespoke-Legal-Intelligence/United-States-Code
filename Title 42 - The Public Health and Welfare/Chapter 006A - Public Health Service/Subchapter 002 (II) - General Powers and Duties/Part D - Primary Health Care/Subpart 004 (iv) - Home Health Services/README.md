@@ -8,10 +8,6 @@ subpart iv—home health services
 
 1978—Pub. L. 95–626, title I, §105(b), title II, §207(a), Nov. 10, 1978, 92 Stat. 3560, 3585, struck out heading “Part D—Lepers” and added heading “Subpart III—Home Health Services”.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “professional”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
 
 ---
 

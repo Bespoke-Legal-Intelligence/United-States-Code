@@ -50,7 +50,7 @@ The Harmonized Tariff Schedule, referred to in subsecs. (a) and (d), is not set 
 
 #### Commission Report on Operation of Implementation of Harmonized Tariff Schedule
 
-Section 1216 of Pub. L. 100–418 required Commission, in consultation with other appropriate Federal agencies, to prepare and submit to Congress and President a report regarding operation of subtitle B (§§1201–1217) of title I of Pub. L. 100–418, during the 12-month period commencing on effective date of Harmonized Tariff Schedule, Jan. 1, 1989, said report to be submitted to Congress and President before close of 6-month period beginning on day after last day of such 12-month period.
+Section 1216 of Pub. L. 100–418 required Commission, in consultation with other appropriate Federal agencies, to prepare and submit to Congress and Presidenta report regarding operation of subtitle B (§§1201–1217) of title I of Pub. L. 100–418, during the 12-month period commencing on effective date of Harmonized Tariff Schedule, Jan. 1, 1989, said report to be submitted to Congress and President before close of 6-month period beginning on day after last day of such 12-month period.
 
 #### Section Referred to in Other Sections
 

@@ -24,7 +24,7 @@ Each annuity is stated as an annual amount, 1/12 of which, rounded to the next l
 
 #### (3) Other annuities
 
-&emsp;Any other annuity payable from the fund commences on the first day of the month afterthe occurrence of the event on which payment thereof is based.
+&emsp;Any other annuity payable from the fund commences on the first day of the month after the occurrence of the event on which payment thereof is based.
 
 #### (c) Termination of annuity
 

@@ -30,7 +30,7 @@
 
 (D) In the case of a claim with respect to which the Commissioner of Social Security has approved an agreement pursuant to subparagraph (A), the Commissioner of Social Security shall provide the claimant and the person representing the claimant a written notice of—
 
-&emsp;(i) the dollar amount of the past-due benefits (as determined before any applicable reductionunder section 1320a–6(a) of this title) and the dollar amount of the past-due benefits payable to the claimant,
+&emsp;(i) the dollar amount of the past-due benefits (as determined before any applicable reduction under section 1320a–6(a) of this title) and the dollar amount of the past-due benefits payable to the claimant,
 
 &emsp;(ii) the dollar amount of the maximum fee which may be charged or recovered as determined under this paragraph, and
 
@@ -68,7 +68,7 @@
 
 #### (c) Notification of options for obtaining attorneys
 
-The Commissioner of Social Security shall notify each claimant in writing, together with thenotice to such claimant of an adverse determination, of the options for obtaining attorneys to represent individuals in presenting their cases before the Commissioner of Social Security. Such notification shall also advise the claimant of the availability to qualifying claimants of legal services organizations which provide legal services free of charge.
+The Commissioner of Social Security shall notify each claimant in writing, together with the notice to such claimant of an adverse determination, of the options for obtaining attorneys to represent individuals in presenting their cases before the Commissioner of Social Security. Such notification shall also advise the claimant of the availability to qualifying claimants of legal services organizations which provide legal services free of charge.
 
 #### (d) Assessment on attorneys
 
@@ -134,7 +134,7 @@ Subsec. (b)(1)(A). Pub. L. 103–296, §107(a)(4), in subpar. (A) as designated 
 
 Subsec. (c). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” in two places.
 
-1990—Subsec. (a). Pub. L. 101–508 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2)(A), whenever” for “Whenever” in fifth sentence, substituted pars. (2) to (4) for “If as a result of such determination, such claimant is entitled to past-due benefits under this subchapter, the Secretary shall, notwithstanding section 405(i) of this title, certify for payment (out of such past-due benefits) to such attorney an amount equal to whichever of the following is the smaller: (A) 25 per centum of the totalamount of such past-due benefits, (B) the amount of the attorney's fee so fixed, or (C) the amount agreed upon between the claimant and such attorney as the fee for such attorney's services.”, and inserted “(5)” before “Any person who”.
+1990—Subsec. (a). Pub. L. 101–508 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2)(A), whenever” for “Whenever” in fifth sentence, substituted pars. (2) to (4) for “If as a result of such determination, such claimant is entitled to past-due benefits under this subchapter, the Secretary shall, notwithstanding section 405(i) of this title, certify for payment (out of such past-due benefits) to such attorney an amount equal to whichever of the following is the smaller: (A) 25 per centum of the total amount of such past-due benefits, (B) the amount of the attorney's fee so fixed, or (C) the amount agreed upon between the claimant and such attorney as the fee for such attorney's services.”, and inserted “(5)” before “Any person who”.
 
 1989—Subsec. (a). Pub. L. 101–239, §10307(a)(1), inserted at end “The Secretary shall maintain in the electronic information retrieval system used by the Social Security Administration a current record, with respect to any claimant before the Secretary, of the identity of any person representing such claimant in accordance with this subsection.”
 

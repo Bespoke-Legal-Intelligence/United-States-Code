@@ -224,7 +224,7 @@ This amends 49:5116(j)(4)(A) to correct an erroneous cross-reference.
 
 #### References in Text
 
-The Emergency Planning and Community Right-To-Know Act of 1986, referred to in subsec. (a)(1)(A), (2), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1729, which is classified generally to chapter 116 (§11001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11001 of Title 42 and Tables.
+The Emergency Planning and Community Right-To-Know Act of 1986, referred to in subsec. (a)(1)(A), (2), is title III of Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1728, which is classified generally to chapter 116 (§11001 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11001 of Title 42 and Tables.
 
 #### Amendments
 
@@ -232,7 +232,7 @@ The Emergency Planning and Community Right-To-Know Act of 1986, referred to in s
 
 Subsec. (j)(4)(A). Pub. L. 104–287, §5(8), substituted “section 5115 of this title” for “subsection (g)”.
 
-1994—Subsec. (a)(1). Pub. L. 103–311, §105(a), in introductory provisions inserted “and Indian tribes” after “States”, and in subpar. (A) substituted “on lands under the jurisdiction of a State or Indian tribe, and between lands under the jurisdiction of a State or Indian tribe and lands of another State or Indian tribe” for “in a State and between States”.
+1994—Subsec. (a)(1). Pub. L. 103–311, §105(a), in introductory provisions inserted “and Indian tribes” after “States”, and in subpar. (A) substituted “on lands under the jurisdiction of a State or Indian tribe, andbetween lands under the jurisdiction of a State or Indian tribe and lands of another State or Indian tribe” for “in a State and between States”.
 
 Subsec. (a)(2). Pub. L. 103–311, §105(b)(2), as amended by Pub. L. 104–287, §6(b), struck out “the State” after “only if” in introductory provisions.
 
@@ -257,6 +257,10 @@ Section 6(b) of Pub. L. 104–287 provided that the amendment made by that secti
 #### Effective Date of 1994 Amendment
 
 Section 7(c) of Pub. L. 103–429 provided that the amendment made by that section is effective Aug. 26, 1994.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

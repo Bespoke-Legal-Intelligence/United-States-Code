@@ -32,7 +32,7 @@ As used in this chapter:
 
 (5) The term “environment” includes water, air, and land and the interrelationship which exists among and between water, air, and land and all living things.
 
-(6) The term “health and safety study” means any study of any effect of a chemical substance or mixture on health or the environment or on both, including underlying data and epidemiological studies, studies of occupational exposure to a chemical substance or mixture, toxicological, clinical, and ecological studies of a chemical substance or mixture, and any test performed pursuant to this chapter.
+(6) The term “health and safety study” means any study of any effect of a chemical substanceor mixture on health or the environment or on both, including underlying data and epidemiological studies, studies of occupational exposure to a chemical substance or mixture, toxicological, clinical, and ecological studies of a chemical substance or mixture, and any test performed pursuant to this chapter.
 
 (7) The term “manufacture” means to import into the customs territory of the United States (as defined in general note 2 of the Harmonized Tariff Schedule of the United States), produce, or manufacture.
 

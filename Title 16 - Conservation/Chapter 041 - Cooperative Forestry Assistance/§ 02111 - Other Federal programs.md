@@ -16,7 +16,7 @@ The following laws, and portions of laws, are hereby repealed:
 
 &emsp;(6) title IV of the Rural Development Act of 1972 \[7 U.S.C. 2651 et seq.\]; and
 
-&emsp;(7) section 1009 and the proviso to section 1010 <sup>1</sup> of the Agricultural Act of 1970, as added by the Agriculture and Consumer Protection Act of 1973 \[16 U.S.C. 1509, 1510\].
+&emsp;(7) section 1009 and the proviso to section 1010 <sup>1</sup> of the Agricultural Act of 1970, as addedby the Agriculture and Consumer Protection Act of 1973 \[16 U.S.C. 1509, 1510\].
 
 #### (b) Force and effect of contracts and cooperative and other agreements under cooperative forestry programs executed under authority of repealed statutes
 

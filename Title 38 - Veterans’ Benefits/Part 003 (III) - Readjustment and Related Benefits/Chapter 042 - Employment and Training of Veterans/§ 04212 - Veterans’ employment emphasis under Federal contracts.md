@@ -1,24 +1,66 @@
 ### §4212. Veterans’ employment emphasis under Federal contracts
 
-(a) Any contract in the amount of $25,000 or more entered into by any department or agency for the procurement of personal property and non-personal services (including construction) for the United States, shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualified special disabled veterans, veterans of the Vietnam era, recently separated veterans, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized. The provisions of this section shall apply to any subcontract entered into by a prime contractor in carrying out any contract for the procurement of personal property and non-personal services (including construction) for the United States. In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall implement the provisions of this section by promulgating regulations which shall require that (1) each such contractor undertake in such contract to list immediately with the appropriate local employment service office all of its employment openings except that the contractor may exclude openings for executive and top management positions, positions which are to be filled from within the contractor's organization, and positions lasting three days or less, and (2) each such local office shall give such veterans priority in referral to such employment openings.
+(a)(1) Any contract in the amount of $100,000 or more entered into by any department or agencyof the United States for the procurement of personal property and nonpersonal services (including construction) for the United States, shall contain a provision requiring that the party contracting with the United States take affirmative action to employ and advance in employment qualified covered veterans. This section applies to any subcontract in the amount of $100,000 or more entered into by a prime contractor in carrying out any such contract.
+
+(2) In addition to requiring affirmative action to employ such qualified covered veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the Secretary of Labor shall prescribe regulations requiring that—
+
+&emsp;(A) each such contractor for each such contract shall immediately list all of its employment openings with the appropriate employment service delivery system (as defined in section 4101(7) of this title), and may also list such openings with one-stop career centers under the Workforce Investment Act of 1998, other appropriate service delivery points, or America's Job Bank (or any additional or subsequent national electronic job bank established by the Department of Labor), except that the contractor may exclude openings for executive and senior management positions and positions which are to be filled from within the contractor's organization and positions lasting three days or less;
+
+&emsp;(B) each such employment service delivery system shall give such qualified covered veterans priority in referral to such employment openings; and
+
+&emsp;(C) each such employment service delivery system shall provide a list of such employment openings to States, political subdivisions of States, or any private entities or organizations under contract to carry out employment, training, and placement services under chapter 41 of this title.
+
+(3) In this section:
+
+&emsp;(A) The term “covered veteran” means any of the following veterans:
+
+&emsp;&emsp;(i) Disabled veterans.
+
+&emsp;&emsp;(ii) Veterans who served on active duty in the Armed Forces during a war or in a campaign or expedition for which a campaign badge has been authorized.
+
+&emsp;&emsp;(iii) Veterans who, while serving on active duty in the Armed Forces, participated in a United States military operation for which an Armed Forces service medal was awarded pursuant to Executive Order No. 12985 (61 Fed. Reg. 1209).
+
+&emsp;&emsp;(iv) Recently separated veterans.
+
+&emsp;(B) The term “qualified”, with respect to an employment position, means having the ability to perform the essential functions of the position with or without reasonable accommodation for an individual with a disability.
 
 (b) If any veteran covered by the first sentence of subsection (a) believes any contractor of the United States has failed to comply or refuses to comply with the provisions of the contractor's contract relating to the employment of veterans, the veteran may file a complaint with the Secretary of Labor, who shall promptly investigate such complaint and take appropriate action in accordance with the terms of the contract and applicable laws and regulations.
 
-(c) The Secretary of Labor shall include as part of the annual report required by section 4107(c) of this title the number of complaints filed pursuant to subsection (b) of this section, the actions taken thereon and the resolutions thereof. Such report shall also include the number of contractors listing suitable employment openings, the nature, types, and number of positions listed and the number of veterans receiving priority pursuant to subsection (a)(2) of this section.
+(c) The Secretary of Labor shall include as part of the annual report required by section 4107(c) of this title the number of complaints filed pursuant to subsection (b) of this section, the actions taken thereon and the resolutions thereof. Such report shall also include the number of contractors listing employment openings, the nature, types, and number of positions listed and the number of veterans receiving priority pursuant to subsection (a)(2)(B).
 
-(d)(1) Each contractor to whom subsection (a) of this section applies shall, in accordance with regulations which the Secretary of Labor shall prescribe, report at least annually to the Secretary of Labor on—
+(d)(1) Each contractor to whom subsection (a) applies shall, in accordance with regulations which the Secretary of Labor shall prescribe, report at least annually to the Secretary of Labor on—
 
-&emsp;(A) the number of employees in the work force of such contractor, by job category and hiring location, who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized;
+&emsp;(A) the number of employees in the workforce of such contractor, by job category and hiring location, and the number of such employees, by job category and hiring location, who are qualified covered veterans;
 
-&emsp;(B) the total number of new employees hired by the contractor during the period covered by the report and the number of such employees who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized; and
+&emsp;(B) the total number of new employees hired by the contractor during the period covered by the report and the number of such employees who are qualified covered veterans; and
 
 &emsp;(C) the maximum number and the minimum number of employees of such contractor during the period covered by the report.
 
-(2) The Secretary of Labor shall ensure that the administration of the reporting requirement under paragraph (1) of this subsection is coordinated with respect to any requirement for the contractor to make any other report to the Secretary of Labor.
+(2) The Secretary of Labor shall ensure that the administration of the reporting requirement under paragraph (1) is coordinated with respect to any requirement for the contractor to make any other report to the Secretary of Labor.
 
-(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1097, §2012; amended Pub. L. 93–508, title IV, §402, Dec. 3, 1974, 88 Stat. 1593; Pub. L. 94–502, title VI, §§605, 607(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–520, §6(a), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §509, title VIII, §801(j), Oct. 17, 1980, 94 Stat. 2206, 2217; Pub. L. 97–306, title III, §310(a), Oct. 14, 1982, 96 Stat. 1442; renumbered §4212 and amended Pub. L. 102–83, §§4(b)(8), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 103–446, title VII, §702(a), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–339, §§7(a), 8, Oct. 31, 1998, 112 Stat. 3188, 3189; Pub. L. 106–419, title III, §322(a), (b), Nov. 1, 2000, 114 Stat. 1855.)
+(Added Pub. L. 92–540, title V, §503(a), Oct. 24, 1972, 86 Stat. 1097, §2012; amended Pub. L. 93–508, title IV, §402, Dec. 3, 1974, 88 Stat. 1593; Pub. L. 94–502, title VI, §§605, 607(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 95–520, §6(a), Oct. 26, 1978, 92 Stat. 1821; Pub. L. 96–466, title V, §509, title VIII, §801(j), Oct. 17, 1980, 94 Stat. 2206, 2217; Pub. L. 97–306, title III, §310(a), Oct. 14, 1982, 96 Stat. 1442; renumbered §4212 and amended Pub. L. 102–83, §§4(b)(8), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 405, 406; Pub. L. 103–446, title VII, §702(a), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–339, §§7(a), 8, Oct. 31, 1998, 112 Stat. 3188, 3189; Pub. L. 106–419, title III, §322(a), (b), Nov. 1, 2000, 114 Stat. 1855; Pub. L. 107–288, §2(b)(1), (2)(A)–(C), Nov. 7, 2002, 116 Stat. 2034, 2035.)
+
+#### References in Text
+
+The Workforce Investment Act of 1998, referred to in subsec. (a)(2)(A), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+Executive Order No. 12985, referred to in subsec. (a)(3)(A)(iii), is set out as a note preceding section 1121 of Title 10, Armed Forces.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–288, §2(b)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Any contract in the amount of $25,000 or more entered into by any department or agency for the procurement of personal property and non-personal services (including construction) for the United States, shall contain a provision requiring that the party contracting with the United States shall take affirmative action to employ and advance in employment qualifiedspecial disabled veterans, veterans of the Vietnam era, recently separated veterans, and any other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized. The provisions of this section shall apply to any subcontract entered into by a prime contractor in carrying out any contract for the procurement of personal property and non-personal services (including construction) for the United States. In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall implement the provisions of this section by promulgating regulations which shall require that (1) each such contractor undertake in such contract to list immediately with the appropriate local employment service office all of its employment openings except that the contractor may exclude openings for executive and top management positions, positions which are to be filled from within the contractor's organization, and positions lasting three days or less, and (2) each such local office shall give such veterans priority in referral to such employment openings.”
+
+Subsec. (c). Pub. L. 107–288, §2(b)(2)(A), struck out “suitable” before “employment openings” and substituted “subsection (a)(2)(B)” for “subsection (a)(2) of this section”.
+
+Subsec. (d)(1). Pub. L. 107–288, §2(b)(2)(B)(i), struck out “of this section” after “subsection (a)” in introductory provisions.
+
+Subsec. (d)(1)(A), (B). Pub. L. 107–288, §2(b)(2)(B)(ii), amended subpars. (A) and (B) generally. Prior to amendment, subpars. (A) and (B) read as follows:
+
+“(A) the number of employees in the work force of such contractor, by job category and hiring location, who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized;
+
+“(B) the total number of new employees hired by the contractor during the period covered by the report and the number of such employees who are special disabled veterans, veterans of the Vietnam era, recently separated veterans, or other veterans who served on active duty during a war or in a campaign or expedition for which a campaign badge has been authorized; and”.
+
+Subsec. (d)(2). Pub. L. 107–288, §2(b)(2)(C), struck out “of this subsection” after “paragraph (1)”.
 
 2000—Subsec. (a). Pub. L. 106–419, §322(a), inserted “recently separated veterans,” after “veterans of the Vietnam era,” in first sentence.
 
@@ -57,6 +99,10 @@ Subsec. (c). Pub. L. 94–502, §605, added subsec. (c).
 1974—Subsec. (a). Pub. L. 93–508, §402(1), (2), substituted “Any contract in the amount of $10,000 or more entered into” for “Any contract entered into”, “the party contracting with the United States shall take affirmative action to employ and advance in employment” for “in employing persons to carry out such contract, the party contracting with the United States shall give special emphasis to the employment of”, and “In addition to requiring affirmative action to employ such veterans under such contracts and subcontracts and in order to promote the implementation of such requirement, the President shall” for “The President shall”.
 
 Subsec. (b). Pub. L. 93–508, §402(3), substituted “relating to the employment of veterans” for “relating to giving special emphasis in employment to veterans”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–288 applicable with respect to contracts entered into on or after the first day of the first month that begins 12 months after Nov. 7, 2002, see section 2(b)(3) of Pub. L. 107–288, set out as a note under section 4211 of this title.
 
 #### Effective Date of 1980 Amendment
 
@@ -102,5 +148,5 @@ Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3116, 4102A, 4103, 4104 of this title; title 31 section 1354.
+This section is referred to in sections 3116, 4107, 4214 of this title; title 31 section 1354.
 

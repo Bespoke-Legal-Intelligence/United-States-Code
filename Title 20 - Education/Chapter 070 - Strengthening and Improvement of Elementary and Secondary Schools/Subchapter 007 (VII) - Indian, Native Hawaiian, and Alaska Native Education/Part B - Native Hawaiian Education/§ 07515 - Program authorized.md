@@ -76,7 +76,7 @@
 
 &emsp;&emsp;&emsp;(iii) vocational and adult education programs; and
 
-&emsp;&emsp;&emsp;(iv) programs that recognize and support the unique cultural and educational needsof Native Hawaiian children, and incorporate appropriately qualified Native Hawaiian elders and seniors;
+&emsp;&emsp;&emsp;(iv) programs that recognize and support the unique cultural and educational needs of Native Hawaiian children, and incorporate appropriately qualified Native Hawaiian elders and seniors;
 
 &emsp;&emsp;(I) activities, including program co-location, to enable Native Hawaiians to enter and complete programs of postsecondary education, including—
 
@@ -100,7 +100,7 @@
 
 #### (A) Institutions outside Hawaii
 
-&emsp;&emsp;The Secretary shall not establish a policy under this section that prevents a Native Hawaiian student enrolled at a 2- or 4-year degree granting institution of higher education outside of the State of Hawaii from receiving a scholarship pursuant to paragraph (3)(I).
+&emsp;&emsp;The Secretary shall not establish a policy under this section that prevents a NativeHawaiian student enrolled at a 2- or 4-year degree granting institution of higher education outside of the State of Hawaii from receiving a scholarship pursuant to paragraph (3)(I).
 
 #### (B) Scholarship conditions
 

@@ -18,7 +18,7 @@
 
 (2) At the hearing referred to in paragraph (1) of this subsection, any adverse party named in the complaint shall have the right to present evidence and cross-examine witnesses.
 
-(3) A protective order shall set forth the reasons for the issuance of such order, be specific in terms, describe in reasonable detail (and not byreference to the complaint or other document) the act or acts being restrained.
+(3) A protective order shall set forth the reasons for the issuance of such order, be specific in terms, describe in reasonable detail (and not by reference to the complaint or other document) the act or acts being restrained.
 
 (4) The court shall set the duration of effect of the protective order for such period as the court determines necessary to prevent harassment of the victim or witness but in no case for a period in excess of three years from the date of such order's issuance. The attorney for the Government may, at any time within ninety days before the expiration of such order, apply for a new protective order under this section.
 

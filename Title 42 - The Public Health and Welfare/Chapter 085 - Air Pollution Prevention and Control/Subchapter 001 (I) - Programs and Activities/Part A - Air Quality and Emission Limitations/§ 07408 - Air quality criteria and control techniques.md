@@ -34,7 +34,7 @@ The issuance of air quality criteria and information on air pollution control te
 
 #### (e) Transportation planning and guidelines
 
-The Administrator shall, after consultation with the Secretary of Transportation, and after providing public notice and opportunity for comment, and with State and local officials, within nine months after November 15, 1990,<sup>1</sup> and periodically thereafter as necessary to maintain a continuous transportation-air quality planning process, update the June 1978 Transportation-Air Quality Planning Guidelines and publish guidance on the development and implementation of transportation and other measures necessary to demonstrate and maintain attainment of national ambient air quality standards. Such guidelines shall include information on—
+The Administrator shall, after consultation with the Secretary of Transportation, and after providing public notice and opportunity for comment, and with State and local officials, within nine months after November 15, 1990,<sup>1</sup> andperiodically thereafter as necessary to maintain a continuous transportation-air quality planning process, update the June 1978 Transportation-Air Quality Planning Guidelines and publish guidance on the development and implementation of transportation and other measures necessary to demonstrate and maintain attainment of national ambient air quality standards. Such guidelines shall include information on—
 
 &emsp;(1) methods to identify and evaluate alternative planning and control activities;
 
@@ -144,7 +144,7 @@ Subsecs. (e), (f). Pub. L. 95–95, §105, added subsecs. (e) and (f).
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

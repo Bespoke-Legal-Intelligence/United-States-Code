@@ -4,7 +4,7 @@
 
 (b) Retired pay computed under section 423(a) of this title of an officer retired under this section shall not be less than 50 percent of the basic pay upon which the computation of his retired pay is based.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 185; amended Pub. L. 93–283, §1(8), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, §1(25), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 96–342, title VIII, §813(f)(1), Sept. 8, 1980, 94 Stat. 1109; Pub. L. 97–417, §2(7), Jan. 4, 1983, 96 Stat. 2085; Pub. L.99–348, title II, §205(b)(4), July 1, 1986, 100 Stat. 700; Pub. L. 99–661, div. A, title XIII, §1343(c), Nov. 14, 1986, 100 Stat. 3995.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 185; amended Pub. L. 93–283, §1(8), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, §1(25), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 96–342, title VIII, §813(f)(1), Sept. 8, 1980, 94 Stat. 1109; Pub. L. 97–417, §2(7), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–348, title II, §205(b)(4), July 1, 1986, 100 Stat. 700; Pub. L. 99–661, div. A, title XIII, §1343(c), Nov. 14, 1986, 100 Stat. 3995.)
 
 #### Amendments
 

@@ -14,7 +14,7 @@ The Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts a
 
 #### Amendments
 
-1982—Pub. L. 97–275 substituted “all projects and project facilities governed by the Federal reclamation law (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), including any project and facilities constructed with funds providedby the Small Reclamation Projects Act (Act of August 6, 1956, 70 Stat. 1044, and Acts amendatory thereof or supplementary thereto) or with funds provided by the Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto)” for “irrigation or power systems operated and maintained by the Bureau of Reclamation, Department of the Interior”.
+1982—Pub. L. 97–275 substituted “all projects and project facilities governed by the Federal reclamation law (Act of June 17, 1902, 32 Stat. 388, and Acts amendatory thereof or supplementary thereto), including any project and facilities constructed with funds provided by the Small Reclamation Projects Act (Act of August 6, 1956, 70 Stat. 1044, and Acts amendatory thereof or supplementary thereto) or with funds provided by the Distribution System Loans Act (Act of May 14, 1956, 69 Stat. 244, and Acts amendatory thereof or supplementary thereto)” for “irrigation or power systems operated and maintained by the Bureau of Reclamation, Department of the Interior”.
 
 #### Transfer of Functions
 

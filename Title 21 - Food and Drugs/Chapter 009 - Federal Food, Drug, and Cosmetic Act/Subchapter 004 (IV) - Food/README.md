@@ -25,3 +25,5 @@
 - [&sect; 00350 - Vitamins and minerals](%C2%A7%2000350%20-%20Vitamins%20and%20minerals.md)
 - [&sect; 00350a - Infant formulas](%C2%A7%2000350a%20-%20Infant%20formulas.md)
 - [&sect; 00350b - New dietary ingredients](%C2%A7%2000350b%20-%20New%20dietary%20ingredients.md)
+- [350c. Maintenance and inspection of records](350c.%20Maintenance%20and%20inspection%20of%20records.md)
+- [&sect; 00350d - Registration of food facilities](%C2%A7%2000350d%20-%20Registration%20of%20food%20facilities.md)

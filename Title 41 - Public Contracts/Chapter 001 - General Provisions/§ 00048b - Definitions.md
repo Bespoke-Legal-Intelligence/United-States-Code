@@ -48,5 +48,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 2410d; title 40 section 481.
+This section is referred to in title 10 section 2410d; title 40 section 502.
 

@@ -4,7 +4,7 @@
 
 The Secretary shall establish the National Health Service Corps Scholarship Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—
 
-&emsp;(1) an adequate supply of physicians, dentists, certified nurse midwives, certified nurse practitioners, and physician assistants; and
+&emsp;(1) an adequate supply of physicians, dentists, behavioral and mental health professionals, certified nurse midwives, certified nurse practitioners, and physician assistants; and
 
 &emsp;(2) if needed by the Corps, an adequate supply of other health professionals.
 
@@ -12,7 +12,7 @@ The Secretary shall establish the National Health Service Corps Scholarship Prog
 
 To be eligible to participate in the Scholarship Program, an individual must—
 
-&emsp;(1) be accepted for enrollment, or be enrolled, as a full-time student (A) in an accredited (as determined by the Secretary) educational institution in a State and (B) in a course of study or program, offered by such institution and approved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession;
+&emsp;(1) be accepted for enrollment, or be enrolled, as a full-time student (A) in an accredited (as determined by the Secretary) educational institution in a State and (B) in a course of study or program, offered by such institution and approved by the Secretary, leading to a degree in medicine, osteopathic medicine, dentistry, or other health profession, or an appropriate degree from a graduate program of behavioral and mental health;
 
 &emsp;(2) be eligible for, or hold, an appointment as a commissioned officer in the Regular or Reserve Corps of the Service or be eligible for selection for civilian service in the Corps;
 
@@ -24,9 +24,9 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (1) In disseminating application forms and contract forms to individuals desiring to participate in the Scholarship Program, the Secretary shall include with such forms—
 
-&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254<i>o</i> <sup>1</sup> of this title in the case of the individual's breach of the contract; and
+&emsp;(A) a fair summary of the rights and liabilities of an individual whose application is approved (and whose contract is accepted) by the Secretary, including in the summary a clear explanation of the damages to which the United States is entitled under section 254<i>o</i> of this title in the case of the individual's breach of the contract; and
 
-&emsp;(B) information respecting meeting a service obligation through private practice under an agreement under section 254n <sup>1</sup> of this title and such other information as may be necessary for the individual to understand the individual's prospective participation in the Scholarship Program and service in the Corps, including a statement of all factors considered in approving applications for participation in the Program and in making assignments for participants in the Program.
+&emsp;(B) information respecting meeting a service obligation through private practice under an agreement under section 254n of this title and such other information as may be necessary for the individual to understand the individual's prospective participation in the Scholarship Program and service in the Corps, including a statement of all factors considered in approving applications for participation in the Program and in making assignments for participants in the Program.
 
 (2) The application form, contract form, and all other information furnished by the Secretary under this subpart shall be written in a manner calculated to be understood by the average individual applying to participate in the Scholarship Program. The Secretary shall make such application forms, contract forms, and other information available to individuals desiring to participate in the Scholarship Program on a date sufficiently early to insure that such individuals have adequate time to carefully review and evaluate such forms and information.
 
@@ -42,9 +42,11 @@ To be eligible to participate in the Scholarship Program, an individual must—
 
 (1) Subject to section 254f–1 of this title, in providing contracts under the Scholarship Program—
 
-&emsp;(A) the Secretary shall consider the extent of the demonstrated interest of the applicants for the contracts in providing primary health services; and
+&emsp;(A) the Secretary shall consider the extent of the demonstrated interest of the applicants for the contracts in providing primary health services;
 
-&emsp;(B) may consider such other factors regarding the applicants as the Secretary determines to be relevant to selecting qualified individuals to participate in such Program.
+&emsp;(B) the Secretary, in considering applications from individuals accepted for enrollment or enrolled in dental school, shall consider applications from all individuals accepted for enrollment or enrolled in any accredited dental school in a State; and
+
+&emsp;(C) may <sup>1</sup> consider such other factors regarding the applicants as the Secretary determines to be relevant to selecting qualified individuals to participate in such Program.
 
 (2) In providing contracts under the Scholarship Program, the Secretary shall give priority—
 
@@ -74,9 +76,11 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;&emsp;(ii) to maintain enrollment in a course of study described in subsection (b)(1)(B) of this section until the individual completes the course of study;
 
-&emsp;&emsp;&emsp;(iii) while enrolled in such course of study, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study); and
+&emsp;&emsp;&emsp;(iii) while enrolled in such course of study, to maintain an acceptable level of academic standing (as determined under regulations of the Secretary by the educational institution offering such course of study);
 
-&emsp;&emsp;&emsp;(iv) to serve for a time period (hereinafter in the subpart referred to as the “period of obligated service”) equal to—
+&emsp;&emsp;&emsp;(iv) if pursuing a degree from a school of medicine or osteopathic medicine, to complete a residency in a specialty that the Secretary determines is consistent with the needs of the Corps; and
+
+&emsp;&emsp;&emsp;(v) to serve for a time period (hereinafter in the subpart referred to as the “period of obligated service”) equal to—
 
 &emsp;&emsp;&emsp;&emsp;(I) one year for each school year for which the individual was provided a scholarship under the Scholarship Program, or
 
@@ -86,7 +90,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;(2) a provision that any financial obligation of the United States arising out of a contract entered into under this subpart and any obligation of the individual which is conditioned thereon, is contingent upon funds being appropriated for scholarships under this subpart and to carry out the purposes of sections 254d through 254h and sections 254j and 254k of this title;
 
-&emsp;(3) a statement of the damages to which the United States is entitled, under section 254<i>o</i> <sup>2</sup> of this title, for the individual's breach of the contract; and
+&emsp;(3) a statement of the damages to which the United States is entitled, under section 254<i>o</i> of this title, for the individual's breach of the contract; and
 
 &emsp;(4) such other statements of the rights and liabilities of the Secretary and of the individual, not inconsistent with the provisions of this subpart.
 
@@ -98,7 +102,7 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 &emsp;&emsp;(i) the tuition of the student in such school year; and
 
-&emsp;&emsp;(ii) all other reasonable educational expenses, including fees, books, and laboratory expenses, incurred by the student in such school year; and
+&emsp;&emsp;(ii) all other reasonable educational expenses, including fees, books, and laboratoryexpenses, incurred by the student in such school year; and
 
 &emsp;(B) payment to the student of a stipend of $400 per month (adjusted in accordance with paragraph (3)) for each of the 12 consecutive months beginning with the first month of such school year.
 
@@ -110,13 +114,9 @@ The written contract (referred to in this subpart) between the Secretary and an 
 
 Notwithstanding any other provision of law, individuals who have entered into written contracts with the Secretary under this section, while undergoing academic training, shall not be counted against any employment ceiling affecting the Department.
 
-#### (i) Omitted
-
-(July 1, 1944, ch. 373, title III, §338A, formerly title VII, §751, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281; amended Pub. L. 95–215, §5, Dec. 19, 1977, 91 Stat. 1506; Pub. L. 95–623, §12(c), Nov. 9, 1978, 92 Stat. 3457; Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–32, §7(i), July 10, 1979, 93 Stat. 84; renumbered §338A and amended Pub. L. 97–35, title XXVII, §2709(a), (b), Aug. 13, 1981, 95 Stat. 908; Pub. L. 99–129, title II, §210(b), Oct. 22, 1985, 99 Stat. 537; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(K)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 101–597, title II, §201, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3021, 3035.)
+(July 1, 1944, ch. 373, title III, §338A, formerly title VII, §751, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281; amended Pub. L. 95–215, §5, Dec. 19, 1977, 91 Stat. 1506; Pub. L. 95–623, §12(c), Nov. 9, 1978, 92 Stat. 3457; Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–32, §7(i), July 10, 1979, 93 Stat. 84; renumbered §338A and amended Pub. L. 97–35, title XXVII, §2709(a), (b), Aug. 13, 1981, 95 Stat. 908; Pub. L. 99–129, title II, §210(b), Oct. 22, 1985, 99 Stat. 537; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–509, title V, §529 \[title I, §101(b)(4)(K)\], Nov. 5, 1990, 104 Stat. 1427, 1440; Pub. L. 101–597, title II, §201, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3021, 3035; Pub. L. 107–251, title III, §309, Oct. 26, 2002, 116 Stat. 1649.)
 
 #### References in Text
-
-Sections 254n and 254<i>o</i> of this title, referred to in subsecs. (c)(1) and (f)(3), were in the original references to sections 338C and 338D, respectively, of act July 1, 1944, which were renumbered sections 338D and 338E, respectively, by Pub. L. 100–177, title II, §201(2), Dec. 1, 1987, 101 Stat. 992.
 
 Section 294z of this title, referred to in subsec. (d)(2)(A), was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994.
 
@@ -126,11 +126,23 @@ Section 292k of this title, referred to in subsec. (g)(1)(A), was in the origina
 
 In subsec. (g)(2), “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 529)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
-Subsec. (i) of this section, which required the Secretary to submit an annual report to Congress on the Scholarship Program, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 96 of House Document No. 103–7.
-
 Section was formerly classified to section 294t of this title prior to its renumbering by Pub. L. 97–35.
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–251, §309(1), inserted “behavioral and mental health professionals,” after “dentists,”.
+
+Subsec. (b)(1)(B). Pub. L. 107–251, §309(2), inserted “, or an appropriate degree from a graduate program of behavioral and mental health” after “other health profession”.
+
+Subsec. (c)(1). Pub. L. 107–251, §309(3), made technical amendment to references in original act which appear in subpar. (A) as reference to section 254<i>o</i> of this title and in subpar. (B) as reference to section 254n of this title.
+
+Subsec. (d)(1)(B), (C). Pub. L. 107–251, §309(4), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (f)(1)(B)(iv), (v). Pub. L. 107–251, §309(5)(A), added cl. (iv) and redesignated former cl. (iv) as (v).
+
+Subsec. (f)(3). Pub. L. 107–251, §309(5)(B), made technical amendment to reference in original act which appears in text as reference to section 254<i>o</i> of this title.
+
+Subsec. (i). Pub. L. 107–251, §309(6), struck out subsec. (i), which required an annual report to Congress on the Scholarship Program.
 
 1990—Subsec. (a). Pub. L. 101–597, §201(a)(1), substituted “Corps Scholarship Program to assure, with respect to the provision of primary health services pursuant to section 254d(a)(2) of this title—” and pars. (1) and (2) for “Corps Scholarship Program (hereinafter in this subpart referred to as the ‘Scholarship Program’) to assure an adequate supply of trained physicians, dentists, and nurses for the National Health Service Corps (hereinafter in this subpart referred to as the ‘Corps’) and, if needed by the Corps, podiatrists, optometrists, pharmacists, clinical psychologists, graduates of schools of veterinary medicine, graduates of schools of public health, graduates of programs in health administration, graduates of programs for the training of physician assistants, expanded function dental auxiliaries, and nurse practitioners (as defined in section 296m of this title), and other health professionals.”
 
@@ -226,13 +238,17 @@ Section 408(b)(2) of Pub. L. 94–484, as amended, eff. Oct. 12, 1976, by Pub. L
 
 “(B) The provisions of section 225(f)(1) of the Public Health Service Act (as in effect on September 30, 1977) \[former section 234(f)(1) of this title\] prescribing the financial obligation of a participant in the Public Health and National Health Service Corps Scholarship Program who fails to complete an active duty service obligation incurred under that Program shall apply to any individual who received a scholarship under such Program from appropriations for such Program for any fiscal year ending before October 1, 1977.
 
-“(C) If an individual received a scholarship under the Public Health and National Health Service Corps Scholarship Program for any school year beginning before the date of the enactment of this Act \[Oct. 12, 1976\], periods of internship or residency served by such individual in a facility of the National Health Service Corps or other facility of the Public Health Service shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship or for any scholarship received under the National Health Service Corps Scholarship Program for any subsequent school year. If an individual received a scholarship under the Public Health and National Health Service Corps Program for the first time from appropriations for such Program for the fiscal year ending September 30, 1977, periods of internship or residency served by such individual in such a facility shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship.”
+“(C) If an individual received a scholarship under the Public Health and National Health Service CorpsScholarship Program for any school year beginning before the date of the enactment of this Act \[Oct. 12, 1976\], periods of internship or residency served by such individual in a facility of the National Health Service Corps or other facility of the Public Health Service shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship or for any scholarship received under the National Health Service Corps Scholarship Program for any subsequent school year. If an individual received a scholarship under the Public Health and National Health Service Corps Program for the first time from appropriations for such Program for the fiscal year ending September 30, 1977, periods of internship or residency served by such individual in such a facility shall be creditable in satisfying such individual's service obligation incurred under that Program for such scholarship.”
+
+#### Scholarship and Loan Repayment Programs
+
+Pub. L. 107–251, title III, §302(c), Oct. 26, 2002, 116 Stat. 1644, provided that: “The Secretary of Health and Human Services, in consultation with organizations representing individuals in the dental field and organizations representing publicly funded health care providers, shall develop and implement a plan for increasing the participation of dentists and dental hygienists in the National Health Service Corps Scholarship Program under section 338A of the Public Health Service Act (42 U.S.C. 254<i>l</i>) and the Loan Repayment Program under section 338B of such Act (42 U.S.C. 254<i>l</i>–1).”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254d, 254h–1, 254m, 254n, 254<i>o</i>, 254<i>o</i>–1, 254q, 254q–1, 254s, 254t, 11709 ofthis title; title 25 sections 1613a, 1616m; title 26 section 117.
+This section is referred to in sections 254d, 254h–1, 254m, 254n, 254<i>o</i>, 254<i>o</i>–1, 254q, 254q–1, 254s, 11709 of this title; title 25 sections 1613a, 1616m; title 26 section 117.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+<i><sup>1</sup></i><i> So in original.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

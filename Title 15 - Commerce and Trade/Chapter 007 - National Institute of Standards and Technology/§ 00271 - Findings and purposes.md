@@ -58,6 +58,8 @@ Section 5101 of Pub. L. 100–418 provided that: “This part \[part I (§§5101
 
 Act Mar. 3, 1901, ch. 872, §32, formerly §23, as added Jan. 8, 1988, Pub. L. 100–235, §3(3), 101 Stat. 1728; renumbered §31 and amended Pub. L. 100–418, title V, §§5114(1), 5115(a)(2), Aug. 23, 1988, 102 Stat. 1432, 1433; renumbered §32, Pub. L. 105–309, §4(a), Oct. 30, 1998, 112 Stat. 2935, provided that: “This Act \[enacting this chapter\] may be cited as the National Institute of Standards and Technology Act.”
 
+\[Another section 32 of act Mar. 3, 1901, ch. 872, is classified to section 278q of this title.\]
+
 #### Savings Provision
 
 Act Mar. 3, 1901, ch. 872, §29, as added Aug. 23, 1988, Pub. L. 100–418, title V, §5161, 102 Stat. 1449, provided that: “All rules and regulations, determinations, standards, contracts, certifications, authorizations, delegations, results and findings of investigations, or other actions duly issued, made, or taken by or pursuant to this Act \[enacting this chapter\], or under the authority of any other statutes which resulted in the assignment of functions or activities to the Secretary, the Department, the Director, or the Institute, as are in effect immediately before the date of enactment of this section \[Aug. 23, 1988\], and not suspended by the Secretary, the Director, the Institute or the courts, shall continue in full force and effect after the date of enactment of this section until modified or rescinded.”

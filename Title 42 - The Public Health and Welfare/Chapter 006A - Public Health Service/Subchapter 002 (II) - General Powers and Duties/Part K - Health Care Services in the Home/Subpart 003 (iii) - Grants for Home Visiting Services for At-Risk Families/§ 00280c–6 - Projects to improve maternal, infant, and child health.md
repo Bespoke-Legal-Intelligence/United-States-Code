@@ -18,7 +18,7 @@
 
 &emsp;(A) The Secretary shall award grants under paragraph (1) for periods of at least three years.
 
-&emsp;(B) The Administrator of the Administration for Children, Youth, and Families and the Director of the National Commission to Prevent Infant Mortality shall be consulted regarding the promulgation of program guidelines and funding priorities under this section.
+&emsp;(B) The Administrator of the Administration for Children, Youth, and Families and the Director of the National Commission to PreventInfant Mortality shall be consulted regarding the promulgation of program guidelines and funding priorities under this section.
 
 #### (3) Requirement of status as medicaid provider
 
@@ -120,7 +120,7 @@ Each grantee under subsection (a) of this section shall provide outreach and cas
 
 #### (h) Confidentiality
 
-In accordance with applicable State law, an entity receiving a grant under subsection (a) ofthis section shall maintain confidentiality with respect to services provided to families under this section.
+In accordance with applicable State law, an entity receiving a grant under subsection (a) of this section shall maintain confidentiality with respect to services provided to families under this section.
 
 #### (i) Certain assurances
 
@@ -164,7 +164,7 @@ To be eligible to receive a grant under this section, an entity must agree that 
 
 #### (m) Reports to Secretary
 
-To be eligible to receive a grant under this section, an entity must agree to submit an annual report on the services provided under this section to the Secretary in such manner and containing such information as the Secretary by regulation requires. At a minimum, the entity shall report information concerning eligible families, including—
+To be eligible to receive a grant under this section, an entity must agree to submit an annual report on the services provided under thissection to the Secretary in such manner and containing such information as the Secretary by regulation requires. At a minimum, the entity shall report information concerning eligible families, including—
 
 &emsp;(1) the characteristics of the families and children receiving services under this section;
 
@@ -280,7 +280,7 @@ Amendment by Pub. L. 103–448 effective Oct. 1, 1994, see section 401 of Pub. L
 
 #### Effective Date
 
-Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L.102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 
 #### Reference to Community, Migrant, Public Housing, or Homeless Health Center Considered Reference to Health Center
 

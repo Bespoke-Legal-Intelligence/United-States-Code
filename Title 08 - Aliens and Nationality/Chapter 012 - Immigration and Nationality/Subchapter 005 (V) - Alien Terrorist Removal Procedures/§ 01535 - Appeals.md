@@ -76,7 +76,7 @@ Following a decision by the Court of Appeals pursuant to subsection (c) of this 
 
 #### (1) In general
 
-&emsp;Sections 3145 through 3148 of title 18 pertaining to review and appeal of a release or detention order, penalties for failure to appear, penalties for an offense committed while on release, and sanctions for violation of a release condition shall apply to an alien to whom section 1537(b)(1) of this title applies. In applying the previous sentence—
+&emsp;Sections 3145 through 3148 of title 18 pertaining to review and appeal of a release or detention order, penalties for failure to appear, penalties for an offense committed while on release, and sanctions for violation of a releasecondition shall apply to an alien to whom section 1537(b)(1) of this title applies. In applying the previous sentence—
 
 &emsp;&emsp;(A) for purposes of section 3145 of such title an appeal shall be taken to the United States Court of Appeals for the District of Columbia Circuit; and
 
@@ -103,6 +103,10 @@ Subsec. (c)(4). Pub. L. 104–208, §354(a)(3)(C), redesignated par. (3) as (4).
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective as if included in the enactment of subtitle A of title IV of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132, see section 358 of Pub. L. 104–208, set out as a note under section 1182 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 

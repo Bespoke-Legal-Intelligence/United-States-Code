@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Each New Markets Venture Capital company that participates in the program established under this part shall be subject to examinations made at the direction of the Investment Division of the Small Business Administration in accordance with this section.
+Each New Markets Venture Capital company that participates in the program establishedunder this part shall be subject to examinations made at the direction of the Investment Division of the Small Business Administration in accordance with this section.
 
 #### (b) Assistance of private sector entities
 

@@ -10,7 +10,7 @@
 
 #### Repeal of Section
 
-<i>Section repealed upon transmittal of determination by President under section 6063(c)(3) of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
+<i>Section repealed upon transmittal of determination by President under section 6063(c)(3)</i><i>of this title that democratically elected government in Cuba is in power, see section 6037(c) of this title.</i>
 
 #### Codification
 

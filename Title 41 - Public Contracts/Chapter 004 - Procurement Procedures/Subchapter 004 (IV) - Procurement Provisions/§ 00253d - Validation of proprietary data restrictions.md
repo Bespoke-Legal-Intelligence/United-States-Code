@@ -44,7 +44,7 @@ If a claim pertaining to the validity of the asserted restriction is submitted i
 
 &emsp;(B) the United States shall be liable for payment to the party asserting the restriction for fees and other expenses (as defined in section 2412(d)(2)(A) of title 28) incurred by the party asserting the restriction in defending the asserted restriction if the challenge by the United States is found not to be made in good faith.
 
-(June 30, 1949, ch. 288, title III, §303D, formerly §303E, as added Pub. L. 98–577, title II, §203(a),Oct. 30, 1984, 98 Stat. 3071; renumbered §303D, Pub. L. 99–145, title XIII, §1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742.)
+(June 30, 1949, ch. 288, title III, §303D, formerly §303E, as added Pub. L. 98–577, title II, §203(a), Oct. 30, 1984, 98 Stat. 3071; renumbered §303D, Pub. L. 99–145, title XIII, §1304(c)(4)(A), Nov. 8, 1985, 99 Stat. 742.)
 
 #### References in Text
 
@@ -56,5 +56,5 @@ Section 203(b) of Pub. L. 98–577 provided that: “The amendment made by subse
 
 #### Definitions
 
-The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
+The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 

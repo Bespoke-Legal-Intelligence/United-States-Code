@@ -24,7 +24,7 @@ It shall be the duty of the District Court for the District of Columbia and the 
 
 #### References in Text
 
-The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(1), is Pub. L. 93–344, July 12, 1974, 88 Stat. 297, as amended. Part C of title X of the Act is classified generally to subchapter III (§691 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
+The Congressional Budget and Impoundment Control Act of 1974, referred to in subsec. (a)(1), is Pub. L.93–344, July 12, 1974, 88 Stat. 297, as amended. Part C of title X of the Act is classified generally to subchapter III (§691 et seq.) of this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 621 of this title and Tables.
 
 #### Codification
 

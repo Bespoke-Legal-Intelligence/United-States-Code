@@ -16,7 +16,7 @@ Section was not enacted as part of title I of Pub. L. 101–380 which comprises 
 
 #### Delegation of Functions
 
-Specific functions of President under this section delegated to Secretary of Department in which Coast Guard is operating, Secretary of the Interior, and Secretary of Transportation by section 5(b) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54765, set out as a note under section 1321 of this title.
+Specific functions of President under this section delegated to Secretary of Department in which Coast Guard is operating and Secretary of the Interior by section 5(b) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54765, as amended, set out as a note under section 1321 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “this” probably should not appear.</i>
 

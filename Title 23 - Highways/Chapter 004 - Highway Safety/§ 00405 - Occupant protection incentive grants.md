@@ -60,7 +60,7 @@ Child passenger protection law.—The State has in effect a law that requires mi
 
 (c)
 
-Grant Amounts.—The amount of a grant for which a State qualifies under this section for a fiscal year shall equal up to 25 percent of the amount apportioned to the State for fiscal year 1997 under section 402.
+Grant Amounts.—The amount of a grant for which a State qualifies under this section fora fiscal year shall equal up to 25 percent of the amount apportioned to the State for fiscal year 1997 under section 402.
 
 (d)
 

@@ -24,7 +24,7 @@ Suspensions and Restrictions.—Without a hearing, but subject to the approval o
 
 Illegal Importation of Controlled Substances.—The Secretary—
 
-&emsp;(1) in consultation with appropriate departments, agencies, and instrumentalities of theGovernment, shall reexamine immediately the fitness of a foreign air carrier that—
+&emsp;(1) in consultation with appropriate departments, agencies, and instrumentalities of the Government, shall reexamine immediately the fitness of a foreign air carrier that—
 
 &emsp;&emsp;(A) violates the laws and regulations of the United States related to the illegal importation of a controlled substance; or
 

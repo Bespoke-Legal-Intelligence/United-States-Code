@@ -12,5 +12,5 @@ Congress makes the following findings:
 
 #### Short Title
 
-Pub. L. 106–174, §1, Feb. 25, 2000, 114 Stat. 18, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Poison Control Center Enhancement and Awareness Act’.”
+Pub. L. 106–174, §1, Feb. 25, 2000, 114 Stat. 18, provided that: “This Act \[enacting this chapter\] may be cited asthe ‘Poison Control Center Enhancement and Awareness Act’.”
 

@@ -136,11 +136,11 @@
 
 #### (D) Priority
 
-&emsp;&emsp;In awarding grants or contracts under this subsection, priority shall be provided to entities with nationally recognized expertise in the methods, techniques, and knowledgeof workforce investment activities and shall include appropriate time limits, established by the Secretary, for the duration of such projects.
+&emsp;&emsp;In awarding grants or contracts under this subsection, priority shall be provided to entities with nationally recognized expertise in the methods, techniques, and knowledge of workforce investment activities and shall include appropriate time limits, established by the Secretary, for the duration of such projects.
 
 #### (d) Dislocated worker projects
 
-Of the amount made available pursuant to section 2862(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10 percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects, relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (c)(4)(C) of this section. Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered through the dislocated worker office described in section 2918(b) of this title.
+Of the amount made available pursuant to section 2862(a)(2)(A) of this title for any program year, the Secretary shall use not more than 10percent of such amount to carry out demonstration and pilot projects, multiservice projects, and multistate projects, relating to the employment and training needs of dislocated workers. Of the requirements of this section, such projects shall be subject only to the provisions relating to review and evaluation of applications under subsection (c)(4)(C) of this section. Such projects may include demonstration and pilot projects relating to promoting self-employment, promoting job creation, averting dislocations, assisting dislocated farmers, assisting dislocated fishermen, and promoting public works. Such projects shall be administered through the dislocated worker office described in section 2918(b) of this title.
 
 (Pub. L. 105–220, title I, §171, Aug. 7, 1998, 112 Stat. 1031; Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(11)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–411.)
 

@@ -38,5 +38,25 @@ The Customs laws, referred to in subsec. (e), are classified generally to this t
 
 1993—Pub. L. 103–182 amended section generally. Prior to amendment, section read as follows: “Within 120 days after issuing any precedential decision (including any ruling letter, internal advice memorandum, or protest review decision) under this chapter with respect to any customs transaction, the Secretary shall have such decision published in the Customs Bulletin or shall otherwise make such decision available for public inspection.”
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Study and Report Relating to Timeliness of Prospective Rulings
+
+Pub. L. 107–210, div. A, title III, §335, Aug. 6, 2002, 116 Stat. 978, provided that:
+
+“(a)
+
+Study.—The Comptroller General shall conduct a study on the extent to which the Office of Regulations and Rulings of the Customs Service has made improvements to decrease the amount of time to issue prospective rulings from the date on which a request for the ruling is received by the Customs Service.
+
+“(b)
+
+Report.—Not later than 1 year after the date of the enactment of this Act \[Aug. 6, 2002\], the Comptroller General shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report containing the results of the study conducted under subsection (a).
+
+“(c)
+
+Definition.—In this section, the term ‘prospective ruling’ means a ruling that is requested by an importer on goods that are proposed to be imported into the United States and that relates to the proper classification, valuation, or marking of such goods.”
+
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

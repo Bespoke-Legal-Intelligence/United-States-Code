@@ -46,7 +46,7 @@
 
 #### (3) Reinstatement
 
-&emsp;Upon application, the Director may reinstate any such recovered disability annuitant in the grade held at time of retirement, or the Director may, taking into consideration theage, qualifications, and experience of such annuitant, and the present grade of the annuitant's contemporaries in the Agency, appoint the annuitant to a grade higher than the one held before retirement.
+&emsp;Upon application, the Director may reinstate any such recovered disability annuitant in the grade held at time of retirement, or the Director may, taking into consideration the age, qualifications, and experience of such annuitant, and the present grade of the annuitant's contemporaries in the Agency, appoint the annuitant to a grade higher than the one held before retirement.
 
 #### (4) Termination of disability annuity
 
@@ -76,7 +76,7 @@
 
 #### (3) Further disability before age 62
 
-&emsp;If, based on a current medical examination, the Director determines that a recovered annuitant has, before reaching age 62, again become totally disabled due to recurrence of the disability for which the annuitant was originally retired, the annuitant's terminated disability annuity (same type and rate) shall be reinstated from the date of such medical examination. If a restored-to-earning-capacity annuitant has not medically recovered from the disability for which retired and establishes to the Director's satisfaction that the annuitant's income from wages and self-employment in any calendar year before reaching age 62 was less than 80 percent of the rate of pay for the grade and step the annuitant held at the time of retirement, the annuitant's terminated disability annuity (same type and rate) shall be reinstated from the first of the next following year. If the annuitant has been allowed an involuntary or voluntary retirement annuity in the meantime, the annuitant's reinstated disability annuity shall be substituted for it unless the annuitant elects to retain the former benefit.
+&emsp;If, based on a current medical examination, the Director determines that a recovered annuitant has, before reaching age 62, again become totally disabled due to recurrence of the disability for which the annuitant was originally retired, the annuitant's terminated disability annuity (same type and rate) shall be reinstated from the date of such medical examination. If a restored-to-earning-capacity annuitant has not medically recovered from the disability for which retired and establishes to the Director's satisfaction that the annuitant's income from wages and self-employment in any calendar year before reaching age 62 was less than 80 percent of the rate of pay for the grade and step the annuitant held at the time of retirement, the annuitant's terminated disability annuity (same type and rate) shall be reinstated from the first of the next following year. If the annuitant has been allowed an involuntary or voluntary retirementannuity in the meantime, the annuitant's reinstated disability annuity shall be substituted for it unless the annuitant elects to retain the former benefit.
 
 #### (e) Coordination of benefits
 

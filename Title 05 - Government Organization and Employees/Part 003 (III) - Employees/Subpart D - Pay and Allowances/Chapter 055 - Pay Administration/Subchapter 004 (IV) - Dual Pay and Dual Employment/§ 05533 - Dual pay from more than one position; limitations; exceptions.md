@@ -46,7 +46,7 @@
 
 &emsp;&emsp;\[(G) Repealed. Pub. L. 96–70, title III, §3302(e)(8), Sept. 27, 1979, 93 Stat. 498.\]
 
-(e)(1) This section does not apply to an individual employed under sections 174j–1 to 174j–7 or 174k of title 40.
+(e)(1) This section does not apply to an individual employed under sections 174j–1 to 174j–7 or 174k <sup>1</sup> of title 40.
 
 (2) Subsection (c) of this section does not apply to pay received by a teacher of the public schools of the District of Columbia for employment in a position during the summer vacation period.
 
@@ -77,6 +77,10 @@ In subsection (d)(7)(D), reference to “section 907 of title 20” is substitut
 In subsection (d)(7)(H), the words “of chapter 7” are omitted as surplusage.
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
+
+#### References in Text
+
+Sections 174j–1, 174j–3, 174j–4, 174j–5, 174j–6, 174j–7, and 174k of title 40, referred to in subsec. (e)(1), were transferred to sections 2042, 2043, 2044, 2045, 2046, 2047, and 2041, respectively, of Title 2, The Congress. Section 174j–2 of title 40 was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 #### Amendments
 
@@ -122,13 +126,21 @@ Amendment by Pub. L. 91–510 effective immediately prior to noon on Jan. 3, 197
 
 #### Effective Date of 1967 Amendments
 
-Amendment by Pub. L. 90–206 effective at beginning of first pay period which begins on or after Dec. 16, 1967, see section 220(a)(3) of Pub. L. 90–206, set out as a note under section 603 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 90–206 effective at beginning of first pay period which begins on or after Dec. 16, 1967,see section 220(a)(3) of Pub. L. 90–206, set out as a note under section 603 of Title 28, Judiciary and Judicial Procedure.
 
 Amendment by Pub. L. 90–57, effective Aug. 1, 1967, see section 105(k) of Pub. L. 90–57, set out as an Effective Date note under section 61–1 of Title 2, The Congress.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Increase in Compensation of Individuals Whose Pay is Disbursed by Secretary of Senate
 
-2001—The figure “$25,362” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2001, to the figure “$26,329”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2000, set out as a note under section 60a–1 of Title 2, The Congress.
+2003—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2003, to the figure “$27,822”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 19, 2002, as amended, set out as a note under section 60a–1 of Title 2, The Congress.
+
+2002—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2002, to the figure “$26,985”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2001, formerly set out as a note under section 60a–1 of Title 2, The Congress.
+
+2001—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2001, to the figure “$26,329”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 20, 2000, formerly set out as a note under section 60a–1 of Title 2.
 
 2000—The figure “$10,540” in subsec. (c)(1) of this section to be deemed to refer, effective Jan. 1, 2000, to the figure “$25,362”, see section 9 of Salary Directive of President pro tempore of the Senate, Dec. 12, 1999, formerly set out as a note under section 60a–1 of Title 2.
 
@@ -185,4 +197,6 @@ Amendment by Pub. L. 90–57, effective Aug. 1, 1967, see section 105(k) of Pub.
 #### Section Referred to in Other Sections
 
 This section is referred to in section 5531 of this title; title 2 section 162; title 13 section 23; title 15 section 327; title 20 section 907; title 22 sections 2396, 3664; title 25 section 2012; title 33 section 873; title 39 section 1001.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

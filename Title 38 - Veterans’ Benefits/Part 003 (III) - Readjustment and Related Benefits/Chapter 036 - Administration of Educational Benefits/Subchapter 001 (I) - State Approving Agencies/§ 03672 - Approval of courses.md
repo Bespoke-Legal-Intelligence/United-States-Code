@@ -6,7 +6,7 @@
 
 (c) In the case of programs of apprenticeship where—
 
-&emsp;(1) the standards have been approved by the Secretary of Labor pursuant to section 2 of the Act of August 16, 1937 (popularly known as the “National Apprenticeship Act”) (29 U.S.C. 50a), as a national apprenticeship program for operation in more than one State, and
+&emsp;(1) the standards have been approved by the Secretary of Labor pursuant to section 2 of the Act of August 16, 1937 (popularly known as the“National Apprenticeship Act”) (29 U.S.C. 50a), as a national apprenticeship program for operation in more than one State, and
 
 &emsp;(2) the training establishment is a carrier directly engaged in interstate commerce which provides such training in more than one State,
 

@@ -66,7 +66,7 @@ Notice; Claim; Complaint.—
 
 &emsp;&emsp;&emsp;(II) take the steps necessary to preserve its right to maintain custody of the property as provided in the applicable criminal forfeiture statute,
 
-> &emsp;the Government shall promptly release the property pursuant to regulations promulgated by the Attorney General, and may not take any further action to effect the civil forfeiture of such property in connection with the underlying offense.
+> &emsp;the Government shall promptly release the property pursuant to regulations promulgatedby the Attorney General, and may not take any further action to effect the civil forfeiture of such property in connection with the underlying offense.
 
 &emsp;(C) In lieu of, or in addition to, filing a civil forfeiture complaint, the Government may include a forfeiture allegation in a criminal indictment. If criminal forfeiture is the only forfeiture proceeding commenced by the Government, the Government's right to continued possession of the property shall be governed by the applicable criminal forfeiture statute.
 
@@ -80,7 +80,7 @@ Notice; Claim; Complaint.—
 
 Representation.—
 
-&emsp;(1)(A) If a person with standing to contest the forfeiture of property in a judicial civil forfeiture proceeding under a civil forfeiturestatute is financially unable to obtain representation by counsel, and the person is represented by counsel appointed under section 3006A of this title in connection with a related criminal case, the court may authorize counsel to represent that person with respect to the claim.
+&emsp;(1)(A) If a person with standing to contest the forfeiture of property in a judicial civil forfeiture proceeding under a civil forfeiture statute is financially unable to obtain representation by counsel, and the person is represented by counsel appointed under section 3006A of this title in connection with a related criminal case, the court may authorize counsel to represent that person with respect to the claim.
 
 &emsp;(B) In determining whether to authorize counsel to represent a person under subparagraph (A), the court shall take into account such factors as—
 
@@ -202,7 +202,7 @@ Release Of Seized Property.—
 
 &emsp;&emsp;(C) the continued possession by the Government pending the final disposition of forfeiture proceedings will cause substantial hardship to the claimant, such as preventing the functioning of a business, preventing an individual from working, or leaving an individual homeless;
 
-&emsp;&emsp;(D) the claimant's likely hardship from the continued possession by the Government of the seized property outweighs the risk that the property will be destroyed, damaged, lost, concealed, or transferred if it is returned to the claimant during the pendency of the proceeding; and
+&emsp;&emsp;(D) the claimant's likely hardship from the continued possession by the Governmentof the seized property outweighs the risk that the property will be destroyed, damaged, lost, concealed, or transferred if it is returned to the claimant during the pendency of the proceeding; and
 
 &emsp;&emsp;(E) none of the conditions set forth in paragraph (8) applies.
 
@@ -218,7 +218,7 @@ Release Of Seized Property.—
 
 &emsp;(4) If the Government establishes that the claimant's claim is frivolous, the court shall deny the petition. In responding to a petition under this subsection on other grounds, the Government may in appropriate cases submit evidence ex parte in order to avoid disclosing any matter that may adversely affect an ongoing criminal investigation or pending criminal trial.
 
-&emsp;(5) The court shall render a decision on a petition filed under paragraph (3) not later than30 days after the date of the filing, unless such 30-day limitation is extended by consent of the parties or by the court for good cause shown.
+&emsp;(5) The court shall render a decision on a petition filed under paragraph (3) not later than 30 days after the date of the filing, unless such 30-day limitation is extended by consent of the parties or by the court for good cause shown.
 
 &emsp;(6) If—
 
@@ -386,5 +386,5 @@ Savings clause.—Nothing in this section shall limit or otherwise affect any ot
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 981 of this title; title 28 section 2467.
+This section is referred to in sections 981, 3051 of this title; title 28 section 2467.
 

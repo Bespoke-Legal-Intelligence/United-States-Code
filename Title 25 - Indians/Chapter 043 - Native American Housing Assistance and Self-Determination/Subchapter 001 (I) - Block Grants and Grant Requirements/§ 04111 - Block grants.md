@@ -52,15 +52,15 @@ Except as otherwise provided under this chapter, the amount of a grant under thi
 
 Except as provided in subsection (h) of this section, amounts provided under a grant under this section may be used only for affordable housing activities under subchapter II of this chapter that are consistent with an Indian housing plan approved under section 4113 of this title.
 
-#### (h) Administrative expenses
+#### (h) Administrative and planning expenses
 
-The Secretary shall, by regulation, authorize each recipient to use a percentage of any grant amounts received under this chapter for any reasonable administrative and planning expenses of the recipient relating to carrying out this chapter and activities assisted with such amounts, which may include costs for salaries of individuals engaged in administering and managing affordable housing activities assisted with grant amounts provided under this chapter and expenses of preparing an Indian housing plan under section 4112 of this title.
+The Secretary shall, by regulation, authorize each recipient to use a percentage of any grant amounts received under this chapter for comprehensive housing and community development planning activities and for any reasonable administrative and planning expenses of the recipient relating to carrying out this chapter and activities assisted with such amounts, which may include costs for salaries of individuals engaged in administering and managing affordable housing activities assisted with grant amounts provided under this chapter and expenses of preparing an Indian housing plan under section 4112 of this title.
 
 #### (i) Public-private partnerships
 
 Each recipient shall make all reasonable efforts, consistent with the purposes of this chapter, to maximize participation by the private sector, including nonprofit organizations and for-profit entities, in implementing the approved Indian housing plan.
 
-(Pub. L. 104–330, title I, §101, Oct. 26, 1996, 110 Stat. 4022; Pub. L. 105–276, title V, §595(e)(3), (4), Oct. 21, 1998, 112 Stat. 2656, 2657; Pub. L. 106–568, title X, §1003(a), Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §503(a), Dec. 27, 2000, 114 Stat. 2961.)
+(Pub. L. 104–330, title I, §101, Oct. 26, 1996, 110 Stat. 4022; Pub. L. 105–276, title V, §595(e)(3), (4), Oct. 21, 1998, 112 Stat. 2656, 2657; Pub. L. 106–568, title X, §1003(a), Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §503(a), Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §4, Nov. 13, 2002, 116 Stat. 2054.)
 
 #### References in Text
 
@@ -69,6 +69,8 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 The United States Housing Act of 1937, referred to in subsec. (d), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
 #### Amendments
+
+2002—Subsec. (h). Pub. L. 107–292 inserted “and planning” after “Administrative” in heading and “for comprehensive housing and community development planning activities and” after “received under this chapter” in text.
 
 2000—Subsec. (b)(2). Pub. L. 106–568, §1003(a)(1), and Pub. L. 106–569, §503(a)(1), amended par. (2) identically, substituting “for a period of not more than 90 days, if the Secretary determines that an Indian tribe has not complied with, or is unable to comply with, those requirements due to exigent circumstances beyond the control of the Indian tribe.” for “if the Secretary finds that an Indian tribe has not complied or cannot comply with such requirements due to circumstances beyond the control of the tribe.”
 

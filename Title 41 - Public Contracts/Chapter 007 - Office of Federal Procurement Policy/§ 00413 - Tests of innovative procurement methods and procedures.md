@@ -22,7 +22,7 @@
 
 #### Prior Provisions
 
-A prior section 15 of Pub. L. 93–400 amended sections 474, 481, and 487 of Title 40, Public Buildings, Property, and Works.
+A prior section 15 of Pub. L. 93–400 amended sections 474, 481, and 487 of former Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

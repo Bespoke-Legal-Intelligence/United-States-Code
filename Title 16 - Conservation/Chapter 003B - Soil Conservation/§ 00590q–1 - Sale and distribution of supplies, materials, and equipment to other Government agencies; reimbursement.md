@@ -1,12 +1,12 @@
 ### §590q–1. Sale and distribution of supplies, materials, and equipment to other Government agencies; reimbursement
 
-The Soil Conservation Service subject to applicable regulations under the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\], may sell and distribute supplies, materials, and equipment to other Government activities, the cost of such supplies and materials or the value of such equipment (including the cost of transportation and handling) to be reimbursed to appropriations current at the time additional supplies, materials, or equipment are procured from the appropriations chargeable with the cost or value of such supplies, materials, or equipment.
+The Soil Conservation Service subject to applicable regulations under the Federal Property and Administrative Services Act of 1949, as amended, may sell and distribute supplies, materials, and equipment to other Government activities, the cost of such supplies and materials or the value of such equipment (including the cost of transportation and handling) to be reimbursed to appropriations current at the time additional supplies, materials, or equipment are procured from the appropriations chargeable with the cost or value of such supplies, materials, or equipment.
 
 (Sept. 21, 1944, ch. 412, title III, §302(b), 58 Stat. 738; Oct. 31, 1951, ch. 654, §2(12), 65 Stat. 707.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Codification
 

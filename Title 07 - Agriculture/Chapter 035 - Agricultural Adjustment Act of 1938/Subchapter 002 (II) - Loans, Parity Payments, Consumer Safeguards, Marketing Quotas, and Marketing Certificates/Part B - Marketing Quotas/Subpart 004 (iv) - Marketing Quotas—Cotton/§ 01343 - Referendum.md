@@ -12,7 +12,7 @@ Provision that if marketing quotas were proclaimed for the 1950 crop, farmers el
 
 1985—Pub. L. 99–157 amended last sentence generally, substituting “August 1, 1986, may be conducted not later than thirty-one days after adjournment sine die of the first session of the Ninety-ninth Congress” for “August 1, 1982, may be conducted not later than the earlier of the following: (1) thirty days after adjournment sine die of the first session of the Ninety-seventh Congress, or (2) January 1, 1982”.
 
-1981—Pub. L. 97–77 inserted provision that the referendum with respect to the national marketing quota for cotton for the marketing year beginning Aug. 1, 1982, be conducted not later than the earlier of the following: (1) thirty days after adjournment sine die of the first session of the Ninety-seventh Congress, or (2) Jan. 1, 1982.
+1981—Pub. L. 97–77 inserted provision that the referendum with respect to the national marketing quotafor cotton for the marketing year beginning Aug. 1, 1982, be conducted not later than the earlier of the following: (1) thirty days after adjournment sine die of the first session of the Ninety-seventh Congress, or (2) Jan. 1, 1982.
 
 1949—Act Aug. 29, 1949, amended section generally by providing for a secret referendum. Former provisions of this section are now covered by section 1342 of this title.
 
@@ -32,7 +32,9 @@ Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act Ju
 
 Section inapplicable to 1984 and subsequent crops of extra long staple cotton, see section 3 of Pub. L. 98–88, set out as a note under section 1342 of this title.
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
+
+Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
 Section inapplicable to 1991 through 1995 crops of upland cotton, see section 502 of Pub. L. 101–624, set out as a note under section 1342 of this title.
 

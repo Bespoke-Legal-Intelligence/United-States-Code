@@ -20,7 +20,7 @@
 
 &emsp;(B) $100,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $200,000 for any other State in the case of an allotment for grants for the construction of public or other nonprofit outpatient facilities,
 
-&emsp;(C) $200,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $300,000 for any other State in the case of an allotment for grants for the construction of public or other nonprofit facilities for long-term care or for the construction of public or other nonprofit hospitals and public health centers, or for themodernization of facilities referred to in paragraph (a) or (b) of section 291a of this title, or
+&emsp;(C) $200,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $300,000 for any other State in the case of an allotment for grants for the construction of public or other nonprofit facilities for long-term care or for the construction of public or other nonprofit hospitals and public health centers, or for the modernization of facilities referred to in paragraph (a) or (b) of section 291a of this title, or
 
 &emsp;(D) $200,000 for the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or Guam and $300,000 for any other State in the case of an allotment for grants for the modernization of facilities referred to in paragraphs (a) and (b) of section 291a of this title,
 
@@ -106,7 +106,7 @@ Subsec. (d)(1). Pub. L. 91–296, §§119(c), 122, inserted reference to Trust T
 
 Subsec. (d)(2). Pub. L. 91–296, §119(c), inserted references to Trust Territory of the Pacific Islands.
 
-Subsec. (e). Pub. L. 91–296, §104, authorized any State to make transfers of any amount up to the minimum amount allotted to any state for a particular category and authorized all amounts above such minimums to be transferred from one category of assistance to another without restriction on the amounts with the exception that no funds could be transferred from rehabilitation facilities category or to new hospital construction category and that all transfers be justified on the basis that either there are no approvable applications in the category from which funds are transferred or, in case of transfers from new hospital construction category, the purposes of the program would be better served by the transfer, and authorized transfers to new hospital construction from modernization category if need is greater.
+Subsec. (e). Pub. L. 91–296, §104, authorized any State to make transfers of any amount up to the minimum amount allotted to any state for a particular category and authorized all amounts above such minimums to be transferred from one category of assistance to another without restriction on the amounts with the exception that no funds could be transferred from rehabilitationfacilities category or to new hospital construction category and that all transfers be justified on the basis that either there are no approvable applications in the category from which funds are transferred or, in case of transfers from new hospital construction category, the purposes of the program would be better served by the transfer, and authorized transfers to new hospital construction from modernization category if need is greater.
 
 1968—Subsec. (a)(1). Pub. L. 90–574, §402(b)(1), inserted provision for two-thirds of the sums appropriated in the case of the fifth fiscal year thereafter.
 

@@ -12,7 +12,7 @@ The Secretary of Commerce shall have charge of the forecasting of weather, the i
 
 #### Repeals
 
-Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI, §1107(k), 52 Stat. 1029, cited to the credit of this section.
+Pub. L. 85–726, title XIV, §1401(b), Aug. 23, 1958, 72 Stat. 806, repealed act June 23, 1938, ch. 601, title XI,§1107(k), 52 Stat. 1029, cited to the credit of this section.
 
 #### Transfer of Functions
 
@@ -104,7 +104,7 @@ Pub. L. 102–567, title VII, Oct. 29, 1992, 106 Stat. 4303, provided that:
 
 “(a)
 
-National Implementation Plan.—As part of the budget justification documents submitted to Congress in support of the annual budget request for the Department of Commerce, the Secretary shall include a National Implementation Plan for modernization of the National Weather Service for each fiscal year followingfiscal year 1993 until such modernization is complete. The Plan shall set forth the actions, during the 2-year period beginning with the fiscal year for which the budget request is made, that will be necessary to accomplish the objectives described in the Strategic Plan, and shall include—
+National Implementation Plan.—As part of the budget justification documents submitted to Congress in support of the annual budget request for the Department of Commerce, the Secretary shall include a National Implementation Plan for modernization of the National Weather Service for each fiscal year following fiscal year 1993 until such modernization is complete. The Plan shall set forth the actions, during the 2-year period beginning with the fiscal year for which the budget request is made, that will be necessary to accomplish the objectives described in the Strategic Plan, and shall include—
 
 &emsp;“(1) detailed requirements for new technologies, facilities, staffing levels and positions, and funding, in accordance with the overall schedule for modernization;
 
@@ -200,7 +200,7 @@ Final Decision.—If after consideration of the public comment received under su
 
 Special Circumstances.—The Secretary may not close or relocate any field office—
 
-&emsp;“(1) which is located at an airport, unless the Secretary, in consultation with the Secretary of Transportation and the Committee, first conducts an airsafety appraisal, determines that such action will not result in degradation of service that affects aircraft safety, and includes such determination in the certification required under subsection (b); or
+&emsp;“(1) which is located at an airport, unless the Secretary, in consultation with the Secretary of Transportation and the Committee, first conducts an air safety appraisal, determines that such action will not result in degradation of service that affects aircraft safety, and includes such determination in the certification required under subsection (b); or
 
 &emsp;“(2) which is the only office in a State, unless the Secretary first evaluates the effect on weather services provided to in-State users, such as State agencies, civil defense officials, and local public safety offices, and includes in the certification required under subsection (b) the Secretary's determination that a comparable level of weather services provided to such in-State users will remain.
 
@@ -272,7 +272,7 @@ Consultation.—In preparing portions of the report that address Weather Forecas
 
 “\[Amended section 407 of Pub. L. 100–685, set out below, and repealed section 408 of Pub. L. 100–685, formerly set out below.\]”
 
-\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
+\[References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.\]
 
 #### Purchase of Atmospheric Wind Data
 

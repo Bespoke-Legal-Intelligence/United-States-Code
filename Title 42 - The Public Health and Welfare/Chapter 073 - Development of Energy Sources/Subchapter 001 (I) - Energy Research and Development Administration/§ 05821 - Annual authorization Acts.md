@@ -22,7 +22,7 @@ All appropriations made to the Energy Research and Development Administration or
 
 #### (c) Additional requirements and limitations respecting funds appropriated for operating expenses
 
-(1) Not to exceed 1 per centum of all funds appropriated pursuant to any annual authorization Act for “Operating expenses” may be used by the Administrator to construct, expand, or modify laboratories and other facilities, including the acquisition of land, at any location underthe control of the Administrator, if the Administrator determines that (A) such action would be necessary because of changes in the national programs authorized to be funded by such Act or because of new scientific or engineering developments, and (B) deferral of such action until the enactment of the next authorization Act would be inconsistent with the policies established by Congress for the Administration.
+(1) Not to exceed 1 per centum of all funds appropriated pursuant to any annual authorization Act for “Operating expenses” may be used by the Administrator to construct, expand, or modify laboratories and other facilities, including the acquisition of land, at any location under the control of the Administrator, if the Administrator determines that (A) such action would be necessary because of changes in the national programs authorized to be funded by such Act or because of new scientific or engineering developments, and (B) deferral of such action until the enactment of the next authorization Act would be inconsistent with the policies established by Congress for the Administration.
 
 (2) No funds may be obligated for expenditure or expended under paragraph (1) for activities described in such paragraph unless—
 
@@ -54,7 +54,7 @@ When so specified in an appropriation Act, amounts appropriated pursuant to any 
 
 #### (g) Performance of construction design services by Administrator
 
-The Administrator is authorized to perform construction design services for any administration construction project whenever (1) such construction project has been included in a proposed authorization bill transmitted to the Congress by the Administration, and (2) the Administration determines that the project is of such urgency in order to meet the needs of national defense or protection of life and property or health and safety that construction of the project should be initiated promptly upon enactment of legislation appropriating funds for its construction.
+The Administrator is authorized to perform construction design services for any administration construction project whenever (1) such construction project has been included in a proposed authorization bill transmitted to the Congress by the Administration, and (2) the Administration determines that the project is of such urgency in order to meet the needs of national defense or protection of life and property orhealth and safety that construction of the project should be initiated promptly upon enactment of legislation appropriating funds for its construction.
 
 #### (h) Retention and use for operating expenses, and availability until expended, of moneys received by Administration; exceptions
 

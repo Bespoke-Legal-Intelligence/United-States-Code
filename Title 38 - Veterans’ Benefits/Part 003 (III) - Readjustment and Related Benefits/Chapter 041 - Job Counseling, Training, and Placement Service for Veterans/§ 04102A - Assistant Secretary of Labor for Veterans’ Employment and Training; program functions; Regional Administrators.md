@@ -1,0 +1,214 @@
+### §4102A. Assistant Secretary of Labor for Veterans’ Employment and Training; program functions; Regional Administrators
+
+(a)
+
+Establishment of Position of Assistant Secretary of Labor for Veterans’ Employment and Training.—(1) There is established within the Department of Labor an Assistant Secretary of Labor for Veterans’ Employment and Training, appointed by the President by and with the advice and consent of the Senate, who shall formulate and implement all departmental policies and procedures to carry out (A) the purposes of this chapter, chapter 42, and chapter 43 of this title, and (B) all other Department of Labor employment, unemployment, and training programs to the extent they affect veterans.
+
+(2) The employees of the Department of Labor administering chapter 43 of this title shall be administratively and functionally responsible to the Assistant Secretary of Labor for Veterans’ Employment and Training.
+
+(3)(A) There shall be within the Department of Labor a Deputy Assistant Secretary of Labor for Veterans’ Employment and Training. The Deputy Assistant Secretary shall perform such functions as the Assistant Secretary of Labor for Veterans’ Employment and Training prescribes.
+
+(B) No individual may be appointed as a Deputy Assistant Secretary of Labor for Veterans’ Employment and Training unless the individual has at least five years of service in a management position as an employee of the Federal civil service or comparable service in a management position in the Armed Forces. For purposes of determining such service of an individual, there shall be excluded any service described in subparagraphs (A), (B), and (C) of section 308(d)(2) of this title.
+
+(b)
+
+Program Functions.—The Secretary shall carry out the following functions:
+
+&emsp;(1) Except as expressly provided otherwise, carry out all provisions of this chapter and chapter 43 of this title through the Assistant Secretary of Labor for Veterans’ Employment and Training and administer through such Assistant Secretary all programs under the jurisdiction of the Secretary for the provision of employment and training services designed to meet the needs of all veterans and persons eligible for services furnished under this chapter.
+
+&emsp;(2) In order to make maximum use of available resources in meeting such needs, encourage all such programs, and all grantees and contractors under such programs to enter into cooperative arrangements with private industry and business concerns (including small business concerns owned by veterans or disabled veterans), educational institutions, trade associations, and labor unions.
+
+&emsp;(3) Ensure that maximum effectiveness and efficiency are achieved in providing services and assistance to eligible veterans under all such programs by coordinating and consulting with the Secretary of Veterans Affairs with respect to (A) programs conducted under other provisions of this title, with particular emphasis on coordination of such programs with readjustment counseling activities carried out under section 1712A of this title, apprenticeship or other on-the-job training programs carried out under section 3687 of this title, and rehabilitation and training activities carried out under chapter 31 of this title and (B) determinations covering veteran population in a State.
+
+&emsp;(4) Ensure that employment, training, and placement activities are carried out in coordination and cooperation with appropriate State public employment service officials.
+
+&emsp;(5) Subject to subsection (c), make available for use in each State by grant or contract such funds as may be necessary to support—
+
+&emsp;&emsp;(A) disabled veterans’ outreach program specialists appointed under section 4103A(a)(1) of this title,
+
+&emsp;&emsp;(B) local veterans’ employment representatives assigned under section 4104(b) of this title, and
+
+&emsp;&emsp;(C) the reasonable expenses of such specialists and representatives described in subparagraphs (A) and (B), respectively, for training, travel, supplies, and other business expenses, including travel expenses and per diem for attendance at the National Veterans’ Employment and Training Services Institute established under section 4109 of this title.
+
+&emsp;(6) Monitor and supervise on a continuing basis the distribution and use of funds provided for use in the States under paragraph (5).
+
+&emsp;(7) Establish, and update as appropriate, a comprehensive performance accountability system (as described in subsection (f)) and carry out annual performance reviews of veterans employment, training, and placement services provided through employment service delivery systems, including through disabled veterans’ outreach program specialists and through local veterans’ employment representatives in States receiving grants, contracts, or awards under this chapter.
+
+(c)
+
+Conditions for Receipt of Funds.—(1) The distribution and use of funds under subsection (b)(5) in order to carry out sections 4103A(a) and 4104(a) of this title shall be subject to the continuing supervision and monitoring of the Secretary and shall not be governed by the provisions of any other law, or any regulations prescribed thereunder, that are inconsistent with this section or section 4103A or 4104 of this title.
+
+(2)(A) A State shall submit to the Secretary an application for a grant or contract under subsection (b)(5). The application shall contain the following information:
+
+&emsp;(i) A plan that describes the manner in which the State shall furnish employment, training, and placement services required under this chapter for the program year, including a description of—
+
+&emsp;&emsp;(I) duties assigned by the State to disabled veterans’ outreach program specialists and local veterans’ employment representatives consistent with the requirements of sections 4103A and 4104 of this title;
+
+&emsp;&emsp;(II) the manner in which such specialists and representatives are integrated in the employment service delivery systems in the State; and
+
+&emsp;&emsp;(III) the program of performance incentive awards described in section 4112 of this title in the State for the program year.
+
+&emsp;(ii) The veteran population to be served.
+
+&emsp;(iii) Such additional information as the Secretary may require to make a determination with respect to awarding a grant or contract to the State.
+
+(B)(i) Subject to the succeeding provisions of this subparagraph, of the amount available under subsection (b)(5) for a fiscal year, the Secretary shall make available to each State with an application approved by the Secretary an amount of funding in proportion to the number of veterans seeking employment using such criteria as the Secretary may establish in regulation, including civilian labor force and unemployment data, for the State on an annual basis. The proportion of funding shall reflect the ratio of—
+
+&emsp;(I) the total number of veterans residing in the State that are seeking employment; to
+
+&emsp;(II) the total number of veterans seeking employment in all States.
+
+(ii) The Secretary shall phase in over the three fiscal-year period that begins on October 1, 2002, the manner in which amounts are made available to States under subsection (b)(5) and thissubsection, as amended by the Jobs for Veterans Act.
+
+(iii) In carrying out this paragraph, the Secretary may establish minimum funding levels and hold-harmless criteria for States.
+
+(3)(A)(i) As a condition of a grant or contract under this section for a program year, in the case of a State that the Secretary determines has an entered-employment rate for veterans that is deficient for the preceding program year, the State shall develop a corrective action plan to improve that rate for veterans in the State.
+
+(ii) The State shall submit the corrective action plan to the Secretary for approval, and if approved, shall expeditiously implement the plan.
+
+(iii) If the Secretary does not approve a corrective action plan submitted by the State under clause (i), the Secretary shall take such steps as may be necessary to implement corrective actions in the State to improve the entered-employment rate for veterans in that State.
+
+(B) To carry out subparagraph (A), the Secretary shall establish in regulations a uniform national threshold entered-employment rate for veterans for a program year by which determinations of deficiency may be made under subparagraph (A).
+
+(C) In making a determination with respect to a deficiency under subparagraph (A), the Secretary shall take into account the applicable annual unemployment data for the State and consider other factors, such as prevailing economic conditions, that affect performance of individuals providing employment, training, and placement services in the State.
+
+(4) In determining the terms and conditions of a grant or contract under which funds are made available to a State in order to carry out section 4103A or 4104 of this title, the Secretary shall take into account—
+
+&emsp;(A) the results of reviews, carried out pursuant to subsection (b)(7), of the performance of the employment, training, and placement service delivery system in the State, and
+
+&emsp;(B) the monitoring carried out under this section.
+
+(5) Each grant or contract by which funds are made available to a State shall contain a provision requiring the recipient of the funds—
+
+&emsp;(A) to comply with the provisions of this chapter; and
+
+&emsp;(B) on an annual basis, to notify the Secretary of, and provide supporting rationale for, each nonveteran who is employed as a disabled veterans’ outreach program specialist and local veterans’ employment representative for a period in excess of 6 months.
+
+(6) Each State shall coordinate employment, training, and placement services furnished to veterans and eligible persons under this chapter with such services furnished with respect to such veterans and persons under the Workforce Investment Act of 1998 and the Wagner-Peyser Act.
+
+(7) With respect to program years beginning during or after fiscal year 2004, one percent of the amount of a grant or contract under which funds are made available to a State in order to carry out section 4103A or 4104 of this title for the program year shall be for the purposes of making cash awards under the program of performance incentive awards described in section 4112 of this title in the State.
+
+(d)
+
+Participation in Other Federally Funded Job Training Programs.—The Assistant Secretary of Labor for Veterans’ Employment and Training shall promote and monitor participation of qualified veterans and eligible persons in employment and training opportunities under title I of the Workforce Investment Act of 1998 and other federally funded employment and training programs.
+
+(e)
+
+Regional Administrators.—(1) The Secretary shall assign to each region for which the Secretary operates a regional office a representative of the Veterans’ Employment and Training Service to serve as the Regional Administrator for Veterans’ Employment and Training in such region.
+
+(2) Each such Regional Administrator shall carry out such duties as the Secretary may require to promote veterans employment and reemployment within the region that the Administrator serves.
+
+(f)
+
+Establishment of Performance Standards and Outcomes Measures.—(1) By not later than 6 months after the date of the enactment of this section, the Assistant Secretary of Labor for Veterans’ Employment and Training shall establish and implement a comprehensive performance accountability system to measure the performance of employment service delivery systems, including disabled veterans’ outreach program specialists and local veterans’ employment representatives providing employment, training, and placement services under this chapter in a State to provide accountability of that State to the Secretary for purposes of subsection (c).
+
+(2) Such standards and measures shall—
+
+&emsp;(A) be consistent with State performance measures applicable under section 136(b) of the Workforce Investment Act of 1998; and
+
+&emsp;(B) be appropriately weighted to provide special consideration for placement of (i) veterans requiring intensive services (as defined in section 4101(9) of this title), such as special disabled veterans and disabled veterans, and (ii) veterans who enroll in readjustment counseling under section 1712A of this title.
+
+(g)
+
+Authority to Provide Technical Assistance to States.—The Secretary may provide such technical assistance as the Secretary determines appropriate to any State that the Secretary determines has, or may have, an entered-employment rate in the State that is deficient, as determined under subsection (c)(3) with respect to a program year, including assistance in the development of a corrective action plan under that subsection.
+
+(Added Pub. L. 94–502, title VI, §601(b)(1), Oct. 15, 1976, 90 Stat. 2404, §2002A; amended Pub. L. 96–466, title V, §504(a)(3), (4), Oct. 17, 1980, 94 Stat. 2203; Pub. L. 97–306, title III, §303, Oct. 14, 1982, 96 Stat. 1437; Pub. L. 98–160, title VII, §702(15), Nov. 21, 1983, 97 Stat. 1010; Pub. L. 100–323, §§2(a), (e)(3)(A), 15(a)(2), (b)(1), May 20, 1988, 102 Stat. 556, 559, 574; Pub. L. 101–237, title IV, §423(b)(8)(A), Dec. 18, 1989, 103 Stat. 2093; renumbered §4102A and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–446, title VII, §701(a), title XII, §1201(a)(4), Nov. 2, 1994, 108 Stat. 4674, 4682; Pub. L. 104–275, title III, §301, Oct. 9, 1996, 110 Stat. 3332; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(A), (f)(21)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1005(b)(13), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–288, §4(a)(1), Nov. 7, 2002, 116 Stat. 2038.)
+
+#### References in Text
+
+The Jobs for Veterans Act, referred to in subsec. (c)(2)(B)(ii), is Pub. L. 107–288, Nov. 7, 2002, 116 Stat. 2033. For complete classification of this Act to the Code, see Short Title of 2002 Amendments note set out under section 101 of this title and Tables.
+
+The Workforce Investment Act of 1998, referred to in subsecs. (c)(6) and (d), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. Section 136(b) of the Act is classified to section 2871(b) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+
+The Wagner-Peyser Act, referred to in subsec. (c)(6), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
+
+The date of the enactment of this section, referred to in subsec. (f)(1), probably means the date of enactment of Pub. L. 107–288, which amended this section generally and was approved Nov. 7, 2002.
+
+#### Amendments
+
+2002—Pub. L. 107–288 substituted “Assistant Secretary of Labor for Veterans’ Employment and Training; program functions; Regional Administrators” for “Assistant Secretary of Labor for Veterans’ Employment and Training; Regional Administrators” in section catchline and amended text generally, substituting subsecs. (a) to (g) for former subsecs. (a) to (e) relating to establishment of Assistant Secretary's position, program functions, conditions for receipt of funds, participation in other federally-funded job training programs, and regional administrators.
+
+1998—Subsec. (d). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(21)(A)\], struck out “the Job Training Partnership Act and” after “and training opportunities under”.
+
+Pub. L. 105–277, §101(f) \[title VIII, §405(d)(29)(A)\], substituted “the Job Training Partnership Act and title I of the Workforce Investment Act of 1998” for “the Job Training Partnership Act”.
+
+Subsec. (e)(1). Pub. L. 105–368 substituted “A person may not be assigned after October 9, 1996, as such a Regional Administrator unless the person is a veteran.” for “Each Regional Administrator appointed after the date of the enactment of the Veterans’ Benefits Improvements Act of 1996 shall be a veteran.”
+
+1996—Subsec. (e)(1). Pub. L. 104–275 inserted at end “Each Regional Administrator appointed after the date of the enactment of the Veterans’ Benefits Improvements Act of 1996 shall be a veteran.”
+
+1994—Subsec. (a). Pub. L. 103–446, §701(a), designated existing provisions as par. (1), redesignated former cls. (1) and (2) as cls. (A) and (B), respectively, and added par. (2).
+
+Subsec. (e)(1), (2). Pub. L. 103–446, §1201(a)(4), substituted “Regional Administrator” for “Regional Secretary”.
+
+1991—Pub. L. 102–83, §5(a), renumbered section 2002A of this title as this section.
+
+Subsec. (b)(3). Pub. L. 102–83, §5(c)(1), substituted “1712A” for “612A” and “3687” for “1787”.
+
+Subsec. (b)(5). Pub. L. 102–83, §5(c)(1), substituted “4103A(a)(1)” for “2003A(a)(1)”, “4104(b)” for “2004(b)”, and “4109” for “2009”.
+
+Subsec. (b)(7). Pub. L. 102–83, §5(c)(1), substituted “4103A(a)(1) and 4104(a)(4)” for “2003A(a)(1) and “2004(a)(4)”.
+
+Subsec. (c)(1). Pub. L. 102–83, §5(c)(1), substituted “4103A(a) and 4104(a)” for “2003A(a) and 2004(a)” and “4103A or 4104” for “2003A or 2004”.
+
+Subsec. (c)(2). Pub. L. 102–83, §5(c)(1), substituted “4103A or 4104” for “2003A or 2004” and “4103(c)(15)” for “2003(c)(15)”.
+
+Subsec. (e)(1). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “Regional”.
+
+Subsec. (e)(2). Pub. L. 102–83, §5(c)(1), substituted “4212” for “2012” in subpar. (B).
+
+Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” after “Regional” in introductory provisions.
+
+1989—Subsec. (b)(3). Pub. L. 101–237 substituted “Secretary of Veterans Affairs” for “Administrator”.
+
+1988—Pub. L. 100–323, §2(e)(3)(A), inserted “and Training; Regional Administrators” after “for Veterans’ Employment” in section catchline.
+
+Subsec. (a). Pub. L. 100–323, §15(b)(1), inserted “and Training” after “for Veterans’ Employment” in two places.
+
+Pub. L. 100–323, §15(a)(2), struck out “of Labor” after “to the Secretary”.
+
+Pub. L. 100–323, §2(a), designated existing provisions as subsec. (a).
+
+Subsecs. (b) to (e). Pub. L. 100–323, §2(a), added subsecs. (b) to (e).
+
+1983—Pub. L. 98–160 substituted “an Assistant” for “a Assistant”.
+
+1982—Pub. L. 97–306 inserted provision that the employees of the Department of Labor administering chapter 43 of this title shall be administratively and functionally responsible to the Assistant Secretary of Labor for Veterans’ Employment.
+
+1980—Pub. L. 96–466 struck out “Deputy” before “Assistant Secretary” in section catchline and text.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–288, §4(a)(4), Nov. 7, 2002, 116 Stat. 2042, provided that: “The amendments made by this subsection \[amending this section and sections 4103 and 4107 of this title and repealing section 4104A of this title\] shall take effect on the date of the enactment of this Act \[Nov. 7, 2002\], and apply for program and fiscal years under chapter 41 of title 38, United States Code, beginning on or after such date.”
+
+#### Effective Date of 1998 Amendment
+
+Amendment by section 101(f) \[title VIII, §405(d)(29)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(21)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+
+#### Effective Date of 1988 Amendment
+
+Amendment by Pub. L. 100–323 effective May 20, 1988, except that subsec. (b)(5) effective for all of fiscal year 1988 and subsequent fiscal years, see section 16(a), (b)(1)(A) of Pub. L. 100–323, set out as a note under section 3104 of this title.
+
+#### Effective Date of 1980 Amendment
+
+Amendment by Pub. L. 96–466 effective Oct. 1, 1980, see section 802(e) of Pub. L. 96–466, set out as a note under section 4101 of this title.
+
+#### Effective Date
+
+Section effective Dec. 1, 1976, see section 703(c) of Pub. L. 94–502, set out as a note under section 3693 of this title.
+
+#### References to and Continuation of Position of Deputy Assistant Secretary of Labor for Veterans’ Employment
+
+Section 504(b), (c) of Pub. L. 96–466 provided that:
+
+“(b) Any reference in any law, regulation, directive, or other document to the Deputy Assistant Secretary of Labor for Veterans’ Employment shall be deemed to be a reference to the Assistant Secretary of Labor for Veterans’ Employment.
+
+“(c) Notwithstanding any other provision of law, the position of Deputy Assistant Secretary of Labor for Veterans’ Employment, as constituted on the day before the date of the enactment of this section \[Oct. 17, 1980\], shall remain in existence until a person has been appointed to and has qualified for the position of Assistant Secretary of Labor for Veterans’ Employment (established by the amendments made by subsection (a) \[amending sections 2002 and 2002A \[now 4102 and 4102A\] of this title\]).”
+
+\[Reference to Assistant Secretary of Labor for Veterans’ Employment in any law in force on Nov. 6, 1986, deemed to be a reference to Assistant Secretary of Labor for Veterans’ Employment and Training, see section 2(b)(3) of Pub. L. 99–619, set out as a References in Other Laws note under section 553 of Title 29, Labor.\]
+
+\[Section 802(e) of Pub. L. 96–466 provided that section 504(b), (c) are effective Oct. 1, 1980.\]
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4102, 4103A, 4106, 4107, 4112 of this title.
+

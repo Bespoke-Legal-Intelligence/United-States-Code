@@ -6,7 +6,7 @@ Any commodities and defense articles procured to carry out this chapter shall be
 
 #### (b) Commodities transferred as repayment of assistance
 
-Whenever commodities are transferred to the United States Government as repayment of assistance under this chapter, such commodities may be used in furtherance of the purposes and within the limitations of this chapter.
+Whenever commodities are transferred to the United States Government as repayment of assistance under this chapter, such commoditiesmay be used in furtherance of the purposes and within the limitations of this chapter.
 
 #### (c) Funds realized as result of illegal transactions
 

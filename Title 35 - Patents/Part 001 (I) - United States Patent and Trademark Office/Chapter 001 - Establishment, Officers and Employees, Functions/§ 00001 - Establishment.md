@@ -6,7 +6,7 @@ Establishment.—The United States Patent and Trademark Office is established as
 
 (b)
 
-Offices.—The United States Patent and Trademark Office shall maintain its principal office in the metropolitan Washington, D.C., area, for the service of process and papers and for the purpose of carrying out its functions. The United States Patent and Trademark Office shall be deemed, for purposes of venue in civilactions, to be a resident of the district in which its principal office is located, except where jurisdiction is otherwise provided by law. The United States Patent and Trademark Office may establish satellite offices in such other places in the United States as it considers necessary and appropriate in the conduct of its business.
+Offices.—The United States Patent and Trademark Office shall maintain its principal office in the metropolitan Washington, D.C., area, for the service of process and papers andfor the purpose of carrying out its functions. The United States Patent and Trademark Office shall be deemed, for purposes of venue in civil actions, to be a resident of the district in which its principal office is located, except where jurisdiction is otherwise provided by law. The United States Patent and Trademark Office may establish satellite offices in such other places in the United States as it considers necessary and appropriate in the conduct of its business.
 
 (c)
 
@@ -42,6 +42,10 @@ Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, subtitle G, §4731\], Nov. 2
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–273, div. C, title III, §13201, Nov. 2, 2002, 116 Stat. 1901, provided that: “This subtitle \[subtitle B (§§13201–13211) of title III of div. C of Pub. L. 107–273, see Tables for classification\] may be cited as the ‘Intellectual Property and High Technology Technical Amendments Act of 2002’.”
+
 #### Short Title of 1999 Amendment
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[§1(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–521, provided that: “This Act \[S. 1948, as enacted by section 1000(a)(9) of Pub. L. 106–113, see Tables for classification\] may be cited as the ‘Intellectual Property and Communications Omnibus Reform Act of 1999’.”
@@ -70,13 +74,13 @@ Pub. L. 105–289, §1, Oct. 27, 1998, 112 Stat. 2780, provided that: “This Ac
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–418, §9001, Aug. 23, 1988, 102 Stat. 1563, provided that: “This subtitle \[subtitle A (§§9001–9007) of title IX of Pub. L. 100–418, enacting section 295 of this title, amending sections 154, 271, and 287 of this title, and enacting provisions set out as notes under section 271 of this title\] may be cited as the ‘Process Patent Amendments Act of 1988’.”
+Pub. L. 100–418, §9001, Aug. 23, 1988, 102 Stat. 1563, provided that: “This subtitle \[subtitle A (§§9001–9007) oftitle IX of Pub. L. 100–418, enacting section 295 of this title, amending sections 154, 271, and 287 of this title, and enacting provisions set out as notes under section 271 of this title\] may be cited as the ‘Process Patent Amendments Act of 1988’.”
 
 Pub. L. 100–418, title IX, §9101(a), Aug. 23, 1988, 102 Stat. 1567, provided that: “This section \[amending sections 184 to 186 of this title and enacting provisions set out as notes under section 184 of this title\] may be cited as the ‘Patent Law Foreign Filing Amendments Act of 1988’.”
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–622, §1, Nov. 8, 1984, 98 Stat. 3383, provided that: “This Act \[enacting section 157 of this title,amending sections 3, 7, 41, 103, 104, 116, 120, 134, 135, 141, 145, 146, 271, 305, 351, 361, 362, 365 to 368, 371 to 373, and 376 of this title, section 1295 of Title 28, Judiciary and Judicial Procedure, and sections 2182 and 2457 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 7, 41, 103, 157, and 351 of this title\] may be cited as the ‘Patent Law Amendments Act of 1984’.”
+Pub. L. 98–622, §1, Nov. 8, 1984, 98 Stat. 3383, provided that: “This Act \[enacting section 157 of this title, amending sections 3, 7, 41, 103, 104, 116, 120, 134, 135, 141, 145, 146, 271, 305, 351, 361, 362, 365 to 368, 371 to 373, and 376 of this title, section 1295 of Title 28, Judiciary and Judicial Procedure, and sections 2182 and 2457 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 7, 41, 103, 157, and 351 of this title\] may be cited as the ‘Patent Law Amendments Act of 1984’.”
 
 #### Transfer of Functions and Assets of Patent and Trademark Office
 
@@ -152,7 +156,7 @@ Determinations.—If necessary, the Director of the Office of Management and Bud
 
 “(b)
 
-Incidental Transfers.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, may make such determinations as may be necessary with regard to the functions transferred by this subtitle, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection withsuch functions, as may be necessary to carry out the provisions of this subtitle. The Director shall provide for the termination of the affairs of all entities terminated by this subtitle and for such further measures and dispositions as may be necessary to effectuate the purposes of this subtitle.
+Incidental Transfers.—The Director of the Office of Management and Budget, at such time or times as the Director shall provide, may make such determinations as may be necessary with regard to the functions transferred by this subtitle, and to make such additional incidental dispositions of personnel, assets, liabilities, grants, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds held, used, arising from, available to, or to be made available in connection with such functions, as may be necessary to carry out the provisions of this subtitle. The Director shall provide for the termination of the affairs of all entities terminated by this subtitle and for such further measures and dispositions as may be necessary to effectuate the purposes of this subtitle.
 
 #### “SEC. 4747. CERTAIN VESTING OF FUNCTIONS CONSIDERED TRANSFERS.
 
@@ -172,5 +176,5 @@ Incidental Transfers.—The Director of the Office of Management and Budget, at 
 
 #### Federal Agency Status for Patent and Trademark Office
 
-Pub. L. 101–508, title X, §10102, Nov. 5, 1990, 104 Stat. 1388–392, provided that: “For the purposes of Federal law, the Patent and Trademark Office shall be considered a Federal agency. In particular, the Patent and Trademark Office shall be subject to all Federal laws pertaining to the procurement of goods and services that would apply to a Federal agency using appropriated funds, including the Federal Property and Administrative Services Act of 1949 \[see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works\] and the Office of Federal Procurement Policy Act \[41 U.S.C. 401 et seq.\].”
+Pub. L. 101–508, title X, §10102, Nov. 5, 1990, 104 Stat. 1388–392, provided that: “For the purposes of Federal law, the Patent and Trademark Office shall be considered a Federal agency. In particular, the Patent and Trademark Office shall be subject to all Federal laws pertaining to the procurement of goods and services that would apply to a Federal agency using appropriated funds, including the Federal Property and Administrative Services Act of 1949 \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\] and the Office of Federal Procurement Policy Act \[41 U.S.C. 401 et seq.\].”
 

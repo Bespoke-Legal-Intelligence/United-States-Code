@@ -6,7 +6,7 @@
 
 &emsp;(A) In the case of any application submitted to the Secretary for financial assistance to conduct research, the Secretary may not approve or fund any application that is subject to review under section 289(a) of this title by an Institutional Review Board unless the application has undergone review in accordance with such section and has been recommended for approval by a majority of the members of the Board conducting such review.
 
-&emsp;(B) In the case of research that is subject to review under procedures established by the Secretary for the protection of human subjects in clinical research conducted by the National Institutes of Health, the Secretary may not authorize the conduct of the research unless the research has, pursuant to such procedures, been recommended for approval.
+&emsp;(B) In the case of research that is subject to review under procedures established by theSecretary for the protection of human subjects in clinical research conducted by the National Institutes of Health, the Secretary may not authorize the conduct of the research unless the research has, pursuant to such procedures, been recommended for approval.
 
 #### (2) Peer review
 
@@ -46,7 +46,7 @@
 
 #### (5) Ethics advisory boards
 
-&emsp;(A) Any advisory board convened for purposes of paragraph (1) shall be known as anethics advisory board (in this paragraph referred to as an “ethics board”).
+&emsp;(A) Any advisory board convened for purposes of paragraph (1) shall be known as an ethics advisory board (in this paragraph referred to as an “ethics board”).
 
 &emsp;(B)(i) An ethics board shall advise, consult with, and make recommendations to the Secretary regarding the ethics of the project of biomedical or behavioral research with respect to which the board has been convened.
 

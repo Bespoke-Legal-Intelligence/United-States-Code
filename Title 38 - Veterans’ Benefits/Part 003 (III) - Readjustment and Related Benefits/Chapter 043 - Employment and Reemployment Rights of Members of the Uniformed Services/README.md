@@ -62,7 +62,7 @@ A prior chapter 43 “Mustering-Out Payments”, Pub. L. 85–857, Sept. 2, 1958
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 4102A, 4106, 5303A of this title; title 2 sections 1302, 1361, 1371, 1434; title 3 sections 402, 435; title 5 sections 1204, 8331, 8334, 8351, 8401, 8422, 8432b; title 10 section 706; title 26 sections 414, 3121; title 28 section 631; title 42 section 410; title 46 App. section 1132; title 50 App. section 593.
+This chapter is referred to in sections 4102A, 4106, 5303A of this title; title 2 sections 1302, 1361, 1371, 1434; title 3 sections 402, 435; title 5 sections 1204, 8331, 8334, 8351, 8401, 8422, 8432b; title 10 section 706; title 26 sections 414, 3121; title 28 section 631; title 42 sections 300hh–11, 410; title 46 App. section 1132; title 50 App. section 593.
 
 
 ---

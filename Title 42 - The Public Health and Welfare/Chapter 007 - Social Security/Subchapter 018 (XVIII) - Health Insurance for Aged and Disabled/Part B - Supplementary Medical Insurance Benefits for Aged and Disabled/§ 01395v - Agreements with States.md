@@ -34,7 +34,7 @@ In the case of any individual enrolled pursuant to this section—
 
 &emsp;&emsp;(D) such date as may be specified in the agreement; and
 
-&emsp;(3) his coverage period attributable to the agreement with the State under this sectionshall end on the last day of whichever of the following first occurs:
+&emsp;(3) his coverage period attributable to the agreement with the State under this section shall end on the last day of whichever of the following first occurs:
 
 &emsp;&emsp;(A) the month in which he is determined by the State agency to have become ineligible both for money payments of a kind specified in the agreement and (if there is in effect a modification entered into under subsection (h) of this section) for medical assistance, or
 
@@ -70,7 +70,7 @@ With respect to eligible individuals receiving money payments under the plan of 
 
 For provisions relating to enrollment of qualified medicare beneficiaries under part A of this subchapter, see section 1395i–2(g) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1843, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 312; amended Pub. L. 89–384, §4(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title II, §§222(a), (b), (e), 241(e), Jan. 2, 1968, 81 Stat. 900, 901, 917; Pub. L. 93–233, §18(<i>l</i>), Dec. 31, 1973, 87 Stat. 970; Pub. L. 93–445, title III, §308, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 96–499, title IX,§§945(e), 947(a), (c), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 98–21, title VI, §606(a)(3)(E), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(15), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title III, §301(e)(1), July 1, 1988, 102 Stat. 749; Pub. L. 100–485, title VI, §608(d)(14)(H), Oct. 13, 1988, 102 Stat. 2416; Pub. L. 101–239, title VI, §6013(b), Dec. 19, 1989, 103 Stat. 2164; Pub. L. 101–508, title IV, §4501(d), Nov. 5, 1990, 104 Stat. 1388–165.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1843, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 312; amended Pub. L. 89–384, §4(a), (b), Apr. 8, 1966, 80 Stat. 105; Pub. L. 90–248, title II, §§222(a), (b), (e), 241(e), Jan. 2, 1968, 81 Stat. 900, 901, 917; Pub. L. 93–233, §18(<i>l</i>), Dec. 31, 1973, 87 Stat. 970; Pub. L. 93–445, title III, §308, Oct. 16, 1974, 88 Stat. 1358; Pub. L. 96–499, title IX, §§945(e), 947(a), (c), Dec. 5, 1980, 94 Stat. 2642, 2643; Pub. L. 98–21, title VI, §606(a)(3)(E), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(15), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title III, §301(e)(1), July 1, 1988, 102 Stat. 749; Pub. L. 100–485, title VI, §608(d)(14)(H), Oct. 13, 1988, 102 Stat. 2416; Pub. L. 101–239, title VI, §6013(b), Dec. 19, 1989, 103 Stat. 2164; Pub. L. 101–508, title IV, §4501(d), Nov. 5, 1990, 104 Stat. 1388–165.)
 
 #### References in Text
 

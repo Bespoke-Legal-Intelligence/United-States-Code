@@ -232,5 +232,5 @@ July 30, 1947, ch. 359, title II, §201, 61 Stat. 608.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 3374; title 22 sections 2514, 3622; title 33 section 576a; title 40 section 491.
+This section is referred to in title 5 sections 3374, 3704; title 22 sections 2514, 3622; title 33 section 576a; title 40 section 611.
 

@@ -150,5 +150,5 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1483, 12805 of this title; title 7 section 2204f.
+This section is referred to in sections 1483, 12805 of this title.
 

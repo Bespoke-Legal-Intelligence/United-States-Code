@@ -10,7 +10,7 @@ With respect to applications for assistance under section 5318 of this title, th
 
 #### (b) Actions by State historic preservation officer and Secretary of the Interior
 
-In prescribing and implementing such regulations with respect to applications submitted under section 5318 of this title which identify any property pursuant to subsection (c)(4)(B) of such section, the Secretary of the Interior shall provide at least that—
+In prescribing and implementing such regulations with respect to applications submittedunder section 5318 of this title which identify any property pursuant to subsection (c)(4)(B) of such section, the Secretary of the Interior shall provide at least that—
 
 &emsp;(1) the appropriate State historic preservation officer (as determined in accordance with regulations prescribed by the Secretary of the Interior) shall, not later than 45 days after receiving information from the applicant relating to the identification of properties which will be affected by the project for which the application is made and which may meet the criteria established by the Secretary of the Interior for inclusion on the National Register of Historic Places (together with documentation relating to such inclusion), submit his or her comments, together with such other information considered necessary by the officer, to the applicant concerning such properties; and
 
@@ -34,7 +34,7 @@ The Advisory Council on Historic Preservation shall prescribe regulations provid
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective on effective date of regulations implementing such amendments,see section 308(c) of Pub. L. 97–35, set out as a note under section 5318 of this title.
+Amendment by Pub. L. 97–35 effective on effective date of regulations implementing such amendments, see section 308(c) of Pub. L. 97–35, set out as a note under section 5318 of this title.
 
 #### Section Referred to in Other Sections
 

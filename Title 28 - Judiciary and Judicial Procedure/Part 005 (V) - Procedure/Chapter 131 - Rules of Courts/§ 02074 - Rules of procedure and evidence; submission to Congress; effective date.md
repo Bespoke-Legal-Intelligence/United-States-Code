@@ -14,6 +14,10 @@ A prior section 2074, act July 27, 1954, ch. 583, §1, 68 Stat. 567, empowered t
 
 Section effective Dec. 1, 1988, see section 407 of Pub. L. 100–702, set out as an Effective Date of 1988 Amendment note under section 2071 of this title.
 
+#### Modification of Amendments to Federal Rules of Criminal Procedure Proposed April 29, 2002; Effective Date
+
+Pub. L. 107–273, div. C, title I, §11019(a), Nov. 2, 2002, 116 Stat. 1825, provided that: “The proposed amendments to the Federal Rules of Criminal Procedure that are embraced by an order entered by the Supreme Court of the United States on April 29, 2002, shall take effect on December 1, 2002, as otherwise provided by law, but with the amendments made in subsection (b) \[amending Rule 16 of the Federal Rules of Criminal Procedure\].”
+
 #### Modification of Amendments to Federal Rules of Evidence Proposed April 29, 1994; Effective Date
 
 Pub. L. 103–322, title IV, §40141, Sept. 13, 1994, 108 Stat. 1918, provided that:

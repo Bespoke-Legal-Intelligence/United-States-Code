@@ -26,9 +26,9 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) Such group or index of securities shall not constitute a narrow-based security index.
 
-&emsp;&emsp;&emsp;(iii) If, in its discretion, the Commission determines that a stock index futures contract, notwithstanding its conformance with the requirements in clause (ii) of this subparagraph, can reasonably be used as a surrogate for trading a security (including a security futures product), it may, by order, require such contract and any option thereon be traded and regulated as security futures products as defined in section 3(a)(56) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(56)\] and section 1a of this title subject to all rules and regulations applicable to security futures products under this chapter and the securities laws as defined in section 3(a)(47) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(47)\].
+&emsp;&emsp;&emsp;(iii) If, in its discretion, the Commission determines that a stock index futures contract, notwithstanding its conformance with the requirements in clause (ii) of this subparagraph, can reasonably be used as a surrogate for trading a security (including a security futures product), it may, by order, require such contract and any option thereon be traded and regulated as security futures products as defined in section 3(a)(56) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(56)\] and section 1a of this title subject to all rules and regulations applicable to security futures products under this chapter and the securities laws as defined in section 3(a)(47) ofthe Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(47)\].
 
-&emsp;&emsp;&emsp;(iv) No person shall offer to enter into, enter into, or confirm the execution of any contract of sale (or option on such contract) for future delivery of any security, or interest therein or based on the value thereof, except an exempted security under or <sup>2</sup> section 3(a)(12) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(12)\]as in effect on January 11, 1983 (other than any municipal security as defined in section 3(a)(29) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(29)\] on January 11, 1983), or except as provided in clause (ii) of this subparagraph or subparagraph (D), any group or index of such securities or any interest therein or based on the value thereof.
+&emsp;&emsp;&emsp;(iv) No person shall offer to enter into, enter into, or confirm the execution of any contract of sale (or option on such contract) for future delivery of any security, or interest therein or based on the value thereof, except an exempted security under or <sup>2</sup> section 3(a)(12) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(12)\] as in effect on January 11, 1983 (other than any municipal security as defined in section 3(a)(29) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(29)\] on January 11, 1983), or except as provided in clause (ii) of this subparagraph or subparagraph (D), any group or index of such securities or any interest therein or based on the value thereof.
 
 &emsp;&emsp;&emsp;(v)(I) Notwithstanding any other provision of this chapter, any contract market in a stock index futures contract (or option thereon) other than a security futures product, or any derivatives transaction execution facility on which such contract or option is traded, shall file with the Board of Governors of the Federal Reserve System any rule establishing or changing the levels of margin (initial and maintenance) for such stock index futures contract (or option thereon) other than security futures products.
 
@@ -46,9 +46,9 @@
 
 &emsp;&emsp;(i) Notwithstanding any other provision of this chapter, the Securities and Exchange Commission shall have jurisdiction and authority over security futures as defined in section 3(a)(55) of the Securities Exchange Act of 1934 \[15 U.S.C. 78c(a)(55)\], section 77b(a)(16) of title 15, section 80a–2(a)(52) of title 15, and section 80b–2(a)(27) of title 15, options on security futures, and persons effecting transactions in security futures and options thereon, and this chapter shall apply to and the Commission shall have jurisdiction with respect to accounts, agreements (including any transaction which is of the character of, or is commonly known to the trade as, an “option”, “privilege”, “indemnity”, “bid”, “offer”, “put”, “call”, “advance guaranty”, or “decline guaranty”), contracts, and transactions involving, and may designate a board of trade as a contract market in, or register a derivatives transaction execution facility that trades or executes, a security futures product as defined in section 1a of this title: <i>Provided, however,</i> That, except as provided in clause (vi) of this subparagraph, no board of trade shall be designated as a contract market with respect to, or registered as a derivatives transaction execution facility for, any such contracts of sale for future delivery unless the board of trade and the applicable contract meet the following criteria:
 
-&emsp;&emsp;&emsp;(I) Except as otherwise provided in a rule, regulation, or order issued pursuant to clause (v) of this subparagraph, any security underlying the security future, including each component security of a narrow-based security index, is registered pursuant to section 12 of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>l</i>\].
+&emsp;&emsp;&emsp;(I) Except as otherwise provided in a rule, regulation, or order issued pursuantto clause (v) of this subparagraph, any security underlying the security future, including each component security of a narrow-based security index, is registered pursuant to section 12 of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>l</i>\].
 
-&emsp;&emsp;&emsp;(II) If the security futures product is not cash settled, the board of trade on which the security futures product is traded hasarrangements in place with a clearing agency registered pursuant to section 17A of the Securities Exchange Act of 1934 \[15 U.S.C. 78q–1\] for the payment and delivery of the securities underlying the security futures product.
+&emsp;&emsp;&emsp;(II) If the security futures product is not cash settled, the board of trade on which the security futures product is traded has arrangements in place with a clearing agency registered pursuant to section 17A of the Securities Exchange Act of 1934 \[15 U.S.C. 78q–1\] for the payment and delivery of the securities underlying the security futures product.
 
 &emsp;&emsp;&emsp;(III) Except as otherwise provided in a rule, regulation, or order issued pursuant to clause (v) of this subparagraph, the security future is based upon common stock and such other equity securities as the Commission and the Securities and Exchange Commission jointly determine appropriate.
 
@@ -68,7 +68,7 @@
 
 &emsp;&emsp;&emsp;(XI) The margin requirements for a security futures product comply with the regulations prescribed pursuant to section 7(c)(2)(B) of the Securities Exchange Act of 1934 \[15 U.S.C. 78g(c)(2)(B)\], except that nothing in this subclause shall be construed to prevent a board of trade from requiring higher margin levels for a security futures product when it deems such action to be necessary or appropriate.
 
-&emsp;&emsp;(ii) It shall be unlawful for any person to offer, to enter into, to execute, to confirm the execution of, or to conduct any office or business anywhere in the United States, its territories or possessions, for the purpose of soliciting, or accepting any order for, or otherwise dealing in, any transaction in, or in connection with, a security futures product unless—
+&emsp;&emsp;(ii) It shall be unlawful for any person to offer, to enter into, to execute, to confirm the execution of, or to conduct any office or business anywhere in the United States, itsterritories or possessions, for the purpose of soliciting, or accepting any order for, or otherwise dealing in, any transaction in, or in connection with, a security futures product unless—
 
 &emsp;&emsp;&emsp;(I) the transaction is conducted on or subject to the rules of a board of trade that—
 
@@ -130,7 +130,7 @@
 
 > &emsp;Not more than three of the members of the Commission shall be members of the same political party. Each Commissioner shall hold office for a term of five years and until his successor is appointed and has qualified, except that he shall not so continue to serve beyond the expiration of the next session of Congress subsequent to the expiration of said fixed term of office, and except (i) any Commissioner appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed for the remainder of such term, and (ii) the terms of office of the Commissioners first taking office after the enactment of this paragraph shall expire as designated by the President at the time of nomination, one at the end of one year, one at the end of two years, one at the end of three years, one at the end of four years, and one at the end of five years.
 
-&emsp;(B) The President shall appoint, by and with the advice and consent of the Senate, a member of the Commission as Chairman, who shall serve as Chairman at the pleasure of the President. An individual may be appointed as Chairman at the same time that person is appointed as a Commissioner. The Chairman shall be the chief administrative officer of the Commission and shall preside at hearings before the Commission. At any time, the President may appoint, by and with the advice and consent of the Senate, a different Chairman, and the Commissioner previously appointed as Chairman may complete that Commissioner's term as a Commissioner.
+&emsp;(B) The President shall appoint, by and with the advice and consent of the Senate, a member of the Commission as Chairman, who shall serve as Chairman at the pleasure of the President. An individual may be appointed as Chairman at the same time that person is appointed as a Commissioner. The Chairman shall be the chief administrative officer of theCommission and shall preside at hearings before the Commission. At any time, the President may appoint, by and with the advice and consent of the Senate, a different Chairman, and the Commissioner previously appointed as Chairman may complete that Commissioner's term as a Commissioner.
 
 #### (3) Vacancies
 
@@ -158,11 +158,31 @@
 
 &emsp;(F) The Chairman may from time to time make such provisions as he shall deem appropriate authorizing the performance by any officer, employee, or administrative unit under his jurisdiction of any functions of the Chairman under this paragraph.
 
-#### (7) Conflict of interest
+#### (7) Appointment and compensation
+
+#### (A) In general
+
+&emsp;&emsp;The Commission may appoint and fix the compensation of such officers, attorneys, economists, examiners, and other employees as may be necessary for carrying out the functions of the Commission under this chapter.
+
+#### (B) Rates of pay
+
+&emsp;&emsp;Rates of basic pay for all employees of the Commission may be set and adjusted by the Commission without regard to chapter 51 or subchapter III of chapter 53 of title 5.
+
+#### (C) Comparability
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Commission may provide additional compensation and benefits to employees of the Commission if the same type of compensation or benefits are provided by any agency referred to in section 1833b(a) of title 12 or could be provided by such an agency under applicable provisions of law (including rules and regulations).
+
+#### (ii) Consultation
+
+&emsp;&emsp;&emsp;In setting and adjusting the total amount of compensation and benefits for employees, the Commission shall consult with, and seek to maintain comparability with, the agencies referred to in section 1833b(a) of title 12.
+
+#### (8) Conflict of interest
 
 &emsp;No Commissioner or employee of the Commission shall accept employment or compensation from any person, exchange, or clearinghouse subject to regulation by the Commission under this chapter during his term of office, nor shall he participate, directly or indirectly, in any registered entity operations or transactions of a character subject to regulation by the Commission.
 
-#### (8) Liaison with Department of Agriculture; communications with Department of the Treasury, Federal Reserve Board, and Securities and Exchange Commission; application by a board of trade for designation as a contract market for future delivery of securities
+#### (9) Liaison with Department of Agriculture; communications with Department of the Treasury, Federal Reserve Board, and Securities and Exchange Commission; application by a board of trade for designation as a contract market for future delivery of securities
 
 &emsp;(A) The Commission shall, in cooperation with the Secretary of Agriculture, maintain a liaison between the Commission and the Department of Agriculture. The Secretary shall take such steps as may be necessary to enable the Commission to obtain information and utilize such services and facilities of the Department of Agriculture as may be necessary in order to maintain effectively such liaison. In addition, the Secretary shall appoint a liaison officer, who shall be an employee of the Office of the Secretary, for the purpose of maintaining a liaison between the Department of Agriculture and the Commission. The Commission shall furnish such liaison officer appropriate office space within the offices of the Commission and shall allow such liaison officer to attend and observe all deliberations and proceedings of the Commission.
 
@@ -172,7 +192,7 @@
 
 &emsp;(iii) The provisions of this subparagraph shall not create any rights, liabilities, or obligations upon which actions may be brought against the Commission.
 
-#### (9) Transmittal of budget requests and legislative recommendations to congressional committees
+#### (10) Transmittal of budget requests and legislative recommendations to congressional committees
 
 &emsp;(A) Whenever the Commission submits any budget estimate or request to the President or the Office of Management and Budget, it shall concurrently transmit copies of that estimate or request to the House and Senate Appropriations Committees and the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry.
 
@@ -180,17 +200,17 @@
 
 &emsp;(C) Whenever the Commission issues for official publication any opinion, release, rule, order, interpretation, or other determination on a matter, the Commission shall provide that any dissenting, concurring, or separate opinion by any Commissioner on the matter be published in full along with the Commission opinion, release, rule, order, interpretation, or determination.
 
-#### (10) Seal
+#### (11) Seal
 
 &emsp;The Commission shall have an official seal, which shall be judicially noticed.
 
-#### (11) Rules and regulations
+#### (12) Rules and regulations
 
 &emsp;The Commission is authorized to promulgate such rules and regulations as it deems necessary to govern the operating procedures and conduct of the business of the Commission.
 
 #### (b) Transaction in interstate commerce
 
-For the purposes of this chapter (but not in any wise limiting the foregoing definition of interstate commerce) a transaction in respect to any article shall be considered to be in interstate commerce if such article is part of that current of commerce usual in the commodity trade whereby commodities and commodity products and by-products thereof are sent from one State, with the expectation that they will end their transit, after purchase, in another, including in addition to cases within the above general description, all cases where purchase or sale is either for shipment to another State, or for manufacture within the State and the shipment outside the State of the products resulting from such manufacture. Articles normally in such current of commerce shall not be considered out of such commerce through resort being had to any means or device intended to remove transactions in respect thereto from the provisions of this chapter. For the purpose of this paragraph the word “State” includes Territory, the District of Columbia, possession of the United States, and foreign nation.
+For the purposes of this chapter (but not in any wise limiting the foregoing definition of interstate commerce) a transaction in respect to any article shall be considered to be in interstate commerce if such article is part of that current of commerce usual in the commodity trade whereby commodities and commodity products and by-products thereof are sent from one State, with the expectation that they will end their transit, after purchase, in another, including in addition to cases within the above general description, all cases where purchase or sale is either for shipment to another State, or for manufacture within the State and the shipment outside the State of the products resulting from such manufacture. Articles normally in such current of commerce shall not be considered out of such commerce through resort beinghad to any means or device intended to remove transactions in respect thereto from the provisions of this chapter. For the purpose of this paragraph the word “State” includes Territory, the District of Columbia, possession of the United States, and foreign nation.
 
 #### (c) Agreements, contracts, and transactions in foreign currency, government securities, and certain other commodities
 
@@ -260,7 +280,7 @@ For the purposes of this chapter (but not in any wise limiting the foregoing def
 
 &emsp;&emsp;(A) the agreement, contract, or transaction is entered into on a principal-to-principal basis between parties trading for their own accounts or as described in section 1a(12)(B)(ii) of this title;
 
-&emsp;&emsp;(B) the agreement, contract, or transaction is entered into only between persons that are eligible contract participants described in subparagraph (A), (B)(ii), or (C) of section 1a(12) of this title) <sup>6</sup> at the time at which the persons enter into the agreement, contract, or transaction; and
+&emsp;&emsp;(B) the agreement, contract, or transaction is entered into only between persons that are eligible contract participants described in subparagraph (A), (B)(ii), or (C) ofsection 1a(12) of this title) <sup>6</sup> at the time at which the persons enter into the agreement, contract, or transaction; and
 
 &emsp;&emsp;(C) the agreement, contract, or transaction is executed or traded on an electronic trading facility.
 
@@ -330,7 +350,7 @@ No provision of this chapter (other than section 7a (to the extent provided in s
 
 &emsp;(C) sections 9, 15, 13b, 13a–1, 13a–2, 12a, and 13(a)(2) of this title, to the extent such sections prohibit manipulation of the market price of any commodity in interstate commerce and the agreement, contract, or transaction would otherwise be subject to such sections.
 
-(3) Except as provided in paragraph (4), nothing in this chapter shall apply to an agreement, contract, or transaction in an exempt commodity which is—
+(3) Except as provided in paragraph (4), nothing in this chapter shall apply to an agreement,contract, or transaction in an exempt commodity which is—
 
 &emsp;(A) entered into on a principal-to-principal basis solely between persons that are eligible commercial entities at the time the persons enter into the agreement, contract, or transaction; and
 
@@ -404,9 +424,9 @@ No provision of this chapter (other than section 7a (to the extent provided in s
 
 > is or would otherwise be subject to this chapter.
 
-(2) No provision of, or amendment made by, the Commodity Futures Modernization Act of 2000 shall be construed as conferring jurisdiction on the Commission with respect to any such agreement, contract, or transaction, except asexpressly provided in section 7a of this title (to the extent provided in section 7a(g) of this title), 7a–1 of this title, or 7a–3 of this title.
+(2) No provision of, or amendment made by, the Commodity Futures Modernization Act of 2000 shall be construed as conferring jurisdiction on the Commission with respect to any such agreement, contract, or transaction, except as expressly provided in section 7a of this title (to the extent provided in section 7a(g) of this title), 7a–1 of this title, or 7a–3 of this title.
 
-(Sept. 21, 1922, ch. 369, §2, 42 Stat. 998; June 15, 1936, ch. 545, §§2, 3, 49 Stat. 1491; Apr. 7, 1938, ch. 108, 52 Stat. 205; Oct. 9, 1940, ch. 786, §1, 54 Stat. 1059; Aug. 28, 1954, ch. 1041, title VII, §710(a), 68 Stat. 913; July 26, 1955, ch. 382, §1, 69 Stat. 375; Pub. L. 90–258, §1, Feb. 19, 1968, 82 Stat. 26; Pub. L. 90–418, July 23, 1968, 82 Stat. 413; Pub. L. 93–463, title I, §101(a), title II, §§201, 202, Oct. 23, 1974, 88 Stat. 1389, 1395; Pub. L. 95–405, §2, Sept. 30, 1978, 92 Stat. 865; Pub. L. 97–444, title I, §101, title II, §§201, 202, Jan. 11, 1983, 96 Stat. 2294, 2297, 2298; Pub. L. 99–641, title I, §110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §§209(b)(1), 215, 226, title IV, §404(b), title V, §501, Oct. 28, 1992, 106 Stat. 3606, 3611, 3618, 3628; Pub. L. 106–554, §1(a)(5) \[title I, §§102—105(b), 106, 107, 123(a)(2), title II, §251(a), (b), (i), (j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445.)
+(Sept. 21, 1922, ch. 369, §2, 42 Stat. 998; June 15, 1936, ch. 545, §§2, 3, 49 Stat. 1491; Apr. 7, 1938, ch. 108, 52 Stat. 205; Oct. 9, 1940, ch. 786, §1, 54 Stat. 1059; Aug. 28, 1954, ch. 1041, title VII, §710(a), 68 Stat. 913; July 26, 1955, ch. 382, §1, 69 Stat. 375; Pub. L. 90–258, §1, Feb. 19, 1968, 82 Stat. 26; Pub. L. 90–418, July 23, 1968, 82 Stat. 413; Pub. L. 93–463, title I, §101(a), title II, §§201, 202, Oct. 23, 1974, 88 Stat. 1389, 1395; Pub. L. 95–405, §2, Sept. 30, 1978, 92 Stat. 865; Pub. L. 97–444, title I, §101, title II, §§201, 202, Jan. 11, 1983, 96 Stat. 2294, 2297, 2298; Pub. L. 99–641, title I, §110(1), Nov. 10, 1986, 100 Stat. 3561; Pub. L. 102–546, title II, §§209(b)(1), 215, 226, title IV, §404(b), title V, §501, Oct. 28, 1992, 106 Stat. 3606, 3611, 3618, 3628; Pub. L. 106–554, §1(a)(5) \[title I, §§102—105(b), 106, 107, 123(a)(2), title II, §251(a), (b), (i), (j)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–376 to 2763A–379, 2763A–382, 2763A–405, 2763A–436, 2763A–441, 2763A–445; Pub. L. 107–171, title X, §10702(a), May 13, 2002, 116 Stat. 516.)
 
 #### References in Text
 
@@ -421,6 +441,8 @@ The Commodity Futures Modernization Act of 2000, referred to in subsec. (i)(1)(A
 Subsec. (a)(1)(B) of this section was formerly classified to section 4 of this title. Subsec. (a)(1)(C) of this section was formerly classified to section 2a of this title. Subsec. (a)(2) to (11) of this section was formerly classified to section 4a of this title. Subsec. (b) of this section was formerly classified to section 3 of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(7) to (12). Pub. L. 107–171 added par. (7) and redesignated former pars. (7) to (11) as (8) to (12), respectively.
 
 2000—Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(2)(A)\], inserted section catchline.
 
@@ -458,7 +480,7 @@ Subsec. (a)(1)(C)(iv). Pub. L. 106–554, §1(a)(5) \[title II, §251(a)(1)(C), 
 
 Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(2)(B)(ii)(III)\], adjusted margins.
 
-Subsec. (a)(1)(C)(v). Pub. L. 106–554, §1(a)(5) \[title II, §251(b)(2)\], redesignated cl. (vi) as (v), added subcls. (I) to (V), and struck out former subcls. (I) to (IV) which required any contract market in a stock index futures contract (or option thereon) to file with the Board of Governors of the Federal Reserve System any rule establishing or changing the levels of margin for the stock index futures contract (or option thereon), authorized the Board to request any contract market toset the margins at certain levels, authorized the Board to delegate its authority under this clause to the Commission, and preserved the authority of the Commission to raise temporary emergency margin levels.
+Subsec. (a)(1)(C)(v). Pub. L. 106–554, §1(a)(5) \[title II, §251(b)(2)\], redesignated cl. (vi) as (v), added subcls. (I) to (V), and struck out former subcls. (I) to (IV) which required any contract market in a stock index futures contract (or option thereon) to file with the Board of Governors of the Federal Reserve System any rule establishing or changing the levels of margin for the stock index futures contract (or option thereon), authorized the Board to request any contract market to set the margins at certain levels, authorized the Board to delegate its authority under this clause to the Commission, and preserved the authority of the Commission to raise temporary emergency margin levels.
 
 Pub. L. 106–554, §1(a)(5) \[title II, §251(a)(1)(D)\], redesignated cl. (v) as (iv).
 
@@ -512,7 +534,7 @@ Subsec. (a)(1)(B)(iv)(II). Pub. L. 102–546, §209(b)(1)(B), substituted “sec
 
 Subsec. (a)(1)(B)(vi). Pub. L. 102–546, §501, added cl. (vi).
 
-Subsec. (a)(2)(A). Pub. L. 102–546, §215, substituted second and third sentences for “The Commission shall be composed of five Commissioners, who shall be appointed by the President, by and with the advice and consent of the Senate. In nominating persons for appointment, the President shall seek to establish and maintain a balanced Commission, including, but not limited to, persons of demonstrated knowledge in futures trading or its regulation and persons of demonstrated knowledge in the production, merchandising, processing or distribution of one or more of the commodities or other goods and articles, services, rights and interests covered by this chapter.”
+Subsec. (a)(2)(A). Pub. L. 102–546, §215, substituted second and third sentences for “The Commission shallbe composed of five Commissioners, who shall be appointed by the President, by and with the advice and consent of the Senate. In nominating persons for appointment, the President shall seek to establish and maintain a balanced Commission, including, but not limited to, persons of demonstrated knowledge in futures trading or its regulation and persons of demonstrated knowledge in the production, merchandising, processing or distribution of one or more of the commodities or other goods and articles, services, rights and interests covered by this chapter.”
 
 Subsec. (a)(9)(C). Pub. L. 102–546, §226, added subpar. (C).
 
@@ -566,7 +588,7 @@ Subsec. (b). Act June 15, 1936, §2, substituted “commodity” and “commodit
 
 #### Effective Date of 1983 Amendment
 
-Section 239 of Pub. L. 97–444 provided that: “This Act \[see Short Title of 1983 Amendment note set out under section 1 of this title\] shall be effective upon the date of enactment of this Act \[Jan. 11, 1983\], except that sections 207, 212, and 231 of this Act \[amending sections 6d, 6k, and 18 of this title\] shall be effective one hundred and twenty days after the date of enactment of this Act, or such earlier date as the Commodity Futures Trading Commission shall prescribe by regulation.”
+Section 239 of Pub. L. 97–444 provided that: “This Act \[see Short Title of 1983 Amendment note set out undersection 1 of this title\] shall be effective upon the date of enactment of this Act \[Jan. 11, 1983\], except that sections 207, 212, and 231 of this Act \[amending sections 6d, 6k, and 18 of this title\] shall be effective one hundred and twenty days after the date of enactment of this Act, or such earlier date as the Commodity Futures Trading Commission shall prescribe by regulation.”
 
 #### Effective Date of 1978 Amendment
 
@@ -650,7 +672,7 @@ Pub. L. 93–463, title IV, §412, Oct. 23, 1974, 88 Stat. 1414, provided that: 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1a, 6, 6c, 6m, 7a, 7a–1, 7a–3, 16, 18, 21, 25 of this title; title 12 section 4421; title 15 sections 78c, 78f.
+This section is referred to in sections 1a, 6, 6c, 6m, 7a, 7a–1, 7a–3, 16, 18, 21, 25 of this title; title 5 section 5373; title 12 section 4421; title 15 sections 78c, 78f.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

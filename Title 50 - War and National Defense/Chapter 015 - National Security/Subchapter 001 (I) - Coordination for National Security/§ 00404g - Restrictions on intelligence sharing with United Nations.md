@@ -12,6 +12,8 @@
 
 (2) The requirement for periodic reports under the first sentence of paragraph (1) shall not apply to the provision of intelligence that is provided only to, and for the use of, appropriately cleared United States Government personnel serving with the United Nations.
 
+(3) In the case of periodic reports required to be submitted under the first sentence of paragraph (1) to the congressional intelligence committees, the submittal dates for such reports shall be as provided in section 415b of this title.
+
 #### (c) Delegation of duties
 
 The President may not delegate or assign the duties of the President under this section.
@@ -28,7 +30,7 @@ Nothing in this section shall be construed to—
 
 As used in this section, the term “appropriate committees of Congress” means the Committee on Foreign Relations and the Select Committee on Intelligence of the Senate and the Committee on Foreign Relations and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(July 26, 1947, ch. 343, title I, §112, formerly §110, as added Pub. L. 104–293, title III, §308(a), Oct. 11, 1996, 110 Stat. 3466; renumbered §112, Pub. L. 105–107, title III, §303(b), Nov. 20, 1997, 111 Stat. 2252.)
+(July 26, 1947, ch. 343, title I, §112, formerly §110, as added Pub. L. 104–293, title III, §308(a), Oct. 11, 1996, 110 Stat. 3466; renumbered §112, Pub. L. 105–107, title III, §303(b), Nov. 20, 1997, 111 Stat. 2252; amended Pub. L. 107–306, title VIII, §811(b)(1)(C), Nov. 27, 2002, 116 Stat. 2422.)
 
 #### References in Text
 
@@ -37,6 +39,14 @@ Section 403–3(c)(6) of this title, referred to in subsec. (d)(1), was redesign
 #### Codification
 
 Section was formerly classified to section 404d–1 of this title prior to renumbering by Pub. L. 105–107.
+
+#### Amendments
+
+2002—Subsec. (b)(3). Pub. L. 107–306 added par. (3).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 415b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

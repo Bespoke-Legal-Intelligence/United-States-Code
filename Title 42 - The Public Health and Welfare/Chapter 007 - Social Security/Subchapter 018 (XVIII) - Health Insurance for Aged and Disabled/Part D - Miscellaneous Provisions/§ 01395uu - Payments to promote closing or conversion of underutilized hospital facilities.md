@@ -66,7 +66,7 @@ Pub. L. 98–369, div. B, title III, §2353, July 18, 1984, 98 Stat. 1099, direc
 
 #### Establishment and Evaluation of Transitional Allowances; Report and Recommendations to Congress
 
-Section 2101(b) of Pub. L. 97–35 prohibited Secretary of Health and Human Services from establishing under this section transitional allowances with respect to more than 50 hospitals prior to Jan. 1, 1984, and directed Secretary to evaluate effectiveness of program of transitional allowances established under this section and, not later than Jan. 1, 1983, report to Congress on such evaluation and include in such report such recommendations for such legislative changes as deemed appropriate.
+Section 2101(b) of Pub. L. 97–35 prohibited Secretary of Health and Human Services from establishing underthis section transitional allowances with respect to more than 50 hospitals prior to Jan. 1, 1984, and directed Secretary to evaluate effectiveness of program of transitional allowances established under this section and, not later than Jan. 1, 1983, report to Congress on such evaluation and include in such report such recommendations for such legislative changes as deemed appropriate.
 
 #### Section Referred to in Other Sections
 

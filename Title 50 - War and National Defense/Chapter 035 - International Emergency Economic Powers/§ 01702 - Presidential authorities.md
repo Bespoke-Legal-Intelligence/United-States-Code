@@ -66,13 +66,35 @@ Subsec. (c). Pub. L. 107–56, §106(2), added subsec. (c).
 
 Section 525(c)(2) and (3) of Pub. L. 103–236 provided that:
 
-“(2) The amendments made by paragraph (1) to section 203(b)(3) of the International Emergency Economic Powers Act \[50 U.S.C. 1702(b)(3)\] apply to actions taken by the President under section 203 of such Act before the date of enactment of this Act \[Apr. 30, 1994\] whichare in effect on such date and to actions taken under such section on or after such date.
+“(2) The amendments made by paragraph (1) to section 203(b)(3) of the International Emergency Economic Powers Act \[50 U.S.C. 1702(b)(3)\] apply to actions taken by the President under section 203 of such Act before the date of enactment of this Act \[Apr. 30, 1994\] which are in effect on such date and to actions taken under such section on or after such date.
 
 “(3) Section 203(b)(4) of the International Emergency Economic Powers Act (as added by paragraph (1)) shall not apply to restrictions on the transactions and activities described in section 203(b)(4) in force on the date of enactment of this Act, with respect to countries embargoed under the International Emergency Economic Powers Act \[50 U.S.C. 1701 et seq.\] on the date of enactment of this Act.”
 
 #### Effective Date of 1988 Amendment
 
 Section 2502(b)(2) of Pub. L. 100–418 provided that: “The amendments made by paragraph (1) \[amending this section\] apply to actions taken by the President under section 203 of the International Emergency Economic Powers Act \[this section\] before the date of the enactment of this Act \[Aug. 23, 1988\] which are in effect on such date of enactment, and to actions taken under such section on or after such date of enactment.”
+
+#### Ex. Ord. No. 13290. Confiscating and Vesting Certain Iraqi Property
+
+Ex. Ord. No. 13290, Mar. 20, 2003, 68 F.R. 14307, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the International Emergency Economic Powers Act (50 U.S.C. 1701 <i>et seq</i>.) (IEEPA), the National Emergencies Act (50 U.S.C. 1601 <i>et seq</i>.), and section 301 of title 3, United States Code, and in order to take additional steps with respect to the national emergency declared in Executive Order 12722 of August 2, 1990 \[50 U.S.C. 1701 note\],
+
+I, GEORGE W. BUSH, President of the United States of America, hereby determine that the United States and Iraq are engaged in armed hostilities, that it is in the interest of the United States to confiscate certainproperty of the Government of Iraq and its agencies, instrumentalities, or controlled entities, and that all right, title, and interest in any property so confiscated should vest in the Department of the Treasury. I intend that such vested property should be used to assist the Iraqi people and to assist in the reconstruction of Iraq, and determine that such use would be in the interest of and for the benefit of the United States.
+
+I hereby order:
+
+Section 1. All blocked funds held in the United States in accounts in the name of the Government of Iraq, the Central Bank of Iraq, Rafidain Bank, Rasheed Bank, or the State Organization for Marketing Oil are hereby confiscated and vested in the Department of the Treasury, except for the following:
+
+(a) any such funds that are subject to the Vienna Convention on Diplomatic Relations or the Vienna Convention on Consular Relations, or that enjoy equivalent privileges and immunities under the laws of the United States, and are or have been used for diplomatic or consular purposes, and
+
+(b) any such amounts that as of the date of this order are subject to post-judgment writs of execution or attachment in aid of execution of judgments pursuant to section 201 of the Terrorism Risk Insurance Act of 2002 (Public Law 107–297) \[see Tables for classification\], provided that, upon satisfaction of the judgments on which such writs are based, any remainder of such excepted amounts shall, by virtue of this order and without further action, be confiscated and vested.
+
+Sec. 2. The Secretary of the Treasury is authorized to perform, without further approval, ratification, or other action of the President, all functions of the President set forth in section 203(a)(1)(C) of IEEPA \[50 U.S.C. 1702(a)(1)(C)\] with respect to any and all property of the Government of Iraq, including its agencies, instrumentalities, or controlled entities, and to take additional steps, including the promulgation of rules and regulations as may be necessary, to carry out the purposes of this order. The Secretary of the Treasury may redelegate such functions in accordance with applicable law. The Secretary of the Treasury shall consult the Attorney General as appropriate in the implementation of this order.
+
+Sec. 3. This order shall be transmitted to the Congress and published in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

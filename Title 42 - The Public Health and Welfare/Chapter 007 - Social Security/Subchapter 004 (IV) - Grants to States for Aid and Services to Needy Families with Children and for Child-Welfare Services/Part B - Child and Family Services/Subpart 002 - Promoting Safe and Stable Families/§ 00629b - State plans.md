@@ -56,7 +56,7 @@ A State plan meets the requirements of this subsection if the plan—
 
 #### (A) Exemption from inappropriate requirements
 
-&emsp;&emsp;The Secretary may exempt a plan submitted by an Indian tribe from any requirement of this section that the Secretary determines would be inappropriate to apply to the Indian tribe, taking into account the resources, needs, and other circumstances of the Indian tribe.
+&emsp;&emsp;The Secretary may exempt a plan submitted by an Indian tribe from any requirement of this section that the Secretary determines would be inappropriate to apply to theIndian tribe, taking into account the resources, needs, and other circumstances of the Indian tribe.
 
 #### (B) Special rule
 

@@ -38,7 +38,7 @@ At the request of the Governor, the Secretary shall establish and administer wit
 
 #### (2) Exterior boundaries
 
-&emsp;The exterior boundaries of the Forest, including the boundaries of all sites identified for Forest purposes, shall be delineated on an official map. The map shall be available for public inspection in the office of the Administrator of the Division of Forestry and Wildlife of the Department of Land and Natural Resources of the State. The Governor and the Secretary may from time to time, by mutual agreement, amend the official map to modify the boundaries of the Forest.
+&emsp;The exterior boundaries of the Forest, including the boundaries of all sites identifiedfor Forest purposes, shall be delineated on an official map. The map shall be available for public inspection in the office of the Administrator of the Division of Forestry and Wildlife of the Department of Land and Natural Resources of the State. The Governor and the Secretary may from time to time, by mutual agreement, amend the official map to modify the boundaries of the Forest.
 
 #### (d) Authorities of Secretary
 

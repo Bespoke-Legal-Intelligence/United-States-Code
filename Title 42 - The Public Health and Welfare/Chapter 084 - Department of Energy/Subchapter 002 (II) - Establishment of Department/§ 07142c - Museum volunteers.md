@@ -18,7 +18,7 @@ The Secretary may recruit, train, and accept the services of individuals or enti
 
 #### (B) Compensation for work injuries
 
-&emsp;&emsp;For purposes of subchapter I of chapter 81 of title 5, a volunteer described in subsection\(a) of this section shall be treated as an employee (as defined in section 8101 of title 5).
+&emsp;&emsp;For purposes of subchapter I of chapter 81 of title 5, a volunteer described in subsection (a) of this section shall be treated as an employee (as defined in section 8101 of title 5).
 
 #### (c) Compensation
 

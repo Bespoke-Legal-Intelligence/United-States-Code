@@ -2,11 +2,11 @@
 
 (a)
 
-Prevailing Wages Requirement.—The Secretary of Transportation shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed with a grant or loan under this chapter be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5). The Secretary of Transportation may approve a grant or loan only after being assured that required labor standards will be maintained on the construction work. For a labor standard under this subsection, the Secretary of Labor has the same duties and powers stated in Reorganization Plan No. 14 of 1950 (eff. May 24, 1950, 64 Stat. 1267) and section 2 of the Act of June 13, 1934 (40 U.S.C. 276c).
+Prevailing Wages Requirement.—The Secretary of Transportation shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed with a grant or loan under this chapter be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Transportation may approve a grant or loan only after being assured that required labor standards will be maintained on the construction work. For a labor standard under this subsection, the Secretary of Labor has the same duties and powers stated in Reorganization Plan No. 14 of 1950 (eff. May 24, 1950, 64 Stat. 1267) and section 3145 of title 40.
 
 (b)
 
-Employee Protective Arrangements.—(1) As a condition of financial assistance under sections 5307–5312, 5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(b) of this title, the interestsof employees affected by the assistance shall be protected under arrangements the Secretary of Labor concludes are fair and equitable. The agreement granting the assistance under sections 5307–5312, 5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(b) shall specify the arrangements.
+Employee Protective Arrangements.—(1) As a condition of financial assistance under sections 5307–5312, 5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(b) of this title, the interests of employees affected by the assistance shall be protected under arrangements the Secretary of Labor concludes are fair and equitable. The agreement granting the assistance under sections 5307–5312, 5318(d), 5323(a)(1), (b), (d), and (e), 5328, 5337, and 5338(b) shall specify the arrangements.
 
 (2) Arrangements under this subsection shall include provisions that may be necessary for—
 
@@ -24,7 +24,7 @@ Employee Protective Arrangements.—(1) As a condition of financial assistance u
 
 (3) Arrangements under this subsection shall provide benefits at least equal to benefits established under section 11326 of this title.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 835; Pub. L. 104–88, title III, §308(e), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–178, title III, §3029(b)(9), June 9, 1998, 112 Stat. 372.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 835; Pub. L. 104–88, title III, §308(e), Dec. 29, 1995, 109 Stat. 947; Pub. L. 105–178, title III, §3029(b)(9), June 9, 1998, 112 Stat. 372; Pub. L. 107–217, §3(n)(3), Aug. 21, 2002, 116 Stat. 1302.)
 
 Historical and Revision Notes
 
@@ -56,11 +56,11 @@ In subsection (b)(3), the words “section 11347 of this title” are substitute
 
 #### References in Text
 
-Act of March 3, 1931, referred to in subsec. (a), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 Reorganization Plan No. 14 of 1950, referred to in subsec. (a), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–217 substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)”.
 
 1998—Subsec. (b)(1). Pub. L. 105–178 substituted “5338(b)” for “5338(j)(5)” in two places.
 

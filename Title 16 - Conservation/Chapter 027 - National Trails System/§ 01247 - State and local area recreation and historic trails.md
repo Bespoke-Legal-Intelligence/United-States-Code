@@ -2,11 +2,11 @@
 
 #### (a) Secretary of the Interior to encourage States, political subdivisions, and private interests; financial assistance for State and local projects
 
-The Secretary of the Interior is directed to encourage States to consider, in their comprehensive statewide outdoor recreation plans and proposals for financial assistance for State and local projects submitted pursuant to the Land and Water Conservation Fund Act \[16 U.S.C. 460<i>l</i>–4 et seq.\], needs and opportunities for establishing park, forest, and other recreation and historic trails on lands owned or administered by States, and recreation and historic trails on lands in or near urban areas. The Secretary is also directed to encourage States to consider, in their comprehensive statewide historic preservation plans and proposals for financial assistance for State, local, and private projects submitted pursuant to the Act of October 15, 1966 (80 Stat. 915), as amended \[16 U.S.C. 470 et seq.\], needs and opportunities for establishing historic trails. He is further directed, in accordance with the authority contained in the Act of May 28, 1963 (77 Stat. 49) \[16 U.S.C. 460<i>l</i> et seq.\], to encourage States, political subdivisions, and private interests, including nonprofit organizations, to establish such trails.
+The Secretary of the Interior is directed to encourage States to consider, in their comprehensive statewide outdoor recreation plans and proposals for financial assistance for State and local projects submitted pursuant to the Land and Water Conservation Fund Act \[16 U.S.C. 460<i>l</i>–4 et seq.\], needs and opportunities for establishing park, forest, and other recreation and historic trails on lands owned or administered by States, and recreation and historic trails on lands in or near urban areas. The Secretary is also directed to encourage States to consider, in their comprehensive statewide historic preservation plans and proposals for financial assistance for State, local, and private projects submitted pursuant to the Act of October 15, 1966 (80 Stat. 915), as amended \[16 U.S.C. 470 et seq.\], needs and opportunities for establishing historic trails. Heis further directed, in accordance with the authority contained in the Act of May 28, 1963 (77 Stat. 49) \[16 U.S.C. 460<i>l</i> et seq.\], to encourage States, political subdivisions, and private interests, including nonprofit organizations, to establish such trails.
 
 #### (b) Secretary of Housing and Urban Development to encourage metropolitan and other urban areas; administrative and financial assistance in connection with recreation and transportation planning; administration of urban open-space program
 
-The Secretary of Housing and Urban Development is directed, in administering the program of comprehensive urban planning and assistance under section 701 of the Housing Act of 1954 \[40 U.S.C. 461\], to encourage the planning of recreation trails in connection with the recreation and transportation planning for metropolitan and other urban areas. He is further directed, in administering the urban open-space program under title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\], to encourage such recreation trails.
+The Secretary of Housing and Urban Development is directed, in administering the program of comprehensive urban planning and assistance under section 701 <sup>1</sup> of the Housing Act of 1954, to encourage the planning of recreation trails in connection with the recreation and transportation planning for metropolitan and other urban areas. He is further directed, in administering the urban open-space program under title VII of the Housing Act of 1961 \[42 U.S.C. 1500 et seq.\], to encourage such recreation trails.
 
 #### (c) Secretary of Agriculture to encourage States, local agencies, and private interests
 
@@ -30,7 +30,7 @@ Act of October 15, 1966, referred to in subsec. (a), is Pub. L. 89–665, as ame
 
 Act of May 28, 1963, referred to in subsec. (a), is Pub. L. 88–29, May 28, 1963, 77 Stat. 49, as amended, which is classified generally to part A (§460<i>l</i> et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Tables.
 
-Section 461 of title 40, referred to in subsec. (b), was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
+Section 701 of the Housing Act of 1954, referred to in subsec. (b), was classified to section 461 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
 
 The Housing Act of 1961, referred to in subsec. (b), is Pub. L. 87–70, June 30, 1961, 75 Stat. 149, as amended. Title VII of the Housing Act of 1961 was classified generally to chapter 8C (§1500 et seq.) of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 5316 of Title 42 which terminated authority to make grants or loans under such title VII after Jan. 1, 1975. For complete classification of this Act to the Code, see Short Title note set out under section 1701 of Title 12, Banks and Banking, and Tables.
 
@@ -47,4 +47,6 @@ The Railroad Revitalization and Regulatory Reform Act of 1976, referred to in su
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 104–88, set out as an Effective Date note under section 701 of Title 49, Transportation.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

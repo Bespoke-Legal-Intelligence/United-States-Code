@@ -12,7 +12,7 @@
 
 #### (3) Certification
 
-&emsp;The Attorney General may certify an alien under this paragraph if the Attorney General has reasonable grounds to believe that the alien—
+&emsp;The Attorney General may certify an alien under this paragraph if the Attorney Generalhas reasonable grounds to believe that the alien—
 
 &emsp;&emsp;(A) is described in section 1182(a)(3)(A)(i), 1182(a)(3)(A)(iii), 1182(a)(3)(B), 1227(a)(4)(A)(i), 1227(a)(4)(A)(iii), or 1227(a)(4)(B) of this title; or
 
@@ -71,6 +71,10 @@
 The provisions of this section shall not be applicable to any other provision of this chapter.
 
 (June 27, 1952, ch. 477, title II, ch. 4, §236A, as added Pub. L. 107–56, title IV, §412(a), Oct. 26, 2001, 115 Stat. 350.)
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Reports
 

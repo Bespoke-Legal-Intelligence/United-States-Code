@@ -114,7 +114,7 @@ Rulemaking Required.—The Secretary of Agriculture shall conduct rulemaking, on
 
 “(c)
 
-Time Period for Rulemaking.—On December 1, 2000, the Secretary of Agriculture shall publish in the Federal Register a final decision on the Class III and Class IV milk pricing formulas. The resulting formulas shall take effect, and be implemented by the Secretary, on January 1, 2001.
+Time Period for Rulemaking.—On December 1, 2000, the Secretary of Agriculture shall publish in theFederal Register a final decision on the Class III and Class IV milk pricing formulas. The resulting formulas shall take effect, and be implemented by the Secretary, on January 1, 2001.
 
 “(d)
 

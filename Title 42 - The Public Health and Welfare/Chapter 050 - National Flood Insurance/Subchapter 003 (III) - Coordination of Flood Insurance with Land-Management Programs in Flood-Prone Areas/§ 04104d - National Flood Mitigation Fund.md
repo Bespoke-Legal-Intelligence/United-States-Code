@@ -36,6 +36,10 @@ The Director shall submit a report to the Congress not later than the expiration
 
 September 23, 1994, referred to in subsec. (d), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 103–325, which enacted this section, to reflect the probable intent of Congress.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4012a, 4017, 4104c of this title.

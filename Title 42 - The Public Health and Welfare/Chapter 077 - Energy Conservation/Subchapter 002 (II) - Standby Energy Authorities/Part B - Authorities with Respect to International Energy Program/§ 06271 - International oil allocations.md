@@ -38,7 +38,7 @@ No rule under this section may be put into effect unless—
 
 #### References in Text
 
-Section 753 of title 15, referred to in subsec. (c), was omitted from the Code pursuant to section 760g of Title 15, Commerce and Trade, which provided for the expiration of the President's authority under that section on Sept. 30, 1981.
+Section 753 of title 15, referred to in subsec. (c), was omitted from the Code pursuant to section 760g of Title15, Commerce and Trade, which provided for the expiration of the President's authority under that section on Sept. 30, 1981.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 (a) Any funds remaining in the Settlement Fund after the payments authorized to be made therefrom by subsections (c) and (d) of section 1300i–5 of this title and any payments made to successful appellants pursuant to section 1300i–4(d) of this title shall be paid to the Yurok Tribe and shall be held by the Secretary in trust for such tribe.
 
-(b) Funds divided pursuant to this section and any funds apportioned to the Hoopa Valley Tribe and the Yurok Tribe pursuant to subsections (c) and (d) of section 1300i–3 of this title shall not be distributed per capita to any individual before the date which is 10 years after the date on which the division is made under this section: <i>Provided, however</i>, That if the Hoopa Valley Business Council shall decide to do so it may distribute from the funds apportioned to it a per capita payment of $5,000 per member, pursuant to the Act of August 2, 1983 (25 U.S.C. 117a et seq.).
+(b) Funds divided pursuant to this section and any funds apportioned to the Hoopa Valley Tribe and the Yurok Tribe pursuant to subsections (c) and (d) of section 1300i–3 of this title shall not be distributed per capita to any individual before the date which is 10 years after the date on which the division is made under this section: <i>Provided, however</i>, That if the HoopaValley Business Council shall decide to do so it may distribute from the funds apportioned to it a per capita payment of $5,000 per member, pursuant to the Act of August 2, 1983 (25 U.S.C. 117a et seq.).
 
 (Pub. L. 100–580, §7, Oct. 31, 1988, 102 Stat. 2931.)
 

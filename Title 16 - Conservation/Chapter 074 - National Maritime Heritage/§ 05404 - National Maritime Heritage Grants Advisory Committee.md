@@ -48,7 +48,7 @@ There is hereby established a National Maritime Heritage Grants Advisory Committ
 
 #### (3) Term
 
-&emsp;The term of a member of the Committee appointed under paragraph (1) shall be 3 years, except that of the members first appointed 4 shall be appointed for an initial term of 1 year and 4 shall be appointed for an initial term of2 years, as specified by the Secretary at the time of appointment.
+&emsp;The term of a member of the Committee appointed under paragraph (1) shall be 3 years, except that of the members first appointed 4 shall be appointed for an initial term of 1 year and 4 shall be appointed for an initial term of 2 years, as specified by the Secretary at the time of appointment.
 
 #### (4) Completion of appointments
 
@@ -131,6 +131,10 @@ The Committee shall terminate on September 30, 2000.
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

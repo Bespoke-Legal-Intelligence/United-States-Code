@@ -54,7 +54,7 @@ The institution applying for an advance shall enter into a primary and unconditi
 
 #### (e) Priority of certain secured interests
 
-Notwithstanding any other provision of law, any security interest granted to a Federal HomeLoan Bank by any member of any Federal Home Loan Bank or any affiliate of any such member shall be entitled to priority over the claims and rights of any party (including any receiver, conservator, trustee, or similar party having rights of a lien creditor) other than claims and rights that—
+Notwithstanding any other provision of law, any security interest granted to a Federal Home Loan Bank by any member of any Federal Home Loan Bank or any affiliate of any such member shall be entitled to priority over the claims andrights of any party (including any receiver, conservator, trustee, or similar party having rights of a lien creditor) other than claims and rights that—
 
 &emsp;(1) would be entitled to priority under otherwise applicable law; and
 

@@ -24,7 +24,7 @@ The procedures for termination of service referred to in section 3203(b)(1) of t
 
 &emsp;(B) The term “political advertising” means any advertising for the purpose of influencing public opinion with respect to legislative, administrative, or electoral matters, or with respect to any controversial issue of public importance.
 
-&emsp;(C) The term “promotional advertising” means any advertising for the purpose of encouraging any person to select or use the service or additional service of a gas utility or the selection or installation of any appliance or equipment designed to use such utility's service.
+&emsp;(C) The term “promotional advertising” means any advertising for the purpose of encouraging any person to select or use the service or additional service of a gas utility or the selection or installation of any appliance orequipment designed to use such utility's service.
 
 (2) For purposes of this section and section 3203 of this title, the terms “political advertising” and “promotional advertising” do not include—
 

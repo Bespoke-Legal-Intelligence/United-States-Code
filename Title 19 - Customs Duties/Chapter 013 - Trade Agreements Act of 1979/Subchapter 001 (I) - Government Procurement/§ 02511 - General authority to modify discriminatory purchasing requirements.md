@@ -68,7 +68,7 @@ Functions of President under this section delegated to United States Trade Repre
 
 #### Ex. Ord. No. 12260. Agreement on Government Procurement
 
-Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, as amended by Ex. Ord. No. 12347, Feb. 23, 1982, 47 F.R. 8149; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12474, Apr. 17, 1984, 49 F.R. 15539; Ex. Ord. No. 13118, §10(7), Mar. 31, 1999, 64 F.R. 16598, provided:
+Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, as amended by Ex. Ord. No. 12347, Feb. 23, 1982, 47 F.R. 8149; Ex. Ord. No. 12388, Oct. 14, 1982, 47 F.R. 46245; Ex. Ord. No. 12474, Apr. 17, 1984, 49 F.R. 15539; Ex. Ord. No. 13118, §10(7), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13284, §12, Jan. 23, 2003, 68 F.R. 4076, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, including Title III of the Trade Agreements Act of 1979 (19 U.S.C. 2511–2518), and Section 301 of Title 3 of the United States Code, and in order to implement the Agreement on Government Procurement, as defined in 19 U.S.C. 2518(1), it is hereby ordered as follows:
 
@@ -122,87 +122,89 @@ Delegations and Authorization
 
 13\. Department of Health and Human Services
 
-14\. Department of Housing and Urban Development
+14\. Department of Homeland Security
 
-15\. Department of the Interior (Excludes the Bureau of Reclamation)
+15\. Department of Housing and Urban Development
 
-16\. Department of Justice
+16\. Department of the Interior (Excludes the Bureau of Reclamation)
 
-17\. Department of Labor
+17\. Department of Justice
 
-18\. Department of State
+18\. Department of Labor
 
-19\. Department of the Treasury
+19\. Department of State
 
-20\. Environmental Protection Agency
+20\. Department of the Treasury
 
-21\. Equal Employment Opportunity Commission
+21\. Environmental Protection Agency
 
-22\. Executive Office of the President
+22\. Equal Employment Opportunity Commission
 
-23\. Export-Import Bank of the United States
+23\. Executive Office of the President
 
-24\. Farm Credit Administration
+24\. Export-Import Bank of the United States
 
-25\. Federal Communications Commission
+25\. Farm Credit Administration
 
-26\. Federal Deposit Insurance Corporation
+26\. Federal Communications Commission
 
-27\. Federal Home Loan Bank Board
+27\. Federal Deposit Insurance Corporation
 
-28\. Federal Maritime Commission
+28\. Federal Home Loan Bank Board
 
-29\. Federal Mediation and Conciliation Service
+29\. Federal Maritime Commission
 
-30\. Federal Trade Commission
+30\. Federal Mediation and Conciliation Service
 
-31\. General Services Administration (Purchases by the Tools Commodity Center, and the Region 9 Office in San Francisco, California are not included)
+31\. Federal Trade Commission
 
-32\. Interstate Commerce Commission
+32\. General Services Administration (Purchases by the Tools Commodity Center, and the Region 9 Office in San Francisco, California are not included)
 
-33\. Merit Systems Protection Board
+33\. Interstate Commerce Commission
 
-34\. National Aeronautics and Space Administration
+34\. Merit Systems Protection Board
 
-35\. National Credit Union Administration
+35\. National Aeronautics and Space Administration
 
-36\. National Labor Relations Board
+36\. National Credit Union Administration
 
-37\. National Mediation Board
+37\. National Labor Relations Board
 
-38\. National Science Foundation
+38\. National Mediation Board
 
-39\. National Transportation Safety Board
+39\. National Science Foundation
 
-40\. Nuclear Regulatory Commission
+40\. National Transportation Safety Board
 
-41\. Office of Personnel Management
+41\. Nuclear Regulatory Commission
 
-42\. Overseas Private Investment Corporation
+42\. Office of Personnel Management
 
-43\. Panama Canal Commission
+43\. Overseas Private Investment Corporation
 
-44\. Railroad Retirement Board
+44\. Panama Canal Commission
 
-45\. Securities and Exchange Commission
+45\. Railroad Retirement Board
 
-46\. Selective Service System
+46\. Securities and Exchange Commission
 
-47\. Smithsonian Institution
+47\. Selective Service System
 
-48\. United States Arms Control and Disarmament Agency
+48\. Smithsonian Institution
 
-49\. United States Information Agency
+49\. United States Arms Control and Disarmament Agency
 
-50\. United States Agency for International Development
+50\. United States Information Agency
 
-51\. United States International Trade Commission
+51\. United States Agency for International Development
 
-52\. Veterans Administration
+52\. United States International Trade Commission
 
-53\. Maritime Administration of the Department of Transportation
+53\. Veterans Administration
 
-54\. The Peace Corps
+54\. Maritime Administration of the Department of Transportation
+
+55\. The Peace Corps
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of Title 22, Foreign Relations and Intercourse.\]
 

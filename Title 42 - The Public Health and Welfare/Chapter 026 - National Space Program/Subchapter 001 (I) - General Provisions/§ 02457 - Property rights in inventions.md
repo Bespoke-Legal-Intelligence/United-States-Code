@@ -12,7 +12,7 @@ Whenever any invention is made in the performance of any work under any contract
 
 #### (b) Contract provisions for furnishing reports of inventions, discoveries, improvements, or innovations
 
-Each contract entered into by the Administrator with any party for the performance of any work shall contain effective provisions under which such party shall furnish promptlyto the Administrator a written report containing full and complete technical information concerning any invention, discovery, improvement, or innovation which may be made in the performance of any such work.
+Each contract entered into by the Administrator with any party for the performance of any work shall contain effective provisions under which such party shall furnish promptly to the Administrator a written report containing full and complete technical information concerning any invention, discovery, improvement, or innovation which may be made in the performance of any such work.
 
 #### (c) Patent application
 
@@ -86,7 +86,7 @@ Amendment by Pub. L. 98–622 effective three months after Nov. 8, 1984, see sec
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note undersection 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1980 Amendment
 

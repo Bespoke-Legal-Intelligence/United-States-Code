@@ -22,7 +22,7 @@ In order to provide for uniform Federal jurisdiction over all of the lands now o
 
 #### References in Text
 
-The Act of the General Assembly of the Commonwealth of Virginia, approved April 10, 1940 (Acts of 1940, ch. 402, p. 725), referred to in text, was also set out as Va. Code 1936, Supp. 1942, §585 (58)a. For provisions relating to the respective jurisdiction of Virginia and the United States over lands in Shenandoah Park, see §7.1–19 of the Code of Virginia 1950.
+The Act of the General Assembly of the Commonwealth of Virginia, approved April 10, 1940 (Acts of 1940, ch. 402, p. 725), referred to in text, was also set out as Va. Code 1936, Supp. 1942, §585 (58)a. For provisions relating to the respective jurisdiction of Virginia and theUnited States over lands in Shenandoah Park, see §7.1–19 of the Code of Virginia 1950.
 
 #### Amendments
 

@@ -22,7 +22,7 @@ The Federal share of funds allotted to States under this subchapter shall not ex
 
 #### References in Text
 
-Section 1226a of this title, referred to in subsec. (a), was in the original a reference to section 414 of theGeneral Education Provisions Act. Section 414 of that Act was renumbered as section 422 by Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and is classified to section 1226a of this title.
+Section 1226a of this title, referred to in subsec. (a), was in the original a reference to section 414 of the General Education Provisions Act. Section 414 of that Act was renumbered as section 422 by Pub. L. 103–382, title II, §212(b)(1), Oct. 20, 1994, 108 Stat. 3913, and is classified to section 1226a of this title.
 
 #### Amendments
 

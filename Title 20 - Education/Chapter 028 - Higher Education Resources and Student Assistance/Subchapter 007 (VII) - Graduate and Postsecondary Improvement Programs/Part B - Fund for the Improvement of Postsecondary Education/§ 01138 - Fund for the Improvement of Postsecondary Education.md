@@ -4,7 +4,7 @@
 
 The Secretary is authorized to make grants to, or enter into contracts with, institutions of higher education, combinations of such institutions, and other public and private nonprofit institutions and agencies, to enable such institutions, combinations, and agencies to improve postsecondary education opportunities by—
 
-&emsp;(1) encouraging the reform, innovation, and improvement of postsecondary education, and providing equal educational opportunity for all;
+&emsp;(1) encouraging the reform, innovation, and improvement of postsecondary education, andproviding equal educational opportunity for all;
 
 &emsp;(2) the creation of institutions, programs, and joint efforts involving paths to career and professional training, and combinations of academic and experiential learning;
 

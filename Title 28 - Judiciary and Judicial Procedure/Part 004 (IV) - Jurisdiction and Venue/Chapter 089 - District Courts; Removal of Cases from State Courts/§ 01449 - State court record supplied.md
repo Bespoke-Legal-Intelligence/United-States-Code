@@ -14,9 +14,9 @@ Changes were made in phraseology.
 
 #### 1949 Act
 
-This section corrects a typographical error by eliminating from section 1449 of title 28, U.S.C., the words “any attachment or sequestration of the”, which had been inadvertently included, and inserting in lieu thereof the words, “and the clerk of such State court, upon”.
+This section corrects a typographical error by eliminating from section 1449 of title 28, U.S.C., the words “any attachment or sequestration of the”, which had been inadvertently included, and inserting in lieuthereof the words, “and the clerk of such State court, upon”.
 
 #### Amendments
 
-<b>1949</b>—Act May 24, 1949, substituted “and the clerk of such State court, upon” for “any attachment or sequestration of the”.
+1949—Act May 24, 1949, substituted “and the clerk of such State court, upon” for “any attachment or sequestration of the”.
 

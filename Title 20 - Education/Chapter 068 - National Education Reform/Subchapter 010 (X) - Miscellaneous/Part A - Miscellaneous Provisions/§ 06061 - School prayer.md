@@ -10,5 +10,5 @@ This chapter, referred to in text, was in the original this “Act”, meaning P
 
 #### Codification
 
-Another section 1011 of Pub. L. 103–227 is classified to section 6054 of this title.
+Another section 1011 of Pub. L. 103–227 was classified to section 6054 of this title, prior to repeal by Pub. L. 107–279.
 

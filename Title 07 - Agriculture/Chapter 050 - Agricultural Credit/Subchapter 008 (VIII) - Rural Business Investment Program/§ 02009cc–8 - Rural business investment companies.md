@@ -1,0 +1,72 @@
+### §2009cc–8. Rural business investment companies
+
+#### (a) Organization
+
+For the purpose of this subchapter, a rural business investment company shall—
+
+&emsp;(1) be an incorporated body, a limited liability company, or a limited partnership organized and chartered or otherwise existing under State law solely for the purpose of performing the functions and conducting the activities authorized by this subchapter;
+
+&emsp;(2)(A) if incorporated, have succession for a period of not less than 30 years unless earlier dissolved by the shareholders of the rural business investment company; and
+
+&emsp;(B) if a limited partnership or a limited liability company, have succession for a period of not less than 10 years; and
+
+&emsp;(3) possess the powers reasonably necessary to perform the functions and conduct the activities.
+
+#### (b) Articles
+
+The articles of any rural business investment company—
+
+&emsp;(1) shall specify in general terms—
+
+&emsp;&emsp;(A) the purposes for which the rural business investment company is formed;
+
+&emsp;&emsp;(B) the name of the rural business investment company;
+
+&emsp;&emsp;(C) the area or areas in which the operations of the rural business investment company are to be carried out;
+
+&emsp;&emsp;(D) the place where the principal office of the rural business investment company is to be located; and
+
+&emsp;&emsp;(E) the amount and classes of the shares of capital stock of the rural business investment company;
+
+&emsp;(2) may contain any other provisions consistent with this subchapter that the rural business investment company may determine appropriate to adopt for the regulation of the business of the rural business investment company and the conduct of the affairs of the rural business investment company; and
+
+&emsp;(3) shall be subject to the approval of the Secretary.
+
+#### (c) Capital requirements
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), the private capital of each rural business investment company shall be not less than—
+
+&emsp;&emsp;(A) $5,000,000; or
+
+&emsp;&emsp;(B) $10,000,000, with respect to each rural business investment company authorized or seeking authority to issue participating securities to be purchased or guaranteed by the Secretary under this subchapter.
+
+#### (2) Exception
+
+&emsp;The Secretary may, in the discretion of the Secretary and based on a showing of special circumstances and good cause, permit the private capital of a rural business investment company described in paragraph (1)(B) to be less than $10,000,000, but not less than $5,000,000, if the Secretary determines that the action would not create or otherwise contribute to an unreasonable risk of default or loss to the Federal Government.
+
+#### (3) Adequacy
+
+&emsp;In addition to the requirements of paragraph (1), the Secretary shall—
+
+&emsp;&emsp;(A) determine whether the private capital of each rural business investment company is adequate to ensure a reasonable prospect that the rural business investment company will be operated soundly and profitably, and managed actively and prudently in accordance with the articles of the rural business investment company;
+
+&emsp;&emsp;(B) determine that the rural business investment company will be able to comply with the requirements of this subchapter;
+
+&emsp;&emsp;(C) require that at least 75 percent of the capital of each rural business investment company is invested in rural business concerns and not more than 10 percent of the investments shall be made in an area containing a city of over 150,000 in the last decennial census and the Census Bureau defined urbanized area containing or adjacent to that city;
+
+&emsp;&emsp;(D) ensure that the rural business investment company is designed primarily to meet equity capital needs of the businesses in which the rural business investment company invests and not to compete with traditional small business financing by commercial lenders; and
+
+&emsp;&emsp;(E) require that the rural business investment company makes short-term non-equity investments of less than 5 years only to the extent necessary to preserve an existing investment.
+
+#### (d) Diversification of ownership
+
+The Secretary shall ensure that the management of each rural business investment company licensed after May 13, 2002, is sufficiently diversified from and unaffiliated with the ownership of the rural business investment company so as to ensure independence and objectivity in the financial management and oversight of the investments and operations of the rural business investment company.
+
+(Pub. L. 87–128, title III, §384I, as added Pub. L. 107–171, title VI, §6029, May 13, 2002, 116 Stat. 396.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2009cc–3 of this title.
+

@@ -29,4 +29,6 @@ This subchapter is referred to in section 948 of this title.
 - [&sect; 00940a - Repealed. Pub. L. 104&#8211;127, title VII, &sect;780, Apr. 4, 1996, 110 Stat. 1151](%C2%A7%2000940a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7780%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201151.md)
 - [&sect; 00940b - Use of funds](%C2%A7%2000940b%20-%20Use%20of%20funds.md)
 - [&sect; 00940c - Cushion of credit payments program](%C2%A7%2000940c%20-%20Cushion%20of%20credit%20payments%20program.md)
+- [&sect; 00940c&#8211;1 - Guarantees for bonds and notes issued for electrification or telephone purposes](%C2%A7%2000940c%E2%80%931%20-%20Guarantees%20for%20bonds%20and%20notes%20issued%20for%20electrification%20or%20telephone%20purposes.md)
 - [&sect; 00940d - Limitations on authorization of appropriations](%C2%A7%2000940d%20-%20Limitations%20on%20authorization%20of%20appropriations.md)
+- [&sect; 00940e - Expansion of 911 access](%C2%A7%2000940e%20-%20Expansion%20of%20911%20access.md)

@@ -14,7 +14,7 @@ Of the funds provided to a State library administrative agency under section 912
 
 &emsp;(E) paying costs for libraries to acquire or share computer systems and telecommunications technologies; and
 
-&emsp;(2) targeting library and information services to persons having difficulty using a library and to underserved urban and rural communities, including children (from birth through age 17) from families with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) oftitle 42) applicable to a family of the size involved.
+&emsp;(2) targeting library and information services to persons having difficulty using a library and to underserved urban and rural communities, including children (from birth through age 17) from families with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually in accordance with section 9902(2) of title 42) applicable to a family of the size involved.
 
 #### (b) Special rule
 

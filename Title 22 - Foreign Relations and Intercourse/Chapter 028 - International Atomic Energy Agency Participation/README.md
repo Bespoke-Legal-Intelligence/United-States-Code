@@ -15,6 +15,9 @@
 | (b) | Presidential appointees or elected officers. |
 | (c) | Regulations. |
 | [2026\.](%C2%A7%2002026%20-%20Termination%20of%20authority%20and%20participation%20in%20Agency.md) | Termination of authority and participation in Agency. |
+| [2027\.](%C2%A7%2002027%20-%20Annual%20review%20by%20Secretary%20of%20State%20of%20programs%20and%20projects%20of%20the%20International%20Atomic%20Energy%20Agency%3B%20United%20States%20opposition%20to%E2%80%A6.md) | Annual review by Secretary of State of programs and projects of the International Atomic Energy Agency; United States opposition to certain programs and projects of the Agency. |
+| (a) | Annual review. |
+| (b) | Opposition to certain programs and projects of International Atomic Energy Agency. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -29,3 +32,4 @@
 - [&sect; 02024 - Authorization of appropriations for payment of expenses](%C2%A7%2002024%20-%20Authorization%20of%20appropriations%20for%20payment%20of%20expenses.md)
 - [&sect; 02025 - Effect of employment on retirement, insurance, and other civil service rights and privileges](%C2%A7%2002025%20-%20Effect%20of%20employment%20on%20retirement%2C%20insurance%2C%20and%20other%20civil%20service%20rights%20and%20privileges.md)
 - [&sect; 02026 - Termination of authority and participation in Agency](%C2%A7%2002026%20-%20Termination%20of%20authority%20and%20participation%20in%20Agency.md)
+- [&sect; 02027 - Annual review by Secretary of State of programs and projects of the International Atomic Energy Agency; United States opposition to&#8230;](%C2%A7%2002027%20-%20Annual%20review%20by%20Secretary%20of%20State%20of%20programs%20and%20projects%20of%20the%20International%20Atomic%20Energy%20Agency%3B%20United%20States%20opposition%20to%E2%80%A6.md)

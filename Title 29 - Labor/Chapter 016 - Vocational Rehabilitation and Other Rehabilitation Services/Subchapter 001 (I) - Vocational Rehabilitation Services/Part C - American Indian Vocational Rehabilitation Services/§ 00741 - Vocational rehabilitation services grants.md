@@ -20,7 +20,7 @@ The Commissioner, in accordance with the provisions of this part, may make grant
 
 (4) In making grants under this part, the Secretary shall give priority consideration to applications for the continuation of programs which have been funded under this part.
 
-(5) Nothing in this section may be construed to authorize a separate service delivery system for Indian residents of a State who reside in non-reservation areas.
+(5) Nothing in this section may be construed to authorize a separate service delivery systemfor Indian residents of a State who reside in non-reservation areas.
 
 #### (c) “Reservation” defined
 
@@ -30,7 +30,7 @@ The term “reservation” includes Indian reservations, public domain Indian al
 
 #### References in Text
 
-The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat.688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
 
 #### Prior Provisions
 

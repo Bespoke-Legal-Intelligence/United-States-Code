@@ -20,3 +20,7 @@ The membership of the task force shall include representatives of—
 
 (Pub. L. 93–288, title II, §204, as added Pub. L. 106–390, title I, §103, Oct. 30, 2000, 114 Stat. 1557.)
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

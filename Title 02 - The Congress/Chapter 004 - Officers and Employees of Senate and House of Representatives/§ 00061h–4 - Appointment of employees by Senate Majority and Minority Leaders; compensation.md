@@ -1,6 +1,6 @@
 ### §61h–4. Appointment of employees by Senate Majority and Minority Leaders; compensation
 
-Effective April 1, 1977, the Majority Leader and the Minority Leader are each authorized toappoint and fix the compensation of such employees as they deem appropriate: <i>Provided</i>, That the gross compensation paid to such employees shall not exceed $191,700 each fiscal year for each Leader.
+Effective April 1, 1977, the Majority Leader and the Minority Leader are each authorized to appoint and fix the compensation of such employees as they deem appropriate: <i>Provided</i>, That the gross compensation paid to such employees shall not exceed $191,700 each fiscal year for each Leader.
 
 (Pub. L. 95–26, title I, May 4, 1977, 91 Stat. 80.)
 

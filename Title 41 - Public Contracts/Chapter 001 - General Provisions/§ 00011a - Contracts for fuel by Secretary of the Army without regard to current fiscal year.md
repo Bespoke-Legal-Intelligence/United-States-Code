@@ -16,7 +16,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 For transfer of certain procurement and related functions and property, and functions relating to finance and fiscal matters, insofar as they pertain to Air Force, from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order Nos. 6, eff. Jan. 15, 1948; 25, Oct. 14, 1948; 39, May 18, 1949; and 40 \[App. B(93)\], July 22, 1949.
 
-Public Buildings Administration abolished by act June 30, 1949, ch. 288, title I, §103, 63 Stat. 380, and functions transferred to General Services Administration. See section 753 of Title 40, Public Buildings, Property, and Works.
+Public Buildings Administration abolished by act June 30, 1949, ch. 288, title I, §103, 63 Stat. 380, and functions transferred to General Services Administration. See text of, and Historical and Revision Notes under, section 303(b) of Title 40, Public Buildings, Property, and Works.
 
 Public Buildings Branch of Procurement Division (Bureau of Federal Supply) of Treasury Department transferred to Public Buildings Administration within Federal Works Agency, see Reorg. Plan No. I of 1939, §§301, 303, eff. July 1, 1939, 4 F.R. 2729, 53 Stat. 1426, 1427, set out in the Appendix to Title 5, Government Organization and Employees.
 

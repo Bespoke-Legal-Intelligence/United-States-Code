@@ -14,13 +14,15 @@
 
 (b) The Director of the Institute, acting through the Division Director for Diabetes, Endocrinology, and Metabolic Diseases, the Division Director for Digestive Diseases and Nutrition, and the Division Director for Kidney, Urologic, and Hematologic Diseases, shall—
 
-&emsp;(1) carry out programs of support for research and training (other than training for which National Research Service Awards may be made under section 288 of this title) in the diagnosis, prevention, and treatment of diabetes mellitus and endocrine and metabolic diseases, digestive diseases and nutritional disorders, and kidney, urologic, and hematologic diseases, including support for training in medical schools, graduate clinical training, graduate training in epidemiology, epidemiology studies, clinical trials, and interdisciplinary research programs; and
+&emsp;(1) carry out programs of support for research and training (other than training for which Ruth L. Kirschstein National Research Service Awards may be made under section 288 of this title) in the diagnosis, prevention, and treatment of diabetes mellitus and endocrine and metabolic diseases, digestive diseases and nutritional disorders, and kidney, urologic, and hematologic diseases, including support for training in medical schools, graduate clinical training, graduate training in epidemiology, epidemiology studies, clinical trials, and interdisciplinary research programs; and
 
 &emsp;(2) establish programs of evaluation, planning, and dissemination of knowledge related to such research and training.
 
-(July 1, 1944, ch. 373, title IV, §428, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 842; amended Pub. L. 103–43, title XX, §2008(b)(4), June 10, 1993, 107 Stat. 211.)
+(July 1, 1944, ch. 373, title IV, §428, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 842; amended Pub. L. 103–43, title XX, §2008(b)(4), June 10, 1993, 107 Stat. 211; Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874.)
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards”.
 
 1993—Subsec. (b). Pub. L. 103–43 substituted “the” for “the the” before “Division Director for Diabetes” in introductory provisions.
 

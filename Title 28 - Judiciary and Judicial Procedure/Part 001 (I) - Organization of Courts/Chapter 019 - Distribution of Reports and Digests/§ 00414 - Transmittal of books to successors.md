@@ -1,6 +1,6 @@
 ### §414. Transmittal of books to successors
 
-All government publications and law books furnished to justices, judges, clerks of courts, and United States attorneys of the United States and its territories and possessions, and other officers of the United States or an agencythereof shall be transmitted to their successors in office. All permanent or bound books and publications furnished under this chapter except those books furnished to the Library of Congress for international exchange shall remain the property of the United States and shall be marked plainly, “The Property of the United States”.
+All government publications and law books furnished to justices, judges, clerks of courts,and United States attorneys of the United States and its territories and possessions, and other officers of the United States or an agency thereof shall be transmitted to their successors in office. All permanent or bound books and publications furnished under this chapter except those books furnished to the Library of Congress for international exchange shall remain the property of the United States and shall be marked plainly, “The Property of the United States”.
 
 (June 25, 1948, ch. 646, 62 Stat. 906; Pub. L. 87–845, §7, Oct. 18, 1962, 76A Stat. 699.)
 
@@ -26,9 +26,9 @@ As finally enacted, part of act July 9, 1947, ch. 211, title IV, 61 Stat. 306, w
 
 #### Amendments
 
-<b>1962</b>—Pub. L. 87–845 substituted “furnished to justices, judges, clerks of courts, and United States attorneys of the United States and its territories and possessions, and other officers of the United States or an agency thereof” for “furnished to justices and judges of the United States and of the Territorial Courts, United States attorneys, clerks of courts, and other officers of the United States”.
+1962—Pub. L. 87–845 substituted “furnished to justices, judges, clerks of courts, and United States attorneys of the United States and its territories and possessions, and other officers of the United States or an agency thereof” for “furnished to justices and judges of the United States and of the Territorial Courts, United States attorneys, clerks of courts, and other officers of the United States”.
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–845 effective Jan. 2, 1963, see section 25 of Pub. L. 87–845, set out as a note set out under section 14 of Title 18, Crimes and Criminal Procedure.
+Section 25 of Pub. L. 87–845 provided that: “This Act \[enacting section 4210 of Title 18, Crimes and Criminal Procedure, and section 858 of Title 50, War and National Defense, and amending this section, sections 547, 1404, and 1406 of this title, section 14 of Title 18, section 1934 of Title 22, Foreign Relations and Intercourse, section 196 of Title 24, Hospitals and Asylums, and sections 191a and 191b of Title 50\] takes effect January 2, 1963. Laws enacted after January 9, 1962, that are inconsistent with this Act, supersede it to the extent of the inconsistency.”
 

@@ -26,7 +26,7 @@
 
 &emsp;(5) The use of a multiyear contract will not inhibit small business concerns in competing for the contract.
 
-&emsp;(6) In the case of the procurement of a pharmaceutical item for which a patent has expired less than four years before the date on which the solicitation of offers is issued, there is no substantial likelihood that increased competition among potential contractors would occur during the term of the contract as the result of the availability of generic equivalents increasing during the term of the contract.
+&emsp;(6) In the case of the procurement of a pharmaceutical item for which a patent has expired less than four years before the date on which the solicitation of offers is issued, there is no substantial likelihood that increased competition among potential contractorswould occur during the term of the contract as the result of the availability of generic equivalents increasing during the term of the contract.
 
 (b)(1) A multiyear contract authorized by this section shall contain—
 
@@ -74,5 +74,5 @@ Subsec. (a). Pub. L. 101–237, §601(a)(1), struck out “for use in Veterans�
 
 Subsec. (b)(2)(A). Pub. L. 101–237, §601(a)(2), struck out “health-care” before “programs, the amount”.
 
-Subsec. (e)(2) to (4). Pub. L. 101–237, §601(a)(3), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “Theterm ‘cancel’ or ‘cancellation’ refers to the termination of a contract by the Administrator as required under paragraph (2)(B)(i) of this subsection.”
+Subsec. (e)(2) to (4). Pub. L. 101–237, §601(a)(3), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The term ‘cancel’ or ‘cancellation’ refers to the termination of a contract by the Administrator as required under paragraph (2)(B)(i) of this subsection.”
 

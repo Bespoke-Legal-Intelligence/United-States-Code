@@ -22,7 +22,7 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 Reorg. Plan No. II of 1939, set out in the Appendix to Title 5, transferred Bureau of Fisheries in Department of Commerce, and its functions and functions of Secretary of Commerce relating to protection of fur seals and other fur-bearing animals and supervision of Pribilof Islands and care of natives thereof, to Department of the Interior.
 
-Reorg. Plan No. III of 1940, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5, consolidated Bureau of Fisheries and Bureau of Biological Survey with their respective functions into one agency in Department of the Interior to be known as Fish and Wildlife Service, and abolished office of Commissioner and Deputy Commissioner of Fisheries and transferred their functions to the consolidated agency.
+Reorg. Plan No. III of 1940, §3, eff. June 30, 1940, 5 F.R. 2108, 54 Stat. 1232, set out in the Appendix to Title 5,consolidated Bureau of Fisheries and Bureau of Biological Survey with their respective functions into one agency in Department of the Interior to be known as Fish and Wildlife Service, and abolished office of Commissioner and Deputy Commissioner of Fisheries and transferred their functions to the consolidated agency.
 
 #### Responsibility for Matters Relating to Seals
 

@@ -28,7 +28,7 @@
 
 &emsp;(i) an employee of—
 
-&emsp;&emsp;(I) the Federal Election Commission;
+&emsp;&emsp;(I) the Federal Election Commission or the Election Assistance Commission;
 
 &emsp;&emsp;(II) the Federal Bureau of Investigation;
 
@@ -62,7 +62,7 @@
 
 (c) An employee retains the right to vote as he chooses and to express his opinion on political subjects and candidates.
 
-(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, §501(k), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 106–554, §1(a)(3) \[title VI, §645(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–170.)
+(Added Pub. L. 103–94, §2(a), Oct. 6, 1993, 107 Stat. 1002; amended Pub. L. 103–359, title V, §501(k), Oct. 14, 1994, 108 Stat. 3430; Pub. L. 104–201, div. A, title XI, §1122(a)(1), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 106–554, §1(a)(3) \[title VI, §645(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–170; Pub. L. 107–252, title VIII, §811(a), Oct. 29, 2002, 116 Stat. 1727.)
 
 #### References in Text
 
@@ -74,15 +74,29 @@ A prior section 7323, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 525, prohibited 
 
 #### Amendments
 
+2002—Subsec. (b)(2)(B)(i)(I). Pub. L. 107–252 inserted “or the Election Assistance Commission” after “Commission”.
+
 2000—Subsec. (b)(2)(B)(ii). Pub. L. 106–554 substituted “5372a, or 5372b” for “or 5372a”.
 
 1996—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 104–201 substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 
 1994—Subsec. (b)(2)(B)(i)(XIII). Pub. L. 103–359 added subcl. (XIII).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–252 effective upon appointment of all members of the Election Assistance Commission under section 15323 of Title 42, The Public Health and Welfare, see section 15534(a) of Title 42.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–201 effective Oct. 1, 1996, see section 1124 of Pub. L. 104–201, set out as a note under section 193 of Title 10, Armed Forces.
+
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of authorities, functions, personnel, and assets of the Bureau of Alcohol, Tobacco and Firearms, including the related functions of the Secretary of the Treasury, to the Department of Justice, see section 531(c) of Title 6, Domestic Security.
 
 #### Section Referred to in Other Sections
 

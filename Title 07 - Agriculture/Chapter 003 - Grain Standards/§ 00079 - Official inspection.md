@@ -2,7 +2,7 @@
 
 #### (a) Grain required to be officially inspected
 
-The Secretary is authorized to cause official inspection under the standards provided for in section 76 of this title to be made of all grain required to be officially inspected as provided in section 77 of this title, in accordance with such regulations as the Secretary may prescribe.
+The Secretary is authorized to cause official inspection under the standards provided for insection 76 of this title to be made of all grain required to be officially inspected as provided in section 77 of this title, in accordance with such regulations as the Secretary may prescribe.
 
 #### (b) Inspections made pursuant to request of interested persons
 
@@ -10,7 +10,7 @@ The Secretary is further authorized, upon request of any interested person, and 
 
 #### (c) Reinspections and appeals; cancellation of superseded certificates; sale of samples
 
-The regulations prescribed by the Secretary under this chapter shall include provisions for reinspections and appeal inspections; cancellation and surrender of certificates superseded by reinspections and appeal inspections; and the use of standard forms for official certificates. The Secretary may provide by regulation that samples obtained by or for employees of the Secretary for purposes of official inspection shall become the property of the United States, and such samples may be disposed of without regard to the provisions of the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\].
+The regulations prescribed by the Secretary under this chapter shall include provisions for reinspections and appeal inspections; cancellation and surrender of certificates superseded by reinspections and appeal inspections; and the use of standard forms for official certificates. The Secretary may provide by regulation that samples obtained by or for employees of the Secretary for purposes of official inspection shall become the property of the United States, and such samples may be disposed of without regard to the provisions of the Federal Property and Administrative Services Act of 1949, as amended.<sup>1</sup>
 
 #### (d) Official certificates as evidence
 
@@ -84,7 +84,7 @@ Geographic boundaries for official agencies.—Not more than one official agency
 
 #### (h) Official inspections at locations other than export port locations when designated official agencies are not available
 
-If the Secretary determines that official inspection by an official agency designated under subsection (f) of this section is not available on a regular basis at any location (other than at an export port location) where the Secretary determines such inspection is needed to effectuate the objectives stated in section 74 of this title, and that no official agency within reasonable proximity to such location is willing to provide or has or can acquire adequate personnel and facilities for providing such service on an interim basis, official inspection shall be provided by authorized employees of the Secretary, and other persons licensed by the Secretary to perform official inspection functions, as provided in section 84 of this title, until such time as the service can be provided on a regular basis by an official agency.
+If the Secretary determines that official inspection by an official agency designated under subsection (f) of this section is not available on a regular basis at any location (other than at an export port location) where the Secretary determines such inspection is needed to effectuate the objectives stated in section 74 of this title, and that no official agency within reasonableproximity to such location is willing to provide or has or can acquire adequate personnel and facilities for providing such service on an interim basis, official inspection shall be provided by authorized employees of the Secretary, and other persons licensed by the Secretary to perform official inspection functions, as provided in section 84 of this title, until such time as the service can be provided on a regular basis by an official agency.
 
 #### (i) Official inspections in Canadian ports
 
@@ -92,7 +92,7 @@ The Secretary is authorized to cause official inspection under this chapter to b
 
 #### (j) Fees; establishment, amount, payment, etc.
 
-(1) The Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable inspection fees to cover the estimated cost to the Secretary incident to the performance of official inspection except when the official inspection is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this subsection shall, as nearly as practicable and after taking into consideration any proceeds from the sale of samples, cover the costs of the Secretary incident to its <sup>1</sup> performance of official inspection services in the United States and on United States grain in Canadian ports, including administrative and supervisory costs related to such official inspection of grain. Such fees, and the proceeds from the sale of samples obtained for purposes of official inspection which become the property of the United States, shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
+(1) The Secretary shall, under such regulations as the Secretary may prescribe, charge and collect reasonable inspection fees to cover the estimated cost to the Secretary incident to the performance of official inspection except when the official inspection is performed by a designated official agency or by a State under a delegation of authority. The fees authorized by this subsection shall, as nearly as practicable and after taking into consideration any proceeds from the sale of samples, cover the costs of the Secretary incident to its <sup>2</sup> performance of official inspection services in the United States and on United States grain in Canadian ports, including administrative and supervisory costs related to such official inspection of grain. Such fees, and the proceeds from the sale of samples obtained for purposes of official inspection which become the property of the United States, shall be deposited into a fund which shall be available without fiscal year limitation for the expenses of the Secretary incident to providing services under this chapter.
 
 (2) Each designated official agency and each State agency to which authority has been delegated under subsection (e) of this section shall pay to the Secretary fees in such amount as the Secretary determines fair and reasonable and as will cover the estimated costs incurred by the Secretary relating to supervision of official agency personnel and supervision by the Secretary of the Secretary's field office personnel, except costs incurred under paragraph (3) of subsection (g) of this section and sections 85, 86, and 87c of this title. The fees shall be payable after the services are performed at such times as specified by the Secretary and shall be deposited in the fund created in paragraph (1) of this subsection. Failure to pay the fee within thirty days after it is due shall result in automatic termination of the delegation or designation, which shall be reinstated upon payment, within such period as specified by the Secretary, of the fee currently due plus interest and any further expenses incurred by the Secretary because of such termination. The interest rate on overdue fees shall be as prescribed by the Secretary, but not less than the current average market yield on outstanding marketable obligations of the United States of comparable maturity, plus an additional charge of not to exceed 1 per centum per annum as determined by the Secretary and adjusted to the nearest one-eighth of 1 per centum.
 
@@ -104,7 +104,7 @@ The Secretary is authorized to cause official inspection under this chapter to b
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. The provisions of that act relating to management and disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Codification
 
@@ -112,7 +112,7 @@ Section as originally enacted was composed of part of section 7 of part B of act
 
 #### Amendments
 
-2000—Subsec. (f)(2). Pub. L. 106–472, §102(a), added heading and text of par. (2) and struck out former par. (2) which read as follows: “Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title.”
+2000—Subsec. (f)(2). Pub. L. 106–472, §102(a), added heading and text of par. (2) and struck out former par.\(2) which read as follows: “Not more than one official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter shall be operative at one time for any geographic area as determined by the Secretary to effectuate the objectives stated in section 74 of this title, except that the Secretary may conduct pilot programs to allow more than 1 official agency to carry out inspections within a single geographical area without undermining the policy stated in section 74 of this title.”
 
 Subsec. (j)(4). Pub. L. 106–472, §103(a), substituted “2005” for “2000” in first sentence.
 
@@ -144,9 +144,9 @@ Subsec. (j). Pub. L. 97–35 temporarily designated existing provisions as par. 
 
 1977—Subsec. (b). Pub. L. 95–113, §1606(d), struck out reference to a determination of the quantity of sacks of grain.
 
-Subsec. (e). Pub. L. 95–113, §1604(d)(1), designated as par. (4) provisions, formerly forming a part of par. (2), authorizing the Administrator to provide that grainloaded at an interior point in the United States into a rail car, barge, or other container as the final carrier in which it is to be transported from the United States be inspected in the manner provided in this subsection or subsec. (f) of this section, as the Administrator determines best meets the objectives of this chapter.
+Subsec. (e). Pub. L. 95–113, §1604(d)(1), designated as par. (4) provisions, formerly forming a part of par. (2), authorizing the Administrator to provide that grain loaded at an interior point in the United States into a rail car, barge, or other container as the final carrier in which it is to be transported from the United States be inspected in the manner provided in this subsection or subsec. (f) of this section, as the Administrator determines best meets the objectives of this chapter.
 
-Subsec. (f)(2). Pub. L. 95–113, §1604(d)(2), substituted “official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter” for “official agency for carrying out the provisions of this chapter”, struck out “, but this paragraph shall not be applicable to prevent any inspection agency from operating in any area in which it was operative on August 15, 1968” after “section 74 of this title”, and redesignated other existing provisions as pars. (3) and (4).
+Subsec. (f)(2). Pub. L. 95–113, §1604(d)(2), substituted “official agency or State delegated authority pursuant to subsection (e)(2) of this section for carrying out the inspection provisions of this chapter” for “official agency for carrying out the provisions of this chapter”, struck out “, but this paragraph shall not be applicable to prevent any inspection agency from operating in any area in which it was operative on August 15, 1968” after “section 74 of this title”, and redesignated other existing provisions as pars. (3) and (4).
 
 Subsec. (f)(3). Pub. L. 95–113, §1604(d)(2)(B), (C), redesignated a portion of existing par. (2) as (3) and substituted “Except as authorized by the Administrator, no” for “No”.
 
@@ -172,7 +172,7 @@ Subsec. (f). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub.
 
 Subsecs. (g) to (j). Pub. L. 94–582, §8(5), formerly §8(a)(5), as renumbered by Pub. L. 106–472, §110(a)(1), added subsecs. (g) to (j).
 
-1968—Pub. L. 90–487 substituted provisions covering the authority and funding of official inspections for provisions covering the licensing of inspectors and the utilization by the Secretary of Agriculture of State inspectors.
+1968—Pub. L. 90–487 substituted provisions covering the authority and funding of official inspections forprovisions covering the licensing of inspectors and the utilization by the Secretary of Agriculture of State inspectors.
 
 #### Effective Date of 2000 Amendment
 
@@ -212,5 +212,7 @@ Section 8(b) of Pub. L. 94–582, as amended by Pub. L. 95–113, title XVI, §�
 
 This section is referred to in sections 75, 79a, 79b, 84, 87b, 87e, 87f–1, 87h of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “the Secretary's”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “the Secretary's”.</i>
 

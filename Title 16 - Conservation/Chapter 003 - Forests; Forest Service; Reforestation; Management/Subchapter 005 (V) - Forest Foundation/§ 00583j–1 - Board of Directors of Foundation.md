@@ -22,7 +22,7 @@ The Board shall meet at the call of the Chairman at least once a year. If a Dire
 
 #### (f) Reimbursement of expenses
 
-Voting members of the Board shall serve without pay, but may be reimbursed for the actualand necessary traveling and subsistence expenses incurred by them in the performance of their duties for the Foundation. Such reimbursement may not exceed such amount as would be authorized under section 5703 of title 5 for the payment of expenses and allowances for individuals employed intermittently in the Federal Government service.
+Voting members of the Board shall serve without pay, but may be reimbursed for the actual and necessary traveling and subsistence expenses incurred by them in the performance of their duties for the Foundation. Such reimbursement may not exceed such amount as would be authorized under section 5703 of title 5 for the payment of expenses and allowances for individuals employed intermittently in the Federal Government service.
 
 #### (g) General powers
 

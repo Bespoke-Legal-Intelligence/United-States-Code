@@ -79,17 +79,29 @@
 | (b) | Competitive grants authorized. |
 | (c) | Criteria for grants. |
 | (d) | Matching of funds. |
-| (e) | Authorization of appropriations. |
+| (e) | Term of grant. |
+| (f) | Authorization of appropriations. |
 | [7627\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007627%20-%20Coordinated%20program%20of%20research%2C%20extension%2C%20and%20education%20to%20improve%20viability%20of%20small%20and%20medium%20size%20dairy%2C%20livestock%2C%20and%20poultry%E2%80%A6.md) | Coordinated program of research, extension, and education to improve viability of small and medium size dairy, livestock, and poultry operations. |
 | (a) | Program authorized. |
 | (b) | Components. |
 | (c) | Administration. |
-| [7628\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007628%20-%20Support%20for%20research%20regarding%20diseases%20of%20wheat%20and%20barley%20caused%20by%20Fusarium%20graminearum.md) | Support for research regarding diseases of wheat and barley caused by Fusarium graminearum. |
+| [7628\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007628%20-%20Support%20for%20research%20regarding%20diseases%20of%20wheat%2C%20triticale%2C%20and%20barley%20caused%20by%20Fusarium%20graminearum%20or%20by%20Tilletia%20indica.md) | Support for research regarding diseases of wheat, triticale, and barley caused by Fusarium graminearum or by Tilletia indica. |
 | (a) | Research grant authorized. |
 | (b) | Research components. |
 | (c) | Communications networks. |
 | (d) | Management. |
 | (e) | Authorization of appropriations. |
+| [7629\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007629%20-%20Bovine%20Johne%27s%20disease%20control%20program.md) | Bovine Johne's disease control program. |
+| (a) | Establishment. |
+| (b) | Authorization of appropriations. |
+| [7630\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007630%20-%20Grants%20for%20youth%20organizations.md) | Grants for youth organizations. |
+| (a) | In general. |
+| (b) | Funding. |
+| (c) | Authorization of appropriations. |
+| [7631\.](Subchapter%20002%20%28II%29%20-%20New%20Agricultural%20Research%2C%20Extension%2C%20and%20Education%20Initiatives/%C2%A7%2007631%20-%20Agricultural%20biotechnology%20research%20and%20development%20for%20developing%20countries.md) | Agricultural biotechnology research and development for developing countries. |
+| (a) | Eligible entity. |
+| (b) | Grant program. |
+| (c) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -123,16 +135,23 @@
 | (d) | Outreach. |
 | (e) | Director. |
 | (f) | Authorization of appropriations. |
-| [7654\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007654%20-%20Food%20Safety%20Research%20Information%20Office%20and%20national%20conference.md) | Food Safety Research Information Office and national conference. |
-| (a) | Food Safety Research Information Office. |
-| (b) | National Conference; annual workshops. |
-| (c) | Food safety report. |
+| [7654\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007654%20-%20Food%20Safety%20Research%20Information%20Office.md) | Food Safety Research Information Office. |
+| (a) | Establishment. |
+| (b) | Purpose. |
+| (c) | Cooperation. |
 | [7655\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007655%20-%20Safe%20food%20handling%20education.md) | Safe food handling education. |
 | [7656\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007656%20-%20Designation%20of%20Crisis%20Management%20Team%20within%20Department.md) | Designation of Crisis Management Team within Department. |
 | (a) | Designation of Crisis Management Team. |
 | (b) | Duties of Crisis Management Team. |
 | (c) | Role in prioritizing certain research. |
 | (d) | Cooperative agreements. |
+| [7657\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous%20Provisions/Part%20B%20-%20General/%C2%A7%2007657%20-%20Senior%20Scientific%20Research%20Service.md) | Senior Scientific Research Service. |
+| (a) | In general. |
+| (b) | Members. |
+| (c) | Performance appraisal system. |
+| (d) | Compensation. |
+| (e) | Retirement contributions. |
+| (f) | Involuntary separation. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -110,7 +110,7 @@ Amendment by Pub. L. 103–182 effective on the date the North American Free Tra
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to United States Trade Representative, with authority delegated to Secretary of Defense to waive the prohibitions contained in subsec. (b)(3) of this section, see section 1–2 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
+Functions of President under this section delegated to United States Trade Representative, with authority delegated to Secretary of Defense to waive the prohibitions contained in subsec. (b)(3) of this section, see section 1–201 of Ex. Ord. No. 12260, Dec. 31, 1980, 46 F.R. 1653, set out as a note under section 2511 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Classification.—An offense that is not specifically classified by a letter grade in the section defining it, is classified if the maximum term of imprisonment authorized is—
+Classification.—An offense that is not specifically classified by a letter grade in thesection defining it, is classified if the maximum term of imprisonment authorized is—
 
 &emsp;(1) life imprisonment, or if the maximum penalty is death, as a Class A felony;
 
@@ -78,7 +78,7 @@ Nonqualifying felonies.—
 
 Robbery in certain cases.—Robbery, an attempt, conspiracy, or solicitation to commit robbery; or an offense described in paragraph (2)(F)(ii) shall not serve as a basis for sentencing under this subsection if the defendant establishes by clear and convincing evidence that—
 
-&emsp;&emsp;&emsp;(i) no firearm or other dangerous weapon was used in the offense and no threat of use of a firearm or other dangerous weapon was involved in the offense; and
+&emsp;&emsp;&emsp;(i) no firearm or other dangerous weapon was used in the offense and no threat ofuse of a firearm or other dangerous weapon was involved in the offense; and
 
 &emsp;&emsp;&emsp;(ii) the offense did not result in death or serious bodily injury (as defined in section 1365) to any person.
 
@@ -100,7 +100,7 @@ Rule of construction.—This subsection shall not be construed to preclude impos
 
 &emsp;(6)
 
-Special provision for indian country.—No person subject to the criminal jurisdiction of an Indian tribal government shall be subject to this subsection for any offense forwhich Federal jurisdiction is solely predicated on Indian country (as defined in section 1151) and which occurs within the boundaries of such Indian country unless the governing body of the tribe has elected that this subsection have effect over land and persons subject to the criminal jurisdiction of the tribe.
+Special provision for indian country.—No person subject to the criminal jurisdiction of an Indian tribal government shall be subject to this subsection for any offense for which Federal jurisdiction is solely predicated on Indian country (as defined in section 1151) and which occurs within the boundaries of such Indian country unless the governing body of the tribe has elected that this subsection have effect over land and persons subject to the criminal jurisdiction of the tribe.
 
 &emsp;(7)
 

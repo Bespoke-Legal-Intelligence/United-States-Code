@@ -14,7 +14,7 @@ Section was not enacted as part of the Social Security Act which comprises this 
 
 #### Change of Name
 
-“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in text pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+“Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in text pursuant to section 509(b) of Pub. L. 96–88which is classified to section 3508(b) of Title 20, Education.
 
 #### Time for Making Social Security Contributions With Respect to Covered State and Local Employees
 

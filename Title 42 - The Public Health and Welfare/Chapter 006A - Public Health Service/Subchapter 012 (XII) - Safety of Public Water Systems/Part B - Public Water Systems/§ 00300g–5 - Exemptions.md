@@ -40,7 +40,7 @@ A State which has primary enforcement responsibility may exempt any public water
 
 Limitation.—A public water system may not receive an exemption under this section if the system was granted a variance under section 300g–4(e) of this title.
 
-(3) Each public water system's exemption granted by a State under subsection (a) of this section shall be conditioned by the State upon compliance by the public water system with the schedule prescribed by the State pursuant to this subsection. The requirements of each schedule prescribed by a State pursuant to this subsection shall be enforceable by the State under its laws. Any requirement of a schedule on which an exemption granted under this section is conditioned may be enforced under section 300g–3 of this title as if such requirement was part of a national primary drinking water regulation.
+(3) Each public water system's exemption granted by a State under subsection (a) of this section shall be conditioned by the State upon compliance by the public water system with theschedule prescribed by the State pursuant to this subsection. The requirements of each schedule prescribed by a State pursuant to this subsection shall be enforceable by the State under its laws. Any requirement of a schedule on which an exemption granted under this section is conditioned may be enforced under section 300g–3 of this title as if such requirement was part of a national primary drinking water regulation.
 
 (4) Each schedule prescribed by a State pursuant to this subsection shall be deemed approved by the Administrator unless the exemption for which it was prescribed is revoked by the Administrator under subsection (d)(2) of this section or the schedule is revised by the Administrator under such subsection.
 
@@ -76,7 +76,7 @@ If a State does not have primary enforcement responsibility for public water sys
 
 If an application for an exemption under this section is made, the State receiving the application or the Administrator, as the case may be, shall act upon such application within a reasonable period (as determined under regulations prescribed by the Administrator) after the date of its submission.
 
-(July 1, 1944, ch. 373, title XIV, §1416, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1672;amended Pub. L. 95–190, §10(a), Nov. 16, 1977, 91 Stat. 1398; Pub. L. 96–502, §§1, 4(b), Dec. 5, 1980, 94 Stat. 2737, 2738; Pub. L. 99–339, title I, §§101(c)(4), 105, June 19, 1986, 100 Stat. 646, 649; Pub. L. 104–182, title I, §117(a), Aug. 6, 1996, 110 Stat. 1644.)
+(July 1, 1944, ch. 373, title XIV, §1416, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1672; amended Pub. L. 95–190, §10(a), Nov. 16, 1977, 91 Stat. 1398; Pub. L. 96–502, §§1, 4(b), Dec. 5, 1980, 94 Stat. 2737, 2738; Pub. L. 99–339, title I, §§101(c)(4), 105, June 19, 1986, 100 Stat. 646, 649; Pub. L. 104–182, title I, §117(a), Aug. 6, 1996, 110 Stat. 1644.)
 
 #### Amendments
 

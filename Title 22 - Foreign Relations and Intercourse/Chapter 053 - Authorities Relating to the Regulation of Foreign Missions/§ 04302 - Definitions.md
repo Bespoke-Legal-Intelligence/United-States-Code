@@ -44,7 +44,7 @@
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. Forcomplete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
+This chapter, referred to in subsec. (a), was in the original “this title”, meaning title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to this chapter. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
 
 #### Amendments
 

@@ -6,7 +6,7 @@ Whenever it shall appear to the Commission that any person is engaged or about t
 
 #### (b) Writs of mandamus
 
-Upon application of the Commission the district courts of the United States and the United States courts of any Territory or other placesubject to the jurisdiction of the United States shall have jurisdiction to issue writs of mandamus commanding any person to comply with the provisions of this chapter or any rule, regulation, or order of the Commission thereunder.
+Upon application of the Commission the district courts of the United States and the United States courts of any Territory or other place subject to the jurisdiction of the United States shall have jurisdiction to issue writs of mandamus commanding any person to comply with the provisions of this chapter or any rule, regulation, or order of the Commission thereunder.
 
 #### (c) Employment of attorneys
 

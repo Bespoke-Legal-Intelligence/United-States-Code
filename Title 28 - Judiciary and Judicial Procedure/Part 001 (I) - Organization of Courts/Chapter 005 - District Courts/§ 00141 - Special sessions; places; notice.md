@@ -16,5 +16,5 @@ Changes of phraseology were made.
 
 #### Amendments
 
-<b>1963</b>—Pub. L. 88–139 substituted “sessions” for “terms” and “session” for “term” wherever appearing in text and section catchline, and struck out “pursuant to rules approved by the judicial council of the circuit” after “court orders” in text.
+1963—Pub. L. 88–139 substituted “sessions” for “terms” and “session” for “term” wherever appearing in text and section catchline, and struck out “pursuant to rules approved by the judicial council of the circuit” after “court orders” in text.
 

@@ -4,7 +4,7 @@
 
 (b) Each report under subsection (a) shall include the following:
 
-&emsp;(1) A statement of the amounts of funds and the level of personnel resources (stated in terms of full-time equivalent employees) expected to be used by the Department during the next fiscal year in preparation for a domestic medical response to an attack involving weapons of mass destruction, including the anticipated source of those funds and any anticipated shortfalls in funds or personnel resources to achieve the tasks assigned the Department by the President in connection with preparation for such a response.
+&emsp;(1) A statement of the amounts of funds and the level of personnel resources (stated interms of full-time equivalent employees) expected to be used by the Department during the next fiscal year in preparation for a domestic medical response to an attack involving weapons of mass destruction, including the anticipated source of those funds and any anticipated shortfalls in funds or personnel resources to achieve the tasks assigned the Department by the President in connection with preparation for such a response.
 
 &emsp;(2) A detailed statement of the funds expended and personnel resources (stated in terms of full-time equivalent employees) used during the fiscal year preceding the fiscal year during which the report is submitted in preparation for a domestic medical response to an attack involving weapons of mass destruction or in response to such an attack, including identification of the source of those funds and a description of how those funds were expended.
 

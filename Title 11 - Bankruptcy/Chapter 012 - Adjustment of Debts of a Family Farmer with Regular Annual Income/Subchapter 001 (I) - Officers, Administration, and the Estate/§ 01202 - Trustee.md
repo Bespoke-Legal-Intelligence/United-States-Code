@@ -22,7 +22,7 @@
 
 &emsp;(5) if the debtor ceases to be a debtor in possession, perform the duties specified in sections 704(8), 1106(a)(1), 1106(a)(2), 1106(a)(6), 1106(a)(7), and 1203.
 
-(Added and amended Pub. L. 99–554, title II, §§227, 255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3103, 3106, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151.)
+(Added and amended Pub. L. 99–554, title II, §§227, 255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3103, 3106, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
 
 #### Termination of Section
 
@@ -52,7 +52,7 @@ For repeal of section effective Oct. 1, 1998, and subsequent reenactment of sect
 
 “(2) Such individual shall collect such percentage fee from all payments under plans in the cases under this chapter for which such individual serves as standing trustee. Such individual shall pay annually to the Treasury—
 
-&emsp;“(A) any amount by which the actual compensation received by such individual exceeds five percent of allsuch payments made under plans in cases under this chapter for which such individual serves as standing trustee; and
+&emsp;“(A) any amount by which the actual compensation received by such individual exceeds five percent of all such payments made under plans in cases under this chapter for which such individual serves as standing trustee; and
 
 &emsp;“(B) any amount by which the percentage fee fixed under paragraph (1)(B) of this subsection for all such cases exceeds—
 

@@ -116,7 +116,7 @@ Requirements for State Management.—Any law or regulation adopted by a State un
 
 “(c)
 
-Limitation on Enforcement of State Limited Access Systems.—Any law of the State of Washington, Oregon, or California that establishes or implements a limited access system for a Dungeness crab fishery may not be enforced against a vessel that is otherwise legally fishing in the exclusive economic zone adjacentto that State and that is not registered under the laws of that State, except a law regulating landings.
+Limitation on Enforcement of State Limited Access Systems.—Any law of the State of Washington, Oregon, or California that establishes or implements a limited access system for a Dungeness crab fishery may not be enforced against a vessel that is otherwise legally fishing in the exclusive economic zone adjacent to that State and that is not registered under the laws of that State, except a law regulating landings.
 
 “(d)
 

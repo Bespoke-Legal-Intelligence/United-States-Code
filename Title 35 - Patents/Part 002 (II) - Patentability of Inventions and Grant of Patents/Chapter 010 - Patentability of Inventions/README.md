@@ -15,8 +15,6 @@
 
 1990—Pub. L. 101–580, §1(b), Nov. 15, 1990, 104 Stat. 2863, added item 105.
 
-<i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
-
 
 ---
 

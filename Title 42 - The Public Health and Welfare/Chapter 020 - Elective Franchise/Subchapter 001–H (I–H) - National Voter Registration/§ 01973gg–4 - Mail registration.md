@@ -40,5 +40,5 @@ The Uniformed and Overseas Citizens Absentee Voting Act, referred to in subsec. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1973gg–2, 1973gg–6 of this title.
+This section is referred to in sections 1973gg–2, 1973gg–6, 15483 of this title.
 

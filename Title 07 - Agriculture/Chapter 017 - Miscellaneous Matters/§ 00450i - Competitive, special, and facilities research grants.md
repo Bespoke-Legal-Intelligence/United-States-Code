@@ -10,11 +10,11 @@ Short Title.—This section may be cited as the “Competitive, Special, and Fac
 
 #### (b) Competitive grants
 
-(1) The Secretary of Agriculture is authorized to make competitive grants, for periods not toexceed five years, to State agricultural experiment stations, all colleges and universities, other research institutions and organizations, Federal agencies, national laboratories, private organizations or corporations, and individuals, for research to further the programs of the Department of Agriculture. To the greatest extent possible the Secretary shall allocate these grants to high priority research taking into consideration, when available, the determinations made by the National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title) identifying high priority research areas.
+(1) The Secretary of Agriculture is authorized to make competitive grants, for periods not to exceed five years, to State agricultural experiment stations, all colleges and universities, other research institutions and organizations, Federal agencies, national laboratories, private organizations or corporations, and individuals, for research to further the programs of the Department of Agriculture. To the greatest extent possible the Secretary shall allocate these grants to high priority research taking into consideration, when available, the determinations made by the National Agricultural Research, Extension, Education, and Economics Advisory Board (as established under section 3123 of this title) identifying high priority research areas.
 
 (2)
 
-High Priority Research.—For purposes of this subsection, the term “high priority research” means basic and applied research that focuses on both national and multistate research needs (and methods to transfer such research to onfarm or inmarket practice) in—
+High Priority Research.—For purposes of this subsection, the term “high priority research” means basic and applied research that focuses on both national and multistate research needs (and methods to transfer such research to onfarm or inmarket practice) in the areas described in subparagraphs (A) through (F). Such needs shall be determined by the Secretary, in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, not later than July 1 of each fiscal year for the purposes of the following fiscal year.
 
 &emsp;(A) plant systems, including plant genome structure and function; molecular and cellular genetics and plant biotechnology; plant-pest interactions and biocontrol systems; crop plant response to environmental stresses; unproved nutrient qualities of plant products; and new food and industrial uses of plant products;
 
@@ -38,7 +38,7 @@ Types of Grants.—In addition to making research grants under paragraph (1), th
 
 &emsp;(C) Grants may be awarded to multidisciplinary teams that are proposing research on long-term applied research problems, with technology transfer a major component of all such grant proposals.
 
-&emsp;(D) Grants may be awarded to an institution to allow for the improvement of the research, development, technology transfer, and education capacity of the institution through the acquisition of special research equipment and the improvement of agricultural education and teaching. The Secretary shall use not less than 25 percent, and not more than 40 percent, of the funds made available for grants under this subparagraph to provide fellowships to outstanding pre- and post-doctoral students for research in the agricultural sciences.
+&emsp;(D) Grants may be awarded to an institution to allow for the improvement of the research, development, technology transfer, and education capacity of the institution through the acquisition of special research equipment and the improvement of agricultural education and teaching. The Secretary shall use not less than 25 percent, and not more than 40 percent, of the funds made available for grants underthis subparagraph to provide fellowships to outstanding pre- and post-doctoral students for research in the agricultural sciences.
 
 &emsp;(E) Grants may be awarded to single investigators or coinvestigators who are beginning their research careers and do not have an extensive research publication record. To be eligible for a grant under this subparagraph, an individual shall be within 5 years of the individual's initial career track position.
 
@@ -66,7 +66,7 @@ Construction Prohibited.—A grant made under paragraph (1) may not be used for 
 
 Matching Funds.—(A) Except as provided in subparagraph (B), the Secretary may not take the offer or availability of matching funds into consideration in making a grant under this subsection.
 
-(B) In the case of grants under paragraph (3)(D), the amount provided under this subsection may not exceed 50 percent of the cost of the special research equipment or other equipment acquired. The Secretary may waive all or part of the matching requirement under this subparagraph in the case of a smaller college or university (as described in section 2204f(c)(2)(C)(ii) of this title) if the equipment to be acquired costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project.
+(B) In the case of grants under paragraph (3)(D), the amount provided under this subsection may not exceed 50 percent of the cost of the special research equipment or other equipment acquired. The Secretary may waive all or part of the matching requirement under this subparagraph in the case of a college, university, or research foundation maintained by a college or university that ranks in the lowest 1/3 of such colleges, universities, and research foundations on the basis of Federal research funds received if the equipment to be acquired costs not more than $25,000 and has multiple uses within a single research project or is usable in more than 1 research project.
 
 (9)
 
@@ -78,7 +78,7 @@ Annual Report.—The Secretary shall transmit to Congress an annual report descr
 
 (10)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this subsection $150,000,000 for fiscal year 1991, $275,000,000 for fiscal year 1992, $350,000,000 for fiscal year 1993, $400,000,000 for fiscal year 1994, and $500,000,000 for each of fiscal years 1995 through 2002, of which each fiscal year—
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this subsection $150,000,000 for fiscal year 1991, $275,000,000 for fiscal year 1992, $350,000,000 for fiscal year 1993, $400,000,000 for fiscal year 1994, and $500,000,000 for each of fiscal years 1995 through 2007, of which each fiscal year—
 
 &emsp;(A) not less than 10 percent for fiscal year 1991, 20 percent for fiscal year 1992, and 30 percent for fiscal year 1993 and each fiscal year thereafter shall be available to make grants for research to be conducted by multidisciplinary teams;
 
@@ -212,7 +212,7 @@ The Secretary of Agriculture shall make annual grants to support the renovation 
 
 &emsp;(C) recommendations for implementation of such a recoupment policy.
 
-(7) There are authorized to be appropriated $25,000,000 for fiscal year 1991, and such sums asare necessary for subsequent fiscal years to carry out this subsection.
+(7) There are authorized to be appropriated $25,000,000 for fiscal year 1991, and such sums as are necessary for subsequent fiscal years to carry out this subsection.
 
 #### (f) Record keeping
 
@@ -236,9 +236,9 @@ The Federal Advisory Committee Act and title XVIII of the Food and Agriculture A
 
 #### (k) Emphasis on sustainable agriculture
 
-The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) of this section are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in section 3103(17) of this title.
+The Secretary of Agriculture shall ensure that grants made under subsections (b) and (c) of this section are, where appropriate, consistent with the development of systems of sustainable agriculture. For purposes of this section, the term “sustainable agriculture” has the meaning given that term in section 3103(17) <sup>1</sup> of this title.
 
-(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, §775, Nov. 28, 2001, 115 Stat. 746.)
+(Pub. L. 89–106, §2, Aug. 4, 1965, 79 Stat. 431; Pub. L. 95–113, title XIV, §1414, Sept. 29, 1977, 91 Stat. 991; Pub. L. 97–98, title XIV, §1415, Dec. 22, 1981, 95 Stat. 1303; Pub. L. 99–198, title XIV, §1409, Dec. 23, 1985, 99 Stat. 1546; Pub. L. 101–624, title XIV, §1497, title XVI, §§1615, 1616, Nov. 28, 1990, 104 Stat. 3630, 3729, 3732; Pub. L. 102–237, title IV, §401, Dec. 13, 1991, 105 Stat. 1862; Pub. L. 104–66, title I, §1011(v), Dec. 21, 1995, 109 Stat. 711; Pub. L. 104–127, title VIII, §885, Apr. 4, 1996, 110 Stat. 1179; Pub. L. 105–185, title II, §§211, 212, title III, §301(f), title VI, §606(h), June 23, 1998, 112 Stat. 536, 563, 604; Pub. L. 107–76, title VII, §775, Nov. 28, 2001, 115 Stat. 746; Pub. L. 107–171, title VI, §6403(b), title VII, §§7136, 7211, May 13, 2002, 116 Stat. 429, 436, 447.)
 
 #### References in Text
 
@@ -256,7 +256,15 @@ The Federal Advisory Committee Act, referred to in subsec. (j), is Pub. L. 92–
 
 The Food and Agriculture Act of 1977, referred to in subsec. (j), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
+Section 3103(17) of this title, referred to in subsec. (k), was redesignated section 3103(18) of this title by Pub. L. 107–171, title VII, §7502(a)(1), May 13, 2002, 116 Stat. 463.
+
 #### Amendments
+
+2002—Subsec. (b)(2). Pub. L. 107–171, §7211, substituted “in the areas described in subparagraphs (A) through (F). Such needs shall be determined by the Secretary, in consultation with the National Agricultural Research, Extension, Education, and Economics Advisory Board, not later than July 1 of each fiscal year for the purposes of the following fiscal year.” for “in—” in provisions preceding subpar. (A).
+
+Subsec. (b)(8)(B). Pub. L. 107–171, §6403(b), substituted “college, university, or research foundation maintained by a college or university that ranks in the lowest 1/3 of such colleges, universities, and research foundations on the basis of Federal research funds received” for “smaller college or university (as described in section 2204f(c)(2)(C)(ii) of this title)” in second sentence.
+
+Subsec. (b)(10). Pub. L. 107–171, §7136, substituted “2007” for “2002” in introductory provisions.
 
 2001—Subsec. (b)(3)(G). Pub. L. 107–76, §775(1), added subpar. (G).
 
@@ -388,5 +396,7 @@ Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 136w–7, 2209b, 3222, 3311, 3315, 3319, 5924, 5925, 5925a, 5925b, 7621 of this title.
+This section is referred to in sections 136w–7, 2209b, 3311, 3315, 3319, 5924, 5925, 5925a, 5925b, 7621 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

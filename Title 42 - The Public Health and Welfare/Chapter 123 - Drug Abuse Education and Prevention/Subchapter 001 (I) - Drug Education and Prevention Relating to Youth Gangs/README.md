@@ -1,9 +1,5 @@
 ### SUBCHAPTER I—DRUG EDUCATION AND PREVENTION RELATING TO YOUTH GANGS
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in sections 5667–1, 5667a–1 of this title.
-
 
 ---
 

@@ -88,7 +88,7 @@ Pub. L. 104–186, §1(a), Aug. 20, 1996, 110 Stat. 1718, provided that: “This
 
 #### Short Title of 1964 Amendment
 
-Section 201 of title II of Pub. L. 88–426 provided that: “This title \[enacting sections 61a, 61a–2, 61d, 61e, 60e–11,84–2, 136a, 136b, and 273 of this title, sections 42a and 51a of former Title 31, Money and Finance, sections 162a, 166b, and 166b–1 of Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44, Public Printing and Documents, amending this section and section 72a of this title, and enacting provisions set out as notes under this section and sections 60a–1 and 60f of this title\] may be cited as the ‘Federal Legislative Salary Act of 1964’.”
+Section 201 of title II of Pub. L. 88–426 provided that: “This title \[enacting sections 61a, 61a–2, 61d, 61e, 60e–11,84–2, 136a, 136b, and 273 of this title, sections 42a and 51a of former Title 31, Money and Finance, sections 162a, 166b, and 166b–1 of former Title 40, Public Buildings, Property, and Works, and section 39a of former Title 44, Public Printing and Documents, amending this section and section 72a of this title, and enacting provisions set out as notes under this section and sections 60a–1 and 60f of this title\] may be cited as the ‘Federal Legislative Salary Act of 1964’.”
 
 #### Appropriation of Funds for Compensation of Members of Congress and for Administrative Expenses at Levels Authorized by Law and Recommended by the President for Federal Employees
 
@@ -96,9 +96,11 @@ Pub. L. 97–51, §130(c), Oct. 1, 1981, 95 Stat. 966, provided that: “Effecti
 
 #### Salary Increases
 
-2002—Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 2002.
+2003—Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 2003.
 
-2001—Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided for the adjustment of pay rates effective Jan. 1, 2001, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, set out as a note under section 5332 of Title 5.
+2002—Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, which provided for the adjustment of pay rates effective Jan. 1, 2002, was superseded by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of Title 5.
+
+2001—Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided for the adjustment of pay rates effective Jan. 1, 2001, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, formerly set out as a note under section 5332 of Title 5.
 
 2000—Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for the adjustment of pay rates effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, formerly set out as a note under section 5332 of Title 5.
 
@@ -142,7 +144,7 @@ Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for the adjustmen
 
 1985—Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, which provided for the adjustment of pay rates effective Jan. 1, 1985, was superseded by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, formerly set out as a note under section 5332 of Title 5.
 
-1984—Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, which provided for the adjustment of pay rates effective Jan. 1, 1984, was superseded by Ex. Ord. No. 12496,Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, formerly set out as a note under section 5332 of Title 5.
+1984—Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, which provided for the adjustment of pay rates effective Jan. 1, 1984, was superseded by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, formerly set out as a note under section 5332 of Title 5.
 
 1983—Pub. L. 98–63, title I, §908(d), (f), July 30, 1983, 97 Stat. 338, which provided that, effective with respect to service as a Member performed on or after July 1, 1983, and notwithstanding any other provision of law, in the case of a Member serving in office or position of Senator, President pro tempore of Senate, Majority Leader of Senate, or Minority Leader of Senate during a calendar year, the annual rate of pay paid to such Member for such service would not be less than the annual rate of pay payable for such position on Dec. 17, 1982, increased by 15 percent and rounded in accordance with section 5318 of Title 5, was repealed by Pub. L. 102–90, title I, §6(c), Aug. 14, 1991, 105 Stat. 451.
 

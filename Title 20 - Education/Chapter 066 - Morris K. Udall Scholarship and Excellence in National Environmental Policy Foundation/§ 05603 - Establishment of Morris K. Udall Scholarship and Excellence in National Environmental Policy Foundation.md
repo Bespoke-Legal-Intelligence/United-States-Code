@@ -56,7 +56,7 @@ The Foundation shall be located in Tucson, Arizona.
 
 #### (1) In general
 
-&emsp;There shall be an Executive Director of the Foundation who shall be appointed by the Board. The Executive Director shall be the chief executive officer of the Foundation and shall carry out the functions of the Foundation subject to the supervision and direction of the Board. The Executive Director shall carry out such other functions consistent with the provisions of this chapter as the Board shall prescribe.
+&emsp;There shall be an Executive Director of the Foundation who shall be appointed by the Board. The Executive Director shall be the chief executive officer of the Foundation and shall carry out the functions of the Foundation subject to the supervision and direction of the Board. The Executive Director shall carry out such other functions consistent withthe provisions of this chapter as the Board shall prescribe.
 
 #### (2) Compensation
 

@@ -6,7 +6,7 @@ The Congress finds and declares that—
 
 &emsp;(b) coal mining operations presently contribute significantly to the Nation's energy requirements; surface coal mining constitutes one method of extraction of the resource; the overwhelming percentage of the Nation's coal reserves can only be extracted by underground mining methods, and it is, therefore, essential to the national interest to insure the existence of an expanding and economically healthy underground coal mining industry;
 
-&emsp;(c) many surface mining operations result in disturbances of surface areas that burden and adversely affect commerce and the public welfare by destroying or diminishing the utility of land for commercial, industrial, residential, recreational, agricultural, and forestry purposes, by causing erosion and landslides, bycontributing to floods, by polluting the water, by destroying fish and wildlife habitats, by impairing natural beauty, by damaging the property of citizens, by creating hazards dangerous to life and property by degrading the quality of life in local communities, and by counteracting governmental programs and efforts to conserve soil, water, and other natural resources;
+&emsp;(c) many surface mining operations result in disturbances of surface areas that burden and adversely affect commerce and the public welfare by destroying or diminishing the utility of land for commercial, industrial, residential, recreational, agricultural, and forestry purposes, by causing erosion and landslides, by contributing to floods, by polluting the water, by destroying fish and wildlife habitats, by impairing natural beauty, by damaging the property of citizens, by creating hazards dangerous to life and property by degrading the quality of life in local communities, and by counteracting governmental programs and efforts to conserve soil, water, and other natural resources;
 
 &emsp;(d) the expansion of coal mining to meet the Nation's energy needs makes even more urgent the establishment of appropriate standards to minimize damage to the environment and to productivity of the soil and to protect the health and safety of the public.<sup>1</sup>
 
@@ -44,7 +44,7 @@ Pub. L. 100–483, §13, Oct. 12, 1988, 102 Stat. 2341, provided that: “This A
 
 Section 1 of Pub. L. 95–87 provided: “That this Act \[enacting this chapter and amending section 1114 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘Surface Mining Control and Reclamation Act of 1977’.”
 
-Pub. L. 98–409, §11, as added by Pub. L. 100–483, §12, Oct. 12, 1988, 102 Stat. 2341; amended by Pub. L. 104–312, §1(b), Oct. 19, 1996, 110 Stat. 3819, provided that: “This Act \[enacting subchapter III of this chapter\] may be cited as the ‘Mining and Mineral Resources Institutes Act’.”
+Pub. L. 98–409, §11, as added by Pub. L. 100–483, §12, Oct. 12, 1988, 102 Stat. 2341; amended by Pub. L. 104–312, §1(b), Oct. 19, 1996, 110 Stat. 3819, provided that: “ThisAct \[enacting subchapter III of this chapter\] may be cited as the ‘Mining and Mineral Resources Institutes Act’.”
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

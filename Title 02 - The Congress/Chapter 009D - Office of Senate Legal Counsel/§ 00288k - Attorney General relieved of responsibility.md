@@ -8,7 +8,11 @@
 
 &emsp;(3) transfer all materials relevant to the representation authorized under section 288c(a) of this title to the Counsel, except that nothing in this subsection shall limit any right of the Attorney General under existing law to intervene or appear as amicus curiae in such action or proceeding.
 
-(b) The Attorney General shall notify the Counsel with respect to any proceeding in which the United States is a party of any determination by the Attorney General or Solicitor General not to appeal any court decision affecting the constitutionality of an Act or joint resolution of Congress within such time as will enable the Senate to direct the Counsel to intervene as a party in such proceeding pursuant to section 288e of this title.
+(b) The Attorney General shall notify Counsel as required by section 530D of title 28.
 
-(Pub. L. 95–521, title VII, §712, Oct. 26, 1978, 92 Stat. 1883.)
+(Pub. L. 95–521, title VII, §712, Oct. 26, 1978, 92 Stat. 1883; Pub. L. 107–273, div. A, title II, §202(b)(2), Nov. 2, 2002, 116 Stat. 1774.)
+
+#### Amendments
+
+2002—Pub. L. 107–273 added subsec. (b) and struck out former subsec. (b) which read as follows: “The Attorney General shall notify the Counsel with respect to any proceeding in which the United States is a party of any determination by the Attorney General or Solicitor General not to appeal any court decision affecting the constitutionality of an Act or joint resolution of Congress within such time as will enable the Senate to direct the Counsel to intervene as a party in such proceeding pursuant to section 288e of this title.”
 

@@ -1,8 +1,12 @@
 ### §4212. Training and technical assistance
 
-There are authorized to be appropriated for assistance for a national organization representing Native American housing interests for providing training and technical assistance to Indian housing authorities and tribally designated housing entities such sums as may be necessary for each of fiscal years 1997, 1998, 1999, 2000, and 2001.
+There are authorized to be appropriated for assistance for a national organization representing Native American housing interests for providing training and technical assistance to Indian housing authorities and tribally designated housing entities such sums as may be necessary for each of fiscal years 1997 through 2007.
 
-(Pub. L. 104–330, title VII, §703, Oct. 26, 1996, 110 Stat. 4051.)
+(Pub. L. 104–330, title VII, §703, Oct. 26, 1996, 110 Stat. 4051; Pub. L. 107–292, §2(c), Nov. 13, 2002, 116 Stat. 2053.)
+
+#### Amendments
+
+2002—Pub. L. 107–292 substituted “1997 through 2007” for “1997, 1998, 1999, 2000, and 2001”.
 
 #### Effective Date
 

@@ -1,12 +1,22 @@
 ### §1981b. Farm loan interest rates
 
-Any loan for farm ownership purposes under subchapter I of this chapter, farm operating purposes under subchapter II of this chapter, or disaster emergency purposes under subchapter III of this chapter, other than a guaranteed loan, that is deferred, consolidated, rescheduled, or reamortized under this chapter shall, notwithstanding any other provision of this chapter, bear interest on the balance of the original loan and for the term of the original loan at a rate that is the lower of (1) the rate of interest on the original loan or (2) the rate being charged by the Secretary for loans, other than guaranteed loans, of the same type at the time of the deferral, consolidation, rescheduling, or reamortization.
+Any loan for farm ownership purposes under subchapter I of this chapter, farm operating purposes under subchapter II of this chapter, or disaster emergency purposes under subchapter III of this chapter, other than a guaranteed loan, that is deferred, consolidated, rescheduled, or reamortized under this chapter shall, notwithstanding any other provision of this chapter, bear interest on the balance of the original loan and for the term of the original loan at a rate that is the lowest of—
 
-(Pub. L. 87–128, title III, §331B, as added Pub. L. 98–258, title VI, §605, Apr. 10, 1984, 98 Stat. 139.)
+&emsp;(1) the rate of interest on the original loan;
+
+&emsp;(2) the rate being charged by the Secretary for loans, other than guaranteed loans, of the same type at the time at which the borrower applies for a deferral, consolidation, rescheduling, or reamortization; or
+
+&emsp;(3) the rate being charged by the Secretary for loans, other than guaranteed loans, of the same type at the time of the deferral, consolidation, rescheduling, or reamortization.
+
+(Pub. L. 87–128, title III, §331B, as added Pub. L. 98–258, title VI, §605, Apr. 10, 1984, 98 Stat. 139; amended Pub. L. 107–171, title V, §5305, May 13, 2002, 116 Stat. 345.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
+
+#### Amendments
+
+2002—Pub. L. 107–171 substituted “lowest of—” for “lower of”, realigned margins for pars., substituted “original loan;” for “original loan or (2) the”, added par. (2), and redesignated former par. (2) as (3).
 
 #### Adjustment of Interest Rates
 

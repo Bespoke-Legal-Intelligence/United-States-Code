@@ -6,7 +6,7 @@ The Secretary of Energy shall initiate and carry out a program (hereinafter in t
 
 #### References in Text
 
-This subchapter, referred to in text, was in the original “this subtitle” and was translated as reading “thispart” meaning part D of title I of division C of Pub. L. 100–180 which enacted this subchapter, to reflect the probable intent of Congress because title I did not contain subtitles.
+This subchapter, referred to in text, was in the original “this subtitle” and was translated as reading “this part” meaning part D of title I of division C of Pub. L. 100–180 which enacted this subchapter, to reflect the probable intent of Congress because title I did not contain subtitles.
 
 #### Section Referred to in Other Sections
 

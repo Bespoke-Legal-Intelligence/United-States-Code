@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-In addition to mortgages insured under section 1750b of this title, the Secretary is authorized to insure mortgages as defined in section 1750 of this title (including advances on such mortgages during construction) which are eligible for insurance as hereinafter provided.
+In addition to mortgages insured under section 1750b of this title, the Secretary is authorized to insure mortgages as defined in section1750 of this title (including advances on such mortgages during construction) which are eligible for insurance as hereinafter provided.
 
 #### (b) Eligibility  requirements;  release  of  part  of  property
 
@@ -20,7 +20,7 @@ To be eligible for insurance under this section a mortgage shall meet the follow
 
 &emsp;(3) The mortgagor shall enter into the agreement required by section 1715r of this title.
 
-> The mortgage shall provide for complete amortization by periodic payments within such term as the Secretary shall prescribe, and shall bear interest (exclusive of premium charges for insurance) at not to exceed 41/2 per centum per annum on the amount of the principal obligation outstanding at any time. The Secretary may consent to the release of a part or parts of the mortgaged property from the lien of the mortgageupon such terms and conditions as he may prescribe and the mortgage may provide for such release.
+> The mortgage shall provide for complete amortization by periodic payments within such term as the Secretary shall prescribe, and shall bear interest (exclusive of premium charges for insurance) at not to exceed 41/2 per centum per annum on the amount of the principal obligation outstanding at any time. The Secretary may consent to the release of a part or parts of the mortgaged property from the lien of the mortgage upon such terms and conditions as he may prescribe and the mortgage may provide for such release.
 
 #### (c) Default; debentures; cash adjustment; certificate of claim
 

@@ -18,7 +18,7 @@
 
 #### (B) System institutions
 
-&emsp;&emsp;The Farm Credit System and System institutions (other than the Corporation) shallnot be liable for any debt or obligation of the Corporation.
+&emsp;&emsp;The Farm Credit System and System institutions (other than the Corporation) shall not be liable for any debt or obligation of the Corporation.
 
 #### (b) Duties
 

@@ -54,7 +54,7 @@ Section 2 of Pub. L. 101–590 provided that: “The Congress finds that—
 
 &emsp;“(5) few States and communities have developed and implemented trauma care systems;
 
-&emsp;“(6) many trauma centers have incurred substantial uncompensated costs in providing trauma care, andsuch costs have caused many such centers to cease participation in trauma care systems; and
+&emsp;“(6) many trauma centers have incurred substantial uncompensated costs in providing trauma care, and such costs have caused many such centers to cease participation in trauma care systems; and
 
 &emsp;“(7) the number of incidents of physical trauma in the United States is a serious medical and social problem, and the number of deaths resulting from such incidents can be substantially reduced by improving the trauma-care components of the systems for the provision of emergency medical services in the United States.”
 

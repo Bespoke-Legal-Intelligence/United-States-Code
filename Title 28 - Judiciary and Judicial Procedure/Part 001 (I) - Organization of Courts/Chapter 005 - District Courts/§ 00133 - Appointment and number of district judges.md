@@ -1,6 +1,6 @@
 ### §133. Appointment and number of district judges
 
-(a) The President shall appoint, by and with the advice and consent of the Senate, districtjudges for the several judicial districts, as follows:
+(a) The President shall appoint, by and with the advice and consent of the Senate, district judges for the several judicial districts, as follows:
 
 &nbsp;
 
@@ -19,7 +19,7 @@
 | Northern | 14&nbsp;&nbsp; |
 | Eastern | 6&nbsp;&nbsp; |
 | Central | 27&nbsp;&nbsp; |
-| Southern | 8&nbsp;&nbsp; |
+| Southern | 13&nbsp;&nbsp; |
 | Colorado | 7&nbsp;&nbsp; |
 | Connecticut | 8&nbsp;&nbsp; |
 | Delaware | 4&nbsp;&nbsp; |
@@ -36,8 +36,8 @@
 | Idaho | 2&nbsp;&nbsp; |
 | Illinois: |  |
 | Northern | 22&nbsp;&nbsp; |
-| Central | 3&nbsp;&nbsp; |
-| Southern | 3&nbsp;&nbsp; |
+| Central | 4&nbsp;&nbsp; |
+| Southern | 4&nbsp;&nbsp; |
 | Indiana: |  |
 | Northern | 5&nbsp;&nbsp; |
 | Southern | 5&nbsp;&nbsp; |
@@ -74,20 +74,20 @@
 | New Jersey | 17&nbsp;&nbsp; |
 | New Mexico | 6&nbsp;&nbsp; |
 | New York: |  |
-| Northern | 4&nbsp;&nbsp; |
+| Northern | 5&nbsp;&nbsp; |
 | Southern | 28&nbsp;&nbsp; |
 | Eastern | 15&nbsp;&nbsp; |
 | Western | 4&nbsp;&nbsp; |
 | North Carolina: |  |
 | Eastern | 4&nbsp;&nbsp; |
 | Middle | 4&nbsp;&nbsp; |
-| Western | 3&nbsp;&nbsp; |
+| Western | 4&nbsp;&nbsp; |
 | North Dakota | 2&nbsp;&nbsp; |
 | Ohio: |  |
 | Northern | 11&nbsp;&nbsp; |
 | Southern | 8&nbsp;&nbsp; |
 | Oklahoma: |  |
-| Northern | 3&nbsp;&nbsp; |
+| Northern | 3   |
 | Eastern | 1&nbsp;&nbsp; |
 | Western | 6&nbsp;&nbsp; |
 | Northern, Eastern, and Western | 1&nbsp;&nbsp; |
@@ -108,11 +108,11 @@
 | Northern | 12&nbsp;&nbsp; |
 | Southern | 19&nbsp;&nbsp; |
 | Eastern | 7&nbsp;&nbsp; |
-| Western | 11&nbsp;&nbsp; |
+| Western | 13&nbsp;&nbsp; |
 | Utah | 5&nbsp;&nbsp; |
 | Vermont | 2&nbsp;&nbsp; |
 | Virginia: |  |
-| Eastern | 10&nbsp;&nbsp; |
+| Eastern | 11&nbsp;&nbsp; |
 | Western | 4&nbsp;&nbsp; |
 | Washington: |  |
 | Eastern | 4&nbsp;&nbsp; |
@@ -129,7 +129,7 @@
 
 (2) For purposes of paragraph (1), the term “office of Federal judicial administration” means a position as Director of the Federal Judicial Center, Director of the Administrative Office of the United States Courts, or administrative assistant to the Chief Justice.
 
-(June 25, 1948, ch. 646, 62 Stat. 895; Aug. 3, 1949, ch. 387, §2(a), 63 Stat. 493; Aug. 14, 1950, ch. 708, 64 Stat. 443; Aug. 29, 1950, ch. 819, §1, 64 Stat. 562; Sept. 5, 1950, ch. 848, §1, 64 Stat. 578; Feb. 10, 1954, ch. 6, §2(a)(3), 68 Stat. 9; Pub. L. 85–310, Sept. 7, 1957, 71 Stat. 631; Pub. L. 85–508, §12(c), July 7, 1958, 72 Stat. 348; Pub. L. 86–3, §9(b), Mar. 18, 1959, 73 Stat. 8; Pub. L. 87–36, §2(d), May 19, 1961, 75 Stat. 81; Pub. L. 87–562, §3, July 30, 1962, 76 Stat. 248; Pub. L. 89–242, §1(c), Oct. 7, 1965, 79 Stat. 951; Pub. L. 89–372, §4, Mar. 18, 1966, 80 Stat. 77; Pub. L. 91–272, §1(d), June 2, 1970, 84 Stat. 295; Pub. L. 92–208, §3(d), Dec. 18, 1971, 85 Stat. 742; Pub. L. 95–408, §4(b)(2), Oct. 2, 1978, 92 Stat. 885; Pub. L. 95–486, §1(c), Oct. 20, 1978, 92 Stat. 1630; Pub. L. 97–471, §3, Jan. 14, 1983, 96 Stat. 2601; Pub. L. 98–353, title II, §202(e), July 10, 1984, 98 Stat. 348; Pub. L. 101–650, title II, §203(d), title III, §303, Dec. 1, 1990, 104 Stat. 5101, 5105; Pub. L. 105–53, §4, Oct. 6, 1997, 111 Stat. 1174; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §309(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–553, §1(a)(2) \[title III, §305(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–85.)
+(June 25, 1948, ch. 646, 62 Stat. 895; Aug. 3, 1949, ch. 387, §2(a), 63 Stat. 493; Aug. 14, 1950, ch. 708, 64 Stat. 443; Aug. 29, 1950, ch. 819, §1, 64 Stat. 562; Sept. 5, 1950, ch. 848, §1, 64 Stat. 578; Feb. 10, 1954, ch. 6, §2(a)(3), 68 Stat. 9; Pub. L. 85–310, Sept. 7, 1957, 71 Stat. 631; Pub. L. 85–508, §12(c), July 7, 1958, 72 Stat. 348; Pub. L. 86–3, §9(b), Mar. 18, 1959, 73 Stat. 8; Pub. L. 87–36, §2(d), May 19, 1961, 75 Stat. 81; Pub. L. 87–562, §3, July 30, 1962, 76 Stat. 248; Pub. L. 89–242, §1(c), Oct. 7, 1965, 79 Stat. 951; Pub. L. 89–372, §4, Mar. 18, 1966, 80 Stat. 77; Pub. L. 91–272, §1(d), June 2, 1970, 84 Stat. 295; Pub. L. 92–208, §3(d), Dec. 18, 1971, 85 Stat. 742; Pub. L. 95–408, §4(b)(2), Oct. 2, 1978, 92 Stat. 885; Pub. L. 95–486, §1(c), Oct. 20, 1978, 92 Stat. 1630; Pub. L. 97–471, §3, Jan. 14, 1983, 96 Stat. 2601; Pub. L. 98–353, title II, §202(e), July 10, 1984, 98 Stat. 348; Pub. L. 101–650, title II, §203(d), title III, §303, Dec. 1, 1990, 104 Stat. 5101, 5105; Pub. L. 105–53, §4, Oct. 6, 1997, 111 Stat. 1174; Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §309(b)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–37; Pub. L. 106–553, §1(a)(2) \[title III, §305(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–85; Pub. L. 107–273, div. A, title III, §312(a)(2), (b)(2), Nov. 2, 2002, 116 Stat. 1786, 1787.)
 
 #### Historical and Revision Notes
 
@@ -179,13 +179,15 @@ Paragraph (2) of subsection (b) of section 4 of Pub. L. 95–408, cited as a cre
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–553 increased number of permanent district judgeships as follows: in Arizona from 11 to 12, in Southern District of Florida from 16 to 17, in Eastern District of Kentucky from 4 to 5, in Nevada from 6 to 7, in New Mexico from 5 to 6, in South Carolina from 9 to 10, in Southern District of Texas from 18 to 19, in Western District of Texas from 10 to 11, in Eastern District of Virginia from 9 to 10, and in Eastern District of Wisconsin from 4 to 5.
+2002—Subsec. (a). Pub. L. 107–273 increased number of permanent district judgeships as follows: in Southern District of California from 8 to 13, in Central and Southern Districts of Illinois from 3 to 4, in Northern District of New York from 4 to 5, in Western District of North Carolina from 3 to 4, in Western District of Texas from 11 to 13, and in Eastern District of Virginia from 10 to 11.
 
-<b>1999</b>—Subsec. (a). Pub. L. 106–113 increased number of permanent district judgeships in Arizona from 8 to 11, increased number of permanent district judgeships in Middle District of Florida from 11 to 15, and increased number of permanent district judgeships in Nevada from 4 to 6.
+2000—Subsec. (a). Pub. L. 106–553 increased number of permanent district judgeships as follows: in Arizona from 11 to 12, in Southern District of Florida from 16 to 17, in Eastern District of Kentucky from 4 to 5, in Nevada from 6 to 7, in New Mexico from 5 to 6, in South Carolina from 9 to 10, in Southern District of Texas from 18 to 19, in Western District of Texas from 10 to 11, in Eastern District of Virginia from 9 to 10, and in Eastern District of Wisconsin from 4 to 5.
 
-<b>1997</b>—Subsec. (a). Pub. L. 105–53 in item relating to Louisiana, reduced number of permanent districtjudgeships in Eastern District from 13 to 12 and increased number in Middle District from 2 to 3.
+1999—Subsec. (a). Pub. L. 106–113 increased number of permanent district judgeships in Arizona from 8 to 11, increased number of permanent district judgeships in Middle District of Florida from 11 to 15, and increased number of permanent district judgeships in Nevada from 4 to 6.
 
-<b>1990</b>—Pub. L. 101–650, §303(1), designated existing provisions as subsec. (a) and added subsec. (b).
+1997—Subsec. (a). Pub. L. 105–53 in item relating to Louisiana, reduced number of permanent district judgeships in Eastern District from 13 to 12 and increased number in Middle District from 2 to 3.
+
+1990—Pub. L. 101–650, §303(1), designated existing provisions as subsec. (a) and added subsec. (b).
 
 Pub. L. 101–650, §203(d), altered number of permanent district judgeships in named districts as follows:
 
@@ -314,7 +316,7 @@ Pub. L. 101–650, §203(d), altered number of permanent district judgeships in 
 | Western | 2 | 2 |
 | Wyoming | 2 | 3 |
 
-<b>1984</b>—Pub. L. 98–353 altered number of permanent district judgeships in named districts as follows:
+1984—Pub. L. 98–353 altered number of permanent district judgeships in named districts as follows:
 
 &nbsp;
 
@@ -441,9 +443,9 @@ Pub. L. 101–650, §203(d), altered number of permanent district judgeships in 
 | Western | 2 | 2 |
 | Wyoming | 1 | 2 |
 
-<b>1983</b>—Pub. L. 97–471 in item relating to West Virginia increased the number of judges for the Northern District from 1 to 2, increased the number of judges for the Southern District from 3 to 4, and struck out an item which had authorized a Northern and Southern District with 1 judge.
+1983—Pub. L. 97–471 in item relating to West Virginia increased the number of judges for the Northern District from 1 to 2, increased the number of judges for the Southern District from 3 to 4, and struck out an item which had authorized a Northern and Southern District with 1 judge.
 
-<b>1978</b>—Pub. L. 95–486 altered the number of permanent district judgeships in the named districts as follows:
+1978—Pub. L. 95–486 altered the number of permanent district judgeships in the named districts as follows:
 
 &nbsp;
 
@@ -573,9 +575,9 @@ Pub. L. 101–650, §203(d), altered number of permanent district judgeships in 
 
 Pub. L. 95–408 substituted “Central” for “Southern” and “Southern” for “Eastern” in item relating to Illinois.
 
-<b>1971</b>—Pub. L. 92–208 created a Middle District in the Louisiana listing with one judge and reduced from 10 to 9 the number of judges for the Eastern District of Louisiana.
+1971—Pub. L. 92–208 created a Middle District in the Louisiana listing with one judge and reduced from 10 to 9 the number of judges for the Eastern District of Louisiana.
 
-<b>1970</b>—Pub. L. 91–272 altered the number of permanent district judgeships in the named districts as follows:
+1970—Pub. L. 91–272 altered the number of permanent district judgeships in the named districts as follows:
 
 &nbsp;
 
@@ -633,7 +635,7 @@ Pub. L. 95–408 substituted “Central” for “Southern” and “Southern”
 | West Virginia: Southern | 1 | 2 |
 | Wisconsin: Eastern | 2 | 3 |
 
-<b>1966</b>—Pub. L. 89–372 altered the number of permanent district judgeships in the named districts as follows:
+1966—Pub. L. 89–372 altered the number of permanent district judgeships in the named districts as follows:
 
 &nbsp;
 
@@ -669,11 +671,11 @@ Pub. L. 95–408 substituted “Central” for “Southern” and “Southern”
 | Vermont | 1 | 2 |
 | Virginia: Eastern | 3 | 5 |
 
-<b>1965</b>—Pub. L. 89–242 changed the South Carolina listing by removing references to an Eastern and Western District, with 1 judge listed for the Eastern, 1 judge for the Western, and 2 judges for the Eastern and Western combined, and substituted therefor a single reference to a South Carolina District with 4 judges.
+1965—Pub. L. 89–242 changed the South Carolina listing by removing references to an Eastern and Western District, with 1 judge listed for the Eastern, 1 judge for the Western, and 2 judges for the Eastern and Western combined, and substituted therefor a single reference to a South Carolina District with 4 judges.
 
-<b>1962</b>—Pub. L. 87–562 amended the Florida listing by adding the Middle District with its designation of 3 judges, substituted “Northern, Middle, and Southern” for “Northern and Southern”, and reduced the number of judges in the Southern District from 6 to 3.
+1962—Pub. L. 87–562 amended the Florida listing by adding the Middle District with its designation of 3 judges, substituted “Northern, Middle, and Southern” for “Northern and Southern”, and reduced the number of judges in the Southern District from 6 to 3.
 
-<b>1961</b>—Pub. L. 87–36 increased the number of permanent district judgeships in the named districts as follows:
+1961—Pub. L. 87–36 increased the number of permanent district judgeships in the named districts as follows:
 
 &nbsp;
 
@@ -747,13 +749,13 @@ Pub. L. 95–408 substituted “Central” for “Southern” and “Southern”
 | Washington: |  |  |
 | Western | 2 | 3 |
 
-<b>1959</b>—Pub. L. 86–3 struck out provisions that restricted eligibility for appointment as district judges for the district of Hawaii to citizens of the Territory of Hawaii who have resided therein for at least three years.
+1959—Pub. L. 86–3 struck out provisions that restricted eligibility for appointment as district judges for the district of Hawaii to citizens of the Territory of Hawaii who have resided therein for at least three years.
 
-<b>1958</b>—Pub. L. 85–508 inserted “Alaska ———— 1”.
+1958—Pub. L. 85–508 inserted “Alaska ———— 1”.
 
-<b>1957</b>—Pub. L. 85–310 increased the number of permanent judgeships in the district of South Dakota from 1 to 2.
+1957—Pub. L. 85–310 increased the number of permanent judgeships in the district of South Dakota from 1 to 2.
 
-<b>1954</b>—Act Feb. 10, 1954, increased the number of permanent judgeships in the named districts as follows:
+1954—Act Feb. 10, 1954, increased the number of permanent judgeships in the named districts as follows:
 
 &nbsp;
 
@@ -795,13 +797,13 @@ Pub. L. 95–408 substituted “Central” for “Southern” and “Southern”
 | Wisconsin: |  |  |
 | Eastern | 1 | 2 |
 
-<b>1950</b>—Act Sept. 5, 1950, increased the number of permanent judgeships in the district of Delaware from 1 to 2.
+1950—Act Sept. 5, 1950, increased the number of permanent judgeships in the district of Delaware from 1 to 2.
 
 Act Aug. 29, 1950, increased the number of permanent judgeships in the western district of Pennsylvania from 3 to 4.
 
 Act Aug. 14, 1950, increased the number of permanent judgeships in the northern district of Illinois from 6 to 8.
 
-<b>1949</b>—Act Aug. 3, 1949, increased the numbers of permanent judgeships in the named districts as follows:
+1949—Act Aug. 3, 1949, increased the numbers of permanent judgeships in the named districts as follows:
 
 &nbsp;
 
@@ -829,6 +831,16 @@ Act Aug. 14, 1950, increased the number of permanent judgeships in the northern 
 | Texas: |  |  |
 | Southern | 2 | 3 |
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–273, div. A, title III, §312(a)(3), Nov. 2, 2002, 116 Stat. 1787, provided that: “This subsection \[amending this section and enacting provisions set out as a note under this section\] shall take effect on July 15, 2003.”
+
+Pub. L. 107–273, div. A, title III, §312(b)(3), Nov. 2, 2002, 116 Stat. 1788, provided that: “With respect to the central or southern district of Illinois, the northern district of New York, or the eastern district of Virginia, this subsection \[amending this section and enacting provisions set out as a note under this section\] shall take effect on the earlier of—
+
+&emsp;“(A) the date on which the first vacancy in the office of district judge occurs in such district; or
+
+&emsp;“(B) July 15, 2003.”
+
 #### Effective Date of 1978 Amendment; Waiver of Standards and Guidelines; Failure To Comply
 
 Section 7 of Pub. L. 95–486 provided that:
@@ -845,7 +857,7 @@ Section 11 of Pub. L. 95–486 provided that: “Notwithstanding any other provi
 
 #### Effective Date of 1978 Amendment; Savings Provision
 
-Amendment by Pub. L. 95–408 effective 180 days after Oct. 2, 1978, with such amendment not to affect thecomposition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on the effective date of this Act, see section 5 of Pub. L. 95–408, set out as a note under section 89 of this title.
+Amendment by Pub. L. 95–408 effective 180 days after Oct. 2, 1978, with such amendment not to affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on the effective date of this Act, see section 5 of Pub. L. 95–408, set out as a note under section 89 of this title.
 
 #### Effective Date of 1971 Amendment
 
@@ -868,6 +880,48 @@ Section 9 of Pub. L. 86–3 provided in part that the amendment of this section 
 Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. 16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Additional Judgeships
+
+Pub. L. 107–273, div. A, title III, §312(a)(1), Nov. 2, 2002, 116 Stat. 1786, provided that: “The President shall appoint, by and with the advice and consent of the Senate—
+
+&emsp;“(A) 5 additional district judges for the southern district of California;
+
+&emsp;“(B) 1 additional district judge for the western district of North Carolina; and
+
+&emsp;“(C) 2 additional district judges for the western district of Texas.”
+
+Pub. L. 107–273, div. A, title III, §312(b)(1), Nov. 2, 2002, 116 Stat. 1787, provided that: “The existing district judgeships for the central district and the southern district of Illinois, the northern district of New York, and the eastern district of Virginia authorized by section 203(c)(3), (4), (9), and (12) of the Judicial Improvements Act of 1990 (Public Law 101–650, 28 U.S.C. 133 note \[set out below\]) shall be authorized under section 133 of title 28, United States Code, and the incumbents in such offices shall hold the offices under section 133 of title 28, United States Code (as amended by this section).”
+
+Pub. L. 107–273, div. A, title III, §312(c), Nov. 2, 2002, 116 Stat. 1788, provided that:
+
+“(c)
+
+Temporary Judgeships.—
+
+&emsp;“(1)
+
+In general.—The President shall appoint, by and with the advice and consent of the Senate—
+
+&emsp;&emsp;“(A) 1 additional district judge for the northern district of Alabama;
+
+&emsp;&emsp;“(B) 1 additional judge for the district of Arizona;
+
+&emsp;&emsp;“(C) 1 additional judge for the central district of California;
+
+&emsp;&emsp;“(D) 1 additional judge for the southern district of Florida;
+
+&emsp;&emsp;“(E) 1 additional district judge for the district of New Mexico;
+
+&emsp;&emsp;“(F) 1 additional district judge for the western district of North Carolina; and
+
+&emsp;&emsp;“(G) 1 additional district judge for the eastern district of Texas.
+
+&emsp;“(2)
+
+Vacancies not filled.—The first vacancy in the office of district judge in each of the offices of district judge authorized by this subsection, occurring 10 years or more after the confirmation date of the judge named to fill the temporary district judgeship created in the applicable district by this subsection, shall not be filled.
+
+&emsp;“(3)
+
+Effective date.—This subsection shall take effect on July 15, 2003.”
 
 Pub. L. 106–553, §1(a)(2) \[title III, §305(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–84, provided that: “The President shall appoint, by and with the advice and consent of the Senate—
 
@@ -899,7 +953,7 @@ Pub. L. 106–113, div. B, §1000(a)(1) \[title III, §309(a)\], Nov. 29, 1999, 
 
 &emsp;“(3) two additional district judges for the district of Nevada.”
 
-Section 203(a)–(c) of title II of Pub. L. 101–650, as amended by Pub. L. 104–60, §1, Nov. 28, 1995, 109 Stat. 635; Pub. L. 104–317, title III, §304, Oct. 19, 1996, 110 Stat. 3852; Pub. L. 105–53, §3, Oct. 6, 1997, 111 Stat. 1173, provided that:
+Section 203(a)–(c) of title II of Pub. L. 101–650, as amended by Pub. L. 104–60, §1, Nov. 28, 1995, 109 Stat. 635; Pub. L. 104–317, title III, §304, Oct. 19, 1996, 110 Stat. 3852; Pub. L. 105–53, §3, Oct. 6, 1997, 111 Stat. 1173; Pub. L. 107–273, div. A, title III, §312(d)(1), Nov. 2, 2002, 116 Stat. 1788, provided that:
 
 “(a)
 
@@ -989,7 +1043,7 @@ In General.—The President shall appoint, by and with the advice and consent of
 
 “(b)
 
-Existing Judgeships.—(1) The existing district judgeships for the western district of Arkansas, the northern district of Illinois, the northern district of Indiana, the district of Massachusetts, the western district of New York, the eastern district of North Carolina, the northern district of Ohio, and the western district of Washington authorized by section 202(b) of the Bankruptcy Amendments and Federal Judgeship Act of 1984 (Public Law 98–353, 98 Stat. 347–348) \[set out below\] shall, as of the effective date of this title \[Dec. 1, 1990\], be authorized under section 133 of title 28, United States Code, and the incumbents in those offices shall hold the office under section 133 of title 28, United States Code, as amended by this title.
+Existing Judgeships.—(1) The existing district judgeships for the western district of Arkansas, the northern district of Illinois, the northern district of Indiana, the district of Massachusetts, the western district of New York, the eastern district of North Carolina, the northern district of Ohio, and the western district of Washington authorized by section 202(b) of the Bankruptcy Amendments and Federal Judgeship Act of 1984 (Public Law 98–353, 98 Stat. 347–348) \[set out below\] shall, as of the effective date of this title \[Dec. 1, 1990\], be authorized under section 133 of title 28, United States Code, and the incumbents in those offices shallhold the office under section 133 of title 28, United States Code, as amended by this title.
 
 “(2)(A) The existing 2 district judgeships for the eastern and western districts of Arkansas (provided by section 133 of title 28, United States Code, as in effect on the day before the effective date of this title) shall be district judgeships for the eastern district of Arkansas only, and the incumbents of such judgeships shall hold the offices under section 133 of title 28, United States Code, as amended by this title.
 
@@ -1025,7 +1079,9 @@ Temporary Judgeships.—The President shall appoint, by and with the advice and 
 
 &emsp;“(12) 1 additional district judge for the eastern district of Virginia.
 
-> Except with respect to the western district of Michigan and the eastern district of Pennsylvania, the first vacancy in the office of district judge in each of the judicial districts named in this subsection, occurring 10 years or more after the confirmation date of the judge named to fill the temporary judgeship created by this subsection, shall not be filled. The first vacancy in the office of district judge in the western district of Michigan, occurring after December 1, 1995, shall not be filled. The first vacancy in the office of district judge in the eastern district of Pennsylvania, occurring 5 years or more after the confirmation date of the judge named to fill the temporary judgeship created for such district under this subsection, shall not be filled. For districts named in this subsection for which multiple judgeships are created by this Act, the last of those judgeships filled shall be the judgeships created under this section.”
+> Except with respect to the western district of Michigan, the eastern district of Pennsylvania, and the northern district of Ohio, the first vacancy in the office of district judge in each of the judicial districts named in this subsection, occurring 10 years or more after the confirmation date of the judge named to fill the temporary judgeship created by this subsection, shall not be filled. The first vacancy in the office of district judge in the western district of Michigan, occurring after December 1, 1995, shall not be filled. The first vacancy in the office of district judge in the eastern district of Pennsylvania, occurring 5 years or more after the confirmation date of the judge named to fill the temporary judgeship created for such district under this subsection, shall not be filled. The first vacancy in the office of district judge in the northern district of Ohio occurring 15 years or more after the confirmation date of the judge named to fill the temporary judgeship created under this subsection shall not be filled. For districts named in this subsection for which multiple judgeships are created by this Act, the last of those judgeships filled shall be the judgeships created under this section.”
+
+\[Pub. L. 107–273, div. A, title III, §312(d)(2), Nov. 2, 2002, 116 Stat. 1788, provided that: “The amendments made by this subsection \[amending section 203(c) of Pub. L. 101–650, set out above\] shall take effect on the date of enactment of this Act \[Nov. 2, 2002\].”\]
 
 Section 202(a)–(d) of Pub. L. 98–353 provided that:
 
@@ -1033,9 +1089,9 @@ Section 202(a)–(d) of Pub. L. 98–353 provided that:
 
 “(b) Subject to the provisions of subsection (c) the President shall appoint, by and with the advice and consent of the Senate, one additional district judge for the western district of Arkansas, one additional district judge for the northern district of Illinois, one additional district judge for the northern district of Indiana, one additional district judge for the district of Massachusetts, one additional district judge for the western district of New York, one additional district judge for the eastern district of North Carolina, one additional district judge for the northern district of Ohio, and one additional district judge for the western district of Washington. The first vacancy in each of the offices of district judge authorized by this subsection, occurring five years or more after the effective date of this Act \[probably means July 10, 1984\], shall not be filled.
 
-“(c) For the judgeships created in subsections (a) and (b), the President shall appoint, by and with the adviceand consent of the Senate, no more than twenty-nine of such judges prior to January 21, 1985.
+“(c) For the judgeships created in subsections (a) and (b), the President shall appoint, by and with the advice and consent of the Senate, no more than twenty-nine of such judges prior to January 21, 1985.
 
-“(d) The existing district judgeship for the district of Minnesota and the existing district judgeship for the northern district of Ohio, heretofore authorized by section 2 of the Act of October 20, 1978 (Public Law 95–486, 92 Stat. 1631) \[set out below\], shall, as of the effective date of this Act \[probably means July 10, 1984\], be authorized under section 133 of title 28, United States Code, and the incumbents of those offices shall henceforth hold their offices under section 133, as amended by this Act.”
+“(d) The existing district judgeship for the district of Minnesota and the existing district judgeship for the northern district of Ohio, heretofore authorized by section 2 of the Act of October 20, 1978 (Public Law 95–486, 92 Stat. 1631) \[set out below\], shall, as of the effective date of this Act \[probably means July 10, 1984\], be authorized under section 133 of title 28, United StatesCode, and the incumbents of those offices shall henceforth hold their offices under section 133, as amended by this Act.”
 
 Section 1(a) of Pub. L. 95–486 provided that: “The President shall appoint, by and with the advice and consent of the Senate, three additional district judges for the northern district of Alabama, one additional district judge for the middle district of Alabama, three additional district judges for the district of Arizona, two additional district judges for the eastern district of Arkansas, one additional district judge for the northern district of California, three additional district judges for the eastern district of California, one additional district judge for the central district of California, two additional district judges for the southern district of California, two additional district judges for the district of Colorado, one additional district judge for the district of Connecticut, one additional district judge for the northern district of Florida, three additional district judges for the middle district of Florida, five additional district judges for the southern district of Florida, five additional district judges for the northern district of Georgia, one additional district judge for the southern district of Georgia, three additional district judges for the northern district of Illinois, one additional district judge for the central district of Illinois, one additional district judge for the northern district of Indiana, one additional district judge for the southern district of Indiana, one additional district judge for the southern district of Iowa, one additional district judge for the district of Kansas, two additional district judges for the eastern district of Kentucky, four additional district judges for the eastern district of Louisiana, one additional district judge for the middle district of Louisiana, one additional district judge for the western district of Louisiana, one additional district judge for the district of Maine, two additional district judges for the district of Maryland, four additional district judges for the district of Massachusetts, three additional district judges for the eastern district of Michigan, two additional district judges for the western district of Michigan, one additional district judge for the district of Minnesota, one additional district judge for the eastern district of Missouri, two additional district judges for the western district of Missouri, one additional district judge for the district of Nevada, one additional district judge for the district of New Hampshire, two additional district judges for the district of New Jersey, one additional district judge for the district of New Mexico, one additional district judge for the northern district of New York, one additional district judge for the eastern district of New York, one additional district judge for the eastern district of North Carolina, one additional district judge for the middle district of North Carolina, one additional district judge for the western district of North Carolina, one additional district judge for the northern district of Ohio, one additional district judge for the southern district of Ohio, one additional district judge for the western district of Oklahoma, one additional district judge for the northern district of Oklahoma, two additional district judges for the district of Oregon, two additional district judges for the middle district of Pennsylvania, four additional district judges for the district of Puerto Rico, three additional district judges for the district of South Carolina, one additional district judge for the district of South Dakota, one additional district judge for the middle district of Tennessee, three additional district judges for the northern district of Texas, one additional district judge for the eastern district of Texas, five additional district judges for the southern district of Texas, one additional district judge for the western district of Texas, one additional district judge for the district of Utah, two additional district judges for the eastern district of Virginia, two additional district judges for the western district of Virginia, one additional district judge for the eastern district of Washington, one additional district judge for the western district of Washington, one additional district judge for the southern district of West Virginia, one additional district judge for the eastern district of Wisconsin, and one additional district judge for the western district of Wisconsin.”
 
@@ -1043,7 +1099,7 @@ Section 2 of Pub. L. 95–486 provided that: “The President shall appoint, by 
 
 Section 1(a) of Pub. L. 91–272 provided that: “The President shall appoint, by and with the advice and consent of the Senate, one additional district judge for the northern district of Alabama, one additional district judge for the middle district of Alabama, one additional district judge for the district of Arizona, two additional district judges for the northern district of California, three additional district judges for the central district of California, three additional district judges for the southern district of California, one additional district judge for the district of Colorado, one additional district judge for the middle district of Florida, two additional district judges for the southern district of Florida, three additional district judges for the northern district of Georgia, one additional district judge for the southern district of Georgia, two additional district judges for the northern district of Illinois, one additional district judge for the eastern district of Kentucky, one additional district judge for the western district of Kentucky, two additional district judges for the eastern district of Louisiana, one additional district judge for the western district of Louisiana, two additional district judges for the district of Maryland, two additional district judges for the eastern district of Michigan, one additional district judge for the eastern district of Missouri, one additional district judge for the district of Nebraska, one additional district judge for the district of New Jersey, one additional district judge for the district of New Mexico, one additional district judge for the eastern district of New York, three additional district judges for the southern district of New York, one additional district judge for the northern district of Ohio, one additional district judge for the southern district of Ohio, six additional district judges for the eastern district of Pennsylvania, two additional district judges for the western district of Pennsylvania, one additional district judge for the district of Puerto Rico, one additional district judge for the district of South Carolina, one additional district judge for the western district of Tennessee, one additional district judge for the northern district of Texas, one additional district judge for the eastern district of Texas, one additional district judge for the southern district of Texas, one additional district judge for the western district of Texas, one additional district judge for the eastern district of Virginia, and one additional district judge for the southern district of West Virginia.”
 
-Section 2(a) of Pub. L. 89–372 provided that: The President shall appoint, by and with the advice and consent of the Senate, one district judge for the middle and southern districts of Alabama, one additional district judge for the district of Arizona, one additional district judge for the northern district of Florida, one additional district judge for the middle district of Florida, two additional district judges for the southern district of Florida, one additional district judge for thenorthern district of Illinois, one additional district judge for the southern district of Indiana, four additional district judges for the eastern district of Louisiana, one additional district judge for the district of Maryland, one additional district judge for the northern district of Mississippi, one additional district judge for the southern district of Mississippi, one additional district judge for the western district of New York, one additional district judge for the northern district of Ohio, one additional district judge for the southern district of Ohio, one additional district judge for the district of Rhode Island, two additional district judges for the southern district of Texas, one additional district judge for the western district of Texas, two additional district judges for the eastern district of Virginia, and one additional district judge for the district of Vermont.”
+Section 2(a) of Pub. L. 89–372 provided that: The President shall appoint, by and with the advice and consent of the Senate, one district judge for the middle and southern districts of Alabama, one additional district judge for the district of Arizona, one additional district judge for the northern district of Florida, one additional district judge for the middle district of Florida, two additional district judges for the southern district of Florida, one additional district judge for the northern district of Illinois, one additional district judge for the southern district of Indiana, four additional district judges for the eastern district of Louisiana, one additional district judge for the district of Maryland, one additional district judge for the northern district of Mississippi, one additional district judge for the southern district of Mississippi, one additional district judge for the western district of New York, one additional district judge for the northern district ofOhio, one additional district judge for the southern district of Ohio, one additional district judge for the district of Rhode Island, two additional district judges for the southern district of Texas, one additional district judge for the western district of Texas, two additional district judges for the eastern district of Virginia, and one additional district judge for the district of Vermont.”
 
 Section 2(a) of Pub. L. 87–36 provided that: “The President shall appoint, by and with the advice and consent of the Senate, one additional district judge for the northern district of Alabama, one additional district judge for the district of Alaska, one additional district judge for the district of Arizona, one additional district judge for the eastern and western districts of Arkansas, two additional district judges for the northern district of California, two additional district judges for the southern district of California, one additional district judge for the district of Colorado, two additional district judges for the district of Connecticut, two additional district judges for the southern district of Florida, one additional district judge for the northern district of Georgia, two additional district judges for the northern district of Illinois, one additional district judge for the northern district of Indiana, one additional district judge for the southern district of Indiana, one additional district judge for the northern and southern districts of Iowa, one additional district judge for the district of Kansas, two additional district judges for the eastern district of Louisiana, one additional district judge for the western district of Louisiana, two additional district judges for the district of Maryland, one additional district judge for the district of Massachusetts, two additional district judges for the eastern district of Michigan, one additional district judge for the southern district of Mississippi, one additional district judge for the western district of Missouri, one additional district judge for the district of Nevada, one additional district judge for the district of New Jersey, two additional district judges for the eastern district of New York, six additional district judges for the southern district of New York, one additional district judge for the eastern district of North Carolina, one additional district judge for the middle district of North Carolina, one additional district judge for the western district of North Carolina, one additional district judge for the northern district of Ohio, one additional district judge for the northern, eastern, and western districts of Oklahoma, three additional district judges for the eastern district of Pennsylvania, one additional district judge for the middle district of Pennsylvania, two additional district judges for the western district of Pennsylvania, one additional district judge for the district of Puerto Rico, one additional district judge for the eastern and western districts of South Carolina, one additional district judge for the eastern district of Tennessee, one additional district judge for the middle district of Tennessee, one additional district judge for the western district of Tennessee, two additional district judges for the northern district of Texas, one additional district judge for the southern district of Texas, one additional district judge for the western district of Texas and one additional district judge for the eastern and western districts of Washington.”
 
@@ -1075,7 +1131,7 @@ Subsec. (a)(1) of section 2 of act Feb. 10, 1954, subsec. (a)(3) of which sectio
 
 Section 2(e)(1), (2) of Pub. L. 87–36 provided that:
 
-“(1) The President shall appoint, by and with the advice and consent of the Senate, one additional district judge for the southern district of Ohio. The first vacancy occurring in the office of district judge in said district shall not be filled.
+“(1) The President shall appoint, by and with the advice and consent of the Senate, one additional districtjudge for the southern district of Ohio. The first vacancy occurring in the office of district judge in said district shall not be filled.
 
 “(2) The President shall appoint, by and with the advice and consent of the Senate, one additional district judge for the northern district of Ohio. The first vacancy occurring in the office of district judge in said district shall not be filled.”
 

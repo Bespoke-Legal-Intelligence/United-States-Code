@@ -16,7 +16,7 @@ Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849
 
 Ex. Ord. No. 12448, Nov. 4, 1983, 48 F.R. 51281, provided:
 
-By the authority vested in me as President by the Constitution and statutes of the United States ofAmerica, including section 218 of title 18 of the United States Code, and in order to provide federal agencies with the authority to promulgate regulations for voiding or rescinding contracts or other benefits obtained through bribery, graft or conflict of interest, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and statutes of the United States of America, including section 218 of title 18 of the United States Code, and in order to provide federal agencies with the authority to promulgate regulations for voiding or rescinding contracts or other benefits obtained through bribery, graft or conflict of interest, it is hereby ordered as follows:
 
 Section 1. The head of each Executive department, Military department and Executive agency is hereby delegated the authority vested in the President to declare void and rescind the transactions set forth in section 218 of title 18 of the United States Code in relation to which there has been a final conviction for any violation of chapter 11 of title 18.
 
@@ -36,5 +36,5 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202 of this title.
+This section is referred to in section 202 of this title.
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1056, 1058, 1082, 1083, 1103, 1104, 1144, 1222 of this title; title 26 sections 401, 412, 414, 6103; title 45 section 743.
+This subchapter is referred to in sections 35, 1056, 1058, 1082, 1083, 1103, 1104, 1144, 1222 of this title; title 26 sections 401, 412, 414, 6103; title 45 section 743.
 
 
 ---

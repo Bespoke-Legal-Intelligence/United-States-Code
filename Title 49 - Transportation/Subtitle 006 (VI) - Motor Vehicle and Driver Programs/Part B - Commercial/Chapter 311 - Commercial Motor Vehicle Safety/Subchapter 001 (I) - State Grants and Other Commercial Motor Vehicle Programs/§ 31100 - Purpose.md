@@ -6,7 +6,7 @@ The purpose of this subchapter is to ensure that the Secretary, States, and othe
 
 &emsp;(2) increasing administrative flexibility and developing and enforcing effective, compatible, and cost-beneficial motor carrier, commercial motor vehicle, and driver safety regulations and practices, including improving enforcement of State and local traffic safety laws and regulations;
 
-&emsp;(3) assessing and improving statewide program performance by setting program outcome goals, improving problem identificationand countermeasures planning, designing appropriate performance standards, measures, and benchmarks, improving performance information and analysis systems, and monitoring program effectiveness;
+&emsp;(3) assessing and improving statewide program performance by setting program outcome goals, improving problem identification and countermeasures planning, designing appropriate performance standards, measures, and benchmarks, improving performance information and analysis systems, and monitoring program effectiveness;
 
 &emsp;(4) ensuring that drivers of commercial motor vehicles and enforcement personnel obtain adequate training in safe operational practices and regulatory requirements; and
 

@@ -14,7 +14,7 @@ General.—(1) Not more than the following amounts may be appropriated to the Se
 
 (b)
 
-Distribution of Amounts.—The Secretary shall establish procedures necessary to ensure that amounts available to the Secretary for projects under this chapter are distributed not later than April 1 of the fiscal year for which the amounts are appropriated. If any amounts are not distributed by April 1, the Secretary shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, andTransportation of the Senate on the status of those amounts and the reasons for the delay in distribution.
+Distribution of Amounts.—The Secretary shall establish procedures necessary to ensure that amounts available to the Secretary for projects under this chapter are distributed not later than April 1 of the fiscal year for which the amounts are appropriated. If any amounts are not distributed by April 1, the Secretary shall report to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate on the status of those amounts and the reasons for the delay in distribution.
 
 (c)
 

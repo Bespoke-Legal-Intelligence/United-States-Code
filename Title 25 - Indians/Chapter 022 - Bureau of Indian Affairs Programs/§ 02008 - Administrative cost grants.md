@@ -154,7 +154,7 @@ In this section:
 
 #### (f) Availability of funds
 
-Funds received as grants under this section with respect to tribal elementary or secondary education programs shall remain available to the contract or grant school without fiscal year limitation and without diminishing the amount of any grants otherwise payable to the school under this section for any fiscal year beginning after the fiscal year for which the grant is provided.
+Funds received as grants under this section with respect to tribal elementary or secondary education programs shall remain available to the contract or grant school without fiscal yearlimitation and without diminishing the amount of any grants otherwise payable to the school under this section for any fiscal year beginning after the fiscal year for which the grant is provided.
 
 #### (g) Treatment of funds
 
@@ -184,7 +184,7 @@ In applying this section and section 106 of the Indian Self-Determination and Ed
 
 &emsp;&emsp;&emsp;(ii) a minimum base rate which ensures that the amount of the grants provided under this section will provide adequate (but not excessive) funding of the administrative costs of the largest tribal elementary or secondary educational programs; and
 
-&emsp;&emsp;&emsp;(iii) a standard direct cost base which is the aggregate direct cost funding level forwhich the percentage determined under subsection (d) of this section will—
+&emsp;&emsp;&emsp;(iii) a standard direct cost base which is the aggregate direct cost funding level for which the percentage determined under subsection (d) of this section will—
 
 &emsp;&emsp;&emsp;&emsp;(I) be equal to the median between the maximum base rate and the minimum base rate; and
 
@@ -272,7 +272,7 @@ A prior section 2008, Pub. L. 95–561, title XI, §1128, as added Pub. L. 103�
 
 Another prior section 2008 and a prior section 2008a were omitted in the general amendment of this chapter by Pub. L. 103–382.
 
-Section 2008, Pub. L. 95–561, title XI, §1128, Nov. 1, 1978, 92 Stat. 2320; Pub. L. 96–46, §2(b)(7), (8), Aug. 6, 1979, 93 Stat. 341; Pub. L. 98–511, title V, §505, Oct. 19, 1984, 98 Stat. 2394; Pub. L. 99–89, §5, Aug. 15, 1985, 99 Stat. 381; Pub. L. 99–228, §1, Dec. 28, 1985, 99 Stat. 1747; Pub. L. 100–297, title V, §§5107(a), 5108(b), (c), Apr. 28, 1988, 102 Stat. 368, 375; Pub. L. 100–427, §§2(a), (b)(1), (c), 3, 5, Sept. 9, 1988, 102 Stat. 1604, 1605; Pub. L. 101–301, §5(d)(1), May 24, 1990, 104 Stat. 208; Pub. L. 103–382, title III, §393(b), Oct. 20, 1994, 108 Stat. 4026, related to allotment formula.
+Section 2008, Pub. L. 95–561, title XI, §1128, Nov. 1, 1978, 92 Stat. 2320; Pub. L. 96–46, §2(b)(7), (8), Aug. 6,1979, 93 Stat. 341; Pub. L. 98–511, title V, §505, Oct. 19, 1984, 98 Stat. 2394; Pub. L. 99–89, §5, Aug. 15, 1985, 99 Stat. 381; Pub. L. 99–228, §1, Dec. 28, 1985, 99 Stat. 1747; Pub. L. 100–297, title V, §§5107(a), 5108(b), (c), Apr. 28, 1988, 102 Stat. 368, 375; Pub. L. 100–427, §§2(a), (b)(1), (c), 3, 5, Sept. 9, 1988, 102 Stat. 1604, 1605; Pub. L. 101–301, §5(d)(1), May 24, 1990, 104 Stat. 208; Pub. L. 103–382, title III, §393(b), Oct. 20, 1994, 108 Stat. 4026, related to allotment formula.
 
 Section 2008a, Pub. L. 95–561, title XI, §1128A, as added Pub. L. 100–297, title V, §5108(a), Apr. 28, 1988, 102 Stat. 369; amended Pub. L. 100–427, §4, Sept. 9, 1988, 102 Stat. 1604; Pub. L. 101–301, §5(f), May 24, 1990, 104 Stat. 208, related to administrative cost grants.
 

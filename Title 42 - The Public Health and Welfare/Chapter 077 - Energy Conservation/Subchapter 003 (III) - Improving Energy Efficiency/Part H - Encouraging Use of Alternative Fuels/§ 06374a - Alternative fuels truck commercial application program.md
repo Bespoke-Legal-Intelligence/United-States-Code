@@ -10,7 +10,7 @@ The Secretary, in cooperation with manufacturers of heavy duty engines and with 
 
 (2) The authority of the Secretary to obligate amounts to be expended under this section shall be effective for any fiscal year only to such extent or in such amounts as are provided in advance by appropriation Acts.
 
-(Pub. L. 94–163, title III, §400BB, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2444; amended Pub. L. 102–486, title IV, §401, Oct. 24, 1992, 106 Stat. 2875.)
+(Pub. L. 94–163, title III, §400BB, as added Pub. L. 100–494, §4(a), Oct. 14, 1988, 102 Stat. 2444;amended Pub. L. 102–486, title IV, §401, Oct. 24, 1992, 106 Stat. 2875.)
 
 #### Amendments
 

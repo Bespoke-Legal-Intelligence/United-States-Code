@@ -28,7 +28,7 @@
 
 &emsp;(A) any person who is the subject of disciplinary, loyalty, or other personnel administration proceedings in connection with those proceedings; or
 
-&emsp;(B) except as provided in paragraph (2), any cooperative, voluntary, professional, recreational, or similar organization or group not established or operated for profit, if a majority of the organization's or groups's <sup>1</sup> members are current officers or employees of the United States or of the District of Columbia, or their spouses or dependent children.
+&emsp;(B) except as provided in paragraph (2), any cooperative, voluntary, professional, recreational, or similar organization or group not established or operated for profit, if a majority of the organization's or group's members are current officers or employees of the United States or of the District of Columbia, or their spouses or dependent children.
 
 (2) Paragraph (1)(B) does not apply with respect to a covered matter that—
 
@@ -64,7 +64,7 @@
 
 &emsp;(5) any provision of any other Federal or District of Columbia law that authorizes labor-management relations between an agency or instrumentality of the United States or the District of Columbia and any labor organization that represents its employees.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1122; amended Pub. L. 101–194, title IV, §404, Nov. 30, 1989, 103 Stat. 1750; Pub. L. 101–280, §5(c), May 4, 1990, 104 Stat. 159; Pub. L. 104–177, §2, Aug. 6, 1996, 110 Stat. 1563.)
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1122; amended Pub. L. 101–194, title IV, §404, Nov. 30, 1989, 103 Stat. 1750; Pub. L. 101–280, §5(c), May 4, 1990, 104 Stat. 159; Pub. L. 104–177, §2, Aug. 6, 1996, 110 Stat. 1563; Pub. L. 107–273, div. B, title IV, §4002(a)(9), Nov. 2, 2002, 116 Stat. 1807.)
 
 #### References in Text
 
@@ -77,6 +77,8 @@ A prior section 205, act June 25, 1948, ch. 645, 62 Stat. 692, related to the ac
 Provisions similar to those comprising this section were contained in section 283 of this title prior to the repeal of such section and the general amendment of this chapter by Pub. L. 87–849.
 
 #### Amendments
+
+2002—Subsec. (d)(1)(B). Pub. L. 107–273 substituted “group's” for “groups's”.
 
 1996—Subsec. (d). Pub. L. 104–177, §2(a), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Nothing in subsection (a) or (b) prevents an officer or employee, if not inconsistent with the faithful performance of his duties, from acting without compensation as agent or attorney for, or otherwise representing, any person who is the subject of disciplinary, loyalty, or other personnel administration proceedings in connection with those proceedings.”
 
@@ -104,7 +106,5 @@ Exemptions from former section 283 of this title deemed to be exemptions from th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 206, 216 of this title; title 5 sections 568, 3374; title 7 section 2009aa–1; title 10 section 942; title 12 section 2245; title 15 section 4805; title 16 section 459b–7; title 22 sections 3507, 3508, 3613; title 25 section 450i; title 26 section 7802; title 28 section 594; title 30 section 663; title 38 section 5902; title 40 App. section 108; title 41 section 120; title 42 sections 1314, 2297h–3; title 50 section 405; title 50 App. section 463.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “group's”.</i>
+This section is referred to in sections 202, 206, 216 of this title; title 5 sections 568, 3374, 3704; title 7 sections 2008m, 2009aa–1, 2009bb–1, 2009dd–2; title 10 section 942; title 12 section 2245; title 15 section 4805; title 16 section 459b–7; title 22 sections 3507, 3508, 3613; title 25 section 450i; title 26 section 7802; title 28 section 594; title 30 section 663; title 38 section 5902; title 40 section 14309; title 41 section 120; title 42 sections 1314, 2297h–3; title 50 section 405; title 50 App. section 463.
 

@@ -32,7 +32,7 @@
 
 #### (c) Chairman
 
-The Chairman of the Commission shall be appointed by the President, by and with the adviceand consent of the Senate, from members of the Commission.
+The Chairman of the Commission shall be appointed by the President, by and with the advice and consent of the Senate, from members of the Commission.
 
 #### (d) Meetings
 
@@ -66,7 +66,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Appointment of Initial Members
 
-Section 302(a) of Pub. L. 95–622 directed President to initially appoint members to President's Commission for the Study of Ethical Problems in Medicine and Biomedical and Behavioral Research (established under the amendment made by section 301) \[enacting this subchapter\] not later than 90 days after Nov. 9, 1978.
+Section 302(a) of Pub. L. 95–622 directed President to initially appoint members to President's Commission for the Study of Ethical Problems in Medicine and Biomedical and Behavioral Research (established underthe amendment made by section 301) \[enacting this subchapter\] not later than 90 days after Nov. 9, 1978.
 
 #### Executive Order No. 12184
 

@@ -18,7 +18,7 @@
 
 #### (1) Proposal for an order
 
-&emsp;An existing organization of avocado producers established pursuant to a State statute, orany other person who will be affected by this chapter, may request the issuance of, and submit a proposal for an order.
+&emsp;An existing organization of avocado producers established pursuant to a State statute, or any other person who will be affected by this chapter, may request the issuance of, and submit a proposal for an order.
 
 #### (2) Publication of proposal
 

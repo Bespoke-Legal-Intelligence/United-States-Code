@@ -41,7 +41,7 @@
 | (h) | Security agreements; identity lists; notice of identity or accounting for proceeds; violations. |
 | (i) | Regulations. |
 | (j) | Effective date. |
-| [1632\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632%20-%20Market%20expansion%20research.md) | Market expansion research. |
+| [1632\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001632%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VII%2C%20%C2%A77303%2C%20May%2013%2C%202002%2C%20116%20Stat.%20455.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -152,6 +152,30 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER IV—COUNTRY OF ORIGIN LABELING
+
+|  |  |
+| :--- | ---: |
+| [1638\.](Subchapter%20004%20%28IV%29%20-%20Country%20of%20Origin%20Labeling/%C2%A7%2001638%20-%20Definitions.md) | Definitions. |
+| [1638a.](Subchapter%20004%20%28IV%29%20-%20Country%20of%20Origin%20Labeling/%C2%A7%2001638a%20-%20Notice%20of%20country%20of%20origin.md) | Notice of country of origin. |
+| (a) | In general. |
+| (b) | Exemption for food service establishments. |
+| (c) | Method of notification. |
+| (d) | Audit verification system. |
+| (e) | Information. |
+| (f) | Certification of origin. |
+| [1638b.](Subchapter%20004%20%28IV%29%20-%20Country%20of%20Origin%20Labeling/%C2%A7%2001638b%20-%20Enforcement.md) | Enforcement. |
+| (a) | In general. |
+| (b) | Warnings. |
+| (c) | Fines. |
+| [1638c.](Subchapter%20004%20%28IV%29%20-%20Country%20of%20Origin%20Labeling/%C2%A7%2001638c%20-%20Regulations.md) | Regulations. |
+| (a) | Guidelines. |
+| (b) | Regulations. |
+| (c) | Partnerships with States. |
+| [1638d.](Subchapter%20004%20%28IV%29%20-%20Country%20of%20Origin%20Labeling/%C2%A7%2001638d%20-%20Applicability.md) | Applicability. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 198b, 1623a, 6104 of this title; title 21 section 1033.
@@ -164,3 +188,4 @@ This chapter is referred to in sections 198b, 1623a, 6104 of this title; title 2
 - [Subchapter 001 (I) - General Provisions](Subchapter%20001%20%28I%29%20-%20General%20Provisions/README.md)
 - [Subchapter 002 (II) - Livestock Mandatory Reporting](Subchapter%20002%20%28II%29%20-%20Livestock%20Mandatory%20Reporting/README.md)
 - [Subchapter 003 (III) - Dairy Product Mandatory Reporting](Subchapter%20003%20%28III%29%20-%20Dairy%20Product%20Mandatory%20Reporting/README.md)
+- [Subchapter 004 (IV) - Country of Origin Labeling](Subchapter%20004%20%28IV%29%20-%20Country%20of%20Origin%20Labeling/README.md)

@@ -28,5 +28,5 @@ Pub. L. 102–550, title XV, §1551, Oct. 28, 1992, 106 Stat. 4070, provided tha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 470, 981, 982, 1961, 2516 of this title.
+This section is referred to in sections 470, 981, 982, 1961, 2516 of this title.
 

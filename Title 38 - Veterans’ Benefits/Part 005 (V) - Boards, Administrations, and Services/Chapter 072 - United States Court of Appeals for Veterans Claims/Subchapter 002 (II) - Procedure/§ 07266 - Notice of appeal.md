@@ -16,7 +16,7 @@
 
 #### Amendments
 
-2001—Pub. L. 107–103 struck out “(1)” before “In order to”, redesignated par. (2) of subsec. (a) as subsec. (b),redesignated par. (3) of subsec. (a) as subsec. (c) and subpars. (A) and (B) thereof as pars. (1) and (2), respectively, redesignated par. (4) of subsec. (a) as subsec. (d) and substituted “subsection (c)(2)” for “paragraph (3)(B)”, and struck out former subsec. (b) which read as follows: “The appellant shall also furnish the Secretary with a copy of such notice, but a failure to do so shall not constitute a failure of timely compliance with subsection (a) of this section.”
+2001—Pub. L. 107–103 struck out “(1)” before “In order to”, redesignated par. (2) of subsec. (a) as subsec. (b), redesignated par. (3) of subsec. (a) as subsec. (c) and subpars. (A) and (B) thereof as pars. (1) and (2), respectively, redesignated par. (4) of subsec. (a) as subsec. (d) and substituted “subsection (c)(2)” for “paragraph (3)(B)”, and struck out former subsec. (b) which read as follows: “The appellant shall also furnish the Secretary with a copy of such notice, but a failure to do so shall not constitute a failure of timely compliance with subsection (a) of this section.”
 
 1998—Subsec. (a)(1). Pub. L. 105–368 substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 

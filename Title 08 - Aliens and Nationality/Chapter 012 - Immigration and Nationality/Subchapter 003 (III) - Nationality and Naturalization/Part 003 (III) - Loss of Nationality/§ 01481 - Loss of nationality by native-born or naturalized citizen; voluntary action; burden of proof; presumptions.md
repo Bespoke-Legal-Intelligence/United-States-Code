@@ -36,13 +36,13 @@ Subsec. (a)(1). Pub. L. 99–653, §18(b), substituted “or upon an application
 
 Subsec. (a)(2). Pub. L. 99–653, §18(c), inserted “, after having attained the age of eighteen years” after “political subdivision thereof”.
 
-Subsec. (a)(3). Pub. L. 99–653, §18(d), as amended by Pub. L. 100–525, §8(m)(2), substituted “if (A) such armed forces are engaged in hostilities against the United States, or (B) such persons serve as a commissioned or non-commissioned officer; or” for “unless, prior to such entry or service, such entry or service is specifically authorized in writing by the Secretary of State and the Secretary of Defense: <i>Provided</i>, That the entry into such service by a person prior to the attainment of his eighteenth birthday shall serve to expatriate such person only if there exists an option to secure a release from such service and such person fails to exercise such option at the attainment of his eighteenth birthday; or”.
+Subsec. (a)(3). Pub. L. 99–653, §18(d), as amended by Pub. L. 100–525, §8(m)(2), substituted “if (A) such armed forces are engaged in hostilities against the United States, or (B) such persons serve as a commissioned or non-commissioned officer; or” for “unless, prior to such entry or service, such entry or service is specifically authorized in writing by the Secretary of State and the Secretary of Defense: <i>Provided</i>, That the entry intosuch service by a person prior to the attainment of his eighteenth birthday shall serve to expatriate such person only if there exists an option to secure a release from such service and such person fails to exercise such option at the attainment of his eighteenth birthday; or”.
 
 Subsec. (a)(4). Pub. L. 99–653, §18(e), (f), as amended by Pub. L. 100–525, §8(m)(3), inserted “after attaining the age of eighteen years” after “political subdivision thereof,” in subpars. (A) and (B).
 
 Subsecs. (b), (c). Pub. L. 99–653, §19, as amended by Pub. L. 100–525, §8(n), redesignated former subsec. (c) as (b) and substituted “Any” for “Except as provided in subsection (b) of this section, any”, and struck out former subsec. (b) which read as follows: “Any person who commits or performs any act specified in subsection (a) of this section shall be conclusively presumed to have done so voluntarily and without having been subjected to duress of any kind, if such person at the time of the act was a national of the state in which the act was performed and had been physically present in such state for a period or periods totaling ten years or more immediately prior to such act.”
 
-1981—Subsec. (a). Pub. L. 97–116 struck out “(a)” designation as added by section 4 of Pub. L. 95–432, whichwas not executed since it would have resulted in a subsec. (a) designation of “(a)(a)”, and substituted in par. (1) “special immigrant” for “nonquota immigrant”.
+1981—Subsec. (a). Pub. L. 97–116 struck out “(a)” designation as added by section 4 of Pub. L. 95–432, which was not executed since it would have resulted in a subsec. (a) designation of “(a)(a)”, and substituted in par. (1) “special immigrant” for “nonquota immigrant”.
 
 1978—Subsec. (a)(5). Pub. L. 95–432, §§2, 4, redesignated par. (6) as (5). Former par. (5), which dealt with expatriation of persons who voted in a political election in a foreign state or participated in an election or plebiscite to determine sovereignty over foreign territory, was struck out.
 
@@ -77,6 +77,10 @@ Section 1 of act Sept. 3, 1954, provided: “That this Act \[amending this secti
 #### Savings Provision
 
 Amendment by Pub. L. 94–412 not to affect any action taken or proceeding pending at the time of amendment, see section 501(h) of Pub. L. 94–412, set out as a note under section 1601 of Title 50, War and National Defense.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Right of Expatriation
 

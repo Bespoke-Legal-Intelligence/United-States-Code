@@ -46,7 +46,7 @@ In this part:
 
 #### Prior Provisions
 
-A prior section 6602, Pub. L. 89–10, title II, §2002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3613, set forth purposes of this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6601 of this title.
+A prior section 6602, Pub. L. 89–10, title II, §2002, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3613, set forth purposes of this subchapter, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6601 of this title.
 
 A prior section 2102 of Pub. L. 89–10 was classified to section 6622 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
 

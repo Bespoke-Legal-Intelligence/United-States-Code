@@ -34,7 +34,7 @@ Pub. L. 104–186, §211(1)(D), redesignated pars. (1) and (2) as subpars. (A) a
 
 Pars. (3), (4). Pub. L. 104–186, §211(2)(C), (D), struck out “of the United States” after “House of Representatives”.
 
-Par. (5). Pub. L. 104–186, §211(2)(E), substituted “term ‘Member of the House of Representatives’ means an incumbent Representative in, or Delegate or Resident Commissioner to, the Congress, or an individual who has been elected to such office” for “term ‘Member’ means an incumbent Representative in or Resident Commissioner to the Congress of the United States, or an individual who has been elected to either of such offices”.
+Par. (5). Pub. L. 104–186, §211(2)(E), substituted “term ‘Member of the House of Representatives’ means an incumbent Representative in, or Delegate or ResidentCommissioner to, the Congress, or an individual who has been elected to such office” for “term ‘Member’ means an incumbent Representative in or Resident Commissioner to the Congress of the United States, or an individual who has been elected to either of such offices”.
 
 Par. (6). Pub. L. 104–186, §211(2)(F), struck out “of the United States” after “House of Representatives”.
 

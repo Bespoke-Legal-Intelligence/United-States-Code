@@ -7,7 +7,7 @@
 
 - [&sect; 01101 - Definitions](%C2%A7%2001101%20-%20Definitions.md)
 - [&sect; 01102 - Diplomatic and semidiplomatic immunities](%C2%A7%2001102%20-%20Diplomatic%20and%20semidiplomatic%20immunities.md)
-- [&sect; 01103 - Powers and duties](%C2%A7%2001103%20-%20Powers%20and%20duties.md)
+- [&sect; 01103 - Powers and duties of the Secretary, the Under Secretary, and the Attorney General](%C2%A7%2001103%20-%20Powers%20and%20duties%20of%20the%20Secretary%2C%20the%20Under%20Secretary%2C%20and%20the%20Attorney%20General.md)
 - [&sect; 01104 - Powers and duties of Secretary of State](%C2%A7%2001104%20-%20Powers%20and%20duties%20of%20Secretary%20of%20State.md)
 - [&sect; 01105 - Liaison with internal security officers; data exchange](%C2%A7%2001105%20-%20Liaison%20with%20internal%20security%20officers%3B%20data%20exchange.md)
 - [&sect; 01105a - Repealed. Pub. L. 104&#8211;208, div. C, title III, &sect;306(b), Sept. 30, 1996, 110 Stat. 3009&#8211;612](%C2%A7%2001105a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93208%2C%20div.%20C%2C%20title%20III%2C%20%C2%A7306%28b%29%2C%20Sept.%2030%2C%201996%2C%20110%20Stat.%203009%E2%80%93612.md)

@@ -32,7 +32,7 @@ Section 501 of title V of act Aug. 2, 1946, provided that: “This title \[enact
 
 Functions, powers, and duties of Secretary of the Army \[formerly War\] and other offices and officers of Department of the Army \[formerly War\] under this section to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by section 6(g)(6)(C) of Pub. L. 89–670. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(6)(C) of Pub. L. 89–670, and repealed section 6(g)(6)(C).
 
-Functions of Public Roads Administration transferred to Bureau of Public Roads within General Services Administration by section 103(a) of act June 30, 1949. Section 103 is set out as section 753 of Title 40, Public Buildings, Property, and Works.
+Functions of Public Roads Administration transferred to Bureau of Public Roads within General Services Administration by section 103(a) of act June 30, 1949. See text of, and Historical and Revision Notes under, section 303(b) of Title 40, Public Buildings, Property, and Works.
 
 Bureau of Public Roads within General Services Administration transferred to Department of Commerce by section 1 of Reorg. Plan No. 7 of 1949.
 

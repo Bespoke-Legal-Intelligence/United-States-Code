@@ -1,0 +1,86 @@
+### §6101. Definitions and application
+
+(a)
+
+Definitions.—In this chapter, the following definitions apply:
+
+&emsp;(1)
+
+Official guest of the supreme court.—The term “official guest of the Supreme Court” means an individual who is a guest of the Supreme Court, as determined by the Chief Justice of the United States or any Associate Justice of the Supreme Court;
+
+&emsp;(2)
+
+State.—The term “State” means a State of the United States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, the Northern Mariana Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and any territory or possession of the United States; and
+
+(b)
+
+Application.—For purposes of section 6102 of this title and subchapters III and IV, the Supreme Court grounds—
+
+&emsp;(1) extend to the line of the face of—
+
+&emsp;&emsp;(A) the east curb of First Street Northeast, between Maryland Avenue Northeast and East Capitol Street;
+
+&emsp;&emsp;(B) the south curb of Maryland Avenue Northeast, between First Street Northeast and Second Street Northeast;
+
+&emsp;&emsp;(C) the west curb of Second Street Northeast, between Maryland Avenue Northeast and East Capitol Street; and
+
+&emsp;&emsp;(D) the north curb of East Capitol Street between First Street Northeast and Second Street Northeast; and
+
+&emsp;(2) comprise any property under the custody and control of the Supreme Court as part of the Supreme Court grounds, including property acquired as provided by law on behalf of the Federal Government in lots 2, 3, 800, 801, and 802 in square 758 in the District of Columbia as an addition to the grounds of the Supreme Court Building.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1180.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+6101(a)
+
+40:13n(d).
+
+Aug. 18, 1949, ch. 479, §9(d), as added Pub. L. 97–390, §1(c)(2), Dec. 29, 1982, 96 Stat. 1958.
+
+6101(b)
+
+40:13p.
+
+Aug. 18, 1949, ch. 479, §11, 63 Stat. 617; Pub. L. 97–390, §1(d), Dec. 29, 1982, 96 Stat. 1958.
+
+In subsection (a), the definition of “United States” is omitted as unnecessary because, within 40:13f–13p, the words “United States” are used in the geographical sense only in 40:13n(a)(2) and (c) and the restatement of those provisions, in section 6121 of the revised title, substitutes the words “any State” for “any part of the United States”.
+
+Before clause (1), the words “In this chapter, the following definitions apply” are substituted for “As used in sections 13f to 13p of this title, the term—” for clarity. The terms are not used in 40:13a–13e, so using them chapter-wide does not expand their scope.
+
+In clause (2), the words “the Virgin Islands, Guam, the Northern Mariana Islands, the Federal States of Micronesia, the Marshall Islands, Palau, and any territory or possession of the United States” are substituted for “any territory or possession of the United States” to clarify that the provisions of the source law apply to those jurisdictions.
+
+In subsection (b), before clause (1), the words “In addition to the property referred to in the preceding sentence, for the purposes of sections 13f to 13p of this title, the Supreme Court grounds” are omitted as unnecessary.
+
+#### United States Supreme Court Building; Acquisition of Certain Real Property
+
+Pub. L. 96–532, Dec. 15, 1980, 94 Stat. 3130, as amended by Pub. L. 97–390, §3, Dec. 29, 1982, 96 Stat. 1958, provided: “That the Architect of the Capitol is authorized to acquire on behalf of the United States by purchase, condemnation, transfer, or otherwise, as an addition to the grounds of the United States Supreme Court Building, all privately owned real property contained in lots 2, 3, 800, 801, and 802 in square 758 in the District of Columbia, as such lots appear on the records in the office of the Surveyor of the District of Columbia as of the date of the enactment of this Act \[Dec. 15, 1980\].
+
+“
+
+Sec. 2. The acquisition of real property under this Act shall be conducted in accordance with the Act entitled ‘Uniform Relocation Assistance and Land Acquisition Policies Act of 1970’, Public Law 91–646, approved January 2, 1971 \[42 U.S.C. 4601 et seq.\], and any proceeding for condemnation brought in its course shall be conducted in accordance with the Act entitled ‘An Act to provide for the acquisition of land in the District of Columbia for the use of the United States’, approved March 1, 1929 (16 D.C. Code, secs. 1351–1368).
+
+“
+
+Sec. 3. Upon acquisition of such real property by the Architect of the Capitol, on behalf of the United States, such property shall become a part of the grounds of the United States Supreme Court Building and shall be subject to all of the provisions of the Act entitled ‘An Act to provide for the custody and maintenance of the United States Supreme Court Building and the equipment and grounds thereof’, approved May 7, 1934 (40 U.S.C. 13a–13c) \[now 40 U.S.C. 6111–6113\], and section 6 of the joint resolution entitled ‘Joint resolution to provide for the use and disposition of the bequest of the late Justice Oliver Wendell Holmes to the United States, and for other purposes’, approved October 22, 1940 (40 U.S.C. 13e) \[now 40 U.S.C. 6114\].
+
+“
+
+Sec. 4. The Architect of the Capitol is authorized to enter into contracts and to make expenditures for grading and paving and such other expenditures, including expenditures for personal and other services, as may be necessary to carry out the purposes of this Act.
+
+“
+
+Sec. 5. There is hereby authorized to be appropriated the sum of $645,000 for fiscal year 1981 for the purpose of carrying out the provisions of this Act, said appropriation to remain available until expended.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 8501, 8502 of this title.
+

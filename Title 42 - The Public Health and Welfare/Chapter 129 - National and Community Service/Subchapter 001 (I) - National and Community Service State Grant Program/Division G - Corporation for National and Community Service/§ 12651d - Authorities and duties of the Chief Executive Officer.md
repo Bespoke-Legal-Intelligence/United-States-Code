@@ -10,7 +10,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;(1) prepare and submit to the Board a strategic plan every 3 years, and annual updates of the plan, for the Corporation with respect to the major functions and operations of the Corporation;
 
-&emsp;(2)(A) prepare and submit to the Board a proposal with respect to such grants and allotments, contracts, other financial assistance,and designation of positions as approved national service positions, as are necessary or appropriate to carry out the national service laws; and
+&emsp;(2)(A) prepare and submit to the Board a proposal with respect to such grants and allotments, contracts, other financial assistance, and designation of positions as approved national service positions, as are necessary or appropriate to carry out the national service laws; and
 
 &emsp;(B) after receiving and reviewing an approved proposal under section 12651b(g)(2) of this title, make such grants and allotments, enter into such contracts, award such other financial assistance, make such payments (in lump sum or installments, and in advance or by way of reimbursement, and in the case of financial assistance otherwise authorized under the national service laws, with necessary adjustments on account of overpayments and underpayments), and designate such positions as approved national service positions as are necessary or appropriate to carry out the national service laws;
 
@@ -66,7 +66,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;&emsp;&emsp;(II) such outcomes should be defined and measured in such service programs;
 
-&emsp;&emsp;&emsp;(iii) whether stipended service programs, and service programs providing educational benefits in return for service, should focus on economically disadvantaged individuals or at-risk youth or whether such programs should include a mix of individuals, including individuals from middle- and upper-income families;
+&emsp;&emsp;&emsp;(iii) whether stipended service programs, and service programs providing educational benefits in return for service, should focus on economically disadvantaged individuals or at-risk youth or whether such programs should include amix of individuals, including individuals from middle- and upper-income families;
 
 &emsp;&emsp;&emsp;(iv) the role and importance of stipends and educational benefits in achieving desired outcomes in the service programs;
 
@@ -76,7 +76,7 @@ In addition to the duties conferred on the Chief Executive Officer under any oth
 
 &emsp;&emsp;&emsp;(vii) other issues that the Director determines to be relevant to the administration and organization of the service programs; and
 
-&emsp;&emsp;(B) the number, potential consolidation, and future organization of national serviceor domestic volunteer service programs that are authorized under Federal law, including VISTA, service corps assisted under division C of this subchapter and other programs authorized by this chapter, programs administered by the Public Health Service, the Department of Defense, or other Federal agencies, programs regarding teacher corps, and programs regarding work-study and higher education loan forgiveness or forbearance programs authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) related to community service; and
+&emsp;&emsp;(B) the number, potential consolidation, and future organization of national service or domestic volunteer service programs that are authorized under Federal law, including VISTA, service corps assisted under division C of this subchapter and other programs authorized by this chapter, programs administered by the Public Health Service, the Department of Defense, or other Federal agencies, programs regarding teacher corps, and programs regarding work-study and higher education loan forgiveness or forbearance programs authorized by the Higher Education Act of 1965 (20 U.S.C. 1001 et seq.) related to community service; and
 
 &emsp;(11) for purposes of section 12638(d)(6)(B) of this title, issue regulations to waive the disqualification of members of the Board and members of the State Commissions selectively in a random, nondiscretionary manner and only to the extent necessary to establish the quorum involved, including rules that forbid each member of the Board and each voting member of a State Commission to participate in any discussion or decision regarding the provision of assistance or approved national service positions, or the continuation, suspension, or termination of such assistance or such positions, to any program or entity of which such member of the Board or such member of the State Commission is, or in the 1-year period before the submission of the application referred to in such section was, an officer, director, trustee, full-time volunteer, or employee.
 
@@ -134,7 +134,7 @@ In an action described in subsection (c)(7) of this section—
 
 #### (1) Evaluation of living allowance
 
-&emsp;The Corporation shall arrange for an independent evaluation to determine the levels ofliving allowances paid in all programs under divisions C and I of this subchapter, individually, by State, and by region. Such evaluation shall determine the effects that such living allowances have had on the ability of individuals to participate in such programs.
+&emsp;The Corporation shall arrange for an independent evaluation to determine the levels of living allowances paid in all programs under divisions C and I of this subchapter, individually, by State, and by region. Such evaluation shall determine the effects that such living allowances have had on the ability of individuals to participate in such programs.
 
 #### (2) Evaluation of success of investment in national service
 

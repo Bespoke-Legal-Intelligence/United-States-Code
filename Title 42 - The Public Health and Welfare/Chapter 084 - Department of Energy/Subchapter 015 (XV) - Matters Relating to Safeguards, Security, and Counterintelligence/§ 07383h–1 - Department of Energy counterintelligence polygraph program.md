@@ -28,7 +28,7 @@ In this section, the term “Polygraph Review” means the review of the Committ
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2002, and not as part of the Department of Energy Organization Act which comprises this chapter or as part of the Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999 which comprises this subchapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2002, and not as partof the Department of Energy Organization Act which comprises this chapter or as part of the Department of Energy Facilities Safeguards, Security, and Counterintelligence Enhancement Act of 1999 which comprises this subchapter.
 
 Section is comprised of section 3152 of Pub. L. 107–107. Subsec. (c) of section 3152 of Pub. L. 107–107 repealed section 7383h of this title.
 

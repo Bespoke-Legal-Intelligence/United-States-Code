@@ -6,7 +6,7 @@
 
 &emsp;(2) places or causes to be placed a destructive device or substance in, upon, or in proximity to, or otherwise makes or causes to be made unworkable or unusable or hazardous to work or use, any such aircraft, or any part or other materials used or intended to be used in connection with the operation of such aircraft, if such placing or causing to be placed or such making or causing to be made is likely to endanger the safety of any such aircraft;
 
-&emsp;(3) sets fire to, damages, destroys, or disables any air navigation facility, or interferes by force or violence with the operation of such facility, if such fire, damaging, destroying,disabling, or interfering is likely to endanger the safety of any such aircraft in flight;
+&emsp;(3) sets fire to, damages, destroys, or disables any air navigation facility, or interferes by force or violence with the operation of such facility, if such fire, damaging, destroying, disabling, or interfering is likely to endanger the safety of any such aircraft in flight;
 
 &emsp;(4) with the intent to damage, destroy, or disable any such aircraft, sets fire to, damages, destroys, or disables or places a destructive device or substance in, upon, or in proximity to, any appliance or structure, ramp, landing area, property, machine, or apparatus, or any facility or other material used, or intended to be used, in connection with the operation, maintenance, loading, unloading or storage of any such aircraft or any cargo carried or intended to be carried on any such aircraft;
 

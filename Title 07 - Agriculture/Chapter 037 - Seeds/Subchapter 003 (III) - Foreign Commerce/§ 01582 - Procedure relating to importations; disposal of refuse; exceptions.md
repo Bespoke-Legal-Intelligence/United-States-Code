@@ -30,7 +30,7 @@ Subsec. (e). Pub. L. 103–465, §441(2)(B), struck out subsec. (e) which read a
 
 1993—Subsec. (e)(1). Pub. L. 103–182 inserted “or Mexico” after “Canada”.
 
-1988—Pub. L. 100–449 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this subchapter requiring certain seeds to be stained shall not apply when such seed will not besold within the United States and will be used for seed production only by or for the importer or consignee: <i>Provided</i>, That the importer of record or consignee files a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seed will be used only for seed production by or for the importer or consignee.”
+1988—Pub. L. 100–449 amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The provisions of this subchapter requiring certain seeds to be stained shall not apply when such seed will not be sold within the United States and will be used for seed production only by or for the importer or consignee: <i>Provided</i>, That the importer of record or consignee files a statement in accordance with the rules and regulations prescribed under section 1592 of this title certifying that such seed will be used only for seed production by or for the importer or consignee.”
 
 1983—Subsec. (a). Pub. L. 97–439, §5(b)(2), struck out provision that Secretary may apply statistical sampling and inspection techniques to samples and screenings to determine whether pure-live seed requirement of any kind of seed was being met, in event of which he was to advise importer of each lot of seed not examined for pure-live seed percentage.
 
@@ -59,4 +59,8 @@ Amendment by Pub. L. 100–449 effective on the date the United States-Canada Fr
 #### Effective Date
 
 See section 1610 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this subchapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

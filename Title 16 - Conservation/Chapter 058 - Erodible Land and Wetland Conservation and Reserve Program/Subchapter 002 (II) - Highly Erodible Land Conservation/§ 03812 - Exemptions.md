@@ -28,7 +28,7 @@ No person shall become ineligible under section 3811 of this title for program l
 
 &emsp;(1) on highly erodible land in an area—
 
-&emsp;&emsp;(A) within a conservation district, under a conservation system that has been approved by a conservation district after the districthas determined that the conservation system is in conformity with technical standards set forth in the Soil Conservation Service technical guide for such district; or
+&emsp;&emsp;(A) within a conservation district, under a conservation system that has been approved by a conservation district after the district has determined that the conservation system is in conformity with technical standards set forth in the Soil Conservation Service technical guide for such district; or
 
 &emsp;&emsp;(B) not within a conservation district, under a conservation system determined by the Secretary to be adequate for the protection of highly erodible land that has been set aside or for the production of such agricultural commodity on any highly erodible land subject to this chapter; or
 
@@ -146,11 +146,11 @@ Subsec. (d). Pub. L. 101–624, §1412(b)(3), redesignated subsec. (c) as (d).
 
 Subsecs. (e) to (h). Pub. L. 101–624, §1412(c)–(f), added subsecs. (e) to (h).
 
-1987—Subsec. (a)(2). Pub. L. 100–28, §3, inserted “that documents the decisions of the person with respect to location, land use, tillage systems, and conservationtreatment measures and schedule and that is” after “conservation plan”, and inserted at end “In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.”
+1987—Subsec. (a)(2). Pub. L. 100–28, §3, inserted “that documents the decisions of the person with respect to location, land use, tillage systems, and conservation treatment measures and schedule and that is” after “conservation plan”, and inserted at end “In carrying out this subsection, the Secretary, Soil Conservation Service, and local soil conservation districts shall minimize the quantity of documentation a person must submit to comply with this paragraph.”
 
 Subsec. (b)(5). Pub. L. 100–28, §2(b), added par. (5).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3801, 3811, 3831, 3843 of this title; title 7 section 1924.
+This section is referred to in sections 3801, 3811, 3843 of this title; title 7 section 1924.
 

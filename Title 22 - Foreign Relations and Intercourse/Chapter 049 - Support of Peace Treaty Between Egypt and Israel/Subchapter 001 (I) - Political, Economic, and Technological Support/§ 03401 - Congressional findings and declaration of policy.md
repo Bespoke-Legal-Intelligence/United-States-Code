@@ -10,7 +10,7 @@ The peace treaty between Egypt and Israel having been ratified, the Congress fin
 
 &emsp;(1) by authorizing the President to construct air bases in Israel to replace the Israeli air bases on the Sinai peninsula that are to be evacuated;
 
-&emsp;(2) by authorizing additional funds to finance procurements by Egypt and Israel through the fiscal year 1982 of defense articles and defense services for their respective security requirements; and
+&emsp;(2) by authorizing additional funds to finance procurements by Egypt and Israel through the fiscal year 1982 of defense articlesand defense services for their respective security requirements; and
 
 &emsp;(3) by authorizing additional funds for economic assistance for Egypt in order to promote the economic stability and development of that country and to support the peace process in the Middle East.
 

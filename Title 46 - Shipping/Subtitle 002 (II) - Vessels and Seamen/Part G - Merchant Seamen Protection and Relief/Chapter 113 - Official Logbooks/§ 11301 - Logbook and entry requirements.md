@@ -10,7 +10,7 @@
 
 &emsp;(1) each legal conviction of a seaman of the vessel and the punishment inflicted.
 
-&emsp;(2) each offense committed by a seaman of the vessel for which it is intended to prosecuteor to enforce under a forfeiture, together with statements about reading the entry and the reply made to the charge as required by section 11502 of this title.
+&emsp;(2) each offense committed by a seaman of the vessel for which it is intended to prosecute or to enforce under a forfeiture, together with statements about reading the entry and the reply made to the charge as required by section 11502 of this title.
 
 &emsp;(3) each offense for which punishment is inflicted on board and the punishment inflicted.
 

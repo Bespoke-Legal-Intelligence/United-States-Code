@@ -84,7 +84,7 @@ The manager of the Corporation shall be its chief executive officer, with such p
 
 #### (5) Funding of reviews
 
-&emsp;Each contract to conduct a review under this subsection shall be funded from amounts made available under section 1516(b)(2)(A)(ii) of this title.
+&emsp;Each contract to conduct a review under this subsection shall be funded from amountsmade available under section 1516(b)(2)(A)(ii) of this title.
 
 #### (6) Relation to other authority
 

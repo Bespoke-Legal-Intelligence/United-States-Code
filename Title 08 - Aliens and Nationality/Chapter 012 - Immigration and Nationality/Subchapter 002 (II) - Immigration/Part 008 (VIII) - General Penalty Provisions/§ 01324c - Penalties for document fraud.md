@@ -142,6 +142,10 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 Section applicable to persons or entities that have committed violations on or after Nov. 29, 1990, see section 544(d) of Pub. L. 101–649, as amended, set out as an Effective Date of 1990 Amendment note under section 1227 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1182, 1227, 1330 of this title.

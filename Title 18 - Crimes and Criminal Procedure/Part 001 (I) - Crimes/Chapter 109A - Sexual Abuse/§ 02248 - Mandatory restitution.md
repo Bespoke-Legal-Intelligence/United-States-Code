@@ -44,7 +44,7 @@ Order mandatory.—(A) The issuance of a restitution order under this section is
 
 (c)
 
-Definition.—For purposes of this section, the term “victim” means the individual harmed as a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
+Definition.—For purposes of this section, the term “victim” means the individual harmedas a result of a commission of a crime under this chapter, including, in the case of a victim who is under 18 years of age, incompetent, incapacitated, or deceased, the legal guardian of the victim or representative of the victim's estate, another family member, or any other person appointed as suitable by the court, but in no event shall the defendant be named as such representative or guardian.
 
 (Added Pub. L. 103–322, title IV, §40113(a)(1), Sept. 13, 1994, 108 Stat. 1904; amended Pub. L. 104–132, title II, §205(b), Apr. 24, 1996, 110 Stat. 1231.)
 

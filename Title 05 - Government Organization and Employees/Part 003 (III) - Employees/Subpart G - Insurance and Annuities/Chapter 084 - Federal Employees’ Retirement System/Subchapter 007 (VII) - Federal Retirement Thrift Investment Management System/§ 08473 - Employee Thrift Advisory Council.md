@@ -1,8 +1,8 @@
 ### §8473. Employee Thrift Advisory Council
 
-(a) The Board shall establish an Employee Thrift Advisory Council. The Council shall be composed of 14 members appointed by the Chairman of the Board in accordance with subsection (b).
+(a) The Board shall establish an Employee Thrift Advisory Council. The Council shall be composed of 15 members appointed by the Chairman of the Board in accordance with subsection (b).
 
-(b) The Chairman shall appoint 14 members of the Council, of whom—
+(b) The Chairman shall appoint 15 members of the Council, of whom—
 
 &emsp;(1) 4 shall be appointed to represent the respective labor organizations representing (as exclusive representatives) the first, second, third, and fourth largest numbers of individuals subject to chapter 71 of this title;
 
@@ -18,9 +18,11 @@
 
 &emsp;(7) 1 shall be appointed to represent the organization representing the largest number of individuals receiving annuities under this chapter or chapter 83 of this title;
 
-&emsp;(8) 1 shall be appointed to represent the organization representing the largest number of supervisors and management officials (as defined by section 7103(a)); and
+&emsp;(8) 1 shall be appointed to represent the organization representing the largest number of supervisors and management officials (as defined by section 7103(a));
 
-&emsp;(9) 1 shall be appointed to represent the organization representing the largest number of members of the Senior Executive Service.
+&emsp;(9) 1 shall be appointed to represent the organization representing the largest number of members of the Senior Executive Service; and
+
+&emsp;(10) 1 shall be appointed to represent participants (under section 8440e) who are members of the uniformed services.
 
 (c)(1) The Chairman of the Board shall designate 1 member of the Council to serve as head of the Council.
 
@@ -48,29 +50,17 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 579; amended Pub. L. 103–89, §3(b)(1)(N), Sept. 30, 1993, 107 Stat. 982; Pub. L. 106–65, div. A, title VI, §661(a)(6), Oct. 5, 1999, 113 Stat. 672.)
 
-#### Amendment of Section
-
-<i>Pub. L. 106–65, div. A, title VI, §§661(a)(6), 663, Oct. 5, 1999, 113 Stat. 672, 673, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that effective 180 days after Oct. 30, 2000, unless postponed, this section is amended—</i>
-
-<i>(1) in subsection (a), by striking “14 members” and inserting “15 members”; and</i>
-
-<i>(2) in subsection (b)—</i>
-
-<i>(A) by striking “14 members” and inserting “15 members”;</i>
-
-<i>(B) by striking “and” at the end of paragraph (8);</i>
-
-<i>(C) by striking the period at the end of paragraph (9) and inserting “; and”; and</i>
-
-<i>(D) by adding at the end the following:</i>
-
-(10) 1 shall be appointed to represent participants (under section 8440e) who are members of the uniformed services.
-
 #### References in Text
 
 Section 14(a)(2) of the Federal Advisory Committee Act \[Pub. L. 92–463\], referred to in subsec. (f), is section 14(a)(2) of Pub. L. 92–463, which is set out in the Appendix to this title.
 
 #### Amendments
+
+1999—Subsec. (a). Pub. L. 106–65, §661(a)(6)(A), substituted “15 members” for “14 members”.
+
+Subsec. (b). Pub. L. 106–65, §661(a)(6)(B)(i), substituted “15 members” for “14 members” in introductory provisions.
+
+Subsec. (b)(10). Pub. L. 106–65, §661(a)(6)(B)(ii)–(iv), added par. (10).
 
 1993—Subsec. (b)(8). Pub. L. 103–89 substituted “supervisors and management officials (as defined by section 7103(a))” for “individuals subject to the Performance Management and Recognition System under chapter 54 of this title”.
 

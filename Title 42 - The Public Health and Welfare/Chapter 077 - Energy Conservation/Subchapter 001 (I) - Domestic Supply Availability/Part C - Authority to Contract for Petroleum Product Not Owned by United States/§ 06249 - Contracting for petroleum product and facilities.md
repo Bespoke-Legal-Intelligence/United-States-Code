@@ -16,7 +16,7 @@ Subject to the other provisions of this part, the Secretary may contract—
 
 &emsp;(A) the Secretary determines (i) that entering into one or more contracts under such subsection would achieve benefits comparable to the acquisition of an equivalent amount of petroleum product, or an equivalent volume of storage capacity, for the Reserve under part B of this subchapter, and (ii) that, because of budgetary constraints, the acquisition of an equivalent amount of petroleum product or volume of storage space for the Reserve cannot be accomplished under part B of this subchapter; and
 
-&emsp;(B) the Secretary notifies each House of the Congress of the determination and identifies in the notification the location, type, and ownership of storage and related facilities proposed to be included, or the volume, type, and ownership of petroleum products proposed to be stored, in the Reserve, and an estimate of the proposed benefits.
+&emsp;(B) the Secretary notifies each House of the Congress of the determination and identifies in the notification the location, type, and ownership of storage and related facilities proposed to be included, or the volume, type, and ownership of petroleum products proposed tobe stored, in the Reserve, and an estimate of the proposed benefits.
 
 (3) A contract entered into under subsection (a) of this section shall not limit the discretion of the President or the Secretary to conduct a drawdown and sale of petroleum products from the Reserve.
 

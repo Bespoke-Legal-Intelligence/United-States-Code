@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall, by competitively making grants or entering into contracts and cooperative agreements with eligible entities, provide technical assistance and information, through such mechanisms as institutes, Regional Resource Centers, clearinghouses, and programs that support States and local entities in building capacity, to improve early intervention, educational, and transitional services and results for children with disabilities and their families, and address systemic-change goals and priorities.
+The Secretary shall, by competitively making grants or entering into contracts and cooperative agreements with eligible entities, provide technical assistance and information, through such mechanisms as institutes, Regional Resource Centers, clearinghouses, and programs that support States and local entities in building capacity, to improve early intervention, educational, and transitional services and results for children with disabilities and theirfamilies, and address systemic-change goals and priorities.
 
 #### (b) Systemic technical assistance; authorized activities
 
@@ -56,7 +56,7 @@ The Secretary shall, by competitively making grants or entering into contracts a
 
 #### (1) In general
 
-&emsp;In carrying out this section, the Secretary shall carry out or support information dissemination activities that are consistent with the objectives described in subsection (a) of this section, including activities that addressnational needs for the preparation and dissemination of information relating to eliminating barriers to systemic-change and improving early intervention, educational, and transitional results for children with disabilities.
+&emsp;In carrying out this section, the Secretary shall carry out or support information dissemination activities that are consistent with the objectives described in subsection (a) of this section, including activities that address national needs for the preparation and dissemination of information relating to eliminating barriers to systemic-change and improving early intervention, educational, and transitional results for children with disabilities.
 
 #### (2) Authorized activities
 

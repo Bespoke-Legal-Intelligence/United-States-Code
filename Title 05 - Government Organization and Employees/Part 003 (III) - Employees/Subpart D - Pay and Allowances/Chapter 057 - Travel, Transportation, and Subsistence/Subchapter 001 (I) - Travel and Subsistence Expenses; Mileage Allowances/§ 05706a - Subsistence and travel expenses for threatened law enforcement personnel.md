@@ -12,5 +12,5 @@ Section effective (1) on effective date of regulations to be promulgated not lat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5707 of this title; title 7 sections 3128, 5843; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 section 1474; title 24 section 415.
+This section is referred to in section 5707 of this title; title 7 sections 3128, 5843; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709, 5727; title 22 section 1474; title 24 section 416.
 

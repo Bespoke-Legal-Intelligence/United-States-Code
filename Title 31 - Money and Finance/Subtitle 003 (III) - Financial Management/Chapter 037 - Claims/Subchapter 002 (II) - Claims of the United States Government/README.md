@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 3701, 3712 of this title; title 8 section 1183a; title 21 section 379h.
+This subchapter is referred to in sections 3701, 3712 of this title; title 8 section 1183a; title 21 sections 379h, 379j.
 
 
 ---

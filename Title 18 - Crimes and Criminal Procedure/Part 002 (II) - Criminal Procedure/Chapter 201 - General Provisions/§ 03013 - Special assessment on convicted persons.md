@@ -32,7 +32,7 @@
 
 (d) For the purposes of this section, an offense under section 13 of this title is an offense against the United States.
 
-(Added Pub. L. 98–473, title II, §1405(a), Oct. 12, 1984, 98 Stat. 2174; amended Pub. L. 100–185, §3, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §§7082(b), 7085, Nov. 18, 1988, 102 Stat. 4407, 4408; Pub. L. 101–647, title XXXV, §3569, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 104–132, title II, §210,Apr. 24, 1996, 110 Stat. 1240; Pub. L. 104–294, title VI, §601(r)(4), Oct. 11, 1996, 110 Stat. 3502.)
+(Added Pub. L. 98–473, title II, §1405(a), Oct. 12, 1984, 98 Stat. 2174; amended Pub. L. 100–185, §3, Dec. 11, 1987, 101 Stat. 1279; Pub. L. 100–690, title VII, §§7082(b), 7085, Nov. 18, 1988, 102 Stat. 4407, 4408; Pub. L. 101–647, title XXXV, §3569, Nov. 29, 1990, 104 Stat. 4928; Pub. L. 104–132, title II, §210, Apr. 24, 1996, 110 Stat. 1240; Pub. L. 104–294, title VI, §601(r)(4), Oct. 11, 1996, 110 Stat. 3502.)
 
 #### Amendments
 

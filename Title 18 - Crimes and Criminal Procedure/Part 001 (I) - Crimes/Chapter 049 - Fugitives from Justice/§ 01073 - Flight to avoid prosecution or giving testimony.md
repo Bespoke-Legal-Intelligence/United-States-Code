@@ -26,7 +26,7 @@ Minor changes were made in phraseology.
 
 1994—Pub. L. 103–322, §330016(1)(K), substituted “fined under this title” for “fined not more than $5,000”.
 
-Pub. L. 103–322, §330004(19), struck out “or which, in the case of New Jersey, is a high misdemeanor under the laws of said State,” before “or (2) to avoid” and “or which in the case of New Jersey, is a high misdemeanorunder the laws of said State,” before “is charged, or (3)”.
+Pub. L. 103–322, §330004(19), struck out “or which, in the case of New Jersey, is a high misdemeanor under the laws of said State,” before “or (2) to avoid” and “or which in the case of New Jersey, is a high misdemeanor under the laws of said State,” before “is charged, or (3)”.
 
 1988—Pub. L. 100–690 inserted “, the Deputy Attorney General, the Associate Attorney General,” after “the Attorney General”.
 
@@ -53,8 +53,4 @@ Pub. L. 96–611, §10, Dec. 28, 1980, 94 Stat. 3573, provided that:
 &emsp;“(2) data relating to the number of complaints issued in such cases; and
 
 &emsp;“(3) such other information as may assist in describing the activities of the Department of Justice in conformance with such intent.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
 

@@ -26,7 +26,7 @@ In subsection (b), the words “may not” are substituted for “shall not”.
 
 #### 1948 Act
 
-<i>Prior section 551.—</i>Based on title 28, U.S.C., 1940 ed., §§577, 578a (R.S. §846; May 28, 1896, ch. 252, §§6, 13, 24, 29Stat. 179, 183, 186; May 27, 1908, ch. 200, §1, 35 Stat. 375; June 6, 1930, ch. 409, 46 Stat. 522; Oct. 13, 1941, ch. 431, §1, 55 Stat. 736).
+<i>Prior section 551.—</i>Based on title 28, U.S.C., 1940 ed., §§577, 578a (R.S. §846; May 28, 1896, ch. 252, §§6, 13, 24, 29 Stat. 179, 183, 186; May 27, 1908, ch. 200, §1, 35 Stat. 375; June 6, 1930, ch. 409, 46 Stat. 522; Oct. 13, 1941, ch. 431, §1, 55 Stat. 736).
 
 Section consolidates first sentence of section 577 with section 578a of title 28, U.S.C., 1940 ed., with changes of phraseology necessary to effect consolidation. Other provisions of said section 577 are incorporated in section 1929 of this title.
 
@@ -42,5 +42,5 @@ A prior section 567, added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 620
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–690 renumbered section 572 of this title as this section.
+1988—Pub. L. 100–690 renumbered section 572 of this title as this section.
 

@@ -2,13 +2,13 @@
 
 (a)
 
-Prevailing Wages and Health and Safety Standards.—Amtrak shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed under an agreement made under section 24308(a) of this title will be paid wages not less than those prevailing on similar construction in thelocality, as determined by the Secretary of Labor under the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5). Amtrak may make such an agreement only after being assured that required labor standards will be maintained on the construction work. Health and safety standards prescribed by the Secretary under section 107 of the Contract Work Hours and Safety Standards Act (40 U.S.C. 333) apply to all construction work performed under such an agreement, except for construction work performed by a rail carrier.
+Prevailing Wages and Health and Safety Standards.—Amtrak shall ensure that laborers and mechanics employed by contractors and subcontractors in construction work financed under an agreement made under section 24308(a) of this title will be paid wages not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor under sections 3141–3144, 3146, and 3147 of title 40. Amtrak may make such an agreement only after being assured that required labor standards will be maintained on the construction work. Health and safety standards prescribed by the Secretary under section 3704 of title 40 apply to all construction work performed under such an agreement, except for construction work performed by a rail carrier.
 
 (b)
 
-Wage Rates.—Wage rates in a collective bargaining agreement negotiated under the Railway Labor Act (45 U.S.C. 151 et seq.) are deemed to comply with the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5).
+Wage Rates.—Wage rates in a collective bargaining agreement negotiated under the Railway Labor Act (45 U.S.C. 151 et seq.) are deemed to comply with sections 3141–3144, 3146, and 3147 of title 40.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 916; Pub. L. 105–134, title I, §§101(f), 105(c), 121(a), Dec. 2, 1997, 111 Stat. 2572–2574.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 916; Pub. L. 105–134, title I, §§101(f), 105(c), 121(a), Dec. 2, 1997, 111 Stat. 2572–2574; Pub. L. 107–217, §3(n)(4), Aug. 21, 2002, 116 Stat. 1302.)
 
 Historical and Revision Notes
 
@@ -40,11 +40,13 @@ In subsection (b)(1), the words “Except as provided in paragraph (2) of this s
 
 #### References in Text
 
-Act of March 3, 1931, referred to in text, is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to section 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 The Railway Labor Act, referred to in subsec. (b), is act May 20, 1926, ch. 347, 44 Stat. 577, as amended, which is classified principally to chapter 8 (§151 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 151 of Title 45 and Tables.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–217, §3(n)(4)(A), substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)” and “section 3704 of title 40” for “section 107 of the Contract Work Hours and Safety Standards Act (40 U.S.C. 333)”.
+
+Subsec. (b). Pub. L. 107–217, §3(n)(4)(B), substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (known as the Davis-Bacon Act) (40 U.S.C. 276a—276a–5)”.
 
 1997—Subsec. (a)(1). Pub. L. 105–134, §121(a)(2), redesignated par. (1) as subsec. (a).
 

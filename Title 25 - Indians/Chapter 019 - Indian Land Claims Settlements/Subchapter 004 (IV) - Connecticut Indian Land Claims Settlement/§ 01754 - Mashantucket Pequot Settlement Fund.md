@@ -28,7 +28,7 @@ There is hereby established in the United States Treasury an account to be known
 
 (8) Land or natural resources acquired under this subsection which are located outside of the settlement lands shall be held in fee by the Mashantucket Pequot Tribe, and the United States shall have no further trust responsibility with respect to such land and natural resources. Such land and natural resources shall not be subject to any restriction against alienation under the laws of the United States.
 
-(9) Notwithstanding the provisions of section 257 of title 40 and section 258a of title 40, the Secretary may acquire land or natural resources under this section from the ostensible owner of the land or natural resources only if the Secretary and the ostensible owner of the land or natural resources have agreed upon the identity of the land or natural resources to be sold and upon the purchase price and other terms of sale.Subject to the agreement required by the preceding sentence, the Secretary may institute condemnation proceedings in order to perfect title, satisfactory to the Attorney General, in the United States and condemn interests adverse to the ostensible owner.
+(9) Notwithstanding the provisions of sections 3113 and 3114(a) to (d) of title 40, the Secretary may acquire land or natural resources under this section from the ostensible owner of the land or natural resources only if the Secretary and the ostensible owner of the land or natural resources have agreed upon the identity of the land or natural resources to be sold and upon the purchase price and other terms of sale. Subject to the agreement required by the preceding sentence, the Secretary may institute condemnation proceedings in order to perfect title, satisfactory to the Attorney General, in the United States and condemn interests adverse to the ostensible owner.
 
 #### (c) Transfer of private settlement land as involuntary conversion
 
@@ -43,6 +43,10 @@ The Secretary may not expend on behalf of the Tribe any sums deposited in the Fu
 There is authorized to be appropriated $900,000 to be deposited in the Fund.
 
 (Pub. L. 98–134, §5, Oct. 18, 1983, 97 Stat. 853; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+
+#### Codification
+
+“Sections 3113 and 3114(a) to (d) of title 40” substituted in subsec. (b)(9) for “the first section of the Act of August 1, 1888 (25 Stat. 357, chapter 728), as amended, and the first section of the Act of February 26, 1931 (46 Stat. 1421, chapter 307)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

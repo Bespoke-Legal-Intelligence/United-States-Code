@@ -16,7 +16,7 @@ As part of the annual presentation materials for foreign assistance submitted to
 
 #### (e) Availability of funds
 
-Amounts appropriated to carry out this part shall be available for economic programs onlyand may not be used for military or paramilitary purposes.
+Amounts appropriated to carry out this part shall be available for economic programs only and may not be used for military or paramilitary purposes.
 
 (Pub. L. 87–195, pt. II, §531, as added Pub. L. 99–83, title II, §201(a), Aug. 8, 1985, 99 Stat. 210; amended Pub. L. 101–513, title V, §562(d)(8), Nov. 5, 1990, 104 Stat. 2031; Pub. L. 105–277, div. A, §101(d) \[title V, §533(a)(5)\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–180.)
 
@@ -47,6 +47,24 @@ Section effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as 
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
+
+#### Assistance to Lebanon
+
+Pub. L. 107–228, div. B, title XII, §1224, Sept. 30, 2002, 116 Stat. 1432, provided that:
+
+“(a)
+
+Prohibition.—Notwithstanding any other provision of law, $10,000,000 of the amounts made available for fiscal year 2003 or any subsequent fiscal year that are allocated for assistance to Lebanon under chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 et seq.; relating to the economic support fund) may not be obligated unless and until the President certifies to the appropriate congressional committees that—
+
+&emsp;“(1) the armed forces of Lebanon have been deployed to the internationally recognized border between Lebanon and Israel; and
+
+&emsp;“(2) the Government of Lebanon is effectively asserting its authority in the area in which such armed forces have been deployed.
+
+“(b)
+
+Requirement Relating to Funds Withheld.—Notwithstanding any other provision of law, any funds withheld pursuant to subsection (a) may not be programmed in order to be used for a purpose other than for assistance to Lebanon until the last month of the fiscal year in which the authority to obligate such funds lapses.”
+
+\[For definition of “appropriate congressional committees” as used in section 1224 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 #### Reports on Economic Conditions Prevailing in Egypt, Israel, Turkey, and Portugal
 

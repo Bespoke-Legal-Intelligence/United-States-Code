@@ -30,7 +30,7 @@
 
 (b)(1) A payment under section 6902 of this title is equal to the greater of—
 
-&emsp;(A) 93 cents during fiscal year 1995, $1.11 during fiscal year 1996, $1.29 during fiscal year 1997, $1.47 during fiscal year 1998, and $1.65 during fiscal year 1999 and thereafter, for each acre of entitlement land located within a unit of general local government (but not more than the limitation determined under subsection (c) of this section) reduced (but not below 0) by amounts the unit received in the prior fiscal year under a payment law; or
+&emsp;(A) 93 cents during fiscal year 1995, $1.11 during fiscal year 1996, $1.29 during fiscal year 1997, $1.47 during fiscal year 1998, and $1.65 during fiscal year 1999 and thereafter, for each acre of entitlement land located within a unitof general local government (but not more than the limitation determined under subsection (c) of this section) reduced (but not below 0) by amounts the unit received in the prior fiscal year under a payment law; or
 
 &emsp;(B) 12 cents during fiscal year 1995, 15 cents during fiscal year 1996, 17 cents during fiscal year 1997, 20 cents during fiscal year 1998, and 22 cents during fiscal year 1999 and thereafter, for each acre of entitlement land located in the unit (but not more than the limitation determined under subsection (c) of this section).
 
@@ -214,7 +214,7 @@ $110.00&nbsp;
 
 &emsp;&emsp;44,000
 
-47\.00 
+47\.00&nbsp;
 
 &emsp;&emsp;45,000
 

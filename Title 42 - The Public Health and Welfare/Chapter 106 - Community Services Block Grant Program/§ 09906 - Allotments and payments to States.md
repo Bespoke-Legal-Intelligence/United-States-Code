@@ -12,7 +12,7 @@ The Secretary shall, from the amount appropriated under section 9903(a) of this 
 
 #### (1) Minimum allotments
 
-&emsp;Subject to paragraphs (2) and (3), if the amount appropriated under section 9903(a) of this title for a fiscal year that remains after the Secretary makes the reservations required in section 9903(b) of this title exceeds $345,000,000, the Secretary shall allot to each State not less than 1/2 of 1 percent of the amount appropriated under section 9903(a) of this title for such fiscal year.
+&emsp;Subject to paragraphs (2) and (3), if the amount appropriated under section 9903(a) of this title for a fiscal year that remains after the Secretary makes the reservations required in section 9903(b) of this title exceeds $345,000,000, the Secretary shall allot to eachState not less than 1/2 of 1 percent of the amount appropriated under section 9903(a) of this title for such fiscal year.
 
 #### (2) Maintenance of fiscal year 1990 levels
 

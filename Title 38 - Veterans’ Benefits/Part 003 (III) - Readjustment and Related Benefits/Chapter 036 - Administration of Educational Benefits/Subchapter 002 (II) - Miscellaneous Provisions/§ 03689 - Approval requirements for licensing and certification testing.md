@@ -22,7 +22,7 @@ Requirements for Organizations or Entities Offering Tests.—(1) Each organizati
 
 &emsp;(A) The organization or entity certifies to the Secretary that the licensing or certification test offered by the organization or entity is generally accepted, in accordance with relevant government, business, or industry standards, employment policies, or hiring practices, as attesting to a level of knowledge or skill required to qualify to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession.
 
-&emsp;(B) The organization or entity is licensed, chartered, or incorporated in a State and has offered the test for a minimum of two years before the date on which the organization or entity first submits to the Secretary an application for approval under this section.
+&emsp;(B) The organization or entity is licensed, chartered, or incorporated in a State and has offered such test, or a test to certify or license in a similar or related occupation, for a minimum of two years before the date on which the organization or entity first submits to the Secretary an application for approval under this section.
 
 &emsp;(C) The organization or entity employs, or consults with, individuals with expertise or substantial experience with respect to all areas of knowledge or skill that are measured by the test and that are required for the license or certificate issued.
 
@@ -38,7 +38,7 @@ Requirements for Organizations or Entities Offering Tests.—(1) Each organizati
 
 &emsp;(ii) The organization or entity has in place a process to review complaints submitted against the organization or entity with respect to the test or the process for obtaining a license or certificate required for vocations or professions.
 
-&emsp;(G) The organization or entity furnishes to the Secretary such information with respect to the test as the Secretary requires to determine whether payment may be made for the test under chapter 30, 32, 34, or 35 of this title, including personal identifying information, fee payment, and test results. Such information shall be furnished in the form prescribed by the Secretary.
+&emsp;(G) The organization or entity furnishes to the Secretary such information with respectto the test as the Secretary requires to determine whether payment may be made for the test under chapter 30, 32, 34, or 35 of this title, including personal identifying information, fee payment, and test results. Such information shall be furnished in the form prescribed by the Secretary.
 
 &emsp;(H) The organization or entity furnishes to the Secretary the following information:
 
@@ -78,11 +78,15 @@ Professional Certification and Licensure Advisory Committee.—(1) There is esta
 
 (5) The Committee shall terminate December 31, 2006.
 
-(Added Pub. L. 106–419, title I, §122(c)(1), Nov. 1, 2000, 114 Stat. 1835.)
+(Added Pub. L. 106–419, title I, §122(c)(1), Nov. 1, 2000, 114 Stat. 1835; amended Pub. L. 107–330, title III, §308(d), Dec. 6, 2002, 116 Stat. 2828.)
 
 #### Prior Provisions
 
-A prior section 3689, added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1087, §1789; amended Pub. L. 94–502, title V, §509(b), Oct. 15, 1976, 90 Stat. 2401; Pub. L. 95–202, title III, §305(a)(1), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title VI, §601(g), Oct. 17, 1980, 94 Stat. 2208; Pub. L. 101–237, title IV, §§418, 423(b)(1)(A),Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered §3689, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406, related to approval of enrollment in courses in operation for less than two years, prior to repeal by Pub. L. 104–275, title I, §103(a)(1)(A), Oct. 9, 1996, 110 Stat. 3326.
+A prior section 3689, added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1087, §1789; amended Pub. L. 94–502, title V, §509(b), Oct. 15, 1976, 90 Stat. 2401; Pub. L. 95–202, title III, §305(a)(1), Nov. 23, 1977, 91 Stat. 1442; Pub. L. 96–466, title VI, §601(g), Oct. 17, 1980, 94 Stat. 2208; Pub. L. 101–237, title IV, §§418, 423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered §3689, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406, related to approval of enrollment in courses in operation for less than two years, prior to repeal by Pub. L. 104–275, title I, §103(a)(1)(A), Oct. 9, 1996, 110 Stat. 3326.
+
+#### Amendments
+
+2002—Subsec. (c)(1)(B). Pub. L. 107–330 substituted “such test, or a test to certify or license in a similar or related occupation,” for “the test”.
 
 #### Effective Date
 

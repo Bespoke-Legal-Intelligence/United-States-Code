@@ -20,7 +20,7 @@ For purposes of this subchapter:
 
 &emsp;(9) The term “service area” means the area composed of the State of South Carolina and Cabarrus, Cleveland, Gaston, Mecklenburg, Rutherford, and Union counties in the State of North Carolina.
 
-&emsp;(10) The term “Settlement Agreement” means the document entitled “Agreement in Principle” between the Tribe and the State of South Carolina and attached to the copy of the State Act and filed with the Secretary of State of the State of South Carolina, as amended to conform to this subchapter and printed in the Congressional Record.
+&emsp;(10) The term “Settlement Agreement” means the document entitled “Agreement in Principle” between the Tribe and the State of South Carolina and attached to the copy of the State Act and filed with the Secretary of State of the State of South Carolina, asamended to conform to this subchapter and printed in the Congressional Record.
 
 &emsp;(11) The term “State” means, except for section 941d(a) through (f) of this title, the State of South Carolina.
 

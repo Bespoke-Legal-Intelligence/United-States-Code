@@ -38,7 +38,7 @@
 
 &emsp;&emsp;(IV) $2.60 for each participant, for the ninth plan year, and for each succeeding plan year.
 
-(B) The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once forany plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in subparagraph (A)(iii) will not apply to the same participant in any multiemployer plan more than once for any plan year.
+(B) The corporation may prescribe by regulation the extent to which the rate described in subparagraph (A)(i) applies more than once for any plan year to an individual participating in more than one plan maintained by the same employer, and the corporation may prescribe regulations under which the rate described in subparagraph (A)(iii) will not apply to the same participant in any multiemployer plan more than once for any plan year.
 
 (C)(i) If the sum of—
 
@@ -54,7 +54,7 @@
 
 (iv) The provisions of this subparagraph shall not apply if the annual premium rate is increased to a level in excess of $2.60 per participant under any other provisions of this subchapter.
 
-(D)(i) Not later than 120 days before the date on which an increase under subparagraph (C)(ii) is to become effective, the corporation shall publish in the Federal Register a notice of the determination described in subparagraph (C)(ii), the basis for the determination, the amount of the increase in the premium, and the anticipated increase in premium income that would result from the increase in the premium rate. The notice shall invite public comment, and shall provide for a public hearing if one is requested. Any such hearing shall be commenced not later than 60 days before the date on which the increase is to become effective.
+(D)(i) Not later than 120 days before the date on which an increase under subparagraph (C)(ii) is to become effective, the corporation shall publish in the Federal Register a notice of the determination described in subparagraph (C)(ii),the basis for the determination, the amount of the increase in the premium, and the anticipated increase in premium income that would result from the increase in the premium rate. The notice shall invite public comment, and shall provide for a public hearing if one is requested. Any such hearing shall be commenced not later than 60 days before the date on which the increase is to become effective.
 
 (ii) The board of directors shall review the hearing record established under clause (i) and shall, not later than 30 days before the date on which the increase is to become effective, determine (after consideration of the comments received) whether the amount of the increase should be changed and shall publish its determination in the Federal Register.
 
@@ -70,6 +70,8 @@
 
 &emsp;(III) In the case of any plan year for which the applicable percentage under subclause (II) is 100 percent, the value of the plan's assets used in determining unfunded current liability under subclause (I) shall be their fair market value.
 
+&emsp;(IV) In the case of plan years beginning after December 31, 2001, and before January 1, 2004, subclause (II) shall be applied by substituting “100 percent” for “85 percent”. Subclause (III) shall be applied for such years without regard to the preceding sentence. Any reference to this clause by any other sections or subsections shall be treated as a reference to this clause without regard to this subclause.
+
 (iv) No premium shall be determined under this subparagraph for any plan year if, as of the close of the preceding plan year, contributions to the plan for the preceding plan year were not less than the full funding limitation for the preceding plan year under section 412(c)(7) of title 26.
 
 (4) The corporation may prescribe, subject to the enactment of a joint resolution in accordance with this section or section 1322a(f) of this title, alternative schedules of premium rates, and bases for the application of those rates, for basic benefits guaranteed by it under sections 1322 and 1322a of this title based, in whole or in part, on the risks insured by the corporation in each plan.
@@ -84,7 +86,7 @@
 
 (B) Notwithstanding subparagraph (A), premium rates charged to any multiemployer plan by the corporation for any period for supplemental guarantees under section 1322a(g)(2) of this title may reflect any reasonable considerations which the corporation determines to be appropriate.
 
-(6)(A) In carrying out its authority under paragraph (1) to establish premium rates and bases for basic benefits guaranteed under section 1322 of this title with respect to single-employer plans, the corporation shall establishsuch rates and bases in coverage schedules in accordance with the provisions of this paragraph.
+(6)(A) In carrying out its authority under paragraph (1) to establish premium rates and bases for basic benefits guaranteed under section 1322 of this title with respect to single-employer plans, the corporation shall establish such rates and bases in coverage schedules in accordance with the provisions of this paragraph.
 
 (B) The corporation may establish annual premiums for single-employer plans composed of the sum of—
 
@@ -148,13 +150,15 @@
 
 &emsp;&emsp;(ii) the denominator of which is 12.
 
-(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046.)
+(Pub. L. 93–406, title IV, §4006, Sept. 2, 1974, 88 Stat. 1010; Pub. L. 96–364, title I, §105, Sept. 26, 1980, 94 Stat. 1264; Pub. L. 99–272, title XI, §11005(a)–(c)(3), Apr. 7, 1986, 100 Stat. 240–242; Pub. L. 100–203, title IX, §9331(a), (b), (e), Dec. 22, 1987, 101 Stat. 1330–367, 1330–368; Pub. L. 101–239, title VII, §7881(h), Dec. 19, 1989, 103 Stat. 2442; Pub. L. 101–508, title XII, §12021(a), (b), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–465, title VII, §774(a)(1), (b)(1), (2), Dec. 8, 1994, 108 Stat. 5045, 5046; Pub. L. 107–147, title IV, §405(c), Mar. 9, 2002, 116 Stat. 43.)
 
 #### References in Text
 
 The plan year within which the date of enactment of the Multiemployer Pension Plan Amendments Act of 1980 falls, referred to in subsec. (a)(3)(A)(ii), refers to the plan year within which the date of the enactment of Pub. L. 96–364 falls, such enactment being approved Sept. 26, 1980.
 
 #### Amendments
+
+2002—Subsec. (a)(3)(E)(iii)(IV). Pub. L. 107–147 added subcl. (IV).
 
 1994—Subsec. (a)(3)(E)(iii). Pub. L. 103–465, §774(b)(1), (2), in subcl. (I), inserted “or (III)” after “subclause (II)”, in subcl. (II), substituted “equal to the applicable percentage” for “equal to 80 percent” and inserted at end “For purposes of this subclause, the applicable percentage is 80 percent for plan years beginning before July 1, 1997, 85 percent for plan years beginning after June 30, 1997, and before the 1st plan year to which the first tables prescribed under section 1082(d)(7)(C)(ii)(II) of this title apply, and 100 percent for such 1st plan year and subsequent plan years.”, and added subcl. (III).
 
@@ -196,7 +200,7 @@ Subsec. (b)(3). Pub. L. 99–272, §11005(c)(3), substituted “joint” for “
 
 Subsec. (c)(1)(A). Pub. L. 99–272, §11005(a)(2), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of each plan which was not a multiemployer plan in a plan year, an amount equal to $1 for each individual who was a participant in such plan during the plan year, and”.
 
-1980—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation toprescribe schedules of premium rates and bases for the application of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
+1980—Subsec. (a). Pub. L. 96–364, §105(a), substituted provisions setting forth authority of corporation to prescribe schedules of premium rates and bases for the application of such rates and provisions respecting contents, coverages, alternate schedules, etc., of schedules and application bases, for provisions setting forth authority of corporation to prescribe insurance premium rates and coverage schedules for the application of such rates and provisions respecting contents, coverages, rates, etc., of schedules and premium rates.
 
 Subsec. (b). Pub. L. 96–364, §105(b), in par. (1) substituted “(C), (D), or (E)” for “(B) or (C)”, “revised schedule” for “revised coverage schedule”, and “Human Resources” for “Public Welfare”, in par. (3) substituted “revised schedule” for “revised coverage schedule”, and in par. (4) substituted “Human Resources” for “Public Welfare”.
 
@@ -216,7 +220,7 @@ In general.—The amendments made by this subsection \[amending this section\] s
 
 “(B)
 
-Transition rule.—In the case of plan years beginning on or after July 1, 1994, and before July 1, 1996, the additional premium payable with respect to any participant by reason of the amendments made by this section shall not exceed the sum of—
+Transition rule.—In the case of plan years beginning on or after July 1, 1994, and before July 1, 1996,the additional premium payable with respect to any participant by reason of the amendments made by this section shall not exceed the sum of—
 
 &emsp;“(i) $53, and
 

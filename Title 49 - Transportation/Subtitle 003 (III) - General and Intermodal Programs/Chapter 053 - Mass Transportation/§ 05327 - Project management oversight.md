@@ -36,7 +36,7 @@ Plan Approval.—(1) The Secretary shall approve a plan not later than 60 days a
 
 (c)
 
-Limitations on Use of Available Amounts.—(1) The Secretary may use not more than .5 percent of amounts made available for a fiscal year to carry out section 5307, 5309, or 5311 of this title, an interstate transfer mass transportation project under section 103(e)(4) <sup>1</sup> of title 23 as in effect on September 30, 1991, or a project under the National Capital Transportation Actof 1969 (Public Law 91–143, 83 Stat. 320) to make a contract to oversee the construction of a major project under section 5307, 5309, 5311, or 103(e)(4) <sup>1</sup> or that Act. The Secretary may use when necessary not more than an additional .25 percent of amounts made available in a fiscal year to carry out a major project under section 5309 to make a contract to oversee the construction of the project.
+Limitations on Use of Available Amounts.—(1) The Secretary may use not more than .5 percent of amounts made available for a fiscal year to carry out section 5307, 5309, or 5311 of this title, an interstate transfer mass transportation project under section 103(e)(4) <sup>1</sup> of title 23 as in effect on September 30, 1991, or a project under the National Capital Transportation Act of 1969 (Public Law 91–143, 83 Stat. 320) to make a contract to oversee the construction of a major project under section 5307, 5309, 5311, or 103(e)(4) <sup>1</sup> or that Act. The Secretary may use when necessary not more than an additional .25 percent of amounts made available in a fiscal year to carry out a major project under section 5309 to make a contract to oversee the construction of the project.
 
 (2) The Secretary may use amounts available under paragraph (1) of this subsection to enter into contracts for safety, procurement, management, and financial compliance reviews and audits of a recipient of amounts under paragraph (1) and to provide technical assistance to correct deficiencies identified in compliance reviews and audits carried out under this section. Subsections (a), (b), and (e) of this section do not apply to contracts under this paragraph.
 
@@ -124,7 +124,7 @@ This amends 49:5327(c) to correct an erroneous cross-reference.
 
 #### References in Text
 
-The National Capital Transportation Act of 1969, referred to in subsecs. (a), (c)(1), and (d), is Pub. L. 91–143, Dec. 9, 1969, 83 Stat. 320, as amended, which amended section 24 of Title 12, Banks and Banking, and section 684 of Title 40, Public Buildings, Property, and Works, and repealed sections 651, 652, 661 to 665, 671, 682, and 683 of Title 40 and provisions set out as notes under section 651 of Title 40. Section 14(b) of that Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
+The National Capital Transportation Act of 1969, referred to in subsecs. (a), (c)(1), and (d), is Pub. L. 91–143, Dec. 9, 1969, 83 Stat. 320, as amended, which amendedsection 24 of Title 12, Banks and Banking, and section 684 of former Title 40, Public Buildings, Property, and Works, and repealed sections 651, 652, 661 to 665, 671, 682, and 683 of former Title 40 and provisions set out as notes under section 651 of former Title 40. Section 14(b) of that Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 Section 103 of title 23, referred to in subsec. (c)(1), was amended generally by Pub. L. 105–178, title I, §1106(b), June 9, 1998, 112 Stat. 131, and, as so amended, no longer contains a subsec. (e)(4).
 

@@ -24,7 +24,7 @@
 
 (4) Applications for grants and loans under this subsection shall be in such form and contain such information as the Secretary shall prescribe.
 
-(5) There are authorized to be appropriated for grants and loans under this subsection $5,000,000 for each of the fiscal years ending on September 30, 1983, September 30, 1984, September 30, 1985, September 30, 1986, and September 30, 1987.
+(5) There are authorized to be appropriated for grants and loans under this subsection $5,000,000 for each of the fiscal years ending on September30, 1983, September 30, 1984, September 30, 1985, September 30, 1986, and September 30, 1987.
 
 #### (b) Grants and contracts for training programs for paraprofessionals; considerations; applications; appropriations
 

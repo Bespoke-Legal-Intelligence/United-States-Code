@@ -23,4 +23,4 @@ This subchapter is referred to in section 917 of this title.
 - [&sect; 02009k - Rural development interagency working group](%C2%A7%2002009k%20-%20Rural%20development%20interagency%20working%20group.md)
 - [&sect; 02009l - Duties of Rural Economic and Community Development State Offices](%C2%A7%2002009l%20-%20Duties%20of%20Rural%20Economic%20and%20Community%20Development%20State%20Offices.md)
 - [&sect; 02009m - Electronic transfer](%C2%A7%2002009m%20-%20Electronic%20transfer.md)
-- [&sect; 02009n - Rural venture capital demonstration program](%C2%A7%2002009n%20-%20Rural%20venture%20capital%20demonstration%20program.md)
+- [&sect; 02009n - Repealed. Pub. L. 107&#8211;171, title VI, &sect;6026(b), May 13, 2002, 116 Stat. 372](%C2%A7%2002009n%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VI%2C%20%C2%A76026%28b%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20372.md)

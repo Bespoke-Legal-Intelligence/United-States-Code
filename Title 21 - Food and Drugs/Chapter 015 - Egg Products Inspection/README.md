@@ -62,7 +62,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 7 section 6519.
+This chapter is referred to in sections 350c, 381 of this title; title 7 section 6519.
 
 
 ---

@@ -132,10 +132,18 @@
 | (c) | Kennedy Center Revenue Bond Sinking Fund. |
 | [76p.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076p%20-%20Acceptance%20and%20disposition%20of%20gifts%20to%20the%20United%20States%20contributed%20in%20honor%20or%20memory%20of%20the%20late%20President%20John%20F.%20Kennedy.md) | Acceptance and disposition of gifts to the United States contributed in honor or memory of the late President John F. Kennedy. |
 | [76q.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076q%20-%20Sole%20national%20memorial%20to%20the%20late%20John%20F.%20Kennedy%20within%20the%20city%20of%20Washington%20and%20environs.md) | Sole national memorial to the late John F. Kennedy within the city of Washington and environs. |
+| 76q–1. | John F. Kennedy Center Plaza. |
+| (a) | Definitions. |
+| (b) | Responsibilities of the Secretary. |
+| (c) | Responsibilities of the Board. |
+| (d) | Responsibilities of the District of Columbia. |
+| (e) | Ownership. |
+| (f) | National highway boundaries. |
 | [76r.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076r%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Maintenance, repair, and security. |
 | (b) | Capital projects. |
-| (c) | Limitation on use of funds. |
+| (c) | John F. Kennedy Center Plaza. |
+| (d) | Limitation on use of funds. |
 | [76s.](Subchapter%20005%20%28V%29%20-%20John%20F.%20Kennedy%20Center%20for%20the%20Performing%20Arts/%C2%A7%2000076s%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;

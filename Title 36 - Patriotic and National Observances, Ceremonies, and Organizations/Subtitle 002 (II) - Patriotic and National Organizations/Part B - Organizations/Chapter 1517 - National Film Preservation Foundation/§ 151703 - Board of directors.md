@@ -12,7 +12,7 @@ Members and Appointment.—(1) The Librarian of Congress is an ex officio nonvot
 
 (B) Each director must be a United States citizen.
 
-(C) At least six directors must be knowledgeable or experienced in film production, distribution, preservation, or restoration, including two who are sitting members of the National Film Preservation Board. These six directors must, to the extent practicable, represent diverse points of view from the film community, including motion picture producers, creative artists, nonprofit and public archivists, historians, film critics, theater owners, and laboratory and university personnel.
+(C) At least six directors must be knowledgeable or experienced in film production, distribution, preservation, or restoration, including two who are sitting members of the National FilmPreservation Board. These six directors must, to the extent practicable, represent diverse points of view from the film community, including motion picture producers, creative artists, nonprofit and public archivists, historians, film critics, theater owners, and laboratory and university personnel.
 
 (3) A director is not an employee of the Library of Congress and appointment to the board does not constitute appointment as an officer or employee of the United States Government for the purpose of any law of the United States.
 

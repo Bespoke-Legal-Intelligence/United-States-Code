@@ -6,5 +6,5 @@ If the collection of a DNA sample from an individual on probation, parole, or su
 
 #### Codification
 
-Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000, and not as part of theViolent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
+Section was enacted as part of the DNA Analysis Backlog Elimination Act of 2000, and not as part of the Violent Crime Control and Law Enforcement Act of 1994 which enacted this chapter.
 

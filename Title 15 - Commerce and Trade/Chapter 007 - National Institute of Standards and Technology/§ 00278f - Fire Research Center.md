@@ -2,7 +2,7 @@
 
 #### (a) Establishment; programs of research; functions of Secretary; dissemination of information
 
-There is hereby established within the Department of Commerce a Fire Research Center which shall have the mission of performing and supporting research on all aspects of fire with the aim of providing scientific and technical knowledge applicable to the prevention and control of fires. The content and priorities of the research program shall be determined in consultation with the Administrator of the United States Fire Administration. In implementing this section, the Secretary is authorized to conduct, directly or through contracts or grants, a fire research program, including—
+There is hereby established within the Department of Commerce a Fire Research Centerwhich shall have the mission of performing and supporting research on all aspects of fire with the aim of providing scientific and technical knowledge applicable to the prevention and control of fires. The content and priorities of the research program shall be determined in consultation with the Administrator of the United States Fire Administration. In implementing this section, the Secretary is authorized to conduct, directly or through contracts or grants, a fire research program, including—
 
 &emsp;(1) basic and applied fire research for the purpose of arriving at an understanding of the fundamental processes underlying all aspects of fire. Such research shall include scientific investigations of—
 

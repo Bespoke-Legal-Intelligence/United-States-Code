@@ -18,7 +18,7 @@
 
 #### (b) Fishing capacity reduction program
 
-(1) The Secretary, at the request of the appropriate Council for fisheries under the authority of such Council, or the Governor of a State for fisheries under State authority, may conduct a fishing capacity reduction program (referred to in this section as the “program”) in a fishery if the Secretary determines that the program—
+(1) The Secretary, at the request of the appropriate Council for fisheries under the authorityof such Council, or the Governor of a State for fisheries under State authority, may conduct a fishing capacity reduction program (referred to in this section as the “program”) in a fishery if the Secretary determines that the program—
 
 &emsp;(A) is necessary to prevent or end overfishing, rebuild stocks of fish, or achieve measurable and significant improvements in the conservation and management of the fishery;
 
@@ -64,7 +64,7 @@
 
 (B) The industry fee system shall be considered approved if the referendum votes which are cast in favor of the proposed system constitute a two-thirds majority of the participants voting.
 
-(2) Notwithstanding section 1854(d) of this title and consistent with an approved industry fee system, the Secretary is authorized to establishsuch a system to fund the program and repay debt obligations incurred pursuant to section 1279f <sup>1</sup> of title 46, Appendix. The fees for a program established under this section shall—
+(2) Notwithstanding section 1854(d) of this title and consistent with an approved industry fee system, the Secretary is authorized to establish such a system to fund the program and repay debt obligations incurred pursuant to section 1279f <sup>1</sup> of title 46, Appendix. The fees for a program established under this section shall—
 
 &emsp;(A) be determined by the Secretary and adjusted from time to time as the Secretary considers necessary to ensure the availability of sufficient funds to repay such debt obligations;
 
@@ -99,6 +99,10 @@ Section 1279f of title 46, Appendix, referred to in subsecs. (b)(1)(C), (c)(1)(C
 #### Prior Provisions
 
 A prior section 312 of Pub. L. 94–265, title III, Apr. 13, 1976, 90 Stat. 359, was set out as an Effective Date note under section 1857 of this title, prior to being amended generally by Pub. L. 104–297.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Study of Federal Investment in Fisheries
 

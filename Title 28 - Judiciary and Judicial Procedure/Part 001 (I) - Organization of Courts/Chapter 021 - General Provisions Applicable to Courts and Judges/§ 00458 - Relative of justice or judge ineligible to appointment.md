@@ -32,7 +32,7 @@ Changes in phraseology were made.
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–300 designated existing provisions as subsec. (a)(1) and added subsecs. (a)(2) and (b).
+1998—Pub. L. 105–300 designated existing provisions as subsec. (a)(1) and added subsecs. (a)(2) and (b).
 
 #### Effective Date of 1998 Amendment
 

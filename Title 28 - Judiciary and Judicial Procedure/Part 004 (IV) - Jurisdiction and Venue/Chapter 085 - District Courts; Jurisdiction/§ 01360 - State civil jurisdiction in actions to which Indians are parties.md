@@ -21,13 +21,13 @@
 
 #### Amendments
 
-<b>1984</b>—Subsec. (a). Pub. L. 98–353 struck out “or Territories” after “Each of the States”, struck out “or Territory” after “State” in 5 places, and substituted “within the State” for “within the Territory” in item relating to Alaska.
+1984—Subsec. (a). Pub. L. 98–353 struck out “or Territories” after “Each of the States”, struck out “or Territory” after “State” in 5 places, and substituted “within the State” for “within the Territory” in item relating to Alaska.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–598 directed the amendment of subsec. (a) by substituting in the item relating to Alaska “within the State” for “within the Territory”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Subsec. (a). Pub. L. 95–598 directed the amendment of subsec. (a) by substituting in the item relating to Alaska “within the State” for “within the Territory”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–615 gave Alaska jurisdiction over civil causes of action between Indians or to which Indians are parties which arise in all Indian country within the Territory of Alaska.
+1958—Subsec. (a). Pub. L. 85–615 gave Alaska jurisdiction over civil causes of action between Indians or to which Indians are parties which arise in all Indian country within the Territory of Alaska.
 
-<b>1954</b>—Subsec. (a). Act Aug. 24, 1954, brought the Menominee Tribe within the provisions of this section.
+1954—Subsec. (a). Act Aug. 24, 1954, brought the Menominee Tribe within the provisions of this section.
 
 #### Effective Date of 1984 Amendment
 
@@ -35,11 +35,11 @@ Amendment by Pub. L. 98–353 effective July 10, 1984, see section 122(a) of Pub
 
 #### Admission of Alaska as State
 
-Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, set out as notes preceding section 21 of Title 48, Territories and Insular Possessions.
+Admission of Alaska into the Union was accomplished Jan. 3, 1959, on issuance of Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, setout as notes preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Amendment of State Constitutions To Remove Legal Impediment; Effective Date
 
-Section 6 of act Aug. 15, 1953, provided that: “Notwithstanding the provisions of any Enabling Act forthe admission of a State, the consent of the United States is hereby given to the people of any State to amend, where necessary, their State constitution or existing statutes, as the case may be, to remove any legal impediment to the assumption of civil and criminal jurisdiction in accordance with the provisions of this Act \[adding this section and section 1162 of Title 18, Crimes and Criminal Procedure\]: <i>Provided</i>, That the provisions of this Act shall not become effective with respect to such assumption of jurisdiction by any such State until the people thereof have appropriately amended their State constitution or statutes as the case may be.”
+Section 6 of act Aug. 15, 1953, provided that: “Notwithstanding the provisions of any Enabling Act for the admission of a State, the consent of the United States is hereby given to the people of any State to amend, where necessary, their State constitution or existing statutes, as the case may be, to remove any legal impediment to the assumption of civil and criminal jurisdiction in accordance with the provisions of this Act \[adding this section and section 1162 of Title 18, Crimes and Criminal Procedure\]: <i>Provided</i>, That the provisions of this Act shall not become effective with respect to such assumption of jurisdiction by any such State until the people thereof have appropriately amended their State constitution or statutes as the case may be.”
 
 #### Consent of United States to Other States To Assume Jurisdiction
 

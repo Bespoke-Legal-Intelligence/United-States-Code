@@ -36,3 +36,31 @@ Section is comprised of section 413 of Pub. L. 99–399, as amended. Subsec. (e)
 
 Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Evaluation of Policies and Procedures of Department of State on Protection of Classified Information at Department Headquarters
+
+Pub. L. 107–306, title VIII, §832, Nov. 27, 2002, 116 Stat. 2431, provided that:
+
+“(a)
+
+Evaluation Required.—Not later than December 31 of 2002, 2003, and 2004, the Inspector General of the Department of State shall conduct an evaluation of the policies and procedures of the Department on the protection of classified information at the Headquarters of the Department, including compliance with the directives of the Director of Central Intelligence (DCIDs) regarding the storage and handling of Sensitive Compartmented Information (SCI) material.
+
+“(b)
+
+Annual Report.—Except as provided in subsection (c), not later than February 1 of 2003, 2004, and 2005, the Inspector General shall submit to the following committees a report on the evaluation conducted under subsection (a) during the preceding year:
+
+&emsp;“(1) The congressional intelligence committees.
+
+&emsp;“(2) The Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
+
+“(c)
+
+Exception.—The date each year for the submittal of a report under subsection (b) may be postponed in accordance with section 507(d) of the National Security Act of 1947 \[50 U.S.C. 415b(d)\], as added by section 811 of this Act.
+
+“(d)
+
+Congressional Intelligence Committees Defined.—In this section, the term ‘congressional intelligence committees’ means—
+
+&emsp;“(1) the Select Committee on Intelligence of the Senate; and
+
+&emsp;“(2) the Permanent Select Committee on Intelligence of the House of Representatives.”
+

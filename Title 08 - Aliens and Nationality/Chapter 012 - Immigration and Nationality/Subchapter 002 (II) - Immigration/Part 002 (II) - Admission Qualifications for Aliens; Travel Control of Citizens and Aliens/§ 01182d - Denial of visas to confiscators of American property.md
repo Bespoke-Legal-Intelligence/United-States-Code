@@ -28,5 +28,5 @@ Not later than 6 months after October 21, 1998, and every 12 months thereafter, 
 
 #### Codification
 
-Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1998 and 1999, and also as part of the Foreign Affairs Reform and Restructuring Act of 1998, and the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the Immigration and Nationality Act which comprises this chapter.
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Years 1998 and 1999, and alsoas part of the Foreign Affairs Reform and Restructuring Act of 1998, and the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the Immigration and Nationality Act which comprises this chapter.
 

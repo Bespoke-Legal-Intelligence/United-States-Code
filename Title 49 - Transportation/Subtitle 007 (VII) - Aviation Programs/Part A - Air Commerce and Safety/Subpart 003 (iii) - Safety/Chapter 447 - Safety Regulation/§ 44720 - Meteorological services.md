@@ -2,7 +2,7 @@
 
 (a)
 
-Recommendations.—The Administrator of the Federal Aviation Administration shall make recommendations to the Secretary of Commerce on providing meteorological services necessary for the safe and efficient movement of aircraft in air commerce. In providing the services, the Secretary shall cooperate with the Administrator and give complete consideration to those recommendations.
+Recommendations.—The Administrator of the Federal Aviation Administration shall makerecommendations to the Secretary of Commerce on providing meteorological services necessary for the safe and efficient movement of aircraft in air commerce. In providing the services, the Secretary shall cooperate with the Administrator and give complete consideration to those recommendations.
 
 (b)
 
@@ -54,7 +54,7 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1), 80 Stat. 938; Jan. 12, 1983, Pub. L.
 
 49 App.:1655(c)(1).
 
-In subsection (b), the title “Secretary” \[of Commerce\] is substituted for “Chief of the Weather Bureau” in section 803 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 783) because of sections 1 and 2 of Reorganization Plan No. 2 of 1965 (eff. July 13, 1965, 79 Stat. 1318). Before clause (1), the words “In order” and “in addition to any other functions or duties pertaining to weather information for other purposes” are omitted as surplus. In clause (2), the words “forecasts, warnings, and advices” are omitted as being included in “reports”. In clause (3), the words “or employees thereof” and “establish and” are omitted as surplus. The words “with those persons” are added for clarity. In clause (5), the words “departments, agencies,and instrumentalities of the United States Government” are substituted for “governmental agencies of the United States” for consistency in the revised title and with other titles of the United States Code.
+In subsection (b), the title “Secretary” \[of Commerce\] is substituted for “Chief of the Weather Bureau” in section 803 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 783) because of sections 1 and 2 of Reorganization Plan No. 2 of 1965 (eff. July 13, 1965, 79 Stat. 1318). Before clause (1), the words “In order” and “in addition to any other functions or duties pertaining to weather information for other purposes” are omitted as surplus. In clause (2), the words “forecasts, warnings, and advices” are omitted as being included in “reports”. In clause (3), the words “or employees thereof” and “establish and” are omitted as surplus. The words “with those persons” are added for clarity. In clause (5), the words “departments, agencies, and instrumentalities of the United States Government” are substituted for “governmental agencies of the United States” for consistency in the revised title and with other titles of the United States Code.
 
 #### Automated Surface Observation System Stations
 

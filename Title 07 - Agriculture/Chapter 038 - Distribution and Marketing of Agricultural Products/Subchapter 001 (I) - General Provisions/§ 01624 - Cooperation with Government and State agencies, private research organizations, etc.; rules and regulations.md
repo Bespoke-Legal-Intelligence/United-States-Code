@@ -28,7 +28,7 @@ Pub. L. 97–253, title I, §191, Sept. 8, 1982, 96 Stat. 787, provided that:
 
 &emsp;“(2) rising unemployment, decreasing appropriations for social services, and increasingly adverse economic conditions have all contributed to produce hunger and want on a scale not experienced since the time of the Great Depression;
 
-&emsp;“(3) the demand for every conceivable form of assistance for the hungry and needy people of theUnited States grows more critical daily, while the availability of goods and services to meet the needs of such people is rapidly diminishing;
+&emsp;“(3) the demand for every conceivable form of assistance for the hungry and needy people of the United States grows more critical daily, while the availability of goods and services to meet the needs of such people is rapidly diminishing;
 
 &emsp;“(4) soup kitchens, food banks, and other organizations which provide food to the hungry report an astronomical increase in the number of persons seeking the assistance of such organizations;
 

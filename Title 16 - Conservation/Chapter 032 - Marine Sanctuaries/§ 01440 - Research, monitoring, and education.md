@@ -24,7 +24,7 @@ The Secretary shall conduct, support, or coordinate research, monitoring, evalua
 
 #### (1) In general
 
-&emsp;The Secretary may support, promote, and coordinate efforts to enhance public awareness, understanding, and appreciation of national marine sanctuaries and the System. Efforts supported, promoted, or coordinatedunder this subsection must emphasize the conservation goals and sustainable public uses of national marine sanctuaries and the System.
+&emsp;The Secretary may support, promote, and coordinate efforts to enhance public awareness, understanding, and appreciation of national marine sanctuaries and the System. Efforts supported, promoted, or coordinated under this subsection must emphasize the conservation goals and sustainable public uses of national marine sanctuaries and the System.
 
 #### (2) Educational activities
 

@@ -8,7 +8,7 @@ Each Hispanic-serving institution desiring to receive assistance under this subc
 
 #### (1) Applications required
 
-&emsp;Any institution which is eligible for assistance under this subchapter shall submit to the Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the Secretary to evaluate the institution's need for assistance. Subject to the availabilityof appropriations to carry out this subchapter, the Secretary may approve an application for a grant under this subchapter only if the Secretary determines that—
+&emsp;Any institution which is eligible for assistance under this subchapter shall submit to the Secretary an application for assistance at such time, in such form, and containing such information, as may be necessary to enable the Secretary to evaluate the institution's need for assistance. Subject to the availability of appropriations to carry out this subchapter, the Secretary may approve an application for a grant under this subchapter only if the Secretary determines that—
 
 &emsp;&emsp;(A) the application meets the requirements of subsection (b) of this section; and
 
@@ -40,7 +40,7 @@ A Hispanic-serving institution, in the institution's application for a grant, sh
 
 &emsp;&emsp;(B) in the case of any development project that consists of several components (as described by the institution pursuant to subparagraph (A)), a statement identifying those components which, if separately funded, would be sound investments of Federal funds and those components which would be sound investments of Federal funds only if funded under this subchapter in conjunction with other parts of the development project (as specified by the institution);
 
-&emsp;&emsp;(C) an evaluation by the institution of the priority given any proposed project for which funds are sought in relation to any other projects for which funds are sought by the institution under this subchapter, and a similar evaluation regarding priorities among the components of any single proposed project (as described by the institution pursuant to subparagraph (A));
+&emsp;&emsp;(C) an evaluation by the institution of the priority given any proposed project forwhich funds are sought in relation to any other projects for which funds are sought by the institution under this subchapter, and a similar evaluation regarding priorities among the components of any single proposed project (as described by the institution pursuant to subparagraph (A));
 
 &emsp;&emsp;(D) a detailed budget showing the manner in which funds for any proposed project would be spent by the institution; and
 

@@ -146,7 +146,7 @@ In subsection (b)(2), the words “Amounts made available under section 404(a)(2
 
 In subsection (c), the words “Funds authorized to be appropriated” are omitted because of the omission of 49 App.:2304(a)(1) as obsolete.
 
-In subsection (e), the words “for administrative expenses incurred in carrying out section 31102 of thistitle” are substituted for “for administration of this section” for clarity and consistency with the source provisions restated in this section and section 31102 of the revised title.
+In subsection (e), the words “for administrative expenses incurred in carrying out section 31102 of this title” are substituted for “for administration of this section” for clarity and consistency with the source provisions restated in this section and section 31102 of the revised title.
 
 In subsection (i), before clause (1), the words “Not later than 6 months after December 18, 1991” are omitted as obsolete. The words “for grants under section 31102(a) of this title” are substituted for “under the motor carrier safety assistance program” for clarity and because of the restatement. The words “In prescribing those regulations” are substituted for “In conducting such a revision” because of the restatement.
 
@@ -158,7 +158,7 @@ In subsection (j), the words “Not later than 9 months after December 18, 1991�
 
 Subsec. (b). Pub. L. 105–178, §4003(f), struck out par. (1) designation and par. (2) which read as follows: “Amounts made available under section 404(a)(2) of the Surface Transportation Assistance Act of 1982 before October 1, 1991, that are not obligated on October 1, 1992, are available for reallocation and obligation under paragraph (1) of this subsection.”
 
-Subsec. (f). Pub. L. 105–178, §4003(g)(1), added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “On October 1 of each fiscal year or as soon after that date as practicable, the Secretary, after making the deduction described in subsection (e) of this section, shall allocate under criteria the Secretary establishes the amounts available for that fiscal year among the States with plans approved under section 31102 of this title. However, the Secretary may designate specific eligible States among which to allocate those amounts in allocating amounts available—
+Subsec. (f). Pub. L. 105–178, §4003(g)(1), added subsec. (f) and struck out heading and text of former subsec.\(f). Text read as follows: “On October 1 of each fiscal year or as soon after that date as practicable, the Secretary, after making the deduction described in subsection (e) of this section, shall allocate under criteria the Secretary establishes the amounts available for that fiscal year among the States with plans approved under section 31102 of this title. However, the Secretary may designate specific eligible States among which to allocate those amounts in allocating amounts available—
 
 &emsp;“(1) for research, development, and demonstration under subsection (g)(1)(F) of this section; and
 

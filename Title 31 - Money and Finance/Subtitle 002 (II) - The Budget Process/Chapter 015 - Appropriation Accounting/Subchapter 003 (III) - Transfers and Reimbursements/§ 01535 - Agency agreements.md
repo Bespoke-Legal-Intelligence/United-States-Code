@@ -82,7 +82,7 @@ In subsection (b), the words “The Secretary of Defense” are added for clarit
 
 In subsection (c), the words “pursuant to such order” are omitted as unnecessary.
 
-Subsection (d) is substituted for the source provisions being restated to reflect decisions of the Comptroller General, including 31 Comp. Gen. 83 (1951), 34 Comp. Gen. 418 (1955), 39 Comp. Gen. 317 (1959), and 55 Comp. Gen. 1497 (1976).
+Subsection (d) is substituted for the source provisions being restated to reflect decisions of the Comptroller General, including 31 Comp. Gen. 83 (1951), 34 Comp.Gen. 418 (1955), 39 Comp. Gen. 317 (1959), and 55 Comp. Gen. 1497 (1976).
 
 In subsection (e), the words “any Government department or independent establishment, or any bureau or office thereof” and “except as otherwise provided by law” are omitted as unnecessary because of the restatement. The text of 31:686b(a) is omitted as executed.
 
@@ -118,7 +118,11 @@ May 21, 1920, ch. 194, 41 Stat. 607, §7(a) (last sentence); added Oct. 15, 1982
 
 Subsec. (a)(4). Pub. L. 98–216, §1(2)(B), inserted “by contract” after “provided”.
 
-Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of amilitary department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling the order might be able to provide or procure by contract, was struck out.
+Subsecs. (b), (c). Pub. L. 98–216, §1(2)(C)–(E), redesignated subsec. (c) as (b). Former subsec. (b), which provided that the Secretary of Defense, the Secretary of a military department of the Department of Defense, the Secretary of Transportation in carrying out duties and powers related to aviation and the Coast Guard, the Secretary of the Treasury, the Administrator of General Services, and the Administrator of the Maritime Administration could place orders under this section for goods and services that an agency or unit filling the order might be able to provide or procure by contract, was struck out.
+
+#### Placement of Orders by Chief Administrative Officer of the House of Representatives
+
+Pub. L. 107–206, title I, §904, Aug. 2, 2002, 116 Stat. 876, provided that: “Nothing in section 1535 of title 31, U.S.C. (commonly referred to as the ‘Economy Act’), or any other provision of such title may be construed to prevent or restrict the Chief Administrative Officer of the House of Representatives from placing orders under such section during any fiscal year in the same manner and to the same extent as the head of any other major organizational unit with an agency may place orders under such section during a fiscal year.”
 
 #### Economy Act Purchases
 
@@ -166,5 +170,5 @@ Pub. L. 101–163, title I, §8, Nov. 21, 1989, 103 Stat. 1046, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1536 of this title; title 2 sections 142j, 182c, 1151, 1385; title 7 section 5922; title 10 sections 377, 1104, 2205, 2684; title 16 sections 670c–1, 825k; title 22 sections 2358, 6204; title 24 section 168b; title 25 section 2804; title 29 section 563a; title 38 section 1720A; title 40 sections 270f, 298b, 1104; title 41 section 261; title 42 section 254; title 43 sections 1471c, 1471f; title 48 section 1469d; title 50 section 414.
+This section is referred to in section 1536 of this title; title 2 sections 142j, 182c, 1151, 1385; title 7 section 2009cc–16; title 10 sections 377, 1104, 2205, 2684; title 16 sections 670c–1, 825k; title 22 sections 2358, 6204; title 24 section 168b; title 25 section 2804; title 29 section 563a; title 38 section 1720A; title 40 sections 3134, 3176; title 41 section 261; title 42 section 254; title 43 sections 1471c, 1471f; title 48 section 1469d; title 50 section 414.
 

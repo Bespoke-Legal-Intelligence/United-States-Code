@@ -52,7 +52,7 @@ The organization shall, to the maximum extent practicable, draw upon the resourc
 
 Section 2251 of this title, referred to in subsec. (b)(2), was amended generally by Pub. L. 100–418, title I, §1401(a), Aug. 23, 1988, 102 Stat. 1225, and as so amended does not contain a subsec. (d). See section 2252(f) of this title.
 
-Section 2412 of this title, referred to in subsec. (b)(3), was amended generally by Pub. L. 100–418, title I, §1301(a), Aug. 23, 1988, 102 Stat. 1168, and as so amended the provisions of subsec. (b)(2) of section 2412 are contained in subsec. (a)(4).
+Section 2412 of this title, referred to in subsec. (b)(3), was amended generally by Pub. L. 100–418, title I,§1301(a), Aug. 23, 1988, 102 Stat. 1168, and as so amended the provisions of subsec. (b)(2) of section 2412 are contained in subsec. (a)(4).
 
 #### Amendments
 

@@ -34,7 +34,7 @@ The security shall be in an amount equal to the excess of—
 
 #### (d) Release of security
 
-The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at the end of the first plan year which ends after the provision of the security and for which the funded current liability percentage under the plan is not less than 60 percent. The Secretary of theTreasury may prescribe regulations for partial releases of the security by reason of increases in the funded current liability percentage.
+The security shall be released (and any amounts thereunder shall be refunded together with any interest accrued thereon) at the end of the first plan year which ends after the provision of the security and for which the funded current liability percentage under the plan is not less than 60 percent. The Secretary of the Treasury may prescribe regulations for partial releases of the security by reason of increases in the funded current liability percentage.
 
 #### (e) Notice
 

@@ -18,7 +18,7 @@ Countries described in any of the following paragraphs shall be eligible to part
 
 #### (3) Type of government
 
-&emsp;A country that has recently begun the transformation of its system of government from a non-representative type of government to a representative democracy and that is encouraging democratic institution building, and the cultural values, institutions, and organizations of democratic pluralism.
+&emsp;A country that has recently begun the transformation of its system of government from a non-representative type of government to arepresentative democracy and that is encouraging democratic institution building, and the cultural values, institutions, and organizations of democratic pluralism.
 
 #### (4) Independent states of the former Soviet Union
 
@@ -83,6 +83,10 @@ Subsec. (b). Pub. L. 102–511, §705(a)(2), substituted “described in any of 
 Subsec. (d). Pub. L. 102–511, §705(b), inserted at end “The Secretary may provide fellowships under the program authorized by this section to private agricultural producers from eligible countries.”
 
 1991—Subsec. (e). Pub. L. 102–237 substituted “program” for “Program”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5679 of this title.
 
 <i><sup>1</sup></i><i> So in original. The word “for” probably should not appear.</i>
 

@@ -38,7 +38,7 @@
 
 &emsp;(A) with respect to an employee of an agency in the legislative branch, by the head of such agency;
 
-&emsp;(B) with respect to an employee of the House of Representatives, by the Committee on House Oversight of the House of Representatives; and
+&emsp;(B) with respect to an employee of the House of Representatives, by the Committee onHouse Oversight of the House of Representatives; and
 
 &emsp;(C) with respect to an employee of the Senate, by the Committee on Rules and Administration of the Senate.
 
@@ -104,7 +104,7 @@ Each agency in legislative branch to submit to Speaker of House of Representativ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 section 61h–6; title 20 section 4512; title 22 section 4064; title 39 section 1005.
+This section is referred to in title 2 sections 61h–6, 130i; title 20 section 4512; title 22 section 4064; title 39 section 1005.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “part-time”.</i>
 

@@ -14,7 +14,7 @@ Passenger.—The term “passenger” has the meaning given such term by section
 
 (b)
 
-Submission of Plans.—A foreign air carrier providing foreign air transportation underthis chapter shall transmit to the Secretary of Transportation and the Chairman of the National Transportation Safety Board a plan for addressing the needs of the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a major loss of life.
+Submission of Plans.—A foreign air carrier providing foreign air transportation under this chapter shall transmit to the Secretary of Transportation and the Chairman of the National Transportation Safety Board a plan for addressing the needs of the families of passengers involved in an aircraft accident that involves an aircraft under the control of the foreign air carrier and results in a major loss of life.
 
 (c)
 
@@ -98,7 +98,7 @@ Permit and Exemption Requirement.—The Secretary shall not approve an applicati
 
 (e)
 
-Limitation on Liability.—A foreign air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the foreign air carrier in preparing or providing a passenger list pursuant to a plan submitted by the foreign air carrier under subsection (c), unless the liabilitywas caused by conduct of the foreign air carrier which was grossly negligent or which constituted intentional misconduct.
+Limitation on Liability.—A foreign air carrier shall not be liable for damages in any action brought in a Federal or State court arising out of the performance of the foreign air carrier in preparing or providing a passenger list pursuant to a plan submitted by the foreign air carrier under subsection (c), unless the liability was caused by conduct of the foreign air carrier which was grossly negligent or which constituted intentional misconduct.
 
 (Added Pub. L. 105–148, §1(a), Dec. 16, 1997, 111 Stat. 2681; amended Pub. L. 106–181, title IV, §403(a)–(c)(1), Apr. 5, 2000, 114 Stat. 130.)
 

@@ -10,7 +10,7 @@ A prior section 1320c, act Aug. 14, 1935, ch. 531, title XI, §1151, as added Oc
 
 #### Effective Date
 
-Section 149 of Pub. L. 97–248, as amended by Pub. L. 98–369, div. B, title III, §2354(c)(3)(C), July 18, 1984, 98 Stat. 1102, provided that: “The amendments made by this subtitle \[subtitle C (§§141–150) of title I of Pub. L. 97–248, enacting this part, amending sections 1395b–1, 1395g, 1395k, 1395<i>l</i>, 1395x, 1395y, 1395cc, 1395pp, 1396a, and 1396b of this title, and enacting provisions set out as notes under sections 1305 and 1320c of this title\] shall, subject to section 150 \[section 150 of Pub. L. 97–248, set out as a note below\], be effective with respect to contracts entered into or renewed on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
+Section 149 of Pub. L. 97–248, as amended by Pub. L. 98–369, div. B, title III, §2354(c)(3)(C), July 18, 1984, 98 Stat. 1102, provided that: “The amendments made by this subtitle \[subtitle C (§§141–150) of title I of Pub. L. 97–248, enacting this part, amending sections 1395b–1, 1395g, 1395k, 1395<i>l</i>, 1395x, 1395y, 1395cc, 1395pp, 1396a, and 1396b of this title, and enacting provisions set out asnotes under sections 1305 and 1320c of this title\] shall, subject to section 150 \[section 150 of Pub. L. 97–248, set out as a note below\], be effective with respect to contracts entered into or renewed on or after the date of the enactment of this Act \[Sept. 3, 1982\].”
 
 #### Coordination of PROs and Carriers
 

@@ -6,7 +6,7 @@
 
 &emsp;(B) establish, develop, and maintain information bases, including necessary management systems, which will promote consistent, efficient, and compatible transfer and use of data;
 
-&emsp;(C) develop effective interfaces among the environmental data and information systems of the National Oceanic and Atmospheric Administration and other appropriate departments and agencies;
+&emsp;(C) develop effective interfaces among the environmental data and information systemsof the National Oceanic and Atmospheric Administration and other appropriate departments and agencies;
 
 &emsp;(D) develop and use nationally accepted formats and standards for data collected by various national and international sources; and
 

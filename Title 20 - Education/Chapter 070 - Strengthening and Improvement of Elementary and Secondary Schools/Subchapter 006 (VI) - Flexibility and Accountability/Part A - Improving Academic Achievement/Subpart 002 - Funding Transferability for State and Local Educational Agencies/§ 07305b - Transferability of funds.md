@@ -36,7 +36,7 @@
 
 #### (C) Additional funds for subchapter I
 
-&emsp;&emsp;In accordance with this subpart and subject to the percentage limitation describedin subparagraph (A) or (B), as applicable, a local educational agency may transfer funds allocated to such agency under any of the provisions listed in paragraph (2) for a fiscal year to its allocation for part A of subchapter I of this chapter for that fiscal year.
+&emsp;&emsp;In accordance with this subpart and subject to the percentage limitation described in subparagraph (A) or (B), as applicable, a local educational agency may transfer funds allocated to such agency under any of the provisions listed in paragraph (2) for a fiscal year to its allocation for part A of subchapter I of this chapter for that fiscal year.
 
 #### (2) Applicable provisions
 

@@ -66,5 +66,5 @@ Section 1(a) of Pub. L. 103–3 provided that: “This Act \[enacting this chapt
 
 #### Act Referred to in Other Sections
 
-The Family and Medical Leave Act of 1993 is referred to in title 2 sections 1302, 1312, 1371, 1434; title 3 section 402; title 40 section 207b.
+The Family and Medical Leave Act of 1993 is referred to in title 2 sections 1302, 1312, 1371, 1434, 1923; title 3 section 402.
 

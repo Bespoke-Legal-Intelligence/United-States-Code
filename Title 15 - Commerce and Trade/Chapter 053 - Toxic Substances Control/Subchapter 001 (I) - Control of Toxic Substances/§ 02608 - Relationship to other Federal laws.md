@@ -20,7 +20,7 @@
 
 > the Administrator may not take any action under section 2605 or 2606 of this title with respect to such risk.
 
-(3) If the Administrator has initiated action under section 2605 or 2606 of this title with respect to a risk associated with a chemical substance or mixture which was the subject of a report made to an agency under paragraph (1),such agency shall before taking action under the law (or laws) administered by it to protect against such risk consult with the Administrator for the purpose of avoiding duplication of Federal action against such risk.
+(3) If the Administrator has initiated action under section 2605 or 2606 of this title with respect to a risk associated with a chemical substance or mixture which was the subject of a report made to an agency under paragraph (1), such agency shall before taking action under the law (or laws) administered by it to protect against such risk consult with the Administrator for the purpose of avoiding duplication of Federal action against such risk.
 
 #### (b) Laws administered by the Administrator
 

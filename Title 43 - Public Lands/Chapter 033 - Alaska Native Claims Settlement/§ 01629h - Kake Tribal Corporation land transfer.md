@@ -34,7 +34,7 @@ The maps referred to in this chapter shall be maintained on file in the Office o
 
 #### (f) Watershed management
 
-The United States Forest Service may cooperate with Kake Tribal Corporation and the City of Kake in developing a watershed management plan that provides for the protection of the watershed in the public interest. Grants may be made, and contracts and cooperative agreements may be entered into, to the extent necessary to assist the City of Kake and Kake Tribal Corporation in the preparation and implementation of a watershed management plan for the land within the City of Kake's municipal watershed.
+The United States Forest Service may cooperate with Kake Tribal Corporation and the City of Kake in developing a watershed management plan that provides for the protection of the watershed in the public interest. Grants may be made, and contracts and cooperative agreementsmay be entered into, to the extent necessary to assist the City of Kake and Kake Tribal Corporation in the preparation and implementation of a watershed management plan for the land within the City of Kake's municipal watershed.
 
 #### (g) Effective date
 
@@ -56,7 +56,7 @@ This section is effective upon the execution of one or more conservation easemen
 
 #### (h) Timber manufacturing; export restriction
 
-Notwithstanding any other provision of law, timber harvested from lands conveyed to Kake Tribal Corporation under this section shall not be available for export as unprocessed logs from Alaska, nor may Kake Tribal Corporation sell, trade, exchange, substitute, or otherwise conveysuch timber to any person for the purpose of exporting that timber from the State of Alaska.
+Notwithstanding any other provision of law, timber harvested from lands conveyed to Kake Tribal Corporation under this section shall not be available for export as unprocessed logs from Alaska, nor may Kake Tribal Corporation sell, trade, exchange, substitute, or otherwise convey such timber to any person for the purpose of exporting that timber from the State of Alaska.
 
 #### (i) Authorization of appropriations
 

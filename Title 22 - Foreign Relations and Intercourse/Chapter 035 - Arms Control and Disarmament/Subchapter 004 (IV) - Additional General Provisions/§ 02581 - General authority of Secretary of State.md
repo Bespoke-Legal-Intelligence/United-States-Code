@@ -4,7 +4,7 @@ In addition to any authorities otherwise available, the Secretary of State in th
 
 #### (a) Utilization of other Federal agencies; transfers of supplies, equipment, and surplus property
 
-utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, not withstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisions of the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\];
+utilize or employ the services, personnel, equipment, or facilities of any other Government agency, with the consent of the agency concerned, to perform such functions on behalf of the Department of State as may appear desirable. Any Government agency is authorized, not withstanding any other provision of law, to transfer to or to receive from the Secretary of State, without reimbursement, supplies and equipment other than administrative supplies or equipment. Transfer or receipt of excess property shall be in accordance with the provisions of the Federal Property and Administrative Services Act of 1949, as amended;<sup>1</sup>
 
 #### (b) Employment of personnel
 
@@ -16,7 +16,7 @@ appoint and fix the compensation of employees possessing specialized technical e
 
 &emsp;&emsp;(B) exceeding the maximum rate payable for grade 15 of the General Schedule; and
 
-&emsp;(2) the number of employees appointed under this subsection shall not exceed 10 percent of the Department of State's full-time-equivalent positions allocated to carry out the purpose of this chapter.<sup>1</sup>
+&emsp;(2) the number of employees appointed under this subsection shall not exceed 10 percent of the Department of State's full-time-equivalent positions allocated to carry out the purpose of this chapter.<sup>2</sup>
 
 #### (c) Detail of other agency personnel without prejudice to status or advancement
 
@@ -24,7 +24,7 @@ enter into agreements with other Government agencies, including the military dep
 
 #### (d) Experts and consultants; stenographic reporting services; compensation and travel expenses; limitation on period of employment; renewal of employment contracts
 
-procure services of experts and consultants or organizations thereof, including stenographic reporting services, as authorized by section 3109of title 5 and to pay in connection therewith travel expenses of individuals, including transportation and per diem in lieu of subsistence while away from their homes or regular places of business, as authorized by section 5703 of such title: <i>Provided</i>, That no such individual shall be employed for more than 130 days in any fiscal year unless the President certifies that employment of such individual in excess of such number of days is necessary in the national interest: <i>And provided further</i>, That such contracts may be renewed annually;
+procure services of experts and consultants or organizations thereof, including stenographic reporting services, as authorized by section 3109 of title 5 and to pay in connection therewith travel expenses of individuals, including transportation and per diem in lieu of subsistence while away from their homes or regular places of business, as authorized by section 5703 of such title: <i>Provided</i>, That no such individual shall be employed for more than 130 days in any fiscal year unless the President certifies that employment of such individual in excess of such number of days is necessary in the national interest: <i>And provided further</i>, That such contracts may be renewed annually;
 
 #### (e) Employment of outstanding personnel
 
@@ -50,7 +50,7 @@ make, promulgate, issue, rescind, and amend such rules and regulations as may be
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. The excess property provisions of that Act are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 The provisions of title 5 governing appointment to the competitive service, referred to in subsec. (b), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
 
@@ -118,5 +118,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 This section is referred to in sections 2566, 2585 of this title.
 
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

@@ -30,7 +30,7 @@
 
 #### (b) Trade secret factors
 
-No person required to provide information under this chapter may claim that the information is entitled to protection as a trade secretunder subsection (a) of this section unless such person shows each of the following:
+No person required to provide information under this chapter may claim that the information is entitled to protection as a trade secret under subsection (a) of this section unless such person shows each of the following:
 
 &emsp;(1) Such person has not disclosed the information to any other person, other than a member of a local emergency planning committee, an officer or employee of the United States or a State or local government, an employee of such person, or a person who is bound by a confidentiality agreement, and such person has taken reasonable measures to protect the confidentiality of such information and intends to continue to take such measures.
 
@@ -76,7 +76,7 @@ Nothing in this section, or regulations adopted pursuant to this section, shall 
 
 #### (f) Providing information to Administrator; availability to public
 
-Any information submitted to the Administrator under subsection (a)(2) of this section or subsection (d)(3) of this section (except a specific chemical identity) shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator has access under this section if made public would divulge information entitled to protection under section 1905 of title 18,such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter.
+Any information submitted to the Administrator under subsection (a)(2) of this section or subsection (d)(3) of this section (except a specific chemical identity) shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this chapter.
 
 #### (g) Information provided to State
 

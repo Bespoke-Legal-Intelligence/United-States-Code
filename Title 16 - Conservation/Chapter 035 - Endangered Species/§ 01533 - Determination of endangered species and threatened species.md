@@ -2,7 +2,7 @@
 
 #### (a) Generally
 
-(1) The Secretary shall by regulation promulgated in accordance with subsection (b) of thissection determine whether any species is an endangered species or a threatened species because of any of the following factors:
+(1) The Secretary shall by regulation promulgated in accordance with subsection (b) of this section determine whether any species is an endangered species or a threatened species because of any of the following factors:
 
 &emsp;(A) the present or threatened destruction, modification, or curtailment of its habitat or range;
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(II) expeditious progress is being made to add qualified species to either of the lists published under subsection (c) of this section and to remove from such lists species for which the protections of this chapter are no longer necessary,
 
-> &emsp;in which case the Secretary shall promptly publish such finding in the Federal Register,together with a description and evaluation of the reasons and data on which the finding is based.
+> &emsp;in which case the Secretary shall promptly publish such finding in the Federal Register, together with a description and evaluation of the reasons and data on which the finding is based.
 
 (C)(i) A petition with respect to which a finding is made under subparagraph (B)(iii) shall be treated as a petition that is resubmitted to the Secretary under subparagraph (A) on the date of such finding and that presents substantial scientific or commercial information that the petitioned action may be warranted.
 
@@ -120,7 +120,7 @@
 
 (iii) If the one-year period specified in subparagraph (A) is extended under clause (i) with respect to a proposed regulation, then before the close of such extended period the Secretary shall publish in the Federal Register either a final regulation to implement the determination or revision concerned, a finding that the revision should not be made, or a notice of withdrawal of the regulation under clause (ii), together with the finding on which the withdrawal is based.
 
-(C) A final regulation designating critical habitat of an endangered species or a threatened species shall be published concurrently with thefinal regulation implementing the determination that such species is endangered or threatened, unless the Secretary deems that—
+(C) A final regulation designating critical habitat of an endangered species or a threatened species shall be published concurrently with the final regulation implementing the determination that such species is endangered or threatened, unless the Secretary deems that—
 
 &emsp;(i) it is essential to the conservation of such species that the regulation implementing such determination be promptly published; or
 
@@ -228,7 +228,7 @@ The Federal Advisory Committee Act, referred to in subsec. (f)(2), is Pub. L. 92
 
 Subsec. (e). Pub. L. 100–478, §1002(b), substituted “regulation of commerce or taking,” for “regulation,” in introductory provisions.
 
-Subsec. (f). Pub. L. 100–478, §1003, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall develop and implement plans (hereinafter in this subsection referred to as ‘recovery plans’) for the conservation and survival of endangered species and threatened species listed pursuant to this section, unless he finds that such a plan will not promote the conservation of the species. The Secretary, in developing and implementing recovery plans (1)shall, to the maximum extent practicable, give priority to those endangered species or threatened species most likely to benefit from such plans, particularly those species that are, or may be, in conflict with construction or other developmental projects or other forms of economic activity, and (2) may procure the services of appropriate public and private agencies and institutions, and other qualified persons. Recovery teams appointed pursuant to this subsection shall not be subject to the Federal Advisory Committee Act.”
+Subsec. (f). Pub. L. 100–478, §1003, amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “The Secretary shall develop and implement plans (hereinafter in this subsection referred to as ‘recovery plans’) for the conservation and survival of endangered species and threatened species listed pursuant to this section, unless he finds that such a plan will not promote the conservation of the species. The Secretary, in developing and implementing recovery plans (1) shall, to the maximum extent practicable, give priority to those endangered species or threatened species most likely to benefit from such plans, particularly those species that are, or may be, in conflict with construction or other developmental projects or other forms of economic activity, and (2) may procure the services of appropriate public and private agencies and institutions, and other qualified persons. Recovery teams appointed pursuant to this subsection shall not be subject to the Federal Advisory Committee Act.”
 
 Subsecs. (g) to (i). Pub. L. 100–478, §1004, added subsec. (g) and redesignated former subsecs. (g) and (h) as (h) and (i), respectively.
 

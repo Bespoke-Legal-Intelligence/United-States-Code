@@ -164,7 +164,7 @@ In this section:
 
 #### (C) Limitation
 
-&emsp;&emsp;Amounts in each subaccount established under this paragraph shall not be made available for any purpose other than to make student loan payments under this section.
+&emsp;&emsp;Amounts in each subaccount established under this paragraph shall not be madeavailable for any purpose other than to make student loan payments under this section.
 
 #### (2) Beginning of payments
 
@@ -230,7 +230,7 @@ In this section:
 
 #### (3) Apportionment
 
-&emsp;In the case of an employing office that is a Committee of the Senate, the funds allocatedunder this subsection shall be apportioned between the majority and minority staff of the committee in the same manner as amounts are apportioned between the staffs for salaries.
+&emsp;In the case of an employing office that is a Committee of the Senate, the funds allocated under this subsection shall be apportioned between the majority and minority staff of the committee in the same manner as amounts are apportioned between the staffs for salaries.
 
 #### (h) Authorization of appropriations
 

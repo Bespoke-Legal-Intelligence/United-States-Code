@@ -8,7 +8,7 @@
 
 (B) For fiscal year 1994 and each fiscal year thereafter, the amount otherwise payable to a State for a fiscal year under this section shall be reduced by the amount by which expenditures from non-Federal sources under the State plan under this subchapter for the previous fiscal year are less than the total of such expenditures for the second fiscal year preceding the previous fiscal year.
 
-(C) The Commissioner may waive or modify any requirement or limitation under subparagraph (B) or section 721(a)(17) of this title if the Commissioner determines that a waiver or modification is an equitable response to exceptional or uncontrollable circumstances affecting the State.
+(C) The Commissioner may waive or modify any requirement or limitation under subparagraph (B) or section 721(a)(17) of this title if theCommissioner determines that a waiver or modification is an equitable response to exceptional or uncontrollable circumstances affecting the State.
 
 (3)(A) Except as provided in subparagraph (B), the amount of a payment under this section with respect to any construction project in any State shall be equal to the same percentage of the cost of such project as the Federal share that is applicable in the case of rehabilitation facilities (as defined in section 291<i>o</i>(g) of title 42), in such State.
 

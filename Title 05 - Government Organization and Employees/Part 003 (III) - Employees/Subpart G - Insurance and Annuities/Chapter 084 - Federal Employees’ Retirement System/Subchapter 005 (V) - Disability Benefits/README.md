@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 8401, 8422, 8424, 8461, 8464, 8464a, 8470 of this title; title 2 sections 121b, 162b; title 40 section 214d; title 50 section 2154.
+This subchapter is referred to in sections 8401, 8422, 8424, 8461, 8464, 8464a, 8470 of this title; title 2 sections 121b, 162b, 2064; title 50 section 2154.
 
 
 ---

@@ -5,12 +5,12 @@ d. discharges; retirements; revocation of commissions
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00281 - Revocation of commissions during first three years of commissioned service](%C2%A7%2000281%20-%20Revocation%20of%20commissions%20during%20first%20three%20years%20of%20commissioned%20service.md)
+- [&sect; 00281 - Revocation of commissions during first five years of commissioned service](%C2%A7%2000281%20-%20Revocation%20of%20commissions%20during%20first%20five%20years%20of%20commissioned%20service.md)
 - [&sect; 00282 - Regular lieutenants (junior grade); separation for failure of selection for promotion](%C2%A7%2000282%20-%20Regular%20lieutenants%20%28junior%20grade%29%3B%20separation%20for%20failure%20of%20selection%20for%20promotion.md)
 - [&sect; 00283 - Regular lieutenants; separation for failure of selection for promotion; continuation](%C2%A7%2000283%20-%20Regular%20lieutenants%3B%20separation%20for%20failure%20of%20selection%20for%20promotion%3B%20continuation.md)
 - [&sect; 00284 - Regular Coast Guard; officers serving under temporary appointments](%C2%A7%2000284%20-%20Regular%20Coast%20Guard%3B%20officers%20serving%20under%20temporary%20appointments.md)
 - [&sect; 00285 - Regular lieutenant commanders and commanders; retirement for failure of selection for promotion](%C2%A7%2000285%20-%20Regular%20lieutenant%20commanders%20and%20commanders%3B%20retirement%20for%20failure%20of%20selection%20for%20promotion.md)
-- [&sect; 00286 - Discharge in lieu of retirement; severance pay](%C2%A7%2000286%20-%20Discharge%20in%20lieu%20of%20retirement%3B%20severance%20pay.md)
+- [&sect; 00286 - Discharge in lieu of retirement; separation pay](%C2%A7%2000286%20-%20Discharge%20in%20lieu%20of%20retirement%3B%20separation%20pay.md)
 - [&sect; 00286a - Regular warrant officers severance pay](%C2%A7%2000286a%20-%20Regular%20warrant%20officers%20severance%20pay.md)
 - [&sect; 00287 - Separation for failure of selection for promotion or continuation; time of](%C2%A7%2000287%20-%20Separation%20for%20failure%20of%20selection%20for%20promotion%20or%20continuation%3B%20time%20of.md)
 - [&sect; 00288 - Regular captains; retirement](%C2%A7%2000288%20-%20Regular%20captains%3B%20retirement.md)

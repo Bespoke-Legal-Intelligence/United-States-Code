@@ -10,7 +10,7 @@ The proclamation shall include the International Regulations and shall be publis
 
 #### (c) Amendment of International Regulations
 
-Subject to the provisions of subsection (d) of this section, the President is also authorized to proclaim any amendment to the International Regulations hereafter adopted in accordance with the provisions of article VI of the Convention, and to which the United States does not object. The effective date of the amendment shall be specified in the proclamation and shall be in accordance with the provisions of the said article VI. The proclamation shall include the adopted amendment and shall be published in the Federal Register. On the date specified in the proclamation, the amendment shall enter into force for the United States as a constituent part of the International Regulations, as amended, and shall have effect as if enacted by statute.
+Subject to the provisions of subsection (d) of this section, the President is also authorized to proclaim any amendment to the InternationalRegulations hereafter adopted in accordance with the provisions of article VI of the Convention, and to which the United States does not object. The effective date of the amendment shall be specified in the proclamation and shall be in accordance with the provisions of the said article VI. The proclamation shall include the adopted amendment and shall be published in the Federal Register. On the date specified in the proclamation, the amendment shall enter into force for the United States as a constituent part of the International Regulations, as amended, and shall have effect as if enacted by statute.
 
 #### (d) Notification to Congress of proposed amendments; Congressional resolution of disapproval
 
@@ -18,13 +18,13 @@ Subject to the provisions of subsection (d) of this section, the President is al
 
 (2) For the purposes of this subsection, “resolution of disapproval” means a concurrent resolution initiated by either House of the Congress, the matter after the resolving clause of which is to read as follows: “That the        (the        concurring) does not favor the proposed amendment to the International Regulations for Preventing Collisions at Sea, 1972, relating to          , and forwarded to the Congress by the President on       .”, the first blank space therein to be filled with the name of the resolving House, the second blank space therein to be filled with the name of the concurring House, the third blank space therein to be filled with the subject matter of the proposed amendment, and the fourth blank space therein to be filled with the day, month, and year.
 
-(3) Any proposed amendment transmitted to the Congress by the President and any resolution of disapproval pertaining thereto shall be referred, in the House of Representatives, to the Committee on Merchant Marine and Fisheries, and shall be referred, in the Senate, to the Committee on Commerce, Science, and Transportation.
+(3) Any proposed amendment transmitted to the Congress by the President and any resolution of disapproval pertaining thereto shall be referred, in the House of Representatives, to the Committee on Transportation and Infrastructure, and shall be referred, in the Senate, to the Committee on Commerce, Science, and Transportation.
 
-(Pub. L. 95–75, §3, July 27, 1977, 91 Stat. 308.)
+(Pub. L. 95–75, §3, July 27, 1977, 91 Stat. 308; Pub. L. 107–295, title IV, §408(b)(1), Nov. 25, 2002, 116 Stat. 2117.)
 
 #### Prior Provisions
 
-The original rules for the prevention of collisions on the water were contained in R.S. §4233, which consisted of 26 rules, R.S. §4412, which authorized the board of supervising inspectors to establish such regulations to be observed by all steam vessels in passing each other, as they should from time to time deem necessary for safety, and provided that copies of such regulations should be furnished to all of such vessels, to be kept posted upin conspicuous places in such vessels, and R.S. §4413, which prescribed a penalty for neglecting or willfully refusing to observe the regulations established pursuant to said section 4412.
+The original rules for the prevention of collisions on the water were contained in R.S. §4233, which consisted of 26 rules, R.S. §4412, which authorized the board of supervising inspectors to establish such regulations to be observed by all steam vessels in passing each other, as they should from time to time deem necessary for safety, and provided that copies of such regulations should be furnished to all of such vessels, to be kept posted up in conspicuous places in such vessels, and R.S. §4413, which prescribed a penalty for neglecting or willfully refusing to observe the regulations established pursuant to said section 4412.
 
 The rules prescribed by R.S. §4233 were superseded as to navigation on the high seas and in all coast waters of the United States, except such as were otherwise provided for, by the adoption of the “Revised International Regulations” by act March 3, 1885, ch. 354, 23 Stat. 438, which rules were superseded by the passage and adoption of act Aug. 19, 1890, ch. 802, 26 Stat. 322, section 1 of which enacted a set of regulations for preventing collisions at sea to be followed by all public and private vessels of the United States upon the high seas and in all waters connected therewith, navigable by seagoing vessels.
 
@@ -44,9 +44,9 @@ Regulations for Preventing Collisions at Sea, 1948, approved by the Internationa
 
 Regulations for Preventing Collisions at Sea, 1960, approved by the International Conference on the Safety of Life at Sea, 1960, covering substantially the same subject matter included under these rules, were set out as sections 1051 to 1094 of this title.
 
-#### Abolition of House Committee on Merchant Marine and Fisheries
+#### Amendments
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. For treatment of references to Committee on Merchant Marine and Fisheries, see section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+2002—Subsec. (d)(3). Pub. L. 107–295 substituted “Transportation and Infrastructure” for “Merchant Marine and Fisheries”.
 
 #### International Convention for Safety of Life at Sea, 1948
 
@@ -58,7 +58,7 @@ The convention, known as the International Convention for the Safety of Life at 
 
 #### International Regulations for Preventing Collisions at Sea, 1972
 
-The Convention on the International Regulations for Preventing Collisions at Sea, 1972, was proclaimed by the President on Jan. 19, 1977. The President's proclamation provided that the Convention enter into force for the United States on July 15, 1977. The proclamation and the International Regulations were published in the Federal Register on Mar. 31, 1977, 42 F.R. 17112, with corrections to the International Regulations published on Apr. 7, 1977, 42 F.R. 18401 and on Apr. 21, 1977, 42 F.R. 20625. The International Regulations, as amended, are maintained and published by the United States Coast Guard, U.S. Department of Transportation, in the publication <i>Navigation Rules</i>, which is available for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402.
+The Convention on the International Regulations for Preventing Collisions at Sea, 1972, was proclaimed by the President on Jan. 19, 1977. The President's proclamation provided that the Convention enter into force for the United States on July 15, 1977. The proclamation and the International Regulations were published in the Federal Register on Mar. 31, 1977, 42 F.R. 17112, with corrections to the International Regulations published on Apr. 7, 1977, 42 F.R. 18401 and on Apr. 21, 1977, 42 F.R. 20625. The International Regulations, as amended, are maintained and published by the United States Coast Guard, U.S. Department of Homeland Security, in the publication <i>Navigation Rules</i>, which is available for sale by the Superintendent of Documents, U.S. Government Printing Office, Washington, D.C. 20402.
 
 #### Ex. Ord. No. 11964. Implementation of Convention on the International Regulations for Preventing Collisions at Sea, 1972
 
@@ -102,7 +102,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 1–103. (a) The Secretary of the Department in which the Coast Guard is operating, or the head of any other Executive agency authorized by law, shall be responsible for the issuance of certificates as required by the Convention.
 
-(b) If a certificate is to include matter that pertains to functions vested by law in another Executive agency, the issuing agency shall first ascertain from the other Executive agency the decision regarding thatmatter. The decision of that agency shall be final and binding on the issuing agency.
+(b) If a certificate is to include matter that pertains to functions vested by law in another Executive agency, the issuing agency shall first ascertain from the other Executive agency the decision regarding that matter. The decision of that agency shall be final and binding on the issuing agency.
 
 1–104. The Secretary of the Department in which the Coast Guard is operating may use the services of the American Bureau of Shipping as long as that Bureau is operated in compliance with Section 25 of the Act of June 5, 1920, as amended (46 U.S.C. 881) \[now 46 U.S.C. 3305, 3316, 12119\], to perform the functions under the Convention. The Secretary may also use the services of the National Cargo Bureau to perform functions under Chapter VI (Carriage of Grain) of the Convention.
 

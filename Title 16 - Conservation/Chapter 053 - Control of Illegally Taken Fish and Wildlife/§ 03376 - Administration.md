@@ -12,6 +12,10 @@ Beginning in fiscal year 1983, to the extent and in the amounts provided in adva
 
 (Pub. L. 97–79, §7, Nov. 16, 1981, 95 Stat. 1078.)
 
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3372 of this title.

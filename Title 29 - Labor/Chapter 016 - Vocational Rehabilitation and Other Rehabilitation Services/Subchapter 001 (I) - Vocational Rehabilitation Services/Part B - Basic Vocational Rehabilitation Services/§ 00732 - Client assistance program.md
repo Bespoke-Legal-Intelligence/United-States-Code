@@ -26,7 +26,7 @@ No State may receive payments from its allotment under this chapter in any fisca
 
 (ii) If, after August 7, 1998—
 
-&emsp;(I) a designated State agency undergoes any change in the organizational structure of theagency that results in the creation of one or more new State agencies or departments or results in the merger of the designated State agency with one or more other State agencies or departments; and
+&emsp;(I) a designated State agency undergoes any change in the organizational structure of the agency that results in the creation of one or more new State agencies or departments or results in the merger of the designated State agency with one or more other State agencies or departments; and
 
 &emsp;(II) an agency (including an office or other unit) within the designated State agency was conducting a client assistance program before the change under the last sentence of subparagraph (A),
 
@@ -70,7 +70,7 @@ The Secretary shall prescribe regulations applicable to the client assistance pr
 
 &emsp;(3)(A) Each program shall contain provisions designed to assure that to the maximum extent possible alternative means of dispute resolution are available for use at the discretion of an applicant or client of the program prior to resorting to litigation or formal adjudication to resolve a dispute arising under this section.
 
-&emsp;(B) In subparagraph (A), the term “alternative means of dispute resolution” means any procedure, including good faith negotiation, conciliation, facilitation, mediation, factfinding, and arbitration, and any combination of procedures, that is used in lieu of litigation in a court or formal adjudication in an administrative forum, to resolve a dispute arising under this section.
+&emsp;(B) In subparagraph (A), the term “alternative means of dispute resolution” means any procedure, including good faith negotiation, conciliation, facilitation, mediation, factfinding, and arbitration, and any combination of procedures, that is used in lieu of litigation in a court or formal adjudication in anadministrative forum, to resolve a dispute arising under this section.
 
 &emsp;(4) For purposes of any periodic audit, report, or evaluation of the performance of a client assistance program under this section, the Secretary shall not require such a program to disclose the identity of, or any other personally identifiable information related to, any individual requesting assistance under such program.
 
@@ -78,7 +78,7 @@ The Secretary shall prescribe regulations applicable to the client assistance pr
 
 There are authorized to be appropriated such sums as may be necessary for fiscal years 1999 through 2003 to carry out the provisions of this section.
 
-(Pub. L. 93–112, title I, §112, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1163;amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(9)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413.)
+(Pub. L. 93–112, title I, §112, as added Pub. L. 105–220, title IV, §404, Aug. 7, 1998, 112 Stat. 1163; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §402(b)(9)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–413.)
 
 #### References in Text
 

@@ -46,5 +46,57 @@
 
 &emsp;&emsp;(iii) for each of the fiscal years 2001 through 2003, reserve up to 25 percent for carrying out section 9273 of title 20.
 
-(Pub. L. 105–220, title I, §174, Aug. 7, 1998, 112 Stat. 1037.)
+#### (c) Assistance for eligible workers
+
+#### (1) Authorization and appropriation for fiscal year 2002
+
+&emsp;There are authorized to be appropriated and appropriated—
+
+&emsp;&emsp;(A) to carry out subsection (a)(4)(A) of section 2918 of this title, $10,000,000 for fiscal year 2002; and
+
+&emsp;&emsp;(B) to carry out subsection (a)(4)(B) of section 2918 of this title, $50,000,000 for fiscal year 2002.
+
+#### (2) Authorization of appropriations for subsequent fiscal years
+
+&emsp;There are authorized to be appropriated—
+
+&emsp;&emsp;(A) to carry out subsection (a)(4)(A) of section 2918 of this title, $60,000,000 for each of fiscal years 2003 through 2007; and
+
+&emsp;&emsp;(B) to carry out subsection (a)(4)(B) of section 2918 of this title—
+
+&emsp;&emsp;&emsp;(i) $100,000,000 for fiscal year 2003; and
+
+&emsp;&emsp;&emsp;(ii) $50,000,000 for fiscal year 2004.
+
+#### (3) Availability of funds
+
+&emsp;Funds appropriated pursuant to—
+
+&emsp;&emsp;(A) paragraphs (1)(A) and (2)(A) for each fiscal year shall, notwithstanding section 2939(g) of this title, remain available for obligation during the pendency of any outstanding claim under the Trade Act of 1974 \[19 U.S.C. 2101 et seq.\], as amended by the Trade Act of 2002; and
+
+&emsp;&emsp;(B) paragraph <sup>1</sup> (1)(B) and (2)(B), for each fiscal year shall, notwithstanding section 2939(g) of this title, remain available during the period that begins on August 6, 2002, and ends on September 30, 2004.
+
+(Pub. L. 105–220, title I, §174, Aug. 7, 1998, 112 Stat. 1037; Pub. L. 107–210, div. A, title II, §203(c), Aug. 6, 2002, 116 Stat. 969.)
+
+#### References in Text
+
+The Trade Act of 1974, as amended by the Trade Act of 2002, referred to in subsec. (c)(3)(A), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended by Pub. L. 107–210, which is classified principally to chapter 12 (§2101 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of Title 19 and Tables.
+
+#### Amendments
+
+2002—Subsec. (c). Pub. L. 107–210 added subsec. (c).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under part 2 or 3 of subchapter II of chapter 12 of Title 19, Customs Duties, on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of Title 19.
+
+#### Construction of 2002 Amendment
+
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2918 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
 

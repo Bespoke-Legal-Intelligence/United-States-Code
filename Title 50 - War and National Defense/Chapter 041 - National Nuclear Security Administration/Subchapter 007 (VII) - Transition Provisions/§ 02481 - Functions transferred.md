@@ -26,6 +26,10 @@ In the case of any environmental remediation and waste management activity of an
 
 (Pub. L. 106–65, div. C, title XXXII, §3291, Oct. 5, 1999, 113 Stat. 968.)
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the advanced scientific computing research program and activities at Lawrence Livermore National Laboratory, including the functions of the Secretary of Energy relating thereto, to the Secretary of Homeland Security, see sections 183(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2402, 2409, 2484 of this title.

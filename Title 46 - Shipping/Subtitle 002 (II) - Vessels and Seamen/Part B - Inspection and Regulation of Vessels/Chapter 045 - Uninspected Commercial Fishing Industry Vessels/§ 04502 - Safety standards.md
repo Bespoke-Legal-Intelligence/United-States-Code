@@ -142,7 +142,7 @@ Section 602(f) of Pub. L. 101–595, provided that: “This section \[amending t
 
 &emsp;&emsp;“(B) does not undergo a major conversion.
 
-&emsp;“(3) Before January 1, 2003, a fish tender vessel is exempt from chapter 51 of title 46, United StatesCode, (as amended by subsection (d) of this section) when engaged in the Aleutian trade, if the vessel—
+&emsp;“(3) Before January 1, 2003, a fish tender vessel is exempt from chapter 51 of title 46, United States Code, (as amended by subsection (d) of this section) when engaged in the Aleutian trade, if the vessel—
 
 &emsp;&emsp;“(A)(i) before September 8, 1990, operated in that trade; or
 

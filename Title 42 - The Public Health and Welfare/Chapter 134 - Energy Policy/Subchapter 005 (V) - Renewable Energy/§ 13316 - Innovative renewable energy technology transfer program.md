@@ -64,7 +64,7 @@ Pursuant to the agreements required by subsection (a) of this section, the Secre
 
 #### (f) Assistance to United States firms
 
-Pursuant to the agreements under subsection (a) of this section, the Secretary, through theAgency for International Development, and in consultation with the interagency working group, shall establish a procedure to provide financial assistance to United States firms under this section for a project identified under subsection (c) of this section where solicitations for the project are being conducted by the host country or by a multilateral lending institution.
+Pursuant to the agreements under subsection (a) of this section, the Secretary, through the Agency for International Development, and in consultation with the interagency working group, shall establish a procedure to provide financial assistance to United States firms under this section for a project identified under subsection (c) of this section where solicitations for the project are being conducted by the host country or by a multilateral lending institution.
 
 #### (g) Other program requirements
 
@@ -140,7 +140,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(ii) a developing country.
 
-&emsp;(2) the term “developing country” includes, but is not limited to, countries in Central andEastern Europe or in the independent states of the former Soviet Union.
+&emsp;(2) the term “developing country” includes, but is not limited to, countries in Central and Eastern Europe or in the independent states of the former Soviet Union.
 
 #### (m) Authorization of appropriations
 

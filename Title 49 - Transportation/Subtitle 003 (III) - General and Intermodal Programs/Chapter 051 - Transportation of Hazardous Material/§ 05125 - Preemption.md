@@ -4,13 +4,13 @@
 
 General.—Except as provided in subsections (b), (c), and (e) of this section and unless authorized by another law of the United States, a requirement of a State, political subdivision of a State, or Indian tribe is preempted if—
 
-&emsp;(1) complying with a requirement of the State, political subdivision, or tribe and a requirement of this chapter or a regulation prescribed under this chapter is not possible; or
+&emsp;(1) complying with a requirement of the State, political subdivision, or tribe and a requirement of this chapter, a regulation prescribed under this chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security is not possible; or
 
-&emsp;(2) the requirement of the State, political subdivision, or tribe, as applied or enforced, is an obstacle to accomplishing and carrying out this chapter or a regulation prescribed under this chapter.
+&emsp;(2) the requirement of the State, political subdivision, or tribe, as applied or enforced, is an obstacle to accomplishing and carrying out this chapter, a regulation prescribed under this chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security.
 
 (b)
 
-Substantive Differences.—(1) Except as provided in subsection (c) of this section and unless authorized by another law of the United States, a law, regulation, order, or other requirement of a State, political subdivision of a State, or Indian tribe about any of the following subjects, that is not substantively the same as a provision of this chapter or a regulation prescribed under this chapter, is preempted:
+Substantive Differences.—(1) Except as provided in subsection (c) of this section and unless authorized by another law of the United States, a law, regulation, order, or other requirement of a State, political subdivision of a State, or Indian tribe about any of the following subjects, that is not substantively the same as a provision of this chapter, a regulation prescribed under this chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security, is preempted:
 
 &emsp;(A) the designation, description, and classification of hazardous material.
 
@@ -72,7 +72,7 @@ Fees.—(1) A State, political subdivision of a State, or Indian tribe may impos
 
 &emsp;(D) such other matters as the Secretary requests.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 781; Pub. L. 103–311, title I, §§107, 117(a)(2), 120(b), Aug. 26, 1994, 108 Stat. 1674, 1678, 1681; Pub. L. 103–429, §6(6), Oct. 31, 1994, 108 Stat. 4378.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 781; Pub. L. 103–311, title I, §§107, 117(a)(2), 120(b), Aug. 26, 1994, 108 Stat. 1674, 1678, 1681; Pub. L. 103–429, §6(6), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(b), Nov. 25, 2002, 116 Stat. 2320.)
 
 Historical and Revision Notes
 
@@ -138,13 +138,19 @@ This amends 49:5125(a) and (b)(1) to clarify the restatement of 49 App.:1804(a)(
 
 #### Amendments
 
+2002—Subsecs. (a), (b)(1). Pub. L. 107–296 substituted “chapter, a regulation prescribed under this chapter, or a hazardous materials transportation security regulation or directive issued by the Secretary of Homeland Security” for “chapter or a regulation prescribed under this chapter” wherever appearing.
+
 1994—Subsecs. (a), (b)(1). Pub. L. 103–429 inserted “and unless authorized by another law of the United States” after “section” in introductory provisions.
 
 Subsec. (b)(1)(E). Pub. L. 103–311, §117(a)(2), substituted “a packaging or a” for “a package or”.
 
-Subsec. (d). Pub. L. 103–311, §120(b), inserted after second sentence “The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publish a statement in the Federal Register of the reason why the Secretary's decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made.”
+Subsec. (d). Pub. L. 103–311, §120(b), inserted after second sentence “The Secretary shall issue a decision on an application for a determination within 180 days after the date of the publication of the notice of having received such application, or the Secretary shall publisha statement in the Federal Register of the reason why the Secretary's decision on the application is delayed, along with an estimate of the additional time necessary before the decision is made.”
 
 Subsec. (g). Pub. L. 103–311, §107, designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1994 Amendment
 

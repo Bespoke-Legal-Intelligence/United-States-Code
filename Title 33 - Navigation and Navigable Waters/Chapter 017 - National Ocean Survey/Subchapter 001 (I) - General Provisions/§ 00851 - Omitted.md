@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, Pub. L. 105–277, div. A, §101(b) \[title II\], Oct. 21, 1998, 105 Stat. 2681–50, 2681–83, which authorized in the National Oceanic and Atmospheric Administration 250 commissioned officers on the active list as of September 30, 1999, was from title II of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriation acts. See section 853a(a) of this title.
+Section, Pub. L. 105–277, div. A, §101(b) \[title II\], Oct. 21, 1998, 105 Stat. 2681–50, 2681–83, which authorized in the National Oceanic and Atmospheric Administration 250 commissioned officers on the active list as of September 30, 1999, was from title II of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1999, and was not repeated in subsequent appropriation acts.
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -140,9 +140,11 @@ Coast and Geodetic Survey consolidated with Weather Bureau to form a new agency 
 
 Reorg. Plan No. 4 of 1970, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, set out in the Appendix to Title 5, Government Organization and Employees, abolished Environmental Science Services Administration, including offices of Administrator and Deputy Administrator, and established National Oceanic and Atmospheric Administration within Department of Commerce. By Department Organization Order 25–5A, republished 39 F.R. 27486, July 29, 1974, Secretary of Commerce delegated to National Oceanic and Atmospheric Administration a number of functions vested in him, including his functions under this chapter of the Code. By order of Acting Associate Administrator, 35 F.R. 19249, Dec. 19, 1970, the following organizational names appearing in chapter IX of subtitle B of Title 15, Code of Federal Regulations, relating to the Administration, were changed: Environmental Science Services Administration to National Oceanic and Atmospheric Administration (ESSA to NOAA); Coast and Geodetic Survey to National Ocean Survey, and Weather Bureau to National Weather Service.
 
-Section 857–5 of this title further provides for applicability of statutory provisions, formerly applied to commissioned officers of Coast and Geodetic Survey, to commissioned officers of National Oceanic and Atmospheric Administration.
-
 The functions of all officers of Department of Commerce and all functions of all officers and employees of such Department, were, with a few exceptions, transferred to Secretary of Commerce, with power vested in him to authorize their performance or the performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees. The Coast and Geodetic Survey was an agency within the Department of Commerce.
+
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–372, title I, §101(a), Dec. 19, 2002, 116 Stat. 3079, provided that: “This title \[amending sections 892 to 892d of this title\] may be cited as the ‘Hydrographic Services Improvement Act Amendments of 2002’.”
 
 #### Short Title of 1998 Amendment
 
@@ -176,7 +178,7 @@ All functions vested by law in the Weather Bureau, the Chief of the Weather Bure
 
 #### Sec. 3. Environmental Science Services Administration
 
-(a) The Coast and Geodetic Survey and the Weather Bureau are hereby consolidated to form a new agencyin the Department of Commerce which shall be known as the Environmental Science Services Administration, hereinafter referred to as the Administration.
+(a) The Coast and Geodetic Survey and the Weather Bureau are hereby consolidated to form a new agency in the Department of Commerce which shall be known as the Environmental Science Services Administration, hereinafter referred to as the Administration.
 
 (b) The Secretary shall from time to time establish such constituent organizational entities of the Administration, with such names, as he shall determine.
 
@@ -208,7 +210,7 @@ Nothing in this organization plan shall divert the Secretary of any function ves
 
 #### Sec. 7. Interim Officers
 
-(a) The President may authorize any person who immediately prior to the effective date of this reorganization plan held a position in the executive branch of the Government to act as Administrator until the office of Administrator is for the first time filled pursuant to the provisions of this reorganization plan or by recess appointment, as the case may be.
+(a) The President may authorize any person who immediately prior to the effective date of this reorganization plan held a position in the executive branch of theGovernment to act as Administrator until the office of Administrator is for the first time filled pursuant to the provisions of this reorganization plan or by recess appointment, as the case may be.
 
 (b) The President may similarly authorize any such person to act as Deputy Administrator.
 
@@ -224,7 +226,7 @@ I transmit herewith Reorganization Plan No. 2 of 1965, prepared in accordance wi
 
 The reorganization plan consolidates the Coast and Geodetic Survey and the Weather Bureau to form a new agency in the Department of Commerce to be known as the Environmental Science Services Administration. It is the intention of the Secretary of Commerce to transfer the Central Radio Propagation Laboratory of the National Bureau of Standards to the Administration when the reorganization plan takes effect. The new Administration will then provide a single national focus for our efforts to describe, understand, and predict the state of the oceans, the state of the lower and upper atmosphere, and the size and shape of the earth.
 
-Establishment of the Administration will mark a significant step forward in the continual search by the Federal Government for better ways to meet the needs of the Nation for environmental science services. The organizational improvements made possible by the reorganization plan will enhance our ability to develop an adequate warning system for the severe hazards of nature—for hurricanes, tornadoes, floods, earthquakes, and seismic sea waves, which have proved so disastrous to the Nation in recent years. These improvements will permit us to provide better environmental informationto vital segments of the Nation's economy—to agriculture, transportation, communications, and industry, which continually require information about the physical environment. They will mean better services to other Federal departments and agencies—to those that are concerned with the national defense, the exploration of outer space, the management of our mineral and water resources, the protection of the public health against environmental pollution, and the preservation of our wilderness and recreation areas.
+Establishment of the Administration will mark a significant step forward in the continual search by the Federal Government for better ways to meet the needs of the Nation for environmental science services. The organizational improvements made possible by the reorganization plan will enhance our ability to develop an adequate warning system for the severe hazards of nature—for hurricanes, tornadoes, floods, earthquakes, and seismic sea waves, which have proved so disastrous to the Nation in recent years. These improvements will permit us to provide better environmental information to vital segments of the Nation's economy—to agriculture, transportation, communications, and industry, which continually require information about the physical environment. They will mean better services to other Federal departments and agencies—to those that are concerned with the national defense, the exploration of outer space, the management of our mineral and water resources, the protection of the public health against environmental pollution, and the preservation of our wilderness and recreation areas.
 
 The new Administration will bring together a number of allied scientific disciplines that are concerned with the physical environment. The integration will better enable us to look at man's physical environment as a scientific whole and to seek to understand the interactions among air, sea, and earth and between the upper and lower atmosphere. It will facilitate the development of programs dealing with the physical environment and will permit better management of these programs. It will enhance our capability to identify and solve important long-range scientific and technological problems associated with the physical environment. The new Administration will, in consequence, promote a fresh sense of scientific dedication, discovery, and challenge, which are essential if we are to attract scientists and engineers of creativity and talent to Federal employment in this field.
 

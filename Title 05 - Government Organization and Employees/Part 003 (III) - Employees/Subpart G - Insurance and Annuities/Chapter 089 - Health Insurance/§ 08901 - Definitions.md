@@ -20,7 +20,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(H) an individual appointed to a position on the office staff of a former President under section 1(b) of the Act of August 25, 1958 (72 Stat. 838); and
 
-&emsp;&emsp;(I) an individual appointed to a position on the office staff of a former President, or aformer Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph;
+&emsp;&emsp;(I) an individual appointed to a position on the office staff of a former President, or a former Vice President under section 4 of the Presidential Transition Act of 1963, as amended (78 Stat. 153), who immediately before the date of such appointment was an employee as defined under any other subparagraph of this paragraph;
 
 > &emsp;but does not include—
 
@@ -134,7 +134,7 @@ Aug. 31, 1964, Pub. L. 88–531, §1, 78 Stat. 737.
 
 July 1, 1960, Pub. L. 86–568, §115(d) “(f) (1st sentence, less words between 1st and 2d commas)”, 74 Stat. 303.
 
-The definition of “employee” in section 2105 of this title is broad enough to cover the officers and employees covered by former section 3001 with the exception of a Member of Congress, the President, an individual employed by the government of the District of Columbia, an individual employed by Gallaudet College, a United States commissioner, and an Official Reporter of Debates of the Senate and an individual employed by him. The first five have been added in paragraphs (1)(B), (D), (E), (F), and (G). The latter are covered by the definition of “Congressional employee” in section 2107 of this title and are included by the addition of a Congressional employee in paragraph (1)(C).
+The definition of “employee” in section 2105 of this title is broad enough to cover the officers and employees covered by former section 3001 with the exception of a Member of Congress, the President, an individual employed by the government of the District of Columbia,an individual employed by Gallaudet College, a United States commissioner, and an Official Reporter of Debates of the Senate and an individual employed by him. The first five have been added in paragraphs (1)(B), (D), (E), (F), and (G). The latter are covered by the definition of “Congressional employee” in section 2107 of this title and are included by the addition of a Congressional employee in paragraph (1)(C).
 
 In paragraph (1)(ii), the words “the United States” are substituted for “a State of the United States or the District of Columbia”.
 
@@ -268,7 +268,7 @@ Pub. L. 106–394, §1, Oct. 30, 2000, 114 Stat. 1629, provided that: “This Ac
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–266, §1, Oct. 19, 1998, 112 Stat. 2363, provided that: “This Act \[enacting section 8903b of thistitle, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902, 8902a, 8903b, and 8909 of this title\] may be cited as the ‘Federal Employees Health Care Protection Act of 1998’.”
+Pub. L. 105–266, §1, Oct. 19, 1998, 112 Stat. 2363, provided that: “This Act \[enacting section 8903b of this title, amending this section and sections 5948, 8902 to 8903, and 8909 of this title, and enacting provisions set out as notes under this section and sections 5948, 8902, 8902a, 8903b, and 8909 of this title\] may be cited as the ‘Federal Employees Health Care Protection Act of 1998’.”
 
 #### Short Title of 1988 Amendment
 
@@ -277,6 +277,70 @@ Pub. L. 100–654, §1, Nov. 14, 1988, 102 Stat. 3837, provided that: “This Ac
 #### Short Title of 1986 Amendment
 
 Section 1 of Pub. L. 99–251 provided that: “This Act \[amending this section, sections 1103, 3502, 5334, 5924, 6312, 8332, 8339 to 8342, 8345, 8902, 8903, 8905, and 8909 of this title, and section 35 of Title 24, Hospitals and Asylums, enacting provisions set out as notes under this section and sections 7901, 8339, 8341, 8345, 8902, 8904, 8905, and 8909 of this title, and amending provisions set out as notes under sections 8341 and 8902 of this title\] may be cited as the ‘Federal Employees Benefits Improvement Act of 1986’.”
+
+#### Continuation of Health Benefits Coverage for Individuals Enrolled in a Plan Administered by the Overseas Private Investment Corporation
+
+Pub. L. 107–304, §4, Nov. 27, 2002, 116 Stat. 2364, provided that:
+
+“(a)
+
+Enrollment in Chapter 89 Plan.—For purposes of the administration of chapter 89 of title 5, United States Code, any period of enrollment under a health benefits plan administered by the Overseas Private Investment Corporation before the effective date of this Act \[probably means Nov. 27, 2002, the date of enactment of Pub. L. 107–304\] shall be deemed to be a period of enrollment in a health benefits plan under chapter 89 of such title.
+
+“(b)
+
+Continued Coverage.—
+
+&emsp;“(1)
+
+In general.—Any individual who, as of the enrollment eligibility date, is covered by a health benefits plan administered by the Overseas Private Investment Corporation may enroll in an approved health benefits plan described under section 8903 or 8903a of title 5, United States Code—
+
+&emsp;&emsp;“(A) either as an individual or for self and family, if such individual is an employee, annuitant, or former spouse as defined under section 8901 of such title; and
+
+&emsp;&emsp;“(B) for coverage effective on and after such date.
+
+&emsp;“(2)
+
+Individuals currently under continued coverage.—An individual who, as of the enrollment eligibility date, is entitled to continued coverage under a health benefits plan administered by the Overseas Private Investment Corporation—
+
+&emsp;&emsp;“(A) shall be deemed to be entitled to continued coverage under section 8905a of title 5, United States Code, for the same period that would have been permitted under the plan administered by the Overseas Private Investment Corporation; and
+
+&emsp;&emsp;“(B) may enroll in an approved health benefits plan described under section 8903 or 8903a of such title in accordance with section 8905a of such title for coverage effective on and after such date.
+
+&emsp;“(3)
+
+Unmarried dependent children.—An individual who, as of the enrollment eligibility date, is covered as an unmarried dependent child under a health benefits plan administered by the Overseas Private Investment Corporation and who is not a member of family as defined under section 8901(5) of title 5, United States Code—
+
+&emsp;&emsp;“(A) shall be deemed to be entitled to continued coverage under section 8905a of such title as though the individual had ceased to meet the requirements for being considered an unmarried dependent child under chapter 89 of such title as of such date; and
+
+&emsp;&emsp;“(B) may enroll in an approved health benefits plan described under section 8903 or 8903a of such title in accordance with section 8905a for continued coverage effective on and after such date.
+
+“(c)
+
+Transfers to the Employees Health Benefits Fund.—
+
+&emsp;“(1)
+
+In general.—The Overseas Private Investment Corporation shall transfer to the Employees Health Benefits Fund established under section 8909 of title 5, United States Code, amounts determined by the Director of the Office of Personnel Management, after consultation with the Overseas Private Investment Corporation, to be necessary to reimburse the Fund for the cost of providing benefits under this section not otherwise paid for by the individuals covered by this section.
+
+&emsp;“(2)
+
+Availability of funds.—The amounts transferred under paragraph (1) shall be held in the Fund and used by the Office in addition to amounts available under section 8906(g)(1) of title 5, United States Code.
+
+“(d)
+
+Administration and Regulations.—The Office of Personnel Management—
+
+&emsp;“(1) shall administer this section to provide for—
+
+&emsp;&emsp;“(A) a period of notice and open enrollment for individuals affected by this section; and
+
+&emsp;&emsp;“(B) no lapse of health coverage for individuals who enroll in a health benefits plan under chapter 89 of title 5, United States Code, in accordance with this section; and
+
+&emsp;“(2) may prescribe regulations to implement this section.
+
+“(e)
+
+Enrollment Eligibility Date.—For purposes of this section, the term ‘enrollment eligibility date’ means the last day on which coverage under a health benefits plan administered by the Overseas Private Investment Corporation is available. Such date shall be determined by the Office of Personnel Management in consultation with the Overseas Private Investment Corporation.”
 
 #### Continued Coverage for Individuals Enrolled in Plan Administered by Federal Deposit Insurance Corporation or for Employees of Board of Governors of Federal Reserve System
 
@@ -422,7 +486,7 @@ For provisions relating to treatment of certain Federal employees of Saint Eliza
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8902, 8903, 8903a, 8905, 8905a, 8906, 8909, 8913, 9001 of this title; title 2 section 162b; title 10 section 1108; title 40 section 214c; title 42 section 251.
+This section is referred to in sections 8902, 8903, 8903a, 8905, 8905a, 8906, 8909, 8913, 9001 of this title; title 2 sections 162b, 2063; title 10 section 1108; title 42 section 251.
 
 <i><sup>1</sup></i><i> See Change of Name note below.</i>
 

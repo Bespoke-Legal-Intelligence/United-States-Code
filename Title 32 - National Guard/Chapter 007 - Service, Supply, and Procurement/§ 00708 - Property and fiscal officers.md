@@ -16,7 +16,7 @@
 
 (f) A property and fiscal officer may intrust money to an officer of the National Guard to make disbursements as his agent. Both the officer to whom money is intrusted, and the property and disbursing officer intrusting the money to him, are pecuniarily responsible for that money to the United States. The agent officer is subject, for misconduct as an agent, to the liabilities and penalties prescribed by law in like cases for the property and fiscal officer for whom he is acting.
 
-(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 92–310, title II, §207, June 6, 1972, 86 Stat. 203; Pub. L. 95–79, title VIII, §804(b), July 30, 1977, 91 Stat. 333; Pub. L. 96–513, title V, §515(4), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–189, div. A, title VI, §653(g), Nov. 29, 1989, 103 Stat. 1463.)
+(Aug. 10, 1956, ch. 1041, 70A Stat. 614; Pub. L. 92–310, title II, §207, June 6, 1972, 86 Stat. 203;Pub. L. 95–79, title VIII, §804(b), July 30, 1977, 91 Stat. 333; Pub. L. 96–513, title V, §515(4), Dec. 12, 1980, 94 Stat. 2937; Pub. L. 100–456, div. A, title XII, §1234(b)(1), Sept. 29, 1988, 102 Stat. 2059; Pub. L. 101–189, div. A, title VI, §653(g), Nov. 29, 1989, 103 Stat. 1463.)
 
 Historical and Revision Notes
 

@@ -10,7 +10,7 @@ Based on title 14, U.S.C., 1946 ed., §§11a, 12 (Apr. 16, 1908, ch. 145, §§1,
 
 Said sections have been divided. The provisions of the proviso of title 14, U.S.C., 1946 ed., §11a, and the first proviso of title 14, U.S.C., 1946 ed., §12, are placed in section 48 of this title and the remainder is placed in this section.
 
-The provisions regarding appointment of the Assistant Commandant and Engineer in Chief are coordinated, inasmuch as these positions are about equal in the Coast Guard organization. The qualification that the Engineer in Chief be appointed from the active list of engineering officers is changed to the active list of officers who have qualified for engineering duty, because there is no longer any provision for a corps of engineering officers. 81st Congress, House Report No. 557.
+The provisions regarding appointment of the Assistant Commandant and Engineer in Chief are coordinated, inasmuch as these positions are about equal inthe Coast Guard organization. The qualification that the Engineer in Chief be appointed from the active list of engineering officers is changed to the active list of officers who have qualified for engineering duty, because there is no longer any provision for a corps of engineering officers. 81st Congress, House Report No. 557.
 
 #### Amendments
 
@@ -50,7 +50,7 @@ Amendment by Pub. L. 92–451 effective Oct. 2, 1972, except that continuation b
 
 #### Effective Date of Higher Grade and Increased Pay and Allowances
 
-The increased grade of vice admiral for the Vice Commandant, including the pay and allowances applicableto such grade, effective on the first day of the month following May 14, 1960, see section 2 of Pub. L. 86–474, set out as a note under section 44 of this title.
+The increased grade of vice admiral for the Vice Commandant, including the pay and allowances applicable to such grade, effective on the first day of the month following May 14, 1960, see section 2 of Pub. L. 86–474, set out as a note under section 44 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

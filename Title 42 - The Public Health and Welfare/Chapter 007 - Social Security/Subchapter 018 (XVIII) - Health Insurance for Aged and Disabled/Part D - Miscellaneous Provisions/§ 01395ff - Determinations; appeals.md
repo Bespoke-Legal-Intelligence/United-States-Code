@@ -58,7 +58,7 @@
 
 #### (A) Reconsideration of initial determination
 
-&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) of this sectionshall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the “Commissioner of Social Security” or the “Social Security Administration” in subsection (g) or (<i>l</i>) of section 405 of this title shall be considered a reference to the “Secretary” or the “Department of Health and Human Services”, respectively.
+&emsp;&emsp;Subject to subparagraph (D), any individual dissatisfied with any initial determination under subsection (a)(1) of this section shall be entitled to reconsideration of the determination, and, subject to subparagraphs (D) and (E), a hearing thereon by the Secretary to the same extent as is provided in section 405(b) of this title and to judicial review of the Secretary's final decision after such hearing as is provided in section 405(g) of this title. For purposes of the preceding sentence, any reference to the “Commissioner of Social Security” or the “Social Security Administration” in subsection (g) or (<i>l</i>) of section 405 of this title shall be considered a reference to the “Secretary” or the “Department of Health and Human Services”, respectively.
 
 #### (B) Representation by provider or supplier
 
@@ -172,7 +172,7 @@
 
 #### (ii) Consequences of failure to meet deadline
 
-&emsp;&emsp;&emsp;In the case of a failure by the qualified independent contractor to mail the notice of the decision by the end of the period described in clause (i) or to provide notice by the end of the period described in clause (iii), as the case may be, the party requesting the reconsideration or appeal may request a hearing before the Secretary, notwithstanding any requirements for a reconsidered determination for purposes of the party's right to such hearing.
+&emsp;&emsp;&emsp;In the case of a failure by the qualified independent contractor to mail the noticeof the decision by the end of the period described in clause (i) or to provide notice by the end of the period described in clause (iii), as the case may be, the party requesting the reconsideration or appeal may request a hearing before the Secretary, notwithstanding any requirements for a reconsidered determination for purposes of the party's right to such hearing.
 
 #### (iii) Expedited reconsiderations
 
@@ -244,7 +244,7 @@
 
 #### (iii) Annual reporting
 
-&emsp;&emsp;&emsp;Each qualified independent contractor shall submit annually to the Secretary (orotherwise as the Secretary may request) records maintained under this paragraph for the previous year.
+&emsp;&emsp;&emsp;Each qualified independent contractor shall submit annually to the Secretary (or otherwise as the Secretary may request) records maintained under this paragraph for the previous year.
 
 #### (J) Hearings by the Secretary
 
@@ -372,7 +372,7 @@
 
 &emsp;&emsp;(A) there are no material issues of fact in dispute, and
 
-&emsp;&emsp;(B) the only issue of law is the constitutionality of a provision of this subchapter,or that a regulation, determination, or ruling by the Secretary is invalid,
+&emsp;&emsp;(B) the only issue of law is the constitutionality of a provision of this subchapter, or that a regulation, determination, or ruling by the Secretary is invalid,
 
 > &emsp;the moving party may seek review by a court of competent jurisdiction without filing a complaint under such paragraph and without otherwise exhausting other administrative remedies.
 
@@ -486,7 +486,7 @@ Section 4082(e)(1), (2) of Pub. L. 100–203 provided that:
 
 “(1) The amendment made by subsection (a) \[amending this section\] shall take effect on the date of the enactment of this Act \[Dec. 22, 1987\].
 
-“(2) The amendment made by subsection (b) \[amending this section\] shall apply to requests for hearings filed after the end of the 60-day period beginning on the date of the enactment of this Act.”
+“(2) The amendment made by subsection (b) \[amending this section\] shall apply to requests for hearingsfiled after the end of the 60-day period beginning on the date of the enactment of this Act.”
 
 Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period, see section 15(a) of Pub. L. 100–93, set out as a note under section 1320a–7 of this title.
 

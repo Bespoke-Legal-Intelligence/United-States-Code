@@ -22,7 +22,7 @@ Aug. 31, 1964, Pub. L. 88–527, §201 (2nd par. under “Federal Bureau of Inve
 
 July 28, 1950, ch. 503, §5 (last sentence), 4 Stat. 380.
 
-The section is revised and restated to eliminate ambiguity and give true effect to the prohibition against the use of appropriations to the Federal Bureau of Investigation. The language used to define the excepted status of the positions, officers, and employees is based on revised sections 2102 and 2103 of title 5, United States Code.
+The section is revised and restated to eliminate ambiguity and give true effect to the prohibition againstthe use of appropriations to the Federal Bureau of Investigation. The language used to define the excepted status of the positions, officers, and employees is based on revised sections 2102 and 2103 of title 5, United States Code.
 
 The provisions of this section were made permanent by the Act of July 28, 1950, 64 Stat. 380. Identical provisions appearing in former section 300d of title 5 are derived from the Department of Justice Appropriation Act, 1965, and earlier appropriation Acts for the Department of Justice running back to 1942, which Acts are identified in a note under former section 300d of title 5, U.S.C. 1964 ed.
 

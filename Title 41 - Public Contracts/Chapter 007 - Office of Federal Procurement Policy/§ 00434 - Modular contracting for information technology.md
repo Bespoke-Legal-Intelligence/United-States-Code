@@ -30,5 +30,5 @@ The Federal Acquisition Regulation shall provide that—
 
 #### Effective Date
 
-Section effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as a note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Section effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 

@@ -18,7 +18,7 @@ Act of March 3, 1905 (33 Stat. 873; 16 U.S.C. 10), referred to in subsec. (b), r
 
 Section 17d of this title, referred to in subsec. (b), was omitted from the Code as obsolete.
 
-The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (b), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generallyto part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
 Act of July 15, 1968 (82 Stat. 355), referred to in subsec. (b), is Pub. L. 90–401, which enacted sections 460<i>l</i>–10a to 460<i>l</i>–10c and 460<i>l</i>–22 of this title, amended section 460<i>l</i>–5, 460<i>l</i>–7, and 460<i>l</i>–9 of this title, and enacted provisions set out as notes under section 460<i>l</i>–5 of this title. For complete classification of this Act to the Code, see Tables.
 

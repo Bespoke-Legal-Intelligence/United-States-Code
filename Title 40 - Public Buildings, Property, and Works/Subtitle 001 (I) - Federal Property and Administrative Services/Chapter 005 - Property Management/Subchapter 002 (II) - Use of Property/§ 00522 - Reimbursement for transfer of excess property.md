@@ -1,0 +1,52 @@
+### §522. Reimbursement for transfer of excess property
+
+(a)
+
+In General.—Subject to subsections (b) and (c) of this section, the Administrator of General Services, with the approval of the Director of the Office of Management and Budget, shall prescribe the amount of reimbursement required for a transfer of excess property.
+
+(b)
+
+Reimbursement At Fair Value.—The amount of reimbursement required for a transfer of excess property is the fair value of the property, as determined by the Administrator, if—
+
+&emsp;(1) net proceeds are requested under section 574(a) of this title; or
+
+&emsp;(2) either the transferor or the transferee agency (or the organizational unit affected) is—
+
+&emsp;&emsp;(A) subject to chapter 91 of title 31; or
+
+&emsp;&emsp;(B) an organization specified in section 321(c)(2) of this title.
+
+(c)
+
+Distribution Through General Services Administration Supply Centers.—Excess property determined by the Administrator to be suitable for distribution through the supply centers of the General Services Administration shall be retransferred at prices set by the Administrator with due regard to prices established under section 321(d) of this title.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1083.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+522
+
+40:483(a)(1) (last sentence).
+
+June 30, 1949, ch. 288, title II, §202(a)(1) (last sentence), 63 Stat. 384; July 12, 1952, ch. 703, §1(f), 66 Stat. 593.
+
+In subsection (a), the words “Director of the Office of Management and Budget” are substituted for “Director of the Bureau of the Budget” in section 202(a)(1) (last sentence) of the Federal Property and Administrative Services Act of 1949 because the office of Director of the Bureau of the Budget was redesignated the Director of the Office of Management and Budget by section 102(b) of Reorganization Plan No. 2 of 1970 (eff. July 1, 1970, 84 Stat. 2085). Section 102 of Reorganization Plan No. 2 of 1970, was repealed by section 5(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1085), the first section of which enacted Title 31, United States Code, but the successor provision, 31:502, continued the designation as Director of the Office of Management and Budget.
+
+In subsection (b)(1), the reference to “section 204(b)” in section 202(a)(1) (last sentence) of the Federal Property and Administrative Services Act of 1949 is translated as a reference to section 204(c) of the Act because subsection (b) was redesignated as (c) by the Act of August 31, 1954 (ch.1178, 68 Stat. 1051).
+
+In subsection (b)(2)(A), the words “chapter 91 of title 31” are substituted for “the Government Corporation Control Act (59 Stat. 597, 31 U.S.C. 841)” in section 202(a)(1) (last sentence) of the Federal Property and Administrative Services Act of 1949 because of section 4(b) of the Act of September 13, 1982 (Public Law 97–258, 96 Stat. 1067), the first section of which enacted Title 31, United States Code.
+
+In subsection (c), the word “at” is substituted for “as” (in the phrase “as \[sic\] prices set by the Administrator”) to reflect the probable intent of Congress. See Senate Report No. 2075, dated July 2, 1952 (United States Code Congressional and Administrative News, 82nd Congress, 2d Session, 1952, Volume 2, p. 2123).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 556 of this title.
+

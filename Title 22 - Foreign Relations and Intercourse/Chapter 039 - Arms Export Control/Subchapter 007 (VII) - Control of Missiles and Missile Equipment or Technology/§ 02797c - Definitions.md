@@ -48,5 +48,5 @@ Par. (8)(B)(ii). Pub. L. 102–138, §323(c), substituted “electronics, space 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2776, 2797b–2 of this title.
+This section is referred to in sections 2776, 2797b–2 of this title; title 50 section 2368.
 

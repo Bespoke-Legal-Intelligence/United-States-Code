@@ -28,7 +28,7 @@ Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Educ
 
 #### Federal Family Education Loan Insurance Fund
 
-Pub. L. 105–244, title IV, §434, Oct. 7, 1998, 112 Stat. 1711, provided that: “Any funds in the insurance fund, as established under section 431 of the Higher Education Act of 1965 (20 U.S.C. 1081), on the date of enactment of this Act \[Oct. 7, 1998\] shall be transferred to and deposited in the Treasury. All funds received bythe Secretary of Education under subsection (a) of such section after the date of enactment of this Act shall be deposited into the fund in accordance with such subsection.”
+Pub. L. 105–244, title IV, §434, Oct. 7, 1998, 112 Stat. 1711, provided that: “Any funds in the insurance fund, as established under section 431 of the Higher Education Act of 1965 (20 U.S.C. 1081), on the date of enactment of this Act \[Oct. 7, 1998\] shall be transferred to and deposited in the Treasury. All funds received by the Secretary of Education under subsection (a) of such section after the date of enactment of this Act shall be deposited into the fund in accordance with such subsection.”
 
 #### Transfer of Assets and Liabilities of the Vocational Student Loan Insurance Fund
 

@@ -90,7 +90,7 @@ Each program funded under this section shall contain an evaluation component, de
 
 &emsp;(1) the program is not of sufficient size to justify a full evaluation report; or
 
-&emsp;(2) the program is designed primarily to provide material resources and supplies, such aslaboratory equipment, that would not justify a full evaluation report.
+&emsp;(2) the program is designed primarily to provide material resources and supplies, such as laboratory equipment, that would not justify a full evaluation report.
 
 (Pub. L. 90–351, title I, §501, as added and amended Pub. L. 100–690, title V, §5104, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4301, 4329; Pub. L. 101–647, title VI, §601(b), Nov. 29, 1990, 104 Stat. 4823; Pub. L. 103–322, title X, §100003, title XIV, §140004, title XV, §150003, title XXI, §210302(a), Sept. 13, 1994, 108 Stat. 1996, 2032, 2035, 2065; Pub. L. 104–132, title VIII, §822(a), Apr. 24, 1996, 110 Stat. 1317; Pub. L. 106–177, title I, §103, Mar. 10, 2000, 114 Stat. 35; Pub. L. 106–310, div. B, title XXXVI, §3621(b), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 106–561, §2(a), Dec. 21, 2000, 114 Stat. 2787.)
 
@@ -290,7 +290,7 @@ Reservation.—The Director may reserve each fiscal year not more than 20 percen
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3754, 3756, 3760, 3766, 3782 of this title.
+This section is referred to in sections 3754, 3756, 3760, 3761, 3766, 3782 of this title.
 
 <i><sup>1</sup></i><i> So in original. Two pars. (27) have been enacted.</i>
 

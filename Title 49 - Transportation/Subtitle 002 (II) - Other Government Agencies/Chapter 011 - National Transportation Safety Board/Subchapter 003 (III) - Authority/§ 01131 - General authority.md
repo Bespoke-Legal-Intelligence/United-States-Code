@@ -40,7 +40,7 @@ Accidents Involving Public Vessels.—(1) The Board or the head of the departmen
 
 Accidents Not Involving Government Misfeasance or Nonfeasance.—(1) When asked by the Board, the Secretary of Transportation may—
 
-&emsp;(A) investigate an accident described under subsection (a) or (b) of this section in which misfeasance or nonfeasance by the Government has not been alleged; and
+&emsp;(A) investigate an accident described under subsection (a) or (b) of this section in whichmisfeasance or nonfeasance by the Government has not been alleged; and
 
 &emsp;(B) report the facts and circumstances of the accident to the Board.
 
@@ -52,7 +52,7 @@ Accidents Involving Public Aircraft.—The Board, in furtherance of its investig
 
 (e)
 
-Accident Reports.—The Board shall report on the facts and circumstances of each accidentinvestigated by it under subsection (a) or (b) of this section. The Board shall make each report available to the public at reasonable cost.
+Accident Reports.—The Board shall report on the facts and circumstances of each accident investigated by it under subsection (a) or (b) of this section. The Board shall make each report available to the public at reasonable cost.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 752; Pub. L. 103–411, §3(c), Oct. 25, 1994, 108 Stat. 4237; Pub. L. 106–424, §§6(a), 7, Nov. 1, 2000, 114 Stat. 1885, 1886.)
 
@@ -153,6 +153,10 @@ Subsec. (d), (e). Pub. L. 103–411, §3(c)(2), added subsec. (d) and redesignat
 #### Effective Date of 1994 Amendment
 
 Section 3(d) of Pub. L. 103–411 provided that: “The amendments made by subsections (a) and (c) \[amending this section and section 40102 of this title\] shall take effect on the 180th day following the date of the enactment of this Act \[Oct. 25, 1994\].”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Revision of 1977 Agreement
 

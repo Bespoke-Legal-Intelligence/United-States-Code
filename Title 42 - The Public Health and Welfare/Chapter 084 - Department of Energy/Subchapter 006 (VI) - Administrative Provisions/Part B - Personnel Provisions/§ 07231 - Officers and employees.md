@@ -30,7 +30,7 @@ In addition to the number of positions which may be placed at GS–16, GS–17, 
 
 #### (e) Determination of maximum aggregate number of positions
 
-For the purposes of determining the maximum aggregate number of positions which may be placed at GS–16, GS–17, or GS–18 under section 5108(a) of title 5, 63 percent of the positions established under subsections (b) and (c) of this section shall be deemed GS–16 positions, 25 percent of such positions shall be deemed GS–17 positions, and 12 percent of such positions shall be deemed GS–18.
+For the purposes of determining the maximum aggregate number of positions which may be placed at GS–16, GS–17, or GS–18 under section 5108(a) of title 5, 63 percent of the positions established under subsections (b) and (c) of thissection shall be deemed GS–16 positions, 25 percent of such positions shall be deemed GS–17 positions, and 12 percent of such positions shall be deemed GS–18.
 
 #### (f) Intelligence and intelligence-related positions exempt from competitive service
 
@@ -48,7 +48,7 @@ This chapter, referred to in subsecs. (c)(2) and (d), was in the original “thi
 
 #### Codification
 
-August 14, 1991, referred to in subsec. (f), was in the original “the date of enactment of this Act”, which wastranslated as meaning the date of enactment of Pub. L. 102–88, which enacted subsec. (f) of this section, to reflect the probable intent of Congress.
+August 14, 1991, referred to in subsec. (f), was in the original “the date of enactment of this Act”, which was translated as meaning the date of enactment of Pub. L. 102–88, which enacted subsec. (f) of this section, to reflect the probable intent of Congress.
 
 #### Amendments
 
@@ -64,7 +64,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Authority for Appointment of Certain Scientific, Engineering, and Technical Personnel
 
-Pub. L. 103–337, div. C, title XXXI, §3161, Oct. 5, 1994, 108 Stat. 3095, as amended by Pub. L. 105–85, div. C, title XXXI, §3139, Nov. 18, 1997, 111 Stat. 2040; Pub. L. 105–261, div. C, title XXXI, §§3152, 3155, Oct. 17, 1998, 112 Stat. 2253, 2257; Pub. L. 106–398, §1 \[div. C, title XXXI, §3191\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480, provided that:
+Pub. L. 103–337, div. C, title XXXI, §3161, Oct. 5, 1994, 108 Stat. 3095, as amended by Pub. L. 105–85, div. C, title XXXI, §3139, Nov. 18, 1997, 111 Stat. 2040; Pub. L. 105–261, div. C, title XXXI, §§3152, 3155, Oct. 17, 1998, 112 Stat. 2253, 2257; Pub. L. 106–398, §1 \[div. C, title XXXI, §3191\], Oct. 30, 2000, 114 Stat. 1654, 1654A–480; Pub. L. 107–314, div. C, title XXXI, §3174, Dec. 2, 2002, 116 Stat. 2745, provided that:
 
 “(a)
 
@@ -94,7 +94,7 @@ OPM Review.—(1) The Secretary shall enter into an agreement with the Director 
 
 “(c)
 
-Termination.—(1) The authority provided under subsection (a)(1) shall terminate on September 30, 2002.
+Termination.—(1) The authority provided under subsection (a)(1) shall terminate on September 30, 2004.
 
 “(2) An employee may not be separated from employment with the Department of Energy or receive a reduction in pay by reason of the termination of authority under paragraph (1).”
 

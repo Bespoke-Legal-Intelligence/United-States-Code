@@ -58,7 +58,7 @@ As used in this section:
 
 &emsp;&emsp;(B) a third party directly or indirectly controls both companies, businesses, or persons,
 
-&emsp;&emsp;(C) both companies, businesses, or persons directly or indirectly control a third party and there is reason to believe that the relationship causes the first company, business, or persons to act differently than a nonrelated party.
+&emsp;&emsp;(C) both companies, businesses, or persons directly or indirectly control a third party and there is reason to believe that the relationship causes the first company, business,or persons to act differently than a nonrelated party.
 
 > &emsp;For purposes of this paragraph, a party shall be considered to directly or indirectly control another party if the party is legally or operationally in a position to exercise restraint or direction over the other party.
 
@@ -90,7 +90,7 @@ The Commissioner shall prescribe procedures for distribution of the continued du
 
 #### (1) Establishments
 
-&emsp;Within 14 days after the effective date of this section, with respect to antidumping duty orders and findings and countervailing dutyorders notified under subsection (d)(1) of this section, and within 14 days after the date an antidumping duty order or finding or countervailing duty order issued after the effective date takes effect, the Commissioner shall establish in the Treasury of the United States a special account with respect to each such order or finding.
+&emsp;Within 14 days after the effective date of this section, with respect to antidumping duty orders and findings and countervailing duty orders notified under subsection (d)(1) of this section, and within 14 days after the date an antidumping duty order or finding or countervailing duty order issued after the effective date takes effect, the Commissioner shall establish in the Treasury of the United States a special account with respect to each such order or finding.
 
 #### (2) Deposits into accounts
 
@@ -125,6 +125,10 @@ For effective date of this section, referred to in subsecs. (d)(1), (e)(1), and 
 #### Effective Date
 
 Pub. L. 106–387, §1(a) \[title X, §1003(c)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–75, provided that: “The amendments made by this section \[enacting this section\] shall apply with respect to all antidumping and countervailing duty assessments made on or after October 1, 2000.”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Findings of Congress
 

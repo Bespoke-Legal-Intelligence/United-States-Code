@@ -84,7 +84,7 @@ Establishment.—The Administrator of the Federal Aviation Administration and th
 
 “(b)
 
-Goal.—The goal of the research program established by subsection (a) is to develop by the year 2000 technologies for subsonic jet aircraft engines and airframes which would permit a subsonic jet aircraft to operate at reduced noise levels.
+Goal.—The goal of the research program established by subsection (a) is to develop by the year 2000technologies for subsonic jet aircraft engines and airframes which would permit a subsonic jet aircraft to operate at reduced noise levels.
 
 “(c)
 

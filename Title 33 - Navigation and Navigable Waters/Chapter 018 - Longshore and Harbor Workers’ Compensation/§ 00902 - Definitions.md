@@ -38,7 +38,7 @@ When used in this chapter—
 
 &emsp;(9) The term “United States” when used in a geographical sense means the several States and Territories and the District of Columbia, including the territorial waters thereof.
 
-&emsp;(10) “Disability” means incapacity because of injury to earn the wages which the employee was receiving at the time of injury in the same or any other employment; but such term shall mean permanent impairment, determined (to the extent covered thereby) under the guides to the evaluation of permanent impairment promulgated and modified from time to time by the American Medical Association, in the case of an individual whoseclaim is described in section 910(d)(2) of this title.
+&emsp;(10) “Disability” means incapacity because of injury to earn the wages which the employee was receiving at the time of injury in the same or any other employment; but such term shall mean permanent impairment, determined (to the extent covered thereby) under the guides to the evaluation of permanent impairment promulgated and modified from time to time by the American Medical Association, in the case of an individual whose claim is described in section 910(d)(2) of this title.
 
 &emsp;(11) “Death” as a basis for a right to compensation means only death resulting from an injury.
 
@@ -64,7 +64,7 @@ When used in this chapter—
 
 &emsp;&emsp;(D) an additional type of educational or training institution as defined by the Secretary,
 
-> &emsp;but not after he reaches the age of twenty-three or has completed four years of education beyond the high school level, except that, where his twenty-third birthday occurs during a semester or other enrollment period, he shall continue to be considered a student until the end of such semester or other enrollment period. A child shall not be deemed to have ceased to be a student during any interim between school years if the interim does not exceed five months and if he shows to the satisfaction of the Secretary that he has a bona fide intention of continuing to pursue a full-time course of education or training during the semester or other enrollment period immediately following the interim or during periods of reasonable duration during which, in the judgment of the Secretary, he is prevented by factors beyond his control from pursuing his education. A child shall not be deemed to be a student under this chapter during a period of service in the Armed Forces of the United States.
+> &emsp;but not after he reaches the age of twenty-three or has completed four years of educationbeyond the high school level, except that, where his twenty-third birthday occurs during a semester or other enrollment period, he shall continue to be considered a student until the end of such semester or other enrollment period. A child shall not be deemed to have ceased to be a student during any interim between school years if the interim does not exceed five months and if he shows to the satisfaction of the Secretary that he has a bona fide intention of continuing to pursue a full-time course of education or training during the semester or other enrollment period immediately following the interim or during periods of reasonable duration during which, in the judgment of the Secretary, he is prevented by factors beyond his control from pursuing his education. A child shall not be deemed to be a student under this chapter during a period of service in the Armed Forces of the United States.
 
 &emsp;(19) The term “national average weekly wage” means the national average weekly earnings of production or nonsupervisory workers on private nonagricultural payrolls.
 
@@ -82,7 +82,7 @@ The phrase “a student as defined in paragraph (19) of this section”, referre
 
 #### Amendments
 
-1984—Par. (3). Pub. L. 98–426, §2(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘employee’ means any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, andany harborworker including a ship repairman, shipbuilder, and shipbreaker, but such term does not include a master or member of a crew of any vessel, or any person engaged by the master to load or unload or repair any small vessel under eighteen tons net.”
+1984—Par. (3). Pub. L. 98–426, §2(a), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘employee’ means any person engaged in maritime employment, including any longshoreman or other person engaged in longshoring operations, and any harborworker including a ship repairman, shipbuilder, and shipbreaker, but such term does not include a master or member of a crew of any vessel, or any person engaged by the master to load or unload or repair any small vessel under eighteen tons net.”
 
 Par. (6). Pub. L. 98–426, §27(a)(1), substituted “The term ‘Secretary’ means the Secretary of Labor” for “The term ‘commission’ means the United States Employees’ Compensation Commission”.
 
@@ -116,7 +116,7 @@ Par. (22). Pub. L. 92–576, §§3(a), 5(b), 15(c), 18(b), 20(c)(1), redesignate
 
 #### Effective Date of 1984 Amendment
 
-Amendment by sections 2(a) and 5(a)(2) of Pub. L. 98–426 applicable with respect to any injury after Sept. 28, 1984, amendment by section 2(b) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending as of such date, and amendment by sections 2(c) and 27(a)(1) of Pub. L. 98–426 effective Sept. 28, 1984, see section 28(a), (c), (e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
+Amendment by sections 2(a) and 5(a)(2) of Pub. L. 98–426 applicable with respect to any injury after Sept. 28, 1984, amendment by section 2(b) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending as of such date, and amendment by sections 2(c) and27(a)(1) of Pub. L. 98–426 effective Sept. 28, 1984, see section 28(a), (c), (e)(1) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
 #### Effective Date of 1972 Amendment
 

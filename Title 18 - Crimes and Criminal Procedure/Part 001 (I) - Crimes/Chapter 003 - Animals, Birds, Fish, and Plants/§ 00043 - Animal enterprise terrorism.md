@@ -4,31 +4,41 @@
 
 Offense.—Whoever—
 
-&emsp;(1) travels in interstate or foreign commerce, or uses or causes to be used the mail or any facility in interstate or foreign commerce, for the purpose of causing physical disruption to the functioning of an animal enterprise; and
+&emsp;(1) travels in interstate or foreign commerce, or uses or causes to be used the mail or any facility in interstate or foreign commerce for the purpose of causing physical disruption to the functioning of an animal enterprise; and
 
-&emsp;(2) intentionally causes physical disruption to the functioning of an animal enterprise by intentionally stealing, damaging, or causing the loss of, any property (including animals or records) used by the animal enterprise, and thereby causes economic damage exceeding $10,000 to that enterprise, or conspires to do so;
+&emsp;(2) intentionally damages or causes the loss of any property (including animals or records) used by the animal enterprise, or conspires to do so,
 
-> shall be fined under this title or imprisoned not more than one year, or both.
+> shall be punished as provided for in subsection (b).
 
 (b)
 
-Aggravated Offense.—
+Penalties.—
 
 &emsp;(1)
 
-Serious bodily injury.—Whoever in the course of a violation of subsection (a) causes serious bodily injury to another individual shall be fined under this title or imprisoned not more than 10 years, or both.
+Economic damage.—Any person who, in the course of a violation of subsection (a), causes economic damage not exceeding $10,000 to an animal enterprise shall be fined under this title or imprisoned not more than 6 months, or both.
 
 &emsp;(2)
 
-Death.—Whoever in the course of a violation of subsection (a) causes the death of an individual shall be fined under this title and imprisoned for life or for any term of years.
+Major economic damage.—Any person who, in the course of a violation of subsection\(a), causes economic damage exceeding $10,000 to an animal enterprise shall be fined under this title or imprisoned not more than 3 years, or both.
+
+&emsp;(3)
+
+Serious bodily injury.—Any person who, in the course of a violation of subsection (a), causes serious bodily injury to another individual shall be fined under this title or imprisoned not more than 20 years, or both.
+
+&emsp;(4)
+
+Death.—Any person who, in the course of a violation of subsection (a), causes the death of an individual shall be fined under this title and imprisoned for life or for any term of years.
 
 (c)
 
 Restitution.—An order of restitution under section 3663 or 3663A of this title with respect to a violation of this section may also include restitution—
 
-&emsp;(1) for the reasonable cost of repeating any experimentation that was interrupted or invalidated as a result of the offense; and
+&emsp;(1) for the reasonable cost of repeating any experimentation that was interrupted or invalidated as a result of the offense;
 
-&emsp;(2) the loss of food production or farm income reasonably attributable to the offense.
+&emsp;(2) the loss of food production or farm income reasonably attributable to the offense; and
+
+&emsp;(3) for any other economic damage resulting from the offense.
 
 (d)
 
@@ -52,13 +62,19 @@ Definitions.—As used in this section—
 
 Non-Preemption.—Nothing in this section preempts any State law.
 
-(Added Pub. L. 102–346, §2(a), Aug. 26, 1992, 106 Stat. 928; amended Pub. L. 104–294, title VI, §601(r)(3), Oct. 11, 1996, 110 Stat. 3502.)
+(Added Pub. L. 102–346, §2(a), Aug. 26, 1992, 106 Stat. 928; amended Pub. L. 104–294, title VI, §601(r)(3), Oct. 11, 1996, 110 Stat. 3502; Pub. L. 107–188, title III, §336, June 12, 2002, 116 Stat. 681.)
 
 #### Prior Provisions
 
 A prior section 43, acts June 25, 1948, ch. 645, 62 Stat. 687; Sept. 2, 1960, Pub. L. 86–702, §2, 74 Stat. 754; Dec. 5, 1969, Pub. L. 91–135, §7(a), 83 Stat. 279, related to transportation of wildlife taken in violation of State, national, or foreign law, the receipt of such wildlife, and the making of false records in relation thereto, prior to repeal by Pub. L. 97–79, §9(b)(2), Nov. 16, 1981, 95 Stat. 1079. See section 3372(a) of Title 16, Conservation.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–188, §336(a), amended heading and text of subsec. (a) generally, deleting par. (2) reference to intentionally stealing and to requirement that economic damage exceed $10,000, and in concluding provisons substituting reference to punishment under subsec. (b) for reference to fine or imprisonment of not more than one year.
+
+Subsec. (b). Pub. L. 107–188, §336(b), amended subsec. (b) generally, substituting “Penalties” for “Aggravated Offense” in heading and list of penalites for property damage, personal injury and death for reference to serious bodily injury and death in text.
+
+Subsec. (c)(3). Pub. L. 107–188, §336(c), added par. (3).
 
 1996—Subsec. (c). Pub. L. 104–294 inserted “or 3663A” after “section 3663” in introductory provisions.
 

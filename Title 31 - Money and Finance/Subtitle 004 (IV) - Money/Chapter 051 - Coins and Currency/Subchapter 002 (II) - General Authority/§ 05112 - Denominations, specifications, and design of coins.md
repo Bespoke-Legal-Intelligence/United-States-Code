@@ -22,7 +22,7 @@
 
 &emsp;(10) A five dollar gold coin that is 16.5 millimeters in diameter, weighs 3.393 grams, and contains one-tenth troy ounce of fine gold.
 
-(b) The half dollar, quarter dollar, and dime coins are clad coins with 3 layers of metal. The 2 identical outer layers are an alloy of 75 percent copper and 25 percent nickel. The inner layer is copper. The outer layers are metallurgically bonded to the inner layer and weigh atleast 30 percent of the weight of the coin. The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997. The 5-cent coin is an alloy of 75 percent copper and 25 percent nickel. In minting 5-cent coins, the Secretary shall use bars that vary not more than 2.5 percent from the percent of nickel required. Except as provided under subsection (c) of this section, the one-cent coin is an alloy of 95 percent copper and 5 percent zinc. In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required. The specifications for alloys are by weight.
+(b) The half dollar, quarter dollar, and dime coins are clad coins with 3 layers of metal. The 2 identical outer layers are an alloy of 75 percent copper and 25 percent nickel. The inner layer is copper. The outer layers are metallurgically bonded to the inner layer and weigh at least 30 percent of the weight of the coin. The dollar coin shall be golden in color, have a distinctive edge, have tactile and visual features that make the denomination of the coin readily discernible, be minted and fabricated in the United States, and have similar metallic, anti-counterfeiting properties as United States coinage in circulation on the date of enactment of the United States $1 Coin Act of 1997. The 5-cent coin is an alloy of 75 percent copper and 25 percent nickel. In minting 5-cent coins, the Secretary shall use bars that vary not more than 2.5 percent from the percent of nickel required. Except as provided under subsection (c) of this section, the one-cent coin is an alloy of 95 percent copper and 5 percent zinc. In minting gold coins, the Secretary shall use alloys that vary not more than 0.1 percent from the percent of gold required. The specifications for alloys are by weight.
 
 (c) The Secretary may prescribe the weight and the composition of copper and zinc in the alloy of the one-cent coin that the Secretary decides are appropriate when the Secretary decides that a different weight and alloy of copper and zinc are necessary to ensure an adequate supply of one-cent coins to meet the needs of the United States.
 
@@ -52,7 +52,7 @@ Silver Coins.—
 
 &emsp;(1)
 
-Sale price.—The Secretary shall sell the coins minted under subsection (e) to the public at a price equal to the market value of the bullion at the time of sale, plus the cost of minting, marketing, and distributing such coins (including labor, materials, dies, use of machinery, and promotional and overhead expenses).
+Sale price.—The Secretary shall sell the coins minted under subsection (e) to the publicat a price equal to the market value of the bullion at the time of sale, plus the cost of minting, marketing, and distributing such coins (including labor, materials, dies, use of machinery, and promotional and overhead expenses).
 
 &emsp;(2)
 
@@ -132,7 +132,7 @@ Flexibility with regard to placement of inscriptions.—Notwithstanding subsecti
 
 &emsp;(2)
 
-Single state designs.—The design on the reverse side of each quarter dollar issued during the 10-year period referred to in paragraph (1) shall be emblematic of 1 of the 50 States.
+Single state designs.—The design on the reverse side of each quarter dollar issuedduring the 10-year period referred to in paragraph (1) shall be emblematic of 1 of the 50 States.
 
 &emsp;(3)
 
@@ -232,7 +232,7 @@ Exception.—If the Secretary determines, based on independent, market-based res
 
 Designated recipient organization defined.—For purposes of this paragraph, the term “designated recipient organization” means any organization designated, under any provision of law, as the recipient of any surcharge imposed on the sale of any numismatic item.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524, 529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 981; Pub. L. 97–452, §1(20), Jan. 12, 1983, 96 Stat. 2477; Pub. L. 99–61, title II, §202, July 9, 1985, 99 Stat. 115; Pub. L. 99–185, §2(a), (b), Dec. 17, 1985, 99 Stat. 1177; Pub. L. 100–274, §§4(a), 6, Mar. 31, 1988, 102 Stat. 50; Pub. L. 102–390, title II, §§226(a), 227, 228, Oct. 6, 1992, 106 Stat. 1630; Pub. L. 103–272, §4(f)(1)(R), July 5, 1994, 108 Stat. 1362; Pub. L. 104–208, div. A, title I, §101(f) \[title V, §§523, 524,529(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–347 to 3009–349; Pub. L. 105–124, §§3, 4(b)–(d), Dec. 1, 1997, 111 Stat. 2534, 2536; Pub. L. 105–176, May 29, 1998, 112 Stat. 104; Pub. L. 106–445, §2(b), Nov. 6, 2000, 114 Stat. 1931.)
 
 Historical and Revision Notes<br>1982
 
@@ -424,6 +424,22 @@ Section 1 of Pub. L. 99–185 provided that: “This Act \[amending this section
 
 Section 201 of title II of Pub. L. 99–61 provided that: “This title \[amending this section and sections 5116 and 5132 of this title and enacting provisions set out as a note under this section\] may be cited as the ‘Liberty Coin Act’.”
 
+#### Study and Report of Impact on United States Silver Market of the American Eagle Silver Bullion Program
+
+Pub. L. 107–201, §3(b), July 23, 2002, 116 Stat. 737, provided that:
+
+“(1)
+
+Study.—The Secretary of the Treasury shall conduct a study of the impact on the United States silver market of the American Eagle Silver Bullion Program, established under section 5112(e) of title 31, United States Code.
+
+“(2)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[July 23, 2002\], the Secretary of the Treasury shall submit a report of the study conducted under paragraph (1) to the chairman and ranking minority member of—
+
+&emsp;“(A) the Committee on Banking, Housing, and Urban Affairs of the Senate; and
+
+&emsp;“(B) the Committee on Financial Services of the House of Representatives.”
+
 #### Findings
 
 Pub. L. 105–124, §2, Dec. 1, 1997, 111 Stat. 2534, provided that: “The Congress finds that—
@@ -530,7 +546,7 @@ Quality of coins.—The Secretary may mint and issue such number of quarter doll
 
 &emsp;&emsp;“(B)
 
-Silver coins.—Notwithstanding the provisions of subsection 5112(b) of title 31, United States Code, the Secretary may mint and issue such number of quarter dollars of each design selected under paragraph (4) of this subsection as the Secretary determines to be appropriate with a content of 90 percent silver and 10 percent copper.
+Silver coins.—Notwithstanding the provisions of subsection 5112(b) of title 31, United States Code, the Secretary may mint and issue such number of quarter dollars of each design selected underparagraph (4) of this subsection as the Secretary determines to be appropriate with a content of 90 percent silver and 10 percent copper.
 
 &emsp;&emsp;“(C)
 
@@ -590,7 +606,7 @@ Due dates.—Quarterly reports under this subsection shall be due at the end of 
 
 “(b)
 
-Final Report.—Each person who receives, after the date of the enactment of this Act, any surcharge derived from the sale of commemorative coins underany Act of Congress shall submit a final report on the expenditures made by such person from the proceeds of all surcharges received by such person, including information described in subsection (a)(2), before the end of the 1-year period beginning on the last day on which sales of such coins may be made.”
+Final Report.—Each person who receives, after the date of the enactment of this Act, any surcharge derived from the sale of commemorative coins under any Act of Congress shall submit a final report on the expenditures made by such person from the proceeds of all surcharges received by such person, including information described in subsection (a)(2), before the end of the 1-year period beginning on the last day on which sales of such coins may be made.”
 
 #### Amount Equal to Profit From Sale of Gold Coins Deposited in General Fund of Treasury To Reduce National Debt
 

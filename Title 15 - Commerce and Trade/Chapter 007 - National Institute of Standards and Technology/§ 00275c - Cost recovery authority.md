@@ -1,6 +1,6 @@
 ### §275c. Cost recovery authority
 
-Fees for calibration services, standard reference materials, and other comparable servicesprovided by the National Institute of Standards and Technology shall be at least sufficient to meet the requirements set forth in the amendments made by subsection (a),<sup>1</sup> and any funds recovered in excess of such requirements shall be returned to the Treasury of the United States.
+Fees for calibration services, standard reference materials, and other comparable services provided by the National Institute of Standards and Technology shall be at least sufficient to meet the requirements set forth in the amendments made by subsection (a),<sup>1</sup> and any funds recovered in excess of such requirements shall be returned to the Treasury of the United States.
 
 (Pub. L. 99–73, §5(b), July 29, 1985, 99 Stat. 172; Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433.)
 

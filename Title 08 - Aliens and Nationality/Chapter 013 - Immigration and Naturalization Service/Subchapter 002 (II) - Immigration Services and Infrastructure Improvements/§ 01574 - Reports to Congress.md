@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(A) an assessment of the data systems used in adjudicating and reporting on the status of immigration benefit applications, including—
 
-&emsp;&emsp;&emsp;(i) a description of the adequacy of existing computer hardware, computer software, and other mechanisms to complywith the adjudications and reporting requirements of this subchapter; and
+&emsp;&emsp;&emsp;(i) a description of the adequacy of existing computer hardware, computer software, and other mechanisms to comply with the adjudications and reporting requirements of this subchapter; and
 
 &emsp;&emsp;&emsp;(ii) a plan for implementing improvements to existing data systems to accomplish the purpose of this subchapter, as described in section 1571(a) of this title;
 
@@ -93,6 +93,10 @@
 #### References in Text
 
 The fiscal year in which this Act is enacted, referred to in subsec. (b)(3), is the fiscal year in which Pub. L. 106–313, which was approved Oct. 17, 2000, was enacted.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

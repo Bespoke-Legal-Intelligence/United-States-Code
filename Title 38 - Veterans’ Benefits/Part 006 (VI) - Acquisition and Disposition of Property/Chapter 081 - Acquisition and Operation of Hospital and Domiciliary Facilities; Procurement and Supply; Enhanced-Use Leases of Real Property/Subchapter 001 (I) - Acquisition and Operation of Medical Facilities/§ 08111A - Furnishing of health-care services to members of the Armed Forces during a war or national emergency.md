@@ -1,8 +1,18 @@
 ### §8111A. Furnishing of health-care services to members of the Armed Forces during a war or national emergency
 
-(a)(1) During and immediately following a period of war, or a period of national emergency declared by the President or the Congress that involves the use of the Armed Forces in armed conflict, the Secretary may furnish hospital care, nursing home care, and medical services to members of the Armed Forces on active duty. The Secretary may give a higher priority to the furnishing of care and services under this section than to the furnishing of care and services to any other group of persons eligible for care and services in medical facilities of the Department with the exception of veterans with service-connected disabilities.
+(a)(1) During and immediately following a period of war, or a period of national emergency declared by the President or the Congress that involves the use of the Armed Forces in armed conflict, the Secretary may furnish hospital care, nursing home care, and medical services to members of the Armed Forces on active duty.
 
-(2) For the purposes of this section, the terms “hospital care”, “nursing home care”, and “medical services” have the meanings given such terms by sections 1701(5), 101(28), and 1701(6) of this title, respectively, and the term “medical services” includes services under sections 1782 and 1783 of this title.
+(2)(A) During and immediately following a disaster or emergency referred to in subparagraph (B), the Secretary may furnish hospital care and medical services to members of the Armed Forces on active duty responding to or involved in that disaster or emergency.
+
+(B) A disaster or emergency referred to in this subparagraph is any disaster or emergency as follows:
+
+&emsp;(i) A major disaster or emergency declared by the President under the Robert B. Stafford Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.).
+
+&emsp;(ii) A disaster or emergency in which the National Disaster Medical System established pursuant to section 2811(b) of the Public Health Service Act (42 U.S.C. 300hh–11(b)) is activated by the Secretary of Health and Human Services under paragraph (3)(A) of that section or as otherwise authorized by law.
+
+(3) The Secretary may give a higher priority to the furnishing of care and services under this section than to the furnishing of care and services to any other group of persons eligible for care and services in medical facilities of the Department with the exception of veterans with service-connected disabilities.
+
+(4) For the purposes of this section, the terms “hospital care”, “nursing home care”, and “medical services” have the meanings given such terms by sections 1701(5), 101(28), and 1701(6) of this title, respectively, and the term “medical services” includes services under sections 1782 and 1783 of this title.
 
 (b)(1) During a period in which the Secretary is authorized to furnish care and services to members of the Armed Forces under subsection (a) of this section, the Secretary, to the extent authorized by the President and subject to the availability of appropriations or reimbursements under subsection (c) of this section, may enter into contracts with private facilities for the provision during such period by such facilities of hospital care and medical services described in paragraph (2) of this subsection.
 
@@ -28,11 +38,17 @@
 
 (e) The Secretary shall prescribe regulations to govern any exercise of the authority of the Secretary under subsections (a) and (b) of this section and of the Under Secretary for Health under subsection (b)(2)(A) of this section.
 
-(Added Pub. L. 97–174, §4(a), May 4, 1982, 96 Stat. 74, §5011A; renumbered §8111A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(e)(5), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 106–419, title IV, §403(b), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–135, title II, §208(e)(7), Jan. 23, 2002, 115 Stat. 2464.)
+(Added Pub. L. 97–174, §4(a), May 4, 1982, 96 Stat. 74, §5011A; renumbered §8111A, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; amended Pub. L. 102–54, §14(f)(4), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984; Pub. L. 104–262, title I, §101(e)(5), Oct. 9, 1996, 110 Stat. 3181; Pub. L. 106–419, title IV, §403(b), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–135, title II, §208(e)(7), Jan. 23, 2002, 115 Stat. 2464; Pub. L. 107–287, §4(b), Nov. 7, 2002, 116 Stat. 2029.)
+
+#### References in Text
+
+The Robert B. Stafford Disaster Relief and Emergency Assistance Act, referred to in subsec. (a)(2)(B)(i), probably means the Robert T. Stafford Disaster Relief and Emergency Assistance Act, Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
 #### Amendments
 
-2002—Subsec. (a)(2). Pub. L. 107–135 inserted “, and the term ‘medical services’ includes services under sections 1782 and 1783 of this title” before period at end.
+2002—Subsec. (a). Pub. L. 107–287 redesignated second sentence of par. (1) as par. (3), added par. (2), and redesignated former par. (2) as (4).
+
+Subsec. (a)(2). Pub. L. 107–135 inserted “, and the term ‘medical services’ includes services under sections 1782 and 1783 of this title” before period at end.
 
 2000—Subsec. (f). Pub. L. 106–419 struck out subsec. (f) which read as follows: “Within thirty days after a declaration of a period of war or national emergency described in subsection (a) of this section (or as soon after the end of such thirty-day period as is reasonably practicable), the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives a report on the Secretary's allocation of facilities and personnel in order to provide priority hospital care, nursing home care, and medical services under this section to members of the Armed Forces. Thereafter, with respect to any fiscal year in which the authority in subsection (b) of this section to enter into contracts with private facilities has been used, the Secretary shall report within ninety days after the end of such fiscal year to those committees regarding the extent of, and the circumstances under which, such authority was used.”
 
@@ -68,11 +84,15 @@ Subsec. (d). Pub. L. 102–54, §14(f)(4)(B), amended section as in effect immed
 
 Subsecs. (e), (f). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” for “Administrator” and “Secretary's” for “Administrator's” wherever appearing.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the National Disaster Medical System ofthe Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(5), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Congressional Findings
 
 Section 2(b) of Pub. L. 97–174 provided that: “The Congress makes the following further findings:
 
-&emsp;“(1) During and immediately after a period of war or national emergency involving the use of theArmed Forces of the United States in armed conflict, the Department of Defense might not have adequate health-care resources to care for military personnel wounded in combat and other active-duty military personnel.
+&emsp;“(1) During and immediately after a period of war or national emergency involving the use of the Armed Forces of the United States in armed conflict, the Department of Defense might not have adequate health-care resources to care for military personnel wounded in combat and other active-duty military personnel.
 
 &emsp;“(2) The Veterans’ Administration has an extensive, comprehensive health-care system that could be used to assist the Department of Defense in caring for such personnel in such a situation.”
 

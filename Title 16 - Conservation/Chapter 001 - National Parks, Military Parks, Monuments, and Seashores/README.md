@@ -30,6 +30,7 @@
 | [2\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000002%20-%20National%20parks%2C%20reservations%2C%20and%20monuments%3B%20supervision.md) | National parks, reservations, and monuments; supervision. |
 | [3\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000003%20-%20Rules%20and%20regulations%20of%20national%20parks%2C%20reservations%2C%20and%20monuments%3B%20timber%3B%20leases.md) | Rules and regulations of national parks, reservations, and monuments; timber; leases. |
 | [3a.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000003a%20-%20Recovery%20of%20costs%20associated%20with%20special%20use%20permits.md) | Recovery of costs associated with special use permits. |
+| [3b.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000003b%20-%20Maintenance%20and%20repair%20of%20Government%20improvements%20under%20concession%20contracts.md) | Maintenance and repair of Government improvements under concession contracts. |
 | [4\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000004%20-%20Rights-of-way%20through%20public%20lands.md) | Rights-of-way through public lands. |
 | [5\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000005%20-%20Rights-of-way%20through%20parks%20or%20reservations%20for%20power%20and%20communications%20facilities.md) | Rights-of-way through parks or reservations for power and communications facilities. |
 | [6\.](Subchapter%20001%20%28I%29%20-%20National%20Park%20Service/%C2%A7%2000006%20-%20Donations%20of%20lands%20within%20national%20parks%20and%20monuments%20and%20moneys.md) | Donations of lands within national parks and monuments and moneys. |
@@ -801,21 +802,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XXXV—WOLF TRAP FARM PARK
+#### SUBCHAPTER XXXV—WOLF TRAP NATIONAL PARK FOR THE PERFORMING ARTS
 
 |  |  |
 | :--- | ---: |
-| [284\.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20Farm%20Park/%C2%A7%2000284%20-%20Establishment%3B%20statement%20of%20purposes%3B%20description%3B%20acquisition%20of%20property%3B%20acreage%20limitation.md) | Establishment; statement of purposes; description; acquisition of property; acreage limitation. |
-| [284a.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20Farm%20Park/%C2%A7%2000284a%20-%20Administration.md) | Administration. |
-| [284b.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20Farm%20Park/%C2%A7%2000284b%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| [284c.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20Farm%20Park/%C2%A7%2000284c%20-%20Financial%20assistance%20for%20reconstruction%20of%20Center.md) | Financial assistance for reconstruction of Center. |
-| [284d.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20Farm%20Park/%C2%A7%2000284d%20-%20Cooperative%20agreement%20with%20Foundation%20for%20presentation%20of%20programs.md) | Cooperative agreement with Foundation for presentation of programs. |
-| [284e.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20Farm%20Park/%C2%A7%2000284e%20-%20Vested%20property%20of%20United%20States%3B%20status%20of%20Foundation.md) | Vested property of United States; status of Foundation. |
-| [284f.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20Farm%20Park/%C2%A7%2000284f%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93333%2C%20div.%20I%2C%20title%20VIII%2C%20%C2%A7814%28d%29%281%29%28D%29%2C%20Nov.%2012%2C%201996%2C%20110%20Stat.%204196.md) | Repealed. |
-| [284g.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20Farm%20Park/%C2%A7%2000284g%20-%20Cooperation%20of%20government%20agencies.md) | Cooperation of government agencies. |
-| [284h.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20Farm%20Park/%C2%A7%2000284h%20-%20General%20management%20plan%3B%20preparation%20and%20revision%3B%20submittal%20to%20Congressional%20committees.md) | General management plan; preparation and revision; submittal to Congressional committees. |
-| [284i.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20Farm%20Park/%C2%A7%2000284i%20-%20Authorization%20of%20additional%20appropriations.md) | Authorization of additional appropriations. |
-| [284j.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20Farm%20Park/%C2%A7%2000284j%20-%20Definitions.md) | Definitions. |
+| [284\.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20National%20Park%20for%20the%20Performing%20Arts/%C2%A7%2000284%20-%20Establishment%3B%20statement%20of%20purposes%3B%20description%3B%20acquisition%20of%20property%3B%20acreage%20limitation.md) | Establishment; statement of purposes; description; acquisition of property; acreage limitation. |
+| [284a.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20National%20Park%20for%20the%20Performing%20Arts/%C2%A7%2000284a%20-%20Administration.md) | Administration. |
+| [284b.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20National%20Park%20for%20the%20Performing%20Arts/%C2%A7%2000284b%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [284c.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20National%20Park%20for%20the%20Performing%20Arts/%C2%A7%2000284c%20-%20Financial%20assistance%20for%20reconstruction%20of%20Center.md) | Financial assistance for reconstruction of Center. |
+| [284d.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20National%20Park%20for%20the%20Performing%20Arts/%C2%A7%2000284d%20-%20Cooperative%20agreement%20with%20Foundation%20for%20presentation%20of%20programs.md) | Cooperative agreement with Foundation for presentation of programs. |
+| [284e.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20National%20Park%20for%20the%20Performing%20Arts/%C2%A7%2000284e%20-%20Vested%20property%20of%20United%20States%3B%20status%20of%20Foundation.md) | Vested property of United States; status of Foundation. |
+| [284f.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20National%20Park%20for%20the%20Performing%20Arts/%C2%A7%2000284f%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93333%2C%20div.%20I%2C%20title%20VIII%2C%20%C2%A7814%28d%29%281%29%28D%29%2C%20Nov.%2012%2C%201996%2C%20110%20Stat.%204196.md) | Repealed. |
+| [284g.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20National%20Park%20for%20the%20Performing%20Arts/%C2%A7%2000284g%20-%20Cooperation%20of%20government%20agencies.md) | Cooperation of government agencies. |
+| [284h.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20National%20Park%20for%20the%20Performing%20Arts/%C2%A7%2000284h%20-%20General%20management%20plan%3B%20preparation%20and%20revision%3B%20submittal%20to%20Congressional%20committees.md) | General management plan; preparation and revision; submittal to Congressional committees. |
+| [284i.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20National%20Park%20for%20the%20Performing%20Arts/%C2%A7%2000284i%20-%20Authorization%20of%20additional%20appropriations.md) | Authorization of additional appropriations. |
+| [284j.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20National%20Park%20for%20the%20Performing%20Arts/%C2%A7%2000284j%20-%20Definitions.md) | Definitions. |
+| [284k.](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20National%20Park%20for%20the%20Performing%20Arts/%C2%A7%2000284k%20-%20References.md) | References. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1806,6 +1808,26 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER LIX–GG—CEDAR CREEK AND BELLE GROVE NATIONAL HISTORICAL PARK
+
+|  |  |
+| :--- | ---: |
+| [410iii.](Subchapter%20059%E2%80%93GG%20%28LIX%E2%80%93GG%29%20-%20Cedar%20Creek%20and%20Belle%20Grove%20National%20Historical%20Park/%C2%A7%2000410iii%20-%20Purpose.md) | Purpose. |
+| 410iii–1. | Findings. |
+| 410iii–2. | Definitions. |
+| 410iii–3. | Establishment of Cedar Creek and Belle Grove National Historical Park. |
+| 410iii–4. | Acquisition of property. |
+| 410iii–5. | Administration. |
+| 410iii–6. | Management of Park. |
+| 410iii–7. | Cedar Creek and Belle Grove National Historical Park Advisory Commission. |
+| 410iii–8. | Conservation of Cedar Creek and Belle Grove National Historical Park. |
+| 410iii–9. | Endowment. |
+| 410iii–10. | Cooperative agreements. |
+| 410iii–11. | Roles of key partner organizations. |
+| 410iii–12. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER LX—NATIONAL MILITARY PARKS
 
 |  |  |
@@ -1966,6 +1988,10 @@
 | 430h–7. | Exclusion of lands from park. |
 | 430h–8. | Park interpretation. |
 | 430h–9. | Authorization of appropriations. |
+| 430h–10. | Boundary modification. |
+| 430h–11. | Acquisition of property. |
+| 430h–12. | Administration. |
+| 430h–13. | Authorization of appropriations. |
 | [430i.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430i%20-%20Guilford%20Courthouse%20National%20Military%20Park.md) | Guilford Courthouse National Military Park. |
 | [430j.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430j%20-%20Monocacy%20National%20Battlefield%3B%20establishment.md) | Monocacy National Battlefield; establishment. |
 | [430k.](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/%C2%A7%2000430k%20-%20Condemnation%20proceedings%3B%20purchase%20without%20condemnation%3B%20acceptance%20of%20donations%20of%20land.md) | Condemnation proceedings; purchase without condemnation; acceptance of donations of land. |
@@ -2154,6 +2180,7 @@
 | 450<i>ll.</i> | Booker T. Washington National Monument; acquisition of site. |
 | 450<i>ll</i>–1. | Establishment and supervision. |
 | 450<i>ll</i>–2. | Maintenance of museum; provision for parks, construction of roads and use of markers. |
+| 450<i>ll</i>–3. | Additional lands. |
 | [450mm.](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/%C2%A7%2000450mm%20-%20Fort%20Clatsop%20National%20Memorial%3B%20establishment.md) | Fort Clatsop National Memorial; establishment. |
 | 450mm–1. | Designation of land and improvements; size. |
 | 450mm–2. | Acquisition of lands. |
@@ -2615,6 +2642,7 @@
 | 460s–12. | Certificate of prohibition of authority for acquisition by condemnation. |
 | 460s–13. | Authorization of appropriations. |
 | 460s–14. | Pictured Rocks National Lakeshore boundary adjustment. |
+| 460s–15. | Pictured Rocks National Lakeshore boundary revision. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -3513,6 +3541,19 @@ I74subpart 1—designation and purposes
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER CXXVIII—SLOAN CANYON NATIONAL CONSERVATION AREA
+
+|  |  |
+| :--- | ---: |
+| [460qqq.](Subchapter%20128%20%28CXXVIII%29%20-%20Sloan%20Canyon%20National%20Conservation%20Area/%C2%A7%2000460qqq%20-%20Purpose.md) | Purpose. |
+| 460qqq–1. | Definitions. |
+| 460qqq–2. | Establishment. |
+| 460qqq–3. | Management. |
+| 460qqq–4. | Sale of Federal parcel. |
+| 460qqq–5. | Right-of-way. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -3554,7 +3595,7 @@ I74subpart 1—designation and purposes
 - [Subchapter 032 (XXXII) - Nez Perce National Historical Park](Subchapter%20032%20%28XXXII%29%20-%20Nez%20Perce%20National%20Historical%20Park/README.md)
 - [Subchapter 033 (XXXIII) - San Juan Island National Historical Park](Subchapter%20033%20%28XXXIII%29%20-%20San%20Juan%20Island%20National%20Historical%20Park/README.md)
 - [Subchapter 034 (XXXIV) - Guadalupe Mountains National Park](Subchapter%20034%20%28XXXIV%29%20-%20Guadalupe%20Mountains%20National%20Park/README.md)
-- [Subchapter 035 (XXXV) - Wolf Trap Farm Park](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20Farm%20Park/README.md)
+- [Subchapter 035 (XXXV) - Wolf Trap National Park for the Performing Arts](Subchapter%20035%20%28XXXV%29%20-%20Wolf%20Trap%20National%20Park%20for%20the%20Performing%20Arts/README.md)
 - [Subchapter 036 (XXXVI) - George Rogers Clark National Historical Park](Subchapter%20036%20%28XXXVI%29%20-%20George%20Rogers%20Clark%20National%20Historical%20Park/README.md)
 - [Subchapter 037 (XXXVII) - Acadia National Park](Subchapter%20037%20%28XXXVII%29%20-%20Acadia%20National%20Park/README.md)
 - [Subchapter 038 (XXXVIII) - Zion National Park](Subchapter%20038%20%28XXXVIII%29%20-%20Zion%20National%20Park/README.md)
@@ -3613,6 +3654,7 @@ I74subpart 1—designation and purposes
 - [Subchapter 059&#8211;DD (LIX&#8211;DD) - Black Canyon of the Gunnison National Park and Gunnison Gorge National Conservation Area](Subchapter%20059%E2%80%93DD%20%28LIX%E2%80%93DD%29%20-%20Black%20Canyon%20of%20the%20Gunnison%20National%20Park%20and%20Gunnison%20Gorge%20National%20Conservation%20Area/README.md)
 - [Subchapter 059&#8211;EE (LIX&#8211;EE) - Rosie the Riveter-World War II Home Front National Historical Park](Subchapter%20059%E2%80%93EE%20%28LIX%E2%80%93EE%29%20-%20Rosie%20the%20Riveter-World%20War%20II%20Home%20Front%20National%20Historical%20Park/README.md)
 - [Subchapter 059&#8211;FF (LIX&#8211;FF) - Great Sand Dunes National Park and Preserve](Subchapter%20059%E2%80%93FF%20%28LIX%E2%80%93FF%29%20-%20Great%20Sand%20Dunes%20National%20Park%20and%20Preserve/README.md)
+- [Subchapter 059&#8211;GG (LIX&#8211;GG) - Cedar Creek and Belle Grove National Historical Park](Subchapter%20059%E2%80%93GG%20%28LIX%E2%80%93GG%29%20-%20Cedar%20Creek%20and%20Belle%20Grove%20National%20Historical%20Park/README.md)
 - [Subchapter 060 (LX) - National Military Parks](Subchapter%20060%20%28LX%29%20-%20National%20Military%20Parks/README.md)
 - [Subchapter 061 (LXI) - National and International Monuments and Memorials](Subchapter%20061%20%28LXI%29%20-%20National%20and%20International%20Monuments%20and%20Memorials/README.md)
 - [Subchapter 062 (LXII) - Miscellaneous](Subchapter%20062%20%28LXII%29%20-%20Miscellaneous/README.md)
@@ -3682,3 +3724,4 @@ I74subpart 1—designation and purposes
 - [Subchapter 125 (CXXV) - Steens Mountain Cooperative Management and Protection Area](Subchapter%20125%20%28CXXV%29%20-%20Steens%20Mountain%20Cooperative%20Management%20and%20Protection%20Area/README.md)
 - [Subchapter 126 (CXXVI) - Las Cienegas National Conservation Area](Subchapter%20126%20%28CXXVI%29%20-%20Las%20Cienegas%20National%20Conservation%20Area/README.md)
 - [Subchapter 127 (CXXVII) - Black Rock Desert-High Rock Canyon Emigrant Trails National Conservation Area](Subchapter%20127%20%28CXXVII%29%20-%20Black%20Rock%20Desert-High%20Rock%20Canyon%20Emigrant%20Trails%20National%20Conservation%20Area/README.md)
+- [Subchapter 128 (CXXVIII) - Sloan Canyon National Conservation Area](Subchapter%20128%20%28CXXVIII%29%20-%20Sloan%20Canyon%20National%20Conservation%20Area/README.md)

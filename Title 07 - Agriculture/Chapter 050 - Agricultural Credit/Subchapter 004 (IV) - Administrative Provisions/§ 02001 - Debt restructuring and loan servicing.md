@@ -86,7 +86,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 #### (5) Restructuring of loans
 
-&emsp;If the value of the restructured loan is greater than or equal to the recovery value, the Secretary shall, within 45 days after notifying the borrower of such calculations, offer to restructure the loan obligations of the borrower under this chapter through primary loan service programs that would enable the borrower to meet the obligations (as modified) under the loan and to continue the farming operations of the borrower. If the borrower acceptssuch offer, within 45 days after receipt of notice of acceptance, the Secretary shall restructure the loan accordingly.
+&emsp;If the value of the restructured loan is greater than or equal to the recovery value, the Secretary shall, within 45 days after notifying the borrower of such calculations, offer to restructure the loan obligations of the borrower under this chapter through primary loan service programs that would enable the borrower to meet the obligations (as modified) under the loan and to continue the farming operations of the borrower. If the borrower accepts such offer, within 45 days after receipt of notice of acceptance, the Secretary shall restructure the loan accordingly.
 
 #### (6) Termination of loan obligations
 
@@ -118,7 +118,7 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 #### (B) Failure of creditors to agree
 
-&emsp;&emsp;Failure of creditors to agree to participate in the restructuring plan or mediation program shall not preclude the use of principal and interest write-down by the Secretary if the Secretary determines that this restructuring alternative results in the least cost to the Secretary.
+&emsp;&emsp;Failure of creditors to agree to participate in the restructuring plan or mediation program shall not preclude the use of principaland interest write-down by the Secretary if the Secretary determines that this restructuring alternative results in the least cost to the Secretary.
 
 #### (2) Participation of creditors
 
@@ -176,6 +176,26 @@ To be eligible to obtain assistance under subsection (a) of this section—
 
 &emsp;&emsp;&emsp;The interest rate applicable to an amortization or loan made by the Secretary before October 28, 2000, to finance a recapture payment owed to the Secretary under this subsection may not exceed the rate applicable to a loan to reacquire homestead property less 100 basis points.
 
+#### (D) Reamortization
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The Secretary may modify the amortization of a recapture payment referred to in subparagraph (A) of this paragraph on which a payment has become delinquent by using loan service tools under section 1991(b)(3) of this title if—
+
+&emsp;&emsp;&emsp;&emsp;(I) the default is due to circumstances beyond the control of the borrower; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the borrower acted in good faith (as determined by the Secretary) in attempting to repay the recapture amount.
+
+#### (ii) Limitations
+
+#### (I) Term of reamortization
+
+&emsp;&emsp;&emsp;&emsp;The term of a reamortization under this subparagraph may not exceed 25 years from the date of the original amortization agreement.
+
+#### (II) No reduction or principal or unpaid interest due
+
+&emsp;&emsp;&emsp;&emsp;A reamortization of a recapture payment under this subparagraph may not provide for reducing the outstanding principal or unpaid interest due on the recapture payment.
+
 #### (f) Determination to restructure
 
 If the appeal process results in a determination that a loan is eligible for restructuring, the Secretary shall restructure the loan in the manner consistent with this section, taking into consideration the restructuring recommendations, if any, of the appeals officer.
@@ -196,7 +216,7 @@ Once an appeal has been filed under section 1983b <sup>1</sup> of this title, a
 
 #### (1) In general
 
-&emsp;A notice of ineligibility for restructuring shall be sent to the borrower by registered or certified mail within 15 days after such determination.
+&emsp;A notice of ineligibility for restructuring shall be sent to the borrower by registered orcertified mail within 15 days after such determination.
 
 #### (2) Contents
 
@@ -248,7 +268,7 @@ The Secretary may not use the authority provided by this section to reduce or te
 
 The Secretary may provide not more than $300,000 in principal and interest forgiveness under this section per borrower.
 
-(Pub. L. 87–128, title III, §353, as added Pub. L. 100–233, title VI, §615(a), Jan. 6, 1988, 101 Stat. 1678; amended Pub. L. 101–624, title XVIII, §1816(a)–(d), (f)–(h), Nov. 28, 1990, 104 Stat. 3826–3828; Pub. L. 102–237, title V, §501(h), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VI, §§645, 661(j), Apr. 4, 1996, 110 Stat. 1103, 1107; Pub. L. 105–277, div. A, §101(a) \[title VIII, §§807, 808\], Oct. 21, 1998, 112 Stat. 2681, 2681–40; Pub. L. 106–31, title III, §3019(b), May 21, 1999, 113 Stat. 99; Pub. L. 106–387, §1(a) \[title VIII, §818(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–58.)
+(Pub. L. 87–128, title III, §353, as added Pub. L. 100–233, title VI, §615(a), Jan. 6, 1988, 101 Stat. 1678; amended Pub. L. 101–624, title XVIII, §1816(a)–(d), (f)–(h), Nov. 28, 1990, 104 Stat. 3826–3828; Pub. L. 102–237, title V, §501(h), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 104–127, title VI, §§645, 661(j), Apr. 4, 1996, 110 Stat. 1103, 1107; Pub. L. 105–277, div. A, §101(a) \[title VIII, §§807, 808\], Oct. 21, 1998, 112 Stat. 2681, 2681–40; Pub. L. 106–31, title III, §3019(b), May 21, 1999, 113 Stat. 99; Pub. L. 106–387, §1(a) \[title VIII, §818(a)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–58; Pub. L. 107–171, title V, §5314, May 13, 2002, 116 Stat. 347.)
 
 #### References in Text
 
@@ -257,6 +277,8 @@ For definition of “this chapter”, referred to in subsecs. (a), (c)(5), and (
 Section 1983b of this title, referred to in subsec. (h), was repealed by Pub. L. 103–354, title II, §281(c), Oct. 13, 1994, 108 Stat. 3233.
 
 #### Amendments
+
+2002—Subsec. (e)(7)(D). Pub. L. 107–171 added subpar. (D).
 
 2000—Subsec. (e)(7). Pub. L. 106–387 added par. (7).
 
@@ -278,7 +300,7 @@ Available income.—If an amount up to 105 percent of the debt payments of the b
 
 Subsec. (c)(6). Pub. L. 104–127, §645(1)(B), added par. (6) and struck out former par. (6), which specified required conditions for termination of loan obligations, limited applicability of good faith requirement, authorized recapture by requiring borrower to enter into agreement before terminating loan obligations, and provided for limitation on recapture amount and treatment of intrafamily transfers.
 
-Subsec. (k). Pub. L. 104–127, §645(2), (3), redesignated subsec. (<i>l</i>) as (k) and struck out heading and text of former subsec. (k). Text read as follows: “The creditworthiness of, or the adequacy of collateral offered by, any borrower whose loan obligations are restructured under this section shall be determined without regard to such restructuring.”
+Subsec. (k). Pub. L. 104–127, §645(2), (3), redesignated subsec. (<i>l</i>) as (k) and struck out heading and text offormer subsec. (k). Text read as follows: “The creditworthiness of, or the adequacy of collateral offered by, any borrower whose loan obligations are restructured under this section shall be determined without regard to such restructuring.”
 
 Subsec. (<i>l</i>). Pub. L. 104–127, §661(j), struck out “and subparagraphs (A)(i) and (C)(i) of section 1985(e)(1) of this title,” before “if a borrower” in introductory provisions.
 
@@ -338,7 +360,7 @@ In general.—Except as provided in section 353(c)(6)(A)(ii) of the Consolidated
 
 &emsp;“(2)
 
-Definition of new application.—As used in paragraph (1), the term ‘new application’ means anapplication submitted by a borrower to initiate a debt restructuring consideration and not an application reconsidered after an appeal or revision of the original application.
+Definition of new application.—As used in paragraph (1), the term ‘new application’ means an application submitted by a borrower to initiate a debt restructuring consideration and not an application reconsidered after an appeal or revision of the original application.
 
 &emsp;“(3)
 

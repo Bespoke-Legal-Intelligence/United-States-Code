@@ -40,7 +40,7 @@
 
 For definition of Secretary, referred to in subsec. (a), see section 2109 of this title.
 
-Subsecs. (a) and (b) of section 4107 of this title, referred to in subsec. (e), were struck out, and subsecs. (c) and (d) of section 4107 were redesignated (a) and (b), respectively, by Pub. L. 103–226, §2(a)(5)(B), Mar. 30, 1994, 108 Stat. 112.
+Subsecs. (a) and (b) of section 4107 of this title, referred to in subsec. (e), were struck out, and subsecs. (c) and (d) of section 4107 were redesignated (a) and (b), respectively, by Pub. L. 103–226, §2(a)(5)(B), Mar. 30, 1994, 108 Stat. 112. Subsequently, section 4107 was amended generally by Pub. L. 107–296, title XIII, §1331(a), Nov. 25, 2002, 116 Stat. 2298.
 
 #### Amendments
 
@@ -66,7 +66,7 @@ Section 10 of Pub. L. 92–297 provided that: “This Act \[enacting this subcha
 
 #### Report to Congress
 
-Section 9 of Pub. L. 92–297 directed the Secretary of Transportation to report to Congress no later than 5 years after May 16, 1972, concerning his operations under the amendments made by Pub. L. 92–297, including a detailed statement of the effectiveness of Pub. L. 92–297 in meeting the needs of the Air Traffic Controller career program and of the air traffic control system plus recommendations for the management of the program or the system.
+Section 9 of Pub. L. 92–297 directed the Secretary of Transportation to report to Congress no later than 5 years after May 16, 1972, concerning his operations under the amendments made by Pub. L. 92–297, including a detailed statement of the effectiveness of Pub. L.92–297 in meeting the needs of the Air Traffic Controller career program and of the air traffic control system plus recommendations for the management of the program or the system.
 
 #### Section Referred to in Other Sections
 

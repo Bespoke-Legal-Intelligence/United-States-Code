@@ -52,7 +52,7 @@ July 7, 1884, ch. 334, §3(proviso and sentence immediately after proviso under 
 
 In the section, the words “representatives of persons” are substituted for “agents, attorneys, or other persons representing claimants before his department” to eliminate unnecessary words.
 
-In subsection (a), before clause (1), the words “Subject to section 500 of title 5” are added for clarity andto conform to title 5. In clause (1), the word “regulate” is substituted for “prescribe rules and regulations” to eliminate unnecessary words. The words “the practice” are substituted for “before being recognized” for consistency with other revised titles of the United States Code. In clause (2)(C), the words “possessed of the” are omitted because of the restatement.
+In subsection (a), before clause (1), the words “Subject to section 500 of title 5” are added for clarity and to conform to title 5. In clause (1), the word “regulate” is substituted for “prescribe rules and regulations” to eliminate unnecessary words. The words “the practice” are substituted for “before being recognized” for consistency with other revised titles of the United States Code. In clause (2)(C), the words “possessed of the” are omitted because of the restatement.
 
 In subsection (b), the word “proceeding” is substituted for “hearing” because of subchapter II of chapter 5 of title 5. In clause (3), the words “violates regulations prescribed under this section” are substituted for “who refuses to comply with said rules and regulations” to eliminate unnecessary words. In clause (4), the words “in any manner” are omitted as surplus. The word “deceive” is omitted as being included in the word “mislead”. The words “by word, circular, letter, or by advertisement” are omitted as unnecessary.
 

@@ -32,7 +32,7 @@ Less stringent regulations.—If the Secretary decides a State law or regulation
 
 &emsp;(4)
 
-Additional or more stringent regulations.—If the Secretary decides a State law or regulation is additional to or more stringentthan a regulation prescribed by the Secretary under section 31136 of this title, the State law or regulation may be enforced unless the Secretary also decides that—
+Additional or more stringent regulations.—If the Secretary decides a State law or regulation is additional to or more stringent than a regulation prescribed by the Secretary under section 31136 of this title, the State law or regulation may be enforced unless the Secretary also decides that—
 
 &emsp;&emsp;(A) the State law or regulation has no safety benefit;
 

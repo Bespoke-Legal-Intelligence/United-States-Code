@@ -34,7 +34,7 @@ If the Commission determines (after affording interested persons, including cons
 
 #### (d) Repair; replacement; refunds; action plan
 
-If the Commission determines (after affording interested parties, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f) of this section) that a product distributed in commerce presents a substantial product hazard and that action under this subsection is in the public interest, it may order the manufacturer or any distributor or retailer of such product to takewhichever of the following actions the person to whom the order is directed elects:
+If the Commission determines (after affording interested parties, including consumers and consumer organizations, an opportunity for a hearing in accordance with subsection (f) of this section) that a product distributed in commerce presents a substantial product hazard and that action under this subsection is in the public interest, it may order the manufacturer or any distributor or retailer of such product to take whichever of the following actions the person to whom the order is directed elects:
 
 &emsp;(1) To bring such product into conformity with the requirements of the applicable consumer product safety rule or to repair the defect in such product.
 
@@ -116,7 +116,7 @@ Requirement to report.—Each manufacturer, distributor, retailer, and importer 
 
 &emsp;&emsp;“(A) an incident occurred in which a child (regardless of age) choked on such a marble, small ball, or latex balloon or on a marble, small ball, latex balloon, or other small part contained in such toy or game; and
 
-&emsp;&emsp;“(B) as a result of that incident the child died, suffered serious injury, ceased breathing for any length of time, or was treated by a medical professional.
+&emsp;&emsp;“(B) as a result of that incident the child died, suffered serious injury, ceased breathing for anylength of time, or was treated by a medical professional.
 
 &emsp;“(2)
 

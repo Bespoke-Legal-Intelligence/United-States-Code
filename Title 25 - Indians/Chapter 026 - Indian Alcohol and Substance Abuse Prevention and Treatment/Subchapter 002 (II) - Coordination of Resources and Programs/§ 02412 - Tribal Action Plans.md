@@ -80,7 +80,7 @@ Section 2475 of this title, referred to in subsec. (c)(1)(A)(iv), was repealed b
 
 #### Amendments
 
-1992—Subsec. (c). Pub. L. 102–573, §703(1)(A), in par. (2), redesignated subpars. (2) to (4) as subpars. (B) to (D), respectively, and added subpar. (F), and added par. (3).
+1992—Subsec. (c). Pub. L. 102–573, §703(1)(A), in par. (2), redesignated subpars. (2) to (4) as subpars. (B) to\(D), respectively, and added subpar. (F), and added par. (3).
 
 Subsec. (d)(2). Pub. L. 102–573, §703(1)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There is authorized to be appropriated not to exceed $1,000,000 for each of the fiscal years 1989, 1990, 1991, and 1992 for grants under this subsection.”
 

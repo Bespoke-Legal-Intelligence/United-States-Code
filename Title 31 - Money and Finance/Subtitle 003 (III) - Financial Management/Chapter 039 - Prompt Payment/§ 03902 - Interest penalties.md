@@ -34,7 +34,7 @@
 
 &emsp;(i) on the amount of payment or loan due; and
 
-&emsp;(ii) for the period beginning on the first day beginning after the required payment or loanclosing date and ending on the date the amount is paid or loaned.
+&emsp;(ii) for the period beginning on the first day beginning after the required payment or loan closing date and ending on the date the amount is paid or loaned.
 
 (B) As used in this subsection, the “required payment or loan closing date” means—
 
@@ -138,7 +138,7 @@ Section 14(a)–(c) of Pub. L. 100–496 provided that:
 
 #### Payment of Interest Penalties by Department of Defense
 
-Pub. L. 107–117, div. A, title VIII, §8084, Jan. 10, 2002, 115 Stat. 2266, provided that: “Notwithstanding 31U.S.C. 3902, during the current fiscal year and hereafter, interest penalties may be paid by the Department of Defense from funds financing the operation of the military department or defense agency with which the invoice or contract payment is associated.”
+Pub. L. 107–117, div. A, title VIII, §8084, Jan. 10, 2002, 115 Stat. 2266, provided that: “Notwithstanding 31 U.S.C. 3902, during the current fiscal year and hereafter, interest penalties may be paid by the Department of Defense from funds financing the operation of the military department or defense agency with which the invoice or contract payment is associated.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

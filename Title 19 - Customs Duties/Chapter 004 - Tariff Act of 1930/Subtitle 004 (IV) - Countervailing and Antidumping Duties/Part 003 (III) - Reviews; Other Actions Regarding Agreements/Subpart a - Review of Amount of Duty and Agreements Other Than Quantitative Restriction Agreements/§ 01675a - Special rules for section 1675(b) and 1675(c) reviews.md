@@ -56,7 +56,7 @@
 
 #### (7) Cumulation
 
-&emsp;For purposes of this subsection, the Commission may cumulatively assess the volume and effect of imports of the subject merchandise from all countries with respect to which reviews under section 1675(b) or (c) of this title were initiated on the same day, if such imports would be likely to compete with each other and with domestic like products in the United States market. The Commission shall not cumulatively assess the volume and effects of imports of the subject merchandise in a case in which it determines that such imports are likely to have no discernible adverse impact on the domestic industry.
+&emsp;For purposes of this subsection, the Commission may cumulatively assess the volume and effect of imports of the subject merchandisefrom all countries with respect to which reviews under section 1675(b) or (c) of this title were initiated on the same day, if such imports would be likely to compete with each other and with domestic like products in the United States market. The Commission shall not cumulatively assess the volume and effects of imports of the subject merchandise in a case in which it determines that such imports are likely to have no discernible adverse impact on the domestic industry.
 
 #### (8) Special rule for regional industries
 
@@ -86,7 +86,7 @@
 
 #### (3) Net countervailable subsidy
 
-&emsp;The administering authority shall provide to the Commission the net countervailable subsidy that is likely to prevail if the order is revoked or the suspended investigation is terminated. The administering authority shall normally choose a net countervailable subsidy that was determined under section 1671d ofthis title or subsection (a) or (b)(1) of section 1675 of this title.
+&emsp;The administering authority shall provide to the Commission the net countervailable subsidy that is likely to prevail if the order is revoked or the suspended investigation is terminated. The administering authority shall normally choose a net countervailable subsidy that was determined under section 1671d of this title or subsection (a) or (b)(1) of section 1675 of this title.
 
 #### (4) Special rule
 
@@ -120,7 +120,7 @@
 
 #### (A) Treatment of zero or de minimis margins
 
-&emsp;&emsp;A dumping margin described in paragraph (1)(A) that is zero or de minimis shall not by itself require the administering authority to determine that revocation of an antidumping duty order or termination of a suspended investigation would not be likely to lead to continuation or recurrence of sales at less than fair value.
+&emsp;&emsp;A dumping margin described in paragraph (1)(A) that is zero or de minimis shall not by itself require the administering authority to determine that revocation of an antidumping duty order or termination of a suspended investigation would not be likely to lead tocontinuation or recurrence of sales at less than fair value.
 
 #### (B) Application of de minimis standards
 

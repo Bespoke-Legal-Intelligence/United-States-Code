@@ -12,7 +12,7 @@
 
 (2) In the case of any individual found by the Office to be disabled in whole or in part on the basis of the individual's mental condition, and that finding was made pursuant to an application by an agency for purposes of disability retirement under section 8451, the procedures under section 7701 shall apply and the decision of the Board shall be subject to judicial review under section 7703.
 
-(f) The Office shall fix the fees for examinations made under subchapter V of this chapter by physicians or surgeons who are not medical officers of the United States. The fees and reasonable traveling and other expenses incurred in connection with the examinations are paid from appropriations for the cost of administering the provisions of this chapter administered by the Office.
+(f) The Office shall fix the fees for examinations made under subchapter V of this chapter by physicians or surgeons who are not medical officers of the United States. The fees and reasonable traveling and other expenses incurred in connection with the examinations are paid fromappropriations for the cost of administering the provisions of this chapter administered by the Office.
 
 (g) The Office may prescribe regulations to carry out the provisions of this chapter administered by the Office.
 
@@ -20,7 +20,7 @@
 
 (2) The Director, in consultation with the officials from whom such information is requested, shall establish (by regulation or otherwise) such safeguards as are necessary to ensure that information made available under this subsection is used only for the purpose authorized.
 
-(i) In making a determination of “actuarial equivalence” under this chapter, the economic assumptions used shall be the same as the economic assumptions most recently used by the Office (before the determination of actuarialequivalence involved) in determining the normal-cost percentage of the System.
+(i) In making a determination of “actuarial equivalence” under this chapter, the economic assumptions used shall be the same as the economic assumptions most recently used by the Office (before the determination of actuarial equivalence involved) in determining the normal-cost percentage of the System.
 
 (j)(1) Notwithstanding any other provision of this chapter, the Director of Central Intelligence shall, in a manner consistent with the administration of this chapter by the Office, and to the extent considered appropriate by the Director of Central Intelligence—
 
@@ -62,11 +62,9 @@
 
 (n)(1) Under regulations prescribed by the Office, an employee who—
 
-&emsp;(A) has not previously made an election under this subsection or had an opportunity to make an election under this paragraph;
+&emsp;(A) has not previously made an election under this subsection or had an opportunity to make an election under this paragraph; and
 
-&emsp;(B) has 5 or more years of civilian service creditable under this chapter; and
-
-&emsp;(C) moves, without a break in service of more than 1 year, to employment in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, described in section 2105(c),
+&emsp;(B) moves, without a break in service of more than 1 year, to employment in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, described in section 2105(c),
 
 > shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered as an employee under this chapter during any employment described in section 2105(c) after such move.
 
@@ -74,7 +72,7 @@
 
 &emsp;(A) has not previously made an election under this subsection or had an opportunity to make an election under this paragraph;
 
-&emsp;(B) is a vested participant in a retirement system established for employees described in section 2105(c), as the term “vested participant” is defined by such system;
+&emsp;(B) is a participant in a retirement system established for employees described in section 2105(c);
 
 &emsp;(C) moves, without a break in service of more than 1 year, to a position that is not described by section 2105(c); and
 
@@ -82,9 +80,13 @@
 
 > shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered, during any subsequent employment as an employee as defined by section 2105(a) or section 2105(c), by the retirement system applicable to such employee's current or most recent employment described by section 2105(c) rather than be subject to this chapter.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 570; amended Pub. L. 99–556, titleI, §102, Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–508, title VII, §7202(k)(2), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(71), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–106, div. A, title X, §1043(a)(2), Feb. 10, 1996, 110 Stat. 434.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 570; amended Pub. L. 99–556, title I, §102, Oct. 27, 1986, 100 Stat. 3131; Pub. L. 101–508, title VII, §7202(k)(2), Nov. 5, 1990, 104 Stat. 1388–339; Pub. L. 102–378, §2(71), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 104–106, div. A, title X, §1043(a)(2), Feb. 10, 1996, 110 Stat. 434; Pub. L. 107–107, div. A, title XI, §1131(b), Dec. 28, 2001, 115 Stat. 1242.)
 
 #### Amendments
+
+2001—Subsec. (n)(1). Pub. L. 107–107, §1131(b)(1), inserted “and” at end of subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “has 5 or more years of civilian service creditable under this chapter; and”.
+
+Subsec. (n)(2)(B). Pub. L. 107–107, §1131(b)(2), struck out “vested” before “participant in a retirement system” and struck out “, as the term ‘vested participant’ is defined by such system” before semicolon at end.
 
 1996—Subsec. (n)(1). Pub. L. 104–106, §1043(a)(2)(A), struck out “of the Department of Defense or the Coast Guard” after “an employee” in introductory provisions and substituted “1 year” for “3 days” in subpar. (C).
 
@@ -113,6 +115,10 @@ Amendment by Pub. L. 101–508 applicable with respect to any individual who, on
 #### Regulations; Effective Date of 1996 Amendment
 
 For provisions relating to promulgation of regulations necessary to carry out amendment by Pub. L. 104–106, and effective date of such amendment in connection with those regulations, see section 1043(b), (c) of Pub. L. 104–106, set out as a note under section 8347 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Treatment of Individuals Electing To Remain Subject to Their Former Retirement System
 

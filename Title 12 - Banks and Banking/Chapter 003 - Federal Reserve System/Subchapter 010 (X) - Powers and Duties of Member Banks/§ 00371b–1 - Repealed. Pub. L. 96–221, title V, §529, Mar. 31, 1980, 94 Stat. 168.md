@@ -12,7 +12,7 @@ Section 529 of Pub. L. 96–221 provided in part that, notwithstanding the repea
 
 #### Prior Provisions
 
-A prior section 371b–1, act Dec. 23, 1913, ch. 6, §19(k), as added Nov. 5, 1979, Pub. L. 96–104, title II, §201, 93 Stat. 792, identical to this section as added by Pub. L. 96–161, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to deposits made or obligations issued in any State on or after Nov. 5, 1979, but prior to such repeal. See Effective Date of 1979 Amendment note set out below.
+A prior section 371b–1, act Dec. 23, 1913, ch. 6, §19(k), as added Nov. 5, 1979, Pub. L. 96–104, title II, §201, 93Stat. 792, identical to this section as added by Pub. L. 96–161, was repealed by section 212 of Pub. L. 96–161, effective at the close of Dec. 27, 1979, except that its provisions would continue to apply to deposits made or obligations issued in any State on or after Nov. 5, 1979, but prior to such repeal. See Effective Date of 1979 Amendment note set out below.
 
 A prior section 371b–1, act Dec. 23, 1913, ch. 6, §19(k), as added Oct. 29, 1974, Pub. L. 93–501, title III, §301, 88 Stat. 1560, identical to this section as added by Pub. L. 96–104, was repealed by section 1 of Pub. L. 96–104 except that its provisions shall continue to apply to any deposit made or obligation issued in any State during the period specified in section 304 of Pub. L. 93–501. See Effective and Termination Date of 1974 Amendment note set out below.
 

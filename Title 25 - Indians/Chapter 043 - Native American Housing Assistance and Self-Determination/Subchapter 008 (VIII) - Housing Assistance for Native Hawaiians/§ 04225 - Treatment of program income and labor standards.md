@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(A) a provision requiring that an amount not less than the wages prevailing in the locality, as determined or adopted (subsequent to a determination under applicable State or local law) by the Secretary, shall be paid to all architects, technical engineers, draftsmen, technicians employed in the development and all maintenance, and laborers and mechanics employed in the operation, of the affordable housing project involved; and
 
-&emsp;&emsp;(B) a provision that an amount not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to the Act commonly known as the “Davis-Bacon Act” (46 Stat. 1494; chapter 411; 40 U.S.C. 276a et seq.) shall be paid to all laborers and mechanics employed in the development of the affordable housing involved.
+&emsp;&emsp;(B) a provision that an amount not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40 shall be paid to all laborers and mechanics employed in the development of the affordable housing involved.
 
 #### (2) Exceptions
 
@@ -38,11 +38,9 @@
 
 (Pub. L. 104–330, title VIII, §805, as added Pub. L. 106–568, title II, §203, Dec. 27, 2000, 114 Stat. 2883, and Pub. L. 106–569, title V, §513, Dec. 27, 2000, 114 Stat. 2976.)
 
-#### References in Text
-
-The Davis-Bacon Act, referred to in subsec. (b)(1)(B), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 #### Codification
+
+“Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (b)(1)(B) for “the Act commonly known as the ‘Davis-Bacon Act’ (46 Stat. 1494; chapter 411; 40 U.S.C. 276a et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Pub. L. 106–568, §203, and Pub. L. 106–569, §513, enacted substantially identical sections 805 of Pub. L. 104–330. This section is based on the text of section 805 of Pub. L. 104–330, as added by Pub. L. 106–569, §513.
 

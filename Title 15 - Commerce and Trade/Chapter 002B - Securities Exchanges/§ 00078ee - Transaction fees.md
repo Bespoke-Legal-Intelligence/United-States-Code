@@ -104,43 +104,43 @@ For purposes of this section:
 
 &nbsp;2002
 
-$732,000,000&#x20;&nbsp;&nbsp;
+$732,000,000
 
 &nbsp;2003
 
-$849,000,000&#x20;&nbsp;&nbsp;
+$849,000,000
 
 &nbsp;2004
 
-$1,028,000,000&#x20;&nbsp;&nbsp;
+$1,028,000,000
 
 &nbsp;2005
 
-$1,220,000,000&#x20;&nbsp;&nbsp;
+$1,220,000,000
 
 &nbsp;2006
 
-$1,435,000,000&#x20;&nbsp;&nbsp;
+$1,435,000,000
 
 &nbsp;2007
 
-$881,000,000&#x20;&nbsp;&nbsp;
+$881,000,000
 
 &nbsp;2008
 
-$892,000,000&#x20;&nbsp;&nbsp;
+$892,000,000
 
 &nbsp;2009
 
-$1,023,000,000&#x20;&nbsp;&nbsp;
+$1,023,000,000
 
 &nbsp;2010
 
-$1,161,000,000&#x20;&nbsp;&nbsp;
+$1,161,000,000
 
 &nbsp;2011
 
-$1,321,000,000&#x20;&nbsp;&nbsp;
+$1,321,000,000
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -162,7 +162,7 @@ Pub. L. 107–123, §3(a)(2), struck out heading and text of former subsec. (c).
 
 Pub. L. 107–123, §2(1),(2), (4), which directed that subsec. (d) be amended by substituting “$15 per $1,000,000” for “1/300 of one percent” and “security futures products, and options on securities indexes (excluding a narrow-based security index)” for “and security futures products”, and striking out “, except that for fiscal year 2007, or any succeeding fiscal year, such rate shall be equal to 1/800 of one percent of such aggregate dollar amount of sale” before period at end of par. (1), was executed by making the amendment in subsec. (c), to reflect the probable intent of Congress and the amendment by Pub. L. 107–123, §3(a)(3), which redesignated subsec. (d) as (c). See above.
 
-Subsec. (d). Pub. L. 107–123, §3(a)(4), (6), redesignated subsec. (e) as (d) and substituted “except that for fiscal year 2007 and each succeeding fiscal year such assessment shall be equal to $0.0042 for each such transaction” for “except that for fiscal year 2007 or any succeeding fiscal year such assessment shall be equal to $0.0075 for each such transaction. Assessments collectedpursuant to this subsection shall be deposited and collected as general revenue of the Treasury”. Former subsec. (d) redesignated (c).
+Subsec. (d). Pub. L. 107–123, §3(a)(4), (6), redesignated subsec. (e) as (d) and substituted “except that for fiscal year 2007 and each succeeding fiscal year such assessment shall be equal to $0.0042 for each such transaction” for “except that for fiscal year 2007 or any succeeding fiscal year such assessment shall be equal to $0.0075 for each such transaction. Assessments collected pursuant to this subsection shall be deposited and collected as general revenue of the Treasury”. Former subsec. (d) redesignated (c).
 
 Pub. L. 107–123, §2(5), which directed that subsec. (e) be amended by substituting “$0.009” for “$0.02”, was executed by making the amendment in subsec. (d), to reflect the probable intent of Congress and the amendment by Pub. L. 107–123, §3(a)(4), (6) which redesignated subsec. (e) as (d). See above.
 

@@ -12,7 +12,7 @@ The Director shall—
 
 &emsp;(4) provide, in collaboration with the National Library of Medicine where appropriate, indexing, abstracting, translating, publishing, and other services leading to a more effective and timely dissemination of information on research, demonstration projects, and evaluations with respect to health care to public and private entities and individuals engaged in the improvement of health care delivery and the general public, and undertake programs to develop new or improved methods for making such information available; and
 
-&emsp;(5) as appropriate, provide technical assistance to State and local government and health agencies and conduct liaison activities to such agencies to foster dissemination.
+&emsp;(5) as appropriate, provide technical assistance to State and local government and healthagencies and conduct liaison activities to such agencies to foster dissemination.
 
 #### (b) Prohibition against restrictions
 

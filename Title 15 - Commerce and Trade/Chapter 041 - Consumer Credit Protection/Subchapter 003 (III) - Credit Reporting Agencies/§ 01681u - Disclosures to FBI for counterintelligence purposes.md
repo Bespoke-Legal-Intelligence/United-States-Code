@@ -26,15 +26,17 @@ The Federal Bureau of Investigation may not disseminate information obtained pur
 
 #### (g) Rules of construction
 
-Nothing in this section shall be construed to prohibit information from being furnished by the Federal Bureau of Investigation pursuant to a subpoena or court order, in connection with a judicial or administrative proceeding to enforce the provisions of this subchapter. Nothing in this section shall be construed to authorize or permit the withholding of information from the Congress.
+Nothing in this section shall be construed to prohibit information from being furnished by the Federal Bureau of Investigation pursuant to a subpoena or court order, in connection with ajudicial or administrative proceeding to enforce the provisions of this subchapter. Nothing in this section shall be construed to authorize or permit the withholding of information from the Congress.
 
 #### (h) Reports to Congress
 
-On a semiannual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Select Committee on Intelligence and the Committee on Banking, Housing, and Urban Affairs of the Senate concerning all requests made pursuant to subsections (a), (b), and (c) of this section.
+(1) On a semiannual basis, the Attorney General shall fully inform the Permanent Select Committee on Intelligence and the Committee on Banking, Finance and Urban Affairs of the House of Representatives, and the Select Committee on Intelligence and the Committee on Banking, Housing, and Urban Affairs of the Senate concerning all requests made pursuant to subsections (a), (b), and (c) of this section.
+
+(2) In the case of the semiannual reports required to be submitted under paragraph (1) to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate, the submittal dates for such reports shall be as provided in section 415b of title 50.
 
 #### (i) Damages
 
-Any agency or department of the United States obtaining or disclosing any consumer reports, records, or information contained thereinin violation of this section is liable to the consumer to whom such consumer reports, records, or information relate in an amount equal to the sum of—
+Any agency or department of the United States obtaining or disclosing any consumer reports, records, or information contained therein in violation of this section is liable to the consumer to whom such consumer reports, records, or information relate in an amount equal to the sum of—
 
 &emsp;(1) $100, without regard to the volume of consumer reports, records, or information involved;
 
@@ -60,13 +62,15 @@ Notwithstanding any other provision of this subchapter, the remedies and sanctio
 
 In addition to any other remedy contained in this section, injunctive relief shall be available to require compliance with the procedures of this section. In the event of any successful action under this subsection, costs together with reasonable attorney fees, as determined by the court, may be recovered.
 
-(Pub. L. 90–321, title VI, §625, formerly §624, as added Pub. L. 104–93, title VI, §601(a), Jan. 6, 1996, 109 Stat. 974; renumbered §625 and amended Pub. L. 107–56, title III, §358(g)(1)(A), title V, §505(c), Oct. 26, 2001, 115 Stat. 327, 366.)
+(Pub. L. 90–321, title VI, §625, formerly §624, as added Pub. L. 104–93, title VI, §601(a), Jan. 6, 1996, 109 Stat. 974; renumbered §625 and amended Pub. L. 107–56, title III, §358(g)(1)(A), title V, §505(c), Oct. 26, 2001, 115 Stat. 327, 366; Pub. L. 107–306, title VIII, §811(b)(8)(B), Nov. 27, 2002, 116 Stat. 2426.)
 
 #### References in Text
 
 This subchapter, referred to in subsec. (g), was in the original, “this Act” and was translated as reading “this title”, meaning title VI of Pub. L. 90–321, known as the Fair Credit Reporting Act, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2002—Subsec. (h). Pub. L. 107–306 designated existing provisions as par. (1) and added par. (2).
 
 2001—Pub. L. 107–56, §505(c), which directed amendment of section 624 of the Fair Credit Reporting Act, was executed by making the amendment to this section to reflect the probable intent of Congress and the renumbering of section 624 as 625 by section 358(g)(1)(A) of Pub. L. 107–56. See below.
 
@@ -88,5 +92,5 @@ Amendment by section 358(g)(1)(A) of Pub. L. 107–56 applicable with respect to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1681v of this title.
+This section is referred to in section 1681v of this title; title 50 section 415b.
 

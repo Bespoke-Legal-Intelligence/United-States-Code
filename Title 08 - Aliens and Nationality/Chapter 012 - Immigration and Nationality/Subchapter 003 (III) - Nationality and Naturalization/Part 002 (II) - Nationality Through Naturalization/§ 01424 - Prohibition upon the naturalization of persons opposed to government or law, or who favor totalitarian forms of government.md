@@ -4,7 +4,7 @@
 
 &emsp;(1) who advocates or teaches, or who is a member of or affiliated with any organization that advocates or teaches, opposition to all organized government; or
 
-&emsp;(2) who is a member of or affiliated with (A) the Communist Party of the United States; (B) any other totalitarian party of the UnitedStates; (C) the Communist Political Association; (D) the Communist or other totalitarian party of any State of the United States, of any foreign state, or of any political or geographical subdivision of any foreign state; (E) any section, subsidiary, branch, affiliate, or subdivision of any such association or party; or (F) the direct predecessors or successors of any such association or party, regardless of what name such group or organization may have used, may now bear, or may hereafter adopt, unless such alien establishes that he did not have knowledge or reason to believe at the time he became a member of or affiliated with such an organization (and did not thereafter and prior to the date upon which such organization was so registered or so required to be registered have such knowledge or reason to believe) that such organization was a Communist-front organization; or
+&emsp;(2) who is a member of or affiliated with (A) the Communist Party of the United States; (B) any other totalitarian party of the United States; (C) the Communist Political Association; (D) the Communist or other totalitarian party of any State of the United States, of any foreign state, or of any political or geographical subdivision of any foreign state; (E) any section, subsidiary, branch, affiliate, or subdivision of any such association or party; or (F) the direct predecessors or successors of any such association or party, regardless of what name such group or organization may have used, may now bear, or may hereafter adopt, unless such alien establishes that he did not have knowledge or reason to believe at the time he became a member of or affiliated with such an organization (and did not thereafter and prior to the date upon which such organization was so registered or so required to be registered have such knowledge or reason to believe) that such organization was a Communist-front organization; or
 
 &emsp;(3) who, although not within any of the other provisions of this section, advocates the economic, international, and governmental doctrines of world communism or the establishment in the United States of a totalitarian dictatorship, or who is a member of or affiliated with any organization that advocates the economic, international, and governmental doctrines of world communism or the establishment in the United States of a totalitarian dictatorship, either through its own utterances or through any written or printed publications issued or published by or with the permission or consent of or under authority of such organization or paid for by the funds of such organization; or
 
@@ -30,7 +30,7 @@
 
 &emsp;(4) is determined by the Director of Central Intelligence, in consultation with the Secretary of Defense, and with the concurrence of the Attorney General, to have made a contribution to the national security or to the national intelligence mission of the United States.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §313, 66 Stat. 240; Pub. L. 100–525, §9(u), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(c)(1), Nov. 29, 1990, 104 Stat. 5041; Pub. L. 102–232, title III, §309(b)(13), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–416, title II, §219(v), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 106–120, title III, §306, Dec. 3, 1999, 113 Stat. 1612.)
+(June 27, 1952, ch. 477, title III, ch. 2, §313, 66 Stat. 240; Pub. L. 100–525, §9(u), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(c)(1), Nov. 29, 1990, 104 Stat. 5041; Pub. L. 102–232, titleIII, §309(b)(13), Dec. 12, 1991, 105 Stat. 1759; Pub. L. 103–416, title II, §219(v), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 106–120, title III, §306, Dec. 3, 1999, 113 Stat. 1612.)
 
 #### References in Text
 
@@ -55,6 +55,10 @@ Section 219(v) of Pub. L. 103–416 provided that the amendment made by that sec
 #### Effective Date
 
 Section effective 180 days after June 27, 1952, see section 407 of act June 27, 1952, set out as a note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -1,0 +1,84 @@
+### §7214. Inspections of registered public accounting firms
+
+#### (a) In general
+
+The Board shall conduct a continuing program of inspections to assess the degree of compliance of each registered public accounting firm and associated persons of that firm with this Act, the rules of the Board, the rules of the Commission, or professional standards, in connection with its performance of audits, issuance of audit reports, and related matters involving issuers.
+
+#### (b) Inspection frequency
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2), inspections required by this section shall be conducted—
+
+&emsp;&emsp;(A) annually with respect to each registered public accounting firm that regularly provides audit reports for more than 100 issuers; and
+
+&emsp;&emsp;(B) not less frequently than once every 3 years with respect to each registered public accounting firm that regularly provides audit reports for 100 or fewer issuers.
+
+#### (2) Adjustments to schedules
+
+&emsp;The Board may, by rule, adjust the inspection schedules set under paragraph (1) if the Board finds that different inspection schedules are consistent with the purposes of this Act, the public interest, and the protection of investors. The Board may conduct special inspections at the request of the Commission or upon its own motion.
+
+#### (c) Procedures
+
+The Board shall, in each inspection under this section, and in accordance with its rules for such inspections—
+
+&emsp;(1) identify any act or practice or omission to act by the registered public accounting firm, or by any associated person thereof, revealed by such inspection that may be in violation of this Act, the rules of the Board, the rules of the Commission, the firm's own quality control policies, or professional standards;
+
+&emsp;(2) report any such act, practice, or omission, if appropriate, to the Commission and each appropriate State regulatory authority; and
+
+&emsp;(3) begin a formal investigation or take disciplinary action, if appropriate, with respect to any such violation, in accordance with this Act and the rules of the Board.
+
+#### (d) Conduct of inspections
+
+In conducting an inspection of a registered public accounting firm under this section, the Board shall—
+
+&emsp;(1) inspect and review selected audit and review engagements of the firm (which may include audit engagements that are the subject of ongoing litigation or other controversy between the firm and 1 or more third parties), performed at various offices and by various associated persons of the firm, as selected by the Board;
+
+&emsp;(2) evaluate the sufficiency of the quality control system of the firm, and the manner of the documentation and communication of that system by the firm; and
+
+&emsp;(3) perform such other testing of the audit, supervisory, and quality control procedures of the firm as are necessary or appropriate in light of the purpose of the inspection and the responsibilities of the Board.
+
+#### (e) Record retention
+
+The rules of the Board may require the retention by registered public accounting firms for inspection purposes of records whose retention is not otherwise required by section 7213 of this title or the rules issued thereunder.
+
+#### (f) Procedures for review
+
+The rules of the Board shall provide a procedure for the review of and response to a draft inspection report by the registered public accounting firm under inspection. The Board shall take such action with respect to such response as it considers appropriate (including revising the draft report or continuing or supplementing its inspection activities before issuing a final report), but the text of any such response, appropriately redacted to protect information reasonably identified by the accounting firm as confidential, shall be attached to and made part of the inspection report.
+
+#### (g) Report
+
+A written report of the findings of the Board for each inspection under this section, subject to subsection (h) of this section, shall be—
+
+&emsp;(1) transmitted, in appropriate detail, to the Commission and each appropriate State regulatory authority, accompanied by any letter or comments by the Board or the inspector, and any letter of response from the registered public accounting firm; and
+
+&emsp;(2) made available in appropriate detail to the public (subject to section 7215(b)(5)(A) of this title, and to the protection of such confidential and proprietary information as theBoard may determine to be appropriate, or as may be required by law), except that no portions of the inspection report that deal with criticisms of or potential defects in the quality control systems of the firm under inspection shall be made public if those criticisms or defects are addressed by the firm, to the satisfaction of the Board, not later than 12 months after the date of the inspection report.
+
+#### (h) Interim Commission review
+
+#### (1) Reviewable matters
+
+&emsp;A registered public accounting firm may seek review by the Commission, pursuant to such rules as the Commission shall promulgate, if the firm—
+
+&emsp;&emsp;(A) has provided the Board with a response, pursuant to rules issued by the Board under subsection (f) of this section, to the substance of particular items in a draft inspection report, and disagrees with the assessments contained in any final report prepared by the Board following such response; or
+
+&emsp;&emsp;(B) disagrees with the determination of the Board that criticisms or defects identified in an inspection report have not been addressed to the satisfaction of the Board within 12 months of the date of the inspection report, for purposes of subsection (g)(2) of this section.
+
+#### (2) Treatment of review
+
+&emsp;Any decision of the Commission with respect to a review under paragraph (1) shall not be reviewable under section 78y of this title, or deemed to be “final agency action” for purposes of section 704 of title 5.
+
+#### (3) Timing
+
+&emsp;Review under paragraph (1) may be sought during the 30-day period following the date of the event giving rise to the review under subparagraph (A) or (B) of paragraph (1).
+
+(Pub. L. 107–204, title I, §104, July 30, 2002, 116 Stat. 757.)
+
+#### References in Text
+
+This Act, referred to in subsecs. (a), (b), and (c), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7211, 7215 of this title.
+

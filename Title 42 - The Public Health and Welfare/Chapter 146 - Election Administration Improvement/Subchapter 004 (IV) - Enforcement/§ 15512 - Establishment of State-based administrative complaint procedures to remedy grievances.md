@@ -1,0 +1,58 @@
+### §15512. Establishment of State-based administrative complaint procedures to remedy grievances
+
+#### (a) Establishment of State-based administrative complaint procedures to remedy grievances
+
+#### (1) Establishment of procedures as condition of receiving funds
+
+&emsp;If a State receives any payment under a program under this chapter, the State shall be required to establish and maintain State-based administrative complaint procedures which meet the requirements of paragraph (2).
+
+#### (2) Requirements for procedures
+
+&emsp;The requirements of this paragraph are as follows:
+
+&emsp;&emsp;(A) The procedures shall be uniform and nondiscriminatory.
+
+&emsp;&emsp;(B) Under the procedures, any person who believes that there is a violation of any provision of subchapter III of this chapter (including a violation which has occurred, is occurring, or is about to occur) may file a complaint.
+
+&emsp;&emsp;(C) Any complaint filed under the procedures shall be in writing and notarized, and signed and sworn by the person filing the complaint.
+
+&emsp;&emsp;(D) The State may consolidate complaints filed under subparagraph (B).
+
+&emsp;&emsp;(E) At the request of the complainant, there shall be a hearing on the record.
+
+&emsp;&emsp;(F) If, under the procedures, the State determines that there is a violation of any provision of subchapter III of this chapter, the State shall provide the appropriate remedy.
+
+&emsp;&emsp;(G) If, under the procedures, the State determines that there is no violation, the State shall dismiss the complaint and publish the results of the procedures.
+
+&emsp;&emsp;(H) The State shall make a final determination with respect to a complaint prior to the expiration of the 90-day period which begins on the date the complaint is filed, unless the complainant consents to a longer period for making such a determination.
+
+&emsp;&emsp;(I) If the State fails to meet the deadline applicable under subparagraph (H), the complaint shall be resolved within 60 days under alternative dispute resolution procedures established for purposes of this section. The record and other materials from any proceedings conducted under the complaint procedures established under this section shall be made available for use under the alternative dispute resolution procedures.
+
+#### (b) Requiring Attorney General approval of compliance plan for States not receiving funds
+
+#### (1) In general
+
+&emsp;Not later than January 1, 2004, each nonparticipating State shall elect—
+
+&emsp;&emsp;(A) to certify to the Commission that the State meets the requirements of subsection (a) of this section in the same manner as a State receiving a payment under this chapter; or
+
+&emsp;&emsp;(B) to submit a compliance plan to the Attorney General which provides detailed information on the steps the State will take to ensure that it meets the requirements of subchapter III of this chapter.
+
+#### (2) States without approved plan deemed out of compliance
+
+&emsp;A nonparticipating State (other than a State which makes the election described in paragraph (1)(A)) shall be deemed to not meet the requirements of subchapter III of this chapter if the Attorney General has not approved a compliance plan submitted by the State under this subsection.
+
+#### (3) Nonparticipating State defined
+
+&emsp;In this section, a “nonparticipating State” is a State which, during 2003, does not notify any office which is responsible for making payments to States under any program under this chapter of its intent to participate in, and receive funds under, the program.
+
+(Pub. L. 107–252, title IV, §402, Oct. 29, 2002, 116 Stat. 1715.)
+
+#### References in Text
+
+This chapter, referred to in subsecs. (a)(1) and (b)(1)(A), (3), was in the original “this Act”, meaning Pub. L. 107–252, Oct. 29, 2002, 116 Stat. 1666, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 15301 of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 15403, 15404 of this title.
+

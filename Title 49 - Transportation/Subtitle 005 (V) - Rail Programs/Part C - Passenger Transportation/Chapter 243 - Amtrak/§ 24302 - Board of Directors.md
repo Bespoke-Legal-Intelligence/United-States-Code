@@ -36,7 +36,7 @@ Confirmation procedure in senate.—
 
 &emsp;&emsp;&emsp;(ii) with full recognition of the constitutional right of the Senate to change the rules (so far as relating to the procedure of the Senate) at any time, in the same manner and to the same extent as in the case of any other rule of the Senate.
 
-&emsp;&emsp;(B) If, by the first day of June on which the Senate is in session after a nominationis submitted to the Senate under this section, the committee to which the nomination was referred has not reported the nomination, then it shall be discharged from further consideration of the nomination and the nomination shall be placed on the Executive Calendar.
+&emsp;&emsp;(B) If, by the first day of June on which the Senate is in session after a nomination is submitted to the Senate under this section, the committee to which the nomination was referred has not reported the nomination, then it shall be discharged from further consideration of the nomination and the nomination shall be placed on the Executive Calendar.
 
 &emsp;&emsp;(C) It shall be in order at any time thereafter to move to proceed to the consideration of the nomination without any intervening action or debate.
 

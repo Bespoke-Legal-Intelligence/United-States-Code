@@ -6,7 +6,7 @@ The Board may accept, hold, administer, and utilize gifts, donations, and beques
 
 #### (b) Federal income, estate, and gift taxation of property
 
-For purpose of Federal income, estate, and gift taxation, property accepted under subsection (a)of this section shall be considered as a gift or bequest to or for the use of the United States.
+For purpose of Federal income, estate, and gift taxation, property accepted under subsection (a) of this section shall be considered as a gift or bequest to or for the use of the United States.
 
 #### (c) Investment of moneys; disbursement of accrued income
 

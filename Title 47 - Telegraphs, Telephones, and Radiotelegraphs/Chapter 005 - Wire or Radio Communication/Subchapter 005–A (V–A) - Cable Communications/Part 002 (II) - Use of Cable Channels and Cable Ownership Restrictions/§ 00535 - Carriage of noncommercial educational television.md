@@ -8,7 +8,7 @@ In addition to the carriage requirements set forth in section 534 of this title,
 
 #### (1) General requirement to carry each qualified station
 
-&emsp;Subject to paragraphs (2) and (3) and subsection (e) of this section, each cable operator shall carry, on the cable system of that cable operator, any qualified local noncommercial educational television station requesting carriage.
+&emsp;Subject to paragraphs (2) and (3) and subsection (e) of this section, each cable operatorshall carry, on the cable system of that cable operator, any qualified local noncommercial educational television station requesting carriage.
 
 #### (2) Systems with 12 or fewer channels
 
@@ -50,7 +50,7 @@ A cable operator of a cable system with a capacity of more than 36 usable activa
 
 #### (f) Waiver of nonduplication rights
 
-A qualified local noncommercial educational television station whose signal is carried by a cable operator shall not assert any network nonduplication rights it may have pursuant to section 76.92 of title 47, Code of Federal Regulations, to require the deletion of programs airedon other qualified local noncommercial educational television stations whose signals are carried by that cable operator.
+A qualified local noncommercial educational television station whose signal is carried by a cable operator shall not assert any network nonduplication rights it may have pursuant to section 76.92 of title 47, Code of Federal Regulations, to require the deletion of programs aired on other qualified local noncommercial educational television stations whose signals are carried by that cable operator.
 
 #### (g) Conditions of carriage
 
@@ -100,7 +100,7 @@ Signals carried in fulfillment of the carriage obligations of a cable operator u
 
 #### (3) Remedial actions; dismissal
 
-&emsp;Within 120 days after the date a complaint is filed under this subsection, the Commission shall determine whether the cable operator has complied with the requirements of this section. If the Commission determines that the cable operator has failed to comply with such requirements, the Commission shall state with particularity the basis for such findings and order the cable operator to take such remedial action as is necessary to meet such requirements. If the Commission determinesthat the cable operator has fully complied with such requirements, the Commission shall dismiss the complaint.
+&emsp;Within 120 days after the date a complaint is filed under this subsection, the Commission shall determine whether the cable operator has complied with the requirements of this section. If the Commission determines that the cable operator has failed to comply with such requirements, the Commission shall state with particularity the basis for such findings and order the cable operator to take such remedial action as is necessary to meet such requirements. If the Commission determines that the cable operator has fully complied with such requirements, the Commission shall dismiss the complaint.
 
 #### (k) Identification of signals
 
@@ -114,7 +114,7 @@ For purposes of this section—
 
 &emsp;The term “qualified noncommercial educational television station” means any television broadcast station which—
 
-&emsp;&emsp;(A)(i) under the rules and regulations of the Commission in effect on March 29, 1990, is licensed by the Commission as a noncommercial educational television broadcast station and which is owned and operated by a public agency, nonprofit foundation, corporation, or association; and
+&emsp;&emsp;(A)(i) under the rules and regulations of the Commission in effect on March 29, 1990, is licensed by the Commission as a noncommercial educational television broadcast station and which is owned and operated bya public agency, nonprofit foundation, corporation, or association; and
 
 &emsp;&emsp;(ii) has as its licensee an entity which is eligible to receive a community service grant, or any successor grant thereto, from the Corporation for Public Broadcasting, or any successor organization thereto, on the basis of the formula set forth in section 396(k)(6)(B) of this title; or
 

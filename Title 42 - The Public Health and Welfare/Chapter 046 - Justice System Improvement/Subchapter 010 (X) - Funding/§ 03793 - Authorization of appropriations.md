@@ -4,17 +4,17 @@
 
 (2) There is authorized to be appropriated $30,000,000 for fiscal year 1992 and $33,000,000 for each of the fiscal years 1994 and 1995 to carry out the functions of the National Institute of Justice.
 
-(3) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992 and $28,000,000 for each of the fiscal years 1994 and 1995 to carry out the remaining functions of the Office of Justice Programs and the Bureau of Justice Assistance other than functions under subchapters IV, V, VI, VII, XII, XII–A, XII–B, XII–C, XII–D, XII–E, XII–F, XII–G, XII–H, XII–I, XII–J,<sup>1</sup> XII–K, and XII–L of this chapter.
+(3) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992 and $28,000,000 for each of the fiscal years 1994 and 1995 to carry out the remaining functions of the Office of Justice Programs and the Bureau of Justice Assistance other than functions under subchapters IV, V, VI, VII, XII, XII–A, XII–B, XII–C, XII–D, XII–E, XII–F, XII–G, XII–H, XII–I, XII–J,<sup>1</sup> XII–K, and XII–L or <sup>2</sup> XVI of this chapter.
 
 (4) There are authorized to be appropriated for each fiscal year such sums as may be necessary to carry out subchapter XII of this chapter.
 
-(5) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1994 and 1995 to carry out the programs under subchapters IV and V (other than subpart 2 of part B) <sup>2</sup> (other than subpart 2 of part B of subchapter V) of this chapter.
+(5) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1994 and 1995 to carry out the programs under subchapters IV and V (other than subpart 2 of part B) <sup>3</sup> (other than subpart 2 of part B of subchapter V) of this chapter.
 
-(6) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $245,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year <sup>3</sup> 1994 and 1995 to carry out subpart 2 of part B of subchapter V of this chapter.
+(6) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $245,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year <sup>4</sup> 1994 and 1995 to carry out subpart 2 of part B of subchapter V of this chapter.
 
 (7) There is authorized to be appropriated to carry out subchapter XII–B of this chapter $1,000,000 for each of fiscal years 2001 through 2005.
 
-(8) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $16,500,000 for fiscal year 1993, and such sums as may be necessary for fiscal year <sup>3</sup> 1994 and 1995.
+(8) There are authorized to be appropriated such sums as may be necessary for fiscal year 1992, $16,500,000 for fiscal year 1993, and such sums as may be necessary for fiscal year <sup>4</sup> 1994 and 1995.
 
 (9) There are authorized to be appropriated to carry out subchapter XII–C of this chapter—
 
@@ -28,7 +28,7 @@
 
 &emsp;(E) $66,000,000 for fiscal year 2000.
 
-(10) There are <sup>4</sup> authorized to be appropriated $10,000,000 for each of the fiscal years 1994, 1995,and 1996 to carry out projects under subchapter XII–D of this chapter.
+(10) There are <sup>5</sup> authorized to be appropriated $10,000,000 for each of the fiscal years 1994, 1995, and 1996 to carry out projects under subchapter XII–D of this chapter.
 
 (11)(A) There are authorized to be appropriated to carry out subchapter XII–E of this chapter, to remain available until expended—
 
@@ -44,9 +44,9 @@
 
 &emsp;(vi) $268,000,000 for fiscal year 2000.
 
-(B) Of funds available under subchapter XII–E of this chapter in any fiscal year, up to 3 percent may be used for technical assistance under section 3796dd(f) of this title or for evaluations or studies carried out or commissioned by the Attorney General in furtherance of the purposes of subchapter XII–E of this chapter. Of the remaining funds, 50 percent shall be allocated for grants pursuant to applications submitted by units of local government or law enforcement agencies having jurisdiction over areas with populations exceeding 150,000 or by public and private entities that serve areas with populations exceeding 150,000, and 50 percent shall be allocated for grants pursuant to applications submitted by units of local government or law enforcement agencies having jurisdiction over areas with populations 150,000 or less or by public and private entities that serve areas with populations 150,000 or less. Of the funds available in relation to grants under subchapter XII–E of this chapter, at least 85 percent shall be applied to grants for the purposes specified in section 3796dd(b) of this title, and no more than 15 percent may be applied to other grants in furtherance of the purposes of subchapter XII–E of this chapter. In view of the extraordinary need for law enforcement assistance in Indian country, an appropriate amount of funds available under subchapter XII–E of this chapter shall be made available for grants to Indian tribal governments or tribal law enforcement agencies.
+(B) Of funds available under subchapter XII–E of this chapter in any fiscal year, up to 3 percent may be used for technical assistance under section 3796dd(f) of this title or for evaluations or studies carried out or commissioned by the Attorney General in furtherance of the purposes of subchapter XII–E of this chapter. Of the remaining funds, 50 percent shall be allocated for grants pursuant to applications submitted by units of local government or law enforcement agencies having jurisdiction over areas with populations exceeding 150,000 or by public and private entities that serve areas with populations exceeding 150,000, and 50 percent shall be allocated for grants pursuant to applications submitted by units of local government or law enforcement agencies having jurisdiction over areas with populations 150,000 or less or by public and private entities that serve areas with populations 150,000 or less. Of the funds available in relation to grants under subchapter XII–E of this chapter, at least 85 percent shall be applied to grants for the purposes specified in section 3796dd(b) of this title, and no more than 15 percent may be applied to other grants in furtherance of the purposes of subchapter XII–E of this chapter. In view of the extraordinary need for law enforcement assistance in Indian country,an appropriate amount of funds available under subchapter XII–E of this chapter shall be made available for grants to Indian tribal governments or tribal law enforcement agencies.
 
-(16) <sup>5</sup> There are authorized to be appropriated to carry out projects under subchapter XII–F of this chapter—
+(16) <sup>6</sup> There are authorized to be appropriated to carry out projects under subchapter XII–F of this chapter—
 
 &emsp;(A) $20,000,000 for fiscal year 1996;
 
@@ -116,15 +116,31 @@
 
 &emsp;(F) $42,067,000 for fiscal year 2006.
 
+(25)(A) Except as provided in subparagraph (C), there are authorized to be appropriated to carry out subchapter XVI of this chapter—
+
+&emsp;(i) $50,000,000 for fiscal year 2002;
+
+&emsp;(ii) $54,000,000 for fiscal year 2003;
+
+&emsp;(iii) $58,000,000 for fiscal year 2004; and
+
+&emsp;(iv) $60,000,000 for fiscal year 2005.
+
+(B) The Attorney General shall reserve not less than 1 percent and not more than 4.5 percent of the sums appropriated for this program in each fiscal year for research and evaluation of this program.
+
+(C) No funds made available to carry out subchapter XVI of this chapter shall be expended if the Attorney General fails to submit the report required to be submitted under section 2401(c) of title II of Division B of the 21st Century Department of Justice Appropriations Authorization Act.<sup>1</sup>
+
 (b) Funds appropriated for any fiscal year may remain available for obligation until expended.
 
 (c) Notwithstanding any other provision of law, no funds appropriated under this section for subchapter V of this chapter may be transferred or reprogrammed for carrying out any activity which is not authorized under such subchapter.
 
-(Pub. L. 90–351, title I, §1001, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1218; amended Pub. L. 98–473, title II, §609D(a), Oct. 12, 1984, 98 Stat. 2097; Pub. L. 99–570, title I, §1552(c), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 100–690, title VI, §6093, Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–647, title II, §241(c), title VIII, §801(b), title XVIII, §1801(e), title XXVIII, §2801, Nov. 29, 1990, 104 Stat. 4814, 4826, 4849, 4912; Pub. L. 102–521, §4(c), Oct. 25, 1992, 106 Stat. 3406; Pub. L. 102–534, §1, Oct. 27, 1992, 106 Stat. 3524; Pub. L. 103–322, title I, §10003(c), title II, §20201(d), title III, §32101(d), title IV, §§40121(c), 40156(c)(1), 40231(c), title V, §50001(c), title XVIII, §180101(a), title XXI, §§210201(c), 210302(c)(3), 210601, title XXXIII, §330001(b)(3), (h)(14), Sept. 13, 1994, 108 Stat. 1814, 1823, 1901, 1916, 1923, 1934, 1958, 2045, 2064, 2068, 2073, 2138, 2140; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(B)(i)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–181, §3(b), June 16, 1998, 112 Stat. 515; Pub. L. 106–386, div. B, title I, §§1103(a), 1104, title III, §1302(c), Oct. 28, 2000, 114 Stat. 1495, 1497, 1511; Pub. L. 106–515, §3(c), Nov. 13, 2000, 114 Stat. 2403; Pub. L. 106–517, §3(f), Nov. 13, 2000, 114 Stat. 2409; Pub. L. 106–561, §2(c)(2)(A), Dec. 21, 2000, 114 Stat. 2791.)
+(Pub. L. 90–351, title I, §1001, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1218; amended Pub. L. 98–473, title II, §609D(a), Oct. 12, 1984, 98 Stat. 2097; Pub. L. 99–570, title I, §1552(c), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 100–690, title VI, §6093, Nov. 18, 1988, 102 Stat. 4339; Pub. L. 101–647, title II, §241(c), title VIII, §801(b), title XVIII, §1801(e), title XXVIII, §2801, Nov. 29, 1990, 104 Stat. 4814, 4826, 4849, 4912; Pub. L. 102–521, §4(c), Oct. 25, 1992, 106 Stat. 3406; Pub. L. 102–534, §1, Oct. 27, 1992, 106 Stat. 3524; Pub. L. 103–322, title I, §10003(c), title II, §20201(d), title III, §32101(d), title IV, §§40121(c), 40156(c)(1), 40231(c), title V, §50001(c), title XVIII, §180101(a), title XXI, §§210201(c), 210302(c)(3), 210601, title XXXIII, §330001(b)(3), (h)(14), Sept. 13, 1994, 108 Stat. 1814, 1823, 1901, 1916, 1923, 1934, 1958, 2045, 2064, 2068, 2073, 2138, 2140; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(B)(i)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 105–181, §3(b), June 16, 1998, 112 Stat. 515; Pub. L. 106–386, div. B, title I, §§1103(a), 1104, title III, §1302(c), Oct. 28, 2000, 114 Stat. 1495, 1497, 1511; Pub. L. 106–515, §3(c), Nov. 13, 2000, 114 Stat. 2403; Pub. L. 106–517, §3(f), Nov. 13, 2000, 114 Stat. 2409; Pub. L. 106–561, §2(c)(2)(A), Dec. 21, 2000, 114 Stat. 2791; Pub. L. 107–273, div. B, title II, §2302, Nov. 2, 2002, 116 Stat. 1798.)
 
 #### References in Text
 
 Subchapter XII–J of this chapter, referred to in subsec. (a)(3), was repealed by Pub. L. 104–134, title I, §101\[(a)\] \[title I, §114(b)(1)(A)\], Apr. 26, 1996, 110 Stat. 1321, 1321–21; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
+Section 2401(c) of title II of Division B of the 21st Century Department of Justice Appropriations Authorization Act, referred to in subsec. (a)(25)(C), probably means section 2301(c) of title II of div. B of Pub. L. 107–273, Nov. 2, 2002, 116 Stat. 1798, which is not classified to the Code. Pub. L. 107–273 does not contain a section 2401.
 
 #### Prior Provisions
 
@@ -133,6 +149,10 @@ A prior section 3793, Pub. L. 90–351, title I, §653, as added Pub. L. 91–64
 A prior section 1001 of Pub. L. 90–351, title V, June 19, 1968, 82 Stat. 235, enacted section 7313 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2002—Subsec. (a)(3). Pub. L. 107–273, §2302(1), inserted “or XVI” after “and XII–L”.
+
+Subsec. (a)(25). Pub. L. 107–273, §2302(2), added par. (25).
 
 2000—Subsec. (a)(7). Pub. L. 106–386, §1302(c), added par. (7) and struck out former par. (7) which read as follows: “There are authorized to be appropriated to carry out subchapter XII–B of this chapter—
 
@@ -250,9 +270,9 @@ Subsec. (a)(2). Pub. L. 102–534, §1(3), substituted “fiscal year 1992 and $
 
 Subsec. (a)(3). Pub. L. 102–534, §1(4), substituted “such sums as may be necessary for fiscal year 1992 and $28,000,000 for each of the fiscal years 1993 and 1994 to carry out the remaining functions of the Office of Justice Programs and the Bureau of Justice Assistance other than functions under subchapters IV, V, VI, VII, XII, XII–A, XII–B, and XII–C of this chapter” for “$25,500,000 for fiscal year 1989 and such sums as may be necessary for each of the fiscal years 1990, 1991, and 1992 to carry out the remaining functions of the Office of Justice Programs and the Bureau of Justice Assistance, other than functions under subchapters IV, V, VI, VII, XII, XII–A, and XII–B of this chapter”.
 
-Subsec. (a)(5). Pub. L. 102–534, §1(5), substituted “such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1993 and 1994 to carry out the programs under subchapters IV and V (other than subpart 2 of part B of subchapter V)” for“$900,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal year 1992 to carry out the programs under subchapters IV and V”.
+Subsec. (a)(5). Pub. L. 102–534, §1(5), substituted “such sums as may be necessary for fiscal year 1992 and $1,000,000,000 for each of the fiscal years 1993 and 1994 to carry out the programs under subchapters IV and V (other than subpart 2 of part B of subchapter V)” for “$900,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal year 1992 to carry out the programs under subchapters IV and V”.
 
-Subsec. (a)(6). Pub. L. 102–534, §1(6), substituted “such sums as may be necessary for fiscal year 1992, $245,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994” for “$220,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal year 1992”.
+Subsec. (a)(6). Pub. L. 102–534, §1(6), substituted “such sums as may be necessary for fiscal year 1992, $245,000,000 for fiscal year 1993, and such sums as may benecessary for fiscal year 1994” for “$220,000,000 for fiscal year 1991 and such sums as may be necessary for fiscal year 1992”.
 
 Subsec. (a)(7). Pub. L. 102–534, §1(7), substituted “1992, 1993, and 1994” for “1991, 1992, and 1993”.
 
@@ -326,11 +346,13 @@ This section is referred to in section 3796dd of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Phrase “(other than subpart 2 of part B)” probably should not appear.</i>
+<i><sup>2</sup></i><i> So in original.</i>
 
-<i><sup>3</sup></i><i> So in original. Probably should be “years”.</i>
+<i><sup>3</sup></i><i> So in original. Phrase “(other than subpart 2 of part B)” probably should not appear.</i>
 
-<i><sup>4</sup></i><i> So in original. Probably should be “is”.</i>
+<i><sup>4</sup></i><i> So in original. Probably should be “years”.</i>
 
-<i><sup>5</sup></i><i> So in original. No pars. (12) to (15) have been enacted.</i>
+<i><sup>5</sup></i><i> So in original. Probably should be “is”.</i>
+
+<i><sup>6</sup></i><i> So in original. No pars. (12) to (15) have been enacted.</i>
 

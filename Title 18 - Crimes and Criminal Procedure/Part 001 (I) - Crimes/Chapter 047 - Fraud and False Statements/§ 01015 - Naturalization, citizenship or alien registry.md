@@ -14,7 +14,7 @@
 
 Shall be fined under this title or imprisoned not more than five years, or both. Subsection (f) does not apply to an alien if each natural parent of the alien (or, in the case of an adopted alien, each adoptive parent of the alien) is or was a citizen (whether by birth or naturalization), the alien permanently resided in the United States prior to attaining the age of 16, and the alien reasonably believed at the time of making the false statement or claim that he or she was a citizen of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 752; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994,108 Stat. 2147; Pub. L. 104–208, div. C, title II, §215, Sept. 30, 1996, 110 Stat. 3009–572; Pub. L. 106–395, title II, §201(d)(2), Oct. 30, 2000, 114 Stat. 1635.)
+(June 25, 1948, ch. 645, 62 Stat. 752; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, §215, Sept. 30, 1996, 110 Stat. 3009–572; Pub. L. 106–395, title II, §201(d)(2), Oct. 30, 2000, 114 Stat. 1635.)
 
 #### Historical and Revision Notes
 
@@ -35,4 +35,8 @@ Such changes of arrangement and phraseology were made as were appropriate and ne
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–395 effective as if included in the enactment of section 215 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, div. C of Pub. L. 104–208, and applicable to an alien prosecuted on or after Sept. 30, 1996, except in the case of an alien whose criminal proceeding (including judicial review thereof) has been finally concluded before Oct. 30, 2000, see section 201(d)(3) of Pub. L. 106–395, set out as a note under section 611 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 15544.
 

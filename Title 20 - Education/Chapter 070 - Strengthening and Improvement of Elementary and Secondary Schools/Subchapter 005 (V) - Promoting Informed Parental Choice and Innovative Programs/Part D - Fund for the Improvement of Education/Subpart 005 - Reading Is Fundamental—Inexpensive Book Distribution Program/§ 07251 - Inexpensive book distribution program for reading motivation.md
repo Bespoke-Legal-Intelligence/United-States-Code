@@ -38,7 +38,7 @@ Any contract entered into under subsection (b) of this section shall contain eac
 
 &emsp;(4) A provision that the contractor will provide such training and technical assistance to subcontractors as may be necessary to carry out the purpose of this subpart.
 
-&emsp;(5) A provision that the contractor will annually report to the Secretary the number, and a description, of programs funded under paragraph (3).
+&emsp;(5) A provision that the contractor will annually report to the Secretary the number,and a description, of programs funded under paragraph (3).
 
 &emsp;(6) Such other terms and conditions as the Secretary determines to be appropriate to ensure the effectiveness of such programs.
 

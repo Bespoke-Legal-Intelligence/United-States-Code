@@ -155,6 +155,7 @@
 | (a) | Positions assignable. |
 | (b) | Salary; travel and other expenses. |
 | (c) | Length of assignment. |
+| (d) | Assignment to the American Institute in Taiwan. |
 | [3984\.](Subchapter%20005%20%28V%29%20-%20Classification%20of%20Positions%20and%20Assignments/%C2%A7%2003984%20-%20Service%20in%20United%20States%20and%20abroad.md) | Service in United States and abroad. |
 | (a) | Obligation to serve abroad; length of stay in United States. |
 | (b) | Intermittent duty within United States. |
@@ -189,7 +190,7 @@
 | (a) | Entitlement. |
 | (b) | Computation of amount; refund; death of member. |
 | [4010\.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004010%20-%20Separation%20for%20cause.md) | Separation for cause. |
-| (a) | Authorization of Secretary; hearing prior to separation; waiver of hearing; suspension pending final resolution. |
+| (a) | Authorization of Secretary; right to hearing; attorneys fees and backpay; leave without pay. |
 | (b) | Refund of contributions to Fund; annuity election. |
 | [4010a.](Subchapter%20006%20%28VI%29%20-%20Promotion%20and%20Retention/%C2%A7%2004010a%20-%20Reductions%20in%20force.md) | Reductions in force. |
 | (a) | Authorization and regulations. |
@@ -595,7 +596,7 @@
 | (d) | Records. |
 | (e) | Expedition of security clearance procedures. |
 | [4134\.](Subchapter%20011%20%28XI%29%20-%20Grievances/%C2%A7%2004134%20-%20Time%20limitations.md) | Time limitations. |
-| (a) | 3-year period. |
+| (a) | Limitations period. |
 | (b) | Failure of Department to resolve grievance; grievance filed with Foreign Service Grievance Board. |
 | (c) | Grievances based on alleged discrimination. |
 | [4135\.](Subchapter%20011%20%28XI%29%20-%20Grievances/%C2%A7%2004135%20-%20Foreign%20Service%20Grievance%20Board.md) | Foreign Service Grievance Board. |

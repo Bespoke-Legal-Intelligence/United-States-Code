@@ -38,7 +38,7 @@ As used in this subchapter and in subchapter II of this chapter:
 
 &emsp;(9) The term “very low-income families” means low-income families whose incomes do not exceed 50 percent of the median family income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 50 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes.
 
-&emsp;(10) The term “low-income families” means families whose incomes do not exceed 80 percent of the median income for the area, as determined by the Secretary with adjustments for smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes.
+&emsp;(10) The term “low-income families” means families whose incomes do not exceed 80 percent of the median income for the area, as determined by the Secretary with adjustmentsfor smaller and larger families, except that the Secretary may establish income ceilings higher or lower than 80 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes.
 
 &emsp;(11) The term “families” has the same meaning given that term by section 1437a of this title.
 
@@ -56,7 +56,7 @@ As used in this subchapter and in subchapter II of this chapter:
 
 &emsp;&emsp;(A) any individual who is a displaced homemaker may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while a homemaker, owned a home with his or her spouse or resided in a home owned by the spouse;
 
-&emsp;&emsp;(B) any individual who is a single parent may not be excluded from consideration as afirst-time homebuyer under this paragraph on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse; and
+&emsp;&emsp;(B) any individual who is a single parent may not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse; and
 
 &emsp;&emsp;(C) an individual shall not be excluded from consideration as a first-time homebuyer under this paragraph on the basis that the individual owns or owned, as a principal residence during such 3-year period, a dwelling unit whose structure is—
 
@@ -102,7 +102,7 @@ This Act, referred to in pars. (1), (2), (6), (16), and (21), is Pub. L. 101–6
 
 1994—Par. (2). Pub. L. 103–233 struck out “and” after “Columbia,” and inserted before period at end “, or any agency or instrumentality thereof that is established pursuant to legislation and designated by the chief executive officer to act on behalf of the State with regard to the provisions of this Act”.
 
-1992—Par. (1). Pub. L. 102–550, §211(a)(1), amended this section to read as if amendment made by Pub. L. 102–230, §2(1), had not been enacted. See 1991 Amendment note below.
+1992—Par. (1). Pub. L. 102–550, §211(a)(1), amended this section to read as if amendment made by Pub. L.102–230, §2(1), had not been enacted. See 1991 Amendment note below.
 
 Par. (6). Pub. L. 102–550, §217(a), inserted concluding provisions.
 

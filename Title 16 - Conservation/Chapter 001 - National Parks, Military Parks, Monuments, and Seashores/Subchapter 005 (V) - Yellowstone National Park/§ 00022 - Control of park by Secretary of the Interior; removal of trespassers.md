@@ -8,7 +8,7 @@ The Yellowstone National Park shall be under the exclusive control of the Secret
 
 R.S. §2475 derived from act Mar. 1, 1872, ch. 24, §2, 17 Stat. 33.
 
-The words “whose duty it shall be, as soon as practicable, to make and publish such regulations as he may deem necessary or proper for the care and management of the same” were omitted from the end of the first sentence as executed legislation.
+The words “whose duty it shall be, as soon as practicable, to make and publish such regulations as hemay deem necessary or proper for the care and management of the same” were omitted from the end of the first sentence as executed legislation.
 
 The words “In addition to the powers and duties enumerated in section 3 of this title not inconsistent with this section” were added to relate this section to later law, defining the duties of the Secretary of the Interior as to national parks.
 

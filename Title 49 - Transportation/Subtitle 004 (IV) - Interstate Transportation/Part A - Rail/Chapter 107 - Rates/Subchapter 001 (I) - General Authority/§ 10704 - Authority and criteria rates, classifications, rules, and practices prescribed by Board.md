@@ -18,7 +18,7 @@
 
 &emsp;(2) within 6 months after the close of the administrative record if the determination is based upon the methodology adopted by the Board pursuant to section 10701(d)(3).
 
-(d) Within 9 months after January 1, 1996, the Board shall establish procedures to ensure expeditious handling of challenges to the reasonableness of railroad rates. The procedures shall include appropriate measures for avoiding delay in the discovery and evidentiary phases of such proceedings and exemption or revocation proceedings, including appropriate sanctions forsuch delay, and for ensuring prompt disposition of motions and interlocutory administrative appeals.
+(d) Within 9 months after January 1, 1996, the Board shall establish procedures to ensure expeditious handling of challenges to the reasonableness of railroad rates. The procedures shall include appropriate measures for avoiding delay in the discovery and evidentiary phases of such proceedings and exemption or revocation proceedings, including appropriate sanctions for such delay, and for ensuring prompt disposition of motions and interlocutory administrative appeals.
 
 (Added Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 810; amended Pub. L. 104–287, §5(23), Oct. 11, 1996, 110 Stat. 3390.)
 

@@ -24,7 +24,7 @@ The provisions of this chapter and section 1346(b) of this title shall not apply
 
 \[(g) Repealed. Sept. 26, 1950, ch. 1049, §13 (5), 64 Stat. 1043.\]
 
-(h) Any claim arising out of assault, battery, false imprisonment, false arrest, malicious prosecution, abuse of process, libel, slander, misrepresentation, deceit, or interference with contract rights: <i>Provided</i>, That, with regard to actsor omissions of investigative or law enforcement officers of the United States Government, the provisions of this chapter and section 1346(b) of this title shall apply to any claim arising, on or after the date of the enactment of this proviso, out of assault, battery, false imprisonment, false arrest, abuse of process, or malicious prosecution. For the purpose of this subsection, “investigative or law enforcement officer” means any officer of the United States who is empowered by law to execute searches, to seize evidence, or to make arrests for violations of Federal law.
+(h) Any claim arising out of assault, battery, false imprisonment, false arrest, malicious prosecution, abuse of process, libel, slander, misrepresentation, deceit, or interference with contract rights: <i>Provided</i>, That, with regard to acts or omissions of investigative or law enforcement officers of the United States Government, the provisions of this chapter and section 1346(b) of this title shall apply to any claim arising, on or after the date of the enactment of this proviso, out of assault, battery, false imprisonment, false arrest, abuse of process, or malicious prosecution. For the purpose of this subsection, “investigative or law enforcement officer” means any officer of the United States who is empowered by law to execute searches, to seize evidence, or to make arrests for violations of Federal law.
 
 (i) Any claim for damages caused by the fiscal operations of the Treasury or by the regulation of the monetary system.
 
@@ -66,17 +66,17 @@ Panama Canal Company, referred to in subsec. (m), deemed to refer to Panama Cana
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–185 substituted “any goods, merchandise, or other property” for “any goods or merchandise” and “law enforcement” for “law-enforcement”, inserted “, except that the provisions of this chapter and section 1346(b) of this title apply to any claim based on injury or loss of goods, merchandise, or other property, while in the possession of any officer of customs or excise or any other law enforcement officer, if—”, and added pars. (1) to (4).
+2000—Subsec. (c). Pub. L. 106–185 substituted “any goods, merchandise, or other property” for “any goods or merchandise” and “law enforcement” for “law-enforcement”, inserted “, except that the provisions of this chapter and section 1346(b) of this title apply toany claim based on injury or loss of goods, merchandise, or other property, while in the possession of any officer of customs or excise or any other law enforcement officer, if—”, and added pars. (1) to (4).
 
-<b>1974</b>—Subsec. (h). Pub. L. 93–253 inserted proviso.
+1974—Subsec. (h). Pub. L. 93–253 inserted proviso.
 
-<b>1959</b>—Subsec. (n). Pub. L. 86–168 added subsec. (n).
+1959—Subsec. (n). Pub. L. 86–168 added subsec. (n).
 
-<b>1950</b>—Subsec. (g). Act Sept. 26, 1950, §13(5), repealed subsec. (g).
+1950—Subsec. (g). Act Sept. 26, 1950, §13(5), repealed subsec. (g).
 
 Subsec. (m). Act Sept. 26, 1950, §2, substituted “Panama Canal Company” for “Panama Railroad Company”.
 
-<b>1949</b>—Subsec. (m). Act July 16, 1949, added subsec. (m).
+1949—Subsec. (m). Act July 16, 1949, added subsec. (m).
 
 #### Effective Date of 2000 Amendment
 
@@ -92,6 +92,8 @@ Amendment by act Sept. 26, 1950, to take effect upon effective date of transfer 
 
 #### Transfer of Functions
 
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of all other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 
 For transfer of certain functions relating to claims and litigation, insofar as they pertain to the Air Force, from Secretary of the Army to Secretary of the Air Force, see Secretary of Defense Transfer Order No. 34 \[§1a(2)(4)\], eff. July 1, 1949.
@@ -106,13 +108,11 @@ Declaration of national emergency in effect on Sept. 14, 1976, was terminated tw
 
 #### Applicability of Subsec. (j)
 
-Joint Res. July 3, 1952, ch. 570, §1(a)(32), 66 Stat. 333, as amended by Joint Res. Mar. 31, 1953, ch. 13, §1, 67Stat. 18, and Joint Res. June 30, 1953, ch. 172, 67 Stat. 132, provided that subsec. (j) of this section, in addition to coming into full force and effect in time of war, should continue in force until six months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950 by 1950 Proc. No. 2914, 15 F.R. 9029, set out as a note preceding section 1 of Title 50 Appendix, War and National Defense, or such earlier date or dates as may be provided for by Congress, but in no event beyond Aug. 1, 1953. Section 7 of Joint Res. July 3, 1952, provided that it should become effective June 16, 1952.
+Joint Res. July 3, 1952, ch. 570, §1(a)(32), 66 Stat. 333, as amended by Joint Res. Mar. 31, 1953, ch. 13, §1, 67 Stat. 18, and Joint Res. June 30, 1953, ch. 172, 67 Stat. 132, provided that subsec. (j) of this section, in addition to coming into full force and effect in time of war, should continue in force until six months after the termination of the national emergency proclaimed by the President on Dec. 16, 1950 by 1950 Proc. No. 2914, 15 F.R. 9029, set out as a note preceding section 1 of Title 50 Appendix, War and National Defense, or such earlier date or dates as may be provided for by Congress, but in no event beyond Aug. 1, 1953. Section 7 of Joint Res. July 3, 1952, provided that it should become effective June 16, 1952.
 
 Joint Res. July 3, 1952, ch. 570, §6, 66 Stat. 334, repealed Joint Res. Apr. 14, 1952, ch. 204, 66 Stat. 54 as amended by Joint Res. May 28, 1952, ch. 339, 66 Stat. 96; Joint Res. June 14, 1952, ch. 437, 66 Stat. 137; Joint Res. June 30, 1952, ch. 526, 66 Stat. 296, which continued provisions of subsec. (j) of this section until July 3, 1952. This repeal was made effective June 16, 1952, by section 7 of Joint Res. July 3, 1952.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in title 5 section 8477; title 8 section 1357; title 10 sections 1054, 1089; title 15 section 2053; title 19 section 1630; title 21 section 904; title 22 sections 1474, 2702; title 31 section 3724; title 38 section 7316; title 42 sections 233, 2458a.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(E) who agrees to participate in such loan assessment, borrower training, and financial management programs as the Secretary may require;
 
-&emsp;&emsp;(F) who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 25 percent of the median acreage of the farms or ranches, as the case may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter; and
+&emsp;&emsp;(F) who does not own land or who, directly or through interests in family farm corporations, owns land, the aggregate acreage of which does not exceed 30 percent of the median acreage of the farms or ranches, as the case may be, in the county in which the farm or ranch operations of the applicant are located, as reported in the most recent census of agriculture, except that this subparagraph shall not apply to a loan made or guaranteed under subchapter II of this chapter; and
 
 &emsp;&emsp;(G) who demonstrates that the available resources of the applicant and spouse (if any) of the applicant are not sufficient to enable the applicant to continue farming or ranching on a viable scale.
 
@@ -78,7 +78,47 @@ In general.—Except as provided in subparagraph (B), the term “debt forgivene
 
 &emsp;&emsp;(B)
 
-Loan restructuring.—The term “debt forgiveness” does not include consolidation, rescheduling, reamortization, or deferral.
+Exceptions.—The term “debt forgiveness” does not include—
+
+&emsp;&emsp;&emsp;(i) consolidation, rescheduling, reamortization, or deferral of a loan; or
+
+&emsp;&emsp;&emsp;(ii) any write-down provided as part of a resolution of a discrimination complaint against the Secretary.
+
+&emsp;(13)
+
+Rural and rural area.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as otherwise provided in this paragraph, the terms “rural” and “rural area” mean any area other than—
+
+&emsp;&emsp;&emsp;(i) a city or town that has a population of greater than 50,000 inhabitants; and
+
+&emsp;&emsp;&emsp;(ii) the urbanized area contiguous and adjacent to such a city or town.
+
+&emsp;&emsp;(B)
+
+Water and waste disposal grants and direct and guaranteed loans.—For the purpose of water and waste disposal grants and direct and guaranteed loans provided under paragraphs (1), (2), and (24) of section 1926(a) of this title, the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of no more than 10,000 inhabitants.
+
+&emsp;&emsp;(C)
+
+Community facility loans and grants.—For the purpose of community facility direct and guaranteed loans and grants under paragraphs (1), (19), (20), (21), and (24) of section 1926(a) of this title, the terms “rural” and “rural area” mean a city, town, or unincorporated area that has a population of not more than 20,000 inhabitants.
+
+&emsp;&emsp;(D)
+
+Multijurisdictional regional planning organizations; national rural development partnership.—In sections 1926(a)(23) and 2008m of this title, the term “rural area” means—
+
+&emsp;&emsp;&emsp;(i) all the territory of a State that is not within the boundary of any standard metropolitan statistical area; and
+
+&emsp;&emsp;&emsp;(ii) all territory within any standard metropolitan statistical area within a census tract having a population density of less than 20 persons per square mile, as determined by the Secretary according to the most recent census of the United States as of any date.
+
+&emsp;&emsp;(E)
+
+Rural business investment program.—In subchapter VIII of this chapter, the term “rural area” means an area that is located—
+
+&emsp;&emsp;&emsp;(i) outside a standard metropolitan statistical area; or
+
+&emsp;&emsp;&emsp;(ii) within a community that has a population of 50,000 inhabitants or less.
 
 (b) As used in sections 1927(e), 1981d, 1985(e) and (f), 1988(b), 2000(b) and (c), 2001, and 2005 of this title:
 
@@ -100,7 +140,7 @@ Loan restructuring.—The term “debt forgiveness” does not include consolida
 
 Preservation loan service program.—The term “preservation loan service program” means homestead retention as authorized under section 2000 of this title.
 
-(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275.)
+(Pub. L. 87–128, title III, §343, as added Pub. L. 87–703, title IV, §401(5), Sept. 27, 1962, 76 Stat. 632; amended Pub. L. 89–586, Sept. 19, 1966, 80 Stat. 809; Pub. L. 92–419, title I, §128(a), Aug. 30, 1972, 86 Stat. 666; Pub. L. 95–334, title I, §124, Aug. 4, 1978, 92 Stat. 428; Pub. L. 96–438, §2(2), Oct. 13, 1980, 94 Stat. 1872; Pub. L. 99–198, title XIII, §1301(b), Dec. 23, 1985, 99 Stat. 1519; Pub. L. 100–233, title VI, §602, Jan. 6, 1988, 101 Stat. 1665; Pub. L. 101–624, title XVIII, §1814, title XXIII, §2388(h), Nov. 28, 1990, 104 Stat. 3824, 4053; Pub. L. 102–237, title VII, §702(h)(1), Dec. 13, 1991, 105 Stat. 1880; Pub. L. 102–554, §19, Oct. 28, 1992, 106 Stat. 4158; Pub. L. 104–127, title VI, §§640, 661(h), title VII, §749(b)(2), Apr. 4, 1996, 110 Stat. 1098, 1107, 1129; Pub. L. 105–113, §3(c), Nov. 21, 1997, 111 Stat. 2275; Pub. L. 107–171, title V, §5310, title VI, §6020(a), May 13, 2002, 116 Stat. 346, 362.)
 
 #### References in Text
 
@@ -113,6 +153,12 @@ The Economic Opportunity Act of 1961, referred to in subsec. (a)(10), probably m
 Section 1254 of the Food Security Act of 1985, referred to in subsec. (a)(10), is section 1254 of Pub. L. 99–198, title XII, Dec. 23, 1985, 99 Stat. 1517, which amended Pub. L. 98–258, §608, set out as a note under section 1981 of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(11)(F). Pub. L. 107–171, §5310(a), substituted “30 percent” for “25 percent”.
+
+Subsec. (a)(12)(B). Pub. L. 107–171, §5310(b), amended heading and text of subpar. (B) generally. Prior to amendment, text read as follows: “The term ‘debt forgiveness’ does not include consolidation, rescheduling, reamortization, or deferral.”
+
+Subsec. (a)(13). Pub. L. 107–171, §6020(a), added par. (13).
 
 1997—Subsec. (a)(11)(F). Pub. L. 105–113 struck out “taken under section 142 of title 13” after “census of agriculture”.
 
@@ -182,5 +228,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 25 section 492.
+This section is referred to in section 2001 of this title; title 25 section 492.
 

@@ -38,15 +38,15 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a)(1). Pub. L. 106–130 inserted “and Wheaton” before period at end.
+1999—Subsec. (a)(1). Pub. L. 106–130 inserted “and Wheaton” before period at end.
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–620, §406(a)(1), struck out De Kalb and McHenry from the counties comprising the Eastern Division of the Northern District.
+1984—Subsec. (a)(1). Pub. L. 98–620, §406(a)(1), struck out De Kalb and McHenry from the counties comprising the Eastern Division of the Northern District.
 
 Subsec. (a)(2). Pub. L. 98–620, §406(a)(2), added De Kalb and McHenry to the counties comprising the Western Division of the Northern District.
 
 Subsec. (b). Pub. L. 98–620, §406(c), provided for holding court at Champaign/Urbana.
 
-<b>1978</b>—Pub. L. 95–408 substituted in introductory provisions “Northern, Central, and Southern Districts of Illinois” for “Northern, Southern, and Eastern Districts of Illinois”.
+1978—Pub. L. 95–408 substituted in introductory provisions “Northern, Central, and Southern Districts of Illinois” for “Northern, Southern, and Eastern Districts of Illinois”.
 
 Subsec. (a)(1). Pub. L. 95–573, §1(1), struck out Kankakee from the counties comprising the Eastern Division of the Northern District.
 
@@ -58,11 +58,11 @@ Pub. L. 95–408 substituted “Central District” for “Southern District” 
 
 Subsec. (c). Pub. L. 95–408 substituted “Southern District” for “Eastern District” in heading, and in such Southern District added counties of Bond, Calhoun, Jersey, and Madison to, and struck out counties of Champaign, Coles, Douglas, Edgar, Ford, Iroquois, Kankakee, Moultrie, Piatt, Shelby and Vermilion from, those counties comprising Southern District, and substituted provisions for holding of a term of Court for Southern District at Alton, Benton, Cairo, and East Saint Louis for provisions for holding of a term of Court for Eastern District at Benton, Cairo, Danville, and East Saint Louis.
 
-<b>1970</b>—Subsec. (a)(2). Pub. L. 91–272 provided for holding court at Rockford.
+1970—Subsec. (a)(2). Pub. L. 91–272 provided for holding court at Rockford.
 
-<b>1961</b>—Subsec. (b)(2). Pub. L. 87–36 provided for holding court at Alton.
+1961—Subsec. (b)(2). Pub. L. 87–36 provided for holding court at Alton.
 
-<b>1950</b>—Subsec. (b)(1). Act Aug. 10, 1950, provided for holding court at Rock Island.
+1950—Subsec. (b)(1). Act Aug. 10, 1950, provided for holding court at Rock Island.
 
 #### Effective Date of 1984 Amendment
 

@@ -6,7 +6,7 @@ Except as provided in subsections (b) and (c) of this section, or otherwise spec
 
 #### (b) Facilities constructed or operated under section 2134(b)
 
-Any license hereafter issued for a utilization or production facility for industrial or commercial purposes, the construction or operation of which was licensed pursuant to section 2134(b) of this title prior to enactment into law of this subsection, shall be issued under section 2134(b) of this title.
+Any license hereafter issued for a utilization or production facility for industrial or commercial purposes, the construction or operation of which was licensed pursuant to section 2134(b) ofthis title prior to enactment into law of this subsection, shall be issued under section 2134(b) of this title.
 
 #### (c) Cooperative Power Reactor Demonstration facilities
 

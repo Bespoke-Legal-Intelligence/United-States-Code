@@ -8,6 +8,10 @@ It is hereby declared to be the policy of the United States that certain selecte
 
 Section consists of subsec. (b) of section 1 of Pub. L. 90–542. Subsecs. (a) and (c) of section 1 are classified to section 1272 of this title and as a note under this section, respectively.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–365, §1, Dec. 19, 2002, 116 Stat. 3027, provided that: “This Act \[amending section 1274 of this title and enacting provisions set out as a note under section 1274 of this title\] may be cited as the ‘Caribbean National Forest Wild and Scenic Rivers Act of 2002’.”
+
 #### Short Title of 2001 Amendment
 
 Pub. L. 107–65, §1, Nov. 6, 2001, 115 Stat. 484, provided that: “This Act \[amending section 1276 of this title\] may be cited as the ‘Eightmile River Wild and Scenic River Study Act of 2001’.”
@@ -76,7 +80,7 @@ Pub. L. 99–590, title II, §201, Oct. 30, 1986, 100 Stat. 3332, provided that:
 
 #### Short Title of 1972 Amendment
 
-Section 1 of Pub. L. 92–560, Oct. 25, 1972, 86 Stat. 1174, provided: “That this Act \[amending section 1274 of this title and enacting provisions classified as a note under section 1274 of this title\] may be cited as the ‘Lower Saint Croix River Act of 1972’.”
+Section 1 of Pub. L. 92–560, Oct. 25, 1972, 86 Stat. 1174, provided: “That this Act \[amending section 1274 of this title and enacting provisions classified as a note undersection 1274 of this title\] may be cited as the ‘Lower Saint Croix River Act of 1972’.”
 
 #### Short Title
 

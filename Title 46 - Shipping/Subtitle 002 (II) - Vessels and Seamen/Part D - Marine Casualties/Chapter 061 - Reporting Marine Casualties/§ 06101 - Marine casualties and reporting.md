@@ -20,9 +20,9 @@
 
 (2) This part applies, to the extent consistent with generally recognized principles of international law, to a foreign vessel constructed or adapted to carry, or that carries, oil in bulk as cargo or cargo residue involved in a marine casualty described under subsection (a)(4) or (5) in waters subject to the jurisdiction of the United States, including the Exclusive Economic Zone.
 
-(e) <sup>1</sup> A marine casualty not resulting in the death of an individual shall be classified according to the gravity of the casualty, as prescribed by regulation, giving consideration to the extent of injuries to individuals, the extent of property damage, the dangers that the casualty creates, and the size, occupation, and means of propulsion of each vessel involved.
+(e) A marine casualty not resulting in the death of an individual shall be classified according to the gravity of the casualty, as prescribed by regulation, giving consideration to the extent of injuries to individuals, the extent of property damage, the dangers that the casualty creates, and the size, occupation, and means of propulsion of each vessel involved.
 
-(e)(1) <sup>1</sup> This chapter applies to a marine casualty involving a United States citizen on a foreign passenger vessel operating south of 75 degrees north latitude, west of 35 degrees west longitude, and east of the International Date Line; or operating in the area south of 60 degrees south latitude that—
+(f)(1) This chapter applies to a marine casualty involving a United States citizen on a foreign passenger vessel operating south of 75 degrees north latitude, west of 35 degrees west longitude, and east of the International Date Line; or operating in the area south of 60 degrees south latitude that—
 
 &emsp;(A) embarks or disembarks passengers in the United States; or
 
@@ -40,7 +40,23 @@
 
 &emsp;(B) conduct an investigation of the casualty under chapter 63 of this title.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(1), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 98–557, §7(b)(1), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–380, title IV, §4106(b), Aug. 18, 1990, 104 Stat. 513; Pub. L. 102–241, §33, Dec. 19, 1991, 105 Stat. 2222.)
+(g) <sup>1</sup> To the extent consistent with generally recognized practices and procedures of international law, this part applies to a foreign vessel involved in a marine casualty or incident, as defined in the International Maritime Organization Code for the Investigation of Marine Casualties and Incidents, where the United States is a Substantially Interested State and is, or has the consent of, the Lead Investigating State under the Code.
+
+(g)(1) <sup>1</sup> The Secretary shall publish all major marine casualty reports prepared in accordance with this section in an electronic form, and shall provide information electronically regarding how other marine casualty reports can be obtained.
+
+(2) For purposes of this paragraph, the term “major marine casualty” means a casualty involving a vessel, other than a public vessel, that results in—
+
+&emsp;(A) the loss of 6 or more lives;
+
+&emsp;(B) the loss of a mechanically propelled vessel of 100 or more gross tons;
+
+&emsp;(C) property damage initially estimated at $500,000 or more; or
+
+&emsp;(D) serious threat, as determined by the Commandant of the Coast Guard with concurrence by the Chairman of the National Transportation Safety Board, to life, property, or the environment by hazardous materials.
+
+(h) The Secretary shall, as soon as possible, and no later than January 1, 2005, publish all marine casualty reports prepared in accordance with this section in an electronic form.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 536; Pub. L. 98–498, title II, §212(b)(1), Oct. 19, 1984, 98 Stat. 2306; Pub. L. 98–557, §7(b)(1), Oct. 30, 1984, 98 Stat. 2862; Pub. L. 101–380, title IV, §4106(b), Aug. 18, 1990, 104 Stat. 513; Pub. L. 102–241, §33, Dec. 19, 1991, 105 Stat. 2222; Pub. L. 107–295, title IV, §§423, 442(a), Nov. 25, 2002, 116 Stat. 2125, 2132.)
 
 Historical and Revision Notes
 
@@ -74,6 +90,14 @@ Subsection (e) provides for the classification of marine casualties by regulatio
 
 #### Amendments
 
+2002—Subsecs. (e), (f). Pub. L. 107–295, §423(1), redesignated subsec. (e), relating to passenger vessel investigations, as subsec. (f).
+
+Subsec. (g). Pub. L. 107–295, §442(a), added subsec. (g) relating to electronic publishing of marine casualty reports.
+
+Pub. L. 107–295, §423(2), added subsec. (g) relating to applicability of this part to a foreign vessel involved in a marine casualty or incident.
+
+Subsec. (h). Pub. L. 107–295, §442(a), added subsec. (h).
+
 1991—Subsec. (e). Pub. L. 102–241 added subsec. (e) relating to passenger vessel investigations.
 
 1990—Subsec. (a)(5). Pub. L. 101–380, §4106(b)(1), added par. (5).
@@ -86,6 +110,10 @@ Subsec. (b). Pub. L. 98–557 inserted provisions relating to alcohol as a contr
 
 Subsec. (c). Pub. L. 98–498, §212(b)(1)(B), struck out subsec. (c) which related to determination of status of a vessel that may be lost or imperiled and notification of the Coast Guard.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–295, title IV, §442(b), Nov. 25, 2002, 116 Stat. 2132, provided that: “The amendment made by subsection (a) \[amending this section\] applies to all marine casualty reports completed after the date of enactment of this Act \[Nov. 25, 2002\].”
+
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 1990, see section 1020 of Pub. L. 101–380, set out as an Effective Date note under section 2701 of Title 33, Navigation and Navigable Waters.
@@ -94,9 +122,13 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 Amendment by Pub. L. 98–498 effective 180 days after Oct. 1, 1984, see section 214 of Pub. L. 98–498, set out as an Effective Date note under section 2306 of this title.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 6103, 9101 of this title; title 49 section 1133.
 
-<i><sup>1</sup></i><i> So in original. Two subsecs. (e) have been enacted.</i>
+<i><sup>1</sup></i><i> So in original. Two subsecs. (g) have been enacted.</i>
 

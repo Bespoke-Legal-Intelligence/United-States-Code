@@ -11,9 +11,14 @@
 | [507\.](%C2%A7%2000507%20-%20Application%20to%20other%20property.md) | Application to other property. |
 | [508\.](%C2%A7%2000508%20-%20Enforcement.md) | Enforcement. |
 | [509\.](%C2%A7%2000509%20-%20Penalty.md) | Penalty. |
-| [510\.](%C2%A7%2000510%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [510\.](%C2%A7%2000510%20-%20Disclosure%20of%20and%20prohibition%20on%20certain%20donations.md) | Disclosure of and prohibition on certain donations.<sup>1</sup> |
+| [510\.](%C2%A7%2000510%20-%20Disclosure%20of%20and%20prohibition%20on%20certain%20donations.md) | Authorization of appropriations.<sup>2</sup> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<i><sup>1</sup></i><i> Editorially supplied. Section 510 added by Pub. L. 107–155 without corresponding amendment of chapter analysis.</i>
+
+<i><sup>2</sup></i><i> Section 510 redesignated 511 by Pub. L. 107–155 without corresponding amendment of chapter analysis.</i>
 
 
 ---
@@ -29,4 +34,5 @@
 - [&sect; 00507 - Application to other property](%C2%A7%2000507%20-%20Application%20to%20other%20property.md)
 - [&sect; 00508 - Enforcement](%C2%A7%2000508%20-%20Enforcement.md)
 - [&sect; 00509 - Penalty](%C2%A7%2000509%20-%20Penalty.md)
-- [&sect; 00510 - Authorization of appropriations](%C2%A7%2000510%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00510 - Disclosure of and prohibition on certain donations](%C2%A7%2000510%20-%20Disclosure%20of%20and%20prohibition%20on%20certain%20donations.md)
+- [&sect; 00511 - Authorization of appropriations](%C2%A7%2000511%20-%20Authorization%20of%20appropriations.md)

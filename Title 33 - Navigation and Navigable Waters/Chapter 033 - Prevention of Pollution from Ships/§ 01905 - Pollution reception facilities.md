@@ -12,11 +12,11 @@ In determining the adequacy of reception facilities required by the MARPOL Proto
 
 #### (c) Certificate; issuance; validity; inspection; review of suspension or revocation by Secretary
 
-(1) If reception facilities of a port or terminal meet the requirements of Annex I and Annex II to the Convention and the regulations prescribed under subsection (a)(1) of this section, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant.
+(1) If reception facilities of a port or terminal meet the requirements of Annex I and Annex IIto the Convention and the regulations prescribed under subsection (a)(1) of this section, the Secretary shall, after consultation with the Administrator of the Environmental Protection Agency, issue a certificate to that effect to the applicant.
 
 (2)(A) Subject to subparagraph (B), if reception facilities of a port or terminal meet the requirements of Annex V to the Convention and the regulations prescribed under subsection (a)(2) of this section, the Secretary may, after consultation with appropriate Federal agencies, issue a certificate to that effect to the person in charge of the port or terminal.
 
-(B) The Secretary may not issue a certificate attesting to the adequacy of reception facilitiesunder this paragraph unless, prior to the issuance of the certificate, the Secretary conducts an inspection of the reception facilities of the port or terminal that is the subject of the certificate.
+(B) The Secretary may not issue a certificate attesting to the adequacy of reception facilities under this paragraph unless, prior to the issuance of the certificate, the Secretary conducts an inspection of the reception facilities of the port or terminal that is the subject of the certificate.
 
 (C) The Secretary may, with respect to certificates issued under this paragraph prior to October 19, 1996, prescribe by regulation differing periods of validity for such certificates.
 
@@ -82,7 +82,7 @@ Pub. L. 104–227, §201(d)(4), inserted “or the Antarctic Protocol” after �
 
 1989—Subsec. (c)(1). Pub. L. 101–225 substituted “Annex I and Annex II” for “Annex V”.
 
-1987—Subsec. (a). Pub. L. 100–220, §2103(a), designated existing provisions as par. (1), substituted “a port's or terminal's reception facilities for mixtures containing oil or noxious liquid substances” for “reception facilities of a port or terminal”, and added par. (2).
+1987—Subsec. (a). Pub. L. 100–220, §2103(a), designated existing provisions as par. (1), substituted “a port's orterminal's reception facilities for mixtures containing oil or noxious liquid substances” for “reception facilities of a port or terminal”, and added par. (2).
 
 Subsec. (b). Pub. L. 100–220, §2103(b), inserted “and in establishing regulations under subsection (a) of this section,” and “ships or”.
 

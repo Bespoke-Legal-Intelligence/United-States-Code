@@ -104,7 +104,7 @@ Section 202 of Pub. L. 101–437 provided that: “The Congress finds that—
 
 &emsp;“(4) television is watched by children about three hours each day on average and can be effective in teaching children;
 
-&emsp;“(5) educational television programming for children is aired too infrequently either because publicbroadcast licensees and permittees lack funds or because commercial broadcast licensees and permittees or cable television system operators do not have the economic incentive; and
+&emsp;“(5) educational television programming for children is aired too infrequently either because public broadcast licensees and permittees lack funds or because commercial broadcast licensees and permittees or cable television system operators do not have the economic incentive; and
 
 &emsp;“(6) the Federal Government can assist in the creation of children's educational television by establishing a National Endowment for Children's Educational Television to supplement the children's educational programming funded by other governmental entities.”
 

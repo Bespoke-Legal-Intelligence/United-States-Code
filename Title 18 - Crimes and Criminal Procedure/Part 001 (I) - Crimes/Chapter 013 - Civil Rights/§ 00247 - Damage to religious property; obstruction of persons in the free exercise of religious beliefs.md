@@ -28,9 +28,13 @@
 
 (g) No person shall be prosecuted, tried, or punished for any noncapital offense under this section unless the indictment is found or the information is instituted not later than 7 years after the date on which the offense was committed.
 
-(Added Pub. L. 100–346, §1, June 24, 1988, 102 Stat. 644; amended Pub. L. 103–322, title VI, §60006(d), title XXXII, §320103(d), Sept. 13, 1994, 108 Stat. 1971, 2110; Pub. L. 104–155, §3, July 3, 1996, 110 Stat. 1392; Pub. L. 104–294, title VI, §§601(c)(3), 605(r), Oct. 11, 1996, 110 Stat. 3499, 3511.)
+(Added Pub. L. 100–346, §1, June 24, 1988, 102 Stat. 644; amended Pub. L. 103–322, title VI, §60006(d), title XXXII, §320103(d), Sept. 13, 1994, 108 Stat. 1971, 2110; Pub. L. 104–155, §3, July 3, 1996, 110 Stat. 1392; Pub. L. 104–294, title VI, §§601(c)(3), 605(r), Oct. 11, 1996, 110 Stat. 3499, 3511; Pub. L. 107–273, div. B, title IV, §4002(c)(1), (e)(4), Nov. 2, 2002, 116 Stat. 1808, 1810.)
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–273, §4002(c)(1), repealed amendment by Pub. L. 107–273, §605(r). See 1996 Amendment note below.
+
+Subsec. (e). Pub. L. 107–273, §4002(e)(4), made technical correction to directory language of Pub. L. 104–294, §601(c)(3). See 1996 Amendment note below.
 
 1996—Subsec. (a). Pub. L. 104–155, §3(1), substituted “subsection (d)” for “subsection (c) of this section” in concluding provisions.
 
@@ -42,6 +46,8 @@ Subsec. (b). Pub. L. 104–155, §3(3), added subsec. (b) and struck out former 
 
 Subsec. (c). Pub. L. 104–155, §3(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
+Subsec. (d). Pub. L. 104–294, §605(r), which directed the substitution of “certification” for “notification” in subsec. (d), was repealed by Pub. L. 107–273, §4002(c)(1).
+
 Subsec. (d). Pub. L. 104–155, §3(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
 
 Subsec. (d)(2). Pub. L. 104–155, §3(4)(C), added par. (2). Former par. (2) redesignated (3).
@@ -50,7 +56,7 @@ Subsec. (d)(3). Pub. L. 104–155, §3(4)(A), (B), redesignated par. (2) as (3),
 
 Subsec. (d)(4). Pub. L. 104–155, §3(4)(B), redesignated par. (3) as (4).
 
-Subsec. (e). Pub. L. 104–294, §§601(c)(3), 605(r), which directed identical amendments of subsec. (d) by substituting “certification” for “notification”, was executed by making the substitution in subsec. (e) to reflect the probable intent of Congress and the redesignation of subsec. (d) as (e) by Pub. L. 104–155. See below.
+Subsec. (e). Pub. L. 104–294, §601(c)(3), as amended by Pub. L. 107–273, §4002(e)(4), substituted “certification” for “notification”.
 
 Pub. L. 104–155, §3(2), redesignated subsec. (d) as (e). Former subsec. (e) redesignated (f).
 
@@ -69,6 +75,12 @@ Subsec. (e). Pub. L. 103–322, §320103(d)(3), amended subsec. (e) generally. P
 &emsp;“(1) the term ‘religious real property’ means any church, synagogue, mosque, religious cemetery, or other religious real property; and
 
 &emsp;“(2) the term ‘serious bodily injury’ means bodily injury that involves a substantial risk of death, unconsciousness, extreme physical pain, protracted and obvious disfigurement, or protracted loss or impairment of the function of a bodily member, organ, or mental faculty.”
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
+
+Pub. L. 107–273, div. B, title IV, §4002(e)(4), Nov. 2, 2002, 116 Stat. 1810, provided that the amendment made by section 4002(e)(4) is effective Oct. 11, 1996.
 
 #### Congressional Findings
 

@@ -24,6 +24,18 @@ The words “or officer” are added for clarity and to align this section with 
 
 The words “special attorneys appointed under section 543” are substituted for “attorneys appointed under section 543” to reflect the revision of this title.
 
+#### Use of Annuity Brokers in Structured Settlements
+
+Pub. L. 107–273, div. C, title I, §11015, Nov. 2, 2002, 116 Stat. 1824, provided that:
+
+“(a)
+
+Establishment and Transmission of List of Approved Annuity Brokers.—Not later than 6 months after the date of enactment of this Act \[Nov. 2, 2002\], the Attorney General shall establish a list of annuity brokers who meet minimum qualifications for providing annuity brokerage services in connection with structured settlements entered by the United States. This list shall be updated upon request by any annuity broker that meets the minimum qualifications for inclusion on the list. The Attorney General shall transmit such list, and any updates to such list, to all United States Attorneys.
+
+“(b)
+
+Authority To Select Annuity Broker for Structured Settlements.—In any structured settlement that is not negotiated exclusively through the Civil Division of the Department of Justice, the United States Attorney (or his designee) involved in any settlement negotiations shall have the exclusive authority to select an annuity broker from the list of such brokers established by the Attorney General, provided that all documents related to any settlement comply with Department of Justice requirements.”
+
 #### Case Management Information and Tracking Systems for Federal Judicial Districts and Divisions of Department; Preparation, Submission, Etc., of Plan
 
 Pub. L. 96–132, §11, Nov. 30, 1979, 93 Stat. 1047, required the Attorney General, not later than Apr. 15, 1980, after consultation with the Director of the Executive Office of United States Attorneys and such Assistant Attorneys as appropriate, to prepare and submit to the Committees on the Judiciary of the Senate and the House of Representatives a plan for the activation and coordination, within the Department of Justice, of compatible, comprehensive case management information and tracking systems for each of the judicial districts of the United States and for each of the divisions of the Department.
@@ -36,7 +48,7 @@ Similar provisions were contained in Pub. L. 95–624, §13, Nov. 9, 1978, 92 St
 
 #### Study and Report to Congress on Extent to Which Violations of Federal Criminal Laws Are Not Prosecuted
 
-Pub. L. 95–624, §17, Nov. 9, 1978, 92 Stat. 3465, provided that the Attorney General undertake a study and make recommendations concerning violations of Federal criminal laws which have not been prosecuted and present such study and recommendations to the Committee on the Judiciary of the Senate and the House of Representatives not later than Oct. 1, 1979.
+Pub. L. 95–624, §17, Nov. 9, 1978, 92 Stat. 3465, provided that the Attorney General undertake a study and make recommendations concerning violations of Federal criminal laws which have not been prosecuted andpresent such study and recommendations to the Committee on the Judiciary of the Senate and the House of Representatives not later than Oct. 1, 1979.
 
 #### Executive Order No. 12778
 
@@ -90,7 +102,7 @@ Sec. 2. <i>Government Pro Bono and Volunteer Service</i>. All Federal agencies s
 
 Sec. 3. <i>Principles to Enact Legislation and Promulgate Regulations Which Do Not Unduly Burden the Federal Court System.</i>
 
-(a) <i>General Duty to Review Legislation and Regulations</i>. Within current budgetary constraints and existing executive branch coordination mechanisms and procedures established in OMB Circular A-19 and Executive Order No. 12866 \[5 U.S.C. 601 note\], each agency promulgating new regulations, reviewing existing regulations, developing legislative proposals concerning regulations, and developing new legislation shall adhere to the following requirements:
+(a) <i>General Duty to Review Legislation and Regulations</i>. Within current budgetary constraints and existing executive branch coordination mechanisms and procedures established in OMB Circular A-19 and ExecutiveOrder No. 12866 \[5 U.S.C. 601 note\], each agency promulgating new regulations, reviewing existing regulations, developing legislative proposals concerning regulations, and developing new legislation shall adhere to the following requirements:
 
 (1) The agency's proposed legislation and regulations shall be reviewed by the agency to eliminate drafting errors and ambiguity;
 
@@ -168,7 +180,7 @@ Sec. 5. <i>Coordination by the Department of Justice.</i>
 
 (a) The Attorney General shall coordinate efforts by Federal agencies to implement sections 1, 2 and 4 of this order.
 
-(b) To implement the principles and purposes announced by this order, the Attorney General is authorized to issue guidelines implementing sections 1 and 4of this order for the Department of Justice. Such guidelines shall serve as models for internal guidelines that may be issued by other agencies pursuant to this order.
+(b) To implement the principles and purposes announced by this order, the Attorney General is authorized to issue guidelines implementing sections 1 and 4 of this order for the Department of Justice. Such guidelines shall serve as models for internal guidelines that may be issued by other agencies pursuant to this order.
 
 Sec. 6. <i>Definitions</i>. For purposes of this order:
 
@@ -186,7 +198,7 @@ Sec. 8. <i>Scope.</i>
 
 (c) <i>Additional Guidance as to Scope</i>. The Attorney General shall have the authority to issue further guidance as to the scope of this order, except section 3, consistent with the purposes of this order.
 
-Sec. 9. <i>Conflicts with Other Rules</i>. Nothing in this order shall be construed to require litigation counsel or any agency to act in a manner contrary to the Federal Rules of Civil Procedure \[28 App. US.C.\], Tax Court Rules of Practice and Procedure \[26 App. U.S.C.\], State or Federal law, other applicable rules of practice or procedure, or court order.
+Sec. 9. <i>Conflicts with Other Rules</i>. Nothing in this order shall be construed to require litigation counsel or any agency to act in a manner contrary to the Federal Rules of Civil Procedure \[28 App. U.S.C.\], Tax Court Rules of Practice and Procedure \[26 App. U.S.C.\], State or Federal law, other applicable rules of practice or procedure, or court order.
 
 Sec. 10. <i>Privileged Information</i>. Nothing in this order shall compel or authorize the disclosure of privileged information, sensitive law enforcement information, information affecting national security, or information the disclosure of which is prohibited by law.
 

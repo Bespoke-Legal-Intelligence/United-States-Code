@@ -5,18 +5,15 @@
 | [371\.](%C2%A7%2000371%20-%20National%20stage%20Commencement.md) | National stage: Commencement. |
 | [372\.](%C2%A7%2000372%20-%20National%20stage%20Requirements%20and%20procedure.md) | National stage: Requirements and procedure. |
 | [373\.](%C2%A7%2000373%20-%20Improper%20applicant.md) | Improper applicant. |
-| [374\.](%C2%A7%2000374%20-%20Publication%20of%20international%20application.md) | Publication of international application: Effect.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [374\.](%C2%A7%2000374%20-%20Publication%20of%20international%20application.md) | Publication of international application. |
 | [375\.](%C2%A7%2000375%20-%20Patent%20issued%20on%20international%20application%20Effect.md) | Patent issued on international application: Effect. |
 | [376\.](%C2%A7%2000376%20-%20Fees.md) | Fees. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 106–113 without corresponding amendment of chapter analysis.</i>
+#### Amendments
+
+1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4507(12)\], as added by Pub. L. 107–273, div. C, title III, §13205(2)(F), Nov. 2, 2002, 116 Stat. 1903, substituted “Publication of international application” for “Publication of international application: Effect” in item 374.
 
 
 ---

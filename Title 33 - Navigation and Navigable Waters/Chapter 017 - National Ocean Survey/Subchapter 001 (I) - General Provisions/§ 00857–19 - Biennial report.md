@@ -12,7 +12,7 @@ Similar provisions were contained in section 3(f)(1) of Pub. L. 106–256, set o
 
 Pub. L. 106–553, §1(a)(2) \[title V\], Dec. 21, 2000, 114 Stat. 2762, 2762A–98.
 
-Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, provided that:
+Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, as amended by Pub. L. 107–206, title I, §206, Aug. 2, 2002, 116 Stat. 833; Pub. L. 107–372, title III, §306, Dec. 19, 2002, 116 Stat. 3096, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -50,7 +50,7 @@ Pub. L. 106–256, Aug. 7, 2000, 114 Stat. 644, provided that:
 
 “(a)
 
-Establishment.—There is hereby established the Commission on Ocean Policy. The Federal Advisory Committee Act (5 U.S.C. App.), except for sections 3, 7, and 12, does not apply to the Commission.
+Establishment.—There is hereby established the Commission on Ocean Policy. The Federal AdvisoryCommittee Act (5 U.S.C. App.), except for sections 3, 7, and 12, does not apply to the Commission.
 
 “(b)
 
@@ -88,7 +88,7 @@ Vacancies.—Any vacancy on the Commission shall be filled in the same manner as
 
 Resources.—In carrying out its functions under this section, the Commission—
 
-&emsp;“(1) is authorized to secure directly from any Federal agency or department any information it deems necessary to carry out its functions under this Act,and each such agency or department is authorized to cooperate with the Commission and, to the extent permitted by law, to furnish such information (other than information described in section 552(b)(1)(A) of title 5, United States Code) to the Commission, upon the request of the Commission;
+&emsp;“(1) is authorized to secure directly from any Federal agency or department any information it deems necessary to carry out its functions under this Act, and each such agency or department is authorized to cooperate with the Commission and, to the extent permitted by law, to furnish such information (other than information described in section 552(b)(1)(A) of title 5, United States Code) to the Commission, upon the request of the Commission;
 
 &emsp;“(2) may enter into contracts, subject to the availability of appropriations for contracting, and employ such staff experts and consultants as may be necessary to carry out the duties of the Commission, as provided by section 3109 of title 5, United States Code; and
 
@@ -104,17 +104,21 @@ Meetings.—
 
 &emsp;“(1)
 
-Administration.—All meetings of the Commission shall be open to the public, except that a meeting or any portion of it may be closed to the public if it concerns matters or information described in section 552b(c) of title 5, United States Code. Interested persons shall be permitted to appear at open meetings and present oral or written statements on the subject matter of the meeting. The Commission may administer oaths or affirmations to any person appearing before it:
+Administration.—All meetings of the Commission shall be open to the public, except that a meeting or any portion of it may be closed to the public if it concerns matters or information described in section 552b(c) of title 5, United States Code. Interested persons shall be permitted to appear at open meetings and present oral or written statements on the subject matter of the meeting. The Commission may administer oaths or affirmations to any person appearing before it.
+
+&emsp;“(2)
+
+Notice; Minutes; Public Availability of Documents.—
 
 &emsp;&emsp;“(A) All open meetings of the Commission shall be preceded by timely public notice in the Federal Register of the time, place, and subject of the meeting.
 
 &emsp;&emsp;“(B) Minutes of each meeting shall be kept and shall contain a record of the people present, a description of the discussion that occurred, and copies of all statements filed. Subject to section 552 of title 5, United States Code, the minutes and records of all meetings and other documents that were made available to or prepared for the Commission shall be available for public inspection and copying at a single location in the offices of the Commission.
 
-&emsp;“(2)
+&emsp;“(3)
 
 Initial meeting.—The Commission shall hold its first meeting within 30 days after all 16 members have been appointed.
 
-&emsp;“(3)
+&emsp;“(4)
 
 Required public meetings.—The Commission shall hold at least one public meeting in Alaska and each of the following regions of the United States:
 
@@ -134,7 +138,7 @@ Report.—
 
 &emsp;“(1)
 
-In general.—Within 18 months after the establishment of the Commission, the Commission shall submit to Congress and the President a final report of its findings and recommendations regarding United States ocean policy.
+In general.—By June 20, 2003, the Commission shall submit to Congress and the President a final report of its findings and recommendations regarding United States ocean policy.
 
 &emsp;“(2)
 
@@ -188,17 +192,17 @@ Administrative Procedure for Report and Review.—Chapter 5 and chapter 7 of tit
 
 “(i)
 
-Termination.—The Commission shall cease to exist 30 days after the date on which it submits its final report.
+Termination.—The Commission shall cease to exist 90 days after the date on which it submits its final report.
 
 “(j)
 
-Authorization of Appropriations.—There are authorized to be appropriated to carry out this section a total of $6,000,000 for the 3 fiscal-year period beginning with fiscal year 2001, such sums to remain available until expended.
+Authorization of Appropriations.—There are authorized to be appropriated to carry out this section a total of $8,500,000 for the 3 fiscal-year period beginning with fiscal year 2001, such sums to remain available until expended.
 
 #### “SEC. 4. NATIONAL OCEAN POLICY.
 
 “(a)
 
-National Ocean Policy.—Within 120 days after receiving and considering the report and recommendations of the Commission under section 3, the President shall submit to Congress a statement of proposals to implement or respond to the Commission's recommendations for a coordinated, comprehensive, and long-range national policy for the responsible use and stewardship of ocean and coastal resources for the benefit of the United States. Nothing in this Act authorizes the President to take any administrative or regulatory action regarding ocean or coastal policy, or to implement a reorganization plan, not otherwise authorized by law in effect at the time of such action.
+National Ocean Policy.—Within 90 days after receiving and considering the report and recommendations of the Commission under section 3, the President shall submit to Congress a statement of proposals to implement or respond to the Commission's recommendations for a coordinated, comprehensive, and long-range national policy for the responsible use and stewardship of ocean and coastal resources for the benefit of the United States. Nothing in this Act authorizes the President to take any administrative or regulatory action regarding ocean or coastal policy, or to implement a reorganization plan, not otherwise authorized by law in effect at the time of such action.
 
 “(b)
 
@@ -233,4 +237,6 @@ Commission.—The term ‘Commission’ means the Commission on Ocean Policy est
 #### “SEC. 7. EFFECTIVE DATE.
 
 “This Act shall become effective on January 20, 2001.”
+
+\[Pub. L. 107–206, title I, §206, Aug. 2, 2002, 116 Stat. 833, which directed the amendment of section (3)(f)(1) of Pub. L. 106–256, set out above, by striking “within 18 months of the establishment of the Commission” and inserting “by June 20, 2003”, was executed by striking “Within 18 months after the establishment of the Commission” and inserting “By June 20, 2003”, to reflect the probable intent of Congress.\]
 

@@ -18,7 +18,7 @@ Specific Powers.—The Office—
 
 &emsp;&emsp;(A) shall govern the conduct of proceedings in the Office;
 
-&emsp;&emsp;(B) shall be made in accordance with section 553 of title 5, United States Code;
+&emsp;&emsp;(B) shall be made in accordance with section 553 of title 5;
 
 &emsp;&emsp;(C) shall facilitate and expedite the processing of patent applications, particularly those which can be filed, stored, processed, searched, and retrieved electronically, subject to the provisions of section 122 relating to the confidential status of applications;
 
@@ -30,15 +30,15 @@ Specific Powers.—The Office—
 
 &emsp;(3) may acquire, construct, purchase, lease, hold, manage, operate, improve, alter, and renovate any real, personal, or mixed property, or any interest therein, as it considers necessary to carry out its functions;
 
-&emsp;(4)(A) may make such purchases, contracts for the construction, maintenance, or management and operation of facilities, and contracts for supplies or services, without regard to the provisions of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), the Public Buildings Act (40 U.S.C. 601 et seq.), and the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.); and
+&emsp;(4)(A) may make such purchases, contracts for the construction, maintenance, or management and operation of facilities, and contracts for supplies or services, without regard to the provisions of the Federal Property and Administrative Services Act of 1949 <sup>1</sup>, the Public Buildings Act,<sup>1</sup> and the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11301 et seq.); and
 
-&emsp;(B) may enter into and perform such purchases and contracts for printing services, including the process of composition, platemaking, presswork, silk screen processes, binding, microform, and the products of such processes, as it considers necessary to carry out the functions of the Office, without regard to sections 501 through 517 and 1101 through 1123 of title 44, United States Code;
+&emsp;(B) may enter into and perform such purchases and contracts for printing services, including the process of composition, platemaking, presswork, silk screen processes, binding, microform, and the products of such processes, as it considers necessary to carry out the functions of the Office, without regard to sections 501 through 517 and 1101 through 1123 of title 44;
 
-&emsp;(5) may use, with their consent, services, equipment, personnel, and facilities of other departments, agencies, and instrumentalities of the Federal Government, on a reimbursable basis, and cooperate with such other departments, agencies, and instrumentalities in the establishment and use of services, equipment, and facilities of the Office;
+&emsp;(5) may use, with their consent, services, equipment, personnel, and facilities of other departments, agencies, and instrumentalities of the Federal Government, on a reimbursablebasis, and cooperate with such other departments, agencies, and instrumentalities in the establishment and use of services, equipment, and facilities of the Office;
 
 &emsp;(6) may, when the Director determines that it is practicable, efficient, and cost-effective to do so, use, with the consent of the United States and the agency, instrumentality, Patent and Trademark Office, or international organization concerned, the services, records, facilities, or personnel of any State or local government agency or instrumentality or foreign patent and trademark office or international organization to perform functions on its behalf;
 
-&emsp;(7) may retain and use all of its revenues and receipts, including revenues from the sale,lease, or disposal of any real, personal, or mixed property, or any interest therein, of the Office;
+&emsp;(7) may retain and use all of its revenues and receipts, including revenues from the sale, lease, or disposal of any real, personal, or mixed property, or any interest therein, of the Office;
 
 &emsp;(8) shall advise the President, through the Secretary of Commerce, on national and certain international intellectual property policy issues;
 
@@ -72,7 +72,7 @@ Clarification of Specific Powers.—(1) The special payments under subsection (b
 
 Construction.—Nothing in this section shall be construed to nullify, void, cancel, or interrupt any pending request-for-proposal let or contract issued by the General Services Administration for the specific purpose of relocating or leasing space to the United States Patent and Trademark Office.
 
-(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4712\], Nov. 29, 1999, 113 Stat. 1536, 1501A–572; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
+(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4712\], Nov. 29, 1999, 113 Stat. 1536, 1501A–572; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–273, div. C, title III, §13206(a)(1), Nov. 2, 2002, 116 Stat. 1904.)
 
 #### Historical and Revision Notes
 
@@ -82,13 +82,15 @@ Based on Title 35, U.S.C., 1946 ed., §3 (R.S. 478).
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(4)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the act related to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(4)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
-The Public Buildings Act, referred to in subsec. (b)(4)(A), probably means Pub. L. 86–249, Sept. 9, 1959, 73 Stat. 479, as amended, known as the Public Buildings Act of 1959, which is classified principally to chapter 12 (§601 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 40 and Tables.
+The Public Buildings Act, referred to in subsec. (b)(4)(A), probably means Pub. L. 86–249, Sept. 9, 1959, 73 Stat. 479, as amended, known as the Public Buildings Act of 1959, which was classified principally to chapter 12 (§601 et seq.) of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3301–3305 and 3307–3315 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
 The McKinney-Vento Homeless Assistance Act, referred to in subsec. (b)(4)(A), is Pub. L. 100–77, July 22, 1987, 101 Stat. 482, as amended, which is classified principally to chapter 119 (§11301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 11301 of Title 42 and Tables.
 
 #### Amendments
+
+2002—Subsec. (b)(2)(B), (4)(B). Pub. L. 107–273 struck out “, United States Code” before semicolon at end.
 
 2000—Subsec. (b)(4)(A). Pub. L. 106–400 substituted “McKinney-Vento Homeless Assistance Act” for “Stewart B. McKinney Homeless Assistance Act”.
 
@@ -104,7 +106,29 @@ Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see secti
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 
+#### Electronic Filing and Processing of Patent and Trademark Applications
+
+Pub. L. 107–273, div. C, title III, §13103, Nov. 2, 2002, 116 Stat. 1899, provided that:
+
+“(a)
+
+Electronic Filing and Processing.—The Director \[of the Patent and Trademark Office\] shall, beginning not later than 90 days after the date of enactment of this Act \[Nov. 2, 2002\], and during the 3-year period thereafter, develop an electronic system for the filing and processing of patent and trademark applications, that—
+
+&emsp;“(1) is user friendly; and
+
+&emsp;“(2) includes the necessary infrastructure—
+
+&emsp;&emsp;“(A) to allow examiners and applicants to send all communications electronically; and
+
+&emsp;&emsp;“(B) to allow the Office to process, maintain, and search electronically the contents and history of each application.
+
+“(b)
+
+Authorization of Appropriations.—Of amounts authorized under section 13102 \[set out as a note under section 42 of this title\], there is authorized to be appropriated to carry out subsection (a) of this section not more than $50,000,000 for each of fiscal years 2003, 2004, and 2005. Amounts made available pursuant to this subsection shall remain available until expended.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 32 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@ The Administrator may, from time to time, modify or otherwise alter any such pla
 
 #### (c) Monitoring activity
 
-The Administrator shall be responsible for monitoring any such plans as are implementedwith respect to their effectiveness in achieving the anticipated benefits.
+The Administrator shall be responsible for monitoring any such plans as are implemented with respect to their effectiveness in achieving the anticipated benefits.
 
 (Pub. L. 93–275, §22, May 7, 1974, 88 Stat. 113.)
 

@@ -7,13 +7,11 @@
 | [757\.](%C2%A7%2000757%20-%20Utilization%20of%20State%20services%3B%20expenditure%20of%20funds.md) | Utilization of State services; expenditure of funds. |
 | [757a.](%C2%A7%2000757a%20-%20Anadromous%2C%20Great%20Lakes%2C%20and%20Lake%20Champlain%20fisheries.md) | Anadromous, Great Lakes, and Lake Champlain fisheries. |
 | (a) | Conservation, development, and enhancement; cooperative agreements; costs. |
-| (b) | Operation, management, and administration of property. |
+| (b) | Operation, management, and administration of property; research. |
 | (c) | Increase of Federal share. |
 | [757b.](%C2%A7%2000757b%20-%20Authority%20of%20the%20Secretary%20with%20regards%20to%20Anadromous%20and%20Great%20Lakes%20fisheries%3B%20development%20and%20management.md) | Authority of the Secretary with regards to Anadromous and Great Lakes fisheries; development and management. |
 | [757c.](%C2%A7%2000757c%20-%20Approval%20for%20activities%20on%20land%20administered%20by%20other%20Federal%20departments%20or%20agencies.md) | Approval for activities on land administered by other Federal departments or agencies. |
-| [757d.](%C2%A7%2000757d%20-%20Funding.md) | Funding. |
-| (a) | Authorization of appropriations. |
-| (b) | Limitation on obligation of funds in any one State. |
+| [757d.](%C2%A7%2000757d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [757e.](%C2%A7%2000757e%20-%20Application%20to%20Columbia%20River%20basin.md) | Application to Columbia River basin. |
 | [757f.](%C2%A7%2000757f%20-%20Studies%20on%20pollution%3B%20recommendations%20to%20Secretary%20of%20Health%20and%20Human%20Services.md) | Studies on pollution; recommendations to Secretary of Health and Human Services. |
 | [757g.](%C2%A7%2000757g%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93146%2C%20%C2%A73%28a%29%2C%20Dec.%2016%2C%201997%2C%20111%20Stat.%202677.md) | Repealed. |
@@ -68,7 +66,7 @@
 - [&sect; 00757a - Anadromous, Great Lakes, and Lake Champlain fisheries](%C2%A7%2000757a%20-%20Anadromous%2C%20Great%20Lakes%2C%20and%20Lake%20Champlain%20fisheries.md)
 - [&sect; 00757b - Authority of the Secretary with regards to Anadromous and Great Lakes fisheries; development and management](%C2%A7%2000757b%20-%20Authority%20of%20the%20Secretary%20with%20regards%20to%20Anadromous%20and%20Great%20Lakes%20fisheries%3B%20development%20and%20management.md)
 - [&sect; 00757c - Approval for activities on land administered by other Federal departments or agencies](%C2%A7%2000757c%20-%20Approval%20for%20activities%20on%20land%20administered%20by%20other%20Federal%20departments%20or%20agencies.md)
-- [&sect; 00757d - Funding](%C2%A7%2000757d%20-%20Funding.md)
+- [&sect; 00757d - Authorization of appropriations](%C2%A7%2000757d%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00757e - Application to Columbia River basin](%C2%A7%2000757e%20-%20Application%20to%20Columbia%20River%20basin.md)
 - [&sect; 00757f - Studies on pollution; recommendations to Secretary of Health and Human Services](%C2%A7%2000757f%20-%20Studies%20on%20pollution%3B%20recommendations%20to%20Secretary%20of%20Health%20and%20Human%20Services.md)
 - [&sect; 00757g - Repealed. Pub. L. 105&#8211;146, &sect;3(a), Dec. 16, 1997, 111 Stat. 2677](%C2%A7%2000757g%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93146%2C%20%C2%A73%28a%29%2C%20Dec.%2016%2C%201997%2C%20111%20Stat.%202677.md)

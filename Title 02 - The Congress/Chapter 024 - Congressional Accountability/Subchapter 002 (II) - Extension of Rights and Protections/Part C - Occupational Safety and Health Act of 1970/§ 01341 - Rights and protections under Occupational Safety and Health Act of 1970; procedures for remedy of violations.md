@@ -34,7 +34,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 &emsp;&emsp;(A) a citation or notice to any employing office responsible for correcting a violation of subsection (a) of this section; or
 
-&emsp;&emsp;(B) a notification to any employing office that the General Counsel believes has failed to correct a violation for which a citation has been issued within the period permitted for its correction.
+&emsp;&emsp;(B) a notification to any employing office that the General Counsel believes has failedto correct a violation for which a citation has been issued within the period permitted for its correction.
 
 #### (3) Hearings and review
 
@@ -70,7 +70,7 @@ The remedy for a violation of subsection (a) of this section shall be an order t
 
 #### (1) Periodic inspections
 
-&emsp;On a regular basis, and at least once each Congress, the General Counsel, exercising thesame authorities of the Secretary of Labor as under subsection (c)(1) of this section, shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Capitol Guide Service, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, the Office of Technology Assessment, the Library of Congress, and the General Accounting Office to report on compliance with subsection (a) of this section.
+&emsp;On a regular basis, and at least once each Congress, the General Counsel, exercising the same authorities of the Secretary of Labor as under subsection (c)(1) of this section, shall conduct periodic inspections of all facilities of the House of Representatives, the Senate, the Capitol Guide Service, the Capitol Police, the Congressional Budget Office, the Office of the Architect of the Capitol, the Office of the Attending Physician, the Office of Compliance, the Office of Technology Assessment, the Library of Congress, and the General Accounting Office to report on compliance with subsection (a) of this section.
 
 #### (2) Report
 

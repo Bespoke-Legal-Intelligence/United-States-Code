@@ -22,7 +22,7 @@ For purposes of this title: <sup>1</sup>
 
 &emsp;&emsp;(F) housing insured, assisted, or held by the Secretary or a State or State agency under section 1715z–1 of title 12; and
 
-&emsp;&emsp;(G) housing constructed or substantially rehabilitated pursuant to assistance provided under section 8(b)(2) of the UnitedStates Housing Act of 1937 \[42 U.S.C. 1437f(b)(2)\], as in effect before October 1, 1983, that is assisted under a contract for assistance under such section.
+&emsp;&emsp;(G) housing constructed or substantially rehabilitated pursuant to assistance provided under section 8(b)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437f(b)(2)\], as in effect before October 1, 1983, that is assisted under a contract for assistance under such section.
 
 #### (3) Housing assistance
 

@@ -38,7 +38,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to subsec. (a), is act June 2
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (a)(2), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
 
-The eighth paragraph under the heading “Bureau of Animal Industry” of the Virus-Serum-Toxin Act, referred to in subsec. (a)(2), is classified to chapter 5 (§151 et seq.) of Title 21, Food and Drugs.
+The Virus-Serum-Toxin Act, referred to in subsec. (a)(2), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
 The Federal Alcohol Administration Act, referred to in subsec. (a)(4), is act Aug. 29, 1935, ch. 814, 49 Stat. 977, as amended, which is classified generally to chapter 8 (§201 et seq.) of Title 27, Intoxicating Liquors. For complete classification of this Act to the Code, see section 201 of Title 27 and Tables.
 

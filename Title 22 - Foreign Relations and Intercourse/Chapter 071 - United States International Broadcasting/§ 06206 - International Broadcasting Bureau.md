@@ -10,7 +10,7 @@ The Director of the Bureau shall be appointed by the President, by and with the 
 
 #### (c) Responsibilities of Director
 
-The Director shall organize and chair a coordinating committee to examine and make recommendations to the Board on long-term strategies for the future of international broadcasting, including the use of new technologies, further consolidation of broadcast services, and consolidation of currently existing public affairs and legislative relations functions in the various international broadcasting entities. The coordinating committee shall include representatives of Radio Free Asia, RFE/RL, Incorporated, the Broadcasting Board of Governors, and, as appropriate, the Office of Cuba Broadcasting, the Voice of America, and Worldnet.
+The Director shall organize and chair a coordinating committee to examine and make recommendations to the Board on long-term strategies for the future of international broadcasting, including the use of new technologies, further consolidation of broadcast services, and consolidation of currently existing public affairs and legislative relations functions in the various international broadcasting entities. The coordinating committee shall include representatives of Radio Free Asia, RFE/RL, Incorporated, theBroadcasting Board of Governors, and, as appropriate, the Office of Cuba Broadcasting, the Voice of America, and Worldnet.
 
 (Pub. L. 103–236, title III, §307, Apr. 30, 1994, 108 Stat. 436; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(k), Oct. 21, 1998, 112 Stat. 2681–780.)
 
@@ -29,6 +29,30 @@ Subsec. (c). Pub. L. 105–277, §1323(k)(5), added subsec. (c).
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
+
+#### Personal Services Contracting Pilot Program
+
+Pub. L. 107–228, div. A, title V, §504, Sept. 30, 2002, 116 Stat. 1393, provided that:
+
+“(a)
+
+In General.—The Director of the International Broadcasting Bureau (in this section referred to as the ‘Director’) may establish a pilot program (in this section referred to as the ‘program’) for the purpose of hiring United States citizens or aliens as personal services contractors, without regard to Civil Service and classification laws, for service in the United States as broadcasters, producers, and writers in the International Broadcasting Bureau to respond to new or emerging broadcast needs or to augment broadcast services.
+
+“(b)
+
+Conditions.—The Director is authorized to use the authority of subsection (a) subject to the following conditions:
+
+&emsp;“(1) The Director determines that existing personnel resources are insufficient and the need is not of permanent duration.
+
+&emsp;“(2) The Director approves each employment of a personal services contractor.
+
+&emsp;“(3) The contract length, including options, may not exceed 2 years, unless the Director makes a finding that exceptional circumstances justify an extension of up to one additional year.
+
+&emsp;“(4) Not more than a total of 60 United States citizens or aliens are employed at any one time as personal services contractors under the program.
+
+“(c)
+
+Termination of Authority.—The authority to award personal services contracts under the pilot program authorized by this section shall terminate on December 31, 2005. A contract entered into prior to the termination date under this subsection may remain in effect for a period not to exceed 6 months after such termination date.”
 
 #### Section Referred to in Other Sections
 

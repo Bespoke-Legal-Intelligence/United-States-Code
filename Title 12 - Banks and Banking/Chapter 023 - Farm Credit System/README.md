@@ -804,10 +804,6 @@ Definitions.
 
 Loan participation authority.
 
-(c)
-
-Prior approval required.
-
 |  |  |
 | :--- | ---: |
 | [2207\.](Subchapter%20004%20%28IV%29%20-%20Provisions%20Applicable%20to%20Two%20or%20More%20Classes%20of%20Institutions%20of%20the%20System/Part%20D%20-%20Activities%20of%20Institutions%20of%20the%20System/%C2%A7%2002207%20-%20Young%2C%20beginning%2C%20and%20small%20farmers%20and%20ranchers.md) | Young, beginning, and small farmers and ranchers. |
@@ -2523,7 +2519,7 @@ Termination of authorities.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1786, 1818 of this title; title 15 sections 1607, 1691c, 6505, 6809, 6827; title 18 section 1030; title 42 section 9601.
+This chapter is referred to in sections 1786, 1818 of this title; title 7 section 2009cc–9; title 15 sections 1607, 1691c, 6505, 6809, 6827; title 18 section 1030; title 42 section 9601; title 46 section 31322.
 
 
 ---

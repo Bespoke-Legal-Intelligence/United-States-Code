@@ -6,7 +6,7 @@ Section, act Aug. 14, 1935, ch. 531, title XVI, §1604, as added July 25, 1962, 
 
 #### Puerto Rico, Guam, and Virgin Islands
 
-Enactment of subchapter XVI of the Social Security Act \[this subchapter\] by Pub. L. 92–603, eff. Jan. 1, 1974,was not applicable to Puerto Rico, Guam, and the Virgin Islands. See section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1604 of the Social Security Act \[this section\] as it existed prior to reenactment of this subchapter by Pub. L. 92–603 continues to apply and reads as follows:
+Enactment of subchapter XVI of the Social Security Act \[this subchapter\] by Pub. L. 92–603, eff. Jan. 1, 1974, was not applicable to Puerto Rico, Guam, and the Virgin Islands. See section 303(b) of Pub. L. 92–603, set out as a note under section 301 of this title. Therefore, as to Puerto Rico, Guam, and the Virgin Islands, section 1604 of the Social Security Act \[this section\] as it existed prior to reenactment of this subchapter by Pub. L. 92–603 continues to apply and reads as follows:
 
 #### §1384. Operation of State plans
 

@@ -28,7 +28,7 @@ For purposes of this section—
 
 &emsp;(2) The term “eligible institution” means an accredited institution of higher education determined by the Secretary to be able to meet the objectives identified in subsection (b) of this section.
 
-&emsp;(3) The term “communications network” refers to television or cable television origination or distribution equipment, signal conversion equipment (including both modulators and demodulators), computer hardware and software, programs or terminals, or related devices, used to process and exchange datathrough a telecommunications system in which signals are generated, modified, or prepared for transmission, or received, via telecommunications terminal equipment or via telecommunications transmission.
+&emsp;(3) The term “communications network” refers to television or cable television origination or distribution equipment, signal conversion equipment (including both modulators and demodulators), computer hardware and software, programs or terminals, or related devices, used to process and exchange data through a telecommunications system in which signals are generated, modified, or prepared for transmission, or received, via telecommunications terminal equipment or via telecommunications transmission.
 
 &emsp;(4) The term “delivery” means the transmission and reception of programs by facilities that transmit, receive, or carry data between telecommunications terminal equipment at each end of a telecommunications circuit or path.
 
@@ -76,11 +76,13 @@ The Secretary, in considering applications for assistance under this program, sh
 
 #### (h) Authorization of appropriations
 
-For the purposes of implementing the program established under this section, there are hereby authorized to be appropriated not more than $12,000,000 for each of the fiscal years 1991 through 2002.
+For the purposes of implementing the program established under this section, there are hereby authorized to be appropriated not more than $12,000,000 for each of the fiscal years 1991 through 2007.
 
-(Pub. L. 101–624, title XVI, §1673, Nov. 28, 1990, 104 Stat. 3773; Pub. L. 102–237, title IV, §407(12), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §837, Apr. 4, 1996, 110 Stat. 1169; Pub. L. 105–185, title II, §245, title III, §301(b)(2), June 23, 1998, 112 Stat. 556, 563.)
+(Pub. L. 101–624, title XVI, §1673, Nov. 28, 1990, 104 Stat. 3773; Pub. L. 102–237, title IV, §407(12), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 104–127, title VIII, §837, Apr. 4, 1996, 110 Stat. 1169; Pub. L. 105–185, title II, §245, title III, §301(b)(2), June 23, 1998, 112 Stat. 556, 563; Pub. L. 107–171, title VII, §7121, May 13, 2002, 116 Stat. 434.)
 
 #### Amendments
+
+2002—Subsec. (h). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1998—Subsec. (c)(1) to (7). Pub. L. 105–185, §245(1), added pars. (1) and (7) and redesignated former pars. (1) to (5) as (2) to (6), respectively.
 

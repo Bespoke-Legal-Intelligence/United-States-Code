@@ -34,7 +34,7 @@ Study Regarding Prevalence Among Certain Emergency Response Employees.—
 
 &emsp;“(1)
 
-In general.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’), in consultation with the Secretary of Labor, shall conduct a study to determine—
+In general.—The Secretary of Health and Human Services (referred to in this section as the‘Secretary’), in consultation with the Secretary of Labor, shall conduct a study to determine—
 
 &emsp;&emsp;“(A) an estimate of the prevalence of hepatitis C among designated emergency response employees in the United States; and
 

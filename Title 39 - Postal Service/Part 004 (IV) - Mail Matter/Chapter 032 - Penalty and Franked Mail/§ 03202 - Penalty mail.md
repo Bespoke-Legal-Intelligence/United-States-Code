@@ -38,6 +38,10 @@
 
 Amendment by Pub. L. 94–553 effective Jan. 1, 1978, see section 102 of Pub. L. 94–553, set out as an Effective Date note preceding section 101 of Title 17, Copyrights.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
 #### Payment of Postage for State Unemployment Compensation Systems and Employment Services
 
 Pub. L. 92–80, title I, Aug. 10, 1971, 85 Stat. 287, which required Department of Labor and Post Office Department to use such amounts as may be agreed upon for the payment of postage for the transmission of official mail matter in connection with the administration of unemployment compensation systems and employment services by States receiving grants, was from the Department of Labor Appropriation Act, 1972, and was not repeated in subsequent appropriation acts. See section 3202(a)(1)(E) of this title.

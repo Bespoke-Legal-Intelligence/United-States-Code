@@ -2,7 +2,7 @@
 
 #### (a) Unjust or preferential rates, etc.; statement of reasons for changes; hearing; specification of issues
 
-Whenever the Commission, after a hearing had upon its own motion or upon complaint, shall find that any rate, charge, or classification, demanded, observed, charged, or collected by any public utility for any transmission or sale subject to the jurisdiction of the Commission, or that any rule, regulation, practice, or contract affected such rate, charge, or classification is unjust, unreasonable, unduly discriminatory or preferential, the Commission shall determine the just and reasonable rate, charge, classification, rule, regulation, practice, or contract to be thereafter observed and in force, and shall fix the same by order. Any complaint or motion of the Commission to initiate a proceeding under this section shall state the change or changes to be made in the rate, charge, classification, rule, regulation, practice, or contract then in force, and the reasons for any proposed change or changes therein. If, after review of any motion or complaint and answer, the Commission shall decide to hold a hearing, it shall fix by order the time and place of such hearing and shall specify the issues to be adjudicated.
+Whenever the Commission, after a hearing had upon its own motion or upon complaint, shall find that any rate, charge, or classification, demanded, observed, charged, or collected by any public utility for any transmission or sale subject to the jurisdiction of the Commission, or that any rule, regulation, practice, or contract affected such rate, charge, or classification is unjust, unreasonable, unduly discriminatory or preferential, the Commission shall determine the just and reasonable rate, charge, classification, rule, regulation, practice, or contract to be thereafter observed and in force, and shall fix the same by order. Any complaint or motion of the Commission to initiate a proceeding under this section shall state the change or changes tobe made in the rate, charge, classification, rule, regulation, practice, or contract then in force, and the reasons for any proposed change or changes therein. If, after review of any motion or complaint and answer, the Commission shall decide to hold a hearing, it shall fix by order the time and place of such hearing and shall specify the issues to be adjudicated.
 
 #### (b) Refund effective date; preferential proceedings; statement of reasons for delay; burden of proof; scope of refund order; refund orders in cases of dilatory behavior; interest
 
@@ -30,7 +30,7 @@ Subsecs. (b) to (d). Pub. L. 100–473, §2(2), added subsecs. (b) and (c) and r
 
 #### Effective Date of 1988 Amendment
 
-Section 4 of Pub. L. 100–473 provided that: “The amendments made by this Act \[amending this section\] are not applicable to complaints filed or motions initiated before the date of enactment of this Act \[Oct. 6, 1988\] pursuant to section 206 of the Federal Power Act \[this section\]: <i>Provided, however</i>, That such complaints may be withdrawn and refiled without prejudice.”
+Section 4 of Pub. L. 100–473 provided that: “The amendments made by this Act \[amending this section\] are not applicable to complaints filed or motions initiated before the date of enactment of this Act \[Oct. 6, 1988\] pursuant to section 206 of the Federal Power Act\[this section\]: <i>Provided, however</i>, That such complaints may be withdrawn and refiled without prejudice.”
 
 #### Transfer of Functions
 

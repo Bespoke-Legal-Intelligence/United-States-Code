@@ -26,7 +26,7 @@ Commodities made available under this chapter shall include a variety of commodi
 
 #### (e) Report to Congress
 
-Effective April 1, 1986, the Secretary shall submit semiannually to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the types and amounts of commodities made available for distribution under this chapter.
+Effective April 1, 1986, the Secretary shall submit semiannually to the Committee on Agriculture of the House of Representatives and theCommittee on Agriculture, Nutrition, and Forestry of the Senate a report on the types and amounts of commodities made available for distribution under this chapter.
 
 #### (f) Relation to other programs
 

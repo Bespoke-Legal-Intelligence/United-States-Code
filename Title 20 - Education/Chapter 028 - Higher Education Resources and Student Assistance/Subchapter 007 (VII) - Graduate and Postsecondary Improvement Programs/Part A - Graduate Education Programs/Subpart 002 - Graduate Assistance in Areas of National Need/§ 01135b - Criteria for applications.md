@@ -24,7 +24,7 @@ An academic department, program or unit of an institution of higher education, i
 
 &emsp;&emsp;(C) plan to pursue the highest possible degree available in their course of study;
 
-&emsp;(6) set forth policies and procedures to ensure that Federal funds made available under this subpart for any fiscal year will be used tosupplement and, to the extent practical, increase the funds that would otherwise be made available for the purpose of this subpart and in no case to supplant those funds;
+&emsp;(6) set forth policies and procedures to ensure that Federal funds made available under this subpart for any fiscal year will be used to supplement and, to the extent practical, increase the funds that would otherwise be made available for the purpose of this subpart and in no case to supplant those funds;
 
 &emsp;(7) provide assurances that, in the event that funds made available to the academic department, program or unit under this subpart are insufficient to provide the assistance due a student under the commitment entered into between the academic department, program or unit and the student, the academic department, program or unit will, from any funds available to the department, program or unit, fulfill the commitment to the student;
 
@@ -56,7 +56,7 @@ A prior section 1135b–1, Pub. L. 89–329, title X, §1022, as added Pub. L. 9
 
 Another prior section 1135b–1, Pub. L. 89–329, title X, §1052, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 316, set forth allotment and reallotment requirements for funds appropriated for programs, prior to repeal by Pub. L. 94–482, title I, §176(c), title II, §204(c)(2), Oct. 12, 1976, 90 Stat. 2165, 2215, eff. Sept. 30, 1977, Oct. 1, 1977.
 
-A prior section 1135b–2, Pub. L. 89–329, title X, §1023, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100 Stat. 1562, which related to use of funds, was renumbered section 353 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067c of this title.
+A prior section 1135b–2, Pub. L. 89–329, title X, §1023, as added Pub. L. 99–498, title X, §1002, Oct. 17, 1986, 100Stat. 1562, which related to use of funds, was renumbered section 353 of title III of Pub. L. 89–329 by Pub. L. 105–244, title III, §301(a)(5), (7), Oct. 7, 1998, 112 Stat. 1636, and transferred to section 1067c of this title.
 
 Another prior section 1135b–2, Pub. L. 89–329, title X, §1053, as added Pub. L. 92–318, title I, §186(a)(1), June 23, 1972, 86 Stat. 317, set forth requirements for administration of programs by Secretary, prior to repeal by Pub. L. 94–482, title I, §176(c), title II, §204(c)(2), Oct. 12, 1976, 90 Stat. 2165, 2215, eff. Sept. 30, 1987, Oct. 1, 1977.
 

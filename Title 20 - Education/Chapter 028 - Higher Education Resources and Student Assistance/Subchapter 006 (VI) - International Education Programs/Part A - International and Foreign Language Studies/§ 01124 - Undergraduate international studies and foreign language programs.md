@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;The Secretary is authorized to make grants to institutions of higher education, combinations of such institutions, or partnerships between nonprofit educational organizations and institutions of higher education, to assist such institutions, combinations or partnerships in planning, developing, and carrying out programs to improve undergraduate instruction in international studies and foreign languages. Such grants shall be awarded to institutions, combinations or partnerships seeking to create new programs or to strengthen existing programs in foreign languages, area studies, and other international fields.
+&emsp;The Secretary is authorized to make grants to institutions of higher education, combinations of such institutions, or partnerships between nonprofit educational organizations andinstitutions of higher education, to assist such institutions, combinations or partnerships in planning, developing, and carrying out programs to improve undergraduate instruction in international studies and foreign languages. Such grants shall be awarded to institutions, combinations or partnerships seeking to create new programs or to strengthen existing programs in foreign languages, area studies, and other international fields.
 
 #### (2) Use of funds
 
@@ -80,7 +80,7 @@
 
 &emsp;&emsp;(A) evidence that the applicant has conducted extensive planning prior to submitting the application;
 
-&emsp;&emsp;(B) an assurance that the faculty and administrators of all relevant departments and programs served by the applicant are involved in ongoing collaboration with regard to achieving the stated objectives of the application;
+&emsp;&emsp;(B) an assurance that the faculty and administrators of all relevant departments andprograms served by the applicant are involved in ongoing collaboration with regard to achieving the stated objectives of the application;
 
 &emsp;&emsp;(C) an assurance that students at the applicant institutions, as appropriate, will have equal access to, and derive benefits from, the program assisted under this subsection; and
 

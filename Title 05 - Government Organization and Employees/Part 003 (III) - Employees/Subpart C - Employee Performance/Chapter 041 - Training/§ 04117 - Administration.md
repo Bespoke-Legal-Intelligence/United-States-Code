@@ -34,7 +34,11 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
+#### Department of Homeland Security
+
+Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, §86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+
 #### Central Intelligence Agency
 
-Exception of Central Intelligence Agency from provisions of subd. (4) of this section and certain other provisions of this chapter and section 1308 of this title, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
+Exception of Central Intelligence Agency from certain provisions of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 

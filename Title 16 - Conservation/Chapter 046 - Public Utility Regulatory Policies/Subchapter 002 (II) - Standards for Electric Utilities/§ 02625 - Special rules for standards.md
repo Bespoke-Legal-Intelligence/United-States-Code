@@ -6,7 +6,7 @@ In undertaking the consideration and making the determination under section 2621
 
 &emsp;(1) permit identification of differences in cost-incurrence, for each such class of electric consumers, attributable to daily and seasonal time of use of service and
 
-&emsp;(2) permit identification of differences in cost-incurrence attributable to differences in customer demand, and energy components of cost. In prescribing such methods, such State regulatory authority or nonregulated electric utility shall take into account the extent to which total costs to an electric utility are likely to change if—
+&emsp;(2) permit identification of differences in cost-incurrence attributable to differences incustomer demand, and energy components of cost. In prescribing such methods, such State regulatory authority or nonregulated electric utility shall take into account the extent to which total costs to an electric utility are likely to change if—
 
 &emsp;&emsp;(A) additional capacity is added to meet peak demand relative to base demand; and
 
@@ -62,7 +62,7 @@ Separate metering shall be determined appropriate for any new building for purpo
 
 > Such summary may be transmitted together with such consumer's billing or in such other manner as the State regulatory authority or nonregulated electric utility deems appropriate.
 
-(3) For purposes of the standard for information to consumers established by section 2623(b)(3) of this title, each electric utility, on request of an electric consumer of such utility, shall transmit to such consumer a clear and concise statement of the actual consumption (or degree-day adjusted consumption) of electric energy by such consumer for each billing period during the prior year (unless such consumption data is not reasonably ascertainable by the utility).
+(3) For purposes of the standard for information to consumers established by section2623(b)(3) of this title, each electric utility, on request of an electric consumer of such utility, shall transmit to such consumer a clear and concise statement of the actual consumption (or degree-day adjusted consumption) of electric energy by such consumer for each billing period during the prior year (unless such consumption data is not reasonably ascertainable by the utility).
 
 #### (g) Procedures for termination of electric service
 
@@ -108,7 +108,7 @@ The procedures for termination of service referred to in section 2623(b)(4) of t
 
 #### References in Text
 
-The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9,1978, 92 Stat. 3206, as amended. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
+The National Energy Conservation Policy Act, referred to in subsec. (h)(2)(B), is Pub. L. 95–619, Nov. 9, 1978, 92 Stat. 3206, as amended. Part 1 of title II of the National Energy Conservation Policy Act was classified generally to part A (§8211 et seq.) of subchapter II of chapter 91 of Title 42, The Public Health and Welfare, and was omitted from the Code pursuant to section 8229 of Title 42 which terminated authority under that part June 30, 1989. For complete classification of this Act to the Code, see Short Title note set out under section 8201 of Title 42 and Tables.
 
 #### Section Referred to in Other Sections
 

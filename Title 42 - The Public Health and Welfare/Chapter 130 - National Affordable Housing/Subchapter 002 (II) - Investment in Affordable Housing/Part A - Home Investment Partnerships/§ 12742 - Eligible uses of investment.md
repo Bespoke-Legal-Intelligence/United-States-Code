@@ -76,7 +76,7 @@ Funds made available under this part may not be used to—
 
 #### (1) In general
 
-&emsp;The Secretary shall establish limits on the amount of funds under this part that may be invested on a per unit basis. For multifamily housing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715<i>l</i>(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs. The limits shall be established on a market-by-market basis, with adjustments made for number of bedrooms, and shall reflect the actual cost of new construction, reconstruction, or rehabilitation of housing that meets applicable State and local housing and building codes and the cost of land, including necessary site improvements. Adjustments shall be made annually to reflect inflation. Separate limits may be set for different eligible activities.
+&emsp;The Secretary shall establish limits on the amount of funds under this part that may be invested on a per unit basis. For multifamilyhousing, such limits shall not be less than the per unit dollar amount limitations set forth in section 1715<i>l</i>(d)(3)(ii) of title 12, as such limitations may be adjusted in accordance therewith, except that for purposes of this subsection the Secretary shall, by regulation, increase the per unit dollar amount limitations in any geographical area by an amount, not to exceed 140 percent, that equals the amount by which the costs of multifamily housing construction in the area exceed the national average of such costs. The limits shall be established on a market-by-market basis, with adjustments made for number of bedrooms, and shall reflect the actual cost of new construction, reconstruction, or rehabilitation of housing that meets applicable State and local housing and building codes and the cost of land, including necessary site improvements. Adjustments shall be made annually to reflect inflation. Separate limits may be set for different eligible activities.
 
 #### (2) Criteria
 
@@ -96,7 +96,7 @@ Funds made available under this part may not be used to—
 
 #### (f) Certification of compliance
 
-The requirements of section 3545(d) of this title shall be satisfied by a certification by aparticipating jurisdiction to the Secretary that the combination of Federal assistance provided to any housing project shall not be any more than is necessary to provide affordable housing.
+The requirements of section 3545(d) of this title shall be satisfied by a certification by a participating jurisdiction to the Secretary that the combination of Federal assistance provided to any housing project shall not be any more than is necessary to provide affordable housing.
 
 #### (g) Limitation on operating assistance
 

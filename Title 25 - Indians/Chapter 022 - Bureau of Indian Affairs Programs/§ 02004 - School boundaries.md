@@ -24,7 +24,7 @@ In any case where there is more than one Bureau-funded school located on an Indi
 
 #### (3) Tribal resolution determination
 
-&emsp;Nothing in this section shall deny a tribal governing body the authority, on a continuing basis, to adopt a tribal resolution allowing parents the choice of the Bureau-funded school their children may attend, regardless of the attendance boundaries established under this section.
+&emsp;Nothing in this section shall deny a tribal governing body the authority, on a continuing basis, to adopt a tribal resolution allowing parents the choice of the Bureau-funded school their children may attend, regardless of theattendance boundaries established under this section.
 
 #### (d) Funding restrictions
 

@@ -12,7 +12,7 @@ The Trust shall be governed by a 9-member Board of Trustees consisting of the fo
 
 &emsp;&emsp;(B) the Superintendent of the Bandelier National Monument, National Park Service; and
 
-&emsp;&emsp;(C) seven individuals, appointed by the President, in consultation with the congressional delegation from the State of New Mexico. The seven individuals shall have specific expertise or represent an organization or government entity as follows—
+&emsp;&emsp;(C) seven individuals, appointed by the President, in consultation with the congressional delegation from the State of New Mexico. The seven individuals shall havespecific expertise or represent an organization or government entity as follows—
 
 &emsp;&emsp;&emsp;(i) one trustee shall have expertise in aspects of domesticated livestock management, production, and marketing, including range management and livestock business management;
 
@@ -96,7 +96,7 @@ The Ethics in Government Act, referred to in subsec. (f), probably means the Eth
 
 #### Compensation for Trustees
 
-Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 968, provided in part: “That notwithstanding the limitations of 107(e)(2) of the Valles Caldera Preservation Act (Public Law 106–248) \[16 U.S.C. 698v–5(e)(2)\], for fiscal years 2001 and 2002, the members of the Board of Trustees of the Valles Caldera Trust may receive, upon request, compensation for each day (including travel time) that they are engaged in the performance of the functions of the Board. Compensation shall not exceed the daily equivalent of the annual rate in effect for members of the Senior Executive Service at the ES–1 level, andshall be in addition to any reimbursement for travel, subsistence and other necessary expenses incurred by them in the performance of their duties. Members of the Board who are officers or employees of the United States shall not receive any additional compensation by reason of service on the Board”.
+Pub. L. 106–291, title II, Oct. 11, 2000, 114 Stat. 968, provided in part: “That notwithstanding the limitations of 107(e)(2) of the Valles Caldera Preservation Act (Public Law 106–248) \[16 U.S.C. 698v–5(e)(2)\], for fiscal years 2001 and 2002, the members of the Board of Trustees of the Valles Caldera Trust may receive, upon request, compensation for each day (including travel time) that they are engaged in the performance of the functions of the Board. Compensation shall not exceed the daily equivalent of the annual rate in effect for members of the Senior Executive Service at the ES–1 level, and shall be in addition to any reimbursement for travel, subsistence and other necessary expenses incurred by them in the performance of their duties. Members of the Board who are officers or employees of the United States shall not receive any additional compensation by reason of service on the Board”.
 
 #### Section Referred to in Other Sections
 

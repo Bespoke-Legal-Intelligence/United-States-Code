@@ -42,7 +42,7 @@ Higher Penalty Amounts.—(1)(A) The Secretary of Transportation shall prescribe
 
 &emsp;(C) experts and consultants that provided information to a person that the person includes, or refers to, in an oral presentation.
 
-(3) The Secretary may restrict the questions of an interested person and the Commission when the Secretary decides that the questions are duplicative or not likely to result in a timely and effective resolution of the issues. A transcript shall be kept of a public hearing under this subsection. A copy of the transcript and written comments shall be available to the public at the cost of reproduction.
+(3) The Secretary may restrict the questions of an interested person and the Commission when the Secretary decides that the questionsare duplicative or not likely to result in a timely and effective resolution of the issues. A transcript shall be kept of a public hearing under this subsection. A copy of the transcript and written comments shall be available to the public at the cost of reproduction.
 
 (4) The Secretary shall publish a regulation prescribed under this subsection in the Federal Register with the decisions required under paragraph (1) of this subsection.
 

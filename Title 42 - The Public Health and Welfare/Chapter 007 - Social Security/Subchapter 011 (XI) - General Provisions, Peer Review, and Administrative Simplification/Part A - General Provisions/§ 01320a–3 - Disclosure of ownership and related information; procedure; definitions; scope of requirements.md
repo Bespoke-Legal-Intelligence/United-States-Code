@@ -70,11 +70,11 @@ Amendment by Pub. L. 100–93 effective at end of fourteen-day period beginning 
 
 #### Effective Date of 1981 Amendment
 
-Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 of Pub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
+Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explicitly provided, see section 2354 ofPub. L. 97–35, set out as an Effective Date note under section 1397 of this title.
 
 #### Effective Date
 
-Section 3(e) of Pub. L. 95–142 provided that: “The amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to certifications and recertifications made (and participation in the programs established by titles V, XVIII, XIX, and XX of the Social Security Act \[subchapters V, XVIII, XIX, and XX of this chapter\] pursuant to certifications and recertifications made), and fiscal intermediary or agent agreements or contracts entered into or renewed, on and after the date of the enactment of this Act \[Oct. 25, 1977\]. The remaining amendments made by this section\[amending sections 1395x and 1395cc of this title\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1977\]; except that the amendments made by subsections (c) and (d) \[amending sections 1396a, 1396b, 1397a, and 1397b of this title\] shall become effective January 1, 1978.”
+Section 3(e) of Pub. L. 95–142 provided that: “The amendment made by subsection (a)(1) \[enacting this section\] shall apply with respect to certifications and recertifications made (and participation in the programs established by titles V, XVIII, XIX, and XX of the Social Security Act \[subchapters V, XVIII, XIX, and XX of this chapter\] pursuant to certifications and recertifications made), and fiscal intermediary or agent agreements or contracts entered into or renewed, on and after the date of the enactment of this Act \[Oct. 25, 1977\]. The remaining amendments made by this section \[amending sections 1395x and 1395cc of this title\] shall take effect on the date of the enactment of this Act \[Oct. 25, 1977\]; except that the amendments made by subsections (c) and (d) \[amending sections 1396a, 1396b, 1397a, and 1397b of this title\] shall become effective January 1, 1978.”
 
 #### Report on Confidentiality of Social Security Account Numbers
 

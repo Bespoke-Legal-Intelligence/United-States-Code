@@ -16,7 +16,7 @@
 
 #### (3) Notice
 
-&emsp;(A) Upon the granting of temporary protected status under this section, the AttorneyGeneral shall provide the alien with information concerning such status under this section.
+&emsp;(A) Upon the granting of temporary protected status under this section, the Attorney General shall provide the alien with information concerning such status under this section.
 
 &emsp;(B) If, at the time of initiation of a removal proceeding against an alien, the foreign state (of which the alien is a national) is designated under subsection (b) of this section, the Attorney General shall promptly notify the alien of the temporary protected status that may be available under this section.
 
@@ -238,7 +238,7 @@ Except as otherwise specifically provided, this section shall constitute the exc
 
 &emsp;No later than 180 days after the date of receipt of such a report, the Committee on the Judiciary of each House of Congress shall report to its respective House such oversight findings and legislation as it deems appropriate.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(<i>l</i>)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244 and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
+(June 27, 1952, ch. 477, title II, ch. 5, §244, formerly §244A, as added and amended Pub. L. 101–649, title III, §302(a), title VI, §603(a)(24), Nov. 29, 1990, 104 Stat. 5030, 5084; Pub. L. 102–232, title III, §§304(b), 307(<i>l</i>)(5), Dec. 12, 1991, 105 Stat. 1749, 1756; Pub. L. 103–416, title II, §219(j), (z)(2), Oct. 25, 1994, 108 Stat. 4317, 4318; renumbered §244and amended Pub. L. 104–208, div. C, title III, §308(b)(7), (e)(1)(G), (11), (g)(7)(E)(i), (8)(A)(i), Sept. 30, 1996, 110 Stat. 3009–615, 3009–619, 3009–620, 3009–624.)
 
 #### Amendments
 
@@ -298,6 +298,10 @@ Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendment made by t
 
 Amendment by section 603(a)(24) of Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Limitation on Suspension of Deportation
 
 The Attorney General may not suspend deportation and adjust status under this section of more than 4,000 aliens in any fiscal year, beginning after Sept. 30, 1996, regardless of when aliens applied for such suspension and adjustment, see section 309(c)(7) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
@@ -324,7 +328,7 @@ Section 304(c) of Pub. L. 102–232, as amended by Pub. L. 104–208, div. C, ti
 
 #### Effect on Executive Order 12711
 
-Section 302(c) of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §304(a), Dec. 12, 1991, 105 Stat. 1749; Pub. L. 103–416, title II, §219(y), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 104–208, div. C, title III, §308(g)(1), Sept. 30, 1996, 110 Stat. 3009–622, provided that: “Notwithstanding subsection (g) of section 244 of the Immigration and Nationality Act \[8 U.S.C. 1254a(g)\] (inserted by the amendment made by subsection (a)), such section shall not supersede or affect Executive Order 12711 (April 11, 1990 \[8 U.S.C. 1101 note\], relating to policy implementation with respect to nationals of the People's Republic of China).”
+Section 302(c) of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §304(a), Dec. 12, 1991, 105 Stat. 1749;Pub. L. 103–416, title II, §219(y), Oct. 25, 1994, 108 Stat. 4318; Pub. L. 104–208, div. C, title III, §308(g)(1), Sept. 30, 1996, 110 Stat. 3009–622, provided that: “Notwithstanding subsection (g) of section 244 of the Immigration and Nationality Act \[8 U.S.C. 1254a(g)\] (inserted by the amendment made by subsection (a)), such section shall not supersede or affect Executive Order 12711 (April 11, 1990 \[8 U.S.C. 1101 note\], relating to policy implementation with respect to nationals of the People's Republic of China).”
 
 #### Special Temporary Protected Status for Salvadorans
 

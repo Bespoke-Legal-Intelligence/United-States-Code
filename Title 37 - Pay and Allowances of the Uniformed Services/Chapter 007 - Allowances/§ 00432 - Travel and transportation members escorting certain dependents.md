@@ -16,5 +16,5 @@ Provisions similar to this section were contained in section 192 of Title 10, Ar
 
 #### Effective Date
 
-Section 615(b) of Pub. L. 99–661 provided that: “Section 431 \[now 432\] of title 37, United States Code, as added by subsection (a), shall apply with respect to travel performed after September 30, 1986.”
+Section 615(b) of Pub. L. 99–661 provided that: “Section 431 \[now 432\] of title 37, United States Code, asadded by subsection (a), shall apply with respect to travel performed after September 30, 1986.”
 

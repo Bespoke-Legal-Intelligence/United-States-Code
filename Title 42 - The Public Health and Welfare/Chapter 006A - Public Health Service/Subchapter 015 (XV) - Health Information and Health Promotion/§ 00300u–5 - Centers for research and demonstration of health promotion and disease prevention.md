@@ -34,7 +34,7 @@ Each center established, maintained, or operated under this section shall—
 
 #### (c) Equitable geographic distribution of centers; procedures
 
-(1) In making grants and entering into contracts under this section, the Secretary shall provide for an equitable geographical distribution of centers established, maintained, and operated under this section and for the distribution of such centers among areas containing a wide range of population groups which exhibit incidences of diseases which are most amenable to preventive intervention.
+(1) In making grants and entering into contracts under this section, the Secretary shall provide for an equitable geographical distribution of centers established, maintained, and operated under this section and for the distribution of such centers among areas containing a wide range of population groups which exhibitincidences of diseases which are most amenable to preventive intervention.
 
 (2) The Secretary, through the Director of the Centers for Disease Control and Prevention and in consultation with the Director of the National Institutes of Health, shall establish procedures for the appropriate peer review of applications for grants and contracts under this section by peer review groups composed principally of non-Federal experts.
 
@@ -69,88 +69,6 @@ A prior section 300u–5, act July 1, 1944, ch. 373, title XVII, §1706, as adde
 Subsec. (e). Pub. L. 102–168, §102(a), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “To carry out this section, there are authorized to be appropriated $3,000,000 for the fiscal year ending September 30, 1985, $8,000,000 for the fiscal year ending September 30, 1986, $13,000,000 for the fiscal year ending September 30, 1987, $6,000,000 for fiscal year 1989, $8,000,000 for fiscal year 1990, and $10,000,000 for fiscal year 1991.”
 
 1988—Subsec. (e). Pub. L. 100–607 struck out “and” after “1986,” and inserted “, $6,000,000 for fiscal year 1989, $8,000,000 for fiscal year 1990, and $10,000,000 for fiscal year 1991” before period at end.
-
-#### Ex. Ord. No. 12345. Physical Fitness and Sports
-
-Ex. Ord. No. 12345, Feb. 2, 1982, 47 F.R. 5189, as amended by Ex. Ord. No. 12539, Dec. 3, 1985, 50 F.R. 49829; Ex. Ord. No. 12694, Oct. 11, 1989, 54 F.R. 42285; Ex. Ord. No. 12709, Apr. 4, 1990, 55 F.R. 13097; Ex. Ord. No. 13138, §8, Sept. 30, 1999, 64 F.R. 53881, provided:
-
-By virtue of the authority vested in me as President of the United States of America, and in accordancewith the Federal Advisory Committee Act, as amended (5 U.S.C. App.), in order to expand the program for physical fitness and sports and to continue the President's Council on Physical Fitness and Sports, it is hereby ordered as follows:
-
-Section 1. The Secretary of Health and Human Services shall, in carrying out his responsibilities for public health and human services, develop and coordinate a national program for physical fitness and sports. The Secretary shall:
-
-(a) Enlist the active support and assistance of individual citizens, civic groups, private enterprise, voluntary organizations, and others in efforts to promote and improve the fitness of all Americans through regular participation in physical fitness and sports activities.
-
-(b) Initiate programs to inform the general public of the importance of exercise and the link which exists between regular physical activity and such qualities as good health and effective performance.
-
-(c) Strengthen coordination of Federal services and programs relating to physical fitness and sports participation and invite appropriate Federal agencies to participate in an interagency committee to coordinate physical fitness and sports activities of the Federal establishment.
-
-(d) Encourage State and local governments to emphasize the importance of regular physical fitness and sports participation.
-
-(e) Seek to advance the physical fitness of children, youth, adults, and senior citizens by systematically encouraging the development of community recreation, physical fitness, and sports participation programs.
-
-(f) Develop cooperative programs with medical, dental, and other similar professional societies to encourage the implementation of sound physical fitness practices and sports medicine services.
-
-(g) Stimulate and encourage research in the areas of sports medicine, physical fitness, and sports performance.
-
-(h) Assist educational agencies at all levels in developing high quality, innovative health and physical education programs which emphasize the importance of exercise to good health.
-
-(i) Assist recreation agencies and national sports governing bodies at all levels in developing “sports for all” programs which emphasize the value of sports to physical, mental, and emotional fitness.
-
-(j) Assist business, industry, government, and labor organizations in establishing sound physical fitness programs to elevate employee fitness and to reduce the financial and human costs resulting from physical inactivity.
-
-Sec. 2. <i>President's Council on Physical Fitness and Sports</i>. (a) There is hereby continued the President's Council on Physical Fitness and Sports.
-
-(b) The council shall be composed of twenty members appointed by the President. Each member shall serve a term of 2 years and may continue to serve after the expiration of their term until a successor is appointed. A member appointed to fill an unexpired term will be appointed for the remainder of such term. The President may, as he deems appropriate, designate one or more members to be Chairmen and to be Vice Chairmen.
-
-Sec. 3. <i>Functions of the Council</i>. (a) The Council shall advise the President and the Secretary concerning progress made in carrying out the provisions of this Order and shall recommend to the President and the Secretary, as necessary, actions to accelerate progress.
-
-(b) The Council shall advise the Secretary on matters pertaining to the ways and means of enhancing opportunities for participation in physical fitness and sports activities.
-
-(c) The Council shall also advise the Secretary on State, local, and private actions to extend and improve physical activity programs and services.
-
-Sec. 4. <i>Administrative Provisions Concerning the Council</i>. (a) The Secretary and the Council are authorized to request from any Federal agency such information or assistance deemed necessary to carry out their functions under this Order.
-
-(b) Each Federal agency is authorized, to the extent permitted by law and within available funds, to furnish such information and assistance to the Secretary and the Council as they may request.
-
-(c) The members of the Council shall serve without compensation for their work on the Council. However, members of the Council may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in government service (5 U.S.C. 5701–5707).
-
-(d) To the extent permitted by law, the Secretary shall furnish the Council with necessary staff, supplies, facilities, and other administrative services. The expenses of the Council shall be paid from funds available to the Secretary.
-
-(e) The Secretary shall appoint an Executive Director of the Council.
-
-(f) The seal prescribed by Executive Order No. 10830 of July 24, 1959, as amended \[not classified to the Code\], shall continue to be the seal of the President's Council on Physical Fitness and Sports continued by this Order.
-
-Sec. 5. <i>General Provisions Concerning the Council.</i>
-
-(a) Notwithstanding the provisions of any other Executive Order, the functions of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), except that of reporting annually to the Congress, shall be performed by the Secretary in accordance with guidelines and procedures established by the Administrator of General Services.
-
-(b) In accordance with the Federal Advisory Committee Act, as amended, the Council shall terminate on December 31, 1982, unless sooner extended.
-
-(c) Executive Order No. 11562, as amended \[not classified to the Code\], is revoked.
-
-#### Extension of Term of President's Council on Physical Fitness and Sports
-
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1984, by Ex. Ord. No. 12399, Dec. 31, 1982, 48 F.R. 379, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
-
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1985, by Ex. Ord. No. 12489, Sept. 28, 1984, 49 F.R. 38927, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1987, by Ex. Ord. No. 12534, Sept. 30, 1985, 50 F.R. 40319, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1989, by Ex. Ord. No. 12610, Sept. 30, 1987, 52 F.R. 36901, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1991, by Ex. Ord. No. 12692, Sept. 29, 1989, 54 F.R. 40627, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1993, by Ex. Ord. No. 12774, Sept. 27, 1991, 56 F.R. 49835, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1995, by Ex. Ord. No. 12869, Sept. 30, 1993, 58 F.R. 51751, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1997, by Ex. Ord. No. 12974, Sept. 29, 1995, 60 F.R. 51875, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 1999, by Ex. Ord. No.13062, Sept. 29, 1997, 62 F.R. 51755, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
-
-Term of the President's Council on Physical Fitness and Sports extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

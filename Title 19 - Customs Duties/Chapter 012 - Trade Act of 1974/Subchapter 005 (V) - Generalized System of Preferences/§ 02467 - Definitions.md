@@ -24,7 +24,7 @@ For purposes of this subchapter:
 
 &emsp;&emsp;(C) a prohibition on the use of any form of forced or compulsory labor;
 
-&emsp;&emsp;(D) a minimum age for the employment of children; and
+&emsp;&emsp;(D) a minimum age for the employment of children, and a prohibition on the worst forms of child labor, as defined in paragraph (6); and
 
 &emsp;&emsp;(E) acceptable conditions of work with respect to minimum wages, hours of work, and occupational safety and health.
 
@@ -46,9 +46,11 @@ For purposes of this subchapter:
 
 > &emsp;The work referred to in subparagraph (D) shall be determined by the laws, regulations, or competent authority of the beneficiary developing country involved.
 
-(Pub. L. 93–618, title V, §507, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1926; amended Pub. L. 106–200, title IV, §412(b), May 18, 2000, 114 Stat. 298.)
+(Pub. L. 93–618, title V, §507, as added Pub. L. 104–188, title I, §1952(a), Aug. 20, 1996, 110 Stat. 1926; amended Pub. L. 106–200, title IV, §412(b), May 18, 2000, 114 Stat. 298; Pub. L. 107–210, div. D, title XLI, §4102(b), Aug. 6, 2002, 116 Stat. 1041.)
 
 #### Amendments
+
+2002—Par. (4)(D). Pub. L. 107–210 amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “a minimum age for the employment of children; and”.
 
 2000—Par. (6). Pub. L. 106–200 added par. (6).
 
@@ -58,5 +60,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2462, 2463, 2702, 2703, 3202, 3551 of this title; title 15 section 4711; title 22 sections 262p–4p, 2191a, 6903.
+This section is referred to in sections 2462, 2463, 2702, 2703, 3202, 3203, 3551 of this title; title 22 sections 262p–4p, 2191a, 6903.
 

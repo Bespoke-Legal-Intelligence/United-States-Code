@@ -34,7 +34,7 @@ Informed Decisionmaking.—The Office shall ensure that each eligible individual
 
 &emsp;&emsp;(iii) if cost increases are anticipated, the projected premiums for a typical insured individual at various ages.
 
-&emsp;(4) The advantages and disadvantages of long-term care insurance generally, relative toother means of accumulating or otherwise acquiring the assets that may be needed to meet the costs of long-term care, such as through tax-qualified retirement programs or other investment vehicles.
+&emsp;(4) The advantages and disadvantages of long-term care insurance generally, relative to other means of accumulating or otherwise acquiring the assets that may be needed to meet the costs of long-term care, such as through tax-qualified retirement programs or other investment vehicles.
 
 (Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 768.)
 

@@ -1,6 +1,6 @@
 ### §1335. Rules and regulations
 
-The commission is authorized to adopt such reasonable procedures and rules and regulations as it deems necessary to carry out its functions and duties.
+The commission is authorized to adopt such reasonable procedures and rules and regulationsas it deems necessary to carry out its functions and duties.
 
 (June 17, 1930, ch. 497, title III, §335, as added Aug. 20, 1958, Pub. L. 85–686, §9(c)(2), 72 Stat. 680.)
 

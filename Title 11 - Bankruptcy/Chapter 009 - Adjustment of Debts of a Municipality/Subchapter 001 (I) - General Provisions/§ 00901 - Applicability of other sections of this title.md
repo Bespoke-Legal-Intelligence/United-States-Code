@@ -4,7 +4,7 @@
 
 (b) A term used in a section of this title made applicable in a case under this chapter by subsection (a) of this section or section 103(e) <sup>1</sup> of this title has the meaning defined for such term for the purpose of such applicable section, unless such term is otherwise defined in section 902 of this title.
 
-(c) A section made applicable in a case under this chapter by subsection (a) of this section that is operative if the business of the debtor is authorized to be operated is operative in a case under this chapter.
+(c) A section made applicable in a case under this chapter by subsection (a) of this sectionthat is operative if the business of the debtor is authorized to be operated is operative in a case under this chapter.
 
 (Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2621; Pub. L. 98–353, title III, §§353, 490, July 10, 1984, 98 Stat. 361, 383; Pub. L. 100–597, §3, Nov. 3, 1988, 102 Stat. 3028.)
 
@@ -16,7 +16,7 @@ Chapter 9 of the House amendment represents a compromise between chapter 9 of th
 
 #### house report no. 95–595
 
-Section 901 makes applicable appropriate provisions of other chapters of proposed title 11. The general rule set out in section 103(e) is that only the provisions of chapters 1 and 9 apply in a chapter 9 case. Section 901is the exception, and specifies other provisions that do apply. They are as follows:
+Section 901 makes applicable appropriate provisions of other chapters of proposed title 11. The general rule set out in section 103(e) is that only the provisions of chapters 1 and 9 apply in a chapter 9 case. Section 901 is the exception, and specifies other provisions that do apply. They are as follows:
 
 <i>§301. Voluntary cases</i>. Application of this section makes clear, as under current chapter IX \[chapter 9 of former title 11\], that a municipal case can be commenced only by the municipality itself. There are no involuntary chapter 9 cases.
 

@@ -16,11 +16,11 @@ Nothing in the Trade Sanctions Reform and Export Enhancement Act of 2000 \[22 U.
 
 #### References in Text
 
-The Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in text, is section 1(a) \[title IX\] of Pub. L. 106–387, Oct. 28, 2000, 114 Stat. 1549, 1549A–67, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
+The Trade Sanctions Reform and Export Enhancement Act of 2000, referred to in text, is section 1(a) \[title IX\] of Pub. L. 106–387, Oct. 28, 2000, 114 Stat. 1549,1549A–67, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7201 of this title and Tables.
 
 Executive Order No. 12947, referred to in par. (1), is set out as a note under section 1701 of Title 50, War and National Defense.
 
-The Antiterrorism and Effective Death Penalty Act of 1996, referred to in par. (2), is Pub. L. 104–132, Apr. 24, 1996, 110 Stat. 1214, as amended. For complete classficiation of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+The Antiterrorism and Effective Death Penalty Act of 1996, referred to in par. (2), is Pub. L. 104–132, Apr. 24, 1996, 110 Stat. 1214, as amended. For complete classification of this Act to the Code, see Short Title of 1996 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 Executive Order No. 13224, referred to par. (3), is set out as a note under section 1701 of Title 50, War and National Defense.
 

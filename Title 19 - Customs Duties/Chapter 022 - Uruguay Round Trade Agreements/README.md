@@ -84,6 +84,11 @@
 | (b) | Action by administering authority. |
 | (c) | Effects of determinations; notice of implementation. |
 | (d) | Opportunity for comment by interested parties. |
+| [3539\.](Subchapter%20001%20%28I%29%20-%20Approval%20of%2C%20and%20General%20Provisions%20Relating%20to%2C%20Uruguay%20Round%20Agreements/Part%20C%20-%20Uruguay%20Round%20Implementation%20and%20Dispute%20Settlement/%C2%A7%2003539%20-%20Fund%20for%20WTO%20dispute%20settlements.md) | Fund for WTO dispute settlements. |
+| (a) | Establishment of fund. |
+| (b) | Authority of USTR to pay settlements. |
+| (c) | Appropriations. |
+| (d) | Management of fund. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

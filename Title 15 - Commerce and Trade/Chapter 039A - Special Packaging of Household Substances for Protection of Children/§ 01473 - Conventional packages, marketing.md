@@ -6,7 +6,7 @@ For the purpose of making any household substance which is subject to a standard
 
 &emsp;(1) the manufacturer (or packer) also supplies such substance in packages which comply with such standard; and
 
-&emsp;(2) the packages of such substance which do not meet such standard bear conspicuous labeling stating: “This package for households without young children”; except that theCommission may by regulation prescribe a substitute statement to the same effect for packaging too small to accommodate such labeling.
+&emsp;(2) the packages of such substance which do not meet such standard bear conspicuous labeling stating: “This package for households without young children”; except that the Commission may by regulation prescribe a substitute statement to the same effect for packaging too small to accommodate such labeling.
 
 #### (b) Noncomplying packages for substances dispensed pursuant to orders of medical practitioners
 

@@ -14,7 +14,7 @@ The purposes of this subchapter are—
 
 &emsp;&emsp;(B) to develop techniques to use manufacturing expertise for the manufacture of a variety of semiconductor products; and
 
-&emsp;(2) in order to achieve the purpose set out in paragraph (1), to provide a grant program for the financial support of semiconductor research activities conducted by Sematech.
+&emsp;(2) in order to achieve the purpose set out in paragraph (1), to provide a grant program forthe financial support of semiconductor research activities conducted by Sematech.
 
 #### (c) Definitions
 
@@ -22,7 +22,7 @@ In this subchapter:
 
 &emsp;(1) The terms “Semiconductor Technology Council” and “Council” mean the advisory council established by section 4603 of this title.
 
-&emsp;(2) The term “Sematech” means a consortium of firms in the United States semiconductor industry established for the purposes of (A) conducting research concerningadvanced semiconductor manufacturing techniques, and (B) developing techniques to adapt manufacturing expertise to a variety of semiconductor products.
+&emsp;(2) The term “Sematech” means a consortium of firms in the United States semiconductor industry established for the purposes of (A) conducting research concerning advanced semiconductor manufacturing techniques, and (B) developing techniques to adapt manufacturing expertise to a variety of semiconductor products.
 
 (Pub. L. 100–180, div. A, title II, §271, Dec. 4, 1987, 101 Stat. 1068; Pub. L. 103–160, div. A, title II, §263(c)(1), Nov. 30, 1993, 107 Stat. 1610.)
 

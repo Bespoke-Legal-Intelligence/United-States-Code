@@ -2,7 +2,7 @@
 
 #### (a) Request by tribe for contract or grant by Secretary of the Interior for improving, etc., tribal governmental, contracting, and program planning activities
 
-The Secretary of the Interior is authorized, upon the request of any Indian tribe (from fundsappropriated for the benefit of Indians pursuant to section 13 of this title, and any Act subsequent thereto) to contract with or make a grant or grants to any tribal organization for—
+The Secretary of the Interior is authorized, upon the request of any Indian tribe (from funds appropriated for the benefit of Indians pursuant to section 13 of this title, and any Act subsequent thereto) to contract with or make a grant or grants to any tribal organization for—
 
 &emsp;(1) the strengthening or improvement of tribal government (including, but not limited to, the development, improvement, and administration of planning, financial management, or merit personnel systems; the improvement of tribally funded programs or activities; or the development, construction, improvement, maintenance, preservation, or operation of tribal facilities or resources);
 
@@ -38,7 +38,7 @@ The Secretary is authorized, upon the request of an Indian tribe, to make a gran
 
 &emsp;(1) obtaining technical assistance from providers designated by the tribal organization, including tribal organizations that operate mature contracts, for the purposes of program planning and evaluation, including the development of any management systems necessary for contract management, and the development of cost allocation plans for indirect cost rates; and
 
-&emsp;(2) the planning, designing, monitoring, and evaluating of Federal programs serving the tribe, including Federal administrative functions.
+&emsp;(2) the planning, designing, monitoring, and evaluating of Federal programs serving thetribe, including Federal administrative functions.
 
 (Pub. L. 93–638, title I, §103, formerly §104, Jan. 4, 1975, 88 Stat. 2207; renumbered §103 and amended Pub. L. 100–472, title II, §202, Oct. 5, 1988, 102 Stat. 2289; Pub. L. 101–644, title II, §203(g)(1), Nov. 29, 1990, 104 Stat. 4666.)
 

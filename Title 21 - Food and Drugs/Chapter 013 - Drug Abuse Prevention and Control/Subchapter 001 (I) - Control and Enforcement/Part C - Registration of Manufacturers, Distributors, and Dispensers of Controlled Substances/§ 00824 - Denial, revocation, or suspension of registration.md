@@ -8,9 +8,9 @@ A registration pursuant to section 823 of this title to manufacture, distribute,
 
 &emsp;(2) has been convicted of a felony under this subchapter or subchapter II of this chapter or any other law of the United States, or of any State, relating to any substance defined in this subchapter as a controlled substance or a list I chemical;
 
-&emsp;(3) has had his State license or registration suspended, revoked, or denied by competent State authority and is no longer authorized by State law to engage in the manufacturing, distribution, or dispensing of controlled substances or list I chemicals or has had the suspension, revocation, or denial of his registration recommended by competent State authority;
+&emsp;(3) has had his State license or registration suspended, revoked, or denied by competentState authority and is no longer authorized by State law to engage in the manufacturing, distribution, or dispensing of controlled substances or list I chemicals or has had the suspension, revocation, or denial of his registration recommended by competent State authority;
 
-&emsp;(4) has committed such acts as would render his registration under section 823 of this titleinconsistent with the public interest as determined under such section; or
+&emsp;(4) has committed such acts as would render his registration under section 823 of this title inconsistent with the public interest as determined under such section; or
 
 &emsp;(5) has been excluded (or directed to be excluded) from participation in a program pursuant to section 1320a–7(a) of title 42.
 
@@ -50,7 +50,7 @@ Subchapter II of this chapter, referred to in subsec. (a)(1), (2), was in the or
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–310, §3502(b)(1), substituted “section 823(g)(1) of this title” for “section823(g) of this title” in two places in concluding provisions.
+2000—Subsec. (a). Pub. L. 106–310, §3502(b)(1), substituted “section 823(g)(1) of this title” for “section 823(g) of this title” in two places in concluding provisions.
 
 Subsec. (d). Pub. L. 106–310, §3502(b)(2), substituted “section 823(g)(1) of this title” for “section 823(g) of this title”.
 

@@ -14,7 +14,7 @@
 
 #### (1) In general
 
-&emsp;Any State that receives a grant under this section shall use the funds made available through the grant to carry out the activities described in paragraph (2) and may use thefunds to carry out the activities described in paragraph (3).
+&emsp;Any State that receives a grant under this section shall use the funds made available through the grant to carry out the activities described in paragraph (2) and may use the funds to carry out the activities described in paragraph (3).
 
 #### (2) Required activities
 
@@ -48,7 +48,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State shall develop and promote the adoption of policies that improve access to assistive technology devices and assistive technology services for individuals with disabilities of all ages in the State and that result in improved coordination among public and private entities that are responsible or have the authority to be responsible, for policies, procedures, or funding for, or the provision of assistive technology devices and assistive technology services to, such individuals.
+&emsp;&emsp;&emsp;The State shall develop and promote the adoption of policies that improve access to assistive technology devices and assistivetechnology services for individuals with disabilities of all ages in the State and that result in improved coordination among public and private entities that are responsible or have the authority to be responsible, for policies, procedures, or funding for, or the provision of assistive technology devices and assistive technology services to, such individuals.
 
 #### (ii) Appointment to certain information technology panels
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;&emsp;(i) the development of systems that provide assistive technology devices and assistive technology services to individuals with disabilities of all ages, and that pay for such devices and services, such as—
 
-&emsp;&emsp;&emsp;&emsp;(I) the development of systems for the purchase, lease, other acquisition, or payment for the provision, of assistive technology devices and assistive technology services; or
+&emsp;&emsp;&emsp;&emsp;(I) the development of systems for the purchase, lease, other acquisition, orpayment for the provision, of assistive technology devices and assistive technology services; or
 
 &emsp;&emsp;&emsp;&emsp;(II) the establishment of alternative State or privately financed systems of subsidies for the provision of assistive technology devices and assistive technology services, such as—
 
@@ -166,7 +166,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The State may enter into cooperative agreements with other States to expand the capacity of the States involved to assist individuals with disabilities of all ages to learn about, acquire, use, maintain, adapt, and upgrade assistive technology devices and assistive technology services that such individuals need at home, at school, at work, or in other environments that are part of daily living.
+&emsp;&emsp;&emsp;The State may enter into cooperative agreements with other States to expand the capacity of the States involved to assist individuals with disabilities of all ages to learn about, acquire, use, maintain, adapt, and upgrade assistive technology devices and assistive technology servicesthat such individuals need at home, at school, at work, or in other environments that are part of daily living.
 
 #### (ii) Electronic communication
 
@@ -332,7 +332,7 @@
 
 #### (A) Determination
 
-&emsp;&emsp;The Secretary shall determine and specify to the State the time period for which the application supplement shall apply, in accordance with subparagraph (B).
+&emsp;&emsp;The Secretary shall determine and specify to the State the time period for which theapplication supplement shall apply, in accordance with subparagraph (B).
 
 #### (B) Limit
 

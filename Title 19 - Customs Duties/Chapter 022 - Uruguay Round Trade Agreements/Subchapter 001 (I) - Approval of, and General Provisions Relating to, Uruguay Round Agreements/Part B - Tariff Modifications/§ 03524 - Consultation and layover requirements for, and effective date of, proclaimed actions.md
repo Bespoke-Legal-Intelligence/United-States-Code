@@ -32,5 +32,5 @@ Authority of President to perform certain functions in order to fulfill consulta
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3521, 3601 of this title.
+This section is referred to in sections 3521, 3601, 3803 of this title.
 

@@ -1,0 +1,188 @@
+### §3803. Trade agreements authority
+
+#### (a) Agreements regarding tariff barriers
+
+#### (1) In general
+
+&emsp;Whenever the President determines that one or more existing duties or other import restrictions of any foreign country or the United States are unduly burdening and restricting the foreign trade of the United States and that the purposes, policies, priorities, and objectives of this chapter will be promoted thereby, the President—
+
+&emsp;&emsp;(A) may enter into trade agreements with foreign countries before—
+
+&emsp;&emsp;&emsp;(i) June 1, 2005; or
+
+&emsp;&emsp;&emsp;(ii) June 1, 2007, if trade authorities procedures are extended under subsection (c) of this section; and
+
+&emsp;&emsp;(B) may, subject to paragraphs (2) and (3), proclaim—
+
+&emsp;&emsp;&emsp;(i) such modification or continuance of any existing duty,
+
+&emsp;&emsp;&emsp;(ii) such continuance of existing duty-free or excise treatment, or
+
+&emsp;&emsp;&emsp;(iii) such additional duties,
+
+> &emsp;&emsp;as the President determines to be required or appropriate to carry out any such trade agreement.
+
+> &emsp;The President shall notify the Congress of the President's intention to enter into an agreement under this subsection.
+
+#### (2) Limitations
+
+&emsp;No proclamation may be made under paragraph (1) that—
+
+&emsp;&emsp;(A) reduces any rate of duty (other than a rate of duty that does not exceed 5 percent ad valorem on August 6, 2002) to a rate of duty which is less than 50 percent of the rate of such duty that applies on August 6, 2002;
+
+&emsp;&emsp;(B) reduces the rate of duty below that applicable under the Uruguay Round Agreements, on any import sensitive agricultural product; or
+
+&emsp;&emsp;(C) increases any rate of duty above the rate that applied on August 6, 2002.
+
+#### (3) Aggregate reduction; exemption from staging
+
+#### (A) Aggregate reduction
+
+&emsp;&emsp;Except as provided in subparagraph (B), the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if—
+
+&emsp;&emsp;&emsp;(i) a reduction of 3 percent ad valorem or a reduction of one-tenth of the total reduction, whichever is greater, had taken effect on the effective date of the first reduction proclaimed under paragraph (1) to carry out such agreement with respect to such article; and
+
+&emsp;&emsp;&emsp;(ii) a reduction equal to the amount applicable under clause (i) had taken effect at 1-year intervals after the effective date of such first reduction.
+
+#### (B) Exemption from staging
+
+&emsp;&emsp;No staging is required under subparagraph (A) with respect to a duty reduction that is proclaimed under paragraph (1) for an article of a kind that is not produced in the United States. The United States International Trade Commission shall advise the President of the identity of articles that may be exempted from staging under this subparagraph.
+
+#### (4) Rounding
+
+&emsp;If the President determines that such action will simplify the computation of reductions under paragraph (3), the President may round an annual reduction by an amount equal to the lesser of—
+
+&emsp;&emsp;(A) the difference between the reduction without regard to this paragraph and the next lower whole number; or
+
+&emsp;&emsp;(B) one-half of 1 percent ad valorem.
+
+#### (5) Other limitations
+
+&emsp;A rate of duty reduction that may not be proclaimed by reason of paragraph (2) may take effect only if a provision authorizing such reduction is included within an implementing bill provided for under section 3805 of this title and that bill is enacted into law.
+
+#### (6) Other tariff modifications
+
+&emsp;Notwithstanding paragraphs (1)(B), (2)(A), (2)(C), and (3) through (5), and subject to the consultation and layover requirements of section 115 of the Uruguay Round Agreements Act \[19 U.S.C. 3524\], the President may proclaim the modification of any duty or staged rate reduction of any duty set forth in Schedule XX, as defined in section 2(5) of that Act \[19 U.S.C. 3501(5)\], if the United States agrees to such modification or staged rate reduction in a negotiation for the reciprocal elimination or harmonization of duties under the auspices of the World Trade Organization.
+
+#### (7) Authority under Uruguay Round Agreements Act not affected
+
+&emsp;Nothing in this subsection shall limit the authority provided to the President under section 111(b) of the Uruguay Round Agreements Act (19 U.S.C. 3521(b)).
+
+#### (b) Agreements regarding tariff and nontariff barriers
+
+#### (1) In general
+
+&emsp;(A) Whenever the President determines that—
+
+&emsp;&emsp;(i) one or more existing duties or any other import restriction of any foreign country or the United States or any other barrier to, or other distortion of, international trade unduly burdens or restricts the foreign trade of the United States or adversely affects the United States economy, or
+
+&emsp;&emsp;(ii) the imposition of any such barrier or distortion is likely to result in such a burden, restriction, or effect,
+
+> &emsp;and that the purposes, policies, priorities, and objectives of this chapter will be promoted thereby, the President may enter into a trade agreement described in subparagraph (B) during the period described in subparagraph (C).
+
+&emsp;(B) The President may enter into a trade agreement under subparagraph (A) with foreign countries providing for—
+
+&emsp;&emsp;(i) the reduction or elimination of a duty, restriction, barrier, or other distortion described in subparagraph (A); or
+
+&emsp;&emsp;(ii) the prohibition of, or limitation on the imposition of, such barrier or other distortion.
+
+&emsp;(C) The President may enter into a trade agreement under this paragraph before—
+
+&emsp;&emsp;(i) June 1, 2005; or
+
+&emsp;&emsp;(ii) June 1, 2007, if trade authorities procedures are extended under subsection (c) of this section.
+
+#### (2) Conditions
+
+&emsp;A trade agreement may be entered into under this subsection only if such agreement makes progress in meeting the applicable objectives described in section 3802(a) and (b) of this title and the President satisfies the conditions set forth in section 3804 of this title.
+
+#### (3) Bills qualifying for trade authorities procedures
+
+&emsp;(A) The provisions of section 2191 of this title (in this chapter referred to as “trade authorities procedures”) apply to a bill of either House of Congress which contains provisions described in subparagraph (B) to the same extent as such section 2191 of this title applies to implementing bills under that section. A bill to which this paragraph applies shall hereafter in this chapter be referred to as an “implementing bill”.
+
+&emsp;(B) The provisions referred to in subparagraph (A) are—
+
+&emsp;&emsp;(i) a provision approving a trade agreement entered into under this subsection and approving the statement of administrative action, if any, proposed to implement such trade agreement; and
+
+&emsp;&emsp;(ii) if changes in existing laws or new statutory authority are required to implement such trade agreement or agreements, provisions, necessary or appropriate to implement such trade agreement or agreements, either repealing or amending existing laws or providing new statutory authority.
+
+#### (c) Extension disapproval process for Congressional trade authorities procedures
+
+#### (1) In general
+
+&emsp;Except as provided in section 3805(b) of this title—
+
+&emsp;&emsp;(A) the trade authorities procedures apply to implementing bills submitted with respect to trade agreements entered into under subsection (b) of this section before July 1, 2005; and
+
+&emsp;&emsp;(B) the trade authorities procedures shall be extended to implementing bills submitted with respect to trade agreements entered into under subsection (b) of this section after June 30, 2005, and before July 1, 2007, if (and only if)—
+
+&emsp;&emsp;&emsp;(i) the President requests such extension under paragraph (2); and
+
+&emsp;&emsp;&emsp;(ii) neither House of the Congress adopts an extension disapproval resolution under paragraph (5) before June 1, 2005.
+
+#### (2) Report to Congress by the President
+
+&emsp;If the President is of the opinion that the trade authorities procedures should be extended to implementing bills described in paragraph (1)(B), the President shall submit to the Congress, not later than March 1, 2005, a written report that contains a request for such extension, together with—
+
+&emsp;&emsp;(A) a description of all trade agreements that have been negotiated under subsection (b) of this section and the anticipated schedule for submitting such agreements to the Congress for approval;
+
+&emsp;&emsp;(B) a description of the progress that has been made in negotiations to achieve the purposes, policies, priorities, and objectives of this chapter, and a statement that such progress justifies the continuation of negotiations; and
+
+&emsp;&emsp;(C) a statement of the reasons why the extension is needed to complete the negotiations.
+
+#### (3) Other reports to Congress
+
+#### (A) Report by the Advisory Committee
+
+&emsp;&emsp;The President shall promptly inform the Advisory Committee for Trade Policy and Negotiations established under section 2155 of this title of the President's decision to submit a report to the Congress under paragraph (2). The Advisory Committee shall submit to the Congress as soon as practicable, but not later than May 1, 2005, a written report that contains—
+
+&emsp;&emsp;&emsp;(i) its views regarding the progress that has been made in negotiations to achieve the purposes, policies, priorities, and objectives of this chapter; and
+
+&emsp;&emsp;&emsp;(ii) a statement of its views, and the reasons therefor, regarding whether the extension requested under paragraph (2) should be approved or disapproved.
+
+#### (B) Report by ITC
+
+&emsp;&emsp;The President shall promptly inform the International Trade Commission of the President's decision to submit a report to the Congress under paragraph (2). The International Trade Commission shall submit to the Congress as soon as practicable, but not later than May 1, 2005, a written report that contains a review and analysis of the economic impact on the United States of all trade agreements implemented between August 6, 2002, and the date on which the President decides to seek an extension requested under paragraph (2).
+
+#### (4) Status of reports
+
+&emsp;The reports submitted to the Congress under paragraphs (2) and (3), or any portion of such reports, may be classified to the extent the President determines appropriate.
+
+#### (5) Extension disapproval resolutions
+
+&emsp;(A) For purposes of paragraph (1), the term “extension disapproval resolution” means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: “That the \_\_\_\_ disapproves the request of the President for the extension, under section 2103(c)(1)(B)(i) of the Bipartisan Trade Promotion Authority Act of 2002, of the trade authorities procedures under that Act to any implementing bill submitted with respectto any trade agreement entered into under section 2103(b) of that Act after June 30, 2005.”, with the blank space being filled with the name of the resolving House of the Congress.
+
+&emsp;(B) Extension disapproval resolutions—
+
+&emsp;&emsp;(i) may be introduced in either House of the Congress by any member of such House; and
+
+&emsp;&emsp;(ii) shall be referred, in the House of Representatives, to the Committee on Ways and Means and, in addition, to the Committee on Rules.
+
+&emsp;(C) The provisions of section 2192(d) and (e) of this title (relating to the floor consideration of certain resolutions in the House and Senate) apply to extension disapproval resolutions.
+
+&emsp;(D) It is not in order for—
+
+&emsp;&emsp;(i) the Senate to consider any extension disapproval resolution not reported by the Committee on Finance;
+
+&emsp;&emsp;(ii) the House of Representatives to consider any extension disapproval resolution not reported by the Committee on Ways and Means and, in addition, by the Committee on Rules; or
+
+&emsp;&emsp;(iii) either House of the Congress to consider an extension disapproval resolution after June 30, 2005.
+
+#### (d) Commencement of negotiations
+
+In order to contribute to the continued economic expansion of the United States, the President shall commence negotiations covering tariff and nontariff barriers affecting any industry, product, or service sector, and expand existing sectoral agreements to countries that are not parties to those agreements, in cases where the President determines that such negotiations are feasible and timely and would benefit the United States. Such sectors include agriculture, commercial services, intellectual property rights, industrial and capital goods, government procurement, information technology products, environmental technology and services, medical equipment and services, civil aircraft, and infrastructure products. In so doing, the President shall take into account all of the principal negotiating objectives set forth in section 3802(b) of this title.
+
+(Pub. L. 107–210, div. B, title XXI, §2103, Aug. 6, 2002, 116 Stat. 1004.)
+
+#### References in Text
+
+The Bipartisan Trade Promotion Authority Act of 2002, referred to in subsec. (c)(5)(A), is title XXI of Pub. L. 107–210, div. B, Aug. 6, 2002, 116 Stat. 993, which is classified principally to this chapter. Section 2103 of the Act is classified to this section. For complete classification of title XXI to the Code, see section 3801(a) of this title and Tables.
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 2151, 2152, 2153, 2154, 2155, 2212, 3802, 3804, 3805, 3806, 3810 of this title.
+

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(J)(i) the Speaker and the Minority Leader of the House of Representatives;
 
-&emsp;&emsp;(ii) the chairman and ranking minority member of the Committee on Public Worksand Transportation of the House of Representatives; and
+&emsp;&emsp;(ii) the chairman and ranking minority member of the Committee on Public Works and Transportation of the House of Representatives; and
 
 &emsp;&emsp;(iii) three additional Members of the House of Representatives appointed by the Speaker of the House of Representatives;
 
@@ -92,17 +92,21 @@ Superintendent of schools of the district of columbia.—The amendment made by p
 
 Members of congress.—The amendment made by paragraph (1)(C)(ii) \[amending this section\] shall take effect on the date of enactment of this Act.”
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–224, §1, Sept. 18, 2002, 116 Stat. 1340, provided that: “This Act \[enacting section 76q–1 of this title and amending sections 76j, 76r, and 76s of this title\] may be cited as the ‘John F. Kennedy Center Plaza Authorization Act of 2002’.”
+
 #### Short Title of 1998 Amendment
 
 Pub. L. 105–226, §1, Aug. 12, 1998, 112 Stat. 1513, provided that: “This Act \[amending sections 76j, 76<i>l</i>, and 76r of this title\] may be cited as the ‘John F. Kennedy Center for the Performing Arts Authorization Act of 1998’.”
 
 #### Short Title of 1997 Amendment
 
-Pub. L. 105–95, §1, Nov. 19, 1997, 111 Stat. 2148, provided that: “This Act \[amending sections 76i to 76k and 76s of this title and section 193v of Title 40, Public Buildings, Property, and Works\] may be cited as the ‘John F. Kennedy Center Parking Improvement Act of 1997’.”
+Pub. L. 105–95, §1, Nov. 19, 1997, 111 Stat. 2148, provided that: “This Act \[amending sections 76i to 76k and 76s of this title and section 193v of former Title 40, Public Buildings, Property, and Works\] may be cited as the ‘John F. Kennedy Center Parking Improvement Act of 1997’.”
 
 #### Short Title of 1994 Amendment
 
-Section 1 of Pub. L. 103–279 provided that: “This Act \[enacting sections 76r and 76s of this title, amending this section, sections 76j, 76k, 76<i>l</i>, and 76p of this title, and sections 193r, 193u, and 193v of Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section\] may be cited as the ‘John F. Kennedy Center Act Amendments of 1994’.”
+Section 1 of Pub. L. 103–279 provided that: “This Act \[enacting sections 76r and 76s of this title, amending this section, sections 76j, 76k, 76<i>l</i>, and 76p of this title, and sections 193r, 193u, and 193v of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under this section, and amending provisions set out as a note under this section\] may be cited as the ‘John F. Kennedy Center Act Amendments of 1994’.”
 
 #### Short Title of 1984 Amendment
 
@@ -110,7 +114,7 @@ Pub. L. 98–473, title I, §101(c), Oct. 12, 1984, 98 Stat. 1837, 1876, provide
 
 #### Short Title of 1963 Amendment
 
-Section 5 of Pub. L. 88–100 provided that: “This Act \[amending this section and sections 76<i>l</i> and 76m of this title\] may be cited as the ‘National Cultural Center Amendments Act of 1963’.”
+Section 5 of Pub. L. 88–100 provided that: “This Act \[amending this section and sections 76<i>l</i> and 76m of thistitle\] may be cited as the ‘National Cultural Center Amendments Act of 1963’.”
 
 #### Short Title
 

@@ -30,21 +30,31 @@
 
 &emsp;&emsp;(F) with respect to an Executive agency designated under paragraph (1)(F), the head of such Executive agency, and with respect to a unit of an Executive agency designated under paragraph (1)(F), such individual as the President may determine.
 
-(b) Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave transfer program established under any of the preceding provisions of this subchapter.
+(b)(1) The head of an excepted agency shall, by regulation, establish a program under which annual leave accrued or accumulated by an employee of such agency may be transferred to the annual leave account of any other employee of such agency if such other employee requires additional leave because of a medical emergency.
 
-(c)(1) The head of an excepted agency shall, by regulation, establish a program under which annual leave accrued or accumulated by an employee of such agency may be transferred to the annual leave account of any other employee of such agency if such other employee requires additional leave because of a medical emergency.
-
-(2) To the extent practicable, and consistent with the protection of intelligence sources and methods (if applicable), each program under this section shall be established—
+(2) To the extent practicable, and consistent with the protection of intelligence sources and methods (if applicable), each program under this subsection shall be established—
 
 &emsp;(A) in a manner consistent with the provisions of this subchapter applicable to the program; and
 
 &emsp;(B) without regard to any provisions relating to transfers or restorations of leave between employees in different agencies.
 
-(d) The Office of Personnel Management shall provide the head of an excepted agency with such advice and assistance as the head of suchagency may request in order to carry out the purposes of this section.
+(c)(1) Notwithstanding any provision of subsection (b), the head of an excepted agency may, at his sole discretion, by regulation establish a program under which an individual employed in or under such excepted agency may participate in a leave transfer program established under the provisions of this subchapter outside of this section, including provisions permitting the transfer of annual leave accrued or accumulated by such employee to, or permitting such employee to receive transferred leave from, an employee of any other agency (including another excepted agency having a program under this subsection).
 
-(Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2838; amended Pub. L. 103–359, title V, §501(i), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a), Sept. 23, 1996, 110 Stat. 2687.)
+(2) To the extent practicable and consistent with the protection of intelligence sources and methods, any program established under paragraph (1) shall be consistent with the provisions of this subchapter outside of this section and with any regulations issued by the Office of Personnel Management implementing this subchapter.
+
+(d) The Office shall provide the head of an excepted agency with such advice and assistance as the head of such agency may request in order to carry out the purposes of this section.
+
+(Added Pub. L. 100–566, §2(a), Oct. 31, 1988, 102 Stat. 2838; amended Pub. L. 103–359, title V, §501(i), Oct. 14, 1994, 108 Stat. 3429; Pub. L. 104–201, div. A, title XI, §1122(a), Sept. 23, 1996, 110 Stat. 2687; Pub. L. 107–306, title III, §322, Nov. 27, 2002, 116 Stat. 2391.)
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–306, §322(a)(1), (2), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “Notwithstanding any other provision of this subchapter, neither an excepted agency nor any individual employed in or under an excepted agency may be included in a leave transfer program established under any of the preceding provisions of this subchapter.”
+
+Subsec. (b)(2). Pub. L. 107–306, §322(b)(1), substituted “under this subsection” for “under this section” in introductory provisions.
+
+Subsec. (c). Pub. L. 107–306, §322(a)(3), added subsec. (c). Former subsec. (c) redesignated (b).
+
+Subsec. (d). Pub. L. 107–306, §322(b)(2), struck out “of Personnel Management” after “The Office”.
 
 1996—Subsec. (a)(1)(E). Pub. L. 104–201, §1122(a)(1), substituted “National Imagery and Mapping Agency” for “Central Imagery Office”.
 

@@ -50,7 +50,7 @@ Nothing in this chapter shall be deemed to preclude or limit in any way the auth
 
 (B) The authority to spend proceeds received under subparagraph (A) may be exercised only to such extent or in such amounts as are provided in advance in an appropriation Act.
 
-(Aug. 1, 1956, ch. 841, title II, §204, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat.284; amended Pub. L. 99–93, title I, §§126(b), 127(c), Aug. 16, 1985, 99 Stat. 418; Pub. L. 101–246, title I, §116(b), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, §162(<i>o</i>)(3), Apr. 30, 1994, 108 Stat. 410; Pub. L. 103–415, §1(cc), Oct. 25, 1994, 108 Stat. 4302.)
+(Aug. 1, 1956, ch. 841, title II, §204, as added Pub. L. 97–241, title II, §202(b), Aug. 24, 1982, 96 Stat. 284; amended Pub. L. 99–93, title I, §§126(b), 127(c), Aug. 16, 1985, 99 Stat. 418; Pub. L. 101–246, title I, §116(b), Feb. 16, 1990, 104 Stat. 24; Pub. L. 103–236, title I, §162(<i>o</i>)(3), Apr. 30, 1994, 108 Stat. 410; Pub. L. 103–415, §1(cc), Oct. 25, 1994, 108 Stat. 4302.)
 
 #### References in Text
 
@@ -82,7 +82,11 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 Amendment by section 126(b) of Pub. L. 99–93 effective Oct. 1, 1985, see section 126(e) of Pub. L. 99–93, set out as an Effective Date note under section 4314 of this title.
 
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300, 4303, 4307, 4309 of this title; title 40 section 1107.
+This section is referred to in sections 300, 4303, 4307, 4309 of this title.
 

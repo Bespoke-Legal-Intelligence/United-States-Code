@@ -58,7 +58,7 @@
 
 #### (2) Distribution
 
-&emsp;The Secretary shall establish efficient and low-cost procedures for distribution (including electronic distribution) of code sets and modifications made to such code sets under section 1320d–3(b) of this title.
+&emsp;The Secretary shall establish efficient and low-cost procedures for distribution (includingelectronic distribution) of code sets and modifications made to such code sets under section 1320d–3(b) of this title.
 
 #### (d) Security standards for health information
 
@@ -128,7 +128,7 @@ Section 1. <i>Policy.</i>
 
 It shall be the policy of the Government of the United States that law enforcement may not use protected health information concerning an individual that is discovered during the course of health oversight activities for unrelated civil, administrative, or criminal investigations of a non-health oversight matter, except when the balance of relevant factors weighs clearly in favor of its use. That is, protected health information may not be so used unless the public interest and the need for disclosure clearly outweigh the potential for injury to the patient, to the physician-patient relationship, and to the treatment services. Protecting the privacy of patients’ protected health information promotes trust in the health care system. It improves the quality of health care by fostering an environment in which patients can feel more comfortable in providing health care professionals with accurate and detailed information about their personal health. In order to provide greater protections to patients’ privacy, the Department of Health and Human Services is issuing final regulations concerning the confidentiality of individually identifiable health information under the Health Insurance Portability and Accountability Act of 1996 \[Pub. L. 104–191, see Tables for classification\] (HIPAA). HIPAA applies only to “covered entities,” such as health care plans, providers, and clearinghouses. HIPAA regulations therefore do not apply to other organizations and individuals that gain access to protected health information, including Federal officials who gain access to health records during health oversight activities.
 
-Under the new HIPAA regulations, health oversight investigators will appropriately have ready access to medical records for oversight purposes. Health oversight investigators generally do not seek access to the medical records of a particular patient, but instead review large numbers of records to determine whether a health care provider or organization is violating the law, such as through fraud against the Medicare system. Access to many health records is often necessary in order to gain enough evidence to detect and bring enforcement actions against fraud in the health care system. Stricter rules apply under the HIPAA regulations, however, when law enforcement officials seek protected health information in order to investigate criminal activity outside of the health oversight realm.
+Under the new HIPAA regulations, health oversight investigators will appropriately have ready access to medical records for oversight purposes. Health oversight investigators generally do not seek access to the medical records of a particular patient, but instead review large numbers of records to determine whether a health care provider or organization is violating thelaw, such as through fraud against the Medicare system. Access to many health records is often necessary in order to gain enough evidence to detect and bring enforcement actions against fraud in the health care system. Stricter rules apply under the HIPAA regulations, however, when law enforcement officials seek protected health information in order to investigate criminal activity outside of the health oversight realm.
 
 In the course of their efforts to protect the health care system, health oversight investigators may also uncover evidence of wrongdoing unrelated to the health care system, such as evidence of criminal conduct by an individual who has sought health care. For records containing that evidence, the issue thus arises whether the information should be available for law enforcement purposes under the less restrictive oversight rules or the more restrictive rules that apply to non-oversight criminal investigations.
 
@@ -160,7 +160,7 @@ Sec. 3. <i>Implementation.</i>
 
 (iv) the uses for which the protected health information was authorized.
 
-(e) The General Counsel of the U.S. Department of Defense will comply with the requirements of subparagraphs (b), (c), and (d), above. The General Counsel also will prepare a report, consistent with the requirements of subparagraphs (d)(i) through (d)(iv), above, and will forward it to the Department of Justice where it will beincorporated into the Department's annual report to the President.
+(e) The General Counsel of the U.S. Department of Defense will comply with the requirements of subparagraphs (b), (c), and (d), above. The General Counsel also will prepare a report, consistent with the requirements of subparagraphs (d)(i) through (d)(iv), above, and will forward it to the Department of Justice where it will be incorporated into the Department's annual report to the President.
 
 Sec. 4. <i>Exceptions.</i>
 

@@ -1,18 +1,10 @@
 ### §6414. Suspension or termination of orders
 
-#### (a) Termination of order
-
-Any order effective under this chapter shall be terminated December 31, 2002. The Secretary shall—
-
-&emsp;(1) terminate the collection of assessments under the order upon such date; and
-
-&emsp;(2) terminate activities under the order in an orderly manner as soon as practicable after such date.
-
-#### (b) Suspension or termination by Secretary
+#### (a) Suspension or termination by Secretary
 
 The Secretary shall, whenever the Secretary finds that the order or any provision of the order obstructs or does not tend to effectuate the declared policy of this chapter, terminate or suspend the operation of the order or provision.
 
-#### (c) Other referenda
+#### (b) Other referenda
 
 #### (1) In general
 
@@ -32,9 +24,15 @@ The Secretary shall, whenever the Secretary finds that the order or any provisio
 
 &emsp;Subsections (c) and (d) of section 6413 of this title shall apply to a referendum conducted under this subsection.
 
-(Pub. L. 101–624, title XIX, §1999O, Nov. 28, 1990, 104 Stat. 3925; (As amended Pub. L. 104–127, title I, §146(d)(2), (e), Apr. 4, 1996, 110 Stat. 919.)
+(Pub. L. 101–624, title XIX, §1999O, Nov. 28, 1990, 104 Stat. 3925; Pub. L. 104–127, title I, §146(d)(2), (e), Apr. 4, 1996, 110 Stat. 919; Pub. L. 107–171, title I, §1506(c), May 13, 2002, 116 Stat. 210.)
 
 #### Amendments
+
+2002—Pub. L. 107–171 redesignated subsecs. (b) and (c) as (a) and (b), respectively, and struck out heading and text of former subsec. (a). Text read as follows: “Any order effective under this chapter shall be terminated December 31, 2002. The Secretary shall—
+
+&emsp;“(1) terminate the collection of assessments under the order upon such date; and
+
+&emsp;“(2) terminate activities under the order in an orderly manner as soon as practicable after such date.”
 
 1996—Subsec. (a). Pub. L. 104–127, §146(e), substituted “2002” for “1996” in introductory provisions.
 

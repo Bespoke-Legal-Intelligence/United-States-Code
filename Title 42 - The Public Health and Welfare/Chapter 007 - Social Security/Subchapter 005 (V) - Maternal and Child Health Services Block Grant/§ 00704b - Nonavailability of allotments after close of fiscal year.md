@@ -1,6 +1,6 @@
 ### §704b. Nonavailability of allotments after close of fiscal year
 
-No allotment for this or any succeeding fiscal year under this subchapter shall be availableafter the close of such fiscal year except as may be necessary to liquidate obligations incurred during such year.
+No allotment for this or any succeeding fiscal year under this subchapter shall be available after the close of such fiscal year except as may be necessary to liquidate obligations incurred during such year.
 
 (July 5, 1952, ch. 575, title II, §201, 66 Stat. 368.)
 

@@ -130,7 +130,7 @@ Authorization of appropriation.—In addition to amounts authorized under sectio
 
 Additional Purposes of Rulemaking Proceeding and Study.—Additional purposes of the rulemaking proceeding initiated under subsection (a) with respect to a central reporting system and computerized telecommunications data center described in subsection (b) and the study conducted under subsection (b) are—
 
-&emsp;“(1) to determine whether such a system and center should be established and operated by the UnitedStates Government or by a private entity, either on its own initiative or under contract with the United States;
+&emsp;“(1) to determine whether such a system and center should be established and operated by the United States Government or by a private entity, either on its own initiative or under contract with the United States;
 
 &emsp;“(2) to determine, on an annualized basis, the estimated cost for establishing, operating, and maintaining such a system and center and for carrier and shipper compliance with such a system;
 
@@ -166,7 +166,7 @@ Weight to be given to recommendations of nas.—In conducting the review and pre
 
 &emsp;“(3)
 
-Inclusion of reasons for not following recommendations.—If the Secretary does not include in the report prepared for submission to Congress under this subsection a recommendation for implementation of a recommendation contained in the report of the National Academy of Sciences submitted under subsection (b), the Secretary shall include in the report to Congress under this subsection the Secretary's reasons for not recommending implementation of the recommendation of the National Academy of Sciences.”
+Inclusion of reasons for not following recommendations.—If the Secretary does not include inthe report prepared for submission to Congress under this subsection a recommendation for implementation of a recommendation contained in the report of the National Academy of Sciences submitted under subsection (b), the Secretary shall include in the report to Congress under this subsection the Secretary's reasons for not recommending implementation of the recommendation of the National Academy of Sciences.”
 
 #### Continually Monitored Telephone Systems
 

@@ -12,9 +12,9 @@ Two other sections 1364 were renumbered sections 1365 and 1366 of this title.
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–204 inserted “, or was at the time of the tortious act or omission,” after “who is”.
+1987—Subsec. (a). Pub. L. 100–204 inserted “, or was at the time of the tortious act or omission,” after “who is”.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–241 substituted “within the meaning of section 2(3) of the Diplomatic Relations Act (22 U.S.C. 254a(3))” for “as defined in the Vienna Convention on Diplomatic Relations”.
+1982—Subsec. (a). Pub. L. 97–241 substituted “within the meaning of section 2(3) of the Diplomatic Relations Act (22 U.S.C. 254a(3))” for “as defined in the Vienna Convention on Diplomatic Relations”.
 
 #### Effective Date of 1987 Amendment
 
@@ -22,7 +22,7 @@ Section 138(b) of Pub. L. 100–204 provided that: “The amendment made by subs
 
 #### Effective Date of 1982 Amendment
 
-Amendment by Pub. L. 97–241 effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an EffectiveDate note under section 4301 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 97–241 effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under section 4301 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date
 

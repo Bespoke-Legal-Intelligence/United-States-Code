@@ -26,7 +26,7 @@ General Contents of Report.—Each report under subsection (a) shall include the
 
 (c)
 
-Health Care Contents of Report.—Each report under subsection (a) shall include, with respect to programs of the Department addressing health care needs of homeless veterans, the following:
+Health Care Contents of Report.—Each report under subsection (a) shall include, withrespect to programs of the Department addressing health care needs of homeless veterans, the following:
 
 &emsp;(1) Information about expenditures, costs, and workload under the program of the Department known as the Health Care for Homeless Veterans program (HCHV).
 

@@ -12,7 +12,7 @@ The Comptroller General of the United States shall conduct a study for the purpo
 
 #### (b) Report
 
-Not later than January 7, 1992, the Comptroller General of the United States shall complete the study required in subsection (a) of this section and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings made as a result of the study.
+Not later than January 7, 1992, the Comptroller General of the United States shall completethe study required in subsection (a) of this section and submit to the Committee on Energy and Commerce of the House of Representatives, and to the Committee on Labor and Human Resources of the Senate, a report describing the findings made as a result of the study.
 
 (July 1, 1944, ch. 373, title III, §377, as added Pub. L. 101–616, title II, §206(a), Nov. 16, 1990, 104 Stat. 3285.)
 

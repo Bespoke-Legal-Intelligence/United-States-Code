@@ -10,7 +10,15 @@ Of the total amount appropriated under this subchapter in any fiscal year—
 
 #### (b) Federal share
 
-The Federal share of a grant made under this subchapter may not exceed 75 percent of thetotal costs of the projects described in the application submitted under section 3796ff–1 of this title for the fiscal year for which the projects receive assistance under this subchapter.
+The Federal share of a grant made under this subchapter may not exceed 75 percent of the total costs of the projects described in the application submitted under section 3796ff–1 of this title for the fiscal year for which the projects receive assistance under this subchapter.
 
-(Pub. L. 90–351, title I, §1904, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1900.)
+#### (c) Local allocation
+
+At least 10 percent of the total amount made available to a State under subsection (a) of this section for any fiscal year shall be used by the State to make grants to local correctional and detention facilities in the State (provided such facilities exist therein), for the purpose of assisting jail-based substance abuse treatment programs that are effective and science-based established by those local correctional facilities.
+
+(Pub. L. 90–351, title I, §1904, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1900; amended Pub. L. 107–273, div. B, title II, §2102(3), Nov. 2, 2002, 116 Stat. 1792.)
+
+#### Amendments
+
+2002—Subsec. (c). Pub. L. 107–273 added subsec. (c).
 

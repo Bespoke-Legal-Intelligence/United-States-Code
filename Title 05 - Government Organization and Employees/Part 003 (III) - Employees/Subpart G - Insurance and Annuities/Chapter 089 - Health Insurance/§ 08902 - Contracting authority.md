@@ -6,7 +6,7 @@
 
 (c) A contract for a plan described by section 8903(1) or (2) of this title shall require the carrier—
 
-&emsp;(1) to reinsure with other companies which elect to participate, under an equitable formula based on the total amount of their group health insurance benefit payments in the United States during the latest year for which the information is available, to be determined by the carrier and approved by the Office; or
+&emsp;(1) to reinsure with other companies which elect to participate, under an equitable formula based on the total amount of their group health insurance benefit payments in theUnited States during the latest year for which the information is available, to be determined by the carrier and approved by the Office; or
 
 &emsp;(2) to allocate its rights and obligations under the contract among its affiliates which elect to participate, under an equitable formula to be determined by the carrier and the affiliates and approved by the Office.
 
@@ -34,7 +34,7 @@
 
 (m)(1) The terms of any contract under this chapter which relate to the nature, provision, or extent of coverage or benefits (including payments with respect to benefits) shall supersede and preempt any State or local law, or any regulation issued thereunder, which relates to health insurance or plans.
 
-(2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, if a contract under this chapter provides for the provision of, thepayment for, or the reimbursement of the cost of health services for the care and treatment of any particular health condition, the carrier shall provide, pay, or reimburse up to the limits of its contract for any such health service properly provided by any person licensed under State law to provide such service if such service is provided to an individual covered by such contract in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant to section 332 of the Public Health Service Act (42 U.S.C. 254e).
+(2)(A) Notwithstanding the provisions of paragraph (1) of this subsection, if a contract under this chapter provides for the provision of, the payment for, or the reimbursement of the cost of health services for the care and treatment of any particular health condition, the carrier shall provide, pay, or reimburse up to the limits of its contract for any such health service properly provided by any person licensed under State law to provide such service if such service is provided to an individual covered by such contract in a State where 25 percent or more of the population is located in primary medical care manpower shortage areas designated pursuant tosection 332 of the Public Health Service Act (42 U.S.C. 254e).
 
 (B) The provisions of subparagraph (A) shall not apply to contracts entered into providing prepayment plans described in section 8903(4) of this title.
 
@@ -108,7 +108,7 @@ Subsec. (n). Pub. L. 101–508 added subsec. (n).
 
 1987—Subsec. (k)(1). Pub. L. 100–202, §101(m) \[title VI, §626(1), (2)\], inserted “or by a qualified clinical social worker as defined in section 8901(11),” after “as applicable,”, and “, qualified clinical social worker” after “such a clinical psychologist”.
 
-Subsec. (k)(2), (3). Pub. L. 100–202, §101(m) \[title VI, §626(3)\], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “When a contract under this chapter requires payment or reimbursementfor services which may be performed by a qualified clinical social worker, an employee, annuitant, family member, or former spouse covered by the contract shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed. As a condition for the payment or reimbursement, the contract—
+Subsec. (k)(2), (3). Pub. L. 100–202, §101(m) \[title VI, §626(3)\], redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “When a contract under this chapter requires payment or reimbursement for services which may be performed by a qualified clinical social worker, an employee, annuitant, family member, or former spouse covered by the contract shall be entitled under the contract to have payment or reimbursement made to him or on his behalf for the services performed. As a condition for the payment or reimbursement, the contract—
 
 &emsp;“(A) may require that the services be performed pursuant to a referral by a psychiatrist; but
 
@@ -206,7 +206,7 @@ Section 4(c) of Pub. L. 93–246 provided that: “Section 3 \[amending this sec
 
 #### Full Disclosure in Health Plan Contracts
 
-Pub. L. 105–266, §5, Oct. 19, 1998, 112 Stat. 2368, provided that: “The Office of Personnel Management shall encourage carriers offering health benefits plans described by section 8903 or section 8903a of title 5, United States Code, with respect to contractual arrangements made by such carriers with any person for purposes of obtaining discounts from providers for health care services or supplies furnished to individuals enrolled in such plan, to seek assurance that the conditions for such discounts are fully disclosed to the providers who grant them.”
+Pub. L. 105–266, §5, Oct. 19, 1998, 112 Stat. 2368, provided that: “The Office of Personnel Management shallencourage carriers offering health benefits plans described by section 8903 or section 8903a of title 5, United States Code, with respect to contractual arrangements made by such carriers with any person for purposes of obtaining discounts from providers for health care services or supplies furnished to individuals enrolled in such plan, to seek assurance that the conditions for such discounts are fully disclosed to the providers who grant them.”
 
 #### Rate Reduction for Medicare Eligible Federal Annuitants
 

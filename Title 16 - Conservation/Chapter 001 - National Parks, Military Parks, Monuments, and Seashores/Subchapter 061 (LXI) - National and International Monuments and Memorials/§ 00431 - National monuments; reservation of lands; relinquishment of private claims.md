@@ -98,7 +98,7 @@ Colorado National Monument, Colorado.—Proc. No. 1126, May 24, 1911, 37 Stat. 1
 
 c69.
 
-Craters of the Moon National Monument, Idaho.—Proc. No. 1694, May 2, 1924, 43 Stat. 1947; Proc. No. 1843, July 23, 1928, 45 Stat. 2959; Proc. No. 1916, July 9, 1930, 46 Stat. 3029; Proc. No. 2499, July 18, 1941, 55 Stat. 1660; Proc. No. 3506, Nov. 19, 1962, 77 Stat. 960; Pub. L. 104–333, div. I, title II, §205, Nov. 12, 1996, 110 Stat. 4106; Proc. No. 7373, Nov. 9, 2000, 65 F.R. 69221.
+Craters of the Moon National Monument, Idaho.—Proc. No. 1694, May 2, 1924, 43 Stat. 1947; Proc. No. 1843, July 23, 1928, 45 Stat. 2959; Proc. No. 1916, July 9, 1930, 46 Stat. 3029; Proc. No. 2499, July 18, 1941, 55 Stat. 1660; Proc. No. 3506, Nov. 19, 1962, 77 Stat. 960; Pub. L. 104–333, div. I, title II, §205, Nov. 12, 1996, 110 Stat. 4106; Proc. No. 7373, Nov. 9, 2000, 65 F.R. 69221; Pub. L. 107–213, §1, Aug. 21, 2002, 116 Stat. 1052.
 
 Death Valley National Monument, California and Nevada \[Monument abolished and incorporated in Death Valley National Park, see section 410aaa–1 of this title\].—Proc. No. 2028, Feb. 11, 1933, 47 Stat. 2554; Proc. No. 2228, Mar. 26, 1937, 50 Stat. 1823; Proc. No. 2961, Jan. 17, 1952, 66 Stat.
 
@@ -148,7 +148,7 @@ Glacier Bay National Monument, Alaska \[Monument redesignated Glacier Bay Nation
 
 c27; Proc. No. 4618, Dec. 1, 1978, 93 Stat. 1458.
 
-Governors Island National Monument, New York.—Proc. No. 7402, Jan. 19, 2001, 66 F.R. 7855.
+Governors Island National Monument, New York.—Proc. No. 7402, Jan. 19, 2001, 66 F.R. 7855; Proc. No. 7647, Feb. 7, 2003, 68 F.R. 7053.
 
 Gran Quivira National Monument, New Mexico \[Monument abolished and funds made available to Salinas National Monument by Pub. L. 96–550, title VI, §601(b), Dec. 19, 1980, 94 Stat. 3231. Salinas National Monument redesignated Salinas Pueblo Missions National Monument by Pub. L. 100–559, title I, §101, Oct. 28, 1988, 102 Stat. 2797\].—Proc. No. 882, Nov. 1, 1909, 36 Stat. 2503; Proc. No. 1545, Nov. 25, 1919, 41 Stat. 1778.
 
@@ -278,7 +278,7 @@ Statue of Liberty National Monument.—Proc. No. 1713, Oct. 15, 1924, 43 Stat. 1
 
 Sunset Crater Volcano National Monument, Arizona \[Monument changed from Sunset Crater National Monument by Pub. L. 101–612, §15, Nov. 16, 1990, 104 Stat. 3222\].—Proc. No. 1911, May 26, 1930, 46 Stat. 3023.
 
-Timpanogos Cave National Monument, Utah.—Proc. No. 1640, Oct. 14, 1922, 42 Stat. 2285; Proc. No. 3457, Mar. 27, 1962, 76 Stat. 1457.
+Timpanogos Cave National Monument, Utah.—Proc. No. 1640, Oct. 14, 1922, 42 Stat. 2285; Proc. No. 3457, Mar. 27, 1962, 76 Stat. 1457; Pub. L. 107–329, title I, Dec. 6, 2002, 116 Stat. 2815.
 
 Tonto National Monument, Arizona.—Proc. No. 787, Dec. 19, 1907, 35 Stat. 2168; Proc. No. 2230, Apr. 1, 1937, 50 Stat. 1825.
 
@@ -388,6 +388,8 @@ Father Marquette National Memorial, Michigan.—Pub. L. 94–160, Dec. 20, 1975,
 
 Federal Hall National Memorial, New York.—Designated May 26, 1939. Designation changed from Federal Hall Memorial Historic Site by act Aug. 11, 1955, ch. 779, 69 Stat. 632.
 
+Flight 93 National Memorial, Pennsylvania.—Pub. L. 107–226, Sept. 24, 2002, 116 Stat. 1345.
+
 Fort Caroline National Memorial, Florida.—Act Sept. 21, 1950, ch. 973, 64 Stat. 897. Established Jan. 16, 1953.
 
 Franklin Delano Roosevelt National Memorial, District of Columbia.—Acts Aug. 11, 1955, ch. 833, 69 Stat. 694; Sept. 1, 1959, Pub. L. 86–214, 73 Stat. 445; Oct. 18, 1962, Pub. L. 87–842, 76 Stat. 1079; Oct. 30, 1965, Pub. L. 89–305, 79 Stat. 1126; Sept. 8, 1970, Pub. L. 91–398, 84 Stat. 837; June 30, 1972, Pub. L. 92–332, 86 Stat. 401; July 28, 1982, Pub. L. 97–224, 96 Stat. 243; Oct. 1, 1996, Pub. L. 104–221, §§3, 4, 110 Stat. 3024; July 24, 1997, Pub. L. 105–29, 111 Stat. 246; Nov. 14, 1997, Pub. L. 105–83, title III, §335, 111 Stat. 1601.
@@ -450,5 +452,5 @@ Pub. L. 94–556, Oct. 19, 1976, 90 Stat. 2632, directed Secretary of the Interi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 407, 410mm, 432, 434, 470cc, 470dd, 1133 of this title; title 43 section 1714.
+This section is referred to in sections 407, 410mm, 432, 434, 470cc, 470dd, 698w, 1133 of this title; title 43 section 1714.
 

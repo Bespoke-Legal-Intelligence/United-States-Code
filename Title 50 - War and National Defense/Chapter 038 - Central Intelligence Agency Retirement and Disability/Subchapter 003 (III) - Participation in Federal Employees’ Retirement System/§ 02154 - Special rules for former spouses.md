@@ -70,7 +70,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(i) the day on which the employee upon whose service the benefits are based becomes entitled to the benefits; or
 
-&emsp;&emsp;&emsp;(ii) the first day of the second month beginning after the date on which the Director receives written notice of the courtorder or spousal agreement, together with such additional information or documentation as the Director may prescribe.
+&emsp;&emsp;&emsp;(ii) the first day of the second month beginning after the date on which the Director receives written notice of the court order or spousal agreement, together with such additional information or documentation as the Director may prescribe.
 
 #### (B) Termination
 
@@ -108,7 +108,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) 50 percent of the employee's annuity under subchapter III of chapter 83 of title 5 or under subchapter II of this chapter (computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 or section 2157 of this title), multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service before the effective date of the election to transfer bears to the employee's total creditable service before such effective date; and
 
-&emsp;&emsp;(B) if applicable, 50 percent of the employee's benefits under chapter 84 of title 5 or section 2152(a) of this title (computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 or section 2157 of this title), multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service on and after the effective date of the election to transfer bears to the employee's total creditable service after such effective date.
+&emsp;&emsp;(B) if applicable, 50 percent of the employee's benefits under chapter 84 of title 5 or section 2152(a) of this title (computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 or section 2157 of this title), multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service on and after the effectivedate of the election to transfer bears to the employee's total creditable service after such effective date.
 
 #### (8) Treatment of pro rata share under title 26
 
@@ -168,7 +168,7 @@ For purposes of this section:
 
 &emsp;&emsp;&emsp;(ii) the survivor benefits referred to in subsection (d)(2)(A) of this section,
 
-> &emsp;&emsp;multiplied by the proportion that the number of days of marriage during the period of the employee's creditable service on and after the effective date of the election to transfer bears to the employee's total creditable service after such effective date.
+> &emsp;&emsp;multiplied by the proportion that the number of days of marriage during the period ofthe employee's creditable service on and after the effective date of the election to transfer bears to the employee's total creditable service after such effective date.
 
 #### (e) Qualified former spouse Thrift Savings Plan benefit
 
@@ -194,7 +194,7 @@ For purposes of this section:
 
 #### (C) Limitation
 
-&emsp;&emsp;A spousal agreement or court order may not provide for payment to a qualifiedformer spouse under this subsection of an amount that exceeds the employee's account balance in the Thrift Savings Fund.
+&emsp;&emsp;A spousal agreement or court order may not provide for payment to a qualified former spouse under this subsection of an amount that exceeds the employee's account balance in the Thrift Savings Fund.
 
 #### (D) Death of qualified former spouse
 
@@ -236,7 +236,7 @@ In the case of any employee or retired employee who has a qualified former spous
 
 &emsp;(A) the retirement benefits shall be equal to the amount determined under subsection (c)(7)(A) of this section; and
 
-&emsp;(B) the survivor benefits shall be equal to 55 percent of the full amount of the employee's annuity computed in accordance with section 302(a) of the Federal Employees’ Retirement System Act of 1986 or regulations prescribed under section 2157 of this title.
+&emsp;(B) the survivor benefits shall be equal to 55 percent of the full amount of the employee's annuity computed in accordance with section302(a) of the Federal Employees’ Retirement System Act of 1986 or regulations prescribed under section 2157 of this title.
 
 (3) Benefits provided pursuant to this subsection shall be payable from the Central Intelligence Agency Retirement and Disability Fund.
 

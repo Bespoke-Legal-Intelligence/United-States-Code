@@ -1,6 +1,6 @@
 ### §1334b. Designation of States outside commercial wheat-producing areas
 
-If the acreage allotment for any State for any crop of wheat is twenty-five thousand acres or less, the Secretary, in order to promote efficient administration of this chapter and the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], may designate such State as outside the commercial wheat-producing area for the marketing year for such crop. If such State is so designated, acreage allotments for such crop and marketing quotas for the marketing year therefor shall not be applicable to any farm in such State. Acreage allotments in any State shall not be increased by reason of such designation.
+If the acreage allotment for any State for any crop of wheat is twenty-five thousand acres orless, the Secretary, in order to promote efficient administration of this chapter and the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\], may designate such State as outside the commercial wheat-producing area for the marketing year for such crop. If such State is so designated, acreage allotments for such crop and marketing quotas for the marketing year therefor shall not be applicable to any farm in such State. Acreage allotments in any State shall not be increased by reason of such designation.
 
 (Feb. 16, 1938, ch. 30, title III, §334a, as added Pub. L. 87–703, title III, §314, Sept. 27, 1962, 76 Stat. 620.)
 
@@ -14,7 +14,9 @@ Section effective only with respect to programs applicable to crops planted for 
 
 #### Inapplicability of Section
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
+
+Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
 Section inapplicable to 1991 through 1995 crops of wheat, see section 303 of Pub. L. 101–624, set out as a note under section 1331 of this title.
 

@@ -8,15 +8,41 @@
 
 &emsp;(C) prevent the communication by any person to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, parole, or release pending judicial proceedings;
 
-> shall be punished as provided in paragraph (2).
+> shall be punished as provided in paragraph (3).
 
-(2) The punishment for an offense under this subsection is—
+(2) Whoever uses physical force or the threat of physical force against any person, or attempts to do so, with intent to—
 
-&emsp;(A) in the case of murder (as defined in section 1111), the death penalty or imprisonment for life, and in the case of any other killing, the punishment provided in section 1112; and
+&emsp;(A) influence, delay, or prevent the testimony of any person in an official proceeding;
 
-&emsp;(B) in the case of an attempt, imprisonment for not more than twenty years.
+&emsp;(B) cause or induce any person to—
 
-(b) Whoever knowingly uses intimidation or physical force, threatens, or corruptly persuades another person, or attempts to do so, or engages in misleading conduct toward another person, with intent to—
+&emsp;&emsp;(i) withhold testimony, or withhold a record, document, or other object, from an official proceeding;
+
+&emsp;&emsp;(ii) alter, destroy, mutilate, or conceal an object with intent to impair the integrity or availability of the object for use in an official proceeding;
+
+&emsp;&emsp;(iii) evade legal process summoning that person to appear as a witness, or to produce a record, document, or other object, in an official proceeding; or
+
+&emsp;&emsp;(iv) be absent from an official proceeding to which that person has been summoned by legal process; or
+
+&emsp;(C) hinder, delay, or prevent the communication to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, supervised release, parole, or release pending judicial proceedings;
+
+> shall be punished as provided in paragraph (3).
+
+(3) The punishment for an offense under this subsection is—
+
+&emsp;(A) in the case of murder (as defined in section 1111), the death penalty or imprisonment for life, and in the case of any other killing, the punishment provided in section 1112;
+
+&emsp;(B) in the case of—
+
+&emsp;&emsp;(i) an attempt to murder; or
+
+&emsp;&emsp;(ii) the use or attempted use of physical force against any person;
+
+> &emsp;imprisonment for not more than 20 years; and
+
+&emsp;(C) in the case of the threat of use of physical force against any person, imprisonment for not more than 10 years.
+
+(b) Whoever knowingly uses intimidation, threatens, or corruptly persuades another person, or attempts to do so, or engages in misleading conduct toward another person, with intent to—
 
 &emsp;(1) influence, delay, or prevent the testimony of any person in an official proceeding;
 
@@ -30,15 +56,23 @@
 
 &emsp;&emsp;(D) be absent from an official proceeding to which such person has been summoned by legal process; or
 
-&emsp;(3) hinder, delay, or prevent the communication to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation, parole, or release pending judicial proceedings;
+&emsp;(3) hinder, delay, or prevent the communication to a law enforcement officer or judge of the United States of information relating to the commission or possible commission of a Federal offense or a violation of conditions of probation <sup>1</sup> supervised release,,<sup>1</sup> parole, or release pending judicial proceedings;
 
 > shall be fined under this title or imprisoned not more than ten years, or both.
 
-(c) Whoever intentionally harasses another person and thereby hinders, delays, prevents, or dissuades any person from—
+(c) Whoever corruptly—
+
+&emsp;(1) alters, destroys, mutilates, or conceals a record, document, or other object, or attempts to do so, with the intent to impair the object's integrity or availability for use in an official proceeding; or
+
+&emsp;(2) otherwise obstructs, influences, or impedes any official proceeding, or attempts to do so,
+
+> shall be fined under this title or imprisoned not more than 20 years, or both.
+
+(d) Whoever intentionally harasses another person and thereby hinders, delays, prevents, or dissuades any person from—
 
 &emsp;(1) attending or testifying in an official proceeding;
 
-&emsp;(2) reporting to a law enforcement officer or judge of the United States the commission or possible commission of a Federal offense or a violation of conditions of probation, parole, or release pending judicial proceedings;
+&emsp;(2) reporting to a law enforcement officer or judge of the United States the commission or possible commission of a Federal offense or a violation of conditions of probation <sup>1</sup> supervised release,,<sup>1</sup> parole, or release pending judicial proceedings;
 
 &emsp;(3) arresting or seeking the arrest of another person in connection with a Federal offense; or
 
@@ -46,29 +80,51 @@
 
 > or attempts to do so, shall be fined under this title or imprisoned not more than one year, or both.
 
-(d) In a prosecution for an offense under this section, it is an affirmative defense, as to which the defendant has the burden of proof by a preponderance of the evidence, that the conduct consisted solely of lawful conduct and that the defendant's sole intention was to encourage, induce, or cause the other person to testify truthfully.
+(e) In a prosecution for an offense under this section, it is an affirmative defense, as to which the defendant has the burden of proof by a preponderance of the evidence, that the conduct consisted solely of lawful conduct and that the defendant's sole intention was to encourage, induce, or cause the other person to testify truthfully.
 
-(e) For the purposes of this section—
+(f) For the purposes of this section—
 
 &emsp;(1) an official proceeding need not be pending or about to be instituted at the time of the offense; and
 
 &emsp;(2) the testimony, or the record, document, or other object need not be admissible in evidence or free of a claim of privilege.
 
-(f) In a prosecution for an offense under this section, no state of mind need be proved with respect to the circumstance—
+(g) In a prosecution for an offense under this section, no state of mind need be proved with respect to the circumstance—
 
 &emsp;(1) that the official proceeding before a judge, court, magistrate judge, grand jury, or government agency is before a judge or court of the United States, a United States magistrate judge, a bankruptcy judge, a Federal grand jury, or a Federal Government agency; or
 
 &emsp;(2) that the judge is a judge of the United States or that the law enforcement officer is an officer or employee of the Federal Government or a person authorized to act for or on behalf of the Federal Government or serving the Federal Government as an adviser or consultant.
 
-(g) There is extraterritorial Federal jurisdiction over an offense under this section.
+(h) There is extraterritorial Federal jurisdiction over an offense under this section.
 
-(h) A prosecution under this section or section 1503 may be brought in the district in which the official proceeding (whether or not pending or about to be instituted) was intended to be affected or in the district in which the conduct constituting the alleged offense occurred.
+(i) A prosecution under this section or section 1503 may be brought in the district in which the official proceeding (whether or not pending or about to be instituted) was intended to be affected or in the district in which the conduct constituting the alleged offense occurred.
 
-(i) If the offense under this section occurs in connection with a trial of a criminal case, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
+(j) If the offense under this section occurs in connection with a trial of a criminal case, the maximum term of imprisonment which may be imposed for the offense shall be the higher of that otherwise provided by law or the maximum term that could have been imposed for any offense charged in such case.
 
-(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, §61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title VI, §60018, title XXXIII, §330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, §604(b)(31), Oct. 11, 1996, 110 Stat. 3508.)
+(k) Whoever conspires to commit any offense under this section shall be subject to the same penalties as those prescribed for the offense the commission of which was the object of the conspiracy.
+
+(Added Pub. L. 97–291, §4(a), Oct. 12, 1982, 96 Stat. 1249; amended Pub. L. 99–646, §61, Nov. 10, 1986, 100 Stat. 3614; Pub. L. 100–690, title VII, §7029(a), (c), Nov. 18, 1988, 102 Stat. 4397, 4398; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title VI, §60018, title XXXIII, §330016(1)(O), (U), Sept. 13, 1994, 108 Stat. 1975, 2148; Pub. L. 104–214, §1(2), Oct. 1, 1996, 110 Stat. 3017; Pub. L. 104–294, title VI, §604(b)(31), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 107–204, title XI, §1102, July 30, 2002, 116 Stat. 807; Pub. L. 107–273, div. B, title III, §3001(a), (c)(1), Nov. 2, 2002, 116 Stat. 1803, 1804.)
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–273, §3001(a)(1)(A), substituted “as provided in paragraph (3)” for “as provided in paragraph (2)” in concluding provisions.
+
+Subsec. (a)(2). Pub. L. 107–273, §3001(a)(1)(C), added par. (2). Former par. (2) redesignated (3).
+
+Subsec. (a)(3). Pub. L. 107–273, §3001(a)(1)(B), (D), redesignated par. (2) as (3), added subpars. (B) and (C), and struck out former subpar. (B) which read as follows: “(B) in the case of an attempt, imprisonment for not more than twenty years.”
+
+Subsec. (b). Pub. L. 107–273, §3001(a)(2), struck out “or physical force” after “intimidation” in introductory provisions.
+
+Subsec. (b)(3). Pub. L. 107–273, §3001(c)(1), inserted “supervised release,” after “probation”.
+
+Subsec. (c). Pub. L. 107–204 added subsec. (c). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 107–204 redesignated former subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (d)(2). Pub. L. 107–273, §3001(c)(1), inserted “supervised release,” after “probation”.
+
+Subsecs. (e) to (j). Pub. L. 107–204 redesignated former subsecs. (d) to (i) as (e) to (j), respectively.
+
+Subsec. (k). Pub. L. 107–273, §3001(a)(3), added subsec. (k).
 
 1996—Subsec. (a)(2)(A). Pub. L. 104–294 inserted “and” after semicolon at end.
 
@@ -124,7 +180,7 @@ Section 2 of Pub. L. 97–291 provided that:
 
 &emsp;“(6) The victim and witness who cooperate with the prosecutor often find that the transportation, parking facilities, and child care services at the court are unsatisfactory and they must often share the pretrial waiting room with the defendant or his family and friends.
 
-&emsp;“(7) The victim may lose valuable property to a criminal only to lose it again for long periods of timeto Federal law enforcement officials, until the trial and sometimes and \[sic\] appeals are over; many times that property is damaged or lost, which is particularly stressful for the elderly or poor.
+&emsp;“(7) The victim may lose valuable property to a criminal only to lose it again for long periods of time to Federal law enforcement officials, until the trial and sometimes and \[sic\] appeals are over; many times that property is damaged or lost, which is particularly stressful for the elderly or poor.
 
 “(b) The Congress declares that the purposes of this Act \[see Short Title of 1982 Amendment note set out under section 1501 of this title\] are—
 
@@ -213,4 +269,6 @@ General victim assistance.—The guidelines should also ensure that any other im
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1514, 1515, 1961, 2516, 3142 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

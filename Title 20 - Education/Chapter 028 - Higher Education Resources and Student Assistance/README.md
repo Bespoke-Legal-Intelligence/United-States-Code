@@ -784,9 +784,10 @@ I74subpart 1—minority science and engineering improvement program
 | (h) | Interest rates for new loans after July 1, 1998. |
 | (i) | Treatment of excess interest payments on new borrower accounts resulting from decline in Treasury bill rates. |
 | (j) | Interest rates for new loans between July 1, 1998 and October 1, 1998. |
-| (k) | Interest rates for new loans on or after October 1, 1998, and before July 1, 2003. |
-| (<i>l</i>) | Lesser rates permitted. |
-| (m) | Definitions. |
+| (k) | Interest rates for new loans on or after October 1, 1998, and before July 1, 2006. |
+| (<i>l</i>) | Interest rates for new loans on or after July 1, 2006. |
+| (m) | Lesser rates permitted. |
+| (n) | Definitions. |
 | [1078\.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20B%20-%20Federal%20Family%20Education%20Loan%20Program/%C2%A7%2001078%20-%20Federal%20payments%20to%20reduce%20student%20interest%20costs.md) | Federal payments to reduce student interest costs. |
 | (a) | Federal interest subsidies. |
 | (b) | Insurance program agreements to qualify loans for interest subsidies. |
@@ -802,6 +803,7 @@ I74subpart 1—minority science and engineering improvement program
 | (<i>l</i>) | Default aversion assistance. |
 | (m) | Income contingent repayment. |
 | (n) | Blanket certificate of loan guaranty. |
+| (<i>o</i>) | Armed Forces student loan interest payment program. |
 | 1078–1. | Voluntary flexible agreements with guaranty agencies. |
 | (a) | Voluntary agreements. |
 | (b) | Terms of agreement. |
@@ -1015,6 +1017,7 @@ I74subpart 1—minority science and engineering improvement program
 | (i) | Loan application and promissory note. |
 | (j) | Loan disbursement. |
 | (k) | Fiscal control and fund accountability. |
+| (<i>l</i>) | Armed Forces student loan interest payment program. |
 | [1087f.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20C%20-%20William%20D.%20Ford%20Federal%20Direct%20Loan%20Program/%C2%A7%2001087f%20-%20Contracts.md) | Contracts. |
 | (a) | Contracts for supplies and services. |
 | (b) | Contracts for origination, servicing, and data systems. |
@@ -1078,6 +1081,7 @@ I74subpart 1—minority science and engineering improvement program
 | (g) | Discharge. |
 | (h) | Rehabilitation of loans. |
 | (i) | Incentive repayment program. |
+| (j) | Armed Forces student loan interest payment program. |
 | [1087ee.](Subchapter%20004%20%28IV%29%20-%20Student%20Assistance/Part%20D%20-%20Federal%20Perkins%20Loans/%C2%A7%2001087ee%20-%20Cancellation%20of%20loans%20for%20certain%20public%20service.md) | Cancellation of loans for certain public service. |
 | (a) | Cancellation of percentage of debt based on years of qualifying service. |
 | (b) | Reimbursement for cancellation. |
@@ -1734,7 +1738,7 @@ I74subpart 1—jacob k. javits fellowship program
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1232g, 1234i, 2327, 3441, 6143 of this title; title 11 sections 362, 541; title 25 sections 13, 13d–2, 309b, 640c–2, 1809; title 26 sections 144, 150; title 42 sections 292a, 12651d, 14117.
+This chapter is referred to in sections 1232g, 1234i, 2327, 3441, 6143, 9515 of this title; title 11 sections 362, 541; title 25 sections 13, 13d–2, 309b, 640c–2, 1809; title 26 sections 144, 150; title 42 sections 292a, 12651d, 14117.
 
 
 ---

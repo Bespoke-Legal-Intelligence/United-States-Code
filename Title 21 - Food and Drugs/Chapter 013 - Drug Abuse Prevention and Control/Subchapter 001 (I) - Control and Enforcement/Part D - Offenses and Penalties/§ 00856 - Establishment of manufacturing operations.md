@@ -14,7 +14,7 @@ Any person who violates subsection (a) of this section shall be sentenced to a t
 
 #### (c) Violation as offense against property
 
-A violation of subsection (a) of this section shall be considered an offense against propertyfor purposes of section 3663A(c)(1)(A)(ii) of title 18.
+A violation of subsection (a) of this section shall be considered an offense against property for purposes of section 3663A(c)(1)(A)(ii) of title 18.
 
 (Pub. L. 91–513, title II, §416, as added Pub. L. 99–570, title I, §1841(a), Oct. 27, 1986, 100 Stat. 3207–52; amended Pub. L. 106–310, div. B, title XXXVI, §3613(e), Oct. 17, 2000, 114 Stat. 1230.)
 

@@ -1,0 +1,296 @@
+### §35. Health insurance costs of eligible individuals
+
+#### (a) In general
+
+In the case of an individual, there shall be allowed as a credit against the tax imposed by subtitle A an amount equal to 65 percent of the amount paid by the taxpayer for coverage of the taxpayer and qualifying family members under qualified health insurance for eligible coverage months beginning in the taxable year.
+
+#### (b) Eligible coverage month
+
+For purposes of this section—
+
+#### (1) In general
+
+&emsp;The term “eligible coverage month” means any month if—
+
+&emsp;&emsp;(A) as of the first day of such month, the taxpayer—
+
+&emsp;&emsp;&emsp;(i) is an eligible individual,
+
+&emsp;&emsp;&emsp;(ii) is covered by qualified health insurance, the premium for which is paid by the taxpayer,
+
+&emsp;&emsp;&emsp;(iii) does not have other specified coverage, and
+
+&emsp;&emsp;&emsp;(iv) is not imprisoned under Federal, State, or local authority, and
+
+&emsp;&emsp;(B) such month begins more than 90 days after the date of the enactment of the Trade Act of 2002.
+
+#### (2) Joint returns
+
+&emsp;In the case of a joint return, the requirements of paragraph (1)(A) shall be treated as met with respect to any month if at least 1 spouse satisfies such requirements.
+
+#### (c) Eligible individual
+
+For purposes of this section—
+
+#### (1) In general
+
+&emsp;The term “eligible individual” means—
+
+&emsp;&emsp;(A) an eligible TAA recipient,
+
+&emsp;&emsp;(B) an eligible alternative TAA recipient, and
+
+&emsp;&emsp;(C) an eligible PBGC pension recipient.
+
+#### (2) Eligible TAA recipient
+
+&emsp;The term “eligible TAA recipient” means, with respect to any month, any individual who is receiving for any day of such month a trade readjustment allowance under chapter 2 of title II of the Trade Act of 1974 or who would be eligible to receive such allowance if section 231 of such Act were applied without regard to subsection (a)(3)(B) of such section. An individual shall continue to be treated as an eligible TAA recipient during the first month that such individual would otherwise cease to be an eligible TAA recipient by reason of the preceding sentence.
+
+#### (3) Eligible alternative TAA recipient
+
+&emsp;The term “eligible alternative TAA recipient” means, with respect to any month, any individual who—
+
+&emsp;&emsp;(A) is a worker described in section 246(a)(3)(B) of the Trade Act of 1974 who is participating in the program established under section 246(a)(1) of such Act, and
+
+&emsp;&emsp;(B) is receiving a benefit for such month under section 246(a)(2) of such Act.
+
+> &emsp;An individual shall continue to be treated as an eligible alternative TAA recipient during the first month that such individual would otherwise cease to be an eligible alternative TAA recipient by reason of the preceding sentence.
+
+#### (4) Eligible PBGC pension recipient
+
+&emsp;The term “eligible PBGC pension recipient” means, with respect to any month, any individual who—
+
+&emsp;&emsp;(A) has attained age 55 as of the first day of such month, and
+
+&emsp;&emsp;(B) is receiving a benefit for such month any portion of which is paid by the Pension Benefit Guaranty Corporation under title IV of the Employee Retirement Income Security Act of 1974.
+
+#### (d) Qualifying family member
+
+For purposes of this section—
+
+#### (1) In general
+
+&emsp;The term “qualifying family member” means—
+
+&emsp;&emsp;(A) the taxpayer's spouse, and
+
+&emsp;&emsp;(B) any dependent of the taxpayer with respect to whom the taxpayer is entitled to a deduction under section 151(c).
+
+> &emsp;Such term does not include any individual who has other specified coverage.
+
+#### (2) Special dependency test in case of divorced parents, etc.
+
+&emsp;If paragraph (2) or (4) of section 152(e) applies to any child with respect to any calendar year, in the case of any taxable year beginning in such calendar year, such child shall be treated as described in paragraph (1)(B) with respect to the custodial parent (within the meaning of section 152(e)(1)) and not with respect to the noncustodial parent.
+
+#### (e) Qualified health insurance
+
+For purposes of this section—
+
+#### (1) In general
+
+&emsp;The term “qualified health insurance” means any of the following:
+
+&emsp;&emsp;(A) Coverage under a COBRA continuation provision (as defined in section 9832(d)(1)).
+
+&emsp;&emsp;(B) State-based continuation coverage provided by the State under a State law that requires such coverage.
+
+&emsp;&emsp;(C) Coverage offered through a qualified State high risk pool (as defined in section 2744(c)(2) of the Public Health Service Act).
+
+&emsp;&emsp;(D) Coverage under a health insurance program offered for State employees.
+
+&emsp;&emsp;(E) Coverage under a State-based health insurance program that is comparable to the health insurance program offered for State employees.
+
+&emsp;&emsp;(F) Coverage through an arrangement entered into by a State and—
+
+&emsp;&emsp;&emsp;(i) a group health plan (including such a plan which is a multiemployer plan as defined in section 3(37) of the Employee Retirement Income Security Act of 1974),
+
+&emsp;&emsp;&emsp;(ii) an issuer of health insurance coverage,
+
+&emsp;&emsp;&emsp;(iii) an administrator, or
+
+&emsp;&emsp;&emsp;(iv) an employer.
+
+&emsp;&emsp;(G) Coverage offered through a State arrangement with a private sector health care coverage purchasing pool.
+
+&emsp;&emsp;(H) Coverage under a State-operated health plan that does not receive any Federal financial participation.
+
+&emsp;&emsp;(I) Coverage under a group health plan that is available through the employment of the eligible individual's spouse.
+
+&emsp;&emsp;(J) In the case of any eligible individual and such individual's qualifying family members, coverage under individual health insurance if the eligible individual was covered under individual health insurance during the entire 30-day period that ends on the date that such individual became separated from the employment which qualified such individual for—
+
+&emsp;&emsp;&emsp;(i) in the case of an eligible TAA recipient, the allowance described in subsection (c)(2),
+
+&emsp;&emsp;&emsp;(ii) in the case of an eligible alternative TAA recipient, the benefit described in subsection (c)(3)(B), or
+
+&emsp;&emsp;&emsp;(iii) in the case of any eligible PBGC pension recipient, the benefit described in subsection (c)(4)(B).
+
+> &emsp;&emsp;For purposes of this subparagraph, the term “individual health insurance” means any insurance which constitutes medical care offered to individuals other than in connection with a group health plan and does not include Federal- or State-based health insurance coverage.
+
+#### (2) Requirements for state-based coverage
+
+#### (A) In general
+
+&emsp;&emsp;The term “qualified health insurance” does not include any coverage described in subparagraphs (B) through (H) of paragraph (1) unless the State involved has elected to have such coverage treated as qualified health insurance under this section and such coverage meets the following requirements:
+
+#### (i) Guaranteed issue
+
+&emsp;&emsp;&emsp;Each qualifying individual is guaranteed enrollment if the individual pays the premium for enrollment or provides a qualified health insurance costs credit eligibility certificate described in section 7527 and pays the remainder of such premium.
+
+#### (ii) No imposition of preexisting condition exclusion
+
+&emsp;&emsp;&emsp;No pre-existing condition limitations are imposed with respect to any qualifying individual.
+
+#### (iii) Nondiscriminatory premium
+
+&emsp;&emsp;&emsp;The total premium (as determined without regard to any subsidies) with respect to a qualifying individual may not be greater than the total premium (as so determined) for a similarly situated individual who is not a qualifying individual.
+
+#### (iv) Same benefits
+
+&emsp;&emsp;&emsp;Benefits under the coverage are the same as (or substantially similar to) the benefits provided to similarly situated individuals who are not qualifying individuals.
+
+#### (B) Qualifying individual
+
+&emsp;&emsp;For purposes of this paragraph, the term “qualifying individual” means—
+
+&emsp;&emsp;&emsp;(i) an eligible individual for whom, as of the date on which the individual seeks to enroll in the coverage described in subparagraphs (B) through (H) of paragraph (1), the aggregate of the periods of creditable coverage (as defined in section 9801(c)) is 3 months or longer and who, with respect to any month, meets the requirements of clauses (iii) and (iv) of subsection (b)(1)(A); and
+
+&emsp;&emsp;&emsp;(ii) the qualifying family members of such eligible individual.
+
+#### (3) Exception
+
+&emsp;The term “qualified health insurance” shall not include—
+
+&emsp;&emsp;(A) a flexible spending or similar arrangement, and
+
+&emsp;&emsp;(B) any insurance if substantially all of its coverage is of excepted benefits described in section 9832(c).
+
+#### (f) Other specified coverage
+
+For purposes of this section, an individual has other specified coverage for any month if, as of the first day of such month—
+
+#### (1) Subsidized coverage
+
+#### (A) In general
+
+&emsp;&emsp;Such individual is covered under any insurance which constitutes medical care (except insurance substantially all of the coverage of which is of excepted benefits described in section 9832(c)) under any health plan maintained by any employer (or former employer) of the taxpayer or the taxpayer's spouse and at least 50 percent of the cost of such coverage (determined under section 4980B) is paid or incurred by the employer.
+
+#### (B) Eligible alternative TAA recipients
+
+&emsp;&emsp;In the case of an eligible alternative TAA recipient, such individual is either—
+
+&emsp;&emsp;&emsp;(i) eligible for coverage under any qualified health insurance (other than insurance described in subparagraph (A), (B), or (F) of subsection (e)(1)) under which at least 50 percent of the cost of coverage (determined under section 4980B(f)(4)) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer's spouse, or
+
+&emsp;&emsp;&emsp;(ii) covered under any such qualified health insurance under which any portion of the cost of coverage (as so determined) is paid or incurred by an employer (or former employer) of the taxpayer or the taxpayer's spouse.
+
+#### (C) Treatment of cafeteria plans
+
+&emsp;&emsp;For purposes of subparagraphs (A) and (B), the cost of coverage shall be treated as paid or incurred by an employer to the extent the coverage is in lieu of a right to receive cash or other qualified benefits under a cafeteria plan (as defined in section 125(d)).
+
+#### (2) Coverage under Medicare, Medicaid, or SCHIP
+
+&emsp;Such individual—
+
+&emsp;&emsp;(A) is entitled to benefits under part A of title XVIII of the Social Security Act or is enrolled under part B of such title, or
+
+&emsp;&emsp;(B) is enrolled in the program under title XIX or XXI of such Act (other than under section 1928 of such Act).
+
+#### (3) Certain other coverage
+
+&emsp;Such individual—
+
+&emsp;&emsp;(A) is enrolled in a health benefits plan under chapter 89 of title 5, United States Code, or
+
+&emsp;&emsp;(B) is entitled to receive benefits under chapter 55 of title 10, United States Code.
+
+#### (g) Special rules
+
+#### (1) Coordination with advance payments of credit
+
+&emsp;With respect to any taxable year, the amount which would (but for this subsection) be allowed as a credit to the taxpayer under subsection (a) shall be reduced (but not below zero) by the aggregate amount paid on behalf of such taxpayer under section 7527 for months beginning in such taxable year.
+
+#### (2) Coordination with other deductions
+
+&emsp;Amounts taken into account under subsection (a) shall not be taken into account in determining any deduction allowed under section 162(<i>l</i>) or 213.
+
+#### (3) MSA distributions
+
+&emsp;Amounts distributed from an Archer MSA (as defined in section 220(d)) shall not be taken into account under subsection (a).
+
+#### (4) Denial of credit to dependents
+
+&emsp;No credit shall be allowed under this section to any individual with respect to whom a deduction under section 151 is allowable to another taxpayer for a taxable year beginning in the calendar year in which such individual's taxable year begins.
+
+#### (5) Both spouses eligible individuals
+
+&emsp;The spouse of the taxpayer shall not be treated as a qualifying family member for purposes of subsection (a), if—
+
+&emsp;&emsp;(A) the taxpayer is married at the close of the taxable year,
+
+&emsp;&emsp;(B) the taxpayer and the taxpayer's spouse are both eligible individuals during the taxable year, and
+
+&emsp;&emsp;(C) the taxpayer files a separate return for the taxable year.
+
+#### (6) Marital status; certain married individuals living apart
+
+&emsp;Rules similar to the rules of paragraphs (3) and (4) of section 21(e) shall apply for purposes of this section.
+
+#### (7) Insurance which covers other individuals
+
+&emsp;For purposes of this section, rules similar to the rules of section 213(d)(6) shall apply with respect to any contract for qualified health insurance under which amounts are payable for coverage of an individual other than the taxpayer and qualifying family members.
+
+#### (8) Treatment of payments
+
+&emsp;For purposes of this section—
+
+#### (A) Payments by Secretary
+
+&emsp;&emsp;Payments made by the Secretary on behalf of any individual under section 7527 (relating to advance payment of credit for health insurance costs of eligible individuals) shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
+
+#### (B) Payments by taxpayer
+
+&emsp;&emsp;Payments made by the taxpayer for eligible coverage months shall be treated as having been made by the taxpayer on the first day of the month for which such payment was made.
+
+#### (9) Regulations
+
+&emsp;The Secretary may prescribe such regulations and other guidance as may be necessary or appropriate to carry out this section, section 6050T, and section 7527.
+
+(Added Pub. L. 107–210, div. A, title II, §201(a), Aug. 6, 2002, 116 Stat. 954.)
+
+#### References in Text
+
+The date of the enactment of the Trade Act of 2002, referred to in subsec. (b)(1)(B), is the date of enactment of Pub. L. 107–210, which was approved Aug. 6, 2002.
+
+The Trade Act of 1974, referred to in subsec. (c)(2), (3), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended. Chapter 2 of title II of the Act is classified generally to part 2 (§2271 et seq.) of subchapter II of chapter 12 of Title 19, Customs Duties. Sections 231 and 246 of the Act are classified to sections 2291 and 2318 of Title 19, respectively. For complete classification of this Act to the Code, see section 2101 of Title 19 and Tables.
+
+The Employee Retirement Income Security Act of 1974, referred to in subsecs. (c)(4)(B) and (e)(1)(F)(i), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Title IV of the Act is classified principally to subchapter III (§1301 et seq.) of chapter 18 of Title 29, Labor. Section 3(37) of the Act is classified to section 1002(37) of Title 29. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+
+Section 2744(c)(2) of the Public Health Service Act, referred to in subsec. (e)(1)(C), is classified to section 300gg–44(c)(2) of Title 42, The Public Health and Welfare.
+
+The Social Security Act, referred to in subsec. (f)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.), respectively, of subchapter XVIII of chapter 7 of Title 42, The Public Health and Welfare. Titles XIX and XXI of the Act are classified generally to subchaptersXIX (§1396 et seq.) and XXI (§1397aa et seq.), respectively, of chapter 7 of Title 42. Section 1928 of the Act is classified to section 1396s of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Prior Provisions
+
+A prior section 35 was renumbered section 36 of this title.
+
+Another prior section 35, acts Aug. 16, 1954, ch. 736, 68A Stat. 14; Sept. 2, 1958, Pub. L. 85–866, title I, §41(b), 72 Stat. 1639; Feb. 26, 1964, Pub. L. 88–272, title II, §201(d)(2), 78 Stat. 32, related to partially tax-exempt interest received by individuals, prior to repeal by Pub. L. 94–455, title XIX, §1901(a)(2), Oct. 4, 1976, 90 Stat. 1764, effective with respect to taxable years beginning after Dec. 31, 1976.
+
+#### Effective Date
+
+Pub. L. 107–210, div. A, title II, §201(d), Aug. 6, 2002, 116 Stat. 960, provided that:
+
+“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by this section \[enacting this section and section 300gg–45 of Title 42, The Public Health and Welfare, amending section 1324 of Title 31, Money and Finance, and renumbering former section 35 of this title as section 36 of this title\] shall apply to taxable years beginning after December 31, 2001.
+
+“(2)
+
+State high risk pools.—The amendment made by subsection (b) \[enacting section 300gg–45 of Title 42\] shall take effect on the date of the enactment of this Act \[Aug. 6, 2002\].”
+
+#### Construction
+
+Nothing in title II of Pub. L. 107–210 or the amendments by that title, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating a new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a Construction of 2002 Amendment note under section 2918 of Title 29, Labor.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4980B, 7527 of this title; title 19 section 2318; title 29 sections 1165, 2918; title 31 section 1324; title 42 section 300bb–5.
+

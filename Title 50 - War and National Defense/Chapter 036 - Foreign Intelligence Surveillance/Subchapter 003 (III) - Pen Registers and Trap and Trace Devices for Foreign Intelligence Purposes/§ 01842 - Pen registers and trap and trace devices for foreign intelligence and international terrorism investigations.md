@@ -2,7 +2,7 @@
 
 #### (a) Application for authorization or approval
 
-(1) Notwithstanding any other provision of law, the Attorney General or a designated attorney for the Government may make an application for an order or an extension of an order authorizing or approving the installation and use of a pen register or trap and trace device for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution which is being conducted by the Federal Bureau of Investigation under such guidelines as the Attorney General approves pursuant to Executive Order No. 12333, or a successor order.
+(1) Notwithstanding any other provision of law, the Attorney General or a designated attorney for the Government may make an application for an order or an extension of an order authorizing or approving the installation and useof a pen register or trap and trace device for any investigation to obtain foreign intelligence information not concerning a United States person or to protect against international terrorism or clandestine intelligence activities, provided that such investigation of a United States person is not conducted solely upon the basis of activities protected by the first amendment to the Constitution which is being conducted by the Federal Bureau of Investigation under such guidelines as the Attorney General approves pursuant to Executive Order No. 12333, or a successor order.
 
 (2) The authority under paragraph (1) is in addition to the authority under subchapter I of this chapter to conduct the electronic surveillance referred to in that paragraph.
 
@@ -42,7 +42,7 @@ Each application under this section shall require the approval of the Attorney G
 
 &emsp;&emsp;(ii) such provider, landlord, custodian, or other person—
 
-&emsp;&emsp;&emsp;(I) shall not disclose the existence of the investigation or of the pen register or trapand trace device to any person unless or until ordered by the court; and
+&emsp;&emsp;&emsp;(I) shall not disclose the existence of the investigation or of the pen register or trap and trace device to any person unless or until ordered by the court; and
 
 &emsp;&emsp;&emsp;(II) shall maintain, under security procedures approved by the Attorney General and the Director of Central Intelligence pursuant to section 1805(b)(2)(C) <sup>2</sup> of this title, any records concerning the pen register or trap and trace device or the aid furnished; and
 

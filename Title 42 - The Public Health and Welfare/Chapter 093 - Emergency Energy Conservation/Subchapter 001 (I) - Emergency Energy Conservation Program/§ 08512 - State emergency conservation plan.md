@@ -32,7 +32,7 @@
 
 &emsp;(A) that, taken as a whole, the plan is not likely to achieve the emergency conservation target established for that State under section 8511(a) of this title for each energy source involved,
 
-&emsp;(B) that, taken as a whole, the plan is likely to impose an unreasonably disproportionate share of the burden of restrictions of energy use on any specific class of industry, business, or commercial enterprise, or any individual segment thereof,
+&emsp;(B) that, taken as a whole, the plan is likely to impose an unreasonably disproportionate share of the burden of restrictions of energyuse on any specific class of industry, business, or commercial enterprise, or any individual segment thereof,
 
 &emsp;(C) that the requirements of this subchapter regarding the plan have not been met, or
 

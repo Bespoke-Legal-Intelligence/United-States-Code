@@ -16,7 +16,7 @@ Section 24 of Pub. L. 104–65 provided that:
 
 “(a) Except as otherwise provided in this section, this Act \[see Short Title note below\] and the amendments made by this Act shall take effect on January 1, 1996.
 
-“(b) The repeals and amendments made under sections 9, 10, 11, and 12 \[amending section 4804 of Title 15, Commerce and Trade, section 219 of Title 18, Crimes and Criminal Procedure, sections 611, 613, 614, 616, 618, and 4002 of Title 22, Foreign Relations and Intercourse, section 1352 of Title 31, Money and Finance, and section 1490p of Title 42, The Public Health and Welfare, repealing sections 261 to 270 of this title and section 3537b of Title 42, and repealing provisions set out as a note under section 261 of this title\] shall take effect as provided under subsection (a), except that such repeals and amendments—
+“(b) The repeals and amendments made under sections 9, 10, 11, and 12 \[amending section 4804 of Title 15, Commerce and Trade, section 219 of Title 18, Crimesand Criminal Procedure, sections 611, 613, 614, 616, 618, and 4002 of Title 22, Foreign Relations and Intercourse, section 1352 of Title 31, Money and Finance, and section 1490p of Title 42, The Public Health and Welfare, repealing sections 261 to 270 of this title and section 3537b of Title 42, and repealing provisions set out as a note under section 261 of this title\] shall take effect as provided under subsection (a), except that such repeals and amendments—
 
 &emsp;“(1) shall not affect any proceeding or suit commenced before the effective date under subsection (a), and in all such proceedings or suits, proceedings shall be had, appeals taken, and judgments rendered in the same manner and with the same effect as if this Act had not been enacted; and
 

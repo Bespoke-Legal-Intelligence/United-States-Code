@@ -2,7 +2,7 @@
 
 #### (a) Identification
 
-The Administrator and the Secretary of Defense, as appropriate, in coordination with the Secretary of Transportation, shall conduct an inventory and identify all launch support facilities owned by the United States Government. To the extent practicable, the Administrator and the Secretary of Defense shall also identify any launch support facilities which could be madeavailable for use by non-Federal entities on a reimbursable basis without interfering with Federal activities.
+The Administrator and the Secretary of Defense, as appropriate, in coordination with the Secretary of Transportation, shall conduct an inventory and identify all launch support facilities owned by the United States Government. To the extent practicable, the Administrator and the Secretary of Defense shall also identify any launch support facilities which could be made available for use by non-Federal entities on a reimbursable basis without interfering with Federal activities.
 
 #### (b) Report to Congress
 

@@ -6,7 +6,7 @@ Any individual who was a former spouse of a participant or former participant on
 
 &emsp;(1) the full amount of the participant's or former participant's annuity, as computed under this subchapter; or
 
-&emsp;(2) the full amount of what such annuity as so computed would be if the participant or former participant had not withdrawn a lump-sum portion of contributions made with respect to such annuity.
+&emsp;(2) the full amount of what such annuity as so computed would be if the participant orformer participant had not withdrawn a lump-sum portion of contributions made with respect to such annuity.
 
 #### (b) Election by former spouse
 

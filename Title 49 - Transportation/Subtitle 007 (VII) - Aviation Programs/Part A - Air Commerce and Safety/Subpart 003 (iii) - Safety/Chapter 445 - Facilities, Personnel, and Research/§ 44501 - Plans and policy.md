@@ -56,7 +56,7 @@ National Aviation Research Plan.—(1) The Administrator of the Federal Aviation
 
 &emsp;(vi) highlight the research and development technology transfer activities that promote technology sharing among government, industry, and academia through the Stevenson-Wydler Technology Innovation Act of 1980.
 
-(3) Subject to section 40119(b) of this title and regulations prescribed under section 40119(b), the Administrator of the Federal Aviation Administration shall submit to the committees named in paragraph (1) of this subsection an annual report on the accomplishments of the research completed during the prior fiscal year, including a description of the dissemination to the private sector of research results and a description of any new technologies developed. The report shall be submitted with the plan required under paragraph (1) and be organized to allow comparison with the plan in effect for the prior fiscal year. The report shall be prepared in accordance with requirements of section 1116 of title 31.
+(3) Subject to section 40119(b) of this title and regulations prescribed under section 40119(b), the Administrator of the Federal Aviation Administration shall submit to the committees named in paragraph (1) of this subsection an annual report on the accomplishments of the research completed during the prior fiscal year, including a description of the dissemination to the private sector of research results and a description of any new technologies developed. The report shall be submitted with the plan required under paragraph (1) and be organized to allow comparison with the plan in effect for theprior fiscal year. The report shall be prepared in accordance with requirements of section 1116 of title 31.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1173; Pub. L. 104–264, title XI, §1105, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 104–287, §5(74), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 106–181, title IX, §902(a), Apr. 5, 2000, 114 Stat. 195.)
 
@@ -134,5 +134,5 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40119, 44938, 48101 of this title.
+This section is referred to in sections 106, 44938, 48101 of this title.
 

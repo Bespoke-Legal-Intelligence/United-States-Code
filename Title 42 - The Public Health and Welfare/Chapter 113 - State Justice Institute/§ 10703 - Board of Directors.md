@@ -18,7 +18,7 @@
 
 (5) The President shall make the initial appointments of members of the Board under this subsection within ninety days after October 1, 1985. In the case of any other appointment of a member, the President shall make the appointment not later than ninety days after the previous term expires or the vacancy occurs, as the case may be. The Conference of Chief Justices shall submit lists of candidates under paragraph (3) in a timely manner so that the appointments can be made within the time periods specified in this paragraph.
 
-(6) The initial members of the Board of Directors shall be the incorporators of the Institute and shall determine the State in which the Institute is to be incorporated.
+(6) The initial members of the Board of Directors shall be the incorporators of the Instituteand shall determine the State in which the Institute is to be incorporated.
 
 #### (b) Term of office
 
@@ -46,7 +46,7 @@ Each member of the Board shall be entitled to one vote. A simple majority of the
 
 #### (g) Chairman; initial selection and term of office; subsequent annual election
 
-The Board shall select from among the voting members of the Board a chairman, the first of whom shall serve for a term of three years.Thereafter, the Board shall annually elect a chairman from among its voting members.
+The Board shall select from among the voting members of the Board a chairman, the first of whom shall serve for a term of three years. Thereafter, the Board shall annually elect a chairman from among its voting members.
 
 #### (h) Grounds for removal of members
 

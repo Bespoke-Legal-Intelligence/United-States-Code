@@ -2,7 +2,7 @@
 
 (a) The Commissioner shall prescribe procedures to assure that—
 
-&emsp;(1) financial assistance under this subchapter shall not be suspended, except in emergency situations, unless the assisted agency has been given reasonable notice andopportunity to show cause why such action should not be taken; and
+&emsp;(1) financial assistance under this subchapter shall not be suspended, except in emergency situations, unless the assisted agency has been given reasonable notice and opportunity to show cause why such action should not be taken; and
 
 &emsp;(2) financial assistance under this subchapter shall not be terminated, and application for refunding shall not be denied, and a suspension of financial assistance shall not be continued for longer than thirty days, unless the assisted agency has been afforded reasonable notice and opportunity for a full and fair hearing.
 
@@ -14,7 +14,7 @@
 
 A prior section 810 of Pub. L. 88–452 was renumbered section 811 and is classified to section 2992 of this title.
 
-Another prior section 810 of Pub. L. 88–452, title VIII, as added Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81 Stat. 722, related to authority to establish full-time programs and was classified to section 2992 of this title, prior to repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417.
+Another prior section 810 of Pub. L. 88–452, title VIII, as added Pub. L. 90–222, title I, §110, Dec. 23, 1967, 81Stat. 722, related to authority to establish full-time programs and was classified to section 2992 of this title, prior to repeal by Pub. L. 93–113, title VI, §603, Oct. 1, 1973, 87 Stat. 417.
 
 #### Amendments
 

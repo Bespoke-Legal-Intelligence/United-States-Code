@@ -28,7 +28,7 @@ Pub. L. 105–391, title IV, §419, Nov. 13, 1998, 112 Stat. 3517, provided that
 
 “(a)
 
-Treatment of Glacier Bay Concession Permits Prospectus.—Nothing contained in this title \[see Short Title note set out under section 5901 of this title\] shall authorize or require the Secretary to withdraw, revise, amend, modify, or reissue the February 19, 1998, Prospectus Under Which Concession Permits Will be Open for Competition for the Operation of Cruise Ship Services Within Glacier Bay National Park and Preserve (in this section referred to as the ‘1998 Glacier Bay Prospectus’). The award of concession permits pursuant to the 1998 Glacier Bay Prospectus shall be underprovisions of existing law at the time the 1998 Glacier Bay Prospectus was issued.
+Treatment of Glacier Bay Concession Permits Prospectus.—Nothing contained in this title \[see Short Title note set out under section 5901 of this title\] shall authorize or require the Secretary to withdraw, revise, amend, modify, or reissue the February 19, 1998, Prospectus Under Which Concession Permits Will be Open for Competition for the Operation of Cruise Ship Services Within Glacier Bay National Park and Preserve (in this section referred to as the ‘1998 Glacier Bay Prospectus’). The award of concession permits pursuant to the 1998 Glacier Bay Prospectus shall be under provisions of existing law at the time the 1998 Glacier Bay Prospectus was issued.
 
 “(b)
 

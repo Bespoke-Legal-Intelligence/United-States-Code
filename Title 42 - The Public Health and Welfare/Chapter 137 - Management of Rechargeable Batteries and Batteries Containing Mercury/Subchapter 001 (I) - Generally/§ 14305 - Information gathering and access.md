@@ -16,7 +16,7 @@ A person who is required to carry out the objectives of this chapter, includingâ
 
 #### (b) Access and copying
 
-The Administrator or the Administrator's authorized representative, on presentation of credentials of the Administrator, may at reasonable times have access to and copy any recordsrequired to be maintained under subsection (a) of this section.
+The Administrator or the Administrator's authorized representative, on presentation of credentials of the Administrator, may at reasonable times have access to and copy any records required to be maintained under subsection (a) of this section.
 
 #### (c) Confidentiality
 

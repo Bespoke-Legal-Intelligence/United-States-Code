@@ -10,7 +10,7 @@ For purposes of this section:
 
 #### (1) Spouse
 
-&emsp;The term “spouse” means any individual who is the marriage partner of an HIV-infected patient, or who has been the marriagepartner of that patient at any time within the 10-year period prior to the diagnosis of HIV infection.
+&emsp;The term “spouse” means any individual who is the marriage partner of an HIV-infected patient, or who has been the marriage partner of that patient at any time within the 10-year period prior to the diagnosis of HIV infection.
 
 #### (2) HIV-infected patient
 
@@ -24,7 +24,7 @@ For purposes of this section:
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part B of title XXVI of the Act is classified generally to this part. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
+The Public Health Service Act, referred to in subsec. (a), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Part B of title XXVI of the Act is classified generallyto this part. For complete classification of this Act to the Code, see Short Title note set out under section 201 of this title and Tables.
 
 #### Codification
 

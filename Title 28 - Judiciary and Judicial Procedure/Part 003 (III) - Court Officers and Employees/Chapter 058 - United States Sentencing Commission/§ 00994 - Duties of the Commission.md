@@ -122,7 +122,7 @@
 
 &emsp;(2) the general inappropriateness of imposing consecutive terms of imprisonment for an offense of conspiring to commit an offense or soliciting commission of an offense and for an offense that was the sole object of the conspiracy or solicitation.
 
-(m) The Commission shall insure that the guidelines reflect the fact that, in many cases, current sentences do not accurately reflect the seriousness of the offense. This will require that, as a starting point in its development of the initial sets of guidelines for particular categories of cases, the Commission ascertain the average sentences imposed in such categories of cases prior to the creation of the Commission, and in cases involving sentences to terms of imprisonment, the length of such terms actually served. The Commission shall not be bound by such average sentences, and shall independently develop a sentencing range that is consistent with the purposes of sentencing described in section 3553(a)(2) of title 18, United States Code.
+(m) The Commission shall insure that the guidelines reflect the fact that, in many cases, current sentences do not accurately reflect the seriousness of the offense. This will require that, as a starting point in its development of the initial sets of guidelines for particular categories of cases, the Commission ascertain the averagesentences imposed in such categories of cases prior to the creation of the Commission, and in cases involving sentences to terms of imprisonment, the length of such terms actually served. The Commission shall not be bound by such average sentences, and shall independently develop a sentencing range that is consistent with the purposes of sentencing described in section 3553(a)(2) of title 18, United States Code.
 
 (n) The Commission shall assure that the guidelines reflect the general appropriateness of imposing a lower sentence than would otherwise be imposed, including a sentence that is lower than that established by statute as a minimum sentence, to take into account a defendant's substantial assistance in the investigation or prosecution of another person who has committed an offense.
 
@@ -152,13 +152,13 @@
 
 (u) If the Commission reduces the term of imprisonment recommended in the guidelines applicable to a particular offense or category of offenses, it shall specify in what circumstances and by what amount the sentences of prisoners serving terms of imprisonment for the offense may be reduced.
 
-(v) The Commission shall ensure that the general policy statements promulgated pursuant to subsection (a)(2) include a policy limiting consecutive terms of imprisonment for an offenseinvolving a violation of a general prohibition and for an offense involving a violation of a specific prohibition encompassed within the general prohibition.
+(v) The Commission shall ensure that the general policy statements promulgated pursuant to subsection (a)(2) include a policy limiting consecutive terms of imprisonment for an offense involving a violation of a general prohibition and for an offense involving a violation of a specific prohibition encompassed within the general prohibition.
 
 (w) The appropriate judge or officer shall submit to the Commission in connection with each sentence imposed (other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline) a written report of the sentence, the offense for which it is imposed, the age, race, and sex of the offender, information regarding factors made relevant by the guidelines, and such other information as the Commission finds appropriate. The Commission shall submit to Congress at least annually an analysis of these reports and any recommendations for legislation that the Commission concludes is warranted by that analysis.
 
 (x) The provisions of section 553 of title 5, relating to publication in the Federal Register and public hearing procedure, shall apply to the promulgation of guidelines pursuant to this section.
 
-(y) The Commission, in promulgating guidelines pursuant to subsection (a)(1), may include, as a component of a fine, the expected costs to the Government of any imprisonment, supervised release, or probation sentence that is ordered.
+(y) The Commission, in promulgating guidelines pursuant to subsection (a)(1), may include, as a component of a fine, the expected costs tothe Government of any imprisonment, supervised release, or probation sentence that is ordered.
 
 (Added Pub. L. 98–473, title II, §217(a), Oct. 12, 1984, 98 Stat. 2019; amended Pub. L. 99–217, §3, Dec. 26, 1985, 99 Stat. 1728; Pub. L. 99–363, §2, July 11, 1986, 100 Stat. 770; Pub. L. 99–570, title I, §§1006(b), 1008, Oct. 27, 1986, 100 Stat. 3207–7; Pub. L. 99–646, §§6(b), 56, Nov. 10, 1986, 100 Stat. 3592, 3611; Pub. L. 100–182, §§16(b), 23, Dec. 7, 1987, 101 Stat. 1269, 1271; Pub. L. 100–690, title VII, §§7083, 7103(b), 7109, Nov. 18, 1988, 102 Stat. 4408, 4417, 4419; Pub. L. 103–322, title II, §20403(b), title XXVIII, §280005(c)(4), title XXXIII, §330003(f)(1), Sept. 13, 1994, 108 Stat. 1825, 2097, 2141.)
 
@@ -172,25 +172,25 @@ The Maritime Drug Law Enforcement Act, referred to in subsec. (h)(1)(B), (2)(B),
 
 #### Amendments
 
-<b>1994</b>—Subsec. (h)(1)(B), (2)(B). Pub. L. 103–322, §330003(f)(1), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)”.
+1994—Subsec. (h)(1)(B), (2)(B). Pub. L. 103–322, §330003(f)(1), substituted “the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.)” for “section 1 of the Act of September 15, 1980 (21 U.S.C. 955a)”.
 
 Subsec. (i)(2). Pub. L. 103–322, §280005(c)(4), substituted “the defendant” for “he” and “the defendant's” for “his”.
 
 Subsec. (y). Pub. L. 103–322, §20403(b), added subsec. (y).
 
-<b>1988</b>—Subsec. (a)(1)(E). Pub. L. 100–690, §7103(b), added subpar. (E).
+1988—Subsec. (a)(1)(E). Pub. L. 100–690, §7103(b), added subpar. (E).
 
 Subsec. (n). Pub. L. 100–690, §7083, substituted “as a minimum sentence” for “as minimum sentence”.
 
 Subsec. (p). Pub. L. 100–690, §7109, amended subsec. (p) generally. Prior to amendment, subsec. (p) read as follows: “The Commission, at or after the beginning of a regular session of Congress but not later than the first day of May, shall report to the Congress any amendments of the guidelines promulgated pursuant to subsection (a)(1), and a report of the reasons therefor, and the amended guidelines shall take effect one hundred and eighty days after the Commission reports them, except to the extent the effective date is enlarged or the guidelines are disapproved or modified by Act of Congress.”
 
-<b>1987</b>—Subsec. (r). Pub. L. 100–182, §23(a), substituted “two years” for “one year”.
+1987—Subsec. (r). Pub. L. 100–182, §23(a), substituted “two years” for “one year”.
 
 Subsec. (s). Pub. L. 100–182, §23(b), struck out at end: “Within one hundred and eighty days of the filing of such petition the Commission shall provide written notice to the defendant whether or not it has approved the petition. If the petition is disapproved the written notice shall contain the reasons for such disapproval. The Commission shall submit to the Congress at least annually an analysis of such written notices.”
 
 Subsec. (w). Pub. L. 100–182, §16(b), inserted “(other than a sentence imposed for a petty offense, as defined in title 18, for which there is no applicable sentencing guideline)” after “each sentence imposed”.
 
-<b>1986</b>—Subsec. (a)(2)(C). Pub. L. 99–363, §2(1)(B), amended subpar. (C) generally, inserting “3564,” after “3563(c),”.
+1986—Subsec. (a)(2)(C). Pub. L. 99–363, §2(1)(B), amended subpar. (C) generally, inserting “3564,” after “3563(c),”.
 
 Subsec. (a)(2)(D) to (F). Pub. L. 99–363, §2(1)(A), (C), added subpar. (D) and redesignated former subpars. (D) and (E) as (E) and (F), respectively.
 
@@ -214,7 +214,7 @@ Pub. L. 99–570, §1008(2), redesignated subsec. (t) as (u).
 
 Subsecs. (v) to (x). Pub. L. 99–570, §1008(2), redesignated former subsecs. (u) to (w) as (v) to (x), respectively.
 
-<b>1985</b>—Subsec. (q). Pub. L. 99–217 substituted “not later than one year after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect” for “within three years of the date of enactment of the Sentencing Reform Act of 1983”.
+1985—Subsec. (q). Pub. L. 99–217 substituted “not later than one year after the initial set of sentencing guidelines promulgated under subsection (a) goes into effect” for “within three years of the date of enactment of the Sentencing Reform Act of 1983”.
 
 #### Effective Date of 1987 Amendment
 
@@ -225,6 +225,18 @@ Amendment by Pub. L. 100–182 applicable with respect to offenses committed aft
 For termination, effective May 15, 2000, of provisions in subsec. (w) of this section relating to requirement that the Commission submit to Congress at least annually an analysis of reports and recommendations for legislation that the Commission concludes is warranted by that analysis, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 13 of House Document No. 103–7.
 
 #### Provisions for Review, Promulgation, or Amendment of Federal Sentencing Guidelines Relating to Specific Offenses
+
+Pub. L. 107–296, title II, §225(b), Nov. 25, 2002, 116 Stat. 2156.—Computer fraud.
+
+Pub. L. 107–273, div. C, title I, §11008(e), Nov. 2, 2002, 116 Stat. 1819.—Assaults and threats against Federal judges and certain other Federal officials and employees.
+
+Pub. L. 107–204, title VIII, §805, July 30, 2002, 116 Stat. 802.—Obstruction of justice and extensive criminal fraud.
+
+Pub. L. 107–204, title IX, §905, July 30, 2002, 116 Stat. 805.—Certain white collar offenses.
+
+Pub. L. 107–204, title XI, §1104, July 30, 2002, 116 Stat. 808.—Securities and accounting fraud and related offenses.
+
+Pub. L. 107–155, title III, §314, Mar. 27, 2002, 116 Stat. 107.—Violations of Federal Election Campaign Act of 1971 and related election laws.
 
 Pub. L. 107–56, title VIII, §814(f), Oct. 26, 2001, 115 Stat. 384.—Computer fraud and abuse.
 
@@ -338,11 +350,11 @@ Pub. L. 100–690, title VI, §6482(c), Nov. 18, 1988, 102 Stat. 4382.—Common 
 
 #### Mandatory Victim Restitution; Amendment of Sentencing Guidelines
 
-Pub. L. 104–132, title II, §208, Apr. 24, 1996, 110 Stat. 1240, provided that: “Pursuant to section 994 of title 28, United States Code, the United States Sentencing Commission shall promulgate guidelines or amend existing guidelines to reflect this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996Amendment note set out under section 3551 of Title 18, Crimes and Criminal Procedure\] and the amendments made by this subtitle.”
+Pub. L. 104–132, title II, §208, Apr. 24, 1996, 110 Stat. 1240, provided that: “Pursuant to section 994 of title 28, United States Code, the United States Sentencing Commission shall promulgate guidelines or amend existing guidelines to reflect this subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, see Short Title of 1996 Amendment note set out under section 3551 of Title 18, Crimes and Criminal Procedure\] and the amendments made by this subtitle.”
 
 #### Cocaine and Crack Sentences and Sentences for Money Laundering and Other Unlawful Activity; Reduction of Sentencing Disparities
 
-Pub. L. 104–38, Oct. 30, 1995, 109 Stat. 334, disapproved of certain amendments relating to lowering of crack sentences and sentences for money laundering and transactions in property derived from unlawful activity submitted by the United States Sentencing Commission to Congress on May 1, 1995, required the Commission to recommend changes to the statutes and sentencing guidelines for unlawful manufacturing, importing, exporting, and trafficking of cocaine, and like offenses, required the Department of Justice to submit to Congress, no later than May 1, 1996, a report on the charging and plea practices of Federal prosecutors with respect to the offense of money laundering, and required the Commission to submit to Congress comments on the Department of Justice study.
+Pub. L. 104–38, Oct. 30, 1995, 109 Stat. 334, disapproved of certain amendments relating to lowering of crack sentences and sentences for money laundering and transactions in property derived from unlawful activitysubmitted by the United States Sentencing Commission to Congress on May 1, 1995, required the Commission to recommend changes to the statutes and sentencing guidelines for unlawful manufacturing, importing, exporting, and trafficking of cocaine, and like offenses, required the Department of Justice to submit to Congress, no later than May 1, 1996, a report on the charging and plea practices of Federal prosecutors with respect to the offense of money laundering, and required the Commission to submit to Congress comments on the Department of Justice study.
 
 #### Emergency Guidelines Promulgation Authority
 
@@ -390,7 +402,7 @@ Section 236 of Pub. L. 98–473 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 995, 998 of this title; title 18 sections 3143, 3552, 3553, 3559, 3582, 3583, 3621, 3622, 5037; title 22 section 7109; title 29 sections 504, 1111; title 42 sections 14051, 14052.
+This section is referred to in sections 995, 998 of this title; title 18 sections 3143, 3552, 3553, 3559, 3582, 3583, 3621, 3622, 5037; title 22 section 7109; title 29 sections 504, 1111; title 42 sections 3796<i>ll</i>–3, 14051, 14052.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

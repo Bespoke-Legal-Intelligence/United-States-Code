@@ -26,6 +26,10 @@ Presidential Proclamation No. 5928, referred to in par. (5), is set out under se
 
 1978—Pub. L. 95–474 substituted provision relating to definitions for provision defining “United States”, permitting higher State or local safety standards, and providing for consultation with appropriate agencies, the inapplicability of this chapter to the Panama Canal, delegation of powers with respect to the Saint Lawrence Seaway, and factors to be considered in issuance of regulations.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.

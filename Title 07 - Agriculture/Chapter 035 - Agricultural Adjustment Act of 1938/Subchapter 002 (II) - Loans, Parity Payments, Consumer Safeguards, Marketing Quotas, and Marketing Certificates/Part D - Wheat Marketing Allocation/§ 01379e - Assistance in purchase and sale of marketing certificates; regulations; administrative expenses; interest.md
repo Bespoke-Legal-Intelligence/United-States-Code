@@ -6,7 +6,7 @@ For the purpose of facilitating the purchase and sale of marketing certificates,
 
 #### Codification
 
-The sentence added by Pub. L. 89–321, as amended by Pub. L. 90–559, which directed the Commodity Credit Corporation to sell marketing certificates for the marketing years for the 1966 through 1970 wheat crops to persons processing food products at the face value thereof less any amount by which price support for wheat accompanied by domestic certificates exceeded $2 per bushel, was omitted as executed.
+The sentence added by Pub. L. 89–321, as amended by Pub. L. 90–559, which directed the Commodity Credit Corporation to sell marketing certificates for the marketing years for the 1966 through 1970 wheat crops to persons processing food products at the face valuethereof less any amount by which price support for wheat accompanied by domestic certificates exceeded $2 per bushel, was omitted as executed.
 
 #### Amendments
 
@@ -22,7 +22,9 @@ Section 403(a) of Pub. L. 91–524 provided that the amendment made by that sect
 
 #### Inapplicability of Section
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(3) of this title.
+
+Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 
 Section inapplicable to wheat processors or exporters during period June 1, 1991, through May 31, 1996, see section 302 of Pub. L. 101–624, set out as a note under section 1379d of this title.
 

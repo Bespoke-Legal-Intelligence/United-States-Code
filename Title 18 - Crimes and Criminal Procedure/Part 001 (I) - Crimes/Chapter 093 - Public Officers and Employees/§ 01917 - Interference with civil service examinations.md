@@ -1,6 +1,6 @@
 ### §1917. Interference with civil service examinations
 
-Whoever, being a member or employee of the United States Office of Personnel Management or an individual in the public service, willfully and corruptly—
+Whoever, being a member or employee of the United States Office of Personnel Managementor an individual in the public service, willfully and corruptly—
 
 &emsp;(1) defeats, deceives, or obstructs an individual in respect of his right of examination according to the rules prescribed by the President under title 5 for the administration of the competitive service and the regulations prescribed by such Office under section 1302(a) of title 5;
 

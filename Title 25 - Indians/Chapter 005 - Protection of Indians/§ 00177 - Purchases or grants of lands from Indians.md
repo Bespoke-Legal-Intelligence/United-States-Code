@@ -10,5 +10,5 @@ R.S. §2116 derived from act June 30, 1834, ch. 161, §12, 4 Stat. 730.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 941k, 1724, 1757, 1772c, 1774f of this title.
+This section is referred to in sections 941k, 1724, 1757, 1772c, 1774f, 1779c, 1779f of this title.
 

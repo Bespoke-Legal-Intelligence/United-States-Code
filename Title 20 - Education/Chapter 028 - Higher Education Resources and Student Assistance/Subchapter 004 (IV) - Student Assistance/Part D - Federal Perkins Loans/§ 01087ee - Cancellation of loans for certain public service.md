@@ -86,7 +86,7 @@ The National and Community Service Act of 1990, referred to in subsec. (a)(6), i
 
 #### Codification
 
-Amendment by section 2(f)(14) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325) was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
+Amendment by section 2(f)(14) of Pub. L. 103–208 (which was effective as if included in Pub. L. 102–325)was executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–82, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 

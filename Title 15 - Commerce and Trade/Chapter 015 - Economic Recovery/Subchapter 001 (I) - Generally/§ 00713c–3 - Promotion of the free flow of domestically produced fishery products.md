@@ -80,7 +80,7 @@ As used in this section—
 
 (4) Each grant made under this subsection shall be subject to such terms and conditions as the Secretary may require to protect the interests of the United States, including, but not limited to, the following:
 
-&emsp;(A) The recipient of the grant must keep such records as the Secretary shall require as being necessary or appropriate for disclosing the use made of grant funds and shall allow the Secretary and the Comptroller General of the United States, or any of their authorized representatives, access to such records for purposes of audit and examination.
+&emsp;(A) The recipient of the grant must keep such records as the Secretary shall require as being necessary or appropriate for disclosingthe use made of grant funds and shall allow the Secretary and the Comptroller General of the United States, or any of their authorized representatives, access to such records for purposes of audit and examination.
 
 &emsp;(B) The amount of a grant may not be less than 50 percent of the estimated cost of the project.
 
@@ -180,7 +180,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (d)(2) of this
 
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One HundredFourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Transfer of Functions
 

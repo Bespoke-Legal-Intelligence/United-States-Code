@@ -12,7 +12,7 @@ Within 180 days after October 24, 1992, the Secretary, in consultation with appr
 
 #### (1) Solicitation
 
-&emsp;Within 1 year after October 24, 1992, the Secretary shall solicit proposals for conducting activities consistent with the 5-year program plan. Such proposals may be submitted by one or more parties.
+&emsp;Within 1 year after October 24, 1992, the Secretary shall solicit proposals for conductingactivities consistent with the 5-year program plan. Such proposals may be submitted by one or more parties.
 
 #### (2) Contents of proposals
 
@@ -32,7 +32,7 @@ The Secretary, in consultation with the Administrator of General Services, shall
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for carrying out this section suchsums as may be necessary, to be derived for energy efficient applications from section 13451(e) of this title and for renewable applications from section 13471(c) of this title, including Department of Energy national laboratory participation in proposals submitted under subsection (c) of this section, and including transferring funds to the General Services Administration.
+There are authorized to be appropriated to the Secretary for carrying out this section such sums as may be necessary, to be derived for energy efficient applications from section 13451(e) of this title and for renewable applications from section 13471(c) of this title, including Department of Energy national laboratory participation in proposals submitted under subsection (c) of this section, and including transferring funds to the General Services Administration.
 
 (Pub. L. 102–486, title XXII, §2201, Oct. 24, 1992, 106 Stat. 3085.)
 

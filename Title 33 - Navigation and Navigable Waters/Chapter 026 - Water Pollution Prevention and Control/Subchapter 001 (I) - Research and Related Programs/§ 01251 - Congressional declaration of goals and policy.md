@@ -24,7 +24,7 @@ It is the policy of the Congress to recognize, preserve, and protect the primary
 
 #### (c) Congressional policy toward Presidential activities with foreign countries
 
-It is further the policy of Congress that the President, acting through the Secretary of State and such national and international organizations as he determines appropriate, shall take such action as may be necessary to insure that to the fullest extent possible all foreign countries shall take meaningful action for the prevention, reduction, and elimination of pollution in their waters and in international waters and for the achievement of goals regarding the elimination of discharge of pollutants and theimprovement of water quality to at least the same extent as the United States does under its laws.
+It is further the policy of Congress that the President, acting through the Secretary of State and such national and international organizations as he determines appropriate, shall take such action as may be necessary to insure that to the fullest extent possible all foreign countries shall take meaningful action for the prevention, reduction, and elimination of pollution in their waters and in international waters and for the achievement of goals regarding the elimination of discharge of pollutants and the improvement of water quality to at least the same extent as the United States does under its laws.
 
 #### (d) Administrator of Environmental Protection Agency to administer chapter
 
@@ -51,6 +51,14 @@ It is the policy of Congress that the authority of each State to allocate quanti
 1977—Subsec. (b). Pub. L. 95–217, §26(b), inserted provisions expressing Congressional policy that the States manage the construction grant program under this chapter and implement the permit program under sections 1342 and 1344 of this title.
 
 Subsec. (g). Pub. L. 95–217, §5(a), added subsec. (g).
+
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–303, §1(a), Nov. 27, 2002, 116 Stat. 2355, provided that: “This Act \[enacting section 1271a of this title, amending sections 1254, 1266, 1268, 1270, 1285, 1290, 1324, 1329, 1330, and 1375 of this title, enacting provisions set out as notes under this section, section 1254 of this title, and section 1113 of Title 31, Money and Finance, and repealing provisions set out as a note under section 50 of Title 20, Education\] may be cited as the ‘Great Lakes and Lake Champlain Act of 2002’.”
+
+Pub. L. 107–303, title I, §101, Nov. 27, 2002, 116 Stat. 2355, provided that: “This title \[enacting section 1271a of this title and amending section 1268 of this title\] may be cited as the ‘Great Lakes Legacy Act of 2002’.”
+
+Pub. L. 107–303, title II, §201, Nov. 27, 2002, 116 Stat. 2358, provided that: “This title \[amending section 1270 of this title\] may be cited as the ‘Daniel Patrick Moynihan Lake Champlain Basin Program Act of 2002’.”
 
 #### Short Title of 2000 Amendments
 
@@ -104,7 +112,7 @@ Section 4 of Pub. L. 92–500 provided that:
 
 “(a) No suit, action, or other proceeding lawfully commenced by or against the Administrator or any other officer or employee of the United States in his official capacity or in relation to the discharge of his official duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall abate by reason of the taking effect of the amendment made by section 2 of this Act \[which enacted this chapter\]. The court may, on its own motion or that of any party made at any time within twelve months after such taking effect, allow the same to be maintained by or against the Administrator or such officer or employee.
 
-“(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\], and pertaining to any functions, powers, requirements, and duties under the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall continue in full force and effect after the date of enactment of this Act \[Oct. 18, 1972\] until modified or rescinded in accordance with the Federal Water Pollution Control Act as amended by this Act \[this chapter\].
+“(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\], and pertaining to any functions, powers, requirements, and duties under the Federal Water Pollution Control Act as in effect immediatelyprior to the date of enactment of this Act \[Oct. 18, 1972\] shall continue in full force and effect after the date of enactment of this Act \[Oct. 18, 1972\] until modified or rescinded in accordance with the Federal Water Pollution Control Act as amended by this Act \[this chapter\].
 
 “(c) The Federal Water Pollution Control Act as in effect immediately prior to the date of enactment of this Act \[Oct. 18, 1972\] shall remain applicable to all grants made from funds authorized for the fiscal year ending June 30, 1972, and prior fiscal years, including any increases in the monetary amount of any such grant which may be paid from authorizations for fiscal years beginning after June 30, 1972, except as specifically otherwise provided in section 202 of the Federal Water Pollution Control Act as amended by this Act \[section 1282 of this title\] and in subsection (c) of section 3 of this Act.”
 
@@ -232,7 +240,7 @@ Section 6 of Pub. L. 92–500 provided that:
 
 &emsp;“(5) the impact, if any, which the imposition of a compensating tariff of other equalizing measure may have in encouraging foreign nations to implement pollution and abatement control programs.
 
-“(b) The Secretary shall make an initial report to the President and Congress within six months after the date of enactment of this section \[Oct. 18, 1972\] of the results of the study and investigation carried out pursuant to this section and shall make additional reportsthereafter at such times as he deems appropriate taking into account the development of relevant data, but not less than once every twelve months.”
+“(b) The Secretary shall make an initial report to the President and Congress within six months after the date of enactment of this section \[Oct. 18, 1972\] of the results of the study and investigation carried out pursuant to this section and shall make additional reports thereafter at such times as he deems appropriate taking into account the development of relevant data, but not less than once every twelve months.”
 
 #### International Agreements
 

@@ -1,6 +1,6 @@
 ### §1536. Crediting payments from purchases between executive agencies
 
-(a) An advance payment made on an order under section 1535 of this title is credited to a special working fund that the Secretary of the Treasury considers necessary to be established. Except as provided in this section, any other payment is credited to the appropriation or fund against which charges were made to fill the order.
+(a) An advance payment made on an order under section 1535 of this title is credited to aspecial working fund that the Secretary of the Treasury considers necessary to be established. Except as provided in this section, any other payment is credited to the appropriation or fund against which charges were made to fill the order.
 
 (b) An amount paid under section 1535 of this title may be expended in providing goods or services or for a purpose specified for the appropriation or fund credited. Where goods are provided from stocks on hand, the amount received in payment is credited so as to be available to replace the goods unless—
 
@@ -40,5 +40,5 @@ In subsection (b), the words “providing goods or services” are substituted f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 sections 142j, 1151, 1385; title 10 section 2205; title 16 section 825k; title 29section 563a; title 38 section 1720A; title 40 sections 270f, 298b; title 42 section 254; title 43 sections 1471c, 1471f; title 48 section 1469d; title 50 section 414.
+This section is referred to in title 2 sections 142j, 1151, 1385; title 10 section 2205; title 16 section 825k; title 29 section 563a; title 38 section 1720A; title 40 sections 3134, 3176; title 42 section 254; title 43 sections 1471c, 1471f; title 48 section 1469d; title 50 section 414.
 

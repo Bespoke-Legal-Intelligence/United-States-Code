@@ -60,7 +60,7 @@ Notwithstanding any other provision of this section, the Attorney General may us
 
 #### References in Text
 
-The Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies AppropriationsAct, 1998, referred to in subsec. (c)(3), is Pub. L. 105–119, Nov. 26, 1997, 111 Stat. 2440. Provisions under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance”, 111 Stat. 2452, are not classified to the Code.
+The Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 1998, referred to in subsec. (c)(3), is Pub. L. 105–119, Nov. 26, 1997, 111 Stat. 2440. Provisions under the heading “Violent Crime Reduction Programs, State and Local Law Enforcement Assistance”, 111 Stat. 2452, are not classified to the Code.
 
 #### Codification
 

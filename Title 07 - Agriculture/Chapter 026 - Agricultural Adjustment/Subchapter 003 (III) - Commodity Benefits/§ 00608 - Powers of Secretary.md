@@ -12,7 +12,7 @@ Whenever the Secretary of Agriculture has reason to believe that:
 
 #### (2) Agreements for adjustment of acreage or production and for rental or benefit payments
 
-Subject to the provisions of subsection (1) of this section, the Secretary of Agriculture shallprovide, through agreements with producers or by other voluntary methods,
+Subject to the provisions of subsection (1) of this section, the Secretary of Agriculture shall provide, through agreements with producers or by other voluntary methods,
 
 &emsp;(a) For such adjustment in the acreage or in the production for market, or both, of any basic agricultural commodity, as he finds, upon the basis of the investigation made pursuant to subsection (1) of this section, will tend to effectuate the declared policy of this chapter, and to make such adjustment program practicable to operate and administer, and
 
@@ -36,7 +36,7 @@ Whenever, during a period during which any of the powers conferred in subsection
 
 &emsp;(b) The conditions of and factors relating to the production, marketing, and consumption of such commodity are such that none of the powers conferred in subsections (2) and (3) of this section, and no combination of such powers, would, if exercised, tend to effectuate the declared policy of this chapter,
 
-> he shall cause an immediate investigation to be made to determine such facts. If, upon the basis of such investigation, the Secretary finds the existence of such facts, he shall proclaim such determination, and shall not exercise any of such powers with respect to such commodity after the end of the marketing year current at the time when such proclamation is made and prior to a new proclamation under subsection (1) of this section, except insofar as the exercise of such power is necessary to carry out obligations of the Secretary assumed, prior to the date of such proclamation made pursuant to this subsection, in connection with the exercise of any of the powers conferred upon him under subsections (2) or (3) of this section.
+> he shall cause an immediate investigation to be made to determine such facts. If, upon the basis of such investigation, the Secretary finds the existence of such facts, he shall proclaim such determination, and shall not exercise any of such powers with respect to such commodity after the end of the marketing year current at the time when such proclamation is made and prior to a new proclamation under subsection (1) of this section, except insofar as the exercise of such power is necessary to carry out obligationsof the Secretary assumed, prior to the date of such proclamation made pursuant to this subsection, in connection with the exercise of any of the powers conferred upon him under subsections (2) or (3) of this section.
 
 #### (5) Hearings; notice
 
@@ -56,7 +56,7 @@ In the case of rice, the Secretary of Agriculture, in exercising the power confe
 
 #### (9) Advances of payments on stored nonperishable commodity
 
-Under regulations of the Secretary of Agriculture requiring adequate facilities for the storage of any nonperishable agricultural commodity on the farm, inspection and measurement of any such commodity so stored, and thelocking and sealing thereof, and such other regulations as may be prescribed by the Secretary of Agriculture for the protection of such commodity and for the marketing thereof, a reasonable percentage of any benefit payment may be advanced on any such commodity so stored. In any such case such deduction may be made from the amount of the benefit payment as the Secretary of Agriculture determines will reasonably compensate for the cost of inspection and sealing but no deduction may be made for interest.
+Under regulations of the Secretary of Agriculture requiring adequate facilities for the storage of any nonperishable agricultural commodity on the farm, inspection and measurement of any such commodity so stored, and the locking and sealing thereof, and such other regulations as may be prescribed by the Secretary of Agriculture for the protection of such commodity and for the marketing thereof, a reasonable percentage of any benefit payment may be advanced on any such commodity so stored. In any such case such deduction may be made from the amount of the benefit payment as the Secretary of Agriculture determines will reasonably compensate for the cost of inspection and sealing but no deduction may be made for interest.
 
 (May 12, 1933, ch. 25, title I, §8, 48 Stat. 34; Apr. 7, 1934, ch. 103, §7, 48 Stat. 528; May 9, 1934, ch. 263, §14, 48 Stat. 676; Mar. 18, 1935, ch. 32, §7, 49 Stat. 46; Aug. 24, 1935, ch. 641, §§2, 4–7, 49 Stat. 751, 753–762.)
 

@@ -22,9 +22,9 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in subsec. (b).
+1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in subsec. (b).
 
-<b>1982</b>—Pub. L. 97–164 amended section generally, substituting provisions relating to assignment of judges (formerly contained in section 175) for provisions relating to terms of court. See section 173 of this title.
+1982—Pub. L. 97–164 amended section generally, substituting provisions relating to assignment of judges (formerly contained in section 175) for provisions relating to terms of court. See section 173 of this title.
 
 #### Effective Date of 1992 Amendment
 

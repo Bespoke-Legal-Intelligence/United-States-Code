@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The plan administrator of a plan subject to the additional premium under section1306(a)(3)(E) of this title shall provide, in a form and manner and at such time as prescribed in regulations of the corporation, notice to plan participants and beneficiaries of the plan's funding status and the limits on the corporation's guaranty should the plan terminate while underfunded. Such notice shall be written in a manner so as to be understood by the average plan participant.
+The plan administrator of a plan subject to the additional premium under section 1306(a)(3)(E) of this title shall provide, in a form and manner and at such time as prescribed in regulations of the corporation, notice to plan participants and beneficiaries of the plan's funding status and the limits on the corporation's guaranty should the plan terminate while underfunded. Such notice shall be written in a manner so as to be understood by the average plan participant.
 
 #### (b) Exception
 

@@ -16,7 +16,7 @@ For purposes of determining priorities for research on recovery of materials and
 
 &emsp;(2) the potential for research, development, and demonstration without Federal action, including the degree of restraint on such potential posed by the risks involved, and
 
-&emsp;(3) the magnitude of effort and period of time necessary to develop the technology to the point where Federal assistance can be ended.
+&emsp;(3) the magnitude of effort and period of time necessary to develop the technology tothe point where Federal assistance can be ended.
 
 #### (d) Small-scale and low technology study
 
@@ -110,7 +110,7 @@ The Administrator shall complete the research and studies, and submit the report
 
 #### (m) Drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy
 
-(1) The Administrator shall conduct a detailed and comprehensive study and submit a report on the adverse effects, if any, of drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy on human health and the environment, including, but not limited to, the effects of such wastes on humans, water, air, health, welfare, and natural resources and on the adequacy of means and measures currently employed by the oil and gasand geothermal drilling and production industry, Government agencies, and others to dispose of and utilize such wastes and to prevent or substantially mitigate such adverse effects. Such study shall include an analysis of—
+(1) The Administrator shall conduct a detailed and comprehensive study and submit a report on the adverse effects, if any, of drilling fluids, produced waters, and other wastes associated with the exploration, development, or production of crude oil or natural gas or geothermal energy on human health and the environment, including, but not limited to, the effects of such wastes on humans, water, air, health, welfare, and natural resources and on the adequacy of means and measures currently employed by the oil and gas and geothermal drilling and production industry, Government agencies, and others to dispose of and utilize such wastes and to prevent or substantially mitigate such adverse effects. Such study shall include an analysis of—
 
 &emsp;(A) the sources and volume of discarded material generated per year from such wastes;
 
@@ -208,7 +208,7 @@ The Administrator shall compile, and not later than October 1, 1986, submit to t
 
 #### (s) Extending landfill life and reusing landfilled areas
 
-The Administrator shall conduct detailed, comprehensive studies of methods to extend the useful life of sanitary landfills and to better use sites in which filled or closed landfills are located. Such studies shall address—
+The Administrator shall conduct detailed, comprehensive studies of methods to extend the useful life of sanitary landfills and to better usesites in which filled or closed landfills are located. Such studies shall address—
 
 &emsp;(1) methods to reduce the volume of materials before placement in landfills;
 

@@ -2,7 +2,7 @@
 
 #### (a) Authority of Federal Energy Administrator to request, acquire, and collect energy information; rules and regulations
 
-For the purpose of assuring that the Federal Energy Administrator, the Congress, the States, and the public have access to and are able to obtain reliable energy information, the Federal Energy Administrator shall request, acquire, and collect such energy information as he determines to be necessary to assist in the formulation of energy policy or to carry out the purposes of this chapter or the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 etseq.\].<sup>1</sup> The Federal Energy Administrator shall promptly promulgate rules pursuant to subsection (b)(1)(A) of this section requiring reports of such information to be submitted to the Federal Energy Administrator at least every ninety calendar days.
+For the purpose of assuring that the Federal Energy Administrator, the Congress, the States, and the public have access to and are able to obtain reliable energy information, the Federal Energy Administrator shall request, acquire, and collect such energy information as he determines to be necessary to assist in the formulation of energy policy or to carry out the purposes of this chapter or the Emergency Petroleum Allocation Act of 1973 \[15 U.S.C. 751 et seq.\].<sup>1</sup> The Federal Energy Administrator shall promptly promulgate rules pursuant to subsection (b)(1)(A) of this section requiring reports of such information to be submitted to the Federal Energy Administrator at least every ninety calendar days.
 
 #### (b) Powers of Federal Energy Administrator in obtaining energy information; verification of accuracy; compliance orders
 
@@ -60,7 +60,7 @@ For the purpose of assuring that the Federal Energy Administrator, the Congress,
 
 &emsp;(B) submit reports with respect to energy information kept in accordance with such practices.
 
-> The Administrator shall file quarterly reports with the President and the Congress compiled from accounts kept in accordance with such section 503 and submitted to the Administrator inaccordance with this paragraph. Such reports shall present energy information in the categories specified in subsection (c) of such section 503 to the extent that such information may be compiled from such accounts. Such energy information shall be collected and such quarterly reports made for each calendar quarter which begins 6 months after the date on which the accounting practices developed pursuant to such section 503 are made effective.
+> The Administrator shall file quarterly reports with the President and the Congress compiled from accounts kept in accordance with such section 503 and submitted to the Administrator in accordance with this paragraph. Such reports shall present energy information in the categories specified in subsection (c) of such section 503 to the extent that such information may be compiled from such accounts. Such energy information shall be collected and such quarterly reports made for each calendar quarter which begins 6 months after the date on which the accounting practices developed pursuant to such section 503 are made effective.
 
 #### (d) Confidential information
 
@@ -70,7 +70,7 @@ Upon a showing satisfactory to the Federal Energy Administrator by any person th
 
 As used in this section:
 
-&emsp;(1) The term “energy information” includes (A) all information in whatever form on (i) fuel reserves, exploration, extraction, and energy resources (including petrochemical feedstocks) wherever located; (ii) production, distribution, and consumption of energy and fuels wherever carried on; and (B) matters relating to energy and fuels, such as corporate structure and proprietary relationships, costs, prices, capital investment, and assets, and other matters directly related thereto, wherever they exist.
+&emsp;(1) The term “energy information” includes (A) all information in whatever form on (i) fuel reserves, exploration, extraction, and energy resources (including petrochemical feedstocks) wherever located; (ii) production, distribution, and consumption of energy andfuels wherever carried on; and (B) matters relating to energy and fuels, such as corporate structure and proprietary relationships, costs, prices, capital investment, and assets, and other matters directly related thereto, wherever they exist.
 
 &emsp;(2) The term “person” means any natural person, corporation, partnership, association, consortium, or any entity organized for a common business purpose, wherever situated, domiciled, or doing business, who directly or through other persons subject to their control does business in any part of the United States.
 

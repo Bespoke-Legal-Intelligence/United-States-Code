@@ -10,7 +10,7 @@ The President may assign Institute Fellows to undertake such activities, in the 
 
 #### (c) Amount of awards; transportation, housing, etc., benefits
 
-The amount of the awards made pursuant to this section shall be established by the President, but shall not in any case exceed the highest rate which may be paid to an employee under the General Schedule established by section 5332 of title 5. In addition, where appropriate, the President may make provisions for transportation, housing (when assigned outside country of residence), subsistence (or per diemin lieu thereof), and health care or health or accident insurance for Institute Fellows and their dependents while engaged in activities authorized by this chapter.
+The amount of the awards made pursuant to this section shall be established by the President, but shall not in any case exceed the highest rate which may be paid to an employee under the General Schedule established by section 5332 of title 5. In addition, where appropriate, the President may make provisions for transportation, housing (when assigned outside country of residence), subsistence (or per diem in lieu thereof), and health care or health or accident insurance for Institute Fellows and their dependents while engaged in activities authorized by this chapter.
 
 #### (d) Status of Institute Fellows
 
@@ -21,6 +21,10 @@ Except as provided otherwise in this section, Institute Fellows shall not be dee
 Alien participants in any program of the Institute, including Institute Fellows and their dependents, may be admitted to the United States, if otherwise qualified as non-immigrants under section 1101(a)(15) of title 8, for such time and under such conditions as may be prescribed by regulations promulgated by the Secretary of State and the Attorney General.
 
 (Pub. L. 96–53, title IV, §408, Aug. 14, 1979, 93 Stat. 375.)
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

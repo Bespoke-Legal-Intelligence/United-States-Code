@@ -16,7 +16,7 @@ The regulations required by subsection (a) of this section shall apply to the fo
 
 &emsp;(2) services related to support of the preparation or submission of bids and proposals for Federal contracts to the extent that inclusion of such services in such regulations is necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States; and
 
-&emsp;(3) such other services related to Federal contracts as may be specified in the regulations prescribed under subsection (a) of this section to the extent necessary to identify and evaluate the potential for conflicts of interest that could be prejudicial to the interests of the United States.
+&emsp;(3) such other services related to Federal contracts as may be specified in the regulations prescribed under subsection (a) of this section to the extent necessary to identify and evaluate the potential for conflicts of interestthat could be prejudicial to the interests of the United States.
 
 #### (c) Report to Congress by Comptroller General on effectiveness of regulations
 

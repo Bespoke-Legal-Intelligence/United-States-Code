@@ -26,7 +26,7 @@ The report submitted under subsection (a) of this section shall—
 
 &emsp;(2) specify the industry sectors affected by the developments described in the report under paragraph (1); and
 
-&emsp;(3) contain a statement of the findings and recommendations of the Council during the previous fiscal year, including any recommendations of the Council for (a) such legislative or administrative actions as the Council considers appropriate, and (b) including the elimination, consolidation, reorganization of government agencies especially such agencies that specifically deal with research, science, technology, and international trade.
+&emsp;(3) contain a statement of the findings and recommendations of the Council during theprevious fiscal year, including any recommendations of the Council for (a) such legislative or administrative actions as the Council considers appropriate, and (b) including the elimination, consolidation, reorganization of government agencies especially such agencies that specifically deal with research, science, technology, and international trade.
 
 #### (c) Report by Congressional committees
 

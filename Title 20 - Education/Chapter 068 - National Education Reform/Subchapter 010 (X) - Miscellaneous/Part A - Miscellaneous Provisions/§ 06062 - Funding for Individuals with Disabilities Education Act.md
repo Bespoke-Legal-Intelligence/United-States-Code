@@ -22,5 +22,5 @@ The Individuals with Disabilities Education Act, referred to in text, is title V
 
 #### Codification
 
-Another section 1012 of Pub. L. 103–227 is classified to section 6054a of this title.
+Another section 1012 of Pub. L. 103–227 was classified to section 6054a of this title, prior to repeal by Pub. L. 107–279.
 

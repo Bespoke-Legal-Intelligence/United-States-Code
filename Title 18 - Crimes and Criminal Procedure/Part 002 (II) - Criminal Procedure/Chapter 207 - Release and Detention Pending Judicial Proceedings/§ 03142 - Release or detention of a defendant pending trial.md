@@ -46,7 +46,7 @@ Release on Conditions.—(1) If the judicial officer determines that the release
 
 &emsp;&emsp;(xi) execute an agreement to forfeit upon failing to appear as required, property of a sufficient unencumbered value, including money, as is reasonably necessary to assure the appearance of the person as required, and shall provide the court with proof of ownership and the value of the property along with information regarding existing encumbrances as the judicial office may require;
 
-&emsp;&emsp;(xii) execute a bail bond with solvent sureties; who will execute an agreement to forfeit in such amount as is reasonably necessary to assure appearance of the person as required and shall provide the court with information regarding the value of the assets and liabilities of the surety if other than an approved surety and the nature and extent of encumbrances against the surety's property; such surety shall have a net worthwhich shall have sufficient unencumbered value to pay the amount of the bail bond;
+&emsp;&emsp;(xii) execute a bail bond with solvent sureties; who will execute an agreement to forfeit in such amount as is reasonably necessary to assure appearance of the person as required and shall provide the court with information regarding the value of the assets and liabilities of the surety if other than an approved surety and the nature and extent of encumbrances against the surety's property; such surety shall have a net worth which shall have sufficient unencumbered value to pay the amount of the bail bond;
 
 &emsp;&emsp;(xiii) return to custody for specified hours following release for employment, schooling, or other limited purposes; and
 
@@ -80,7 +80,7 @@ Temporary Detention To Permit Revocation of Conditional Release, Deportation, or
 
 Detention.—If, after a hearing pursuant to the provisions of subsection (f) of this section, the judicial officer finds that no condition or combination of conditions will reasonably assure the appearance of the person as required and the safety of any other person and the community, such judicial officer shall order the detention of the person before trial. In a case described in subsection (f)(1) of this section, a rebuttable presumption arises that no condition or combination of conditions will reasonably assure the safety of any other person and the community if such judicial officer finds that—
 
-&emsp;(1) the person has been convicted of a Federal offense that is described in subsection (f)(1) of this section, or of a State or local offense that would have been an offense described in subsection (f)(1) of this section if a circumstance giving rise to Federal jurisdiction had existed;
+&emsp;(1) the person has been convicted of a Federal offense that is described in subsection (f)(1) of this section, or of a State or local offense that would have been an offense described in subsection (f)(1) of this section if acircumstance giving rise to Federal jurisdiction had existed;
 
 &emsp;(2) the offense described in paragraph (1) of this subsection was committed while the person was on release pending trial for a Federal, State, or local offense; and
 
@@ -158,7 +158,7 @@ Contents of Detention Order.—In a detention order issued under subsection (e) 
 
 Presumption of Innocence.—Nothing in this section shall be construed as modifying or limiting the presumption of innocence.
 
-(Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646,§§55(a), (c), 72, Nov. 10, 1986, 100 Stat. 3607, 3617; Pub. L. 100–690, title VII, §7073, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–647, title X, §1001(b), title XXXVI, §§3622–3624, Nov. 29, 1990, 104 Stat. 4827, 4965; Pub. L. 104–132, title VII, §§702(d), 729, Apr. 24, 1996, 110 Stat. 1294, 1302.)
+(Added Pub. L. 98–473, title II, §203(a), Oct. 12, 1984, 98 Stat. 1976; amended Pub. L. 99–646, §§55(a), (c), 72, Nov. 10, 1986, 100 Stat. 3607, 3617; Pub. L. 100–690, title VII, §7073, Nov. 18, 1988, 102 Stat. 4405; Pub. L. 101–647, title X, §1001(b), title XXXVI, §§3622–3624, Nov. 29, 1990, 104 Stat. 4827, 4965; Pub. L. 104–132, title VII, §§702(d), 729, Apr. 24, 1996, 110 Stat. 1294, 1302.)
 
 #### References in Text
 
@@ -210,11 +210,15 @@ Subsec. (i). Pub. L. 99–646, §55(a), (c)(9), in introductory provision substi
 
 #### Effective Date of 1990 Amendment
 
-Amendment by sections 3622 to 3624 of Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see section 3631 of Pub. L. 101–647, set out as an Effective Date note undersection 3001 of Title 28, Judiciary and Judicial Procedure.
+Amendment by sections 3622 to 3624 of Pub. L. 101–647 effective 180 days after Nov. 29, 1990, see section 3631 of Pub. L. 101–647, set out as an Effective Date note under section 3001 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–646 effective 30 days after Nov. 10, 1986, see section 55(j) of Pub. L. 99–646, set out as a note under section 3141 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Memorials.—The American Battle Monuments Commission shall prepare plans and estimates to build suitable memorials commemorating the service of American Armed Forces, and shall build and maintain memorials in the United States and, as the Commission decides, at any place outside the United States where the Armed Forces have served since April 6, 1917.
+Memorials.—The American Battle Monuments Commission shall prepare plans and estimates to build suitable memorials commemorating the service of American Armed Forces, and shall build and maintain memorials in theUnited States and, as the Commission decides, at any place outside the United States where the Armed Forces have served since April 6, 1917.
 
 (b)
 

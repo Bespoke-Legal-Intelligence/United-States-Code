@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall establish, on an expedited basis and using a negotiated rulemaking process under subchapter III of chapter 5 of title 5, standards described in section 1395w–25(c)(1) of this title (relating to the financial solvency and capital adequacy of the organization) that entities must meet to qualify as provider-sponsored organizations under this part.
+&emsp;&emsp;The Secretary shall establish, on an expedited basis and using a negotiated rulemaking process under subchapter III of chapter 5 of title 5, standards described in section 1395w–25(c)(1) of this title (relating to the financial solvency and capital adequacy of the organization) that entitiesmust meet to qualify as provider-sponsored organizations under this part.
 
 #### (B) Factors to consider for solvency standards
 
@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(i) the delivery system assets of such an organization and ability of such an organization to provide services directly to enrollees through affiliated providers,
 
-&emsp;&emsp;&emsp;(ii) alternative means of protecting against insolvency, including reinsurance, unrestricted surplus, letters of credit, guarantees, organizational insurance coverage, partnerships with other licensed entities, and valuation attributable to theability of such an organization to meet its service obligations through direct delivery of care, and
+&emsp;&emsp;&emsp;(ii) alternative means of protecting against insolvency, including reinsurance, unrestricted surplus, letters of credit, guarantees, organizational insurance coverage, partnerships with other licensed entities, and valuation attributable to the ability of such an organization to meet its service obligations through direct delivery of care, and
 
 &emsp;&emsp;&emsp;(iii) any standards developed by the National Association of Insurance Commissioners specifically for risk-based health care delivery organizations.
 
@@ -72,7 +72,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The standards established under this subsection shall supersede any State law or regulation (including standards described in subparagraph (B)) with respect to Medicare+�Choice plans which are offered by Medicare+�Choice organizations under this part to the extent such law or regulation is inconsistent with such standards.
+&emsp;&emsp;The standards established under this subsection shall supersede any State law or regulation (including standards described in subparagraph (B)) with respect to Medicare+�Choice plans which are offered by Medicare+�Choice organizations under this part to theextent such law or regulation is inconsistent with such standards.
 
 #### (B) Standards specifically superseded
 

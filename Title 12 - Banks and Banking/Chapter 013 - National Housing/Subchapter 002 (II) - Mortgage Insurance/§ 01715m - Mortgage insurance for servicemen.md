@@ -18,7 +18,7 @@ To be eligible for insurance under this section a mortgage shall—
 
 #### (c) Manner of acceptance; payment of premiums
 
-The Secretary may prescribe the manner in which a mortgage may be accepted for insurance under this section. Premiums fixed by the Secretary under section 1709 of this title with respect to, or payable during, the period of ownership by a serviceman of the property involvedshall not be payable by the mortgage <sup>1</sup> but shall be paid not less frequently than once each year, upon request of the Secretary to the Secretary of Defense, the Secretary of Transportation, or the Secretary of Commerce, as the case may be, from the respective appropriations available for pay and allowances of persons eligible for mortgage insurance under this section. As used herein, “the period of ownership by a serviceman” means the period, for which premiums are fixed, prior to the date that the Secretary of Defense (or any officer or employee or other person designated by him), the Secretary of Transportation (or any officer or employee or other person designated by him), or the Secretary of Commerce (or any officer or employee or other person designated by him), as the case may be, furnishes the Secretary with a certification that such ownership (as defined by the Secretary), has terminated.
+The Secretary may prescribe the manner in which a mortgage may be accepted for insurance under this section. Premiums fixed by the Secretary under section 1709 of this title with respect to, or payable during, the period of ownership by a serviceman of the property involved shall not be payable by the mortgage <sup>1</sup> but shall be paid not less frequently than once each year, upon request of the Secretary to the Secretary of Defense, the Secretary of Transportation, or the Secretary of Commerce, as the case may be, from the respective appropriations available for pay and allowances of persons eligible for mortgage insurance under this section. As used herein, “the period of ownership by a serviceman” means the period, for which premiums are fixed, prior to the date that the Secretary of Defense (or any officer or employee or other person designated by him), the Secretary of Transportation (or any officer or employee or other person designated by him), or the Secretary of Commerce (or any officer or employee or other person designated by him), as the case may be, furnishes the Secretary with a certification that such ownership (as defined by the Secretary), has terminated.
 
 #### (d) Entitlement of mortgagee to benefits
 
@@ -103,6 +103,10 @@ Subsec. (e). Pub. L. 85–104, §112, substituted “(h), and (j) of section 171
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–242 applicable only with respect to mortgages insured pursuant to conditional commitment issued on or after Feb. 5, 1988, or in accordance with direct endorsement program (24 CFR 200.163), if approved underwriter of mortgagee signs appraisal report for property on or after Feb. 5, 1988, see section 406(d) of Pub. L. 100–242, set out as a note under section 1709 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

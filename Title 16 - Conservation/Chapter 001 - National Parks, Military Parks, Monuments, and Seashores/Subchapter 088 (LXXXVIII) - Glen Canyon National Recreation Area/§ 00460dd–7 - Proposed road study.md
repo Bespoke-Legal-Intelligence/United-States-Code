@@ -18,7 +18,7 @@ The study specified in subsection (a) of this section shall designate what addit
 
 #### (e) Report to Congress
 
-The findings and conclusions of the Secretary and the Highway Department of the State of Utah, specified in subsection (a) of this section, shall be submitted to Congress within two years of October 27, 1972, and shall include recommendations for any further legislation necessary to implement the findings and conclusions. It shall specify the funds necessary for appropriation in order to meet the timetable fixed in subsection (b) of this section.
+The findings and conclusions of the Secretary and the Highway Department of the State of Utah, specified in subsection (a) of this section, shall be submitted to Congress within two years of October 27, 1972, and shall include recommendations for any further legislation necessary to implement the findings and conclusions. Itshall specify the funds necessary for appropriation in order to meet the timetable fixed in subsection (b) of this section.
 
 (Pub. L. 92–593, §8, Oct. 27, 1972, 86 Stat. 1312.)
 

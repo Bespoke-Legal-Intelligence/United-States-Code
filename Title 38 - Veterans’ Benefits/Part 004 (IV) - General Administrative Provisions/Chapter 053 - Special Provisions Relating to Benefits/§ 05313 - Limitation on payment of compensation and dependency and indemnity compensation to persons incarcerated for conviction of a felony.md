@@ -16,7 +16,7 @@
 
 &emsp;(B) In the case of dependency and indemnity compensation not paid to a surviving child, any apportionment shall be to the surviving spouse or other surviving children, as applicable.
 
-(3) No apportionment may be made under this subsection to or on behalf of any person who is incarcerated in a Federal, State, or local penal institution for conviction of a felony.
+(3) No apportionment may be made under this subsection to or on behalf of any person who isincarcerated in a Federal, State, or local penal institution for conviction of a felony.
 
 (c) The Secretary shall not assign to any veteran a rating of total disability based on the individual unemployability of the veteran resulting from a service-connected disability during any period during which the veteran is incarcerated in a Federal, State, or local penal institution for conviction of a felony.
 

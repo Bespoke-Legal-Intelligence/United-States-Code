@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(iii) by an urban Indian organization pursuant to subchapter IV of this chapter; and
 
-&emsp;(B) the term “State” has the same meaning given such term in section 254d(i)(4) of title 42.
+&emsp;(B) the term “State” has the same meaning given such term in section 254d(i)(4) <sup>1</sup> of title 42.
 
 #### (b) Eligibility
 
@@ -214,13 +214,13 @@ The Secretary, in assigning individuals to serve in Indian health programs pursu
 
 (2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Loan Repayment Program whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
 
-(3) The Secretary may waive, in whole or in part, the rights of the United States to recover amounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary.
+(3) The Secretary may waive, in whole or in part, the rights of the United States to recoveramounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary.
 
 (4) Any obligation of an individual under the Loan Repayment Program for payment of damages may be released by a discharge in bankruptcy under title 11 only if such discharge is granted after the expiration of the 5-year period beginning on the first date that payment of such damages is required, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable.
 
 #### (n) Annual report
 
-The Secretary shall submit to the President, for inclusion in each report required to be submitted to the Congress under section 1671 of thistitle, a report concerning the previous fiscal year which sets forth—
+The Secretary shall submit to the President, for inclusion in each report required to be submitted to the Congress under section 1671 of this title, a report concerning the previous fiscal year which sets forth—
 
 &emsp;(1) the health professional positions maintained by the Service or by tribal or Indian organizations for which recruitment or retention is difficult;
 
@@ -245,6 +245,8 @@ The Secretary shall submit to the President, for inclusion in each report requir
 The Indian Self-Determination Act, referred to in subsec. (a)(2)(A)(ii)(I), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 Section 23 of the Act of April 30, 1908, referred to in subsec. (a)(2)(A)(ii)(II), probably should be a reference to section 23 of act June 25, 1910, ch. 431, 36 Stat. 861, which is popularly known as the “Buy Indian Act”, and is classified to section 47 of this title. Act Apr. 30, 1908, ch. 153, 35 Stat. 70, does not contain a section 23 but does have provisions (at 35 Stat. 71) similar to those in section 23 of act June 25, 1910, ch. 431, 36 Stat. 861.
+
+Section 254d(i)(4) of title 42, referred to in subsec. (a)(2)(B), was redesignated section 254d(j)(4) of title 42 by Pub. L. 107–251, title III, §310(b)(1), Oct. 26, 2002, 116 Stat. 1643.
 
 #### Amendments
 
@@ -276,7 +278,7 @@ Subsec. (g)(1). Pub. L. 102–573, §106(e), in introductory provisions, substit
 
 Subsec. (g)(2)(A). Pub. L. 102–573, §106(f), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Except as provided in subparagraph (B) and paragraph (3), for each year of obligated service for which an individual contracts to serve under subsection (f) of this section, the Secretary may pay up to $25,000 on behalf of the individual for loans described in paragraph (1).”
 
-Subsec. (g)(3). Pub. L. 102–573, §106(g)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In addition to payments made under paragraph (2), in any case in which payments on behalf of an individual under the Loan Repayment Program result in an increase in Federal, State, or local income tax liability for such individual, the Secretary may, on the request of such individual, make payments to such individual in a reasonable amount, as determined by the Secretary, to reimburse such individual for all or part of the increased tax liability of the individual.”
+Subsec. (g)(3). Pub. L. 102–573, §106(g)(1), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “In addition to payments made under paragraph (2), in any case in which payments on behalf of an individual under the Loan Repayment Program result in an increase in Federal, State, or local income tax liability for such individual, the Secretary may, on the request of such individual, make payments to such individualin a reasonable amount, as determined by the Secretary, to reimburse such individual for all or part of the increased tax liability of the individual.”
 
 Subsec. (i). Pub. L. 102–573, §902(2)(D), substituted “health professional programs of the Service” for “Service manpower programs”.
 

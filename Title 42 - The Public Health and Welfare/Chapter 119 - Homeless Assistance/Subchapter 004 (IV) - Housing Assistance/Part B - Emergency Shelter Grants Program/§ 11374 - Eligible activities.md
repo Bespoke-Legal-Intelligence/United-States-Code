@@ -64,7 +64,7 @@ Amendment by Pub. L. 104–330 applicable with respect to amounts made available
 
 #### Report by Comptroller General
 
-Section 423(b) of Pub. L. 100–628 provided that: “The Comptroller General of the United States shall conduct a study and report to the Congress not later than 1 year after the date of the enactment of this Act \[Nov. 7, 1988\] on various programs to prevent homelessness implemented by grantees, with particular focus on the different methods employed by grantees to determine eligibility for homelessness prevention assistance and restrictions or limitations, if any, imposed under such programs. Such report shall include—
+Section 423(b) of Pub. L. 100–628 provided that: “The Comptroller General of the United States shall conducta study and report to the Congress not later than 1 year after the date of the enactment of this Act \[Nov. 7, 1988\] on various programs to prevent homelessness implemented by grantees, with particular focus on the different methods employed by grantees to determine eligibility for homelessness prevention assistance and restrictions or limitations, if any, imposed under such programs. Such report shall include—
 
 &emsp;“(1) an examination of other homelessness prevention programs, including other Federal programs and State and local programs; and
 

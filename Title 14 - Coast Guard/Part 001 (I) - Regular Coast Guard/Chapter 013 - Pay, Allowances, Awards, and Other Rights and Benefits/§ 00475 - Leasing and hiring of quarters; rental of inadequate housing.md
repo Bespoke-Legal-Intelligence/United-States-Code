@@ -26,7 +26,7 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 Subsecs. (e), (f). Pub. L. 97–322 repealed subsec. (e) which required that the Secretary, annually and not later than April 1, file with the Speaker of the House and the President of the Senate a report of the utilization of subsecs. (a), (b), and (d) authority during the preceding calendar year, and subsec. (f) which prohibited utilization of subsecs. (a), (b), (c), or (d) authority after Apr. 1, 1973, unless all required subsec. (e) reports were filed with the Congress.
 
-1981—Subsec. (a). Pub. L. 97–136 inserted provisions authorizing the Secretary to lease housing facilities for assignment as public quarters, without rental charge, to military personnel who are on sea duty or duty at remote offshore Coast Guard stations and who do not have dependents, and further provided that such authority shall be effective in any fiscal year only to such extent or in such amounts as are provided in appropriation acts.
+1981—Subsec. (a). Pub. L. 97–136 inserted provisions authorizing the Secretary to lease housing facilities for assignment as public quarters, without rental charge, to military personnel who are on sea duty or duty at remote offshore Coast Guard stations and who do nothave dependents, and further provided that such authority shall be effective in any fiscal year only to such extent or in such amounts as are provided in appropriation acts.
 
 1980—Subsec. (a). Pub. L. 96–376 substituted “multiyear basis” for “multi-year basis,” and authorized advance payment for any housing facilities lease in accordance with local custom and practice.
 
@@ -44,7 +44,7 @@ Subsecs. (f), (g). Pub. L. 94–406, §4(1), (2), redesignated subsec. (g) as (f
 
 1973—Subsec. (e). Pub. L. 93–65 extended termination date of authority provided in subsecs. (b) and (c) from June 30, 1973, to June 30, 1976.
 
-1972—Subsec. (a). Pub. L. 92–343, §4(1), substituted “The Secretary of the Department in which the CoastGuard is operating” for “The Secretary” in first sentence.
+1972—Subsec. (a). Pub. L. 92–343, §4(1), substituted “The Secretary of the Department in which the Coast Guard is operating” for “The Secretary” in first sentence.
 
 Subsec. (e). Pub. L. 92–343, §4(2), struck out reference to subsec. (a) and extended authority provided in subsecs. (b) and (c) to June 30, 1973.
 
@@ -52,15 +52,13 @@ Subsecs. (f), (g). Pub. L. 92–343, §4(3), added subsecs. (f) and (g).
 
 1970—Pub. L. 91–278 substituted “Leasing and hiring of quarters; rental of inadequate housing” for “Hiring of quarters for personnel” in section catchline, designated existing provisions as subsec. (d), and added subsecs. (a) to (c) and (e).
 
-#### Ex. Ord. No. 11645. Authority of Secretary To Prescribe Certain Regulations Relating to Housing
+#### Ex. Ord. No. 11645. Authority of Secretary of Homeland Security To Prescribe Certain Regulations Relating to Housing
 
-Ex. Ord. No. 11645, Feb. 8, 1972, 37 F.R. 2923, provided:
+Ex. Ord. No. 11645, Feb. 8, 1972, 37 F.R. 2923, as amended by Ex. Ord. No. 13286, §59, Feb. 28, 2003, 68 F.R. 10629, provided:
 
 By virtue of the authority vested in me by section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
-Section 1. The Secretary of Transportation is designated and empowered to prescribe (or, under a delegation of the Secretary's authority, the Commandant of the Coast Guard is authorized to prescribe) regulations pursuant to section 475(c) of title 14 of the United States Code, relating to the designation and leasing of rental housing, without the approval, ratification, or other action by the President.
+Section 1. The Secretary of Homeland Security is designated and empowered to prescribe (or, under a delegation of the Secretary's authority, the Commandant of the Coast Guard is authorized to prescribe) regulations pursuant to section 475(c) of title 14 of the United States Code, relating to the designation and leasing of rental housing, without the approval, ratification, or other action by the President.
 
-Sec. 2. Whenever the entire Coast Guard operates as a service in the Navy, the reference to the Secretary of Transportation in section 1 of this order shall be deemed to be a reference to the Secretary of the Navy.
-
-Richard Nixon.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sec. 2. Whenever the entire Coast Guard operates as a service in the Navy, the reference to the Secretary of Homeland Security in section 1 of this order shall be deemed to be a reference to the Secretary of the Navy.
 

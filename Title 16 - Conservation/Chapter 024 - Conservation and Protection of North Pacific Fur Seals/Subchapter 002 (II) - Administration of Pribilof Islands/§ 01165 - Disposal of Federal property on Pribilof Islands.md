@@ -52,7 +52,7 @@ A Memorandum of Understanding shall be entered into by the Secretary, a represen
 
 #### (e) Taxation
 
-The grant, sale, transfer or conveyance of any real or personal property pursuant to this section shall not be subject to any form of Federal, State or local taxation. The basis for computing gain or loss on subsequent sale or disposition of such real or personal property for purposes of any Federal, State or local tax imposed on, or measured by revenue shall be the fair market value of such real or personal property at the time of receipt.
+The grant, sale, transfer or conveyance of any real or personal property pursuant to this section shall not be subject to any form of Federal,State or local taxation. The basis for computing gain or loss on subsequent sale or disposition of such real or personal property for purposes of any Federal, State or local tax imposed on, or measured by revenue shall be the fair market value of such real or personal property at the time of receipt.
 
 #### (f) Agreements with governmental agencies and third parties
 
@@ -76,9 +76,13 @@ Section 1166(a) of this title, referred to in subsec. (d)(6), was amended genera
 
 2000—Subsec. (c). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(A)\], and Pub. L. 106–562, §104(1), generally amended subsec. (c) identically, substituting present provisions for provisions which read as follows: “Within 60 days of the transfer of real or personal property specified in the document described in subsection (a) of this section, the Committee on Merchant Marine and Fisheries of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate shall be given a report prepared by the Secretary stating the fair market value at the time of the transfer of all real and personal property conveyed.”
 
-Subsec. (g). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(B)\], and Pub. L. 106–562, §104(2), struck out subsec. (g) which read as follows: “The Secretary shall submit to Congress a report, no later than October 1,1983, providing information on the status of the negotiations for concluding the documents described in subsections (a) and (d) of this section.”
+Subsec. (g). Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(e)(4)(B)\], and Pub. L. 106–562, §104(2), struck out subsec. (g) which read as follows: “The Secretary shall submit to Congress a report, no later than October 1, 1983, providing information on the status of the negotiations for concluding the documents described in subsections (a) and (d) of this section.”
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions relating to the disposal of Federal property on the Pribilof Islands for provisions relating to the medical and dental care of Pribilof Islands natives. See section 1164 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Pribilof Islands Environmental Cleanup
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) the transfer—
 
-&emsp;&emsp;(i) is being made pursuant to authorities contained in part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2301 et seq.\], the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], title 10 (including a law enacted pursuant to section 7307(a) of that title), or the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 471 et seq.\], and
+&emsp;&emsp;(i) is being made pursuant to authorities contained in part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2301 et seq.\], the Arms Export Control Act \[22 U.S.C. 2751 et seq.\], title 10 (including a law enacted pursuant to section 7307(a) of that title), or the Federal Property and Administrative Services Act of 1949,<sup>1</sup> and
 
 &emsp;&emsp;(ii) is not being made in conjunction with an intelligence or intelligence-related activity.
 
@@ -44,7 +44,7 @@ The Foreign Assistance Act of 1961, referred to in subsec. (a)(2)(B)(i), is Pub.
 
 The Arms Export Control Act, referred to in subsec. (a)(2)(B)(i), is Pub. L. 90–269, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of Title 22. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of Title 22 and Tables.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(2)(B)(i), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to management and disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(2)(B)(i), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -55,4 +55,6 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 #### Section Referred to in Other Sections
 
 This section is referred to in title 22 section 7304.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

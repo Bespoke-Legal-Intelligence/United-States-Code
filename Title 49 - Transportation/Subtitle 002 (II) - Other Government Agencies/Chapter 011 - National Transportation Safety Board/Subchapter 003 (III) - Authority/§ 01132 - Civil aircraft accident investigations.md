@@ -20,7 +20,7 @@ Participation of Secretary.—The Board shall provide for the participation of t
 
 (d)
 
-Accidents Involving Only Military Aircraft.—If an accident involves only militaryaircraft and a duty of the Secretary is or may be involved, the military authorities shall provide for the participation of the Secretary. In any other accident involving only military aircraft, the military authorities shall give the Board or Secretary information the military authorities decide would contribute to the promotion of air safety.
+Accidents Involving Only Military Aircraft.—If an accident involves only military aircraft and a duty of the Secretary is or may be involved, the military authorities shall provide for the participation of the Secretary. In any other accident involving only military aircraft, the military authorities shall give the Board or Secretary information the military authorities decide would contribute to the promotion of air safety.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 753.)
 

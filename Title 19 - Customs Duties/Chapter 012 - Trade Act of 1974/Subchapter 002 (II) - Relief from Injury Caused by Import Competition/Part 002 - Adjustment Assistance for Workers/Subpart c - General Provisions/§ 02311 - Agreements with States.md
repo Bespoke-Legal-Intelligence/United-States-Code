@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary to enter into agreements
 
-The Secretary is authorized on behalf of the United States to enter into an agreement with any State, or with any State agency (referred to in this subpart as “cooperating States” and “cooperating States agencies” respectively). Under such an agreement, the cooperating State agency (1) as agent of the United States, will receive applications for, and will provide, payments on the basis provided in this part, (2) where appropriate, but in accordance with subsection (f) of this section, will afford adversely affected workers testing, counseling, referral to training and job search programs, and placement services, (3) will make any certifications required under section 2291(c)(2) of this title, and (4) will otherwise cooperate with the Secretary and with other State and Federal agencies in providing payments and services under this part.
+The Secretary is authorized on behalf of the United States to enter into an agreement with any State, or with any State agency (referred to in this subpart as “cooperating States” and “cooperating States agencies” respectively). Under such an agreement, the cooperating State agency (1) as agent of the United States, will receive applications for, and will provide, payments on the basis provided in this part, (2) where appropriate, but in accordance with subsection (f) of this section, will afford adversely affected workers testing, counseling, referral to training and job search programs, and placement services, (3) will make any certifications required under section 2291(c)(2) <sup>1</sup> of this title, and (4) will otherwise cooperate with the Secretary and with other State and Federal agencies in providing payments and services under this part.
 
 #### (b) Amendment, suspension, and termination of agreements
 
@@ -40,11 +40,13 @@ In order to promote the coordination of workforce investment activities in each 
 
 #### References in Text
 
+Section 2291(c)(2) of this title, referred to in subsec. (a)(3), was subsequently amended, and no longer contains provisions relating to certifications.
+
 The Workforce Investment Act of 1998, referred to in subsec. (e), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Codification
 
-Section is comprised of subsecs. (a) to (g) of Pub. L. 93–618. Another subsec. (e) of section 239 of Pub. L. 93–618 amended section 3302 of Title 26, Internal Revenue Code.
+Section is comprised of subsecs. (a) to (g) of Pub. L. 93–618. Another subsec. (e) of section 239 of Pub. L.93–618 amended section 3302 of Title 26, Internal Revenue Code.
 
 #### Amendments
 
@@ -96,9 +98,11 @@ Amendment by Pub. L. 97–35 effective Aug. 1981, with transition provisions app
 
 #### Termination Date
 
-No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2275, 2291, 2312, 2316, 2331 of this title; title 26 section 3302.
+This section is referred to in sections 2275, 2291, 2312, 2316 of this title; title 26 section 3302.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -30,7 +30,7 @@ The assistance, if any, provided by the Secretary under this section shall consi
 
 &emsp;&emsp;(B) prescribing such rules as the Secretary determines necessary to ensure a fair and reasonable application of the limitations established under this subsection; and
 
-&emsp;&emsp;(C) ensuring that no person receives duplicative payments or assistance under this section, the Cooperative Forestry AssistanceAct of 1978 (16 U.S.C. 2101 et seq.), and the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\], or other Federal program.
+&emsp;&emsp;(C) ensuring that no person receives duplicative payments or assistance under this section, the Cooperative Forestry Assistance Act of 1978 (16 U.S.C. 2101 et seq.), and the environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3839aa et seq.\], or other Federal program.
 
 #### (d) Definitions
 
@@ -78,7 +78,7 @@ Section was enacted as part of the Federal Stewardship Act of 1990 and also as p
 
 #### Amendments
 
-1996—Subsec. (c)(3)(C). Pub. L. 104–127 substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the Food Security Act of 1985” for “Agricultural Conservation Program established under section 590p(b) of this title”.
+1996—Subsec. (c)(3)(C). Pub. L. 104–127 substituted “environmental quality incentives program established under chapter 4 of subtitle D of title XII of the FoodSecurity Act of 1985” for “Agricultural Conservation Program established under section 590p(b) of this title”.
 
 1991—Subsec. (c)(3)(C). Pub. L. 102–237 inserted “(16 U.S.C. 2101 et seq.)” after “1978” and made technical amendment to reference to section 590p(b) of this title to correct corresponding provision of original Act.
 

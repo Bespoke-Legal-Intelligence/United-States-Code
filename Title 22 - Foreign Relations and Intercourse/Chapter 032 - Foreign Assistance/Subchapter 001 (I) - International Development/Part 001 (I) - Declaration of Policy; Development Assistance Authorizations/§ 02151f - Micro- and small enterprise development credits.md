@@ -44,7 +44,7 @@ Assistance may be provided under this section without regard to section 2354(a) 
 
 #### (1) In general
 
-&emsp;Of the amounts authorized to be available to carry out section 2152a of this title, there are authorized to be available $1,500,000 for each of fiscal years 2001 and 2002 to carry out this section.
+&emsp;Of the amounts authorized to be available to carry out section 2152a of this title, there areauthorized to be available $1,500,000 for each of fiscal years 2001 and 2002 to carry out this section.
 
 #### (2) Coverage of subsidy costs
 

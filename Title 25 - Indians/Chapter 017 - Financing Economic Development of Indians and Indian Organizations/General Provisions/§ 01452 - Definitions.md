@@ -32,5 +32,5 @@ The Alaska Native Claims Settlement Act, referred to in pars. (b) to (d), is Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 450e, 450f, 1484, 2902, 3653, 4302 of this title; title 7 section 1471; title 10 section 2411; title 12 sections 1787, 1821; title 22 section 2124c; title 26 section 168; title 31 section 7102; title 40 section 483; title 42 section 11332; title 43 section 1626.
+This section is referred to in sections 450e, 450f, 1484, 2902, 3653, 4302 of this title; title 7 section 1471; title 10 section 2411; title 12 sections 1787, 1821; title 22 section 2124c; title 26 section 168; title 31 section 7102; title 40 section 525; title 42 section 11332; title 43 section 1626.
 

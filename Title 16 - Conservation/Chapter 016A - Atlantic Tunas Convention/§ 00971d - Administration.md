@@ -10,7 +10,7 @@ Enforcement activities at sea under the provisions of this chapter for fishing v
 
 #### (c) Regulations and other measures to carry out Commission recommendations
 
-(1)(A) Upon favorable action by the Secretary of State under section 971c(a) of this title on anyrecommendation of the Commission made pursuant to article VIII of the Convention, the Secretary shall promulgate, pursuant to this subsection, such regulations as may be necessary and appropriate to carry out such recommendation.
+(1)(A) Upon favorable action by the Secretary of State under section 971c(a) of this title on any recommendation of the Commission made pursuant to article VIII of the Convention, the Secretary shall promulgate, pursuant to this subsection, such regulations as may be necessary and appropriate to carry out such recommendation.
 
 (B) Not later than June 30, 1991, the Secretary shall promulgate any additional regulations necessary to ensure that the United States is in full compliance with all recommendations made by the Commission that have been accepted by the United States and with other agreements under the Convention between the United States and any nation which is a party to the Convention.
 
@@ -80,7 +80,7 @@ Consultation.—Not later than 30 days after a Nation is notified under paragrap
 
 (1) It is the sense of the Congress that the Secretary, in consultation with the Secretary of State, should seek support for a recommendation by the Commission to ban large-scale driftnet fishing (as that term is defined in section 3(16) <sup>1</sup> of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1802(16)\]) in the Convention area.
 
-(2) The Secretary, in consultation with the Secretary of State, shall request the Commission to adopt recommendations necessary for the conservation and management of Atlantic swordfish. In making the request, the Secretary shall seek the establishment of an international minimum harvest size and a reduction in harvest levels to the extent necessary to conserve the stock. Until the Commission adopts all the conservation and management measures requested by the Secretary, the Secretary, within 3 months after each annual meeting of the Commission, shall notify Congress as to the nature and results of his request. These notifications shall identify those nations not acting to conserve and manage Atlantic swordfish, and recommend measures which could be taken to achieve effective international conservation and management of the stock.
+(2) The Secretary, in consultation with the Secretary of State, shall request the Commission to adopt recommendations necessary for the conservation and management of Atlanticswordfish. In making the request, the Secretary shall seek the establishment of an international minimum harvest size and a reduction in harvest levels to the extent necessary to conserve the stock. Until the Commission adopts all the conservation and management measures requested by the Secretary, the Secretary, within 3 months after each annual meeting of the Commission, shall notify Congress as to the nature and results of his request. These notifications shall identify those nations not acting to conserve and manage Atlantic swordfish, and recommend measures which could be taken to achieve effective international conservation and management of the stock.
 
 (Pub. L. 94–70, §6, Aug. 5, 1975, 89 Stat. 387; 1978 Reorg. Plan No. 2, §102, eff. Jan. 1, 1979, 43 F.R. 36037, 92 Stat. 3784; Pub. L. 101–627, title II, §§206, 207, Nov. 28, 1990, 104 Stat. 4461; Pub. L. 104–43, title III, §§303(3), 305, Nov. 3, 1995, 109 Stat. 384, 385; Pub. L. 105–384, title II, §202(b)(1)(C), (F), Nov. 13, 1998, 112 Stat. 3452, 3453.)
 
@@ -113,6 +113,10 @@ Subsec. (c)(3). Pub. L. 101–627, §206(b), added subpars. (I) to (K) and concl
 Subsec. (d). Pub. L. 101–627, §207, amended subsec. (d) generally, substituting provisions relating to recommended Commission actions regarding large-scale driftnet fishing and conservation of Atlantic swordfish for provisions relating to Commission recommendations concerning bluefin tuna and issuance of regulations.
 
 #### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 “Director of the Office of Personnel Management” substituted for “Civil Service Commission” in subsec. (a) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in the Civil Service Commission to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 

@@ -16,9 +16,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-<b>1982</b>—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+1982—Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
 #### Effective Date of 1992 Amendment
 

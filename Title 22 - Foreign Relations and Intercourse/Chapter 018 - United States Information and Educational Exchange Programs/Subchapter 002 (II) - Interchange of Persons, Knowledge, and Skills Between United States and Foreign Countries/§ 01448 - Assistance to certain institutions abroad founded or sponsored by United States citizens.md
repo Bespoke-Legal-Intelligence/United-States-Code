@@ -6,7 +6,7 @@ The Secretary is authorized to provide for assistance to schools, libraries, and
 
 #### Partial Repeal
 
-<i>Pub. L. 87–256, §111(a)(2), Sept. 21, 1961, 75 Stat. 538, repealed this section insofar as it re</i><i>lates to schools. See section 2451 et seq. of this title.</i>
+<i>Pub. L. 87–256, §111(a)(2), Sept. 21, 1961, 75 Stat. 538, repealed this section insofar as it relates to schools. See section 2451 et seq. of this title.</i>
 
 #### Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions
 

@@ -12,7 +12,7 @@ This chapter does not limit or impair the power of a State to control, by legisl
 
 I74legislative statements
 
-Section 903 of the House amendment represents a stylistic revision of section 903 of the Senate amendment. To the extent section 903 of the House bill would have changed present law, such section is rejected.
+Section 903 of the House amendment represents a stylistic revision of section 903 of the Senate amendment.To the extent section 903 of the House bill would have changed present law, such section is rejected.
 
 #### senate report no. 95–989
 
@@ -26,5 +26,5 @@ This section provides that the municipality can consent to the court's orders in
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 

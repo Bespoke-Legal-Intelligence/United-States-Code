@@ -4,7 +4,7 @@
 
 #### (b) Restriction
 
-Any employee described in more than one paragraph of subsection (a) of this section mayqualify for a recruitment or retention differential under only one of those paragraphs.
+Any employee described in more than one paragraph of subsection (a) of this section may qualify for a recruitment or retention differential under only one of those paragraphs.
 
 #### (c) Recruitment and relocation bonuses
 

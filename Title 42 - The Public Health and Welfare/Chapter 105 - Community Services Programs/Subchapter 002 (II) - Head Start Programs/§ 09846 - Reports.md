@@ -10,7 +10,7 @@ At least once during every 2-year period, the Secretary shall prepare and submit
 
 &emsp;&emsp;(B) the amount of funds received by Head Start agencies newly designated under section 9836 of this title to provide such services in such fiscal year;
 
-&emsp;(2) a description of the distribution of Head Start services relative to the distribution of children who are eligible to participate inHead Start programs, including geographic distribution within States;
+&emsp;(2) a description of the distribution of Head Start services relative to the distribution of children who are eligible to participate in Head Start programs, including geographic distribution within States;
 
 &emsp;(3) a statement identifying how funds expended under section 9835(a)(2) of this title, and funds allotted under section 9835(a)(3) of this title, were distributed and used at national, regional, and local levels;
 
@@ -76,7 +76,7 @@ Subsec. (g). Pub. L. 103–252, §118(a)(2)–(4), struck out subsec. (g) design
 
 Subsec. (g). Pub. L. 101–501, §119, added subsec. (g).
 
-1984—Subsec. (b). Pub. L. 98–558 substituted “not result in the elimination of nor any reduction in the scope or types of health, education, parental involvement, social or other services required to be provided under the standards” for “result in standards which are no less comprehensive than those” in second sentence.
+1984—Subsec. (b). Pub. L. 98–558 substituted “not result in the elimination of nor any reduction in thescope or types of health, education, parental involvement, social or other services required to be provided under the standards” for “result in standards which are no less comprehensive than those” in second sentence.
 
 #### Effective Date of 1994 Amendment
 

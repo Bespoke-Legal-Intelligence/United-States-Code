@@ -22,23 +22,21 @@ Not later than September 30, 1999, each eligible institution shall submit to the
 
 #### (c) Matching formula
 
-Notwithstanding any other provision of this subchapter, the distribution of formula funds to an eligible institution shall be subject to the following matching requirements:
+Notwithstanding any other provision of this subchapter, for each of fiscal years 2003 through 2007, the State shall provide matching funds from non-Federal sources. Such matching funds shall be for an amount equal to not less than—
 
-&emsp;(1) For fiscal year 2000, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 30 percent of the formula funds to be distributed to the eligible institution.
+&emsp;(1) 60 percent of the formula funds to be distributed to the eligible institution for fiscal year 2003;
 
-&emsp;(2) For fiscal year 2001, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 45 percent of the formula funds to be distributed to the eligible institution.
+&emsp;(2) 70 percent of the formula funds to be distributed to the eligible institution for fiscal year 2004;
 
-&emsp;(3) For fiscal year 2002 and each fiscal year thereafter, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 50 percent of the formula funds to be distributed to the eligible institution.
+&emsp;(3) 80 percent of the formula funds to be distributed to the eligible institution for fiscal year 2005;
 
-#### (d) Limited waiver authority
+&emsp;(4) 90 percent of the formula funds to be distributed to the eligible institution for fiscal year 2006; and
 
-#### (1) Fiscal year 2000
+&emsp;(5) 100 percent of the formula funds to be distributed to the eligible institution for fiscal year 2007 and each fiscal year thereafter.
 
-&emsp;Notwithstanding subsection (f) of this section, the Secretary may waive the matching funds requirement under subsection (c)(1) of this section for fiscal year 2000 for an eligible institution of a State if the Secretary determines that, based on the report received under subsection (b) of this section, the State will be unlikely to satisfy the matching requirement.
+#### (d) Waiver authority
 
-#### (2) Future fiscal years
-
-&emsp;The Secretary may not waive the matching requirement under subsection (c) of this section for any fiscal year other than fiscal year 2000.
+Notwithstanding subsection (f) of this section, the Secretary may waive the matching funds requirement under subsection (c) of this section above the 50 percent level for any fiscal year for an eligible institution of a State if the Secretary determines that the State will be unlikely to satisfy the matching requirement.
 
 #### (e) Use of matching funds
 
@@ -54,13 +52,29 @@ Under terms and conditions established by the Secretary, matching funds provided
 
 &emsp;Any redistribution of funds under this subsection shall be subject to the applicable matching requirement specified in subsection (c) of this section and shall be made in a manner consistent with sections 3221 and 3222 of this title, as determined by the Secretary.
 
-(Pub. L. 95–113, title XIV, §1449, as added Pub. L. 105–185, title II, §226(a), June 23, 1998, 112 Stat. 542.)
+(Pub. L. 95–113, title XIV, §1449, as added Pub. L. 105–185, title II, §226(a), June 23, 1998, 112 Stat. 542; amended Pub. L. 107–171, title VII, §7212, May 13, 2002, 116 Stat. 447.)
 
 #### References in Text
 
 Act of August 30, 1890, referred to in subsec. (a)(1), is act Aug. 30, 1890, ch. 841, 26 Stat. 417, as amended, popularly known as the Agricultural College Act of 1890 and also as the Second Morrill Act, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
-#### Section Referred to in Other Sections
+#### Amendments
 
-This section is referred to in sections 343, 361c of this title.
+2002—Subsec. (c). Pub. L. 107–171, §7212(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of this subchapter, the distribution of formula funds to an eligible institution shall be subject to the following matching requirements:
+
+&emsp;“(1) For fiscal year 2000, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 30 percent of the formula funds to be distributed to the eligible institution.
+
+&emsp;“(2) For fiscal year 2001, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 45 percent of the formula funds to be distributed to the eligible institution.
+
+&emsp;“(3) For fiscal year 2002 and each fiscal year thereafter, the State shall provide matching funds from non-Federal sources in an amount equal to not less than 50 percent of the formula funds to be distributed to the eligible institution.”
+
+Subsec. (d). Pub. L. 107–171, §7212(2), amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
+
+“(1)
+
+Fiscal year 2000.—Notwithstanding subsection (f) of this section, the Secretary may waive the matching funds requirement under subsection (c)(1) of this section for fiscal year 2000 for an eligible institution of a State if the Secretary determines that, based on the report received under subsection (b) of this section, the State will be unlikely to satisfy the matching requirement.
+
+“(2)
+
+Future fiscal years.—The Secretary may not waive the matching requirement under subsection (c) of this section for any fiscal year other than fiscal year 2000.”
 

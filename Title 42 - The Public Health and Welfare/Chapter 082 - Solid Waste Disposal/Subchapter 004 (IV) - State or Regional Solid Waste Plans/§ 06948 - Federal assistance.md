@@ -38,7 +38,7 @@ The Federal assistance allotted to the States under subsection (b) of this secti
 
 (2) In carrying out this subsection, the Administrator may, upon request, provide technical assistance to States to assist in the removal or modification of legal, institutional, economic, and other impediments to the recycling of used oil. Such impediments may include laws, regulations, and policies, including State procurement policies, which are not favorable to the recycling of used oil.
 
-(3) In carrying out this subsection, the Administrator is authorized to provide technical assistance to States, municipalities, regional authorities, and intermunicipal agencies upon request, to assist in the removal or modification of legal, institutional, and economic impediments which have the effect of impeding the development of systems and facilities to recovery energy and materials from municipal waste or to conserve energy or materials which contribute to the waste stream. Such impediments may include—
+(3) In carrying out this subsection, the Administrator is authorized to provide technical assistance to States, municipalities, regional authorities, and intermunicipal agencies upon request, to assist in the removal or modification of legal, institutional, and economic impediments which have the effect of impeding the development of systems and facilities to recoveryenergy and materials from municipal waste or to conserve energy or materials which contribute to the waste stream. Such impediments may include—
 
 &emsp;(A) laws, regulations, and policies, including State and local procurement policies, which are not favorable to resource conservation and recovery policies, systems, and facilities;
 

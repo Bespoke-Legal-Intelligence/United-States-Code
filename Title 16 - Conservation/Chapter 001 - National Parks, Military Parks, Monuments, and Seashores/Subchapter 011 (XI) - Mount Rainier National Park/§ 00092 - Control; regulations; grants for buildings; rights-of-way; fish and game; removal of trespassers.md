@@ -12,7 +12,7 @@ An additional provision in the first sentence making it the duty of the Secretar
 
 A provision of the original section for the disposition of the proceeds of leases for buildings for accommodation of visitors and other revenues from the park has been omitted as superseded by section 452 of this title.
 
-“Pacific National Forest” was substituted for “Pacific Forest Reserve” on authority of act Mar. 4, 1907,ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
+“Pacific National Forest” was substituted for “Pacific Forest Reserve” on authority of act Mar. 4, 1907, ch. 2907, 34 Stat. 1269, which provided that forest reserves shall hereafter be known as national forests.
 
 #### Repeals
 

@@ -4,7 +4,7 @@ In this part, the term “eligible entity” means—
 
 &emsp;(1) one or more local educational agencies; or
 
-&emsp;(2) one or more local educational agencies, in collaboration with an institution of higher education, community-based organization, or State educational agency.
+&emsp;(2) one or more local educational agencies, in collaboration with an institution of highereducation, community-based organization, or State educational agency.
 
 (Pub. L. 89–10, title III, §3141, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1706.)
 

@@ -52,7 +52,7 @@ The purpose of the Agency is to enhance the quality, appropriateness, and effect
 
 #### (2) Process to ensure appropriate research
 
-&emsp;The Director shall establish a process to ensure that the requirements of paragraph (1) are reflected in the overall portfolio of research conducted and supported by the Agency.
+&emsp;The Director shall establish a process to ensure that the requirements of paragraph (1)are reflected in the overall portfolio of research conducted and supported by the Agency.
 
 #### (3) Office of Priority Populations
 
@@ -64,7 +64,7 @@ The purpose of the Agency is to enhance the quality, appropriateness, and effect
 
 A prior section 299, act July 1, 1944, ch. 373, title IX, §901, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2189; amended Pub. L. 102–410, §2(a), Oct. 13, 1992, 106 Stat. 2094, established the Agency for Health Care Policy and Research, prior to the general amendment of this subchapter by Pub. L. 106–129.
 
-Another prior section 299, act July 1, 1944, ch. 373, title IX, §900, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 926; amended Oct. 30, 1970, Pub. L. 91–515, title I, §102, 84 Stat. 1297, set forth Congressional declaration of purpose of this subchapter to encourage and assistregional cooperative arrangements among medical schools, research institutions, and hospitals for research, training and medical data exchange, and to improve quality and capacity of health manpower and facilities available throughout the nation, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
+Another prior section 299, act July 1, 1944, ch. 373, title IX, §900, as added Oct. 6, 1965, Pub. L. 89–239, §2, 79 Stat. 926; amended Oct. 30, 1970, Pub. L. 91–515, title I, §102, 84 Stat. 1297, set forth Congressional declaration of purpose of this subchapter to encourage and assist regional cooperative arrangements among medical schools, research institutions, and hospitals for research, training and medical data exchange, and to improve quality and capacity of health manpower and facilities available throughout the nation, prior to repeal by Pub. L. 99–117, §12(d), Oct. 7, 1985, 99 Stat. 495.
 
 A prior section 901 of act July 1, 1944, was classified to section 299a of this title prior to repeal by Pub. L. 99–117.
 

@@ -2,7 +2,7 @@
 
 #### (a) Agreements to establish and operate fund authorized
 
-The Secretary is authorized to enter into an agreement for the establishment and operationof a student loan fund in accordance with this part <sup>1</sup> with any public or nonprofit private school of nursing which is located in a State.
+The Secretary is authorized to enter into an agreement for the establishment and operation of a student loan fund in accordance with this part <sup>1</sup> with any public or nonprofit private school of nursing which is located in a State.
 
 #### (b) Provisions of agreements
 
@@ -70,7 +70,7 @@ Subsec. (c)(3)(D)(ii). Pub. L. 99–129, §209(j)(2)(B), struck out “first” 
 
 1975—Subsec. (a). Pub. L. 94–63, §941(h)(1), (2), substituted “subpart” for “part” and struck out “of Health, Education, and Welfare” after “Secretary”.
 
-Subsec. (b). Pub. L. 94–63, §§936(a), 941(h)(3), (i)(2), in cl. (2) substituted “from allotments under section 297d of this title” for “under this part”, in cl. (4) substituted“October 1, 1978” for “July 1, 1975”, and in cls. (2) and (3) substituted references to sections 836 and 841 of the Act for references to sections 823 and 829, which had previously been translated as sections 297b and 297h of this title, respectively, requiring no further translations in the text as a result of the renumbering of the Public Health Service Act.
+Subsec. (b). Pub. L. 94–63, §§936(a), 941(h)(3), (i)(2), in cl. (2) substituted “from allotments under section 297d of this title” for “under this part”, in cl. (4) substituted “October 1, 1978” for “July 1, 1975”, and in cls. (2) and (3) substituted references to sections 836 and 841 of the Act for references to sections 823 and 829, which had previously been translated as sections 297b and 297h of this title, respectively, requiring no further translations in the text as a result of the renumbering of the Public Health Service Act.
 
 1974—Subsec. (b)(4). Pub. L. 93–385 substituted “1975” for “1974”.
 
@@ -102,7 +102,7 @@ Section 942 of Pub. L. 94–63 provided that: “The amendments made by section 
 
 #### Effective Date of 1968 Amendment
 
-Amendment by section 222(c)(2) of Pub. L. 90–490 applicable with respect to loans made after June 30, 1969, see section 222(i) of Pub. L. 90–490, set out as a note under section 297b of this title.
+Amendment by section 222(c)(2) of Pub. L. 90–490 applicable with respect to loans made after June 30, 1969,see section 222(i) of Pub. L. 90–490, set out as a note under section 297b of this title.
 
 #### Section Referred to in Other Sections
 

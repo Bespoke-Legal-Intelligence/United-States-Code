@@ -10,5 +10,5 @@ Functions of all officers of Department of the Treasury and functions of all age
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 197 of this title.
+This section is referred to in section 197 of this title; title 6 section 212.
 

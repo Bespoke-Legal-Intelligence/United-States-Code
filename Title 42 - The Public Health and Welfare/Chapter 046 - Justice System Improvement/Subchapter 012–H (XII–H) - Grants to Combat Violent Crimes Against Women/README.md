@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 3793 of this title.
+This subchapter is referred to in sections 3783, 3793 of this title.
 
 
 ---
@@ -10,6 +10,11 @@ This subchapter is referred to in section 3793 of this title.
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 03796gg - Purpose of program and grants](%C2%A7%2003796gg%20-%20Purpose%20of%20program%20and%20grants.md)
+- [&sect; 03796gg&#8211;0 - Establishment of Violence Against Women Office](%C2%A7%2003796gg%E2%80%930%20-%20Establishment%20of%20Violence%20Against%20Women%20Office.md)
+- [&sect; 03796gg&#8211;0a - Director of Violence Against Women Office](%C2%A7%2003796gg%E2%80%930a%20-%20Director%20of%20Violence%20Against%20Women%20Office.md)
+- [&sect; 03796gg&#8211;0b - Duties and functions of Director of Violence Against Women Office](%C2%A7%2003796gg%E2%80%930b%20-%20Duties%20and%20functions%20of%20Director%20of%20Violence%20Against%20Women%20Office.md)
+- [&sect; 03796gg&#8211;0c - Staff of Violence Against Women Office](%C2%A7%2003796gg%E2%80%930c%20-%20Staff%20of%20Violence%20Against%20Women%20Office.md)
+- [&sect; 03796gg&#8211;0d - Authorization of appropriations](%C2%A7%2003796gg%E2%80%930d%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 03796gg&#8211;1 - State grants](%C2%A7%2003796gg%E2%80%931%20-%20State%20grants.md)
 - [&sect; 03796gg&#8211;2 - Definitions](%C2%A7%2003796gg%E2%80%932%20-%20Definitions.md)
 - [&sect; 03796gg&#8211;3 - General terms and conditions](%C2%A7%2003796gg%E2%80%933%20-%20General%20terms%20and%20conditions.md)

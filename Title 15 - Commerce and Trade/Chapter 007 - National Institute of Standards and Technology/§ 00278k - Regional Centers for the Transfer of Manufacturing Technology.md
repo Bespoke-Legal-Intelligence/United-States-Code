@@ -6,7 +6,7 @@ The Secretary, through the Director and, if appropriate, through other officials
 
 &emsp;(1) the transfer of manufacturing technology and techniques developed at the Institute to Centers and, through them, to manufacturing companies throughout the United States;
 
-&emsp;(2) the participation of individuals from industry, universities, State governments, otherFederal agencies, and, when appropriate, the Institute in cooperative technology transfer activities;
+&emsp;(2) the participation of individuals from industry, universities, State governments, other Federal agencies, and, when appropriate, the Institute in cooperative technology transfer activities;
 
 &emsp;(3) efforts to make new manufacturing technology and processes usable by United States-based small- and medium-sized companies;
 
@@ -76,11 +76,11 @@ Pub. L. 103–317, title II, Aug. 26, 1994, 108 Stat. 1741.
 
 #### Publication in Federal Register
 
-Pub. L. 100–519, title I, §102(d), Oct. 24, 1988, 102 Stat. 2590, provided that: “The requirement of section 25(c)(2) of the Act of March 3, 1901, \[15 U.S.C. 278k(c)(2)\], shall be considered to have been met by the publication made by the National Bureau of Standards on July 18, 1988 (53 Fed. Reg. 27060).”
+Pub. L. 100–519, title I, §102(d), Oct. 24, 1988, 102 Stat. 2590, provided that: “The requirement of section 25(c)(2)of the Act of March 3, 1901, \[15 U.S.C. 278k(c)(2)\], shall be considered to have been met by the publication made by the National Bureau of Standards on July 18, 1988 (53 Fed. Reg. 27060).”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 272, 278<i>l</i> of this title; title 10 section 2199.
+This section is referred to in sections 272, 278g–5, 278<i>l</i> of this title; title 10 section 2199.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

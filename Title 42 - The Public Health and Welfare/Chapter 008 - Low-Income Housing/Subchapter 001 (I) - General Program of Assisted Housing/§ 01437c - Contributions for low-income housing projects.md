@@ -100,7 +100,7 @@ In addition to the authority of the Secretary under subsection (a) of this secti
 
 #### (1) By Secretary and Comptroller General
 
-&emsp;Each contract for contributions for any assistance under this chapter to a public housing agency shall provide that the Secretary, the Inspector General of the Department of Housing and Urban Development, and the Comptroller General of the United States, or any of their duly authorized representatives, shall, for the purpose of audit and examination, have access to any books, documents, papers, and records of the public housing agency that are pertinent to this chapter and to its operationswith respect to financial assistance under the this <sup>1</sup> chapter.
+&emsp;Each contract for contributions for any assistance under this chapter to a public housing agency shall provide that the Secretary, the Inspector General of the Department of Housing and Urban Development, and the Comptroller General of the United States, or any of their duly authorized representatives, shall, for the purpose of audit and examination, have access to any books, documents, papers, and records of the public housing agency that are pertinent to this chapter and to its operations with respect to financial assistance under the this <sup>1</sup> chapter.
 
 #### (2) Withholding of amounts for audits under Single Audit Act
 
@@ -138,7 +138,7 @@ Pub. L. 105–276, §518(a)(1)(A), struck out subsec. (h) which read as follows:
 
 Subsec. (i). Pub. L. 105–276, §518(a)(1), redesignated subsec. (<i>l</i>) as (i) and struck out former subsec. (i) which read as follows: “In entering into contracts for assistance with respect to newly constructed or substantially rehabilitated projects under this section (other than for projects assisted pursuant to section 1437f of this title), the Secretary shall require the installation of a passive or active solar energy system in any such project where the Secretary determines that such installation would be cost effective over the estimated life of the system.”
 
-Subsecs. (j), (k). Pub. L. 105–276, §518(a)(1)(A), struck out subsecs. (j) and (k), which had: in subsec. (j), placed conditions upon reservation of funds for development of public housing after Sept. 30, 1987, and placed limitations on amounts used for redesign, reconstruction, redevelopment, or operational improvement of existing projects, but directed that not less than 5 percent of certain amounts appropriated in fiscal years 1993 and 1994 be reserved for public housing projects designated for elderly or disabled families; and in subsec. (k), prohibited recapture of amounts of public housing development funds reserved to a public housing agency for failure to begin construction or rehabilitation, or to complete acquisition, during 30-month period following date of reservation.
+Subsecs. (j), (k). Pub. L. 105–276, §518(a)(1)(A), struck out subsecs. (j) and (k), which had: in subsec. (j), placed conditions upon reservation of funds for development of public housing after Sept. 30, 1987, and placed limitations on amounts used for redesign, reconstruction, redevelopment, or operational improvement of existingprojects, but directed that not less than 5 percent of certain amounts appropriated in fiscal years 1993 and 1994 be reserved for public housing projects designated for elderly or disabled families; and in subsec. (k), prohibited recapture of amounts of public housing development funds reserved to a public housing agency for failure to begin construction or rehabilitation, or to complete acquisition, during 30-month period following date of reservation.
 
 Subsec. (<i>l</i>). Pub. L. 105–276, §518(a)(1)(B), redesignated subsec. (<i>l</i>) as (i).
 
@@ -146,7 +146,7 @@ Pub. L. 105–276, §510, added subsec. (<i>l</i>).
 
 1996—Subsec. (j)(1). Pub. L. 104–330, §501(b)(2)(A), struck out “(other than for Indian families)” after “for public housing” in introductory provisions.
 
-Subsec. (<i>l</i>). Pub. L. 104–330, §501(b)(2)(B), struck out subsec. (<i>l</i>) which read as follows: “The Secretary maynot use as a criterion for distributing assistance under this section the progress made by an Indian public housing agency in collecting rents owed by tenants unless—
+Subsec. (<i>l</i>). Pub. L. 104–330, §501(b)(2)(B), struck out subsec. (<i>l</i>) which read as follows: “The Secretary may not use as a criterion for distributing assistance under this section the progress made by an Indian public housing agency in collecting rents owed by tenants unless—
 
 &emsp;“(1) such criterion is used as 1 of several criteria that are weighted proportionally and is established by regulations issued after public notice and opportunity to comment in accordance with section 553 of title 5; or
 
@@ -216,7 +216,7 @@ Subsecs. (d) to (f), (h). Pub. L. 97–35, §322(c), substituted references to l
 
 Subsec. (i). Pub. L. 96–399, §210, added subsec. (i).
 
-1979—Subsec. (c). Pub. L. 96–153 authorized increase in aggregate contractual contributions by $1,140,661,000 on Oct. 1, 1979, and inserted requirements that out of such additional authority not more than $195,053,000 be authorized to be approved in appropriation acts for units assisted under this chapter other than under section1437f of this title and that not less than $50,000,000 of the later amount be authorized to be approved for modernization of the units.
+1979—Subsec. (c). Pub. L. 96–153 authorized increase in aggregate contractual contributions by $1,140,661,000 on Oct. 1, 1979, and inserted requirements that out of such additional authority not more than $195,053,000 be authorized to be approved in appropriation acts for units assisted under this chapter other than under section 1437f of this title and that not less than $50,000,000 of the later amount be authorized to be approved for modernization of the units.
 
 1978—Subsec. (c). Pub. L. 95–619 authorized the Secretary to enter into annual contribution contracts aggregating not more than $10,000,000 per annum for financing the purchase and installation of energy conserving improvement in existing low-income housing projects which the Secretary determined had the greatest need for such improvements.
 

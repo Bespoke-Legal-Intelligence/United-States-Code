@@ -26,7 +26,7 @@ To the extent consistent with the provisions of this subchapter, the Corporation
 
 (1)(A) The Corporation shall have authority to insure the compliance of recipients and their employees with the provisions of this subchapter and the rules, regulations, and guidelines promulgated pursuant to this subchapter, and to terminate, after a hearing in accordance with section 2996j of this title, financial support to a recipient which fails to comply.
 
-(B) No question of whether representation is authorized under this subchapter, or the rules, regulations or guidelines promulgated pursuant to this subchapter, shall be considered in, or affect the final disposition of, any proceeding in which a person is represented by a recipient or an employee of a recipient. A litigant in such a proceeding may refer any such question to the Corporation which shall review and dispose of the question promptly, and take appropriate action. This subparagraph shall not preclude judicial review available under applicable law.
+(B) No question of whether representation is authorized under this subchapter, or the rules, regulations or guidelines promulgated pursuant to this subchapter, shall be considered in, or affect the final disposition of, any proceeding in which a person is represented by a recipient or an employee of a recipient. A litigant in such a proceeding may refer any such question to the Corporation which shall review and dispose ofthe question promptly, and take appropriate action. This subparagraph shall not preclude judicial review available under applicable law.
 
 (2) If a recipient finds that any of its employees has violated or caused the recipient to violate the provisions of this subchapter or the rules, regulations, and guidelines promulgated pursuant to this subchapter, the recipient shall take appropriate remedial or disciplinary action in accordance with the types of procedures prescribed in the provisions of section 2996j of this title.
 
@@ -54,7 +54,7 @@ The Corporation shall not itself—
 
 (3) Neither the Corporation nor any recipient shall contribute or make available corporate funds or program personnel or equipment to any political party or association, or the campaign of any candidate for public or party office.
 
-(4) Neither the Corporation nor any recipient shall contribute or make available corporatefunds or program personnel or equipment for use in advocating or opposing any ballot measures, initiatives, or referendums. However, an attorney may provide legal advice and representation as an attorney to any eligible client with respect to such client's legal rights.
+(4) Neither the Corporation nor any recipient shall contribute or make available corporate funds or program personnel or equipment for use in advocating or opposing any ballot measures, initiatives, or referendums. However, an attorney may provide legal advice and representation as an attorney to any eligible client with respect to such client's legal rights.
 
 (5) No class action suit, class action appeal, or amicus curiae class action may be undertaken, directly or through others, by a staff attorney, except with the express approval of a project director of a recipient in accordance with policies established by the governing body of such recipient.
 

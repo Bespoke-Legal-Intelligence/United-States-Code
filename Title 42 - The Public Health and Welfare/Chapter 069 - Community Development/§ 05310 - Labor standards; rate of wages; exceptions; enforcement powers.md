@@ -1,6 +1,6 @@
 ### §5310. Labor standards; rate of wages; exceptions; enforcement powers
 
-(a) All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed in whole or in part with assistance received under this chapter shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5): <i>Provided</i>, That this section shall apply to the rehabilitation of residential property only if such property contains not less than 8 units. The Secretary of Labor shall have, with respect to such labor standards, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267) and section 276c of title 40.
+(a) All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed in whole or in part with assistance received under this chapter shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40: <i>Provided</i>, That this section shall apply to the rehabilitation of residential property only if such property contains not less than 8 units. The Secretary of Labor shall have, with respect to such labor standards, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267) and section 3145 of title 40.
 
 (b) Subsection (a) of this section shall not apply to any individual that—
 
@@ -16,9 +16,11 @@
 
 #### References in Text
 
-The Davis-Bacon Act, as amended, referred to in subsec. (a), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+
+In subsec. (a), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (48 Stat. 948; 40 U.S.C. 276(c))”, meaning 276c, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

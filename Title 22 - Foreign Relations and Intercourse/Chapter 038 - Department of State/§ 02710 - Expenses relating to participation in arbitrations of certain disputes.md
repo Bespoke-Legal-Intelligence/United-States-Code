@@ -10,7 +10,7 @@ The Secretary of State may use funds available to the Secretary for the expenses
 
 #### (c) Procurement of services
 
-The Secretary of State may use competitive procedures or procedures other than competitive procedures to procure the services of experts for use in preparing or prosecuting a proceeding before an international tribunal or a claim by or against a foreign government or other foreign entity, whether or not the expert is expected to testify, or to procure personal and other support services for such proceedings or claims. The Secretary need not provide any written justification for the use of procedures other than competitive procedures when procuring such services under this subsection and need not furnish for publication in the Commerce Business Daily or otherwise any notice of solicitation or synopsis with respect to such procurement.
+The Secretary of State may use competitive procedures or procedures other than competitive procedures to procure the services of experts for use in preparing or prosecuting a proceeding before an international tribunal or a claim by or against a foreign government or other foreign entity, whether or not the expert is expected to testify, or to procure personal and other support services for such proceedings or claims. The Secretary need not provide any written justification for the use of procedures other than competitive procedures when procuring such services under this subsection and need not furnish for publication in the Commerce Business Dailyor otherwise any notice of solicitation or synopsis with respect to such procurement.
 
 #### (d) International Litigation Fund
 
@@ -30,17 +30,31 @@ The Secretary of State may use competitive procedures or procedures other than c
 
 &emsp;Funds deposited in the ILF shall be available only for the purposes of paragraph (1).
 
-(Aug. 1, 1956, ch. 841, title I, §38, as added Pub. L. 99–93, title I, §128, Aug. 16, 1985, 99 Stat. 419; amended Pub. L. 103–236, title I, §123, Apr. 30, 1994, 108 Stat. 392; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2212(b), Oct. 21, 1998, 112 Stat. 2681–812.)
+#### (e) Retention of funds
+
+#### (1) In general
+
+&emsp;To reimburse the expenses of the United States Government in preparing or prosecuting a proceeding before an international tribunal, or a claim against a foreign government or other foreign entity, the Secretary may retain 1.5 percent of any amount between $100,000 and $5,000,000, and one percent of any amount over $5,000,000, received per claim under section 2668a of this title.
+
+#### (2) Treatment
+
+&emsp;Amounts retained under the authority of paragraph (1) shall be deposited into the fund under subsection (d) of this section.
+
+(Aug. 1, 1956, ch. 841, title I, §38, as added Pub. L. 99–93, title I, §128, Aug. 16, 1985, 99 Stat. 419; amended Pub. L. 103–236, title I, §123, Apr. 30, 1994, 108 Stat. 392; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2212(b), Oct. 21, 1998, 112 Stat. 2681–812; Pub. L. 107–228, div. A, title II, §203, Sept. 30, 2002, 116 Stat. 1362.)
 
 #### References in Text
 
 The Department of State Appropriations Act of 1937, referred to in subsec. (d)(3), probably means the Department of State Appropriation Act, 1937, which is title I of act May 15, 1936, ch. 405, 49 Stat. 1309. Provisions relating to acceptance by the Secretary of State of reimbursement for expenses incurred in pursuing certain private claims against foreign governments were added to that act by Pub. L. 100–204, title I, §142(b), Dec. 22, 1987, 101 Stat. 1350, and are classified to section 2661 of this title.
+
+Section 2668a of this title, referred to in subsec. (e)(1), was in the original “chapter 34 of the Act of February 27, 1896 (22 U.S.C. 2668a; 29 Stat. 32)”. Section 2668a of this title contains the only provisions of the Act which are classified to the Code.
 
 #### Prior Provisions
 
 A prior section 38 of act Aug. 1, 1956, was renumbered section 39 by section 128 of Pub. L. 99–93, and subsequently renumbered, and set out as a Short Title of 1956 Amendment note under section 2651 of this title, prior to repeal by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–228 added subsec. (e).
 
 1998—Subsec. (c). Pub. L. 105–277 inserted “personal and” before “other support services” in first sentence.
 

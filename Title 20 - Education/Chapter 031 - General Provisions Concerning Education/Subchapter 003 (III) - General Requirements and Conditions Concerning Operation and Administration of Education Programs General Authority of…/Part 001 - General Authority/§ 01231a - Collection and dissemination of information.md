@@ -18,7 +18,7 @@ Another prior section 431 of Pub. L. 90–247 was renumbered section 441, and wa
 
 #### Amendments
 
-1994—Pub. L. 103–382, §242, amended section generally. Prior to amendment, section consisted of subsecs. (a) to (c) relating to duty to collect and disseminate information about applicable programs and to submit an annual report to Congress and authorizing use of contract to carry out this section.
+1994—Pub. L. 103–382, §242, amended section generally. Prior to amendment, section consisted of subsecs. (a) to\(c) relating to duty to collect and disseminate information about applicable programs and to submit an annual report to Congress and authorizing use of contract to carry out this section.
 
 1976—Subsec. (b). Pub. L. 94–482 substituted “June 30” for “March 31”.
 

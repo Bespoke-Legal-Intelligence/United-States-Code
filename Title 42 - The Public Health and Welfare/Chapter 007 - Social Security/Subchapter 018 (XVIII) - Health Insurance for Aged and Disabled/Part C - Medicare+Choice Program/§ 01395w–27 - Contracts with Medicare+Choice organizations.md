@@ -54,7 +54,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (5) Contracting authority
 
-&emsp;The authority vested in the Secretary by this part may be performed without regard to such provisions of law or regulations relating to the making, performance, amendment, ormodification of contracts of the United States as the Secretary may determine to be inconsistent with the furtherance of the purpose of this subchapter.
+&emsp;The authority vested in the Secretary by this part may be performed without regard to such provisions of law or regulations relating to the making, performance, amendment, or modification of contracts of the United States as the Secretary may determine to be inconsistent with the furtherance of the purpose of this subchapter.
 
 #### (d) Protections against fraud and beneficiary protections
 
@@ -126,7 +126,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (1) In general
 
-&emsp;The contract shall contain such other terms and conditions not inconsistent with this part (including requiring the organization to provide the Secretary with such information) asthe Secretary may find necessary and appropriate.
+&emsp;The contract shall contain such other terms and conditions not inconsistent with this part (including requiring the organization to provide the Secretary with such information) as the Secretary may find necessary and appropriate.
 
 #### (2) Cost-sharing in enrollment-related costs
 
@@ -186,7 +186,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 &emsp;&emsp;(C) acts to expel or to refuse to re-enroll an individual in violation of the provisions of this part;
 
-&emsp;&emsp;(D) engages in any practice that would reasonably be expected to have the effect of denying or discouraging enrollment (except as permitted by this part) by eligible individuals with the organization whose medical condition or history indicates a need for substantial future medical services;
+&emsp;&emsp;(D) engages in any practice that would reasonably be expected to have the effect of denying or discouraging enrollment (except aspermitted by this part) by eligible individuals with the organization whose medical condition or history indicates a need for substantial future medical services;
 
 &emsp;&emsp;(E) misrepresents or falsifies information that is furnished—
 
@@ -242,7 +242,7 @@ The Secretary shall not permit the election under section 1395w–21 of this tit
 
 #### (i) Medicare+Choice program compatibility with employer or union group health plans
 
-To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits to the entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
+To facilitate the offering of Medicare+Choice plans under contracts between Medicare+Choice organizations and employers, labor organizations, or the trustees of a fund established by one or more employers or labor organizations (or combination thereof) to furnish benefits tothe entity's employees, former employees (or combination thereof) or members or former members (or combination thereof) of the labor organizations, the Secretary may waive or modify requirements that hinder the design of, the offering of, or the enrollment in such Medicare+Choice plans.
 
 (Aug. 14, 1935, ch. 531, title XVIII, §1857, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 319; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§513(a), (b)(1), 522(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–383, 1501A–387; Pub. L. 106–554, §1(a)(6) \[title VI, §§617(a), 623(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–561, 2763A–566.)
 

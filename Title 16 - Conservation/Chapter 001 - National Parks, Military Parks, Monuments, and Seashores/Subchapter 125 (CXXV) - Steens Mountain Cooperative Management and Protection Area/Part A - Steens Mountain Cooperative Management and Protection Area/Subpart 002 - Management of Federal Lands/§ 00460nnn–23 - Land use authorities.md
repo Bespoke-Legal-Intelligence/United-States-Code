@@ -36,7 +36,7 @@ The Secretary shall emphasize the restoration of the historic fire regime in the
 
 #### (2) Cancellation of certain permits
 
-&emsp;The Secretary shall cancel that portion of the permitted grazing on Federal lands in theFish Creek/Big Indian, East Ridge, and South Steens allotments located within the area designated as the “no livestock grazing area” on the map referred to in section 460nnn–11(a) of this title. Upon cancellation, future grazing use in that designated area is prohibited. The Secretary shall be responsible for installing and maintaining any fencing required for resource protection within the designated no livestock grazing area.
+&emsp;The Secretary shall cancel that portion of the permitted grazing on Federal lands in the Fish Creek/Big Indian, East Ridge, and South Steens allotments located within the area designated as the “no livestock grazing area” on the map referred to in section 460nnn–11(a) of this title. Upon cancellation, future grazing use in that designated area is prohibited. The Secretary shall be responsible for installing and maintaining any fencing required for resource protection within the designated no livestock grazing area.
 
 #### (3) Forage replacement
 

@@ -76,7 +76,7 @@ In unstitched form, and held in reserve by the Public Printer, as many copies of
 
 &emsp;to the offices of the Legislative Counsel of the Senate and House of Representatives, respectively, and the Architect of the Capitol, each, three copies of the daily, one semimonthly copy, and one bound copy;
 
-&emsp;to the Library of Congress for official use in Washington, District of Columbia, and for international exchange, as provided by sections 1718 and 1719 of this title, not to exceed one hundred and forty-five copies of the daily, five semimonthly copies, and one hundred and fifty bound copies;
+&emsp;to the Library of Congress for official use in Washington, District of Columbia, and for international exchange, as provided by sections 1718 and 1719 of this title, not to exceed one hundred and forty-five copies of the daily,five semimonthly copies, and one hundred and fifty bound copies;
 
 &emsp;to the library of the Senate, three copies of the daily, two semimonthly copies, and not to exceed fifteen bound copies;
 
@@ -84,7 +84,7 @@ In unstitched form, and held in reserve by the Public Printer, as many copies of
 
 &emsp;to the library of the Supreme Court of the United States, two copies of the daily, two semimonthly copies, and not to exceed five bound copies;
 
-&emsp;to the library of each United States Court of Appeals, each United States District Court, the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon request to the PublicPrinter, one copy of the daily, one semimonthly copy, and one bound copy;
+&emsp;to the library of each United States Court of Appeals, each United States District Court, the United States Court of Federal Claims, the United States Court of International Trade, the Tax Court of the United States, the United States Court of Appeals for Veterans Claims, and the United States Court of Appeals for the Armed Forces, upon request to the Public Printer, one copy of the daily, one semimonthly copy, and one bound copy;
 
 &emsp;to the Public Printer for official use, not to exceed seventy-five copies of the daily, ten semimonthly copies, and two bound copies;
 

@@ -230,7 +230,7 @@ Use of Multidisciplinary Child Abuse Teams.—
 
 &emsp;(1)
 
-In general.—A multidisciplinary child abuse team shall be used when it is feasible todo so. The court shall work with State and local governments that have established multidisciplinary child abuse teams designed to assist child victims and child witnesses, and the court and the attorney for the Government shall consult with the multidisciplinary child abuse team as appropriate.
+In general.—A multidisciplinary child abuse team shall be used when it is feasible to do so. The court shall work with State and local governments that have established multidisciplinary child abuse teams designed to assist child victims and child witnesses, and the court and the attorney for the Government shall consult with the multidisciplinary child abuse team as appropriate.
 
 &emsp;(2)
 
@@ -276,7 +276,7 @@ Speedy Trial.—In a proceeding in which a child is called to give testimony, on
 
 (k)
 
-Stay of Civil Action.—If, at any time that a cause of action for recovery of compensation for damage or injury to the person of a child exists, a criminal action is pending which arises out of the same occurrence and in which the child is the victim, the civil action shall be stayed until the end of all phases of the criminal action and any mention of the civil action during the criminal proceeding is prohibited. As used in this subsection, a criminal action is pending until its final adjudication in the trial court.
+Stay of Civil Action.—If, at any time that a cause of action for recovery of compensation for damage or injury to the person of a child exists, a criminal action is pending which arises out of the same occurrence and in which the child is the victim, the civil action shall be stayed until the end of all phases of the criminal action and any mention of the civil action during the criminal proceeding is prohibited. Asused in this subsection, a criminal action is pending until its final adjudication in the trial court.
 
 (<i>l</i>)
 

@@ -48,10 +48,13 @@
 | [5946\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Allowances/%C2%A7%2005946%20-%20Membership%20fees%3B%20expenses%20of%20attendance%20at%20meetings%3B%20limitations.md) | Membership fees; expenses of attendance at meetings; limitations. |
 | [5947\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Allowances/%C2%A7%2005947%20-%20Quarters%2C%20subsistence%2C%20and%20allowances%20for%20employees%20of%20the%20Corps%20of%20Engineers%2C%20Department%20of%20the%20Army%2C%20engaged%20in%20floating%20plant%20operations.md) | Quarters, subsistence, and allowances for employees of the Corps of Engineers, Department of the Army, engaged in floating plant operations. |
 | [5948\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Allowances/%C2%A7%2005948%20-%20Physicians%20comparability%20allowances.md) | Physicians comparability allowances. |
+| [5949\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Allowances/%C2%A7%2005949%20-%20Hostile%20fire%20pay.md) | Hostile fire pay. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2001—Pub. L. 107–107, div. A, title XI, §1111(b), Dec. 28, 2001, 115 Stat. 1238, added item 5949.
 
 1991—Pub. L. 102–190, div. A, title X, §1092(a)(2), Dec. 5, 1991, 105 Stat. 1487, added item 5942a.
 
@@ -63,13 +66,13 @@
 
 Pub. L. 95–426, title IV, §411(b), Oct. 7, 1978, 92 Stat. 981, added item 5926.
 
-1971—Pub. L. 91–656, §§6(c), 7(b), Jan. 8, 1971, 84 Stat. 1954, substituted “duty at remote worksites” for “dutyon California offshore islands or at Nevada Test Site” in item 5942 and added item 5947.
+1971—Pub. L. 91–656, §§6(c), 7(b), Jan. 8, 1971, 84 Stat. 1954, substituted “duty at remote worksites” for “duty on California offshore islands or at Nevada Test Site” in item 5942 and added item 5947.
 
 1967—Pub. L. 90–83, §1(40)(B), (42), Sept. 11, 1967, 81 Stat. 206, 207, added items 5902 and 5903, and inserted “or at Nevada Test Site” in item 5942.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 5307 of this title; title 22 section 3664.
+This chapter is referred to in sections 5307, 9701 of this title; title 22 section 3664.
 
 
 ---

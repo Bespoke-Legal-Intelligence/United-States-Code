@@ -38,9 +38,9 @@ This section inserts commas in certain parts of the text of subsection (b) of se
 
 #### Amendments
 
-<b>1966</b>—Subsec. (d). Pub. L. 89–590 added subsec. (d).
+1966—Subsec. (d). Pub. L. 89–590 added subsec. (d).
 
-<b>1949</b>—Subsec. (b). Act May 24, 1949, inserted commas after “Supreme Court” and “any justice thereof”.
+1949—Subsec. (b). Act May 24, 1949, inserted commas after “Supreme Court” and “any justice thereof”.
 
 #### Section Referred to in Other Sections
 

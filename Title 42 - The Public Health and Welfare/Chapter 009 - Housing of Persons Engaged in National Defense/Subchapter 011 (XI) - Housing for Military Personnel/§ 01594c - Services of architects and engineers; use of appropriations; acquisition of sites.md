@@ -18,7 +18,11 @@ The United States Housing Act of 1937, referred to in text, is act Sept. 1, 1937
 
 1967—Pub. L. 90–19 substituted “Secretary of Housing and Urban Development” and “Department of Housing and Urban Development” for “Public Housing Administration” and “Federal Housing Administration” in first sentence and first proviso and for “Federal Housing Administration” in penultimate sentence and “Secretary of Defense” for “Secretary” in third proviso and last two sentences, respectively.
 
-1956—Act Aug. 7, 1956, inserted second proviso requiring plans, drawings, and specifications to follow the principle of modular measure, so the housing may be built by conventional construction, on-site fabrication, factory precutting, factory fabrication, or any combination of these construction methods.
+1956—Act Aug. 7, 1956, inserted second proviso requiring plans, drawings, and specifications to follow theprinciple of modular measure, so the housing may be built by conventional construction, on-site fabrication, factory precutting, factory fabrication, or any combination of these construction methods.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

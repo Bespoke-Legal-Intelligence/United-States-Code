@@ -24,7 +24,7 @@ The panel shall advise the Secretary and the Director concerning—
 
 (1) The panel shall consist of 15 voting members who shall be appointed by the Secretary. The Director and a director of a sea grant program who is elected by the various directors of sea grant programs shall serve as nonvoting members of the panel. Not less than 8 of the voting members of the panel shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in one or more of the disciplines and fields included in marine science. The other voting members shall be individuals who, by reason of knowledge, experience, or training, are especially qualified in, or representative of, education, marine affairs and resource management, extension services, State government, industry, economics, planning, or any other activity which is appropriate to, and important for, any effort to enhance the understanding, assessment, development, utilization, or conservation of ocean, coastal, and Great Lakes resources. No individual is eligible to be a voting member of the panel if the individual is (A) the director of a sea grant college or sea grant institute; (B) an applicant for, or beneficiary (as determined by the Secretary) of, any grant or contract under section 1124 of this title; or (C) a full-time officer or employee of the United States.
 
-(2) The term of office of a voting member of the panel shall be 3 years, except that of the original appointees, five shall be appointed for a term of 1 year, five shall be appointed for a term of 2 years, and five shall be appointed for a termof 3 years. At least once each year, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the panel.
+(2) The term of office of a voting member of the panel shall be 3 years for a member appointed before November 26, 2002, and 4 years for a member appointed or reappointed after November 26, 2002. The Director may extend the term of office of a voting member of the panel appointed before November 26, 2002, by up to 1 year. At least once each year, the Secretary shall publish a notice in the Federal Register soliciting nominations for membership on the panel.
 
 (3) Any individual appointed to a partial or full term may be reappointed for one additional full term. A voting member may serve after the date of the expiration of the term of office for which appointed until his or her successor has taken office.
 
@@ -40,9 +40,11 @@ The panel shall advise the Secretary and the Director concerning—
 
 (7) The panel may exercise such powers as are reasonably necessary in order to carry out its duties under subsection (b) of this section.
 
-(Pub. L. 89–454, title II, §209, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1967; amended Pub. L. 96–289, §1(5), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§3104(b)(1)(F), 3108, Dec. 29, 1987, 101 Stat. 1471, 1473; Pub. L. 102–186, §§4(b)(1)(E), (F), 5(b)(2), Dec. 4, 1991, 105 Stat. 1283, 1284; Pub. L. 105–160, §§4(b)(1), 8, Mar. 6, 1998, 112 Stat. 22, 25.)
+(Pub. L. 89–454, title II, §209, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1967; amended Pub. L. 96–289, §1(5), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §§3104(b)(1)(F), 3108, Dec. 29, 1987, 101 Stat. 1471, 1473; Pub. L. 102–186, §§4(b)(1)(E), (F), 5(b)(2), Dec. 4, 1991, 105 Stat. 1283, 1284; Pub. L. 105–160, §§4(b)(1), 8, Mar. 6, 1998, 112 Stat. 22, 25; Pub. L. 107–299, §6, Nov. 26, 2002, 116 Stat. 2346.)
 
 #### Amendments
+
+2002—Subsec. (c)(2). Pub. L. 107–299 inserted first and second sentences and struck out former first sentence which read as follows: “The term of office of a voting member of the panel shall be 3 years, except that of the original appointees, five shall be appointed for a term of 1 year, five shall be appointed for a term of 2 years, and five shall be appointed for a term of 3 years.”
 
 1998—Subsec. (a). Pub. L. 105–160, §8(a), struck out at end “The panel shall, on the 60th day after October 8, 1976, supersede the sea grant advisory panel in existence before October 8, 1976.”
 

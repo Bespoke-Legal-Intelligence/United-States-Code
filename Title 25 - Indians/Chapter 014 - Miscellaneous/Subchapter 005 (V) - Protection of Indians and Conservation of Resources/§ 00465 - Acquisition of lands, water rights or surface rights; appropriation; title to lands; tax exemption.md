@@ -22,7 +22,7 @@ Act of July 28, 1955, referred to in text, is act July 28, 1955, ch. 423, 69 Sta
 
 #### Payson Band, Yavapai-Apache Indian Reservation
 
-Pub. L. 92–470, Oct. 6, 1972, 86 Stat. 783, provided: “That (a) a suitable site (of not to exceed eighty-five acres) for a village for the Payson Community ofYavapai-Apache Indians shall be selected in the Tonto National Forest within Gila County, Arizona, by the leaders of the community, subject to approval by the Secretary of the Interior and the Secretary of Agriculture. The site so selected is hereby declared to be held by the United States in trust as an Indian reservation for the use and benefit of the Payson Community of Yavapai-Apache Indians.
+Pub. L. 92–470, Oct. 6, 1972, 86 Stat. 783, provided: “That (a) a suitable site (of not to exceed eighty-five acres) for a village for the Payson Community of Yavapai-Apache Indians shall be selected in the Tonto National Forest within Gila County, Arizona, by the leaders of the community, subject to approval by the Secretary of the Interior and the Secretary of Agriculture. The site so selected is hereby declared to be held by the United States in trust as an Indian reservation for the use and benefit of the Payson Community of Yavapai-Apache Indians.
 
 “(b) The Payson Community of Yavapai-Apache Indians shall be recognized as a tribe of Indians within the purview of the Act of June 18, 1934, as amended (25 U.S.C. 461–479, relating to the protection of Indians and conservation of resources), and shall be subject to all of the provisions thereof.”
 
@@ -44,5 +44,5 @@ Sec. 3. Nothing in this Act shall deprive any Indian of any individual right, ow
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 463b, 473a, 475a, 608, 1041e, 1300i–1, 1773c, 2202, 2719 of this title.
+This section is referred to in sections 463b, 473a, 475a, 608, 1041e, 1300i–1, 1773c, 1779d, 2202, 2719 of this title.
 

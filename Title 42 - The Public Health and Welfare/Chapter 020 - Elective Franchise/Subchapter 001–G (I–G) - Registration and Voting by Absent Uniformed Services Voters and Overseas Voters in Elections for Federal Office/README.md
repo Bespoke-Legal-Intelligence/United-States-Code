@@ -6,7 +6,7 @@ Provisions similar to this subchapter were contained in subchapters I–D and I�
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 1973gg–4 of this title; title 10 section 1566; title 18 section 608; title 39 section 3406.
+This subchapter is referred to in sections 1973gg–4, 15483, 15545 of this title; title 10 section 1566; title 18 section 608; title 39 section 3406.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “possession”.</i>
 

@@ -102,7 +102,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;At the conclusion of the proceeding the immigration judge shall decide whether an alien is removable from the United States. The determination of the immigration judge shall be based only on the evidence produced at the hearing.
+&emsp;&emsp;At the conclusion of the proceeding the immigration judge shall decide whether analien is removable from the United States. The determination of the immigration judge shall be based only on the evidence produced at the hearing.
 
 #### (B) Certain medical decisions
 
@@ -112,7 +112,7 @@
 
 &emsp;In the proceeding the alien has the burden of establishing—
 
-&emsp;&emsp;(A) if the alien is an applicant for admission, that the alien is clearly and beyonddoubt entitled to be admitted and is not inadmissible under section 1182 of this title; or
+&emsp;&emsp;(A) if the alien is an applicant for admission, that the alien is clearly and beyond doubt entitled to be admitted and is not inadmissible under section 1182 of this title; or
 
 &emsp;&emsp;(B) by clear and convincing evidence, that the alien is lawfully present in the United States pursuant to a prior admission.
 
@@ -184,7 +184,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in this subparagraph, the motion to reopen shall be filed within 90 days of the date of entry of a final administrative order of removal.
+&emsp;&emsp;&emsp;Except as provided in this subparagraph, the motion to reopen shall be filed within90 days of the date of entry of a final administrative order of removal.
 
 #### (ii) Asylum
 
@@ -192,7 +192,7 @@
 
 #### (iii) Failure to appear
 
-&emsp;&emsp;&emsp;The filing of a motion to reopen an order entered pursuant to subsection (b)(5) ofthis section is subject to the deadline specified in subparagraph (C) of such subsection.
+&emsp;&emsp;&emsp;The filing of a motion to reopen an order entered pursuant to subsection (b)(5) of this section is subject to the deadline specified in subparagraph (C) of such subsection.
 
 #### (iv) Special rule for battered spouses and children
 
@@ -243,6 +243,10 @@ Pub. L. 106–386, div. B, title V, §1506(c)(1)(B), Oct. 28, 2000, 114 Stat. 15
 Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Subsec. (c)(3)(B), (C) of this section applicable to proving convictions entered before, on, or after Sept. 30, 1996, see section 322(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Elimination of Time Limitations on Motions To Reopen Deportation Proceedings for Victims of Domestic Violence
 

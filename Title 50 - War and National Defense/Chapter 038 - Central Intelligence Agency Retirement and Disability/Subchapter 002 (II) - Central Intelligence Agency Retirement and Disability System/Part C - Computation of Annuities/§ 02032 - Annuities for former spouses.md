@@ -38,7 +38,7 @@
 
 #### (B) Treatment when annuitant returns to service
 
-&emsp;&emsp;If an annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 2111 of this title, or reinstated or reappointed, in the case of a recovered disability annuitant, or if any annuitant is reemployed as provided for under sections 2112 and 2113 of this title, the pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the fund.
+&emsp;&emsp;If an annuitant whose annuity is reduced under subparagraph (A) is recalled to service under section 2111 of this title, or reinstated or reappointed, in the case of a recovereddisability annuitant, or if any annuitant is reemployed as provided for under sections 2112 and 2113 of this title, the pay of that annuitant shall be reduced by the same amount as the annuity would have been reduced if it had continued. Amounts equal to the reductions under this subparagraph shall be deposited in the Treasury of the United States to the credit of the fund.
 
 #### (6) Disability annuitant
 
@@ -96,7 +96,7 @@
 
 #### (B) Election of spouse annuity
 
-&emsp;&emsp;Subject to paragraph (4)(B), the participant may elect in writing within one year after receipt of notice of the death or remarriage of the former spouse to continue the reduction in order to provide a higher survivor annuity under section 2031(b)(3) of this title for any spouse of the participant.
+&emsp;&emsp;Subject to paragraph (4)(B), the participant may elect in writing within one yearafter receipt of notice of the death or remarriage of the former spouse to continue the reduction in order to provide a higher survivor annuity under section 2031(b)(3) of this title for any spouse of the participant.
 
 #### (c) Optional additional survivor annuities for other former spouse or surviving spouse
 
@@ -132,7 +132,7 @@
 
 #### (C) Effect of former spouse's death or disqualification
 
-&emsp;&emsp;If a former spouse predeceases the participant or remarries before attaining age 55 (or, in the case of a spouse, the spouse predeceases the participant or does not qualifyas a former spouse upon dissolution of the marriage)—
+&emsp;&emsp;If a former spouse predeceases the participant or remarries before attaining age 55 (or, in the case of a spouse, the spouse predeceases the participant or does not qualify as a former spouse upon dissolution of the marriage)—
 
 &emsp;&emsp;&emsp;(i) if an annuity reduction or pay allotment under subparagraph (A) is in effect for that spouse or former spouse, the annuity shall be recomputed and paid as if it had not been reduced or the pay allotment terminated, as the case may be; and
 
@@ -182,7 +182,7 @@ In general.—
 
 &emsp;&emsp;“(A)
 
-Entitlement of former wife or husband.—Any person who was divorced on or before December 4, 1991, from a participant or retired participant in the Central Intelligence Agency Retirement and Disability System and who was married to such participant for not less than 10 years during such participant's creditable service, at least five years of which were spent by the participant during the participant's service as an employee of the Central Intelligence Agency outside the United States, or otherwise in a position the duties of which qualified the participant for designation by the Director of Central Intelligence as a participant under section 203 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2013), shall be entitled, except to the extent such person is disqualified under paragraph (2), to a survivor annuity equal to 55 percent of the greater of—
+Entitlement of former wife or husband.—Any person who was divorced on or before December 4, 1991, from a participant or retired participantin the Central Intelligence Agency Retirement and Disability System and who was married to such participant for not less than 10 years during such participant's creditable service, at least five years of which were spent by the participant during the participant's service as an employee of the Central Intelligence Agency outside the United States, or otherwise in a position the duties of which qualified the participant for designation by the Director of Central Intelligence as a participant under section 203 of the Central Intelligence Agency Retirement Act (50 U.S.C. 2013), shall be entitled, except to the extent such person is disqualified under paragraph (2), to a survivor annuity equal to 55 percent of the greater of—
 
 &emsp;&emsp;&emsp;“(i) the unreduced amount of the participant's annuity, as computed under section 221(a) of such Act \[50 U.S.C. 2031(a)\]; or
 
@@ -226,7 +226,7 @@ Commencement of annuity.—The entitlement of a former wife or husband to a surv
 
 &emsp;&emsp;“(B)
 
-Termination of annuity.—The entitlement of a former wife or husband to a survivor annuityunder this subsection terminates on the last day of the month before the former wife's or husband's death or remarriage before attaining age 55. The entitlement of a former wife or husband to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce.
+Termination of annuity.—The entitlement of a former wife or husband to a survivor annuity under this subsection terminates on the last day of the month before the former wife's or husband's death or remarriage before attaining age 55. The entitlement of a former wife or husband to such a survivor annuity shall be restored on the date such remarriage is dissolved by death, annulment, or divorce.
 
 &emsp;“(4)
 
@@ -294,7 +294,7 @@ Apportionment.—The term ‘apportionment’ means a portion of a retired parti
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
-Court order.—The term ‘court order’ means any decree of divorce or annulment or any court order or court-approved property settlement agreement incident to such decree.
+Court order.—The term ‘court order’ means any decree of divorce or annulment orany court order or court-approved property settlement agreement incident to such decree.
 
 &emsp;“(2)
 
@@ -338,7 +338,7 @@ Disability annuities.—Notwithstanding subparagraph (A)(i)(II), in the case of 
 
 &emsp;&emsp;“(C)
 
-Election of benefits.—A former wife or husband of a participant or retired participant shall not become entitled under this subsection to an annuity or to the restoration of an annuity unless the former wife or husband elects to receive it instead of any survivor annuity to which the former wife or husband may be entitled under the Central Intelligence Agency Retirement and Disability Systemor any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
+Election of benefits.—A former wife or husband of a participant or retired participant shall not become entitled under this subsection to an annuity or to the restoration of an annuity unless the former wife or husband elects to receive it instead of any survivor annuity to which the former wife or husband may be entitled under the Central Intelligence Agency Retirement and Disability System or any other retirement system for Government employees on the basis of a marriage to someone other than the participant.
 
 &emsp;&emsp;“(D)
 

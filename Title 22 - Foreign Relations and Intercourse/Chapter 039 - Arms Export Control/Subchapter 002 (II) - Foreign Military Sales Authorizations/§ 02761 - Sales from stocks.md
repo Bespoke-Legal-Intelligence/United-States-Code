@@ -72,7 +72,7 @@ If the President determines it to be in the national interest pursuant to subsec
 
 #### (f) Public inspection of contracts
 
-Any contracts entered into between the United States and a foreign country under the authority of this section or section 2762 of this title shall be prepared in a manner which will permit them to be made available for public inspection to the fullest extent possible consistent with the national security of the United States.
+Any contracts entered into between the United States and a foreign country under the authority of this section or section 2762 of this title shall be prepared in a manner which willpermit them to be made available for public inspection to the fullest extent possible consistent with the national security of the United States.
 
 #### (g) North Atlantic Treaty Organization standardization agreements, similar agreements; reimbursement for costs; transmittal to Congress
 
@@ -90,7 +90,7 @@ The President may enter into North Atlantic Treaty Organization standardization 
 
 #### (i) Sales affecting combat readiness of Armed Forces; statement to Congress; limitation on delivery
 
-(1) Sales of defense articles and defense services which could have significant adverse effect on the combat readiness of the Armed Forces of the United States shall be kept to an absolute minimum. The President shall transmit to the Speaker of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate on the same day a written statement giving a complete explanation with respect to any proposal to sell, under this section or under authority of subchapter II–B ofthis chapter, any defense articles or defense services if such sale could have a significant adverse effect on the combat readiness of the Armed Forces of the United States. Each such statement shall be unclassified except to the extent that public disclosure of any item of information contained therein would be clearly detrimental to the security of the United States. Any necessarily classified information shall be confined to a supplemental report. Each such statement shall include an explanation relating to only one such proposal to sell and shall set forth—
+(1) Sales of defense articles and defense services which could have significant adverse effect on the combat readiness of the Armed Forces of the United States shall be kept to an absolute minimum. The President shall transmit to the Speaker of the House of Representatives and the Committees on Armed Services and Foreign Relations of the Senate on the same day a written statement giving a complete explanation with respect to any proposal to sell, under this section or under authority of subchapter II–B of this chapter, any defense articles or defense services if such sale could have a significant adverse effect on the combat readiness of the Armed Forces of the United States. Each such statement shall be unclassified except to the extent that public disclosure of any item of information contained therein would be clearly detrimental to the security of the United States. Any necessarily classified information shall be confined to a supplemental report. Each such statement shall include an explanation relating to only one such proposal to sell and shall set forth—
 
 &emsp;(A) the country or international organization to which the sale is proposed to be made;
 
@@ -172,7 +172,7 @@ Before entering into the sale under this chapter of defense articles that are ex
 
 #### (3) Credit for transaction
 
-&emsp;Upon acquisition and acceptance by the United States Government of a defense articleunder paragraph (1), the appropriate Foreign Military Sales account of the provider shall be credited to reflect the transaction.
+&emsp;Upon acquisition and acceptance by the United States Government of a defense article under paragraph (1), the appropriate Foreign Military Sales account of the provider shall be credited to reflect the transaction.
 
 #### (4) Relationship to certain other provisions of law
 
@@ -188,7 +188,7 @@ Section 814 of the act of October 7, 1975 (Public Law 94–106), referred to in 
 
 #### Codification
 
-Amendment by Pub. L. 98–473 is based on section 102 of S. 2346, Ninety-eighth Congress, as introduced in the Senate Feb. 27, 1984, which was enacted into permanent law by Pub. L. 98–473.
+Amendment by Pub. L. 98–473 is based on section 102 of S. 2346, Ninety-eighth Congress, as introduced in theSenate Feb. 27, 1984, which was enacted into permanent law by Pub. L. 98–473.
 
 #### Amendments
 
@@ -315,6 +315,10 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 #### Regulations
 
 Section 152(c) of Pub. L. 104–164 provided that: “Under the direction of the President, the Secretary of Defense shall promulgate regulations to implement subsections (<i>l</i>) and (m) of section 21 of the Arms Export Control Act \[22 U.S.C. 2761(<i>l</i>), (m)\], as added by this section.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Functions
 

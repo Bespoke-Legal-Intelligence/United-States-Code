@@ -82,7 +82,7 @@ In order for a student who does not have a certificate of graduation from a scho
 
 #### (e) Certification for GSL eligibility
 
-Each eligible institution may certify student eligibility for a loan by an eligible lender underpart B of this subchapter prior to completing the review for accuracy of the information submitted by the applicant required by regulations issued under this subchapter and part C of subchapter I of chapter 34 of title 42, if—
+Each eligible institution may certify student eligibility for a loan by an eligible lender under part B of this subchapter prior to completing the review for accuracy of the information submitted by the applicant required by regulations issued under this subchapter and part C of subchapter I of chapter 34 of title 42, if—
 
 &emsp;(1) checks for the loans are mailed to the eligible institution prior to disbursements;
 
@@ -265,7 +265,7 @@ The Secretary of Education, in cooperation with the Commissioner of the Social S
 
 &emsp;In this subsection, the term “controlled substance” has the meaning given the term in section 802(6) of title 21.
 
-(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V,§507(b), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–244, title IV, §483(a)–(f)(1), Oct. 7, 1998, 112 Stat. 1735, 1736.)
+(Pub. L. 89–329, title IV, §484, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1479; amended Pub. L. 99–603, title I, §121(a)(3), Nov. 6, 1986, 100 Stat. 3388; Pub. L. 100–50, §15(7)–(9), June 3, 1987, 101 Stat. 356, 357; Pub. L. 100–369, §§1, 2, 6, July 18, 1988, 102 Stat. 835, 836; Pub. L. 100–525, §2(g), Oct. 24, 1988, 102 Stat. 2611; Pub. L. 101–508, title III, §3005(a), Nov. 5, 1990, 104 Stat. 1388–27; Pub. L. 102–26, §2(b), (c)(2), (d)(2)(A), Apr. 9, 1991, 105 Stat. 123, 124; Pub. L. 102–73, title VIII, §801(a), July 25, 1991, 105 Stat. 359; Pub. L. 102–325, title IV, §484(a), (b)(1), (c)–(h), July 23, 1992, 106 Stat. 615–619; Pub. L. 103–208, §2(h)(13)–(25), Dec. 20, 1993, 107 Stat. 2476, 2477; Pub. L. 103–382, title III, §360A, Oct. 20, 1994, 108 Stat. 3969; Pub. L. 104–208, div. C, title V, §507(b), Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–244, title IV, §483(a)–(f)(1), Oct. 7, 1998, 112 Stat. 1735, 1736.)
 
 #### References in Text
 
@@ -403,7 +403,7 @@ Subsecs. (c) to (e), (h) to (j). Pub. L. 100–525 redesignated subsecs. (c) to 
 
 Subsec. (b). Pub. L. 100–50, §15(7)(B)–(D), designated existing provision as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
 
-Subsec. (d). Pub. L. 100–50, §15(8), added pars. (2) and (3) and last sentence relating to ineligibility for assistance if a student is enrolled in either an elementary ora secondary school, and struck out former par. (2) which read as follows:
+Subsec. (d). Pub. L. 100–50, §15(8), added pars. (2) and (3) and last sentence relating to ineligibility for assistance if a student is enrolled in either an elementary or a secondary school, and struck out former par. (2) which read as follows:
 
 “(A) be counseled prior to admissions or be administered a nationally recognized standardized or industry developed test, subject to criteria developed by the appropriate accrediting association, measuring the applicant's aptitude to complete successfully the program to which he has applied; and
 
@@ -453,7 +453,7 @@ General Rule.—Except as otherwise provided, the amendments made by this Act to
 
 Special Rules.—(1) The amendments made by section 5 \[amending this section and sections 1077 and 1078 of this title\] shall be effective with respect to loans made on or after October 1, 1988.
 
-“(2) The amendments made by sections 6, 7, 8, 9, 10, 11, and 12 \[amending this section, sections 1058, 1061, 1062, 1070a–1, 1070a–3, 1070a–4, 1070a–6, 1071, 1077, 1078, 1087–2, 1087dd, 1087ee, 1087nn, 1087ss, 1087vv, 1132d–1, 1132g–1, and 1134m of this title, and section 1905 of Title 48, Territories and Insular Possessions\] shall take effect on the date of enactment of this Act \[July 18, 1988\].”
+“(2) The amendments made by sections 6, 7, 8, 9, 10, 11, and 12 \[amending this section, sections 1058, 1061,1062, 1070a–1, 1070a–3, 1070a–4, 1070a–6, 1071, 1077, 1078, 1087–2, 1087dd, 1087ee, 1087nn, 1087ss, 1087vv, 1132d–1, 1132g–1, and 1134m of this title, and section 1905 of Title 48, Territories and Insular Possessions\] shall take effect on the date of enactment of this Act \[July 18, 1988\].”
 
 #### Effective Date of 1987 Amendment
 
@@ -480,6 +480,10 @@ Section 407(b) of Pub. L. 99–498 provided that:
 #### Construction of 1991 Amendment
 
 For repeal of section 3005 of Pub. L. 101–508 and application of subsec. (d) of this section as if such section 3005 had not been enacted, see section 2(d)(2)(A) of Pub. L. 102–26, set out as a note under section 1088 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Satisfactory Progress
 

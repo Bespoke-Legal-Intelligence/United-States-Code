@@ -16,7 +16,7 @@ Notwithstanding any other provision of law, an officer or employee of the Centra
 
 #### (b) Survivors of officers and employees to whom section 2052 rules apply
 
-Notwithstanding any other provision of law, in the case of an officer or employee of the CentralIntelligence Agency subject to retirement system coverage under subchapter III of chapter 83, title 5, who—
+Notwithstanding any other provision of law, in the case of an officer or employee of the Central Intelligence Agency subject to retirement system coverage under subchapter III of chapter 83, title 5, who—
 
 &emsp;(1) has at least eighteen months of civilian service credit toward retirement under such subchapter III of chapter 83, title 5;
 

@@ -2,7 +2,7 @@
 
 #### (a) Warrants
 
-The judges of the United States district courts and United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process as may be required for enforcement of this chapter and theregulations issued under section 972e of this title.
+The judges of the United States district courts and United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process as may be required for enforcement of this chapter and the regulations issued under section 972e of this title.
 
 #### (b) Joint responsibility for enforcement
 
@@ -26,11 +26,17 @@ An individual authorized to enforce this chapter may seize, whenever or wherever
 
 #### (f) Bond or stipulation for value of the property
 
-Notwithstanding the provisions of section 2464 of title 28, when a warrant of arrest or other process in rem is issued in any cause under this section, the marshal or other officer shall stay the execution of such process, or discharge any species of designated tuna seized if the process has been levied, on receiving from the claimant of the species a bond or stipulation for the value of the property with sufficient surety to be approved by a judge of the district court having jurisdiction of the offense, conditioned to deliver the species seized, if condemned, without impairment in value or, in the discretion of the court, to pay its equivalent value in money or otherwise to answer the decree of the court in such cause. Such bond or stipulation shall be returned to the court and judgment thereon against both the principal and sureties may be recovered in event of any breach of the conditions thereof as determined by the court. In the discretion of the accused, and subject to the direction of the court, the species may be sold for not less than its reasonable market value and the proceeds of such sale placed in the registry of the court pending judgment in the case.
+Notwithstanding the provisions of section 2464 of title 28, when a warrant of arrest or otherprocess in rem is issued in any cause under this section, the marshal or other officer shall stay the execution of such process, or discharge any species of designated tuna seized if the process has been levied, on receiving from the claimant of the species a bond or stipulation for the value of the property with sufficient surety to be approved by a judge of the district court having jurisdiction of the offense, conditioned to deliver the species seized, if condemned, without impairment in value or, in the discretion of the court, to pay its equivalent value in money or otherwise to answer the decree of the court in such cause. Such bond or stipulation shall be returned to the court and judgment thereon against both the principal and sureties may be recovered in event of any breach of the conditions thereof as determined by the court. In the discretion of the accused, and subject to the direction of the court, the species may be sold for not less than its reasonable market value and the proceeds of such sale placed in the registry of the court pending judgment in the case.
 
 (Pub. L. 98–445, §9, Oct. 4, 1984, 98 Stat. 1717; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 
 #### Change of Name
 
 “United States magistrate judges” substituted for “United States magistrates” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -32,6 +32,8 @@ Level I of the Executive Schedule applies to the following positions for which t
 
 &emsp;Secretary of Veterans Affairs.
 
+&emsp;Secretary of Homeland Security.
+
 &emsp;Director of the Office of Management and Budget.
 
 &emsp;Commissioner of Social Security, Social Security Administration.
@@ -40,7 +42,7 @@ Level I of the Executive Schedule applies to the following positions for which t
 
 &emsp;Chairman, Board of Governors of the Federal Reserve System.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(1), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(c)(12), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–618, title I, §141(b)(3)(A), Jan. 3, 1975, 88 Stat. 1999; Pub. L. 94–82, title II, §202(b)(1), Aug. 9, 1975, 89 Stat. 419; Pub. L. 95–91, title VII, §710(c), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, §508(c), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 97–456, §3(d)(1), (5), Jan. 12, 1983, 96 Stat. 2505; Pub. L. 99–198, title XI, §1113(d), Dec. 23, 1985, 99 Stat. 1480; Pub. L. 99–260, §4(c), Mar. 20, 1986, 100 Stat. 49; Pub. L. 100–527, §13(c), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(a), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–690, title I, §1003(a)(4)(A), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 103–296, title I, §108(e)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 105–277, div. C, title VII, §713(a)(1), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–569, title X, §1002(a)(1), Dec. 27, 2000, 114 Stat. 3028.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(1), Oct. 15, 1966, 80 Stat. 948; Pub. L. 91–375, §6(c)(12), Aug. 12, 1970, 84 Stat. 776; Pub. L. 93–618, title I, §141(b)(3)(A), Jan. 3, 1975, 88 Stat. 1999; Pub. L. 94–82, title II, §202(b)(1), Aug. 9, 1975, 89 Stat. 419; Pub. L. 95–91, title VII, §710(c), Aug. 4, 1977, 91 Stat. 609; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–88, title V, §508(c), (g), Oct. 17, 1979, 93 Stat. 692; Pub. L. 97–456, §3(d)(1), (5), Jan. 12, 1983, 96 Stat. 2505; Pub. L. 99–198, title XI, §1113(d), Dec. 23, 1985, 99 Stat. 1480; Pub. L. 99–260, §4(c), Mar. 20, 1986, 100 Stat. 49; Pub. L. 100–527, §13(c), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(a), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 100–690, title I, §1003(a)(4)(A), Nov. 18, 1988, 102 Stat. 4182; Pub. L. 103–296, title I, §108(e)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 105–277, div. C, title VII, §713(a)(1), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–569, title X, §1002(a)(1), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–296, title XVII, §1702(a)(1), Nov. 25, 2002, 116 Stat. 2313.)
 
 Historical and Revision Notes
 
@@ -63,6 +65,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 Paragraph designation for the position added by Pub. L. 96–88 has been omitted in view of the deletion of all paragraph designations in this section by Pub. L. 96–54.
 
 #### Amendments
+
+2002—Pub. L. 107–296 inserted item relating to Secretary of Homeland Security.
 
 2000—Pub. L. 106–569 inserted item relating to Chairman, Board of Governors of the Federal Reserve System.
 
@@ -98,9 +102,13 @@ Par. (13). Pub. L. 93–618 added par. (13) relating to Special Representative f
 
 1966—Pub. L. 89–670 added par. (11) relating to Secretary of Housing and Urban Development, and par. (12) relating to Secretary of Transportation.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–569, title X, §1002(b), Dec. 27, 2000, 114 Stat. 3028, provided that: “This section \[amending this section and sections 5313 and 5314 of this title\] and the amendments made by this section shall take effect on the first day of the first pay period for the Chairman and Members of the Board of Governors of the Federal Reserve System beginning on or after the date of the enactment of this Act \[Dec. 27, 2000\].”
+Pub. L. 106–569, title X, §1002(b), Dec. 27, 2000, 114 Stat. 3028, provided that: “This section \[amending thissection and sections 5313 and 5314 of this title\] and the amendments made by this section shall take effect on the first day of the first pay period for the Chairman and Members of the Board of Governors of the Federal Reserve System beginning on or after the date of the enactment of this Act \[Dec. 27, 2000\].”
 
 #### Effective and Termination Dates of 1988 Amendments
 
@@ -126,11 +134,15 @@ Amendment by Pub. L. 89–670 effective 90 days after Secretary of Transportatio
 
 #### Short Title of 1975 Amendment
 
-Section 201 of title II of Pub. L. 94–82 provided that: “This title \[enacting section 5318 of this title and section 461 of Title 28, Judiciary and Judicial Procedure, amending sections 5305, 5312, 5313, 5314, 5315 and 5316 of this title, sections 31, 60a note, 136a, 136a–1 and 356 of Title 2. The Congress, section 104 of Title 3, The President, section 68 of Title 11, Bankruptcy, sections 5, 44, 135, 173, 213, 252 and 792 of Title 28, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of Title 40, Public Buildings, Property, and Works, and section 303 of Title 44, Public Printing and Documents, and enacting provisions set out as a note under section 356 of Title 2\] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
+Section 201 of title II of Pub. L. 94–82 provided that: “This title \[enacting section 5318 of this title and section 461 of Title 28, Judiciary and Judicial Procedure, amending sections 5305, 5312, 5313, 5314, 5315 and 5316 of this title, sections 31, 60a note, 136a, 136a–1 and 356 of Title 2, The Congress, section 104 of Title 3, The President, section 68 of Title 11, Bankruptcy, sections 5, 44, 135, 173, 213, 252 and 792 of Title 28, sections 42a and 51a of former Title 31, Money and Finance, sections 162a and 166b of former Title 40, Public Buildings, Property, and Works, and section 303 of Title 44, Public Printing and Documents, and enacting provisions set out as a note under section 356 of Title 2\] may be cited as the ‘Executive Salary Cost-of-Living Adjustment Act’.”
 
 #### Salary Increases
 
-2001—Salaries of positions at level I increased to $161,200 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2001, as provided by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of this title.
+2003—Salaries of positions at level I increased to $171,900 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2003, as provided by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of this title.
+
+2002—Salaries of positions at level I increased to $166,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2002, as provided by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639.
+
+2001—Salaries of positions at level I increased to $161,200 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2001, as provided by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057.
 
 2000—Salaries of positions at level I increased to $157,000 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2000, as provided by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237.
 
@@ -156,7 +168,7 @@ Section 201 of title II of Pub. L. 94–82 provided that: “This title \[enacti
 
 1988—Salaries of positions at level I continued at $99,500 per annum by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
 
-1987—Salaries of positions at level I increased to $99,500 per annum, on recommendation of the Presidentof the United States, see note set out under section 358 of Title 2, The Congress.
+1987—Salaries of positions at level I increased to $99,500 per annum, on recommendation of the President of the United States, see note set out under section 358 of Title 2, The Congress.
 
 Salaries of positions at level I increased to $88,800 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 1987, as provided by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505.
 
@@ -170,7 +182,7 @@ Maximum rate payable after Dec. 17, 1982, increased from $69,630.00 to $80,100.0
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1983, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see section 101(e) of Pub. L. 97–276, as amended, set out as a note under section 5318 of this title.
 
-1981—Salaries of positions at level I increased to $85,200 per annum, effective on the first day of the first pay period beginning on or after Oct. 1, 1981, as provided by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921. Ex. Ord. No. 12330 further provided that pursuant to section 101(c) of Pub. L. 97–51 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1981, which was $69,630.00.
+1981—Salaries of positions at level I increased to $85,200 per annum, effective on the first day of the firstpay period beginning on or after Oct. 1, 1981, as provided by Ex. Ord. No. 12330, Oct. 15, 1981, 46 F.R. 50921. Ex. Ord. No. 12330 further provided that pursuant to section 101(c) of Pub. L. 97–51 funds are not available to pay a salary at a rate which exceeds the rate in effect on Sept. 30, 1981, which was $69,630.00.
 
 Limitations on use of funds for fiscal year ending Sept. 30, 1982, appropriated by any Act to pay the salary or pay of any individual in legislative, executive, or judicial branch in position equal to or above level V of the Executive Schedule, see sections 101(g) and 141 of Pub. L. 97–92, set out as a note under section 5318 of this title.
 
@@ -208,5 +220,5 @@ Provisions of Pub. L. 93–178, §1, Dec. 10, 1973, 87 Stat. 697, which fixed th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5315, 5377, 5380, 8432 of this title; title 2 section 362; title 10 sections 973, 1603; title 12 section 1723a; title 18 section 207; title 22 section 4606; title 26 sections 162, 3121, 7217; title 28 section 591; title 31 section 1344; title 38 section 7432; title 39 section 1003; title 42 sections 410, 7211, 7291; title 47 section 396; title 49 sections 106, 24315; title 50 App. section 2074.
+This section is referred to in sections 5315, 5377, 5380, 8432 of this title; title 2 section 362; title 10 sections 973, 1603; title 12 section 1723a; title 18 section 207; title 22 section 4606; title 24 section 415; title 26 sections 162, 3121, 7217; title 28 section 591; title 31 section 1344; title 38 section 7432; title 39 section 1003; title 42 sections 410, 7211, 7291; title 47 section 396; title 49 sections 106, 24315; title 50 App. section 2074.
 

@@ -2,7 +2,7 @@
 
 #### (a) Effect on State law
 
-(1) Except as provided in paragraph (2), nothing in this chapter shall affect the authority of any State or political subdivision of a State to establish or continue in effect regulation of anychemical substance, mixture, or article containing a chemical substance or mixture.
+(1) Except as provided in paragraph (2), nothing in this chapter shall affect the authority of any State or political subdivision of a State to establish or continue in effect regulation of any chemical substance, mixture, or article containing a chemical substance or mixture.
 
 (2) Except as provided in subsection (b) of this section—
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) The term “retirement fund” means the Court of Appeals for Veterans Claims Retirement Fund established under section 7298 of this title.
 
-&emsp;(5) The term “surviving spouse” means a surviving spouse of an individual who (A) was married to such individual for at least one year immediately preceding the individual's death, or (B) is a parent of issue by the marriage.
+&emsp;(5) The term “surviving spouse” means a surviving spouse of an individual who (A) was married to such individual for at least oneyear immediately preceding the individual's death, or (B) is a parent of issue by the marriage.
 
 &emsp;(6) The term “dependent child” has the meaning given the term “child” in section 376(a)(5) of title 28.
 
@@ -112,7 +112,7 @@
 
 &emsp;&emsp;(i) 1.5 percent of the judge's average annual pay; and
 
-&emsp;&emsp;(ii) the sum of the judge's years of judicial service, the judge's years of prior allowable service as a Member of Congress, the judge's years of prior allowable service performed as a member of the Armed Forces, and the judge's years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in section 2107 of title 5).
+&emsp;&emsp;(ii) the sum of the judge's years of judicial service, the judge's years of prior allowableservice as a Member of Congress, the judge's years of prior allowable service performed as a member of the Armed Forces, and the judge's years, not exceeding 15, of prior allowable service performed as a congressional employee (as defined in section 2107 of title 5).
 
 &emsp;(B) Three-fourths of 1 percent of the judge's average annual pay multiplied by the judge's years of allowable service not counted under subparagraph (A) of this paragraph.
 
@@ -160,7 +160,7 @@ Subsec. (f)(5). Pub. L. 106–117, §1023(e)(1)(B), added par. (5).
 
 1998—Subsec. (a)(1), (4). Pub. L. 105–368, §512(a)(1), substituted “Court of Appeals for Veterans Claims” for “Court of Veterans Appeals”.
 
-Subsec. (<i>o</i>). Pub. L. 105–368, §503, amended subsec. (<i>o</i>) generally. Prior to amendment, subsec. (<i>o</i>) read as follows: “Whenever the salaries of judges paid under section 7253(e) of this title are increased, each annuity payable from the retirement fund which is based, in whole or in part, upon a deceased judge having rendered some portion of that judge's final 18 months of service as a judge of the Court, shall also be increased. Theamount of the increase in the annuity shall be determined by multiplying the amount of the annuity on the date on which the increase in salaries becomes effective by 3 percent for each full 5 percent by which those salaries were increased.”
+Subsec. (<i>o</i>). Pub. L. 105–368, §503, amended subsec. (<i>o</i>) generally. Prior to amendment, subsec. (<i>o</i>) read as follows: “Whenever the salaries of judges paid under section 7253(e) of this title are increased, each annuity payable from the retirement fund which is based, in whole or in part, upon a deceased judge having rendered some portion of that judge's final 18 months of service as a judge of the Court, shall also be increased. The amount of the increase in the annuity shall be determined by multiplying the amount of the annuity on the date on which the increase in salaries becomes effective by 3 percent for each full 5 percent by which those salaries were increased.”
 
 1991—Pub. L. 102–40, §402(b)(1), renumbered section 4097 of this title as this section.
 

@@ -56,7 +56,7 @@
 
 &emsp;&emsp;&emsp;(i) examine the rate of, and trends in, ballast water discharge in the waters that are the subject of the survey; and
 
-&emsp;&emsp;&emsp;(ii) assess the effectiveness of voluntary guidelines issued, and regulations promulgated, under this subchapter in altering ballast water discharge practices to reduce the probability of accidental introductions of aquatic nuisance species.
+&emsp;&emsp;&emsp;(ii) assess the effectiveness of voluntary guidelines issued, and regulations promulgated, under this subchapter in alteringballast water discharge practices to reduce the probability of accidental introductions of aquatic nuisance species.
 
 #### (3) Columbia River
 

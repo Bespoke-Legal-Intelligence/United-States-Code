@@ -72,7 +72,7 @@ Pub. L. 101–123, §1, Oct. 23, 1989, 103 Stat. 759, provided that: “This Act
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–700, §1, Nov. 19, 1988, 102 Stat. 4631, provided that: “This Act \[enacting sections 293 and 1031 of this title and section 256 of Title 41, Public Contracts, amending section 2324 of Title 10, Armed Forces, and section 3730 of Title 31, Money and Finance, enacting provisions set out as notes under sections 293 and 1031 of this title, section 2324 of Title 10, and section 522 of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as a note under section 2324 of Title 10\] may be cited as the ‘Major Fraud Act of 1988’.”
+Pub. L. 100–700, §1, Nov. 19, 1988, 102 Stat. 4631, provided that: “This Act \[enacting sections 293 and 1031 ofthis title and section 256 of Title 41, Public Contracts, amending section 2324 of Title 10, Armed Forces, and section 3730 of Title 31, Money and Finance, enacting provisions set out as notes under sections 293 and 1031 of this title, section 2324 of Title 10, and section 522 of Title 28, Judiciary and Judicial Procedure, and repealing provisions set out as a note under section 2324 of Title 10\] may be cited as the ‘Major Fraud Act of 1988’.”
 
 #### Short Title of 1986 Amendment
 
@@ -90,5 +90,5 @@ Section 1 of Pub. L. 97–398 provided: “That this Act \[enacting sections 102
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 24, 981, 982, 1345, 3059A of this title; title 2 section 437g; title 7 sections 12a, 136h, 511r, 1314i, 5662, 6519; title 8 section 1324a; title 12 section 1833a; title 15 sections 637, 657a, 6003; title 17 section 1312; title 19 sections 2515, 3391, 3432; title 22 sections 1623, 3622; title 35 section 25; title 40 section 276c; title 42 sections 2000b–3, 2000c–6, 3795a; title 43 section 1212; title 49 sections 5307, 30170.
+This section is referred to in sections 24, 981, 982, 1345 of this title; title 2 section 437g; title 7 sections 12a, 136h, 511r, 1314i, 5662, 6519; title 8 section 1324a; title 12 section 1833a; title 15 sections 637, 657a, 6003; title 17 section 1312; title 19 sections 2515, 3391, 3432; title 21 section 374; title 22 sections 1623, 3622; title 35 section 25; title 40 section 3145; title 42 sections 2000b–3, 2000c–6, 3795a; title 43 section 1212; title 49 sections 5307, 30170.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator of the Rural Utilities Service (in this chapter referred to as the “Administrator”) shall issue and otherwise administer loan guarantees that have been approved by the Board in accordance with sections 1102 <sup>1</sup> and 1103 <sup>1</sup> of this title.
+The Administrator of the Rural Utilities Service (in this chapter referred to as the “Administrator”) shall issue and otherwise administer loan guarantees that have been approved by the Board in accordance with sections 1102 and 1103 of this title.
 
 #### (b) Security for protection of United States financial interests
 
@@ -16,7 +16,7 @@ The Administrator of the Rural Utilities Service (in this chapter referred to as
 
 &emsp;&emsp;(C) shall remain sufficiently capitalized; and
 
-&emsp;&emsp;(D) shall submit to, and cooperate fully with, any audit of the applicant under section 1105(a)(2) <sup>1</sup> of this title.
+&emsp;&emsp;(D) shall submit to, and cooperate fully with, any audit of the applicant under section 1105(a)(2) of this title.
 
 #### (2) Collateral
 
@@ -34,7 +34,7 @@ The Administrator of the Rural Utilities Service (in this chapter referred to as
 
 #### (3) Lien on interests in assets
 
-&emsp;Upon the Board's approval of a loan guarantee under this chapter, the Administrator shall have liens on assets securing the loan, which shall be superior to all other liens on such assets, and the value of the assets (based on a determination satisfactory to the Board) subject to the liens shall be at least equal to the unpaid balance of the loan amount covered by the loan guarantee, or that value approved by the Board under section 1103(d)(3)(B)(iii) <sup>1</sup> of this title.
+&emsp;Upon the Board's approval of a loan guarantee under this chapter, the Administrator shall have liens on assets securing the loan, which shall be superior to all other liens on such assets, and the value of the assets (based on a determination satisfactory to the Board) subject to the liens shall be at least equal to the unpaid balance of the loan amount covered by the loan guarantee, or that value approved by the Board under section 1103(d)(3)(B)(iii) of this title.
 
 #### (4) Perfected security interest
 
@@ -50,7 +50,7 @@ The holder of a loan guarantee under this chapter may assign the loan guaranteed
 
 #### (d) Expiration of loan guarantee upon stripping
 
-Notwithstanding subsections (c), (e), and (h) of this section, a loan guarantee under this chaptershall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
+Notwithstanding subsections (c), (e), and (h) of this section, a loan guarantee under this chapter shall have no force or effect if any part of the guaranteed portion of the loan is transferred separate and apart from the unguaranteed portion of the loan.
 
 #### (e) Adjustment
 
@@ -60,7 +60,7 @@ The Board may approve the adjustment of any term or condition of a loan guarante
 
 &emsp;(2) consent has been obtained from the parties to the loan agreement;
 
-&emsp;(3) the adjustment is consistent with the underwriting criteria developed under section 1103(g) <sup>1</sup> of this title;
+&emsp;(3) the adjustment is consistent with the underwriting criteria developed under section 1103(g) of this title;
 
 &emsp;(4) the adjustment does not adversely affect the interest of the Federal Government in the assets or collateral of the applicant;
 
@@ -80,7 +80,7 @@ The Board may approve the adjustment of any term or condition of a loan guarante
 
 #### (g) Compliance
 
-The Administrator, in cooperation with the Board and as the regulations of the Board may provide, shall enforce compliance by an applicant, and any other party to a loan guarantee for whose benefit assistance under this chapter is intended, with the provisions of this chapter, any regulations under this chapter, and the terms and conditions of the loan guarantee, including through the submittal of such reports and documents as the Board may require in regulations prescribed by the Board and through regular periodic inspections and audits.
+The Administrator, in cooperation with the Board and as the regulations of the Board may provide, shall enforce compliance by an applicant, and any other party to a loan guarantee for whose benefit assistance under this chapteris intended, with the provisions of this chapter, any regulations under this chapter, and the terms and conditions of the loan guarantee, including through the submittal of such reports and documents as the Board may require in regulations prescribed by the Board and through regular periodic inspections and audits.
 
 #### (h) Commercial validity
 
@@ -130,7 +130,7 @@ The Administrator shall commence a civil action in a court of appropriate jurisd
 
 #### (m) Attachment
 
-No attachment or execution may be issued against the Administrator or any property inthe control of the Administrator pursuant to this chapter before the entry of a final judgment (as to which all rights of appeal have expired) by a Federal, State, or other court of competent jurisdiction against the Administrator in a proceeding for such action.
+No attachment or execution may be issued against the Administrator or any property in the control of the Administrator pursuant to this chapter before the entry of a final judgment (as to which all rights of appeal have expired) by a Federal, State, or other court of competent jurisdiction against the Administrator in a proceeding for such action.
 
 #### (n) Fees
 
@@ -182,21 +182,27 @@ No attachment or execution may be issued against the Administrator or any proper
 
 (2) A discharge in bankruptcy under title 11 shall not release a person or entity from an obligation to the United States in connection with a loan guarantee under this chapter.
 
-(Pub. L. 106–553, §1(a)(2) \[title X, §1005\], Dec. 21, 2000, 114 Stat. 2762, 2762A–134.)
+(Pub. L. 106–553, §1(a)(2) \[title X, §1005\], Dec. 21, 2000, 114 Stat. 2762, 2762A–134; Pub. L. 107–171, title VI, §6404(b)(2), May 13, 2002, 116 Stat. 430.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”. See References in Text note set out under section 1101 of this title.
 
-Section 1102 this title, referred to in subsec. (a), was in the original a reference to section 3, and was translated as referring to section 1003 of title X of H.R. 5548, as enacted by Pub. L. 106–553, §1(a)(2), to reflect the probable intent of Congress. Pub. L. 106–553 does not contain a section 3 and section 1003 relates to the LOCAL Television Loan Guarantee Board.
+Section 1103(e)(1) of this title, referred to in subsec. (f)(1), was in the original a reference to section 4(e)(1), and was translated as referring to section 1004(e)(1) of title X of H.R. 5548, as enacted by Pub. L. 106–553, §1(a)(2), to reflect the probable intent of Congress. Pub. L. 106–553 does not contain a section 4 and section 1004 relates to projects to be given priority for loan guarantees.
 
-Section 1103 of this title, referred to in subsecs. (a), (b)(3), (e)(3), and (f)(1), was in the original a reference to section 4, and was translated as referring to section 1004 of title X of H.R. 5548, as enacted by Pub. L. 106–553, §1(a)(2), to reflect the probable intent of Congress. Pub. L. 106–553 does not contain a section 4 and section 1004 relates to loan guarantees, the value of collateral, underwriting criteria, and types of projects.
+#### Amendments
 
-Section 1105(a)(2) of this title, referred to in subsec. (b)(1)(D), was in the original “section 6(a)(2)”, and was translated as reading “section 1006(a)(2)”, meaning section 1006(a)(2) of title X of H.R. 5548, as enacted by Pub. L. 106–553, §1(a)(2), to reflect the probable intent of Congress. Pub. L. 106–553 does not contain a section 6 and section 1006(a)(2) relates to annual audit of financial position of applicants.
+2002—Subsec. (a). Pub. L. 107–171, §6404(b)(2)(A), made technical amendments to references in original Act which appear in text as references to sections 1102 and 1103 of this title.
+
+Subsec. (b)(1)(D). Pub. L. 107–171, §6404(b)(2)(B)(i), made technical amendment to reference in original Act which appears in text as a reference to section 1105(a)(2) of this title.
+
+Subsec. (b)(3). Pub. L. 107–171, §6404(b)(2)(B)(ii), made technical amendment to reference in original Act which appears in text as a reference to section 1103(d)(3)(B)(iii) of this title.
+
+Subsec. (e)(3). Pub. L. 107–171, §6404(b)(2)(C), made technical amendment to reference in original Act which appears in text as a reference to section 1103(g) of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1103 of this title.
+This section is referred to in sections 1103, 1109 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

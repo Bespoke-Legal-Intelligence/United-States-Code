@@ -14,7 +14,7 @@
 
 &emsp;(A) the requesting party is the direct lineal descendant of an individual who owned the sacred object;
 
-&emsp;(B) the requesting Indian tribe or Native Hawaiian organization can show that the objectwas owned or controlled by the tribe or organization; or
+&emsp;(B) the requesting Indian tribe or Native Hawaiian organization can show that the object was owned or controlled by the tribe or organization; or
 
 &emsp;(C) the requesting Indian tribe or Native Hawaiian organization can show that the sacred object was owned or controlled by a member thereof, provided that in the case where a sacred object was owned by a member thereof, there are no identifiable lineal descendants of said member or the lineal descendants, upon notice, have failed to make a claim for the object under this chapter.
 

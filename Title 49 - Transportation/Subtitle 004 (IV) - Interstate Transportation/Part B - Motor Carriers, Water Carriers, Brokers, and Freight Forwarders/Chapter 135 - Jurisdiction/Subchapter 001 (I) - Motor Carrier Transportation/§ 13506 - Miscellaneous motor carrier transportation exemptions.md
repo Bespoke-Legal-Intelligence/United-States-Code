@@ -6,9 +6,9 @@ In General.—Neither the Secretary nor the Board has jurisdiction under this pa
 
 &emsp;(1) a motor vehicle transporting only school children and teachers to or from school;
 
-&emsp;(2) a motor vehicle providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;
+&emsp;(2) a motor vehicle providing taxicab service;
 
-&emsp;(3) a motor vehicle owned or operated by or for a hotel and only transporting hotel patrons between the hotel and the local station of a carrier;
+&emsp;(3) a motor vehicle owned or operated by or for a hotel and only transporting hotel patronsbetween the hotel and the local station of a carrier;
 
 &emsp;(4) a motor vehicle controlled and operated by a farmer and transporting—
 
@@ -70,11 +70,11 @@ Exempt Unless Otherwise Necessary.—Except to the extent the Secretary or Board
 
 &emsp;&emsp;(B) that in transporting passengers over a route between a place in a State and a place in another State, or between a place in a State and another place in the same State through another State, the transportation is exempt from jurisdiction under this part only if the motor carrier operating the motor vehicle also is lawfully providing intrastate transportation of passengers over the entire route under the laws of each State through which the route runs;
 
-&emsp;(2) transportation by motor vehicle provided casually, occasionally, or reciprocally but not as a regular occupation or business, except when a broker or other person sells or offers for sale passenger transportation provided by a person authorized to transport passengers by motor vehicle under an application pending, or registration issued, under this part; or
+&emsp;(2) transportation by motor vehicle provided casually, occasionally, or reciprocally but not as a regular occupation or business, except when a broker or other person sells or offers for sale passenger transportation provided bya person authorized to transport passengers by motor vehicle under an application pending, or registration issued, under this part; or
 
 &emsp;(3) the emergency towing of an accidentally wrecked or disabled motor vehicle.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 861; amended Pub. L. 105–102, §2(8), Nov. 20, 1997, 111 Stat. 2204.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 861; amended Pub. L. 105–102, §2(8), Nov. 20, 1997, 111 Stat. 2204; Pub. L. 107–298, §3(b)(1), Nov. 26, 2002, 116 Stat. 2343.)
 
 #### Historical and Revision Notes
 
@@ -87,6 +87,8 @@ This amends 49:13506(a)(5) to correct a grammatical error.
 Provisions similar to those in this section were contained in section 10526 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
+
+2002—Subsec. (a)(2). Pub. L. 107–298 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “a motor vehicle providing taxicab service and having a capacity of not more than 6 passengers and not operated on a regular route or between specified places;”.
 
 1997—Subsec. (a)(5). Pub. L. 105–102 substituted “1141j(a)))” for “1141j(a))”.
 

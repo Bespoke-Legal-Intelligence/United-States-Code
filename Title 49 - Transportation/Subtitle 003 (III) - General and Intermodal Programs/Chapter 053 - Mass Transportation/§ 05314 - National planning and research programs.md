@@ -12,7 +12,7 @@ Program.—(1) The amounts made available under subsections (d) and (h)(7) of se
 
 (B) The Secretary shall establish an Industry Technical Panel composed of representatives of transportation suppliers and operators and others involved in technology development. A majority of the Panel members shall represent the supply industry. The Panel shall assist the Secretary in identifying priority technology development areas and in establishing guidelines for project development, project cost sharing, and project execution.
 
-(C) The Secretary shall develop guidelines for cost sharing in technology development projects financed under this paragraph. The guidelines shall be flexible and reflect the extent of technical risk, market risk, and anticipated supplier benefits and payback periods.
+(C) The Secretary shall develop guidelines for cost sharing in technology development projectsfinanced under this paragraph. The guidelines shall be flexible and reflect the extent of technical risk, market risk, and anticipated supplier benefits and payback periods.
 
 (5) The Secretary may use amounts appropriated under this subsection to supplement amounts available under section 5313(a) of this title, as the Secretary considers appropriate.
 

@@ -46,7 +46,7 @@ For purposes of subsection (a)(1) of this section, a drug made with a manufactur
 
 #### (A) Submission of report
 
-&emsp;&emsp;A holder making a manufacturing change to which paragraph (1)(A) applies shall submit to the Secretary a report on the change, which shall contain such information as the Secretary determines to be appropriate, and which shall include the information developed under subsection (b) of this section by the holder in validating the effects of the change. The report shall be submitted by such date as the Secretary may specify.
+&emsp;&emsp;A holder making a manufacturing change to which paragraph (1)(A) applies shall submit to the Secretary a report on the change, which shall contain such information as theSecretary determines to be appropriate, and which shall include the information developed under subsection (b) of this section by the holder in validating the effects of the change. The report shall be submitted by such date as the Secretary may specify.
 
 #### (B) Authority regarding annual reports
 

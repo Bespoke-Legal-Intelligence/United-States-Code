@@ -17,6 +17,10 @@
 
 1983—Pub. L. 97–452, §1(18)(B), Jan. 12, 1983, 96 Stat. 2477, added item for chapter 39.
 
+#### Subtitle Referred to in Other Sections
+
+This subtitle is referred to in title 10 section 2773a.
+
 
 ---
 

@@ -30,9 +30,11 @@ Advance Payment.—The allowance to an enlisted member may be paid in advance fo
 
 (d)
 
-Special Rule for Members Authorized to Mess Separately.—(1) In areas prescribed by the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, an enlisted member described in paragraph (2) is entitled to not more than the pro rata allowance in effect under paragraph (1) or (2) of subsection (b) for each meal the member buys from a source other than a messing facility of the United States.
+Special Rate for Enlisted Members Occupying Single Quarters Without Adequate Availability of Meals.—The Secretary of Defense, and the Secretary of the department in which the Coast Guard is operating, may pay an enlisted member the basic allowance for subsistence under this section at a monthly rate that is twice the amount in effect under subsection (b)(2) while—
 
-(2) An enlisted member referred to in paragraph (1) is a member who is granted permission to mess separately and whose duties require the member to buy at least one meal from a source other than a messing facility of the United States.
+&emsp;(1) the member is assigned to single Government quarters which have no adequate food storage or preparation facility in the quarters; and
+
+&emsp;(2) there is no Government messing facility serving those quarters that is capable of making meals available to the occupants of the quarters.
 
 (e)
 
@@ -48,7 +50,7 @@ Regulations.—(1) The Secretary of Defense shall prescribe regulations for the 
 
 (2) The regulations shall include the specific rates of basic allowance for subsistence required by subsection (b).
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771; Pub. L. 105–261, div. A, title VI, §604(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–144, 1654A–145; Pub. L. 107–107, div. A, title VI, §604(a), Dec. 28, 2001, 115 Stat. 1133.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 470; Pub. L. 89–444, §2(2), June 9, 1966, 80 Stat. 198; Pub. L. 93–419, §3(1)–(5), Sept. 19, 1974, 88 Stat. 1152; Pub. L. 96–513, title IV, §411, Dec. 12, 1980, 94 Stat. 2905; Pub. L. 98–94, title IX, §908(a), Sept. 24, 1983, 97 Stat. 637; Pub. L. 98–525, title VI, §605, Oct. 19, 1984, 98 Stat. 2537; Pub. L. 98–557, §17(d), Oct. 30, 1984, 98 Stat. 2868; Pub. L. 99–145, title XIII, §1303(b)(5), Nov. 8, 1985, 99 Stat. 740; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 104–106, div. A, title VI, §602(a)–(c)(1), Feb. 10, 1996, 110 Stat. 356, 357; Pub. L. 105–85, div. A, title VI, §602(a), Nov. 18, 1997, 111 Stat. 1771; Pub. L. 105–261, div. A, title VI, §604(a), Oct. 17, 1998, 112 Stat. 2037; Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–144, 1654A–145; Pub. L. 107–107, div. A, title VI, §604(a), Dec. 28, 2001, 115 Stat. 1133; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §603, Dec. 2, 2002, 116 Stat. 2566.)
 
 Historical and Revision Notes
 
@@ -128,6 +130,14 @@ In subsection (e), the words “Effective April 15, 1955,” are omitted as exec
 
 #### Amendments
 
+2002—Subsec. (d). Pub. L. 107–314 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows:
+
+“(1) In areas prescribed by the Secretary of Defense, and the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, an enlisted member described in paragraph (2) is entitled to not more than the pro rata allowance in effect under paragraph (1) or (2) of subsection (b) for each meal the member buys from a source other than a messing facility of the United States.
+
+“(2) An enlisted member referred to in paragraph (1) is a member who is granted permission to mess separately and whose duties require the member to buy at least one meal from a source other than a messing facility of the United States.”
+
+Pub. L. 107–296, which directed amendment of subsec. (d) by substituting “of Homeland Security” for “of Transportation”, could not be executed because the words “of Transportation” did not appear subsequent to amendment by Pub. L. 107–314, see above and Effective Date of 2002 Amendment note below.
+
 2001—Subsec. (b)(4). Pub. L. 107–107 added par. (4).
 
 2000—Subsec. (b)(1). Pub. L. 106–398, §1 \[\[div. A\], title VI, §603(a)(1)\], substituted “Through December 31, 2001, the monthly rate” for “The monthly rate” in introductory provisions.
@@ -170,6 +180,10 @@ Subsecs. (d) to (f). Pub. L. 93–419, §3(4), (5), struck out subsec. (d) which
 
 1966—Subsec. (c). Pub. L. 89–444 extended to aviation cadets of the Coast Guard the entitlement to the same basic allowance for subsistence as is provided for an officer of the Coast Guard.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+
 #### Effective Date of 1997 Amendment
 
 Section 602(g) of Pub. L. 105–85 provided that: “This section \[amending this section, section 404 of this title, and section 6081 of Title 10, Armed Forces, and enacting provisions set out as a note below\] and the amendments made by this section shall take effect on January 1, 1998.”
@@ -185,6 +199,10 @@ Amendment by Pub. L. 96–513 effective Sept. 15, 1981, but the authority to pre
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–419 effective Sept. 19, 1974, see section 9 of Pub. L. 93–419, set out as an Effective Date note under section 1009 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Rate for Enlisted Members When Messing Facilities Not Available
 

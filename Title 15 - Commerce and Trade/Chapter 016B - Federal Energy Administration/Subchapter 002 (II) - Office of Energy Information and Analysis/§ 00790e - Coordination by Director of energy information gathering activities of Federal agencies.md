@@ -8,7 +8,7 @@ In carrying out the purposes of this chapter the Director shall, as he deems app
 
 In exercising his responsibilities under subsection (a) of this section, the Director shall recommend policies which, to the greatest extent practicable—
 
-&emsp;(1) provide adequately for the energy information needs of the various departments andagencies of the Federal Government, the Congress, and the public;
+&emsp;(1) provide adequately for the energy information needs of the various departments and agencies of the Federal Government, the Congress, and the public;
 
 &emsp;(2) minimize the burden of reporting energy information on businesses, other persons, and especially small businesses;
 

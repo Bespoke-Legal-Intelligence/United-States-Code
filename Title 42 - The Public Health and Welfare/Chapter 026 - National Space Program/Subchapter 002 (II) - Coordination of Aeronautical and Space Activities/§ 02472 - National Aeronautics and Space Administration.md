@@ -2,7 +2,7 @@
 
 #### (a) Establishment; appointment and duties of Administrator
 
-There is established the National Aeronautics and Space Administration (hereinafter called the “Administration”). The Administration shall be headed by an Administrator, who shall be appointed from civilian life by the President by and with the advice and consent of the Senate. Under the supervision and direction of the President, the Administrator shall be responsible for the exercise of all powers and the discharge of all duties of the Administration, and shall have authority and control over all personnel and activities thereof.
+There is established the National Aeronautics and Space Administration (hereinafter called the “Administration”). The Administration shall be headed by an Administrator, who shall be appointed from civilian life by the President by and with the advice and consent of the Senate. Under the supervision and direction of thePresident, the Administrator shall be responsible for the exercise of all powers and the discharge of all duties of the Administration, and shall have authority and control over all personnel and activities thereof.
 
 #### (b) Deputy Administrator; appointment and duties
 
@@ -34,7 +34,7 @@ Section 301(a) of Pub. L. 85–568 provided that: “The National Advisory Commi
 
 #### Appointment of Commissioned Officer as Deputy Administrator
 
-Pub. L. 107–117, div. B, §307, Jan. 10, 2002, 115 Stat. 2301, provided that: “During fiscal year 2002 the President, acting by and with the consent of the Senate, is authorized to appoint a commissioned officer of the Armed Forces, in active status, to the Office of Deputy Administrator of the National Aeronautics and Space Administration notwithstanding section 202(b) of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2472(b)). If so appointed, the provisions of section 403(c)(3), (4), and (5) of title 50, United States Code, shall be applicable while the commissioned officer serves as Deputy Administrator in the same manner and extent as if the officer was serving in a position specified in section 403(c) of title 50, United StatesCode, except that the officer's military pay and allowances shall be reimbursed from funds available to the National Aeronautics and Space Administration.”
+Pub. L. 107–117, div. B, §307, Jan. 10, 2002, 115 Stat. 2301, provided that: “During fiscal year 2002 the President, acting by and with the consent of the Senate, is authorized to appoint a commissioned officer of the Armed Forces, in active status, to the Office of Deputy Administrator of the National Aeronautics and Space Administration notwithstanding section 202(b) of the National Aeronautics and Space Act of 1958 (42 U.S.C. 2472(b)). If so appointed, the provisions of section 403(c)(3), (4), and (5) of title 50, United States Code, shall be applicable while the commissioned officer serves as Deputy Administrator in the same manner and extent as if the officer was serving in a position specified in section 403(c) of title 50, United States Code, except that the officer's military pay and allowances shall be reimbursed from funds available to the National Aeronautics and Space Administration.”
 
 #### Appointment of Retired Military Officer as Administrator
 

@@ -128,7 +128,7 @@ Any order, including any regulation established by such order, issued under subs
 
 (iv) For fiscal year 2000 and subsequent fiscal years, the applicable amount under this clause is $3,000,000, or the amount specified in the budget request of the President for the fiscal year involved for carrying out the notification program under this subsection, whichever is less.
 
-(B) For purposes of carrying out the notification program under this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999through fiscal year 2003, except that such authorization of appropriations is not effective for a fiscal year for any amount that is less than the applicable amount under clause (iii) or (iv) of subparagraph (A), whichever is applicable.
+(B) For purposes of carrying out the notification program under this subsection, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1999 through fiscal year 2003, except that such authorization of appropriations is not effective for a fiscal year for any amount that is less than the applicable amount under clause (iii) or (iv) of subparagraph (A), whichever is applicable.
 
 (C) Not later than April 1 of fiscal year 1998 and February 1 of each subsequent fiscal year, the Secretary shall submit a report to the Committees on Appropriations of the House of Representatives and the Senate, the Committee on Commerce of the House of Representatives, and the Committee on Labor and Human Resources of the Senate that provides an estimate of the Secretary of the costs of carrying out the notification program established under this subsection for the next fiscal year.
 
@@ -136,7 +136,7 @@ Any order, including any regulation established by such order, issued under subs
 
 #### (i) Amendment or repeal of regulations
 
-The Secretary shall by regulation prescribe the procedure by which regulations under the foregoing provisions of this section may be amended or repealed, and such procedure shall conform to the procedure provided in this section for the promulgation of such regulations. The Secretary shall by regulation prescribe the procedure by which the Secretary may deem a notification under subsection (h) of this section to no longer be effective.
+The Secretary shall by regulation prescribe the procedure by which regulations under theforegoing provisions of this section may be amended or repealed, and such procedure shall conform to the procedure provided in this section for the promulgation of such regulations. The Secretary shall by regulation prescribe the procedure by which the Secretary may deem a notification under subsection (h) of this section to no longer be effective.
 
 #### (j) Exemptions for investigational use
 
@@ -204,7 +204,7 @@ Lead and Cadmium Based Enamel.—Unless the Secretary determines, based on avail
 
 &emsp;“(2) which is not, by design, representation, or custom of usage intended for use by children,
 
-> is unsafe, the Secretary shall not take any action before January 1, 2003, to ban lead and cadmium based enamel on such glass and ceramic ware. Any action taken after January 1, 2003, to ban such enamel on such glass and ceramic ware as an unapproved food additive shall be taken by regulation and such regulation shall provide that such products shall not be removed from the market before 1 year after publication of the final regulation.”
+> is unsafe, the Secretary shall not take any action before January 1, 2003, to ban lead and cadmium based enamel on such glass and ceramic ware. Any action taken after January 1, 2003, to ban such enamel on such glass and ceramic ware as an unapproved food additive shall be taken by regulation and such regulation shall provide that such products shall not be removed fromthe market before 1 year after publication of the final regulation.”
 
 #### Moratorium on Authority of Secretary With Respect to Saccharin
 

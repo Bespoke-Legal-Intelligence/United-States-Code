@@ -4,7 +4,7 @@
 
 #### (1) Limitation on use of appropriated funds
 
-&emsp;From the appropriations authorized for fiscal year 1978 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act (78 Stat. 897), as amended \[16 U.S.C.460<i>l</i>–4 et seq.\], not more than $115,000,000 may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this subchapter. For purposes of section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–9(a)(3)), the statutory ceiling on appropriations under this subsection shall be deemed to be a statutory ceiling contained in a provision of law enacted prior to the convening of the Ninety-sixth Congress.
+&emsp;From the appropriations authorized for fiscal year 1978 and succeeding fiscal years pursuant to the Land and Water Conservation Fund Act (78 Stat. 897), as amended \[16 U.S.C. 460<i>l</i>–4 et seq.\], not more than $115,000,000 may be expended for the acquisition of lands and interests in lands authorized to be acquired pursuant to the provisions of this subchapter. For purposes of section 7(a)(3) of the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–9(a)(3)), the statutory ceiling on appropriations under this subsection shall be deemed to be a statutory ceiling contained in a provision of law enacted prior to the convening of the Ninety-sixth Congress.
 
 #### (2) Donations
 
@@ -56,7 +56,7 @@ Effective on October 1, 1978, there are authorized to be appropriated not to exc
 
 (3) Following receipt of the notifying agency's decisions pursuant to paragraph (1)(C), the Secretary shall submit to the appropriate committees of Congress, including the authorizing committees with primary jurisdiction for the program under which the proposed action is being taken, a copy of the notifying agency's specific decisions made pursuant to paragraph (1)(C), along with a copy of the comments and recommendations made pursuant to paragraph (1)(B).
 
-(4) In any instance in which the Secretary has not been notified of a Federal agency's proposed action within the corridor, and on his or her owndetermination finds that such action may have a significant adverse effect on the natural or cultural resources of the recreation area, the Secretary shall notify the head of such Federal agency in writing. Upon such notification by the Secretary, such agency shall promptly comply with the provisions of subparagraphs (A), (B), and (C) of paragraph (1) of this subsection.
+(4) In any instance in which the Secretary has not been notified of a Federal agency's proposed action within the corridor, and on his or her own determination finds that such action may have a significant adverse effect on the natural or cultural resources of the recreation area, the Secretary shall notify the head of such Federal agency in writing. Upon such notification by the Secretary, such agency shall promptly comply with the provisions of subparagraphs (A), (B), and (C) of paragraph (1) of this subsection.
 
 (5) Each agency or instrumentality of the United States conducting Federal action upon federally owned lands or waters which are administered by the Secretary and which are located within the authorized boundary of the recreation area shall not commence such action until such time as the Secretary has concurred in such action.
 

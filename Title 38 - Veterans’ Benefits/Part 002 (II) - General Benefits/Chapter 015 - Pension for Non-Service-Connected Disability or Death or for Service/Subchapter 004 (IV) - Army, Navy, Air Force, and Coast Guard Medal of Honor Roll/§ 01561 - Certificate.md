@@ -2,7 +2,7 @@
 
 (a) The Secretary concerned shall determine whether or not each applicant is entitled to have such person's name entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll. If the official award of the Medal of Honor to the applicant, or the official notice to such person thereof, shows that the Medal of Honor was awarded to the applicant for an act described in section 1560 of this title, such award or notice shall be sufficient to entitle the applicant to have such person's name entered on such roll without further investigation; otherwise all official correspondence, orders, reports, recommendations, requests, and other evidence on file in any public office or department shall be considered.
 
-(b) Each person whose name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll shall be furnished a certificate of service and of the act of heroism, gallantry, bravery, or intrepidity for which the Medal of Honor was awarded, of enrollment on such roll, and, if such person has indicated such person's desire to receive the special pension provided by section 1562 of this title, of such person's right to such special pension.
+(b) Each person whose name is entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor Roll shall be furnished a certificate of service and of the act of heroism, gallantry, bravery, or intrepidity for which the Medal of Honor was awarded, of enrollment on such roll, and, if such person has indicated such person'sdesire to receive the special pension provided by section 1562 of this title, of such person's right to such special pension.
 
 (c) The Secretary concerned shall deliver to the Secretary a certified copy of each certificate issued under subsection (b) in which the right of the person named in the certificate to the special pension provided by section 1562 of this title is set forth. Such copy shall authorize the Secretary to pay such special pension to the person named in the certificate.
 
@@ -43,6 +43,10 @@ Section 106 of Pub. L. 94–169 provided that the amendment made by that section
 #### Effective Date of 1961 Amendment
 
 Amendment by Pub. L. 87–138 effective Sept. 1, 1961, except that it shall not apply with respect to applications under section 1560 \[formerly 560\] of this title made prior to Sept. 1, 1961, by anyone who fulfilled the qualifications prescribed by subsec. (b) of such section 1560 \[formerly 560\] at the time such application was made, see section 4 of Pub. L. 87–138, set out as a note under section 1560 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

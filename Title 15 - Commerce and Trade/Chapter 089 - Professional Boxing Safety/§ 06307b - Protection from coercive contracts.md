@@ -8,7 +8,7 @@
 
 &emsp;(ii) is a coercive provision described in subparagraph (B) and the other boxer under contract to the promoter came under that contract pursuant to a coercive provision described in subparagraph (B).
 
-(B) A coercive provision described in this subparagraph is a contract provision that grants any rights between a boxer and a promoter, or between promoters with respect to a boxer, if the boxer is required to grant such rights, or a boxer's promoter is required to grant such rights with respect to a boxer to another promoter, as a condition precedent to the boxer's participation in a professional boxing match against another boxer who is under contract to the promoter.
+(B) A coercive provision described in this subparagraph is a contract provision that grants any rights between a boxer and a promoter, orbetween promoters with respect to a boxer, if the boxer is required to grant such rights, or a boxer's promoter is required to grant such rights with respect to a boxer to another promoter, as a condition precedent to the boxer's participation in a professional boxing match against another boxer who is under contract to the promoter.
 
 (2) This subsection shall only apply to contracts entered into after May 26, 2000.
 

@@ -56,7 +56,7 @@ Advisory Committee.—(1) Not later than December 24, 1992, the Attorney General
 
 &emsp;(x) one individual who is qualified to represent the interests of consumers.
 
-(B) The Attorney General shall appoint the individuals described in subparagraph (A)(iii)–(x) of this paragraph and shall serve as chairman of the committee.
+(B) The Attorney General shall appoint the individuals described in subparagraph (A)(iii)–(x)of this paragraph and shall serve as chairman of the committee.
 
 (3) The committee shall make recommendations on developing and carrying out—
 

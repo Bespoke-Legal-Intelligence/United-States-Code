@@ -18,11 +18,11 @@ Authorization and impact considerations.—In establishing fees under subsection
 
 &emsp;&emsp;(A) is authorized to recover in fiscal year 1997 $100,000,000; and
 
-&emsp;&emsp;(B) shall ensure that each of the fees required by subsection (a) is reasonably related to the Administration's costs, as determined by the Administrator, of providing the service rendered. Services for which costs may be recovered include the costs of air traffic control, navigation, weather services, training and emergency services which are available to facilitate safe transportation over the United States, and other services provided by the Administrator or by programs financed by the Administrator to flights that neither take off nor land in the United States. The Determination <sup>2</sup> of such costs by the Administrator is not subject to judicial review.
+&emsp;&emsp;(B) shall ensure that each of the fees required by subsection (a) is reasonably related to the Administration's costs, as determined by the Administrator, of providing the service rendered. Services for which costs may be recovered include the costs of air traffic control, navigation, weather services, training and emergency services whichare available to facilitate safe transportation over the United States, and other services provided by the Administrator or by programs financed by the Administrator to flights that neither take off nor land in the United States. The Determination <sup>2</sup> of such costs by the Administrator is not subject to judicial review.
 
 &emsp;(2)
 
-Publication; comment.—The Administrator shall publish in the Federal Register aninitial fee schedule and associated collection process as an interim final rule, pursuant to which public comment will be sought and a final rule issued.
+Publication; comment.—The Administrator shall publish in the Federal Register an initial fee schedule and associated collection process as an interim final rule, pursuant to which public comment will be sought and a final rule issued.
 
 (c)
 

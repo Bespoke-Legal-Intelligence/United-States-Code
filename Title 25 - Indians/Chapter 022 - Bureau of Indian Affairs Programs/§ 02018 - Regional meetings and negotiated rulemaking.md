@@ -18,7 +18,7 @@ Prior to publishing any proposed regulations under subsection (b)(1) of this sec
 
 &emsp;The Secretary shall establish a negotiated rulemaking committee to carry out this subsection. In establishing such committee, the Secretary shall—
 
-&emsp;&emsp;(A) apply the procedures provided for under subchapter III of chapter 5 of title 5 ina manner that reflects the unique government-to-government relationship between Indian tribes and the United States;
+&emsp;&emsp;(A) apply the procedures provided for under subchapter III of chapter 5 of title 5 in a manner that reflects the unique government-to-government relationship between Indian tribes and the United States;
 
 &emsp;&emsp;(B) ensure that the membership of the committee includes only representatives of the Federal Government and of tribes served by Bureau-funded schools;
 

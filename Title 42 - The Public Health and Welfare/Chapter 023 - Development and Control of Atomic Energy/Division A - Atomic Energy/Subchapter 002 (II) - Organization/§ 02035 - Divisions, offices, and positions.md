@@ -4,7 +4,7 @@ There is established within the Commission—
 
 #### (a) Program divisions; appointment and powers of Assistant General Manager and Division Directors
 
-&emsp;a Division of Military Application and such other program divisions (not to exceed ten innumber) as the Commission may determine to the necessary to the discharge of its responsibilities, including a division or divisions the primary responsibilities of which include the development and application of civilian uses of atomic energy. The Division of Military Application shall be under the direction of an Assistant General Manager for Military Application, who shall be appointed by the Commission and shall be an active commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate. Each other program division shall be under the direction of a Director who shall be appointed by the Commission. The Commission shall require each such division to exercise such of the Commission's administrative and executive powers as the Commission may determine;
+&emsp;a Division of Military Application and such other program divisions (not to exceed ten in number) as the Commission may determine to the necessary to the discharge of its responsibilities, including a division or divisions the primary responsibilities of which include the development and application of civilian uses of atomic energy. The Division of Military Application shall be under the direction of an Assistant General Manager for Military Application, who shall be appointed by the Commission and shall be an active commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate. Each other program division shall be under the direction of a Director who shall be appointed by the Commission. The Commission shall require each such division to exercise such of the Commission's administrative and executive powers as the Commission may determine;
 
 #### (b) General Counsel
 
@@ -26,7 +26,7 @@ Provisions similar to this section were contained in section 1802(a)(4)(B) of th
 
 #### Amendments
 
-1967—Subsec. (a). Pub. L. 90–190 substituted an Assistant General Manager for Military Application, who would be appointed by the Commission, for the Director of the Division of Military Application as the head of the Division of Military Application, inserted requirement that the Assistant General Manager be a commissioned officer of the Armed Forces serving in general or flag officer rank or grade, as appropriate, and substituted “other program division” for “such division”.
+1967—Subsec. (a). Pub. L. 90–190 substituted an Assistant General Manager for Military Application, who would be appointed by the Commission, for the Director of the Division of Military Application as the head of the Division of Military Application, inserted requirement that the Assistant General Manager be a commissioned officer of the Armed Forces serving ingeneral or flag officer rank or grade, as appropriate, and substituted “other program division” for “such division”.
 
 1964—Subsec. (a). Pub. L. 88–426, §306(f)(4), struck out provisions which prescribed the compensation of directors of program divisions.
 

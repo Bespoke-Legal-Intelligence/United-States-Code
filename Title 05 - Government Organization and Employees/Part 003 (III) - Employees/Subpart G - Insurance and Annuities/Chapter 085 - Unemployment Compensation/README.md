@@ -36,7 +36,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 2 section 906; title 18 section 1919; title 19 section 2319; title 22 section 3664; title 28 section 996.
+This chapter is referred to in title 2 sections 60c–5, 906; title 18 section 1919; title 19 section 2319; title 22 sections 3664, 7002; title 28 section 996; title 49 section 40122.
 
 
 ---

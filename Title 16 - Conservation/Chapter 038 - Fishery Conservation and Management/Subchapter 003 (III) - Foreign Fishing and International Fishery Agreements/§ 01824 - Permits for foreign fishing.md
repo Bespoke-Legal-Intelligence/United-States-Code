@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-After February 28, 1977, no foreign fishing vessel shall engage in fishing within the exclusive economic zone, or for anadromous species or Continental Shelf fishery resources beyond suchzone, unless such vessel has on board a valid permit issued under this section for such vessel.
+After February 28, 1977, no foreign fishing vessel shall engage in fishing within the exclusive economic zone, or for anadromous species or Continental Shelf fishery resources beyond such zone, unless such vessel has on board a valid permit issued under this section for such vessel.
 
 #### (b) Applications and permits under governing international fishery agreements
 
@@ -52,7 +52,7 @@ After February 28, 1977, no foreign fishing vessel shall engage in fishing withi
 
 &emsp;(A) After receipt of any application transmitted under paragraph (4)(A), the Secretary shall consult with the Secretary of State and, with respect to enforcement, with the Secretary of the department in which the Coast Guard is operating. The Secretary, after taking into consideration the views and recommendations of such Secretaries, and any comments submitted by any Council under paragraph (5), may approve, subject to subparagraph (B), the application, if he determines that the fishing described in the application will meet the requirements of this chapter, or he may disapprove all or any portion of the application.
 
-&emsp;(B)(i) In the case of any application which specifies that one or more foreign fishing vessels propose to receive at sea United States harvested fish from vessels of the United States, the Secretary may approve the application unless the Secretary determines, on the basis of the views, recommendations, and comments referred to in subparagraph (A) and other pertinent information, that United States fish processors have adequate capacity, and will utilize such capacity, to process all United States harvested fish from the fishery concerned.
+&emsp;(B)(i) In the case of any application which specifies that one or more foreign fishing vessels propose to receive at sea United States harvested fish from vessels of the United States, the Secretary may approve the application unless the Secretary determines, on the basis of the views, recommendations, and comments referred to in subparagraph (A) andother pertinent information, that United States fish processors have adequate capacity, and will utilize such capacity, to process all United States harvested fish from the fishery concerned.
 
 &emsp;(ii) The amount or tonnage of United States harvested fish which may be received at sea during any year by foreign fishing vessels under permits approved under this paragraph may not exceed that portion of the optimum yield of the fishery concerned which will not be utilized by United States fish processors.
 
@@ -60,7 +60,7 @@ After February 28, 1977, no foreign fishing vessel shall engage in fishing withi
 
 #### (7) Establishment of conditions and restrictions
 
-&emsp;The Secretary shall establish conditions and restrictions which shall be included in each permit issued pursuant to any application approved under paragraph (6) or subsection (d) ofthis section and which must be complied with by the owner or operator of the fishing vessel for which the permit is issued. Such conditions and restrictions shall include the following:
+&emsp;The Secretary shall establish conditions and restrictions which shall be included in each permit issued pursuant to any application approved under paragraph (6) or subsection (d) of this section and which must be complied with by the owner or operator of the fishing vessel for which the permit is issued. Such conditions and restrictions shall include the following:
 
 &emsp;&emsp;(A) All of the requirements of any applicable fishery management plan, or preliminary fishery management plan, and any applicable Federal or State fishing regulations.
 
@@ -106,7 +106,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### (1) Authority to issue permits
 
-&emsp;The Secretary may issue a transshipment permit under this subsection which authorizes a vessel other than a vessel of the United States to engage in fishing consisting solely of transporting fish or fish products at sea from a point within the exclusive economic zone or, with the concurrence of a State, within the boundaries of that State, to a point outside the United States to any person who—
+&emsp;The Secretary may issue a transshipment permit under this subsection which authorizes a vessel other than a vessel of the UnitedStates to engage in fishing consisting solely of transporting fish or fish products at sea from a point within the exclusive economic zone or, with the concurrence of a State, within the boundaries of that State, to a point outside the United States to any person who—
 
 &emsp;&emsp;(A) submits an application which is approved by the Secretary under paragraph (3); and
 
@@ -118,7 +118,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### (3) Approval of application
 
-&emsp;The Secretary may approve, in consultation with the appropriate Council or Marine Fisheries Commission, an application for a permitunder this section if the Secretary determines that—
+&emsp;The Secretary may approve, in consultation with the appropriate Council or Marine Fisheries Commission, an application for a permit under this section if the Secretary determines that—
 
 &emsp;&emsp;(A) the transportation of fish or fish products to be conducted under the permit, as described in the application, will be in the interest of the United States and will meet the applicable requirements of this chapter;
 
@@ -178,7 +178,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### (4) Marine conservation plans
 
-&emsp;(A) Prior to entering into a Pacific Insular Area fishery agreement, the Western PacificCouncil and the appropriate Governor shall develop a 3-year marine conservation plan detailing uses for funds to be collected by the Secretary pursuant to such agreement. Such plan shall be consistent with any applicable fishery management plan, identify conservation and management objectives (including criteria for determining when such objectives have been met), and prioritize planned marine conservation projects. Conservation and management objectives shall include, but not be limited to—
+&emsp;(A) Prior to entering into a Pacific Insular Area fishery agreement, the Western Pacific Council and the appropriate Governor shall develop a 3-year marine conservation plan detailing uses for funds to be collected by the Secretary pursuant to such agreement. Such plan shall be consistent with any applicable fishery management plan, identify conservation and management objectives (including criteria for determining when such objectives have been met), and prioritize planned marine conservation projects. Conservation and management objectives shall include, but not be limited to—
 
 &emsp;&emsp;(i) establishment of Pacific Insular Area observer programs, approved by the Secretary in consultation with the Western Pacific Council, that provide observer coverage for foreign fishing under Pacific Insular Area fishery agreements that is at least equal in effectiveness to the program established by the Secretary under section 1821(h) of this title;
 
@@ -214,7 +214,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 &emsp;&emsp;(A) the Western Pacific Council for the purpose of carrying out the provisions of this subsection, including implementation of a marine conservation plan approved under paragraph (4);
 
-&emsp;&emsp;(B) the Secretary of State for mutually agreed upon travel expenses for no more than 2 Federal representatives incurred as a direct result of complying with paragraph (1)(B); and
+&emsp;&emsp;(B) the Secretary of State for mutually agreed upon travel expenses for no morethan 2 Federal representatives incurred as a direct result of complying with paragraph (1)(B); and
 
 &emsp;&emsp;(C) the Western Pacific Council to meet conservation and management objectives in the State of Hawaii if monies remain in the Western Pacific Sustainable Fisheries Fund after the funding requirements of subparagraphs (A) and (B) have been satisfied.
 
@@ -222,7 +222,7 @@ The Secretary of State, in cooperation with the Secretary, shall issue annually 
 
 #### (8) Use of fines and penalties
 
-&emsp;In the case of violations occurring within the exclusive economic zone off American Samoa, Guam, or the Northern Mariana Islands, amounts received by the Secretary which are attributable to fines or penalties imposed under this chapter, including such sums collected from the forfeiture and disposition or sale of property seized subject to its authority, after payment of direct costs of theenforcement action to all entities involved in such action, shall be deposited into the Treasury of the Pacific Insular Area adjacent to the exclusive economic zone in which the violation occurred, to be used for fisheries enforcement and for implementation of a marine conservation plan under paragraph (4).
+&emsp;In the case of violations occurring within the exclusive economic zone off American Samoa, Guam, or the Northern Mariana Islands, amounts received by the Secretary which are attributable to fines or penalties imposed under this chapter, including such sums collected from the forfeiture and disposition or sale of property seized subject to its authority, after payment of direct costs of the enforcement action to all entities involved in such action, shall be deposited into the Treasury of the Pacific Insular Area adjacent to the exclusive economic zone in which the violation occurred, to be used for fisheries enforcement and for implementation of a marine conservation plan under paragraph (4).
 
 (Pub. L. 94–265, title II, §204, Apr. 13, 1976, 90 Stat. 342; Pub. L. 95–354, §4(5)–(8), Aug. 28, 1978, 92 Stat. 520, 521; Pub. L. 96–470, title I, §111(b), title II, §208, Oct. 19, 1980, 94 Stat. 2239, 2245; Pub. L. 96–561, title II, §232, Dec. 22, 1980, 94 Stat. 3298; Pub. L. 97–453, §3, Jan. 12, 1983, 96 Stat. 2483; Pub. L. 99–272, title VI, §6021, Apr. 7, 1986, 100 Stat. 123; Pub. L. 99–659, title I, §§101(c)(2), 102, 103(b), Nov. 14, 1986, 100 Stat. 3707, 3709; Pub. L. 101–627, title I, §§106, 120(b), Nov. 28, 1990, 104 Stat. 4440, 4459; Pub. L. 102–251, title III, §301(f), Mar. 9, 1992, 106 Stat. 64; Pub. L. 104–297, title I, §105(d), Oct. 11, 1996, 110 Stat. 3564.)
 
@@ -264,7 +264,7 @@ Subsec. (b)(10). Pub. L. 99–272 amended par. (10) generally. Prior to amendmen
 
 Subsec. (b)(10)(B), (C). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-Subsec. (b)(12). Pub. L. 99–659, §102(4), amended par. (12) generally. Prior to amendment, par. (12) read as follows: “If any foreign fishing vessel for which a permit has been issued pursuant to this subsection has been used in the commission of any act prohibited by section 1857 of this title the Secretary may, or if any civil penalty imposed under section 1858 of this title or any criminal fine imposed under section 1859 of this title has not been paid and is overdue the Secretary shall—
+Subsec. (b)(12). Pub. L. 99–659, §102(4), amended par. (12) generally. Prior to amendment, par. (12) read asfollows: “If any foreign fishing vessel for which a permit has been issued pursuant to this subsection has been used in the commission of any act prohibited by section 1857 of this title the Secretary may, or if any civil penalty imposed under section 1858 of this title or any criminal fine imposed under section 1859 of this title has not been paid and is overdue the Secretary shall—
 
 &emsp;“(A) revoke such permit, with or without prejudice to the right of the foreign nation involved to obtain a permit for such vessel in any subsequent year;
 
@@ -309,6 +309,10 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 Section 232(a) of Pub. L. 96–561 provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section for 1981.
 
 Section 232(b) of Pub. L. 96–561 provided that the amendment made by that section is effective with respect to permits issued under subsec. (b) of this section after 1981.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

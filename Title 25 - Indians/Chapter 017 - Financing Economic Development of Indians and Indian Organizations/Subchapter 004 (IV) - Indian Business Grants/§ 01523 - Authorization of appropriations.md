@@ -1,6 +1,6 @@
 ### §1523. Authorization of appropriations
 
-There are authorized to be appropriated not to exceed the sum of $10,000,000 per year for fiscalyear 1986 and each fiscal year thereafter for the purposes of this subchapter.
+There are authorized to be appropriated not to exceed the sum of $10,000,000 per year for fiscal year 1986 and each fiscal year thereafter for the purposes of this subchapter.
 
 (Pub. L. 93–262, title IV, §403, Apr. 12, 1974, 88 Stat. 83; Pub. L. 95–68, July 20, 1977, 91 Stat. 272; Pub. L. 98–449, §10, Oct. 4, 1984, 98 Stat. 1726.)
 

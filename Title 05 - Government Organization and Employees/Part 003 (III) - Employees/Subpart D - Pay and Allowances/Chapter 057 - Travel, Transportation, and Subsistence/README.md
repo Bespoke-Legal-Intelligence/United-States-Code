@@ -69,10 +69,21 @@
 | [5754\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005754%20-%20Retention%20allowances.md) | Retention allowances. |
 | [5755\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005755%20-%20Supervisory%20differentials.md) | Supervisory differentials. |
 | [5756\.](Subchapter%20004%20%28IV%29%20-%20Miscellaneous%20Provisions/%C2%A7%2005756%20-%20Home%20marketing%20incentive%20payment.md) | Home marketing incentive payment. |
+| 5757\.<sup>1</sup> | Payment of expenses to obtain professional credentials. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 5757\.<sup>1</sup> | Extended assignment incentive. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–273, div. A, title II, §207(a)(2), Nov. 2, 2002, 116 Stat. 1780, added item 5757 “Extended assignment incentive”.
+
+2001—Pub. L. 107–107, div. A, title XI, §1112(b), Dec. 28, 2001, 115 Stat. 1239, added item 5757 “Payment of expenses to obtain professional credentials”.
 
 1998—Pub. L. 105–264, §§4(b), 5(c), Oct. 19, 1998, 112 Stat. 2354, 2355, added items 5706c, 5710, and 5739.
 
@@ -104,7 +115,7 @@ Pub. L. 90–83 §1(37)(B), Sept. 11, 1967, 81 Stat. 205, added item 5724a.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3396, 5307 of this title; title 14 section 193; title 18 section 3168; title 22 section 3671; title 26 section 7471; title 42 section 5816; title 43 section 50d; title 49 section 106.
+This chapter is referred to in sections 3396, 5307, 9701 of this title; title 14 section 193; title 18 section 3168; title 22 section 3671; title 26 section 7471; title 42 section 5816; title 43 section 50d; title 49 section 106.
 
 
 ---

@@ -158,7 +158,7 @@ Sec. 2. (a) Notwithstanding any other provision of law, an annuitant, as defined
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6302 of this title; title 2 section 162b.
+This section is referred to in section 6302 of this title; title 2 section 162b; title 28 section 179.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

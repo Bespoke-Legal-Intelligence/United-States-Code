@@ -24,7 +24,7 @@
 
 #### (b) Indemnification of surety against loss from avoiding breach
 
-Subject to the provisions of this section, in connection with the issuance by the Administration of a guarantee to a surety as provided by subsection (a) of this section, the Administration may agree to indemnify such surety against a loss sustained by such surety in avoiding or attempting to avoid a breach of the terms of abond guaranteed by the Administration pursuant to subsection (a) of this section: <i>Provided, however—</i>
+Subject to the provisions of this section, in connection with the issuance by the Administration of a guarantee to a surety as provided by subsection (a) of this section, the Administration may agree to indemnify such surety against a loss sustained by such surety in avoiding or attempting to avoid a breach of the terms of a bond guaranteed by the Administration pursuant to subsection (a) of this section: <i>Provided, however—</i>
 
 &emsp;(1) prior to making any payment under this subsection, the Administration shall first determine that a breach of the terms of such bond was imminent;
 
@@ -46,7 +46,7 @@ Any guarantee or agreement to indemnify under this section shall obligate the Ad
 
 &emsp;&emsp;(A) the total amount of the contract at the time of execution of the bond or bonds is $100,000 or less, or
 
-&emsp;&emsp;(B) the bond was issued to a small business concern owned and controlled by socially and economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title); or
+&emsp;&emsp;(B) the bond was issued to a small business concern owned and controlled by sociallyand economically disadvantaged individuals as defined by section 637(d) of this title, or to a qualified HUBZone small business concern (as defined in section 632(p) of this title); or
 
 &emsp;(4) determined pursuant to subsection (b) of this section, if applicable.
 

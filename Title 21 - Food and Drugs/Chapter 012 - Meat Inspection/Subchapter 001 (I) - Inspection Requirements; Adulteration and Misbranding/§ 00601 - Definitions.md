@@ -6,7 +6,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 (b) The term “firm” means any partnership, association, or other unincorporated business organization.
 
-(c) The term “meat broker” means any person, firm, or corporation engaged in the business of buying or selling carcasses, parts of carcasses, meat, or meat food products of cattle, sheep,swine, goats, horses, mules, or other equines on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person, firm, or corporation.
+(c) The term “meat broker” means any person, firm, or corporation engaged in the business of buying or selling carcasses, parts of carcasses, meat, or meat food products of cattle, sheep, swine, goats, horses, mules, or other equines on commission, or otherwise negotiating purchases or sales of such articles other than for his own account or as an employee of another person, firm, or corporation.
 
 (d) The term “renderer” means any person, firm, or corporation engaged in the business of rendering carcasses or parts or products of the carcasses, of cattle, sheep, swine, goats, horses, mules, or other equines, except rendering conducted under inspection or exemption under this subchapter.
 
@@ -66,7 +66,7 @@ As used in this chapter, except as otherwise specified, the following terms shal
 
 &emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
-&emsp;(7) if it purports to be or is represented as a food for which a definition and standard of identity or composition has been prescribed by regulations of the Secretary under section 607 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
+&emsp;(7) if it purports to be or is represented as a food for which a definition and standard ofidentity or composition has been prescribed by regulations of the Secretary under section 607 of this title unless (A) it conforms to such definition and standard, and (B) its label bears the name of the food specified in the definition and standard and, insofar as may be required by such regulations, the common names of optional ingredients (other than spices, flavoring, and coloring) present in such food;
 
 &emsp;(8) if it purports to be or is represented as a food for which a standard or standards of fill of container have been prescribed by regulations of the Secretary under section 607 of this title, and it falls below the standard of fill of container applicable thereto, unless its label bears, in such manner and form as such regulations specify, a statement that it falls below such standard;
 

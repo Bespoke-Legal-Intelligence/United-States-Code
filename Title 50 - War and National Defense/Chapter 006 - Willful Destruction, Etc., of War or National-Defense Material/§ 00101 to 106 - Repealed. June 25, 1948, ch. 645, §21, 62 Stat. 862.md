@@ -1,6 +1,6 @@
 ### §§101 to 106. Repealed. June 25, 1948, ch. 645, §21, 62 Stat. 862
 
-Section 101, acts Apr. 20, 1918, ch. 59, §1, 40 Stat. 533; Nov. 30, 1940, ch. 926, 54 Stat. 1220; Dec. 24, 1942, ch. 824, 56 Stat. 1087; 1946 Proc. No. 2695, eff. July 4, 1946, 11 F.R. 7517, 60 Stat. 1352, related to definition of war terms. See section 2151 of Title 18, Crimes and Criminal Procedure.
+Section 101, acts Apr. 20, 1918, ch. 59, §1, 40 Stat. 533; Nov. 30, 1940, ch. 926, 54 Stat. 1220; Dec. 24, 1942, ch. 824, 56 Stat. 1087; 1946 Proc. No. 2695, eff. July 4, 1946, 11 F.R.7517, 60 Stat. 1352, related to definition of war terms. See section 2151 of Title 18, Crimes and Criminal Procedure.
 
 Section 102, act Apr. 20, 1918, ch. 59, §2, 40 Stat. 534, related to destruction or injury of war material in time of war. See section 2153 of Title 18.
 

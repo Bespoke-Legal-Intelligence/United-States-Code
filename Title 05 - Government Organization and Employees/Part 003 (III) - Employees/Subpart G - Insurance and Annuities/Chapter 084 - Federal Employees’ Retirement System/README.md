@@ -28,7 +28,7 @@
 | [8420a.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008420a%20-%20Alternative%20forms%20of%20annuities.md) | Alternative forms of annuities. |
 | [8421\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008421%20-%20Annuity%20supplement.md) | Annuity supplement. |
 | [8421a.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008421a%20-%20Reductions%20on%20account%20of%20earnings%20from%20work%20performed%20while%20entitled%20to%20an%20annuity%20supplement.md) | Reductions on account of earnings from work performed while entitled to an annuity supplement. |
-| [8422\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008422%20-%20Deductions%20from%20pay%3B%20contributions%20for%20military%20service.md) | Deductions from pay; contributions for military service. |
+| [8422\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008422%20-%20Deductions%20from%20pay%3B%20contributions%20for%20other%20service.md) | Deductions from pay; contributions for other service. |
 | [8423\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008423%20-%20Government%20contributions.md) | Government contributions. |
 | [8424\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008424%20-%20Lump-sum%20benefits%3B%20designation%20of%20beneficiary%3B%20order%20of%20precedence.md) | Lump-sum benefits; designation of beneficiary; order of precedence. |
 | [8425\.](Subchapter%20002%20%28II%29%20-%20Basic%20Annuity/%C2%A7%2008425%20-%20Mandatory%20separation.md) | Mandatory separation. |
@@ -123,6 +123,8 @@
 
 #### Amendments
 
+2001—Pub. L. 107–107, div. A, title XI, §1132(b)(2)(C), Dec. 28, 2001, 115 Stat. 1244, substituted “other service” for “military service” in item 8422.
+
 2000—Pub. L. 106–554, §1(a)(4) \[div. B, title I, §138(a)(7)(B)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–234, added item 8440f.
 
 1999—Pub. L. 106–168, title II, §203(a)(2), Dec. 12, 1999, 113 Stat. 1820, added item 8431.
@@ -165,7 +167,7 @@ Words “magistrate judges” substituted for “magistrates” in item 8440b pu
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2105, 3329, 5304, 5362, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8432c, 8901 of this title; title 2 sections 92, 162b; title 10 section 942; title 20 section 4416; title 22 sections 3649, 3658, 3664, 3673, 3951, 4009, 4064, 4067, 4069, 4071, 4071c, 4071d, 4071h; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 375, 376, 377, 611, 627, 636, 753, 797; title 31 sections 732a, 772; title 37 section 211; title 38 sections 7257, 7297, 7438, 7453, 7458; title 39 section 1005; title 40 section 214d; title 42 sections 402, 410, 3035r, 7237, 10704; title 49 section 49107; title 50 sections 2021, 2151, 2152, 2153, 2154, 2155, 2157, 2442.
+This chapter is referred to in sections 2105, 3329, 5304, 5362, 5541, 5597, 5724, 8116, 8342, 8344, 8347, 8348, 8350, 8351, 8432c, 8901, 9001 of this title; title 2 sections 60c–5, 92, 162b, 2064; title 7 section 7657; title 10 section 942; title 20 section 4416; title 22 sections 3649, 3658, 3664, 3673, 3951, 4009, 4064, 4067, 4069, 4071, 4071c, 4071d, 4071h, 7002; title 25 section 450i; title 26 sections 3121, 6103; title 28 sections 155, 178, 364, 375, 376, 377, 611, 627, 636, 753, 797; title 31 sections 732a, 772; title 37 section 211; title 38 sections 7257, 7297, 7438, 7453, 7458; title 39 section 1005; title 42 sections 402, 410, 3020e–1, 7237, 10704; title 49 sections 40122, 49107; title 50 sections 409a, 2021, 2151, 2152, 2153, 2154, 2155, 2157, 2442.
 
 
 ---

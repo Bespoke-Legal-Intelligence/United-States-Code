@@ -18,7 +18,7 @@ For the purposes of this chapter—
 
 (g)(1) The term “drug” means (A) articles recognized in the official United States Pharmacopoeia, official Homoeopathic Pharmacopoeia of the United States, or official National Formulary, or any supplement to any of them; and (B) articles intended for use in the diagnosis, cure, mitigation, treatment, or prevention of disease in man or other animals; and (C) articles (other than food) intended to affect the structure or any function of the body of man or other animals; and (D) articles intended for use as a component of any article specified in clause (A), (B), or (C). A food or dietary supplement for which a claim, subject to sections 343(r)(1)(B) and 343(r)(3) of this title or sections 343(r)(1)(B) and 343(r)(5)(D) of this title, is made in accordance with the requirements of section 343(r) of this title is not a drug solely because the label or the labeling contains such a claim. A food, dietary ingredient, or dietary supplement for which a truthful and not misleading statement is made in accordance with section 343(r)(6) of this title is not a drug under clause (C) solely because the label or the labeling contains such a statement.
 
-(2) The term “counterfeit drug” means a drug which, or the container or labeling of which, without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
+(2) The term “counterfeit drug” means a drug which, or the container or labeling of which,without authorization, bears the trademark, trade name, or other identifying mark, imprint, or device, or any likeness thereof, of a drug manufacturer, processor, packer, or distributor other than the person or persons who in fact manufactured, processed, packed, or distributed such drug and which thereby falsely purports or is represented to be the product of, or to have been packed or distributed by, such other drug manufacturer, processor, packer, or distributor.
 
 (h) The term “device” (except when used in paragraph (n) of this section and in sections 331(i), 343(f), 352(c), and 362(c) of this title) means an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including any component, part, or accessory, which is—
 
@@ -28,7 +28,7 @@ For the purposes of this chapter—
 
 &emsp;(3) intended to affect the structure or any function of the body of man or other animals, and
 
-> which does not achieve its primary intended purposes through chemical action within or on the body of man or other animals and which isnot dependent upon being metabolized for the achievement of its primary intended purposes.
+> which does not achieve its primary intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of its primary intended purposes.
 
 (i) The term “cosmetic” means (1) articles intended to be rubbed, poured, sprinkled, or sprayed on, introduced into, or otherwise applied to the human body or any part thereof for cleansing, beautifying, promoting attractiveness, or altering the appearance, and (2) articles intended for use as a component of any such articles; except that such term shall not include soap.
 
@@ -54,7 +54,7 @@ For the purposes of this chapter—
 
 (B) In the case of the use, with respect to food, of a substance described in clause (A) to prevent, destroy, repel, or mitigate microorganisms (including bacteria, viruses, fungi, protozoa, algae, and slime), the following applies for purposes of clause (A):
 
-&emsp;(i) The definition in such clause for the term “pesticide chemical” does not include the substance if the substance is applied for such use on food, or the substance is included for such use in water that comes into contact with the food, in the preparing, packing, or holding of the food for commercial purposes. The substance is not excluded under this subclause from such definition if the substance is ethylene oxide or propylene oxide, and is applied for such use on food. The substance is not so excluded if the substance is applied for such use on a raw agricultural commodity, or the substance is included for such use in water that comes into contact with the commodity, as follows:
+&emsp;(i) The definition in such clause for the term “pesticide chemical” does not include the substance if the substance is applied for such use on food, or the substance is included for such use in water that comes into contact with the food, in the preparing, packing, or holding of the food for commercial purposes. The substance is not excluded under this subclause from such definition if the substance is ethylene oxide or propylene oxide, and is applied for such use on food. The substance is not so excluded if the substance is applied for such useon a raw agricultural commodity, or the substance is included for such use in water that comes into contact with the commodity, as follows:
 
 &emsp;&emsp;(I) The substance is applied in the field.
 
@@ -62,7 +62,7 @@ For the purposes of this chapter—
 
 &emsp;&emsp;(III) The substance is applied during the transportation of such commodity between the field and such a treatment facility.
 
-&emsp;(ii) The definition in such clause for the term “pesticide chemical” does not include the substance if the substance is a food contact substance as defined in section 348(h)(6) of this title, and any of the following circumstances exist: The substance is included for such use in an object that has a food contact surface but is not intended to have an ongoing effect on any portion of the object; the substance is included for such use in an object that has a food contact surface and is intended to have an ongoing effect on a portion of the object but not on the food contact surface; orthe substance is included for such use in or is applied for such use on food packaging (without regard to whether the substance is intended to have an ongoing effect on any portion of the packaging). The food contact substance is not excluded under this subclause from such definition if any of the following circumstances exist: The substance is applied for such use on a semipermanent or permanent food contact surface (other than being applied on food packaging); or the substance is included for such use in an object that has a semipermanent or permanent food contact surface (other than being included in food packaging) and the substance is intended to have an ongoing effect on the food contact surface.
+&emsp;(ii) The definition in such clause for the term “pesticide chemical” does not include the substance if the substance is a food contact substance as defined in section 348(h)(6) of this title, and any of the following circumstances exist: The substance is included for such use in an object that has a food contact surface but is not intended to have an ongoing effect on any portion of the object; the substance is included for such use in an object that has a food contact surface and is intended to have an ongoing effect on a portion of the object but not on the food contact surface; or the substance is included for such use in or is applied for such use on food packaging (without regard to whether the substance is intended to have an ongoing effect on any portion of the packaging). The food contact substance is not excluded under this subclause from such definition if any of the following circumstances exist: The substance is applied for such use on a semipermanent or permanent food contact surface (other than being applied on food packaging); or the substance is included for such use in an object that has a semipermanent or permanent food contact surface (other than being included in food packaging) and the substance is intended to have an ongoing effect on the food contact surface.
 
 > With respect to the definition of the term “pesticide” that is applicable to the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\], this clause does not exclude any substance from such definition.
 
@@ -104,7 +104,7 @@ For the purposes of this chapter—
 
 (2) The term “color” includes black, white, and intermediate grays.
 
-(3) Nothing in subparagraph (1) of this paragraph shall be construed to apply to any pesticide chemical, soil or plant nutrient, or other agricultural chemical solely because of its effect in aiding, retarding, or otherwise affecting, directly or indirectly, the growth or other natural physiological processes of produce of the soil and thereby affecting its color, whether before or after harvest.
+(3) Nothing in subparagraph (1) of this paragraph shall be construed to apply to any pesticide chemical, soil or plant nutrient, or other agricultural chemical solely because of its effectin aiding, retarding, or otherwise affecting, directly or indirectly, the growth or other natural physiological processes of produce of the soil and thereby affecting its color, whether before or after harvest.
 
 (u) The term “safe” as used in paragraph (s) of this section and in sections 348, 360b, and 379e of this title, has reference to the health of man or animal.
 
@@ -230,7 +230,19 @@ For the purposes of this chapter—
 
 Priority supplement.—The term “priority supplement” means a drug application referred to in section 101(4) of the Food and Drug Administration Modernization Act of 1997 (111 Stat. 2298).
 
-(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413.)
+(<i>ll</i>)(1) The term “single-use device” means a device that is intended for one use, or on a single patient during a single procedure.
+
+(2)(A) The term “reprocessed”, with respect to a single-use device, means an original device that has previously been used on a patient and has been subjected to additional processing and manufacturing for the purpose of an additional single use on a patient. The subsequent processing and manufacture of a reprocessed single-use device shall result in a device that is reprocessed within the meaning of this definition.
+
+(B) A single-use device that meets the definition under clause (A) shall be considered a reprocessed device without regard to any description of the device used by the manufacturer of the device or other persons, including a description that uses the term “recycled” rather than the term “reprocessed”.
+
+(3) The term “original device” means a new, unused single-use device.
+
+(mm)(1) The term “critical reprocessed single-use device” means a reprocessed single-use device that is intended to contact normally sterile tissue or body spaces during use.
+
+(2) The term “semi-critical reprocessed single-use device” means a reprocessed single-use device that is intended to contact intact mucous membranes and not penetrate normally sterile areas of the body.
+
+(June 25, 1938, ch. 675, §201, 52 Stat. 1040; July 22, 1954, ch. 559, §1, 68 Stat. 511; Pub. L. 85–929, §2, Sept. 6, 1958, 72 Stat. 1784; Pub. L. 86–618, title I, §101, July 12, 1960, 74 Stat. 397; Pub. L. 87–781, title I, §102(a), title III, §307(a), Oct. 10, 1962, 76 Stat. 781, 796; Pub. L. 89–74, §§3(a), 9(b), July 15, 1965, 79 Stat. 227, 234; Pub. L. 90–399, §102, July 13, 1968, 82 Stat. 351; Pub. L. 90–639, §§1, 4(a), Oct. 24, 1968, 82 Stat. 1361, 1362; Pub. L. 91–513, title II, §701(a), (g), Oct. 27, 1970, 84 Stat. 1281, 1282; Pub. L. 92–516, §3(3), Oct. 21, 1972, 86 Stat. 998; Pub. L. 94–278, title V, §502(a)(2)(A), Apr. 22, 1976, 90 Stat. 411; Pub. L. 94–295, §3(a)(1)(A), (2), May 28, 1976, 90 Stat. 575; Pub. L. 95–203, §4(b)(3), Nov. 23, 1977, 91 Stat. 1453; Pub. L. 96–359, §3, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 100–670, title I, §107(a)(1), Nov. 16, 1988, 102 Stat. 3984; Pub. L. 101–535, §5(b), Nov. 8, 1990, 104 Stat. 2362; Pub. L. 101–629, §16(b), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 102–282, §6, May 13, 1992, 106 Stat. 161; Pub. L. 102–300, §6(a), (b), June 16, 1992, 106 Stat. 240; Pub. L. 102–571, title I, §107(1), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §§3(b), (dd)(1), 4(b), Aug. 13, 1993, 107 Stat. 775, 779; Pub. L. 103–417, §§3(a), (b), 10(a), Oct. 25, 1994, 108 Stat. 4327, 4332; Pub. L. 104–170, title IV, §402, Aug. 3, 1996, 110 Stat. 1513; Pub. L. 105–115, title I, §§121(a), 125(b)(2)(A), (e), Nov. 21, 1997, 111 Stat. 2320, 2325, 2327; Pub. L. 105–324, §2(a), (c), Oct. 30, 1998, 112 Stat. 3035, 3037; Pub. L. 107–109, §5(b)(1), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–250, title III, §302(d), Oct. 26, 2002, 116 Stat. 1619.)
 
 #### References in Text
 
@@ -246,7 +258,9 @@ Section 101(4) of the Food and Drug Administration Modernization Act of 1997, re
 
 #### Amendments
 
-2002—Par. (kk). Pub. L. 107–109 added par. (kk).
+2002—Pars. (<i>ll</i>), (mm). Pub. L. 107–250 added pars. (<i>ll</i>) and (mm).
+
+Par. (kk). Pub. L. 107–109 added par. (kk).
 
 1998—Par. (q)(1). Pub. L. 105–324, §2(a), added subpar. (1) and struck out former subpar. (1) which read as follows: “The term ‘pesticide chemical’ means any substance that is a pesticide within the meaning of the Federal Insecticide, Fungicide, and Rodenticide Act, including all active and inert ingredients of such pesticide.”
 
@@ -332,7 +346,7 @@ Par. (v)(3). Pub. L. 90–639, §1, inserted reference to lysergic acid diethyla
 
 Pars. (w), (x). Pub. L. 90–399, §102(e), added pars. (w) and (x).
 
-1965—Par. (g). Pub. L. 89–74, §9(b), designated existing provisions as subpar. (1), redesignated cls. (1) to (4)thereof as (A) to (D), substituted “(A), (B), or (C)” for “(1), (2), or (3)” and added subpar. (2).
+1965—Par. (g). Pub. L. 89–74, §9(b), designated existing provisions as subpar. (1), redesignated cls. (1) to (4) thereof as (A) to (D), substituted “(A), (B), or (C)” for “(1), (2), or (3)” and added subpar. (2).
 
 Par. (v). Pub. L. 89–74, §3(a), added par. (v).
 
@@ -376,7 +390,7 @@ Amendment by Pub. L. 91–513 effective on first day of seventh calendar month t
 
 Section 6 of Pub. L. 90–639 provided that: “The amendments made by this Act \[amending this section, sections 331, 333, 334, and 360a of this title, and provisions set out as a note under section 289a of Title 42, The Public Health and Welfare\] shall apply only with respect to violations of the Federal Food, Drug, and Cosmetic Act \[this chapter\] committed after the date of the enactment of this Act \[Oct. 24, 1968\].”
 
-Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, except that in the case of a drug (other than one subject to section 360b(n) of this title) intended for use in animals other than man which, on Oct. 9, 1962, was commercially used or sold in the United States, was not a new drug as defined in par. (p) of this section then in force, and was not covered by an effective application under section 355 of this title, the words “effectiveness” and “effective” contained in par. (w) of this section not applicable to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day, see section 108(a), (b)(3) of Pub. L. 90–399, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
+Amendment by Pub. L. 90–399 effective on first day of thirteenth calendar month after July 13, 1968, except that in the case of a drug (other than one subject to section 360b(n) of this title) intended for use in animalsother than man which, on Oct. 9, 1962, was commercially used or sold in the United States, was not a new drug as defined in par. (p) of this section then in force, and was not covered by an effective application under section 355 of this title, the words “effectiveness” and “effective” contained in par. (w) of this section not applicable to such drug when intended solely for use under conditions prescribed, recommended, or suggested in labeling with respect to such drug on that day, see section 108(a), (b)(3) of Pub. L. 90–399, set out as an Effective Date and Transitional Provisions note under section 360b of this title.
 
 #### Effective Date of 1965 Amendment
 
@@ -442,7 +456,7 @@ Functions of Secretary of Health, Education, and Welfare \[now Health and Human 
 
 Functions of Secretary of Health, Education, and Welfare \[now Health and Human Services\] under Drug Abuse Control Amendments of 1965 \[see Short Title of 1965 Amendment note set out under section 301 of this title\] transferred to Attorney General except function of regulating counterfeiting of those drugs which are not “depressant or stimulant” drugs, see section 2 of Reorg. Plan No. 1 of 1968, set out in the Appendix to Title 5, Government Organization and Employees.
 
-For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare\[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
+For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
 
 #### Regulation of Tobacco
 

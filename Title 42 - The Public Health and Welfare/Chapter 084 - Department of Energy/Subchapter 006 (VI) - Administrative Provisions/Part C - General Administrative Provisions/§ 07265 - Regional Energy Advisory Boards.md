@@ -22,3 +22,7 @@ If any Regional Advisory Board makes specific recommendations pursuant to subsec
 
 The Public Works and Economic Development Act, referred to in subsec. (b), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Title V of the Public Works and Economic Development Act was classified generally to subchapter V (§3181 et seq.) of chapter 38 of this title prior to repeal by Pub. L. 97–35, title XVIII, §1821(a)(8), Aug. 13, 1981, 95 Stat. 766. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of this title and Tables.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

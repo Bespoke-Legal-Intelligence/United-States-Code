@@ -18,5 +18,5 @@ Changes were made in phraseology.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 3374.
+This section is referred to in title 5 sections 3374, 3704.
 

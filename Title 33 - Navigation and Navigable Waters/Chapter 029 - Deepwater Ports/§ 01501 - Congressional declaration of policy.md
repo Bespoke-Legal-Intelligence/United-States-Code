@@ -10,15 +10,17 @@
 
 &emsp;(4) protect the rights and responsibilities of States and communities to regulate growth, determine land use, and otherwise protect the environment in accordance with law;
 
-&emsp;(5) promote the construction and operation of deepwater ports as a safe and effective means of importing oil into the United States and transporting oil from the outer continental shelf <sup>1</sup> while minimizing tanker traffic and the risks attendant thereto; and
+&emsp;(5) promote the construction and operation of deepwater ports as a safe and effective means of importing oil or natural gas into the United States and transporting oil or natural gas from the outer continental shelf <sup>1</sup> while minimizing tanker traffic and the risks attendant thereto; and
 
-&emsp;(6) promote oil production on the outer continental shelf by affording an economic and safe means of transportation of outer continental shelf <sup>1</sup> oil to the United States mainland.
+&emsp;(6) promote oil or natural gas production on the outer continental shelf by affording an economic and safe means of transportation of outer continental shelf <sup>1</sup> oil or natural gas to the United States mainland.
 
 (b) The Congress declares that nothing in this chapter shall be construed to affect the legal status of the high seas, the superjacent airspace, or the seabed and subsoil, including the Continental Shelf.
 
-(Pub. L. 93–627, §2, Jan. 3, 1975, 88 Stat. 2126; Pub. L. 104–324, title V, §502(b), Oct. 19, 1996, 110 Stat. 3925.)
+(Pub. L. 93–627, §2, Jan. 3, 1975, 88 Stat. 2126; Pub. L. 104–324, title V, §502(b), Oct. 19, 1996, 110 Stat. 3925; Pub. L. 107–295, title I, §106(a)(1), Nov. 25, 2002, 116 Stat. 2086.)
 
 #### Amendments
+
+2002—Subsec. (a)(5), (6). Pub. L. 107–295 inserted “or natural gas” after “oil” wherever appearing.
 
 1996—Subsec. (a)(5), (6). Pub. L. 104–324 added pars. (5) and (6).
 

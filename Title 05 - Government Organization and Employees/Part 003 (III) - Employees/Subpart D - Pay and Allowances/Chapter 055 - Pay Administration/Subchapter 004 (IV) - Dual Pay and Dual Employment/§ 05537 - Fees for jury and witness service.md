@@ -8,7 +8,7 @@
 
 (b) An official of a court of the United States or the District of Columbia may not receive witness fees for attendance before a court, commissioner, or magistrate judge where he is officiating.
 
-(c) For the purpose of this section, “court of the United States” has the meaning given it bysection 451 of title 28 and includes the District Court of Guam and the District Court of the Virgin Islands.
+(c) For the purpose of this section, “court of the United States” has the meaning given it by section 451 of title 28 and includes the District Court of Guam and the District Court of the Virgin Islands.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 484; Pub. L. 90–623, §1(12), Oct. 22, 1968, 82 Stat. 1312; Pub. L. 91–563, §3(a), Dec. 19, 1970, 84 Stat. 1477; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 104–186, title II, §215(8), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 104–201, div. C, title XXXV, §3548(a)(5), Sept. 23, 1996, 110 Stat. 2868.)
 
@@ -36,7 +36,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 Subsec. (c). Pub. L. 104–201 substituted “the District Court of Guam and the District Court of the Virgin Islands” for “the United States District Court for the District of the Canal Zone, the District Court of Guam, and the District Court of the Virgin Islands”.
 
-1970—Pub. L. 91–563 substituted “jury and witness service” for “jury service in courts of the United States” in section catchline, designated existing provisions as subsec. (a), inserted provisions prohibiting payment of fees for jury service in a court of the District of Columbia or for service as a witness on behalf of the United States or the District of Columbia and excepting employees whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives, and added subsecs. (b) and (c).
+1970—Pub. L. 91–563 substituted “jury and witness service” for “jury service in courts of the United States” in section catchline, designated existing provisions as subsec. (a), inserted provisions prohibiting payment of fees for jury service in a court of the Districtof Columbia or for service as a witness on behalf of the United States or the District of Columbia and excepting employees whose pay is disbursed by the Secretary of the Senate or the Clerk of the House of Representatives, and added subsecs. (b) and (c).
 
 1968—Pub. L. 90–623 inserted “, who is entitled to leave under section 6322 of this title,” after “individual employed by the government of the District of Columbia”.
 

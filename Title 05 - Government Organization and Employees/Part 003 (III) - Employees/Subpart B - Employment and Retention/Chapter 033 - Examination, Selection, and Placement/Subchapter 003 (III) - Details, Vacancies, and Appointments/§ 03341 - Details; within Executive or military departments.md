@@ -78,5 +78,5 @@ For restriction on availability of funds for salaries of employees reassigned on
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 9510 of this title; title 15 section 652; title 42 section 5667g–2.
+This section is referred to in section 9510 of this title; title 15 sections 652, 7103; title 42 section 5667g–2.
 

@@ -128,6 +128,10 @@ Notwithstanding subsection (f) of this section, financial assistance provided un
 
 (Pub. L. 101–624, title XXIII, §2333, as added Pub. L. 104–127, title VII, §704, Apr. 4, 1996, 110 Stat. 1109.)
 
+#### Termination of Section
+
+<i>For termination of section by section 1(b) of Pub. L. 102–551, see Termination of Chapter note set out under section 950aaa of this title.</i>
+
 #### References in Text
 
 The Rural Electrification Act of 1936, referred to in subsecs. (c)(2) and (h)(1), is act May 20, 1936, ch. 432, 49 Stat. 1363, as amended, which is classified generally to chapter 31 (§901 et seq.) of this title. For complete classification of this Act to the Code, see section 901 of this title and Tables.

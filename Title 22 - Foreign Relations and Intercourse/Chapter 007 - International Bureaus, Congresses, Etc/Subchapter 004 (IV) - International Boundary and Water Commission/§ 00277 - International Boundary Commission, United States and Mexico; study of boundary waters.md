@@ -20,7 +20,7 @@ Pub. L. 100–465, Oct. 3, 1988, 102 Stat. 2272, which enacted sections 277g to 
 
 Pub. L. 92–549, Oct. 25, 1972, 86 Stat. 1161, which enacted sections 277d–34 to 277d–42 of this title, is known as the American-Mexican Boundary Treaty Act of 1972. For complete classification of this Act to the Code, see Short Title note set out under section 277d–34 of this title and Tables.
 
-Pub. L. 88–300, Apr. 29, 1964, 78 Stat. 184, which enacted sections 277d–17 to 277d–25 of this title, is known as the American-Mexican Chamizal Convention Act of 1964. For complete classification of this Act to the Code, see Short Title note set out under section 277d–17 of this title and Tables.
+Pub. L. 88–300, Apr. 29, 1964, 78 Stat. 184, which enacted sections 277d–17 to 277d–25 of this title, is known as the American-Mexican Chamizal Convention Act of1964. For complete classification of this Act to the Code, see Short Title note set out under section 277d–17 of this title and Tables.
 
 Act Sept. 13, 1950, ch. 948, 64 Stat. 846, which enacted sections 277d–1 to 277d–9 of this title, is known as the American-Mexican Treaty Act of 1950. For complete classification of this Act to the Code, see Short Title note set out under section 277d–1 of this title and Tables.
 

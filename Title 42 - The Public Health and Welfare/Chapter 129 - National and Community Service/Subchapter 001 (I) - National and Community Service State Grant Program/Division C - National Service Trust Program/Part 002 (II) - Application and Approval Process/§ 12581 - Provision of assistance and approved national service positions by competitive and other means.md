@@ -8,7 +8,7 @@
 
 #### (2) One percent allotment for certain territories and possessions
 
-&emsp;Of the funds allocated by the Corporation for provision of assistance under subsections (a) and (b) of section 12571 of this title for a fiscal year, the Corporation shall reserve 1 percent of the allocated funds for grants under section 12571(a) of this title to the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands upon approval of an application by the Corporation under section 12585 of this title. Palau shall also be eligible for a grant under this paragraph from the allotment until such time as the Compact of Free Association with Palau is ratified. The amount allotted as a grant to each such territory or possession under this paragraph for a fiscal year shall be equal to the amount that bears the same ratio to 1 percent of the allocated funds for that fiscal year as the population of the territory or possession bears to the total population of such territories and possessions.
+&emsp;Of the funds allocated by the Corporation for provision of assistance under subsections (a)and (b) of section 12571 of this title for a fiscal year, the Corporation shall reserve 1 percent of the allocated funds for grants under section 12571(a) of this title to the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands upon approval of an application by the Corporation under section 12585 of this title. Palau shall also be eligible for a grant under this paragraph from the allotment until such time as the Compact of Free Association with Palau is ratified. The amount allotted as a grant to each such territory or possession under this paragraph for a fiscal year shall be equal to the amount that bears the same ratio to 1 percent of the allocated funds for that fiscal year as the population of the territory or possession bears to the total population of such territories and possessions.
 
 #### (3) One percent allotment for Indian tribes
 
@@ -28,7 +28,7 @@ The Corporation shall ensure that each individual selected during a fiscal year 
 
 #### (c) Reservation for special assistance
 
-From amounts appropriated for a fiscal year pursuant to the authorization of appropriationin section 12681(a)(2) of this title, and subject to the limitation in such section, the Corporation may reserve such amount as the Corporation considers to be appropriate for the purpose of making assistance available under sections 12575 and 12576 of this title. The Corporation may not reserve more than $10,000,000 for a fiscal year for disaster service under subsection (b) of section 12576 of this title or challenge grants under subsection (c) of such section.
+From amounts appropriated for a fiscal year pursuant to the authorization of appropriation in section 12681(a)(2) of this title, and subject to the limitation in such section, the Corporation may reserve such amount as the Corporation considers to be appropriate for the purpose of making assistance available under sections 12575 and 12576 of this title. The Corporation may not reserve more than $10,000,000 for a fiscal year for disaster service under subsection (b) of section 12576 of this title or challenge grants under subsection (c) of such section.
 
 #### (d) Competitive distribution of remaining funds
 

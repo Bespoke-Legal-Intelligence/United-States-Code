@@ -1,0 +1,58 @@
+### §524. Duties of executive agencies
+
+(a)
+
+Required.—Each executive agency shall—
+
+&emsp;(1) maintain adequate inventory controls and accountability systems for property under its control;
+
+&emsp;(2) continuously survey property under its control to identify excess property;
+
+&emsp;(3) promptly report excess property to the Administrator of General Services;
+
+&emsp;(4) perform the care and handling of excess property; and
+
+&emsp;(5) transfer or dispose of excess property as promptly as possible in accordance with authority delegated and regulations prescribed by the Administrator.
+
+(b)
+
+Required as Far as Practicable.—Each executive agency, as far as practicable, shall—
+
+&emsp;(1) reassign property to another activity within the agency when the property is no longer required for the purposes of the appropriation used to make the purchase;
+
+&emsp;(2) transfer excess property under its control to other federal agencies and to organizations specified in section 321(c)(2) of this title; and
+
+&emsp;(3) obtain excess property from other federal agencies.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1084.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+524(a)
+
+40:483(b).
+
+June 30, 1949, ch. 288, title II, §202(b), 63 Stat. 384.
+
+524(b)
+
+40:483(c).
+
+June 30, 1949, ch. 288, title II, §202(c), 63 Stat. 384; July 12, 1952, ch. 703, §1(g), 66 Stat. 593.
+
+In clause (a)(2), the word “identify” is substituted for “determine which is” to eliminate unnecessary words.
+
+In clause (b)(1), the words “determined to be” are omitted as unnecessary.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 556 of this title; title 42 section 11411.
+

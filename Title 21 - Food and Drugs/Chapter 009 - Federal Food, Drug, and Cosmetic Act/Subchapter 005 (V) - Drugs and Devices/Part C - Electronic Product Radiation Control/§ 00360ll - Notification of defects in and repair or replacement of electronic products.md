@@ -40,7 +40,7 @@ If any electronic product is found under subsection (a) or (e) of this section t
 
 This section shall not apply to any electronic product that was manufactured before October 18, 1968.
 
-(June 25, 1938, ch. 675, §535, formerly act July 1, 1944, ch. 373, title III, §535, formerly §359, as added Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1180; renumbered §535 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(C), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
+(June 25, 1938, ch. 675, §535, formerly act July 1, 1944, ch. 373, title III, §535, formerly §359, asadded Pub. L. 90–602, §2(3), Oct. 18, 1968, 82 Stat. 1180; renumbered §535 and amended Pub. L. 101–629, §19(a)(1)(B), (2)(C), (3), (4), Nov. 28, 1990, 104 Stat. 4529, 4530; Pub. L. 103–80, §4(a)(2), Aug. 13, 1993, 107 Stat. 779.)
 
 #### Codification
 

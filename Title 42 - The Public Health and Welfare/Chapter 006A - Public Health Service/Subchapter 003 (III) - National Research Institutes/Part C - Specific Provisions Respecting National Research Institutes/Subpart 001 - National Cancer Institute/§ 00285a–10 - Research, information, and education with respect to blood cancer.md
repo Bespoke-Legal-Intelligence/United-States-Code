@@ -1,0 +1,50 @@
+### §285a–10. Research, information, and education with respect to blood cancer
+
+#### (a) Joe Moakley Research Excellence Program
+
+#### (1) In general
+
+&emsp;The Director of NIH shall expand, intensify, and coordinate programs for the conduct and support of research with respect to blood cancer, and particularly with respect to leukemia, lymphoma, and multiple myeloma.
+
+#### (2) Administration
+
+&emsp;The Director of NIH shall carry out this subsection through the Director of the National Cancer Institute and in collaboration with any other agencies that the Director determines to be appropriate.
+
+#### (3) Authorization of appropriations
+
+&emsp;For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.
+
+#### (b) Geraldine Ferraro Cancer Education Program
+
+#### (1) In general
+
+&emsp;The Secretary shall direct the appropriate agency within the Department of Health and Human Services, in collaboration with the Director of NIH, to establish and carry out a program to provide information and education for patients and the general public with respect to blood cancer, and particularly with respect to the treatment of leukemia, lymphoma, and multiple myeloma.
+
+#### (2) Administration
+
+&emsp;The Agency determined by the Secretary under paragraph (1) shall carry out this subsection in collaboration with private healthorganizations that have national education and patient assistance programs on blood-related cancers.
+
+#### (3) Authorization of appropriations
+
+&emsp;For the purpose of carrying out this subsection, there is authorized to be appropriated such sums as may be necessary for fiscal year 2002 and each subsequent fiscal year. Such authorizations of appropriations are in addition to other authorizations of appropriations that are available for such purpose.
+
+(July 1, 1944, ch. 373, title IV, §417D, as added Pub. L. 107–172, §3, May 14, 2002, 116 Stat. 541.)
+
+#### Codification
+
+Section 3 of Pub. L. 107–172, which directed that section 417D (this section) be inserted after section 419C of part C of title IV of the Public Health Service Act, was executed by adding section 417D to part C of title IV of the Public Health Service Act, to reflect the probable intent of Congress, notwithstanding that part C does not contain a section 419C.
+
+#### Congressional Findings
+
+Pub. L. 107–172, §2, May 14, 2002, 116 Stat. 541, provided that: “Congress finds that:
+
+&emsp;“(1) An estimated 109,500 people in the United States will be diagnosed with leukemia, lymphoma, and multiple myeloma in 2001.
+
+&emsp;“(2) New cases of the blood cancers described in paragraph (1) account for 8.6 percent of new cancer cases.
+
+&emsp;“(3) Those devastating blood cancers will cause the deaths of an estimated 60,300 persons in the United States in 2001. Every 9 minutes, a person in the United States dies from leukemia, lymphoma, or multiple myeloma.
+
+&emsp;“(4) While less than 5 percent of Federal funds for cancer research are spent on those blood cancers, those blood cancers cause 11 percent of all cancer deaths in the United States.
+
+&emsp;“(5) Increased Federal support of research into leukemia, lymphoma, and multiple myeloma has resulted and will continue to result in significant advances in the treatment, and ultimately the cure, of those blood cancers as well as other cancers.”
+

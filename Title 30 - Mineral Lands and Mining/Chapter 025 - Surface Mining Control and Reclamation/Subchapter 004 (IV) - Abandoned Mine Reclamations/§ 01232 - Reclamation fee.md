@@ -34,7 +34,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 &emsp;&emsp;(i) An approved abandoned mine reclamation program pursuant to section 1235 of this title.
 
-&emsp;&emsp;(ii) Lands and waters which are eligible pursuant to section 1234 of this title (in the case of a State not certified under section 1240a(a) of this title) or pursuant to section 1240a(b) of this title (in the case of a State certified under section 1240a(a) of this title).
+&emsp;&emsp;(ii) Lands and waters which are eligible pursuant to section 1234 of this title (in thecase of a State not certified under section 1240a(a) of this title) or pursuant to section 1240a(b) of this title (in the case of a State certified under section 1240a(a) of this title).
 
 &emsp;(B) 50 percent of the reclamation fees collected annually with respect to Indian lands shall be allocated annually by the Secretary to the Indian tribe having jurisdiction over such lands, subject to such tribe having each of the following:
 
@@ -48,7 +48,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (2) 20 percent of the amounts available in the fund in any fiscal year which are not allocated under paragraph (1) in that fiscal year (including that interest accruing as provided in section 1231(e) of this title and including funds available for reallocation pursuant to paragraph (1)(D)), shall be allocated to the Secretary only for the purpose of making the annual transfer to the Secretary of Agriculture under section 1231(c)(2) of this title.
 
-(3) Amounts available in the fund which are not allocated to States and Indian tribes underparagraph (1) or allocated under paragraphs (2) and (5) are authorized to be expended by the Secretary for any of the following:
+(3) Amounts available in the fund which are not allocated to States and Indian tribes under paragraph (1) or allocated under paragraphs (2) and (5) are authorized to be expended by the Secretary for any of the following:
 
 &emsp;(A) For the purpose of section 1257(c) of this title, either directly or through grants to the States, subject to the limitation contained in section 1231(c)(11) of this title.
 
@@ -126,7 +126,7 @@ All Federal and State agencies shall fully cooperate with the Secretary of the I
 
 (3)(A) The aggregate amount which may be transferred under paragraph (2) for any fiscal year shall not exceed the amount of expenditures which the trustees of the Combined Fund estimate will be debited against the unassigned beneficiaries premium account under section 9704(e) of title 26 for the fiscal year of the Combined Fund in which the transfer is made.
 
-(B) The aggregate amount which may be transferred under paragraph (2)(B) for all fiscal years shall not exceed an amount equivalent to all interest earned and paid to the fund after September 30, 1992, and before October 1, 1995.
+(B) The aggregate amount which may be transferred under paragraph (2)(B) for all fiscal years shall not exceed an amount equivalent toall interest earned and paid to the fund after September 30, 1992, and before October 1, 1995.
 
 (4) If, for any fiscal year, the amount transferred is more or less than the amount required to be transferred, the Secretary shall appropriately adjust the amount transferred for the next fiscal year.
 
@@ -148,7 +148,7 @@ Subsec. (h). Pub. L. 102–486, §19143(b)(2), added subsec. (h).
 
 1990—Subsec. (b). Pub. L. 101–508, §6003(a), substituted “ending September 30, 1995” for “ending fifteen years after August 3, 1977, unless extended by an Act of Congress”.
 
-Subsec. (c). Pub. L. 101–508, §6003(b), inserted at end “Such statement shall include an identification of thepermittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.”
+Subsec. (c). Pub. L. 101–508, §6003(b), inserted at end “Such statement shall include an identification of the permittee of the surface coal mining operation, any operator in addition to the permittee, the owner of the coal, the preparation plant, tripple, or loading point for the coal, and the person purchasing the coal from the operator. The report shall also specify the number of the permit required under section 1256 of this title and the mine safety and health identification number. Each quarterly report shall contain a notification of any changes in the information required by this subsection since the date of the preceding quarterly report. The information contained in the quarterly reports under this subsection shall be maintained by the Secretary in a computerized database.”
 
 Subsec. (d). Pub. L. 101–508, §6003(c), designated existing provisions as par. (1) and added par. (2).
 

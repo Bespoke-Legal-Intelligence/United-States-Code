@@ -12,7 +12,7 @@
 
 &emsp;(A) the contributions under section 8432(a) which would have been made, over the period beginning on date of separation or commencement of leave-without-pay status (as applicable) and ending on the day before the date of restoration or reemployment (as applicable); reduced by
 
-&emsp;(B) any contributions under section 8432(a) actually made by such employee over the period described in subparagraph (A).
+&emsp;(B) any contributions under section 8432(a) or 8440e actually made by such employee over the period described in subparagraph (A).
 
 (3) Contributions under this subsection—
 
@@ -30,11 +30,17 @@
 
 > The employing agency may place a maximum limit on the period of time referred to in subparagraph (B), which cannot be shorter than two times the period referred to in paragraph (2)(B) and not longer than four times such period.
 
-(c) If an employee makes contributions under subsection (b), the employing agency shall make contributions to the Thrift Savings Fund on such employee's behalf—
+(c)(1) If an employee makes contributions under subsection (b), the employing agency shall make contributions to the Thrift Savings Fund on such employee's behalf—
 
-&emsp;(1) in the same manner as would be required under section 8432(c)(2) if the employee contributions were being made under section 8432(a); and
+&emsp;(A) in the same manner as would be required under section 8432(c)(2) if the employee contributions were being made under section 8432(a); and
 
-&emsp;(2) disregarding any contributions then actually being made under section 8432(a) and any agency contributions relating thereto.
+&emsp;(B) disregarding any contributions then actually being made under section 8432(a) and any agency contributions relating thereto.
+
+(2) An employee to whom this section applies is entitled to have contributed to the Thrift Savings Fund on such employee's behalf an amount equal to—
+
+&emsp;(A) the total contributions to which that individual would have been entitled under section 8432(c)(2), based on the amounts contributed by such individual under section 8440e (other than under subsection (d)(2) thereof) with respect to the period referred to in subsection (b)(2)(B), if those amounts had been contributed by such individual under section 8432(a); reduced by
+
+&emsp;(B) any contributions actually made on such employee's behalf under section 8432(c)(2) (including pursuant to an agreement under section 211(d) of title 37) with respect to the period referred to in subsection (b)(2)(B).
 
 (d) An employee to whom this section applies is entitled to have contributed to the Thrift Savings Fund on such employee's behalf an amount equal to—
 
@@ -70,23 +76,15 @@
 
 (Added Pub. L. 103–353, §4(a)(1), Oct. 13, 1994, 108 Stat. 3170; amended Pub. L. 106–65, div. A, title VI, §661(a)(3)(A), (C), Oct. 5, 1999, 113 Stat. 671.)
 
-#### Amendment of Subsections (b)(2)(B) and (c)
-
-<i>Pub. L. 106–65, div. A, title VI, §§661(a)(3)(A), (C), 663, Oct. 5, 1999, 113 Stat. 671, 673, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that effective 180 days after Oct. 30, 2000, unless postponed, this section is amended as follows:</i>
-
-<i>(1) in subsection (b)(2)(B) by inserting “or 8440e” after “section 8432(a); and</i>
-
-<i>(2) in subsection (c) by redesignating paragraphs (1) and (2) as subparagraphs (A) and (B), respectively, by striking “(c)” and inserting “(c)(1)”, and by adding at the end the following:</i>
-
-(2) An employee to whom this section applies is entitled to have contributed to the Thrift Savings Fund on such employee's behalf an amount equal to—
-
-&emsp;(A) the total contributions to which that individual would have been entitled under section 8432(c)(2), based on the amounts contributed by such individual under section 8440e (other than under subsection (d)(2) thereof) with respect to the period referred to in subsection (b)(2)(B), if those amounts had been contributed by such individual under section 8432(a); reduced by
-
-&emsp;(B) any contributions actually made on such employee's behalf under section 8432(c)(2) (including pursuant to an agreement under section 211(d) of title 37) with respect to the period referred to in subsection (b)(2)(B).
-
 #### References in Text
 
 Section 8433(h), referred to in subsec. (h)(2)(A), was redesignated section 8433(f) by Pub. L. 103–226, §9(b)(2), Mar. 30, 1994, 108 Stat. 119.
+
+#### Amendments
+
+1999—Subsec. (b)(2)(B). Pub. L. 106–65, §661(a)(3)(A), inserted “or 8440e” after “section 8432(a)”.
+
+Subsec. (c). Pub. L. 106–65, §661(a)(3)(C), designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
 #### Effective Date of 1999 Amendment
 
@@ -106,7 +104,7 @@ Effective Date; Applicability.—This section \[enacting this section and amendi
 
 “(f)
 
-Rules for Applying Amendments to Employees Restored or Reemployed Before Effective Date.—In the case of any employee (described in subsection (e)(2)) who is reemployed or restored (in the circumstances described in section 8432b(a) of title 5, United States Code, as amended by this section) before the date of enactment of this Act \[Oct. 13, 1994\], the amendments made by this section \[enacting this section and amending sections 8351, 8432, and 8433 of this title\] shall applyto such employee, in accordance with their terms, subject to the following:
+Rules for Applying Amendments to Employees Restored or Reemployed Before Effective Date.—In the case of any employee (described in subsection (e)(2))who is reemployed or restored (in the circumstances described in section 8432b(a) of title 5, United States Code, as amended by this section) before the date of enactment of this Act \[Oct. 13, 1994\], the amendments made by this section \[enacting this section and amending sections 8351, 8432, and 8433 of this title\] shall apply to such employee, in accordance with their terms, subject to the following:
 
 &emsp;“(1) The employee shall be deemed not to have been reemployed or restored until—
 

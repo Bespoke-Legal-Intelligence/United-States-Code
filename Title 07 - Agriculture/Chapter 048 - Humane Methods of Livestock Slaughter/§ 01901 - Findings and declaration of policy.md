@@ -8,6 +8,30 @@ The Congress finds that the use of humane methods in the slaughter of livestock 
 
 For citation of Pub. L. 95–445, Oct. 10, 1978, 92 Stat. 1069, as the “Humane Methods of Slaughter Act of 1978”, see Short Title of 1978 Amendment note set out under section 601 of Title 21, Food and Drugs.
 
+#### Enforcement of Humane Methods of Slaughter Act of 1958
+
+Pub. L. 107–171, title X, §10305, May 13, 2002, 116 Stat. 493, provided that:
+
+“(a)
+
+Sense of Congress.—It is the sense of Congress that the Secretary of Agriculture should—
+
+&emsp;“(1) continue tracking the number of violations of Public Law 85–765 (7 U.S.C. 1901 et seq.; commonly known as the ‘Humane Methods of Slaughter Act of1958’) and report the results and relevant trends annually to Congress; and
+
+&emsp;“(2) fully enforce Public Law 85–765 by ensuring that humane methods in the slaughter of livestock—
+
+&emsp;&emsp;“(A) prevent needless suffering;
+
+&emsp;&emsp;“(B) result in safer and better working conditions for persons engaged in slaughtering operations;
+
+&emsp;&emsp;“(C) bring about improvement of products and economies in slaughtering operations; and
+
+&emsp;&emsp;“(D) produce other benefits for producers, processors, and consumers that tend to expedite an orderly flow of livestock and livestock products in interstate and foreign commerce.
+
+“(b)
+
+United States Policy.—It is the policy of the United States that the slaughtering of livestock and the handling of livestock in connection with slaughter shall be carried out only by humane methods, as provided by Public Law 85–765.”
+
 #### Commercial Transportation of Equine for Slaughter
 
 Pub. L. 104–127, title IX, subtitle A, Apr. 4, 1996, 110 Stat. 1184, provided that:

@@ -18,7 +18,7 @@ Section 35d, Pub. L. 88–210, §5, Dec. 18, 1963, 77 Stat. 405, set out requisi
 
 Section 35e, Pub. L. 88–210, §6, Dec. 18, 1963, 77 Stat. 407, set conditions for payments to States.
 
-Section 35f, Pub. L. 88–210, §7, Dec. 18, 1963, 77 Stat. 408, provided for application of labor standards under the Davis-Bacon Act (40 U.S.C. 276a to 276a–5) to construction projects assisted under sections 35 to 35n of this title.
+Section 35f, Pub. L. 88–210, §7, Dec. 18, 1963, 77 Stat. 408, provided for application of labor standards under the Davis-Bacon Act (now 40 U.S.C. 3141 to 3144, 3146, and 3147) to construction projects assisted under sections 35 to 35n of this title.
 
 Section 35g, Pub. L. 88–210, §8, Dec. 18, 1963, 77 Stat. 408, defined terms used in sections 35 to 35n of this title.
 

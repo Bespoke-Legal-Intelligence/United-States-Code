@@ -70,9 +70,9 @@ Subsec. (c). Pub. L. 105–392, §§106(a)(2)(B)(ii), 107(a), added subsec. (c) 
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–531 effective immediately after enactment of Pub. L. 102–408, see section 313(c) ofPub. L. 102–531, set out as a note under section 292y of this title.
+Amendment by Pub. L. 102–531 effective immediately after enactment of Pub. L. 102–408, see section 313(c) of Pub. L. 102–531, set out as a note under section 292y of this title.
 
 #### Required Assurances Regarding Bloodborne Diseases
 
-Section 308 of Pub. L. 102–408 provided that: “With respect to awards of grants or contracts under title VII or VIII of the Public Health Service Act \[this subchapter or subchapter VI of this chapter\], the Secretary of Health and Human Services may make such an award for the provision of traineeships only if the applicant for the award provides assurances satisfactory to the Secretary that all trainees will, as appropriate, receive instruction in the utilization of universal precautions and infection control procedures for the prevention of the transmission of bloodborne diseases.”
+Section 308 of Pub. L. 102–408 provided that: “With respect to awards of grants or contracts under title VIIor VIII of the Public Health Service Act \[this subchapter or subchapter VI of this chapter\], the Secretary of Health and Human Services may make such an award for the provision of traineeships only if the applicant for the award provides assurances satisfactory to the Secretary that all trainees will, as appropriate, receive instruction in the utilization of universal precautions and infection control procedures for the prevention of the transmission of bloodborne diseases.”
 

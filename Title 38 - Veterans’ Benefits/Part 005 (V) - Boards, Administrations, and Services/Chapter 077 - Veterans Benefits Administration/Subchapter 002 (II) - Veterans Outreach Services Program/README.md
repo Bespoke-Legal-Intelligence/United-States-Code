@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 3485, 4103 of this title; title 29 section 2913.
+This subchapter is referred to in section 3485 of this title; title 29 section 2913.
 
 
 ---

@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(iii) an offense in which the alien is not upon arrival immediately brought and presented to an appropriate immigration officer at a designated port of entry,
 
-> &emsp;be fined under title 18 and shall be imprisoned, in the case of a first or second violation of subparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.
+> &emsp;be fined under title 18 and shall be imprisoned, in the case of a first or second violation ofsubparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.
 
 (3)(A) Any person who, during any 12-month period, knowingly hires for employment at least 10 individuals with actual knowledge that the individuals are aliens described in subparagraph (B) shall be fined under title 18 or imprisoned for not more than 5 years, or both.
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;(A) Records of any judicial or administrative proceeding in which that alien's status was an issue and in which it was determined that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
-&emsp;&emsp;(B) Official records of the Service or of the Department of State showing that the alienhad not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
+&emsp;&emsp;(B) Official records of the Service or of the Department of State showing that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
 &emsp;&emsp;(C) Testimony, by an immigration officer having personal knowledge of the facts concerning that alien's status, that the alien had not received prior official authorization to come to, enter, or reside in the United States or that such alien had come to, entered, or remained in the United States in violation of law.
 
@@ -100,7 +100,7 @@ Subsec. (a)(1)(B)(iii), (iv). Pub. L. 104–208, §203(b)(2)(C), (D), substitute
 
 Subsec. (a)(2). Pub. L. 104–208, §203(d), substituted “for each alien in respect to whom a violation of this paragraph occurs” for “for each transaction constituting a violation of this paragraph, regardless of the number of aliens involved” in introductory provisions.
 
-Subsec. (a)(2)(B). Pub. L. 104–208, §203(b)(3), in concluding provisions, substituted “be fined under title 18 and shall be imprisoned, in the case of a first or second violation of subparagraph (B)(iii), not more than 10 years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.” for “be fined in accordance with title 18 or in the case of a violation of subparagraph (B)(ii), imprisoned not more than 10 years, or both; or in the case of a violation of subparagraph (B)(i) or (B)(iii), imprisoned not more than 5 years, or both..”
+Subsec. (a)(2)(B). Pub. L. 104–208, §203(b)(3), in concluding provisions, substituted “be fined under title 18 and shall be imprisoned, in the case of a first or second violation of subparagraph (B)(iii), not more than 10years, in the case of a first or second violation of subparagraph (B)(i) or (B)(ii), not less than 3 nor more than 10 years, and for any other violation, not less than 5 nor more than 15 years.” for “be fined in accordance with title 18 or in the case of a violation of subparagraph (B)(ii), imprisoned not more than 10 years, or both; or in the case of a violation of subparagraph (B)(i) or (B)(iii), imprisoned not more than 5 years, or both..”
 
 Subsec. (a)(2)(B)(i). Pub. L. 104–208, §203(c), amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “a second or subsequent offense,”.
 
@@ -128,7 +128,7 @@ Subsec. (b)(4)(C), (5). Pub. L. 100–525, §2(d)(2), amended Pub. L. 99–603, 
 
 &emsp;“(4) willfully or knowingly encourages or induces, or attempts to encourage or induce, either directly or indirectly, the entry into the United States of—
 
-> any alien, including an alien crewman, not duly admitted by an immigration officer or not lawfully entitled to enter or reside within the United States under the terms of this chapter or any other law relating to the immigration or expulsion of aliens, shall be guilty of afelony, and upon conviction thereof shall be punished by a fine not exceeding $2,000 or by imprisonment for a term not exceeding five years, or both, for each alien in respect to whom any violation of this subsection occurs: <i>Provided, however</i>, That for the purposes of this section, employment (including the usual and normal practices incident to employment) shall not be deemed to constitute harboring.”
+> any alien, including an alien crewman, not duly admitted by an immigration officer or not lawfully entitled to enter or reside within the United States under the terms of this chapter or any other law relating to the immigration or expulsion of aliens, shall be guilty of a felony, and upon conviction thereof shall be punished by a fine not exceeding $2,000 or by imprisonment for a term not exceeding five years, or both, for each alien in respect to whom any violation of this subsection occurs: <i>Provided, however</i>, That for the purposes of this section, employment (including the usual and normal practices incident to employment) shall not be deemed to constitute harboring.”
 
 Subsec. (b)(1). Pub. L. 99–603, §112(b)(1), (2), substituted “has been or is being used” for “is used” and “seized and subject to” for “subject to seizure and” in provisions preceding subpar. (A).
 
@@ -163,6 +163,10 @@ Amendment by Pub. L. 100–525 effective as if included in enactment of Immigrat
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

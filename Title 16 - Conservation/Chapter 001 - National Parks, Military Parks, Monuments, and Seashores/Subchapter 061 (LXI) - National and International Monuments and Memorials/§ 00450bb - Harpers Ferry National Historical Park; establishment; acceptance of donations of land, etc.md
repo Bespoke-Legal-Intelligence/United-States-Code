@@ -22,7 +22,7 @@ Word “park” substituted in text for “monument” in view of redesignation 
 
 #### Acquisition of Clear and Marketable Title to Additional Park Lands
 
-Section 1(b) of Pub. L. 101–109 provided that: “Nothing in this Act \[amending this section\] shall be deemed to prohibit the Secretary from using such measures as may be necessary to acquire a clear and marketable title, free of any and all encumbrances, to the lands identified for acquisition in paragraph (a)(2) of this Act.”
+Section 1(b) of Pub. L. 101–109 provided that: “Nothing in this Act \[amending this section\] shall be deemedto prohibit the Secretary from using such measures as may be necessary to acquire a clear and marketable title, free of any and all encumbrances, to the lands identified for acquisition in paragraph (a)(2) of this Act.”
 
 #### Authorization of Appropriations
 

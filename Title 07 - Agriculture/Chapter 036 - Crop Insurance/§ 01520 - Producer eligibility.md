@@ -10,7 +10,7 @@ Except as otherwise provided in this chapter, a producer shall not be denied ins
 
 #### Amendments
 
-1994—Pub. L. 103–354 substituted “Producer eligibility” for “Persons under twenty-one years of age” in section catchline and amended text generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no person shall be denied insurance under this chapter solely on the ground that he is under twenty-one years of age if such person is (1) over eighteen years of age, and (2) has a bona fide insurable interest in a crop as an owner-operator, landlord, tenant or sharecropper: <i>Provided</i>, That any such person who enters into a Federal Crop Insurance contract shall be subject to the same legal liability andhave the same legal rights with respect to such contract as any person over the age of twenty-one years.”
+1994—Pub. L. 103–354 substituted “Producer eligibility” for “Persons under twenty-one years of age” in section catchline and amended text generally. Prior to amendment, text read as follows: “Notwithstanding any other provision of law, no person shall be denied insurance under this chapter solely on the ground that he is under twenty-one years of age if such person is (1) over eighteen years of age, and (2) has a bona fide insurable interest in a crop as an owner-operator, landlord, tenant or sharecropper: <i>Provided</i>, That any such person who enters into a Federal Crop Insurance contract shall be subject to the same legal liability and have the same legal rights with respect to such contract as any person over the age of twenty-one years.”
 
 #### Effective Date of 1994 Amendment
 

@@ -1,0 +1,54 @@
+### §15403. Condition for receipt of funds
+
+#### (a) In general
+
+A State is eligible to receive a requirements payment for a fiscal year if the chief executive officer of the State, or designee, in consultation and coordination with the chief State election official, has filed with the Commission a statement certifying that the State is in compliance with the requirements referred to in subsection (b) of this section. A State may meet the requirement of the previous sentence by filing with the Commission a statement which reads as follows: “\_\_\_\_\_\_\_\_\_\_\_\_ hereby certifies that it is in compliance with the requirements referredto in section 253(b) of the Help America Vote Act of 2002.” (with the blank to be filled in with the name of the State involved).
+
+#### (b) State plan requirement; certification of compliance with applicable laws and requirements
+
+The requirements referred to in this subsection are as follows:
+
+&emsp;(1) The State has filed with the Commission a State plan covering the fiscal year which the State certifies—
+
+&emsp;&emsp;(A) contains each of the elements described in section 15404 of this title with respect to the fiscal year;
+
+&emsp;&emsp;(B) is developed in accordance with section 15405 of this title; and
+
+&emsp;&emsp;(C) meets the public notice and comment requirements of section 15406 of this title.
+
+&emsp;(2) The State has filed with the Commission a plan for the implementation of the uniform, nondiscriminatory administrative complaint procedures required under section 15512 of this title (or has included such a plan in the State plan filed under paragraph (1)), and has such procedures in place for purposes of meeting the requirements of such section. If the State does not include such an implementation plan in the State plan filed under paragraph (1), the requirements of sections 15405(b) and 15406 of this title shall apply to the implementation plan in the same manner as such requirements apply to the State plan.
+
+&emsp;(3) The State is in compliance with each of the laws described in section 15545 of this title, as such laws apply with respect to this chapter.
+
+&emsp;(4) To the extent that any portion of the requirements payment is used for activities other than meeting the requirements of subchapter III of this chapter—
+
+&emsp;&emsp;(A) the State's proposed uses of the requirements payment are not inconsistent with the requirements of subchapter III of this chapter; and
+
+&emsp;&emsp;(B) the use of the funds under this paragraph is consistent with the requirements of section 15401(b) of this title.
+
+&emsp;(5) The State has appropriated funds for carrying out the activities for which the requirements payment is made in an amount equal to 5 percent of the total amount to be spent for such activities (taking into account the requirements payment and the amount spent by the State) and, in the case of a State that uses a requirements payment as a reimbursement under section 15401(c)(2) of this title, an additional amount equal to the amount of such reimbursement.
+
+#### (c) Methods of compliance left to discretion of State
+
+The specific choices on the methods of complying with the elements of a State plan shall be left to the discretion of the State.
+
+#### (d) Timing for filing of certification
+
+A State may not file a statement of certification under subsection (a) of this section until the expiration of the 45-day period (or, in the case of a fiscal year other than the first fiscal year for which a requirements payment is made to the State under this part, the 30-day period) which begins on the date the State plan under this part is published in the Federal Register pursuant to section 15405(b) of this title.
+
+#### (e) Chief State election official defined
+
+In this part, the “chief State election official” of a State is the individual designated by the State under section 10 of the National Voter Registration Act of 1993 (42 U.S.C. 1973gg–8) to be responsible for coordination of the State's responsibilities under such Act.
+
+(Pub. L. 107–252, title II, §253, Oct. 29, 2002, 116 Stat. 1693.)
+
+#### References in Text
+
+Section 253(b) of the Help America Vote Act of 2002, referred to in subsec. (a), is classified to subsec. (b) of this section.
+
+The National Voter Registration Act of 1993, referred to in subsec. (e), is Pub. L. 103–31, May 20, 1993, 107 Stat. 77, as amended, which is classified principally to subchapter I–H (§1973gg et seq.) of chapter 20 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1971 of this title and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 15401 of this title.
+

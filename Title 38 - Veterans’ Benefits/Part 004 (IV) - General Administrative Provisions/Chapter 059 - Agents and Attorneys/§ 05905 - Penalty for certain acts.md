@@ -10,7 +10,7 @@ Whoever (1) directly or indirectly solicits, contracts for, charges, or receives
 
 Pub. L. 102–83 substituted “1984” for “784”.
 
-1988—Pub. L. 100–687 substituted “shall be fined as provided in title 18, or imprisoned not more than one year, or both” for “shall be fined not more than $500 or imprisoned at hard labor for not more than two years, or both”.
+1988—Pub. L. 100–687 substituted “shall be fined as provided in title 18, or imprisoned not more than oneyear, or both” for “shall be fined not more than $500 or imprisoned at hard labor for not more than two years, or both”.
 
 1986—Pub. L. 99–576 substituted “to the claimant or beneficiary” for “him”.
 

@@ -48,7 +48,7 @@ Notwithstanding the foregoing, any Federal Reserve bank, under rules and regulat
 
 &emsp;&emsp;&emsp;(i) in the case of any critically undercapitalized depository institution—
 
-&emsp;&emsp;&emsp;&emsp;(I) any advance under this section to such institution is outstanding without payment having been demanded as of the end of the 5-day period beginning on the date the institution becomes a critically undercapitalized depository institution; or
+&emsp;&emsp;&emsp;&emsp;(I) any advance under this section to such institution is outstanding withoutpayment having been demanded as of the end of the 5-day period beginning on the date the institution becomes a critically undercapitalized depository institution; or
 
 &emsp;&emsp;&emsp;&emsp;(II) any new advance is made to such institution under this section after the end of such period; and
 

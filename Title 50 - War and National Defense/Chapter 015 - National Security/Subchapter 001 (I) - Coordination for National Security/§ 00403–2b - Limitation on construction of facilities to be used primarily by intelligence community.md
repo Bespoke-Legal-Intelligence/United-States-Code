@@ -44,7 +44,7 @@ Section 601, referred to in subsec. (c), means section 601 of Pub. L. 103–359,
 
 #### Codification
 
-Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1995, and not as part ofthe National Security Act of 1947 which comprises this chapter.
+Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 1995, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Definitions
 

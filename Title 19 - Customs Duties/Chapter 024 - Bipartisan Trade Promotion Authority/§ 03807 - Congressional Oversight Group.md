@@ -1,0 +1,72 @@
+### §3807. Congressional Oversight Group
+
+#### (a) Members and functions
+
+#### (1) In general
+
+&emsp;By not later than 60 days after August 6, 2002, and not later than 30 days after the convening of each Congress, the chairman of the Committee on Ways and Means of the House of Representatives and the chairman of the Committee on Finance of the Senate shall convene the Congressional Oversight Group.
+
+#### (2) Membership from the House
+
+&emsp;In each Congress, the Congressional Oversight Group shall be comprised of the following Members of the House of Representatives:
+
+&emsp;&emsp;(A) The chairman and ranking member of the Committee on Ways and Means, and 3 additional members of such Committee (not more than 2 of whom are members of the same political party).
+
+&emsp;&emsp;(B) The chairman and ranking member, or their designees, of the committees of the House of Representatives which would have, under the Rules of the House of Representatives, jurisdiction over provisions of law affected by a trade agreement negotiations for which are conducted at any time during that Congress and to which this chapter would apply.
+
+#### (3) Membership from the Senate
+
+&emsp;In each Congress, the Congressional Oversight Group shall also be comprised of the following members of the Senate:
+
+&emsp;&emsp;(A) The chairman and ranking member of the Committee on Finance and 3 additional members of such Committee (not more than 2 of whom are members of the same political party).
+
+&emsp;&emsp;(B) The chairman and ranking member, or their designees, of the committees of the Senate which would have, under the Rules of the Senate, jurisdiction over provisions of law affected by a trade agreement negotiations for which are conducted at any time during that Congress and to which this chapter would apply.
+
+#### (4) Accreditation
+
+&emsp;Each member of the Congressional Oversight Group described in paragraph <sup>1</sup> (2)(A) and (3)(A) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in negotiations for any trade agreement to which this chapter applies. Each member of the Congressional Oversight Group described in paragraph <sup>1</sup> (2)(B) and (3)(B) shall be accredited by the United States Trade Representative on behalf of the President as an official adviser to the United States delegation in the negotiations by reason of which the member is in the Congressional Oversight Group. The Congressional Oversight Group shall consult with and provide advice to the Trade Representative regarding the formulation of specific objectives, negotiating strategies and positions, the development of the applicable trade agreement, and compliance and enforcement of the negotiated commitments under the trade agreement.
+
+#### (5) Chair
+
+&emsp;The Congressional Oversight Group shall be chaired by the Chairman of the Committee onWays and Means of the House of Representatives and the Chairman of the Committee on Finance of the Senate.
+
+#### (b) Guidelines
+
+#### (1) Purpose and revision
+
+&emsp;The United States Trade Representative, in consultation with the chairmen and ranking minority members of the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate—
+
+&emsp;&emsp;(A) shall, within 120 days after August 6, 2002, develop written guidelines to facilitate the useful and timely exchange of information between the Trade Representative and the Congressional Oversight Group convened under this section; and
+
+&emsp;&emsp;(B) may make such revisions to the guidelines as may be necessary from time to time.
+
+#### (2) Content
+
+&emsp;The guidelines developed under paragraph (1) shall provide for, among other things—
+
+&emsp;&emsp;(A) regular, detailed briefings of the Congressional Oversight Group regarding negotiating objectives, including the promotion of certain priorities referred to in section 3802(c) of this title, and positions and the status of the applicable negotiations, beginning as soon as practicable after the Congressional Oversight Group is convened, with more frequent briefings as trade negotiations enter the final stage;
+
+&emsp;&emsp;(B) access by members of the Congressional Oversight Group, and staff with proper security clearances, to pertinent documents relating to the negotiations, including classified materials;
+
+&emsp;&emsp;(C) the closest practicable coordination between the Trade Representative and the Congressional Oversight Group at all critical periods during the negotiations, including at negotiation sites;
+
+&emsp;&emsp;(D) after the applicable trade agreement is concluded, consultation regarding ongoing compliance and enforcement of negotiated commitments under the trade agreement; and
+
+&emsp;&emsp;(E) the time frame for submitting the report required under section 3802(c)(8) of this title.
+
+#### (c) Request for meeting
+
+Upon the request of a majority of the Congressional Oversight Group, the President shall meet with the Congressional Oversight Group before initiating negotiations with respect to a trade agreement, or at any other time concerning the negotiations.
+
+(Pub. L. 107–210, div. B, title XXI, §2107, Aug. 6, 2002, 116 Stat. 1017.)
+
+#### Delegation of Functions
+
+For delegation of functions of President under this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3802, 3804, 3805, 3806, 3809 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “paragraphs”.</i>
+

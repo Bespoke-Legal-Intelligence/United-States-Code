@@ -42,3 +42,7 @@ Upon the appointment of members to the National Board under subsection (b) of th
 
 The emergency food and shelter program established pursuant to section 101(g) of Public Law 99–500 or Public Law 99–591, referred to in subsec. (e)(1), means the emergency food and shelter program authorized by title II of H.R. 5313 \[Department of Housing and Urban Development—Independent Agencies Appropriations Act, 1987\], as incorporated by reference by section 101(g) of Pub. L. 99–500, Oct. 18, 1986, 100 Stat. 1783–242, and Pub. L. 99–591, Oct. 30, 1986, 100 Stat. 3341–242, which is not classified to the Code.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

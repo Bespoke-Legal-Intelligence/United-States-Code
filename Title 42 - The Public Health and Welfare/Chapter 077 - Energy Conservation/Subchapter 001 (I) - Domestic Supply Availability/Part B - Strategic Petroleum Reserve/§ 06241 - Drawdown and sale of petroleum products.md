@@ -126,7 +126,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 &emsp;&emsp;&emsp;(ii) submit one or more alternative offers, for other categories of the petroleum product, that will be binding if no price competitive contract is awarded for the category of petroleum product on which a binding offer is submitted under clause (i); and
 
-&emsp;&emsp;(B) at the request of the Governor of the State of Hawaii, a petroleum product purchased by the State of Hawaii at a competitive sale or through a binding offer shallhave first preference in scheduling for lifting.
+&emsp;&emsp;(B) at the request of the Governor of the State of Hawaii, a petroleum product purchased by the State of Hawaii at a competitive sale or through a binding offer shall have first preference in scheduling for lifting.
 
 #### (3) Limitation on quantity
 
@@ -186,7 +186,7 @@ Notwithstanding any other law, the President may permit any petroleum products w
 
 &emsp;At the request of the Governor of an insular area, the Secretary shall, for a period not to exceed 180 days following a drawdown of the Strategic Petroleum Reserve, assist the insular area or the President of a Freely Associated State in its efforts to maintain adequate supplies of petroleum products from traditional and nontraditional suppliers.
 
-(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9, 1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031.)
+(Pub. L. 94–163, title I, §161, Dec. 22, 1975, 89 Stat. 888; Pub. L. 95–619, title VI, §691(b)(2), Nov. 9,1978, 92 Stat. 3288; Pub. L. 99–58, title I, §103(a), (b)(2), July 2, 1985, 99 Stat. 103, 104; Pub. L. 101–383, §§3(b), 8, 10, Sept. 15, 1990, 104 Stat. 727, 735; Pub. L. 102–486, title XIV, §1401, Oct. 24, 1992, 106 Stat. 2993; Pub. L. 105–388, §9(a), Nov. 13, 1998, 112 Stat. 3482; Pub. L. 106–469, title I, §103(15), Nov. 9, 2000, 114 Stat. 2031.)
 
 #### References in Text
 
@@ -202,7 +202,7 @@ Subsec. (b). Pub. L. 106–469, §103(15)(C), struck out subsec. (b) which read 
 
 Subsec. (c). Pub. L. 106–469, §103(15)(C), struck out subsec. (c) which read as follows: “Drawdown and distribution of the Early Storage Reserve may be made in accordance with the provisions of the Distribution Plan contained in the Early Storage Reserve Plan until the Strategic Petroleum Reserve Plan has taken effect pursuant to section 6239(a) of this title.”
 
-Subsec. (d)(1). Pub. L. 106–469, §103(15)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Neither the Distribution Plan contained in the Strategic Petroleum Reserve Plan nor the Distribution Plan contained in the Early Storage Reserve Plan may be implemented, and no drawdown and distribution of the Reserve or the Early Storage Reserve maybe made, unless the President has found that implementation of either such Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program.”
+Subsec. (d)(1). Pub. L. 106–469, §103(15)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Neither the Distribution Plan contained in the Strategic Petroleum Reserve Plan nor the Distribution Plan contained in the Early Storage Reserve Plan may be implemented, and no drawdown and distribution of the Reserve or the Early Storage Reserve may be made, unless the President has found that implementation of either such Distribution Plan is required by a severe energy supply interruption or by obligations of the United States under the international energy program.”
 
 Subsec. (e). Pub. L. 106–469, §103(15)(E), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “The Secretary may, by rule, provide for the allocation of any petroleum product withdrawn from the Strategic Petroleum Reserve in amounts specified in (or determined in a manner prescribed by) and at prices specified in (or determined in a manner prescribed by) such rules. Such price levels and allocation procedures shall be consistent with the attainment, to the maximum extent practicable, of the objectives specified in section 753(b)(1) of title 15.”
 

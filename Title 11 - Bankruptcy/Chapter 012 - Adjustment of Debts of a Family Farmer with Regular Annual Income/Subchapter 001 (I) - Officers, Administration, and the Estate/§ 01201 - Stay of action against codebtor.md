@@ -18,7 +18,7 @@
 
 (d) Twenty days after the filing of a request under subsection (c)(2) of this section for relief from the stay provided by subsection (a) of this section, such stay is terminated with respect to the party in interest making such request, unless the debtor or any individual that is liable on such debt with the debtor files and serves upon such party in interest a written objection to the taking of the proposed action.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3105, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3105, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
 
 #### Termination of Section
 
@@ -28,11 +28,19 @@
 
 For repeal of section effective Oct. 1, 1998, and subsequent reenactment of section for specific periods, see note set out preceding section 1201 of this title.
 
+#### Effective Date of 2002 Amendments
+
+Pub. L. 107–377, §2(b), Dec. 19, 2002, 116 Stat. 3115, provided that: “The amendments made by subsection (a) \[amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] shall take effect on January 1, 2003.”
+
+Pub. L. 107–171, title X, §10814(b), May 13, 2002, 116 Stat. 532, provided that: “The amendments made by subsection (a) \[amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] shall take effect on June 1, 2002.”
+
+Pub. L. 107–170, §2, May 7, 2002, 116 Stat. 133, provided that: “The amendments made by section 1 \[amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] shall take effect on October 1, 2001.”
+
 #### Effective Date of 2001 Amendments
 
 Pub. L. 107–17, §2, June 26, 2001, 115 Stat. 151, provided that: “The amendments made by section 1 \[amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] shall take effect on June 1, 2001.”
 
-Pub. L. 107–8, §2, May 11, 2001, 115 Stat. 10, provided that: “The amendments made by section 1 \[amending this section and sections 1202 to 1208 and 1221 to 1231 ofthis title and amending provisions set out as a note under this section\] shall take effect on July 1, 2000.”
+Pub. L. 107–8, §2, May 11, 2001, 115 Stat. 10, provided that: “The amendments made by section 1 \[amending this section and sections 1202 to 1208 and 1221 to 1231 of this title and amending provisions set out as a note under this section\] shall take effect on July 1, 2000.”
 
 #### Effective Date of 1999 Amendments
 
@@ -46,11 +54,11 @@ Chapter effective 30 days after Oct. 27, 1986, but not applicable to cases comme
 
 #### Repeal, Reenactment, and Termination of Chapter
 
-Pub. L. 105–277, div. C, title I, §149, Oct. 21, 1998, 112 Stat. 2681–610, as amended by Pub. L. 106–5, §1, Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151, provided that:
+Pub. L. 105–277, div. C, title I, §149, Oct. 21, 1998, 112 Stat. 2681–610, as amended by Pub. L. 106–5, §1, Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115, provided that:
 
-“(a) Chapter 12 of title 11 of the United States Code, as in effect on May 31, 2001, is hereby reenacted for the period beginning on June 1, 2001, and ending on October 1, 2001.
+“(a) Chapter 12 of title 11 of the United States Code, as in effect on December 31, 2002, is hereby reenacted for the period beginning on January 1, 2003, and ending on July 1, 2003.
 
-“(b) All cases commenced or pending under chapter 12 of title 11, United States Code, as reenacted under subsection (a), and all matters and proceedings in or relating to such cases, shall be conducted and determined under such chapter as if such chapter were continued in effect after October 1, 2001. The substantive rights of parties in connection with such cases, matters, and proceedings shall continue to be governed under the laws applicable to such cases, matters, and proceedings as if such chapter were continued in effect after October 1, 2001.”
+“(b) All cases commenced or pending under chapter 12 of title 11, United States Code, as reenacted under subsection (a), and all matters and proceedings in or relating to such cases, shall be conducted and determined under such chapter as if such chapter were continued in effect after July 1, 2003. The substantive rights of parties in connection with such cases, matters, and proceedings shall continue to be governed under the laws applicable to such cases, matters, and proceedings as if such chapter were continued in effect after July 1, 2003.”
 
 Chapter repealed Oct. 1, 1998, except that cases commenced or pending under this chapter, and all matters and proceedings in or relating to such cases, are to be conducted and determined as if this chapter had not been repealed, and substantive rights of parties in connection with such cases, matters, and proceedings are to continue to be governed under the laws applicable to such cases, matters, and proceedings as if this chapter had not been repealed, see section 302(f) of Pub. L. 99–554, as amended, set out in an Effective Date of 1986 Amendment note under section 581 of Title 28, Judiciary and Judicial Procedure.
 

@@ -28,7 +28,7 @@ In order to facilitate the administration of the National Park System, the Secre
 
 #### (7) Rights-of-way
 
-&emsp;Acquiring such rights-of-way as may be necessary to construct, improve, and maintain roads within the authorized boundaries of any area of said National Park System and the acquisition also of land and interests in land adjacent to such rights-of-way, when deemed necessary by the Secretary, to provide adequate protection of natural features or to avoid traffic and other hazards resulting from private road access connections, or when the acquisition of adjacent residual tracts, which otherwise would remain after acquiring such rights-of-way, would be in the public interest.
+&emsp;Acquiring such rights-of-way as may be necessary to construct, improve, and maintain roads within the authorized boundaries of any area of said National Park System and the acquisition also of land and interests in land adjacent to such rights-of-way, when deemed necessary by the Secretary, to provide adequate protection of natural features or toavoid traffic and other hazards resulting from private road access connections, or when the acquisition of adjacent residual tracts, which otherwise would remain after acquiring such rights-of-way, would be in the public interest.
 
 #### (8) Operation and maintenance of motor and other equipment; rent of equipment; reimbursement
 

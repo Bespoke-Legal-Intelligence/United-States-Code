@@ -42,7 +42,7 @@ The State agency shall have in effect safeguards on the integrity, accuracy, and
 
 #### (3) Monitoring of access
 
-&emsp;Routine monitoring of access to and use of the automated system, through methods suchas audit trails and feedback mechanisms, to guard against and promptly identify unauthorized access or use.
+&emsp;Routine monitoring of access to and use of the automated system, through methods such as audit trails and feedback mechanisms, to guard against and promptly identify unauthorized access or use.
 
 #### (4) Training and information
 
@@ -86,7 +86,7 @@ The State agency shall have in effect safeguards on the integrity, accuracy, and
 
 #### (5) Updating and monitoring
 
-&emsp;The State agency operating the automated system required by this section shall promptly establish and update, maintain, and regularly monitor, case records in the State case registry with respect to which services are being provided under the State plan approved under this part, on the basis of—
+&emsp;The State agency operating the automated system required by this section shall promptlyestablish and update, maintain, and regularly monitor, case records in the State case registry with respect to which services are being provided under the State plan approved under this part, on the basis of—
 
 &emsp;&emsp;(A) information on administrative actions and administrative and judicial proceedings and orders relating to paternity and support;
 
@@ -118,7 +118,7 @@ The State shall use the automated system required by this section to extract inf
 
 #### (5) Private industry councils receiving welfare-to-work grants
 
-&emsp;Disclosing to a private industry council (as defined in section 603(a)(5)(D)(ii) of this title)to which funds are provided under section 603(a)(5) of this title the names, addresses, telephone numbers, and identifying case number information in the State program funded under part A of this subchapter, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under section 603(a)(5) of this title.
+&emsp;Disclosing to a private industry council (as defined in section 603(a)(5)(D)(ii) of this title) to which funds are provided under section 603(a)(5) of this title the names, addresses, telephone numbers, and identifying case number information in the State program funded under part A of this subchapter, of noncustodial parents residing in the service delivery area of the private industry council, for the purpose of identifying and contacting noncustodial parents regarding participation in the program under section 603(a)(5) of this title.
 
 #### (g) Collection and distribution of support payments
 
@@ -156,7 +156,7 @@ Part A of this subchapter, referred to in subsec. (f)(3), (5), is classified to 
 
 1999—Subsec. (f)(5). Pub. L. 106–113 added par. (5).
 
-1997—Subsec. (e)(4)(D). Pub. L. 105–34 substituted “the birth date and, beginning not later than October 1, 1999, the social security number, of any child” for “the birth date of any child”.
+1997—Subsec. (e)(4)(D). Pub. L. 105–34 substituted “the birth date and, beginning not later than October 1, 1999,the social security number, of any child” for “the birth date of any child”.
 
 1996—Subsecs. (e), (f). Pub. L. 104–193, §311, added subsecs. (e) and (f).
 

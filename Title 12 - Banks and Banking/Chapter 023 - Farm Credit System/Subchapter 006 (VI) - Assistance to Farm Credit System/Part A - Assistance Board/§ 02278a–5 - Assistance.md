@@ -6,7 +6,7 @@ The Assistance Board shall assist an institution that has been certified under s
 
 &emsp;(1) authorizing the institution to issue preferred stock under section 2278b–7 of this title, in amounts necessary to maintain the book value of stock, participation certificates, and other similar equities of the institution, at the level provided for in subsection (c) of this section;
 
-&emsp;(2) in the case of high-cost debt for which the institution is primarily liable, authorizingthe institution to issue preferred stock under section 2278b–7 of this title, in an amount equal to the premium that would be required by the holder of the debt for the institution to retire the debt at the then current market value;
+&emsp;(2) in the case of high-cost debt for which the institution is primarily liable, authorizing the institution to issue preferred stock under section 2278b–7 of this title, in an amount equal to the premium that would be required by the holder of the debt for the institution to retire the debt at the then current market value;
 
 &emsp;(3) on a request by the institution, authorizing the issuance of preferred stock under section 2278b–7 of this title to facilitate the merger of the requesting institution with one or more other System institutions; or
 
@@ -26,7 +26,7 @@ The Assistance Board shall authorize a certified institution to issue amounts of
 
 #### (d) Limitation
 
-Except as provided in section 410(c) of the Agricultural Credit Act of 1987, no assistance shall be provided in connection with a merger until the stockholders and the institutions involved have approved the merger and the Farm Credit Administration has given final approval to the merger plan.
+Except as provided in section 410(c) of the Agricultural Credit Act of 1987, no assistance shallbe provided in connection with a merger until the stockholders and the institutions involved have approved the merger and the Farm Credit Administration has given final approval to the merger plan.
 
 (Pub. L. 92–181, title VI, §6.5, as added Pub. L. 100–233, title II, §201, Jan. 6, 1988, 101 Stat. 1588; amended Pub. L. 100–399, title II, §201(d), (e), Aug. 17, 1988, 102 Stat. 991.)
 

@@ -2,7 +2,27 @@
 
 #### (a) Limitation on outstanding amounts
 
-The Export-Import Bank of the United States shall not have outstanding at any one time loans, guaranties, and insurance in an aggregate amount in excess of $75,000,000,000. All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
+#### (1) In general
+
+&emsp;The Export-Import Bank of the United States shall not have outstanding at any one time loans, guarantees, and insurance in an aggregate amount in excess of the applicable amount.
+
+#### (2) Applicable amount
+
+&emsp;In paragraph (1), the term “applicable amount” means—
+
+&emsp;&emsp;(A) during fiscal year 2002, $80,000,000,000;
+
+&emsp;&emsp;(B) during fiscal year 2003, $85,000,000,000;
+
+&emsp;&emsp;(C) during fiscal year 2004, $90,000,000,000;
+
+&emsp;&emsp;(D) during fiscal year 2005, $95,000,000,000; and
+
+&emsp;&emsp;(E) during fiscal year 2006, $100,000,000,000.
+
+#### (3) Subject to appropriations
+
+&emsp;All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
 #### (b) Presidential determination
 
@@ -26,13 +46,15 @@ The Export-Import Bank of the United States shall not have outstanding at any on
 
 &emsp;&emsp;The Bank shall continue to make remaining amounts of its authority available for the fiscal year involved, in accordance with its practices and the requirements of this subchapter, unless otherwise directed pursuant to law.
 
-(July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529; Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367; May 21, 1953, ch. 64, §2, 67 Stat. 28; Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678; Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title VI, §§615, 620(d), Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, §121(1), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; renumbered §6 and amended Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031.)
+(July 31, 1945, ch. 341, §6, formerly §7, 59 Stat. 529; Oct. 3, 1951, ch. 445, §1(b), 65 Stat. 367; May 21, 1953, ch. 64, §2, 67 Stat. 28; Aug. 9, 1954, ch. 660, §3(b), 68 Stat. 678; Pub. L. 85–424, §1(2), May 22, 1958, 72 Stat. 133; Pub. L. 88–101, §1(b), Aug. 20, 1963, 77 Stat. 128; Pub. L. 90–267, §1(a), (e), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 92–126, §1(b)(3), Aug. 17, 1971, 85 Stat. 345; Pub. L. 93–646, §8, Jan. 4, 1975, 88 Stat. 2336; Pub. L. 95–630, title XIX, §§1905, 1914, Nov. 10, 1978, 92 Stat. 3725, 3727; Pub. L. 97–35, title III, §381(a), Aug. 13, 1981, 95 Stat. 431; Pub. L. 98–181, title VI, §§615, 620(d), Nov. 30, 1983, 97 Stat. 1256, 1261; Pub. L. 99–472, §§13, 17, Oct. 15, 1986, 100 Stat. 1204, 1205; Pub. L. 102–145, §121(1), Oct. 28, 1991, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 95; renumbered §6 and amended Pub. L. 102–429, title I, §§109(b), 121(c)(2), Oct. 21, 1992, 106 Stat. 2193, 2199; Pub. L. 106–569, title XI, §1104(a)(3), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §5, June 14, 2002, 116 Stat. 699.)
 
 #### Prior Provisions
 
 A prior section 6 of act July 31, 1945, ch. 341, was renumbered section 5 and is classified to section 635d of this title.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–189 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Export-Import Bank of the United States shall not have outstanding at any one time loans, guaranties, and insurance in an aggregate amount in excess of $75,000,000,000. All spending and credit authority provided under this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
 
 2000—Subsec. (b)(2), (3). Pub. L. 106–569 redesignated par. (3) as (2) and struck out heading and text of former par. (2). Text read as follows: “Not later than April 15 of each year, the President of the United States shall transmit to the Congress a report on such determination.”
 
@@ -46,7 +68,7 @@ Authorization of Appropriation.—There are authorized to be appropriated $145,2
 
 Subsec. (a)(3). Pub. L. 99–472, §13, added par. (3).
 
-1983—Subsec. (a)(2). Pub. L. 98–181, §615, amended par. (2) generally, substituting provisions requiring a Presidential determination, not later than March 31 of each fiscal year, as to whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank's needs, requiring the President to transmit to Congress a report on such determination no later than April 15 of each year, and establishing procedures if the direct loan or guarantee authority available exceeds the amount necessary, for provision limiting gross obligations for the principal amount of direct loans authorized by the Bank during fiscal years 1982 and 1983 to$10,478,000,000, and designating specified amounts thereof for each fiscal year.
+1983—Subsec. (a)(2). Pub. L. 98–181, §615, amended par. (2) generally, substituting provisions requiring a Presidential determination, not later than March 31 of each fiscal year, as to whether the authority available to the Bank for such fiscal year will be sufficient to meet the Bank's needs, requiring the President to transmit to Congress a report on such determination no later than April 15 of each year, and establishing procedures if the direct loan or guarantee authority available exceeds the amount necessary, for provision limiting gross obligations for the principal amount of direct loans authorized by the Bank during fiscal years 1982 and 1983 to $10,478,000,000, and designating specified amounts thereof for each fiscal year.
 
 Subsec. (b). Pub. L. 98–181, §620(d), substituted “the President” for “he” before “determines that such higher limitation” and “reports such determination”.
 

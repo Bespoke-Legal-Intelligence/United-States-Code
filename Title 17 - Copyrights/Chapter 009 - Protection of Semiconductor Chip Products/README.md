@@ -4,12 +4,7 @@
 | :--- | ---: |
 | [901\.](%C2%A7%2000901%20-%20Definitions.md) | Definitions. |
 | [902\.](%C2%A7%2000902%20-%20Subject%20matter%20of%20protection.md) | Subject matter of protection. |
-| [903\.](%C2%A7%2000903%20-%20Ownership%2C%20transfer%2C%20licensing%2C%20and%20recordation.md) | Ownership, transfer, licensure, and recordation.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [903\.](%C2%A7%2000903%20-%20Ownership%2C%20transfer%2C%20licensing%2C%20and%20recordation.md) | Ownership, transfer, licensing, and recordation. |
 | [904\.](%C2%A7%2000904%20-%20Duration%20of%20protection.md) | Duration of protection. |
 | [905\.](%C2%A7%2000905%20-%20Exclusive%20rights%20in%20mask%20works.md) | Exclusive rights in mask works. |
 | [906\.](%C2%A7%2000906%20-%20Limitation%20on%20exclusive%20rights%20reverse%20engineering%3B%20first%20sale.md) | Limitation on exclusive rights: reverse engineering; first sale. |
@@ -26,13 +21,13 @@
 
 #### Amendments
 
+2002—Pub. L. 107–273, div. C, title III, §13210(11), Nov. 2, 2002, 116 Stat. 1910, substituted “licensing” for “licensure” in item 903.
+
 1997—Pub. L. 105–80, §12(a)(21), Nov. 13, 1997, 111 Stat. 1535, substituted “Ownership, transfer, licensure, and recordation” for “Ownership and transfer” in item 903.
 
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 109 of this title; title 11 section 101; title 19 section 1337; title 28 sections 1338, 1498.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

@@ -130,5 +130,5 @@ Pub. L. 100–202, §101(i) \[title III, §309\], Dec. 22, 1987, 101 Stat. 1329�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 503 of this title; title 7 section 285; title 10 section 195; title 15 section 4051; title 16 sections 916<i>l</i>, 961; title 20 sections 954, 956; title 21 section 114c; title 22 sections 272a, 280b, 280i, 280k, 287e, 287r, 290b, 290f, 1471, 2024, 2669, 3714b; title 33 section 1123; title 35 section 2; title 42 sections 299c–3, 284, 1870.
+This section is referred to in section 503 of this title; title 7 section 285; title 10 section 195; title 15 section 4051; title 16 sections 916<i>l</i>, 961; title 20 sections 954, 956; title 22 sections 272a, 280b, 280i, 280k, 287e, 287r, 290b, 290f, 1471, 2024, 2669, 3714b; title 33 section 1123; title 35 section 2; title 42 sections 299c–3, 284, 1870.
 

@@ -52,7 +52,7 @@ Section effective on first day of first applicable pay period which begins on or
 
 #### Regulations
 
-Pub. L. 105–277, div. A, §101(h) \[title VI, §628(f)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that: “Under regulations prescribed by the Office of Personnel Management, a firefighter subject to section 5545b of title 5, United States Code, as added by this section, whose regular tours of duty average 60 hours or less per workweek and do not include a basic 40-hour workweek, shall, upon implementation of this section, be granted an increase in basic pay equal to 2 step-increases of the applicable General Schedule grade, and such increase shall not be an equivalent increase in pay. If such increase results in a change to a longer waiting period for the firefighter's next step increase, the firefighter shall be credited with an additional year of service for the purpose of such waiting period. If such increase results in a rate of basic pay which is above the maximum rate of the applicable grade, such resulting pay rate shall be treated as a retained rate of basic pay in accordance with section 5363 of title 5, United States Code.”
+Pub. L. 105–277, div. A, §101(h) \[title VI, §628(f)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–521, provided that:“Under regulations prescribed by the Office of Personnel Management, a firefighter subject to section 5545b of title 5, United States Code, as added by this section, whose regular tours of duty average 60 hours or less per workweek and do not include a basic 40-hour workweek, shall, upon implementation of this section, be granted an increase in basic pay equal to 2 step-increases of the applicable General Schedule grade, and such increase shall not be an equivalent increase in pay. If such increase results in a change to a longer waiting period for the firefighter's next step increase, the firefighter shall be credited with an additional year of service for the purpose of such waiting period. If such increase results in a rate of basic pay which is above the maximum rate of the applicable grade, such resulting pay rate shall be treated as a retained rate of basic pay in accordance with section 5363 of title 5, United States Code.”
 
 #### Eligibility for Pay Increase
 
@@ -82,5 +82,5 @@ Pub. L. 105–277, div. A, §101(h) \[title VI, §628(g)\], Oct. 21, 1998, 112 S
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4109, 5542, 8331 of this title.
+This section is referred to in sections 4109, 5542, 5547, 8331 of this title.
 

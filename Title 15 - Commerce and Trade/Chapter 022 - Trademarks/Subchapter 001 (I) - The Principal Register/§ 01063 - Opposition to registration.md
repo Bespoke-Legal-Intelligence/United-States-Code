@@ -60,5 +60,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1051, 1052, 1094 of this title.
+This section is referred to in sections 1051, 1052, 1094, 1141, 1141h of this title.
 

@@ -24,5 +24,5 @@ Coast Artillery changed to Artillery under authority of section 306(a) of act Ju
 
 #### Transfer of Functions
 
-For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force and Department of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40 \[App. A(55)\], July 22, 1949.
+For transfer of certain functions insofar as they pertain to Air Force, and to extent that they were not previously transferred to Secretary of the Air Force andDepartment of the Air Force from Secretary of the Army and Department of the Army, see Secretary of Defense Transfer Order No. 40 \[App. A(55)\], July 22, 1949.
 

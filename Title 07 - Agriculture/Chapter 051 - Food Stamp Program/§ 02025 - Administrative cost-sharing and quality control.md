@@ -42,109 +42,265 @@ Subject to subsection (k) of this section, the Secretary is authorized to pay to
 
 &emsp;A work supplementation or support program shall not displace the employment of individuals who are not supplemented or supported.
 
-#### (c) Payment error improvement system; purposes, establishment, definitions, implementation, etc.
+#### (c) Quality control system
 
-(1) The program authorized under this chapter shall include a system that enhances payment accuracy by establishing fiscal incentives that require State agencies with high error rates to share in the cost of payment error and provide enhanced administrative funding to States with the lowest error rates. Under such system—
+#### (1) In general
 
-&emsp;(A) the Secretary shall adjust a State agency's federally funded share of administrative costs pursuant to subsection (a) of this section, other than the costs already shared in excess of 50 percent under the proviso in the first sentence of subsection (a) of this section or under subsection (g) of this section, by increasing such share of all such administrative costs by one percentage point to a maximum of 60 percent of all such administrative costs for each full one-tenth of a percentage point by which the payment error rate is less than 6 percent, except that only States whose rate of invalid decisions in denying eligibility is less than a nationwide percentage that the Secretary determines to be reasonable shall be entitled to the adjustment prescribed in this subsection;
+#### (A) System
 
-&emsp;(B) the Secretary shall foster management improvements by the States by requiring State agencies other than those receiving adjustments under subparagraph (A) to develop and implement corrective action plans to reduce payment errors; and
+&emsp;&emsp;In carrying out the food stamp program, the Secretary shall carry out a system thatenhances payment accuracy and improves administration by establishing fiscal incentives that require State agencies with high payment error rates to share in the cost of payment error.
 
-&emsp;(C) for any fiscal year in which a State agency's payment error rate exceeds the national performance measure for payment error rates announced under paragraph (6), other than for good cause shown, the State agency shall pay to the Secretary an amount equal to—
+#### (B) Adjustment of Federal share of administrative costs for fiscal years before fiscal year 2003
 
-&emsp;&emsp;(i) <sup>2</sup> the product of—
+#### (i) In general
 
-&emsp;&emsp;&emsp;(I) the value of all allotments issued by the State agency in the fiscal year; times
+&emsp;&emsp;&emsp;Subject to clause (ii), with respect to any fiscal year before fiscal year 2003, the Secretary shall adjust a State agency's federally funded share of administrative costs under subsection (a) of this section, other than the costs already shared in excess of 50 percent under the proviso in the first sentence of subsection (a) of this section or under subsection (g) of this section, by increasing that share of all such administrative costs by 1 percentage point to a maximum of 60 percent of all such administrative costs for each full 1/10 of a percentage point by which the payment error rate is less than 6 percent.
 
-&emsp;&emsp;&emsp;(II) the lesser of—
+#### (ii) Limitation
 
-&emsp;&emsp;&emsp;&emsp;(aa) the ratio of—
+&emsp;&emsp;&emsp;Only States with a rate of invalid decisions in denying eligibility that is less than a nationwide percentage that the Secretary determines to be reasonable shall be entitled to the adjustment under clause (i).
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(aaa) the amount by which the payment error rate of the State agency for the fiscal year exceeds the national performance measure for the fiscal year; to
+#### (C) Establishment of liability amount for fiscal year 2003 and thereafter
 
-&emsp;&emsp;&emsp;&emsp;&emsp;(bbb) the national performance measure for the fiscal year, or
+&emsp;&emsp;With respect to fiscal year 2004 and any fiscal year thereafter for which the Secretary determines that, for the second or subsequent consecutive fiscal year, a 95 percent statistical probability exists that the payment error rate of a State agency exceeds 105 percent of the national performance measure for payment error rates announced under paragraph (6), the Secretary shall establish an amount for which the State agency may be liable (referred to in this paragraph as the “liability amount”) that is equal to the product obtained by multiplying—
 
-&emsp;&emsp;&emsp;&emsp;(bb) 1; times
+&emsp;&emsp;&emsp;(i) the value of all allotments issued by the State agency in the fiscal year;
 
-&emsp;&emsp;&emsp;(III) the amount by which the payment error rate of the State agency for the fiscal year exceeds the national performance measure for the fiscal year.
+&emsp;&emsp;&emsp;(ii) the difference between—
 
-> &emsp;The amount of liability shall not be affected by corrective action under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;(I) the payment error rate of the State agency; and
 
-(2) As used in this section—
+&emsp;&emsp;&emsp;&emsp;(II) 6 percent; and
 
-&emsp;(A) the term “payment error rate” means the sum of the point estimates of an overpayment error rate and an underpayment error rate determined by the Secretary from data collected in a probability sample of participating households;
+&emsp;&emsp;&emsp;(iii) 10 percent.
 
-&emsp;(B) the term “overpayment error rate” means the percentage of the value of all allotments issued in a fiscal year by a State agency that are either—
+#### (D) Authority of Secretary with respect to liability amount
 
-&emsp;&emsp;(i) issued to households that fail to meet basic program eligibility requirements; or
+&emsp;&emsp;With respect to the liability amount established for a State agency under subparagraph (C) for any fiscal year, the Secretary shall—
 
-&emsp;&emsp;(ii) overissued to eligible households; and
+&emsp;&emsp;&emsp;(i)(I) waive the responsibility of the State agency to pay all or any portion of the liability amount established for the fiscal year (referred to in this paragraph as the “waiver amount”);
 
-&emsp;(C) the term “underpayment error rate” means the ratio of the value of allotments underissued to recipient households to the total value of allotments issued in a fiscal year by a State agency.
+&emsp;&emsp;&emsp;(II) require that a portion, not to exceed 50 percent, of the liability amount established for the fiscal year be used by the State agency for new investment, approved by the Secretary, to improve administration by the State agency of the food stamp program (referred to in this paragraph as the “new investment amount”), which new investment amount shall not be matched by Federal funds;
 
-(3) The following errors may be measured for management purposes but shall not be included in the payment error rate:
+&emsp;&emsp;&emsp;(III) designate a portion, not to exceed 50 percent, of the amount established for the fiscal year for payment to the Secretary in accordance with subparagraph (E) (referred to in this paragraph as the “at-risk amount”); or
 
-&emsp;(A) Any errors resulting in the application of new regulations promulgated under this chapter during the first 120 days from the required implementation date for such regulations.
+&emsp;&emsp;&emsp;(IV) take any combination of the actions described in subclauses (I) through (III); or
 
-&emsp;(B) Errors resulting from the use by a State agency of correctly processed information concerning households or individuals received from Federal agencies or from actions based on policy information approved or disseminated, in writing, by the Secretary or the Secretary's designee.
+&emsp;&emsp;&emsp;(ii) make the determinations described in clause (i) and enter into a settlement with the State agency, only with respect to any waiver amount or new investment amount, before the end of the fiscal year in which the liability amount is determined under subparagraph (C).
 
-(4) The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency's payment error rate, enhanced administrative funding, or claim for payment error, under this subsection. If a State agency fails to meet the reporting requirements established by the Secretary, the Secretary shall base the determination on all pertinent information available to the Secretary.
+#### (E) Payment of at-risk amount for certain States
 
-(5) To facilitate the implementation of this subsection each State agency shall submit to the Secretary expeditiously data regarding its operations in each fiscal year sufficient for the Secretary to establish the payment error rate for the State agency for such fiscal year and determine the amount of either incentive payments under paragraph (1)(A) or claims under paragraph (1)(C). The Secretary shall make a determination for a fiscal year, and notify the State agency of such determination, within nine months following the end of each fiscal year. The Secretary shall initiate efforts to collect the amount owed by the State agency as a claim established under paragraph (1)(C) for a fiscal year, subject to the conclusion of any formal or informal appeal procedure and administrative or judicial review under section 2023 of this title (as provided for in paragraph (7)), before the end of the fiscal year following such fiscal year.
+#### (i) In general
 
-(6) At the time the Secretary makes the notification to State agencies of their error rates and incentive payments or claims pursuant to paragraphs (1)(A) and (1)(C), the Secretary shall also announce a national performance measure that shall be the sum of the products of each State agency's error rate as developed for the notifications under paragraph (5) times that State agency's proportion of the total value of national allotments issued for the fiscal year using the most recent issuance data available at the time of the notifications issued pursuant to paragraph (5). Where a State fails to meet reporting requirements pursuant to paragraph (4), the Secretary may use another measure of a State's error developed pursuant to paragraph (5), to develop the national performance measure. The announced national performance measure shall be used in determining the State share of the cost of payment error under paragraph (1)(C) for the fiscal year whose error rates are being announced under paragraph (5).
+&emsp;&emsp;&emsp;A State agency shall pay to the Secretary the at-risk amount designated under subparagraph (D)(i)(III) for any fiscal year in accordance with clause (ii), if, with respect to the immediately following fiscal year, a liability amount has been established for the State agency under subparagraph (C).
 
-(7) If the Secretary asserts a financial claim against a State agency under paragraph (1)(C), the State may seek administrative and judicial review of the action pursuant to section 2023 of this title.
+#### (ii) Method of payment of at-risk amount
 
-(8)(A) This paragraph applies to the determination of whether a payment is due by a State agency for a fiscal year under paragraph (1)(C).
+#### (I) Remission to the Secretary
 
-(B) Not later than 180 days after the end of the fiscal year, the case review and all arbitrations of State-Federal difference cases shall be completed.
+&emsp;&emsp;&emsp;&emsp;In the case of a State agency required to pay an at-risk amount under clause (i), as soon as practicable after completion of all administrative and judicial reviews with respect to that requirement to pay, the chief executive officer of the State shall remit to the Secretary the at-risk amount required to be paid.
 
-(C) Not later than 30 days thereafter, the Secretary shall—
+#### (II) Alternative method of collection
 
-&emsp;(i) determine final error rates, the national average payment error rate, and the amounts of payment claimed against State agencies; and
+#### (aa) In general
 
-&emsp;(ii) notify State agencies of the payment claims.
+&emsp;&emsp;&emsp;&emsp;&emsp;If the chief executive officer of the State fails to make the payment under subclause (I) within a reasonable period of time determined by the Secretary, the Secretary may reduce any amount due to the State agency under any other provision of this section by the amount required to be paid under clause (i).
 
-(D) A State agency desiring to appeal a payment claim determined under subparagraph (C) shall submit to an administrative law judge—
+#### (bb) Accrual of interest
 
-&emsp;(i) a notice of appeal, not later than 10 days after receiving a notice of the claim; and
+&emsp;&emsp;&emsp;&emsp;&emsp;During any period of time determined by the Secretary under item (aa), interest on the payment under subclause (I) shall not accrue under section 2022(a)(2) of this title.
 
-&emsp;(ii) evidence in support of the appeal of the State agency, not later than 60 days after receiving a notice of the claim.
+#### (F) Use of portion of liability amount for new investment
 
-(E) Not later than 60 days after a State agency submits evidence in support of the appeal, the Secretary shall submit responsive evidence to the administrative law judge to the extent such evidence exists.
+#### (i) Reduction of other amounts due to State agency
 
-(F) Not later than 30 days after the Secretary submits responsive evidence, the State agency shall submit rebuttal evidence to the administrative law judge to the extent such evidence exists.
+&emsp;&emsp;&emsp;In the case of a State agency that fails to comply with a requirement for new investment under subparagraph (D)(i)(II) or clause (iii)(I), the Secretary may reduce any amount due to the State agency under any other provision of this section by the portion of the liability amount that has not been used in accordance with that requirement.
 
-(G) The administrative law judge, after an evidentiary hearing, shall decide the appeal—
+#### (ii) Effect of State agency's wholly prevailing on appeal
 
-&emsp;(i) not later than 60 days after receipt of rebuttal evidence submitted by the State agency; or
+&emsp;&emsp;&emsp;If a State agency begins required new investment under subparagraph (D)(i)(II), the State agency appeals the liability amount of the State agency, and the determination by the Secretary of the liability amount is reduced to $0 on administrative or judicial review, the Secretary shall pay to the State agency an amount equal to 50 percent of the new investment amount that was included in the liability amount subject to the appeal.
 
-&emsp;(ii) if the State agency does not submit rebuttal evidence, not later than 90 days after the State agency submits the notice of appeal and evidence in support of the appeal.
+#### (iii) Effect of Secretary's wholly prevailing on appeal
 
-(H) In considering a claim under this paragraph, the administrative law judge shall consider all grounds for denying the claim, in whole or in part, including the contention of a State agency that the claim should be waived, in whole or in part, for good cause.
+&emsp;&emsp;&emsp;If a State agency does not begin required new investment under subparagraph (D)(i)(II), the State agency appeals the liability amount of the State agency, and the determination by the Secretary of the liability amount is wholly upheld on administrative or judicial review, the Secretary shall—
 
-(I) The deadlines in subparagraphs (D), (E), (F), and (G) shall be extended by the administrative law judge for cause shown.
+&emsp;&emsp;&emsp;&emsp;(I) require all or any portion of the new investment amount to be used by the State agency for new investment, approved by the Secretary, to improve administration by the State agency of the food stamp program, which amount shall not be matched by Federal funds; and
 
-(9) As used in this subsection, the term “good cause” includes—
+&emsp;&emsp;&emsp;&emsp;(II) require payment of any remaining portion of the new investment amount in accordance with subparagraph (E)(ii).
 
-&emsp;(A) a natural disaster or civil disorder that adversely affects food stamp program operations;
+#### (iv) Effect of neither party's wholly prevailing on appeal
 
-&emsp;(B) a strike by employees of a State agency who are necessary for the determination of eligibility and processing of case changes under the food stamp program;
+&emsp;&emsp;&emsp;The Secretary shall promulgate regulations regarding obligations of the Secretary and the State agency in a case in which the State agency appeals the liability amount of the State agency and neither the Secretary nor the State agency wholly prevails.
 
-&emsp;(C) a significant growth in food stamp caseload in a State prior to or during a fiscal year, such as a 15 percent growth in caseload;
+#### (G) Corrective action plans
 
-&emsp;(D) a change in the food stamp program or other Federal or State program that has a substantial adverse impact on the management of the food stamp program of a State; and
+&emsp;&emsp;The Secretary shall foster management improvements by the States by requiring State agencies, other than State agencies with payment error rates of less than 6 percent, to develop and implement corrective action plans to reduce payment errors.
 
-&emsp;(E) a significant circumstance beyond the control of the State agency.
+#### (2) Error rate definitions
 
-#### (d) Assessment and evaluation of payment error improvement system
+&emsp;As used in this section—
 
-The Secretary shall undertake the following studies of the payment error improvement system established under subsection (c) of this section:
+&emsp;&emsp;(A) the term “payment error rate” means the sum of the point estimates of an overpayment error rate and an underpayment error rate determined by the Secretary from data collected in a probability sample of participating households;
 
-&emsp;(1) An assessment of the feasibility of measuring payment errors due to improper denials and terminations of benefits or otherwise developing performance standards with financial consequences for improper denials and terminations, including incorporation in subsection (c) of this section. The Secretary shall report the results of such study and the recommendations of the Secretary to the Congress by July 1, 1990.
+&emsp;&emsp;(B) the term “overpayment error rate” means the percentage of the value of all allotments issued in a fiscal year by a State agency that are either—
 
-&emsp;(2) An evaluation of the effectiveness of the system of program improvement initiated under this section that shall be reported to the Congress along with the Secretary's recommendations no later than 3 years from September 19, 1988.
+&emsp;&emsp;&emsp;(i) issued to households that fail to meet basic program eligibility requirements; or
+
+&emsp;&emsp;&emsp;(ii) overissued to eligible households; and
+
+&emsp;&emsp;(C) the term “underpayment error rate” means the ratio of the value of allotments underissued to recipient households to the total value of allotments issued in a fiscal year by a State agency.
+
+#### (3) Exclusions
+
+&emsp;The following errors may be measured for management purposes but shall not be included in the payment error rate:
+
+&emsp;&emsp;(A) Any errors resulting in the application of new regulations promulgated under this chapter during the first 120 days from the required implementation date for such regulations.
+
+&emsp;&emsp;(B) Errors resulting from the use by a State agency of correctly processed information concerning households or individuals received from Federal agencies or from actions based on policy information approved or disseminated, in writing, by the Secretary or the Secretary's designee.
+
+#### (4) Reporting requirements
+
+&emsp;The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency's payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d) of this section. If a State agency fails to meet the reporting requirements established by the Secretary, the Secretary shall base the determination on all pertinent information available to the Secretary.
+
+#### (5) Procedures
+
+&emsp;To facilitate the implementation of this subsection, each State agency shall expeditiously submit to the Secretary data concerning the operations of the State agency in each fiscal year sufficient for the Secretary to establish the State agency's payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d) of this section. The Secretary shall initiate efforts to collect the amount owed by the State agency as a claim established under paragraph (1) for a fiscal year, subject to the conclusion of any formal or informal appeal procedure and administrative or judicial review under section 2023 of this title (as provided for in paragraph (7)), before the end of the fiscal year following such fiscal year.
+
+#### (6) National performance measure for payment error rates
+
+#### (A) Announcement
+
+&emsp;&emsp;At the time the Secretary makes the notification to State agencies of their error rates, the Secretary shall also announce a national performance measure that shall be the sum of the products of each State agency's error rate as developed for the notifications under paragraph (8) times that State agency's proportion of the total value of national allotments issued for the fiscal year using the most recent issuance data available at the time of the notifications issued pursuant to paragraph (8).
+
+#### (B) Use of alternative measure of State error
+
+&emsp;&emsp;Where a State fails to meet reporting requirements pursuant to paragraph (4), the Secretary may use another measure of a State's error developed pursuant to paragraph (5), to develop the national performance measure.
+
+#### (C) Use of national performance measure
+
+&emsp;&emsp;The announced national performance measure shall be used in determining the liability amount of a State under paragraph (1)(C) for the fiscal year whose error rates are being announced under paragraph (8).
+
+#### (D) No administrative or judicial review
+
+&emsp;&emsp;The national performance measure announced under this paragraph shall not be subject to administrative or judicial review.
+
+#### (7) Administrative and judicial review
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraphs (B) and (C), if the Secretary asserts a financial claim against or establishes a liability amount with respect to a State agency under paragraph (1), the State may seek administrative and judicial review of the action pursuant to section 2023 of this title.
+
+#### (B) Determination of payment error rate
+
+&emsp;&emsp;With respect to any fiscal year, a determination of the payment error rate of a State agency or a determination whether the payment error rate exceeds 105 percent of the national performance measure for payment error rates shall be subject to administrative or judicial review only if the Secretary establishes a liability amount with respect to the fiscal year under paragraph (1)(C).
+
+#### (C) Authority of Secretary with respect to liability amount
+
+&emsp;&emsp;An action by the Secretary under subparagraph (D) or (F)(iii) of paragraph (1) shall not be subject to administrative or judicial review.
+
+#### (8) Criteria for payment by a State agency
+
+&emsp;(A) This paragraph applies to the determination of whether a payment is due by a State agency for a fiscal year under paragraph (1).
+
+&emsp;(B) Not later than the first May 31 after the end of the fiscal year referred to in subparagraph (A), the case review and all arbitrations of State-Federal difference cases shall be completed.
+
+&emsp;(C) Not later than the first June 30 after the end of the fiscal year referred to in subparagraph (A), the Secretary shall—
+
+&emsp;&emsp;(i) determine final error rates, the national average payment error rate, and the amounts of payment claimed against State agencies or liability amount established with respect to State agencies;
+
+&emsp;&emsp;(ii) notify State agencies of the payment claims or liability amounts; and
+
+&emsp;&emsp;(iii) provide a copy of the document providing notification under clause (ii) to the chief executive officer and the legislature of the State.
+
+&emsp;(D) A State agency desiring to appeal a payment claim or liability amount determined under subparagraph (C) shall submit to an administrative law judge—
+
+&emsp;&emsp;(i) a notice of appeal, not later than 10 days after receiving a notice of the claim or liability amount; and
+
+&emsp;&emsp;(ii) evidence in support of the appeal of the State agency, not later than 60 days after receiving a notice of the claim or liability amount.
+
+&emsp;(E) Not later than 60 days after a State agency submits evidence in support of the appeal, the Secretary shall submit responsive evidence to the administrative law judge to the extent such evidence exists.
+
+&emsp;(F) Not later than 30 days after the Secretary submits responsive evidence, the State agency shall submit rebuttal evidence to the administrative law judge to the extent such evidence exists.
+
+&emsp;(G) The administrative law judge, after an evidentiary hearing, shall decide the appeal—
+
+&emsp;&emsp;(i) not later than 60 days after receipt of rebuttal evidence submitted by the State agency; or
+
+&emsp;&emsp;(ii) if the State agency does not submit rebuttal evidence, not later than 90 days after the State agency submits the notice of appeal and evidence in support of the appeal.
+
+&emsp;(H) In considering a claim or liability amount under this paragraph, the administrative law judge shall consider all grounds for denying the claim or liability amount, in whole or in part, including the contention of a State agency that the claim or liability amount should be waived, in whole or in part, for good cause.
+
+&emsp;(I) The deadlines in subparagraphs (D), (E), (F), and (G) shall be extended by the administrative law judge for cause shown.
+
+#### (9) “Good cause” defined
+
+&emsp;As used in this subsection, the term “good cause” includes—
+
+&emsp;&emsp;(A) a natural disaster or civil disorder that adversely affects food stamp program operations;
+
+&emsp;&emsp;(B) a strike by employees of a State agency who are necessary for the determination of eligibility and processing of case changes under the food stamp program;
+
+&emsp;&emsp;(C) a significant growth in food stamp caseload in a State prior to or during a fiscal year, such as a 15 percent growth in caseload;
+
+&emsp;&emsp;(D) a change in the food stamp program or other Federal or State program that has a substantial adverse impact on the management of the food stamp program of a State; and
+
+&emsp;&emsp;(E) a significant circumstance beyond the control of the State agency.
+
+#### (d) Bonuses for States that demonstrate high or most improved performance
+
+#### (1) Fiscal years 2003 and 2004
+
+#### (A) Guidance
+
+&emsp;&emsp;With respect to fiscal years 2003 and 2004, the Secretary shall establish, in guidance issued to State agencies not later than October 1, 2002—
+
+&emsp;&emsp;&emsp;(i) performance criteria relating to—
+
+&emsp;&emsp;&emsp;&emsp;(I) actions taken to correct errors, reduce rates of error, and improve eligibility determinations; and
+
+&emsp;&emsp;&emsp;&emsp;(II) other indicators of effective administration determined by the Secretary; and
+
+&emsp;&emsp;&emsp;(ii) standards for high and most improved performance to be used in awarding performance bonus payments under subparagraph (B)(ii).
+
+#### (B) Performance bonus payments
+
+&emsp;&emsp;With respect to each of fiscal years 2003 and 2004, the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) measure the performance of each State agency with respect to the criteria established under subparagraph (A)(i); and
+
+&emsp;&emsp;&emsp;(ii) subject to paragraph (3), award performance bonus payments in the following fiscal year, in a total amount of $48,000,000 for each fiscal year, to State agencies that meet standards for high or most improved performance established by the Secretary under subparagraph (A)(ii).
+
+#### (2) Fiscal years 2005 and thereafter
+
+#### (A) Regulations
+
+&emsp;&emsp;With respect to fiscal year 2005 and each fiscal year thereafter, the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) establish, by regulation, performance criteria relating to—
+
+&emsp;&emsp;&emsp;&emsp;(I) actions taken to correct errors, reduce rates of error, and improve eligibility determinations; and
+
+&emsp;&emsp;&emsp;&emsp;(II) other indicators of effective administration determined by the Secretary;
+
+&emsp;&emsp;&emsp;(ii) establish, by regulation, standards for high and most improved performance to be used in awarding performance bonus payments under subparagraph (B)(ii); and
+
+&emsp;&emsp;&emsp;(iii) before issuing proposed regulations to carry out clauses (i) and (ii), solicit ideas for performance criteria and standards for high and most improved performance from State agencies and organizations that represent State interests.
+
+#### (B) Performance bonus payments
+
+&emsp;&emsp;With respect to fiscal year 2005 and each fiscal year thereafter, the Secretary shall—
+
+&emsp;&emsp;&emsp;(i) measure the performance of each State agency with respect to the criteria established under subparagraph (A)(i); and
+
+&emsp;&emsp;&emsp;(ii) subject to paragraph (3), award performance bonus payments in the following fiscal year, in a total amount of $48,000,000 for each fiscal year, to State agencies that meet standards for high or most improved performance established by the Secretary under subparagraph (A)(ii).
+
+#### (3) Prohibition on receipt of performance bonus payments
+
+&emsp;A State agency shall not be eligible for a performance bonus payment with respect to any fiscal year for which the State agency has a liability amount established under subsection (c)(1)(C) of this section.
+
+#### (4) Payments not subject to judicial review
+
+&emsp;A determination by the Secretary whether, and in what amount, to award a performance bonus payment under this subsection shall not be subject to administrative or judicial review.
 
 #### (e) Use of social security account numbers; access to information
 
@@ -196,37 +352,15 @@ Amounts.—To carry out employment and training programs, the Secretary shall re
 
 &emsp;&emsp;&emsp;(II) an additional amount of $131,000,000; and
 
-&emsp;&emsp;(vii) for fiscal year 2002—
-
-&emsp;&emsp;&emsp;(I) $90,000,000; and
-
-&emsp;&emsp;&emsp;(II) an additional amount of $75,000,000.
+&emsp;&emsp;(vii) for each of fiscal years 2002 through 2007, $90,000,000.
 
 &emsp;(B)
 
-Allocation.—
+Allocation.—Funds made available under subparagraph (A) shall be made available to and reallocated among State agencies under a reasonable formula that—
 
-&emsp;&emsp;(i)
+&emsp;&emsp;(i) is determined and adjusted by the Secretary; and
 
-Allocation formula.—The Secretary shall allocate the amounts reserved under subparagraph (A) among the State agencies using a reasonable formula, as determined and adjusted by the Secretary each fiscal year, to reflect—
-
-&emsp;&emsp;&emsp;(I) changes in each State's caseload (as defined in section 2015(<i>o</i>)(6)(A) of this title);
-
-&emsp;&emsp;&emsp;(II) for fiscal year 1998, the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title; and
-
-&emsp;&emsp;&emsp;(III) for each of fiscal years 1999 through 2002, the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title and who—
-
-&emsp;&emsp;&emsp;&emsp;(aa) do not reside in an area subject to a waiver granted by the Secretary under section 2015(<i>o</i>)(4) of this title; or
-
-&emsp;&emsp;&emsp;&emsp;(bb) do reside in an area subject to a waiver granted by the Secretary under section 2015(<i>o</i>)(4) of this title, if the State agency provides employment and training services in the area to food stamp recipients who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title.
-
-&emsp;&emsp;(ii)
-
-Estimated factors.—The Secretary shall estimate the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title based on the survey conducted to carry out subsection (c) of this section for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
-
-&emsp;&emsp;(iii)
-
-Reporting requirement.—A State agency shall submit such reports to the Secretary as the Secretary determines are necessary to ensure compliance with this paragraph.
+&emsp;&emsp;(ii) takes into account the number of individuals who are not exempt from the work requirement under section 2015(<i>o</i>) of this title.
 
 &emsp;(C)
 
@@ -238,23 +372,31 @@ Minimum allocation.—Notwithstanding subparagraph (B), the Secretary shall ensu
 
 &emsp;(E)
 
-Use of funds.—Of the amount of funds a State agency receives under subparagraphs (A) through (D) for a fiscal year, not less than 80 percent of the funds shall be used by the State agency during the fiscal year to serve food stamp recipients who—
+Additional allocations for states that ensure availability of work opportunities.—
 
-&emsp;&emsp;(i) are not eligible for an exception under section 2015(<i>o</i>)(3) of this title; and
+&emsp;&emsp;(i)
 
-&emsp;&emsp;(ii) are placed in and comply with a program described in subparagraph (B) or (C) of section 2015(<i>o</i>)(2) of this title.
+In general.—In addition to the allocations under subparagraph (A), from funds made available under section 2027(a)(1) of this title, the Secretary shall allocate not more than $20,000,000 for each of fiscal years 2002 through 2007 to reimburse a State agency that is eligible under clause (ii) for the costs incurred in serving food stamp recipients who—
 
-&emsp;(F)
+&emsp;&emsp;&emsp;(I) are not eligible for an exception under section 2015(<i>o</i>)(3) of this title; and
 
-Maintenance of effort.—To receive an allocation of an additional amount made available under subclause (II) of each of clauses (iii) through (vii) of subparagraph (A), a State agency shall maintain the expenditures of the State agency for employment and training programs and workfare programs for any fiscal year under paragraph (2), and administrative expenses described in section 2029(g)(1) of this title, at a level that is not less than the level of the expenditures by the State agency to carry out the programs and such expenses for fiscal year 1996.
+&emsp;&emsp;&emsp;(II) are placed in and comply with a program described in subparagraph (B) or (C) of section 2015(<i>o</i>)(2) of this title.
 
-&emsp;(G)
+&emsp;&emsp;(ii)
 
-Component costs.—The Secretary shall monitor State agencies’ expenditure of funds for employment and training programs provided under this paragraph, including the costs of individual components of State agencies’ programs. The Secretary may determine the reimbursable costs of employment and training components, and, if the Secretary makes such a determination, the Secretary shall determine that the amounts spent or planned to be spent on the components reflect the reasonable cost of efficiently and economically providing components appropriate to recipient employment and training needs, taking into account, as the Secretary deems appropriate, prior expenditures on the components, the variability of costs among State agencies’ components, the characteristics of the recipients to be served, and such other factors as the Secretary considers necessary.
+Eligibility.—To be eligible for an additional allocation under clause (i), a State agency shall make and comply with a commitment to offer a position in a program described in subparagraph (B) or (C) of section 2015(<i>o</i>)(2) of this title to each applicant or recipient who—
+
+&emsp;&emsp;&emsp;(I) is in the last month of the 3-month period described in section 2015(<i>o</i>)(2) of this title;
+
+&emsp;&emsp;&emsp;(II) is not eligible for an exception under section 2015(<i>o</i>)(3) of this title;
+
+&emsp;&emsp;&emsp;(III) is not eligible for a waiver under section 2015(<i>o</i>)(4) of this title; and
+
+&emsp;&emsp;&emsp;(IV) is not exempt under section 2015(<i>o</i>)(6) of this title.
 
 (2) If, in carrying out such program during such fiscal year, a State agency incurs costs that exceed the amount allocated to the State agency under paragraph (1), the Secretary shall pay such State agency an amount equal to 50 per centum of such additional costs, subject to the first limitation in paragraph (3), including the costs for case management and casework to facilitate the transition from economic dependency to self-sufficiency through work.
 
-(3) The Secretary shall also reimburse each State agency in an amount equal to 50 per centum of the total amount of payments made or costs incurred by the State agency in connection with transportation costs and other expenses reasonably necessary and directly related to participation in an employment and training program under section 2015(d)(4) of this title, except that such total amount shall not exceed an amount representing $25 per participant per month for costs of transportation and other actual costs (other than dependent care costs) and an amount equal to the payment made under section 2015(d)(4)(I)(i)(II) of this title but not more than the applicable local market rate, and such reimbursement shall not be made out of funds allocated under paragraph (1).
+(3) The Secretary shall also reimburse each State agency in an amount equal to 50 per centum of the total amount of payments made or costs incurred by the State agency in connection with transportation costs and other expenses reasonably necessary and directly related to participation in an employment and training program under section 2015(d)(4) of this title, except that the amount of the reimbursement for dependent care expenses shall not exceed an amount equal to the payment made under section 2015(d)(4)(I)(i)(II) of this title but not more than the applicable local market rate, and such reimbursement shall not be made out of funds allocated under paragraph (1).
 
 (4) Funds provided to a State agency under this subsection may be used only for operating an employment and training program under section 2015(d)(4) of this title, and may not be used for carrying out other provisions of this chapter.
 
@@ -300,7 +442,7 @@ Not later than 180 days after September 19, 1988, and annually thereafter, the S
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any other provision of this section, effective for each of fiscal years 1999 through 2002, the Secretary shall reduce, for each fiscal year, the amount paid under subsection (a) of this section to each State by an amount equal to the amount determined for the food stamp program under paragraph (2)(B). The Secretary shall, to the extent practicable, make the reductions required by this paragraph on a quarterly basis.
+&emsp;&emsp;Notwithstanding any other provision of this section, effective for each of fiscal years 1999 through 2007, the Secretary shall reduce, for each fiscal year, the amount paid under subsection (a) of this section to each State by an amount equal to the amount determined for the food stamp program under paragraph (2)(B). The Secretary shall, to the extent practicable, make the reductions required by this paragraph on a quarterly basis.
 
 #### (B) Application
 
@@ -308,7 +450,7 @@ Not later than 180 days after September 19, 1988, and annually thereafter, the S
 
 &emsp;&emsp;&emsp;(i) during the fiscal year in which the determinations are made, the Secretary shall reduce the amount paid under subsection (a) of this section to each State by an amount equal to the sum of the amounts determined for the food stamp program under paragraph (2)(B) for fiscal year 1999 through the fiscal year during which the determinations are made; and
 
-&emsp;&emsp;&emsp;(ii) for each subsequent fiscal year through fiscal year 2002, subparagraph (A) applies.
+&emsp;&emsp;&emsp;(ii) for each subsequent fiscal year through fiscal year 2007, subparagraph (A) applies.
 
 #### (4) Appeal of determinations
 
@@ -390,7 +532,7 @@ Not later than 180 days after September 19, 1988, and annually thereafter, the S
 
 &emsp;&emsp;&emsp;&emsp;(II) used to match Federal funds under a Federal program other than the food stamp program.
 
-(Pub. L. 88–525, §16, Aug. 31, 1964, 78 Stat. 709; Pub. L. 90–91 §§1, 2, Sept. 27, 1967, 81 Stat. 228; Pub. L. 90–552, Oct. 8, 1968, 82 Stat. 958; Pub. L. 91–116, Nov. 13, 1969, 83 Stat. 191; Pub. L. 91–671, §9, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–86, §3(j), Aug. 10, 1973, 87 Stat. 248; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 976; Pub. L. 96–58, §§4, 6, Aug. 14, 1979, 93 Stat. 391; Pub. L. 96–249, title I, §§121, 125, 126, 128, 129, May 26, 1980, 94 Stat. 363, 364, 367; Pub. L. 97–35, title I, §§111(b), 114, Aug. 13, 1981, 95 Stat. 362, 363; Pub. L. 97–98, title XIII, §§1325–1327, Dec. 22, 1981, 95 Stat. 1289; Pub. L. 97–253, title I, §§179, 180(a), 189(b)(3), (c), Sept. 8, 1982, 96 Stat. 782, 787; Pub. L. 99–198, title XV, §§1517(c), 1524, 1535(c)(1), 1537(a), 1539, Dec. 23, 1985, 99 Stat. 1577, 1580, 1585, 1588; Pub. L. 99–603, title I, §121(b)(5), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–77, title VIII, §808(b), July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title II, §204(b), title III, §321(b), (c), title IV, §404(e), (g), title VI, §604, Sept. 19, 1988, 102 Stat. 1657, 1662, 1668, 1675; Pub. L. 101–624, title XVII, §§1750, 1752(a), 1753, Nov. 28, 1990, 104 Stat. 3797, 3798; Pub. L. 102–237, title IX, §941(7), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–66, title XIII, §§13922(c), 13951(c), 13961, Aug. 10, 1993, 107 Stat. 675, 678, 679; Pub. L. 103–296, title I, §108(f)(2), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–66, title I, §1011(j), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title IV, §401(b), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(c), title VIII, §§817(b)–(d), 844(c), 847, 848(a), (b)(2), 849, Aug. 22, 1996, 110 Stat. 2169, 2319, 2320, 2333–2335; Pub. L. 105–33, title I, §1002(a), Aug. 5, 1997, 111 Stat. 252; Pub. L. 105–185, title V, §§501, 502(a), June 23, 1998, 112 Stat. 575; Pub. L. 106–78, title VII, §758, Oct. 22, 1999, 113 Stat. 1172.)
+(Pub. L. 88–525, §16, Aug. 31, 1964, 78 Stat. 709; Pub. L. 90–91 §§1, 2, Sept. 27, 1967, 81 Stat. 228; Pub. L. 90–552, Oct. 8, 1968, 82 Stat. 958; Pub. L. 91–116, Nov. 13, 1969, 83 Stat. 191; Pub. L. 91–671, §9, Jan. 11, 1971, 84 Stat. 2052; Pub. L. 93–86, §3(j), Aug. 10, 1973, 87 Stat. 248; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 976; Pub. L. 96–58, §§4, 6, Aug. 14, 1979, 93 Stat. 391; Pub. L. 96–249, title I, §§121, 125, 126, 128, 129, May 26, 1980, 94 Stat. 363, 364, 367; Pub. L. 97–35, title I, §§111(b), 114, Aug. 13, 1981, 95 Stat. 362, 363; Pub. L. 97–98, title XIII, §§1325–1327, Dec. 22, 1981, 95 Stat. 1289; Pub. L. 97–253, title I, §§179, 180(a), 189(b)(3), (c), Sept. 8, 1982, 96 Stat. 782, 787; Pub. L. 99–198, title XV, §§1517(c), 1524, 1535(c)(1), 1537(a), 1539, Dec. 23, 1985, 99 Stat. 1577, 1580, 1585, 1588; Pub. L. 99–603, title I, §121(b)(5), Nov. 6, 1986, 100 Stat. 3391; Pub. L. 100–77, title VIII, §808(b), July 22, 1987, 101 Stat. 536; Pub. L. 100–435, title II, §204(b), title III, §321(b), (c), title IV, §404(e), (g), title VI, §604, Sept. 19, 1988, 102 Stat. 1657, 1662, 1668, 1675; Pub. L. 101–624, title XVII, §§1750, 1752(a), 1753, Nov. 28, 1990, 104 Stat. 3797, 3798; Pub. L. 102–237, title IX, §941(7), Dec. 13, 1991, 105 Stat. 1892; Pub. L. 103–66, title XIII, §§13922(c), 13951(c), 13961, Aug. 10, 1993, 107 Stat. 675, 678, 679; Pub. L. 103–296, title I, §108(f)(2), Aug. 15, 1994, 108 Stat. 1487; Pub. L. 104–66, title I, §1011(j), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title IV, §401(b), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title I, §109(c), title VIII, §§817(b)–(d), 844(c), 847, 848(a), (b)(2), 849, Aug. 22, 1996, 110 Stat. 2169, 2319, 2320, 2333–2335; Pub. L. 105–33, title I, §1002(a), Aug. 5, 1997, 111 Stat. 252; Pub. L. 105–185, title V, §§501, 502(a), June 23, 1998, 112 Stat. 575; Pub. L. 106–78, title VII, §758, Oct. 22, 1999, 113 Stat. 1172; Pub. L. 107–171, title IV, §§4118(a), 4119(a), 4120(a), 4121(a), (d), 4122(a), May 13, 2002, 116 Stat. 316, 321, 323, 324.)
 
 #### References in Text
 
@@ -401,6 +543,76 @@ The Social Security Act, referred to in subsecs. (e), (g), and (k), is act Aug. 
 September 19, 1988, referred to in subsec. (d)(2), was in the original “the date of enactment of this section”, which was translated as meaning the date of enactment of Pub. L. 100–435, which enacted provisions of this section establishing the payment error improvement system, as the probable intent of Congress.
 
 #### Amendments
+
+Subsec. (c). Pub. L. 107–171, §4118(a)(1), inserted heading.
+
+Subsec. (c)(1). Pub. L. 107–171, §4118(a)(1), added par. (1) and struck out former par. (1) which related to payment error improvement system.
+
+Subsec. (c)(4). Pub. L. 107–171, §4118(a)(2), inserted heading and substituted “The Secretary may require a State agency to report any factors that the Secretary considers necessary to determine a State agency's payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d) of this section.” for “The Secretary may require a State agencyto report any factors that the Secretary considers necessary to determine a State agency's payment error rate, enhanced administrative funding, or claim for payment error, under this subsection.”
+
+Subsec. (c)(5). Pub. L. 107–171, §4118(a)(3), inserted heading and substituted “To facilitate the implementation of this subsection, each State agency shall expeditiously submit to the Secretary data concerning the operations of the State agency in each fiscal year sufficient for the Secretary to establish the State agency's payment error rate, liability amount or new investment amount under paragraph (1), or performance under the performance measures under subsection (d) of this section.” for “To facilitate the implementation of this subsection each State agency shall submit to the Secretary expeditiously data regarding its operations in each fiscal year sufficient for the Secretary to establish the payment error rate for the State agency for such fiscal year and determine the amount of either incentive payments under paragraph (1)(A) or claims under paragraph (1)(C). The Secretary shall make a determination for a fiscal year, and notify the State agency of such determination, within nine months following the end of each fiscal year.” and “paragraph (1) for a fiscal year” for “paragraph (1)(C) for a fiscal year”.
+
+Subsec. (c)(6). Pub. L. 107–171, §4118(a)(4), inserted heading, designated first sentence as subpar. (A), inserted heading, struck out “and incentive payments or claims pursuant to paragraphs (1)(A) and (1)(C)” after “State agencies of their error rates”, and substituted “paragraph (8)” for “paragraph (5)” in two places, designated second sentence as subpar. (B) and inserted heading, designated third sentence as subpar. (C), inserted heading, and substituted “the liability amount of a State under paragraph (1)(C)” for “the State share of the cost of payment error under paragraph (1)(C)” and “paragraph (8)” for “paragraph (5)”, and added subpar. (D).
+
+Subsec. (c)(7). Pub. L. 107–171, §4118(a)(5), inserted heading, designated existing provisions as subpar. (A), inserted heading, substituted “Except as provided in subparagraphs (B) and (C), if the Secretary asserts a financial claim against or establishes a liability amount with respect to” for “If the Secretary asserts a financial claim against” and “paragraph (1)” for “paragraph (1)(C)”, and added subpars. (B) and (C).
+
+Subsec. (c)(8)(A). Pub. L. 107–171, §4118(a)(6)(A), substituted “paragraph (1)” for “paragraph (1)(C)”.
+
+Subsec. (c)(8)(B). Pub. L. 107–171, §4119(a)(1), substituted “the first May 31 after the end of the fiscal year referred to in subparagraph (A)” for “180 days after the end of the fiscal year”.
+
+Subsec. (c)(8)(C). Pub. L. 107–171, §4119(a)(2), substituted “the first June 30 after the end of the fiscal year referred to in subparagraph (A)” for “30 days thereafter” in introductory provisions.
+
+Subsec. (c)(8)(C)(i). Pub. L. 107–171, §4118(a)(6)(B)(i), substituted “payment claimed against State agencies or liability amount established with respect to State agencies;” for “payment claimed against State agencies; and”.
+
+Subsec. (c)(8)(C)(ii). Pub. L. 107–171, §4118(a)(6)(B)(ii), substituted “claims or liability amounts; and” for “claims.”
+
+Subsec. (c)(8)(C)(iii). Pub. L. 107–171, §4118(a)(6)(B)(iii), added cl. (iii).
+
+Subsec. (c)(8)(D), (H). Pub. L. 107–171, §4118(a)(6)(C), inserted “or liability amount” after “claim” wherever appearing.
+
+Subsec. (d). Pub. L. 107–171, §4120(a), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Secretary shall undertake the following studies of the payment error improvement system established under subsection (c) of this section:
+
+&emsp;“(1) An assessment of the feasibility of measuring payment errors due to improper denials and terminations of benefits or otherwise developing performance standards with financial consequences for improper denials and terminations, including incorporation in subsection (c) of this section. The Secretary shall report the results of such study and the recommendations of the Secretary to the Congress by July 1, 1990.
+
+&emsp;“(2) An evaluation of the effectiveness of the system of program improvement initiated under this section that shall be reported to the Congress along with the Secretary's recommendations no later than 3 years from September 19, 1988.”
+
+Subsec. (h)(1)(A)(vii). Pub. L. 107–171, §4121(a)(1), added cl. (vii) and struck out former cl. (vii) which read as follows: “for fiscal year 2002—
+
+&emsp;“(I) $90,000,000; and
+
+&emsp;“(II) an additional amount of $75,000,000.”
+
+Subsec. (h)(1)(B). Pub. L. 107–171, §4121(a)(2), added subpar. (B) and struck out heading and text of former subpar. (B). Text read as follows:
+
+“(i)
+
+Allocation formula.—The Secretary shall allocate the amounts reserved under subparagraph (A) among the State agencies using a reasonable formula, as determined and adjusted by the Secretary each fiscal year, to reflect—
+
+&emsp;“(I) changes in each State's caseload (as defined in section 2015(<i>o</i>)(6)(A) of this title);
+
+&emsp;“(II) for fiscal year 1998, the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title; and
+
+&emsp;“(III) for each of fiscal years 1999 through 2002, the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title and who—
+
+&emsp;&emsp;“(aa) do not reside in an area subject to a waiver granted by the Secretary under section 2015(<i>o</i>)(4) of this title; or
+
+&emsp;&emsp;“(bb) do reside in an area subject to a waiver granted by the Secretary under section 2015(<i>o</i>)(4) of this title, if the State agency provides employment and training services in the area to food stamp recipients who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title.
+
+“(ii)
+
+Estimated factors.—The Secretary shall estimate the portion of food stamp recipients who reside in each State who are not eligible for an exception under section 2015(<i>o</i>)(3) of this title based on the survey conducted to carry out subsection (c) of this section for fiscal year 1996 and such other factors as the Secretary considers appropriate due to the timing and limitations of the survey.
+
+“(iii)
+
+Reporting requirement.—A State agency shall submit such reports to the Secretary as the Secretary determines are necessary to ensure compliance with this paragraph.”
+
+Subsec. (h)(1)(E) to (G). Pub. L. 107–171, §4121(a)(3), added subpar. (E) and struck out heading and text of former subpars. (E) to (G) which related to use of funds, maintenance of effort, and component costs, respectively.
+
+Subsec. (h)(3). Pub. L. 107–171, §4121(d), substituted “the amount of the reimbursement for dependent care expenses shall not exceed” for “such total amount shall not exceed an amount representing $25 per participant per month for costs of transportation and other actual costs (other than dependent care costs) and”.
+
+Subsec. (k)(3)(A). Pub. L. 107–171, §4122(a)(1), substituted “2007” for “2002”.
+
+Subsec. (k)(3)(B)(ii). Pub. L. 107–171, §4122(a)(2), substituted “2007” for “2002”.
 
 1999—Subsec. (a). Pub. L. 106–78, which directed the amendment of “the Food Stamp Act (Public Law 95–113, section 16(a))” by inserting “or in a Native village within the State of Alaska identified in section 1610(b) of title 43.” before “such amounts”, was executed by making the amendment to this section, which is section 16(a) of the Food Stamp Act of 1977, Pub. L. 88–525, as amended by Pub. L. 95–113, to reflect the probable intent of Congress.
 
@@ -522,7 +734,7 @@ Subsec. (d). Pub. L. 97–98, §1326(2), substituted in provision preceding par.
 
 Subsec. (f). Pub. L. 97–98, §1327, substituted “State agencies shall” for “State agencies may”.
 
-1980—Subsec. (b). Pub. L. 96–249, §121, struck out provisions requiring that if the Secretary finds that a State has failed without good cause to meet any of the Secretary's standards, or has failed to carry out the approved State plan of operation under section 2020(d) of this title, the Secretary withhold from the State such funds authorized under subsections (a) and (c) of this section as the Secretary determines to be appropriate.
+1980—Subsec. (b). Pub. L. 96–249, §121, struck out provisions requiring that if the Secretary finds that a State has failed without good cause to meet any of the Secretary's standards, or has failed to carry out the approved State plan of operation under section 2020(d) of this title, the Secretary withhold from the State suchfunds authorized under subsections (a) and (c) of this section as the Secretary determines to be appropriate.
 
 Subsec. (c). Pub. L. 96–249, §125, designated existing provisions as par. (1), substituted “(A) semiannual cumulative” for “cumulative”, and added subpar. (B) and pars. (2) to (4).
 
@@ -547,6 +759,18 @@ Subsec. (f). Pub. L. 96–58, §4, added subsec. (f).
 1968—Subsec. (a). Pub. L. 90–552 increased appropriations authorization limitation for fiscal year ending June 30, 1969, from $225,000,000 to $315,000,000, authorized appropriations of $340,000,000 and $170,000,000 for fiscal year ending June 30, 1970, and for six months ending Dec. 31, 1970, substituted “fiscal period” for “fiscal year”, and provided for submission of reports to Congress on or before January 20 of each year setting forth operations under this chapter during preceding calendar year and projecting needs for ensuing calendar year.
 
 1967—Subsec. (a). Pub. L. 90–91 provided for appropriations for the fiscal years ending June 30, 1968 and 1969, and inserted provision dealing with the carrying out of this chapter only with funds appropriated from the general fund of the Treasury for the purposes of this chapter.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by section 4118(a) of Pub. L. 107–171 not applicable with respect to any sanction, appeal, new investment agreement, or other action by the Secretary of Agriculture or a State agency that is based on a payment error rate calculated for any fiscal year before fiscal year 2003, see section 4118(e) of Pub. L. 107–171, set out as a note under section 2022 of this title.
+
+Pub. L. 107–171, title IV, §4119(b), May 13, 2002, 116 Stat. 321, provided that: “The amendments made by this section \[amending this section\] take effect on the date of enactment of this Act \[May 13, 2002\].”
+
+Pub. L. 107–171, title IV, §4120(b), May 13, 2002, 116 Stat. 323, provided that: “The amendment made by this section \[amending this section\] takes effect on the date of enactment of this Act \[May 13, 2002\].”
+
+Amendment by section 4121(a), (d) of Pub. L. 107–171 effective May 13, 2002, see section 4121(e) of Pub. L. 107–171, set out as a note under section 2015 of this title.
+
+Amendment by section 4122(a) of Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1999 Amendment
 
@@ -598,7 +822,7 @@ Special Effective Dates and Implementation.—(1)(A) Except as provided in subpa
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section 1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
 #### Effective Date of 1990 Amendment
 
@@ -646,6 +870,10 @@ Section 1301 of Pub. L. 95–113 provided that the amendment made by that sectio
 
 Secretary of Agriculture to promulgate regulations necessary to implement amendment of this section by Pub. L. 105–33, not later than one year after Aug. 5, 1997, see section 1005(a) of Pub. L. 105–33, set out as a note under section 2015 of this title.
 
+#### Carryover Funds
+
+Pub. L. 107–171, title IV, §4121(b), May 13, 2002, 116 Stat. 323, provided that: “Notwithstanding any other provision of law, funds provided under section 16(h)(1)(A) of the Food Stamp Act of 1977 (7 U.S.C. 2025(h)(1)(A)) for any fiscal year before fiscal year 2002 shall be rescinded on the date of enactment of this Act \[May 13, 2002\], unless obligated by a State agency before that date.”
+
 #### Review of Methodology Used To Make Certain Determinations
 
 Pub. L. 105–185, title V, §502(b), June 23, 1998, 112 Stat. 578, provided that: “Not later than 1 year after the date of enactment \[June 23, 1998\], the Comptroller General of the United States shall—
@@ -656,7 +884,7 @@ Pub. L. 105–185, title V, §502(b), June 23, 1998, 112 Stat. 578, provided tha
 
 #### Report to Congress
 
-Section 1002(b) of Pub. L. 105–33 provided that: “Not later than 30 months after the date of enactment of this Act \[Aug. 5, 1997\], the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report regarding whether the amounts made available under section 16(h)(1)(A) of the Food Stamp Act of 1977 \[7 U.S.C. 2025(h)(1)(A)\] (as a result of the amendment made by subsection (a)) have been used by State agencies to increase the number of work slots for recipients subject to section 6(<i>o</i>) of the Food Stamp Act of 1977 (7 U.S.C. 2015(<i>o</i>)) in employment and training programs and workfare in the most efficient and effective manner practicable.”
+Section 1002(b) of Pub. L. 105–33 provided that: “Not later than 30 months after the date of enactment of this Act \[Aug. 5, 1997\], the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report regarding whether the amounts made available under section 16(h)(1)(A) of the Food Stamp Act of 1977 \[7 U.S.C. 2025(h)(1)(A)\] (as a result of the amendmentmade by subsection (a)) have been used by State agencies to increase the number of work slots for recipients subject to section 6(<i>o</i>) of the Food Stamp Act of 1977 (7 U.S.C. 2015(<i>o</i>)) in employment and training programs and workfare in the most efficient and effective manner practicable.”
 
 #### Quality Control Sanctions
 
@@ -717,6 +945,4 @@ Section 1538 of Pub. L. 99–198, as amended by Pub. L. 99–260, §12, Mar. 20,
 This section is referred to in sections 2014, 2015, 2016, 2020, 2022, 2023, 2026, 2027, 2030, 2031, 2032, 2035 of this title; title 42 section 629c.
 
 <i><sup>1</sup></i><i> So in original. The period probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. No cl. (ii) has been enacted.</i>
 

@@ -20,7 +20,7 @@ The provisions of sections 8432 and 8433 of this title shall not be construed to
 
 #### Amendments
 
-1987—Subsec. (c). Pub. L. 100–42 struck out subsec. (c) which read as follows: “No person shall be subject to any penalty under this part with respect to the operation of any powerplant in excess of that allowed by an exemption granted on the basis of the operation of suchpowerplant as a peakload powerplant if it is demonstrated to the Secretary that such operation was necessary to meet peakload demand and that other peakload powerplants within the same system as such powerplant—
+1987—Subsec. (c). Pub. L. 100–42 struck out subsec. (c) which read as follows: “No person shall be subject to any penalty under this part with respect to the operation of any powerplant in excess of that allowed by an exemption granted on the basis of the operation of such powerplant as a peakload powerplant if it is demonstrated to the Secretary that such operation was necessary to meet peakload demand and that other peakload powerplants within the same system as such powerplant—
 
 &emsp;“(1) were unavailable for service—
 

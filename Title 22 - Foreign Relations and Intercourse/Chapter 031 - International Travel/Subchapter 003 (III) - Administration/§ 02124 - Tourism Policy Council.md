@@ -40,7 +40,7 @@ The Council shall conduct its first meeting not later than 6 months after Octobe
 
 #### (e) Involvement of Federal agencies and departments
 
-(1) The Council shall coordinate national policies and programs relating to internationaltravel and tourism, recreation, and national heritage resources, which involve Federal agencies;
+(1) The Council shall coordinate national policies and programs relating to international travel and tourism, recreation, and national heritage resources, which involve Federal agencies;
 
 (2) The Council may request directly from any Federal department or agency such personnel, information, services, or facilities as deemed necessary by the Chairman and to the extent permitted by law and within the limits of available funds.
 
@@ -52,7 +52,7 @@ Where necessary to prevent the public disclosure of non-public information which
 
 #### (g) Annual report
 
-The Council shall submit an annual report for the preceding fiscal year to the President for transmittal to the Congress on or before December 31 of each year. The report shall include—
+The Council shall submit an annual report for the preceding fiscal year to the President fortransmittal to the Congress on or before December 31 of each year. The report shall include—
 
 &emsp;(1) a comprehensive and detailed report of the activities and accomplishments of the Council;
 
@@ -75,4 +75,12 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 #### Prior Provisions
 
 A prior section 2124, Pub. L. 87–63, title III, §301, formerly §4, June 29, 1961, 75 Stat. 130; Pub. L. 88–426, title III, §305(29), Aug. 14, 1964, 78 Stat. 426; Pub. L. 91–477, §3(a), Oct. 21, 1970, 84 Stat. 1072; renumbered and amended Pub. L. 97–63, §4(a)(1)–(3), (b), (c)(2), Oct. 16, 1981, 95 Stat. 1014, 1015; Pub. L. 102–372, §§12–14, Sept. 30, 1992, 106 Stat. 1180, related to establishment of United States Travel and Tourism Administration, prior to repeal by Pub. L. 104–288, §9(a), Oct. 11, 1996, 110 Stat. 3407.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 

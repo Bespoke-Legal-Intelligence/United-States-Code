@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For the purpose described in subsection (b) of this section, the Secretary, acting through the Director of the Center for Mental Health Services, shall make an allotment each fiscal year for each State in an amount determined in accordance with section 300x–7 of this title. The Secretary shall make a grant to the State of the allotment made for the State for the fiscal year if the State submits to the Secretary an application in accordance with section 300x–6 of this title.
+For the purpose described in subsection (b) of this section, the Secretary, acting through the Director of the Center for Mental Health Services, shall make an allotment each fiscal yearfor each State in an amount determined in accordance with section 300x–7 of this title. The Secretary shall make a grant to the State of the allotment made for the State for the fiscal year if the State submits to the Secretary an application in accordance with section 300x–6 of this title.
 
 #### (b) Purpose of grants
 
@@ -34,5 +34,5 @@ Section 707 of Pub. L. 102–321 directed Secretary of Health and Human Services
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 290aa–2a, 290bb–31, 290ff, 300x–1, 300x–2, 300x–3, 300x–4, 300x–5,300x–6, 300x–7, 300x–8, 300x–51, 300x–52, 300x–53, 300x–54, 300x–55, 300x–56, 300x–57, 300x–58, 300x–60, 300x–62, 300x–63, 300x–64, 300x–66 of this title.
+This section is referred to in sections 290aa–2a, 290bb–31, 290ff, 300x–1, 300x–2, 300x–3, 300x–4, 300x–5, 300x–6, 300x–7, 300x–8, 300x–51, 300x–52, 300x–53, 300x–54, 300x–55, 300x–56, 300x–57, 300x–58, 300x–60, 300x–62, 300x–63, 300x–64, 300x–66 of this title.
 

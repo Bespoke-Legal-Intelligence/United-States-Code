@@ -38,21 +38,23 @@ The remainder of the authority for this section is implied from the statutes fro
 
 #### Merit Systems Protection Board and Office of Special Counsel; Authorization of Appropriations; Restriction on Appropriations
 
-Pub. L. 101–12, §8(a), (b), Apr. 10, 1989, 103 Stat. 34, as amended by Pub. L. 103–424, §1, Oct. 29, 1994, 108 Stat. 4361; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§641(a), 642(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that:
+Pub. L. 101–12, §8(a), (b), Apr. 10, 1989, 103 Stat. 34, as amended by Pub. L. 103–424, §1, Oct. 29, 1994, 108 Stat. 4361; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§641(a), 642(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365; Pub. L. 107–304, §2(a), (b), Nov. 27, 2002, 116 Stat. 2364, provided that:
 
 “(a)
 
 Authorization of Appropriations.—There are authorized to be appropriated, out of any moneys in the Treasury not otherwise appropriated—
 
-&emsp;“(1) for each of fiscal years 1998, 1999, 2000, 2001, and 2002\[,\] such sums as necessary to carry out subchapter I of chapter 12 of title 5, United States Code (as amended by this Act); and
+&emsp;“(1) for each of fiscal years 2003, 2004, 2005, 2006, and 2007 such sums as necessary to carry out subchapter I of chapter 12 of title 5, United States Code (as amended by this Act); and
 
-&emsp;“(2) for each of fiscal years 1993, 1994, 1995, 1996, and 1997, such sums as necessary to carry out subchapter II of chapter 12 of title 5, United States Code (as amended by this Act).
+&emsp;“(2) for each of fiscal years 2003, 2004, 2005, 2006, and 2007 such sums as necessary to carry out subchapter II of chapter 12 of title 5, United States Code (as amended by this Act).
 
 “(b)
 
 Restriction Relating to Appropriations Under the Civil Service Reform Act of 1978.—No funds may be appropriated to the Merit Systems Protection Board or the Office of Special Counsel pursuant to section 903 of the Civil Service Reform Act of 1978 \[Pub. L. 95–454\] (5 U.S.C. 5509 note).”
 
-\[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§641(b), 642(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that the amendments made by section 101(f) \[title VI, §§641(a), 642(a)\] of Pub. L. 104–208 \[amending provisions set out above\] were to be effective on Oct. 1, 1998.\]
+\[Pub. L. 107–304, §2(c), Nov. 27, 2002, 116 Stat. 2364, provided that: This section \[amending section 8(a) of Pub. L. 101–12, set out above\] shall be effective as of October 1, 2002.”\]
+
+\[Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §§641(b), 642(b)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–365, provided that the amendments made by section 101(f) \[title VI, §§641(a), 642(a)\] of Pub. L. 104–208 \[amending section 8(a) of Pub. L. 101–12, set out above\] were to be effective on Oct. 1, 1998.\]
 
 #### Authorization of Appropriations
 

@@ -26,5 +26,5 @@ Minor changes of phraseology were also made.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 3056 of this title; title 22 section 3622.
+This section is referred to in section 3056 of this title; title 22 section 3622.
 

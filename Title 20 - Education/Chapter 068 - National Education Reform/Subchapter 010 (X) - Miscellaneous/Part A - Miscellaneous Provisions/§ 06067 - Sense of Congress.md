@@ -18,5 +18,5 @@ The Buy American Act, referred to in par. (1), is title III of act Mar. 3, 1933,
 
 #### Codification
 
-Another section 1022 of Pub. L. 103–227 is classified to section 6055a of this title.
+Another section 1022 of Pub. L. 103–227 was classified to section 6055a of this title, prior to repeal by Pub. L. 107–279.
 

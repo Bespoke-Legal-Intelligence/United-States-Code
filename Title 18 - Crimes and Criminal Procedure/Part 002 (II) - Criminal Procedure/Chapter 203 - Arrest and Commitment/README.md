@@ -17,7 +17,12 @@
 | [3048\.](%C2%A7%2003048%20-%20Commitment%20to%20another%20district%3B%20removal%E2%80%94%28Rule%29.md) | Commitment to another district; removal—Rule. |
 | [3049\.](%C2%A7%2003049%20-%20Warrant%20for%20removal.md) | Warrant for removal. |
 | [3050\.](%C2%A7%2003050%20-%20Bureau%20of%20Prisons%20employees%E2%80%99%20powers.md) | Bureau of Prisons employees’ powers. |
-| \[3051. | Repealed.\] |
+| [3051\.](%C2%A7%2003051%20-%20Powers%20of%20special%20agents%20of%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives.md) | Powers of special agents of Bureau of Alcohol, Tobacco, Firearms, and Explosives.<sup>2</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [3052\.](%C2%A7%2003052%20-%20Powers%20of%20Federal%20Bureau%20of%20Investigation.md) | Powers of Federal Bureau of Investigation. |
 | [3053\.](%C2%A7%2003053%20-%20Powers%20of%20marshals%20and%20deputies.md) | Powers of marshals and deputies. |
 | \[3054. | Repealed.\] |
@@ -25,9 +30,14 @@
 | [3056\.](%C2%A7%2003056%20-%20Powers%2C%20authorities%2C%20and%20duties%20of%20United%20States%20Secret%20Service.md) | Powers, authorities, and duties of United States Secret Service. |
 | [3057\.](%C2%A7%2003057%20-%20Bankruptcy%20investigations.md) | Bankruptcy investigations. |
 | [3058\.](%C2%A7%2003058%20-%20Interned%20belligerent%20nationals.md) | Interned belligerent nationals. |
-| [3059\.](%C2%A7%2003059%20-%20Rewards%20and%20appropriations%20therefor.md) | Rewards and appropriations therefor. |
-| [3059A.](%C2%A7%2003059A%20-%20Special%20rewards%20for%20information%20relating%20to%20certain%20financial%20institution%20offenses.md) | Special rewards for information relating to certain financial institution offenses. |
-| [3059B.](%C2%A7%2003059B%20-%20General%20reward%20authority.md) | General reward authority. |
+| 3059\. | Rewards and appropriations therefor.<sup>3</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
+| 3059A. | Special rewards for information relating to certain financial institution offenses.<sup>3</sup> |
+| 3059B. | General reward authority.<sup>3</sup> |
 | [3060\.](%C2%A7%2003060%20-%20Preliminary%20examination.md) | Preliminary examination. |
 | [3061\.](%C2%A7%2003061%20-%20Investigative%20powers%20of%20Postal%20Service%20personnel.md) | Investigative powers of Postal Service personnel. |
 | [3062\.](%C2%A7%2003062%20-%20General%20arrest%20authority%20for%20violation%20of%20release%20conditions.md) | General arrest authority for violation of release conditions. |
@@ -63,6 +73,10 @@ Pub. L. 90–560, §5(b), Oct. 12, 1968, 82 Stat. 998, added item 3061.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
+<i><sup>2</sup></i><i> Editorially supplied. Section 3051 added by Pub. L. 107–296 without corresponding amendment of chapter analysis.</i>
+
+<i><sup>3</sup></i><i> Section repealed by Pub. L. 107–273 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 
@@ -78,7 +92,7 @@ Pub. L. 90–560, §5(b), Oct. 12, 1968, 82 Stat. 998, added item 3061.
 - [&sect; 03048 - Commitment to another district; removal&#8212;(Rule)](%C2%A7%2003048%20-%20Commitment%20to%20another%20district%3B%20removal%E2%80%94%28Rule%29.md)
 - [&sect; 03049 - Warrant for removal](%C2%A7%2003049%20-%20Warrant%20for%20removal.md)
 - [&sect; 03050 - Bureau of Prisons employees&#8217; powers](%C2%A7%2003050%20-%20Bureau%20of%20Prisons%20employees%E2%80%99%20powers.md)
-- [&sect; 03051 - Repealed. Oct. 31, 1951, ch. 655, &sect;56(f), 65 Stat. 729](%C2%A7%2003051%20-%20Repealed.%20Oct.%2031%2C%201951%2C%20ch.%20655%2C%20%C2%A756%28f%29%2C%2065%20Stat.%20729.md)
+- [&sect; 03051 - Powers of special agents of Bureau of Alcohol, Tobacco, Firearms, and Explosives](%C2%A7%2003051%20-%20Powers%20of%20special%20agents%20of%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives.md)
 - [&sect; 03052 - Powers of Federal Bureau of Investigation](%C2%A7%2003052%20-%20Powers%20of%20Federal%20Bureau%20of%20Investigation.md)
 - [&sect; 03053 - Powers of marshals and deputies](%C2%A7%2003053%20-%20Powers%20of%20marshals%20and%20deputies.md)
 - [&sect; 03054 - Repealed. Pub. L. 97&#8211;79, &sect;9(b)(3), Nov. 16, 1981, 95 Stat. 1079](%C2%A7%2003054%20-%20Repealed.%20Pub.%20L.%2097%E2%80%9379%2C%20%C2%A79%28b%29%283%29%2C%20Nov.%2016%2C%201981%2C%2095%20Stat.%201079.md)
@@ -86,9 +100,7 @@ Pub. L. 90–560, §5(b), Oct. 12, 1968, 82 Stat. 998, added item 3061.
 - [&sect; 03056 - Powers, authorities, and duties of United States Secret Service](%C2%A7%2003056%20-%20Powers%2C%20authorities%2C%20and%20duties%20of%20United%20States%20Secret%20Service.md)
 - [&sect; 03057 - Bankruptcy investigations](%C2%A7%2003057%20-%20Bankruptcy%20investigations.md)
 - [&sect; 03058 - Interned belligerent nationals](%C2%A7%2003058%20-%20Interned%20belligerent%20nationals.md)
-- [&sect; 03059 - Rewards and appropriations therefor](%C2%A7%2003059%20-%20Rewards%20and%20appropriations%20therefor.md)
-- [&sect; 03059A - Special rewards for information relating to certain financial institution offenses](%C2%A7%2003059A%20-%20Special%20rewards%20for%20information%20relating%20to%20certain%20financial%20institution%20offenses.md)
-- [&sect; 03059B - General reward authority](%C2%A7%2003059B%20-%20General%20reward%20authority.md)
+- [&sect; 03059 to 3059B - Repealed. Pub. L. 107&#8211;273, div. A, title III, &sect;301(c)(2), Nov. 2, 2002, 116 Stat. 1781](%C2%A7%2003059%20to%203059B%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93273%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7301%28c%29%282%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201781.md)
 - [&sect; 03060 - Preliminary examination](%C2%A7%2003060%20-%20Preliminary%20examination.md)
 - [&sect; 03061 - Investigative powers of Postal Service personnel](%C2%A7%2003061%20-%20Investigative%20powers%20of%20Postal%20Service%20personnel.md)
 - [&sect; 03062 - General arrest authority for violation of release conditions](%C2%A7%2003062%20-%20General%20arrest%20authority%20for%20violation%20of%20release%20conditions.md)

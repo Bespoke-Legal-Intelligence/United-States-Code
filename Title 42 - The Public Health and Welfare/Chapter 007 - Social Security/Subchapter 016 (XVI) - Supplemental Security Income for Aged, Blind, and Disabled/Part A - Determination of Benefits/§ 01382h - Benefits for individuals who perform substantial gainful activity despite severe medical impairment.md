@@ -6,7 +6,7 @@
 
 &emsp;(A) such individual continues to have the disabling physical or mental impairment on the basis of which such individual was found to be under a disability; and
 
-&emsp;(B) the income of such individual, other than income excluded pursuant to section 1382a(b) of this title, is not equal to or in excess of the amount which would cause him to be ineligible for payments under section 1382 of thistitle and such individual meets all other non-disability-related requirements for eligibility for benefits under this subchapter.
+&emsp;(B) the income of such individual, other than income excluded pursuant to section 1382a(b) of this title, is not equal to or in excess of the amount which would cause him to be ineligible for payments under section 1382 of this title and such individual meets all other non-disability-related requirements for eligibility for benefits under this subchapter.
 
 (2) The Commissioner of Social Security shall make a determination under paragraph (1)(A) with respect to an individual not later than 12 months after the first month for which the individual qualifies for a benefit under this subsection.
 
@@ -16,7 +16,7 @@
 
 &emsp;(A) such individual continues to be blind or continues to have the disabling physical or mental impairment on the basis of which he was found to be under a disability and, except for his earnings, meets all non-disability-related requirements for eligibility for benefits under this subchapter;
 
-&emsp;(B) the income of such individual would not, except for his earnings and increases pursuant to section 415(i) of this title in the level of monthly insurance benefits to which the individual is entitled under subchapter II of this chapter that occur while such individual is considered to be receiving supplemental security income benefits by reason of this subsection, be equal to or in excess of the amount which would cause him to be ineligible for payments under section 1382(b) of this title (if he were otherwise eligible for such payments);
+&emsp;(B) the income of such individual would not, except for his earnings and increases pursuantto section 415(i) of this title in the level of monthly insurance benefits to which the individual is entitled under subchapter II of this chapter that occur while such individual is considered to be receiving supplemental security income benefits by reason of this subsection, be equal to or in excess of the amount which would cause him to be ineligible for payments under section 1382(b) of this title (if he were otherwise eligible for such payments);
 
 &emsp;(C) the termination of eligibility for benefits under subchapter XIX of this chapter would seriously inhibit his ability to continue his employment; and
 

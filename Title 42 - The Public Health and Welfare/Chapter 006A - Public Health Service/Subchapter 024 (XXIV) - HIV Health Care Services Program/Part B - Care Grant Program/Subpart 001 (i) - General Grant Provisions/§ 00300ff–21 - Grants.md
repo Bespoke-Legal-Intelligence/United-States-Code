@@ -28,7 +28,7 @@ A prior section 2611 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–345 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, a State shall use, of the funds allocated under this part to the State for a fiscal year, not less than the percentage constituted by the ratio of the population in the State of infants, children, and women with acquired immune deficiency syndrome to the general population in the State of individuals with such syndrome.”
+2000—Subsec. (b). Pub. L. 106–345 amended heading and text of subsec. (b) generally. Prior to amendment, text read as follows: “For the purpose of providing health and support services to infants, children, and women with HIV disease, including treatment measures to prevent the perinatal transmission of HIV, a State shall use, of the funds allocated under this part to the State for a fiscal year, not less than the percentage constituted by the ratio of the population in the State of infants, children, and women with acquired immunedeficiency syndrome to the general population in the State of individuals with such syndrome.”
 
 1996—Pub. L. 104–146, §3(c)(1), designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 

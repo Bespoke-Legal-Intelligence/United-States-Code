@@ -44,7 +44,7 @@ Par. (3). Pub. L. 104–193, §727(2), inserted “and” before “(B)” and s
 
 1986—Subsec. (c). Pub. L. 99–661, §4205(b)(2), inserted “On July 1, 1988, and on each July 1 thereafter, the Secretary shall adjust the tuition limitation amount prescribed in clause (A) of the first sentence of this paragraph to reflect the changes in the Consumer Price Index for All Urban Consumers during the most recent 12-month period for which the data is available.”
 
-Subsec. (c)(A). Pub. L. 99–500 and Pub. L. 99–591, which directed the amendment of subpar. (A) by striking out “except private schools whose average yearly tuition exceeds $1,500 per child,” after “such school” was executed by striking out “except private schools whose average yearly tuition exceeds $2,000 per child,” after “such school” to reflect the probable intent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(b)(2). See below.
+Subsec. (c)(A). Pub. L. 99–500 and Pub. L. 99–591, which directed the amendment of subpar. (A) by striking out “except private schools whose average yearlytuition exceeds $1,500 per child,” after “such school” was executed by striking out “except private schools whose average yearly tuition exceeds $2,000 per child,” after “such school” to reflect the probable intent of Congress and the intervening amendment of subpar. (A) by Pub. L. 99–661, §4205(b)(2). See below.
 
 Pub. L. 99–661, §4205(b)(1), substituted “$2,000” for “$1,500”.
 

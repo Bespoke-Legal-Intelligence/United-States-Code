@@ -66,7 +66,7 @@ Subsec. (b)(1)(A). Pub. L. 107–56, §216(b)(2)(A), inserted “or other facili
 
 Subsec. (b)(1)(C). Pub. L. 107–56, §216(b)(2)(B), added subpar. (C) and struck out former subpar (C) which read as follows: “the number and, if known, physical location of the telephone line to which the pen register or trap and trace device is to be attached and, in the case of a trap and trace device, the geographic limits of the trap and trace order; and”.
 
-Subsec. (d)(2). Pub. L. 107–56, §216(b)(3), inserted “or other facility” after “leasing the line” and substituted “or applied, or who is obligated by the order” for “, or who has been ordered by the court”.
+Subsec. (d)(2). Pub. L. 107–56, §216(b)(3), inserted “or other facility” after “leasing the line” and substituted“or applied, or who is obligated by the order” for “, or who has been ordered by the court”.
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@ In the case of each processing site designated under this subchapter other than 
 
 &emsp;(A) sell such lands and interests,
 
-&emsp;(B) permanently retain such land and interests in lands (or donate such lands and interests therein to another governmental entity within such State) for permanent use by such State or entity solely for park, recreational, or other public purposes, or
+&emsp;(B) permanently retain such land and interests in lands (or donate such lands and interests therein to another governmental entity within such State) for permanent use by suchState or entity solely for park, recreational, or other public purposes, or
 
 &emsp;(C) transfer such lands and interests to the United States as provided in subsection (f) of this section.
 
@@ -50,7 +50,7 @@ In the case of each processing site designated under this subchapter other than 
 
 #### (g) Reimbursement; fair market value; deposits in Treasury
 
-Each agreement under section 7913 of this title which permits any sale described in subsection (e)(1)(A) of this section shall provide for the prompt reimbursement to the Secretary fromthe proceeds of such sale. Such reimbursement shall be in an amount equal to the lesser of—
+Each agreement under section 7913 of this title which permits any sale described in subsection (e)(1)(A) of this section shall provide for the prompt reimbursement to the Secretary from the proceeds of such sale. Such reimbursement shall be in an amount equal to the lesser of—
 
 &emsp;(1) that portion of the fair market value of the lands or interests therein which bears the same ratio to such fair market value as the Federal share of the costs of acquisition by the State to such lands or interest therein bears to the total cost of such acquisition, or
 

@@ -20,7 +20,7 @@
 
 (g) Subject to the provisions of chapter 179, the district courts of the United States shall have exclusive jurisdiction over any civil action commenced under section 453(2) of title 3, by a covered employee under chapter 5 of such title.
 
-(June 25, 1948, ch. 646, 62 Stat. 933; Apr. 25, 1949, ch. 92, §2(a), 63 Stat. 62; May 24, 1949, ch. 139, §80(a), (b), 63 Stat. 101; Oct. 31, 1951, ch. 655, §50(b), 65 Stat. 727; July 30, 1954, ch. 648, §1, 68 Stat. 589; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 88–519, Aug. 30, 1964, 78 Stat. 699; Pub. L. 89–719, title II, §202(a), Nov. 2, 1966, 80 Stat. 1148; Pub. L. 91–350, §1(a), July 23, 1970, 84 Stat. 449; Pub. L. 92–562, §1, Oct. 25, 1972, 86 Stat. 1176; Pub. L. 94–455, title XII, §1204(c)(1), title XIII, §1306(b)(7), Oct. 4, 1976, 90 Stat. 1697, 1719; Pub. L. 95–563, §14(a), Nov. 1, 1978, 92 Stat. 2389; Pub. L. 97–164, title I, §129, Apr. 2, 1982, 96 Stat. 39; Pub. L. 97–248, title IV, §402(c)(17), Sept. 3, 1982, 96 Stat. 669; Pub. L. 99–514, §2, Oct. 22,1986, 100 Stat. 2095; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §806\], Apr. 26, 1996, 110 Stat. 1321, 1321–75; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–331, §3(b)(1), Oct. 26, 1996, 110 Stat. 4069.)
+(June 25, 1948, ch. 646, 62 Stat. 933; Apr. 25, 1949, ch. 92, §2(a), 63 Stat. 62; May 24, 1949, ch. 139, §80(a), (b), 63 Stat. 101; Oct. 31, 1951, ch. 655, §50(b), 65 Stat. 727; July 30, 1954, ch. 648, §1, 68 Stat. 589; Pub. L. 85–508, §12(e), July 7, 1958, 72 Stat. 348; Pub. L. 88–519, Aug. 30, 1964, 78 Stat. 699; Pub. L. 89–719, title II, §202(a), Nov. 2, 1966, 80 Stat. 1148; Pub. L. 91–350, §1(a), July 23, 1970, 84 Stat. 449; Pub. L. 92–562, §1, Oct. 25, 1972, 86 Stat. 1176; Pub. L. 94–455, title XII, §1204(c)(1), title XIII, §1306(b)(7), Oct. 4, 1976, 90 Stat. 1697, 1719; Pub. L. 95–563, §14(a), Nov. 1, 1978, 92 Stat. 2389; Pub. L. 97–164, title I, §129, Apr. 2, 1982, 96 Stat. 39; Pub. L. 97–248, title IV, §402(c)(17), Sept. 3, 1982, 96 Stat. 669; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §806\], Apr. 26, 1996, 110 Stat. 1321, 1321–75; renumbered title I,Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–331, §3(b)(1), Oct. 26, 1996, 110 Stat. 4069.)
 
 #### Historical and Revision Notes
 
@@ -74,37 +74,37 @@ Sections 6226, 6228(a), 7426, 7428, and 7429 of the Internal Revenue Code of 198
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–134 designated existing provisions as par. (1) and added par. (2).
+1996—Subsec. (b). Pub. L. 104–134 designated existing provisions as par. (1) and added par. (2).
 
 Subsec. (g). Pub. L. 104–331 added subsec. (g).
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a). Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-<b>1986</b>—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
+1986—Subsec. (e). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
+1982—Subsec. (a). Pub. L. 97–164 substituted “United States Claims Court” for “Court of Claims”.
 
 Subsec. (e). Pub. L. 97–248 substituted “section 6226, 6228(a), 7426, or” for “section 7426 or section”.
 
-<b>1978</b>—Subsec. (a)(2). Pub. L. 95–563 excluded from the jurisdiction of district courts civil actions or claims against the United States founded upon any express or implied contract with the United States or for damages in cases not sounding in tort subject to sections 8(g)(1) and 10(a)(1) of the Contract Disputes Act of 1978.
+1978—Subsec. (a)(2). Pub. L. 95–563 excluded from the jurisdiction of district courts civil actions or claims against the United States founded upon any express or implied contract with the United States or for damages in cases not sounding in tort subject to sections 8(g)(1) and 10(a)(1) of the Contract Disputes Act of 1978.
 
-<b>1976</b>—Subsec. (e). Pub. L. 94–455 inserted “or section 7429” and “or section 7428 (in the case of the UnitedStates district court for the District of Columbia)”, after “section 7426”.
+1976—Subsec. (e). Pub. L. 94–455 inserted “or section 7429” and “or section 7428 (in the case of the United States district court for the District of Columbia)”, after “section 7426”.
 
-<b>1972</b>—Subsec. (f). Pub. L. 92–562 added subsec. (f).
+1972—Subsec. (f). Pub. L. 92–562 added subsec. (f).
 
-<b>1970</b>—Subsec. (a)(2). Pub. L. 91–350 specified that the term “express or implied contracts with the United States” includes express or implied contracts with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration.
+1970—Subsec. (a)(2). Pub. L. 91–350 specified that the term “express or implied contracts with the UnitedStates” includes express or implied contracts with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration.
 
-<b>1966</b>—Subsec. (e). Pub. L. 89–719 added subsec. (e).
+1966—Subsec. (e). Pub. L. 89–719 added subsec. (e).
 
-<b>1964</b>—Subsec. (d). Pub. L. 88–519 struck out provisions which prohibited district courts from exercising jurisdiction of civil actions or claims to recover fees, salary, or compensation for official services of officers or employees of the United States.
+1964—Subsec. (d). Pub. L. 88–519 struck out provisions which prohibited district courts from exercising jurisdiction of civil actions or claims to recover fees, salary, or compensation for official services of officers or employees of the United States.
 
-<b>1958</b>—Subsec. (b). Pub. L. 85–508 struck out reference to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+1958—Subsec. (b). Pub. L. 85–508 struck out reference to District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-<b>1954</b>—Subsec. (a)(1). Act July 30, 1954, struck out language imposing jurisdictional limitation of $10,000 on suits to recover taxes.
+1954—Subsec. (a)(1). Act July 30, 1954, struck out language imposing jurisdictional limitation of $10,000 on suits to recover taxes.
 
-<b>1951</b>—Subsec. (d). Act Oct. 31, 1951, inserted references to “claim” and “employees”.
+1951—Subsec. (d). Act Oct. 31, 1951, inserted references to “claim” and “employees”.
 
-<b>1949</b>—Subsec. (a)(1). Act May 24, 1949, §80(a), inserted “, (i) if the claim does not exceed $10,000 or (ii)”.
+1949—Subsec. (a)(1). Act May 24, 1949, §80(a), inserted “, (i) if the claim does not exceed $10,000 or (ii)”.
 
 Subsec. (b). Acts Apr. 25, 1949, and May 24, 1949, §80(b), made a technical change to correct “chapter 173” to read “chapter 171”, and inserted “on and after January 1, 1945” after “for money damages”.
 
@@ -142,11 +142,15 @@ Section 203 of title II of Pub. L. 89–719 provided that: “The amendments mad
 
 Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Termination of United States District Court for the District of the Canal Zone
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 995, 1295, 1402, 1413, 2402, 2409a, 2671, 2676, 2677, 2678, 2679, 2680, 3901, 3902, 3903, 3905 of this title; title 2 section 190g; title 3 sections 435, 451, 453; title 5 sections 3373, 3374, 8477; title 10 sections 1054, 1089; title 14 sections 821, 823a; title 16 sections 450ss–3, 698v–5; title 18 section 2712; title 22 sections 2702, 3761, 4606; title 25 sections 640d–17, 1680c; title 26 section 7422; title 29 section 938; title 32 section 509; title 38 sections 515, 1151, 7316; title 41 sections 113, 602; title 42 sections 233, 238q, 405, 2212, 2221, 2223, 2458a, 4654, 5055, 7142c; title 43 section 1737; title 46 App. section 1242; title 47 section 606; title 48 section 1905; title 49 section 44309; title 50 App. sections 9, 2410.
+This section is referred to in sections 995, 1295, 1402, 1413, 2402, 2409a, 2671, 2676, 2677, 2678, 2679, 2680, 3901, 3902, 3903, 3905 of this title; title 2 section 190g; title 3 sections 435, 451, 453; title 5 sections 3373, 3374, 3703, 3704, 8477; title 10 sections 1054, 1089; title 14 sections 821, 823a; title 16 sections 450ss–3, 698v–5; title 18 section 2712; title 22 sections 2702, 3761, 4606; title 25 sections 640d–17, 1680c, 1779c; title 26 section 7422; title 29 section 938; title 32 section 509; title 38 sections 515, 1151, 7316; title 41 sections 113, 602; title 42 sections 233, 238q, 405, 2212, 2221, 2223, 2458a, 4654, 5055, 7142c; title 43 section 1737; title 46 App. section 1242; title 47 section 606; title 48 section 1905; title 49 section 44309; title 50 App. sections 9, 2410.
 

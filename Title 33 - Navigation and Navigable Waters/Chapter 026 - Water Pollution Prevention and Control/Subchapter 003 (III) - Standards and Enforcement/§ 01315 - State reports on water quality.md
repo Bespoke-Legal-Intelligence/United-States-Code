@@ -12,17 +12,15 @@
 
 &emsp;(D) an estimate of (i) the environmental impact, (ii) the economic and social costs necessary to achieve the objective of this chapter in such State, (iii) the economic and social benefits of such achievement, and (iv) an estimate of the date of such achievement; and
 
-&emsp;(E) a description of the nature and extent of nonpoint sources of pollutants, and recommendations as to the programs which must beundertaken to control each category of such sources, including an estimate of the costs of implementing such programs.
+&emsp;(E) a description of the nature and extent of nonpoint sources of pollutants, and recommendations as to the programs which must be undertaken to control each category of such sources, including an estimate of the costs of implementing such programs.
 
-(2) Omitted.
+(2) The Administrator shall transmit such State reports, together with an analysis thereof, to Congress on or before October 1, 1975, and October 1, 1976, and biennially thereafter.
 
 (June 30, 1948, ch. 758, title III, §305, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 853; amended Pub. L. 95–217, §52, Dec. 27, 1977, 91 Stat. 1589.)
 
 #### Codification
 
 Subsec. (a) authorized the Administrator, in cooperation with the States and Federal agencies, to prepare a report describing the specific quality, during 1973, of all navigable waters and waters of the contiguous zone, including an inventory of all point sources of discharge of pollutants into these waters, and identifying those navigable waters capable of supporting fish and wildlife populations and allowing recreational activities, those which could reasonably be expected to attain this level by 1977 or 1983, and those which could attain this level sooner, and submit this report to Congress on or before Jan. 1, 1974.
-
-Subsec. (b)(2) of this section, which required the Administrator to transmit to Congress biennially the State reports submitted to the Administrator under subsec. (b)(1) of this section, together with an analysis of the reports, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 165 of House Document No. 103–7.
 
 #### Amendments
 

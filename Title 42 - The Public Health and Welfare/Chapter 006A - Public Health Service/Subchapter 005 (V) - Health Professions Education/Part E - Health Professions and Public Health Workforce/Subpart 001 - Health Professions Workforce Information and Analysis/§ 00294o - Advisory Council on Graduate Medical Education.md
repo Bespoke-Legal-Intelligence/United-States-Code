@@ -70,7 +70,7 @@ Each member of the Council who is not otherwise employed by the United States Go
 
 &emsp;&emsp;(A) collect such information, hold such hearings, and sit and act at such times and places, either as a whole or by subcommittee, and request the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents as the Council or such subcommittee may consider available; and
 
-&emsp;&emsp;(B) request the cooperation and assistance of Federal departments, agencies, and instrumentalities, and such departments,agencies, and instrumentalities are authorized to provide such cooperation and assistance.
+&emsp;&emsp;(B) request the cooperation and assistance of Federal departments, agencies, and instrumentalities, and such departments, agencies, and instrumentalities are authorized to provide such cooperation and assistance.
 
 #### (2) Coordination of activities
 
@@ -86,13 +86,13 @@ Not later than April 1, 2002, the Council shall submit a final report under subs
 
 #### (k) Termination
 
-The Council shall terminate September 30, 2002.
+The Council shall terminate September 30, 2003.
 
 #### (<i>l</i>) Funding
 
 Amounts otherwise appropriated under this subchapter may be utilized by the Secretary to support the activities of the Council.
 
-(July 1, 1944, ch. 373, title VII, §762, formerly Pub. L. 102–408, title III, §301, Oct. 13, 1992, 106 Stat. 2080, as amended Pub. L. 102–531, title III, §313(b), Oct. 27, 1992, 106 Stat. 3507; renumbered §762 of act July 1, 1944, and amended Pub. L. 105–392, title I, §104(b), Nov. 13, 1998, 112 Stat. 3552.)
+(July 1, 1944, ch. 373, title VII, §762, formerly Pub. L. 102–408, title III, §301, Oct. 13, 1992, 106 Stat. 2080, as amended Pub. L. 102–531, title III, §313(b), Oct. 27, 1992, 106 Stat. 3507; renumbered §762 of act July 1, 1944, and amended Pub. L. 105–392, title I, §104(b), Nov. 13, 1998, 112 Stat. 3552; Pub. L. 107–251, title V, §502, Oct. 26, 2002, 116 Stat. 1664.)
 
 #### Codification
 
@@ -102,13 +102,15 @@ Section was formerly set out as a note under section 295k of this title prior to
 
 A prior section 294<i>o</i>, act July 1, 1944, ch. 373, title VII, §777, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2052, authorized grants and contracts for improvement of training in geriatrics, prior to the general amendment of this part by Pub. L. 105–392.
 
-Another prior section 294<i>o</i>, act July 1, 1944, ch. 373, title VII, §742, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 172; amended Oct. 22, 1965, Pub. L. 89–290, §4(c), 79 Stat. 1057; Nov. 2, 1966, Pub. L. 89–709, §3(e), 80 Stat. 1103; Nov. 3, 1966, Pub. L. 89–751, §5(b), 80 Stat. 1232; Aug. 16, 1968, Pub. L. 90–490, title I, §121(b), 82 Stat. 778; July 9, 1971, Pub. L. 92–52, §1(a), 85 Stat. 144; Nov. 18, 1971, Pub. L. 92–157, title I, §105(a), (f)(2), 85 Stat. 449, 451; Aug. 23, 1974, Pub. L. 93–385, §2(a), 88 Stat. 741; Apr. 22, 1976, Pub. L. 94–278, title XI, §1105(a), 90 Stat. 416; Oct. 12, 1976, Pub. L. 94–484, title I, §101(e), title IV, §§404, 406(d), 90 Stat. 2244, 2267, 2268; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2734, 95 Stat. 920; Oct. 22, 1985, Pub. L. 99–129, title II, §209(g), 99 Stat. 534; Nov. 6, 1990, Pub. L. 101–527, §5(c), 104 Stat. 2323, provided for authorization of appropriations for purpose of making Federal contributions into student loan funds, prior to the general amendment of this subchapter by Pub. L. 102–408. See sections 292t and 292y of this title.
+Another prior section 294<i>o</i>, act July 1, 1944, ch. 373, title VII, §742, as added Sept. 24, 1963, Pub. L. 88–129, §2(b), 77 Stat. 172; amended Oct. 22, 1965, Pub. L. 89–290, §4(c), 79 Stat. 1057; Nov. 2, 1966, Pub. L. 89–709, §3(e), 80 Stat. 1103; Nov. 3, 1966, Pub. L. 89–751, §5(b), 80 Stat. 1232; Aug. 16, 1968, Pub. L. 90–490, title I, §121(b), 82 Stat. 778; July 9, 1971, Pub. L. 92–52, §1(a), 85 Stat. 144; Nov. 18, 1971, Pub. L. 92–157, title I, §105(a), (f)(2), 85 Stat. 449, 451; Aug. 23, 1974, Pub. L. 93–385, §2(a), 88 Stat. 741; Apr. 22, 1976, Pub. L. 94–278, title XI, §1105(a), 90 Stat. 416; Oct. 12, 1976, Pub. L. 94–484, title I, §101(e), title IV, §§404, 406(d), 90 Stat. 2244, 2267, 2268; Aug. 13, 1981, Pub. L. 97–35, title XXVII, §2734, 95 Stat. 920; Oct. 22, 1985, Pub. L. 99–129, title II, §209(g), 99 Stat. 534; Nov. 6, 1990, Pub. L. 101–527, §5(c), 104 Stat. 2323, provided for authorization of appropriations for purpose of making Federal contributions into student loan funds, prior to the general amendment of this subchapter by Pub. L. 102–408. See section 292y of this title.
 
 A prior section 762 of act July 1, 1944, was classified to section 295a of this title prior to repeal by Pub. L. 99–129.
 
 Another prior section 762 of act July 1, 1944, was classified to section 295a of this title prior to the general amendment of part D of this subchapter by Pub. L. 91–696.
 
 #### Amendments
+
+2002—Subsec. (k). Pub. L. 107–251 substituted “2003” for “2002”.
 
 1998—Subsec. (j). Pub. L. 105–392, §104(b)(1), substituted “2002” for “1995”.
 

@@ -1,6 +1,6 @@
 ### §985a. Cancellation of bonds issued under section 985
 
-Notwithstanding any other provision of law, any bond issued under section 985 of this title, ishereby canceled together with the obligation to pay such bond.
+Notwithstanding any other provision of law, any bond issued under section 985 of this title, is hereby canceled together with the obligation to pay such bond.
 
 (Pub. L. 97–369, title III, §311, Dec. 18, 1982, 96 Stat. 1782.)
 

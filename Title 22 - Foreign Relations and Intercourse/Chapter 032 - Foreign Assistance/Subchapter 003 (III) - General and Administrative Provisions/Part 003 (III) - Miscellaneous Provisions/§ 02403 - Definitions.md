@@ -64,7 +64,7 @@ This chapter, referred to in text, was in the original “this Act”, meaning P
 
 The Atomic Energy Act of 1954, as amended, referred to in subsecs. (d) and (e), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
-The Arms Export Control Act, referred to in subsec. (q), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, asamended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
+The Arms Export Control Act, referred to in subsec. (q), is Pub. L. 90–629, Oct. 22, 1968, 82 Stat. 1320, as amended, which is classified principally to chapter 39 (§2751 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2751 of this title and Tables.
 
 #### Codification
 
@@ -132,7 +132,11 @@ Amendment by Pub. L. 92–226 applicable with respect to each fiscal year commen
 
 Amendment by Pub. L. 90–629 effective on July 1, 1968, see section 41 of Pub. L. 90–629, set out as an Effective Date note under section 2751 of this title.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2321c, 2349aa–2, 2378a, 2392, 2794, 2795 of this title.
+This section is referred to in sections 2321c, 2349aa–2, 2378a, 2392, 2794, 2795, 7532, 7534 of this title.
 

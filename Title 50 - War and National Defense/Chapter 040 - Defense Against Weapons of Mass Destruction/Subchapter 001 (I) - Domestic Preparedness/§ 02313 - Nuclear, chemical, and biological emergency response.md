@@ -4,7 +4,7 @@
 
 The Secretary of Defense shall designate an official within the Department of Defense as the executive agent for—
 
-&emsp;(1) the coordination of Department of Defense assistance to Federal, State, and local officials in responding to threats involving biological or chemical weapons or related materials or technologies, including assistance in identifying, neutralizing, dismantling, and disposing of biological and chemical weapons and related materials and technologies; and
+&emsp;(1) the coordination of Department of Defense assistance to Federal, State, and localofficials in responding to threats involving biological or chemical weapons or related materials or technologies, including assistance in identifying, neutralizing, dismantling, and disposing of biological and chemical weapons and related materials and technologies; and
 
 &emsp;(2) the coordination of Department of Defense assistance to the Department of Energy in carrying out that department's responsibilities under subsection (b) of this section.
 

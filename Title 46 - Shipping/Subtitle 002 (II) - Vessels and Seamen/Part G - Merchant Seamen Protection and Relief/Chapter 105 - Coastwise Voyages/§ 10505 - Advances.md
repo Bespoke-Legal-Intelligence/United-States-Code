@@ -8,7 +8,7 @@
 
 &emsp;(C) make to another person an order, note, or other evidence of indebtedness of the wages, or pay another person, for the engagement of seamen when payment is deducted or to be deducted from the seaman's wage.
 
-(2) A person violating this subsection is liable to the United States Government for a civil penalty of not more than $5,000. A payment made in violation of this subsection does not relieve thevessel or the master from the duty to pay all wages after they have been earned.
+(2) A person violating this subsection is liable to the United States Government for a civil penalty of not more than $5,000. A payment made in violation of this subsection does not relieve the vessel or the master from the duty to pay all wages after they have been earned.
 
 (b) A person demanding or receiving from a seaman or an individual seeking employment as a seaman, remuneration for providing the seaman or individual with employment, is liable to the Government for a civil penalty of not more than $5,000.
 

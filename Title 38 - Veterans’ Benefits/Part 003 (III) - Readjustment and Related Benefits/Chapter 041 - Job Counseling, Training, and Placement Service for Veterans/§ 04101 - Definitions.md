@@ -20,21 +20,29 @@ For the purposes of this chapter—
 
 &emsp;(6) The term “State” means each of the several States of the United States, the District of Columbia, and the Commonwealth of Puerto Rico, and may include, to the extent determined necessary and feasible, Guam, American Samoa, the Virgin Islands, the Commonwealth of the Northern Marianas Islands, and the Trust Territory of the Pacific Islands.
 
-&emsp;(7) The term “local employment service office” means a service delivery point which has an intrinsic management structure and at which employment services are offered in accordance with the Wagner-Peyser Act.
+&emsp;(7) The term “employment service delivery system” means a service delivery system at which or through which labor exchange services, including employment, training, and placement services, are offered in accordance with the Wagner-Peyser Act.
 
 &emsp;(8) The term “Secretary” means the Secretary of Labor.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, §2010; renumbered §2001, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, §401(a), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 96–466, title V, §503, title VIII, §801(h), Oct. 17, 1980, 94 Stat. 2203, 2216; Pub. L. 100–323, §§3(b), 15(a)(1), May 20, 1988, 102 Stat. 562, 574; renumbered §4101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+&emsp;(9) The term “intensive services” means local employment and training services of the type described in section 134(d)(3) of the Workforce Investment Act of 1998.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1221, §2010; renumbered §2001, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1094; Pub. L. 93–508, title IV, §401(a), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 96–466, title V, §503, title VIII, §801(h), Oct. 17, 1980, 94 Stat. 2203, 2216; Pub. L. 100–323, §§3(b), 15(a)(1), May 20, 1988, 102 Stat. 562, 574; renumbered §4101 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §5(a)(1)(A), (c)(1), Nov. 7, 2002, 116 Stat. 2044, 2045.)
 
 #### References in Text
 
 The Wagner-Peyser Act, referred to in par. (7), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
 
+Section 134(d)(3) of the Workforce Investment Act of 1998, referred to in par. (9), is classified to section 2864(d)(3) of Title 29, Labor.
+
 #### Prior Provisions
 
-Prior section 4101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 89–785, title I, §101, Nov. 7, 1966, 80 Stat. 1368; Pub. L. 93–82, title II, §201, Aug. 2, 1973, 87 Stat. 187; Pub. L. 94–581, title II, §§205(a), 209(a)(1), (3), 210(c)(1), Oct. 21, 1976, 90 Stat. 2857, 2860, 2863; Pub. L. 96–330, title I, §105(a), title III, §302, title IV, §408, Aug. 26, 1980, 94 Stat. 1036, 1048, 1053; Pub. L. 97–295, §4(80), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–528, title I, §104, Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §202, Dec. 3, 1985, 99 Stat. 950; Pub. L. 100–322, title I, §135, May 20, 1988, 102 Stat. 507; Pub. L. 100–687, div. B, title XV, §1506(a), Nov. 18, 1988, 102 Stat. 4135, related to functions of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7301 to 7303, 7314, 7315, 7317, and 7425 of this title.
+Prior section 4101, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1243; Pub. L. 89–785, title I, §101, Nov. 7, 1966, 80Stat. 1368; Pub. L. 93–82, title II, §201, Aug. 2, 1973, 87 Stat. 187; Pub. L. 94–581, title II, §§205(a), 209(a)(1), (3), 210(c)(1), Oct. 21, 1976, 90 Stat. 2857, 2860, 2863; Pub. L. 96–330, title I, §105(a), title III, §302, title IV, §408, Aug. 26, 1980, 94 Stat. 1036, 1048, 1053; Pub. L. 97–295, §4(80), Oct. 12, 1982, 96 Stat. 1311; Pub. L. 98–528, title I, §104, Oct. 19, 1984, 98 Stat. 2689; Pub. L. 99–166, title II, §202, Dec. 3, 1985, 99 Stat. 950; Pub. L. 100–322, title I, §135, May 20, 1988, 102 Stat. 507; Pub. L. 100–687, div. B, title XV, §1506(a), Nov. 18, 1988, 102 Stat. 4135, related to functions of Department of Medicine and Surgery, prior to repeal by Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 210. See sections 7301 to 7303, 7314, 7315, 7317, and 7425 of this title.
 
 #### Amendments
+
+2002—Par. (7). Pub. L. 107–288, §5(c)(1), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The term ‘local employment service office’ means a service delivery point which has an intrinsic management structure and at which employment services are offered in accordance with the Wagner-Peyser Act.”
+
+Par. (9). Pub. L. 107–288, §5(a)(1)(A), added par. (9).
 
 1991—Pub. L. 102–83, §5(a), renumbered section 2001 of this title as this section.
 
@@ -55,6 +63,12 @@ Par. (6). Pub. L. 96–466, §§503(2), 801(h)(2), redesignated former par. (3) 
 1972—Pub. L. 92–540 substituted provisions defining “eligible veteran” and “State”, for provisions stating the Congressional declaration of purpose.
 
 1966—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war”.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–288, §5(a)(2), Nov. 7, 2002, 116 Stat. 2044, provided that: “The amendments made by paragraph (1) \[amending this section and sections 4102, 4106, 4107, and 4109 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 7, 2002\].”
+
+Pub. L. 107–288, §5(c)(2), Nov. 7, 2002, 116 Stat. 2045, provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 7, 2002\].”
 
 #### Effective Date of 1980 Amendment
 
@@ -81,4 +95,8 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Employment Assistance and Services for Veterans Ineligible for Assistance
 
 Pub. L. 96–466, title V, §512, Oct. 17, 1980, 94 Stat. 2207, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(28), (f)(20)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432, provided that: “The Secretary of Labor shall assure that any veteran who is made ineligible for employment assistance under chapter 41 of title 38, United States Code, by virtue of the amendments made by section 503(1) of this Act \[amending this section\] shall be provided with the employment assistance and services made available under the provisions of the Act entitled ‘An Act to provide for the establishment of a national employment system and for cooperation with the States in the promotion of such system, and for other purposes’, approved June 6, 1933 (commonly referred to as the ‘Wagner-Peyser Act’), (29 U.S.C. 49–49k), title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\], and other applicable provisions of law.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 4102A, 4112, 4212 of this title.
 

@@ -58,7 +58,7 @@ If the Secretary determines that a tribally controlled school is eligible for as
 
 &emsp;&emsp;&emsp;(II) If the Secretary and a grant recipient other than a tribal governing body fail to agree on such an evaluator, the tribal governing body shall choose the evaluator or perform the evaluation. If the Secretary and a grant recipient that is a tribal governing body fail to agree on such an evaluator, subclause (I) shall not apply.
 
-&emsp;&emsp;&emsp;(III) A positive assessment by an impartial evaluator under this clause shall not affect the revocation of a determination of eligibility by the Secretary where such revocation is based on circumstances thatwere within the control of the school board.
+&emsp;&emsp;&emsp;(III) A positive assessment by an impartial evaluator under this clause shall not affect the revocation of a determination of eligibility by the Secretary where such revocation is based on circumstances that were within the control of the school board.
 
 #### (2) Notice requirements for revocation
 
@@ -96,9 +96,9 @@ With respect to a tribally controlled school that receives assistance under this
 
 #### References in Text
 
-The Single Audit Act of 1984, referred to in subsec. (b)(1)(B), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title note set out under section 7501 of Title 31 and Tables.
+The Single Audit Act of 1984, referred to in subsec. (b)(1)(B), is Pub. L. 98–502, Oct. 19, 1984, 98 Stat. 2327, as amended, which is classified generally to chapter 75 (§7501 et seq.) of Title 31, Money and Finance. For complete classification of this Act to the Code, see Short Title of 1984 Amendment note set out under section 7501 of Title 31 and Tables.
 
-The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(1)(B)(iv)(I), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(1)(B)(iv)(I), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) ofchapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Prior Provisions
 

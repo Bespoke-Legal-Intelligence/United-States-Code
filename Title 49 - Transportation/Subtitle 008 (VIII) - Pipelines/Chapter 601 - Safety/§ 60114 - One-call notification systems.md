@@ -6,7 +6,7 @@ Minimum Requirements.—The Secretary of Transportation shall prescribe regulati
 
 &emsp;(1) a requirement that the system apply to all areas of the State containing underground pipeline facilities.
 
-&emsp;(2) a requirement that a person intending to engage in an activity the Secretary decides could cause physical damage to an underground facility must contact the appropriate system to establish if there are underground facilities present in the area of the intended activity.
+&emsp;(2) a requirement that a person, including a government employee or contractor, intending to engage in an activity the Secretary decides could cause physical damage to an underground facility must contact the appropriate system to establish if there are underground facilities present in the area of the intended activity.
 
 &emsp;(3) a requirement that all operators of underground pipeline facilities participate in an appropriate one-call notification system.
 
@@ -26,11 +26,11 @@ Minimum Requirements.—The Secretary of Transportation shall prescribe regulati
 
 Marking Facilities.—On notification by an operator of a damage prevention program or by a person planning to carry out demolition, excavation, tunneling, or construction in the vicinity of a pipeline facility, the operator of the facility shall mark accurately, in a reasonable and timely way, the location of the pipeline facilities in the vicinity of the demolition, excavation, tunneling, or construction.
 
-(d) <sup>1</sup>
+(c)
 
 Relationship to Other Laws.—This section and regulations prescribed under this section do not affect the liability established under a law of the United States or a State for damage caused by an activity described in subsection (a)(2) of this section.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1318; Pub. L. 104–287, §5(91), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §20(d), Oct. 12, 1996, 110 Stat. 3804.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1318; Pub. L. 104–287, §5(91), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–304, §20(d), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 107–355, §§3(b), 21(2), Dec. 17, 2002, 116 Stat. 2986, 3010.)
 
 Historical and Revision Notes
 
@@ -82,6 +82,10 @@ This amends 49:60114(a)(9) to clarify the restatement of 49 App.:1687(b) by sect
 
 #### Amendments
 
+2002—Subsec. (a)(2). Pub. L. 107–355, §3(b), inserted “, including a government employee or contractor,” after “person”.
+
+Subsecs. (c), (d). Pub. L. 107–355, §21(2), redesignated subsec. (d) as (c).
+
 1996—Subsec. (a)(9). Pub. L. 104–287 and Pub. L. 104–304, §20(d)(1), amended par. (9) identically, substituting “60120 and 60122” for “60120, 60122, and 60123”.
 
 Subsec. (b). Pub. L. 104–304, §20(d)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows:
@@ -106,9 +110,11 @@ Apportionment.—When apportioning the amount appropriated to carry out section 
 
 Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. L. 104–287, set out as a note under section 5303 of this title.
 
+#### Nationwide Toll-Free Number System
+
+Pub. L. 107–355, §17, Dec. 17, 2002, 116 Stat. 3008, provided that: “Within 1 year after the date of the enactment of this Act \[Dec. 17, 2002\], the Secretary of Transportation shall, in conjunction with the Federal Communications Commission, facility operators, excavators, and one-call notification system operators, provide for the establishment of a 3-digit nationwide toll-free telephone number system to be used by State one-call notification systems.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 60105, 60122, 60123, 60125 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “(c)”.</i>
+This section is referred to in sections 60105, 60122, 60123 of this title.
 

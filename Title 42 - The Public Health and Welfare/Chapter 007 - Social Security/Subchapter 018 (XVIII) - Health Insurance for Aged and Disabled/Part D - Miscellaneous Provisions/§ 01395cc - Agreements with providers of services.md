@@ -6,7 +6,7 @@
 
 &emsp;(A)(i) not to charge, except as provided in paragraph (2), any individual or any other person for items or services for which such individual is entitled to have payment made under this subchapter (or for which he would be so entitled if such provider of services had complied with the procedural and other requirements under or pursuant to this subchapter or for which such provider is paid pursuant to the provisions of section 1395f(e) of this title), and (ii) not to impose any charge that is prohibited under section 1396a(n)(3) of this title,
 
-&emsp;(B) not to charge any individual or any other person for items or services for which such individual is not entitled to have payment made under this subchapter because payment for expenses incurred for such items or services may not be made by reason of the provisions of paragraph (1) or (9) of section 1395y(a) of this title, but only if (i) such individual was without fault in incurring such expenses and (ii) the Secretary's determination that such payment may not be made for such items andservices was made after the third year following the year in which notice of such payment was sent to such individual; except that the Secretary may reduce such three-year period to not less than one year if he finds such reduction is consistent with the objectives of this subchapter,
+&emsp;(B) not to charge any individual or any other person for items or services for which such individual is not entitled to have payment made under this subchapter because payment for expenses incurred for such items or services may not be made by reason of the provisions of paragraph (1) or (9) of section 1395y(a) of this title, but only if (i) such individual was without fault in incurring such expenses and (ii) the Secretary's determination that such payment may not be made for such items and services was made after the third year following the year in which notice of such payment was sent to such individual; except that the Secretary may reduce such three-year period to not less than one year if he finds such reduction is consistent with the objectives of this subchapter,
 
 &emsp;(C) to make adequate provision for return (or other disposition, in accordance with regulations) of any moneys incorrectly collected from such individual or other person,
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(i) to adopt and enforce a policy to ensure compliance with the requirements of section 1395dd of this title and to meet the requirements of such section,
 
-&emsp;&emsp;(ii) to maintain medical and other records related to individuals transferred to or fromthe hospital for a period of five years from the date of the transfer, and
+&emsp;&emsp;(ii) to maintain medical and other records related to individuals transferred to or from the hospital for a period of five years from the date of the transfer, and
 
 &emsp;&emsp;(iii) to maintain a list of physicians who are on call for duty after the initial examination to provide treatment necessary to stabilize an individual with an emergency medical condition,
 
@@ -92,7 +92,7 @@
 
 (D) Where a provider of services customarily furnishes items or services which are in excess of or more expensive than the items or services with respect to which payment may be made under this subchapter, such provider, notwithstanding the preceding provisions of this paragraph, may not, under the authority of subparagraph (B)(ii) of this paragraph, charge any individual or other person any amount for such items or services in excess of the amount of the payment which may otherwise be made for such items or services under this subchapter if the admitting physician has a direct or indirect financial interest in such provider.
 
-(3)(A) Under the agreement required under paragraph (1)(F)(ii), the peer review organization must perform functions (other than those covered under an agreement under paragraph (1)(F)(i)) under the third sentence of section 1320c–3(a)(4)(A) of this title and under section 1320c–3(a)(14) of this title with respect to services, furnished by the hospital, critical accesshospital, facility, or agency involved, for which payment may be made under this subchapter.
+(3)(A) Under the agreement required under paragraph (1)(F)(ii), the peer review organization must perform functions (other than those covered under an agreement under paragraph (1)(F)(i)) under the third sentence of section 1320c–3(a)(4)(A) of this title and under section 1320c–3(a)(14) of this title with respect to services, furnished by the hospital, critical access hospital, facility, or agency involved, for which payment may be made under this subchapter.
 
 (B) For purposes of payment under this subchapter, the cost of such an agreement to the hospital, critical access hospital, facility, or agency shall be considered a cost incurred by such hospital, critical access hospital, facility, or agency in providing covered services under this subchapter and shall be paid directly by the Secretary to the peer review organization on behalf of such hospital, critical access hospital, facility, or agency in accordance with a schedule established by the Secretary.
 
@@ -370,7 +370,7 @@ Subsec. (c)(3). Pub. L. 100–203, §4212(e)(4), redesignated par. (3) as (2).
 
 Pub. L. 100–93, §8(d)(3), (4), substituted “the Secretary has terminated or has refused to renew an agreement under this subchapter with a provider of services” for “an agreement filed under this subchapter by a provider of services has been terminated by the Secretary” and inserted “or nonrenewal” after “termination”.
 
-Subsec. (g). Pub. L. 100–203, §4085(i)(28), as added by Pub. L. 100–360, §411(i)(4)(C)(vi), substituted “money penalty” for “monetary penalty” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “Such a penalty shall be imposed in the same manner as civil monetary penalties are imposed under section 1320a–7a of this title with respect to actions described in subsection (a) of that section.”
+Subsec. (g). Pub. L. 100–203, §4085(i)(28), as added by Pub. L. 100–360, §411(i)(4)(C)(vi), substituted “money penalty” for “monetary penalty” in first sentence and amended second sentence generally. Prior to amendment, second sentence read as follows: “Such a penaltyshall be imposed in the same manner as civil monetary penalties are imposed under section 1320a–7a of this title with respect to actions described in subsection (a) of that section.”
 
 Pub. L. 100–203, §4085(i)(17), substituted “inconsistent with an arrangement under subsection (a)(1)(H) of this section or in violation of the requirement for such an arrangement” for “for a hospital outpatient service for which payment may be made under part B of this subchapter and such bill or request violates an arrangement under subsection (a)(1)(H) of this section”.
 
@@ -528,7 +528,7 @@ Amendments by section 4714(b)(1) of Pub. L. 105–33 applicable to payment for (
 
 Section 106(b)(2) of Pub. L. 103–432 provided that: “The amendments made by paragraph (1) \[amending this section and section 1395f of this title\] shall take effect as if included in the enactment of OBRA–1987 \[Pub. L. 100–203\].”
 
-Amendment by section 147(e)(7) of Pub. L. 103–432 effective as if included in the enactment of Pub. L. 101–508, see section 147(g) of Pub. L. 103–432, set out as a note under section 1320a–3a of this title.
+Amendment by section 147(e)(7) of Pub. L. 103–432 effective as if included in the enactment of Pub. L.101–508, see section 147(g) of Pub. L. 103–432, set out as a note under section 1320a–3a of this title.
 
 Amendment by section 156(a)(2)(E) of Pub. L. 103–432 applicable to services provided on or after Oct. 31, 1994, see section 156(a)(3) of Pub. L. 103–432, set out as a note under section 1320c–3 of this title.
 
@@ -590,7 +590,7 @@ Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if inc
 
 Section 9305(b)(2) of Pub. L. 99–509 provided that: “The Secretary of Health and Human Services shall first prescribe the language required under section 1866(a)(1)(M) of the Social Security Act \[subsec. (a)(1)(M) of this section\] not later than six months after the date of the enactment of this Act \[Oct. 21, 1986\]. The requirement of such section shall apply to admissions to hospitals occurring on such date (not later than 60 days after the date such language is first prescribed) as the Secretary shall provide.”
 
-Amendment by section 9320(h)(2) of Pub. L. 99–509 applicable to services furnished on or after Jan. 1, 1989, with exceptions for hospitals located in rural areas which meet certain requirements related to certified registered nurse anesthetists, see section 9320(i), (k) of Pub. L. 99–509, as amended, set out as notes under section 1395k of this title.
+Amendment by section 9320(h)(2) of Pub. L. 99–509 applicable to services furnished on or after Jan. 1, 1989, with exceptions for hospitals located in rural areas which meet certain requirements related to certified registered nurse anesthetists, see section 9320(i), (k) ofPub. L. 99–509, as amended, set out as notes under section 1395k of this title.
 
 Section 9332(e)(2) of Pub. L. 99–509 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to agreements under section 1866(a) of the Social Security Act \[subsec. (a) of this section\] as of October 1, 1987.”
 
@@ -660,7 +660,7 @@ Amendment by Pub. L. 95–292 effective with respect to services, supplies, and 
 
 Section 2(f) of Pub. L. 95–210 provided that:
 
-“(1) The amendments made by this section \[amending this section and sections 1396a, 1396d, and 1396i of this title\] shall (except as otherwise provided in paragraph (2)) apply to medical assistance provided, under a State plan approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\], on and after the first day of the first calendar quarter that begins more than six months after the date of enactment of this Act \[Dec. 13, 1977\].
+“(1) The amendments made by this section \[amending this section and sections 1396a, 1396d, and 1396i of this title\] shall (except as otherwise provided in paragraph (2)) apply to medical assistance provided, under a Stateplan approved under title XIX of the Social Security Act \[subchapter XIX of this chapter\], on and after the first day of the first calendar quarter that begins more than six months after the date of enactment of this Act \[Dec. 13, 1977\].
 
 “(2) In the case of a State plan for medical assistance under title XIX of the Social Security Act \[subchapter XIX of this chapter\] which the Secretary determines requires State legislation in order for the plan to meet the additional requirements imposed by the amendments made by this section, the State plan shall not be regarded as failing to comply with the requirements of such title \[subchapter\] solely on the basis of its failure to meet these additional requirements before the first day of the first calendar quarter beginning after the close of the first regular session of the State legislature that begins after the date of enactment of this Act \[Dec. 13, 1977\].”
 
@@ -726,7 +726,7 @@ Section 119 of Pub. L. 97–248 provided that:
 
 #### Agreements Filed and Accepted Prior to Oct. 30, 1972, Deemed To Be for Specified Term Ending Dec. 31, 1973
 
-Section 249A(f) of Pub. L. 92–603 provided that: “Notwithstanding any other provision of law, any agreement, filed by a skilled nursing facility (as defined in section 1861(j) of the Social Security Act \[section 1395x(j) of this title\]) with the Secretary under section 1866 of such Act \[this section\] and accepted by himprior to the date of enactment of this Act \[Oct. 30, 1972\], which was in effect on such date shall be deemed to be for a specified term ending on December 31, 1973.”
+Section 249A(f) of Pub. L. 92–603 provided that: “Notwithstanding any other provision of law, any agreement, filed by a skilled nursing facility (as defined in section 1861(j) of the Social Security Act \[section 1395x(j) of this title\]) with the Secretary under section 1866 of such Act \[this section\] and accepted by him prior to the date of enactment of this Act \[Oct. 30, 1972\], which was in effect on such date shall be deemed to be for a specified term ending on December 31, 1973.”
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ Any company defined in section 80a–2(a)(48)(A) and (B) of this title may elect
 
 #### (b) Form and manner of notification; effect
 
-The Commission may, by rule, prescribe the form and manner in which notification of election under this section shall be given. A business development company shall be deemed to be subject to sections 80a–54 through 80a–64 of this title upon receipt by the Commission of such notification of election.
+The Commission may, by rule, prescribe the form and manner in which notification of election under this section shall be given. A business development company shall be deemed to besubject to sections 80a–54 through 80a–64 of this title upon receipt by the Commission of such notification of election.
 
 #### (c) Revocation or withdrawal of election
 

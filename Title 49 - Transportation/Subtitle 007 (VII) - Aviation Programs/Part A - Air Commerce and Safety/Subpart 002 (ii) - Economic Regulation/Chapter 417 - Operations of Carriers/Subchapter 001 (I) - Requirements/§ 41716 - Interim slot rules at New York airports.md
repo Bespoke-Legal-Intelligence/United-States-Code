@@ -26,7 +26,7 @@ Preservation of Certain Existing Slot-Related Air Service.—An air carrier that
 
 &emsp;(1) before October 1, 1999, the Secretary received a written air service termination notice for that route; or
 
-&emsp;(2) after September 30, 1999, the air carrier submits an air service termination noticeunder section 41719 for that route and the Secretary determines that the carrier suffered excessive losses, including substantial losses on operations on that route during any three quarters of the year immediately preceding the date of submission of the notice.
+&emsp;(2) after September 30, 1999, the air carrier submits an air service termination notice under section 41719 for that route and the Secretary determines that the carrier suffered excessive losses, including substantial losses on operations on that route during any three quarters of the year immediately preceding the date of submission of the notice.
 
 (Added Pub. L. 106–181, title II, §231(c), Apr. 5, 2000, 114 Stat. 109.)
 

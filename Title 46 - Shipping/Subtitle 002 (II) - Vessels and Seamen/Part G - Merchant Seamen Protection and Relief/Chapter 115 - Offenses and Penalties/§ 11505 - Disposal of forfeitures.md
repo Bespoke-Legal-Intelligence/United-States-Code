@@ -1,6 +1,6 @@
 ### §11505. Disposal of forfeitures
 
-(a) Money, property, and wages forfeited under this chapter for desertion may be applied tocompensate the owner or master of the vessel for expenses caused by the desertion. The balance shall be transferred to the appropriate district court of the United States when the voyage is completed.
+(a) Money, property, and wages forfeited under this chapter for desertion may be applied to compensate the owner or master of the vessel for expenses caused by the desertion. The balance shall be transferred to the appropriate district court of the United States when the voyage is completed.
 
 (b) If it appears to the district court that the forfeiture was imposed properly, the property transferred may be sold in the same manner prescribed for the disposition of the property of deceased seamen. The court shall deposit in the Treasury as miscellaneous receipts the proceeds of the sale and any money and wages transferred to the court.
 

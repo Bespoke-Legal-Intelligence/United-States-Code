@@ -1,0 +1,96 @@
+### §2368. Annual reports on the proliferation of missiles and essential components of nuclear, biological, chemical, and radiological weapons
+
+#### (a) Report
+
+Not later than March 1, 2003, and annually thereafter, the President shall transmit to the designated congressional committees an annual report on the transfer by any country of weapons, technology, components, or materials that can be used to deliver, manufacture (including research and experimentation), or weaponize nuclear, biological, chemical or radiological weapons (in this section referred to as “NBC weapons”) to any country other than a country referred to in subsection (d) of this section that is seeking to possess or otherwise acquire such weapons, technology, or materials, or other system that the Secretary or the Secretary of Defense has reason to believe could be used to develop, acquire, or deliver NBC weapons.
+
+#### (b) Matters to be included
+
+Each such report shall include—
+
+&emsp;(1) the transfer of all aircraft, cruise missiles, artillery weapons, unguided rockets and multiple rocket systems, and related bombs, shells, warheads and other weaponization technology and materials that the Secretary or the Secretary of Defense has reason to believe may be intended for the delivery of NBC weapons;
+
+&emsp;(2) international transfers of MTCR equipment or technology to any country that is seeking to acquire such equipment or any other system that the Secretary or the Secretary of Defense has reason to believe may be used to deliver NBC weapons; and
+
+&emsp;(3) the transfer of technology, test equipment, radioactive materials, feedstocks and cultures, and all other specialized materials that the Secretary or the Secretary of Defense has reason to believe could be used to manufacture NBC weapons.
+
+#### (c) Content of report
+
+Each such report shall include the following with respect to preceding <sup>1</sup> calendar year:
+
+&emsp;(1) The status of missile, aircraft, and other NBC weapons delivery and weaponization programs in any such country, including efforts by such country or by any subnational group to acquire MTCR-controlled equipment, NBC-capable aircraft, or any other weapon or major weapon component which may be utilized in the delivery of NBC weapons, whose primary use is the delivery of NBC weapons, or that the Secretary or the Secretary of Defense has reason to believe could be used to deliver NBC weapons.
+
+&emsp;(2) The status of NBC weapons development, acquisition, manufacture, stockpiling, and deployment programs in any such country, including efforts by such country or by any subnational group to acquire essential test equipment, manufacturing equipment and technology, weaponization equipment and technology, and radioactive material, feedstocks or components of feedstocks, and biological cultures and toxins.
+
+&emsp;(3) A description of assistance provided by any person or government, after September 30, 2002, to any such country or subnational group in the acquisition or development of—
+
+&emsp;&emsp;(A) NBC weapons;
+
+&emsp;&emsp;(B) missile systems, as defined in the MTCR or that the Secretary or the Secretary of Defense has reason to believe may be used to deliver NBC weapons; and
+
+&emsp;&emsp;(C) aircraft and other delivery systems and weapons that the Secretary or the Secretary of Defense has reason to believe could be used to deliver NBC weapons.
+
+&emsp;(4) A listing of those persons and countries that continue to provide such equipment or technology described in paragraph (3) to any country or subnational group as of the date of submission of the report, including the extent to which foreign persons and countries were found to have knowingly and materially assisted such programs.
+
+&emsp;(5) A description of the use of, or substantial preparations to use, the equipment of technology described in paragraph (3) by any foreign country or subnational group.
+
+&emsp;(6) A description of the diplomatic measures that the United States, and that other adherents to the MTCR and other arrangements affecting the acquisition and delivery of NBC weapons, have made with respect to activities and private persons and governments suspected of violating the MTCR and such other arrangements.
+
+&emsp;(7) An analysis of the effectiveness of the regulatory and enforcement regimes of the United States and other countries that adhere to the MTCR and other arrangements affecting the acquisition and delivery of NBC weapons in controlling the export of MTCR and other NBC weapons and delivery system equipment or technology.
+
+&emsp;(8) A summary of advisory opinions issued under section 2410b(b)(4) of the Appendix to this title and under section 2797b(d) of title 22.
+
+&emsp;(9) An explanation of United States policy regarding the transfer of MTCR equipment or technology to foreign missile programs, including programs involving launches of space vehicles.
+
+&emsp;(10) A description of each transfer by any person or government during the preceding 12-month period which is subject to sanctions under the Iran-Iraq Arms Non-Proliferation Act of 1992 (title XVI of Public Law 102–484).
+
+#### (d) Exclusions
+
+The countries excluded under subsection (a) of this section are Australia, Belgium, Canada, theCzech Republic, Denmark, France, Germany, Greece, Hungary, Iceland, Italy, Japan, Luxembourg, the Netherlands, New Zealand, Norway, Poland, Portugal, Spain, Turkey, the United Kingdom, and the United States.
+
+#### (e) Classification of report
+
+The Secretary shall make every effort to submit all of the information required by this section in unclassified form. Whenever the Secretary submits any such information in classified form, the Secretary shall submit such classified information in an addendum and shall also submit concurrently a detailed summary, in unclassified form, of that classified information.
+
+#### (f) Definitions
+
+In this section:
+
+#### (1) Designated congressional committees
+
+&emsp;The term “designated congressional committees” means—
+
+&emsp;&emsp;(A) the Committee on Appropriations, the Committee on Armed Services, and the Committee on International Relations of the House of Representatives; and
+
+&emsp;&emsp;(B) the Committee on Appropriations, the Committee on Armed Services, and the Committee on Foreign Relations of the Senate.
+
+#### (2) Missile; MTCR; MTCR equipment or technology
+
+&emsp;The terms “missile”, “MTCR”, and “MTCR equipment or technology” have the meanings given those terms in section 2797c of title 22.
+
+#### (3) Person
+
+&emsp;The term “person” means any United States or foreign individual, partnership, corporation, or other form of association, or any of its successor entities, parents, or subsidiaries.
+
+#### (4) Weaponize; weaponization
+
+&emsp;The term “weaponize” or “weaponization” means to incorporate into, or the incorporation into, usable ordnance or other militarily useful means of delivery.
+
+(Pub. L. 107–228, div. B, title XIII, §1308, Sept. 30, 2002, 116 Stat. 1439.)
+
+#### References in Text
+
+The Iran-Iraq Arms Non-Proliferation Act of 1992, referred to in subsec. (c)(10), is title XVI of div. A of Pub. L. 102–484, Oct. 23, 1992, 106 Stat. 2571, as amended, which is set out as a note under section 1701 of this title.
+
+#### Codification
+
+Section is comprised of section 1308 of Pub. L. 107–228. Subsec. (g) of section 1308 of Pub. L. 107–228 repealed section 5606 of Title 22, Foreign Relations and Intercourse, amended provisions set out as notes under section 1701 of this title and section 2656 of Title 22, and repealed provisions set out as a note under section 2751 of Title 22.
+
+Section was enacted as part of the Security Assistance Act of 2002, and also as part of the Foreign Relations Authorization Act, Fiscal Year 2003, and not as part of the Defense Against Weapons of Mass Destruction Act of 1996 which comprises this chapter.
+
+#### Definitions
+
+For definition of “Secretary” as used in this section, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of Title 22, Foreign Relations and Intercourse.
+
+<i><sup>1</sup></i><i> So in original. Probably should be preceded by “the”.</i>
+

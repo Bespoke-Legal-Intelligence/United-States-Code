@@ -4,7 +4,7 @@
 
 #### (1) Issue
 
-&emsp;The Corporation shall issue voting common stock having such par value as may be fixed by the Board from time to time. Each share of voting common stock shall be entitled to one vote with rights of cumulative voting at all elections of directors. Voting shall be by classes as described in section 2279aa–2(a)(9) of this title. The stock shall be divided into two classes with the same par value per share. Class A stock may be held only by entities that are not Farm Credit System institutions and that are entitled to vote for directors specified in section 2279aa–2(b)(2)(A) of this title, including national banking associations (which shall be allowed to purchase and hold such stock). Class B stock may be held only by Farm Credit System institutions that are entitled to vote for directors specified in section 2279aa–2(b)(2)(B) of this title.
+&emsp;The Corporation shall issue voting common stock having such par value as may be fixed by the Board from time to time. Each share of voting common stock shall be entitled to one vote with rights of cumulative voting at all elections of directors. Voting shall be by classes as described in section 2279aa–2(a)(9) of this title. The stock shall be divided into two classes with the same par value per share. Class A stock may be held only by entities that are not Farm Credit System institutionsand that are entitled to vote for directors specified in section 2279aa–2(b)(2)(A) of this title, including national banking associations (which shall be allowed to purchase and hold such stock). Class B stock may be held only by Farm Credit System institutions that are entitled to vote for directors specified in section 2279aa–2(b)(2)(B) of this title.
 
 #### (2) Limitation on issue
 
@@ -54,7 +54,7 @@ The Corporation is authorized to issue nonvoting common stock having such par va
 
 #### (1) Authority of Board
 
-&emsp;The Corporation is authorized to issue nonvoting preferred stock having such par valueas may be fixed by the Board from time to time. Such preferred stock issued shall be freely transferable, except that, as to the Corporation, such stock shall be transferred only on the books of the Corporation.
+&emsp;The Corporation is authorized to issue nonvoting preferred stock having such par value as may be fixed by the Board from time to time. Such preferred stock issued shall be freely transferable, except that, as to the Corporation, such stock shall be transferred only on the books of the Corporation.
 
 #### (2) Rights of preferred stock
 
@@ -74,7 +74,7 @@ Subsec. (e)(1). Pub. L. 100–399, §601(e), substituted “books of the Corpora
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
 #### Section Referred to in Other Sections
 

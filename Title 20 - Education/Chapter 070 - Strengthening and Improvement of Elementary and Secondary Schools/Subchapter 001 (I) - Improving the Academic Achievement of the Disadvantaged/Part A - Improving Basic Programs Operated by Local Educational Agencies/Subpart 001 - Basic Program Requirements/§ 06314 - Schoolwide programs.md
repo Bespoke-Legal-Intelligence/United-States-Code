@@ -138,5 +138,5 @@ A prior section 6314, Pub. L. 89–10, title I, §1114, as added Pub. L. 103–3
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1413, 6053a, 6054, 6311, 6312, 6313, 6315, 6318, 6319, 6394, 7173, 7174, 7425 of this title; title 42 section 3030g–12.
+This section is referred to in sections 1413, 6311, 6312, 6313, 6315, 6318, 6319, 6394, 7173, 7174, 7425 of this title.
 

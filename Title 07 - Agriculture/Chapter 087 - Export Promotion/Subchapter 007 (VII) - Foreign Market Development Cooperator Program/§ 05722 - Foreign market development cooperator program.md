@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall establish and, in cooperation with eligible trade organizations, carry out a foreign market development cooperator program to maintain and develop foreign markets for United States agricultural commodities and products.
+The Secretary shall establish and, in cooperation with eligible trade organizations, carry out a foreign market development cooperator program to maintain and develop foreign markets for United States agricultural commodities and products, with a continued significant emphasis on the importance of the export of value-added United States agricultural products into emerging markets.
 
 #### (b) Administration
 
@@ -12,5 +12,15 @@ Funds made available to carry out this subchapter shall be used only to provide�
 
 &emsp;(2) assistance for other costs that are necessary or appropriate to carry out the foreign market development cooperator program, including contingent liabilities that are not otherwise funded.
 
-(Pub. L. 95–501, title VII, §702, as added Pub. L. 104–127, title II, §252, Apr. 4, 1996, 110 Stat. 971.)
+#### (c) Report to Congress
+
+The Secretary shall annually submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on activities under this section describing the amount of funding provided, the types of programs funded, the value-added products that have been targeted, and the foreign markets for those products that have been developed.
+
+(Pub. L. 95–501, title VII, §702, as added Pub. L. 104–127, title II, §252, Apr. 4, 1996, 110 Stat. 971; amended Pub. L. 107–171, title III, §3105(a), May 13, 2002, 116 Stat. 290.)
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171, §3105(a)(1), inserted “, with a continued significant emphasis on the importance of the export of value-added United States agricultural products into emerging markets” after “products”.
+
+Subsec. (c). Pub. L. 107–171, §3105(a)(2), added subsec. (c).
 

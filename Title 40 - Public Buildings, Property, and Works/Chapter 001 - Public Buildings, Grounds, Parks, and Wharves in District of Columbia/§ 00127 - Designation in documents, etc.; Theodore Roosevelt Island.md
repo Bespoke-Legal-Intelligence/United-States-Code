@@ -1,6 +1,0 @@
-### §127. Designation in documents, etc.; Theodore Roosevelt Island
-
-In all public documents, records, and maps of the United States in which Roosevelt Island is designated or referred to it shall be designated as “Theodore Roosevelt Island.”
-
-(Feb. 11, 1933, ch. 48, §2, 47 Stat. 799.)
-

@@ -14,7 +14,7 @@
 
 #### (b) Independence of Advisory Committee
 
-In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other offices and officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the Congress in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
+In the exercise of its functions, powers, and duties, the Advisory Committee shall be independent of the Secretary and the other officesand officers of the Department. Notwithstanding Department of Education policies and regulations, the Advisory Committee shall exert independent control of its budget allocations, expenditures and staffing levels, personnel decisions and processes, procurements, and other administrative and management functions. The Advisory Committee's administration and management shall be subject to the usual and customary Federal audit procedures. Reports, publications, and other documents of the Advisory Committee, including such reports, publications, and documents in electronic form, shall not be subject to review by the Secretary. The recommendations of the Committee shall not be subject to review or approval by any officer in the executive branch, but may be submitted to the Secretary for comment prior to submission to the Congress in accordance with subsection (f) of this section. The Secretary's authority to terminate advisory committees of the Department pursuant to section 1233g(b) <sup>1</sup> of this title ceased to be effective on June 23, 1983.
 
 #### (c) Membership
 
@@ -40,7 +40,7 @@ The Advisory Committee shall—
 
 &emsp;(4) assess the impact of legislative and administrative policy proposals;
 
-&emsp;(5) review and comment upon, prior to promulgation, all regulations affecting programsunder this subchapter and part C of subchapter I of chapter 34 of title 42, including proposed regulations;
+&emsp;(5) review and comment upon, prior to promulgation, all regulations affecting programs under this subchapter and part C of subchapter I of chapter 34 of title 42, including proposed regulations;
 
 &emsp;(6) recommend to the Congress and to the Secretary such studies, surveys, and analyses of student financial assistance programs, policies, and practices, including the special needs of low-income, disadvantaged, and nontraditional students, and the means by which the needs may be met, but nothing in this section shall authorize the committee to perform such studies, surveys, or analyses;
 
@@ -132,7 +132,7 @@ The Federal Advisory Committee Act, referred to in subsec. (k), is Pub. L. 92–
 
 #### Prior Provisions
 
-A prior section 1098, Pub. L. 89–329, title IV, §491, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1454; amended Pub. L. 98–79, §11, Aug. 15, 1983, 97 Stat. 484, related to a National Commission on Student Financial Assistance, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1098, Pub. L. 89–329, title IV, §491, as added Pub. L. 96–374, title IV, §451(a), Oct. 3, 1980, 94 Stat. 1454; amended Pub. L. 98–79, §11, Aug. 15, 1983, 97Stat. 484, related to a National Commission on Student Financial Assistance, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

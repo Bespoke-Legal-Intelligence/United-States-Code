@@ -1,6 +1,6 @@
 ### §2106. Veterans’ mortgage life insurance
 
-(a) The United States shall automatically insure any eligible veteran who is or has been granted assistance in securing a suitable housing unit under this chapter against the death of the veteran unless the veteran (1) submits to the Secretary in writing the veterans’ election not to be insured under this section, or (2) fails to respond in a timely manner to a request from the Secretary for information on which the premium for such insurance can be based.
+(a) The United States shall automatically insure any eligible veteran age 69 or younger who is or has been granted assistance in securing a suitable housing unit under this chapter against the death of the veteran unless the veteran (1) submits to the Secretary in writing the veterans’ election not to be insured under this section, or (2) fails to respond in a timely manner to a request from the Secretary for information on which the premium for such insurance can be based.
 
 (b) The amount of insurance provided a veteran under this section may not exceed the lesser of $90,000 or the amount of the loan outstanding on the housing unit. The amount of such insurance shall be reduced according to the amortization schedule of the loan and may not at any time exceed the amount of the outstanding loan with interest. If there is no outstanding loan on the housing unit, insurance is not payable under this section. If an eligible veteran elects not to be insured under this section, the veteran may thereafter be insured under this section, but only upon submission of an application, payment of required premiums, and compliance with such health requirements and other terms and conditions as may be prescribed by the Secretary.
 
@@ -22,17 +22,19 @@
 
 &emsp;(1) Satisfaction of the veteran's indebtedness under the loan upon which the insurance is based.
 
-&emsp;(2) The veteran's seventieth birthday.
+&emsp;(2) Termination of the veteran's ownership of the property securing the loan.
 
-&emsp;(3) Termination of the veteran's ownership of the property securing the loan.
-
-&emsp;(4) Discontinuance of payment of premiums by the veteran.
+&emsp;(3) Discontinuance of payment of premiums by the veteran.
 
 (j) Termination of life insurance under this section shall not affect the guaranty or insurance of the loan by the Secretary.
 
-(Added Pub. L. 92–95, §1, Aug. 11, 1971, 85 Stat. 320, §806; amended Pub. L. 94–433, title III, §302, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 99–576, title VII, §701(49), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–322, title III, §333(a)(1), May 20, 1988, 102 Stat. 537; renumbered §2106 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §204(a), Oct. 29, 1992, 106 Stat. 4325; Pub. L. 103–446, title XII, §1201(h)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 105–368, title VI, §602(e)(2), Nov. 11, 1998, 112 Stat. 3347.)
+(Added Pub. L. 92–95, §1, Aug. 11, 1971, 85 Stat. 320, §806; amended Pub. L. 94–433, title III, §302, Sept. 30, 1976, 90 Stat. 1377; Pub. L. 99–576, title VII, §701(49), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 100–322, title III, §333(a)(1), May 20, 1988, 102 Stat. 537; renumbered §2106 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–568, title II, §204(a), Oct. 29, 1992, 106 Stat. 4325; Pub. L. 103–446, title XII, §1201(h)(2), Nov. 2, 1994, 108 Stat. 4688; Pub. L. 105–368, title VI, §602(e)(2), Nov. 11, 1998, 112 Stat. 3347; Pub. L. 107–330, title III, §302, Dec. 6, 2002, 116 Stat. 2824.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–330, §302(1), inserted “age 69 or younger” after “any eligible veteran”.
+
+Subsec. (i)(2) to (4). Pub. L. 107–330, §302(2), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out former par. (2) which read as follows: “The veteran's seventieth birthday.”
 
 1998—Subsec. (e). Pub. L. 105–368 substituted “deposited in the Veterans Housing Benefit Program Fund established by section 3722 of this title” for “, as appropriate, deposited in either the direct loan or loan guaranty revolving fund established by section 3723 or 3724 of this title, respectively”.
 
@@ -96,7 +98,7 @@ Savings Provision.—Mortgage protection life insurance granted to any veteran u
 
 Discontinuance of Contract Program.—(1) Effective as of the effective date specified in subsection (b), the Administrator shall discontinue the policy of insurance purchased in accordance with the former section 806.
 
-“(2) All premiums collected or received by the insurer on or after such effective date under a policy purchased under the former section 806 shall be promptly forwarded to the Administrator and shall be credited to the ‘Veterans Insurance and Indemnities’ appropriation account. Any positive balance of the contingency reserve maintained by the insurer under such policy remaining after all charges have been made shall be payable to the Administrator and shall be deposited by the Administrator in such account, except that such balance may, upon the election of the insurer, be paid by the insurer in equal monthly installments over a period of not more than two years beginning on the date, after such effective date, that the Administrator specifies.
+“(2) All premiums collected or received by the insurer on or after such effective date under a policy purchased under the former section 806 shall be promptly forwarded to the Administrator and shall be credited to the ‘Veterans Insurance and Indemnities’ appropriation account. Any positive balance of the contingency reserve maintained by the insurer under such policy remaining after all charges have been made shall be payable to the Administrator and shall be deposited by the Administrator in such account, except that such balance may, upon the election of the insurer, be paid bythe insurer in equal monthly installments over a period of not more than two years beginning on the date, after such effective date, that the Administrator specifies.
 
 “(e)
 

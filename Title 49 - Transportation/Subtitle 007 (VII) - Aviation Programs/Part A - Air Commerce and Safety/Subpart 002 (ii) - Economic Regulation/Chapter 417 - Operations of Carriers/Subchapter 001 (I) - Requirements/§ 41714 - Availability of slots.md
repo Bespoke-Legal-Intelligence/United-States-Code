@@ -232,7 +232,7 @@ Subsecs. (j), (k). Pub. L. 106–181, §231(a)(2), (3), added subsecs. (j) and (
 
 1998—Subsecs. (a)(1), (b)(1), (c)(1), (d). Pub. L. 105–154 substituted “Ronald Reagan Washington National Airport” for “Washington National Airport” wherever appearing in text and in subsec. (d) heading.
 
-1997—Subsec. (d)(1). Pub. L. 105–102 substituted “sections 49104(a)(5) and 49111(e) of this title” for “sections6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1986”.
+1997—Subsec. (d)(1). Pub. L. 105–102 substituted “sections 49104(a)(5) and 49111(e) of this title” for “sections 6005(c)(5) and 6009(e) of the Metropolitan Washington Airports Act of 1986”.
 
 Subsec. (i). Pub. L. 105–66 added subsec. (i).
 

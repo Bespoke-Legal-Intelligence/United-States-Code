@@ -38,7 +38,7 @@ In addition to any other terms and conditions under subsection (a) of this secti
 
 &emsp;&emsp;&emsp;(ii) $100,000 aggregate liability per unit for any contents related to such unit; and
 
-&emsp;(2) in the case of any residential property for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in clause\(i) of subparagraph (A) of paragraph (1) shall be made available to every insured upon renewal and every applicant for insurance so as to enable such insured or applicant to receive coverage up to a total amount (including such limits specified in paragraph (1)(A)(i)) of $250,000;
+&emsp;(2) in the case of any residential property for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in clause (i) of subparagraph (A) of paragraph (1) shall be made available to every insured upon renewal and every applicant for insurance so as to enable such insured or applicant to receive coverage up to a total amount (including such limits specified in paragraph (1)(A)(i)) of $250,000;
 
 &emsp;(3) in the case of any residential property for which the risk premium rate is determined in accordance with the provisions of section 4014(a)(1) of this title, additional flood insurance in excess of the limits specified in clause (ii) of subparagraph (A) of paragraph (1) shall be made available to every insured upon renewal and every applicant for insurance so as to enable any such insured or applicant to receive coverage up to a total amount (including such limits specified in paragraph (1)(A)(ii)) of $100,000;
 
@@ -60,7 +60,7 @@ In addition to any other terms and conditions under subsection (a) of this secti
 
 &emsp;&emsp;(B) the initial purchase of flood insurance coverage pursuant to a revision or updating of floodplain areas or flood-risk zones under section 4101(f) of this title, if such purchase occurs during the 1-year period beginning upon publication of notice of the revision or updating under section 4101(h) of this title.
 
-(Pub. L. 90–448, title XIII, §1306, Aug. 1, 1968, 82 Stat. 575; Pub. L. 92–213, §2(c)(2), Dec. 22, 1971, 85 Stat. 775; Pub. L. 93–234, title I, §101, Dec. 31, 1973, 87 Stat. 977; Pub. L. 95–128, title VII, §704(a), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §544(a), Feb. 5, 1988, 101 Stat. 1940; Pub. L. 100–628, title X, §1086(a), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 100–707, title I, §109(<i>o</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–137, §1(c), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(d), Nov. 5, 1990, 104 Stat. 1388–23; Pub. L. 103–325, title V, §§552(a), 573, 579(a), Sept. 23, 1994, 108 Stat. 2269, 2278, 2284.)
+(Pub. L. 90–448, title XIII, §1306, Aug. 1, 1968, 82 Stat. 575; Pub. L. 92–213, §2(c)(2), Dec. 22, 1971, 85Stat. 775; Pub. L. 93–234, title I, §101, Dec. 31, 1973, 87 Stat. 977; Pub. L. 95–128, title VII, §704(a), Oct. 12, 1977, 91 Stat. 1145; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 100–242, title V, §544(a), Feb. 5, 1988, 101 Stat. 1940; Pub. L. 100–628, title X, §1086(a), Nov. 7, 1988, 102 Stat. 3278; Pub. L. 100–707, title I, §109(<i>o</i>), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–137, §1(c), Nov. 3, 1989, 103 Stat. 824; Pub. L. 101–508, title II, §2302(d), Nov. 5, 1990, 104 Stat. 1388–23; Pub. L. 103–325, title V, §§552(a), 573, 579(a), Sept. 23, 1994, 108 Stat. 2269, 2278, 2284.)
 
 #### Amendments
 
@@ -113,6 +113,10 @@ Section 544(b) of Pub. L. 100–242 provided that: “The amendment made by this
 #### Savings Provision
 
 Section 552(c) of Pub. L. 103–325 provided that: “Notwithstanding subsection (a) \[amending this section\], the Director shall take any action necessary to make payments under flood insurance contracts pursuant to any commitments made before the expiration of the period referred to in subsection (b) \[set out below\] pursuant to the authority under section 1306(c) of the National Flood Insurance Act of 1968 \[subsec. (c) of this section\] or subsection (b).”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Transition Phase
 

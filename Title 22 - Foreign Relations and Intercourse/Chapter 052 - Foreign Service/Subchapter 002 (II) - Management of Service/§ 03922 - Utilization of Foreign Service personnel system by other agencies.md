@@ -12,7 +12,7 @@
 
 &emsp;(A) with respect to the personnel performing functions transferred to the Department of Commerce from the Department of State by Reorganization Plan Numbered 3 of 1979, and
 
-&emsp;(B) with respect to other personnel of the Department of Commerce to the extent thePresident determines to be necessary in order to enable the Department of Commerce to carry out functions which require service abroad.
+&emsp;(B) with respect to other personnel of the Department of Commerce to the extent the President determines to be necessary in order to enable the Department of Commerce to carry out functions which require service abroad.
 
 (4)(A) Whenever (and to the extent) the Secretary of State considers it in the best interests of the United States Government, the Secretary of State may authorize the head of any agency or other Government establishment (including any establishment in the legislative or judicial branch) to appoint under section 3943 of this title individuals described in subparagraph (B) as members of the Service and to utilize the Foreign Service personnel system with respect to such individuals under such regulations as the Secretary of State may prescribe.
 
@@ -58,7 +58,7 @@ The Board of the Foreign Service and the Board of Examiners for the Foreign Serv
 
 Ex. Ord. No. 10522, Mar. 26, 1954, 19 F.R. 1689, provided:
 
-Section 1. The Director of the United States Information Agency is hereby authorized to carry out the functions of the Board of the Foreign Service, provided for by the Foreign Service Act of 1946 (60 Stat. 999) \[this chapter\], with respect to personnel appointed or assigned for service in the United States Information Agency under the provisions of such Act, as amended \[this chapter\]: <i>Provided</i>, That nothing herein contained shall be construed as transferring to the said Director any function of the said Board relating to any Foreign Service Officer.
+Section 1. The Director of the United States Information Agency is hereby authorized to carry out the functions of the Board of the Foreign Service, provided for by the Foreign Service Act of 1946 (60 Stat. 999) \[this chapter\], with respect to personnel appointed or assigned for service in the United States Information Agency under the provisions of such Act, as amended\[this chapter\]: <i>Provided</i>, That nothing herein contained shall be construed as transferring to the said Director any function of the said Board relating to any Foreign Service Officer.
 
 Sec. 2. The Director of the United States Information Agency is hereby authorized to prescribe such regulations and issue such orders and instructions, not inconsistent with law, as may be necessary or desirable for carrying out his functions under section 1 of this order.
 

@@ -6,7 +6,7 @@ The Secretary shall expedite the award of grants, contracts, and cooperative agr
 
 #### (b) Time limitations with respect to certain applications
 
-(1) With respect to programs of grants, contracts, and cooperative agreements described insubsection (a) of this section, any application submitted in response to a solicitation by the Secretary for proposals pursuant to such a program—
+(1) With respect to programs of grants, contracts, and cooperative agreements described in subsection (a) of this section, any application submitted in response to a solicitation by the Secretary for proposals pursuant to such a program—
 
 &emsp;(A) may not be approved if the application is submitted after the expiration of the 3-month period beginning on the date on which the solicitation is issued; and
 
@@ -26,7 +26,7 @@ With respect to any program for which a determination described in subsection (b
 
 Except as provided in subsection (e) of this section, the Secretary shall annually prepare, for inclusion in the comprehensive report required in section 300cc of this title, a report—
 
-&emsp;(A) summarizing programs for which the Secretary has made a determination described in subsection (b)(2) of this section, including a description of the time limitations as adjusted by the determination and including a summary of the solicitation issued by the Secretary for proposals pursuant to the program; and
+&emsp;(A) summarizing programs for which the Secretary has made a determination described in subsection (b)(2) of this section, including adescription of the time limitations as adjusted by the determination and including a summary of the solicitation issued by the Secretary for proposals pursuant to the program; and
 
 &emsp;(B) summarizing applications that—
 

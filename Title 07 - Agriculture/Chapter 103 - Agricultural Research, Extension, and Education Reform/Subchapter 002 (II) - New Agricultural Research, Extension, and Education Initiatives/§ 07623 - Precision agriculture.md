@@ -32,13 +32,15 @@ In this section:
 
 &emsp;The term “precision agriculture” means an integrated information- and production-based farming system that is designed to increase long-term, site-specific, and whole farm production efficiencies, productivity, and profitability while minimizing unintended impacts on wildlife and the environment by—
 
-&emsp;&emsp;(A) combining agricultural sciences, agricultural inputs and practices, agronomic production databases, and precision agriculture technologies to efficiently manage agronomic and livestock production systems;
+&emsp;&emsp;(A) combining agricultural sciences, agricultural inputs and practices, agronomic production databases, and precision agriculture technologies to efficiently manageagronomic, horticultural, and livestock production systems;
 
 &emsp;&emsp;(B) gathering on-farm information pertaining to the variation and interaction of site-specific spatial and temporal factors affecting crop and livestock production;
 
-&emsp;&emsp;(C) integrating such information with appropriate data derived from field scouting, remote sensing, and other precision agriculture technologies in a timely manner in order to facilitate on-farm decisionmaking; or
+&emsp;&emsp;(C) integrating such information with appropriate data derived from field scouting, remote sensing, and other precision agriculture technologies in a timely manner in order to facilitate on-farm decisionmaking;
 
-&emsp;&emsp;(D) using such information to prescribe and deliver site-specific application of agricultural inputs and management practices in agricultural production systems.
+&emsp;&emsp;(D) using such information to prescribe and deliver site-specific application of agricultural inputs and management practices in agricultural production systems; or
+
+&emsp;&emsp;(E) using such information to enable intelligent mechanized harvesting and sorting systems for horticultural crops.
 
 #### (4) Precision agriculture technologies
 
@@ -48,9 +50,11 @@ In this section:
 
 &emsp;&emsp;(B) technologies for searching out and assembling information necessary for sound agricultural production decisionmaking;
 
-&emsp;&emsp;(C) open systems technologies for data networking and processing that produce valued systems for farm management decisionmaking; or
+&emsp;&emsp;(C) open systems technologies for data networking and processing that produce valued systems for farm management decisionmaking;
 
-&emsp;&emsp;(D) machines that deliver information-based management practices.
+&emsp;&emsp;(D) machines that deliver information-based management practices; or
+
+&emsp;&emsp;(E) robotic and other intelligent machines for use in horticultural cropping systems.
 
 #### (5) Systems research
 
@@ -66,7 +70,7 @@ In this section:
 
 &emsp;&emsp;(E) production-scale implementation; and
 
-&emsp;&emsp;(F) farm production efficiencies, productivity, and profitability.
+&emsp;&emsp;(F) farm production efficiencies (including improved use of energy inputs), productivity, and profitability.
 
 #### (b) Grants authorized
 
@@ -88,7 +92,7 @@ A research, education, or information dissemination project supported by a grant
 
 &emsp;(1) The study and promotion of components of precision agriculture technologies using a systems research approach designed to increase long-term site-specific and whole-farm production efficiencies, productivity, and profitability.
 
-&emsp;(2) The improvement in the understanding of agronomic systems, including, soil, water, land cover (including grazing land), pest management systems, and meteorological variability.
+&emsp;(2) The improvement in the understanding of agronomic or horticultural systems, including, soil, water, land cover (including grazing land), pest management systems, product variability, and meteorological variability.
 
 &emsp;(3) The provision of training and educational programs for State cooperative extension services agents, and other professionals involved in the production and transfer of integrated precision agriculture technology.
 
@@ -116,9 +120,11 @@ In making grants to eligible entities under this section, the Secretary, in cons
 
 &emsp;(3) Demonstrate the efficient use of agricultural inputs, rather than the uniform reduction in the use of agricultural inputs.
 
-&emsp;(4) Maximize the involvement and cooperation of precision agriculture producers, certified crop advisers, State cooperative extension services agents, agricultural input machinery, product and service providers, nonprofit organizations, agribusinesses, veterinarians, land-grant colleges and universities, and Federal agencies in precision agriculture systems research projects involving on-farm research, education, and dissemination of precision agriculture information.
+&emsp;(4) Improve farm energy use efficiencies.
 
-&emsp;(5) Maximize collaboration with multiple agencies and other partners, including through leveraging of funds and resources.
+&emsp;(5) Maximize the involvement and cooperation of precision agriculture producers, certified crop advisers, State cooperative extension services agents, agricultural input machinery, product and service providers, nonprofit organizations, agribusinesses, veterinarians, land-grant colleges and universities, and Federal agencies in precision agriculture systems research projects involving on-farm research, education, and dissemination of precision agriculture information.
+
+&emsp;(6) Maximize collaboration with multiple agencies and other partners, including through leveraging of funds and resources.
 
 #### (e) Matching funds
 
@@ -144,7 +150,7 @@ A grant made under this section may not be used for the planning, repair, rehabi
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002, of which, for each fiscal year—
+&emsp;There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007, of which, for each fiscal year—
 
 &emsp;&emsp;(A) not less than 30 percent shall be available to make grants for research to be conducted by multidisciplinary teams; and
 
@@ -154,5 +160,21 @@ A grant made under this section may not be used for the planning, repair, rehabi
 
 &emsp;Funds made available under paragraph (1) shall be available for obligation for a 2-year period beginning on October 1 of the fiscal year for which the funds are made available.
 
-(Pub. L. 105–185, title IV, §403, June 23, 1998, 112 Stat. 567.)
+(Pub. L. 105–185, title IV, §403, June 23, 1998, 112 Stat. 567; Pub. L. 107–171, title VII, §§7129, 7207(a), May 13, 2002, 116 Stat. 435, 440.)
+
+#### Amendments
+
+2002—Subsec. (a)(3)(A). Pub. L. 107–171, §7207(a)(1)(A)(i), inserted “, horticultural,” after “efficiently manage agronomic”.
+
+Subsec. (a)(3)(E). Pub. L. 107–171, §7207(a)(1)(A)(ii)–(iv), added subpar. (E).
+
+Subsec. (a)(4)(E). Pub. L. 107–171, §7207(a)(1)(B), added subpar. (E).
+
+Subsec. (a)(5)(F). Pub. L. 107–171, §7207(a)(1)(C), inserted “(including improved use of energy inputs)” after “farm production efficiencies”.
+
+Subsec. (c)(2). Pub. L. 107–171, §7207(a)(2), inserted “or horticultural” after “agronomic” and “product variability,” before “and meteorological variability”.
+
+Subsec. (d)(4) to (6). Pub. L. 107–171, §7207(a)(3), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
+
+Subsec. (i)(1). Pub. L. 107–171, §7129, substituted “2007” for “2002” in introductory provisions.
 

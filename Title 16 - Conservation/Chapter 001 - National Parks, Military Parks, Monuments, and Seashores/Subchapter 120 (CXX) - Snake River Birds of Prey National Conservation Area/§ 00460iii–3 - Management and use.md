@@ -48,7 +48,7 @@ In addition to the Visitors <sup>1</sup> Center <sup>1</sup>, the Secretary ma
 
 (4) Nothing in this subchapter shall preclude minor adjustment of the boundaries of the Orchard Training Area in accordance with provisions of the Memorandum of Understanding.
 
-(5) After completion of the ongoing research concerning military use of lands in the OrchardTraining Area or after the date 5 years after August 4, 1993, whichever first occurs, the Secretary shall continue to permit military use of such lands, unless the Secretary, on the basis of such research, determines such use is not compatible with the purposes set forth in section 460iii–2(a)(2) of this title. Any such use thereafter shall be permitted in accordance with the Memorandum of Understanding, which may be extended or renewed by the Secretary so long as such use continues to meet the requirements of subsection (b)(2) of this section.
+(5) After completion of the ongoing research concerning military use of lands in the Orchard Training Area or after the date 5 years after August 4, 1993, whichever first occurs, the Secretary shall continue to permit military use of such lands, unless the Secretary, on the basis of such research, determines such use is not compatible with the purposes set forth in section 460iii–2(a)(2) of this title. Any such use thereafter shall be permitted in accordance with the Memorandum of Understanding, which may be extended or renewed by the Secretary so long as such use continues to meet the requirements of subsection (b)(2) of this section.
 
 (6) In accordance with the Memorandum of Understanding, the Secretary shall require the State of Idaho Military Division to insure that military units involved maintain a program of decontamination.
 

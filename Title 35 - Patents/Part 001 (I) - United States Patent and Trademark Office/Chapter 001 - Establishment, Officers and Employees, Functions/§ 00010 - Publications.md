@@ -16,7 +16,7 @@
 
 (b) The Director may exchange any of the publications specified in items 3, 4, 5, and 6 of subsection (a) of this section for publications desirable for the use of the Patent and Trademark Office.
 
-(July 19, 1952, ch. 950, 66 Stat. 794, §11; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; renumbered §10 and amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(1), 4717(1), 4732(a)(10)(A), 4804(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–580, 1501A–582, 1501A–589.)
+(July 19, 1952, ch. 950, 66 Stat. 794, §11; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; renumbered §10 and amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(1), 4717(1), 4732(a)(10)(A), 4804(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–565, 1501A–580, 1501A–582, 1501A–589; Pub. L. 107–273, div. C, title III, §§13205(2)(A), 13206(b)(1)(B), (3)(A), Nov. 2, 2002, 116 Stat. 1903, 1906.)
 
 #### Historical and Revision Notes
 
@@ -34,17 +34,25 @@ A prior section 10 was renumbered section 9 of this title.
 
 #### Amendments
 
-1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §§4717(1), 4732(a)(10)(A)\], renumbered section 11 of this title as this section and substituted “Director” for “Commissioner” in subsec. (b).
+2002—Subsec. (a). Pub. L. 107–273, §13206(b)(3)(A), amended directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4804(b)\]. See 1999 Amendment note below.
 
-Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4804(b)\], in introductory provisions, substituted “The Director may publish in printed, typewritten, or electronic form, the following:” for “The Commissioner may print, or cause to be printed, the following:”.
+Subsec. (a)1. Pub. L. 107–273, §13205(2)(A), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(1)\]. See 1999 Amendment note below.
 
-Subsec. (a)1. Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(1)\], which directed the insertion of “and published applications for patents” after “Patents” in section 11 of this title, was executed by making the insertion in this section to reflect the probable intent of Congress and the renumbering of section 11 as this section by Pub. L. 106–113, §1000(a)(9) \[title IV, §4717(1)\]. See note above and Effective Date of 1999 Amendment notes below.
+Subsec. (b). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+
+1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4717(1)\], renumbered section 11 of this title as this section.
+
+Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4804(b)\], as amended by Pub. L. 107–273, §13206(b)(3)(A), which directed the general amendment of the introductory provisions of subsec. (a) of section 10 of this title to read “The Director may publish in printed, typewritten, or electronic form, the following:”, was executed to this section, which was section 11 of this title, to reflect the probable intent of Congress. This section was subsequently renumbered section 10 of this title by Pub. L. 106–113, §1000(a)(9) \[title IV, §4717(1)\]. Prior to amendment, introductory provisions of subsec. (a) read as follows: “The Commissioner may print, or cause to be printed, the following:”. See note above and Effective Date of 1999 Amendment note below.
+
+Subsec. (a)1. Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(1)\], as amended by Pub. L. 107–273, §13205(2)(A), inserted “and published applications for patents” after “Patents”.
+
+Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner”.
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office”, wherever appearing.
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4508\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, provided that: “Sections 4502 through 4507 \[amending sections 10 to 12, 102, 119, 120, 122, 135, 154, 181, 252, 284, and 374 of this title and enacting provisions set out as notes under sections 41 and 122 of this title\], and the amendments made by such sections, shall take effect on the date that is 1 year after the date of the enactment of this Act \[Nov. 29, 1999\] and shall apply to all applications filed under section 111 of title 35, United States Code, on or after that date, and all applications complying with section 371 of title 35, United States Code, that resulted from international applications filed on or after that date. The amendments made by sections 4504 and 4505 \[amending sections 102 and 154 of this title\] shall apply to any such application voluntarily published by the applicant under procedures established under this subtitle \[see section §1000(a)(9) \[title IV, §4501\] of Pub.L. 106–113, set out as a Short Title of 1999 Amendment note under section 1 of this title\] that is pending on the date that is 1 year after the date of the enactment of this Act. The amendment made by section 4504 \[amending section 154 of this title\] shall also apply to international applications designating the United States that are filed on or after the date that is 1 year after the date of the enactment of this Act.”
+Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4508\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, as amended by Pub. L. 107–273, div. C, title III, §13205(3), Nov. 2, 2002, 116 Stat. 1903, provided that: “Except as otherwise provided in this section, sections 4502 through 4504 and 4506 through 4507 \[amending sections 10 to 12, 119, 120, 122, 135, 154, 181, 252, 284, and 374 of this title and enacting provisions set out as notes under sections 41 and 122 of this title\], and the amendments made by such sections, shall be effective as of November 29, 2000, and shall apply only to applications (including international applications designating the United States) filed on or after that date. The amendments made by section 4504 \[amending section 154 of this title\] shall additionally apply to any pending application filed before November 29, 2000, if such pending application is published pursuant to a request of the applicant under such procedures as may be established by the Director. Except as otherwise provided in this section, the amendments made by section 4505 \[amending section 102 of this title\] shall be effective as of November 29, 2000 and shall apply to all patents and all applications for patents pending on or filed after November 29, 2000. Patents resulting from an international application filed before November 29, 2000 and applications published pursuant to section 122(b) \[probably means section 122(b) of title 35\] or Article 21(2) of the treaty defined in section 351(a) \[probably means section 351(a) of title 35\] resulting from an international application filed before November 29, 2000 shall not be effective as prior art as of the filing date of the international application; however, such patents shall be effective as prior art in accordance with section 102(e) in effect on November 28, 2000.”
 
 Amendment by section 1000(a)(9) \[title IV, §§4717(1), 4732(a)(10)(A)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 

@@ -20,7 +20,7 @@ Authority for family to select.—
 
 &emsp;&emsp;(i)
 
-In general.—A family residing in a public housing dwelling shall pay as monthly rent for the unit the amount determined under clause (i) or (ii) of subparagraph (B), subject to the requirement under paragraph (3) (relating to minimum rents). Each public housing agency shall provide for each family residing in a public housing dwelling unit owned, assisted, or operated by the agency to elect annually whether the rent paid by such family shall be determined under clause (i) or (ii) of subparagraph (B). A public housing agency may not at any time fail to provide both such rent options for any public housing dwelling unit owned, assisted, or operated by the agency.
+In general.—A family residing in a public housing dwelling shall pay as monthly rent for the unit the amount determined under clause (i) or (ii) of subparagraph (B), subject to the requirement under paragraph (3) (relating to minimum rents). Each public housing agency shall provide for each family residing in a public housing dwelling unitowned, assisted, or operated by the agency to elect annually whether the rent paid by such family shall be determined under clause (i) or (ii) of subparagraph (B). A public housing agency may not at any time fail to provide both such rent options for any public housing dwelling unit owned, assisted, or operated by the agency.
 
 &emsp;&emsp;(ii)
 
@@ -84,7 +84,7 @@ Requirement.—Notwithstanding paragraph (1) of this subsection, the method for 
 
 &emsp;&emsp;&emsp;(II) each family who is assisted under the certificate or moderate rehabilitation program under section 1437f of this title; and
 
-&emsp;&emsp;&emsp;(III) each family who is assisted under the voucher program under section 1437f of this title, and the agency shall reduce the monthly assistance payment on behalf of such family as may be necessary to ensure payment of such minimum monthly rental amount.
+&emsp;&emsp;&emsp;(III) each family who is assisted under the voucher program under section 1437f of this title, and the agency shall reduce themonthly assistance payment on behalf of such family as may be necessary to ensure payment of such minimum monthly rental amount.
 
 &emsp;&emsp;(ii) The Secretary shall require each family who is assisted under any other program for rental assistance under section 1437f of this title to pay such minimum monthly rental amount, which amount shall be determined by the Secretary.
 
@@ -354,7 +354,7 @@ When used in reference to public housing:
 
 #### (1) In general
 
-&emsp;In lieu of a disallowance of earned income under subsection (d) of this section, upon therequest of a family that qualifies under subsection (d) of this section, a public housing agency may establish an individual savings account in accordance with this subsection for that family.
+&emsp;In lieu of a disallowance of earned income under subsection (d) of this section, upon the request of a family that qualifies under subsection (d) of this section, a public housing agency may establish an individual savings account in accordance with this subsection for that family.
 
 #### (2) Deposits to account
 
@@ -568,11 +568,11 @@ Subsecs. (b)(6), (10), (11)(A), (c). Pub. L. 101–625, §572(2), substituted �
 
 1989—Subsec. (a)(2)(A). Pub. L. 101–235, §302(1), substituted “5-year period” for “3-year period”.
 
-Subsec. (a)(2)(B). Pub. L. 101–235, §302(2), substituted “5-year limitation” for “3-year limitation” and inserted at end “The terms of all ceiling rents established prior to December 15, 1989, shall be extended for the 5-year period beginning on December 15, 1989.”
+Subsec. (a)(2)(B). Pub. L. 101–235, §302(2), substituted “5-year limitation” for “3-year limitation” and inserted at end “The terms of all ceiling rents establishedprior to December 15, 1989, shall be extended for the 5-year period beginning on December 15, 1989.”
 
 1988—Subsec. (a). Pub. L. 100–242, §102(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), a” for “A”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, and added par. (2).
 
-Subsec. (b)(3). Pub. L. 100–242, §170(c), in cl. (A), substituted “sixty-two years of age,” for “sixty-two yearsof age or”, and “, has a developmental disability as defined in section 6001(7) of this title” for “or in section 102 of the Developmental Disabilities Services and Facilities Construction Amendments of 1970”.
+Subsec. (b)(3). Pub. L. 100–242, §170(c), in cl. (A), substituted “sixty-two years of age,” for “sixty-two years of age or”, and “, has a developmental disability as defined in section 6001(7) of this title” for “or in section 102 of the Developmental Disabilities Services and Facilities Construction Amendments of 1970”.
 
 Pub. L. 100–242, §111, inserted provisions relating to determination of priority admission to public housing projects designed for elderly families.
 
@@ -636,7 +636,7 @@ Section 573(f) of Pub. L. 101–625 provided that: “The Secretary shall issue 
 
 #### Effective Date of 1988 Amendment
 
-Section 6 of Pub. L. 100–358 provided that: “The Secretary of Housing and Urban Development may carry out programs to provide lower income housing on Indian reservations and other Indian areas only in accordance with the amendments made by this Act \[enacting sections 1437aa to 1437ee of this title, amending this section and section 1437c of this title, and enacting provisions set out as a note under section 1437 of thistitle\], commencing on whichever of the following occurs earlier:
+Section 6 of Pub. L. 100–358 provided that: “The Secretary of Housing and Urban Development may carry out programs to provide lower income housing on Indian reservations and other Indian areas only in accordance with the amendments made by this Act \[enacting sections 1437aa to 1437ee of this title, amending this section and section 1437c of this title, and enacting provisions set out as a note under section 1437 of this title\], commencing on whichever of the following occurs earlier:
 
 &emsp;“(1)
 
@@ -826,7 +826,7 @@ Section 202 of Pub. L. 93–383 provided that: “To the extent that section 3(1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 247b–16, 254b, 280g, 503, 1436a, 1437f, 1437j, 1437r, 1437s, 1437z–3, 1437z–7, 1437aaa–3, 1437bbb–4, 1471, 1486, 3544, 4851b, 5305, 8011, 8012, 8013, 9907, 11386, 11395, 11403e–2, 11403g, 12704, 12876, 12896, 12899d, 12899f, 12910, 13617, 13641, 13661, 13664 of this title; title 12 sections 1441a, 1701q, 1701u, 1701z–11, 1715z–1a, 1715z–1c, 1715z–9, 1715z–15, 1831q, 4119, 4125; title 20 section 1070a–22; title 38 section 1705.
+This section is referred to in sections 247b–16, 254b, 254e, 280g, 503, 1436a, 1437f, 1437j, 1437r, 1437s, 1437z–3, 1437z–7, 1437aaa–3, 1437bbb–4, 1471, 1486, 3544, 4851b, 5305, 8011, 8012, 8013, 9907, 11386, 11395, 11403e–2, 11403g, 12704, 12876, 12896, 12899d, 12899f, 12910, 13617, 13641, 13661, 13664 of this title; title 12 sections 1441a, 1701q, 1701u, 1701z–11, 1715z–1a, 1715z–1c, 1715z–9, 1715z–15, 1831q, 4119, 4125; title 20 section 1070a–22; title 38 section 1705.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -140,7 +140,7 @@ Transfers Between Categories.—(1) Not more than 10 percent of the net amount a
 
 (d)
 
-Airport Capacity Research and Development.—(1) Of the amounts made available under subsection (a) of this section, at least $25,000,000 may be appropriated each fiscal year for research and development under section 44505(a) and (c) of this title on preserving and enhancing airport capacity, including research and development on improvements to airport designstandards, maintenance, safety, operations, and environmental concerns.
+Airport Capacity Research and Development.—(1) Of the amounts made available under subsection (a) of this section, at least $25,000,000 may be appropriated each fiscal year for research and development under section 44505(a) and (c) of this title on preserving and enhancing airport capacity, including research and development on improvements to airport design standards, maintenance, safety, operations, and environmental concerns.
 
 (2) The Administrator shall submit to the Committees on Science and Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report on expenditures made under paragraph (1) of this subsection for each fiscal year. The report shall be submitted not later than 60 days after the end of the fiscal year.
 
@@ -184,7 +184,7 @@ Principal criteria.—The principal criteria for the awarding of grants under th
 
 Competitive, merit-based evaluation.—Grants shall be awarded under this subsection on the basis of evaluation of proposals through a competitive, merit-based process.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108 Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1294; Pub. L. 103–305, title III, §302, Aug. 23, 1994, 108Stat. 1589; Pub. L. 104–264, title XI, §§1102, 1103, Oct. 9, 1996, 110 Stat. 3278; Pub. L. 104–287, §5(9), (74), Oct. 11, 1996, 110 Stat. 3389, 3396; Pub. L. 105–155, §§2, 3, Feb. 11, 1998, 112 Stat. 5; Pub. L. 106–181, title IX, §901, Apr. 5, 2000, 114 Stat. 194.)
 
 Historical and Revision Notes
 

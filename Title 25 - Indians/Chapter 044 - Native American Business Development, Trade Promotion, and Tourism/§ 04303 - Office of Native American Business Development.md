@@ -62,7 +62,7 @@
 
 #### (6) Prohibition
 
-&emsp;The Secretary may not provide under this section assistance for any activity related to the operation of a gaming activity on Indianlands pursuant to the Indian Gaming Regulatory Act \[25 U.S.C. 2701 et seq.\].
+&emsp;The Secretary may not provide under this section assistance for any activity related to the operation of a gaming activity on Indian lands pursuant to the Indian Gaming Regulatory Act \[25 U.S.C. 2701 et seq.\].
 
 (Pub. L. 106–464, §4, Nov. 7, 2000, 114 Stat. 2015.)
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(ii) is unjustifiable and burdens or restricts United States commerce;
 
-> the Trade Representative shall take action authorized in subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and shall take all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to enforce such rights or to obtain the elimination of such act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to anyother area of pertinent relations with the foreign country.
+> the Trade Representative shall take action authorized in subsection (c) of this section, subject to the specific direction, if any, of the President regarding any such action, and shall take all other appropriate and feasible action within the power of the President that the President may direct the Trade Representative to take under this subsection, to enforce such rights or to obtain the elimination of such act, policy, or practice. Actions may be taken that are within the power of the President with respect to trade in any goods or services, or with respect to any other area of pertinent relations with the foreign country.
 
 (2) The Trade Representative is not required to take action under paragraph (1) in any case in which—
 
@@ -248,7 +248,7 @@ Section 1. <i>Policy</i>. (a) In administering sections 301–310 of the Trade A
 
 (2) provides adequate and effective intellectual property protection consistent with the Agreement on Trade-Related Aspects of Intellectual Property Rights (TRIPS Agreement) referred to in section 101(d)(15) of the Uruguay Round Agreements Act (19 U.S.C. 3511(d)(15)).
 
-(b) The United States shall encourage all beneficiary sub-Saharan African countries to implement policies designed to address the underlying causes of the HIV/AIDS crisis by, among other things, making efforts to encourage practices that will prevent further transmission and infection and to stimulate development of the infrastructure necessary to deliver adequate health services, and by encouraging policies that provide an incentive for public and private research on, and development of, vaccines and other medical innovations that will combat the HIV/AIDS epidemic in Africa.
+(b) The United States shall encourage all beneficiary sub-Saharan African countries to implement policies designed to address the underlying causes of the HIV/AIDS crisis by, among other things, making efforts to encourage practices that will prevent further transmission and infection and to stimulate development ofthe infrastructure necessary to deliver adequate health services, and by encouraging policies that provide an incentive for public and private research on, and development of, vaccines and other medical innovations that will combat the HIV/AIDS epidemic in Africa.
 
 Sec. 2. <i>Rationale</i>: (a) This order finds that:
 

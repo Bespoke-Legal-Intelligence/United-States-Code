@@ -24,6 +24,18 @@ Section 609AA of Pub. L. 98–473 provided that:
 
 “(2) Section 609Z \[repealing section 204 of Pub. L. 98–411, which had amended sections 3796 to 3796b of this title and enacted provisions set out as a note under section 3796 of this title\] shall take effect on October 1, 1984.”
 
+#### Short Title of 2002 Amendments
+
+Pub. L. 107–273, div. A, title IV, §401, Nov. 2, 2002, 116 Stat. 1789, provided that: “This title \[enacting sections 3796gg–0 to 3796gg–0d of this title, amending sections 3796gg–1 to 3796gg–5 of this title, and enacting provisions set out as a note under section 3796gg–0 of this title\] may be cited as the ‘Violence Against Women Office Act’.”
+
+Pub. L. 107–273, div. B, title II, §2001, Nov. 2, 2002, 116 Stat. 1792, provided that: “This title \[enacting subchapter XVI of this chapter and sections 3797w and 3797w–1 of this title, amending sections 285<i>o</i>–2, 3793, 3796ff, 3796ff–1, and 3797ff–3 of this title, sections 3565 and 3583 of Title 18, Crimes and Criminal Procedure, and section 823 of Title 21, Food and Drugs, and enacting provisions set out as notes under sections 3722 and 3797u of this title and section 3601 of Title 18\] may be cited as the ‘Drug Abuse Education, Prevention, and Treatment Act of 2002’.”
+
+Pub. L. 107–273, div. C, title I, §11027(a), Nov. 2, 2002, 116 Stat. 1834, provided that: “This section \[enacting subchapter XVIII of this chapter\] may be cited as the ‘Crime-Free Rural States Act of 2002’.”
+
+Pub. L. 107–273, div. C, title II, §12101, Nov. 2, 2002, 116 Stat. 1859, provided that: “This subtitle \[subtitle A (§§12101, 12102) of title II of div. C of Pub. L. 107–273, enacting subchapter XII–F of this chapter and provisions set out as a note under section 3796ee of this title\] may be cited as the ‘Consequences for Juvenile Offenders Act of 2002’.”
+
+Pub. L. 107–196, §1, June 24, 2002, 116 Stat. 719, provided that: “This Act \[amending sections 3796 and 3796b of this title and enacting provisions set out as a note under section 3796 of this title\] may be cited as the ‘Mychal Judge Police and Fire Chaplains Public Safety Officers’ Benefit Act of 2002’.”
+
 #### Short Title of 2000 Amendments
 
 Pub. L. 106–572, §1, Dec. 28, 2000, 114 Stat. 3058, provided that: “This Act \[enacting section 3713 of this title\] may be cited as the ‘Computer Crime Enforcement Act’.”
@@ -74,7 +86,7 @@ Pub. L. 94–430, §1, Sept. 29, 1976, 90 Stat. 1346, provided: “That this Act
 
 #### Short Title of 1973 Amendment
 
-Pub. L. 93–83, §1, Aug. 6, 1973, 87 Stat. 197, provided: “That this Act \[enacting sections 3738, 3770, and 3771 ofthis title, reenacting sections 3334(a), 3734, 3735, 3745, 3750, 3750a, 3751 to 3755, 3757 to 3759, 3761 to 3765, and 3792 of this title and section 5314(55) of Title 5, Government Organization and Employees, renumbering former section 3748 as 3747 and repealing former section 3747 of this title, and amending this section, sections 3701, 3721 to 3725, 3731 to 3733, 3736, 3737, 3741 to 3744, 3746, 3750b to 3750d, 3756, 3760, 3766 to 3769, 3781, 3791, 3793, and 3795 of this title, sections 5108(c)(10), 5315(90), and 5316(133) of Title 5, and section 484(n) of Title 40, Public Buildings, Property, and Works\] may be cited as the ‘Crime Control Act of 1973’.”
+Pub. L. 93–83, §1, Aug. 6, 1973, 87 Stat. 197, provided: “That this Act \[enacting sections 3738, 3770, and 3771 of this title, reenacting sections 3334(a), 3734, 3735, 3745, 3750, 3750a, 3751 to 3755, 3757 to 3759, 3761 to 3765, and 3792 of this title and section 5314(55) of Title 5, Government Organization and Employees, renumbering former section 3748 as 3747 and repealing former section 3747 of this title, and amending this section, sections 3701, 3721 to 3725, 3731 to 3733, 3736, 3737, 3741 to 3744, 3746, 3750b to 3750d, 3756, 3760, 3766 to 3769, 3781, 3791, 3793, and 3795 of this title, sections 5108(c)(10), 5315(90), and 5316(133) of Title 5, and section 484(n) of former Title 40, Public Buildings, Property, and Works\] may be cited as the ‘Crime Control Act of 1973’.”
 
 #### Short Title of 1970 Amendment
 

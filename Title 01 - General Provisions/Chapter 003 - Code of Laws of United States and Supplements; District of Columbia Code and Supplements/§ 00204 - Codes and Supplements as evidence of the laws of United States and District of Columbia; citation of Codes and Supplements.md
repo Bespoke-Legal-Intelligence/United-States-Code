@@ -26,8 +26,6 @@ Title 4, Flag and Seal, Seat of Government, and the States—Act July 30, 1947, 
 
 Title 5, Government Organization and Employees—Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
-Title 6, Surety Bonds—Act July 30, 1947, ch. 390, §1, 61 Stat. 646, as amended June 6, 1972, Pub. L. 92–310, title II, §203(4), 86 Stat. 202, and repealed Sept. 13, 1982, Pub. L. 97–258, §5(b), 96 Stat. 1068, 1085. See, now, Title 31, Money and Finance.
-
 Title 9, Arbitration—Act July 30, 1947, ch. 392, §1, 61 Stat. 669.
 
 Title 10, Armed Forces—Act Aug. 10, 1956, ch. 1041, §1, 70A Stat. 1.
@@ -61,6 +59,8 @@ Title 37, Pay and Allowances of the Uniformed Services—Pub. L. 87–649, §1, 
 Title 38, Veterans’ Benefits—Pub. L. 85–857, §1, Sept. 2, 1958, 72 Stat. 1105.
 
 Title 39, Postal Service—Pub. L. 86–682, §1, Sept. 2, 1960, 74 Stat. 578, as revised Pub. L. 91–375, §2, Aug. 12, 1970, 84 Stat. 719.
+
+Title 40, Public Buildings, Property, and Works—Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
 
 Title 44, Public Printing and Documents—Pub. L. 90–620, §1, Oct. 22, 1968, 82 Stat. 1238.
 

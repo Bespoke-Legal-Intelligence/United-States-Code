@@ -36,7 +36,7 @@ The term “service mark” means any word, name, symbol, or device, or any comb
 
 &emsp;(2) which a person has a bona fide intention to use in commerce and applies to register on the principal register established by this chapter,
 
-> to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names, and other distinctive features of radio or television programs may beregistered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.
+> to identify and distinguish the services of one person, including a unique service, from the services of others and to indicate the source of the services, even if that source is unknown. Titles, character names, and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor.
 
 The term “certification mark” means any word, name, symbol, or device, or any combination thereof—
 
@@ -98,7 +98,7 @@ The intent of this chapter is to regulate commerce within the control of Congres
 
 #### References in Text
 
-Acts March 3, 1881, February 20, 1905, and March 19, 1920, referred to in text, are acts Mar. 3, 1881, ch. 138, 21Stat. 502; Feb. 20, 1905, ch. 592, 33 Stat. 724; and Mar. 19, 1920, ch. 104, 41 Stat. 533, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title. Act Mar. 19, 1920, had been generally classified to sections 121 to 128 of this title.
+Acts March 3, 1881, February 20, 1905, and March 19, 1920, referred to in text, are acts Mar. 3, 1881, ch. 138, 21 Stat. 502; Feb. 20, 1905, ch. 592, 33 Stat. 724; and Mar. 19, 1920, ch. 104, 41 Stat. 533, which were repealed insofar as inconsistent with this chapter by act July 5, 1946, ch. 540, §46(a), 60 Stat. 444. Act Feb. 20, 1905, was classified to sections 81 to 109 of this title. Act Mar. 19, 1920, had been generally classified to sections 121 to 128 of this title.
 
 #### Prior Provisions
 
@@ -106,7 +106,7 @@ Acts Feb. 20, 1905, ch. 592, §29, 33 Stat. 731; June 10, 1938, ch. 332, §5, 52
 
 #### Amendments
 
-1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(A)\], substituted par. defining “Director” for par. which read as follows: “The term ‘Commissioner’ means the Commissioner of Patents and Trademarks.”
+1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(A)\], substituted par. defining “Director” forpar. which read as follows: “The term ‘Commissioner’ means the Commissioner of Patents and Trademarks.”
 
 Pub. L. 106–113, §1000(a)(9) \[title III, §3005\], inserted pars. defining “domain name” and “Internet” after par. defining “counterfeit”.
 
@@ -150,7 +150,7 @@ Pub. L. 98–620, §103(2), in definition of “service mark” substituted “T
 
 Pub. L. 98–620, §103(3), in subpar. (b) of par. relating to when a mark shall be deemed to be “abandoned”, inserted “Purchaser motivation shall not be a test for determining abandonment under this subparagraph.”
 
-1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” in two places and “Commissioner of Patents and Trademarks” for “Commissioner of Patents” in definition of “Commissioner”.
+1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” in two places and“Commissioner of Patents and Trademarks” for “Commissioner of Patents” in definition of “Commissioner”.
 
 1962—Pub. L. 87–772 substituted, “predecessors,” for “and” in definition of “applicant” and “registrant”, “Titles, character names and other distinctive features of radio or television programs may be registered as service marks notwithstanding that they, or the programs, may advertise the goods of the sponsor” for “and includes without limitation the marks, names, symbols, titles, designations, slogans, character names, and distinctive features of radio or other advertising used in commerce”, in definition of “service mark”, inserted “or the services are rendered in more than one State or in this and a foreign country and the person rendering the services is engaged in commerce in connection therewith” in fifteenth paragraph relating to use in commerce, struck out “purchasers” after “deceive” in definition of “colorable imitation”, and substituted “commerce” for “commence” in last par. relating to the intent of the chapter.
 

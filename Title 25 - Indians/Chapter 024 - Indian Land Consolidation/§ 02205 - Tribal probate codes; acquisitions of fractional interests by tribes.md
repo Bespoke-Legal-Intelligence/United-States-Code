@@ -40,7 +40,7 @@
 
 #### (C) Consistency of tribal probate code with chapter
 
-&emsp;&emsp;The Secretary may not approve a tribal probate code, or any amendment to such acode, under this paragraph unless the Secretary determines that the tribal probate code promotes the policies set forth in section 102 of the Indian Land Consolidation Act Amendments of 2000.
+&emsp;&emsp;The Secretary may not approve a tribal probate code, or any amendment to such a code, under this paragraph unless the Secretary determines that the tribal probate code promotes the policies set forth in section 102 of the Indian Land Consolidation Act Amendments of 2000.
 
 #### (D) Explanation
 
@@ -86,7 +86,7 @@
 
 #### (1) In general
 
-&emsp;If the owner of an interest in trust or restricted land devises an interest in such land to a non-Indian under section 2206(a)(6)(A) of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent's death. The Secretary shall transfer such payment to the devisee.
+&emsp;If the owner of an interest in trust or restricted land devises an interest in such landto a non-Indian under section 2206(a)(6)(A) of this title, the Indian tribe that exercises jurisdiction over the parcel of land involved may acquire such interest by paying to the Secretary the fair market value of such interest, as determined by the Secretary on the date of the decedent's death. The Secretary shall transfer such payment to the devisee.
 
 #### (2) Limitation
 
@@ -126,7 +126,7 @@ This chapter, referred to in subsec. (b)(2)(C), was in the original “this Act�
 
 #### Prior Provisions
 
-A prior section 2205, Pub. L. 97–459, title II, §206, Jan. 12, 1983, 96 Stat. 2518; Pub. L. 98–608, §1(3), Oct. 30, 1984,98 Stat. 3172, related to descent and distribution of trust or restricted or controlled lands, tribal ordinance barring nonmembers of tribe or non-Indians from inheritance by devise or descent, and limitation on life estate, prior to repeal by Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993.
+A prior section 2205, Pub. L. 97–459, title II, §206, Jan. 12, 1983, 96 Stat. 2518; Pub. L. 98–608, §1(3), Oct. 30, 1984, 98 Stat. 3172, related to descent and distribution of trust or restricted or controlled lands, tribal ordinance barring nonmembers of tribe or non-Indians from inheritance by devise or descent, and limitation on life estate, prior to repeal by Pub. L. 106–462, title I, §103(3), Nov. 7, 2000, 114 Stat. 1993.
 
 #### Section Referred to in Other Sections
 

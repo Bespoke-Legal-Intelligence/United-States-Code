@@ -10,7 +10,7 @@ The Department of Housing and Urban Development shall be provided an additional 
 
 #### (c) Delegation of authority; appointment of administrative law judges; location of conciliation meetings; administrative review
 
-The Secretary may delegate any of his functions, duties, and powers to employees of theDepartment of Housing and Urban Development or to boards of such employees, including functions, duties, and powers with respect to investigating, conciliating, hearing, determining, ordering, certifying, reporting, or otherwise acting as to any work, business, or matter under this subchapter. The person to whom such delegations are made with respect to hearing functions, duties, and powers shall be appointed and shall serve in the Department of Housing and Urban Development in compliance with sections 3105, 3344, 5372, and 7521 of title 5. Insofar as possible, conciliation meetings shall be held in the cities or other localities where the discriminatory housing practices allegedly occurred. The Secretary shall by rule prescribe such rights of appeal from the decisions of his administrative law judges to other administrative law judges or to other officers in the Department, to boards of officers or to himself, as shall be appropriate and in accordance with law.
+The Secretary may delegate any of his functions, duties, and powers to employees of the Department of Housing and Urban Development or to boards of such employees, including functions, duties, and powers with respect to investigating, conciliating, hearing, determining, ordering, certifying, reporting, or otherwise acting as to any work, business, or matter under this subchapter. The person to whom such delegations are made with respect to hearing functions, duties, and powers shall be appointed and shall serve in the Department of Housing and Urban Development in compliance with sections 3105, 3344, 5372, and 7521 of title 5. Insofar as possible, conciliation meetings shall be held in the cities or other localities where the discriminatory housing practices allegedly occurred. The Secretary shall by rule prescribe such rights of appeal from the decisions of his administrative law judges to other administrative law judges or to other officers in the Department, to boards of officers or to himself, as shall be appropriate and in accordance with law.
 
 #### (d) Cooperation of Secretary and executive departments and agencies in administration of housing and urban development programs and activities to further fair housing purposes
 
@@ -80,7 +80,7 @@ The Civil Rights Act of 1964, referred to in subsec. (f)(1), is Pub. L. 88–352
 
 The Age Discrimination Act of 1975, referred to in subsec. (f)(4), is title III of Pub. L. 94–135, Nov. 28, 1975, 78 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of this title and Tables.
 
-The Equal Credit Opportunity Act, referred to in subsec. (f)(5), is title VII of Pub. L. 90–321, as added by Pub. L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521, as amended, which is classified generally to subchapter IV (§1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
+The Equal Credit Opportunity Act, referred to in subsec. (f)(5), is title VII of Pub. L. 90–321, as added by Pub.L. 93–495, title V, §503, Oct. 28, 1974, 88 Stat. 1521, as amended, which is classified generally to subchapter IV (§1691 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
 The Executive orders referred to in subsec. (f)(11) are set out as notes under sections of the Code as follows:
 
@@ -270,7 +270,7 @@ By an Executive Order \[Ex. Ord. No. 12892, set out above\] (“the Order”) I 
 
 Through this Order, I am first expanding Executive Order No. 11063 to provide protection against discrimination in programs of Federal insurance or guaranty to persons who are disabled and to families with children.
 
-Second, I am revoking the old Executive Order No. 12259 entitled “Leadership and Coordination of Fair Housing in Federal Programs.” The new Executive order reflects the expanded authority of the Secretary of Housing and Urban Development and I am directing him to take stronger measures to provide leadership and coordination in affirmatively furthering fair housing in Federal programs.
+Second, I am revoking the old Executive Order No. 12259 entitled “Leadership and Coordination of Fair Housing in Federal Programs.” The new Executive order reflects the expanded authority of the Secretary of Housing and Urban Development and I am directinghim to take stronger measures to provide leadership and coordination in affirmatively furthering fair housing in Federal programs.
 
 Third, I ask the heads of departments and agencies, including the Federal banking agencies, to cooperate with the Secretary of Housing and Urban Development in identifying ways to structure agency programs and activities to affirmatively further fair housing and to promptly negotiate memoranda of understanding with him to accomplish that goal.
 

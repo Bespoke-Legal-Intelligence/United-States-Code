@@ -16,9 +16,7 @@
 
 > The head of the agency concerned, under the regulations prescribed under section 4118 of this title, may waive in whole or in part a right of recovery under this subsection, if it is shown that the recovery would be against equity and good conscience or against the public interest.
 
-(d) For purposes of this section, “training” includes a private sector assignment of an employee participating in the Executive Exchange Program of the President's Commission on Executive Exchange.
-
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 435; Pub. L. 98–224, §5(a), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–226, §2(a)(6), Mar. 30, 1994, 108 Stat. 112.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 435; Pub. L. 98–224, §5(a), Mar. 2, 1984, 98 Stat. 48; Pub. L. 103–226, §2(a)(6), Mar. 30, 1994, 108 Stat. 112; Pub. L. 107–347, title II, §209(g)(1)(B), Dec. 17, 2002, 116 Stat. 2932.)
 
 Historical and Revision Notes
 
@@ -42,11 +40,21 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
-1994—Subsec. (a). Pub. L. 103–226 substituted “for more than a minimum period prescribed by the head of the agency” for “by, in, or through a non-Government facility under this chapter”.
+2002—Subsec. (d). Pub. L. 107–347 struck out subsec. (d) which read as follows: “For purposes of this section, ‘training’ includes a private sector assignment of an employee participating in the Executive Exchange Program of the President's Commission on Executive Exchange.”
+
+1994—Subsec. (a). Pub. L. 103–226 substituted “for more than a minimum period prescribed by the head ofthe agency” for “by, in, or through a non-Government facility under this chapter”.
 
 1984—Subsec. (d). Pub. L. 98–224 added subsec. (d).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
+
+#### Department of Homeland Security
+
+Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, §86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+
 #### Central Intelligence Agency
 
-Exception of Central Intelligence Agency from provisions of this section and certain other provisions of this chapter, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
+Exception of Central Intelligence Agency from provisions of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 

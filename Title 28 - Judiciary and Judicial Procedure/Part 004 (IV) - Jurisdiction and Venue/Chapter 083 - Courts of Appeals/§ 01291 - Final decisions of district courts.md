@@ -64,11 +64,11 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–164, §124, inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “The court of appeals” and inserted provision that the jurisdiction of the United States Court of Appeals for the Federal Circuit shall be limited to the jurisdiction described in sections 1292(c) and (d) and 1295 of this title.
+1982—Pub. L. 97–164, §124, inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “The court of appeals” and inserted provision that the jurisdiction of the United States Court of Appeals for the Federal Circuit shall be limited to the jurisdiction described in sections 1292(c) and (d) and 1295 of this title.
 
-<b>1958</b>—Pub. L. 85–508 struck out provisions which gave courts of appeals jurisdiction of appeals from District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+1958—Pub. L. 85–508 struck out provisions which gave courts of appeals jurisdiction of appeals from District Court for Territory of Alaska. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-<b>1951</b>—Act Oct. 31, 1951, inserted reference to District Court of Guam.
+1951—Act Oct. 31, 1951, inserted reference to District Court of Guam.
 
 #### Effective Date of 1982 Amendment
 

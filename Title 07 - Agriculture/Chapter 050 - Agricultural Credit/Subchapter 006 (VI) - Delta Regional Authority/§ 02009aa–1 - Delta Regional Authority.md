@@ -60,7 +60,13 @@
 
 #### (1) In general
 
-&emsp;A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.
+#### (A) Temporary method
+
+&emsp;&emsp;During the period beginning on May 13, 2002, and ending on December 31, 2004, a decision by the Authority shall require the affirmative vote of the Federal cochairperson and a majority of the State members (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.
+
+#### (B) Permanent method
+
+&emsp;&emsp;Effective beginning on January 1, 2005, a decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.
 
 #### (2) Quorum
 
@@ -110,13 +116,13 @@ The Authority shall—
 
 In carrying out subsection (d) of this section, the Authority may—
 
-&emsp;(1) hold such hearings, sit and act at such times and places, take such testimony, receive such evidence, and print or otherwise reproduce and distribute a description of the proceedings and reports on actions by the Authority as the Authority considers appropriate;
+&emsp;(1) hold such hearings, sit and act at such times and places, take such testimony, receivesuch evidence, and print or otherwise reproduce and distribute a description of the proceedings and reports on actions by the Authority as the Authority considers appropriate;
 
 &emsp;(2) authorize, through the Federal or State cochairperson or any other member of the Authority designated by the Authority, the administration of oaths if the Authority determines that testimony should be taken or evidence received under oath;
 
 &emsp;(3) request from any Federal, State, or local department or agency such information as may be available to or procurable by the department or agency that may be of use to the Authority in carrying out duties of the Authority;
 
-&emsp;(4) adopt, amend, and repeal bylaws and rules governing the conduct of Authority business and the performance of Authority duties;
+&emsp;(4) adopt, amend, and repeal bylaws, rules, and regulations governing the conduct of Authority business and the performance of Authority duties;
 
 &emsp;(5) request the head of any Federal department or agency to detail to the Authority such personnel as the Authority requires to carry out duties of the Authority, each such detail to be without loss of seniority, pay, or other employee status;
 
@@ -276,7 +282,13 @@ A Federal agency shall—
 
 The Authority may declare void any contract, loan, or grant of or by the Authority in relation to which the Authority determines that there has been a violation of any provision under subsection (h)(4) of this section, subsection (i) of this section, or sections 202 through 209 of title 18.
 
-(Pub. L. 87–128, title III, §382B, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–269.)
+(Pub. L. 87–128, title III, §382B, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–269; amended Pub. L. 107–171, title VI, §6027(a), (b), May 13, 2002, 116 Stat. 373.)
+
+#### Amendments
+
+2002—Subsec. (c)(1). Pub. L. 107–171, §6027(a), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “A decision by the Authority shall require a majority vote of the Authority (not including any member representing a State that is delinquent under subsection (g)(2)(C) of this section) to be effective.”
+
+Subsec. (e)(4). Pub. L. 107–171, §6027(b), substituted “, rules, and regulations” for “and rules”.
 
 #### Section Referred to in Other Sections
 

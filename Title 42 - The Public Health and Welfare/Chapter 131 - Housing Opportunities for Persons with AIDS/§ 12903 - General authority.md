@@ -6,7 +6,7 @@ The Secretary shall, to the extent of amounts approved in appropriations Acts un
 
 #### (b) Implementation of eligible activities
 
-A grantee shall carry out eligible activities under section 12904 of this title through projectsponsors. Any grantee that is a State that enters into a contract with a nonprofit organization to carry out eligible activities in a locality shall obtain the approval of the unit of general local government for the locality before entering into the contract.
+A grantee shall carry out eligible activities under section 12904 of this title through project sponsors. Any grantee that is a State that enters into a contract with a nonprofit organization to carry out eligible activities in a locality shall obtain the approval of the unit of general local government for the locality before entering into the contract.
 
 #### (c) Allocation of resources
 
@@ -64,7 +64,7 @@ Funds made available under this section shall be allocated among applications su
 
 #### (e) Additional requirement for metropolitan areas
 
-In addition to the other requirements of this section, to be eligible for a grant to a metropolitan area under this section, the major city, urban county, and any city with a population of50,000 or more in that metropolitan area shall establish or designate a governmental agency or organization for receipt and use of amounts received from a grant under this section and shall submit to the Secretary, together with the application under subsection (d) of this section a proposal for the operation of such agency or organization.
+In addition to the other requirements of this section, to be eligible for a grant to a metropolitan area under this section, the major city, urban county, and any city with a population of 50,000 or more in that metropolitan area shall establish or designate a governmental agency or organization for receipt and use of amounts received from a grant under this section and shall submit to the Secretary, together with the application under subsection (d) of this section a proposal for the operation of such agency or organization.
 
 #### (f) Additional requirement for city formula grantees
 

@@ -1,6 +1,0 @@
-### §190. Private studios and works of art
-
-No room in the Capitol shall be used for private studios or works of art, without permission from the Joint Committee on the Library, given in writing; and it shall be the duty of the Architect of the Capitol to carry this provision into effect.
-
-(Mar. 3, 1875, ch. 130, 18 Stat. 376.)
-

@@ -6,7 +6,7 @@ The purposes of this section are—
 
 &emsp;(1) to preserve for public use and enjoyment the lands and waters that comprise the Boston Harbor Islands National Recreation Area;
 
-&emsp;(2) to manage the recreation area in partnership with the private sector, the Commonwealth of Massachusetts, municipalities surrounding Massachusetts and Cape Cod Bays, the Thompson Island Outward Bound Education Center, and Trustees of Reservations,and with historical, business, cultural, civic, recreational and tourism organizations;
+&emsp;(2) to manage the recreation area in partnership with the private sector, the Commonwealth of Massachusetts, municipalities surrounding Massachusetts and Cape Cod Bays, the Thompson Island Outward Bound Education Center, and Trustees of Reservations, and with historical, business, cultural, civic, recreational and tourism organizations;
 
 &emsp;(3) to improve access to the Boston Harbor Islands through the use of public water transportation; and
 
@@ -34,7 +34,7 @@ For the purposes of this section—
 
 &emsp;&emsp;(i) The areas depicted on the map reference in subparagraph (A).
 
-&emsp;&emsp;(ii) Landside points required for access, visitor services, and administration in the city of Boston along its Harborwalk and at Long Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt's Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
+&emsp;&emsp;(ii) Landside points required for access, visitor services, and administration in thecity of Boston along its Harborwalk and at Long Wharf, Fan Pier, John F. Kennedy Library, and the Custom House; Charlestown Navy Yard; Old Northern Avenue Bridge; the city of Quincy at Squantum Point/Marina Bay, the Fore River Shipyard, and Town River; the Town of Hingham at Hewitt's Cove; the Town of Hull; the city of Salem at Salem National Historic Site; and the city of Lynn at the Heritage State Park.
 
 #### (3) Land acquisition
 
@@ -64,7 +64,7 @@ For the purposes of this section—
 
 #### (6) Relationship of recreation area to Boston-Logan International Airport
 
-&emsp;With respect to the recreation area, the present and future maintenance, operation, improvement and use of Boston-Logan International Airport and associated flight patterns from time to time in effect shall not be deemed to constitute the use of publicly owned land of a public park, recreation area, or other resource within the meaning of section 303(c) of title 49, and shall not be deemed to have a significant effect on natural, scenic,and recreation assets within the meaning of section 47101(h)(2) of title 49.
+&emsp;With respect to the recreation area, the present and future maintenance, operation, improvement and use of Boston-Logan International Airport and associated flight patterns from time to time in effect shall not be deemed to constitute the use of publicly owned land of a public park, recreation area, or other resource within the meaning of section 303(c) of title 49, and shall not be deemed to have a significant effect on natural, scenic, and recreation assets within the meaning of section 47101(h)(2) of title 49.
 
 #### (7) Management in accordance with integrated management plan
 
@@ -220,7 +220,7 @@ For the purposes of this section—
 
 #### (1) Establishment
 
-&emsp;The Secretary, acting through the Director of the National Park Service, shall establish an advisory committee to be known as theBoston Harbor Islands Advisory Council. The purpose of the Advisory Council shall be to represent various groups with interests in the recreation area and make recommendations to the Boston Harbor Islands Partnership on issues related to the development and implementation of the integrated resource management plan developed under subsection (f) of this section. The Advisory Council is encouraged to establish committees relating to specific recreation area management issues, including (but not limited to) education, tourism, transportation, natural resources, cultural and historic resources, and revenue-raising activities. Participation on any such committee shall not be limited to members of the Advisory Council.
+&emsp;The Secretary, acting through the Director of the National Park Service, shall establish an advisory committee to be known as the Boston Harbor Islands Advisory Council. The purpose of the Advisory Council shall be to represent various groups with interests in the recreation area and make recommendations to the Boston Harbor Islands Partnership on issues related to the development and implementation of the integrated resource management plan developed under subsection (f) of this section. The Advisory Council is encouraged to establish committees relating to specific recreation area management issues, including (but not limited to) education, tourism, transportation, natural resources, cultural and historic resources, and revenue-raising activities. Participation on any such committee shall not be limited to members of the Advisory Council.
 
 #### (2) Membership
 
@@ -242,7 +242,7 @@ For the purposes of this section—
 
 #### (2) Matching requirement
 
-&emsp;Amounts appropriated in any fiscal year to carry out this section may only be expended on a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
+&emsp;Amounts appropriated in any fiscal year to carry out this section may only be expendedon a matching basis in a ratio of at least three non-Federal dollars to every Federal dollar. The non-Federal share of the match may be in the form of cash, services, or in-kind contributions, fairly valued.
 
 (Pub. L. 104–333, div. I, title X, §1029, Nov. 12, 1996, 110 Stat. 4232; Pub. L. 105–355, title V, §513, Nov. 6, 1998, 112 Stat. 3266; Pub. L. 106–176, title I, §126, Mar. 10, 2000, 114 Stat. 30.)
 
@@ -265,4 +265,8 @@ Subsec. (g)(1). Pub. L. 106–176, §126(5), substituted “and revenue-raising 
 Subsec. (h)(2). Pub. L. 106–176, §126(6), substituted “ratio” for “ration”.
 
 1998—Subsec. (c)(3). Pub. L. 105–355 added par. (3).
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

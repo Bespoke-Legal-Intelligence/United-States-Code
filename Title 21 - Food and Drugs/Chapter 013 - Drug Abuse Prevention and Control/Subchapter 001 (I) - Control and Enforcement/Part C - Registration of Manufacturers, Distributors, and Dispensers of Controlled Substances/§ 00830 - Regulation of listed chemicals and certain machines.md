@@ -6,11 +6,11 @@
 
 (2) A record under this subsection shall be retrievable and shall include the date of the regulated transaction, the identity of each party to the regulated transaction, a statement of the quantity and form of the listed chemical, a description of the tableting machine or encapsulating machine, and a description of the method of transfer. Such record shall be available for inspection and copying by the Attorney General.
 
-(3) It is the duty of each regulated person who engages in a regulated transaction to identify each other party to the transaction. It is the duty of such other party to present proof of identity to the regulated person. The Attorney General shall specify by regulation the types of documents and other evidence that constitute proof of identity for purposes of this paragraph.
+(3) It is the duty of each regulated person who engages in a regulated transaction to identify each other party to the transaction. It is the duty of such other party to present proof ofidentity to the regulated person. The Attorney General shall specify by regulation the types of documents and other evidence that constitute proof of identity for purposes of this paragraph.
 
 #### (b) Reports to Attorney General
 
-(1) Each regulated person shall report to the Attorney General, in such form and manner asthe Attorney General shall prescribe by regulation—
+(1) Each regulated person shall report to the Attorney General, in such form and manner as the Attorney General shall prescribe by regulation—
 
 &emsp;(A) any regulated transaction involving an extraordinary quantity of a listed chemical, an uncommon method of payment or delivery, or any other circumstance that the regulated person believes may indicate that the listed chemical will be used in violation of this subchapter;
 
@@ -66,7 +66,7 @@ Mail order reporting.—(A) As used in this paragraph:
 
 #### (c) Confidentiality of information obtained by Attorney General; non-disclosure; exceptions
 
-(1) Except as provided in paragraph (2), any information obtained by the Attorney General under this section which is exempt from disclosure under section 552(a) of title 5, by reason ofsection 552(b)(4) of such title, is confidential and may not be disclosed to any person.
+(1) Except as provided in paragraph (2), any information obtained by the Attorney General under this section which is exempt from disclosure under section 552(a) of title 5, by reason of section 552(b)(4) of such title, is confidential and may not be disclosed to any person.
 
 (2) Information referred to in paragraph (1) may be disclosed only—
 

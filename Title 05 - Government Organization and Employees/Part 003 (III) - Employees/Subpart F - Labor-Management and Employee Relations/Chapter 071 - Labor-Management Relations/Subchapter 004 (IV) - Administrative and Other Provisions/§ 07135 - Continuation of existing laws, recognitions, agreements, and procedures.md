@@ -16,7 +16,7 @@ For the effective date of this chapter, referred to in text, as 90 days after th
 
 Executive Orders 11491, 11616, 11636, and 11838, referred to in subsec. (b), are set out as notes under section 7101 of this title.
 
-Executive Order 11787, referred to in subsec. (b), which was set out as a note under section 7701 of thistitle, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Executive Order 11787, referred to in subsec. (b), which was set out as a note under section 7701 of this title, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(E) the capacity of non-Federal facilities in the network to provide acute, long-term, and specialized treatment and rehabilitative services (described in section 7306(f)(1)(A) of this title), and determinations regarding the extent to which services to be provided in each service-delivery area and each facility in such area should be provided directly through facilities of the Department or through contract or other arrangements, including arrangements authorized under sections 8111 and 8153 of this title; and
 
-&emsp;&emsp;(F) a five-year plan for construction, replacement, or alteration projects in support of the approved mission of each facility in the network and a description of how those projects will improve access to care, or quality of care, for patients served in the network.
+&emsp;&emsp;(F) a five-year plan for construction, replacement, or alteration projects in supportof the approved mission of each facility in the network and a description of how those projects will improve access to care, or quality of care, for patients served in the network.
 
 &emsp;(4) A status report for each facility on progress toward—
 

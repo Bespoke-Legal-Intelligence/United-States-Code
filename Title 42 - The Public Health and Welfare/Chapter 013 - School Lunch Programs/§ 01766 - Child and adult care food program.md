@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(ii) the organization receives compensation from amounts granted to the States under title XX of the Social Security Act (42 U.S.C. 1397 et seq.) (but only if the organization receives compensation under that title for at least 25 percent of its enrolled children or 25 percent of its licensed capacity, whichever is less);
 
-&emsp;&emsp;(C) any public or private nonprofit organization acting as a sponsoring organization for one or more of the organizations described in subparagraph (A) or (B) or for an adult day care center (as defined in subsection (<i>o</i>)(2) of this section);
+&emsp;&emsp;(C) any public or private nonprofit organization acting as a sponsoring organizationfor one or more of the organizations described in subparagraph (A) or (B) or for an adult day care center (as defined in subsection (<i>o</i>)(2) of this section);
 
 &emsp;&emsp;(D) any other private organization acting as a sponsoring organization for, and that is part of the same legal entity as, one or more organizations that are—
 
@@ -154,7 +154,7 @@ Notification to applicants.—Not later than 30 days after the date on which an 
 
 &emsp;(ii)(I) requires periodic unannounced site visits at not less than 3-year intervals to sponsored child care centers and family or group day care homes to identify and prevent management deficiencies and fraud and abuse under the program;
 
-&emsp;(II) requires at least one scheduled site visit each year to sponsored child care centers and family or group day care homes to identify and prevent management deficiencies and fraud and abuse under the program and to improve program operations; and
+&emsp;(II) requires at least one scheduled site visit each year to sponsored child care centers and family or group day care homes to identifyand prevent management deficiencies and fraud and abuse under the program and to improve program operations; and
 
 &emsp;(III) requires at least one scheduled site visit at not less than 3-year intervals to sponsoring organizations and nonsponsored child care centers to identify and prevent management deficiencies and fraud and abuse under the program and to improve program operations; and
 
@@ -272,7 +272,7 @@ In general.—
 
 &emsp;(A)
 
-Requirement.—Funds paid to any State under this section shall be disbursed to eligible institutions by the State under agreements approved by the Secretary. Disbursements to any institution shall be made only for the purpose of assisting in providing meals to children attending institutions, or in family or group day care homes. Disbursement to any institution shall not be dependent upon the collection of moneys from participating children. All valid claims from such institutions shall be paid within forty-five days of receipt by the State. The State shall notify the institution within fifteen days of receipt of a claimif the claim as submitted is not valid because it is incomplete or incorrect.
+Requirement.—Funds paid to any State under this section shall be disbursed to eligible institutions by the State under agreements approved by the Secretary. Disbursements to any institution shall be made only for the purpose of assisting in providing meals to children attending institutions, or in family or group day care homes. Disbursement to any institution shall not be dependent upon the collection of moneys from participating children. All valid claims from such institutions shall be paid within forty-five days of receipt by the State. The State shall notify the institution within fifteen days of receipt of a claim if the claim as submitted is not valid because it is incomplete or incorrect.
 
 &emsp;(B)
 
@@ -332,7 +332,7 @@ Definition of tier i family or group day care home.—In this paragraph, the ter
 
 &emsp;&emsp;&emsp;&emsp;(aa) a family or group day care home that is located in a geographic area, as defined by the Secretary based on census data, in which at least 50 percent of the children residing in the area are members of households whose incomes meet the income eligibility guidelines for free or reduced price meals under section 1758 of this title;
 
-&emsp;&emsp;&emsp;&emsp;(bb) a family or group day care home that is located in an area served by a school enrolling elementary students in which at least 50 percent of the total number of children enrolled are certified eligible to receive free or reduced price school meals under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.); or
+&emsp;&emsp;&emsp;&emsp;(bb) a family or group day care home that is located in an area served by a school enrolling elementary students in which at least 50 percent of the total number of children enrolled are certified eligible to receive free or reduced priceschool meals under this chapter or the Child Nutrition Act of 1966 (42 U.S.C. 1771 et seq.); or
 
 &emsp;&emsp;&emsp;&emsp;(cc) a family or group day care home that is operated by a provider whose household meets the income eligibility guidelines for free or reduced price meals under section 1758 of this title and whose income is verified by the sponsoring organization of the home under regulations established by the Secretary.
 
@@ -358,7 +358,7 @@ In general.—
 
 &emsp;&emsp;&emsp;&emsp;(aa)
 
-Factors.—Except as provided in subclause (II), with respect to meals orsupplements served under this clause by a family or group day care home that does not meet the criteria set forth in clause (ii)(I), the reimbursement factors shall be 95 cents for lunches and suppers, 27 cents for breakfasts, and 13 cents for supplements.
+Factors.—Except as provided in subclause (II), with respect to meals or supplements served under this clause by a family or group day care home that does not meet the criteria set forth in clause (ii)(I), the reimbursement factors shall be 95 cents for lunches and suppers, 27 cents for breakfasts, and 13 cents for supplements.
 
 &emsp;&emsp;&emsp;&emsp;(bb)
 
@@ -394,7 +394,7 @@ Categorical eligibility.—In making a determination under item (aa), a family o
 
 &emsp;&emsp;&emsp;&emsp;(cc)
 
-Factors for children only.—A family or group day care home may elect to receive the reimbursement factors prescribed under clause (ii)(III) solely for the children participating in a program referred to in item (bb) if the home elects not to have income statements collected from parents or other caretakers.
+Factors for children only.—A family or group day care home may elect to receive the reimbursement factors prescribed under clause (ii)(III) solely for the children participating in a program referred to in item (bb) if the home elects not to have income statementscollected from parents or other caretakers.
 
 &emsp;&emsp;&emsp;(IV)
 
@@ -446,7 +446,7 @@ In general.—A State agency administering the school lunch program under this c
 
 &emsp;&emsp;&emsp;(II)
 
-Use of data from preceding school year.—In determining for a fiscal year or other annual period whether a home qualifies as a tier I family or group day care home under subparagraph (A)(ii)(I), the State agency administering the program under this section, and a family or group day care home sponsoring organization, shall use the most current available data at the time of the determination.
+Use of data from preceding school year.—In determining for a fiscal year or other annual period whether a home qualifies as a tier I family or group day carehome under subparagraph (A)(ii)(I), the State agency administering the program under this section, and a family or group day care home sponsoring organization, shall use the most current available data at the time of the determination.
 
 &emsp;&emsp;(iii)
 
@@ -506,7 +506,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 #### (<i>o</i>) Participation of older persons and chronically impaired disabled persons
 
-(1) For purposes of this section, adult day care centers shall be considered eligible institutionsfor reimbursement for meals or supplements served to persons 60 years of age or older or to chronically impaired disabled persons, including victims of Alzheimer's disease and related disorders with neurological and organic brain dysfunction. Reimbursement provided to such institutions for such purposes shall improve the quality of meals or level of services provided or increase participation in the program. Lunches served by each such institution for which reimbursement is claimed under this section shall provide, on the average, approximately 1/3 of the daily recommended dietary allowance established by the Food and Nutrition Board of the National Research Council of the National Academy of Sciences. Such institutions shall make reasonable efforts to serve meals that meet the special dietary requirements of participants, including efforts to serve foods in forms palatable to participants.
+(1) For purposes of this section, adult day care centers shall be considered eligible institutions for reimbursement for meals or supplements served to persons 60 years of age or older or to chronically impaired disabled persons, including victims of Alzheimer's disease and related disorders with neurological and organic brain dysfunction. Reimbursement provided to such institutions for such purposes shall improve the quality of meals or level of services provided or increase participation in the program. Lunches served by each such institution for which reimbursement is claimed under this section shall provide, on the average, approximately 1/3 of the daily recommended dietary allowance established by the Food and Nutrition Board of the National Research Council of the National Academy of Sciences. Such institutions shall make reasonable efforts to serve meals that meet the special dietary requirements of participants, including efforts to serve foods in forms palatable to participants.
 
 (2) For purposes of this subsection—
 
@@ -558,7 +558,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 &emsp;&emsp;(i) has a history of participation of for-profit organizations in the child care food program;
 
-&emsp;&emsp;(ii) allocates a significant proportion of the amounts it receives for child care under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\] in a manner that allowslow-income parents to choose the type of child care their children will receive;
+&emsp;&emsp;(ii) allocates a significant proportion of the amounts it receives for child care under title XX of the Social Security Act \[42 U.S.C. 1397 et seq.\] in a manner that allows low-income parents to choose the type of child care their children will receive;
 
 &emsp;&emsp;(iii) has other funding mechanisms that support parental choice for child care;
 
@@ -646,7 +646,7 @@ There are hereby authorized to be appropriated for each fiscal year such funds a
 
 #### (5) Limitation
 
-&emsp;The Secretary shall limit reimbursement under this subsection for meals served under a program to institutions located in seven States, of which five States shall be Illinois,Pennsylvania, Missouri, Delaware, and Michigan and two States shall be approved by the Secretary through a competitive application process.
+&emsp;The Secretary shall limit reimbursement under this subsection for meals served under a program to institutions located in seven States, of which five States shall be Illinois, Pennsylvania, Missouri, Delaware, and Michigan and two States shall be approved by the Secretary through a competitive application process.
 
 #### (s) Information concerning the special supplemental nutrition program for women, infants, and children
 
@@ -928,7 +928,7 @@ Subsec. (f)(3)(A). Pub. L. 101–147, §312(2), substituted “reduced price” 
 
 Subsec. (f)(3)(C). Pub. L. 101–147, §105(b)(1), inserted before period at end of first sentence “and expansion funds to finance the administrative expenses for such institutions to expand into low-income or rural areas”, inserted “and expansion funds” after “start-up funds” in second, fourth, and fifth sentences and after “Start-up funds” in third sentence, and inserted after first sentence “Institutions that have received start-up funds may also apply at a later date for expansion funds.”
 
-Subsec. (h)(1). Pub. L. 101–147, §131(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall donate agricultural commodities produced in the United States for use in institutions participating in the child care food program under this section. The value of such commodities (or cash in lieu of commodities) donated to each State for each school year shall be, at a minimum, the amount obtained by multiplying the number of lunches and suppers served in participating institutions in that State during that school year by the rate for commodities or cash in lieu thereof established for that school year under section 1755(e) of this title. Any State receiving assistance under this section for institutions participating in the child care food program may, upon application to the Secretary, receive cash in lieu of some or all of the commodities to which it would otherwise be entitled under this subsection. In determining whether to request cash in lieu of commodities, the State shall base its decision on the preferences of individual participating institutions within the State, unless this proves impracticable due to the small number of institutions preferring donated commodities.”
+Subsec. (h)(1). Pub. L. 101–147, §131(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “The Secretary shall donate agricultural commodities produced in the United States for use in institutions participating in the child care food program under this section. The value of such commodities (or cash in lieu of commodities) donated to each State foreach school year shall be, at a minimum, the amount obtained by multiplying the number of lunches and suppers served in participating institutions in that State during that school year by the rate for commodities or cash in lieu thereof established for that school year under section 1755(e) of this title. Any State receiving assistance under this section for institutions participating in the child care food program may, upon application to the Secretary, receive cash in lieu of some or all of the commodities to which it would otherwise be entitled under this subsection. In determining whether to request cash in lieu of commodities, the State shall base its decision on the preferences of individual participating institutions within the State, unless this proves impracticable due to the small number of institutions preferring donated commodities.”
 
 Subsec. (k). Pub. L. 101–147, §310(a)(4), redesignated subsec. (<i>l</i>) as (k) and struck out former subsec. (k) which related to study and report on maximum administrative payments reflecting costs of institutions.
 
@@ -1134,7 +1134,7 @@ Section 208(a) of Pub. L. 96–499 related to adjustments required under the for
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1752, 1758, 1759a, 1760, 1766a, 1769f, 1773, 1776 of this title.
+This section is referred to in sections 1752, 1758, 1759a, 1760, 1766a, 1769f, 1773, 1776 of this title; title 7 section 1638a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

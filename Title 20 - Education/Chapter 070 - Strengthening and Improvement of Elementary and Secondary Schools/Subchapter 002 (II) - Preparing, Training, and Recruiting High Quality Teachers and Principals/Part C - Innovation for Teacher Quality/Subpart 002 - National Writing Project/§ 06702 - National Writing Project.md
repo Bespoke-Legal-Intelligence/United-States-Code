@@ -22,7 +22,7 @@ The teacher training programs authorized in subsection (a) of this section shall
 
 &emsp;(2) train teachers who teach grades kindergarten through college;
 
-&emsp;(3) select teachers to become members of a National Writing Project teacher network whose members will conduct writing workshops for other teachers in the area served by each National Writing Project site; and
+&emsp;(3) select teachers to become members of a National Writing Project teacher networkwhose members will conduct writing workshops for other teachers in the area served by each National Writing Project site; and
 
 &emsp;(4) encourage teachers from all disciplines to participate in such teacher training programs.
 

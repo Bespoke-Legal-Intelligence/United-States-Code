@@ -30,7 +30,7 @@ Notwithstanding any provision of this chapter except as provided under this sect
 
 #### (1) Ownership of foreign utility companies by registered holding companies
 
-&emsp;Notwithstanding any provision of this chapter except as otherwise provided under this section, a registered holding company shall be permitted as of October 24, 1992 (without the need to apply for, or receive approval from the Commission) to acquire and hold the securities or an interest in the business, of one ormore foreign utility companies. The Commission shall promulgate rules or regulations regarding registered holding companies’ acquisition of interests in foreign utility companies which shall provide for the protection of the customers of a public utility company which is an associate company of a foreign utility company and the maintenance of the financial integrity of the registered holding company system.
+&emsp;Notwithstanding any provision of this chapter except as otherwise provided under this section, a registered holding company shall be permitted as of October 24, 1992 (without the need to apply for, or receive approval from the Commission) to acquire and hold the securities or an interest in the business, of one or more foreign utility companies. The Commission shall promulgate rules or regulations regarding registered holding companies’ acquisition of interests in foreign utility companies which shall provide for the protection of the customers of a public utility company which is an associate company of a foreign utility company and the maintenance of the financial integrity of the registered holding company system.
 
 #### (2) Issuance of securities
 
@@ -64,7 +64,7 @@ Nothing in this section shall—
 
 #### (2) Notice of acquisitions
 
-&emsp;Not later than 30 days after the consummation of the acquisition of an interest in a foreign utility company by an associate company of a public utility company that is subject to the jurisdiction of a State commission with respect to its retail electric or gas rates or by such public utility company, such associate company or such public utility company, shall provide notice of such acquisition to every State commission having jurisdiction over the retail electric or gas rates of such public utility company, in such form as may be prescribed by the State commission.
+&emsp;Not later than 30 days after the consummation of the acquisition of an interest in a foreign utility company by an associate companyof a public utility company that is subject to the jurisdiction of a State commission with respect to its retail electric or gas rates or by such public utility company, such associate company or such public utility company, shall provide notice of such acquisition to every State commission having jurisdiction over the retail electric or gas rates of such public utility company, in such form as may be prescribed by the State commission.
 
 #### (f) Prohibition on assumption of liabilities
 

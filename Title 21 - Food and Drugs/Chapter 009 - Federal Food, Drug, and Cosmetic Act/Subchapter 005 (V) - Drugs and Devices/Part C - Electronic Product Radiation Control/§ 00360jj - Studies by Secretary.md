@@ -4,7 +4,7 @@
 
 The Secretary shall conduct the following studies, and shall make a report or reports of the results of such studies to the Congress on or before January 1, 1970, and from time to time thereafter as he may find necessary, together with such recommendations for legislation as he may deem appropriate:
 
-(1) A study of present State and Federal control of health hazards from electronic productradiation and other types of ionizing radiation, which study shall include, but not be limited to—
+(1) A study of present State and Federal control of health hazards from electronic product radiation and other types of ionizing radiation, which study shall include, but not be limited to—
 
 &emsp;(A) control of health hazards from radioactive materials other than materials regulated under the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\];
 

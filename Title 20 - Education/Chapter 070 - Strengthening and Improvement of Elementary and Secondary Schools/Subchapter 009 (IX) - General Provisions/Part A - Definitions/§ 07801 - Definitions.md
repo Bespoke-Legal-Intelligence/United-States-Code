@@ -318,7 +318,7 @@ Except as otherwise provided, in this chapter:
 
 &emsp;&emsp;&emsp;(iv) improve classroom management skills;
 
-&emsp;&emsp;&emsp;(v)(I) are high quality, sustained, intensive, and classroom-focused in order tohave a positive and lasting impact on classroom instruction and the teacher's performance in the classroom; and
+&emsp;&emsp;&emsp;(v)(I) are high quality, sustained, intensive, and classroom-focused in order to have a positive and lasting impact on classroom instruction and the teacher's performance in the classroom; and
 
 &emsp;&emsp;&emsp;(II) are not 1-day or short-term workshops or conferences;
 
@@ -444,7 +444,7 @@ A prior section 7801, Pub. L. 89–10, title IX, §9101, as added Pub. L. 103–
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1003, 1687, 2302, 3902, 4020, 4514, 5502, 5891a, 6053e, 6054b, 6055h, 6056a, 6612, 6613, 6623, 6641, 9001, 9202 of this title; title 2 sections 117b–2, 117e; title 7 section 3152; title 10 section 2194; title 15 sections 2642, 2662; title 25 section 2021; title 26 section 1397E; title 29 sections 762, 794, 2618, 2801; title 42 sections 300j–21, 2000d–4a, 6107, 7382b, 9877, 9923, 11434a, 12511; title 47 section 254.
+This section is referred to in sections 1003, 1687, 2302, 3902, 4020, 4514, 5502, 5891a, 6612, 6613, 6623, 6641, 9202, 9501,9543, 9601 of this title; title 2 sections 117b–2, 117e; title 7 section 3152; title 10 section 2194; title 15 sections 2642, 2662; title 25 section 2021; title 26 section 1397E; title 29 sections 762, 794, 2618, 2801; title 42 sections 300j–21, 2000d–4a, 6107, 7382b, 9877, 9923, 11434a, 12511; title 47 section 254.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -242,6 +242,31 @@
 | (a) | Establishment. |
 | (b) | Management. |
 | (c) | No buffer zones. |
+| 539<i>l</i>. | Designation of James Peak Protection Area, Colorado. |
+| (a) | Findings and purpose. |
+| (b) | Designation. |
+| (c) | Map and boundary description. |
+| (d) | Management. |
+| (e) | Issues related to water. |
+| 539<i>l</i>–1. | Inholdings. |
+| (a) | State Land Board lands. |
+| (b) | Jim Creek inholding. |
+| (c) | Report. |
+| (d) | Management of acquisitions. |
+| 539<i>l</i>–2. | James Peak Fall River trailhead. |
+| (a) | Services and facilities. |
+| (b) | Personnel. |
+| (c) | Consultation. |
+| (d) | Report. |
+| 539<i>l</i>–3. | Loop trail study; authorization. |
+| (a) | Study. |
+| (b) | Establishment. |
+| 539<i>l</i>–4. | Other administrative provisions. |
+| (a) | Buffer zones. |
+| (b) | Rollins Pass Road. |
+| 539<i>l</i>–5. | Wilderness potential. |
+| (a) | In general. |
+| (b) | Evaluation of certain lands. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,0 +1,62 @@
+### §3028. Positions of importance and responsibility
+
+#### (a) Designation of positions
+
+The Secretary may designate positions in the Administration as being positions of importance and responsibility for which it is appropriate that officers of the Administration, if serving in those positions, serve in the grade of vice admiral, rear admiral, or rear admiral (lower half), as designated by the Secretary for each position.
+
+#### (b) Assignment of officers to designated positions
+
+The Secretary may assign officers to positions designated under subsection (a) of this section.
+
+#### (c) Director of NOAA Corps and Office of Marine and Aviation Operations
+
+The Secretary shall designate one position under this section as responsible for oversight of the vessel and aircraft fleets and for the administration of the commissioned officer corps. That position shall be filled by an officer on the lineal list serving in or above the grade of rear admiral (lower half). For the specific purpose of administering the commissioned officer corps, that position shall carry the title of Director of the National Oceanic and Atmospheric Administration Commissioned Officer Corps. For the specific purpose of administering the vessel and aircraft fleets, that position shall carry the title of Director of the Office of Marine and Aviation Operations.
+
+#### (d) Grade
+
+#### (1) Temporary appointment to grade designated for position
+
+&emsp;An officer assigned to a position under this section while so serving has the grade designated for that position, if appointed to that grade by the President, by and with the advice and consent of the Senate.
+
+#### (2) Reversion to permanent grade
+
+&emsp;An officer who has served in a grade above captain, upon termination of the officer's assignment to the position for which that appointment was made, shall, unless appointed or assigned to another position for which a higher grade is designated, revert to the grade and number the officer would have occupied but for serving in a grade above that of captain. In such a case, the officer shall be an extra number in that grade.
+
+#### (e) Number of officers appointed
+
+#### (1) Overall limit
+
+&emsp;The total number of officers serving on active duty at any one time in the grade of rear admiral (lower half) or above may not exceed four.
+
+#### (2) Limit by grade
+
+&emsp;The number of officers serving on active duty under appointments under this section may not exceed—
+
+&emsp;&emsp;(A) one in the grade of vice admiral;
+
+&emsp;&emsp;(B) two in the grade of rear admiral; and
+
+&emsp;&emsp;(C) two in the grade of rear admiral (lower half).
+
+#### (f) Pay and allowances
+
+An officer appointed to a grade under this section, while serving in that grade, shall have the pay and allowances of the grade to which appointed.
+
+#### (g) Effect of appointment
+
+An appointment of an officer under this section—
+
+&emsp;(1) does not vacate the permanent grade held by the officer; and
+
+&emsp;(2) creates a vacancy on the active list.
+
+(Pub. L. 107–372, title II, §228, Dec. 19, 2002, 116 Stat. 3086.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 853u of this title prior to repeal by Pub. L. 107–372.
+
+#### Appointment of Commissioned Officers
+
+Pub. L. 98–498, title III, §320(c)(2), Oct. 19, 1984, 98 Stat. 2309, provided that: “After the date of the enactment of this Act \[Oct. 19, 1984\], no appointment of a commissioned officer may be made under section 2(d) or 2(f) of Reorganization Plan Numbered 4 of 1970 (84 Stat. 2090, 5 U.S.C. App.).”
+

@@ -22,49 +22,67 @@ In carrying out the purposes of this chapter, the Administrator shall—
 
 &emsp;(1) advise the President through the Attorney General as to all matters relating to federally assisted juvenile delinquency programs and Federal policies regarding juvenile delinquency;
 
-&emsp;(2) assist operating agencies which have direct responsibilities for the prevention and treatment of juvenile delinquency in the development and promulgation of regulations, guidelines, requirements, criteria, standards, procedures, and budget requests in accordance with the policies, priorities, and objectives the Administrator establishes;
+&emsp;(2) assist operating agencies which have direct responsibilities for the prevention and treatment of juvenile delinquency in the development and promulgation of regulations,guidelines, requirements, criteria, standards, procedures, and budget requests in accordance with the policies, priorities, and objectives the Administrator establishes;
 
-&emsp;(3) conduct and support evaluations and studies of the performance and results achieved by Federal juvenile delinquency programs and activities and of the prospective performance and results that might be achieved by alternative programs and activities supplementary to or in lieu of those currently being administered;
+&emsp;(3) conduct and support evaluations and studies of the performance and results achieved by Federal juvenile delinquency programs and activities;
 
 &emsp;(4) implement Federal juvenile delinquency programs and activities among Federal departments and agencies and between Federal juvenile delinquency programs and activities and other Federal programs and activities which the Administrator determines may have an important bearing on the success of the entire Federal juvenile delinquency effort;
 
-&emsp;(5)(A) develop for each fiscal year, and publish annually in the Federal Register for public comment, a proposed comprehensive plan describing the particular activities which the Administrator intends to carry out under parts C and D of this subchapter in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts C and D of this subchapter; and
+&emsp;(5)(A) develop for each fiscal year, and publish annually in the Federal Register for public comment, a proposed comprehensive plan describing the particular activities which the Administrator intends to carry out under parts D and E of this subchapter in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E of this subchapter; and
 
-&emsp;(B) taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts C and D of this subchapter in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts C and D of this subchapter;
+&emsp;(B) taking into consideration comments received during the 45-day period beginning on the date the proposed plan is published, develop and publish a final plan, before December 31 of such fiscal year, describing the particular activities which the Administrator intends to carry out under parts D and E of this subchapter in such fiscal year, specifying in detail those activities designed to satisfy the requirements of parts D and E of this subchapter;
 
-&emsp;(6) provide for the auditing of monitoring systems required under section 5633(a)(15) of this title to review the adequacy of such systems; and
+&emsp;(6) provide for the auditing of monitoring systems required under section 5633(a)(15) <sup>1</sup> of this title to review the adequacy of such systems; and
 
-&emsp;(7) not later than 1 year after November 4, 1992, issue model standards for providing health care to incarcerated juveniles.
+&emsp;(7) not later than 1 year after November 2, 2002, issue model standards for providing mental health care to incarcerated juveniles.
 
 #### (c) Information, reports, studies, and surveys from other agencies
 
-The Administrator may require, through appropriate authority, Federal departments and agencies engaged in any activity involving any Federal juvenile delinquency program to provide the Administrator with such information and reports, and to conduct such studies and surveys, as the Administrator may deem to be necessary to carry out the purposes of this part.
+The Administrator may require, through appropriate authority, Federal departments and agencies engaged in any activity involving any Federal juvenile delinquency program to provide the Administrator with such information as may be appropriate to prevent the duplication of efforts, and to coordinate activities, related to the prevention of juvenile delinquency.
 
 #### (d) Delegation of functions
 
-The Administrator may delegate any of the functions of the Administrator under this subchapter, to any officer or employee of the Office.
+The Administrator shall have the sole authority to delegate any of the functions of the Administrator under this chapter.
 
 #### (e) Utilization of services and facilities of other agencies; reimbursement
 
 The Administrator is authorized to utilize the services and facilities of any agency of the Federal Government and of any other public agency or institution in accordance with appropriate agreements, and to pay for such services either in advance or by way of reimbursement as may be agreed upon.
 
-#### (f), (g) Repealed. Pub. L. 102–586, §2(c)(4), Nov. 4, 1992, 106 Stat. 4985
-
-#### (h) Coordination of functions of Administrator and Secretary of Health and Human Services
+#### (f) Coordination of functions of Administrator and Secretary of Health and Human Services
 
 All functions of the Administrator under this subchapter shall be coordinated as appropriate with the functions of the Secretary of Health and Human Services under subchapter III of this chapter.
 
-#### (i) Annual juvenile delinquency development statements of other agencies; procedure; contents; review by Administrator
+(Pub. L. 93–415, title II, §204, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 94–273, §§8(3), 12(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–115, §3(a)(3)(A), (b), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§7, 19(d), Dec. 8, 1980, 94 Stat. 2752, 2763; Pub. L. 98–473, title II, §622, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 100–690, title VII, §7253, Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, §2(c), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, §12205, Nov. 2, 2002, 116 Stat. 1872.)
 
-(1) The Administrator shall require through appropriate authority each Federal agency which administers a Federal juvenile delinquency program to submit annually to the Council a juvenile delinquency development statement. Such statement shall be in addition to any information, report, study, or survey which the Administrator may require under subsection (c) of this section.
+#### References in Text
 
-(2) Each juvenile delinquency development statement submitted to the Administrator under paragraph (1) shall contain such information, data, and analyses as the Administrator may require. Such analyses shall include an analysis of the extent to which the juvenile delinquency program of the Federal agency submitting such development statement conforms with and furthers Federal juvenile delinquency prevention and treatment goals and policies.
+Section 5633(a)(15) of this title, referred to in subsec. (b)(6), was redesignated section 5633(a)(14) of this title by Pub. L. 107–273, div. C, title II, §12209(1)(S), Nov. 2, 2002, 116 Stat. 1879.
 
-(3) The Administrator shall review and comment upon each juvenile delinquency development statement transmitted to the Administrator under paragraph (1). Such development statement, together with the comments of the Administrator, shall be included by the Federal agency involved in every recommendation or request made by such agency for Federal legislation which significantly affects juvenile delinquency prevention and treatment.
+#### Codification
 
-(Pub. L. 93–415, title II, §204, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 94–273, §§8(3), 12(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–115, §3(a)(3)(A), (b), Oct. 3, 1977, 91 Stat. 1048, 1049; Pub. L. 96–509, §§7, 19(d), Dec. 8, 1980, 94 Stat. 2752, 2763; Pub. L. 98–473, title II, §622, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 100–690, title VII, §7253, Nov. 18, 1988, 102 Stat. 4436; Pub. L. 102–586, §2(c), Nov. 4, 1992, 106 Stat. 4984.)
+November 2, 2002, referred to in subsec. (b)(7), was in the original “the date of the enactment of this paragraph” which was translated as meaning the date of enactment of Pub. L. 107–273, which amended par. (7) generally, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2002—Subsec. (b)(3). Pub. L. 107–273, §12205(1)(A), struck out “and of the prospective performance and results that might be achieved by alternative programs and activities supplementary to or in lieu of those currently being administered” before semicolon at end.
+
+Subsec. (b)(5). Pub. L. 107–273, §12205(1)(B), substituted “parts D and E” for “parts C and D” wherever appearing.
+
+Subsec. (b)(7). Pub. L. 107–273, §12205(1)(C), amended par. (7) generally. Prior to amendment, par. (7) read as follows: “not later than 1 year after November 4, 1992, issue model standards for providing health care to incarcerated juveniles.”
+
+Subsec. (c). Pub. L. 107–273, §12205(2), substituted “as may be appropriate to prevent the duplication of efforts, and to coordinate activities, related to the prevention of juvenile delinquency” for “and reports, and to conduct such studies and surveys, as the Administrator may deem to be necessary to carry out the purposes of this part”.
+
+Subsec. (d). Pub. L. 107–273, §12205(3), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The Administrator may delegate any of the functions of the Administrator under this subchapter, to any officer or employee of the Office.”
+
+Subsecs. (f), (h). Pub. L. 107–273, §12205(5), redesignated subsec. (h) as (f).
+
+Subsec. (i). Pub. L. 107–273, §12205(4), struck out subsec. (i) which read as follows:
+
+“(1) The Administrator shall require through appropriate authority each Federal agency which administers a Federal juvenile delinquency program to submit annually to the Council a juvenile delinquency development statement. Such statement shall be in addition to any information, report, study, or survey which the Administrator may require under subsection (c) of this section.
+
+“(2) Each juvenile delinquency development statement submitted to the Administrator under paragraph (1) shall contain such information, data, and analyses as the Administrator may require. Such analyses shall include an analysis of the extent to which the juvenile delinquency program of the Federal agency submitting such development statement conforms with and furthers Federal juvenile delinquency prevention and treatment goals and policies.
+
+“(3) The Administrator shall review and comment upon each juvenile delinquency development statement transmitted to the Administrator under paragraph (1). Such development statement, together with the comments of the Administrator, shall be included by the Federal agency involved in every recommendation or request made by such agency for Federal legislation which significantly affects juvenile delinquency prevention and treatment.”
 
 1992—Subsec. (a). Pub. L. 102–586, §2(c)(1), designated existing provisions as par. (1), substituted “develop objectives, priorities, and a long-term plan, and implement overall policy and a strategy to carry out such plan,” for “implement overall policy and develop objectives and priorities”, and added par. (2).
 
@@ -86,7 +104,7 @@ Subsec. (d). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (g) as (
 
 “(1) The first annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to information required by subsection (b)(5) of this section, a detailed statement of criteria developed by the Administrator for identifying the characteristics of juvenile delinquency, juvenile delinquency prevention, diversion of youths from the juvenile justice system, and the training, treatment, and rehabilitation of juvenile delinquents.
 
-“(2) The second such annual report shall contain, in addition to information required by subsection (b)(5) of this section, an identification of Federal programswhich are related to juvenile delinquency prevention or treatment, together with a statement of the moneys expended for each such program during the most recent complete fiscal year. Such identification shall be made by the Administrator through the use of criteria developed under paragraph (1).”
+“(2) The second such annual report shall contain, in addition to information required by subsection (b)(5) of this section, an identification of Federal programs which are related to juvenile delinquency prevention or treatment, together with a statement of the moneys expended for each such program during the most recent complete fiscal year. Such identification shall be made by the Administrator through the use of criteria developed under paragraph (1).”
 
 Subsec. (e). Pub. L. 100–690, §7253(c)(1), (3), redesignated subsec. (h) as (e) and struck out former subsec. (e) which read as follows: “The third such annual report submitted to the President and the Congress by the Administrator under subsection (b)(5) of this section shall contain, in addition to the comprehensive plan required by subsection (b)(5) of this section, a detailed statement of procedures to be used with respect to the submission of juvenile delinquency development statements to the Administrator by Federal agencies under subsection (<i>l</i>) of this section. Such statement submitted by the Administrator shall include a description of information, data, and analyses which shall be contained in each such development statement.”
 
@@ -154,6 +172,10 @@ Subsec. (<i>l</i>)(1). Pub. L. 95–115, §3(b)(8), inserted “Associate” bef
 
 Subsec. (b)(6). Pub. L. 94–273, §12(3), substituted “June” for “March”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, but amendment by section 7253(b)(1) of Pub. L. 100–690 not applicable with respect to fiscal year 1989, see section 7296(a), (b)(2) of Pub. L. 100–690, set out as a note under section 5601 of this title.
@@ -176,5 +198,7 @@ Advisory committees established after Jan. 5, 1973, to terminate not later than 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5616, 5654 of this title.
+This section is referred to in section 5616 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@ The provisions of the Act entitled “An Act appropriating the receipts from the
 
 #### References in Text
 
-This Act, referred to in first par., and the Act entitled “An Act appropriating the receipts from the sale and disposal of public lands in certain States and Territories to the construction of irrigation works for the reclamation of arid lands,” approved June seventeenth, nineteen hundred and two, referred to in second par., are act June 17, 1902, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this Title and Tables.
+This Act, referred to in first par., and the Act entitled “An Act appropriating the receipts from the sale and disposal of public lands in certain States and Territories to the construction of irrigation works for the reclamation of arid lands,” approved June seventeenth, nineteen hundred and two, referred to in second par.,are act June 17, 1902, popularly known as the Reclamation Act, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 371 of this Title and Tables.
 
 #### Codification
 

@@ -14,9 +14,11 @@ The Foundation is authorized and directed—
 
 &emsp;(5) to evaluate the status and needs of the various sciences and fields of engineering as evidenced by programs, projects, and studies undertaken by agencies of the Federal Government, by individuals, and by public and private research groups, employing by grant or contract such consulting services as it may deem necessary for the purpose of such evaluations; and to take into consideration the results of such evaluations in correlating the research and educational programs undertaken or supported by the Foundation with programs, projects, and studies undertaken by agencies of the Federal Government, by individuals, and by public and private research groups;
 
-&emsp;(6) to provide a central clearinghouse for the collection, interpretation, and analysis of data on scientific and engineering resources and to provide a source of information for policy formulation by other agencies of the Federal Government; and
+&emsp;(6) to provide a central clearinghouse for the collection, interpretation, and analysis of data on scientific and engineering resources and to provide a source of information for policy formulation by other agencies of the Federal Government;
 
-&emsp;(7) to initiate and maintain a program for the determination of the total amount of money for scientific and engineering research, including money allocated for the construction of the facilities wherein such research is conducted, received by each educational institution and appropriate nonprofit organization in the United States, by grant, contract, or other arrangement from agencies of the Federal Government, and to report annually thereon to the President and the Congress.
+&emsp;(7) to initiate and maintain a program for the determination of the total amount of money for scientific and engineering research, including money allocated for the construction of the facilities wherein such research is conducted, received by each educational institution and appropriate nonprofit organization in the United States, by grant, contract, or other arrangement from agencies of the Federal Government, and to report annually thereon to the President and the Congress; and
+
+&emsp;(8) to take a leading role in fostering and supporting research and education activities to improve the security of networked information systems.
 
 #### (b) Contracts, grants, loans, etc., for scientific and engineering activities; financing of programs
 
@@ -42,9 +44,11 @@ The Foundation shall render an annual report to the President for submission on 
 
 In carrying out subsection (a)(4) of this section, the Foundation is authorized to foster and support access by the research and education communities to computer networks which may be used substantially for purposes in addition to research and education in the sciences and engineering, if the additional uses will tend to increase the overall capabilities of the networks to support such research and education activities.
 
-(May 10, 1950, ch. 171, §3, 64 Stat. 149; Pub. L. 85–510, §1, July 11, 1958, 72 Stat. 353; Pub. L. 86–232, §1, Sept. 8, 1959, 73 Stat. 467; Pub. L. 90–407, §1, July 18, 1968, 82 Stat. 360; Pub. L. 92–372, §8, Aug. 10, 1972, 86 Stat. 528; Pub. L. 92–484, §10(b), Oct. 13, 1972, 86 Stat. 802; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–99, §12(a), formerly §14(a), Aug. 15, 1977, 91 Stat. 835, renumbered §12(a), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 99–159, title I, §§109(e)(2), 110(a)(1)–(11), Nov. 22, 1985, 99 Stat. 890, 891; Pub. L. 99–383, §7(a), Aug. 21, 1986, 100 Stat. 814; Pub. L. 102–476, §4, Oct. 23, 1992, 106 Stat. 2300; Pub. L. 102–588, title II, §217, Nov. 4, 1992, 106 Stat. 5117; Pub. L. 105–207, title II, §202(e), July 29, 1998, 112 Stat. 875.)
+(May 10, 1950, ch. 171, §3, 64 Stat. 149; Pub. L. 85–510, §1, July 11, 1958, 72 Stat. 353; Pub. L. 86–232, §1, Sept. 8, 1959, 73 Stat. 467; Pub. L. 90–407, §1, July 18, 1968, 82 Stat. 360; Pub. L. 92–372, §8, Aug. 10, 1972, 86 Stat. 528; Pub. L. 92–484, §10(b), Oct. 13, 1972, 86 Stat. 802; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–99, §12(a), formerly §14(a), Aug. 15, 1977, 91 Stat. 835, renumbered §12(a), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 99–159, title I, §§109(e)(2), 110(a)(1)–(11), Nov. 22, 1985, 99 Stat. 890, 891; Pub. L. 99–383, §7(a), Aug. 21, 1986, 100 Stat. 814; Pub. L. 102–476, §4, Oct. 23, 1992, 106 Stat. 2300; Pub. L. 102–588, title II, §217, Nov. 4, 1992, 106 Stat. 5117; Pub. L. 105–207, title II, §202(e), July 29, 1998, 112 Stat. 875; Pub. L. 107–305, §7, Nov. 27, 2002, 116 Stat. 2375.)
 
 #### Amendments
+
+2002—Subsec. (a)(8). Pub. L. 107–305 added par. (8).
 
 1998—Subsec. (g). Pub. L. 105–207 struck out the subsec. (g) enacted by Pub. L. 102–588. See 1992 Amendment note below.
 
@@ -216,7 +220,7 @@ Section 5 of Pub. L. 94–471 provided that:
 
 “(c) No contract, grant or other arrangement shall be made under this Section without the prior approval of the National Science Board.
 
-“(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the public and private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology and the Senate Committee on Labor and Public Welfare \[now the Committee on Labor and Human Resources\], not later than October 31, 1977. An interim report is required no later than March 1, 1977.”
+“(d) To assist the Congress in evaluating activities initiated pursuant to this Section, the Director of the National Science Foundation, in consultation with a review panel having a balanced representation from the scientific and nonscientific community and the publicand private sectors, is directed to prepare a comprehensive analysis and assessment of such activities to be submitted to the House Committee on Science and Technology and the Senate Committee on Labor and Public Welfare \[now the Committee on Labor and Human Resources\], not later than October 31, 1977. An interim report is required no later than March 1, 1977.”
 
 #### Development of Program Plan for Continuing Education in Science and Engineering
 

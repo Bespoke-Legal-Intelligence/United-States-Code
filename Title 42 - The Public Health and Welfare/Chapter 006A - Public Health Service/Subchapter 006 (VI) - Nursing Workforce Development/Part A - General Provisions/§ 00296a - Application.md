@@ -14,7 +14,7 @@ An application submitted under this section shall contain a specification by the
 
 #### (d) Linkages
 
-An application submitted under this section shall contain a description of the linkages withrelevant educational and health care entities, including training programs for other health professionals as appropriate, that the project to be funded under the grant or contract will establish.
+An application submitted under this section shall contain a description of the linkages with relevant educational and health care entities, including training programs for other health professionals as appropriate, that the project to be funded under the grant or contract will establish.
 
 (July 1, 1944, ch. 373, title VIII, §802, as added Pub. L. 105–392, title I, §123(4), Nov. 13, 1998, 112 Stat. 3564.)
 

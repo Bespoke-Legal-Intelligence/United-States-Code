@@ -2,7 +2,7 @@
 
 #### (a) Determinations, authorizations, etc., under authority of Foreign Service Act of 1946 and grievances, claims, or appeals filed and pending on effective date of this chapter
 
-All determinations, authorizations, regulations, orders, agreements, exclusive recognition of an organization or other actions made, issued, undertaken, entered into, or taken under the authority of the Foreign Service Act of 1946 or any other law repealed, modified, or affected by this chapter shall continue in full force and effect until modified, revoked, or superseded by appropriate authority. Any grievances, claims, or appeals which were filed or made under any such law and are pending resolution on February 15, 1981, shall continue to be governed by the provisions repealed, modified, or affected by this chapter.
+All determinations, authorizations, regulations, orders, agreements, exclusive recognition of an organization or other actions made, issued,undertaken, entered into, or taken under the authority of the Foreign Service Act of 1946 or any other law repealed, modified, or affected by this chapter shall continue in full force and effect until modified, revoked, or superseded by appropriate authority. Any grievances, claims, or appeals which were filed or made under any such law and are pending resolution on February 15, 1981, shall continue to be governed by the provisions repealed, modified, or affected by this chapter.
 
 #### (b) Increase in annuity or other right to benefits
 
@@ -18,7 +18,7 @@ References in law to provisions of the Foreign Service Act of 1946 or other law 
 
 The Foreign Service Act of 1946, referred to in subsecs. (a) and (c), is act Aug. 13, 1946, ch. 957, titles I to X, 60 Stat. 999, as amended, which was classified principally to chapter 14 (§801 et seq.) of this title, and was repealed by Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159.
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 96–465, Oct. 17, 1980, 94 Stat. 2071, as amended, known as the Foreign Service Act of 1980, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 3901 of this title and Tables.
 
 #### Codification
 

@@ -26,9 +26,9 @@ Subsection (b) is based upon section 163 of title 28, U.S.C., 1940 ed., which ap
 
 #### Amendments
 
-<b>1996</b>—Subsec. (d). Pub. L. 104–317 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “As used in this section, ‘district court’ includes the United States District Court for the District of the Canal Zone; and ‘district’ includes the territorial jurisdiction of that court.”
+1996—Subsec. (d). Pub. L. 104–317 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “As used in this section, ‘district court’ includes the United States District Court for the District of the Canal Zone; and ‘district’ includes the territorial jurisdiction of that court.”
 
-<b>1962</b>—Subsec. (d). Pub. L. 87–845 added subsec. (d).
+1962—Subsec. (d). Pub. L. 87–845 added subsec. (d).
 
 #### Effective Date of 1996 Amendment
 
@@ -36,7 +36,7 @@ Section 610(c) of Pub. L. 104–317 provided that: “The amendments made by thi
 
 #### Effective Date of 1962 Amendment
 
-Amendment by Pub. L. 87–845 effective Jan. 2, 1963, see section 25 of Pub. L. 87–845, set out as a note under section 14 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 87–845 effective Jan. 2, 1963, see section 25 of Pub. L. 87–845, set out as a note under section 414 of this title.
 
 #### Section Referred to in Other Sections
 

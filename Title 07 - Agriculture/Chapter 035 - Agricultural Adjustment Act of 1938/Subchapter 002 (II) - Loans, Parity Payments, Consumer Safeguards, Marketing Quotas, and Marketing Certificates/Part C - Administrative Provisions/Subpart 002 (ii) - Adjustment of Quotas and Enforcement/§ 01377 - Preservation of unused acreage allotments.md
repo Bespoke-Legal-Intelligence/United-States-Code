@@ -30,7 +30,9 @@ Section 806 of Pub. L. 95–113 provided that the amendment made by that section
 
 Section inapplicable to 1984 and subsequent crops of extra long staple cotton, see section 3 of Pub. L. 98–88, set out as a note under section 1342 of this title.
 
-Section inapplicable to 1996 through 2002 crops of upland cotton, see section 7301(a)(1)(G) of this title.
+Section inapplicable to 2002 through 2007 crops of upland cotton, see section 7992(a)(2) of this title.
+
+Section inapplicable to 1996 through 2001 crops of upland cotton, see section 7301(a)(1)(G) of this title.
 
 Section inapplicable to 1991 through 1995 crops of upland cotton, see section 502 of Pub. L. 101–624, set out as a note under section 1342 of this title.
 
@@ -48,5 +50,5 @@ Pub. L. 91–524, title VI, §601(1), Nov. 30, 1970, 84 Stat. 1371, as amended b
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1344, 1358, 7301 of this title.
+This section is referred to in sections 1344, 7301, 7992 of this title.
 

@@ -4,7 +4,17 @@
 
 #### (1) In general
 
-&emsp;The Secretary of State and the Administrator of the United States Agency for International Development, in consultation with appropriate nongovernmental organizations, shall establish and carry out programs and initiatives in foreign countries to assist in the safe integration, reintegration, or resettlement, as appropriate, of victims of trafficking. Such programs and initiatives shall be designed to meet the appropriate assistance needs of such persons and their children, as identified by the Task Force.
+&emsp;The Secretary of State and the Administrator of the United States Agency for International Development, in consultation with appropriate nongovernmental organizations, shall establish and carry out programs and initiatives in foreign countries to assist in the safe integration, reintegration, or resettlement, as appropriate, of victims of trafficking. Such programs and initiatives shall be designed to meet the appropriate assistance needs of such persons and their children, as identified by the Task Force. In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:
+
+&emsp;&emsp;(A) Support for local in-country nongovernmental organization-operated hotlines, culturally and linguistically appropriate protective shelters, and regional and international nongovernmental organization networks and databases on trafficking, including support to assist nongovernmental organizations in establishing service centers and systems that are mobile and extend beyond large cities.
+
+&emsp;&emsp;(B) Support for nongovernmental organizations and advocates to provide legal, social, and other services and assistance to trafficked individuals, particularly those individuals in detention.
+
+&emsp;&emsp;(C) Education and training for trafficked women and girls.
+
+&emsp;&emsp;(D) The safe integration or reintegration of trafficked individuals into an appropriate community or family, with full respect for the wishes, dignity, and safety of the trafficked individual.
+
+&emsp;&emsp;(E) Support for developing or increasing programs to assist families of victims in locating, repatriating, and treating their trafficked family members, in assisting the voluntary repatriation of these family members or their integration or resettlement into appropriate communities, and in providing them with treatment.
 
 #### (2) Additional requirement
 
@@ -44,7 +54,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) is willing to assist in every reasonable way in the investigation and prosecution of severe forms of trafficking in persons; and
 
-&emsp;&emsp;&emsp;&emsp;(II)(aa) has made a bona fide application for a visa under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, that has not been denied; or
+&emsp;&emsp;&emsp;&emsp;(II)(aa) has made a bona fide application for a visa under section1101(a)(15)(T) of title 8, as added by subsection (e) of this section, that has not been denied; or
 
 &emsp;&emsp;&emsp;&emsp;(bb) is a person whose continued presence in the United States the Attorney General is ensuring in order to effectuate prosecution of traffickers in persons.
 
@@ -130,7 +140,7 @@ Nothing in subsection (c) of this section shall be construed as creating any pri
 
 On or before October 31 of each year, the Attorney General shall submit a report to the appropriate congressional committees setting forth, with respect to the preceding fiscal year, the number, if any, of otherwise eligible applicants who did not receive visas under section 1101(a)(15)(T) of title 8, as added by subsection (e) of this section, or who were unable to adjust their status under section 1255(<i>l</i>) of title 8, solely on account of the unavailability of visas due to a limitation imposed by section 1184(n)(1) or 1255(<i>l</i>)(4)(A) of title 8.
 
-(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474.)
+(Pub. L. 106–386, div. A, §107, Oct. 28, 2000, 114 Stat. 1474; Pub. L. 107–228, div. A, title VI, §682(a), Sept. 30, 2002, 116 Stat. 1409.)
 
 #### References in Text
 
@@ -141,6 +151,14 @@ For the amendments made by this section, referred to in subsec. (e)(5), see Codi
 #### Codification
 
 Section is comprised of section 107 of Pub. L. 106–386. Subsec. (e)(1)–(4) of section 107 of Pub. L. 106–386 amended sections 1101, 1182, and 1184 of Title 8, Aliens and Nationality, and subsec. (f) of section 107 of Pub. L. 106–386 amended section 1255 of Title 8.
+
+#### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–228 inserted “In addition, such programs and initiatives shall, to the maximum extent practicable, include the following:” at end of introductory provisions and added subpars. (A) to (E).
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Section Referred to in Other Sections
 

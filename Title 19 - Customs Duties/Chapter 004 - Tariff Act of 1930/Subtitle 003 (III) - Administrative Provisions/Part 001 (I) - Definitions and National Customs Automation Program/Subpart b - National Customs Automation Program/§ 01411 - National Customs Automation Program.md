@@ -38,17 +38,23 @@ The Secretary shall establish the National Customs Automation Program (hereinaft
 
 #### (b) Participation in Program
 
-The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. Participation in the Program is voluntary.
+The Secretary shall by regulation prescribe the eligibility criteria for participation in the Program. The Secretary may, by regulation, require the electronic submission of information described in subsection (a) of this section or any other information required to be submitted to the Customs Service separately pursuant to this subpart.
 
 #### (c) Foreign-trade zones
 
 Not later than January 1, 2000, the Secretary shall provide for the inclusion of commercial importation data from foreign-trade zones under the Program.
 
-(June 17, 1930, ch. 497, title IV, §411, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2188; amended Pub. L. 106–36, title II, §2405, June 25, 1999, 113 Stat. 169.)
+(June 17, 1930, ch. 497, title IV, §411, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2188; amended Pub. L. 106–36, title II, §2405, June 25, 1999, 113 Stat. 169; Pub. L. 107–210, div. A, title III, §338, Aug. 6, 2002, 116 Stat. 980.)
 
 #### Amendments
 
+2002—Subsec. (b). Pub. L. 107–210 inserted second sentence and struck out former second sentence which read as follows: “Participation in the Program is voluntary.”
+
 1999—Subsec. (c). Pub. L. 106–36 added subsec. (c).
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

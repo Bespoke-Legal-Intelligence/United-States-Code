@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-The Assistant Secretary shall carry out a program for making grants to States under Stateplans approved under section 3027 of this title for any of the following supportive services:
+The Assistant Secretary shall carry out a program for making grants to States under State plans approved under section 3027 of this title for any of the following supportive services:
 
 &emsp;(1) health (including mental health), education and training, welfare, informational, recreational, homemaker, counseling, or referral services;
 
@@ -108,7 +108,7 @@ Subsecs. (c), (d). Pub. L. 106–501, §311(2), added subsecs. (c) and (d).
 
 1993—Subsec. (a). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner” in introductory and concluding provisions and in par. (14).
 
-Subsec. (a)(15). Pub. L. 103–171, §2(12), which directed amendment of par. (15) by substituting “subpart III of part A of subchapter XI of this chapter and section 3027(a)(16) of this title” for “clause (16) of section3027(a) of this title”, was executed by making the substitution for “paragraph (16) of section 3027(a) of this title” to reflect the probable intent of Congress and amendment by Pub. L. 102–375, §904(a)(15)(C). See 1992 Amendment note below.
+Subsec. (a)(15). Pub. L. 103–171, §2(12), which directed amendment of par. (15) by substituting “subpart III of part A of subchapter XI of this chapter and section 3027(a)(16) of this title” for “clause (16) of section 3027(a) of this title”, was executed by making the substitution for “paragraph (16) of section 3027(a) of this title” to reflect the probable intent of Congress and amendment by Pub. L. 102–375, §904(a)(15)(C). See 1992 Amendment note below.
 
 Subsec. (b)(1). Pub. L. 103–171, §3(a)(13), substituted “Assistant Secretary” for “Commissioner”.
 

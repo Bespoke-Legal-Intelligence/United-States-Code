@@ -10,7 +10,7 @@
 
 (c) As used in this section—
 
-&emsp;(1) the term “Indian” means any individual who is a member of an Indian tribe, or for thepurposes of this section is certified as an Indian artisan by an Indian tribe;
+&emsp;(1) the term “Indian” means any individual who is a member of an Indian tribe, or for the purposes of this section is certified as an Indian artisan by an Indian tribe;
 
 &emsp;(2) the terms “Indian product” and “product of a particular Indian tribe or Indian arts and crafts organization” has the meaning given such term in regulations which may be promulgated by the Secretary of the Interior;
 

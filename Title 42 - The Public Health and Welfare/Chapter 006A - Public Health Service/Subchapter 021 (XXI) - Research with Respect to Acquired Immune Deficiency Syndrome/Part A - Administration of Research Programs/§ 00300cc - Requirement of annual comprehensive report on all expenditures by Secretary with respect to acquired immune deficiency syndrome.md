@@ -22,7 +22,7 @@ The report required in subsection (a) of this section shall, with respect to acq
 
 &emsp;(7) any report required in this chapter to be submitted to the Secretary for inclusion in the report required in subsection (a) of this section.
 
-(July 1, 1944, ch. 373, title XXIII, §2301, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3063; amended Pub. L. 102–531, title III, §312(d)(16), Oct. 27, 1992, 106 Stat. 3505.)
+(July 1, 1944, ch. 373, title XXIII, §2301, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102Stat. 3063; amended Pub. L. 102–531, title III, §312(d)(16), Oct. 27, 1992, 106 Stat. 3505.)
 
 #### Prior Provisions
 
@@ -88,7 +88,7 @@ Pub. L. 103–43, title XIX, §1901(b), June 10, 1993, 107 Stat. 200, provided t
 
 “(1)
 
-In general.—The Secretary of Health and Human Services, acting through the National Institutes of Health, shall develop a plan for the appropriate inclusion of HIV-infected women, including pregnant women, HIV-infected infants, and HIV-infected children in studies conducted by or through the National Institutes of Health concerning the safety and efficacy ofHIV vaccines for the treatment and prevention of HIV infection. Such plan shall ensure the full participation of other Federal agencies currently conducting HIV vaccine studies and require that such studies conform fully to the requirements of part 46 of title 45, Code of Federal Regulations.
+In general.—The Secretary of Health and Human Services, acting through the National Institutes of Health, shall develop a plan for the appropriate inclusion of HIV-infected women, including pregnant women, HIV-infected infants, and HIV-infected children in studies conducted by or through the National Institutes of Health concerning the safety and efficacy of HIV vaccines for the treatment and prevention of HIV infection. Such plan shall ensure the full participation of other Federal agencies currently conducting HIV vaccine studies and require that such studies conform fully to the requirements of part 46 of title 45, Code of Federal Regulations.
 
 “(2)
 

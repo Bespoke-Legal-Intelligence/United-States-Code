@@ -23,18 +23,14 @@
 | [324\.](%C2%A7%2000324%20-%20Discharge%20of%20officers%3B%20termination%20of%20appointment.md) | Discharge of officers; termination of appointment. |
 | [325\.](%C2%A7%2000325%20-%20Relief%20from%20National%20Guard%20duty%20when%20ordered%20to%20active%20duty.md) | Relief from National Guard duty when ordered to active duty. |
 | [326\.](%C2%A7%2000326%20-%20Courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service%20composition%2C%20jurisdiction%2C%20and%20procedures.md) | Courts-martial of National Guard not in Federal service: composition, jurisdiction, and procedures. |
-| [327\.](%C2%A7%2000327%20-%20General%20courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service.md) | General courts-martial of National Guard not in Federal service. |
-| [328\.](%C2%A7%2000328%20-%20Special%20courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service.md) | Special courts-martial of National Guard not in Federal service. |
-| [329\.](%C2%A7%2000329%20-%20Summary%20courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service.md) | Summary courts-martial of National Guard not in Federal service. |
-| [330\.](%C2%A7%2000330%20-%20Confinement%20instead%20of%20fine.md) | Confinement instead of fine. |
-| [331\.](%C2%A7%2000331%20-%20Dismissal%20or%20dishonorable%20discharge.md) | Dismissal or dishonorable discharge. |
-| [332\.](%C2%A7%2000332%20-%20Compelling%20attendance%20of%20accused%20and%20witnesses.md) | Compelling attendance of accused and witnesses. |
-| [333\.](%C2%A7%2000333%20-%20Execution%20of%20process%20and%20sentence.md) | Execution of process and sentence. |
-| \[334, 335. | Repealed.\] |
+| [327\.](%C2%A7%2000327%20-%20Courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service%20convening%20authority.md) | Courts-martial of National Guard not in Federal service: convening authority. |
+| \[328 to 335. Repealed.\] |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–314, div. A, title V, §512(d), Dec. 2, 2002, 116 Stat. 2537, added item 327 and struck out former items 327 “General courts-martial of National Guard not in Federal service”, 328 “Special courts-martial of National Guard not in Federal service”, 329 “Summary courts-martial of National Guard not in Federal service”, 330 “Confinement instead of fine”, 331 “Dismissal or dishonorable discharge”, 332 “Compelling attendance of accused and witnesses”, and 333 “Execution of process and sentence”.
 
 1994—Pub. L. 103–337, div. A, title XVI, §1676(a)(4), Oct. 5, 1994, 108 Stat. 3019, substituted “National Guard officers:” for “officers: Army National Guard;” in items 309 and 310.
 
@@ -80,12 +76,7 @@
 - [&sect; 00324 - Discharge of officers; termination of appointment](%C2%A7%2000324%20-%20Discharge%20of%20officers%3B%20termination%20of%20appointment.md)
 - [&sect; 00325 - Relief from National Guard duty when ordered to active duty](%C2%A7%2000325%20-%20Relief%20from%20National%20Guard%20duty%20when%20ordered%20to%20active%20duty.md)
 - [&sect; 00326 - Courts-martial of National Guard not in Federal service composition, jurisdiction, and procedures](%C2%A7%2000326%20-%20Courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service%20composition%2C%20jurisdiction%2C%20and%20procedures.md)
-- [&sect; 00327 - General courts-martial of National Guard not in Federal service](%C2%A7%2000327%20-%20General%20courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service.md)
-- [&sect; 00328 - Special courts-martial of National Guard not in Federal service](%C2%A7%2000328%20-%20Special%20courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service.md)
-- [&sect; 00329 - Summary courts-martial of National Guard not in Federal service](%C2%A7%2000329%20-%20Summary%20courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service.md)
-- [&sect; 00330 - Confinement instead of fine](%C2%A7%2000330%20-%20Confinement%20instead%20of%20fine.md)
-- [&sect; 00331 - Dismissal or dishonorable discharge](%C2%A7%2000331%20-%20Dismissal%20or%20dishonorable%20discharge.md)
-- [&sect; 00332 - Compelling attendance of accused and witnesses](%C2%A7%2000332%20-%20Compelling%20attendance%20of%20accused%20and%20witnesses.md)
-- [&sect; 00333 - Execution of process and sentence](%C2%A7%2000333%20-%20Execution%20of%20process%20and%20sentence.md)
+- [&sect; 00327 - Courts-martial of National Guard not in Federal service convening authority](%C2%A7%2000327%20-%20Courts-martial%20of%20National%20Guard%20not%20in%20Federal%20service%20convening%20authority.md)
+- [&sect; 00328 to 333 - Repealed. Pub. L. 107&#8211;314, div. A, title V, &sect;512(c)(1), Dec. 2, 2002, 116 Stat. 2537](%C2%A7%2000328%20to%20333%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93314%2C%20div.%20A%2C%20title%20V%2C%20%C2%A7512%28c%29%281%29%2C%20Dec.%202%2C%202002%2C%20116%20Stat.%202537.md)
 - [&sect; 00334 - Repealed. Pub. L. 97&#8211;124, &sect;3, Dec. 29, 1981, 95 Stat. 1666](%C2%A7%2000334%20-%20Repealed.%20Pub.%20L.%2097%E2%80%93124%2C%20%C2%A73%2C%20Dec.%2029%2C%201981%2C%2095%20Stat.%201666.md)
 - [&sect; 00335 - Repealed. Pub. L. 98&#8211;525, title IV, &sect;414(b)(2)(A), Oct. 19, 1984, 98 Stat. 2519](%C2%A7%2000335%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93525%2C%20title%20IV%2C%20%C2%A7414%28b%29%282%29%28A%29%2C%20Oct.%2019%2C%201984%2C%2098%20Stat.%202519.md)

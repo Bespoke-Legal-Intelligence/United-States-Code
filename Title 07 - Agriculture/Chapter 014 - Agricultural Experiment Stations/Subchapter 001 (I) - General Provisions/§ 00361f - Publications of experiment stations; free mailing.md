@@ -16,3 +16,7 @@ Section was formerly classified to section 377 of this title. See section 361g o
 
 “United States Postal Service” substituted in text for “Postmaster General” pursuant to Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service, which abolished office of Postmaster General of Post Office Department and transferred its functions to United States Postal Service.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 361g of this title.
+

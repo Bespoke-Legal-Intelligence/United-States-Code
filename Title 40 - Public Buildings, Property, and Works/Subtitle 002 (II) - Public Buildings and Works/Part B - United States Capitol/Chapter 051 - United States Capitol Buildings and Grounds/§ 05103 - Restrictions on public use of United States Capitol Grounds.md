@@ -1,0 +1,28 @@
+### §5103. Restrictions on public use of United States Capitol Grounds
+
+Public travel in, and occupancy of, the United States Capitol Grounds is restricted to the roads, walks, and places prepared for that purpose.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1176.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+5103
+
+40:193b.
+
+July 31, 1946, ch. 707, §2, 60 Stat. 718.
+
+The words “by flagging, paving, or otherwise” are omitted as unnecessary.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 5106, 5107, 5109 of this title; title 2 sections 1819, 1961, 1970, 2021, 2161.
+

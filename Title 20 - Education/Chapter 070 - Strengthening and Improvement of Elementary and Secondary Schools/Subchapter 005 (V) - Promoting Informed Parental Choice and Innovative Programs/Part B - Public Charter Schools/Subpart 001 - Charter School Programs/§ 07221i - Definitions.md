@@ -54,7 +54,7 @@ The Age Discrimination Act of 1975, referred to in par. (1)(G), is title III of 
 
 The Civil Rights Act of 1964, referred to in par. (1)(G), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Education Amendments of 1972, referred to in par. (1)(G), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
+The Education Amendments of 1972, referred to in par. (1)(G), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
 
 The Individuals with Disabilities Education Act, referred to in par. (1)(G), is title VI of Pub. L. 91–230, Apr. 13, 1970, 84 Stat. 175, as amended. Part B of the Act is classified generally to subchapter II (§1411 et seq.) of chapter 33 of this title. For complete classification of this Act to the Code, see section 1400 of this title and Tables.
 

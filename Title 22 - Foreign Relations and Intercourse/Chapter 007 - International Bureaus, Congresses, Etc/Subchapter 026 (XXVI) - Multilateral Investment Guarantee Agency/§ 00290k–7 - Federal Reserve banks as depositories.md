@@ -1,6 +1,6 @@
 ### §290k–7. Federal Reserve banks as depositories
 
-Any Federal Reserve bank that is requested to do so by the Agency shall act as its depository or as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
+Any Federal Reserve bank that is requested to do so by the Agency shall act as its depositoryor as its fiscal agent, and the Board of Governors of the Federal Reserve System shall supervise and direct the carrying out of these functions by the Federal Reserve banks.
 
 (Pub. L. 100–202, §101(e) \[title I\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–134.)
 

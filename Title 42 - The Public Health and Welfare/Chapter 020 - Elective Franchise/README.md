@@ -480,6 +480,27 @@ Duties of other Federal officials.
 |  |  |
 | :--- | ---: |
 | 1973ff–1. | State responsibilities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Designation of single State office to provide information on registration and absentee ballot procedures for all voters in State.
+
+(c)
+
+Report on number of absentee ballots transmitted and received.
+
+(d)
+
+Registration notification.
+
+|  |  |
+| :--- | ---: |
 | 1973ff–2. | Federal write-in absentee ballot for overseas voters in general elections for Federal office. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -529,6 +550,10 @@ Revision of official post card form.
 (d)
 
 No effect on voter removal programs.
+
+(e)
+
+Prohibition of refusal of applications on grounds of early submission.
 
 |  |  |
 | :--- | ---: |

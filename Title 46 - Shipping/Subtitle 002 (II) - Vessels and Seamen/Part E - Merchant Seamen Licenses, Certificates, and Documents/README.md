@@ -10,7 +10,7 @@ Part E establishes the authority for the Coast Guard to issue, suspend, and revo
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 3315, 6301, 14305 of this title.
+This part is referred to in sections 3315, 6301, 14305, 70105 of this title.
 
 
 ---

@@ -10,7 +10,7 @@ The Secretary shall consult and cooperate with the State of Minnesota and its po
 
 #### (c) Land acquisition
 
-Within the boundaries of the Area, the Secretary is authorized, in consultation with the State of Minnesota and the affected local governmental unit, to acquire land and interests therein by donation, purchase with donated or appropriated funds, exchange or transfer, except as provided in paragraphs (1) and (2).
+Within the boundaries of the Area, the Secretary is authorized, in consultation with theState of Minnesota and the affected local governmental unit, to acquire land and interests therein by donation, purchase with donated or appropriated funds, exchange or transfer, except as provided in paragraphs (1) and (2).
 
 &emsp;(1) Any lands or interests therein owned by the State of Minnesota or any political subdivision thereof may be acquired only by donation.
 

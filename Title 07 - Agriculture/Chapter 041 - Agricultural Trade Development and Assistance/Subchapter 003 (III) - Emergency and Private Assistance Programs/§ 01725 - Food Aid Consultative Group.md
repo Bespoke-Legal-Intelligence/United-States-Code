@@ -34,15 +34,17 @@ The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Group.
 
 #### (f) Termination
 
-The Group shall terminate on December 31, 2002.
+The Group shall terminate on December 31, 2007.
 
-(July 10, 1954, ch. 469, title II, §205, as added Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1535; amended Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3639; Pub. L. 104–127, title II, §210, Apr. 4, 1996, 110 Stat. 955.)
+(July 10, 1954, ch. 469, title II, §205, as added Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1535; amended Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3639; Pub. L. 104–127, title II, §210, Apr. 4, 1996, 110 Stat. 955; Pub. L. 107–171, title III, §3005, May 13, 2002, 116 Stat. 282.)
 
 #### References in Text
 
 The Federal Advisory Committee Act, referred to in subsec. (e), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2002—Subsec. (f). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1996—Subsec. (a). Pub. L. 104–127, §210(1), substituted “eligible organizations described in section 1722(d)(1) of this title” for “private voluntary organizations, cooperatives and indigenous non-governmental organizations”.
 
@@ -63,4 +65,8 @@ Amendment by Pub. L. 101–624 effective Jan. 1, 1991, see section 1513 of Pub. 
 #### Effective Date
 
 Section effective Jan. 1, 1967, see section 5 of Pub. L. 89–808, set out as an Effective Date of 1966 Amendment note under section 1691 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1722 of this title.
 

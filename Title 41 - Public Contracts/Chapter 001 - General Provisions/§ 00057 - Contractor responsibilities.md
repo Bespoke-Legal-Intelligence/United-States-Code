@@ -10,7 +10,7 @@ Each contracting agency shall include in each prime contract awarded by such age
 
 #### (c) Reporting requirement; supplying information as favorable evidence of responsibility
 
-(1)(A) Whenever a prime contractor or subcontractor has reasonable grounds to believethat a violation of section 53 of this title may have occurred, the prime contractor or subcontractor shall promptly report the possible violation in writing.
+(1)(A) Whenever a prime contractor or subcontractor has reasonable grounds to believe that a violation of section 53 of this title may have occurred, the prime contractor or subcontractor shall promptly report the possible violation in writing.
 
 (B) A contractor shall make the reports required by subparagraph (A) to the inspector general of the contracting agency, the head of the contracting agency if the agency does not have an inspector general, or the Department of Justice.
 

@@ -32,9 +32,9 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–272, §4(a), struck out provisions which had divided Eastern District into a Northern Division and a Southern Division.
+1970—Subsec. (a). Pub. L. 91–272, §4(a), struck out provisions which had divided Eastern District into a Northern Division and a Southern Division.
 
 Subsec. (b). Pub. L. 91–272, §4(b), struck out provisions which had divided Western District into a Northern Division and a Southern Division.
 
-<b>1962</b>—Subsec. (a)(2). Pub. L. 87–699 provided for holding court at Richland.
+1962—Subsec. (a)(2). Pub. L. 87–699 provided for holding court at Richland.
 

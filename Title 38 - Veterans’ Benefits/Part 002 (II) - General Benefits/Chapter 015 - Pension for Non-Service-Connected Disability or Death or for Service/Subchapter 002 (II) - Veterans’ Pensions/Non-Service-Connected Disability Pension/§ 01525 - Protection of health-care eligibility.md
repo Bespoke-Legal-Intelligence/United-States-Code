@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–262, §101(e)(1)(A), substituted “section 1712(d) of this title” for “section1712(h) of this title and special priority with respect to such care and services under clauses (5) and (6) of section 1712(i)”.
+1996—Subsec. (a). Pub. L. 104–262, §101(e)(1)(A), substituted “section 1712(d) of this title” for “section 1712(h) of this title and special priority with respect to such care and services under clauses (5) and (6) of section 1712(i)”.
 
 Subsec. (b). Pub. L. 104–262, §101(e)(1)(B), substituted “remuneration” for “renumeration”.
 

@@ -22,7 +22,7 @@ For the purposes of this section, World War II shall be deemed to have begun on 
 
 #### (e) Inapplicability to certain persons
 
-This section shall not apply to any person who during World War II served in the armed forces of a country while such country was at war with the United States
+This section shall not apply to any person who during World War II served in the armed forcesof a country while such country was at war with the United States
 
 (June 27, 1952, ch. 477, title III, ch. 2, §327, 66 Stat. 248; Pub. L. 101–649, title IV, §407(d)(7), Nov. 29, 1990, 104 Stat. 5042.)
 
@@ -33,6 +33,10 @@ Section 323 of the Nationality Act of 1940, referred to in subsec. (c), which wa
 #### Amendments
 
 1990—Subsec. (a). Pub. L. 101–649 substituted “the Attorney General or before a court described in section 1421(b) of this title” for “any naturalization court specified in section 1421(a) of this title” and inserted “and by the Attorney General to the Secretary of State” before period at end.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

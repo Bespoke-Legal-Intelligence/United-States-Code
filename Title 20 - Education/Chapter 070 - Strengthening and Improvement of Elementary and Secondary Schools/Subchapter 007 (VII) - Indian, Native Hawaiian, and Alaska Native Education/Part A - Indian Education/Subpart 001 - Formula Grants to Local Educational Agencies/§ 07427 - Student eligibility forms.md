@@ -40,7 +40,7 @@ The forms and the standards of proof (including the standard of good faith compl
 
 #### (e) Documentation
 
-For purposes of determining whether a child is eligible to be counted for the purpose of computing the amount of a grant award under section 7423 of this title, the membership of the child, or any parent or grandparent of the child, in a tribe or band of Indians (as so defined) may be established by proof other than an enrollment number, notwithstanding the availability of an enrollment number for a member of such tribe or band. Nothing in subsection (b) of this section shall be construed to require the furnishing of an enrollment number.
+For purposes of determining whether a child is eligible to be counted for the purpose of computing the amount of a grant award under section 7423 of this title, the membership of the child, or any parent or grandparent of the child, in a tribe or band of Indians (as so defined) may be established by proof other than an enrollmentnumber, notwithstanding the availability of an enrollment number for a member of such tribe or band. Nothing in subsection (b) of this section shall be construed to require the furnishing of an enrollment number.
 
 #### (f) Monitoring and evaluation review
 
@@ -90,7 +90,7 @@ The Indian Elementary and Secondary School Assistance Act, referred to in subsec
 
 #### Prior Provisions
 
-A prior section 7427, Pub. L. 89–10, title VII, §7117, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3727, related to intensified instruction for limitedEnglish proficient students, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 7427, Pub. L. 89–10, title VII, §7117, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3727, related to intensified instruction for limited English proficient students, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 #### Section Referred to in Other Sections
 

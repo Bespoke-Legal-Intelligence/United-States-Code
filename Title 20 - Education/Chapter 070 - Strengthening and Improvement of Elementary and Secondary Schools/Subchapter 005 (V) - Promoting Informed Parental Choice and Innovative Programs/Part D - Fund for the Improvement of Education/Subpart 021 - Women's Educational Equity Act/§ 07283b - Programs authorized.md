@@ -12,7 +12,7 @@ The Secretary is authorized—
 
 &emsp;(4) to coordinate gender equity programs and activities with other Federal agencies with jurisdiction over education and related programs;
 
-&emsp;(5) to assist the Assistant Secretary of the Office of Educational Research and Improvement in identifying research priorities related to education equity for women and girls; and
+&emsp;(5) to assist the Director of the Institute of Education Sciences in identifying research priorities related to education equity for women and girls; and
 
 &emsp;(6) to perform any other activities consistent with achieving the purposes of this subpart.
 
@@ -64,7 +64,7 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;&emsp;(III) innovative approaches to school-community partnerships for educational equity; and
 
-&emsp;&emsp;(B) for research and development, which shall be coordinated with each of the research institutes of the Office of Educational Research and Improvement to avoid duplication of research efforts, designed to advance gender equity nationwide and to help make policies and practices in educational agencies and institutions, and local communities, gender equitable, including—
+&emsp;&emsp;(B) for research and development, which shall be coordinated with each of the National Education Centers of the Institute of Education Sciences to avoid duplication of research efforts, designed to advance gender equity nationwide and to help make policies and practices in educational agencies and institutions, and local communities, gender equitable, including—
 
 &emsp;&emsp;&emsp;(i) research and development of innovative strategies and model training programs for teachers and other education personnel;
 
@@ -84,13 +84,19 @@ The Secretary is authorized—
 
 &emsp;&emsp;&emsp;(ix) the development of guidance and counseling activities, including career education programs, designed to ensure gender equity.
 
-(Pub. L. 89–10, title V, §5613, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1868.)
+(Pub. L. 89–10, title V, §5613, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1868; amended Pub. L. 107–279, title IV, §404(d)(7), Nov. 5, 2002, 116 Stat. 1986.)
 
 #### References in Text
 
-The Education Amendments of 1972, referred to in subsec. (b)(2)(A)(i), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (b)(2)(A)(i), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (b)(2)(A)(xi), (B)(viii), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+#### Amendments
+
+2002—Subsec. (a)(5). Pub. L. 107–279, §404(d)(7)(A), substituted “Director of the Institute of Education Sciences” for “Assistant Secretary of the Office of Educational Research and Improvement”.
+
+Subsec. (b)(2)(B). Pub. L. 107–279, §404(d)(7)(B), substituted “National Education Centers of the Institute of Education Sciences” for “research institutes of the Office of Educational Research and Improvement” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

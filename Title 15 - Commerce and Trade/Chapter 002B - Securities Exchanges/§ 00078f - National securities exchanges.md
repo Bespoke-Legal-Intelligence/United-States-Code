@@ -12,7 +12,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;(2) Subject to the provisions of subsection (c) of this section, the rules of the exchange provide that any registered broker or dealer or natural person associated with a registered broker or dealer may become a member of such exchange and any person may become associated with a member thereof.
 
-&emsp;(3) The rules of the exchange assure a fair representation of its members in the selection of its directors and administration of its affairs and provide that one or more directors shall be representative of issuers and investors and not be associated with a member of the exchange, broker, or dealer.
+&emsp;(3) The rules of the exchange assure a fair representation of its members in the selection of its directors and administration of its affairs and provide that one or more directors shall be representative of issuers and investorsand not be associated with a member of the exchange, broker, or dealer.
 
 &emsp;(4) The rules of the exchange provide for the equitable allocation of reasonable dues, fees, and other charges among its members and issuers and other persons using its facilities.
 
@@ -100,7 +100,7 @@ An exchange shall not be registered as a national securities exchange unless the
 
 &emsp;(2) a Commission rule or ruling under subparagraph (B) of this paragraph limiting the petitioner's cross-examination or rebuttal submissions,
 
-> has precluded full disclosure and proper resolution of disputed issues of material fact whichwere necessary for fair determination by the Commission.
+> has precluded full disclosure and proper resolution of disputed issues of material fact which were necessary for fair determination by the Commission.
 
 #### (f) Compliance of non-members with exchange rules
 
@@ -168,7 +168,7 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 &emsp;&emsp;An exchange that registered under paragraph (1) of this subsection shall also be exempt from submitting proposed rule changes pursuant to section 78s(b) of this title, except that—
 
-&emsp;&emsp;&emsp;(i) such exchange shall file proposed rule changes related to higher margin levels, fraud or manipulation, recordkeeping, reporting, listing standards, or decimal pricing for security futures products, sales practices for security futures products for persons who effect transactions in security futures products, or rules effectuating such exchange's obligation to enforce the securities laws pursuant to section 78s(b)(7) of this title;
+&emsp;&emsp;&emsp;(i) such exchange shall file proposed rule changes related to higher margin levels, fraud or manipulation, recordkeeping, reporting, listing standards, or decimal pricing for security futures products, sales practices for security futures products for persons who effect transactions in security futures products, or rules effectuating such exchange's obligation to enforce thesecurities laws pursuant to section 78s(b)(7) of this title;
 
 &emsp;&emsp;&emsp;(ii) such exchange shall file pursuant to sections 78s(b)(1) and 78s(b)(2) of this title proposed rule changes related to margin, except for changes resulting in higher margin levels; and
 
@@ -232,9 +232,9 @@ The Commission, by rule or order, as it deems necessary or appropriate in the pu
 
 &emsp;&emsp;(I) require that procedures be in place for coordinated surveillance among the market on which the security futures product is traded, any market on which any security underlying the security futures product is traded, and other markets on which any related security is traded to detect manipulation and insider trading;
 
-&emsp;&emsp;(J) require that the market on which the security futures product is traded has in place audit trails necessary or appropriate to facilitate the coordinated surveillance required in subparagraph (I);
+&emsp;&emsp;(J) require that the market on which the security futures product is traded has in place audit trails necessary or appropriateto facilitate the coordinated surveillance required in subparagraph (I);
 
-&emsp;&emsp;(K) require that the market on which the security futures product is traded has in place procedures to coordinate trading halts between such market and any market onwhich any security underlying the security futures product is traded and other markets on which any related security is traded; and
+&emsp;&emsp;(K) require that the market on which the security futures product is traded has in place procedures to coordinate trading halts between such market and any market on which any security underlying the security futures product is traded and other markets on which any related security is traded; and
 
 &emsp;&emsp;(L) require that the margin requirements for a security futures product comply with the regulations prescribed pursuant to section 78g(c)(2)(B) of this title, except that nothing in this subparagraph shall be construed to prevent a national securities exchange or national securities association from requiring higher margin levels for a security futures product when it deems such action to be necessary or appropriate.
 
@@ -284,7 +284,7 @@ Consistent with this chapter, each national securities exchange registered pursu
 
 &emsp;(1) rules of such national securities exchange of the type specified in section 78<i>o</i>(c)(3)(B) of this title involving security futures products; and
 
-&emsp;(2) similar rules of national securities exchanges registered pursuant to subsection (g)of this section and national securities associations registered pursuant to section 78<i>o</i>–3(k) of this title involving security futures products.
+&emsp;(2) similar rules of national securities exchanges registered pursuant to subsection (g) of this section and national securities associations registered pursuant to section 78<i>o</i>–3(k) of this title involving security futures products.
 
 #### (j) Procedures and rules for security future products
 
@@ -352,7 +352,7 @@ Review of filings prior to effective date.—Prior to the effective date of regu
 
 “(b)
 
-Effect on Existing Authority.—The amendments made by this title \[amending this section and sections 78n and 78<i>o</i>–3 of this title\] shall not limit the authority of the Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or preclude the Commission or such association or exchange from imposing, under any other such provision, a remedy orprocedure required to be imposed under such amendments.”
+Effect on Existing Authority.—The amendments made by this title \[amending this section andsections 78n and 78<i>o</i>–3 of this title\] shall not limit the authority of the Securities and Exchange Commission, a registered securities association, or a national securities exchange under any provision of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or preclude the Commission or such association or exchange from imposing, under any other such provision, a remedy or procedure required to be imposed under such amendments.”
 
 #### Effective Date of 1975 Amendment
 

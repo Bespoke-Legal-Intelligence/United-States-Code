@@ -1,14 +1,12 @@
 ### §10601. Fishing agreements
 
-(a) Before proceeding on a voyage, the master or individual in charge of a fishing vessel, fish processing vessel, or fish tender vessel shall make a fishing agreement in writing with each seaman enployed <sup>1</sup> on board if the vessel is—
+(a) Before proceeding on a voyage, the owner, charterer, or managing operator, or a representative thereof, including the master or individual in charge, of a fishing vessel, fish processing vessel, or fish tender vessel shall make a fishing agreement in writing with each seaman employed on board if the vessel is—
 
 &emsp;(1) at least 20 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title; and
 
 &emsp;(2) on a voyage from a port in the United States.
 
-(b) The agreement shall be signed also by the owner of the vessel.
-
-(c) The agreement shall—
+(b) The agreement shall—
 
 &emsp;(1) state the period of effectiveness of the agreement;
 
@@ -16,7 +14,7 @@
 
 &emsp;(3) include other agreed terms.
 
-(Pub. L. 100–424, §6(a), Sept. 9, 1988, 102 Stat. 1591; Pub. L. 104–324, title VII, §739, Oct. 19, 1996, 110 Stat. 3942.)
+(Pub. L. 100–424, §6(a), Sept. 9, 1988, 102 Stat. 1591; Pub. L. 104–324, title VII, §739, Oct. 19, 1996, 110 Stat. 3942; Pub. L. 107–295, title IV, §441(a), (b), Nov. 25, 2002, 116 Stat. 2131.)
 
 Historical and Revision Notes
 
@@ -30,11 +28,17 @@ Historical and Revision Notes
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–295, §441(a), (b)(1), in introductory provisions, inserted “owner, charterer, or managing operator, or a representative thereof, including the” after “on a voyage, the” and comma after “individual in charge” and substituted “employed” for “enployed”.
+
+Subsecs. (b), (c). Pub. L. 107–295, §441(b)(2), (3), redesignated subsec. (c) as (b) and struck out former subsec. (b) which read as follows: “The agreement shall be signed also by the owner of the vessel.”
+
 1996—Subsec. (a)(1). Pub. L. 104–324 inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “20 gross tons”.
+
+#### Agreements Deemed Compliant
+
+Pub. L. 107–295, title IV, §441(c), Nov. 25, 2002, 116 Stat. 2131, provided that: “An agreement that complies with the requirements of section 10601(a) of title 46, United States Code, as herein amended, and that is not the subject of an action prior to June 20, 2002, alleging a breach of subsections (a) or (b) of section 10601 as in effect on such date, is hereby deemed to have been in compliance with such subsections.”
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 10602 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “employed”.</i>
 

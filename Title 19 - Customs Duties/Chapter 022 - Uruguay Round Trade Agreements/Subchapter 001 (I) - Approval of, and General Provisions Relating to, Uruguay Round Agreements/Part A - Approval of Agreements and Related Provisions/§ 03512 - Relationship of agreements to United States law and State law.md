@@ -116,7 +116,7 @@
 
 #### (2) Intent of Congress
 
-&emsp;It is the intention of the Congress through paragraph (1) to occupy the field with respect to any cause of action or defense under or in connection with any of the Uruguay Round Agreements, including by precluding any person other than the United States from bringing any action against any State or political subdivision thereof or raising any defense to the application of State law under or in connection with any of the Uruguay Round Agreements—
+&emsp;It is the intention of the Congress through paragraph (1) to occupy the field with respect to any cause of action or defense under or inconnection with any of the Uruguay Round Agreements, including by precluding any person other than the United States from bringing any action against any State or political subdivision thereof or raising any defense to the application of State law under or in connection with any of the Uruguay Round Agreements—
 
 &emsp;&emsp;(A) on the basis of a judgment obtained by the United States in an action brought under any such agreement; or
 

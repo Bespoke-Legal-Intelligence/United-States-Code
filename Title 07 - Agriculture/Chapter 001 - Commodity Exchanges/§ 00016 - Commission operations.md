@@ -6,7 +6,7 @@ The Commission may cooperate with any Department or agency of the Government, an
 
 #### (b) Employment of investigators, experts, Administrative Law Judges, consultants, clerks, and other personnel; contracts
 
-(1) The Commission shall have the authority to employ such investigators, special experts,Administrative Law Judges, clerks, and other employees as it may from time to time find necessary for the proper performance of its duties and as may be from time to time appropriated for by Congress.
+(1) The Commission shall have the authority to employ such investigators, special experts, Administrative Law Judges, clerks, and other employees as it may from time to time find necessary for the proper performance of its duties and as may be from time to time appropriated for by Congress.
 
 (2) The Commission may employ experts and consultants in accordance with section 3109 of title 5, and compensate such persons at rates not in excess of the maximum daily rate prescribed for GS–18 under section 5332 of title 5.
 
@@ -46,7 +46,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 #### (f) Investigative assistance to foreign futures authorities
 
-(1) On request from a foreign futures authority, the Commission may, in its discretion, provide assistance in accordance with this section if the requesting authority states that the requesting authority is conducting an investigation which it deems necessary to determine whether any person has violated, is violating, or is about to violate any laws, rules or regulations relating to futures or options matters that the requesting authority administers or enforces. The Commission may conduct such investigation as the Commission deems necessary to collect information and evidence pertinent to the request for assistance. Such assistance may be provided without regard to whether the facts stated in the request would also constitute a violation of the laws of the United States.
+(1) On request from a foreign futures authority, the Commission may, in its discretion, provide assistance in accordance with this section if the requesting authority states that the requesting authority is conducting an investigation which it deems necessary to determinewhether any person has violated, is violating, or is about to violate any laws, rules or regulations relating to futures or options matters that the requesting authority administers or enforces. The Commission may conduct such investigation as the Commission deems necessary to collect information and evidence pertinent to the request for assistance. Such assistance may be provided without regard to whether the facts stated in the request would also constitute a violation of the laws of the United States.
 
 (2) In deciding whether to provide assistance under this subsection, the Commission shall consider whether—
 
@@ -60,7 +60,7 @@ There are authorized to be appropriated such sums as are necessary to carry out 
 
 Consistent with its responsibilities under section 22 of this title, the Commission is directed to facilitate the development and operation of computerized trading as an adjunct to the open outcry auction system. The Commission is further directed to cooperate with the Office of the United States Trade Representative, the Department of the Treasury, the Department of Commerce, and the Department of State in order to remove any trade barriers that may be imposed by a foreign nation on the international use of electronic trading systems.
 
-(Sept. 21, 1922, ch. 369, §12, 42 Stat. 1003; Pub. L. 93–463, title I, §101(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 95–405, §20, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §§228, 229, Jan. 11, 1983, 96Stat. 2318; Pub. L. 99–641, title I, §106, Nov. 10, 1986, 100 Stat. 3558; Pub. L. 102–546, title II, §§216, 220(a), title III, §§302, 303, title IV, §401, title V, §502(c), Oct. 28, 1992, 106 Stat. 3611, 3614, 3622, 3624, 3631; Pub. L. 104–9, §2, Apr. 21, 1995, 109 Stat. 154; Pub. L. 106–554, §1(a)(5) \[title I, §§116, 117\], Dec. 21, 2000, 114 Stat. 2763, 2763A–402.)
+(Sept. 21, 1922, ch. 369, §12, 42 Stat. 1003; Pub. L. 93–463, title I, §101(b), Oct. 23, 1974, 88 Stat. 1391; Pub. L. 95–405, §20, Sept. 30, 1978, 92 Stat. 875; Pub. L. 97–444, title II, §§228, 229, Jan. 11, 1983, 96 Stat. 2318; Pub. L. 99–641, title I, §106, Nov. 10, 1986, 100 Stat. 3558; Pub. L. 102–546, title II, §§216, 220(a), title III, §§302, 303, title IV, §401, title V, §502(c), Oct. 28, 1992, 106 Stat. 3611, 3614, 3622, 3624, 3631; Pub. L. 104–9, §2, Apr. 21, 1995, 109 Stat. 154; Pub. L. 106–554, §1(a)(5) \[title I, §§116, 117\], Dec. 21, 2000, 114 Stat. 2763, 2763A–402.)
 
 #### Amendments
 

@@ -40,7 +40,7 @@ Planning grants may be used for activities to develop Youthbuild programs includ
 
 &emsp;&emsp;(C) identification and description of potential sites for the program and the construction or rehabilitation activities that would be undertaken at such sites; potential methods for identifying and recruiting youth participants; potential educational and job training activities, work opportunities and other services for participants; and potential coordination with other Federal, State, and local housing and youth education and employment training activities including activities conducted by Indian tribes;
 
-&emsp;&emsp;(D) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section 12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located; and
+&emsp;&emsp;(D) a certification by the public official responsible for submitting the comprehensive housing affordability strategy under section12705 of this title that the proposed activities are consistent with the approved housing strategy of the State or unit of general local government within which the project is located; and
 
 &emsp;&emsp;(E) a certification that the applicant will comply with the requirements of the Fair Housing Act \[42 U.S.C. 3601 et seq.\], title VI of the Civil Rights Act of 1964 \[42 U.S.C. 2000d et seq.\], section 504 of the Rehabilitation Act of 1973 \[29 U.S.C. 794\], and the Age Discrimination Act of 1975 \[42 U.S.C. 6101 et seq.\], and will affirmatively further fair housing.
 

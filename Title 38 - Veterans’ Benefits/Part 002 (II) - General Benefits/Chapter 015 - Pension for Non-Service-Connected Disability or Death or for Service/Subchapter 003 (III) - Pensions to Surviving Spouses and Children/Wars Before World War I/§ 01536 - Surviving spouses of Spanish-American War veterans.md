@@ -16,7 +16,7 @@
 
 (2) The Secretary shall pay each month to the surviving spouse of each Spanish-American War veteran who is receiving, or entitled to receive, pension based on a need of regular aid and attendance, whichever amount is greater (A) that which is payable to such surviving spouse under subsections (a) and (b) of this section as increased by section 544 <sup>1</sup> of this title, as in effect on December 31, 1978; or (B) that which is payable under section 1541 of this title, as in effect on December 31, 1978, as increased by such section 544,<sup>1</sup> as in effect on such date, to a surviving spouse of a World War I veteran with the same annual income and corpus of estate. Each change in the amount of pension required by this paragraph shall be effective as of the first day of the month during which the facts of the particular case warrant such change, and shall be made without specific application therefor.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, §536; Pub. L. 90–77, title I, §§101(a), 105, Aug. 31, 1967, 81 Stat. 178, 179; Pub. L. 92–328, title I, §107, June 30, 1972, 86 Stat. 395; Pub. L. 94–169, title I, §106(32)–(37), Dec. 23, 1975, 89 Stat. 1018, 1019; Pub. L. 95–588, title I, §108, Nov. 4, 1978, 92 Stat. 2502; renumbered §1536 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1138, §536; Pub. L. 90–77, title I, §§101(a), 105, Aug. 31, 1967, 81 Stat. 178, 179; Pub. L. 92–328, title I, §107, June 30, 1972, 86 Stat. 395; Pub. L. 94–169, title I, §106(32)–(37), Dec. 23, 1975, 89 Stat. 1018, 1019; Pub. L. 95–588, title I, §108, Nov. 4, 1978, 92 Stat. 2502; renumbered §1536 and amended Pub. L. 102–83,§§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### References in Text
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 #### Increase in Aid and Attendance Rates for Veterans Eligible for Pension
 
-Maximum annual pension rates under subsec. (d)(2) of this section increased by $600, effective Oct. 1, 1998, seesection 8206 of Pub. L. 105–178, set out as a note under section 1521 of this title.
+Maximum annual pension rates under subsec. (d)(2) of this section increased by $600, effective Oct. 1, 1998, see section 8206 of Pub. L. 105–178, set out as a note under section 1521 of this title.
 
 #### Section Referred to in Other Sections
 

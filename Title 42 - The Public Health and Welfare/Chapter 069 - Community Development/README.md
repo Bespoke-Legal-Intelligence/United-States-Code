@@ -130,7 +130,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1437d, 1439, 1440, 3013, 3533, 3535, 5133, 9816, 11505 of this title; title 12 sections 1464, 1701x, 1715z, 1715z–13, 1834a; title 25 section 4104; title 40 App. section 214.
+This chapter is referred to in sections 1437d, 1439, 1440, 3013, 3533, 3535, 5133, 9816, 11505 of this title; title 7 section 2008n; title 12 sections 1464, 1701x, 1715z, 1715z–13, 1834a; title 25 section 4104; title 40 section 14507.
 
 
 ---

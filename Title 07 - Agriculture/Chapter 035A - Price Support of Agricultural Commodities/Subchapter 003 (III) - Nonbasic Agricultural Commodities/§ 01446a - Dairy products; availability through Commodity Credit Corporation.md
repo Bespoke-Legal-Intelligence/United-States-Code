@@ -18,7 +18,7 @@ Dairy products made available under this section shall be made available without
 
 The obligation of the Commodity Credit Corporation to make dairy products available pursuant to the above shall be limited to dairy products acquired by the Corporation through price-support operations and not disposed of under provisions (1) and (2) of section 1431 <sup>1</sup> of this title.
 
-(Oct. 31, 1949, ch. 792, title II, §202, as added Aug. 28, 1954, ch. 1041, title II, §204(d), 68 Stat. 900; amended Apr. 2, 1956, ch. 159, §3, 70 Stat. 87; Pub. L. 85–835, title V, §504, Aug. 28, 1958, 72 Stat. 996; Pub. L. 87–128, title IV, §403, Aug. 8, 1961, 75 Stat. 319; Pub. L. 87–495, June 25, 1962, 76 Stat. 109; Pub. L. 88–529, Aug. 31, 1964, 78 Stat. 736; Pub. L. 90–140, Nov. 16, 1967, 81 Stat. 464; Pub. L. 91–524, title II, §203, Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, §1(4), Aug. 10, 1973, 87 Stat. 223; Pub. L. 95–113, title II, §204, Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–98, title I, §104, Dec. 22, 1981, 95 Stat. 1220; Pub. L. 99–198, title I, §151, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 101–624, title I, §109, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 102–54, §13(c), June 13, 1991, 105 Stat. 274; Pub. L. 102–237, title I, §113(9), Dec. 13, 1991, 105 Stat. 1838; Pub. L. 103–437, §4(b), Nov. 2, 1994, 108 Stat. 4582.)
+(Oct. 31, 1949, ch. 792, title II, §202, as added Aug. 28, 1954, ch. 1041, title II, §204(d), 68 Stat. 900; amended Apr. 2, 1956, ch. 159, §3, 70 Stat. 87; Pub.L. 85–835, title V, §504, Aug. 28, 1958, 72 Stat. 996; Pub. L. 87–128, title IV, §403, Aug. 8, 1961, 75 Stat. 319; Pub. L. 87–495, June 25, 1962, 76 Stat. 109; Pub. L. 88–529, Aug. 31, 1964, 78 Stat. 736; Pub. L. 90–140, Nov. 16, 1967, 81 Stat. 464; Pub. L. 91–524, title II, §203, Nov. 30, 1970, 84 Stat. 1361; Pub. L. 93–86, §1(4), Aug. 10, 1973, 87 Stat. 223; Pub. L. 95–113, title II, §204, Sept. 29, 1977, 91 Stat. 920; Pub. L. 97–98, title I, §104, Dec. 22, 1981, 95 Stat. 1220; Pub. L. 99–198, title I, §151, Dec. 23, 1985, 99 Stat. 1377; Pub. L. 101–624, title I, §109, Nov. 28, 1990, 104 Stat. 3380; Pub. L. 102–54, §13(c), June 13, 1991, 105 Stat. 274; Pub. L. 102–237, title I, §113(9), Dec. 13, 1991, 105 Stat. 1838; Pub. L. 103–437, §4(b), Nov. 2, 1994, 108 Stat. 4582.)
 
 #### References in Text
 
@@ -73,6 +73,10 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 #### Effective Date of 1977 Amendment
 
 Amendment by Pub. L. 95–113 effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as a note under section 1307 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

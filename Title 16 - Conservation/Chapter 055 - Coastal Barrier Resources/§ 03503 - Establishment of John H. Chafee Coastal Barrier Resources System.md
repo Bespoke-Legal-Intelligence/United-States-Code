@@ -30,7 +30,7 @@ The Secretary may add a parcel of real property to the System, if—
 
 #### (1) Consultation and determination
 
-&emsp;Prior to transfer or disposal of excess property under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) that may be an undeveloped coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretary a determination as to whether and what portion of the property constitutes an undeveloped coastal barrier. Not later than 180 days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
+&emsp;Prior to transfer or disposal of excess property under the Federal Property and Administrative Services Act of 1949 <sup>1</sup> that may be an undeveloped coastal barrier, the Administrator of General Services shall consult with and obtain from the Secretary a determination as to whether and what portion of the property constitutes an undeveloped coastal barrier. Not later than 180 days after the initiation of such consultation, the Secretary shall make and publish notice of such determination. Immediately upon issuance of a positive determination, the Secretary shall—
 
 &emsp;&emsp;(A) prepare a map depicting the undeveloped coastal barrier portion of such property; and
 
@@ -90,7 +90,7 @@ The Secretary shall—
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (e)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (e)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Codification
 
@@ -102,7 +102,7 @@ The text of section 4(d) of Pub. L. 101–591, which was transferred and redesig
 
 Subsec. (d). Pub. L. 106–514, §3(a), added subsec. (d).
 
-Subsec. (e). Pub. L. 106–514, §3(b)(1), transferred and redesignated the text of section 4(d) of Pub. L. 101–591so as to appear as subsec. (e) of this section, in par. (1), substituted “180” for “one hundred and eighty” in introductory provisions and struck out “shall” before “publish” in subpar. (B), in par. (2), substituted “paragraph (1)(B)” for “subsection (d)(1)(B)”, and struck out par. (3), which required revision of maps as soon as practicable after a unit was added to the System. See Codification note above.
+Subsec. (e). Pub. L. 106–514, §3(b)(1), transferred and redesignated the text of section 4(d) of Pub. L. 101–591 so as to appear as subsec. (e) of this section, in par. (1), substituted “180” for “one hundred and eighty” in introductory provisions and struck out “shall” before“publish” in subpar. (B), in par. (2), substituted “paragraph (1)(B)” for “subsection (d)(1)(B)”, and struck out par. (3), which required revision of maps as soon as practicable after a unit was added to the System. See Codification note above.
 
 Subsec. (f). Pub. L. 106–514, §3(c), added subsec. (f).
 
@@ -117,6 +117,10 @@ Subsec. (a). Pub. L. 106–167, §3(c)(3)(B), substituted “the John H. Chafee 
 1988—Pub. L. 100–707 amended section generally to provide that the Coastal Barrier Resources System include those undeveloped coastal barriers located on the Atlantic and Gulf Coasts of the United States and included within the System on Apr. 19, 1983, and the Great Lakes barriers, to make all System maps available to public inspection, and to revise and update provisions for making boundary modifications.
 
 1982—Subsec. (a)(1). Pub. L. 97–396 inserted “(but excluding maps T02 and T03)” after “A01 through T12”, and “and the maps designated T02A and T03A, dated December 8, 1982” after “and dated September 30, 1982”.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Digital Mapping Pilot Project
 
@@ -200,7 +204,7 @@ Pub. L. 106–167, §2, Dec. 9, 1999, 113 Stat. 1803, provided that: “Congress
 
 &emsp;“(4) millions of people of the United States breathe cleaner air, drink cleaner water, and enjoy more plentiful outdoor recreation opportunities because of the work of Senator Chafee;
 
-&emsp;“(5) in 1982, Senator Chafee authored and succeeded in enacting into law the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.) to minimize loss of human life, wasteful expenditure of Federal revenues, and damage to fish, wildlife, and other natural resources associated with the coastal barriers along the Atlantic and Gulf Coasts; and
+&emsp;“(5) in 1982, Senator Chafee authored and succeeded in enacting into law the Coastal Barrier Resources Act (16 U.S.C. 3501 et seq.) to minimize loss of humanlife, wasteful expenditure of Federal revenues, and damage to fish, wildlife, and other natural resources associated with the coastal barriers along the Atlantic and Gulf Coasts; and
 
 &emsp;“(6) to reflect the invaluable national contributions made by Senator Chafee during his service in the Senate, the Coastal Barrier Resources System should be named in his honor.”
 
@@ -328,7 +332,7 @@ In general.—Not later than 2 years after the date of the enactment of this Act
 
 &emsp;“(2)
 
-Effective date of modifications.—A modification of the boundaries of a unit of the System under paragraph (1)(A) shall take effect on the dateon which the Secretary published notice in the Federal Register under paragraph (1)(C) with respect to that modification.”
+Effective date of modifications.—A modification of the boundaries of a unit of the System under paragraph (1)(A) shall take effect on the date on which the Secretary published notice in the Federal Register under paragraph (1)(C) with respect to that modification.”
 
 #### Pacific Coastal Barrier Protection Study and Maps
 
@@ -365,4 +369,6 @@ Section 12 of Pub. L. 101–591, as amended by Pub. L. 106–167, §3(c)(6), Dec
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3502, 3504, 3505 of this title; title 42 section 4028.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -20,7 +20,7 @@ This section was renumbered “2677” by Senate amendment. See 80th Congress Se
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–506 raised the limitations on allowable attorneys fees from 10 to 20 percent for administrative settlements and from 20 to 25 percent for fees in cases after suit is filed and removed the requirement of agency or court allowance of the amount of attorneys fees.
+1966—Pub. L. 89–506 raised the limitations on allowable attorneys fees from 10 to 20 percent for administrative settlements and from 20 to 25 percent for fees in cases after suit is filed and removed the requirement of agency or court allowance of the amount of attorneys fees.
 
 #### Effective Date of 1966 Amendment
 

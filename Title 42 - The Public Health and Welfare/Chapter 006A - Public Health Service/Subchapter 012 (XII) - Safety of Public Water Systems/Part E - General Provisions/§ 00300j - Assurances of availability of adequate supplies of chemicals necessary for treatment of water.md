@@ -2,11 +2,11 @@
 
 #### (a) Certification of need application
 
-If any person who uses chlorine, activated carbon, lime, ammonia, soda ash, potassium permanganate, caustic soda, or other chemical or substance for the purpose of treating water in any public water system or in any public treatment works determines that the amount of such chemical or substance necessary to effectively treat such water is not reasonably available to him or will not be so available to him when required for the effective treatment of such water, such person may apply to the Administrator for a certification (hereinafter in this section referred to as a “certification of need”) that the amount of such chemical or substance which such person requires to effectively treat such water is not reasonably available to him or will not be so available when required for the effective treatment of such water.
+If any person who uses chlorine, activated carbon, lime, ammonia, soda ash, potassium permanganate, caustic soda, or other chemical orsubstance for the purpose of treating water in any public water system or in any public treatment works determines that the amount of such chemical or substance necessary to effectively treat such water is not reasonably available to him or will not be so available to him when required for the effective treatment of such water, such person may apply to the Administrator for a certification (hereinafter in this section referred to as a “certification of need”) that the amount of such chemical or substance which such person requires to effectively treat such water is not reasonably available to him or will not be so available when required for the effective treatment of such water.
 
 #### (b) Application requirements; publication in Federal Register; waiver; certification, issuance or denial
 
-(1) An application for a certification of need shall be in such form and submitted in such manner as the Administrator may require and shall (A) specify the persons the applicant determines are able to provide the chemical or substance with respect to which the application issubmitted, (B) specify the persons from whom the applicant has sought such chemical or substance, and (C) contain such other information as the Administrator may require.
+(1) An application for a certification of need shall be in such form and submitted in such manner as the Administrator may require and shall (A) specify the persons the applicant determines are able to provide the chemical or substance with respect to which the application is submitted, (B) specify the persons from whom the applicant has sought such chemical or substance, and (C) contain such other information as the Administrator may require.
 
 (2) Upon receipt of an application under this section, the Administrator shall (A) publish in the Federal Register a notice of the receipt of the application and a brief summary of it, (B) notify in writing each person whom the President or his delegate (after consultation with the Administrator) determines could be made subject to an order required to be issued upon the issuance of the certification of need applied for in such application, and (C) provide an opportunity for the submission of written comments on such application. The requirements of the preceding sentence of this paragraph shall not apply when the Administrator for good cause finds (and incorporates the finding with a brief statement of reasons therefor in the order issued) that waiver of such requirements is necessary in order to protect the public health.
 
@@ -48,7 +48,7 @@ There shall be available as a defense to any action brought for breach of contra
 
 No certification of need or order issued under this section may remain in effect for more than one year.
 
-(July 1, 1944, ch. 373, title XIV, §1441, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1680;amended Pub. L. 95–190, §7, Nov. 16, 1977, 91 Stat. 1396; Pub. L. 96–63, §3, Sept. 6, 1979, 93 Stat. 411; Pub. L. 99–339, title III, §301(d), June 19, 1986, 100 Stat. 664; Pub. L. 104–182, title V, §501(c), Aug. 6, 1996, 110 Stat. 1691.)
+(July 1, 1944, ch. 373, title XIV, §1441, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1680; amended Pub. L. 95–190, §7, Nov. 16, 1977, 91 Stat. 1396; Pub. L. 96–63, §3, Sept. 6, 1979, 93 Stat. 411; Pub. L. 99–339, title III, §301(d), June 19, 1986, 100 Stat. 664; Pub. L. 104–182, title V, §501(c), Aug. 6, 1996, 110 Stat. 1691.)
 
 #### Amendments
 

@@ -112,7 +112,7 @@ An action to enforce an affidavit of support executed under subsection (a) of th
 
 #### (2) Income requirement case
 
-&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but accepts joint and several liability together with an individual under paragraph (5).
+&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(E) but accepts joint and several liability together with an individual under paragraph (5)(A).
 
 #### (3) Active duty armed services case
 
@@ -126,11 +126,19 @@ An action to enforce an affidavit of support executed under subsection (a) of th
 
 &emsp;&emsp;(B)(i) who demonstrates (as provided under paragraph (6)) the means to maintain an annual income equal to at least 125 percent of the Federal poverty line, or
 
-&emsp;&emsp;(ii) does not meet the requirement of paragraph (1)(E) but accepts joint and several liability together with an individual under paragraph (5).
+&emsp;&emsp;(ii) does not meet the requirement of paragraph (1)(E) but accepts joint and several liability together with an individual under paragraph (5)(A).
 
-#### (5) Non-petitioning case
+#### (5) Non-petitioning cases
 
-&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(D) but who accepts joint and several liability with a petitioning sponsor under paragraph (2) or relative of an employment-based immigrant under paragraph (4) and who demonstrates (as provided under paragraph (6)) the means to maintain an annual income equal to at least 125 percent of the Federal poverty line.
+&emsp;Such term also includes an individual who does not meet the requirement of paragraph (1)(D) but who—
+
+&emsp;&emsp;(A) accepts joint and several liability with a petitioning sponsor under paragraph (2) or relative of an employment-based immigrant under paragraph (4) and who demonstrates (as provided under paragraph (6)) the means to maintain an annual income equal to at least 125 percent of the Federal poverty line; or
+
+&emsp;&emsp;(B) is a spouse, parent, mother-in-law, father-in-law, sibling, child (if at least 18 years of age), son, daughter, son-in-law, daughter-in-law, sister-in-law, brother-in-law, grandparent, or grandchild of a sponsored alien or a legal guardian of a sponsored alien, meets the requirements of paragraph (1) (other than subparagraph (D)), and executes an affidavit of support with respect to such alien in a case in which—
+
+&emsp;&emsp;&emsp;(i) the individual petitioning under section 1154 of this title for the classification of such alien died after the approval of such petition; and
+
+&emsp;&emsp;&emsp;(ii) the Attorney General has determined for humanitarian reasons that revocation of such petition under section 1155 of this title would be inappropriate.
 
 #### (6) Demonstration of means to maintain income
 
@@ -168,7 +176,7 @@ For purposes of this section, the term “Federal poverty line” means the leve
 
 &emsp;(B) a comparison of such numbers with the numbers of such sponsors for the preceding fiscal year.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §213A, as added Pub. L. 104–193, title IV, §423(a), Aug. 22, 1996, 110 Stat. 2271; amended Pub. L. 104–208, div. C, title V, §551(a), Sept. 30, 1996, 110 Stat. 3009–675.)
+(June 27, 1952, ch. 477, title II, ch. 2, §213A, as added Pub. L. 104–193, title IV, §423(a), Aug. 22, 1996, 110 Stat. 2271; amended Pub. L. 104–208, div. C, title V, §551(a), Sept. 30, 1996, 110 Stat. 3009–675; Pub. L. 107–150, §2(a)(1), (3), Mar. 13, 2002, 116 Stat. 74, 75.)
 
 #### References in Text
 
@@ -178,7 +186,15 @@ The Social Security Act, referred to in subsec. (a)(3)(A), (B), is act Aug. 14, 
 
 #### Amendments
 
+2002—Subsec. (f)(2), (4)(B)(ii). Pub. L. 107–150, §2(a)(3), substituted “paragraph (5)(A)” for “paragraph (5)”.
+
+Subsec. (f)(5). Pub. L. 107–150, §2(a)(1), amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “Such term also includes an individual who does not meet the requirement of paragraph (1)(D) but who accepts joint and several liability with a petitioning sponsor under paragraph (2) or relative of an employment-based immigrant under paragraph (4) and who demonstrates (as provided under paragraph (6)) the means to maintain an annual income equal to at least 125 percent of the Federal poverty line.”
+
 1996—Pub. L. 104–208 amended section generally, substituting subsecs. (a) to (i) for former subsecs. (a) to (f) relating to requirements for sponsor's affidavits of support.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–150 applicable with respect to deaths occurring before, on, or after Mar. 13, 2002, except that, in case of death occurring before such date, such amendments shall apply only if (1) the sponsored alien requests Attorney General to reinstate the classification petition that was filed with respect to the alien by deceased and approved under section 1154 of this title before such death and demonstrates that he or she is able to satisfy requirement of section 1182(a)(4)(C)(ii) of this title by reason of such amendments; and (2) Attorney General reinstates such petition after making the determination described in subsec. (f)(5)(B)(ii) of this section, see section 2(b) of Pub. L. 107–150, set out as a note under section 1182 of this title.
 
 #### Effective Date of 1996 Amendments; Promulgation of Form
 
@@ -194,9 +210,13 @@ Promulgation of form.—Not later than 90 days after the date of the enactment o
 
 Section 423(c) of Pub. L. 104–193 provided that subsec. (a) of this section was applicable to affidavits of support executed on or after a date specified by Attorney General, which date was to be not earlier than 60 days (and not later than 90 days) after date Attorney General formulated form for such affidavits under subsec. (b) of this section, prior to repeal by Pub. L. 104–208, div. C, title V, §551(b)(2), Sept. 30, 1996, 104 Stat. 3009–679.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Fees Relating to Affidavits of Support
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §232\], Nov. 29, 1999, 113 Stat. 1536, 1501A–425, provided that:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §232\], Nov. 29, 1999, 113 Stat. 1536, 1501A–425, as amended by Pub. L. 107–228, div. A, title II, §211(b), Sept. 30, 2002, 116 Stat. 1365, provided that:
 
 “(a)
 
@@ -208,11 +228,7 @@ Limitation.—Any fee established under subsection (a) shall be charged only onc
 
 “(c)
 
-Treatment of Fees.—Fees collected under the authority of subsection (a) shall be deposited as an offsetting collection to any Department of State appropriation to recover the cost of providing consular services.
-
-“(d)
-
-Compliance With Budget Act.—Fees collected under the authority of subsection (a) shall be available only to such extent or in such amounts as are provided in advance in an appropriation Act.”
+Treatment of Fees.—Fees collected under the authority of subsection (a) shall be deposited as an offsetting collection to any Department of State appropriation to recover the cost of providing consular services. Such fees shall remain available for obligation until expended.”
 
 #### Pilot Programs To Require Bonding
 
@@ -256,7 +272,7 @@ Bonds in Addition to Sponsorship and Deeming Requirements.—\[Amended section 1
 
 #### Benefits Not Subject to Reimbursement
 
-Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(B), (f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: “Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
+Section 423(d) of Pub. L. 104–193, as amended by Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(B),\(f)(3)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–430; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169, provided that: “Requirements for reimbursement by a sponsor for benefits provided to a sponsored alien pursuant to an affidavit of support under section 213A of the Immigration and Nationality Act \[8 U.S.C. 1183a\] shall not apply with respect to the following:
 
 &emsp;“(1) Medical assistance described in section 401(b)(1)(A) \[8 U.S.C. 1611(b)(1)(A)\] or assistance described in section 411(b)(1) \[8 U.S.C. 1621(b)(1)\].
 

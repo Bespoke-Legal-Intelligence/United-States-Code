@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-Any person who, while an alien or a noncitizen national of the United States, has served honorably in an active-duty status in the military, air, or naval forces of the United States during either World War I or during a period beginning September 1, 1939, and ending December 31, 1946, or during a period beginning June 25, 1950, and ending July 1, 1955, or during a period beginning February 28, 1961, and ending on a date designated by the President by Executive order as of the date of termination of the Vietnam hostilities, or thereafter during any other period which the President by Executive order shall designate as a period in which Armed Forces of the United States are or were engaged in military operations involving armed conflict with a hostile foreign force, and who, if separated from such service, was separated under honorable conditions, may be naturalized as provided in this section if (1) at the time of enlistment, reenlistment, extension of enlistment, or induction such person shall have been in the United States, the Canal Zone, American Samoa, or Swains Island, or on board a public vessel owned or operated by the United States for noncommercial service, whether or not he has been lawfully admitted to the United States for permanent residence, or (2) at any time subsequent to enlistment or induction such person shall have been lawfully admitted to the United States for permanent residence. The executive department under which such person served shall determine whether persons have served honorably in an active-duty status, and whether separation from such service was under honorable conditions: <i>Provided, however</i>, That no person who is or has been separated from such service on account of alienage, or who was a conscientious objector who performed no military, air, or naval duty whatever or refused to wear the uniform, shall be regarded as having served honorably or having been separated under honorable conditions for the purposes of this section. No period of service in the Armed Forces shall be made the basis of an application for naturalization under this section if the applicanthas previously been naturalized on the basis of the same period of service.
+Any person who, while an alien or a noncitizen national of the United States, has served honorably in an active-duty status in the military, air, or naval forces of the United States during either World War I or during a period beginning September 1, 1939, and ending December 31, 1946, or during a period beginning June 25, 1950, and ending July 1, 1955, or during a period beginning February 28, 1961, and ending on a date designated by the President by Executive order as of the date of termination of the Vietnam hostilities, or thereafter during any other period which the President by Executive order shall designate as a period in which Armed Forces of the United States are or were engaged in military operations involving armed conflict with a hostile foreign force, and who, if separated from such service, was separated under honorable conditions, may be naturalized as provided in this section if (1) at the time of enlistment, reenlistment, extension of enlistment, or induction such person shall have been in the United States, the Canal Zone, American Samoa, or Swains Island, or on board a public vessel owned or operated by the United States for noncommercial service, whether or not he has been lawfully admitted to the United States for permanent residence, or (2) at any time subsequent to enlistment or induction such person shall have been lawfully admitted to the United States for permanent residence. The executive department under which such person served shall determine whether persons have served honorably in an active-duty status, and whether separation from such service was under honorable conditions: <i>Provided, however</i>, That no person who is or has been separated from such service on account of alienage, or who was a conscientious objector who performed no military, air, or naval duty whatever or refused to wear the uniform, shall be regarded as having served honorably or having been separated under honorable conditions for the purposes of this section. No period of service in the Armed Forces shall be made the basis of an application for naturalization under this section if the applicant has previously been naturalized on the basis of the same period of service.
 
 #### (b) Exceptions
 
@@ -18,7 +18,7 @@ A person filing an application under subsection (a) of this section shall comply
 
 Citizenship granted pursuant to this section may be revoked in accordance with section 1451 of this title if at any time subsequent to naturalization the person is separated from the military, air, or naval forces under other than honorable conditions, and such ground for revocation shall be in addition to any other provided by law. The fact that the naturalized person was separated from the service under other than honorable conditions shall be proved by a duly authenticated certification from the executive department under which the person was serving at the time of separation.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §329, 66 Stat. 250; Pub. L. 87–301, §8, Sept. 26, 1961, 75 Stat. 654; Pub. L. 90–633, §§1, 2, 6, Oct. 24, 1968, 82 Stat. 1343, 1344; Pub. L. 97–116, §15(a), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 100–525, §9(y), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(b)(5), (c)(11), Nov. 29, 1990, 104 Stat. 5040, 5041; Pub. L. 102–232, title III, §305(b), Dec. 12, 1991, 105 Stat. 1749; Pub. L. 105–85, div. A, title X, §1080(a), Nov. 18, 1997, 111 Stat. 1916.)
+(June 27, 1952, ch. 477, title III, ch. 2, §329, 66 Stat. 250; Pub. L. 87–301, §8, Sept. 26, 1961, 75Stat. 654; Pub. L. 90–633, §§1, 2, 6, Oct. 24, 1968, 82 Stat. 1343, 1344; Pub. L. 97–116, §15(a), Dec. 29, 1981, 95 Stat. 1619; Pub. L. 100–525, §9(y), Oct. 24, 1988, 102 Stat. 2621; Pub. L. 101–649, title IV, §407(b)(5), (c)(11), Nov. 29, 1990, 104 Stat. 5040, 5041; Pub. L. 102–232, title III, §305(b), Dec. 12, 1991, 105 Stat. 1749; Pub. L. 105–85, div. A, title X, §1080(a), Nov. 18, 1997, 111 Stat. 1916.)
 
 #### References in Text
 
@@ -62,69 +62,15 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Naturalization of Natives of Philippines Through Certain Active-Duty Service During World War II
 
 Pub. L. 102–395, title I, §113, Oct. 6, 1992, 106 Stat. 1844, which provided that, notwithstanding any other provision of law, effective 120 days after Oct. 6, 1992, and applicable to natives of the Philippines who applied for naturalization under section 405 of Pub. L. 101–649, set out below, and who applied within 2 years after such effective date, the naturalization of natives of the Philippines who apply for naturalization under section 405 of Pub. L. 101–649 was to be conducted in Philippines as well as in United States by employees of Immigration and Naturalization Service designated pursuant to section 1446(b) of this title, and required Attorney General to prescribe necessary implementing regulations and maintain permanent records of the oaths of allegiance taken in accordance with these provisions, was repealed by Pub. L. 105–119, title I, §112(c), Nov. 26, 1997, 111 Stat. 2460.
 
-Section 405 of Pub. L. 101–649, as amended by Pub. L. 103–416, title I, §104(d), Oct. 25, 1994, 108 Stat. 4308; Pub. L. 105–119, title I, §112(b), Nov. 26, 1997, 111 Stat. 2459, provided that:
-
-“(a)
-
-Waiver of Certain Requirements.—(1) Clauses (1) and (2) of section 329(a) of the Immigration and Nationality Act (8 U.S.C. 1440(a)) shall not apply to the naturalization of any person—
-
-&emsp;“(A) who was born in the Philippines and who was residing in the Philippines before the service described in subparagraph (B);
-
-&emsp;“(B) who—
-
-&emsp;&emsp;“(i) is listed on the final roster prepared by the Recovered Personnel Division of the United States Army of those who served honorably in an active duty status within the Philippine Army during the World War II occupation and liberation of the Philippines,
-
-&emsp;&emsp;“(ii) is listed on the final roster prepared by the Guerilla Affairs Division of the United States Army of those who received recognition as having served honorably in an active duty status within a recognized guerilla unit during the World War II occupation and liberation of the Philippines, or
-
-&emsp;&emsp;“(iii) served honorably in an active duty status within the Philippine Scouts or within any other component of the United States Armed Forces in the Far East (other than a component described in clause (i) or (ii)) at any time during the period beginning September 1, 1939, and ending December 31, 1946:\[;\]
-
-&emsp;“(C) who is otherwise eligible for naturalization under section 329 of such Act; and
-
-&emsp;“(D) who applies for naturalization during the 2-year period beginning on the date of the enactment of this Act \[Nov. 29, 1990\].
-
-“(2) Subject to subsection (c), in applying section 329 of the Immigration and Nationality Act, service described in paragraph (1)(B) is considered to be honorable service in an active-duty status in the military, air, or naval forces of the United States.
-
-“(3)(A) For purposes of the second sentence of section 329(a) and section 329(b)(3) of the Immigration and Nationality Act, the executive department under which a person served shall be—
-
-&emsp;“(i) in the case of an applicant claiming to have served in the Philippine Army, the United States Department of the Army;
-
-&emsp;“(ii) in the case of an applicant claiming to have served in a recognized guerilla unit, the United States Department of the Army; or
-
-&emsp;“(iii) in the case of an applicant claiming to have served in the Philippine Scouts or any other component of the United States Armed Forces in the Far East (other than a component described in clause (i) or (ii)) at any time during the period beginning September 1, 1939, and ending December 31, 1946, the United States executive department (or successor thereto) that exercised supervision over such component.
-
-“(B) An executive department specified in subparagraph (A) may not make a determination under the second sentence of section 329(a) with respect to the service or separation from service of a person described in paragraph (1) except pursuant to a request from the Service.
-
-“\[(b) Repealed. Pub. L. 103–416, title I, §104(d), Oct. 25, 1994, 108 Stat. 4308.\]
-
-“(c)
-
-Statutory Construction.—The enactment of this section shall not be construed as affecting the rights, privileges, or benefits of a person described in subsection (a)(1) under any provision of law (other than the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\]) by reason of the service of such person or the service of any other person under the command of the United States Armed Forces.
-
-“(d)
-
-Implementation.—(1) Notwithstanding any other provision of law, for purposes of the naturalization of natives of the Philippines under this section—
-
-&emsp;“(A) the processing of applications for naturalization, filed in accordance with the provisions of this section, including necessary interviews, shall be conducted in the Philippines by employees of the Service designated pursuant to section 335(b) of the Immigration and Nationality Act \[8 U.S.C. 1446(b)\]; and
-
-&emsp;“(B) oaths of allegiance for applications for naturalization under this section shall be administered in the Philippines by employees of the Service designated pursuant to section 335(b) of that Act.
-
-“(2) Notwithstanding paragraph (1), applications for naturalization, including necessary interviews, may continue to be processed, and oaths of allegiance may continue to be taken in the United States.”
-
-\[Pub. L. 105–119, title I, §112(d), Nov. 26, 1997, 111 Stat. 2460, provided that:
-
-\[“(1)
-
-Application to pending applications.—The amendments made by subsection (b) \[amending section 405 of Pub. L. 101–649, set out above\] shall apply to applications filed before February 3, 1995.
-
-\[“(2)
-
-Termination date.—The authority provided by the amendments made by subsection (b) shall expire February 3, 2001.”\]
-
-\[Section 405 of Pub. L. 101–649 effective May 1, 1991, without regard to whether regulations to implement such section have been issued by such date, see section 408(f) of Pub. L. 101–649, set out in an Effective Date of 1990 Amendment; Savings Provision note under section 1421 of this title.\]
+Pub. L. 101–649, title IV, §405, Nov. 29, 1990, 104 Stat. 5039, as amended by Pub. L. 103–416, title I, §104(d), Oct. 25, 1994, 108 Stat. 4308; Pub. L. 105–119, title I, §112(b), Nov. 26, 1997, 111 Stat. 2459, provided that section 1440(a)(1) and (2) of this title did not apply to the naturalization of certain persons born in the Philippines who served honorably in an active duty status during the World War II occupation and liberation of the Philippines within the Philippine Army or within a recognized guerilla unit or who served within the Philippine Scouts or within any other component of the United States Armed Forces in the Far East at any time during the period beginning September 1, 1939, and ending December 31, 1946, who were otherwise eligible for naturalization under section 1440, and who applied for naturalization during the 2-year period beginning on Nov. 29, 1990.
 
 #### Naturalization of Aliens Enlisted in Regular Army
 
@@ -151,6 +97,16 @@ By the authority vested in me as President by the Constitution and the laws of t
 For the purpose of determining qualification for the exception from the usual requirements for naturalization, the period of Persian Gulf Conflict military operations in which the Armed Forces of the United States were engaged in armed conflict with a hostile force commenced on August 2, 1990, and terminated on April 11, 1991. Those persons serving honorably in active-duty status in the Armed Forces of the United States during this period are eligible for naturalization in accordance with the statutory exception to the naturalization requirements, as provided in section 1440(b) of title 8, United States Code.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13269. Expedited Naturalization of Aliens and Noncitizen Nationals Serving in an Active-Duty Status During the War on Terrorism
+
+Ex. Ord. No. 13269, July 3, 2002, 67 F.R. 45287, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 329 of the Immigration and Nationality Act (8 U.S.C. 1440) (the “Act”), and solely in order to provide expedited naturalization for aliens and noncitizen nationals serving in an active-duty status in the Armed Forces of the United States during the period of the war against terrorists of global reach, it is hereby ordered as follows:
+
+For the purpose of determining qualification for the exception from the usual requirements for naturalization, I designate as a period in which the Armed Forces of the United States were engaged in armed conflict with a hostile foreign force the period beginning on September 11, 2001. Such period will be deemed to terminate on a date designated by future Executive Order. Those persons serving honorably in active-duty status in the Armed Forces of the United States, during the period beginning on September 11, 2001, and terminating on the date to be so designated, are eligible for naturalization in accordance with the statutory exception to the naturalization requirements, as provided in section 329 of the Act. Nothing contained in this order is intended to affect, nor does it affect, any other power, right, or obligation of the United States, its agencies, officers, employees, or any other person under Federal law or the law of nations.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

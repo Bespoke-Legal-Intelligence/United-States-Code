@@ -26,7 +26,7 @@ The Agricultural Act of 1949, referred to in subsec. (a), is act Oct. 31, 1949, 
 
 1981—Pub. L. 97–98 designated existing provision as subsec. (a), provided that application of this section be to the 1982 and subsequent crops instead of crops beginning with the 1975 crop, substituted provision that any kind of tobacco grown in an area where marketing quotas are in effect be subject to the quota for the kind of tobacco for which marketing quotas are in effect in that area for provision that any tobacco produced in an area where producers who are engaged in the production of a kind of tobacco traditionally produced in the area have approved marketing quotas be subject to the quota for the kind of tobacco traditionally produced in the area, and struck out provisions exempting nonquota tobacco from this section if the Secretary or designee finds that such nonquota tobacco is readily and distinguishably different from any kind of tobacco produced under quota and providing that no marketing quota penalty be assessed as a result of the marketing of 1975 crop Maryland tobacco (Type 32) which is determined to be Burley tobacco (Type 31), and added subsec. (b).
 
-1978—Pub. L. 95–592 inserted provision relating to nonassessment of marketing quota penalties as a resultof marketing of 1975 crop Maryland tobacco (Type 32) which was determined to be Burley tobacco (Type 31) under provisions of this section.
+1978—Pub. L. 95–592 inserted provision relating to nonassessment of marketing quota penalties as a result of marketing of 1975 crop Maryland tobacco (Type 32) which was determined to be Burley tobacco (Type 31) under provisions of this section.
 
 #### Effective Date of 1982 Amendment
 

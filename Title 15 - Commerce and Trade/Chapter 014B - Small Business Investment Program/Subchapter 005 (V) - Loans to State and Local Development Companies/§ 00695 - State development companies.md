@@ -60,7 +60,7 @@ Subsec. (d). Pub. L. 101–574, §214(b), added subsec. (d).
 
 #### Budgetary Treatment of Loans and Financings
 
-Assistance made available under any financings made under this subchapter during 2-year period beginning Oct. 1, 2002, to be treated as a separate program of the Small Business Administration for purposes of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) only, see section 6(c) of Pub. L. 107–100, set out as a note under section 636 of this title.
+Assistance made available under any financings made under this subchapter during 2-year period beginning Oct. 1, 2002, to be treated as a separate program of theSmall Business Administration for purposes of the Federal Credit Reform Act of 1990 (2 U.S.C. 661 et seq.) only, see section 6(c) of Pub. L. 107–100, set out as a note under section 636 of this title.
 
 #### Loan Liquidation Pilot Program
 
@@ -132,7 +132,7 @@ In general.—The Administrator shall issue a report on the results of the pilot
 
 Reporting period.—The report shall be based on data from, and issued not later than 90 days after the close of, the first eight 8 \[sic\] fiscal quarters of the pilot program's operation after the date of implementation.”
 
-\[Section 204 of title II of div. D of Pub. L. 104–208, set out above, to cease to have effect beginning on the date on which final regulations are issued to carry out section 697g of this title, see section 1(a)(9) \[title III,§307(b)\] of Pub. L. 106–554, set out as a Regulations note under section 697g of this title.\]
+\[Section 204 of title II of div. D of Pub. L. 104–208, set out above, to cease to have effect beginning on the date on which final regulations are issued to carry out section 697g of this title, see section 1(a)(9) \[title III, §307(b)\] of Pub. L. 106–554, set out as a Regulations note under section 697g of this title.\]
 
 #### Section Referred to in Other Sections
 

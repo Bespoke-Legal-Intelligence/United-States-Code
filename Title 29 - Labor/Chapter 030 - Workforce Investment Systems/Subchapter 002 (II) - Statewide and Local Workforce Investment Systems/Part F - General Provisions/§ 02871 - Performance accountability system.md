@@ -56,7 +56,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;For each State submitting a State plan, there shall be established, in accordancewith this subparagraph, levels of performance for each of the core indicators of performance described in paragraph (2)(A) and the customer satisfaction indicator described in paragraph (2)(B) for workforce investment activities authorized under this subchapter. The levels of performance established under this subparagraph shall, at a minimum—
+&emsp;&emsp;&emsp;For each State submitting a State plan, there shall be established, in accordance with this subparagraph, levels of performance for each of the core indicators of performance described in paragraph (2)(A) and the customer satisfaction indicator described in paragraph (2)(B) for workforce investment activities authorized under this subchapter. The levels of performance established under this subparagraph shall, at a minimum—
 
 &emsp;&emsp;&emsp;&emsp;(I) be expressed in an objective, quantifiable, and measurable form; and
 
@@ -116,7 +116,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (1) In general
 
-&emsp;Each State that receives an allotment under section 2852 or 2862 of this title shall annuallyprepare and submit to the Secretary a report on the progress of the State in achieving State performance measures, including information on the levels of performance achieved by the State with respect to the core indicators of performance and the customer satisfaction indicator. The annual report also shall include information regarding the progress of local areas in the State in achieving local performance measures, including information on the levels of performance achieved by the areas with respect to the core indicators of performance and the customer satisfaction indicator. The report also shall include information on the status of State evaluations of workforce investment activities described in subsection (e) of this section.
+&emsp;Each State that receives an allotment under section 2852 or 2862 of this title shall annually prepare and submit to the Secretary a report on the progress of the State in achieving State performance measures, including information on the levels of performance achieved by the State with respect to the core indicators of performance and the customer satisfaction indicator. The annual report also shall include information regarding the progress of local areas in the State in achieving local performance measures, including information on the levels of performance achieved by the areas with respect to the core indicators of performance and the customer satisfaction indicator. The report also shall include information on the status of State evaluations of workforce investment activities described in subsection (e) of this section.
 
 #### (2) Additional information
 
@@ -182,7 +182,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (B) Reduction in amount of grant
 
-&emsp;&emsp;If such failure continues for a second consecutive year, or if a State fails to submit a report under subsection (d) of this section for any program year, the Secretary may reduce by not more than 5 percent, the amount of the grant that would (in the absence of this paragraph) be payable to the State under such program for the immediately succeeding program year. Such penalty shall be based on the degree of failure to meet State adjusted levels of performance.
+&emsp;&emsp;If such failure continues for a second consecutive year, or if a State fails to submit areport under subsection (d) of this section for any program year, the Secretary may reduce by not more than 5 percent, the amount of the grant that would (in the absence of this paragraph) be payable to the State under such program for the immediately succeeding program year. Such penalty shall be based on the degree of failure to meet State adjusted levels of performance.
 
 #### (2) Funds resulting from reduced allotments
 
@@ -244,11 +244,11 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### References in Text
 
-This chapter, referred to in subsec. (b)(3)(B), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in subsec. (b)(3)(B), was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 This Act, referred to in subsec. (f)(3), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended, known as the Workforce Investment Act of 1998. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 49<i>l</i>–2, 710, 721, 726, 2801, 2821, 2822, 2832, 2833, 2842, 2864, 2899, 2914, 2915, 2917 of this title; title 20 section 9212.
+This section is referred to in sections 49<i>l</i>–2, 710, 721, 726, 2801, 2821, 2822, 2832, 2833, 2842, 2864, 2899, 2914, 2915,2917 of this title; title 20 section 9212; title 38 sections 4102A, 4107.
 

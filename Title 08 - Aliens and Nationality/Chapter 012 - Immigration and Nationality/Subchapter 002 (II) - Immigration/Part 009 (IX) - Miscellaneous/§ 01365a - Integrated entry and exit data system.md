@@ -46,7 +46,7 @@ For purposes of this section, the term “integrated entry and exit data system�
 
 #### (2) High-traffic land border ports of entry
 
-&emsp;Not later than December 31, 2004, the Attorney General shall implement the integratedentry and exit data system using the data described in paragraph (1) and available alien arrival and departure data described in subsection (b)(1) of this section pertaining to aliens arriving in, or departing from, the United States at the 50 land border ports of entry determined by the Attorney General to serve the highest numbers of arriving and departing aliens. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at such a port of entry, are entered into the system and can be accessed by immigration officers at airports, seaports, and other such land border ports of entry.
+&emsp;Not later than December 31, 2004, the Attorney General shall implement the integrated entry and exit data system using the data described in paragraph (1) and available alien arrival and departure data described in subsection (b)(1) of this section pertaining to aliens arriving in, or departing from, the United States at the 50 land border ports of entry determined by the Attorney General to serve the highest numbers of arriving and departing aliens. Such implementation shall include ensuring that such data, when collected or created by an immigration officer at such a port of entry, are entered into the system and can be accessed by immigration officers at airports, seaports, and other such land border ports of entry.
 
 #### (3) Remaining data
 
@@ -122,7 +122,7 @@ Report.—
 
 &emsp;“(1)
 
-Deadline.—Not later than December 31 of each year following the development of the system under subsection (a) of this section, the Attorney Generalshall submit an annual report to the Committees on the Judiciary of the House of Representatives and of the Senate on such system.
+Deadline.—Not later than December 31 of each year following the development of the system under subsection (a) of this section, the Attorney General shall submit an annual report to the Committees on the Judiciary of the House of Representatives and of the Senate on such system.
 
 &emsp;“(2)
 
@@ -144,9 +144,13 @@ Pub. L. 105–259 in introductory provisions, substituted “October 15, 1998”
 
 Subsec. (a)(3). Pub. L. 105–277, §116(2)–(4), added par. (3).
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Visa Integrity and Security
 
-Pub. L. 107–56, title IV, §414, Oct. 26, 2001, 115 Stat. 353, provided that:
+Pub. L. 107–56, title IV, §414, Oct. 26, 2001, 115 Stat. 353, as amended by Pub. L. 107–173, title II, §201(b)(2), May 14, 2002, 116 Stat. 547, provided that:
 
 “(a)
 
@@ -154,7 +158,7 @@ Sense of Congress Regarding the Need To Expedite Implementation of Integrated En
 
 &emsp;“(1)
 
-Sense of congress.—In light of the terrorist attacks perpetrated against the United States on September 11, 2001, it is the sense of the Congress that—
+Sense of congress.—In light of the terrorist attacks perpetrated against the United States onSeptember 11, 2001, it is the sense of the Congress that—
 
 &emsp;&emsp;“(A) the Attorney General, in consultation with the Secretary of State, should fully implement the integrated entry and exit data system for airports, seaports, and land border ports of entry, as specified in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1365a), with all deliberate speed and as expeditiously as practicable; and
 
@@ -174,11 +178,7 @@ Development of the System.—In the development of the integrated entry and exit
 
 “(c)
 
-Interface With Law Enforcement Databases.—The entry and exit data system described in this section shall be able to interface with law enforcement databases for use by Federal law enforcement to identify and detain individuals who pose a threat to the national security of the United States.
-
-“(d)
-
-Report on Screening Information.—Not later than 12 months after the date of enactment of this Act \[Oct. 26, 2001\], the Office of Homeland Security shall submit a report to Congress on the information that is needed from any United States agency to effectively screen visa applicants and applicants for admission to the United States to identify those affiliated with terrorist organizations or those that pose any threat to the safety or security of the United States, including the type of information currently received by United States agencies and the regularity with which such information is transmitted to the Secretary of State and the Attorney General.”
+Interface With Law Enforcement Databases.—The entry and exit data system described in this section shall be able to interface with law enforcement databases for use by Federal law enforcement to identify and detain individuals who pose a threat to the national security of the United States.”
 
 #### Task Force
 
@@ -242,7 +242,7 @@ Duties.—The Task Force shall evaluate the following:
 
 &emsp;“(2) How the United States can improve the flow of traffic at airports, seaports, and land border ports of entry through—
 
-&emsp;&emsp;“(A) enhancing systems for data collection and data sharing, including the integrated entry andexit data system described in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1221 note \[8 U.S.C. 1365a\]), as amended by section 2 of this Act, by better use of technology, resources, and personnel;
+&emsp;&emsp;“(A) enhancing systems for data collection and data sharing, including the integrated entry and exit data system described in section 110 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1221 note \[8 U.S.C. 1365a\]), as amended by section 2 of this Act, by better use of technology, resources, and personnel;
 
 &emsp;&emsp;“(B) increasing cooperation between the public and private sectors;
 

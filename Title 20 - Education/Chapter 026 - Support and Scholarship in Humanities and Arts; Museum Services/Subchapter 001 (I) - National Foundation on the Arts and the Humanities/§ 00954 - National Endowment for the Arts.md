@@ -174,7 +174,7 @@ It shall be a condition of the receipt of any grant under this section that the 
 
 #### (n) Labor standards of laborers and mechanics
 
-It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State or State agency receiving such grant furnish adequate assurances to the Secretary of Labor that all laborers and mechanics employed by contractors or subcontractors on construction projects assisted under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Davis-Bacon Act, as amended \[40 U.S.C. 276a et seq.\]. The Secretary of Labor shall have with respect to the labor standards specified in this subsection the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 276c of title 40.
+It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State or State agency receiving such grant furnish adequate assurances to the Secretary of Labor that all laborers and mechanics employed by contractors or subcontractors on construction projects assisted under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have with respect to the labor standards specified in this subsection the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 3145 of title 40.
 
 #### (<i>o</i>) Correlation and development of endowment programs with other Federal and non-Federal programs; expenditure of appropriations
 
@@ -236,9 +236,11 @@ The Chairperson of the National Endowment for the Arts shall, in ongoing consult
 
 The effective date of this subsection, referred to in subsec. (<i>l</i>)(3)(A), is October 1, 1990, see section 318 \[title IV, §403(a)\] of Pub. L. 101–512, set out as an Effective Date of 1990 Amendment note under section 951 of this title.
 
-The Davis-Bacon Act, as amended, referred to in subsec. (n), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (n), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+
+In subsec. (n), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -252,7 +254,7 @@ Subsec. (c)(5). Pub. L. 101–512, §318 \[title I, §103(a)(3)\], inserted “e
 
 Subsec. (c)(8) to (10). Pub. L. 101–512, §318 \[title I, §103(a)(4)–(6)\], added pars. (8) and (9) and redesignated former par. (8) as (10).
 
-Subsec. (d). Pub. L. 101–512, §318 \[title I, §103(b)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No payment may be made to any group under this section except upon application therefor which is submitted to the National Endowment for the Arts in accordance with regulations and procedures established by the Chairperson.”
+Subsec. (d). Pub. L. 101–512, §318 \[title I, §103(b)\], amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “No payment may be made to any group under this section except upon applicationtherefor which is submitted to the National Endowment for the Arts in accordance with regulations and procedures established by the Chairperson.”
 
 Subsec. (f). Pub. L. 101–512, §318 \[title I, §103(c)\], substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -338,7 +340,7 @@ Subsec. (<i>l</i>). Pub. L. 94–462, §301(a), added subsec. (<i>l</i>).
 
 Subsec. (m). Pub. L. 94–462, §401(a), added subsec. (m).
 
-1973—Subsec. (c). Pub. L. 93–133, §3, in opening paragraph, struck out reference to Federal Council on the Arts and Humanities, in cl. (1), substituted “projects and productions” for “production”, in cl. (2), substituted “projects and productions” and “for geographic or economic reasons” for “production” and “in many areas of the country” respectively, in cl. (3), substituted “projects and productions” for “projects”, in cl. (5), substituted “, planning, and publications relating to the purposes of this subsection” for “and planning in the arts”, and added paragraph following cl. (5).
+1973—Subsec. (c). Pub. L. 93–133, §3, in opening paragraph, struck out reference to Federal Council on the Arts and Humanities, in cl. (1), substituted “projectsand productions” for “production”, in cl. (2), substituted “projects and productions” and “for geographic or economic reasons” for “production” and “in many areas of the country” respectively, in cl. (3), substituted “projects and productions” for “projects”, in cl. (5), substituted “, planning, and publications relating to the purposes of this subsection” for “and planning in the arts”, and added paragraph following cl. (5).
 
 Subsec. (g)(1). Pub. L. 93–133, §2(a)(4)(A), struck out reference to Federal Council on the Arts and Humanities.
 

@@ -14,7 +14,7 @@ Any such court within the jurisdiction of which such inquiry is carried on may, 
 
 #### (d) Fees and mileage costs of witnesses
 
-Witnesses summoned before the Secretary shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses from whom depositions are taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
+Witnesses summoned before the Secretary shall be paid the same fees and mileage that are paid witnesses in the courts of the United States, and witnesses from whom depositionsare taken and the persons taking the same shall severally be entitled to the same fees as are paid for like services in the courts of the United States.
 
 #### (e) Violation of subpena as misdemeanor
 

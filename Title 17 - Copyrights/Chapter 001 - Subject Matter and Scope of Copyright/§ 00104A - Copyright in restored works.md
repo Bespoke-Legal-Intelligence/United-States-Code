@@ -82,7 +82,7 @@ Notices of intent filed with the copyright office.—(A)(i) A notice of intent f
 
 &emsp;(iii) Minor errors or omissions may be corrected by further notice at any time after the notice of intent is filed. Notices of corrections for such minor errors or omissions shall be accepted after the period established in subsection (d)(2)(A)(i). Notices shall be published in the Federal Register pursuant to subparagraph (B).
 
-&emsp;(B)(i) The Register of Copyrights shall publish in the Federal Register, commencing notlater than 4 months after the date of restoration for a particular nation and every 4 months thereafter for a period of 2 years, lists identifying restored works and the ownership thereof if a notice of intent to enforce a restored copyright has been filed.
+&emsp;(B)(i) The Register of Copyrights shall publish in the Federal Register, commencing not later than 4 months after the date of restoration for a particular nation and every 4 months thereafter for a period of 2 years, lists identifying restored works and the ownership thereof if a notice of intent to enforce a restored copyright has been filed.
 
 &emsp;(ii) Not less than 1 list containing all notices of intent to enforce shall be maintained in the Public Information Office of the Copyright Office and shall be available for public inspection and copying during regular business hours pursuant to sections 705 and 708.
 
@@ -160,7 +160,7 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;(4) The term “reliance party” means any person who—
 
-&emsp;&emsp;(A) with respect to a particular work, engages in acts, before the source country of that work becomes an eligible country, which would have violated section 106 if the restored work had been subject to copyrightprotection, and who, after the source country becomes an eligible country, continues to engage in such acts;
+&emsp;&emsp;(A) with respect to a particular work, engages in acts, before the source country of that work becomes an eligible country, which would have violated section 106 if therestored work had been subject to copyright protection, and who, after the source country becomes an eligible country, continues to engage in such acts;
 
 &emsp;&emsp;(B) before the source country of a particular work becomes an eligible country, makes or acquires 1 or more copies or phonorecords of that work; or
 
@@ -180,9 +180,11 @@ Definitions.—For purposes of this section and section 109(a):
 
 &emsp;&emsp;&emsp;(ii) lack of subject matter protection in the case of sound recordings fixed before February 15, 1972; or
 
-&emsp;&emsp;&emsp;(iii) lack of national eligibility; and
+&emsp;&emsp;&emsp;(iii) lack of national eligibility;
 
-&emsp;&emsp;(D) has at least one author or rightholder who was, at the time the work was created, a national or domiciliary of an eligible country, and if published, was first published in an eligible country and not published in the United States during the 30-day period following publication in such eligible country.
+&emsp;&emsp;(D) has at least one author or rightholder who was, at the time the work was created, a national or domiciliary of an eligible country, and if published, was first published in an eligible country and not published in the United States during the 30-day period following publication in such eligible country; and
+
+&emsp;&emsp;(E) if the source country for the work is an eligible country solely by virtue of its adherence to the WIPO Performances and Phonograms Treaty, is a sound recording.
 
 &emsp;(7) The term “rightholder” means the person—
 
@@ -208,12 +210,6 @@ Definitions.—For purposes of this section and section 109(a):
 
 (Added Pub. L. 103–182, title III, §334(a), Dec. 8, 1993, 107 Stat. 2115; amended Pub. L. 103–465, title V, §514(a), Dec. 8, 1994, 108 Stat. 4976; Pub. L. 104–295, §20(e)(2), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 105–80, §2, Nov. 13, 1997, 111 Stat. 1530; Pub. L. 105–304, title I, §102(c), Oct. 28, 1998, 112 Stat. 2862.)
 
-#### Amendment of Subsection (h)(6)
-
-<i>Pub. L. 105–304, title I, §§102(c)(3), 105(b)(2)(F), Oct. 28, 1998, 112 Stat. 2863, 2877, provided that, effective upon the entry into force of the WIPO Performances and Phonograms Treaty with respect to the United States, subsection (h)(6) of this section is amended in subparagraph (C)(iii), by striking out “and” at end, in subparagraph (D), by substituting “; and” for the period at end, and by adding subparagraph (E) to read as follows:</i>
-
-(E) if the source country for the work is an eligible country solely by virtue of its adherence to the WIPO Performances and Phonograms Treaty, is a sound recording.
-
 #### References in Text
 
 The date of the enactment of the Uruguay Round Agreements Act, referred to in subsecs. (d)(3)(A) and (h)(3), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
@@ -238,6 +234,8 @@ Subsec. (h)(3). Pub. L. 105–304, §102(c)(2), amended par. (3) generally. Prio
 
 > For purposes of this section, a nation that is a member of the Berne Convention on the date of the enactment of the Uruguay Round Agreements Act shall be construed to become an eligible country on such date of enactment.”
 
+Subsec. (h)(6)(E). Pub. L. 105–304, §102(c)(3), added subpar. (E).
+
 Subsec. (h)(8)(B)(i). Pub. L. 105–304, §102(c)(4), inserted “of which” before “the majority” and struck out “of eligible countries” after “domiciliaries”.
 
 Subsec. (h)(9). Pub. L. 105–304, §102(c)(5), struck out par. (9) which read as follows: “The terms ‘WTO Agreement’ and ‘WTO member country’ have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.”
@@ -250,7 +248,7 @@ Subsec. (h)(9). Pub. L. 105–304, §102(c)(5), struck out par. (9) which read a
 
 > a reliance party may continue to exploit that work for the duration of the restored copyright if the reliance party pays to the owner of the restored copyright reasonable compensation for conduct which would be subject to a remedy for infringement but for the provisions of this paragraph.”
 
-Subsec. (e)(1)(B)(ii). Pub. L. 105–80, §2(2), struck out at end “Such list shall also be published in the Federal Register on an annual basis for the first 2 years after the applicable date of restoration.”
+Subsec. (e)(1)(B)(ii). Pub. L. 105–80, §2(2), struck out at end “Such list shall also be published in the FederalRegister on an annual basis for the first 2 years after the applicable date of restoration.”
 
 Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) generally. Prior to amendment, pars. (2) and (3) read as follows:
 
@@ -268,7 +266,7 @@ Subsec. (h)(2), (3). Pub. L. 105–80, §2(3), (4), amended pars. (2) and (3) ge
 
 #### Effective Date of 1998 Amendment
 
-Subsec. (h)(1)(A), (B), (E), (3)(A), (B), (E) of this section and amendment by section 102(c)(4), (5) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, subsec. (h)(1)(C), (3)(C) of this section effective upon entry into force of WIPO Copyright Treaty with respect to United States, and subsec. (h)(1)(D), (3)(D) of this section and amendment by section 102(c)(3) of Pub. L. 105–304 effective upon entry into force of WIPO Performances and Phonograms Treaty with respect to United States, see section 105(a), (b)(1)(C), (D), (2)(D)–(F) of Pub. L. 105–304, set out as a note under section 101 of this title.
+Subsec. (h)(1)(A), (B), (E), (3)(A), (B), (E) of this section and amendment by section 102(c)(4), (5) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, subsec. (h)(1)(C), (3)(C) of this section effective Mar. 6, 2002, and subsec. (h)(1)(D), (3)(D) of this section and amendment by section 102(c)(3) of Pub. L. 105–304 effective May 20, 2002, see section 105(a), (b)(1)(C), (D), (2)(D)–(F) of Pub. L. 105–304, set out as a note under section 101 of this title.
 
 #### Effective Date
 

@@ -16,7 +16,7 @@
 
 Pub. L. 102–83 substituted “Secretary” for “Administrator” in two places.
 
-1984—Pub. L. 98–528 struck out “for construction” after “completion of any project”; inserted “acquisition,” after “in the case of the”; substituted “value of such project” for “value of such construction”; struck out “for such construction” after “assistance providedfor”, which amendment was executed by striking out “for such construction” after “assistance provided” as the probable intent of Congress, because “for” appeared only once after “assistance provided”; and substituted “20” for “twenty” in two places.
+1984—Pub. L. 98–528 struck out “for construction” after “completion of any project”; inserted “acquisition,” after “in the case of the”; substituted “value of such project” for “value of such construction”; struck out “for such construction” after “assistance provided for”, which amendment was executed by striking out “for such construction” after “assistance provided” as the probable intent of Congress, because “for” appeared only once after “assistance provided”; and substituted “20” for “twenty” in two places.
 
 1982—Pub. L. 97–295 substituted “percent” for “per centum”.
 

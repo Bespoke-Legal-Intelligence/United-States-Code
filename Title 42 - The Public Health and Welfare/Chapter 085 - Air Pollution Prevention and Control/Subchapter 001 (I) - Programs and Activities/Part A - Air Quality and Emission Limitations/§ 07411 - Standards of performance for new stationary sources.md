@@ -10,7 +10,7 @@ For purposes of this section:
 
 &emsp;(3) The term “stationary source” means any building, structure, facility, or installation which emits or may emit any air pollutant. Nothing in subchapter II of this chapter relating to nonroad engines shall be construed to apply to stationary internal combustion engines.
 
-&emsp;(4) The term “modification” means any physical change in, or change in the method ofoperation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in the emission of any air pollutant not previously emitted.
+&emsp;(4) The term “modification” means any physical change in, or change in the method of operation of, a stationary source which increases the amount of any air pollutant emitted by such source or which results in the emission of any air pollutant not previously emitted.
 
 &emsp;(5) The term “owner or operator” means any person who owns, leases, operates, controls, or supervises a stationary source.
 
@@ -28,7 +28,7 @@ For purposes of this section:
 
 (1)(A) The Administrator shall, within 90 days after December 31, 1970, publish (and from time to time thereafter shall revise) a list of categories of stationary sources. He shall include a category of sources in such list if in his judgment it causes, or contributes significantly to, air pollution which may reasonably be anticipated to endanger public health or welfare.
 
-(B) Within one year after the inclusion of a category of stationary sources in a list under subparagraph (A), the Administrator shall publish proposed regulations, establishing Federal standards of performance for new sources within such category. The Administrator shall afford interested persons an opportunity for written comment on such proposed regulations. After considering such comments, he shall promulgate, within one year after such publication, such standards with such modifications as he deems appropriate. The Administrator shall, at least every 8 years, review and, if appropriate, revise such standards following the procedure required by this subsection for promulgation of such standards. Notwithstanding the requirements of the previous sentence, the Administrator need not review any such standard if the Administrator determines that such review is not appropriate in light of readily available information on the efficacy of such standard. Standards of performance or revisions thereof shall become effective upon promulgation. When implementation and enforcement of any requirement of this chapter indicate that emission limitations and percent reductions beyond those required by the standards promulgated under this section are achieved in practice, the Administrator shall, when revising standards promulgated under this section, consider the emission limitations and percent reductions achieved in practice.
+(B) Within one year after the inclusion of a category of stationary sources in a list under subparagraph (A), the Administrator shall publish proposed regulations, establishing Federal standards of performance for new sources within such category. The Administrator shall afford interested persons an opportunity for written comment on such proposed regulations. After considering such comments, he shall promulgate, within one year after such publication, such standards with such modifications as he deems appropriate. The Administrator shall, at least every 8 years, review and, if appropriate, revise such standards following the procedure required by this subsection for promulgation of such standards. Notwithstanding the requirements of the previous sentence, the Administrator need not review any such standard if theAdministrator determines that such review is not appropriate in light of readily available information on the efficacy of such standard. Standards of performance or revisions thereof shall become effective upon promulgation. When implementation and enforcement of any requirement of this chapter indicate that emission limitations and percent reductions beyond those required by the standards promulgated under this section are achieved in practice, the Administrator shall, when revising standards promulgated under this section, consider the emission limitations and percent reductions achieved in practice.
 
 (2) The Administrator may distinguish among classes, types, and sizes within categories of new sources for the purpose of establishing such standards.
 
@@ -80,7 +80,7 @@ After the effective date of standards of performance promulgated under this sect
 
 &emsp;(C) the mobility and competitive nature of each such category of sources and the consequent need for nationally applicable new source standards of performance.
 
-(3) Before promulgating any regulations under this subsection or listing any category of major stationary sources as required under this subsection, the Administrator shall consult with appropriate representatives of the Governors and of State air pollution control agencies.
+(3) Before promulgating any regulations under this subsection or listing any category of majorstationary sources as required under this subsection, the Administrator shall consult with appropriate representatives of the Governors and of State air pollution control agencies.
 
 #### (g) Revision of regulations
 
@@ -124,7 +124,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 #### (j) Innovative technological systems of continuous emission reduction
 
-(1)(A) Any person proposing to own or operate a new source may request the Administrator for one or more waivers from the requirements of this section for such source or any portion thereof with respect to any air pollutant to encourage the use of an innovative technological system or systems of continuous emission reduction. The Administrator may, with the consent of the Governor of the State in which the source is to be located, grant a waiver under this paragraph, if the Administrator determines after notice and opportunity for public hearing, that—
+(1)(A) Any person proposing to own or operate a new source may request the Administrator for one or more waivers from the requirements of this section for such source or any portion thereof with respect to any air pollutant to encourage the use of an innovative technological system or systems of continuous emission reduction. The Administrator may, with the consent of the Governor of the State in which thesource is to be located, grant a waiver under this paragraph, if the Administrator determines after notice and opportunity for public hearing, that—
 
 &emsp;(i) the proposed system or systems have not been adequately demonstrated,
 
@@ -176,7 +176,7 @@ Any regulations promulgated by the Administrator under this section applicable t
 
 #### References in Text
 
-Such Act, referred to in subsec. (a)(8), means Pub. L. 93–319, June 22, 1974, 88 Stat. 246, as amended, known as the Energy Supply and Environmental Coordination Act of 1974, which is classified principally to chapter 16C (§791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 791 of Title 15 and Tables.
+Such Act, referred to in subsec. (a)(8), means Pub. L. 93–319, June 22, 1974, 88 Stat. 246, as amended, known asthe Energy Supply and Environmental Coordination Act of 1974, which is classified principally to chapter 16C (§791 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 791 of Title 15 and Tables.
 
 Section 7413 of this title, referred to in subsec. (a)(8), was amended generally by Pub. L. 101–549, title VII, §701, Nov. 15, 1990, 104 Stat. 2672, and, as so amended, subsec. (d) of section 7413 no longer relates to final compliance orders.
 

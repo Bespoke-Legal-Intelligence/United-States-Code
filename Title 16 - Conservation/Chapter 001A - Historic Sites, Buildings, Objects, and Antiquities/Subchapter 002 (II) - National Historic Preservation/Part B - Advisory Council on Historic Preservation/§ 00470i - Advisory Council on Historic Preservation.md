@@ -36,7 +36,7 @@ Each member of the Council appointed under paragraph (1), and under paragraphs (
 
 #### (d) Vacancies; term of office of members already appointed
 
-A vacancy in the Council shall not affect its powers, but shall be filled, not later than sixty days after such vacancy commences, in the same manner as the original appointment (and for the balance of any unexpired terms). The membersof the Advisory Council on Historic Preservation appointed by the President under this subchapter as in effect on the day before December 12, 1980, shall remain in office until all members of the Council, as specified in this section, have been appointed. The members first appointed under this section shall be appointed not later than one hundred and eighty days after December 12, 1980.
+A vacancy in the Council shall not affect its powers, but shall be filled, not later than sixty days after such vacancy commences, in the same manner as the original appointment (and for the balance of any unexpired terms). The members of the Advisory Council on Historic Preservation appointed by the President under this subchapter as in effect on the day before December 12, 1980, shall remain in office until all members of the Council, as specified in this section, have been appointed. The members first appointed under this section shall be appointed not later than one hundred and eighty days after December 12, 1980.
 
 #### (e) Designation of Vice Chairman
 
@@ -60,7 +60,7 @@ Subsec. (a)(11). Pub. L. 102–575, §4016, added par. (11).
 
 1980—Subsec. (a). Pub. L. 96–515, §301(a), revised the composition of the Council by reducing the membership from twenty-nine to eighteen members, provided flexibility for Federal agencies who will be represented, ensured that appropriate expertise will be available, and provided representation for State and local governments.
 
-Subsec. (b). Pub. L. 96–515, §301(b), substituted “(2) through (8) (other than (5) and (6))” and “(1) through (17)” and inserted “, except that, in the case of paragraphs (2) and (4), no such officer other than an Assistant Secretary or an officer having major department-wide or agency-wide responsibilities may be so designated” following “in his stead”.
+Subsec. (b). Pub. L. 96–515, §301(b), substituted “(2) through (8) (other than (5) and (6))” and “(1) through (17)” and inserted “, except that, in the case of paragraphs (2) and (4), no such officer other than an Assistant Secretary or an officer having major department-wide or agency-wide responsibilities may be so designated” following “in his stead”.
 
 Subsec. (c). Pub. L. 96–515, §301(c), substituted provision that the Chairman appointed by the President from the general public, each of the four experts appointed by the President, and each of the three at-large members appointed by the President from the general public serve a term of four years from the expiration of his predecessor's term, except that the members first appointed serve terms of one to four years in such a manner as to insure that the terms of not more than two of them expire in any one year, the one Governor and the one mayor appointed by the President serve for the term of their elected office but not in excess of four years, an appointed member not serve for more than two terms, and an appointed member whose term expired serve until his successor has been appointed for provision that each of the twelve members appointed by the President from outside the Federal Government serve for a term of five years from expiration of his predecessor's term, except that the members first appointed serve for terms of one to five years in such a manner as to insure that the terms of not less than one nor more than two of them expire in any one year.
 
@@ -96,5 +96,5 @@ Subsec. (f). Pub. L. 91–243, §1(e), substituted “Eleven” for “Eight”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 470<i>l</i>, 470w of this title; title 40 section 611.
+This section is referred to in sections 470<i>l</i>, 470w of this title; title 40 section 3303.
 

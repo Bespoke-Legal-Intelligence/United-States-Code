@@ -12,7 +12,7 @@
 
 Pub. L. 104–208, §308(e)(1)(H), substituted “removal” for “deportation”.
 
-1994—Subsec. (a). Pub. L. 103–416 struck out first three sentences which read as follows: “If, at any time within five years after the status of a person has been adjusted under the provisions of section 1254 of this title or under section 19(c) of the Immigration Act of February 5, 1917, to that of an alien lawfully admitted for permanent residence, it shall appear to the satisfaction of the Attorney General that the person was not in fact eligible for such adjustment of status, the Attorney General shall submit to the Congress a complete and detailed statement of the facts and pertinent provisions of law in the case. Such reports shall be submitted on the first and fifteenth day of each calendar month in which Congress is in session. If during the session of the Congress at which a case is reported, or prior to the close of the session of the Congress nextfollowing the session at which a case is reported, the Congress passes a concurrent resolution withdrawing suspension of deportation, the person shall thereupon be subject to all provisions of this chapter to the same extent as if the adjustment of status had not been made.”
+1994—Subsec. (a). Pub. L. 103–416 struck out first three sentences which read as follows: “If, at any time within five years after the status of a person has been adjusted under the provisions of section 1254 of this title or under section 19(c) of the Immigration Act of February 5, 1917, to that of an alien lawfully admitted for permanent residence, it shall appear to the satisfaction of the Attorney General that the person was not in fact eligible for such adjustment of status, the Attorney General shall submit to the Congress a complete and detailed statement of the facts and pertinent provisions of law in the case. Such reports shall be submitted on the first and fifteenth day of each calendar month in which Congress is in session. If during the session of the Congress at which a case is reported, or prior to the close of the session of the Congress next following the session at which a case is reported, the Congress passes a concurrent resolution withdrawing suspension of deportation, the person shall thereupon be subject to all provisions of this chapter to the same extent as if the adjustment of status had not been made.”
 
 #### Effective Date of 1996 Amendment
 
@@ -23,6 +23,10 @@ Section 378(b) of div. C of Pub. L. 104–208 provided that: “The amendment ma
 #### Effective Date of 1994 Amendment
 
 Section 219(m) of Pub. L. 103–416 provided that the amendment made by that section is effective Oct. 25, 1994.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 

@@ -52,12 +52,12 @@
 
 |  |  |
 | :--- | ---: |
-| [281\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000281%20-%20Revocation%20of%20commissions%20during%20first%20three%20years%20of%20commissioned%20service.md) | Revocation of commissions during first three years of commissioned service. |
+| [281\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000281%20-%20Revocation%20of%20commissions%20during%20first%20five%20years%20of%20commissioned%20service.md) | Revocation of commissions during first five years of commissioned service. |
 | [282\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000282%20-%20Regular%20lieutenants%20%28junior%20grade%29%3B%20separation%20for%20failure%20of%20selection%20for%20promotion.md) | Regular lieutenants (junior grade); separation for failure of selection for promotion. |
 | [283\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000283%20-%20Regular%20lieutenants%3B%20separation%20for%20failure%20of%20selection%20for%20promotion%3B%20continuation.md) | Regular lieutenants; separation for failure of selection for promotion; continuation. |
 | [284\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000284%20-%20Regular%20Coast%20Guard%3B%20officers%20serving%20under%20temporary%20appointments.md) | Regular Coast Guard; officers serving under temporary appointments. |
 | [285\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000285%20-%20Regular%20lieutenant%20commanders%20and%20commanders%3B%20retirement%20for%20failure%20of%20selection%20for%20promotion.md) | Regular lieutenant commanders and commanders; retirement for failure of selection for promotion. |
-| [286\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000286%20-%20Discharge%20in%20lieu%20of%20retirement%3B%20severance%20pay.md) | Discharge in lieu of retirement; severance pay. |
+| [286\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000286%20-%20Discharge%20in%20lieu%20of%20retirement%3B%20separation%20pay.md) | Discharge in lieu of retirement; severance pay. |
 | [286a.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000286a%20-%20Regular%20warrant%20officers%20severance%20pay.md) | Regular warrant officers: severance pay. |
 | [287\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000287%20-%20Separation%20for%20failure%20of%20selection%20for%20promotion%20or%20continuation%3B%20time%20of.md) | Separation for failure of selection for promotion or continuation; time of. |
 | [288\.](Officers/d.%20discharges%3B%20retirements%3B%20revocation%20of%20commissions/%C2%A7%2000288%20-%20Regular%20captains%3B%20retirement.md) | Regular captains; retirement. |
@@ -137,6 +137,7 @@
 | [422\.](General%20Provisions/%C2%A7%2000422%20-%20Status%20of%20recalled%20personnel.md) | Status of recalled personnel. |
 | [423\.](General%20Provisions/%C2%A7%2000423%20-%20Computation%20of%20retired%20pay.md) | Computation of retired pay. |
 | [424\.](General%20Provisions/%C2%A7%2000424%20-%20Limitations%20on%20retirement%20and%20retired%20pay.md) | Limitations on retirement and retired pay. |
+| [424a.](General%20Provisions/%C2%A7%2000424a%20-%20Suspension%20of%20payment%20of%20retired%20pay%20of%20members%20who%20are%20absent%20from%20the%20United%20States%20to%20avoid%20prosecution.md) | Suspension of payment of retired pay of members who are absent from the United States to avoid prosecution. |
 | [425\.](General%20Provisions/%C2%A7%2000425%20-%20Board%20for%20Correction%20of%20Military%20Records%20deadline.md) | Board for Correction of Military Records deadline. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -157,7 +158,13 @@ This chapter, dealing with the appointment, enlistment, promotion, retirement an
 
 The subject matter seemed to break down into the sub-heads of “Commissioned Officers”, “Warrant Officers”, “Enlisted Men”, and “General Provisions”. Each of the first three sub-heads parallels the other two, insofar as the applicability of statutes of the three groups permits. The last sub-head includes the broad provisions which, in the same terms, can be made applicable to all military personnel. In accord with existing Navy and Coast Guard law, the term “commissioned officer” includes commissioned warrant officers unless specifically excepted, or manifestly inapplicable. Heretofore Coast Guard statutes have designated commissioned warrant officers as chief warrant officers; in line with Navy designation it is changed to commissioned warrant officers throughout this title. Terms such as “Coast Guard personnel” or “personnel of the Coast Guard”, as used throughout this title, are intended to include all employees of the Service, civilian and military. 81st Congress, House Report No. 557.
 
+#### Amendment of Analysis
+
+<i>Pub. L. 107–295, title IV, §416(b)(2)–(4), (c), Nov. 25, 2002, 116 Stat. 2122, provided that, effective 4 years after Nov. 25, 2002, the table of sections for this chapter is amended by substituting “separation” for “severance” in items 286, 286a, and 327.</i>
+
 #### Amendments
+
+2002—Pub. L. 107–295, title IV, §§416(b)(1), 444(b), Nov. 25, 2002, 116 Stat. 2122, 2133, substituted “five” for “three” in item 281 and added item 424a.
 
 1996—Pub. L. 104–324, title II, §§209(b), 210(b), 211(b), Oct. 19, 1996, 110 Stat. 3914, 3915, substituted “Appointment” for “Original appointment” in item 214, struck out item 277 “Temporary promotions of warrant officers”, and added item 425.
 
@@ -211,7 +218,7 @@ Pub. L. 94–406, §6, Sept. 10, 1976, 90 Stat. 1236, which had required that Co
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 728 of this title.
+This chapter is referred to in sections 286, 728 of this title.
 
 
 ---

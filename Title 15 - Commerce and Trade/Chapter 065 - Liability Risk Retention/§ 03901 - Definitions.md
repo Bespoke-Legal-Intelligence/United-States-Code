@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) its owners only persons who comprise the membership of the risk retention group and who are provided insurance by such group;
 
-&emsp;&emsp;(F) whose members are engaged in businesses or activities similar or related withrespect to the liability to which such members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations;
+&emsp;&emsp;(F) whose members are engaged in businesses or activities similar or related with respect to the liability to which such members are exposed by virtue of any related, similar, or common business, trade, product, services, premises, or operations;
 
 &emsp;&emsp;(G) whose activities do not include the provision of insurance other than—
 
@@ -74,7 +74,7 @@
 
 #### References in Text
 
-The Federal Employers’ Liability Act (45 U.S.C. 51 et seq.), referred to in subsec. (a)(2)(B), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, as amended, which is classified generally to chapter 2 (§51 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see Short Title note set out under section 51 of Title 45 and Tables.
+The Federal Employers’ Liability Act (45 U.S.C. 51 et seq.), referred to in subsec. (a)(2)(B), is act Apr. 22, 1908, ch. 149, 35 Stat. 65, as amended, which is classified generally to chapter 2 (§51 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, seeShort Title note set out under section 51 of Title 45 and Tables.
 
 #### Codification
 

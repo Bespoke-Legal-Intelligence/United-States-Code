@@ -74,7 +74,7 @@
 
 &emsp;&emsp;Subject to subparagraph (B), if the person concerned discloses the circumstances of a violation of subsection (a) of this section before, or without knowledge of the commencement of, a formal investigation of such violation, the monetary penalty assessed under this subsection may not exceed—
 
-&emsp;&emsp;&emsp;(i) if the violation resulted from fraud, an amount equal to the actual or potential revenue of which the United States is or may be deprived as a result of overpayment of the claim; or
+&emsp;&emsp;&emsp;(i) if the violation resulted from fraud, an amount equal to the actual or potentialrevenue of which the United States is or may be deprived as a result of overpayment of the claim; or
 
 &emsp;&emsp;&emsp;(ii) if the violation resulted from negligence, an amount equal to the interest computed on the basis of the prevailing rate of interest applied under section 6621 of title 26 on the amount of actual revenue of which the United States is or may be deprived during the period that—
 
@@ -187,6 +187,10 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 #### Effective Date
 
 Section 622(b) of Pub. L. 103–182 provided that: “The amendment made by subsection (a) \[enacting this section\] applies to drawback claims filed on and after the nationwide operational implementation of an automated drawback selectivity program by the Customs Service. The Customs Service shall publish notice of this date in the Customs Bulletin.”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

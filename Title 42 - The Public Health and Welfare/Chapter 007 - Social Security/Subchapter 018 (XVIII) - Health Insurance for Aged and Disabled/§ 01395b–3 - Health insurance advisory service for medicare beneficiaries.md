@@ -62,7 +62,7 @@ The Secretary shall take such steps as are necessary to assure that medicare-eli
 
 #### (f) Report
 
-The Secretary shall include, in an annual report transmitted to the Congress, a report on the beneficiary assistance program and on other health insurance informational and counseling services made available to medicare-eligible individuals. The Secretary shall include in the report recommendations for such changes as may be desirable to improve the relationship between the medicare program and medicare-eligible individuals.
+The Secretary shall include, in an annual report transmitted to the Congress, a report onthe beneficiary assistance program and on other health insurance informational and counseling services made available to medicare-eligible individuals. The Secretary shall include in the report recommendations for such changes as may be desirable to improve the relationship between the medicare program and medicare-eligible individuals.
 
 (Pub. L. 101–508, title IV, §4359, Nov. 5, 1990, 104 Stat. 1388–137.)
 

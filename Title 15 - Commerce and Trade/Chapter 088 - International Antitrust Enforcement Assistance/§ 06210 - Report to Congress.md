@@ -14,7 +14,7 @@ In the 30-day period beginning 3 years after November 2, 1994, and with the conc
 
 &emsp;(6) giving the approximate number of requests made by foreign antitrust authorities under such agreements to the Attorney General and the Commission for investigations under section 6202 of this title, for orders under section 6203 of this title, and for antitrust evidence, and
 
-&emsp;(7) describing any significant problems or concerns of which the Attorney General is aware with respect to the operation of this chapter.
+&emsp;(7) describing any significant problems or concerns of which the Attorney General isaware with respect to the operation of this chapter.
 
 (Pub. L. 103–438, §11, Nov. 2, 1994, 108 Stat. 4602.)
 

@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(I) An urban Indian organization receiving funds under title V of the Indian Health Care Improvement Act \[25 U.S.C. 1651 et seq.\].
 
-&emsp;&emsp;(J) Any entity receiving assistance under subchapter XXIV of this chapter (other than a State or unit of local government or an entity described in subparagraph (D)), but only if the entity is certified by the Secretary pursuant to paragraph (7).
+&emsp;&emsp;(J) Any entity receiving assistance under subchapter XXIV of this chapter (other thana State or unit of local government or an entity described in subparagraph (D)), but only if the entity is certified by the Secretary pursuant to paragraph (7).
 
 &emsp;&emsp;(K) An entity receiving funds under section 247c of this title (relating to treatment of sexually transmitted diseases) or section 247b(j)(2) <sup>1</sup> of this title (relating to treatment of tuberculosis) through a State or unit of local government, but only if the entity is certified by the Secretary pursuant to paragraph (7).
 
@@ -108,7 +108,7 @@
 
 #### (D) List of purchasers and dispensers
 
-&emsp;&emsp;The certification process developed by the Secretary under subparagraph (A) shall include procedures under which each State shall, not later than 30 days after the submission of the descriptions under subparagraph (C), prepare and submit a report to the Secretary that contains a list of entities described in subparagraphs (J) and (K) of paragraph (4) that are located in the State.
+&emsp;&emsp;The certification process developed by the Secretary under subparagraph (A) shall include procedures under which each State shall, not later than 30 days after the submission of the descriptions under subparagraph (C), prepare and submit a report to theSecretary that contains a list of entities described in subparagraphs (J) and (K) of paragraph (4) that are located in the State.
 
 #### (E) Recertification
 

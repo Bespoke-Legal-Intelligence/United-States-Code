@@ -2,7 +2,7 @@
 
 #### (a) Civil remedies
 
-(1) The Attorney General may bring an action in an appropriate United States district courtfor appropriate declaratory and injunctive relief against any person who violates this chapter or any regulation under this chapter.
+(1) The Attorney General may bring an action in an appropriate United States district court for appropriate declaratory and injunctive relief against any person who violates this chapter or any regulation under this chapter.
 
 (2) An action under paragraph (1) may not be brought more than 10 years after the date on which the cause of action accrues.
 
@@ -14,7 +14,7 @@
 
 (3) Any person against whom a civil penalty is assessed under paragraph (2) of this subsection may obtain review thereof in the appropriate court of the United States by filing a notice of appeal in such court within 30 days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary. The findings and order of the Secretary shall be set aside by such court if they are found to be unsupported by substantial evidence, as provided in section 706(2) of title 5.
 
-(4) The Secretary may arbitrate, compromise, modify, or remit, with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section prior to referral to the Attorney General under paragraph (5).
+(4) The Secretary may arbitrate, compromise, modify, or remit, with or without conditions,any civil penalty which is subject to imposition or which has been imposed under this section prior to referral to the Attorney General under paragraph (5).
 
 (5) A civil penalty assessed under this subsection may be recovered in an action brought by the Attorney General on behalf of the United States in the appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 

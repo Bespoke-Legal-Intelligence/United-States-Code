@@ -48,7 +48,7 @@ Amendment by Pub. L. 107–56 applicable with respect to reports filed or record
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1951 of this title.
+This section is referred to in section 1951 of this title; title 31 sections 5321, 5322, 5324.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of Federal, State, or local law, a Federal, State, or local government entity or official may not prohibit, or in any way restrict, any government entity or official from sending to, or receiving from, the Immigration and Naturalization Service information regarding the citizenship or immigration status, lawful or unlawful, of any individual.
+Notwithstanding any other provision of Federal, State, or local law, a Federal, State, orlocal government entity or official may not prohibit, or in any way restrict, any government entity or official from sending to, or receiving from, the Immigration and Naturalization Service information regarding the citizenship or immigration status, lawful or unlawful, of any individual.
 
 #### (b) Additional authority of government entities
 
@@ -23,4 +23,8 @@ The Immigration and Naturalization Service shall respond to an inquiry by a Fede
 #### Codification
 
 Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

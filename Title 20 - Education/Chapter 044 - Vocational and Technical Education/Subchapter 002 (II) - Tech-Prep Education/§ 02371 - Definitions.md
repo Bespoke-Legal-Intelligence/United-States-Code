@@ -10,7 +10,7 @@
 
 &emsp;The term “community college”—
 
-&emsp;&emsp;(A) means an institution of higher education, as defined in section 1001 of this title, that provides not less than a 2-year program that is acceptable for full credit toward a bachelor's degree; and
+&emsp;&emsp;(A) means an institution of higher education, as defined in section 1001 of thistitle, that provides not less than a 2-year program that is acceptable for full credit toward a bachelor's degree; and
 
 &emsp;&emsp;(B) includes tribally controlled colleges or universities.
 

@@ -8,7 +8,7 @@
 
 (3)(A) To the extent practicable, the Secretary shall acquire both dedicated and dual fueled vehicles, and shall ensure that each type of alternative fueled vehicle is used by the Federal Government.
 
-(B) Vehicles acquired under this section shall be acquired from original equipment manufacturers. If such vehicles are not available from original equipment manufacturers, vehicles converted to use alternative fuels may be acquired if, after conversion, the original equipment manufacturer's warranty continues to apply to such vehicles, pursuant to an agreement between the original equipment manufacturer and the person performing the conversion. This subparagraph shall not apply to vehicles acquired by the United States Postal Service pursuant to a contract entered into by the United States Postal Service before October 24, 1992, and which terminates on or before December 31, 1997.
+(B) Vehicles acquired under this section shall be acquired from original equipment manufacturers. If such vehicles are not available from original equipment manufacturers, vehicles converted to use alternative fuels may be acquiredif, after conversion, the original equipment manufacturer's warranty continues to apply to such vehicles, pursuant to an agreement between the original equipment manufacturer and the person performing the conversion. This subparagraph shall not apply to vehicles acquired by the United States Postal Service pursuant to a contract entered into by the United States Postal Service before October 24, 1992, and which terminates on or before December 31, 1997.
 
 (C) Alternative fueled vehicles, other than those described in subparagraph (B), may be acquired solely for the purposes of studies under subsection (b) of this section, whether or not original equipment manufacturer warranties still apply.
 
@@ -86,7 +86,7 @@ For purposes of this part—
 
 &emsp;(1) the term “acquired” means leased for a period of sixty continuous days or more, or purchased;
 
-&emsp;(2) the term “alternative fuel” means methanol, denatured ethanol, and other alcohols; mixtures containing 85 percent or more (or such other percentage, but not less than 70 percent, as determined by the Secretary, by rule, to provide for requirements relating to cold start, safety, or vehicle functions) by volume of methanol, denatured ethanol, andother alcohols with gasoline or other fuels; natural gas; liquefied petroleum gas; hydrogen; coal-derived liquid fuels; fuels (other than alcohol) derived from biological materials; electricity (including electricity from solar energy); and any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits;
+&emsp;(2) the term “alternative fuel” means methanol, denatured ethanol, and other alcohols; mixtures containing 85 percent or more (or such other percentage, but not less than 70 percent, as determined by the Secretary, by rule, to provide for requirements relating to cold start, safety, or vehicle functions) by volume of methanol, denatured ethanol, and other alcohols with gasoline or other fuels; natural gas; liquefied petroleum gas; hydrogen; coal-derived liquid fuels; fuels (other than alcohol) derived from biological materials; electricity (including electricity from solar energy); and any other fuel the Secretary determines, by rule, is substantially not petroleum and would yield substantial energy security benefits and substantial environmental benefits;
 
 &emsp;(3) the term “alternative fueled vehicle” means a dedicated vehicle or a dual fueled vehicle;
 
@@ -136,7 +136,7 @@ Subsec. (b)(1)(A). Pub. L. 102–486, §309, substituted “a representative sam
 
 Subsec. (b)(3) to (5). Pub. L. 102–486, §302(a)(4), added pars. (3) to (5).
 
-Subsec. (c). Pub. L. 102–486, §302(a)(5), in introductory provisions substituted “alternative fuels, such fuels” for “alcohol or natural gas, alcohol or natural gas” and in par. (1) substituted “alternative fuel” for “alcohol or natural gas”.
+Subsec. (c). Pub. L. 102–486, §302(a)(5), in introductory provisions substituted “alternative fuels, such fuels”for “alcohol or natural gas, alcohol or natural gas” and in par. (1) substituted “alternative fuel” for “alcohol or natural gas”.
 
 Subsec. (d)(2)(B). Pub. L. 102–486, §302(a)(6), substituted “To the extent that appropriations are available for such purposes, the Secretary” for “The Secretary”.
 

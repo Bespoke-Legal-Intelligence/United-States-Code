@@ -62,9 +62,7 @@ In this chapter—
 
 &emsp;&emsp;(P) the Panama Canal Commission.
 
-&emsp;&emsp;(Q) the Alternative Agricultural Research and Commercialization Corporation.
-
-(Pub. L. 97–258, §§1, 2(<i>l</i>)(1), Sept. 13, 1982, 96 Stat. 1041, 1062; Pub. L. 97–452, §1(26), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 100–86, title III, §303, Aug. 10, 1987, 101 Stat. 597; Pub. L. 101–73, title III, §307(e), title V, §§501(d), 511(b)(1), Aug. 9, 1989, 103 Stat. 353, 394, 406; Pub. L. 102–486, title IX, §902(b), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–82, title II, §202(e)(1), Sept. 21, 1993, 107 Stat. 888; Pub. L. 103–272, §4(f)(1)(Z), July 5, 1994, 108 Stat. 1363; Pub. L. 103–325, title I, §104(e), Sept. 23, 1994, 108 Stat. 2168; Pub. L. 104–106, div. C, title XXXV, §3530, Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–127, title VII, §722(b), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 104–134, title III, §3117(a), Apr. 26, 1996, 110 Stat. 1321–350; Pub. L. 104–287, §4(2), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–134, title IV, §415(d)(2), Dec. 2, 1997, 111 Stat. 2590.)
+(Pub. L. 97–258, §§1, 2(<i>l</i>)(1), Sept. 13, 1982, 96 Stat. 1041, 1062; Pub. L. 97–452, §1(26), Jan. 12, 1983, 96 Stat. 2478; Pub. L. 100–86, title III, §303, Aug. 10, 1987, 101 Stat. 597; Pub. L. 101–73, title III, §307(e), title V, §§501(d), 511(b)(1), Aug. 9, 1989, 103 Stat. 353, 394, 406; Pub. L. 102–486, title IX, §902(b), Oct. 24, 1992, 106 Stat. 2944; Pub. L. 103–82, title II, §202(e)(1), Sept. 21, 1993, 107 Stat. 888; Pub. L. 103–272, §4(f)(1)(Z), July 5, 1994, 108 Stat. 1363; Pub. L. 103–325, title I, §104(e), Sept. 23, 1994, 108 Stat. 2168; Pub. L. 104–106, div. C, title XXXV, §3530, Feb. 10, 1996, 110 Stat. 642; Pub. L. 104–127, title VII, §722(b), Apr. 4, 1996, 110 Stat. 1115; Pub. L. 104–134, title III, §3117(a), Apr. 26, 1996, 110 Stat. 1321–350; Pub. L. 104–287, §4(2), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–134, title IV, §415(d)(2), Dec. 2, 1997, 111 Stat. 2590; Pub. L. 107–171, title VI, §6201(d)(6), May 13, 2002, 116 Stat. 419.)
 
 Historical and Revision Notes<br>1982
 
@@ -108,6 +106,8 @@ This amends 31:9101(2) because the National Consumer Cooperative Bank is no long
 
 #### Amendments
 
+2002—Par. (3)(Q). Pub. L. 107–171 struck out subpar. (Q) which read: “the Alternative Agricultural Research and Commercialization Corporation.”
+
 1997—Par. (2). Pub. L. 105–134 redesignated subpars. (B) to (L) as (A) to (K), respectively, and struck out former subpar. (A) which read: “Amtrak.”
 
 1996—Par. (2)(J) to (M). Pub. L. 104–287, §4(2)(A), (B), redesignated subpars. (K) to (M) as (J) to (L), respectively, and struck out former subpar. (J), which read: “the United States Railway Association”.
@@ -146,7 +146,7 @@ Par. (3)(E). Pub. L. 101–73, §307(e), struck out subpar. (E) relating to Fede
 
 #### Effective Date of 1996 Amendment
 
-Section 3117(a) of Pub. L. 104–134 provided that the amendment made by that section was to take effect asof the privatization date \[July 28, 1998\]. For definition of that term, see section 2297h(9) of Title 42, The Public Health and Welfare.
+Section 3117(a) of Pub. L. 104–134 provided that the amendment made by that section was to take effect as of the privatization date \[July 28, 1998\]. For definition of that term, see section 2297h(9) of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1993 Amendment
 
@@ -162,7 +162,7 @@ Section 2(<i>l</i>) of Pub. L. 97–258 provided that the amendment made by that
 
 #### Dissolution of Pennsylvania Avenue Development Corporation
 
-Pennsylvania Avenue Development Corporation dissolved on or before Apr. 1, 1996, and assets, obligations, indebtedness, and unobligated and unexpended balances of Corporation transferred, see section 872 of Title 40, Public Buildings, Property, and Works.
+Pennsylvania Avenue Development Corporation dissolved on or before Apr. 1, 1996, and assets, obligations, indebtedness, and unobligated and unexpended balances of Corporation transferred, see Pub. L. 92–578, §3, Oct. 27, 1972, 86 Stat. 1267, as amended, which was classified to section 872 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 #### Abolition of United States Railway Association and Transfer of Functions
 
@@ -174,5 +174,5 @@ For provisions relating to certain bonuses paid by mixed-ownership and wholly ow
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1105, 1344, 1352 of this title; title 2 sections 651, 1602; title 5 sections 2302, 8147; title 7 section 943; title 12 sections 1757, 2293; title 16 section 838i; title 40 section 481; title 41 section 601.
+This section is referred to in sections 1105, 1344, 1352 of this title; title 2 sections 651, 1602; title 5 sections 2302, 8147; title 7 section 943; title 12 sections 1757, 2293; title 16 section 838i; title 40 section 502; title 41 section 601.
 

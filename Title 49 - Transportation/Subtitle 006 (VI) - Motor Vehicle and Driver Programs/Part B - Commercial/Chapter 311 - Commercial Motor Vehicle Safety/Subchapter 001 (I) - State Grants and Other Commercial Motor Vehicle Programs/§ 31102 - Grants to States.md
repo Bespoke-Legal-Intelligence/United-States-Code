@@ -114,7 +114,7 @@ In this section, the word “rules” is omitted as being synonymous with “reg
 
 In subsection (a), the words “Subject to this section and the availability of amounts” are substituted for “Under the terms and conditions of this section, subject to the availability of funds” to eliminate unnecessary words.
 
-In subsection (b)(1), before clause (A), the word “prescribe” is substituted for “formulate” for consistency in the revised title. Clause (D) is substituted for 49 App.:2302(d) to state the requirements of a plan in one place and to eliminate unnecessary words. In clause (K), the words “into law and practice” are omitted a unnecessary. In clause (O)(i), the words “highways ofthe United States” are substituted for “our Nation's highways” for consistency in the revised title and with other titles of the United States Code. In subclause (iii), the word “especially” is omitted as unnecessary.
+In subsection (b)(1), before clause (A), the word “prescribe” is substituted for “formulate” for consistency in the revised title. Clause (D) is substituted for 49 App.:2302(d) to state the requirements of a plan in one place and to eliminate unnecessary words. In clause (K), the words “into law and practice” are omitted a unnecessary. In clause (O)(i), the words “highways of the United States” are substituted for “our Nation's highways” for consistency in the revised title and with other titles of the United States Code. In subclause (iii), the word “especially” is omitted as unnecessary.
 
 In subsection (b)(3)(B), the words “Government financing” are substituted for “Federal funding” for clarity and consistency in the revised title.
 
@@ -132,7 +132,7 @@ Paragraph (1), referred to in subsec. (b)(3), was amended by Pub. L. 105–178, 
 
 Subsec. (b)(1)(R). Pub. L. 106–159, §207(2), added subpar. (R) and struck out former subpar. (R) which read as follows: “ensures that the State will cooperate in the enforcement of registration and financial responsibility requirements under sections 31138 and 31139, or regulations issued thereunder;”.
 
-1998—Subsec. (a). Pub. L. 105–178, §4003(b)(1), inserted “improving motor carrier safety and” after “implementation of programs for” and “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
+1998—Subsec. (a). Pub. L. 105–178, §4003(b)(1), inserted “improving motor carrier safety and” after “implementation of programs for” and “, hazardous materialstransportation safety,” after “commercial motor vehicle safety”.
 
 Subsec. (b)(1). Pub. L. 105–178, §4003(b)(2), in introductory provisions, substituted “assume responsibility for improving motor carrier safety and to adopt and enforce” for “adopt and assume responsibility for enforcing” and inserted “, hazardous materials transportation safety,” after “commercial motor vehicle safety”.
 
@@ -194,7 +194,7 @@ Pub. L. 106–159, title I, §103(e), Dec. 9, 1999, 113 Stat. 1754, provided tha
 
 “(1)
 
-Withholding of allocation for noncompliance.—If a State is not in substantial compliance witheach requirement of section 31311 of title 49, United States Code, the Secretary shall withhold all amounts that would be allocated, but for this paragraph, to the State from funds made available by or under this section (including any amendment made by this section).
+Withholding of allocation for noncompliance.—If a State is not in substantial compliance with each requirement of section 31311 of title 49, United States Code, the Secretary shall withhold all amounts that would be allocated, but for this paragraph, to the State from funds made available by or under this section (including any amendment made by this section).
 
 “(2)
 
@@ -218,7 +218,7 @@ Pub. L. 105–178, title IV, §4032, June 9, 1998, 112 Stat. 419, provided that:
 
 “(a)
 
-Study.—The Secretary \[of Transportation\] shall conduct a study on the effects of reductions of grants under section 31102 of title 49, United States Code, due to nonconformity of State intrastate motor carrier, commercial motor vehicle, and driver requirements with Federal interstate requirements. In conducting the study, the Secretary shall consider, at a minimum—
+Study.—The Secretary \[of Transportation\] shall conduct a study on the effects of reductions of grants under section 31102 of title 49, United States Code, due to nonconformity of State intrastate motor carrier,commercial motor vehicle, and driver requirements with Federal interstate requirements. In conducting the study, the Secretary shall consider, at a minimum—
 
 &emsp;“(1) national uniformity and the purposes of the motor carrier safety assistance program;
 

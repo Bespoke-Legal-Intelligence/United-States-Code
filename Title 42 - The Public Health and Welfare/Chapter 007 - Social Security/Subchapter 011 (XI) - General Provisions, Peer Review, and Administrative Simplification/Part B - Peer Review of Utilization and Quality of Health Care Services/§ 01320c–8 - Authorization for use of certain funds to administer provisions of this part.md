@@ -12,5 +12,5 @@ Expenses incurred in the administration of the contracts described in section 13
 
 #### Prior Provisions
 
-A prior section 1320c–8, act Aug. 14, 1935, ch. 531, title XI, §1159, as added Oct. 30, 1972, Pub. L. 92–603, title II, §249F(b), 86 Stat. 1437; amended Aug. 13, 1981, Pub. L. 97–35, title XXI, §2113(f), 95 Stat. 795, related to reconsideration hearing and review, prior to the general revision of this part by Pub. L. 97–248.
+A prior section 1320c–8, act Aug. 14, 1935, ch. 531, title XI, §1159, as added Oct. 30, 1972, Pub. L. 92–603, title II,§249F(b), 86 Stat. 1437; amended Aug. 13, 1981, Pub. L. 97–35, title XXI, §2113(f), 95 Stat. 795, related to reconsideration hearing and review, prior to the general revision of this part by Pub. L. 97–248.
 

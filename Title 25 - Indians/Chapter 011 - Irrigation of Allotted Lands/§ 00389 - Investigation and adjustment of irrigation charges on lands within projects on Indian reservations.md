@@ -32,7 +32,7 @@ In accordance with sections 389 to 389e of this title, order of Secretary of the
 
 In accordance with sections 389 to 389e of this title, order of Secretary of the Interior canceling $35,700.72 of delinquent irrigation charges, providing for the deferred payment of $13,851.98, and providing for the removal of two hundred thirty-two and fifty-six one hundredths acres of assessable land from the Wapato Indian irrigation project, was approved by Pub. L. 86–281, Sept. 16, 1959, 73 Stat. 564.
 
-Action by the Secretary of the Interior taken Sept. 9, 1942, pursuant to authority contained in sections 389 to 389e of this title with respect to lands within the Wapato Indian irrigation project was confirmed in act Dec. 24, 1942, ch. 815, 56 Stat. 1081.
+Action by the Secretary of the Interior taken Sept. 9, 1942, pursuant to authority contained in sections 389 to 389e of this title with respect to lands within theWapato Indian irrigation project was confirmed in act Dec. 24, 1942, ch. 815, 56 Stat. 1081.
 
 #### Wind River Indian Irrigation Project
 

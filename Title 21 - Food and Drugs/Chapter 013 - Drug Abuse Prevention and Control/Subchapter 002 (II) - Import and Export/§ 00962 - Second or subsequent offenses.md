@@ -12,7 +12,7 @@ For purposes of this section, a person shall be considered convicted of a second
 
 Section 851 of this title shall apply with respect to any proceeding to sentence a person under this section.
 
-(Pub. L. 91–513, title III, §1012, Oct. 27, 1970, 84 Stat. 1290; Pub. L. 98–473, title II, §§225(b), 505, Oct. 12, 1984, 98 Stat. 2030, 2070; Pub. L. 99–570, title I, §§1004(a), 1005(c), Oct. 27, 1986, 100 Stat. 3207–6; Pub. L. 103–322, title IX, §90105(b), Sept. 13, 1994, 108 Stat. 1988.)
+(Pub. L. 91–513, title III, §1012, Oct. 27, 1970, 84 Stat. 1290; Pub. L. 98–473, title II, §§225(b), 505,Oct. 12, 1984, 98 Stat. 2030, 2070; Pub. L. 99–570, title I, §§1004(a), 1005(c), Oct. 27, 1986, 100 Stat. 3207–6; Pub. L. 103–322, title IX, §90105(b), Sept. 13, 1994, 108 Stat. 1988.)
 
 #### Amendments
 

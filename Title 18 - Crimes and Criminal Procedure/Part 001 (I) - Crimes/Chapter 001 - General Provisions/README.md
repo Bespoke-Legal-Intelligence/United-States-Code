@@ -15,7 +15,7 @@
 | [11\.](%C2%A7%2000011%20-%20Foreign%20government%20defined.md) | Foreign government defined. |
 | [12\.](%C2%A7%2000012%20-%20United%20States%20Postal%20Service%20defined.md) | United States Postal Service defined. |
 | [13\.](%C2%A7%2000013%20-%20Laws%20of%20States%20adopted%20for%20areas%20within%20Federal%20jurisdiction.md) | Laws of States adopted for areas within Federal jurisdiction. |
-| [14\.](%C2%A7%2000014%20-%20Applicability%20to%20Canal%20Zone%3B%20definition.md) | Applicability to Canal Zone; definition. |
+| \[14. | Repealed.\] |
 | [15\.](%C2%A7%2000015%20-%20Obligation%20or%20other%20security%20of%20foreign%20government%20defined.md) | Obligation or other security of foreign government defined. |
 | [16\.](%C2%A7%2000016%20-%20Crime%20of%20violence%20defined.md) | Crime of violence defined. |
 | [17\.](%C2%A7%2000017%20-%20Insanity%20defense.md) | Insanity defense. |
@@ -33,6 +33,8 @@
 In the analysis of sections under this chapter heading, a new item, “14. Applicability to Canal Zone.”, was inserted by Senate amendment, to follow underneath item 13, inasmuch as a new section 14, with such a catchline, was inserted, by Senate amendment, in this chapter. See Senate Report No. 1620, amendments Nos. 1 and 3, 80th Cong.
 
 #### Amendments
+
+2002—Pub. L. 107–273, div. B, title IV, §4004(a), Nov. 2, 2002, 116 Stat. 1812, struck out item 14 “Applicability to Canal Zone; definition”.
 
 1996—Pub. L. 104–191, title II, §241(b), Aug. 21, 1996, 110 Stat. 2016, which directed the amendment of the table of sections at the beginning of chapter 2 of this title by inserting item 24, was executed by inserting item 24 in the table of sections at the beginning of this chapter, to reflect the probable intent of Congress.
 
@@ -66,13 +68,13 @@ Pub. L. 89–801, Nov. 8, 1966, 80 Stat. 1516, as amended by Pub. L. 91–39, Ju
 
 Ex. Ord. No. 11396, Feb. 7, 1968, 33 F.R. 2689, provided:
 
-WHEREAS the problem of crime in America today presents the Nation with a major challenge calling for maximum law enforcement efforts at every level of Government;
+WHEREAS the problem of crime in America today presents the Nation with a major challenge calling formaximum law enforcement efforts at every level of Government;
 
 WHEREAS coordination of all Federal Criminal law enforcement activities and crime prevention programs is desirable in order to achieve more effective results;
 
 WHEREAS the Federal Government has acknowledged the need to provide assistance to State and local law enforcement agencies in the development and administration of programs directed to the prevention and control of crime:
 
-WHEREAS to provide such assistance the Congress has authorized various departments and agencies of the Federal Government to develop programs which maybenefit State and local efforts directed at the prevention and control of crime, and the coordination of such programs is desirable to develop and administer them most effectively; and
+WHEREAS to provide such assistance the Congress has authorized various departments and agencies of the Federal Government to develop programs which may benefit State and local efforts directed at the prevention and control of crime, and the coordination of such programs is desirable to develop and administer them most effectively; and
 
 WHEREAS the Attorney General, as the chief law officer of the Federal Government, is charged with the responsibility for all prosecutions for violations of the Federal criminal statutes and is authorized under the Law Enforcement Assistance Act of 1965 (79 Stat. 828) \[formerly set out as a note preceding section 3001 of this title\] to cooperate with and assist State, local, or other public or private agencies in matters relating to law enforcement organization, techniques and practices, and the prevention and control of crime.
 
@@ -96,8 +98,6 @@ Ex. Ord. No. 11534, June 4, 1970, 35 F.R. 8865, which related to the National Co
 
 <i><sup>4</sup></i><i> Editorially supplied. Chapter 119 added by Pub. L. 90–351 without corresponding amendment of part analysis.</i>
 
-<i><sup>5</sup></i><i> So in original. Probably should be “2721”.</i>
-
 
 ---
 
@@ -116,7 +116,7 @@ Ex. Ord. No. 11534, June 4, 1970, 35 F.R. 8865, which related to the National Co
 - [&sect; 00011 - Foreign government defined](%C2%A7%2000011%20-%20Foreign%20government%20defined.md)
 - [&sect; 00012 - United States Postal Service defined](%C2%A7%2000012%20-%20United%20States%20Postal%20Service%20defined.md)
 - [&sect; 00013 - Laws of States adopted for areas within Federal jurisdiction](%C2%A7%2000013%20-%20Laws%20of%20States%20adopted%20for%20areas%20within%20Federal%20jurisdiction.md)
-- [&sect; 00014 - Applicability to Canal Zone; definition](%C2%A7%2000014%20-%20Applicability%20to%20Canal%20Zone%3B%20definition.md)
+- [&sect; 00014 - Repealed. Pub. L. 107&#8211;273, div. B, title IV, &sect;4004(a), Nov. 2, 2002, 116 Stat. 1812](%C2%A7%2000014%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93273%2C%20div.%20B%2C%20title%20IV%2C%20%C2%A74004%28a%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201812.md)
 - [&sect; 00015 - Obligation or other security of foreign government defined](%C2%A7%2000015%20-%20Obligation%20or%20other%20security%20of%20foreign%20government%20defined.md)
 - [&sect; 00016 - Crime of violence defined](%C2%A7%2000016%20-%20Crime%20of%20violence%20defined.md)
 - [&sect; 00017 - Insanity defense](%C2%A7%2000017%20-%20Insanity%20defense.md)

@@ -18,7 +18,7 @@ The Secretary of the Interior is directed to investigate, study, and continually
 
 (3) No study of the potential of an area for inclusion in the National Park System may be initiated after November 13, 1998, except as provided by specific authorization of an Act of Congress.
 
-(4) Nothing in this Act shall limit the authority of the National Park Service to conduct preliminary resource assessments, gather data on potential study areas, provide technical and planning assistance, prepare or process nominations for administrative designations, update previous studies, or complete reconnaissance surveys of individual areas requiring a total expenditure of less than $25,000.
+(4) Nothing in this Act shall limit the authority of the National Park Service to conduct preliminary resource assessments, gather data on potential study areas, provide technical and planning assistance, prepare or process nominations for administrative designations, updateprevious studies, or complete reconnaissance surveys of individual areas requiring a total expenditure of less than $25,000.
 
 (5) Nothing in this section shall be construed to apply to or to affect or alter the study of any river segment for potential addition to the national wild and scenic rivers system or to apply to or to affect or alter the study of any trail for potential addition to the national trails system.
 
@@ -102,7 +102,7 @@ Subsec. (b). Pub. L. 103–437, §6(b)(2), substituted “The Secretary shall su
 
 1980—Subsec. (a). Pub. L. 96–344 inserted provisions requiring that each report indicate and elaborate on the theme or themes which the area represents as indicated in the National Park System Plan and the annual priority listing of areas be accomplished by a synopsis, for each report previously submitted, of current and changed conditions of the resource integrity of the area or other relevant factors, to cover the period since the previous such submission or initial report submission one year earlier.
 
-Pub. L. 96–199, §104(a), (b), designated existing provisions as subsec. (a) and inserted provision that shouldadequate supplies of previously printed identical reports remain available, newly submitted identical reports shall be omitted from printing upon the receipt by the Speaker of the United States House of Representatives of a joint letter from the chairman of the Committee on Interior and Insular Affairs of the United States House of Representatives and the chairman of the Committee on Energy and Natural Resources of the United States Senate indicating such to be the case.
+Pub. L. 96–199, §104(a), (b), designated existing provisions as subsec. (a) and inserted provision that should adequate supplies of previously printed identical reports remain available, newly submitted identical reports shall be omitted from printing upon the receipt by the Speaker of the United States House of Representatives of a joint letter from the chairman of the Committee on Interior and Insular Affairs of the United States House of Representatives and the chairman of the Committee on Energy and Natural Resources of the United States Senate indicating such to be the case.
 
 Subsec. (b). Pub. L. 96–199, §104(b), added subsec. (b).
 
@@ -178,7 +178,7 @@ Section 603 of title VI of div. I of Pub. L. 104–333, as amended by Pub. L. 10
 
 #### Lower Mississippi Delta Region Initiatives
 
-Pub. L. 103–433, title XI, Oct. 31, 1994, 108 Stat. 4512, directed Secretary of the Interior, in consultation with Delta Region States, the Lower Mississippi Delta Development Center, the Chairs of the National Endowment for the Arts and the National Endowment for the Humanities, the Director of the Smithsonian Institution, Historically Black Colleges and Universities, State Archaeological Surveys and Regional Archaeological Centers and other appropriate institutions, to prepare and transmit to Congress a series of studies involving Delta Region heritage particularly development of Delta Region Corridors and Heritage and Cultural Centers, preservation of historic and prehistoric sites and structures, Delta antiquities survey, and comprehensive historic and archaeological resources program.
+Pub. L. 103–433, title XI, Oct. 31, 1994, 108 Stat. 4512, directed Secretary of the Interior, in consultation with Delta Region States, the Lower Mississippi Delta Development Center, the Chairs of the National Endowment for the Arts and the National Endowment for theHumanities, the Director of the Smithsonian Institution, Historically Black Colleges and Universities, State Archaeological Surveys and Regional Archaeological Centers and other appropriate institutions, to prepare and transmit to Congress a series of studies involving Delta Region heritage particularly development of Delta Region Corridors and Heritage and Cultural Centers, preservation of historic and prehistoric sites and structures, Delta antiquities survey, and comprehensive historic and archaeological resources program.
 
 #### Boston Harbor Islands Study
 

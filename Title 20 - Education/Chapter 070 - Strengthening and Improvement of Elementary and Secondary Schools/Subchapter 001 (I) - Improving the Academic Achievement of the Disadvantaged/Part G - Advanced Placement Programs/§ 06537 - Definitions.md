@@ -12,7 +12,7 @@ In this part:
 
 #### (3) Low-income individual
 
-&emsp;The term “low-income individual” means an individual who is determined by a State educational agency or local educational agency to be a child, ages 5 through 17, from a low-income family, on the basis of data used by the Secretary to determine allocations under section 6333 of this title, data on children eligible for free or reduced-price lunches under the National School Lunch Act \[42 U.S.C. 1751 et seq.\], data on children in families receiving assistance under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or data on children eligible to receive medical assistance under the medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], or through an alternate method that combines or extrapolates from those data.
+&emsp;The term “low-income individual” means an individual who is determined by a State educational agency or local educational agency to be a child, ages 5 through 17, from a low-income family, on the basis of data used by the Secretary to determine allocations under section 6333 of this title, data on children eligible for free or reduced-price lunches under the National School Lunch Act \[42 U.S.C. 1751 et seq.\], data on children in families receiving assistance under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\], or data on children eligible to receive medical assistanceunder the medicaid program under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], or through an alternate method that combines or extrapolates from those data.
 
 (Pub. L. 89–10, title I, §1707, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1609.)
 

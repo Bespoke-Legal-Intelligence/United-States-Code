@@ -72,7 +72,7 @@ Authorization of appropriations.—There is authorized to be appropriated to the
 
 (f)
 
-Additional Action.—Under the pilot program established under subsection (a), the Secretary shall work with air carriers providing service to participating communities and major air carriers (as defined in section 41716(a)(2)) serving large hub airports (as defined in section 41731(a)(3)) to facilitate joint-fare arrangements consistent with normal industry practice.
+Additional Action.—Under the pilot program established under subsection (a), the Secretary shall work with air carriers providingservice to participating communities and major air carriers (as defined in section 41716(a)(2)) serving large hub airports (as defined in section 41731(a)(3)) to facilitate joint-fare arrangements consistent with normal industry practice.
 
 (g)
 

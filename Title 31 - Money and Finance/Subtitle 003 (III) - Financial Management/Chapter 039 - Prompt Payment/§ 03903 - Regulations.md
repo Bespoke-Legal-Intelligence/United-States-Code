@@ -36,7 +36,7 @@
 
 &emsp;(7) require that—
 
-&emsp;&emsp;(A) each invoice be reviewed as soon as practicable after receipt for the purpose of determining that such an invoice is a properinvoice within the meaning of section 3901(a)(3) of this title;
+&emsp;&emsp;(A) each invoice be reviewed as soon as practicable after receipt for the purpose of determining that such an invoice is a proper invoice within the meaning of section 3901(a)(3) of this title;
 
 &emsp;&emsp;(B) any invoice determined not to be such a proper invoice suitable for payment shall be returned as soon as practicable, but not later than 7 days, after receipt, specifying the reasons that the invoice is not a proper invoice; and
 
@@ -110,7 +110,7 @@ Subsec. (a)(5). Pub. L. 100–496, §5(2), added par. (5). Former par. (5) redes
 
 Subsec. (a)(6). Pub. L. 100–496, §6(2), added par. (6).
 
-Subsec. (a)(7). Pub. L. 100–496, §7, added par. (7) and struck out former par. (7), which read as follows: “require that, within 15 days after an invoice is received,the head of an agency notify the business concern of a defect or impropriety in the invoice that would prevent the running of the time period specified in clause (1)(B) of this section.”
+Subsec. (a)(7). Pub. L. 100–496, §7, added par. (7) and struck out former par. (7), which read as follows: “require that, within 15 days after an invoice is received, the head of an agency notify the business concern of a defect or impropriety in the invoice that would prevent the running of the time period specified in clause (1)(B) of this section.”
 
 Pub. L. 100–496, §5(1), redesignated par. (5) as (7).
 
@@ -156,7 +156,7 @@ Section 11 of Pub. L. 100–496 provided that:
 
 &emsp;&emsp;&emsp;“(ii) the making of a determination by such an employee, that the performance covered by the payment conforms to the terms and conditions of the contract.
 
-&emsp;“(3) A conclusive presumption, exclusively for the purposes of determining when an agency becomes obligated to pay a late payment interest penalty (other than under construction contracts), that the Federal Government has accepted property or services by the 7th day after the date on which, in accordance with the terms and conditions of the contract, the property is delivered or final performance of the services is completed, unless the solicitation specifies a longer period which is determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed.
+&emsp;“(3) A conclusive presumption, exclusively for the purposes of determining when an agency becomes obligated to pay a late payment interest penalty (other than under construction contracts), that the Federal Government has accepted property or services by the 7th day after the date on which, in accordance with the terms and conditions of the contract, the property is delivered or final performance of the services is completed, unless the solicitation specifies alonger period which is determined by the contracting officer to be required to afford the agency a practicable opportunity to inspect and test the property furnished or evaluate the services performed.
 
 &emsp;“(4) The limitation that the Federal Government may take a discount offered by a contractor for early payment by the Federal Government only in accordance with the time limits specified by the contractor, determined in accordance with the second sentence of section 3904 of title 31, United States Code.
 

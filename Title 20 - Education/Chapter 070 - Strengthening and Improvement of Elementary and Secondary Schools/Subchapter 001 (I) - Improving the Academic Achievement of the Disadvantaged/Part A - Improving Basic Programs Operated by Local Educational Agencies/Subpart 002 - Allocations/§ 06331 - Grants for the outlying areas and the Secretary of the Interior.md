@@ -82,7 +82,7 @@ A prior section 6331, Pub. L. 89–10, title I, §1121, as added Pub. L. 103–3
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7255f, 7801 of this title.
+This section is referred to in sections 7255f, 7801, 9501 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

@@ -30,7 +30,7 @@ Section 915(i) of Pub. L. 99–662 provided that: “The amendments made by this
 
 #### Effective Date of 1970 Amendment
 
-Section 112(c) of Pub. L. 91–611 provided that: “The amendments made by this section \[amending this section and section 577 of this title\] shall not apply to any project under contract for construction on the date of enactment of this Act \[Dec. 31, 1970\].”
+Section 112(c) of Pub. L. 91–611 provided that: “The amendments made by this section \[amending this section and section 577 of this title\] shall not apply to anyproject under contract for construction on the date of enactment of this Act \[Dec. 31, 1970\].”
 
 #### Transfer of Functions
 

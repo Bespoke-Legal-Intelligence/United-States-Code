@@ -2,7 +2,7 @@
 
 (a)
 
-Employment Investigation Requirement.—(1)(A) The Under Secretary of Transportation for Security shall require by regulation that an employment investigation, including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security,,<sup>1</sup> shall be conducted of each individual employed in, or applying for, a position as a security screener under section 44935(e) or a position in which the individual has unescorted access, or may permit other individuals to have unescorted access, to—
+Employment Investigation Requirement.—(1)(A) The Under Secretary of Transportation for Security shall require by regulation that an employment investigation, including a criminal history record check and a review of available law enforcement data bases and records of other governmental and internationalagencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security,,<sup>1</sup> shall be conducted of each individual employed in, or applying for, a position as a security screener under section 44935(e) or a position in which the individual has unescorted access, or may permit other individuals to have unescorted access, to—
 
 &emsp;(i) aircraft of an air carrier or foreign air carrier; or
 
@@ -22,7 +22,7 @@ Employment Investigation Requirement.—(1)(A) The Under Secretary of Transporta
 
 Background checks of current employees.—
 
-&emsp;(i) A new background check (including a criminal history record check and a review ofavailable law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security shall be required for any individual who is employed in a position described in subparagraphs (A) and (B) on the date of enactment of the Aviation and Transportation Security Act.
+&emsp;(i) A new background check (including a criminal history record check and a review of available law enforcement data bases and records of other governmental and international agencies to the extent determined practicable by the Under Secretary of Transportation for Transportation Security shall be required for any individual who is employed in a position described in subparagraphs (A) and (B) on the date of enactment of the Aviation and Transportation Security Act.
 
 &emsp;(ii) The Under Secretary may provide by order (without regard to the provisions of chapter 5 of title 5, United States Code) for a phased-in implementation of the requirements of this subparagraph.
 
@@ -304,6 +304,10 @@ Amendment by section 502(a) of Pub. L. 104–264 applicable to any air carrier h
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Criminal History Record Checks
 
 Pub. L. 106–528, §2(a), (b), Nov. 22, 2000, 114 Stat. 2517, provided that:
@@ -334,7 +338,7 @@ Notification concerning sufficiency of operation.—If the Administrator determi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40109, 40119, 44915, 44935, 44937 of this title.
+This section is referred to in sections 106, 40109, 44915, 44921, 44935, 44937 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

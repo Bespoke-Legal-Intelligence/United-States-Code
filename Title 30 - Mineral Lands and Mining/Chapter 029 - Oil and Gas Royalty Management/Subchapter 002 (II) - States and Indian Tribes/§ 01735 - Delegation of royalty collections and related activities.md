@@ -18,7 +18,7 @@ Upon written request of any State, the Secretary is authorized to delegate, in a
 
 #### (b) Prerequisites
 
-After notice and opportunity for a hearing, the Secretary is authorized to delegate such authorities and responsibilities granted under thissection as the State has requested, if the Secretary finds that—
+After notice and opportunity for a hearing, the Secretary is authorized to delegate such authorities and responsibilities granted under this section as the State has requested, if the Secretary finds that—
 
 &emsp;(1) it is likely that the State will provide adequate resources to achieve the purposes of this chapter;
 
@@ -36,7 +36,7 @@ After notice and opportunity for a hearing, the Secretary is authorized to deleg
 
 #### (c) Ruling as to consistency of State's proposal
 
-After notice and opportunity for hearing, the Secretary shall issue a ruling as to the consistency of a State's proposal with the provisions of this section and regulations under subsection (d) of this section within 90 days after submission of such proposal. In any unfavorable ruling, the Secretary shall set forth the reasons therefor and state whether the Secretary will agree to delegate to the State if the State meets the conditions set forth in such ruling.
+After notice and opportunity for hearing, the Secretary shall issue a ruling as to the consistency of a State's proposal with the provisions of this section and regulations under subsection (d) of this section within 90 days after submission ofsuch proposal. In any unfavorable ruling, the Secretary shall set forth the reasons therefor and state whether the Secretary will agree to delegate to the State if the State meets the conditions set forth in such ruling.
 
 #### (d) Promulgation of standards and regulations with respect to delegation
 
@@ -76,7 +76,7 @@ Any action of the Secretary to approve or disapprove a proposal submitted by a S
 
 #### (h) Existing delegation
 
-Any State operating pursuant to a delegation existing on August 13, 1996, may continue to operate under the terms and conditions of thedelegation, except to the extent that a revision of the existing agreement is adopted pursuant to this section.
+Any State operating pursuant to a delegation existing on August 13, 1996, may continue to operate under the terms and conditions of the delegation, except to the extent that a revision of the existing agreement is adopted pursuant to this section.
 
 (Pub. L. 97–451, title II, §205, Jan. 12, 1983, 96 Stat. 2459; Pub. L. 104–185, §3(a), Aug. 13, 1996, 110 Stat. 1702.)
 

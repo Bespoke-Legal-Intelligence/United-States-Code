@@ -22,7 +22,7 @@
 
 (4) Members of the Commission (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall receive compensation equivalent to the compensation paid at level IV of the Executive Schedule (5 U.S.C. 5315).
 
-(5) The Commission shall elect a chairman and a vice chairman from among its members (other than the Secretary of the Senate and the Clerk of the House of Representatives) for a term of one year. A member may serve as chairman onlyonce during any term of office to which such member is appointed. The chairman and the vice chairman shall not be affiliated with the same political party. The vice chairman shall act as chairman in the absence or disability of the chairman or in the event of a vacancy in such office.
+(5) The Commission shall elect a chairman and a vice chairman from among its members (other than the Secretary of the Senate and the Clerk of the House of Representatives) for a term of one year. A member may serve as chairman only once during any term of office to which such member is appointed. The chairman and the vice chairman shall not be affiliated with the same political party. The vice chairman shall act as chairman in the absence or disability of the chairman or in the event of a vacancy in such office.
 
 #### (b) Administration, enforcement, and formulation of policy; exclusive jurisdiction of civil enforcement; Congressional authorities or functions with respect to elections for Federal office
 
@@ -60,13 +60,17 @@ This Act, referred to in subsecs. (b), (c), and (f)(3), (4), means the Federal E
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (f)(1), (4), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
+#### Prior Provisions
+
+A prior section 306 of Pub. L. 92–225 was classified to section 436 of this title, prior to repeal by Pub. L. 96–187.
+
 #### Amendments
 
 1997—Subsec. (a)(2)(A). Pub. L. 105–61 substituted “for a single term of 6 years” for “for terms of 6 years” in introductory provisions.
 
 1986—Subsec. (c). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
-1980—Subsec. (a). Pub. L. 96–187, §105(6), in par. (1) inserted “or their designees,” before “ex officio”, and struck out “of the United States” after “President”; in par. (2)(B) inserted “or her” after “his” in two places; in par. (2)(C) inserted “or she” after “he”; in par. (3) struck out “maturity” before “experience”, substituted “and members (other than the Secretary of theSenate and the Clerk of the House of Representatives) shall be individuals who, at the time appointed to the Commission” for “and shall be chosen from among individuals who, at the time of their appointment”, substituted “Such members of the Commission” for “Members of the Commission” and substituted “of his or her appointment to the Commission” for “such individual begins to serve as a member of the Commission”; and in par. (5) substituted “A member may serve as Chairman only once” for “No member may serve as Chairman more often than once”.
+1980—Subsec. (a). Pub. L. 96–187, §105(6), in par. (1) inserted “or their designees,” before “ex officio”, and struck out “of the United States” after “President”; in par. (2)(B) inserted “or her” after “his” in two places; in par. (2)(C) inserted “or she” after “he”; in par. (3) struck out “maturity” before “experience”, substituted “and members (other than the Secretary of the Senate and the Clerk of the House of Representatives) shall be individuals who, at the time appointed to theCommission” for “and shall be chosen from among individuals who, at the time of their appointment”, substituted “Such members of the Commission” for “Members of the Commission” and substituted “of his or her appointment to the Commission” for “such individual begins to serve as a member of the Commission”; and in par. (5) substituted “A member may serve as Chairman only once” for “No member may serve as Chairman more often than once”.
 
 Subsec. (b)(1). Pub. L. 96–187, §105(6), substituted “exclusive jurisdiction” for “exclusive primary jurisdiction”.
 

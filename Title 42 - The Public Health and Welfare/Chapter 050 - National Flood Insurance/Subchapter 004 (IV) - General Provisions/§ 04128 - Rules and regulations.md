@@ -18,6 +18,10 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Floodplain Management
 
 For provisions relating to the reduction of the risk of flood loss, the minimization of the impact of floods on human safety, health and welfare, and the management of floodplains, see Ex. Ord. No. 11988, May 24, 1977, 42 F.R. 26951, set out as a note under section 4321 of this title.

@@ -6,7 +6,7 @@ If a joint inventor refuses to join in an application for patent or cannot be fo
 
 Whenever through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application, and such error arose without any deceptive intention on his part, the Director may permit the application to be amended accordingly, under such terms as he prescribes.
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §6(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–622, title I, §104(a), Nov. 8, 1984, 98 Stat. 3384; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 97–247, §6(a), Aug. 27, 1982, 96 Stat. 320; Pub. L. 98–622, title I, §104(a), Nov. 8, 1984, 98 Stat. 3384; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -14,11 +14,13 @@ The first paragraph is implied in the present statutes, and the part of the last
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+
+1999—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in two places.
 
 1984—Pub. L. 98–622 amended first par. generally, striking out “and each sign the application” after “patent jointly” and inserting sentence beginning “Inventors may apply”.
 
-1982—Pub. L. 97–247 substituted “Inventors” for “Joint inventors” as section catchline, and substituted“through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application” for “a person is joined in an application for patent as joint inventor through error, or a joint inventor is not included in an application through error”.
+1982—Pub. L. 97–247 substituted “Inventors” for “Joint inventors” as section catchline, and substituted “through error a person is named in an application for patent as the inventor, or through error an inventor is not named in an application” for “a person is joined in an application for patent as joint inventor through error, or a joint inventor is not included in an application through error”.
 
 #### Effective Date of 1999 Amendment
 

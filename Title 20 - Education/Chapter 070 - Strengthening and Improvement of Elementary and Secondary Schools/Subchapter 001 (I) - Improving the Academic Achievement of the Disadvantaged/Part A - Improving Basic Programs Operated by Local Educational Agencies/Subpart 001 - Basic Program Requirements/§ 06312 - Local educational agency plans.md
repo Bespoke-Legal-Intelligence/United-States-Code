@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(i) to determine the success of children served under this part in meeting the State student academic achievement standards, and to provide information to teachers, parents, and students on the progress being made toward meeting the State student academic achievement standards described in section 6311(b)(1)(D)(ii) of this title;
 
-&emsp;&emsp;&emsp;(ii) to assist in diagnosis, teaching, and learning in the classroom in ways thatbest enable low-achieving children served under this part to meet State student achievement academic standards and do well in the local curriculum;
+&emsp;&emsp;&emsp;(ii) to assist in diagnosis, teaching, and learning in the classroom in ways that best enable low-achieving children served under this part to meet State student achievement academic standards and do well in the local curriculum;
 
 &emsp;&emsp;&emsp;(iii) to determine what revisions are needed to projects under this part so that such children meet the State student academic achievement standards; and
 
@@ -30,7 +30,7 @@
 
 &emsp;&emsp;(C) a description of how the local educational agency will provide additional educational assistance to individual students assessed as needing help in meeting the State's challenging student academic achievement standards;
 
-&emsp;&emsp;(D) a description of the strategy the local educational agency will use to coordinate programs under this part with programs under subchapter II of this chapter to provide professional development for teachers and principals, and, if appropriate, pupil services personnel, administrators, parents and other staff, including local educational agency level staff in accordance with sections 6318 and 6319 of this title;
+&emsp;&emsp;(D) a description of the strategy the local educational agency will use to coordinate programs under this part with programs under subchapter II of this chapter to provide professional development for teachers and principals, and, if appropriate, pupilservices personnel, administrators, parents and other staff, including local educational agency level staff in accordance with sections 6318 and 6319 of this title;
 
 &emsp;&emsp;(E) a description of how the local educational agency will coordinate and integrate services provided under this part with other educational services at the local educational agency or individual school level, such as—
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(ii) services for children with limited English proficiency, children with disabilities, migratory children, neglected or delinquent youth, Indian children served under part A of subchapter VII of this chapter, homeless children, and immigrant children in order to increase program effectiveness, eliminate duplication, and reduce fragmentation of the instructional program;
 
-&emsp;&emsp;(F) an assurance that the local educational agency will participate, if selected, in the State National Assessment of Educational Progress in 4th and 8th grade reading and mathematics carried out under section 9010(b)(2) of this title;
+&emsp;&emsp;(F) an assurance that the local educational agency will participate, if selected, in the State National Assessment of Educational Progress in 4th and 8th grade reading and mathematics carried out under section 9622(b)(2) of this title;
 
 &emsp;&emsp;(G) a description of the poverty criteria that will be used to select school attendance areas under section 6313 of this title;
 
@@ -82,7 +82,7 @@
 
 &emsp;&emsp;(C) work in consultation with schools as the schools develop the schools’ plans pursuant to section 6314 of this title and assist schools as the schools implement such plans or undertake activities pursuant to section 6315 of this title so that each school can make adequate yearly progress toward meeting the State student academic achievement standards;
 
-&emsp;&emsp;(D) fulfill such agency's school improvement responsibilities under section 6316 of this title, including taking actions under paragraphs (7) and (8) of section 6316(b) of this title;
+&emsp;&emsp;(D) fulfill such agency's school improvement responsibilities under section 6316 ofthis title, including taking actions under paragraphs (7) and (8) of section 6316(b) of this title;
 
 &emsp;&emsp;(E) provide services to eligible children attending private elementary schools and secondary schools in accordance with section 6320 of this title, and timely and meaningful consultation with private school officials regarding such services;
 
@@ -116,7 +116,7 @@
 
 #### (3) Inapplicability
 
-&emsp;Paragraph (1)(G) of this subsection shall not apply to preschool programs using the EvenStart model or to Even Start programs that are expanded through the use of funds under this part.
+&emsp;Paragraph (1)(G) of this subsection shall not apply to preschool programs using the Even Start model or to Even Start programs that are expanded through the use of funds under this part.
 
 #### (d) Plan development and duration
 
@@ -140,7 +140,7 @@
 
 #### (2) Approval
 
-&emsp;The State educational agency shall approve a local educational agency's plan only if the State educational agency determines that the local educational agency's plan—
+&emsp;The State educational agency shall approve a local educational agency's plan only if theState educational agency determines that the local educational agency's plan—
 
 &emsp;&emsp;(A) enables schools served under this part to substantially help children served under this part meet the academic standards expected of all children described in section 6311(b)(1) of this title; and
 
@@ -192,7 +192,7 @@ The local educational agency plan shall reflect the shared responsibility of sch
 
 #### (2) Notice
 
-&emsp;The notice and information provided in paragraph (1) to a parent or parents of a childidentified for participation in a language instruction educational program for limited English proficient children shall be in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand.
+&emsp;The notice and information provided in paragraph (1) to a parent or parents of a child identified for participation in a language instruction educational program for limited English proficient children shall be in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand.
 
 #### (3) Special rule applicable during the school year
 
@@ -206,7 +206,7 @@ The local educational agency plan shall reflect the shared responsibility of sch
 
 &emsp;A student shall not be admitted to, or excluded from, any federally assisted education program on the basis of a surname or language-minority status.
 
-(Pub. L. 89–10, title I, §1112, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1462.)
+(Pub. L. 89–10, title I, §1112, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1462; amended Pub. L. 107–279, title IV, §404(d)(2), Nov. 5, 2002, 116 Stat. 1985.)
 
 #### References in Text
 
@@ -221,6 +221,10 @@ The Education Flexibility Partnership Act of 1999, referred to in subsec. (c)(1)
 #### Prior Provisions
 
 A prior section 6312, Pub. L. 89–10, title I, §1112, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3529, related to local educational agency plans, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Amendments
+
+2002—Subsec. (b)(1)(F). Pub. L. 107–279 substituted “section 9622(b)(2) of this title” for “section 9010(b)(2) of this title”.
 
 #### Section Referred to in Other Sections
 

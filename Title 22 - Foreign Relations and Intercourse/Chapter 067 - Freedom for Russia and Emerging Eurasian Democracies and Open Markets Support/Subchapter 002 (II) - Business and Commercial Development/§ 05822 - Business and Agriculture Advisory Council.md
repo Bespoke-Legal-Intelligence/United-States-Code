@@ -10,7 +10,7 @@ The President is authorized to establish an advisory council to be known as the 
 
 #### (b) Membership
 
-The Council should consist of 15 members, appointed by the President, who are drawn from United States companies reflecting diverse businesses and perspectives that have experience and expertise in dealing with the independent states of the former Soviet Union. The President should designate one such member to serve as Chair of the Council. Five such members should be appointed upon the recommendation of the Speaker and the Minority Leader of the House of Representatives and 5 should be appointed upon the recommendation of the Majority Leader and Minority Leader of the Senate. Membersof the Council shall receive no compensation from the United States Government by reason of their service on the Council.
+The Council should consist of 15 members, appointed by the President, who are drawn fromUnited States companies reflecting diverse businesses and perspectives that have experience and expertise in dealing with the independent states of the former Soviet Union. The President should designate one such member to serve as Chair of the Council. Five such members should be appointed upon the recommendation of the Speaker and the Minority Leader of the House of Representatives and 5 should be appointed upon the recommendation of the Majority Leader and Minority Leader of the Senate. Members of the Council shall receive no compensation from the United States Government by reason of their service on the Council.
 
 #### (c) Staff
 

@@ -50,7 +50,7 @@
 
 #### (6) Direct services
 
-&emsp;At least 80 percent of the funds awarded for any project under this subsection shall be used for direct services, as specifically chosen by eligible clients.
+&emsp;At least 80 percent of the funds awarded for any project under this subsection shall be usedfor direct services, as specifically chosen by eligible clients.
 
 #### (7) Evaluation
 
@@ -148,7 +148,7 @@
 
 #### (6) Use of funds for continuation awards
 
-&emsp;The Commissioner may use funds made available to carry out this section for continuation awards for projects that were funded under sections 711 and 777a of this title (assuch sections were in effect on the day before August 7, 1998).
+&emsp;The Commissioner may use funds made available to carry out this section for continuation awards for projects that were funded under sections 711 and 777a of this title (as such sections were in effect on the day before August 7, 1998).
 
 #### (c) Parent information and training program
 
@@ -216,7 +216,7 @@
 
 #### (A) Quarterly review
 
-&emsp;&emsp;The board of directors or special governing committee of an organization receiving a grant under this subsection shall meet at least once in each calendar quarter to review the training and information program, and each such committee shall directly advise the governing board regarding the views and recommendations of the committee.
+&emsp;&emsp;The board of directors or special governing committee of an organization receiving a grant under this subsection shall meet atleast once in each calendar quarter to review the training and information program, and each such committee shall directly advise the governing board regarding the views and recommendations of the committee.
 
 #### (B) Review for grant renewal
 

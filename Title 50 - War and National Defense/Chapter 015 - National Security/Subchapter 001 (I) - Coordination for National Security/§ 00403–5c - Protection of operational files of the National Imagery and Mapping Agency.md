@@ -10,23 +10,21 @@
 
 (3) Notwithstanding paragraph (1), exempted operational files shall continue to be subject to search and review for information concerning—
 
-&emsp;(A) United States citizens or aliens lawfully admitted for permanent residence who have requested information on themselves pursuant to the provisions of section 552 or 552a of title 5;
+&emsp;(A) United States citizens or aliens lawfully admitted for permanent residence who have requested information on themselves pursuantto the provisions of section 552 or 552a of title 5;
 
 &emsp;(B) any special activity the existence of which is not exempt from disclosure under the provisions of section 552 of title 5; or
 
 &emsp;(C) the specific subject matter of an investigation by any of the following for any impropriety, or violation of law, Executive order, or Presidential directive, in the conduct of an intelligence activity:
 
-&emsp;&emsp;(i) The Permanent Select Committee on Intelligence of the House of Representatives.
+&emsp;&emsp;(i) The congressional intelligence committees.
 
-&emsp;&emsp;(ii) The Select Committee on Intelligence of the Senate.
+&emsp;&emsp;(ii) The Intelligence Oversight Board.
 
-&emsp;&emsp;(iii) The Intelligence Oversight Board.
+&emsp;&emsp;(iii) The Department of Justice.
 
-&emsp;&emsp;(iv) The Department of Justice.
+&emsp;&emsp;(iv) The Office of General Counsel of NIMA.
 
-&emsp;&emsp;(v) The Office of General Counsel of NIMA.
-
-&emsp;&emsp;(vi) The Office of the Director of NIMA.
+&emsp;&emsp;(v) The Office of the Director of NIMA.
 
 (4)(A) Files that are not exempted under paragraph (1) which contain information derived or disseminated from exempted operational files shall be subject to search and review.
 
@@ -70,7 +68,7 @@
 
 &emsp;(B) Whether NIMA, in fact, considered the criteria set forth in paragraph (2) in conducting the required review.
 
-(July 26, 1947, ch. 343, title I, §105C, formerly §105B, as added Pub. L. 106–120, title V, §501(a)(1), Dec. 3, 1999, 113 Stat. 1616; renumbered §105C, Pub. L. 107–56, title IX, §905(a)(1), Oct. 26, 2001, 115 Stat. 388.)
+(July 26, 1947, ch. 343, title I, §105C, formerly §105B, as added Pub. L. 106–120, title V, §501(a)(1), Dec. 3, 1999, 113 Stat. 1616; renumbered §105C, Pub. L. 107–56, title IX, §905(a)(1), Oct. 26, 2001, 115 Stat. 388; amended Pub. L. 107–306, title III, §353(b)(5), Nov. 27, 2002, 116 Stat. 2402.)
 
 #### References in Text
 
@@ -79,6 +77,14 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a)(6)(B)(v), are s
 #### Codification
 
 Section was formerly classified to section 403–5b of this title prior to renumbering by Pub. L. 107–56.
+
+#### Amendments
+
+2002—Subsec. (a)(3)(C). Pub. L. 107–306 added cl. (i), redesignated cls. (iii) to (vi) as (ii) to (v), respectively, and struck out former cls. (i) and (ii) which read as follows:
+
+“(i) The Permanent Select Committee on Intelligence of the House of Representatives.
+
+“(ii) The Select Committee on Intelligence of the Senate.”
 
 #### Treatment of Certain Transferred Records
 

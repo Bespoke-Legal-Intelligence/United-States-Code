@@ -10,7 +10,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;(3) Renewable resource protection research shall include, as appropriate, research activities related to protecting vegetation and other forest and rangeland resources, including threatened and endangered flora and fauna, as well as wood and wood products in storage or use, from fires, insects, diseases, noxious plants, animals, air pollutants, and other agents through biological, chemical, and mechanical control methods and systems; and protecting people, natural resources, and property from fires in rural areas.
 
-&emsp;(4) Renewable resource utilization research shall include, as appropriate, research activities related to harvesting, transporting, processing, marketing, distributing, and utilizing wood and other materials derived from forest and rangeland renewable resources; recycling and fully utilizing wood fiber; producing andconserving energy; and testing forest products, including necessary fieldwork associated therewith.
+&emsp;(4) Renewable resource utilization research shall include, as appropriate, research activities related to harvesting, transporting, processing, marketing, distributing, and utilizing wood and other materials derived from forest and rangeland renewable resources; recycling and fully utilizing wood fiber; producing and conserving energy; and testing forest products, including necessary fieldwork associated therewith.
 
 &emsp;(5) Renewable resource assessment research shall include, as appropriate, research activities related to developing and applying scientific knowledge and technology in support of the survey and analysis of forest and rangeland renewable resources described in subsection (b) of this section.
 
@@ -60,7 +60,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;&emsp;(i) updating information about declining health and productivity of forest ecosystems on public and private lands in North America and Europe;
 
-&emsp;&emsp;(ii) updating the findings and status of all current research and monitoring efforts in North America and Europe on the causes and effects of atmospheric pollution on thehealth and productivity of forest ecosystems, including efforts conducted under the Program;
+&emsp;&emsp;(ii) updating the findings and status of all current research and monitoring efforts in North America and Europe on the causes and effects of atmospheric pollution on the health and productivity of forest ecosystems, including efforts conducted under the Program;
 
 &emsp;&emsp;(iii) recommending additional research and monitoring efforts to be undertaken under the Program to determine the effects of atmospheric pollution on the health and productivity of domestic forest ecosystems; and
 
@@ -78,7 +78,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 #### (1) In general
 
-&emsp;The Secretary may conduct, support, and cooperate in forestry and rangeland research and education that is of the highest priority to the United States and to users of public and private forest land and rangeland in the United States.
+&emsp;The Secretary may conduct, support, and cooperate in forestry and rangeland research andeducation that is of the highest priority to the United States and to users of public and private forest land and rangeland in the United States.
 
 #### (2) Priorities
 
@@ -150,7 +150,7 @@ The Secretary is authorized to conduct, support, and cooperate in investigations
 
 &emsp;Not later than 180 days after June 23, 1998, the Secretary shall prepare and submit to Congress a strategic plan to implement and carry out this subsection, including the annual updates required by paragraph (2) and the reports required by paragraph (3), that shall describe in detail—
 
-&emsp;&emsp;(A) the financial resources required to implement and carry out this subsection, including the identification of any resources required in excess of the amounts provided for forest inventorying and analysis in recent appropriations Acts;
+&emsp;&emsp;(A) the financial resources required to implement and carry out this subsection, including the identification of any resources required in excess of the amounts providedfor forest inventorying and analysis in recent appropriations Acts;
 
 &emsp;&emsp;(B) the personnel necessary to implement and carry out this subsection, including any personnel in addition to personnel currently performing inventorying and analysis functions;
 
@@ -246,7 +246,7 @@ Program.—The Secretary shall establish a program at the Center and seek the pa
 
 &emsp;“(5) develop technology transfer programs that increase farmer and public acceptance of sustainable agroforestry systems;
 
-&emsp;“(6) develop improved windbreak and shelterbelt technologies for drought preparedness, soil and water conservation, environmental quality, and biological diversity on semiarid lands;
+&emsp;“(6) develop improved windbreak and shelterbelt technologies for drought preparedness, soil and waterconservation, environmental quality, and biological diversity on semiarid lands;
 
 &emsp;“(7) develop technical and economic concepts for sustainable agroforestry on semiarid lands, including the conduct of economic analyses of the costs and benefits of agroforestry systems and the development of models to predict the economic benefits under soil or climate conditions;
 

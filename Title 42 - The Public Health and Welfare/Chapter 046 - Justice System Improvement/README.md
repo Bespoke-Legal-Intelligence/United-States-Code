@@ -71,6 +71,12 @@ Use of grant amounts.
 
 Authorization of appropriations.
 
+|  |  |
+| :--- | ---: |
+| [3715\.](Subchapter%20001%20%28I%29%20-%20Office%20of%20Justice%20Programs/%C2%A7%2003715%20-%20Office%20of%20Justice%20Programs%20grants%2C%20cooperative%20agreements%2C%20and%20contracts.md) | Office of Justice Programs grants, cooperative agreements, and contracts. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER II—NATIONAL INSTITUTE OF JUSTICE
 
 |  |  |
@@ -361,6 +367,10 @@ Grants and contracts.
 (c)
 
 Firearm safety education grants.
+
+(d)
+
+Limitations as to non-governmental entities.
 
 |  |  |
 | :--- | ---: |
@@ -1237,11 +1247,11 @@ By Comptroller General.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### SUBCHAPTER XII–F—CERTAIN PUNISHMENT FOR YOUNG OFFENDERS
+#### SUBCHAPTER XII–F—JUVENILE ACCOUNTABILITY BLOCK GRANTS
 
 |  |  |
 | :--- | ---: |
-| [3796ee.](Subchapter%20012%E2%80%93F%20%28XII%E2%80%93F%29%20-%20Certain%20Punishment%20for%20Young%20Offenders/%C2%A7%2003796ee%20-%20Grant%20authorization.md) | Grant authorization. |
+| [3796ee.](Subchapter%20012%E2%80%93F%20%28XII%E2%80%93F%29%20-%20Juvenile%20Accountability%20Block%20Grants/%C2%A7%2003796ee%20-%20Program%20authorized.md) | Program authorized. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1251,47 +1261,15 @@ In general.
 
 (b)
 
-Alternative methods.
-
-|  |  |
-| :--- | ---: |
-| 3796ee–1. | State applications. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-State office.
-
-|  |  |
-| :--- | ---: |
-| 3796ee–2. | Review of State applications. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-In general.
-
-(b)
-
-Approval.
+Authorized activities.
 
 (c)
 
-Restriction.
-
-(d)
-
-Disapproval notice and reconsideration.
+Definition.
 
 |  |  |
 | :--- | ---: |
-| 3796ee–3. | Local applications. |
+| 3796ee–1. | Tribal grant program authorized. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1301,17 +1279,55 @@ In general.
 
 (b)
 
-Distribution to units of local government.
+Eligibility.
+
+(c)
+
+Awards.
+
+(d)
+
+Guidelines.
 
 |  |  |
 | :--- | ---: |
-| 3796ee–4. | Allocation and distribution of funds. |
+| 3796ee–2. | Grant eligibility. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-State distribution.
+State eligibility.
+
+(b)
+
+Local eligibility.
+
+(c)
+
+Role of courts.
+
+(d)
+
+Graduated sanctions.
+
+(e)
+
+Discretionary use of sanctions.
+
+(f)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
+| 3796ee–3. | Allocation and distribution of funds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+State allocation.
 
 (b)
 
@@ -1319,23 +1335,19 @@ Local distribution.
 
 (c)
 
-General requirement.
+Unavailability of data for units of local government.
 
 (d)
 
-Federal share.
+Local government with allocations less than $10,000.
 
 (e)
 
-Consideration.
-
-(f)
-
-“Juvenile” defined.
+Direct grants to specially qualified units.
 
 |  |  |
 | :--- | ---: |
-| 3796ee–5. | Evaluation. |
+| 3796ee–4. | Guidelines. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -1345,11 +1357,81 @@ In general.
 
 (b)
 
-Distribution.
+Advisory board.
+
+|  |  |
+| :--- | ---: |
+| 3796ee–5. | Payment requirements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Timing of payments.
+
+(b)
+
+Repayment of unexpended amounts.
 
 (c)
 
 Administrative costs.
+
+(d)
+
+Nonsupplanting requirement.
+
+(e)
+
+Matching funds.
+
+|  |  |
+| :--- | ---: |
+| 3796ee–6. | Utilization of private sector. |
+| 3796ee–7. | Administrative provisions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Chapter provisions.
+
+|  |  |
+| :--- | ---: |
+| 3796ee–8. | Assessment reports. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Reports to Attorney General.
+
+(b)
+
+Reports to Congress.
+
+|  |  |
+| :--- | ---: |
+| 3796ee–9. | Definitions. |
+| 3796ee–10. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Oversight accountability and administration.
+
+(c)
+
+Tribal set-aside.
 
 #### SUBCHAPTER XII–G—RESIDENTIAL SUBSTANCE ABUSE TREATMENT FOR STATE PRISONERS
 
@@ -1366,6 +1448,10 @@ In general.
 (b)
 
 Consultation.
+
+(c)
+
+Additional use of funds.
 
 |  |  |
 | :--- | ---: |
@@ -1392,6 +1478,10 @@ Coordination of Federal assistance.
 (e)
 
 State office.
+
+(f)
+
+Use of grant amounts for nonresidential aftercare services.
 
 |  |  |
 | :--- | ---: |
@@ -1429,6 +1519,10 @@ Allocation.
 
 Federal share.
 
+(c)
+
+Local allocation.
+
 |  |  |
 | :--- | ---: |
 | 3796ff–4. | Evaluation. |
@@ -1457,6 +1551,49 @@ State coalition grants.
 
 |  |  |
 | :--- | ---: |
+| 3796gg–0. | Establishment of Violence Against Women Office. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Separate office.
+
+(c)
+
+Jurisdiction.
+
+|  |  |
+| :--- | ---: |
+| 3796gg–0a. | Director of Violence Against Women Office. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Appointment.
+
+(b)
+
+Other employment.
+
+(c)
+
+Vacancy.
+
+(d)
+
+Compensation.
+
+|  |  |
+| :--- | ---: |
+| 3796gg–0b. | Duties and functions of Director of Violence Against Women Office. |
+| 3796gg–0c. | Staff of Violence Against Women Office. |
+| 3796gg–0d. | Authorization of appropriations. |
 | 3796gg–1. | State grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1873,8 +2010,33 @@ Applications in conjunction with purchases.
 |  |  |
 | :--- | ---: |
 | 3796<i>ll</i>–2. | Definitions. |
+| 3796<i>ll</i>–3. | James Guelff and Chris McCurley Body Armor Act of 2002. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Short title.
+
+(b)
+
+Findings.
+
+(c)
+
+Definitions.
+
+(d)
+
+Amendment of sentencing guidelines with respect to body armor.
+
+(e)
+
+Omitted.
+
+(f)
+
+Donation of Federal surplus body armor.
 
 #### SUBCHAPTER XIII—TRANSITION; EFFECTIVE DATE; REPEALER
 
@@ -2046,6 +2208,228 @@ Reports to Attorney General.
 
 Reports to Congress.
 
+#### SUBCHAPTER XVI—DRUG COURTS
+
+|  |  |
+| :--- | ---: |
+| [3797u.](Subchapter%20016%20%28XVI%29%20-%20Drug%20Courts/%C2%A7%2003797u%20-%20Grant%20authority.md) | Grant authority. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Limitation.
+
+|  |  |
+| :--- | ---: |
+| 3797u–1. | Prohibition of participation by violent offenders. |
+| 3797u–2. | Definition. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Definition for purposes of juvenile drug courts.
+
+|  |  |
+| :--- | ---: |
+| 3797u–3. | Administration. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Consultation.
+
+(b)
+
+Use of components.
+
+(c)
+
+Regulatory authority.
+
+(d)
+
+Applications.
+
+|  |  |
+| :--- | ---: |
+| 3797u–4. | Applications. |
+| 3797u–5. | Federal share. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+In-kind contributions.
+
+|  |  |
+| :--- | ---: |
+| 3797u–6. | Distribution and allocation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Geographic distribution.
+
+(b)
+
+Minimum allocation.
+
+|  |  |
+| :--- | ---: |
+| 3797u–7. | Report. |
+| 3797u–8. | Technical assistance, training, and evaluation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Technical assistance and training.
+
+(b)
+
+Evaluations.
+
+(c)
+
+Administration.
+
+#### SUBCHAPTER XVII—OFFENDER REENTRY AND COMMUNITY SAFETY
+
+|  |  |
+| :--- | ---: |
+| [3797w.](Subchapter%20017%20%28XVII%29%20-%20Offender%20Reentry%20and%20Community%20Safety/%C2%A7%2003797w%20-%20Adult%20and%20juvenile%20offender%20State%20and%20local%20reentry%20demonstration%20projects.md) | Adult and juvenile offender State and local reentry demonstration projects. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grant authorization.
+
+(b)
+
+Adult offender reentry demonstration projects.
+
+(c)
+
+Juvenile offender reentry demonstration projects.
+
+(d)
+
+Submission of application.
+
+(e)
+
+Applicants.
+
+(f)
+
+Matching funds.
+
+(g)
+
+Reports.
+
+(h)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 3797w–1. | State reentry project evaluation. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Evaluation.
+
+(b)
+
+Report.
+
+#### SUBCHAPTER XVIII—CRIME FREE RURAL STATE GRANTS
+
+|  |  |
+| :--- | ---: |
+| [3797y.](Subchapter%20018%20%28XVIII%29%20-%20Crime%20Free%20Rural%20State%20Grants/%C2%A7%2003797y%20-%20Grant%20authority.md) | Grant authority. |
+| 3797y–1. | Use of funds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Permissive use.
+
+(c)
+
+Data collection.
+
+|  |  |
+| :--- | ---: |
+| 3797y–2. | Statewide strategic prevention plan. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Goals.
+
+(c)
+
+Accountability.
+
+(d)
+
+Consultation.
+
+|  |  |
+| :--- | ---: |
+| 3797y–3. | Requirements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Training and technical assistance.
+
+(b)
+
+Reports.
+
+(c)
+
+Certification.
+
+|  |  |
+| :--- | ---: |
+| 3797y–4. | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Codification
 
 Title I of the Omnibus Crime Control and Safe Streets Act of 1968, comprising this chapter, was originally enacted by Pub. L. 90–351, June 19, 1968, 82 Stat. 197, and amended by Pub. L. 91–644, Jan. 2, 1971, 84 Stat. 1880; Pub. L. 93–83, Aug. 6, 1973, 87 Stat. 197; Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109; Pub. L. 94–237, Mar. 19, 1976, 90 Stat. 241; Pub. L. 94–273, Apr. 21, 1976, 90 Stat. 375; Pub. L. 94–430, Sept. 29, 1976, 90 Stat. 1346; Pub. L. 94–503, Oct. 15, 1976, 90 Stat. 2407; Pub. L. 95–115, Oct. 3, 1977, 91 Stat. 1048. Such title is shown herein, however, as having been added by Pub. L. 96–157, Dec. 27, 1979, 93 Stat. 1167, without reference to such intervening amendments because of the extensive revision of the title's provisions by Pub. L. 96–157.
@@ -2077,7 +2461,7 @@ This chapter is referred to in sections 5119b, 10501 of this title.
 - [Subchapter 012&#8211;C (XII&#8211;C) - Rural Drug Enforcement](Subchapter%20012%E2%80%93C%20%28XII%E2%80%93C%29%20-%20Rural%20Drug%20Enforcement/README.md)
 - [Subchapter 012&#8211;D (XII&#8211;D) - Criminal Child Support Enforcement](Subchapter%20012%E2%80%93D%20%28XII%E2%80%93D%29%20-%20Criminal%20Child%20Support%20Enforcement/README.md)
 - [Subchapter 012&#8211;E (XII&#8211;E) - Public Safety and Community Policing; &#8220;Cops on the Beat&#8221;](Subchapter%20012%E2%80%93E%20%28XII%E2%80%93E%29%20-%20Public%20Safety%20and%20Community%20Policing%3B%20%E2%80%9CCops%20on%20the%20Beat%E2%80%9D/README.md)
-- [Subchapter 012&#8211;F (XII&#8211;F) - Certain Punishment for Young Offenders](Subchapter%20012%E2%80%93F%20%28XII%E2%80%93F%29%20-%20Certain%20Punishment%20for%20Young%20Offenders/README.md)
+- [Subchapter 012&#8211;F (XII&#8211;F) - Juvenile Accountability Block Grants](Subchapter%20012%E2%80%93F%20%28XII%E2%80%93F%29%20-%20Juvenile%20Accountability%20Block%20Grants/README.md)
 - [Subchapter 012&#8211;G (XII&#8211;G) - Residential Substance Abuse Treatment for State Prisoners](Subchapter%20012%E2%80%93G%20%28XII%E2%80%93G%29%20-%20Residential%20Substance%20Abuse%20Treatment%20for%20State%20Prisoners/README.md)
 - [Subchapter 012&#8211;H (XII&#8211;H) - Grants to Combat Violent Crimes Against Women](Subchapter%20012%E2%80%93H%20%28XII%E2%80%93H%29%20-%20Grants%20to%20Combat%20Violent%20Crimes%20Against%20Women/README.md)
 - [Subchapter 012&#8211;I (XII&#8211;I) - Grants to Encourage Arrest Policies and Enforcement of Protection Orders](Subchapter%20012%E2%80%93I%20%28XII%E2%80%93I%29%20-%20Grants%20to%20Encourage%20Arrest%20Policies%20and%20Enforcement%20of%20Protection%20Orders/README.md)
@@ -2088,3 +2472,6 @@ This chapter is referred to in sections 5119b, 10501 of this title.
 - [Subchapter 013 (XIII) - Transition; Effective Date; Repealer](Subchapter%20013%20%28XIII%29%20-%20Transition%3B%20Effective%20Date%3B%20Repealer/README.md)
 - [Subchapter 014 (XIV) - Matching Grant Program for School Security](Subchapter%20014%20%28XIV%29%20-%20Matching%20Grant%20Program%20for%20School%20Security/README.md)
 - [Subchapter 015 (XV) - Paul Coverdell Forensic Sciences Improvement Grants](Subchapter%20015%20%28XV%29%20-%20Paul%20Coverdell%20Forensic%20Sciences%20Improvement%20Grants/README.md)
+- [Subchapter 016 (XVI) - Drug Courts](Subchapter%20016%20%28XVI%29%20-%20Drug%20Courts/README.md)
+- [Subchapter 017 (XVII) - Offender Reentry and Community Safety](Subchapter%20017%20%28XVII%29%20-%20Offender%20Reentry%20and%20Community%20Safety/README.md)
+- [Subchapter 018 (XVIII) - Crime Free Rural State Grants](Subchapter%20018%20%28XVIII%29%20-%20Crime%20Free%20Rural%20State%20Grants/README.md)

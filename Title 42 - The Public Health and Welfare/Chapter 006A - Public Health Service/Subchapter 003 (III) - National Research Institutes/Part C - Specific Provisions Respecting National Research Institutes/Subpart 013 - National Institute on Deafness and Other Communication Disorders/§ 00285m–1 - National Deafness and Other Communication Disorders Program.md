@@ -8,7 +8,7 @@
 
 &emsp;(2) research into the evaluation of techniques (including surgical, medical, and behavioral approaches) and devices (including hearing aids, implanted auditory and nonauditory prosthetic devices and other communication aids) used in diagnosis, treatment, rehabilitation, and prevention of disorders of hearing and other communication processes;
 
-&emsp;(3) research into prevention, and early detection and diagnosis, of hearing loss and speechand language disturbances (including stuttering) and research into preventing the effects of such disorders on learning and learning disabilities with extension of programs for appropriate referral and rehabilitation;
+&emsp;(3) research into prevention, and early detection and diagnosis, of hearing loss and speech and language disturbances (including stuttering) and research into preventing the effects of such disorders on learning and learning disabilities with extension of programs for appropriate referral and rehabilitation;
 
 &emsp;(4) research into the detection, treatment, and prevention of disorders of hearing and other communication processes in the growing elderly population with extension of rehabilitative programs to ensure continued effective communication skills in such population;
 

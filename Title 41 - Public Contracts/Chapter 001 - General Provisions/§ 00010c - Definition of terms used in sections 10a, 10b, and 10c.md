@@ -34,5 +34,5 @@ Section 4 of title III of act Mar. 3, 1933, as temporarily renumbered §5 by Pub
 
 #### Separability
 
-Section 5 of title III of act Mar. 3, 1933, as temporarily renumbered §6 by Pub. L. 100–418, title VII,§7002(1), Aug. 23, 1988, 102 Stat. 1545, provided: “If any provision of this Act \[see Tables for classification\], or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application thereof to other persons or circumstances, shall not be affected thereby.”
+Section 5 of title III of act Mar. 3, 1933, as temporarily renumbered §6 by Pub. L. 100–418, title VII, §7002(1), Aug. 23, 1988, 102 Stat. 1545, provided: “If any provision of this Act \[see Tables for classification\], or the application thereof to any person or circumstances, is held invalid, the remainder of the Act, and the application thereof to other persons or circumstances, shall not be affected thereby.”
 

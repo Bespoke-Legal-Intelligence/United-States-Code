@@ -14,7 +14,7 @@ Fellowships under this chapter shall be provided in order to allow the recipient
 
 #### (d) Individuals who may receive a fellowship
 
-To receive a fellowship under this chapter, an individual must be a United States citizen who is an undergraduate or graduate student, a teacher, scholar, or other academic, or an other individual, who has expertise in international affairs, foreign languages, or career and professional experience or interest in international affairs, and who has a working knowledge of the principal language of the country in which he or she would serve.
+To receive a fellowship under this chapter, an individual must be a United States citizen whois an undergraduate or graduate student, a teacher, scholar, or other academic, or an other individual, who has expertise in international affairs, foreign languages, or career and professional experience or interest in international affairs, and who has a working knowledge of the principal language of the country in which he or she would serve.
 
 #### (e) Women and members of minority groups
 

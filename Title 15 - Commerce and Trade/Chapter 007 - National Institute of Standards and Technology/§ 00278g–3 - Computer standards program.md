@@ -1,96 +1,300 @@
 ### §278g–3. Computer standards program
 
-#### (a) Development of standards, guidelines, methods, and techniques for computer systems
+#### (a) In general
 
 The Institute shall—
 
-&emsp;(1) have the mission of developing standards, guidelines, and associated methods and techniques for computer systems;
+&emsp;(1) have the mission of developing standards, guidelines, and associated methods and techniques for information systems;
 
-&emsp;(2) except as described in paragraph (3) of this subsection (relating to security standards), develop uniform standards and guidelines for Federal computer systems, except those systems excluded by section 2315 of title 10 or section 3502(9) of title 44;
+&emsp;(2) develop standards and guidelines, including minimum requirements, for information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency, other than national security systems (as defined in section 3532(b)(2) of title 44);
 
-&emsp;(3) have responsibility within the Federal Government for developing technical, management, physical, and administrative standards and guidelines for the cost-effective security and privacy of sensitive information in Federal computer systems except—
+&emsp;(3) develop standards and guidelines, including minimum requirements, for providing adequate information security for all agency operations and assets, but such standards and guidelines shall not apply to national security systems; and
 
-&emsp;&emsp;(A) those systems excluded by section 2315 of title 10 or section 3502(9) of title 44; and
+&emsp;(4) carry out the responsibilities described in paragraph (3) through the Computer Security Division.
 
-&emsp;&emsp;(B) those systems which are protected at all times by procedures established for information which has been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy,
+#### (b) Minimum requirements for standards and guidelines
 
-> &emsp;the primary purpose of which standards and guidelines shall be to control loss and unauthorized modification or disclosure of sensitive information in such systems and to prevent computer-related fraud and misuse;
+The standards and guidelines required by subsection (a) of this section shall include, at a minimum—
 
-&emsp;(4) submit standards and guidelines developed pursuant to paragraphs (2) and (3) of this subsection, along with recommendations as to the extent to which these should be made compulsory and binding, to the Secretary of Commerce for promulgation under section 1441 of title 40;
+&emsp;(1)(A) standards to be used by all agencies to categorize all information and information systems collected or maintained by or on behalf of each agency based on the objectives of providing appropriate levels of information security according to a range of risk levels;
 
-&emsp;(5) develop guidelines for use by operators of Federal computer systems that contain sensitive information in training their employees in security awareness and accepted security practice, as required by section 5 of the Computer Security Act of 1987; and
+&emsp;(B) guidelines recommending the types of information and information systems to be included in each such category; and
 
-&emsp;(6) develop validation procedures for, and evaluate the effectiveness of, standards and guidelines developed pursuant to paragraphs (1), (2), and (3) of this subsection through research and liaison with other government and private agencies.
+&emsp;(C) minimum information security requirements for information and information systems in each such category;
 
-#### (b) Technical assistance and implementation of standards developed
+&emsp;(2) a definition of and guidelines concerning detection and handling of information security incidents; and
 
-In fulfilling subsection (a) of this section, the Institute is authorized—
+&emsp;(3) guidelines developed in coordination with the National Security Agency for identifying an information system as a national security system consistent with applicable requirements for national security systems, issued in accordance with law and as directed by the President.
 
-&emsp;(1) to assist the private sector, upon request, in using and applying the results of the programs and activities under this section;
+#### (c) Development of standards and guidelines
 
-&emsp;(2) as requested, to provide to operators of Federal computer systems technical assistance in implementing the standards and guidelines promulgated pursuant to section 1441 of title 40;
+In developing standards and guidelines required by subsections (a) and (b) of this section, the Institute shall—
 
-&emsp;(3) to assist, as appropriate, the Office of Personnel Management in developing regulations pertaining to training, as required by section 5 of the Computer Security Act of 1987;
+&emsp;(1) consult with other agencies and offices (including, but not limited to, the Director of the Office of Management and Budget, the Departments of Defense and Energy, the National Security Agency, the General Accounting Office, and the Secretary of Homeland Security) to assure—
 
-&emsp;(4) to perform research and to conduct studies, as needed, to determine the nature and extent of the vulnerabilities of, and to devise techniques for the cost-effective security and privacy of sensitive information in Federal computer systems; and
+&emsp;&emsp;(A) use of appropriate information security policies, procedures, and techniques, in order to improve information security and avoid unnecessary and costly duplication of effort; and
 
-&emsp;(5) to coordinate closely with other agencies and offices (including, but not limited to, the Departments of Defense and Energy, the National Security Agency, the General Accounting Office, the Office of Technology Assessment, and the Office of Management and Budget)—
+&emsp;&emsp;(B) that such standards and guidelines are complementary with standards and guidelines employed for the protection of national security systems and information contained in such systems;
 
-&emsp;&emsp;(A) to assure maximum use of all existing and planned programs, materials, studies, and reports relating to computer systems security and privacy, in order to avoid unnecessary and costly duplication of effort; and
+&emsp;(2) provide the public with an opportunity to comment on proposed standards and guidelines;
 
-&emsp;&emsp;(B) to assure, to the maximum extent feasible, that standards developed pursuant to subsection (a)(3) and (5) of this section are consistent and compatible with standards and procedures developed for the protection of information in Federal computer systems which is authorized under criteria established by Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy.
+&emsp;(3) submit to the Director of the Office of Management and Budget for promulgation under section 11331 of title 40—
 
-#### (c) Protection of sensitive information
+&emsp;&emsp;(A) standards, as required under subsection (b)(1)(A) of this section, no later than 12 months after November 25, 2002; and
 
-For the purposes of—
+&emsp;&emsp;(B) minimum information security requirements for each category, as required under subsection (b)(1)(C) of this section, no later than 36 months after November 25, 2002;
 
-&emsp;(1) developing standards and guidelines for the protection of sensitive information in Federal computer systems under subsections (a)(1) and (a)(3) of this section, and
+&emsp;(4) issue guidelines as required under subsection (b)(1)(B) of this section, no later than 18 months after November 25, 2002;
 
-&emsp;(2) performing research and conducting studies under subsection (b)(5) <sup>1</sup> of this section,
+&emsp;(5) ensure that such standards and guidelines do not require specific technological solutions or products, including any specific hardware or software security solutions;
 
-> the Institute shall draw upon computer system technical security guidelines developed by the National Security Agency to the extent that the Institute determines that such guidelines are consistent with the requirements for protecting sensitive information in Federal computer systems.
+&emsp;(6) ensure that such standards and guidelines provide for sufficient flexibility to permit alternative solutions to provide equivalent levels of protection for identified information security risks; and
 
-#### (d) Definitions
+&emsp;(7) use flexible, performance-based standards and guidelines that, to the greatest extent possible, permit the use of off-the-shelf commercially developed information security products.
+
+#### (d) Information security functions
+
+The Institute shall—
+
+&emsp;(1) submit standards developed pursuant to subsection (a) of this section, along with recommendations as to the extent to which these should be made compulsory and binding, to the Director of the Office of Management and Budget for promulgation under section 11331 of title 40;
+
+&emsp;(2) provide assistance to agencies regarding—
+
+&emsp;&emsp;(A) compliance with the standards and guidelines developed under subsection (a) of this section;
+
+&emsp;&emsp;(B) detecting and handling information security incidents; and
+
+&emsp;&emsp;(C) information security policies, procedures, and practices;
+
+&emsp;(3) conduct research, as needed, to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;
+
+&emsp;(4) develop and periodically revise performance indicators and measures for agency information security policies and practices;
+
+&emsp;(5) evaluate private sector information security policies and practices and commercially available information technologies to assess potential application by agencies to strengthen information security;
+
+&emsp;(6) evaluate security policies and practices developed for national security systems to assess potential application by agencies to strengthen information security;
+
+&emsp;(7) periodically assess the effectiveness of standards and guidelines developed under this section and undertake revisions as appropriate;
+
+&emsp;(8) solicit and consider the recommendations of the Information Security and Privacy Advisory Board, established by section 278g–4 of this title, regarding standards and guidelines developed under subsection (a) of this section and submit such recommendations to the Director of the Office of Management and Budget with such standards submitted to the Director; and
+
+&emsp;(9) prepare an annual public report on activities undertaken in the previous year, and planned for the coming year, to carry out responsibilities under this section.
+
+#### (e) Definitions
 
 As used in this section—
 
-&emsp;(1) the term “computer system”—
+&emsp;(1) the term “agency” has the same meaning as provided in section 3502(1) of title 44;
 
-&emsp;&emsp;(A) means any equipment or interconnected system or subsystems of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception, of data or information; and
+&emsp;(2) the term “information security” has the same meaning as provided in section 3532(1) of such title;
 
-&emsp;&emsp;(B) includes—
+&emsp;(3) the term “information system” has the same meaning as provided in section 3502(8) of such title;
 
-&emsp;&emsp;&emsp;(i) computers;
+&emsp;(4) the term “information technology” has the same meaning as provided in section 11101 of title 40; and
 
-&emsp;&emsp;&emsp;(ii) ancillary equipment;
+&emsp;(5) the term “national security system” has the same meaning as provided in section 3532(b)(2) of such title.
 
-&emsp;&emsp;&emsp;(iii) software, firmware, and similar procedures;
+(Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906; Pub. L. 107–296, title X, §1003, Nov. 25, 2002, 116 Stat. 2269; Pub. L. 107–305, §§8(b), 9, 10, Nov. 27, 2002, 116 Stat. 2378, 2379; Pub. L. 107–347, title III, §303, Dec. 17, 2002, 116 Stat. 2957.)
 
-&emsp;&emsp;&emsp;(iv) services, including support services; and
+#### Codification
 
-&emsp;&emsp;&emsp;(v) related resources;
-
-&emsp;(2) the term “Federal computer system” means a computer system operated by a Federal agency or by a contractor of a Federal agency or other organization that processes information (using a computer system) on behalf of the Federal Government to accomplish a Federal function;
-
-&emsp;(3) the term “operator of a Federal computer system” means a Federal agency, contractor of a Federal agency, or other organization that processes information using a computer system on behalf of the Federal Government to accomplish a Federal function;
-
-&emsp;(4) the term “sensitive information” means any information, the loss, misuse, or unauthorized access to or modification of which could adversely affect the national interest or the conduct of Federal programs, or the privacy to which individuals are entitled under section 552a of title 5 (the Privacy Act), but which has not been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy; and
-
-&emsp;(5) the term “Federal agency” has the meaning given such term by section 472(b) of title 40.
-
-(Mar. 3, 1901, ch. 872, §20, as added Pub. L. 100–235, §3(2), Jan. 8, 1988, 101 Stat. 1724; amended Pub. L. 100–418, title V, §5115(a)(1), Aug. 23, 1988, 102 Stat. 1433; Pub. L. 104–106, div. E, title LVI, §5607(a), Feb. 10, 1996, 110 Stat. 701; Pub. L. 105–85, div. A, title X, §1073(h)(1), Nov. 18, 1997, 111 Stat. 1906.)
-
-#### References in Text
-
-Section 5 of the Computer Security Act of 1987, referred to in subsecs. (a)(5) and (b)(3), is section 5 of Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1729, which is set out as a note under section 1441 of Title 40, Public Buildings, Property, and Works.
-
-Subsection (b)(5) of this section, referred to in subsec. (c)(2), was redesignated subsec. (b)(4) by Pub. L. 104–106, div. E, title LVI, §5607(a)(2)(C), Feb. 10, 1996, 110 Stat. 701.
+November 25, 2002, referred to in subsec. (c)(3) and (4), was in the original “the date of the enactment of this section” in subsec. (c)(3) and “the date of the enactment of this Act” in subsec. (c)(4), which were translated as meaning the date of enactment of Pub. L. 107–296, which enacted the text of this section, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
-A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 22 and is classified to section 278h of this title.
+A prior section 20 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to section 278q of this title.
 
 #### Amendments
+
+2002—Pub. L. 107–347 added text of section and struck out former text which read as follows:
+
+“(a) The Institute shall—
+
+&emsp;“(1) have the mission of developing standards, guidelines, and associated methods and techniques for computer systems;
+
+&emsp;“(2) except as described in paragraph (3) of this subsection (relating to security standards), develop uniform standards and guidelines for Federal computer systems, except those systems excluded by section 2315 of title 10 or section 3502(9) of title 44;
+
+&emsp;“(3) have responsibility within the Federal Government for developing technical, management, physical, and administrative standards and guidelines for the cost-effective security and privacy of sensitive information in Federal computer systems except—
+
+&emsp;&emsp;“(A) those systems excluded by section 2315 of title 10 or section 3502(9) of title 44; and
+
+&emsp;&emsp;“(B) those systems which are protected at all times by procedures established for information which has been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy,
+
+> the primary purpose of which standards and guidelines shall be to control loss and unauthorized modification or disclosure of sensitive information in such systems and to prevent computer-related fraud and misuse;
+
+&emsp;“(4) submit standards and guidelines developed pursuant to paragraphs (2) and (3) of this subsection, along with recommendations as to the extent to which these should be made compulsory and binding, to the Secretary of Commerce for promulgation under section 1441 of title 40;
+
+&emsp;“(5) develop guidelines for use by operators of Federal computer systems that contain sensitive information in training their employees in security awareness and accepted security practice, as required by section 5 of the Computer Security Act of 1987; and
+
+&emsp;“(6) develop validation procedures for, and evaluate the effectiveness of, standards and guidelines developed pursuant to paragraphs (1), (2), and (3) of this subsection through research and liaison with other government and private agencies.
+
+“(b) In fulfilling subsection (a) of this section, the Institute is authorized—
+
+&emsp;“(1) to assist the private sector, upon request, in using and applying the results of the programs and activities under this section;
+
+&emsp;“(2) as requested, to provide to operators of Federal computer systems technical assistance in implementing the standards and guidelines promulgated pursuant to section 1441 of title 40;
+
+&emsp;“(3) to assist, as appropriate, the Office of Personnel Management in developing regulations pertaining to training, as required by section 5 of the Computer Security Act of 1987;
+
+&emsp;“(4) to perform research and to conduct studies, as needed, to determine the nature and extent of the vulnerabilities of, and to devise techniques for the cost-effective security and privacy of sensitive information in Federal computer systems; and
+
+&emsp;“(5) to coordinate closely with other agencies and offices (including, but not limited to, the Departments of Defense and Energy, the National Security Agency, the General Accounting Office, the Office of Technology Assessment, and the Office of Management and Budget)—
+
+&emsp;&emsp;“(A) to assure maximum use of all existing and planned programs, materials, studies, and reports relating to computer systems security and privacy, in order to avoid unnecessary and costly duplication of effort; and
+
+&emsp;&emsp;“(B) to assure, to the maximum extent feasible, that standards developed pursuant to subsection (a)(3) and (5) of this section are consistent and compatible with standards and procedures developed for the protection of information in Federal computer systems which is authorized under criteria established by Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy.
+
+“(c) For the purposes of—
+
+&emsp;“(1) developing standards and guidelines for the protection of sensitive information in Federal computer systems under subsections (a)(1) and (a)(3) of this section, and
+
+&emsp;“(2) performing research and conducting studies under subsection (b)(5) of this section,
+
+> the Institute shall draw upon computer system technical security guidelines developed by the National Security Agency to the extent that the Institute determines that such guidelines are consistent with the requirements for protecting sensitive information in Federal computer systems.
+
+“(d) As used in this section—
+
+&emsp;“(1) the term ‘computer system’—
+
+&emsp;&emsp;“(A) means any equipment or interconnected system or subsystems of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception, of data or information; and
+
+&emsp;&emsp;“(B) includes—
+
+&emsp;&emsp;&emsp;“(i) computers and computer networks;
+
+&emsp;&emsp;&emsp;“(ii) ancillary equipment;
+
+&emsp;&emsp;&emsp;“(iii) software, firmware, and similar procedures;
+
+&emsp;&emsp;&emsp;“(iv) services, including support services; and
+
+&emsp;&emsp;&emsp;“(v) related resources;
+
+&emsp;“(2) the term ‘Federal computer system’ means a computer system operated by a Federal agency or by a contractor of a Federal agency or other organization that processes information (using a computer system) on behalf of the Federal Government to accomplish a Federal function;
+
+&emsp;“(3) the term ‘operator of a Federal computer system’ means a Federal agency, contractor of a Federal agency, or other organization that processes information using a computer system on behalf of the Federal Government to accomplish a Federal function;
+
+&emsp;“(4) the term ‘sensitive information’ means any information, the loss, misuse, or unauthorized access to or modification of which could adversely affect the national interest or the conduct of Federal programs, or the privacy to which individuals are entitled under section 552a of title 5 (the Privacy Act), but which has not been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy; and
+
+&emsp;“(5) the term ‘Federal agency’ has the meaning given such term by section 472(b) of title 40.
+
+“(e)
+
+Intramural Security Research.—As part of the research activities conducted in accordance with subsection (b)(4) of this section, the Institute shall—
+
+&emsp;“(1) conduct a research program to address emerging technologies associated with assembling a networked computer system from components while ensuring it maintains desired security properties;
+
+&emsp;“(2) carry out research associated with improving the security of real-time computing and communications systems for use in process control; and
+
+&emsp;“(3) carry out multidisciplinary, long-term, high-risk research on ways to improve the security of computer systems.
+
+“(f)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary $1,060,000 for fiscal year 2003 and $1,090,000 for fiscal year 2004 to enable the Computer System Security and Privacy Advisory Board, established by section 278g–4 of this title, to identify emerging issues, including research needs, related to computer security, privacy, and cryptography and, as appropriate, to convene public meetings on those subjects, receive presentations, and publish reports, digests, and summaries for public distribution on those subjects.”
+
+Pub. L. 107–296 added text of section and struck out former text, as added by Pub. L. 107–347, which read:
+
+“(a)
+
+In General.—The Institute shall—
+
+&emsp;“(1) have the mission of developing standards, guidelines, and associated methods and techniques for information systems;
+
+&emsp;“(2) develop standards and guidelines, including minimum requirements, for information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency, other than national security systems (as defined in section 3542(b)(2) of title 44); and
+
+&emsp;“(3) develop standards and guidelines, including minimum requirements, for providing adequate information security for all agency operations and assets, but such standards and guidelines shall not apply to national security systems.
+
+“(b)
+
+Minimum Requirements for Standards and Guidelines.—The standards and guidelines required by subsection (a) of this section shall include, at a minimum—
+
+&emsp;“(1)(A) standards to be used by all agencies to categorize all information and information systems collected or maintained by or on behalf of each agency based on the objectives of providing appropriate levels of information security according to a range of risk levels;
+
+&emsp;“(B) guidelines recommending the types of information and information systems to be included in each such category; and
+
+&emsp;“(C) minimum information security requirements for information and information systems in each such category;
+
+&emsp;“(2) a definition of and guidelines concerning detection and handling of information security incidents; and
+
+&emsp;“(3) guidelines developed in conjunction with the Department of Defense, including the National Security Agency, for identifying an information system as a national security system consistent with applicable requirements for national security systems, issued in accordance with law and as directed by the President.
+
+“(c)
+
+Development of Standards and Guidelines.—In developing standards and guidelines required by subsections (a) and (b) of this section, the Institute shall—
+
+&emsp;“(1) consult with other agencies and offices and the private sector (including the Director of the Office of Management and Budget, the Departments of Defense and Energy, the National Security Agency, the General Accounting Office, and the Secretary of Homeland Security) to assure—
+
+&emsp;&emsp;“(A) use of appropriate information security policies, procedures, and techniques, in order to improve information security and avoid unnecessary and costly duplication of effort; and
+
+&emsp;&emsp;“(B) that such standards and guidelines are complementary with standards and guidelines employed for the protection of national security systems and information contained in such systems;
+
+&emsp;“(2) provide the public with an opportunity to comment on proposed standards and guidelines;
+
+&emsp;“(3) submit to the Secretary of Commerce for promulgation under section 11331 of title 40—
+
+&emsp;&emsp;“(A) standards, as required under subsection (b)(1)(A) of this section, no later than 12 months after December 17, 2002; and
+
+&emsp;&emsp;“(B) minimum information security requirements for each category, as required under subsection (b)(1)(C) of this section, no later than 36 months after December 17, 2002;
+
+&emsp;“(4) issue guidelines as required under subsection (b)(1)(B) of this section, no later than 18 months after December 17, 2002;
+
+&emsp;“(5) to the maximum extent practicable, ensure that such standards and guidelines do not require the use or procurement of specific products, including any specific hardware or software;
+
+&emsp;“(6) to the maximum extent practicable, ensure that such standards and guidelines provide for sufficient flexibility to permit alternative solutions to provide equivalent levels of protection for identified information security risks; and
+
+&emsp;“(7) to the maximum extent practicable, use flexible, performance-based standards and guidelines that permit the use of off-the-shelf commercially developed information security products.
+
+“(d)
+
+Information Security Functions.—The Institute shall—
+
+&emsp;“(1) submit standards developed pursuant to subsection (a) of this section, along with recommendations as to the extent to which these should be made compulsory and binding, to the Secretary of Commerce for promulgation under section 11331 of title 40;
+
+&emsp;“(2) provide technical assistance to agencies, upon request, regarding—
+
+&emsp;&emsp;“(A) compliance with the standards and guidelines developed under subsection (a) of this section;
+
+&emsp;&emsp;“(B) detecting and handling information security incidents; and
+
+&emsp;&emsp;“(C) information security policies, procedures, and practices;
+
+&emsp;“(3) conduct research, as needed, to determine the nature and extent of information security vulnerabilities and techniques for providing cost-effective information security;
+
+&emsp;“(4) develop and periodically revise performance indicators and measures for agency information security policies and practices;
+
+&emsp;“(5) evaluate private sector information security policies and practices and commercially available information technologies to assess potential application by agencies to strengthen information security;
+
+&emsp;“(6) assist the private sector, upon request, in using and applying the results of activities under this section;
+
+&emsp;“(7) evaluate security policies and practices developed for national security systems to assess potential application by agencies to strengthen information security;
+
+&emsp;“(8) periodically assess the effectiveness of standards and guidelines developed under this section and undertake revisions as appropriate;
+
+&emsp;“(9) solicit and consider the recommendations of the Information Security and Privacy Advisory Board, established by section 278g–4 of this title, regarding standards and guidelines developed under subsection (a) of this section and submit such recommendations to the Secretary of Commerce with such standards submitted to the Secretary; and
+
+&emsp;“(10) prepare an annual public report on activities undertaken in the previous year, and planned for the coming year, to carry out responsibilities under this section.
+
+“(e)
+
+Definitions.—As used in this section—
+
+&emsp;“(1) the term ‘agency’ has the same meaning as provided in section 3502(1) of title 44;
+
+&emsp;“(2) the term ‘information security’ has the same meaning as provided in section 3542(b)(1) of such title;
+
+&emsp;“(3) the term ‘information system’ has the same meaning as provided in section 3502(8) of such title;
+
+&emsp;“(4) the term ‘information technology’ has the same meaning as provided in section 11101 of title 40; and
+
+&emsp;“(5) the term ‘national security system’ has the same meaning as provided in section 3542(b)(2) of title 44.
+
+“(f)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Secretary of Commerce $20,000,000 for each of fiscal years 2003, 2004, 2005, 2006, and 2007 to enable the National Institute of Standards and Technology to carry out the provisions of this section.”
+
+Subsec. (d)(1)(B)(i). Pub. L. 107–305, §8(b), substituted “computers and computer networks” for “computers”.
+
+Subsecs. (e), (f). Pub. L. 107–305, §§9, 10, added subsecs. (e) and (f).
 
 1997—Subsecs. (a)(4), (b)(2). Pub. L. 105–85 made technical amendment to reference in original act which appears in text as reference to section 1441 of title 40.
 
@@ -112,17 +316,17 @@ Subsec. (d)(2). Pub. L. 104–106, §5607(a)(3)(B), substituted “system’ �
 
 1988—Pub. L. 100–418 substituted “Institute” for “National Bureau of Standards” in introductory provisions of subsecs. (a) and (b) and wherever appearing in closing provisions of subsec. (c).
 
+#### Effective Date of 2002 Amendments
+
+Amendment by Pub. L. 107–347 effective Dec. 17, 2002, see section 402(b) of Pub. L. 107–347, set out as an Effective Date note under section 3541 of Title 44, Public Printing and Documents.
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
-
-#### Computer Security
-
-Nothing in amendment by Pub. L. 100–235 which enacted this section to be construed to constitute authority to withhold information sought under section 552 of Title 5, Government Organization and Employees, or to authorize any Federal agency to limit, restrict, regulate, or control collection, maintenance, disclosure, use, transfer, or sale of any information that is privately owned information, disclosable under section 552 of Title 5 or other law requiring or authorizing public disclosure of information, or public domain information, see section 8 of Pub. L. 100–235, set out as a note under section 1441 of Title 40, Public Buildings, Property, and Works.
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 272, 278g–4 of this title; title 40 sections 1412, 1441; title 44 sections 3504, 3533.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 272, 278g–4, 278h, 7406, 7407 of this title; title 6 section 512; title 40 sections 11302, 11331; title 44 sections 3504, 3533, 3538, 3543.
 

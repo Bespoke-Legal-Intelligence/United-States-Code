@@ -1,0 +1,14 @@
+### §2047. Supersedure of prior provisions for maintenance and operation of Senate Restaurants
+
+Sections 2042 to 2047 of this title shall supersede any other Acts or resolutions heretofore approved for the maintenance and operation of the Senate Restaurants: <i>Provided, however</i>, That any Acts or resolutions now in effect shall again become effective, should the restaurants at any future time revert to the jurisdiction of the Senate Committee on Rules and Administration.
+
+(Pub. L. 87–82, §7, July 6, 1961, 75 Stat. 200.)
+
+#### Codification
+
+Section was classified to section 174j–7 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1846, 2043, 2044, 2049 of this title; title 5 section 5533.
+

@@ -38,7 +38,7 @@ Subsec. (a)(1)(G). Act June 29, 1954, substituted in first sentence “August 1,
 
 Subsec. (a)(1)(G). Act June 30, 1953, §13(a), substituted in first sentence “July 1, 1954” for “July 1, 1953”.
 
-1952—Subsec. (a)(1). Act July 14, 1952, §3(a)(1), authorized the FNMA to purchase Government-insured or guaranteed home mortgages other than defense or disaster mortgages if they are insured after Feb. 29, 1952.
+1952—Subsec. (a)(1). Act July 14, 1952, §3(a)(1), authorized the FNMA to purchase Government-insured orguaranteed home mortgages other than defense or disaster mortgages if they are insured after Feb. 29, 1952.
 
 Subsec. (a)(1)(E). Act July 14, 1952, §3(a)(2), (3), changed the base date from Apr. 30, 1948 to Feb. 29, 1952, and exempted defense or disaster mortgages from the limitation of this subparagraph.
 

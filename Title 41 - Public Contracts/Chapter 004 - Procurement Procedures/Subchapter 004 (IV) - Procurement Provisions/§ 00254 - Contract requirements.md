@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, contracts awarded after us
 
 The cost-plus-a-percentage-of-cost system of contracting shall not be used, and in the case of a cost-plus-a-fixed-fee contract the fee shall not exceed 10 percent of the estimated cost of the contract, exclusive of the fee, as determined by the agency head at the time of entering into such contract (except that a fee not in excess of 15 percent of such estimated cost is authorized in any such contract for experimental, developmental, or research work and that a fee inclusive of the contractor's costs and not in excess of 6 percent of the estimated cost, exclusive of fees, as determined by the agency head at the time of entering into the contract, of the project to which such fee is applicable is authorized in contracts for architectural or engineering services relating to any public works or utility project). All cost and cost-plus-a-fixed-fee contracts shall provide for advance notification by the contractor to the procuring agency of any subcontract thereunder on a cost-plus-a-fixed-fee basis and of any fixed-price subcontract or purchase order which exceeds in dollar amount either the simplified acquisition threshold or 5 percent of the total estimated cost of the prime contract; and a procuring agency, through any authorized representative thereof, shall have the right to inspect the plans and to audit the books and records of any prime contractor or subcontractor engaged in the performance of a cost or cost-plus-a-fixed-fee contract.
 
-(June 30, 1949, ch. 288, title III, §304, 63 Stat. 395; Oct. 31, 1951, ch. 652, 65 Stat. 700; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 89–607, §2, Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §§2712, 2714(a)(3), July 18, 1984, 98 Stat. 1181, 1184; Pub. L. 103–355, title I, §§1071, 1251(a)(1), title II, §2251(b), title IV, §§4103(c), 4402(c), title VIII, §8204(b), title X, §10005(e), Oct. 13, 1994, 108 Stat. 3270, 3278, 3320, 3341, 3349, 3396, 3408.)
+(June 30, 1949, ch. 288, title III, §304, 63 Stat. 395; Oct. 31, 1951, ch. 652, 65 Stat. 700; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 89–607, §2, Sept. 27, 1966, 80 Stat. 850; Pub. L. 98–369, div. B, title VII, §§2712, 2714(a)(2), (3), July 18, 1984, 98 Stat. 1181, 1184; Pub. L. 103–355, title I, §§1071, 1251(a)(1), title II, §2251(b), title IV, §§4103(c), 4402(c), title VIII, §8204(b), title X, §10005(e), Oct. 13, 1994, 108 Stat. 3270, 3278, 3320, 3341, 3349, 3396, 3408.)
 
 #### Amendments
 
@@ -22,15 +22,15 @@ Subsec. (c). Pub. L. 103–355, §2251(b), struck out subsec. (c) which related 
 
 Subsec. (d). Pub. L. 103–355, §1251(a)(1), struck out subsec. (d) which related to submission of cost or pricing data by contractors and subcontractors, certificate requirements, adjustment of price, inspection of books, records, etc., necessity of data, and exceptions. See section 254b of this title.
 
-1984—Pub. L. 98–369, §2714(a)(2), substituted “Contract requirements” for “Negotiated contracts” in section catchline.
+1984—Pub. L. 98–369, §2714(a)(2), amended section catchline generally.
 
 Subsec. (a). Pub. L. 98–369, §2714(a)(3)(A), (B), substituted “awarded after using procedures other than sealed-bid procedures” for “negotiated pursuant to section 252(c) of this title” in first and second sentences.
 
-Subsec. (c). Pub. L. 98–369, §2714(a)(3)(C), substituted “awarded after using procedures other than sealed-bidprocedures” for “negotiated without advertising pursuant to authority contained in this Act” in first sentence.
+Subsec. (c). Pub. L. 98–369, §2714(a)(3)(C), substituted “awarded after using procedures other than sealed-bid procedures” for “negotiated without advertising pursuant to authority contained in this Act” in first sentence.
 
 Subsec. (d). Pub. L. 98–369, §2712, added subsec. (d).
 
-1966—Subsec. (c). Pub. L. 89–607 provided for exemption of certain contracts with foreign contractors from the requirement for an examination-of-records clause, such determination to be reported to Congress.
+1966—Subsec. (c). Pub. L. 89–607 provided for exemption of certain contracts with foreign contractors fromthe requirement for an examination-of-records clause, such determination to be reported to Congress.
 
 1952—Subsec. (b). Act July 12, 1952, substituted “property” for “supplies”.
 
@@ -46,7 +46,7 @@ Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bi
 
 #### Effective Date
 
-Section effective July 1, 1949, see section 605 of act June 30, 1949, set out as a note under section 471 of Title 40, Public Buildings, Property, and Works.
+Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Exemption of Functions
 
@@ -64,7 +64,7 @@ Ex. Ord. No. 12800, Apr. 13, 1992, 57 F.R. 12985, 13413, which required Federal 
 
 Ex. Ord. No. 13201, Feb. 17, 2001, 66 F.R. 11221, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 471 <i>et seq</i>., and in order to ensure the economical and efficient administration and completion of Government contracts, it is hereby ordered that:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 471 <i>et seq</i>. \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\], and in order to ensure the economical and efficient administration and completion of Government contracts, it is hereby ordered that:
 
 Section 1. (a) This order is designed to promote economy and efficiency in Government procurement. When workers are better informed of their rights, including their rights under the Federal labor laws, their productivity is enhanced. The availability of such a workforce from which the United States may draw facilitates the efficient and economical completion of its procurement contracts.
 
@@ -96,7 +96,7 @@ Washington, D.C. 20570
 
 “3. In the event that the contractor does not comply with any of the requirements set forth in paragraphs (1) or (2) above, this contract may be cancelled, terminated, or suspended in whole or in part, and the contractor may be declared ineligible for further Government contracts in accordance with procedures authorized in or adopted pursuant to Executive Order 13201 of February 17, 2001. Such other sanctions or remedies may be imposed as are provided in Executive Order 13201 of February 17, 2001, or by rule, regulation, or order of the Secretary of Labor, or as are otherwise provided by law.
 
-“4. The contractor will include the provisions of paragraphs (1) through (3) herein in every subcontract or purchase order entered into in connection with this contract unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to section 3 of Executive Order 13201 of February 17, 2001, sothat such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any such subcontract or purchase order as may be directed by the Secretary of Labor as a means of enforcing such provisions, including the imposition of sanctions for non compliance: Provided, however, that if the contractor becomes involved in litigation with a subcontractor or vendor, or is threatened with such involvement, as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States.”
+“4. The contractor will include the provisions of paragraphs (1) through (3) herein in every subcontract or purchase order entered into in connection with this contract unless exempted by rules, regulations, or orders of the Secretary of Labor issued pursuant to section 3 of Executive Order 13201 of February 17, 2001, so that such provisions will be binding upon each subcontractor or vendor. The contractor will take such action with respect to any such subcontract or purchase order as may be directed by the Secretary of Labor asa means of enforcing such provisions, including the imposition of sanctions for non compliance: Provided, however, that if the contractor becomes involved in litigation with a subcontractor or vendor, or is threatened with such involvement, as a result of such direction, the contractor may request the United States to enter into such litigation to protect the interests of the United States.”
 
 (b) Whenever, through Acts of Congress or through clarification of existing law by the courts or otherwise, it appears that contractual provisions other than, or in addition to, those set out in subsection (a) of this section are needed to inform employees fully and accurately of their rights with respect to union dues, union-security agreements, or the like, the Secretary shall promptly issue such rules, regulations, or orders as are needed to cause the substitution or addition of appropriate contractual provisions in Government contracts thereafter entered into.
 
@@ -132,7 +132,7 @@ Sec. 10. The Federal Acquisition Regulatory Council (FAR Council) shall take wha
 
 Sec. 11. As it relates to notification of employee rights concerning payment of union dues or fees, Executive Order 12836 of February 1, 1993, which, among other things, revoked Executive Order 12800 of April 13, 1992, is revoked.
 
-Sec. 12. The heads of executive departments and agencies shall revoke expeditiously any orders, rules,regulations, guidelines, or policies implementing or enforcing Executive Order 12836 of February 1, 1993, as it relates to notification of employee rights concerning payment of union dues or fees, to the extent consistent with law.
+Sec. 12. The heads of executive departments and agencies shall revoke expeditiously any orders, rules, regulations, guidelines, or policies implementing or enforcing Executive Order 12836 of February 1, 1993, as it relates to notification of employee rights concerningpayment of union dues or fees, to the extent consistent with law.
 
 Sec. 13. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
@@ -144,7 +144,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Definitions
 
-The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
+The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 
 #### Section Referred to in Other Sections
 

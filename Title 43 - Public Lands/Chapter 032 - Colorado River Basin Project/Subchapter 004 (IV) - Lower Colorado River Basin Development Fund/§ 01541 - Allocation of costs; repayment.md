@@ -6,7 +6,7 @@ Upon completion of each lower basin unit of the project herein or hereafter auth
 
 #### References in Text
 
-The Federal reclamation laws, referred to in text, include the act of June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, and Acts amendatory thereof and supplementary thereto, classified generally to chapter 12 (§371 et seq.) of this title. Forcomplete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
+The Federal reclamation laws, referred to in text, include the act of June 17, 1902, ch. 1093, 32 Stat. 388, popularly known as the Reclamation Act, and Acts amendatory thereof and supplementary thereto, classified generally to chapter 12 (§371 et seq.) of this title. For complete classification of act June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 The Federal Water Project Recreation Act, referred to in text, is Pub. L. 89–72, July 9, 1965, 79 Stat. 213, as amended, which is classified principally to part C (§460<i>l</i>–12 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l–</i>12 of Title 16 and Tables.
 

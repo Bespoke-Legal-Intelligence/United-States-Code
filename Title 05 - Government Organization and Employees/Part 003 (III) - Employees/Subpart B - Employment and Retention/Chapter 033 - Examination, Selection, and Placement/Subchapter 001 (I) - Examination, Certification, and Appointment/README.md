@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 9510 of this title; title 10 section 1744; title 16 section 3198; title 38 section 7403.
+This subchapter is referred to in section 9510 of this title; title 10 sections 1599c, 1744; title 16 section 3198; title 38 section 7403; title 44 section 2105.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
@@ -31,7 +31,7 @@ This subchapter is referred to in section 9510 of this title; title 10 section 1
 - [&sect; 03316 - Preference eligibles; reinstatement](%C2%A7%2003316%20-%20Preference%20eligibles%3B%20reinstatement.md)
 - [&sect; 03317 - Competitive service; certification from registers](%C2%A7%2003317%20-%20Competitive%20service%3B%20certification%20from%20registers.md)
 - [&sect; 03318 - Competitive service; selection from certificates](%C2%A7%2003318%20-%20Competitive%20service%3B%20selection%20from%20certificates.md)
-- [&sect; 03319 - Repealed. Pub. L. 95&#8211;454, title III, &sect;307(h)(1), Oct. 13, 1978, 92 Stat. 1149](%C2%A7%2003319%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93454%2C%20title%20III%2C%20%C2%A7307%28h%29%281%29%2C%20Oct.%2013%2C%201978%2C%2092%20Stat.%201149.md)
+- [&sect; 03319 - Alternative ranking and selection procedures](%C2%A7%2003319%20-%20Alternative%20ranking%20and%20selection%20procedures.md)
 - [&sect; 03320 - Excepted service; government of the District of Columbia; selection](%C2%A7%2003320%20-%20Excepted%20service%3B%20government%20of%20the%20District%20of%20Columbia%3B%20selection.md)
 - [&sect; 03321 - Competitive service; probationary period](%C2%A7%2003321%20-%20Competitive%20service%3B%20probationary%20period.md)
 - [&sect; 03322 - Repealed. Pub. L. 95&#8211;256, &sect;5(b)(1), Apr. 6, 1978, 92 Stat. 191](%C2%A7%2003322%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93256%2C%20%C2%A75%28b%29%281%29%2C%20Apr.%206%2C%201978%2C%2092%20Stat.%20191.md)

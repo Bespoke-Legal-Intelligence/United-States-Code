@@ -30,7 +30,7 @@ Upon—
 
 The general negotiating objectives of the United States under this section are—
 
-&emsp;(1) to obtain multilateral or bilateral agreements (or the modification of existing agreements) that provide mutually advantageous market opportunities for trade in telecommunications products and services between the United States and foreign countries;
+&emsp;(1) to obtain multilateral or bilateral agreements (or the modification of existing agreements) that provide mutually advantageousmarket opportunities for trade in telecommunications products and services between the United States and foreign countries;
 
 &emsp;(2) to correct the imbalances in market opportunities accruing from reductions in barriers to the access of telecommunications products and services of foreign firms to the United States market; and
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) A statement of the results of the vote, verified by the affidavits of the president or vice president and the secretary, shall be filed with the Administration within ten days after the vote is taken.
 
-&emsp;(3) Promptly after the vote is taken and in no event later than ninety days thereafter, if the proposition for conversion was approvedby such vote, the credit union shall take such action as may be necessary under the applicable State law to make it a State credit union, and within ten days after receipt of the State credit union charter there shall be filed with the Administration a copy of the charter thus issued. Upon such filing the credit union shall cease to be a Federal credit union.
+&emsp;(3) Promptly after the vote is taken and in no event later than ninety days thereafter, if the proposition for conversion was approved by such vote, the credit union shall take such action as may be necessary under the applicable State law to make it a State credit union, and within ten days after receipt of the State credit union charter there shall be filed with the Administration a copy of the charter thus issued. Upon such filing the credit union shall cease to be a Federal credit union.
 
 &emsp;(4) Upon ceasing to be a Federal credit union, such credit union shall no longer be subject to any of the provisions of this chapter. The successor State credit union shall be vested with all of the assets and shall continue responsible for all of the obligations of the Federal credit union to the same extent as though the conversion had not taken place.
 

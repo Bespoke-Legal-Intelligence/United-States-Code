@@ -2,7 +2,7 @@
 
 The Congress finds the following:
 
-(a) Federal health services to maintain and improve the health of the Indians are consonant with and required by the Federal Government's historical and unique legal relationship with,and resulting responsibility to, the American Indian people.
+(a) Federal health services to maintain and improve the health of the Indians are consonant with and required by the Federal Government's historical and unique legal relationship with, and resulting responsibility to, the American Indian people.
 
 (b) A major national goal of the United States is to provide the quantity and quality of health services which will permit the health status of Indians to be raised to the highest possible level and to encourage the maximum participation of Indians in the planning and management of those services.
 

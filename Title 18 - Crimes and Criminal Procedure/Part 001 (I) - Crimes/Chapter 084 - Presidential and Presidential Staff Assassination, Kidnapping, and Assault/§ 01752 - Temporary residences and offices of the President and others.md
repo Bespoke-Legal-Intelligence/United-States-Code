@@ -36,7 +36,7 @@
 
 1994—Subsec. (b). Pub. L. 103–322, which directed the amendment of this section by substituting “under this title” for “not more than $500”, was executed in subsec. (b) by substituting “under this title” for “not exceeding $500” to reflect the probable intent of Congress.
 
-1984—Subsec. (f). Pub. L. 98–587 amended subsec. (f) generally, substituting “any person whom the United States Secret Service is authorized to protect under section 3056 of this title when such person has not declined such protection” for “any person authorized by section 3056 of this title or by Public Law 90–331, as amended, to receive the protection of the United States Secret Service when such person has not declined such protection pursuant to section 3056 of this title or pursuant to Public Law 90–331, as amended”.
+1984—Subsec. (f). Pub. L. 98–587 amended subsec. (f) generally, substituting “any person whom the United States Secret Service is authorized to protect under section 3056 of this title when such person has not declined such protection” for “any person authorized by section 3056 of this title or by Public Law 90–331, as amended, to receive the protection of the United States Secret Service when such person has not declined suchprotection pursuant to section 3056 of this title or pursuant to Public Law 90–331, as amended”.
 
 1982—Pub. L. 97–308, §1(a), substituted “Temporary residences and offices of the President and others” for “Temporary residence of the President” in section catchline.
 
@@ -49,6 +49,10 @@ Subsec. (d)(1). Pub. L. 97–308, §1(d), authorized regulations for designation
 Subsec. (d)(2). Pub. L. 97–308, §1(e), inserted “or other person protected by the Secret Service” after “President”.
 
 Subsec. (f). Pub. L. 97–308, §1(f), added subsec. (f).
+
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Investigatory authority; audit of statistically significant number of terminating plans
 
-The corporation may make such investigations as it deems necessary to enforce any provision of this subchapter or any rule or regulation thereunder, and may require or permit any person to file with it a statement in writing, under oath or otherwise as the corporation shall determine, as to all the facts and circumstances concerning the matter to be investigated. The corporation shall annually audit a statistically significant number of plans terminating under section 1341(b) of this title to determine whether participants and beneficiaries have received their benefit commitments and whether section1350(a) of this title has been satisfied. Each audit shall include a statistically significant number of participants and beneficiaries.
+The corporation may make such investigations as it deems necessary to enforce any provision of this subchapter or any rule or regulation thereunder, and may require or permit any person to file with it a statement in writing, under oath or otherwise as the corporation shall determine, as to all the facts and circumstances concerning the matter to be investigated. The corporation shall annually audit a statistically significant number of plans terminating under section 1341(b) of this title to determine whether participants and beneficiaries have received their benefit commitments and whether section 1350(a) of this title has been satisfied. Each audit shall include a statistically significant number of participants and beneficiaries.
 
 #### (b) Discovery powers vested in board members or officers designated by the chairman
 
@@ -14,7 +14,7 @@ In the case of contumacy by, or refusal to obey a subpena issued to, any person,
 
 #### (d) Cooperation with other governmental agencies
 
-In order to avoid unnecessary expense and duplication of functions among government agencies, the corporation may make such arrangements or agreements for cooperation or mutual assistance in the performance of its functions under this subchapter as is practicable and consistent with law. The corporation may utilize the facilities or services of any department, agency, or establishment of the United States or of any State or political subdivision of a State, including the services of any of its employees, with the lawful consent of such department, agency, or establishment. The head of each department, agency, or establishment of the United States shall cooperate with the corporation and, to the extent permitted by law, provide such information and facilities as it may request for its assistance in the performance of its functions under this subchapter. The Attorney General or his representative shall receive from the corporation for appropriate action such evidence developed in the performance of its functions under this subchapter as may be found to warrant consideration for criminal prosecution under the provisions of this or any other Federal law.
+In order to avoid unnecessary expense and duplication of functions among government agencies, the corporation may make such arrangements or agreements for cooperation or mutual assistance in the performance of its functions under this subchapter as is practicable and consistent with law. The corporation may utilizethe facilities or services of any department, agency, or establishment of the United States or of any State or political subdivision of a State, including the services of any of its employees, with the lawful consent of such department, agency, or establishment. The head of each department, agency, or establishment of the United States shall cooperate with the corporation and, to the extent permitted by law, provide such information and facilities as it may request for its assistance in the performance of its functions under this subchapter. The Attorney General or his representative shall receive from the corporation for appropriate action such evidence developed in the performance of its functions under this subchapter as may be found to warrant consideration for criminal prosecution under the provisions of this or any other Federal law.
 
 #### (e) Civil actions by corporation; jurisdiction; process; expeditious handling of case; costs; limitation on actions
 
@@ -106,7 +106,7 @@ Amendment by section 776(b)(1) of Pub. L. 103–465 effective with respect to di
 
 #### Effective Date of 1986 Amendment
 
-Section 11014(b)(3) of Pub. L. 99–272 provided that: “The amendments made by this subsection \[amendingthis section\] shall apply with respect to actions filed after the date of the enactment of this Act \[Apr. 7, 1986\].”
+Section 11014(b)(3) of Pub. L. 99–272 provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to actions filed after the date of the enactment of this Act \[Apr. 7, 1986\].”
 
 Amendment by section 11016(c)(5) of Pub. L. 99–272 effective Jan. 1, 1986, with certain exceptions, see section 11019 of Pub. L. 99–272, set out as a note under section 1341 of this title.
 

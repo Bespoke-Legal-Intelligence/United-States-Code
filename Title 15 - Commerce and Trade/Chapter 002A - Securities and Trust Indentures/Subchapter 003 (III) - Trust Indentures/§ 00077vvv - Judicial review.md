@@ -6,7 +6,7 @@ Orders of the Commission under this subchapter (including orders pursuant to the
 
 #### (b) Jurisdiction of offenses and suits
 
-Jurisdiction of offenses and violations under, and jurisdiction and venue of suits and actions brought to enforce any liability or duty created by, this subchapter, or any rules or regulations or orders prescribed under the authority thereof,shall be as provided in section 22(a) of the Securities Act of 1933 \[15 U.S.C. 77v(a)\].
+Jurisdiction of offenses and violations under, and jurisdiction and venue of suits and actions brought to enforce any liability or duty created by, this subchapter, or any rules or regulations or orders prescribed under the authority thereof, shall be as provided in section 22(a) of the Securities Act of 1933 \[15 U.S.C. 77v(a)\].
 
 (May 27, 1933, ch. 38, title III, §322, as added Aug. 3, 1939, ch. 411, 53 Stat. 1175; amended Pub. L. 101–550, title IV, §418, Nov. 15, 1990, 104 Stat. 2732.)
 

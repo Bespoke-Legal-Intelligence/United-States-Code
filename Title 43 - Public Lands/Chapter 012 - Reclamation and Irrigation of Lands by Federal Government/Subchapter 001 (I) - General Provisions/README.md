@@ -89,3 +89,4 @@
 - [&sect; 00390h&#8211;14 - Groundwater study](%C2%A7%2000390h%E2%80%9314%20-%20Groundwater%20study.md)
 - [&sect; 00390h&#8211;15 - Authorization of appropriations](%C2%A7%2000390h%E2%80%9315%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00390h&#8211;16 - Willow Lake Natural Treatment System Project](%C2%A7%2000390h%E2%80%9316%20-%20Willow%20Lake%20Natural%20Treatment%20System%20Project.md)
+- [&sect; 00390h&#8211;17 - Lakehaven, Washington, Water Reclamation and Reuse Project](%C2%A7%2000390h%E2%80%9317%20-%20Lakehaven%2C%20Washington%2C%20Water%20Reclamation%20and%20Reuse%20Project.md)

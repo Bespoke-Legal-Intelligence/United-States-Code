@@ -12,7 +12,7 @@ It is hereby declared that it is the express intent of Congress by this section 
 
 For any violation of the provisions of this section the Secretary of Transportation or his duly authorized agent may apply to the district court of the United States for the district in which such violation occurs for the enforcement of this section; and such court shall have jurisdiction to enforce obedience thereto by writ of injunction or by other process, mandatory or otherwise, restraining against further violations of this section and enjoining obedience thereto.
 
-(Pub. L. 89–387, §3, Apr. 13, 1966, 80 Stat. 107; Pub. L. 92–267, Mar. 30, 1972, 86 Stat. 116; Pub. L. 97–449, §2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 99–359, §2(b), July 8, 1986, 100 Stat. 764.)
+(Pub. L. 89–387, §3, Apr. 13, 1966, 80 Stat. 107; Pub. L. 92–267, Mar. 30, 1972, 86 Stat. 116; Pub. L.97–449, §2(c), Jan. 12, 1983, 96 Stat. 2439; Pub. L. 99–359, §2(b), July 8, 1986, 100 Stat. 764.)
 
 #### Amendments
 

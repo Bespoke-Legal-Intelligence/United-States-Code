@@ -20,7 +20,7 @@ With respect to the provision of comprehensive community mental health services 
 
 #### (2) Mental health system data and epidemiology
 
-&emsp;The plan contains an estimate of the incidence and prevalence in the State of serious mental illness among adults and serious emotional disturbance among children and presents quantitative targets to be achieved in the implementation of the system described in paragraph (1).
+&emsp;The plan contains an estimate of the incidence and prevalence in the State of seriousmental illness among adults and serious emotional disturbance among children and presents quantitative targets to be achieved in the implementation of the system described in paragraph (1).
 
 #### (3) Children's services
 
@@ -60,7 +60,7 @@ With respect to the provision of comprehensive community mental health services 
 
 #### (1) Complete implementation
 
-&emsp;Except as provided in paragraph (2), in making a grant under section 300x of this title to a State for a fiscal year, the Secretary shallmake a determination of the extent to which the State has implemented the plan required in subsection (a) of this section. If the Secretary determines that a State has not completely implemented the plan, the Secretary shall reduce the amount of the allotment under section 300x of this title for the State for the fiscal year involved by an amount equal to 10 percent of the amount determined under section 300x–7 of this title for the State for the fiscal year.
+&emsp;Except as provided in paragraph (2), in making a grant under section 300x of this title to a State for a fiscal year, the Secretary shall make a determination of the extent to which the State has implemented the plan required in subsection (a) of this section. If the Secretary determines that a State has not completely implemented the plan, the Secretary shall reduce the amount of the allotment under section 300x of this title for the State for the fiscal year involved by an amount equal to 10 percent of the amount determined under section 300x–7 of this title for the State for the fiscal year.
 
 #### (2) Substantial implementation and good faith effort regarding fiscal year 1993
 

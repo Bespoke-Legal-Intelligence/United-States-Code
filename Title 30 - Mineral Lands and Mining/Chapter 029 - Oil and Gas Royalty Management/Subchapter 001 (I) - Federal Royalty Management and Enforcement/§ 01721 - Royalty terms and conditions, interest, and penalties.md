@@ -6,7 +6,7 @@ In the case of oil and gas leases where royalty payments are not received by the
 
 #### (b) Charge on late payment made by Secretary to States
 
-Any payment made by the Secretary to a State under section 191 of this title and any other payment made by the Secretary to a State from any oil or gas royalty received by the Secretary which is not paid on the date required under section 191 of this title shall include an interest charge computed at the rate applicable under section 6621 of title 26.
+Any payment made by the Secretary to a State under section 191 of this title and anyother payment made by the Secretary to a State from any oil or gas royalty received by the Secretary which is not paid on the date required under section 191 of this title shall include an interest charge computed at the rate applicable under section 6621 of title 26.
 
 #### (c) Deposit in royalty accounts of charges on royalties due and owing Indians
 
@@ -36,7 +36,7 @@ Upon a determination by the Secretary that an excessive overpayment (based upon 
 
 #### (j) Estimated payment
 
-A lessee or its designee may make a payment for the approximate amount of royalties (hereinafter in this subsection “estimated payment”)that would otherwise be due for such lease by the date royalties are due for that lease. When an estimated payment is made, actual royalties are payable at the end of the month following the month in which the estimated payment is made. If the estimated payment was less than the amount of actual royalties due, interest is owed on the underpaid amount. If the estimated payment exceeds the actual royalties due, interest is owed on the overpayment. If the lessee or its designee makes a payment for such actual royalties, the lessee or its designee may apply the estimated payment to future royalties. Any estimated payment may be adjusted, recouped, or reinstated at any time by the lessee or its designee.
+A lessee or its designee may make a payment for the approximate amount of royalties (hereinafter in this subsection “estimated payment”) that would otherwise be due for such lease by the date royalties are due for that lease. When an estimated payment is made, actual royalties are payable at the end of the month following the month in which the estimated payment is made. If the estimated payment was less than the amount of actual royalties due, interest is owed on the underpaid amount. If the estimated payment exceeds the actual royalties due, interest is owed on the overpayment. If the lessee or its designee makes a payment for such actual royalties, the lessee or its designee may apply the estimated payment to future royalties. Any estimated payment may be adjusted, recouped, or reinstated at any time by the lessee or its designee.
 
 #### (k) Volume allocation of oil and gas production
 

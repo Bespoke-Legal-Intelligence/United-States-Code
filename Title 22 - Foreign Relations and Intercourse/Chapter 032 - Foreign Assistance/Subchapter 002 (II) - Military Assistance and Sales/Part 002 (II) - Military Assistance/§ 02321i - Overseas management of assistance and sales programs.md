@@ -34,7 +34,7 @@ Effective October 1, 1989, the entire costs (excluding salaries of the United St
 
 #### (e) Direction and supervision of assigned personnel
 
-Members of the Armed Forces assigned to a foreign country under this section shall serveunder the direction and supervision of the Chief of the United States Diplomatic Mission to that country.
+Members of the Armed Forces assigned to a foreign country under this section shall serve under the direction and supervision of the Chief of the United States Diplomatic Mission to that country.
 
 #### (f) Presidential directive respecting purchase by foreign country of United States-made military equipment
 
@@ -50,7 +50,7 @@ The Arms Export Control Act, referred to in subsecs. (a) and (d), is Pub. L. 90�
 
 1996—Subsec. (a)(6). Pub. L. 104–164 struck out “among members of the North Atlantic Treaty Organization and with the Armed Forces of Japan, Australia, and New Zealand” after “defense cooperation measures”.
 
-1992—Subsec. (d). Pub. L. 102–391, which directed the substitution of “(excluding salaries of the United States military personnel other than the Coast Guard)” for “(excluding salaries of the United States military personnel)”, was executed by making the substitution for “(excluding salaries of United States military personnel)”, to reflect the probable intent of Congress.
+1992—Subsec. (d). Pub. L. 102–391, which directed the substitution of “(excluding salaries of the UnitedStates military personnel other than the Coast Guard)” for “(excluding salaries of the United States military personnel)”, was executed by making the substitution for “(excluding salaries of United States military personnel)”, to reflect the probable intent of Congress.
 
 1989—Subsec. (d). Pub. L. 101–167 inserted “or the Arms Export Control Act” after “this part”.
 
@@ -88,7 +88,7 @@ Subsec. (f). Pub. L. 96–92, §7(2), substituted “December 31, 1978” for �
 
 1978—Subsec. (b)(1). Pub. L. 95–384, §9(a), substituted “fiscal year 1979” for “fiscal year 1978” and “Turkey, Indonesia, Thailand” for “Brazil”.
 
-Subsec. (d). Pub. L. 95–384, §9(b), substituted “, including any such members serving on a reimbursable basis pursuant to subsection (b)(3) of this section, may not exceed 790 for the fiscal year 1979” for “may not exceed 865 for the fiscal year 1978”.
+Subsec. (d). Pub. L. 95–384, §9(b), substituted “, including any such members serving on a reimbursable basis pursuant to subsection (b)(3) of this section, may not exceed 790 for the fiscal year 1979” for “may not exceed 865 for the fiscal year 1978”.
 
 Subsec. (f). Pub. L. 95–384, §9(c), substituted “December 31, 1977, except that the President may assign an aggregate total of not to exceed eight additional defense attache�AE1s to such countries in order to perform overseas management functions under this subsection” for “December 31, 1976”.
 
@@ -117,6 +117,10 @@ Committee on Foreign Affairs of House of Representatives treated as referring to
 #### Effective Date of 1985 Amendment
 
 Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L. 99–83, set out as a note under section 2151–1 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Functions
 

@@ -20,7 +20,7 @@ The benefits provided to an individual by the insurance program established by t
 
 &emsp;&emsp;&emsp;(ii) services for which payment may be made pursuant to section 1395n(b)(2) of this title,
 
-&emsp;&emsp;&emsp;(iii) services described by section 1395x(s)(2)(K)(i) of this title, certifiednurse-midwife services, qualified psychologist services, and services of a certified registered nurse anesthetist; <sup>1</sup>
+&emsp;&emsp;&emsp;(iii) services described by section 1395x(s)(2)(K)(i) of this title, certified nurse-midwife services, qualified psychologist services, and services of a certified registered nurse anesthetist; <sup>1</sup>
 
 &emsp;&emsp;&emsp;(iv) services of a nurse practitioner or clinical nurse specialist but only if no facility or other provider charges or is paid any amounts with respect to the furnishing of such services; and <sup>2</sup>
 
@@ -64,7 +64,7 @@ Part B of subchapter XI of this chapter, referred to in subsec. (a)(2)(F)(ii)(I)
 
 #### Amendments
 
-2000—Subsecs. (b), (c). Pub. L. 106–554 redesignated subsec. (c) as (b) and struck out former subsec. (b),which related to extension of coverage of immunosuppressive drugs for individuals who would exhaust benefits under section 1395x(s)(2)(J)(v) of this title in a year during the 5-year period beginning with 2000, and set forth provisions relating to extension periods for each year.
+2000—Subsecs. (b), (c). Pub. L. 106–554 redesignated subsec. (c) as (b) and struck out former subsec. (b), which related to extension of coverage of immunosuppressive drugs for individuals who would exhaust benefits under section 1395x(s)(2)(J)(v) of this title in a year during the 5-year period beginning with 2000, and set forth provisions relating to extension periods for each year.
 
 1999—Subsecs. (b), (c). Pub. L. 106–113 added subsec. (b) and redesignated former subsec. (b) as (c).
 
@@ -192,7 +192,7 @@ Amendment by section 201(a) of Pub. L. 101–234 effective Jan. 1, 1990, see sec
 
 #### Effective Date of 1988 Amendment
 
-Amendment by section 104(d)(3) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, and applicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
+Amendment by section 104(d)(3) of Pub. L. 100–360 effective Jan. 1, 1989, except as otherwise provided, andapplicable to inpatient hospital deductible for 1989 and succeeding years, to care and services furnished on or after Jan. 1, 1989, to premiums for January 1989 and succeeding months, and to blood or blood cells furnished on or after Jan. 1, 1989, see section 104(a) of Pub. L. 100–360, set out as a note under section 1395d of this title.
 
 Amendment by section 203(a) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 203(g) of Pub. L. 100–360, set out as a note under section 1320c–3 of this title.
 

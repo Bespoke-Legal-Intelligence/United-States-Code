@@ -1,6 +1,6 @@
 ### §1658. Limitation on contract authority
 
-The authority of the Secretary to enter into contracts under this subchapter shall be to theextent, and in an amount, provided for in appropriation Acts.
+The authority of the Secretary to enter into contracts under this subchapter shall be to the extent, and in an amount, provided for in appropriation Acts.
 
 (Pub. L. 94–437, title V, §508, as added Pub. L. 100–713, title V, §501, Nov. 23, 1988, 102 Stat. 4824.)
 

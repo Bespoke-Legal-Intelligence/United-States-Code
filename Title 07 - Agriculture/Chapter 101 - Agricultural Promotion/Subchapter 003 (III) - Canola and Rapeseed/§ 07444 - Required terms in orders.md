@@ -50,7 +50,7 @@ An order issued under this subchapter shall contain the terms and conditions spe
 
 #### (B) Criteria
 
-&emsp;&emsp;The Secretary shall certify any State organization that the Secretary determines has a history of stability and permanencyand meets at least 1 of the following criteria:
+&emsp;&emsp;The Secretary shall certify any State organization that the Secretary determines has a history of stability and permanency and meets at least 1 of the following criteria:
 
 #### (i) Majority representation
 
@@ -144,7 +144,7 @@ The order shall define the powers and duties of the Board, which shall include t
 
 #### (2) Budgets
 
-&emsp;The order shall require the Board, prior to the beginning of each fiscal year, or as may benecessary after the beginning of a fiscal year, to submit to the Secretary for approval budgets of anticipated expenses and disbursements in the implementation of the order, including projected costs of research, promotion, consumer information, and industry information programs and projects.
+&emsp;The order shall require the Board, prior to the beginning of each fiscal year, or as may be necessary after the beginning of a fiscal year, to submit to the Secretary for approval budgets of anticipated expenses and disbursements in the implementation of the order, including projected costs of research, promotion, consumer information, and industry information programs and projects.
 
 #### (3) Incurring expenses
 

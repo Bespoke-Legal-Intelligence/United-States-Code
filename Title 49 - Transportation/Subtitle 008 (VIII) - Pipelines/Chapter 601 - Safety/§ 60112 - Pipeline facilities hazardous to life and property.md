@@ -2,11 +2,11 @@
 
 (a)
 
-General Authority.—After notice and an opportunity for a hearing, the Secretary of Transportation may decide a pipeline facility is hazardous if the Secretary decides the facility is—
+General Authority.—After notice and an opportunity for a hearing, the Secretary of Transportation may decide that a pipeline facility is hazardous if the Secretary decides that—
 
-&emsp;(1) hazardous to life, property, or the environment; or
+&emsp;(1) operation of the facility is or would be hazardous to life, property, or the environment; or
 
-&emsp;(2) constructed or operated, or a component of the facility is constructed or operated, with equipment, material, or a technique the Secretary decides is hazardous to life, property, or the environment.
+&emsp;(2) the facility is or would be constructed or operated, or a component of the facility is or would be constructed or operated, with equipment, material, or a technique that the Secretary decides is hazardous to life, property, or the environment.
 
 (b)
 
@@ -14,7 +14,7 @@ Considerations.—In making a decision under subsection (a) of this section, the
 
 &emsp;(1) the characteristics of the pipe and other equipment used in the pipeline facility, including the age, manufacture, physical properties, and method of manufacturing, constructing, or assembling the equipment;
 
-&emsp;(2) the nature of the material the pipeline facility transports, the corrosive and deteriorative qualities of the material, the sequence in which the material are transported, and the pressure required for transporting the material;
+&emsp;(2) the nature of the material the pipeline facility transports, the corrosive and deteriorative qualities of the material, the sequence in which the material are <sup>1</sup> transported, and the pressure required for transporting the material;
 
 &emsp;(3) the aspects of the area in which the pipeline facility is located, including climatic and geologic conditions and soil characteristics;
 
@@ -32,13 +32,29 @@ Opportunity for State Comment.—The Secretary shall provide, to any appropriate
 
 (d)
 
-Corrective Action Orders.—If the Secretary decides under subsection (a) of this section that a pipeline facility is hazardous, the Secretary shall order the operator of the facility to take necessary corrective action, including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action.
+Corrective Action Orders.—
+
+&emsp;(1)
+
+In general.—If the Secretary decides under subsection (a) of this section that a pipeline facility is or would be hazardous, the Secretary shall order the operator of the facility to take necessary corrective action, including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action.
+
+&emsp;(2)
+
+Actions attributable to an employee.—If, in the case of a corrective action order issued following an accident, the Secretary determines that the actions of an employee carrying out an activity regulated under this chapter, including duties under section 60102(a), may have contributed substantially to the cause of the accident, the Secretary shall direct the operator to relieve the employee from performing those activities, reassign the employee, or place the employee on leave until the earlier of the date on which—
+
+&emsp;&emsp;(A) the Secretary, after notice and an opportunity for a hearing, determines that the employee's actions did not contribute substantially to the cause of the accident; or
+
+&emsp;&emsp;(B) the Secretary determines the employee has been re-qualified or re-trained as provided for in section 60131 and can safely perform those activities.
+
+&emsp;(3)
+
+Effect of collective bargaining agreements.—An action taken by an operator under paragraph (2) shall be in accordance with the terms and conditions of any applicable collective bargaining agreement.
 
 (e)
 
 Waiver of Notice and Hearing in Emergency.—The Secretary may waive the requirements for notice and an opportunity for a hearing under this section and issue expeditiously an order under this section if the Secretary decides failure to issue the order expeditiously will result in likely serious harm to life, property, or the environment. An order under this subsection shall provide an opportunity for a hearing as soon as practicable after the order is issued.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1317; Pub. L. 103–429, §6(76), Oct. 31, 1994, 108 Stat. 4388.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1317; Pub. L. 103–429, §6(76), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 107–355, §§8(a), 10(b), Dec. 17, 2002, 116 Stat. 2993, 2995.)
 
 Historical and Revision Notes
 
@@ -116,6 +132,16 @@ This amends 49:60112(d) to clarify the restatement of 49 App.:1679b(b)(1) and 20
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–355, §8(a)(1), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “After notice and an opportunity for a hearing, the Secretary of Transportation may decide a pipeline facility is hazardous if the Secretary decides the facility is—
+
+&emsp;“(1) hazardous to life, property, or the environment; or
+
+&emsp;“(2) constructed or operated, or a component of the facility is constructed or operated, with equipment, material, or a technique the Secretary decides is hazardous to life, property, or the environment.”
+
+Subsec. (d). Pub. L. 107–355, §10(b), designated existing provisions as par. (1), inserted heading, realigned margins, and added pars. (2) and (3).
+
+Pub. L. 107–355, §8(a)(2), substituted “is or would be hazardous” for “is hazardous”.
+
 1994—Subsec. (d). Pub. L. 103–429 inserted before period at end “, including suspended or restricted use of the facility, physical inspection, testing, repair, replacement, or other appropriate action”.
 
 #### Effective Date of 1994 Amendment
@@ -124,5 +150,7 @@ Amendment by Pub. L. 103–429 effective July 5, 1994, see section 9 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 60122 of this title.
+This section is referred to in sections 60120, 60122 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
 

@@ -32,6 +32,10 @@ Public Law 93–638, referred to in par. (7), is Pub. L. 93–638, Jan. 4, 1975,
 
 Section 107 of Pub. L. 104–330 provided that: “Except as otherwise expressly provided in this Act \[see Short Title note below\], this Act and the amendments made by this Act shall take effect on October 1, 1997.”
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–292, §1, Nov. 13, 2002, 116 Stat. 2053, provided that: “This Act \[amending sections 4103, 4111, 4114, 4116, 4117, 4132, 4191, 4195, and 4212 of this title and section 1715z–13a of Title 12, Banks and Banking\] may be cited as the ‘Native American Housing Assistance and Self-Determination Reauthorization Act of 2002’.”
+
 #### Short Title of 2000 Amendments
 
 Pub. L. 106–569, title V, §511, Dec. 27, 2000, 114 Stat. 2966, provided that: “This subtitle \[subtitle B (§§511–514) of title V of Pub. L. 106–569, enacting subchapter VIII of this chapter, section 1715z–13b of Title 12, Banks and Banking, and provisions set out as notes under section 4221 of this title\] may be cited as the ‘Hawaiian Homelands Homeownership Act of 2000’.”

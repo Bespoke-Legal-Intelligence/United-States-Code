@@ -2,7 +2,7 @@
 
 (a) No person shall be appointed a member of the United States Secret Service Uniformed Division at a grade lower than the grade held by him as a member of the Metropolitan Police force or of the United States Park Police force at the time of his appointment.
 
-(b) A member of the United States Secret Service Uniformed Division shall receive a salary at the rate provided for the corresponding grade in the Metropolitan Police force (including longevity increases provided by section 401of the District of Columbia Police and Firemen's Salary Act of 1958), and he shall be furnished with uniforms and other necessary equipment similar to the uniforms and equipment furnished the United States Park Police, and he shall be entitled to the same leave allowances as a member of the United States Park Police force.
+(b) A member of the United States Secret Service Uniformed Division shall receive a salary at the rate provided for the corresponding grade in the Metropolitan Police force (including longevity increases provided by section 401 of the District of Columbia Police and Firemen's Salary Act of 1958), and he shall be furnished with uniforms and other necessary equipment similar to the uniforms and equipment furnished the United States Park Police, and he shall be entitled to the same leave allowances as a member of the United States Park Police force.
 
 (c) Any member of the United States Secret Service Uniformed Division appointed thereto from the Metropolitan Police force or the United States Park Police force may be transferred to the organization of which he was a member at the time of such appointment.
 
@@ -25,6 +25,10 @@ Section 401 of the District of Columbia Police and Firemen's Salary Act of 1958,
 #### Effective Date of 1953 Amendment
 
 Section 407 of act June 20, 1953, provided that: “This Act \[amending this section\] shall take effect on July 1, 1953.”
+
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Conversion to New Salary Schedule
 
@@ -64,7 +68,7 @@ Hold Harmless for Current Total Compensation.—Notwithstanding any other provis
 
 “(c)
 
-Conversion Not Treated as Transfer or Promotion.—The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 902(a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be considered to be transfers or promotions within the meaning of section 304 of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title III, Aug. 1, 1958, 72 Stat. 484\] (sec. 4–413, D.C. Code).
+Conversion Not Treated as Transfer or Promotion.—The conversion of positions and individuals toappropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 902(a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be considered to be transfers or promotions within the meaning of section 304 of the District of Columbia Police and Firemen's Salary Act of 1958 \[Pub. L. 85–584, title III, Aug. 1, 1958, 72 Stat. 484\] (sec. 4–413, D.C. Code).
 
 “(d)
 
@@ -76,7 +80,7 @@ Adjustment To Take Into Account General Schedule Adjustments During Transition.�
 
 “(f)
 
-Conversion Not Treated as Salary Increase for Purposes of Certain Pensions and Allowances.—The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 2\[902\](a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection\(a) shall not be treated as an increase in salary for purposes of section 3 of the Act entitled ‘An Act to provide increased pensions for widows and children of deceased members of the Police Department and the Fire Department of the District of Columbia’, approved August 4, 1949 \[ch. 394, 63 Stat. 566\] (sec. 4–604, D.C. Code), or section 301 of the District of Columbia Police and Firemen's Salary Act of 1953 \[June 20, 1953, ch. 146, title III, 67 Stat. 75\] (sec. 4–605, D.C. Code).”
+Conversion Not Treated as Salary Increase for Purposes of Certain Pensions and Allowances.—The conversion of positions and individuals to appropriate classes of the salary schedule under section 501(c) of the District of Columbia Police and Firemen's Salary Act of 1958 (as amended by section 2\[902\](a)) and the initial adjustments of rates of basic pay of those positions and individuals in accordance with subsection (a) shall not be treated as an increase in salary for purposes of section 3 of the Act entitled ‘An Act to provide increased pensions for widows and children of deceased members of the Police Department and the Fire Department of the District of Columbia’, approved August 4, 1949 \[ch. 394, 63 Stat. 566\] (sec. 4–604, D.C. Code), or section 301 of the District of Columbia Police and Firemen's Salary Act of 1953 \[June 20, 1953, ch. 146, title III, 67 Stat. 75\] (sec. 4–605, D.C. Code).”
 
 \[Pub. L. 106–554, §1(a)(4) \[div. B, title IX, §909\], Dec. 21, 2000, 114 Stat. 2763, 2763A–310, provided that: “Except as provided in section 908(c) \[114 Stat. 2763A–310\], this title \[enacting provisions set out as notes above and under sections 5301, 5304, and 5305 of Title 5, Government Organization and Employees, and amending provisions set out as a note under section 5305 of Title 5\] and the amendments made by this title shall become effective on the first day of the first pay period beginning 6 months after the date of enactment \[Dec. 21, 2000\].”\]
 

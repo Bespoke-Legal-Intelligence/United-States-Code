@@ -22,7 +22,7 @@ For purposes of this subchapter:
 
 &emsp;(10) The term “public offering” means an underwritten offering to the public of the common stock of the private corporation pursuant to section 2297h–2 of this title.
 
-&emsp;(11) The “Russian HEU Agreement” means the Agreement Between the Government of the United States of America and the Government of the Russian Federation Concerning the Disposition of Highly Enriched UraniumExtracted from Nuclear Weapons, dated February 18, 1993.
+&emsp;(11) The “Russian HEU Agreement” means the Agreement Between the Government of the United States of America and the Government of the Russian Federation Concerning the Disposition of Highly Enriched Uranium Extracted from Nuclear Weapons, dated February 18, 1993.
 
 &emsp;(12) The term “Secretary” means the Secretary of Energy.
 
@@ -86,7 +86,7 @@ Sec. 5. <i>Foreign Ownership, Control, or Influence (FOCI)</i>. The EOC shall co
 
 (b) monitor and review reports and submissions relating to FOCI issues made by the USEC or any successor entity to the Nuclear Regulatory Commission (NRC) under the Atomic Energy Act of 1954, 42 U.S.C. 2011 <i>et seq</i>. (1994), and the USEC Privatization Act, Public Law 104–134, title III, 110 Stat. 1321–335 <i>et seq</i>. (1996) \[42 U.S.C. 2297h et seq.\];
 
-(c) ensure coordination with the Intelligence Community of the collection and analysis of intelligence andensure coordination of intelligence with other information related to FOCI issues; and
+(c) ensure coordination with the Intelligence Community of the collection and analysis of intelligence and ensure coordination of intelligence with other information related to FOCI issues; and
 
 (d) ensure coordination with the Committee on Foreign Investment in the United States.
 

@@ -4,7 +4,7 @@
 
 The Secretary, pursuant to procedures set forth in subsections (c) and (d) of this section, shall prepare and periodically revise, and maintain an oil and gas leasing program to implement the policies of this subchapter. The leasing program shall consist of a schedule of proposed lease sales indicating, as precisely as possible, the size, timing, and location of leasing activity which he determines will best meet national energy needs for the five-year period following its approval or reapproval. Such leasing program shall be prepared and maintained in a manner consistent with the following principles:
 
-&emsp;(1) Management of the outer Continental Shelf shall be conducted in a manner which considers economic, social, and environmental values of the renewable and nonrenewable resources contained in the outer Continental Shelf, and the potential impact of oil and gas exploration on other resource values of the outer Continental Shelf and the marine, coastal, and human environments.
+&emsp;(1) Management of the outer Continental Shelf shall be conducted in a manner whichconsiders economic, social, and environmental values of the renewable and nonrenewable resources contained in the outer Continental Shelf, and the potential impact of oil and gas exploration on other resource values of the outer Continental Shelf and the marine, coastal, and human environments.
 
 &emsp;(2) Timing and location of exploration, development, and production of oil and gas among the oil- and gas-bearing physiographic regions of the outer Continental Shelf shall be based on a consideration of—
 

@@ -186,7 +186,7 @@ Duties.—The Commission shall analyze the system of the Bureau of Indian Affair
 
 &emsp;“(2) to eliminate any backlog of requests for title status reports; and
 
-&emsp;“(3) to ensure that the administration of the system will not in any way impair or restrict the ability of Native Americans to obtain conventional loans for purchase of residences located on Indian trust lands, including any actions necessary to ensure that the system will promptly be able to meet future demands for certified title status reports, taking into account the anticipated complexity and volume of such requests.
+&emsp;“(3) to ensure that the administration of the system will not in any way impair or restrict the ability of Native Americans to obtain conventional loans forpurchase of residences located on Indian trust lands, including any actions necessary to ensure that the system will promptly be able to meet future demands for certified title status reports, taking into account the anticipated complexity and volume of such requests.
 
 “(e)
 

@@ -62,7 +62,7 @@ A prior section 290aa–4, act July 1, 1944, ch. 373, title V, §506, formerly �
 
 A prior section 505 of act July 1, 1944, was renumbered section 502 by section 102 of Pub. L. 102–321 and is classified to section 290aa–1 of this title.
 
-Another prior section 505 of act July 1, 1944, which was classified to section 223 of this title, was renumbered section 2105 of act July 1, 1944, by Pub. L. 98–24and transferred to section 300aa–4 of this title, renumbered section 2305 of act July 1, 1944, by Pub. L. 99–660 and transferred to section 300cc–4 of this title, prior to repeal by Pub. L. 99–117, §12(f), Oct. 7, 1985, 99 Stat. 495.
+Another prior section 505 of act July 1, 1944, which was classified to section 223 of this title, was renumbered section 2105 of act July 1, 1944, by Pub. L. 98–24 and transferred to section 300aa–4 of this title, renumbered section 2305 of act July 1, 1944, by Pub. L. 99–660 and transferred to section 300cc–4 of this title, prior to repeal by Pub. L. 99–117, §12(f), Oct. 7, 1985, 99 Stat. 495.
 
 #### Amendments
 

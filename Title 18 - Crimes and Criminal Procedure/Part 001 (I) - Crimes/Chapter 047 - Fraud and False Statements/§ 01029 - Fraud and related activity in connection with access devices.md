@@ -42,9 +42,9 @@ Generally.—The punishment for an offense under subsection (a) of this section 
 
 &emsp;&emsp;(A) in the case of an offense that does not occur after a conviction for another offense under this section—
 
-&emsp;&emsp;&emsp;(i) if the offense is under paragraph (1), (2), (3), (6), (7), or (10) of subsection (a), a fine under this title or imprisonment for not more than 10 years, or both; and
+&emsp;&emsp;&emsp;(i) if the offense is under paragraph (1), (2), (3), (6), (7), or (10) of subsection (a), afine under this title or imprisonment for not more than 10 years, or both; and
 
-&emsp;&emsp;&emsp;(ii) if the offense is under paragraph (4), (5), (8), or (9),<sup>1</sup> of subsection (a), a fine under this title or imprisonment for not more than 15 years, or both;
+&emsp;&emsp;&emsp;(ii) if the offense is under paragraph (4), (5), (8), or (9) of subsection (a), a fine under this title or imprisonment for not more than 15 years, or both;
 
 &emsp;&emsp;(B) in the case of an offense that occurs after a conviction for another offense under this section, a fine under this title or imprisonment for not more than 20 years, or both; and
 
@@ -60,7 +60,7 @@ Forfeiture procedure.—The forfeiture of property under this section, including
 
 &emsp;(1) the term “access device” means any card, plate, code, account number, electronic serial number, mobile identification number, personal identification number, or other telecommunications service, equipment, or instrument identifier, or other means of account access that can be used, alone or in conjunction with another access device, to obtain money, goods, services, or any other thing of value, or that can be used to initiate a transfer of funds (other than a transfer originated solely by paper instrument);
 
-&emsp;(2) the term “counterfeit access device” means any access device that is counterfeit, fictitious, altered, or forged, or an identifiablecomponent of an access device or a counterfeit access device;
+&emsp;(2) the term “counterfeit access device” means any access device that is counterfeit, fictitious, altered, or forged, or an identifiable component of an access device or a counterfeit access device;
 
 &emsp;(3) the term “unauthorized access device” means any access device that is lost, stolen, expired, revoked, canceled, or obtained with intent to defraud;
 
@@ -72,7 +72,7 @@ Forfeiture procedure.—The forfeiture of property under this section, including
 
 &emsp;(7) the term “credit card system member” means a financial institution or other entity that is a member of a credit card system, including an entity, whether affiliated with or identical to the credit card issuer, that is the sole member of a credit card system;
 
-&emsp;(8) the term “scanning receiver” means a device or apparatus that can be used to intercept a wire or electronic communication in violation of chapter 119 or to intercept an electronic serial number, mobile identification number, or other identifier of any telecommunications service, equipment, or instrument <sup>2</sup>
+&emsp;(8) the term “scanning receiver” means a device or apparatus that can be used to intercept a wire or electronic communication in violation of chapter 119 or to intercept an electronic serial number, mobile identification number, or other identifier of any telecommunications service, equipment, or instrument;
 
 &emsp;(9) the term “telecommunications service” has the meaning given such term in section 3 of title I of the Communications Act of 1934 (47 U.S.C. 153);
 
@@ -92,7 +92,7 @@ Forfeiture procedure.—The forfeiture of property under this section, including
 
 &emsp;(2) the person transports, delivers, conveys, transfers to or through, or otherwise stores, secrets, or holds within the jurisdiction of the United States, any article used to assist in the commission of the offense or the proceeds of such offense or property derived therefrom.
 
-(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b), Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII, §330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, §601(<i>l</i>), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, §2(a)–(d), Apr. 24, 1998, 112 Stat. 53, 54; Pub. L. 107–56, title III, §377, Oct. 26, 2001, 115 Stat. 342.)
+(Added Pub. L. 98–473, title II, §1602(a), Oct. 12, 1984, 98 Stat. 2183; amended Pub. L. 99–646, §44(b),Nov. 10, 1986, 100 Stat. 3601; Pub. L. 101–647, title XII, §1205(f), Nov. 29, 1990, 104 Stat. 4831; Pub. L. 103–322, title XXV, §250007, title XXXIII, §330016(2)(I), Sept. 13, 1994, 108 Stat. 2087, 2148; Pub. L. 103–414, title II, §206, Oct. 25, 1994, 108 Stat. 4291; Pub. L. 104–294, title VI, §601(<i>l</i>), Oct. 11, 1996, 110 Stat. 3501; Pub. L. 105–172, §2(a)–(d), Apr. 24, 1998, 112 Stat. 53, 54; Pub. L. 107–56, title III, §377, Oct. 26, 2001, 115 Stat. 342; Pub. L. 107–273, div. B, title IV, §4002(b)(11), Nov. 2, 2002, 116 Stat. 1808.)
 
 #### References in Text
 
@@ -101,6 +101,10 @@ Section 413 of the Controlled Substances Act, referred to in subsec. (c)(2), is 
 The Communications Act of 1934, referred to in subsec. (e)(10), is act June 19, 1934, ch. 652, 48 Stat. 1964, as amended. Title III of the Act is classified generally to subchapter III (§301 et seq.) of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 #### Amendments
+
+2002—Subsec. (c)(1)(A)(ii). Pub. L. 107–273, §4002(b)(11)(A), substituted “(9)” for “(9),”.
+
+Subsec. (e)(8). Pub. L. 107–273, §4002(b)(11)(B), inserted semicolon at end.
 
 2001—Subsec. (h). Pub. L. 107–56 added subsec. (h).
 
@@ -114,7 +118,7 @@ Subsec. (b)(1). Pub. L. 105–172, §2(b)(2), substituted “subject to the same
 
 Subsec. (c). Pub. L. 105–172, §2(b)(1), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The punishment for an offense under subsection (a) or (b)(1) of this section is—
 
-&emsp;“(1) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (3), (5), (6),\(7), (8), or (9) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph;
+&emsp;“(1) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (3), (5), (6), (7), (8), or (9) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph;
 
 &emsp;“(2) a fine under this title or twice the value obtained by the offense, whichever is greater, or imprisonment for not more than fifteen years, or both, in the case of an offense under subsection (a)(1), (4), (5), (6), (7), or (8) of this section which does not occur after a conviction for another offense under either such subsection, or an attempt to commit an offense punishable under this paragraph; and
 
@@ -170,7 +174,7 @@ Subsec. (c)(3). Pub. L. 103–322, §330016(2)(I), substituted “fine under thi
 
 Subsec. (e)(1). Pub. L. 103–414, §206(c)(1), inserted “electronic serial number, mobile identification number, personal identification number, or other telecommunications service, equipment, or instrument identifier,” after “account number,”.
 
-Subsec. (e)(5), (6). Pub. L. 103–322, §250007(3)(A), (B), and Pub. L. 103–414, §206(c)(2), (3), amended subsec. (e) identically, striking “and” at end of par. (5) and substituting “; and” for period at end of par. (6).
+Subsec. (e)(5), (6). Pub. L. 103–322, §250007(3)(A), (B), and Pub. L. 103–414, §206(c)(2), (3), amended subsec. (e)identically, striking “and” at end of par. (5) and substituting “; and” for period at end of par. (6).
 
 Subsec. (e)(7). Pub. L. 103–414, §206(c)(4), added par. (7) defining “scanning receiver”.
 
@@ -184,6 +188,10 @@ Pub. L. 103–322, §250007(3)(C), added par. (7) defining “credit card system
 
 Amendments by title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
 
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Report to Congress
 
 Section 1603 of Pub. L. 98–473 directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
@@ -191,8 +199,4 @@ Section 1603 of Pub. L. 98–473 directed Attorney General to report to Congress
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 981, 982, 1028, 1030, 1961, 2326, 2516 of this title; title 31 section 9703.
-
-<i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

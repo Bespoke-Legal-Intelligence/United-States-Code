@@ -48,7 +48,7 @@ Pub. L. 106–314, Oct. 17, 2000, 114 Stat. 1266, provided that:
 
 &emsp;“(6) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would be substantially improved by the acquisition and implementation of computerized case-tracking systems to identify and eliminate existing backlogs, to move abuse and neglect caseloads forward in a timely manner, and to move children into safe and stable families. Such systems could also be used to evaluate the effectiveness of such courts in meeting the purposes of the amendments made by, and provisions of, the Adoption and Safe Families Act of 1997.
 
-&emsp;“(7) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would alsobe improved by the identification and implementation of projects designed to eliminate the backlog of abuse and neglect cases, including the temporary hiring of additional judges, extension of court hours, and other projects designed to reduce existing caseloads.
+&emsp;“(7) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would also be improved by the identification and implementation of projects designed to eliminate the backlog of abuse and neglect cases, including the temporary hiring of additional judges, extension of court hours, and other projects designed to reduce existing caseloads.
 
 &emsp;“(8) The administrative efficiency and effectiveness of the Nation's abuse and neglect courts would be further strengthened by improving the quality and availability of training for judges, court personnel, agency attorneys, guardians ad litem, volunteers who participate in court-appointed special advocate (CASA) programs, and attorneys who represent the children and the parents of children in abuse and neglect proceedings.
 
@@ -78,7 +78,7 @@ Abuse and neglect courts.—The term ‘abuse and neglect courts’ means the St
 
 &emsp;“(2)
 
-Agency attorney.—The term ‘agency attorney’ means an attorney or other individual, including any government attorney, district attorney, attorney general, State attorney, county attorney, city solicitor or attorney, corporation counsel, or privately retained special prosecutor, who represents the State or local agency administrating the programs under parts B and E of title IV of the Social Security Act (42 U.S.C. 620 et seq.; 670 et seq.) in a proceeding conducted by, or under the supervision of, an abuse and neglect court, including a proceeding for termination of parental rights.
+Agency attorney.—The term ‘agency attorney’ means an attorney or other individual, including any government attorney, district attorney, attorney general, State attorney, county attorney, city solicitor or attorney, corporation counsel, or privately retained special prosecutor, who represents the State or local agency administrating the programs under parts B and E of title IV of the Social Security Act (42 U.S.C. 620 et seq.; 670 et seq.) in a proceeding conducted by, or under the supervision of, an abuse andneglect court, including a proceeding for termination of parental rights.
 
 #### “SEC. 4. GRANTS TO STATE COURTS AND LOCAL COURTS TO AUTOMATE THE DATA COLLECTION AND TRACKING OF PROCEEDINGS IN ABUSE AND NEGLECT COURTS.
 
@@ -138,7 +138,7 @@ Information required.—An application for a grant authorized under this section
 
 &emsp;&emsp;“(D) In the case of an application that is submitted by a State court, a description of how the proposed system will integrate with a State court improvement plan funded under section 13712 of such Act if there is such a plan in the State.
 
-&emsp;&emsp;“(E) After consultation with the State agency responsible for the administration of parts B and E oftitle IV of the Social Security Act (42 U.S.C. 620 et seq.; 670 et seq.)—
+&emsp;&emsp;“(E) After consultation with the State agency responsible for the administration of parts B and E of title IV of the Social Security Act (42 U.S.C. 620 et seq.; 670 et seq.)—
 
 &emsp;&emsp;&emsp;“(i) a description of the coordination of the proposed system with other child welfare data collection systems, including the statewide automated child welfare information system (SACWIS) and the adoption and foster care analysis and reporting system (AFCARS) established pursuant to section 479 of the Social Security Act (42 U.S.C. 679); and
 
@@ -184,7 +184,7 @@ Information required.—An application for a grant authorized under this section
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) the number of judges assigned to the proceeding for the duration of the abuse and neglect case; and
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(V) the number of agency attorneys, children's attorneys, parent's attorneys, guardians ad litem, and volunteers participating in a court-appointed special advocate (CASA) program assigned to the proceeding during the duration of the abuse and neglect case.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(V) the number of agency attorneys, children's attorneys, parent's attorneys, guardiansad litem, and volunteers participating in a court-appointed special advocate (CASA) program assigned to the proceeding during the duration of the abuse and neglect case.
 
 &emsp;&emsp;“(J) A description of how the proposed system will reduce the need for paper files and ensure prompt action so that cases are appropriately listed with national and regional adoption exchanges, and public and private adoption services.
 
@@ -366,7 +366,7 @@ Authorization of Appropriations.—There is authorized to be appropriated to mak
 
 #### Entitlement Funding for State Courts To Assess and Improve Handling of Proceedings Relating to Foster Care and Adoption
 
-Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended by Pub. L. 105–89, title III,§305(a)(3), Nov. 19, 1997, 111 Stat. 2130; Pub. L. 107–133, title I, §107(a)–(d), Jan. 17, 2002, 115 Stat. 2418, which was formerly set out as a note under this section, was renumbered section 438 of the Social Security Act by Pub. L. 107–133, title I, §107(e), Jan. 17, 2002, 115 Stat. 2419, and is classified to section 629h of this title.
+Pub. L. 103–66, title XIII, §13712, Aug. 10, 1993, 107 Stat. 655, as amended by Pub. L. 105–89, title III, §305(a)(3), Nov. 19, 1997, 111 Stat. 2130; Pub. L. 107–133, title I, §107(a)–(d), Jan. 17, 2002, 115 Stat. 2418, which was formerly set out as a note under this section, was renumbered section 438 of the Social Security Act by Pub. L. 107–133, title I, §107(e), Jan. 17, 2002, 115 Stat. 2419, and is classified to section 629h of this title.
 
 #### Abandoned Infants Assistance
 
@@ -410,7 +410,7 @@ Pub. L. 100–505, Oct. 18, 1988, 102 Stat. 2533, as amended by Pub. L. 102–23
 
 In General.—The Secretary of Health and Human Services may make grants to public and nonprofit private entities for the purpose of developing, implementing, and operating projects to demonstrate methods—
 
-&emsp;“(1) to prevent the abandonment of infants and young children, including the provision of services to members of the natural family for any condition that increases the probability of abandonment of an infant or young child;
+&emsp;“(1) to prevent the abandonment of infants and young children, including the provision of services tomembers of the natural family for any condition that increases the probability of abandonment of an infant or young child;
 
 &emsp;“(2) to identify and address the needs of abandoned infants and young children;
 
@@ -454,7 +454,7 @@ Administration of Grant.—
 
 &emsp;&emsp;“(C) to report to the Secretary annually on the utilization, cost, and outcome of activities conducted, and services furnished, under this section; and
 
-&emsp;&emsp;“(D) that if, during the majority of the 180-day period preceding the date of the enactment of this Act \[Oct. 18, 1988\], the applicant has carried out any program with respect to the care of abandoned infants and young children, the applicant will expendthe grant only for the purpose of significantly expanding, in accordance with subsection (a), activities under such program above the level provided under such program during the majority of such period.
+&emsp;&emsp;“(D) that if, during the majority of the 180-day period preceding the date of the enactment of this Act \[Oct. 18, 1988\], the applicant has carried out any program with respect to the care of abandoned infants and young children, the applicant will expend the grant only for the purpose of significantly expanding, in accordance with subsection (a), activities under such program above the level provided under such program during the majority of such period.
 
 &emsp;“(2) Subject to the availability of amounts made available in appropriations Acts for the fiscal year involved, the duration of a grant under subsection (a) shall be for a period of 3 years, except that the Secretary—
 
@@ -552,7 +552,7 @@ Study and Report on Effective Care Methods.—
 
 In General.—
 
-&emsp;“(1) For the purpose of carrying out this title (other than section 102(b)), there are authorized to be appropriated $35,000,000 for fiscal year 1997 and suchsums as may be necessary for each of the fiscal years 1998 through 2001.
+&emsp;“(1) For the purpose of carrying out this title (other than section 102(b)), there are authorized to be appropriated $35,000,000 for fiscal year 1997 and such sums as may be necessary for each of the fiscal years 1998 through 2001.
 
 &emsp;“(2)(A) Of the amounts appropriated under paragraph (1) for any fiscal year in excess of the amount appropriated under this subsection for fiscal year 1991, as adjusted in accordance with subparagraph (B), the Secretary shall make available not less than 50 percent for grants under section 101(a) to carry out projects described in paragraph (8) of such section.
 

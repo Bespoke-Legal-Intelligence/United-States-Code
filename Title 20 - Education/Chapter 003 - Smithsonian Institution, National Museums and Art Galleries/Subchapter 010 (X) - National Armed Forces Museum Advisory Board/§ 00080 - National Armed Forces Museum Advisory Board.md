@@ -24,7 +24,7 @@ Five members of the Board shall constitute a quorum and any vacancy in the Board
 
 #### (e) Compensation, travel and other expenses
 
-The members of the Board shall serve without compensation but shall be reimbursed for travel,subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the Board.
+The members of the Board shall serve without compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred by them in the performance of their duties as members of the Board.
 
 #### (f) Biennial organization; rules and regulations
 

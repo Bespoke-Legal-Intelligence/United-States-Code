@@ -10,7 +10,7 @@ As used in this subchapter, the term—
 
 &emsp;&emsp;(C) a spouse or dependent of a member referred to in subparagraph (A) or (B) who, by reason of the active duty or service of the member, is absent from the place of residence where the spouse or dependent is otherwise qualified to vote;
 
-&emsp;(2) “balloting materials” means official post card forms (prescribed under section 1973ff of this title), Federal write-in absentee ballots (prescribed under section 1973ff–2 of this title), and any State balloting materials that, as determined by the Presidential designee, are essential to the carrying out of this subchapter;
+&emsp;(2) “balloting materials” means official post card forms (prescribed under section 1973ff ofthis title), Federal write-in absentee ballots (prescribed under section 1973ff–2 of this title), and any State balloting materials that, as determined by the Presidential designee, are essential to the carrying out of this subchapter;
 
 &emsp;(3) “Federal office” means the office of President or Vice President, or of Senator or Representative in, or Delegate or Resident Commissioner to, the Congress;
 
@@ -36,7 +36,11 @@ As used in this subchapter, the term—
 
 (Pub. L. 99–410, title I, §107, Aug. 28, 1986, 100 Stat. 927.)
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1973ff–2 of this title; title 39 section 3406.
+This section is referred to in sections 1973ff–2, 15382 of this title; title 39 section 3406.
 

@@ -10,7 +10,7 @@ No agricultural commodity shall be made available under this chapter unless it i
 
 #### (b) Impact on local farmers and economy
 
-The Secretary or the Administrator, as appropriate, shall ensure that the importation ofUnited States agricultural commodities and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country.
+The Secretary or the Administrator, as appropriate, shall ensure that the importation of United States agricultural commodities and the use of local currencies for development purposes will not have a disruptive impact on the farmers or the local economy of the recipient country.
 
 #### (c) Transshipment
 
@@ -30,7 +30,13 @@ Private trade channels shall be used under this chapter to the maximum extent pr
 
 #### (e) World prices
 
-In carrying out this chapter, reasonable precautions shall be taken to assure that sales or donations of agricultural commodities will not unduly disrupt world prices for agricultural commodities or normal patterns of commercial trade with foreign countries.
+#### (1) In general
+
+&emsp;In carrying out this chapter, reasonable precautions shall be taken to assure that sales or donations of agricultural commodities will not unduly disrupt world prices for agricultural commodities or normal patterns of commercial trade with foreign countries.
+
+#### (2) Sale price
+
+&emsp;Sales of agricultural commodities described in paragraph (1) shall be made at a reasonable market price in the economy where the agricultural commodity is to be sold, as determined by the Secretary or the Administrator, as appropriate.
 
 #### (f) Publicity
 
@@ -68,7 +74,7 @@ In carrying out this chapter, reasonable precautions shall be taken to safeguard
 
 #### (3) Encouragement of safe passage
 
-&emsp;When entering into agreements under this chapter that involve areas within recipient countries that are experiencing protracted warfare or civil strife, the Secretary or the Administrator, as appropriate, shall, to the extent practicable, encourage all parties to the conflict to permit safe passage of the commodities and other relief supplies and to establish safe zones for medical and humanitarian treatment and evacuation of injured persons.
+&emsp;When entering into agreements under this chapter that involve areas within recipient countries that are experiencing protracted warfare or civil strife, the Secretary or the Administrator, as appropriate, shall, to the extent practicable, encourage all parties tothe conflict to permit safe passage of the commodities and other relief supplies and to establish safe zones for medical and humanitarian treatment and evacuation of injured persons.
 
 #### (j) Violations of human rights
 
@@ -86,15 +92,39 @@ In carrying out this chapter, reasonable precautions shall be taken to safeguard
 
 #### (2) Waiver
 
-&emsp;Paragraph (1) shall not prohibit the provision of assistance to such a country if the assistance is targeted to the most needy people in such country and is made available in suchcountry through channels other than the government.
+&emsp;Paragraph (1) shall not prohibit the provision of assistance to such a country if the assistance is targeted to the most needy people in such country and is made available in such country through channels other than the government.
 
 #### (k) Abortion prohibition
 
 Local currencies that are made available for use under this chapter may not be used to pay for the performance of abortions as a method of family planning or to motivate or coerce any person to practice abortions.
 
-(July 10, 1954, ch. 469, title IV, §403, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(3), Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §1(17), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 95–113, title XII, §1206, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–533, title IV, §407, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 97–98, title XII, §1214, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3646; Pub. L. 102–237, title III, §321, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §213, Apr. 4, 1996, 110 Stat. 956.)
+#### (<i>l</i>) Sale procedure
+
+#### (1) In general
+
+&emsp;Subsections (b) and (h) of this section shall apply to sales of commodities in recipient countries to generate proceeds to carry out projects under—
+
+&emsp;&emsp;(A) subchapters II and III of this chapter;
+
+&emsp;&emsp;(B) section 1431(b) of this title; and
+
+&emsp;&emsp;(C) the Food for Progress Act of 1985 (7 U.S.C. 1736<i>o</i>).
+
+#### (2) Currency
+
+&emsp;A sale described in paragraph (1) may be made in United States dollars or other currencies.
+
+(July 10, 1954, ch. 469, title IV, §403, as added Pub. L. 86–341, title I, §14, Sept. 21, 1959, 73 Stat. 610; amended Pub. L. 87–703, title II, §201(3), Sept. 27, 1962, 76 Stat. 611; Pub. L. 88–638, §1(17), Oct. 8, 1964, 78 Stat. 1037; Pub. L. 89–808, §2(E), Nov. 11, 1966, 80 Stat. 1536; Pub. L. 95–113, title XII, §1206, Sept. 29, 1977, 91 Stat. 956; Pub. L. 96–533, title IV, §407, Dec. 16, 1980, 94 Stat. 3151; Pub. L. 97–98, title XII, §1214, Dec. 22, 1981, 95 Stat. 1282; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3646; Pub. L. 102–237, title III, §321, Dec. 13, 1991, 105 Stat. 1857; Pub. L. 104–127, title II, §213, Apr. 4, 1996, 110 Stat. 956; Pub. L. 107–171, title III, §3009(a), May 13, 2002, 116 Stat. 283.)
+
+#### References in Text
+
+The Food for Progress Act of 1985, referred to in subsec. (<i>l</i>)(1)(C), is Pub. L. 99–198, title XI, §1110, Dec. 23, 1985, 99 Stat. 1472, as amended, which is classified to section 1736<i>o</i> of this title.
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–171, §3009(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
+
+Subsec. (<i>l</i>). Pub. L. 107–171, §3009(a)(2), added subsec. (<i>l</i>).
 
 1996—Subsec. (b). Pub. L. 104–127, §213(1), inserted heading and struck out former heading “Consultations” and in text struck out “consult with representatives from the International Monetary Fund, the International Bank for Reconstruction and Development, the World Bank, and other donor organizations to” before “ensure that”.
 
@@ -142,5 +172,5 @@ Functions of President under subsec. (j) of this section delegated to Secretary 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1431, 1736<i>o</i> of this title; title 46 App. section 1241h.
+This section is referred to in sections 1431, 1736<i>o</i>, 1736<i>o</i>–1 of this title; title 46 App. section 1241h.
 

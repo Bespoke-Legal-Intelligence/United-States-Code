@@ -20,7 +20,7 @@ Pub. L. 91–524, title VIII, §804, Nov. 30, 1970, 84 Stat. 1382, as amended by
 
 “(a) The Secretary of Agriculture is authorized to make indemnity payments to beekeepers who through no fault of their own have suffered losses of honey bees after January 1, 1967, as a result of utilization of economic poisons near or adjacent to the property on which the beehives of such beekeepers were located.
 
-“(b) The amount of the indemnity payment in the case of any beekeeper shall be determined on the basisof the net loss sustained by such beekeeper as a result of the loss of his honey bees.
+“(b) The amount of the indemnity payment in the case of any beekeeper shall be determined on the basis of the net loss sustained by such beekeeper as a result of the loss of his honey bees.
 
 “(c) Indemnity payments shall be made only in cases in which the loss occurred as a result of the use of economic poisons which had been registered and approved for use by the Federal Government.
 

@@ -78,7 +78,7 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (f)
 
 #### Prior Provisions
 
-Provisions similar to those in subsecs. (a) and (b) of this section were contained respectively in R.S. §§3114and 3115, as amended, which were formerly classified to sections 257 and 258 of this title prior to repeal by section 3 of Pub. L. 91–654.
+Provisions similar to those in subsecs. (a) and (b) of this section were contained respectively in R.S. §§3114 and 3115, as amended, which were formerly classified to sections 257 and 258 of this title prior to repeal by section 3 of Pub. L. 91–654.
 
 #### Amendments
 
@@ -96,7 +96,7 @@ Subsec. (g). Pub. L. 96–609 added subsec. (g).
 
 1979—Subsec. (f). Pub. L. 96–39 added subsec. (f).
 
-1978—Subsec. (a). Pub. L. 95–410, §206(1), incorporated seizure and forfeiture provision formerly a part of first sentence in an inserted second sentence; substituted therein “willfully or knowingly” for “willfully and knowingly” and “such vessel, or a monetary amount up to the value thereof as determined by the Secretary, to be recovered from the owner, shall be subject to seizure and forfeiture” for “such vessel, with her tackle, apparel, and furniture, shall be seized and forfeited”; and authorized the seizure and forfeiture for making false statements in respect of purchases or repairs or aiding or procuring the making of false statements.
+1978—Subsec. (a). Pub. L. 95–410, §206(1), incorporated seizure and forfeiture provision formerly a part of first sentence in an inserted second sentence; substituted therein “willfully or knowingly” for “willfully and knowingly” and “such vessel, or a monetary amount up to the value thereof as determined by the Secretary, to be recovered from the owner, shall be subject to seizure and forfeiture” for “such vessel, with her tackle, apparel, and furniture, shall be seized and forfeited”; andauthorized the seizure and forfeiture for making false statements in respect of purchases or repairs or aiding or procuring the making of false statements.
 
 Subsecs. (b) to (e). Pub. L. 95–410, §206(2), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
@@ -226,7 +226,7 @@ Section 14(b) of Pub. L. 96–467 provided in part that: “The amendment made b
 
 #### Effective Date of 1979 Amendment
 
-Section 601(a) of Pub. L. 96–39 provided that the amendment made by that section is effective upon a Presidential proclamation authorized to be made after Sept. 30, 1979, when the conditions under section 2503(b) of this title on acceptance of the Agreement on Trade in Civil Aircraft are fulfilled.
+Section 601(a) of Pub. L. 96–39 provided that the amendment made by that section is effective upon a Presidential proclamation authorized to be made after Sept. 30, 1979, when the conditions under section 2503(b)of this title on acceptance of the Agreement on Trade in Civil Aircraft are fulfilled.
 
 #### Entries Made in Connection With Arrival of Vessels On or After October 1, 1979, and Before December 28, 1980
 

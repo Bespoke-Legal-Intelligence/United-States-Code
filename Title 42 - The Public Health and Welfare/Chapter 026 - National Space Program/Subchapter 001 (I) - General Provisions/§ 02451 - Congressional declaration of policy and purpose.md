@@ -46,7 +46,7 @@ The Congress declares that the general welfare of the United States requires tha
 
 It is the purpose of this chapter to carry out and effectuate the policies declared in subsections (a), (b), (c), (d), (e), and (f) of this section.
 
-(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978,92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591.)
+(Pub. L. 85–568, title I, §102, July 29, 1958, 72 Stat. 426; Pub. L. 94–413, §15(a), (b), Sept. 17, 1976, 90 Stat. 1270; Pub. L. 95–238, title III, §311, Feb. 25, 1978, 92 Stat. 83; Pub. L. 95–401, §7, Sept. 30, 1978, 92 Stat. 860; Pub. L. 98–361, title I, §110, July 16, 1984, 98 Stat. 426; Pub. L. 100–685, title II, §214, Nov. 17, 1988, 102 Stat. 4093; Pub. L. 106–391, title III, §302(a), Oct. 30, 2000, 114 Stat. 1591.)
 
 #### References in Text
 
@@ -96,7 +96,7 @@ Pub. L. 106–398, §1 \[\[div. A\], title X, §1092\], Oct. 30, 2000, 114 Stat.
 
 “(a)
 
-Establishment.—There is established a commission to be known as the ‘Commission on the Future of the United States Aerospace Industry’ (in this section referred to as the ‘Commission’).
+Establishment.—There is established a commission to be known as the ‘Commission on the Future ofthe United States Aerospace Industry’ (in this section referred to as the ‘Commission’).
 
 “(b)
 
@@ -230,7 +230,7 @@ Calculation of launch costs.—For purposes of paragraph (1)(B)—
 
 &emsp;&emsp;“(A) not more than $380,000,000 in costs for any single space shuttle launch shall be taken into account; and
 
-&emsp;&emsp;“(B) if the space shuttle launch costs taken into account for any single space shuttle launch are less than $380,000,000, then the Administrator \[of the National Aeronautics and Space Administration\] shall arrange for a verification, by the General Accounting Office, of the accounting used to determinethose costs and shall submit that verification to the Congress within 60 days after the date on which the next budget request is transmitted to the Congress.
+&emsp;&emsp;“(B) if the space shuttle launch costs taken into account for any single space shuttle launch are less than $380,000,000, then the Administrator \[of the National Aeronautics and Space Administration\] shall arrange for a verification, by the General Accounting Office, of the accounting used to determine those costs and shall submit that verification to the Congress within 60 days after the date on which the next budget request is transmitted to the Congress.
 
 “(b)
 
@@ -350,7 +350,7 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[Oc
 
 “(a)
 
-Research Utilization and Commercialization Management Activities.—The Administrator of the National Aeronautics and Space Administration shallenter into an agreement with a non-government organization to conduct research utilization and commercialization management activities of the International Space Station subsequent to substantial completion as defined in section 202(b)(3). The agreement may not take effect less than 120 days after the implementation plan for the agreement is submitted to the Congress under subsection (b).
+Research Utilization and Commercialization Management Activities.—The Administrator of the National Aeronautics and Space Administration shall enter into an agreement with a non-government organization to conduct research utilization and commercialization management activities of the International Space Station subsequent to substantial completion as defined in section 202(b)(3). The agreement may not take effect less than 120 days after the implementation plan for the agreement is submitted to the Congress under subsection (b).
 
 “(b)
 
@@ -510,7 +510,7 @@ Pub. L. 102–588, title I, §102(g), Nov. 4, 1992, 106 Stat. 5111, provided tha
 
 &emsp;“(5) Landsat data and the continuation of the Landsat system beyond Landsat 6 are essential to the Mission to Planet Earth and other long-term environmental research programs;
 
-&emsp;“(6) increased use of defense-related remote sensing data and data technology by civilian agencies and the scientific community can benefit national environmental study and monitoring programs;
+&emsp;“(6) increased use of defense-related remote sensing data and data technology by civilian agencies and thescientific community can benefit national environmental study and monitoring programs;
 
 &emsp;“(7) the generation of trained scientists and engineers through educational initiatives and academic research programs outside of the National Aeronautics and Space Administration is essential to the future of the United States civil space program;
 
@@ -546,7 +546,7 @@ Pub. L. 102–588, title I, §102(g), Nov. 4, 1992, 106 Stat. 5111, provided tha
 
 &emsp;“(3) the United States aeronautics and space program genuinely reflects our Nation's pioneer heritage and demonstrates our quest for leadership, economic growth, and human understanding;
 
-&emsp;“(4) the United States space program is based on a solid record of achievement and continues to promotethe objective of international cooperation in the exploration of the planets and the universe;
+&emsp;“(4) the United States space program is based on a solid record of achievement and continues to promote the objective of international cooperation in the exploration of the planets and the universe;
 
 &emsp;“(5) the United States aeronautics and space program generates critical technology breakthroughs that benefit our economy through new products and processes that significantly improve our standard of living;
 
@@ -986,7 +986,7 @@ Section 1. <i>Establishment and Composition of the National Space Council.</i>
 
 (2) The heads of other executive departments and agencies and other senior officials in the Executive Office of the President.
 
-Sec. 2. <i>Functions of the Council</i>. (a) The Council shall advise and assist the President on national space policy and strategy, and perform such other duties as the President may from time to time prescribe.
+Sec. 2. <i>Functions of the Council</i>. (a) The Council shall advise and assist the President on national space policyand strategy, and perform such other duties as the President may from time to time prescribe.
 
 (b) In addition, the Council is directed to:
 

@@ -4,7 +4,7 @@
 
 (1) The President shall seek information and advice from representative elements of the private sector and the non-Federal governmental sector with respect to—
 
-&emsp;(A) negotiating objectives and bargaining positions before entering into a trade agreement under this subchapter or section 2902 of this title;
+&emsp;(A) negotiating objectives and bargaining positions before entering into a trade agreement under this subchapter or section 3803 of this title;
 
 &emsp;(B) the operation of any trade agreement once entered into, including preparation for dispute settlement panel proceedings to which the United States is a party; and
 
@@ -16,7 +16,7 @@
 
 &emsp;(A) The principal multilateral and bilateral trade negotiating objectives and the progress being made toward their achievement.
 
-&emsp;(B) The implementation, operation, and effectiveness of recently concluded multilateral and bilateral trade agreements and resolution of trade disputes.
+&emsp;(B) The implementation, operation, and effectiveness of recently concluded multilateraland bilateral trade agreements and resolution of trade disputes.
 
 &emsp;(C) The actions taken under the trade laws of the United States and the effectiveness of such actions in achieving trade policy objectives.
 
@@ -60,7 +60,7 @@
 
 &emsp;&emsp;(ii) with respect to implementation of trade agreements, and
 
-&emsp;(B) shall include as members of committees established under subparagraph (A) representatives of non-Federal governmental interestsif he finds such inclusion appropriate after consultation by the United States Trade Representative with such representatives.
+&emsp;(B) shall include as members of committees established under subparagraph (A) representatives of non-Federal governmental interests if he finds such inclusion appropriate after consultation by the United States Trade Representative with such representatives.
 
 (4) Appointments to each committee established under paragraph (1), (2), or (3) shall be made without regard to political affiliation.
 
@@ -70,9 +70,9 @@ Committees established under subsection (c) of this section shall meet at the ca
 
 #### (e) Meeting of advisory committees at conclusion of negotiations
 
-(1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functional advisory committee, if the sector or area which such committee represents is affected, shall meet at the conclusion of negotiations for each trade agreement entered into under section 2902 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 2902 of this title shall be provided under the preceding sentence not later than the date on which the President notifies the Congress under section 2903(a)(1)(A) of this title of his intention to enter into that agreement.
+(1) The Advisory Committee for Trade Policy and Negotiations, each appropriate policy advisory committee, and each sectoral or functional advisory committee, if the sector or area which such committee represents is affected, shall meet at the conclusion of negotiations for eachtrade agreement entered into under section 3803 of this title, to provide to the President, to Congress, and to the United States Trade Representative a report on such agreement. Each report that applies to a trade agreement entered into under section 3803 of this title shall be provided under the preceding sentence not later than the date on which the President notifies the Congress under section 3805(a)(1)(A) of this title of his intention to enter into that agreement.
 
-(2) The report of the Advisory Committee for Trade Policy and Negotiations and each appropriate policy advisory committee shall include an advisory opinion as to whether and to what extent the agreement promotes the economic interests of the United States and achieves the applicable overall and principal negotiating objectives set forth in section 2901 of this title, as appropriate.
+(2) The report of the Advisory Committee for Trade Policy and Negotiations and each appropriate policy advisory committee shall include an advisory opinion as to whether and to what extent the agreement promotes the economic interests of the United States and achieves the applicable overall and principal negotiating objectives set forth in section 3802 of this title, as appropriate.
 
 (3) The report of the appropriate sectoral or functional committee under paragraph (1) shall include an advisory opinion as to whether the agreement provides for equity and reciprocity within the sector or within the functional area.
 
@@ -138,7 +138,7 @@ As used in this section, the term “non-Federal government” means—
 
 &emsp;(2) any agency or instrumentality of any entity described in paragraph (1).
 
-(Pub. L. 93–618, title I, §135, Jan. 3, 1975, 88 Stat. 1996; Pub. L. 96–39, title XI, §1103, July 26, 1979, 93 Stat. 308; Pub. L. 98–573, title III, §306(c)(2)(B), Oct. 30, 1984, 98 Stat. 3011; Pub. L. 99–514, title XVIII, §1887(a)(2), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–418, title I, §1631, Aug. 23, 1988, 102 Stat. 1264; Pub. L. 103–465, title I, §§127(f), 128, Dec. 8, 1994, 108 Stat. 4836.)
+(Pub. L. 93–618, title I, §135, Jan. 3, 1975, 88 Stat. 1996; Pub. L. 96–39, title XI, §1103, July 26, 1979, 93 Stat. 308; Pub. L. 98–573, title III, §306(c)(2)(B), Oct. 30, 1984, 98 Stat. 3011; Pub. L. 99–514, title XVIII, §1887(a)(2), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–418, title I, §1631, Aug. 23, 1988, 102 Stat. 1264; Pub. L. 103–465, title I, §§127(f), 128, Dec. 8, 1994, 108 Stat. 4836; Pub. L. 107–210, div. B, title XXI, §2110(a)(5), Aug. 6, 2002, 116 Stat. 1020.)
 
 #### References in Text
 
@@ -151,6 +151,12 @@ The Federal Advisory Committee Act, referred to in subsec (f), is Pub. L. 92–4
 The Food and Agriculture Act of 1977, referred to in subsec. (<i>l</i>), is Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 913, as amended. Title XVIII of the Act is classified generally to chapter 55A (§2281 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of Title 7 and Tables.
 
 #### Amendments
+
+2002—Subsec. (a)(1)(A). Pub. L. 107–210, §2110(a)(5)(A), substituted “section 3803 of this title” for “section 2902 of this title”.
+
+Subsec. (e)(1). Pub. L. 107–210, §2110(a)(5)(B), substituted “section 3803 of this title” for “section 2902 of this title” in two places and “section 3805(a)(1)(A) of this title” for “section 2903(a)(1)(A) of this title”.
+
+Subsec. (e)(2). Pub. L. 107–210, §2110(a)(5)(C), substituted “section 3802 of this title” for “section 2901 of this title”.
 
 1994—Subsec. (a)(1)(B). Pub. L. 103–465, §127(f), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “the operation of any trade agreement once entered into; and”.
 
@@ -204,6 +210,10 @@ Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement 
 
 Amendment by Pub. L. 96–39 effective July 26, 1979, see section 1114 of Pub. L. 96–39, set out as an Effective Date note under section 2581 of this title.
 
+#### Delegation of Authority
+
+For delegation of functions of President under div. B of Pub. L. 107–210, amending this section, see section 1 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
+
 #### Plan Amendments Not Required Until January 1, 1989
 
 For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
@@ -256,5 +266,5 @@ Term of Trade and Environment Policy Committee extended until Sept. 30, 2003, by
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2114, 2154, 2213, 2241, 2242, 2412, 2413, 2414, 2512, 2514, 2547, 2703, 2902, 2903, 3108, 3313, 3437, 3524, 3533, 3537, 3721 of this title; title 7 section 1748; title 8 section 1184; title 22 section 6062; title 50 App. section 2405.
+This section is referred to in sections 2114, 2154, 2213, 2241, 2242, 2412, 2413, 2414, 2512, 2514, 2547, 2703, 2902, 2903, 3108, 3203, 3313, 3437, 3524, 3533, 3537, 3721, 3803, 3804 of this title; title 7 section 1748; title 8 section 1184; title 22 section 6062; title 50 App. section 2405.
 

@@ -1,6 +1,6 @@
 ### §589a. United States Trustee System Fund
 
-(a) There is hereby established in the Treasury of the United States a special fund to be knownas the “United States Trustee System Fund” (hereinafter in this section referred to as the “Fund”). Monies in the Fund shall be available to the Attorney General without fiscal year limitation in such amounts as may be specified in appropriations Acts for the following purposes in connection with the operations of United States trustees—
+(a) There is hereby established in the Treasury of the United States a special fund to be known as the “United States Trustee System Fund” (hereinafter in this section referred to as the “Fund”). Monies in the Fund shall be available to the Attorney General without fiscal year limitation in such amounts as may be specified in appropriations Acts for the following purposes in connection with the operations of United States trustees—
 
 &emsp;(1) salaries and related employee benefits;
 
@@ -42,7 +42,7 @@
 
 (c) Amounts in the Fund which are not currently needed for the purposes specified in subsection (a) shall be kept on deposit or invested in obligations of, or guaranteed by, the United States.
 
-(d) The Attorney General shall transmit to the Congress, not later than 120 days after the end of each fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
+(d) The Attorney General shall transmit to the Congress, not later than 120 days after the end ofeach fiscal year, a detailed report on the amounts deposited in the Fund and a description of expenditures made under this section.
 
 (e) There are authorized to be appropriated to the Fund for any fiscal year such sums as may be necessary to supplement amounts deposited under subsection (b) for the purposes specified in subsection (a).
 
@@ -54,11 +54,11 @@ Amendment by Pub. L. 104–91 is based on section 111(b) and (c) of H.R. 2076, O
 
 #### Amendments
 
-<b>1999</b>—Subsec. (b)(1). Pub. L. 106–113, §1000(a)(1) \[title I, §113\], substituted “27.42 percent” for “23.08 percent”.
+1999—Subsec. (b)(1). Pub. L. 106–113, §1000(a)(1) \[title I, §113\], substituted “27.42 percent” for “23.08 percent”.
 
 Subsec. (b)(9). Pub. L. 106–113, §1000(a)(1) \[title I\], added par. (9).
 
-<b>1996</b>—Pub. L. 104–208 reenacted section catchline without change and amended text generally, revising and restating as subsecs. (a) to (e) provisions of former subsecs. (a) to (f).
+1996—Pub. L. 104–208 reenacted section catchline without change and amended text generally, revising and restating as subsecs. (a) to (e) provisions of former subsecs. (a) to (f).
 
 Subsec. (b)(5). Pub. L. 104–91, as amended by Pub. L. 104–99, inserted “until a reorganization plan is confirmed” before semicolon.
 
@@ -66,19 +66,19 @@ Subsec. (f)(2). Pub. L. 104–91, as amended by Pub. L. 104–99, substituted �
 
 Subsec. (f)(3). Pub. L. 104–91, as amended by Pub. L. 104–99, added par. (3).
 
-<b>1993</b>—Subsec. (b)(1). Pub. L. 103–121, §111(a)(2), substituted “23.08 per centum” for “one-fourth”.
+1993—Subsec. (b)(1). Pub. L. 103–121, §111(a)(2), substituted “23.08 per centum” for “one-fourth”.
 
 Subsec. (b)(2). Pub. L. 103–121, §111(b)(2), substituted “37.5 per centum” for “50 per centum”.
 
 Subsec. (f)(1). Pub. L. 103–121, §111(b)(3), substituted “12.5 per centum” for “16.7 per centum”.
 
-<b>1991</b>—Subsec. (b)(2). Pub. L. 102–140, §111(b)(1), substituted “50 per centum” for “three-fifths”.
+1991—Subsec. (b)(2). Pub. L. 102–140, §111(b)(1), substituted “50 per centum” for “three-fifths”.
 
 Subsec. (b)(5). Pub. L. 102–140, §111(b)(2), substituted “60 per centum” for “all”.
 
 Subsec. (f). Pub. L. 102–140, §111(c), added subsec. (f).
 
-<b>1989</b>—Subsec. (b)(1). Pub. L. 101–162 substituted “one-fourth” for “one-third”.
+1989—Subsec. (b)(1). Pub. L. 101–162 substituted “one-fourth” for “one-third”.
 
 #### Effective Date of 1999 Amendment
 

@@ -6,7 +6,7 @@ In order to promote efficiency and economy in contracting and to avoid unnecessa
 
 &emsp;(1) special simplified procedures for purchases of property and services for amounts not greater than the simplified acquisition threshold; and
 
-&emsp;(2) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonablyexpects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
+&emsp;(2) special simplified procedures for purchases of property and services for amounts greater than the simplified acquisition threshold but not greater than $5,000,000 with respect to which the contracting officer reasonably expects, based on the nature of the property or services sought and on market research, that offers will include only commercial items.
 
 #### (b) Prohibition on dividing purchases
 
@@ -22,7 +22,7 @@ The simplified acquisition procedures contained in the Federal Acquisition Regul
 
 #### (e) Interim reporting rule
 
-Until October 1, 2004, procuring activities shall continue to report under section 417(d) of this title procurement awards with a dollar value of at least $25,000, but less than $100,000, in conformity with the procedures for the reporting of a contract award greater than $25,000 that were in effect on October 1, 1992.
+Until October 1, 2004, procuring activities shall continue to report under section 417(d) of thistitle procurement awards with a dollar value of at least $25,000, but less than $100,000, in conformity with the procedures for the reporting of a contract award greater than $25,000 that were in effect on October 1, 1992.
 
 #### (f) Special rules for commercial items
 
@@ -84,5 +84,5 @@ Authority to issue solicitations for purchases of commercial items in excess of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 252b, 253 of this title; title 10 sections 2302b, 2304; title 20 section 1018a.
+This section is referred to in sections 252b, 253 of this title; title 6 sections 393, 425; title 10 sections 2302b, 2304; title 20 section 1018a.
 

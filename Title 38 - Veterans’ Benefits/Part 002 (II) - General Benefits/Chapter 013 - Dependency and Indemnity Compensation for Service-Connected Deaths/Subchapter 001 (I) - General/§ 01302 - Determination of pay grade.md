@@ -46,7 +46,7 @@ Subsec. (b). Pub. L. 91–96 substituted provisions determining the pay grade of
 
 Subsec. (c). Pub. L. 91–96 redesignated former subsec. (c)(1) as (c) and substituted “pay grade” for “basic pay” and “assigned” for “entitled”. Former subsec. (c)(2) redesignated (e).
 
-Subsec. (d). Pub. L. 91–96 substituted provisions determining the applicability of a higher pay grade of a veteran who had served six months or more in a pay grade higher than that specified in subsec. (a) or (b) for provisions determining the basic pay of a veteran who had served six months or more in a rank higher than that specified in the former provisions of subsec. (a) or (b).
+Subsec. (d). Pub. L. 91–96 substituted provisions determining the applicability of a higher pay grade of a veteran who had served six months or more in a pay grade higher than that specified in subsec. (a) or (b) for provisions determining the basic pay of a veteran whohad served six months or more in a rank higher than that specified in the former provisions of subsec. (a) or (b).
 
 Subsec. (e). Pub. L. 91–96 redesignated former subsec. (c)(2) as (e), substituted “pay grade” for “basic pay”, and struck out “and years of service” after “responsibilities”.
 
@@ -68,7 +68,7 @@ Section 8 of Pub. L. 91–96 provided that: “This Act \[amending this section 
 
 #### Effective Date of 1966 Amendment
 
-Section 2 of Pub. L. 89–622 provided that: “The amendment made by this Act \[amending this section\]shall take effect on the first day of the second calendar month after the date of enactment of this Act \[Oct. 4, 1966\].”
+Section 2 of Pub. L. 89–622 provided that: “The amendment made by this Act \[amending this section\] shall take effect on the first day of the second calendar month after the date of enactment of this Act \[Oct. 4, 1966\].”
 
 #### Section Referred to in Other Sections
 

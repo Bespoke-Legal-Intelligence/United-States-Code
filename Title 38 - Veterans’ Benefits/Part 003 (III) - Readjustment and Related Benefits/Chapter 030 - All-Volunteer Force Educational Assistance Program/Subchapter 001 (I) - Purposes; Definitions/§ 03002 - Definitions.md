@@ -20,7 +20,7 @@ For the purposes of this chapter—
 
 (4) The term “Selected Reserve” means the Selected Reserve of the Ready Reserve of any of the reserve components (including the Army National Guard of the United States and the Air National Guard of the United States) of the Armed Forces, as required to be maintained under section 10143(a) of title 10.
 
-(5) The term “Secretary of Defense” means the Secretary of Defense, except that it means the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy.
+(5) The term “Secretary of Defense” means the Secretary of Defense, except that it means the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 (6) The term “active duty” does not include any period during which an individual (A) was assigned full time by the Armed Forces to a civilian institution for a course of education which was substantially the same as established courses offered to civilians, (B) served as a cadet or midshipman at one of the service academies, or (C) served under the provisions of section 12103(d) of title 10 pursuant to an enlistment in the Army National Guard or the Air National Guard, or as a Reserve for service in the Army Reserve, Naval Reserve, Air Force Reserve, Marine Corps Reserve, or Coast Guard Reserve.
 
@@ -28,7 +28,7 @@ For the purposes of this chapter—
 
 (8) The term “educational institution” has the meaning given such term in section 3452(c) of this title.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1402; amended Pub. L. 99–576, title III, §301(a), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–689, title I, §§108(a)(1), 111(a)(1), Nov. 18, 1988, 102 Stat. 4169, 4170; Pub. L. 101–237, title IV, §423(b)(3), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §563(a), Nov. 5, 1990, 104 Stat. 1575; renumbered §3002 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title XVI, §1677(d)(2), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 103–446, title VI, §603(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §107(a), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–117, title VII, §701, Nov. 30, 1999, 113 Stat. 1582.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2554, §1402; amended Pub. L. 99–576, title III, §301(a), Oct. 28, 1986, 100 Stat. 3267; Pub. L. 100–689, title I, §§108(a)(1), 111(a)(1), Nov. 18, 1988, 102 Stat. 4169, 4170; Pub. L. 101–237, title IV, §423(b)(3), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 101–510, div. A, title V, §563(a), Nov. 5, 1990, 104 Stat. 1575; renumbered §3002 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–337, div. A, title XVI, §1677(d)(2), Oct. 5, 1994, 108 Stat. 3020; Pub. L. 103–446, title VI, §603(b), Nov. 2, 1994, 108 Stat. 4671; Pub. L. 104–275, title I, §107(a), Oct. 9, 1996, 110 Stat. 3329; Pub. L. 106–117, title VII, §701, Nov. 30, 1999, 113 Stat. 1582; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
 
 #### Prior Provisions
 
@@ -39,6 +39,8 @@ Another prior section 3004, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1225, rela
 Prior sections 3005 to 3010 were renumbered sections 5105 to 5110 of this title, respectively.
 
 #### Amendments
+
+2002—Par. (5). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1999—Par. (3)(B), (C). Pub. L. 106–117 added subpar. (B) and redesignated former subpar. (B) as (C).
 
@@ -64,6 +66,10 @@ Pub. L. 100–689, §108(a)(1), inserted cl. (i) designation and added cl. (ii).
 
 1986—Par. (3). Pub. L. 99–576 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “The term ‘program of education’ has the meaning given such term in section 1652(b) of this title.”
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department ofHomeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
@@ -75,6 +81,10 @@ Section 563(b) of Pub. L. 101–510, as amended by Pub. L. 102–83, §5(c)(2), 
 #### Effective Date of 1988 Amendment
 
 Section 108(c) of Pub. L. 100–689 provided that: “The amendments made by this section \[amending this section and sections 1432, 1602, and 1631 \[now 3032, 3202, and 3231\] of this title\] shall take effect on January 1, 1989.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Election of Benefits Under 1996 Amendments
 

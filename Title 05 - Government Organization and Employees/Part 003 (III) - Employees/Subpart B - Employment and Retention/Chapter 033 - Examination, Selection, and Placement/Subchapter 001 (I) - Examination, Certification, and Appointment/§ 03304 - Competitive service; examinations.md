@@ -2,9 +2,17 @@
 
 (a) The President may prescribe rules which shall provide, as nearly as conditions of good administration warrant, for—
 
-&emsp;(1) open, competitive examinations for testing applicants for appointment in the competitive service which are practical in character and as far as possible relate to matters that fairly test the relative capacity and fitness of the applicants for the appointment sought; and
+&emsp;(1) open, competitive examinations for testing applicants for appointment in the competitive service which are practical in character and as far as possible relate to matters that fairly test the relative capacity and fitness of the applicants for the appointment sought;
 
-&emsp;(2) noncompetitive examinations when competent applicants do not compete after notice has been given of the existence of the vacancy.
+&emsp;(2) noncompetitive examinations when competent applicants do not compete after notice has been given of the existence of the vacancy; and
+
+&emsp;(3) authority for agencies to appoint, without regard to the provision of sections 3309 through 3318, candidates directly to positions for which—
+
+&emsp;&emsp;(A) public notice has been given; and
+
+&emsp;&emsp;(B) the Office of Personnel Management has determined that there exists a severe shortage of candidates or there is a critical hiring need.
+
+> The Office shall prescribe, by regulation, criteria for identifying such positions and may delegate authority to make determinations under such criteria.
 
 (b) An individual may be appointed in the competitive service only if he has passed an examination or is specifically excepted from examination under section 3302 of this title. This subsection does not take from the President any authority conferred by section 3301 of this title that is consistent with the provisions of this title governing the competitive service.
 
@@ -32,7 +40,7 @@
 
 (5) The Office of Personnel Management shall prescribe regulations necessary for the administration of this subsection. The regulations shall ensure that an individual who has completed an initial tour of active duty is not excluded from the application of this subsection because of having been released from such tour of duty shortly before completing 3 years of active service, having been honorably released from such duty.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31, 1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 418; Pub. L. 95–454, title IX, §906(a)(5), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 99–586, Oct. 29, 1986, 100 Stat. 3325; Pub. L. 104–65, §§16(a), (b), 17(a), Dec. 19, 1995, 109 Stat. 703; Pub. L. 104–186, title II, §215(2), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–339, §2, Oct. 31,1998, 112 Stat. 3182; Pub. L. 106–117, title V, §511(c), Nov. 30, 1999, 113 Stat. 1575; Pub. L. 107–296, title XIII, §1312(a)(1), Nov. 25, 2002, 116 Stat. 2290.)
 
 Historical and Revision Notes
 
@@ -96,6 +104,8 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+2002—Subsec. (a)(3). Pub. L. 107–296 added par. (3).
+
 1999—Subsec. (f)(2), (3). Pub. L. 106–117, §511(c)(2), (3), added par. (2) and redesignated former par. (2) as (3). Former par. (3) redesignated (4).
 
 Subsec. (f)(4). Pub. L. 106–117, §511(c)(1), (2), redesignated par. (3) as (4) and struck out former par. (4) which read as follows: “The Office of Personnel Management shall establish an appointing authority to appoint such preference eligibles and veterans.”
@@ -122,6 +132,10 @@ Pub. L. 104–65, §16(b), redesignated subsec. (d) as (c).
 
 1978—Subsec. (d). Pub. L. 95–454 substituted “the Office of Personnel Management” for “a Civil Service Commission board of examiners”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date of 1999 Amendment
 
 Pub. L. 106–117, title V, §511(d)(2), Nov. 30, 1999, 113 Stat. 1576, provided that: “If pursuant to subsection (a) \[113 Stat. 1575\] the amendments specified in subsection (c) \[amending this section\] are made, those amendments shall take effect as of October 31, 1998, as if included in subsection (f) of section 3304 of title 5, United States Code, as enacted by section 2 of the Veterans Employment Opportunities Act of 1998 (Public Law 105–339; 112 Stat. 3182).”
@@ -142,5 +156,5 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3302 of this title; title 22 section 3008; title 40 section 42.
+This section is referred to in sections 3302, 3319 of this title; title 22 sections 3008, 6918; title 40 section 8165.
 

@@ -28,7 +28,7 @@ When a production control or loan program is in effect for a crop of a major agr
 
 #### (f) Other authorities of Secretary not affected
 
-The authority provided in this section shall be in addition to, and not in place of, any authoritygranted to the Secretary under any other provision of law.
+The authority provided in this section shall be in addition to, and not in place of, any authority granted to the Secretary under any other provision of law.
 
 (Pub. L. 99–198, title X, §1009, Dec. 23, 1985, 99 Stat. 1453; Pub. L. 101–134, §3, Oct. 30, 1989, 103 Stat. 781.)
 

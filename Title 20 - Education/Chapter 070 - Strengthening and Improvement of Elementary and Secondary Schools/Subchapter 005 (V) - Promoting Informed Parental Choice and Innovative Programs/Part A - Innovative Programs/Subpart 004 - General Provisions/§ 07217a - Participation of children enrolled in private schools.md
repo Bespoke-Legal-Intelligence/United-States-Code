@@ -36,7 +36,7 @@
 
 #### (1) Funds and property
 
-&emsp;The control of funds provided under this part, and title to materials, equipment, and property repaired, remodeled, or constructedwith such funds, shall be in a public agency for the uses and purposes provided in this part, and a public agency shall administer such funds and property.
+&emsp;The control of funds provided under this part, and title to materials, equipment, and property repaired, remodeled, or constructed with such funds, shall be in a public agency for the uses and purposes provided in this part, and a public agency shall administer such funds and property.
 
 #### (2) Provision of services
 

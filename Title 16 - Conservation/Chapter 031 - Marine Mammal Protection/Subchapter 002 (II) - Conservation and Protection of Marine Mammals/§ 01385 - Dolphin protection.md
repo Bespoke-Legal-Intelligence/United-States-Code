@@ -96,7 +96,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 &emsp;(4) The reporting, receipt, and database storage of radio and facsimile transmittals from fishing vessels containing information related to the tracking and verification of tuna, and the definition of set.
 
-&emsp;(5) The shore-based verification and tracking throughout the fishing, transshipment, and canning process by means of Inter-American Tropical Tuna Commission trip records or otherwise.
+&emsp;(5) The shore-based verification and tracking throughout the fishing, transshipment, and canning process by means of Inter-AmericanTropical Tuna Commission trip records or otherwise.
 
 &emsp;(6) The use of periodic audits and spot checks for caught, landed, and processed tuna products labeled in accordance with subsection (d) of this section.
 
@@ -108,7 +108,7 @@ The Secretary, in consultation with the Secretary of the Treasury, shall issue r
 
 (1) Between March 1, 1999, and March 31, 1999, the Secretary shall, on the basis of the research conducted before March 1, 1999, under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make an initial finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The initial finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
 
-(2) Between July 1, 2001, and December 31, 2002, the Secretary shall, on the basis of the completed study conducted under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make a finding regarding whether the intentional deploymenton or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
+(2) Between July 1, 2001, and December 31, 2002, the Secretary shall, on the basis of the completed study conducted under section 1414a(a) of this title, information obtained under the International Dolphin Conservation Program, and any other relevant information, make a finding regarding whether the intentional deployment on or encirclement of dolphins with purse seine nets is having a significant adverse impact on any depleted dolphin stock in the eastern tropical Pacific Ocean. The finding shall be published immediately in the Federal Register and shall become effective upon a subsequent date determined by the Secretary.
 
 #### (h) Certification by captain and observer
 
@@ -154,7 +154,7 @@ Section was not enacted as part of the Marine Mammal Protection Act of 1972 whic
 
 &emsp;“(iii) the statements referred to in clauses (i) and (ii) are endorsed in writing by each exporter, importer, and processor of the product.”
 
-Subsec. (f). Pub. L. 105–42, §5(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section not later than 6 months after November 28, 1990, including regulations establishing procedures and requirements for ensuring that tuna products are labeled in accordance with subsection (d) of this section.”
+Subsec. (f). Pub. L. 105–42, §5(b), amended heading and text of subsec. (f) generally. Prior to amendment, text read as follows: “The Secretary, in consultation with the Secretary of the Treasury, shall issue regulations to implement this section not later than 6 months after November 28, 1990, including regulations establishingprocedures and requirements for ensuring that tuna products are labeled in accordance with subsection (d) of this section.”
 
 Subsec. (g). Pub. L. 105–42, §5(c), added subsec. (g) and struck out former subsec. (g), which had amended section 1371 of this title.
 

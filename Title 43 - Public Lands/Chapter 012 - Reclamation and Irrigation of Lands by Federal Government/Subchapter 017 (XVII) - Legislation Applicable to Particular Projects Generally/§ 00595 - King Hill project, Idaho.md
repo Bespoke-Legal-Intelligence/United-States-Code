@@ -6,7 +6,7 @@ King Hill project, Idaho, shall be subject to the reclamation Act of June 17, 19
 
 #### References in Text
 
-The reclamation Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, as amended, which is classified generally to this chapter. For complete classification of act of June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
+The reclamation Act of June 17, 1902, referred to in text, is act June 17, 1902, ch. 1093, 32 Stat. 388, asamended, which is classified generally to this chapter. For complete classification of act of June 17, 1902, to the Code, see Short Title note set out under section 371 of this title and Tables.
 
 #### Change of Name
 

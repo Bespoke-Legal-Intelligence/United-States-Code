@@ -4,7 +4,7 @@
 
 #### (1) Aliens treated as applicants for admission
 
-&emsp;An alien present in the United States who has not been admitted or who arrives in the United States (whether or not at a designated port of arrival and including an alien who is brought to the United States after having been interdicted in international or United States waters) shall be deemed for purposes of this chapter an applicant for admission.
+&emsp;An alien present in the United States who has not been admitted or who arrives in the United States (whether or not at a designatedport of arrival and including an alien who is brought to the United States after having been interdicted in international or United States waters) shall be deemed for purposes of this chapter an applicant for admission.
 
 #### (2) Stowaways
 
@@ -68,7 +68,7 @@
 
 #### (III) Review of determination
 
-&emsp;&emsp;&emsp;&emsp;The Attorney General shall provide by regulation and upon the alien's request for prompt review by an immigration judge of a determination under subclause (I) that the alien does not have a credible fear of persecution. Such review shall include an opportunity for the alien to be heard and questioned by the immigration judge, either in person or by telephonic or video connection. Review shall be concluded as expeditiously as possible, to the maximum extent practicable within 24 hours, but in no case later than 7 days after the date of the determination under subclause (I).
+&emsp;&emsp;&emsp;&emsp;The Attorney General shall provide by regulation and upon the alien's requestfor prompt review by an immigration judge of a determination under subclause (I) that the alien does not have a credible fear of persecution. Such review shall include an opportunity for the alien to be heard and questioned by the immigration judge, either in person or by telephonic or video connection. Review shall be concluded as expeditiously as possible, to the maximum extent practicable within 24 hours, but in no case later than 7 days after the date of the determination under subclause (I).
 
 #### (IV) Mandatory detention
 
@@ -106,7 +106,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraphs (B) and (C), in the case of an alien who is an applicant for admission, if the examining immigration officer determines that an alien seeking admission is not clearly and beyond a doubtentitled to be admitted, the alien shall be detained for a proceeding under section 1229a of this title.
+&emsp;&emsp;Subject to subparagraphs (B) and (C), in the case of an alien who is an applicant for admission, if the examining immigration officer determines that an alien seeking admission is not clearly and beyond a doubt entitled to be admitted, the alien shall be detained for a proceeding under section 1229a of this title.
 
 #### (B) Exception
 
@@ -202,7 +202,7 @@ Section 308(d)(5) of div. C of Pub. L. 104–208 provided that the amendment mad
 
 Amendment by section 371(b)(4) of Pub. L. 104–208 effective Sept. 30, 1996, see section 371(d)(1) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
-Section 422(c) of Pub. L. 104–132, which provided that the amendments made by section 422 of Pub. L. 104–132 \[amending this section and former section 1227 of this title\] were to take effect on the first day of the first month that began more than 180 days after Apr. 24, 1996, was repealed by Pub. L. 104–208, div. C, title III, §308(d)(5), Sept. 30, 1996, 110 Stat. 3009–619. See Construction of 1996 Amendment note below.
+Section 422(c) of Pub. L. 104–132, which provided that the amendments made by section 422 of Pub. L. 104–132\[amending this section and former section 1227 of this title\] were to take effect on the first day of the first month that began more than 180 days after Apr. 24, 1996, was repealed by Pub. L. 104–208, div. C, title III, §308(d)(5), Sept. 30, 1996, 110 Stat. 3009–619. See Construction of 1996 Amendment note below.
 
 #### Effective Date of 1990 Amendment
 
@@ -211,6 +211,10 @@ Amendment by Pub. L. 101–649 applicable to individuals entering United States 
 #### Construction of 1996 Amendment
 
 Section 308(d)(5) of div. C of Pub. L. 104–208 provided that: “Effective as of the date of the enactment of the Antiterrorism and Effective Death Penalty Act of 1996 \[Pub. L. 104–132, approved Apr. 24, 1996\], section 422 of such Act \[amending this section and section 1227 of this title, and enacting provisions set out as a note above\] is repealed and the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] shall be applied as if such section had not been enacted.”
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### GAO Study on Operation of Expedited Removal Procedures
 

@@ -2,7 +2,7 @@
 
 (a) For purposes of this chapter:
 
-&emsp;(1) The term “consumer product” means any article, or component part thereof, produced or distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary householdor residence, a school, in recreation, or otherwise; but such term does not include—
+&emsp;(1) The term “consumer product” means any article, or component part thereof, produced or distributed (i) for sale to a consumer for use in or around a permanent or temporary household or residence, a school, in recreation, or otherwise, or (ii) for the personal use, consumption or enjoyment of a consumer in or around a permanent or temporary household or residence, a school, in recreation, or otherwise; but such term does not include—
 
 &emsp;&emsp;(A) any article which is not customarily produced or distributed for sale to, or use or consumption by, or enjoyment of, a consumer,
 
@@ -92,7 +92,15 @@ Section 1215 of Pub. L. 97–35 provided that:
 
 “(b) The amendments made by section 1207 \[enacting sections 1204, 1276, and 2083 of this title and amending section 2076 of this title\] shall apply with respect to consumer product safety rules under the Consumer Product Safety Act \[this chapter\] and regulations under the Federal Hazardous Substances Act \[section 1261 et seq. of this title\] and the Flammable Fabrics Act \[section 1191 et seq. of this title\] promulgated by the Consumer Product Safety Commission after the date of the enactment of this Act \[Aug. 13, 1981\]; and the amendments made by sections 1202, 1203, and 1206 of this subtitle \[enacting section 2077 of this title and amending sections 1193, 1262, 2056, 2057, 2058, and 2080 of this title\] shall apply with respect to regulations under the Consumer Product Safety Act, the Federal Hazardous Substances Act, and the Flammable Fabrics Act for which notices of proposed rulemaking are issued after August 14, 1981.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2085 of this title.
 

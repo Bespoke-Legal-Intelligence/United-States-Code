@@ -39,11 +39,13 @@
 | :--- | ---: |
 | [31341\.](Subchapter%20003%20%28III%29%20-%20Maritime%20Liens/%C2%A7%2031341%20-%20Persons%20presumed%20to%20have%20authority%20to%20procure%20necessaries.md) | Persons presumed to have authority to procure necessaries. |
 | [31342\.](Subchapter%20003%20%28III%29%20-%20Maritime%20Liens/%C2%A7%2031342%20-%20Establishing%20maritime%20liens.md) | Establishing maritime liens. |
-| [31343\.](Subchapter%20003%20%28III%29%20-%20Maritime%20Liens/%C2%A7%2031343%20-%20Recording%20and%20discharging%20liens%20on%20preferred%20mortgage%20vessels.md) | Recording and discharging liens on preferred mortgage vessels. |
+| [31343\.](Subchapter%20003%20%28III%29%20-%20Maritime%20Liens/%C2%A7%2031343%20-%20Recording%20and%20discharging%20notices%20of%20claim%20of%20maritime%20lien.md) | Recording and discharging notices of claim of maritime lien. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–295, title II, §205(a)(2), Nov. 25, 2002, 116 Stat. 2096, substituted “notices of claim of maritime lien” for “liens on preferred mortgage vessels” in item 31343.
 
 1996—Pub. L. 104–324, title XI, §1113(b)(3), Oct. 19, 1996, 110 Stat. 3970, struck out item 31328 “Limitations on parties serving as trustees of mortgaged vessel interests”.
 

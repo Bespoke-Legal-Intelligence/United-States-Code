@@ -6,7 +6,7 @@ As used in this chapter—
 
 &emsp;(2) The term “products” or “petroleum products” includes any article produced or derived in whole or in part from petroleum or any product thereof by refining, processing, manufacturing, or otherwise.
 
-&emsp;(3) The term “interstate commerce” means commerce between any point in a State and any point outside thereof, or between points within the same State but through any place outside thereof, or from any place in the United States to a foreign country, but only insofar as such commerce takes place within the United States.
+&emsp;(3) The term “interstate commerce” means commerce between any point in a State and any point outside thereof, or between pointswithin the same State but through any place outside thereof, or from any place in the United States to a foreign country, but only insofar as such commerce takes place within the United States.
 
 &emsp;(4) The term “person” includes an individual, partnership, corporation, or joint-stock company,
 

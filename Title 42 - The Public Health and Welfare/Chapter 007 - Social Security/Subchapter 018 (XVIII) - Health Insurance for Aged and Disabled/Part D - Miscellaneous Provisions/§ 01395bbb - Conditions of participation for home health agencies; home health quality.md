@@ -8,7 +8,7 @@ The conditions of participation that a home health agency is required to meet un
 
 &emsp;&emsp;(A) The right to be fully informed in advance about the care and treatment to be provided by the agency, to be fully informed in advance of any changes in the care or treatment to be provided by the agency that may affect the individual's well-being, and (except with respect to an individual adjudged incompetent) to participate in planning care and treatment or changes in care or treatment.
 
-&emsp;&emsp;(B) The right to voice grievances with respect to treatment or care that is (or fails tobe) furnished without discrimination or reprisal for voicing grievances.
+&emsp;&emsp;(B) The right to voice grievances with respect to treatment or care that is (or fails to be) furnished without discrimination or reprisal for voicing grievances.
 
 &emsp;&emsp;(C) The right to confidentiality of the clinical records described in section 1395x(<i>o</i>)(3) of this title.
 
@@ -56,7 +56,7 @@ The conditions of participation that a home health agency is required to meet un
 
 &emsp;(ii) Such standards shall include the content of the curriculum, minimum hours of training, qualification of instructors, and procedures for determination of competency.
 
-&emsp;(iii) Such standards may permit approval of programs offered by or in home health agencies, as well as outside agencies (including employee organizations), and of programs in effect on December 22, 1987; except that they may not provide for the approval of a program offered by or in a home health agency which, within the previous 2 years—
+&emsp;(iii) Such standards may permit approval of programs offered by or in home health agencies, as well as outside agencies (including employee organizations), and of programs in effect on December 22, 1987; except that theymay not provide for the approval of a program offered by or in a home health agency which, within the previous 2 years—
 
 &emsp;&emsp;(I) has been determined to be out of compliance with subparagraph (A), (B), or (C);
 
@@ -116,7 +116,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 &emsp;&emsp;(III) who has no personal or familial financial interest in the home health agency surveyed.
 
-(D) Each home health agency that is found, under a standard survey, to have provided substandard care shall be subject to an extended survey to review and identify the policies and procedures which produced such substandard care and to determine whether the agency has complied with the conditions of participation specified in or pursuant to section 1395x(<i>o</i>) ofthis title or subsection (a) of this section. Any other agency may, at the Secretary's or State's discretion, be subject to such an extended survey (or a partial extended survey). The extended survey shall be conducted immediately after the standard survey (or, if not practical, not later than 2 weeks after the date of completion of the standard survey).
+(D) Each home health agency that is found, under a standard survey, to have provided substandard care shall be subject to an extended survey to review and identify the policies and procedures which produced such substandard care and to determine whether the agency has complied with the conditions of participation specified in or pursuant to section 1395x(<i>o</i>) of this title or subsection (a) of this section. Any other agency may, at the Secretary's or State's discretion, be subject to such an extended survey (or a partial extended survey). The extended survey shall be conducted immediately after the standard survey (or, if not practical, not later than 2 weeks after the date of completion of the standard survey).
 
 (E) Nothing in this paragraph shall be construed as requiring an extended (or partial extended) survey as a prerequisite to imposing a sanction against an agency under subsection (e) of this section on the basis of the findings of a standard survey.
 
@@ -150,7 +150,7 @@ It is the duty and responsibility of the Secretary to assure that the conditions
 
 &emsp;(B) the agency has submitted a plan and timetable for corrective action to the Secretary for approval and the Secretary approves the plan of corrective action, and
 
-&emsp;(C) the agency agrees to repay to the Federal Government payments received under this subparagraph if the corrective action is not taken in accordance with the approved plan and timetable.
+&emsp;(C) the agency agrees to repay to the Federal Government payments received under thissubparagraph if the corrective action is not taken in accordance with the approved plan and timetable.
 
 > The Secretary shall establish guidelines for approval of corrective actions requested by home health agencies under this subparagraph.
 
@@ -206,7 +206,7 @@ Subsec. (d)(2)(A). Pub. L. 100–360, §411(d)(2)(B), substituted “1992” for
 
 Subsecs. (e), (f). Pub. L. 100–360, §411(d)(3)(A), made technical amendment to Pub. L. 100–203, §4023(a), see 1987 Amendment note below.
 
-Subsec. (f)(2)(A). Pub. L. 100–360, §411(d)(3)(B)(iii), inserted before last sentence “The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (i) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
+Subsec. (f)(2)(A). Pub. L. 100–360, §411(d)(3)(B)(iii), inserted before last sentence “The provisions of section1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under clause (i) in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
 
 Pub. L. 100–360, §411(d)(3)(B)(i), realigned the margins of cls. (i) to (iii) and concluding provisions.
 

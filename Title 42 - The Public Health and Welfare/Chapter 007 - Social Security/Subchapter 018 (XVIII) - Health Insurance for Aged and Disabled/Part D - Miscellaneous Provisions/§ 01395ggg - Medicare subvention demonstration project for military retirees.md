@@ -88,7 +88,7 @@ In this section:
 
 #### (4) Duration
 
-&emsp;The administering Secretaries shall conduct the demonstration project during the 4-yearperiod beginning on January 1, 1998, except that the administering Secretaries may negotiate and (subject to section 701(f) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001) <sup>1</sup> enter into a new or revised agreement under paragraph (1)(A) to continue the project after the end of such period. If the project is so continued, the administering Secretaries may terminate the agreement under which the program operates after providing notice to Congress in accordance with subsection (k)(2)(B)(v) of this section.
+&emsp;The administering Secretaries shall conduct the demonstration project during the 4-year period beginning on January 1, 1998, except that the administering Secretaries may negotiate and (subject to section 701(f) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001) <sup>1</sup> enter into a new or revised agreement under paragraph (1)(A) to continue the project after the end of such period. If the project is so continued, the administering Secretaries may terminate the agreement under which the program operates after providing notice to Congress in accordance with subsection (k)(2)(B)(v) <sup>1</sup> of this section.
 
 #### (5) Report
 
@@ -158,13 +158,13 @@ Participation of medicare-eligible military retirees or dependents in the demons
 
 #### (h) Additional plans
 
-Notwithstanding any provisions of title 10, the administering Secretaries may agree to include in the demonstration project any of the Medicare+Choice plans described in section 1395w–21(a)(2)(A) of this title, and such agreement may include an agreement between the Secretary of Defense and the Medicare+Choice organization offering such plan to provide medicare health care services to medicare-eligible military retirees or dependents and for such Secretary to receive payments from such organization for the provision of such services.
+Notwithstanding any provisions of title 10, the administering Secretaries may agree to includein the demonstration project any of the Medicare+Choice plans described in section 1395w–21(a)(2)(A) of this title, and such agreement may include an agreement between the Secretary of Defense and the Medicare+Choice organization offering such plan to provide medicare health care services to medicare-eligible military retirees or dependents and for such Secretary to receive payments from such organization for the provision of such services.
 
 #### (i) Payments based on regular medicare payment rates
 
 #### (1) In general
 
-&emsp;Subject to the succeeding provisions of this subsection, the Secretary shall reimburse the Secretary of Defense for services provided under the demonstration project at a rate equal to 95 percent of the amount paid to a Medicare+Choice organization under part C of this subchapter with respect to such an enrollee. In cases in which a payment amount may not otherwise be readily computed, theSecretary shall establish rules for computing equivalent or comparable payment amounts.
+&emsp;Subject to the succeeding provisions of this subsection, the Secretary shall reimburse the Secretary of Defense for services provided under the demonstration project at a rate equal to 95 percent of the amount paid to a Medicare+Choice organization under part C of this subchapter with respect to such an enrollee. In cases in which a payment amount may not otherwise be readily computed, the Secretary shall establish rules for computing equivalent or comparable payment amounts.
 
 #### (2) Exclusion of certain amounts
 
@@ -264,21 +264,13 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 &emsp;&emsp;(O) Any additional elements that the Comptroller General of the United States determines is appropriate to assess regarding the demonstration project.
 
-#### (2) Report on extension and expansion of demonstration project
+#### (2) Repealed. Pub. L. 107–314, div. A, title VII, §713, Dec. 2, 2002, 116 Stat. 2589
 
-&emsp;Not later than 6 months after the date of the submission of the final report by the Comptroller General of the United States under paragraph (1), the administering Secretaries shall submit to Congress a report containing their recommendation as to—
-
-&emsp;&emsp;(A) whether there is a cost to the health care program under this subchapter in conducting the demonstration project, and whether the demonstration project could be expanded without there being a cost to such health care program or to the Federal Government;
-
-&emsp;&emsp;(B) whether to extend the demonstration project or make the project permanent; and
-
-&emsp;&emsp;(C) whether the terms and conditions of the project should be continued (or modified) if the project is extended or expanded.
-
-(Aug. 14, 1935, ch. 531, title XVIII, §1896, as added Pub. L. 105–33, title IV, §4015(a), Aug. 5, 1997, 111 Stat. 337; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(2), (b)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–177, 1654A–178.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1896, as added Pub. L. 105–33, title IV, §4015(a), Aug. 5, 1997, 111 Stat. 337; amended Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(2), (b)–(e)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–177, 1654A–178; Pub. L. 107–314, div. A, title VII, §713, Dec. 2, 2002, 116 Stat. 2589.)
 
 #### Amendment of Section
 
-<i>Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(c)(2), (3), (d)–(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–177 to 1654A–179, provided that, effective on the date as is provided for in the agreement proposed under the amendment made by section 1 \[\[div. A\], title VII, §712(c)(1)\] of Pub. L. 106–398 to subsection (b)(4) of this section and as is provided for in an Act enacted after Oct. 30, 2000, this section is amended as follows:</i>
+<i>Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(c)(2), (3), (d), (f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–177 to 1654A–179, provided that, effective on the date as is provided for in the agreement proposed under the amendment made by section 1 \[\[div. A\], title VII, §712(c)(1)\] of Pub. L. 106–398 to subsection (b)(4) of this section and as is provided for in an Act enacted after Oct. 30, 2000, this section is amended as follows:</i>
 
 <i>(1) in the section catchline, by striking “demonstration project” and inserting “program”;</i>
 
@@ -320,35 +312,9 @@ Notwithstanding any provisions of title 10, the administering Secretaries may ag
 
 #### <i>“(4) Modification of payment methodology</i>
 
-&emsp;<i>“The administering Secretaries may, subject to subsection (k)(2)(B) of this section, modify the payment methodology provided under paragraphs (1) and (2) so long as the amount of the reimbursement provided to the Secretary of Defense fully reimburses the Department of Defense for its cost of providing services under the program but does not exceed an amount that is estimated to be equivalent to the amount that otherwise would have been expended under this subchapter for</i><i>such services if provided other than under the program (not including amounts described in paragraph (2)). Such limiting amount may be based for any site on the amount that would be payable to Medicare+Choice organizations under part C of this subchapter for the area of the site or the amounts that would be payable under parts A and B of this subchapter.”;</i>
+&emsp;<i>“The administering Secretaries may, subject to subsection (k)(2)(B) of this section, modify the</i><i>payment methodology provided under paragraphs (1) and (2) so long as the amount of the reimbursement provided to the Secretary of Defense fully reimburses the Department of Defense for its cost of providing services under the program but does not exceed an amount that is estimated to be equivalent to the amount that otherwise would have been expended under this subchapter for such services if provided other than under the program (not including amounts described in paragraph (2)). Such limiting amount may be based for any site on the amount that would be payable to Medicare+Choice organizations under part C of this subchapter for the area of the site or the amounts that would be payable under parts A and B of this subchapter.”; and</i>
 
-<i>(10) in subsection (j)(1) heading, by striking “demonstration”; and</i>
-
-<i>(11) by amending subsection (k)(2) to read as follows:</i>
-
-#### <i>“(2) Reports on program operation and changes</i>
-
-#### <i>“(A) Annual report</i>
-
-&emsp;&emsp;<i>“The administering Secretaries shall submit to the Committees on Armed Services and Finance of the Senate and the Committees on Armed Services and Ways and Means of the House of Representatives an annual report on the program and its impact on costs and the provision of health services under this subchapter and title 10.</i>
-
-#### <i>“(B) Before making certain program changes</i>
-
-&emsp;&emsp;<i>“The administering Secretaries shall submit to such Committees a report at least 60 days before—</i>
-
-&emsp;&emsp;&emsp;<i>“(i) changing the designation of a site under subsection (b)(2) of this section;</i>
-
-&emsp;&emsp;&emsp;<i>“(ii) applying comparable requirements under subsection (d)(2) of this section;</i>
-
-&emsp;&emsp;&emsp;<i>“(iii) making significant changes in payment methodology or amounts under subsection (i)(4) of this section;</i>
-
-&emsp;&emsp;&emsp;<i>“(iv) making other significant changes in the operation of the program; or</i>
-
-&emsp;&emsp;&emsp;<i>“(v) terminating the agreement under the second sentence of subsection (b)(4) of this section.</i>
-
-#### <i>“(C) Explanation</i>
-
-&emsp;&emsp;<i>“Each report under subparagraph (B) shall include justifications for the changes or termination to which the report refers.”</i>
+<i>(10) in subsection (j)(1) heading, by striking “demonstration”.</i>
 
 #### References in Text
 
@@ -358,9 +324,21 @@ Section 711 of the National Defense Authorization Act for Fiscal Year 1996, refe
 
 Section 701(f) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, referred to in subsec. (b)(4), probably means section 712(f) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, which is section 1 \[\[div. A\], title VII, §712(f)\] of Pub. L. 106–398, and is set out as an Effective Date of 2000 Amendment note below. Section 701 of that Act does not contain a subsec. (f).
 
+Subsection (k)(2) of this section, referred to in subsec. (b)(4), was repealed by Pub. L. 107–314, div. A, title VII, §713, Dec. 2, 2002, 116 Stat. 2589. See 2002 Amendment note below.
+
 Part C of this subchapter, referred to in subsecs. (d), (g)(1), and (i)(1), is classified to section 1395w–21 et seq. of this title.
 
 #### Amendments
+
+2002—Subsec. (k)(2). Pub. L. 107–314 repealed heading and text of par. (2). Text read as follows: “Not later than 6 months after the date of the submission of the final report by the Comptroller General of the United States under paragraph (1), the administering Secretaries shall submit to Congress a report containing their recommendation as to—
+
+&emsp;“(A) whether there is a cost to the health care program under this subchapter in conducting the demonstration project, and whether the demonstration project could be expanded without there being a cost to such health care program or to the Federal Government;
+
+&emsp;“(B) whether to extend the demonstration project or make the project permanent; and
+
+&emsp;“(C) whether the terms and conditions of the project should be continued (or modified) if the project is extended or expanded.”
+
+Pub. L. 107–314 provided that the amendment by Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(e)\], shall not take effect. See 2000 Amendment note below.
 
 2000—Subsec. (a)(4)(A). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(a)(2)\], amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “would be eligible for health benefits under section 1086 of such title by reason of subsection (c)(1) of such section 1086 but for the operation of subsection (d) of such section 1086;”.
 
@@ -369,6 +347,32 @@ Subsec. (b)(4). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(c)(1)\], i
 Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(b)(1)\], substituted “4-year period” for “3-year period”.
 
 Subsec. (i)(4)(D). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(b)(2)\], added subpar. (D).
+
+Subsec. (k)(2). Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(e)\], directed substitution of “Reports on program operation and changes” for “Report on extension and expansion of demonstration project” in par. heading and amendment of text to read as follows:
+
+“(A)
+
+Annual report.—The administering Secretaries shall submit to the Committees on Armed Services and Finance of the Senate and the Committees on Armed Services and Ways and Means of the House of Representatives an annual report on the program and its impact on costs and the provision of health services under this subchapter and title 10.
+
+“(B)
+
+Before making certain program changes.—The administering Secretaries shall submit to such Committees a report at least 60 days before—
+
+&emsp;“(i) changing the designation of a site under subsection (b)(2) of this section;
+
+&emsp;“(ii) applying comparable requirements under subsection (d)(2) of this section;
+
+&emsp;“(iii) making significant changes in payment methodology or amounts under subsection (i)(4) of this section;
+
+&emsp;“(iv) making other significant changes in the operation of the program; or
+
+&emsp;“(v) terminating the agreement under the second sentence of subsection (b)(4) of this section.
+
+“(C)
+
+Explanation.—Each report under subparagraph (B) shall include justifications for the changes or termination to which the report refers.”
+
+> Pub. L. 107–314, §713, provided that the amendment made by Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(e)\], shall not take effect. See 2002 Amendment note above.
 
 #### Effective Date of 2000 Amendment
 
@@ -379,6 +383,10 @@ Pub. L. 106–398, §1 \[\[div. A\], title VII, §712(f)\], Oct. 30, 2000, 114 S
 “(1) Upon negotiating an agreement under the amendment made by subsection (c)(1) \[amending this section\], the Secretary of Defense and the Secretary of Health and Human Services shall jointly transmit a notification of the proposed agreement to the Committee on Armed Services and the Committee on Finance of the Senate and the Committee on Armed Services and the Committee on Ways and Means of the House of Representatives, and shall include with the transmittal a copy of the proposed agreement and all related agreements and supporting documents.
 
 “(2) Such proposed agreement shall take effect, and the amendments made by subsections (c)(2), (c)(3), (d), and (e) \[amending this section\] shall take effect, on such date as is provided for in such agreement and in an Act enacted after the date of the enactment of this Act \[Oct. 30, 2000\].”
+
+#### Repeal of Subsection (k)(2)
+
+Pub. L. 107–314, div. A, title VII, §713, Dec. 2, 2002, 116 Stat. 2589, provided that: “Notwithstanding subsection (f)(2) of section 712 of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[set out above\] (as enacted into law by Public Law 106-398; 114 Stat. 1654A–179), the amendment made by subsection (e) of such section \[amending this section\] shall not take effect and the paragraph amended by such subsection is repealed.”
 
 #### Implementation Plan for Veterans Subvention
 

@@ -1,4 +1,0 @@
-### §1936. Repealed. Pub. L. 104–127, title VI, §616(b), Apr. 4, 1996, 110 Stat. 1090
-
-Section, Pub. L. 87–128, title III, §310F, as added Pub. L. 102–554, §7(b), Oct. 28, 1992, 106 Stat. 4146, related to availability of farm ownership loans and loan guarantees for certain qualified beginning farmers and ranchers.
-

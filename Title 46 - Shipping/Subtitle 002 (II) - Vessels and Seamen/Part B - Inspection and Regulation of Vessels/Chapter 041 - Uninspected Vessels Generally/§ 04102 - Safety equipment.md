@@ -14,7 +14,7 @@
 
 (2) The Secretary shall require under paragraph (1) the use of a fire suppression system or other measures to provide adequate assurance that a fire on board a towing vessel that is towing a non-self-propelled tank vessel can be suppressed under reasonably foreseeable circumstances.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 528; Pub. L. 99–640, §16, Nov. 10, 1986, 100 Stat. 3552; Pub. L. 100–424, §2(c), Sept. 9, 1988, 102 Stat. 1590; Pub. L. 100–540, §1(a), Oct. 28, 1988, 102 Stat. 2719; Pub. L. 104–324, title IX, §902(a), Oct. 19, 1996, 110 Stat. 3947; Pub. L. 105–383, title III, §301(b)(3), Nov. 13, 1998, 112 Stat. 3417.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 528; Pub. L. 99–640, §16, Nov. 10, 1986, 100 Stat. 3552; Pub. L. 100–424, §2(c), Sept. 9, 1988, 102 Stat. 1590; Pub. L.100–540, §1(a), Oct. 28, 1988, 102 Stat. 2719; Pub. L. 104–324, title IX, §902(a), Oct. 19, 1996, 110 Stat. 3947; Pub. L. 105–383, title III, §301(b)(3), Nov. 13, 1998, 112 Stat. 3417.)
 
 Historical and Revision Notes
 

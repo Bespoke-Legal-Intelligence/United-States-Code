@@ -18,15 +18,17 @@ In the fulfillment of its purposes and in carrying out its annual budget program
 
 (h) Carry out such other operations as the Congress may specifically authorize or provide for.
 
-In the Corporation's purchasing and selling operations with respect to agricultural commodities (except sales to other Government agencies), and in the warehousing, transporting, processing, or handling of agricultural commodities, the Corporation shall, to the maximum extent practicable consistent with the fulfillment of the Corporation's purposes and the effective and efficient conduct of its business, utilize the usual and customary channels, facilities, and arrangements of trade and commerce.
+In the Corporation's purchasing and selling operations with respect to agricultural commodities (except sales to other Government agencies), and in the warehousing, transporting, processing, or handling of agricultural commodities, the Corporation shall, to the maximum extent practicable consistent with the fulfillment of the Corporation's purposes and the effective and efficient conduct of its business, utilize the usual and customary channels, facilities, and arrangements of trade and commerce (including, at the option of the Corporation, the use of private sector entities).
 
-(June 29, 1948, ch. 704, §5, 62 Stat. 1072; Pub. L. 98–623, title IV, §405(a), Nov. 8, 1984, 98 Stat. 3409; Pub. L. 104–127, title III, §381(a), Apr. 4, 1996, 110 Stat. 1016.)
+(June 29, 1948, ch. 704, §5, 62 Stat. 1072; Pub. L. 98–623, title IV, §405(a), Nov. 8, 1984, 98 Stat. 3409; Pub. L. 104–127, title III, §381(a), Apr. 4, 1996, 110 Stat. 1016; Pub. L. 107–171, title I, §1609, May 13, 2002, 116 Stat. 218.)
 
 #### Codification
 
 “Chapter 91 of title 31” substituted in provision preceding subsec. (a) for “the Government Corporation Control Act (31 U.S.C., 1940 edition, Supp. V, 841)” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2002—Pub. L. 107–171 inserted “(including, at the option of the Corporation, the use of private sector entities)” before period at end of last sentence.
 
 1996—Subsecs. (g), (h). Pub. L. 104–127 added subsec. (g) and redesignated former subsec. (g) as (h).
 
@@ -70,7 +72,7 @@ Reimbursement of Corporation.—Section 4 of the Act of July 16, 1943 (57 Stat. 
 
 #### Use of Commodity Credit Corporation for Purchase of Agricultural Products Formerly Intended for Export to Soviet Union
 
-Pub. L. 96–494, title II, §206, Dec. 3, 1980, 94 Stat. 2572, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture may use, subject to such terms and conditions as the Secretary may deem appropriate, the funds, facilities, and authorities of the Commodity Credit Corporation in purchasing and handling agricultural products, other than grains, that—
+Pub. L. 96–494, title II, §206, Dec. 3, 1980, 94 Stat. 2572, provided that: “Notwithstanding any other provision of law, the Secretary of Agriculture may use, subject tosuch terms and conditions as the Secretary may deem appropriate, the funds, facilities, and authorities of the Commodity Credit Corporation in purchasing and handling agricultural products, other than grains, that—
 
 &emsp;“(1) were intended to be exported to the Union of Soviet Socialist Republics under contracts entered into prior to January 5, 1980, but
 

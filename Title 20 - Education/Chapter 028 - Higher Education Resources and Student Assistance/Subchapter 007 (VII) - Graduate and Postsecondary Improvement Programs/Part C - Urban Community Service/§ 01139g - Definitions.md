@@ -4,7 +4,7 @@ As used in this part:
 
 #### (1) Urban area
 
-&emsp;The term “urban area” means a metropolitan statistical area having a population of not less than 350,000, or two contiguous metropolitan statistical areas having a population of not less than 350,000, or, in any State which does not have a metropolitan statistical area which has such a population, the eligible entity in the State submitting an application under section 1139b of this title, or, if no such entity submits an application, the Secretary, shall designate one urban area for the purposes of this part.
+&emsp;The term “urban area” means a metropolitan statistical area having a population of notless than 350,000, or two contiguous metropolitan statistical areas having a population of not less than 350,000, or, in any State which does not have a metropolitan statistical area which has such a population, the eligible entity in the State submitting an application under section 1139b of this title, or, if no such entity submits an application, the Secretary, shall designate one urban area for the purposes of this part.
 
 #### (2) Eligible institution
 

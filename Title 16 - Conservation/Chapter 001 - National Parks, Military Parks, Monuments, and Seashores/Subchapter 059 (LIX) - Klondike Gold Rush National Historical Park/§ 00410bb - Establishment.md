@@ -22,7 +22,7 @@ The Secretary is authorized to grant to the State of Alaska a highway right-of-w
 
 #### References in Text
 
-The Federal surplus property laws, referred to in subsec. (a), are classified generally to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works.
+For Federal surplus property laws, referred to in subsec. (a), see, generally, subtitle I of Title 40, Public Buildings, Property, and Works.
 
 Subsection 6(i) of the act of July 7, 1958, commonly known as the Alaska Statehood Act, referred to in subsec. (b)(1), probably means subsection (i) of section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 

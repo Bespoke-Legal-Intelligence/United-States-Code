@@ -6,7 +6,7 @@ This section may be cited as the “Dante B. Fascell North-South Center Act of 1
 
 #### (b) Purpose
 
-The purpose of this section is to promote better relations between the United States and the nations of Latin America and the Caribbean and Canada through cooperative study, training, and research, by supporting in Florida a Center for Cultural and Technical Interchange Between North and South where scholars and students in various fields from the nations of the hemisphere may study, give and receive training, exchange ideas and views, and conduct other activities consistent with the objectives of the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\] and other Acts promoting international, educational, cultural, scientific, and related activities of the United States.
+The purpose of this section is to promote better relations between the United States and the nations of Latin America and the Caribbean and Canada through cooperative study, training, and research, by supporting in Florida a Center for Cultural and Technical Interchange Between North and South where scholars and students invarious fields from the nations of the hemisphere may study, give and receive training, exchange ideas and views, and conduct other activities consistent with the objectives of the Mutual Educational and Cultural Exchange Act of 1961 \[22 U.S.C. 2451 et seq.\] and other Acts promoting international, educational, cultural, scientific, and related activities of the United States.
 
 #### (c) Dante B. Fascell North-South Center
 

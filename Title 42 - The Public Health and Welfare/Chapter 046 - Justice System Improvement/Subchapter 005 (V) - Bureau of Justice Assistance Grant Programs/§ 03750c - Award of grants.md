@@ -6,7 +6,7 @@ The Director shall allocate to each State a proportion of the total funds availa
 
 #### (b) Grant amounts
 
-If one Anti Car Theft Committee within a State submits an application in compliance with section 3750b of this title, the Director shall award to such Anti Car Theft Committee a grant equal to the total amount of funds allocated to such State under this section. In no case shallthe Anti Car Theft Committee receive a grant that is more than 50 percent of the preaward budget for such Anti Car Theft Committee.
+If one Anti Car Theft Committee within a State submits an application in compliance with section 3750b of this title, the Director shall award to such Anti Car Theft Committee a grant equal to the total amount of funds allocated to such State under this section. In no case shall the Anti Car Theft Committee receive a grant that is more than 50 percent of the preaward budget for such Anti Car Theft Committee.
 
 #### (c) Multiple committees
 

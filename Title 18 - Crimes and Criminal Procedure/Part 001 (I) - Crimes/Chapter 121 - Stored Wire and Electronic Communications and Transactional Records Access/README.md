@@ -13,13 +13,15 @@
 | [2709\.](%C2%A7%2002709%20-%20Counterintelligence%20access%20to%20telephone%20toll%20and%20transactional%20records.md) | Counterintelligence access to telephone toll and transactional records. |
 | [2710\.](%C2%A7%2002710%20-%20Wrongful%20disclosure%20of%20video%20tape%20rental%20or%20sale%20records.md) | Wrongful disclosure of video tape rental or sale records. |
 | [2711\.](%C2%A7%2002711%20-%20Definitions%20for%20chapter.md) | Definitions for chapter. |
-| [2712\.](%C2%A7%2002712%20-%20Civil%20actions%20against%20the%20United%20States.md) | Civil action against the United States.<sup>1</sup> |
+| [2712\.](%C2%A7%2002712%20-%20Civil%20actions%20against%20the%20United%20States.md) | Civil actions against the United States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2001—Pub. L. 107–56, title II, §§223(c)(2), 224, Oct. 26, 2001, 115 Stat. 295, which temporarily directed that the table of sections at the beginning of chapter 121 be amended to read “2712. Civil action against the United States.”, was executed by adding the quoted item at the end of that table to reflect the probable intent of Congress.
+2002—Pub. L. 107–273, div. B, title IV, §4005(b), Nov. 2, 2002, 116 Stat. 1812, made technical correction to directory language of Pub. L. 107–56, title II, §223(c)(2), Oct. 26, 2001, 115 Stat. 295, effective Oct. 26, 2001. See 2001 Amendment note below.
+
+2001—Pub. L. 107–56, title II, §§223(c)(2), 224, Oct. 26, 2001, 115 Stat. 295, as amended by Pub. L. 107–273, div. B, title IV, §4005(b), Nov. 2, 2002, 116 Stat. 1812, temporarily added item 2712.
 
 Pub. L. 107–56, title II, §§212(a)(2), (b)(2), 224, Oct. 26, 2001, 115 Stat. 285, 295, temporarily substituted “Voluntary disclosure of customer communications or records” for “Disclosure of contents” in item 2702 and “Required disclosure of customer communications or records” for “Requirements for governmental access” in item 2703.
 
@@ -30,8 +32,6 @@ Pub. L. 100–618, §2(b), Nov. 5, 1988, 102 Stat. 3197, added item 2710 and red
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 2511, 3103a of this title; title 47 sections 551, 1008.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

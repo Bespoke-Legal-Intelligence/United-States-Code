@@ -12,7 +12,7 @@
 
 &emsp;(D) an opportunity for a hearing on the determination of the agency concerning the existence or the amount of the debt, and in the case of an individual whose repayment schedule is established other than by a written agreement pursuant to subparagraph (C), concerning the terms of the repayment schedule.
 
-> A hearing, described in subparagraph (D), shall be provided if the individual, on or before the fifteenth day following receipt of the notice described in subparagraph (A), and in accordance with such procedures as the head of the agency may prescribe, files a petition requesting such a hearing. The timely filing of a petition for hearing shall stay the commencement of collectionproceedings. A hearing under subparagraph (D) may not be conducted by an individual under the supervision or control of the head of the agency, except that nothing in this sentence shall be construed to prohibit the appointment of an administrative law judge. The hearing official shall issue a final decision at the earliest practicable date, but not later than sixty days after the filing of the petition requesting the hearing.
+> A hearing, described in subparagraph (D), shall be provided if the individual, on or before the fifteenth day following receipt of the notice described in subparagraph (A), and in accordance with such procedures as the head of the agency may prescribe, files a petition requesting such a hearing. The timely filing of a petition for hearing shall stay the commencement of collection proceedings. A hearing under subparagraph (D) may not be conducted by an individual under the supervision or control of the head of theagency, except that nothing in this sentence shall be construed to prohibit the appointment of an administrative law judge. The hearing official shall issue a final decision at the earliest practicable date, but not later than sixty days after the filing of the petition requesting the hearing.
 
 (3) Paragraph (2) shall not apply to routine intra-agency adjustments of pay that are attributable to clerical or administrative errors or delays in processing pay documents that have occurred within the four pay periods preceding the adjustment and to any adjustment that amounts to $50 or less, if at the time of such adjustment, or as soon thereafter as practical, the individual is provided written notice of the nature and the amount of the adjustment and a point of contact for contesting such adjustment.
 
@@ -110,5 +110,5 @@ Pub. L. 97–276, §124, Oct. 2, 1982, 96 Stat. 1195, provided that: “Notwiths
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 sections 2020, 2022; title 10 section 1055; title 16 section 470m; title 22 section 3664; title 42 sections 292r, 297b, 404.
+This section is referred to in title 2 section 60c–5; title 7 sections 2020, 2022; title 10 section 1055; title 16 section 470m; title 22 section 3664; title 42 sections 292r, 297b, 404, 1383.
 

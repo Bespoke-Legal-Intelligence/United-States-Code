@@ -36,7 +36,3 @@
 
 Amendment by Pub. L. 98–615 effective following expiration of 90-day period beginning on Nov. 8, 1984, see section 307 of Pub. L. 98–615, set out as a note under section 3393 of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3393a of this title.
-

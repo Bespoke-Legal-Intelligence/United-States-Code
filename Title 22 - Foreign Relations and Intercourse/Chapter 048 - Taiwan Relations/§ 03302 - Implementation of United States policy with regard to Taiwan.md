@@ -10,9 +10,15 @@ The President and the Congress shall determine the nature and quantity of such d
 
 #### (c) United States response to threats to Taiwan or dangers to United States interests
 
-The President is directed to inform the Congress promptly of any threat to the security or the social or economic system of the people on Taiwan and any danger to the interests of the United States arising therefrom. The President and the Congress shall determine, in accordance with constitutional processes, appropriate action by the United States in response to any such danger.
+The President is directed to inform the Congress promptly of any threat to the security or the social or economic system of the people on Taiwan and any danger to the interests of the United States arising therefrom. The Presidentand the Congress shall determine, in accordance with constitutional processes, appropriate action by the United States in response to any such danger.
 
 (Pub. L. 96–8, §3, Apr. 10, 1979, 93 Stat. 15.)
+
+#### Consultation With Congress With Regard to Taiwan
+
+Pub. L. 107–228, div. B, title XII, §1263, Sept. 30, 2002, 116 Stat. 1434, provided that: “Beginning 180 days after the date of enactment of this Act \[Sept. 30, 2002\], and every 180 days thereafter, the President shall provide detailed briefings to and consult with the appropriate congressional committees regarding the United States security assistance to Taiwan, including the provision of defense articles and defense services.”
+
+\[For definitions of “appropriate congressional committees”, “defense article”, and “defense service” as used in section 1263 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title and section 1002 of Pub. L. 107–228, set out as a note under section 2151 of this title.\]
 
 #### Transfer of War Reserve Materiel and Other Property to Taiwan
 

@@ -12,15 +12,47 @@ If any licensee shall permit any person who is a legally qualified candidate for
 
 &emsp;(4) on-the-spot coverage of bona fide news events (including but not limited to political conventions and activities incidental thereto),
 
-> shall not be deemed to be use of a broadcasting station within the meaning of this subsection.Nothing in the foregoing sentence shall be construed as relieving broadcasters, in connection with the presentation of newscasts, news interviews, news documentaries, and on-the-spot coverage of news events, from the obligation imposed upon them under this chapter to operate in the public interest and to afford reasonable opportunity for the discussion of conflicting views on issues of public importance.
+> shall not be deemed to be use of a broadcasting station within the meaning of this subsection. Nothing in the foregoing sentence shall be construed as relieving broadcasters, in connection with the presentation of newscasts, news interviews, news documentaries, and on-the-spot coverage of news events, from the obligation imposed upon them under this chapter to operate in the public interest and to afford reasonable opportunity for the discussion of conflicting views on issues of public importance.
 
-#### (b) Broadcast media rates
+#### (b) Charges
 
-The charges made for the use of any broadcasting station by any person who is a legally qualified candidate for any public office in connection with his campaign for nomination for election, or election, to such office shall not exceed—
+#### (1) In general
 
-&emsp;(1) during the forty-five days preceding the date of a primary or primary runoff election and during the sixty days preceding the date of a general or special election in which such person is a candidate, the lowest unit charge of the station for the same class and amount of time for the same period; and
+&emsp;The charges made for the use of any broadcasting station by any person who is a legally qualified candidate for any public office in connection with his campaign for nomination for election, or election, to such office shall not exceed—
 
-&emsp;(2) at any other time, the charges made for comparable use of such station by other users thereof.
+&emsp;&emsp;(A) subject to paragraph (2), during the forty-five days preceding the date of a primary or primary runoff election and during the sixty days preceding the date of a general or special election in which such person is a candidate, the lowest unit charge of the station for the same class and amount of time for the same period; and
+
+&emsp;&emsp;(B) at any other time, the charges made for comparable use of such station by other users thereof.
+
+#### (2) Content of broadcasts
+
+#### (A) In general
+
+&emsp;&emsp;In the case of a candidate for Federal office, such candidate shall not be entitled to receive the rate under paragraph (1)(A) for the use of any broadcasting station unless the candidate provides written certification to the broadcast station that the candidate (and any authorized committee of the candidate) shall not make any direct reference to another candidate for the same office, in any broadcast using the rights and conditions of access under this chapter, unless such reference meets the requirements of subparagraph (C) or (D).
+
+#### (B) Limitation on charges
+
+&emsp;&emsp;If a candidate for Federal office (or any authorized committee of such candidate) makes a reference described in subparagraph (A) in any broadcast that does not meet the requirements of subparagraph (C) or (D), such candidate shall not be entitled to receive the rate under paragraph (1)(A) for such broadcast or any other broadcast during any portion of the 45-day and 60-day periods described in paragraph (1)(A), that occur on or after the date of such broadcast, for election to such office.
+
+#### (C) Television broadcasts
+
+&emsp;&emsp;A candidate meets the requirements of this subparagraph if, in the case of a television broadcast, at the end of such broadcast there appears simultaneously, for a period no less than 4 seconds—
+
+&emsp;&emsp;&emsp;(i) a clearly identifiable photographic or similar image of the candidate; and
+
+&emsp;&emsp;&emsp;(ii) a clearly readable printed statement, identifying the candidate and stating that the candidate has approved the broadcast and that the candidate's authorized committee paid for the broadcast.
+
+#### (D) Radio broadcasts
+
+&emsp;&emsp;A candidate meets the requirements of this subparagraph if, in the case of a radio broadcast, the broadcast includes a personal audio statement by the candidate that identifies the candidate, the office the candidate is seeking, and indicates that the candidate has approved the broadcast.
+
+#### (E) Certification
+
+&emsp;&emsp;Certifications under this section shall be provided and certified as accurate by the candidate (or any authorized committee of the candidate) at the time of purchase.
+
+#### (F) Definitions
+
+&emsp;&emsp;For purposes of this paragraph, the terms “authorized committee” and “Federal office” have the meanings given such terms by section 431 of title 2.
 
 #### (c) Definitions
 
@@ -34,9 +66,51 @@ For purposes of this section—
 
 The Commission shall prescribe appropriate rules and regulations to carry out the provisions of this section.
 
-(June 19, 1934, ch. 652, title III, §315, 48 Stat. 1088; July 16, 1952, ch. 879, §11, 66 Stat. 717; Pub. L. 86–274, §1, Sept. 14, 1959, 73 Stat. 557; Pub. L. 92–225, title I, §§103(a)(1), (2)(B), 104(c), Feb. 7, 1972, 86 Stat. 4, 7; Pub. L. 93–443, title IV, §402, Oct. 15, 1974, 88 Stat. 1291.)
+#### (e) Political record
+
+#### (1) In general
+
+&emsp;A licensee shall maintain, and make available for public inspection, a complete record of a request to purchase broadcast time that—
+
+&emsp;&emsp;(A) is made by or on behalf of a legally qualified candidate for public office; or
+
+&emsp;&emsp;(B) communicates a message relating to any political matter of national importance, including—
+
+&emsp;&emsp;&emsp;(i) a legally qualified candidate;
+
+&emsp;&emsp;&emsp;(ii) any election to Federal office; or
+
+&emsp;&emsp;&emsp;(iii) a national legislative issue of public importance.
+
+#### (2) Contents of record
+
+&emsp;A record maintained under paragraph (1) shall contain information regarding—
+
+&emsp;&emsp;(A) whether the request to purchase broadcast time is accepted or rejected by the licensee;
+
+&emsp;&emsp;(B) the rate charged for the broadcast time;
+
+&emsp;&emsp;(C) the date and time on which the communication is aired;
+
+&emsp;&emsp;(D) the class of time that is purchased;
+
+&emsp;&emsp;(E) the name of the candidate to which the communication refers and the office to which the candidate is seeking election, the election to which the communication refers, or the issue to which the communication refers (as applicable);
+
+&emsp;&emsp;(F) in the case of a request made by, or on behalf of, a candidate, the name of the candidate, the authorized committee of the candidate, and the treasurer of such committee; and
+
+&emsp;&emsp;(G) in the case of any other request, the name of the person purchasing the time, the name, address, and phone number of a contact person for such person, and a list of the chief executive officers or members of the executive committee or of the board of directors of such person.
+
+#### (3) Time to maintain file
+
+&emsp;The information required under this subsection shall be placed in a political file as soon as possible and shall be retained by the licensee for a period of not less than 2 years.
+
+(June 19, 1934, ch. 652, title III, §315, 48 Stat. 1088; July 16, 1952, ch. 879, §11, 66 Stat. 717; Pub. L. 86–274, §1, Sept. 14, 1959, 73 Stat. 557; Pub. L. 92–225, title I, §§103(a)(1), (2)(B), 104(c), Feb. 7, 1972, 86 Stat. 4, 7; Pub. L. 93–443, title IV, §402, Oct. 15, 1974, 88 Stat. 1291; Pub. L. 107–155, title III, §305(a), (b), title V, §504, Mar. 27, 2002, 116 Stat. 100, 101, 115.)
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–155, §305(a), (b), inserted subsec. heading, designated existing provisions as par. (1), inserted par. heading, redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), inserted “subject to paragraph (2),” before “during the forty-five days” in par. (1)(A), and added par. (2).
+
+Subsec. (e). Pub. L. 107–155, §504, which directed addition of subsec. (e) and redesignation of former subsecs. (e) and (f) as (f) and (g), respectively, was executed by adding subsec. (e) to reflect the probable intent of Congress. Section did not contain subsecs. (e) and (f).
 
 1974—Subsec. (c). Pub. L. 93–443, §402, struck out provisions respecting station use charges upon certification of nonviolation of Federal limitations of expenditures for use of communications media; redesignated former subsec. (f) as (c); incorporated former par. (1)(A) and (B) provisions in clauses designated (1) and (2) and struck out subpar. (C) definition of “Federal elective office” and par. (2) definition of “legally qualified candidate”.
 
@@ -54,13 +128,19 @@ Subsecs. (c) to (g). Pub. L. 92–225, §104(c), added subsecs. (c) to (f) and r
 
 1952—Act July 16, 1952, designated existing provisions as subsecs. (a) and (c) and added subsec. (b).
 
-#### Repeals
+#### Effective Date of 2002 Amendment
 
-Repeal of title I of Pub. L. 92–225, cited as a credit to this section, by Pub. L. 93–443, title II, §205(b), Oct. 15, 1974, 88 Stat. 1278, has been construed as not repealing the amendments to this section made by sections 103(a)(1), (2)(B), and 104(c) of such title I.
+Pub. L. 107–155, title III, §305(c), Mar. 27, 2002, 116 Stat. 102, provided that: “The amendments made by this section \[amending this section\] shall apply to broadcasts made after the effective date of this Act \[Nov. 6, 2002\].”
+
+Amendment by Pub. L. 107–155 effective Nov. 6, 2002 (notwithstanding section 305(c) of Pub. L. 107–155, set out above), but not applicable with respect to runoff elections, recounts, or election contests resulting from elections held prior to Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of Title 2, The Congress.
 
 #### Effective Date of 1974 Amendment
 
 Amendment by Pub. L. 93–443 effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as a note under section 431 of Title 2, The Congress.
+
+#### Repeals
+
+Repeal of title I of Pub. L. 92–225, cited as a credit to this section, by Pub. L. 93–443, title II, §205(b), Oct. 15, 1974, 88 Stat. 1278, has been construed as not repealing the amendments to this section made by sections 103(a)(1), (2)(B), and 104(c) of such title I.
 
 #### Reexamination of 1959 Amendment; Declaration of Congressional Intent
 

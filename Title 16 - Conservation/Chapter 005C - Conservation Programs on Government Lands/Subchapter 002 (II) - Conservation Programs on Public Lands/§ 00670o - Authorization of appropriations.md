@@ -14,7 +14,7 @@ The Secretary of the Interior and the Secretary of Agriculture may each use any 
 
 #### (d) Contract authority respecting property, services or assistance affecting State agencies; appropriations requirement
 
-The Secretary of the Interior and the Secretary of Agriculture may each make purchases and contracts for property and services from, or provide assistance to, the State agencies concerned, if such property, services or assistance is required to implement those projects and programs carried out on, or of benefit to, Federal lands and identified in the comprehensive plans or cooperative agreements developed under section 670h of this title without regard to title III\(other than section 304) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251–260). Contract authority provided in this section is effective only to such extent or in such amounts as are provided in appropriation Acts.
+The Secretary of the Interior and the Secretary of Agriculture may each make purchases and contracts for property and services from, or provide assistance to, the State agencies concerned, if such property, services or assistance is required to implement those projects and programs carried out on, or of benefit to, Federal lands and identified in the comprehensive plans or cooperative agreements developed under section 670h of this title without regard to title III (other than section 304) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251–260). Contract authority provided in this section is effective only to such extent or in such amounts as are provided in appropriation Acts.
 
 (Pub. L. 86–797, title II, §209, as added Pub. L. 93–452, §2, Oct. 18, 1974, 88 Stat. 1374; amended Pub. L. 95–420, §3, Oct. 5, 1978, 92 Stat. 921; Pub. L. 97–396, §5, Dec. 31, 1982, 96 Stat. 2005; Pub. L. 99–561, §1(b), Oct. 27, 1986, 100 Stat. 3149; Pub. L. 100–653, title II, §202(b), Nov. 14, 1988, 102 Stat. 3827; Pub. L. 105–85, div. B, title XXIX, §2914(b), Nov. 18, 1997, 111 Stat. 2023.)
 
@@ -22,7 +22,7 @@ The Secretary of the Interior and the Secretary of Agriculture may each make pur
 
 The Forest and Rangeland Renewable Resources Planning Act of 1974, as amended, referred to in subsec. (b), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. Section 304 of that Act is classified to section 254 of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. Section 304 of the Act is classified to section 254 of Title 41. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

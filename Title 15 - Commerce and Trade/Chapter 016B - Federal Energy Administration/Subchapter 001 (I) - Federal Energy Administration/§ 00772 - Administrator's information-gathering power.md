@@ -6,7 +6,7 @@ The Administrator shall collect, assemble, evaluate, and analyze energy informat
 
 #### (b) Information and data to Administrator from owners or operators of facilities or business premises engaged in energy matters
 
-All persons owning or operating facilities or business premises who are engaged in any phase of energy supply or major energy consumption shall make available to the Administrator such information and periodic reports, records, documents, and other data, relating to the purposes of this chapter, including full identification ofall data and projections as to source, time, and methodology of development, as the Administrator may prescribe by regulation or order as necessary or appropriate for the proper exercise of functions under this chapter.
+All persons owning or operating facilities or business premises who are engaged in any phase of energy supply or major energy consumption shall make available to the Administrator such information and periodic reports, records, documents, and other data, relating to the purposes of this chapter, including full identification of all data and projections as to source, time, and methodology of development, as the Administrator may prescribe by regulation or order as necessary or appropriate for the proper exercise of functions under this chapter.
 
 #### (c) General or special orders for filing reports or answers in writing to specific questions, surveys, or questionnaires; oath or otherwise; filing period
 

@@ -58,7 +58,7 @@ Report.—
 
 In general.—The Director of the Office of Science and Technology Policy, in consultation with other Federal agencies the Director deems appropriate, shall prepare a report—
 
-&emsp;&emsp;“(A) analyzing the Federal indirect cost reimbursement rates (as the term is defined in Office of Management and Budget Circular A–21) paid to universities in comparison with Federal indirect cost reimbursement rates paid to other entities, such as industry, government laboratories, research hospitals, and nonprofit institutions;
+&emsp;&emsp;“(A) analyzing the Federal indirect cost reimbursement rates (as the term is defined in Office of Management and Budget Circular A–21) paid to universities in comparison with Federal indirect costreimbursement rates paid to other entities, such as industry, government laboratories, research hospitals, and nonprofit institutions;
 
 &emsp;&emsp;“(B)(i) analyzing the distribution of the Federal indirect cost reimbursement rates by category (such as administration, facilities, utilities, and libraries), and by the type of entity; and
 
@@ -120,7 +120,7 @@ Sense of the Congress.—
 
 &emsp;“(1)
 
-In general.—It is the sense of the Congress that the Director should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 \[40 U.S.C. 484 note\]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools.
+In general.—It is the sense of the Congress that the Director should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 \[40 U.S.C. 549 note\]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools.
 
 &emsp;“(2)
 
@@ -136,7 +136,7 @@ Contents of report.—The report prepared by the Director under this paragraph s
 
 #### Definitions
 
-Pub. L. 105–207, §2, July 29, 1998, 112 Stat. 869, provided that: “In this Act \[see Short Title of 1998 Amendment note set out under section 1861 of this title\]:
+Pub. L. 105–207, §2, July 29, 1998, 112 Stat. 869, as amended by Pub. L. 107–368, §14(b)(3), Dec. 19, 2002, 116 Stat. 3057, provided that: “In this Act \[see Short Title of 1998 Amendment note set out under section 1861 of this title\]:
 
 &emsp;“(1)
 
@@ -148,13 +148,17 @@ Foundation.—The term ‘Foundation’ means the National Science Foundation es
 
 &emsp;“(3)
 
-Board.—The term ‘Board’ means the National Science Board established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
+Full life-cycle cost.—The term ‘full life-cycle cost’ means all costs of planning, development, procurement, construction, operations and support, and shut-down costs, without regard to funding source and without regard to what entity manages the project or facility involved.
 
 &emsp;“(4)
 
-United states.—The term ‘United States’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+Board.—The term ‘Board’ means the National Science Board established under section 2 of the National Science Foundation Act of 1950 (42 U.S.C. 1861).
 
 &emsp;“(5)
+
+United states.—The term ‘United States’ means the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other territory or possession of the United States.
+
+&emsp;“(6)
 
 National research facility.—The term ‘national research facility’ means a research facility funded by the Foundation which is available, subject to appropriate policies allocating access, for use by all scientists and engineers affiliated with research institutions located in the United States.”
 

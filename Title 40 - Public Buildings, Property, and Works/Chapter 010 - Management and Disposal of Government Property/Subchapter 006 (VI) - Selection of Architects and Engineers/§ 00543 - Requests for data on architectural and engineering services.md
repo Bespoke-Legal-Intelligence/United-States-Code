@@ -1,6 +1,0 @@
-### §543. Requests for data on architectural and engineering services
-
-In the procurement of architectural and engineering services, the agency head shall encourage firms engaged in the lawful practice of their profession to submit annually a statement of qualifications and performance data. The agency head, for each proposed project, shall evaluate current statements of qualifications and performance data on file with the agency, together with those that may be submitted by other firms regarding the proposed project, and shall conduct discussions with no less than three firms regarding anticipated concepts and the relative utility of alternative methods of approach for furnishing the required services and then shall select therefrom, in order of preference, based upon criteria established and published by him, no less than three of the firms deemed to be the most highly qualified to provide the services required.
-
-(June 30, 1949, ch. 288, title IX, §903, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1279.)
-

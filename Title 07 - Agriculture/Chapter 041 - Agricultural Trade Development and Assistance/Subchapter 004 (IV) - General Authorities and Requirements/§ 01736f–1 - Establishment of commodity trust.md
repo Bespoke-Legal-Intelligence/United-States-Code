@@ -36,7 +36,7 @@ To provide for a trust solely to meet emergency humanitarian food needs in devel
 
 &emsp;&emsp;Any funds used to acquire eligible commodities through purchases from producers or in the market to replenish the trust shall be derived—
 
-&emsp;&emsp;&emsp;(i) with respect to fiscal years 2000 through 2002 from funds made available to carry out the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.) that are used to repay or reimburse the Commodity Credit Corporation for the release of eligible commodities under subsections (c)(2) and (f)(2) of this section, except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2002; and
+&emsp;&emsp;&emsp;(i) with respect to fiscal years 2000 through 2007 from funds made available to carry out the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.) that are used to repay or reimburse the Commodity Credit Corporationfor the release of eligible commodities under subsections (c)(2) and (f)(2) of this section, except that, of such funds, not more than $20,000,000 may be expended for this purpose in each of the fiscal years 2000 through 2007; and
 
 &emsp;&emsp;&emsp;(ii) from funds authorized for that use by an appropriations Act.
 
@@ -110,7 +110,7 @@ Eligible commodities in the trust established under this section shall not be—
 
 #### (A) In general
 
-&emsp;&emsp;The Commodity Credit Corporation shall be reimbursed for the release of eligible commodities from funds made available to carry out the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C. 1691 et seq.) and the funds shall be available to replenish the trust under subsection (b) of this section.
+&emsp;&emsp;The Commodity Credit Corporation shall be reimbursed for the release of eligible commodities from funds made available to carry out the Agricultural Trade Development and Assistance Act of 1954 (7 U.S.C.1691 et seq.) and the funds shall be available to replenish the trust under subsection (b) of this section.
 
 #### (B) Basis for reimbursement
 
@@ -132,13 +132,13 @@ Any determination by the Secretary under this section shall be final.
 
 #### (1) In general
 
-&emsp;The authority to replenish stocks of eligible commodities to maintain the trust established under this section shall terminate on September 30, 2002.
+&emsp;The authority to replenish stocks of eligible commodities to maintain the trust established under this section shall terminate on September 30, 2007.
 
 #### (2) Disposal of eligible commodities
 
-&emsp;Eligible commodities remaining in the trust after September 30, 2002, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
+&emsp;Eligible commodities remaining in the trust after September 30, 2007, shall be disposed of by release for use in providing for emergency humanitarian food needs in developing countries as provided in this section.
 
-(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467.)
+(Pub. L. 96–494, title III, §302, as added Pub. L. 104–127, title II, §225(a), Apr. 4, 1996, 110 Stat. 959; amended Pub. L. 105–385, title II, §212(a), (b)(3), Nov. 13, 1998, 112 Stat. 3465, 3467; Pub. L. 107–171, title III, §3202, May 13, 2002, 116 Stat. 300.)
 
 #### References in Text
 
@@ -155,6 +155,10 @@ Section was enacted as part of the Bill Emerson Humanitarian Trust Act which is 
 A prior section 1736f–1, Pub. L. 96–494, title III, §302, Dec. 3, 1980, 94 Stat. 2578; Pub. L. 99–198, title X, §1013, Dec. 23, 1985, 99 Stat. 1456; Pub. L. 101–624, title XI, §1143, title XV, §1515(c), Nov. 28, 1990, 104 Stat. 3515, 3663, established food security wheat reserve, prior to general amendment of title III of Pub. L. 96–494 by Pub. L. 104–127, §225(a).
 
 #### Amendments
+
+2002—Subsec. (b)(2)(B)(i). Pub. L. 107–171 substituted “2007” for “2002” in two places.
+
+Subsec. (h). Pub. L. 107–171 substituted “2007” for “2002” in pars. (1) and (2).
 
 1998—Pub. L. 105–385, §212(b)(3)(A), substituted “trust” for “reserve” in section catchline.
 

@@ -303,7 +303,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1434, 1441a, 9817, 12721, of this title; title 7 sections 1981, 2204f; title 12 sections 1715z–13a, 1715z–13b; title 20 section 80g; title 48 sections 1408, 1408c.
+This chapter is referred to in sections 1434, 1441a, 9817, 12721, of this title; title 7 section 1981; title 12 sections 1715z–13a, 1715z–13b; title 20 section 80g; title 48 sections 1408, 1408c.
 
 
 ---

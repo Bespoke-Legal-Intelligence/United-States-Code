@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 2801 of this title; title 20 section 9274; title 42 section 3796ee.
+This subchapter is referred to in section 2801 of this title; title 20 section 9274.
 
 
 ---

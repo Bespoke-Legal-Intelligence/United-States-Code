@@ -126,7 +126,7 @@ Subsec. (f)(1), (2). Pub. L. 91–609, §801(c), substituted “structures (incl
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490j, 4851b, 8011, 13664 of this title; title 7 section 2204f.
+This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490j, 4851b, 8011, 13664 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

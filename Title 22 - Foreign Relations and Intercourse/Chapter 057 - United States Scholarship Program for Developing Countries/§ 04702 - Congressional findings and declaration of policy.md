@@ -4,7 +4,7 @@ The Congress finds and declares that—
 
 &emsp;(1) it is in the national interest for the United States Government to provide a stable source of financial support to give students in developing countries the opportunity to study in the United States, in order to improve the range and quality of educational alternatives, increase mutual understanding, and build lasting links between those countries and the United States;
 
-&emsp;(2) providing scholarships to foreign students to study in the United States has proven over time to be an effective means of creating strong bonds between the United States and the future leadership of developing countries and, at the same time, assists countries substantially in their development efforts;
+&emsp;(2) providing scholarships to foreign students to study in the United States has proven over time to be an effective means of creating strong bonds between the United States andthe future leadership of developing countries and, at the same time, assists countries substantially in their development efforts;
 
 &emsp;(3) study in United States institutions by foreign students enhances trade and economic relationships by providing strong English language skills and establishing professional and business contacts;
 

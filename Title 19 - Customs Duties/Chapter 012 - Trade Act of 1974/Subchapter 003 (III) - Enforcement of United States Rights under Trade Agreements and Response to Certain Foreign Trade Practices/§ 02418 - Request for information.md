@@ -36,7 +36,7 @@ If information that is requested by a person under subsection (a) of this sectio
 
 (2) The Trade Representative may—
 
-&emsp;(A) use such information, or make such information available (in his own discretion) to any employee of the Federal Government for use, in any investigation under this subchapter, or
+&emsp;(A) use such information, or make such information available (in his own discretion) toany employee of the Federal Government for use, in any investigation under this subchapter, or
 
 &emsp;(B) may make such information available to any other person in a form which cannot be associated with, or otherwise identify, the person providing the information.
 

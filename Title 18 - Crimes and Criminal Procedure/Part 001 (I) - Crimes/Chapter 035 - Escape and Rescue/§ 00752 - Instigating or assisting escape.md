@@ -1,16 +1,16 @@
 ### §752. Instigating or assisting escape
 
-(a) Whoever rescues or attempts to rescue or instigates, aids or assists the escape, or attempt to escape, of any person arrested upon a warrant or other process issued under any law of the United States, or committed to the custody of the Attorney General or to any institution or facility by his direction, shall, if the custody or confinement is by virtue of an arrest on a charge of felony, or conviction of any offense, be fined not more than $5,000 or imprisoned not more than five years, or both; or, if the custody or confinement is for extradition, or for exclusion or expulsion proceedings under the immigration laws, or by virtue of an arrest or charge of or for a misdemeanor, and prior to conviction, be fined under this title or imprisoned not more than one year, or both.
+(a) Whoever rescues or attempts to rescue or instigates, aids or assists the escape, or attempt to escape, of any person arrested upon a warrant or other process issued under any law of the United States, or committed to the custody of the Attorney General or to any institution or facility by his direction, shall, if the custody or confinement is by virtue of an arrest on a charge of felony, or conviction of any offense, be fined under this title or imprisoned not more than five years, or both; or, if the custody or confinement is for extradition, or for exclusion or expulsion proceedings under the immigration laws, or by virtue of an arrest or charge of or for a misdemeanor, and prior to conviction, be fined under this title or imprisoned not more than one year, or both.
 
 (b) Whoever rescues or attempts to rescue or instigates, aids, or assists the escape or attempted escape of any person in the custody of the Attorney General or his authorized representative, or of any person arrested upon a warrant or other process issued under any law of the United States or from any institution or facility in which he is confined by direction of the Attorney General, shall, if the custody or confinement is by virtue of a lawful arrest for a violation of any law of the United States not punishable by death or life imprisonment and committed before such person's eighteenth birthday, and as to whom the Attorney General has not specifically directed the institution of criminal proceedings, or by virtue of a commitment as a juvenile delinquent under section 5034 of this title, be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 735; May 28, 1956, ch. 331, 70 Stat. 216; Pub. L. 88–251, §2, Dec. 30, 1963, 77 Stat. 834; Pub. L. 89–176, §3, Sept. 10, 1965, 79 Stat. 675; Pub. L. 100–690, title VII, §7055, Nov. 18, 1988, 102 Stat. 4402; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 735; May 28, 1956, ch. 331, 70 Stat. 216; Pub. L. 88–251, §2, Dec. 30, 1963, 77 Stat. 834; Pub. L. 89–176, §3, Sept. 10, 1965, 79 Stat. 675; Pub. L. 100–690, title VII, §7055, Nov. 18, 1988, 102 Stat. 4402; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(D), Nov. 2, 2002, 116 Stat. 1809.)
 
 #### Historical and Revision Notes
 
 Based on title 18, U.S.C., 1940 ed., §§246, 247, 252, 661, 662c, 753i, 910 (R.S. §5277; Mar. 4, 1909, ch. 321, §§141, 143, 35 Stat. 1114; May 14, 1930, ch. 274, §10, 46 Stat. 327; May 27, 1930, ch. 339, §10, 46 Stat. 390; Mar. 22, 1934, ch. 73, §2, 48 Stat. 455; May 18, 1934, ch. 303, §1, 48 Stat. 782).
 
-Section consolidated escape and rescue provisions of sections 246, 247, 252, 661, 662c, 753i, and 910 of title 18,U.S.C., 1940 ed. Remaining provisions of those sections are in sections 1071, 1072, 1502, 1792, 3183, and 3195 of this title.
+Section consolidated escape and rescue provisions of sections 246, 247, 252, 661, 662c, 753i, and 910 of title 18, U.S.C., 1940 ed. Remaining provisions of those sections are in sections 1071, 1072, 1502, 1792, 3183, and 3195 of this title.
 
 No two sections provided the same punishment. Every section except said section 252 made the offense a misdemeanor by providing for fines varying from $500 to $1,000 and terms of imprisonment varying from 6 months to 1 year. Said section 252, representing the latest expression by Congress, provided for 10 years’ imprisonment.
 
@@ -26,6 +26,8 @@ Changes were made in phraseology.
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–273 substituted “or conviction of any offense, be fined under this title” for “orconviction of any offense, be fined not more than $5,000”.
+
 1994—Subsecs. (a), (b). Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
 1988—Subsec. (a). Pub. L. 100–690 inserted “, or for exclusion or expulsion proceedings under the immigration laws,” after “extradition”.
@@ -38,5 +40,5 @@ Changes were made in phraseology.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 3050 of this title; title 8 section 1537.
+This section is referred to in section 3050 of this title; title 8 section 1537.
 

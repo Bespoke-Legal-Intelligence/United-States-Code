@@ -27,12 +27,12 @@
 | (a) | Establishment. |
 | (b) | Functions. |
 | (c) | Authorization. |
-| [1511d.](%C2%A7%2001511d%20-%20Chesapeake%20Bay%20Estuarine%20Resources%20Office.md) | Chesapeake Bay Estuarine Resources Office. |
+| [1511d.](%C2%A7%2001511d%20-%20Chesapeake%20Bay%20Office.md) | Chesapeake Bay Office. |
 | (a) | Establishment. |
 | (b) | Functions. |
-| (c) | Budget line item. |
-| (d) | Omitted. |
-| (e) | Chesapeake Executive Council. |
+| (c) | Chesapeake Bay fishery and habitat restoration small watershed grants program. |
+| (d) | Chesapeake Executive Council. |
+| (e) | Authorization of appropriations. |
 | [1511e.](%C2%A7%2001511e%20-%20Office%20of%20Space%20Commercialization.md) | Office of Space Commercialization. |
 | (a) | Establishment. |
 | (b) | Director. |
@@ -108,7 +108,7 @@
 - [&sect; 01511a - Repealed. Pub. L. 95&#8211;219, &sect;3(a)(2), Dec. 28, 1977, 91 Stat. 1613](%C2%A7%2001511a%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93219%2C%20%C2%A73%28a%29%282%29%2C%20Dec.%2028%2C%201977%2C%2091%20Stat.%201613.md)
 - [&sect; 01511b - United States fishery trade officers](%C2%A7%2001511b%20-%20United%20States%20fishery%20trade%20officers.md)
 - [&sect; 01511c - Estuarine Programs Office](%C2%A7%2001511c%20-%20Estuarine%20Programs%20Office.md)
-- [&sect; 01511d - Chesapeake Bay Estuarine Resources Office](%C2%A7%2001511d%20-%20Chesapeake%20Bay%20Estuarine%20Resources%20Office.md)
+- [&sect; 01511d - Chesapeake Bay Office](%C2%A7%2001511d%20-%20Chesapeake%20Bay%20Office.md)
 - [&sect; 01511e - Office of Space Commercialization](%C2%A7%2001511e%20-%20Office%20of%20Space%20Commercialization.md)
 - [&sect; 01512 - Powers and duties of Department](%C2%A7%2001512%20-%20Powers%20and%20duties%20of%20Department.md)
 - [&sect; 01513 - Duties and powers vested in Department](%C2%A7%2001513%20-%20Duties%20and%20powers%20vested%20in%20Department.md)

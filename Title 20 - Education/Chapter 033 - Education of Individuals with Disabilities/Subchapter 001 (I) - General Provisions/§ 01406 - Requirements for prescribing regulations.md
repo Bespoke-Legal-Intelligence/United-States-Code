@@ -52,5 +52,5 @@ Section 1407, Pub. L. 91–230, title VI, §608, as added Pub. L. 98–199, §6,
 
 Section 1408, Pub. L. 91–230, title VI, §609, as added Pub. L. 99–457, title II, §202, Oct. 8, 1986, 100 Stat. 1158, related to eligibility for financial assistance.
 
-Section 1409, Pub. L. 91–230, title VI, §610, as added Pub. L. 101–476, title I, §104, Oct. 30, 1990, 104 Stat. 1106,provided administrative provisions applicable to former subchapters III to VII of this chapter and former section 1418 of this title.
+Section 1409, Pub. L. 91–230, title VI, §610, as added Pub. L. 101–476, title I, §104, Oct. 30, 1990, 104 Stat. 1106, provided administrative provisions applicable to former subchapters III to VII of this chapter and former section 1418 of this title.
 

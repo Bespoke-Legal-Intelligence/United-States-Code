@@ -8,3 +8,7 @@ So much of the personnel, property, records, and unexpended balances of appropri
 
 The effective date of this Act, referred to in text, probably means the effective date of Pub. L. 94–422, which was approved on Sept. 28, 1976.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 40 section 3303.
+

@@ -18,7 +18,7 @@ Any agreement between the Commissioner of Social Security and a State entered in
 
 (1) Any State (or political subdivision) making supplementary payments described in subsection (a) of this section may at its option impose as a condition of eligibility for such payments, and include in the State's agreement with the Commissioner of Social Security under such subsection, a residence requirement which excludes individuals who have resided in the State (or political subdivision) for less than a minimum period prior to application for such payments.
 
-(2) Any State (or political subdivision), in determining the eligibility of any individual for supplementary payments described in subsection (a) of this section, may disregard amounts of earned and unearned income in addition to other amounts which it is required or permitted to disregard under this section in determining such eligibility, and shall include aprovision specifying the amount of any such income that will be disregarded, if any.
+(2) Any State (or political subdivision), in determining the eligibility of any individual for supplementary payments described in subsection (a) of this section, may disregard amounts of earned and unearned income in addition to other amounts which it is required or permitted to disregard under this section in determining such eligibility, and shall include a provision specifying the amount of any such income that will be disregarded, if any.
 
 (3) Any State (or political subdivision) making supplementary payments described in subsection (a) of this section shall have the option of making such payments to individuals who receive benefits under this subchapter under the provisions of section 1382h of this title, or who would be eligible to receive such benefits but for their income.
 
@@ -132,7 +132,7 @@ Pub. L. 105–33, §5102(b)(1)(A), amended par. (4) generally. Prior to amendmen
 
 #### Effective Date of 1999 Amendment
 
-Pub. L. 106–170, title IV, §410(b), Dec. 17, 1999, 113 Stat. 1917, as amended by Pub. L. 106–554, §1(a)(1) \[title V, §515\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72, providedthat: “The amendments made by subsection (a) \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to payments and fees arising under an agreement between a State and the Commissioner of Social Security under section 1616 of the Social Security Act (42 U.S.C. 1382e) or under section 212 of Public Law 93-66 (42 U.S.C. 1382 note) with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[this subchapter\] for months after September 2001 (October 2001 in the case of a State with a fiscal year that coincides with the Federal fiscal year), without regard to whether the agreement has been modified to reflect such amendments or the Commissioner has promulgated regulations implementing such amendments.”
+Pub. L. 106–170, title IV, §410(b), Dec. 17, 1999, 113 Stat. 1917, as amended by Pub. L. 106–554, §1(a)(1) \[title V, §515\], Dec. 21, 2000, 114 Stat. 2763, 2763A–72, provided that: “The amendments made by subsection (a) \[amending this section and provisions set out as a note under section 1382 of this title\] shall apply to payments and fees arising under an agreement between a State and the Commissioner of Social Security under section 1616 of the Social Security Act (42 U.S.C. 1382e) or under section 212 of Public Law 93-66 (42 U.S.C. 1382 note) with respect to monthly benefits paid to individuals under title XVI of the Social Security Act \[this subchapter\] for months after September 2001 (October 2001 in the case of a State with a fiscal year that coincides with the Federal fiscal year), without regard to whether the agreement has been modified to reflect such amendments or the Commissioner has promulgated regulations implementing such amendments.”
 
 #### Effective Date of 1994 Amendment
 
@@ -148,7 +148,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, except as otherwise explici
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–265 effective Jan. 1, 1981, see section 201(d) of Pub. L. 96–265, as amended, set out as an Effective Date note under section 1382h of this title.
+Amendment by Pub. L. 96–265 effective Jan. 1, 1981, see section 201(d) of Pub. L. 96–265, as amended, set outas an Effective Date note under section 1382h of this title.
 
 #### Effective Date of 1976 Amendment
 
@@ -198,7 +198,7 @@ Section 8(f), formerly §8(e), of Pub. L. 93–233, as amended by Pub. L. 93–3
 
 \[Section 3 of Pub. L. 95–59 provided that the amendment of section 8(f) of Pub. L. 93–233, set out above, by section 3(2) of Pub. L. 95–59 is effective July 1, 1977.\]
 
-\[Section 1302(b) of Pub. L. 95–113 provided that the amendment of section 8(f) of Pub. L. 93–233, set out above, by section 1302(a)(4) of Pub. L. 95–113 is effective Oct. 1, 1977.\]
+\[Section 1302(b) of Pub. L. 95–113 provided that the amendment of section 8(f) of Pub. L. 93–233, set outabove, by section 1302(a)(4) of Pub. L. 95–113 is effective Oct. 1, 1977.\]
 
 #### Commodity Distribution Program: Individual Receiving Supplemental Security Income Benefits as Member of Household for any Purpose of Program
 
@@ -248,7 +248,7 @@ Section 401 of Pub. L. 92–603, as amended by Pub. L. 93–233, §18(h), Dec. 3
 
 &emsp;“(2) the total of the amounts determined under sections 3, 1003, 1403, and 1603 of the Social Security Act \[sections 303, 1203, 1353, and 1383 note of this title\], under section 1118 of such Act \[section 1318 of this title\], and under section 9 of the Act of April 19, 1950 \[section 639 of Title 25, Indians\], for such State with respect to such expenditures in such quarters.
 
-“(d) In addition to the amount which a State must pay to the Secretary for the fiscal year 1983 or the fiscal year 1984, as determined under subsection (a), the State shall also pay, for the fiscal year 1983, 60 percent of the further amount that would be payable but for the limit specified in subsection (a), and, for the fiscal year 1984, 80 percent of such further amount. For each fiscal year thereafter, the limit prescribed in subsection (a) shall be inapplicable and a State shall pay to the Secretary the full amount of any supplementary payments he makes on behalf of such State.”
+“(d) In addition to the amount which a State must pay to the Secretary for the fiscal year 1983 or the fiscal year 1984, as determined under subsection (a), the State shall also pay, for the fiscal year 1983, 60 percent of the further amount that would be payable but for the limit specified in subsection (a), and, for the fiscal year1984, 80 percent of such further amount. For each fiscal year thereafter, the limit prescribed in subsection (a) shall be inapplicable and a State shall pay to the Secretary the full amount of any supplementary payments he makes on behalf of such State.”
 
 \[Amendment of section 401(a)(2) of Pub. L. 92–603, set out above, by Pub. L. 94–585 inserting parenthetical text in subpar. (B) and enacting last sentence, such amendments being identical to amendments by Pub. L. 94–566 less the words “and before July 1, 1979” following “June 30, 1977”, effective with respect to benefits payable for months after June 1977, see section 2(c) of Pub. L. 94–585, set out as a note under section 1382g of this title.\]
 

@@ -81,6 +81,10 @@ Informational efforts.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Termination of Chapter
+
+<i>For termination of chapter by section 1(b) of Pub. L. 102–551, see note set out under section 950aaa of this title.</i>
+
 
 ---
 

@@ -94,7 +94,7 @@ In general.—Subject to the direction and control of the Secretary, the Under S
 
 &emsp;&emsp;(B) To coordinate and oversee the transportation-related responsibilities of other departments and agencies of the Federal Government other than the Department of Defense and the military departments.
 
-&emsp;&emsp;(C) To coordinate and provide notice to other departments and agencies of the Federal Government, and appropriate agencies of State and local governments, including departments and agencies for transportation, law enforcement, and border control, about threats to transportation.
+&emsp;&emsp;(C) To coordinate and provide notice to other departments and agencies of the Federal Government, and appropriate agencies of State and local governments, includingdepartments and agencies for transportation, law enforcement, and border control, about threats to transportation.
 
 &emsp;&emsp;(D) To carry out such other duties, and exercise such other powers, relating to transportation during a national emergency as the Secretary shall prescribe.
 
@@ -170,11 +170,11 @@ In general.—Notwithstanding any other provision of law or executive order (inc
 
 &emsp;&emsp;(B)
 
-Review by transportation security oversight board.—Any regulation or security directive issued under this paragraph shall be subject to review by the Transportation Security Oversight Board established under section 115. Any regulation or security directive issued under this paragraph shall remain effective unless disapproved by the Board or rescinded by the Under Secretary.
+Review by transportation security oversight board.—Any regulation or security directive issued under this paragraph shall be subject to review by the Transportation Security Oversight Board established under section 115. Any regulation or security directive issued under this paragraph shall remain effective for a period not to exceed 90 days unless ratified or disapproved by the Board or rescinded by the Under Secretary.
 
 &emsp;(3)
 
-Factors to consider.—In determining whether to issue, rescind, or revise a regulation under this section, the Under Secretary shall consider, as a factor in the final determination, whether the costs of the regulation are excessive in relation to the enhancement of security the regulation will provide. The Under Secretary may waive requirements for an analysis that estimates the number of lives that will be saved by the regulation and the monetary value of such lives if the Under Secretary determines that it is not feasible to make such an estimate.
+Factors to consider.—In determining whether to issue, rescind, or revise a regulation under this section, the Under Secretary shall consider, as a factor in the final determination, whether the costs of the regulation are excessive in relation to the enhancement of security the regulation will provide. The Under Secretary may waive requirements for an analysis that estimates the number of livesthat will be saved by the regulation and the monetary value of such lives if the Under Secretary determines that it is not feasible to make such an estimate.
 
 &emsp;(4)
 
@@ -210,7 +210,7 @@ Acquisition Management System.—The acquisition management system established b
 
 (p)
 
-Authority of Inspector General.—The Transportation Security Administration shall be subject to the Inspector General Act of 1978 (5U.S.C. App.) and other laws relating to the authority of the Inspector General of the Department of Transportation.
+Authority of Inspector General.—The Transportation Security Administration shall be subject to the Inspector General Act of 1978 (5 U.S.C. App.) and other laws relating to the authority of the Inspector General of the Department of Transportation.
 
 (q)
 
@@ -242,7 +242,29 @@ Revocation or suspension of authority.—The powers authorized by this subsectio
 
 Authority To Exempt.—The Under Secretary may grant an exemption from a regulation prescribed in carrying out this section if the Under Secretary determines that the exemption is in the public interest.
 
-(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597.)
+(s)
+
+Nondisclosure of Security Activities.—
+
+&emsp;(1)
+
+In general.—Notwithstanding section 552 of title 5, the Under Secretary shall prescribe regulations prohibiting the disclosure of information obtained or developed in carrying out security under authority of the Aviation and Transportation Security Act (Public Law 107–71) or under chapter 449 of this title if the Under Secretary decides that disclosing the information would—
+
+&emsp;&emsp;(A) be an unwarranted invasion of personal privacy;
+
+&emsp;&emsp;(B) reveal a trade secret or privileged or confidential commercial or financial information; or
+
+&emsp;&emsp;(C) be detrimental to the security of transportation.
+
+&emsp;(2)
+
+Availability of information to congress.—Paragraph (1) does not authorize information to be withheld from a committee of Congress authorized to have the information.
+
+&emsp;(3)
+
+Limitation on transferability of duties.—Except as otherwise provided by law, the Under Secretary may not transfer a duty or power under this subsection to another department, agency, or instrumentality of the United States.
+
+(Added Pub. L. 107–71, title I, §101(a), Nov. 19, 2001, 115 Stat. 597; amended Pub. L. 107–296, titleXVI, §1601(b), title XVII, §1707, Nov. 25, 2002, 116 Stat. 2312, 2318.)
 
 #### References in Text
 
@@ -250,9 +272,25 @@ The date of enactment of the Aviation and Transportation Security Act, referred 
 
 The Inspector General Act of 1978, referred to in subsec. (p), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
+The Aviation and Transportation Security Act, referred to in subsec. (s)(1), is Pub. L. 107–71, Nov. 19, 2001, 115 Stat. 597, as amended. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 40101 of this title and Tables.
+
+#### Amendments
+
+2002—Subsec. (<i>l</i>)(2)(B). Pub. L. 107–296, §1707, inserted “for a period not to exceed 90 days” after “effective” and “ratified or” before “disapproved”.
+
+Subsec. (s). Pub. L. 107–296, §1601(b), added subsec. (s).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Enhanced Security Measures
 
-Pub. L. 107–71, title I, §109, Nov. 19, 2001, 115 Stat. 613, provided that:
+Pub. L. 107–71, title I, §109, Nov. 19, 2001, 115 Stat. 613, as amended by Pub. L. 107–296, title XIV, §1403(b), Nov. 25, 2002, 116 Stat. 2306, provided that:
 
 “(a)
 
@@ -274,6 +312,8 @@ In General.—The Under Secretary of Transportation for Security may take the fo
 
 &emsp;“(8) Provide for the use of technology that will permit enhanced instant communications and information between airborne passenger aircraft and appropriate individuals or facilities on the ground.
 
+&emsp;“(9) Require that air carriers provide flight attendants with a discreet, hands-free, wireless method of communicating with the pilots.
+
 “(b)
 
 Report.—Not later than 6 months after the date of enactment of this Act \[Nov. 19, 2001\], and annually thereafter until the Under Secretary has implemented or decided not to take each of the actions specified in subsection (a), the Under Secretary shall transmit to Congress a report on the progress of the Under Secretary in evaluating and taking such actions, including any legislative recommendations that the Under Secretary may have for enhancing transportation security.”
@@ -282,5 +322,5 @@ Report.—Not later than 6 months after the date of enactment of this Act \[Nov.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 115 of this title.
+This section is referred to in sections 115, 20105 of this title.
 

@@ -1,8 +1,8 @@
 ### §153. How issued
 
-Patents shall be issued in the name of the United States of America, under the seal of the Patent and Trademark Office, and shall be signed by the Director or have his signature placed thereon and attested by an officer of the Patent and Trademark Office designated by the Director, and shall be recorded in the Patent and Trademark Office.
+Patents shall be issued in the name of the United States of America, under the seal of the Patent and Trademark Office, and shall be signed by the Director or have his signature placed thereon and shall be recorded in the Patent and Trademark Office.
 
-(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §§13203(c), 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1902, 1906.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,11 @@ The phrases referring to the attesting officers and to the recording of the pate
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
+2002—Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+
+Pub. L. 107–273, §13203(c), struck out “and attested by an officer of the Patent and Trademark Office designated by the Director,” after “signature placed thereon”.
+
+1999—Pub. L. 106–113, as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” in two places.
 
 1975—Pub. L. 93–596 substituted “Patent and Trademark Office” for “Patent Office” wherever appearing.
 

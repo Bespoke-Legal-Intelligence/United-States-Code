@@ -80,7 +80,7 @@
 
 #### (4) Transfer authority
 
-&emsp;A local board may transfer, if such a transfer is approved by the Governor, not more than 20 percent of the funds allocated to the local area under paragraph (2)(A) or (3), and 20 percent of the funds allocated to the local area under paragraph (2)(B), for a fiscal year between—
+&emsp;A local board may transfer, if such a transfer is approved by the Governor, not morethan 20 percent of the funds allocated to the local area under paragraph (2)(A) or (3), and 20 percent of the funds allocated to the local area under paragraph (2)(B), for a fiscal year between—
 
 &emsp;&emsp;(A) adult employment and training activities; and
 

@@ -14,7 +14,7 @@ Nondiscrimination requirements.—Notwithstanding any other provision of law, th
 
 (c) Subsection (a) shall not be construed to provide that any amount of the employee's or Member's basic pay which is contributed to the Thrift Savings Fund shall not be included in the term “wages” for the purposes of section 209 of the Social Security Act or section 3121(a) of the Internal Revenue Code of 1986.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 557; amended Pub. L. 100–202, §101(m) \[title VI, §624(b)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–647, title I, §1011A(m)(2), Nov. 10, 1988, 102 Stat. 3483; by Pub. L. 102–378, §2(69), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–353, §5(e)(5), Oct. 13, 1994, 108 Stat. 3174.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 557; amended Pub. L. 100–202, §101(m) \[title VI, §624(b)\], Dec. 22, 1987, 101 Stat. 1329–390, 1329–430; Pub. L. 100–647, title I, §1011A(m)(2), Nov. 10, 1988, 102 Stat. 3483; Pub. L. 102–378, §2(69), Oct. 2, 1992, 106 Stat. 1355; Pub. L. 103–353, §5(e)(5), Oct. 13, 1994, 108 Stat. 3174.)
 
 #### References in Text
 
@@ -36,7 +36,7 @@ Subsec. (b). Pub. L. 100–202, §101(m) \[title VI, §624(b)(2)\], added subsec
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
+Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first dayafter the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
 
 #### Effective Date of 1992 Amendment
 

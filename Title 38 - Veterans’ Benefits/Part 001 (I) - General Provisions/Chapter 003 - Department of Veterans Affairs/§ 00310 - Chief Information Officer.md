@@ -2,13 +2,9 @@
 
 (a) The Chief Information Officer for the Department is designated pursuant to section 3506(a)(2) of title 44.
 
-(b) The Chief Information Officer performs the duties provided for chief information officers of executive agencies under chapter 35 of title 44 and division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.).
+(b) The Chief Information Officer performs the duties provided for chief information officers of executive agencies under chapter 35 of title 44 and subtitle III of title 40.
 
-(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 382; amended Pub. L. 104–106, div. E, title LVI, §5604, Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(3), Nov. 18, 1997, 111 Stat. 1907.)
-
-#### References in Text
-
-The Clinger-Cohen Act of 1996, referred to in subsec. (b), is div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 642, 679. Div. E of Pub. L. 104–106 is classified principally to chapter 25 (§1401 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 40, Short Title of 1996 Amendment note set out under section 251 of Title 41, Public Contracts, and Tables.
+(Added Pub. L. 102–83, §2(a), Aug. 6, 1991, 105 Stat. 382; amended Pub. L. 104–106, div. E, title LVI, §5604, Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(3), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 107–217, §3(j)(2), Aug. 21, 2002, 116 Stat. 1300.)
 
 #### Prior Provisions
 
@@ -18,11 +14,13 @@ Provisions similar to those in this section were contained in section 4(d) of Pu
 
 #### Amendments
 
-1997—Subsec. (b). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 etseq.)” for “the Information Technology Management Reform Act of 1996”.
+2002—Subsec. (b). Pub. L. 107–217 substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)”.
+
+1997—Subsec. (b). Pub. L. 105–85 substituted “division E of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.)” for “the Information Technology Management Reform Act of 1996”.
 
 1996—Pub. L. 104–106 substituted “Chief Information Officer” for “Chief Information Resources Officer” in section catchline and amended text generally. Prior to amendment, text consisted of subsecs. (a) to (d), relating to designation, powers, and duties of the Chief Information Resources Officer.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 

@@ -20,7 +20,7 @@ All staff appointments shall be made without regard to the provisions of title 5
 
 #### (d) Commission employees as congressional employees
 
-(1) For purposes of pay and other employment benefits, rights, and privileges and for all other purposes, any employee of the Commission shall be considered to be a congressional employee as defined in section 2107 of title 5.
+(1) For purposes of pay and other employment benefits, rights, and privileges and for all otherpurposes, any employee of the Commission shall be considered to be a congressional employee as defined in section 2107 of title 5.
 
 (2) For purposes of section 3304(c)(1) <sup>1</sup> of title 5, staff personnel of the Commission shall be considered as if they are in positions in which they are paid by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives.
 

@@ -22,13 +22,13 @@ As used in this chapter—
 
 &emsp;&emsp;(D) an officer, employee, or other agent of the United States or a State, or any department, agency, or instrumentality of the United States or a State (including any political subdivision of a State) having possession of such cigarettes in connection with the performance of official duties;
 
-&emsp;(3) the term “common or contract carrier” means a carrier holding a certificate of convenience and necessity, a permit for contract carrier by motor vehicle, or other valid operating authority under subtitle IV of title 49, or under equivalent operating authority from a regulatory agency of the United States or of any State;
+&emsp;(3) the term “common or contract carrier” means a carrier holding a certificate of convenience and necessity, a permit for contract carrier by motor vehicle, or other valid operating authority under subtitle IV of title 49, orunder equivalent operating authority from a regulatory agency of the United States or of any State;
 
 &emsp;(4) the term “State” means a State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, or the Virgin Islands; and
 
-&emsp;(5) the term “Secretary” means the Secretary of the Treasury.
+&emsp;(5) the term “Attorney General” means the Attorney General of the United States <sup>1</sup>
 
-(Added Pub. L. 95–575, §1, Nov. 2, 1978, 92 Stat. 2463; amended Pub. L. 97–449, §5(c), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Added Pub. L. 95–575, §1, Nov. 2, 1978, 92 Stat. 2463; amended Pub. L. 97–449, §5(c), Jan. 12, 1983, 96 Stat. 2442; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–296, title XI, §1112(i)(1), Nov. 25, 2002, 116 Stat. 2277.)
 
 #### References in Text
 
@@ -36,9 +36,15 @@ Chapter 52 of the Internal Revenue Code of 1986, referred to in par. (2)(A), is 
 
 #### Amendments
 
+2002—Par. (5). Pub. L. 107–296 added par. (5) and struck out former par. (5) which read as follows: “the term ‘Secretary’ means the Secretary of the Treasury.”
+
 1986—Par. (2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
 1983—Par. (3). Pub. L. 97–449 substituted “subtitle IV of title 49” for “the Interstate Commerce Act”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date
 
@@ -55,4 +61,6 @@ Section 5 of Pub. L. 95–575 provided that: “There are hereby authorized to b
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1961 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

@@ -16,7 +16,7 @@ The Trust shall administer the operation, maintenance, management and interpreta
 
 #### (b) Authorities
 
-(1) The Trust may participate in the development of programs and activities at the properties designated by the map, and the Trust shall have the authority to negotiate and enter into such agreements, leases, contracts and other arrangements with any person, firm, association, organization, corporation or governmental entity, including, without limitation, entities of Federal, State and local governments as are necessary and appropriate to carry out its authorized activities. Any such agreements may be entered into without regard to section 303b of title 40.
+(1) The Trust may participate in the development of programs and activities at the properties designated by the map, and the Trust shall have the authority to negotiate and enter into such agreements, leases, contracts and other arrangements with any person, firm, association, organization, corporation or governmental entity, including, without limitation, entities of Federal, State and local governments as are necessary and appropriate to carry out its authorized activities. Any such agreements may be entered into without regard to section 1302 of title 40.
 
 (2) The Trust shall establish procedures for lease agreements and other agreements for use and occupancy of Memorial facilities, including a requirement that in entering into such agreements the Trust shall obtain reasonable competition.
 
@@ -51,6 +51,10 @@ The Trust may adopt, amend, repeal, and enforce bylaws, rules and regulations go
 The Trust shall require that all leaseholders and contractors procure proper insurance against any loss in connection with properties under lease or contract, or the authorized activities granted in such lease or contract, as is reasonable and customary.
 
 (Pub. L. 105–58, §6, Oct. 9, 1997, 111 Stat. 1264.)
+
+#### Codification
+
+“Section 1302 of title 40” substituted in subsec. (b)(1) for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Section Referred to in Other Sections
 

@@ -1,5 +1,7 @@
 ### SUBCHAPTER LXXVIII—BIGHORN CANYON NATIONAL RECREATION AREA
 
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+
 
 ---
 

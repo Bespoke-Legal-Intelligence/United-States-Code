@@ -154,7 +154,7 @@ As used in this chapter:
 
 #### (22) Skill certificate
 
-&emsp;The term “skill certificate” means a portable, industry-recognized credential issued bya School-to-Work Opportunities program under an approved State plan, that certifies that a student has mastered skills at levels that are at least as challenging as skill standards endorsed by the National Skill Standards Board established under the National Skill Standards Act of 1994 \[20 U.S.C. 5931 et seq.\], except that until such skill standards are developed, the term “skill certificate” means a credential issued under a process described in the approved State plan.
+&emsp;The term “skill certificate” means a portable, industry-recognized credential issued by a School-to-Work Opportunities program under an approved State plan, that certifies that a student has mastered skills at levels that are at least as challenging as skill standards endorsed by the National Skill Standards Board established under the National Skill Standards Act of 1994 \[20 U.S.C. 5931 et seq.\], except that until such skill standards are developed, the term “skill certificate” means a credential issued under a process described in the approved State plan.
 
 #### (23) State
 

@@ -64,7 +64,7 @@
 
 #### (3) Access to information
 
-&emsp;The Commission shall by rule require a common carrier that provides telephone services to a provider of pay-per-call services to make available to the Commission any records and financial information maintained by such carrier relating to the arrangements (other than for the provision of local exchange service) between such carrier and any provider of pay-per-call services.
+&emsp;The Commission shall by rule require a common carrier that provides telephone servicesto a provider of pay-per-call services to make available to the Commission any records and financial information maintained by such carrier relating to the arrangements (other than for the provision of local exchange service) between such carrier and any provider of pay-per-call services.
 
 #### (4) Evasions
 

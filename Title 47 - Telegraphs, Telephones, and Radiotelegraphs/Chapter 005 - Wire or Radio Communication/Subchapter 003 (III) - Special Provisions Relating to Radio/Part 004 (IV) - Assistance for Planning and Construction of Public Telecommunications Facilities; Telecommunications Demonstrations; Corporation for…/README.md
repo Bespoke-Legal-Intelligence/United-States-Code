@@ -2,7 +2,7 @@ Part IV—Assistance for Planning and Construction of Public Telecommunications 
 
 #### Part Referred to in Other Sections
 
-This part is referred to in title 40 App. section 214.
+This part is referred to in title 40 section 14507.
 
 
 ---

@@ -28,7 +28,7 @@ The Social Security Act, referred to in par. (1), is act Aug. 14, 1935, ch. 531,
 
 #### Prior Provisions
 
-A prior section 9901, Pub. L. 97–35, title VI, §672, Aug. 13, 1981, 95 Stat. 511; Pub. L. 98–558, title II, §201, Oct. 30, 1984, 98 Stat. 2884; Pub. L. 99–425, title IV, §401, Sept.30, 1986, 100 Stat. 968; Pub. L. 101–501, title IV, §401(a), Nov. 3, 1990, 104 Stat. 1251; Pub. L. 103–252, title II, §202(a), May 18, 1994, 108 Stat. 651, authorized the Secretary to make community service grants, prior to the general amendment of this chapter by Pub. L. 105–285.
+A prior section 9901, Pub. L. 97–35, title VI, §672, Aug. 13, 1981, 95 Stat. 511; Pub. L. 98–558, title II, §201, Oct. 30, 1984, 98 Stat. 2884; Pub. L. 99–425, title IV, §401, Sept. 30, 1986, 100 Stat. 968; Pub. L. 101–501, title IV, §401(a), Nov. 3, 1990, 104 Stat. 1251; Pub. L. 103–252, title II, §202(a), May 18, 1994, 108 Stat. 651, authorized the Secretary to make community service grants, prior to the general amendment of this chapter by Pub. L. 105–285.
 
 #### Short Title of 1994 Amendment
 

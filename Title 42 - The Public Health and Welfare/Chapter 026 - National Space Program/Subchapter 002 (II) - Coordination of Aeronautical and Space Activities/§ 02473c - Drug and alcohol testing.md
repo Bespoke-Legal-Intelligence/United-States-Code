@@ -12,7 +12,7 @@ The Congress finds that—
 
 &emsp;(2) the success of the United States civil space program is contingent upon the safe and successful development and deployment of the many varied components of that program;
 
-&emsp;(3) the greatest efforts must be expended to eliminate the abuse of alcohol and use of illegal drugs, whether on duty or off duty, bythose individuals who are involved in the positions affecting safety, security, and national security;
+&emsp;(3) the greatest efforts must be expended to eliminate the abuse of alcohol and use of illegal drugs, whether on duty or off duty, by those individuals who are involved in the positions affecting safety, security, and national security;
 
 &emsp;(4) the use of alcohol and illegal drugs has been demonstrated to adversely affect the performance of individuals, and has been proven to have been a critical factor in accidents in the workplace;
 
@@ -76,7 +76,7 @@ In establishing the programs required under subsection (c) of this section, the 
 
 &emsp;(7) provide for the confidentiality of test results and medical information of employees; and
 
-&emsp;(8) ensure that employees are selected for tests by nondiscriminatory and impartial methods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
+&emsp;(8) ensure that employees are selected for tests by nondiscriminatory and impartialmethods, so that no employee is harassed by being treated differently from other employees in similar circumstances.
 
 #### (g) Effect on other laws and regulations
 

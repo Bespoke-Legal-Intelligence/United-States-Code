@@ -24,7 +24,7 @@ In making a decision under this section, the Secretary shall consider, in additi
 
 #### Codification
 
-Section was enacted as part of the Department of Energy National Security and Military Applications ofNuclear Energy Authorization Act of 1987 and also as part of the National Defense Authorization Act for Fiscal Year 1987, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1987 and also as part of the National Defense Authorization Act for Fiscal Year 1987, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
 #### Amendments
 

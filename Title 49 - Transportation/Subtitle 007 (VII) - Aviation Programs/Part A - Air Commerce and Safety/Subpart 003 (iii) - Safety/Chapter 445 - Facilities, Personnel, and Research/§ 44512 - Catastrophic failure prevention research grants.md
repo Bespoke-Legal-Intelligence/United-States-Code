@@ -36,5 +36,5 @@ In subsection (b), the words “providing grants” are substituted for “the f
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40119, 44501, 44508, 48102, 50103 of this title.
+This section is referred to in sections 44501, 44508, 48102, 50103 of this title.
 

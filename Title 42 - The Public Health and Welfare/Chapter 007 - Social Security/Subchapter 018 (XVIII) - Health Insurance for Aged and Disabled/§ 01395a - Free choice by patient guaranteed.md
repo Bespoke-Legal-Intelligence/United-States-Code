@@ -58,7 +58,7 @@ Any individual entitled to insurance benefits under this subchapter may obtain h
 
 &emsp;&emsp;&emsp;(i) the affidavit identifies the physician or practitioner and is in writing and is signed by the physician or practitioner;
 
-&emsp;&emsp;&emsp;(ii) the affidavit provides that the physician or practitioner will not submit anyclaim under this subchapter for any item or service provided to any medicare beneficiary (and will not receive any reimbursement or amount described in paragraph (1)(B) for any such item or service) during the 2-year period beginning on the date the affidavit is signed; and
+&emsp;&emsp;&emsp;(ii) the affidavit provides that the physician or practitioner will not submit any claim under this subchapter for any item or service provided to any medicare beneficiary (and will not receive any reimbursement or amount described in paragraph (1)(B) for any such item or service) during the 2-year period beginning on the date the affidavit is signed; and
 
 &emsp;&emsp;&emsp;(iii) a copy of the affidavit is filed with the Secretary no later than 10 days after the first contract to which such affidavit applies is entered into.
 

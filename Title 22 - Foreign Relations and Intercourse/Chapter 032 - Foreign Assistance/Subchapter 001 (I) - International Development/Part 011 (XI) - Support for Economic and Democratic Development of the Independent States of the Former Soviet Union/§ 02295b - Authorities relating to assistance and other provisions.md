@@ -18,7 +18,7 @@ Assistance under this part may include support for cooperative development proje
 
 #### (e) Administration of justice programs
 
-In order to strengthen the administration of justice in the independent states of the former Soviet Union under paragraph (2)(G) of section 2295 of this title, the President may exercise the same authorities as are available under section 2346c of this title, subject to the limitations and requirements of that section, other than subsection (c) and the last two sentences of subsection (e).
+In order to strengthen the administration of justice in the independent states of the former Soviet Union under paragraph (2)(J) of section 2295 of this title, the President may exercise the same authorities as are available under section 2346c of this title, subject to the limitations and requirements of that section, other than subsection (c) and the last two sentences of subsection (e).
 
 #### (f) Use of economic support funds
 
@@ -76,7 +76,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 #### (1) Appropriate congressional committees
 
-&emsp;As used in this part, the term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relationsand the Committee on Appropriations of the Senate.
+&emsp;As used in this part, the term “appropriate congressional committees” means the Committee on Foreign Affairs and the Committee on Appropriations of the House of Representatives and the Committee on Foreign Relations and the Committee on Appropriations of the Senate.
 
 #### (2) Independent states of the former Soviet Union
 
@@ -84,7 +84,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 #### (3) Nonmarket based trade
 
-&emsp;As used in section 2295a(b)(5) of this title, the term “nonmarket based trade” includes exports, imports, exchanges, or other arrangements that are provided for goods and services (including oil and other petroleum products) on terms more favorable than those generally available in applicable markets or for comparable commodities, including—
+&emsp;As used in section 2295a(b)(5) of this title, the term “nonmarket based trade” includes exports, imports, exchanges, or other arrangements that are provided for goods and services (including oil and other petroleum products)on terms more favorable than those generally available in applicable markets or for comparable commodities, including—
 
 &emsp;&emsp;(A) exports to the Cuban Government on terms that involve a grant, concessional price, guaranty, insurance, or subsidy;
 
@@ -100,7 +100,7 @@ Assistance under this part shall be provided on such terms and conditions as the
 
 &emsp;(B) For purposes of subparagraph (A), the term “agency or instrumentality of the Government of Cuba” means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference in such section to “a foreign state” deemed to be a reference to “Cuba”.
 
-(Pub. L. 87–195, pt. I, §498B, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3328; amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(c)(2), Mar. 12, 1996, 110 Stat. 796.)
+(Pub. L. 87–195, pt. I, §498B, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3328; amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(c)(2), Mar. 12, 1996, 110 Stat. 796; Pub. L. 107–246, §4(b), Oct. 23, 2002, 116 Stat. 1515.)
 
 #### References in Text
 
@@ -115,6 +115,8 @@ The Budget Enforcement Act of 1990, referred to in subsec. (j)(1)(D), is title X
 Section 510 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1991, referred to in subsec. (j)(2), is section 510 of Pub. L. 101–513, title V, Nov. 5, 1990, 104 Stat. 2003, which is not classified to the Code.
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–246 substituted “paragraph (2)(J)” for “paragraph (2)(G)”.
 
 1996—Subsec. (k)(3), (4). Pub. L. 104–114 added pars. (3) and (4).
 

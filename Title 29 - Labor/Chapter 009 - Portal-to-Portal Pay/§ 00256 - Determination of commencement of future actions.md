@@ -1,10 +1,10 @@
 ### §256. Determination of commencement of future actions
 
-In determining when an action is commenced for the purposes of section 255 of this title, an action commenced on or after May 14, 1947 under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], the Walsh-Healey Act \[41 U.S.C. 35 et seq.\], or the Bacon-Davis Act \[40 U.S.C. 276a et seq.\], shall be considered to be commenced on the date when the complaint is filed; except that in the case of a collective or class action instituted under the Fair Labor Standards Act of 1938, as amended, or the Bacon-Davis Act, it shall be considered to be commenced in the case of any individual claimant—
+In determining when an action is commenced for the purposes of section 255 of this title, an action commenced on or after May 14, 1947 under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], the Walsh-Healey Act \[41 U.S.C. 35 et seq.\], or the Bacon-Davis Act,<sup>1</sup> shall be considered to be commenced on the date when the complaint is filed; except that in the case of a collective or class action instituted under the Fair Labor Standards Act of 1938, asamended, or the Bacon-Davis Act, it shall be considered to be commenced in the case of any individual claimant—
 
 &emsp;(a) on the date when the complaint is filed, if he is specifically named as a party plaintiff in the complaint and his written consent to become a party plaintiff is filed on such date in the court in which the action is brought; or
 
-&emsp;(b) if such written consent was not so filed or if his name did not so appear—on the subsequent date on which such written consent isfiled in the court in which the action was commenced.
+&emsp;(b) if such written consent was not so filed or if his name did not so appear—on the subsequent date on which such written consent is filed in the court in which the action was commenced.
 
 (May 14, 1947, ch. 52, §7, 61 Stat. 88.)
 
@@ -13,4 +13,6 @@ In determining when an action is commenced for the purposes of section 255 of th
 The Fair Labor Standards Act of 1938, as amended, referred to in text, is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
 
 The Walsh-Healey and Bacon-Davis Acts, referred to in text, are defined for purposes of this chapter in section 262 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

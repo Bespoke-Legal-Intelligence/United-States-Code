@@ -28,7 +28,7 @@
 
 (2) The Secretary, in consultation with the Administrator of General Services where appropriate, may permit a Federal fleet to acquire a smaller percentage than is required in paragraph (1), so long as the aggregate percentage acquired by all Federal fleets is at least equal to the required percentage.
 
-(3) For purposes of this subsection, the term “Federal fleet” means 20 or more light duty motor vehicles, located in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, or otherwise controlled by or assigned to any Federal executive department, military department, Government corporation, independent establishment, or executive agency, the United States Postal Service, the Congress, the courts of the United States, or the Executive Office of the President. Such term does not include—
+(3) For purposes of this subsection, the term “Federal fleet” means 20 or more light dutymotor vehicles, located in a metropolitan statistical area or consolidated metropolitan statistical area, as established by the Bureau of the Census, with a 1980 population of more than 250,000, that are centrally fueled or capable of being centrally fueled and are owned, operated, leased, or otherwise controlled by or assigned to any Federal executive department, military department, Government corporation, independent establishment, or executive agency, the United States Postal Service, the Congress, the courts of the United States, or the Executive Office of the President. Such term does not include—
 
 &emsp;(A) motor vehicles held for lease or rental to the general public;
 
@@ -90,7 +90,7 @@ Sec. 202. <i>Performance Strategies</i>. Agencies have numerous options for deve
 
 #### PART 3 ORGANIZATION AND ACCOUNTABILITY
 
-Sec. 301. <i>Leadership Responsibilities</i>. The Office of Management and Budget (OMB), the Department of Energy (DOE), the Environmental Protection Agency (EPA), and the General Services Administration (GSA) shall be responsible for providing leadership to the other Federal agencies in implementing programs to meet the goals of this order. Therefore, they shall perform the following activities:
+Sec. 301. <i>Leadership Responsibilities</i>. The Office of Management and Budget (OMB), the Department of Energy (DOE), the Environmental Protection Agency\(EPA), and the General Services Administration (GSA) shall be responsible for providing leadership to the other Federal agencies in implementing programs to meet the goals of this order. Therefore, they shall perform the following activities:
 
 (a) OMB shall:
 
@@ -186,7 +186,7 @@ Sec. 504. <i>Independent Agencies</i>. Independent agencies and agencies excepte
 
 Sec. 505. <i>Government-Owned Contractor-Operated Vehicles</i>. Agencies must ensure that all Government-owned contractor-operated vehicles comply with all applicable goals and other requirements of this order and that these goals and requirements are incorporated into each contractor's management contract.
 
-Sec. 506. <i>Exemptions for Military Tactical, Law Enforcement, and Emergency Vehicles</i>. Department of Defense military tactical vehicles are exempt from this order. Law enforcement, emergency, and any other vehicle class or type determined by OMB, in consultation with DOE, are exempted from this order's requirements for Federal fleet fuel efficiency and alternative fuel vehicle acquisition. Agencies claiming vehicle exemptions must provide information on the number of each class or type of vehicle claimed as exempt as well as an estimate of total fuel consumption of exempt vehicles on an annual basis. Agencies should examine options for increasing fuel efficiency in these exempt vehicles andshould report actions taken to increase fuel efficiency in these vehicles or fleets. All information required by this section must be submitted annually under Part 3 of this order.
+Sec. 506. <i>Exemptions for Military Tactical, Law Enforcement, and Emergency Vehicles</i>. Department of Defense military tactical vehicles are exempt from this order. Law enforcement, emergency, and any other vehicle class or type determined by OMB, in consultation with DOE, are exempted from this order's requirements for Federal fleet fuel efficiency and alternative fuel vehicle acquisition. Agencies claiming vehicle exemptions must provide information on the number of each class or type of vehicle claimed as exempt as well as an estimate of total fuel consumption of exempt vehicles on an annual basis. Agencies should examine options for increasing fuel efficiency in these exempt vehicles and should report actions taken to increase fuel efficiency in these vehicles or fleets. All information required by this section must be submitted annually under Part 3 of this order.
 
 Sec. 507. <i>Compliance</i>. (a) If an agency fails to meet requirements of the Energy Policy Act of 1992 or this order, its report to the DOE and OMB under section 302(c) must include an explanation for such failure and an updated strategy for achieving compliance using the agency's current and requested budgets.
 

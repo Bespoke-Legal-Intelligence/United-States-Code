@@ -50,7 +50,7 @@ Oct. 11, 1962, Pub. L. 87–793, §603 “Sec. 701”, 76 Stat. 847.
 
 Oct. 11, 1962, Pub. L. 87–793, §603 “Sec. 703 (as applicable to §701)”, 76 Stat. 847.
 
-In subsection (a), the words “General Schedule” are substituted for “compensation schedules fixed by this chapter” since the General Schedule is now the only compensation schedule in that chapter. The word “scheduled” is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated the necessity of referring to rates as scheduled or longevity.
+In subsection (a), the words “General Schedule” are substituted for “compensation schedules fixed by this chapter” since the General Schedule is now the only compensation schedule in that chapter. The word “scheduled” is omitted since section 603 of the Act of Oct. 11, 1962, Pub. L. 87–793, 76 Stat. 847, eliminated thenecessity of referring to rates as scheduled or longevity.
 
 In subsection (a)(B), the words “except a hearing examiner appointed under section 3105 of this title” are added on authority of the third sentence of former section 1010 and the fifth sentence of former section 1011, which are carried into sections 5362 and 559, respectively, and of section 1106(a) of the Act of Oct. 28, 1949, ch. 782, 63 Stat. 972.
 
@@ -133,6 +133,10 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 Section 504(a) of Pub. L. 95–454 provided that amendment by section 503(g) of Pub. L. 95–454 was effective on first day of first applicable pay period which began on or after Oct. 1, 1981, except it could take effect with respect to any category or categories of positions before such day to extent prescribed by Director of Office of Personnel Management.
 
 Amendment by section 906(a)(2), (8) of Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Pay Increases Deemed Equivalent Increases in Pay
 

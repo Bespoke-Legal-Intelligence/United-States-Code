@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 1395x of this title; title 40 App. section 214.
+This subchapter is referred to in section 1395x of this title.
 
 
 ---

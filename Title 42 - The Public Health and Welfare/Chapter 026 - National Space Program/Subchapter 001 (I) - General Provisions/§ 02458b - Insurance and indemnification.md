@@ -32,7 +32,7 @@ As used in this section—
 
 &emsp;(2) the term “user” includes anyone who enters into an agreement with the Administration for use of all or a portion of a space vehicle, who owns or provides property to be flown on a space vehicle, or who employs a person to be flown on a space vehicle; and
 
-&emsp;(3) the term “third party” means any person who may institute a claim against a user for death, bodily injury or loss of or damage to property.
+&emsp;(3) the term “third party” means any person who may institute a claim against a user fordeath, bodily injury or loss of or damage to property.
 
 (Pub. L. 85–568, title III, §308, as added Pub. L. 96–48, §6(b)(2), Aug. 8, 1979, 93 Stat. 348.)
 

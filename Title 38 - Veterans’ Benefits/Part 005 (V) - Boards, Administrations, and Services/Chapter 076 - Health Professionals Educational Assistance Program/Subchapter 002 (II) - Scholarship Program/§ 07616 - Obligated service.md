@@ -28,7 +28,7 @@
 
 (c)(1) Except as provided in paragraph (2) of this subsection, a participant in the Scholarship Program shall be considered to have begun serving such participant's period of obligated service—
 
-&emsp;(A) on the date, after such participant's course completion date, on which such participant (in accordance with subsection (b) of this section) is appointed under this chapter as a full-time employee in the Veterans Health Administration; or
+&emsp;(A) on the date, after such participant's course completion date, on which such participant (in accordance with subsection (b) of thissection) is appointed under this chapter as a full-time employee in the Veterans Health Administration; or
 
 &emsp;(B) if the participant is a full-time employee in the Veterans Health Administration on such course completion date, on the date thereafter on which such participant is assigned to a position for which such participant's course of training prepared such participant.
 

@@ -80,7 +80,7 @@ Each State improvement plan shall—
 
 &emsp;&emsp;&emsp;(vi) the State will enhance the ability of teachers and others to use strategies, such as behavioral interventions, to address the conduct of children with disabilities that impedes the learning of children with disabilities and others;
 
-&emsp;&emsp;&emsp;(vii) the State will acquire and disseminate, to teachers, administrators, schoolboard members, and related services personnel, significant knowledge derived from educational research and other sources, and how the State will, when appropriate, adopt promising practices, materials, and technology;
+&emsp;&emsp;&emsp;(vii) the State will acquire and disseminate, to teachers, administrators, school board members, and related services personnel, significant knowledge derived from educational research and other sources, and how the State will, when appropriate, adopt promising practices, materials, and technology;
 
 &emsp;&emsp;&emsp;(viii) the State will recruit, prepare, and retain qualified personnel, including personnel with disabilities and personnel from groups that are underrepresented in the fields of regular education, special education, and related services;
 
@@ -106,7 +106,7 @@ Each State improvement plan shall—
 
 #### (2) Priority
 
-&emsp;The Secretary may give priority to applications on the basis of need, as indicated by such information as the findings of Federal compliance reviews.
+&emsp;The Secretary may give priority to applications on the basis of need, as indicated by suchinformation as the findings of Federal compliance reviews.
 
 #### (e) Peer review
 

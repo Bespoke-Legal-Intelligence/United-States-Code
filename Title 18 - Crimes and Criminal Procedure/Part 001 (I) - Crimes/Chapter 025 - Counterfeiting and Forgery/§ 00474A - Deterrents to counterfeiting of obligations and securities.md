@@ -6,7 +6,7 @@
 
 (c) As used in this section—
 
-&emsp;(1) the term “distinctive paper” includes any distinctive medium of which currency is made,whether of wood pulp, rag, plastic substrate, or other natural or artificial fibers or materials; and
+&emsp;(1) the term “distinctive paper” includes any distinctive medium of which currency is made, whether of wood pulp, rag, plastic substrate, or other natural or artificial fibers or materials; and
 
 &emsp;(2) the term “distinctive counterfeit deterrent” includes any ink, watermark, seal, security thread, optically variable device, or other feature or device;
 

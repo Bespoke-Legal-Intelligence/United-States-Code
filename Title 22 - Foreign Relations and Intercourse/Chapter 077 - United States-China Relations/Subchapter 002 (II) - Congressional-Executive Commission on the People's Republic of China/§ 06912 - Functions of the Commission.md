@@ -18,7 +18,7 @@ The Commission shall monitor the acts of the People's Republic of China which re
 
 &emsp;&emsp;(B) to be informed, if he or she does not have legal assistance, of the right set forth in subparagraph (A);
 
-&emsp;&emsp;(C) to have legal assistance assigned to him or her in any case in which the interests of justice so require and without payment by him or her in any such case if he or she does not have sufficient means to pay for it;
+&emsp;&emsp;(C) to have legal assistance assigned to him or her in any case in which the interestsof justice so require and without payment by him or her in any such case if he or she does not have sufficient means to pay for it;
 
 &emsp;&emsp;(D) to a fair and public hearing by a competent, independent, and impartial tribunal established by the law;
 
@@ -84,11 +84,15 @@ The Commission shall issue a report to the President and the Congress not later 
 
 #### (h) Specific information in annual reports
 
-The Commission's report under subsection (g) of this section shall include specific information as to the nature and implementation of laws or policies concerning the rights set forth in paragraphs (1) through (12) of subsection (a) of this section, and as to restrictions applied to or discrimination against persons exercising any of the rights set forth in such paragraphs.
+The Commission's report under subsection (g) of this section shall include—
+
+&emsp;(1) specific information as to the nature and implementation of laws or policies concerning the rights set forth in paragraphs (1) through (12) of subsection (a) of this section, and as to restrictions applied to or discrimination against persons exercising any of the rights set forth in such paragraphs; and
+
+&emsp;(2) a description of the status of negotiations between the Government of the People's Republic of China and the Dalai Lama or his representatives, and measures taken to safeguard Tibet's distinct historical, religious, cultural, and linguistic identity and the protection of human rights.
 
 #### (i) Congressional hearings on annual reports
 
-(1) The Committee on International Relations of the House of Representatives shall, not later than 30 days after the receipt by the Congress of the report referred to in subsection (g) of this section, hold hearings on the contents of the report, including any recommendations contained therein, for the purpose of receiving testimony from Members of Congress, and such appropriate representatives of Federal departments and agencies, and interested persons and groups, as the committee deems advisable, with a view to reporting to the House of Representatives any appropriate legislation in furtherance of such recommendations. If any such legislation is considered by the Committee on International Relations within 45 days after receipt by the Congress of the report referred to in subsection (g) of this section, it shall be reported by the committee not later than 60 days after receipt by the Congress of such report.
+(1) The Committee on International Relations of the House of Representatives shall, not later than 30 days after the receipt by the Congress ofthe report referred to in subsection (g) of this section, hold hearings on the contents of the report, including any recommendations contained therein, for the purpose of receiving testimony from Members of Congress, and such appropriate representatives of Federal departments and agencies, and interested persons and groups, as the committee deems advisable, with a view to reporting to the House of Representatives any appropriate legislation in furtherance of such recommendations. If any such legislation is considered by the Committee on International Relations within 45 days after receipt by the Congress of the report referred to in subsection (g) of this section, it shall be reported by the committee not later than 60 days after receipt by the Congress of such report.
 
 (2) The provisions of paragraph (1) are enacted by the Congress—
 
@@ -100,7 +104,11 @@ The Commission's report under subsection (g) of this section shall include speci
 
 The Commission may submit to the President and the Congress reports that supplement the reports described in subsection (g) of this section, as appropriate, in carrying out subsections (a) through (c) of this section.
 
-(Pub. L. 106–286, div. B, title III, §302, Oct. 10, 2000, 114 Stat. 895.)
+(Pub. L. 106–286, div. B, title III, §302, Oct. 10, 2000, 114 Stat. 895; Pub. L. 107–228, div. A, title VI, §615, Sept. 30, 2002, 116 Stat. 1396.)
+
+#### Amendments
+
+2002—Subsec. (h). Pub. L. 107–228 substituted “shall include—” for “shall include”, inserted par. (1) designation before “specific information”, and added par. (2).
 
 <i><sup>1</sup></i><i> So in original.</i>
 

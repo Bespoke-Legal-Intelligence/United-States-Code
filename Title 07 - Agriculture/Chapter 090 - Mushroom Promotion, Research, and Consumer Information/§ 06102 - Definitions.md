@@ -36,7 +36,7 @@ As used in this chapter—
 
 #### (9) Mushrooms
 
-&emsp;The term “mushrooms” means all varieties of cultivated mushrooms grown within the United States for the fresh market, or imported into the United States for the freshmarket, that are marketed, except that such term shall not include mushrooms that are commercially marinated, canned, frozen, cooked, blanched, dried, packaged in brine, or otherwise processed, as may be determined by the Secretary.
+&emsp;The term “mushrooms” means all varieties of cultivated mushrooms grown within the United States for the fresh market, or imported into the United States for the fresh market, that are marketed, except that such term shall not include mushrooms that are commercially marinated, canned, frozen, cooked, blanched, dried, packaged in brine, or otherwise processed, as may be determined by the Secretary.
 
 #### (10) Person
 
@@ -48,7 +48,7 @@ As used in this chapter—
 
 #### (12) Promotion
 
-&emsp;The term “promotion” means any action determined by the Secretary to enhance the image or desirability of mushrooms, including paid advertising.
+&emsp;The term “promotion” means any action determined by the Secretary to enhance theimage or desirability of mushrooms, including paid advertising.
 
 #### (13) Research
 

@@ -4,6 +4,8 @@ Part A—Juvenile Justice and Delinquency Prevention Office
 
 This part is referred to in section 5671 of this title.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “provide”.</i>
+
 
 ---
 

@@ -94,7 +94,7 @@ Definition of political appointee.—For purposes of this subsection, the term �
 
 Duties and Powers of Administrator.—(1) Except as provided in paragraph (2) of this subsection, the Administrator shall carry out—
 
-&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
+&emsp;(A) duties and powers of the Secretary of Transportation under subsection (f) of this section related to aviation safety (exceptthose related to transportation, packaging, marking, or description of hazardous material) and stated in sections 308(b), 1132(c) and (d), 40101(c), 40103(b), 40106(a), 40108, 40109(b), 40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections 46104, 46301(d) and (h)(2), 46303(c), 46304–46308, 46310, 46311, and 46313–46316, chapter 465, and sections 47504(b) (related to flight procedures), 47508(a), and 48107 of this title; and
 
 &emsp;(B) additional duties and powers prescribed by the Secretary of Transportation.
 
@@ -192,7 +192,7 @@ Contracts.—The Administrator is authorized to enter into and perform such cont
 
 (m)
 
-Cooperation by Administrator.—With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (as such term is defined in section 551(1) of title 5)and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities. The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. The head of a Federal agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, without reimbursement, supplies, personnel, services, and equipment other than administrative supplies or equipment.
+Cooperation by Administrator.—With the consent of appropriate officials, the Administrator may, with or without reimbursement, use or accept the services, equipment, personnel, and facilities of any other Federal agency (as such term is defined in section 551(1) of title 5) and any other public or private entity. The Administrator may also cooperate with appropriate officials of other public and private agencies and instrumentalities concerning the use of services, equipment, personnel, and facilities. The head of each Federal agency shall cooperate with the Administrator in making the services, equipment, personnel, and facilities of the Federal agency available to the Administrator. The head of a Federal agency is authorized, notwithstanding any other provision of law, to transfer to or to receive from the Administration, without reimbursement, supplies, personnel, services, and equipment other than administrative supplies or equipment.
 
 (n)
 
@@ -386,7 +386,7 @@ Ethical considerations.—
 
 &emsp;&emsp;&emsp;(i)
 
-Financial disclosure.—During the entire period that an individual appointed under paragraph (2)(E) is a member of the Subcommittee, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of theEthics in Government Act of 1978 for purposes of title I of such Act; except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
+Financial disclosure.—During the entire period that an individual appointed under paragraph (2)(E) is a member of the Subcommittee, such individual shall be treated as serving as an officer or employee referred to in section 101(f) of the Ethics in Government Act of 1978 for purposes of title I of such Act; except that section 101(d) of such Act shall apply without regard to the number of days of service in the position.
 
 &emsp;&emsp;&emsp;(ii)
 
@@ -614,7 +614,7 @@ In general.—The Chief Operating Officer shall be paid at an annual rate of bas
 
 &emsp;&emsp;(B)
 
-Bonus.—In addition to the annual rate of basic pay authorized by subparagraph (A),the Chief Operating Officer may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator's evaluation of the Chief Operating Officer's performance in relation to the performance goals set forth in the performance agreement described <sup>2</sup> paragraph (3).
+Bonus.—In addition to the annual rate of basic pay authorized by subparagraph (A), the Chief Operating Officer may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of basic pay, based upon the Administrator's evaluation of the Chief Operating Officer's performance in relation to the performance goals set forth in the performance agreement described <sup>2</sup> paragraph (3).
 
 &emsp;(3)
 
@@ -660,7 +660,7 @@ Budget.—To—
 
 &emsp;&emsp;&emsp;(iii) ensure that the budget request supports the annual and long-range strategic plans developed under subparagraph (A) of this subsection.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701, Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2416; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 100–591, §5(a), Nov. 3, 1988, 102 Stat. 3013; Pub. L. 101–508, title IX, §9106, Nov. 5, 1990, 104 Stat. 1388–355; Pub. L. 101–604, title I, §101(c), Nov. 16, 1990, 104 Stat. 3068; Pub. L. 102–581, title I, §104, Oct. 31, 1992, 106 Stat. 4877; Pub. L. 103–272, §§4(j)(3), 5(m)(4), July 5, 1994, 108 Stat. 1365, 1375; Pub. L. 103–305, title I, §103, title II, §201, Aug. 23, 1994, 108 Stat. 1571, 1581; Pub. L. 104–264, title I, §103(a), title II, §§223(a), 224–230, 276(c), title XII, §1210, Oct. 9, 1996, 110 Stat. 3216, 3229–3234, 3282; Pub. L. 104–287, §5(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–102, §3(c)(3), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–6, §4, Mar. 31, 1999, 113 Stat. 10; Pub. L. 106–181, title I, §103(a), title III, §§302(a)–(c), 303, 305, 306, 307(c)(1), title VII, §701,Apr. 5, 2000, 114 Stat. 66, 115–118, 121, 123, 124, 126, 154; Pub. L. 106–528, §8(a), Nov. 22, 2000, 114 Stat. 2522; Pub. L. 107–71, title I, §101(c)(3), (d), Nov. 19, 2001, 115 Stat. 602, 603.)
 
 Historical and Revision Notes
 
@@ -756,9 +756,9 @@ Oct. 15, 1966, Pub. L. 89–670, §6(c)(1) (1st sentence proviso, 2d, last sente
 
 In subsections (a) and (b), the source provisions are combined for clarity.
 
-In subsection (a), the words “referred to in this chapter as the ‘Administration’ ” are omitted because of the style of the revised title.
+In subsection (a), the words “referred to in this chapter as the ‘Administration’ ” are omitted because of the style of the revised title.
 
-In subsection (b), the word “due” in 49:1342(b) (1st sentence less 1st–11th words) is omitted as surplus. The words “the duties and powers” are substituted for “the powers and duties vested in and imposed upon him bythis chapter” to eliminate surplus words and for consistency. The word “consider” is substituted for “with . . . regard to” for clarity.
+In subsection (b), the word “due” in 49:1342(b) (1st sentence less 1st–11th words) is omitted as surplus. The words “the duties and powers” are substituted for “the powers and duties vested in and imposed upon him by this chapter” to eliminate surplus words and for consistency. The word “consider” is substituted for “with . . . regard to” for clarity.
 
 In subsections (c) and (d), the words “At the time of his nomination” are omitted as unnecessary and for consistency.
 
@@ -816,7 +816,7 @@ Subsec. (f)(3)(B)(i)(II) to (IV). Pub. L. 106–181, §305(4), added subcl. (II)
 
 “(IV) raise novel legal or policy issues arising out of legal mandates.”
 
-Subsec. (g)(1)(A). Pub. L. 106–181, §701, substituted “40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections” for “40113(a), (c), and (d), 40114(a), 40119, 44501(a) and (c), 44502(a)(1), (b), and (c), 44504, 44505, 44507, 44508, 44511–44513, 44701–44716, 44718(c), 44721(a), 44901, 44902, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, and 44938(a) and (b), chapter 451, sections 45302–45304,”.
+Subsec. (g)(1)(A). Pub. L. 106–181, §701, substituted “40113(a), 40113(c), 40113(d), 40113(e), 40114(a), and 40119, chapter 445 (except sections 44501(b), 44502(a)(2), 44502(a)(3), 44502(a)(4), 44503, 44506, 44509, 44510, 44514, and 44515), chapter 447 (except sections 44717, 44718(a), 44718(b), 44719, 44720, 44721(b), 44722, and 44723), chapter 449 (except sections 44903(d), 44904, 44905, 44907–44911, 44913, 44915, and 44931–44934), chapter 451, chapter 453, sections” for “40113(a), (c), and (d), 40114(a), 40119, 44501(a) and (c), 44502(a)(1), (b), and (c), 44504, 44505, 44507, 44508, 44511–44513, 44701–44716, 44718(c), 44721(a), 44901, 44902, 44903(a)–(c) and (e), 44906, 44912, 44935–44937, and 44938(a) and (b), chapter 451, sections 45302–45304,”.
 
 Subsec. (k). Pub. L. 106–181, §103(a), amended heading and text of subsec. (k) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to the Secretary of Transportation for operations of the Administration $5,632,000,000 for fiscal year 1999.”
 
@@ -872,7 +872,7 @@ Subsec. (f). Pub. L. 103–272, §4(j)(3)(A), substituted “Secretary of Transp
 
 Subsec. (g). Pub. L. 103–272, §4(j)(3)(B), inserted heading and amended text generally. Prior to amendment, text read as follows: “The Administrator shall carry out—
 
-&emsp;“(1) duties and powers of the Secretary related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous materials) and vested in the Secretary by section 308(b) of this title and sections 306–309, 312–314, 315–316 (except for the duties and powers vested in the Director of Intelligence and Security by or under section 101 of the Aviation Security Improvement Act of 1990), 1101, 1105, and 1111 and titles VI, VII, IX, and XII of the Federal Aviation Act of 1958 (49 App. U.S.C. 1347–1350, 1353–1355, 1421 et seq., 1441 et seq., 1471 et seq., 1501, 1505, 1511, and 1521 et seq.); and
+&emsp;“(1) duties and powers of the Secretary related to aviation safety (except those related to transportation, packaging, marking, or description of hazardous materials) and vested in the Secretary by section308(b) of this title and sections 306–309, 312–314, 315–316 (except for the duties and powers vested in the Director of Intelligence and Security by or under section 101 of the Aviation Security Improvement Act of 1990), 1101, 1105, and 1111 and titles VI, VII, IX, and XII of the Federal Aviation Act of 1958 (49 App. U.S.C. 1347–1350, 1353–1355, 1421 et seq., 1441 et seq., 1471 et seq., 1501, 1505, 1511, and 1521 et seq.); and
 
 &emsp;“(2) additional duties and powers prescribed by the Secretary.”
 
@@ -912,7 +912,7 @@ Initial nominations to air traffic services subcommittee.—The Secretary \[of T
 
 “(3)
 
-Effect on actions prior to appointment of subcommittee.—Nothing in this section shall be construedto invalidate the actions and authority of the Federal Aviation Administration prior to the appointment of the members of the Air Traffic Services Subcommittee.”
+Effect on actions prior to appointment of subcommittee.—Nothing in this section shall be construed to invalidate the actions and authority of the Federal Aviation Administration prior to the appointment of the members of the Air Traffic Services Subcommittee.”
 
 #### Effective Date of 1997 Amendment
 
@@ -1100,7 +1100,7 @@ Pub. L. 99–500, title V, §§501–507, Oct. 18, 1986, 100 Stat. 1783–370 to
 
 #### Appointment of Retired Military Officer as Administrator
 
-Pub. L. 102–308, June 26, 1992, 106 Stat. 273, provided: “That notwithstanding the provisions of section 106 of title 49, United States Code, or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint General Thomas C. Richards, United States Air Force, Retired, to the Office of Administrator of the Federal Aviation Administration. General Richards’ appointment to, acceptance of, and service in that Office shall in no way affect the status, rank, and grade which he shall hold as an officer on the retired list of the United States Air Force, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, office, rank, or grade, except to the extent that subchapter IV of chapter 55 of title 5, United States Code, affects the amount of retired pay to which he is entitled by law during his service as Administrator. So long as he serves as Administrator, General Richards shall receive the compensation of that Office at the rate which would be applicable if he were not an officer on the retired list of the United States Air Force, shall retain the status, rank, and grade which he now holds as an officer on the retired list of the United States AirForce, shall retain all emoluments, perquisites, rights, privileges, and benefits incident to or arising out of such status, office, rank, or grade, and shall in addition continue to receive the retired pay to which he is entitled by law, subject to the provisions of subchapter IV of chapter 55 of title 5, United States Code.
+Pub. L. 102–308, June 26, 1992, 106 Stat. 273, provided: “That notwithstanding the provisions of section 106 of title 49, United States Code, or any other provision of law, the President, acting by and with the advice and consent of the Senate, is authorized to appoint General Thomas C. Richards, United States Air Force, Retired, to the Office of Administrator of the Federal Aviation Administration. General Richards’ appointment to, acceptance of, and service in that Office shall in no way affect the status, rank, and grade which he shall hold as an officer on the retired list of the United States Air Force, or any emolument, perquisite, right, privilege, or benefit incident to or arising out of any such status, office, rank, or grade, except to the extent that subchapter IV of chapter 55 of title 5, United States Code, affects the amount of retired pay to which he is entitled by law during his service as Administrator. So long as he serves as Administrator, General Richards shall receive the compensation of that Office at the rate which would be applicable if he were not an officer on the retired list of the United States Air Force, shall retain the status, rank, and grade which he now holds as an officer on the retired list of the United States Air Force, shall retain all emoluments, perquisites, rights, privileges, and benefits incident to or arising out of such status, office, rank, or grade, and shall in addition continue to receive the retired pay to which he is entitled by law, subject to the provisions of subchapter IV of chapter 55 of title 5, United States Code.
 
 “
 
@@ -1122,9 +1122,9 @@ Pub. L. 89–46, June 22, 1965, 79 Stat. 171.
 
 #### Ex. Ord. No. 13180. Air Traffic Performance-Based Organization
 
-Ex. Ord. No. 13180, Dec. 7, 2000, 65 F.R. 77493, provided:
+Ex. Ord. No. 13180, Dec. 7, 2000, 65 F.R. 77493, as amended by Ex. Ord. No. 13264, June 4, 2002, 67 F.R. 39243, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to further improve the provision of air traffic services, an inherently governmental function, in ways that increase efficiency, take better advantage of new technologies, accelerate modernization efforts, and respond more effectively to the needs of the traveling public, while enhancing the safety, security, and efficiency of the Nation's air transportation system, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to further improve the provision of air traffic services in ways that increase efficiency, take better advantage of new technologies, accelerate modernization efforts, and respond more effectively to the needs of the traveling public, while enhancing the safety, security, and efficiency of the Nation's air transportation system, it is hereby ordered as follows:
 
 Section 1. <i>Establishment of the Air Traffic Organization</i>. (a) The Secretary of Transportation (Secretary) shall, consistent with his legal authorities, move to establish within the Federal Aviation Administration (FAA) a performance-based organization to be known as the “Air Traffic Organization” (ATO).
 
@@ -1160,9 +1160,7 @@ Sec. 4. <i>Evaluation and Report</i>. Not later than 5 years after the date of t
 
 Sec. 5. <i>Definitions</i>. The term “air traffic control system” has the same meaning as the term defined by section 40102(a)(42) of title 49, United States Code.
 
-Sec. 6. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sec. 6. <i>Judicial Review</i>. This order is intended only to improve the internal management of the executive branch and is not intended to, nor does it, create any right to administrative or judicial review, or any right, whether substantive or procedural, enforceable by any party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 #### Definitions for Title II of Pub. L. 104–264
 

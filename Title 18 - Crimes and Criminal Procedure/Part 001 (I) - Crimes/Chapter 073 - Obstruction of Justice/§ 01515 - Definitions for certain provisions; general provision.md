@@ -22,7 +22,7 @@
 
 &emsp;&emsp;(C) with intent to mislead, knowingly submitting or inviting reliance on a writing or recording that is false, forged, altered, or otherwise lacking in authenticity;
 
-&emsp;&emsp;(D) with intent to mislead, knowingly submitting or inviting reliance on a sample, specimen, map, photograph, boundary mark, or other object that is misleading in a material respect; or
+&emsp;&emsp;(D) with intent to mislead, knowingly submitting or inviting reliance on a sample,specimen, map, photograph, boundary mark, or other object that is misleading in a material respect; or
 
 &emsp;&emsp;(E) knowingly using a trick, scheme, or device with intent to mislead;
 

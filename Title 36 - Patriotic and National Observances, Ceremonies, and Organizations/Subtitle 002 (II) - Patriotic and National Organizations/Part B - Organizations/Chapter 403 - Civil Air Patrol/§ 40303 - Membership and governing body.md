@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 July 1, 1946, ch. 527, §3, 60 Stat. 346.
 
-The words “are as provided in” are substituted for “shall be determined according to” for consistency in the revised title. The text of 36:203 (proviso) is omitted as obsolete.
+The words “are as provided in” are substituted for “shall be determined according to” for consistency inthe revised title. The text of 36:203 (proviso) is omitted as obsolete.
 
 #### Amendments
 

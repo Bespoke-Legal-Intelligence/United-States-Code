@@ -14,7 +14,3 @@ This section consolidates into one section identical definitions contained in se
 
 In addition to slight improvements in style, the word “commerce” was substituted for “transportation” in order to avoid the narrower connotation of the word “transportation” since “commerce” obviously includes more than “transportation.” The word “Possession” was inserted in two places to make the definition more accurate and comprehensive since the places included in the word “Possession” would normally be within the term defined and a narrower construction should be handled by express statutory exclusion in those crimes which Congress intends to restrict to commerce within the continental United States.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
-

@@ -2,7 +2,7 @@
 
 #### (a) Studies
 
-In order to gain a better understanding of the nature and the extent of gender bias in the Federal courts, the circuit judicial councils are encouraged to conduct studies of the instances, if any, of gender bias in their respective circuits and to implement recommended reforms.
+In order to gain a better understanding of the nature and the extent of gender bias in the Federal courts, the circuit judicial councils are encouraged to conduct studies of the instances, ifany, of gender bias in their respective circuits and to implement recommended reforms.
 
 #### (b) Matters for examination
 

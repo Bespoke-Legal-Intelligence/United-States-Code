@@ -20,7 +20,7 @@ Based on Fixed Guideway Revenue Vehicle-Miles, Route-Miles, and Passenger-Miles.
 
 &emsp;(A) 95.61 percent of the total amount apportioned under this subsection shall be apportioned so that each urbanized area with a population of at least 200,000 is entitled to receive an amount equal to—
 
-&emsp;&emsp;(i) 60 percent of the 95.61 percent apportioned under this subparagraph multiplied by a ratio equal to the number of fixed guideway revenue vehicle-miles attributable to the area, as established by the Secretary of Transportation, divided by the total number of all fixed guideway revenue vehicle-miles attributable to all areas; and
+&emsp;&emsp;(i) 60 percent of the 95.61 percent apportioned under this subparagraph multiplied by a ratio equal to the number of fixedguideway revenue vehicle-miles attributable to the area, as established by the Secretary of Transportation, divided by the total number of all fixed guideway revenue vehicle-miles attributable to all areas; and
 
 &emsp;&emsp;(ii) 40 percent of the 95.61 percent apportioned under this subparagraph multiplied by a ratio equal to the number of fixed guideway route-miles attributable to the area, established by the Secretary, divided by the total number of all fixed guideway route-miles attributable to all areas.
 
@@ -74,7 +74,7 @@ Date of Apportionment.—The Secretary of Transportation shall—
 
 &emsp;(1) apportion amounts appropriated under subsections (a) and (h)(2) of section 5338 of this title to carry out section 5307 of this title not later than the 10th day after the date the amounts are appropriated or October 1 of the fiscal year for which the amounts are appropriated, whichever is later; and
 
-&emsp;(2) publish apportionments of the amounts, including amounts attributable to each urbanized area with a population of more than 50,000 and amounts attributable to each State of a multistate urbanized area, on the apportionment date.
+&emsp;(2) publish apportionments of the amounts, including amounts attributable to each urbanized area with a population of more than 50,000and amounts attributable to each State of a multistate urbanized area, on the apportionment date.
 
 (f)
 
@@ -88,7 +88,7 @@ Transfers of Apportionments.—(1) The chief executive officer of a State may tr
 
 (3) The chief executive officer of a State may use throughout the State amounts of a State's apportionment remaining available for obligation at the beginning of the 90-day period before the period of the availability of the amounts expires.
 
-(4) A designated recipient for an urbanized area with a population of at least 200,000 maytransfer a part of its apportionment under this section to the chief executive officer of a State. The chief executive officer shall distribute the transferred amounts to urbanized areas under this section.
+(4) A designated recipient for an urbanized area with a population of at least 200,000 may transfer a part of its apportionment under this section to the chief executive officer of a State. The chief executive officer shall distribute the transferred amounts to urbanized areas under this section.
 
 (5) Capital and operating assistance limitations applicable to the original apportionment apply to amounts transferred under this subsection.
 
@@ -242,7 +242,7 @@ In subsection (c)(1)(B), before clause (i), the words “of at least 200,000” 
 
 In subsection (d)(1)(D), the words “Notwithstanding the preceding sentence” and “each fiscal year” are omitted as surplus.
 
-In subsection (d)(2), the words “Beginning on October 1, 1991” are omitted as executed. The words “paragraph (1) of this subsection” are substituted for “under this section that may be used for operating assistance by urbanized areas” to eliminate unnecessary words. The words “(if any)” are omitted as surplus. The words“Secretary of Labor” are substituted for “Department of Labor” because of 29:551. The text of 49 App.:1607a(k)(2)(B) (2d sentence) is omitted as executed. The text of 49 App.:1607a(k)(2)(B) (last sentence) is omitted as surplus.
+In subsection (d)(2), the words “Beginning on October 1, 1991” are omitted as executed. The words “paragraph (1) of this subsection” are substituted for “under this section that may be used for operating assistance by urbanized areas” to eliminate unnecessary words. The words “(if any)” are omitted as surplus. The words “Secretary of Labor” are substituted for “Department of Labor” because of 29:551. The text of 49 App.:1607a(k)(2)(B) (2d sentence) is omitted as executed. The text of 49 App.:1607a(k)(2)(B) (last sentence) is omitted as surplus.
 
 In subsection (e)(1), the words “under section 5338(f) of this title” are added for clarity. The words “in accordance with the provisions of this section” are omitted as surplus.
 

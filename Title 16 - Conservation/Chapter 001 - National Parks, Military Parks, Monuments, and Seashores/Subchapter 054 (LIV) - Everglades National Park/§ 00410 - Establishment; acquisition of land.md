@@ -220,7 +220,7 @@ Effect of failure to adopt or prescribe standards.—In the event the Tribe fail
 
 &emsp;&emsp;&emsp;“(iv)
 
-Modification of standards.—If, after the date of the enactment of this Act \[Oct. 30, 1998\], the standards referred to in clause (iii) are revised, not later than 1 year after those standards are revised, the Tribe shall make such revisions to water quality standards of the Tribe as are necessary to ensure that those water qualitystandards are at least as protective as the revised water quality standards approved by the Administrator.
+Modification of standards.—If, after the date of the enactment of this Act \[Oct. 30, 1998\], the standards referred to in clause (iii) are revised, not later than 1 year after those standards are revised, the Tribe shall make such revisions to water quality standards of the Tribe as are necessary to ensure that those water quality standards are at least as protective as the revised water quality standards approved by the Administrator.
 
 &emsp;&emsp;&emsp;“(v)
 
@@ -236,7 +236,7 @@ Height Restrictions.—
 
 &emsp;“(1)
 
-Restrictions.—Except as provided in paragraphs (2) through (4), no structure constructed within the MRA shall exceed the height of 45 feet or exceed 2 stories, except that a structure within the Miccosukee Government Center, as shown on the map referred to in section 4(4), shall not exceed the height of 70 feet.
+Restrictions.—Except as provided in paragraphs (2) through (4), no structure constructed within the MRA shall exceed the height of 45 feet or exceed 2 stories, except that a structure within theMiccosukee Government Center, as shown on the map referred to in section 4(4), shall not exceed the height of 70 feet.
 
 &emsp;“(2)
 
@@ -356,7 +356,7 @@ Federal Mediation and Conciliation Service.—If the Secretary and the tribal ch
 
 “(c) 60-
 
-Day Time Limit.—The Federal Mediation and Conciliation Service may conduct mediation or other nonbinding dispute resolution activities for a periodnot to exceed 60 days beginning on the date on which the Federal Mediation and Conciliation Service receives the request for assistance, unless the Secretary and the tribal chairman agree to an extension of period of time.
+Day Time Limit.—The Federal Mediation and Conciliation Service may conduct mediation or other nonbinding dispute resolution activities for a period not to exceed 60 days beginning on the date on which the Federal Mediation and Conciliation Service receives the request for assistance, unless the Secretary and the tribal chairman agree to an extension of period of time.
 
 “(d)
 

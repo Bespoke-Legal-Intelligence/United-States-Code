@@ -36,7 +36,7 @@ The Center shall—
 
 &emsp;(7) encourage departments and agencies of the Federal Government to initiate, stimulate, and support efforts in both the public and private sectors of the United States to improve the rate of productivity growth;
 
-&emsp;(8) coordinate all activities referred to in subsection (7) of this section in order to eliminate interagency duplication of effort andcost, to insure that Center activities will not unnecessarily conflict or overlap with such other activities, and to maximize the effectiveness of all such Federal programs and activities;
+&emsp;(8) coordinate all activities referred to in subsection (7) of this section in order to eliminate interagency duplication of effort and cost, to insure that Center activities will not unnecessarily conflict or overlap with such other activities, and to maximize the effectiveness of all such Federal programs and activities;
 
 &emsp;(9) coordinate and consult with the departments and agencies of the Federal Government in the obligation and expenditure of funds for activities and projects in both the public and private sectors to improve productivity growth;
 

@@ -22,7 +22,7 @@ For purposes of this subtitle—
 
 #### (B) Related parties
 
-&emsp;&emsp;(i) If a producer of a domestic like product and an exporter or importer of the subjectmerchandise are related parties, or if a producer of the domestic like product is also an importer of the subject merchandise, the producer may, in appropriate circumstances, be excluded from the industry.
+&emsp;&emsp;(i) If a producer of a domestic like product and an exporter or importer of the subject merchandise are related parties, or if a producer of the domestic like product is also an importer of the subject merchandise, the producer may, in appropriate circumstances, be excluded from the industry.
 
 &emsp;&emsp;(ii) For purposes of clause (i), a producer and an exporter or importer shall be considered to be related parties, if—
 
@@ -44,7 +44,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;(ii) the demand in that market is not supplied, to any substantial degree, by producers of the product in question located elsewhere in the United States.
 
-> &emsp;&emsp;In such appropriate circumstances, material injury, the threat of material injury, or material retardation of the establishment of an industry may be found to exist with respect to an industry even if the domestic industry as a whole, or those producers whose collective output of a domestic like product constitutes a major proportion of the total domestic production of that product, is not injured, if there is a concentration of dumped imports or imports of merchandise benefiting from a countervailable subsidy into such an isolated market and if the producers of all, or almost all, of the production within that market are being materially injured or threatened by material injury, or if the establishment of an industry is being materially retarded, by reason of the dumped imports or imports of merchandise benefiting from a countervailable subsidy. The term “regional industry” means the domestic producers within a region who are treated as a separate industry under this subparagraph.
+> &emsp;&emsp;In such appropriate circumstances, material injury, the threat of material injury, or material retardation of the establishment of an industry may be found to exist with respect to an industry even if the domestic industry as a whole, or those producers whose collective output of a domestic like product constitutes a major proportion of the total domestic production of that product, is not injured, if there is a concentration of dumped imports or imports of merchandise benefiting from a countervailable subsidy into such an isolated market and if the producers ofall, or almost all, of the production within that market are being materially injured or threatened by material injury, or if the establishment of an industry is being materially retarded, by reason of the dumped imports or imports of merchandise benefiting from a countervailable subsidy. The term “regional industry” means the domestic producers within a region who are treated as a separate industry under this subparagraph.
 
 #### (D) Product lines
 
@@ -152,7 +152,7 @@ For purposes of this subtitle—
 
 #### (D) Domestic subsidy
 
-&emsp;&emsp;In determining whether a subsidy (other than a subsidy described in subparagraph (B) or (C)) is a specific subsidy, in law or in fact,to an enterprise or industry within the jurisdiction of the authority providing the subsidy, the following guidelines shall apply:
+&emsp;&emsp;In determining whether a subsidy (other than a subsidy described in subparagraph (B) or (C)) is a specific subsidy, in law or in fact, to an enterprise or industry within the jurisdiction of the authority providing the subsidy, the following guidelines shall apply:
 
 &emsp;&emsp;&emsp;(i) Where the authority providing the subsidy, or the legislation pursuant to which the authority operates, expressly limits access to the subsidy to an enterprise or industry, the subsidy is specific as a matter of law.
 
@@ -176,7 +176,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;&emsp;(IV) The manner in which the authority providing the subsidy has exercised discretion in the decision to grant the subsidy indicates that an enterprise or industry is favored over others.
 
-&emsp;&emsp;&nbsp;In evaluating the factors set forth in subclauses (I), (II), (III), and (IV), the administering authority shall take into account the extent of diversification of economic activities within the jurisdiction of the authority providing the subsidy, and the length of time during which the subsidy program has been in operation.
+&emsp;&emsp;&nbsp;In evaluating the factors set forth in subclauses (I), (II), (III), and (IV), the administering authority shall take into account the extent of diversification of economic activities within the jurisdiction of the authority providing the subsidy, and thelength of time during which the subsidy program has been in operation.
 
 &emsp;&emsp;&emsp;(iv) Where a subsidy is limited to an enterprise or industry located within a designated geographical region within the jurisdiction of the authority providing the subsidy, the subsidy is specific.
 
@@ -214,7 +214,7 @@ For purposes of this subtitle—
 
 #### (II) Precompetitive development activity
 
-&emsp;&emsp;&emsp;&emsp;The term “precompetitive development activity” means the translation of industrial research findings into a plan, blueprint, or design for new, modified, or improved products, processes, or services, whether intended for sale or use, including the creation of a first prototype that would not be capable of commercial use. The term also may include the conceptual formulation and design of products, processes, or services alternatives and initial demonstration or pilotprojects, if these same projects cannot be converted or used for industrial application or commercial exploitation. The term does not include routine or periodic alterations to existing products, production lines, manufacturing processes, services, or other ongoing operations even if those alterations may represent improvements.
+&emsp;&emsp;&emsp;&emsp;The term “precompetitive development activity” means the translation of industrial research findings into a plan, blueprint, or design for new, modified, or improved products, processes, or services, whether intended for sale or use, including the creation of a first prototype that would not be capable of commercial use. The term also may include the conceptual formulation and design of products, processes, or services alternatives and initial demonstration or pilot projects, if these same projects cannot be converted or used for industrial application or commercial exploitation. The term does not include routine or periodic alterations to existing products, production lines, manufacturing processes, services, or other ongoing operations even if those alterations may represent improvements.
 
 #### (iii) Calculation rules
 
@@ -304,7 +304,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;(i) Subparagraphs (B), (C), (D), and (E) shall not apply on or after the first day of the month that is 66 months after the WTO Agreement enters into force, unless the provisions of such subparagraphs are extended pursuant to section 3572(c) of this title.
 
-&emsp;&emsp;(ii) Subparagraph (F) shall not apply to imports from a WTO member country at the end of the 9-year period beginning on January 1, 1995. The Trade Representative shall determine the precise termination date for each WTO member country in accordance with paragraph (i) of Article 1 of the Agreement on Agriculture and such date shall be notified to the administering authority.
+&emsp;&emsp;(ii) Subparagraph (F) shall not apply to imports from a WTO member country at the end of the 9-year period beginning on January 1, 1995. The Trade Representative shalldetermine the precise termination date for each WTO member country in accordance with paragraph (i) of Article 1 of the Agreement on Agriculture and such date shall be notified to the administering authority.
 
 #### (6) Net countervailable subsidy
 
@@ -384,7 +384,7 @@ For purposes of this subtitle—
 
 #### (D) Special rules for agricultural products
 
-&emsp;&emsp;(i) The Commission shall not determine that there is no material injury or threat of material injury to United States producers of an agricultural commodity merely because the prevailing market price is at or above the minimum support price.
+&emsp;&emsp;(i) The Commission shall not determine that there is no material injury or threat ofmaterial injury to United States producers of an agricultural commodity merely because the prevailing market price is at or above the minimum support price.
 
 &emsp;&emsp;(ii) In the case of agricultural products, the Commission shall consider any increased burden on government income or price support programs.
 
@@ -420,7 +420,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;&emsp;&emsp;(VII) in any investigation under this subtitle which involves imports of both a raw agricultural product (within the meaning of paragraph (4)(E)(iv)) and any product processed from such raw agricultural product, the likelihood that there will be increased imports, by reason of product shifting, if there is an affirmative determination by the Commission under section 1671d(b)(1) or 1673d(b)(1) of this title with respect to either the raw agricultural product or the processed agricultural product (but not both),
 
-&emsp;&emsp;&emsp;&emsp;(VIII) the actual and potential negative effects on the existing development and production efforts of the domesticindustry, including efforts to develop a derivative or more advanced version of the domestic like product, and
+&emsp;&emsp;&emsp;&emsp;(VIII) the actual and potential negative effects on the existing development and production efforts of the domestic industry, including efforts to develop a derivative or more advanced version of the domestic like product, and
 
 &emsp;&emsp;&emsp;&emsp;(IX) any other demonstrable adverse trends that indicate the probability that there is likely to be material injury by reason of imports (or sale for importation) of the subject merchandise (whether or not it is actually being imported at the time).
 
@@ -474,7 +474,7 @@ For purposes of this subtitle—
 
 #### (iv) Regional industry determinations
 
-&emsp;&emsp;&emsp;In an investigation which involves a regional industry, and in which the Commission decides that the volume and effect of imports should be cumulatively assessed under this subparagraph, such assessment shall be based upon the volume and effectof imports into the region or regions determined by the Commission. The provisions of clause (iii) shall apply to such investigations.
+&emsp;&emsp;&emsp;In an investigation which involves a regional industry, and in which the Commission decides that the volume and effect of imports should be cumulatively assessed under this subparagraph, such assessment shall be based upon the volume and effect of imports into the region or regions determined by the Commission. The provisions of clause (iii) shall apply to such investigations.
 
 #### (H) Cumulation for determining threat of material injury
 
@@ -628,7 +628,7 @@ For purposes of this subtitle—
 
 #### (E) Collection of information
 
-&emsp;&emsp;Upon request by the administering authority, the Commissioner of Customs shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of Customs that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtainedunder this section from public disclosure in accordance with section 1677f of this title.
+&emsp;&emsp;Upon request by the administering authority, the Commissioner of Customs shall provide the administering authority a copy of all public and proprietary information submitted to, or obtained by, the Commissioner of Customs that the administering authority considers relevant to proceedings involving merchandise from nonmarket economy countries. The administering authority shall protect proprietary information obtained under this section from public disclosure in accordance with section 1677f of this title.
 
 #### (19) Equivalency of leases to sales
 
@@ -702,7 +702,7 @@ For purposes of this subtitle—
 
 #### (B) Negligibility for certain countries in countervailing duty investigations
 
-&emsp;&emsp;In the case of an investigation under section 1671 of this title, subparagraph (A) shall be applied to imports of subject merchandise from developing countries by substituting “4 percent” for “3 percent” in subparagraph\(A)(i) and by substituting “9 percent” for “7 percent” in subparagraph (A)(ii).
+&emsp;&emsp;In the case of an investigation under section 1671 of this title, subparagraph (A) shall be applied to imports of subject merchandise from developing countries by substituting “4 percent” for “3 percent” in subparagraph (A)(i) and by substituting “9 percent” for “7 percent” in subparagraph (A)(ii).
 
 #### (C) Computation of import volumes
 
@@ -820,7 +820,7 @@ For purposes of this subtitle—
 
 &emsp;&emsp;A determination that a country is a developing or least developed country pursuant to this paragraph shall be for purposes of this subtitle only and shall not affect the determination of a country's status as a developing or least developed country with respect to any other law.
 
-(June 17, 1930, ch. 497, title VII, §771, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat. 176; amended Pub. L. 98–573, title VI, §612(a), Oct. 30, 1984, 98 Stat. 3033; Pub. L. 99–514, title XVIII, §1886(a)(9), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, 102 Stat. 1184, 1187, 1203–1206, 1210; Pub. L. 100–449, title IV, §403(d), Sept. 28, 1988, 102 Stat. 1887; Pub. L. 100–647, title IX, §9001(a)(5), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), Aug. 20, 1990, 104 Stat. 653, 659, 660; Pub. L. 103–182, title IV, §412(b), title VI, §637(b), Dec. 8, 1993, 107 Stat. 2146, 2203; Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Pub. L. 104–295, §20(b)(7), (14), Oct. 11, 1996, 110 Stat. 3527.)
+(June 17, 1930, ch. 497, title VII, §771, as added Pub. L. 96–39, title I, §101, July 26, 1979, 93 Stat.176; amended Pub. L. 98–573, title VI, §612(a), Oct. 30, 1984, 98 Stat. 3033; Pub. L. 99–514, title XVIII, §1886(a)(9), Oct. 22, 1986, 100 Stat. 2922; Pub. L. 100–418, title I, §§1312, 1316(b), 1326(a)–(c), 1327–1330, 1335, Aug. 23, 1988, 102 Stat. 1184, 1187, 1203–1206, 1210; Pub. L. 100–449, title IV, §403(d), Sept. 28, 1988, 102 Stat. 1887; Pub. L. 100–647, title IX, §9001(a)(5), Nov. 10, 1988, 102 Stat. 3807; Pub. L. 101–382, title I, §139(a)(3), title II, §224(a), (b), Aug. 20, 1990, 104 Stat. 653, 659, 660; Pub. L. 103–182, title IV, §412(b), title VI, §637(b), Dec. 8, 1993, 107 Stat. 2146, 2203; Pub. L. 103–465, title II, §§221(b), 222, 229(b), 233(a)(3), (4), (5)(BB)–(FF), (b), 251, 266, 267, 270(c)(2), (e), Dec. 8, 1994, 108 Stat. 4869, 4890, 4898–4902, 4915, 4917, 4918; Pub. L. 104–295, §20(b)(7), (14), Oct. 11, 1996, 110 Stat. 3527.)
 
 #### References in Text
 
@@ -878,7 +878,7 @@ Par. (7)(C)(v). Pub. L. 103–465, §222(d)(1), struck out heading and text of c
 
 > For purposes of this clause, the Commission may treat as negligible and having no discernable adverse impact on the domestic industry imports that are the product of any country that is a party to a free trade area agreement with the United States which entered into force and effect before January 1, 1987, if the Commission determines that the domestic industry is not being materially injured by reason of such imports.”
 
-Par. (7)(E)(i). Pub. L. 103–465, §266, amended heading and text of cl. (i) generally. Prior to amendment, text read as follows: “In determining whether there is a threat of material injury, the Commission shall consider such information as may be presented to it by the administering authority as to the nature of the subsidy (particularly as to whether the subsidy is an export subsidy inconsistent with the Agreement) provided by a foreign country and the effects likely to be caused by the subsidy.”
+Par. (7)(E)(i). Pub. L. 103–465, §266, amended heading and text of cl. (i) generally. Prior to amendment, textread as follows: “In determining whether there is a threat of material injury, the Commission shall consider such information as may be presented to it by the administering authority as to the nature of the subsidy (particularly as to whether the subsidy is an export subsidy inconsistent with the Agreement) provided by a foreign country and the effects likely to be caused by the subsidy.”
 
 Par. (7)(F)(i), (ii). Pub. L. 103–465, §222(c), amended cls. (i) and (ii) generally, substituting present provisions for provisions which listed factors in determining as well as basis for determining that an industry is threatened with material injury by reason of imports (or sales for importation) of the subject merchandise.
 
@@ -1054,7 +1054,9 @@ Part effective Jan. 1, 1980, see section 107 of Pub. L. 96–39, set out as a no
 
 #### Transfer of Functions
 
-All functions of the Secretary of the Treasury under this subtitle were transferred to the Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(C), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, except that the Customs Service of the Department of the Treasury shall accept such deposits, bonds, or other security as deemed appropriate by the Secretary of Commerce, assess and collect such duties as directed by the Secretary of Commerce, and furnish such of its important records or copies thereof as requested by the Secretary incident to the functions transferred.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+All functions of the Secretary of the Treasury under this subtitle were transferred to the Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(C), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title, except that the Customs Service of the Department of the Treasury was to accept such deposits, bonds, or other security as deemed appropriate by the Secretary of Commerce, assess and collect such duties as directed by the Secretary of Commerce, and furnish such of its important records or copies thereof as requested by the Secretary incident to the functions transferred.
 
 #### Uruguay Round Agreements: Entry Into Force
 

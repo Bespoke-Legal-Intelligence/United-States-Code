@@ -14,9 +14,13 @@
 
 (g) Each officer who is considered but not recommended for continuation on active duty under the provisions of this section shall, unless retired under some other provision of law, be retired on June 30 of the promotion year in which the report of the continuation board convened under this section is approved, or the last day of the month in which he completes twenty years of active service, whichever is later.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 186; amended Pub. L. 94–546, §1(26), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–417, §2(8), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–225, title II, §203(3), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 104–324, title II, §203, Oct. 19, 1996, 110 Stat. 3907.)
+(h) Notwithstanding subsection (g) and section 288 of this title, the Commandant may by annual action retain on active duty from promotion year to promotion year any officer who would otherwise be retired under subsection (g) or section 288 of this title. An officer so retained, unless retired under some other provision of law, shall be retired on June 30 of that promotion year in which no action is taken to further retain the officer under this subsection.
+
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 186; amended Pub. L. 94–546, §1(26), Oct. 18, 1976, 90 Stat. 2521; Pub. L. 97–417, §2(8), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–225, title II, §203(3), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 104–324, title II, §203, Oct. 19, 1996, 110 Stat. 3907; Pub. L. 107–295, title IV, §414, Nov. 25, 2002, 116 Stat. 2120.)
 
 #### Amendments
+
+2002—Subsec. (h). Pub. L. 107–295 added subsec. (h).
 
 1996—Subsec. (f). Pub. L. 104–324 struck out “Upon approval by the President, the names of the officers selected for continuation on active duty by the board shall be promptly disseminated to the service at large.” after “for his approval.”
 

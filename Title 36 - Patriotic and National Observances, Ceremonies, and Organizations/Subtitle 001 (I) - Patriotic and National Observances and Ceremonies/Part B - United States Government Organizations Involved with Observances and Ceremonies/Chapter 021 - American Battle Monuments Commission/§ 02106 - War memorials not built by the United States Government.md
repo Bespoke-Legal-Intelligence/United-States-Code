@@ -12,7 +12,7 @@ Control, Administration, and Maintenance of War Memorials.—(1) The Commission 
 
 &emsp;(B) the sponsors of the memorial consent to the Commission assuming those responsibilities and transfer to the Commission all their rights and interests in the memorial.
 
-(2) If reasonable effort fails to locate the sponsors of a memorial, the Commission may assumeresponsibility for the memorial under this subsection by agreement with the appropriate foreign authorities. A decision of the Commission to assume responsibility for a war memorial under this subsection is final.
+(2) If reasonable effort fails to locate the sponsors of a memorial, the Commission may assume responsibility for the memorial under this subsection by agreement with the appropriate foreign authorities. A decision of the Commission to assume responsibility for a war memorial under this subsection is final.
 
 (3) Sponsors of a war memorial for which the Commission assumes responsibility under this subsection may transfer amounts accumulated to maintain and repair the memorial to the Commission for use in carrying out this chapter. Except as provided in subsection (c) of this section, the Commission shall deposit transferred amounts as provided in section 2103(e) of this title.
 
@@ -22,7 +22,7 @@ Arrangements for Repair or Long-Term Maintenance of Memorials.—In assuming res
 
 (d)
 
-Fund for Arrangements for Repair or Long-Term Maintenance of Memorials.—(1) There is a fund in the Treasury that is available to the Commission for expenses of repair and long-term maintenance of memorials for which the Commission has made arrangements under subsection (c) of this section. The fund consists of—
+Fund for Arrangements for Repair or Long-Term Maintenance of Memorials.—(1) There is a fund in the Treasury that is available to the Commission for expenses of repair and long-term maintenance of memorials for which the Commission has made arrangements undersubsection (c) of this section. The fund consists of—
 
 &emsp;(A) amounts deposited into, and interest and proceeds credited to, the fund under paragraph (2) of this subsection; and
 

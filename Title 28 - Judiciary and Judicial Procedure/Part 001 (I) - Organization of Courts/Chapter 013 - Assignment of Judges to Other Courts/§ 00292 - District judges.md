@@ -38,15 +38,15 @@ Many changes were made in phraseology.
 
 #### Amendments
 
-<b>1982</b>—Subsec. (e). Pub. L. 97–164 struck out “the Court of Claims, the Court of Customs and Patent Appeals or” after “to serve as a judge of” and “in which the need arises” after “chief judge of the court”.
+1982—Subsec. (e). Pub. L. 97–164 struck out “the Court of Claims, the Court of Customs and Patent Appeals or” after “to serve as a judge of” and “in which the need arises” after “chief judge of the court”.
 
-<b>1980</b>—Subsec. (e). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+1980—Subsec. (e). Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-<b>1978</b>—Subsecs. (b), (d). Pub. L. 95–598 directed the amendment of subsec. (b) by substituting “to hold a district court or a bankruptcy court” for “to hold a district court” and the amendment of subsec. (d) by substituting “in a bankruptcy court, district court, or court of appeals” for “either in a district court or court of appeals”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Subsecs. (b), (d). Pub. L. 95–598 directed the amendment of subsec. (b) by substituting “to hold a district court or a bankruptcy court” for “to hold a district court” and the amendment of subsec. (d) by substituting “in a bankruptcy court, district court, or court of appeals” for “either in a district court or court of appeals”, which amendments did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<b>1970</b>—Subsecs. (c) to (e). Pub. L. 91–358 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
+1970—Subsecs. (c) to (e). Pub. L. 91–358 added subsec. (c) and redesignated former subsecs. (c) and (d) as (d) and (e), respectively.
 
-<b>1958</b>—Subsecs. (a) to (c). Pub. L. 85–755 reenacted subsecs. (a) to (c) without change.
+1958—Subsecs. (a) to (c). Pub. L. 85–755 reenacted subsecs. (a) to (c) without change.
 
 Subsec. (d). Pub. L. 85–755 incorporated provisions for assignment of district judges to the Court of Customs and Patent Appeals and the Customs Court, formerlycontained in section 293 of this title and subsec. (f) of this section.
 
@@ -54,13 +54,13 @@ Subsec. (e). Pub. L. 85–755 struck out subsec. (e) which provided for assignme
 
 Subsec. (f). Pub. L. 85–755 struck out subsec. (f) which provided for assignment of district judges to the Customs Court. See subsec. (d) of this section.
 
-<b>1956</b>—Subsec. (e). Act July 9, 1956, added subsec. (e).
+1956—Subsec. (e). Act July 9, 1956, added subsec. (e).
 
 Subsec. (f). Act July 14, 1956, added subsec. (f).
 
-<b>1954</b>—Subsec. (d). Act Sept. 3, 1954, struck out “United States” from name of Court of Claims.
+1954—Subsec. (d). Act Sept. 3, 1954, struck out “United States” from name of Court of Claims.
 
-<b>1953</b>—Subsec. (d). Act July 28, 1953, added subsec. (d).
+1953—Subsec. (d). Act July 28, 1953, added subsec. (d).
 
 #### Effective Date of 1982 Amendment
 

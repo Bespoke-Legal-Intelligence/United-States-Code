@@ -4,7 +4,7 @@
 
 &emsp;(1) by rail carriers and lessors, including records related to movement of traffic and receipts and expenditures of money; and
 
-&emsp;(2) by persons furnishing cars to or for a rail carrier providing transportation subject to the jurisdiction of the Board under this part to the extent related to those cars or that service.
+&emsp;(2) by persons furnishing cars to or for a rail carrier providing transportation subject to thejurisdiction of the Board under this part to the extent related to those cars or that service.
 
 (b) The Board, or an employee designated by the Board, may on demand and display of proper credentials—
 

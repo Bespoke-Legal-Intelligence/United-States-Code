@@ -1,6 +1,6 @@
 ### §8626. Payments to States; fiscal year requirements respecting availability, etc.
 
-(a)(1) From its allotment under section 8623 of this title, the Secretary shall make payments to each State in accordance with section 6503(a) of title 31, for use under this subchapter.
+(a)(1) From its allotment under section 8623 of this title, the Secretary shall make payments toeach State in accordance with section 6503(a) of title 31, for use under this subchapter.
 
 (2) Each State shall notify the Secretary, not later than 2 months prior to the close of a fiscal year, of the amount (if any) of its allotment for such year that will not be obligated in such year, and, if such State elects to submit a request described in subsection (b)(2) of this section, such State shall submit such request at the same time. The Secretary shall make no payment under paragraph (1) to a State for a fiscal year unless the State has complied with this paragraph with respect to the prior fiscal year.
 
@@ -36,7 +36,7 @@ In subsec. (a)(1), “section 6503(a) of title 31” substituted for “section 
 
 #### Amendments
 
-1998—Subsec. (b)(2)(B). Pub. L. 105–285 struck out “and not transferred pursuant to section 8623(f) of thistitle” after “such prior fiscal year” in first sentence and “but not transferred by the State” after “the amount payable to a State” in second sentence.
+1998—Subsec. (b)(2)(B). Pub. L. 105–285 struck out “and not transferred pursuant to section 8623(f) of this title” after “such prior fiscal year” in first sentence and “but not transferred by the State” after “the amount payable to a State” in second sentence.
 
 1994—Subsec. (a). Pub. L. 103–252 designated existing provisions as par. (1) and added par. (2).
 

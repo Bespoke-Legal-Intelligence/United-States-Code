@@ -76,11 +76,11 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (A) Development
 
-&emsp;&emsp;Except as otherwise provided in this chapter, any public housing developed using amounts provided under this subsection, or under section 1437<i>l</i> of this title as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, shall be operated under the terms and conditions applicable to public housing during the 40-year period that begins on the date on which the project (or stage of the project) becomes available for occupancy.
+&emsp;&emsp;Except as otherwise provided in this chapter, any public housing developed usingamounts provided under this subsection, or under section 1437<i>l</i> of this title as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998, shall be operated under the terms and conditions applicable to public housing during the 40-year period that begins on the date on which the project (or stage of the project) becomes available for occupancy.
 
 #### (B) Modernization
 
-&emsp;&emsp;Except as otherwise provided in this chapter, any public housing or portion thereof that is modernized using amounts providedunder this subsection or under section 1437<i>l</i> of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998) shall be maintained and operated under the terms and conditions applicable to public housing during the 20-year period that begins on the latest date on which modernization is completed.
+&emsp;&emsp;Except as otherwise provided in this chapter, any public housing or portion thereof that is modernized using amounts provided under this subsection or under section 1437<i>l</i> of this title (as in effect before the effective date under section 503(a) of the Quality Housing and Work Responsibility Act of 1998) shall be maintained and operated under the terms and conditions applicable to public housing during the 20-year period that begins on the latest date on which modernization is completed.
 
 #### (C) Applicability of latest expiration date
 
@@ -136,7 +136,7 @@ Except as otherwise provided in the Quality Housing and Work Responsibility Act 
 
 #### (B) Incentive to increase certain rental income
 
-&emsp;&emsp;The formula shall provide an incentive to encourage public housing agencies to facilitate increases in earned income by families in occupancy. Any such incentive shall provide that the agency shall benefit from increases in such rental income and that such amounts accruing to the agency pursuant to such benefit may be used only for low-income housing or to benefit the residents of the public housing agency.
+&emsp;&emsp;The formula shall provide an incentive to encourage public housing agencies to facilitate increases in earned income by families in occupancy. Any such incentive shall provide that the agency shall benefit from increases in such rental income and that suchamounts accruing to the agency pursuant to such benefit may be used only for low-income housing or to benefit the residents of the public housing agency.
 
 #### (C) Treatment of savings
 
@@ -290,7 +290,7 @@ If a public housing agency uses proceeds from the sale of units under a homeowne
 
 #### (1) Set-asides
 
-&emsp;In each fiscal year after fiscal year 1999, the Secretary shall set aside, for use in accordancewith this subsection, not more than 2 percent of the total amount made available to carry out this section for such fiscal year. In addition to amounts set aside under the preceding sentence, in each fiscal year the Secretary may set from the total amount made available to carry out this section for such fiscal year not more than $20,000,000 for the Operation Safe Home program administered by the Office of the Inspector General of the Department of Housing and Urban Development, for law enforcement efforts to combat violent crime on or near the premises of public and federally assisted housing.
+&emsp;In each fiscal year after fiscal year 1999, the Secretary shall set aside, for use in accordance with this subsection, not more than 2 percent of the total amount made available to carry out this section for such fiscal year. In addition to amounts set aside under the preceding sentence, in each fiscal year the Secretary may set from the total amount made available to carry out this section for such fiscal year not more than $20,000,000 for the Operation Safe Home program administered by the Office of the Inspector General of the Department of Housing and Urban Development, for law enforcement efforts to combat violent crime on or near the premises of public and federally assisted housing.
 
 #### (2) Use of funds
 
@@ -352,7 +352,7 @@ A public housing agency that receives income from nonrental sources (as determin
 
 #### (2) Reduction of asthma incidence
 
-&emsp;Notwithstanding any other provision of this section, the New York City Housing Authority may, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>4</sup> $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
+&emsp;Notwithstanding any other provision of this section, the New York City Housing Authoritymay, in its sole discretion, from amounts provided from the Operating and Capital Funds, or from amounts provided for public housing before amounts are made available from such Funds, use not more than exceeding <sup>4</sup> $500,000 per year for the purpose of initiating, expanding or continuing a program for the reduction of the incidence of asthma among residents. The Secretary shall consult with the Administrator of the Environmental Protection Agency and the Secretary of Health and Human Services to identify and consider sources of funding for the reduction of the incidence of asthma among recipients of assistance under this subchapter.
 
 #### (3) Services for elderly residents
 
@@ -398,7 +398,7 @@ Subsec. (a)(3)(B)(i). Pub. L. 104–134 struck out “for a period not to exceed
 
 1992—Subsec. (a)(1)(B). Pub. L. 102–550, §673, designated existing provisions as cl. (i), redesignated former cls. (i) and (ii) as subcls. (I) and (II), respectively, substituted “this clause” for “this subparagraph”, inserted reference to section 8011 of this title and a period after “section 8013 of this title”, and added cl. (ii).
 
-Subsec. (a)(3)(A). Pub. L. 102–550, §114(b), inserted at end “Notwithstanding sections 583(a) and 585(a) of title5 (as added by section 3(a) of the Negotiated Rulemaking Act of 1990), any proposed regulation providing for amendment, alteration, adjustment, or other change to the performance funding system relating to vacant public housing units shall be issued pursuant to a negotiated rulemaking procedure under subchapter IV of chapter 5 of such title (as added by section 3(a) of the Negotiated Rulemaking Act of 1990), and the Secretary shall establish a negotiated rulemaking committee for development of any such proposed regulations.”
+Subsec. (a)(3)(A). Pub. L. 102–550, §114(b), inserted at end “Notwithstanding sections 583(a) and 585(a) of title 5 (as added by section 3(a) of the Negotiated Rulemaking Act of 1990), any proposed regulation providing for amendment, alteration, adjustment, or other change to the performance funding system relating to vacant public housing units shall be issued pursuant to a negotiated rulemaking procedure under subchapter IV of chapter 5 of such title (as added by section 3(a) of the Negotiated Rulemaking Act of 1990), and the Secretary shall establish a negotiated rulemaking committee for development of any such proposed regulations.”
 
 Subsec. (a)(3)(B)(i). Pub. L. 102–550, §114(c), inserted before semicolon at end “, and in subsequent years, if the energy savings are cost-effective, the Secretary may continue the sharing arrangement with the public housing agency for a period not to exceed 6 years”.
 
@@ -470,7 +470,7 @@ Transitional Provision of Assistance.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraph (2), before the implementation of formulas pursuant to sections 9(d)(2) and 9(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437g(d)(2), (e)(2)\] (as amended by subsection (a) of this section), the Secretary shall provide that each public housing agency shall receive funding under sections 9 and 14 of the United States Housing Act of 1937 \[42 U.S.C. 1437g, 1437<i>l</i>\], as those sections existed immediately before the enactment of this Act \[Oct. 21, 1998\] (except that such sections shall be subject to any amendments to such sections that may be contained in title II of this Act \[see Tables for classification\]).
+In general.—Subject to paragraph (2), before the implementation of formulas pursuant to sections 9(d)(2) and 9(e)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437g(d)(2), (e)(2)\] (as amended by subsection (a) of this section), the Secretary shall provide that each public housing agency shall receive funding under sections 9 and 14 of the United States Housing Act of 1937 \[42 U.S.C. 1437g, 1437<i>l</i>\], as those sections existed immediately before the enactment of this Act \[Oct. 21, 1998\] (except that such sections shall be subject to any amendments to such sectionsthat may be contained in title II of this Act \[see Tables for classification\]).
 
 &emsp;“(2)
 

@@ -30,7 +30,59 @@
 
 (b) For purposes of any pilot project conducted under subsection (a)(2), the Director may, after consultation with the agency head, waive the application of any administrative directive issued by an agency with which the project is conducted, including any directive requiring a collection of information, after giving timely notice to the public and the Congress regarding the need for such waiver.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 170; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275.)
+(c) <sup>1</sup>
+
+Inventory of Major Information Systems.—(1) The head of each agency shall develop and maintain an inventory of major information systems (including major national security systems) operated by or under the control of such agency.
+
+(2) The identification of information systems in an inventory under this subsection shall include an identification of the interfaces between each such system and all other systems or networks, including those not operated by or under the control of the agency.
+
+(3) Such inventory shall be—
+
+&emsp;(A) updated at least annually;
+
+&emsp;(B) made available to the Comptroller General; and
+
+&emsp;(C) used to support information resources management, including—
+
+&emsp;&emsp;(i) preparation and maintenance of the inventory of information resources under section 3506(b)(4);
+
+&emsp;&emsp;(ii) information technology planning, budgeting, acquisition, and management under section 3506(h), subtitle III of title 40, and related laws and guidance;
+
+&emsp;&emsp;(iii) monitoring, testing, and evaluation of information security controls under subchapter II;
+
+&emsp;&emsp;(iv) preparation of the index of major information systems required under section 552(g) of title 5, United States Code; and
+
+&emsp;&emsp;(v) preparation of information system inventories required for records management under chapters 21, 29, 31, and 33.
+
+(4) The Director shall issue guidance for and oversee the implementation of the requirements of this subsection.
+
+(c) <sup>1</sup>
+
+Inventory of Information Systems.—(1) The head of each agency shall develop and maintain an inventory of the information systems (including national security systems) operated by or under the control of such agency;
+
+(2) The identification of information systems in an inventory under this subsection shall include an identification of the interfaces between each such system and all other systems or networks, including those not operated by or under the control of the agency;
+
+(3) Such inventory shall be—
+
+&emsp;(A) updated at least annually;
+
+&emsp;(B) made available to the Comptroller General; and
+
+&emsp;(C) used to support information resources management, including—
+
+&emsp;&emsp;(i) preparation and maintenance of the inventory of information resources under section 3506(b)(4);
+
+&emsp;&emsp;(ii) information technology planning, budgeting, acquisition, and management under section 3506(h), subtitle III of title 40, and related laws and guidance;
+
+&emsp;&emsp;(iii) monitoring, testing, and evaluation of information security controls under subchapter II;
+
+&emsp;&emsp;(iv) preparation of the index of major information systems required under section 552(g) of title 5, United States Code; and
+
+&emsp;&emsp;(v) preparation of information system inventories required for records management under chapters 21, 29, 31, and 33.
+
+(4) The Director shall issue guidance for and oversee the implementation of the requirements of this subsection.
+
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 170; amended Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–296, title X, §1005(c)(2), Nov. 25, 2002, 116 Stat. 2272; Pub. L. 107–347, title III, §305(c)(2), Dec. 17, 2002, 116 Stat. 2961.)
 
 #### Prior Provisions
 
@@ -40,7 +92,15 @@ Another prior section 3505, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, proh
 
 #### Amendments
 
+2002—Subsec. (c). Pub. L. 107–347, added subsec. (c) relating to inventory of major information systems.
+
+Pub. L. 107–296 added subsec. (c) relating to inventory of information systems.
+
 2000—Subsec. (a). Pub. L. 106–398 substituted “subchapter” for “chapter” in introductory provisions and pars. (2) and (3)(B)(iii).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 2000 Amendment
 
@@ -48,5 +108,7 @@ Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see sectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3514 of this title.
+This section is referred to in sections 3514, 3534, 3544 of this title.
+
+<i><sup>1</sup></i><i> So in original. Two subsecs. (c) have been enacted.</i>
 

@@ -16,5 +16,5 @@ Section was formerly classified to section 671 of Title 31 prior to the general 
 
 #### Transfer of Functions
 
-“General Accounting Office” substituted in text for “accounting officers of the Treasury” pursuant to act June 10, 1921, which transferred powers and duties of Comptroller, six auditors, and certain other employees of the Treasury to General Accounting Office. See section 701 et seq. of Title 31, Money and Finance.
+“General Accounting Office” substituted in text for “accounting officers of the Treasury” pursuant to actJune 10, 1921, which transferred powers and duties of Comptroller, six auditors, and certain other employees of the Treasury to General Accounting Office. See section 701 et seq. of Title 31, Money and Finance.
 

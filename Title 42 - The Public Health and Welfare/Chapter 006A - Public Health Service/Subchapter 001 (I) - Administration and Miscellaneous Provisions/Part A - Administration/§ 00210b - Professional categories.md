@@ -10,7 +10,7 @@ Each officer of the Regular Corps on active duty shall, on the basis of his trai
 
 #### (c) Maximum number of officers in each category
 
-Within the limits fixed by the Secretary in regulations under section 207(d) of this title forany fiscal year, the Surgeon General shall determine for each category in the Regular Corps the maximum number of officers authorized to be in each of the grades from the warrant officer (W–1) grade to the director grade, inclusive.
+Within the limits fixed by the Secretary in regulations under section 207(d) of this title for any fiscal year, the Surgeon General shall determine for each category in the Regular Corps the maximum number of officers authorized to be in each of the grades from the warrant officer (W–1) grade to the director grade, inclusive.
 
 #### (d) Vacancies in grade for purposes of promotion
 

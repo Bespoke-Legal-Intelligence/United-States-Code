@@ -40,7 +40,7 @@ If the Secretary of the Army makes a determination pursuant to subsection (b) of
 
 (2) In conducting such review, the Secretary of the Army shall consult with all affected parties, including, but not limited to, the Secretary, the South Florida Water Management District and agricultural users within adjacent agricultural areas.
 
-(3) If, on the basis of such review, the Secretary of the Army determines that an adjacentagricultural area has been, or will be adversely affected, the Secretary of the Army is authorized and directed, in accordance with the provisions of subsection (d) of this section, to construct a flood protection system for such area: <i>Provided</i>, That the provisions of subsection (d)(2) of this section shall be applicable only to the extent that the Secretary, in consultation with the Secretary of the Army, determines that the park will not be adversely affected.
+(3) If, on the basis of such review, the Secretary of the Army determines that an adjacent agricultural area has been, or will be adversely affected, the Secretary of the Army is authorized and directed, in accordance with the provisions of subsection (d) of this section, to construct a flood protection system for such area: <i>Provided</i>, That the provisions of subsection (d)(2) of this section shall be applicable only to the extent that the Secretary, in consultation with the Secretary of the Army, determines that the park will not be adversely affected.
 
 (4) The provisions of this subsection shall only be applicable if the Secretary of the Army has previously made a determination that such adjacent agricultural area will not be adversely affected.
 

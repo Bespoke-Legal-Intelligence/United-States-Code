@@ -4,7 +4,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 #### (a) Sale of inventory stock
 
-(1) The producer-owned cooperative marketing association that has entered into a loan agreement with the Commodity Credit Corporation to make price support available to producers of Flue-cured tobacco shall offer to sell the stocks of Flue-cured tobacco of the association from the 1976 through 1984 crops as provided in this section.
+(1) The producer-owned cooperative marketing association that has entered into a loan agreement with the Commodity Credit Corporation to make price support available to producers of Flue-cured tobacco shall offer to sell the stocks of Flue-cured tobacco of the association fromthe 1976 through 1984 crops as provided in this section.
 
 (2) Each producer-owned cooperative marketing association that has entered into a loan agreement with the Commodity Credit Corporation to make price support available to producers of Burley tobacco shall offer to sell its stocks of Burley tobacco from the 1982 and 1984 crops as provided in this section.
 
@@ -40,7 +40,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 (1)(A) Each domestic manufacturer of cigarettes may enter into agreements to purchase inventory stocks of Flue-cured and Burley tobacco, in accordance with this section.
 
-(B) To be eligible for the reductions in price specified in this section, such manufacturer shall enter into such agreements as soon as practicable, but not later than 90 days after April 7, 1986, except that, with respect to the 1983 crop of Burley tobacco, if the Corporation offers to sell the stocks of such tobacco pursuant to subsection (b)(3)(A) of this section, such agreements shall be entered into as soon aspracticable, but not later than 90 days after the end of the 2-year period referred to in subsection (a)(3)(B) of this section.
+(B) To be eligible for the reductions in price specified in this section, such manufacturer shall enter into such agreements as soon as practicable, but not later than 90 days after April 7, 1986, except that, with respect to the 1983 crop of Burley tobacco, if the Corporation offers to sell the stocks of such tobacco pursuant to subsection (b)(3)(A) of this section, such agreements shall be entered into as soon as practicable, but not later than 90 days after the end of the 2-year period referred to in subsection (a)(3)(B) of this section.
 
 (C)(i) Such agreements shall provide that, over a period of time, each participating domestic manufacturer of cigarettes shall purchase a percentage of the stocks of Flue-cured and Burley tobacco held—
 
@@ -56,7 +56,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 &emsp;(III) in the case of the 1983 crop of Burley tobacco, 5 years from the end of the 2-year period referred to in subsection (a)(3)(B) of this section.
 
-(2)(A)(i) The percentage to be purchased by each participating manufacturer shall be at least equal to the respective percentage of the participating manufacturer of the total quantity of net cigarettes manufactured for use as determined by the Secretary of Agriculture under this paragraph on the basis of the monthly reports (“Manufacturer of Tobacco Products—Monthly Reports”) submitted (on ATF Form 3068) by manufacturers of tobacco products to the Bureau of Alcohol, Tobacco and Firearms of the Department of the Treasury.
+(2)(A)(i) The percentage to be purchased by each participating manufacturer shall be at least equal to the respective percentage of the participating manufacturer of the total quantity of net cigarettes manufactured for use as determined by the Secretary of Agriculture under this paragraph on the basis of the monthly reports (“Manufacturer of Tobacco Products—Monthly Reports”) submitted by manufacturers of tobacco products to the Tax and Trade Bureau of the Department of the Treasury.
 
 (ii) The Secretary of Agriculture shall request from the Secretary of the Treasury copies of such monthly reports necessary to make the determinations required under this section.
 
@@ -122,7 +122,7 @@ Notwithstanding any other provision of law, in order to reduce or eliminate the 
 
 The limitations on disclosure set forth in subsections (c) and (d) of section 1314g of this title shall apply to information submitted by domestic manufacturers of cigarettes under this section with respect to net cigarettes manufactured for use, including information provided on ATF Form 3068. Any officer or employee of the Department of Agriculture who violates such limitations on disclosure shall be subject to the penalties set forth in section 1314g(c)(4) of this title.
 
-(Pub. L. 99–272, title I, §1109, Apr. 7, 1986, 100 Stat. 95.)
+(Pub. L. 99–272, title I, §1109, Apr. 7, 1986, 100 Stat. 95; Pub. L. 107–296, title XI, §1112(b), Nov. 25, 2002, 116 Stat. 2276.)
 
 #### References in Text
 
@@ -131,6 +131,14 @@ This subtitle, referred to in subsecs. (c)(3) and (d)(2)(A)(ii), is subtitle B (
 #### Codification
 
 Section was enacted as part of the Consolidated Omnibus Budget Reconciliation Act of 1985, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+
+#### Amendments
+
+2002—Subsec. (c)(2)(A)(i). Pub. L. 107–296 substituted “by manufacturers of tobacco products to the Tax and Trade Bureau” for “(on ATF Form 3068) by manufacturers of tobacco products to the Bureau of Alcohol, Tobacco and Firearms”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Rulemaking Procedures
 

@@ -36,7 +36,7 @@ The purpose <sup>2</sup> of this chapter, which shall be carried out in a manne
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, as amended, known as the Powerplant and Industrial Fuel Use Act of 1978, which enacted this chapter, amended sections 6211 and 7193 of this title, section 796 of Title 15, Commerce and Trade, section 1202 of Title 19, Customs Duties, sections 821, 822, and 825 of Title 45, Railroads, and section 26b of former Title 49, Transportation, and enacted provisions set out as notes under this section and section 822 of Title 45. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–620, Nov. 9, 1978, 92 Stat. 3289, as amended, known as the Powerplant and Industrial Fuel Use Act of 1978, which enacted this chapter, amended sections 6211 and 7193 of this title, section 796 of Title 15, Commerce and Trade, section 1202 of Title 19, Customs Duties, sections 821, 822, and 825 of Title 45, Railroads, and section 26b of former Title 49, Transportation, and enacted provisions set out as notes under this section and section 822 of Title 45. For completeclassification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Amendments
 

@@ -1,6 +1,0 @@
-### §120. Omitted
-
-#### Codification
-
-Section, act Aug. 30, 1890, ch. 837, §3, 26 Stat. 412, related to proceedings for acquisition of lands in District of Columbia. See notes set out under section 72 of this title.
-

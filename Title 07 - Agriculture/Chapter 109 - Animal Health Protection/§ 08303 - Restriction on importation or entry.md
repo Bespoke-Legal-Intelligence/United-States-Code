@@ -1,0 +1,64 @@
+### §8303. Restriction on importation or entry
+
+#### (a) In general
+
+With notice to the Secretary of the Treasury and public notice as soon as practicable, the Secretary may prohibit or restrict—
+
+&emsp;(1) the importation or entry of any animal, article, or means of conveyance, or use of any means of conveyance or facility, if the Secretary determines that the prohibition or restriction is necessary to prevent the introduction into or dissemination within the United States of any pest or disease of livestock;
+
+&emsp;(2) the further movement of any animal that has strayed into the United States if the Secretary determines that the prohibition or restriction is necessary to prevent the introduction into or dissemination within the United States of any pest or disease of livestock; and
+
+&emsp;(3) the use of any means of conveyance in connection with the importation or entry of livestock if the Secretary determines that the prohibition or restriction is necessary because the means of conveyance has not been maintained in a clean and sanitary condition or does not have accommodations for the safe and proper movement of livestock.
+
+#### (b) Regulations
+
+#### (1) Restrictions on import and entry
+
+&emsp;The Secretary may issue such orders and promulgate such regulations as are necessary to carry out subsection (a) of this section.
+
+#### (2) Post importation quarantine
+
+&emsp;The Secretary may promulgate regulations requiring that any animal imported or entered be raised or handled under post-importation quarantine conditions by or under the supervision of the Secretary for the purpose of determining whether the animal is or may be affected by any pest or disease of livestock.
+
+#### (c) Destruction or removal
+
+#### (1) In general
+
+&emsp;The Secretary may order the destruction or removal from the United States of—
+
+&emsp;&emsp;(A) any animal, article, or means of conveyance that has been imported but has not entered the United States if the Secretary determines that destruction or removal from the United States is necessary to prevent the introduction into or dissemination within the United States of any pest or disease of livestock;
+
+&emsp;&emsp;(B) any animal or progeny of any animal, article, or means of conveyance that has been imported or entered in violation of this chapter; or
+
+&emsp;&emsp;(C) any animal that has strayed into the United States if the Secretary determines that destruction or removal from the United States is necessary to prevent the introduction into or dissemination within the United States of any pest or disease of livestock.
+
+#### (2) Requirements of owners
+
+#### (A) Orders to disinfect
+
+&emsp;&emsp;The Secretary may require the disinfection of—
+
+&emsp;&emsp;&emsp;(i) a means of conveyance used in connection with the importation of an animal;
+
+&emsp;&emsp;&emsp;(ii) an individual involved in the importation of an animal and personal articles of the individual; and
+
+&emsp;&emsp;&emsp;(iii) any article used in the importation of an animal.
+
+#### (B) Failure to comply with orders
+
+&emsp;&emsp;If an owner fails to comply with an order of the Secretary under this section, the Secretary may—
+
+&emsp;&emsp;&emsp;(i) take remedial action, destroy, or remove from the United States the animal or progeny of any animal, article, or means of conveyance as authorized under paragraph (1); and
+
+&emsp;&emsp;&emsp;(ii) recover from the owner the costs of any care, handling, disposal, or other action incurred by the Secretary in connection with the remedial action, destruction, or removal.
+
+(Pub. L. 107–171, title X, §10404, May 13, 2002, 116 Stat. 496.)
+
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8317 of this title.
+

@@ -10,7 +10,3 @@ Based on title 18, U.S.C., 1940 ed., §§618, 619 (June 15, 1917, ch. 30, title 
 
 Said sections 618 and 619 were consolidated with minor changes in phraseology but without change of substance.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
-

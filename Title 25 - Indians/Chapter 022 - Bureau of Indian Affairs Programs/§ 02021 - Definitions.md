@@ -60,7 +60,7 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (12) Inherently Federal functions
 
-&emsp;The term “inherently Federal functions” means functions and responsibilities which,under section 2006(c) of this title, are noncontractable, including—
+&emsp;The term “inherently Federal functions” means functions and responsibilities which, under section 2006(c) of this title, are noncontractable, including—
 
 &emsp;&emsp;(A) the allocation and obligation of Federal funds and determinations as to the amounts of expenditures;
 
@@ -104,7 +104,7 @@ For the purposes of this chapter, unless otherwise specified:
 
 #### (B) Rule of construction
 
-&emsp;&emsp;Nothing in subparagraph (A) or any other provision of this chapter shall be construed to prohibit the Secretary from issuing guidance, internal directives, or other documents similar to the documents found in the Indian Affairs Manual of the Bureau of Indian Affairs.
+&emsp;&emsp;Nothing in subparagraph (A) or any other provision of this chapter shall be construedto prohibit the Secretary from issuing guidance, internal directives, or other documents similar to the documents found in the Indian Affairs Manual of the Bureau of Indian Affairs.
 
 #### (17) Secretary
 
@@ -138,7 +138,7 @@ The Alaska Native Claims Settlement Act, referred to in par. (20), is Pub. L. 92
 
 #### Prior Provisions
 
-A prior section 2021, Pub. L. 95–561, title XI, §1141, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108Stat. 4012, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
+A prior section 2021, Pub. L. 95–561, title XI, §1141, as added Pub. L. 103–382, title III, §381, Oct. 20, 1994, 108 Stat. 4012, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 107–110. See section 2012 of this title.
 
 Another prior section 2021, Pub. L. 95–561, title XI, §1140A, formerly §1141, as added Pub. L. 98–511, title V, §512, Oct. 19, 1984, 98 Stat. 2398; renumbered §1140A and amended Pub. L. 99–89, §9(a)(1), (b), Aug. 15, 1985, 99 Stat. 383, related to proration of pay, prior to the general amendment of this chapter by Pub. L. 103–382.
 

@@ -2,7 +2,7 @@
 
 (a) In any action filed pursuant to section 111(c)(3), the following remedies shall be available:
 
-&emsp;(1) Where an action is brought by a party identified in subsections (b) or (c) of section 501, the remedies provided by sections 502 through 505, and the remedy provided by subsection (b) of this section; and
+&emsp;(1) Where an action is brought by a party identified in subsections (b) or (c) of section501, the remedies provided by sections 502 through 505, and the remedy provided by subsection (b) of this section; and
 
 &emsp;(2) When an action is brought by a party identified in subsection (d) of section 501, the remedies provided by sections 502 and 505, together with any actual damages suffered by such party as a result of the infringement, and the remedy provided by subsection (b) of this section.
 

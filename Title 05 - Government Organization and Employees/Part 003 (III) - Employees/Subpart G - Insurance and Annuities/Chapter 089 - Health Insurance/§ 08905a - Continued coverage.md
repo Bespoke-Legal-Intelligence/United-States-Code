@@ -70,7 +70,7 @@
 
 (B) For the purpose of this paragraph, members of an individual's family shall be determined in the same way as would apply under this chapter in the case of an enrolled employee.
 
-(C) Nothing in this paragraph shall be considered to limit an individual making an electionunder subsection (c)(2)(A) to coverage for self alone.
+(C) Nothing in this paragraph shall be considered to limit an individual making an election under subsection (c)(2)(A) to coverage for self alone.
 
 (4)(A) If the basis for continued coverage under this section is an involuntary separation from a position, or a voluntary separation from a surplus position, in or under the Department of Defense due to a reduction in force, or the Department of Energy due to a reduction in force resulting from the establishment of the National Nuclear Security Administration—
 
@@ -80,9 +80,9 @@
 
 (B) This paragraph shall apply with respect to any individual whose continued coverage is based on a separation occurring on or after the date of enactment of this paragraph and before—
 
-&emsp;(i) October 1, 2003; or
+&emsp;(i) October 1, 2006; or
 
-&emsp;(ii) February 1, 2004, if specific notice of such separation was given to such individual before October 1, 2003.
+&emsp;(ii) February 1, 2007, if specific notice of such separation was given to such individual before October 1, 2006.
 
 (C) For the purpose of this paragraph, “surplus position” means a position which is identified in pre-reduction-in-force planning as no longer required, and which is expected to be eliminated under formal reduction-in-force procedures.
 
@@ -134,11 +134,11 @@
 
 &emsp;(A) who becomes eligible for continued coverage under this subsection based on a divorce, annulment, or legal separation from a person who, as of the day before the date of the divorce, annulment, or legal separation (as the case may be) was receiving continued coverage under this section for self and family based on such person's separation from service; and
 
-&emsp;(B) whose divorce, annulment, or legal separation (as the case may be) occurs before the end of the 18-month period beginning on thedate of the separation from service referred to in subparagraph (A),
+&emsp;(B) whose divorce, annulment, or legal separation (as the case may be) occurs before the end of the 18-month period beginning on the date of the separation from service referred to in subparagraph (A),
 
 > extended coverage under this section may not extend beyond the date which is 36 months after the date of the separation from service, as referred to in subparagraph (A).
 
-(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–459.)
+(Added Pub. L. 100–654, title II, §201(a)(1), Nov. 14, 1988, 102 Stat. 3841; amended Pub. L. 102–484, div. D, title XLIV, §4438(a), Oct. 23, 1992, 106 Stat. 2725; Pub. L. 103–337, div. A, title III, §341(d), Oct. 5, 1994, 108 Stat. 2720; Pub. L. 104–106, div. A, title X, §1036, Feb. 10, 1996, 110 Stat. 431; Pub. L. 106–65, div. A, title XI, §1104(c), div. C, title XXXII, §3244, Oct. 5, 1999, 113 Stat. 777, 965; Pub. L. 106–117, title XI, §1106, Nov. 30, 1999, 113 Stat. 1598; Pub. L. 106–398, §1 \[div. C, title XXXI, §3136(h)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–459; Pub. L. 107–314, div. A, title XI, §1103, Dec. 2, 2002, 116 Stat. 2661.)
 
 #### References in Text
 
@@ -147,6 +147,10 @@ The date of enactment of this paragraph, referred to in subsec. (d)(4)(B), is th
 The date of the enactment of this paragraph, referred to in subsec. (d)(5)(B), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
 
 #### Amendments
+
+2002—Subsec. (d)(4)(B)(i). Pub. L. 107–314, §1103(1), substituted “2006” for “2003”.
+
+Subsec. (d)(4)(B)(ii). Pub. L. 107–314, §1103(2), substituted “2007” and “2006” for “2004” and “2003”, respectively.
 
 2000—Subsec. (d)(5)(A). Pub. L. 106–398, in introductory provisions, inserted “, or a voluntary or involuntary separation from a Department of Energy position at a Department of Energy facility at which the Secretary is carrying out a closure project selected under section 3143 of the National Defense Authorization Act for Fiscal Year 1997 (42 U.S.C. 7274n)” after “readjustment”.
 

@@ -70,7 +70,7 @@ In general.—Except as otherwise provided by this section, the transfer pursuan
 
 &emsp;“(2)
 
-Executive schedule positions.—Except as otherwise provided in this section, any person who,on the day preceding the effective date of this section \[Sept. 30, 1996\], held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, United States Code, and who, without a break in service, is appointed in the Institute of Museum and Library Services to a position having duties comparable to the duties performed immediately preceding such appointment shall continue to be compensated in such new position at not less than the rate provided for such previous position, for the duration of the service of such person in such new position.
+Executive schedule positions.—Except as otherwise provided in this section, any person who, on the day preceding the effective date of this section \[Sept. 30, 1996\], held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, United States Code, and who, without a break in service, is appointed in the Institute of Museum and Library Services to a position having duties comparable to the duties performed immediately preceding such appointment shall continue to be compensated in such new position at not less than the rate provided for such previous position, for the duration of the service of such person in such new position.
 
 “(j)
 
@@ -82,7 +82,7 @@ Continuing effect of legal documents.—All orders, determinations, rules, regul
 
 &emsp;&emsp;“(A) that have been issued, made, granted, or allowed to become effective by the President, any Federal agency or official of a Federal agency, or by a court of competent jurisdiction, in the performance of functions that are transferred under this section; and
 
-&emsp;&emsp;“(B) that were in effect before the effective date of this section \[Sept. 30, 1996\], or were final before the effective date of this section and are to become effective on or after the effective date of this section;
+&emsp;&emsp;“(B) that were in effect before the effective date of this section \[Sept. 30, 1996\], or were final beforethe effective date of this section and are to become effective on or after the effective date of this section;
 
 > &emsp;shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the President, the Director of the Institute of Museum and Library Services or other authorized official, a court of competent jurisdiction, or by operation of law.
 

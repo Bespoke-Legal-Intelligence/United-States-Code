@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—There are authorized to be appropriated for fiscal years 2002, 2003, 2004, and2005 such sums as may be necessary to carry out chapter 449 and related aviation security activities under this title. Any amounts appropriated pursuant to this section for fiscal year 2002 shall remain available until expended.
+In General.—There are authorized to be appropriated for fiscal years 2002, 2003, 2004, and 2005 such sums as may be necessary to carry out chapter 449 and related aviation security activities under this title. Any amounts appropriated pursuant to this section for fiscal year 2002 shall remain available until expended.
 
 (b)
 

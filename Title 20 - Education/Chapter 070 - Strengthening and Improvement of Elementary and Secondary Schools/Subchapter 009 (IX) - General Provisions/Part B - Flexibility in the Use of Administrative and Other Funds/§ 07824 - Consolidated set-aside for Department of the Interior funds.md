@@ -22,7 +22,7 @@
 
 #### (b) Administration
 
-The Department of the Interior may use not more than 1.5 percent of the funds consolidated under this section for its costs related to the administration of the funds transferred under this section.
+The Department of the Interior may use not more than 1.5 percent of the funds consolidatedunder this section for its costs related to the administration of the funds transferred under this section.
 
 (Pub. L. 89–10, title IX, §9204, as added Pub. L. 107–110, title IX, §901, Jan. 8, 2002, 115 Stat. 1968.)
 

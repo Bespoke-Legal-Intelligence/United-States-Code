@@ -12,7 +12,7 @@ In reviewing applications submitted under section 12655b of this title that prop
 
 A program carried out with assistance provided under this division for conservation, rehabilitation, or improvement of any public lands or Indian lands shall be consistent with—
 
-&emsp;(1) the provisions of law and policies relating to the management and administration of such lands, and all other applicable provisions of law; and
+&emsp;(1) the provisions of law and policies relating to the management and administration ofsuch lands, and all other applicable provisions of law; and
 
 &emsp;(2) all management, operational, and other plans and documents that govern the administration of such lands.
 

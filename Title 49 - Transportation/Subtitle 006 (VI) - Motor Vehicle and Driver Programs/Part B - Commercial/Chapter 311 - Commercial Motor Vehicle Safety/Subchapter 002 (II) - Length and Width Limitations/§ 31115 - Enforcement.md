@@ -1,6 +1,6 @@
 ### §31115. Enforcement
 
-On the request of the Secretary of Transportation, the Attorney General shall bring a civilaction for appropriate injunctive relief to ensure compliance with this subchapter or subchapter I of this chapter. The action may be brought in a district court of the United States in any State in which the relief is required. On a proper showing, the court shall issue a temporary restraining order or preliminary or permanent injunction. An injunction under this section may order a State or person to comply with this subchapter, subchapter I, or a regulation prescribed under this subchapter or subchapter I.
+On the request of the Secretary of Transportation, the Attorney General shall bring a civil action for appropriate injunctive relief to ensure compliance with this subchapter or subchapter I of this chapter. The action may be brought in a district court of the United States in any State in which the relief is required. On a proper showing, the court shall issue a temporary restraining order or preliminary or permanent injunction. An injunction under this section may order a State or person to comply with this subchapter, subchapter I, or a regulation prescribed under this subchapter or subchapter I.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 999.)
 

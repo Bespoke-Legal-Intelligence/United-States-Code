@@ -22,9 +22,13 @@ An individual may not be given a limited appointment in the Senior Foreign Servi
 
 #### (d) Recertification process
 
-The Secretary shall by regulation establish a recertification process for members of the Senior Foreign Service that is equivalent to the recertification process for the Senior Executive Service under section 3393a of title 5.
+The Secretary shall by regulation establish a recertification process for members of the Senior Foreign Service that is equivalent to the recertification process for the Senior Executive Service under section 3393a of title 5.<sup>1</sup>
 
 (Pub. L. 96–465, title I, §305, Oct. 17, 1980, 94 Stat. 2086; Pub. L. 99–93, title I, §119(a), Aug. 16, 1985, 99 Stat. 412; Pub. L. 101–194, title V, §506(c)(1), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 101–280, §6(d)(3), May 4, 1990, 104 Stat. 160.)
+
+#### References in Text
+
+Section 3393a of title 5, referred to in subsec. (d), was repealed by Pub. L. 107–296, title XIII, §1321(a)(1)(B), Nov. 25, 2002, 116 Stat. 2296.
 
 #### Amendments
 
@@ -48,11 +52,7 @@ Section effective Feb. 15, 1981, with an exception that appointments to the Seni
 
 #### Placement of Senior Foreign Service Personnel
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §324\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437, provided that: “The Director General of the Foreign Service shall submit a report on the first day of each fiscal quarter to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] containing the following:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §324\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437, required the Director General of the Foreign Service to submit a report on the first day of each fiscal quarter to the appropriate congressional committees containing the number of members of the Senior Foreign Service, the number of vacant positions designated for such members, and the number of those members not assigned to positions, prior to repeal by Pub. L. 107–228, div. A, title VI, §671(4), Sept. 30, 2002, 116 Stat. 1407.
 
-&emsp;“(1) The number of members of the Senior Foreign Service.
-
-&emsp;“(2) The number of vacant positions designated for members of the Senior Foreign Service.
-
-&emsp;“(3) The number of members of the Senior Foreign Service who are not assigned to positions.”
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

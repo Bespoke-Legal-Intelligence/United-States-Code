@@ -50,3 +50,7 @@ Committee on Education and Labor of House of Representatives treated as referrin
 
 Section 302(c) of Pub. L. 92–318 provided that: “The provisions of section 421(c) \[now 430(c)\] of the General Education Provisions Act \[subsec. (c) of this section\] shall be effective upon the date of enactment of this Act \[June 23, 1972\]. No provision of any law which is inconsistent with such section 421(c) shall be effective nor shall any such provision control to the extent of such inconsistency, unless such a law is enacted after the date of enactment of this Act.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 9518 of this title.
+

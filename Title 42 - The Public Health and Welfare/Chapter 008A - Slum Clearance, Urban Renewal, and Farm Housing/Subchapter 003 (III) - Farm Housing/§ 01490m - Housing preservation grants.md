@@ -194,5 +194,5 @@ Pub. L. 100–242, title III, §311, Feb. 5, 1988, 101 Stat. 1896, as amended by
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437f, 1479, 1483, 1490r, 4851b of this title; title 7 section 2204f.
+This section is referred to in sections 1437f, 1479, 1483, 1490r, 4851b of this title.
 

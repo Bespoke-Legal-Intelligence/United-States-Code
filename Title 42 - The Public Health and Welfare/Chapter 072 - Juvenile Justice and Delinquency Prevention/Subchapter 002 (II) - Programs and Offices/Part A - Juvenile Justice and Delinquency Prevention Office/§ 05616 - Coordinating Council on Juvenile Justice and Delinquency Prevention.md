@@ -2,7 +2,7 @@
 
 #### (a) Establishment; membership
 
-(1) There is hereby established, as an independent organization in the executive branch of the Federal Government a Coordinating Council on Juvenile Justice and Delinquency Prevention composed of the Attorney General, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Education, the Secretary of Housing and Urban Development, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Office of National Drug Control Policy, the Chief Executive Officer of the Corporation for National and Community Service, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2).
+(1) There is hereby established, as an independent organization in the executive branch of the Federal Government a Coordinating Council on Juvenile Justice and Delinquency Prevention composed of the Attorney General, the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Education, the Secretary of Housing and Urban Development, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Directorof the Office of National Drug Control Policy, the Chief Executive Officer of the Corporation for National and Community Service, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2).
 
 (2)(A) Nine members shall be appointed, without regard to political affiliation, to the Council in accordance with this paragraph from among individuals who are practitioners in the field of juvenile justice and who are not officers or employees of the United States.
 
@@ -36,9 +36,9 @@ The Attorney General shall serve as Chairman of the Council. The Administrator o
 
 (2) In addition to performing their functions as members of the Council, the members appointed under subsection (a)(2) of this section shall collectively—
 
-&emsp;(A) make recommendations regarding the development of the objectives, priorities, and the long-term plan, and the implementation of overall policy and the strategy to carry outsuch plan, referred to in section 5614(a)(1) of this title; and
+&emsp;(A) make recommendations regarding the development of the objectives, priorities, and the long-term plan, and the implementation of overall policy and the strategy to carry out such plan, referred to in section 5614(a)(1) of this title; and
 
-&emsp;(B) not later than 180 days after November 4, 1992, submit such recommendations to the Administrator, the Chairman of the Committee on Education and Labor of the House of Representatives, and the Chairman of the Committee on the Judiciary of the Senate.
+&emsp;(B) not later than 180 days after November 4, 1992, submit such recommendations to the Administrator, the Chairman of the Committee on Education and the Workforce of the House of Representatives, and the Chairman of the Committee on the Judiciary of the Senate.
 
 #### (d) Meetings
 
@@ -56,13 +56,15 @@ Members appointed under subsection (a)(2) of this section shall serve without co
 
 Of sums available to carry out this part, not more than $200,000 shall be available to carry out this section.
 
-(Pub. L. 93–415, title II, §206, Sept. 7, 1974, 88 Stat. 1116; Pub. L. 94–237, §4(c)(5)(D), Mar. 19, 1976, 90 Stat. 244; Pub. L. 95–115, §3(a)(3)(A), (5), (d), Oct. 3, 1977, 91 Stat. 1048–1050; Pub. L. 96–509, §§8, 19(f), Dec. 8, 1980, 94 Stat. 2753, 2763; Pub. L. 98–473, title II, §623, Oct. 12, 1984, 98 Stat. 2110; Pub. L. 100–690, title VII, §§7251(b), 7252(b)(2), 7254, Nov. 18, 1988, 102 Stat. 4435–4437; Pub. L. 102–586, §2(d), Nov. 4, 1992, 106 Stat. 4985; Pub. L. 103–82, title IV, §405(k), Sept. 21, 1993, 107 Stat. 922.)
+(Pub. L. 93–415, title II, §206, Sept. 7, 1974, 88 Stat. 1116; Pub. L. 94–237, §4(c)(5)(D), Mar. 19, 1976, 90 Stat. 244; Pub. L. 95–115, §3(a)(3)(A), (5), (d), Oct. 3, 1977, 91 Stat. 1048–1050; Pub. L. 96–509, §§8, 19(f), Dec. 8, 1980, 94 Stat. 2753, 2763; Pub. L. 98–473, title II, §623, Oct. 12, 1984, 98 Stat. 2110; Pub. L. 100–690, title VII, §§7251(b), 7252(b)(2), 7254, Nov. 18, 1988, 102 Stat. 4435–4437; Pub. L. 102–586, §2(d), Nov. 4, 1992, 106 Stat. 4985; Pub. L. 103–82, title IV, §405(k), Sept. 21, 1993, 107 Stat. 922; Pub. L. 107–273, div. C, title II, §12206, Nov. 2, 2002, 116 Stat. 1872.)
 
 #### Amendments
 
+2002—Subsec. (c)(2)(B). Pub. L. 107–273 substituted “Education and the Workforce” for “Education and Labor”.
+
 1993—Subsec. (a)(1). Pub. L. 103–82 substituted “the Chief Executive Officer of the Corporation for National and Community Service” for “the Director of the ACTION Agency”.
 
-1992—Subsec. (a)(1). Pub. L. 102–586, §2(d)(1)(A), substituted “the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the Office of National Drug Control Policy, the Director of the ACTION Agency, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2)” for “the Director of the Office of Community Services, the Director of the Office of Drug Abuse Policy, the Director of the ACTION Agency, the Director of the Bureau of Prisons, the Commissioner of the Bureau of Indian Affairs, the Director for the Office of Special Education and Rehabilitation Services, the Commissioner for the Administration for Children, Youth, and Families, and the Director of the Youth Development Bureau, or their respective designees, the Assistant Attorney General who heads the Office of Justice Programs, the Director of the Bureau of Justice Assistance, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the National Institute of Justice, and representatives of such other agencies as the President shall designate”.
+1992—Subsec. (a)(1). Pub. L. 102–586, §2(d)(1)(A), substituted “the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director ofthe Office of National Drug Control Policy, the Director of the ACTION Agency, the Commissioner of Immigration and Naturalization, such other officers of Federal agencies who hold significant decisionmaking authority as the President may designate, and individuals appointed under paragraph (2)” for “the Director of the Office of Community Services, the Director of the Office of Drug Abuse Policy, the Director of the ACTION Agency, the Director of the Bureau of Prisons, the Commissioner of the Bureau of Indian Affairs, the Director for the Office of Special Education and Rehabilitation Services, the Commissioner for the Administration for Children, Youth, and Families, and the Director of the Youth Development Bureau, or their respective designees, the Assistant Attorney General who heads the Office of Justice Programs, the Director of the Bureau of Justice Assistance, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Director of the National Institute of Justice, and representatives of such other agencies as the President shall designate”.
 
 Subsec. (a)(2). Pub. L. 102–586, §2(d)(1)(B), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Any individual designated under this section shall be selected from individuals who exercise significant decisionmaking authority in the Federal agency involved.”
 
@@ -86,7 +88,7 @@ Subsec. (e). Pub. L. 98–473, §623(c), substituted “the Administrator” for
 
 Subsec. (g). Pub. L. 98–473, §623(d), substituted “$200,000” for “$500,000”.
 
-1980—Subsec. (a)(1). Pub. L. 96–509, §§8(a), 19(f)(1), substituted “the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Education, the Secretary of Housing and Urban Development, the Director of the Community Services Administration, the Director of the Office of Drug Abuse Policy, the Director of the ACTION Agency, the Director of the Bureau of Prisons, the Commissioner of the Bureau of Indian Affairs, the Director of the Office of Special Education and Rehabilitation Services, the Commissioner for the Administration for Children, Youth, and Families, and the Director of the Youth Development Bureau, or their respective designees, the Director of the Office of Justice Assistance, Research and Statistics, the Administrator of the Law Enforcement Assistance Administration, the Administrator of the Office of JuvenileJustice and Delinquency Prevention, the Deputy Administrator of the Institute for Juvenile Justice and Delinquency Prevention, the Director of the National Institute of Justice, and representatives” for “the Secretary of Health, Education, and Welfare, the Secretary of Labor, the Director of the Office of Drug Abuse Policy, the Commissioner of the Office of Education, the Director of the ACTION Agency, the Secretary of Housing and Urban Development, or their respective designees, the Associate Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Deputy Associate Administrator of the Institute for Juvenile Justice and Delinquency Prevention, and representatives”.
+1980—Subsec. (a)(1). Pub. L. 96–509, §§8(a), 19(f)(1), substituted “the Secretary of Health and Human Services, the Secretary of Labor, the Secretary of Education, the Secretary of Housing and Urban Development, the Director of the Community Services Administration, the Director of the Office of Drug Abuse Policy, the Director of the ACTION Agency, the Director of the Bureau of Prisons, the Commissioner of the Bureau of Indian Affairs, the Director of the Office of Special Education and Rehabilitation Services, the Commissioner for the Administration for Children, Youth, and Families, and the Director of the Youth Development Bureau, or their respective designees, the Director of the Office of Justice Assistance, Research and Statistics, the Administrator of the Law Enforcement Assistance Administration, the Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Deputy Administrator of the Institute for Juvenile Justice and Delinquency Prevention, the Director of the National Institute of Justice, and representatives” for “the Secretary of Health, Education, and Welfare, the Secretary of Labor, the Director of the Office of Drug Abuse Policy, the Commissioner of the Office of Education, the Director of the ACTION Agency, the Secretary of Housing and Urban Development, or their respective designees, the Associate Administrator of the Office of Juvenile Justice and Delinquency Prevention, the Deputy Associate Administrator of the Institute for Juvenile Justice and Delinquency Prevention, and representatives”.
 
 Subsec. (b). Pub. L. 96–509, §19(f)(2), struck out “Associate” before “Administrator”.
 
@@ -110,9 +112,9 @@ Subsec. (e). Pub. L. 95–115, §3(d)(4), redesignated former par. (3) as entire
 
 1976—Subsec. (a)(1). Pub. L. 94–237 substituted “Office of Drug Abuse Policy” for “Special Action Office for Drug Abuse Prevention”.
 
-#### Change of Name
+#### Effective Date of 2002 Amendment
 
-Committee on Education and Labor of House of Representatives treated as referring to Committee on Economic and Educational Opportunities of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Economic and Educational Opportunities of House of Representatives changed to Committee on Education and the Workforce of House of Representatives by House Resolution No. 5, One Hundred Fifth Congress, Jan. 7, 1997.
+Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
 
 #### Effective Date of 1993 Amendment
 
@@ -133,6 +135,10 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of provisions in subsec. (c)(1) of this section relating to the Council making recommendations to Congress at least annually, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and item 1 on page 159 of House Document No. 103–7.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Section Referred to in Other Sections
 

@@ -4,5 +4,5 @@ Section, Pub. L. 93–618, title II, §263, Jan. 3, 1975, 88 Stat. 2034, contain
 
 #### Effective Date of Repeal
 
-Repeal effective Aug. 13, 1981, except as otherwise provided with respect to applications for adjustmentassistance, see section 2529 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2343 of this title.
+Repeal effective Aug. 13, 1981, except as otherwise provided with respect to applications for adjustment assistance, see section 2529 of Pub. L. 97–35, set out as an Effective Date of 1981 Amendment note under section 2343 of this title.
 

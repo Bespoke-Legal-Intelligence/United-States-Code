@@ -44,7 +44,7 @@ A State may use funds provided under this subchapter to provide vouchers, for se
 
 &emsp;&emsp;(B) a person who received such assistance at any time during the 10-month period ending with the birth of the child.
 
-(Aug. 14, 1935, ch. 531, title XX, §2002, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 867; amended Pub. L. 98–369, div. B, title VI, §2663(h)(1), July 18, 1984, 98 Stat. 1169; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–193, title IX, §908(b), Aug. 22, 1996, 110 Stat. 2351.)
+(Aug. 14, 1935, ch. 531, title XX, §2002, as added Pub. L. 97–35, title XXIII, §2352(a), Aug. 13, 1981, 95 Stat. 867; amended Pub. L. 98–369, div. B, titleVI, §2663(h)(1), July 18, 1984, 98 Stat. 1169; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–193, title IX, §908(b), Aug. 22, 1996, 110 Stat. 2351.)
 
 #### References in Text
 

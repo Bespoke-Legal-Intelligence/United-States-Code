@@ -20,11 +20,11 @@ Application.—
 
 (c)
 
-Alternative Program.—A State is eligible to receive a grant under section 6106 if the State maintains an alternative one-call notification program that provides protection for public safety, excavators, and the environment that is equivalent to, or greater than, protection provided under a program that meets the minimum standards set forth in section 6103.
+Alternative Program.—A State is eligible to receive a grant under section 6106 if the State maintains an alternative one-call notification program that provides protection for publicsafety, excavators, and the environment that is equivalent to, or greater than, protection provided under a program that meets the minimum standards set forth in section 6103.
 
 (d)
 
-Report.—Within 3 years after the date of the enactment of this chapter, the Secretary shall begin to include the following information in reports submitted under section 60124 of this title—
+Report.—The Secretary shall include the following information in reports submitted under section 60124 of this title—
 
 &emsp;(1) a description of the extent to which each State has adopted and implemented the minimum Federal standards under section 6103 or maintains an alternative program under subsection (c);
 
@@ -36,11 +36,15 @@ Report.—Within 3 years after the date of the enactment of this chapter, the Se
 
 > The report shall also include any recommendations the Secretary determines appropriate. If the Secretary determines that the purposes of this chapter have been substantially achieved, no further report under this section shall be required.
 
-(Added Pub. L. 105–178, title VII, §7302(a), June 9, 1998, 112 Stat. 479.)
+(Added Pub. L. 105–178, title VII, §7302(a), June 9, 1998, 112 Stat. 479; amended Pub. L. 107–355, §2(b), Dec. 17, 2002, 116 Stat. 2985.)
 
 #### References in Text
 
-The date of the enactment of this chapter, referred to in subsecs. (a) and (d), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+The date of the enactment of this chapter, referred to in subsec. (a), is the date of enactment of Pub. L. 105–178, which was approved June 9, 1998.
+
+#### Amendments
+
+2002—Subsec. (d). Pub. L. 107–355 substituted “The Secretary shall” for “Within 3 years after the date of the enactment of this chapter, the Secretary shall begin to” in introductory provisions.
 
 #### Section Referred to in Other Sections
 

@@ -52,5 +52,5 @@ Clause (4) is derived from the source provisions of the chapter and is included 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 40 App. section 474.
+This section is referred to in title 40 section 113.
 

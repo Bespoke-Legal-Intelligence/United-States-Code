@@ -234,7 +234,7 @@ Definitions.—In this section, the following definitions apply:
 
 &emsp;“(1)
 
-Letter of authorization.—The term ‘letter of authorization’ means a letter issued by the Administrator once every 5 years to an Alaska guide pilot certifying that the pilot is in compliance with general operating and flight rules applicable to the pilot. In the case of a multi-pilot operation, at the election of the operating entity, a letter of authorization may be issued by the Administrator to the entity or to each Alaska guide pilot employed by the entity.
+Letter of authorization.—The term ‘letter of authorization’ means a letter issued by the Administrator once every 5 years to an Alaska guide pilotcertifying that the pilot is in compliance with general operating and flight rules applicable to the pilot. In the case of a multi-pilot operation, at the election of the operating entity, a letter of authorization may be issued by the Administrator to the entity or to each Alaska guide pilot employed by the entity.
 
 &emsp;“(2)
 

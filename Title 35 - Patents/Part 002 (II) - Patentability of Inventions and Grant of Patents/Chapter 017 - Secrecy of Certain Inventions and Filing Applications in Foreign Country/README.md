@@ -4,12 +4,7 @@
 | :--- | ---: |
 | [181\.](%C2%A7%2000181%20-%20Secrecy%20of%20certain%20inventions%20and%20withholding%20of%20patent.md) | Secrecy of certain inventions and withholding of patent. |
 | [182\.](%C2%A7%2000182%20-%20Abandonment%20of%20invention%20for%20unauthorized%20disclosure.md) | Abandonment of invention for unauthorized disclosure. |
-| [183\.](%C2%A7%2000183%20-%20Right%20to%20compensation.md) | Right of compensation.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [183\.](%C2%A7%2000183%20-%20Right%20to%20compensation.md) | Right to compensation. |
 | [184\.](%C2%A7%2000184%20-%20Filing%20of%20application%20in%20foreign%20country.md) | Filing of application in foreign country. |
 | [185\.](%C2%A7%2000185%20-%20Patent%20barred%20for%20filing%20without%20license.md) | Patent barred for filing without license. |
 | [186\.](%C2%A7%2000186%20-%20Penalty.md) | Penalty. |
@@ -18,11 +13,13 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Amendments
+
+2002—Pub. L. 107–273, div. C, title III, §13206(a)(10), Nov. 2, 2002, 116 Stat. 1904, substituted “to” for “of” in item 183.
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 122, 368 of this title; title 42 sections 2457, 5908.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---

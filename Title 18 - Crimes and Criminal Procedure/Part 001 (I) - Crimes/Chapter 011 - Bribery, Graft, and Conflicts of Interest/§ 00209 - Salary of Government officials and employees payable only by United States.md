@@ -2,7 +2,7 @@
 
 (a) Whoever receives any salary, or any contribution to or supplementation of salary, as compensation for his services as an officer or employee of the executive branch of the United States Government, of any independent agency of the United States, or of the District of Columbia, from any source other than the Government of the United States, except as may be contributed out of the treasury of any State, county, or municipality; or
 
-Whoever, whether an individual, partnership, association, corporation, or other organization pays, or makes any contribution to, or in any way supplements the salary of, any such officer or employee under circumstances which would make its receipt a violation of this subsection—
+Whoever, whether an individual, partnership, association, corporation, or other organization pays, makes any contribution to, or in any way supplements, the salary of any such officer or employee under circumstances which would make its receipt a violation of this subsection—
 
 Shall be subject to the penalties set forth in section 216 of this title.
 
@@ -16,7 +16,11 @@ Shall be subject to the penalties set forth in section 216 of this title.
 
 (f) This section does not prohibit acceptance or receipt, by any officer or employee injured during the commission of an offense described in section 351 or 1751 of this title, of contributions or payments from an organization which is described in section 501(c)(3) of the Internal Revenue Code of 1986 and which is exempt from taxation under section 501(a) of such Code.
 
-(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1125; amended Pub. L. 96–174, Dec. 29, 1979, 93 Stat. 1288; Pub. L. 97–171, Apr. 13, 1982, 96 Stat. 67; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–646, §70, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 101–194, title IV, §406, Nov. 30, 1989, 103 Stat. 1753; Pub. L. 101–647, title XXXV, §3510, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 103–322, title XXXIII, §330008(7), Sept. 13, 1994, 108 Stat. 2143.)
+(g)(1) This section does not prohibit an employee of a private sector organization, while assigned to an agency under chapter 37 of title 5, from continuing to receive pay and benefits from such organization in accordance with such chapter.
+
+(2) For purposes of this subsection, the term “agency” means an agency (as defined by section 3701 of title 5) and the Office of the Chief Technology Officer of the District of Columbia.
+
+(Added Pub. L. 87–849, §1(a), Oct. 23, 1962, 76 Stat. 1125; amended Pub. L. 96–174, Dec. 29, 1979, 93 Stat. 1288; Pub. L. 97–171, Apr. 13, 1982, 96 Stat. 67; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–646, §70, Nov. 10, 1986, 100 Stat. 3617; Pub. L. 101–194, title IV, §406, Nov. 30, 1989, 103 Stat. 1753; Pub. L. 101–647, title XXXV, §3510, Nov. 29, 1990, 104 Stat. 4922; Pub. L. 103–322, title XXXIII, §330008(7), Sept. 13, 1994, 108 Stat. 2143; Pub. L. 107–273, div. A, title III, §302(3), Nov. 2, 2002, 116 Stat. 1781; Pub. L. 107–347, title II, §209(g)(2), Dec. 17, 2002, 116 Stat. 2932.)
 
 #### References in Text
 
@@ -29,6 +33,10 @@ A prior section 209, act June 25, 1948, ch. 645, 62 Stat. 693, related to an off
 Provisions similar to those comprising this section were contained in section 1914 of this title prior to the repeal of such section and the general amendment of this chapter by Pub. L. 87–849.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–273, in second par., substituted “makes” for “or makes” and “supplements, the salary of any” for “supplements the salary of, any”.
+
+Subsec. (g). Pub. L. 107–347 added subsec. (g).
 
 1994—Subsec. (d). Pub. L. 103–322 struck out “the” before “chapter 41”.
 
@@ -44,6 +52,10 @@ Subsec. (f). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” fo
 
 1979—Subsec. (e). Pub. L. 96–174 added subsec. (e).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
+
 #### Effective Date
 
 Section effective 90 days after Oct. 23, 1962, see section 4 of Pub. L. 87–849, set out as a note under section 201 of this title.
@@ -58,5 +70,5 @@ Responsibility of Office of Government Ethics for promulgating regulations and i
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 216 of this title; title 2 section 162; title 5 sections 568, 3102, 3343, 3374, 4111; title 7 sections 2009aa–1, 2220; title 8 section 1353c; title 12 section 2245; title 16 section 459b–7; title 22 sections 3507, 3508; title 28 section 594; title 30 section 663; title 40 App. section 108; title 42 sections 280e–11, 1314; title 45 section 362.
+This section is referred to in sections 202, 216 of this title; title 2 section 162; title 5 sections 568, 3102, 3343, 3374, 3704, 4111; title 7 sections 2009aa–1, 2009bb–1, 2220; title 8 section 1353c; title 12 section 2245; title 16 section 459b–7; title 22 sections 3507, 3508; title 28 section 594; title 30 section 663; title 40 section 14309; title 42 sections 280e–11, 1314; title 45 section 362.
 

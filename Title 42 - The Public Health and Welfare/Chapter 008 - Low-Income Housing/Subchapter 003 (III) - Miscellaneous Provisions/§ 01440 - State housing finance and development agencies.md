@@ -56,7 +56,7 @@ The Secretary is authorized to provide, either directly or by contract or other 
 
 #### (g) Labor standards
 
-All laborers and mechanics employed by contractors or subcontractors in housing or development activities assisted under this section shall be paid wages at rates not less than those prevailing on similar work in the locality as determined by the Secretary of Labor in accordance with the Davis-Bacon Act, as amended \[40 U.S.C. 276a et seq.\]: <i>Provided</i>, That this section shall apply to the construction of residential property only if such property is designed for residential use for eight or more families. No assistance shall be extended under this section with respect to any development activities without first obtaining adequate assurance that these labor standards will be maintained upon the work involved in such activities. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64 Stat. 1267), and section 276c of title 40.
+All laborers and mechanics employed by contractors or subcontractors in housing or development activities assisted under this section shall be paid wages at rates not less than those prevailing on similar work in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40: <i>Provided</i>, That this section shall apply to the construction of residential property only if such property is designed for residential use for eight or more families. No assistance shall be extended under this section with respect to any development activities without first obtaining adequate assurance that these labor standards will be maintained upon the work involved in such activities. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (64 Stat. 1267), and section 3145 of title 40.
 
 #### (h) Protection of guarantees issued by United States; inclusion by purchaser in gross income of interest paid on obligations issued by agencies
 
@@ -74,11 +74,11 @@ All laborers and mechanics employed by contractors or subcontractors in housing 
 
 This Act, referred to in subsec. (c)(1), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended, known as the Housing and Community Development Act of 1974. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-The Davis-Bacon Act, as amended, referred to in subsec. (g), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (g), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Codification
+
+In subsec. (g), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Section was enacted as part of the Housing and Community Development Act of 1974, and not as part of the United States Housing Act of 1937 which comprises this chapter.
 

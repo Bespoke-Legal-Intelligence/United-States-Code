@@ -52,7 +52,7 @@ Using the information gathered under subsection (a) of this section, the Secreta
 
 &emsp;(A) If the Secretary concerned finds, on the record and after an opportunity for a hearing, that a person, with willful disregard for the prohibition contained in sections 620 to 620j of this title against exporting Federal timber, exported or caused to be exported unprocessed timber originating from Federal lands in violation of sections 620 to 620j of this title, such Secretary may assess against such person a civil penalty of not more than $500,000 for each violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
 
-&emsp;(B)(i) Subject to clause (ii), if the Secretary of Commerce finds, on the record and after an opportunity for a hearing, that a person, with willful disregard for the restrictions contained in an order of the Secretary under section 620c(a) of this title on exports of unprocessed timber from public lands, exported or caused to be exported unprocessed timber originating from public lands in violation of such order, the Secretary may assess against such person a civil penalty of not more than $500,000 for each violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
+&emsp;(B)(i) Subject to clause (ii), if the Secretary of Commerce finds, on the record and after an opportunity for a hearing, that a person, with willful disregard for the restrictions contained in an order of the Secretary under section620c(a) of this title on exports of unprocessed timber from public lands, exported or caused to be exported unprocessed timber originating from public lands in violation of such order, the Secretary may assess against such person a civil penalty of not more than $500,000 for each violation, or 3 times the gross value of the unprocessed timber involved in the violation, whichever amount is greater.
 
 &emsp;(ii) Clause (i) shall not apply with respect to exports of unprocessed timber originating from public lands in a State that is administering and enforcing a program under section 620c(d) of this title.
 
@@ -122,7 +122,7 @@ Contractural remedies.—In the case of a minor violation of sections 620 to 620
 
 Subsections (c) and (d) of this section do not apply to violations of section 620i of this title.
 
-(Pub. L. 101–382, title IV, §492, Aug. 20, 1990, 104 Stat. 722; Pub. L. 103–45, §3, July 1, 1993, 107 Stat. 226; Pub. L. 105–83, title VI, §603, Nov. 14, 1997, 111 Stat. 1620.)
+(Pub. L. 101–382, title IV, §492, Aug. 20, 1990, 104 Stat. 722; Pub. L. 103–45, §3, July 1, 1993, 107 Stat.226; Pub. L. 105–83, title VI, §603, Nov. 14, 1997, 111 Stat. 1620.)
 
 #### Amendments
 

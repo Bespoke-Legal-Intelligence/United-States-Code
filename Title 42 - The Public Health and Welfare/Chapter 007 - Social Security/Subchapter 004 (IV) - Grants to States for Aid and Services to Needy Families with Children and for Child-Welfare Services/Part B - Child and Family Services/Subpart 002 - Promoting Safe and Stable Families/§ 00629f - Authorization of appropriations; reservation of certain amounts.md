@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-There are authorized to be appropriated to carry out the provisions of this subpart$305,000,000 for each of fiscal years 2002 through 2006.
+There are authorized to be appropriated to carry out the provisions of this subpart $305,000,000 for each of fiscal years 2002 through 2006.
 
 #### (b) Reservation of certain amounts
 

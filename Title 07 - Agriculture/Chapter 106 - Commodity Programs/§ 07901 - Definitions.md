@@ -1,0 +1,96 @@
+### §7901. Definitions
+
+In this chapter (other than subchapter III of this chapter):
+
+#### (1) Agricultural Act of 1949
+
+&emsp;The term “Agricultural Act of 1949” means the Agricultural Act of 1949 (7 U.S.C. 1421 et seq.), as in effect prior to the suspensions under section 7301 of this title.
+
+#### (2) Base acres
+
+&emsp;The term “base acres”, with respect to a covered commodity on a farm, means the number of acres established under section 7911 of this title with respect to the covered commodity on the election made by the owner of the farm under subsection (a) of such section.
+
+#### (3) Counter-cyclical payment
+
+&emsp;The term “counter-cyclical payment” means a payment made to producers on a farm under section 7914 of this title.
+
+#### (4) Covered commodity
+
+&emsp;The term “covered commodity” means wheat, corn, grain sorghum, barley, oats, upland cotton, rice, soybeans, and other oilseeds.
+
+#### (5) Direct payment
+
+&emsp;The term “direct payment” means a payment made to producers on a farm under section 7913 of this title.
+
+#### (6) Effective price
+
+&emsp;The term “effective price”, with respect to a covered commodity for a crop year, means the price calculated by the Secretary under section 7914 of this title to determine whether counter-cyclical payments are required to be made for that crop year.
+
+#### (7) Extra long staple cotton
+
+&emsp;The term “extra long staple cotton” means cotton that—
+
+&emsp;&emsp;(A) is produced from pure strain varieties of the Barbadense species or any hybrid thereof, or other similar types of extra long staple cotton, designated by the Secretary, having characteristics needed for various end uses for which United States upland cotton is not suitable and grown in irrigated cotton-growing regions of the United Statesdesignated by the Secretary or other areas designated by the Secretary as suitable for the production of the varieties or types; and
+
+&emsp;&emsp;(B) is ginned on a roller-type gin or, if authorized by the Secretary, ginned on another type gin for experimental purposes.
+
+#### (8) Loan commodity
+
+&emsp;The term “loan commodity” means wheat, corn, grain sorghum, barley, oats, upland cotton, extra long staple cotton, rice, soybeans, other oilseeds, wool, mohair, honey, dry peas, lentils, and small chickpeas.
+
+#### (9) Other oilseed
+
+&emsp;The term “other oilseed” means a crop of sunflower seed, rapeseed, canola, safflower, flaxseed, mustard seed, or, if designated by the Secretary, another oilseed.
+
+#### (10) Payment acres
+
+&emsp;The term “payment acres” means 85 percent of the base acres of a covered commodity on a farm, as established under section 7911 of this title, on which direct payments and counter-cyclical payments are made.
+
+#### (11) Payment yield
+
+#### (A) In general
+
+&emsp;&emsp;The term “payment yield” means the yield established under section 7912 of this title for a farm for a covered commodity.
+
+#### (B) Updated payment yield
+
+&emsp;&emsp;The term “updated payment yield” means the payment yield elected by the owner of a farm under section 7912(e) of this title to be used in calculating the counter-cyclical payments for the farm.
+
+#### (12) Producer
+
+&emsp;The term “producer” means an owner, operator, landlord, tenant, or sharecropper that shares in the risk of producing a crop and is entitled to share in the crop available for marketing from the farm, or would have shared had the crop been produced. In determining whether a grower of hybrid seed is a producer, the Secretary shall not take into consideration the existence of a hybrid seed contract and shall ensure that program requirements do not adversely affect the ability of the grower to receive a payment under this chapter.
+
+#### (13) Secretary
+
+&emsp;The term “Secretary” means the Secretary of Agriculture.
+
+#### (14) State
+
+&emsp;The term “State” means each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any other territory or possession of the United States.
+
+#### (15) Target price
+
+&emsp;The term “target price” means the price per bushel (or other appropriate unit in the case of upland cotton, rice, and other oilseeds) of a covered commodity used to determine the payment rate for counter-cyclical payments.
+
+#### (16) United States
+
+&emsp;The term “United States”, when used in a geographical sense, means all of the States.
+
+(Pub. L. 107–171, title I, §1001, May 13, 2002, 116 Stat. 143.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this title”, meaning title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 143, which enacted this chapter and section 1308–3a of this title, amended sections 450<i>l</i>, 1301, 1308 to 1308–3, 1308–4, 1308–5, 1314b, 1359aa to 1359kk, 1361, 1371, 1373, 1378, 1428, 1441, 1637a, 4501 to 4504, 4507, 6402, 6414, 6998, 7001, 7235, 7272, 7282 to 7284, 7286, and 7301 of this title, and sections 713a–4 and 714c of Title 15, Commerce and Trade, repealed sections 1339a, 1357 to 1359a, and 7271 of this title and section 3830a of Title 16, Conservation, and enacted provisions set out as notes under sections 1308 and 7272 of this title. For complete classification of title I to the Code, see Tables.
+
+Subchapter III of this chapter, referred to in text, was in the original “subtitle C”, meaning subtitle C (§§1301–1310) of title I of Pub. L. 107–171, May 13, 2002, 116 Stat. 166, which is classified principally to subchapter III of this chapter. For complete classification of subtitle C to the Code, see References in Text note set out under section 7951 of this title and Tables.
+
+The Agricultural Act of 1949, referred to in par. (1), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, which is classified principally to chapter 35A (§1421 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+
+#### Short Title
+
+Pub. L. 107–171, §1(a), May 13, 2002, 116 Stat. 134, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Farm Security and Rural Investment Act of 2002’.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1308 of this title.
+

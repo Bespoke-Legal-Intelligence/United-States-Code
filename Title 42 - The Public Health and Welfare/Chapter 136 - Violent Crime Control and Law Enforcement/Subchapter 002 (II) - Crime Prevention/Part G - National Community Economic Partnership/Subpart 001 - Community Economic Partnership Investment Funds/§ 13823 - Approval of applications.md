@@ -44,7 +44,7 @@ In determining which application to approve under this subpart the Secretary sha
 
 #### References in Text
 
-The Workforce Investment Act of 1998, referred to in subsec. (a)(4)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29,Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
+The Workforce Investment Act of 1998, referred to in subsec. (a)(4)(C), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 The Family Support Act of 1988, referred to in subsec. (a)(4)(C), is Pub. L. 100–485, Oct. 13, 1988, 102 Stat. 2343, as amended. For complete classification of this Act to the Code, see Short Title of 1988 Amendments note set out under section 1305 of this title and Tables.
 

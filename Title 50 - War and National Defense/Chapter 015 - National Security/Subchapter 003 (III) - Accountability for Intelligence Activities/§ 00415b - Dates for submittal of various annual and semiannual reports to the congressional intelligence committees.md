@@ -1,0 +1,156 @@
+### §415b. Dates for submittal of various annual and semiannual reports to the congressional intelligence committees
+
+#### (a) Annual reports
+
+(1) The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(A) of this section:
+
+&emsp;(A) The annual evaluation of the performance and responsiveness of certain elements of the intelligence community required by section 403–5(d) of this title.
+
+&emsp;(B) The annual report on intelligence required by section 404d of this title.
+
+&emsp;(C) The annual report on intelligence community cooperation with Federal law enforcement agencies required by section 404i(a)(2) of this title.
+
+&emsp;(D) The annual report on the protection of the identities of covert agents required by section 423 of this title.
+
+&emsp;(E) The annual report of the Inspectors Generals of the intelligence community on proposed resources and activities of their offices required by section 8H(g) of the Inspector General Act of 1978.
+
+&emsp;(F) The annual report on commercial activities as security for intelligence collection required by section 437(c) of title 10.
+
+&emsp;(G) The annual report on expenditures for postemployment assistance for terminated intelligence employees required by section 1611(e)(2) of title 10.
+
+&emsp;(H) The annual update on foreign industrial espionage required by section 2170b(b) of the Appendix to this title.
+
+&emsp;(I) The annual report on coordination of counterintelligence matters with the Federal Bureau of Investigation required by section 402a(c)(6) of this title.
+
+&emsp;(J) The annual report on foreign companies involved in the proliferation of weapons of mass destruction that raise funds in the United States capital markets required by section 404n–3 of this title.
+
+&emsp;(K) The annual report on certifications for immunity in interdiction of aircraft engaged in illicit drug trafficking required by section 2291–4(c)(2) of title 22.
+
+&emsp;(L) The annual report on exceptions to consumer disclosure requirements for national security investigations under section 1681b(b)(4)(E) of title 15.
+
+&emsp;(M) The annual report on activities under the David L. Boren National Security Education Act of 1991 (title VIII of Public Law 102–183; 50 U.S.C. 1901 et seq.) required by section 806(a) of that Act (50 U.S.C. 1906(a)).
+
+&emsp;(N) The annual report on hiring and retention of minority employees in the intelligence community required by section 404i(c) of this title.
+
+(2) The date for the submittal to the congressional intelligence committees of the following annual reports shall be the date each year provided in subsection (c)(1)(B) of this section:
+
+&emsp;(A) The annual report on the safety and security of Russian nuclear facilities and nuclear military forces required by section 404i(b) of this title.
+
+&emsp;(B) The annual report on the threat of attack on the United States from weapons of mass destruction required by section 404i(d) of this title.
+
+&emsp;(C) The annual report on covert leases required by section 404i(e) of this title.
+
+&emsp;(D) The annual report on improvements of the financial statements of the intelligence community for auditing purposes required by section 404i–1 of this title.
+
+&emsp;(E) The annual report on activities of personnel of the Federal Bureau of Investigation outside the United States required by section 540C(c)(2) of title 28.
+
+&emsp;(F) The annual report on intelligence activities of the People's Republic of China required by section 308(c) of the Intelligence Authorization Act for Fiscal Year 1998 (Public Law 105–107; 50 U.S.C. 402a note).
+
+&emsp;(G) The annual report on counterdrug intelligence matters required by section 826 of the Intelligence Authorization Act for Fiscal Year 2003.
+
+#### (b) Semiannual reports
+
+The dates for the submittal to the congressional intelligence committees of the following semiannual reports shall be the dates each year provided in subsection (c)(2) of this section:
+
+&emsp;(1) The periodic reports on intelligence provided to the United Nations required by section 404g(b) of this title.
+
+&emsp;(2) The semiannual reports on the Office of the Inspector General of the Central Intelligence Agency required by section 403q(d)(1) of this title.
+
+&emsp;(3) The semiannual reports on decisions not to prosecute certain violations of law under the Classified Information Procedures Act (18 U.S.C. App.) as required by section 13 of that Act.
+
+&emsp;(4) The semiannual reports on the acquisition of technology relating to weapons of mass destruction and advanced conventional munitions required by section 2366(b) of this title.
+
+&emsp;(5) The semiannual reports on the activities of the Diplomatic Telecommunications Service Program Office (DTS–PO) required by section 7302(a)(6)(D)(ii) of title 22.
+
+&emsp;(6) The semiannual reports on the disclosure of information and consumer reports to the Federal Bureau of Investigation for counterintelligence purposes required by section 1681u(h)(2) of title 15.<sup>1</sup>
+
+&emsp;(7) The semiannual provision of information on requests for financial information for foreign counterintelligence purposes required by section 3414(a)(5)(C) of title 12.
+
+&emsp;(8) The semiannual report on financial intelligence on terrorist assets required by section 404m of this title.
+
+#### (c) Submittal dates for reports
+
+(1)(A) Except as provided in subsection (d) of this section, each annual report listed in subsection (a)(1) of this section shall be submitted not later than February 1.
+
+(B) Except as provided in subsection (d) of this section, each annual report listed in subsection (a)(2) of this section shall be submitted not later than December 1.
+
+(2) Except as provided in subsection (d) of this section, each semiannual report listed in subsection (b) of this section shall be submitted not later than February 1 and August 1.
+
+#### (d) Postponement of submittal
+
+(1) Subject to paragraph (3), the date for the submittal of—
+
+&emsp;(A) an annual report listed in subsection (a)(1) of this section may be postponed until March 1;
+
+&emsp;(B) an annual report listed in subsection (a)(2) of this section may be postponed until January 1; and
+
+&emsp;(C) a semiannual report listed in subsection (b) of this section may be postponed until March 1 or September 1, as the case may be,
+
+> if the official required to submit such report submits to the congressional intelligence committees a written notification of such postponement.
+
+(2)(A) Notwithstanding any other provision of law and subject to paragraph (3), the date for thesubmittal to the congressional intelligence committees of any report described in subparagraph (B) may be postponed by not more than 30 days from the date otherwise specified in the provision of law for the submittal of such report if the official required to submit such report submits to the congressional intelligence committees a written notification of such postponement.
+
+(B) A report described in this subparagraph is any report on intelligence or intelligence-related activities of the United States Government that is submitted under a provision of law requiring the submittal of only a single report.
+
+(3)(A) The date for the submittal of a report whose submittal is postponed under paragraph (1) or (2) may be postponed beyond the time provided for the submittal of such report under such paragraph if the official required to submit such report submits to the congressional intelligence committees a written certification that preparation and submittal of such report at such time will impede the work of officers or employees of the intelligence community in a manner that will be detrimental to the national security of the United States.
+
+(B) A certification with respect to a report under subparagraph (A) shall include a proposed submittal date for such report, and such report shall be submitted not later than that date.
+
+(July 26, 1947, ch. 343, title V, §507, as added Pub. L. 107–306, title VIII, §811(a)(1), Nov. 27, 2002, 116 Stat. 2418.)
+
+#### References in Text
+
+Section 8H(g) of the Inspector General Act of 1978, referred to in subsec. (a)(1)(E), is section 8H(g) of Pub. L. 95–452, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+The David L. Boren National Security Education Act of 1991, referred to in subsec. (a)(1)(M), is title VIII of Pub. L. 102–183, Dec. 4, 1991, 105 Stat. 1271, as amended, which is classified generally to chapter 37 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see section 1901(a) of this title and Tables.
+
+Section 826 of the Intelligence Authorization Act for Fiscal Year 2003, referred to in subsec. (a)(2)(G), is section 826 of Pub. L. 107–306, which is set out as a note under section 873 of Title 21, Food and Drugs.
+
+The Classified Information Procedures Act, referred to in subsec. (b)(3), is Pub. L. 96–456, Oct. 15, 1980, 94 Stat. 2025, as amended, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+Section 1681u(h)(2) of title 15, referred to in subsec. (b)(6), was in the original “section 624(h)(2) of the Fair Credit Reporting Act”, which was translated as reading “section 625(h)(2) of the Fair Credit Reporting Act”, to reflect the probable intent of Congress and the renumbering of section 624 as 625 by section 358(g)(1)(A) of Pub. L. 107–56.
+
+#### Preparation and Submittal of Reports, Reviews, Studies, and Plans Relating to Intelligence Activities of Department of Defense or Department of Energy
+
+Pub. L. 107–306, title I, §109, Nov. 27, 2002, 116 Stat. 2389, provided that:
+
+“(a)
+
+Consultation in Preparation.—(1) The Director of Central Intelligence shall ensure that any report, review, study, or plan required to be prepared or conducted by a provision of this Act \[see Tables for classification\], including a provision of the classified Schedule of Authorizations referred to in section 102(a) \[116 Stat. 2386\] or the classified annex to this Act, that involves the intelligence or intelligence-related activities of the Department of Defense or the Department of Energy is prepared or conducted in consultation with the Secretary of Defense or the Secretary of Energy, as appropriate.
+
+“(2) The Secretary of Defense or the Secretary of Energy may carry out any consultation required by this subsection through an official of the Department of Defense or the Department of Energy, as the case may be, designated by such Secretary for that purpose.
+
+“(b)
+
+Submittal.—Any report, review, study, or plan referred to in subsection (a) shall be submitted, in addition to any other committee of Congress specified for submittal in the provision concerned, to the following committees of Congress:
+
+&emsp;“(1) The Committees on Armed Services and Appropriations and the Select Committee on Intelligence of the Senate.
+
+&emsp;“(2) The Committees on Armed Services and Appropriations and the Permanent Select Committee on Intelligence of the House of Representatives.”
+
+Similar provisions were contained in the following prior act:
+
+Pub. L. 107–108, title V, §505, Dec. 28, 2001, 115 Stat. 1406.
+
+#### Deadline for Submittal of Various Overdue Reports
+
+Pub. L. 107–306, title VIII, §801, Nov. 27, 2002, 116 Stat. 2418, provided that:
+
+“(a)
+
+Deadline.—The reports described in subsection (c) shall be submitted to Congress not later than 180 days after the date of the enactment of this Act \[Nov. 27, 2002\].
+
+“(b)
+
+Noncompliance.—(1) If all the reports described in subsection (c) are not submitted to Congress by the date specified in subsection (a), amounts available to be obligated or expended after that date to carry out the functions or duties of the Office of the Director of Central Intelligence shall be reduced by 1/3.
+
+“(2) The reduction applicable under paragraph (1) shall not apply if the Director of Central Intelligence certifies to Congress by the date referred to in subsection (a) that all reports referred to in subsection (c) have been submitted to Congress.
+
+“(c)
+
+Reports Described.—The reports referred to in subsection (a) are reports mandated by law for which the Director of Central Intelligence has sole or primary responsibility to prepare, coordinate, and submit to Congress which, as of the date of the enactment of this Act \[Nov. 27, 2002\], have not been submitted to Congress.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 402a, 403–5, 403q, 404d, 404g, 404i, 404i–1, 404m, 404n–3, 423, 1906, 2366 of this title; section 2170b of the Appendix to this title; title 10 sections 437, 1611; title 12 section 3414; title 15 sections 1681b, 1681u; title 22 sections 2291–4, 7302; title 28 section 540C.
+

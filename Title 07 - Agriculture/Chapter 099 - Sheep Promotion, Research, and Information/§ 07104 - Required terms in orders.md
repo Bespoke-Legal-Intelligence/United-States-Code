@@ -248,7 +248,7 @@ An order issued under this chapter shall contain the terms and conditions specif
 
 #### (A) Producer nominations
 
-&emsp;&emsp;The Secretary shall solicit nominations for each seat on the initially established Board to which a unit is entitled to representation from eligible organizations certified under paragraph (3). If no such organization exists in the unit, the Secretary shallsolicit nominations for appointments in such manner as the Secretary determines appropriate.
+&emsp;&emsp;The Secretary shall solicit nominations for each seat on the initially established Board to which a unit is entitled to representation from eligible organizations certified under paragraph (3). If no such organization exists in the unit, the Secretary shall solicit nominations for appointments in such manner as the Secretary determines appropriate.
 
 #### (B) Feeder and importer nominations
 
@@ -340,7 +340,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 &emsp;(11) to provide the Secretary with prior notice of meetings of the Board to permit the Secretary, or a designated representative, to attend the meetings;
 
-&emsp;(12) to provide, not less than annually, a report to producers, feeders, and importers accounting for funds expended by the Board and describing programs carried out under thischapter, and to make the report available to the public on request;
+&emsp;(12) to provide, not less than annually, a report to producers, feeders, and importers accounting for funds expended by the Board and describing programs carried out under this chapter, and to make the report available to the public on request;
 
 &emsp;(13) to establish 7 regions that, to the extent practicable, contain geographically contiguous States and approximately equal numbers of producers and sheep production;
 
@@ -600,7 +600,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 #### (1) In general
 
-&emsp;The order shall require that each person making payment to a producer, feeder, or handler for sheep or sheep products, each importer and exporter of sheep or sheep products, and each person marketing sheep products of the person's own production to maintain, and make available for inspection, such books and records as may be required by the order and file reports at the time, in the manner, and having the content prescribed by the order.
+&emsp;The order shall require that each person making payment to a producer, feeder, or handler for sheep or sheep products, each importer and exporter of sheep or sheep products, and each person marketing sheep products of theperson's own production to maintain, and make available for inspection, such books and records as may be required by the order and file reports at the time, in the manner, and having the content prescribed by the order.
 
 #### (2) Use of information
 
@@ -634,7 +634,7 @@ The order shall define the powers and duties of the Board and shall include the 
 
 &emsp;&emsp;&emsp;(i) the issuance of general statements, based on the reports, of the number of persons subject to an order or statistical data collected from the persons, which statements do not identify the information furnished by any person; or
 
-&emsp;&emsp;&emsp;(ii) the publication, by direction of the Secretary, of the name of any person violating any order and a statement of theparticular provisions of the order violated by the person.
+&emsp;&emsp;&emsp;(ii) the publication, by direction of the Secretary, of the name of any person violating any order and a statement of the particular provisions of the order violated by the person.
 
 #### (D) Administration
 

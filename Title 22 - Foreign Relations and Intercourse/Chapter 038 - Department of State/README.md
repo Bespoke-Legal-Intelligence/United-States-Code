@@ -9,8 +9,7 @@
 | (c) | Assistant Secretaries. |
 | (d) | Other senior officials. |
 | (e) | Coordinator for Counterterrorism. |
-| (f) | Qualifications of officer having primary responsibility for personnel management. |
-| (g) | Qualifications of officer having primary responsibility for diplomatic security. |
+| (f) | Qualifications of certain officers of the Department of State. |
 | 2652, 2652a. Repealed. |  |
 | [2652b.](%C2%A7%2002652b%20-%20Assistant%20Secretary%20of%20State%20for%20South%20Asian%20Affairs.md) | Assistant Secretary of State for South Asian Affairs. |
 | (a) | Establishment of position. |
@@ -24,6 +23,10 @@
 | (c) | Duties. |
 | 2653 to 2655. Repealed. |  |
 | [2655a.](%C2%A7%2002655a%20-%20Bureau%20of%20Oceans%20and%20International%20Environmental%20and%20Scientific%20Affairs%20within%20Department%20of%20State%3B%20Assistant%20Secretary%20of%20State%20as%20head%E2%80%A6.md) | Bureau of Oceans and International Environmental and Scientific Affairs within Department of State; Assistant Secretary of State as head of Bureau. |
+| [2655b.](%C2%A7%2002655b%20-%20Diplomatic%20presence%20overseas.md) | Diplomatic presence overseas. |
+| (a) | Purpose. |
+| (b) | Authority. |
+| (c) | Training. |
 | [2656\.](%C2%A7%2002656%20-%20Management%20of%20foreign%20affairs.md) | Management of foreign affairs. |
 | [2656a.](%C2%A7%2002656a%20-%20Congressional%20declaration%20of%20findings%20of%20major%20significance%20of%20modern%20scientific%20and%20technological%20advances%20in%20foreign%20policy.md) | Congressional declaration of findings of major significance of modern scientific and technological advances in foreign policy. |
 | [2656b.](%C2%A7%2002656b%20-%20Congressional%20declaration%20of%20policy%20regarding%20consequences%20of%20science%20and%20technology%20on%20conduct%20of%20foreign%20policy.md) | Congressional declaration of policy regarding consequences of science and technology on conduct of foreign policy. |
@@ -200,7 +203,7 @@
 | (h) | Publication regarding rewards offered by foreign governments. |
 | (i) | Determinations of Secretary. |
 | (j) | Definitions. |
-| [2708a.](%C2%A7%2002708a%20-%20Award%20of%20Foreign%20Service%20star.md) | Award of Foreign Service star. |
+| [2708a.](%C2%A7%2002708a%20-%20Award%20of%20Thomas%20Jefferson%20Star%20for%20Foreign%20Service.md) | Award of Thomas Jefferson Star for Foreign Service. |
 | (a) | Authority to award. |
 | (b) | Selection criteria. |
 | (c) | Award in the event of death. |
@@ -208,13 +211,14 @@
 | (e) | Funding. |
 | [2709\.](%C2%A7%2002709%20-%20Special%20agents.md) | Special agents. |
 | (a) | General authority. |
-| (b) | Agreement with Attorney General and firearms regulations. |
+| (b) | Agreements with Attorney General and Secretary of the Treasury and firearms regulations. |
 | (c) | Secret Service not affected. |
 | [2710\.](%C2%A7%2002710%20-%20Expenses%20relating%20to%20participation%20in%20arbitrations%20of%20certain%20disputes.md) | Expenses relating to participation in arbitrations of certain disputes. |
 | (a) | International agreements. |
 | (b) | Contracts abroad. |
 | (c) | Procurement of services. |
 | (d) | International Litigation Fund. |
+| (e) | Retention of funds. |
 | [2711\.](%C2%A7%2002711%20-%20Counterterrorism%20Protection%20Fund.md) | Counterterrorism Protection Fund. |
 | (a) | Authority. |
 | (b) | Authorization of appropriations. |
@@ -286,6 +290,15 @@
 | (a) | Annual report concerning diplomatic immunity. |
 | (b) | United States policy concerning reform of diplomatic immunity. |
 | (c) | Notification of diplomatic corps. |
+| [2729\.](%C2%A7%2002729%20-%20State%20Department%20records%20of%20overseas%20deaths%20of%20United%20States%20citizens%20from%20nonnatural%20causes.md) | State Department records of overseas deaths of United States citizens from nonnatural causes. |
+| (a) | Collection of information. |
+| (b) | Database. |
+| (c) | Public availability of information. |
+| [2730\.](%C2%A7%2002730%20-%20Prohibition%20on%20funding%20the%20involuntary%20return%20of%20refugees.md) | Prohibition on funding the involuntary return of refugees. |
+| (a) | Prohibition. |
+| (b) | Congressional notification required in all cases. |
+| (c) | Statutory construction. |
+| (d) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -301,6 +314,7 @@
 - [&sect; 02652c - Assistant Secretary of State for Verification and Compliance](%C2%A7%2002652c%20-%20Assistant%20Secretary%20of%20State%20for%20Verification%20and%20Compliance.md)
 - [&sect; 02653 to 2655 - Repealed. Pub. L. 103&#8211;236, title I, &sect;162(a), (p), Apr. 30, 1994, 108 Stat. 405, 410](%C2%A7%2002653%20to%202655%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7162%28a%29%2C%20%28p%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20405%2C%20410.md)
 - [&sect; 02655a - Bureau of Oceans and International Environmental and Scientific Affairs within Department of State; Assistant Secretary of State as head&#8230;](%C2%A7%2002655a%20-%20Bureau%20of%20Oceans%20and%20International%20Environmental%20and%20Scientific%20Affairs%20within%20Department%20of%20State%3B%20Assistant%20Secretary%20of%20State%20as%20head%E2%80%A6.md)
+- [&sect; 02655b - Diplomatic presence overseas](%C2%A7%2002655b%20-%20Diplomatic%20presence%20overseas.md)
 - [&sect; 02656 - Management of foreign affairs](%C2%A7%2002656%20-%20Management%20of%20foreign%20affairs.md)
 - [&sect; 02656a - Congressional declaration of findings of major significance of modern scientific and technological advances in foreign policy](%C2%A7%2002656a%20-%20Congressional%20declaration%20of%20findings%20of%20major%20significance%20of%20modern%20scientific%20and%20technological%20advances%20in%20foreign%20policy.md)
 - [&sect; 02656b - Congressional declaration of policy regarding consequences of science and technology on conduct of foreign policy](%C2%A7%2002656b%20-%20Congressional%20declaration%20of%20policy%20regarding%20consequences%20of%20science%20and%20technology%20on%20conduct%20of%20foreign%20policy.md)
@@ -382,7 +396,7 @@
 - [&sect; 02706 - Reprograming of funds; notice requirements](%C2%A7%2002706%20-%20Reprograming%20of%20funds%3B%20notice%20requirements.md)
 - [&sect; 02707 - International communications and information policy; duties of Secretary of State](%C2%A7%2002707%20-%20International%20communications%20and%20information%20policy%3B%20duties%20of%20Secretary%20of%20State.md)
 - [&sect; 02708 - Department of State rewards program](%C2%A7%2002708%20-%20Department%20of%20State%20rewards%20program.md)
-- [&sect; 02708a - Award of Foreign Service star](%C2%A7%2002708a%20-%20Award%20of%20Foreign%20Service%20star.md)
+- [&sect; 02708a - Award of Thomas Jefferson Star for Foreign Service](%C2%A7%2002708a%20-%20Award%20of%20Thomas%20Jefferson%20Star%20for%20Foreign%20Service.md)
 - [&sect; 02709 - Special agents](%C2%A7%2002709%20-%20Special%20agents.md)
 - [&sect; 02710 - Expenses relating to participation in arbitrations of certain disputes](%C2%A7%2002710%20-%20Expenses%20relating%20to%20participation%20in%20arbitrations%20of%20certain%20disputes.md)
 - [&sect; 02711 - Counterterrorism Protection Fund](%C2%A7%2002711%20-%20Counterterrorism%20Protection%20Fund.md)
@@ -406,3 +420,5 @@
 - [&sect; 02726 - Fee for use of diplomatic reception rooms](%C2%A7%2002726%20-%20Fee%20for%20use%20of%20diplomatic%20reception%20rooms.md)
 - [&sect; 02727 - Accounting of collections in budget presentation documents](%C2%A7%2002727%20-%20Accounting%20of%20collections%20in%20budget%20presentation%20documents.md)
 - [&sect; 02728 - Crimes committed by diplomats](%C2%A7%2002728%20-%20Crimes%20committed%20by%20diplomats.md)
+- [&sect; 02729 - State Department records of overseas deaths of United States citizens from nonnatural causes](%C2%A7%2002729%20-%20State%20Department%20records%20of%20overseas%20deaths%20of%20United%20States%20citizens%20from%20nonnatural%20causes.md)
+- [&sect; 02730 - Prohibition on funding the involuntary return of refugees](%C2%A7%2002730%20-%20Prohibition%20on%20funding%20the%20involuntary%20return%20of%20refugees.md)

@@ -40,7 +40,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Central Intelligence Agency
 
-Exception of Central Intelligence Agency from provisions of subsec. (b)(1) of this section and certain other provisions of this chapter, and section 1308 of this title, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
+Exception of Central Intelligence Agency from provisions of subsec. (b)(1) of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 
 #### Section Referred to in Other Sections
 

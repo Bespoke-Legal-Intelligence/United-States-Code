@@ -4,7 +4,7 @@ The purposes of the corporation are—
 
 &emsp;(1) to preserve the traditions and to promote the interests of the United States Marine Corps;
 
-&emsp;(2) to band those who, on August 4, 1937, were serving in the United States Marine Corps and those who have been honorably discharged from that service together in fellowship that they may effectively promote the ideals of American freedom and democracy;
+&emsp;(2) to band those who, on August 4, 1937, were serving in the United States Marine Corps and those who have been honorably dischargedfrom that service together in fellowship that they may effectively promote the ideals of American freedom and democracy;
 
 &emsp;(3) to fit its members for the duties of citizenship and to encourage them to serve as ably as citizens as they have served the Nation under arms;
 

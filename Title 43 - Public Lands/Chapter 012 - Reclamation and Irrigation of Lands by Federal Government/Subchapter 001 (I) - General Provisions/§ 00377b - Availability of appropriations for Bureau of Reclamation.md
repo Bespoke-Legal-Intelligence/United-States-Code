@@ -6,7 +6,7 @@ Sums appropriated in this Act or in subsequent Energy and Water Development Appr
 
 No part of any appropriation for the Bureau of Reclamation, contained in this Act, in any prior Act, or in subsequent Energy and Water Development Appropriations Acts which represents amounts earned under the terms of a contract but remaining unpaid, shall be obligated for any other purpose, regardless of when such amounts are to be paid: <i>Provided</i>, That the incurring of any obligation prohibited by this paragraph shall be deemed a violation of section 1341 of title 31.
 
-None of the funds made available by this or any other Act or by any subsequent Act shall on and after October 2, 1992, be used by the Bureau of Reclamation for contracts for surveying and mapping services unless such contracts for which a solicitation is issued after the date of this Act <sup>2</sup> are awarded in accordance with title IX of the Federal Property and Administrative Service <sup>3</sup> Act of 1949 (40 U.S.C. 541 et seq.).
+None of the funds made available by this or any other Act or by any subsequent Act shall on and after October 2, 1992, be used by the Bureau of Reclamation for contracts for surveying and mapping services unless such contracts for which a solicitation is issued after the date of this Act <sup>2</sup> are awarded in accordance with title IX of the Federal Property and Administrative Service <sup>3</sup> Act of 1949.<sup>2</sup>
 
 (Pub. L. 102–377, title II, Oct. 2, 1992, 106 Stat. 1330, 1331.)
 
@@ -24,7 +24,7 @@ Act of April 19, 1945 (43 U.S.C. 377), referred to in text, is act April 19, 194
 
 The date of this Act, referred to in text, probably means the date of enactment of Pub. L. 102–377, which enacted this section, and which was approved Oct. 2, 1992.
 
-The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Act, whichwas classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 

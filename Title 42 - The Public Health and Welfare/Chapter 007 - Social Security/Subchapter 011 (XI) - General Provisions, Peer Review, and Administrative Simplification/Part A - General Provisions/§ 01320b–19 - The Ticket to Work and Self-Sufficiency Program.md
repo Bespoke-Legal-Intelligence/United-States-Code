@@ -26,7 +26,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (1) In general
 
-&emsp;Each State agency administering or supervising the administration of the State plan approved under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.) may elect to participate in the Program as an employmentnetwork with respect to a disabled beneficiary. If the State agency does elect to participate in the Program, the State agency also shall elect to be paid under the outcome payment system or the outcome-milestone payment system in accordance with subsection (h)(1) of this section. With respect to a disabled beneficiary that the State agency does not elect to have participate in the Program, the State agency shall be paid for services provided to that beneficiary under the system for payment applicable under section 422(d) of this title and subsections (d) and (e) of section 1382d of this title. The Commissioner shall provide for periodic opportunities for exercising such elections.
+&emsp;Each State agency administering or supervising the administration of the State plan approved under title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.) may elect to participate in the Program as an employment network with respect to a disabled beneficiary. If the State agency does elect to participate in the Program, the State agency also shall elect to be paid under the outcome payment system or the outcome-milestone payment system in accordance with subsection (h)(1) of this section. With respect to a disabled beneficiary that the State agency does not elect to have participate in the Program, the State agency shall be paid for services provided to that beneficiary under the system for payment applicable under section 422(d) of this title and subsections (d) and (e) of section 1382d of this title. The Commissioner shall provide for periodic opportunities for exercising such elections.
 
 #### (2) Effect of participation by State agency
 
@@ -98,7 +98,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (3) Facilitation of access by beneficiaries to employment networks
 
-&emsp;A program manager shall facilitate access by beneficiaries to employment networks. The program manager shall ensure that each beneficiary is allowed changes in employment networks without being deemed to have rejected services under the Program. When such a change occurs, the program manager shall reassign the ticket based on the choice of the beneficiary. Upon the request of the employment network, the program manager shall make a determination of the allocation of the outcome or milestone-outcome payments based on the services provided by each employment network. The program manager shall establish and maintain lists of employment networks available to beneficiaries and shall make such lists generally available to the public. The program manager shall ensure that all information provided to disabled beneficiaries pursuant to this paragraph is provided in accessible formats.
+&emsp;A program manager shall facilitate access by beneficiaries to employment networks. The program manager shall ensure that each beneficiary is allowed changes in employment networks without being deemed to have rejected services under the Program. When such a change occurs, the program manager shall reassign the ticket based on the choice of the beneficiary. Upon the request of the employment network, the program manager shallmake a determination of the allocation of the outcome or milestone-outcome payments based on the services provided by each employment network. The program manager shall establish and maintain lists of employment networks available to beneficiaries and shall make such lists generally available to the public. The program manager shall ensure that all information provided to disabled beneficiaries pursuant to this paragraph is provided in accessible formats.
 
 #### (4) Ensuring availability of adequate services
 
@@ -134,7 +134,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 &emsp;&emsp;(A) serve prescribed service areas; and
 
-&emsp;&emsp;(B) take such measures as are necessary to ensure that employment services, vocationalrehabilitation services, and other support services provided under the Program by, or under agreements entered into with, the employment network are provided under appropriate individual work plans that meet the requirements of subsection (g) of this section.
+&emsp;&emsp;(B) take such measures as are necessary to ensure that employment services, vocational rehabilitation services, and other support services provided under the Program by, or under agreements entered into with, the employment network are provided under appropriate individual work plans that meet the requirements of subsection (g) of this section.
 
 #### (3) Annual financial reporting
 
@@ -192,7 +192,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) Payments made during outcome payment period
 
-&emsp;&emsp;The outcome payment system shall provide for a schedule of payments to an employment network, in connection with each individual who is a beneficiary, for each month, during the individual's outcome payment period, for which benefits (described inparagraphs (3) and (4) of subsection (k) of this section) are not payable to such individual because of work or earnings.
+&emsp;&emsp;The outcome payment system shall provide for a schedule of payments to an employment network, in connection with each individual who is a beneficiary, for each month, during the individual's outcome payment period, for which benefits (described in paragraphs (3) and (4) of subsection (k) of this section) are not payable to such individual because of work or earnings.
 
 #### (C) Computation of payments to employment network
 
@@ -244,7 +244,7 @@ The Commissioner shall establish a Ticket to Work and Self-Sufficiency Program, 
 
 #### (B) Number and amounts of milestone payments
 
-&emsp;&emsp;The Commissioner shall periodically review the number and amounts of milestone payments established by the Commissioner pursuant to this section to determine whether they provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, taking into account information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, and other reliable sources. The Commissioner may from time to time alter the number and amounts of milestone payments initially established by the Commissioner pursuant to this section to the extent thatthe Commissioner determines that such an alteration would allow an adequate incentive for employment networks to assist beneficiaries to enter the workforce. Such alteration shall be based on information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, or other reliable sources.
+&emsp;&emsp;The Commissioner shall periodically review the number and amounts of milestone payments established by the Commissioner pursuant to this section to determine whether they provide an adequate incentive for employment networks to assist beneficiaries to enter the workforce, taking into account information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, and other reliable sources. The Commissioner may from time to time alter the number and amounts of milestone payments initially established by the Commissioner pursuant to this section to the extent that the Commissioner determines that such an alteration would allow an adequate incentive for employment networks to assist beneficiaries to enter the workforce. Such alteration shall be based on information provided to the Commissioner by program managers, the Ticket to Work and Work Incentives Advisory Panel established by section 101(f) of the Ticket to Work and Work Incentives Improvement Act of 1999, or other reliable sources.
 
 #### (C) Report on the adequacy of incentives
 
@@ -312,7 +312,7 @@ Not later than 1 year after December 17, 1999, the Commissioner shall prescribe 
 
 #### References in Text
 
-The Rehabilitation Act of 1973, referred to in subsec. (c)(1), (2)(A), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355,as amended. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
+The Rehabilitation Act of 1973, referred to in subsec. (c)(1), (2)(A), is Pub. L. 93–112, Sept. 26, 1973, 87 Stat. 355, as amended. Title I of the Act is classified generally to subchapter I (§720 et seq.) of chapter 16 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 701 of Title 29 and Tables.
 
 The Workforce Investment Act of 1998, referred to in subsec. (f)(1)(B), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Subtitle B of title I of the Act is classified generally to subchapter II (§2811 et seq.) of chapter 30 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
@@ -346,7 +346,7 @@ Specific matters to be included in regulations.—The matters which shall be add
 
 &emsp;&emsp;“(i) the terms by which program managers are precluded from direct participation in the delivery of services pursuant to section 1148(d)(3) of such Act;
 
-&emsp;&emsp;“(ii) standards which must be met by quality assurance measures referred to in paragraph (6) of section 1148(d) of such Act and methods of recruitment of employment networks utilized pursuant to paragraph (2) of section 1148(e) of such Act; and
+&emsp;&emsp;“(ii) standards which must be met by quality assurance measures referred to in paragraph (6) ofsection 1148(d) of such Act and methods of recruitment of employment networks utilized pursuant to paragraph (2) of section 1148(e) of such Act; and
 
 &emsp;&emsp;“(iii) the format under which dispute resolution will operate under section 1148(d)(7) of such Act;
 
@@ -426,7 +426,7 @@ Pub. L. 106–170, title I, §101(d), Dec. 17, 1999, 113 Stat. 1874, provided th
 
 “(1)
 
-In general.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 1999\], the Commissioner of Social Security shall commence implementation of the amendments made by this section \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] (other than paragraphs (1)(C) and (2)(B) of subsection (b) \[amending sections 422 and 1382d of this title\]) in graduated phases at phase-in sites selected by the Commissioner. Such phase-in sites shall be selected so as to ensure, prior to full implementation of the Ticket to Work and Self-Sufficiency Program, the development and refinement of referral processes, payment systems, computer linkages, management information systems, and administrative processes necessary to provide for full implementation of such amendments. Subsection (c) \[set out as a note above\] shall apply with respect to paragraphs (1)(C) and (2)(B) of subsection (b) without regard to this subsection.
+In general.—Not later than 1 year after the date of the enactment of this Act \[Dec. 17, 1999\], the Commissioner of Social Security shall commence implementation of the amendments made by this section \[enacting this section and amending sections 421, 422, 425, 1382d, 1383, and 1383b of this title\] (other than paragraphs (1)(C) and (2)(B) of subsection (b) \[amending sections 422 and 1382d of this title\]) in graduated phases at phase-in sites selected by the Commissioner. Such phase-in sites shall be selected so as to ensure, prior tofull implementation of the Ticket to Work and Self-Sufficiency Program, the development and refinement of referral processes, payment systems, computer linkages, management information systems, and administrative processes necessary to provide for full implementation of such amendments. Subsection (c) \[set out as a note above\] shall apply with respect to paragraphs (1)(C) and (2)(B) of subsection (b) without regard to this subsection.
 
 “(2)
 

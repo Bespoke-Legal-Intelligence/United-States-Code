@@ -64,5 +64,5 @@ Subsec. (d). Pub. L. 103–359 added subsec. (d).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 951, 1956, 3077, 3239 of this title; title 5 section 8312; title 8 section 1101; title 22 section 2778; title 38 section 6105; title 42 section 2000aa; title 50 App. section 2410.
+This section is referred to in sections 951, 1956, 3077, 3239 of this title; title 5 section 8312; title 8 section 1101; title 19 section 1583; title 22 section 2778; title 38 section 6105; title 42 section 2000aa; title 50 App. section 2410.
 

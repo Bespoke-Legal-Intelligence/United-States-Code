@@ -68,7 +68,7 @@ Pub. L. 92–52 substituted “1975” for “1974” wherever appearing.
 
 1968—Pub. L. 90–490 substituted “1974” for “1972” wherever appearing.
 
-1966—Subsec. (a). Pub. L. 89–751, §6(d)(1), (2), substituted “an agreement pursuant to section 297a(b) ofthis title” for “this part” in opening provisions, and in par. (1) substituted “such balance” for “the balance”.
+1966—Subsec. (a). Pub. L. 89–751, §6(d)(1), (2), substituted “an agreement pursuant to section 297a(b) of this title” for “this part” in opening provisions, and in par. (1) substituted “such balance” for “the balance”.
 
 Subsec. (b). Pub. L. 89–751, §6(d)(3), inserted “(other than so much of such fund as relates to payments from the revolving fund established by section 297f(d) of this title)”.
 

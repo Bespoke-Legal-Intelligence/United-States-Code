@@ -20,7 +20,7 @@
 
 #### (B) In general
 
-&emsp;&emsp;Of the amount appropriated under section 6302(f) of this title that remains after making the reservation under subparagraph (A) for a fiscal year, the Secretary shall allot to each State for the fiscal year an amount that bears the same ratio to the remainder for that fiscal year as the amount made available under section 6333 of this title to the State for the preceding fiscal year bears to the total amount made available under section 6333 of this title to all States for that year.
+&emsp;&emsp;Of the amount appropriated under section 6302(f) of this title that remains after making the reservation under subparagraph (A) for a fiscal year, the Secretary shall allot to each State for the fiscal year an amount that bears the same ratio to the remainder for that fiscal year as the amount madeavailable under section 6333 of this title to the State for the preceding fiscal year bears to the total amount made available under section 6333 of this title to all States for that year.
 
 #### (C) Reallotment
 
@@ -30,7 +30,7 @@
 
 #### Prior Provisions
 
-A prior section 6512, Pub. L. 89–10, title I, §1602, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat.3610, related to coordination of Federal, State, and local administration, prior to the general amendment of this subchapter by Pub. L. 107–110.
+A prior section 6512, Pub. L. 89–10, title I, §1602, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3610, related to coordination of Federal, State, and local administration, prior to the general amendment of this subchapter by Pub. L. 107–110.
 
 <i><sup>1</sup></i><i> So in original. No subsec. (b) has been enacted.</i>
 

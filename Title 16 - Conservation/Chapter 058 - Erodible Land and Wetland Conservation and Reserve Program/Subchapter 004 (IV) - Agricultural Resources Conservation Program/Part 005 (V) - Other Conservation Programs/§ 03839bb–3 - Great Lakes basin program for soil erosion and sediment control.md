@@ -1,0 +1,20 @@
+### §3839bb–3. Great Lakes basin program for soil erosion and sediment control
+
+#### (a) In general
+
+The Secretary, in consultation with the Great Lakes Commission created by Article IV of the Great Lakes Basin Compact (82 Stat. 415) and in cooperation with the Administrator of the Environmental Protection Agency and the Secretary of the Army, may carry out the Great Lakes basin program for soil erosion and sediment control (referred to in this section as the “program”).
+
+#### (b) Assistance
+
+In carrying out the program, the Secretary may—
+
+&emsp;(1) provide project demonstration grants, provide technical assistance, and carry out information and education programs to improve water quality in the Great Lakes basin by reducing soil erosion and improving sediment control; and
+
+&emsp;(2) provide a priority for projects and activities that directly reduce soil erosion or improve sediment control.
+
+#### (c) Authorization of appropriations
+
+There is authorized to be appropriated to carry out this section $5,000,000 for each of fiscal years 2002 through 2007.
+
+(Pub. L. 99–198, title XII, §1240P, as added Pub. L. 107–171, title II, §2502(a), May 13, 2002, 116 Stat. 267.)
+

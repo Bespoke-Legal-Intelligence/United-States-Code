@@ -18,7 +18,7 @@ The duties of the Administrator in implementing and effectuating the Program sha
 
 &emsp;(2) the distribution of the information described in paragraph (1) (in any appropriate form such as pamphlets, reports, or instructions) to State and local educational agencies and to other institutions, including parent and employee organizations, for the purpose of carrying out activities described in this subchapter;
 
-&emsp;(3) not later than November 15 of each year for which this subchapter is authorized, the development and distribution of applications, or notifications to all local educational agencies of the availability of application forms including information for obtaining such forms; and
+&emsp;(3) not later than November 15 of each year for which this subchapter is authorized, thedevelopment and distribution of applications, or notifications to all local educational agencies of the availability of application forms including information for obtaining such forms; and
 
 &emsp;(4) the review of applications for financial assistance, and the approval or disapproval of such applications, in accordance with the provisions of section 4014 of this title.
 

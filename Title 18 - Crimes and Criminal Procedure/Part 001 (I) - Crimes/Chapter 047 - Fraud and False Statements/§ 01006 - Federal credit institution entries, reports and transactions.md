@@ -82,5 +82,5 @@ Establishment of Farm Credit Administration as independent agency, and other cha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 225, 981, 982, 1510, 1956, 3056, 3059A, 3293, 3322 of this title; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b.
+This section is referred to in sections 225, 981, 982, 1510, 1956, 3056, 3293, 3322 of this title; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b.
 

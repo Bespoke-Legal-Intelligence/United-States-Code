@@ -40,7 +40,7 @@ The Secretary shall—
 
 #### (2) Period of debarment
 
-&emsp;The Secretary's debarment order shall state whether the debarment is temporary or permanent. If the debarment is temporary, the Secretary shall specify a date, not earlier than3 years after the date of the order, on or after which the agency or person may apply to the Secretary for withdrawal of the debarment.
+&emsp;The Secretary's debarment order shall state whether the debarment is temporary or permanent. If the debarment is temporary, the Secretary shall specify a date, not earlier than 3 years after the date of the order, on or after which the agency or person may apply to the Secretary for withdrawal of the debarment.
 
 #### (3) Effect of debarment
 

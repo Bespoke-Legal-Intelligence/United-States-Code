@@ -236,7 +236,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 &emsp;&emsp;“(vi) an inspection of that Mexican motor carrier's commercial vehicles to be used under such operating authority, if any such commercial vehicles have not received a decal from the inspection required in subsection (a)(5);
 
-&emsp;&emsp;“(vii) an evaluation of that motor carrier's safety inspection, maintenance, and repair facilities ormanagement systems, including verification of records of periodic vehicle inspections;
+&emsp;&emsp;“(vii) an evaluation of that motor carrier's safety inspection, maintenance, and repair facilities or management systems, including verification of records of periodic vehicle inspections;
 
 &emsp;&emsp;“(viii) verification of drivers’ qualifications, including a confirmation of the validity of the Licencia de Federal de Conductor of each driver of that motor carrier who will be operating under such authority; and
 
@@ -296,7 +296,7 @@ Pub. L. 107–87, title III, §350, Dec. 18, 2001, 115 Stat. 864, provided that:
 
 “(b) No vehicles owned or leased by a Mexican motor carrier and carrying hazardous materials in a placardable quantity may be permitted to operate beyond a United States municipality or commercial zone until the United States has completed an agreement with the Government of Mexico which ensures that drivers of such vehicles carrying such placardable quantities of hazardous materials meet substantially the same requirements as United States drivers carrying such materials.
 
-“(c) No vehicles owned or leased by a Mexican motor carrier may be permitted to operate beyond UnitedStates municipalities and commercial zones under conditional or permanent operating authority granted by the Federal Motor Carrier Safety Administration until—
+“(c) No vehicles owned or leased by a Mexican motor carrier may be permitted to operate beyond United States municipalities and commercial zones under conditional or permanent operating authority granted by the Federal Motor Carrier Safety Administration until—
 
 &emsp;“(1) the Department of Transportation Inspector General conducts a comprehensive review of border operations within 180 days of enactment \[probably means date of enactment of this Act, which was approved Dec. 18, 2001\] to verify that—
 
@@ -406,9 +406,29 @@ The North American Free Trade Agreement (NAFTA) established a schedule for liber
 
 Pursuant to 49 U.S.C. 13902(c)(5), I have determined that expeditious action is required to implement these modifications to the moratorium. Effective today, the Department of Transportation will accept and expeditiously process applications, submitted by enterprises domiciled in the United States that are owned or controlled by persons of Mexico, to obtain operating authority to provide truck services for the transportation of international cargo between points in the United States or to provide bus services between points in the United States.
 
-Motor carriers domiciled in the United States that are owned or controlled by persons of Mexico will be subject to the same Federal and State regulations and procedures that apply to all other U.S. carriers. These include safety regulations, such as drug and alcoholtesting; insurance requirements; taxes and fees; and all other applicable laws and regulations, including those administered by the U.S. Customs Service, the Immigration and Naturalization Service, and the Department of Labor.
+Motor carriers domiciled in the United States that are owned or controlled by persons of Mexico will be subject to the same Federal and State regulations and procedures that apply to all other U.S. carriers. These include safety regulations, such as drug and alcohol testing; insurance requirements; taxes and fees; and all other applicable laws and regulations, including those administered by the U.S. Customs Service, the Immigration and Naturalization Service, and the Department of Labor.
 
 This memorandum shall be published in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+Memorandum of President of the United States, Nov. 27, 2002, 67 F.R. 71795, provided:
+
+Memorandum for the Secretary of Transportation
+
+Section 6 of the Bus Regulatory Reform Act of 1982, Public Law 97–261, 96 Stat. 1103 \[see former 49 U.S.C. 10922(m)(1), (2)\], imposed a moratorium on the issuance of certificates or permits to motor carriers domiciled in, or owned or controlled by persons of, a contiguous foreign country and authorized the President to modify the moratorium. The Interstate Commerce Commission Termination Act of 1995 (ICCTA), Public Law 104–88, 109 Stat. 803 \[ICC Termination Act of 1995, see Tables for classification\], maintained these restrictions, subject to modifications made prior to the enactment of the ICCTA \[Dec. 29, 1995\], and empowered the President to make further modifications to the moratorium.
+
+Pursuant to 49 U.S.C. 13902(c)(3), I modified the moratorium on June 5, 2001, to allow motor carriers domiciled in the United States that are owned or controlled by persons of Mexico to obtain operating authority to transport international cargo by truck between points in the United States and to provide bus services between points in the United States.
+
+The North American Free Trade Agreement (NAFTA) established a schedule for liberalizing certain restrictions on the provision of bus and truck services by Mexican-domiciled motor carriers in the United States. Pursuant to 49 U.S.C. 13902(c)(3), I hereby determine that the following modifications to the moratorium are consistent with obligations of the United States under NAFTA and with our national transportation policy and that the moratorium shall be modified accordingly.
+
+First, qualified motor carriers domiciled in Mexico will be allowed to obtain operating authority to transport passengers in cross-border scheduled bus services. Second, qualified motor carriers domiciled in Mexico will be allowed to obtain operating authority to provide cross-border truck services. The moratorium on the issuance of certificates or permits to Mexican-domiciled motor carriers for the provision of truck or bus services between points in the United States will remain in place. These modifications shall be effective on the date of this memorandum.
+
+Furthermore, pursuant to 49 U.S.C. 13902(c)(5), I hereby determine that expeditious action is required to implement this modification to the moratorium. Effective on the date of this memorandum, the Department of Transportation is authorized to act on applications, submitted by motor carriers domiciled in Mexico, to obtain operating authority to provide cross-border scheduled bus services and cross-border truck services. In reviewing such applications, the Department shall continue to work closely with the Department of Justice, the Office of Homeland Security, and other relevant Federal departments, agencies, and offices in order to help ensure the security of the border and to prevent potential threats to national security.
+
+Motor carriers domiciled in Mexico operating in the United States will be subject to the same Federal and State laws, regulations, and procedures that apply to carriers domiciled in the United States. These include safety regulations, such as drug and alcohol testing requirements; insurance requirements; taxes and fees; and other applicable laws and regulations, including those administered by the United States Customs Service, the Immigration and Naturalization Service, the Department of Labor, and Federal and State environmental agencies.
+
+You are authorized and directed to publish this memorandum in the Federal Register.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

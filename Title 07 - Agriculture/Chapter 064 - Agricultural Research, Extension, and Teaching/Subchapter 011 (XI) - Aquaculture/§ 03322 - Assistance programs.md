@@ -16,7 +16,7 @@ The Secretary may make grants to—
 
 &emsp;(4) nonprofit private research institutions;
 
-> for research and extension to facilitate or expand promising advances in the production and marketing of aquacultural food species and products and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds. Exceptin the case of Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980 \[16 U.S.C. 2801 et seq.\].
+> for research and extension to facilitate or expand promising advances in the production and marketing of aquacultural food species and products and to enhance further the safety and wholesomeness of those species and products, including the development of reliable supplies of seed stock and therapeutic compounds. Except in the case of Federal laboratories, no grant may be made under this subsection unless the State in which the grant recipient is located makes a matching grant (of which amount an in-kind contribution may not exceed 50 percent) to such recipient equal to the amount of the grant to be made under this subsection, and unless the grant is in implementation of the national aquaculture development plan, and revisions thereto, developed under the National Aquaculture Act of 1980 \[16 U.S.C. 2801 et seq.\].
 
 #### (c) Aquaculture development plans
 
@@ -38,7 +38,7 @@ The Secretary shall implement, in consultation with the Joint Subcommittee on Aq
 
 #### References in Text
 
-The National Aquaculture Act of 1980, referred to in subsecs. (a), (b), and (c), is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§2801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 2801 of Title 16 and Tables.
+The National Aquaculture Act of 1980, referred to in subsecs. (a), (b), and (c), is Pub. L. 96–362, Sept. 26, 1980, 94 Stat. 1198, which is classified generally to chapter 48 (§2801 et seq.) of Title 16, Conservation. For completeclassification of this Act to the Code, see Short Title note set out under section 2801 of Title 16 and Tables.
 
 #### Amendments
 

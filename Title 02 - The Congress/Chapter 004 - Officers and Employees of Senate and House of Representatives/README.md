@@ -540,7 +540,7 @@
 | [130e.](%C2%A7%2000130e%20-%20Special%20Services%20Office.md) | Special Services Office. |
 | [130f.](%C2%A7%2000130f%20-%20Office%20of%20General%20Counsel%20of%20House%3B%20administrative%20provisions.md) | Office of General Counsel of House; administrative provisions. |
 | (a) | Compliance with admission requirements. |
-| (b) | Notification by Attorney General. |
+| (b) | Repealed. |
 | (c) | General Counsel definition. |
 | (d) | Effective date. |
 | [130g.](%C2%A7%2000130g%20-%20Support%20services%20for%20Senate%20during%20emergency%3B%20memorandum%20of%20understanding%20with%20an%20executive%20agency.md) | Support services for Senate during emergency; memorandum of understanding with an executive agency. |

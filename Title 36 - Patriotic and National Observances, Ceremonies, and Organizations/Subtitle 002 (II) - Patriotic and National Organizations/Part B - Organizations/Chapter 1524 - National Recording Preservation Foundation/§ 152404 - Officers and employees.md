@@ -14,7 +14,7 @@ Secretary of the Board.—(1) The Librarian shall appoint a Secretary of the Boa
 
 (b)
 
-Appointment of Officers.—Except as provided in subsection (a) of this section, the board of directors appoints, removes, and replaces officers of the corporation.
+Appointment of Officers.—Except as provided in subsection (a) of this section, the boardof directors appoints, removes, and replaces officers of the corporation.
 
 (c)
 

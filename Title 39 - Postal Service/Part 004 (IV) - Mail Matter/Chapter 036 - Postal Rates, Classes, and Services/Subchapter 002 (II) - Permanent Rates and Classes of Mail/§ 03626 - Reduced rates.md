@@ -8,7 +8,7 @@
 
 &emsp;(B) the term “regular-rate category” means any class of mail or kind of mailer, other than a class or kind referred to in paragraph (3)(A) or section 2401(c); and
 
-&emsp;(C) the term “institutional-costs contribution”, as used with respect to a class of mail or kind of mailer, means that portion of the estimated revenues to the Postal Service from such class of mail or kind of mailer which remains after subtracting an amount equal to the estimated costs attributable to such class of mail or kind of mailer.
+&emsp;(C) the term “institutional-costs contribution”, as used with respect to a class of mail or kind of mailer, means that portion of the estimated revenues to the Postal Service fromsuch class of mail or kind of mailer which remains after subtracting an amount equal to the estimated costs attributable to such class of mail or kind of mailer.
 
 (3)(A) Except as provided in paragraph (4) or (5), rates of postage for a class of mail or kind of mailer under former section 4358 of this title shall be established in a manner such that the estimated revenues to be received by the Postal Service from such class of mail or kind of mailer shall be equal to the sum of—
 
@@ -64,7 +64,7 @@
 
 (2) In the administration of this section, and for purposes of former sections 4358(j)(2), 4452(d), and 4554(b)(1)(B) of this title, agricultural organizations or associations shall include any organization or association which collects and disseminates information or materials relating to agricultural pursuits.
 
-(e)(1) In the administration of this section, the rates for third-class mail matter mailed by a qualified political committee shall be the rates currently in effect under former section 4452 of this title for third-class mail matter mailed by a qualified nonprofit organization.
+(e)(1) In the administration of this section, the rates for third-class mail matter mailed by a qualified political committee shall be the ratescurrently in effect under former section 4452 of this title for third-class mail matter mailed by a qualified nonprofit organization.
 
 (2) For purposes of this subsection—
 
@@ -254,7 +254,7 @@ Section 2 of Pub. L. 101–509 provided that:
 
 “(a)
 
-In General.—The United States Postal Service may forbear from the collection of any postage deficiency assessed against an organization authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of title 39, United States Code, if the assessment of that deficiency arises from a violation of the cooperative mailing regulations of the Postal Service set forth at section 625.5 of the Domestic Mail Manual, and the Postal Service has made no determination that the organization knowingly or willfully violated suchregulations. If any organizations authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of title 39, United States Code, has paid on its own behalf all or part of a postage deficiency which the Postal Service would forbear from collecting under this section, the Postal Service may refund to that organization the amount which it has paid.
+In General.—The United States Postal Service may forbear from the collection of any postage deficiency assessed against an organization authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of title 39, United States Code, if the assessment of that deficiency arises from a violation of the cooperative mailing regulations of the Postal Service set forth at section 625.5 of the Domestic Mail Manual, and the Postal Service has made no determination that the organization knowingly or willfully violated such regulations. If any organizations authorized to mail at the rates for mail under former section 4452(b) or 4452(c) of title 39, United States Code, has paid on its own behalf all or part of a postage deficiency which the Postal Service would forbear from collecting under this section, the Postal Service may refund to that organization the amount which it has paid.
 
 “(b)
 

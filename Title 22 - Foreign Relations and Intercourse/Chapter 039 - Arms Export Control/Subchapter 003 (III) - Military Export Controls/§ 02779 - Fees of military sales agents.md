@@ -12,7 +12,7 @@ In accordance with such regulations as he may prescribe, the Secretary of State 
 
 #### (b) Presidential regulation
 
-The President may, by regulation, prohibit, limit, or prescribe conditions with respect to such contributions, gifts, commissions, and feesas he determines will be in furtherance of the purposes of this chapter.
+The President may, by regulation, prohibit, limit, or prescribe conditions with respect to such contributions, gifts, commissions, and fees as he determines will be in furtherance of the purposes of this chapter.
 
 #### (c) Allocation to contract; improper influence
 

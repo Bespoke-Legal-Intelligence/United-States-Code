@@ -36,7 +36,7 @@ A State may not use amounts paid to it under section 300w–2 of this title to�
 
 &emsp;(5) provide financial assistance to any entity other than a public or nonprofit private entity.
 
-> Except as provided in subsection (a)(1)(E) of this section, the Secretary may waive the limitationcontained in paragraph (3) upon the request of a State if the Secretary finds that there are extraordinary circumstances to justify the waiver and that granting the waiver will assist in carrying out this part.
+> Except as provided in subsection (a)(1)(E) of this section, the Secretary may waive the limitation contained in paragraph (3) upon the request of a State if the Secretary finds that there are extraordinary circumstances to justify the waiver and that granting the waiver will assist in carrying out this part.
 
 #### (c) Transfer of funds
 
@@ -60,7 +60,7 @@ Subsec. (a)(1)(F). Pub. L. 106–310, §511(1), (4), redesignated subpar. (E) as
 
 Subsec. (a)(1)(G). Pub. L. 106–310, §511(1), (2), (5), redesignated subpar. (F) as (G) and substituted “subparagraphs (A) through (F).” for “subparagraphs (A) through (E)”.
 
-1992—Subsec. (a)(1). Pub. L. 102–531, §102(a), amended par. (1) generally, substituting present provisions for provisions authorizing, except as provided in subsecs. (b) and (c), use of the amounts paid to a State under section 300w–2 of this title from its allotment under section 300w–1(a) of this title and amounts transferred by the State, for use in preventive health service programs, including hypertension and high cholesterol services, health-risk reduction programs, immunization services, home health agencies, emergency medical services, services to victims of sex offenses, and uterine cancer and breast cancer services.
+1992—Subsec. (a)(1). Pub. L. 102–531, §102(a), amended par. (1) generally, substituting present provisions for provisions authorizing, except as provided in subsecs.\(b) and (c), use of the amounts paid to a State under section 300w–2 of this title from its allotment under section 300w–1(a) of this title and amounts transferred by the State, for use in preventive health service programs, including hypertension and high cholesterol services, health-risk reduction programs, immunization services, home health agencies, emergency medical services, services to victims of sex offenses, and uterine cancer and breast cancer services.
 
 Subsec. (c). Pub. L. 102–531, §102(b), substituted “part B” for “parts B and C”.
 

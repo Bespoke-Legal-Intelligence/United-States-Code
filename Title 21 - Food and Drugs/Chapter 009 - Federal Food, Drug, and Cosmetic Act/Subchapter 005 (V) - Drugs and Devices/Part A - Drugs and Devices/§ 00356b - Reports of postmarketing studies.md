@@ -26,7 +26,27 @@ The Secretary shall annually develop and publish in the Federal Register a repor
 
 &emsp;(2) for which reports have been submitted under subsection (a)(1) of this section.
 
-(June 25, 1938, ch. 675, §506B, as added Pub. L. 105–115, title I, §130(a), Nov. 21, 1997, 111 Stat. 2331.)
+#### (d) Disclosure
+
+If a sponsor fails to complete an agreed upon study required by this section by its original or otherwise negotiated deadline, the Secretary shall publish a statement on the Internet site of the Food and Drug Administration stating that the study was not completed and, if the reasons for such failure to complete the study were not satisfactory to the Secretary, a statement that such reasons were not satisfactory to the Secretary.
+
+#### (e) Notification
+
+With respect to studies of the type required under section 356(b)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as each of such sections was in effect on the day before the effective date of this subsection, the Secretary may require that a sponsor who, for reasons not satisfactory to the Secretary, fails to complete by its deadline a study under any of such sections of such type for a drug or biological product (including such a study conducted after such effective date) notify practitioners who prescribe such drug or biological product of the failure to complete such study and the questions of clinical benefit, and, where appropriate, questions of safety, that remain unanswered as a result of the failure to complete such study. Nothing in this subsection shall be construed as altering the requirements of thetypes of studies required under section 356(b)(2)(A) of this title or under section 314.510 or 601.41 of title 21, Code of Federal Regulations, as so in effect, or as prohibiting the Secretary from modifying such sections of title 21 of such Code to provide for studies in addition to those of such type.
+
+(June 25, 1938, ch. 675, §506B, as added Pub. L. 105–115, title I, §130(a), Nov. 21, 1997, 111 Stat. 2331; amended Pub. L. 107–188, title V, §506, June 12, 2002, 116 Stat. 693.)
+
+#### References in Text
+
+The effective date of this subsection, referred to in subsec. (e), is Oct. 1, 2002, see Effective Date of 2002 Amendment note set out below.
+
+#### Amendments
+
+2002—Subsecs. (d), (e). Pub. L. 107–188 added subsecs. (d) and (e).
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–188, title V, §508, June 12, 2002, 116 Stat. 694, provided that: “The amendments made by this subtitle \[subtitle A (§§501–509) of title V of Pub. L. 107–188, amending this section and sections 379g and 379h of this title\] shall take effect October 1, 2002.”
 
 #### Effective Date
 

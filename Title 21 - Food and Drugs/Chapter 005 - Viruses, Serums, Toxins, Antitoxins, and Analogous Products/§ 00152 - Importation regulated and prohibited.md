@@ -16,3 +16,7 @@ See note set out under section 151 of this title.
 
 Amendment by Pub. L. 100–449 effective on the date the United States-Canada Free-Trade Agreement enters into force (Jan. 1, 1989), and to cease to have effect on the date the Agreement ceases to be in force, see section 501(a), (c) of Pub. L. 100–449, set out in a note under section 2112 of Title 19, Customs Duties.
 
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

@@ -6,7 +6,7 @@ No investment company organized or otherwise created under the laws of the Unite
 
 &emsp;(1) offer for sale, sell, or deliver after sale, by the use of the mails or any means or instrumentality of interstate commerce, any security or any interest in a security, whether the issuer of such security is such investment company or another person; or offer for sale, sell, or deliver after sale any such security or interest, having reason to believe that such security or interest will be made the subject of a public offering by use of the mails or any means or instrumentality of interstate commerce;
 
-&emsp;(2) purchase, redeem, retire, or otherwise acquire or attempt to acquire, by use of the mails or any means or instrumentality of interstate commerce, any security or any interest in a security, whether the issuer of such security is such investment company or another person;
+&emsp;(2) purchase, redeem, retire, or otherwise acquire or attempt to acquire, by use of themails or any means or instrumentality of interstate commerce, any security or any interest in a security, whether the issuer of such security is such investment company or another person;
 
 &emsp;(3) control any investment company which does any of the acts enumerated in paragraphs (1) and (2) of this subsection;
 
@@ -30,7 +30,7 @@ No depositor or trustee of or underwriter for any investment company, organized 
 
 #### (c) Prohibition of transactions in interstate commerce by promoters of proposed investment companies
 
-No promoter of a proposed investment company, and no underwriter for such a promoter,shall make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to offer for sale, sell, or deliver after sale, in connection with a public offering, any preorganization certificate or subscription for such a company.
+No promoter of a proposed investment company, and no underwriter for such a promoter, shall make use of the mails or any means or instrumentality of interstate commerce, directly or indirectly, to offer for sale, sell, or deliver after sale, in connection with a public offering, any preorganization certificate or subscription for such a company.
 
 #### (d) Prohibition of transactions in interstate commerce by companies not organized under laws of the United States or a State; exceptions
 

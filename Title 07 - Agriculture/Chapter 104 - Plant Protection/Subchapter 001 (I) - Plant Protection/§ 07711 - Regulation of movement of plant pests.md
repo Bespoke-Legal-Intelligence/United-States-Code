@@ -16,7 +16,7 @@ The Secretary shall ensure that the processes used in developing regulations und
 
 #### (2) Petition to add or remove plant pests from regulation
 
-&emsp;Any person may petition the Secretary to add a plant pest to, or remove a plant pest from, the regulations issued by the Secretary under paragraph (1).
+&emsp;Any person may petition the Secretary to add a plant pest to, or remove a plant pestfrom, the regulations issued by the Secretary under paragraph (1).
 
 #### (3) Response to petition by the Secretary
 
@@ -51,6 +51,10 @@ Regulations issued by the Secretary to implement subsections (a), (c), and (d) o
 &emsp;(4) be subject to remedial measures the Secretary determines to be necessary to prevent the spread of plant pests.
 
 (Pub. L. 106–224, title IV, §411, June 20, 2000, 114 Stat. 440.)
+
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

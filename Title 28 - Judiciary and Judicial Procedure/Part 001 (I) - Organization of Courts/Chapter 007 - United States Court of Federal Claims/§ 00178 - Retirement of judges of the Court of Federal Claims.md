@@ -148,9 +148,9 @@ Section 7447 of the Internal Revenue Code of 1986, referred to in subsec. (f)(2)
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in section catchline and wherever appearing in text.
+1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” in subsec. (a) and “Court of Federal Claims” for “Claims Court” in section catchline and wherever appearing in text.
 
-<b>1991</b>—Subsec. (f)(2)(A). Pub. L. 102–198, §7(a)(1), inserted “(except for subchapters III and VII)” after “chapter 84”.
+1991—Subsec. (f)(2)(A). Pub. L. 102–198, §7(a)(1), inserted “(except for subchapters III and VII)” after “chapter 84”.
 
 Subsec. (f)(2)(D). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
 
@@ -170,7 +170,7 @@ Section applicable to judges of, and senior judges in active service with, the U
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 179, 376, 604, 797 of this title; title 5 sections 8334, 8402, 8440c.
+This section is referred to in sections 179, 364, 376, 604, 797 of this title; title 5 sections 8334, 8402, 8440c.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “of the”.</i>
 

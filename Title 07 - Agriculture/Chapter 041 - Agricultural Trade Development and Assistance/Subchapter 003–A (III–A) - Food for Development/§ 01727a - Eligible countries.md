@@ -32,7 +32,7 @@ In determining whether and to what extent agricultural commodities shall be made
 
 &emsp;(2) demonstrate the capacity to use food assistance effectively;
 
-&emsp;(3) have demonstrated a commitment to policies to promote food security, including policies to reduce measurably hunger and malnutrition through efforts such as establishing and institutionalizing supplemental nutrition programs targeted to reach those who are nutritionally at risk; and
+&emsp;(3) have demonstrated a commitment to policies to promote food security, includingpolicies to reduce measurably hunger and malnutrition through efforts such as establishing and institutionalizing supplemental nutrition programs targeted to reach those who are nutritionally at risk; and
 
 &emsp;(4) have a long-term plan for broad-based, equitable, and sustainable development.
 
@@ -40,7 +40,7 @@ In determining whether and to what extent agricultural commodities shall be made
 
 #### Prior Provisions
 
-A prior section 302 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, which amended section 1431 of thistitle, was renumbered section 309 by Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548.
+A prior section 302 of act July 10, 1954, ch. 469, title III, 68 Stat. 458, which amended section 1431 of this title, was renumbered section 309 by Pub. L. 95–88, title II, §211(a)(1), Aug. 3, 1977, 91 Stat. 548.
 
 #### Amendments
 

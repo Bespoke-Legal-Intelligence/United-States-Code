@@ -22,3 +22,7 @@
 
 (Added Pub. L. 104–324, title II, §201(a), Oct. 19, 1996, 110 Stat. 3906.)
 
+#### References in Text
+
+Section 616 of the Act of December 22, 1987 (40 U.S.C. 490b), referred to in subsec. (g), is section 101(m) \[title VI, §616\] of Pub. L. 100–202, Dec. 22, 1987, 101 Stat. 1329–390, 1329–423, as amended, which was classified to section 490b of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 590(a)–(d) and (f) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+

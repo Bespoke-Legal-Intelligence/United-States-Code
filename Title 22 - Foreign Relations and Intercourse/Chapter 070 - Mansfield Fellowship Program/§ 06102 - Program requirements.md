@@ -20,13 +20,13 @@ The program established under this chapter shall comply with the following requi
 
 &emsp;(B) Such training shall be of the same quality as training provided to Foreign Service officers before they are assigned to Japan.
 
-&emsp;(C) The Center may waive any or all of the training required by subparagraph (A) to the extent that a fellow has Japanese languageskills or knowledge of Japan's political economy, and the 2-year fellowship period shall be shortened to the extent such training is less than one year.
+&emsp;(C) The Center may waive any or all of the training required by subparagraph (A) to the extent that a fellow has Japanese language skills or knowledge of Japan's political economy, and the 2-year fellowship period shall be shortened to the extent such training is less than one year.
 
 &emsp;(6) Any fellow who is not a detailee who does not comply with the requirements of this section shall reimburse the United States Information Agency for the Federal funds expended for the Fellow's participation in the fellowship, together with interest on such funds (calculated at the prevailing rate), as follows:
 
 &emsp;&emsp;(A) Full reimbursement for noncompliance with paragraph (3)(A) or (9).
 
-&emsp;&emsp;(B) Pro rata reimbursement for noncompliance with paragraph (3)(B) for any period the fellow is reemployed by the Federal Government that is less than the period specified in paragraph (3)(B), at a rate equal to the amount the fellow received during the final year of the fellowship for the same period of time, including any allowances and benefits provided under paragraph (4).
+&emsp;&emsp;(B) Pro rata reimbursement for noncompliance with paragraph (3)(B) for any period thefellow is reemployed by the Federal Government that is less than the period specified in paragraph (3)(B), at a rate equal to the amount the fellow received during the final year of the fellowship for the same period of time, including any allowances and benefits provided under paragraph (4).
 
 &emsp;(7) The Center shall select fellows based solely on merit. The Center shall make positive efforts to recruit candidates reflecting the cultural, racial, and ethnic diversity of the United States.
 

@@ -238,7 +238,7 @@ Each eligible entity that receives a grant under this section shall provide, to 
 
 #### (C) Partnerships
 
-&emsp;&emsp;In carrying out national activities under this paragraph, the Secretary may enter into partnerships with national nonprofit character education organizations and institutions of higher education with expertise and successful experience in implementing—
+&emsp;&emsp;In carrying out national activities under this paragraph, the Secretary may enterinto partnerships with national nonprofit character education organizations and institutions of higher education with expertise and successful experience in implementing—
 
 &emsp;&emsp;&emsp;(i) character education programs that had an effective impact on schools, students, students with disabilities (including those with mental or physical disabilities), and teachers; or
 

@@ -20,7 +20,7 @@ WHEREAS the State of Hawaii has this day been admitted into the Union; and
 
 WHEREAS section 2 of title 4 of the United States Code provides as follows: “On the admission of a new State into the Union one star shall be added to the union of the flag; and such addition shall take effect on the fourth day of July then next succeeding such admission.”; and
 
-WHEREAS the Federal Property and Administrative Services Act of 1949 (63 Stat. 377), as amended \[see Short Title note under section 471 of Title 40, Public Buildings, Property, and Works\] authorizes the President to prescribe policies and directives governing the procurement and utilization of property by executive agencies; and
+WHEREAS the Federal Property and Administrative Services Act of 1949 (63 Stat. 377), as amended \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\] authorizes the President to prescribe policies and directives governing the procurement and utilization of property by executive agencies; and
 
 WHEREAS the interests of the Government require that orderly and reasonable provision be made for various matters pertaining to the flag and that appropriate regulations governing the procurement and utilization of national flags and union jacks by executive agencies be prescribed:
 

@@ -26,7 +26,7 @@ In addition to information required in this section, the stamp, tag, label, or o
 
 #### (c) Substitute identification
 
-If any person subject to section 68a of this title with respect to a wool product finds or has reasonable cause to believe its stamp, tag, label, or other means of identification, or substitute therefor under section 68c of this title, does not contain the information required by this subchapter, he may replace same with a substitute containing the information so required.
+If any person subject to section 68a of this title with respect to a wool product finds or hasreasonable cause to believe its stamp, tag, label, or other means of identification, or substitute therefor under section 68c of this title, does not contain the information required by this subchapter, he may replace same with a substitute containing the information so required.
 
 #### (d) Designations on linings, paddings, etc.
 

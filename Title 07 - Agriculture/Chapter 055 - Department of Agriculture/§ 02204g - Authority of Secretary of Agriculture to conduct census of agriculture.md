@@ -6,7 +6,7 @@ In 1998 and every fifth year thereafter, the Secretary of Agriculture shall take
 
 #### (b) Methods
 
-In connection with the census, the Secretary may conduct any survey or other informationcollection, and employ any sampling or other statistical method, that the Secretary determines is appropriate.
+In connection with the census, the Secretary may conduct any survey or other information collection, and employ any sampling or other statistical method, that the Secretary determines is appropriate.
 
 #### (c) Year of information
 

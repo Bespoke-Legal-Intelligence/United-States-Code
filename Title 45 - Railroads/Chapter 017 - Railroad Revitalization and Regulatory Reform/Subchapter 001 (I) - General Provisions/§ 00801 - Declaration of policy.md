@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-It is the purpose of the Congress in this Act to provide the means to rehabilitate and maintain the physical facilities, improve the operations and structure, and restore the financial stability of the railway system of the United States, and to promote the revitalization of such railway system, so that this mode of transportation will remain viable in the private sector of the economy and will be able to provide energy-efficient, ecologically compatible transportation services with greater efficiency, effectiveness, and economy, through—
+It is the purpose of the Congress in this Act to provide the means to rehabilitate and maintain the physical facilities, improve the operations and structure, and restore the financial stability of the railway system of the United States, and to promote the revitalization of such railway system, so that this mode of transportation will remain viable in the private sector of the economy and will be able to provide energy-efficient,ecologically compatible transportation services with greater efficiency, effectiveness, and economy, through—
 
 &emsp;(1) ratemaking and regulatory reform;
 

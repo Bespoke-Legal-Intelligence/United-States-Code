@@ -58,7 +58,7 @@ Qualifications.—Within 30 days after the date of enactment of the Aviation and
 
 &emsp;&emsp;&emsp;(i) to have a satisfactory or better score on a Federal security screening personnel selection examination;
 
-&emsp;&emsp;&emsp;(ii) to be a citizen of the United States;
+&emsp;&emsp;&emsp;(ii) to be a citizen of the United States or a national of the United States, as defined in section 1101(a)(22) <sup>1</sup> of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22));
 
 &emsp;&emsp;&emsp;(iii) to meet, at a minimum, the requirements set forth in subsection (f);
 
@@ -184,7 +184,7 @@ Current lists of dual use items.—Current lists of dual use items shall be part
 
 Dual use defined.—For purposes of this subsection, the term “dual use” item means an item that may seem harmless but that may be used as a weapon.
 
-(i) <sup>1</sup>
+(i) <sup>2</sup>
 
 Limitation on Right To Strike.—An individual that screens passengers or property, or both, at an airport under this section may not participate in a strike, or assert the right to strike, against the person (including a governmental entity) employing such individual to perform such screening.
 
@@ -192,11 +192,11 @@ Limitation on Right To Strike.—An individual that screens passengers or proper
 
 Uniforms.—The Under Secretary shall require any individual who screens passengers and property pursuant to section 44901 to be attired while on duty in a uniform approved by the Under Secretary.
 
-(i) <sup>1</sup>
+(i) <sup>2</sup>
 
 Accessibility of Computer-Based Training Facilities.—The Under Secretary shall work with air carriers and airports to ensure that computer-based training facilities intended for use by security screeners at an airport regularly serving an air carrier holding a certificate issued by the Secretary of Transportation are conveniently located for that airport and easily accessible.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1217; Pub. L. 106–528, §3, Nov. 22, 2000, 114 Stat. 2519; Pub. L. 107–71, title I, §§101(f)(7), (9), 111(a), Nov. 19, 2001, 115 Stat. 603, 616.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1217; Pub. L. 106–528, §3, Nov. 22, 2000, 114 Stat. 2519; Pub. L. 107–71, title I, §§101(f)(7), (9), 111(a), Nov. 19, 2001, 115 Stat. 603, 616; Pub. L. 107–296, title XVI, §1603, Nov. 25, 2002, 116 Stat. 2313.)
 
 Historical and Revision Notes
 
@@ -240,9 +240,11 @@ In subsection (d)(1), before clause (A), the words “Not later than 180 days af
 
 #### References in Text
 
-The date of enactment of the Aviation and Transportation Security Act, referred to in subsecs. (e)(2)(A) and (g)(2), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+The date of enactment of the Aviation and Transportation Security Act, referred to in subsecs. (e)(2)(A) and\(g)(2), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
 
 #### Amendments
+
+2002—Subsec. (e)(2)(A)(ii). Pub. L. 107–296 substituted “citizen of the United States or a national of the United States, as defined in section 1101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22))” for “citizen of the United States”.
 
 2001—Subsec. (a). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration” in introductory provisions.
 
@@ -268,9 +270,17 @@ Subsec. (j). Pub. L. 107–71, §111(a)(2), added subsec. (j).
 
 2000—Subsecs. (e), (f). Pub. L. 106–528 added subsecs. (e) and (f).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see section 9 of Pub. L. 106–528, set out as a note under section 106 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Transition
 
@@ -318,7 +328,9 @@ Report.—Not later than 1 year after the date of the enactment of this Act \[Oc
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 114, 40109, 40119, 44915, 44936, 44937 of this title.
+This section is referred to in sections 106, 114, 40109, 44915, 44936, 44937 of this title.
 
-<i><sup>1</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be section “101(a)(22)”.</i>
+
+<i><sup>2</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
 

@@ -42,7 +42,7 @@ A grant under this section—
 
 &emsp;(4) may be made subject to such conditions and requirements, in addition to those provided in this section, as the Administrator may require to properly carry out his functions pursuant to this chapter.
 
-> For purposes of paragraph (1), the non-Federal share may be in any form, including, but not limited to, lands or interests therein needed for the project or personal property or services, the value of which shall be determined by the Administrator.
+> For purposes of paragraph (1), the non-Federal share may be in any form, including, but not limited to, lands or interests therein needed for the project or personal property or services, thevalue of which shall be determined by the Administrator.
 
 #### (f) Single State
 

@@ -14,7 +14,7 @@ Reports to congress.—An independent counsel appointed under this chapter shall
 
 (b)
 
-Oversight of Conduct of Attorney General.—Within 15 days after receiving an inquiryabout a particular case under this chapter, which is a matter of public knowledge, from a committee of the Congress with jurisdiction over this chapter, the Attorney General shall provide the following information to that committee with respect to that case:
+Oversight of Conduct of Attorney General.—Within 15 days after receiving an inquiry about a particular case under this chapter, which is a matter of public knowledge, from a committee of the Congress with jurisdiction over this chapter, the Attorney General shall provide the following information to that committee with respect to that case:
 
 &emsp;(1) When the information about the case was received.
 
@@ -30,11 +30,11 @@ Information Relating to Impeachment.—An independent counsel shall advise the H
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(2). Pub. L. 103–270 substituted “annually a report on the activities of the independent counsel, including a description of the progress of any investigation or prosecution conducted by the independent counsel. Such report may omit any matter that in the judgment of the independent counsel should be kept confidential, but shall provide information adequate to justify the expenditures that the office of the independent counsel has made” for “such statements or reports on the activities of such independent counsel as the independent counsel considers appropriate”.
+1994—Subsec. (a)(2). Pub. L. 103–270 substituted “annually a report on the activities of the independent counsel, including a description of the progress of any investigation or prosecution conducted by the independent counsel. Such report may omit any matter that in the judgment of the independent counsel should be kept confidential, but shall provide information adequate to justify the expenditures that the office of the independent counsel has made” for “such statements or reports on the activities of such independent counsel as the independent counsel considers appropriate”.
 
-<b>1987</b>—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (c) relating to congressional oversight for former subsecs. (a) to (e) relating to reporting and congressional oversight.
+1987—Pub. L. 100–191 amended section generally, substituting subsecs. (a) to (c) relating to congressional oversight for former subsecs. (a) to (e) relating to reporting and congressional oversight.
 
-<b>1983</b>—Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel's” for “special prosecutor's” wherever appearing.
+1983—Pub. L. 97–409, §2(a)(1), substituted “independent counsel” for “special prosecutor” and “independent counsel's” for “special prosecutor's” wherever appearing.
 
 #### Effective Date of 1994 Amendment; Transition Provisions
 

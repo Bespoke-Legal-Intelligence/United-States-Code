@@ -1,6 +1,6 @@
 ### §§6005 to 6009. Repealed. Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737
 
-Section 6005, Pub. L. 88–164, title I, §106, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2668; amendedPub. L. 103–230, title I, §107, Apr. 6, 1994, 108 Stat. 293, provided for state control of operations.
+Section 6005, Pub. L. 88–164, title I, §106, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2668; amended Pub. L. 103–230, title I, §107, Apr. 6, 1994, 108 Stat. 293, provided for state control of operations.
 
 A prior section 6005, Pub. L. 88–164, title I, §106, as added Pub. L. 94–103, title I, §125, Oct. 4, 1975, 89 Stat. 498, related to employment of handicapped individuals, prior to the general amendment of this chapter by Pub. L. 98–527.
 

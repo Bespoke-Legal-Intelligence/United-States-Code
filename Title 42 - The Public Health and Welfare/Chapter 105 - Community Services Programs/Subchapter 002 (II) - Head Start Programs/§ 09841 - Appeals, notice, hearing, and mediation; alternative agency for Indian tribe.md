@@ -4,7 +4,7 @@
 
 The Secretary shall prescribe procedures to assure that—
 
-&emsp;(1) special notice of and an opportunity for a timely and expeditious appeal to the Secretary will be provided for an agency or organization which desires to serve as a delegate agency under this subchapter and whose application to the Head Start agency has been wholly or substantially rejected or has not been acted upon within a period of timedeemed reasonable by the Secretary, in accordance with regulations which the Secretary shall prescribe;
+&emsp;(1) special notice of and an opportunity for a timely and expeditious appeal to the Secretary will be provided for an agency or organization which desires to serve as a delegate agency under this subchapter and whose application to the Head Start agency has been wholly or substantially rejected or has not been acted upon within a period of time deemed reasonable by the Secretary, in accordance with regulations which the Secretary shall prescribe;
 
 &emsp;(2) financial assistance under this subchapter shall not be suspended, except in emergency situations, unless the recipient agency has been given reasonable notice and opportunity to show cause why such action should not be taken;
 

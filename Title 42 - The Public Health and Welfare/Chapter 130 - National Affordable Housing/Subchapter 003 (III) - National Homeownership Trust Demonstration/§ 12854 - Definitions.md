@@ -32,7 +32,7 @@ For purposes of this subchapter:
 
 #### (5) State
 
-&emsp;The term “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
+&emsp;The term “State” means the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa,the Trust Territory of the Pacific Islands, and any other territory or possession of the United States.
 
 #### (6) Trust
 

@@ -2,7 +2,7 @@
 
 #### (a) Prohibition on decrease or elimination of duties or other import restrictions if such reduction or elimination would threaten to impair national security
 
-No action shall be taken pursuant to section 1821(a) of this title or pursuant to section 1351 of this title to decrease or eliminate the duty or other import restrictions on any article if the President determines that such reduction or elimination would threaten to impair the national security.
+No action shall be taken pursuant to section 1821(a) of this title or pursuant to section 1351 ofthis title to decrease or eliminate the duty or other import restrictions on any article if the President determines that such reduction or elimination would threaten to impair the national security.
 
 #### (b) Investigations by Secretary of Commerce to determine effects on national security of imports of articles; consultation with Secretary of Defense and other officials; hearings; assessment of defense requirements; report to President; publication in Federal Register; promulgation of regulations
 
@@ -212,7 +212,7 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 Section 1. (a) No petroleum product refined in Libya (except petroleum product loaded aboard maritime vessels at any time prior to two days after the effective date of this Executive Order) may be imported into the United States, its territories or possessions.
 
-(b) For the purposes of this Executive Order, the prohibition on importation of petroleum products refined in Libya shall apply to petroleum products which are currently classifiable under Item Numbers: 475.05; 475.10; 475.15; 475.25; 475.30; 475.35; 475.45; 475.65; 475.70 ofthe Tariff Schedules of the United States (19 U.S.C. 1202).
+(b) For the purposes of this Executive Order, the prohibition on importation of petroleum products refined in Libya shall apply to petroleum products which are currently classifiable under Item Numbers: 475.05; 475.10; 475.15; 475.25; 475.30; 475.35; 475.45; 475.65; 475.70 of the Tariff Schedules of the United States (19 U.S.C. 1202).
 
 Sec. 2. The Secretary of the Treasury may issue such rulings and instructions, or, following consultation with the Secretaries of State and Energy, such regulations as he deems necessary to implement this Order.
 

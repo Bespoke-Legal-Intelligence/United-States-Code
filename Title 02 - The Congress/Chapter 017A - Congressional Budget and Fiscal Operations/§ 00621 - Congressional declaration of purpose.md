@@ -28,7 +28,7 @@ Pub. L. 106–141, §1, Dec. 7, 1999, 113 Stat. 1699, provided that: “This Act
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–108, §1, Dec. 23, 1981, 95 Stat. 1510, provided: “That this Act \[amending section 653 of this title and enacting provisions set out as notes under section 653 of this title\] may be cited as the ‘State and Local Government Cost Estimate Act of 1981’.”
+Pub. L. 97–108, §1, Dec. 23, 1981, 95 Stat. 1510, provided: “That this Act \[amending section 653 of this title andenacting provisions set out as notes under section 653 of this title\] may be cited as the ‘State and Local Government Cost Estimate Act of 1981’.”
 
 #### Short Title
 
@@ -66,7 +66,7 @@ Access to Relevant Information.—
 
 &emsp;“(1) For the studies required by this section, each GSE shall provide full and prompt access to the Secretary of the Treasury and the Director of the Congressional Budget Office to its books and records and other information requested by the Secretary of the Treasury or the Director of the Congressional Budget Office.
 
-&emsp;“(2) In preparing the studies required by this section, the Secretary of the Treasury and the Directorof the Congressional Budget Office may request information from, or the assistance of, any Federal department or agency authorized by law to supervise the activities of a GSE.
+&emsp;“(2) In preparing the studies required by this section, the Secretary of the Treasury and the Director of the Congressional Budget Office may request information from, or the assistance of, any Federal department or agency authorized by law to supervise the activities of a GSE.
 
 “(e)
 
@@ -108,7 +108,7 @@ Pub. L. 100–119, title II, §203, Sept. 29, 1987, 101 Stat. 784, provided that
 
 #### Exercise of Congressional Rulemaking Power
 
-Section 904 of Pub. L. 93–344, as amended by Pub. L. 99–177, title II, §271(a), Dec. 12, 1985, 99 Stat. 1094; Pub. L. 101–508, title XIII, §§13112(a)(11), 13208(a), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 104–130, §4(c), Apr. 9, 1996, 110 Stat. 1212; Pub. L. 105–33, title X, §10119, Aug. 5, 1997, 111 Stat. 695, provided that:
+Section 904 of Pub. L. 93–344, as amended by Pub. L. 99–177, title II, §271(a), Dec. 12, 1985, 99 Stat. 1094; Pub.L. 101–508, title XIII, §§13112(a)(11), 13208(a), Nov. 5, 1990, 104 Stat. 1388–608, 1388–619; Pub. L. 104–130, §4(c), Apr. 9, 1996, 110 Stat. 1212; Pub. L. 105–33, title X, §10119, Aug. 5, 1997, 111 Stat. 695, provided that:
 
 “(a) The provisions of this title and of titles I, III, IV, and V and the provisions of sections 701, 703,, \[sic\] 1017, 1025, and 1027 \[enacting this chapter (except subchapter IV) and sections 190a–3, 688, 691d, and 691f of this title, amending the Rules of the House of Representatives and the Standing Rules of the Senate, and sections 190b and 190d of this title, and enacting provisions set out as notes under this section and sections 190a–1 and 632 of this title\] are enacted by the Congress—
 

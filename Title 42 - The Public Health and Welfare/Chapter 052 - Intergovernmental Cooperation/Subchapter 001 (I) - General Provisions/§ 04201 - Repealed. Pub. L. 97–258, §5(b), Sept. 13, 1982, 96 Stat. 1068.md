@@ -4,5 +4,5 @@ Section, Pub. L. 90–577, title I, §§101–110, Oct. 16, 1968, 82 Stat. 1098�
 
 #### Short Title
 
-Pub. L. 90–577, §1, Oct. 16, 1968, 82 Stat. 1098, which provided that Pub. L. 90–577 could be cited as the“Intergovernmental Cooperation Act of 1968”, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1080.
+Pub. L. 90–577, §1, Oct. 16, 1968, 82 Stat. 1098, which provided that Pub. L. 90–577 could be cited as the “Intergovernmental Cooperation Act of 1968”, was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, 1080.
 

@@ -2,7 +2,7 @@
 
 #### (a) Prime contractors
 
-It is the policy of the Government, and it shall be the responsibility of the contracting agencies and the Administrator of General Services, in accordance with and subject to the provisions of this chapter, to provide war contractors having any termination claim or claims, pending their settlement, with adequate interim financing,within thirty days after proper application therefor.
+It is the policy of the Government, and it shall be the responsibility of the contracting agencies and the Administrator of General Services, in accordance with and subject to the provisions of this chapter, to provide war contractors having any termination claim or claims, pending their settlement, with adequate interim financing, within thirty days after proper application therefor.
 
 #### (b) Method of financing; amounts payable
 
@@ -38,7 +38,7 @@ No interim financing shall be made by any contracting agency under this chapter 
 
 #### (g) Settlement of claims; validation of prior financing
 
-Any contracting agency may settle, upon such terms and conditions as it deems proper, any claim or obligation due by or to the Government arising from or related to any interim financing made, acquired, or authorized by it. Any interim financing made, acquired, or authorized by any contracting agency before July 21, 1944, shall be valid to the extent it would be authorized under the provisions of this chapter if made after its effective date.
+Any contracting agency may settle, upon such terms and conditions as it deems proper, any claim or obligation due by or to the Government arising from or related to any interim financing made, acquired, or authorized by it. Any interimfinancing made, acquired, or authorized by any contracting agency before July 21, 1944, shall be valid to the extent it would be authorized under the provisions of this chapter if made after its effective date.
 
 (July 1, 1944, ch. 358, §8, 58 Stat. 655; Ex. Ord. No. 9809, §8, eff. Dec. 12, 1946, 11 F.R. 14281; 1947 Reorg. Plan No. 1, §201, eff. July 1, 1947, 12 F.R. 4534, 61 Stat. 951; June 30, 1949, ch. 288, title I, §102(b), 63 Stat. 380.)
 
@@ -48,13 +48,13 @@ In subsec. (d), “section 3713(a) of title 31” substituted for “Revised Sta
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) ofact June 30, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works.
+Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 “Secretary” substituted for “Director” by section 8 of Ex. Ord. No. 9809 and section 201 of Reorg. Plan No. 1 of 1947, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date of Transfer of Functions
 
-Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605 of act June 30, 1949, set out as an Effective Date note under section 471 of Title 40, Public Buildings, Property, and Works.
+Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Application to Terminated War Contracts
 

@@ -36,7 +36,7 @@ The Council shall report annually on its coordination activities to the Presiden
 
 Notwithstanding section 1346 of title 31 or section 610 of this Act, funds made available for fiscal year 2000 and hereafter by this or any other Act shall be available for interagency funding of the National Intellectual Property Law Enforcement Coordination Council.
 
-(Pub. L. 106–58, title VI, §653, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–113, div. B, §1000(a)(9) \[titleIV, §4741(b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–586.)
+(Pub. L. 106–58, title VI, §653, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4741(b)(1)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–586.)
 
 #### References in Text
 
@@ -53,6 +53,10 @@ Section was enacted as part of the Treasury and General Government Appropriation
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -42,7 +42,7 @@
 
 #### (4) Group health insurance coverage
 
-&emsp;The term “group health insurance coverage” means, in connection with a group healthplan, health insurance coverage offered in connection with such plan.
+&emsp;The term “group health insurance coverage” means, in connection with a group health plan, health insurance coverage offered in connection with such plan.
 
 #### (5) Individual health insurance coverage
 
@@ -186,7 +186,7 @@ For purposes of this subchapter:
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Subject to clause (ii), such terms <sup>1</sup> includes coverage offered in connection with a group health plan that has fewer than two participants as current employees on the first day of the plan year.
+&emsp;&emsp;&emsp;Subject to clause (ii), such terms <sup>1</sup> includes coverage offered in connection with a group health plan that has fewer thantwo participants as current employees on the first day of the plan year.
 
 #### (ii) State exception
 
@@ -228,7 +228,7 @@ For purposes of this subchapter:
 
 #### References in Text
 
-The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(4)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 6 of subtitleB of title I of the Act is classified generally to part 6 (§1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
+The Employee Retirement Income Security Act of 1974, referred to in subsec. (d)(4)(B), is Pub. L. 93–406, Sept. 2, 1974, 88 Stat. 829, as amended. Part 6 of subtitle B of title I of the Act is classified generally to part 6 (§1161 et seq.) of subtitle B of subchapter I of chapter 18 of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 29 and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -30,11 +30,11 @@ Title 17 of the United States Code was enacted into positive law by act July 30,
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–44 amended section catchline generally so as to read “Patents and copyrights, mask works, and designs”.
+1999—Pub. L. 106–44 amended section catchline generally so as to read “Patents and copyrights, mask works, and designs”.
 
-<b>1998</b>—Pub. L. 105–304, §503(c)(2), amended section catchline generally, substituting “Patents and copyrights, mask works, and designs” for “Patents and copyrights”.
+1998—Pub. L. 105–304, §503(c)(2), amended section catchline generally, substituting “Patents and copyrights, mask works, and designs” for “Patents and copyrights”.
 
 Subsec. (a). Pub. L. 105–304, §503(c)(1), inserted “or designs” after “mask works”.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–702 inserted “or exclusive rights in mask works” after “copyrights”.
+1988—Subsec. (a). Pub. L. 100–702 inserted “or exclusive rights in mask works” after “copyrights”.
 

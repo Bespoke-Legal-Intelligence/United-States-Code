@@ -10,7 +10,7 @@ The Commodity Futures Trading Commission shall submit to Congress a report conta
 
 &emsp;(1) the extent to which the National Futures Association has fully implemented the program provided in the rules approved by the Commission under section 17(p) and (q) of the Commodity Exchange Act \[7 U.S.C. 21(p), (q)\] and the effectiveness of the operation of such program;
 
-&emsp;(2) the actual and projected cost savings to the Federal Government, if any, resultingfrom operations of the National Futures Association;
+&emsp;(2) the actual and projected cost savings to the Federal Government, if any, resulting from operations of the National Futures Association;
 
 &emsp;(3) the actual and projected costs which the Commission and the public would have incurred if the Association had not undertaken self-regulatory responsibility for certain areas under the Commission's jurisdiction;
 
@@ -66,5 +66,5 @@ Study.—The Comptroller General of the United States shall conduct a study to d
 
 “(b)
 
-Report.—Not later than one year after the date of enactment of this Act \[Oct. 28, 1992\], the Comptroller General shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the Comptroller General's determinations pursuant to subsection (a), together with any appropriate recommendations for the implementation of such a program of assessment-based funding for some or all of the Commodity Futures Trading Commission's enforcement and market surveillance activities.”
+Report.—Not later than one year after the date of enactment of this Act \[Oct. 28, 1992\], the Comptroller General shall submit to the Committee on Agricultureof the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report containing the Comptroller General's determinations pursuant to subsection (a), together with any appropriate recommendations for the implementation of such a program of assessment-based funding for some or all of the Commodity Futures Trading Commission's enforcement and market surveillance activities.”
 

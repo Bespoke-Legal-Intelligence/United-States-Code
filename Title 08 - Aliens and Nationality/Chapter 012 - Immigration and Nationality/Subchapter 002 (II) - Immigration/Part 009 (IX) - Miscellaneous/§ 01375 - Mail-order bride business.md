@@ -18,7 +18,7 @@ The Congress finds as follows:
 
 #### (1) Requirement
 
-&emsp;Each international matchmaking organization doing business in the United States shall disseminate to recruits, upon recruitment, such immigration and naturalization information as the Immigration and Naturalization Service deems appropriate, in the recruit's native language, including information regarding conditional permanent residence status and the battered spouse waiver under such status, permanent resident status, marriage fraud penalties, the unregulated nature of the business engaged in by such organizations, and the study required under subsection (c) of this section.
+&emsp;Each international matchmaking organization doing business in the United States shalldisseminate to recruits, upon recruitment, such immigration and naturalization information as the Immigration and Naturalization Service deems appropriate, in the recruit's native language, including information regarding conditional permanent residence status and the battered spouse waiver under such status, permanent resident status, marriage fraud penalties, the unregulated nature of the business engaged in by such organizations, and the study required under subsection (c) of this section.
 
 #### (2) Civil penalty
 
@@ -83,6 +83,10 @@ The Immigration Marriage Fraud Amendments of 1986, referred to in subsec. (c)(5)
 #### Codification
 
 Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “1229b(b)(2)”.</i>
 

@@ -6,7 +6,7 @@ In carrying out the purposes of this chapter, the Secretary is authorized, in ad
 
 &emsp;(2) to furnish, sell, or rent, by contract or otherwise, educational and information materials and equipment for dissemination to, or use by, peoples of foreign countries;
 
-&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 278a <sup>1</sup> of title 40, and any such real property or interests therein which are outside the United States may be acquired without regard to section 255 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
+&emsp;(3) whenever necessary in carrying out subchapter V of this chapter, to purchase, rent, construct, improve, maintain, and operate facilities for radio and television transmission and reception, including the leasing of associated real property (either within or outside the United States) for periods not to exceed forty years, or for longer periods if provided for by an appropriation Act, and the alteration, improvement, and repair of such property, without regard to section 322 <sup>1</sup> of the Act of June 30, 1932, and any such real property or interests therein which are outside the United States may be acquired without regard to sections 3111 and 3112 of title 40 if the sufficiency of the title to such real property or interests therein is approved by the Director of the United States Information Agency;
 
 &emsp;(4) to provide for printing and binding outside the continental limits of the United States, without regard to section 501 of title 44;
 
@@ -20,13 +20,15 @@ In carrying out the purposes of this chapter, the Secretary is authorized, in ad
 
 #### References in Text
 
-Section 278a of title 40, referred to in par. (3), was repealed by Pub. L. 100–678, §7, Nov. 17, 1988, 102 Stat. 4052.
+Section 322 of the Act of June 30, 1932, referred to in par. (3), is section 322 of act June 30, 1932, ch. 314, 47 Stat. 412, which was classified to section 278a of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 100–678, §7, Nov. 17, 1988, 102 Stat. 4052.
 
 The civil-service laws, referred to in par. (5), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
 The classification laws, referred to in par. (5), are classified generally to chapter 51 (§5101 et seq.) and to subchapter III (§5331 et seq.) of chapter 53 of Title 5.
 
 #### Codification
+
+“Sections 3111 and 3112 of title 40” substituted in par. (3) for “section 355 of the Revised Statutes of the United States (40 U.S.C. 255)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 In par. (4), “section 501 of title 44” substituted for “section 11 of the Act of March 1, 1919 (44 U.S.C. 111)” on authority of Pub. L. 90–620, §2(b), Oct. 22, 1968, 82 Stat. 1305, the first section of which enacted Title 44, Public Printing and Documents.
 
@@ -60,7 +62,7 @@ Amendment by Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. 
 
 #### Effective Date of 1979 Amendment
 
-Section 209 of Pub. L. 96–60 provided that: “The amendments made by sections 203 and 204 \[enacting section 1469 and section 1477b of this title, amending this section, sections 1474, 1475a, 2454, 2458, and 2458a of this title, section 1304 of Title 5, Government Organization and Employees, and section 474 of Title 40, Public Buildings, Property, and Works, and repealing section 1434 of this title\] shall take effect on October 1, 1979, and to the extent that they provide new authorities involving the expenditure of appropriated funds, shall apply only with respect to funds appropriated after the date of enactment of this Act \[Aug. 15, 1979\].”
+Section 209 of Pub. L. 96–60 provided that: “The amendments made by sections 203 and 204 \[enacting section 1469 and section 1477b of this title, amending this section, sections 1474, 1475a, 2454, 2458, and 2458a of this title, section 1304 of Title 5, Government Organization and Employees, and section 474 of former Title 40, Public Buildings, Property, and Works, and repealing section 1434 of this title\] shall take effect on October 1, 1979, and to the extent that they provide new authorities involving the expenditure of appropriated funds, shall apply only with respect to funds appropriated after the date of enactment of this Act \[Aug. 15, 1979\].”
 
 #### Transfer of Functions
 

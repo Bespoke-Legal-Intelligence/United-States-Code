@@ -22,15 +22,23 @@
 
 &emsp;(D) The term “primary health services” means health services regarding family medicine, internal medicine, pediatrics, obstetrics and gynecology, dentistry, or mental health, that are provided by physicians or other health professionals.
 
+&emsp;(E)(i) The term “behavioral and mental health professionals” means health service psychologists, licensed clinical social workers, licensed professional counselors, marriage and family therapists, psychiatric nurse specialists, and psychiatrists.
+
+&emsp;(ii) The term “graduate program of behavioral and mental health” means a program that trains behavioral and mental health professionals.
+
 #### (b) Recruitment and fellowship programs
 
-(1) The Secretary may conduct at schools of medicine, osteopathic medicine, dentistry, and, as appropriate, nursing and other schools of the health professions and at entities which train allied health personnel, recruiting programs for the Corps, the Scholarship Program, and the Loan Repayment Program. Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.
+(1) The Secretary may conduct at schools of medicine, osteopathic medicine, dentistry, and, as appropriate, nursing and other schools of the health professions, including schools at which graduate programs of behavioral and mental health are offered, and at entities which train allied health personnel, recruiting programs for the Corps, the Scholarship Program, and the Loan Repayment Program. Such recruiting programs shall include efforts to recruit individuals who will serve in the Corps other than pursuant to obligated service under the Scholarship or Loan Repayment Program.
 
-(2) In the case of physicians, dentists, certified nurse midwives, certified nurse practitioners, and physician assistants who have an interest and a commitment to providing primary health care, the Secretary may establish fellowship programs to enable such health professionals to gain exposure to and expertise in the delivery of primary health services in health professional shortage areas. To the maximum extent practicable, the Secretary shall ensure that any such programs are established in conjunction with accredited residency programs, and other training programs, regarding such health professions.
+(2) In the case of physicians, dentists, behavioral and mental health professionals, certified nurse midwives, certified nurse practitioners, and physician assistants who have an interest and a commitment to providing primary health care, the Secretary may establish fellowshipprograms to enable such health professionals to gain exposure to and expertise in the delivery of primary health services in health professional shortage areas. To the maximum extent practicable, the Secretary shall ensure that any such programs are established in conjunction with accredited residency programs, and other training programs, regarding such health professions.
 
-#### (c) Travel expenses; persons entitled; reimbursement; limitation
+#### (c) Travel and moving expenses; persons entitled; reimbursement; limitation
 
-The Secretary may reimburse applicants for positions in the Corps (including individuals considering entering into a written agreement pursuant to section 254n of this title) for actual and reasonable expenses incurred in traveling to and from their places of residence to a health professional shortage area (designated under section 254e of this title) in which they may be assigned for the purpose of evaluating such area with regard to being assigned in such area. The Secretary shall not reimburse an applicant for more than one such trip.
+(1) The Secretary may reimburse an applicant for a position in the Corps (including an individual considering entering into a written agreement pursuant to section 254n of this title) for the actual and reasonable expenses incurred in traveling to and from the applicant's place of residence to an eligible site to which the applicant may be assigned under section 254f of this title for the purpose of evaluating such site with regard to being assigned at such site. The Secretary may establish a maximum total amount that may be paid to an individual as reimbursement for such expenses.
+
+(2) The Secretary may also reimburse the applicant for the actual and reasonable expenses incurred for the travel of 1 family member to accompany the applicant to such site. The Secretary may establish a maximum total amount that may be paid to an individual as reimbursement for such expenses.
+
+(3) In the case of an individual who has entered into a contract for obligated service under the Scholarship Program or under the Loan Repayment Program, the Secretary may reimburse such individual for all or part of the actual and reasonable expenses incurred in transporting the individual, the individual's family, and the family's possessions to the site of the individual's assignment under section 254f of this title. The Secretary may establish a maximum total amount that may be paid to an individual as reimbursement for such expenses.
 
 #### (d) Monthly pay adjustments of members directly engaged in delivery of health services in health professional shortage area; “monthly pay” defined; monthly pay adjustment of member with service obligation incurred under Scholarship Program or Loan Repayment Program; personnel system applicable
 
@@ -58,7 +66,7 @@ Sections 215 and 217 of this title shall not apply to members of the National He
 
 #### (g) Conversion from Corps member to commissioned officer; retirement credits
 
-(1) The Secretary shall, by rule, prescribe conversion provisions applicable to any individual who, within a year after completion of service as a member of the Corps described in subsection (a)(1)(C) of this section, becomes a commissioned officer in the Regular or Reserve Corps of the Service.
+(1) The Secretary shall, by rule, prescribe conversion provisions applicable to any individualwho, within a year after completion of service as a member of the Corps described in subsection (a)(1)(C) of this section, becomes a commissioned officer in the Regular or Reserve Corps of the Service.
 
 (2) The rules prescribed under paragraph (1) shall provide that in applying the appropriate provisions of this chapter which relate to retirement, any individual who becomes such an officer shall be entitled to have credit for any period of service as a member of the Corps described in subsection (a)(1)(C) of this section.
 
@@ -66,7 +74,31 @@ Sections 215 and 217 of this title shall not apply to members of the National He
 
 The Secretary shall ensure that adequate staff is provided to the Service with respect to effectively administering the program for the Corps.
 
-#### (i) Definitions
+#### (i) Demonstration projects; waivers
+
+(1) In carrying out subpart III, the Secretary may, in accordance with this subsection, carry out demonstration projects in which individuals who have entered into a contract for obligated service under the Loan Repayment Program receive waivers under which the individuals are authorized to satisfy the requirement of obligated service through providing clinical service that is not full-time.
+
+(2) A waiver described in paragraph (1) may be provided by the Secretary only if—
+
+&emsp;(A) the entity for which the service is to be performed—
+
+&emsp;&emsp;(i) has been approved under section 254f–1 of this title for assignment of a Corps member; and
+
+&emsp;&emsp;(ii) has requested in writing assignment of a health professional who would serve less than full time;
+
+&emsp;(B) the Secretary has determined that assignment of a health professional who would serve less than full time would be appropriate for the area where the entity is located;
+
+&emsp;(C) a Corps member who is required to perform obligated service has agreed in writing to be assigned for less than full-time service to an entity described in subparagraph (A);
+
+&emsp;(D) the entity and the Corps member agree in writing that the less than full-time service provided by the Corps member will not be less than 16 hours of clinical service per week;
+
+&emsp;(E) the Corps member agrees in writing that the period of obligated service pursuant to section 254<i>l</i>–1 of this title will be extended so that the aggregate amount of less than full-time service performed will equal the amount of service that would be performed through full-time service under section 254m of this title; and
+
+&emsp;(F) the Corps member agrees in writing that if the Corps member begins providing less than full-time service but fails to begin or complete the period of obligated service, the method stated in 254<i>o</i>(c) of this title for determining the damages for breach of the individual's written contract will be used after converting periods of obligated service or of service performed into their full-time equivalents.
+
+(3) In evaluating a demonstration project described in paragraph (1), the Secretary shall examine the effect of multidisciplinary teams.
+
+#### (j) Definitions
 
 For the purposes of this subpart and subpart III:
 
@@ -78,13 +110,23 @@ For the purposes of this subpart and subpart III:
 
 &emsp;(4) The term “State” includes, in addition to the several States, only the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Virgin Islands, Guam, American Samoa, and the Trust Territory of the Pacific Islands.
 
-(July 1, 1944, ch. 373, title III, §331, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90Stat. 2268; amended Pub. L. 97–35, title XXVII, §2701, Aug. 13, 1981, 95 Stat. 902; Pub. L. 100–177, title II, §202(b), title III, §301, Dec. 1, 1987, 101 Stat. 996, 1003; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3013, 3035.)
+(July 1, 1944, ch. 373, title III, §331, as added Pub. L. 94–484, title IV, §407(b)(3), Oct. 12, 1976, 90 Stat. 2268; amended Pub. L. 97–35, title XXVII, §2701, Aug. 13, 1981, 95 Stat. 902; Pub. L. 100–177, title II, §202(b), title III, §301, Dec. 1, 1987, 101 Stat. 996, 1003; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title I, §101, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3013, 3035; Pub. L. 107–251, title III, §301, Oct. 26, 2002, 116 Stat. 1642.)
 
 #### References in Text
 
 Section 294n of this title, referred to in subsec. (d)(1)(C), was in the original a reference to section 741 of act July 1, 1944. Section 741 of that Act was omitted in the general revision of subchapter V of this chapter by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. Pub. L. 102–408 enacted a new section 776 of act July 1, 1944, relating to acquired immune deficiency syndrome, which was classified to section 294n of this title, and subsequently renumbered section 2692 and transferred to section 300ff–111 of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(3)(E). Pub. L. 107–251, §301(a)(1), added subpar. (E).
+
+Subsec. (b)(1). Pub. L. 107–251, §301(a)(2)(A), substituted “health professions, including schools at which graduate programs of behavioral and mental health are offered,” for “health professions”.
+
+Subsec. (b)(2). Pub. L. 107–251, §301(a)(2)(B), inserted “behavioral and mental health professionals,” after “dentists,”.
+
+Subsec. (c). Pub. L. 107–251, §301(a)(3), added subsec. (c) and struck out former subsec. (c) which read as follows: “The Secretary may reimburse applicants for positions in the Corps (including individuals considering entering into a written agreement pursuant to section 254n of this title) for actual and reasonable expenses incurred in traveling to and from their places of residence to a health professional shortage area (designated under section 254e of this title) in which they may be assigned for the purpose of evaluating such area with regard to being assigned in such area. The Secretary shall not reimburse an applicant for more than one such trip.”
+
+Subsecs. (i), (j). Pub. L. 107–251, §301(b), added subsec. (i) and redesignated former subsec. (i) as (j).
 
 1990—Subsec. (a). Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area in pars. (1), (2), and (3)(C).
 
@@ -144,7 +186,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Special Report on Present and Future Direction of National Health Service Corps; Submission to Congress Not Later Than February 1, 1979
 
-Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed tomeet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
+Pub. L. 95–626, title I, §116(c), Nov. 10, 1978, 92 Stat. 3569, directed Secretary, not later than Feb. 1, 1979, in consultation with National Advisory Council of National Health Service Corps and National Advisory Council on Health Professions Education, to submit to Congress a report on the direction of the National Health Service Corps, particularly its role as a health manpower program and as a health services delivery program, the use of members of the Corps in health manpower shortage areas to meet urban and rural health needs, the types of health professions needed to meet urban and rural health needs, and the projected size, composition, and use of the Corps through 1985.
 
 #### Effective Date; Other Provisions: Health Manpower Shortage Area; Approval of Applications for Assignment of Corps Personnel; Assignment Period, Commencement; Credit for Months of Prior Health Care and Services for Additional Pay Benefit; National Advisory Council on the National Health Service Corps, Continuation of Council and Appointment of Members
 
@@ -152,9 +194,9 @@ Section 407(c) of Pub. L. 94–484 provided that:
 
 “(1) The amendment made by subsections (a) and (b) \[enacting this subpart and repealing section 254b of this title\] shall apply only with respect to fiscal years beginning after September 30, 1977, except that the Secretary of Health, Education, and Welfare \[now Health and Human Services\] shall carry out the activities described in section 332 of the Public Health Service Act (as added by such amendment) \[section 254e of this title\] after the date of enactment of this Act \[Oct. 12, 1976\].
 
-“(2)(A) Any area for which a designation under section 329(b) of the Public Health Service Act (as in effect on September 30, 1977) \[former section 254b(b) of this title\] was in effect on such date and in which National Health Service Corps personnel were, on such date, providing, under an assignment made under such section (as so in effect), health care and services for persons residing in such area shall, effective October 1, 1977, be considered under subpart II of part C of title III of such Act (as added by subsection (b) of this section) \[this subpart\] to (i) be designated a health manpower shortage area (as defined by section 332 of such Act (as so added)) \[section 254e of this title\], and (ii) have had an application approved under section 333 of such Act (as so added)) \[section 254f of this title\] for the assignment of Corps personnel unless, as determined under subparagraph (B) of this paragraph, the assignment period applicable to such area (within the meaning of section 334 (as so added)) \[section 254g of this title\] has expired.
+“(2)(A) Any area for which a designation under section 329(b) of the Public Health Service Act (as in effect on September 30, 1977) \[former section 254b(b) of this title\] was in effect on such date and in which National Health Service Corps personnel were, on such date, providing, under an assignment made under such section (as so in effect), health care and services for persons residing in such area shall, effective October 1, 1977, be considered under subpart II of part C of title III of such Act (as added by subsection (b) of this section) \[this subpart\] to (i) be designated a health manpower shortage area (as defined by section 332 of such Act (as so added)) \[section 254e of this title\], and (ii) have had an application approved under section 333 of such Act (as so added)) \[section 254f of this title\] for the assignment of Corps personnel unless, as determined under subparagraph (B) of this paragraph, the assignment periodapplicable to such area (within the meaning of section 334 (as so added)) \[former section 254g of this title\] has expired.
 
-“(B) The assignment period (within the meaning of such section 334) \[section 254g of this title\] applicable to an area described in subparagraph (A) of this paragraph shall be considered to have begun on the date Corps personnel were first assigned to such area under section 329 of such Act (as in effect on September 30, 1977) \[former section 254b of this title\].
+“(B) The assignment period (within the meaning of such section 334) \[former section 254g of this title\] applicable to an area described in subparagraph (A) of this paragraph shall be considered to have begun on the date Corps personnel were first assigned to such area under section 329 of such Act (as in effect on September 30, 1977) \[former section 254b of this title\].
 
 “(C) In the case of any physician or dentist member of the Corps who was providing health care and services on September 30, 1977, under an assignment made under section 329(b) of such Act (as in effect on September 30, 1977) \[former section 254b(b) of this title\], the number of the months during which such member provided such care and services before October 1, 1977, shall be counted in determining the application of the additional pay provisions of section 331(d) of such Act (as added by subsection (b) of this section) \[subsec. (d) of this section\] to such number.
 
@@ -162,7 +204,7 @@ Section 407(c) of Pub. L. 94–484 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 201, 254f, 254g, 254h, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 11709 of this title; title 25 section 1616a.
+This section is referred to in sections 201, 254f, 254h, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 11709 of this title; title 25 section 1616a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -22,7 +22,7 @@ Subchapter effective Feb. 15, 1981, except regarding the rights of former spouse
 
 #### Delegation of Functions
 
-Functions of President under this section delegated to Secretary of State, see section 1 of Ex. Ord. No.12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
+Functions of President under this section delegated to Secretary of State, see section 1 of Ex. Ord. No. 12293, Feb. 23, 1981, 46 F.R. 13969, set out as a note under section 3901 of this title.
 
 #### Termination of Retirement Benefits for Foreign National Employees Engaging in Hostile Intelligence Activities
 

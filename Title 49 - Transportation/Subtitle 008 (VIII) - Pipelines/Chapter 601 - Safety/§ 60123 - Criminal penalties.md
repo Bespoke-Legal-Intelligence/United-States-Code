@@ -2,11 +2,11 @@
 
 (a)
 
-General Penalty.—A person knowingly and willfully violating section 60114(c),<sup>1</sup> 60118(a), or 60128 of this title or a regulation prescribed or order issued under this chapter shall be fined under title 18, imprisoned for not more than 5 years, or both.
+General Penalty.—A person knowingly and willfully violating section 60114(b), 60118(a), or 60128 of this title or a regulation prescribed or order issued under this chapter shall be fined under title 18, imprisoned for not more than 5 years, or both.
 
 (b)
 
-Penalty for Damaging or Destroying Facility.—A person knowingly and willfully damaging or destroying an interstate gas pipeline facility or interstate hazardous liquid pipeline facility, or attempting or conspiring to do such an act, shall be fined under title 18, imprisoned for not more than 20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.
+Penalty for Damaging or Destroying Facility.—A person knowingly and willfully damaging or destroying an interstate gas pipeline facility, an interstate hazardous liquid pipeline facility, or either an intrastate gas pipeline facility or intrastate hazardous liquid pipeline facility that is used in interstate or foreign commerce or in any activity affecting interstate or foreign commerce, or attempting or conspiring to do such an act, shall be fined under title 18, imprisoned for not more than 20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.
 
 (c)
 
@@ -14,9 +14,9 @@ Penalty for Damaging or Destroying Sign.—A person knowingly and willfully defa
 
 (d)
 
-Penalty for Not Using One-Call Notification System or Not Heeding Location Information or Markings.—A person shall be fined under title 18, imprisoned for not more than 5 years, or both, if the person knowingly and willfully—
+Penalty for Not Using One-Call Notification System or Not Heeding Location Information or Markings.—A person shall be fined under title 18, imprisoned for not more than 5 years, or both, if the person—
 
-&emsp;(1) engages in an excavation activity—
+&emsp;(1) knowingly and willfully engages in an excavation activity—
 
 &emsp;&emsp;(A) without first using an available one-call notification system to establish the location of underground facilities in the excavation area; or
 
@@ -26,11 +26,13 @@ Penalty for Not Using One-Call Notification System or Not Heeding Location Infor
 
 &emsp;&emsp;(A) a pipeline facility that results in death, serious bodily harm, or actual damage to property of more than $50,000;
 
-&emsp;&emsp;(B) a pipeline facility that does not report the damage promptly to the operator of the pipeline facility and to other appropriate authorities; or
+&emsp;&emsp;(B) a pipeline facility, and knows or has reason to know of the damage, but does not report the damage promptly to the operator of the pipeline facility and to other appropriate authorities; or
 
 &emsp;&emsp;(C) a hazardous liquid pipeline facility that results in the release of more than 50 barrels of product.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325; Pub. L. 104–304, §§14, 18(b)(1), Oct. 12, 1996, 110 Stat. 3803, 3804; Pub. L. 107–56, title VIII, §§810(h), 811(k), Oct. 26, 2001, 115 Stat. 381, 382.)
+> Penalties under this subsection may be reduced in the case of a violation that is promptly reported by the violator.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325; Pub. L. 104–304, §§14, 18(b)(1), Oct. 12, 1996, 110 Stat. 3803, 3804; Pub. L. 107–56, title VIII, §§810(h), 811(k), Oct. 26, 2001, 115 Stat. 381, 382; Pub. L. 107–355, §§3(c), 8(c), 21(4), Dec. 17, 2002, 116 Stat. 2986, 2994, 3010.)
 
 Historical and Revision Notes
 
@@ -86,15 +88,21 @@ In this section, the words “upon conviction . . . subject, for each offense,
 
 In subsections (a)–(c), the words “fined under title 18” are substituted for “a fine of not more than $25,000” and “a fine of not more than $5,000” for consistency with title 18.
 
-In subsection (a), the word “prescribed” is added for consistency in the revised title and with other titles of the United States Code. The words “including any order issued under section 1677(b) and 1679b(b) of this Appendix” in 49 App.:1679a(c)(1) and “including any order issued under section 2006(b) or 2008(b) of the Appendix” in 49 App.:2007(c)(1) are omitted as surplus.
+In subsection (a), the word “prescribed” is added for consistency in the revised title and with other titles ofthe United States Code. The words “including any order issued under section 1677(b) and 1679b(b) of this Appendix” in 49 App.:1679a(c)(1) and “including any order issued under section 2006(b) or 2008(b) of the Appendix” in 49 App.:2007(c)(1) are omitted as surplus.
 
 In subsection (b), the word “damaging” is substituted for “injures”, and the word “damage” is substituted for “injure”, for clarity.
 
-#### References in Text
-
-Section 60114(c) of this title, referred to in subsec. (a), was redesignated section 60114(b) by Pub. L. 104–304, §20(d), Oct. 12, 1996, 110 Stat. 3804.
-
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–355, §21(4), substituted “60114(b)” for “60114(c)”.
+
+Subsec. (b). Pub. L. 107–355, §8(c), substituted “gas pipeline facility, an” for “gas pipeline facility or” and inserted “, or either an intrastate gas pipeline facility or intrastate hazardous liquid pipeline facility that is used in interstate or foreign commerce or in any activity affecting interstate or foreign commerce” after “liquid pipeline facility”.
+
+Subsec. (d). Pub. L. 107–355, §3(c)(1), (4), struck out “knowingly and willfully” after “if the person” in introductory provisions and inserted concluding provisions.
+
+Subsec. (d)(1). Pub. L. 107–355, §3(c)(2), inserted “knowingly and willfully” before “engages”.
+
+Subsec. (d)(2)(B). Pub. L. 107–355, §3(c)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “a pipeline facility that does not report the damage promptly to the operator of the pipeline facility and to other appropriate authorities; or”.
 
 2001—Subsec. (b). Pub. L. 107–56 struck out “, or attempting to damage or destroy,” before “an interstate gas pipeline facility”, inserted “, or attempting or conspiring to do such an act,” before “shall be fined under title 18,” and substituted “20 years, or both, and, if death results to any person, shall be imprisoned for any term of years or for life.” for “15 years, or both.”
 
@@ -105,6 +113,4 @@ Subsec. (d)(2). Pub. L. 104–304, §14, added subpar. (B) and redesignated form
 #### Section Referred to in Other Sections
 
 This section is referred to in section 60108 of this title; title 18 sections 2332b, 2339A, 2516.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

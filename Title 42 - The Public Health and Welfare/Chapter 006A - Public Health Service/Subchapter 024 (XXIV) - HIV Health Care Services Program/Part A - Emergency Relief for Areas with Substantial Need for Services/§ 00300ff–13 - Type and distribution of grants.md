@@ -8,7 +8,7 @@
 
 #### (2) Expedited distribution
 
-&emsp;Not later than 60 days after an appropriation becomes available to carry out this part for a fiscal year, the Secretary shall, except in the case of waivers granted under section 300ff–15(c) <sup>1</sup> of this title, disburse 50 percent of the amount appropriated under section 300ff–77 of this title for such fiscal year through grants to eligible areas under section 300ff–11(a) of this title, in accordance with paragraph (3). The Secretary shall reserve an additional percentage of the amount appropriated under section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4).
+&emsp;Not later than 60 days after an appropriation becomes available to carry out this part for a fiscal year, the Secretary shall, except in the case of waivers granted under section 300ff–15(c) <sup>1</sup> of this title, disburse 50 percent of the amount appropriated under section 300ff–77 of this title for such fiscal year through grantsto eligible areas under section 300ff–11(a) of this title, in accordance with paragraph (3). The Secretary shall reserve an additional percentage of the amount appropriated under section 300ff–77 of this title for a fiscal year for grants under this part to make grants to eligible areas under section 300ff–11(a) of this title in accordance with paragraph (4).
 
 #### (3) Amount of grant
 
@@ -194,7 +194,7 @@ A prior section 2603 of act July 1, 1944, was successively renumbered by subsequ
 
 Subsec. (a)(3)(C)(i). Pub. L. 106–345, §111(b)(1)(A), inserted before semicolon “, except that (subject to subparagraph (D)), for grants made pursuant to this paragraph for fiscal year 2005 and subsequent fiscal years, the cases counted for each 12-month period beginning on or after July 1, 2004, shall be cases of HIV disease (as reported to and confirmed by such Director) rather than cases of acquired immune deficiency syndrome”.
 
-Subsec. (a)(3)(C). Pub. L. 106–345, §111(b)(1)(B), in concluding provisions, inserted before period at end of firstsentence “, and shall be reported to the congressional committees of jurisdiction” and inserted at end “Updates shall as applicable take into account the counting of cases of HIV disease pursuant to clause (i).”
+Subsec. (a)(3)(C). Pub. L. 106–345, §111(b)(1)(B), in concluding provisions, inserted before period at end of first sentence “, and shall be reported to the congressional committees of jurisdiction” and inserted at end “Updates shall as applicable take into account the counting of cases of HIV disease pursuant to clause (i).”
 
 Subsec. (a)(3)(D), (E). Pub. L. 106–345, §111(b)(2), added subpar. (D) and redesignated former subpar. (D) as (E).
 
@@ -220,7 +220,7 @@ Subsec. (b)(2)(A). Pub. L. 106–345, §112(a)(3), added subpar. (A). Former sub
 
 Subsec. (b)(2)(B). Pub. L. 106–345, §112(a)(2), (4), redesignated subpar. (A) as (B) and added cls. (iv) to (vi). Former subpar. (B) redesignated (C).
 
-Subsec. (b)(2)(C). Pub. L. 106–345, §112(a)(5)(C), inserted after second sentence “Such a mechanism shall be modified to reflect the findings of the study under section 501(b) of the Ryan White CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV disease).”
+Subsec. (b)(2)(C). Pub. L. 106–345, §112(a)(5)(C), inserted after second sentence “Such a mechanism shallbe modified to reflect the findings of the study under section 501(b) of the Ryan White CARE Act Amendments of 2000 (relating to the relationship between epidemiological measures and health care for certain individuals with HIV disease).”
 
 Pub. L. 106–345, §112(a)(5)(B), in second sentence, substituted “18 months after October 20, 2000” for “2 years after May 20, 1996”.
 

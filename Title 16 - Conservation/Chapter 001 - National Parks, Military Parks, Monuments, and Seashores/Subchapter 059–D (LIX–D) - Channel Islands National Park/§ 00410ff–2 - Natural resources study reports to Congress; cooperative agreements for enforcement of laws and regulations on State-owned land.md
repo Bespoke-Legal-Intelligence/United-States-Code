@@ -8,7 +8,7 @@
 
 > Such report shall be submitted within two complete fiscal years from March 5, 1980, to the Committee on Interior and Insular Affairs of the United States House of Representatives and the Committee on Energy and Natural Resources of the United States Senate, and updated revisions of such report shall be similarly submitted at subsequent two year intervals to cover a period of ten years after March 5, 1980.
 
-(b) The Secretary is authorized and directed to enter into and continue cooperative agreements with the Secretary of Commerce and the State of California for the enforcement of Federal andState laws and regulations on those lands and waters within and adjacent to the park which are owned by the State of California. No provision of this subchapter shall be deemed to affect the rights and jurisdiction of the State of California within the park, including, but not limited to, authority over submerged lands and waters within the park boundaries, and the marine resources therein.
+(b) The Secretary is authorized and directed to enter into and continue cooperative agreements with the Secretary of Commerce and the State of California for the enforcement of Federal and State laws and regulations on those lands and waters within and adjacent to the park which are owned by the State of California. No provision of this subchapter shall be deemed to affect the rights and jurisdiction of the State of California within the park, including, but not limited to, authority over submerged lands and waters within the park boundaries, and the marine resources therein.
 
 (Pub. L. 96–199, title II, §203, Mar. 5, 1980, 94 Stat. 75.)
 

@@ -48,3 +48,7 @@ Amendment by Pub. L. 100–525 effective as if included in the enactment of the 
 
 Amendment by Pub. L. 99–653 applicable to applications for immigrant visas made, and visas issued, on or after Nov. 14, 1986, see section 23(b) of Pub. L. 99–653, set out as a note under section 1201 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+

@@ -36,7 +36,7 @@
 
 #### (ii) “Subsection (e) ceiling” defined
 
-&emsp;&emsp;&emsp;In clause (i), the term “subsection (e) ceiling” means, for a foreign state or dependent area, 77 percent of the maximum number of visas that may be made available under section 1153(a) of this title to immigrants who are natives of the state or area under section 1153(a)(2) of this titleconsistent with subsection (e) of this section.
+&emsp;&emsp;&emsp;In clause (i), the term “subsection (e) ceiling” means, for a foreign state or dependent area, 77 percent of the maximum number of visas that may be made available under section 1153(a) of this title to immigrants who are natives of the state or area under section 1153(a)(2) of this title consistent with subsection (e) of this section.
 
 #### (C) Treatment of unmarried sons and daughters in countries subject to subsection (e)
 
@@ -60,7 +60,7 @@
 
 #### (B) Limiting fall across for certain countries subject to subsection (e) of this section
 
-&emsp;&emsp;In the case of a foreign state or dependent area to which subsection (e) of this section applies, if the total number of visas issued under section 1153(b) of this title exceeds the maximum number of visas that may be made available to immigrants of the state or area under section 1153(b) of this title consistent with subsection (e) of this section (determined without regard to this paragraph), in applying subsection (e) of this section all visas shall be deemed to have been required for the classes of aliens specified in section 1153(b) of this title.
+&emsp;&emsp;In the case of a foreign state or dependent area to which subsection (e) of this section applies, if the total number of visas issued under section 1153(b) of this title exceeds the maximum number of visas that may be made available to immigrants of the state or areaunder section 1153(b) of this title consistent with subsection (e) of this section (determined without regard to this paragraph), in applying subsection (e) of this section all visas shall be deemed to have been required for the classes of aliens specified in section 1153(b) of this title.
 
 #### (b) Rules for chargeability
 
@@ -76,7 +76,7 @@ In the case of any change in the territorial limits of foreign states, the Secre
 
 #### (e) Special rules for countries at ceiling
 
-If it is determined that the total number of immigrant visas made available under subsections (a) and (b) of section 1153 of this title tonatives of any single foreign state or dependent area will exceed the numerical limitation specified in subsection (a)(2) of this section in any fiscal year, in determining the allotment of immigrant visa numbers to natives under subsections (a) and (b) of section 1153 of this title, visa numbers with respect to natives of that state or area shall be allocated (to the extent practicable and otherwise consistent with this section and section 1153 of this title) in a manner so that—
+If it is determined that the total number of immigrant visas made available under subsections (a) and (b) of section 1153 of this title to natives of any single foreign state or dependent area will exceed the numerical limitation specified in subsection (a)(2) of this section in any fiscal year, in determining the allotment of immigrant visa numbers to natives under subsections (a) and (b) of section 1153 of this title, visa numbers with respect to natives of that state or area shall be allocated (to the extent practicable and otherwise consistent with this section and section 1153 of this title) in a manner so that—
 
 &emsp;(1) the ratio of the visa numbers made available under section 1153(a) of this title to the visa numbers made available under section 1153(b) of this title is equal to the ratio of the worldwide level of immigration under section 1151(c) of this title to such level under section 1151(d) of this title;
 
@@ -94,7 +94,7 @@ If it is determined that the total number of immigrant visas made available unde
 
 Subsec. (a)(5). Pub. L. 106–313, §104(a), added par. (5).
 
-Subsec. (e)(3). Pub. L. 106–313, §104(b)(2), substituted “except as provided in subsection (a)(5) of this section, the proportion of the visa numbers” for “the proportion of the visa numbers”.
+Subsec. (e)(3). Pub. L. 106–313, §104(b)(2), substituted “except as provided in subsection (a)(5) of this section,the proportion of the visa numbers” for “the proportion of the visa numbers”.
 
 1996—Subsec. (a)(1). Pub. L. 104–208 designated existing provisions as subpar. (A) and added subpar. (B).
 
@@ -116,7 +116,7 @@ Subsec. (c). Pub. L. 100–525, §9(f)(1), substituted “subsection (a)” for 
 
 Subsec. (e). Pub. L. 100–525, §9(f)(2), substituted “this section” for “section 202” in original, which for purposes of codification had been translated as “this section”.
 
-1986—Subsec. (b). Pub. L. 99–653, as amended by Pub. L. 100–525, §8(c), amended subsec. (b) generally, substituting “outlying possessions, shall” for “outlying possessions shall”, in cl. (1) substituting “when accompanied by or following to join his alien” for “when accompanied by his alien”, “charged to the foreign state of either parent” for “charged to the same foreign state as the accompanying parent or of either accompanying parent”, “from the parent” for “from the accompanying parent”, “and if immigration charged to the foreign state to which such parent has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such parent has been or would be chargeable has not exceeded the numerical”, in cl. (2) substituting “of his spouse” for “of his accompanying spouse”, “of the spouse he is accompanying or following to join” for “of the accompanying spouse”, “and if immigration charged to the foreign state to which such spouse has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such spouse has been or would bechargeable has not exceeded the numerical”, and in cl. (3) substituting “subject, or, if” for “subject, or if” and “country, in” for “country then in”.
+1986—Subsec. (b). Pub. L. 99–653, as amended by Pub. L. 100–525, §8(c), amended subsec. (b) generally, substituting “outlying possessions, shall” for “outlying possessions shall”, in cl. (1) substituting “when accompanied by or following to join his alien” for “when accompanied by his alien”, “charged to the foreign state of either parent” for “charged to the same foreign state as the accompanying parent or of either accompanying parent”, “from the parent” for “from the accompanying parent”, “and if immigration charged to the foreign state to which such parent has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such parent has been or would be chargeable has not exceeded the numerical”, in cl. (2) substituting “of his spouse” for “of his accompanying spouse”, “of the spouse he is accompanying or following to join” for “of the accompanying spouse”, “and if immigration charged to the foreign state to which such spouse has been or would be chargeable has not reached the numerical” for “and if the foreign state to which such spouse has been or would be chargeable has not exceeded the numerical”, and in cl. (3) substituting “subject, or, if” for “subject, or if” and “country, in” for “country then in”.
 
 Subsec. (c). Pub. L. 99–603, §311(a)(1), substituted “5,000” for “six hundred”.
 

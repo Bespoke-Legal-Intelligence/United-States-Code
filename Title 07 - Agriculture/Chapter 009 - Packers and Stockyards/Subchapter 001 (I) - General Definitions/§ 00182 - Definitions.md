@@ -18,19 +18,37 @@ When used in this chapter—
 
 &emsp;(8) The term “poultry grower” means any person engaged in the business of raising and caring for live poultry for slaughter by another, whether the poultry is owned by such person or by another, but not an employee of the owner of such poultry;
 
-&emsp;(9) The term “poultry growing arrangement” means any growout contract, marketing agreement, or other arrangement under which a poultry grower raises and cares for live poultry for delivery, in accord with another's instructions, for slaughter;
+&emsp;(9) The term “poultry growing arrangement” means any growout contract, marketingagreement, or other arrangement under which a poultry grower raises and cares for live poultry for delivery, in accord with another's instructions, for slaughter;
 
 &emsp;(10) The term “live poultry dealer” means any person engaged in the business of obtaining live poultry by purchase or under a poultry growing arrangement for the purpose of either slaughtering it or selling it for slaughter by another, if poultry is obtained by such person in commerce, or if poultry obtained by such person is sold or shipped in commerce, or if poultry products from poultry obtained by such person are sold or shipped in commerce; and
 
 &emsp;(11) The term “commerce” means commerce between any State, Territory, or possession, or the District of Columbia, and any place outside thereof; or between points within the same State, Territory, or possession, or the District of Columbia, but through any place outside thereof; or within any Territory or possession, or the District of Columbia.
 
-(Aug. 15, 1921, ch. 64, title I, §2(a), 42 Stat. 159; Pub. L. 94–410, §3(c), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 100–173, §2, Nov. 23, 1987, 101 Stat. 917.)
+&emsp;(12)
+
+Swine contractor.—The term “swine contractor” means any person engaged in the business of obtaining swine under a swine production contract for the purpose of slaughtering the swine or selling the swine for slaughter, if—
+
+&emsp;&emsp;(A) the swine is obtained by the person in commerce; or
+
+&emsp;&emsp;(B) the swine (including products from the swine) obtained by the person is sold or shipped in commerce.
+
+&emsp;(13)
+
+Swine production contract.—The term “swine production contract” means any growout contract or other arrangement under which a swine production contract grower raises and cares for the swine in accordance with the instructions of another person.
+
+&emsp;(14)
+
+Swine production contract grower.—The term “swine production contract grower” means any person engaged in the business of raising and caring for swine in accordance with the instructions of another person.
+
+(Aug. 15, 1921, ch. 64, title I, §2(a), 42 Stat. 159; Pub. L. 94–410, §3(c), Sept. 13, 1976, 90 Stat. 1249; Pub. L. 100–173, §2, Nov. 23, 1987, 101 Stat. 917; Pub. L. 107–171, title X, §10502(a), May 13, 2002, 116 Stat. 509.)
 
 #### Codification
 
 Section is composed of subsec. (a) of section 2 of act Aug. 15, 1921. Subsec. (b) of section 2 is classified to section 183 of this title.
 
 #### Amendments
+
+2002—Pars. (12) to (14). Pub. L. 107–171 added pars. (12) to (14).
 
 1987—Pars. (6) to (11). Pub. L. 100–173 added pars. (6) to (10) and redesignated former par. (6) as (11).
 

@@ -92,5 +92,5 @@ Functions of President under subsec. (6)(B) of this section delegated to head of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5379 of this title.
+This section is referred to in section 5379 of this title; title 7 section 5922.
 

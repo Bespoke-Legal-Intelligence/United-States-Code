@@ -1,8 +1,8 @@
 ### §4506. Regulations
 
-The Office of Personnel Management shall prescribe regulations and instructions under which the agency awards program set forth by this subchapter shall be carried out.
+The Office of Personnel Management shall prescribe regulations and instructions under which the awards programs set forth by this subchapter shall be carried out.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 95–454, title V, §503(d), Oct. 13, 1978, 92 Stat. 1184; Pub. L. 97–35, title XVII, §1703(b)(2), Aug. 13, 1981, 95 Stat. 756.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 443; Pub. L. 95–454, title V, §503(d), Oct. 13, 1978, 92 Stat. 1184; Pub. L. 97–35, title XVII, §1703(b)(2), Aug. 13, 1981, 95 Stat. 756; Pub. L. 107–67, title VI, §641(b), Nov. 12, 2001, 115 Stat. 555.)
 
 Historical and Revision Notes
 
@@ -22,9 +22,15 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+2001—Pub. L. 107–67 substituted “the awards programs” for “the agency awards program”.
+
 1981—Pub. L. 97–35 substituted “subchapter” for “chapter”.
 
 1978—Pub. L. 95–454 substituted “Office of Personnel Management shall” for “Civil Service Commission may”.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–67, title VI, §641(d), Nov. 12, 2001, 115 Stat. 555, provided that: “The amendments made by this section \[enacting section 4507a of this title and amending this section\] shall take effect for awards granted in 2003.”
 
 #### Effective Date of 1981 Amendment
 

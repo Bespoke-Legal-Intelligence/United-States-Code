@@ -182,7 +182,7 @@ Nothing in this section shall be construed to prohibit a State from designating 
 
 #### (E) Use of funds
 
-&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staff on computer information systems, and to offset costs related to the implementation of prospective payment systems.
+&emsp;&emsp;A hospital receiving a grant under this paragraph may use the funds for the purchase of computer software and hardware, the education and training of hospital staffon computer information systems, and to offset costs related to the implementation of prospective payment systems.
 
 #### (F) Reports
 
@@ -222,7 +222,7 @@ There are authorized to be appropriated from the Federal Hospital Insurance Trus
 
 #### References in Text
 
-The Balanced Budget Act of 1997, referred to in subsec. (g)(3)(A), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251.For complete classification of this Act to the Code, see Tables.
+The Balanced Budget Act of 1997, referred to in subsec. (g)(3)(A), is Pub. L. 105–33, Aug. 5, 1997, 111 Stat. 251. For complete classification of this Act to the Code, see Tables.
 
 Part D of this subchapter, referred to in subsec. (i), is classified to section 1395x et seq. of this title.
 
@@ -254,7 +254,7 @@ Subsec. (e)(1)(A). Pub. L. 103–432, §102(b)(1)(A)(ii), substituted “except 
 
 Subsec. (e)(2) to (6). Pub. L. 103–432, §102(b)(1)(A)(i), redesignated pars. (2) to (6) as (1) to (5), respectively.
 
-Subsec. (f)(1)(F). Pub. L. 103–432, §102(a)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “provides not more than 6 inpatient beds (meeting such conditions as the Secretary may establish) for providing inpatient care for a period not to exceed 72 hours (unless a longer period is required because transfer to a hospital is precluded because of inclement weather or other emergency conditions) to patients requiring stabilization before discharge or transfer to a hospital;”.
+Subsec. (f)(1)(F). Pub. L. 103–432, §102(a)(1), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “provides not more than 6 inpatientbeds (meeting such conditions as the Secretary may establish) for providing inpatient care for a period not to exceed 72 hours (unless a longer period is required because transfer to a hospital is precluded because of inclement weather or other emergency conditions) to patients requiring stabilization before discharge or transfer to a hospital;”.
 
 Subsec. (f)(1)(H). Pub. L. 103–432, §102(f), inserted before period at end “, except that in determining whether a facility meets the requirements of this subparagraph, subparagraphs (E) and (F) of that paragraph shall be applied as if any reference to a ‘physician’ is a reference to a physician as defined in section 1395x(r)(1) of this title”.
 
@@ -290,7 +290,7 @@ Subsec. (j). Pub. L. 101–508, §4008(m)(2)(B)(iii), inserted “and part C of 
 
 Amendment by section 1000(a)(6) \[title III, §321(a)\] of Pub. L. 106–113 effective as if included in the enactment of the Balanced Budget Act of 1997, Pub. L. 105–33, except as otherwise provided, see section 1000(a)(6) \[title III, §321(m)\] of Pub. L. 106–113, set out as a note under section 1395d of this title.
 
-Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §401(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–369, provided that:“The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395ww of this title\] shall become effective on January 1, 2000.”
+Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §401(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–369, provided that: “The amendments made by this section \[amending this section and sections 1395<i>l</i> and 1395ww of this title\] shall become effective on January 1, 2000.”
 
 Pub. L. 106–113, div. B, §1000(a)(6) \[title IV, §403(a)(2)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–370, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on the date of the enactment of this Act \[Nov. 29, 1999\].”
 

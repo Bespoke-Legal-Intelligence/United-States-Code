@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(A) publish a notice with an opportunity for comment in the Federal Register;
 
-&emsp;&emsp;(B) consult with individuals and organizations representing a wide range of perspectives on deafness-related issues, including organizations representing individuals whoare deaf, parents of children who are deaf, educators, and researchers; and
+&emsp;&emsp;(B) consult with individuals and organizations representing a wide range of perspectives on deafness-related issues, including organizations representing individuals who are deaf, parents of children who are deaf, educators, and researchers; and
 
 &emsp;&emsp;(C) take such other action as the Secretary deems appropriate, which may include holding public meetings.
 

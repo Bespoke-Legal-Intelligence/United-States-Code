@@ -34,7 +34,7 @@ Except as otherwise provided by this section, the Secretary shall convey to NANA
 
 (3) Within 90 days after September 25, 1985, the Secretary shall execute the necessary documents evidencing the grant to NANA of the easement granted by this section.
 
-(4) Except as regards the trail easement described in Exhibit D to the Agreement (to which the “Transportation System Lands” shall be subject as if such lands had been conveyed to NANA pursuant to paragraph A(1) of the Agreement), access to the lands subject to the easement granted by this section shall be subject to such limitations, restrictions or conditions as may be imposed by NANA, its successors and assigns, but NANA and its successors and assigns shall permit representatives of the Secretary such access as the Secretary determines is necessary for the monitoring required by this section.
+(4) Except as regards the trail easement described in Exhibit D to the Agreement (to whichthe “Transportation System Lands” shall be subject as if such lands had been conveyed to NANA pursuant to paragraph A(1) of the Agreement), access to the lands subject to the easement granted by this section shall be subject to such limitations, restrictions or conditions as may be imposed by NANA, its successors and assigns, but NANA and its successors and assigns shall permit representatives of the Secretary such access as the Secretary determines is necessary for the monitoring required by this section.
 
 #### (e) Compliance with local laws
 
@@ -46,7 +46,7 @@ The easement granted to NANA by this section may be reconveyed by NANA, but afte
 
 #### (g) Construction materials taken from borrow sites within easement
 
-NANA is hereby granted the right to use, develop and sell sand, gravel and related construction materials from borrow sites located within the easement granted pursuant to this sectionas required for the construction, operation, maintenance, expansion and reclamation of the transportation system, subject to the terms and conditions specified in Exhibit B of the Agreement.
+NANA is hereby granted the right to use, develop and sell sand, gravel and related construction materials from borrow sites located within the easement granted pursuant to this section as required for the construction, operation, maintenance, expansion and reclamation of the transportation system, subject to the terms and conditions specified in Exhibit B of the Agreement.
 
 #### (h) Agreement as governing use of lands
 

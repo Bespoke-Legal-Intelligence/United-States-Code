@@ -1,5 +1,7 @@
 ### SUBCHAPTER I—DEFINITIONS AND GENERAL ORGANIZATION
 
+<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 107–296 without corresponding amendment of chapter analysis.</i>
+
 
 ---
 

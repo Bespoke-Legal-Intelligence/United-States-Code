@@ -58,7 +58,7 @@ In this part:
 
 #### (B) Inclusion
 
-&emsp;&emsp;The term “other market formula purchase” includes a formula purchase in a case in which the price formula is based on one or more futures or options contracts.
+&emsp;&emsp;The term “other market formula purchase” includes a formula purchase in a casein which the price formula is based on one or more futures or options contracts.
 
 #### (11) Other purchase arrangement
 

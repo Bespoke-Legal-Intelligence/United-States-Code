@@ -110,11 +110,21 @@
 | [940c.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940c%20-%20Cushion%20of%20credit%20payments%20program.md) | Cushion of credit payments program. |
 | (a) | Establishment. |
 | (b) | Uses of cushion of credit payments. |
+| 940c–1. | Guarantees for bonds and notes issued for electrification or telephone purposes. |
+| (a) | In general. |
+| (b) | Limitations. |
+| (c) | Fees. |
+| (d) | Guarantees. |
+| (e) | Authorization of appropriations. |
+| (f) | Termination. |
 | [940d.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940d%20-%20Limitations%20on%20authorization%20of%20appropriations.md) | Limitations on authorization of appropriations. |
 | (a) | “Adjustment percentage” defined. |
 | (b) | Fiscal years 1994 through 1998. |
 | (c) | Funding levels. |
 | (d) | Availability of funds for insured loans. |
+| [940e.](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/%C2%A7%2000940e%20-%20Expansion%20of%20911%20access.md) | Expansion of 911 access. |
+| (a) | In general. |
+| (b) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -182,6 +192,25 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VI—RURAL BROADBAND ACCESS
+
+|  |  |
+| :--- | ---: |
+| [950bb.](Subchapter%20006%20%28VI%29%20-%20Rural%20Broadband%20Access/%C2%A7%2000950bb%20-%20Access%20to%20broadband%20telecommunications%20services%20in%20rural%20areas.md) | Access to broadband telecommunications services in rural areas. |
+| (a) | Purpose. |
+| (b) | Definitions. |
+| (c) | Loans and loan guarantees. |
+| (d) | Eligible entities. |
+| (e) | Broadband service. |
+| (f) | Technological neutrality. |
+| (g) | Terms and conditions for loans and loan guarantees. |
+| (h) | Use of loan proceeds to refinance loans for deployment of broadband service. |
+| (i) | Reports. |
+| (j) | Funding. |
+| (k) | Termination of authority. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in sections 918b, 950aaa–2, 1926, 1981, 6941, 6942 of this title; title 12 section 2129; title 16 sections 590z–7, 824k; title 43 sections 485h, 1764.
@@ -196,3 +225,4 @@ This chapter is referred to in sections 918b, 950aaa–2, 1926, 1981, 6941, 6942
 - [Subchapter 003 (III) - Rural Electric and Telephone Direct Loan Programs](Subchapter%20003%20%28III%29%20-%20Rural%20Electric%20and%20Telephone%20Direct%20Loan%20Programs/README.md)
 - [Subchapter 004 (IV) - Rural Telephone Bank](Subchapter%20004%20%28IV%29%20-%20Rural%20Telephone%20Bank/README.md)
 - [Subchapter 005 (V) - Rural Economic Development](Subchapter%20005%20%28V%29%20-%20Rural%20Economic%20Development/README.md)
+- [Subchapter 006 (VI) - Rural Broadband Access](Subchapter%20006%20%28VI%29%20-%20Rural%20Broadband%20Access/README.md)

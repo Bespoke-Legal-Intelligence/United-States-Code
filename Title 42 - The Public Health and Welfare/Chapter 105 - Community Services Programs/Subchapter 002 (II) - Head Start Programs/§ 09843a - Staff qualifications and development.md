@@ -142,7 +142,7 @@ Not later than 1 year after May 18, 1994, the Secretary, in consultation with ap
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–285, §115(1), amended heading and text of subsec. (a) generally. Prior to amendment, subsec. (a) required Secretary to ensure that not later than Sept. 30, 1996, each Head Start classroom in a center-based program was assigned a teacher with certain specified credentials and gave Secretary limited authority to waive that requirement.
+1998—Subsec. (a). Pub. L. 105–285, §115(1), amended heading and text of subsec. (a) generally. Prior toamendment, subsec. (a) required Secretary to ensure that not later than Sept. 30, 1996, each Head Start classroom in a center-based program was assigned a teacher with certain specified credentials and gave Secretary limited authority to waive that requirement.
 
 Subsec. (b)(2)(B). Pub. L. 105–285, §115(2), substituted “staff or that are” for “staff, that are” and struck out “, or that lack staff of a similar cultural background to that of the participating children and their families” before semicolon.
 

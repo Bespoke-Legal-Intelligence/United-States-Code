@@ -12,7 +12,7 @@ Safe Harbor.—If neither a State nor designated database provider provides an e
 
 (b)
 
-Termination of Safe Harbor.—Subsection (a) applies to a home service provider that is in compliance with the requirements of subsection (a), with respect to a State for which an electronic database is not provided under section 119 until the later of—
+Termination of Safe Harbor.—Subsection (a) applies to a home service provider that is incompliance with the requirements of subsection (a), with respect to a State for which an electronic database is not provided under section 119 until the later of—
 
 &emsp;(1) 18 months after the nationwide standard numeric code described in section 119(a) has been approved by the Federation of Tax Administrators and the Multistate Tax Commission; or
 

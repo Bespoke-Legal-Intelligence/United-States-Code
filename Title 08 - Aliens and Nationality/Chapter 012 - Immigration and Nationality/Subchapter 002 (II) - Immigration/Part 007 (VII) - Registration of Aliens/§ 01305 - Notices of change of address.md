@@ -24,6 +24,10 @@ In the case of an alien for whom a parent or legal guardian is required to apply
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1227, 1306 of this title.

@@ -24,13 +24,17 @@ Pub. L. 107–72, §4, Nov. 20, 2001, 115 Stat. 650, provided that: “This Act 
 
 Section 4 of Pub. L. 94–145 provided that: “The amendments made by sections 2 and 3 of this Act \[amending this section and section 45 of this title\] shall take effect upon the expiration of the ninety-day period which begins on the date of enactment of this Act \[Dec. 12, 1975\].”
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–273, div. C, title IV, §14101, Nov. 2, 2002, 116 Stat. 1921, provided that: “This title \[amending sections 3, 12, 27, and 44 of this title, section 225 of Title 7, Agriculture, section 1413 of Title 30, Mineral Lands and Mining, and section 2135 of Title 42, The Public Health and Welfare, repealing sections 30 and 31 of this title, enacting provisions set out as a note under section 3 of this title, amending provisions set out as notes under this section and section 8 of this title, and repealing provisions set out as notes under section 15 of this title and section 41309 of Title 49, Transportation\] may be cited as the ‘Antitrust Technical Corrections Act of 2002’.”
+
 #### Short Title of 2001 Amendment
 
 Pub. L. 107–72, §1, Nov. 20, 2001, 115 Stat. 648, provided that: “This Act \[enacting and amending provisions set out as notes under this section\] may be cited as the ‘Need-Based Educational Aid Act of 2001’.”
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–297, §1, Oct. 27, 1998, 112 Stat. 2824, provided that: “This Act \[enacting section 27a of this title and provisions set out as a note under section 27a of this title\] may be cited as the ‘Curt Flood Act of 1998’.”
+Pub. L. 105–297, §1, Oct. 27, 1998, 112 Stat. 2824, provided that: “This Act \[enacting section 26b of this title and provisions set out as a note under section 26b of this title\] may be cited as the ‘Curt Flood Act of 1998’.”
 
 #### Short Title of 1997 Amendments
 
@@ -60,7 +64,7 @@ Pub. L. 96–493, §1, Dec. 2, 1980, 94 Stat. 2568, provided: “That this Act \
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–435, Sept. 30, 1976, 90 Stat. 1383, provided: “That this Act \[enacting sections 15c to 15h, 18a, and 66 of this title, amending sections 12, 15b, 16, 26, and 1311 to 1314 of this title, section 1505 of Title 18, Crimes and Criminal Procedure, and section 1407 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 8, 15c, 18a, and 1311 of this title\] may be cited as the ‘Hart-Scott-Rodino Antitrust Improvements Act of 1976’.”
+Section 1 of Pub. L. 94–435, Sept. 30, 1976, 90 Stat. 1383, provided: “That this Act \[enacting sections 15c to 15h,18a, and 66 of this title, amending sections 12, 15b, 16, 26, and 1311 to 1314 of this title, section 1505 of Title 18, Crimes and Criminal Procedure, and section 1407 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 8, 15c, 18a, and 1311 of this title\] may be cited as the ‘Hart-Scott-Rodino Antitrust Improvements Act of 1976’.”
 
 #### Short Title of 1975 Amendment
 
@@ -68,15 +72,175 @@ Section 1 of Pub. L. 94–145 provided: “That this Act \[amending this section
 
 #### Short Title of 1974 Amendment
 
-Section 1 of Pub. L. 93–528 provided: “That this Act \[amending this section and section 2, 3, 16, 28, and 29 ofthis title, section 401 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and sections 43, 44, and 45 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 29 of this title\] may be cited as the ‘Antitrust Procedures and Penalties Act’.”
+Section 1 of Pub. L. 93–528 provided: “That this Act \[amending this section and section 2, 3, 16, 28, and 29 of this title, section 401 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and sections 43, 44, and 45 of former Title 49, Transportation, and enacting provisions set out as notes under this section and section 29 of this title\] may be cited as the ‘Antitrust Procedures and Penalties Act’.”
 
 #### Short Title
 
 Pub. L. 94–435, title III, §305(a), Sept. 30, 1976, 90 Stat. 1397, added immediately following the enacting clause of act July 2, 1890, the following: “That this Act \[this section and sections 2 to 7 of this title\] may be cited as the ‘Sherman Act’.”
 
+#### Antitrust Modernization Commission
+
+Pub. L. 107–273, div. C, title I, subtitle D, Nov. 2, 2002, 116 Stat. 1856, provided that:
+
+#### “SEC. 11051. SHORT TITLE.
+
+“This subtitle may be cited as the ‘Antitrust Modernization Commission Act of 2002’.
+
+#### “SEC. 11052. ESTABLISHMENT.
+
+“There is established the Antitrust Modernization Commission (in this subtitle referred to as the ‘Commission’).
+
+#### “SEC. 11053. DUTIES OF THE COMMISSION.
+
+“The duties of the Commission are—
+
+&emsp;“(1) to examine whether the need exists to modernize the antitrust laws and to identify and study related issues;
+
+&emsp;“(2) to solicit views of all parties concerned with the operation of the antitrust laws;
+
+&emsp;“(3) to evaluate the advisability of proposals and current arrangements with respect to any issues so identified; and
+
+&emsp;“(4) to prepare and to submit to Congress and the President a report in accordance with section 11058.
+
+#### “SEC. 11054. MEMBERSHIP.
+
+“(a)
+
+Number and Appointment.—The Commission shall be composed of 12 members appointed as follows:
+
+&emsp;“(1) Four members, no more than 2 of whom shall be of the same political party, shall be appointed by the President. The President shall appoint members of the opposing party only on the recommendation of the leaders of Congress from that party.
+
+&emsp;“(2) Two members shall be appointed by the majority leader of the Senate.
+
+&emsp;“(3) Two members shall be appointed by the minority leader of the Senate.
+
+&emsp;“(4) Two members shall be appointed by the Speaker of the House of Representatives.
+
+&emsp;“(5) Two members shall be appointed by the minority leader of the House of Representatives.
+
+“(b)
+
+Ineligibility for Appointment.—Members of Congress shall be ineligible for appointment to the Commission.
+
+“(c)
+
+Term of Appointment.—
+
+&emsp;“(1)
+
+In general.—Subject to paragraph (2), members of the Commission shall be appointed for the life of the Commission.
+
+&emsp;“(2)
+
+Early termination of appointment.—If a member of the Commission who is appointed to the Commission as—
+
+&emsp;&emsp;“(A) an officer or employee of a government ceases to be an officer or employee of such government; or
+
+&emsp;&emsp;“(B) an individual who is not an officer or employee of a government becomes an officer or employee of a government;
+
+> then such member shall cease to be a member of the Commission on the expiration of the 90-day period beginning on the date such member ceases to be such officer or employee of such government, or becomes an officer or employee of a government, as the case may be.
+
+“(d)
+
+Quorum.—Seven members of the Commission shall constitute a quorum, but a lesser number may conduct meetings.
+
+“(e)
+
+Appointment Deadline.—Initial appointments under subsection (a) shall be made not later than 60 days after the date of enactment of this Act \[Nov. 2, 2002\].
+
+“(f)
+
+Meetings.—The Commission shall meet at the call of the chairperson. The first meeting of the Commission shall be held not later than 30 days after the date on which all members of the Commission are first appointed under subsection (a) or funds are appropriated to carry out this subtitle, whichever occurs later.
+
+“(g)
+
+Vacancy.—A vacancy on the Commission shall be filled in the same manner as the initial appointment is made.
+
+“(h)
+
+Consultation Before Appointment.—Before appointing members of the Commission, the President, the majority and minority leaders of the Senate, the Speaker of the House of Representatives, and the minority leader of the House of Representatives shall consult with each other to ensure fair and equitable representation of various points of view in the Commission.
+
+“(i)
+
+Chairperson; Vice Chairperson.—The President shall select the chairperson of the Commission from among its appointed members. The leaders of Congress from the opposing party of the President shall select the vice chairperson of the Commission from among its remaining members.
+
+#### “SEC. 11055. COMPENSATION OF THE COMMISSION.
+
+“(a)
+
+Pay.—
+
+&emsp;“(1)
+
+Nongovernment employees.—Each member of the Commission who is not otherwise employed by a government shall be entitled to receive the daily equivalent of the annual rate of basic pay payable for level IV of the Executive Schedule under section 5315 of title 5 United States Code, as in effect from time to time, for each day (including travel time) during which such member is engaged in the actual performance of duties of the Commission.
+
+&emsp;“(2)
+
+Government employees.—A member of the Commission who is an officer or employee of a government shall serve without additional pay (or benefits in the nature of compensation) for service as a member of the Commission.
+
+“(b)
+
+Travel Expenses.—Members of the Commission shall receive travel expenses, including per diem in lieu of subsistence, in accordance with subchapter I of chapter 57 of title 5, United States Code.
+
+#### “SEC. 11056. STAFF OF COMMISSION; EXPERTS AND CONSULTANTS.
+
+“(a)
+
+Staff.—
+
+&emsp;“(1)
+
+Appointment.—The chairperson of the Commission may, without regard to the provisions of chapter 51 of title 5 of the United States Code (relating to appointments in the competitive service), appoint and terminate an executive director and such other staff as are necessary to enable the Commission to perform its duties. The appointment of an executive director shall be subject to approval by the Commission.
+
+&emsp;“(2)
+
+Compensation.—The chairperson of the Commission may fix the compensation of the executivedirector and other staff without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5 of the United States Code (relating to classification of positions and General Schedule pay rates), except that the rate of pay for the executive director and other staff may not exceed the rate of basic pay payable for level V of the Executive Schedule under section 5315 of title 5 United States Code, as in effect from time to time.
+
+“(b)
+
+Experts and Consultants.—The Commission may procure temporary and intermittent services of experts and consultants in accordance with section 3109(b) of title 5, United States Code.
+
+#### “SEC. 11057. POWERS OF THE COMMISSION.
+
+“(a)
+
+Hearings and Meetings.—The Commission, or a member of the Commission if authorized by the Commission, may hold such hearings, sit and act at such time and places, take such testimony, and receive such evidence, as the Commission considers to be appropriate. The Commission or a member of the Commission may administer oaths or affirmations to witnesses appearing before the Commission or such member.
+
+“(b)
+
+Official Data.—The Commission may obtain directly from any executive agency (as defined in section 105 of title 5 of the United States Code) or court information necessary to enable it to carry out its duties under this subtitle. On the request of the chairperson of the Commission, and consistent with any other law, the head of an executive agency or of a Federal court shall provide such information to the Commission.
+
+“(c)
+
+Facilities and Support Services.—The Administrator of General Services shall provide to the Commission on a reimbursable basis such facilities and support services as the Commission may request. On request of the Commission, the head of an executive agency may make any of the facilities or services of such agency available to the Commission, on a reimbursable or nonreimbursable basis, to assist the Commission in carrying out its duties under this subtitle.
+
+“(d)
+
+Expenditures and Contracts.—The Commission or, on authorization of the Commission, a member of the Commission may make expenditures and enter into contracts for the procurement of such supplies, services, and property as the Commission or such member considers to be appropriate for the purpose of carrying out the duties of the Commission. Such expenditures and contracts may be made only to such extent or in such amounts as are provided in advance in appropriation Acts.
+
+“(e)
+
+Mails.—The Commission may use the United States mails in the same manner and under the same conditions as other departments and agencies of the United States.
+
+“(f)
+
+Gifts, Bequests, and Devises.—The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts, bequests, or devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission.
+
+#### “SEC. 11058. REPORT.
+
+“Not later than 3 years after the first meeting of the Commission, the Commission shall submit to Congress and the President a report containing a detailed statement of the findings and conclusions of the Commission, together with recommendations for legislative or administrative action the Commission considers to be appropriate.
+
+#### “SEC. 11059. TERMINATION OF COMMISSION.
+
+“The Commission shall cease to exist 30 days after the date on which the report required by section 8 \[11058\] is submitted.
+
+#### “SEC. 11060. AUTHORIZATION OF APPROPRIATIONS.
+
+“There is authorized to be appropriated $4,000,000 to carry out this subtitle.”
+
 #### Year 2000 Information and Readiness Disclosure
 
-Pub. L. 105–271, Oct. 19, 1998, 112 Stat. 2386, provided that:
+Pub. L. 105–271, Oct. 19, 1998, 112 Stat. 2386, as amended by Pub. L. 107–273, div. C, title IV, §14102(e), Nov. 2, 2002, 116 Stat. 1922, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -250,7 +414,7 @@ Internet Website.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (2), in any covered action other than a covered action involving personal injury or serious physical damage to property, in which the adequacy of notice about year 2000 processing is at issue, the posting, in a commercially reasonable manner and for a commercially reasonable duration, of a notice by the entity charged with giving such notice on the year 2000 Internet website of that entity shall be deemed an adequate mechanism for providing that notice.
+In general.—Except as provided in paragraph (2), in any covered action other than a covered action involving personal injury or serious physical damage to property, in which the adequacy of notice aboutyear 2000 processing is at issue, the posting, in a commercially reasonable manner and for a commercially reasonable duration, of a notice by the entity charged with giving such notice on the year 2000 Internet website of that entity shall be deemed an adequate mechanism for providing that notice.
 
 &emsp;“(2)
 
@@ -312,7 +476,7 @@ In general.—A Federal entity, agency, or authority may expressly designate a r
 
 &emsp;“(2)
 
-Specifics.—A special year 2000 data gathering request made under this subsection shall specify aFederal entity, agency, or authority, or, with its consent, another public or private entity, agency, or authority, to gather responses to the request.
+Specifics.—A special year 2000 data gathering request made under this subsection shall specify a Federal entity, agency, or authority, or, with its consent, another public or private entity, agency, or authority, to gather responses to the request.
 
 &emsp;“(3)
 
@@ -344,7 +508,7 @@ Exemption.—Except as provided in subsection (b), the antitrust laws shall not 
 
 &emsp;“(1) facilitating responses intended to correct or avoid a failure of year 2000 processing in a computer system, in a component of a computer system, in a computer program or software, or services utilizing any such system, component, program, or hardware; or
 
-&emsp;“(2) communicating or disclosing information to help correct or avoid the effects of year 2000 processing failure\[.\]
+&emsp;“(2) communicating or disclosing information to help correct or avoid the effects of year 2000 processing failure.
 
 “(b)
 
@@ -384,7 +548,7 @@ In general.—In any covered action brought by a consumer, this Act does not app
 
 Specific notice required.—In any covered action, this Act shall not apply to a year 2000 statement, concerning a year 2000 remediation product or service, expressly made in an offer to sell or in a solicitation (including an advertisement) by a seller, manufacturer, or provider, of that product or service unless, during the course of the offer or solicitation, the party making the offer or solicitation provides the following notice in accordance with section 4(d):
 
-&emsp;&emsp;&emsp;“ ‘Statements made to you in the course of this sale are subject to the Year 2000 Information and Readiness Disclosure Act (\_\_\_\_ U.S.C. \_\_\_\_). In the case of a dispute, this Act may reduce your legal rights regarding the use of any such statements, unless otherwise specified by your contract or tariff.’
+&emsp;&emsp;&emsp;“ ‘Statements made to you in the course of this sale are subject to the Year 2000 Information andReadiness Disclosure Act (\_\_\_\_ U.S.C. \_\_\_\_). In the case of a dispute, this Act may reduce your legal rights regarding the use of any such statements, unless otherwise specified by your contract or tariff.’
 
 &emsp;“(3)
 
@@ -450,7 +614,7 @@ In general.—For the purposes of section 4(a), a person or entity that issued o
 
 &emsp;&emsp;&emsp;“(i) provides individual notice that meets the requirements of paragraph (2) to all recipients of the applicable year 2000 statement; or
 
-&emsp;&emsp;&emsp;“(ii) prominently posts notice that meets the requirements of paragraph (2) on its year 2000 Internet website, commencing prior to the end ofthe 45-day period under this subparagraph and extending for a minimum of 45 consecutive days and also uses the same method of notification used to originally provide the applicable year 2000 statement.
+&emsp;&emsp;&emsp;“(ii) prominently posts notice that meets the requirements of paragraph (2) on its year 2000 Internet website, commencing prior to the end of the 45-day period under this subparagraph and extending for a minimum of 45 consecutive days and also uses the same method of notification used to originally provide the applicable year 2000 statement.
 
 &emsp;“(2)
 
@@ -580,7 +744,7 @@ In general.—The study under paragraph (1) shall—
 
 &emsp;&emsp;&emsp;“(iii) to the extent useful in determining the effect of the antitrust exemption under section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note), examine—
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) comparison data, identified in clauses (i) and (ii), from institutions of higher education that do not participate under the antitrust exemption under section 568 of the ImprovingAmerica's Schools Act of 1994 (15 U.S.C. 1 note); and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) comparison data, identified in clauses (i) and (ii), from institutions of higher education that do not participate under the antitrust exemption under section 568 of the Improving America's Schools Act of 1994 (15 U.S.C. 1 note); and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) other baseline trend data from national benchmarks; and
 
@@ -682,7 +846,7 @@ Expiration.—Subsection (a) shall expire on September 30, 2008.”
 
 #### Sherman Act Referred to in Other Sections
 
-The Sherman Act \[15 U.S.C. 1 to 7\] is referred to in sections 12, 15c, 15d, 29, 30, 31, 44, 62, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849; title 16 section 2602; title 30 sections 184, 1413; title 40 section 488; title 42 sections 2135, 5417, 5909, 6202, 8235f, 9102; title 43 sections 970, 1331, 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
+The Sherman Act \[15 U.S.C. 1 to 7\] is referred to in sections 12, 15c, 15d, 29, 44, 62, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849; title 16 section 2602; title 30 sections 184, 1413; title 40 section 559; title 42 sections 2135, 5417, 5909, 6202, 8235f, 9102; title 43 sections 970, 1331, 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
 
 #### Section Referred to in Other Sections
 

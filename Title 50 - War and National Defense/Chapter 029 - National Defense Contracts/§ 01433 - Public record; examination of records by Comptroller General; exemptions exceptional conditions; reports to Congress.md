@@ -14,7 +14,7 @@
 
 #### Amendments
 
-1966—Subsec. (b). Pub. L. 89–607 provided for exemption of certain contracts with foreign contractors from the requirement for an examination-of-records clause, such determination to be reported to Congress.
+1966—Subsec. (b). Pub. L. 89–607 provided for exemption of certain contracts with foreign contractors fromthe requirement for an examination-of-records clause, such determination to be reported to Congress.
 
 #### Exemption of Functions
 
@@ -26,5 +26,5 @@ Secretaries of Defense, Army, Navy, or Air Force, or their designees, to determi
 
 #### Nonapplicability of the National Emergencies Act
 
-The provisions of the National Emergencies Act \[see Short Title note set out under section 1601 of this title\]shall not apply to the powers and authorities conferred by this section and actions taken hereunder, see section 1651(a)(6) of this title.
+The provisions of the National Emergencies Act \[see Short Title note set out under section 1601 of this title\] shall not apply to the powers and authorities conferred by this section and actions taken hereunder, see section 1651(a)(4) of this title.
 

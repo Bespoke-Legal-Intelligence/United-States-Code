@@ -60,7 +60,7 @@ Par. (1)(ii). Pub. L. 98–369, §1077(b)(2), inserted “and illustrations of s
 
 1968—Par. (1). Pub. L. 90–353 inserted provisions so as to permit colored illustrations of canceled United States postage stamps in the exact size of genuine stamps and colored illustrations of uncanceled United States and foreign stamps if the size of the illustrations is less than three-fourths or more than one and one-half times the size of the genuine stamps and permitted the use of colored illustrations of stamps in public documents relating to stamps printed by the Government Printing Office at the request of the Postmaster General.
 
-1958—Pub. L. 85–921 permitted black and white illustrations of revenue stamps of the United States for philatelic and numismatic purposes, black and white illustrations of United States and foreign paper money and other obligations and securities for educational, historical, and newsworthy purposes, and permitted motion picture films, microfilms, and slides of United States and foreign postage and revenue stamps, paper money, and other obligations and securities, except films in connection with advertising.
+1958—Pub. L. 85–921 permitted black and white illustrations of revenue stamps of the United States for philatelic and numismatic purposes, black and white illustrations of United States and foreign paper money and other obligations and securities for educational, historical, and newsworthy purposes, and permitted motion picture films, microfilms, and slides of UnitedStates and foreign postage and revenue stamps, paper money, and other obligations and securities, except films in connection with advertising.
 
 #### Effective Date of 1984 Amendment
 

@@ -22,5 +22,5 @@ For transfer of certain functions relating to real property under jurisdiction o
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 410mm, 434, 470cc, 470dd, 1133 of this title; title 20 section 78a; title 43 section 1714.
+This section is referred to in sections 410mm, 434, 470cc, 470dd, 698w, 1133 of this title; title 20 section 78a; title 43 section 1714.
 

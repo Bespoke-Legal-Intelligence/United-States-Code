@@ -28,7 +28,7 @@ Not later than October 1, 1993, the Commissioner shall develop and publish in th
 
 #### (1) Reviews
 
-&emsp;The Commissioner shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funds under section 796f–1 of this title and shall periodically conduct such a review of each such center. The Commissioner shall annually conduct onsite compliance reviews of at least one-third of the designated State units that receive funding under section 796f–2 of this title, and, to the extent necessary to determine the compliance of such a State unit with subsections (f) and (g) of section 796f–2 of this title, centers that receive funding under section 796f–2 of this title in such State. The Commissioner shall select the centers and State units described in this paragraph for review on a random basis.
+&emsp;The Commissioner shall annually conduct onsite compliance reviews of at least 15 percent of the centers for independent living that receive funds under section 796f–1 of this title and shall periodically conduct such a review of each such center. The Commissioner shall annually conduct onsite compliance reviews of at least one-third of the designated State units that receive funding under section 796f–2 of this title, and, to the extent necessary to determine the compliance of such a State unit with subsections (f) and (g) of section 796f–2 of this title, centers that receive funding under section 796f–2 of this title in such State. TheCommissioner shall select the centers and State units described in this paragraph for review on a random basis.
 
 #### (2) Qualifications of employees conducting reviews
 

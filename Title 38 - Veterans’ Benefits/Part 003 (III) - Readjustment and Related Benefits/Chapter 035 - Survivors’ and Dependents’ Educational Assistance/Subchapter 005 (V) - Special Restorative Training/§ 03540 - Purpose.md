@@ -1,6 +1,6 @@
 ### §3540. Purpose
 
-The purpose of special restorative training is to overcome, or lessen, the effects of a manifest physical or mental disability which would handicap an eligible person (as defined in subparagraphs (A), (B), and (D) of section 3501(a)(1) of this title) in the pursuit of a program of education.
+The purpose of special restorative training is to overcome, or lessen, the effects of a manifestphysical or mental disability which would handicap an eligible person (as defined in subparagraphs (A), (B), and (D) of section 3501(a)(1) of this title) in the pursuit of a program of education.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1200, §1740; Pub. L. 96–466, title III, §331, Oct. 17, 1980, 94 Stat. 2198; renumbered §3540 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–103, title I, §109(a), Dec. 27, 2001, 115 Stat. 986.)
 

@@ -625,7 +625,7 @@ I74subpart a—school-based programs for students
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2756a, 3056a of this title; title 20 sections 1087vv, 6143; title 29 sections 2822, 2841; title 40 section 484.
+This chapter is referred to in sections 2756a, 3056a of this title; title 20 sections 1087vv, 6143; title 29 sections 2822, 2841; title 40 section 550.
 
 
 ---

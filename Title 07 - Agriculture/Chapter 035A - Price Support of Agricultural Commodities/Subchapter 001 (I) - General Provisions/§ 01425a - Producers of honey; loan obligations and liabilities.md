@@ -36,11 +36,13 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 #### Inapplicability of Section
 
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(10) of this title.
+
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 
 #### Prohibition on Use of Funds for Honey Payments or Loan Forfeitures
 
-Pub. L. 104–37, title VII, §718, Oct. 21, 1995, 109 Stat. 331, provided that none of the funds appropriated or otherwise made available by Pub. L. 104–37 were to be used by the Secretary of Agriculture to provide total amount of payments and/or total amount of loan forfeitures to a person to support the price of honey under this section or former section 1446h of this title in excess of zero dollars in the 1994, 1995, and 1996 crop years.
+Pub. L. 104–37, title VII, §718, Oct. 21, 1995, 109 Stat. 331, provided that none of the funds appropriated orotherwise made available by Pub. L. 104–37 were to be used by the Secretary of Agriculture to provide total amount of payments and/or total amount of loan forfeitures to a person to support the price of honey under this section or former section 1446h of this title in excess of zero dollars in the 1994, 1995, and 1996 crop years.
 
 Similar provisions were contained in the following prior appropriation acts:
 

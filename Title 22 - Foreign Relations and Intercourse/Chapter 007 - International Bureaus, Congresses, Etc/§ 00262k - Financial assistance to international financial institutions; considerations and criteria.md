@@ -2,7 +2,7 @@
 
 #### (a) Congressional declaration of intent
 
-United States active participation in international financial institution activity is based on our national objective of furthering the economic and social development of the nations of the world, in particular the developing nations. The attainment of this national objective is most effectively realized through a world economic and financial system which is both free and stable. Therefore, it is the intent of the United States Congress that United States financial assistance to the international financialinstitutions should be primarily directed to those projects that would not generate excess commodity supplies in world markets, displace private investment initiatives or foster departures from a market-oriented economy.
+United States active participation in international financial institution activity is based on our national objective of furthering the economic and social development of the nations of the world, in particular the developing nations. The attainment of this national objective is most effectively realized through a world economic and financial system which is both free and stable. Therefore, it is the intent of the United States Congress that United States financial assistance to the international financial institutions should be primarily directed to those projects that would not generate excess commodity supplies in world markets, displace private investment initiatives or foster departures from a market-oriented economy.
 
 #### (b) Effect of country adjustment programs; minimization of projected adverse impacts; avoidance of government subsidization
 
@@ -14,7 +14,7 @@ The Secretary of the Treasury shall instruct the representatives of the United S
 
 #### (c) Project proposals relating to mining, smelting, refining, and fabricating of minerals and metal products
 
-More specifically, the following criteria should be considered as a basis for a vote by the respective United States Executive Director to each of the international financial institutions described in subsection (d) of this section against a project proposal involving the creation of new capacity or the expansion, improvement, or modification of mining, smelting, refining, and fabricating of minerals and metal products:
+More specifically, the following criteria should be considered as a basis for a vote by the respective United States Executive Director to each of the international financial institutionsdescribed in subsection (d) of this section against a project proposal involving the creation of new capacity or the expansion, improvement, or modification of mining, smelting, refining, and fabricating of minerals and metal products:
 
 &emsp;(1) Analysis shows that the risks, returns, and incentives of a project are such that it could be financed at reasonable terms by commercial lending services.
 

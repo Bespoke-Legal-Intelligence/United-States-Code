@@ -1,6 +1,6 @@
 ### §502. Procurement of printing, binding, and blank-book work by Public Printer
 
-Printing, binding, and blank-book work authorized by law, which the Public Printer is not able or equipped to do at the Government Printing Office, may be produced elsewhere under contracts made by him with the approval of the Joint Committee on Printing.
+Printing, binding, and blank-book work authorized by law, which the Public Printer is notable or equipped to do at the Government Printing Office, may be produced elsewhere under contracts made by him with the approval of the Joint Committee on Printing.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1243.)
 

@@ -14,7 +14,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–258 substituted “Deposit of moneys in pending or adjudicated cases” for “Deposit” in section catchline.
+1982—Pub. L. 97–258 substituted “Deposit of moneys in pending or adjudicated cases” for “Deposit” in section catchline.
 
 #### Registry Administration Account
 

@@ -4,7 +4,7 @@
 
 &emsp;(1) the applicable requirements of section 1129 of this title have been met;
 
-&emsp;(2) each creditor or equity security holder will receive or retain under the plan property of a value, as of the effective date of the plan, that is not less than the value of property thateach such creditor or equity security holder would so receive or retain if all of the operating railroad lines of the debtor were sold, and the proceeds of such sale, and the other property of the estate, were distributed under chapter 7 of this title on such date;
+&emsp;(2) each creditor or equity security holder will receive or retain under the plan property of a value, as of the effective date of the plan, that is not less than the value of property that each such creditor or equity security holder would so receive or retain if all of the operating railroad lines of the debtor were sold, and the proceeds of such sale, and the other property of the estate, were distributed under chapter 7 of this title on such date;
 
 &emsp;(3) in light of the debtor's past earnings and the probable prospective earnings of the reorganized debtor, there will be adequate coverage by such prospective earnings of any fixed charges, such as interest on debt, amortization of funded debt, and rent for leased railroads, provided for by the plan; and
 

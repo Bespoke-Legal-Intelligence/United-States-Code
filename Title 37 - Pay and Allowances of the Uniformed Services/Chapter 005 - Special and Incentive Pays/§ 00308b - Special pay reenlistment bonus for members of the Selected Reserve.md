@@ -38,15 +38,19 @@ Repayment of Bonus.—A member who receives a bonus under this section and who f
 
 (e)
 
-Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Transportation for the Coast Guard when it is not operating as a service in the Navy.
+Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
 
 (f)
 
-Termination of Authority.—No bonus may be paid under this section to any enlisted member who, after December 31, 2002, reenlists or voluntarily extends his enlistment in a reserve component.
+Termination of Authority.—No bonus may be paid under this section to any enlisted member who, after December 31, 2003, reenlists or voluntarily extends his enlistment in a reserve component.
 
-(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(a), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(b), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(b), 621, Nov. 18, 1997, 111 Stat. 1785, 1790; Pub. L. 105–261, div. A, title VI, §611(b), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(b), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(b), Dec. 28, 2001, 115 Stat. 1135.)
+(Added Pub. L. 95–79, title IV, §403(a)(1), July 30, 1977, 91 Stat. 330; amended Pub. L. 95–485, title IV, §403, Oct. 20, 1978, 92 Stat. 1614; Pub. L. 96–342, title VIII, §805(b), Sept. 8, 1980, 94 Stat. 1095; Pub. L. 97–295, §3(2), Oct. 12, 1982, 96 Stat. 1303; Pub. L. 99–145, title VI, §643(a), Nov. 8, 1985, 99 Stat. 652; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §§613, 652(b)(1), Nov. 29, 1989, 103 Stat. 1446, 1461; Pub. L. 101–510, div. A, title XIII, §1322(c)(4), Nov. 5, 1990, 104 Stat. 1672; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(a), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(a), Oct. 5, 1994, 108 Stat. 2782; Pub. L. 104–106, div. A, title VI, §611(a), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(b), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(b), 621, Nov. 18, 1997, 111 Stat. 1785, 1790; Pub. L. 105–261, div. A, title VI, §611(b), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(b), Oct. 5, 1999, 113 Stat. 649; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(b), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(a), Dec. 2, 2002, 116 Stat. 2567.)
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+Subsec. (f). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
 
 2001—Subsec. (f). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
 
@@ -70,7 +74,7 @@ Subsec. (b). Pub. L. 105–85, §621(b), amended subsec. (b) generally. Prior to
 
 &emsp;“(2) a subsequent payment of not to exceed $416.66 upon the completion of each year of the period of such reenlistment or extension of enlistment during which such member has satisfactorily participated in training with his unit.”
 
-Subsec. (c). Pub. L. 105–85, §621(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “No member shall be paid more than one bonus under this section.”
+Subsec. (c). Pub. L. 105–85, §621(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read asfollows: “No member shall be paid more than one bonus under this section.”
 
 Subsec. (d). Pub. L. 105–85, §621(d), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “A member who fails to participate satisfactorily in training with his unit during a term of enlistment for which a bonus is being paid to him under this section shall refund an amount equal to the amount by which the amount of such bonus exceeds the product of—
 
@@ -119,6 +123,10 @@ Subsec. (g). Pub. L. 99–145, §643(a)(3), substituted “September 30, 1987”
 Subsec. (b). Pub. L. 95–485, §403(b), inserted “an amount not to exceed” before “$450”, “$900”, and “$150”, respectively.
 
 Subsec. (g). Pub. L. 95–485, §403(c), substituted “September 30, 1980” for “September 30, 1978”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1993 Amendment
 

@@ -16,3 +16,7 @@ Section was formerly classified to section 368a of this title. See sections 361c
 
 1955—Act Aug. 11, 1955, amended section generally to provide for quarterly payment of allotments, to require annual report of allotments and disbursements, and to provide for replacement of funds diminished, lost, or misapplied. For provisions which authorized appropriations for investigations and experiments, see sections 361c and 361d of this title.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 361g of this title.
+

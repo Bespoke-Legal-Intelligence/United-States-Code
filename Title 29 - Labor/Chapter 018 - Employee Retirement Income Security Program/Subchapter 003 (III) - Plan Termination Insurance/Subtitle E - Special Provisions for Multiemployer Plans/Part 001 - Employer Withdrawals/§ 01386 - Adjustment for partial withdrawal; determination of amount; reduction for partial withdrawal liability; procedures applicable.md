@@ -20,7 +20,7 @@
 
 &emsp;&emsp;&emsp;(ii) in the case of a partial withdrawal described in section 1385(a)(1) of this title (relating to 70-percent contribution decline), the 5 plan years immediately preceding the beginning of the 3-year testing period.
 
-(b)(1) In the case of an employer that has withdrawal liability for a partial withdrawal from aplan, any withdrawal liability of that employer for a partial or complete withdrawal from that plan in a subsequent plan year shall be reduced by the amount of any partial withdrawal liability (reduced by any abatement or reduction of such liability) of the employer with respect to the plan for a previous plan year.
+(b)(1) In the case of an employer that has withdrawal liability for a partial withdrawal from a plan, any withdrawal liability of that employer for a partial or complete withdrawal from that plan in a subsequent plan year shall be reduced by the amount of any partial withdrawal liability (reduced by any abatement or reduction of such liability) of the employer with respect to the plan for a previous plan year.
 
 (2) The corporation shall prescribe such regulations as may be necessary to provide for proper adjustments in the reduction provided by paragraph (1) for—
 

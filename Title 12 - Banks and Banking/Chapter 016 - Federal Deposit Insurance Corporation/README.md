@@ -412,6 +412,8 @@
 | (g) | Administrative subpoenas. |
 | (h) | Statute of limitations. |
 | [1833b.](%C2%A7%2001833b%20-%20Comparability%20in%20compensation%20schedules.md) | Comparability in compensation schedules. |
+| (a) | In general. |
+| (b) | Commodity Futures Trading Commission. |
 | [1833c.](%C2%A7%2001833c%20-%20Comptroller%20General%20audit%20and%20access%20to%20records.md) | Comptroller General audit and access to records. |
 | (a) | Audit of agencies or other persons performing functions under banking laws. |
 | (b) | Audit of persons providing certain goods or services. |
@@ -464,7 +466,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 161, 203, 205, 211, 222, 329, 461, 1422, 1441, 1441a, 1464, 1467a, 1470, 1828a, 1841, 1843, 2254, 3104, 3105, 3108, 4713, 4717 of this title; title 15 sections 78c, 78<i>l</i>, 78m; title 40 section 474; title 42 section 5318a.
+This chapter is referred to in sections 161, 203, 205, 211, 222, 329, 461, 1422, 1441, 1441a, 1464, 1467a, 1470, 1828a, 1841, 1843, 2254, 3104, 3105, 3108, 4713, 4717 of this title; title 7 section 2009cc–9; title 15 sections 78c, 78<i>l</i>, 78m; title 40 section 113; title 42 section 5318a.
 
 
 ---

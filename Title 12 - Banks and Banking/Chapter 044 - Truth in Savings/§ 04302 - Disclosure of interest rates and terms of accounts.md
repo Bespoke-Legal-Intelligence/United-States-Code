@@ -22,11 +22,11 @@ The Board may, by regulation, exempt advertisements, announcements, or solicitat
 
 #### (c) Disclosure required for on-premises displays
 
-The disclosure requirements contained in this section shall not apply to any sign (including a rate board) disclosing a rate or rates of interest which is displayed on the premises of the depository institution if such sign contains—
+The disclosure requirements contained in this section shall not apply to any sign (including arate board) disclosing a rate or rates of interest which is displayed on the premises of the depository institution if such sign contains—
 
 &emsp;(1) the accompanying annual percentage yield; and
 
-&emsp;(2) a statement that the consumer should request further information from an employee of the depository institution concerning the feesand terms applicable to the advertised account.
+&emsp;(2) a statement that the consumer should request further information from an employee of the depository institution concerning the fees and terms applicable to the advertised account.
 
 #### (d) Misleading descriptions of free or no-cost accounts prohibited
 

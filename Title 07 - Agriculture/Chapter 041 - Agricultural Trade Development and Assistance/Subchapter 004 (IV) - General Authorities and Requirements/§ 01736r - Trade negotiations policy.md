@@ -96,7 +96,7 @@ Consultation With Congressional Committees.—
 
 &emsp;“(1) Consultation before offer made.—In developing and before submitting an initial or revised negotiating proposal that would reduce United States tariffs on agricultural products or require a change in United States agricultural law, the United States Trade Representative shall consult with the Committee on Agriculture, Nutrition, and Forestry and the Committee on Finance of the Senate and the Committee on Agriculture and the Committee on Ways and Means of the House of Representatives.
 
-&emsp;“(2) Consultation with congressional trade advisers.—Prior to and during the course of current negotiations on agricultural trade, the United States Trade Representative shall consult closely with the congressional trade advisers.
+&emsp;“(2) Consultation with congressional trade advisers.—Prior to and during the course of current negotiations on agricultural trade, the United StatesTrade Representative shall consult closely with the congressional trade advisers.
 
 &emsp;“(3) Consultation before agreement initialed.—Not less than 48 hours before initialing an agreement reached as part of current World Trade Organization agricultural negotiations, the United States Trade Representative shall consult closely with the committees referred to in paragraph (1) regarding—
 

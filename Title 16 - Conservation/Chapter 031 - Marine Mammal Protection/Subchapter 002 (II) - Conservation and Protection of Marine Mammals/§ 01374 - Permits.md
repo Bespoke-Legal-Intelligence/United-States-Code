@@ -20,7 +20,7 @@ Any permit issued under this section shall—
 
 &emsp;&emsp;(D) any other terms or conditions which the Secretary deems appropriate.
 
-> In any case in which an application for a permit cites as a reason for the proposed taking the overpopulation of a particular species or population stock, the Secretary shall first consider whether or not it would be more desirable to transplant a number of animals (but not to exceed the number requested for taking in the application) of that species or stock to a location not then inhabited by such species or stock but previously inhabited by such species or stock.
+> In any case in which an application for a permit cites as a reason for the proposed taking the overpopulation of a particular species or population stock, the Secretary shall first considerwhether or not it would be more desirable to transplant a number of animals (but not to exceed the number requested for taking in the application) of that species or stock to a location not then inhabited by such species or stock but previously inhabited by such species or stock.
 
 #### (c) Importation for scientific research, public display, or enhancing survival or recovery of species or stock
 
@@ -34,7 +34,7 @@ Any permit issued under this section shall—
 
 &emsp;(iii) maintains facilities for the public display of marine mammals that are open to the public on a regularly scheduled basis and that access to such facilities is not limited or restricted other than by charging of an admission fee.
 
-(B) A permit under this paragraph shall grant to the person to which it is issued the right,without obtaining any additional permit or authorization under this chapter, to—
+(B) A permit under this paragraph shall grant to the person to which it is issued the right, without obtaining any additional permit or authorization under this chapter, to—
 
 &emsp;(i) take, import, purchase, offer to purchase, possess, or transport the marine mammal that is the subject of the permit; and
 
@@ -86,7 +86,7 @@ Any permit issued under this section shall—
 
 &emsp;(i) taking or importation is likely to contribute significantly to maintaining or increasing distribution or numbers necessary to ensure the survival or recovery of the species or stock; and
 
-&emsp;(ii) taking or importation is consistent (I) with any conservation plan adopted by theSecretary under section 1383b(b) of this title or any recovery plan developed under section 1533(f) of this title for the species or stock, or (II) if there is no conservation or recovery plan in place, with the Secretary's evaluation of the actions required to enhance the survival or recovery of the species or stock in light of the factors that would be addressed in a conservation plan or a recovery plan.
+&emsp;(ii) taking or importation is consistent (I) with any conservation plan adopted by the Secretary under section 1383b(b) of this title or any recovery plan developed under section 1533(f) of this title for the species or stock, or (II) if there is no conservation or recovery plan in place, with the Secretary's evaluation of the actions required to enhance the survival or recovery of the species or stock in light of the factors that would be addressed in a conservation plan or a recovery plan.
 
 (B) A permit issued in accordance with this paragraph may allow the captive maintenance of a marine mammal from a depleted species or stock only if the Secretary—
 
@@ -126,7 +126,7 @@ Any permit issued under this section shall—
 
 &emsp;(C) meets the requirements of paragraph (4), in the case of a request for a permit under that paragraph.
 
-(8)(A) No additional permit or authorization shall be required to possess, sell, purchase,transport, export, or offer to sell or purchase the progeny of marine mammals taken or imported under this subsection, if such possession, sale, purchase, transport, export, or offer to sell or purchase is—
+(8)(A) No additional permit or authorization shall be required to possess, sell, purchase, transport, export, or offer to sell or purchase the progeny of marine mammals taken or imported under this subsection, if such possession, sale, purchase, transport, export, or offer to sell or purchase is—
 
 &emsp;(i) for the purpose of public display, and by or to, respectively, a person which meets the requirements of clauses (i), (ii), and (iii) of paragraph (2)(A);
 
@@ -174,7 +174,7 @@ Any permit issued under this section shall—
 
 (4) If within thirty days after the date of publication of notice pursuant to paragraph (2) of this subsection with respect to any application for a permit any interested party or parties request a hearing in connection therewith, the Secretary may, within sixty days following such date of publication, afford to such party or parties an opportunity for such a hearing.
 
-(5) As soon as practicable (but not later than thirty days) after the close of the hearing or, if no hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
+(5) As soon as practicable (but not later than thirty days) after the close of the hearing or, ifno hearing is held, after the last day on which data, or views, may be submitted pursuant to paragraph (2) of this subsection, the Secretary shall (A) issue a permit containing such terms and conditions as he deems appropriate, or (B) shall deny issuance of a permit. Notice of the decision of the Secretary to issue or to deny any permit under this paragraph must be published in the Federal Register within ten days after the date of issuance or denial.
 
 (6) Any applicant for a permit, or any party opposed to such permit, may obtain judicial review of the terms and conditions of any permit issued by the Secretary under this section or of his refusal to issue such a permit. Such review, which shall be pursuant to chapter 7 of title 5, may be initiated by filing a petition for review in the United States district court for the district wherein the applicant for a permit resides, or has his principal place of business, or in the United States District Court for the District of Columbia, within sixty days after the date on which such permit is issued or denied.
 

@@ -10,7 +10,7 @@ Effective October 1, 1979, and to such extent and in such amounts as are provide
 
 &emsp;&emsp;(2) dispose of land, facilities, and equipment;
 
-&emsp;&emsp;(3) construct, operate, maintain, and make replacements of facilities: <i>Provided, however</i>,That no funds will be provided for operation, maintenance, or replacement of non-Federal facilities.
+&emsp;&emsp;(3) construct, operate, maintain, and make replacements of facilities: <i>Provided, however</i>, That no funds will be provided for operation, maintenance, or replacement of non-Federal facilities.
 
 #### (b) Nonreimbursable costs
 

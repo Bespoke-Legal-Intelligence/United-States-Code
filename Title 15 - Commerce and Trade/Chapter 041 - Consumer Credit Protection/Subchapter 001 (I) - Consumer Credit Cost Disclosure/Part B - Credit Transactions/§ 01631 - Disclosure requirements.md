@@ -6,7 +6,7 @@ Subject to subsection (b) of this section, a creditor or lessor shall disclose t
 
 #### (b) Creditor or lessor required to make disclosure
 
-If a transaction involves one creditor as defined in section 1602(f) of this title, or one lessor as defined in section 1667(3) of this title, such creditor or lessor shall make the disclosures. If a transaction involves more than one creditor orlessor, only one creditor or lessor shall by required to make the disclosures. The Board shall by regulation specify which creditor or lessor shall make the disclosures.
+If a transaction involves one creditor as defined in section 1602(f) of this title, or one lessoras defined in section 1667(3) of this title, such creditor or lessor shall make the disclosures. If a transaction involves more than one creditor or lessor, only one creditor or lessor shall by required to make the disclosures. The Board shall by regulation specify which creditor or lessor shall make the disclosures.
 
 #### (c) Estimates as satisfying statutory requirements; basis of disclosure for per diem interest
 

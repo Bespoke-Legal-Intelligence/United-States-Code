@@ -4,7 +4,7 @@
 
 In order to receive an allotment under section 7111(b) of this title for any fiscal year, a State shall submit to the Secretary, at such time as the Secretary may require, an application that—
 
-&emsp;(1) contains a comprehensive plan for the use of funds by the State educational agency and the chief executive officer of the State to provide safe, orderly, and drug-free schools and communities through programs and activities that complement and support activities of local educational agencies under section 7115(b) of this title, that comply with the principles of effectiveness under section 7115(a) of this title, and that otherwise are in accordance with the purpose of this part;
+&emsp;(1) contains a comprehensive plan for the use of funds by the State educational agency and the chief executive officer of the State to provide safe, orderly, and drug-free schools and communities through programs and activitiesthat complement and support activities of local educational agencies under section 7115(b) of this title, that comply with the principles of effectiveness under section 7115(a) of this title, and that otherwise are in accordance with the purpose of this part;
 
 &emsp;(2) describes how activities funded under this subpart will foster a safe and drug-free learning environment that supports academic achievement;
 

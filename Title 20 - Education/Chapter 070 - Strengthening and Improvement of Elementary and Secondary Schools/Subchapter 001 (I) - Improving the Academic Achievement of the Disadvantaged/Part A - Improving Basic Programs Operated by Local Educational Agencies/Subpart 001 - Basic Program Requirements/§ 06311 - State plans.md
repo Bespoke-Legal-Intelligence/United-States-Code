@@ -52,7 +52,7 @@
 
 #### (F) Existing standards
 
-&emsp;&emsp;Nothing in this part shall prohibit a State from revising, consistent with this section, any standard adopted under this part before or after January 8, 2002.
+&emsp;&emsp;Nothing in this part shall prohibit a State from revising, consistent with this section,any standard adopted under this part before or after January 8, 2002.
 
 #### (2) Accountability
 
@@ -112,7 +112,7 @@
 
 #### (E) Starting point
 
-&emsp;&emsp;Each State, using data for the 2001–2002 school year, shall establish the starting point for measuring, under subparagraphs (G) and (H), the percentage of students meeting or exceeding the State's proficient level of academic achievement on the State assessments under paragraph (3) and pursuant to the timeline described in subparagraph (F). The starting point shall be, at a minimum, based on the higher of the percentage of students at the proficient level who are in—
+&emsp;&emsp;Each State, using data for the 2001–2002 school year, shall establish the starting point for measuring, under subparagraphs (G) and (H), the percentage of students meeting or exceeding the State's proficient levelof academic achievement on the State assessments under paragraph (3) and pursuant to the timeline described in subparagraph (F). The starting point shall be, at a minimum, based on the higher of the percentage of students at the proficient level who are in—
 
 &emsp;&emsp;&emsp;(i) the State's lowest achieving group of students described in subparagraph (C)(v)(II); or
 
@@ -222,7 +222,7 @@
 
 &emsp;&emsp;&emsp;(x) notwithstanding subclause (III), the academic assessment (using tests written in English) of reading or language arts of any student who has attended school in the United States (not including Puerto Rico) for three or more consecutive school years, except that if the local educational agency determines, on a case-by-case individual basis, that academic assessments in another language or form would likely yield more accurate and reliable information on what such student knows and can do, the local educational agency may make a determination to assess such student in the appropriate language other than English for a period that does not exceed two additional consecutive years, provided that such student has not yet reached a level of English language proficiency sufficient to yield valid and reliable information on what such student knows and can do on tests (written in English) of reading or language arts;
 
-&emsp;&emsp;&emsp;(xi) include students who have attended schools in a local educational agency for a full academic year but have not attended a single school for a full academic year, except that the performance of students who have attended more than 1 school in the local educational agency in any academic year shall be used only in determining the progress of the local educational agency;
+&emsp;&emsp;&emsp;(xi) include students who have attended schools in a local educational agency for a full academic year but have not attended a single school for a full academic year, except that the performance of students whohave attended more than 1 school in the local educational agency in any academic year shall be used only in determining the progress of the local educational agency;
 
 &emsp;&emsp;&emsp;(xii) produce individual student interpretive, descriptive, and diagnostic reports, consistent with clause (iii) that allow parents, teachers, and principals to understand and address the specific academic needs of students, and include information regarding achievement on academic assessments aligned with State academic achievement standards, and that are provided to parents, teachers, and principals, as soon as is practicably possible after the assessment is given, in an understandable and uniform format, and to the extent practicable, in a language that parents can understand;
 
@@ -266,7 +266,7 @@
 
 #### (7) Academic assessments of English language proficiency
 
-&emsp;Each State plan shall demonstrate that local educational agencies in the State will, beginning not later than school year 2002–2003, provide for an annual assessment of English proficiency (measuring students’ oral language, reading, and writing skills in English) of all students with limited English proficiency in the schools served by the State educational agency, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period.
+&emsp;Each State plan shall demonstrate that local educational agencies in the State will, beginning not later than school year 2002–2003, provide for an annual assessment of English proficiency (measuring students’ oral language, reading, and writing skills in English) of all students with limited English proficiency in the schools served by the Stateeducational agency, except that the Secretary may provide the State 1 additional year if the State demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period.
 
 #### (8) Requirement
 
@@ -298,9 +298,9 @@
 
 Each State plan shall contain assurances that—
 
-&emsp;(1) the State educational agency will meet the requirements of subsection (h)(1) of this section and, beginning with the 2002–2003 school year, will produce the annual State report cards described in such subsection, except that the Secretary may provide the State educational agency 1 additional year if the State educational agency demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources ofthe State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period;
+&emsp;(1) the State educational agency will meet the requirements of subsection (h)(1) of this section and, beginning with the 2002–2003 school year, will produce the annual State report cards described in such subsection, except that the Secretary may provide the State educational agency 1 additional year if the State educational agency demonstrates that exceptional or uncontrollable circumstances, such as a natural disaster or a precipitous and unforeseen decline in the financial resources of the State, prevented full implementation of this paragraph by that deadline and that the State will complete implementation within the additional 1-year period;
 
-&emsp;(2) the State will, beginning in school year 2002–2003, participate in biennial State academic assessments of 4th and 8th grade reading and mathematics under the National Assessment of Educational Progress carried out under section 9010(b)(2) of this title if the Secretary pays the costs of administering such assessments;
+&emsp;(2) the State will, beginning in school year 2002–2003, participate in biennial State academic assessments of 4th and 8th grade reading and mathematics under the National Assessment of Educational Progress carried out under section 9622(b)(2) of this title if the Secretary pays the costs of administering such assessments;
 
 &emsp;(3) the State educational agency, in consultation with the Governor, will include, as a component of the State plan, a plan to carry out the responsibilities of the State under sections 6316 and 6317 of this title, including carrying out the State educational agency's statewide system of technical assistance and support for local educational agencies;
 
@@ -376,7 +376,7 @@ Each State plan shall describe how the State educational agency will support the
 
 #### (2) Additional information
 
-&emsp;If significant changes are made to a State's plan, such as the adoption of new State academic content standards and State student achievement standards, new academic assessments, or a new definition of adequate yearly progress, such information shall be submitted to the Secretary.
+&emsp;If significant changes are made to a State's plan, such as the adoption of new State academic content standards and State student achievement standards, new academic assessments, or a new definition of adequate yearlyprogress, such information shall be submitted to the Secretary.
 
 #### (g) Penalties
 
@@ -486,7 +486,7 @@ Each State plan shall describe how the State educational agency will support the
 
 #### (E) Public dissemination
 
-&emsp;&emsp;The local educational agency shall, not later than the beginning of the 2002–2003 school year, unless the local educational agency has received a 1-year extension pursuant to subparagraph (A), publicly disseminate the information described in this paragraph to all schools in the school district served by the local educational agency and to all parents of students attending those schools in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand, and make the information widely available through public means, such asposting on the Internet, distribution to the media, and distribution through public agencies, except that if a local educational agency issues a report card for all students, the local educational agency may include the information under this section as part of such report.
+&emsp;&emsp;The local educational agency shall, not later than the beginning of the 2002–2003 school year, unless the local educational agency has received a 1-year extension pursuant to subparagraph (A), publicly disseminate the information described in this paragraph to all schools in the school district served by the local educational agency and to all parents of students attending those schools in an understandable and uniform format and, to the extent practicable, provided in a language that the parents can understand, and make the information widely available through public means, such as posting on the Internet, distribution to the media, and distribution through public agencies, except that if a local educational agency issues a report card for all students, the local educational agency may include the information under this section as part of such report.
 
 #### (3) Preexisting report cards
 
@@ -566,7 +566,7 @@ In determining the assessments to be used by each operated or funded by BIA scho
 
 &emsp;(3) Each such school that is accredited by a tribal accrediting agency or tribal division of education shall use an assessment developed by such agency or division, except that the Secretary of the Interior shall ensure that such assessment meets the requirements of this section.
 
-(Pub. L. 89–10, title I, §1111, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444.)
+(Pub. L. 89–10, title I, §1111, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1444; amended Pub. L. 107–279, title IV, §404(d)(1), Nov. 5, 2002, 116 Stat. 1985.)
 
 #### References in Text
 
@@ -590,7 +590,11 @@ A prior section 6311, Pub. L. 89–10, title I, §1111, as added Pub. L. 103–3
 
 A prior section 1111 of Pub. L. 89–10 was classified to section 2768 of this title, prior to the general amendment of Pub. L. 89–10 by Pub. L. 103–382.
 
+#### Amendments
+
+2002—Subsec. (c)(2). Pub. L. 107–279 substituted “section 9622(b)(2) of this title” for “section 9010(b)(2) of this title”.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5891b, 6312, 6314, 6316, 6317, 6318, 6319, 6362, 6364, 6398, 6434, 6491, 6578, 6641, 6812, 6821, 6823, 6826, 6841, 6842, 6911, 6914, 7011, 7225f, 7243, 7301, 7301a, 7301b, 7315, 7321, 7325, 7325a, 7325b, 7345b, 7351c, 7801, 7861, 9010 of this title; title 42 section 11432.
+This section is referred to in sections 5891b, 6312, 6314, 6316, 6317, 6318, 6319, 6362, 6364, 6398, 6434, 6491, 6578, 6641, 6812, 6821, 6823, 6826, 6841, 6842, 6911, 6914, 7011, 7225f, 7243, 7301, 7301a, 7301b, 7315, 7321, 7325, 7325a, 7325b, 7345b, 7351c, 7801, 7861, 9622 of this title; title 42 section 11432.
 

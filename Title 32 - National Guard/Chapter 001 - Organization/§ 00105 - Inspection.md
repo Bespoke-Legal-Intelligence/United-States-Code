@@ -8,7 +8,7 @@
 
 &emsp;(3) the members of the Army National Guard meet prescribed physical and other qualifications;
 
-&emsp;(4) the Army National Guard and its organization are properly uniformed, armed, and equipped and are being trained and instructedfor active duty in the field, or for coast defense;
+&emsp;(4) the Army National Guard and its organization are properly uniformed, armed, and equipped and are being trained and instructed for active duty in the field, or for coast defense;
 
 &emsp;(5) Army National Guard records are being kept in accordance with this title;
 

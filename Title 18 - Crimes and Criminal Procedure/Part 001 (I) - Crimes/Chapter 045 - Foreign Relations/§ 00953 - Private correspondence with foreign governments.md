@@ -22,5 +22,5 @@ Minor changes of arrangement and in phraseology were made.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14 of this title; title 50 App. section 34.
+This section is referred to in title 50 App. section 34.
 

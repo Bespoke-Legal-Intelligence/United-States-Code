@@ -28,7 +28,7 @@ Project Selection.—(1)(A) All federally funded projects carried out within the
 
 (e)
 
-Certification.—(1) At least once every 3 years, the Secretary shall ensure and certify that each metropolitan planning organization in each transportation management area is carrying out its responsibilities under applicable laws of the United States. The Secretary may make the certification only if the organization is complying with section 134 of title 23 and other applicable requirements of laws of the United States and the organization and chief executive officer have approved a transportation improvement program for the area.
+Certification.—(1) At least once every 3 years, the Secretary shall ensure and certify that each metropolitan planning organization ineach transportation management area is carrying out its responsibilities under applicable laws of the United States. The Secretary may make the certification only if the organization is complying with section 134 of title 23 and other applicable requirements of laws of the United States and the organization and chief executive officer have approved a transportation improvement program for the area.
 
 (2)(A) If a metropolitan planning process is not certified, the Secretary may withhold not more than 20 percent of the apportioned funds attributable to the transportation management area under this chapter and title 23.
 

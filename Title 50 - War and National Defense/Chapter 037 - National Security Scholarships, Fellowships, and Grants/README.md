@@ -14,6 +14,8 @@
 | (e) | Merit review. |
 | (f) | Limitation on use of program participants. |
 | (g) | Determination of agencies and offices of Federal Government having national security responsibilities. |
+| (h) | Use of awards to attend the Foreign Language Center of the Defense Language Institute. |
+| (i) | National Flagship Language Initiative. |
 | [1903\.](%C2%A7%2001903%20-%20National%20Security%20Education%20Board.md) | National Security Education Board. |
 | (a) | Establishment. |
 | (b) | Composition. |
@@ -43,8 +45,15 @@
 | [1910\.](%C2%A7%2001910%20-%20Funding.md) | Funding. |
 | (a) | Fiscal years 1993 and 1994. |
 | (b) | Fiscal years 1995 and 1996. |
+| [1911\.](%C2%A7%2001911%20-%20Additional%20annual%20authorization%20of%20appropriations.md) | Additional annual authorization of appropriations. |
+| (a) | In general. |
+| (b) | Availability of appropriated funds. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 415b of this title.
 
 
 ---
@@ -61,3 +70,4 @@
 - [&sect; 01908 - Definitions](%C2%A7%2001908%20-%20Definitions.md)
 - [&sect; 01909 - Fiscal year 1992 funding](%C2%A7%2001909%20-%20Fiscal%20year%201992%20funding.md)
 - [&sect; 01910 - Funding](%C2%A7%2001910%20-%20Funding.md)
+- [&sect; 01911 - Additional annual authorization of appropriations](%C2%A7%2001911%20-%20Additional%20annual%20authorization%20of%20appropriations.md)

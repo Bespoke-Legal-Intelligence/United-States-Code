@@ -84,7 +84,7 @@ In this division:
 
 &emsp;&emsp;&emsp;&emsp;(II) as otherwise provided in this division; and
 
-&emsp;&emsp;&emsp;(iii) contain an assurance that the local educational agency will, for the duration of the grant of authority, use funds consolidated under section 7321a of this title only to supplement the amount of funds that would, in the absence of those Federal funds, be made available from non-Federal sources for the education of students participating in programs assisted with the consolidated funds, and not to supplant those funds.
+&emsp;&emsp;&emsp;(iii) contain an assurance that the local educational agency will, for the durationof the grant of authority, use funds consolidated under section 7321a of this title only to supplement the amount of funds that would, in the absence of those Federal funds, be made available from non-Federal sources for the education of students participating in programs assisted with the consolidated funds, and not to supplant those funds.
 
 #### (d) Approval and selection
 

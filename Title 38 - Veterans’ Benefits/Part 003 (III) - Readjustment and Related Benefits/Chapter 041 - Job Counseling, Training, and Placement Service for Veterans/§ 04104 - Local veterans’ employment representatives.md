@@ -1,62 +1,32 @@
 ### §4104. Local veterans’ employment representatives
 
-(a)(1) For any fiscal year, the total of the amount of funds made available for use in the States under section 4102A(b)(5)(A)(ii) of this title shall be sufficient to support the appointment of 1,600 full-time local veterans’ employment representatives and the States’ administrative expenses associated with the appointment of that number of such representatives and shall be allocated to the several States so that each State receives funding sufficient to support—
+(a)
 
-&emsp;(A) the number of such representatives who were assigned in such State on January 1, 1987, for which funds were provided under this chapter, plus one additional such representative;
+Requirement for Employment by States of a Sufficient Number of Representatives.—Subject to approval by the Secretary, a State shall employ such full- and part-time local veterans’ employment representatives as the State determines appropriate and efficient to carry out employment, training, and placement services under this chapter.
 
-&emsp;(B) the percentage of the 1,600 such representatives for which funding is not provided under subparagraph (A) of this paragraph which is equal to the average of (i) the percentage of all veterans residing in the United States who reside in such State, (ii) the percentage of the total of all eligible veterans and eligible persons registered for assistance with local employment service offices in the United States who are registered for assistance with local employment service offices in such State, and (iii) the percentage of all full-service local employment service offices in the United States which are located in such State; and
+(b)
 
-&emsp;(C) the State's administrative expenses associated with the appointment of the number of such representatives for which funding is allocated to the State under subparagraphs (A) and (B) of this paragraph.
+Principal Duties.—As principal duties, local veterans’ employment representatives shall—
 
-(2)(A) The local veterans’ employment representatives allocated to a State pursuant to paragraph (1) of this subsection shall be assigned by the administrative head of the employment service in the State, after consultation with the Director for Veterans’ Employment and Training for the State, so that as nearly as practical (i) one full-time representative is assigned to each local employment service office at which at least 1,100 eligible veterans and eligible persons are registered for assistance, (ii) one additional full-time representative is assigned to each local employment service office for each 1,500 eligible veterans and eligible persons above 1,100 who are registered at such office for assistance, and (iii) one half-time representative is assigned to each local employment service office at which at least 350 but less than 1,100 eligible veterans and eligible persons are registered for assistance.
+&emsp;(1) conduct outreach to employers in the area to assist veterans in gaining employment, including conducting seminars for employers and, in conjunction with employers, conducting job search workshops and establishing job search groups; and
 
-(B) In the case of a service delivery point (other than a local employment service office described in subparagraph (A) of this paragraph) at which employment services are offered under the Wagner-Peyser Act, the head of such service delivery point shall be responsible for ensuring compliance with the provisions of this title providing for priority services for veterans and priority referral of veterans to Federal contractors.
+&emsp;(2) facilitate employment, training, and placement services furnished to veterans in a State under the applicable State employment service delivery systems.
 
-(3) For the purposes of this subsection, an individual shall be considered to be registered for assistance with a local employment service office during a program year if the individual—
+(c)
 
-&emsp;(A) registered, or renewed such individual's registration, for assistance with the office during that program year; or
+Requirement for Qualified Veterans and Eligible Persons.—A State shall, to the maximum extent practicable, employ qualified veterans or eligible persons to carry out the services referred to in subsection (a). Preference shall be accorded in the following order:
 
-&emsp;(B) so registered or renewed such individual's registration during a previous program year and, in accordance with regulations which the Secretary shall prescribe, is counted as still being registered for administrative purposes.
+&emsp;(1) To qualified service-connected disabled veterans.
 
-(4) In the appointment of local veterans’ employment representatives, preference shall be given to qualified eligible veterans or eligible persons. Preference shall be accorded first to qualified service-connected disabled veterans; then, if no such disabled veteran is available, to qualified eligible veterans; and, if no such eligible veteran is available, then to qualified eligible persons.
+&emsp;(2) If no veteran described in paragraph (1) is available, to qualified eligible veterans.
 
-(b) Local veterans’ employment representatives shall perform the following functions:
+&emsp;(3) If no veteran described in paragraph (1) or (2) is available, then to qualified eligible persons.
 
-&emsp;(1) Functionally supervise the providing of services to eligible veterans and eligible persons by the local employment service staff.
+(d)
 
-&emsp;(2) Maintain regular contact with community leaders, employers, labor unions, training programs, and veterans’ organizations for the purpose of (A) keeping them advised of eligible veterans and eligible persons available for employment and training, and (B) keeping eligible veterans and eligible persons advised of opportunities for employment and training.
+Reporting.—Each local veterans’ employment representative shall be administratively responsible to the manager of the employment service delivery system and shall provide reports, not less frequently than quarterly, to the manager of such office and to the Director for Veterans’ Employment and Training for the State regarding compliance with Federal law and regulations with respect to special services and priorities for eligible veterans and eligible persons.
 
-&emsp;(3) Provide directly, or facilitate the provision of, labor exchange services by local employment service staff to eligible veterans and eligible persons, including intake and assessment, counseling, testing, job-search assistance, and referral and placement.
-
-&emsp;(4) Encourage employers and labor unions to employ eligible veterans and eligible persons and conduct on-the-job training and apprenticeship programs for such veterans and persons.
-
-&emsp;(5) Promote and monitor the participation of veterans in federally funded employment and training programs, monitor the listing of vacant positions with State employment agencies by Federal agencies, and report to the Director for Veterans’ Employment and Training for the State concerned any evidence of failure to provide priority or other special consideration in the provision of services to veterans as is required by law or regulation.
-
-&emsp;(6) Monitor the listing of jobs and subsequent referrals of qualified veterans as required by section 4212 of this title.
-
-&emsp;(7) Work closely with appropriate Department of Veterans Affairs personnel engaged in providing counseling or rehabilitation services under chapter 31 of this title, and cooperate with employers in identifying disabled veterans who have completed or are participating in a vocational rehabilitation training program under such chapter and who are in need of employment.
-
-&emsp;(8) Refer eligible veterans and eligible persons to training, supportive services, and educational opportunities, as appropriate.
-
-&emsp;(9) Assist, through automated data processing, in securing and maintaining current information regarding available employment and training opportunities.
-
-&emsp;(10) Cooperate with the staff of programs operated under section 1712A of this title in identifying and assisting veterans who have readjustment problems and who may need services available at the local employment service office.
-
-&emsp;(11) When requested by a Federal or State agency, a private employer, or a service-connected disabled veteran, assist such agency, employer, or veteran in identifying and acquiring prosthetic and sensory aids and devices needed to enhance the employability of disabled veterans.
-
-&emsp;(12) Facilitate the provision of guidance or counseling services, or both, to veterans who, pursuant to section 5(b)(3) of the Veterans’ Job Training Act (29 U.S.C. 1721 note),<sup>1</sup> are certified as eligible for participation under such Act; and <sup>2</sup>
-
-&emsp;(13) coordinate <sup>3</sup> employment services with training assistance provided to veterans by entities receiving funds under section 2021 of this title.
-
-(c) Each local veterans’ employment representative shall be administratively responsible to the manager of the local employment service office and shall provide reports, not less frequently than quarterly, to the manager of such office and to the Director for Veterans’ Employment and Training for the State regarding compliance with Federal law and regulations with respect to special services and priorities for eligible veterans and eligible persons.
-
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, §2013; renumbered §2004, Pub. L. 87–675, §1(a), Sept. 19, 1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1095; Pub. L. 94–502, title VI, §606(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §3(a), May 20, 1988, 102 Stat. 560; Pub. L. 101–237, title IV, §423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; Pub. L. 102–16, §10(a)(8), Mar. 22, 1991, 105 Stat. 56; renumbered §4104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–14, §8(a)(10), June 5, 2001, 115 Stat. 35; Pub. L. 107–95, §9(b), Dec. 21, 2001, 115 Stat. 920.)
-
-#### References in Text
-
-The Wagner-Peyser Act, referred to in subsec. (a)(2)(B), is act June 6, 1933, ch. 49, 48 Stat. 113, as amended, which is classified generally to chapter 4B (§49 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 49 of Title 29 and Tables.
-
-The Veterans’ Job Training Act, referred to in subsec. (b)(12), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 2913 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1219, §2013; renumbered §2004, Pub. L. 87–675, §1(a), Sept. 19,1962, 76 Stat. 558; amended Pub. L. 89–358, §6(c)(1), Mar. 3, 1966, 80 Stat. 27; Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1095; Pub. L. 94–502, title VI, §606(2), Oct. 15, 1976, 90 Stat. 2405; Pub. L. 100–323, §3(a), May 20, 1988, 102 Stat. 560; Pub. L. 101–237, title IV, §423(b)(8)(B), Dec. 18, 1989, 103 Stat. 2093; Pub. L. 102–16, §10(a)(8), Mar. 22, 1991, 105 Stat. 56; renumbered §4104 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–14, §8(a)(10), June 5, 2001, 115 Stat. 35; Pub. L. 107–95, §9(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–288, §4(b)(2), Nov. 7, 2002, 116 Stat. 2043.)
 
 #### Prior Provisions
 
@@ -65,6 +35,8 @@ Prior section 4104, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1244; Pub. L. 89�
 Provisions similar to those comprising this section were contained in former section 2003 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
 #### Amendments
+
+2002—Pub. L. 107–288 amended text generally, substituting subsecs. (a) to (d) for former subsecs. (a) to (c) relating to appointment, functions, and reporting requirements of local veterans’ employment representatives.
 
 2001—Subsec. (a)(1). Pub. L. 107–14, §8(a)(10)(A)(i), substituted “For any fiscal year,” for “Beginning with fiscal year 1988,” in introductory provisions.
 
@@ -112,6 +84,10 @@ Subsec. (d). Pub. L. 102–16, §10(a)(8)(D), struck out subsec. (d) which read 
 
 1966—Pub. L. 89–358 inserted “or of service after January 31, 1955” after “veterans of any war”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–288 effective Nov. 7, 2002, and applicable for program years under this chapter beginning on or after such date, see section 4(b)(3) of Pub. L. 107–288, set out as a note under section 4103A of this title.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–323 effective May 20, 1988, except that subsec. (a)(1) to (3) effective for all of fiscal year 1988 and subsequent fiscal years, see section 16(a), (b)(1)(C) of Pub. L. 100–323, set out as a note under section 3104 of this title.
@@ -134,7 +110,7 @@ Authority To Conduct Pilot Program.—In order to assess the effects on the time
 
 “(b)
 
-Authorities Under Chapter 41.—To implement the pilot program, the Secretary of Labor may suspend or limit application of those provisions of chapter 41 of title 38, United States Code (other than subsections (b)(1) and (c) of section 4104) that pertain to the Local Veterans’ Employment Representative Program in States designated by the Secretary under subsection (d), except that the Secretary may use the authority of such chapter, as the Secretary may determine, in conjunction with the authority of this section, to carry out the pilot program. The Secretary may collect such data as the Secretary considers necessary for assessment of the pilot program. The Secretary shall measure and evaluate on a continuing basis the effectiveness of the pilot program in achieving its stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery of services.
+Authorities Under Chapter 41.—To implement the pilot program, the Secretary of Labor may suspend or limit application of those provisions of chapter 41 oftitle 38, United States Code (other than subsections (b)(1) and (c) of section 4104) that pertain to the Local Veterans’ Employment Representative Program in States designated by the Secretary under subsection (d), except that the Secretary may use the authority of such chapter, as the Secretary may determine, in conjunction with the authority of this section, to carry out the pilot program. The Secretary may collect such data as the Secretary considers necessary for assessment of the pilot program. The Secretary shall measure and evaluate on a continuing basis the effectiveness of the pilot program in achieving its stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery of services.
 
 “(c)
 
@@ -170,11 +146,5 @@ Expiration Date.—The authority to carry out the pilot program under this secti
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4102A, 4103A, 4104A, 4106, 4107 of this title; title 5 section 5948.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. A period probably should appear instead of “; and”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
+This section is referred to in section 4102A of this title; title 5 section 5948.
 

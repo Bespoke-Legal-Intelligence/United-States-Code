@@ -112,7 +112,7 @@ Amendment by section 4161(b)(4) of Pub. L. 101–508 applicable to cost reports 
 
 Section 2351(a)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any civil action commenced on or after the date of the enactment of this Act \[July 18, 1984\].”
 
-Section 2351(b)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending thissection\] shall be effective with respect to any appeal or action brought on or after the date of the enactment of this Act \[July 18, 1984\].”
+Section 2351(b)(2) of Pub. L. 98–369 provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any appeal or action brought on or after the date of the enactment of this Act \[July 18, 1984\].”
 
 Amendment by section 2354(b)(39), (40) of Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2354(e)(1) of Pub. L. 98–369, set out as a note under section 1320a–1 of this title.
 

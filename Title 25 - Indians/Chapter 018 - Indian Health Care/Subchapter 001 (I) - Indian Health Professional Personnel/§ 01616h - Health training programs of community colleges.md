@@ -62,7 +62,7 @@ For purposes of this section—
 
 #### References in Text
 
-Section 1801 of this title, referred to in subsec. (e)(2), was amended by Pub. L. 98–192, §1(1), Dec. 1, 1983, 97 Stat. 1335, to designate par. (4) as subsec. (a)(4), and was amended by Pub. L. 105–244, title IX, §901(b)(5), Oct. 7, 1998, 112 Stat. 1828, so that it no longer defines the term “tribally controlled community college”.
+Section 1801 of this title, referred to in subsec. (e)(2), was amended by Pub. L. 98–192, §1(1), Dec. 1, 1983, 97 Stat. 1335, to designate par. (4) as subsec. (a)(4), and wasamended by Pub. L. 105–244, title IX, §901(b)(5), Oct. 7, 1998, 112 Stat. 1828, so that it no longer defines the term “tribally controlled community college”.
 
 Section 1058 of title 20, referred to in subsec. (e)(3), was amended by Pub. L. 105–244, title III, §303(b)(1), Oct. 7, 1998, 112 Stat. 1639, which redesignated subsecs. (d) and (e) as (e) and (f), respectively.
 

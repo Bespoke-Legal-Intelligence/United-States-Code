@@ -36,5 +36,5 @@ A prior section 3141, Pub. L. 89–136, title II, §201, Aug. 26, 1965, 79 Stat.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3161, 3162 of this title; title 15 section 636; title 40 App. section 214.
+This section is referred to in sections 3161, 3162 of this title; title 15 section 636; title 40 section 14507.
 

@@ -24,7 +24,7 @@ Members Entitled to Allowance.—(1) Subject to subsection (d), a member of the 
 
 (c)
 
-Application for Allowance.—To request the supplemental subsistence allowance, a member shall submit an application to the Secretaryconcerned in such form and containing such information as the Secretary concerned may prescribe. A member applying for the supplemental subsistence allowance shall furnish such evidence regarding the member's satisfaction of the eligibility criteria under subsection (b) as the Secretary concerned may require.
+Application for Allowance.—To request the supplemental subsistence allowance, a member shall submit an application to the Secretary concerned in such form and containing such information as the Secretary concerned may prescribe. A member applying for the supplemental subsistence allowance shall furnish such evidence regarding the member's satisfaction of the eligibility criteria under subsection (b) as the Secretary concerned may require.
 
 (d)
 
@@ -52,7 +52,7 @@ Definitions.—In this section:
 
 &emsp;&emsp;(A) the Secretary of Defense; and
 
-&emsp;&emsp;(B) the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy.
+&emsp;&emsp;(B) the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 &emsp;(2) The terms “allotment” and “household” have the meanings given those terms in section 3 of the Food Stamp Act of 1977 (7 U.S.C. 2012).
 
@@ -62,11 +62,17 @@ Definitions.—In this section:
 
 Termination of Authority.—No supplemental subsistence allowance may be provided under this section after September 30, 2006.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §604(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–145; amended Pub. L. 107–107, div. A, title VI, §604(d), Dec. 28, 2001, 115 Stat. 1134; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
 
+2002—Subsec. (g)(1)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
 2001—Subsec. (b)(1). Pub. L. 107–107 inserted “with dependents” after “a member of the armed forces”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date
 

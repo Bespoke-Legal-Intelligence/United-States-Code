@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may acquire lands, waters, and interests in lands within the boundaries ofthe battlefield park from willing landowners by donation, purchase with donated or appropriated funds, or exchange. In acquiring lands and interests in lands under sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title, the Secretary shall acquire the minimum interest necessary to achieve the purposes for which the battlefield is established.
+&emsp;The Secretary may acquire lands, waters, and interests in lands within the boundaries of the battlefield park from willing landowners by donation, purchase with donated or appropriated funds, or exchange. In acquiring lands and interests in lands under sections 423<i>l</i>–1 to 423<i>l</i>–6 of this title, the Secretary shall acquire the minimum interest necessary to achieve the purposes for which the battlefield is established.
 
 #### (2) Special rule for private lands
 

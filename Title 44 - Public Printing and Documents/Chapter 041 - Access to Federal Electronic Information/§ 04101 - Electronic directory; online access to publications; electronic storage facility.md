@@ -36,5 +36,5 @@ Section 4(a) of Pub. L. 103–40 provided that: “The directory, the system of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4102, 4103 of this title; title 40 section 1503.
+This section is referred to in sections 4102, 4103 of this title; title 40 sections 11702, 11703.
 

@@ -6,7 +6,7 @@ There is in the Department a Deputy Secretary of Veterans Affairs, who is appoin
 
 #### Prior Provisions
 
-Provisions similar to those in this section were contained in section 210(d) of this title and in section 3(a) of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §§2(a), 3(3).
+Provisions similar to those in this section were contained in section 210(d) of this title and in section 3(a)of Pub. L. 100–527, known as the Department of Veterans Affairs Act, prior to repeal by Pub. L. 102–83, §§2(a), 3(3).
 
 #### Order of Succession
 

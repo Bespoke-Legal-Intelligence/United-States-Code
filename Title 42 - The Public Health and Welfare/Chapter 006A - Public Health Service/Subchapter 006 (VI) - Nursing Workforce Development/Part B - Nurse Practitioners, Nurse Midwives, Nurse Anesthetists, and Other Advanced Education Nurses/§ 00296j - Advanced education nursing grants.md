@@ -64,5 +64,5 @@ Section 296<i>l</i>, act July 1, 1944, ch. 373, title VIII, §821, as added Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 296e of this title.
+This section is referred to in sections 296e, 297n–1 of this title.
 

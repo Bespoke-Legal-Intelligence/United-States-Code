@@ -32,6 +32,10 @@ Section 1768(f) of Pub. L. 99–198 provided that:
 
 Act Mar. 4, 1913, ch. 145, §1 \[part\], 37 Stat. 832, which is classified to this chapter, is popularly known as the “Virus-Serum-Toxin Act”.
 
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Appropriations
 
 An appropriation of $25,000 was made by act Mar. 4, 1913, for the purpose of carrying into effect these provisions. The appropriation for the fiscal year 1926 was by act Feb. 10, 1925, ch. 200, 43 Stat. 827.

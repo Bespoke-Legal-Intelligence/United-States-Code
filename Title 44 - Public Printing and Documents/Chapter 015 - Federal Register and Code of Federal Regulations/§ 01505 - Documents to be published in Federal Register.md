@@ -2,7 +2,7 @@
 
 (a)
 
-Proclamations and Executive Orders; Documents Having General Applicability andLegal Effect; Documents Required To Be Published by Congress. There shall be published in the Federal Register—
+Proclamations and Executive Orders; Documents Having General Applicability and Legal Effect; Documents Required To Be Published by Congress. There shall be published in the Federal Register—
 
 &emsp;(1) Presidential proclamations and Executive orders, except those not having general applicability and legal effect or effective only against Federal agencies or persons in their capacity as officers, agents, or employees thereof;
 

@@ -62,7 +62,7 @@ Except as provided in subsection (b) or (c) of this section, any person may comm
 
 (D) No action may be commenced under subsection (a)(1)(B) of this section by any person (other than a State or local government) with respect to the siting of a hazardous waste treatment, storage, or a disposal facility, nor to restrain or enjoin the issuance of a permit for such facility.
 
-(E) In any action under subsection (a)(1)(B) of this section in a court of the United States, any person may intervene as a matter of right when the applicant claims an interest relating to the subject of the action and he is so situated that the disposition of the action may, as a practical matter, impair or impede his ability to protect that interest, unless the Administrator or the State shows that the applicant's interest is adequately represented by existing parties.
+(E) In any action under subsection (a)(1)(B) of this section in a court of the United States, any person may intervene as a matter of right when the applicant claims an interest relating to the subject of the action and he is so situated that the disposition of the action may, as a practicalmatter, impair or impede his ability to protect that interest, unless the Administrator or the State shows that the applicant's interest is adequately represented by existing parties.
 
 (F) Whenever any action is brought under subsection (a)(1)(B) of this section in a court of the United States, the plaintiff shall serve a copy of the complaint on the Attorney General of the United States and with the Administrator.
 

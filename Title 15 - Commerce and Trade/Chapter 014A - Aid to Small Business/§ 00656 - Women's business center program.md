@@ -60,7 +60,7 @@ The Administration may provide financial assistance to private nonprofit organiz
 
 #### (d) Contract authority
 
-A women's business center may enter into a contract with a Federal department or agency to provide specific assistance to women and other underserved small business concerns. Performance of such contract should not hinder thewomen's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
+A women's business center may enter into a contract with a Federal department or agency to provide specific assistance to women and other underserved small business concerns. Performance of such contract should not hinder the women's business centers in carrying out the terms of the grant received by the women's business centers from the Administration.
 
 #### (e) Submission of 5-year plan
 
@@ -148,7 +148,7 @@ The Administration shall evaluate and rank applicants in accordance with predete
 
 #### (2) Conditions for continued funding
 
-&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (<i>l</i>) of this section or to renew a contract (eitheras a grant or cooperative agreement) under this section with a women's business center, the Administration—
+&emsp;In determining whether to award a contract (as a sustainability grant) under subsection (<i>l</i>) of this section or to renew a contract (either as a grant or cooperative agreement) under this section with a women's business center, the Administration—
 
 &emsp;&emsp;(A) shall consider the results of the most recent examination of the center under paragraph (1); and
 
@@ -280,7 +280,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 &emsp;&emsp;(D) information demonstrating the effective experience of the applicant in—
 
-&emsp;&emsp;&emsp;(i) conducting financial, management, and marketing assistance programs, as described in paragraphs (1), (2), and (3) of subsection (b) of this section, designed to impart or upgrade the business skills of women business owners or potential owners;
+&emsp;&emsp;&emsp;(i) conducting financial, management, and marketing assistance programs, as described in paragraphs (1), (2), and (3) of subsection (b) of this section, designed to impart or upgrade the business skills ofwomen business owners or potential owners;
 
 &emsp;&emsp;&emsp;(ii) providing training and services to a representative number of women who are both socially and economically disadvantaged;
 
@@ -338,7 +338,7 @@ The authority of the Administrator to enter into contracts shall be in effect fo
 
 #### (5) Timing of requests for proposals
 
-&emsp;In carrying out this subsection, the Administration shall issue requests for proposals forwomen's business centers applying for the pilot program under this subsection simultaneously with requests for proposals for grants under subsection (b) of this section.
+&emsp;In carrying out this subsection, the Administration shall issue requests for proposals for women's business centers applying for the pilot program under this subsection simultaneously with requests for proposals for grants under subsection (b) of this section.
 
 (Pub. L. 85–536, §2\[29\], formerly §2\[28\], as added Pub. L. 102–191, §2, Dec. 5, 1991, 105 Stat. 1589; renumbered §2\[29\] and amended Pub. L. 103–403, title IV, §§411, 412, Oct. 22, 1994, 108 Stat. 4192, 4193; Pub. L. 105–135, title III, §308(a), Dec. 2, 1997, 111 Stat. 2611; Pub. L. 106–17, §§2(a), 3, Apr. 6, 1999, 113 Stat. 27; Pub. L. 106–165, §§2–4(b), Dec. 9, 1999, 113 Stat. 1795–1798.)
 

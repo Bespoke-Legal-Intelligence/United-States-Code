@@ -48,7 +48,7 @@
 
 &emsp;(2) does not maintain an acceptable level of performance, as determined under standards and procedures which the agency head shall by regulation prescribe.
 
-(e) In selecting employees to receive benefits under this section, an agency shall, consistent with the merit system principles set forth in paragraphs (1) and (2) of section 2301(b) of this title, take into consideration the need to maintain a balanced workforce in which women and members of racial and ethnic minority groups are appropriately represented in Government service.
+(e) In selecting employees to receive benefits under this section, an agency shall, consistent with the merit system principles set forth in paragraphs (1) and (2) of section 2301(b) of this title, take into consideration the need to maintain a balanced workforce in which women andmembers of racial and ethnic minority groups are appropriately represented in Government service.
 
 (f) Any benefit under this section shall be in addition to basic pay and any other form of compensation otherwise payable to the employee involved.
 
@@ -100,5 +100,5 @@ Pub. L. 106–398, §1 \[\[div. A\], title XI, §1122(c)\], Oct. 30, 2000, 114 S
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 1745.
+This section is referred to in section 3521 of this title; title 2 sections 610, 1926; title 10 section 1745.
 

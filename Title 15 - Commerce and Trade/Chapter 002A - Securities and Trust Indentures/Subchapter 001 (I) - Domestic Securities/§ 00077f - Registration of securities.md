@@ -8,7 +8,7 @@ Any security may be registered with the Commission under the terms and condition
 
 #### (1) Recovery of cost of services
 
-&emsp;The Commission shall, in accordance with this subsection, collect registration fees thatare designed to recover the costs to the government of the securities registration process, and costs related to such process, including enforcement activities, policy and rulemaking activities, administration, legal services, and international regulatory activities.
+&emsp;The Commission shall, in accordance with this subsection, collect registration fees that are designed to recover the costs to the government of the securities registration process, and costs related to such process, including enforcement activities, policy and rulemaking activities, administration, legal services, and international regulatory activities.
 
 #### (2) Fee payment required
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 107–123 effective Oct. 1, 2001, except that authorities p
 
 #### Effective Date of 1965 Amendment
 
-Section 2 of Pub. L. 89–289 provided that: “The amendment made by the first section of this Act \[amending this section\] shall take effect January 1, 1966.”
+Section 2 of Pub. L. 89–289 provided that: “The amendment made by the first section of this Act\[amending this section\] shall take effect January 1, 1966.”
 
 #### Transfer of Functions
 

@@ -20,7 +20,7 @@ In accordance with the Program, the Secretary of Energy shall establish High-Per
 
 &emsp;(2) promote the testing and uses of new types of high-performance computing and related software and equipment;
 
-&emsp;(3) serve as a vehicle for participating vendors of high-performance computing systems to test new ideas and technology in a sophisticated computing environment; and
+&emsp;(3) serve as a vehicle for participating vendors of high-performance computing systemsto test new ideas and technology in a sophisticated computing environment; and
 
 &emsp;(4) be led by a Department of Energy national laboratory, and include participants from Federal agencies and departments, researchers, private industry, educational institutions, and others as the Secretary of Energy may deem appropriate.
 

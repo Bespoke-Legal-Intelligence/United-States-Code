@@ -78,19 +78,19 @@ By Senate amendment, this section was renumbered “1294”, and subsec. (b), wh
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–164 substituted “Except as provided in sections 1292(c), 1292(d), and 1295 of this title, appeals from reviewable decisions” for “Appeals from reviewable decisions” in introductory provisions.
+1982—Pub. L. 97–164 substituted “Except as provided in sections 1292(c), 1292(d), and 1295 of this title, appeals from reviewable decisions” for “Appeals from reviewable decisions” in introductory provisions.
 
-<b>1978</b>—Pub. L. 95–598 directed the amendment of section by substituting “district, bankruptcy, and territorial” for “district and territorial” and by adding pars. (5) and (6) relating to panels designated under section 160(a) of this title and bankruptcy courts, respectively, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598 directed the amendment of section by substituting “district, bankruptcy, and territorial” for “district and territorial” and by adding pars. (5) and (6) relating to panels designated under section 160(a) of this title and bankruptcy courts, respectively, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<b>1961</b>—Pars. (4), (5). Pub. L. 87–189 redesignated par. (5) as (4) and repealed former par. (4) which provided that appeals from the Supreme Court of Puerto Rico should be taken to the Court of Appeals for the First Circuit. See section 1258 of this title.
+1961—Pars. (4), (5). Pub. L. 87–189 redesignated par. (5) as (4) and repealed former par. (4) which provided that appeals from the Supreme Court of Puerto Rico should be taken to the Court of Appeals for the First Circuit. See section 1258 of this title.
 
-<b>1959</b>—Pars. (4) to (6). Pub. L. 86–3 redesignated pars. (5) and (6) as (4) and (5), respectively, and repealed former par. (4) which provided that appeals from the Supreme Court of Hawaii should be taken to the Court of Appeals for the Ninth Circuit. See section 91 of this title and notes thereunder.
+1959—Pars. (4) to (6). Pub. L. 86–3 redesignated pars. (5) and (6) as (4) and (5), respectively, and repealed former par. (4) which provided that appeals from the Supreme Court of Hawaii should be taken to the Court of Appeals for the Ninth Circuit. See section 91 of this title and notes thereunder.
 
-<b>1958</b>—Par. (2). Pub. L. 85–508 redesignated par. (3) as (2) and repealed former par. (2) which provided that appeals from the District Court for the Territory of Alaska or any division thereof should be taken to the Court of Appeals for the Ninth Circuit. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+1958—Par. (2). Pub. L. 85–508 redesignated par. (3) as (2) and repealed former par. (2) which provided that appeals from the District Court for the Territory of Alaska or any division thereof should be taken to the Court of Appeals for the Ninth Circuit. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
 Pars. (3) to (7). Pub. L. 85–508 redesignated pars. (4) to (7) as (3) to (6), respectively.
 
-<b>1951</b>—Par. (7). Act Oct. 31, 1951, added par. (7).
+1951—Par. (7). Act Oct. 31, 1951, added par. (7).
 
 #### Effective Date of 1982 Amendment
 

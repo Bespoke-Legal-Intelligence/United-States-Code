@@ -46,7 +46,7 @@
 
 #### (b) Applications
 
-To be eligible to receive a grant, contract, or cooperative agreement under subsection (a) ofthis section, an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may reasonably require.
+To be eligible to receive a grant, contract, or cooperative agreement under subsection (a) of this section, an entity shall submit to the Secretary an application at such time, in such manner, and containing such information as the Secretary may reasonably require.
 
 #### (c) Reports and evaluations
 

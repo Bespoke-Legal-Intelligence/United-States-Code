@@ -2,7 +2,7 @@
 
 (a) A debtor that is self-employed and incurs trade credit in the production of income from such employment is engaged in business.
 
-(b) Unless the court orders otherwise, a debtor engaged in business may operate the business of the debtor and, subject to any limitations on a trustee under sections 363(c) and 364 of this titleand to such limitations or conditions as the court prescribes, shall have, exclusive of the trustee, the rights and powers of the trustee under such sections.
+(b) Unless the court orders otherwise, a debtor engaged in business may operate the business of the debtor and, subject to any limitations on a trustee under sections 363(c) and 364 of this title and to such limitations or conditions as the court prescribes, shall have, exclusive of the trustee, the rights and powers of the trustee under such sections.
 
 (c) A debtor engaged in business shall perform the duties of the trustee specified in section 704(8) of this title.
 
@@ -32,7 +32,7 @@ Subsec. (c). Pub. L. 98–353, §311(b)(2), substituted “section 704(8)” for
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section 552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, see section552(a) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Section Referred to in Other Sections
 

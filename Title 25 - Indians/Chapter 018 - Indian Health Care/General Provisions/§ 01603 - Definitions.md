@@ -24,7 +24,7 @@ For purposes of this chapter—
 
 &emsp;(1) an administrative entity within the Indian Health Service, or
 
-&emsp;(2) a tribe or tribal organization operating health care programs or facilities with fundsfrom the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\],
+&emsp;(2) a tribe or tribal organization operating health care programs or facilities with funds from the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\],
 
 > through which services are provided, directly or by contract, to the eligible Indian population within a defined geographic area.
 

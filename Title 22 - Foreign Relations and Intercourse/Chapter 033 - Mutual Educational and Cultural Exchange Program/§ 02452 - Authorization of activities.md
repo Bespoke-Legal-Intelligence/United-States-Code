@@ -16,7 +16,7 @@ The Director of the United States Information Agency is authorized, when he cons
 
 &emsp;&emsp;(i) visits and interchanges between the United States and other countries of leaders, experts in fields of specialized knowledge or skill, and other influential or distinguished persons;
 
-&emsp;&emsp;(ii) tours in countries abroad by creative and performing artists and athletes from the United States, individually and in groups, representing any field of the arts, sports, or any other form of cultural attainment;
+&emsp;&emsp;(ii) tours in countries abroad by creative and performing artists and athletes from the United States, individually and in groups,representing any field of the arts, sports, or any other form of cultural attainment;
 
 &emsp;&emsp;(iii) United States representation in international artistic, dramatic, musical, sports, and other cultural festivals, competitions, meetings, and like exhibitions and assemblies;
 
@@ -38,7 +38,7 @@ In furtherance of the purposes of this chapter, the President is further authori
 
 &emsp;(5) promoting and supporting medical, scientific, cultural, and educational research and development;
 
-&emsp;(6) promoting modern foreign language training and area studies in United Statesschools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages and their knowledge of the culture of the people of those countries, and by financing visits by teachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
+&emsp;(6) promoting modern foreign language training and area studies in United States schools, colleges, and universities by supporting visits and study in foreign countries by teachers and prospective teachers in such schools, colleges, and universities for the purpose of improving their skill in languages and their knowledge of the culture of the people of those countries, and by financing visits by teachers from those countries to the United States for the purpose of participating in foreign language training and area studies in United States schools, colleges, and universities;
 
 &emsp;(7) United States representation at international nongovernmental educational, scientific, and technical meetings;
 
@@ -70,7 +70,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Effective Date of 1962 Amendment
 
-Section 403 of Pub. L. 87–565 provided in part that: “The amendment made by this section \[amending this section\] shall not be applicable with respect to any fair or exposition within the United States for which an appropriation has been provided.”
+Section 403 of Pub. L. 87–565 provided in part that: “The amendment made by this section \[amending thissection\] shall not be applicable with respect to any fair or exposition within the United States for which an appropriation has been provided.”
 
 #### Transfer of Functions
 
@@ -86,7 +86,7 @@ Authorization of performance of functions under subsec. (a)(2) and (3) of this s
 
 #### Vietnam Education Foundation
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–254, provided that:
+Pub. L. 106–554, §1(a)(4) \[div. B, title II\], Dec. 21, 2000, 114 Stat. 2763, 2763A–254, as amended by Pub. L. 107–228, div. A, title II, §227, Sept. 30, 2002, 116 Stat. 1369, provided that:
 
 #### “SEC. 201. SHORT TITLE.
 
@@ -98,9 +98,9 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title II\], Dec. 21, 2000, 114 Stat. 2763
 
 &emsp;“(1) To establish an international fellowship program under which—
 
-&emsp;&emsp;“(A) Vietnamese nationals can undertake graduate and post-graduate level studies in the sciences (natural, physical, and environmental), mathematics, medicine, and technology (including information technology); and
+&emsp;&emsp;“(A) Vietnamese nationals can undertake graduate and post-graduate level studies in the sciences (natural, physical, and environmental), mathematics, medicine, and technology (including information technology) in the United States; and
 
-&emsp;&emsp;“(B) United States citizens can teach in the fields specified in subparagraph (A) in appropriate Vietnamese institutions.
+&emsp;&emsp;“(B) United States citizens can teach in the fields specified in subparagraph (A) in academic institutions in Vietnam.
 
 &emsp;“(2) To further the process of reconciliation between the United States and Vietnam and the building of a bilateral relationship serving the interests of both countries.
 
@@ -152,9 +152,13 @@ Rotation of Membership.—(1) The term of office of each member appointed under 
 
 “(2) A member of Congress appointed under subsection (a)(1) or (2) shall not serve as a member of the Board for more than a total of 6 years.
 
+“(3)(A) Any member appointed to fill a vacancy prior to the expiration of the term for which his or her predecessor was appointed shall be appointed for the remainder of such term.
+
+“(B) Upon the expiration of his or her term of office, any member may continue to serve until a successor is appointed.
+
 “(c)
 
-Chair.—The Board shall elect one of the members appointed under subsection (a)(6) to serve as Chair.
+Chair.—The voting members of the Board shall elect one of the members appointed under subsection (a)(6) to serve as Chair.
 
 “(d)
 
@@ -164,9 +168,11 @@ Meetings.—The Board shall meet upon the call of the Chair but not less frequen
 
 Duties.—The Board shall—
 
-&emsp;“(1) select the individuals who will be eligible to serve as Fellows; and
+&emsp;“(1) provide overall supervision and direction of the Foundation;
 
-&emsp;“(2) provide overall supervision and direction of the Foundation.
+&emsp;“(2) establish criteria for the eligibility of applicants, including criteria established by section 206(b), and for the selection of fellowship recipients; and
+
+&emsp;“(3) select the fellowship recipients.
 
 “(f)
 
@@ -174,11 +180,23 @@ Compensation.—
 
 &emsp;“(1)
 
-In general.—Except as provided in paragraph (2), each member of the Board shall serve without compensation, and members who are officers or employees of the United States shall serve without compensation in addition to that received for their services as officers or employees of the United States.
+In general.—Except as provided in paragraphs (2) and (3), each member of the Board shall serve without compensation.
 
 &emsp;“(2)
 
 Travel expenses.—The members of the Board shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of service for the Board.
+
+&emsp;“(3)
+
+Compensation of presidential appointees.—The members of the Board appointed under subsection (a)(6) shall be paid at the daily equivalent of the rate of basic pay payable for positions at level V of the Executive Schedule under section 5316 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the actual performance of duties as a Board member.
+
+“(g)
+
+Treatment of Presidential Appointees as Special Government Employees.—The members of the Board appointed under subsection (a)(6) shall be special Government employees, as defined in section 202(a) of title 18, United States Code.
+
+“(h)
+
+Travel Regulations.—Members of the Board shall be subject to the same travel regulations as apply to officers and employees of the Department of State.
 
 #### “SEC. 206. FELLOWSHIP PROGRAM.
 
@@ -194,7 +212,7 @@ In general.—To carry out the purposes of this title, the Foundation shall awar
 
 &emsp;“(2)
 
-Special emphasis on scientific and technical vocabulary in english.—Fellowships awarded under paragraph (1) may include funding for the study of scientific and technical vocabulary in English.
+Scientific and technical vocabulary in english.—Fellowships awarded to Vietnamese nationals under paragraph (1) may include funding to improve English proficiency in a fellowship recipient's field of study.
 
 “(b)
 
@@ -202,11 +220,11 @@ Criteria for Selection.—Fellowships under this title shall be awarded to perso
 
 &emsp;“(1)
 
-Vietnamese nationals.—Vietnamese candidates for fellowships shall have basic English proficiency and must have the ability to meet the criteria for admission into graduate or post-graduate programs in United States institutions of higher learning.
+Vietnamese nationals.—Fellowship candidates from Vietnam shall have basic English proficiency and must have the ability to meet the criteria for admission into graduate or post-graduate programs in United States institutions of higher learning.
 
 &emsp;“(2)
 
-United states citizen teachers.—American teaching candidates shall be highly competent in their fields and be experienced and proficient teachers.
+United states citizen teachers.—American candidates for teaching fellowships shall be highly competent in their fields and be experienced and proficient teachers.
 
 “(c)
 
@@ -214,11 +232,11 @@ Implementation.—The Foundation may provide, directly or by contract, for the c
 
 “(d)
 
-Authority To Award Fellowships on a Matching Basis.—The Foundation may require, as a condition of the availability of funds for the award of a fellowship under this title, that an institution of higher education make available funds for such fellowship on a matching basis.
+Authority To Award Fellowships on a Cost-Sharing Basis.—The Foundation may require, as a condition of the availability of funds for the award of a fellowship under this title, that an institution of higher education make available funds for such fellowship on a cost-sharing basis.
 
 “(e)
 
-Fellowship Conditions.—A person awarded a fellowship under this title may receive payments authorized under this title only during such periods as the Foundation finds that the person is maintaining satisfactory proficiency and devoting full time to study or teaching, as appropriate, and is not engaging in gainful employment other than employment approved by the Foundation pursuant to regulations of the Board.
+Fellowship Conditions.—A person awarded a fellowship under this title may receive payments authorized under this title only during such periods as the Foundation finds that the person is maintaining satisfactory progress and devoting full time to study or teaching, as appropriate, and is not engaging in gainful employment other than employment approved by the Foundation pursuant to regulations of the Board and applicable law.
 
 “(f)
 
@@ -268,13 +286,13 @@ Transfer of excess funds to miscellaneous receipts.—Beginning with fiscal year
 
 “(d)
 
-Annual Report.—The Board shall prepare and submit annually to Congress statements of financial condition of the Fund, including the beginning balance, receipts, refunds to appropriations, transfers to the general fund, and the ending balance.
+Annual Report.—The Secretary of the Treasury shall prepare and submit annually to Congress statements of financial condition of the Fund, including the beginning balance, receipts, refunds to appropriations, transfers to the general fund, and the ending balance.
 
 #### “SEC. 208. FOUNDATION PERSONNEL MATTERS.
 
 “(a)
 
-Appointment by Board.—There shall be an Executive Secretary of the Foundation who shall be appointed by the Board without regard to the provisions of title 5, United States Code, or any regulation thereunder, governing appointment in the competitive service. The Executive Director shall be the Chief Executive Officer of the Foundation and shall carry out the functions of the Foundation subject to the supervision and direction of the Board. The Executive Director shall carry out such other functions consistent with the provisions of this title as the Board shall prescribe. The decision to employ or terminate an Executive Director shall be made by an affirmative vote of at least six of the nine voting members of the Board.
+Appointment by Board.—There shall be an Executive Director of the Foundation who shall be appointed by the Board without regard to the provisions of title 5, United States Code, or any regulation thereunder, governing appointment in the competitive service. The Executive Director shall be the Chief Executive Officer of the Foundation and shall carry out the functions of the Foundation subject to the supervision and direction of the Board. The Executive Director shall carry out such other functions consistent with the provisions of this title as the Board shall prescribe. The decision to employ or terminate an Executive Director shall be made by an affirmative vote of at least six of the nine voting members of the Board.
 
 “(b)
 
@@ -286,7 +304,7 @@ Experts and Consultants.—The Executive Director may procure temporary and inte
 
 “(d)
 
-Compensation.—The Board may fix the compensation of the Executive Director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title V, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the Executive Director and other personnel may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title.
+Compensation.—The Board may fix the compensation of the Executive Director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay for the Executive Director and other personnel may not exceedthe rate payable for level IV of the Executive Schedule under section 5315 of such title.
 
 #### “SEC. 209. ADMINISTRATIVE PROVISIONS.
 
@@ -302,13 +320,13 @@ In General.—In order to carry out this title, the Foundation may—
 
 &emsp;“(4) enter into contracts or other arrangements, or make grants, to carry out the provisions of this title, and enter into such contracts or other arrangements, or make such grants, with the concurrence of a majority of the members of the Board, without performance or other bonds and without regard to section 3709 of the Revised Statutes (41 U.S.C. 5);
 
-&emsp;“(5) rent office space in the District of Columbia; and
+&emsp;“(5) rent office space in the metropolitan Washington, D.C., area; and
 
 &emsp;“(6) make other necessary expenditures.
 
 “(b)
 
-Annual Report.—The Foundation shall submit to the President and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives an annual report of its operations under this title.
+Annual Report.—The Board shall submit to the President and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives an annual report of the operations of the Foundation under this title, including the financial condition of the Foundation.
 
 #### “SEC. 210. TERMINATION.
 
@@ -346,7 +364,7 @@ Pub. L. 103–236, title II, §230, Apr. 30, 1994, 108 Stat. 424, which provided
 
 #### International Exchange, Scholarship, and Training Programs
 
-Pub. L. 104–319, title I, §103, Oct. 19, 1996, 110 Stat. 3865, as amended by Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2415, Oct. 21, 1998, 112 Stat. 2681–834; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §401\], Nov. 29, 1999, 113 Stat. 1536, 1501A–445, authorized establishment of educational and cultural exchange programs between United States and people of Tibet and authorized scholarships for Tibetans and Burmese.
+Pub. L. 104–319, title I, §103, Oct. 19, 1996, 110 Stat. 3865, as amended by Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2415, Oct. 21, 1998, 112 Stat. 2681–834; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §401\], Nov. 29, 1999, 113 Stat. 1536, 1501A–445; Pub. L. 107–228, div. A, title II, §222, Sept. 30, 2002, 116 Stat. 1367, authorized establishment of educational and cultural exchange programs between United States and people of Tibet and authorized scholarships for Tibetans and Burmese.
 
 Pub. L. 103–236, title II, §235, Apr. 30, 1994, 108 Stat. 425, authorized establishment and maintenance of American studies collections at appropriate foreign university libraries to further the study of the United States.
 
@@ -374,7 +392,7 @@ Pub. L. 102–138, title II, §225, Oct. 28, 1991, 105 Stat. 699, authorized est
 
 Pub. L. 102–138, title II, §226, Oct. 28, 1991, 105 Stat. 699, authorized scholarships for foreign and United States students and scholars awarded by Bureau of Educational and Cultural Affairs of United States Information Agency to facilitate study, research, and teaching within United States.
 
-Pub. L. 102–138, title II, §227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, §801, Oct. 24, 1992, 106 Stat. 3352; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2413, Oct. 21, 1998, 112 Stat. 2681–832, established Muskie Fellowship Program to award scholarships to graduate students from independent states of the former Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
+Pub. L. 102–138, title II, §227, Oct. 28, 1991, 105 Stat. 700, as amended by Pub. L. 102–511, title VIII, §801, Oct. 24, 1992, 106 Stat. 3352; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2413, Oct. 21, 1998, 112 Stat. 2681–832, established Muskie Fellowship Program to award scholarships to graduate students from independent states ofthe former Soviet Union, Lithuania, Latvia, and Estonia for study within United States.
 
 Pub. L. 102–138, title II, §228, Oct. 28, 1991, 105 Stat. 702, as amended by Pub. L. 103–236, title II, §233, Apr. 30, 1994, 108 Stat. 424; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2219(a)(7), Oct. 21, 1998, 112 Stat. 2681–817, authorized assistance to United States graduate and postdoctoral students researching Near and Middle East.
 

@@ -56,7 +56,7 @@ Owners or operators transporting passengers.—Not later than 30 days after an u
 
 &emsp;(3)
 
-Owners or operators transporting hazardous material.—Not later than 30 days after an unfit owner or operator of commercialmotor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
+Owners or operators transporting hazardous material.—Not later than 30 days after an unfit owner or operator of commercial motor vehicles designed or used to transport hazardous material for which placarding of a motor vehicle is required under regulations prescribed under chapter 51, the Secretary shall review such owner's or operator's compliance with those requirements with which the owner or operator failed to comply and resulted in the Secretary determining that the owner or operator was not fit.
 
 (e)
 
@@ -72,7 +72,7 @@ In general.—The Secretary shall require, by regulation, each owner and each op
 
 &emsp;(2)
 
-Elements.—In the regulations issued pursuant to paragraph (1), the Secretary shall establish the elements of the safety review, including basic safety management controls. In establishing such elements, the Secretary shall consider their effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.
+Elements.—In the regulations issued pursuant to paragraph (1), the Secretary shall establish the elements of the safety review, including basic safety management controls. In establishing such elements, the Secretaryshall consider their effects on small businesses and shall consider establishing alternate locations where such reviews may be conducted for the convenience of small businesses.
 
 &emsp;(3)
 

@@ -4,7 +4,7 @@ The Director may require the applicant to furnish a model of convenient size to 
 
 When the invention relates to a composition of matter, the Director may require the applicant to furnish specimens or ingredients for the purpose of inspection or experiment.
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -14,7 +14,9 @@ The change in language in the second paragraph broadens the requirement for spec
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+
+1999—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in two places.
 
 #### Effective Date of 1999 Amendment
 

@@ -14,7 +14,7 @@ In case of violation of an injunction or restraining order issued under this sec
 
 1993—Subsec. (a). Pub. L. 103–80, §3(d)(1), struck out “, and subject to the provisions of section 17 (relating to notice to opposite party) of the Act entitled ‘An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes’, approved October 15, 1914, as amended (U.S.C., 1934 ed., title 28, sec. 381),” after “for cause shown”.
 
-Subsec. (b). Pub. L. 103–80, §3(d)(2), struck out at end “Such trial shall be conducted in accordance with the practice and procedure applicable in the case of proceedings subject to the provisions of section 22 of such Act of October 15, 1914, as amended (U.S.C., 1934 ed., title 28, sec. 387).”
+Subsec. (b). Pub. L. 103–80, §3(d)(2), struck out at end “Such trial shall be conducted in accordance with the practice and procedure applicable in the case of proceedings subject to the provisions of section 22 of suchAct of October 15, 1914, as amended (U.S.C., 1934 ed., title 28, sec. 387).”
 
 1962—Subsec. (a). Pub. L. 87–781, §103(d), struck out “(e),” after “paragraphs”.
 

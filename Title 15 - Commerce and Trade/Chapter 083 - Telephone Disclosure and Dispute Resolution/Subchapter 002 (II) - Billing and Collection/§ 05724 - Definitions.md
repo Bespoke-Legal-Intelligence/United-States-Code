@@ -2,7 +2,7 @@
 
 As used in this subchapter—
 
-&emsp;(1) The term “telephone-billed purchase” means any purchase that is completed solely as a consequence of the completion of the call or a subsequent dialing, touch tone entry, or comparable action of the caller. Such term does not include—
+&emsp;(1) The term “telephone-billed purchase” means any purchase that is completed solely as a consequence of the completion of the call or a subsequent dialing, touch tone entry, orcomparable action of the caller. Such term does not include—
 
 &emsp;&emsp;(A) a purchase by a caller pursuant to a preexisting agreement with the vendor;
 

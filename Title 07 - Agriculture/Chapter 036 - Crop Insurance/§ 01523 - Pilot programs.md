@@ -8,7 +8,7 @@
 
 #### (2) Private coverage
 
-&emsp;Under this section, the Corporation shall not conduct any pilot program that provides insurance protection against a risk if insuranceprotection against the risk is generally available from private companies.
+&emsp;Under this section, the Corporation shall not conduct any pilot program that provides insurance protection against a risk if insurance protection against the risk is generally available from private companies.
 
 #### (3) Covered activities
 
@@ -32,7 +32,7 @@
 
 &emsp;The Corporation may—
 
-&emsp;&emsp;(A) approve a pilot program under this section to be conducted on a regional, State, or national basis after considering the interests of affected producers and the interests of, and risks to, the Corporation;
+&emsp;&emsp;(A) approve a pilot program under this section to be conducted on a regional, State, ornational basis after considering the interests of affected producers and the interests of, and risks to, the Corporation;
 
 &emsp;&emsp;(B) operate the pilot program, including any modifications of the pilot program, for a period of up to 4 years;
 
@@ -98,7 +98,7 @@
 
 #### (10) Limitation on expenditures
 
-&emsp;The Corporation shall conduct all livestock programs under this chapter so that, to the maximum extent practicable, all costs associated with conducting the livestock programs\(other than research and development costs covered by section 1522 of this title) are not expected to exceed the following:
+&emsp;The Corporation shall conduct all livestock programs under this chapter so that, to the maximum extent practicable, all costs associated with conducting the livestock programs (other than research and development costs covered by section 1522 of this title) are not expected to exceed the following:
 
 &emsp;&emsp;(A) $10,000,000 for each of fiscal years 2001 and 2002.
 
@@ -168,7 +168,27 @@
 
 &emsp;&emsp;The time limitations and procedures of the Board established under section 1508(h) of this title shall apply to a proposal submitted under this subsection.
 
-(Feb. 16, 1938, ch. 30, title V, §523, as added Pub. L. 106–224, title I, §132(a), June 20, 2000, 114 Stat. 383.)
+#### (e) Adjusted gross revenue insurance pilot program
+
+#### (1) In general
+
+&emsp;The Corporation shall carry out, through at least the 2004 reinsurance year, the adjusted gross revenue insurance pilot program in effect for the 2002 reinsurance year.
+
+#### (2) Additional counties
+
+#### (A) In general
+
+&emsp;&emsp;In addition to counties otherwise included in the pilot program, the Corporation shall include in the pilot program for the 2003 reinsurance year at least 8 counties in the State of California and at least 8 counties in the State of Pennsylvania.
+
+#### (B) Selection criteria
+
+&emsp;&emsp;In carrying out subparagraph (A), the Corporation shall work with the respective State Departments of Agriculture to establish criteria to determine which counties to include in the pilot program.
+
+(Feb. 16, 1938, ch. 30, title V, §523, as added Pub. L. 106–224, title I, §132(a), June 20, 2000, 114 Stat. 383; amended Pub. L. 107–171, title X, §10004, May 13, 2002, 116 Stat. 487.)
+
+#### Amendments
+
+2002—Subsec. (e). Pub. L. 107–171 added subsec. (e).
 
 #### Effective Date
 

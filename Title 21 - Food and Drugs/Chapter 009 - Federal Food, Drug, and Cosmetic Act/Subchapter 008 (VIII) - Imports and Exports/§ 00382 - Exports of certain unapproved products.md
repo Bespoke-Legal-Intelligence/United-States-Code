@@ -20,7 +20,7 @@ A drug or device—
 
 &emsp;&emsp;(B) under section 360j(g) of this title is exempt from either such section; or
 
-&emsp;&emsp;(C) is a banned device under section 360f of this title, is adulterated, misbranded, and inviolation of such sections or Act unless the export of the drug or device is, except as provided in subsection (f) of this section, authorized under subsection (b), (c), (d), or (e) of this section or section 381(e)(2) of this title. If a drug or device described in paragraphs (1) and (2) may be exported under subsection (b) of this section and if an application for such drug or device under section 355 or 360e of this title or section 262 of title 42 was disapproved, the Secretary shall notify the appropriate public health official of the country to which such drug will be exported of such disapproval.
+&emsp;&emsp;(C) is a banned device under section 360f of this title, is adulterated, misbranded, and in violation of such sections or Act unless the export of the drug or device is, except as provided in subsection (f) of this section, authorized under subsection (b), (c), (d), or (e) of this section or section 381(e)(2) of this title. If a drug or device described in paragraphs (1) and (2) may be exported under subsection (b) of this section and if an application for such drug or device under section 355 or 360e of this title or section 262 of title 42 was disapproved, the Secretary shall notify the appropriate public health official of the country to which such drug will be exported of such disapproval.
 
 #### (b) List of eligible countries for export; criteria for addition to list; direct export; petition for exemption
 
@@ -158,7 +158,7 @@ Insulin and antibiotic drugs may be exported without regard to the requirements 
 
 #### References in Text
 
-Act of March 4, 1913 (known as the Virus-Serum Toxin Act), referred to in subsecs. (a)(1)(A)(ii), (C), (2)(C) and (h), is act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended, which is classified generally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 151 of this title and Tables.
+Act of March 4, 1913 (known as the Virus-Serum Toxin Act), referred to in subsecs. (a)(1)(A)(ii), (C), (2)(C) and (h), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 832, as amended, which is classified generally to chapter 5 (§151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 151 of this title and Tables.
 
 #### Amendments
 

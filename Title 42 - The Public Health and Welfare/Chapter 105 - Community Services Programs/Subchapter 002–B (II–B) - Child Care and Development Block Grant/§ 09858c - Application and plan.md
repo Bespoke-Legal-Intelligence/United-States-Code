@@ -88,11 +88,11 @@ The State plan contained in the application under subsection (a) of this section
 
 #### (B) Child care services and related activities
 
-&emsp;&emsp;The State shall use amounts provided to the State for each fiscal year under this subchapter for child care services on a sliding fee scale basis, activities that improve the quality or availability of such services, and any other activity that the State deems appropriate to realize any of the goals specified in paragraphs (2) through (5) of section 658A(b),<sup>1</sup> with priority being given for services provided to children of families with very low family incomes (taking into consideration family size) and to children with special needs.
+&emsp;&emsp;The State shall use amounts provided to the State for each fiscal year under this subchapter for child care services on a sliding fee scale basis, activities that improve the quality or availability of such services, andany other activity that the State deems appropriate to realize any of the goals specified in paragraphs (2) through (5) of section 658A(b),<sup>1</sup> with priority being given for services provided to children of families with very low family incomes (taking into consideration family size) and to children with special needs.
 
 #### (C) Limitation on administrative costs
 
-&emsp;&emsp;Not more than 5 percent of the aggregate amount of funds available to the State tocarry out this subchapter by a State in each fiscal year may be expended for administrative costs incurred by such State to carry out all of its functions and duties under this subchapter. As used in the preceding sentence, the term “administrative costs” shall not include the costs of providing direct services.
+&emsp;&emsp;Not more than 5 percent of the aggregate amount of funds available to the State to carry out this subchapter by a State in each fiscal year may be expended for administrative costs incurred by such State to carry out all of its functions and duties under this subchapter. As used in the preceding sentence, the term “administrative costs” shall not include the costs of providing direct services.
 
 #### (D) Assistance for certain families
 
@@ -150,7 +150,7 @@ Subsec. (c)(2)(F), (G). Pub. L. 104–193, §605(2)(A)(vi), (vii), substituted �
 
 Subsec. (c)(2)(H). Pub. L. 104–193, §605(2)(A)(viii), added subpar. (H) and struck out heading and text of former subpar. (H). Text read as follows: “Provide assurances that if the State reduces the level of standards applicable to child care services provided in the State on November 5, 1990, the State shall inform the Secretary of the rationale for such reduction in the annual report of the State described in section 9858i of this title.”
 
-Subsec. (c)(2)(I). Pub. L. 104–193, §605(2)(A)(viii), struck out heading and text of subpar. (I). Text read as follows: “Provide assurances that not later than 18 months after the date of the submission of the application under this section, the State will complete a full review of the law applicable to, and the licensing and regulatory requirements and policies of, each licensing agency that regulates child care services and programs in the State unless the State has reviewed such law, requirements, and policies in the 3-year period ending on November 5, 1990.”
+Subsec. (c)(2)(I). Pub. L. 104–193, §605(2)(A)(viii), struck out heading and text of subpar. (I). Text read as follows: “Provide assurances that not later than 18 months after the date of the submission of the application under this section, the State will complete a fullreview of the law applicable to, and the licensing and regulatory requirements and policies of, each licensing agency that regulates child care services and programs in the State unless the State has reviewed such law, requirements, and policies in the 3-year period ending on November 5, 1990.”
 
 Subsec. (c)(2)(J). Pub. L. 104–193, §605(2)(A)(viii), struck out heading and text of subpar. (J). Text read as follows: “Provide assurances that funds received under this subchapter by the State will be used only to supplement, not to supplant, the amount of Federal, State, and local funds otherwise expended for the support of child care services and related programs in the State.”
 

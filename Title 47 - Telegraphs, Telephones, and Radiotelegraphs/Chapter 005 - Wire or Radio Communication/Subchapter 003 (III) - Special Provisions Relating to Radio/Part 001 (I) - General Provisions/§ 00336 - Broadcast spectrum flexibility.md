@@ -146,7 +146,7 @@ Nothing in this section shall be construed as relieving a television broadcastin
 
 &emsp;&emsp;&emsp;(i) the predicted Grade B contour (as of the date of the enactment of the Community Broadcasters Protection Act of 1999 \[November 29, 1999\], or November 1, 1999, whichever is later, or as proposed in a change application filed on or before such date) of any television station transmitting in analog format; or
 
-&emsp;&emsp;&emsp;(ii)(I) the digital television service areas provided in the DTV Table of Allotments; (II) the areas protected in the Commission's digital television regulations (47 CFR 73.622(e) and (f)); (III) the digital television service areas of stations subsequently granted by the Commission priorto the filing of a class A application; and (IV) stations seeking to maximize power under the Commission's rules, if such station has complied with the notification requirements in paragraph (1)(D);
+&emsp;&emsp;&emsp;(ii)(I) the digital television service areas provided in the DTV Table of Allotments; (II) the areas protected in the Commission's digital television regulations (47 CFR 73.622(e) and (f)); (III) the digital television service areas of stations subsequently granted by the Commission prior to the filing of a class A application; and (IV) stations seeking to maximize power under the Commission's rules, if such station has complied with the notification requirements in paragraph (1)(D);
 
 &emsp;&emsp;(B) interference within the protected contour of any low-power television station or low-power television translator station that—
 
@@ -298,9 +298,49 @@ The date of enactment of LPTV Digital Data Services Act, referred to in subsec. 
 
 1999—Subsecs. (f) to (h). Pub. L. 106–113 added subsec. (f) and redesignated former subsecs. (f) and (g) as (g) and (h), respectively.
 
+#### Transition to Digital Television
+
+Pub. L. 107–188, title V, §531, June 12, 2002, 116 Stat. 695, provided that:
+
+“(a)
+
+Pair Assignment Required.—In order to further promote the orderly transition to digital television, and to promote the equitable allocation and use of digital channels by television broadcast permittees and licensees, the Federal Communications Commission, at the request of an eligible licensee or permittee, shall, within 90 days after the date of enactment of this Act \[June 12, 2002\], allot, if necessary, and assign a paired digital television channel to that licensee or permittee, provided that—
+
+&emsp;“(1) such channel can be allotted and assigned without further modification of the tables of allotments as set forth in sections 73.606 and 73.622 of the Commission's regulations (47 CFR 73.606, 73.622); and
+
+&emsp;“(2) such allotment and assignment is otherwise consistent with the Commission's rules (47 CFR part 73).
+
+“(b)
+
+Eligible Transition Licensee or Permittee.—For purposes of subsection (a), the term ‘eligible licensee or permittee’ means only a full power television broadcast licensee or permittee (or its successor in interest) that—
+
+&emsp;“(1) had an application pending for an analog television station construction permit as of October 24, 1991, which application was granted after April 3, 1997; and
+
+&emsp;“(2) as of the date of enactment of this Act \[June 12, 2002\], is the permittee or licensee of that station.
+
+“(c)
+
+Requirements on Licensee or Permittee.—
+
+&emsp;“(1)
+
+Construction deadline.—Any licensee or permittee receiving a paired digital channel pursuant to this section—
+
+&emsp;&emsp;“(A) shall be required to construct the digital television broadcast facility within 18 months of the date on which the Federal Communications Commission issues a construction permit therefore, and
+
+&emsp;&emsp;“(B) shall be prohibited from obtaining or receiving an extension of time from the Commission beyond the construction deadline established by paragraph (1).
+
+&emsp;“(2)
+
+Prohibition of analog operation using digital pair.—Any licensee or permittee receiving a paired digital channel pursuant to this section shall be prohibited from giving up its current paired analog assignment and becoming a single-channel broadcaster and operating in analog on such paired digital channel.
+
+“(d)
+
+Relief Restricted.—Any paired digital allotment and assignment made under this section shall not be available to any other applicant unless such applicant is an eligible licensee or permittee within the meaning of subsection (b).”
+
 #### Reports on Provision of Digital Data Service by Low-Power Television Stations
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title I, §143(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: “The Federal Communications Commission shall submit a report to the Congress on June 30, 2001, and June 30,2002, evaluating the utility of using low-power television stations to provide high-speed digital data service. The reports shall be based on the pilot projects authorized by section 336(h) of the Communications Act of 1934 (47 U.S.C. 336(h)).”
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §143(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: “The Federal Communications Commission shall submit a report to the Congress on June 30, 2001, and June 30, 2002, evaluating the utility of using low-power television stations to provide high-speed digital data service. The reports shall be based on the pilot projects authorized by section 336(h) of the Communications Act of 1934 (47 U.S.C. 336(h)).”
 
 #### Congressional Findings Regarding Low-Power Broadcasters
 

@@ -34,7 +34,7 @@ Sept. 21, 1973, Pub. L. 93–110, §§201, 202, 87 Stat. 353.
 
 In subsection (a)(3), the words “it is desirable to emphasize this objective . . . existing legal” are omitted as unnecessary.
 
-In subsection (c), the words “(hereafter referred to as the ‘Secretary’)” are omitted because of the restatement. The words “under the authority of this subchapter and any other authority conferred by law” are omitted as surplus. The word “prescribe” is substituted for “supplement” for clarity. The words “the statement of findings under” and “the submission of” are omitted as surplus. The words “Reports required under this subchapter shall cover foreign currency transactions” are omitted because of the restatement. The words “such terms are” and “the policy of” are omitted as surplus.
+In subsection (c), the words “(hereafter referred to as the ‘Secretary’)” are omitted because of the restatement. The words “under the authority of this subchapter and any other authority conferred by law” areomitted as surplus. The word “prescribe” is substituted for “supplement” for clarity. The words “the statement of findings under” and “the submission of” are omitted as surplus. The words “Reports required under this subchapter shall cover foreign currency transactions” are omitted because of the restatement. The words “such terms are” and “the policy of” are omitted as surplus.
 
 #### References in Text
 

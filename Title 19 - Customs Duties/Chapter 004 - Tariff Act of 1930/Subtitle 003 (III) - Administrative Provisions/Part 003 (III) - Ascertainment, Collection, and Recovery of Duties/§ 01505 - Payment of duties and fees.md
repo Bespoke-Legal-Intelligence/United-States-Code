@@ -1,8 +1,8 @@
 ### §1505. Payment of duties and fees
 
-#### (a) Deposit of estimated duties, fees, and interest
+#### (a) Deposit of estimated duties and fees
 
-Unless merchandise is entered for warehouse or transportation, or under bond, the importer of record shall deposit with the Customs Service at the time of making entry, or at such later time as the Secretary may prescribe by regulation, the amount of duties and fees estimated to be payable thereon. Such regulations may provide that estimated duties and fees shall be deposited before or at the time an import activity summary statement is filed. If an import activity summary statement is filed, the estimated duties and fees shall be deposited together with interest, at a rate determined by the Secretary, accruing from the first date of the month the statement is required to be filed until the date such statement is actually filed.
+Unless the entry is subject to a periodic payment or the merchandise is entered for warehouse or transportation, or under bond, the importer of record shall deposit with the Customs Service at the time of entry, or at such later time as the Secretary may prescribe by regulation (but not later than 10 working days after entry or release) the amount of duties and fees estimated to be payable on such merchandise. As soon as a periodic payment module of the Automated Commercial Environment is developed, but no later than October 1, 2004, a participating importer of record, or the importer's filer, may deposit estimated duties and fees for entries of merchandise no later than the 15th day of the month following the month in which the merchandise is entered or released, whichever comes first.
 
 #### (b) Collection or refund of duties, fees, and interest due upon liquidation or reliquidation
 
@@ -16,7 +16,7 @@ Interest assessed due to an underpayment of duties, fees, or interest shall accr
 
 If duties, fees, and interest determined to be due or refunded are not paid in full within the 30-day period specified in subsection (b) of this section, any unpaid balance shall be considered delinquent and bear interest by 30-day periods, at a rate determined by the Secretary, from the date of liquidation or reliquidation until the full balance is paid. No interest shall accrue during the 30-day period in which payment is actually made.
 
-(June 17, 1930, ch. 497, title IV, §505, 46 Stat. 732; Pub. L. 91–271, title II, §204(c), June 2, 1970, 84 Stat. 283; Pub. L. 95–410, title I, §103, Oct. 3, 1978, 92 Stat. 889; Pub. L. 97–446, title II, §201(e), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 98–573, title II, §210(a), Oct. 30, 1984, 98 Stat. 2977; Pub. L. 103–182, title VI, §642(a), Dec. 8, 1993, 107 Stat. 2205; Pub. L. 104–295, §2(a), Oct. 11, 1996, 110 Stat. 3515; Pub. L. 106–36, title II, §2418(e), June 25, 1999, 113 Stat. 177; Pub. L. 106–476, title I, §1451, Nov. 9, 2000, 114 Stat. 2167.)
+(June 17, 1930, ch. 497, title IV, §505, 46 Stat. 732; Pub. L. 91–271, title II, §204(c), June 2, 1970, 84 Stat. 283; Pub. L. 95–410, title I, §103, Oct. 3, 1978, 92 Stat. 889; Pub. L. 97–446, title II, §201(e), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 98–573, title II, §210(a), Oct. 30, 1984, 98 Stat. 2977; Pub. L. 103–182, title VI, §642(a), Dec. 8, 1993, 107 Stat. 2205; Pub. L. 104–295, §2(a), Oct. 11, 1996, 110 Stat.3515; Pub. L. 106–36, title II, §2418(e), June 25, 1999, 113 Stat. 177; Pub. L. 106–476, title I, §1451, Nov. 9, 2000, 114 Stat. 2167; Pub. L. 107–210, div. A, title III, §383, Aug. 6, 2002, 116 Stat. 992.)
 
 #### Prior Provisions
 
@@ -25,6 +25,8 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 A prior provision that the collector or person acting as such should ascertain, fix, and liquidate the rate and amount of duties, and the dutiable costs and charges, was contained in act Oct. 3, 1913, ch. 16, §III, M, 38 Stat. 186, the provisions of which were substituted for provisions of the same nature contained in the Customs Administrative Act of June 10, 1890, ch. 407, §13, 26 Stat. 136, as amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 99.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–210 amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “Unless merchandise is entered for warehouse or transportation, or under bond, the importer of record shall deposit with the Customs Service at the time of making entry, or at such later time as the Secretary may prescribe by regulation, the amount of duties and fees estimated to be payable thereon. Such regulations may provide that estimated duties and fees shall be deposited before or at the time an import activity summary statement is filed. If an import activity summary statement is filed, the estimated duties and fees shall be deposited together with interest, at a rate determined by the Secretary, accruing from the first date of the month the statement is required to be filed until the date such statement is actually filed.”
 
 2000—Subsec. (c). Pub. L. 106–476 substituted “The Secretary may prescribe” for “For the period beginning on October 1, 1998, and ending on the date on which the ‘Revised National Customs Automation Test Regarding Reconciliation’ of the Customs Service is terminated, or October 1, 2000, whichever occurs earlier, the Secretary may prescribe” in last sentence.
 
@@ -65,6 +67,10 @@ Amendment by Pub. L. 97–446 applicable with respect to merchandise entered on 
 #### Effective Date of 1970 Amendment
 
 For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 91–271, set out as a note under section 1500 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

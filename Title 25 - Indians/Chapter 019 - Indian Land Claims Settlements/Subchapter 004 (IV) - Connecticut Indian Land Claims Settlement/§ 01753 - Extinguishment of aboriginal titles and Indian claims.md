@@ -10,7 +10,7 @@ By virtue of the approval and ratification of a transfer of land or natural reso
 
 #### (c) Extinguishment of claims
 
-By virtue of the approval and ratification of a transfer of land or natural resources effected by this section, or the extinguishment of aboriginal title effected thereby, any claim (including anyclaim for damages for trespass or for use and occupancy) by, or on behalf of, the Tribe or any member of the Tribe or by any other Indian, Indian nation, or tribe or band of Indians, against the United States, any State or subdivision thereof or any other person which is based on—
+By virtue of the approval and ratification of a transfer of land or natural resources effected by this section, or the extinguishment of aboriginal title effected thereby, any claim (including any claim for damages for trespass or for use and occupancy) by, or on behalf of, the Tribe or any member of the Tribe or by any other Indian, Indian nation, or tribe or band of Indians, against the United States, any State or subdivision thereof or any other person which is based on—
 
 &emsp;(1) any interest in or right involving any land or natural resources the transfer of which was approved and ratified by subsection (a) of this section, or
 

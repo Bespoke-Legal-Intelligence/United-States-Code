@@ -42,7 +42,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 &emsp;(1) Consideration of individual, as well as complex mixtures of, air pollutants and their chemical transformations in the atmosphere.
 
-&emsp;(2) Establishment of a national network to monitor, collect, and compile data with quantification of certainty in the status and trends of air emissions, deposition, air quality, surface water quality, forest condition, and visibility impairment, and to ensure the comparability of air quality data collected in different States and obtained from different nations.
+&emsp;(2) Establishment of a national network to monitor, collect, and compile data with quantification of certainty in the status and trendsof air emissions, deposition, air quality, surface water quality, forest condition, and visibility impairment, and to ensure the comparability of air quality data collected in different States and obtained from different nations.
 
 &emsp;(3) Development of improved methods and technologies for sampling, measurement, monitoring, analysis, and modeling to increase understanding of the sources of ozone percursors,<sup>1</sup> ozone formation, ozone transport, regional influences on urban ozone, regional ozone trends, and interactions of ozone with other pollutants. Emphasis shall be placed on those techniques which—
 
@@ -128,7 +128,7 @@ In carrying out subsection (a) of this section, the Administrator, in cooperatio
 
 #### (g) Pollution prevention and emissions control
 
-In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interestgroups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
+In carrying out subsection (a) of this section, the Administrator shall conduct a basic engineering research and technology program to develop, evaluate, and demonstrate nonregulatory strategies and technologies for air pollution prevention. Such strategies and technologies shall be developed with priority on those pollutants which pose a significant risk to human health and the environment, and with opportunities for participation by industry, public interest groups, scientists, and other interested persons in the development of such strategies and technologies. Such program shall include the following elements:
 
 &emsp;(1) Improvements in nonregulatory strategies and technologies for preventing or reducing multiple air pollutants, including sulfur oxides, nitrogen oxides, heavy metals, PM–10 (particulate matter), carbon monoxide, and carbon dioxide, from stationary sources, including fossil fuel power plants. Such strategies and technologies shall include improvements in the relative cost effectiveness and long-range implications of various air pollutant reduction and nonregulatory control strategies such as energy conservation, including end-use efficiency, and fuel-switching to cleaner fuels. Such strategies and technologies shall be considered for existing and new facilities.
 
@@ -144,7 +144,7 @@ In carrying out subsection (a) of this section, the Administrator shall conduct 
 
 (1) The Director of the National Institute of Environmental Health Sciences may conduct a program of basic research to identify, characterize, and quantify risks to human health from air pollutants. Such research shall be conducted primarily through a combination of university and medical school-based grants, as well as through intramural studies and contracts.
 
-(2) The Director of the National Institute of Environmental Health Sciences shall conduct a program for the education and training of physicians in environmental health.
+(2) The Director of the National Institute of Environmental Health Sciences shall conduct aprogram for the education and training of physicians in environmental health.
 
 (3) The Director shall assure that such programs shall not conflict with research undertaken by the Administrator.
 
@@ -176,7 +176,7 @@ The Administrator shall develop and implement a plan for identifying areas in wh
 
 &emsp;&emsp;(i) continuous monitoring of emissions of precursors of acid deposition;
 
-&emsp;&emsp;(ii) maintenance, upgrading, and application of models, such as the Regional Acid Deposition Model, that describe the interactions of emissions with the atmosphere,and models that describe the response of ecosystems to acid deposition; and
+&emsp;&emsp;(ii) maintenance, upgrading, and application of models, such as the Regional Acid Deposition Model, that describe the interactions of emissions with the atmosphere, and models that describe the response of ecosystems to acid deposition; and
 
 &emsp;&emsp;(iii) analysis of the costs, benefits, and effectiveness of the acid deposition control program.
 
@@ -304,7 +304,7 @@ Pub. L. 106–246, div. B, title II, §2603, July 13, 2000, 114 Stat. 558, provi
 
 “(f) The Administrator shall carry out this section in collaboration with the Secretary of Transportation.
 
-“(g) There is appropriated to the Department of Transportation, ‘Office of the Assistant Secretary forPolicy’, $2,000,000 to carry out this section. Such amounts shall be transferred to and administered by the Environmental Protection Agency and shall remain available until expended: <i>Provided</i>, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 901(b)(2)(A)\]: <i>Provided further</i>, That the entire amount shall be available only to the extent an official budget request for a specific dollar amount, that includes designation of the entire amount of the request as an emergency requirement as defined by such Act, is transmitted by the President to the Congress.”
+“(g) There is appropriated to the Department of Transportation, ‘Office of the Assistant Secretary for Policy’, $2,000,000 to carry out this section. Such amounts shall be transferred to and administered by the Environmental Protection Agency and shall remain available until expended: <i>Provided</i>, That the entire amount is designated by the Congress as an emergency requirement pursuant to section 251(b)(2)(A) of the Balanced Budget and Emergency Deficit Control Act of 1985, as amended \[2 U.S.C. 901(b)(2)(A)\]: <i>Provided further</i>, That the entire amount shall be available only to the extent an official budget request for a specific dollar amount, that includes designation of the entire amount of the request as an emergency requirement as defined by such Act, is transmitted by the President to the Congress.”
 
 #### National Acid Lakes Registry
 

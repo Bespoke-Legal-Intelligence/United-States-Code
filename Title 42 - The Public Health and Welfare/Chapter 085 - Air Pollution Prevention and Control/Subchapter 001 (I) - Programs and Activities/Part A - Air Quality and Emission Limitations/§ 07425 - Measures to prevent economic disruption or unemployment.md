@@ -38,7 +38,7 @@ Upon a determination under subsection (a) of this section—
 
 The Governor, in the case of action under subsection (b)(1) of this section, or the Administrator, in the case of an action under subsection (b)(2) or (3) of this section shall, by rule or order, require each source to which such action applies to—
 
-&emsp;(1) enter into long-term contracts of at least ten years in duration (except as the Presidentor his designee may otherwise permit or require by rule or order for good cause) for supplies of regionally available coal or coal derivatives,
+&emsp;(1) enter into long-term contracts of at least ten years in duration (except as the President or his designee may otherwise permit or require by rule or order for good cause) for supplies of regionally available coal or coal derivatives,
 
 &emsp;(2) enter into contracts to acquire any additional means of emission limitation which the Administrator or the State determines may be necessary to comply with the requirements of this chapter while using such coal or coal derivatives as fuel, and
 
@@ -60,7 +60,7 @@ Except as may otherwise be provided by rule by the State or the Administrator fo
 
 #### (f) Treatment of prohibitions, rules, or orders as requirements or parts of plans under other provisions
 
-For purposes of sections 7413 and 7420 of this title a prohibition under subsection (b) of this section, and a corresponding rule or order under subsection (c) of this section, shall be treated as a requirement of section 7413 of this title. For purposes of any plan (or portion thereof) promulgated under section 7410(c) of this title, any rule or order under subsection (c) of this section corresponding to a prohibition under subsection (b) of this section, shall be treated as a part of such plan. For purposes of section 7413 of this title, a prohibition under subsection (b) of this section, applicable to any source, and a corresponding rule or order under subsection (c) of this section, shall be treated as part of the applicable implementation plan for the State in which subject source is located.
+For purposes of sections 7413 and 7420 of this title a prohibition under subsection (b) of this section, and a corresponding rule or order under subsection (c) of this section, shall be treated as a requirement of section 7413 of this title. For purposes of any plan (or portion thereof) promulgated under section 7410(c) of this title, any rule or order under subsection (c) of this section corresponding to a prohibition under subsection (b) of this section, shall be treated as a part of such plan. For purposes of section 7413 of thistitle, a prohibition under subsection (b) of this section, applicable to any source, and a corresponding rule or order under subsection (c) of this section, shall be treated as part of the applicable implementation plan for the State in which subject source is located.
 
 #### (g) Delegation of Presidential authority
 

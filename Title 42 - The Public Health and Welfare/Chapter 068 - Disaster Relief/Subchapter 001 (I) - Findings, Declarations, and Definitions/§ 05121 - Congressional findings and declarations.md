@@ -54,11 +54,15 @@ Pub. L. 96–568, §1, Dec. 23, 1980, 94 Stat. 3334, provided: “That this Act 
 
 #### Short Title
 
-Section 1 of Pub. L. 93–288, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572, provided: “That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715<i>l</i> of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, section 461 of Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes under this section, sections 4401 and 5178 of this title, and section 1264 of former Title 31,and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as the “Robert T. Stafford Disaster Relief and Emergency Assistance Act’.”
+Section 1 of Pub. L. 93–288, as amended by Pub. L. 100–707, title I, §102(a), Nov. 23, 1988, 102 Stat. 4689; Pub. L. 106–390, title III, §301, Oct. 30, 2000, 114 Stat. 1572, provided: “That this Act \[enacting this section, sections 3231 to 3236, 5122, 5131, 5132, 5141 to 5158, 5171 to 5189, 5201, and 5202 of this title, and section 1264 of former Title 31, Money and Finance, amending sections 1706c, 1709, 1715<i>l</i> of Title 12, Banks and Banking, sections 241–1, 646, 758 of Title 20, Education, sections 165, 5064, 5708 of Title 26, Internal Revenue Code, section 1820 \[now 3720\] of Title 38, Veterans’ Benefits, section 461 of former Title 40, Public Buildings, Property, and Works, repealing sections 4401, 4402, 4411 to 4413, 4414 to 4420, 4431 to 4436, 4457 to 4462, 4481 to 4485 of this title, enacting provisions set out as notes under this section, sections 4401 and 5178 of this title, and section 1264 offormer Title 31, and amending provisions set out as a note under section 1681 of Title 48, Territories and Insular Possessions\] may be cited as the “Robert T. Stafford Disaster Relief and Emergency Assistance Act’.”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Functions
 
-Functions of the President under the Disaster Relief Acts of 1970 and 1974, with certain exceptions, were delegated to the Director of the Federal Emergency Management Agency, see sections 4–201 and 4–203 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, set out as a note under section 5195 of this title.
+Functions of the President under the Disaster Relief Acts of 1970 and 1974, with certain exceptions, were delegated to the Secretary of Homeland Security, see sections 4–201 and 4–203 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under section 5195 of this title.
 
 #### References to Disaster Relief Act of 1974
 
@@ -288,7 +292,7 @@ Administrative Support.—The Secretary of Agriculture shall provide all financi
 
 #### Recommendations Concerning Improvement of Relationships Among Disaster Management Officials
 
-Section 110 of Pub. L. 100–707 provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 23, 1988\], the President shall recommend to the Congress proposals to improve the operational andfiscal relationships that exist among Federal, State, and local major disaster and emergency management officials. Such proposals should include provisions which—
+Section 110 of Pub. L. 100–707 provided that: “Not later than 1 year after the date of the enactment of this Act \[Nov. 23, 1988\], the President shall recommend to the Congress proposals to improve the operational and fiscal relationships that exist among Federal, State, and local major disaster and emergency management officials. Such proposals should include provisions which—
 
 &emsp;“(1) decrease the amount of time for processing requests for major disaster and emergency declarations and providing Federal assistance for major disasters and emergencies;
 

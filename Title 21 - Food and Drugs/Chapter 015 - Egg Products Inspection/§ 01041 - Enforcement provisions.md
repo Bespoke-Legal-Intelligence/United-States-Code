@@ -20,7 +20,7 @@ Any person who forcibly assaults, resists, opposes, impedes, intimidates, or int
 
 &emsp;(ii) may be reviewed only as provided in paragraph (2).
 
-(2)(A) The determination and order of the Secretary under this subsection shall be final and conclusive unless the person against whom sucha violation is found under paragraph (1) files an application for judicial review within 30 days after service of the order in the United States court of appeals for the circuit in which the person has its principal place of business or in the United States Court of Appeals for the District of Columbia Circuit.
+(2)(A) The determination and order of the Secretary under this subsection shall be final and conclusive unless the person against whom such a violation is found under paragraph (1) files an application for judicial review within 30 days after service of the order in the United States court of appeals for the circuit in which the person has its principal place of business or in the United States Court of Appeals for the District of Columbia Circuit.
 
 (B) Judicial review of any such order shall be based on the record on which the determination and order are based.
 
@@ -40,7 +40,7 @@ When construing or enforcing the provisions of section 1037 of this title, the a
 
 #### (e) Penalties applicable to carriers or warehousemen
 
-No carrier or warehouseman shall be subject to the penalties of this chapter, other than the penalties for violation of section 1040 of this title or subsection (c) of this section, by reason of his receipt, carriage, holding, or delivery, in the usual course of business, as a carrier or warehouseman of eggs or egg products owned by another person unless the carrier or warehouseman has knowledge, or is in possession of facts which would cause a reasonable person to believe that such eggs or egg products were not eligible for transportation under, or were otherwise in violation of, this chapter, or unless the carrier or warehouseman refuses to furnish on request of a representative of the Secretary the name and address of the person from whom he received such eggs or egg products and copies of all documents, if there be any, pertaining to the delivery of the eggs or egg products to, or by, such carrier or warehouseman.
+No carrier or warehouseman shall be subject to the penalties of this chapter, other than the penalties for violation of section 1040 of this title or subsection (c) of this section, by reason of his receipt, carriage, holding, or delivery, in the usual course of business, as a carrier or warehouseman of eggs or egg products owned byanother person unless the carrier or warehouseman has knowledge, or is in possession of facts which would cause a reasonable person to believe that such eggs or egg products were not eligible for transportation under, or were otherwise in violation of, this chapter, or unless the carrier or warehouseman refuses to furnish on request of a representative of the Secretary the name and address of the person from whom he received such eggs or egg products and copies of all documents, if there be any, pertaining to the delivery of the eggs or egg products to, or by, such carrier or warehouseman.
 
 (Pub. L. 91–597, §12, Dec. 29, 1970, 84 Stat. 1628; Pub. L. 102–237, title X, §1012(d), Dec. 13, 1991, 105 Stat. 1899.)
 

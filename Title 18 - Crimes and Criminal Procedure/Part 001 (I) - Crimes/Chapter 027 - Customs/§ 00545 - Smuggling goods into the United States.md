@@ -58,9 +58,9 @@ Amendment by act June 30, 1955, effective July 1, 1955, see section 2(d) of act 
 
 #### Effective Date of 1954 Amendment
 
-Section 2 of act Aug. 24, 1954, provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply only with respect to offenses committed on and after the date of the enactment of this Act \[Aug. 24, 1954\].”
+Section 2 of act Aug. 24, 1954, provided that: “The amendments made by the first section of this Act\[amending this section\] shall apply only with respect to offenses committed on and after the date of the enactment of this Act \[Aug. 24, 1954\].”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 981, 982, 1956 of this title; title 21 sections 135a, 967; title 31 section 9703.
+This section is referred to in sections 981, 982, 1956 of this title; title 21 section 967; title 31 section 9703.
 

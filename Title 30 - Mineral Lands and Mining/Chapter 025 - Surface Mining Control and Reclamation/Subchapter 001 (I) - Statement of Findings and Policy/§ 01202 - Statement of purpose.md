@@ -16,7 +16,7 @@ It is the purpose of this chapter to—
 
 &emsp;(g) assist the States in developing and implementing a program to achieve the purposes of this chapter;
 
-&emsp;(h) promote the reclamation of mined areas left without adequate reclamation prior to August 3, 1977, and which continue, in their unreclaimed condition, to substantially degradethe quality of the environment, prevent or damage the beneficial use of land or water resources, or endanger the health or safety of the public;
+&emsp;(h) promote the reclamation of mined areas left without adequate reclamation prior to August 3, 1977, and which continue, in their unreclaimed condition, to substantially degrade the quality of the environment, prevent or damage the beneficial use of land or water resources, or endanger the health or safety of the public;
 
 &emsp;(i) assure that appropriate procedures are provided for the public participation in the development, revision, and enforcement of regulations, standards, reclamation plans, or programs established by the Secretary or any State under this chapter;
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of National Institute of Standards and Technology
 
-There is established within the Department of Commerce a science, engineering, technology, and measurement laboratory to be known as theNational Institute of Standards and Technology (hereafter in this chapter referred to as the “Institute”).
+There is established within the Department of Commerce a science, engineering, technology, and measurement laboratory to be known as the National Institute of Standards and Technology (hereafter in this chapter referred to as the “Institute”).
 
 #### (b) Functions of Secretary and Institute
 
@@ -20,7 +20,7 @@ The Secretary of Commerce (hereafter in this chapter referred to as the “Secre
 
 &emsp;(6) to assist industry in the development of measurements, measurement methods, and basic measurement technology;
 
-&emsp;(7) to determine, compile, evaluate, and disseminate physical constants and the properties and performance of conventional and advanced materials when they are important to science, engineering, manufacturing, education, commerce, and industry and are not available with sufficient accuracy elsewhere;
+&emsp;(7) to determine, compile, evaluate, and disseminate physical constants and the properties and performance of conventional andadvanced materials when they are important to science, engineering, manufacturing, education, commerce, and industry and are not available with sufficient accuracy elsewhere;
 
 &emsp;(8) to develop a fundamental basis and methods for testing materials, mechanisms, structures, equipment, and systems, including those used by the Federal Government;
 
@@ -62,7 +62,7 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 &emsp;(12) develop and test standard interfaces, communication protocols, and data structures for computer and related telecommunications systems;
 
-&emsp;(13) study computer systems (as that term is defined in section 278g–3(d) of this title) and their use to control machinery and processes;
+&emsp;(13) study computer systems (as that term is defined in section 278g–3(d) <sup>1</sup> of this title) and their use to control machinery and processes;
 
 &emsp;(14) perform research to develop standards and test methods to advance the effective use of computers and related systems and to protect the information stored, processed, and transmitted by such systems and to provide advice in support of policies affecting Federal computer and related telecommunications systems;
 
@@ -78,7 +78,7 @@ In carrying out the functions specified in subsection (b) of this section, the S
 
 &emsp;(20) evaluate promising inventions and other novel technical concepts submitted by inventors and small companies and work with other Federal agencies, States, and localities to provide appropriate technical assistance and support for those inventions which are found in the evaluation process to have commercial promise;
 
-&emsp;(21) demonstrate the results of the Institute's activities by exhibits or other methods of technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
+&emsp;(21) demonstrate the results of the Institute's activities by exhibits or other methodsof technology transfer, including the use of scientific or technical personnel of the Institute for part-time or intermittent teaching and training activities at educational institutions of higher learning as part of and incidental to their official duties; and
 
 &emsp;(22) undertake such other activities similar to those specified in this subsection as the Director determines appropriate.
 
@@ -87,6 +87,10 @@ In carrying out the functions specified in subsection (b) of this section, the S
 In carrying out the extramural funding programs of the Institute, including the programs established under sections 278k, 278<i>l</i>, and 278n of this title, the Secretary may retain reasonable amounts of any funds appropriated pursuant to authorizations for these programs in order to pay for the Institute's management of these programs.
 
 (Mar. 3, 1901, ch. 872, §2, 31 Stat. 1449; July 22, 1950, ch. 486, §1, 64 Stat. 371; Pub. L. 92–317, §3(b), June 22, 1972, 86 Stat. 235; Pub. L. 100–235, §3(1), Jan. 8, 1988, 101 Stat. 1724; Pub. L. 100–418, title V, §5112(a), Aug. 23, 1988, 102 Stat. 1428; Pub. L. 102–245, title II, §201(e), Feb. 14, 1992, 106 Stat. 19; Pub. L. 104–113, §12(a), (b), Mar. 7, 1996, 110 Stat. 782.)
+
+#### References in Text
+
+Section 278g–3 of this title, referred to in subsec. (c)(13), was amended, and no longer defines the term “computer systems”.
 
 #### Amendments
 
@@ -128,7 +132,7 @@ Sense of the Congress.—
 
 &emsp;“(1)
 
-In general.—It is the sense of the Congress that the Director of the National Institute of Standards and Technology should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 \[40 U.S.C. 484 note\]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools.
+In general.—It is the sense of the Congress that the Director of the National Institute of Standards and Technology should, to the greatest extent practicable and in a manner consistent with applicable Federal law (including Executive Order No. 12999 \[40 U.S.C. 549 note\]), donate educationally useful Federal equipment to schools in order to enhance the science and mathematics programs of those schools.
 
 &emsp;“(2)
 
@@ -140,7 +144,7 @@ In general.—Not later than 1 year after the date of the enactment of this Act 
 
 &emsp;&emsp;“(B)
 
-Contents of report.—The report prepared by the Director under this paragraph shall describeany donations of educationally useful Federal equipment to schools made during the period covered by the report.”
+Contents of report.—The report prepared by the Director under this paragraph shall describe any donations of educationally useful Federal equipment to schools made during the period covered by the report.”
 
 #### Transmittal of Plan for Standards Conformity to Congress
 
@@ -206,10 +210,6 @@ Section 5112(d) of Pub. L. 100–418 provided that:
 
 Section 5163(b) of Pub. L. 100–418 provided that: “The Director of the National Institute of Standards and Technology shall prepare a plan detailing the manner in which the Institute will make small businesses more aware of the Institute's activities and research, and the manner in which the Institute will seek to increase the application by small businesses of the Institute's research, particularly in manufacturing. The plan shall be submitted to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Science, Space, and Technology of the House of Representatives not later than 120 days after the date of the enactment of this Act \[Aug. 23, 1988\].”
 
-#### Computer Security
-
-Nothing in amendment by Pub. L. 100–235 to be construed to constitute authority to withhold information sought under section 552 of Title 5, Government Organization and Employees, or to authorize any Federal agency to limit, restrict, regulate, or control collection, maintenance, disclosure, use, transfer, or sale of any information that is privately owned information, disclosable under section 552 of Title 5 or other law requiring or authorizing public disclosure of information, or public domain information, see section 8 of Pub. L. 100–235, set out as a note under section 1441 of Title 40, Public Buildings, Property, and Works.
-
 #### Construction of Radio Laboratory Building
 
 Act Oct. 25, 1949, ch. 703, 63 Stat. 886, provided for the construction and equipment of a suitable radio laboratory building, together with necessary utilities and appurtenances thereto, under a limit of cost of $4,475,000, for the National Bureau of Standards.
@@ -221,4 +221,6 @@ Act Oct. 25, 1949, ch. 728, 63 Stat. 905, provided for the construction and equi
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1454 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

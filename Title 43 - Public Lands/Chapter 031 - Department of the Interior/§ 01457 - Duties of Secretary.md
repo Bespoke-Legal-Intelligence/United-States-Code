@@ -98,7 +98,7 @@ National Park Service—Act Aug. 25, 1916, ch. 408, 39 Stat. 535.
 
 Office of Consumers’ Counsel of National Bituminous Coal Commission—Abolished and functions transferred to office of Solicitor of Department of the Interior, by Reorg. Plan No. II of 1939, §4(c), eff. July 1, 1939, set out in the Appendix to Title 5, Government Organization and Employees. Its functions, records, property, and personnel were subsequently transferred from Solicitor to Bituminous Coal Consumers’ Counsel.
 
-Petroleum conservation—Section 3 of Ex. Ord. No. 10752, eff. Feb. 12, 1958, 23 F.R. 973, superseded Ex. Ord. No. 6979, eff. Feb. 28, 1935, Ex. Ord. No. 7756, eff. Dec. 1, 1937, 2 F.R. 2664, and Ex. Ord. No. 9732, eff. June 3, 1946, 11 F.R. 5985, formerly classified as notes to this section.
+Petroleum conservation—Section 3 of Ex. Ord. No. 10752, eff. Feb. 12, 1958, 23 F.R. 973, superseded Ex. Ord.No. 6979, eff. Feb. 28, 1935, Ex. Ord. No. 7756, eff. Dec. 1, 1937, 2 F.R. 2664, and Ex. Ord. No. 9732, eff. June 3, 1946, 11 F.R. 5985, formerly classified as notes to this section.
 
 #### Emergency Preparedness Functions
 
@@ -136,7 +136,7 @@ Ex. Ord. No. 9633, eff. Sept. 28, 1945, 10 F.R. 12305, which reserved and placed
 
 #### Ex. Ord. No. 12906. Coordinating Geographic Data Acquisition and Access: The National Spatial Data Infrastructure
 
-Ex. Ord. No. 12906, Apr. 11, 1994, 59 F.R. 17671, provided:
+Ex. Ord. No. 12906, Apr. 11, 1994, 59 F.R. 17671, as amended by Ex. Ord. No. 13286, §25, Feb. 28, 2003, 68 F.R. 10624, provided:
 
 Geographic information is critical to promote economic development, improve our stewardship of natural resources, and protect the environment. Modern technology now permits improved acquisition, distribution, and utilization of geographic (or geospatial) data and mapping. The National Performance Review has recommended that the executive branch develop, in cooperation with State, local, and tribal governments, and the private sector, a coordinated National Spatial Data Infrastructure to support public and private sector applications of geospatial data in such areas as transportation, community development, agriculture, emergency response, environmental management, and information technology.
 
@@ -186,9 +186,11 @@ Sec. 7. SCOPE. (a) For the purposes of this order, the term “agency” shall h
 
 &emsp;(i) national security-related activities of the Department of Defense as determined by the Secretary of Defense;
 
-&emsp;(ii) national defense-related activities of the Department of Energy as determined by the Secretary of Energy; and
+&emsp;(ii) national defense-related activities of the Department of Energy as determined by the Secretary of Energy;
 
-&emsp;(iii) intelligence activities as determined by the Director of Central Intelligence.
+&emsp;(iii) intelligence activities as determined by the Director of Central Intelligence; and
+
+&emsp;(iv) the national security-related activities of the Department of Homeland Security as determined by the Secretary of Homeland Security.
 
 (c) The NSDI may involve the mapping, charting, and geodesy activities of the Department of Defense relating to foreign areas, as determined by the Secretary of Defense.
 
@@ -197,8 +199,6 @@ Sec. 7. SCOPE. (a) For the purposes of this order, the term “agency” shall h
 (e) Nothing in the order shall be construed to contravene the development of Federal Information Processing Standards and Guidelines adopted and promulgated under the provisions of section 111(d) of the Federal Property and Administrative Services Act of 1949 \[former 40 U.S.C. 759(d)\], as amended by the Computer Security Act of 1987 (Public Law 100–235), or any other United States law, regulation, or international agreement.
 
 Sec. 8. JUDICIAL REVIEW. This order is intended only to improve the internal management of the executive branch and is not intended to, and does not, create any right to administrative or judicial review, or any other right or benefit or trust responsibility, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section as Unaffected by Submerged Lands Act
 

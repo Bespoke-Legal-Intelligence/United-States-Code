@@ -1,0 +1,12 @@
+### §8107. Hydrogen and fuel cell technologies
+
+#### (a) In general
+
+The Secretary and the Secretary of Energy shall enter into a memorandum of understanding under which the Secretary and the Secretary of Energy shall cooperate in the application of hydrogen and fuel cell technology programs for rural communities and agricultural producers.
+
+#### (b) Dissemination of information
+
+Under the memorandum of understanding, the Secretary shall work with the Secretary of Energy to disseminate information to rural communities and agricultural producers on potential applications of hydrogen and fuel cell technologies.
+
+(Pub. L. 107–171, title IX, §9007, May 13, 2002, 116 Stat. 483.)
+

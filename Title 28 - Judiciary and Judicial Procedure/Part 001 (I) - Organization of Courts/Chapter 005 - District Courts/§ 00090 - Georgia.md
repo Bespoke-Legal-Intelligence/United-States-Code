@@ -98,21 +98,21 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1986</b>—Subsec. (c)(1). Pub. L. 99–657, §3(1), substituted “Jefferson, Lincoln” for “Lincoln”.
+1986—Subsec. (c)(1). Pub. L. 99–657, §3(1), substituted “Jefferson, Lincoln” for “Lincoln”.
 
 Subsec. (c)(3). Pub. L. 99–657, §3(2), substituted “and Liberty” for “Evans, Liberty, Screven, and Tattnall”.
 
 Subsec. (c)(6). Pub. L. 99–657, §3(3), substituted “Evans, Jenkins, Screven, Tattnall” for “Jefferson, Jenkins”.
 
-<b>1984</b>—Subsec. (a)(1). Pub. L. 98–620, §408(a), added Fannin, Gilmer, and Pickens to the counties comprising the Gainesville Division of the Northern District.
+1984—Subsec. (a)(1). Pub. L. 98–620, §408(a), added Fannin, Gilmer, and Pickens to the counties comprising the Gainesville Division of the Northern District.
 
 Subsec. (a)(2). Pub. L. 98–620, §408(b), struck out Fannin, Gilmer, and Pickens from the counties comprising the Atlanta Division of the Northern District.
 
 Subsec. (c)(6). Pub. L. 98–620, §408(c), substituted “Statesboro” for “Swainsboro” in three places.
 
-<b>1951</b>—Subsec. (c)(6). Act Oct. 31, 1951, struck out “Washington,”.
+1951—Subsec. (c)(6). Act Oct. 31, 1951, struck out “Washington,”.
 
-<b>1949</b>—Subsec. (c). Act Aug. 16, 1949, created a Swainsboro division and provided for holding court there.
+1949—Subsec. (c). Act Aug. 16, 1949, created a Swainsboro division and provided for holding court there.
 
 #### Effective Date of 1986 Amendment
 

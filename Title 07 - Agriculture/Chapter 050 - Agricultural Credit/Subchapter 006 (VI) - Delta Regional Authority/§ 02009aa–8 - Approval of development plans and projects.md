@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A State or regional development plan or any multistate subregional plan that is proposed for development under this subchapter shall be reviewed by the Authority.
+A State or regional development plan or any multistate subregional plan that is proposed for development under this subchapter shall be reviewed and approved by the Authority.
 
 #### (b) Evaluation by State member
 
@@ -20,11 +20,17 @@ An application for a grant or other assistance for a project shall be approved o
 
 &emsp;(4) otherwise meets the requirements of this subchapter.
 
-#### (d) Votes for decisions
+#### (d) Approval of grant applications
 
 On certification by a State member of the Authority of an application for a grant or other assistance for a specific project under this section, an affirmative vote of the Authority under section 2009aa–1(c) of this title shall be required for approval of the application.
 
-(Pub. L. 87–128, title III, §382I, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–279.)
+(Pub. L. 87–128, title III, §382I, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–279; amended Pub. L. 107–171, title VI, §6027(f), May 13, 2002, 116 Stat. 374.)
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171, §6027(f)(1), inserted “and approved” after “reviewed”.
+
+Subsec. (d). Pub. L. 107–171, §6027(f)(2), substituted “Approval of grant applications” for “Votes for decisions” in heading.
 
 #### Section Referred to in Other Sections
 

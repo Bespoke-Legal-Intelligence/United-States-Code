@@ -20,7 +20,7 @@
 
 &emsp;(D) demonstration purposes, including projects in the long-term monitoring and outpatient treatment of individuals infected with the etiologic agent for such syndrome.
 
-(2) Financial assistance under subsection (a) of this section may not be expended to provide research training for which National Research Service Awards may be provided under section 288 of this title.
+(2) Financial assistance under subsection (a) of this section may not be expended to provide research training for which Ruth L. KirschsteinNational Research Service Awards may be provided under section 288 of this title.
 
 #### (c) Duration of support
 
@@ -30,5 +30,9 @@ Support of a center under subsection (a) of this section may be for not more tha
 
 For the purpose of carrying out this section, there are authorized to be appropriated such sums as may be necessary.
 
-(July 1, 1944, ch. 373, title XXIII, §2316, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3071.)
+(July 1, 1944, ch. 373, title XXIII, §2316, as added Pub. L. 100–607, title II, §201(4), Nov. 4, 1988, 102 Stat. 3071; amended Pub. L. 107–206, title I, §804(c), Aug. 2, 2002, 116 Stat. 874.)
+
+#### Amendments
+
+2002—Subsec. (b)(2). Pub. L. 107–206 substituted “Ruth L. Kirschstein National Research Service Awards” for “National Research Service Awards”.
 

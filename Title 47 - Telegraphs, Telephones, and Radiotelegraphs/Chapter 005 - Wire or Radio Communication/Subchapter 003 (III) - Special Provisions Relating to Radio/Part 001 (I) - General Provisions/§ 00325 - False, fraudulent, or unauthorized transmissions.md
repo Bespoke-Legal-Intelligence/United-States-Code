@@ -42,7 +42,7 @@ No person within the jurisdiction of the United States shall knowingly utter or 
 
 > For purposes of this paragraph, the terms “satellite carrier” and “superstation” have the meanings given those terms, respectively, in section 119(d) of title 17, as in effect on October 5, 1992, the term “unserved household” has the meaning given that term under section 119(d) of such title, and the term “local market” has the meaning given that term in section 122(j) of such title.
 
-(3)(A) Within 45 days after October 5, 1992, the Commission shall commence a rulemaking proceeding to establish regulations to govern the exercise by television broadcast stations of the right to grant retransmission consent under this subsection and of the right to signal carriageunder section 534 of this title, and such other regulations as are necessary to administer the limitations contained in paragraph (2). The Commission shall consider in such proceeding the impact that the grant of retransmission consent by television stations may have on the rates for the basic service tier and shall ensure that the regulations prescribed under this subsection do not conflict with the Commission's obligation under section 543(b)(1) of this title to ensure that the rates for the basic service tier are reasonable. Such rulemaking proceeding shall be completed within 180 days after October 5, 1992.
+(3)(A) Within 45 days after October 5, 1992, the Commission shall commence a rulemaking proceeding to establish regulations to govern the exercise by television broadcast stations of the right to grant retransmission consent under this subsection and of the right to signal carriage under section 534 of this title, and such other regulations as are necessary to administer the limitations contained in paragraph (2). The Commission shall consider in such proceeding the impact that the grant of retransmission consent by television stations may have on the rates for the basic service tier and shall ensure that the regulations prescribed under this subsection do not conflict with the Commission's obligation under section 543(b)(1) of this title to ensure that the rates for the basic service tier are reasonable. Such rulemaking proceeding shall be completed within 180 days after October 5, 1992.
 
 (B) The regulations required by subparagraph (A) shall require that television stations, within one year after October 5, 1992, and every three years thereafter, make an election between the right to grant retransmission consent under this subsection and the right to signal carriage under section 534 of this title. If there is more than one cable system which services the same geographic area, a station's election shall apply to all such cable systems.
 
@@ -142,7 +142,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (8) Relief
 
-&emsp;If the Commission determines that a satellite carrier has retransmitted the television broadcast station to at least one person in the local market of such station and has failed to meet its burden of proving one of the defenses under paragraph (4) with respect to such retransmission, the Commission shall be required to—
+&emsp;If the Commission determines that a satellite carrier has retransmitted the television broadcast station to at least one person in the local market of such station and has failed to meet its burden of proving one of the defensesunder paragraph (4) with respect to such retransmission, the Commission shall be required to—
 
 &emsp;&emsp;(A) make a finding that the satellite carrier violated subsection (b)(1) of this section with respect to that station; and
 
@@ -180,7 +180,7 @@ Such application shall contain such information as the Commission may by regulat
 
 #### (B) Appeal
 
-&emsp;&emsp;If the Commission denies relief in response to a complaint filed by a television broadcast station under this subsection, the television broadcast station filing the complaint may file an appeal with the United StatesCourt of Appeals for the District of Columbia Circuit.
+&emsp;&emsp;If the Commission denies relief in response to a complaint filed by a television broadcast station under this subsection, the television broadcast station filing the complaint may file an appeal with the United States Court of Appeals for the District of Columbia Circuit.
 
 #### (12) Sunset
 

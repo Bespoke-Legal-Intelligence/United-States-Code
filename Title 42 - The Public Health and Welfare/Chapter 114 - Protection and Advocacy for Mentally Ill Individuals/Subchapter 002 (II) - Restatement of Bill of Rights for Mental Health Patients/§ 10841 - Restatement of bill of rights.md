@@ -36,7 +36,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;(F) The right to freedom from restraint or seclusion, other than as a mode or course of treatment or restraint or seclusion during an emergency situation if such restraint or seclusion is pursuant to or documented contemporaneously by the written order of a responsible mental health professional.
 
-&emsp;&emsp;(G) The right to a humane treatment environment that affords reasonable protectionfrom harm and appropriate privacy to such person with regard to personal needs.
+&emsp;&emsp;(G) The right to a humane treatment environment that affords reasonable protection from harm and appropriate privacy to such person with regard to personal needs.
 
 &emsp;&emsp;(H) The right to confidentiality of such person's records.
 
@@ -68,7 +68,7 @@ It is the sense of the Congress that, as previously stated in title V of the Men
 
 &emsp;&emsp;(O) The right to referral as appropriate to other providers of mental health services upon discharge.
 
-&emsp;(2)(A) The rights described in this section should be in addition to and not in derogation of any other statutory or constitutional rights.
+&emsp;(2)(A) The rights described in this section should be in addition to and not in derogationof any other statutory or constitutional rights.
 
 &emsp;(B) The rights to confidentiality of and access to records as provided in subparagraphs (H) and (I) of paragraph (1) should remain applicable to records pertaining to a person after such person's discharge from a program or facility.
 

@@ -4,7 +4,7 @@ In this subchapter, the following definitions apply:
 
 #### (1) Board
 
-&emsp;The term “Board” means a National Dam Safety Review Board established under section 467f(h) of this title.
+&emsp;The term “Board” means a National Dam Safety Review Board established under section 467f(f) of this title.
 
 #### (2) Dam
 
@@ -72,13 +72,13 @@ In this subchapter, the following definitions apply:
 
 #### (12) State dam safety program
 
-&emsp;The term “State dam safety program” means a State dam safety program approved and assisted under section 467f(f) of this title.
+&emsp;The term “State dam safety program” means a State dam safety program approved and assisted under section 467f(e) of this title.
 
 #### (13) United States
 
 &emsp;The term “United States”, when used in a geographical sense, means all of the States.
 
-(Pub. L. 92–367, §2, as added Pub. L. 104–303, title II, §215(c)(4), Oct. 12, 1996, 110 Stat. 3685.)
+(Pub. L. 92–367, §2, as added Pub. L. 104–303, title II, §215(c)(4), Oct. 12, 1996, 110 Stat. 3685; amended Pub. L. 107–310, §3(e)(2), Dec. 2, 2002, 116 Stat. 2451.)
 
 #### Prior Provisions
 
@@ -86,13 +86,27 @@ A prior section 467, Pub. L. 92–367, §1, Aug. 8, 1972, 86 Stat. 506; Pub. L. 
 
 A prior section 2 of Pub. L. 92–367 was renumbered section 3 by section 215(c)(3) of Pub. L. 104–303 and is classified to section 467a of this title.
 
+#### Amendments
+
+2002—Par. (1). Pub. L. 107–310, §3(e)(2)(A), substituted “section 467f(f)” for “section 467f(h)”.
+
+Par. (12). Pub. L. 107–310, §3(e)(2)(B), substituted “section 467f(e)” for “section 467f(f)”.
+
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–310, §1(a), Dec. 2, 2002, 116 Stat. 2450, provided that: “This Act \[enacting section 467g–1 of this title and amending this section and sections 467e to 467g and 467h to 467j of this title\] may be cited as the ‘Dam Safety and Security Act of 2002’.”
+
 #### Short Title of 1986 Amendment
 
-Section 1206 of title XII of Pub. L. 99–662 provided that: “This title \[enacting sections 467f to 467n and 2311 of this title and amending this section and sections 467a and 467b of this title\] may be cited as the ‘Dam Safety Act of 1986’.”
+Section 1206 of title XII of Pub. L. 99–662 provided that: “This title \[enacting sections 467f to 467n and 2311of this title and amending this section and sections 467a and 467b of this title\] may be cited as the ‘Dam Safety Act of 1986’.”
 
 #### Short Title
 
 Section 1 of Pub. L. 92–367, as added by Pub. L. 104–303, title II, §215(c)(1), Oct. 12, 1996, 110 Stat. 3685, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘National Dam Safety Program Act’.”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Congressional Statement of Purpose; National Dam Safety Program
 
@@ -100,7 +114,7 @@ Section 215(a) of Pub. L. 104–303 provided that: “The purpose of this sectio
 
 #### Effect on Other Dam Safety Programs
 
-Section 215(b) of Pub. L. 104–303 provided that: “Nothing in this section (including the amendments made by this section) \[enacting this section and sections 467d to467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section\] shall preempt or otherwise affect any dam safety program of a Federal agency other than the Federal Emergency Management Agency, including any program that regulates, permits, or licenses any activity affecting a dam.”
+Section 215(b) of Pub. L. 104–303 provided that: “Nothing in this section (including the amendments made by this section) \[enacting this section and sections 467d to 467j of this title, amending sections 467a to 467c of this title and section 3802 of Title 25, Indians, repealing former sections 467 and 467d to 467m of this title, and enacting provisions set out as notes under this section\] shall preempt or otherwise affect any dam safety program of a Federal agency other than the Federal Emergency Management Agency, including any program that regulates, permits, or licenses any activity affecting a dam.”
 
 #### Section Referred to in Other Sections
 

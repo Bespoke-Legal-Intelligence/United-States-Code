@@ -1,8 +1,8 @@
 ### §3. Relationship to Navy Department
 
-Upon the declaration of war or when the President directs, the Coast Guard shall operate as a service in the Navy, and shall so continue until the President, by Executive order, transfers the Coast Guard back to the Department of Transportation. While operating as a service in the Navy, the Coast Guard shall be subject to the orders of the Secretary of the Navy who may order changes in Coast Guard operations to render them uniform, to the extent he deems advisable, with Navy operations.
+Upon the declaration of war or when the President directs, the Coast Guard shall operate as a service in the Navy, and shall so continue until the President, by Executive order, transfers the Coast Guard back to the Department of Homeland Security. While operating as a service in the Navy, the Coast Guard shall be subject to the orders of the Secretary of the Navy who may order changes in Coast Guard operations to render them uniform, to the extent he deems advisable, with Navy operations.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 496; Pub. L. 94–546, §1(2), Oct. 18, 1976, 90 Stat. 2519.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 496; Pub. L. 94–546, §1(2), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Historical and Revision Notes
 
@@ -14,9 +14,15 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
+2002—Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
+
 1976—Pub. L. 94–546 substituted “Executive” for “executive” and “Department of Transportation” for “Treasury Department”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 5013a; title 49 section 108; title 50 section 191a.
+This section is referred to in title 6 section 468; title 10 section 5013a; title 49 section 108; title 50 section 191a.
 

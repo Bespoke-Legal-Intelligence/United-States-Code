@@ -8,7 +8,7 @@
 
 (B) The adjustment in rates of dependency and indemnity compensation referred to in subparagraph (A) of this paragraph shall be made by the Secretary in accordance with regulations which the Secretary shall prescribe.
 
-(c)(1) Whenever there is an increase under subsection (a) in benefit rates payable under sections 1521, 1541, 1542, and 1805 of this title and an increase under subsection (b) in benefit rates and annual income limitations under section 1315 of this title, the Secretary shall publish such rates and limitations (including those rates adjusted by the Secretary under subsection (b)(2) of this section), as increased pursuant to such subsections, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) is published by reason of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
+(c)(1) Whenever there is an increase under subsection (a) in benefit rates payable under sections 1521, 1541, 1542, and 1805 of this title and an increase under subsection (b) in benefit rates and annual income limitations under section 1315 of this title, the Secretary shall publishsuch rates and limitations (including those rates adjusted by the Secretary under subsection (b)(2) of this section), as increased pursuant to such subsections, in the Federal Register at the same time as the material required by section 215(i)(2)(D) of the Social Security Act (42 U.S.C. 415(i)(2)(D)) is published by reason of a determination under section 215(i) of such Act (42 U.S.C. 415(i)).
 
 (2) Whenever such rates and income limitations are so increased, the Secretary may round such rates and income limitations in such manner as the Secretary considers equitable and appropriate for ease of administration.
 
@@ -44,7 +44,7 @@ Subsec. (c)(2). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary”
 
 1982—Subsec. (a). Pub. L. 97–295, §4(76)(A), (B), inserted “(42 U.S.C. 401 et seq.)” after first reference to “title II of the Social Security Act”, and inserted “(42 U.S.C. 415(i))” after “section 215(i) of such Act”.
 
-Subsec. (b)(1). Pub. L. 97–295, §4(76)(A)–(C), inserted “(42 U.S.C. 401 et seq.)” after first reference to “title IIof the Social Security Act”, inserted “(42 U.S.C. 415(i))” after “section 215(i) of such Act”, and substituted “subsection (g), of section 415 of this title” for “subsection (h), of section 415 of such title”.
+Subsec. (b)(1). Pub. L. 97–295, §4(76)(A)–(C), inserted “(42 U.S.C. 401 et seq.)” after first reference to “title II of the Social Security Act”, inserted “(42 U.S.C. 415(i))” after “section 215(i) of such Act”, and substituted “subsection (g), of section 415 of this title” for “subsection (h), of section 415 of such title”.
 
 Subsec. (c)(1). Pub. L. 97–295, §4(76)(B), (D), inserted “(42 U.S.C. 415(i)(2)(D))” after “section 215(i)(2)(D) of the Social Security Act”, and inserted “(42 U.S.C. 415(i))” after “section 215(i) of such Act”.
 

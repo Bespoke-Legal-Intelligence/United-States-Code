@@ -22,7 +22,7 @@ With respect to the prevention, control, and elimination of tuberculosis, the Se
 
 #### (c) Cooperation with providers of primary health services
 
-The Secretary may make a grant under subsection (a) or (b) of this section only if the applicant for the grant agrees that, in carrying out activities under the grant, the applicant will cooperate with public and nonprofit private providers of primary health services or substance abuse services, including entities receiving assistance under section 254b, 254c, 256, or 256a of this title <sup>1</sup> or under subchapter III–A or XVII of this chapter.
+The Secretary may make a grant under subsection (a) or (b) of this section only if the applicant for the grant agrees that, in carrying out activities under the grant, the applicant will cooperate with public and nonprofit private providers of primary health services or substance abuse services, including entities receiving assistance under section 254b, 254c, 254b(h), or 256a of this title <sup>1</sup> or under subchapter III–A or XVII of this chapter.
 
 #### (d) Application for grant
 
@@ -42,7 +42,7 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 #### (2) Corresponding reduction in payments
 
-&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments under the grant involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided bythe Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
+&emsp;With respect to a request described in paragraph (1), the Secretary shall reduce the amount of payments under the grant involved by an amount equal to the costs of detailing personnel and the fair market value of any supplies, equipment, or services provided by the Secretary. The Secretary shall, for the payment of expenses incurred in complying with such request, expend the amounts withheld.
 
 #### (f) Advisory Council
 
@@ -84,15 +84,17 @@ The Secretary may make a grant under subsection (a) or (b) of this section only 
 
 &emsp;For the purpose of carrying out subsection (b) of this section, there are authorized to be appropriated such sums as may be necessary for each of the fiscal years 1994 through 2002.
 
-(July 1, 1944, ch. 373, title III, §317E, as added Pub. L. 103–183, title III, §301(a), Dec. 14, 1993, 107 Stat. 2233; amended Pub. L. 105–392, title IV, §§401(b)(1), 405, Nov. 13, 1998, 112 Stat. 3587, 3588.)
+(July 1, 1944, ch. 373, title III, §317E, as added Pub. L. 103–183, title III, §301(a), Dec. 14, 1993, 107 Stat. 2233; amended Pub. L. 105–392, title IV, §§401(b)(1), 405, Nov. 13, 1998, 112 Stat. 3587, 3588; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
 
 #### References in Text
 
-Sections 254b and 254c of this title, referred to in subsec. (c), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
+The reference to section 254b of this title the first place appearing and the reference to section 254c of thistitle, appearing in subsec. (c), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of this subchapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
-Sections 256 and 256a of this title, referred to in subsec. (c), were repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
+Section 256a of this title, referred to in subsec. (c), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–251 substituted “254b(h)” for “256”.
 
 1998—Subsec. (g)(1)(A). Pub. L. 105–392, §405(1)(A), substituted “2002” for “1998”.
 

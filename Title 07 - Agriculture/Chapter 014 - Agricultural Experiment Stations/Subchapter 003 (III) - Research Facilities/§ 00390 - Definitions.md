@@ -12,31 +12,33 @@ In this subchapter:
 
 #### (3) Food and agricultural sciences
 
-&emsp;The term “food and agricultural sciences” means—
-
-&emsp;&emsp;(A) agriculture, including soil and water conservation and use, the use of organic materials to improve soil tilth and fertility, plant and animal production and protection, and plant and animal health;
-
-&emsp;&emsp;(B) the processing, distribution, marketing, and utilization of food and agricultural products;
-
-&emsp;&emsp;(C) forestry, including range management, production of forest and range products, multiple use of forests and rangelands, and urban forestry;
-
-&emsp;&emsp;(D) aquaculture (as defined in section 3103(3) of this title);
-
-&emsp;&emsp;(E) human nutrition;
-
-&emsp;&emsp;(F) production inputs, such as energy, to improve productivity; and
-
-&emsp;&emsp;(G) germ plasm collection and preservation.
+&emsp;The term “food and agricultural sciences” has the meaning given that term in section 3103(8) of this title.
 
 #### (4) Secretary
 
 &emsp;The term “Secretary” means the Secretary of Agriculture.
 
-#### (5) Task force
+(Pub. L. 88–74, §2, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1176; amended Pub. L. 107–171, title VII, §§7214, 7308(b), May 13, 2002, 116 Stat. 448, 455.)
 
-&emsp;The term “task force” means the Strategic Planning Task Force established under section 390b of this title.
+#### Amendments
 
-(Pub. L. 88–74, §2, as added Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1176.)
+2002—Par. (3). Pub. L. 107–171, §7214, reenacted heading without change and amended text of par. (3) generally. Prior to amendment, text read as follows: “The term ‘food and agricultural sciences’ means—
+
+&emsp;“(A) agriculture, including soil and water conservation and use, the use of organic materials to improve soil tilth and fertility, plant and animal production and protection, and plant and animal health;
+
+&emsp;“(B) the processing, distribution, marketing, and utilization of food and agricultural products;
+
+&emsp;“(C) forestry, including range management, production of forest and range products, multiple use of forests and rangelands, and urban forestry;
+
+&emsp;“(D) aquaculture (as defined in section 3103(3) of this title);
+
+&emsp;“(E) human nutrition;
+
+&emsp;“(F) production inputs, such as energy, to improve productivity; and
+
+&emsp;“(G) germ plasm collection and preservation.”
+
+Par. (5). Pub. L. 107–171, §7308(b), struck out heading and text of par. (5). Text read as follows: “The term ‘task force’ means the Strategic Planning Task Force established under section 390b of this title.”
 
 #### Prior Provisions
 
@@ -51,8 +53,4 @@ Section 884(b) of Pub. L. 104–127 provided that: “The amendment made by subs
 #### Short Title
 
 Section 1 of Pub. L. 88–74, as added by Pub. L. 104–127, title VIII, §884(a), Apr. 4, 1996, 110 Stat. 1176, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Research Facilities Act’.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 390b of this title.
 

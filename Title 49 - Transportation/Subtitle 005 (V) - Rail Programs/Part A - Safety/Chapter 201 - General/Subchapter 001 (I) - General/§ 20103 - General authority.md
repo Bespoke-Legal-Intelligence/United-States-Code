@@ -2,7 +2,7 @@
 
 (a)
 
-Regulations and Orders.—The Secretary of Transportation, as necessary, shall prescribe regulations and issue orders for every area of railroad safety supplementing laws and regulations in effect on October 16, 1970.
+Regulations and Orders.—The Secretary of Transportation, as necessary, shall prescribe regulations and issue orders for every area of railroad safety supplementing laws and regulations in effect on October 16, 1970. When prescribing a security regulation or issuing a security order that affects the safety of railroad operations, the Secretary of Homeland Security shall consult with the Secretary.
 
 (b)
 
@@ -24,7 +24,7 @@ Hearings.—The Secretary shall conduct a hearing as provided by section 553 of 
 
 Tourist Railroad Carriers.—In prescribing regulations that pertain to railroad safety that affect tourist, historic, scenic, or excursion railroad carriers, the Secretary of Transportation shall take into consideration any financial, operational, or other factors that may be unique to such railroad carriers. The Secretary shall submit a report to Congress not later than September 30, 1995, on actions taken under this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 863; Pub. L. 103–440, title II, §217, Nov. 2, 1994, 108 Stat. 4624.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 863; Pub. L. 103–440, title II, §217, Nov. 2, 1994, 108 Stat. 4624; Pub. L. 107–296, title XVII, §1710(b), Nov. 25, 2002, 116 Stat. 2319.)
 
 Historical and Revision Notes
 
@@ -70,7 +70,13 @@ In subsection (d), the words “after hearing in accordance with subsection (b) 
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–296 inserted at end “When prescribing a security regulation or issuing a security order that affects the safety of railroad operations, the Secretary of Homeland Security shall consult with the Secretary.”
+
 1994—Subsec. (f). Pub. L. 103–440 added subsec. (f).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Regulations
 

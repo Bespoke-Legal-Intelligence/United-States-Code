@@ -112,12 +112,15 @@
 | [1782\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001782%20-%20Counseling%2C%20training%2C%20and%20mental%20health%20services%20for%20immediate%20family%20members.md) | Counseling, training, and mental health services for immediate family members. |
 | [1783\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001783%20-%20Bereavement%20counseling.md) | Bereavement counseling. |
 | [1784\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001784%20-%20Humanitarian%20care.md) | Humanitarian care. |
+| [1785\.](Subchapter%20008%20%28VIII%29%20-%20Health%20Care%20of%20Persons%20Other%20Than%20Veterans/%C2%A7%2001785%20-%20Care%20and%20services%20during%20certain%20disasters%20and%20emergencies.md) | Care and services during certain disasters and emergencies. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-2002—Pub. L. 107–135, title II, §§201(b)(2), 208(f)(1), Jan. 23, 2002, 115 Stat. 2457, 2464, substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” in item 1707, struck out item 1713 “Medical care for survivors and dependents of certain veterans”, substituted “guide dogs; service dogs” for “seeing-eye dogs” in item 1714, and added item for subchapter VIII and items 1781 to 1784.
+2002—Pub. L. 107–287, §4(a)(2), Nov. 7, 2002, 116 Stat. 2029, added item 1785.
+
+Pub. L. 107–135, title II, §§201(b)(2), 208(f)(1), Jan. 23, 2002, 115 Stat. 2457, 2464, substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” in item 1707, struck out item 1713 “Medical care for survivors and dependents of certain veterans”, substituted “guide dogs; service dogs” for “seeing-eye dogs” in item 1714, and added item for subchapter VIII and items 1781 to 1784.
 
 2001—Pub. L. 107–95, §5(g)(1), Dec. 21, 2001, 115 Stat. 918, struck out subchapter VII heading “TREATMENT AND REHABILITATION FOR SERIOUSLY MENTALLY ILL AND HOMELESS VETERANS” and items 1771 “General treatment”, 1772 “Therapeutic housing”, 1773 “Additional services at certain locations”, and 1774 “Coordination with other agencies and organizations”.
 
@@ -139,7 +142,7 @@ Pub. L. 105–12, §9(i)(2), Apr. 30, 1997, 111 Stat. 27, added item 1707.
 
 1994—Pub. L. 103–452, title I, §101(f)(2)(B), Nov. 2, 1994, 108 Stat. 4784, substituted “and treatment” for “to women veterans” in item 1720D.
 
-1992—Pub. L. 102–585, title I, §102(a)(2), title V, §§512(b), 514(b), Nov. 4, 1992, 106 Stat. 4946, 4958, addeditems 1704 and 1720D and struck out subchapter VII heading “PREVENTIVE HEALTH-CARE SERVICES PILOT PROGRAM” and items 1761 “Purpose”, 1762 “Definition”, 1763 “Preventive health-care services”, and 1764 “Reports”.
+1992—Pub. L. 102–585, title I, §102(a)(2), title V, §§512(b), 514(b), Nov. 4, 1992, 106 Stat. 4946, 4958, added items 1704 and 1720D and struck out subchapter VII heading “PREVENTIVE HEALTH-CARE SERVICES PILOT PROGRAM” and items 1761 “Purpose”, 1762 “Definition”, 1763 “Preventive health-care services”, and 1764 “Reports”.
 
 1991—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 601 to 664 as 1701 to 1764, respectively.
 

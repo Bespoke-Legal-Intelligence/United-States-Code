@@ -58,5 +58,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1094, 1115 of this title.
+This section is referred to in sections 1094, 1115, 1141m of this title.
 

@@ -16,7 +16,7 @@ Amounts provided under a grant awarded under subsection (a) of this section shal
 
 &emsp;(4) improve the access of medically underserved populations to screening, counseling, testing and specialty services for newborns and children having or at risk for heritable disorders; or
 
-&emsp;(5) conduct such other activities as may be necessary to enable newborns and children having or at risk for heritable disorders to receive screening, counseling, testing or specialty services, regardless of income, race, color, religion, sex, national origin, age, or disability.
+&emsp;(5) conduct such other activities as may be necessary to enable newborns and children having or at risk for heritable disorders to receive screening, counseling, testing or specialty services, regardless of income, race,color, religion, sex, national origin, age, or disability.
 
 #### (c) Eligible entities
 

@@ -14,7 +14,7 @@
 
 &emsp;(B) knowingly selling, purchasing, or trading a drug or drug sample or knowingly offering to sell, purchase, or trade a drug or drug sample, in violation of section 353(c)(1) of this title,
 
-&emsp;(C) knowingly selling, purchasing, or trading a coupon, knowingly offering to sell, purchase,or trade such a coupon, or knowingly counterfeiting such a coupon, in violation of section 353(c)(2) of this title, or
+&emsp;(C) knowingly selling, purchasing, or trading a coupon, knowingly offering to sell, purchase, or trade such a coupon, or knowingly counterfeiting such a coupon, in violation of section 353(c)(2) of this title, or
 
 &emsp;(D) knowingly distributing drugs in violation of section 353(e)(2)(A) of this title,
 
@@ -46,7 +46,7 @@
 
 #### (c) Exceptions in certain cases of good faith, etc.
 
-No person shall be subject to the penalties of subsection (a)(1) of this section, (1) for having received in interstate commerce any article and delivered it or proffered delivery of it, if such delivery or proffer was made in good faith, unless he refuses to furnish on request of an officer or employee duly designated by the Secretary the name and address of the person from whom he purchased or received such article and copies of all documents, if any there be, pertaining to the delivery of the article to him; or (2) for having violated section 331(a) or (d) of this title, if he establishes a guaranty or undertaking signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the article, to the effect, in case of an alleged violation of section 331(a) of this title, that such article is not adulterated or misbranded, within the meaning of this chapter designating this chapter or to the effect, in case of an alleged violation of section 331(d) of this title, that such article is not an article which may not, under the provisions of section 344 or 355 of this title, be introduced into interstate commerce; or (3) for having violated section 331(a) of this title, where the violation exists because the article is adulterated by reason of containing a color additive not from a batch certified in accordance with regulations promulgated by the Secretary under this chapter, if such person establishes a guaranty or undertaking signed by, and containing the name and address of, the manufacturer of the color additive, to the effect that such color additive was from a batch certified in accordance with the applicable regulations promulgated by the Secretary under this chapter; or (4) for having violated section 331(b), (c) or (k) of this title by failure to comply with section 352(f) of this titlein respect to an article received in interstate commerce to which neither section 353(a) nor 353(b)(1) of this title is applicable, if the delivery or proffered delivery was made in good faith and the labeling at the time thereof contained the same directions for use and warning statements as were contained in the labeling at the time of such receipt of such article; or (5) for having violated section 331(i)(2) of this title if such person acted in good faith and had no reason to believe that use of the punch, die, plate, stone, or other thing involved would result in a drug being a counterfeit drug, or for having violated section 331(i)(3) of this title if the person doing the act or causing it to be done acted in good faith and had no reason to believe that the drug was a counterfeit drug.
+No person shall be subject to the penalties of subsection (a)(1) of this section, (1) for having received in interstate commerce any article and delivered it or proffered delivery of it, if such delivery or proffer was made in good faith, unless he refuses to furnish on request of an officer or employee duly designated by the Secretary the name and address of the person from whom he purchased or received such article and copies of all documents, if any there be, pertaining to the delivery of the article to him; or (2) for having violated section 331(a) or (d) of this title, if he establishes a guaranty or undertaking signed by, and containing the name and address of, the person residing in the United States from whom he received in good faith the article, to the effect, in case of an alleged violation of section 331(a) of this title, that such article is not adulterated or misbranded, within the meaning of this chapter designating this chapter or to the effect, in case of an alleged violation of section 331(d) of this title, that such article is not an article which may not, under the provisions of section 344 or 355 of this title, be introduced into interstate commerce; or (3) for having violated section 331(a) of this title, where the violation exists because the article is adulterated by reason of containing a color additive not from a batch certified in accordance with regulations promulgated by the Secretary under this chapter, if such person establishes a guaranty or undertaking signed by, and containing the name and address of, the manufacturer of the color additive, to the effect that such color additive was from a batch certified in accordance with the applicable regulations promulgated by the Secretary under this chapter; or (4) for having violated section 331(b), (c) or (k) of this title by failure to comply with section 352(f) of this title in respect to an article received in interstate commerce to which neither section 353(a) nor 353(b)(1) of this title is applicable, if the delivery or proffered delivery was made in good faith and the labeling at the time thereof contained the same directions for use and warning statements as were contained in the labeling at the time of such receipt of such article; or (5) for having violated section 331(i)(2) of this title if such person acted in good faith and had no reason to believe that use of the punch, die, plate, stone, or other thing involved would result in a drug being a counterfeit drug, or for having violated section 331(i)(3) of this title if the person doing the act or causing it to be done acted in good faith and had no reason to believe that the drug was a counterfeit drug.
 
 #### (d) Exceptions involving misbranded food
 
@@ -64,9 +64,11 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 (5) The Drug Enforcement Administration is authorized to investigate offenses punishable by this subsection.
 
-#### (f) Violations related to devices
+#### (f) Redesignated (g)
 
-(1)(A) Except as provided in subparagraph (B), any person who violates a requirement of this chapter which relates to devices shall be liable to the United States for a civil penalty in an amount not to exceed $15,000 for each such violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding.
+#### (g) Violations related to devices
+
+(1)(A) Except as provided in subparagraph (B), any person who violates a requirement of this chapter which relates to devices shall be liable to the United States for a civil penalty in an amount not to exceed $15,000 for each such violation, and not to exceed $1,000,000 for all such violations adjudicated in a single proceeding. For purposes of the preceding sentence, a person accredited under paragraph (2) of section 374(g) of this title who is substantially not in compliance with the standards of accreditation under such section, or who poses a threat to public health or fails to act in a manner that is consistent with the purposes of such section, shall be considered to have violated a requirement of this chapter that relates to devices.
 
 (B) Subparagraph (A) shall not apply—
 
@@ -88,7 +90,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 (C) The Secretary may compromise, modify, or remit, with or without conditions, any civil penalty which may be assessed under paragraph (1) or (2). The amount of such penalty, when finally determined, or the amount agreed upon in compromise, may be deducted from any sums owing by the United States to the person charged.
 
-(4) Any person who requested, in accordance with paragraph (3)(A), a hearing respecting theassessment of a civil penalty and who is aggrieved by an order assessing a civil penalty may file a petition for judicial review of such order with the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 60-day period beginning on the date the order making such assessment was issued.
+(4) Any person who requested, in accordance with paragraph (3)(A), a hearing respecting the assessment of a civil penalty and who is aggrieved by an order assessing a civil penalty may file a petition for judicial review of such order with the United States Court of Appeals for the District of Columbia Circuit or for any other circuit in which such person resides or transacts business. Such a petition may only be filed within the 60-day period beginning on the date the order making such assessment was issued.
 
 (5) If any person fails to pay an assessment of a civil penalty—
 
@@ -98,7 +100,7 @@ No person shall be subject to the penalties of subsection (a)(1) of this section
 
 > the Attorney General shall recover the amount assessed (plus interest at currently prevailing rates from the date of the expiration of the 60-day period referred to in paragraph (4) or the date of such final judgment, as the case may be) in an action brought in any appropriate district court of the United States. In such an action, the validity, amount, and appropriateness of such penalty shall not be subject to review.
 
-(June 25, 1938, ch. 675, §303, 52 Stat. 1043; Oct. 26, 1951, ch. 578, §2, 65 Stat. 649; Pub. L. 86–618, title I, §105(b), July 12, 1960, 74 Stat. 403; Pub. L. 89–74, §§7, 9(d), July 15, 1965, 79 Stat. 233, 235; Pub. L. 90–639, §3, Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(b), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 94–278, title V, §502(a)(2)(B), Apr. 22, 1976, 90 Stat. 411; Pub. L. 100–293, §7(b), Apr. 22, 1988, 102 Stat. 99; Pub. L. 100–690, title II, §2403, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 101–629, §17(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 101–647, title XIX, §1904, Nov. 29, 1990, 104 Stat. 4853; Pub. L. 102–353, §3, Aug. 26, 1992, 106 Stat. 941; Pub. L. 103–80, §3(e), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–322, title XXXIII, §330015, Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–170, title IV, §407, Aug. 3, 1996, 110 Stat. 1535; Pub. L. 106–387, §1(a) \[title VII, §745(d)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40.)
+(June 25, 1938, ch. 675, §303, 52 Stat. 1043; Oct. 26, 1951, ch. 578, §2, 65 Stat. 649; Pub. L. 86–618, title I, §105(b), July 12, 1960, 74 Stat. 403; Pub. L. 89–74, §§7, 9(d), July 15, 1965, 79 Stat. 233, 235; Pub. L. 90–639, §3, Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(b), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 94–278, title V, §502(a)(2)(B), Apr. 22, 1976, 90 Stat. 411; Pub. L. 100–293, §7(b), Apr. 22, 1988, 102 Stat. 99; Pub. L. 100–690, title II, §2403, Nov. 18, 1988, 102 Stat. 4230; Pub. L. 101–629, §17(a), Nov. 28, 1990, 104 Stat. 4526; Pub. L. 101–647, title XIX, §1904, Nov. 29, 1990, 104 Stat. 4853; Pub. L. 102–353, §3, Aug. 26, 1992, 106 Stat. 941; Pub. L. 103–80, §3(e), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–322, title XXXIII, §330015, Sept. 13, 1994, 108 Stat. 2146; Pub. L. 104–170, title IV, §407, Aug. 3, 1996, 110 Stat. 1535; Pub. L. 106–387, §1(a) \[title VII, §745(d)(2)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–40; Pub. L. 107–250, title II, §201(c), Oct. 26, 2002, 116 Stat. 1609.)
 
 #### References in Text
 
@@ -106,21 +108,21 @@ The Controlled Substances Act, referred to in subsec. (e)(3), is title II of Pub
 
 #### Amendments
 
+2002—Subsec. (g)(1)(A). Pub. L. 107–250 inserted at end “For purposes of the preceding sentence, a person accredited under paragraph (2) of section 374(g) of this title who is substantially not in compliance with the standards of accreditation under such section, or who poses a threat to public health or fails to act in a manner that is consistent with the purposes of such section, shall be considered to have violated a requirement of this chapter that relates to devices.”
+
 2000—Subsec. (b)(6). Pub. L. 106–387 added par. (6).
 
-1996—Subsec. (f). Pub. L. 104–170, §407, which directed amendment of “Section 303(g) (21 U.S.C. 333(f))”, was executed to subsec. (f) of this section as follows, to reflect the probable intent of Congress:
+1996—Subsec. (g)(2). Pub. L. 104–170, §407(1), (2), added par. (2). Former par. (2) redesignated (3).
 
-Subsec. (f)(2). Pub. L. 104–170, §407(1), (2), added par. (2). Former par. (2) redesignated (3).
+Subsec. (g)(3). Pub. L. 104–170, §407(1), (3), redesignated par. (2) as (3) and substituted “paragraph (1) or (2)” for “paragraph (1)” in subpars. (A) and (C). Former par. (3) redesignated (4).
 
-Subsec. (f)(3). Pub. L. 104–170, §407(1), (3), redesignated par. (2) as (3) and substituted “paragraph (1) or (2)” for “paragraph (1)” in subpars. (A) and (C). Former par. (3) redesignated (4).
+Subsec. (g)(4). Pub. L. 104–170, §407(1), (4), redesignated par. (3) as (4) and substituted “paragraph (3)(A)” for “paragraph (2)(A)”. Former par. (4) redesignated (5).
 
-Subsec. (f)(4). Pub. L. 104–170, §407(1), (4), redesignated par. (3) as (4) and substituted “paragraph (3)(A)” for “paragraph (2)(A)”. Former par. (4) redesignated (5).
-
-Subsec. (f)(5). Pub. L. 104–170, §407(1), (5), redesignated par. (4) as (5) and substituted “paragraph (4)” for “paragraph (3)” wherever appearing.
+Subsec. (g)(5). Pub. L. 104–170, §407(1), (5), redesignated par. (4) as (5) and substituted “paragraph (4)” for “paragraph (3)” wherever appearing.
 
 1994—Subsec. (e). Pub. L. 103–322 amended directory language of Pub. L. 101–647. See 1990 Amendment note below.
 
-1993—Subsecs. (e) to (g). Pub. L. 103–80, which directed the amendment of this section by redesignating the second subsec. (e) and subsec. (f) as subsecs. (f) and (g), respectively, could not be executed because this section did not contain a second subsec. (e) subsequent to amendment of Pub. L. 101–647 by Pub. L. 103–322. See 1990 and 1994 amendment notes for subsec. (e) under this section.
+1993—Subsecs. (e) to (g). Pub. L. 103–80, which directed the amendment of this section by redesignating the second subsec. (e) and subsec. (f) as subsecs. (f) and (g), respectively, could only be executed by designating subsec. (f) as (g) because this section did not contain a second subsec. (e) subsequent to amendment of Pub. L. 101–647 by Pub. L. 103–322. See 1990 and 1994 amendment notes for subsec. (e) under this section.
 
 1992—Subsec. (b)(1). Pub. L. 102–353, §3(a), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “Notwithstanding subsection (a) of this section, any person who violates section 331(t) of this title because of an importation of a drug in violation of section 381(d)(1) of this title, because of a sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, because of the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, or the distribution of drugs in violation of section 353(e)(2)(A) of this title shall be imprisoned for not more than 10 years or fined not more than $250,000, or both.”
 
@@ -150,7 +152,7 @@ Subsec. (e). Pub. L. 100–690 added subsec. (e).
 
 1970—Subsec. (a). Pub. L. 91–513 struck out reference to subsec. (b) and transferred to subsec. (b) provisions covering second offenses and offenses committed with intent to defraud or mislead.
 
-Subsec. (b). Pub. L. 91–513 inserted provisions covering second offenses and offenses committed with intent to defraud or mislead formerly set out in subsec. (a)and struck out provisions covering violations involving depressant and stimulant drugs. See section 801 et seq. of this title.
+Subsec. (b). Pub. L. 91–513 inserted provisions covering second offenses and offenses committed with intent to defraud or mislead formerly set out in subsec. (a) and struck out provisions covering violations involving depressant and stimulant drugs. See section 801 et seq. of this title.
 
 1968—Subsecs. (a), (b). Pub. L. 90–639 made a general revision in the penalties prescribed for offenses involving depressant or stimulant drugs, set a fine of not to exceed $10,000 or imprisonment of not more than 5 years for offenses involving the unlawful manufacturing of, sale, or disposal of, or possession with intent to sell, a depressant or stimulant drug or involving counterfeit depressant or stimulant drugs, stiffened the penalties for unlawful sales or other disposals by persons over 18 to persons under 21, and set new penalties for possession of a depressant or stimulant drug for purposes other than sale or other disposal.
 

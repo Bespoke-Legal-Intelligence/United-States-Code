@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(C) the employee has been ordered by a court to contribute to his support;
 
-&emsp;(3) an unmarried child, while living with the employee or receiving regular contributionsfrom the employee toward his support, and who is—
+&emsp;(3) an unmarried child, while living with the employee or receiving regular contributions from the employee toward his support, and who is—
 
 &emsp;&emsp;(A) under 18 years of age; or
 

@@ -26,7 +26,7 @@ Section 2511 of this title, referred to in subsec. (b), was repealed by Pub. L. 
 
 Subsec. (b). Pub. L. 91–352, §6(b), substituted “sections 3323(b) and 8344 of title 5” and “section 5532 of title 5” for “section 2263 of title 5” and “section 3102 of title 5”, respectively.
 
-1964—Subsec. (b). Pub. L. 88–448 struck out provisions providing that such service shall not be considered as employment or holding of office or position bringingsuch individual within the provisions of section 59a of title 5, and inserted “, subject to section 3102 of title 5”.
+1964—Subsec. (b). Pub. L. 88–448 struck out provisions providing that such service shall not be considered as employment or holding of office or position bringing such individual within the provisions of section 59a of title 5, and inserted “, subject to section 3102 of title 5”.
 
 1963—Subsec. (a). Pub. L. 88–200, §6(a), substituted “President” for “Peace Corps”.
 

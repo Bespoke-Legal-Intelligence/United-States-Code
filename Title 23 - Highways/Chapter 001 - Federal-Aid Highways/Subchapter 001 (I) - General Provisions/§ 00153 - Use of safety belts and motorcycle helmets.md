@@ -134,7 +134,7 @@ Authorization of Appropriations.—There is authorized to be appropriated out of
 
 Applicability of Chapter 1
 
-Provisions.—All provisions of this chapter that are applicable to National Highway System funds, other than provisions relating to the apportionment formula and provisions limiting the expenditures of such funds to Federal-aid systems, shall apply to funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that sums authorized by this section shall remain available until expended.
+Provisions.—All provisions of this chapter that are applicable to National Highway System funds, other than provisions relating to the apportionment formula and provisions limiting the expenditures of such funds to Federal-aid systems, shall apply to funds authorized to be appropriated to carry out this section, except as determined by theSecretary to be inconsistent with this section and except that sums authorized by this section shall remain available until expended.
 
 (Added Pub. L. 102–240, title I, §1031(a)(1), Dec. 18, 1991, 105 Stat. 1970; amended Pub. L. 104–59, title II, §205(e), Nov. 28, 1995, 109 Stat. 577.)
 
@@ -146,7 +146,7 @@ Section 154 of this title, referred to in subsec. (i)(2), was repealed by Pub. L
 
 #### Prior Provisions
 
-A prior section 153, added Pub. L. 93–87, title II, §210(a), Aug. 13, 1973, 87 Stat. 287; amended Pub. L.94–280, title I, §131, May 5, 1976, 90 Stat. 441, related to a program for the elimination of roadside obstacles, prior to repeal by Pub. L. 95–599, title I, §168(b), Nov. 6, 1978, 92 Stat. 2723.
+A prior section 153, added Pub. L. 93–87, title II, §210(a), Aug. 13, 1973, 87 Stat. 287; amended Pub. L. 94–280, title I, §131, May 5, 1976, 90 Stat. 441, related to a program for the elimination of roadside obstacles, prior to repeal by Pub. L. 95–599, title I, §168(b), Nov. 6, 1978, 92 Stat. 2723.
 
 #### Amendments
 

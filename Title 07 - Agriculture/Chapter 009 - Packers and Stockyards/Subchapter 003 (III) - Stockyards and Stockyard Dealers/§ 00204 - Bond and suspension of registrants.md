@@ -6,7 +6,7 @@ On and after July 12, 1943, the Secretary may require reasonable bonds from ever
 
 #### Codification
 
-Section was enacted as part of the Department of Agriculture Appropriation Act, 1944, act July 12, 1943, and not as part of the Packers and Stockyards Act which comprises this chapter.
+Section was enacted as part of the Department of Agriculture Appropriation Act, 1944, act July 12, 1943, and not as part of the Packers and Stockyards Act, 1921, which comprises this chapter.
 
 #### Amendments
 

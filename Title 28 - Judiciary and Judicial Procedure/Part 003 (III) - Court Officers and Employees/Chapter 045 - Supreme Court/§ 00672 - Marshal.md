@@ -42,9 +42,9 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1982</b>—Subsec. (c)(8). Pub. L. 97–390 added par. (8).
+1982—Subsec. (c)(8). Pub. L. 97–390 added par. (8).
 
-<b>1964</b>—Subsec. (c)(6). Pub. L. 88–279, §2(a), struck out “except the clerk, his deputies and employees,” after “employees of the Court”.
+1964—Subsec. (c)(6). Pub. L. 88–279, §2(a), struck out “except the clerk, his deputies and employees,” after “employees of the Court”.
 
 Subsec. (c)(7). Pub. L. 88–279, §2(b), added par. (7).
 

@@ -18,7 +18,7 @@
 
 &emsp;(6) the term “United States” means the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, American Samoa, Guam, the Commonwealth of the Northern Mariana Islands, and the Trust Territory of the Pacific Islands; and
 
-&emsp;(7) the term “antitrust laws” means the antitrust laws as defined in section 12(a) of this title, section 45 of this title to the extent that section 45 of this title applies to unfairmethods of competition, and any State antitrust or unfair competition law.
+&emsp;(7) the term “antitrust laws” means the antitrust laws as defined in section 12(a) of this title, section 45 of this title to the extent that section 45 of this title applies to unfair methods of competition, and any State antitrust or unfair competition law.
 
 (b) The Secretary of Commerce may by regulation further define any term defined in subsection (a) of this section, in order to carry out this subchapter.
 

@@ -76,7 +76,7 @@ In subsec. (b)(9), “section 3324(a) and (b) of title 31” substituted for ref
 
 Subsec. (b). Pub. L. 102–321, §122(b)(1), (2)(A), transferred subsec. (b) of section 290bb of this title to subsec. (b) of this section, substituted “(b)
 
-Research Program.—The research program established under thissubpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economic consequences of alcohol abuse and alcoholism. In carrying out the program, the Director of the Institute is authorized” for “(b) In carrying out the program described in subsection (a) of this section, the Secretary, acting through the Institute, is authorized” in introductory provisions, and substituted a semicolon for period at end of par. (3)(H).
+Research Program.—The research program established under this subpart shall encompass the social, behavioral, and biomedical etiology, mental and physical health consequences, and social and economic consequences of alcohol abuse and alcoholism. In carrying out the program, the Director of the Institute is authorized” for “(b) In carrying out the program described in subsection (a) of this section, the Secretary, acting through the Institute, is authorized” in introductory provisions, and substituted a semicolon for period at end of par. (3)(H).
 
 Subsecs. (c), (d). Pub. L. 102–321, §122(b)(2)(B), added subsecs. (c) and (d).
 

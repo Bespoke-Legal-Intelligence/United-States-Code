@@ -58,7 +58,3 @@ In subsection (b), the words “appropriation for the specified amount” are su
 
 The First Liberty Bond Act, referred to in subsec. (a)(3), is act Apr. 24, 1917, ch. 4, 40 Stat. 35, which enacted sections 746, 755, 755a, 759, 764, 774, and 804 of former Title 31 and section 462a of Title 12, Banks and Banking, and amended sections 745 and 768 of former Title 31, and was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1072.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 723.
-

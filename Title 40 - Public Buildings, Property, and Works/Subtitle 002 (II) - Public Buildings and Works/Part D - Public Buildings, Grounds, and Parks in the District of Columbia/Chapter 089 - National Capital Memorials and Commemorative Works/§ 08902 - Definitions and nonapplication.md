@@ -1,0 +1,64 @@
+### §8902. Definitions and nonapplication
+
+(a)
+
+Definitions.—In this chapter, the following definitions apply:
+
+&emsp;(1)
+
+Commemorative work.—The term “commemorative work”—
+
+&emsp;&emsp;(A) means any statue, monument, sculpture, memorial, plaque, inscription, or other structure or landscape feature, including a garden or memorial grove, designed to perpetuate in a permanent manner the memory of an individual, group, event or other significant element of American history; but
+
+&emsp;&emsp;(B) does not include an item described in subclause (A) that is located within the interior of a structure or a structure which is primarily used for other purposes.
+
+&emsp;(2)
+
+Person.—The term “person” means—
+
+&emsp;&emsp;(A) a public agency; and
+
+&emsp;&emsp;(B) an individual, group or organization—
+
+&emsp;&emsp;&emsp;(i) described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)(3)) and exempt from tax under section 501(a) of the Code (26 U.S.C. 501(a)); and
+
+&emsp;&emsp;&emsp;(ii) authorized by Congress to establish a commemorative work in the District of Columbia and its environs.
+
+&emsp;(3)
+
+The district of columbia and its environs.—The term “the District of Columbia and its environs” means land and property located in Areas I and II as depicted on the map numbered 869/86501, and dated May 1, 1986, that the National Park Service and the Administrator of General Services administer.
+
+(b)
+
+Nonapplication.—This chapter does not apply to commemorative works authorized by a law enacted before January 3, 1985.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1227.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8902(a)
+
+40:1002.
+
+Pub. L. 99–652, §2, Nov. 14, 1986, 100 Stat. 3650; Pub. L. 103–321, §2(a), Aug. 26, 1994, 108 Stat. 1793.
+
+8902(b)
+
+40:1010(e).
+
+Pub. L. 99–652, §10(e), Nov. 14, 1986, 100 Stat. 3654.
+
+In subsection (a), the text of 40:1002(a) and (b) is omitted as unnecessary because the complete names of the Secretary of the Interior and the Administrator of General Services are used the first time the terms appear in a section.
+
+In subsection (a)(3), the words “notwithstanding any other provision of law” are omitted as unnecessary. The words “Administrator of General Services” are substituted for “General Services Administration” because of section 101(b) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 379), which is restated as section 302(a) of the revised title.
+
+In subsection (b), the words “January 3, 1985” are substituted for “the commencement of the Ninety-ninth Congress” for clarity.
+

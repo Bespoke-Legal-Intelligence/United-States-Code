@@ -1,6 +1,0 @@
-### §305. Violations, penalties
-
-Any person, including the owners or operators of carriers, violating the provisions of this chapter, or any rule, regulation, or order issued thereunder, except as provided in section 304 above, shall be liable to a penalty not to exceed $1,000 in addition to any other penalty imposed by law. The amount of any such penalty shall be payable into the Treasury of the United States and shall be recoverable in a civil suit in the name of the United States.
-
-(Added Pub. L. 87–826, §2, Oct. 15, 1962, 76 Stat. 952.)
-

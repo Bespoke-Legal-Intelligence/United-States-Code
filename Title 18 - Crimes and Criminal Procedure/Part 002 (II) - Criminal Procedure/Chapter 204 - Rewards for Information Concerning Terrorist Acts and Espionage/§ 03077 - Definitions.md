@@ -34,7 +34,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(B) section 4 of the Subversive Activities Control Act of 1950.
 
-(Added Pub. L. 98–533, title I, §101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 100–690, titleVII, §7051, Nov. 18, 1988, 102 Stat. 4401; Pub. L. 101–647, title XXXV, §3572, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 103–359, title VIII, §803(b), Oct. 14, 1994, 108 Stat. 3439; Pub. L. 104–294, title VI, §605(g), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 107–56, title VIII, §802(b), Oct. 26, 2001, 115 Stat. 376.)
+(Added Pub. L. 98–533, title I, §101(a), Oct. 19, 1984, 98 Stat. 2707; amended Pub. L. 100–690, title VII, §7051, Nov. 18, 1988, 102 Stat. 4401; Pub. L. 101–647, title XXXV, §3572, Nov. 29, 1990, 104 Stat. 4929; Pub. L. 103–322, title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 2150; Pub. L. 103–359, title VIII, §803(b), Oct. 14, 1994, 108 Stat. 3439; Pub. L. 104–294, title VI, §605(g), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 107–56, title VIII, §802(b), Oct. 26, 2001, 115 Stat. 376.)
 
 #### References in Text
 
@@ -70,5 +70,5 @@ Par. (8). Pub. L. 103–359 added par. (8).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1957 of this title.
+This section is referred to in section 1957 of this title; title 49 section 44941.
 

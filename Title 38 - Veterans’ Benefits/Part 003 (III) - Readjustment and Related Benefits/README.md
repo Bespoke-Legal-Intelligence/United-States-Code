@@ -44,7 +44,7 @@ Pub. L. 97–295, §4(35)(B), Oct. 12, 1982, 96 Stat. 1307, substituted “1651�
 
 Pub. L. 93–508, title IV, §404(b), Dec. 3, 1974, 88 Stat. 1600, added item for chapter 43.
 
-1972—Pub. L. 92–540, title V, §§502(b), 503(b), Oct. 24, 1972, 86 Stat. 1097, 1098, substituted “, Training and” for “and Employment” in item for chapter 41 and added item for chapter 42.
+1972—Pub. L. 92–540, title V, §§502(b), 503(b), Oct. 24, 1972, 86 Stat. 1097, 1098, substituted “, Training and” for “and Employment” in item for chapter 41 and added item for chapter 42.
 
 1971—Pub. L. 91–666, §2(b), Jan. 11, 1971, 84 Stat. 2000, substituted “Automobiles and Adaptive Equipment for Certain Disabled Veterans and Members of the Armed Forces” for “Automobiles for Disabled Veterans” in item for chapter 39.
 

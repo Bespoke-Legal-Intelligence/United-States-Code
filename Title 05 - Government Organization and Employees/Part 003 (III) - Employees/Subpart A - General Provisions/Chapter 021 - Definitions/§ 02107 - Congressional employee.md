@@ -66,5 +66,5 @@ Amendment by Pub. L. 91–510 effective immediately prior to noon on June. 3, 19
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5531, 8331, 8401, 8701, 8901 of this title; title 2 section 31b–5; title 22 section 3008; title 26 section 7448; title 31 section 774; title 38 section 7297.
+This section is referred to in sections 5531, 8331, 8401, 8701, 8901 of this title; title 2 section 31b–5; title 22 sections 3008, 6918; title 26 section 7448; title 31 section 774; title 38 section 7297.
 

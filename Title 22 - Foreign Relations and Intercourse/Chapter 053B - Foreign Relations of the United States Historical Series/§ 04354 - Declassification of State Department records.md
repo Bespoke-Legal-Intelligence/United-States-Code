@@ -30,19 +30,33 @@ Subsection (a) of this section shall not apply to any record (or portion thereof
 
 (2) In the event that the Secretary of State considers it necessary to deny access to records under paragraph (1)(C), the Secretary shall notify the Advisory Committee in writing, describing the nature of the records in question and the justification for withholding them.
 
-#### (d) Reporting requirement
+#### (d) Annual reports by the Advisory Committee
 
-The Advisory Committee shall annually submit to the Secretary of State a report setting forth its findings from the review conducted under subsection (c) of this section.
+The Advisory Committee shall annually submit to the Secretary of State and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives a report setting forth its findings from the review conducted under subsection (c) of this section.
 
-#### (e) Report to Congress
+#### (e) Annual reports by the Secretary
 
-Not later than 180 days after October 28, 1991, the Secretary of State shall prepare and submit a written report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on factors relevant to compliance with this section, and the procedures to be used for implementing the requirements of this section.
+#### (1) In general
 
-(Aug. 1, 1956, ch. 841, title IV, §404, as added Pub. L. 102–138, title I, §198(a), Oct. 28, 1991, 105 Stat. 687.)
+&emsp;Not later than March 1 of each year, the Secretary shall submit a report to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives on the compliance of the Department of State with the provisions of this chapter, including—
 
-#### Change of Name
+&emsp;&emsp;(A) the volumes published in the previous calendar year;
 
-Committee on Foreign Affairs of House of Representatives treated as referring to Committee on International Relations of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+&emsp;&emsp;(B) the degree to which the Department is not in compliance with the deadline set forth in section 4351(c) of this title; and
+
+&emsp;&emsp;(C) the factors relevant to the inability of the Department to comply with the provisions of this chapter, including section 4351(c) of this title.
+
+#### (2) Form of reports
+
+&emsp;Each report required to be submitted by paragraph (1) shall be submitted in unclassified form, together with a classified annex if necessary.
+
+(Aug. 1, 1956, ch. 841, title IV, §404, as added Pub. L. 102–138, title I, §198(a), Oct. 28, 1991, 105 Stat. 687; amended Pub. L. 107–228, div. A, title II, §205, Sept. 30, 2002, 116 Stat. 1363.)
+
+#### Amendments
+
+2002—Subsec. (d). Pub. L. 107–228, §205(a), substituted “Annual reports by the Advisory Committee” for “Reporting requirement” in heading and inserted “and to the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives” after “Secretary of State” in text.
+
+Subsec. (e). Pub. L. 107–228, §205(b), substituted “Annual reports by the Secretary” for “Report to Congress” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than 180 days after October 28, 1991, the Secretary of State shall prepare and submit a written report to the Committee on Foreign Affairs of the House of Representatives and the Committee on Foreign Relations of the Senate on factors relevant to compliance with this section, and the procedures to be used for implementing the requirements of this section.”
 
 #### Compliance With Declassification of State Department Records; Notification to Congressional Committees on Inability To Comply; Final Deadline
 

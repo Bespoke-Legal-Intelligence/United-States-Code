@@ -10,7 +10,7 @@ If the petitioner, or any other person, organization, or group found by the Secr
 
 #### (c) Certification
 
-(1) The Secretary shall certify a firm (including any agricultural firm) as eligible to applyfor adjustment assistance under this part if the Secretary determines—
+(1) The Secretary shall certify a firm (including any agricultural firm) as eligible to apply for adjustment assistance under this part if the Secretary determines—
 
 &emsp;(A) that a significant number or proportion of the workers in such firm have become totally or partially separated, or are threatened to become totally or partially separated,
 
@@ -60,7 +60,7 @@ Subsec. (c)(2). Pub. L. 99–272, §13002(b)(2), amended par. (2) generally, des
 
 #### Termination Date
 
-No technical assistance to be provided under this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No technical assistance to be provided under this part after Sept. 30, 2007, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Section Referred to in Other Sections
 

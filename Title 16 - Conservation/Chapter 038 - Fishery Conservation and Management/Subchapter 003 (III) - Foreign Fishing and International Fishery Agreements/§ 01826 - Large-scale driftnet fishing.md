@@ -40,7 +40,7 @@ The Secretary, through the Secretary of State and the Secretary of the departmen
 
 &emsp;(2) each large-scale driftnet fishing vessel of a foreign nation that is party to the agreement, which operates beyond the exclusive economic zone of any nation, is equipped with satellite transmitters which provide real-time position information accessible to the United States;
 
-&emsp;(3) statistically reliable monitoring by the United States is carried out, through the useof on-board observers or through dedicated platforms provided by foreign nations that are parties to the agreement, of all target and nontarget fish species, marine mammals, sea turtles, and sea birds entangled or killed by large-scale driftnets used by fishing vessels of foreign nations that are parties to the agreement;
+&emsp;(3) statistically reliable monitoring by the United States is carried out, through the use of on-board observers or through dedicated platforms provided by foreign nations that are parties to the agreement, of all target and nontarget fish species, marine mammals, sea turtles, and sea birds entangled or killed by large-scale driftnets used by fishing vessels of foreign nations that are parties to the agreement;
 
 &emsp;(4) officials of the United States have the right to board and inspect for violations of the agreement any large-scale driftnet fishing vessels operating under the flag of a foreign nation that is party to the agreement at any time while such vessel is operating in designated areas beyond the exclusive economic zone of any nation;
 
@@ -80,7 +80,7 @@ This section shall not serve or be construed to expand or diminish the sovereign
 
 As used in this section, the term “living marine resources” includes fish, marine mammals, sea turtles, and seabirds and other waterfowl.
 
-(Pub. L. 94–265, title II, §206, as added Pub. L. 95–6, §3(1), Feb. 21, 1977, 91 Stat. 15; amended Pub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §107(a), Nov. 28, 1990, 104 Stat. 4441; Pub. L. 104–297, title I, §105(f), Oct. 11, 1996, 110 Stat. 3569.)
+(Pub. L. 94–265, title II, §206, as added Pub. L. 95–6, §3(1), Feb. 21, 1977, 91 Stat. 15; amended Pub. L. 99–659, title I, §101(c)(2), Nov. 14, 1986, 100 Stat. 3707; Pub. L. 101–627, title I, §107(a), Nov.28, 1990, 104 Stat. 4441; Pub. L. 104–297, title I, §105(f), Oct. 11, 1996, 110 Stat. 3569.)
 
 #### References in Text
 
@@ -102,7 +102,11 @@ Subsec. (f). Pub. L. 104–297, §105(f)(2), substituted “subsection (e)(4) of
 
 1986—Subsec. (b). Pub. L. 99–659 substituted “exclusive economic zone” for “fishery conservation zone”.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Abolition of House Committee on Merchant Marine and Fisheries
 
-Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdictiontransferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Merchant Marine and Fisheries of House of Representatives abolished and its jurisdiction transferred by House Resolution No. 6, One Hundred Fourth Congress, Jan. 4, 1995. Committee on Merchant Marine and Fisheries of House of Representatives treated as referring to Committee on Resources of House of Representatives in case of provisions relating to fisheries, wildlife, international fishing agreements, marine affairs (including coastal zone management) except for measures relating to oil and other pollution of navigable waters, or oceanography by section 1(b)(3) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 

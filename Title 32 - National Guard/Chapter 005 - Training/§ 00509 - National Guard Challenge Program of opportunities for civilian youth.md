@@ -130,13 +130,15 @@ Regulations.—The Secretary of Defense shall prescribe regulations to carry out
 
 &emsp;(7) The procedures to be used by the Secretary when communicating with States about the program.
 
-(Added Pub. L. 105–85, div. A, title X, §1076(a), Nov. 18, 1997, 111 Stat. 1911; amended Pub. L. 106–65, div. A, title V, §579, Oct. 5, 1999, 113 Stat. 631; Pub. L. 106–246, div. B, title I, §120, July 13, 2000, 114 Stat. 533; Pub. L. 106–398, §1 \[\[div. A\], title V, §577(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–140; Pub. L. 107–107, div. A, title V, §596(a), Dec. 28, 2001, 115 Stat. 1126.)
+(Added Pub. L. 105–85, div. A, title X, §1076(a), Nov. 18, 1997, 111 Stat. 1911; amended Pub. L. 106–65, div. A, title V, §579, Oct. 5, 1999, 113 Stat. 631; Pub. L. 106–246, div. B, title I, §120, July 13, 2000, 114 Stat. 533; Pub. L. 106–398, §1 \[\[div. A\], title V, §577(a)–(c)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–140; Pub. L. 107–107, div. A, title V, §596(a), Dec. 28, 2001, 115 Stat. 1126; Pub. L. 107–314, div. A, title X, §1062(g)(1), Dec. 2, 2002, 116 Stat. 2651.)
 
 #### References in Text
 
 The National and Community Service Act of 1990, referred to in subsec. (f)(2), is Pub. L. 101–610, Nov. 16, 1990, 104 Stat. 3127, as amended. Subtitle E of title I of the Act is classified generally to division E (§12611 et seq.) of subchapter I of chapter 129 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12501 of Title 42 and Tables.
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–314 amended Pub. L. 106–398, §577(b)(2). See 2000 Amendment note below.
 
 2001—Subsec. (b)(2)(A). Pub. L. 107–107, §596(a)(1), substituted “in fiscal year 2001 or 2002” for “in a fiscal year”.
 
@@ -146,7 +148,7 @@ Subsec. (b)(4). Pub. L. 107–107, §596(a)(2), added par. (4).
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title V, §577(b)(1), (3)\], inserted “(1)” before “The Secretary of Defense” and added pars. (2) and (3).
 
-Pub. L. 106–398, §1 \[\[div. A\], title V, §577(b)(2)\], which directed amendment of subsec. (b) by striking “, except that Federal expenditures under the program may not exceed $62,500,000 for any fiscal year”, was executed by striking “, except that Department of Defense expenditures under the program may not exceed $62,500,000 for any fiscal year”, to reflect the probable intent of Congress and the amendment by Pub. L. 106–246. See below.
+Pub. L. 106–398, §1 \[\[div. A\], title V, §577(b)(2)\], as amended by Pub. L. 107–314, struck out “, except that Department of Defense expenditures under the program may not exceed $62,500,000 for any fiscal year” before period at end.
 
 Pub. L. 106–246 substituted “Department of Defense” for “Federal”.
 
@@ -155,4 +157,8 @@ Subsec. (m). Pub. L. 106–398, §1 \[\[div. A\], title V, §577(c)\], added sub
 1999—Subsec. (a). Pub. L. 106–65, §579(a), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “The Secretary of Defense, acting through the Chief of the National Guard Bureau, may conduct a National Guard civilian youth opportunities program (to be known as the ‘National Guard Challenge Program’) to use the National Guard to provide military-based training, including supervised work experience in community service and conservation projects, to civilian youth who cease to attend secondary school before graduating so as to improve the life skills and employment potential of such youth.”
 
 Subsec. (b). Pub. L. 106–65, §579(b), substituted “$62,500,000” for “$50,000,000”.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–314, div. A, title X, §1062(g), Dec. 2, 2002, 116 Stat. 2651, provided that the amendment made by section 1062(g)(1) of Pub. L. 107–314 is effective as of Oct. 30, 2000, and as if included in Pub. L. 106–398 as enacted.
 

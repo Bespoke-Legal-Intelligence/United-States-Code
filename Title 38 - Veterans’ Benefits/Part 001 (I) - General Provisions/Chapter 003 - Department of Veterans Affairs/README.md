@@ -50,7 +50,7 @@ Section 216, added Pub. L. 100–322, title I, §132(a), May 20, 1988, 102 Stat.
 
 Another prior section 216, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. L. 87–572, Aug. 6, 1962, 76 Stat. 307; Pub. L. 88–433, §1(a)–(c), Aug. 14, 1964, 78 Stat. 441, 442; Pub. L. 89–705, §1, Nov. 2, 1966, 80 Stat. 1099, which directed Administrator to conduct research in field of prosthetic appliances, prosthesis, orthopedic appliances, and sensory devices, was repealed by Pub. L. 94–581, title II, §205(c)(1), Oct. 21, 1976, 90 Stat. 2859. See section 7303 of this title.
 
-Section 217, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. L. 99–576, title VII, §701(10), Oct. 28, 1986, 100 Stat.3291, related to studies of rehabilitation of disabled persons. See section 522 of this title.
+Section 217, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1116; Pub. L. 99–576, title VII, §701(10), Oct. 28, 1986, 100 Stat. 3291, related to studies of rehabilitation of disabled persons. See section 522 of this title.
 
 Section 218, added Pub. L. 93–43, §4(a), June 18, 1973, 87 Stat. 79; amended Pub. L. 98–528, title I, §101(a)(1), Oct. 19, 1984, 98 Stat. 2686; Pub. L. 99–576, title II, §211, Oct. 28, 1986, 100 Stat. 3257, related to security and law enforcement on property under jurisdiction of Veterans’ Administration. See section 901 et seq. of this title.
 

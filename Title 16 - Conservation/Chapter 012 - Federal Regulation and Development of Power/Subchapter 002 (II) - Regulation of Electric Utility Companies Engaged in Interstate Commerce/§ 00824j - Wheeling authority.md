@@ -16,7 +16,7 @@ No order may be issued under this section or section 824i of this title if, afte
 
 &emsp;(A) required to be provided to such applicant pursuant to a contract during such period, or
 
-&emsp;(B) currently provided to the applicant by the utility subject to the order pursuant to a rate schedule on file during such period with the Commission: <i>Provided</i>, That nothing in this subparagraph shall prevent an applicationfor an order hereunder to be filed prior to termination of <sup>1</sup> modification of an existing rate schedule: <i>Provided</i>, That such order shall not become effective until termination of such rate schedule or the modification becomes effective.
+&emsp;(B) currently provided to the applicant by the utility subject to the order pursuant to a rate schedule on file during such period with the Commission: <i>Provided</i>, That nothing in this subparagraph shall prevent an application for an order hereunder to be filed prior to termination of <sup>1</sup> modification of an existing rate schedule: <i>Provided</i>, That such order shall not become effective until termination of such rate schedule or the modification becomes effective.
 
 #### (d) Termination or modification of order; notice, hearing and findings of Commission; contents of order; inclusion in order of terms and conditions agreed upon by parties
 
@@ -92,7 +92,7 @@ Amendment by Pub. L. 99–495 effective with respect to each license, permit, or
 
 #### State Authorities; Construction
 
-Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or siting of facilities, see section 731 of Pub. L. 102–486, set out as a note under section 79 of Title 15, Commerce and Trade.
+Nothing in amendment by Pub. L. 102–486 to be construed as affecting or intending to affect, or in any way to interfere with, authority of any State or local government relating to environmental protection or sitingof facilities, see section 731 of Pub. L. 102–486, set out as a note under section 79 of Title 15, Commerce and Trade.
 
 #### Transfer of Functions
 

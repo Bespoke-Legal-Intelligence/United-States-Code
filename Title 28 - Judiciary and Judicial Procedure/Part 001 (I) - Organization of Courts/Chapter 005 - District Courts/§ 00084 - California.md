@@ -48,13 +48,13 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–357 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Central District comprises the counties of Los Angeles, Orange, Riverside, San Bernardino, San Luis Obispo, Santa Barbara, and Ventura.
+1992—Subsec. (c). Pub. L. 102–357 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The Central District comprises the counties of Los Angeles, Orange, Riverside, San Bernardino, San Luis Obispo, Santa Barbara, and Ventura.
 
 &nbsp;&nbsp;“Court for the Central District shall be held at Los Angeles and Santa Ana.”
 
-<b>1980</b>—Subsec. (c). Pub. L. 96–462 inserted “and Santa Ana” after “at Los Angeles”.
+1980—Subsec. (c). Pub. L. 96–462 inserted “and Santa Ana” after “at Los Angeles”.
 
-<b>1966</b>—Pub. L. 89–372 expanded the number of judicial districts in California from two to four by creating an Eastern and a Central District in addition to the existing Northern and Southern Districts, removed the provisions separating the Northern and Southern Districts into divisions, transferred to the newly created Eastern Division the counties of Alpine, Almador, Butte, Calaveras, Colusa, El Dorado, Glenn, Lassen, Modoc, Mono, Nevada, Placer, Plumas, Sacramento, San Joaquin, Shasta, Sierra, Siskiyou, Solano, Stanislaus, Sutter, Tehama, Trinity, Tuolumne, Yolo, and Yuba from the Northern District and Fresno, Inyo Kern, Kings, Madera, Mariposa, Merced, and Tulare from the Southern District, transferred to the newly created Central District the counties of Los Angeles, Orange, Riverside, San Bernardino, San Louis Obispo, Santa Barbara, and Ventura from the Southern District, substituted Eureka, Oakland, San Francisco, and San Jose for Eureka, Sacramento, and San Francisco as places for holding court for the Northern District, removed Fresno and Los Angeles from the list of places for holding court for the Southern District leaving San Diego as the only place for holding of court in the Southern District, and provided for the holding of court in Los Angeles for the Central District and in Fresno, Redding, and Sacramento for the Eastern District.
+1966—Pub. L. 89–372 expanded the number of judicial districts in California from two to four by creating an Eastern and a Central District in addition to the existing Northern and Southern Districts, removed the provisions separating the Northern and Southern Districts into divisions, transferred to the newly created Eastern Division the counties of Alpine, Almador, Butte, Calaveras, Colusa, El Dorado, Glenn, Lassen, Modoc, Mono, Nevada, Placer, Plumas, Sacramento, San Joaquin, Shasta, Sierra, Siskiyou, Solano, Stanislaus, Sutter, Tehama, Trinity, Tuolumne, Yolo, and Yuba from the Northern District and Fresno, Inyo Kern, Kings, Madera, Mariposa, Merced, and Tulare from the Southern District, transferred to the newly created Central District the counties of Los Angeles, Orange, Riverside, San Bernardino, San Louis Obispo, Santa Barbara, and Ventura from the Southern District, substituted Eureka, Oakland, San Francisco, and San Jose for Eureka, Sacramento, and San Francisco as places for holding court for the Northern District, removed Fresno and Los Angeles from the list of places for holding court for the Southern District leaving San Diego as the only place for holding of court in the Southern District, and provided for the holding of court in Los Angeles for the Central District and in Fresno, Redding, and Sacramento for the Eastern District.
 
 #### Effective Date of 1992 Amendment
 
@@ -76,7 +76,7 @@ Juries Not Affected.—This Act and the amendments made by this Act shall not af
 
 Section 7 of Pub. L. 96–462 provided that:
 
-“(a) This Act and the amendments made by this Act \[amending this section and sections 95, 105, 113, and 124 of this title and enacting provisions set out as notesunder this section and sections 95, 105, and 113 of this title\] shall take effect on October 1, 1981.
+“(a) This Act and the amendments made by this Act \[amending this section and sections 95, 105, 113, and 124 of this title and enacting provisions set out as notes under this section and sections 95, 105, and 113 of this title\] shall take effect on October 1, 1981.
 
 “(b) Nothing in this Act shall affect the composition or preclude the service of any grand or petit juror summoned, empaneled, or actually serving in any judicial district on the effective date of this Act \[Oct. 1, 1981\].”
 

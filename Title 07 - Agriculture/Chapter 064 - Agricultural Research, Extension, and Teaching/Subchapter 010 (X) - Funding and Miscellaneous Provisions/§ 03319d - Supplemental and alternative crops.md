@@ -2,7 +2,7 @@
 
 #### (a) Research and pilot project program
 
-Notwithstanding any other provision of law, during the period beginning October 1, 1986, and ending September 30, 2002, the Secretary shall develop and implement a research project program for the development of supplemental and alternative crops, using such funds as are appropriated to the Secretary each fiscal year under this chapter.
+Notwithstanding any other provision of law, during the period beginning October 1, 1986, and ending September 30, 2007, the Secretary shall develop and implement a research project program for the development of supplemental and alternative crops, using such funds as are appropriated to the Secretary each fiscal year under this chapter.
 
 #### (b) Importance to producers
 
@@ -40,15 +40,17 @@ The development of supplemental and alternative crops is of critical importance 
 
 #### (d) Use of expertise and resources of other Federal agencies and land-grant colleges and universities
 
-The Secretary shall use the expertise and resources of the Agricultural Research Service, the Cooperative State Research Service, the Extension Service, and the land-grant colleges and universities for the purpose of carrying out this section.
+The Secretary shall use the expertise and resources of the Agricultural Research Service, the Cooperative State Research Service, the Extension Service, and the land-grant colleges anduniversities for the purpose of carrying out this section.
 
-(Pub. L. 95–113, title XIV, §1473D, as added Pub. L. 99–198, title XIV, §1428, Dec. 23, 1985, 99 Stat. 1554; amended Pub. L. 101–624, title XVI, §1601(b)(5), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §819, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title III, §301(a)(14), title VI, §606(a), June 23, 1998, 112 Stat. 562, 603.)
+(Pub. L. 95–113, title XIV, §1473D, as added Pub. L. 99–198, title XIV, §1428, Dec. 23, 1985, 99 Stat. 1554; amended Pub. L. 101–624, title XVI, §1601(b)(5), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §819, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title III, §301(a)(14), title VI, §606(a), June 23, 1998, 112 Stat. 562, 603; Pub. L. 107–171, title VII, §7115, May 13, 2002, 116 Stat. 433.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsec. (a), see note set out under section 3102 of this title.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1998—Subsec. (a). Pub. L. 105–185, §301(a)(14), substituted “2002” for “1997”.
 

@@ -4,7 +4,7 @@
 
 (1) Each agency shall separately state and currently publish in the Federal Register for the guidance of the public—
 
-&emsp;(A) descriptions of its central and field organization and the established places at which,the employees (and in the case of a uniformed service, the members) from whom, and the methods whereby, the public may obtain information, make submittals or requests, or obtain decisions;
+&emsp;(A) descriptions of its central and field organization and the established places at which, the employees (and in the case of a uniformed service, the members) from whom, and the methods whereby, the public may obtain information, make submittals or requests, or obtain decisions;
 
 &emsp;(B) statements of the general course and method by which its functions are channeled and determined, including the nature and requirements of all formal and informal procedures available;
 
@@ -34,7 +34,7 @@
 
 &emsp;(ii) the party has actual and timely notice of the terms thereof.
 
-(3)(A) Except with respect to the records made available under paragraphs (1) and (2) of this subsection, each agency, upon any request for records which (i) reasonably describes such records and (ii) is made in accordance with published rules stating the time, place, fees (if any), and procedures to be followed, shall make the records promptly available to any person.
+(3)(A) Except with respect to the records made available under paragraphs (1) and (2) of this subsection, and except as provided in subparagraph (E), each agency, upon any request for records which (i) reasonably describes such records and (ii) is made in accordance with published rules stating the time, place, fees (if any), and procedures to be followed, shall make the records promptly available to any person.
 
 (B) In making any record available to a person under this paragraph, an agency shall provide the record in any form or format requested by the person if the record is readily reproducible by the agency in that form or format. Each agency shall make reasonable efforts to maintain its records in forms or formats that are reproducible for purposes of this section.
 
@@ -42,7 +42,13 @@
 
 (D) For purposes of this paragraph, the term “search” means to review, manually or by automated means, agency records for the purpose of locating those records which are responsive to a request.
 
-(4)(A)(i) In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying the schedule of fees applicable to the processing of requests under this section and establishing procedures and guidelines for determining when such fees should bewaived or reduced. Such schedule shall conform to the guidelines which shall be promulgated, pursuant to notice and receipt of public comment, by the Director of the Office of Management and Budget and which shall provide for a uniform schedule of fees for all agencies.
+(E) An agency, or part of an agency, that is an element of the intelligence community (as that term is defined in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4))) shall not make any record available under this paragraph to—
+
+&emsp;(i) any government entity, other than a State, territory, commonwealth, or district of the United States, or any subdivision thereof; or
+
+&emsp;(ii) a representative of a government entity described in clause (i).
+
+(4)(A)(i) In order to carry out the provisions of this section, each agency shall promulgate regulations, pursuant to notice and receipt of public comment, specifying the schedule of fees applicable to the processing of requests under this section and establishing procedures and guidelines for determining when such fees should be waived or reduced. Such schedule shall conform to the guidelines which shall be promulgated, pursuant to notice and receipt of public comment, by the Director of the Office of Management and Budget and which shall provide for a uniform schedule of fees for all agencies.
 
 (ii) Such agency regulations shall provide that—
 
@@ -82,7 +88,7 @@
 
 (6)(A) Each agency, upon any request for records made under paragraph (1), (2), or (3) of this subsection, shall—
 
-&emsp;(i) determine within 20 days (excepting Saturdays, Sundays, and legal public holidays) after the receipt of any such request whether to comply with such request and shall immediately notify the person making such requestof such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and
+&emsp;(i) determine within 20 days (excepting Saturdays, Sundays, and legal public holidays) after the receipt of any such request whether to comply with such request and shall immediately notify the person making such request of such determination and the reasons therefor, and of the right of such person to appeal to the head of the agency any adverse determination; and
 
 &emsp;(ii) make a determination with respect to any appeal within twenty days (excepting Saturdays, Sundays, and legal public holidays) after the receipt of such appeal. If on appeal the denial of the request for records is in whole or in part upheld, the agency shall notify the person making such request of the provisions for judicial review of that determination under paragraph (4) of this subsection.
 
@@ -124,7 +130,7 @@
 
 &emsp;(II) expeditious consideration of administrative appeals of such determinations of whether to provide expedited processing.
 
-(iii) An agency shall process as soon as practicable any request for records to which theagency has granted expedited processing under this subparagraph. Agency action to deny or affirm denial of a request for expedited processing pursuant to this subparagraph, and failure by an agency to respond in a timely manner to such a request shall be subject to judicial review under paragraph (4), except that the judicial review shall be based on the record before the agency at the time of the determination.
+(iii) An agency shall process as soon as practicable any request for records to which the agency has granted expedited processing under this subparagraph. Agency action to deny or affirm denial of a request for expedited processing pursuant to this subparagraph, and failure by an agency to respond in a timely manner to such a request shall be subject to judicial review under paragraph (4), except that the judicial review shall be based on the record before the agency at the time of the determination.
 
 (iv) A district court of the United States shall not have jurisdiction to review an agency denial of expedited processing of a request for records after the agency has provided a complete response to the request.
 
@@ -204,7 +210,7 @@
 
 &emsp;(1) “agency” as defined in section 551(1) of this title includes any executive department, military department, Government corporation, Government controlled corporation, or other establishment in the executive branch of the Government (including the Executive Office of the President), or any independent regulatory agency; and
 
-&emsp;(2) “record” and any other term used in this section in reference to information includes any information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format.
+&emsp;(2) “record” and any other term used in this section in reference to information includesany information that would be an agency record subject to the requirements of this section when maintained by an agency in any format, including an electronic format.
 
 (g) The head of each agency shall prepare and make publicly available upon request, reference material or a guide for requesting records or information from the agency, subject to the exemptions in subsection (b), including—
 
@@ -214,7 +220,7 @@
 
 &emsp;(3) a handbook for obtaining various types and categories of public information from the agency pursuant to chapter 35 of title 44, and under this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 90–23, §1, June 5, 1967, 81 Stat. 54; Pub. L. 93–502, §§1–3, Nov. 21, 1974, 88 Stat. 1561–1564; Pub. L. 94–409, §5(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–454, title IX, §906(a)(10), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 98–620, title IV, §402(2), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–570, title I, §§1802, 1803, Oct. 27, 1986, 100 Stat. 3207–48, 3207–49; Pub. L. 104–231, §§3–11, Oct. 2, 1996, 110 Stat. 3049–3054.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 383; Pub. L. 90–23, §1, June 5, 1967, 81 Stat. 54; Pub. L. 93–502, §§1–3, Nov. 21, 1974, 88 Stat. 1561–1564; Pub. L. 94–409, §5(b), Sept. 13, 1976, 90 Stat. 1247; Pub. L. 95–454, title IX, §906(a)(10), Oct. 13, 1978, 92 Stat. 1225; Pub. L. 98–620, title IV, §402(2), Nov. 8, 1984, 98 Stat. 3357; Pub. L. 99–570, title I, §§1802, 1803, Oct. 27, 1986, 100 Stat. 3207–48, 3207–49; Pub. L. 104–231, §§3–11, Oct. 2, 1996, 110 Stat. 3049–3054; Pub. L. 107–306, title III, §312, Nov. 27, 2002, 116 Stat. 2390.)
 
 Historical and Revision Notes<br>1966
 
@@ -262,6 +268,10 @@ Section 552 of former Title 5, Executive Departments and Government Officers and
 
 #### Amendments
 
+2002—Subsec. (a)(3)(A). Pub. L. 107–306, §312(1), inserted “and except as provided in subparagraph (E),” after “of this subsection,”.
+
+Subsec. (a)(3)(E). Pub. L. 107–306, §312(2), added subpar. (E).
+
 1996—Subsec. (a)(2). Pub. L. 104–231, §4(4), (5), in first sentence struck out “and” at end of subpar. (B) and inserted subpars. (D) and (E).
 
 Pub. L. 104–231, §4(7), inserted after first sentence “For records created on or after November 1, 1996, within one year after such date, each agency shall make such records available, including by computer telecommunications or, if computer telecommunications means have not been established by the agency, by other electronic means.”
@@ -280,7 +290,7 @@ Subsec. (a)(4)(B). Pub. L. 104–231, §6, inserted at end “In addition to any
 
 Subsec. (a)(6)(A)(i). Pub. L. 104–231, §8(b), substituted “20 days” for “ten days”.
 
-Subsec. (a)(6)(B). Pub. L. 104–231, §7(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the reasons for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten working days. As used in this subparagraph, ‘unusual circumstances’ means, but only to the extent reasonably necessary to the proper processing of the particular request—
+Subsec. (a)(6)(B). Pub. L. 104–231, §7(b), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “In unusual circumstances as specified in this subparagraph, the time limits prescribed in either clause (i) or clause (ii) of subparagraph (A) may be extended by written notice to the person making such request setting forth the reasons for such extension and the date on which a determination is expected to be dispatched. No such notice shall specify a date that would result in an extension for more than ten workingdays. As used in this subparagraph, ‘unusual circumstances’ means, but only to the extent reasonably necessary to the proper processing of the particular request—
 
 &emsp;“(i) the need to search for and collect the requested records from field facilities or other establishments that are separate from the office processing the request;
 
@@ -334,7 +344,7 @@ Subsecs. (d), (e). Pub. L. 93–502, §3, added subsecs. (d) and (e).
 
 Subsec. (a)(1). Pub. L. 90–23 incorporated provisions of: former subsec. (b)(1) in (A), inserting requirement of publication of names of officers as sources of information and provision for public to obtain decisions, and striking out publication requirement for delegations by the agency of final authority; former subsec. (b)(2), introductory part, in (B); former subsec. (b)(2), concluding part, in (C), inserting publication requirement for rules of procedure and descriptions of forms available or the places at which forms may be obtained; former subsec. (b)(3), introductory part, in (D), inserting requirement of general applicability of substantive rules and interpretations, added clause (E), substituted exemption of any person from failure to resort to any matter or from being adversely affected by any matter required to be published in the Federal Register but not so published for former subsec. (b)(3), concluding part, excepting from publication rules addressed to and served upon named persons in accordance with laws and final sentence reading “A person may not be required to resort to organization or procedure not so published” and inserted provision deeming matter, which is reasonably available, as published in the Federal Register when such matter is incorporated by reference in the Federal Register with the approval of its Director.
 
-Subsec. (a)(2). Pub. L. 90–23 incorporated provisions of former subsec. (c), provided for public copying of records, struck out requirement of agency publication of final opinions or orders and authority for secrecy and withholding of opinions and orders required for good cause to be held confidential and not cited as precedents, latter provision now superseded by subsec. (b) of this section, designated existing subsec. (c) as clause (A), including provision for availability of concurring and dissenting opinions, inserted provisions for availability of policy statements and interpretations in clause (B) and staff manuals and instructions in clause (C), deletion of personal identifications from records to protect personal privacy with written justification therefor, and provision for indexing and prohibition of use of records not indexed against any private party without actual and timely notice of the terms thereof.
+Subsec. (a)(2). Pub. L. 90–23 incorporated provisions of former subsec. (c), provided for public copying of records, struck out requirement of agency publication of final opinions or orders and authority for secrecyand withholding of opinions and orders required for good cause to be held confidential and not cited as precedents, latter provision now superseded by subsec. (b) of this section, designated existing subsec. (c) as clause (A), including provision for availability of concurring and dissenting opinions, inserted provisions for availability of policy statements and interpretations in clause (B) and staff manuals and instructions in clause (C), deletion of personal identifications from records to protect personal privacy with written justification therefor, and provision for indexing and prohibition of use of records not indexed against any private party without actual and timely notice of the terms thereof.
 
 Subsec. (a)(3). Pub. L. 90–23 incorporated provisions of former subsec. (d) and substituted provisions requiring identifiable agency records to be made available to any person upon request and compliance with rules as to time, place, and procedure for inspection, and payment of fees and provisions for Federal district court proceedings de novo for enforcement by contempt of noncompliance with court's orders with the burden on the agency and docket precedence for such proceedings for former provisions requiring matters of official record to be made available to persons properly and directly concerned except information held confidential for good cause shown, the latter provision superseded by subsec. (b) of this section.
 
@@ -552,7 +562,7 @@ Establishment of Interagency Group.—
 
 &emsp;“(1)
 
-In general.—Not later than 60 days after the date of enactment of this Act \[Oct. 8, 1998\], the President shall establish the Nazi War Criminal Records Interagency Working Group, which shall remain in existence for 3 years after the date the Interagency Group is established.
+In general.—Not later than 60 days after the date of enactment of this Act \[Oct. 8, 1998\], the President shall establish the Nazi War Criminal RecordsInteragency Working Group, which shall remain in existence for 3 years after the date the Interagency Group is established.
 
 &emsp;“(2)
 
@@ -582,7 +592,7 @@ Funding.—There are authorized to be appropriated such sums as may be necessary
 
 Nazi War Criminal Records.—For purposes of this Act, the term ‘Nazi war criminal records’ means classified records or portions of records that—
 
-&emsp;“(1) pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the persecution of any person because of race, religion, national origin, or politicalopinion, during the period beginning on March 23, 1933, and ending on May 8, 1945, under the direction of, or in association with—
+&emsp;“(1) pertain to any person with respect to whom the United States Government, in its sole discretion, has grounds to believe ordered, incited, assisted, or otherwise participated in the persecution of any person because of race, religion, national origin, or political opinion, during the period beginning on March 23, 1933, and ending on May 8, 1945, under the direction of, or in association with—
 
 &emsp;&emsp;“(A) the Nazi government of Germany;
 
@@ -654,7 +664,7 @@ Limitation on application.—This subsection shall not apply to records—
 
 Inapplicability of National Security Act of 1947
 
-Exemption.—Section 701(a) of the National Security Act of 1947 (50 U.S.C. 431\[(a)\]) shall not apply to any operational file, or any portion of any operational file, that constitutes a Nazi war criminal record under section 3 of this Act.
+Exemption.—Section 701(a) of the National Security Act of 1947 (50 U.S.C. 431\[(a)\]) shall not apply to any operational file, or any portion of any operationalfile, that constitutes a Nazi war criminal record under section 3 of this Act.
 
 #### “SEC. 4. EXPEDITED PROCESSING OF FOIA REQUESTS FOR NAZI WAR CRIMINAL RECORDS.
 
@@ -828,5 +838,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 551, 552a, 552b, 566, 574, 1216, 7133 of this title; title 2 sections 472, 501, 502; title 7 sections 12, 450i, 499f, 608d, 948, 1314g, 1314i, 1508, 1636, 1637b, 1642, 2279b, 5651, 5662, 5906, 7035; title 8 section 1182; title 10 sections 128, 130b, 1034, 1102, 1506, 2304, 2305, 2306a, 2328, 2371; title 12 sections 1786, 1818, 1828, 1831<i>o</i>, 4611; title 14 section 645; title 15 sections 18a, 57b–2, 78m, 78<i>o</i>–5, 78q, 78w, 78x, 78dd–1, 78dd–2, 79z–5c, 80a–30, 80b–10a, 278n, 719d, 773, 796, 1314, 1335a, 2055, 2217, 2613, 3364, 3710a, 4019, 4104, 4107, 4305, 4403, 4606, 4912, 5104, 5308, 7006; title 16 sections 973j, 1402, 4304, 5937; title 18 sections 207, 208, 1838; title 19 sections 1333, 1431, 1509, 1625, 1677f, 2418, 3315; title 20 sections 1078, 1087–2, 6512; title 21 sections 360c, 360j, 379, 379f, 830, 1904, 1908; title 22 sections 2200a, 3902, 4355, 4415, 4604, 4607, 4833, 5841, 6713, 6744; title 25 sections 450c, 450k, 1951, 2716; title 26 sections 6103, 6110, 7611, 7803; title 28 sections 594, 1657; title 29 sections 1310, 1343, 2635; title 30 section 1604; title 31 sections 716, 1352, 3729, 3733, 5319; title 33 sections 524, 941, 1513; title 35 sections 202, 209; title 38 sections 501, 502, 7451; title 39 sections 410, 3016; title 41 sections 253, 253b, 254b, 423, 706; title 42 sections 263b, 300v–2, 300aa–25, 405, 1306, 1320c–9, 2167, 2168, 2454, 2996d, 3027, 4332, 5916, 5919, 6272–6274, 7135, 7412, 8103, 9122, 9208, 9660, 10704, 13385; title 44 sections 2201, 2204, 2206, 3501, 3504, 3506; title 46 sections 4309, 6305, 7702, 9303; title 46 App. section 1705; title 49 sections 106, 706, 10706, 10709, 11162, 14123; title 50 sections 403–5b, 431; title 50 App. sections 463, 2158, 2159, 2170, 2406, 2411.
+This section is referred to in sections 551, 552a, 552b, 566, 574, 1216, 7133 of this title; title 2 sections 472, 501, 502; title 6 section 133; title 7 sections 12, 450i, 499f, 608d,948, 1314g, 1314i, 1508, 1636, 1637b, 1642, 2279b, 5651, 5662, 7035, 8401; title 8 section 1182; title 10 sections 128, 130b, 130c, 1034, 1102, 1506, 2304, 2305, 2306a, 2328, 2371, 4595, 7582, 9594; title 12 sections 1786, 1818, 1828, 1831<i>o</i>, 4611; title 14 section 645; title 15 sections 18a, 57b–2, 78m, 78<i>o</i>–5, 78q, 78w, 78x, 78dd–1, 78dd–2, 79z–5c, 80a–30, 80b–10a, 278n, 638, 719d, 773, 796, 1314, 1335a, 2055, 2217, 2613, 3364, 3710a, 4019, 4104, 4107, 4305, 4403, 4606, 4912, 5104, 5308, 7006, 7215, 7306; title 16 sections 973j, 1402, 3844, 4304, 5937; title 18 sections 207, 208, 1838; title 19 sections 1333, 1431, 1509, 1625, 1677f, 2418, 3315; title 20 sections 1078, 1087–2, 9576, 9622; title 21 sections 350c, 350d, 355a, 360c, 360j, 379, 379f, 830, 1904, 1908; title 22 sections 2200a, 3902, 4355, 4415, 4604, 4607, 4833, 5841, 6713, 6744; title 25 sections 450c, 450k, 1951, 2716; title 26 sections 6103, 6110, 7611, 7803; title 28 sections 594, 1657; title 29 sections 1310, 1343, 2635; title 30 section 1604; title 31 sections 716, 1352, 3729, 3733, 5319; title 33 sections 524, 941, 1513; title 35 sections 202, 209; title 38 sections 501, 502, 7451; title 39 sections 410, 3016; title 41 sections 253, 253b, 254b, 423, 706; title 42 sections 262a, 263b, 300i–2, 300v–2, 300aa–25, 300hh–12, 405, 1306, 1314, 1320c–9, 2167, 2168, 2454, 2996d, 4332, 5916, 5919, 6272–6274, 7135, 7412, 8103, 9122, 9208, 9660, 10704, 13385; title 44 sections 2201, 2204, 2206, 3501, 3504, 3505, 3506, 3538, 3549; title 46 sections 4309, 6305, 7702, 9303; title 46 App. section 1705; title 49 sections 106, 114, 706, 10706, 10709, 11162, 14123, 40110, 44921; title 50 sections 403–5c, 403–5e, 431; title 50 App. sections 463, 2158, 2159, 2170, 2406, 2411.
 

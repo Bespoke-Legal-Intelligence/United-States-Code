@@ -2,7 +2,7 @@
 
 #### (a) Program
 
-After consultation with the Office of Personnel Management, the Secretary shall establish a program under which any individual who, by reason of having lived or worked in or near public lands, has special knowledge or expertise concerning the natural or cultural resources of public lands and the management thereof (as determined by the Secretary) shall be consideredfor selection for any position within public lands without regard to—
+After consultation with the Office of Personnel Management, the Secretary shall establish a program under which any individual who, by reason of having lived or worked in or near public lands, has special knowledge or expertise concerning the natural or cultural resources of public lands and the management thereof (as determined by the Secretary) shall be considered for selection for any position within public lands without regard to—
 
 &emsp;(1) any provision of the civil service laws or regulations thereunder which require minimum periods of formal training or experience,
 
@@ -14,7 +14,7 @@ After consultation with the Office of Personnel Management, the Secretary shall 
 
 #### (b) Preference eligibles within local hire
 
-Notwithstanding the provisions of subsection (a) of this section, any individual who is eligible to be selected for a position under the provisions of subsection (a) of this section and is a preference eligible as defined in section 2108(3) of title 5 shall be given an employment preference, consistent with the preference in the competitive service as defined in section 2102 of such title for which such person is eligible under subchapter I of chapter 33 of such title, in selection to such position.
+Notwithstanding the provisions of subsection (a) of this section, any individual who is eligible to be selected for a position under the provisions of subsection (a) of this section and is a preference eligible as defined in section 2108(3) of title 5 shall be given an employment preference, consistent with the preference in the competitive service as defined in section 2102 of suchtitle for which such person is eligible under subchapter I of chapter 33 of such title, in selection to such position.
 
 #### (c) Reports
 

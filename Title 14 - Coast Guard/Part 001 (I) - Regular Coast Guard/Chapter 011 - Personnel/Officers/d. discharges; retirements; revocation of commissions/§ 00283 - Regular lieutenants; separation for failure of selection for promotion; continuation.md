@@ -22,7 +22,11 @@
 
 (c) Each officer who has been continued on active duty under subsection (b) shall, unless earlier removed from active duty, be retired on the last day of the month in which he completes twenty years of active service.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 184; amended Pub. L. 93–283, §1(6), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, §1(22), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 97–295, §2(9), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 104–324, title II, §205, Oct. 19, 1996, 110 Stat. 3907.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 184; amended Pub. L. 93–283, §1(6), May 14, 1974, 88 Stat. 140; Pub. L. 94–546, §1(22), Oct. 18, 1976, 90 Stat. 2520; Pub. L. 97–295, §2(9), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 104–324, title II, §205, Oct. 19, 1996, 110 Stat. 3907; Pub. L. 107–295, title IV, §416(a)(2), Nov. 25, 2002, 116 Stat. 2121.)
+
+#### Amendment of Section
+
+<i>Pub. L. 107–295, title IV, §416(a)(2), (c), Nov. 25, 2002, 116 Stat. 2121, 2122, provided that, effective 4 years after Nov. 25, 2002, subsec. (b)(2)(A) is amended by striking “severance” and inserting “separation”.</i>
 
 #### Amendments
 
@@ -33,6 +37,10 @@
 1976—Subsec. (a)(1). Pub. L. 94–546 substituted “promotion year” for “fiscal year”.
 
 1974—Subsec. (a)(3). Pub. L. 93–283 substituted “he has completed at least 20 years of active service or is eligible” for “he is eligible”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–295 effective 4 years after Nov. 25, 2002, see section 416(c) of Pub. L. 107–295, set out as a note under section 286 of this title.
 
 #### Retired Pay on or Prior to September 24, 1963
 

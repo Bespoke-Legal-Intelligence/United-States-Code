@@ -16,7 +16,7 @@ Appropriated funds available to an intelligence agency may be obligated or expen
 
 &emsp;&emsp;(C) the Director of Central Intelligence, the Secretary of Defense, or the Attorney General, as appropriate, has notified the appropriate congressional committees of the intent to make such funds available for such activity;
 
-&emsp;(4) nothing in this subsection prohibits obligation or expenditure of funds available to anintelligence agency in accordance with sections 1535 and 1536 of title 31.
+&emsp;(4) nothing in this subsection prohibits obligation or expenditure of funds available to an intelligence agency in accordance with sections 1535 and 1536 of title 31.
 
 #### (b) Activities denied funding by Congress
 
@@ -28,13 +28,13 @@ No funds appropriated for, or otherwise available to, any department, agency, or
 
 #### (d) Report to Congressional committees required for expenditure of nonappropriated funds for intelligence activity
 
-(1) Except as otherwise specifically provided by law, funds available to an intelligence agency that are not appropriated funds may be obligated or expended for an intelligence or intelligence-related activity only if those funds are used for activities reported to the appropriate congressional committees pursuant to procedures which identify—
+(1) Except as otherwise specifically provided by law, funds available to an intelligence agencythat are not appropriated funds may be obligated or expended for an intelligence or intelligence-related activity only if those funds are used for activities reported to the appropriate congressional committees pursuant to procedures which identify—
 
 &emsp;(A) the types of activities for which nonappropriated funds may be expended; and
 
 &emsp;(B) the circumstances under which an activity must be reported as a significant anticipated intelligence activity before such funds can be expended.
 
-(2) Procedures for purposes of paragraph (1) shall be jointly agreed upon by the intelligence committees and, as appropriate, the Director of Central Intelligence or the Secretary of Defense.
+(2) Procedures for purposes of paragraph (1) shall be jointly agreed upon by the congressional intelligence committees and, as appropriate, the Director of Central Intelligence or the Secretary of Defense.
 
 #### (e) Definitions
 
@@ -50,9 +50,11 @@ As used in this section—
 
 &emsp;&emsp;(B) although the funds were not formally requested, the Congress both specifically authorized the appropriation of the funds for the activity and appropriated the funds for the activity.
 
-(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Pub. L. 99–169, title IV, §401(a), Dec. 4, 1985, 99 Stat. 1004; renumbered §504 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(1), 603, Aug. 14, 1991, 105 Stat. 441, 444.)
+(July 26, 1947, ch. 343, title V, §504, formerly §502, as added Pub. L. 99–169, title IV, §401(a), Dec. 4, 1985, 99 Stat. 1004; renumbered §504 and amended Pub. L. 102–88, title VI, §§602(a)(1), (c)(1), 603, Aug. 14, 1991, 105 Stat. 441, 444; Pub. L. 107–306, title III, §353(b)(3)(D), Nov. 27, 2002, 116 Stat. 2402.)
 
 #### Amendments
+
+2002—Subsec. (d)(2). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees”.
 
 1991—Subsec. (a)(2). Pub. L. 102–88, §602(c)(1), substituted “section 413b” for “section 413”.
 

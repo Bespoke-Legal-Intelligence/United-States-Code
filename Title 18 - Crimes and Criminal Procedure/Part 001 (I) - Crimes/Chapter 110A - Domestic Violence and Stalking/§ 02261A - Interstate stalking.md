@@ -8,7 +8,7 @@ Whoever—
 
 &emsp;&emsp;(A) to kill or injure a person in another State or tribal jurisdiction or within the special maritime and territorial jurisdiction of the United States; or
 
-&emsp;&emsp;(B) to place a person in another State or tribal jurisdiction, or within the special maritime and territorial jurisdiction of theUnited States, in reasonable fear of the death of, or serious bodily injury to—
+&emsp;&emsp;(B) to place a person in another State or tribal jurisdiction, or within the special maritime and territorial jurisdiction of the United States, in reasonable fear of the death of, or serious bodily injury to—
 
 &emsp;&emsp;&emsp;(i) that person;
 

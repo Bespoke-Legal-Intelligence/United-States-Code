@@ -18,7 +18,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1066c, 1221, 1231e, 7221i, 7283, 7283a, 7283b, 7283d, 7914 of this title; title 29 sections 206, 3938; title 42 sections 290cc–33, 300w–7, 300x–57, 708, 1760, 1988, 2000d–7, 5057, 10406, 12635.
+This chapter is referred to in sections 1066c, 1221, 1231e, 7221i, 7283, 7283a, 7283b, 7283d, 7914 of this title;title 29 sections 206, 2938; title 42 sections 290cc–33, 300w–7, 300x–57, 708, 1760, 1988, 2000d–7, 5057, 10406, 12635.
 
 
 ---

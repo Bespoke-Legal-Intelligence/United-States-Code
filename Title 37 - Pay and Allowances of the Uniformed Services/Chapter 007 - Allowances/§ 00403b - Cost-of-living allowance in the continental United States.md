@@ -46,7 +46,7 @@ Limitation to One Allowance.—If primary dependents of a member reside separate
 
 Service Not Covered.—(1) A cost-of-living allowance may not be paid a member under this section for the days authorized for travel of the member in connection with a permanent change of duty station.
 
-(2) A member of a reserve component is not eligible for a cost-of-living allowance under this section unless the member is on active duty under a call or order to active duty that—
+(2) A member of a reserve component is not eligible for a cost-of-living allowance under thissection unless the member is on active duty under a call or order to active duty that—
 
 &emsp;(A) specifies a period of 140 days or more; or
 
@@ -90,15 +90,27 @@ Other Definitions.—In this section:
 
 &emsp;&emsp;(A) The Secretary of Defense, with respect to the armed forces (other than the Coast Guard when it is not operating as a service in the Navy).
 
-&emsp;&emsp;(B) The Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy.
+&emsp;&emsp;(B) The Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy.
 
 &emsp;&emsp;(C) The Secretary of Commerce, with respect to the National Oceanic and Atmospheric Administration.
 
 &emsp;&emsp;(D) The Secretary of Health and Human Services, with respect to the Public Health Service.
 
-&emsp;(6) The term “continental United States” means the 48 contiguous States and the District of Columbia.
+(Added Pub. L. 103–337, div. A, title VI, §602(a)(1), Oct. 5, 1994, 108 Stat. 2779; amended Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §654(b)(2), Dec. 2, 2002, 116 Stat. 2582.)
 
-(Added Pub. L. 103–337, div. A, title VI, §602(a)(1), Oct. 5, 1994, 108 Stat. 2779.)
+#### Amendments
+
+2002—Subsec. (i)(5)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+Subsec. (i)(6). Pub. L. 107–314 struck out par. (6) which read as follows: “The term ‘continental United States’ means the 48 contiguous States and the District of Columbia.”
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Conditions on Provision of Allowance
 
@@ -106,7 +118,7 @@ Section 602(b) of Pub. L. 103–337 provided that:
 
 “(1) A cost-of-living allowance under section 403b of title 37, United States Code, as added by subsection (a), may not be provided until after the end of the 90-day period beginning on the date the Secretary of Defense submits the report required under paragraph (2).
 
-“(2) Before implementing section 403b of title 37, United States Code, the Secretary of Defense, in consultation with the other administering Secretaries (as defined in subsection (h)(6) of such section), shall submit to Congress a report describing—
+“(2) Before implementing section 403b of title 37, United States Code, the Secretary of Defense, in consultation with the other administering Secretaries (as defined in subsection (h)(6) \[probably should be (i)(5)\] of such section), shall submit to Congress a report describing—
 
 &emsp;“(A) the methods by which the Secretary of Defense would determine the price index to be used under such section and the types of nonhousing related costs that will be considered under such price index;
 

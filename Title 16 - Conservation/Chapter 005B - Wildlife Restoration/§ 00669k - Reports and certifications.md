@@ -10,7 +10,7 @@
 
 &emsp;The report under paragraph (1) shall describe—
 
-&emsp;&emsp;(A) the extent to which compliance with this title <sup>1</sup> and the amendments made by this title <sup>1</sup> has required a reduction in the number of personnel assigned to administer, manage, and oversee the Federal Assistance Program for State Wildlife and Sport Fish Restoration;
+&emsp;&emsp;(A) the extent to which compliance with this title <sup>1</sup> and the amendments made by this title <sup>1</sup> has required a reduction in the number of personnel assigned to administer,manage, and oversee the Federal Assistance Program for State Wildlife and Sport Fish Restoration;
 
 &emsp;&emsp;(B) any revisions to this title <sup>1</sup> or the amendments made by this title <sup>1</sup> that would be desirable in order for the Secretary of the Interior to adequately administer the Program and ensure that funds provided to State agencies are properly used; and
 

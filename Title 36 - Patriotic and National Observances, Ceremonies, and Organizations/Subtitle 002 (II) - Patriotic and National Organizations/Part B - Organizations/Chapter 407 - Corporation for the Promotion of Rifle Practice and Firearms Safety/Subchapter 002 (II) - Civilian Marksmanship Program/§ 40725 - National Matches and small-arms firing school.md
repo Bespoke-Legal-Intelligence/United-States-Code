@@ -6,7 +6,7 @@ Annual Competition.—An annual competition called the “National Matches” an
 
 (b)
 
-Eligible Participants.—The National Matches are open to members of the Armed Forces, National Guard, Reserve Officers’ Training Corps, Air Force Reserve Officers’ Training Corps, Citizens’ Military Training Camps, Citizens’ Air Training Camps, and rifle clubs, and to civilians.
+Eligible Participants.—The National Matches are open to members of the Armed Forces, National Guard, Reserve Officers’ Training Corps, Air Force Reserve Officers’ TrainingCorps, Citizens’ Military Training Camps, Citizens’ Air Training Camps, and rifle clubs, and to civilians.
 
 (c)
 
@@ -34,7 +34,7 @@ Historical and Revision Notes
 
 &nbsp;
 
-In subsection (a), the provision for the National Matches to be held as prescribed by “the Secretary of the Army” is retained notwithstanding section 1612(d) of The National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106, 110 Stat. 517) which transferred the Civilian Marksmanship Program, including the National Matches, from the Secretary of the Army to the corporation. The conforming amendments in section 1624 of the Act (110 Stat. 522) did not repeal the authority of the Secretary of the Army to prescribe National Matches under 10:4312 or to prescribesubsistence and travel allowances for competitors under 10:4313.
+In subsection (a), the provision for the National Matches to be held as prescribed by “the Secretary of the Army” is retained notwithstanding section 1612(d) of The National Defense Authorization Act for Fiscal Year 1996 (Public Law 104–106, 110 Stat. 517) which transferred the Civilian Marksmanship Program, including the National Matches, from the Secretary of the Army to the corporation. The conforming amendments in section 1624 of the Act (110 Stat. 522) did not repeal the authority of the Secretary of the Army to prescribe National Matches under 10:4312 or to prescribe subsistence and travel allowances for competitors under 10:4313.
 
 #### Section Referred to in Other Sections
 

@@ -1,12 +1,12 @@
 ### §418. Clothing allowance: enlisted members
 
-(a) The Secretary of Defense and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy, may prescribe the quantity and kind of clothing to be furnished annually to an enlisted member of the armed forces or the National Guard, and may prescribe the amount of a cash allowance to be paid to such a member if clothing is not so furnished to him.
+(a) The Secretary of Defense and the Secretary of Homeland Security, with respect to the Coast Guard when it is not operating as a service in the Navy, may prescribe the quantity and kind of clothing to be furnished annually to an enlisted member of the armed forces or the National Guard, and may prescribe the amount of a cash allowance to be paid to such a member if clothing is not so furnished to him.
 
 (b) In determining the quantity and kind of clothing or allowances to be furnished pursuant to regulations prescribed under this section to persons employed as National Guard technicians under section 709 of title 32, the Secretary of Defense shall take into account the requirement under subsection (b) of such section for such persons to wear a uniform.
 
 (c) A uniform allowance may not be paid, and uniforms may not be furnished, under section 1593 of title 10 or section 5901 of title 5 to a person referred to in subsection (b) for a period of employment referred to in that subsection for which clothing is furnished or a uniform allowance is paid under this section.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 104–106, div. A, title X, §1038(c), Feb. 10, 1996, 110 Stat. 432; Pub. L. 104–201, div. A, title VI, §654, Sept. 23, 1996, 110 Stat. 2583; Pub. L. 106–398, §1 \[\[div. A\], title VI, §611\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 478; Pub. L. 104–106, div. A, title X, §1038(c), Feb. 10, 1996, 110 Stat. 432; Pub. L. 104–201, div. A, title VI, §654, Sept. 23, 1996, 110 Stat. 2583; Pub. L. 106–398, §1 \[\[div. A\], title VI, §611\], Oct. 30, 2000, 114 Stat. 1654, 1654A–150; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -26,6 +26,8 @@ The words “the armed forces” are substituted for the words “the Army, the 
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
 2000—Subsec. (a). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(1)\], substituted “The Secretary of Defense and the Secretary of Transportation, with respect to the Coast Guard when it is not operating as a service in the Navy,” for “The President”.
 
 Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(2)\], substituted “the Secretary of Defense” for “the President”.
@@ -34,15 +36,19 @@ Subsec. (b). Pub. L. 106–398, §1 \[\[div. A\], title VI, §611(2)\], substitu
 
 Subsec. (c). Pub. L. 104–201 substituted “for which clothing is furnished or a uniform allowance is paid under this section” for “for which a uniform allowance is paid under section 415 or 416 of this title”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+
 #### Ex. Ord. No. 10113. Clothing Allowances for Enlisted Personnel
 
-Ex. Ord. No. 10113, Feb. 24, 1950, 15 F.R. 1065, provided:
+Ex. Ord. No. 10113, Feb. 24, 1950, 15 F.R. 1065, as amended by Ex. Ord. No. 13286, §83, Feb. 28, 2003, 68 F.R. 10631, provided:
 
 By virtue of the authority vested in me as President of the United States and as Commander in Chief of the armed forces, it is ordered as follows:
 
-1\. The Secretary of Defense with respect to enlisted men of the Army, the Navy, the Air Force, the Marine Corps, the Naval Reserve, the Marine Corps Reserve, the National Guard, the Air National Guard, the National Guard of the United States, the Air National Guard of the United States, the Organized Reserve Corps \[Army Reserve\] and the Air Force Reserve, and the Secretary of the Treasury with respect to enlisted men of the Coast Guard and the Coast Guard Reserve, are hereby authorized and directed, after appropriate consultation with the Director of the Bureau of the Budget \[now Director of the Office of Management and Budget\], to perform the functions vested in the President by section 505 of the Career Compensation Act of 1949, approved October 12, 1949 (Public Law 351, 81st Congress) \[this section\], relative to prescribing the quantity and kind of clothing which shall be furnished annually to enlisted men of the aforesaid services and relative to prescribing the amount of the cash allowance to be paid to such enlisted men in any case in which clothing is not so furnished to them.
+1\. The Secretary of Defense with respect to enlisted men of the Army, the Navy, the Air Force, the Marine Corps, the Naval Reserve, the Marine Corps Reserve, the National Guard, the Air National Guard, the National Guard of the United States, the Air NationalGuard of the United States, the Organized Reserve Corps \[Army Reserve\] and the Air Force Reserve, and the Secretary of Homeland Security with respect to enlisted men of the Coast Guard and the Coast Guard Reserve, are hereby authorized and directed, after appropriate consultation with the Director of the Bureau of the Budget \[now Director of the Office of Management and Budget\], to perform the functions vested in the President by section 505 of the Career Compensation Act of 1949, approved October 12, 1949 (Public Law 351, 81st Congress) \[this section\], relative to prescribing the quantity and kind of clothing which shall be furnished annually to enlisted men of the aforesaid services and relative to prescribing the amount of the cash allowance to be paid to such enlisted men in any case in which clothing is not so furnished to them.
 
-2\. The quantity and kind of clothing, and any cash allowances in lieu thereof, prescribed by the Secretary of the Treasury hereunder with respect to the Coast Guard and the Coast Guard Reserve shall, so far as practicable, be in conformity with those prescribed by the Secretary of Defense with respect to the Navy and Naval Reserve, respectively.
+2\. The quantity and kind of clothing, and any cash allowances in lieu thereof, prescribed by the Secretary of Homeland Security hereunder with respect to the Coast Guard and the Coast Guard Reserve shall, so far as practicable, be in conformity with those prescribed by the Secretary of Defense with respect to the Navy and Naval Reserve, respectively.
 
 3\. Existing regulations prescribing the quantity and kind of clothing furnished, and any cash allowances in lieu thereof, shall remain in effect until modified, revoked, or superseded by action taken pursuant to this order.
 

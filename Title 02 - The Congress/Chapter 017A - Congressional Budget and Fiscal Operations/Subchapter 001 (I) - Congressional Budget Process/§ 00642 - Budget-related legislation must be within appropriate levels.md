@@ -24,7 +24,7 @@
 
 #### (3) Enforcement of social security levels in Senate
 
-&emsp;After a concurrent resolution on the budget is agreed to, it shall not be in order in the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause a decrease in social security surpluses or an increase in social security deficits relative to the levels set forth in the applicable resolution for the first fiscal year or for the total of that fiscal year and the ensuing fiscal years for which allocations are provided under section 633(a) of this title.
+&emsp;After a concurrent resolution on the budget is agreed to, it shall not be in order in the Senate to consider any bill, joint resolution, amendment, motion, or conference report that would cause a decrease in social security surpluses or an increase in social security deficits relative to the levels set forth in the applicable resolution for the first fiscal year or forthe total of that fiscal year and the ensuing fiscal years for which allocations are provided under section 633(a) of this title.
 
 #### (b) Social security levels
 

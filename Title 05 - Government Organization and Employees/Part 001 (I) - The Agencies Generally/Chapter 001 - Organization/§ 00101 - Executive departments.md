@@ -102,6 +102,14 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 89–670 effective Apr. 1, 1967, as prescribed by the President and published in the Federal Register, see section 16(a), formerly §15(a), of Pub. L. 89–670 and Ex. Ord. No. 11340, Mar. 30, 1967, 32 F.R. 5453.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–296, title XIII, §1301, Nov. 25, 2002, 116 Stat. 2287, provided that: “This title \[enacting chapter 14 of this title, subchapter II of chapter 35 of this title, and section 3319 of this title, amending sections 1103, 3111, 3304, 3393, 3592 to 3594, 4107, 5307, 7701, 7905, 8336, 8339, 8414, and 8421 of this title, sections 1115 and 1116 of Title 31, Money and Finance, and section 1902 of Title 50, War and National Defense, repealing section 3393a of this title, enacting provisions set out as notes under sections 1103, 1401, 3301, 3521, 3592, 3593, and 8336 of this title, and repealing provisions set out as notes under sections 8336 and 8414 of this title\] may be cited as the ‘Chief Human Capital Officers Act of 2002’.”
+
+#### Short Title of 2001 Amendment
+
+Pub. L. 107–27, §1, Aug. 20, 2001, 115 Stat. 207, provided that: “This Act \[amending sections 8335 and 8425 of this title\] may be cited as the ‘Federal Firefighters Retirement Age Fairness Act’.”
+
 #### Prohibition Against Construction That Would Render Applicable to the Department of Transportation Provisions of Law Inconsistent With Pub. L. 89–670 Creating the Department of Transportation
 
 Section 10(c) of Pub. L. 89–670, which provided that the amendment made to this section by section 10(b) of Pub. L. 89–670 was not to be construed to make applicable to the Department any provision of law inconsistent with Pub. L. 89–670, was repealed by Pub. L. 104–287, §7(5), Oct. 11, 1996, 110 Stat. 3400.

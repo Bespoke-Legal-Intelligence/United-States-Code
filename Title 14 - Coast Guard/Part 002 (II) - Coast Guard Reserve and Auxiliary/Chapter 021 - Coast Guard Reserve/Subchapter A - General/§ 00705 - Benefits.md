@@ -1,6 +1,6 @@
 ### §705. Benefits
 
-(a) A member of the Reserve on active duty, on inactive-duty training, or engaged in authorized travel to or from that duty, is entitled to the same benefits as a member of the Naval Reserve of corresponding grade, rating, and length of service. In determining length of service forthe purpose of this section, there shall be included all service for which credit is given by law to members of the Regular Coast Guard.
+(a) A member of the Reserve on active duty, on inactive-duty training, or engaged in authorized travel to or from that duty, is entitled to the same benefits as a member of the Naval Reserve of corresponding grade, rating, and length of service. In determining length of service for the purpose of this section, there shall be included all service for which credit is given by law to members of the Regular Coast Guard.
 
 (b) Chapter 13 of this title applies to a member of the Reserve under the same conditions and limitations as it applies to a member of the Regular Coast Guard.
 

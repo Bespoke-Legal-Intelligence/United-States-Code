@@ -2,7 +2,7 @@
 
 (a) Whenever the Under Secretary for Health (or an official designated by the Under Secretary for Health) brings charges based on conduct or performance against a section 7401(1) employee and as a result of those charges an adverse personnel action is taken against the employee, the employee shall have the right to appeal the action.
 
-(b)(1) If the case involves or includes a question of professional conduct or competence in which a major adverse action was taken, such an appeal shall be made to a Disciplinary Appeals Board under section 7462 of this title.
+(b)(1) If the case involves or includes a question of professional conduct or competence in which a major adverse action was taken, such anappeal shall be made to a Disciplinary Appeals Board under section 7462 of this title.
 
 (2) In any other case, such an appeal shall be made—
 

@@ -44,7 +44,7 @@ Pub. L. 97–35, title XII, §1201(a), Aug. 13, 1981, 95 Stat. 703, provided tha
 
 #### Short Title of 1978 Amendment
 
-Pub. L. 95–319, §1, July 11, 1978, 92 Stat. 386, provided: “That this Act \[enacting section 2082 of this title, amending section 2068 of this title, and enacting provision set out as a note under section 2082 of this title\] may be cited as the ‘Emergency Interim Consumer Product Safety Standard Act of 1978’.”
+Pub. L. 95–319, §1, July 11, 1978, 92 Stat. 386, provided: “That this Act \[enacting section 2082 of this title,amending section 2068 of this title, and enacting provision set out as a note under section 2082 of this title\] may be cited as the ‘Emergency Interim Consumer Product Safety Standard Act of 1978’.”
 
 #### Short Title of 1976 Amendment
 

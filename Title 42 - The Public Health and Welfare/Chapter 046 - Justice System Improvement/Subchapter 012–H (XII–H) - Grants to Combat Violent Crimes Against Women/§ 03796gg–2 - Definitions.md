@@ -12,7 +12,7 @@ In this subchapter—
 
 &emsp;(5) the term “prosecution” means any public agency charged with direct responsibility for prosecuting criminal offenders, including such agency's component bureaus (such as governmental victim services programs);
 
-&emsp;(6) the term “sexual assault” means any conduct proscribed by chapter 109A of title 18, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States or in a Federal prison and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim;
+&emsp;(6) the term “sexual assault” means any conduct proscribed by chapter 109A of title 18,whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States or in a Federal prison and includes both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim;
 
 &emsp;(7) the term “underserved populations” includes populations underserved because of geographic location (such as rural isolation), underserved racial and ethnic populations, populations underserved because of special needs (such as language barriers, disabilities, alienage status, or age), and any other population determined to be underserved by the State planning process in consultation with the Attorney General;
 
@@ -30,11 +30,15 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(iii) the frequency of interaction between the persons involved in the relationship.
 
-(Pub. L. 90–351, title I, §2003, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1913; amended Pub. L. 106–386, div. B, title I, §§1103(b)(3), 1109(a)(1), Oct. 28, 2000, 114 Stat. 1496, 1502.)
+(Pub. L. 90–351, title I, §2008, formerly §2003, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1913; amended Pub. L. 106–386, div. B, title I, §§1103(b)(3), 1109(a)(1), Oct. 28, 2000, 114 Stat. 1496, 1502; renumbered §2008, Pub. L. 107–273, div. A, title IV, §402(2), Nov. 2, 2002, 116 Stat. 1789.)
 
 #### References in Text
 
 The Alaska Native Claims Settlement Act, referred to in par. (3), is Pub. L. 92–203, §2, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 43 and Tables.
+
+#### Codification
+
+Amendment by section 402(2) of Pub. L. 107–273, which directed the renumbering of sections 2002 to 2006 of Pub. L. 90–351 as sections 2006 to 2011 of that act, was executed by renumbering sections 2002 to 2006 as sections 2007 to 2011 of that act, respectively, to reflect the probable intent of Congress.
 
 #### Amendments
 

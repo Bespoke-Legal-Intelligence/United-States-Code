@@ -6,5 +6,5 @@ If the Secretary determines that a person has knowingly adopted a material schem
 
 #### Effective Date
 
-Section effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as an Effective Date of 1994 Amendment note under section 1502 of this title.
+Section effective Oct. 13, 1994, and applicable to provision of crop insurance under Federal Crop InsuranceAct (7 U.S.C. 1501 et seq.) beginning with 1995 crop year, with such Act, as in effect on the day before Oct. 13, 1994, to continue to apply with respect to 1994 crop year, see section 120 of Pub. L. 103–354, set out as an Effective Date of 1994 Amendment note under section 1502 of this title.
 

@@ -34,6 +34,10 @@ The text of 49 App.:1357(k)(3) and the words “Not later than 180 days after th
 
 1996—Pub. L. 104–132 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “The Administrator of the Federal Aviation Administration shall continue in effect the requirement of section 129.25 of title 14, Code of Federal Regulations, that a foreign air carrier must adopt and use a security program approved by the Administrator. The Administrator may approve a security program of a foreign air carrier under section 129.25 only if the Administrator decides the security program provides passengers of the foreign air carrier a level of protection similar to the level those passengers would receive under the security programs of air carriers serving the same airport. The Administrator shall require a foreign air carrier to use procedures equivalent to those required of air carriers serving the same airport if the Administrator decides that the procedures are necessary to provide a level of protection similar to that provided passengers of the air carriers serving the same airport. The Administrator shall prescribe regulations to carry out this section.”
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 106, 40109, 44915, 44937, 44938, 46314 of this title.

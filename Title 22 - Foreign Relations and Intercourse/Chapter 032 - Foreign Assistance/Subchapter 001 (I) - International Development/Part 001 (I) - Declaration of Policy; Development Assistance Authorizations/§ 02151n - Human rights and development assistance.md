@@ -50,9 +50,21 @@ The Secretary of State shall transmit to the Speaker of the House of Representat
 
 &emsp;(6) the steps the Administrator has taken to alter United States programs under subchapter I of this chapter in any country because of human rights considerations;
 
-&emsp;(7) wherever applicable, violations of religious freedom, including particularly severe violations of religious freedom (as defined in section 6402 of this title) <sup>2</sup> and
+&emsp;(7) wherever applicable, violations of religious freedom, including particularly severe violations of religious freedom (as defined in section 6402 of this title);
 
-&emsp;(8) wherever applicable, consolidated information regarding the commission of war crimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) of the Genocide Convention Implementation Act of 1987).
+&emsp;(8) wherever applicable, consolidated information regarding the commission of war crimes, crimes against humanity, and evidence of acts that may constitute genocide (as defined in article 2 of the Convention on the Prevention and Punishment of the Crime of Genocide and modified by the United States instrument of ratification to that convention and section 2(a) of the Genocide Convention Implementation Act of 1987);
+
+&emsp;(9) for each country with respect to which the report indicates that extrajudicial killings, torture, or other serious violations of human rights have occurred in the country, the extent to which the United States has taken or will take action to encourage an end to such practices in the country; and
+
+&emsp;(10)(A) wherever applicable, a description of the nature and extent—
+
+&emsp;&emsp;(i) of the compulsory recruitment and conscription of individuals under the age of 18 by armed forces of the government of the country, government-supported paramilitaries, or other armed groups, and the participation of such individuals in such groups; and
+
+&emsp;&emsp;(ii) that such individuals take a direct part in hostilities;
+
+&emsp;(B) what steps, if any, taken by the government of the country to eliminate such practices; and
+
+&emsp;(C) such other information related to the use by such government of individuals under the age of 18 as soldiers, as determined to be appropriate by the Secretary.
 
 #### (e) Promotion of civil and political rights
 
@@ -88,7 +100,7 @@ The President is authorized and encouraged to use not less than $3,000,000 of th
 
 (2) In compiling data and making assessments for the purposes of paragraph (1), United States diplomatic mission personnel shall consult with human rights organizations and other appropriate nongovernmental organizations.
 
-(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII,§701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471.)
+(Pub. L. 87–195, pt. I, §116, as added Pub. L. 94–161, title III, §310, Dec. 20, 1975, 89 Stat. 860; amended Pub. L. 95–88, title I, §111, Aug. 3, 1977, 91 Stat. 537; Pub. L. 95–105, title I, §109(a)(2), Aug. 17, 1977, 91 Stat. 846; Pub. L. 95–424, title I, §109, Oct. 6, 1978, 92 Stat. 947; Pub. L. 96–53, title I, §106, title V, §504(a), Aug. 14, 1979, 93 Stat. 362, 378; Pub. L. 96–533, title III, §305, title VII, §701(a), Dec. 16, 1980, 94 Stat. 3147, 3156; Pub. L. 97–113, title III, §306, Dec. 29, 1981, 95 Stat. 1533; Pub. L. 98–164, title X, §1002(a), Nov. 22, 1983, 97 Stat. 1052; Pub. L. 99–440, title II, §202, Oct. 2, 1986, 100 Stat. 1095; Pub. L. 99–631, §1(b)(2), Nov. 7, 1986, 100 Stat. 3519; Pub. L. 100–204, title I, §127(1), Dec. 22, 1987, 101 Stat. 1342; Pub. L. 101–513, title V, §§562(d)(3), 599D, Nov. 5, 1990, 104 Stat. 2031, 2066; Pub. L. 103–149, §4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505; Pub. L. 103–236, title I, §162(e)(1), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(6), Nov. 2, 1994, 108 Stat. 4588; Pub. L. 104–319, title II, §201(a), Oct. 19, 1996, 110 Stat. 3866; Pub. L. 105–277, div. G, subdiv. B, title XXII, §2216, Oct. 21, 1998, 112 Stat. 2681–815; Pub. L. 105–292, title I, §102(d)(1), title IV, §421(a), title V, §501(b), Oct. 27, 1998, 112 Stat. 2794, 2809, 2811; Pub. L. 106–113, div. B, §§1000(a)(2) \[title V, §597\], 1000(a)(7) \[div. A, title VIII, §806(a)\], Nov. 29, 1999, 113 Stat. 1535, 1536, 1501A–126, 1501A–471; Pub. L. 106–386, div. A, §104(a), Oct. 28, 2000, 114 Stat. 1471; Pub. L. 107–228, div. A, title VI, §§665(a), 683(a), Sept. 30, 2002, 116 Stat. 1406, 1410.)
 
 #### References in Text
 
@@ -103,6 +115,10 @@ References to subchapter I of this chapter are deemed to include parts IV (§234
 The amendment by section 102(d)(1) of Pub. L. 105–292 was executed before the amendment by Pub. L. 105–277 to reflect the probable intent of Congress.
 
 #### Amendments
+
+2002—Subsec. (d)(9). Pub. L. 107–228, §665(a), added par. (9).
+
+Subsec. (d)(10). Pub. L. 107–228, §683(a), added par. (10).
 
 2000—Subsec. (f). Pub. L. 106–386 amended subsec. (f) generally, substituting present provisions for provisions listing information required for report under subsec. (d) of this section, providing for consultation with human rights and other appropriate nongovernmental organizations in compiling data for required information, and defining “trafficking” and “victims of trafficking” for purposes of subsection.
 
@@ -196,6 +212,34 @@ Amendment by Pub. L. 95–424 effective Oct. 1, 1978, see section 605 of Pub. L.
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Separate Report
+
+Pub. L. 107–228, div. A, title VI, §665(c), Sept. 30, 2002, 116 Stat. 1407, provided that: “The information to be included in the report required by sections 116(d) and 502B(b) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151n(d), 2304(b)\] pursuant to the amendments made by subsections (a) and (b) \[amending this section and section 2304 of this title\] may be submitted by the Secretary as a separate report. If the Secretary elects to submit such information as a separate report, such report shall be submitted not later than 30 days after the date of submission of the report required by section \[sic\] 116(d) and 502B(b) of the Foreign Assistance Act of 1961.”
+
+\[For definition of “Secretary” as used in section 665(c) of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+
+#### Annual Reports on United States-Vietnam Human Rights Dialogue Meetings
+
+Pub. L. 107–228, div. A, title VI, §702, Sept. 30, 2002, 116 Stat. 1420, provided that: “Not later than December 31 of each year or 60 days after the second United States-Vietnam human rights dialogue meeting held in a calendar year, whichever is earlier, the Secretary shall submit to the appropriate congressional committees a report covering the issues discussed at the previous two meetings and describing to what extent the Government of Vietnam has made progress during the calendar year toward achieving the following objectives:
+
+&emsp;“(1) Improving the Government of Vietnam's commercial and criminal codes to bring them into conformity with international standards, including the repeal of the Government of Vietnam's administrative detention decree (Directive 31/CP).
+
+&emsp;“(2) Releasing political and religious activists who have been imprisoned or otherwise detained by the Government of Vietnam, and ceasing surveillance and harassment of those who have been released.
+
+&emsp;“(3) Ending official restrictions on religious activity, including implementing the recommendations of the United Nations Special Rapporteur on Religious Intolerance.
+
+&emsp;“(4) Promoting freedom for the press, including freedom of movement of members of the Vietnamese and foreign press.
+
+&emsp;“(5) Improving prison conditions and providing transparency in the penal system of Vietnam, including implementing the recommendations of the United Nations Working Group on Arbitrary Detention.
+
+&emsp;“(6) Respecting the basic rights of indigenous minority groups, especially in the central and northern highlands of Vietnam.
+
+&emsp;“(7) Respecting the basic rights of workers, including working with the International Labor Organization to improve mechanisms for promoting such rights.
+
+&emsp;“(8) Cooperating with requests by the United States to obtain full and free access to persons who may be eligible for admission to the United States as refugees or immigrants, and allowing such persons to leave Vietnam without being subjected to extortion or other corrupt practices.”
+
+\[For definitions of “Secretary” and “appropriate congressional committees” as used in section 702 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+
 #### Assistance for Promoting Religious Freedom
 
 Pub. L. 105–292, title V, §501(a), Oct. 27, 1998, 112 Stat. 2811, provided that: “Congress makes the following findings:
@@ -214,9 +258,7 @@ Section 504(b) of Pub. L. 96–53, which required Secretary of State to report b
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2199, 2296d, 2398, 2651a, 5732, 6402, 6412, 6442, 6445, 7110 of this title; title 48 section 1904.
+This section is referred to in sections 2151n–2, 2199, 2296d, 2347h, 2398, 2651a, 5732, 6402, 6412, 6442, 6445, 7110 of this title; title 48 section 1904.
 
 <i><sup>1</sup></i><i> So in original. Two subsecs. (b) have been enacted.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

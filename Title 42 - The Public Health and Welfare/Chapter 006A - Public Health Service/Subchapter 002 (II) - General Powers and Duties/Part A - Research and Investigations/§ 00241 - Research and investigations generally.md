@@ -216,5 +216,5 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 242, 254c, 254c–8, 263, 282, 284, 284f, 7610 of this title.
+This section is referred to in sections 242, 254c, 254c–8, 254c–14, 263, 282, 284, 284f, 7610 of this title.
 

@@ -2,7 +2,7 @@ Part B—Mathematics and Science Partnerships
 
 #### Part Referred to in Other Sections
 
-This part is referred to in section 7881 of this title.
+This part is referred to in section 7881 of this title; title 42 section 1862n.
 
 <i><sup>1</sup></i><i> So in original. There is no closing parenthesis.</i>
 

@@ -12,7 +12,7 @@ The Secretary shall prepare a plan which shall best serve the interests of all t
 
 In preparing a plan for the use or distribution of the funds of each Indian judgment, the Secretary shall, among other things, be assured that—
 
-&emsp;(1) legal, financial, and other expertise of the Department of the Interior has been made fully available in an advisory capacity to the Indian tribe which is entitled to such funds to assist it to develop and communicate to the Secretary pursuant to clause (1) of subsection\(a) of this section its own suggested plan for the distribution and use of such funds;
+&emsp;(1) legal, financial, and other expertise of the Department of the Interior has been made fully available in an advisory capacity to the Indian tribe which is entitled to such funds to assist it to develop and communicate to the Secretary pursuant to clause (1) of subsection (a) of this section its own suggested plan for the distribution and use of such funds;
 
 &emsp;(2) the needs and desires of any groups or individuals who are in a minority position, but who are also entitled to receive such funds, have been fully ascertained and considered;
 

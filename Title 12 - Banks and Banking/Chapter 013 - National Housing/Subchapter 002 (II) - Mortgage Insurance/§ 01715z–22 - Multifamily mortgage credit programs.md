@@ -18,11 +18,11 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (B) Mortgage insurance and reinsurance
 
-&emsp;&emsp;Agreements under subparagraph (A) may provide for (i) mortgage insurance through the Federal Housing Administration of loans for affordable multifamily housing originated by or through, or purchased by, qualified participating entities, and (ii) reinsurance, including reinsurance of pools of loans, on affordable multifamily housing. In entering into risk-sharing agreements under this subsection covering mortgages, the Secretary may give preference to mortgages that are not already in the portfolios of qualified participating entities.
+&emsp;&emsp;Agreements under subparagraph (A) may provide for (i) mortgage insurance through the Federal Housing Administration of loans for affordable multifamily housing originated by or through, or purchased by, qualified participating entities, and (ii) reinsurance, including reinsurance of pools of loans,on affordable multifamily housing. In entering into risk-sharing agreements under this subsection covering mortgages, the Secretary may give preference to mortgages that are not already in the portfolios of qualified participating entities.
 
 #### (C) Risk apportionment
 
-&emsp;&emsp;Agreements entered into under this subsection between the Secretary and a qualified participating entity shall specify the percentage of loss that each of the parties to the agreement will assume in the event of default of the insured or reinsured multifamily mortgage. Such agreements shall specifythat the qualified participating entity and the Secretary shall share any loss in accordance with the risk-sharing agreement.
+&emsp;&emsp;Agreements entered into under this subsection between the Secretary and a qualified participating entity shall specify the percentage of loss that each of the parties to the agreement will assume in the event of default of the insured or reinsured multifamily mortgage. Such agreements shall specify that the qualified participating entity and the Secretary shall share any loss in accordance with the risk-sharing agreement.
 
 #### (D) Reimbursement capacity
 
@@ -66,7 +66,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (4) Eligibility standards
 
-&emsp;The Secretary shall establish and enforce standards for eligibility under this subsection of qualified participating entities under this subsection, as the Secretary determines to be appropriate.
+&emsp;The Secretary shall establish and enforce standards for eligibility under this subsectionof qualified participating entities under this subsection, as the Secretary determines to be appropriate.
 
 #### (5) Insurance authority
 
@@ -74,7 +74,7 @@ The Secretary of Housing and Urban Development (hereinafter referred to as the �
 
 #### (6) Fees
 
-&emsp;The Secretary shall establish and collect premiums and fees under this subsection asthe Secretary determines appropriate to (A) achieve the purpose of this subsection, and (B) compensate the Federal Housing Administration for the risks assumed and related administrative costs.
+&emsp;The Secretary shall establish and collect premiums and fees under this subsection as the Secretary determines appropriate to (A) achieve the purpose of this subsection, and (B) compensate the Federal Housing Administration for the risks assumed and related administrative costs.
 
 #### (7) Non-Federal participation
 
@@ -258,7 +258,7 @@ Subsec. (b)(1). Pub. L. 106–377, §1(a)(1) \[title II, §235(2)(A)\], substitu
 
 Subsec. (b)(2)(A). Pub. L. 106–377, §1(a)(1) \[title II, §235(5)\], struck out “pilot” before “program”.
 
-Subsec. (b)(5). Pub. L. 106–377, §1(a)(1) \[title II, §235(2)(B)\], added par. (5) and struck out heading and text of former par. (5). Text read as follows: “Using any authority provided in appropriation Acts to insure loans under the National Housing Act, the Secretary may enter into commitments under this subsection for risk sharing with respect to mortgages on not more than 7,500 units during fiscal year 1996. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) are submitted to Congress, and not more than an additional 25,000 units in each of the fiscal years 1999 and 2000.”
+Subsec. (b)(5). Pub. L. 106–377, §1(a)(1) \[title II, §235(2)(B)\], added par. (5) and struck out heading and text of former par. (5). Text read as follows: “Using any authority provided in appropriation Acts to insure loans under the National Housing Act, the Secretarymay enter into commitments under this subsection for risk sharing with respect to mortgages on not more than 7,500 units during fiscal year 1996. The demonstration authorized under this subsection shall not be expanded until the reports required under subsection (d) are submitted to Congress, and not more than an additional 25,000 units in each of the fiscal years 1999 and 2000.”
 
 Subsec. (c). Pub. L. 106–377, §1(a)(1) \[title II, §235(5)\], struck out “pilot” after “finance agency” in heading.
 

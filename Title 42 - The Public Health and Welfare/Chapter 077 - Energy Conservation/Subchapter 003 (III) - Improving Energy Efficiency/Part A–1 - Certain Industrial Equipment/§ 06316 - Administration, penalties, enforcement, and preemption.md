@@ -1,6 +1,6 @@
 ### §6316. Administration, penalties, enforcement, and preemption
 
-(a) The provisions of section 6296(a), (b), and (d) of this title, the provisions of subsections (<i>l</i>) through (s) of section 6295 of this title, and section <sup>1</sup> 6297 through 6306 of this title shall apply with respect to this part (other than the equipment specified in subparagraphs (B), (C), (D), (E), and (F) of section 6311(1) of this title) to the same extent and in the same manner as they apply in part A of this subchapter. In applying such provisions for the purposes of this part—
+(a) The provisions of section 6296(a), (b), and (d) of this title, the provisions of subsections (<i>l</i>) through (s) of section 6295 of this title, and section <sup>1</sup> 6297 through 6306 of this title shall apply with respect to this part (other than the equipment specified in subparagraphs (B), (C), (D), (E), and (F) of section 6311(1) of this title) to thesame extent and in the same manner as they apply in part A of this subchapter. In applying such provisions for the purposes of this part—
 
 &emsp;(1) references to sections 6293, 6294, and 6295 of this title shall be considered as references to sections 6314, 6315, and 6313 of this title, respectively;
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(A) has a substantial amount of educational loans relative to income; and
 
-&emsp;&emsp;(B) agrees to serve as an employee of the National Institutes of Health for purposes of paragraph (1) for a period of not less than 3 years.
+&emsp;&emsp;(B) agrees to serve as an employee of the National Institutes of Health for purposes ofparagraph (1) for a period of not less than 3 years.
 
 #### (b) Applicability of certain provisions
 

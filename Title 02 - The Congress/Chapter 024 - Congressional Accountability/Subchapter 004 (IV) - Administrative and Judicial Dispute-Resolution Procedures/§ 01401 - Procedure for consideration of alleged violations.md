@@ -8,7 +8,7 @@ Except as otherwise provided, the procedure for consideration of alleged violati
 
 &emsp;(3) election, as provided in section 1404 of this title, of either—
 
-&emsp;&emsp;(A) a formal complaint and hearing as provided in section 1405 of this title, subject to Board review as provided in section 1406 of this title, and judicial review in the United States Court of Appeals for the Federal Circuit as provided in section 1407 of this title, or
+&emsp;&emsp;(A) a formal complaint and hearing as provided in section 1405 of this title, subject toBoard review as provided in section 1406 of this title, and judicial review in the United States Court of Appeals for the Federal Circuit as provided in section 1407 of this title, or
 
 &emsp;&emsp;(B) a civil action in a district court of the United States as provided in section 1408 of this title.
 

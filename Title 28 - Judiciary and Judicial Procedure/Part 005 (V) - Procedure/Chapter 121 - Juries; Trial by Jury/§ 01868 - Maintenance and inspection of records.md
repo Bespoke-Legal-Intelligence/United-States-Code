@@ -18,7 +18,7 @@ Words, “in the opinion of the court, disqualified” were substituted for “n
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–274 substituted provisions for the maintenance and inspection of records in the hands of the commission or clerk before the master wheel was emptied for provisions covering the disqualification of the United States marshal or his deputy and the appointment of a disinterested person by the court.
+1968—Pub. L. 90–274 substituted provisions for the maintenance and inspection of records in the hands of the commission or clerk before the master wheel was emptied for provisions covering the disqualification of the United States marshal or his deputy and the appointment of a disinterested person by the court.
 
 #### Effective Date of 1968 Amendment
 

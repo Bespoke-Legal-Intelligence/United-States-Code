@@ -24,3 +24,7 @@ For the purposes of this section there is authorized to be appropriated an amoun
 
 1973—Subsec. (c). Pub. L. 93–54 added subsec. (c) and repealed former subsec. (c) authorizing appropriation of $100,000 annually for fiscal years 1971 through 1973.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 40 section 3303.
+

@@ -10,7 +10,7 @@ The said commission may, at any time when the condition of the navigable rivers 
 
 #### Transfer of Functions
 
-California Debris Commission abolished and functions transferred to Secretary of the Army by Pub. L. 99–662, title XI, §1106, Nov. 17, 1986, 100 Stat. 4229, set out as a note under section 661 of this title.
+California Debris Commission abolished and functions transferred to Secretary of the Army by Pub. L.99–662, title XI, §1106, Nov. 17, 1986, 100 Stat. 4229, set out as a note under section 661 of this title.
 
 #### Section Referred to in Other Sections
 

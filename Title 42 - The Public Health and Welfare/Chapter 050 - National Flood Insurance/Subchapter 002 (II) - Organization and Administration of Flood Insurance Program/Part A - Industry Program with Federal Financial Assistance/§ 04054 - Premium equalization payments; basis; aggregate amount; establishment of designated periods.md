@@ -12,6 +12,10 @@
 
 1973—Subsecs. (b), (c). Pub. L. 93–234 redesignated subsec. (c) as (b) and struck out former subsec. (b) prescribing formula for sharing losses between Government and industry and permit necessary flexibility in loss sharing to take into account longer-term loss experience trends and to compensate for lack of precision in actuarial computations.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4017, 4052, 4056, 4127 of this title.

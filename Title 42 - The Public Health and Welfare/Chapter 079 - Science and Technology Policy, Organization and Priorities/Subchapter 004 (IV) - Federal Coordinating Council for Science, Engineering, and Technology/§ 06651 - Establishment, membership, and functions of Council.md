@@ -10,7 +10,7 @@ The Council shall be composed of the Director of the Office of Science and Techn
 
 #### (c) Chairman
 
-The Director of the Office of Science and Technology Policy shall serve as Chairman of theCouncil. The Chairman may designate another member of the Council to act temporarily in the Chairman's absence as Chairman.
+The Director of the Office of Science and Technology Policy shall serve as Chairman of the Council. The Chairman may designate another member of the Council to act temporarily in the Chairman's absence as Chairman.
 
 #### (d) Participation of unnamed Federal agencies in meetings; invitations to attend meetings
 

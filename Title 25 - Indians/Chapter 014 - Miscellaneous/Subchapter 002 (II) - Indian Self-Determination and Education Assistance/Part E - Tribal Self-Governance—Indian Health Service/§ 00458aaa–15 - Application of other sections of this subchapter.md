@@ -6,7 +6,7 @@ All provisions of sections 450c(b), 450d, 450e, 450f(c) and (d), 450i, 450j(k) a
 
 #### (b) Discretionary application
 
-At the request of a participating Indian tribe, any other provision of part A of this subchapter, to the extent such provision is not in conflict with this part, shall be made a part of a funding agreement or compact entered into under this part. The Secretary is obligated to include such provision at the option of the participating Indian tribe or tribes. If such provision is incorporated it shall have the same force and effect as if it were set out in full in this part. In the event an Indian tribe requests such incorporation at the negotiation stage of a compact or funding agreement, such incorporation shall be deemed effective immediately and shall control the negotiation and resulting compact and funding agreement.
+At the request of a participating Indian tribe, any other provision of part A of this subchapter, to the extent such provision is not in conflict with this part, shall be made a part of a funding agreement or compact entered into under this part. The Secretary is obligated to include such provision at the option of the participating Indian tribe or tribes. If such provision is incorporated it shall have the same force and effect as if it were set out in full in this part. In the event an Indian tribe requests such incorporation at the negotiation stage of a compact orfunding agreement, such incorporation shall be deemed effective immediately and shall control the negotiation and resulting compact and funding agreement.
 
 (Pub. L. 93–638, title V, §516, as added Pub. L. 106–260, §4, Aug. 18, 2000, 114 Stat. 729.)
 

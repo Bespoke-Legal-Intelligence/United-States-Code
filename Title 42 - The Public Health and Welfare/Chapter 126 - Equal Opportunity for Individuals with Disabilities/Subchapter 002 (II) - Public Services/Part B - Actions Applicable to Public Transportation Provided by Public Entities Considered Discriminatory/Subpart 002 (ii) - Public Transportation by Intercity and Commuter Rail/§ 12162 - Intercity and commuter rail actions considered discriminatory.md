@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) the car adjacent to the end of the dining car through which a wheelchair may enter is itself accessible to a wheelchair;
 
-&emsp;&emsp;&emsp;&emsp;(II) such passenger can exit to the platform from the car such passenger occupies, move down the platform, and enter the adjacent accessible car described insubclause (I) without the necessity of the train being moved within the station; and
+&emsp;&emsp;&emsp;&emsp;(II) such passenger can exit to the platform from the car such passenger occupies, move down the platform, and enter the adjacent accessible car described in subclause (I) without the necessity of the train being moved within the station; and
 
 &emsp;&emsp;&emsp;&emsp;(III) space to park and secure a wheelchair is available in the dining car at the time such passenger wishes to eat (if such passenger wishes to remain in a wheelchair), or space to store and fold a wheelchair is available in the dining car at the time such passenger wishes to eat (if such passenger wishes to transfer to a dining car seat); and
 
@@ -116,7 +116,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to purchase or lease any new rail passenger cars for use in commuter rail transportation, and for which a solicitation is made later than 30 days after July 26, 1990, unless all such rail cars are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
+&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a person to purchaseor lease any new rail passenger cars for use in commuter rail transportation, and for which a solicitation is made later than 30 days after July 26, 1990, unless all such rail cars are readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
 
 #### (B) Accessibility
 
@@ -154,7 +154,7 @@ It shall be considered discrimination for purposes of section 12132 of this titl
 
 #### (i) General rule
 
-&emsp;&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title andsection 794 of title 29 for a responsible person to fail to make existing stations in the intercity rail transportation system, and existing key stations in commuter rail transportation systems, readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
+&emsp;&emsp;&emsp;It shall be considered discrimination for purposes of section 12132 of this title and section 794 of title 29 for a responsible person to fail to make existing stations in the intercity rail transportation system, and existing key stations in commuter rail transportation systems, readily accessible to and usable by individuals with disabilities, including individuals who use wheelchairs, as prescribed by the Secretary of Transportation in regulations issued under section 12164 of this title.
 
 #### (ii) Period for compliance
 

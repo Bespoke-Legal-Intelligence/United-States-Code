@@ -2,7 +2,7 @@
 
 (a) The Secretary of Agriculture shall procure and preserve all information concerning agriculture, rural development, aquaculture, and human nutrition which he can obtain by means of books and correspondence, and by practical and scientific experiments, accurate records of which experiments shall be kept in his office, by the collection of statistics, and by any other appropriate means within his power; he shall collect new and valuable seeds and plants; shall test, by cultivation, the value of such of them as may require such tests; shall propagate such as may be worthy of propagation; and shall distribute them among agriculturists; and he shall advise the President, other members of his Cabinet, and the Congress on policies and programs designed to improve the quality of life for people living in the rural and nonmetropolitan regions of the Nation.
 
-(b) The Secretary is authorized to initiate or expand research and development efforts relatedto solution of problems of rural water supply, rural sewage and solid waste management, rural housing, rural industrialization, and technology appropriate to small- and moderate-sized family farming operations, and any other problem that the Secretary may determine has an effect upon the economic development or the quality of life in rural areas.
+(b) The Secretary is authorized to initiate or expand research and development efforts related to solution of problems of rural water supply, rural sewage and solid waste management, rural housing, rural industrialization, and technology appropriate to small- and moderate-sized family farming operations, and any other problem that the Secretary may determine has an effect upon the economic development or the quality of life in rural areas.
 
 (R.S. §526; Feb. 9, 1889, ch. 122, §§1, 4, 25 Stat. 659; Pub. L. 92–419, title VI, §603(b), Aug. 30, 1972, 86 Stat. 675; Pub. L. 94–273, §7(4), Apr. 21, 1976, 90 Stat. 378; Pub. L. 95–113, title XV, §1502(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 96–355, §5, Sept. 24, 1980, 94 Stat. 1174.)
 
@@ -47,6 +47,88 @@ Delegation of authority to Secretary with respect to nation's food program durin
 #### Emergency Preparedness Functions
 
 For assignment of certain emergency preparedness functions to Secretary of Agriculture, see Parts 1, 2, and 3 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
+#### Report on Geographically Disadvantaged Farmers and Ranchers
+
+Pub. L. 107–171, title X, §10906, May 13, 2002, 116 Stat. 538, provided that:
+
+“(a)
+
+Definition of Geographically Disadvantaged Farmer or Rancher.—In this section, the term ‘geographically disadvantaged farmer or rancher’ means a farmer or rancher in—
+
+&emsp;“(1) an insular area (as defined in section 1404 of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 (7 U.S.C. 3103) (as amended by section 7502(a)); or
+
+&emsp;“(2) a State other than 1 of the 48 contiguous States.
+
+“(b)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report that describes—
+
+&emsp;“(1) barriers to efficient and competitive transportation of inputs and products by geographically disadvantaged farmers and ranchers; and
+
+&emsp;“(2) means of encouraging and assisting geographically disadvantaged farmers and ranchers—
+
+&emsp;&emsp;“(A) to own and operate farms and ranches; and
+
+&emsp;&emsp;“(B) to participate equitably in the full range of agricultural programs offered by the Department of Agriculture.”
+
+#### Review of Operation of Agricultural and Natural Resource Programs on Tribal Trust Land
+
+Pub. L. 107–171, title X, §10910, May 13, 2002, 116 Stat. 539, provided that:
+
+“(a)
+
+Review.—The Secretary of Agriculture (referred to in this section as the ‘Secretary’) shall conduct a review of the operation of agricultural and natural resource programs available to farmers and ranchers operating on tribal and trust land, including—
+
+&emsp;“(1) agricultural commodity, price support, and farm income support programs (collectively referred to in this section as ‘agricultural commodity programs’);
+
+&emsp;“(2) conservation programs (including financial and technical assistance);
+
+&emsp;“(3) agricultural credit programs;
+
+&emsp;“(4) rural development programs; and
+
+&emsp;“(5) forestry programs.
+
+“(b)
+
+Criteria for Review.—In carrying out the review under subsection (a), the Secretary shall consider—
+
+&emsp;“(1) the extent to which agricultural commodity programs and conservation programs are consistent with tribal goals and priorities regarding the sustainable use of agricultural land;
+
+&emsp;“(2) strategies for increasing tribal participation in agricultural commodity programs and conservation programs;
+
+&emsp;“(3) the educational and training opportunities available to Indian tribes and members of Indian tribes in the practical, technical, and professional aspects of agriculture and land management; and
+
+&emsp;“(4) the development and management of agricultural land under the jurisdiction of Indian tribes in accordance with integrated resource management plans that—
+
+&emsp;&emsp;“(A) ensure proper management of the land;
+
+&emsp;&emsp;“(B) produce increased economic returns;
+
+&emsp;&emsp;“(C) promote employment opportunities; and
+
+&emsp;&emsp;“(D) improve the social and economic well-being of Indian tribes and members of Indian tribes.
+
+“(c)
+
+Consultation.—In carrying out this section, the Secretary shall consult with—
+
+&emsp;“(1) the Secretary of the Interior;
+
+&emsp;“(2) local officers and employees of the Department of Agriculture; and
+
+&emsp;“(3) program recipients.
+
+“(d)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the Secretary shall submit to Congress a report that contains—
+
+&emsp;“(1) a description of the results of the review conducted under this section;
+
+&emsp;“(2) recommendations for program improvements; and
+
+&emsp;“(3) a description of actions that will be taken to carry out the improvements.”
 
 #### Aviation Inspections
 
@@ -94,7 +176,7 @@ Submission of results.—Not later than one year after the date of the implement
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of Agriculture are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13241, Dec. 18, 2001, 66 F.R. 66258,set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Agriculture are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13241, Dec. 18, 2001, 66 F.R. 66258, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

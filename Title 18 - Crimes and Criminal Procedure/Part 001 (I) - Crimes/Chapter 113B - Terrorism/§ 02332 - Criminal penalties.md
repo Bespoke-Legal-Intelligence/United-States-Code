@@ -16,7 +16,7 @@ Attempt or Conspiracy With Respect to Homicide.—Whoever outside the United Sta
 
 &emsp;(1) in the case of an attempt to commit a killing that is a murder as defined in this chapter, be fined under this title or imprisoned not more than 20 years, or both; and
 
-&emsp;(2) in the case of a conspiracy by two or more persons to commit a killing that is amurder as defined in section 1111(a) of this title, if one or more of such persons do any overt act to effect the object of the conspiracy, be fined under this title or imprisoned for any term of years or for life, or both so fined and so imprisoned.
+&emsp;(2) in the case of a conspiracy by two or more persons to commit a killing that is a murder as defined in section 1111(a) of this title, if one or more of such persons do any overt act to effect the object of the conspiracy, be fined under this title or imprisoned for any term of years or for life, or both so fined and so imprisoned.
 
 (c)
 

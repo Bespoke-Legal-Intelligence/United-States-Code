@@ -2,7 +2,7 @@
 
 (a) The Secretary, pursuant to general standards which the Secretary shall prescribe in regulations, shall measure and evaluate on a continuing basis the effect of all programs authorized under this title, in order to determine their effectiveness in achieving stated goals in general, and in achieving such goals in relation to their cost, their effect on related programs, and their structure and mechanisms for delivery of services. Such information as the Secretary may consider necessary for purposes of such evaluations shall be made available to the Secretary, upon request, by all departments, agencies, and instrumentalities of the executive branch.
 
-(b) In carrying out this section, the Secretary shall collect, collate, and analyze on a continuing basis full statistical data regarding participation (including the duration thereof), provision of services, categories of beneficiaries, planning and construction of facilities, acquisition of real property, proposed excessing of land, accretion and attrition of personnel, and categorized expenditures attributable thereto, under all programs carried out under this title.
+(b) In carrying out this section, the Secretary shall collect, collate, and analyze on a continuing basis full statistical data regarding participation (including the duration thereof), provision of services, categories of beneficiaries,planning and construction of facilities, acquisition of real property, proposed excessing of land, accretion and attrition of personnel, and categorized expenditures attributable thereto, under all programs carried out under this title.
 
 (c) The Secretary shall make available to the public, and on a regular basis provide to the appropriate committees of the Congress, copies of all completed evaluative research studies and summaries of evaluations of program impact and effectiveness carried out, and tabulations and analyses of all data collected, under this section.
 
@@ -74,7 +74,7 @@ In General.—(1) The Secretary of Veterans Affairs—
 
 &emsp;“(B) may, upon the request of a veteran described in subsection (b)(2), provide the veteran with such an examination (including diagnostic tests) and such consultation and counseling.
 
-“(2) The Secretary shall carry out appropriate outreach activities with respect to the provision of any health examinations (including any diagnostic tests)and consultation and counseling services under paragraph (1).
+“(2) The Secretary shall carry out appropriate outreach activities with respect to the provision of any health examinations (including any diagnostic tests) and consultation and counseling services under paragraph (1).
 
 “(b)
 
@@ -178,7 +178,7 @@ Research Review and Development of Medical Education Curriculum.—(1) In order 
 
 &emsp;“(B) on an ongoing basis, periodically review and provide recommendations regarding the research plans and research strategies of the Departments relating to the health consequences of military service in the Persian Gulf theater of operations during the Persian Gulf War.
 
-“(2) Recommendations to be provided under paragraph (1)(B) include any recommendations that the Academy considers appropriate for additional scientific studies (including studies related to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of any aspects of such military service. In making recommendations for additional studies, the Academy shall consider the available scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
+“(2) Recommendations to be provided under paragraph (1)(B) include any recommendations that the Academy considers appropriate for additional scientific studies (including studies related to treatment models) to resolve areas of continuing scientific uncertainty relating to the health consequences of any aspects of such military service. In making recommendations for additional studies, the Academy shall consider theavailable scientific data, the value and relevance of the information that could result from such studies, and the cost and feasibility of carrying out such studies.
 
 “(3) Not later than 9 months after the Institute of Medicine provides the Secretaries the curriculum developed under paragraph (1)(A), the Secretaries shall provide for the conduct of continuing education programs using that curriculum. Those programs shall include instruction which seeks to emphasize use of appropriate protocols of diagnosis, referral, and treatment of such veterans.
 

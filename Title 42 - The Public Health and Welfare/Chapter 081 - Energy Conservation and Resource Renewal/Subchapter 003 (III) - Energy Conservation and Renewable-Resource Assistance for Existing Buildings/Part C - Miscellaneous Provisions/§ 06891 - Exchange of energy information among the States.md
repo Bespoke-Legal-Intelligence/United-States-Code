@@ -1,6 +1,6 @@
 ### §6891. Exchange of energy information among the States
 
-The Secretary of Energy shall (through conferences, publications, and other appropriate means) encourage and facilitate the exchange of information among the States with respect to energy conservation and increased use of nondepletable energy sources.
+The Secretary of Energy shall (through conferences, publications, and other appropriatemeans) encourage and facilitate the exchange of information among the States with respect to energy conservation and increased use of nondepletable energy sources.
 
 (Pub. L. 94–385, title IV, §461, Aug. 14, 1976, 90 Stat. 1168; Pub. L. 95–91, title III, §301(a), title VII, §703, Aug. 4, 1977, 91 Stat. 577, 606.)
 

@@ -6,7 +6,7 @@ The purpose of this subchapter is to develop, demonstrate, and make available in
 
 #### Effective Date
 
-Section 9 of Pub. L. 96–554 provided that: “This Act \[enacting this subchapter and enacting a provision setout as a note under section 1600 of this title\] shall become effective October 1, 1981”.
+Section 9 of Pub. L. 96–554 provided that: “This Act \[enacting this subchapter and enacting a provision set out as a note under section 1600 of this title\] shall become effective October 1, 1981”.
 
 #### Short Title
 

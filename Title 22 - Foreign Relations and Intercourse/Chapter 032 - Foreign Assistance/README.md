@@ -253,7 +253,26 @@ Annual country reports on human rights practices.
 
 |  |  |
 | :--- | ---: |
-| 2151n–1, 2151<i>o</i>. | Repealed. |
+| 2151n–1. | Repealed. |
+| 2151n–2. | Human Rights and Democracy Fund. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment of Fund.
+
+(b)
+
+Purposes of Fund.
+
+(c)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 2151<i>o</i>. | Repealed. |
 | [2151p.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002151p%20-%20Environmental%20and%20natural%20resources.md) | Environmental and natural resources. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -663,7 +682,7 @@ Conduct of projects and activities.
 
 (d)
 
-Annual report.
+Biennial reports.
 
 (e)
 
@@ -682,6 +701,20 @@ Authorization.
 (b)
 
 Funding.
+
+|  |  |
+| :--- | ---: |
+| [2152e.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20001%20%28I%29%20-%20Declaration%20of%20Policy%3B%20Development%20Assistance%20Authorizations/%C2%A7%2002152e%20-%20Program%20to%20improve%20building%20construction%20and%20practices%20in%20Latin%20American%20countries.md) | Program to improve building construction and practices in Latin American countries. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Program description.
 
 #### Part II—Other Programs
 
@@ -1639,6 +1672,10 @@ Review and report by Secretary of State.
 
 Exceptions.
 
+(d)
+
+Programs and projects of the International Atomic Energy Agency in Iran.
+
 #### Part IV—Supporting Assistance
 
 |  |  |
@@ -2007,6 +2044,7 @@ Determining major drug-transit and major illicit drug producing countries.
 
 |  |  |
 | :--- | ---: |
+| 2291j–1. | International drug control certification procedures. |
 | [2291k.](Subchapter%20001%20%28I%29%20-%20International%20Development/Part%20008%20%28VIII%29%20-%20International%20Narcotics%20Control/%C2%A7%2002291k%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71112%28b%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20724.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2884,6 +2922,23 @@ Participation of Defense personnel in training prohibited; availability of funds
 | [2347a.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20005%20%28V%29%20-%20International%20Military%20Education%20and%20Training/%C2%A7%2002347a%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [2347b.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20005%20%28V%29%20-%20International%20Military%20Education%20and%20Training/%C2%A7%2002347b%20-%20Congressional%20declaration%20of%20purpose.md) | Congressional declaration of purpose. |
 | [2347c.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20005%20%28V%29%20-%20International%20Military%20Education%20and%20Training/%C2%A7%2002347c%20-%20Exchange%20training%3B%20reciprocity%20agreement.md) | Exchange training; reciprocity agreement. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Attendance of foreign military personnel at professional military education institutions.
+
+(b)
+
+Attendance of foreign military and civilian defense personnel at flight training schools and programs.
+
+(c)
+
+Post-undergraduate flying training at tactical leadership programs at training locations in Southwest Asia.
+
+|  |  |
+| :--- | ---: |
 | [2347d.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20005%20%28V%29%20-%20International%20Military%20Education%20and%20Training/%C2%A7%2002347d%20-%20Training%20in%20maritime%20skills.md) | Training in maritime skills. |
 | [2347e.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20005%20%28V%29%20-%20International%20Military%20Education%20and%20Training/%C2%A7%2002347e%20-%20Prohibition%20on%20grant%20assistance%20for%20certain%20high%20income%20foreign%20countries.md) | Prohibition on grant assistance for certain high income foreign countries. |
 
@@ -2903,6 +2958,32 @@ High-income foreign countries described.
 | [2347g.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20005%20%28V%29%20-%20International%20Military%20Education%20and%20Training/%C2%A7%2002347g%20-%20Records%20regarding%20foreign%20participants.md) | Records regarding foreign participants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Development and maintenance of database.
+
+(b)
+
+Annual list of foreign personnel.
+
+(c)
+
+Updating of database.
+
+|  |  |
+| :--- | ---: |
+| [2347h.](Subchapter%20002%20%28II%29%20-%20Military%20Assistance%20and%20Sales/Part%20005%20%28V%29%20-%20International%20Military%20Education%20and%20Training/%C2%A7%2002347h%20-%20Human%20rights%20report.md) | Human rights report. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Form.
 
 #### Part VI—Peacekeeping Operations
 
@@ -3106,6 +3187,28 @@ Priority to certain countries.
 
 |  |  |
 | :--- | ---: |
+| 2349bb–2a. | International nonproliferation export control training. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+General authority.
+
+(b)
+
+Administration of courses.
+
+(c)
+
+Purposes.
+
+(d)
+
+Priority to certain countries.
+
+|  |  |
+| :--- | ---: |
 | 2349bb–3. | Limitations. |
 | 2349bb–4. | Authorization of appropriations. |
 
@@ -3121,7 +3224,7 @@ Availability of funds.
 
 (c)
 
-Treatment of fiscal year 2001 appropriations.
+Treatment of appropriations.
 
 (d)
 
@@ -3339,7 +3442,7 @@ Certification of country capability to maintain and utilize projects as prerequi
 
 (a)
 
-Currencies received in payment for non-military assistance; foreign obligations.
+Currencies received in payment for nonmilitary assistance; foreign obligations.
 
 (b)
 
@@ -4294,10 +4397,6 @@ Information relating to military assistance and military exports.
 
 (c)
 
-Information relating to military imports.
-
-(d)
-
 Availability on Internet.
 
 |  |  |
@@ -4837,7 +4936,7 @@ Supplemental views in annual report.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1975, 2305, 2370a, 2428b, 2429a–2, 2601, 2751, 2761, 2763, 2765, 2771, 2775, 2780, 2785, 2795, 2795a, 2799aa, 2799aa–1, 3501, 3503, 5401, 5476, 5605, 5813, 6003, 6006, 6021, 6041, 6401, 6593, 6713, 6982, 7102 of this title; title 13 section 301; title 16 section 973r; title 40 section 483; title 48 section 1904; title 49 section 44908.
+This chapter is referred to in sections 1975, 2305, 2370a, 2428b, 2429a–2, 2460, 2601, 2751, 2761, 2763, 2765, 2771, 2775, 2780, 2785, 2795, 2795a, 2799aa, 2799aa–1, 3501, 3503, 5401, 5476, 5605, 5813, 6003, 6006, 6021, 6041, 6401, 6593, 6713, 6982, 7102, 7551 of this title; title 13 section 301; title 16 section 973r; title 48 section 1904; title 49 section 44908.
 
 
 ---

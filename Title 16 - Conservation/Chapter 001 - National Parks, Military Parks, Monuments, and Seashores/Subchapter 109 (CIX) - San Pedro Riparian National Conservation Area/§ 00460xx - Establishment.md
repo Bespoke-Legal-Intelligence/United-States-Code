@@ -20,5 +20,5 @@ Committee on Interior and Insular Affairs of the House of Representatives change
 
 #### Short Title
 
-Section 1 of Pub. L. 100–696 provided: “That this Act \[enacting this section and sections 460xx–1 to 460xx–6, 460yy, 460yy–1, 460zz to 460zz–11 of this title, section 640d–31 of Title 25, Indians, and sections 188a to 188a–5, 188b to 188b–5, 188c, and 188c–1 of Title 40, Public Buildings, Property, and Works, amending sections 640d–11 of Title 25 and sections 188b, 188b–1, and 188b–5 of Title 40, and enacting provisions set out as notes under section 431 of this title and section 188b of Title 40\] be cited as the ‘Arizona-Idaho Conservation Act of 1988’.”
+Section 1 of Pub. L. 100–696 provided: “That this Act \[enacting this section, sections 460xx–1 to 460xx–6, 460yy, 460yy–1, 460zz to 460zz–11 of this title, sections 2081 to 2086, 2101 to 2106, 2121, and 2122 of Title 2, The Congress, and section 640d–31 of Title 25, Indians, amending sections 2101, 2102, and 2106 of Title 2 and section 640d–11 of Title 25, and enacting provisions set out as notes under section 431 of this title and section 2101 of Title 2\] be cited as the ‘Arizona-Idaho Conservation Act of 1988’.”
 

@@ -32,3 +32,7 @@ The words “In developing the guidelines” are substituted for “In developin
 
 2001—Pub. L. 107–71 substituted “Under Secretary” for “Administrator” wherever appearing and “of Transportation for Security” for “of the Federal Aviation Administration”.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

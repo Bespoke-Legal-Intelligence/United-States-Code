@@ -16,7 +16,7 @@
 
 #### (C) Other criminal laws
 
-&emsp;&emsp;Assistance provided pursuant to this subsection shall also extend to, but not be limited to, prevention and prosecution of violations of the laws of the United States and the laws of the Marshall Islands related to terrorism, espionage, racketeer influenced and corrupt organizations, and financialtransactions which advance the interests of any person engaging in unlawful activities, as well as the schedule of offenses set forth in Appendix A of the subsidiary agreement to section 175 of the Compact.
+&emsp;&emsp;Assistance provided pursuant to this subsection shall also extend to, but not be limited to, prevention and prosecution of violations of the laws of the United States and the laws of the Marshall Islands related to terrorism, espionage, racketeer influenced and corrupt organizations, and financial transactions which advance the interests of any person engaging in unlawful activities, as well as the schedule of offenses set forth in Appendix A of the subsidiary agreement to section 175 of the Compact.
 
 #### (2) Technical and training assistance
 
@@ -56,7 +56,7 @@
 
 (1) The President of the United States shall negotiate with the Government of the Marshall Islands an agreement whereby, without prejudice as to any claims which have been or may be asserted by any party as to rightful title and ownership of any lands on Ejit, the Government of the Marshall Islands shall assure that lands on Ejit used as of January 1, 1985, by the people of Bikini, will continue to be available without charge for their use, until such time as Bikini is restored and inhabitable and the continued use of Ejit is no longer necessary, unless a Marshall Islands court of competent jurisdiction finally determines that there are legal impediments to continued use of Ejit by the people of Bikini.
 
-(2) If the impediments described in paragraph (1) do arise, the United States will cooperate with the Government of the Marshall Islands in assisting any person adversely affected by such judicial determination to remain on Ejit, or in locating suitable and acceptable alternative lands for such person's use.
+(2) If the impediments described in paragraph (1) do arise, the United States will cooperatewith the Government of the Marshall Islands in assisting any person adversely affected by such judicial determination to remain on Ejit, or in locating suitable and acceptable alternative lands for such person's use.
 
 (3) Paragraph (1) shall not be applied in a manner which would prevent the Government of the Marshall Islands from acting in accordance with its constitutional processes to resolve title and ownership claims with respect to such lands or from taking substitute or additional measures to meet the needs of the people of Bikini with their democratically expressed consent and approval.
 
@@ -88,7 +88,7 @@
 
 #### (f) Nuclear test effects
 
-In approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak),<sup>2</sup> $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, which amounts shall be paid out of proceeds from the fund established under Article I, section 1 of the subsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
+In approving the Compact, the Congress understands and intends that the peoples of Bikini, Enewetak, Rongelap, and Utrik, who were affected by the United States nuclear weapons testing program in the Marshall Islands, will receive the amounts of $75,000,000 (Bikini); $48,750,000 (Enewetak),<sup>2</sup> $37,500,000 (Rongelap); and $22,500,000 (Utrik), respectively, which amounts shall be paid out of proceeds from the fund established under Article I, section 1 of thesubsidiary agreement for the implementation of section 177 of the Compact. The amounts specified in this subsection shall be in addition to any amounts which may be awarded to claimants pursuant to Article IV of the subsidiary agreement for the implementation of Section 177 of the Compact.
 
 #### (g) Espousal provisions
 
@@ -152,7 +152,7 @@ Notwithstanding any other provision of law, the Secretary of the Treasury shall 
 
 #### (4) Resettlement of other location
 
-&emsp;In the event that the United States determines that within 25 years of January 14, 1986, the people of Enjebi cannot resettle Enjebi without exceeding the radiation standards set forth in paragraph (2) of this subsection, then the fund manager shall be directed by the trust instrument to distribute the Fund to the people of Enjebi for their resettlement at some other location in accordance with a plan, developed by the Enewetak Local Government Council and the people of Enjebi and concurred with by the Government of the Marshall Islands, to assure consistency with the government's overall economic development plan.
+&emsp;In the event that the United States determines that within 25 years of January 14, 1986,the people of Enjebi cannot resettle Enjebi without exceeding the radiation standards set forth in paragraph (2) of this subsection, then the fund manager shall be directed by the trust instrument to distribute the Fund to the people of Enjebi for their resettlement at some other location in accordance with a plan, developed by the Enewetak Local Government Council and the people of Enjebi and concurred with by the Government of the Marshall Islands, to assure consistency with the government's overall economic development plan.
 
 #### (5) Interest from Fund
 
@@ -222,7 +222,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 #### References in Text
 
-The Compact, referred to in text, is the Compact of Free Association between the Government of theUnited States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
+The Compact, referred to in text, is the Compact of Free Association between the Government of the United States and the Governments of the Marshall Islands and the Federated States of Micronesia, which is contained in section 201 of Pub. L. 99–239, set out as a note under section 1901 of this title.
 
 This joint resolution, referred to in subsecs. (a)(3), (e)(5), (k), and (m)(6), is Pub. L. 99–239, Jan. 14, 1986, 99 Stat. 1770, as amended, known as the Compact of Free Association Act of 1985, which is classified principally to this subchapter and chapter 19 (§2001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 
@@ -272,7 +272,7 @@ Pub. L. 95–134, title I, §106, as added by Pub. L. 96–205, title I, §102, 
 
 &emsp;“(1) an integrated, comprehensive health care program including primary, secondary, and tertiary care with special emphasis upon the biological effects of ionizing radiation;
 
-&emsp;“(2) a schedule for the periodic comprehensive survey and analysis of the radiological status of the atolls to and at appropriate intervals, but not less frequently than once every five years, the development of an updated radiation dose assessment, together with an estimate of the risks associated with the predicted human exposure, for each such atoll; and
+&emsp;“(2) a schedule for the periodic comprehensive survey and analysis of the radiological status of the atolls to and at appropriate intervals, but not less frequently than once every five years, the development of an updated radiation dose assessment, together with an estimate of the risks associated withthe predicted human exposure, for each such atoll; and
 
 &emsp;“(3) an education and information program to enable the people of such atolls to more fully understand nuclear radiation and its effects;
 
@@ -280,7 +280,7 @@ Pub. L. 95–134, title I, §106, as added by Pub. L. 96–205, title I, §102, 
 
 “(2) At the request of the Secretary, any Federal agency shall provide such information, personnel, facilities, logistical support, or other assistance as the Secretary deems necessary to carry out the functions of this program; the costs of all such assistance shall be reimbursed to the provider thereof out of the sums appropriated pursuant to this section.
 
-“(3) All costs associated with the development and implementation of the plan shall be assumed by the Secretary of Energy and effective October 1, 1980, there are authorized to be appropriated to the Secretary ofEnergy such sums as may be necessary to achieve the purposes of this section.
+“(3) All costs associated with the development and implementation of the plan shall be assumed by the Secretary of Energy and effective October 1, 1980, there are authorized to be appropriated to the Secretary of Energy such sums as may be necessary to achieve the purposes of this section.
 
 “(c) The Secretary shall report to the appropriate committees of the Congress, and to the people of the affected atolls annually, or more frequently if necessary, on the implementation of the plan. Each such report shall include a description of the health status of the individuals examined and treated under the plan, an evaluation by the scientific advisory committee, and any recommendations for improvement of the plan. The first such report shall be submitted not later than January 1, 1982.”
 

@@ -34,7 +34,7 @@ The advocate for competition of an executive agency shall—
 
 &emsp;&emsp;(C) barriers to full and open competition that remain;
 
-&emsp;(5) recommend to the senior procurement executive of the executive agency goals and the plans for increasing competition on a fiscal year basis;
+&emsp;(5) recommend to the senior procurement executive of the executive agency goals and theplans for increasing competition on a fiscal year basis;
 
 &emsp;(6) recommend to the senior procurement executive of the executive agency a system of personal and organizational accountability for competition, which may include the use of recognition and awards to motivate program managers, contracting officers, and others in authority to promote competition in procurement programs; and
 

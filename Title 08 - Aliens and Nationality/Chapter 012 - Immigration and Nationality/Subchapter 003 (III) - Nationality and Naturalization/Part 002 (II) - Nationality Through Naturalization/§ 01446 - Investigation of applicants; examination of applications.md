@@ -18,7 +18,7 @@ The employee designated to conduct any such examination shall make a determinati
 
 #### (e) Withdrawal of application
 
-After an application for naturalization has been filed with the Attorney General, the applicant shall not be permitted to withdraw his application, except with the consent of the Attorney General. In cases where the Attorney General does not consent to the withdrawal of the application, the application shall be determined on its merits and a final order determination made accordingly. In cases where the applicant fails to prosecute his application, the application shall be decided on the merits unless the Attorney General dismisses it for lack of prosecution.
+After an application for naturalization has been filed with the Attorney General, the applicant shall not be permitted to withdraw his application, except with the consent of the Attorney General. In cases where the Attorney General does not consent to the withdrawal of the application, the application shall be determined on its merits and a final order determinationmade accordingly. In cases where the applicant fails to prosecute his application, the application shall be decided on the merits unless the Attorney General dismisses it for lack of prosecution.
 
 #### (f) Transfer of application
 
@@ -44,7 +44,7 @@ Subsecs. (d) to (f). Pub. L. 101–649, §407(d)(13)(E), amended subsecs. (d) to
 
 1988—Subsec. (d). Pub. L. 100–525, §9(aa), substituted “approves” for “approve” in fourth sentence.
 
-Subsec. (f)(2). Pub. L. 100–525, §9(bb), struck out before period at end “, except that the court to which the petition is transferred may in its discretion, require the production of two credible United States citizen witnesses to testify as to the petitioner's qualifications for naturalization since the date of such transfer”.
+Subsec. (f)(2). Pub. L. 100–525, §9(bb), struck out before period at end “, except that the court to which the petition is transferred may in its discretion, require the production of two credible United States citizen witnesses to testify as to the petitioner's qualifications for naturalization since the date of such transfer”.
 
 1981—Subsec. (b). Pub. L. 97–116, §15(c)(1), struck out “and the oaths of petitioner's witnesses to the petition for naturalization” after “oath of the petitioner for naturalization”.
 
@@ -63,6 +63,10 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Criminal Background Checks
 

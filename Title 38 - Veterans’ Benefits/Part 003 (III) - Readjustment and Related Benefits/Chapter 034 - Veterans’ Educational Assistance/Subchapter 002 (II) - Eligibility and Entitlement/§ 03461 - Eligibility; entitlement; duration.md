@@ -38,7 +38,7 @@ Subsec. (c). Pub. L. 93–508, §202(2), inserted reference to subsec. (a).
 
 1968—Subsec. (a). Pub. L. 90–631, §1(b)(1), substituted references to subsec. (c) and the second sentence of this subsec. for reference to subsec. (b), increased from one month to one and one-half months the amount of educational assistance each eligible veteran shall receive for each month or fraction thereof of active duty service after Jan. 31, 1955, and inserted provisions that an eligible veteran who has served 18 months or more on active duty after Jan. 31, 1955, and has been released under conditions that would satisfy his active duty obligation, shall be entitled to educational assistance under this chapter for a period of 36 months.
 
-Subsec. (b). Pub. L. 90–631, §1(b)(2), (3), redesignated subsec. (c) as (b). Former subsec. (b), which set forth entitlement limitations on the amount of educational assistance an eligible veteran, shall receive under this chapter, was struck out.
+Subsec. (b). Pub. L. 90–631, §1(b)(2), (3), redesignated subsec. (c) as (b). Former subsec. (b), which set forthentitlement limitations on the amount of educational assistance an eligible veteran, shall receive under this chapter, was struck out.
 
 Subsec. (c). Pub. L. 90–631, §1(b), (3), (4), added subsec. (c). Former subsec. (c) redesignated (b).
 

@@ -20,7 +20,7 @@ Provision for a quorum of the court is now covered by section 46(d) of this titl
 
 #### Amendments
 
-<b>1963</b>—Subsec. (b). Pub. L. 88–176 inserted “regular” before “active service”.
+1963—Subsec. (b). Pub. L. 88–176 inserted “regular” before “active service”.
 
 #### Change of Name of Court
 

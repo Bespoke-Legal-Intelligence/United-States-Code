@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-Within six months after September 18, 1978, the Secretary of the Department in which the Coast Guard is operating shall issue regulations which require that any vessel, rig, platform, or other vehicle or structure—
+Within six months after September 18, 1978, the Secretary of the Department in which theCoast Guard is operating shall issue regulations which require that any vessel, rig, platform, or other vehicle or structure—
 
 &emsp;(1) which is used at any time after the one-year period beginning on the effective date of such regulations for activities pursuant to this subchapter and which is built or rebuilt at any time after such one-year period, when required to be documented by the laws of the United States, be documented under the laws of the United States;
 
@@ -29,4 +29,8 @@ The regulations issued under subsection (a)(3) of this section shall not apply�
 &emsp;(2) to any vessel, rig, platform, or other vehicle or structure, over 50 percent of which is owned by citizens of a foreign nation or with respect to which the citizens of a foreign nation have the right effectively to control, except to the extent and to the degree that the President determines that the government of such foreign nation or any of its political subdivisions has implemented, by statute, regulation, policy, or practice, a national manning requirement for equipment engaged in the exploration, development, or production of oil and gas in its offshore areas.
 
 (Aug. 7, 1953, ch. 345, §30, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 669.)
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -38,7 +38,3 @@
 
 1976—Subsecs. (b), (c). Pub. L. 94–467 added subsec. (b), redesignated former subsec. (b) as (c), and struck out reference to section 1116(c) of this title.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 22 section 2709.
-

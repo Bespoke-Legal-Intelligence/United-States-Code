@@ -24,7 +24,7 @@ Point of order.—It shall not be in order in either the House of Representative
 
 #### (c) Exceptions
 
-(1) Subsections (a) and (b) of this section shall not apply to new authority described in thosesubsections if outlays from that new authority will flow—
+(1) Subsections (a) and (b) of this section shall not apply to new authority described in those subsections if outlays from that new authority will flow—
 
 &emsp;(A) from a trust fund established by the Social Security Act (as in effect on July 12, 1974) \[42 U.S.C. 301 et seq.\]; or
 
@@ -54,7 +54,7 @@ Section was formerly classified to section 1351 of Title 31 prior to the general
 
 1997—Pub. L. 105–33, §10116(a)(1)(A), substituted “Budget-related legislation not subject to appropriations” for “Bills providing new spending authority” as section catchline.
 
-Subsec. (a). Pub. L. 105–33, §10116(a)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion, or conference report, as reported to its House which provides new spending authority described in subsection (c)(2)(A) or (B) of this section, unless that bill, resolution, conference report, or amendment also provides that such new spending authority as described in subsection (c)(2)(A) or (B) of this section is to be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
+Subsec. (a). Pub. L. 105–33, §10116(a)(1)(B), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “It shall not be in order in either the House of Representatives or the Senate to consider any bill, joint resolution, amendment, motion,or conference report, as reported to its House which provides new spending authority described in subsection (c)(2)(A) or (B) of this section, unless that bill, resolution, conference report, or amendment also provides that such new spending authority as described in subsection (c)(2)(A) or (B) of this section is to be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.”
 
 Subsec. (b). Pub. L. 105–33, §10116(a)(2)(A), inserted “new” before “entitlement” in heading.
 

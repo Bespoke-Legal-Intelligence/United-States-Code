@@ -6,9 +6,9 @@ There is established within the Executive Office of the President the Office of 
 
 #### (b) United States Trade Representative; Deputy United States Trade Representatives
 
-(1) The Office shall be headed by the United States Trade Representative who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of the United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance. The United States Trade Representative shall hold office at the pleasure of the President, shall be entitled to receive thesame allowances as a chief of mission, and shall have the rank of Ambassador Extraordinary and Plenipotentiary.
+(1) The Office shall be headed by the United States Trade Representative who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of the United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance. The United States Trade Representative shall hold office at the pleasure of the President, shall be entitled to receive the same allowances as a chief of mission, and shall have the rank of Ambassador Extraordinary and Plenipotentiary.
 
-(2) There shall be in the Office three Deputy United States Trade Representatives and one Chief Agricultural Negotiator who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative or the Chief Agricultural Negotiator submitted to the Senate for its advice and consent, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative and the Chief Agricultural Negotiator shall hold office at the pleasure of the President and shall have the rank of Ambassador.
+(2) There shall be in the Office three Deputy United States Trade Representatives and one Chief Agricultural Negotiator who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative or the Chief Agricultural Negotiator submitted to the Senate for its advice and consent, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative and the Chief Agricultural Negotiator shall hold office at thepleasure of the President and shall have the rank of Ambassador.
 
 (3) A person who has directly represented, aided, or advised a foreign entity (as defined by section 207(f)(3) of title 18) in any trade negotiation, or trade dispute, with the United States may not be appointed as United States Trade Representative or as a Deputy United States Trade Representative.
 
@@ -62,13 +62,13 @@ There is established within the Executive Office of the President the Office of 
 
 &emsp;&emsp;(i) is considered to be inconsistent with the provisions of any trade agreement and has a significant adverse impact on United States commerce, or
 
-&emsp;&emsp;(ii) has a significant adverse impact on domestic firms or industries that are eithertoo small or financially weak to initiate proceedings under the trade laws;
+&emsp;&emsp;(ii) has a significant adverse impact on domestic firms or industries that are either too small or financially weak to initiate proceedings under the trade laws;
 
 &emsp;(C) identify practices having a significant adverse impact on United States commerce that the attainment of United States negotiating objectives would eliminate; and
 
 &emsp;(D) identify, on a biennial basis, those United States Government policies and practices that, if engaged in by a foreign government, might constitute unfair trade practices under United States law.
 
-(2) For purposes of carrying out paragraph (1), the United States Trade Representative shall be assisted by an interagency unfair trade practices advisory committee composed of the Trade Representative, who shall chair the committee, and senior representatives of the following agencies, appointed by the respective heads of those agencies:
+(2) For purposes of carrying out paragraph (1), the United States Trade Representative shall beassisted by an interagency unfair trade practices advisory committee composed of the Trade Representative, who shall chair the committee, and senior representatives of the following agencies, appointed by the respective heads of those agencies:
 
 &emsp;(A) The Bureau of Economics and Business Affairs of the Department of State.
 
@@ -122,23 +122,23 @@ The United States Trade Representative shall, to the extent he deems it necessar
 
 #### (g) Authorization of appropriations
 
-(1)(A) There are authorized to be appropriated to the Office for the purposes of carrying out its functions not to exceed the following:
+(1)(A) There are authorized to be appropriated to the Office for the purposes of carrying out its functions the following:
 
-&emsp;(i) $23,250,000 for fiscal year 1991.
+&emsp;(i) $32,300,000 for fiscal year 2003.
 
-&emsp;(ii) $21,077,000 for fiscal year 1992.
+&emsp;(ii) $33,108,000 for fiscal year 2004.
 
 (B) Of the amounts authorized to be appropriated under subparagraph (A) for any fiscal year—
 
-&emsp;(i) not to exceed $98,000 may be used for entertainment and representation expenses of the Office;
+&emsp;(i) not to exceed $98,000 may be used for entertainment and representation expenses of the Office; and
 
-&emsp;(ii) not to exceed $2,050,000 may be used to pay the United States share of the expenses of binational panels and extraordinary challenge committees convened pursuant to chapter 19 of the United States-Canada Free-Trade Agreement; and
-
-&emsp;(iii) not to exceed $1,000,000 shall remain available until expended.
+&emsp;(ii) not to exceed $1,000,000 shall remain available until expended.
 
 (2) For the fiscal year beginning October 1, 1982, and for each fiscal year thereafter, there are authorized to be appropriated to the Office for the salaries of its officers and employees such additional sums as may be provided by law to reflect pay rate changes made in accordance with the Federal Pay Comparability Act of 1970.
 
-(Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–36, title I, §1001(a)(2), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title IV, §406, May 18, 2000, 114 Stat. 293.)
+(3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, theUnited States Trade Representative shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the Office to carry out its functions.
+
+(Pub. L. 93–618, title I, §141, Jan. 3, 1975, 88 Stat. 1999; Pub. L. 97–456, §3(a)–(d)(2), Jan. 12, 1983, 96 Stat. 2504, 2505; Pub. L. 98–573, title III, §304(d)(2)(A), title VII, §703, Oct. 30, 1984, 98 Stat. 3004, 3043; Pub. L. 99–272, title XIII, §13023, Apr. 7, 1986, 100 Stat. 307; Pub. L. 99–514, title XVIII, §1887(a)(3), (4), Oct. 22, 1986, 100 Stat. 2923; Pub. L. 100–203, title IX, §9504, Dec. 22, 1987, 101 Stat. 1330–382; Pub. L. 100–418, title I, §1601, Aug. 23, 1988, 102 Stat. 1260; Pub. L. 101–207, §1(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §103(a), Aug. 20, 1990, 104 Stat. 634; Pub. L. 103–465, title VI, §621(a)(8), Dec. 8, 1994, 108 Stat. 4993; Pub. L. 104–65, §21(b), Dec. 19, 1995, 109 Stat. 704; Pub. L. 104–295, §20(f)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–36, title I, §1001(a)(2), June 25, 1999, 113 Stat. 130; Pub. L. 106–200, title IV, §406, May 18, 2000, 114 Stat. 293; Pub. L. 107–210, div. A, title III, §361(a), (b), Aug. 6, 2002, 116 Stat. 991.)
 
 #### References in Text
 
@@ -157,6 +157,16 @@ The Federal Pay Comparability Act of 1970, referred to in subsec. (g)(2), is Pub
 Section is comprised of section 141 of Pub. L. 93–618. Section 141(b) of Pub. L. 93–618 contains two pars. (3), the first of which amended sections 5312 and 5314 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2002—Subsec. (g)(1)(A). Pub. L. 107–210, §361(a)(1)(A), struck out “not to exceed” after “functions” in introductory provisions.
+
+Subsec. (g)(1)(A)(i). Pub. L. 107–210, §361(a)(1)(B), added cl. (i) and struck out former cl. (i) which read as follows: “$23,250,000 for fiscal year 1991.”
+
+Subsec. (g)(1)(A)(ii). Pub. L. 107–210, §361(a)(1)(C), added cl. (ii) and struck out former cl. (ii) which read as follows: “$21,077,000 for fiscal year 1992.”
+
+Subsec. (g)(1)(B). Pub. L. 107–210, §361(a)(2), inserted “and” at end of cl. (i), redesignated cl. (iii) as (ii), and struck out former cl. (ii) which read as follows: “not to exceed $2,050,000 may be used to pay the United States share of the expenses of binational panels and extraordinary challenge committees convened pursuant to chapter 19 of the United States-Canada Free-Trade Agreement; and”.
+
+Subsec. (g)(3). Pub. L. 107–210, §361(b), added par. (3).
 
 2000—Subsec. (b)(2). Pub. L. 106–200, §406(1), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “There shall be in the Office three Deputy United States Trade Representatives who shall be appointed by the President, by and with the advice and consent of the Senate. As an exercise of the rulemaking power of the Senate, any nomination of a Deputy United States Trade Representative submitted to the Senate for confirmation, and referred to a committee, shall be referred to the Committee on Finance. Each Deputy United States Trade Representative shall hold office at the pleasure of the President and shall have the rank of Ambassador.”
 
@@ -204,7 +214,7 @@ Subsec. (c)(2) to (4). Pub. L. 100–418, §1601(a)(2), (3), added par. (2) and 
 
 Subsecs. (d) to (g). Pub. L. 100–418, §1601(b)(1), (2), added subsec. (d) and redesignated former subsecs. (d) to (f) as (e) to (g), respectively.
 
-1987—Subsec. (f)(1). Pub. L. 100–203 amended par. (1) generally. Prior to amendment, par. (1) read as follows:“There are authorized to be appropriated to the Office for the purpose of carrying out its functions $13,582,000 for fiscal year 1986; of which not to exceed $80,000 may be used for entertainment and representation expenses.”
+1987—Subsec. (f)(1). Pub. L. 100–203 amended par. (1) generally. Prior to amendment, par. (1) read as follows: “There are authorized to be appropriated to the Office for the purpose of carrying out its functions $13,582,000 for fiscal year 1986; of which not to exceed $80,000 may be used for entertainment and representation expenses.”
 
 1986—Subsec. (d)(1). Pub. L. 99–272, §13023(1), inserted provision that not more than 20 individuals may be employed without regard to any provision of law regulating the employment or compensation at rates not to exceed the rate of pay for level IV of the Executive Schedule.
 
@@ -280,7 +290,7 @@ Pub. L. 100–202, §101(a) \[title I\], Dec. 22, 1987, 101 Stat. 1329, 1329–3
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### <b>REORGANIZATION PLAN NO. 3 OF 1979</b>
 
@@ -408,7 +418,7 @@ The goal of this reorganization is to improve the capacity of the Government to 
 
 Recent developments, which have raised concern about the vitality of our international trade performance, have focused much attention on the way our trade machinery is organized. These developments include our negative trade balance, increasing dependence upon foreign oil, and international pressures on the dollar. New challenges, such as implementation of the Multilateral Trade Negotiation (MTN) agreements and trade with non-market economies, will further test our Government trade organization.
 
-We must be prepared to apply domestically the MTN codes on procurement, subsidies, standards, and customs valuation. We also must monitor major implementation measures abroad, reporting back to American business on important developments and, where necessary, raising questions internationally about foreign implementation. MTN will work—will open newmarkets for U.S. labor, farmers, and business—only if we have adequate procedures for aggressively monitoring and enforcing it. We intend to meet our obligations, and we expect others to do the same.
+We must be prepared to apply domestically the MTN codes on procurement, subsidies, standards, and customs valuation. We also must monitor major implementation measures abroad, reporting back to American business on important developments and, where necessary, raising questions internationally about foreign implementation. MTN will work—will open new markets for U.S. labor, farmers, and business—only if we have adequate procedures for aggressively monitoring and enforcing it. We intend to meet our obligations, and we expect others to do the same.
 
 The trade machinery we now have cannot do this job effectively. Although the Special Trade Representative (STR) takes the lead role in administering the trade agreements program, many issues are handled elsewhere and no agency has across-the-board leadership in trade. Aside from the Trade Representative and the Export-Import Bank, trade is not the primary concern of any Executive branch agency where trade functions are located. The current arrangements lack a central authority capable of planning a coherent trade strategy and assuring its vigorous implementation.
 
@@ -442,7 +452,7 @@ To ensure that all trade negotiations are handled consistently and that our nego
 
 The Trade Representative will be concerned not only with ongoing negotiations and coordination of specific, immediate issues, but also—very importantly—with the development of long-term United States trade strategies and policies. He will oversee implementation of the MTN agreements, and will advise the President on the effects of other Government policies (e.g., antitrust, taxation) on U.S. trade. In order to participate more fully in oversight of international investment and export financing activities, the Trade Representative will become a member of the National Advisory Council on International Monetary and Financial Policies and the Boards of the Export-Import Bank and the Overseas Private Investment Corporation.
 
-In performing these functions, the Trade Representative will act as the principal trade spokesman of the President. To assure that our trade policies take into account the broadest range of perspectives, the Trade Representative will consult with the Trade Policy Committee, whose mandate and membership will be expanded. The Trade Representative will, as appropriate, invite agencies such as the Export-Import Bank and the Overseas Private Investment Corporation to participate in TPC meetings in addition to the permanent TPC members. When different departmental views on trade matters exist within the TPC as will be the case from time to time in this complex policy area, I will expect the Trade Representative to resolve policy disagreements in his best judgment, subject to appeal to the President.
+In performing these functions, the Trade Representative will act as the principal trade spokesman of the President. To assure that our trade policies take intoaccount the broadest range of perspectives, the Trade Representative will consult with the Trade Policy Committee, whose mandate and membership will be expanded. The Trade Representative will, as appropriate, invite agencies such as the Export-Import Bank and the Overseas Private Investment Corporation to participate in TPC meetings in addition to the permanent TPC members. When different departmental views on trade matters exist within the TPC as will be the case from time to time in this complex policy area, I will expect the Trade Representative to resolve policy disagreements in his best judgment, subject to appeal to the President.
 
 #### the department of commerce
 
@@ -490,7 +500,7 @@ To succeed in global competition, we must have a better understanding of the pro
 
 Commerce will also expand its traditional trade policy focus on industrial issues to deal with the international trade and investment problems of our growing services sector. Under the proposal, there will be comprehensive service industry representation in our industry advisory process, as well as a continuing effort to bring services under international discipline. I expect the Commerce Department to play a major role in developing new service sector initiatives for consideration within the Government.
 
-After an investigation lasting over a year, I have found that this reorganization is necessary to carry out the policy set forth in section 901(a) of title 5 of the United States Code. As described above, this reorganization will increase significantly our ability to implement the MTN agreements efficiently and effectively and will improve greatly the services of the government with regard to export development. These improvements will be achieved with no increase in personnel or expenditures, except for an annual expense of about $300,000 for the salaries and clerical support of the three additional senior Commerce Department officials and a non-recurring expense of approximately$600,000 in connection with the transfers of functions provided in the plan. I find that the reorganization made by this plan makes necessary the provisions for the appointment and pay of a Deputy Secretary, an Under Secretary for International Trade, and two additional Assistant Secretaries of the Department of Commerce, and additional members of the Boards of Directors of the Export-Import Bank and the Overseas Private Investment Corporation.
+After an investigation lasting over a year, I have found that this reorganization is necessary to carry outthe policy set forth in section 901(a) of title 5 of the United States Code. As described above, this reorganization will increase significantly our ability to implement the MTN agreements efficiently and effectively and will improve greatly the services of the government with regard to export development. These improvements will be achieved with no increase in personnel or expenditures, except for an annual expense of about $300,000 for the salaries and clerical support of the three additional senior Commerce Department officials and a non-recurring expense of approximately $600,000 in connection with the transfers of functions provided in the plan. I find that the reorganization made by this plan makes necessary the provisions for the appointment and pay of a Deputy Secretary, an Under Secretary for International Trade, and two additional Assistant Secretaries of the Department of Commerce, and additional members of the Boards of Directors of the Export-Import Bank and the Overseas Private Investment Corporation.
 
 It is indeed appropriate that this proposal follows so soon after the overwhelming approval by the Congress of the Trade Agreements Act of 1979 \[19 U.S.C. 2501 et seq.\], for it will sharpen and unify trade policy direction, improve the efficiency of trade law enforcement, and enable us to negotiate abroad from a position of strength. The extensive discussions between Administration officials and the Congress on this plan have been a model of the kind of cooperation that can exist between the two branches. I look forward to our further cooperation in successfully implementing both this reorganization proposal and the MTN agreements.
 
@@ -516,7 +526,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12188. Functions Relating to International Trade
 
-Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989, as amended by Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 13118, §10(6), Mar. 31, 1999, 64 F.R. 16598, provided:
+Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 989, as amended by Ex. Ord. No. 12292, Feb. 23, 1981, 46 F.R. 13968; Ex. Ord. No. 13118, §10(6), Mar. 31, 1999, 64 F.R. 16598; Ex. Ord. No. 13286, §50, Feb. 28, 2003, 68 F.R. 10628, provided:
 
 By the authority vested in me by the Trade Agreements Act of 1979 \[see 19 U.S.C. 2501\], the Trade Act of 1974 \[this chapter\], the Trade Expansion Act of 1962 \[see Short Title note set out under section 1801 of this title\], section 350 of the Tariff Act of 1930 \[19 U.S.C. 1351\], Reorganization Plan No. 3 of 1979 \[set out as a note above\], and section 301 of title 3 of the United States Code, and as President of the United States, it is hereby ordered as follows:
 
@@ -572,13 +582,15 @@ Sec. 1–102. <i>The Trade Policy Committee.</i>
 
 &emsp;(11) The Secretary of Energy
 
-&emsp;(12) The Director of the Office of Management and Budget
+&emsp;(12) The Secretary of Homeland Security
 
-&emsp;(13) The Chairman of the Council of Economic Advisers
+&emsp;(13) The Director of the Office of Management and Budget
 
-&emsp;(14) The Assistant to the President for National Security Affairs
+&emsp;(14) The Chairman of the Council of Economic Advisers
 
-&emsp;(15) The Administrator of the United States Agency for International Development.
+&emsp;(15) The Assistant to the President for National Security Affairs
+
+&emsp;(16) The Administrator of the United States Agency for International Development.
 
 The Chair and any member of the Committee may designate a subordinate officer whose status is not below that of an Assistant Secretary to serve in his stead when he is unable to attend any meetings of the Committee. The Chair may invite representatives from other agencies to attend the meetings of the Committee.
 
@@ -643,8 +655,6 @@ Sec. 1–107. <i>Effective Dates.</i>
 (a) Sections 1, 2(a), 2(b)(2), 2(c), 2(d), 3, 4, 5(a), 5(b)(2), 5(c) through (e), and 6 through 8 of Reorganization Plan No. 3 of 1979 \[set out as a note above\] and the provisions of this order, shall take effect as of January 2, 1980.
 
 (b) Section 5(b)(1) of such plan \[set out as a note above\] shall take effect as of April 1, 1980.
-
-Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

@@ -56,7 +56,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 &emsp;&emsp;&emsp;(i) the non-Federal percentage of the facility-specific per diem rate (computed under paragraph (3)), and
 
-&emsp;&emsp;&emsp;(ii) the Federal percentage of the adjusted Federal per diem rate (determined under paragraph (4)) applicable to the facility; and
+&emsp;&emsp;&emsp;(ii) the Federal percentage of the adjusted Federal per diem rate (determinedunder paragraph (4)) applicable to the facility; and
 
 &emsp;&emsp;(B) after the transition period is equal to the adjusted Federal per diem rate applicable to the facility.
 
@@ -76,7 +76,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (ii) Services excluded
 
-&emsp;&emsp;&emsp;Services described in this clause are physicians’ services, services described byclauses (i) and (ii) of section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title, and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
+&emsp;&emsp;&emsp;Services described in this clause are physicians’ services, services described by clauses (i) and (ii) of section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, services of a certified registered nurse anesthetist, items and services described in subparagraphs (F) and (O) of section 1395x(s)(2) of this title, and, only with respect to services furnished during 1998, the transportation costs of electrocardiogram equipment for electrocardiogram test services (HCPCS Code R0076). Services described in this clause do not include any physical, occupational, or speech-language therapy services regardless of whether or not the services are furnished by, or under the supervision of, a physician or other health care professional.
 
 #### (iii) Exclusion of certain additional items and services
 
@@ -180,7 +180,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (ii) Freestanding facilities
 
-&emsp;&emsp;&emsp;The Secretary shall compute a weighted average per diem rate for freestanding facilities by computing an average of the standardized amounts computed under subparagraph (C) only for such facilities, weighted for each facility by the number of days of extended care services furnished during the cost reporting period referred to in subparagraph (A).
+&emsp;&emsp;&emsp;The Secretary shall compute a weighted average per diem rate for freestanding facilities by computing an average of the standardized amounts computed under subparagraph (C) only for such facilities,weighted for each facility by the number of days of extended care services furnished during the cost reporting period referred to in subparagraph (A).
 
 #### (iii) Separate computation
 
@@ -240,7 +240,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 #### (A) Skilled nursing facility market basket index
 
-&emsp;&emsp;The Secretary shall establish a skilled nursing facility market basket index that reflects changes over time in the prices of an appropriate mix of goods and services included in covered skilled nursing facility services.
+&emsp;&emsp;The Secretary shall establish a skilled nursing facility market basket index that reflects changes over time in the prices of anappropriate mix of goods and services included in covered skilled nursing facility services.
 
 #### (B) Skilled nursing facility market basket percentage
 
@@ -296,7 +296,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 &emsp;&emsp;For purposes of subparagraph (A), a qualified acute skilled nursing facility is a facility that—
 
-&emsp;&emsp;&emsp;(i) was certified by the Secretary as a skilled nursing facility eligible to furnish services under this subchapter before July 1, 1992;
+&emsp;&emsp;&emsp;(i) was certified by the Secretary as a skilled nursing facility eligible to furnishservices under this subchapter before July 1, 1992;
 
 &emsp;&emsp;&emsp;(ii) is a hospital-based facility; and
 
@@ -310,7 +310,7 @@ The Secretary may make adjustments in the limits set forth in subsection (a) of 
 
 &emsp;&emsp;&emsp;(ii) is immuno-compromised secondary to an infectious disease, with specific diagnoses as specified by the Secretary.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578;Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title II, §203(a), title III, §311(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1888, as added Pub. L. 98–369, div. B, title III, §2319(b), July 18, 1984, 98 Stat. 1082; amended Pub. L. 99–272, title IX, §§9126(a), (b), 9219(b)(1)(C), Apr. 7, 1986, 100 Stat. 168, 170, 182; Pub. L. 99–514, title XVIII, §1895(b)(7)(A), (B), Oct. 22, 1986, 100 Stat. 2933; Pub. L. 100–203, title IV, §4201(b)(2), Dec. 22, 1987, 101 Stat. 1330–174; Pub. L. 101–508, title IV, §4008(e)(2), (h)(2)(A)(ii), Nov. 5, 1990, 104 Stat. 1388–45, 1388–48; Pub. L. 103–66, title XIII, §13503(a)(2), (3)(A), Aug. 10, 1993, 107 Stat. 578; Pub. L. 105–33, title IV, §§4431, 4432(a), (b)(3), (5)(H), 4511(a)(2)(E), Aug. 5, 1997, 111 Stat. 414, 421, 422, 442; Pub. L. 106–113, div. B, §1000(a)(6) \[title I, §§102(a), 103(a), (b), 104(a), 105(a), title III, §321(g)(1), (k)(18)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–325 to 1501A–327, 1501A–366, 1501A–368; Pub. L. 106–554, §1(a)(6) \[title II, §203(a), title III, §311(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–481, 2763A–497.)
 
 #### References in Text
 
@@ -516,7 +516,7 @@ Section 4432(c) of Pub. L. 105–33 provided that: “In order to ensure that me
 
 #### Construction of Wage Index for Skilled Nursing Facilities
 
-Pub. L. 103–432, title I, §106(a), Oct. 31, 1994, 108 Stat. 4405, provided that: “Not later than 1 year after the date of the enactment of this Act \[Oct. 31, 1994\], the Secretary of Health and Human Services shall begin to collect data on employee compensation and paid hours of employment in skilled nursing facilities for the purpose of constructing a skilled nursing facility wage index adjustment to the routine service cost limits required under section 1888(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\].”
+Pub. L. 103–432, title I, §106(a), Oct. 31, 1994, 108 Stat. 4405, provided that: “Not later than 1 year after the date of the enactment of this Act \[Oct. 31, 1994\], the Secretary of Health and Human Services shall begin to collect data on employee compensation and paid hours of employment in skilled nursing facilities for the purpose of constructing a skilled nursing facility wageindex adjustment to the routine service cost limits required under section 1888(a)(4) of the Social Security Act \[subsec. (a)(4) of this section\].”
 
 #### No Change in Limits on Per Diem Service Costs for Extended Care Services for Fiscal Years 1994 and 1995
 

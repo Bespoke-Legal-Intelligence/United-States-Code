@@ -26,7 +26,7 @@ The Secretary is also authorized to make project grants to States and, in consul
 
 &emsp;(3) interstate epidemiologic referral and followup activities respecting sexually transmitted diseases; and
 
-&emsp;(4) such special studies or demonstrations to evaluate or test sexually transmitted diseasesprevention and control strategies and activities as may be prescribed by the Secretary.
+&emsp;(4) such special studies or demonstrations to evaluate or test sexually transmitted diseases prevention and control strategies and activities as may be prescribed by the Secretary.
 
 #### (d) Grants for innovative, interdisciplinary approaches
 
@@ -78,7 +78,7 @@ Subsec. (e). Pub. L. 103–183, §401(a)(1), redesignated subsec. (d), relating 
 
 Subsec. (e)(1). Pub. L. 103–183, §401(b), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “For the purpose of making grants under subsections (b) and (c) of this section there are authorized to be appropriated $45,000,000 for the fiscal year ending September 30, 1979, $51,500,000 for the fiscal year ending September 30, 1980, $59,000,000 for the fiscal year ending September 30, 1981, $40,000,000 for the fiscal year ending September 30, 1982, $46,500,000 for the fiscal year ending September 30, 1983, $50,000,000 for the fiscal year ending September 30, 1984, $57,000,000 for the fiscal year ending September 30, 1985, $62,500,000 for the fiscal year ending September 30, 1986, $68,000,000 for the fiscal year ending September 30, 1987, $78,000,000 for fiscal year 1989, and such sums as may be necessary for each of the fiscal years 1990 and 1991. For grants under subsection (b) of this section in any fiscal year, the Secretary shall obligate not less than 10 per centum of the amount appropriated for such fiscal year under the preceding sentence. Grants made under subsection (b) or (c) of this section shall be made on such terms and conditions as the Secretary finds necessary to carry out the purposes of such subsection, and payments under any such grants shall be made in advance or by way of reimbursement and in such installments as the Secretary finds necessary.”
 
-Subsec. (e)(5). Pub. L. 103–183, §401(c)(3), as amended by Pub. L. 105–392, §401(c), substituted “form; or” for“form, or” in subpar. (A) and “purposes;” for “purposes,” in subpar. (B).
+Subsec. (e)(5). Pub. L. 103–183, §401(c)(3), as amended by Pub. L. 105–392, §401(c), substituted “form; or” for “form, or” in subpar. (A) and “purposes;” for “purposes,” in subpar. (B).
 
 1988—Pub. L. 100–607, §311(1), amended section catchline.
 

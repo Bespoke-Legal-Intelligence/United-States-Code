@@ -2,7 +2,7 @@
 
 (a)
 
-Policy.—It is the policy of the United States that projects selected under this chapter shall provide for the protection and enhancement of the natural resources and the quality of the environment of the United States. In carrying out this policy, the Secretary of Transportation shall consult with the Secretary of the Interior and the Administrator of the Environmental Protection Agency about a project that may have a significant effect on natural resources, including fish and wildlife, natural, scenic, and recreational assets, water and air quality, and other factors affecting the environment. If the Secretary of Transportation finds that a project will have a significant adverse effect, the Secretary may approve the application for the project only if, after a complete review that is a matter of public record, the Secretary makes a written finding that no feasible and prudent alternative to the project exists andthat all reasonable steps have been taken to minimize the adverse effect.
+Policy.—It is the policy of the United States that projects selected under this chapter shall provide for the protection and enhancement of the natural resources and the quality of the environment of the United States. In carrying out this policy, the Secretary of Transportation shall consult with the Secretary of the Interior and the Administrator of the Environmental Protection Agency about a project that may have a significant effect on natural resources, including fish and wildlife, natural, scenic, and recreational assets, water and air quality, and other factors affecting the environment. If the Secretary of Transportation finds that a project will have a significant adverse effect, the Secretary may approve the application for the project only if, after a complete review that is a matter of public record, the Secretary makes a written finding that no feasible and prudent alternative to the project exists and that all reasonable steps have been taken to minimize the adverse effect.
 
 (b)
 
@@ -52,7 +52,7 @@ In subsection (b), the words “of objectives” are omitted as surplus.
 
 In subsection (c), the words “chief executive officer” are substituted for “Governor” for consistency in the revised title and because the word “State” includes the territories and possessions of the United States.
 
-In subsection (d), before clause (1), the words “in connection with any project”, “imposed on such sponsor under this section in connection with such project”, and “or discharge” are omitted as surplus. The words “laws and regulations” are substituted for “statutory and administrative requirements” for consistency in the revised title.
+In subsection (d), before clause (1), the words “in connection with any project”, “imposed on such sponsorunder this section in connection with such project”, and “or discharge” are omitted as surplus. The words “laws and regulations” are substituted for “statutory and administrative requirements” for consistency in the revised title.
 
 #### References in Text
 

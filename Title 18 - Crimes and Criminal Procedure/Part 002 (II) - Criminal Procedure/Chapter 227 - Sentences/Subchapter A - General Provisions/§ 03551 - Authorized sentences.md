@@ -98,9 +98,11 @@ Section 235 of chapter II (§§211–239) of title II of Pub. L. 98–473, as am
 
 \[Pub. L. 101–650, title III, §316, Dec. 1, 1990, 104 Stat. 5115, provided that: “For the purposes of section 235(b) of Public Law 98–473 \[set out above\] as it relates to chapter 311 of title 18, United States Code, and the United States Parole Commission, each reference in such section to ‘five years’ or a ‘five-year period’ shall be deemed a reference to ‘ten years’ or a ‘ten-year period’, respectively.”\]
 
+\[For purposes of section 235(b) of Pub. L. 98–473, set out above, as it relates to chapter 311 of this title and the Parole Commission, references to “fifteen years” or “fifteen-year period” are deemed to be references to “eighteen years” or “eighteen-year period”, respectively, see section 11017(a) of Pub. L. 107–273, set out as a note under section 4202 of this title.\]
+
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–132, title II, §201, Apr. 24, 1996, 110 Stat. 1227, provided that: “This subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, enacting sections 3613A and 3663A of this title, amending sections 2248, 2259, 2264, 2327, 3013, 3556, 3563, 3572, 3611 to 3613, 3614, 3663, and 3664 of this title and Rule 32 of the Federal Rules of Criminal Procedure set out in the Appendix to this title, and enacting provisions set out as notes under this section, section 2248 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Mandatory Victims Restitution Act of 1996’.”
+Pub. L. 104–132, title II, §201, Apr. 24, 1996, 110 Stat. 1227, provided that: “This subtitle \[subtitle A (§§201–211) of title II of Pub. L. 104–132, enacting sections 3613A and 3663A of this title, amending sections 2248, 2259, 2264, 2327, 3013, 3556, 3563, 3572, 3611 to 3613,3614, 3663, and 3664 of this title and Rule 32 of the Federal Rules of Criminal Procedure set out in the Appendix to this title, and enacting provisions set out as notes under this section, section 2248 of this title, and section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Mandatory Victims Restitution Act of 1996’.”
 
 #### Short Title of 1987 Amendment
 
@@ -112,7 +114,7 @@ Pub. L. 99–217, §1, Dec. 26, 1985, 99 Stat. 1728, provided that: “This Act 
 
 #### Short Title
 
-Section 211 of chapter II (§§211–239) of title II of Pub. L. 98–473 provided that: “This chapter \[see Tables forclassification\] may be cited as the ‘Sentencing Reform Act of 1984’.”
+Section 211 of chapter II (§§211–239) of title II of Pub. L. 98–473 provided that: “This chapter \[see Tables for classification\] may be cited as the ‘Sentencing Reform Act of 1984’.”
 
 #### Mandatory Victim Restitution; Promulgation of Regulations by Attorney General
 

@@ -38,7 +38,7 @@ Before commencing a rulemaking or making a determination pursuant to a rule issu
 
 &emsp;&emsp;(A) the subject product is predominantly a banking product; and
 
-&emsp;&emsp;(B) making the provision or provisions of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] at issue applicable to the subject instrument is appropriate in light of the history, purpose, and extent of regulation under such Act, sections 27 to 27f of this title, and under the appropriate banking laws, giving deference neither to the views of the Commodity Futures Trading Commission nor the Board of Governors of the Federal Reserve System.
+&emsp;&emsp;(B) making the provision or provisions of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\] at issue applicable to the subject instrument is appropriate in light of the history, purpose, and extent of regulation under such Act, sections 27 to 27f of this title, andunder the appropriate banking laws, giving deference neither to the views of the Commodity Futures Trading Commission nor the Board of Governors of the Federal Reserve System.
 
 #### (5) Judicial stay
 

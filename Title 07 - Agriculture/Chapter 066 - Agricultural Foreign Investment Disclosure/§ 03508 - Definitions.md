@@ -38,7 +38,7 @@ For purposes of this chapter—
 
 &emsp;(5) the term “Secretary” means the Secretary of Agriculture; and
 
-&emsp;(6) the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Northern Mariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
+&emsp;(6) the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the NorthernMariana Islands, Guam, the Virgin Islands, American Samoa, the Trust Territory of the Pacific Islands, or any other territory or possession of the United States.
 
 (Pub. L. 95–460, §9, Oct. 14, 1978, 92 Stat. 1266.)
 

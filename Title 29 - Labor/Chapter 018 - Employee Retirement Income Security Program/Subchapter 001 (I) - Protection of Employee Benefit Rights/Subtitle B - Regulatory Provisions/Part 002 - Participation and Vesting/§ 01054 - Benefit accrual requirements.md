@@ -240,7 +240,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;(ii) an individual account plan which is subject to the funding standards of section 412 of title 26.
 
-(9) For purposes of this subsection, a plan amendment which eliminates or significantly reduces any early retirement benefit or retirement-type subsidy (within the meaning of subsection (g)(2)(A) of this section) shall be treated as having the effect of significantly reducing the rate of future benefit accrual.
+(9) For purposes of this subsection, a plan amendment which eliminates or reduces any early retirement benefit or retirement-type subsidy (within the meaning of subsection (g)(2)(A) of this section) shall be treated as having the effect of reducing the rate of future benefit accrual.
 
 #### (i) Prohibition on benefit increases where plan sponsor is in bankruptcy
 
@@ -272,7 +272,7 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 
 &emsp;&emsp;<b>For special rules relating to plan provisions adopted to preclude discrimination, see section 1053(c)(2) of this title.</b>
 
-(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22,1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139.)
+(Pub. L. 93–406, title I, §204, Sept. 2, 1974, 88 Stat. 858; Pub. L. 98–397, title I, §§102(e)(3), (f), 105(b), title III, §301(a)(2), Aug. 23, 1984, 98 Stat. 1429, 1436, 1451; Pub. L. 99–272, title XI, §11006(a), Apr. 7, 1986, 100 Stat. 243; Pub. L. 99–509, title IX, §9202(a), Oct. 21, 1986, 100 Stat. 1975; Pub. L. 99–514, title XI, §1113(e)(4)(B), title XVIII, §§1879(u)(1), 1898(a)(4)(B)(ii), (f)(1)(B), (2), Oct. 22,1986, 100 Stat. 2448, 2913, 2944, 2956; Pub. L. 100–203, title IX, §9346(a), Dec. 22, 1987, 101 Stat. 1330–374; Pub. L. 101–239, title VII, §§7862(b)(1)(A), (2), 7871(a)(1), (3), 7881(m)(2)(A)–(C), 7891(a)(1), 7894(c)(4)–(6), Dec. 19, 1989, 103 Stat. 2432, 2434, 2435, 2444, 2445, 2449; Pub. L. 103–465, title VII, §766(a), Dec. 8, 1994, 108 Stat. 5036; Pub. L. 105–34, title X, §1071(b)(2), Aug. 5, 1997, 111 Stat. 948; Pub. L. 107–16, title VI, §§645(a)(2), (b)(2), 659(b), June 7, 2001, 115 Stat. 124, 125, 139; Pub. L. 107–147, title IV, §411(u)(2), Mar. 9, 2002, 116 Stat. 52.)
 
 #### Amendment of Section
 
@@ -283,6 +283,8 @@ For the purposes of this part, an employer shall be treated as maintaining a pla
 The Social Security Act, referred to in subsec. (b)(1)(G), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2002—Subsec. (h)(9). Pub. L. 107–147 struck out “significantly” before “reduces” and before “reducing”.
 
 2001—Subsec. (g)(2). Pub. L. 107–16, §§645(b)(2), 901, temporarily inserted after second sentence “The Secretary of the Treasury shall by regulations provide that this paragraph shall not apply to any plan amendment which reduces or eliminates benefits or subsidies which create significant burdens or complexities for the plan and plan participants, unless such amendment adversely affects the rights of any participant in a more than de minimis manner.” See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -346,9 +348,9 @@ Subsec. (h). Pub. L. 101–239, §7862(b)(1)(A), made technical correction to di
 
 Subsec. (h)(2). Pub. L. 101–239, §7862(b)(2), adjusted left-hand margin of introductory provisions to full measure.
 
-1987—Subsec. (c)(2)(C)(iii). Pub. L. 100–203, §9346(a)(1), substituted “120 percent of the Federal mid-term rate (as in effect under section 1274 of title 26 for the 1st month of a plan year)” for “5 percent per annum”.
+1987—Subsec. (c)(2)(C)(iii). Pub. L. 100–203, §9346(a)(1), substituted “120 percent of the Federal mid-term rate\(as in effect under section 1274 of title 26 for the 1st month of a plan year)” for “5 percent per annum”.
 
-Subsec. (c)(2)(D). Pub. L. 100–203, §9346(a)(2), struck out “, the rate of interest described in clause (iii) of subparagraph (C), or both,” before “from time to time”in first sentence and struck out second sentence which read as follows: “The rate of interest shall bear the relationship to 5 percent which the Secretary of the Treasury determines to be comparable to the relationship which the long-term money rates and investment yields for the last period of 10 calendar years ending at least 12 months before the beginning of the plan year bear to the long-term money rates and investment yields for the 10-calendar year period 1964 through 1973.”
+Subsec. (c)(2)(D). Pub. L. 100–203, §9346(a)(2), struck out “, the rate of interest described in clause (iii) of subparagraph (C), or both,” before “from time to time” in first sentence and struck out second sentence which read as follows: “The rate of interest shall bear the relationship to 5 percent which the Secretary of the Treasury determines to be comparable to the relationship which the long-term money rates and investment yields for the last period of 10 calendar years ending at least 12 months before the beginning of the plan year bear to the long-term money rates and investment yields for the 10-calendar year period 1964 through 1973.”
 
 1986—Subsec. (a). Pub. L. 99–509, §9202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Each pension plan shall satisfy the requirements of subsection (b)(2) of this section, and in the case of a defined benefit plan shall also satisfy the requirements of subsection (b)(1) of this section.”
 
@@ -377,6 +379,10 @@ Subsec. (d)(1). Pub. L. 98–397, §105(b), substituted “$3,500” for “$1,7
 Subsec. (e). Pub. L. 98–397, §102(f), substituted “5 consecutive 1-year breaks in service” for “any 1-year break in service”.
 
 Subsec. (g). Pub. L. 98–397, §301(a)(2), designated existing provisions as par. (1) and added par. (2).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of Title 26, Internal Revenue Code.
 
 #### Effective and Termination Dates of 2001 Amendment
 

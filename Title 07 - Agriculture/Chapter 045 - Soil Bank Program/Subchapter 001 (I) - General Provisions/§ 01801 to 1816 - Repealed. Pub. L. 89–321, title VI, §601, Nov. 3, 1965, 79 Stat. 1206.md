@@ -16,7 +16,7 @@ Section 1807, act May 28, 1956, ch. 327, title I, §119, 70 Stat. 196, directed 
 
 Section 1808, act May 28, 1956, ch. 327, title I, §120, 70 Stat. 197, authorized Secretary to utilize Commodity Credit Corporation in carrying out Soil Bank Program and allowed transfer to Federal and State agencies of funds available for carrying out purposes of program.
 
-Section 1809, act May 28, 1956, ch. 327, title I, §121, 70 Stat. 197, provided for finality of determinations forming basis of payment or compensation by Secretary and authorized him to make payment in any fair or reasonable manner reflected in appropriate regulations in case of death, incompetence, or disappearance of producers entitled to payment.
+Section 1809, act May 28, 1956, ch. 327, title I, §121, 70 Stat. 197, provided for finality of determinations forming basis of payment or compensation by Secretary andauthorized him to make payment in any fair or reasonable manner reflected in appropriate regulations in case of death, incompetence, or disappearance of producers entitled to payment.
 
 Section 1810, act May 28, 1956, ch. 327, title I, §122, 70 Stat. 197, required Secretary to provide adequate safeguards for tenants and sharecroppers.
 

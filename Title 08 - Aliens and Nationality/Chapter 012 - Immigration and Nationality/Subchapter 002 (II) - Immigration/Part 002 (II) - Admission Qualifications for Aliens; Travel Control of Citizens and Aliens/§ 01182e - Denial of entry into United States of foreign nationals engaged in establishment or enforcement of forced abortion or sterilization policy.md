@@ -22,3 +22,11 @@ The Secretary of State may waive the prohibitions in subsection (a) of this sect
 
 Section was enacted as part of the Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 6 section 236.
+

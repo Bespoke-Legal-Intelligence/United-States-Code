@@ -18,6 +18,158 @@ Functions of President respecting certain facilities constructed and maintained 
 
 National Intelligence Authority and Central Intelligence Group, established by Presidential Directive, Feb. 1, 1946, 11 F.R. 1337, to coordinate Federal foreign intelligence activities, ceased to exist upon creation of Central Intelligence Agency; personnel, property and records of the group were transferred to the Agency; and unexpended funds of the group were made available to the Agency, by act July 26, 1947, ch. 343, title I, §102, 61 Stat. 497, set out as section 403 of Title 50, War and National Defense.
 
+#### East Timor Transition to Independence
+
+Pub. L. 107–228, div. A, title VI, subtitle C, Sept. 30, 2002, 116 Stat. 1399, provided that:
+
+#### “SEC. 631. SHORT TITLE.
+
+“This subtitle may be cited as the ‘East Timor Transition to Independence Act of 2002’.
+
+#### “SEC. 632. BILATERAL ASSISTANCE.
+
+“(a)
+
+Authority.—The President, acting through the Administrator of the United States Agency for International Development, is authorized to—
+
+&emsp;“(1) support the development of civil society, including nongovernmental organizations in East Timor;
+
+&emsp;“(2) promote the development of an independent news media;
+
+&emsp;“(3) support job creation, including support for small business and microenterprise programs, environmental protection, sustainable development, development of East Timor's health care infrastructure, educational programs, and programs strengthening the role of women in society;
+
+&emsp;“(4) promote reconciliation, conflict resolution, and prevention of further conflict with respect to East Timor, including establishing accountability for past gross human rights violations;
+
+&emsp;“(5) support the voluntary and safe repatriation and reintegration of refugees into East Timor;
+
+&emsp;“(6) support political party development, voter education, voter registration, and other activities in support of free and fair elections in East Timor; and
+
+&emsp;“(7) promote the development of the rule of law.
+
+“(b)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+In general.—There is authorized to be appropriated to the President to carry out this section $25,000,000 for the fiscal year 2003.
+
+&emsp;“(2)
+
+Availability.—Amounts appropriated pursuant to the authorization of appropriations under paragraph (1) are authorized to remain available until expended.
+
+#### “SEC. 633. MULTILATERAL ASSISTANCE.
+
+“The Secretary of the Treasury shall instruct the United States executive director at each international financial institution to which the United States is a member to use the voice, vote, and influence of the United States to support economic and democratic development in East Timor.
+
+#### “SEC. 634. TRADE AND INVESTMENT ASSISTANCE.
+
+“(a)
+
+OPIC.—The President should initiate negotiations with the Government of East Timor to enter into a new agreement authorizing the Overseas Private Investment Corporation to carry out programs with respect to East Timor in order to expand United States investment in East Timor, emphasizing partnerships with local East Timorese enterprises.
+
+“(b)
+
+Trade and Development Agency.—
+
+&emsp;“(1)
+
+In general.—The Director of the Trade and Development Agency is authorized to carry out projects in East Timor under section 661 of the Foreign Assistance Act of 1961 (22 U.S.C. 2421).
+
+&emsp;“(2)
+
+Authorization of appropriations.—
+
+&emsp;&emsp;“(A)
+
+In general.—There are authorized to be appropriated to the Trade and Development Agency to carry out this subsection $1,000,000 for fiscal year 2003.
+
+&emsp;&emsp;“(B)
+
+Availability.—Amounts appropriated pursuant to the authorization of appropriations under subparagraph (A) are authorized to remain available until expended.
+
+“(c)
+
+Export-Import Bank.—The Export-Import Bank of the United States should expand its activities in connection with exports to East Timor to the extent such activities are requested and to the extent there is a reasonable assurance of repayment.
+
+#### “SEC. 635. GENERALIZED SYSTEM OF PREFERENCES.
+
+“As soon as possible after the enactment of this Act \[Sept. 30, 2002\], the United States Trade Representative and the Commissioner of Customs should send an assessment team to East Timor to compile a list of duty-free eligible products so that the Government of East Timor can begin the process of applying for General System of Preference benefits.
+
+#### “SEC. 636. AUTHORITY FOR RADIO BROADCASTING.
+
+“The Broadcasting Board of Governors should broadcast to East Timor in an appropriate language or languages.
+
+#### “SEC. 637. SECURITY ASSISTANCE FOR EAST TIMOR.
+
+“(a)
+
+Study and Report.—
+
+&emsp;“(1)
+
+Study.—The President shall conduct a study to determine—
+
+&emsp;&emsp;“(A) the extent to which East Timor's security needs can be met by the transfer of excess defense articles under section 516 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2321j\];
+
+&emsp;&emsp;“(B) the extent to which international military education and training (IMET) assistance will enhance professionalism of the armed forces of East Timor, provide training in human rights, and promote respect for human rights and humanitarian law; and
+
+&emsp;&emsp;“(C) the terms and conditions under which such defense articles or training, as appropriate, should be provided.
+
+&emsp;“(2)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Sept. 30, 2002\], the President shall transmit to the appropriate congressional committees a report that contains the findings of the study conducted under paragraph (1).
+
+“(b)
+
+Authorization of Assistance.—
+
+&emsp;“(1)
+
+In general.—Beginning on the date on which Congress receives the report transmitted under subsection (a)(2), or the date on which Congress receives the certification transmitted under paragraph (2), whichever occurs later, the President is authorized—
+
+&emsp;&emsp;“(A) to transfer excess defense articles under section 516 of the Foreign Assistance Act of 1961 (22 U.S.C. 2321j) to East Timor in accordance with such section; and
+
+&emsp;&emsp;“(B) to provide military education and training under chapter 5 of part II of such Act (22 U.S.C. 2347 et seq.) for the armed forces of East Timor in accordance with such chapter.
+
+&emsp;“(2)
+
+Certification.—A certification described in this paragraph is a certification that—
+
+&emsp;&emsp;“(A) East Timor has established an independent armed forces; and
+
+&emsp;&emsp;“(B) the assistance proposed to be provided pursuant to paragraph (1)—
+
+&emsp;&emsp;&emsp;“(i) is in the national security interests of the United States; and
+
+&emsp;&emsp;&emsp;“(ii) will promote both human rights in East Timor and the professionalization of the armed forces of East Timor.
+
+#### “SEC. 638. REPORTING REQUIREMENT.
+
+“(a)
+
+In General.—Not later than 180 days after the date of enactment of this Act \[Sept. 30, 2002\], and every 12 months thereafter for the next five years, the Secretary shall prepare and transmit to the appropriate congressional committees a report that contains the information described in subsection (b).
+
+“(b)
+
+Information.—The report required by subsection (a) shall include—
+
+&emsp;“(1) developments in East Timor's political and economic situation in the period covered by the report, including an evaluation of any elections which have occurred in East Timor and the refugee reintegration process in East Timor;
+
+&emsp;“(2) in the initial report, a 3-year plan for United States foreign assistance to East Timor in accordance with section 632, prepared by the Administrator of the United States Agency for International Development, which outlines the goals for United States foreign assistance to East Timor during the 3-year period;
+
+&emsp;“(3) a description of the activities undertaken in East Timor by the International Bank for Reconstruction and Development, the Asian Development Bank, and other international financial institutions, and an evaluation of the effectiveness of these activities;
+
+&emsp;“(4) an assessment of the status of United States trade and investment relations with East Timor, including a detailed analysis of any trade and investment-related activity supported by the Overseas Private Investment Corporation, the Export-Import Bank of the United States, or the Trade and Development Agency during the period of time since the previous report;
+
+&emsp;“(5) a comprehensive study and report on local agriculture in East Timor, emerging opportunities for producing, processing, and exporting indigenous agricultural products, and recommendations for appropriate technical assistance from the United States; and
+
+&emsp;“(6) statistical data drawn from other sources on economic growth, health, education, and distribution of resources in East Timor.”
+
+\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
+\[For definitions of “appropriate congressional committees” and “Secretary” as used in subtitle C of title VI of div. A of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+
 #### Pacific Charter Commission
 
 Pub. L. 106–570, title IV, Dec. 27, 2000, 114 Stat. 3047, provided that:
@@ -216,7 +368,7 @@ Information of the dci and the secretary of defense.—The Director of Central I
 
 &emsp;“(3)
 
-Information of the tribunal.—The Secretary of State shall request that the Tribunal and other international organizations and governments providethe Secretary of State information concerning the location, including the municipality, of publicly indicted war criminals and concerning country, entity and municipality authorities known to have obstructed the work of the Tribunal.
+Information of the tribunal.—The Secretary of State shall request that the Tribunal and other international organizations and governments provide the Secretary of State information concerning the location, including the municipality, of publicly indicted war criminals and concerning country, entity and municipality authorities known to have obstructed the work of the Tribunal.
 
 &emsp;“(4)
 
@@ -284,15 +436,13 @@ Availability of Funds.—The Secretary may make a grant to nongovernmental organ
 
 #### Report to Congress on Activities of North Korean Armed Forces
 
-Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–171, provided that: “Ninety days after the date of enactment of this Act \[Sept. 30, 1996\], and every 180 days thereafter, the Secretary of State, in consultation with the Secretary of Defense, shall provide a report in a classified or unclassified form to the Committee on Appropriations including the following information:
+Pub. L. 104–208, div. A, title I, §101(c) \[title V, §585\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–171, as amended by Pub. L. 107–228, div. B, title XIII, §1308(g)(1)(D), (2), Sept. 30, 2002, 116 Stat. 1441, provided that: “Ninety days after the date of enactment of this Act \[Sept. 30, 1996\], and every 180 days thereafter, the Secretary of State, in consultation with the Secretary of Defense, shall provide a report in a classified or unclassified form to the Committee on Appropriations including the following information:
 
 &emsp;“(a) a best estimate on fuel used by the military forces of the Democratic People's Republic of Korea (DPRK);
 
-&emsp;“(b) the deployment position and military training and activities of the DPRK forces and best estimate of the associated costs of these activities;
+&emsp;“(b) the deployment position and military training and activities of the DPRK forces and best estimate of the associated costs of these activities; and
 
-&emsp;“(c) steps taken to reduce the DPRK level of forces; and
-
-&emsp;“(d) cooperation, training, or exchanges of information, technology or personnel between the DPRK and any other nation supporting the development or deployment of a ballistic missile capability.”
+&emsp;“(c) steps taken to reduce the DPRK level of forces.”
 
 #### Reports to War Crimes Tribunal for Former Yugoslavia
 
@@ -318,7 +468,7 @@ Pub. L. 103–236, title V, §536, Apr. 30, 1994, 108 Stat. 481, provided that:
 
 “(a)
 
-Report on United States-Tibet Relations.—Because Congress has determined that Tibet is an occupied sovereign country under international law andthat its true representatives are the Dalai Lama and the Tibetan Government in exile—
+Report on United States-Tibet Relations.—Because Congress has determined that Tibet is an occupied sovereign country under international law and that its true representatives are the Dalai Lama and the Tibetan Government in exile—
 
 &emsp;“(1) it is the sense of the Congress that the United States should seek to establish a dialogue with those recognized by Congress as the true representatives of the Tibetan people, the Dalai Lama, his representatives and the Tibetan Government in exile, concerning the situation in Tibet and the future of the Tibetan people and to expand and strengthen United States-Tibet cultural and educational relations, including promoting bilateral exchanges arranged directly with the Tibetan Government in exile; and
 
@@ -410,7 +560,7 @@ Findings.—The Congress finds that a primary role of the Department of State is
 
 “(b)
 
-Recruitment.—(1) Not later than 120 days after the date of enactment of this Act \[Feb. 16, 1990\], the Secretary of State shall provide the Congress with a plan to assure that equal efforts are undertaken in each of the regions of the United States to recruit policy andprofessional Government Service employees and Foreign Service officers for the Department of State and each of its affiliated agencies.
+Recruitment.—(1) Not later than 120 days after the date of enactment of this Act \[Feb. 16, 1990\], the Secretary of State shall provide the Congress with a plan to assure that equal efforts are undertaken in each of the regions of the United States to recruit policy and professional Government Service employees and Foreign Service officers for the Department of State and each of its affiliated agencies.
 
 “(2) Not later than January 1, 1991, the Secretary of State shall implement the plan provided for in paragraph (1).”
 
@@ -480,7 +630,7 @@ Pub. L. 99–93, title I, §139, Aug. 16, 1985, 99 Stat. 422, provided that: “
 
 #### Torture by Foreign Governments; United States Policy in Opposition; Implementation
 
-Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: “That the Congress reaffirms that it is the continuing policy of the United States Government to oppose the practice of torture by foreign governments through public and private diplomacy and, when necessary and appropriate, through the enactment and vigorous implementation of laws intended to reinforce United States policies with respect to torture. The United States Government opposes acts of torture wherever they occur, without regard to ideological or regionalconsiderations, and will make every effort to work cooperatively with other governments and with nongovernmental organizations to combat the practice of torture worldwide.
+Pub. L. 98–447, Oct. 4, 1984, 98 Stat. 1721, provided: “That the Congress reaffirms that it is the continuing policy of the United States Government to oppose the practice of torture by foreign governments through public and private diplomacy and, when necessary and appropriate, through the enactment and vigorous implementation of laws intended to reinforce United States policies with respect to torture. The United States Government opposes acts of torture wherever they occur, without regard to ideological or regional considerations, and will make every effort to work cooperatively with other governments and with nongovernmental organizations to combat the practice of torture worldwide.
 
 “Sec. 2. (a) The President is requested—
 

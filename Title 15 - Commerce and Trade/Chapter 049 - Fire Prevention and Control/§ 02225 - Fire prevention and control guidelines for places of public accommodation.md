@@ -6,7 +6,7 @@ The guidelines referred to in sections 2224 and 2226 of this title consist of—
 
 &emsp;(1) a requirement that hard-wired, single-station smoke detectors be installed in accordance with National Fire Protection Association Standard 74 or any successor standard to that standard in each guest room in each place of public accommodation affecting commerce; and
 
-&emsp;(2) a requirement that an automatic sprinkler system be installed in accordance with National Fire Protection Association Standard 13 or 13–R, or any successor standard to that standard, whichever is appropriate, in each place of public accommodation affectingcommerce except those places that are 3 stories or lower.
+&emsp;(2) a requirement that an automatic sprinkler system be installed in accordance with National Fire Protection Association Standard 13 or 13–R, or any successor standard to that standard, whichever is appropriate, in each place of public accommodation affecting commerce except those places that are 3 stories or lower.
 
 #### (b) Exceptions
 

@@ -25,4 +25,5 @@ This part is referred to in title 2 section 60c–5; title 5 section 5379.
 - [&sect; 00297g - Modification of agreements; compromise, waiver or release](%C2%A7%2000297g%20-%20Modification%20of%20agreements%3B%20compromise%2C%20waiver%20or%20release.md)
 - [&sect; 00297h - Repealed. Pub. L. 99&#8211;92, &sect;9(a)(1), Aug. 16, 1985, 99 Stat. 400](%C2%A7%2000297h%20-%20Repealed.%20Pub.%20L.%2099%E2%80%9392%2C%20%C2%A79%28a%29%281%29%2C%20Aug.%2016%2C%201985%2C%2099%20Stat.%20400.md)
 - [&sect; 00297i - Procedures for appeal of terminations](%C2%A7%2000297i%20-%20Procedures%20for%20appeal%20of%20terminations.md)
-- [&sect; 00297n - Loan repayment program](%C2%A7%2000297n%20-%20Loan%20repayment%20program.md)
+- [&sect; 00297n - Loan repayment and scholarship programs](%C2%A7%2000297n%20-%20Loan%20repayment%20and%20scholarship%20programs.md)
+- [&sect; 00297n&#8211;1 - Nurse faculty loan program](%C2%A7%2000297n%E2%80%931%20-%20Nurse%20faculty%20loan%20program.md)

@@ -16,7 +16,7 @@ In any action which involves a consumer's liability for an unauthorized electron
 
 #### (c) Determination of limitation on liability
 
-In the event of a transaction which involves both an unauthorized electronic fund transfer and an extension of credit as defined in section 1602(e) of this title pursuant to an agreement between the consumer and the financial institution to extend such credit to the consumer in the event the consumer's account is overdrawn, the limitation on the consumer's liability for such transaction shall be determined solely in accordance with this section.
+In the event of a transaction which involves both an unauthorized electronic fund transferand an extension of credit as defined in section 1602(e) of this title pursuant to an agreement between the consumer and the financial institution to extend such credit to the consumer in the event the consumer's account is overdrawn, the limitation on the consumer's liability for such transaction shall be determined solely in accordance with this section.
 
 #### (d) Restriction on liability
 

@@ -16,7 +16,7 @@ The President shall promptly transmit reports to the Speaker of the House of Rep
 
 #### (d) Congressional request for information from President; information required; 60 day period; failure to supply information; termination or restriction of sale
 
-(1) Upon the request of the Committee on Foreign Relations of the Senate or the Committeeon Foreign Affairs of the House of Representatives, the President shall, within 60 days after receipt of such request, transmit to both such committees a statement, prepared with the assistance of the Secretary of State, with respect to the country designated in such request, setting forth—
+(1) Upon the request of the Committee on Foreign Relations of the Senate or the Committee on Foreign Affairs of the House of Representatives, the President shall, within 60 days after receipt of such request, transmit to both such committees a statement, prepared with the assistance of the Secretary of State, with respect to the country designated in such request, setting forth—
 
 &emsp;(A) all the available information about the exclusionary policies or practices of the government of such country when such policies or practices are based upon race, religion, national origin or sex and prevent any such person from participating in the performance of any sale or licensed transaction under this chapter;
 
@@ -38,7 +38,7 @@ The President shall promptly transmit reports to the Speaker of the House of Rep
 
 (C) The term “certification”, as used in section 601 of such Act, means, for the purposes of this paragraph, a statement transmitted under paragraph (1) of this subsection.
 
-(Pub. L. 90–629, ch. 1, §5, as added Pub. L. 94–329, title III, §302(b), June 30, 1976, 90 Stat. 752; amended Pub. L. 95–105, title I, §109(a)(5), Aug. 17, 1977, 91 Stat. 846; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–236, title I, §162(f), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588.)
+(Pub. L. 90–629, ch. 1, §5, as added Pub. L. 94–329, title III, §302(b), June 30, 1976, 90 Stat. 752; amended Pub. L. 95–105, title I, §109(a)(5), Aug.17, 1977, 91 Stat. 846; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–236, title I, §162(f), Apr. 30, 1994, 108 Stat. 405; Pub. L. 103–437, §9(a)(7), Nov. 2, 1994, 108 Stat. 4588.)
 
 #### References in Text
 

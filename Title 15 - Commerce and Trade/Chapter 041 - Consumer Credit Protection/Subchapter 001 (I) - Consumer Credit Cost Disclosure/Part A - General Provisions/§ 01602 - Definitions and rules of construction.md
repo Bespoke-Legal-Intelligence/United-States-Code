@@ -40,7 +40,7 @@
 
 (t) The term “agricultural products” includes agricultural, horticultural, viticultural, and dairy products, livestock, wildlife, poultry, bees, forest products, fish and shellfish, and any products thereof, including processed and manufactured products, and any and all products raised or produced on farms and any processed or manufactured products thereof.
 
-(u) The term “material disclosures” means the disclosure, as required by this subchapter, of the annual percentage rate, the method of determining the finance charge and the balance upon which a finance charge will be imposed, the amount of the finance charge, the amount to be financed, the total of payments, the number and amount of payments, the due dates or periods of payments scheduled to repay the indebtedness, and the disclosures required by section 1639(a) of this title.
+(u) The term “material disclosures” means the disclosure, as required by this subchapter, of theannual percentage rate, the method of determining the finance charge and the balance upon which a finance charge will be imposed, the amount of the finance charge, the amount to be financed, the total of payments, the number and amount of payments, the due dates or periods of payments scheduled to repay the indebtedness, and the disclosures required by section 1639(a) of this title.
 
 (v) The term “dwelling” means a residential structure or mobile home which contains one to four family housing units, or individual units of condominiums or cooperatives.
 
@@ -108,11 +108,11 @@
 
 &emsp;&emsp;(C) the death of the consumer.
 
-(Pub. L. 90–321, title I, §103, May 29, 1968, 82 Stat. 147; Pub. L. 91–508, title V, §501, Oct. 26, 1970, 84 Stat. 1126; Pub. L. 93–495, title III, §303, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–222, §3(a), Feb. 27, 1976, 90 Stat. 197; Pub. L. 96–221, title VI, §§602, 603(a), (b), 604, 612(a)(2), (b), Mar. 31, 1980, 94 Stat. 168, 169, 175, 176; Pub. L. 97–25, title I, §102, July 27, 1981, 95 Stat. 144; Pub. L. 97–320, title VII, §702(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 103–325, title I, §§152(a)–(c), 154(a), Sept. 23, 1994, 108 Stat. 2190, 2191, 2196.)
+(Pub. L. 90–321, title I, §103, May 29, 1968, 82 Stat. 147; Pub. L. 91–508, title V, §501, Oct. 26, 1970, 84 Stat. 1126; Pub. L. 93–495, title III, §303, Oct. 28, 1974, 88 Stat. 1511; Pub. L. 94–222, §3(a), Feb. 27, 1976, 90 Stat. 197; Pub. L. 96–221, title VI, §§602, 603(a), (b), 604, 612(a)(2), (b), Mar. 31, 1980, 94 Stat.168, 169, 175, 176; Pub. L. 97–25, title I, §102, July 27, 1981, 95 Stat. 144; Pub. L. 97–320, title VII, §702(a), Oct. 15, 1982, 96 Stat. 1538; Pub. L. 103–325, title I, §§152(a)–(c), 154(a), Sept. 23, 1994, 108 Stat. 2190, 2191, 2196.)
 
 #### References in Text
 
-The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec.\(aa)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the “Home Ownership and Equity Protection Act of 1994”, see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
+The Riegle Community Development and Regulatory Improvement Act of 1994, referred to in subsec. (aa)(2)(A)(i), is Pub. L. 103–325, Sept. 23, 1994, 108 Stat. 2160. Section 155 of the Act is set out below. For classification of subtitle B of title I of the Act, known as the “Home Ownership and Equity Protection Act of 1994”, see Short Title of 1994 Amendment note set out under section 1601 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 4701 of Title 12, Banks and Banking, and Tables.
 
 #### Amendments
 
@@ -178,9 +178,9 @@ Section 155 of title I of Pub. L. 103–325 provided that: “Not later than 180
 
 #### Applicability of 1994 Amendments and Regulations to Subsection (aa) Mortgages
 
-Section 156 of title I of Pub. L. 103–325 provided that: “This subtitle \[subtitle B (§§151–158) of title I of Pub. L. 103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and the amendments made by this subtitle, shall apply to every mortgage referred to in section 103(aa) of the Truth in Lending Act \[15 U.S.C. 1602(aa)\] (as added by section 152(a) of this Act) consummated on or after the date on which regulations issued under section 155 \[set out above\] become effective.”
+Section 156 of title I of Pub. L. 103–325 provided that: “This subtitle \[subtitle B (§§151–158) of title I of Pub. L.103–325, see Short Title of 1994 Amendment note set out under section 1601 of this title\], and the amendments made by this subtitle, shall apply to every mortgage referred to in section 103(aa) of the Truth in Lending Act \[15 U.S.C. 1602(aa)\] (as added by section 152(a) of this Act) consummated on or after the date on which regulations issued under section 155 \[set out above\] become effective.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1604, 1605, 1610, 1615, 1631, 1635, 1638, 1639, 1641, 1667, 1679a, 1693a, 1693g ofthis title; title 12 sections 1735f–5, 1735f–7a, 1834b, 2602, 3401; title 18 section 1030; title 26 section 6311; title 42 section 5511.
+This section is referred to in sections 78m, 1604, 1605, 1610, 1615, 1631, 1635, 1638, 1639, 1641, 1667, 1679a, 1693a, 1693g of this title; title 12 sections 1735f–5, 1735f–7a, 1834b, 2602, 3401; title 18 section 1030; title 26 section 6311; title 42 section 5511.
 

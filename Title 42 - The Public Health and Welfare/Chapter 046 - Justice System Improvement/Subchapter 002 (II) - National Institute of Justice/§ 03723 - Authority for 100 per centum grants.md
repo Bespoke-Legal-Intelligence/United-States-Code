@@ -6,5 +6,5 @@ A grant authorized under this subchapter may be up to 100 per centum of the tota
 
 #### Prior Provisions
 
-A prior section 3723, Pub. L. 90–351, title I, §203, June 19, 1968, 82 Stat. 199; Pub. L. 91–644, title I, §3(a)–(c), Jan. 2, 1971, 84 Stat. 1881; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 198; Pub. L. 93–415, title V, §542, Sept. 7, 1974, 88 Stat. 1142; Pub. L. 94–503, title I, §105, Oct. 15, 1976, 90 Stat. 2408; Pub. L. 95–115, §9(b), Oct. 3, 1977, 91 Stat. 1061, provided for establishment of State planning agencies, prior to the general amendment of this chapter by Pub. L. 96–157.
+A prior section 3723, Pub. L. 90–351, title I, §203, June 19, 1968, 82 Stat. 199; Pub. L. 91–644, title I, §3(a)–(c), Jan. 2, 1971, 84 Stat. 1881; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 198; Pub. L. 93–415, title V, §542, Sept. 7, 1974, 88 Stat. 1142; Pub. L. 94–503, title I, §105, Oct. 15, 1976, 90 Stat. 2408; Pub. L. 95–115, §9(b), Oct. 3, 1977, 91 Stat.1061, provided for establishment of State planning agencies, prior to the general amendment of this chapter by Pub. L. 96–157.
 

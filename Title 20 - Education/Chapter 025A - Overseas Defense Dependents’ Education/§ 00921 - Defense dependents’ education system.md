@@ -30,17 +30,19 @@ The Secretary of Defense shall consult with the Secretary of Education on the ed
 
 (1) The Secretary of Defense may provide optional summer school programs in the defense dependents’ education system.
 
-(2) The Secretary shall provide in regulations for fees to be charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income.
+(2) The Secretary shall provide any summer school program under this subsection on the same financial basis as programs offered during the regular school year, except that the Secretary may charge reasonable fees for all or portions of such summer school programs to the extent that the Secretary determines appropriate.
 
 (3) The amounts received by the Secretary in payment of the fees shall be available to the Department of Defense for defraying the costs of conducting summer school programs under this subsection.
 
-(Pub. L. 95–561, title XIV, §1402, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 99–145, title XII, §1204(b)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 102–484, div. A, title III, §382, Oct. 23, 1992, 106 Stat. 2392; Pub. L. 106–65, div. A, title III, §354(1), Oct. 5, 1999, 113 Stat. 572.)
+(Pub. L. 95–561, title XIV, §1402, Nov. 1, 1978, 92 Stat. 2365; Pub. L. 99–145, title XII, §1204(b)(1), Nov. 8, 1985, 99 Stat. 720; Pub. L. 102–484, div. A, title III, §382, Oct. 23, 1992, 106 Stat. 2392; Pub. L. 106–65, div. A, title III, §354(1), Oct. 5, 1999, 113 Stat. 572; Pub. L. 107–314, div. A, title III, §343, Dec. 2, 2002, 116 Stat. 2515.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, known as the Defense Dependents’ Education Act of 1978, which enacted this chapter, section 429 of Title 37, Pay and Allowances of the Uniformed Services, and section 1769b of Title 42, The Public Health and Welfare, amended sections 1773 and 1789 of Title 42, and enacted provisions set out as notes under this section. For complete classification of this title to the Code, see Short Title note below and Tables.
 
 #### Amendments
+
+2002—Subsec. (d)(2). Pub. L. 107–314 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The Secretary shall provide in regulations for fees to be charged for the students enrolling in a summer school program under this subsection in amounts determined on the basis of family income.”
 
 1999—Subsec. (b)(1). Pub. L. 106–65 substituted “to receive” for “to recieve”.
 

@@ -36,7 +36,7 @@ A State educational agency that receives a grant under this part may reserve not
 
 #### (f) Supplement
 
-Funds made available under this part shall be used to supplement, and not supplant, any other Federal, State, or local funds that would otherwise be available to carry out the activities assisted under this part.
+Funds made available under this part shall be used to supplement, and not supplant, any otherFederal, State, or local funds that would otherwise be available to carry out the activities assisted under this part.
 
 #### (g) Reporting
 

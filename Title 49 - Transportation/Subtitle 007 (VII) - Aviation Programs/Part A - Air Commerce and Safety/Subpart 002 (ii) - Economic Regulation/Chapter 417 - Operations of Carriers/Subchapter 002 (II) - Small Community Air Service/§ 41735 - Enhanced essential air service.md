@@ -32,7 +32,7 @@ Decisions.—Not later than 90 days after receiving a proposal under subsection 
 
 (c)
 
-Compensation Payments.—(1) The Secretary shall pay compensation under this section when and in the way the Secretary decides is appropriate. Compensation for enhanced essential air service under this section may be paid only for the costs incurred in providing air service to an eligible place that are in addition to the costs incurred in providing basic essentialair service to the place under section 41733 of this title. The Secretary shall continue to pay compensation under this section only as long as—
+Compensation Payments.—(1) The Secretary shall pay compensation under this section when and in the way the Secretary decides is appropriate. Compensation for enhanced essential air service under this section may be paid only for the costs incurred in providing air service to an eligible place that are in addition to the costs incurred in providing basic essential air service to the place under section 41733 of this title. The Secretary shall continue to pay compensation under this section only as long as—
 
 &emsp;(A) the air carrier maintains the level of enhanced essential air service;
 

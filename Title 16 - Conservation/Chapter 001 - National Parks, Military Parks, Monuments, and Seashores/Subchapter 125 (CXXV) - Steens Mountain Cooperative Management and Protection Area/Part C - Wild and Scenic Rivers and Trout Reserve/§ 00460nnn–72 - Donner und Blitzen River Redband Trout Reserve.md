@@ -4,7 +4,7 @@
 
 The Congress finds the following:
 
-&emsp;(1) Those portions of the Donner und Blitzen River in the Wilderness Area are an exceptional environmental resource that provides habitat for unique populations of native fish, migratory waterfowl, and other wildlife resources, including a unique population of redband trout.
+&emsp;(1) Those portions of the Donner und Blitzen River in the Wilderness Area are an exceptional environmental resource that provideshabitat for unique populations of native fish, migratory waterfowl, and other wildlife resources, including a unique population of redband trout.
 
 &emsp;(2) Redband trout represent a unique natural history reflecting the Pleistocene connection between the lake basins of eastern Oregon and the Snake and Columbia Rivers.
 

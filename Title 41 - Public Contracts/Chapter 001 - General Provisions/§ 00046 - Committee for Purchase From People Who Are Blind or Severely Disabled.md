@@ -58,7 +58,7 @@ The members of the Committee shall elect one of their number to be Chairman.
 
 #### (g) Obtaining official data
 
-The Committee may secure directly from any entity of the Government information necessary to enable it to carry out sections 46 to 48c of thistitle. Upon request of the Chairman of the Committee, the head of such Government entity shall furnish such information to the Committee.
+The Committee may secure directly from any entity of the Government information necessary to enable it to carry out sections 46 to 48c of this title. Upon request of the Chairman of the Committee, the head of such Government entity shall furnish such information to the Committee.
 
 #### (h) Administrative support services
 
@@ -116,7 +116,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Act Referred to in Other Sections
 
-The Javits-Wagner-O'Day Act is referred to in section 253 of this title; title 10 sections 2304, 2461; title 15 section 657a; title 40 sections 481, 490c.
+The Javits-Wagner-O'Day Act is referred to in section 253 of this title; title 10 sections 2304, 2461; title 15 section 657a; title 40 sections 502, 593.
 
 #### Section Referred to in Other Sections
 

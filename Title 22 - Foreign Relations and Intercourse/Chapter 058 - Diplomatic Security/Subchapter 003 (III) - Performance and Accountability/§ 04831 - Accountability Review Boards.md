@@ -34,7 +34,7 @@ Whenever the Secretary of State convenes a Board, the Secretary shall promptly i
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(1), was in the original “titles I through IV”, meaning titles I through IV of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 855, known as the Diplomatic Security Act, which is classified principally to this chapter. For complete classificationof titles I through IV of Pub. L. 99–399 to the Code, see Short Title note set out under section 4801 of this title and Tables.
+This chapter, referred to in subsec. (a)(1), was in the original “titles I through IV”, meaning titles I through IV of Pub. L. 99–399, Aug. 27, 1986, 100 Stat. 855, known as the Diplomatic Security Act, which is classified principally to this chapter. For complete classification of titles I through IV of Pub. L. 99–399 to the Code, see Short Title note set out under section 4801 of this title and Tables.
 
 #### Amendments
 

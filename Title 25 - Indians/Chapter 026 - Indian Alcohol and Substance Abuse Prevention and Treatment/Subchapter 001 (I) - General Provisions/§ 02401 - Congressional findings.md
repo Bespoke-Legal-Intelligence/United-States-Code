@@ -22,7 +22,7 @@ The Congress finds and declares that—
 
 &emsp;(10) the Bureau of Indian Affairs, which has responsibility for programs in education, social services, law enforcement, and other areas, has assumed little responsibility for coordinating its various efforts to focus on the epidemic of alcohol and substance abuse among Indian people,
 
-&emsp;(11) this lack of emphasis and priority continues despite the fact that Bureau of Indian Affairs and Indian Health Service officials publicly acknowledge that alcohol and substance abuse among Indians is the most serious health and social problem facing the Indian people, and
+&emsp;(11) this lack of emphasis and priority continues despite the fact that Bureau of Indian Affairs and Indian Health Service officialspublicly acknowledge that alcohol and substance abuse among Indians is the most serious health and social problem facing the Indian people, and
 
 &emsp;(12) the Indian tribes have the primary responsibility for protecting and ensuring the well-being of their members and the resources made available under this chapter will assist Indian tribes in meeting that responsibility.
 

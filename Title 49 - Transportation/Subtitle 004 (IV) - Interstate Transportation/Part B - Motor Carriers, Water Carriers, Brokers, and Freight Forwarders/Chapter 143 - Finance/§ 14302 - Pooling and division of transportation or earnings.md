@@ -2,7 +2,7 @@
 
 (a)
 
-Approval Required.—A carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 may not agree or combine with another such carrier to pool or divide traffic or services or any part of their earnings without the approval of the Board under this section.
+Approval Required.—A carrier providing transportation subject to jurisdiction under subchapter I of chapter 135 may not agree or combine with another such carrier to pool or divide traffic or services or any part of their earningswithout the approval of the Board under this section.
 
 (b)
 
@@ -46,7 +46,7 @@ Initiation of Proceeding.—The Board may begin a proceeding under this section 
 
 (f)
 
-Effect of Approval.—A carrier may participate in an arrangement approved by or exempted by the Board under this section without the approval of any other Federal, State, or municipal body. A carrier participating in an approved or exempted arrangement is exempt fromthe antitrust laws and from all other law, including State and municipal law, as necessary to let that person carry out the arrangement.
+Effect of Approval.—A carrier may participate in an arrangement approved by or exempted by the Board under this section without the approval of any other Federal, State, or municipal body. A carrier participating in an approved or exempted arrangement is exempt from the antitrust laws and from all other law, including State and municipal law, as necessary to let that person carry out the arrangement.
 
 (g)
 
@@ -80,7 +80,7 @@ This amends 49:14302(h)(1) and (2) for clarity and consistency.
 
 The antitrust laws, referred to in subsec. (f), are classified generally to section 1 et seq. of Title 15, Commerce and Trade.
 
-Section 10102(11) of this title, referred to in subsec. (h)(1), was omitted and a new section 10102 enacted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 20, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
+Section 10102(11) of this title, referred to in subsec. (h)(1), was omitted and a new section 10102 enacted inthe general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 20, 1995, 109 Stat. 804, 806, effective Jan. 1, 1996.
 
 Subchapter II of chapter 105 of this title, referred to in subsec. (h)(2), was omitted in the general amendment of this subtitle by Pub. L. 104–88, title I, §102(a), Dec. 29, 1995, 109 Stat. 804, effective Jan. 1, 1996.
 

@@ -2471,7 +2471,7 @@ State reports.
 
 Special project grants for interstate enforcement; appropriations.
 
-(b)
+(f)
 
 Direct Federal funding to Indian tribes and tribal organizations.
 
@@ -3643,6 +3643,10 @@ Transfer of funds where State is ineligible.
 
 Use of funds.
 
+(d)
+
+Special transfer in fiscal year 2002.
+
 |  |  |
 | :--- | ---: |
 | [1104\.](Subchapter%20009%20%28IX%29%20-%20Employment%20Security%20Administrative%20Financing/%C2%A7%2001104%20-%20Unemployment%20Trust%20Fund.md) | Unemployment Trust Fund. |
@@ -4530,7 +4534,40 @@ Period of effectiveness.
 |  |  |
 | :--- | ---: |
 | 1320b–4. | Nonprofit hospital or critical access hospital philanthropy. |
-| 1320b–5. | Repealed. |
+| 1320b–5. | Authority to waive requirements during national emergencies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Purpose.
+
+(b)
+
+Secretarial authority.
+
+(c)
+
+Authority for retroactive waiver.
+
+(d)
+
+Certification to Congress.
+
+(e)
+
+Duration of waiver.
+
+(f)
+
+Report to Congress.
+
+(g)
+
+Definitions.
+
+|  |  |
+| :--- | ---: |
 | 1320b–6. | Exclusion of representatives and health care providers convicted of violations from participation in social security programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -7875,7 +7912,7 @@ General exceptions to both ownership and compensation arrangement prohibitions.
 
 (c)
 
-General exception related only to ownership or investment prohibition for ownership in publicly-traded securities and mutual funds.
+General exception related only to ownership or investment prohibition for ownership in publicly traded securities and mutual funds.
 
 (d)
 
@@ -10026,7 +10063,7 @@ Additional definitions.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 256b, 299a, 907a, 1437f, 4636, 11606, 12637, 13021 of this title; title 2 section 651; title 5 sections 8403, 8442; title 7 sections 2012, 2015; title 8 section 1324a; title 12 section 1701z–11; title 22 sections 3968, 4071i; title 25 sections 13d, 459e, 609c–1, 640d–21, 1264, 1300d–25, 1407, 1408, 2307, 3304; title 26 sections 86, 162, 401, 412, 415, 1402, 6103; title 29 sections 716, 728, 1082, 2931; title 31 sections 1516, 3701, 3716; title 38 sections 5303A, 8126; title 40 App. section 202; title 43 section 1626; title 45 sections 231, 231a, 231b, 231c, 231d, 231e, 231f, 231q, 231r, 231u; title 50 App. section 1291.
+This chapter is referred to in sections 256b, 299a, 907a, 1437f, 4636, 11606, 12637, 13021 of this title; title 2 section 651; title 5 sections 8403, 8442; title 7 sections 2012, 2015; title 8 section 1324a; title 12 section 1701z–11; title 22 sections 3968, 4071i; title 25 sections 13d, 459e, 609c–1, 640d–21, 1264, 1300d–25, 1407, 1408, 2307, 3304; title 26 sections 86, 162, 401, 412, 415, 1402, 6103; title 29 sections 716, 728, 1082, 2931; title 31 sections 1516, 3701, 3716; title 38 sections 5303A, 8126; title 40 section 14502; title 43 section 1626; title 45 sections 231, 231a, 231b, 231c, 231d, 231e, 231f, 231q, 231r, 231u; title 50 App. section 1291.
 
 
 ---

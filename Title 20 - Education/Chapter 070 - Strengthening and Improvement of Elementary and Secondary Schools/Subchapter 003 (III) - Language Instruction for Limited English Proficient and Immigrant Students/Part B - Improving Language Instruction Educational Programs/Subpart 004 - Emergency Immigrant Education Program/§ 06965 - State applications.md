@@ -6,7 +6,7 @@ No State educational agency shall receive any payment under this subpart for any
 
 &emsp;(1) provide that the educational programs, services, and activities for which payments under this subpart are made will be administered by or under the supervision of the agency;
 
-&emsp;(2) provide assurances that payments under this subpart will be used for purposes set forth in sections 6961 and 6967 of this title, including a description of how local educational agencies receiving funds under this subpart will use such funds to meet such purposes and will coordinate with entities carrying out other programs and activities assisted under this chapter, and other Acts as appropriate;
+&emsp;(2) provide assurances that payments under this subpart will be used for purposes set forth in sections 6961 and 6967 of this title, including a description of how local educational agencies receiving funds under this subpart willuse such funds to meet such purposes and will coordinate with entities carrying out other programs and activities assisted under this chapter, and other Acts as appropriate;
 
 &emsp;(3) provide an assurance that local educational agencies receiving funds under this subpart will coordinate the use of such funds with entities carrying out programs and activities assisted under part A of subchapter I of this chapter;
 

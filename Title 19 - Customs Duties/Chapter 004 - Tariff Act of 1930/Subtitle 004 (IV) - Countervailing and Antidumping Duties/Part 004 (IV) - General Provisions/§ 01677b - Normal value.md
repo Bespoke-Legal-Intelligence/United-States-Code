@@ -112,7 +112,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;(B) were not at prices which permit recovery of all costs within a reasonable period of time,
 
-> &emsp;such sales may be disregarded in the determination of normal value. Whenever such sales are disregarded, normal value shall be based on the remaining sales of the foreign like product in the ordinary course of trade. If no sales made in the ordinary course of trade remain, the normal value shall be based on the constructed value of the merchandise.
+> &emsp;such sales may be disregarded in the determination of normal value. Whenever such sales are disregarded, normal value shall be based on the remaining sales of the foreignlike product in the ordinary course of trade. If no sales made in the ordinary course of trade remain, the normal value shall be based on the constructed value of the merchandise.
 
 #### (2) Definitions and special rules
 
@@ -164,7 +164,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 &emsp;&emsp;(B) the administering authority finds that available information does not permit the normal value of the subject merchandise to be determined under subsection (a) of this section,
 
-> &emsp;the administering authority shall determine the normal value of the subject merchandise on the basis of the value of the factors of production utilized in producing the merchandise and to which shall be added an amount forgeneral expenses and profit plus the cost of containers, coverings, and other expenses. Except as provided in paragraph (2), the valuation of the factors of production shall be based on the best available information regarding the values of such factors in a market economy country or countries considered to be appropriate by the administering authority.
+> &emsp;the administering authority shall determine the normal value of the subject merchandise on the basis of the value of the factors of production utilized in producing the merchandise and to which shall be added an amount for general expenses and profit plus the cost of containers, coverings, and other expenses. Except as provided in paragraph (2), the valuation of the factors of production shall be based on the best available information regarding the values of such factors in a market economy country or countries considered to be appropriate by the administering authority.
 
 #### (2) Exception
 
@@ -190,7 +190,7 @@ In determining under this subtitle whether subject merchandise is being, or is l
 
 #### (4) Valuation of factors of production
 
-&emsp;The administering authority, in valuing factors of production under paragraph (1), shall utilize, to the extent possible, the prices or costs of factors of production in one or more market economy countries that are—
+&emsp;The administering authority, in valuing factors of production under paragraph (1), shallutilize, to the extent possible, the prices or costs of factors of production in one or more market economy countries that are—
 
 &emsp;&emsp;(A) at a level of economic development comparable to that of the nonmarket economy country, and
 
@@ -222,7 +222,7 @@ For purposes of this subtitle, the constructed value of imported merchandise sha
 
 &emsp;&emsp;(ii) the weighted average of the actual amounts incurred and realized by exporters or producers that are subject to the investigation or review (other than the exporter or producer described in clause (i)) for selling, general, and administrative expenses, and for profits, in connection with the production and sale of a foreign like product, in the ordinary course of trade, for consumption in the foreign country, or
 
-&emsp;&emsp;(iii) the amounts incurred and realized for selling, general, and administrative expenses, and for profits, based on any other reasonable method, except that the amount allowed for profit may not exceed theamount normally realized by exporters or producers (other than the exporter or producer described in clause (i)) in connection with the sale, for consumption in the foreign country, of merchandise that is in the same general category of products as the subject merchandise; and
+&emsp;&emsp;(iii) the amounts incurred and realized for selling, general, and administrative expenses, and for profits, based on any other reasonable method, except that the amount allowed for profit may not exceed the amount normally realized by exporters or producers (other than the exporter or producer described in clause (i)) in connection with the sale, for consumption in the foreign country, of merchandise that is in the same general category of products as the subject merchandise; and
 
 &emsp;(3) the cost of all containers and coverings of whatever nature, and all other expenses incidental to placing the subject merchandise in condition packed ready for shipment to the United States.
 
@@ -236,7 +236,7 @@ For purposes of subsections (b) and (e) of this section.—
 
 #### (A) In general
 
-&emsp;&emsp;Costs shall normally be calculated based on the records of the exporter or producer of the merchandise, if such records are kept in accordance with the generally accepted accounting principles of the exporting country (or the producing country, where appropriate) and reasonably reflect the costs associated with the production and sale of the merchandise. The administering authority shall consider all available evidence on the proper allocation of costs, including that which is made available by the exporter or producer on a timely basis, if such allocations have been historically used by the exporter or producer, in particular for establishing appropriate amortization and depreciation periods, and allowances for capital expenditures and other development costs.
+&emsp;&emsp;Costs shall normally be calculated based on the records of the exporter or producer of the merchandise, if such records are kept in accordance with the generally accepted accounting principles of the exporting country (or the producing country, where appropriate) and reasonably reflect the costs associated with the production and sale of the merchandise. The administering authority shall consider all available evidence on the proper allocation of costs, including thatwhich is made available by the exporter or producer on a timely basis, if such allocations have been historically used by the exporter or producer, in particular for establishing appropriate amortization and depreciation periods, and allowances for capital expenditures and other development costs.
 
 #### (B) Nonrecurring costs
 
@@ -274,7 +274,7 @@ For purposes of subsections (b) and (e) of this section.—
 
 #### Amendments
 
-1994—Pub. L. 103–465 amended section generally, substituting present provisions for provisions relating to foreign market value, which provided for determination of value in subsec. (a), sales at less than cost ofproduction in subsec. (b), treatment of merchandise from nonmarket economy countries in subsec. (c), special rule for certain multinational corporations in subsec. (d), determination of constructed value in subsec. (e), and exportation from an intermediate country in subsec. (f).
+1994—Pub. L. 103–465 amended section generally, substituting present provisions for provisions relating to foreign market value, which provided for determination of value in subsec. (a), sales at less than cost of production in subsec. (b), treatment of merchandise from nonmarket economy countries in subsec. (c), special rule for certain multinational corporations in subsec. (d), determination of constructed value in subsec. (e), and exportation from an intermediate country in subsec. (f).
 
 1988—Subsec. (a)(5). Pub. L. 100–418, §1319, added par. (5).
 

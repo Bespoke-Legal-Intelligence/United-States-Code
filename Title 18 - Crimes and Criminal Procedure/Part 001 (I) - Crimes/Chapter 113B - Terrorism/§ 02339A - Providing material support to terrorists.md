@@ -2,19 +2,21 @@
 
 (a)
 
-Offense.—Whoever provides material support or resources or conceals or disguises the nature, location, source, or ownership of material support or resources, knowing or intending that they are to be used in preparation for, or in carrying out, a violation of section 32, 37, 81, 175, 229, 351, 831, 842(m) or (n), 844(f) or (i), 930(c), 956, 1114, 1116, 1203, 1361, 1362, 1363, 1366, 1751, 1992, 1993, 2155, 2156, 2280, 2281, 2332, 2332a, 2332b, 2332c,<sup>1</sup> or 2340A of this title, section 236 of the Atomic Energy Act of 1954 (42 U.S.C. 2284), or section 46502 or 60123(b) of title 49, or in preparation for, or in carrying out, the concealment or an escape from the commission of any such violation, or attempts or conspires to do such an act, shall be fined under this title, imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.
+Offense.—Whoever provides material support or resources or conceals or disguises the nature, location, source, or ownership of material support or resources, knowing or intending that they are to be used in preparation for, or in carrying out, a violation of section 32, 37, 81, 175, 229, 351, 831, 842(m) or (n), 844(f) or (i), 930(c), 956, 1114, 1116, 1203, 1361, 1362, 1363, 1366, 1751, 1992, 1993, 2155, 2156, 2280, 2281, 2332, 2332a, 2332b, 2332f, or 2340A of this title, section 236 of the Atomic Energy Act of 1954 (42 U.S.C. 2284), or section 46502 or 60123(b) of title 49, or in preparation for, or in carrying out, the concealment of an escape from the commission of any such violation, or attempts or conspires to do such an act, shall be fined under this title, imprisoned not more than 15 years, or both, and, if the death of any person results, shall be imprisoned for any term of years or for life. A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.
 
 (b)
 
 Definition.—In this section, the term “material support or resources” means currency or monetary instruments or financial securities, financial services, lodging, training, expert advice or assistance, safehouses, false documentation or identification, communications equipment, facilities, weapons, lethal substances, explosives, personnel, transportation, and other physical assets, except medicine or religious materials.
 
-(Added Pub. L. 103–322, title XII, §120005(a), Sept. 13, 1994, 108 Stat. 2022; amended Pub. L. 104–132, title III, §323, Apr. 24, 1996, 110 Stat. 1255; Pub. L. 104–294, title VI, §§601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, 110 Stat. 3498, 3502, 3506; Pub. L. 107–56, title VIII, §§805(a), 810(c), 811(f), Oct. 26, 2001, 115 Stat. 377, 380, 381.)
-
-#### References in Text
-
-Section 2332c of this title, referred to in subsec. (a), was repealed by Pub. L. 105–277, div. I, title II, §201(c)(1), Oct. 21, 1998, 112 Stat. 2681–871.
+(Added Pub. L. 103–322, title XII, §120005(a), Sept. 13, 1994, 108 Stat. 2022; amended Pub. L. 104–132,title III, §323, Apr. 24, 1996, 110 Stat. 1255; Pub. L. 104–294, title VI, §§601(b)(2), (s)(2), (3), 604(b)(5), Oct. 11, 1996, 110 Stat. 3498, 3502, 3506; Pub. L. 107–56, title VIII, §§805(a), 810(c), 811(f), Oct. 26, 2001, 115 Stat. 377, 380, 381; Pub. L. 107–197, title III, §301(c), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §4002(a)(7), (c)(1), (e)(11), Nov. 2, 2002, 116 Stat. 1807, 1808, 1811.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–273, §4002(a)(7), (e)(11), struck out “2332c,” after “2332b,” and substituted “of an escape” for “or an escape”.
+
+Pub. L. 107–197 inserted “2332f,” before “or 2340A”.
+
+Subsec. (b). Pub. L. 107–273, §4002(c)(1), repealed amendment by Pub. L. 104–294, §601(b)(2). See 1996 Amendment note below.
 
 2001—Subsec. (a). Pub. L. 107–56, §811(f), inserted “or attempts or conspires to do such an act,” before “shall be fined”.
 
@@ -34,7 +36,11 @@ Pub. L. 104–132 amended section generally, reenacting section catchline withou
 
 Subsec. (a). Pub. L. 104–294, §601(s)(2), (3), inserted “930(c),” before “956,”, “1992,” before “2155,”, “2332c,” before “or 2340A of this title”, and “or an escape” after “concealment”.
 
-Subsec. (b). Pub. L. 104–294, §601(b)(2), which directed substitution of “2332” for “2331”, “2332a” for “2339”, “37” for “36”, and “or an escape” for “of an escape”, could not be executed because the provisions for which the substitutions were to be made did not appear in text subsequent to the general amendment by Pub. L. 104–132. See above.
+Subsec. (b). Pub. L. 104–294, §601(b)(2), which directed substitution of “2332” for “2331”, “2332a” for “2339”, “37” for “36”, and “or an escape” for “of an escape” and which could not be executed after the general amendment by Pub. L. 104–132, was repealed by Pub. L. 107–273, §4002(c)(1). See above.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
 
 #### Effective Date of 1996 Amendment
 
@@ -43,6 +49,4 @@ Amendment by section 604(b)(5) of Pub. L. 104–294 effective Sept. 13, 1994, se
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1956, 2332b, 2339B, 2516 of this title; title 22 sections 2778, 7211; title 28 section 1605.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
 

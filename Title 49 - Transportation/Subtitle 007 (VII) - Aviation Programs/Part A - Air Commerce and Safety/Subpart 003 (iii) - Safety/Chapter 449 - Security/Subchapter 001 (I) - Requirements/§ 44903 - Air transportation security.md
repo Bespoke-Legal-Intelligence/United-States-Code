@@ -100,7 +100,7 @@ Improvements.—The Under Secretary shall—
 
 &emsp;&emsp;(G) work with airport operators to strengthen access control points in secured areas (including air traffic control operations areas, maintenance areas, crew lounges, baggage handling areas, concessions, and catering delivery areas) to ensure the security of passengers and aircraft and consider the deployment of biometric or similar technologies that identify individuals based on unique personal characteristics.
 
-(h) <sup>1</sup>
+(h)
 
 Improved Airport Perimeter Access Security.—
 
@@ -128,7 +128,7 @@ Airport perimeter screening.—The Under Secretary—
 
 &emsp;&emsp;&emsp;(i) all persons providing services with respect to aircraft providing passenger air transportation or intrastate air transportation and facilities of such persons at an airport in the United States described in section 44903(c);
 
-&emsp;&emsp;&emsp;(ii) all supplies, including catering and passenger amenities, placed aboard such aircraft, including the sealing of suppliesto ensure easy visual detection of tampering; and
+&emsp;&emsp;&emsp;(ii) all supplies, including catering and passenger amenities, placed aboard such aircraft, including the sealing of supplies to ensure easy visual detection of tampering; and
 
 &emsp;&emsp;&emsp;(iii) all persons providing such supplies and facilities of such persons;
 
@@ -136,23 +136,27 @@ Airport perimeter screening.—The Under Secretary—
 
 &emsp;&emsp;(E) may provide for the use of biometric or other technology that positively verifies the identity of each employee and law enforcement officer who enters a secure area of an airport.
 
-(h) <sup>1</sup>
+(i)
 
 Authority to Arm Flight Deck Crew With Less-Than-Lethal Weapons.—
 
 &emsp;(1)
 
-In general.—If the Secretary, after receiving the recommendations of the National Institute of Justice, determines, with the approval of the Attorney General and the Secretary of State, that it is appropriate and necessary and would effectively serve the public interest in avoiding air piracy, the Secretary may authorize members of the flight deck crew on any aircraft providing air transportation or intrastate air transportation to carry a less-than-lethal weapon while the aircraft is engaged in providing such transportation.
+In general.—If the Under Secretary, after receiving the recommendations of the National Institute of Justice, determines, with the approval of the Attorney General and the Secretary of State, that it is appropriate and necessary and would effectively serve the public interest in avoiding air piracy, the Under Secretary may authorize members of the flight deck crew on any aircraft providing air transportation or intrastate air transportation to carry a less-than-lethal weapon while the aircraft is engaged in providing such transportation.
 
 &emsp;(2)
 
-Usage.—If the Secretary grants authority under paragraph (1) for flight deck crew members to carry a less-than-lethal weapon while engaged in providing air transportation or intrastate air transportation, the Secretary shall—
+Usage.—If the Under Secretary grants authority under paragraph (1) for flight deck crew members to carry a less-than-lethal weapon while engaged in providing air transportation or intrastate air transportation, the Under Secretary shall—
 
 &emsp;&emsp;(A) prescribe rules requiring that any such crew member be trained in the proper use of the weapon; and
 
 &emsp;&emsp;(B) prescribe guidelines setting forth the circumstances under which such weapons may be used.
 
-(i)
+&emsp;(3)
+
+Request of air carriers to use less-than-lethal weapons.—If, after the date of enactment of this paragraph, the Under Secretary receives a request from an air carrier for authorization to allow pilots of the air carrier to carry less-than-lethal weapons, the Under Secretary shall respond to that request within 90 days.
+
+(j)
 
 Short-Term Assessment and Deployment of Emerging Security Technologies and Procedures.—
 
@@ -170,7 +174,7 @@ In general.—The Under Secretary of Transportation for Security shall recommend
 
 &emsp;&emsp;(E) specifically target the elimination of the “piggy-backing” phenomenon, where another person follows an authorized person through the access point.
 
-> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currently available technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18 months after the date of enactment of this Act, the Secretary of Transportation shall conduct a review of reductions in unauthorized access at these airports.
+> &emsp;The 6-month assessment shall include a 12-month deployment strategy for currently available technology at all category X airports, as defined in the Federal Aviation Administration approved air carrier security programs required under part 108 of title 14, Code of Federal Regulations. Not later than 18months after the date of enactment of this Act, the Secretary of Transportation shall conduct a review of reductions in unauthorized access at these airports.
 
 &emsp;(2)
 
@@ -192,11 +196,11 @@ Modifications.—The Secretary of Transportation may modify any requirement unde
 
 &emsp;&emsp;&emsp;(ii) the routine characteristics of passengers, given the nature of the market, regularly triggers primary selectee status.
 
-(h) <sup>1</sup>
+(k)
 
 Limitation on Liability for Acts To Thwart Criminal Violence or Aircraft Piracy.—An individual shall not be liable for damages in any action brought in a Federal or State court arising out of the acts of the individual in attempting to thwart an act of criminal violence or piracy on an aircraft if that individual reasonably believed that such an act of criminal violence or piracy was occurring or was about to occur.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1205; Pub. L. 106–181, title VII, §717, Apr. 5, 2000, 114 Stat. 163; Pub. L. 106–528, §§4, 6, Nov. 22, 2000, 114 Stat. 2520, 2521; Pub. L. 107–71, title I, §§101(f)(7)–(9), 106(a), (c), (d), 120, 126(b), 136, 144, Nov. 19, 2001, 115 Stat. 603, 608–610, 629, 632, 636, 644; Pub. L. 107–296, title XIV, §§1405, 1406, Nov. 25, 2002, 116 Stat. 2307.)
 
 Historical and Revision Notes
 
@@ -256,11 +260,29 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 
 The date of enactment of this subsection, referred to in subsec. (h)(4)(A), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
 
-The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (i)(1), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+The date of enactment of this paragraph, referred to in subsec. (i)(3), is the date of enactment of Pub. L. 107–296, which was approved Nov. 25, 2002.
 
-The date of enactment of this Act, referred to in subsec. (i)(1), probably means the date of enactment of Pub. L. 107–71, which enacted subsec. (i) of this section and which was approved Nov. 19, 2001.
+The date of enactment of the Aviation and Transportation Security Act, referred to in subsec. (j)(1), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+
+The date of enactment of this Act, referred to in subsec. (j)(1), probably means the date of enactment of Pub. L. 107–71, which enacted subsec. (j), originally (i), of this section and which was approved Nov. 19, 2001.
 
 #### Amendments
+
+2002—Subsec. (h). Pub. L. 107–296, §1406(3), redesignated subsec. (h), relating to limitation on liability for acts to thwart criminal violence or aircraft piracy, as (k).
+
+Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i).
+
+Subsec. (i). Pub. L. 107–296, §1406(2), redesignated subsec. (h), relating to authority to arm flight deck crews with less-than-lethal weapons, as (i). Former subsec. (i) redesignated (j).
+
+Subsec. (i)(1). Pub. L. 107–296, §1405(b)(1), substituted “If the Under Secretary” for “If the Secretary” and “the Under Secretary may” for “the Secretary may”.
+
+Subsec. (i)(2). Pub. L. 107–296, §1405(b)(2), substituted “Under Secretary” for “Secretary” in two places in introductory provisions.
+
+Subsec. (i)(3). Pub. L. 107–296, §1405(a), added par. (3).
+
+Subsec. (j). Pub. L. 107–296, §1406(1), redesignated subsec. (i) as (j).
+
+Subsec. (k). Pub. L. 107–296, §1406(3), redesignated subsec. (h), relating to limitation on liability for acts to thwart criminal violence or aircraft piracy, as (k).
 
 2001—Subsec. (a)(2). Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transportation for Security” for “Administrator of the Federal Aviation Administration”.
 
@@ -302,11 +324,19 @@ Subsec. (f). Pub. L. 106–181 added subsec. (f).
 
 Subsec. (g). Pub. L. 106–528, §4, added subsec. (g).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date of 2000 Amendments
 
 Amendment by Pub. L. 106–528 effective 30 days after Nov. 22, 2000, see section 9 of Pub. L. 106–528, set out as a note under section 106 of this title.
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Improved Flight Deck Integrity Measures
 
@@ -402,19 +432,11 @@ Documentation of Costs; Audit.—The Secretary may not reimburse an airport oper
 
 “(c)
 
-Claim Procedure.—Within 30 days after the date of enactment of this Act \[Nov. 19, 2001\], the Secretary,after consultation with airport operators, on-airport parking lots, and vendors of on-airfield direct services to air carriers, shall publish in the Federal Register the procedures for filing claims for reimbursement under this section of eligible costs incurred by airport operators.”
+Claim Procedure.—Within 30 days after the date of enactment of this Act \[Nov. 19, 2001\], the Secretary, after consultation with airport operators, on-airport parking lots, and vendors of on-airfield direct services to air carriers, shall publish in the Federal Register the procedures for filing claims for reimbursement under this section of eligible costs incurred by airport operators.”
 
 #### Flight Deck Security
 
-Pub. L. 107–71, title I, §128, Nov. 19, 2001, 115 Stat. 633, provided that: “The pilot of a passenger aircraft operated by an air carrier in air transportation or intrastate air transportation is authorized to carry a firearm into the cockpit if—
-
-&emsp;“(1) the Under Secretary of Transportation for Security approves;
-
-&emsp;“(2) the air carrier approves;
-
-&emsp;“(3) the firearm is approved by the Under Secretary; and
-
-&emsp;“(4) the pilot has received proper training for the use of the firearm, as determined by the Under Secretary.”
+Pub. L. 107–71, title I, §128, Nov. 19, 2001, 115 Stat. 633, which authorized the pilot of a passenger aircraft to carry a firearm into the cockpit if approved by the Under Secretary of Transportation for Security and the air carrier, if the firearm is approved by the Under Secretary, and if the pilot has received proper training, was repealed by Pub. L. 107–296, title XIV, §1402(b)(2), Nov. 25, 2002, 116 Stat. 2305.
 
 #### Charter Air Carriers
 
@@ -538,7 +560,5 @@ For definitions of terms used in sections 104, 106(b), (e), 117, 121, 128, and 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40109, 40119, 44901, 44915, 44917, 44933, 44935, 44937, 44940, 46301, 46314, 46316 of this title.
-
-<i><sup>1</sup></i><i> So in original. Three subsecs. (h) have been enacted.</i>
+This section is referred to in sections 106, 40109, 44901, 44915, 44917, 44921, 44933, 44935, 44937, 44940, 46301, 46314, 46316 of this title.
 

@@ -1,22 +1,34 @@
 ### §303. Determination of issue by Director
 
-(a) Within three months following the filing of a request for reexamination under the provisions of section 302 of this title, the Directorwill determine whether a substantial new question of patentability affecting any claim of the patent concerned is raised by the request, with or without consideration of other patents or printed publications. On his own initiative, and any time, the Director may determine whether a substantial new question of patentability is raised by patents and publications discovered by him or cited under the provisions of section 301 of this title.
+(a) Within three months following the filing of a request for reexamination under the provisions of section 302 of this title, the Director will determine whether a substantial new question of patentability affecting any claim of the patent concerned is raised by the request, with or without consideration of other patents or printed publications. On his own initiative, and any time, the Director may determine whether a substantial new question of patentability is raised by patents and publications discovered by him or cited under the provisions of section 301 of this title. The existence of a substantial new question of patentability is not precluded by the fact that a patent or printed publication was previously cited by or to the Office or considered by the Office.
 
 (b) A record of the Director's determination under subsection (a) of this section will be placed in the official file of the patent, and a copy promptly will be given or mailed to the owner of record of the patent and to the person requesting reexamination, if any.
 
 (c) A determination by the Director pursuant to subsection (a) of this section that no substantial new question of patentability has been raised will be final and nonappealable. Upon such a determination, the Director may refund a portion of the reexamination fee required under section 302 of this title.
 
-(Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3015; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(9)(A), (10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3015; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(9)(A), (10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §§13105(a), 13206(b)(1), Nov. 2, 2002, 116 Stat. 1900, 1905, 1906.)
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+
+Pub. L. 107–273, §13105(a), inserted at end “The existence of a substantial new question of patentability isnot precluded by the fact that a patent or printed publication was previously cited by or to the Office or considered by the Office.”
+
+Subsec. (b). Pub. L. 107–273, §13206(b)(1)(A), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(9)(A)(ii)\]. See 1999 Amendment note below.
+
+Subsec. (c). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+
 1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(9)(A)(i)\], substituted “Director” for “Commissioner” in section catchline.
 
-Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], substituted “Director” for “Commissioner” in two places.
+Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” in two places.
 
-Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(9)(A)(ii)\], substituted “Director's” for “Commissioner's”.
+Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(9)(A)(ii)\], as amended by Pub. L. 107–273, §13206(b)(1)(A), substituted “Director's” for “Commissioner's”.
 
-Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], substituted “Director” for “Commissioner” in two places.
+Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” in two places.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–273, div. C, title III, §13105(b), Nov. 2, 2002, 116 Stat. 1900, provided that: “The amendments made by this section \[amending this section and section 312 of this title\] shall apply with respect to any determination of the Director of the United States Patent and Trademark Office that is made under section 303(a) or 312(a) of title 35, United States Code, on or after the date of enactment of this Act \[Nov. 2, 2002\].”
 
 #### Effective Date of 1999 Amendment
 

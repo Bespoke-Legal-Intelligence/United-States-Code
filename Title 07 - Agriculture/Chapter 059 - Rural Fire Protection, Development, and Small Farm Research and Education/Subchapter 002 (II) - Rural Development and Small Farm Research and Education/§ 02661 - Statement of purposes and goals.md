@@ -16,7 +16,7 @@
 
 &emsp;(1) encourage and support rural United States, in order to help make it a better place to live, work, and enjoy life;
 
-&emsp;(2) increase income and improve employment for persons in rural areas, including theowners or operators of small farms, small businesses, and rural youth;
+&emsp;(2) increase income and improve employment for persons in rural areas, including the owners or operators of small farms, small businesses, and rural youth;
 
 &emsp;(3) improve the quality and availability of essential community services and facilities in rural areas;
 
@@ -52,7 +52,7 @@ Pub. L. 101–624, title XXIII, §2390(a), Nov. 28, 1990, 104 Stat. 4055, provid
 
 #### Short Title of 1987 Amendment
 
-Pub. L. 100–219, §1, Dec. 29, 1987, 101 Stat. 1456, provided that: “This Act \[amending section 2662 of this title\] may be cited as the ‘Rural Crisis Recovery Program Act of 1987’.”
+Pub. L. 100–219, §1, Dec. 29, 1987, 101 Stat. 1456, provided that: “This Act \[amending section 2662 of thistitle\] may be cited as the ‘Rural Crisis Recovery Program Act of 1987’.”
 
 #### Northern Great Plains Rural Development
 

@@ -8,7 +8,7 @@ The provisions of this title relating to applications for patent shall be applic
 
 No reissued patent shall be granted enlarging the scope of the claims of the original patent unless applied for within two years from the grant of the original patent.
 
-(July 19, 1952, ch. 950, 66 Stat. 808; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 808; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -22,7 +22,9 @@ A two year period of limitation on applying for broadened reissues is added, cod
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in first and second pars.
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+
+1999—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in first and second pars.
 
 #### Effective Date of 1999 Amendment
 

@@ -14,7 +14,7 @@ The breeder of any sexually reproduced or tuber propagated plant variety (other 
 
 &emsp;&emsp;&emsp;(ii) in the case of a tree or vine, more than 6 years prior to the date of filing;
 
-&emsp;(2) distinct, in the sense that the variety is clearly distinguishable from any other varietythe existence of which is publicly known or a matter of common knowledge at the time of the filing of the application;
+&emsp;(2) distinct, in the sense that the variety is clearly distinguishable from any other variety the existence of which is publicly known or a matter of common knowledge at the time of the filing of the application;
 
 &emsp;(3) uniform, in the sense that any variations are describable, predictable, and commercially acceptable; and
 

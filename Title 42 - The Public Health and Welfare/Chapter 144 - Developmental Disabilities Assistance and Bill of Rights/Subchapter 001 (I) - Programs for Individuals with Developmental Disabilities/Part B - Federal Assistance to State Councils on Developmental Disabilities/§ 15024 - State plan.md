@@ -48,7 +48,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 &emsp;&emsp;&emsp;(vi) a description of the adequacy of current resources and projected availability of future resources to fund services described in this subparagraph;
 
-&emsp;&emsp;&emsp;(vii) a description of the adequacy of health care and other services, supports, and assistance that individuals with developmental disabilities who are in facilities receive (based in part on each independent review (pursuant to section 1396a(a)(30)(C) of this title) of an Intermediate Care Facility (Mental Retardation) within the State, which the State shall provide to the Council not later than 30 days after the availability of the review); and
+&emsp;&emsp;&emsp;(vii) a description of the adequacy of health care and other services, supports, and assistance that individuals with developmental disabilities who are in facilities receive (based in part on each independent review (pursuant to section 1396a(a)(30)(C)of this title) of an Intermediate Care Facility (Mental Retardation) within the State, which the State shall provide to the Council not later than 30 days after the availability of the review); and
 
 &emsp;&emsp;&emsp;(viii) to the extent that information is available, a description of the adequacy of health care and other services, supports, and assistance that individuals with developmental disabilities who are served through home and community-based waivers (authorized under section 1396n(c) of this title) receive;
 
@@ -154,7 +154,7 @@ In order to be approved by the Secretary under this section, a State plan shall 
 
 #### (N) Other assurances
 
-&emsp;&emsp;The plan shall contain such additional information and assurances as the Secretarymay find necessary to carry out the provisions (including the purpose) of this part.
+&emsp;&emsp;The plan shall contain such additional information and assurances as the Secretary may find necessary to carry out the provisions (including the purpose) of this part.
 
 #### (d) Public input and review, submission, and approval
 

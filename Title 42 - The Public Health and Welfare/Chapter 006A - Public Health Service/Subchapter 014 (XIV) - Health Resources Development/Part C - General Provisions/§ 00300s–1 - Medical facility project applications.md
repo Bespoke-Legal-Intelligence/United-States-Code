@@ -24,7 +24,7 @@ No loan, loan guarantee, or grant may be made under part A or B for a medical fa
 
 &emsp;(H) the type of assistance being sought under part A or B for the project;
 
-&emsp;(I) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of work on a project will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act), and the Secretary of Labor shall have with respect to such labor standards the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 FR 3176; 5 U.S.C. Appendix) and section 276c of title 40;
+&emsp;(I) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of work on a project will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and the Secretary of Labor shall have with respect to such labor standards the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 FR 3176; 5 U.S.C. Appendix) and section 3145 of title 40;
 
 &emsp;(J) in the case of a project for the construction or modernization of an outpatient facility, reasonable assurance that the services of a general hospital will be available to patients at such facility who are in need of hospital care; and
 
@@ -46,9 +46,9 @@ No loan, loan guarantee, or grant may be made under part A or B for a medical fa
 
 (July 1, 1944, ch. 373, title XVI, §1621, as added Pub. L. 96–79, title II, §202(b), Oct. 4, 1979, 93 Stat. 633.)
 
-#### References in Text
+#### Codification
 
-Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act), referred to in subsec. (b)(1)(I), isact Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+In subsec. (b)(1)(I), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (40U.S.C. 276a—276a–5, known as the Davis-Bacon Act)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 

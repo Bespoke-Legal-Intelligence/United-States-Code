@@ -20,7 +20,7 @@ There is hereby created a Special Risk Insurance Fund (hereinafter referred to a
 
 (3) The Secretary shall undertake an annual assessment of the risks associated with each of the insurance programs comprising the Special Risk Insurance Fund, and shall present findings from such review to the Congress in the FHA Annual Management Report.
 
-(June 27, 1934, ch. 847, title II, §238, as added Pub. L. 90–448, title I, §104(a), Aug. 1, 1968, 82 Stat. 486; amended Pub. L. 91–152, title IV, §415, Dec. 24, 1969, 83 Stat. 401; Pub. L. 91–351, title V, §503, July 24, 1970, 84 Stat. 461; Pub. L. 91–609, title I, §117(d), Dec. 31, 1970, 84 Stat. 1775; Pub. L. 93–383, title III, §318, Aug. 22, 1974, 88 Stat. 685; Pub. L. 95–128, title III, §309, Oct. 12, 1977, 91 Stat. 1135; Pub. L. 103–233, title I, §§103(g)(1), 105(a), Apr. 11, 1994, 108 Stat. 362, 363.)
+(June 27, 1934, ch. 847, title II, §238, as added Pub. L. 90–448, title I, §104(a), Aug. 1, 1968, 82 Stat. 486; amended Pub. L. 91–152, title IV, §415,Dec. 24, 1969, 83 Stat. 401; Pub. L. 91–351, title V, §503, July 24, 1970, 84 Stat. 461; Pub. L. 91–609, title I, §117(d), Dec. 31, 1970, 84 Stat. 1775; Pub. L. 93–383, title III, §318, Aug. 22, 1974, 88 Stat. 685; Pub. L. 95–128, title III, §309, Oct. 12, 1977, 91 Stat. 1135; Pub. L. 103–233, title I, §§103(g)(1), 105(a), Apr. 11, 1994, 108 Stat. 362, 363.)
 
 #### References in Text
 
@@ -32,7 +32,7 @@ Subsection (k) of section 1710 of this title, referred to in subsec. (a)(1), was
 
 Subsec. (c)(3). Pub. L. 103–233, §103(g)(1), added par. (3).
 
-1977—Subsec. (c). Pub. L. 95–128 substituted provisions of pars. (1) and (2) respecting mortgage insurance for military impacted areas, criteria therefore, and establishment of premiums and other charges for prior subsec. (c), which had authorized use of the Special Risk Insurance Fund to carry out mortgage insurance obligations of sections 1709 and 1713 of this title to provide housing for military personnel, Federal civilian employees, and Federal contractor employees assigned to duty or employed at or in connection with any installation of the Armed Forces in federally impacted areaswhere in the judgment of the Secretary (1) the residual housing requirements for persons not associated with such installations were insufficient to sustain the housing market in the event of substantial curtailment of employment of personnel assigned to such installations, and (2) the benefits to be derived from such use outweighed the risk of possible cost to the Government.
+1977—Subsec. (c). Pub. L. 95–128 substituted provisions of pars. (1) and (2) respecting mortgage insurance for military impacted areas, criteria therefore, and establishment of premiums and other charges for prior subsec. (c), which had authorized use of the Special Risk Insurance Fund to carry out mortgage insurance obligations of sections 1709 and 1713 of this title to provide housing for military personnel, Federal civilian employees, and Federal contractor employees assigned to duty or employed at or in connection with any installation of the Armed Forces in federally impacted areas where in the judgment of the Secretary (1) the residual housing requirements for persons not associated with such installations were insufficient to sustain the housing market in the event of substantial curtailment of employment of personnel assigned to such installations, and (2) the benefits to be derived from such use outweighed the risk of possible cost to the Government.
 
 1974—Subsec. (c). Pub. L. 93–383 added subsec. (c).
 

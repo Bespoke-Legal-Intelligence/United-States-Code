@@ -2,7 +2,7 @@
 
 #### (a) Detail
 
-(1) Notwithstanding any other provision of law, the head of a department with an element in the intelligence community or the head of an intelligence community agency or element may detail any employee within that department, agency, or element to serve in any position in the Intelligence Community Assignment Program on a reimbursable or a nonreimbursable basis.
+(1) Notwithstanding any other provision of law, the head of a department with an elementin the intelligence community or the head of an intelligence community agency or element may detail any employee within that department, agency, or element to serve in any position in the Intelligence Community Assignment Program on a reimbursable or a nonreimbursable basis.
 
 (2) Nonreimbursable details may be for such periods as are agreed to between the heads of the parent and host agencies, up to a maximum of three years, except that such details may be extended for a period not to exceed one year when the heads of the parent and host agencies determine that such extension is in the public interest.
 
@@ -28,17 +28,15 @@
 
 &emsp;(F) The rate of pay applicable to the detailed employee does not exceed the rate of basic pay for grade GS–15 of the General Schedule.
 
-#### (c) Annual report
-
-Not later than March 1, 1999, and annually thereafter, the Director of Central Intelligence shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the detail of intelligence community personnel pursuant to subsection (a) of this section during the 12-month period ending on the date of the report. The report shall set forth the number of personnel detailed, the identity of parent and host agencies or elements, and an analysis of the benefits of the details.
-
-(July 26, 1947, ch. 343, title I, §113, as added Pub. L. 105–107, title III, §303(a), Nov. 20, 1997, 111 Stat. 2251; Pub. L. 107–108, title III, §304, Dec. 28, 2001, 115 Stat. 1398.)
+(July 26, 1947, ch. 343, title I, §113, as added Pub. L. 105–107, title III, §303(a), Nov. 20, 1997, 111 Stat. 2251; amended Pub. L. 107–108, title III, §304, Dec. 28, 2001, 115 Stat. 1398; Pub. L. 107–306, title VIII, §841(a), Nov. 27, 2002, 116 Stat. 2431.)
 
 #### References in Text
 
 GS–15 of the General Schedule, referred to in subsec. (b)(2)(F), is set out under section 5332 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–306 struck out heading and text of subsec. (c). Text read as follows: “Not later than March 1, 1999, and annually thereafter, the Director of Central Intelligence shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the detail of intelligence community personnel pursuant to subsection (a) of this section during the 12-month period ending on the date of the report. The report shall set forth the number of personnel detailed, the identity of parent and host agencies or elements, and an analysis of the benefits of the details.”
 
 2001—Subsec. (b). Pub. L. 107–108 designated existing provisions as par. (1) and added par. (2).
 

@@ -31,6 +31,8 @@
 | [7322\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007322%20-%20Breast%20cancer%20mammography%20policy.md) | Breast cancer mammography policy. |
 | [7323\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007323%20-%20Required%20consultations%20with%20nurses.md) | Required consultations with nurses. |
 | [7324\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007324%20-%20Annual%20report%20on%20use%20of%20authorities%20to%20enhance%20retention%20of%20experienced%20nurses.md) | Annual report on use of authorities to enhance retention of experienced nurses. |
+| [7325\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007325%20-%20Medical%20emergency%20preparedness%20centers.md) | Medical emergency preparedness centers. |
+| [7326\.](Subchapter%20002%20%28II%29%20-%20General%20Authority%20and%20Administration/%C2%A7%2007326%20-%20Education%20and%20training%20programs%20on%20medical%20response%20to%20consequences%20of%20terrorist%20activities.md) | Education and training programs on medical response to consequences of terrorist activities. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -62,7 +64,9 @@
 
 #### Amendments
 
-2002—Pub. L. 107–135, title I, §125(a)(2), Jan. 23, 2002, 115 Stat. 2453, added item 7324.
+2002—Pub. L. 107–287, §§2(a)(2), 3(a)(2), Nov. 7, 2002, 116 Stat. 2027, 2028, added items 7325 and 7326.
+
+Pub. L. 107–135, title I, §125(a)(2), Jan. 23, 2002, 115 Stat. 2453, added item 7324.
 
 2001—Pub. L. 107–14, §8(a)(14)(B), June 5, 2001, 115 Stat. 35, struck out item 7367 “Report to Congress”.
 

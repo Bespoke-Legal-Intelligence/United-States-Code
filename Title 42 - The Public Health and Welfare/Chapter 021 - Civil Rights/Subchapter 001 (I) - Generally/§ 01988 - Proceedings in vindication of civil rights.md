@@ -26,7 +26,7 @@ Title 70 of the Revised Statutes, referred to in subsec. (a), was in the origina
 
 Crimes,’ ” meaning title 70 of the Revised Statutes, consisting of R.S. §§5323 to 5550. For complete classification of R.S. §§5323 to 5550, see Tables.
 
-Title IX of Public Law 92–318, referred to in subsec. (b), is title IX of Pub. L. 92–318, June 23, 1972, 86 Stat. 373, as amended, popularly known as the Education Amendments of 1972, which is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Tables.
+Title IX of Public Law 92–318, referred to in subsec. (b), is title IX of Pub. L. 92–318, June 23, 1972, 86 Stat. 373, as amended, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, which is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
 The Religious Freedom Restoration Act of 1993, referred to in subsec. (b), is Pub. L. 103–141, Nov. 16, 1993, 107 Stat. 1488, which is classified principally to chapter 21B (§2000bb et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2000bb of this title and Tables.
 
@@ -46,7 +46,7 @@ Section was formerly classified to section 729 of Title 28 prior to the general 
 
 1996—Subsec. (b). Pub. L. 104–317 inserted before period at end “, except that in any action brought against a judicial officer for an act or omission taken in such officer's judicial capacity such officer shall not be held liable for any costs, including attorney's fees, unless such action was clearly in excess of such officer's jurisdiction”.
 
-1994—Subsec. (b). Pub. L. 103–322, which directed the amendment of the last sentence of this section by striking “or” after “92–318,” and by inserting “, or section 13981 of this title,” after “1964”, was executed to subsec. (b) of this section by striking “or” after “Act of 1993,” and by inserting “, or section 13981 of this title,” after “1964”, to reflect the probable intent of Congress and amendments by Pub. L. 102–166 and Pub. L. 103–141. See 1993 and 1991 Amendment notes below.
+1994—Subsec. (b). Pub. L. 103–322, which directed the amendment of the last sentence of this section by striking “or” after “92–318,” and by inserting “, or section 13981 of this title,” after “1964”, was executed to subsec. (b) of this section by striking “or” after “Act of 1993,” and by inserting “, or section 13981 of this title,” after “1964”, to reflect the probable intent ofCongress and amendments by Pub. L. 102–166 and Pub. L. 103–141. See 1993 and 1991 Amendment notes below.
 
 1993—Subsec. (b). Pub. L. 103–141 inserted “the Religious Freedom Restoration Act of 1993,” before “or title VI”.
 

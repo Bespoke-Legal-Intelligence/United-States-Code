@@ -100,7 +100,7 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 &emsp;(iii) In any case in which the practitioner is not in a group practice, the total number of such patients of the practitioner at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, except that the Secretary may by regulation change such total number.
 
-&emsp;(iv) In any case in which the practitioner is in a group practice, the total number of such patients of the group practice at any one time will not exceed the applicable number. For purposes of this clause, the applicable number is 30, except that the Secretary may by regulation change such total number, and the Secretary for such purposes may by regulation establish different categories on the basis of the number of practitioners in a group practice and establish for the various categories different numerical limitations on the number of such patients that the group practice may have.
+&emsp;(iv) In any case in which the practitioner is in a group practice, the total number of such patients of the group practice at any one time will not exceed the applicable number. Forpurposes of this clause, the applicable number is 30, except that the Secretary may by regulation change such total number, and the Secretary for such purposes may by regulation establish different categories on the basis of the number of practitioners in a group practice and establish for the various categories different numerical limitations on the number of such patients that the group practice may have.
 
 (C) For purposes of subparagraph (A), the conditions specified in this subparagraph with respect to narcotic drugs in schedule III, IV, or V or combinations of such drugs are as follows:
 
@@ -160,9 +160,9 @@ The Attorney General shall register practitioners (including pharmacies, as dist
 
 (ii) Not later than 120 days after October 17, 2000, the Secretary shall issue a treatment improvement protocol containing best practice guidelines for the treatment and maintenance of opiate-dependent patients. The Secretary shall develop the protocol in consultation with the Director of the National Institute on Drug Abuse, the Administrator of the Drug Enforcement Administration, the Commissioner of Food and Drugs, the Administrator of the Substance Abuse and Mental Health Services Administration and other substance abuse disorder professionals. The protocol shall be guided by science.
 
-(I) During the 3-year period beginning on October 17, 2000, a State may not preclude a practitioner from dispensing or prescribing drugs in schedule III, IV, or V, or combinations of such drugs, to patients for maintenance or detoxification treatment in accordance with this paragraph unless, before the expiration of that 3-year period, the State enacts a law prohibiting a practitioner from dispensing such drugs or combinations of drug.<sup>1</sup>
+(I) During the 3-year period beginning on the date of approval by the Food and Drug Administration of a drug in schedule III, IV, or V, a State may not preclude a practitioner from dispensing or prescribing such drug, or combination of such drugs, to patients for maintenance or detoxification treatment in accordance with this paragraph unless, before the expiration of that 3-year period, the State enacts a law prohibiting a practitioner from dispensing such drugs or combinations of drug.<sup>1</sup>
 
-(J)(i) This paragraph takes effect on October 17, 2000, and remains in effect thereafter except as provided in clause (iii) (relating to a decision by the Secretary or the Attorney General that this paragraph should not remain in effect).
+(J)(i) This paragraph takes effect the date referred to in subparagraph (I), and remains in effect thereafter except as provided in clause (iii) (relating to a decision by the Secretary or the Attorney General that this paragraph should not remain in effect).
 
 (ii) For purposes relating to clause (iii), the Secretary and the Attorney General may, during the 3-year period beginning on October 17, 2000, make determinations in accordance with the following:
 
@@ -186,7 +186,7 @@ The Attorney General shall register an applicant to distribute a list I chemical
 
 &emsp;(5) such other factors as are relevant to and consistent with the public health and safety.
 
-(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222.)
+(Pub. L. 91–513, title II, §303, Oct. 27, 1970, 84 Stat. 1253; Pub. L. 93–281, §3, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §109, Nov. 10, 1978, 92 Stat. 3773; Pub. L. 98–473, title II, §511, Oct. 12, 1984, 98 Stat. 2073; Pub. L. 103–200, §3(c), Dec. 17, 1993, 107 Stat. 2336; Pub. L. 106–310, div. B, title XXXV, §3502(a), Oct. 17, 2000, 114 Stat. 1222; Pub. L. 107–273, div. B, title II, §2501, Nov. 2, 2002, 116 Stat. 1803.)
 
 #### References in Text
 
@@ -197,6 +197,10 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (g)(2)(C)(i), i
 This chapter, referred to in subsec.(g)(2)(J)(ii)(II), was in the original “this Act”, meaning Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 801 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (g)(2)(I). Pub. L. 107–273, §2501(1), which directed the substitution of “on the date of approval by the Food and Drug Administration of a drug in schedule III, IV, or V, a State may not preclude a practitioner from dispensing or prescribing such drug, or combination of such drugs,” for “on October 17, 2000, a State may not preclude a practitioner from dispensing or prescribing drugs in schedule III, IV, or V, or combinations of such drugs,”, was executed by making the substitution for the phrase which in the original began with “on the date of the enactment of the Drug Addiction Treatment Act of 2000,” rather than the editorial translation “on October 17, 2000,” to reflect the probable intent of Congress.
+
+Subsec. (g)(2)(J)(i). Pub. L. 107–273, §2501(2), which directed the substitution of “the date referred to in subparagraph (I),” for “October 17, 2000,” was executed by making the substitution for text which in the original read “the date of the enactment of the Drug Addiction Treatment Act of 2000,” rather than the editorial translation “October 17, 2000,” to reflect the probable intent of Congress.
 
 2000—Subsec. (g). Pub. L. 106–310 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), practitioners who dispense” for “Practitioners who dispense”, redesignated former pars. (1) to (3) as subpars. (A) to (C), respectively, of par. (1) and redesignated former subpars. (A) and (B) of former par. (2) as cls. (i) and (ii), respectively, of subpar. (B) of par. (1), and added par. (2).
 
@@ -224,5 +228,5 @@ For provisional registration of persons engaged in manufacturing, distributing, 
 
 This section is referred to in sections 824, 827, 828, 844, 880, 952, 958, 965 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “plural”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “combinations of drugs.”.</i>
 

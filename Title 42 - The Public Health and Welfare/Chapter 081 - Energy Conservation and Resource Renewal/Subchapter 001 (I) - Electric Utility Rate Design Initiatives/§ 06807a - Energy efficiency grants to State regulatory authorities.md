@@ -32,7 +32,7 @@ For purposes of this section, the term “State regulatory authority” shall ha
 
 #### (f) Authorization
 
-There are authorized to be appropriated $5,000,000 for each of the fiscal years 1994, 1995 and 1996 to carry out the purposes of this section.
+There are authorized to be appropriated $5,000,000 for each of the fiscal years 1994, 1995and 1996 to carry out the purposes of this section.
 
 (Pub. L. 102–486, title I, §112, Oct. 24, 1992, 106 Stat. 2797.)
 

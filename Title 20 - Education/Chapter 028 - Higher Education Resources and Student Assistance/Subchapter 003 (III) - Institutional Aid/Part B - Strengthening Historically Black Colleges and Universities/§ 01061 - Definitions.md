@@ -26,7 +26,7 @@ Another prior section 1061, Pub. L. 89–329, title IV, §401, Nov. 8, 1965, 79 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1085, 1131–1, 1131a, 1131c of this title; title 25 section 1809; title 29 section 718; title 42 sections 1862d, 3035q.
+This section is referred to in sections 1085, 1131–1, 1131a, 1131c, 9501 of this title; title 25 section 1809; title 29 section 718; title 42 sections 1862d, 3032a, 5197h.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

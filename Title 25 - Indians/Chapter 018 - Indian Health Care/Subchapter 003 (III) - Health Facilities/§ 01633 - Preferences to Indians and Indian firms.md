@@ -6,11 +6,11 @@ The Secretary, acting through the Service, may utilize the negotiating authority
 
 #### (b) Pay rates
 
-For the purpose of implementing the provisions of this subchapter, the Secretary shall assure that the rates of pay for personnel engaged in the construction or renovation of facilities constructed or renovated in whole or in part by funds made available pursuant to this subchapter are not less than the prevailing local wage rates for similar work as determined in accordance with the Act of March 3, 1931 (40 U.S.C. 276a to 276a–5, known as the Davis-Bacon Act).
+For the purpose of implementing the provisions of this subchapter, the Secretary shall assure that the rates of pay for personnel engaged in the construction or renovation of facilities constructed or renovated in whole or in part by funds made available pursuant to this subchapter are not less than the prevailing local wage rates for similar work as determined in accordance with sections 3141–3144, 3146, and 3147 of title 40.
 
 (Pub. L. 94–437, title III, §303, Sept. 30, 1976, 90 Stat. 1407.)
 
-#### References in Text
+#### Codification
 
-The Davis-Bacon Act, referred to in subsec. (b), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+“Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (b) for “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5, known as the Davis-Bacon Act)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 

@@ -14,7 +14,7 @@ There is established a Federal Acquisition Regulatory Council (hereinafter in th
 
 &emsp;(C) the Administrator of General Services.
 
-(2) Notwithstanding section 205(d) of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 486(d)\], the officials specified in subparagraphs (A), (B), and (C) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official (A) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics; or (B) if no official of such agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 414(3) of this title. No other official or employee may be designated to serve on the Council.
+(2) Notwithstanding section 121(d)(1) and (2) of title 40, the officials specified in subparagraphs (A), (B), and (C) of paragraph (1) may designate to serve on and attend meetings of the Council in place of that official (A) the official assigned by statute with the responsibility for acquisition policy in each of their respective agencies or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition, Technology, and Logistics; or (B) if no official of such agency is assigned by statute with the responsibility for acquisition policy for that agency, the official designated pursuant to section 414(3) of this title. No other official or employee may be designated to serve on the Council.
 
 #### (c) Functions
 
@@ -28,7 +28,7 @@ There is established a Federal Acquisition Regulatory Council (hereinafter in th
 
 (B) Unless the request is frivolous or does not, on its face, state a valid basis for such review, the Administrator shall complete such a review not later than 60 days after receiving the request. The time for completion of the review may be extended if the Administrator determines that an additional period of review is required. The Administrator shall advise the requester of the reasons for the extension and the date by which the review will be completed.
 
-(5) If the Administrator determines that a regulation relating to procurement is inconsistentwith the Federal Acquisition Regulation or that the regulation should otherwise be revised to remove an inconsistency with any policies issued under section 405(a) of this title, the Administrator shall rescind or deny the promulgation of the regulation or take such other action authorized under section 405 of this title as may be necessary to remove the inconsistency. If the Administrator determines that such a regulation, although not inconsistent with the Federal Acquisition Regulation or such policies, should be revised to improve compliance with such Regulation or policies, the Administrator shall take such action authorized under section 405 of this title as may be necessary and appropriate.
+(5) If the Administrator determines that a regulation relating to procurement is inconsistent with the Federal Acquisition Regulation or that the regulation should otherwise be revised to remove an inconsistency with any policies issued under section 405(a) of this title, the Administrator shall rescind or deny the promulgation of the regulation or take such other action authorized under section 405 of this title as may be necessary to remove the inconsistency. If the Administrator determines that such a regulation, although not inconsistent with the Federal Acquisition Regulation or such policies, should be revised to improve compliance with such Regulation or policies, the Administrator shall take such action authorized under section 405 of this title as may be necessary and appropriate.
 
 (6) The decisions of the Administrator shall be in writing and made publicly available. The Administrator shall provide a listing of such decisions in the annual report to Congress required by section 407 <sup>1</sup> of this title.
 
@@ -42,7 +42,7 @@ Subject to the authority, direction, and control of the head of the agency conce
 
 &emsp;(3) eliminate or reduce (A) any redundant or unnecessary levels of review and approval, in the procurement system of such agency, and (B) redundant or unnecessary procurement regulations which are unique to that agency.
 
-> The authority to review and approve or disapprove regulations under paragraph (1) of this subsection may not be delegated to any person outside the office of the official who represents the agency on the Council pursuant to subsection (b) of this section.
+> The authority to review and approve or disapprove regulations under paragraph (1) of this subsection may not be delegated to any personoutside the office of the official who represents the agency on the Council pursuant to subsection (b) of this section.
 
 #### (e) Governing policies
 
@@ -56,13 +56,17 @@ Subject to section 405(b) of this title, the Council shall manage, coordinate, c
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Tables.
 
 The National Aeronautics and Space Act of 1958, referred to in subsec. (c)(1), is Pub. L. 85–568, July 29, 1958, 72 Stat. 426, as amended, which is classified generally to chapter 26 (§2451 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of Title 42 and Tables.
 
 Section 407 of this title, referred to in subsec. (c)(6), was repealed by Pub. L. 104–106, div. D, title XLIII, §4305(b), Feb. 10, 1996, 110 Stat. 665.
 
 Section 3502 of title 44, referred to in subsec. (d)(2), which in par. (11) defined “information collection request”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which does not define “information collection request”.
+
+#### Codification
+
+“Section 121(d)(1) and (2) of title 40” substituted in subsec. (b)(2) for “section 205(d) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -88,7 +92,7 @@ Subsec. (g)(3). Pub. L. 104–201, §822(3), struck out par. (3) which read as f
 
 &emsp;“(B) the extent to which the Federal procurement system can be streamlined to reduce unnecessary paperwork while at the same time maintaining recordkeeping and reporting requirements necessary to ensure the integrity and accountability of the system.”
 
-1990—Subsec. (b)(2). Pub. L. 101–510 inserted before semicolon at end of cl. (A) “or, in the case of the Secretary of Defense, an official at an organizational levelnot lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition”.
+1990—Subsec. (b)(2). Pub. L. 101–510 inserted before semicolon at end of cl. (A) “or, in the case of the Secretary of Defense, an official at an organizational level not lower than an Assistant Secretary of Defense within the Office of the Under Secretary of Defense for Acquisition”.
 
 #### Effective Date of 1996 Amendment
 

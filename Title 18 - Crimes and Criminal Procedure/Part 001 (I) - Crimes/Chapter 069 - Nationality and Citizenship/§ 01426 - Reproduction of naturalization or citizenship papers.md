@@ -16,9 +16,9 @@
 
 (h) Whoever, without lawful authority, prints, photographs, makes or executes any print or impression in the likeness of a certificate of arrival, declaration of intention to become a citizen, or certificate of naturalization or citizenship, or any part thereof—
 
-Shall be fined under this title or imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility <sup>1</sup> such an act ofinternational terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
+Shall be fined under this title or imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facilitate such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 767; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, §211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569.)
+(June 25, 1948, ch. 645, 62 Stat. 767; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, §211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 107–273, div. B, title IV, §4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
 
 #### Historical and Revision Notes
 
@@ -30,7 +30,9 @@ References to persons causing, procuring, aiding, abetting, or assisting were om
 
 #### Amendments
 
-1996—Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than five years” in last par.
+2002—Pub. L. 107–273 substituted “to facilitate” for “to facility” in last par.
+
+1996—Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined insection 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than five years” in last par.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $5,000” in last par.
 
@@ -42,9 +44,11 @@ Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on 
 
 Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 2 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5, Government Organization and Employees.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 982, 1961, 2516, 3291 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “facilitate”.</i>
 

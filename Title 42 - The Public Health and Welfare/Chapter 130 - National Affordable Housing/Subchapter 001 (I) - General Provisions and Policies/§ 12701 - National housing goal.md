@@ -88,7 +88,7 @@ Director and Staff.—
 
 &emsp;“(1)
 
-Director.—The Commission shall have a Director who shall be appointed by the Chairperson. The Director shall be paid at a rate not to exceed the rate of basic pay payable for level III of the Executive Schedule.
+Director.—The Commission shall have a Director who shall be appointed by the Chairperson. The Director shall be paid at a rate not to exceed therate of basic pay payable for level III of the Executive Schedule.
 
 &emsp;“(2)
 
@@ -120,7 +120,7 @@ Obtaining official data.—The Commission may secure directly from any departmen
 
 &emsp;“(4)
 
-Gifts, bequests, and devises.—The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts, bequests, or devises ofmoney and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission.
+Gifts, bequests, and devises.—The Commission may accept, use, and dispose of gifts, bequests, or devises of services or property, both real and personal, for the purpose of aiding or facilitating the work of the Commission. Gifts, bequests, or devises of money and proceeds from sales of other property received as gifts, bequests, or devises shall be deposited in the Treasury and shall be available for disbursement upon order of the Commission.
 
 &emsp;“(5)
 
@@ -182,7 +182,7 @@ Number and Appointment.—The Commission shall be composed of 14 members, appoin
 
 &emsp;&emsp;&emsp;“(i) one co-chairperson shall be appointed by a committee consisting of the chairman of the Subcommittee on Housing and Community Opportunities of the House of Representatives and the chairman of the Subcommittee on Housing and Transportation of the Senate, and the chairmen of the Subcommittees on the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies of the Committees on Appropriations of the House of Representatives and the Senate; and
 
-&emsp;&emsp;&emsp;“(ii) one co-chairperson shall be appointed by a committee consisting of the ranking minority member of the Subcommittee on Housing and Community Opportunities of the House of Representatives and the ranking minority member of the Subcommittee on Housing and Transportation of the Senate, and the ranking minority members of the Subcommittees on the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies of the Committees on Appropriations of the House of Representatives and the Senate.
+&emsp;&emsp;&emsp;“(ii) one co-chairperson shall be appointed by a committee consisting of the ranking minoritymember of the Subcommittee on Housing and Community Opportunities of the House of Representatives and the ranking minority member of the Subcommittee on Housing and Transportation of the Senate, and the ranking minority members of the Subcommittees on the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies of the Committees on Appropriations of the House of Representatives and the Senate.
 
 &emsp;&emsp;“(B) Six members appointed by the Chairman and Ranking Minority Member of the Committee on Banking and Financial Services \[now Committee on Financial Services\] of the House of Representatives and the Chairman and Ranking Minority Member of the Committee on Appropriations of the House of Representatives.
 

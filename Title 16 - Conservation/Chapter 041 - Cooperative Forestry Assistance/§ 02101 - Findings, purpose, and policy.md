@@ -68,7 +68,7 @@ It is the policy of Congress that it is in the national interest for the Secreta
 
 #### (d) Construction
 
-This chapter shall be construed to complement the policies and direction under the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.).
+This chapter shall be construed to complement the policies and direction under theForest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1600 et seq.).
 
 (Pub. L. 95–313, §2, July 1, 1978, 92 Stat. 365; Pub. L. 101–513, title VI, §611(b)(1), (2), formerly §607(b)(1), (2), Nov. 5, 1990, 104 Stat. 2072, renumbered §611(b)(1), (2), Pub. L. 102–574, §2(a)(1), Oct. 29, 1992, 106 Stat. 4593; Pub. L. 101–624, title XII, §1212, Nov. 28, 1990, 104 Stat. 3521.)
 
@@ -144,7 +144,7 @@ Subtitle C (§§1261–1266) of title XII of Pub. L. 101–624, as amended by Pu
 
 Purpose.—The purpose of this section is to authorize the President to designate a private nonprofit Foundation as eligible to receive a grant from the Department of Agriculture to be used—
 
-&emsp;“(1) to provide grants, including matching grants, to qualifying nonprofit organizations (including youth groups), municipalities, counties, towns andtownships for the implementation of programs to promote public awareness and a spirit of volunteerism in support of tree planting, maintenance, management, protection, and cultivation projects in rural areas, communities and urban areas throughout the United States;
+&emsp;“(1) to provide grants, including matching grants, to qualifying nonprofit organizations (including youth groups), municipalities, counties, towns and townships for the implementation of programs to promote public awareness and a spirit of volunteerism in support of tree planting, maintenance, management, protection, and cultivation projects in rural areas, communities and urban areas throughout the United States;
 
 &emsp;“(2) to solicit public and private sector contributions through the mobilization of individuals, businesses, governments, and community organizations with the goal of increasing the number of trees planted, maintained, managed, and protected in rural areas, communities and urban environments;
 
@@ -262,7 +262,7 @@ Termination.—The obligation of the Foundation to publish annual reports pursua
 
 “(<i>o</i>)
 
-Prohibition on Commercial Harvest.—Trees planted pursuant to a program receiving funds underthis section may not be commercially harvested and sold for Christmas trees.
+Prohibition on Commercial Harvest.—Trees planted pursuant to a program receiving funds under this section may not be commercially harvested and sold for Christmas trees.
 
 “(p)
 

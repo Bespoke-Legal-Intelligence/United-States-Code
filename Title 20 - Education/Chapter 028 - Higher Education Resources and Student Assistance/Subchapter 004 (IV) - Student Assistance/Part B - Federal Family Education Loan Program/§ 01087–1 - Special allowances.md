@@ -2,13 +2,13 @@
 
 #### (a) Findings
 
-In order to assure (1) that the limitation on interest payments or other conditions (or both) onloans made or insured under this part, do not impede or threaten to impede the carrying out of the purposes of this part or do not cause the return to holders of loans to be less than equitable, (2) that incentive payments on such loans are paid promptly to eligible lenders, and (3) that appropriate consideration of relative administrative costs and money market conditions is made in setting the quarterly rate of such payments, the Congress finds it necessary to establish an improved method for the determination of the quarterly rate of the special allowances on such loans, and to provide for a thorough, expeditious, and objective examination of alternative methods for the determination of the quarterly rate of such allowances.
+In order to assure (1) that the limitation on interest payments or other conditions (or both) on loans made or insured under this part, do not impede or threaten to impede the carrying out of the purposes of this part or do not cause the return to holders of loans to be less than equitable, (2) that incentive payments on such loans are paid promptly to eligible lenders, and (3) that appropriate consideration of relative administrative costs and money market conditions is made in setting the quarterly rate of such payments, the Congress finds it necessary to establish an improved method for the determination of the quarterly rate of the special allowances on such loans, and to provide for a thorough, expeditious, and objective examination of alternative methods for the determination of the quarterly rate of such allowances.
 
 #### (b) Computation and payment
 
 #### (1) Quarterly payment based on unpaid balance
 
-&emsp;A special allowance shall be paid for each of the 3-month periods ending March 31, June 30, September 30, and December 31 of every year and the amount of such allowance paid to any holder with respect to any 3-month period shall be a percentage of the average unpaid balance of principal (not including unearned interest added to principal) of all eligible loans held by such holder during such period.
+&emsp;A special allowance shall be paid for each of the 3-month periods ending March 31, June 30, September 30, and December 31 of every year and the amount of such allowance paid to any holder with respect to any 3-month periodshall be a percentage of the average unpaid balance of principal (not including unearned interest added to principal) of all eligible loans held by such holder during such period.
 
 #### (2) Rate of special allowance
 
@@ -40,7 +40,7 @@ In order to assure (1) that the limitation on interest payments or other conditi
 
 &emsp;(E) In the case of any loan for which the applicable rate of interest is described in section 1077a(g)(2) of this title, subparagraph (A)(iii) shall be applied by substituting “2.5 percent” for “3.10 percent”.
 
-&emsp;(F) Subject to paragraph (4), the special allowance paid pursuant to this subsection on loans for which the applicable rate of interest is determined under section 1077a(h) of this title shall be computed (i) by determining theapplicable bond equivalent rate of the security with a comparable maturity, as established by the Secretary, (ii) by subtracting the applicable interest rates on such loans from such applicable bond equivalent rate, (iii) by adding 1.0 percent to the resultant percent, and (iv) by dividing the resultant percent by 4. If such computation produces a number less than zero, such loans shall be subject to section 1077a(f) of this title.
+&emsp;(F) Subject to paragraph (4), the special allowance paid pursuant to this subsection on loans for which the applicable rate of interest is determined under section 1077a(h) of this title shall be computed (i) by determining the applicable bond equivalent rate of the security with a comparable maturity, as established by the Secretary, (ii) by subtracting the applicable interest rates on such loans from such applicable bond equivalent rate, (iii) by adding 1.0 percent to the resultant percent, and (iv) by dividing the resultant percent by 4. If such computation produces a number less than zero, such loans shall be subject to section 1077a(f) of this title.
 
 &emsp;(G)
 
@@ -124,11 +124,11 @@ Limitation on special allowances for consolidation loans.—In the case of conso
 
 &emsp;(I)
 
-Loans disbursed on or after january 1, 2000, and before july 1, 2003.—
+Loans disbursed on or after january 1, 2000.—
 
 &emsp;&emsp;(i)
 
-In general.—Notwithstanding subparagraphs (G) and (H), but subject to paragraph (4) and clauses (ii), (iii), and (iv) of this subparagraph, and except as provided in subparagraph (B), the special allowance paid pursuant to this subsection on loans for which the first disbursement is made on or after January 1, 2000, and before July 1, 2003, shall be computed—
+In general.—Notwithstanding subparagraphs (G) and (H), but subject to paragraph (4) and clauses (ii), (iii), and (iv) of this subparagraph, and except as provided in subparagraph (B), the special allowance paid pursuant to this subsection on loans for which the first disbursement is made on or after January 1, 2000, shall be computed—
 
 &emsp;&emsp;&emsp;(I) by determining the average of the bond equivalent rates of the quotes of the 3-month commercial paper (financial) rates in effect for each of the days in such quarter as reported by the Federal Reserve in Publication H–15 (or its successor) for such 3-month period;
 
@@ -140,19 +140,25 @@ In general.—Notwithstanding subparagraphs (G) and (H), but subject to paragrap
 
 &emsp;&emsp;(ii)
 
-In school and grace period.—In the case of any loan for which the first disbursement is made on or after January 1, 2000, and before July 1, 2003, and for which the applicable rate of interest is described in section 1077a(k)(2) of this title, clause (i)(III) of this subparagraph shall be applied by substituting “1.74 percent” for “2.34 percent”.
+In school and grace period.—In the case of any loan—
+
+&emsp;&emsp;&emsp;(I) for which the first disbursement is made on or after January 1, 2000, and before July 1, 2006, and for which the applicable rate of interest is described in section 1077a(k)(2) of this title; or
+
+&emsp;&emsp;&emsp;(II) for which the first disbursement is made on or after July 1, 2006, and for which the applicable rate of interest is described in section 1077a(<i>l</i>)(1) of this title, but only with respect to (aa) periods prior to the beginning of the repayment period of the loan; or (bb) during the periods in which principal need not be paid (whether or not such principal is in fact paid) by reason of a provision described in section 1077(a)(2)(C) or 1078(b)(1)(M) of this title;
+
+> &emsp;&emsp;clause (i)(III) of this subparagraph shall be applied by substituting “1.74 percent” for “2.34 percent”.
 
 &emsp;&emsp;(iii)
 
-PLUS loans.—In the case of any loan for which the first disbursement is made on or after January 1, 2000, and before July 1, 2003, and for which the applicable rate of interest is described in section 1077a(k)(3) of this title, clause (i)(III) of this subparagraph shall be applied by substituting “2.64 percent” for “2.34 percent”, subject to clause (v) of this subparagraph.
+PLUS loans.—In the case of any loan for which the first disbursement is made on or after January 1, 2000, and for which the applicable rate of interest is described in section 1077a(k)(3) or (<i>l</i>)(2) of this title, clause (i)(III) of this subparagraph shall be applied by substituting “2.64 percent” for “2.34 percent”, subject to clause (v) of this subparagraph.
 
 &emsp;&emsp;(iv)
 
-Consolidation loans.—In the case of any consolidation loan for which the application is received by an eligible lender on or after January 1, 2000, and before July 1, 2003, and for which the applicable interest rate is determined under section 1077a(k)(4) of this title, clause (i)(III) of this subparagraph shall be applied by substituting “2.64 percent” for “2.34 percent”, subject to clause (vi) of this subparagraph.
+Consolidation loans.—In the case of any consolidation loan for which the application is received by an eligible lender on or after January 1, 2000, and for which the applicable interest rate is determined under section 1077a(k)(4) or (<i>l</i>)(3) of this title, clause (i)(III) of this subparagraph shall be applied by substituting “2.64 percent” for “2.34 percent”, subject to clause (vi) of this subparagraph.
 
 &emsp;&emsp;(v)
 
-Limitation on special allowances for plus loans.—In the case of PLUS loans made under section 1078–2 of this title and first disbursed on or after January 1, 2000, and before July 1, 2003, for which the interest rate is determined under section 1077a(k)(3) of this title, a special allowance shall not be paid for such loan during any 12-month period beginning on July 1 and ending on June 30 unless, on the June 1 preceding such July 1—
+Limitation on special allowances for plus loans before july 1, 2006.—In the case of PLUS loans made under section 1078–2 of this title and first disbursed on or after January 1, 2000, and before July 1, 2006, for which the interest rate is determined under section 1077a(k)(3) of this title, a special allowance shall not be paid for such loan during any 12-month period beginning on July 1 and ending on June 30 unless, on the June 1 preceding such July 1—
 
 &emsp;&emsp;&emsp;(I) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1 (as determined by the Secretary for purposes of such section); plus
 
@@ -162,13 +168,23 @@ Limitation on special allowances for plus loans.—In the case of PLUS loans mad
 
 &emsp;&emsp;(vi)
 
-Limitation on special allowances for consolidation loans.—In the case of consolidation loans made under section 1078–3 of this title and for which the application is received on or after January 1, 2000, and before July 1, 2003, for which the interest rate is determined under section 1077a(k)(4) of this title, a special allowance shall not be paid for such loan during any 3-month period ending March 31, June 30, September 30, or December 31 unless—
+Limitation on special allowances for consolidation loans.—In the case of consolidation loans made under section 1078–3 of this title and for which the application is received on or after January 1, 2000, for which the interest rate is determined under section 1077a(k)(4) or (<i>l</i>)(3) of this title, a special allowance shall not be paid for such loan during any 3-month period ending March 31, June 30, September 30, or December 31 unless—
 
 &emsp;&emsp;&emsp;(I) the average of the bond equivalent rates of the quotes of the 3-month commercial paper (financial) rates in effect for each of the days in such quarter as reported by the Federal Reserve in Publication H–15 (or its successor) for such 3-month period; plus
 
 &emsp;&emsp;&emsp;(II) 2.64 percent,
 
-> &emsp;&emsp;exceeds the rate determined under section 1077a(k)(4) of this title.
+> &emsp;&emsp;exceeds the rate determined under section 1077a(k)(4) or (<i>l</i>)(3) of this title, whichever is applicable.
+
+&emsp;&emsp;(vii)
+
+Limitation on special allowances for plus loans on or after july 1, 2006.—In the case of PLUS loans made under section 1078–2 of this title and first disbursed on or after July 1, 2006, for which the interest rate is determined under section 1077a(<i>l</i>)(2) of this title, a special allowance shall not be paid for such loan during any 12-month period beginning on July 1 and ending on June 30 unless—
+
+&emsp;&emsp;&emsp;(I) the average of the bond equivalent rates of the quotes of the 3-month commercial paper (financial), as published by the Board of Governors of the Federal Reserve System in Publication H–15 (or its successor), for the last calendar week ending on or before such July 1; plus
+
+&emsp;&emsp;&emsp;(II) 2.64 percent,
+
+> &emsp;&emsp;exceeds 9.0 percent.
 
 #### (3) Contractual right of holders to special allowance
 
@@ -180,7 +196,7 @@ Limitation on special allowances for consolidation loans.—In the case of conso
 
 &emsp;(B) Such daily interest shall be computed at the daily equivalent rate of the sum of the special allowance rate computed pursuant to paragraph (2) and the interest rate applicable to the loan and shall be paid for the later of (i) the 31st day after the receipt of such request for payment from the holder, or (ii) the 31st day after the final day of the period or periods covered by such request, and shall be paid for each succeeding day until, and including, the date on which the Secretary authorizes payment.
 
-&emsp;(C) For purposes of reporting to the Congress the amounts of special allowances paid under this section, amounts of special allowances paid pursuant to this paragraph shall be segregated and reported separately.
+&emsp;(C) For purposes of reporting to the Congress the amounts of special allowances paid underthis section, amounts of special allowances paid pursuant to this paragraph shall be segregated and reported separately.
 
 #### (5) “Eligible loan” defined
 
@@ -242,7 +258,7 @@ Limitation on special allowances for consolidation loans.—In the case of conso
 
 #### (8) Exception
 
-&emsp;Notwithstanding paragraph (2), a lender may assess a lesser origination fee for a borrower demonstrating greater financial need as determined by such borrower's adjusted gross family income.
+&emsp;Notwithstanding paragraph (2), a lender may assess a lesser origination fee for a borrowerdemonstrating greater financial need as determined by such borrower's adjusted gross family income.
 
 #### (d) Loan fees from lenders
 
@@ -280,7 +296,7 @@ In order for the holders of loans which were made or purchased with funds obtain
 
 The Secretary shall adopt or amend appropriate regulations pertaining to programs carried out under this part to prevent, where practicable, any practices which the Secretary finds have denied loans to a substantial number of eligible students.
 
-(Pub. L. 89–329, title IV, §438, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 100–50, §10(d)(2), (bb), (cc), June 3, 1987, 101 Stat. 342, 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §430, July 23, 1992, 106 Stat. 553; Pub. L. 103–66, title IV, §§4102(a), 4103, 4105, 4111, Aug. 10, 1993, 107 Stat. 366, 367, 368, 370; Pub. L. 105–178, title VIII, §8301(b), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(b)(1), (3), 433(a)–(d)(1), Oct. 7, 1998, 112 Stat. 1680, 1682, 1710, 1711; Pub. L. 106–170, title IV, §409(a), Dec. 17, 1999, 113 Stat. 1914.)
+(Pub. L. 89–329, title IV, §438, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1414; amended Pub. L. 100–50, §10(d)(2), (bb), (cc), June 3, 1987, 101 Stat. 342, 347; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 102–325, title IV, §430, July 23, 1992, 106 Stat. 553; Pub. L. 103–66, title IV, §§4102(a), 4103, 4105, 4111, Aug. 10, 1993, 107 Stat. 366, 367, 368, 370; Pub. L. 105–178, title VIII, §8301(b), June 9, 1998, 112 Stat. 497; Pub. L. 105–244, title IV, §§416(b)(1), (3), 433(a)–(d)(1), Oct. 7, 1998, 112 Stat. 1680, 1682, 1710, 1711; Pub. L. 106–170, title IV, §409(a), Dec. 17, 1999, 113 Stat. 1914; Pub. L. 107–139, §2, Feb. 8, 2002, 116 Stat. 10.)
 
 #### References in Text
 
@@ -293,6 +309,30 @@ A prior section 1087–1, Pub. L. 89–329, title IV, §438, as added Pub. L. 92
 A prior section 1087–1a, Pub. L. 96–374, title IV, §420(b), Oct. 3, 1980, 94 Stat. 1427, related to eligibility for special allowances covering loans made or purchased with funds obtained from Authorities issuing tax exempt obligations, and established requirement relating to plans for doing business, prior to repeal by Pub. L. 98–79, §7(b), Aug. 15, 1983, 97 Stat. 483.
 
 #### Amendments
+
+2002—Subsec. (b)(2)(I). Pub. L. 107–139, §2(1), struck out “
+
+, and before july 1, 2003” after “
+
+january 1, 2000” in heading.
+
+Subsec. (b)(2)(I)(i). Pub. L. 107–139, §2(2), struck out “and before July 1, 2003,” after “January 1, 2000,” in introductory provisions.
+
+Subsec. (b)(2)(I)(ii). Pub. L. 107–139, §2(3), added cl. (ii) and struck out heading and text of former cl. (ii). Text read as follows: “In the case of any loan for which the first disbursement is made on or after January 1, 2000, and before July 1, 2003, and for which the applicable rate of interest is described in section 1077a(k)(2) of this title, clause (i)(III) of this subparagraph shall be applied by substituting ‘1.74 percent’ for ‘2.34 percent’.”
+
+Subsec. (b)(2)(I)(iii). Pub. L. 107–139, §2(2), (4), struck out “and before July 1, 2003,” after “January 1, 2000,” and inserted “or (<i>l</i>)(2)” after “section 1077a(k)(3)”.
+
+Subsec. (b)(2)(I)(iv). Pub. L. 107–139, §2(2), (5), inserted “or (<i>l</i>)(3)” after “section 1077a(k)(4)” and struck out “and before July 1, 2003,” after “January 1, 2000,”.
+
+Subsec. (b)(2)(I)(v). Pub. L. 107–139, §2(6), inserted “
+
+before july 1, 2006” after “
+
+plus loans” in heading and substituted “July 1, 2006,” for “July 1, 2003,” in introductory provisions.
+
+Subsec. (b)(2)(I)(vi). Pub. L. 107–139, §2(2), (7), in introductory provisions, struck out “and before July 1, 2003,” after “January 1, 2000,” and inserted “or (<i>l</i>)(3)” after “section 1077a(k)(4)”, and in concluding provisions, substituted “section 1077a(k)(4) or (<i>l</i>)(3) of this title, whichever is applicable” for “section 1077a(k)(4) of this title”.
+
+Subsec. (b)(2)(I)(vii). Pub. L. 107–139, §2(8), added cl. (vii).
 
 1999—Subsec. (b)(2)(A). Pub. L. 106–170, §409(a)(1), substituted “(G), (H), and (I)” for “(G), and (H)” in first sentence.
 
@@ -408,7 +448,7 @@ Section effective Oct. 17, 1986, with subsec. (b) of this section effective with
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1078, 1078–3, 1082 of this title; title 2 section 906; title 26 sections 144, 148; title 42 section 292e.
+This section is referred to in sections 1078, 1078–3, 1082 of this title; title 2 section 906; title 10 section 2174; title 26 sections 144, 148; title 42 section 292e.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

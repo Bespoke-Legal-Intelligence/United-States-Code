@@ -20,13 +20,17 @@ Funds withheld from a State, unit of local government, or Indian tribal governme
 
 In this section, the term “protection order” has the meaning given the term in section 2266 of title 18.
 
-(Pub. L. 90–351, title I, §2006, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1915; amended Pub. L. 106–386, div. B, title I, §1101(b)(1), Oct. 28, 2000, 114 Stat. 1492.)
+(Pub. L. 90–351, title I, §2011, formerly §2006, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1915; amended Pub. L. 106–386, div. B, title I, §1101(b)(1), Oct. 28, 2000, 114 Stat. 1492; renumbered §2011, Pub. L. 107–273, div. A, title IV, §402(2), Nov. 2, 2002, 116 Stat. 1789.)
+
+#### Codification
+
+Amendment by section 402(2) of Pub. L. 107–273, which directed the renumbering of sections 2002 to 2006 of Pub. L. 90–351 as sections 2006 to 2011 of that act, was executed by renumbering sections 2002 to 2006 as sections 2007 to 2011 of that act, respectively, to reflect the probable intent of Congress.
 
 #### Amendments
 
 2000—Pub. L. 106–386, §1101(b)(1)(A), in section catchline, substituted “Costs” for “Filing costs” and inserted “and protection orders” after “charges”.
 
-Subsec. (a)(1). Pub. L. 106–386, §1101(b)(1)(B)(i), added par. (1) and struck out former par. (1) which read as follows: “certifies that its laws, policies, and practices do not require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges against the domestic violence offender, or the costs associated with the issuance or service of a warrant, protection order, or witness subpoena; or”.
+Subsec. (a)(1). Pub. L. 106–386, §1101(b)(1)(B)(i), added par. (1) and struck out former par. (1) which read as follows: “certifies that its laws, policies, and practices donot require, in connection with the prosecution of any misdemeanor or felony domestic violence offense, that the abused bear the costs associated with the filing of criminal charges against the domestic violence offender, or the costs associated with the issuance or service of a warrant, protection order, or witness subpoena; or”.
 
 Subsec. (a)(2)(B). Pub. L. 106–386, §1101(b)(1)(B)(ii), substituted “2 years after October 28, 2000” for “2 years”.
 

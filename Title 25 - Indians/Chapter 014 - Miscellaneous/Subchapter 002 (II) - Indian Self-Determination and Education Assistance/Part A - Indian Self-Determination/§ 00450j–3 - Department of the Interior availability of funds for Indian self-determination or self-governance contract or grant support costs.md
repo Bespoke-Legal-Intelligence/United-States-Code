@@ -6,7 +6,7 @@ Notwithstanding any other provision of law, including but not limited to the Ind
 
 #### References in Text
 
-The Indian Self-Determination Act of 1975, referred to in text, probably means the Indian Self-Determination Act, title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to this part (§450f et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+The Indian Self-Determination Act of 1975, referred to in text, probably means the Indian Self-Determination Act, title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to this part\(§450f et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 This title, referred to in text, is title I of the Department of the Interior and Related Agencies Appropriations Act, 2000, as enacted by Pub. L. 106–113, div. B, §1000(a)(3), Nov. 29, 1999, 113 Stat. 1535, 1501A–135. For complete classification of this title to the Code, see Tables.
 

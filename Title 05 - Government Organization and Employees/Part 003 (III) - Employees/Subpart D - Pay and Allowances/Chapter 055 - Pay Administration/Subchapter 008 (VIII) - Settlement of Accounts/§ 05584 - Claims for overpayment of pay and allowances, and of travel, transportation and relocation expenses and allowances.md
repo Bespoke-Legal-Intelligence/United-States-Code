@@ -14,7 +14,7 @@
 
 (b) The authorized official or the head of the agency, as the case may be, may not exercise his authority under this section to waive any claim—
 
-&emsp;(1) if, in his opinion, there exists, in connection with the claim, an indication of fraud,misrepresentation, fault, or lack of good faith on the part of the employee or any other person having an interest in obtaining a waiver of the claim;
+&emsp;(1) if, in his opinion, there exists, in connection with the claim, an indication of fraud, misrepresentation, fault, or lack of good faith on the part of the employee or any other person having an interest in obtaining a waiver of the claim;
 
 &emsp;(2) except in the case of employees of the Government Printing Office, the Library of Congress, the Office of the Architect of the Capitol, or the Botanic Garden, if application for waiver is received in his office, after the expiration of three years immediately following the date on which the erroneous payment of pay was discovered or three years immediately following October 21, 1968, whichever is later;
 
@@ -44,7 +44,7 @@
 
 &emsp;(5) the Botanic Garden; and
 
-&emsp;(6) the Administrative Office of the United States Courts, the Federal Judicial Center, and any of the courts set forth in section 610 of title 28.
+&emsp;(6) the Administrative Office of the United States Courts, the Federal Judicial Center,and any of the courts set forth in section 610 of title 28.
 
 > For purposes of this section, the Director of the Administrative Office of the United States Courts shall be the head of the agency in the case of those entities set forth in paragraph (6) of this subsection.
 

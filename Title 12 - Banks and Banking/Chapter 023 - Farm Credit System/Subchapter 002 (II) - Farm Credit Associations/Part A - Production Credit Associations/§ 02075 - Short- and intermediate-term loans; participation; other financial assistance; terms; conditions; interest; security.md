@@ -18,7 +18,7 @@ Each production credit association, under standards prescribed by the board of d
 
 #### (2) Limitation
 
-&emsp;The aggregate of such housing loans in an association to persons other than farmers or ranchers shall not exceed 15 percent of theoutstanding loans at the end of its preceding fiscal year except on prior approval by the Farm Credit Bank of the district. The aggregate of such housing loans in any farm credit district shall not exceed 15 percent of the outstanding loans of all associations in the district at the end of the preceding fiscal year.
+&emsp;The aggregate of such housing loans in an association to persons other than farmers or ranchers shall not exceed 15 percent of the outstanding loans at the end of its preceding fiscal year except on prior approval by the Farm Credit Bank of the district. The aggregate of such housing loans in any farm credit district shall not exceed 15 percent of the outstanding loans of all associations in the district at the end of the preceding fiscal year.
 
 #### (3) Rural areas
 

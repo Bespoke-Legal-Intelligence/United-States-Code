@@ -20,5 +20,5 @@ Minor changes were made in phraseology.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 951 of this title; title 42 section 2000aa; title 50 App. section 34.
+This section is referred to in section 951 of this title; title 19 section 1583; title 42 section 2000aa; title 50 App. section 34.
 

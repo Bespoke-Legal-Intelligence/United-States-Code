@@ -10,11 +10,11 @@
 
 &emsp;&emsp;(A) an institution, organization, or association listed in subparagraph (A) or (B) of such former section 4554(b)(1) and any other such institution, organization, or association;
 
-&emsp;&emsp;(B) an institution, organization, or association referred to in subparagraph (A) and any individual (other than an individual having a financial interest in the sale, promotion, or distribution of the materials involved);
+&emsp;&emsp;(B) an institution, organization, or association referred to in subparagraph (A) andany individual (other than an individual having a financial interest in the sale, promotion, or distribution of the materials involved);
 
 &emsp;&emsp;(C) an institution, organization, or association referred to in subparagraph (A) and a qualified nonprofit organization (as defined in former section 4452(d) of this title) that is not such an institution, organization, or association; or
 
-&emsp;&emsp;(D) an institution, organization, or association referred to in subparagraph (A) and apublisher, if such institution, organization, or association has placed an order to purchase such materials for delivery to such institution, organization, or association.
+&emsp;&emsp;(D) an institution, organization, or association referred to in subparagraph (A) and a publisher, if such institution, organization, or association has placed an order to purchase such materials for delivery to such institution, organization, or association.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 765; Pub. L. 94–421, §12, Sept. 24, 1976, 90 Stat. 1312; Pub. L. 103–123, title VII, §706(a), Oct. 28, 1993, 107 Stat. 1272.)
 

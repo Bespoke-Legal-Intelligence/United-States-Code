@@ -20,7 +20,7 @@
 | (b) | Exception. |
 | [13705\.](Subchapter%20001%20%28I%29%20-%20Prisons/Part%20A%20-%20Violent%20Offender%20Incarceration%20and%20Truth-in-Sentencing%20Incentive%20Grants/%C2%A7%2013705%20-%20Special%20rules.md) | Special rules. |
 | (a) | Sharing of funds with counties and other units of local government. |
-| (b) | Additional requirements. |
+| (b) | Use of truth-in-sentencing and violent offender incarceration grants. |
 | (c) | Funds for juvenile offenders. |
 | (d) | Private facilities. |
 | (e) | “Part 1 violent crime” defined. |
@@ -683,7 +683,7 @@ I74subpart 1—education and training for judges and court personnel in state co
 | (c) | Discipline. |
 | (d) | Layoffs. |
 | [14099\.](Subchapter%20008%20%28VIII%29%20-%20Police%20Corps%20and%20Law%20Enforcement%20Officers%20Training%20and%20Education/Part%20A%20-%20Police%20Corps/%C2%A7%2014099%20-%20State%20plan%20requirements.md) | State plan requirements. |
-| [14100\.](Subchapter%20008%20%28VIII%29%20-%20Police%20Corps%20and%20Law%20Enforcement%20Officers%20Training%20and%20Education/Part%20A%20-%20Police%20Corps/%C2%A7%2014100%20-%20Assistance%20to%20States%20and%20localities%20employing%20Police%20Corps%20officers.md) | Assistance to States and localities employing Police Corps officers. |
+| [14100\.](Subchapter%20008%20%28VIII%29%20-%20Police%20Corps%20and%20Law%20Enforcement%20Officers%20Training%20and%20Education/Part%20A%20-%20Police%20Corps/%C2%A7%2014100%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93273%2C%20div.%20C%2C%20title%20I%2C%20%C2%A711006%284%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201817.md) | Repealed. |
 | [14101\.](Subchapter%20008%20%28VIII%29%20-%20Police%20Corps%20and%20Law%20Enforcement%20Officers%20Training%20and%20Education/Part%20A%20-%20Police%20Corps/%C2%A7%2014101%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | [14102\.](Subchapter%20008%20%28VIII%29%20-%20Police%20Corps%20and%20Law%20Enforcement%20Officers%20Training%20and%20Education/Part%20A%20-%20Police%20Corps/%C2%A7%2014102%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | (a) | In general. |

@@ -6,7 +6,7 @@ As used in this chapter, the term—
 
 &emsp;(2) “foreign”, when used in a geographic sense, means that which is situated outside the United States or which belongs to or is characteristic of a country other than the United States;
 
-&emsp;(3) “person” means any individual, branch, partnership, associated group, association, estate, trust, corporation, or other organization (whether or not organized under the laws of any State), and any government (including a foreign government, the United States Government, a State or local government, and any agency, corporation, financial institution, or other entity or instrumentality thereof, including a government-sponsored agency);
+&emsp;(3) “person” means any individual, branch, partnership, associated group, association, estate, trust, corporation, or other organization (whether or not organized under the laws of any State), and any government (including a foreign government, the United States Government, a State or local government, and any agency, corporation, financial institution, orother entity or instrumentality thereof, including a government-sponsored agency);
 
 &emsp;(4) “United States person” means any person resident in the United States or subject to the jurisdiction of the United States;
 
@@ -14,7 +14,7 @@ As used in this chapter, the term—
 
 &emsp;(6) “business enterprise” means any organization, association, branch, or venture which exists for profitmaking purposes or to otherwise secure economic advantage, and any ownership of any real estate;
 
-&emsp;(7) “parent” means a person of one country who, directly or indirectly, owns or controls 10per centum or more of the voting stock of an incorporated business enterprise, or an equivalent ownership interest in an unincorporated business enterprise, which is located outside that country;
+&emsp;(7) “parent” means a person of one country who, directly or indirectly, owns or controls 10 per centum or more of the voting stock of an incorporated business enterprise, or an equivalent ownership interest in an unincorporated business enterprise, which is located outside that country;
 
 &emsp;(8) “affiliate” means a business enterprise located in one country which is directly or indirectly owned or controlled by a person of another country to the extent of 10 per centum or more of its voting stock for an incorporated business or an equivalent interest for an unincorporated business, including a branch;
 

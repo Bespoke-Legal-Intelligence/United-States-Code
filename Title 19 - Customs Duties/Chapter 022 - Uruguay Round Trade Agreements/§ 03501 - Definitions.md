@@ -22,7 +22,7 @@ For purposes of this Act:
 
 #### (4) Multilateral trade agreement
 
-&emsp;The term “multilateral trade agreement” means an agreement described in section 3511(d) of this title (other than an agreement described in paragraph (17) or (18) of such section).
+&emsp;The term “multilateral trade agreement” means an agreement described in section3511(d) of this title (other than an agreement described in paragraph (17) or (18) of such section).
 
 #### (5) Schedule XX
 
@@ -64,7 +64,11 @@ Section 1(a) of Pub. L. 103–465 provided that: “This Act \[see Tables for cl
 
 The Uruguay Round Agreements, including the World Trade Organization Agreement and agreements annexed to that Agreement, as referred to in section 3511(d) of this title, entered into force with respect to the United States on Jan. 1, 1995. See note set out under section 3511 of this title.
 
+#### Act Referred to in Other Sections
+
+The Uruguay Round Agreements Act is referred to in title 6 section 212.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1671, 1677, 1677k, 2252, 2462, 2571, 2578b, 2702, 2905, 2906, 3107, 3111, 3202, 3535 of this title; title 7 section 624; title 15 section 1052; title 16 sections 620, 620c; title 17 sections 101, 104A; title 22 sections 262n–2, 286gg, 1978, 5712, 6903; title 35 section 104; title 42 sections 2296b, 2296b–6, 6374; title 49, section 50103.
+This section is referred to in sections 1671, 1677, 1677k, 2252, 2462, 2571, 2578b, 2702, 2905, 2906, 3107, 3111, 3202, 3203, 3535, 3803, 3813 of this title; title 7 sections 624, 7991; title 15 section 1052; title 16 sections 620, 620c; title 17 sections 101, 104A; title 22 sections 262n–2, 286gg, 1978, 5712, 6903; title 35 section 104; title 42 sections 2296b, 2296b–6, 6374; title 49, section 50103.
 

@@ -36,7 +36,7 @@ The Commission shall have the responsibility to advise the Director of the Insti
 
 (1) The Commission shall meet not less than 1 time each year in a joint meeting with the National Museum Services Board, convened for purposes of providing advice on general policy with respect to financial assistance for projects described in section 262(a)(4) of such Act \[20 U.S.C. 9162(a)(4)\].
 
-(2) All decisions by the Commission and the National Museum Services Board with respect to the advice on general policy described in paragraph (1) shall be made by a 2/3 majority vote of the total number of the members of the Commission and the National Museum Services Board who are present.
+(2) All decisions by the Commission and the National Museum Services Board with respect to the advice on general policy described inparagraph (1) shall be made by a 2/3 majority vote of the total number of the members of the Commission and the National Museum Services Board who are present.
 
 (3) A majority of the members of the Commission and a majority of the members of the National Museum Services Board shall constitute a quorum for the conduct of business at official joint meetings of the Commission and the National Museum Services Board.
 

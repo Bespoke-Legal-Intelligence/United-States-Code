@@ -84,7 +84,7 @@ The Council shall advise and assist the President in—
 
 #### Ex. Ord. No. 12992. President's Council on Counter-Narcotics
 
-Ex. Ord. No. 12992, Mar. 15, 1996, 61 F.R. 11287, as amended by Ex. Ord. No. 13023, §§2, 3, Nov. 6, 1996, 61 F.R. 57767, provided:
+Ex. Ord. No. 12992, Mar. 15, 1996, 61 F.R. 11287, as amended by Ex. Ord. No. 13023, §§2, 3, Nov. 6, 1996, 61 F.R. 57767; Ex. Ord. No. 13284, §8, Jan. 23, 2003, 68 F.R. 4076, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -118,25 +118,27 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 (m) Secretary of Veterans Affairs;
 
-(n) Representative of the United States of America to the United Nations;
+(n) Secretary of Homeland Security;
 
-(<i>o</i>) Director of the Office of Management and Budget;
+(<i>o</i>) Representative of the United States of America to the United Nations;
 
-(p) Chief of Staff to the President;
+(p) Director of the Office of Management and Budget;
 
-(q) Director of National Drug Control Policy;
+(q) Chief of Staff to the President;
 
-(r) Director of Central Intelligence;
+(r) Director of National Drug Control Policy;
 
-(s) Assistant to the President for National Security Affairs;
+(s) Director of Central Intelligence;
 
-(t) Counsel to the President;
+(t) Assistant to the President for National Security Affairs;
 
-(u) Chairman, Joint Chiefs of Staff;
+(u) Counsel to the President;
 
-(v) National Security Advisor to the Vice President; and
+(v) Chairman, Joint Chiefs of Staff;
 
-(w) Assistant to the President for Domestic Policy.
+(w) National Security Advisor to the Vice President; and
+
+(x) Assistant to the President for Domestic Policy.
 
 As applicable, the Council shall also comprise such other officials of the departments and agencies as the President may, from time to time, designate.
 
@@ -153,8 +155,6 @@ Sec. 5. <i>Administration</i>. (a) The Council may utilize established or ad hoc
 (b) The staff of the Office of National Drug Control Policy, in coordination with the staffs of the Vice President and the Assistant to the President for National Security Affairs, shall act as staff for the Council.
 
 (c) All executive departments and agencies shall cooperate with the Council and provide such assistance, information, and advice as the Council may request, to the extent permitted by law.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13023. Expanding and Changing Name of President's Council on Counter-Narcotics
 

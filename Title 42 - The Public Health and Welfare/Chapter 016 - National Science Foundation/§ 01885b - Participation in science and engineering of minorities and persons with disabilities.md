@@ -20,3 +20,7 @@ Subsec. (b). Pub. L. 105–207, §202(d)(1)(B), added subsec. (b) and struck out
 
 Subsec. (b). Pub. L. 99–159, §111(b)(7)(B), substituted “engineering” for “technology”.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1862n, 1862n–1, 1862n–2, 1862n–8 of this title.
+

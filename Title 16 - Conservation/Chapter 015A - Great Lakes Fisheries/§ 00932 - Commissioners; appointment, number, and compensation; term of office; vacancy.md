@@ -4,7 +4,7 @@
 
 &emsp;(A) 1 shall be an official of the United States Government; and
 
-&emsp;(B) 3 shall be individuals who reside in different Great Lakes States and who are knowledgeable regarding the fisheries of the Great Lakes, except that 1 of them must also be an official of <sup>1</sup> Great Lakes State.
+&emsp;(B) 3 shall be individuals who reside in different Great Lakes States and who are knowledgeable regarding the fisheries of the GreatLakes, except that 1 of them must also be an official of <sup>1</sup> Great Lakes State.
 
 (2) The President shall appoint an alternate Commissioner who shall perform the duties of a Commissioner—
 

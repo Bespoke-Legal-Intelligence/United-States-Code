@@ -106,7 +106,7 @@ Subsec. (f)(1)(B). Pub. L. 96–465, §2202(a)(1)(B), substituted “Foreign Ser
 
 Subsec. (h). Pub. L. 96–465, §2202(a)(2), substituted “section 2702 of this title” for “section 817 of this title” and “President” for “Director of ACTION”.
 
-1978—Subsec. (c). Pub. L. 95–331, §4(1), struck out provisions relating to allowances for volunteers with minor children at the time of their entering a period of pre-enrollment training.
+1978—Subsec. (c). Pub. L. 95–331, §4(1), struck out provisions relating to allowances for volunteers withminor children at the time of their entering a period of pre-enrollment training.
 
 Subsec. (h). Pub. L. 95–331, §4(2), inserted provisions relating to applicability of malpractice protection.
 
@@ -192,7 +192,7 @@ Report to Congress.—Not later than 90 days after receipt of a report required 
 
 Definitions.—For purposes of this section—
 
-&emsp;“(1) the term ‘appropriate congressional committees’ means the Committee on Foreign Relations and the Committee on Appropriations of the Senate and the Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Appropriations of the House of Representatives; and
+&emsp;“(1) the term ‘appropriate congressional committees’ means the Committee on Foreign Relations and the Committee on Appropriations of the Senate andthe Committee on Foreign Affairs \[now Committee on International Relations\] and the Committee on Appropriations of the House of Representatives; and
 
 &emsp;“(2) the term ‘eligible organization’ means an independent health-care accreditation organization or other independent organization with expertise in evaluating health-care systems similar to that of the Peace Corps.”
 

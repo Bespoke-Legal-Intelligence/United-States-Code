@@ -56,7 +56,7 @@ Section was formerly classified to section 535 of Title 7, Agriculture.
 
 #### Transfer of Functions
 
-Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm Credit Administration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq of this title.
+Establishment of Farm Credit Administration as an independent agency, composition of Farm Credit Administration, appointment of Governor of Farm CreditAdministration, and duties thereof, including duty to perform functions, etc., of Farm Credit Administration, see section 2241 et seq of this title.
 
 #### Exceptions From Transfer of Functions
 

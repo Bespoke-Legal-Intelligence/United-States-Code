@@ -25,6 +25,7 @@
 - [&sect; 00612c&#8211;1 - Authorization for appropriations to increase domestic consumption of surplus farm commodities](%C2%A7%2000612c%E2%80%931%20-%20Authorization%20for%20appropriations%20to%20increase%20domestic%20consumption%20of%20surplus%20farm%20commodities.md)
 - [&sect; 00612c&#8211;2 - Technical support to exporters and importers of United States agricultural products; scope of support provided by Department of&#8230;](%C2%A7%2000612c%E2%80%932%20-%20Technical%20support%20to%20exporters%20and%20importers%20of%20United%20States%20agricultural%20products%3B%20scope%20of%20support%20provided%20by%20Department%20of%E2%80%A6.md)
 - [&sect; 00612c&#8211;3 - Repealed. Pub. L. 101&#8211;624, title XV, &sect;1578, Nov. 28, 1990, 104 Stat. 3702](%C2%A7%2000612c%E2%80%933%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XV%2C%20%C2%A71578%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203702.md)
+- [&sect; 00612c&#8211;4 - Purchase of specialty crops](%C2%A7%2000612c%E2%80%934%20-%20Purchase%20of%20specialty%20crops.md)
 - [&sect; 00613 - Termination date; investigations and reports](%C2%A7%2000613%20-%20Termination%20date%3B%20investigations%20and%20reports.md)
 - [&sect; 00613a - Repealed. Sept. 1, 1937, ch. 898, title V, &sect;510, 50 Stat. 916](%C2%A7%2000613a%20-%20Repealed.%20Sept.%201%2C%201937%2C%20ch.%20898%2C%20title%20V%2C%20%C2%A7510%2C%2050%20Stat.%20916.md)
 - [&sect; 00614 - Separability](%C2%A7%2000614%20-%20Separability.md)

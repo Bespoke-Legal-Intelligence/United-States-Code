@@ -80,5 +80,5 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1961</b>—Subsec. (a)(2). Pub. L. 87–36 provided for holding court at Decatur.
+1961—Subsec. (a)(2). Pub. L. 87–36 provided for holding court at Decatur.
 

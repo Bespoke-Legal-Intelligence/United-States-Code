@@ -16,7 +16,7 @@
 
 &emsp;(C) In order to carry out a foreign trade agreement entered into by the President before June 12, 1955, or with respect to which notice of intention to negotiate was published in the Federal Register on November 16, 1954, decreasing by more than 50 per centum any rate of duty existing on January 1, 1945.
 
-&emsp;(D) In order to carry out a foreign trade agreement entered into by the President on or after June 12, 1955, and before July 1, 1958, decreasing (except as provided in subparagraph (C) of this paragraph) any rate of duty below the lowest of the following rates:
+&emsp;(D) In order to carry out a foreign trade agreement entered into by the President on or after June 12, 1955, and before July 1, 1958, decreasing (except as provided in subparagraph\(C) of this paragraph) any rate of duty below the lowest of the following rates:
 
 &emsp;&emsp;(i) The rate 15 per centum below the rate existing on January 1, 1955.
 
@@ -24,7 +24,7 @@
 
 &emsp;(E) In order to carry out a foreign trade agreement entered into by the President on or after July 1, 1958, decreasing any rate of duty below the lowest of the rates provided for in paragraph (4)(A) of this subsection.
 
-(3)(A) Subject to the provisions of subparagraphs (B) and (C) of this paragraph and of subparagraph (B) of paragraph (4) of this subsection, the provisions of any proclamation made under paragraph (1)(B) of this subsection,and the provisions of any proclamation of suspension under paragraph (5) of this subsection, shall be in effect from and after such time as is specified in the proclamation.
+(3)(A) Subject to the provisions of subparagraphs (B) and (C) of this paragraph and of subparagraph (B) of paragraph (4) of this subsection, the provisions of any proclamation made under paragraph (1)(B) of this subsection, and the provisions of any proclamation of suspension under paragraph (5) of this subsection, shall be in effect from and after such time as is specified in the proclamation.
 
 (B) In the case of any decrease in duty to which paragraph (2)(D) of this subsection applies—
 
@@ -90,7 +90,7 @@ Nothing in this section or the Trade Expansion Act of 1962 \[19 U.S.C. 1801 et s
 
 (1) When any rate of duty has been increased or decreased for the duration of war or an emergency, by agreement or otherwise, any further increase or decrease shall be computed upon the basis of the post-war or post-emergency rate carried in such agreement or otherwise.
 
-(2) Where under a foreign trade agreement the United States has reserved the unqualified right to withdraw or modify, after the termination of war or an emergency, a rate on a specific commodity, the rate on such commodity to be considered as “existing on January 1, 1945” for the purpose of this section shall be the rate which would have existed if the agreement had not been entered into.
+(2) Where under a foreign trade agreement the United States has reserved the unqualified right to withdraw or modify, after the termination of war or an emergency, a rate on a specific commodity, the rate on such commodity to be considered as “existing on January 1, 1945” for thepurpose of this section shall be the rate which would have existed if the agreement had not been entered into.
 
 (3) No proclamation shall be made pursuant to this section for the purpose of carrying out any foreign trade agreement the proclamation with respect to which has been terminated in whole by the President prior to July 5, 1945.
 
@@ -108,7 +108,7 @@ The Trade Agreements Extension Act of 1955, referred to in subsec. (a)(1)(A), is
 
 Paragraph (5) of this subsection, referred to in subsec. (a)(3)(A), was repealed by Pub. L. 87–794, title III, §257(b), Oct. 11, 1962, 76 Stat. 882.
 
-The Trade Expansion Act of 1962, referred to in subsec. (b), is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872, asamended, which is classified generally to chapter 7 (§1801 et seq.) of this title. Title II of the Trade Expansion Act of 1962, also referred to in subsec. (b), is classified generally to subchapter II (§1821 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Trade Expansion Act of 1962, referred to in subsec. (b), is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872, as amended, which is classified generally to chapter 7 (§1801 et seq.) of this title. Title II of the Trade Expansion Act of 1962, also referred to in subsec. (b), is classified generally to subchapter II (§1821 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 Section 1362 of this title, referred to in subsec. (c)(2)(A), related to suspension or withdrawal of concessions from Communistic areas and was repealed by Pub. L. 87–794, title II, §257(e)(1), Oct. 11, 1962, 76 Stat. 882.
 

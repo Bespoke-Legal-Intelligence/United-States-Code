@@ -1,18 +1,40 @@
 ### §460m–15. Establishment; administration, protection, and development; utilization of other authorities; boundary description, availability for public inspection
 
-For the purpose of conserving and interpreting outstanding natural, scenic, and historic values and objects in and around the New River Gorge and preserving as a free-flowing stream an important segment of the New River in West Virginia for the benefit and enjoyment of present and future generations, the Secretary of the Interior (hereinafter referred to as the “Secretary”) shall establish and administer the New River Gorge National River. The Secretary shall administer, protect, and develop the national river in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented; except that any other statutory authority available to the Secretary for the preservation and management of natural resources may be utilized to the extent he finds such authority will further the purposes of this subchapter. The boundaries of the national river shall be as generally depicted on the drawing entitled “Proposed New River Gorge National River” numbered NERI–80,028A, dated March 1996, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
+For the purpose of conserving and interpreting outstanding natural, scenic, and historic values and objects in and around the New River Gorge and preserving as a free-flowing stream an important segment of the New River in West Virginia for the benefit and enjoyment of present and future generations, the Secretary of the Interior (hereinafter referred to as the “Secretary”) shall establish and administer the New River Gorge National River. The Secretary shall administer, protect, and develop the national river in accordance with the provisions of sections 1, 2, 3, and 4 of this title, as amended and supplemented; except that any other statutory authority available to the Secretary for the preservation and management of natural resources may be utilized to the extent he finds such authority will further the purposes of this subchapter. The boundaries of the national river shall be as generally depicted on the drawing entitled “Proposed New River Gorge National River” numbered NERI 80,034, dated May 2001, which shall be on file and available for public inspection in the offices of the National Park Service, Department of the Interior.
 
-(Pub. L. 95–625, title XI, §1101, Nov. 10, 1978, 92 Stat. 3544; Pub. L. 100–534, title I, §101, Oct. 26, 1988, 102 Stat. 2700; Pub. L. 104–333, div. I, title IV, §406(a)(1), Nov. 12, 1996, 110 Stat. 4149.)
+(Pub. L. 95–625, title XI, §1101, Nov. 10, 1978, 92 Stat. 3544; Pub. L. 100–534, title I, §101, Oct. 26,1988, 102 Stat. 2700; Pub. L. 104–333, div. I, title IV, §406(a)(1), Nov. 12, 1996, 110 Stat. 4149; Pub. L. 107–356, §2(a), Dec. 17, 2002, 116 Stat. 3013.)
 
 #### Amendments
+
+2002—Pub. L. 107–356 substituted “NERI 80,034, dated May 2001” for “NERI–80,028A, dated March 1996”.
 
 1996—Pub. L. 104–333 substituted “NERI–80,028A, dated March 1996” for “NERI–80,023, dated January 1987”.
 
 1988—Pub. L. 100–534 substituted “NERI–80,023, dated January 1987” for “NERI–20,002, dated July 1978”.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–356, §1, Dec. 17, 2002, 116 Stat. 3013, provided that: “This Act \[amending this section and enacting provisions set out as a note under this section\] may be cited as the ‘New River Gorge Boundary Act of 2002’.”
+
 #### Short Title of 1988 Amendment
 
 Section 1 of Pub. L. 100–534 provided that: “This Act \[enacting sections 460m–26 to 460m–29 and 460ww to 460ww–5 of this title, amending this section and section 1274 of this title, and enacting provisions set out as notes under this section and section 1274 of this title\] may be cited as the ‘West Virginia National Interest River Conservation Act of 1987’.”
+
+#### Land Exchange
+
+Pub. L. 107–356, §2(b), Dec. 17, 2002, 116 Stat. 3013, provided that:
+
+“(1)
+
+In general.—The Secretary of the Interior shall complete a fee simple land exchange in the vicinity of Beauty Mountain, Fayette County, West Virginia, to acquire a tract of land identified as NERI Tract Number 150–07 that lies adjacent to the boundary of the New River Gorge National River in exchange for a tract of land identified as NERI Tract Number 150–08 located within such boundary.
+
+“(2)
+
+Treatment of exchanged lands.—Upon the completion of such land exchange—
+
+&emsp;“(A) the land acquired by the United States in the exchange shall be included in the boundaries, and administered as part, of the New River Gorge National River; and
+
+&emsp;“(B) the land conveyed by the United States in the exchange shall be excluded from the boundaries, and shall not be administered as part, of the New River Gorge National River.”
 
 #### New, Gauley, Meadow, and Bluestone Rivers; Congressional Findings and Purpose
 

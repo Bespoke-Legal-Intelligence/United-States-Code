@@ -30,7 +30,7 @@ Subsection (a) of this section shall not apply to the injection of contaminated 
 
 In addition to enforcement under the provisions of this chapter, the prohibitions established under paragraphs (1) and (2) of subsection (a) of this section shall be enforceable under the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\] in any State—
 
-&emsp;(1) which has adopted identical or more stringent prohibitions under part C of the Safe Drinking Water Act \[42 U.S.C. 300h et seq.\] and which has assumed primary enforcement responsibility under that Act for enforcement of such prohibitions; or
+&emsp;(1) which has adopted identical or more stringent prohibitions under part C of the SafeDrinking Water Act \[42 U.S.C. 300h et seq.\] and which has assumed primary enforcement responsibility under that Act for enforcement of such prohibitions; or
 
 &emsp;(2) in which the Administrator has adopted identical or more stringent prohibitions under the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\] and is exercising primary enforcement responsibility under that Act for enforcement of such prohibitions.
 

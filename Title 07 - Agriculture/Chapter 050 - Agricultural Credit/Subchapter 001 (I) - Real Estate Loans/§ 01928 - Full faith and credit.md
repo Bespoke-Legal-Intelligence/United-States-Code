@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-A contract of insurance or guarantee executed by the Secretary under this chapter shall be an obligation supported by the full faith and credit of the United States.
+A contract of insurance or guarantee executed by the Secretary under this chapter shall be anobligation supported by the full faith and credit of the United States.
 
 #### (b) Contestability
 

@@ -12,5 +12,5 @@ Qualifications and Training.—Each person serving as a neutral in an alternativ
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–315 amended section generally, substituting provisions relating to neutrals in alternative dispute resolution process for provisions relating to powers of arbitrator and arbitration hearing.
+1998—Pub. L. 105–315 amended section generally, substituting provisions relating to neutrals in alternative dispute resolution process for provisions relating to powers of arbitrator and arbitration hearing.
 

@@ -2,7 +2,7 @@
 
 #### (a) Exemptions from State laws, rules, regulations, or orders
 
-Except as provided in this section, a risk retention group is exempt from any State law, rule, regulation, or order to the extent that such law, rule, regulation, or order would—
+Except as provided in this section, a risk retention group is exempt from any State law,rule, regulation, or order to the extent that such law, rule, regulation, or order would—
 
 &emsp;(1) make unlawful, or regulate, directly or indirectly, the operation of a risk retention group except that the jurisdiction in which it is chartered may regulate the formation and operation of such a group and any State may require such a group to—
 
@@ -36,7 +36,7 @@ Except as provided in this section, a risk retention group is exempt from any St
 
 “This policy is issued by your risk retention group. Your risk retention group may not be subject to all of the insurance laws and regulations of your State. State insurance insolvency guaranty funds are not available for your risk retention group.”
 
-&emsp;(2) require or permit a risk retention group to participate in any insurance insolvencyguaranty association to which an insurer licensed in the State is required to belong;
+&emsp;(2) require or permit a risk retention group to participate in any insurance insolvency guaranty association to which an insurer licensed in the State is required to belong;
 
 &emsp;(3) require any insurance policy issued to a risk retention group or any member of the group to be countersigned by an insurance agent or broker residing in that State; or
 
@@ -84,7 +84,7 @@ Each risk retention group shall submit—
 
 &emsp;&emsp;(B) a copy of any revisions to such plan or study, as provided in paragraph (1)(B) (which shall include any change in the designation of the State in which it is chartered); and
 
-&emsp;(3) to the insurance commissioner of each State in which it is doing business, a copy of the group's annual financial statement submitted to the State in which the group is chartered as an insurance company, which statement shall be certified by an independent public accountant and contain a statement of opinion on loss and loss adjustment expense reserves made by—
+&emsp;(3) to the insurance commissioner of each State in which it is doing business, a copy ofthe group's annual financial statement submitted to the State in which the group is chartered as an insurance company, which statement shall be certified by an independent public accountant and contain a statement of opinion on loss and loss adjustment expense reserves made by—
 
 &emsp;&emsp;(A) a member of the American Academy of Actuaries, or
 
@@ -120,7 +120,7 @@ Nothing in this chapter shall be construed to affect the authority of any State 
 
 Subsec. (a)(1)(D). Pub. L. 99–563, §5(b)(1), redesignated subpar. (E) as (D), substituted a semicolon for “, and, upon request, furnish such commissioner a copy of any financial report submitted by the risk retention group to the commissioners of the chartering or licensing jurisdiction;”, and struck out former subpar. (D) which read as follows: “submit to the appropriate authority reports and other information required of licensed insurers under the laws of a State relating solely to product liability or completed operations liability insurance losses and expenses;”.
 
-Subsec. (a)(1)(E). Pub. L. 99–563, §5(b)(1)(A), (c), redesignated subpar. (F) as (E), further redesignated cl. (ii) as (i), added cl. (ii), and struck out former cl. (i) whichread as follows: “the commissioner has reason to believe the risk retention group is in a financially impaired condition; and”. Former subpar. (E) redesignated (D).
+Subsec. (a)(1)(E). Pub. L. 99–563, §5(b)(1)(A), (c), redesignated subpar. (F) as (E), further redesignated cl. (ii) as (i), added cl. (ii), and struck out former cl. (i) which read as follows: “the commissioner has reason to believe the risk retention group is in a financially impaired condition; and”. Former subpar. (E) redesignated (D).
 
 Subsec. (a)(1)(F). Pub. L. 99–563, §5(b)(1)(A), (d), redesignated subpar. (G) as (F) and amended it generally. Prior to amendment, subpar. (F) read as follows: “comply with a lawful order issued in a delinquency proceeding commenced by the State insurance commissioner if the commissioner of the jurisdiction in which the group is chartered has failed to initiate such a proceeding after notice of a finding of financial impairment under subparagraph (F) of this paragraph;”. Former subpar. (F) redesignated (E).
 

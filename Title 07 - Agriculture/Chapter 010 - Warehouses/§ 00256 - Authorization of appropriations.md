@@ -36,7 +36,7 @@ Section 267, act Aug. 11, 1916, ch. 313, pt. C, §27, 39 Stat. 490, authorized e
 
 Section 268, act Aug. 11, 1916, ch. 313, pt. C, §28, 39 Stat. 490, authorized rules and regulations.
 
-Section 269, acts Aug. 11, 1916, ch. 313, pt. C, §29, 39 Stat. 490; Feb. 23, 1923, ch. 106, 42 Stat. 1285; Mar. 2, 1931, ch. 366, §9, 46 Stat. 1465, related to cooperation with States, exclusivity of Secretary's authority, and preemption of laws. See section 242 of this title.
+Section 269, acts Aug. 11, 1916, ch. 313, pt. C, §29, 39 Stat. 490; Feb. 23, 1923, ch. 106, 42 Stat. 1285; Mar. 2, 1931,ch. 366, §9, 46 Stat. 1465, related to cooperation with States, exclusivity of Secretary's authority, and preemption of laws. See section 242 of this title.
 
 Section 270, acts Aug. 11, 1916, ch. 313, pt. C, §30, 39 Stat. 490; Feb. 23, 1923, ch. 106, 42 Stat. 1285; Mar. 2, 1931, ch. 366, §10, 46 Stat. 1465; Pub. L. 101–624, title V, §508(b), Nov. 28, 1990, 104 Stat. 3443, set forth punishment for violations of this chapter. See section 254 of this title.
 

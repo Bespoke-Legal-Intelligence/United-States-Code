@@ -54,7 +54,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) of this 
 
 &emsp;The Coordinating Committee shall consist of not more than 15 members to be appointed by the Secretary, of which—
 
-&emsp;&emsp;(A) 2/3 of such members shall represent governmental agencies, including the directors or their designees of each of the national research institutes involved in research with respect to muscular dystrophy and representatives of all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such diseases, including the Centers forDisease Control and Prevention, the Health Resources and Services Administration and the Food and Drug Administration and representatives of other governmental agencies that serve children with muscular dystrophy, such as the Department of Education; and
+&emsp;&emsp;(A) 2/3 of such members shall represent governmental agencies, including the directors or their designees of each of the national research institutes involved in research with respect to muscular dystrophy and representatives of all other Federal departments and agencies whose programs involve health functions or responsibilities relevant to such diseases, including the Centers for Disease Control and Prevention, the Health Resources and Services Administration and the Food and Drug Administration and representatives of other governmental agencies that serve children with muscular dystrophy, such as the Department of Education; and
 
 &emsp;&emsp;(B) 1/3 of such members shall be public members, including a broad cross section of persons affected with muscular dystrophies including parents or legal guardians, affected individuals, researchers, and clinicians.
 
@@ -64,7 +64,7 @@ The Director of NIH shall provide for a program under subsection (a)(1) of this 
 
 #### (A) In general
 
-&emsp;&emsp;With respect to muscular dystrophy, the Chair of the Coordinating Committee shall serve as the principal advisor to the Secretary, the Assistant Secretary for Health, and the Director of NIH, and shall provide advice to the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and to the heads of other relevant agencies. The Coordinating Committee shall select the Chair for a term not to exceed 2 years.
+&emsp;&emsp;With respect to muscular dystrophy, the Chair of the Coordinating Committee shallserve as the principal advisor to the Secretary, the Assistant Secretary for Health, and the Director of NIH, and shall provide advice to the Director of the Centers for Disease Control and Prevention, the Commissioner of Food and Drugs, and to the heads of other relevant agencies. The Coordinating Committee shall select the Chair for a term not to exceed 2 years.
 
 #### (B) Appointment
 
@@ -126,7 +126,7 @@ For the purpose of carrying out this section, there are authorized to be appropr
 
 #### References in Text
 
-Section 6 of the MD–CARE Act, referred to in subsec. (a)(2), is section 6 of Pub. L. 107–84, which is set out asa note under section 247b–18 of this title and does not relate to establishment of a coordinating committee. However, subsec. (d) of this section contains provisions relating to the establishment of the Muscular Dystrophy Coordinating Committee.
+Section 6 of the MD–CARE Act, referred to in subsec. (a)(2), is section 6 of Pub. L. 107–84, which is set out as a note under section 247b–18 of this title and does not relate to establishment of a coordinating committee. However, subsec. (d) of this section contains provisions relating to the establishment of the Muscular Dystrophy Coordinating Committee.
 
 #### Prior Provisions
 
@@ -135,4 +135,8 @@ A prior section 283g, act July 1, 1944, ch. 373, title IV, §404E, as added Pub.
 #### Section Referred to in Other Sections
 
 This section is referred to in section 247b–18 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -4,12 +4,14 @@
 | :--- | :---: | ---: |
 | [<b>1.</b>](Chapter%20001%20-%20Establishment%2C%20Officers%20and%20Employees%2C%20Functions/README.md) | <b>Establishment, Officers and Employees, Functions</b> | <b>1</b> |
 | [<b>2.</b>](Chapter%20002%20-%20Proceedings%20in%20the%20Patent%20and%20Trademark%20Office/README.md) | <b>Proceedings in the Patent and Trademark Office</b> | <b>21</b> |
-| [<b>3.</b>](Chapter%20003%20-%20Practice%20Before%20Patent%20and%20Trademark%20Office/README.md) | <b>Practice before </b><b><sup>1</sup></b> <b>Patent and Trademark Office</b> | <b>31</b> |
+| [<b>3.</b>](Chapter%20003%20-%20Practice%20Before%20Patent%20and%20Trademark%20Office/README.md) | <b>Practice Before Patent and Trademark Office</b> | <b>31</b> |
 | [<b>4.</b>](Chapter%20004%20-%20Patent%20Fees%3B%20Funding%3B%20Search%20Systems/README.md) | <b>Patent Fees; Funding; Search Systems</b> | <b>41</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–273, div. C, title III, §13206(a)(4), Nov. 2, 2002, 116 Stat. 1904, substituted “Before” for “before” in chapter 3 heading.
 
 1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(2), (3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582, substituted “UNITED STATES PATENT AND TRADEMARK OFFICE” for “PATENT AND TRADEMARK OFFICE” in part heading and “Establishment, Officers and Employees, Functions” for “Establishment, Officers, Functions” in chapter 1 heading.
 

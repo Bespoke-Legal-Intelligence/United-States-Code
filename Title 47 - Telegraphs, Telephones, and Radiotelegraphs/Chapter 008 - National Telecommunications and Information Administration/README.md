@@ -62,6 +62,24 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER III—MISCELLANEOUS
+
+|  |  |
+| :--- | ---: |
+| [941\.](Subchapter%20003%20%28III%29%20-%20Miscellaneous/%C2%A7%2000941%20-%20Child-friendly%20second-level%20Internet%20domain.md) | Child-friendly second-level Internet domain. |
+| (a) | Responsibilities. |
+| (b) | Conditions of contracts. |
+| (c) | Requirements of new domain. |
+| (d) | Option periods for initial registry. |
+| (e) | Treatment of registry and other entities. |
+| (f) | Education. |
+| (g) | Coordination with Federal Government. |
+| (h) | Compliance report. |
+| (i) | Suspension of new domain. |
+| (j) | Definitions. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -69,3 +87,4 @@
 
 - [Subchapter 001 (I) - Organization and Functions](Subchapter%20001%20%28I%29%20-%20Organization%20and%20Functions/README.md)
 - [Subchapter 002 (II) - Transfer of Auctionable Frequencies](Subchapter%20002%20%28II%29%20-%20Transfer%20of%20Auctionable%20Frequencies/README.md)
+- [Subchapter 003 (III) - Miscellaneous](Subchapter%20003%20%28III%29%20-%20Miscellaneous/README.md)

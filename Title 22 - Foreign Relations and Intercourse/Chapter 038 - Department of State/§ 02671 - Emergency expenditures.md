@@ -22,7 +22,11 @@ The Secretary of State is authorized to—
 
 (2) Activities described in paragraph (1) include—
 
-&emsp;(A) the evacuation of United States Government employees and their dependents and private United States citizens when their lives are endangered by war, civil unrest, or natural disaster;
+&emsp;(A) the evacuation when their lives are endangered by war, civil unrest, or natural disaster of—
+
+&emsp;&emsp;(i) United States Government employees and their dependents; and
+
+&emsp;&emsp;(ii) private United States citizens or third-country nationals, on a reimbursable basis to the maximum extent practicable, with such reimbursements to be credited to the applicable Department of State appropriation and to remain available until expended, except that no reimbursement under this clause shall be paid that is greater than the amount the person evacuated would have been charged for a reasonable commercial air fare immediately prior to the events giving rise to the evacuation;
 
 &emsp;(B) loans made to destitute citizens of the United States who are outside the United States and made to provide for the return to the United States of its citizens;
 
@@ -72,11 +76,11 @@ With regard to the repatriation loan program, the Secretary of State shall—
 
 &emsp;(11) implement the interest and penalty provisions in paragraphs (8), (9), and (10) for all current and future loans, regardless of whether the debts were incurred before or after May 1, 1983.
 
-(Aug. 1, 1956, ch. 841, title I, §4, 70 Stat. 890; renumbered title I, Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–164, title I, §122(a), Nov. 22, 1983, 97 Stat. 1023; Pub. L. 103–236, title I, §125, Apr. 30, 1994, 108 Stat. 393; Pub. L. 104–316, title I, §115(g)(2)(D), Oct. 19, 1996, 110 Stat. 3835.)
+(Aug. 1, 1956, ch. 841, title I, §4, 70 Stat. 890; renumbered title I, Pub. L. 97–241, title II, §202(a),Aug. 24, 1982, 96 Stat. 282; Pub. L. 98–164, title I, §122(a), Nov. 22, 1983, 97 Stat. 1023; Pub. L. 103–236, title I, §125, Apr. 30, 1994, 108 Stat. 393; Pub. L. 104–316, title I, §115(g)(2)(D), Oct. 19, 1996, 110 Stat. 3835; Pub. L. 107–228, div. A, title II, §201, Sept. 30, 2002, 116 Stat. 1361.)
 
 #### References in Text
 
-Section 3718(c) of title 31, referred to in subsec. (d)(7), was temporarily renumbered section 3718(e) of title 31 by Pub. L. 99–578, §1(1), Oct. 28, 1986, 100 Stat. 3305.
+Section 3718(c) of title 31, referred to in subsec. (d)(7), was renumbered section 3718(e) of title 31 by Pub. L. 99–578, §1(1), Oct. 28, 1986, 100 Stat. 3305.
 
 #### Codification
 
@@ -85,6 +89,8 @@ In subsec. (a), “section 3526(e) of title 31” substituted for “section 291
 Section was formerly classified to section 170i of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+2002—Subsec. (b)(2)(A). Pub. L. 107–228 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the evacuation of United States Government employees and their dependents and private United States citizens when their lives are endangered by war, civil unrest, or natural disaster;”.
 
 1996—Subsec. (d)(6). Pub. L. 104–316 substituted “section 3711(e)” for “section 3711(f)”.
 

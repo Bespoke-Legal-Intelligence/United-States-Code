@@ -18,7 +18,3 @@ Changes were made in phraseology.
 
 1951—Act July 16, 1951, struck out “publisher's illustrations excepted” in section catchline, struck out from text all language which could be interpreted to prohibit or restrict the making and printing of coin illustrations in magazines and other publications, and gave the Secretary of the Treasury the authority to make exceptions to the application of this section.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
-

@@ -4,7 +4,7 @@ It is the sense of the Congress that—
 
 &emsp;(1) the acts of the Castro government, including its massive, systematic, and extraordinary violations of human rights, are a threat to international peace;
 
-&emsp;(2) the President should advocate, and should instruct the United States Permanent Representative to the United Nations to propose and seek within the Security Council, a mandatory international embargo against the totalitarian Cuban Government pursuant to chapter VII of the Charter of the United Nations, employing efforts similar to consultations conducted by United States representatives with respect to Haiti;
+&emsp;(2) the President should advocate, and should instruct the United States PermanentRepresentative to the United Nations to propose and seek within the Security Council, a mandatory international embargo against the totalitarian Cuban Government pursuant to chapter VII of the Charter of the United Nations, employing efforts similar to consultations conducted by United States representatives with respect to Haiti;
 
 &emsp;(3) any resumption of efforts by any independent state of the former Soviet Union to make operational any nuclear facilities in Cuba, and any continuation of intelligence activities by such a state from Cuba that are targeted at the United States and its citizens will have a detrimental impact on United States assistance to such state; and
 

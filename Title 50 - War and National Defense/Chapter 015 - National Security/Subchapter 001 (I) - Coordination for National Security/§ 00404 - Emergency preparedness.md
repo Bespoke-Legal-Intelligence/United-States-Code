@@ -60,11 +60,13 @@ Office of Emergency Preparedness, including offices of Director, Deputy Director
 
 Functions vested in Director of Office of Emergency Preparedness as of June 30, 1973, by Executive Order, proclamation, or other directive issued by or on behalf of President or otherwise under this section and Ex. Ord. No. 10421, formerly set out below, with certain exceptions, transferred to Administrator of General Services by Ex. Ord. No. 11725, §3, June 27, 1973, 38 F.R. 17175, formerly set out under section 2271 of the Appendix to this title, to be exercised in conformance with such guidance as provided by National Security Council and, with respect to economic and disposal aspects of stockpiling of strategic and critical materials by Council on Economic Policy. Functions of Administrator of General Services under this chapter performed by Federal Preparedness Agency within General Services Administration.
 
-Functions of Director of Office of Defense Mobilization under this section, which were previously transferred to President, delegated to Director of Federal Emergency Management Agency by sections 1–103 and 4–102 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+Functions of Director of Office of Defense Mobilization under this section, which were previously transferred to President, delegated to Secretary of Homeland Security by sections 1–103 and 4–102 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Emergency Preparedness Functions
 
-For assignment of certain emergency preparedness functions to Director of Federal Emergency Management Agency, see parts 1, 2, and 17 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+For assignment of certain emergency preparedness functions to Secretary of Homeland Security, see parts 1, 2, and 17 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, as amended, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
 
 #### Office of Emergency Planning
 
@@ -110,7 +112,7 @@ By vesting the functions of the Board in the Chairman, the difficulties of Board
 
 The Congress in passing the National Security Act Amendments of 1949 recognized the difficulty which exists when functions of staff advice and assistance are placed in a board-type agency. The National Security Act Amendments of 1949, in clarifying the role of the Chairman of the Munitions Board and the Research and Development Board, strengthened and increased the effectiveness of these staff agencies of the Secretary of Defense by providing for the exclusive exercise of responsibilities by the Chairman. This plan achieves the same objective for the National Security Resources Board.
 
-The accompanying reorganization plan provides for a Vice Chairman appointed by the President and confirmed by the Senate. The tremendous responsibilities of the National Security Resources Board and theheavy workload on the Chairman fully warrant this. Providing the Chairman with a principal associate for the exercise of his responsibilities is consistent with the usual practice in other agencies of the executive branch.
+The accompanying reorganization plan provides for a Vice Chairman appointed by the President and confirmed by the Senate. The tremendous responsibilities of the National Security Resources Board and the heavy workload on the Chairman fully warrant this. Providing the Chairman with a principal associate for the exercise of his responsibilities is consistent with the usual practice in other agencies of the executive branch.
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 25 of 1950 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949.
 
@@ -148,7 +150,7 @@ There are hereby transferred to the Director:
 
 (b) All functions under the Strategic and Critical Materials Stock Piling Act, as amended (50 U.S.C. 98 et seq.), vested in the Secretaries of the Army, Navy, Air Force, and Interior or in any of them or in any combination of them, including the functions which were vested in the Army and Navy Munitions Board by the item No. (2) in section 6(a) of the said Act (60 Stat. 598) \[former section 98e(a)(2) of this title\], but excluding functions vested in the Secretary of the Interior by section 7 of said Act \[former section 98f of this title\].
 
-(c) The functions vested in the Munitions Board by section 4(h) of the Commodity Credit Corporation Charter Act, as amended (15 U.S.C. 714b(h)), and by section 204(e) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485(e)).
+(c) The functions vested in the Munitions Board by section 4(h) of the Commodity Credit Corporation Charter Act, as amended (15 U.S.C. 714b(h)), and by section 204(e) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 485(e)) \[now 40 U.S.C. 574(c)\].
 
 (d) All functions now vested by any statute in the Director of Defense Mobilization or in the Office of Defense Mobilization provided for in Executive Order Numbered 10193 (15 F.R. 9031) \[revoked by Ex. Ord. No. 10480, 18 F.R. 4939, formerly set out as a note under section 2153 of Appendix to this title\].
 
@@ -204,7 +206,7 @@ Section 5(a) of the reorganization plan withholds from transfer to the Director 
 
 Section 5(b) of the reorganization plan abolishes the direction, authority, and control of the Secretary of Defense over functions transferred from the Department of Defense by the reorganization plan. The Secretary's functions in this regard are provided for in section 202(b) of the National Security Act of 1947, as amended (5 U.S.C. 171a(b)) \[see 10 U.S.C. 113(b)\].
 
-Section 5(c) of the reorganization plan abolishes any functions which were vested in the Army and Navy Munitions Board or which are vested in the Munitions Board with respect to serving as the agent through which the Secretaries of the Army, Navy, Air Force, and the Interior jointly act in determining which materials are strategic and critical under the provisions of the Strategic and Critical Materials Stock Piling Act, as amended, and the quality and quantities of such materials to be stockpiled. These abolished functions areprovided for in section 2(a) of the Strategic and Critical Materials Stock Piling Act, as amended.
+Section 5(c) of the reorganization plan abolishes any functions which were vested in the Army and Navy Munitions Board or which are vested in the Munitions Board with respect to serving as the agent through which the Secretaries of the Army, Navy, Air Force, and the Interior jointly act in determining which materials are strategic and critical under the provisions of the Strategic and Critical Materials Stock Piling Act, as amended, and the quality and quantities of such materials to be stockpiled. These abolished functions are provided for in section 2(a) of the Strategic and Critical Materials Stock Piling Act, as amended.
 
 After investigation I have found and hereby declare that each reorganization included in Reorganization Plan No. 3 of 1953 is necessary to accomplish one or more of the purposes set forth in section 2(a) of the Reorganization Act of 1949, as amended. I have also found and hereby declare that by reason of these reorganizations it is necessary to include in the reorganization plan provisions for the appointment and compensation of a Director and a Deputy Director of the Office of Defense Mobilization. The rates of compensation fixed for these officers are, respectively, those which I have found to prevail in respect of comparable officers of the executive branch of the Government.
 

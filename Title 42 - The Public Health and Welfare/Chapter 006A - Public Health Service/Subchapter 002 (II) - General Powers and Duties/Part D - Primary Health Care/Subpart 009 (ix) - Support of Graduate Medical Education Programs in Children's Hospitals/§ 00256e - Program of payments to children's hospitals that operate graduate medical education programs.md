@@ -26,7 +26,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (B) Pro rata reductions of payments for direct expenses
 
-&emsp;&emsp;If the Secretary determines that the amount of funds appropriated under subsection (f)(1) of this section for a fiscal year is insufficient to provide the total amount of payments otherwise due for such periodsunder paragraph (1)(A), the Secretary shall reduce the amounts so payable on a pro rata basis to reflect such shortfall.
+&emsp;&emsp;If the Secretary determines that the amount of funds appropriated under subsection (f)(1) of this section for a fiscal year is insufficient to provide the total amount of payments otherwise due for such periods under paragraph (1)(A), the Secretary shall reduce the amounts so payable on a pro rata basis to reflect such shortfall.
 
 #### (c) Amount of payment for direct graduate medical education
 
@@ -96,7 +96,7 @@ The Secretary shall make two payments under this section to each children's hosp
 
 #### (1) Interim payments
 
-&emsp;The Secretary shall determine, before the beginning of each fiscal year involved for which payments may be made for a hospital under this section, the amounts of the payments for direct graduate medical education and indirect medical education for such fiscalyear and shall (subject to paragraph (2)) make the payments of such amounts in 26 equal interim installments during such period. Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital's most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital's most recently completed Medicare cost report filing period.
+&emsp;The Secretary shall determine, before the beginning of each fiscal year involved for which payments may be made for a hospital under this section, the amounts of the payments for direct graduate medical education and indirect medical education for such fiscal year and shall (subject to paragraph (2)) make the payments of such amounts in 26 equal interim installments during such period. Such interim payments to each individual hospital shall be based on the number of residents reported in the hospital's most recently filed Medicare cost report prior to the application date for the Federal fiscal year for which the interim payment amounts are established. In the case of a hospital that does not report residents on a Medicare cost report, such interim payments shall be based on the number of residents trained during the hospital's most recently completed Medicare cost report filing period.
 
 #### (2) Withholding
 

@@ -22,7 +22,7 @@
 
 &emsp;(E) an evaluation of ways to ensure adequate rail service for subterminal facilities described in clause (D) of this paragraph, including an evaluation of the use and feasibility of contract rates;
 
-&emsp;(F) an assessment of the ways that subterminal facilities can enhance the operationof small capacity shipping and storage facilities within the State or region;
+&emsp;(F) an assessment of the ways that subterminal facilities can enhance the operation of small capacity shipping and storage facilities within the State or region;
 
 &emsp;(G) an assessment of other actions being taken or considered in such State or region for the improvement of agricultural transportation, including an evaluation of the use being made of shuttle or collector trains and combinations of rail and barge service;
 
@@ -34,7 +34,7 @@
 
 #### (b) Plan review commissions
 
-Funds made available to a State or region under this chapter for the purposes of assisting such State or region to develop a plan shall be subject to the condition that the State or region establish a plan review commission composed of local producers, local elevator operators, representatives of affected motor and rail carriers, other interested individuals, and, when appropriate in the judgment of the Secretary, consumers of bulk agricultural commodities used in the production of unprocessed agricultural products. A majority of the members of any plan review commission must be local producers or, when appropriate in the judgment of the Secretary, consumers of bulk agricultural commodities used in the production of unprocessed agricultural products. The plan review commission shall consider the information and analyses developed by the State or region in the development of a State or regional plan and make appropriate recommendations regarding the State or regional plan. The plan review commission shall also make recommendations, based on information developed in the plan, for the most beneficial location of subterminal facilities.
+Funds made available to a State or region under this chapter for the purposes of assisting such State or region to develop a plan shall be subject to the condition that the State or region establish a plan review commission composed of local producers, local elevator operators, representatives of affected motor and rail carriers, other interested individuals, and, when appropriate in the judgment of the Secretary, consumers of bulk agricultural commodities used in the production of unprocessed agricultural products. A majority of the members of any plan review commission must be local producers or, when appropriate in the judgment of the Secretary, consumers of bulk agricultural commodities used in the production of unprocessed agricultural products. The plan review commission shall consider the information and analyses developed by the State or region in the development of a State or regional plan and make appropriate recommendations regarding the State or regional plan. The plan review commissionshall also make recommendations, based on information developed in the plan, for the most beneficial location of subterminal facilities.
 
 #### (c) Recommendations of need
 

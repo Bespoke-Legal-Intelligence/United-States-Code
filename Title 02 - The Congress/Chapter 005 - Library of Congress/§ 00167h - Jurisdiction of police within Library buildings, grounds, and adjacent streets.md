@@ -16,7 +16,7 @@ Amendment by Pub. L. 100–135 applicable with respect to pay periods beginning 
 
 #### Effective Date of 1973 Amendment
 
-Section 771(e) of Pub. L. 93–198 provided that the amendment made by Pub. L. 93–198 is effective Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accept the charter set out in Title IV of Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 785. The charter was approved by the voters on May 7, 1974.
+Section 771(d) of Pub. L. 93–198 provided that the amendment made by Pub. L. 93–198 is effective Jan. 2, 1975, if a majority of the registered qualified electors in the District of Columbia voting on the charter issue in the charter referendum accept the charter set out in title IV of Pub. L. 93–198, Dec. 24, 1973, 87 Stat. 785. The charter was approved by the voters on May 7, 1974.
 
 #### Section Referred to in Other Sections
 

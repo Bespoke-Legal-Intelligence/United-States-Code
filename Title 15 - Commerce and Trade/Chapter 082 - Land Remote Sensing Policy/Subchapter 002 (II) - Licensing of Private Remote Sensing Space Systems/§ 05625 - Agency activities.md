@@ -14,7 +14,7 @@ The Secretary may offer assistance to private sector parties in finding appropri
 
 #### (c) Agreements
 
-To the extent provided in advance by appropriation Acts, any United States Government agency may enter into agreements for such utilization if such agreements are consistent with such agency's mission and statutory authority, and if such remote sensing space system is licensed by the Secretary before commencing operation.
+To the extent provided in advance by appropriation Acts, any United States Government agency may enter into agreements for such utilization if such agreements are consistent withsuch agency's mission and statutory authority, and if such remote sensing space system is licensed by the Secretary before commencing operation.
 
 #### (d) Applicability
 

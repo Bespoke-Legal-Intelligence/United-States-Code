@@ -32,7 +32,7 @@ Eligible Projects.—A State may obligate funds apportioned to it under section 
 
 &emsp;(13) <sup>1</sup> Infrastructure-based intelligent transportation systems capital improvements.
 
-&emsp;(14) Environmental restoration and pollution abatement projects (including the retrofit or construction of storm water treatment systems) to address water pollution or environmental degradation caused or contributed to by transportation facilities, which projects shall be carried out when the transportationfacilities are undergoing reconstruction, rehabilitation, resurfacing, or restoration; except that the expenditure of funds under this section for any such environmental restoration or pollution abatement project shall not exceed 20 percent of the total cost of the reconstruction, rehabilitation, resurfacing, or restoration project.
+&emsp;(14) Environmental restoration and pollution abatement projects (including the retrofit or construction of storm water treatment systems) to address water pollution or environmental degradation caused or contributed to by transportation facilities, which projects shall be carried out when the transportation facilities are undergoing reconstruction, rehabilitation, resurfacing, or restoration; except that the expenditure of funds under this section for any such environmental restoration or pollution abatement project shall not exceed 20 percent of the total cost of the reconstruction, rehabilitation, resurfacing, or restoration project.
 
 (c)
 
@@ -100,7 +100,7 @@ In general.—Except as provided in subparagraphs (B) and (C), in the case of a 
 
 &emsp;&emsp;(B)
 
-Federal approval prior to involvement of qualified organization.—If Federal approval of the acquisition of the real property or interest predates the involvement of a qualified organization described in subparagraph (A) in the acquisition of the property, the organization shall be considered to be an acquiring agency or person as described in section 24.101(a)(2) of title 49, Code of Federal Regulations, for the purpose of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970.
+Federal approval prior to involvement of qualified organization.—If Federal approval of the acquisition of the real property or interest predates the involvement of a qualified organization described in subparagraph (A) in the acquisition of the property, the organization shall be considered to be an acquiring agency or person as described in section 24.101(a)(2) of title 49,Code of Federal Regulations, for the purpose of the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970.
 
 &emsp;&emsp;(C)
 
@@ -112,7 +112,7 @@ Administration.—
 
 &emsp;(1)
 
-Noncompliance.—If the Secretary determines that a State or local government hasfailed to comply substantially with any provision of this section, the Secretary shall notify the State that, if the State fails to take corrective action within 60 days from the date of receipt of the notification, the Secretary will withhold future apportionments under section 104(b)(3) until the Secretary is satisfied that appropriate corrective action has been taken.
+Noncompliance.—If the Secretary determines that a State or local government has failed to comply substantially with any provision of this section, the Secretary shall notify the State that, if the State fails to take corrective action within 60 days from the date of receipt of the notification, the Secretary will withhold future apportionments under section 104(b)(3) until the Secretary is satisfied that appropriate corrective action has been taken.
 
 &emsp;(2)
 
@@ -216,7 +216,7 @@ In general.—A State that is required to obligate in an urbanized area with an 
 
 Joint responsibility.—Each State, each affected metropolitan planning organization, and the Secretary shall jointly ensure compliance with paragraph (1).
 
-(Added Pub. L. 102–240, title I, §1007(a)(1), Dec. 18, 1991, 105 Stat. 1927; amended Pub. L. 103–429,§3(4), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §§315, 316, Nov. 28, 1995, 109 Stat. 586, 587; Pub. L. 105–178, title I, §§1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 138–140, 193.)
+(Added Pub. L. 102–240, title I, §1007(a)(1), Dec. 18, 1991, 105 Stat. 1927; amended Pub. L. 103–429, §3(4), Oct. 31, 1994, 108 Stat. 4377; Pub. L. 104–59, title III, §§315, 316, Nov. 28, 1995, 109 Stat. 586, 587; Pub. L. 105–178, title I, §§1108(a)–(e), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 138–140, 193.)
 
 #### References in Text
 
@@ -266,7 +266,7 @@ Subsec. (f). Pub. L. 105–178, §1108(e), which directed general amendment of s
 
 “(f)
 
-Allocation of Obligation Authority.—A State which is required to obligate in an urbanized area with an urbanized area population of over 200,000 under subsection (d) funds apportioned to it under section 104(b)(3) shall allocate during the 6-fiscal year period 1992 through 1997 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction for use in such area determined by multiplying—
+Allocation of Obligation Authority.—A State which is required to obligate in an urbanized area with an urbanized area population of over 200,000 under subsection (d) funds apportioned to it under section104(b)(3) shall allocate during the 6-fiscal year period 1992 through 1997 an amount of obligation authority distributed to the State for Federal-aid highways and highway safety construction for use in such area determined by multiplying—
 
 &emsp;“(1) the aggregate amount of funds which the State is required to obligate in such area under subsection (d) during such period; by
 

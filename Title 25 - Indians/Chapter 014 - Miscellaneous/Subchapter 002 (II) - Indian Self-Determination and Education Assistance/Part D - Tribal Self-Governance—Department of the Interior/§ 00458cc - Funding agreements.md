@@ -8,7 +8,7 @@ The Secretary shall negotiate and enter into an annual written funding agreement
 
 Each funding agreement shall—
 
-&emsp;(1) authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior through the Bureau of Indian Affairs, without regard to the agency or office of the Bureau of Indian Affairs within which the program, service, function, and activity, or portion thereof, is performed, including funding for agency, area, and central office functions in accordance with subsection (g)(3) of this section, and including any program, service, function, and activity, or portion thereof, administered under the authority of—
+&emsp;(1) authorize the tribe to plan, conduct, consolidate, and administer programs, services, functions, and activities, or portions thereof, administered by the Department of the Interior through the Bureau of Indian Affairs, without regard to the agency or office of the Bureau of Indian Affairs within which the program, service, function, and activity, or portion thereof, is performed, including fundingfor agency, area, and central office functions in accordance with subsection (g)(3) of this section, and including any program, service, function, and activity, or portion thereof, administered under the authority of—
 
 &emsp;&emsp;(A) the Act of April 16, 1934 (25 U.S.C. 452 et seq.);
 
@@ -126,7 +126,7 @@ Title III of this Act, referred to in subsecs. (g)(2) and (<i>l</i>), is title I
 
 The Act of July 3, 1952, referred to in subsec. (h)(2), is act July 3, 1952, ch. 549, 66 Stat. 323, which enacted section 82a of this title and provisions set out as a note under section 82a of this title.
 
-Part A of this subchapter, referred to in subsec. (<i>l</i>), was in the original “title I of this Act”, meaning title I of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
+Part A of this subchapter, referred to in subsec. (<i>l</i>), was in the original “title I of this Act”, meaning titleI of Pub. L. 93–638, known as the Indian Self-Determination Act, which is classified principally to part A (§450f et seq.) of this subchapter. For complete classification of title I to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 #### Amendments
 

@@ -8,7 +8,7 @@
 
 #### (2) Charges to students and parents for use of form prohibited
 
-&emsp;The common financial reporting form prescribed by the Secretary under paragraph (1) shall be produced, distributed, and processed by the Secretary and no parent or student shall be charged a fee for the collection, processing, or delivery of financial aid through the use of such form. The need and eligibility of a student for financial assistance under parts A through D of this subchapter and part C of subchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter) may only be determined by using the form developed by the Secretary pursuant to paragraph (1) of this subsection. No student may receive assistance under parts A through D of this subchapter and part C of subchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter), except by use of the form developed by the Secretary pursuant to this section. No data collected on a form for which a fee is charged shall be used to complete the form prescribed under paragraph (1).
+&emsp;The common financial reporting form prescribed by the Secretary under paragraph (1) shall be produced, distributed, and processed by the Secretary and no parent or student shall be charged a fee for the collection, processing, or delivery of financial aid through the use of such form. The need and eligibility of a student for financial assistance under parts A through D of this subchapter and part C of subchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter) may only be determined by using the form developed by the Secretary pursuant to paragraph (1) of this subsection. No studentmay receive assistance under parts A through D of this subchapter and part C of subchapter I of chapter 34 of title 42 (other than under subpart 4 of part A of this subchapter), except by use of the form developed by the Secretary pursuant to this section. No data collected on a form for which a fee is charged shall be used to complete the form prescribed under paragraph (1).
 
 #### (3) Distribution of data
 
@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(i) any charges by the contractor to the student or parent for additional data items required by a State or institution for any purpose (regardless of the method of collection) shall be reasonable and shall not exceed the marginal cost of collecting, processing, and delivering such additional data, taking into account any payment received by the contractor to produce, distribute, and process the common financial reporting form prescribed by the Secretary pursuant to paragraph (1); and
 
-&emsp;&emsp;(ii) the contractor will require any person or entity to whom the contractor providessuch additional data to agree not to collect from any student or parent any charge that would not be permitted under this subparagraph for any such additional data.
+&emsp;&emsp;(ii) the contractor will require any person or entity to whom the contractor provides such additional data to agree not to collect from any student or parent any charge that would not be permitted under this subparagraph for any such additional data.
 
 &emsp;(B) To the extent practicable, the Secretary shall ensure that at least one contractor, or a portion of one contract, under this paragraph will serve graduate and professional students.
 
@@ -44,7 +44,7 @@
 
 &emsp;(C) No fee shall be charged to students in connection with the use of the electronic version of the form, or of any other electronic forms used in conjunction with such form in applying for Federal or State student financial assistance.
 
-&emsp;(D) The Secretary shall ensure that data collection complies with section 552a of title 5 and that any entity using the electronic version of the form developed by the Secretary pursuant to subparagraph (A) shall maintain reasonable and appropriate administrative, technical, and physical safeguards to ensure the integrity and confidentiality of the information, and to protect against security threats, or unauthorized uses or disclosures of the information provided on the electronic version of the form. Data collected by such version of the form shall be used only for the application, award, and administration of aid awarded under this subchapter and part C of subchapter I of chapter 34 of title 42, State aid, or aid awarded by eligible institutions or such entities as the Secretary may designate. No data collected by such version of the form shall be used for making final aid awards under this subchapter and part C of subchapter I of chapter 34 of title 42 until such data have been processed by the Secretary or a contractor or designee of the Secretary.
+&emsp;(D) The Secretary shall ensure that data collection complies with section 552a of title 5 and that any entity using the electronic version of the form developed by the Secretary pursuant to subparagraph (A) shall maintain reasonable and appropriate administrative, technical, and physical safeguards to ensure the integrity and confidentiality of the information, and to protect against security threats, or unauthorized uses or disclosures of the information provided on the electronic version of the form. Data collected by such version of the form shall be used only for theapplication, award, and administration of aid awarded under this subchapter and part C of subchapter I of chapter 34 of title 42, State aid, or aid awarded by eligible institutions or such entities as the Secretary may designate. No data collected by such version of the form shall be used for making final aid awards under this subchapter and part C of subchapter I of chapter 34 of title 42 until such data have been processed by the Secretary or a contractor or designee of the Secretary.
 
 #### (6) Third party servicers and private software providers
 
@@ -90,7 +90,7 @@ A prior section 1090, Pub. L. 89–329, title IV, §483, as added Pub. L. 96–3
 
 Subsec. (a)(1). Pub. L. 105–244, §482(a)(2)(D), struck out at end “For the purpose of collecting eligibility and other data for the purpose of part B of this subchapter, the Secretary shall develop a separate, identifiable loan application document (pursuant to section 1082(m) of this title) that applicants or institutions in which the students are enrolled or accepted for enrollment shall submit directly to eligible lenders and on which the applicant shall clearly indicate a choice of a lender.”
 
-Pub. L. 105–244, §482(a)(2)(C), substituted “The Secretary shall include on the form developed under this subsection such data items as the Secretary determines are appropriate for inclusion. Such items shall be selected in consultation with States to assist in the awarding of State financial assistance. In no case shall the number of such data items be less than the number included on the form on October 7, 1998.” for “The Secretary may include on the form developed pursuant to this paragraph not more than eight nonfinancial data items selected in consultation with the States to assist the States in awarding State student financial assistance.”
+Pub. L. 105–244, §482(a)(2)(C), substituted “The Secretary shall include on the form developed under this subsection such data items as the Secretary determines are appropriate for inclusion. Such items shall be selected in consultation with States to assist in the awarding of State financial assistance. In no case shall the number of such data items be less than the numberincluded on the form on October 7, 1998.” for “The Secretary may include on the form developed pursuant to this paragraph not more than eight nonfinancial data items selected in consultation with the States to assist the States in awarding State student financial assistance.”
 
 Pub. L. 105–244, §482(a)(2)(A), (B), substituted “A through D” for “A, C, and D” and struck out “and to determine the need of a student for the purpose of part B of this subchapter” after “part A of this subchapter)”.
 
@@ -118,7 +118,7 @@ Subsecs. (d), (e). Pub. L. 103–208, §2(h)(12), redesignated subsecs. (e) and 
 
 Subsec. (f). Pub. L. 103–208, §2(h)(12), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
 
-Pub. L. 103–208, §2(h)(11), substituted “address or employer's address, social security number or employeridentification number,” for “address, social security number,”.
+Pub. L. 103–208, §2(h)(11), substituted “address or employer's address, social security number or employer identification number,” for “address, social security number,”.
 
 Subsec. (g). Pub. L. 103–208, §2(h)(12), redesignated subsec. (g) as (f).
 

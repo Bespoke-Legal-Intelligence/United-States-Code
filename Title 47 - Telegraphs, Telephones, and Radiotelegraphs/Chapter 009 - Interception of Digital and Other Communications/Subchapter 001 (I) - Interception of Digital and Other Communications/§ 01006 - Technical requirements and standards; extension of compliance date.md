@@ -30,7 +30,7 @@ If industry associations or standard-setting organizations fail to issue technic
 
 &emsp;(4) serve the policy of the United States to encourage the provision of new technologies and services to the public; and
 
-&emsp;(5) provide a reasonable time and conditions for compliance with and the transition to any new standard, including defining the obligations of telecommunications carriers under section 1002 of this title during any transition period.
+&emsp;(5) provide a reasonable time and conditions for compliance with and the transition to any new standard, including defining the obligations of telecommunications carriers undersection 1002 of this title during any transition period.
 
 #### (c) Extension of compliance date for equipment, facilities, and services
 

@@ -36,13 +36,17 @@ Provisions similar to those in this section were contained in former section 98a
 
 1992—Subsec. (c). Pub. L. 102–484 added subsec. (c).
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Delegation of Functions
 
 Functions of President under this section delegated to Secretary of Defense by section 1 of Ex. Ord. No. 12636, Feb. 25, 1988, 53 F.R. 6114, set out under section 98 of this title.
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Advisory Committee Regarding Operation and Modernization of Stockpile
 
@@ -50,7 +54,7 @@ Section 3306 of Pub. L. 102–484 provided that:
 
 “(a)
 
-Appointment.—Not later than March 15, 1993, the President shall appoint an advisory committee undersection 10(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–1(a)) to make recommendations to the President concerning the operation and modernization of the National Defense Stockpile.
+Appointment.—Not later than March 15, 1993, the President shall appoint an advisory committee under section 10(a) of the Strategic and Critical Materials Stock Piling Act (50 U.S.C. 98h–1(a)) to make recommendations to the President concerning the operation and modernization of the National Defense Stockpile.
 
 “(b)
 

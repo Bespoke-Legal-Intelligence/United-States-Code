@@ -6,13 +6,13 @@ Any national banking association may, upon the deposit with it of any funds by a
 
 Any national banking association may, upon the deposit with it of any funds by any federally recognized Indian tribe, or any officer, employee, or agent thereof in his or her official capacity, give security for the safekeeping and prompt payment of the funds so deposited by the deposit of United States bonds and otherwise as may be prescribed by the Secretary of the Treasury for public funds under the first paragraph of this section.
 
-Notwithstanding the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\], the Secretary may select associations as financial agents in accordance with any process the Secretary deems appropriate and their reasonable duties may include the provision of electronic benefit transfer services (including State-administered benefits with the consent of the States), as defined by the Secretary.
+Notwithstanding the Federal Property and Administrative Services Act of 1949, as amended, the Secretary may select associations as financial agents in accordance with any process the Secretary deems appropriate and their reasonable duties may include the provision of electronic benefit transfer services (including State-administered benefits with the consent of the States), as defined by the Secretary.
 
 (R.S. §5153; Mar. 3, 1901, ch. 871, 31 Stat. 1448; Mar. 4, 1907, ch. 2913, §3, 34 Stat. 1290; Dec. 23, 1913, ch. 6, §27, 38 Stat. 274; Aug. 4, 1914, ch. 225, 38 Stat. 682; June 25, 1930, ch. 604, 46 Stat. 809; Aug. 18, 1950, ch. 754, 64 Stat. 463; Pub. L. 96–153, title III, §323(f), Dec. 21, 1979, 93 Stat. 1120; Pub. L. 104–208, div. A, title I, §101(f) \[§2(1)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–386.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Codification
 

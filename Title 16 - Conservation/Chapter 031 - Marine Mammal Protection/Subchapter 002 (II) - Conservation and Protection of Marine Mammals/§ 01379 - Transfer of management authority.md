@@ -2,7 +2,7 @@
 
 #### (a) State enforcement of State laws or regulations prohibited without transfer to State of management authority by Secretary
 
-No State may enforce, or attempt to enforce, any State law or regulation relating to the taking of any species (which term for purposes of this section includes any population stock) of marine mammal within the State unless the Secretary has transferred authority for the conservation and management of that species (hereinafter referred to in this section as “management authority”) to the State under subsection (b)(1) of this section.
+No State may enforce, or attempt to enforce, any State law or regulation relating to the taking of any species (which term for purposes of this section includes any population stock) of marine mammal within the State unless theSecretary has transferred authority for the conservation and management of that species (hereinafter referred to in this section as “management authority”) to the State under subsection (b)(1) of this section.
 
 #### (b) Findings prerequisite to transfer of authority; State program; implementation
 
@@ -22,7 +22,7 @@ No State may enforce, or attempt to enforce, any State law or regulation relatin
 
 &emsp;&emsp;(ii) the determination required under clause (i) is final and implemented under State law, and, if a cooperative allocation agreement for the species is required under subsection (d)(1) of this section, such as agreement is implemented;
 
-&emsp;(D) does not permit the taking of a number of animals of the species that exceeds the maximum number determined pursuant to subparagraph (C)(i)(II), and, in the case of taking for subsistence uses (as defined in subsection (f)(2) of this section), does not permitthe taking of a number of animals that would be inconsistent with the maintenance of the species at its OSP;
+&emsp;(D) does not permit the taking of a number of animals of the species that exceeds the maximum number determined pursuant to subparagraph (C)(i)(II), and, in the case of taking for subsistence uses (as defined in subsection (f)(2) of this section), does not permit the taking of a number of animals that would be inconsistent with the maintenance of the species at its OSP;
 
 &emsp;(E) does not permit the taking of the species for scientific research, public display, or enhancing the survival or recovery of a species or stock, except for taking for such purposes that is undertaken by, or on behalf of, the State;
 
@@ -56,7 +56,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 &emsp;(1) The State agency with management authority for the species (hereinafter in this section referred to as the “State agency”) must make an initial determination regarding the factors described in clause (i) of that subsection. The State agency must identify, and make available to the public under reasonable circumstances, the documentation supporting such initial determination. Unless request for a hearing under paragraph (2) regarding the initial determination is timely made, the initial determination shall be treated as final under State law.
 
-&emsp;(2) The State agency shall provide opportunity, at the request of any interested party, for a hearing with respect to the initial determination made by it under paragraph (1) at which interested parties may—
+&emsp;(2) The State agency shall provide opportunity, at the request of any interested party,for a hearing with respect to the initial determination made by it under paragraph (1) at which interested parties may—
 
 &emsp;&emsp;(A) present oral and written evidence in support of or against such determination; and
 
@@ -70,7 +70,7 @@ The State process required under subsection (b)(1)(C) of this section must compl
 
 #### (d) Cooperative allocation agreements
 
-(1) If the range of a species with respect to which a determination under paragraph (1)(C)(i) of subsection (b) of this section is made extends beyond the territorial waters of the State, the State agency and the Secretary (who shall first coordinate with the Marine Mammal Commission and the appropriate Regional Fishery Management Council established under section 1852 of this title) shall enter into a cooperative allocation agreement providing procedures for allocating, on a timely basis, such of the number ofanimals, as determined under paragraph (1)(C)(i)(II) of subsection (b) of this section, as may be appropriate with priority of allocation being given firstly to taking for subsistence uses in the case of the State of Alaska, and secondly to taking for purposes provided for under section 1371(a) of this title within the zone described in section 1362(14)(B) <sup>2</sup> of this title.
+(1) If the range of a species with respect to which a determination under paragraph (1)(C)(i) of subsection (b) of this section is made extends beyond the territorial waters of the State, the State agency and the Secretary (who shall first coordinate with the Marine Mammal Commission and the appropriate Regional Fishery Management Council established under section 1852 of this title) shall enter into a cooperative allocation agreement providing procedures for allocating, on a timely basis, such of the number of animals, as determined under paragraph (1)(C)(i)(II) of subsection (b) of this section, as may be appropriate with priority of allocation being given firstly to taking for subsistence uses in the case of the State of Alaska, and secondly to taking for purposes provided for under section 1371(a) of this title within the zone described in section 1362(14)(B) <sup>2</sup> of this title.
 
 (2) If the State agency requests the Secretary to regulate the taking of a species to which paragraph (1) applies within the zone described in section 1362(14)(B) <sup>2</sup> of this title for subsistence uses or for hunting, or both, in a manner consistent with the regulation by the State agency of such taking within the State, the Secretary shall adopt, and enforce within such zone, such of the State agency's regulatory provisions as the Secretary considers to be consistent with his administration of section 1371(a) of this title within such zone. The Secretary shall adopt such provisions through the issuance of regulations under section 553 of title 5, and with respect to such issuance the Regulatory Flexibility Act \[5 U.S.C. 601 et seq.\], the Paperwork Reduction Act,<sup>2</sup> Executive Order Numbered 12291, dated February 17, 1981, and the thirty-day notice requirement in subsection (d) of such section 553 shall not apply. For purposes of sections 1375, 1376, and 1377 of this title, such regulations shall be treated as having been issued under this subchapter.
 
@@ -166,7 +166,7 @@ The Secretary is authorized and directed to enter into cooperative arrangements 
 
 (2) There are authorized to be appropriated to the Department of Commerce, for the purposes of carrying out this section, not to exceed $225,000 for each of the fiscal years ending September 30, 1979, September 30, 1980, and September 30, 1981.
 
-(Pub. L. 92–522, title I, §109, Oct. 21, 1972, 86 Stat. 1040; Pub. L. 95–316, §1, July 10, 1978, 92 Stat. 380; Pub. L. 97–58, §4(a), Oct. 9, 1981, 95 Stat. 982; Pub. L. 100–711, §5(a), (e)(3), Nov. 23, 1988, 102 Stat. 4769, 4771; Pub. L. 102–587, title III, §3004(a)(2), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §24(c)(10), Apr. 30, 1994, 108 Stat. 566.)
+(Pub. L. 92–522, title I, §109, Oct. 21, 1972, 86 Stat. 1040; Pub. L. 95–316, §1, July 10, 1978, 92 Stat. 380; Pub. L. 97–58, §4(a), Oct. 9, 1981, 95 Stat. 982; Pub.L. 100–711, §5(a), (e)(3), Nov. 23, 1988, 102 Stat. 4769, 4771; Pub. L. 102–587, title III, §3004(a)(2), Nov. 4, 1992, 106 Stat. 5067; Pub. L. 103–238, §24(c)(10), Apr. 30, 1994, 108 Stat. 566.)
 
 #### References in Text
 
@@ -186,7 +186,7 @@ Executive Order Numbered 12291, dated February 17, 1981, referred to in subsec. 
 
 1988—Subsec. (b)(1)(E). Pub. L. 100–711, §5(e)(3)(A), substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research and public display purposes”.
 
-Subsec. (b)(3)(B)(ii). Pub. L. 100–711, §5(e)(3)(B), substituted “research, public display, or enhancing thesurvival or recovery of a species or stock” for “research or public display purposes”.
+Subsec. (b)(3)(B)(ii). Pub. L. 100–711, §5(e)(3)(B), substituted “research, public display, or enhancing the survival or recovery of a species or stock” for “research or public display purposes”.
 
 Subsec. (h). Pub. L. 100–711, §5(a), amended subsec. (h) generally. Prior to amendment, subsec. (h) read as follows: “Nothing in this subchapter shall prevent a Federal, State, or local government official or employee or a person designated under section 1382(c) of this title from taking, in the course of his duties as an official, employee, or designee, a marine mammal in a humane manner (including euthanasia) if such taking is for—
 

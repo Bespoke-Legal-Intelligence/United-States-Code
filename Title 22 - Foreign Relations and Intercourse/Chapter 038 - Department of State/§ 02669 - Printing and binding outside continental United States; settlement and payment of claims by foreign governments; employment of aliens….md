@@ -6,7 +6,7 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 
 &emsp;(b) for the purpose of promoting and maintaining friendly relations with foreign countries through the prompt settlement of certain claims, settle and pay any meritorious claim against the United States which is presented by a government of a foreign country for damage to or loss of real or personal property of, or personal injury to or death of, any national of such foreign country: <i>Provided</i>, That such claim is not cognizable under any other statute or international agreement of the United States and can be settled for not more than $15,000 or the foreign currency equivalent thereof;
 
-&emsp;(c) employ individuals or organizations, by contract, for services abroad, and individualsemployed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) of this section and of any other law administered by the Secretary concerning the employment of such individuals abroad); and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making, and performance of contracts and performance of work in the United States;
+&emsp;(c) employ individuals or organizations, by contract, for services abroad, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) of this section and of any other law administered by the Secretary concerning the employment of such individuals abroad); and such contracts are authorized to be negotiated, the terms of the contracts to be prescribed, and the work to be performed, where necessary, without regard to such statutory provisions as relate to the negotiation, making, and performance of contracts and performance of work in the United States;
 
 &emsp;(d) provide for official functions and courtesies;
 
@@ -16,7 +16,7 @@ The Secretary of State may use funds appropriated or otherwise available to the 
 
 &emsp;(g) obtain services as authorized by section 3109 of title 5 at a rate not to exceed the maximum rate payable for GS–18 under section 5332 of such title 5;
 
-&emsp;(h) directly procure goods and services in the United States or abroad, solely for use by United States Foreign Service posts abroad when the Secretary of State, in accordance with guidelines established in consultation with the Administrator of General Services, determines that use of the Federal Supply Service or otherwise applicable Federal goods and services acquisition authority would not meet emergency overseas security requirements determined necessary by the Secretary, taking into account overseas delivery, installation, maintenance, or replacement requirements, except that the authority granted by this paragraph shall cease to be effective when the amendment made by section 2711 of the Competition in Contracting Act of 1984 takes effect and thereafter procurement by the Secretary of State for the purposes described in this paragraph shall be in accordance with section 253(c)(2) of title 41;
+&emsp;(h) directly procure goods and services in the United States or abroad, solely for use by United States Foreign Service posts abroad when the Secretary of State, in accordance with guidelines established in consultation with the Administrator of General Services, determines that use of the Federal SupplyService or otherwise applicable Federal goods and services acquisition authority would not meet emergency overseas security requirements determined necessary by the Secretary, taking into account overseas delivery, installation, maintenance, or replacement requirements, except that the authority granted by this paragraph shall cease to be effective when the amendment made by section 2711 of the Competition in Contracting Act of 1984 takes effect and thereafter procurement by the Secretary of State for the purposes described in this paragraph shall be in accordance with section 253(c)(2) of title 41;
 
 &emsp;(i) pay obligations assumed in Germany on or after June 5, 1945;
 
@@ -60,7 +60,7 @@ Pub. L. 102–20 added subsec. (<i>l</i>) relating to purchase of special purpos
 
 Subsec. (c). Pub. L. 99–93, §118(a), inserted “for purposes of any law administered by the Office of Personnel Management (except that the Secretary may determine the applicability to such individuals of subsection (f) of this section and of any other law administered by the Secretary concerning the employment of such individuals abroad)”.
 
-1984—Subsec. (c). Pub. L. 98–533, §303(a)(1), substituted “individuals or organizations” for “aliens” after “employ”, and “, and individuals employed bycontract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government”.
+1984—Subsec. (c). Pub. L. 98–533, §303(a)(1), substituted “individuals or organizations” for “aliens” after “employ”, and “, and individuals employed by contract to perform such services shall not by virtue of such employment be considered to be employees of the United States Government”.
 
 Subsecs. (g), (h). Pub. L. 98–533, §303(a)(2), added subsecs. (g) and (h).
 
@@ -80,7 +80,7 @@ Section 118(b) of Pub. L. 99–93 provided that: “Authority provided by the am
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) There is hereby established the Snake River Birds of Prey National Conservation Area (hereafter referred to as the “conservation area”).
+(1) There is hereby established the Snake River Birds of Prey National Conservation Area\(hereafter referred to as the “conservation area”).
 
 (2) The purposes for which the conservation area is established, and shall be managed, are to provide for the conservation, protection, and enhancement of raptor populations and habitats and the natural and environmental resources and values associated therewith, and of the scientific, cultural, and educational resources and values of the public lands in the conservation area.
 
@@ -34,7 +34,7 @@ The general mining laws and the mineral leasing laws, referred to in subsec. (d)
 
 Geothermal leasing laws, referred to in subsec. (d), are classified principally to chapter 23 (§1001 et seq.) of Title 30.
 
-For mineral material disposal laws, referred to in subsec. (d), see the Materials Act of July 31, 1947, actJuly 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
+For mineral material disposal laws, referred to in subsec. (d), see the Materials Act of July 31, 1947, act July 31, 1947, ch. 406, 61 Stat. 681, as amended, which is classified generally to subchapter I (§601 et seq.) of chapter 15 of Title 30. For complete classification of this Act to the Code, see Short Title note set out under section 601 of Title 30 and Tables.
 
 #### Change of Name
 

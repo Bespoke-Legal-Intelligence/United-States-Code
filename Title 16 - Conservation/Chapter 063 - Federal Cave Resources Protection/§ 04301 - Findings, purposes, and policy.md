@@ -60,7 +60,7 @@ Publication, Filing, Correction, and Inspection.—(1) As soon as practicable af
 
 “(a)
 
-Suspension.—The Secretary shall not permit any new drilling on or involving any Federal mineral or geothermal lease within the cave protection area referred to in section 3(a) until the effective date of theRecord of Decision for the Dark Canyon Environmental Impact Statement, or for 12 months after the date of enactment of this Act \[Dec. 2, 1993\], whichever occurs first.
+Suspension.—The Secretary shall not permit any new drilling on or involving any Federal mineral or geothermal lease within the cave protection area referred to in section 3(a) until the effective date of the Record of Decision for the Dark Canyon Environmental Impact Statement, or for 12 months after the date of enactment of this Act \[Dec. 2, 1993\], whichever occurs first.
 
 “(b)
 

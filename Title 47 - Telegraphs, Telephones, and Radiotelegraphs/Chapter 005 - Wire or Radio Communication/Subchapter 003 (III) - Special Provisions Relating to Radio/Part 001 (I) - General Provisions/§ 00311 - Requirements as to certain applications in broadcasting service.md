@@ -22,7 +22,7 @@ Hearings referred to in subsection (a) of this section may be held at such place
 
 (3) The Commission shall approve the agreement only if it determines that (A) the agreement is consistent with the public interest, convenience, or necessity; and (B) no party to the agreement filed its application for the purpose of reaching or carrying out such agreement.
 
-(4) For the purposes of this subsection an application shall be deemed to be “pending” before the Commission from the time such application is filed with the Commission until an order of the Commission granting or denying it is no longer subject to rehearing by the Commission or to review by any court.
+(4) For the purposes of this subsection an application shall be deemed to be “pending” beforethe Commission from the time such application is filed with the Commission until an order of the Commission granting or denying it is no longer subject to rehearing by the Commission or to review by any court.
 
 #### (d) License for operation of station; agreement to withdraw application; approval of Commission
 

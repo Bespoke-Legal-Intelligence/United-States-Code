@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, Pub. L. 90–445, title I, §105, as added Pub. L. 93–415, title IV, §401(4), Sept. 7, 1974, 88 Stat. 1132, whichrelated to grants for demonstrations of innovative approaches to youth development, was omitted in view of appropriations not being authorized for fiscal years after 1975.
+Section, Pub. L. 90–445, title I, §105, as added Pub. L. 93–415, title IV, §401(4), Sept. 7, 1974, 88 Stat. 1132, which related to grants for demonstrations of innovative approaches to youth development, was omitted in view of appropriations not being authorized for fiscal years after 1975.
 
 Prior sections 3821 to 3845 were omitted in the general amendment of Pub. L. 90–445 by Pub. L. 92–381, §1, Aug. 14, 1972, 86 Stat. 532.
 
@@ -28,5 +28,5 @@ A prior section 3844, Pub. L. 90–445, title I, §134, July 31, 1968, 82 Stat. 
 
 A prior section 3845, Pub. L. 90–445, title I, §135, July 31, 1968, 82 Stat. 469, related to considerations for approval of applications.
 
-Title IV of Pub. L. 93–415 was repealed by Pub. L. 95–115, §10, Oct. 3, 1977, 91 Stat. 1061.
+Title IV of Pub. L. 93–415 was repealed by Pub. L. 95–115, §10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, §12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 

@@ -10,7 +10,7 @@
 
 There are authorized to be appropriated to the Department of the Interior, for purposes of carrying out its functions and responsibilities under this subchapter, $8,000,000 for fiscal year 1994, $8,600,000 for fiscal year 1995, $9,000,000 for fiscal year 1996, $9,400,000 for fiscal year 1997, $9,900,000 for fiscal year 1998, and $10,296,000 for fiscal year 1999.
 
-(Pub. L. 92–522, title I, §116, formerly §114, Oct. 21, 1972, 86 Stat. 1043; Pub. L. 95–136, §2, Oct. 18, 1977, 91 Stat. 1167; Pub. L. 95–316, §3, July 10, 1978, 92 Stat. 380; renumbered §116, Pub. L. 100–711, §2(a)(1), Nov. 23, 1988, 102 Stat. 4755; Pub. L. 103–238, §9(a), Apr. 30, 1994, 108 Stat. 543.)
+(Pub. L. 92–522, title I, §116, formerly §114, Oct. 21, 1972, 86 Stat. 1043; Pub. L. 95–136, §2, Oct. 18,1977, 91 Stat. 1167; Pub. L. 95–316, §3, July 10, 1978, 92 Stat. 380; renumbered §116, Pub. L. 100–711, §2(a)(1), Nov. 23, 1988, 102 Stat. 4755; Pub. L. 103–238, §9(a), Apr. 30, 1994, 108 Stat. 543.)
 
 #### Prior Provisions
 

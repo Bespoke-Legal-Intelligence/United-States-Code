@@ -12,7 +12,7 @@
 
 #### (3) Maximum living allowance
 
-&emsp;The total amount of an annual living allowance that may be provided to a participant ina full-time youth corps program that receives assistance under this division shall not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
+&emsp;The total amount of an annual living allowance that may be provided to a participant in a full-time youth corps program that receives assistance under this division shall not exceed 200 percent of the average annual subsistence allowance provided to VISTA volunteers under section 4955 of this title.
 
 #### (4) Waiver or reduction of living allowance
 
@@ -68,7 +68,7 @@ In addition to the living allowance provided under subsection (a) of this sectio
 
 &emsp;The Corporation and program agencies shall establish standards and enforcement procedures concerning the health and safety of participants for all projects, consistent with Federal, State, and local health and safety standards.
 
-(Pub. L. 101–610, title I, §199K, formerly §133, Nov. 16, 1990, 104 Stat. 3147; Pub. L. 102–10, §5(6), Mar. 12, 1991, 105 Stat. 30; renumbered §199M, renumbered §199K, and amended Pub. L. 103–82, title I, §101(a), (d), (e)(1), (8)(B), Sept. 21, 1993, 107 Stat. 788, 814–816.)
+(Pub. L. 101–610, title I, §199K, formerly §133, Nov. 16, 1990, 104 Stat. 3147; Pub. L. 102–10, §5(6),Mar. 12, 1991, 105 Stat. 30; renumbered §199M, renumbered §199K, and amended Pub. L. 103–82, title I, §101(a), (d), (e)(1), (8)(B), Sept. 21, 1993, 107 Stat. 788, 814–816.)
 
 #### References in Text
 

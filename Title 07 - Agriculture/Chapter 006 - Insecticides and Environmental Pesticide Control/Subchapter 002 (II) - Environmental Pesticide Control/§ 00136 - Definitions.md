@@ -122,7 +122,7 @@ The term “insect” means any of the numerous small invertebrate animals gener
 
 &emsp;&emsp;(D) its label does not bear the registration number assigned under section 136e of this title to each establishment in which it was produced;
 
-&emsp;&emsp;(E) any word, statement, or other information required by or under authority of thissubchapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or graphic matter in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
+&emsp;&emsp;(E) any word, statement, or other information required by or under authority of this subchapter to appear on the label or labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or graphic matter in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
 &emsp;&emsp;(F) the labeling accompanying it does not contain directions for use which are necessary for effecting the purpose for which the product is intended and if complied with, together with any requirements imposed under section 136a(d) of this title, are adequate to protect health and the environment;
 
@@ -222,7 +222,7 @@ The term “to use any registered pesticide in a manner inconsistent with its la
 
 &emsp;&emsp;(A) has not been submitted to the Administrator; or
 
-&emsp;&emsp;(B) if submitted to the Administrator, the Administrator has determined must be resubmitted because it is not valid, complete, or adequate to make a determination undersection 136a(c)(5) of this title and the regulations and guidelines issued under such section.
+&emsp;&emsp;(B) if submitted to the Administrator, the Administrator has determined must be resubmitted because it is not valid, complete, or adequate to make a determination under section 136a(c)(5) of this title and the regulations and guidelines issued under such section.
 
 #### (2) Factors
 
@@ -360,9 +360,9 @@ Subsec. (p)(2)(B). Pub. L. 100–532, §801(a)(2), substituted “Health and Hum
 
 Subsec. (q)(2)(A). Pub. L. 100–532, §801(a)(3), substituted “if—” for “if:”.
 
-Subsec. (q)(2)(C)(iii). Pub. L. 100–532, §801(a)(4), substituted “, except that” for “: <i>Provided</i>, That”.
+Subsec. (q)(2)(C)(iii). Pub. L. 100–532, §801(a)(4), substituted “, except that” for “: <i>Provided</i>, That”.
 
-Subsec. (u). Pub. L. 100–532, §801(a)(5), substituted “, except that” for “: <i>Provided</i>, That”, struck out “(1)(a)” after “include any article” and “or (b)” after “section 321(w) of title 21,”, and substituted “Health and Human Services” for “Health, Education, and Welfare”, “or that is” for “or (2) that is”, and “a new animal drug” for “an article covered by clause (1) of this proviso”.
+Subsec. (u). Pub. L. 100–532, §801(a)(5), substituted “, except that” for “: <i>Provided</i>, That”, struck out “(1)(a)” after “include any article” and “or (b)” after “section 321(w) of title 21,”, and substituted “Health and Human Services” for “Health, Education, and Welfare”, “or that is” for “or (2) that is”, and “a new animal drug” for “an article covered by clause (1) of this proviso”.
 
 Subsec. (ee). Pub. L. 100–532, §§601(a)(1), 801(a)(6), substituted “, except that” for “: <i>Provided</i>, That”, inserted “unless the labeling specifically prohibits deviation from the specified dosage, concentration, or frequency” and “unless the labeling specifically states that the product may be applied only by the methods specified on the labeling”, substituted “labeling, (4) mixing” for “labeling, or (4) mixing”, “, (5)” for “: <i>Provided further</i>, That the term also shall not include”, “or (6) any use” for “or any use”, and “. After” for “: <i>And provided further</i>, That after”.
 

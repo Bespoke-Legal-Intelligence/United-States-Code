@@ -14,7 +14,7 @@ Pub. L. 107–110, title X, §1041, Jan. 8, 2002, 115 Stat. 2007, provided that:
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–297, title V, §5101, Apr. 28, 1988, 102 Stat. 363, provided that: “This part \[part A (§§5101–5120) of title V of Pub. L. 100–297, enacting sections 2008a, 2022a, and 2022b of this title, amending sections 2001 to 2005, 2008 to 2011, and 2019 of this title, repealing section241bb–1 of Title 20, Education, enacting provisions set out as notes under section 2011 of this title and section 1411 of Title 20, and repealing provisions set out as a note under section 241aa of Title 20\] may be cited as the ‘Indian Education Amendments of 1988’.”
+Pub. L. 100–297, title V, §5101, Apr. 28, 1988, 102 Stat. 363, provided that: “This part \[part A (§§5101–5120) of title V of Pub. L. 100–297, enacting sections 2008a, 2022a, and 2022b of this title, amending sections 2001 to 2005, 2008 to 2011, and 2019 of this title, repealing section 241bb–1 of Title 20, Education, enacting provisions set out as notes under section 2011 of this title and section 1411 of Title 20, and repealing provisions set out as a note under section 241aa of Title 20\] may be cited as the ‘Indian Education Amendments of 1988’.”
 
 #### Short Title of 1985 Amendment
 

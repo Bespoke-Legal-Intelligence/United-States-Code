@@ -20,7 +20,7 @@ Economic Regulation.—In carrying out subpart II of this part and those provisi
 
 &emsp;&emsp;(B) to encourage efficient and well-managed air carriers to earn adequate profits and attract capital, considering any material differences between interstate air transportation and foreign air transportation.
 
-&emsp;(7) developing and maintaining a sound regulatory system that is responsive to the needs of the public and in which decisions are reached promptly to make it easier to adapt the air transportation system to the present and future needs of—
+&emsp;(7) developing and maintaining a sound regulatory system that is responsive to the needsof the public and in which decisions are reached promptly to make it easier to adapt the air transportation system to the present and future needs of—
 
 &emsp;&emsp;(A) the commerce of the United States;
 
@@ -100,7 +100,7 @@ Safety Considerations in Public Interest.—In carrying out subpart III of this 
 
 International Air Transportation.—In formulating United States international air transportation policy, the Secretaries of State and Transportation shall develop a negotiating policy emphasizing the greatest degree of competition compatible with a well-functioning international air transportation system, including the following:
 
-&emsp;(1) strengthening the competitive position of air carriers to ensure at least equality with foreign air carriers, including the attainment of the opportunity for air carriers to maintain and increase their profitability in foreign air transportation.
+&emsp;(1) strengthening the competitive position of air carriers to ensure at least equality with foreign air carriers, including the attainment of the opportunity for air carriers to maintainand increase their profitability in foreign air transportation.
 
 &emsp;(2) freedom of air carriers and foreign air carriers to offer prices that correspond to consumer demand.
 
@@ -228,7 +228,7 @@ In subsections (c) and (d), the reference to subpart III is added because the po
 
 In subsection (c), before clause (1), the word “Administrator” in section 306 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 749) is retained on authority of 49:106(g). The words “consider the following matters” are substituted for “give full consideration to” for consistency in this section.
 
-In subsection (d)(3), the word “both” in 49 App.:1303(c) is omitted as surplus the first time it appears. The words “of the United States” are omitted for consistency in the revised title and because of the definition of “navigable airspace” in section 40102(a) of the revised title. The words “of those operations” are added for clarity.
+In subsection (d)(3), the word “both” in 49 App.:1303(c) is omitted as surplus the first time it appears. The words “of the United States” are omitted for consistency in the revised title and because of the definitionof “navigable airspace” in section 40102(a) of the revised title. The words “of those operations” are added for clarity.
 
 In subsection (d)(5), the word “both” in 49 App.:1303(e) is omitted as surplus.
 
@@ -254,6 +254,10 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–296, title XIV, §1401, Nov. 25, 2002, 116 Stat. 2300, provided that: “This title \[enacting section 44921 of this title and section 513 of Title 6, Domestic Security, amending sections 44903 and 44918 of this title, amending provisions set out as a note under section 114 of this title, and repealing provisions set out as a note under section 44903 of this title\] may be cited as the ‘Arming Pilots Against Terrorism Act’.”
+
 #### Short Title of 2001 Amendment
 
 Pub. L. 107–71, §1, Nov. 19, 2001, 115 Stat. 597, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Aviation and Transportation Security Act’.”
@@ -270,7 +274,7 @@ Pub. L. 106–6, §1, Mar. 31, 1999, 113 Stat. 10, provided that: “This Act \[
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–155, §1, Feb. 11, 1998, 112 Stat. 5, provided that: “This Act \[amending section 48102 of this titleand enacting provisions set out as a note under section 48102 of this title\] may be cited as the ‘FAA Research, Engineering, and Development Authorization Act of 1998’.”
+Pub. L. 105–155, §1, Feb. 11, 1998, 112 Stat. 5, provided that: “This Act \[amending section 48102 of this title and enacting provisions set out as a note under section 48102 of this title\] may be cited as the ‘FAA Research, Engineering, and Development Authorization Act of 1998’.”
 
 #### Short Title of 1997 Amendment
 
@@ -338,7 +342,7 @@ Pub. L. 107–56, title VI, §622(e)(2), Oct. 26, 2001, 115 Stat. 372, provided 
 
 #### Air Transportation Safety and System Stabilization
 
-Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435, provided that:
+Pub. L. 107–42, Sept. 22, 2001, 115 Stat. 230, as amended by Pub. L. 107–71, title I, §124(a), (c), (d), title II, §201, Nov. 19, 2001, 115 Stat. 631, 645; Pub. L. 107–134, title I, §114(a), Jan. 23, 2002, 115 Stat. 2435; Pub. L. 107–296, title VIII, §890, title XII, §1201(2), Nov. 25, 2002, 116 Stat. 2251, 2286, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -520,7 +524,7 @@ Total Compensation Defined.—In this section, the term ‘total compensation’
 
 “(a)
 
-Action of Secretary.—The Secretary of Transportation should take appropriate action to ensure that all communities that had scheduled air service before September 11, 2001, continue to receive adequate air transportation service and that essential air service to small communities continues without interruption.
+Action of Secretary.—The Secretary of Transportation should take appropriate action to ensure thatall communities that had scheduled air service before September 11, 2001, continue to receive adequate air transportation service and that essential air service to small communities continues without interruption.
 
 “(b)
 
@@ -580,9 +584,7 @@ Coverage.—
 
 In general.—\[Amended section 44303 of this title.\]
 
-&emsp;“(2)
-
-Discretion of the Secretary.—For acts of terrorism committed on or to an air carrier during the 180-day period following the date of enactment of this Act \[Sept. 22, 2001\], the Secretary of Transportation may certify that the air carrier was a victim of an act of terrorism and in the Secretary's judgment, based on the Secretary's analysis and conclusions regarding the facts and circumstances of each case, shall not be responsible for losses suffered by third parties (as referred to in section 205.5(b)(1) of title 14, Code of Federal Regulations) that exceed $100,000,000, in the aggregate, for all claims by such parties arising out of such act. If the Secretary so certifies, the air carrier shall not be liable for an amount that exceeds $100,000,000, in the aggregate, for all claims by such parties arising out of such act, and the Government shall be responsible for any liability above such amount. No punitive damages may be awarded against an air carrier (or the Government taking responsibility for an air carrier under this paragraph) under a cause of action arising out of such act.
+&emsp;“(2) \[Transferred to section 44303(b) of this title.\]
 
 “(c)
 
@@ -598,7 +600,7 @@ Conforming Amendment.—\[Amended section 44305(b) of this title.\]
 
 #### “SEC. 202. EXTENSION OF PROVISIONS TO VENDORS, AGENTS, AND SUBCONTRACTORS OF AIR CARRIERS.
 
-“Notwithstanding any other provision of this title, the Secretary may extend any provision of chapter 443of title 49, United States Code, as amended by this title, and the provisions of this title, to vendors, agents, and subcontractors of air carriers. For the 180-day period beginning on the date of enactment of this Act \[Sept. 22, 2001\], the Secretary may extend or amend any such provisions so as to ensure that the entities referred to in the preceding sentence are not responsible in cases of acts of terrorism for losses suffered by third parties that exceed the amount of such entities’ liability coverage, as determined by the Secretary.
+“Notwithstanding any other provision of this title, the Secretary may extend any provision of chapter 443 of title 49, United States Code, as amended by this title, and the provisions of this title, to vendors, agents, and subcontractors of air carriers. For the 180-day period beginning on the date of enactment of this Act \[Sept. 22, 2001\], the Secretary may extend or amend any such provisions so as to ensure that the entities referred to in the preceding sentence are not responsible in cases of acts of terrorism for losses suffered by third parties that exceed the amount of such entities’ liability coverage, as determined by the Secretary.
 
 #### “TITLE III—TAX PROVISIONS
 
@@ -640,7 +642,7 @@ Treatment of Loss Compensation.—Nothing in any provision of law shall be const
 
 &emsp;“(1)
 
-Air carrier.—The term ‘air carrier’ means a citizen of the United States undertaking by any means, directly or indirectly, to provide air transportation and includes employees and agents of such citizen. The term ‘air carrier’ does not include a person, other than an air carrier, engaged in the business of providing air transportation security.
+Air carrier.—The term ‘air carrier’ means a citizen of the United States undertaking by any means, directly or indirectly, to provide air transportation and includes employees and agents (including persons engaged in the business of providing air transportation security and their affiliates) of such citizen. For purposes of the preceding sentence, the term ‘agent’, as applied to persons engaged in the business of providing air transportation security, shall only include persons that have contracted directly with the Federal Aviation Administration on or after and commenced services no later than February 17, 2002, to provide such security, and had not been or are not debarred for any period within 6 months from that date.
 
 &emsp;“(2)
 
@@ -728,7 +730,7 @@ Contents.—The form developed under subparagraph (A) shall request—
 
 &emsp;“(3)
 
-Limitation.—No claim may be filed under paragraph (1) after the date that is 2 years after the dateon which regulations are promulgated under section 407.
+Limitation.—No claim may be filed under paragraph (1) after the date that is 2 years after the date on which regulations are promulgated under section 407.
 
 “(b)
 
@@ -886,7 +888,7 @@ Jurisdiction.—The United States District Court for the Southern District of Ne
 
 “(c)
 
-Exclusion.—Nothing in this section shall in any way limit any liability of any person who is a knowing participant in any conspiracy to hijack any aircraft or commit any terrorist act. Subsections (a) and (b) do not apply to civil actions to recover collateral source obligations. Nothing in this section shall in any way limit any liability of any person who is engaged in the business of providing air transportation security and who is not an airline or airport sponsor or director, officer, or employee of an airline or airport sponsor.
+Exclusion.—Nothing in this section shall in any way limit any liability of any person who is a knowing participant in any conspiracy to hijack any aircraft or commit any terrorist act. Subsections (a) and (b) do not apply to civil actions to recover collateral source obligations.
 
 #### “SEC. 409. RIGHT OF SUBROGATION.
 
@@ -1080,7 +1082,7 @@ Section 272 of title II of Pub. L. 104–264 provided that: “The purposes of t
 
 &emsp;“(3) to ensure that any funding will be dedicated solely for the use of the Administration;
 
-&emsp;“(4) to authorize the Administration to recover the costs of its services from those who benefit from, butdo not contribute to, the national aviation system and the services provided by the Administration;
+&emsp;“(4) to authorize the Administration to recover the costs of its services from those who benefit from, but do not contribute to, the national aviation system and the services provided by the Administration;
 
 &emsp;“(5) to consider a fee system based on the cost or value of the services provided and other funding alternatives;
 
@@ -1324,7 +1326,7 @@ Report by the secretary based on final report of aviation funding task force.—
 
 &emsp;&emsp;“(A)
 
-Consideration of task force's preliminary report.—Not later than 30 days after receiving thepreliminary report of the aviation funding task force, the Secretary, in consultation with the Secretary of the Treasury, shall furnish comments on the report to the task force.
+Consideration of task force's preliminary report.—Not later than 30 days after receiving the preliminary report of the aviation funding task force, the Secretary, in consultation with the Secretary of the Treasury, shall furnish comments on the report to the task force.
 
 &emsp;&emsp;“(B)
 
@@ -1374,7 +1376,7 @@ Establishment.—The Administrator \[of the Federal Aviation Administration\], i
 
 “(b)
 
-Procedures for Contracts and Grants.—The Administrator and the heads of the other appropriate Federal agencies shall administer contracts and grants entered into under the program established under subsection (a) in accordance with procedures developed jointly by the Administrator and the heads of the other appropriate Federal agencies. The procedures should include an integrated acquisition policy for contract and grant requirements and for technical data rights that are not an impediment to joint programs among the Federal Aviation Administration, the other Federal agencies involved, and industry.
+Procedures for Contracts and Grants.—The Administrator and the heads of the other appropriate Federal agencies shall administer contracts and grantsentered into under the program established under subsection (a) in accordance with procedures developed jointly by the Administrator and the heads of the other appropriate Federal agencies. The procedures should include an integrated acquisition policy for contract and grant requirements and for technical data rights that are not an impediment to joint programs among the Federal Aviation Administration, the other Federal agencies involved, and industry.
 
 “(c)
 
@@ -1422,7 +1424,7 @@ Participation.—In carrying out the research program established under subsecti
 
 “(e)
 
-Report.—(1) Within six months after the date of enactment of this Act \[Aug. 23, 1994\], the Administrator shall submit to the Congress a plan for implementationof the research program established under subsection (a).
+Report.—(1) Within six months after the date of enactment of this Act \[Aug. 23, 1994\], the Administrator shall submit to the Congress a plan for implementation of the research program established under subsection (a).
 
 “(2) The Administrator shall annually submit to the Congress a report on the progress made during the year for which the report is submitted toward meeting the goals set forth in subsection (c).
 
@@ -1472,7 +1474,7 @@ In General.—Except as provided in subsection (b), no civil action for damages 
 
 Exceptions.—Subsection (a) does not apply—
 
-&emsp;“(1) if the claimant pleads with specificity the facts necessary to prove, and proves, that the manufacturer with respect to a type certificate or airworthiness certificate for, or obligations with respect to continuing airworthiness of, an aircraft or a component, system, subassembly, or other part of an aircraft knowingly misrepresented to the Federal Aviation Administration, or concealed or withheld from the Federal Aviation Administration, required information that is material and relevant to the performance or the maintenance or operation of such aircraft, or the component, system, subassembly, or other part, that is causally related to the harm which the claimant allegedly suffered;
+&emsp;“(1) if the claimant pleads with specificity the facts necessary to prove, and proves, that the manufacturer with respect to a type certificate or airworthiness certificate for, or obligations with respect to continuing airworthiness of, an aircraft or a component, system, subassembly, or other part of an aircraft knowingly misrepresented to the Federal Aviation Administration, or concealed or withheld from the Federal Aviation Administration, required information that is material and relevant to the performance or the maintenance or operation of such aircraft, or the component, system, subassembly, orother part, that is causally related to the harm which the claimant allegedly suffered;
 
 &emsp;“(2) if the person for whose injury or death the claim is being made is a passenger for purposes of receiving treatment for a medical or other emergency;
 

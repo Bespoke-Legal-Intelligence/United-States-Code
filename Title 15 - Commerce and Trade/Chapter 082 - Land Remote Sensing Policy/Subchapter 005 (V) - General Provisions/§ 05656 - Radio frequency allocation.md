@@ -2,7 +2,7 @@
 
 #### (a) Application to Federal Communications Commission
 
-To the extent required by the Communications Act of 1934 (47 U.S.C. 151 et seq.), an application shall be filed with the Federal Communications Commission for any radio facilities involved with commercial remote sensing spacesystems licensed under subchapter II of this chapter.
+To the extent required by the Communications Act of 1934 (47 U.S.C. 151 et seq.), an application shall be filed with the Federal Communications Commission for any radio facilities involved with commercial remote sensing space systems licensed under subchapter II of this chapter.
 
 #### (b) Deadline for FCC action
 
@@ -20,7 +20,7 @@ Frequency allocations made pursuant to this section by the Federal Communication
 
 #### References in Text
 
-The Communications Act of 1934, referred to in subsecs. (a) and (b), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally to chapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+The Communications Act of 1934, referred to in subsecs. (a) and (b), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended, which is classified principally tochapter 5 (§151 et seq.) of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
 
 #### Section Referred to in Other Sections
 

@@ -12,7 +12,7 @@ A trustee shall be vested with the same powers and title with respect to the deb
 
 #### (b) Trustee duties
 
-To the extent consistent with the provisions of this chapter or as otherwise ordered by the court, a trustee shall be subject to the same duties as a trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7, except that a trustee may, but shall have no duty to, reduce to money any securities constituting customer property or in the general estate of the debtor. In addition, the trustee shall—
+To the extent consistent with the provisions of this chapter or as otherwise ordered by thecourt, a trustee shall be subject to the same duties as a trustee in a case under chapter 7 of title 11, including, if the debtor is a commodity broker, as defined under section 101 of such title, the duties specified in subchapter IV of such chapter 7, except that a trustee may, but shall have no duty to, reduce to money any securities constituting customer property or in the general estate of the debtor. In addition, the trustee shall—
 
 &emsp;(1) deliver securities to or on behalf of customers to the maximum extent practicable in satisfaction of customer claims for securities of the same class and series of an issuer; and
 
@@ -32,7 +32,7 @@ The trustee shall—
 
 &emsp;(3) report to the court any facts ascertained by the trustee with respect to fraud, misconduct, mismanagement, and irregularities, and to any causes of action available to the estate; and
 
-&emsp;(4) as soon as practicable, prepare and submit, to SIPC and such other persons as thecourt designates and in such form and manner as the court directs, a statement of his investigation of matters referred to in paragraph (1).
+&emsp;(4) as soon as practicable, prepare and submit, to SIPC and such other persons as the court designates and in such form and manner as the court directs, a statement of his investigation of matters referred to in paragraph (1).
 
 (Pub. L. 91–598, §7, as added Pub. L. 95–283, §9, May 21, 1978, 92 Stat. 260; amended Pub. L. 95–598, title III, §308(i)–(k), Nov. 6, 1978, 92 Stat. 2675.)
 

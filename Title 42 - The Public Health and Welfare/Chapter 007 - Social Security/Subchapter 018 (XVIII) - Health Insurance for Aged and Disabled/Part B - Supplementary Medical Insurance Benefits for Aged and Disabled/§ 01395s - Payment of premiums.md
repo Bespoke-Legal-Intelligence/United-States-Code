@@ -14,7 +14,7 @@
 
 #### (c) Portion of monthly premium in excess of deducted amount
 
-If an individual to whom subsection (a) or (b) of this section applies estimates that theamount which will be available for deduction under such subsection for any premium payment period will be less than the amount of the monthly premiums for such period, he may (under regulations) pay to the Secretary such portion of the monthly premiums for such period as he desires.
+If an individual to whom subsection (a) or (b) of this section applies estimates that the amount which will be available for deduction under such subsection for any premium payment period will be less than the amount of the monthly premiums for such period, he may (under regulations) pay to the Secretary such portion of the monthly premiums for such period as he desires.
 
 #### (d) Deductions from civil service retirement annuities
 
@@ -98,7 +98,7 @@ Subsecs. (h), (i). Pub. L. 92–603, §263(c), (d)(3), redesignated subsec. (i) 
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–554 applicable to years beginning with 2003, see section 1(a)(6) \[title VI, §606(b)\] of Pub. L. 106–554, set out as a note under section 1395r of this title.
+Amendment by Pub. L. 106–554 applicable to years beginning with 2003, see section 1(a)(6) \[title VI, §606(b)\]of Pub. L. 106–554, set out as a note under section 1395r of this title.
 
 #### Effective Date of 1994 Amendment
 

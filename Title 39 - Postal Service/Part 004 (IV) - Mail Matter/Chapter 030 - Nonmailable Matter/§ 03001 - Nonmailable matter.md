@@ -38,9 +38,9 @@
 
 (f) Any matter which is unsolicited by the addressee, which contains a “household substance” (as defined by section 2 of the Poison Prevention Packaging Act of 1970), and which does not comply with the requirements for special child-resistant packaging established for that substance by the Consumer Product Safety Commission, is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs.
 
-(g)(1) Matter otherwise legally acceptable in the mails which contains or includes a fragrance advertising sample is nonmailable matter, shallnot be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless the sample is sealed, wrapped, treated, or otherwise prepared in a manner reasonably designed to prevent individuals from being unknowingly or involuntarily exposed to the sample.
+(g)(1) Matter otherwise legally acceptable in the mails which contains or includes a fragrance advertising sample is nonmailable matter, shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless the sample is sealed, wrapped, treated, or otherwise prepared in a manner reasonably designed to prevent individuals from being unknowingly or involuntarily exposed to the sample.
 
-(2) The Postal Service shall by regulation establish the standards or requirements which a fragrance advertising sample must satisfy in order for the mail matter involved not to be considered nonmailable under this subsection.
+(2) The Postal Service shall by regulation establish the standards or requirements which afragrance advertising sample must satisfy in order for the mail matter involved not to be considered nonmailable under this subsection.
 
 (h) Matter otherwise legally acceptable in the mails which constitutes a solicitation by a nongovernmental entity for the purchase of or payment for a product or service; and which reasonably could be interpreted or construed as implying any Federal Government connection, approval, or endorsement through the use of a seal, insignia, reference to the Postmaster General, citation to a Federal statute, name of a Federal agency, department, commission, or program, trade or brand name, or any other term or symbol; or contains any reference to the Postmaster General or a citation to a Federal statute that misrepresents either the identity of the mailer or the protection or status afforded such matter by the Federal Government is nonmailable matter and shall not be carried or delivered by mail, and shall be disposed of as the Postal Service directs, unless—
 
@@ -80,7 +80,7 @@
 
 (k)(1) In this subsection—
 
-&emsp;(A) the term “clearly and conspicuously displayed” means presented in a manner that isreadily noticeable, readable, and understandable to the group to whom the applicable matter is disseminated;
+&emsp;(A) the term “clearly and conspicuously displayed” means presented in a manner that is readily noticeable, readable, and understandable to the group to whom the applicable matter is disseminated;
 
 &emsp;(B) the term “facsimile check” means any matter that—
 
@@ -174,7 +174,7 @@
 
 &emsp;(ii) that attorney general transmits such request to the mailer.
 
-(2) Any person who mails matter to which subsection (h), (i), (j), or (k) applies shall maintain or cause to be maintained a record of all requests made under paragraph (1). The records shall be maintained in a form to permit the suppression of an applicable name at the applicable address for a 5-year period beginning on the date the written request under paragraph (1) is submitted to the mailer.
+(2) Any person who mails matter to which subsection (h), (i), (j), or (k) applies shall maintainor cause to be maintained a record of all requests made under paragraph (1). The records shall be maintained in a form to permit the suppression of an applicable name at the applicable address for a 5-year period beginning on the date the written request under paragraph (1) is submitted to the mailer.
 
 (m) Except as otherwise provided by law, proceedings concerning the mailability of matter under this chapter and chapters 71 and 83 of title 18 shall be conducted in accordance with chapters 5 and 7 of title 5.
 
@@ -244,11 +244,11 @@ Pub. L. 106–168, title I, §111, Dec. 12, 1999, 113 Stat. 1817, provided that:
 
 Section 6 of Pub. L. 101–524 provided that: “The provisions of this Act \[enacting section 413 of this title, amending this section and section 3005 of this title, and enacting provisions set out as notes below\] shall take effect on the date of the enactment of this Act \[Nov. 6, 1990\], except the amendments made by section 2 \[amending this section and section 3005 of this title\] shall apply to matter deposited for mailing and delivery on or after 180 days after the date of the enactment of this Act.”
 
-Section 3 of Pub. L. 101–493 provided that: “The amendments made by this Act \[amending this section\]shall take effect 180 days after the date of enactment of this Act \[Oct. 31, 1990\], and shall apply with respect to any matter mailed on or after that effective date.”
+Section 3 of Pub. L. 101–493 provided that: “The amendments made by this Act \[amending this section\] shall take effect 180 days after the date of enactment of this Act \[Oct. 31, 1990\], and shall apply with respect to any matter mailed on or after that effective date.”
 
 #### Effective Date of 1971 Amendment
 
-Amendment by Pub. L. 92–191 effective at beginning of third calendar month following Dec. 15, 1971, or on the date that this section becomes effective pursuant to section 15(a) of Pub. L. 91–375, which is set out as and Effective Date note preceding section 101 of this title, whichever is later, see section 3 of Pub. L. 92–191, set out as a note under section 1716 of Title 18, Crimes and Criminal Procedure.
+Amendment by Pub. L. 92–191 effective at beginning of third calendar month following Dec. 15, 1971, or on the date that this section becomes effective pursuantto section 15(a) of Pub. L. 91–375, which is set out as and Effective Date note preceding section 101 of this title, whichever is later, see section 3 of Pub. L. 92–191, set out as a note under section 1716 of Title 18, Crimes and Criminal Procedure.
 
 Section 6 of Pub. L. 91–662 provided that the amendment made by that section is effective on the date that the Board of Governors of the United States Postal Service establishes as the effective date for section 3001 of title 39 of the United States Code, as enacted by the Postal Reorganization Act.
 

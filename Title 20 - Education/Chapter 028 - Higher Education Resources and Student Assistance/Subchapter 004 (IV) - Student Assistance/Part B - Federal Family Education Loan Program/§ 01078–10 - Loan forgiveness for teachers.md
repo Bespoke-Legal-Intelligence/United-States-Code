@@ -38,7 +38,7 @@ Nothing in this section shall be construed to authorize any refunding of any rep
 
 #### (f) List
 
-If the list of schools in which a teacher may perform service pursuant to subsection (b) of this section is not available before May 1 of any year, the Secretary may use the list for the yearpreceding the year for which the determination is made to make such service determination.
+If the list of schools in which a teacher may perform service pursuant to subsection (b) of this section is not available before May 1 of any year, the Secretary may use the list for the year preceding the year for which the determination is made to make such service determination.
 
 #### (g) Additional eligibility provisions
 

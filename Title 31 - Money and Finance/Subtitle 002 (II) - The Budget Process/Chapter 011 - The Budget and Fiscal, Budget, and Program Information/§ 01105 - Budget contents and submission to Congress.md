@@ -48,7 +48,7 @@
 
 &emsp;(16) the level of tax expenditures under existing law in the tax expenditures budget (as defined in section 3(a)(3) of the Congressional Budget Act of 1974 (2 U.S.C. 622(a)(3)) for the fiscal year for which the budget is submitted, considering projected economic factors and changes in the existing levels based on proposals in the budget.
 
-&emsp;(17) information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for grants, contracts, and other payments under each program for which there is an authorization of appropriations for that following fiscal year when the appropriations are authorizedto be included in an appropriation law for the fiscal year before the fiscal year in which the appropriation is to be available for obligation.
+&emsp;(17) information on estimates of appropriations for the fiscal year following the fiscal year for which the budget is submitted for grants, contracts, and other payments under each program for which there is an authorization of appropriations for that following fiscal year when the appropriations are authorized to be included in an appropriation law for the fiscal year before the fiscal year in which the appropriation is to be available for obligation.
 
 &emsp;(18) a comparison of the total amount of budget outlays for the prior fiscal year, estimated in the budget submitted for that year, for each major program having relatively uncontrollable outlays with the total amount of outlays for that program in that year.
 
@@ -90,9 +90,29 @@
 
 &emsp;(32) a statement of the levels of budget authority and outlays for each program assumed to be extended in the baseline as provided in section 257(b)(2)(A) and for excise taxes assumed to be extended under section 257(b)(2)(C) of the Balanced Budget and Emergency Deficit Control Act of 1985.
 
-&emsp;(33) a separate appropriation account for appropriations for the Inspectors General Criminal Investigator Academy and the Inspectors General Forensic Laboratory of the Department of the Treasury.
+&emsp;(33) <sup>1</sup> a separate appropriation account for appropriations for the Inspectors General Criminal Investigator Academy and the Inspectors General Forensic Laboratory of the Department of the Treasury.
 
-(b) Estimated expenditures and proposed appropriations for the legislative branch and the judicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
+&emsp;(34) with respect to the amount of appropriations requested for use by the Export-Import Bank of the United States, a separate statement of the amount requested for its program budget, the amount requested for its administrative expenses, and of the amount requested for its administrative expenses, the amount requested for technology expenses.
+
+&emsp;(33) <sup>2</sup> (A)(i) a detailed, separate analysis, by budget function, by agency, and by initiative area (as determined by the administration) for the prior fiscal year, the current fiscal year, the fiscal years for which the budget is submitted, and the ensuing fiscal year identifying the amounts of gross and net appropriations or obligational authority and outlays that contribute to homeland security, with separate displays for mandatory and discretionary amounts, including—
+
+&emsp;&emsp;(I) summaries of the total amount of such appropriations or new obligational authority and outlays requested for homeland security;
+
+&emsp;&emsp;(II) an estimate of the current service levels of homeland security spending;
+
+&emsp;&emsp;(III) the most recent risk assessment and summary of homeland security needs in each initiative area (as determined by the administration); and
+
+&emsp;&emsp;(IV) an estimate of user fees collected by the Federal Government on behalf of homeland security activities;
+
+&emsp;(ii) with respect to subclauses (I) through (IV) of clause (i), amounts shall be provided by account for each program, project and activity; and
+
+&emsp;(iii) an estimate of expenditures for homeland security activities by State and local governments and the private sector for the prior fiscal year and the current fiscal year.
+
+&emsp;(B) In this paragraph, consistent with the Office of Management and Budget's June 2002 “Annual Report to Congress on Combatting Terrorism”, the term “homeland security” refers to those activities that detect, deter, protect against, and respond to terrorist attacks occurring within the United States and its territories.
+
+&emsp;(C) In implementing this paragraph, including determining what Federal activities or accounts constitute homeland security for purposes of budgetary classification, the Office of Management and Budget is directed to consult periodically, but at least annually, with the House and Senate Budget Committees, the House and Senate Appropriations Committees, and the Congressional Budget Office.
+
+(b) Estimated expenditures and proposed appropriations for the legislative branch and thejudicial branch to be included in each budget under subsection (a)(5) of this section shall be submitted to the President before October 16 of each year and included in the budget by the President without change.
 
 (c) The President shall recommend in the budget appropriate action to meet an estimated deficiency when the estimated receipts for the fiscal year for which the budget is submitted (under laws in effect when the budget is submitted) and the estimated amounts in the Treasury at the end of the current fiscal year available for expenditure in the fiscal year for which the budget is submitted, are less than the estimated expenditures for that year. The President shall make recommendations required by the public interest when the estimated receipts and estimated amounts in the Treasury are more than the estimated expenditures.
 
@@ -154,7 +174,7 @@
 
 &emsp;(B) the term “acquisition” includes the addition of land, sites, equipment, structures, facilities, or rolling stock by purchase, lease-purchase, trade, or donation; and
 
-&emsp;(C) the term “rehabilitation” includes the alteration of or correction of deficiencies in an existing structure or facility so as to extend the useful life or improve the effectiveness of the structure or facility, the modernization or replacement of equipment at an existing structure or facility, and the modernization of, or replacement of parts for, rolling stock.
+&emsp;(C) the term “rehabilitation” includes the alteration of or correction of deficiencies in an existing structure or facility so as to extendthe useful life or improve the effectiveness of the structure or facility, the modernization or replacement of equipment at an existing structure or facility, and the modernization of, or replacement of parts for, rolling stock.
 
 (f) The budget transmitted pursuant to subsection (a) for a fiscal year shall be prepared in a manner consistent with the requirements of the Balanced Budget and Emergency Deficit Control Act of 1985 that apply to that and subsequent fiscal years.
 
@@ -172,15 +192,15 @@
 
 &emsp;(i) Routine automated data processing and telecommunications services unless such services are an integral part of a contract for the procurement of advisory and assistance services.
 
-&emsp;(ii) Architectural and engineering services, as defined in section 901 of the Brooks Architect-Engineers Act (40 U.S.C. 541).
+&emsp;(ii) Architectural and engineering services, as defined in section 1102 of title 40.
 
 &emsp;(iii) Research on basic mathematics or medical, biological, physical, social, psychological, or other phenomena.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E),July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 908; Pub. L. 97–452, §1(2), Jan. 12, 1983, 96 Stat. 2467; Pub. L. 98–501, title II, §203, Oct. 19, 1984, 98 Stat. 2324; Pub. L. 99–177, title II, §241, Dec. 12, 1985, 99 Stat. 1063; Pub. L. 100–119, title I, §106(f), Sept. 29, 1987, 101 Stat. 781; Pub. L. 100–418, title V, §5301, Aug. 23, 1988, 102 Stat. 1462; Pub. L. 100–504, title I, §108, Oct. 18, 1988, 102 Stat. 2529; Pub. L. 100–690, title I, §1006, Nov. 18, 1988, 102 Stat. 4187; Pub. L. 101–508, title XIII, §13112(c), Nov. 5, 1990, 104 Stat. 1388–608; Pub. L. 101–576, title II, §203(b), Nov. 15, 1990, 104 Stat. 2841; Pub. L. 103–62, §4(a), Aug. 3, 1993, 107 Stat. 286; Pub. L. 103–272, §4(f)(1)(E), July 5, 1994, 108 Stat. 1362; Pub. L. 103–322, title XXXI, §310001(e), Sept. 13, 1994, 108 Stat. 2103; Pub. L. 103–355, title II, §2454(a), Oct. 13, 1994, 108 Stat. 3326; Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388; Pub. L. 105–33, title X, §10209(b), Aug. 5, 1997, 111 Stat. 711; Pub. L. 105–277, div. C, title VII, §713(c), Oct. 21, 1998, 112 Stat. 2681–693; Pub. L. 106–58, title VI, §638(f), Sept. 29, 1999, 113 Stat. 475; Pub. L. 106–422, §2(c), Nov. 1, 2000, 114 Stat. 1874; Pub. L. 107–189, §4(a), June 14, 2002, 116 Stat. 699; Pub. L. 107–217, §3(h)(3), Aug. 21, 2002, 116 Stat. 1299; Pub. L. 107–296, title VIII, §889(a), Nov. 25, 2002, 116 Stat. 2250.)
 
-#### Amendment of Section
+#### Termination of Subsection (f)
 
-<i>For termination of amendment by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates of 1985 Amendment note below.</i>
+<i>For termination of subsection (f) of this section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates of 1985 Amendment note below.</i>
 
 Historical and Revision Notes<br>1982
 
@@ -344,7 +364,13 @@ Section 257(b)(2) of the Balanced Budget and Emergency Deficit Control Act of 19
 
 #### Amendments
 
-2000—Subsec. (a)(33). Pub. L. 106–422 added par. (33).
+2002—Subsec. (a)(33). Pub. L. 107–296 added par. (33) relating to detailed, separate analysis of homeland security appropriations, obligational authority, and outlays.
+
+Subsec. (a)(34). Pub. L. 107–189 added par. (34).
+
+Subsec. (g)(2)(B)(ii). Pub. L. 107–217, which directed amendment of cl. (ii) to “strike ‘section 901 of the Brooks Architect-Engineers Act (40 U.S.C. 541)’ and substitute section ‘1102 of title 40’ ”, was executed by substituting “section 1102 of title 40” for the words stricken to reflect the probable intent of Congress.
+
+2000—Subsec. (a)(33). Pub. L. 106–422 added par. (33) relating to separate account for Inspectors General Criminal Investigator Academy and Inspectors General Forensic Laboratory.
 
 1999—Subsec. (a)(31). Pub. L. 106–58 added par. (31).
 
@@ -408,6 +434,12 @@ Subsec. (f). Pub. L. 99–177, §§241(b), 275(b), temporarily added subsec. (f)
 
 1983—Subsec. (a)(25). Pub. L. 97–452 added par. (25).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+Pub. L. 107–296, title VIII, §889(c), Nov. 25, 2002, 116 Stat. 2251, provided that: “This section \[amending this section and provisions set out as a note under section 2301 of Title 50, War and National Defense, and repealing provisions set out as a note under section 1113 of this title\] and the amendment made by this section shall apply beginning with respect to the fiscal year 2005 budget submission.”
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–58 effective at noon on Jan. 20, 2001, see section 638(h) of Pub. L. 106–58, set out as a note under section 503 of this title.
@@ -435,6 +467,8 @@ Amendment made by Pub. L. 103–62 not to be construed as creating any right, pr
 #### Transportation Security Administration
 
 Pub. L. 107–71, title I, §142, Nov. 19, 2001, 115 Stat. 644, provided that: “The President's budget submission for fiscal year 2003 and each fiscal year thereafter shall reflect the establishment of the Transportation Security Administration.”
+
+\[For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Annual Statement and Report on Rules and Regulations
 
@@ -498,6 +532,8 @@ Pub. L. 100–685, title I, §104, Nov. 17, 1988, 102 Stat. 4086, provided that:
 
 Pub. L. 102–241, §11, Dec. 19, 1991, 105 Stat. 2212, provided that: “Notwithstanding another law, the President is not required to submit a two-year budget request for the Coast Guard until the President is required to submit a two-year budget request for the Department of Transportation.”
 
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
 Pub. L. 100–448, §24, Sept. 28, 1988, 102 Stat. 1847, provided that:
 
 “(a)
@@ -512,13 +548,15 @@ Submission of 2
 
 “(c)
 
-Report.—Not later than October 1, 1988, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and to the Committee on Merchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives a report containing—
+Report.—Not later than October 1, 1988, the Secretary of the department in which the Coast Guard is operating shall submit to the Committee on Commerce, Science, and Transportation and the Committee on Appropriations of the Senate and to the Committee onMerchant Marine and Fisheries and the Committee on Appropriations of the House of Representatives a report containing—
 
 &emsp;“(1) the Secretary's views on the advantages and disadvantages of operating the Coast Guard on a 2-year budget cycle;
 
 &emsp;“(2) the Secretary's plans for converting to a 2-year budget cycle; and
 
 &emsp;“(3) a description of any impediments (statutory or otherwise) to converting the operations of the Coast Guard to a 2-year budget cycle beginning with fiscal year 1990.”
+
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Water and Sewer Services Furnished to Government Facilities in District of Columbia
 
@@ -574,11 +612,15 @@ Ex. Ord. No. 6715, May 23, 1934, provided:
 
 (1) Each executive department, independent establishment, and emergency agency shall file with the Director of the Bureau of the Budget \[now Director of Office of Management and Budget\] a functional organization chart, indicating its various existing bureaus, divisions, sections, etc., and containing a description of the functions respectively performed, and shall file such additional charts from time to time, as may be necessary to show all changes made therein.
 
-(2) Every executive department, independent establishment, and emergency agency hereafter created shall within 5 days after the appointment of the headthereof file a preliminary functional organization chart with the Director of the Bureau of the Budget.
+(2) Every executive department, independent establishment, and emergency agency hereafter created shall within 5 days after the appointment of the head thereof file a preliminary functional organization chart with the Director of the Bureau of the Budget.
 
 (3) The Director of the Bureau of the Budget is hereby authorized to prescribe, subject to the approval of the President, such rules and regulations as will indicate the information desired and the form of chart to be furnished.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 900, 901, 904; title 5 sections 1204, 8472; title 7 section 5603; title 10 sections 113, 114, 115, 115a, 119, 139, 153, 168, 179, 221, 222, 223, 224, 226, 230, 483, 484, 1115, 1465, 1741, 2006, 2208, 2212, 2216, 2217, 2224, 2304a, 2304b, 2306b, 2350a, 2367, 2431, 2433, 2475, 2515, 2521, 2703, 2721, 2809, 2815, 2835, 2836, 2859, 2884, 4541, 7902, 10543; title 14 sections 663, 688, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1509, 1703; title 22 section 5959; title 25 sections 450j–1, 458dd, 458aaa–12, 1621, 1671, 2008, 2015, 2504, 3803, 4043; title 29 section 762a; title 38 sections 312, 530, 3734, 7101, 7439, 7440, 8107, 8110, 8111, 8122; title 39 section 2009; title 40 sections 904, 908, 1412, 1413, 1425, 1428; title 41 sections 253h, 253i, 433; title 42 sections 2286e, 7274c, 7274g, 7274n, 8255, 11710, 13474; title 44 sections 3533, 3534; title 50 sections 404a, 404b, 404d, 1906, 2353, 2426, 2451, 2452, 2453.
+This section is referred to in sections 1104, 1106, 1107, 1115, 1118, 1119, 1554, 5134, 6503, 9103, 9109, 9703 of this title; title 2 sections 632, 655, 900, 901, 904; title 5 sections 1204, 8472; title 6 sections 162, 214, 453, 454; title 7 section 5603; title 10 sections 113, 113a, 114, 115, 115a, 118, 118a, 119, 139, 153, 168, 179, 221, 222, 223, 224, 226, 231, 483, 484, 1115, 1465, 1741, 2006, 2208, 2212, 2216, 2217, 2224, 2304a, 2304b, 2306b, 2350a, 2359b, 2431, 2433, 2475, 2515, 2521, 2703, 2721, 2809, 2815, 2835, 2836, 2859, 2884, 4342, 4541, 6954, 7902, 9342, 10543; title 14 sections 663, 688, 692; title 15 sections 1022, 2935, 4626; title 20 section 76j; title 21 sections 1509, 1703; title 22 section 5959; title 25 sections 450j–1, 458dd, 458aaa–12, 1621, 1671, 2008, 2015, 2504, 3803, 4043; title 29 section 762a; title 38 sections 312, 530, 3734, 7101, 7439, 7440, 8107, 8110, 8111, 8122; title 39 section 2009; title 40 sections 11302, 11303, 11315, 11318, 17505, 17507; title 41 sections 253h, 253i, 433; title 42 sections 2286e, 7274c, 7274g, 7274n, 8255, 11710, 13474; title 44 sections 3534, 3544; title 50 sections 404a, 404b, 404d, 415a, 1906, 2353, 2426, 2451, 2452, 2453.
+
+<i><sup>1</sup></i><i> So in original. Another par. (33) is set out after par. (34).</i>
+
+<i><sup>2</sup></i><i> So in original. Another par. (33) is set out preceding par. (34).</i>
 

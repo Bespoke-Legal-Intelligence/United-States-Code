@@ -18,7 +18,7 @@ There is hereby established within the Department of the Interior the Office of 
 
 #### (1) Conditioned upon implementation of reforms
 
-&emsp;The Special Trustee, in proposing a termination date under section 4043(a)(2)(C) of thistitle, shall ensure continuation of the Office until all reforms identified in the strategic plan have been implemented to the satisfaction of the Special Trustee.
+&emsp;The Special Trustee, in proposing a termination date under section 4043(a)(2)(C) of this title, shall ensure continuation of the Office until all reforms identified in the strategic plan have been implemented to the satisfaction of the Special Trustee.
 
 #### (2) 30-day notice
 

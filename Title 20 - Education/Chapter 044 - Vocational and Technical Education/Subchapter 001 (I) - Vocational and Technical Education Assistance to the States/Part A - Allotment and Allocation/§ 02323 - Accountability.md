@@ -2,7 +2,7 @@
 
 #### (a) Purpose
 
-The purpose of this section is to establish a State performance accountability system, comprised of the activities described in this section, to assess the effectiveness of the State in achieving statewide progress in vocational and technical education, and to optimize the return of investment of Federal funds in vocational and technical education activities.
+The purpose of this section is to establish a State performance accountability system, comprised of the activities described in this section, to assess the effectiveness of the State in achieving statewide progress in vocational andtechnical education, and to optimize the return of investment of Federal funds in vocational and technical education activities.
 
 #### (b) State performance measures
 
@@ -68,7 +68,7 @@ The purpose of this section is to establish a State performance accountability s
 
 #### (v) Agreement on State adjusted levels of performance for 3rd, 4th, and 5th years
 
-&emsp;&emsp;&emsp;Prior to the third program year covered by the State plan, the Secretary and eacheligible agency shall reach agreement on the State adjusted levels of performance for each of the core indicators of performance for the third, fourth, and fifth program years covered by the State plan, taking into account the factors described in clause (vi). The State adjusted levels of performance agreed to under this clause shall be considered to be the State adjusted levels of performance for the State for such years and shall be incorporated into the State plan.
+&emsp;&emsp;&emsp;Prior to the third program year covered by the State plan, the Secretary and each eligible agency shall reach agreement on the State adjusted levels of performance for each of the core indicators of performance for the third, fourth, and fifth program years covered by the State plan, taking into account the factors described in clause (vi). The State adjusted levels of performance agreed to under this clause shall be considered to be the State adjusted levels of performance for the State for such years and shall be incorporated into the State plan.
 
 #### (vi) Factors
 

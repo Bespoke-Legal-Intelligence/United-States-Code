@@ -4,7 +4,7 @@
 
 The Congress finds—
 
-&emsp;(1) that the predominant part of the Nation's population is located in its rapidly expanding metropolitan and other urban areas, whichgenerally cross the boundary lines of local jurisdictions and often extend into two or more States;
+&emsp;(1) that the predominant part of the Nation's population is located in its rapidly expanding metropolitan and other urban areas, which generally cross the boundary lines of local jurisdictions and often extend into two or more States;
 
 &emsp;(2) that the growth in the amount and complexity of air pollution brought about by urbanization, industrial development, and the increasing use of motor vehicles, has resulted in mounting dangers to the public health and welfare, including injury to agricultural crops and livestock, damage to and the deterioration of property, and hazards to air and ground transportation;
 
@@ -26,7 +26,7 @@ The purposes of this subchapter are—
 
 #### (c) Pollution prevention
 
-A primary goal of this chapter is to encourage or otherwise promote reasonable Federal, State, and local governmental actions, consistent with the provisions of this chapter, for pollution prevention.
+A primary goal of this chapter is to encourage or otherwise promote reasonable Federal, State,and local governmental actions, consistent with the provisions of this chapter, for pollution prevention.
 
 (July 14, 1955, ch. 360, title I, §101, formerly §1, as added Pub. L. 88–206, §1, Dec. 17, 1963, 77 Stat. 392; renumbered §101 and amended Pub. L. 89–272, title I, §101(2), (3), Oct. 20, 1965, 79 Stat. 992; Pub. L. 90–148, §2, Nov. 21, 1967, 81 Stat. 485; Pub. L. 101–549, title I, §108(k), Nov. 15, 1990, 104 Stat. 2468.)
 
@@ -70,7 +70,7 @@ Section 406 of Pub. L. 95–95, as amended by Pub. L. 95–190, §14(b)(6), Nov.
 
 “(b) All rules, regulations, orders, determinations, contracts, certifications, authorizations, delegations, or other actions duly issued, made, or taken by or pursuant to the Clean Air Act \[this chapter\], as in effect immediately prior to the date of enactment of this Act \[Aug. 7, 1977\], and pertaining to any functions, powers, requirements, and duties under the Clean Air Act, as in effect immediately prior to the date of enactment of this Act, and not suspended by the Administrator or the courts, shall continue in full force and effect after the date of enactment of this Act until modified or rescinded in accordance with the Clean Air Act as amended by this Act \[see Short Title of 1977 Amendment note below\].
 
-“(c) Nothing in this Act \[see Short Title of 1977 Amendment note below\] nor any action taken pursuant to this Act shall in any way affect any requirement of an approved implementation plan in effect under section 110 of the Clean Air Act \[section 7410 of this title\]or any other provision of the Act in effect under the Clean Air Act before the date of enactment of this section \[Aug. 7, 1977\] until modified or rescinded in accordance with the Clean Air Act \[this chapter\] as amended by this Act \[see Short Title of 1977 Amendment note below\].
+“(c) Nothing in this Act \[see Short Title of 1977 Amendment note below\] nor any action taken pursuant to this Act shall in any way affect any requirement of an approved implementation plan in effect under section 110 of the Clean Air Act \[section 7410 of this title\] or any other provision of the Act in effect under the Clean Air Act before the date of enactment of this section \[Aug. 7, 1977\] until modified or rescinded in accordance with the Clean Air Act \[this chapter\] as amended by this Act \[see Short Title of 1977 Amendment note below\].
 
 “(d)(1) Except as otherwise expressly provided, the amendments made by this Act \[see Short Title of 1977 Amendment note below\] shall be effective on date of enactment \[Aug. 7, 1977\].
 
@@ -284,7 +284,7 @@ Pub. L. 95–95, title IV, §403(b), Aug. 7, 1977, 91 Stat. 792, directed Admini
 
 #### List of Chemical Contaminants From Environmental Pollution Found in Human Tissue
 
-Pub. L. 95–95, title IV, §403(c), Aug. 7, 1977, 91 Stat. 792, directed Administrator of EPA, not later than twelve months after Aug. 7, 1977, to publish throughout the United States a list of all known chemical contaminants resulting from environmental pollution which have been found in human tissue including blood, urine, breast milk, and all other human tissue, such list to be prepared for the United States and to indicate approximate number of cases, range of levels found, and mean levels found, directed Administrator, not later than eighteen months after Aug. 7, 1977, to publish in same manner an explanation of what is known about the manner in which chemicals entered the environment and thereafter human tissue, and directed Administrator, in consultation with National Institutes of Health, the National Center for Health Statistics, and the National Center for Health Services Research and Development, to, if feasible, conduct an epidemiological study to demonstrate the relationship between levels of chemicals in the environment and in human tissue, such study to be made in appropriate regions or areas of the United States in order to determine any different results in such regions or areas, and the results of such study to be reported, as soon as practicable, to appropriate committee of Congress.
+Pub. L. 95–95, title IV, §403(c), Aug. 7, 1977, 91 Stat. 792, directed Administrator of EPA, not later thantwelve months after Aug. 7, 1977, to publish throughout the United States a list of all known chemical contaminants resulting from environmental pollution which have been found in human tissue including blood, urine, breast milk, and all other human tissue, such list to be prepared for the United States and to indicate approximate number of cases, range of levels found, and mean levels found, directed Administrator, not later than eighteen months after Aug. 7, 1977, to publish in same manner an explanation of what is known about the manner in which chemicals entered the environment and thereafter human tissue, and directed Administrator, in consultation with National Institutes of Health, the National Center for Health Statistics, and the National Center for Health Services Research and Development, to, if feasible, conduct an epidemiological study to demonstrate the relationship between levels of chemicals in the environment and in human tissue, such study to be made in appropriate regions or areas of the United States in order to determine any different results in such regions or areas, and the results of such study to be reported, as soon as practicable, to appropriate committee of Congress.
 
 #### Study on Regional Air Quality
 

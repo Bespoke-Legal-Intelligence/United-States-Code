@@ -62,7 +62,7 @@ Pub. L. 106–65, div. A, title X, §1062(c)(1), Oct. 5, 1999, 113 Stat. 768, pr
 
 &emsp;“(A) the bands of frequencies aggregating 3 megahertz located between 138 and 144 megahertz that were recommended for reallocation in the second reallocation report under section 113(a) of that Act \[probably means 47 U.S.C. 923(a)\]; and
 
-&emsp;“(B) the band of frequency aggregating 5 megahertz located between 1385 megahertz and 1390 megahertz, inclusive, that was so recommended for reallocation.”
+&emsp;“(B) the band of frequency aggregating 5 megahertz located between 1385 megahertz and 1390 megahertz,inclusive, that was so recommended for reallocation.”
 
 #### Assessment of Electromagnetic Spectrum Reallocation
 
@@ -96,7 +96,7 @@ Attention to particular subjects required.—In the conduct of the review and as
 
 &emsp;&emsp;“(A) the effect on critical military and intelligence capabilities, civil space programs, and other Federal Government systems used to protect public safety of the reallocated spectrum described in paragraph (1)(B) of this subsection;
 
-&emsp;&emsp;“(B) the anticipated impact on critical military and intelligence capabilities, future military andintelligence operational requirements, national defense modernization programs, and civil space programs, and other Federal Government systems used to protect public safety, of future potential reallocations to non-Federal use of bands of the electromagnetic spectrum that are currently allocated for use by the Federal Government; and
+&emsp;&emsp;“(B) the anticipated impact on critical military and intelligence capabilities, future military and intelligence operational requirements, national defense modernization programs, and civil space programs, and other Federal Government systems used to protect public safety, of future potential reallocations to non-Federal use of bands of the electromagnetic spectrum that are currently allocated for use by the Federal Government; and
 
 &emsp;&emsp;“(C) future spectrum requirements of agencies in the Federal Government.
 

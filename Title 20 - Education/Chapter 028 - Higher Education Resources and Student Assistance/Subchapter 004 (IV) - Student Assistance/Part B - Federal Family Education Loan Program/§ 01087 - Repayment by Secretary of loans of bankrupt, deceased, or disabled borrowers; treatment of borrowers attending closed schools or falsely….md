@@ -26,7 +26,7 @@ The Secretary shall pay to the holder of a loan described in section 1078(a)(1)(
 
 #### (3) Eligibility for additional assistance
 
-&emsp;The period of a student's attendance at an institution at which the student was unable to complete a course of study due to the closing of the institution shall not be considered for purposes of calculating the student's period of eligibility for additional assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
+&emsp;The period of a student's attendance at an institution at which the student was unable to complete a course of study due to the closing of the institution shall not be considered for purposes of calculating the student's period ofeligibility for additional assistance under this subchapter and part C of subchapter I of chapter 34 of title 42.
 
 #### (4) Special rule
 

@@ -51,13 +51,13 @@
 
 1998—Pub. L. 105–178, title III, §§3007(a)(2), 3008(b), 3009(b), 3014(b), 3017(b), 3025(b)(2), title V, §5110(c), June 9, 1998, 112 Stat. 347, 352, 359, 361, 365, 444, substituted “Urbanized area formula grants” for “Block grants” in item 5307, “Clean fuels formula grant program” for “Mass Transit Account block grants” in item 5308, “Capital investment” for “Discretionary” in item 5309, “Formula grant” for “Financial assistance” in item 5311, and “transit” for “mass transportation” in item 5315, struck out items 5316 “University research institutes” and 5317 “Transportation centers”, and inserted “provisions” after “Administrative” in item 5334.
 
-Pub. L. 105–178, title III, §3013(b), June 9, 1998, 112 Stat. 359, which directed insertion of “formula” before “grants” in item 5310, was executed by substituting “Formula grants” for “Grants” to reflect the probable intent of Congress.
+Pub. L. 105–178, title III, §3013(b), June 9, 1998, 112 Stat. 359, which directed insertion of “formula” before“grants” in item 5310, was executed by substituting “Formula grants” for “Grants” to reflect the probable intent of Congress.
 
 Pub. L. 105–178, title III, §3027(d), as added by Pub. L. 105–206, title IX, §9009(<i>o</i>)(2), July 22, 1998, 112 Stat. 858, substituted “formula grants” for “block grants” in item 5336.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 23 sections 103, 104, 110, 120, 133, 134, 142, 181, 182, 183; title 40 section 819; title 42 section 7506.
+This chapter is referred to in title 23 sections 103, 104, 110, 120, 133, 134, 142, 181, 182, 183; title 42 section 7506.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 

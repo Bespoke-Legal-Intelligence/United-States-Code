@@ -42,7 +42,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;In the case of a school identified for school improvement under this paragraph, the local educational agency shall, not later than the first day of the school year following such identification, provide allstudents enrolled in the school with the option to transfer to another public school served by the local educational agency, which may include a public charter school, that has not been identified for school improvement under this paragraph, unless such an option is prohibited by State law.
+&emsp;&emsp;&emsp;In the case of a school identified for school improvement under this paragraph, the local educational agency shall, not later than the first day of the school year following such identification, provide all students enrolled in the school with the option to transfer to another public school served by the local educational agency, which may include a public charter school, that has not been identified for school improvement under this paragraph, unless such an option is prohibited by State law.
 
 #### (ii) Rule
 
@@ -90,7 +90,7 @@
 
 &emsp;&emsp;&emsp;(vi) describe how the school will provide written notice about the identification to parents of each student enrolled in such school, in a format and, to the extent practicable, in a language that the parents can understand;
 
-&emsp;&emsp;&emsp;(vii) specify the responsibilities of the school, the local educational agency, and the State educational agency serving theschool under the plan, including the technical assistance to be provided by the local educational agency under paragraph (4) and the local educational agency's responsibilities under section 6321 of this title;
+&emsp;&emsp;&emsp;(vii) specify the responsibilities of the school, the local educational agency, and the State educational agency serving the school under the plan, including the technical assistance to be provided by the local educational agency under paragraph (4) and the local educational agency's responsibilities under section 6321 of this title;
 
 &emsp;&emsp;&emsp;(viii) include strategies to promote effective parental involvement in the school;
 
@@ -236,7 +236,7 @@
 
 &emsp;&emsp;If, after 1 full school year of corrective action under paragraph (7), a school subject to such corrective action continues to fail to make adequate yearly progress, then the local educational agency shall—
 
-&emsp;&emsp;&emsp;(i) continue to provide all students enrolled in the school with the option totransfer to another public school served by the local educational agency, in accordance with paragraph (1)(E) and (F);
+&emsp;&emsp;&emsp;(i) continue to provide all students enrolled in the school with the option to transfer to another public school served by the local educational agency, in accordance with paragraph (1)(E) and (F);
 
 &emsp;&emsp;&emsp;(ii) continue to make supplemental educational services available, in accordance with subsection (e) of this section, to children who remain in the school; and
 
@@ -314,7 +314,7 @@
 
 &emsp;&emsp;(A) make technical assistance under section 6317 of this title available to schools identified for school improvement, corrective action, or restructuring under this subsection consistent with section 6317(a)(2) of this title;
 
-&emsp;&emsp;(B) if the State educational agency determines that a local educational agency failed to carry out its responsibilities under this subsection, take such corrective actions as the State educational agency determines to be appropriate and in compliance with State law;
+&emsp;&emsp;(B) if the State educational agency determines that a local educational agency failedto carry out its responsibilities under this subsection, take such corrective actions as the State educational agency determines to be appropriate and in compliance with State law;
 
 &emsp;&emsp;(C) ensure that academic assessment results under this part are provided to schools before any identification of a school may take place under this subsection; and
 
@@ -370,7 +370,7 @@
 
 &emsp;&emsp;&emsp;(iv) include specific measurable achievement goals and targets for each of the groups of students identified in the disaggregated data pursuant to section 6311(b)(2)(C)(v) of this title, consistent with adequate yearly progress as defined under section 6311(b)(2) of this title;
 
-&emsp;&emsp;&emsp;(v) address the fundamental teaching and learning needs in the schools of that agency, and the specific academic problems of low-achieving students, including a determination of why the local educational agency's prior plan failed to bring about increased student academic achievement;
+&emsp;&emsp;&emsp;(v) address the fundamental teaching and learning needs in the schools of thatagency, and the specific academic problems of low-achieving students, including a determination of why the local educational agency's prior plan failed to bring about increased student academic achievement;
 
 &emsp;&emsp;&emsp;(vi) incorporate, as appropriate, activities before school, after school, during the summer, and during an extension of the school year;
 
@@ -438,7 +438,7 @@
 
 #### (D) Hearing
 
-&emsp;&emsp;Prior to implementing any corrective action under this paragraph, the State educational agency shall provide notice and a hearing to the affected local educational agency, if State law provides for such notice and hearing. The hearing shall take place not later than 45 days following the decision to implement corrective action.
+&emsp;&emsp;Prior to implementing any corrective action under this paragraph, the State educational agency shall provide notice and a hearing to the affected local educationalagency, if State law provides for such notice and hearing. The hearing shall take place not later than 45 days following the decision to implement corrective action.
 
 #### (E) Notice to parents
 
@@ -556,7 +556,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (11) Special rule
 
-&emsp;If State law prohibits a State educational agency from carrying out one or more of its responsibilities under paragraph (4) with respect to those who provide, or seek approval to provide, supplemental educational services, each local educational agency in the Stateshall carry out those responsibilities with respect to its students who are eligible for those services.
+&emsp;If State law prohibits a State educational agency from carrying out one or more of its responsibilities under paragraph (4) with respect to those who provide, or seek approval to provide, supplemental educational services, each local educational agency in the State shall carry out those responsibilities with respect to its students who are eligible for those services.
 
 #### (12) Definitions
 
@@ -626,7 +626,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (ii) Use of definition
 
-&emsp;&emsp;&emsp;The Secretary of the Interior, consistent with clause (i), may use the definition of adequate yearly progress that the State in which the school that is funded by the Bureau is located uses consistent with section 6311(b) of this title, or in the case of schools that are located in more than one State, the Secretary of the Interior may use whichever State definition of adequate yearly progress that best meets the uniquecircumstances and needs of such school or schools and the students the schools serve.
+&emsp;&emsp;&emsp;The Secretary of the Interior, consistent with clause (i), may use the definition of adequate yearly progress that the State in which the school that is funded by the Bureau is located uses consistent with section 6311(b) of this title, or in the case of schools that are located in more than one State, the Secretary of the Interior may use whichever State definition of adequate yearly progress that best meets the unique circumstances and needs of such school or schools and the students the schools serve.
 
 #### (B) Waiver
 
@@ -672,7 +672,7 @@ Nothing in this section shall be construed to alter or otherwise affect the righ
 
 #### (h) Other agencies
 
-After receiving the notice described in subsection (b)(14)(D) of this section, the Secretary may notify, to the extent feasible and necessary as determined by the Secretary, other relevant Federal agencies regarding the major factorsthat were determined by the State educational agency to have significantly affected student academic achievement.
+After receiving the notice described in subsection (b)(14)(D) of this section, the Secretary may notify, to the extent feasible and necessary as determined by the Secretary, other relevant Federal agencies regarding the major factors that were determined by the State educational agency to have significantly affected student academic achievement.
 
 (Pub. L. 89–10, title I, §1116, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1478.)
 
@@ -694,7 +694,7 @@ A prior section 1116 of Pub. L. 89–10 was classified to section 6317 of this t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5891b, 6303, 6311, 6312, 6313, 6317, 6318, 6319, 6362, 6368, 6491, 6514, 6578, 6622, 6631, 6753, 6764, 7174, 7215, 7225e, 7305b, 7345b, 7351c, 7914 of this title; title 42 section 11432.
+This section is referred to in sections 5891b, 6303, 6311, 6312, 6313, 6317, 6318, 6319, 6362, 6368, 6491, 6514, 6578, 6622, 6631, 6753, 6764, 7174, 7215, 7225e, 7305b, 7345b, 7351c, 7914, 9602 of this title; title 42 section 11432.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
 

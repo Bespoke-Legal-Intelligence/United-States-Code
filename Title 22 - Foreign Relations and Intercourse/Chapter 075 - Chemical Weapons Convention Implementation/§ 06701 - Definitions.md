@@ -236,7 +236,7 @@ In this chapter:
 
 #### (14) United States
 
-&emsp;The term “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories, and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
+&emsp;The term “United States” means the several States of the United States, the District of Columbia, and the commonwealths, territories,and possessions of the United States and includes all places under the jurisdiction or control of the United States, including—
 
 &emsp;&emsp;(A) any of the places within the provisions of paragraph (41) of section 40102 of title 49;
 

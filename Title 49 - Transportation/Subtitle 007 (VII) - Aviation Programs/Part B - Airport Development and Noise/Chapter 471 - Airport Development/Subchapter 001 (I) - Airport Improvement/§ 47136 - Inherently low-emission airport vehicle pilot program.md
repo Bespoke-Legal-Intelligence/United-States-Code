@@ -34,7 +34,7 @@ Technical Assistance.—
 
 &emsp;(1)
 
-In general.—The sponsor of a public-use airport carrying out inherently low-emission vehicle activities under the pilot program may use not more than 10 percent of the amounts made available for expenditure at the airport in a fiscal year under the pilot program to receive technical assistance in carrying out such activities.
+In general.—The sponsor of a public-use airport carrying out inherently low-emission vehicle activities under the pilot program mayuse not more than 10 percent of the amounts made available for expenditure at the airport in a fiscal year under the pilot program to receive technical assistance in carrying out such activities.
 
 &emsp;(2)
 

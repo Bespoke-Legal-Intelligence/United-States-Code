@@ -6,7 +6,7 @@ Whenever it shall appear to the Commission, either upon complaint or otherwise, 
 
 #### (b) Action for injunction or criminal prosecution in district court
 
-Whenever it shall appear to the Commission that any person is engaged or about to engage inany acts or practices which constitute or will constitute a violation of the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof, the Commission may, in its discretion, bring an action in any district court of the United States, or United States court of any Territory, to enjoin such acts or practices, and upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices to the Attorney General who may, in his discretion, institute the necessary criminal proceedings under this subchapter. Any such criminal proceeding may be brought either in the district wherein the transmittal of the prospectus or security complained of begins, or in the district wherein such prospectus or security is received.
+Whenever it shall appear to the Commission that any person is engaged or about to engage in any acts or practices which constitute or will constitute a violation of the provisions of this subchapter, or of any rule or regulation prescribed under authority thereof, the Commission may, in its discretion, bring an action in any district court of the United States, or United States court of any Territory, to enjoin such acts or practices, and upon a proper showing, a permanent or temporary injunction or restraining order shall be granted without bond. The Commission may transmit such evidence as may be available concerning such acts or practices to the Attorney General who may, in his discretion, institute the necessary criminal proceedings under this subchapter. Any such criminal proceeding may be brought either in the district wherein the transmittal of the prospectus or security complained of begins, or in the district wherein such prospectus or security is received.
 
 #### (c) Writ of mandamus
 
@@ -40,7 +40,7 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (A) Payment of penalty to Treasury
 
-&emsp;&emsp;A penalty imposed under this section shall be payable into the Treasury of the United States.
+&emsp;&emsp;A penalty imposed under this section shall be payable into the Treasury of the United States, except as otherwise provided in section 7246 of this title.
 
 #### (B) Collection of penalties
 
@@ -60,15 +60,31 @@ Upon application of the Commission, the district courts of the United States and
 
 #### (e) Authority of court to prohibit persons from serving as officers and directors
 
-In any proceeding under subsection (b) of this section, the court may prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78<i>l</i> of this title or that is required to file reports pursuant to section 78<i>o</i>(d) of this title if the person's conduct demonstrates substantial unfitness to serve as an officer or director of any such issuer.
+In any proceeding under subsection (b) of this section, the court may prohibit, conditionally orunconditionally, and permanently or for such period of time as it shall determine, any person who violated section 77q(a)(1) of this title from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78<i>l</i> of this title or that is required to file reports pursuant to section 78<i>o</i>(d) of this title if the person's conduct demonstrates unfitness to serve as an officer or director of any such issuer.
 
 #### (f) Prohibition of attorneys’ fees paid from Commission disgorgement funds
 
-Except as otherwise ordered by the court upon motion by the Commission, or, in the case of an administrative action, as otherwise ordered by the Commission, funds disgorged as the result of an action brought by the Commission in Federalcourt, or as a result of any Commission administrative action, shall not be distributed as payment for attorneys’ fees or expenses incurred by private parties seeking distribution of the disgorged funds.
+Except as otherwise ordered by the court upon motion by the Commission, or, in the case of an administrative action, as otherwise ordered by the Commission, funds disgorged as the result of an action brought by the Commission in Federal court, or as a result of any Commission administrative action, shall not be distributed as payment for attorneys’ fees or expenses incurred by private parties seeking distribution of the disgorged funds.
 
-(May 27, 1933, ch. 38, title I, §20, 48 Stat. 86; Pub. L. 100–181, title II, §208, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 101–429, title I, §101, Oct. 15, 1990, 104 Stat. 932; Pub. L. 104–67, title I, §103(b)(1), Dec. 22, 1995, 109 Stat. 756.)
+#### (g) Authority of a court to prohibit persons from participating in an offering of penny stock
+
+#### (1) In general
+
+&emsp;In any proceeding under subsection (a) of this section against any person participating in, or, at the time of the alleged misconduct, who was participating in, an offering of penny stock, the court may prohibit that person from participating in an offering of penny stock, conditionally or unconditionally, and permanently or for such period of time as the court shall determine.
+
+#### (2) Definition
+
+&emsp;For purposes of this subsection, the term “person participating in an offering of penny stock” includes any person engaging in activities with a broker, dealer, or issuer for purposes of issuing, trading, or inducing or attempting to induce the purchase or sale of, any penny stock. The Commission may, by rule or regulation, define such term to include other activities, and may, by rule, regulation, or order, exempt any person or class of persons, in whole or in part, conditionally or unconditionally, from inclusion in such term.
+
+(May 27, 1933, ch. 38, title I, §20, 48 Stat. 86; Pub. L. 100–181, title II, §208, Dec. 4, 1987, 101 Stat. 1253; Pub. L. 101–429, title I, §101, Oct. 15, 1990, 104 Stat. 932; Pub. L. 104–67, title I, §103(b)(1), Dec. 22, 1995, 109 Stat. 756; Pub. L. 107–204, title III, §§305(a)(2), 308(d)(3), title VI, §603(b), July 30, 2002, 116 Stat. 779, 785, 795.)
 
 #### Amendments
+
+2002—Subsec. (d)(3)(A). Pub. L. 107–204, §308(d)(3), inserted “, except as otherwise provided in section 7246 of this title” before period at end.
+
+Subsec. (e). Pub. L. 107–204, §305(a)(2), substituted “unfitness” for “substantial unfitness”.
+
+Subsec. (g). Pub. L. 107–204, §603(b), added subsec. (g).
 
 1995—Subsec. (f). Pub. L. 104–67 added subsec. (f).
 

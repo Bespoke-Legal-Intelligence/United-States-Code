@@ -22,7 +22,7 @@ General Authority.—In carrying out this chapter, the Secretary of Transportati
 
 &emsp;(9) include in an agreement or instrument under this chapter a covenant or term the Secretary of Transportation considers necessary to carry out this chapter; and
 
-&emsp;(10) collect fees to cover the costs of training or conferences, including costs of promotional materials, sponsored by the Federal Transit Administration to promote mass transportation and credit amounts collected to the appropriation concerned.
+&emsp;(10) collect fees to cover the costs of training or conferences, including costs of promotionalmaterials, sponsored by the Federal Transit Administration to promote mass transportation and credit amounts collected to the appropriation concerned.
 
 (b)
 
@@ -198,7 +198,7 @@ In subsection (c), before clause (1), the words “In the performance of, and wi
 
 Subsection (d) is substituted for 49 App.:1608(a) (1st sentence related to 12:1749a(b) and last sentence) to eliminate unnecessary words.
 
-In subsection (e), the words “such . . . as the making of loans” are omitted as surplus. The words “under this chapter” are added for clarity. The word “related” is substituted for “in connection with such financial transactions” to eliminate unnecessary words. The words “approved by the Secretary” are omitted as surplus. The word “binding” is substituted for “final and conclusive” to eliminate unnecessary words. The words “and employees” are added for consistency in the revised title and with other titles of the United States Code.
+In subsection (e), the words “such . . . as the making of loans” are omitted as surplus. The words “under this chapter” are added for clarity. The word “related” is substituted for “in connection with such financial transactions” to eliminate unnecessary words. The words “approved by the Secretary” are omitted as surplus. The word “binding” is substituted for “final and conclusive” to eliminate unnecessary words. The words“and employees” are added for consistency in the revised title and with other titles of the United States Code.
 
 In subsection (f), before clause (1), the words “in any way” are substituted for “complete, administer, remodel and convert, dispose of, lease and otherwise” to eliminate unnecessary words. In clause (1), the words “civil or criminal” are omitted as surplus. In clause (2), the words “political subdivision of a State” are substituted for “local” for consistency.
 

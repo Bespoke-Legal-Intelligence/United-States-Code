@@ -1,10 +1,12 @@
 ### §569b. Contracts; architect and engineering services; surveying and mapping services
 
-Contracts for architect and engineering services, and surveying and mapping services, shall be awarded by the Chief of Engineers in accordance with title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.).
+Contracts for architect and engineering services, and surveying and mapping services, shall be awarded by the Chief of Engineers in accordance with title IX of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
 
 (Pub. L. 98–63, title I, §101, July 30, 1983, 97 Stat. 311.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Federal Property and Administrative Services Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Act which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

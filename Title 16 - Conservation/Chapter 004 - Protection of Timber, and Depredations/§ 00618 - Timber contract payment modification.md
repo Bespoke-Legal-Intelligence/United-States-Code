@@ -14,7 +14,7 @@
 
 (E) Timber returned to the Government pursuant to this subsection shall be available for resale by the Government upon payment, or arrangement for payment, of the buy-out charge and completion of obligations, if any, under paragraph (4)(B).
 
-(3)(A) Sums collected by the appropriate Secretary in connection with the buy-out of contracts pursuant to this subsection shall be deposited in and paid from the Treasury in the same manner as moneys received from timber sales from such lands and shall be determined as follows: The purchaser's loss on any qualifying timber sales contracts shall be determined by the Forest Service or the Bureau of Land Management by subtracting the current delivered log value (as determined by such agency) from the delivered log cost based on the current contract return (as determined by such agency) of any such contracts. If such loss is—
+(3)(A) Sums collected by the appropriate Secretary in connection with the buy-out of contracts pursuant to this subsection shall be deposited in and paid from the Treasury in the same manner as moneys received from timber sales from such lands and shall be determined asfollows: The purchaser's loss on any qualifying timber sales contracts shall be determined by the Forest Service or the Bureau of Land Management by subtracting the current delivered log value (as determined by such agency) from the delivered log cost based on the current contract return (as determined by such agency) of any such contracts. If such loss is—
 
 &emsp;(i) in excess of 100 per centum of the net book worth of the purchaser, the buy-out cost shall be $10 per one thousand board feet of currently held volume bought out;
 
@@ -50,7 +50,7 @@
 
 (7)(A) For purposes only of determining a purchaser's buy-out limitation under paragraph (2) and net worth in connection with buy-out cost under paragraph (3), concerns which are affiliates as defined under subparagraph (B) of this paragraph shall be treated as a single entity.
 
-(B) Definition of affiliates: Concerns are affiliates of each other when either directly or indirectly, one concern controls or has the power to control the other, or a third party or parties controls or has the power to control both. In determining whether or not affiliation exists, consideration shall be given to all appropriate factors, including, but not limited to, common ownership, common management, and contractual relationships.
+(B) Definition of affiliates: Concerns are affiliates of each other when either directly or indirectly, one concern controls or has the power to control the other, or a third party or partiescontrols or has the power to control both. In determining whether or not affiliation exists, consideration shall be given to all appropriate factors, including, but not limited to, common ownership, common management, and contractual relationships.
 
 (C) Definition of purchaser: For the purposes of this Act, a purchaser is the holder of a contract to purchase timber from the Secretary of Agriculture or the Secretary of the Interior.
 

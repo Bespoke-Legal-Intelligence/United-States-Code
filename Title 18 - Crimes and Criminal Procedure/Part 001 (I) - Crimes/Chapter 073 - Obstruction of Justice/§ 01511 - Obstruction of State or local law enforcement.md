@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(iii) has been or remains in substantially continuous operation for a period in excess of thirty days or has a gross revenue of $2,000 in any single day.
 
-&emsp;(2) “gambling” includes but is not limited to pool-selling, bookmaking, maintaining slot machines, roulette wheels, or dice tables, and conducting lotteries, policy, bolita or numbers games, or selling chances therein.
+&emsp;(2) “gambling” includes but is not limited to pool-selling, bookmaking, maintaining slot machines, roulette wheels, or dice tables, andconducting lotteries, policy, bolita or numbers games, or selling chances therein.
 
 &emsp;(3) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
 

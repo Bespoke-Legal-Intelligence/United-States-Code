@@ -128,6 +128,10 @@ Amendment by Pub. L. 91–291 effective June 25, 1970, see section 14(a) of Pub.
 
 Section 14(b) of Pub. L. 91–291 provided that: “The provisions of section 765(7), (8), and (9) \[now 1765(7), (8), and (9)\] of title 38, United States Code, as added by the first section of this Act shall apply only to servicemen's group life insurance in effect on the life of an insured member who dies on and after the date of enactment of this Act \[June 25, 1970\].”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Renaming of Group Life Insurance Program
 
 Section 405(a) of Pub. L. 104–275 provided that: “The program of insurance operated by the Secretary of Veterans Affairs under subchapter III of chapter 19 of title 38, United States Code, is hereby redesignated as the Servicemembers’ Group Life Insurance program.”

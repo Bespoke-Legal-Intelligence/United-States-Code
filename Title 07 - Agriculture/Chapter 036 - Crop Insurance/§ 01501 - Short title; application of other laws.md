@@ -78,7 +78,7 @@ Pub. L. 106–224, title I, §172, June 20, 2000, 114 Stat. 397, provided that: 
 
 #### Savings Clause
 
-Pub. L. 106–224, title I, §173, June 20, 2000, 114 Stat. 398, provided that: “The Federal Crop Insurance Act (7U.S.C. 1501 et seq.) and section 196 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333), as in effect on day before the date of the enactment of this Act \[June 20, 2000\], shall—
+Pub. L. 106–224, title I, §173, June 20, 2000, 114 Stat. 398, provided that: “The Federal Crop Insurance Act (7 U.S.C. 1501 et seq.) and section 196 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 7333), as in effect on day before the date of the enactment of this Act \[June 20, 2000\], shall—
 
 &emsp;“(1) continue to apply with respect to the 1999 crop year; and
 

@@ -60,7 +60,7 @@ In carrying out subsection (b) of this section, the Foundation may provide for t
 
 #### (1) Certain bylaws
 
-&emsp;(A) In establishing bylaws under subsection (e)(1) of this section, the Board shall ensure that the bylaws of the Foundation include bylaws for the following:
+&emsp;(A) In establishing bylaws under subsection (e)(1) of this section, the Board shall ensurethat the bylaws of the Foundation include bylaws for the following:
 
 &emsp;&emsp;(i) Policies for the selection of the officers, employees, agents, and contractors of the Foundation.
 
@@ -204,7 +204,7 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 &emsp;(A) For the purpose of grants under paragraph (1), there is authorized to be appropriated $500,000 for each fiscal year.
 
-&emsp;(B) For the purpose of grants under paragraph (1), the Secretary may for each fiscalyear make available not more than $500,000 from the amounts appropriated for the fiscal year for the programs of the Department of Health and Human Services. Such amounts may be made available without regard to whether amounts have been appropriated under subparagraph (A).
+&emsp;(B) For the purpose of grants under paragraph (1), the Secretary may for each fiscal year make available not more than $500,000 from the amounts appropriated for the fiscal year for the programs of the Department of Health and Human Services. Such amounts may be made available without regard to whether amounts have been appropriated under subparagraph (A).
 
 #### (3) Certain restriction
 
@@ -268,13 +268,13 @@ In carrying out subsection (e)(2) of this section, the Director shall carry out 
 
 #### (9) Grant for establishment of Committee
 
-&emsp;(A) With respect to a grant under paragraph (1)(A)(i) of subsection (i) of this section for fiscal year 1993, an entity described in this paragraph is a private nonprofit entity with significant experience in domestic and international issues of public health. Not later than 180 days after October 27, 1992, the Secretary shall make the grant to such an entity (subject to the availability of funds under paragraph (2) of such subsection).
+&emsp;(A) With respect to a grant under paragraph (1)(A)(i) of subsection (i) of this section for fiscal year 1993, an entity described in this paragraph is a private nonprofit entity with significant experience in domestic and international issues of public health. Not later than180 days after October 27, 1992, the Secretary shall make the grant to such an entity (subject to the availability of funds under paragraph (2) of such subsection).
 
 &emsp;(B) The grant referred to in subparagraph (A) may be made to an entity only if the entity agrees that—
 
 &emsp;&emsp;(i) the entity will establish a committee that is composed in accordance with paragraph (4); and
 
-&emsp;&emsp;(ii) the entity will not select an individual for membership on the Committee unless theindividual agrees that the Committee will operate in accordance with each of the provisions of this subsection that relate to the operation of the Committee.
+&emsp;&emsp;(ii) the entity will not select an individual for membership on the Committee unless the individual agrees that the Committee will operate in accordance with each of the provisions of this subsection that relate to the operation of the Committee.
 
 &emsp;(C) The Secretary may make a grant referred to in subparagraph (A) only if the applicant for the grant makes an agreement that the grant will not be expended for any purpose other than carrying out subparagraph (B). Such a grant may be made only if an application for the grant is submitted to the Secretary containing such agreement, and the application is in such form, is made in such manner, and contains such other agreements and such assurances and information as the Secretary determines to be necessary to carry out this paragraph.
 

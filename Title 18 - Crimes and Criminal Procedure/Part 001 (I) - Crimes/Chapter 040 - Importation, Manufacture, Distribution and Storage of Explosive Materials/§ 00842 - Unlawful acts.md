@@ -4,21 +4,27 @@
 
 &emsp;(1) to engage in the business of importing, manufacturing, or dealing in explosive materials without a license issued under this chapter;
 
-&emsp;(2) knowingly to withhold information or to make any false or fictitious oral or written statement or to furnish or exhibit any false, fictitious, or misrepresented identification, intended or likely to deceive for the purpose of obtaining explosive materials, or a license, permit, exemption, or relief from disability under the provisions of this chapter; and
+&emsp;(2) knowingly to withhold information or to make any false or fictitious oral or written statement or to furnish or exhibit any false, fictitious, or misrepresented identification, intended or likely to deceive for the purpose of obtaining explosive materials, or a license, permit, exemption, or relief from disability under the provisions of this chapter;
 
 &emsp;(3) other than a licensee or permittee knowingly—
 
-&emsp;&emsp;(A) to transport, ship, cause to be transported, or receive in interstate or foreign commerce any explosive materials, except that a person who lawfully purchases explosive materials from a licensee in a State contiguous to the State in which the purchaser resides may ship, transport, or cause to be transported such explosive materials to the State in which he resides and may receive such explosive materials in the State in which he resides, if such transportation, shipment, or receipt is permitted by the law of the State in which he resides; or
+&emsp;&emsp;(A) to transport, ship, cause to be transported, or receive any explosive materials; or
 
-&emsp;&emsp;(B) to distribute explosive materials to any person (other than a licensee or permittee) who the distributor knows or has reasonable cause to believe does not reside in the State in which the distributor resides.
+&emsp;&emsp;(B) to distribute explosive materials to any person other than a licensee or permittee; or
 
-(b) It shall be unlawful for any licensee knowingly to distribute any explosive materials to any person except—
+&emsp;(4) who is a holder of a limited permit—
+
+&emsp;&emsp;(A) to transport, ship, cause to be transported, or receive in interstate or foreign commerce any explosive materials; or
+
+&emsp;&emsp;(B) to receive explosive materials from a licensee or permittee, whose premises are located outside the State of residence of the limited permit holder, or on more than 6 separate occasions, during the period of the permit, to receive explosive materials from 1 or more licensees or permittees whose premises are located within the State of residence of the limited permit holder.
+
+(b) It shall be unlawful for any licensee or permittee to knowingly distribute any explosive materials to any person other than—
 
 &emsp;(1) a licensee;
 
-&emsp;(2) a permittee; or
+&emsp;(2) a holder of a user permit; or
 
-&emsp;(3) a resident of the State where distribution is made and in which the licensee is licensed to do business or a State contiguous thereto if permitted by the law of the State of the purchaser's residence.
+&emsp;(3) a holder of a limited permit who is a resident of the State where distribution is made and in which the premises of the transferor are located.
 
 (c) It shall be unlawful for any licensee to distribute explosive materials to any person who the licensee has reason to believe intends to transport such explosive materials into a State where the purchase, possession, or use of explosive materials is prohibited or which does not permit its residents to transport or ship explosive materials into it or to receive explosive materials in it.
 
@@ -32,13 +38,31 @@
 
 &emsp;(4) is a fugitive from justice;
 
-&emsp;(5) is an unlawful user of or addicted to any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)); or
+&emsp;(5) is an unlawful user of or addicted to any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802));
 
-&emsp;(6) has been adjudicated a mental defective.
+&emsp;(6) has been adjudicated a mental defective or who has been committed to a mental institution;
+
+&emsp;(7) is an alien, other than an alien who—
+
+&emsp;&emsp;(A) is lawfully admitted for permanent residence (as defined in section 101(a)(20) of the Immigration and Nationality Act); or
+
+&emsp;&emsp;(B) is in lawful nonimmigrant status, is a refugee admitted under section 207 of the Immigration and Nationality Act (8 U.S.C. 1157), or is in asylum status under section 208 of the Immigration and Nationality Act (8 U.S.C. 1158), and—
+
+&emsp;&emsp;&emsp;(i) is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of this official law enforcement business;
+
+&emsp;&emsp;&emsp;(ii) is a person having the power to direct or cause the direction of the management and policies of a corporation, partnership, or association licensed pursuant to section 843(a), and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of such power;
+
+&emsp;&emsp;&emsp;(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
+
+&emsp;&emsp;&emsp;(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;
+
+&emsp;(8) has been discharged from the armed forces under dishonorable conditions; <sup>2</sup>
+
+&emsp;(9) having been a citizen of the United States, has renounced the citizenship of that person.
 
 (e) It shall be unlawful for any licensee knowingly to distribute any explosive materials to any person in any State where the purchase, possession, or use by such person of such explosive materials would be in violation of any State law or any published ordinance applicable at the place of distribution.
 
-(f) It shall be unlawful for any licensee or permittee willfully to manufacture, import, purchase, distribute, or receive explosive materials without making such records as the Secretary may by regulation require, including, but not limited to, a statement of intended use, the name, date, place of birth, social security number or taxpayer identification number, and place of residence of any natural person to whom explosive materials are distributed. If explosive materials are distributed to a corporation or other business entity, such records shall include the identity and principal and local places of business and the name, date, place of birth, and place of residence of the natural person acting as agent of the corporation or other business entity in arranging the distribution.
+(f) It shall be unlawful for any licensee or permittee willfully to manufacture, import, purchase, distribute, or receive explosive materials without making such records as the Attorney General may by regulation require, including, but not limited to, a statement of intended use, the name, date, place of birth, social security number or taxpayer identification number, and place of residence of any natural person to whom explosive materials are distributed. If explosive materials are distributed to a corporation or other business entity, such records shall include the identity and principal and local places of business and the name, date, place of birth, and place of residence of the natural person acting as agent of the corporation or other business entity in arranging the distribution.
 
 (g) It shall be unlawful for any licensee or permittee knowingly to make any false entry in any record which he is required to keep pursuant to this section or regulations promulgated under section 847 of this title.
 
@@ -50,15 +74,33 @@
 
 &emsp;(2) who is a fugitive from justice;
 
-&emsp;(3) who is an unlawful user of or addicted to any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802)); or
+&emsp;(3) who is an unlawful user of or addicted to any controlled substance (as defined in section 102 of the Controlled Substances Act (21 U.S.C. 802));
 
 &emsp;(4) who has been adjudicated as a mental defective or who has been committed to a mental institution;
 
-> to ship or transport any explosive in interstate or foreign commerce or to receive or possess any explosive which has been shipped or transported in interstate or foreign commerce.
+&emsp;(5) who is an alien, other than an alien who—
 
-(j) It shall be unlawful for any person to store any explosive material in a manner not in conformity with regulations promulgated by the Secretary. In promulgating such regulations, the Secretary shall take into consideration the class, type, and quantity of explosive materials to be stored, as well as the standards of safety and security recognized in the explosives industry.
+&emsp;&emsp;(A) is lawfully admitted for permanent residence (as that term is defined in section 101(a)(20) of the Immigration and Nationality Act); or
 
-(k) It shall be unlawful for any person who has knowledge of the theft or loss of any explosive materials from his stock, to fail to report such theft or loss within twenty-four hours of discovery thereof, to the Secretary and to appropriate local authorities.
+&emsp;&emsp;(B) is in lawful nonimmigrant status, is a refugee admitted under section 207 of the Immigration and Nationality Act (8 U.S.C. 1157), or is in asylum status under section 208 of the Immigration and Nationality Act (8 U.S.C. 1158), and—
+
+&emsp;&emsp;&emsp;(i) is a foreign law enforcement officer of a friendly foreign government, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of State, entering the United States on official law enforcement business, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of this official law enforcement business;
+
+&emsp;&emsp;&emsp;(ii) is a person having the power to direct or cause the direction of the management and policies of a corporation, partnership, or association licensed pursuant to section 843(a), and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of such power;
+
+&emsp;&emsp;&emsp;(iii) is a member of a North Atlantic Treaty Organization (NATO) or other friendly foreign military force, as determined by the Secretary <sup>1</sup> in consultation with the Secretary of Defense, (whether or not admitted in a nonimmigrant status) who is present in the United States under military orders for training or other military purpose authorized by the United States, and the shipping, transporting, possession, or receipt of explosive materials is in furtherance of the military purpose; or
+
+&emsp;&emsp;&emsp;(iv) is lawfully present in the United States in cooperation with the Director of Central Intelligence, and the shipment, transportation, receipt, or possession of the explosive materials is in furtherance of such cooperation;
+
+&emsp;(6) who has been discharged from the armed forces under dishonorable conditions; <sup>2</sup>
+
+&emsp;(7) who, having been a citizen of the United States, has renounced the citizenship of that person <sup>3</sup>
+
+> to ship or transport any explosive in or affecting interstate or foreign commerce or to receive or possess any explosive which has been shipped or transported in or affecting interstate or foreign commerce.
+
+(j) It shall be unlawful for any person to store any explosive material in a manner not in conformity with regulations promulgated by the Attorney General. In promulgating such regulations, the Attorney General shall take into consideration the class, type, and quantity of explosive materials to be stored, as well as the standards of safety and security recognized in the explosives industry.
+
+(k) It shall be unlawful for any person who has knowledge of the theft or loss of any explosive materials from his stock, to fail to report such theft or loss within twenty-four hours of discovery thereof, to the Attorney General and to appropriate local authorities.
 
 (<i>l</i>) It shall be unlawful for any person to manufacture any plastic explosive that does not contain a detection agent.
 
@@ -74,7 +116,7 @@
 
 &emsp;(B) the shipment, transportation, transfer, receipt, or possession of any plastic explosive that was imported or brought into, or manufactured in the United States prior to the date of enactment of this subsection by or on behalf of any agency of the United States performing a military or police function (including any military reserve component) or by or on behalf of the National Guard of any State, not later than 15 years after the date of entry into force of the Convention on the Marking of Plastic Explosives, with respect to the United States.
 
-(<i>o</i>) It shall be unlawful for any person, other than an agency of the United States (including any military reserve component) or the National Guard of any State, possessing any plastic explosive on the date of enactment of this subsection, to fail to report to the Secretary within 120 days after such date of enactment the quantity of such explosives possessed, the manufacturer or importer, any marks of identification on such explosives, and such other information as the Secretary may prescribe by regulation.
+(<i>o</i>) It shall be unlawful for any person, other than an agency of the United States (including any military reserve component) or the National Guard of any State, possessing any plastic explosive on the date of enactment of this subsection, to fail to report to the Attorney General within 120 days after such date of enactment the quantity of such explosives possessed, the manufacturer or importer, any marks of identification on such explosives, and such other information as the Attorney General may prescribe by regulation.
 
 (p)
 
@@ -98,13 +140,41 @@ Prohibition.—It shall be unlawful for any person—
 
 &emsp;&emsp;(B) to teach or demonstrate to any person the making or use of an explosive, a destructive device, or a weapon of mass destruction, or to distribute to any person, by any means, information pertaining to, in whole or in part, the manufacture or use of an explosive, destructive device, or weapon of mass destruction, knowing that such person intends to use the teaching, demonstration, or information for, or in furtherance of, an activity that constitutes a Federal crime of violence.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 953; amended Pub. L. 100–690, title VI, §6474(c), (d), Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–647, title XXXV, §3521, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XI, §§110508, 110516, Sept. 13, 1994, 108 Stat. 2018, 2020; Pub. L. 104–132, title VI, §603, title VII, §707, Apr. 24, 1996, 110 Stat. 1289, 1296; Pub. L. 106–54, §2(a), Aug. 17, 1999, 113 Stat. 398.)
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 953; amended Pub. L. 100–690, title VI, §6474(c), (d), Nov. 18, 1988, 102 Stat. 4380; Pub. L. 101–647, title XXXV, §3521, Nov. 29, 1990, 104 Stat. 4923; Pub. L. 103–322, title XI, §§110508, 110516, Sept. 13, 1994, 108 Stat. 2018, 2020; Pub. L. 104–132, title VI, §603, title VII, §707, Apr. 24, 1996, 110 Stat. 1289, 1296; Pub. L. 106–54, §2(a), Aug. 17, 1999, 113 Stat. 398; Pub. L. 107–296, title XI, §§1112(e)(3), 1122(b), 1123, Nov. 25, 2002, 116 Stat. 2276, 2280, 2283.)
 
 #### References in Text
+
+Section 101(a)(20) of the Immigration and Nationality Act, referred to in subsecs. (d)(7)(A) and (i)(5)(A), is classified to section 1101(a)(20) of Title 8, Aliens and Nationality.
 
 The date of enactment of this subsection, referred to in subsecs. (m)(2), (n)(2), and (<i>o</i>), is the date of enactment of Pub. L. 104–132, which was approved Apr. 24, 1996.
 
 #### Amendments
+
+2002—Subsec. (a)(3), (4). Pub. L. 107–296, §1122(b)(1), (2), added pars. (3) and (4) and struck out former par. (3) which read as follows: “other than a licensee or permittee knowingly—
+
+&emsp;“(A) to transport, ship, cause to be transported, or receive in interstate or foreign commerce any explosive materials, except that a person who lawfully purchases explosive materials from a licensee in a State contiguous to the State in which the purchaser resides may ship, transport, or cause to be transported such explosive materials to the State in which he resides and may receive such explosive materials in the State in which he resides, if such transportation, shipment, or receipt is permitted by the law of the State in which he resides; or
+
+&emsp;“(B) to distribute explosive materials to any person (other than a licensee or permittee) who the distributor knows or has reasonable cause to believe does not reside in the State in which the distributor resides.”
+
+Subsec. (b). Pub. L. 107–296, §1122(b)(3), added subsec. (b) and struck out former subsec. (b) which read as follows: “It shall be unlawful for any licensee knowingly to distribute any explosive materials to any person except—
+
+&emsp;“(1) a licensee;
+
+&emsp;“(2) a permittee; or
+
+&emsp;“(3) a resident of the State where distribution is made and in which the licensee is licensed to do business or a State contiguous thereto if permitted by the law of the State of the purchaser's residence.”
+
+Subsec. (d)(6). Pub. L. 107–296, §1123(a)(2), substituted “or who has been committed to a mental institution;” for period at end.
+
+Subsec. (d)(7) to (9). Pub. L. 107–296, §1123(a)(1), (3), added pars. (7) to (9).
+
+Subsec. (f). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary”.
+
+Subsec. (i). Pub. L. 107–296, §1123(b)(3), inserted “or affecting” before “interstate” in two places in concluding provisions.
+
+Subsec. (i)(5) to (7). Pub. L. 107–296, §1123(b)(1), (2), added pars. (5) to (7).
+
+Subsecs. (j), (k), (<i>o</i>). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
 
 1999—Subsec. (p). Pub. L. 106–54 added subsec. (p).
 
@@ -124,11 +194,23 @@ Subsec. (i)(3). Pub. L. 101–647, §3521(2), substituted “; or” for a peri
 
 Subsec. (i)(3). Pub. L. 100–690, §6474(d), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “who is an unlawful user of or addicted to marihuana (as defined in section 4761 of the Internal Revenue Code of 1954) or any depressant or stimulant drug (as defined in section 201(v) of the Federal Food, Drug, and Cosmetic Act) or narcotic drug (as defined in section 4731(a) of the Internal Revenue Code of 1954); or”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by sections 1112(e)(3) and 1123 of Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+Amendment by section 1122(b) of Pub. L. 107–296 effective 180 days after Nov. 25, 2002, see section 1122(i) of Pub. L. 107–296, set out as a note under section 843 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by section 603 of Pub. L. 104–132 effective 1 year after Apr. 24, 1996, see section 607 of Pub. L. 104–132, set out as a note under section 841 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 843, 844, 845, 981, 982, 2332b, 2339A of this title; title 8 section 1101; title 31 section 9703.
+This section is referred to in sections 843, 844, 845, 981, 982, 2332b, 2339A of this title; title 8 section 1101.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Attorney General”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be followed by “or”.</i>
+
+<i><sup>3</sup></i><i> So in original. Probably should be followed by a semicolon.</i>
 

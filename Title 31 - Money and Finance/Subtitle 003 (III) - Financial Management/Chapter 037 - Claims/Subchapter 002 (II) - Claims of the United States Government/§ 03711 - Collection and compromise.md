@@ -66,7 +66,7 @@
 
 (5) The head of each executive agency may provide to a consumer reporting agency or commercial reporting agency information from a system of records that a person is responsible for a claim which is current, if notice required by section 552a(e)(4) of title 5 indicates that information in the system may be disclosed to a consumer reporting agency or commercial reporting agency, respectively.
 
-(f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by theSecretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
+(f)(1) The Secretary of Defense may suspend or terminate an action by the Secretary or by the Secretary of a military department under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Army, Navy, Air Force, Marine Corps, or Coast Guard during a period when the Coast Guard is operating as a service in the Navy if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
 (2) The Secretary of Transportation may suspend or terminate an action by the Secretary under subsection (a) to collect a claim against the estate of a person who died while serving on active duty as a member of the Coast Guard if the Secretary determines that, under the circumstances applicable with respect to the deceased person, it is appropriate to do so.
 
@@ -114,7 +114,7 @@
 
 &emsp;(D) refer delinquent debts to the person most appropriate to collect the type or amount of claim involved.
 
-(6) Any agency operating a debt collection center to which nontax claims are referred or transferred under this subsection may charge a fee sufficient to cover the full cost of implementing this subsection. The agency transferring or referring the nontax claim shall be charged the fee, and the agency charging the fee shall collect such fee by retaining the amount of the fee from amounts collected pursuant to this subsection. Agencies may agree to pay through a different method, or to fund an activity from another account or from revenue received from the procedure described under section 3720C of this title. Amounts charged under this subsection concerning delinquent claims may be considered as costs pursuant to section 3717(e) of this title.
+(6) Any agency operating a debt collection center to which nontax claims are referred or transferred under this subsection may charge afee sufficient to cover the full cost of implementing this subsection. The agency transferring or referring the nontax claim shall be charged the fee, and the agency charging the fee shall collect such fee by retaining the amount of the fee from amounts collected pursuant to this subsection. Agencies may agree to pay through a different method, or to fund an activity from another account or from revenue received from the procedure described under section 3720C of this title. Amounts charged under this subsection concerning delinquent claims may be considered as costs pursuant to section 3717(e) of this title.
 
 (7) Notwithstanding any other law concerning the depositing and collection of Federal payments, including section 3302(b) of this title, agencies collecting fees may retain the fees from amounts collected. Any fee charged pursuant to this subsection shall be deposited into an account to be determined by the executive department or agency operating the debt collection center charging the fee (in this subsection referred to in this section <sup>2</sup> as the “Account”). Amounts deposited in the Account shall be available until expended to cover costs associated with the implementation and operation of Governmentwide debt collection activities. Costs properly chargeable to the Account include—
 
@@ -172,7 +172,7 @@
 
 (4)(A) Within one year after the date of enactment of the Debt Collection Improvement Act of 1996, each executive agency with current and delinquent collateralized nontax debts shall report to the Congress on the valuation of its existing portfolio of loans, notes and guarantees, and other collateralized debts based on standards developed by the Director of the Office of Management and Budget, in consultation with the Secretary of the Treasury.
 
-(B) The Director of the Office of Management and Budget shall determine what information is required to be reported to comply with subparagraph (A). At a minimum, for each financing account and for each liquidating account (as those terms are defined in sections 502(7) and 502(8), respectively, of the Federal Credit Reform Act of 1990) the following information shall be reported:
+(B) The Director of the Office of Management and Budget shall determine what information isrequired to be reported to comply with subparagraph (A). At a minimum, for each financing account and for each liquidating account (as those terms are defined in sections 502(7) and 502(8), respectively, of the Federal Credit Reform Act of 1990) the following information shall be reported:
 
 &emsp;(i) The cumulative balance of current debts outstanding, the estimated net present value of such debts, the annual administrative expenses of those debts (including the portion of salaries and expenses that are directly related thereto), and the estimated net proceeds that would be received by the Government if such debts were sold.
 
@@ -180,7 +180,7 @@
 
 &emsp;(iii) The cumulative balance of guaranteed loans outstanding, the estimated net present value of such guarantees, the annual administrative expenses of such guarantees (including the portion of salaries and expenses that are directly related to such guaranteed loans), and the estimated net proceeds that would be received by the Government if such loan guarantees were sold.
 
-&emsp;(iv) The cumulative balance of defaulted loans that were previously guaranteed and have resulted in loans receivables, the estimated net present value of such loan assets, the annual administrative expenses of such loan assets (including the portion of salaries and expenses that are directly related to suchloan assets), and the estimated net proceeds that would be received by the Government if such loan assets were sold.
+&emsp;(iv) The cumulative balance of defaulted loans that were previously guaranteed and have resulted in loans receivables, the estimated net present value of such loan assets, the annual administrative expenses of such loan assets (including the portion of salaries and expenses that are directly related to such loan assets), and the estimated net proceeds that would be received by the Government if such loan assets were sold.
 
 &emsp;(v) The marketability of all debts.
 
@@ -339,6 +339,10 @@ Subsec. (i). Pub. L. 104–134, §31001(p), added subsec. (i).
 #### Savings Provision
 
 Section 31001(n) of Pub. L. 104–134 provided that: “Effective October 1, 1995, section 11 of the Administrative Dispute Resolution Act (Public Law 101–552, \[former\] 5 U.S.C. 571 note) shall not apply to the amendment made by section 8(b) of such Act \[amending this section\].”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Guidelines
 

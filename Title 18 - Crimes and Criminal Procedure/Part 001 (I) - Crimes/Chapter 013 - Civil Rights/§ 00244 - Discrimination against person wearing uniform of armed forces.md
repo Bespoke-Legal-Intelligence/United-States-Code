@@ -1,6 +1,6 @@
 ### §244. Discrimination against person wearing uniform of armed forces
 
-Whoever, being a proprietor, manager, or employee of a theater or other public place of entertainment or amusement in the District of Columbia, or in any Territory, or Possession of the United States, causes any person wearing theuniform of any of the armed forces of the United States to be discriminated against because of that uniform, shall be fined under this title.
+Whoever, being a proprietor, manager, or employee of a theater or other public place of entertainment or amusement in the District of Columbia, or in any Territory, or Possession of the United States, causes any person wearing the uniform of any of the armed forces of the United States to be discriminated against because of that uniform, shall be fined under this title.
 
 (June 25, 1948, ch. 645, 62 Stat. 697; May 24, 1949, ch. 139, §5, 63 Stat. 90; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
 

@@ -56,13 +56,13 @@ Eligibility to Prepay.—Notwithstanding subsections (c), (d), and (e) of sectio
 
 Priority for Approval.—In determining which borrowers shall be permitted to prepay loans under subsection (a):
 
-&emsp;“(1) The Administrator of the Rural Electrification Administration shall give priority to those 8 borrowers that were determined by the Administrator, prior to the date of the enactment of this Act \[Dec. 22,1987\], to be eligible to prepay, or that prepaid, an advance under section 306A of such Act \[7 U.S.C. 936a\] (as in effect prior to the date of the enactment of this Act), except that to retain such priority a borrower shall—
+&emsp;“(1) The Administrator of the Rural Electrification Administration shall give priority to those 8 borrowers that were determined by the Administrator, prior to the date of the enactment of this Act \[Dec. 22, 1987\], to be eligible to prepay, or that prepaid, an advance under section 306A of such Act \[7 U.S.C. 936a\] (as in effect prior to the date of the enactment of this Act), except that to retain such priority a borrower shall—
 
 &emsp;&emsp;“(A) notify the Administrator in writing, within 30 days after the issuance of regulations to carry out this section, of the intent of the borrower to prepay; and
 
 &emsp;&emsp;“(B) complete such prepayment by disbursing funds to the Federal Financing Bank to prepay loan advances within 120 days after the issuance of such regulations.
 
-&emsp;“(2) In considering requests for prepayment under subsection (a) by borrowers not described in paragraph (1), the Administrator shall permit prepayment based on the order in which borrowers are prepared to disburse funds to the Federal Financing Bank to complete such prepayments. If more than 1 borrower is so prepared at the same time, and if the combined amount of such prepayments would cause the total amount of prepayments during fiscal year 1988, under this section, to exceed $2,000,000,000, the Administrator shall—
+&emsp;“(2) In considering requests for prepayment under subsection (a) by borrowers not described in paragraph (1), the Administrator shall permit prepayment based on the order in which borrowers are prepared to disburse funds to the Federal Financing Bank to complete such prepayments. If more than 1 borrower is so prepared at the same time, and if the combined amount of such prepayments would cause the totalamount of prepayments during fiscal year 1988, under this section, to exceed $2,000,000,000, the Administrator shall—
 
 &emsp;&emsp;“(A) base the determination on the date on which prepayment applications have been submitted; or
 

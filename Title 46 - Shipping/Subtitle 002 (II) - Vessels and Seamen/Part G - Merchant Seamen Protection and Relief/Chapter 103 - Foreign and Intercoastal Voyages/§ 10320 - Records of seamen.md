@@ -20,3 +20,7 @@ Section 10320 authorizes the Secretary to provide for the maintenance of records
 
 1993—Pub. L. 103–206 amended heading and text of section generally. Prior to amendment, text read as follows: “The Secretary may prescribe regulations for reporting by a master of matters about the engagement, discharge, or service of seamen that may be needed in keeping central records of seamen.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

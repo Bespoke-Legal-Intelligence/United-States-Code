@@ -4,7 +4,7 @@
 
 (b) The Comptroller General shall submit each audit report to Congress and (other than the audit reports of the District of Columbia Courts) the Mayor and Council of the District of Columbia. The report shall include the scope of an audit, information the Comptroller General considers necessary to keep Congress, the Mayor, and the Council informed of operations audited, and recommendations the Comptroller General considers advisable.
 
-(c)(1) By the 90th day after receiving an audit report from the Comptroller General, the Mayor shall state in writing to the Council measures the District of Columbia government is taking to comply with the recommendations of the Comptroller General. A copy of the statement shall be sent to Congress.
+(c)(1) By the 90th day after receiving an audit report from the Comptroller General, the Mayorshall state in writing to the Council measures the District of Columbia government is taking to comply with the recommendations of the Comptroller General. A copy of the statement shall be sent to Congress.
 
 (2) After the Council receives the statement of the Mayor, the Council may make available for public inspection the report of the Comptroller General and other material the Council considers pertinent.
 
@@ -70,7 +70,7 @@ Section 2(e) of Pub. L. 102–102 provided that: “The amendments made by this 
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which the requirement to submit annual audit reports to Congress under subsec. (b) of this section is listed on page 4), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the requirement to submit annual audit reports to Congress under subsec. (b) of this section is listed on page 4), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of this title.
 
 #### Abolition of House Committee on the District of Columbia
 

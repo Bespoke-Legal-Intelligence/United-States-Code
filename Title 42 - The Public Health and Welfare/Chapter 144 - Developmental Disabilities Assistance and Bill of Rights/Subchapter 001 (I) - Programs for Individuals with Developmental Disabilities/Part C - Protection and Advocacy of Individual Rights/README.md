@@ -2,7 +2,7 @@ Part C—Protection and Advocacy of Individual Rights
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1396r, 1396u, 3058g, 10802, 14404, 15004, 15005, 15024, 15083 of this title; title 29 section 794e, 1396r, 3002.
+This part is referred to in sections 1396r, 1396u, 3058g, 10802, 14404, 15004, 15005, 15024, 15083, 15461, 15462 of this title; title 29 section 794e, 1396r, 3002.
 
 
 ---

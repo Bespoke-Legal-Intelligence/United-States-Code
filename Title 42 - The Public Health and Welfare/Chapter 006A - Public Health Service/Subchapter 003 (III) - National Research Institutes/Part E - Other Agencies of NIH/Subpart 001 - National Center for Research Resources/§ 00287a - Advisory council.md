@@ -38,7 +38,7 @@
 
 #### (c) Term of office; vacancy; reappointment
 
-The term of office of an appointed member of the advisory council is four years, except that any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and the Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members do not all expire in the same year. A member may serve after the expiration of the member's term until a successor has taken office. A member who has been appointed for a term of four years may not be reappointed to anadvisory council before two years from the date of expiration of such term of office. If a vacancy occurs in the advisory council among the appointed members, the Secretary shall make an appointment to fill the vacancy within 90 days from the date the vacancy occurs.
+The term of office of an appointed member of the advisory council is four years, except that any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term and the Secretary shall make appointments to an advisory council in such a manner as to ensure that the terms of the members do not all expire in the same year. A member may serve after the expiration of the member's term until a successor has taken office. A member who has been appointed for a term of four years may not be reappointed to an advisory council before two years from the date of expiration of such term of office. If a vacancy occurs in the advisory council among the appointed members, the Secretary shall make an appointment to fill the vacancy within 90 days from the date the vacancy occurs.
 
 #### (d) Chairman; selection; term of office
 
@@ -66,7 +66,7 @@ This section does not terminate the membership of the advisory council for the C
 
 &emsp;(3) the Director of the Center shall perform for such advisory council the functions prescribed by this section.
 
-(July 1, 1944, ch. 373, title IV, §480, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 864; amended Pub. L. 101–381, title I, §102(3), Aug. 18, 1990, 104 Stat. 586; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title XV, §1501(2)(C), (D), title XX, §§2008(b)(12), 2010(b)(4), June 10, 1993, 107 Stat. 172, 173, 211, 214.)
+(July 1, 1944, ch. 373, title IV, §480, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 864; amended Pub. L. 101–381, title I, §102(3), Aug. 18, 1990, 104 Stat. 586; Pub. L. 102–405, title III, §302(e)(1), Oct. 9, 1992, 106 Stat. 1985; Pub. L. 103–43, title XV,§1501(2)(C), (D), title XX, §§2008(b)(12), 2010(b)(4), June 10, 1993, 107 Stat. 172, 173, 211, 214.)
 
 #### Amendments
 

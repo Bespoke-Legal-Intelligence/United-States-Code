@@ -10,7 +10,7 @@ The Commission shall issue such licenses on a nonexclusive basis to persons appl
 
 #### (c) License period
 
-Each such license shall be issued for a specified period, as determined by the Commission, depending on the type of activity to be licensed,but not exceeding forty years, and may be renewed upon the expiration of such period.
+Each such license shall be issued for a specified period, as determined by the Commission, depending on the type of activity to be licensed, but not exceeding forty years, and may be renewed upon the expiration of such period.
 
 #### (d) Limitations
 
@@ -26,7 +26,7 @@ Each license issued for a utilization facility under this section or section 213
 
 1980—Subsec. (f). Pub. L. 96–295 added subsec. (f).
 
-1970—Subsec. (a). Pub. L. 91–560 struck out requirement of a finding of practical value under section 2132 and substituted “utilization and production facilities for industrial or commercial purposes” for “such type of utilization or production facility”.
+1970—Subsec. (a). Pub. L. 91–560 struck out requirement of a finding of practical value under section 2132and substituted “utilization and production facilities for industrial or commercial purposes” for “such type of utilization or production facility”.
 
 1956—Subsec. (a). Act Aug. 6, 1956, §12, inserted “use,” after “possess,”.
 

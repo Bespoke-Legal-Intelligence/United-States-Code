@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “Optional” for “Experimental” in section catchline and amended text generally. Prior to amendment, text read as follows:
+1992—Pub. L. 102–572 substituted “Optional” for “Experimental” in section catchline and amended text generally. Prior to amendment, text read as follows:
 
 “(a) The Judicial Conference of the United States is hereby authorized to develop and conduct an experiment in which jurors serving in a limited number of United States district courts shall be qualified and summoned in a single procedure, in lieu of the two separate procedures otherwise provided for by this chapter. The Judicial Conference shall designate the district courts to participate in this experiment, but in no event shall the number of courts participating exceed ten. An experiment may be conducted pursuant to this section for a period not to exceed 2 years. The Judicial Conference shall ensure that an experiment conducted pursuant to this section does not violate the policies and objectives set forth in sections 1861 and 1862 of this title, and shall terminate the experiment immediately if it determines that these policies and objectives are being violated or whenever in its judgment good cause for such termination exists.
 
@@ -20,5 +20,5 @@ Amendment by Pub. L. 102–572 effective Jan. 1, 1993, see section 1101(a) of Pu
 
 #### Savings Provision
 
-Section 403(c) of Pub. L. 102–572 provided that: “For courts participating in the experiment authorized under section 1878 of title 28, United States Code (as in effect before the effective date of this section \[Jan. 1, 1993\]), the amendment made by subsection (a) of thissection \[amending this section\] shall be effective on and after January 1, 1992.”
+Section 403(c) of Pub. L. 102–572 provided that: “For courts participating in the experiment authorized under section 1878 of title 28, United States Code (as in effect before the effective date of this section \[Jan. 1, 1993\]), the amendment made by subsection (a) of this section \[amending this section\] shall be effective on and after January 1, 1992.”
 

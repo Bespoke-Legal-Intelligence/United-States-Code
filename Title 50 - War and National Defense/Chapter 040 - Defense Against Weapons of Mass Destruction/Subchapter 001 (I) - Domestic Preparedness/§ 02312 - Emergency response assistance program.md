@@ -54,7 +54,7 @@ Assistance available under this program shall include the following:
 
 &emsp;(4) Loan of appropriate equipment.
 
-&emsp;(5) A conveyance of ownership of United States property to a State or local government, without cost and without regard to subsection (f) of this section and title II of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 481 et seq.\] (or any other provision of law relating to the disposal of property of the United States), if the property is equipment, or equipment and related materials, that is in the possession of the State orlocal government on December 28, 2001, pursuant to a loan of the property as assistance under this section.
+&emsp;(5) A conveyance of ownership of United States property to a State or local government, without cost and without regard to subsection (f) of this section and title II of the Federal Property and Administrative Services Act of 1949 <sup>1</sup> (or any other provision of law relating to the disposal of property of the United States), if the property is equipment, or equipment and related materials, that is in the possession of the State or local government on December 28, 2001, pursuant to a loan of the property as assistance under this section.
 
 #### (f) Limitations on Department of Defense assistance to law enforcement agencies
 
@@ -76,13 +76,57 @@ The Secretary of Defense shall designate an official within the Department of De
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (e)(5), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of the Act is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (e)(5), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of the Act, which was classified principally to subchapter II (§§481, 483, 484, 485, 486, 487 to 490, 491, 492 et seq.) of chapter 10 and section 758 of former Title 40, Public Buildings, Property, and Works, was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304, the first section of which enacted Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 Section 301, referred to in subsec. (h)(1), (3), is section 301 of Pub. L. 104–201, div. A, title III, Sept. 23, 1996, 110 Stat. 2475, which is not classified to the Code.
 
 #### Amendments
 
 2001—Subsec. (e)(5). Pub. L. 107–107 added par. (5).
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Transfer of Technology Items and Equipment in Support of Homeland Security
+
+Pub. L. 107–314, div. A, title XIV, §1401, Dec. 2, 2002, 116 Stat. 2674, provided that:
+
+“(a)
+
+Responsible Senior Official.—The Secretary of Defense shall designate a senior official of the Department of Defense to coordinate all Department of Defense efforts to identify, evaluate, deploy, and transfer to Federal, State, and local first responders technology items and equipment in support of homeland security.
+
+“(b)
+
+Duties.—The official designated pursuant to subsection (a) shall—
+
+&emsp;“(1) identify technology items and equipment developed or being developed by Department of Defense components that have the potential to enhance public safety and improve homeland security;
+
+&emsp;“(2) cooperate with appropriate Federal Government officials outside the Department of Defense to evaluate whether such technology items and equipment would be useful to first responders;
+
+&emsp;“(3) facilitate the timely transfer, through identification of appropriate private sector manufacturers, of appropriate technology items and equipment to Federal, State, and local first responders, in coordination with appropriate Federal Government officials outside the Department of Defense;
+
+&emsp;“(4) identify and eliminate redundant and unnecessary research efforts within the Department of Defense with respect to technologies to be deployed to first responders;
+
+&emsp;“(5) expedite the advancement of high priority Department of Defense projects from research through implementation of initial manufacturing; and
+
+&emsp;“(6) participate in outreach programs established by appropriate Federal Government officials outside the Department of Defense to communicate with first responders and to facilitate awareness of available technology items and equipment to support responses to crises.
+
+“(c)
+
+Support Agreement.—The official designated pursuant to subsection (a) shall enter into an appropriate agreement with a nongovernment entity for such entity to assist the official designated under subsection (a) in carrying out that official's duties under this section. Any such agreement shall be entered into using competitive procedures in compliance with applicable requirements of law and regulation.
+
+“(d)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Dec. 2, 2002\], the Secretary of Defense shall submit to the congressional defense committees \[Committees on Armed Services and Appropriations of the Senate and the House of Representatives\] a report on the actions taken to carry out this section. The report shall include the following:
+
+&emsp;“(1) Identification of the senior official designated pursuant to subsection (a).
+
+&emsp;“(2) A summary of the actions taken or planned to be taken to implement subsection (b), including a schedule for planned actions.
+
+&emsp;“(3) An initial list of technology items and equipment identified pursuant to subsection (b)(1), together with a summary of any program schedule for the development, deployment, or transfer of such items and equipment.
+
+&emsp;“(4) A description of any agreement entered into pursuant to subsection (c).”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

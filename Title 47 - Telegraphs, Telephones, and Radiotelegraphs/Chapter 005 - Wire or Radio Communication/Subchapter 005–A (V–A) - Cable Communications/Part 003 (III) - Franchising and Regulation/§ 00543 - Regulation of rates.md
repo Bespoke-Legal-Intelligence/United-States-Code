@@ -16,7 +16,7 @@
 
 #### (3) Qualification of franchising authority
 
-&emsp;A franchising authority that seeks to exercise the regulatory jurisdiction permittedunder paragraph (2)(A) shall file with the Commission a written certification that—
+&emsp;A franchising authority that seeks to exercise the regulatory jurisdiction permitted under paragraph (2)(A) shall file with the Commission a written certification that—
 
 &emsp;&emsp;(A) the franchising authority will adopt and administer regulations with respect to the rates subject to regulation under this section that are consistent with the regulations prescribed by the Commission under subsection (b) of this section;
 
@@ -136,7 +136,7 @@
 
 #### (B) Exception; limitation
 
-&emsp;&emsp;The prohibition in subparagraph (A) shall not apply to a cable system that, by reason of the lack of addressable converter boxes or other technological limitations, does not permit the operator to offer programming on a per channel or per program basis in the same manner required by subparagraph (A).This subparagraph shall not be available to any cable operator after—
+&emsp;&emsp;The prohibition in subparagraph (A) shall not apply to a cable system that, by reason of the lack of addressable converter boxes or other technological limitations, does not permit the operator to offer programming on a per channel or per program basis in the same manner required by subparagraph (A). This subparagraph shall not be available to any cable operator after—
 
 &emsp;&emsp;&emsp;(i) the technology utilized by the cable system is modified or improved in a way that eliminates such technological limitation; or
 
@@ -144,7 +144,7 @@
 
 #### (C) Waiver
 
-&emsp;&emsp;If, in any proceeding initiated at the request of any cable operator, the Commission determines that compliance with the requirements of subparagraph (A) would require the cable operator to increase its rates, the Commission may, to the extent consistent with the public interest, grant such cable operator a waiver from such requirements for such specified period as the Commission determines reasonable and appropriate.
+&emsp;&emsp;If, in any proceeding initiated at the request of any cable operator, the Commission determines that compliance with the requirements of subparagraph (A) would require the cable operator to increase its rates, the Commission may, to the extentconsistent with the public interest, grant such cable operator a waiver from such requirements for such specified period as the Commission determines reasonable and appropriate.
 
 #### (c) Regulation of unreasonable rates
 
@@ -200,7 +200,7 @@ A cable operator shall not charge a subscriber for any service or equipment that
 
 #### (g) Collection of information
 
-The Commission shall, by regulation, require cable operators to file with the Commission or a franchising authority, as appropriate, within one year after October 5, 1992, and annually thereafter, such financial information as may be needed for purposes of administering and enforcing this section.
+The Commission shall, by regulation, require cable operators to file with the Commission or a franchising authority, as appropriate, withinone year after October 5, 1992, and annually thereafter, such financial information as may be needed for purposes of administering and enforcing this section.
 
 #### (h) Prevention of evasions
 

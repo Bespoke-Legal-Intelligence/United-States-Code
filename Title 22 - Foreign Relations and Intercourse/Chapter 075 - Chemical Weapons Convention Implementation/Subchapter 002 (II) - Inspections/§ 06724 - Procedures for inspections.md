@@ -18,7 +18,7 @@ Each inspection of a plant, plant site, or other facility or location in the Uni
 
 #### (A) In general
 
-&emsp;&emsp;The notice under paragraph (1) shall include all appropriate information suppliedby the Technical Secretariat to the United States National Authority concerning—
+&emsp;&emsp;The notice under paragraph (1) shall include all appropriate information supplied by the Technical Secretariat to the United States National Authority concerning—
 
 &emsp;&emsp;&emsp;(i) the type of inspection;
 

@@ -1,0 +1,28 @@
+### §17903. Purchase of electric power
+
+For purposes of economy, efficiency, and conserving oil and natural gas, the head of a federal agency, when practicable and consistent with other laws and requirements applicable to that agency, shall endeavor to purchase electric energy from a non-federal person for consumption in Alaska by a facility of that agency when (taking into account the remaining useful life of any facility available to that agency to generate electric energy for that agency and the cost of maintaining the facility on a standby basis) the purchase will result in—
+
+&emsp;(1) a savings to other consumers of electric energy sold by that non-federal person without increasing the cost incurred by any federal agency for electric energy; or
+
+&emsp;(2) a cost savings to the federal agency purchasing the electric energy without increasing costs to other consumers of electric energy.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1289.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+17903
+
+40:795b.
+
+Pub. L. 96–571, §4, Dec. 22, 1980, 94 Stat. 3342.
+
+In this section, before clause (1), the words “electric energy” are substituted for “electric power” for consistency in the revised section.
+

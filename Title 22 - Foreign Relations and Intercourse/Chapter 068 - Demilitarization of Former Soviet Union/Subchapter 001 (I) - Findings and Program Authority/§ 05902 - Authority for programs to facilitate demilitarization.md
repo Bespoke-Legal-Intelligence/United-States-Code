@@ -16,7 +16,7 @@ The programs referred to in subsection (a) of this section are limited to—
 
 &emsp;(4) facilitating the demilitarization of the defense industries of the former Soviet Union and the conversion of military technologies and capabilities into civilian activities;
 
-&emsp;(5) establishing science and technology centers in the independent states of the formerSoviet Union for the purpose of engaging weapons scientists, engineers, and other experts previously involved with nuclear, chemical, and other weapons in productive, nonmilitary undertakings; and
+&emsp;(5) establishing science and technology centers in the independent states of the former Soviet Union for the purpose of engaging weapons scientists, engineers, and other experts previously involved with nuclear, chemical, and other weapons in productive, nonmilitary undertakings; and
 
 &emsp;(6) expanding military-to-military contacts between the United States and the independent states of the former Soviet Union.
 

@@ -12,7 +12,7 @@ The Secretary is authorized to award a grant, on a competitive basis, to an elig
 
 &emsp;&emsp;(A) An institution eligible for assistance under part B of subchapter III of this chapter.
 
-&emsp;&emsp;(B) An institution of higher education which serves substantial numbers of African American or other underrepresented minority students.
+&emsp;&emsp;(B) An institution of higher education which serves substantial numbers of AfricanAmerican or other underrepresented minority students.
 
 &emsp;&emsp;(C) An institution of higher education with programs in training foreign service professionals.
 

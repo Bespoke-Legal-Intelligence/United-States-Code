@@ -2,7 +2,7 @@
 
 #### (a) Establishment and membership
 
-Notwithstanding any other provision of law, the Special Trustee shall establish an advisory board to provide advice on all matters within the jurisdiction of the Special Trustee. The advisory board shall consist of nine members, appointed by the Special Trustee after consultation with Indian tribes and appropriate Indian organizations, of which—
+Notwithstanding any other provision of law, the Special Trustee shall establish an advisory board to provide advice on all matters withinthe jurisdiction of the Special Trustee. The advisory board shall consist of nine members, appointed by the Special Trustee after consultation with Indian tribes and appropriate Indian organizations, of which—
 
 &emsp;(1) five members shall represent trust fund account holders, including both tribal and Individual Indian Money accounts;
 

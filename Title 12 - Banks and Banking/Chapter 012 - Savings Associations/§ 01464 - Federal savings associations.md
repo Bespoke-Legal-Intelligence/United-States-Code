@@ -1834,7 +1834,7 @@ Amendment of this section by section 102 of Pub. L. 96–161, cited as a credit 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1422b, 1462, 1463, 1467, 1467a, 1813, 1817, 1818, 1821, 1823, 1828, 1831e, 1831<i>o</i> of this title; title 15 sections 18a, 78<i>o</i>–5; title 31 sections 3121, 9110.
+This section is referred to in sections 1422b, 1462, 1463, 1467, 1467a, 1813, 1817, 1818, 1821, 1823, 1828, 1831e, 1831<i>o</i> of this title; title 15 sections 18a, 78m, 78<i>o</i>–5; title 31 sections 3121, 9110.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -4,7 +4,7 @@
 
 Bonus Authorized.—(1) A medical officer described in subsection (b) who executes a written agreement to remain on active duty for two, three, or four years after completion of any other active-duty service commitment may, upon acceptance of the written agreement by the Secretary of the military department concerned, be paid a retention bonus as provided in this section.
 
-(2) The amount of a retention bonus under paragraph (1) may not exceed $14,000 for each year covered by a four-year agreement. The maximum yearly retention bonus for two-year and three-year agreements shall be reduced to reflect the shorter service commitment.
+(2) The amount of a retention bonus under paragraph (1) may not exceed $50,000 for each year covered by a four-year agreement. The maximum yearly retention bonus for two-year and three-year agreements shall be reduced to reflect the shorter service commitment.
 
 (b)
 
@@ -26,13 +26,19 @@ Refunds.—(1) Refunds shall be required, on a pro rata basis, of sums paid unde
 
 (3) A discharge in bankruptcy under title 11, United States Code, that is entered less than five years after the termination of an agreement under this section does not discharge the member signing such agreement from a debt arising under such agreement or under paragraph (1). This paragraph applies to any case commenced under title 11 after November 5, 1990.
 
-(Added Pub. L. 101–510, div. A, title VI, §611(a)(1), Nov. 5, 1990, 104 Stat. 1576; amended Pub. L. 102–484, div. A, title X, §1054(a)(2), Oct. 23, 1992, 106 Stat. 2502.)
+(Added Pub. L. 101–510, div. A, title VI, §611(a)(1), Nov. 5, 1990, 104 Stat. 1576; amended Pub. L. 102–484, div. A, title X, §1054(a)(2), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 107–314, div. A, title VI, §615(a), Dec. 2, 2002, 116 Stat. 2568.)
 
 #### Amendments
+
+2002—Subsec. (a)(2). Pub. L. 107–314 substituted “$50,000” for “$14,000”.
 
 1992—Subsec. (c)(2). Pub. L. 102–484, §1054(a)(2)(A), substituted “owed” for “owned”.
 
 Subsec. (c)(3). Pub. L. 102–484, §1054(a)(2)(B), substituted “November 5, 1990” for “the date of the enactment of the National Defense Authorization Act for Fiscal Year 1991”.
+
+#### Application of Increase
+
+Pub. L. 107–314, div. A, title VI, §615(i), Dec. 2, 2002, 116 Stat. 2569, provided that: “In the case of an amendment made by this section \[amending sections 301d, 301e, 302, 302a, 302d, 302e, and 302i of this title and section 2130a of Title 10, Armed Forces\] to increase the maximum amount of a special pay or bonus that may be paid during any 12-month period, the amended limitation shall apply to 12-month periods beginning after September 30, 2002.”
 
 #### Eligibility of Flag and General Officers for Multiyear Retention Bonus for Medical Officers
 

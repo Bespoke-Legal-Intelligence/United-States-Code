@@ -26,6 +26,10 @@ Nothing in this section shall be construed to diminish or qualify any penalties 
 
 Section 308(c) of div. C of Pub. L. 104–208 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply to actions occurring on or after the title III–A effective date (as defined in section 309(a) of this division \[set out as a note under section 1101 of this title\]).”
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
 For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.

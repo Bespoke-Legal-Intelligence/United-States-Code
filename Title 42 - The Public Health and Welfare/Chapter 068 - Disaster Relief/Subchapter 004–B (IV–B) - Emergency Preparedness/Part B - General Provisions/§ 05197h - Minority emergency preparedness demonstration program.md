@@ -22,7 +22,7 @@ A recipient of a grant, contract, or cooperative agreement awarded under this se
 
 &emsp;(1) acquire expert professional services necessary to conduct research in communities predominately populated by minority citizens, with a primary emphasis on African American and Hispanic communities;
 
-&emsp;(2) develop and prepare informational materials to promote awareness among minority communities about emergency preparedness and how to protect their households and communities in advance of disasters;
+&emsp;(2) develop and prepare informational materials to promote awareness among minoritycommunities about emergency preparedness and how to protect their households and communities in advance of disasters;
 
 &emsp;(3) establish consortia with minority national organizations, minority institutions of higher education, and faith-based institutions to disseminate information about emergency preparedness to minority communities; and
 
@@ -41,4 +41,8 @@ There is authorized to be appropriated to carry out this section $1,500,000 for 
 #### References in Text
 
 Subparagraph (A), (B), or (C) of section 1063b(e)(1) of title 20, referred to in subsec. (d)(4), was in the original “subparagraph (A), (B), or (C) of section 326 of that Act (20 U.S.C. 1063b(e)(1)(A), (B), or (C))”, which was translated as reading “subparagraph (A), (B), or (C) of section 326(e)(1) of that Act (20 U.S.C. 1063b(e)(1)(A), (B), or (C))” to reflect the probable intent of Congress.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -2,13 +2,13 @@
 
 #### (a) Authorization and conditions
 
-The Secretary is authorized to make and insure loans under this subchapter to farmers andranchers in the United States, and to farm cooperatives and private domestic corporations, partnerships, and joint operations that are controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, subject to the conditions specified in this section. To be eligible for such loans, applicants who are individuals, or, in the case of cooperatives, corporations, partnerships, and joint operations, individuals holding a majority interest in such entity, must (1) be citizens of the United States, (2) for direct loans only, have either training or farming experience that the Secretary determines is sufficient to assure reasonable prospects of success in the proposed farming operations, (3) be or will become owner-operators of not larger than family farms (or in the case of cooperatives, corporations, partnerships, and joint operations in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, such individuals must be or will become either owners or operators of not larger than a family farm and at least one such individual must be or will become an operator of not larger than a family farm or, in the case of holders of the entire interest who are related by blood or marriage and all of whom are or will become farm operators, the ownership interest of each such holder separately constitutes not larger than a family farm, even if their interests collectively constitute larger than a family farm, as defined by the Secretary), and (4) be unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time. In addition to the foregoing requirements of this section, in the case of corporations, partnerships, and joint operations, the family farm requirement of clause (3) of the preceding sentence shall apply as well to the farm or farms in which the entity has an ownership and operator interest and the requirement of clause (4) of the preceding sentence shall apply as well to the entity in the case of cooperatives, corporations, partnerships, and joint operations.
+The Secretary is authorized to make and insure loans under this subchapter to farmers and ranchers in the United States, and to farm cooperatives and private domestic corporations, partnerships, joint operations, trusts, and limited liability companies that are controlled by farmers and ranchers and engaged primarily and directly in farming or ranching in the United States, subject to the conditions specified in this section. To be eligible for such loans, applicants who are individuals, or, in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies, individuals holding a majority interest in such entity, must (1) be citizens of the United States, (2) for direct loans only, have either training or farming experience that the Secretary determines is sufficient to assure reasonable prospects of success in the proposed farming operations, (3) be or will become owner-operators of not larger than family farms (or in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies in which a majority interest is held by individuals who are related by blood or marriage, as defined by the Secretary, such individuals must be or will become either owners or operators of not larger than a family farm and at least one such individual must be or will become an operator of not larger than a family farm or, in the case of holders of the entire interest who are related by blood or marriage and all of whom are or will become farm operators, the ownership interest of each such holder separately constitutes not larger than a family farm, even if their interests collectively constitute larger than a family farm, as defined by the Secretary), and (4) be unable to obtain sufficient credit elsewhere to finance their actual needs at reasonable rates and terms, taking into consideration prevailing private and cooperative rates and terms in the community in or near which the applicant resides for loans for similar purposes and periods of time. In addition to the foregoing requirements of this section, in the case of corporations, partnerships, joint operations, trusts, and limited liability companies, the family farm requirement of clause (3) of the preceding sentence shall apply as well to the farm or farms in which the entity has an ownership and operator interest and the requirement of clause (4) of the preceding sentence shall apply as well to the entity in the case of cooperatives, corporations, partnerships, joint operations, trusts, and limited liability companies.
 
 #### (b) Direct loans
 
 #### (1) In general
 
-&emsp;Subject to paragraph (3), the Secretary may make a direct loan under this subchapter only to a farmer or rancher who has operated a farm or ranch for not less than 3 years and—
+&emsp;Subject to paragraph (3), the Secretary may make a direct loan under this subchapter only to a farmer or rancher who has participated in the business operations of a farm or ranch for not less than 3 years and—
 
 &emsp;&emsp;(A) is a qualified beginning farmer or rancher;
 
@@ -38,9 +38,13 @@ The Secretary is authorized to make and insure loans under this subchapter to fa
 
 &emsp;&emsp;Beginning with fiscal year 2000 not later than 12 months before a borrower will become ineligible for direct loans under this subchapter by reason of this paragraph, the Secretary shall notify the borrower of such impending ineligibility.
 
-(Pub. L. 87–128, title III, §302, Aug. 8, 1961, 75 Stat. 307; Pub. L. 91–620, §2, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 95–334, title I, §101, Aug. 4, 1978, 92 Stat. 420; Pub. L. 97–98, title XVI, §1601(a), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§1301(a), 1302(a), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519; Pub. L. 104–127, title VI, §601, Apr. 4, 1996, 110 Stat. 1084; Pub. L. 105–277, div. A, §101(a) \[title VIII, §§804, 805(1)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39.)
+(Pub. L. 87–128, title III, §302, Aug. 8, 1961, 75 Stat. 307; Pub. L. 91–620, §2, Dec. 31, 1970, 84 Stat. 1862; Pub. L. 95–334, title I, §101, Aug. 4, 1978, 92 Stat. 420; Pub. L. 97–98, title XVI, §1601(a), Dec. 22, 1981, 95 Stat. 1346; Pub. L. 99–198, title XIII, §§1301(a), 1302(a), 1303, Dec. 23, 1985, 99 Stat. 1518, 1519; Pub. L. 104–127, title VI, §601, Apr. 4, 1996, 110 Stat. 1084; Pub. L. 105–277, div. A, §101(a) \[title VIII, §§804, 805(1)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§5001, 5302(a), May 13, 2002, 116 Stat. 341, 344.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171, §5302(a), substituted “joint operations, trusts, and limited liability companies” for “and joint operations” wherever appearing.
+
+Subsec. (b)(1). Pub. L. 107–171, §5001, substituted “participated in the business operations of” for “operated” in introductory provisions.
 
 1998—Subsec. (a). Pub. L. 105–277, §101(a) \[title VIII, §805(1)\], inserted “for direct loans only,” before “have either” in cl. (2).
 
@@ -89,6 +93,30 @@ Regulations.—Notwithstanding any other provision of law, regulations to implem
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L. 97–98, set out as an Effective Date note under section 4301 of this title.
+
+#### Evaluations of Direct and Guaranteed Loan Programs
+
+Pub. L. 107–171, title V, §5301, May 13, 2002, 116 Stat. 344, provided that:
+
+“(a)
+
+Studies.—The Secretary of Agriculture shall conduct 2 studies of the direct and guaranteed loan progams \[sic\] under sections 302 and 311 of the Consolidated Farm and Rural Development Act \[7 U.S.C. 1922and 1941\], each of which shall include an examination of the number, average principal amount, and delinquency and default rates of loans provided or guaranteed during the period covered by the study.
+
+“(b)
+
+Periods Covered.—
+
+&emsp;“(1)
+
+First study.—One study under subsection (a) shall cover the 1-year period that begins 1 year after the date of the enactment of this section \[May 13, 2002\].
+
+&emsp;“(2)
+
+Second study.—One study under subsection (a) shall cover the 1-year period that begins 3 years after such date of enactment.
+
+“(c)
+
+Reports to the Congress.—At the end of the period covered by each study under this section, the Secretary of Agriculture shall submit to the Congress a report that contains an evaluation of the results of the study, including an analysis of the effectiveness of loan programs referred to in subsection (a) in meeting the credit needs of agricultural producers in an efficient and fiscally responsible manner.”
 
 #### Section Referred to in Other Sections
 

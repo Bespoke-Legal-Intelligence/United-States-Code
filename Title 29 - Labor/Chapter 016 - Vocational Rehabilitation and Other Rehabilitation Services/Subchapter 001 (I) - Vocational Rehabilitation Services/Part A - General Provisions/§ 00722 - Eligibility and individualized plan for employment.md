@@ -54,7 +54,7 @@
 
 #### (5) Determination of ineligibility
 
-&emsp;If an individual who applies for services under this subchapter is determined, based on the review of existing data and, to the extent necessary, the assessment activities described in section 705(2)(A)(ii) of this title, not to be eligible for the services, or if an eligible individual receiving services under an individualized plan for employment is determined to be no longer eligible for the services—
+&emsp;If an individual who applies for services under this subchapter is determined, based onthe review of existing data and, to the extent necessary, the assessment activities described in section 705(2)(A)(ii) of this title, not to be eligible for the services, or if an eligible individual receiving services under an individualized plan for employment is determined to be no longer eligible for the services—
 
 &emsp;&emsp;(A) the ineligibility determination involved shall be made only after providing an opportunity for full consultation with the individual or, as appropriate, the individual's representative;
 
@@ -122,7 +122,7 @@
 
 #### (D) Copy
 
-&emsp;&emsp;A copy of the individualized plan for employment for an eligible individual shall be provided to the individual or, as appropriate, to the individual's representative, in writing and, if appropriate, in the native language or mode of communication of the individual or, as appropriate, of the individual's representative.
+&emsp;&emsp;A copy of the individualized plan for employment for an eligible individual shall beprovided to the individual or, as appropriate, to the individual's representative, in writing and, if appropriate, in the native language or mode of communication of the individual or, as appropriate, of the individual's representative.
 
 #### (E) Review and amendment
 
@@ -208,7 +208,7 @@
 
 &emsp;The procedures required under this subsection shall, at a minimum—
 
-&emsp;&emsp;(A) provide an opportunity for an applicant or an eligible individual, or, as appropriate, the applicant's representative or individual's representative, to submit at the mediation session or hearing evidence andinformation to support the position of the applicant or eligible individual; and
+&emsp;&emsp;(A) provide an opportunity for an applicant or an eligible individual, or, as appropriate, the applicant's representative or individual's representative, to submit at the mediation session or hearing evidence and information to support the position of the applicant or eligible individual; and
 
 &emsp;&emsp;(B) include provisions to allow an applicant or an eligible individual to be represented in the mediation session or hearing by a person selected by the applicant or eligible individual.
 
@@ -280,7 +280,7 @@
 
 #### (D) Procedures for seeking review
 
-&emsp;&emsp;A State may establish procedures to enable a party involved in a hearing under this paragraph to seek an impartial review of the decision of the hearing officer under subparagraph (A) by—
+&emsp;&emsp;A State may establish procedures to enable a party involved in a hearing under thisparagraph to seek an impartial review of the decision of the hearing officer under subparagraph (A) by—
 
 &emsp;&emsp;&emsp;(i) the chief official of the designated State agency if the State has established both a designated State agency and a designated State unit under section 721(a)(2) of this title; or
 

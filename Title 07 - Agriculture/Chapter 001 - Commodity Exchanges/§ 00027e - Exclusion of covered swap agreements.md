@@ -10,7 +10,7 @@ The Commodity Exchange Act, referred to in text, is act Sept. 21, 1922, ch. 369,
 
 #### Codification
 
-Section was enacted as part of the Legal Certainty for Bank Products Act of 2000, and also as part of theCommodity Futures Modernization Act of 2000, and not as part of the Commodity Exchange Act which comprises this chapter.
+Section was enacted as part of the Legal Certainty for Bank Products Act of 2000, and also as part of the Commodity Futures Modernization Act of 2000, and not as part of the Commodity Exchange Act which comprises this chapter.
 
 #### Section Referred to in Other Sections
 

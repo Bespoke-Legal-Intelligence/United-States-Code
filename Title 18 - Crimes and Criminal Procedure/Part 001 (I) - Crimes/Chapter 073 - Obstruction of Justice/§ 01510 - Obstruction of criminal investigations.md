@@ -2,7 +2,7 @@
 
 (a) Whoever willfully endeavors by means of bribery to obstruct, delay, or prevent the communication of information relating to a violation of any criminal statute of the United States by any person to a criminal investigator shall be fined under this title, or imprisoned not more than five years, or both.
 
-(b)(1) Whoever, being an officer of a financial institution, with the intent to obstruct a judicial proceeding, directly or indirectly notifiesany other person about the existence or contents of a subpoena for records of that financial institution, or information that has been furnished to the grand jury in response to that subpoena, shall be fined under this title or imprisoned not more than 5 years, or both.
+(b)(1) Whoever, being an officer of a financial institution, with the intent to obstruct a judicial proceeding, directly or indirectly notifies any other person about the existence or contents of a subpoena for records of that financial institution, or information that has been furnished to the grand jury in response to that subpoena, shall be fined under this title or imprisoned not more than 5 years, or both.
 
 (2) Whoever, being an officer of a financial institution, directly or indirectly notifies—
 

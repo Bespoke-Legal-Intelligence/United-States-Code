@@ -46,7 +46,7 @@ When used in this Act:
 
 &emsp;(ii) the use of real or personal property, including a church or community room used on a regular basis by members of a community for noncommercial purposes, and the cost of invitations, food, and beverages, voluntarily provided by an individual to any candidate or any political committee of a political party in rendering voluntary personal services on the individual's residential premises or in the church or community room for candidate-related or political party-related activities, to the extent that the cumulative value of such invitations, food, and beverages provided by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
-&emsp;(iii) the sale of any food or beverage by a vendor for use in any candidate's campaign or for use by or on behalf of any political committee of a political party at a charge less than the normal comparable charge, if such charge is at least equal to the cost of such food or beverage to the vendor, to the extent that the cumulative value of such activity by such vendor on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
+&emsp;(iii) the sale of any food or beverage by a vendor for use in any candidate's campaign orfor use by or on behalf of any political committee of a political party at a charge less than the normal comparable charge, if such charge is at least equal to the cost of such food or beverage to the vendor, to the extent that the cumulative value of such activity by such vendor on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
 &emsp;(iv) any unreimbursed payment for travel expenses made by any individual on behalf of any candidate or any political committee of a political party, to the extent that the cumulative value of such activity by such individual on behalf of any single candidate does not exceed $1,000 with respect to any single election, and on behalf of all political committees of a political party does not exceed $2,000 in any calendar year;
 
@@ -62,17 +62,15 @@ When used in this Act:
 
 &emsp;&emsp;(III) shall bear the usual and customary interest rate of the lending institution;
 
-&emsp;(viii) any gift, subscription, loan, advance, or deposit of money or anything of value to a national or a State committee of a political party specifically designated to defray any cost for construction or purchase of any office facility not acquired for the purpose of influencing the election of any candidate in any particular election for Federal office;
-
-&emsp;(ix) any legal or accounting services rendered to or on behalf of—
+&emsp;(viii) any legal or accounting services rendered to or on behalf of—
 
 &emsp;&emsp;(I) any political committee of a political party if the person paying for such services is the regular employer of the person rendering such services and if such services are not attributable to activities which directly further the election of any designated candidate to Federal office; or
 
-&emsp;&emsp;(II) an authorized committee of a candidate or any other political committee, ifthe person paying for such services is the regular employer of the individual rendering such services and if such services are solely for the purpose of ensuring compliance with this Act or chapter 95 or chapter 96 of title 26,
+&emsp;&emsp;(II) an authorized committee of a candidate or any other political committee, if the person paying for such services is the regular employer of the individual rendering such services and if such services are solely for the purpose of ensuring compliance with this Act or chapter 95 or chapter 96 of title 26,
 
 > &emsp;but amounts paid or incurred by the regular employer for such legal or accounting services shall be reported in accordance with section 434(b) of this title by the committee receiving such services;
 
-&emsp;(x) the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: <i>Provided</i>, That—
+&emsp;(ix) the payment by a State or local committee of a political party of the costs of campaign materials (such as pins, bumper stickers, handbills, brochures, posters, party tabloids, and yard signs) used by such committee in connection with volunteer activities on behalf of nominees of such party: <i>Provided</i>, That—
 
 &emsp;&emsp;(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
@@ -80,9 +78,9 @@ When used in this Act:
 
 &emsp;&emsp;(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or particular candidates;
 
-&emsp;(xi) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities (including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided</i>, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
+&emsp;(x) the payment by a candidate, for nomination or election to any public office (including State or local office), or authorized committee of a candidate, of the costs of campaign materials which include information on or referenced to any other candidate and which are used in connection with volunteer activities (including pins, bumper stickers, handbills, brochures, posters, and yard signs, but not including the use of broadcasting, newspapers, magazines, billboards, direct mail, or similar types of general public communication or political advertising): <i>Provided</i>, That such payments are made from contributions subject to the limitations and prohibitions of this Act;
 
-&emsp;(xii) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided</i>, That—
+&emsp;(xi) the payment by a State or local committee of a political party of the costs of voter registration and get-out-the-vote activities conducted by such committee on behalf of nominees of such party for President and Vice President: <i>Provided</i>, That—
 
 &emsp;&emsp;(1) such payments are not for the costs of campaign materials or activities used in connection with any broadcasting, newspaper, magazine, billboard, direct mail, or similar type of general public communication or political advertising;
 
@@ -90,11 +88,11 @@ When used in this Act:
 
 &emsp;&emsp;(3) such payments are not made from contributions designated to be spent on behalf of a particular candidate or candidates;
 
-&emsp;(xiii) payments made by a candidate or the authorized committee of a candidate as a condition of ballot access and payments received by any political party committee as a condition of ballot access;
+&emsp;(xii) payments made by a candidate or the authorized committee of a candidate as a condition of ballot access and payments receivedby any political party committee as a condition of ballot access;
 
-&emsp;(xiv) any honorarium (within the meaning of section 441i of this title); and
+&emsp;(xiii) any honorarium (within the meaning of section 441i of this title); and
 
-&emsp;(xv) any loan of money derived from an advance on a candidate's brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate, if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate's brokerage account, credit card, home equity line of credit, or other line of credit in the normal course of the person's business.
+&emsp;(xiv) any loan of money derived from an advance on a candidate's brokerage account, credit card, home equity line of credit, or other line of credit available to the candidate, if such loan is made in accordance with applicable law and under commercially reasonable terms and if the person making such loan makes loans derived from an advance on the candidate's brokerage account, credit card, home equity line of credit, or other line of credit in the normal course of the person's business.
 
 (9)(A) The term “expenditure” includes—
 
@@ -160,7 +158,13 @@ When used in this Act:
 
 (16) The term “political party” means an association, committee, or organization which nominates a candidate for election to any Federal office whose name appears on the election ballot as the candidate of such association, committee, or organization.
 
-(17) The term “independent expenditure” means an expenditure by a person expressly advocating the election or defeat of a clearly identified candidate which is made without cooperation or consultation with any candidate, or any authorized committee or agent of such candidate, and which is not made in concert with, or at the request or suggestion of, any candidate, or any authorized committee or agent of such candidate.
+(17)
+
+Independent expenditure.—The term “independent expenditure” means an expenditure by a person—
+
+&emsp;(A) expressly advocating the election or defeat of a clearly identified candidate; and
+
+&emsp;(B) that is not made in concert or cooperation with or at the request or suggestion of such candidate, the candidate's authorized political committee, or their agents, or a political party committee or its agents.
 
 (18) The term “clearly identified” means that—
 
@@ -172,13 +176,97 @@ When used in this Act:
 
 (19) The term “Act” means the Federal Election Campaign Act of 1971 as amended.
 
-(Pub. L. 92–225, title III, §301, Feb. 7, 1972, 86 Stat. 11; Pub. L. 93–443, title II, §§201(a), 208(c)(1), Oct. 15, 1974, 88 Stat. 1272, 1286; Pub. L. 94–283, title I, §§102, 115(d), (h), May 11, 1976, 90 Stat. 478, 495, 496; Pub. L. 96–187, title I, §101, Jan. 8, 1980, 93 Stat. 1339; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–346, §101(a) \[title V, §502(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–49.)
+(20)
+
+Federal election activity.—
+
+&emsp;(A)
+
+In general.—The term “Federal election activity” means—
+
+&emsp;&emsp;(i) voter registration activity during the period that begins on the date that is 120 days before the date a regularly scheduled Federal election is held and ends on the date of the election;
+
+&emsp;&emsp;(ii) voter identification, get-out-the-vote activity, or generic campaign activity conducted in connection with an election in which a candidate for Federal office appears on the ballot (regardless of whether a candidate for State or local office also appears on the ballot);
+
+&emsp;&emsp;(iii) a public communication that refers to a clearly identified candidate for Federal office (regardless of whether a candidate for State or local office is also mentioned or identified) and that promotes or supports a candidate for that office, or attacks or opposes a candidate for that office (regardless of whether the communication expressly advocates a vote for or against a candidate); or
+
+&emsp;&emsp;(iv) services provided during any month by an employee of a State, district, or local committee of a political party who spends more than 25 percent of that individual's compensated time during that month on activities in connection with a Federal election.
+
+&emsp;(B)
+
+Excluded activity.—The term “Federal election activity” does not include an amount expended or disbursed by a State, district, or local committee of a political party for—
+
+&emsp;&emsp;(i) a public communication that refers solely to a clearly identified candidate for State or local office, if the communication is not a Federal election activity described in subparagraph (A)(i) or (ii);
+
+&emsp;&emsp;(ii) a contribution to a candidate for State or local office, provided the contribution is not designated to pay for a Federal election activity described in subparagraph (A);
+
+&emsp;&emsp;(iii) the costs of a State, district, or local political convention; and
+
+&emsp;&emsp;(iv) the costs of grassroots campaign materials, including buttons, bumper stickers, and yard signs, that name or depict only a candidate for State or local office.
+
+(21)
+
+Generic campaign activity.—The term “generic campaign activity” means a campaign activity that promotes a political party and does not promote a candidate or non-Federal candidate.
+
+(22)
+
+Public communication.—The term “public communication” means a communication by means of any broadcast, cable, or satellite communication, newspaper, magazine, outdoor advertising facility, mass mailing, or telephone bank to the general public, or any other form of general public political advertising.
+
+(23)
+
+Mass mailing.—The term “mass mailing” means a mailing by United States mail or facsimile of more than 500 pieces of mail matter of an identical or substantially similar nature within any 30-day period.
+
+(24)
+
+Telephone bank.—The term “telephone bank” means more than 500 telephone calls of an identical or substantially similar nature within any 30-day period.
+
+(25)
+
+Election cycle.—For purposes of sections 441a(i) and 441a–1 of this title and paragraph (26), the term “election cycle” means the period beginning on the day after the date of the most recent election for the specific office or seat thata candidate is seeking and ending on the date of the next election for that office or seat. For purposes of the preceding sentence, a primary election and a general election shall be considered to be separate elections.
+
+(26)
+
+Personal funds.—The term “personal funds” means an amount that is derived from—
+
+&emsp;(A) any asset that, under applicable State law, at the time the individual became a candidate, the candidate had legal right of access to or control over, and with respect to which the candidate had—
+
+&emsp;&emsp;(i) legal and rightful title; or
+
+&emsp;&emsp;(ii) an equitable interest;
+
+&emsp;(B) income received during the current election cycle of the candidate, including—
+
+&emsp;&emsp;(i) a salary and other earned income from bona fide employment;
+
+&emsp;&emsp;(ii) dividends and proceeds from the sale of the candidate's stocks or other investments;
+
+&emsp;&emsp;(iii) bequests to the candidate;
+
+&emsp;&emsp;(iv) income from trusts established before the beginning of the election cycle;
+
+&emsp;&emsp;(v) income from trusts established by bequest after the beginning of the election cycle of which the candidate is the beneficiary;
+
+&emsp;&emsp;(vi) gifts of a personal nature that had been customarily received by the candidate prior to the beginning of the election cycle; and
+
+&emsp;&emsp;(vii) proceeds from lotteries and similar legal games of chance; and
+
+&emsp;(C) a portion of assets that are jointly owned by the candidate and the candidate's spouse equal to the candidate's share of the asset under the instrument of conveyance or ownership, but if no specific share is indicated by an instrument of conveyance or ownership, the value of 1/2 of the property.
+
+(Pub. L. 92–225, title III, §301, Feb. 7, 1972, 86 Stat. 11; Pub. L. 93–443, title II, §§201(a), 208(c)(1), Oct. 15, 1974, 88 Stat. 1272, 1286; Pub. L. 94–283, title I, §§102, 115(d), (h), May 11, 1976, 90 Stat. 478, 495, 496; Pub. L. 96–187, title I, §101, Jan. 8, 1980, 93 Stat. 1339; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 106–346, §101(a) \[title V, §502(b)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–49; Pub. L. 107–155, title I, §§101(b), 103(b)(1), title II, §211, title III, §304(c), Mar. 27, 2002, 116 Stat. 85, 87, 92, 100.)
 
 #### References in Text
 
 The Federal Election Campaign Act of 1971, as amended, referred to in par. (19), is Pub. L. 92–225, Feb. 7, 1972, 86 Stat. 3, as amended, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title notes set out below and Tables.
 
 #### Amendments
+
+2002—Par. (8)(B)(viii) to (xv). Pub. L. 107–155, §103(b)(1), redesignated cls. (ix) to (xv) as (viii) to (xiv), respectively, and struck out former cl. (viii) which read as follows: “any gift, subscription, loan, advance, or deposit of money or anything of value to a national or a State committee of a political party specifically designated to defray any cost for construction or purchase of any office facility not acquired for the purpose of influencing the election of any candidate in any particular election for Federal office;”.
+
+Par. (17). Pub. L. 107–155, §211, added par. (17) and struck out former par. (17) which read as follows: “The term ‘independent expenditure’ means an expenditure by a person expressly advocating the election or defeat of a clearly identified candidate which is made without cooperation or consultation with any candidate, or any authorized committee or agent of such candidate, and which is not made in concert with, or at the request or suggestion of, any candidate, or any authorized committee or agent of such candidate.”
+
+Pars. (20) to (24). Pub. L. 107–155, §101(b), added pars. (20) to (24).
+
+Pars. (25), (26). Pub. L. 107–155, §304(c), added pars. (25) and (26).
 
 2000—Par. (8)(B)(xv). Pub. L. 106–346 added cl. (xv).
 
@@ -214,6 +302,82 @@ Subsec. (g). Pub. L. 93–443, §208(c)(1), substituted definition of “Commiss
 
 Subsecs. (j) to (n). Pub. L. 93–443, §201(a)(6)–(8), added subsecs. (j) to (n).
 
+#### Effective Date of 2002 Amendment; Regulations
+
+Pub. L. 107–155, title IV, §402, Mar. 27, 2002, 116 Stat. 112, provided that:
+
+“(a)
+
+General Effective Date.—
+
+&emsp;“(1)
+
+In general.—Except as provided in the succeeding provisions of this section, the effective date of this Act \[see Short Title of 2002 Amendment note below\], and the amendments made by this Act, is November 6, 2002.
+
+&emsp;“(2)
+
+Modification of contribution limits.—The amendments made by—
+
+&emsp;&emsp;“(A) section 102 \[amending section 441a of this title\] shall apply with respect to contributions made on or after January 1, 2003; and
+
+&emsp;&emsp;“(B) section 307 \[amending section 441a of this title\] shall take effect as provided in subsection (e) of such section \[enacting provisions set out as a note under section 441a of this title\].
+
+&emsp;“(3)
+
+Severability; effective dates and regulations; judicial review.—Title IV \[enacting provisions set out as notes under sections 437h and 454 of this title\] shall take effect on the date of enactment of this Act \[Mar. 27, 2002\].
+
+&emsp;“(4)
+
+Provisions not to apply to runoff elections.—Section 323(b) of the Federal Election Campaign Act of 1971 \[2 U.S.C. 441i(b)\] (as added by section 101(a)), section 103(a) \[amending section 434 of this title\], title II \[amending this section and sections 434, 441a, and 441b of this title and enacting provisions set out as notes under sections 434 and 441a of this title\], sections 304 \[amending this section and sections 434 and 441a of this title\] (including section 315(j) of Federal Election Campaign Act of 1971 \[2 U.S.C. 441a(j)\], as added by section 304(a)(2)), 305 \[amending section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, and enacting provisions set out as a note under section 315 of Title 47\] (notwithstanding subsection (c) of such section \[enacting provisions set out as a note under section 315 of Title 47\]), 311 \[amending section 441d of this title\], 316 \[amending section 441a of this title\], 318 \[enacting section 441k of this title\], and 319 \[enacting section 441a–1 of this title and amending section 441a of this title\], and title V \[enacting section 438a of this title and amending section 434 of this title and section 315 of Title 47\] (and the amendments made by such sections and titles) shall take effect on November 6, 2002, but shall not apply with respect to runoff elections, recounts, or election contests resulting from elections held prior to such date.
+
+“(b)
+
+Soft Money of National Political Parties.—
+
+&emsp;“(1)
+
+In general.—Except for subsection (b) of such section, section 323 of the Federal Election Campaign Act of 1971 \[2 U.S.C. 441i\] (as added by section 101(a)) shall take effect on November 6, 2002.
+
+&emsp;“(2)
+
+Transitional rules for the spending of soft money of national political parties.—
+
+&emsp;&emsp;“(A)
+
+In general.—Notwithstanding section 323(a) of the Federal Election Campaign Act of 1971 \[2 U.S.C. 441i(a)\] (as added by section 101(a)), if a national committee of a political party described in such section (including any person who is subject to such section under paragraph (2) of such section), has received funds described in such section prior to November 6, 2002, the rules described in subparagraph (B) shall apply with respect to the spending of the amount of such funds in the possession of such committee as of such date.
+
+&emsp;&emsp;“(B)
+
+Use of excess soft money funds.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—Subject to clauses (ii) and (iii), the national committee of a political party may use the amount described in subparagraph (A) prior to January 1, 2003, solely for the purpose of—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) retiring outstanding debts or obligations that were incurred solely in connection with an election held prior to November 6, 2002; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) paying expenses or retiring outstanding debts or paying for obligations that were incurred solely in connection with any runoff election, recount, or election contest resulting from an election held prior to November 6, 2002.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Prohibition on using soft money for hard money expenses, debts, and obligations.—A national committee of a political party may not use the amount described in subparagraph (A) for any expenditure (as defined in section 301(9) of the Federal Election Campaign Act of 1971 (2 U.S.C. 431(9))) or for retiring outstanding debts or obligations that were incurred for such an expenditure.
+
+&emsp;&emsp;&emsp;“(iii)
+
+Prohibition of building fund uses.—A national committee of a political party may not use the amount described in subparagraph (A) for activities to defray the costs of the construction or purchase of any office building or facility.
+
+“(c)
+
+Regulations.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), the Federal Election Commission shall promulgate regulations to carry out this Act \[see Short Title of 2002 Amendment note below\] and the amendments made by this Act that are under the Commission's jurisdiction not later than 270 days after the date of enactment of this Act \[Mar. 27, 2002\].
+
+&emsp;“(2)
+
+Soft money of political parties.—Not later than 90 days after the date of enactment of this Act, the Federal Election Commission shall promulgate regulations to carry out title I of this Act \[enacting section 441i of this title and amending this section and sections 434, 441a, and 453 of this title\] and the amendments made by such title.”
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–346, §101(a) \[title V, §502(d)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–50, provided that: “The amendments made by this section \[amending this section and section 434 of this title\] shall apply with respect to elections occurring after January 2001.”
@@ -241,6 +405,10 @@ Section 410 of Pub. L. 93–443 provided that:
 #### Effective Date
 
 Section 408, formerly §406, of Pub. L. 92–225 as renumbered Pub. L. 93–443, title III, §302, Oct. 15, 1974, 88 Stat. 1289, provided that: “Except as provided in section 401 of this Act \[section 451 of this title\], the provisions of this Act \[see Short Title note set out below\] shall become effective on December 31, 1971, or sixty days after the date of enactment of this Act \[Feb. 7, 1972\], whichever is later.”
+
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–155, §1(a), Mar. 27, 2002, 116 Stat. 81, provided that: “This Act \[enacting sections 438a, 439a, 441a–1, 441i, and 441k of this title and section 510 of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, amending this section, sections 434, 437g, 441a, 441b, 441d, 441e, 441h, 453, and 455 of this title, section 607 of Title 18, Crimes and Criminal Procedure, and section 315 of Title 47, Telegraphs, Telephones, and Radiotelegraphs, transferring section 510 of Title 36 to section 511 of Title 36, repealing section 439a of this title, enacting provisions set out as notes under this section, sections 434, 437g, 437h, 441a, 454, and 455 of this title, and section 315 of Title 47, and amending provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Bipartisan Campaign Reform Act of 2002’.”
 
 #### Short Title of 1980 Amendment
 
@@ -270,11 +438,53 @@ Section 303 of Pub. L. 96–187 provided that:
 
 “(b) The provisions of section 311(d) of the Federal Election Campaign Act of 1971 \[section 438(d) of this title\] allowing disapproval of rules and regulations by either House of Congress within 30 legislative days after receipt shall, with respect to rules and regulations required to be proposed under subsection (a) of this section, be deemed to allow such disapproval within 15 legislative days after receipt.”
 
+#### Study and Report on Clean Money Clean Elections Laws
+
+Pub. L. 107–155, title III, §310, Mar. 27, 2002, 116 Stat. 104, provided that:
+
+“(a)
+
+Clean Money Clean Elections Defined.—In this section, the term ‘clean money clean elections’ means funds received under State laws that provide in whole or in part for the public financing of election campaigns.
+
+“(b)
+
+Study.—
+
+&emsp;“(1)
+
+In general.—The Comptroller General shall conduct a study of the clean money clean elections of Arizona and Maine.
+
+&emsp;“(2)
+
+Matters studied.—
+
+&emsp;&emsp;(A)
+
+Statistics on clean money clean elections candidates.—The Comptroller General shall determine—
+
+&emsp;&emsp;&emsp;“(i) the number of candidates who have chosen to run for public office with clean money clean elections including—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the office for which they were candidates;
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) whether the candidate was an incumbent or a challenger; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) whether the candidate was successful in the candidate's bid for public office; and
+
+&emsp;&emsp;&emsp;“(ii) the number of races in which at least one candidate ran an election with clean money clean elections.
+
+&emsp;&emsp;“(B)
+
+Effects of clean money clean elections.—The Comptroller General of the United States shall describe the effects of public financing under the clean money clean elections laws on the 2000 elections in Arizona and Maine.
+
+“(c)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Mar. 27, 2002\], the Comptroller General of the United States shall submit a report to the Congress detailing the results of the study conducted under subsection (b).”
+
 #### Voting System Study; Report to Congress; Cost of Study
 
 Section 302 of Pub. L. 96–187, as amended by Pub. L. 100–418, title V, §5115(c), Aug. 23, 1988, 102 Stat. 1433, provided that: “The Federal Election Commission with the cooperation and assistance of the National Institute of Standards and Technology, shall conduct a preliminary study with respect to the future development of voluntary engineering and procedural performance standards for voting systems used in the United States. The Commission shall report to the Congress the results of the study, and such report shall include recommendations, if any, for the implementation of a program of such standards (including estimates of the costs and time requirements of implementing such a program). The cost of the study shall be paid out of any funds otherwise available to defray the expenses of the Commission.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 58, 59e, 433, 437a of this title; title 18 sections 602, 603, 607; title 20 section 1094; title 22 section 3944; title 26 section 527; title 42 sections 1973gg–1, 5043.
+This section is referred to in sections 58, 59e, 433, 434, 441a, 441b, 441i of this title; title 6 section 331; title 18 sections 602, 603; title 20 section 1094; title 22 section 3944; title 26 section 527; title 42 sections 1973gg–1, 5043; title 47 section 315; title 50 App. section 594.
 

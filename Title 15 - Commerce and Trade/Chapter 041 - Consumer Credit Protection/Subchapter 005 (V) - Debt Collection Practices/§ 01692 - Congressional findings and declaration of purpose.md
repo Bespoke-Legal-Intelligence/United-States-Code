@@ -24,7 +24,7 @@ It is the purpose of this subchapter to eliminate abusive debt collection practi
 
 #### Effective Date
 
-Section 818 of title VIII of Pub. L. 90–321, as added Pub. L. 95–109, provided that: “This title \[enacting this subchapter\] takes effect upon the expiration of six months after the date of its enactment \[Sept. 20, 1977\], but section 809 \[section 1692g of this title\] shall applyonly with respect to debts for which the initial attempt to collect occurs after such effective date.”
+Section 818 of title VIII of Pub. L. 90–321, as added Pub. L. 95–109, provided that: “This title \[enacting this subchapter\] takes effect upon the expiration of six months after the date of its enactment \[Sept. 20, 1977\], but section 809 \[section 1692g of this title\] shall apply only with respect to debts for which the initial attempt to collect occurs after such effective date.”
 
 #### Short Title
 

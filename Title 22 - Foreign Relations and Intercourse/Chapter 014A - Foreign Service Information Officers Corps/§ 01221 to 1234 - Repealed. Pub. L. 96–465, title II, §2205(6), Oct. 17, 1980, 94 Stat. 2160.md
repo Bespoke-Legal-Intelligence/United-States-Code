@@ -22,7 +22,7 @@ Section 1230, Pub. L. 90–494, §10, Aug. 20, 1968, 82 Stat. 812; Pub. L. 95–
 
 Section 1231, Pub. L. 90–494, §11, Aug. 20, 1968, 82 Stat. 813; Pub. L. 95–426, title II, §204(b)(4), Oct. 7, 1978, 92 Stat. 974, related to commissioning and assignment as diplomatic and consular officers. See section 3952 of this title.
 
-Section 1232, Pub. L. 90–494, §12, Aug. 20, 1968, 82 Stat. 813; Pub. L. 95–426, title II, §204(b)(1), Oct. 7, 1978, 92Stat. 973, defined terms applicable to former provisions of chapter.
+Section 1232, Pub. L. 90–494, §12, Aug. 20, 1968, 82 Stat. 813; Pub. L. 95–426, title II, §204(b)(1), Oct. 7, 1978, 92 Stat. 973, defined terms applicable to former provisions of chapter.
 
 Section 1233, Pub. L. 90–494, §13, Aug. 20, 1968, 82 Stat. 813, related to transfer of Agency Foreign Service officers to Foreign Service information officer status.
 

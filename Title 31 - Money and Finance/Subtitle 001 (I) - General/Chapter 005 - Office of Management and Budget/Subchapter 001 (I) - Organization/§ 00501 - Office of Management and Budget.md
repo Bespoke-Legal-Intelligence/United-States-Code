@@ -98,7 +98,7 @@ Inventory and review.—In carrying out this section, the Secretary shall invent
 
 &emsp;“(2)
 
-Architectural and engineering services.—Any review and conversion by the Secretary to performance by private enterprise of an architectural or engineering service (including a surveying or mapping service) shall be carried out in accordance with title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.).”
+Architectural and engineering services.—Any review and conversion by the Secretary to performance by private enterprise of an architectural or engineering service (including a surveying or mapping service) shall be carried out in accordance with title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.) \[now sections 1101–1104 of title 40\].”
 
 #### Federal Activities Inventory Reform
 
@@ -316,6 +316,8 @@ Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2912, as amended, former
 
 Pub. L. 104–204, title III, Sept. 26, 1996, 110 Stat. 2915, provided in part: “For the establishment of a working capital fund for the Federal Emergency Management Agency, to be available without fiscal year limitation, for expenses and equipment necessary for maintenance and operations of such administrative services as the Director determines may be performed more advantageously as central services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made hereafter for the purpose of providing capital, shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be reimbursed or credited with advance payments from applicable appropriations and funds of the Federal Emergency Management Agency, other Federal agencies, and other sources authorized by law for which such centralized services are performed, including supplies, materials, and services, at rates that will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of automated data processing (ADP) software and systems (either acquired or donated), and an amount necessary to maintain a reasonable operating reserve as determined by the Director: <i>Provided further</i>, That income of such fund may be retained, to remain available until expended, for purposes of the fund: <i>Provided further</i>, That fees for services shall be established by the Director at a level to cover the total estimated costs of providing such services, such fees to be deposited in the fund shall remain available until expended for purposes of the fund: <i>Provided further</i>, That such fund shall terminate in a manner consistent with section 403(f) of Public Law 103–356 \[set out below\].”
 
+\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
 #### Franchise Fund Pilot Programs
 
 Pub. L. 103–356, title IV, §403, Oct. 13, 1994, 108 Stat. 3413, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §627\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–360; Pub. L. 107–67, title VI, §634, Nov. 12, 2001, 115 Stat. 553, provided that:
@@ -412,7 +414,7 @@ Purposes.—The purposes of this Act \[see Short Title of 1990 Amendment note ab
 
 #### Duties and Functions of Department of the Treasury
 
-Pub. L. 101–576, title II, §204, Nov. 15, 1990, 104 Stat. 2842, provided that: “Nothing in this Act \[see Short Title of 1990 Amendment note above\] shall be construed to interfere with the exercise of the functions, duties, and responsibilities of the Department of the Treasury, as in effect immediately before the enactment of this Act \[Nov. 15, 1990\].”
+Pub. L. 101–576, title II, §204, Nov. 15, 1990, 104 Stat. 2842, provided that: “Nothing in this Act \[see Short Title of 1990 Amendment note above\] shall be construedto interfere with the exercise of the functions, duties, and responsibilities of the Department of the Treasury, as in effect immediately before the enactment of this Act \[Nov. 15, 1990\].”
 
 #### <b>REORGANIZATION PLAN NO. 2 OF 1970</b>
 
@@ -606,7 +608,7 @@ Domestic Council, established by Reorg. Plan No. 2 of 1970, §201, eff. July 1, 
 
 Ex. Ord. No. 11541, July 1, 1970, 35 F.R. 10737, as amended by Ex. Ord. No. 12013, Oct. 7, 1977, 42 F.R. 54931; Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12318, Aug. 21, 1981, 46 F.R. 42833, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States, including section 301 of Title 3 of the United States Code, and pursuant to Reorganization Plan No. 2 of 1970 (hereinafter referred to as “the Plan”) \[set out as a note under this section\], it is ordered as follows:
+By virtue of the authority vested in me by the Constitution and statutes of the United States, includingsection 301 of Title 3 of the United States Code, and pursuant to Reorganization Plan No. 2 of 1970 (hereinafter referred to as “the Plan”) \[set out as a note under this section\], it is ordered as follows:
 
 Section 1. (a) All functions transferred to the President of the United States by Part I of the Plan (including the function vested by section 102(f) of designating the officials of the Office of Management and Budget who shall act as Director during the absence or disability of the Deputy Director or in the event of a vacancy in the office of Deputy Director) are hereby delegated to the Director of the Office of Management and Budget in the Executive Office of the President. Such functions shall be carried out by the Director under the direction of the President and pursuant to such further instructions as the President from time to time may issue.
 
@@ -618,7 +620,7 @@ Section 1. (a) All functions transferred to the President of the United States b
 
 (1) Providing overall Executive Branch leadership, regulation, and guidance in executive personnel selection, development and management.
 
-(2) Studying and reporting on issues relating to position classification and the compensation of Federal civilian employees, including linkages among pay systems, and providing reports on average grade levels,work-years and personnel costs of Federal civilian employees.
+(2) Studying and reporting on issues relating to position classification and the compensation of Federal civilian employees, including linkages among pay systems, and providing reports on average grade levels, work-years and personnel costs of Federal civilian employees.
 
 (3) Providing primary Executive Branch leadership in (i) developing and reviewing a program of policy guidance to departments and agencies for the organization of management responsibility under the Federal Labor Relations program; and (ii) monitoring issues and trends in labor management relations for referral to appropriate Executive Branch officials including the Federal Labor Relations Council.
 
@@ -658,7 +660,7 @@ Sec. 2. There are hereby transferred to the Secretary of Commerce all functions 
 
 Sec. 3. (a) The functions transferred to the Administrator of the General Services Administration and to the Secretary of Commerce by this order do not include those performed in connection with the general oversight responsibilities of the Director of the Office of Management and Budget, as the head of that agency and as Assistant to the President for executive management, and the functions transferred by this order shall be performed subject to such general oversight to the same extent that other functions of the General Services Administration and the Department of Commerce, respectively, are so performed.
 
-(b) The functions vested in the President by the first sentence of section 111(g) of the Federal Property and Administrative Services Act of 1949, as amended \[former 40 U.S.C. 759(g)\], with respect to fiscal control of automatic data processing activities shall continue to be performed by the Director of the Office of Management and Budget. No function vested by statute in the Director shall be deemed to be affected by the provisions of this order.
+(b) The functions vested in the President by the first sentence of section 111(g) of the Federal Property and Administrative Services Act of 1949, as amended \[former 40 U.S.C. 759(g)\], with respect to fiscal controlof automatic data processing activities shall continue to be performed by the Director of the Office of Management and Budget. No function vested by statute in the Director shall be deemed to be affected by the provisions of this order.
 
 Sec. 4. So much of the personnel, property, records and unexpended balances of appropriations, allocations, and other funds employed, used, held, available, or to be made available, in connection with the functions transferred by this order as the Director of the Office of Management and Budget shall determine, shall be transferred to the Department of Commerce and the General Services Administration, respectively, at such times as the Director shall specify.
 
@@ -680,7 +682,7 @@ Ex. Ord. No. 12013, Oct. 7, 1977, 42 F.R. 54931, which related to transfer of ce
 
 Ex. Ord. No. 12027, Dec. 5, 1977, 42 F.R. 61851, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order totransfer certain functions from the Director of the Office of Management and Budget to the Office of Personnel Management, it is hereby ordered as follows:
+By virtue of the authority vested in me by the Constitution and statutes of the United States of America, including Reorganization Plan No. 2 of 1970 (5 U.S.C. App.), Section 202 of the Budget and Accounting Procedures Act of 1950 (31 U.S.C. 581c) \[31 U.S.C. 1531\], and Section 301 of Title 3 of the United States Code, and as President of the United States of America, in order to transfer certain functions from the Director of the Office of Management and Budget to the Office of Personnel Management, it is hereby ordered as follows:
 
 Section 1. The following functions which heretofore have been performed by the Director of the Office of Management and Budget, either alone or in conjunction with the Office of Personnel Management, are hereby reassigned and delegated to the Office of Personnel Management:
 
@@ -816,7 +818,7 @@ Sec. 2. The Director of the Office of Management and Budget shall, to the extent
 
 (a) Issue guidance to departments and agencies to implement this Order. Such guidance shall be designed to ensure an equitable cost comparison of government-operated commercial activities with private industry performance of the same activities, and to improve the efficiency in the conduct of studies;
 
-(b) Publish for public review (i) not later than 30 days after its completion, the inventory of commercial activities identified pursuant to section 1(b) and the activities scheduled for study by departments and agencies in Fiscal Year 1988 pursuant to section 1(c); and (ii)not later than 30 days before the start of each successive fiscal year, the list of activities to be reviewed during that year pursuant to section 1(d); and
+(b) Publish for public review (i) not later than 30 days after its completion, the inventory of commercial activities identified pursuant to section 1(b) and the activities scheduled for study by departments and agencies in Fiscal Year 1988 pursuant to section 1(c); and (ii) not later than 30 days before the start of each successive fiscal year, the list of activities to be reviewed during that year pursuant to section 1(d); and
 
 (c) Establish a tracking system to monitor, on a quarterly basis, progress by departments and agencies in carrying out this Order.
 
@@ -872,7 +874,7 @@ Sec. 3. <i>Privatization Initiative</i>. To the extent permitted by law, the hea
 
 Sec. 4. <i>Criteria</i>. To the extent permitted by law, the head of an executive department or agency shall approve a request in accordance with section 3(c) of this order only if the grantee: (a) Agrees to use the proceeds described in section 3(c)(iii) of this order only for investment in additional infrastructure assets (after public notice of the proposed investment), or for debt or tax reduction; and
 
-(b) Demonstrates that a market mechanism, legally enforceable agreement, or regulatory mechanism will ensure that: (i) the infrastructure asset or assets will continue to be used for their originally authorized purposes, as long as needed for those purposes, even if thepurchaser becomes insolvent or is otherwise hindered from fulfilling the originally authorized purposes; and (ii) user charges will be consistent with any current Federal conditions that protect users and the public by limiting the charges.
+(b) Demonstrates that a market mechanism, legally enforceable agreement, or regulatory mechanism will ensure that: (i) the infrastructure asset or assets will continue to be used for their originally authorized purposes, as long as needed for those purposes, even if the purchaser becomes insolvent or is otherwise hindered from fulfilling the originally authorized purposes; and (ii) user charges will be consistent with any current Federal conditions that protect users and the public by limiting the charges.
 
 Sec. 5. <i>Government-wide Coordination and Review</i>. In implementing Executive Order Nos. 12291 and 12498 \[formerly set out under section 601 of Title 5, Government Organization and Employees\] and OMB Circular No. A–19, the Office of Management and Budget, to the extent permitted by law and consistent with the provisions of those authorities, shall take action to ensure that the policies of the executive department and agencies are consistent with the principles, criteria, and requirements of this order. The Office of Management and Budget shall review the results of implementing this order and report thereon to the President 1 year after the date of this order.
 
@@ -944,7 +946,7 @@ Sec. 2. <i>Establishment of the Executive Council on Integrity and Efficiency.</
 
 Sec. 3. <i>Functions of the PCIE and the ECIE.</i>
 
-(a) The Councils shall continually identify, review, and discuss areas of weakness and vulnerability in Federal programs and operations to fraud, waste, and abuse, and shall develop plans for coordinated, Governmentwide activities that address these problems and promote economy and efficiency in Federal programs and operations. These activities will include interagency and inter-entity audit and investigation programs and projects to deal efficiently and effectively with those problems concerning fraud and waste that exceed the capability or jurisdiction of an individual agency or entity. The Councils shall recognize the preeminent role of the Department of Justice in law enforcement and litigation.
+(a) The Councils shall continually identify, review, and discuss areas of weakness and vulnerability in Federal programs and operations to fraud, waste, and abuse, and shall develop plans for coordinated, Governmentwide activities that address these problems and promote economy and efficiency in Federal programs and operations. These activities will include interagency and inter-entity audit and investigation programs and projects to deal efficiently and effectively with those problems concerning fraud and waste thatexceed the capability or jurisdiction of an individual agency or entity. The Councils shall recognize the preeminent role of the Department of Justice in law enforcement and litigation.
 
 (b) The Councils shall develop policies that will aid in the establishment of a corps of well-trained and highly skilled Office of Inspector General staff members.
 
@@ -1082,7 +1084,7 @@ Each executive department and agency with infrastructure responsibilities (herei
 
 Sec. 3. <i>Submission of Plans</i>. Agencies shall submit initial plans to implement these principles to the Director of the Office of Management and Budget (“OMB”) by March 15, 1994. Agency plans shall list the actions that will be taken to provide the data and analysis necessary for supporting infrastructure-related proposals in future budget submissions. Agency implementation plans should be consistent with OMB Circular A–94 that outlines the analytical methods required under the principles set forth in section 2 of this order.
 
-Sec. 4. <i>Application to Budget Submissions</i>. Beginning with the fiscal year 1996 budget submission to OMB, each agency should use these principles to justify major infrastructure investment and grant programs. Major programs are defined as those programs with annual budgetary resources in excess of $50 million.
+Sec. 4. <i>Application to Budget Submissions</i>. Beginning with the fiscal year 1996 budget submission to OMB, each agency should use these principles to justify major infrastructure investment and grant programs.Major programs are defined as those programs with annual budgetary resources in excess of $50 million.
 
 Sec. 5. <i>Application to Legislative Proposals</i>. Beginning March 15, 1994, agencies shall employ the principles set forth in section 2 of this order and, at the request of OMB, shall provide supporting analyses when requesting OMB clearance for legislative proposals that would authorize or reauthorize infrastructure programs.
 
@@ -1094,7 +1096,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13048. Improving Administrative Management in the Executive Branch
 
-Ex. Ord. No. 13048, June 10, 1997, 62 F.R. 32467, provided:
+Ex. Ord. No. 13048, June 10, 1997, 62 F.R. 32467, as amended by Ex. Ord. No. 13284, §7, Jan. 23, 2003, 68 F.R. 4075, provided:
 
 Improvement of Government operations is a continuing process that benefits from interagency activities. One group dedicated to such activities is the President's Council on Management Improvement (PCMI), established by Executive Order 12479 in 1984, reestablished by Executive Order 12816 in 1992. In the intervening years, some activities of the PCMI have been assumed by the President's Management Council, the Chief Financial Officers Council, and the Chief Information Officers Council. These organizations are also focussed on improving agencies’ use of quality management principles. Other functions have been assigned to individual agencies. Nonetheless, remaining administrative management matters deserve attention across agency lines.
 
@@ -1132,29 +1134,31 @@ Section 1. <i>Interagency Council on Administrative Management.</i>
 
 14\. Department of Veterans Affairs;
 
-15\. Environmental Protection Agency;
+15\. Department of Homeland Security;
 
-16\. Federal Emergency Management Agency;
+16\. Environmental Protection Agency;
 
-17\. Central Intelligence Agency;
+17\. Federal Emergency Management Agency;
 
-18\. Small Business Administration;
+18\. Central Intelligence Agency;
 
-19\. Department of the Army;
+19\. Small Business Administration;
 
-20\. Department of the Navy;
+20\. Department of the Army;
 
-21\. Department of the Air Force;
+21\. Department of the Navy;
 
-22\. National Aeronautics and Space Administration;
+22\. Department of the Air Force;
 
-23\. Agency for International Development;
+23\. National Aeronautics and Space Administration;
 
-24\. General Services Administration;
+24\. Agency for International Development;
 
-25\. National Science Foundation; and
+25\. General Services Administration;
 
-26\. Office of Personnel Management.
+26\. National Science Foundation; and
+
+27\. Office of Personnel Management.
 
 Department and agency heads shall advise the Chair of their selections for membership on the Council. Council membership shall also include representatives of the Chief Financial Officers Council, the Chief Information Officers Council, the Federal Procurement Council, the Interagency Advisory Group of Federal Personnel Directors, and the Small Agency Council, as well as at-large members appointed by the Chair, as he deems appropriate. The Chair shall invite representatives of the Social Security Administration to participate in the Council's work, as appropriate. The Council shall select a Vice Chair from among the Council's membership.
 
@@ -1181,8 +1185,6 @@ Sec. 3. <i>Responsibilities of Agency Heads</i>. To the extent permitted by law,
 Sec. 4. <i>Judicial Review</i>. This order is for the internal management of the executive branch and does not create any right or benefit, substantive or procedural, enforceable by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 Sec. 5. <i>Revocation</i>. Executive Order 12816 (creating the President's Council on Management Improvement), Executive Order 12552 (establishing the executive branch productivity improvement program) and Executive Order 12637 (revising the executive branch productivity improvement program) are revoked.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Implementing Management Reform in Executive Branch
 

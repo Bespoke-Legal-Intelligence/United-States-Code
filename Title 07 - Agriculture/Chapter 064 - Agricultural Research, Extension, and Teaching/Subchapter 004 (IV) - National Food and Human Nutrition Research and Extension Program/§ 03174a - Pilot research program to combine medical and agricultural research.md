@@ -18,11 +18,13 @@ The Secretary shall carry out the pilot program through agreements entered into 
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated $10,000,000 for each of fiscal years 1997 through 2002 to carry out the pilot program.
+There are authorized to be appropriated $10,000,000 for each of fiscal years 1997 through 2007 to carry out the pilot program.
 
-(Pub. L. 95–113, title XIV, §1424A, as added Pub. L. 104–127, title VIII, §808, Apr. 4, 1996, 110 Stat. 1163; amended Pub. L. 105–185, title III, §301(a)(5), June 23, 1998, 112 Stat. 562.)
+(Pub. L. 95–113, title XIV, §1424A, as added Pub. L. 104–127, title VIII, §808, Apr. 4, 1996, 110 Stat. 1163; amended Pub. L. 105–185, title III, §301(a)(5), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7105, May 13, 2002, 116 Stat. 432.)
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1998—Subsec. (d). Pub. L. 105–185 substituted “each of fiscal years 1997 through 2002” for “fiscal year 1997”.
 

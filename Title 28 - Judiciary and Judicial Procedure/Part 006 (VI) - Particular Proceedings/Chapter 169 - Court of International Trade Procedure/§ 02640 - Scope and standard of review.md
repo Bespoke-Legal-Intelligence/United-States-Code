@@ -48,9 +48,9 @@ A prior section 2640, act June 25, 1948, ch. 646, 62 Stat. 982, authorized the d
 
 #### Amendments
 
-<b>1993</b>—Subsecs. (d), (e). Pub. L. 103–182 added subsec. (d) and redesignated former subsec. (d) as (e).
+1993—Subsecs. (d), (e). Pub. L. 103–182 added subsec. (d) and redesignated former subsec. (d) as (e).
 
-<b>1984</b>—Subsec. (a)(5). Pub. L. 98–573 amended par. (5) generally, substituting “under section 641 of the Tariff Act of 1930, with the exception of decisions under section 641(d)(2)(B), which shall be governed by subdivision (d) of this section” for “to deny or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930”.
+1984—Subsec. (a)(5). Pub. L. 98–573 amended par. (5) generally, substituting “under section 641 of the Tariff Act of 1930, with the exception of decisions under section 641(d)(2)(B), which shall be governed by subdivision (d) of this section” for “to deny or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930”.
 
 #### Effective Date of 1984 Amendment
 
@@ -65,4 +65,8 @@ Subsec. (a)(6) of this section applicable with respect to civil actions commence
 #### Application of 1993 Amendment
 
 For purposes of applying amendment by Pub. L. 103–182, any decision or order of Customs Service denying, suspending, or revoking accreditation of a private laboratory on or after Dec. 8, 1993, and before regulations to implement 19 U.S.C. 1499(b) are issued to be treated as having been denied, suspended, or revoked under such section 1499(b), see section 684(b) of Pub. L. 103–182, set out as a note under section 1581 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

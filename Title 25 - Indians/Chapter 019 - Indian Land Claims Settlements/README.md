@@ -454,6 +454,32 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XIII—CHEROKEE, CHOCTAW, AND CHICKASAW NATIONS CLAIMS SETTLEMENT
+
+|  |  |
+| :--- | ---: |
+| [1779\.](Subchapter%20013%20%28XIII%29%20-%20Cherokee%2C%20Choctaw%2C%20and%20Chickasaw%20Nations%20Claims%20Settlement/%C2%A7%2001779%20-%20Findings.md) | Findings. |
+| [1779a.](Subchapter%20013%20%28XIII%29%20-%20Cherokee%2C%20Choctaw%2C%20and%20Chickasaw%20Nations%20Claims%20Settlement/%C2%A7%2001779a%20-%20Purposes.md) | Purposes. |
+| [1779b.](Subchapter%20013%20%28XIII%29%20-%20Cherokee%2C%20Choctaw%2C%20and%20Chickasaw%20Nations%20Claims%20Settlement/%C2%A7%2001779b%20-%20Definitions.md) | Definitions. |
+| [1779c.](Subchapter%20013%20%28XIII%29%20-%20Cherokee%2C%20Choctaw%2C%20and%20Chickasaw%20Nations%20Claims%20Settlement/%C2%A7%2001779c%20-%20Settlement%20and%20claims%3B%20appropriations%3B%20allocation%20of%20funds.md) | Settlement and claims; appropriations; allocation of funds. |
+| (a) | Extinguishment of claims. |
+| (b) | Release of tribal claims to certain Drybed Lands. |
+| (c) | Authorization for settlement appropriations. |
+| (d) | Allocation and deposit of funds. |
+| [1779d.](Subchapter%20013%20%28XIII%29%20-%20Cherokee%2C%20Choctaw%2C%20and%20Chickasaw%20Nations%20Claims%20Settlement/%C2%A7%2001779d%20-%20Tribal%20trust%20funds.md) | Tribal trust funds. |
+| (a) | Establishment, purpose, and management of trust funds. |
+| (b) | Management of funds. |
+| [1779e.](Subchapter%20013%20%28XIII%29%20-%20Cherokee%2C%20Choctaw%2C%20and%20Chickasaw%20Nations%20Claims%20Settlement/%C2%A7%2001779e%20-%20Attorney%20fees.md) | Attorney fees. |
+| (a) | Payment. |
+| (b) | Limitations. |
+| 1779f. | Release of other tribal claims and filing of claims. |
+| (a) | Extinguishment of other tribal claims. |
+| (b) | Claims of other Indian tribes. |
+| (c) | Declaration with respect to scope of rights, title, and interests. |
+| [1779g.](Subchapter%20013%20%28XIII%29%20-%20Cherokee%2C%20Choctaw%2C%20and%20Chickasaw%20Nations%20Claims%20Settlement/%C2%A7%2001779g%20-%20Effect%20on%20claims.md) | Effect on claims. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 
 ---
 
@@ -471,3 +497,4 @@
 - [Subchapter 010 (X) - Crow Land Claims Settlement](Subchapter%20010%20%28X%29%20-%20Crow%20Land%20Claims%20Settlement/README.md)
 - [Subchapter 011 (XI) - Santo Domingo Pueblo Land Claims Settlement](Subchapter%20011%20%28XI%29%20-%20Santo%20Domingo%20Pueblo%20Land%20Claims%20Settlement/README.md)
 - [Subchapter 012 (XII) - Torres-Martinez Desert Cahuilla Indians Claims Settlement](Subchapter%20012%20%28XII%29%20-%20Torres-Martinez%20Desert%20Cahuilla%20Indians%20Claims%20Settlement/README.md)
+- [Subchapter 013 (XIII) - Cherokee, Choctaw, and Chickasaw Nations Claims Settlement](Subchapter%20013%20%28XIII%29%20-%20Cherokee%2C%20Choctaw%2C%20and%20Chickasaw%20Nations%20Claims%20Settlement/README.md)

@@ -28,7 +28,7 @@
 
 #### References in Text
 
-Section 199, referred to in subsec. (a)(1), is section 199 of Pub. L. 105–220, title I, Aug. 7, 1998, 112 Stat. 1058. Section 199 repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737, 1751 to 1791h, 1792 to 1792b, and 2301 to 2314 of this title, section 211 of Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, sections 42101 to 42106 of Title 49, Transportation, and provisions set out as notes under sections 801, 1501, and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of this section to the Code, see Tables.
+Section 199, referred to in subsec. (a)(1), is section 199 of Pub. L. 105–220, title I, Aug. 7, 1998, 112 Stat. 1058. Section 199 repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737, 1751 to 1791h, 1792 to 1792b, and 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, sections 42101 to 42106 of Title 49, Transportation, and provisions set out as notes under sections 801, 1501, and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of this section to the Code, see Tables.
 
 #### Amendments
 

@@ -177,6 +177,11 @@
 | (c) | Information required to be reported. |
 | (d) | Report not deemed an admission of liability. |
 | (e) | Definitions. |
+| [2085\.](%C2%A7%2002085%20-%20Low-speed%20electric%20bicycles.md) | Low-speed electric bicycles. |
+| (a) | Construction. |
+| (b) | Definition. |
+| (c) | Promulgation of requirements. |
+| (d) | Preemption. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -226,3 +231,4 @@ This chapter is referred to in sections 2055, 2219, 6004 of this title; title 42
 - [&sect; 02082 - Interim cellulose insulation safety standard](%C2%A7%2002082%20-%20Interim%20cellulose%20insulation%20safety%20standard.md)
 - [&sect; 02083 - Congressional veto of consumer product safety rules](%C2%A7%2002083%20-%20Congressional%20veto%20of%20consumer%20product%20safety%20rules.md)
 - [&sect; 02084 - Information reporting](%C2%A7%2002084%20-%20Information%20reporting.md)
+- [&sect; 02085 - Low-speed electric bicycles](%C2%A7%2002085%20-%20Low-speed%20electric%20bicycles.md)

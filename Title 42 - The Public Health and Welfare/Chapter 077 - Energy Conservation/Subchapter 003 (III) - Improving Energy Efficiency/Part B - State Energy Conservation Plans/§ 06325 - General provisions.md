@@ -34,7 +34,7 @@ For the purpose of carrying out this part, there are authorized to be appropriat
 
 (B)(i) Except as provided in clause (ii), the members of the Board shall serve a term of three years.
 
-(ii) Of the members first appointed to the Board, one-third shall serve a term of one year,one-third shall serve a term of two years, and the remainder shall serve a term of three years, as specified by the Secretary.
+(ii) Of the members first appointed to the Board, one-third shall serve a term of one year, one-third shall serve a term of two years, and the remainder shall serve a term of three years, as specified by the Secretary.
 
 (2) The Board shall—
 
@@ -80,7 +80,7 @@ The Energy Conservation and Production Act, referred to in subsec. (g)(2)(A)(i),
 
 1995—Subsec. (c). Pub. L. 104–66 substituted “, as part of the report required under section 7267 of this title, report” for “report annually” in first sentence.
 
-1992—Subsec. (f). Pub. L. 102–486 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), for the purpose” for “For the purpose”, and added par. (2).
+1992—Subsec. (f). Pub. L. 102–486 designated existing provisions as par. (1), substituted “Except as providedin paragraph (2), for the purpose” for “For the purpose”, and added par. (2).
 
 1990—Subsec. (f). Pub. L. 101–440, §8(a), amended subsec. (f) generally. Prior to amendment, subsec. (f) read as follows: “There are authorized to be appropriated for carrying out the provisions of this part (other than section 6327 of this title) $50,000,000 for fiscal year 1976, $50,000,000 for fiscal year 1977, $50,000,000 for fiscal year 1978, and $50,000,000 for fiscal year 1979.”
 

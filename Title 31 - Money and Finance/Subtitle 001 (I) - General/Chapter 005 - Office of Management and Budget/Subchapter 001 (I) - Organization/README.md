@@ -11,3 +11,4 @@
 - [&sect; 00504 - Office of Federal Financial Management](%C2%A7%2000504%20-%20Office%20of%20Federal%20Financial%20Management.md)
 - [&sect; 00505 - Office of Information and Regulatory Affairs](%C2%A7%2000505%20-%20Office%20of%20Information%20and%20Regulatory%20Affairs.md)
 - [&sect; 00506 - Office of Federal Procurement Policy](%C2%A7%2000506%20-%20Office%20of%20Federal%20Procurement%20Policy.md)
+- [&sect; 00507 - Office of Electronic Government](%C2%A7%2000507%20-%20Office%20of%20Electronic%20Government.md)

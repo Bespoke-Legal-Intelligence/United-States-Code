@@ -72,7 +72,7 @@ Amendment by Pub. L. 102–138 not applicable with respect to any grievance, wit
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–204 not applicable with respect to any grievance in which the Board has issued a final decision pursuant to this section before Dec. 22, 1987, see section 181(e) of Pub. L. 100–204, set out as a note under section 3946 of this title.
+Amendment by Pub. L. 100–204 not applicable with respect to any grievance in which the Board has issued a final decision pursuant to this section before Dec. 22,1987, see section 181(e) of Pub. L. 100–204, set out as a note under section 3946 of this title.
 
 #### Section Referred to in Other Sections
 

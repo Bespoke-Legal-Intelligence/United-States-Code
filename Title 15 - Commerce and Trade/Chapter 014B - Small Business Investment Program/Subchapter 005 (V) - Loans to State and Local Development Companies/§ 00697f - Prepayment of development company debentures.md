@@ -64,7 +64,7 @@ No fees or penalties other than those specified in this section may be imposed o
 
 &emsp;&emsp;(A) shall not exceed the amount necessary to prepay existing debentures, including all costs associated with the refinancing and any applicable prepayment penalty or repurchase premium; and
 
-&emsp;&emsp;(B) except as provided in paragraphs (2) and (3), shall be subject to the provisions of sections 697a and 697b of this title and the rules and regulations promulgated thereunder, including rules and regulations governing payment of authorized expenses, commissions, fees, and discounts to brokers and dealers in trust certificates issued pursuant to section 697b of this title.
+&emsp;&emsp;(B) except as provided in paragraphs (2) and (3), shall be subject to the provisions of sections 697a and 697b of this title and the rules and regulations promulgated thereunder, including rules and regulations governing payment of authorized expenses, commissions, fees, and discounts to brokers anddealers in trust certificates issued pursuant to section 697b of this title.
 
 #### (2) Job creation
 
@@ -110,7 +110,7 @@ Not later than 30 days after October 22, 1994, the Administration shall promulga
 
 #### (g) Authorization
 
-There are authorized to be appropriated $30,000,000 to carry out the provisions of TheSmall Business Prepayment Penalty Relief Act of 1994.
+There are authorized to be appropriated $30,000,000 to carry out the provisions of The Small Business Prepayment Penalty Relief Act of 1994.
 
 (Pub. L. 85–699, title V, §509, as added Pub. L. 103–403, title V, §503, Oct. 22, 1994, 108 Stat. 4199; amended Pub. L. 104–208, div. D, title II, §208(h)(1)(H), Sept. 30, 1996, 110 Stat. 3009–747.)
 

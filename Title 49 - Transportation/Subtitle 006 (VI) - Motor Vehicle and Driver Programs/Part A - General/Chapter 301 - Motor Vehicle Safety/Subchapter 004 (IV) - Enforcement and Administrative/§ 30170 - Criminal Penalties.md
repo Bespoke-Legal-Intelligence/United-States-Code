@@ -6,7 +6,7 @@ Criminal Liability for Falsifying or Withholding Information.—
 
 &emsp;(1)
 
-General rule.—A person who violates section 1001 of title 18 with respect to the reporting requirements of section 30166, with the specific intention of misleading the Secretary with respect to motor vehicle or motor vehicle equipment safety related defects that have caused death or serious bodily injury to an individual (as defined in section 1365(g)(3) of title 18), shall be subject to criminal penalties of a fine under title 18, or imprisoned for not more than 15 years, or both.
+General rule.—A person who violates section 1001 of title 18 with respect to the reporting requirements of section 30166, with the specific intention of misleading the Secretary with respect to motor vehicle or motor vehicle equipment safety related defects that have caused death or serious bodily injury to an individual (as defined in section 1365(g)(3) <sup>1</sup> of title 18), shall be subject to criminal penalties of a fine under title 18, or imprisoned for not more than 15 years, or both.
 
 &emsp;(2)
 
@@ -31,6 +31,8 @@ Coordination with Department of Justice.—The Attorney General may bring an act
 (Added Pub. L. 106–414, §5(b)(1), Nov. 1, 2000, 114 Stat. 1803.)
 
 #### References in Text
+
+Section 1365(g)(3) of title 18, referred to in subsec. (a)(1), was redesignated section 1365(h)(3) of title 18 by Pub. L. 107–307, §2(1), Dec. 2, 2002, 116 Stat. 2445.
 
 The date of the enactment of this section, referred to in subsec. (a)(2)(B), is the date of enactment of Pub. L. 106–414, which was approved Nov. 1, 2000.
 

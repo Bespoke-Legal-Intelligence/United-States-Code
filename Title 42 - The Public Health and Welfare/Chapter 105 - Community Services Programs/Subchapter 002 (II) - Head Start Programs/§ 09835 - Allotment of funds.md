@@ -80,9 +80,9 @@
 
 (D)(i) Funds reserved under subparagraph (A) shall be allotted by the Secretary as follows:
 
-&emsp;(I) 80 percent of such funds shall be allotted among the States in the same proportion as the Secretary allots funds among the States under paragraph (4) for the respective fiscal year.
+&emsp;(I) 80 percent of such funds shall be allotted among the States in the same proportion asthe Secretary allots funds among the States under paragraph (4) for the respective fiscal year.
 
-&emsp;(II) 20 percent of such funds shall be allotted among the States, geographical areas specified in subsection (a)(2)(B) of this section and Indian Head Start programs and migrant andseasonal Head Start programs, and used to make grants to Head Start agencies, at the discretion of the Secretary.
+&emsp;(II) 20 percent of such funds shall be allotted among the States, geographical areas specified in subsection (a)(2)(B) of this section and Indian Head Start programs and migrant and seasonal Head Start programs, and used to make grants to Head Start agencies, at the discretion of the Secretary.
 
 (ii) Funds allotted under clause (i) shall be used by the Secretary to make grants to Head Start agencies that receive grants from funds allotted under paragraph (4) for such fiscal year, in such amounts as the Secretary considers to be appropriate, for expenditure for activities specified in subparagraph (C).
 
@@ -130,9 +130,9 @@
 
 &emsp;(II) develop initiatives, including providing additional training and technical assistance and making regulatory changes, in necessary cases, to eliminate barriers to the collaboration; and
 
-&emsp;(III) develop a mechanism to resolve administrative and programmatic conflicts between programs described in subclause (I) that would be a barrier to service providers, parents, or children related to the provision of unified services and the consolidation of funding for child care services.
+&emsp;(III) develop a mechanism to resolve administrative and programmatic conflicts betweenprograms described in subclause (I) that would be a barrier to service providers, parents, or children related to the provision of unified services and the consolidation of funding for child care services.
 
-(ii) In the case of a collaborative activity funded under this subchapter and another provision of law providing for Federal child care orearly childhood education, the use of equipment and nonconsumable supplies purchased with funds made available under this subchapter or such provision shall not be restricted to children enrolled or otherwise participating in the program carried out under that subchapter or provision, during a period in which the activity is predominantly funded under this subchapter or such provision.
+(ii) In the case of a collaborative activity funded under this subchapter and another provision of law providing for Federal child care or early childhood education, the use of equipment and nonconsumable supplies purchased with funds made available under this subchapter or such provision shall not be restricted to children enrolled or otherwise participating in the program carried out under that subchapter or provision, during a period in which the activity is predominantly funded under this subchapter or such provision.
 
 (F) As used in this paragraph, the term “low-income”, used with respect to children or families, shall not be considered to refer only to children or families that meet the low-income criteria prescribed pursuant to section 9840(a)(1)(A) of this title.
 
@@ -176,7 +176,7 @@ Financial assistance extended under this subchapter for a Head Start program sha
 
 #### (c) Services covered
 
-No programs shall be approved for assistance under this subchapter unless the Secretary is satisfied that the services to be provided under such program will be in addition to, and not insubstitution for, comparable services previously provided without Federal assistance. The requirement imposed by the preceding sentence shall be subject to such regulations as the Secretary may prescribe.
+No programs shall be approved for assistance under this subchapter unless the Secretary is satisfied that the services to be provided under such program will be in addition to, and not in substitution for, comparable services previously provided without Federal assistance. The requirement imposed by the preceding sentence shall be subject to such regulations as the Secretary may prescribe.
 
 #### (d) Enrollment of children with disabilities and provision of services
 
@@ -222,7 +222,7 @@ Financial assistance provided under this subchapter may be used by each Head Sta
 
 #### (i) Vehicle safety regulations
 
-The Secretary shall issue regulations establishing requirements for the safety features, and the safe operation, of vehicles used by Head Start agencies to transport children participating in Head Start programs.
+The Secretary shall issue regulations establishing requirements for the safety features, andthe safe operation, of vehicles used by Head Start agencies to transport children participating in Head Start programs.
 
 #### (j) Compensation of staff
 
@@ -272,7 +272,7 @@ Subsec. (a)(2)(E). Pub. L. 105–285, §106(a)(1)(E), added subpar. (E).
 
 Subsec. (a)(3)(A)(i)(I). Pub. L. 105–285, §106(a)(2)(A), substituted “60 percent of such excess amount for fiscal year 1999, 50 percent of such excess amount for fiscal year 2000, 47.5 percent of such excess amount for fiscal year 2001, 35 percent of such excess amount for fiscal year 2002, and 25 percent of such excess amount for fiscal year 2003;” for “25 percent of such excess amount;”.
 
-Subsec. (a)(3)(B)(ii). Pub. L. 105–285, §106(a)(2)(B)(i), substituted “adequate numbers of qualified staff” for “adequate qualified staff” and inserted “and children with disabilities” before “, when appropriate”.
+Subsec. (a)(3)(B)(ii). Pub. L. 105–285, §106(a)(2)(B)(i), substituted “adequate numbers of qualified staff” for“adequate qualified staff” and inserted “and children with disabilities” before “, when appropriate”.
 
 Subsec. (a)(3)(B)(iv). Pub. L. 105–285, §106(a)(2)(B)(ii), inserted before period at end “, and to encourage the staff to continually improve their skills and expertise by informing the staff of the availability of Federal and State incentive and loan forgiveness programs for professional development”.
 
@@ -344,7 +344,7 @@ Subsec. (<i>l</i>). Pub. L. 105–285, §106(d), designated existing provisions 
 
 Subsec. (a)(2)(A). Pub. L. 103–252, §105(b)(2)(A), substituted “1994” for “1990”.
 
-Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted “(including payments for all costs (other than compensation of Federal employees) of reviews of Head Start agencies and programs under section 9836a(c) of this title, and of activities related to the development and implementation of quality improvement plansunder section 9836a(d)(2) of this title)” after “Secretary”.
+Subsec. (a)(2)(D). Pub. L. 103–252, §105(b)(2)(B), inserted “(including payments for all costs (other than compensation of Federal employees) of reviews of Head Start agencies and programs under section 9836a(c) of this title, and of activities related to the development and implementation of quality improvement plans under section 9836a(d)(2) of this title)” after “Secretary”.
 
 Subsec. (a)(3)(A), (B). Pub. L. 103–252, §105(a)(2), added subpars. (A) and (B). Former subpars. (A) and (B) redesignated subpars. (C) and (D), respectively.
 
@@ -412,7 +412,7 @@ Subsec. (i). Pub. L. 102–401, §2(d), added subsec. (i).
 
 Subsec. (a)(2). Pub. L. 101–501, §104(a)(2)(D), (E), struck out before last sentence “The minimum reservation contained in clause (C) of this paragraph shall not apply in any fiscal year in which the appropriation for the program authorized by this subchapter is less than the amount appropriated for fiscal year 1984.” and inserted “or paragraph (3)” after “under this paragraph” in last sentence.
 
-Subsec. (a)(2)(A). Pub. L. 101–501, §104(a)(2)(A), substituted “, except that there shall be made available for each fiscal year for use by Indian and migrant Head Start programs, on a nationwide basis, not less than the amount that was obligated for use by Indian and migrant Head Start programs for fiscal year 1990” for “children, except that there shall be made available for use by Indian and migrant Head Start programs, on a nationwide basis, no less funds for fiscal year 1987 and each subsequent fiscal year than were obligated for use by Indian and migrant Head Start programs for fiscal year 1985”.
+Subsec. (a)(2)(A). Pub. L. 101–501, §104(a)(2)(A), substituted “, except that there shall be made available for each fiscal year for use by Indian and migrant Head Start programs, on a nationwide basis, not less than the amount that was obligated for use by Indian and migrant Head Start programs for fiscal year 1990” for “children, except that there shall be made available for use by Indian and migrant Head Start programs, on anationwide basis, no less funds for fiscal year 1987 and each subsequent fiscal year than were obligated for use by Indian and migrant Head Start programs for fiscal year 1985”.
 
 Subsec. (a)(2)(B). Pub. L. 101–501, §104(a)(2)(B), substituted “the Federated States of Micronesia, the Republic of the Marshall Islands, Palau, the Commonwealth of” for “the Trust Territory of the Pacific Islands”.
 

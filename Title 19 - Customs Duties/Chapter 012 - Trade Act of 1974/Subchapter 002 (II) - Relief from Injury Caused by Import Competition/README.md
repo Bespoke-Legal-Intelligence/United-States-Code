@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 3538 of this title; title 42 section 3211.
+This subchapter is referred to in section 3538 of this title; title 12 section 635; title 42 section 3211.
 
 
 ---
@@ -14,3 +14,4 @@ This subchapter is referred to in section 3538 of this title; title 42 section 3
 - [Part 003 - Adjustment Assistance for Firms](Part%20003%20-%20Adjustment%20Assistance%20for%20Firms/README.md)
 - [Part 004 - Adjustment Assistance for Communities](Part%20004%20-%20Adjustment%20Assistance%20for%20Communities/README.md)
 - [Part 005 - Miscellaneous Provisions](Part%20005%20-%20Miscellaneous%20Provisions/README.md)
+- [Part 006 - Adjustment Assistance for Farmers](Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/README.md)

@@ -52,5 +52,5 @@ Transition provision.—The Chief Postal Inspector may continue to serve as Insp
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 102 of this title.
+This section is referred to in section 102 of this title; title 42 section 15386.
 

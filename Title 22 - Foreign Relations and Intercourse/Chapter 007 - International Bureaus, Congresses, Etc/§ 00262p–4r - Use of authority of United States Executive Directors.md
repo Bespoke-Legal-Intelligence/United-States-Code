@@ -2,7 +2,7 @@
 
 #### (a) Action by the President
 
-If the President determines that a particular foreign country has taken or has committed to take actions that contribute to efforts of the United States to respond to, deter, or prevent acts of international terrorism, the Secretary may, consistent with other applicable provisions of law, instruct the United States Executive Director of each international financial institution to use the voice and vote of the Executive Director to support any loan or other utilization of the funds of respective institutions for such country, or any public or private entity within such country.
+If the President determines that a particular foreign country has taken or has committed to take actions that contribute to efforts of the United States to respond to, deter, or prevent acts of international terrorism, the Secretary may, consistent with other applicable provisions of law, instruct the United States Executive Director of each international financial institution to use the voice and vote of the Executive Director to support any loan or other utilizationof the funds of respective institutions for such country, or any public or private entity within such country.
 
 #### (b) Use of voice and vote
 
@@ -17,4 +17,8 @@ For purposes of this section, the term “international financial institution”
 #### Termination Date
 
 Provisions of title III of Pub. L. 107–56 to terminate effective on and after the first day of fiscal year 2005 if Congress enacts a joint resolution that such amendments no longer have the force of law, see section 303 of Pub. L. 107–56, set out as a Four-Year Congressional Review; Expedited Consideration note under section 5311 of Title 31, Money and Finance.
+
+#### “Secretary” Defined
+
+Secretary means the Secretary of the Treasury, see section 302(b)(5) of Pub. L. 107–56, set out in a note under section 5311 of Title 31, Money and Finance.
 

@@ -2,7 +2,7 @@
 
 #### (a) Filing requirement; time to file
 
-Any commercial fisherman suffering damages compensable under this subchapter may file a claim for compensation with the Secretary under subsection (d)(1) of this section.
+Any commercial fisherman suffering damages compensable under this subchapter may file aclaim for compensation with the Secretary under subsection (d)(1) of this section.
 
 #### (b) Transmittal of copy of claim to Secretary of the Interior; reference to Secretary
 

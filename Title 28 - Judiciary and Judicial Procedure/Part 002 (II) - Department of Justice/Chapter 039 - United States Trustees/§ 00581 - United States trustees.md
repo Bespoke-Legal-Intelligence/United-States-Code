@@ -42,7 +42,7 @@
 
 &emsp;(20) The judicial districts established for the States of Kansas, New Mexico, and Oklahoma.
 
-&emsp;(21) The judicial districts established for the States of Alabama, Florida, and Georgia andfor the Commonwealth of Puerto Rico and the Virgin Islands of the United States.
+&emsp;(21) The judicial districts established for the States of Alabama, Florida, and Georgia and for the Commonwealth of Puerto Rico and the Virgin Islands of the United States.
 
 (b) Each United States trustee shall be appointed for a term of five years. On the expiration of his term, a United States trustee shall continue to perform the duties of his office until his successor is appointed and qualifies.
 
@@ -56,7 +56,7 @@ Section 408(c) of Pub. L. 95–598, as amended, which provided for the repeal of
 
 #### Amendments
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–554, §111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
+1986—Subsec. (a). Pub. L. 99–554, §111(a), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Attorney General shall appoint one United States trustee for each of the following districts or groups of districts:
 
 &emsp;“(1) District of Maine, District of New Hampshire, District of Massachusetts, and District of Rhode Island.
 
@@ -90,7 +90,7 @@ Title III of Pub. L. 99–554, as amended by Pub. L. 101–650, title III, §317
 
 “(a)
 
-Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, United States Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
+Area for Which Appointed.—Notwithstanding any paragraph of section 581(a) of title 28, UnitedStates Code, as in effect before the effective date of this Act, a United States trustee serving in such office on the effective date of this Act shall serve the remaining term of such office as United States trustee for the region specified in a paragraph of such section, as amended by this Act, that includes the site at which the primary official station of the United States trustee is located immediately before the effective date of this Act.
 
 “(b)
 
@@ -312,7 +312,7 @@ In general.—Subject to paragraph (2), with respect to cases under chapters 7, 
 
 &emsp;“(2)
 
-Amendments inapplicable.—For purposes of paragraph (1), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (as added by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
+Amendments inapplicable.—For purposes of paragraph (1), the amendments made by section 113 and subtitle A of title II of this Act, and section 1930(a)(6) of title 28 of the United States Code (asadded by section 117(4) of this Act), shall not apply with respect to a case under chapter 7, 11, 12, or 13 of title 11, United States Code, if—
 
 &emsp;&emsp;“(A) the trustee in the case files the final report and account of administration of the estate, required under section 704 of such title, or
 
@@ -382,7 +382,7 @@ Rules Relating to the United States Trustee System.—If a United States trustee
 
 Rules Relating to Chapter 12
 
-of Title 11.—The rules prescribed under section 2075 of title 28, United States Code, and in effect on the date of the enactment of this Act \[Oct. 27, 1986\] shall apply to cases filedunder chapter 12 of title 11, United States Code, to the extent practicable and not inconsistent with the amendments made by title II of this Act \[see Tables for classification\].
+of Title 11.—The rules prescribed under section 2075 of title 28, United States Code, and in effect on the date of the enactment of this Act \[Oct. 27, 1986\] shall apply to cases filed under chapter 12 of title 11, United States Code, to the extent practicable and not inconsistent with the amendments made by title II of this Act \[see Tables for classification\].
 
 #### “SEC. 306. SALARY OF INCUMBENT UNITED STATES TRUSTEES.
 
@@ -420,7 +420,7 @@ Establishment of Project.—Not later than 1 year after the effective date of th
 
 &emsp;“(1) on the basis of competitive bids submitted by qualified nongovernmental entities that are able to design an automated joint information system for use by the United States courts and by United States trustees, and
 
-&emsp;“(2) in accordance with the Federal Property and Administrative Services Act of 1949 \[see Short Title note under 40 U.S.C. 471\], the Office of Federal Procurement Policy Act \[see Short Title note under 41 U.S.C. 401\], and title 31 of the United States Code.
+&emsp;“(2) in accordance with the Federal Property and Administrative Services Act of 1949 \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\], the Office of Federal Procurement Policy Act \[see Short Title note under 41 U.S.C. 401\], and title 31 of the United States Code.
 
 “(b)
 

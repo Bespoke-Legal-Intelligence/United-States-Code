@@ -10,11 +10,11 @@ Nonapplication.—A design, installation, construction, initial inspection, or i
 
 (c)
 
-Preemption.—A State authority that has submitted a current certification under section 60105(a) of this title may adopt additional or more stringent safety standards for intrastate pipeline facilities and intrastate pipeline transportation only if those standards are compatible with the minimum standards prescribed under this chapter. A State authority may not adopt or continue in force safety standards for interstate pipeline facilities or interstate pipeline transportation.
+Preemption.—A State authority that has submitted a current certification under section 60105(a) of this title may adopt additional or more stringent safety standards for intrastate pipeline facilities and intrastate pipeline transportation only if those standards are compatible with the minimum standards prescribed under this chapter. A State authority may not adopt or continue in force safety standards for interstate pipeline facilities or interstate pipeline transportation. Notwithstanding the preceding sentence, a State authority may enforce a requirement of a one-call notification program of the State if the program meets the requirements for one-call notification programs under this chapter or chapter 61.
 
 (d)
 
-Consultation.—(1) When continuity of gas service is affected by prescribing a standard orwaiving compliance with standards under this chapter, the Secretary of Transportation shall consult with and advise the Federal Energy Regulatory Commission or a State authority having jurisdiction over the affected gas pipeline facility before prescribing the standard or waiving compliance. The Secretary shall delay the effective date of the standard or waiver until the Commission or State authority has a reasonable opportunity to grant an authorization it considers necessary.
+Consultation.—(1) When continuity of gas service is affected by prescribing a standard or waiving compliance with standards under this chapter, the Secretary of Transportation shall consult with and advise the Federal Energy Regulatory Commission or a State authority having jurisdiction over the affected gas pipeline facility before prescribing the standard or waiving compliance. The Secretary shall delay the effective date of the standard or waiver until the Commission or State authority has a reasonable opportunity to grant an authorization it considers necessary.
 
 (2) In a proceeding under section 3 or 7 of the Natural Gas Act (15 U.S.C. 717b or 717f), each applicant for authority to import natural gas or to establish, construct, operate, or extend a gas pipeline facility subject to an applicable safety standard shall certify that it will design, install, inspect, test, construct, operate, replace, and maintain a gas pipeline facility under those standards and plans for inspection and maintenance under section 60108 of this title. The certification is binding on the Secretary of Energy and the Commission except when an appropriate enforcement agency has given timely written notice to the Commission that the applicant has violated a standard prescribed under this chapter.
 
@@ -22,7 +22,7 @@ Consultation.—(1) When continuity of gas service is affected by prescribing a 
 
 Location and Routing of Facilities.—This chapter does not authorize the Secretary of Transportation to prescribe the location or routing of a pipeline facility.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1308.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1308; Pub. L. 107–355, §3(a), Dec. 17, 2002, 116 Stat. 2986.)
 
 Historical and Revision Notes
 
@@ -89,4 +89,12 @@ In subsection (c), the words “prescribed under this chapter” are added for c
 In subsection (d)(1), the words “waiving compliance” are substituted for “action upon application for waiver” and “acting on the waiver application” to eliminate unnecessary words. The words “the provisions of” are omitted as surplus. The word “authority” is substituted for “commission” for consistency in the revised title and with other titles of the Code.
 
 In subsection (d)(2), the words “and conclusive” are omitted as being included in “binding”. The words “Secretary of Energy” are substituted for “Department of Energy” because of 42:7231.
+
+#### Amendments
+
+2002—Subsec. (c). Pub. L. 107–355 inserted at end “Notwithstanding the preceding sentence, a State authority may enforce a requirement of a one-call notification program of the State if the program meets the requirements for one-call notification programs under this chapter or chapter 61.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 60106, 60109 of this title.
 

@@ -10,5 +10,5 @@ Based on 44 U.S. Code, 1964 ed., §193 (R.S. §3806; June 20, 1874, ch. 328, §1
 
 #### Transfer of Functions
 
-Office of Postmaster General of Post Office Department abolished and functions, powers, and duties of Postmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
+Office of Postmaster General of Post Office Department abolished and functions, powers, and duties ofPostmaster General transferred to United States Postal Service by Pub. L. 91–375, §4(a), Aug. 12, 1970, 84 Stat. 773, set out as a note under section 201 of Title 39, Postal Service.
 

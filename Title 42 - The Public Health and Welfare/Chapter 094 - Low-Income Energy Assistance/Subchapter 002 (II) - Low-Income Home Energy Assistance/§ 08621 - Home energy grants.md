@@ -22,7 +22,7 @@ Amounts appropriated under this section for any fiscal year for programs and act
 
 There is authorized to be appropriated in each fiscal year for payments under this subchapter, in addition to amounts appropriated for distribution to all the States in accordance with section 8623 of this title (other than subsection (e) of such section), $600,000,000 to meet the additional home energy assistance needs of one or more States arising from a natural disaster or other emergency. Funds appropriated pursuant to this subsection are hereby designated to be emergency requirements pursuant to section 251(b)(2)(D) of the Balanced Budget and Emergency Deficit Control Act of 1985 \[2 U.S.C. 901(b)(2)(D)\], except that such funds shall be made available only after the submission to Congress of a formal budget request by the President (for all or a part of the appropriation pursuant to this subsection) that includes a designation of the amount requested as an emergency requirement as defined in such Act \[2 U.S.C. 900 et seq.\].
 
-(Pub. L. 97–35, title XXVI, §2602, Aug. 13, 1981, 95 Stat. 893; Pub. L. 98–558, title VI, §601, Oct. 30, 1984, 98 Stat. 2889; Pub. L. 99–425, title V, §501, Sept. 30, 1986, 100 Stat. 973; Pub. L. 101–501, title VII, §§701, 702, 707(b), Nov. 3, 1990, 104 Stat. 1258, 1261; Pub. L. 103–43, title XX, §2011, June 10, 1993, 107 Stat. 214; Pub. L. 103–252, title III, §§302–304(a), 311(c)(1), May 18, 1994, 108 Stat. 657, 658, 661; Pub. L. 105–285, title III, §302, Oct. 27, 1998, 112 Stat. 2756.)
+(Pub. L. 97–35, title XXVI, §2602, Aug. 13, 1981, 95 Stat. 893; Pub. L. 98–558, title VI, §601, Oct. 30,1984, 98 Stat. 2889; Pub. L. 99–425, title V, §501, Sept. 30, 1986, 100 Stat. 973; Pub. L. 101–501, title VII, §§701, 702, 707(b), Nov. 3, 1990, 104 Stat. 1258, 1261; Pub. L. 103–43, title XX, §2011, June 10, 1993, 107 Stat. 214; Pub. L. 103–252, title III, §§302–304(a), 311(c)(1), May 18, 1994, 108 Stat. 657, 658, 661; Pub. L. 105–285, title III, §302, Oct. 27, 1998, 112 Stat. 2756.)
 
 #### References in Text
 
@@ -60,7 +60,7 @@ Subsec. (e). Pub. L. 103–252, §304(a), added subsec. (e).
 
 Subsec. (d). Pub. L. 103–43, §2011(2), substituted “for each of the fiscal years 1993, 1994, and 1995” for “in each of the fiscal years 1993 and 1994”.
 
-1990—Subsec. (b). Pub. L. 101–501, §707(b)(1), which directed the amendment of this section by inserting“(other than section 8626a of this title)” after “subchapter”, was executed to subsec. (b) to reflect the probable intent of Congress.
+1990—Subsec. (b). Pub. L. 101–501, §707(b)(1), which directed the amendment of this section by inserting “(other than section 8626a of this title)” after “subchapter”, was executed to subsec. (b) to reflect the probable intent of Congress.
 
 Pub. L. 101–501, §702, struck out “$2,050,000,000 for fiscal year 1987, $2,132,000,000 for fiscal year 1988, $2,218,000,000 for fiscal year 1989, and” before “$2,307,000,000” and inserted “, $2,150,000,000 for fiscal year 1991, $2,230,000,000 for fiscal year 1992, and such sums as may be necessary for each of the fiscal years 1993 and 1994. The authorizations of appropriations contained in this subsection are subject to the program year provisions of subsection (c) of this section.” after “1990”.
 
@@ -96,7 +96,7 @@ Section 1001 of Pub. L. 99–425 provided that:
 
 “(a)
 
-General Effective Date.—Except as provided in subsections (b) and (c), this Act and the amendments made by this Act \[enacting sections 8628a, 9812a, 9910b, and 10901 to 10905 of this title, amending this section, sections 8623, 8624, 8629, 9803, 9834, 9835, 9837, 9840, 9862, 9867, 9871, 9874, 9877, 9901 to 9904, 9905a, 9908 to 9910, and 9910a of this title and section 4033 of Title 20, Education, enacting provisions set out as notes under this section and sections 8623, 9801, and 10901 of this title, and amending provisions set out as notes under section 9861 of this title and section 1932 of Title 7, Agriculture\] shall take effect on October 1, 1986, or the date of the enactment of this Act \[Sept. 30, 1986\], whichever occurs later.
+General Effective Date.—Except as provided in subsections (b) and (c), this Act and the amendments made by this Act \[enacting sections 8628a, 9812a, 9910b, and 10901 to 10905 of this title, amending this section, sections 8623, 8624, 8629, 9803, 9834, 9835, 9837, 9840, 9862, 9867, 9871, 9874, 9877, 9901 to 9904, 9905a, 9908 to 9910, and 9910a of this title and section 4033 of Title 20, Education, enacting provisions set out as notes under this section and sections 8623, 9801, and 10901 of this title, and amending provisions set out as notes under section 9861 of this title and section 1932 of Title 7, Agriculture\] shall take effect on October 1, 1986, or the date of theenactment of this Act \[Sept. 30, 1986\], whichever occurs later.
 
 “(b)
 

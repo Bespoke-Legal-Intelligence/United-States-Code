@@ -10,7 +10,7 @@
 
 &emsp;(2) a “mask work” is a series of related images, however fixed or encoded—
 
-&emsp;&emsp;(A) having or representing the predetermined, three-dimensional pattern of metallic, insulating, or semiconductor material present or removed from the layers of a semiconductor chip product; and
+&emsp;&emsp;(A) having or representing the predetermined, three-dimensional pattern of metallic, insulating, or semiconductor materialpresent or removed from the layers of a semiconductor chip product; and
 
 &emsp;&emsp;(B) in which series the relation of the images to one another is that each image has the pattern of the surface of one form of the semiconductor chip product;
 

@@ -24,7 +24,7 @@
 
 (1) The Secretary of the Interior, in cooperation with appropriate Federal, tribal, and State and local law enforcement agencies, shall establish and implement a program for the eradication of marijuana cultivation, and interdiction, investigation, and control of illegal narcotics trafficking within Indian country as defined in section 1152 of title 18. The Secretary shall establish a priority for the use of funds appropriated under paragraph (2) for those Indian reservations where the scope of the problem is most critical, and such funds shall be available for contracting by Indian tribes pursuant to the Indian Self-Determination Act (25 U.S.C. 450f et seq.).
 
-(2) For the purpose of establishing the program required by paragraph (1), there are authorized to be appropriated $2,000,000 for fiscal year 1993 and such sums as may be necessary foreach of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
+(2) For the purpose of establishing the program required by paragraph (1), there are authorized to be appropriated $2,000,000 for fiscal year 1993 and such sums as may be necessary for each of the fiscal years 1994, 1995, 1996, 1997, 1998, 1999, and 2000.
 
 (Pub. L. 99–570, title IV, §4216, Oct. 27, 1986, 100 Stat. 3207–146; Pub. L. 100–690, title II, §2208, Nov. 18, 1988, 102 Stat. 4218; Pub. L. 102–573, title VII, §703(6)–(8), Oct. 29, 1992, 106 Stat. 4583.)
 

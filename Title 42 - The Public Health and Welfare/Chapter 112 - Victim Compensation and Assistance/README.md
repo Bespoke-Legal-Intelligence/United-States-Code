@@ -5,7 +5,7 @@
 | [10601\.](%C2%A7%2010601%20-%20Crime%20Victims%20Fund.md) | Crime Victims Fund. |
 | (a) | Establishment. |
 | (b) | Fines deposited in Fund; penalties; forfeited appearance bonds. |
-| §) | Retention of sums in Fund; availability for expenditure without fiscal year limitation. |
+| (c) | Retention of sums in Fund; availability for expenditure without fiscal year limitation. |
 | (d) | Availability for judicial branch administrative costs; grant program percentages. |
 | (e) | Amounts awarded and unspent. |
 | (f) | “Offenses against the United States” as excluding. |

@@ -10,5 +10,5 @@ As originally enacted, the words “, or the district court of the United State
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 43a, 353 of this title; title 25 section 450j; title 33 section 941; title 40 section 333.
+This section is referred to in sections 43a, 353 of this title; title 25 section 450j; title 33 section 941; title 40 section 3704.
 

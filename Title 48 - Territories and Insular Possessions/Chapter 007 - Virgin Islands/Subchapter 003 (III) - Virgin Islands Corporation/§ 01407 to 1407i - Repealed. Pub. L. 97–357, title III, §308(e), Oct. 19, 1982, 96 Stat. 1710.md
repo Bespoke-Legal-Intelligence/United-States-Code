@@ -34,7 +34,7 @@ Section 308(e) of Pub. L. 97–357 provided in part: “That nothing in this sub
 
 #### Transfer of Facilities; Investment Increase; Supply of Electric Power
 
-Pub. L. 85–913, §7, Sept. 2, 1958, 72 Stat. 1760, authorized the Secretary of the Navy to transfer and convey to the Virgin Islands Corporation, without reimbursement, the power-generating facilities located at theMarine Corps air facility and naval submarine base, Saint Thomas, Virgin Islands, together with all the land, buildings, structures, facilities, distribution lines, fuel tanks, and equipment appurtenant thereto and necessary for the operation thereof, with such transfer to be accomplished not later than June 30, 1969.
+Pub. L. 85–913, §7, Sept. 2, 1958, 72 Stat. 1760, authorized the Secretary of the Navy to transfer and convey to the Virgin Islands Corporation, without reimbursement, the power-generating facilities located at the Marine Corps air facility and naval submarine base, Saint Thomas, Virgin Islands, together with all the land, buildings, structures, facilities, distribution lines, fuel tanks, and equipment appurtenant thereto and necessary for the operation thereof, with such transfer to be accomplished not later than June 30, 1969.
 
 #### Dissolution of Virgin Islands Company
 

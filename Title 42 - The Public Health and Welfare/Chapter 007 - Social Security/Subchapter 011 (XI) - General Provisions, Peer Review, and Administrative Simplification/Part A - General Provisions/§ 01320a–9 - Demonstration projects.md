@@ -14,7 +14,7 @@
 
 &emsp;(A) If an appropriate application therefor is submitted, the Secretary shall consider authorizing a demonstration project which is designed to identify and address barriers that result in delays to adoptive placements for children in foster care.
 
-&emsp;(B) If an appropriate application therefor is submitted, the Secretary shall consider authorizing a demonstration project which is designed to identify and address parental substance abuse problems that endanger children and result in the placement of children in foster care, including through the placement of children with their parents in residential treatment facilities (including residential treatment facilities for post-partum depression) that are specifically designed to serve parents and children together in order to promote family reunification and that can ensure the health and safety of the children in such placements.
+&emsp;(B) If an appropriate application therefor is submitted, the Secretary shall consider authorizing a demonstration project which is designed to identify and address parental substance abuse problems that endanger childrenand result in the placement of children in foster care, including through the placement of children with their parents in residential treatment facilities (including residential treatment facilities for post-partum depression) that are specifically designed to serve parents and children together in order to promote family reunification and that can ensure the health and safety of the children in such placements.
 
 &emsp;(C) If an appropriate application therefor is submitted, the Secretary shall consider authorizing a demonstration project which is designed to address kinship care.
 
@@ -24,7 +24,7 @@
 
 #### (5) Requirement to consider effect of project on terms and conditions of certain court orders
 
-&emsp;In considering an application to conduct a demonstration project under this section thathas been submitted by a State in which there is in effect a court order determining that the State's child welfare program has failed to comply with the provisions of part B or E of subchapter IV of this chapter, or with the Constitution of the United States, the Secretary shall take into consideration the effect of approving the proposed project on the terms and conditions of the court order related to the failure to comply.
+&emsp;In considering an application to conduct a demonstration project under this section that has been submitted by a State in which there is in effect a court order determining that the State's child welfare program has failed to comply with the provisions of part B or E of subchapter IV of this chapter, or with the Constitution of the United States, the Secretary shall take into consideration the effect of approving the proposed project on the terms and conditions of the court order related to the failure to comply.
 
 #### (b) Waiver authority
 
@@ -98,7 +98,7 @@ Subsec. (d). Pub. L. 105–89, §301(c), inserted before period at end “, unl
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted ifState legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
+Amendment by Pub. L. 105–89 effective Nov. 19, 1997, except as otherwise provided, with delay permitted if State legislation is required, see section 501 of Pub. L. 105–89, set out as a note under section 622 of this title.
 
 #### Construction of 1997 Amendment
 

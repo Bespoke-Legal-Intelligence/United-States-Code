@@ -18,7 +18,7 @@ An award made by the Director of Central Intelligence to an employee or member o
 
 &emsp;(1) section 5536 of title 5; and
 
-&emsp;(2) the death, separation, or retirement of the employee or the member of the ArmedForces whose conduct gave rise to the award, or the assignment of such member to duties other than foreign intelligence duties.
+&emsp;(2) the death, separation, or retirement of the employee or the member of the Armed Forces whose conduct gave rise to the award, or the assignment of such member to duties other than foreign intelligence duties.
 
 (Pub. L. 98–215, title IV, §402, Dec. 9, 1983, 97 Stat. 1477; Pub. L. 99–569, title V, §503, Oct. 27, 1986, 100 Stat. 3198.)
 

@@ -52,7 +52,7 @@
 
 #### (C) Considerations
 
-&emsp;&emsp;In considering applications submitted under paragraph (1)(A), the Secretary shall consider whether the Indian tribe or tribal organization would be deficient in operating the school with respect to—
+&emsp;&emsp;In considering applications submitted under paragraph (1)(A), the Secretary shallconsider whether the Indian tribe or tribal organization would be deficient in operating the school with respect to—
 
 &emsp;&emsp;&emsp;(i) equipment;
 

@@ -6,7 +6,7 @@
 
 #### (A) Authority
 
-&emsp;&emsp;For each fiscal year, the Secretary shall, in accordance with regulations and thisparagraph, allot the sums appropriated for such year under section 15029 of this title among the States on the basis of—
+&emsp;&emsp;For each fiscal year, the Secretary shall, in accordance with regulations and this paragraph, allot the sums appropriated for such year under section 15029 of this title among the States on the basis of—
 
 &emsp;&emsp;&emsp;(i) the population;
 

@@ -1,6 +1,6 @@
 ### §430h–4. Jurisdiction over lands and roads
 
-Upon the delivery and acceptance of the conveyances herein authorized, any jurisdiction heretofore ceded to the United States by theState of Mississippi over the lands and roads transferred shall thereby cease and thereafter rest in the State of Mississippi.
+Upon the delivery and acceptance of the conveyances herein authorized, any jurisdiction heretofore ceded to the United States by the State of Mississippi over the lands and roads transferred shall thereby cease and thereafter rest in the State of Mississippi.
 
 (Pub. L. 88–37, §2, June 4, 1963, 77 Stat. 56.)
 

@@ -116,9 +116,13 @@ Amendment to this section effective on and after thirtieth day following Aug. 8,
 
 Section 14 of Pub. L. 104–153 provided that: “Not later than 6 months after the date of the enactment of this Act \[July 2, 1996\], the Secretary of the Treasury shall prescribe such regulations or amendments to existing regulations that may be necessary to carry out the amendments made by sections 9, 10, 11, 12, and 13 of this Act \[amending this section, sections 1484 and 1526 of this title, and section 80302 of Title 49, Transportation\].”
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1436 of this title; title 18 section 965.
+This section is referred to in section 1436 of this title; title 18 section 965; title 49 section 44909.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

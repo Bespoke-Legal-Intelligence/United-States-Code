@@ -2,7 +2,7 @@
 
 #### (a) Arrival; submission of list; exceptions
 
-Upon arrival of any vessel or aircraft in the United States from any place outside the United States it shall be the duty of the owner, agent, consignee, master, or commanding officer thereof to deliver to an immigration officer at the port of arrival (1) a complete, true, and correct list containing the names of all aliens employed on such vessel or aircraft, the positions they respectively hold in the crew of the vessel or aircraft, when and where they were respectively shipped or engaged, and those to be paid off or discharged in the port of arrival; or (2) in the discretion of the Attorney General, such a list containing so much of such information, or such additional or supplemental information, as the Attorney General shall by regulations prescribe. In the case of a vessel engaged solely in traffic on the Great Lakes, Saint Lawrence River, and connecting waterways, such lists shall be furnished at such times as the Attorney General may require.
+Upon arrival of any vessel or aircraft in the United States from any place outside the United States it shall be the duty of the owner, agent, consignee, master, or commanding officer thereof to deliver to an immigration officer at the port of arrival (1) a complete, true, and correct list containing the names of all aliens employed on such vessel or aircraft, the positions they respectively hold in the crew of the vessel or aircraft, when and where they were respectively shipped or engaged, and those to be paid off or discharged in the port of arrival; or (2) in the discretion of the Attorney General, such a list containing so much of such information, or suchadditional or supplemental information, as the Attorney General shall by regulations prescribe. In the case of a vessel engaged solely in traffic on the Great Lakes, Saint Lawrence River, and connecting waterways, such lists shall be furnished at such times as the Attorney General may require.
 
 #### (b) Reports of illegal landings
 
@@ -36,9 +36,13 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 Amendment by Pub. L. 101–649 applicable to services performed on or after 180 days after Nov. 29, 1990, see section 203(d) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Inapplicability of Amendment by Pub. L. 101–649
 
-Amendment by section 203(b) of Pub. L. 101–649 not to affect performance of longshore work in United Statesby citizens or nationals of United States, see section 203(a)(2) of Pub. L. 101–649, set out as a note under section 1288 of this title.
+Amendment by section 203(b) of Pub. L. 101–649 not to affect performance of longshore work in United States by citizens or nationals of United States, see section 203(a)(2) of Pub. L. 101–649, set out as a note under section 1288 of this title.
 
 #### Section Referred to in Other Sections
 

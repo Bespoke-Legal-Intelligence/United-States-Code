@@ -16,7 +16,7 @@ The Commission is authorized to—
 
 #### (b) Material for Department of Defense use
 
-The President from time to time may direct the Commission (1) to deliver such quantities of special nuclear material or atomic weapons to the Department of Defense for such use as hedeems necessary in the interest of national defense, or (2) to authorize the Department of Defense to manufacture, produce, or acquire any atomic weapon or utilization facility for military purposes: <i>Provided, however</i>, That such authorization shall not extend to the production of special nuclear material other than that incidental to the operation of such utilization facilities.
+The President from time to time may direct the Commission (1) to deliver such quantities of special nuclear material or atomic weapons to the Department of Defense for such use as he deems necessary in the interest of national defense, or (2) to authorize the Department of Defense to manufacture, produce, or acquire any atomic weapon or utilization facility for military purposes: <i>Provided, however</i>, That such authorization shall not extend to the production of special nuclear material other than that incidental to the operation of such utilization facilities.
 
 #### (c) Sale, lease, or loan to other Nations of materials for military applications
 
@@ -32,7 +32,7 @@ The President may authorize the Commission or the Department of Defense, with th
 
 > whenever the President determines that the proposed cooperation and each proposed transfer arrangement for the nonnuclear parts of atomic weapons and atomic weapons systems, utilization facilities or source, byproduct, or special nuclear material will promote and will not constitute an unreasonable risk to the common defense and security, while such other nation is participating with the United States pursuant to an international arrangement by substantial and material contributions to the mutual defense and security: <i>Provided, however</i>, That the cooperation is undertaken pursuant to an agreement entered into in accordance with section 2153 of this title: <i>And provided further</i>, That if an agreement for cooperation arranged pursuant to this subsection provides for transfer of utilization facilities for military applications the Commission, or the Department of Defense with respect to cooperation it has been authorized to undertake, may authorize any person to transfer such utilization facilities for military applications in accordance with the terms and conditions of this subsection and of the agreement for cooperation.
 
-(Aug. 1, 1946, ch. 724, title I, §91, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended Pub. L. 85–479, §1, July 2, 1958, 72 Stat. 276; Pub. L. 101–189, div. C, title XXXI, §3157, Nov. 29, 1989, 103 Stat. 1684; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
+(Aug. 1, 1946, ch. 724, title I, §91, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 936; amended Pub.L. 85–479, §1, July 2, 1958, 72 Stat. 276; Pub. L. 101–189, div. C, title XXXI, §3157, Nov. 29, 1989, 103 Stat. 1684; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 
 #### Prior Provisions
 
@@ -124,7 +124,7 @@ Pub. L. 105–261, div. C, title XXXI, §3158, Oct. 17, 1998, 112 Stat. 2257, as
 
 “(a)
 
-Requirement for Criteria.—The Secretary of Energy shall develop clear and specific criteria for judging whether the science-based tools being used by the Department of Energy for determining the safety and reliability of the nuclear weapons stockpile are performing in a manner that will provide an adequate degree of certainty that the stockpile is safe and reliable.
+Requirement for Criteria.—The Secretary of Energy shall develop clear and specific criteria for judging whether the science-based tools being used by the Department of Energy for determining the safety and reliability of the nuclear weapons stockpile areperforming in a manner that will provide an adequate degree of certainty that the stockpile is safe and reliable.
 
 “(b)
 
@@ -140,7 +140,7 @@ Report.—Not later than March 1, 2000, the Secretary of Energy shall submit to 
 
 #### Panel To Assess the Reliability, Safety, and Security of the United States Nuclear Stockpile
 
-Pub. L. 105–261, div. C, title XXXI, §3159, Oct. 17, 1998, 112 Stat. 2258, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. C, title XXXI, §3156, Dec. 28, 2001, 115 Stat. 1379, provided that:
+Pub. L. 105–261, div. C, title XXXI, §3159, Oct. 17, 1998, 112 Stat. 2258, as amended by Pub. L. 106–65, div. A, title X, §1067(3), Oct. 5, 1999, 113 Stat. 774; Pub. L. 107–107, div. C, title XXXI, §3156, Dec. 28, 2001, 115 Stat. 1379; Pub. L. 107–314, div. C, title XXXI, §3175, Dec. 2, 2002, 116 Stat. 2745, provided that:
 
 “(a)
 
@@ -176,15 +176,19 @@ Cooperation of Other Agencies.—(1) The panel may secure directly from the Depa
 
 “(f)
 
-Funding.—The Secretary of Defense and the Secretary of Energy shall each contribute 50 percent of the amount of funds that are necessary for the panel to carry out its duties. Funds available for the Department of Energy for atomic energy defense activities shall be available for the Department of Energy contribution.
+Funding.—The Secretary of Defense and the Secretary of Energy shall each contribute 50 percent of the amount of funds that are necessary for the panel to carry out its duties. Funds available for the Department of Energy for the National Nuclear Security Administration shall be available for the Department of Energy contribution.
 
 “(g)
 
-Termination of Panel.—The panel shall terminate three years after the date of the appointment of the member designated as chairman of the panel.
+Termination of Panel.—The panel shall terminate April 1, 2003.
 
 “(h)
 
-Initial Implementation.—The Secretary of Defense shall enter into the contract required under subsection (a) not later than 60 days after the date of the enactment of this Act \[Oct. 17, 1998\]. The panel shall convene its first meeting not later than 30 days after the date as of which all members of the panel have been appointed.”
+Initial Implementation.—The Secretary of Defense shall enter into the contract required under subsection (a) not later than 60 days after the date of the enactment of this Act \[Oct. 17, 1998\]. The panel shall convene its first meeting not later than 30 days after the date as of which all members of the panel have been appointed.
+
+“(i)
+
+Follow-Up Report.—Not later than February 1, 2003, the panel shall submit to the Committee on Armed Services of the Senate and the Committee on Armed Services of the House of Representatives a follow-up report assessing progress toward meeting the expectations set forth by the panel for the United States stockpile stewardship program, and making recommendations for corrective legislative action where progress has been unsatisfactory.”
 
 #### Commission on Maintaining United States Nuclear Weapons Expertise
 
@@ -264,7 +268,7 @@ Pub. L. 104–106, div. C, title XXXI, §3133, Feb. 10, 1996, 110 Stat. 618, pro
 
 Establishment of Program.—The Secretary of Energy shall establish a tritium production program that is capable of meeting the tritium requirements of the United States for nuclear weapons. In carrying out the tritium production program, the Secretary shall—
 
-&emsp;“(1) complete the tritium supply and recycling environmental impact statement in preparation by theSecretary as of the date of the enactment of this Act \[Feb. 10, 1996\]; and
+&emsp;“(1) complete the tritium supply and recycling environmental impact statement in preparation by the Secretary as of the date of the enactment of this Act \[Feb. 10, 1996\]; and
 
 &emsp;“(2) assess alternative means for tritium production, including production through—
 
@@ -480,7 +484,7 @@ United States Policy.—It shall be the policy of the United States not to condu
 
 “(b)
 
-Limitation.—The Secretary of Energy may not conduct, or provide for the conduct of, research and development which could lead to the production by the United States of a low-yield nuclear weapon which, asof the date of the enactment of this Act \[Nov. 30, 1993\], has not entered production.
+Limitation.—The Secretary of Energy may not conduct, or provide for the conduct of, research and development which could lead to the production by the United States of a low-yield nuclear weapon which, as of the date of the enactment of this Act \[Nov. 30, 1993\], has not entered production.
 
 “(c)
 
@@ -616,7 +620,7 @@ Pub. L. 102–377, title V, §507, Oct. 2, 1992, 106 Stat. 1343, provided that:
 
 “(B) For the purposes of subparagraph (A), ‘joint resolution’ means only a joint resolution introduced after the date on which the Congress receives the certification referred to in that subparagraph the matter after the resolving clause of which is as follows: ‘The Congress disapproves the testing of a nuclear weapon covered by the certification of the President dated          .’ (the blank space being appropriately filled in).
 
-“(3) The President may authorize the United Kingdom to conduct in the United States, within a period covered by an annual report, one test of a nuclear weapon if the President determines that it is in the national interests of the United States to do so. Such a test shall be considered as one of the tests within the maximum number of tests that the United States is permitted to conduct during that period under paragraph (1)(B).
+“(3) The President may authorize the United Kingdom to conduct in the United States, within a period covered by an annual report, one test of a nuclear weapon if the President determines that it is in the national interests of the United States to do so. Such a test shall be considered as one of the tests within the maximum number of tests that the United States ispermitted to conduct during that period under paragraph (1)(B).
 
 “(f) No underground test of nuclear weapons may be conducted by the United States after September 30, 1996, unless a foreign state conducts a nuclear test after this date, at which time the prohibition on United States nuclear testing is lifted.
 
@@ -662,7 +666,7 @@ Purposes of Program.—The purposes of the program under subsection (b) shall be
 
 “(d)
 
-Conduct of Program.—The Secretary of Energy shall carry out the program provided for in subsection (b). The program shall be carried out with the participation of representatives of the Department of Defense,the nuclear weapons production facilities, and the national nuclear weapons laboratories.”
+Conduct of Program.—The Secretary of Energy shall carry out the program provided for in subsection (b). The program shall be carried out with the participation of representatives of the Department of Defense, the nuclear weapons production facilities, and the national nuclear weapons laboratories.”
 
 #### Section Referred to in Other Sections
 

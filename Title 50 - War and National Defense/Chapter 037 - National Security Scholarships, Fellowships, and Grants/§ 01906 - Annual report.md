@@ -2,7 +2,11 @@
 
 #### (a) Annual report
 
-The Secretary shall submit to the President and to the Congress an annual report of the conduct of the program required by this chapter. The report shall be submitted each year at the time that the President's budget for the next fiscal year is submitted to Congress pursuant to section 1105 of title 31.
+(1) The Secretary shall submit to the President and to the congressional intelligence committees an annual report of the conduct of the program required by this chapter.
+
+(2) The report submitted to the President shall be submitted each year at the time that the President's budget for the next fiscal year is submitted to Congress pursuant to section 1105 of title 31.
+
+(3) The report submitted to the congressional intelligence committees shall be submitted on the date provided in section 415b of this title.
 
 #### (b) Contents of report
 
@@ -20,7 +24,7 @@ Each such report shall contain—
 
 &emsp;&emsp;(A) the percentage of individuals who have received assistance under the program who subsequently became employees of the United States Government;
 
-&emsp;&emsp;(B) in the case of individuals who did not subsequently become employees of the United States Government, an analysis of the reasons why they did not become employees and an explanation as to what use, if any, was made of the assistance by those recipients; and
+&emsp;&emsp;(B) in the case of individuals who did not subsequently become employees of the United States Government, an analysis of the reasons why they did not become employees and an explanation as to what use, ifany, was made of the assistance by those recipients; and
 
 &emsp;&emsp;(C) the uses made of grants to educational institutions;
 
@@ -36,9 +40,11 @@ The first report under this section shall be submitted at the time the budget fo
 
 During the preparation of each report required by subsection (a) of this section, the Secretary shall consult with the members of the Board specified in paragraphs (1) through (7) of section 1903(b) of this title. Each such member shall submit to the Secretary an assessment of their hiring needs in the areas of language and area studies and a projection of the deficiencies in such areas. The Secretary shall include all assessments in the report required by subsection (a) of this section.
 
-(Pub. L. 102–183, title VIII, §806, Dec. 4, 1991, 105 Stat. 1276; Pub. L. 103–178, title III, §311(b)(1), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(f)(3), Sept. 23, 1996, 110 Stat. 2667; Pub. L. 105–272, title III, §305(a)(4), Oct. 20, 1998, 112 Stat. 2401.)
+(Pub. L. 102–183, title VIII, §806, Dec. 4, 1991, 105 Stat. 1276; Pub. L. 103–178, title III, §311(b)(1), Dec. 3, 1993, 107 Stat. 2037; Pub. L. 104–201, div. A, title X, §1078(f)(3), Sept. 23, 1996, 110 Stat. 2667; Pub. L. 105–272, title III, §305(a)(4), Oct. 20, 1998, 112 Stat. 2401; Pub. L. 107–306, title VIII, §811(b)(7)(A), Nov. 27, 2002, 116 Stat. 2425.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–306 designated first and second sentences as pars. (1) and (2), respectively, in par. (1), substituted “the congressional intelligence committees” for “the Congress”, in par. (2), inserted “submitted to the President” after “The report”, and added par. (3).
 
 1998—Subsec. (b)(1). Pub. L. 105–272 substituted “area, and counterproliferation” for “and area”.
 
@@ -48,5 +54,5 @@ During the preparation of each report required by subsection (a) of this section
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1902, 1903 of this title.
+This section is referred to in sections 415b, 1902, 1903 of this title.
 

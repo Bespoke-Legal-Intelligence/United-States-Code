@@ -16,7 +16,7 @@ The Secretary of Commerce shall make available to the Committee such staff, info
 
 #### Prior Provisions
 
-Provisions similar to those contained in this section, which required the designation of senior policy officials as observers, directed the Secretary of Commerce to provide administrative assistance, and authorized requests for assistance from Federal agencies by the Federal Advisory Committee on Oceans and Atmosphere as originally established on Aug. 16, 1971, were contained in sections 857–8 and 857–11 of this title prior to repeal by section 7(a) of Pub. L. 95–63.
+Provisions similar to those contained in this section, which required the designation of senior policy officials as observers, directed the Secretary of Commerce toprovide administrative assistance, and authorized requests for assistance from Federal agencies by the Federal Advisory Committee on Oceans and Atmosphere as originally established on Aug. 16, 1971, were contained in sections 857–8 and 857–11 of this title prior to repeal by section 7(a) of Pub. L. 95–63.
 
 #### Termination of Advisory Committees
 

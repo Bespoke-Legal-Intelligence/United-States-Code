@@ -14,7 +14,7 @@ To enforce the provisions of this chapter in or on board any ocean thermal energ
 
 &emsp;(3) arrest any person subject to section 9151 of this title if the officer has reasonable cause to believe that the person has committed a criminal act prohibited by sections 9151 and 9152(d) of this title;
 
-&emsp;(4) seize the vessel together with its gear, furniture, appurtenances, stores, and cargo,used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in, the violation of any provision of this chapter if such seizure is necessary to prevent evasion of the enforcement of this chapter;
+&emsp;(4) seize the vessel together with its gear, furniture, appurtenances, stores, and cargo, used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in, the violation of any provision of this chapter if such seizure is necessary to prevent evasion of the enforcement of this chapter;
 
 &emsp;(5) seize any evidence related to any violation of any provision of this chapter;
 
@@ -24,7 +24,7 @@ To enforce the provisions of this chapter in or on board any ocean thermal energ
 
 #### (c) Jurisdiction; venue
 
-Except as otherwise specified in section 9125 of this title, the district courts of the United States shall have exclusive original jurisdiction over any case or controversy arising under the provisions of this chapter. Except as otherwise specified in this chapter, venue shall lie in any district wherein, or nearest to which, the cause of action arose, or wherein any defendant resides, may be found, or has his principal office. In the case of Guam, and any Commonwealth, territory, or possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii. Any such court may, at any time—
+Except as otherwise specified in section 9125 of this title, the district courts of the UnitedStates shall have exclusive original jurisdiction over any case or controversy arising under the provisions of this chapter. Except as otherwise specified in this chapter, venue shall lie in any district wherein, or nearest to which, the cause of action arose, or wherein any defendant resides, may be found, or has his principal office. In the case of Guam, and any Commonwealth, territory, or possession of the United States in the Pacific Ocean, the appropriate court is the United States District Court for the District of Guam, except that in the case of American Samoa, the appropriate court is the United States District Court for the District of Hawaii. Any such court may, at any time—
 
 &emsp;(1) enter restraining orders or prohibitions;
 
@@ -45,6 +45,10 @@ For the purposes of this section, the term “vessel” includes an ocean therma
 1984—Subsec. (b). Pub. L. 98–623 substituted “in or on board any ocean thermal energy conversion facility or plantship or any vessel” for “on board any ocean thermal energy conversion facility or plantship or other vessel” in provisions preceding par. (1).
 
 Subsec. (b)(1). Pub. L. 98–623 substituted “enter or board, and inspect, any ocean thermal energy conversion facility or plantship or” for “board and inspect”.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

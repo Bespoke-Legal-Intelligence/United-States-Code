@@ -32,7 +32,7 @@ The Secretary of the Treasury shall prescribe rules implementing the principles 
 
 &emsp;(B) Notwithstanding paragraph (1)(C), fabric classified under the HTS as of silk, cotton, man-made fiber, or vegetable fiber shall be considered to originate in, and be the growth, product, or manufacture of, the country, territory, or possession in which the fabric is both dyed and printed when accompanied by two or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
 
-&emsp;(C) Notwithstanding paragraph (1)(D), goods classified under HTS heading 6117.10, 6213.00, 6214.00, 6302.22, 6302.29, 6302.52, 6302.53, 6302.59, 6302.92, 6302.93, 6302.99, 6303.92, 6303.99, 6304.19, 6304.93, 6304.99, 9404.90.85, or 9404.90.95, except for goods classified under such headings as of cotton or of wool or consisting of fiber blends containing 16 percent or more by weight ofcotton, shall be considered to originate in, and be the growth, product, or manufacture of, the country, territory, or possession in which the fabric is both dyed and printed when accompanied by two or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
+&emsp;(C) Notwithstanding paragraph (1)(D), goods classified under HTS heading 6117.10, 6213.00, 6214.00, 6302.22, 6302.29, 6302.52, 6302.53, 6302.59, 6302.92, 6302.93, 6302.99, 6303.92, 6303.99, 6304.19, 6304.93, 6304.99, 9404.90.85, or 9404.90.95, except for goods classified under such headings as of cotton or of wool or consisting of fiber blends containing 16 percent or more by weight of cotton, shall be considered to originate in, and be the growth, product, or manufacture of, the country, territory, or possession in which the fabric is both dyed and printed when accompanied by two or more of the following finishing operations: bleaching, shrinking, fulling, napping, decating, permanent stiffening, weighting, permanent embossing, or moireing.
 
 #### (3) Multicountry rule
 
@@ -91,4 +91,8 @@ The customs laws, referred to in subsec. (b)(1), (5), are classified generally t
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–200, title IV, §405(b), May 18, 2000, 114 Stat. 293, provided that: “The amendments made by this section \[amending this section\] apply to goods entered, or withdrawn from warehouse for consumption, on or after the date of the enactment of this Act \[May 18, 2000\].”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

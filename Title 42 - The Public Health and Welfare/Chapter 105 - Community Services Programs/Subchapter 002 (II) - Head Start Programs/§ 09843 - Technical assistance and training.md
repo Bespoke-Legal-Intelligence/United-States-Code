@@ -54,7 +54,7 @@ In allocating resources for technical assistance and training under this section
 
 #### (d) Training in performing and visual arts and electronic media
 
-The Secretary may provide, either directly or through grants to public or private nonprofit entities, training for Head Start personnel in the use of the performing and visual arts and interactive programs using electronic media to enhance the learning experience of Head Start children. Special consideration shall be given to entities that have demonstrated effectiveness in educational programming for preschool children that includes components for parental involvement, care provider training, and developmentally appropriate related activities.
+The Secretary may provide, either directly or through grants to public or private nonprofit entities, training for Head Start personnel in theuse of the performing and visual arts and interactive programs using electronic media to enhance the learning experience of Head Start children. Special consideration shall be given to entities that have demonstrated effectiveness in educational programming for preschool children that includes components for parental involvement, care provider training, and developmentally appropriate related activities.
 
 #### (e) Child development and assessment program
 

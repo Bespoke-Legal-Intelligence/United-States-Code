@@ -4,7 +4,7 @@
 
 #### (1) Authority for grants
 
-&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health services in health professional shortage areas.
+&emsp;The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health care services in health professional shortage areas. The National Advisory Council established under section 254j of this title shall advise the Administrator regarding the program under this section.
 
 #### (2) Loan repayment programs
 
@@ -54,7 +54,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 &emsp;(1) to conduct activities for which Federal funds are expended—
 
-&emsp;&emsp;(A) within the State to provide technical or other nonfinancial assistance under subsection (f) of section 254c of this title;
+&emsp;&emsp;(A) within the State to provide technical or other nonfinancial assistance under subsection (f) of section 254c <sup>1</sup> of this title;
 
 &emsp;&emsp;(B) under a memorandum of agreement entered into with the State under subsection (h) of such section; or
 
@@ -66,7 +66,7 @@ The Secretary may not make a grant under subsection (a) of this section unless t
 
 The Secretary may not make a grant under subsection (a) of this section unless the State involved agrees—
 
-&emsp;(1) to submit to the Secretary reports providing the same types of information regarding the program operated pursuant to such subsection as reports submitted pursuant to subsection (i) <sup>1</sup> of section 254<i>l</i>–1 of this title provide regarding the Loan Repayment Program under such section; and
+&emsp;(1) to submit to the Secretary such reports regarding the States loan repayment program, as are determined to be appropriate by the Secretary; and
 
 &emsp;(2) to submit such a report not later than January 10 of each fiscal year immediately following any fiscal year for which the State has received such a grant.
 
@@ -98,23 +98,29 @@ For purposes of this section, the term “State” means each of the several Sta
 
 #### (1) In general
 
-&emsp;For the purpose of making grants under subsection (a) of this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each of the fiscal years 1998 through 2002.
+&emsp;For the purpose of making grants under subsection (a) of this section, there are authorized to be appropriated $12,000,000 for fiscal year 2002 and such sums as may be necessary for each of fiscal years 2003 through 2006.
 
 #### (2) Availability
 
 &emsp;Amounts appropriated under paragraph (1) shall remain available until expended.
 
-(July 1, 1944, ch. 373, title III, §338I, formerly §338H, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338I and amended Pub. L. 101–597, title II, §204, title III, §301, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3027, 3029, 3035; Pub. L. 105–392, title IV, §408, Nov. 13, 1998, 112 Stat. 3589.)
+(July 1, 1944, ch. 373, title III, §338I, formerly §338H, as added Pub. L. 100–177, title II, §203, Dec. 1, 1987, 101 Stat. 999; renumbered §338I and amended Pub. L. 101–597, title II, §204, title III, §301, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3027, 3029, 3035; Pub. L. 105–392, title IV, §408, Nov. 13, 1998, 112 Stat. 3589; Pub. L. 107–251, title III, §315, Oct. 26, 2002, 116 Stat. 1653.)
 
 #### References in Text
 
-Subsection (i) of section 254<i>l</i>–1 of this title, referred to in subsec. (e)(1), was omitted from the Code.
+Section 254c of this title, referred to in subsec. (d)(1)(A), was in the original a reference to section 330, meaning section 330 of act July 1, 1944, which was omitted in the general amendment of subpart I (§254b etseq.) of this part by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
 #### Prior Provisions
 
 A prior section 338I of act July 1, 1944, was classified to section 254r of this title prior to repeal by Pub. L. 100–713, title I, §104(b)(1), Nov. 23, 1988, 102 Stat. 4787.
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–251, §315(1), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “The Secretary, acting through the Administrator of the Health Resources and Services Administration, may make grants to States for the purpose of assisting the States in operating programs described in paragraph (2) in order to provide for the increased availability of primary health services in health professional shortage areas.”
+
+Subsec. (e)(1). Pub. L. 107–251, §315(2), added par. (1) and struck out former par. (1) which read as follows: “to submit to the Secretary reports providing the same types of information regarding the program operated pursuant to such subsection as reports submitted pursuant to subsection (i) of section 254<i>l</i>–1 of this title provide regarding the Loan Repayment Program under such section; and”.
+
+Subsec. (i)(1). Pub. L. 107–251, §315(3), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “For the purpose of making grants under subsection (a) of this section, there is authorized to be appropriated $10,000,000 for each of the fiscal years 1991 through 1995, and such sums as may be necessary for each of the fiscal years 1998 through 2002.”
 
 1998—Subsec. (i)(1). Pub. L. 105–392 inserted “, and such sums as may be necessary for each of the fiscal years 1998 through 2002” before period at end.
 

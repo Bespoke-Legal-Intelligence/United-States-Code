@@ -40,5 +40,5 @@ As used in this chapter, the term—
 
 &emsp;(12) “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, or any other territory or possession of the United States.
 
-(Pub. L. 100–147, title II, §204, Oct. 30, 101 Stat. 870.)
+(Pub. L. 100–147, title II, §204, Oct. 30, 1987, 101 Stat. 870.)
 

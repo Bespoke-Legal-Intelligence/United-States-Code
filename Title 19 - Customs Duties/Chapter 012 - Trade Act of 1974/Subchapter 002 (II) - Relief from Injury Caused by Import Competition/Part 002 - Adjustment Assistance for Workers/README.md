@@ -2,35 +2,99 @@ Part 2
 
 —Adjustment Assistance for Workers
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–210, div. A, title I, §151, Aug. 6, 2002, 116 Stat. 953, provided that:
+
+“(a)
+
+In General.—Except as otherwise provided in sections 123(c) \[set out as a note under section 2331 of this title\] and 141(b) \[set out as a note under section 2401 of this title\], and subsections (b), (c), and (d) of this section, the amendments made by this division \[probably means this title, which enacted sections 2318 and 2401 to 2401g of this title, amended sections 2271 to 2273, 2275, 2291, 2293, 2295 to 2298, 2317, 2346, and 2395 of this title, repealed sections 2318, 2322, and 2331 of this title, and amended provisions set out as a note below\] shall apply to petitions for certification filed under chapter 2 or 3 of title II of the Trade Act of 1974 \[this part and part 3 of this subchapter\] on or after the date that is 90 days after the date of enactment of this Act \[Aug. 6, 2002\].
+
+“(b)
+
+Workers Certified as Eligible Before Effective Date.—Notwithstanding subsection (a), a worker shall continue to receive (or be eligible to receive) trade adjustment assistance and other benefits under chapter 2 of title II of the Trade Act of 1974 \[this part\], as in effect on September 30, 2001, for any week for which the worker meets the eligibility requirements of such chapter 2 as in effect on such date, if on or before such date, the worker—
+
+&emsp;“(1) was certified as eligible for trade adjustment assistance benefits under such chapter as in effect on such date; and
+
+&emsp;“(2) would otherwise be eligible to receive trade adjustment assistance benefits under such chapter as in effect on such date.
+
+“(c)
+
+Workers Who Became Eligible During Qualified Period.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding subsection (a) or any other provision of law, including section 285 of the Trade Act of 1974 \[Pub. L. 93–618, set out as a Termination Date note below\], any worker who would have been eligible to receive trade adjustment assistance or other benefits under chapter 2 of title II of the Trade Act of 1974 \[this part\] during the qualified period if such chapter 2 had been in effect during such period, shall be eligible to receive trade adjustment assistance and other benefits under chapter 2 of title II of the Trade Act of 1974, as in effect on September 30, 2001, for any week during the qualified period for which the worker meets the eligibility requirements of such chapter 2 as in effect on September 30, 2001.
+
+&emsp;“(2)
+
+Qualified period.—For purposes of this subsection, the term ‘qualified period’ means the period beginning on January 11, 2002, and ending on the date that is 90 days after the date of enactment of this Act \[Aug. 6, 2002\].
+
+“(d)
+
+Adjustment Assistance for Firms.—
+
+&emsp;“(1)
+
+In general.—Notwithstanding subsection (a) or any other provision of law, including section 285 of the Trade Act of 1974 \[set out as a Termination Date note below\], and except as provided in paragraph (2), any firm that would have been eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act if 1974 \[part 3 of this subchapter\] during the qualified period if such chapter 3 had been in effect during such period, shall be eligible to receive adjustment assistance under chapter 3 of title II of the Trade Act of 1974, as in effect on September 30, 2001, for any week during the qualified period for which the firm meets the eligibility requirements of such chapter 3 as in effect on September 30, 2001.
+
+&emsp;“(2)
+
+Qualified period.—For purposes of this subsection, the term ‘qualified period’ means the period beginning on October 1, 2001, and ending on the date that is 90 days after the date of enactment of this Act \[Aug. 6, 2002\].”
+
 #### Termination Date
 
-Section 285, formerly section 284, of Pub. L. 93–618, title II, Jan. 3, 1975, 88 Stat. 2041; renumbered §285, Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; and amended Pub. L. 97–35, title XXV, §2512, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(b), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–107, §3, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(b), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §2, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §2, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–272, title XIII, §13007(a), Apr. 7, 1986, 100 Stat. 304; Pub. L. 100–418, title I, §1426(a), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(1), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §505, Dec. 8, 1993, 107 Stat. 2152; Pub. L. 105–277, div. J, title I, §1012(d), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319, provided that:
+Section 285, formerly section 284, of Pub. L. 93–618, title II, Jan. 3, 1975, 88 Stat. 2041; renumbered §285, Pub. L. 96–417, title VI, §613(a), Oct. 10, 1980, 94 Stat. 1746; and amended Pub. L. 97–35, title XXV, §2512, Aug. 13, 1981, 95 Stat. 888; Pub. L. 98–120, §2(b), Oct. 12, 1983, 97 Stat. 809; Pub. L. 99–107, §3, Sept. 30, 1985, 99 Stat. 479; Pub. L. 99–155, §2(b), Nov. 14, 1985, 99 Stat. 814; Pub. L. 99–181, §2, Dec. 13, 1985, 99 Stat. 1172; Pub. L. 99–189, §2, Dec. 18, 1985, 99 Stat. 1184; Pub. L. 99–272, title XIII, §13007(a), Apr. 7, 1986, 100 Stat. 304; Pub. L. 100–418, title I, §1426(a), Aug. 23, 1988, 102 Stat. 1251; Pub. L. 103–66, title XIII, §13803(a)(1), Aug. 10, 1993, 107 Stat. 668; Pub. L. 103–182, title V, §505, Dec. 8, 1993, 107 Stat. 2152; Pub. L. 105–277, div. J, title I, §1012(d), Oct. 21, 1998, 112 Stat. 2681–901; Pub. L. 106–113, div. B, §1000(a)(5) \[title VII, §702(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–319; Pub. L. 107–210, div. A, title I, §111(c), Aug. 6, 2002, 116 Stat. 936, provided that:
 
-“(a) Chapter 4 \[enacting part 4 of this subchapter\] shall terminate on September 30, 1982.
+“(a)
 
-“(b) No duty shall be imposed under section 287 \[section 2397 of this title\], after September 30, 1993.
+Assistance for Workers.—
 
-“(c)(1) Except as provided in paragraph (2), no assistance, vouchers, allowances, or other payments may be provided under chapter 2 \[enacting part 2 of this subchapter and amending section 3302 of Title 26, Internal Revenue Code\], and no technical assistance may be provided under chapter 3 \[enacting part 3 of this subchapter\], after September 30, 2001.
+&emsp;“(1)
 
-“(2)(A) Except as provided in subparagraph (B), no assistance, vouchers, allowances, or other payments may be provided under subchapter D of chapter 2 \[enacting subpart D of part 2 of this subchapter\] after September 30, 2001.
+In general.—Except as provided in paragraph (2), trade adjustment assistance, vouchers, allowances, and other payments or benefits may not be provided under chapter 2 \[this part\] after September 30, 2007.
 
-“(B) Notwithstanding subparagraph (A), if, on or before the day described in subparagraph (A), a worker—
+&emsp;“(2)
 
-&emsp;“(i) is certified as eligible to apply for assistance, under subchapter D of chapter 2; and
+Exception.—Notwithstanding paragraph (1), a worker shall continue to receive trade adjustment assistance benefits and other benefits under chapter 2 for any week for which the worker meets the eligibility requirements of that chapter, if on or before September 30, 2007, the worker is—
 
-&emsp;“(ii) is otherwise eligible to receive assistance in accordance with section 250 \[19 U.S.C. 2331\],
+&emsp;&emsp;“(A) certified as eligible for trade adjustment assistance benefits under chapter 2 of this title \[this part\]; and
 
-> such worker shall continue to be eligible to receive such assistance for any week for which the worker meets the eligibility requirements of such section.”
+&emsp;&emsp;“(B) otherwise eligible to receive trade adjustment assistance benefits under chapter 2.
 
-\[Amendment by Pub. L. 106–113 to section 285(c) of Pub. L. 93–618, set out above, effective as of July 1, 1999, see section 1000(a)(5) \[title VII, §702(e)\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 2317 of this title.\]
+“(b)
 
-\[Amendment by Pub. L. 103–182 to section 285(c) of Pub. L. 93–618, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as an Effective Date note under section 2331 of this title.\]
+Other Assistance.—
+
+&emsp;“(1)
+
+Assistance for firms.—Technical assistance may not be provided under chapter 3 \[part 3 of this subchapter\] after September 30, 2007.
+
+&emsp;“(2)
+
+Assistance for farmers.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), adjustment assistance, vouchers, allowances, and other payments or benefits may not be provided under chapter 6 \[part 6 of this subchapter\] after September 30, 2007.
+
+&emsp;&emsp;“(B)
+
+Exception.—Notwithstanding subparagraph (A), an agricultural commodity producer (as defined in section 291(2) \[19 U.S.C. 2401(2)\]) shall continue to receive adjustment assistance benefits and other benefits under chapter 6, for any week for which the agricultural commodity producer meets the eligibility requirements of chapter 6, if on or before September 30, 2007, the agricultural commodity producer is—
+
+&emsp;&emsp;&emsp;“(i) certified as eligible for adjustment assistance benefits under chapter 6; and
+
+&emsp;&emsp;&emsp;“(ii) is otherwise eligible to receive adjustment assistance benefits under such chapter 6.”
+
+\[Amendment by Pub. L. 106–113 to section 285 of Pub. L. 93–618, set out above, effective as of July 1, 1999, see section 1000(a)(5) \[title VII, §702(e)\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 2317 of this title.\]
+
+\[Amendment by Pub. L. 103–182 to section 285 of Pub. L. 93–618, set out above, effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 506(a) of Pub. L. 103–182, set out as an Effective Date of 1993 Amendment note under section 2271 of this title.\]
 
 \[Parts 2 and 3 of this subchapter applicable as if amendments by sections 13007 and 13008 of Pub. L. 99–272, amending section 285 of Pub. L. 93–618, set out above, and sections 2317 and 2346 of this title, had taken effect Dec. 18, 1985, see section 13009(c) of Pub. L. 99–272, set out as an Effective Date of 1986 Amendment note under section 2291 of this title.\]
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1339, 2252, 2253, 2318, 2391, 2396, 2397 of this title; title 20 section 9271; title 29 sections 2822, 2841.
+This part is referred to in sections 1339, 2252, 2253, 2318, 2391, 2396, 2397 of this title; title 20 section 9271; title 26 section 35; title 29 sections 2822, 2841, 2918.
 
 
 ---

@@ -6,19 +6,41 @@ Authority To Use Running Mate System.—The Secretary may by regulation implemen
 
 (b)
 
-Consideration for Promotion.—If promotion zones are determined as authorized under subsection (a), a Reserve officer shall, subject to the eligibility requirements of this subchapter, be placed in a promotion zone when that officer's running mate is placed in a promotion zone and shall, in accordance with the provisions of this subchapter, be considered for promotion at approximately the same time as that officer's running mate or as soon thereafter as practicable.
+Consideration for Promotion.—If promotion zones are determined as authorized under subsection (a), a Reserve officer shall, subject to the eligibility requirements of this subchapter, be placed in a promotion zone when that officer's running mate is placed in a promotion zone and shall, in accordance with the provisions of this subchapter, be considered forpromotion at approximately the same time as that officer's running mate or as soon thereafter as practicable, or in the event that promotion is not determined in accordance with a running mate system, then a Reserve officer becomes eligible for consideration for promotion to the next higher grade at the beginning of the promotion year in which he or she completes the following amount of service computed from the date of rank in the grade in which he or she is serving:
+
+&emsp;(1) two years in the grade of lieutenant (junior grade);
+
+&emsp;(2) three years in the grade of lieutenant;
+
+&emsp;(3) four years in the grade of lieutenant commander;
+
+&emsp;(4) four years in the grade of commander; and
+
+&emsp;(5) three years in the grade of captain.
 
 (c)
 
 Consideration of Officers Below the Zone.—If the Secretary authorizes the selection of officers for promotion from below the promotion zone in accordance with section 729(d)(3) of this title, the number of officers to be considered from below the zone may be established through the application of the running mate system under this subchapter or otherwise as the Secretary determines to be appropriate to meet the needs of the Coast Guard.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1011; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §502(b)(1), (2)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–100.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1011; amended Pub. L. 106–398, §1 \[\[div. A\], title V, §502(b)(1), (2)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–100; Pub. L. 107–295, title IV, §411(b), Nov. 25, 2002, 116 Stat. 2118.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 783 of this title prior to the complete revision of this chapter by Pub. L. 96–322.
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–295 inserted before period at end “, or in the event that promotion is not determined in accordance with a running mate system, then a Reserve officer becomes eligible for consideration for promotion to the next higher grade at the beginning of the promotion year in which he or she completes the following amount of service computed from the date of rank in the grade in which he or she is serving:
+
+&emsp;“(1) two years in the grade of lieutenant (junior grade);
+
+&emsp;“(2) three years in the grade of lieutenant;
+
+&emsp;“(3) four years in the grade of lieutenant commander;
+
+&emsp;“(4) four years in the grade of commander; and
+
+&emsp;“(5) three years in the grade of captain”.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §502(b)(2)(A)\], substituted “Establishment of promotion zones under running mate system” for “Placement in promotion zone; consideration for promotion” as section catchline.
 

@@ -6,7 +6,7 @@ Each license shall include such conditions as may be necessary and appropriate t
 
 #### (b) Rules and regulations
 
-The Administrator shall promulgate regulations specifying under what conditions and inwhat circumstances the thermal plume of an ocean thermal energy conversion facility or plantship licensed under this chapter will be deemed—
+The Administrator shall promulgate regulations specifying under what conditions and in what circumstances the thermal plume of an ocean thermal energy conversion facility or plantship licensed under this chapter will be deemed—
 
 &emsp;(1) to impinge on so as to degrade the thermal gradient used by another ocean thermal energy conversion facility or plantship, or
 
@@ -16,7 +16,7 @@ The Administrator shall promulgate regulations specifying under what conditions 
 
 #### (c) Coast Guard operations
 
-The Secretary of the department in which the Coast Guard is operating shall promulgate, after consultation with the Administrator, and shall enforce, regulations governing the movement and navigation of ocean thermal energy conversion plantships licensed under this chapter to ensure that the thermal plume of such an ocean thermal energy conversion plantship does not unreasonably impinge on so as to degrade the thermal gradient used by the operation of any other ocean thermal energy conversion plantship or facility except in case of force majeure or with the consent of owner of the other such plantship or facility, and to ensure that the thermal plume of such an ocean thermal energy conversion plantship does not impinge on so as to adversely affect the territorial sea or area of national resource jurisdiction, as recognized by the United States, of any other nation unless the Secretary of State has approved such impingement after consultation with such nation.
+The Secretary of the department in which the Coast Guard is operating shall promulgate, after consultation with the Administrator, and shall enforce, regulations governing the movement and navigation of ocean thermal energy conversion plantships licensed under this chapter to ensure that the thermal plume of such an ocean thermal energy conversion plantship does not unreasonably impinge on so as to degrade the thermal gradient used by the operation of any other ocean thermal energy conversion plantship or facility except in case of force majeure or with the consent of owner of the other such plantship or facility, and to ensure that the thermal plume of such an ocean thermal energy conversion plantship does not impinge on so asto adversely affect the territorial sea or area of national resource jurisdiction, as recognized by the United States, of any other nation unless the Secretary of State has approved such impingement after consultation with such nation.
 
 (Pub. L. 96–320, title I, §109, Aug. 3, 1980, 94 Stat. 987; Pub. L. 98–623, title VI, §602(e)(2), (15), (16), Nov. 8, 1984, 98 Stat. 3412.)
 
@@ -27,4 +27,8 @@ The Secretary of the department in which the Coast Guard is operating shall prom
 Subsec. (b)(3). Pub. L. 98–623, §602(e)(15), struck out par. (3) which prohibited a licensee of an ocean thermal energy conversion facility or plantship under this chapter, except in the case of force majeure, from permitting foreign vessels to call at, or load or unload cargo at, or otherwise use such facility or plantship unless the foreign state involved had specifically agreed to recognize the jurisdiction of the United States over the vessel and its personnel while such vessel was located in the safety zone and the vessel owner or operator had designated an agent in the United States for receipt of service of process for legal claims or proceedings arising from activities of the vessel or its personnel while located in such zone. See section 9118(d)(3) of this title.
 
 Subsec. (c). Pub. L. 98–623, §602(e)(16), substituted “the thermal plume of such” for “the thermal plume such of” in second place appearing, and substituted “impingement” for “impingment”.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

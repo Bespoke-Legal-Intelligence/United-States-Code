@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) a citizen, national, or resident alien of the United States rendering personal service to the United States similar to the service of an individual in the Civil Service (other than as a member of the uniformed services);
 
-&emsp;(2) “captive status” means a missing status which, as determined by the President, arisesbecause of a hostile action and is a result of the individual's relationship with the Government;
+&emsp;(2) “captive status” means a missing status which, as determined by the President, arises because of a hostile action and is a result of the individual's relationship with the Government;
 
 &emsp;(3) “missing status”—
 
@@ -154,7 +154,7 @@ Section 801 of title VIII of Pub. L. 99–399 provided that: “This title \[ena
 
 #### Payment to Individuals Held in Captive Status Between November 4, 1979, and January 21, 1981
 
-Section 802 of title VIII of Pub. L. 99–399 provided that: “The amount of the payment for individuals inthe Civil Service referred to in section 5569(d) of title 5, United States Code (as added by section 803 of this title), or for individuals in the uniformed services referred to in section 559(c) of title 37, United States Code (as added by section 806 of this title), as the case may be, shall be $50 for each day any such individual was held in captive status during a period commencing on or after November 4, 1979, and ending on or before January 21, 1981.”
+Section 802 of title VIII of Pub. L. 99–399 provided that: “The amount of the payment for individuals in the Civil Service referred to in section 5569(d) of title 5, United States Code (as added by section 803 of this title), or for individuals in the uniformed services referred to in section 559(c) of title 37, United States Code (as added by section 806 of this title), as the case may be, shall be $50 for each day any such individual was held in captive status during a period commencing on or after November 4, 1979, and ending on or before January 21, 1981.”
 
 #### Transition Provisions
 
@@ -198,7 +198,7 @@ Sec. 2. The functions vested in the President by that part of section 803(a) of 
 
 Sec. 3. The functions vested in the President by section 806(a) (to be codified at 37 U.S.C. 559), section 806(c) (to be codified at 10 U.S.C. 1095 \[now 10 U.S.C. 1095a\]), and section 806(d) (to be codified at 10 U.S.C. 2181–2185) are delegated to the Secretary of Defense.
 
-Sec. 4. The functions vested in the President by section 806(b) (to be codified at 10 U.S.C. 1051 \[now 10 U.S.C. 1032\]) are delegated to the Secretary of Defense, to be exercised in consultation with the Secretary of Labor.
+Sec. 4. The functions vested in the President by section 806(b) (to be codified at 10 U.S.C. 1051 \[now 10U.S.C. 1032\]) are delegated to the Secretary of Defense, to be exercised in consultation with the Secretary of Labor.
 
 Sec. 5. The Secretaries of State and Defense shall consult with each other and with the heads of other appropriate Executive departments and agencies in carrying out their functions under this Order.
 

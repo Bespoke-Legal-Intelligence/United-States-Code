@@ -14,11 +14,15 @@ In consultation with the Secretary of State, the Commissioner of Immigration and
 
 #### (c) “Female genital mutilation” defined
 
-For purposes of this section, the term “female genital mutilation” means the removal orinfibulation (or both) of the whole or part of the clitoris, the labia minora, or labia majora.
+For purposes of this section, the term “female genital mutilation” means the removal or infibulation (or both) of the whole or part of the clitoris, the labia minora, or labia majora.
 
 (Pub. L. 104–208, div. C, title VI, §644, Sept. 30, 1996, 110 Stat. 3009–708.)
 
 #### Codification
 
 Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Immigration and Nationality Act which comprises this chapter.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

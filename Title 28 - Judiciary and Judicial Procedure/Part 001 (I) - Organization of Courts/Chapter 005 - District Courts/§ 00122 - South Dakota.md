@@ -32,15 +32,15 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1990</b>—Par. (3). Pub. L. 101–650, §324(b)(1), struck out “Jackson,” after “Hyde,”.
+1990—Par. (3). Pub. L. 101–650, §324(b)(1), struck out “Jackson,” after “Hyde,”.
 
 Par. (4). Pub. L. 101–650, §324(b)(2), inserted “Jackson,” after “Harding,” and substituted “and Shannon” for “Shannon, Washabaugh, and Washington”.
 
-<b>1972</b>—Par. (2). Pub. L. 92–376, §1(a), removed Gregory County from the Southern Division.
+1972—Par. (2). Pub. L. 92–376, §1(a), removed Gregory County from the Southern Division.
 
 Par. (3). Pub. L. 92–376, §1(b), added Gregory, Mellette, Todd, and Tripp counties to the Central Division and removed Armstrong county from the Central Division.
 
 Par. (4). Pub. L. 92–376, §1(c), removed Mellette, Todd, and Tripp counties from the Western Division.
 
-<b>1966</b>—Pub. L. 89–638 provided for holding court at Rapid City.
+1966—Pub. L. 89–638 provided for holding court at Rapid City.
 

@@ -4,7 +4,7 @@
 
 (b)(1) The order of restitution under this section shall direct the defendant to pay the victim (through the appropriate court mechanism) the full amount of the victim's losses, as determined by the court under paragraph (3) of this subsection.
 
-(2) An order of restitution under this section shall be issued and enforced in accordance withsection 3664 in the same manner as an order under section 3663A.
+(2) An order of restitution under this section shall be issued and enforced in accordance with section 3664 in the same manner as an order under section 3663A.
 
 (3) As used in this subsection, the term “full amount of the victim's losses” has the same meaning as provided in section 2259(b)(3) and shall in addition include the greater of the gross income or value to the defendant of the victim's services or labor or the value of the victim's labor as guaranteed under the minimum wage and overtime guarantees of the Fair Labor Standards Act (29 U.S.C. 201 et seq.).
 

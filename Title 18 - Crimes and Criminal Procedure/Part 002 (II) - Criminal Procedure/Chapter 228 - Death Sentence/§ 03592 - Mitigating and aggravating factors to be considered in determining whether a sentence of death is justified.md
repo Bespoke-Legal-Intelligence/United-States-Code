@@ -46,7 +46,7 @@ Prior espionage or treason offense.—The defendant has previously been convicte
 
 &emsp;(2)
 
-Grave risk to national security.—In the commission of the offense the defendant knowingly created a grave risk of substantial danger to the national security.
+Grave risk to national security.—In the commission of the offense the defendantknowingly created a grave risk of substantial danger to the national security.
 
 &emsp;(3)
 
@@ -60,7 +60,7 @@ Aggravating Factors for Homicide.—In determining whether a sentence of death i
 
 &emsp;(1)
 
-Death during commission of another crime.—The death, or injury resulting in death, occurred during the commission or attempted commission of, or during the immediate flight from the commission of, an offense under section 32 (destruction of aircraft or aircraft facilities), section 33 (destruction of motor vehicles or motor vehicle facilities), section 36 <sup>1</sup> (violence at international airports), section 351 (violence against Members of Congress, Cabinet officers, or Supreme Court Justices), an offense under section 751 (prisoners in custody of institution or officer), section 794 (gathering or delivering defense information to aid foreign government), section 844(d) (transportation of explosives in interstate commerce for certain purposes), section 844(f) (destruction of Government property by explosives), section 1118 (prisoners serving life term), section 1201 (kidnapping), section 844(i) (destruction of property affecting interstate commerce by explosives), section 1116 (killing or attempted killing of diplomats), section 1203 (hostage taking), section 1992 (wrecking trains), section 2280 (maritime violence), section 2281 (maritime platform violence), section 2332 (terrorist acts abroad against United States nationals), section 2332a (use of weapons of mass destruction), or section 2381 (treason) of this title, or section 46502 of title 49, United States Code (aircraft piracy).
+Death during commission of another crime.—The death, or injury resulting in death, occurred during the commission or attempted commission of, or during the immediate flight from the commission of, an offense under section 32 (destruction of aircraft or aircraft facilities), section 33 (destruction of motor vehicles or motor vehicle facilities), section 37 (violence at international airports), section 351 (violence against Members of Congress, Cabinet officers, or Supreme Court Justices), an offense under section 751 (prisoners in custody of institution or officer), section 794 (gathering or delivering defense information to aid foreign government), section 844(d) (transportation of explosives in interstate commerce for certain purposes), section 844(f) (destruction of Government property by explosives), section 1118 (prisoners serving life term), section 1201 (kidnapping), section 844(i) (destruction of property affecting interstate commerce by explosives), section 1116 (killing or attempted killing of diplomats), section 1203 (hostage taking), section 1992 (wrecking trains), section 2280 (maritime violence), section 2281 (maritime platform violence), section 2332 (terrorist acts abroad against United States nationals), section 2332a (use of weapons of mass destruction), or section 2381 (treason) of this title, or section 46502 of title 49, United States Code (aircraft piracy).
 
 &emsp;(2)
 
@@ -178,13 +178,15 @@ Lethal adulterant.—The offense involved the importation, manufacture, or distr
 
 > The jury, or if there is no jury, the court, may consider whether any other aggravating factor for which notice has been given exists.
 
-(Added and amended Pub. L. 103–322, title VI, §60002(a), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1960, 2150; Pub. L. 104–132, title VII, §728, Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §§601(b)(7), 604(b)(35), Oct. 11, 1996, 110 Stat. 3499, 3508.)
+(Added and amended Pub. L. 103–322, title VI, §60002(a), title XXXIII, §330021(1), Sept. 13, 1994, 108 Stat. 1960, 2150; Pub. L. 104–132, title VII, §728, Apr. 24, 1996, 110 Stat. 1302; Pub. L. 104–294, title VI, §§601(b)(7), 604(b)(35), Oct. 11, 1996, 110 Stat. 3499, 3508; Pub. L. 107–273, div. B, title IV, §4002(e)(2), Nov. 2, 2002, 116 Stat. 1810.)
 
 #### References in Text
 
 The Comprehensive Drug Abuse Prevention and Control Act of 1970, referred to in subsec. (c)(12), is Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1236, as amended. Title II of the Act, known as the Controlled Substances Act, is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. Title III of the Act, known as the Controlled Substances Import and Export Act, is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under sections 801 and 951 of Title 21 and Tables.
 
 #### Amendments
+
+2002—Subsec. (c)(1). Pub. L. 107–273 substituted “section 37” for “section 36”.
 
 1996—Subsec. (c)(1). Pub. L. 104–294, §601(b)(7), substituted “section 2332a (use of weapons of mass destruction)” for “section 2339 (use of weapons of mass destruction)”.
 
@@ -201,6 +203,4 @@ Amendment by section 604(b)(35) of Pub. L. 104–294 effective Sept. 13, 1994, s
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3591, 3593, 3595 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be section “37”.</i>
 

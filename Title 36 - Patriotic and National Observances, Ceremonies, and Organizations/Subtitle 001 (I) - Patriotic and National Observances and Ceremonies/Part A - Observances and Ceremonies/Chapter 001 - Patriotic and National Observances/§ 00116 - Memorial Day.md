@@ -262,7 +262,7 @@ Information From Federal Agencies.—
 
 &emsp;“(1)
 
-In general.—The Commission may secure directly from a Federal agency such information as the Commission considers necessary to carry out this Act.
+In general.—The Commission may secure directly from a Federal agency such information as theCommission considers necessary to carry out this Act.
 
 &emsp;“(2)
 
@@ -360,7 +360,7 @@ Federal employees.—A member of the Commission who is an officer or employee of
 
 “(b)
 
-Travel Expenses.—A member of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from thehome or regular place of business of the member in the performance of the duties of the Commission.
+Travel Expenses.—A member of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for an employee of an agency under subchapter I of chapter 57 of title 5, United States Code, while away from the home or regular place of business of the member in the performance of the duties of the Commission.
 
 “(c)
 
@@ -416,7 +416,7 @@ Civil service status.—The detail of any officer or employee under this subsect
 
 “(e)
 
-Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission may procure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
+Procurement of Temporary and Intermittent Services.—The Chairperson of the Commission mayprocure temporary and intermittent services in accordance with section 3109(b) of title 5, United States Code, at rates for individuals that do not exceed the daily equivalent of the annual rate of basic pay prescribed for level V of the Executive Schedule under section 5316 of that title.
 
 “(f)
 
@@ -577,4 +577,6 @@ Access.—The Commission shall ensure that the Comptroller General, in conductin
 &emsp;“(1) a date specified by the President that is at least 2 years after the date of enactment of this Act \[Dec. 28, 2000\]; or
 
 &emsp;“(2) the date that is 10 years after the date of enactment of this Act.”
+
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

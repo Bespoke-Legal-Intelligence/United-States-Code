@@ -38,7 +38,7 @@ Pub. L. 97–320, §707(a)(2), struck out “common” before “stock at all ti
 
 1974—Subsec. (a). Pub. L. 93–383, §806(g), struck out provisions relating to issuance, par value, retirement, etc., of nonvoting preferred stock.
 
-Subsec. (c). Pub. L. 93–383, §806(h), substituted provisions relating to purchases subsequent to Sept. 1, 1968, for provisions relating to purchases subsequent to theeffective date established under section 808 of the Housing and Urban Development Act of 1968, and struck out provisions relating to retirement of all outstanding preferred stock.
+Subsec. (c). Pub. L. 93–383, §806(h), substituted provisions relating to purchases subsequent to Sept. 1, 1968, for provisions relating to purchases subsequent to the effective date established under section 808 of the Housing and Urban Development Act of 1968, and struck out provisions relating to retirement of all outstanding preferred stock.
 
 Subsec. (d). Pub. L. 93–383, §806(i), struck out subsec. (d) authorizing issuance of preferred stock to Secretary of the Treasury.
 

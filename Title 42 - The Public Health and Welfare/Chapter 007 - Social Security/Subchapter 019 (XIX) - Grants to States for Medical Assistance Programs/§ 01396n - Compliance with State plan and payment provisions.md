@@ -32,7 +32,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;(2) to allow a locality to act as a central broker in assisting individuals (eligible for medical assistance under this subchapter) in selecting among competing health care plans, if such restriction does not substantially impair access to services of adequate quality where medically necessary,
 
-&emsp;(3) to share (through provision of additional services) with recipients of medical assistance under the State plan cost savings resulting from use by the recipient of more cost-effective medical care, and
+&emsp;(3) to share (through provision of additional services) with recipients of medical assistanceunder the State plan cost savings resulting from use by the recipient of more cost-effective medical care, and
 
 &emsp;(4) to restrict the provider from (or through) whom an individual (eligible for medical assistance under this subchapter) can obtain services (other than in emergency circumstances) to providers or practitioners who undertake to provide such services and who meet, accept, and comply with the reimbursement, quality, and utilization standards under the State plan, which standards shall be consistent with the requirements of section 1396r–4 of this title and are consistent with access, quality, and efficient and economic provision of covered care and services, if such restriction does not discriminate among classes of providers on grounds unrelated to their demonstrated effectiveness and efficiency in providing those services and if providers under such restriction are paid on a timely basis in the same manner as health care practitioners must be paid under section 1396a(a)(37)(A) of this title.
 
@@ -100,7 +100,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 #### (d) Home and community-based services for elderly
 
-(1) Subject to paragraph (2), the Secretary shall grant a waiver to provide that a State plan approved under this subchapter shall include as “medical assistance” under such plan payment for part or all of the cost of home or community-based services (other than room and board) which are provided pursuant to a written plan of care to individuals 65 years of age or older with respect to whom there has been a determination that but for the provision of such services the individuals would be likely to require the level of care provided in a skilled nursing facility or intermediate care facility the cost of which could be reimbursed under the State plan. For purposes of this subsection, the term “room and board” shall not include an amount establishedunder a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded.
+(1) Subject to paragraph (2), the Secretary shall grant a waiver to provide that a State plan approved under this subchapter shall include as “medical assistance” under such plan payment for part or all of the cost of home or community-based services (other than room and board) which are provided pursuant to a written plan of care to individuals 65 years of age or older with respect to whom there has been a determination that but for the provision of such services the individuals would be likely to require the level of care provided in a skilled nursing facility or intermediate care facility the cost of which could be reimbursed under the State plan. For purposes of this subsection, the term “room and board” shall not include an amount established under a method determined by the State to reflect the portion of costs of rent and food attributable to an unrelated personal caregiver who is residing in the same household with an individual who, but for the assistance of such caregiver, would require admission to a hospital, nursing facility, or intermediate care facility for the mentally retarded.
 
 (2) A waiver shall not be granted under this subsection unless the State provides assurances satisfactory to the Secretary that—
 
@@ -142,7 +142,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;&emsp;(II) the percentage increase between the beginning of the base year and the beginning of the waiver year involved in the number of residents in the State who have attained the age of 65, plus
 
-&emsp;&emsp;(III) 2 percent for each year (rounded to the nearest quarter of a year) beginningafter the base year and ending at the end of the waiver year.
+&emsp;&emsp;(III) 2 percent for each year (rounded to the nearest quarter of a year) beginning after the base year and ending at the end of the waiver year.
 
 &emsp;(iii) The Secretary shall develop and promulgate by regulation (by not later than October 1, 1989)—
 
@@ -192,7 +192,7 @@ The Secretary, to the extent he finds it to be cost-effective and efficient and 
 
 &emsp;(C) the State will provide to the Secretary annually, consistent with a data collection plan designed by the Secretary, information on the impact of the waiver granted under this subsection on the type and amount of medical assistance provided under the State plan and on the health and welfare of recipients.
 
-(3) A waiver granted under this subsection may include a waiver of the requirements of section 1396a(a)(1) of this title (relating to statewideness) and section 1396a(a)(10)(B) of this title (relating to comparability). A waiver under this subsection shall be for an initial term of 3 years and, upon the request of a State, shall be extended for additional five-year periods unless the Secretary determines that for the previous waiver period the assurances provided under paragraph (2) have not been met.
+(3) A waiver granted under this subsection may include a waiver of the requirements of section 1396a(a)(1) of this title (relating to statewideness) and section 1396a(a)(10)(B) of this title\(relating to comparability). A waiver under this subsection shall be for an initial term of 3 years and, upon the request of a State, shall be extended for additional five-year periods unless the Secretary determines that for the previous waiver period the assurances provided under paragraph (2) have not been met.
 
 (4) The provisions of paragraph (6) of subsection (d) of this section shall apply to this subsection in the same manner as it applies to subsection (d) of this section.
 
@@ -216,13 +216,13 @@ No waiver under this section (other than a waiver under subsection (c), (d), or 
 
 #### Amendment of Subsection (b)
 
-<i>Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(z)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398, provided that, effective Oct. 1, 2004, subsection</i><i>(b) of this section is amended, in the matter preceding paragraph (1), by striking “sections 1396a(a)(13)(C) and” and inserting “section”.</i>
+<i>Pub. L. 106–113, div. B, §1000(a)(6) \[title VI, §608(z)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–398, provided that, effective Oct. 1, 2004, subsection (b) of this section is amended, in the matter preceding paragraph (1), by striking “sections 1396a(a)(13)(C) and” and inserting “section”.</i>
 
 #### References in Text
 
 Parts A and B of subchapter XVIII of this chapter, referred to in subsec. (a)(1)(B)(ii)(II), are classified to sections 1395c et seq. and 1395j et seq., respectively, of this title.
 
-Section 1401 of title 20, referred to in subsec. (c)(5)(C)(i), was in the original a reference to section 602 of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I of chapter 33 of Title 20, Education, by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of Title 20, and which contains provisions defining “special education” and “related services”.
+Section 1401 of title 20, referred to in subsec. (c)(5)(C)(i), was in the original a reference to section 602 of the Individuals with Disabilities Education Act, Pub. L. 91–230, title VI. Section 602 of Pub. L. 91–230 was omitted in the general amendment of subchapter I ofchapter 33 of Title 20, Education, by Pub. L. 105–17, title I, §101, June 4, 1997, 111 Stat. 37. Pub. L. 105–17 enacted a new section 602 of Pub. L. 91–230, which is classified to section 1401 of Title 20, and which contains provisions defining “special education” and “related services”.
 
 Part E of subchapter IV of this chapter, referred to in subsec. (e)(1)(B), is classified to section 670 et seq. of this title.
 
@@ -354,13 +354,13 @@ Subsec. (c)(2)(C). Pub. L. 99–272, §9502(b)(2), inserted “hospital or” af
 
 Subsec. (c)(2)(D). Pub. L. 99–272, §9502(c)(1), inserted “100 percent of” after “does not exceed”.
 
-Subsec. (c)(3). Pub. L. 99–509, §9411(c), substituted “and section 1396a(a)(10)(B) of this title (relating tocomparability)” for “and section 1396a(a)(10) of this title”.
+Subsec. (c)(3). Pub. L. 99–509, §9411(c), substituted “and section 1396a(a)(10)(B) of this title (relating to comparability)” for “and section 1396a(a)(10) of this title”.
 
 Pub. L. 99–272, §9502(g), substituted “additional five-year periods” for “additional three-year periods”, and “previous waiver period” for “previous three-year period”.
 
 Pub. L. 99–272, §9502(e), inserted at end “A waiver may provide, with respect to post-eligibility treatment of income of all individuals receiving services under that waiver, that the maximum amount of the individual's income which may be disregarded for any month for the maintenance needs of the individual may be an amount greater than the maximum allowed for that purpose under regulations in effect on July 1, 1985.”
 
-Subsec. (c)(4)(B). Pub. L. 99–509, §9411(d), inserted before the period “and for day treatment or other partial hospitalization services, psychosocial rehabilitation services, and clinic services (whether or not furnished in a facility) for individuals with chronic mental illness”.
+Subsec. (c)(4)(B). Pub. L. 99–509, §9411(d), inserted before the period “and for day treatment or other partialhospitalization services, psychosocial rehabilitation services, and clinic services (whether or not furnished in a facility) for individuals with chronic mental illness”.
 
 Subsec. (c)(5). Pub. L. 99–272, §9502(a), added par. (5).
 
@@ -438,7 +438,7 @@ Section 4742(d)(2) of Pub. L. 101–508 provided that: “The amendment made by 
 
 #### Effective Date of 1989 Amendments
 
-Amendment by section 6115(c) of Pub. L. 101–239 applicable to screening pap smears performed on or afterJuly 1, 1990, see section 6115(d) of Pub. L. 101–239, set out as a note under section 1395x of this title.
+Amendment by section 6115(c) of Pub. L. 101–239 applicable to screening pap smears performed on or after July 1, 1990, see section 6115(d) of Pub. L. 101–239, set out as a note under section 1395x of this title.
 
 Section 6411(c)(4) of Pub. L. 101–239 provided that: “The amendment made by paragraph (2) \[amending this section\] shall be effective as if included in the enactment of the Omnibus Budget Reconciliation Act of 1987 \[Pub. L. 100–203\].”
 
@@ -522,7 +522,7 @@ Amendment by Pub. L. 97–448 effective as if originally included as a part of t
 
 #### Effective Date of 1982 Amendment
 
-Section 137(b)(19)(B) of Pub. L. 97–248 provided that: “The amendment made by subparagraph (A) \[amendingthis section\] shall not apply with respect to any waiver if such waiver was granted, and the arrangement covered by the waiver was in place, prior to August 10, 1982.”
+Section 137(b)(19)(B) of Pub. L. 97–248 provided that: “The amendment made by subparagraph (A) \[amending this section\] shall not apply with respect to any waiver if such waiver was granted, and the arrangement covered by the waiver was in place, prior to August 10, 1982.”
 
 Amendment by section 137(b)(20)–(25) of Pub. L. 97–248 effective as if originally included as part of this section as this section was amended by the Omnibus Budget Reconciliation Act of 1981, Pub. L. 97–35, see section 137(d)(2) of Pub. L. 97–248, set out as a note under section 1396a of this title.
 

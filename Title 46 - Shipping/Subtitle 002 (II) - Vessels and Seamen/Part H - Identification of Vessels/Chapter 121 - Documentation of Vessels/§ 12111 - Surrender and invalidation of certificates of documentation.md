@@ -22,7 +22,11 @@
 
 (3) The Secretary may approve the surrender of the certificate of documentation of a documented vessel covered by a mortgage filed or recorded under section 31321 of this title only if the mortgagee consents.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 100–710, title I, §103(a), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 104–324, title III, §301(d)(2)(A), Oct. 19, 1996, 110 Stat. 3916.)
+(d)(1) The Secretary shall not refuse to approve the surrender of the certificate of documentation for a vessel solely on the basis that a notice of a claim of a lien on the vessel has been recorded under section 31343(a) of this title.
+
+(2) The Secretary may condition approval of the surrender of the certificate of documentation for a vessel over 1,000 gross tons.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 588; Pub. L. 100–710, title I, §103(a), Nov. 23, 1988, 102 Stat. 4749; Pub. L. 104–324, title III, §301(d)(2)(A), Oct. 19, 1996, 110 Stat. 3916; Pub. L. 107–295, title II, §205(c), Nov. 25, 2002, 116 Stat. 2096.)
 
 Historical and Revision Notes<br>1983
 
@@ -48,9 +52,15 @@ Section 12111(c)(3) is changed to prohibit the approval of the surrendering of a
 
 #### Amendments
 
+2002—Subsec. (d). Pub. L. 107–295 added subsec. (d).
+
 1996—Subsec. (a)(2). Pub. L. 104–324 inserted “in violation of section 12110(d) of this title” before period at end.
 
 1988—Pub. L. 100–710 substituted “Surrender and invalidation” for “Invalidation” in section catchline, added subsecs. (b) and (c), and struck out former subsec. (b) which read as follows: “Except as provided by section 30(O) of the Merchant Marine Act, 1920 (46 App. U.S.C. 961(a)), an invalid certificate of documentation shall be surrendered as provided by regulations prescribed by the Secretary.”
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–295, title II, §205(e), Nov. 25, 2002, 116 Stat. 2096, provided that: “This section \[amending this section, sections 31325 and 31343 of this title, and section 808 of the Appendix to this title\] shall take effect January 1, 2003.”
 
 #### Effective Date of 1988 Amendment
 

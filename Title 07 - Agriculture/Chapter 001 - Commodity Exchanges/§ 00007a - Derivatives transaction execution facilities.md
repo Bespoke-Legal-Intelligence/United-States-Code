@@ -40,7 +40,7 @@ In lieu of compliance with the contract market designation requirements of secti
 
 &emsp;&emsp;&emsp;(i) is registered with the Commission;
 
-&emsp;&emsp;&emsp;(ii) is a member of a futures self-regulatory organization or, if the person trades only security futures products on the facility, a national securities association registered under section 15A(a) of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–3(a)\];
+&emsp;&emsp;&emsp;(ii) is a member of a futures self-regulatory organization or, if the person tradesonly security futures products on the facility, a national securities association registered under section 15A(a) of the Securities Exchange Act of 1934 \[15 U.S.C. 78<i>o</i>–3(a)\];
 
 &emsp;&emsp;&emsp;(iii) is a clearing member of a derivatives clearing organization; and
 

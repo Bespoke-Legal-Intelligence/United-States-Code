@@ -58,7 +58,7 @@ Section 1054(b) of Pub. L. 103–355 provided that: “Nothing in section 303H, 
 
 &emsp;“(1) the Brooks Automatic Data Processing Act (section 111 of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759)); and
 
-&emsp;“(2) the Brooks Architect-Engineers Act (title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.)).”
+&emsp;“(2) the Brooks Architect-Engineers Act (title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.) \[now 40 U.S.C. 1101–1104\]).”
 
 #### Guidance on Use of Task Order and Delivery Order Contracts
 
@@ -74,9 +74,9 @@ Content of Guidance.—The regulations issued pursuant to subsection (a) shall, 
 
 &emsp;“(1) Specific guidance on the appropriate use of governmentwide and other multiagency contracts entered into in accordance with the provisions of law referred to in that subsection.
 
-&emsp;“(2) Specific guidance on steps that agencies should take in entering into and administering multiple award task order and delivery order contracts to ensure compliance with—
+&emsp;“(2) Specific guidance on steps that agencies should take in entering into and administering multipleaward task order and delivery order contracts to ensure compliance with—
 
-&emsp;&emsp;“(A) the requirement in section 5122 of the Clinger-Cohen Act (40 U.S.C. 1422) for capital planning and investment control in purchases of information technology products and services;
+&emsp;&emsp;“(A) the requirement in section 5122 of the Clinger-Cohen Act (40 U.S.C. 1422) \[now 40 U.S.C. 11312\] for capital planning and investment control in purchases of information technology products and services;
 
 &emsp;&emsp;“(B) the requirement in section 2304c(b) of title 10, United States Code, and section 303J(b) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253j(b)) to ensure that all contractors are afforded a fair opportunity to be considered for the award of task orders and delivery orders; and
 

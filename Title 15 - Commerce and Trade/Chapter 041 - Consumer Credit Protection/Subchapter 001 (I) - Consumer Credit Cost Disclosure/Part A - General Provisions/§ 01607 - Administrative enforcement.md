@@ -30,7 +30,7 @@ For the purpose of the exercise by any agency referred to in subsection (a) of t
 
 #### (c) Federal Trade Commission as overall enforcing agency
 
-Except to the extent that enforcement of the requirements imposed under this subchapter isspecifically committed to some other Government agency under subsection (a) of this section, the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act.
+Except to the extent that enforcement of the requirements imposed under this subchapter is specifically committed to some other Government agency under subsection (a) of this section, the Federal Trade Commission shall enforce such requirements. For the purpose of the exercise by the Federal Trade Commission of its functions and powers under the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\], a violation of any requirement imposed under this subchapter shall be deemed a violation of a requirement imposed under that Act. All of the functions and powers of the Federal Trade Commission under the Federal Trade Commission Act are available to the Commission to enforce compliance by any person with the requirements imposed under this subchapter, irrespective of whether that person is engaged in commerce or meets any other jurisdictional tests in the Federal Trade Commission Act.
 
 #### (d) Rules and regulations
 
@@ -58,7 +58,7 @@ The authority of the Board to issue regulations under this subchapter does not i
 
 &emsp;&emsp;(i) require a partial adjustment in an amount which does not have such an impact; or
 
-&emsp;&emsp;(ii) require the full adjustment, but permit the creditor to make the required adjustment in partial payments over an extended period of time which the agency considers to be reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a) of this section), the agency determines that a partial adjustment or making partial payments over an extended period isnecessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\];
+&emsp;&emsp;(ii) require the full adjustment, but permit the creditor to make the required adjustment in partial payments over an extended period of time which the agency considers to be reasonable, if (in the case of an agency referred to in paragraph (1), (2), or (3) of subsection (a) of this section), the agency determines that a partial adjustment or making partial payments over an extended period is necessary to avoid causing the creditor to become undercapitalized pursuant to section 38 of the Federal Deposit Insurance Act \[12 U.S.C. 1831<i>o</i>\];
 
 &emsp;(B) the <sup>2</sup> amount of the adjustment would be less than $1, except that if more than one year has elapsed since the date of the violation, the agency may require that such amount be paid into the Treasury of the United States, or
 

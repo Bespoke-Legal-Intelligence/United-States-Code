@@ -6,7 +6,7 @@ General Authority.—
 
 &emsp;(1)
 
-Passenger fees.—The Under Secretary of Transportation for Security shall impose a uniform fee, on passengers of air carriers andforeign air carriers in air transportation and intrastate air transportation originating at airports in the United States, to pay for the following costs of providing civil aviation security services:
+Passenger fees.—The Under Secretary of Transportation for Security shall impose a uniform fee, on passengers of air carriers and foreign air carriers in air transportation and intrastate air transportation originating at airports in the United States, to pay for the following costs of providing civil aviation security services:
 
 &emsp;&emsp;(A) Salary, benefits, overtime, retirement and other costs of screening personnel, their supervisors and managers, and Federal law enforcement personnel deployed at airport security screening locations under section 44901.
 
@@ -98,7 +98,7 @@ Fees collected by air carrier.—A fee imposed under subsection (a)(1) shall be 
 
 &emsp;(3)
 
-Due date for remittance.—A fee collected under this section shall be remitted on the last day of each calendar month by thecarrier collecting the fee. The amount to be remitted shall be for the calendar month preceding the calendar month in which the remittance is made.
+Due date for remittance.—A fee collected under this section shall be remitted on the last day of each calendar month by the carrier collecting the fee. The amount to be remitted shall be for the calendar month preceding the calendar month in which the remittance is made.
 
 &emsp;(4)
 
@@ -134,9 +134,13 @@ Exemptions.—The Under Secretary may exempt from the passenger fee imposed unde
 
 #### References in Text
 
-The date of enactment of this Act, referred to in subsec. (d)(1), probably means the date of enactment of Pub. L. 107–71, which enacted this section and which was approved Nov. 19, 2001.
+The date of enactment of this Act, referred to in subsec. (d)(1), probably means the date of enactment ofPub. L. 107–71, which enacted this section and which was approved Nov. 19, 2001.
 
 #### Codification
 
 2001—Pub. L. 107–71, title I, §118(a), Nov. 19, 2001, 115 Stat. 625, which directed the addition of section 44940 at end of subchapter II of chapter 449 without specifying the Code title to be amended, was executed by adding this section at the end of this subchapter, to reflect the probable intent of Congress.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

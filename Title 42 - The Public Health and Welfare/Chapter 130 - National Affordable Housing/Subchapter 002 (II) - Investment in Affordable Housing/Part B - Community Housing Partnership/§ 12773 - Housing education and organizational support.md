@@ -20,7 +20,7 @@ Assistance under this section may be used only for the following eligible activi
 
 #### (2) Housing education
 
-&emsp;Housing education assistance may be made available to community housing development organizations to cover expenses for providing or administering programs for educating, counseling, or organizing homeowners and tenants who are eligible to receive assistance under other provisions of this subchapter.
+&emsp;Housing education assistance may be made available to community housing development organizations to cover expenses for providing or administering programs for educating,counseling, or organizing homeowners and tenants who are eligible to receive assistance under other provisions of this subchapter.
 
 #### (3) Program-wide support of nonprofit development and management
 
@@ -40,7 +40,7 @@ Assistance under this section may be used only for the following eligible activi
 
 #### (7) Facilitating women in homebuilding professions
 
-&emsp;Technical assistance may be made available to businesses, unions, and organizations involved in construction and rehabilitation of housing in low- and moderate-income areas to assist women residing in the area to obtain jobs involving such activities, which may include facilitating access by such women to,and providing, apprenticeship and other training programs regarding nontraditional skills, recruiting women to participate in such programs, providing continuing support for women at job sites, counseling and educating businesses regarding suitable work environments for women, providing information to such women regarding opportunities for establishing small housing construction and rehabilitation businesses, and providing materials and tools for training such women (in an amount not exceeding 10 percent of any assistance provided under this paragraph). The Secretary shall give priority under this paragraph to providing technical assistance for organizations rehabilitating single family or multifamily housing owned or controlled by the Secretary pursuant to title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] and which have women members in occupations in which women constitute 25 percent or less of the total number of workers in the occupation (in this section referred to as “nontraditional occupations”).
+&emsp;Technical assistance may be made available to businesses, unions, and organizations involved in construction and rehabilitation of housing in low- and moderate-income areas to assist women residing in the area to obtain jobs involving such activities, which may include facilitating access by such women to, and providing, apprenticeship and other training programs regarding nontraditional skills, recruiting women to participate in such programs, providing continuing support for women at job sites, counseling and educating businesses regarding suitable work environments for women, providing information to such women regarding opportunities for establishing small housing construction and rehabilitation businesses, and providing materials and tools for training such women (in an amount not exceeding 10 percent of any assistance provided under this paragraph). The Secretary shall give priority under this paragraph to providing technical assistance for organizations rehabilitating single family or multifamily housing owned or controlled by the Secretary pursuant to title II of the National Housing Act \[12 U.S.C. 1707 et seq.\] and which have women members in occupations in which women constitute 25 percent or less of the total number of workers in the occupation (in this section referred to as “nontraditional occupations”).
 
 #### (c) Delivery of assistance
 
@@ -72,7 +72,7 @@ Contracts under this section with any one contractor for a fiscal year may not�
 
 #### (e) Single-State contractors
 
-Not less than 40 percent of the funds made available for this section in an appropriations Act in any fiscal year shall be made available for eligible contractors that have worked primarily in one State. The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.
+Not less than 40 percent of the funds made available for this section in an appropriationsAct in any fiscal year shall be made available for eligible contractors that have worked primarily in one State. The Secretary shall provide assistance under this section, to the extent applications are submitted and approved, to contractors in each of the geographic regions having a regional office of the Department of Housing and Urban Development.
 
 #### (f) “Community land trust” defined
 

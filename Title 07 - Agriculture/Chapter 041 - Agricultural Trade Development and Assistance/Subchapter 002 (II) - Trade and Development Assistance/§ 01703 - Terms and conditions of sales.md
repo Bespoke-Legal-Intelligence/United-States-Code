@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may permit payment under an agreement under this subchapter in the local currency of the appropriate country inorder to use the proceeds from such payments to carry out activities under section 1704 of this title.
+&emsp;&emsp;The Secretary may permit payment under an agreement under this subchapter in the local currency of the appropriate country in order to use the proceeds from such payments to carry out activities under section 1704 of this title.
 
 #### (B) Rates of exchange
 
@@ -92,7 +92,7 @@ Subsec. (b). Pub. L. 89–808 substituted provisions respecting taking steps to 
 
 Subsec. (c). Pub. L. 89–808 redesignated provisions of former section 1701(a) of this title as subsec. (c), substituting “subchapter” for “chapter”.
 
-Subsec. (d). Pub. L. 89–808 redesignated provisions of former section 1707 of this title as subsec. (d), provided for sales agreements only with friendly countries and for periodic reports to Congress of status of such countries, deleted from definition of “friendly country” (formerly “friendly nation”) clause “(1) the U.S.S.R.”, redesignated cls. (2) to (4) as (1) to (3), substituted “country” for “nation”, struck out “or controlled” after “dominated” in cl. (2), amended cl. (3) to include North Vietnam, insert selling or furnishing ships or aircraft, substitute “so long as they are governed by a Communist regime” for “, so long as Cuba is governed by the Castro regime”, and provided for entry into sales agreements when in the national interest for furnishing, selling, or selling and transporting to Cuba medical supplies, etc., upon information to Congress and publication in Federal Register, designated existing provisions as cl. (4), and substituted requirement of information to the President of the Senate of sales to United Arab Republic rather than the Foreign Relations Committee and Appropriations Committee of the Senate.
+Subsec. (d). Pub. L. 89–808 redesignated provisions of former section 1707 of this title as subsec. (d), provided for sales agreements only with friendly countries and for periodic reports to Congress of status of such countries, deleted from definition of “friendly country” (formerly “friendly nation”) clause “(1) the U.S.S.R.”, redesignated cls. (2) to (4) as (1) to (3), substituted “country” for “nation”, struck out “or controlled” after “dominated” in cl. (2), amended cl. (3) to include North Vietnam, insert selling or furnishing ships or aircraft, substitute “so long as they are governed by a Communist regime” for “, so long as Cuba is governed by the Castro regime”, and provided for entry into sales agreements when in the national interest for furnishing, selling, or selling and transporting to Cubamedical supplies, etc., upon information to Congress and publication in Federal Register, designated existing provisions as cl. (4), and substituted requirement of information to the President of the Senate of sales to United Arab Republic rather than the Foreign Relations Committee and Appropriations Committee of the Senate.
 
 Subsec. (e). Pub. L. 89–808 redesignated provisions of former section 1701(b) of this title as subsec. (e), inserting provision for the taking of steps to assure that small business has adequate and fair opportunity to participate in sales made under authority of this chapter.
 

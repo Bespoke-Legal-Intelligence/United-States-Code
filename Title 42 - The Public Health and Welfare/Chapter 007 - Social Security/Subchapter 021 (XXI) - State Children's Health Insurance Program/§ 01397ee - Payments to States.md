@@ -58,11 +58,11 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 &emsp;&emsp;&emsp;(ii) the cost of such coverage is not greater, on an average per child basis, than the cost of coverage that would otherwise be provided under section 1397cc of this title; and
 
-&emsp;&emsp;&emsp;(iii) such coverage is provided through the use of a community-based health delivery system, such as through contracts with health centers receiving funds under section 254b of this title or with hospitals such as those that receive disproportionate share payment adjustments under section 1395ww(d)(5)(F) or 1396r–4 of this title.
+&emsp;&emsp;&emsp;(iii) such coverage is provided through the use of a community-based health delivery system, such as through contractswith health centers receiving funds under section 254b of this title or with hospitals such as those that receive disproportionate share payment adjustments under section 1395ww(d)(5)(F) or 1396r–4 of this title.
 
 #### (3) Waiver for purchase of family coverage
 
-&emsp;Payment may be made to a State under subsection (a)(1) of this section for the purchase of family coverage under a group health plan or health insurance coverage that includescoverage of targeted low-income children only if the State establishes to the satisfaction of the Secretary that—
+&emsp;Payment may be made to a State under subsection (a)(1) of this section for the purchase of family coverage under a group health plan or health insurance coverage that includes coverage of targeted low-income children only if the State establishes to the satisfaction of the Secretary that—
 
 &emsp;&emsp;(A) purchase of such coverage is cost-effective relative to the amounts that the State would have paid to obtain comparable coverage only of the targeted low-income children involved, and
 
@@ -128,7 +128,7 @@ For purposes of subsection (a) of this section, the “enhanced FMAP”, for a S
 
 #### (e) Advance payment; retrospective adjustment
 
-The Secretary may make payments under this section for each quarter on the basis of advance estimates of expenditures submitted by the State and such other investigation as the Secretary may find necessary, and may reduce or increase the payments as necessary to adjust for any overpayment or underpayment for prior quarters.
+The Secretary may make payments under this section for each quarter on the basis of advanceestimates of expenditures submitted by the State and such other investigation as the Secretary may find necessary, and may reduce or increase the payments as necessary to adjust for any overpayment or underpayment for prior quarters.
 
 #### (f) Flexibility in submittal of claims
 

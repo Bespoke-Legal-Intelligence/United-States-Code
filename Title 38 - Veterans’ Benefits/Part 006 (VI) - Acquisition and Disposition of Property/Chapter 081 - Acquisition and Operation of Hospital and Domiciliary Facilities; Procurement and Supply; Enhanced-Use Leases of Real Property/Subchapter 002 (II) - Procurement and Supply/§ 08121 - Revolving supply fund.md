@@ -6,7 +6,7 @@
 
 &emsp;(2) reimbursed from appropriations for the cost of all services, equipment, and supplies furnished, at rates determined by the Secretary on the basis of estimated or actual direct cost (which may be based on the cost of recent significant purchases of the equipment or supply item involved) and indirect cost; and
 
-&emsp;(3) credited with advances from appropriations for activities to which services or supplies are to be furnished, and all other receipts resulting from the operation of the fund, including property returned to the supply system when no longer required by activities to which it had been furnished, the proceeds of disposal of scrap, excess or surplus personal property of the fund, and receipts from carriers and others for loss of or damage to personal property.
+&emsp;(3) credited with advances from appropriations for activities to which services or supplies are to be furnished, and all other receiptsresulting from the operation of the fund, including property returned to the supply system when no longer required by activities to which it had been furnished, the proceeds of disposal of scrap, excess or surplus personal property of the fund, and receipts from carriers and others for loss of or damage to personal property.
 
 > At the end of each fiscal year, there shall be covered into the Treasury of the United States as miscellaneous receipts such amounts as the Secretary determines to be in excess of the requirements necessary for the maintenance of adequate inventory levels and for the effective financial management of the revolving supply fund.
 

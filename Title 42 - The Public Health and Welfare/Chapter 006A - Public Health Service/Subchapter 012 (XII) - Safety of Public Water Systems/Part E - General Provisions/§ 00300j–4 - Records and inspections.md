@@ -164,5 +164,5 @@ Subsec. (b)(1). Pub. L. 95–190, §12(d), designated existing provisions as cls
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300g–1, 300g–3, 300j–12, 7412, 9606 of this title.
+This section is referred to in sections 300g–1, 300g–3, 300i–2, 300j–12, 7412, 9606 of this title.
 

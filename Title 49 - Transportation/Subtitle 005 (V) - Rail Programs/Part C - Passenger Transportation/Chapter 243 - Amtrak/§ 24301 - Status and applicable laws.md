@@ -44,7 +44,7 @@ Preemption Related to Employee Work Requirements.—A State may not adopt or con
 
 (j)
 
-Nonapplication of Laws on Joint Use or Operation of Facilities and Equipment.—Prohibitions of law applicable to an agreement for the joint use or operation of facilities and equipment necessary to provide quick and efficient rail passenger transportation do not apply to a person making an agreement with Amtrak to the extent necessary to allow the person tomake and carry out obligations under the agreement.
+Nonapplication of Laws on Joint Use or Operation of Facilities and Equipment.—Prohibitions of law applicable to an agreement for the joint use or operation of facilities and equipment necessary to provide quick and efficient rail passenger transportation do not apply to a person making an agreement with Amtrak to the extent necessary to allow the person to make and carry out obligations under the agreement.
 
 (k)
 
@@ -64,7 +64,7 @@ Exemption From Additional Taxes.—(1) In this subsection—
 
 Exemption From Taxes Levied After September 30, 1981.—(1)
 
-In general.—Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are exempt from a tax, fee, head charge, or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom after September 30, 1981. In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997.
+In general.—Amtrak, a rail carrier subsidiary of Amtrak, and any passenger or other customer of Amtrak or such subsidiary, are exempt from a tax, fee, head charge,or other charge, imposed or levied by a State, political subdivision, or local taxing authority on Amtrak, a rail carrier subsidiary of Amtrak, or on persons traveling in intercity rail passenger transportation or on mail or express transportation provided by Amtrak or such a subsidiary, or on the carriage of such persons, mail, or express, or on the sale of any such transportation, or on the gross receipts derived therefrom after September 30, 1981. In the case of a tax or fee that Amtrak was required to pay as of September 10, 1982, Amtrak is not exempt from such tax or fee if it was assessed before April 1, 1997.
 
 (2) The district courts of the United States have original jurisdiction over a civil action Amtrak brings to enforce this subsection and may grant equitable or declaratory relief requested by Amtrak.
 
@@ -212,7 +212,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §306(i); added Feb. 5, 1976, Pu
 
 Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §306(f); added June 22, 1972, Pub. L. 92–316, §3(b), 86 Stat. 228; Apr. 7, 1986, Pub. L. 99–272, §4004, 100 Stat. 107.
 
-In subsection (a), before clause (1), the text of 45:541 (1st sentence) is omitted as executed. The text of 45:541 (last sentence) is omitted as surplus. In clause (1), the words “rail carrier” are substituted for “common carrier by railroad” because of 49:10102. In clause (3), the words “department, agency, or instrumentality” are substituted for “agency, instrumentality, authority, or entity, or establishment” for consistency in the revised title and with other titles of the United States Code. The word “instrumentality” includes entities, authorities, establishments, and any other organizational unit of the United States Government that is not a department or agency.
+In subsection (a), before clause (1), the text of 45:541 (1st sentence) is omitted as executed. The text of 45:541 (last sentence) is omitted as surplus. In clause (1), the words “rail carrier” are substituted for “common carrier by railroad” because of 49:10102. In clause (3), thewords “department, agency, or instrumentality” are substituted for “agency, instrumentality, authority, or entity, or establishment” for consistency in the revised title and with other titles of the United States Code. The word “instrumentality” includes entities, authorities, establishments, and any other organizational unit of the United States Government that is not a department or agency.
 
 In subsection (b), the words “In connection with the performance of such activities” and “to which the Corporation is a party” are omitted as surplus.
 

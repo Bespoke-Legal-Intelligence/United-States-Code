@@ -108,7 +108,7 @@
 
 &emsp;&emsp;(i) the individual shall be treated as not having filed an election under section 7297(b) of this title, and
 
-&emsp;&emsp;(ii) section 7297(e) of this title shall not apply and the amount credited to such individual's account (together with interest at 3 percent per year, compounded on December31 of each year to the date on which the revocation is filed) shall be returned to the individual;
+&emsp;&emsp;(ii) section 7297(e) of this title shall not apply and the amount credited to such individual's account (together with interest at 3 percent per year, compounded on December 31 of each year to the date on which the revocation is filed) shall be returned to the individual;
 
 &emsp;(C) no credit shall be allowed for any service as a judge of the Court unless with respect to such service either there has been deducted and withheld the amount required by the civil service retirement laws or there has been deposited in the Civil Service Retirement and Disability Fund an amount equal to the amount so required, with interest;
 
@@ -186,7 +186,7 @@ Eligible Judges.—For purposes of this section, an eligible judge is a judge of
 
 “(c)
 
-Multiple Eligible Judges.—If for any year specified in subsection (a) more than one eligible judge provides notice in accordance with subsection (d), thejudge who has the greatest seniority as a judge of the Court shall be the judge who is eligible to retire in accordance with this section in that year.
+Multiple Eligible Judges.—If for any year specified in subsection (a) more than one eligible judge provides notice in accordance with subsection (d), the judge who has the greatest seniority as a judge of the Court shall be the judge who is eligible to retire in accordance with this section in that year.
 
 “(d)
 

@@ -48,7 +48,7 @@
 
 #### (c) Approval of certain resolutions
 
-All agreements, transactions, and conveyances authorized by Resolutions 97–010 and C22–99 as enacted by the Tribal Council of the Pueblo de Cochiti, and Resolution S.D. 12–99–36 as enacted by the Tribal Council of the Pueblo of Santo Domingo, pertaining to boundary disputes between the Pueblo de Cochiti and the Pueblo of Santo Domingo, are hereby approved, including the Pueblo de Cochiti's agreement to relinquish its claim to the southwest corner of its Spanish Land Grant, to the extent that such land overlaps with the Santo Domingo Pueblo Grant, and to disclaim any right to receive compensation from the United States or any other party with respect to such overlapping lands.
+All agreements, transactions, and conveyances authorized by Resolutions 97–010 and C22–99 as enacted by the Tribal Council of the Pueblo de Cochiti, and Resolution S.D. 12–99–36 as enacted by the Tribal Council of the Pueblo of Santo Domingo, pertaining to boundary disputes between the Pueblo de Cochiti and the Pueblo of Santo Domingo, are hereby approved, including the Pueblo de Cochiti's agreement to relinquish its claim to the southwest corner of its Spanish Land Grant, to the extent that such land overlaps with the Santo Domingo Pueblo Grant, and to disclaim any right to receive compensationfrom the United States or any other party with respect to such overlapping lands.
 
 (Pub. L. 106–425, §7, as added Pub. L. 106–434, §3, Nov. 6, 2000, 114 Stat. 1913.)
 

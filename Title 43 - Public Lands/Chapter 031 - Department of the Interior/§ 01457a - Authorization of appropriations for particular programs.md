@@ -74,7 +74,7 @@ Pub. L. 98–540, §3, Oct. 24, 1984, 98 Stat. 2718, provided that:
 
 &emsp;“(1) the public lands administered by the National Park Service, the Bureau of Land Management, and the United States Fish and Wildlife Service contain valuable wildlife, scenery, natural and historic features, and other resources;
 
-&emsp;“(2) the Congress has specified the duties and responsibilities of the National Park Service, the Bureau of Land Management, and the United States Fish and Wildlife Service to balance the conservation and protection of these public lands and resources with permitted uses in ways Congress has found to be appropriate for each of the various land areas;
+&emsp;“(2) the Congress has specified the duties and responsibilities of the National Park Service, the Bureau of Land Management, and the United StatesFish and Wildlife Service to balance the conservation and protection of these public lands and resources with permitted uses in ways Congress has found to be appropriate for each of the various land areas;
 
 &emsp;“(3) the National Park Service, the Bureau of Land Management, and the United States Fish and Wildlife Service are currently under congressional mandates to maintain sufficient visitor and recreational services in our national parks, campgrounds, and wildlife refuges;
 

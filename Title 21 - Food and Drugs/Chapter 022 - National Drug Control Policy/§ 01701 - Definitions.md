@@ -94,13 +94,13 @@ Pub. L. 105–277, div. C, title VII, §701, Oct. 21, 1998, 112 Stat. 2681–670
 
 #### Ex. Ord. No. 13165. White House Task Force on Drug Use in Sports and United States Representative on the Board of the World Anti-Doping Agency
 
-Ex. Ord. No. 13165, Aug. 9, 2000, 65 F.R. 49469, provided:
+Ex. Ord. No. 13165, Aug. 9, 2000, 65 F.R. 49469, as amended by Ex. Ord. No. 13286, §11, Feb. 28, 2003, 68 F.R. 10622, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Office of National Drug Control \[Policy\] Reauthorization Act of 1998, (21 U.S.C. 1701 <i>et seq</i>.), and in order to develop recommendations for Federal agency actions to address the use of drugs in sports, in particular among young people, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. The use of drugs in sports has reached a level that endangers not just the legitimacy of athletic competition but also the lives and health of athletes—from the elite ranks to youth leagues. The National Household Survey on Drug Abuse issued in 1999 found that in just 1 year's time the rate of steroid use among young people rose roughly 50 percent among both sexes and across all age groups. It is the policy of my Administration to take the steps needed to help eliminate illicit or otherwise banned drug use and doping in sports at the State, national, and international level.
 
-Sec. 2. <i>Establishment of a White House Task Force on Drug Use in Sports</i>. (a) There is established a White House Task Force on Drug Use in Sports (Task Force). The Task Force shall comprise the co-vice chairs of the White House Olympic Task Force (the “Olympic Task Force Vice Chairs”), and representatives designated by the Office of National Drug Control Policy, the Department of Health and Human Services, the Department of Labor, the President's Council on Physical Fitness and Sports, the Office of Management and Budget, the National Security Council, the Department of State, the Department of the Treasury, the Department of Education, the Department of Justice, the Department of Transportation, the National Institute on Drug Abuse, and the Substance Abuse and Mental Health Services Administration.
+Sec. 2. <i>Establishment of a White House Task Force on Drug Use in Sports</i>. (a) There is established a White House Task Force on Drug Use in Sports (Task Force). The Task Force shall comprise the co-vice chairs of the White House Olympic Task Force (the “Olympic Task Force Vice Chairs”), and representatives designated by the Office of National Drug Control Policy, the Department of Health and Human Services, the Department of Labor, the President's Council on Physical Fitness and Sports, the Office of Management and Budget, the National Security Council, the Department of State, the Department of the Treasury, the Department of Education, the Department of Justice, the Department of Transportation, the Department of Homeland Security, the National Institute on Drug Abuse, and the Substance Abuse and Mental Health Services Administration.
 
 (b) The Task Force shall develop recommendations for the President on further executive and legislative actions that can be undertaken to address the problem of doping and drug use in sports. In developing the recommendations, the Task Force shall consider, among other things: (i) the health and safety of America's athletes, in particular our Nation's young people; (ii) the integrity of honest athletic competition; and (iii) the views and recommendations of State and local governments, the private sector, citizens, community groups, and nonprofit organizations, on actions to address this threat. The Task Force, through its Chairs, shall submit its recommendations to the President.
 
@@ -113,8 +113,6 @@ Sec. 3. <i>Participation in the World Anti-Doping Agency</i>. (a) As part of my 
 (b) Pursuant to 21 U.S.C. 1701 <i>et seq</i>., the Director, or in his absence his designee, is hereby authorized to take all necessary and proper actions to execute his responsibilities as United States representative to the WADA.
 
 (c) To assist the Director in carrying out these responsibilities as the United States Government representative to the WADA and to the extent permitted by law, Federal employees may serve in their official capacity, <i>inter alia</i>, on WADA Committees or WADA advisory committees, serving as experts to the WADA.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

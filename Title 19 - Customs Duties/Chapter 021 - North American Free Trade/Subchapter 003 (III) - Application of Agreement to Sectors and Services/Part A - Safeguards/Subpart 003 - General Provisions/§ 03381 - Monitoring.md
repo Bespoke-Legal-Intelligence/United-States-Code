@@ -18,3 +18,7 @@ This part, referred to in text, was in the original “this subtitle”, meaning
 
 1996—Pub. L. 104–295 substituted “subsection (d)(1)(C)(i) of section 2252” for “section 2252(d)(1)(C)(i) of section 2252”.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

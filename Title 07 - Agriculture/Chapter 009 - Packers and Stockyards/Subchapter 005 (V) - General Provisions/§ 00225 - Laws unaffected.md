@@ -2,13 +2,13 @@
 
 Nothing contained in this chapter, except as otherwise provided herein, shall be construed—
 
-(a) To prevent or interfere with the enforcement of, or the procedure under, the provisions of the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July 2, 1890, the Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes,” approved October 15, 1914, the Interstate Commerce Act as amended, the Act entitled “An Act to promote export trade, and for other purposes,” approved April 10, 1918 \[15 U.S.C. 61 et seq.\] or sections 73 to 77, inclusive, of the Act of August 27, 1894, entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” as amended by the Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes,’ ” approved February 12, 1913, or
+(a) To prevent or interfere with the enforcement of, or the procedure under, the provisions of the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July 2, 1890, the Act entitled “An Act to supplement existing laws against unlawful restraints and monopolies, and for other purposes,” approved October 15, 1914, the Interstate Commerce Act as amended, the Act entitled “An Act to promote export trade, and for other purposes,” approved April 10, 1918 \[15 U.S.C. 61 et seq.\] or sections 73 to 76, inclusive, of the Act of August 27, 1894, entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” as amended by the Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes,’ ” approved February 12, 1913, or
 
 (b) To alter, modify, or repeal such Acts or any part or parts thereof, or
 
 (c) To prevent or interfere with any investigation, proceeding, or prosecution begun and pending on August 15, 1921.
 
-(Aug. 15, 1921, ch. 64, title IV, §405, 42 Stat. 168.)
+(Aug. 15, 1921, ch. 64, title IV, §405, 42 Stat. 168; Pub. L. 107–273, div. C, title IV, §14102(c)(2)(C), Nov. 2, 2002, 116 Stat. 1921.)
 
 #### References in Text
 
@@ -20,7 +20,15 @@ The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch
 
 The Act entitled “An Act to promote export trade and for other purposes”, approved April 10, 1918, referred to in subsec. (a), means act Apr. 10, 1918, ch. 50, 40 Stat. 516, known as the Webb-Pomerene Act, which is classified generally to subchapter II (§61 et seq.) of chapter 2 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 66 of Title 15 and Tables.
 
-Sections 73 to 77, inclusive, of the Act of August 27, 1894, entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes”, referred to in subsec. (a), are sections 73 to 77 of act Aug. 27, 1894, ch. 349, 28 Stat. 570, as amended, and are known as the Wilson Tariff Act. Sections 73 to 76 enacted sections 8 to 11 of Title 15. Section 77 was not classified to the Code. For complete classification of this Act to the Code, see Short Title note set out under section 8 of Title 15 and Tables.
+Sections 73 to 76, inclusive, of the Act of August 27, 1894, entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes”, referred to in subsec. (a), are sections 73 to 76 of act Aug. 27, 1894, ch. 349, 28 Stat. 570, as amended, and are known as the Wilson Tariff Act. Sections 73 to 76 enacted sections 8 to 11 of Title 15. For complete classification of this Act to the Code, see Short Title note set out under section 8 of Title 15 and Tables.
 
 The Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled, ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’,” approved February 12, 1913, referred to in subsec. (a), is act Feb. 12, 1913, ch. 40, 37 Stat. 667, which is classified to sections 8 and 11 of Title 15.
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–273 substituted “sections 73 to 76” for “sections 73 to 77”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002, see section 14103 of Pub. L. 107–273, set out as a note under section 3 of Title 15, Commerce and Trade.
 

@@ -18,7 +18,7 @@ As used in this subchapter, the term—
 
 &emsp;(8) “cost or pricing data or price analysis” has the meaning given such terms in section 254b of title 41; and
 
-&emsp;(9) “Federal facility” means any public building (as defined under section 612 of title 40 <sup>1</sup> and shall include any Federal building or construction project—
+&emsp;(9) “Federal facility” means any public building (as defined under section 3301(a) of title 40 <sup>1</sup> and shall include any Federal building or construction project—
 
 &emsp;&emsp;(A) on lands in the public domain;
 
@@ -38,6 +38,10 @@ As used in this subchapter, the term—
 
 (Pub. L. 94–168, §4, Dec. 23, 1975, 89 Stat. 1007; Pub. L. 104–289, §3, Oct. 11, 1996, 110 Stat. 3411.)
 
+#### Codification
+
+“Section 3301(a) of title 40” substituted in par. (9) for “section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
 #### Amendments
 
 1996—Pars. (5) to (9). Pub. L. 104–289 added pars. (5) to (9).
@@ -48,7 +52,7 @@ Section 6 of Pub. L. 104–289 provided that:
 
 “(a)
 
-Effective Date.—This Act \[See Short Title of 1996 Amendment note set out under section 205a of this title\] and the amendments made by this Act shall take effect 90 days after the date of enactment of this Act \[Oct. 11, 1996\].
+Effective Date.—This Act \[See Short Title of 1996 Amendment note set out under section 205a of this title\] and the amendments made by this Act shall takeeffect 90 days after the date of enactment of this Act \[Oct. 11, 1996\].
 
 “(b)
 

@@ -18,7 +18,7 @@ Pub. L. 100–579 and Pub. L. 100–690 enacted identical sections.
 
 #### Amendments
 
-1992—Pub. L. 102–396 amended section generally. Prior to amendment, section related to Native Native Hawaiian health centers.
+1992—Pub. L. 102–396 amended section generally. Prior to amendment, section related to Native Hawaiian health centers.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) Trustee as creditor of obligor
 
-Subject to the provisions of subsection (b) of this section, if the indenture trustee shall be, or shall become, a creditor, directly or indirectly, secured or unsecured, of an obligor upon the indenture securities, within three months prior to a default as defined in the last paragraph of this subsection, or subsequent to such a default, then, unless and until such default shall be cured, such trustee shall set apart and hold in a special account for the benefit of the trustee individually and the indenture security holders—
+Subject to the provisions of subsection (b) of this section, if the indenture trustee shall be, orshall become, a creditor, directly or indirectly, secured or unsecured, of an obligor upon the indenture securities, within three months prior to a default as defined in the last paragraph of this subsection, or subsequent to such a default, then, unless and until such default shall be cured, such trustee shall set apart and hold in a special account for the benefit of the trustee individually and the indenture security holders—
 
 &emsp;(1) an amount equal to any and all reductions in the amount due and owing upon any claim as such creditor in respect of principal or interest, effected after the beginning of such three months’ period and valid as against such obligor and its other creditors, except any such reduction resulting from the receipt or disposition of any property described in paragraph (2) of this subsection, or from the exercise of any right of setoff which the trustee could have exercised if a petition in bankruptcy had been filed by or against such obligor upon the date of such default; and
 
@@ -36,7 +36,7 @@ The indenture to be qualified shall automatically be deemed (unless it is expres
 
 &emsp;(1) the ownership or acquisition of securities issued under any indenture, or any security or securities having a maturity of one year or more at the time of acquisition by the indenture trustee;
 
-&emsp;(2) advances authorized by a receivership or bankruptcy court of competent jurisdiction, or by the indenture, for the purpose of preserving the property subject to the lien of the indenture or of discharging tax liens or other prior liens or encumbrances on the trust estate, if notice of such advance and of the circumstances surrounding the making thereof isgiven to the indenture security holders, at the time and in the manner provided in the indenture;
+&emsp;(2) advances authorized by a receivership or bankruptcy court of competent jurisdiction, or by the indenture, for the purpose of preserving the property subject to the lien of the indenture or of discharging tax liens or other prior liens or encumbrances on the trust estate, if notice of such advance and of the circumstances surrounding the making thereof is given to the indenture security holders, at the time and in the manner provided in the indenture;
 
 &emsp;(3) disbursements made in the ordinary course of business in the capacity of trustee under an indenture, transfer agent, registrar, custodian, paying agent, fiscal agent or depositary, or other similar capacity;
 
@@ -53,8 +53,6 @@ In the exercise by the Commission of any jurisdiction under the Public Utility H
 (May 27, 1933, ch. 38, title III, §311, as added Aug. 3, 1939, ch. 411, 53 Stat. 1161; amended Pub. L. 101–550, title IV, §409, Nov. 15, 1990, 104 Stat. 2728.)
 
 #### References in Text
-
-The Bankruptcy Act, referred to in subsec. (a), is act July 1, 1898, ch. 541, 30 Stat. 544, as amended, which was classified generally to former Title 11, Bankruptcy. The Act was repealed effective Oct. 1, 1979, by Pub. L. 95–598, §§401(a), 402(a), Nov. 6, 1978, 92 Stat. 2682, section 101 of which enacted revised Title 11.
 
 Section 25(a) of the Federal Reserve Act, as amended, referred to in subsec. (b)(5), which is classified to subchapter II (§611 et seq.) of chapter 6 of Title 12, Banks and Banking, was renumbered section 25A of that act by Pub. L. 102–242, title I, §142(e)(2), Dec. 19, 1991, 105 Stat. 2281.
 

@@ -12,7 +12,7 @@ The Director of the Institute shall coordinate the activities of the Director un
 
 #### (1) In general
 
-&emsp;In carrying out subsection (a) of this section, the Director of the Institute shall conduct or support research to expand the understanding of the cause of, and to find a cure for,breast cancer. Activities under such subsection shall provide for an expansion and intensification of the conduct and support of—
+&emsp;In carrying out subsection (a) of this section, the Director of the Institute shall conduct or support research to expand the understanding of the cause of, and to find a cure for, breast cancer. Activities under such subsection shall provide for an expansion and intensification of the conduct and support of—
 
 &emsp;&emsp;(A) basic research concerning the etiology and causes of breast cancer;
 

@@ -10,15 +10,17 @@ If the Director refuses to renew the registration, the Director shall notify the
 
 #### (c) Designation of resident for service of process and notices
 
-If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person acopy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.
+If the registrant is not domiciled in the United States the registrant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
-(July 5, 1946, ch. 540, title I, §9, 60 Stat. 431; Pub. L. 87–772, §5, Oct. 9, 1962, 76 Stat. 770; Pub. L. 100–667, title I, §111, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §106, Oct. 30, 1998, 112 Stat. 3067; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title I, §9, 60 Stat. 431; Pub. L. 87–772, §5, Oct. 9, 1962, 76 Stat. 770; Pub. L. 100–667, title I, §111, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §106, Oct. 30, 1998, 112 Stat. 3067; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(4), Nov. 2, 2002, 116 Stat. 1907.)
 
 #### Prior Provisions
 
 Act Feb. 20, 1905, ch. 592, §12, 33 Stat. 727.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–273 amended subsec. (c) generally. Prior to amendment, text read as follows: “If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.”
 
 1999—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted “Director” for “Commissioner”.
 

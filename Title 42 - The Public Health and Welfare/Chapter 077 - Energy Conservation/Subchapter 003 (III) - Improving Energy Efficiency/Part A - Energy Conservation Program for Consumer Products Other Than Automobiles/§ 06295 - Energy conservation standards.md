@@ -33,7 +33,7 @@ The purposes of this section are to—
 
 (3)(A)(i) The Secretary shall publish a proposed rule, no later than July 1, 1988, to determine if the standards established by paragraph (1) should be amended. The Secretary shall publish a final rule no later than July 1, 1989, which shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1993. If such a final rule is not published before January 1, 1990, any amendment of such standards shall apply to products manufactured on or after January 1, 1995. Nothing in this subsection provides any justification or defense for a failure by the Secretary to comply with the nondiscretionary duty to publish final rules by the dates stated in this paragraph.
 
-(ii)(I) If the Secretary does not publish a final rule before January 1, 1990, relating to the revision of the energy conservation standards for refrigerators, refrigerator-freezers and freezers,the regulations which established standards for such products and were promulgated by the California Energy Commission on December 14, 1984, to be effective January 1, 1992 (or any amendments to such standards that are not more stringent than the standards in the original regulations), shall apply in California to such products, effective beginning January 1, 1993, and shall not be preempted after such effective date by any energy conservation standard established in this section or prescribed, on or after January 1, 1990, under this section.
+(ii)(I) If the Secretary does not publish a final rule before January 1, 1990, relating to the revision of the energy conservation standards for refrigerators, refrigerator-freezers and freezers, the regulations which established standards for such products and were promulgated by the California Energy Commission on December 14, 1984, to be effective January 1, 1992 (or any amendments to such standards that are not more stringent than the standards in the original regulations), shall apply in California to such products, effective beginning January 1, 1993, and shall not be preempted after such effective date by any energy conservation standard established in this section or prescribed, on or after January 1, 1990, under this section.
 
 (II) If the Secretary does not publish a final rule before January 1, 1992, relating to the revision of the energy conservation standards for refrigerators, refrigerator-freezers and freezers, State regulations which apply to such products manufactured on or after January 1, 1995, shall apply to such products until the effective date of a rule issued under this section with respect to such products.
 
@@ -96,7 +96,7 @@ The purposes of this section are to—
 
 &emsp;(B) Single Package Systems: 6.6 for products manufactured on or after January 1, 1993.
 
-(3)(A) The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established under paragraph (1) should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1999. The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established under paragraph (2) shall be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 2002.
+(3)(A) The Secretary shall publish a final rule no later than January 1, 1994, to determinewhether the standards established under paragraph (1) should be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 1999. The Secretary shall publish a final rule no later than January 1, 1994, to determine whether the standards established under paragraph (2) shall be amended. Such rule shall contain such amendment, if any, and provide that the amendment shall apply to products manufactured on or after January 1, 2002.
 
 (B) The Secretary shall publish a final rule after January 1, 1994, and no later than January 1, 2001, to determine whether the standards in effect for central air conditioners and central air conditioning heat pumps should be amended. Such rule shall provide that any amendment shall apply to products manufactured on or after January 1, 2006.
 
@@ -172,7 +172,7 @@ The purposes of this section are to—
 
 (1) Dishwashers manufactured on or after January 1, 1988, shall be equipped with an option to dry without heat.
 
-(2) All rinse cycles of clothes washers shall include an unheated water option, but may have a heated water rinse option, for products manufactured on or after January 1, 1988.
+(2) All rinse cycles of clothes washers shall include an unheated water option, but may have aheated water rinse option, for products manufactured on or after January 1, 1988.
 
 (3) Gas clothes dryers shall not be equipped with a constant burning pilot for products manufactured on or after January 1, 1988.
 
@@ -379,7 +379,7 @@ INCANDESCENT REFLECTOR LAMPS
 
 &emsp;(II) is applicable to any sale or installation of all products in such type or class of low consumption water closet or low consumption urinal.
 
-(C) If, after any period of five consecutive years, the maximum flush volume requirementsof the ASME/ANSI standard for low consumption water closets are not amended to improve the efficiency of water use of such products, or after any such period such requirements for low consumption urinals are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of water closet or urinal if such State regulation—
+(C) If, after any period of five consecutive years, the maximum flush volume requirements of the ASME/ANSI standard for low consumption water closets are not amended to improve the efficiency of water use of such products, or after any such period such requirements for low consumption urinals are not amended to improve the efficiency of water use of such products, the Secretary shall, not later than six months after the end of such five-year period, publish a final rule waiving the provisions of section 6297(c) of this title with respect to any State regulation concerning the water use or water efficiency of such type or class of water closet or urinal if such State regulation—
 
 &emsp;(i) is more stringent than the standards in effect for such type or class of water closet or urinal; and
 
@@ -431,7 +431,7 @@ After issuance of the last final rules required under subsections (b) through (i
 
 #### (<i>o</i>) Criteria for prescribing new or amended standards
 
-(1) The Secretary may not prescribe any amended standard which increases the maximum allowable energy use, or, in the case of showerheads, faucets, water closets, or urinals,water use, or decreases the minimum required energy efficiency, of a covered product.
+(1) The Secretary may not prescribe any amended standard which increases the maximum allowable energy use, or, in the case of showerheads, faucets, water closets, or urinals, water use, or decreases the minimum required energy efficiency, of a covered product.
 
 (2)(A) Any new or amended energy conservation standard prescribed by the Secretary under this section for any type (or class) of covered product shall be designed to achieve the maximum improvement in energy efficiency, or, in the case of showerheads, faucets, water closets, or urinals, water efficiency, which the Secretary determines is technologically feasible and economically justified.
 
@@ -517,7 +517,7 @@ Compliance with, and performance under, the energy conservation standards (excep
 
 (2) The Secretary may not exercise the authority granted under paragraph (1) with respect to any type (or class) of covered product subject to an energy conservation standard under this section unless the Secretary makes a finding, after obtaining the written views of the Attorney General, that a failure to allow an exemption under paragraph (1) would likely result in a lessening of competition.
 
-(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14, 1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422, Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824; Pub. L. 105–388, §5(a)(5), Nov. 13, 1998, 112 Stat. 3478.)
+(Pub. L. 94–163, title III, §325, Dec. 22, 1975, 89 Stat. 923; Pub. L. 94–385, title I, §161, Aug. 14,1976, 90 Stat. 1140; Pub. L. 95–619, title IV, §422, Nov. 9, 1978, 92 Stat. 3259; Pub. L. 100–12, §5, Mar. 17, 1987, 101 Stat. 107; Pub. L. 100–357, §2(e), June 28, 1988, 102 Stat. 673; Pub. L. 102–486, title I, §123(f), Oct. 24, 1992, 106 Stat. 2824; Pub. L. 105–388, §5(a)(5), Nov. 13, 1998, 112 Stat. 3478.)
 
 #### References in Text
 

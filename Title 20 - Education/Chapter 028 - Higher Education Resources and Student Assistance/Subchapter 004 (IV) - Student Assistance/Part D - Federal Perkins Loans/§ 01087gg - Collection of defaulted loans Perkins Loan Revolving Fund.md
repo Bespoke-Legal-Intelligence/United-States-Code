@@ -22,7 +22,7 @@ Section 1087cc(a) of this title, referred to in subsec. (b), was amended by Pub.
 
 #### Prior Provisions
 
-A prior section 1087gg, Pub. L. 89–329, title IV, §467, as added Pub. L. 96–49, §5(d)(3)(A), Aug. 13, 1979, 93 Stat. 352; amended Pub. L. 96–374, title IV, §445(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1442, 1503; Pub. L. 99–272, title XVI, §16029, Apr. 7, 1986, 100 Stat. 354, related to collection of defaulted loans, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1087gg, Pub. L. 89–329, title IV, §467, as added Pub. L. 96–49, §5(d)(3)(A), Aug. 13, 1979, 93 Stat.352; amended Pub. L. 96–374, title IV, §445(c), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1442, 1503; Pub. L. 99–272, title XVI, §16029, Apr. 7, 1986, 100 Stat. 354, related to collection of defaulted loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 

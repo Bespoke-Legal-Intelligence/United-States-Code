@@ -6,7 +6,7 @@ In approving applications for financial assistance under subsection (a), (b), (c
 
 #### (b) Priority for local applications
 
-In providing assistance under this subpart, a State educational agency or Indian tribe, or the Corporation if section 12522 or 12523 of this title applies, shall give priority to entities that submit applications under section 12526 of this titlewith respect to service-learning programs described in section 12521 of this title that—
+In providing assistance under this subpart, a State educational agency or Indian tribe, or the Corporation if section 12522 or 12523 of this title applies, shall give priority to entities that submit applications under section 12526 of this title with respect to service-learning programs described in section 12521 of this title that—
 
 &emsp;(1) involve participants in the design and operation of the program;
 

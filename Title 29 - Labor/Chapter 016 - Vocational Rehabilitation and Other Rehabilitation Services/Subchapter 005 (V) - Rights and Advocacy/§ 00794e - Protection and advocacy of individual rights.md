@@ -66,7 +66,7 @@ To provide minimum allotments to systems within States (as increased under subse
 
 #### (e) Reallotment
 
-Whenever the Commissioner determines that any amount of an allotment to a system within a State for any fiscal year described in subsection (c)(1) of this section will not be expended by such system in carrying out the provisions of this section, the Commissioner shall make such amount available for carrying out the provisions of this section to one or more of the systems that the Commissioner determines will be ableto use additional amounts during such year for carrying out such provisions. Any amount made available to a system for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the system (as determined under the preceding provisions of this section) for such year.
+Whenever the Commissioner determines that any amount of an allotment to a system within a State for any fiscal year described in subsection (c)(1) of this section will not be expended by such system in carrying out the provisions of this section, the Commissioner shall make such amount available for carrying out the provisions of this section to one or more of the systems that the Commissioner determines will be able to use additional amounts during such year for carrying out such provisions. Any amount made available to a system for any fiscal year pursuant to the preceding sentence shall, for the purposes of this section, be regarded as an increase in the allotment of the system (as determined under the preceding provisions of this section) for such year.
 
 #### (f) Application
 
@@ -126,7 +126,7 @@ As used in this section:
 
 #### (1) Eligible system
 
-&emsp;The term “eligible system” means a protection and advocacy system that is establishedunder subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15041 et seq.\] and that meets the requirements of subsection (f) of this section.
+&emsp;The term “eligible system” means a protection and advocacy system that is established under subtitle C of the Developmental Disabilities Assistance and Bill of Rights Act of 2000 \[42 U.S.C. 15041 et seq.\] and that meets the requirements of subsection (f) of this section.
 
 #### (2) American Indian consortium
 
@@ -184,11 +184,11 @@ States.—For purposes of determining the minimum amount of an allotment under p
 
 “(B)
 
-Certain territories.—For purposes of determining the minimum amount of an allotment under paragraph (4)(B), the amount $50,000 shall, in the case of such allotments for fiscal year 1994 and subsequent fiscal years, be increased to the extent necessary to offset the effects of inflation occurring since October 1992, as measured by the percentage increase in the Consumer Price Index For All Urban Consumers (U.S. city average) during the period ending on April 1 of the fiscal year preceding the fiscal year for which the allotment is to be made.”
+Certain territories.—For purposes of determining the minimum amount of an allotment under paragraph (4)(B), the amount $50,000 shall, in the caseof such allotments for fiscal year 1994 and subsequent fiscal years, be increased to the extent necessary to offset the effects of inflation occurring since October 1992, as measured by the percentage increase in the Consumer Price Index For All Urban Consumers (U.S. city average) during the period ending on April 1 of the fiscal year preceding the fiscal year for which the allotment is to be made.”
 
 Subsec. (d). Pub. L. 103–73, §112(c)(4), added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “Amounts necessary to provide allotments to systems within States in accordance with subsection (c)(3)(B) of this section as increased under subsection (c)(5) of this section, or to provide allotments in accordance with subsection (c)(4)(B) of this section as increased in accordance with subsection (c)(5) of this section, shall be derived by proportionately reducing the allotments of the remaining systems within States under subsection (c)(3) of this section, but with such adjustments as may be necessary to prevent the allotment of any such remaining systems within States from being thereby reduced to less than the greater of $100,000 or one-third of one percent of the sums made available for purposes of this section for the fiscal year for which the allotment is made, as increased in accordance with subsection (c)(5) of this section.”
 
-Subsec. (i). Pub. L. 103–73, §112(c)(6), which directed the amendment of this section “in subsection (i), toread as follows: “, was executed by adding subsec. (i). Former subsec. (i) redesignated (n).
+Subsec. (i). Pub. L. 103–73, §112(c)(6), which directed the amendment of this section “in subsection (i), to read as follows: “, was executed by adding subsec. (i). Former subsec. (i) redesignated (n).
 
 Subsec. (j). Pub. L. 103–73, §112(c)(7), added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “An eligible system may not use more than 5 percent of any allotment under subsection (c) of this section for the cost of administration of the system required by this section.”
 
@@ -200,5 +200,5 @@ Amendment by Pub. L. 105–12 effective Apr. 30, 1997, applicable to Federal pay
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 716, 718, 3002 of this title; title 42 section 14404.
+This section is referred to in sections 716, 718, 3002 of this title; title 42 section 14404; 15461.
 

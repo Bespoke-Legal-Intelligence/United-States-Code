@@ -16,15 +16,15 @@ Sections 592, 593A, 641(b)(6), 641(d)(2)(A), 704(i)(2), and 734(i)(2) of the Tar
 
 #### Prior Provisions
 
-A prior section 1582, acts June 25, 1948, ch. 646, 62 Stat. 943; June 2, 1970; Pub. L. 91–271, title I, §110, 84 Stat. 278; July 26, 1979, Pub. L. 96–39, title X, §1001(b)(4)(B), 93 Stat. 305, related to the jurisdiction ofthe Customs Court, prior to the general revision of this chapter by Pub. L. 96–417.
+A prior section 1582, acts June 25, 1948, ch. 646, 62 Stat. 943; June 2, 1970; Pub. L. 91–271, title I, §110, 84 Stat. 278; July 26, 1979, Pub. L. 96–39, title X, §1001(b)(4)(B), 93 Stat. 305, related to the jurisdiction of the Customs Court, prior to the general revision of this chapter by Pub. L. 96–417.
 
 #### Amendments
 
-<b>1993</b>—Par. (1). Pub. L. 103–182 inserted “593A,” after “592,”.
+1993—Par. (1). Pub. L. 103–182 inserted “593A,” after “592,”.
 
-<b>1986</b>—Par. (1). Pub. L. 99–514 substituted “641(b)(6)” for “641(a)(1)(C)”.
+1986—Par. (1). Pub. L. 99–514 substituted “641(b)(6)” for “641(a)(1)(C)”.
 
-<b>1984</b>—Par. (1). Pub. L. 98–573 inserted references to section 641(a)(1)(C) and 641(d)(2)(A) of the Tariff Act of 1930.
+1984—Par. (1). Pub. L. 98–573 inserted references to section 641(a)(1)(C) and 641(d)(2)(A) of the Tariff Act of 1930.
 
 #### Effective Date of 1984 Amendment
 

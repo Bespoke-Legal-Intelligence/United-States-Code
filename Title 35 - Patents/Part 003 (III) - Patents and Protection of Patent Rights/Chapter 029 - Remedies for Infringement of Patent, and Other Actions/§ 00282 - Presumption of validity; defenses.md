@@ -12,7 +12,7 @@ The following shall be defenses in any action involving the validity or infringe
 
 &emsp;(4) Any other fact or act made a defense by this title.
 
-In actions involving the validity or infringement of a patent the party asserting invalidity or noninfringement shall give notice in the pleadings or otherwise in writing to the adverse party at least thirty days before the trial, of the country, number, date, and name of the patentee of any patent, the title, date, and page numbers of any publication to be relied upon as anticipation of the patent in suit or, except in actions in the United States Court of Federal Claims, as showing the state of the art, and the name and address of any person who may be relied upon as the prior inventor or as having prior knowledge of or as having previously used or offered for sale the invention of the patent in suit. In the absence of such notice proof of the said matters may not be made at the trial except on such terms as the court requires. Invalidity of the extension of a patent term or any portion thereof under section 154(b) or 156 of this title because of the material failure—
+In actions involving the validity or infringement of a patent the party asserting invalidity or noninfringement shall give notice in the pleadings or otherwise in writing to the adverse party at least thirty days before the trial, of the country, number, date, and name of the patentee of any patent, the title, date, and page numbers of any publication to be relied upon as anticipation of the patent in suit or, except in actions in the United States Court of Federal Claims, as showing the state of the art, and the name and address of any person who may be relied upon asthe prior inventor or as having prior knowledge of or as having previously used or offered for sale the invention of the patent in suit. In the absence of such notice proof of the said matters may not be made at the trial except on such terms as the court requires. Invalidity of the extension of a patent term or any portion thereof under section 154(b) or 156 of this title because of the material failure—
 
 &emsp;(1) by the applicant for the extension, or
 
@@ -20,7 +20,7 @@ In actions involving the validity or infringement of a patent the party assertin
 
 > to comply with the requirements of such section shall be a defense in any action involving the infringement of a patent during the period of the extension of its term and shall be pleaded. A due diligence determination under section 156(d)(2) is not subject to review in such an action.
 
-(July 19, 1952, ch. 950, 66 Stat. 812; Pub. L. 89–83, §10, July 24, 1965, 79 Stat. 261; Pub. L. 94–131, §10, Nov. 14, 1975, 89 Stat. 692; Pub. L. 97–164, title I, §161(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–417, title II, §203, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–41, §2, Nov. 1, 1995, 109 Stat. 352; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(1), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 812; Pub. L. 89–83, §10, July 24, 1965, 79 Stat. 261; Pub. L. 94–131, §10, Nov. 14, 1975, 89 Stat. 692; Pub. L. 97–164, title I, §161(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–417, title II, §203, Sept. 24, 1984, 98 Stat. 1603; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–41, §2, Nov. 1, 1995, 109 Stat. 352; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(b)(1), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), (4), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -34,15 +34,19 @@ The third paragraph, relating to notice of prior patents, publications and uses,
 
 #### Amendments
 
-1999—Third par. Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], substituted “(2) by the Director,” for “(2) by the Commissioner,”.
+2002—Third par. Pub. L. 107–273, §13206(b)(4), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(b)(1)\]. See 1999 Amendment note below.
 
-Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(b)(1)\], which directed the substitution of “154(b) or 156 of this title” for “156 of this title” in fourth par., was executed by making substitution in third par., to reflect the probable intent of Congress.
+Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+
+1999—Third par. Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “(2) by the Director,” for “(2) by the Commissioner,”.
+
+Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(b)(1)\], as amended by Pub. L. 107–273, §13206(b)(4), substituted “154(b) or 156 of this title” for “156 of this title”.
 
 1995—First par. Pub. L. 104–41 inserted after second sentence “Notwithstanding the preceding sentence, if a claim to a composition of matter is held invalid and that claim was the basis of a determination of nonobviousness under section 103(b)(1), the process shall no longer be considered nonobvious solely on the basis of section 103(b)(1).”
 
 1992—Third par. Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-1984—Pub. L. 98–417 inserted provision at end that the invalidity of the extension of a patent term or any portion thereof under section 156 of this title because of the material failure by the applicant for the extension, or by the Commissioner, to comply with the requirements of such section shall be a defense in any action involving the infringement of a patent during the period of the extension of its term and shall be pleaded,and that a due diligence determination under section 156(d)(2) is not subject to review in such an action.
+1984—Pub. L. 98–417 inserted provision at end that the invalidity of the extension of a patent term or any portion thereof under section 156 of this title because of the material failure by the applicant for the extension, or by the Commissioner, to comply with the requirements of such section shall be a defense in any action involving the infringement of a patent during the period of the extension of its term and shall be pleaded, and that a due diligence determination under section 156(d)(2) is not subject to review in such an action.
 
 1982—Third par. Pub. L. 97–164 substituted “Claims Court” for “Court of Claims”.
 

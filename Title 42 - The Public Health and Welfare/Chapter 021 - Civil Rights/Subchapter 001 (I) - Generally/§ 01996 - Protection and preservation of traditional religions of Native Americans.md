@@ -14,7 +14,7 @@ Pub. L. 95–341, as amended, which enacted this section, section 1996a of this 
 
 #### Federal Implementation of Protective and Preservation Functions Relating to Native American Religious Cultural Rights and Practices; Presidential Report to Congress
 
-Section 2 of Pub. L. 95–341 provided that the President direct the various Federal departments, agencies,and other instrumentalities responsible for administering relevant laws to evaluate their policies and procedures in consultation with native traditional religious leaders to determine changes necessary to preserve Native American religious cultural rights and practices and report to the Congress 12 months after Aug. 11, 1978.
+Section 2 of Pub. L. 95–341 provided that the President direct the various Federal departments, agencies, and other instrumentalities responsible for administering relevant laws to evaluate their policies and procedures in consultation with native traditional religious leaders to determine changes necessary to preserve Native American religious cultural rights and practices and report to the Congress 12 months after Aug. 11, 1978.
 
 #### Ex. Ord. No. 13007. Indian Sacred Sites
 

@@ -4,7 +4,7 @@
 
 #### (1) Support for expanded U.S. participation
 
-&emsp;The United States should expand its participation in educational and cultural exchange activities with Poland and Hungary, using the full array of existing government-funded and privately-funded programs, with particular emphasis on the J. William Fulbright Educational Exchange Program, the International Visitors Program, the Samantha Smith Memorial Exchange Program, the exchange programs of the National Academy of Sciences, youth and student exchanges through such private organizations as The Experiment in International Living, The American Field Service Committee, and Youth for Understanding, and research exchanges sponsored by the International Research and Exchanges Board (IREX).
+&emsp;The United States should expand its participation in educational and cultural exchange activities with Poland and Hungary, using the full array of existing government-funded and privately-funded programs, with particular emphasis on the J. William Fulbright Educational Exchange Program, the International Visitors Program, the Samantha Smith Memorial Exchange Program, the exchange programs of the National Academy of Sciences,youth and student exchanges through such private organizations as The Experiment in International Living, The American Field Service Committee, and Youth for Understanding, and research exchanges sponsored by the International Research and Exchanges Board (IREX).
 
 #### (2) Emphasis on skills in business and economics
 

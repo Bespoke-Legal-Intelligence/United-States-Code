@@ -6,7 +6,7 @@ In implementing the tariff-rate quotas set out in Schedule XX for the entry, or 
 
 #### (b) Inadequate supply
 
-Where imports of an agricultural product are subject to a tariff-rate quota, and where thePresident determines and proclaims that the supply of the same or directly competitive or substitutable agricultural product will be inadequate, because of a natural disaster, disease, or major national market disruption, to meet domestic demand at reasonable prices, the President may temporarily increase the quantity of imports of the agricultural product that is subject to the in-quota rate of duty established under the tariff-rate quota.
+Where imports of an agricultural product are subject to a tariff-rate quota, and where the President determines and proclaims that the supply of the same or directly competitive or substitutable agricultural product will be inadequate, because of a natural disaster, disease, ormajor national market disruption, to meet domestic demand at reasonable prices, the President may temporarily increase the quantity of imports of the agricultural product that is subject to the in-quota rate of duty established under the tariff-rate quota.
 
 #### (c) Monitoring
 
@@ -81,8 +81,4 @@ NOW, THEREFORE, I, WILLIAM J. CLINTON, President of the United States of America
 IN WITNESS WHEREOF, I have hereunto set my hand this seventh day of October, in the year of our Lord nineteen hundred and ninety-nine, and of the Independence of the United States of America the two hundred and twenty-fourth.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 1359a.
 

@@ -1,0 +1,44 @@
+### §481. Short title; findings; and sense of Congress
+
+#### (a) Short title
+
+This part may be cited as the “Homeland Security Information Sharing Act”.
+
+#### (b) Findings
+
+Congress finds the following:
+
+&emsp;(1) The Federal Government is required by the Constitution to provide for the common defense, which includes terrorist attack.
+
+&emsp;(2) The Federal Government relies on State and local personnel to protect against terrorist attack.
+
+&emsp;(3) The Federal Government collects, creates, manages, and protects classified and sensitive but unclassified information to enhance homeland security.
+
+&emsp;(4) Some homeland security information is needed by the State and local personnel to prevent and prepare for terrorist attack.
+
+&emsp;(5) The needs of State and local personnel to have access to relevant homeland security information to combat terrorism must be reconciled with the need to preserve the protected status of such information and to protect the sources and methods used to acquire such information.
+
+&emsp;(6) Granting security clearances to certain State and local personnel is one way to facilitate the sharing of information regarding specific terrorist threats among Federal, State, and local levels of government.
+
+&emsp;(7) Methods exist to declassify, redact, or otherwise adapt classified information so it may be shared with State and local personnel without the need for granting additional security clearances.
+
+&emsp;(8) State and local personnel have capabilities and opportunities to gather information on suspicious activities and terrorist threats not possessed by Federal agencies.
+
+&emsp;(9) The Federal Government and State and local governments and agencies in other jurisdictions may benefit from such information.
+
+&emsp;(10) Federal, State, and local governments and intelligence, law enforcement, and other emergency preparation and response agencies must act in partnership to maximize the benefits of information gathering and analysis to prevent and respond to terrorist attacks.
+
+&emsp;(11) Information systems, including the National Law Enforcement Telecommunications System and the Terrorist Threat Warning System, have been established for rapid sharing of classified and sensitive but unclassified information among Federal, State, and local entities.
+
+&emsp;(12) Increased efforts to share homeland security information should avoid duplicating existing information systems.
+
+#### (c) Sense of Congress
+
+It is the sense of Congress that Federal, State, and local entities should share homeland security information to the maximum extent practicable, with special emphasis on hard-to-reach urban and rural communities.
+
+(Pub. L. 107–296, title VIII, §891, Nov. 25, 2002, 116 Stat. 2252.)
+
+#### References in Text
+
+This part, referred to in subsec. (a), was in the original “This subtitle”, meaning subtitle I (§§891–899) of title VIII of Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2252, which enacted this part, amended section 2517 of Title 18, Crimes and Criminal Procedure, Rule 6 of the Federal Rules of Criminal Procedure, set out in the Appendix to Title 18, and sections 403–5d, 1806, and 1825 of Title 50, War and National Defense, and amended provisions set out as a note under section 2517 of Title 18. For complete classification of subtitle I to the Code, see Tables.
+

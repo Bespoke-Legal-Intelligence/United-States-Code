@@ -16,7 +16,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 &emsp;&emsp;&emsp;(i) aged 3 through 5 and 18 through 21 in a State to the extent that its application to those children would be inconsistent with State law or practice, or the order of any court, respecting the provision of public education to children in those age ranges; and
 
-&emsp;&emsp;&emsp;(ii) aged 18 through 21 to the extent that State law does not require that specialeducation and related services under this subchapter be provided to children with disabilities who, in the educational placement prior to their incarceration in an adult correctional facility:
+&emsp;&emsp;&emsp;(ii) aged 18 through 21 to the extent that State law does not require that special education and related services under this subchapter be provided to children with disabilities who, in the educational placement prior to their incarceration in an adult correctional facility:
 
 &emsp;&emsp;&emsp;&emsp;(I) were not actually identified as being a child with a disability under section 1401(3) of this title; or
 
@@ -50,7 +50,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;If the State uses a funding mechanism by which the State distributes State funds on the basis of the type of setting in which a child is served, the funding mechanism does not result in placements that violate the requirements of subparagraph (A).
+&emsp;&emsp;&emsp;If the State uses a funding mechanism by which the State distributes State fundson the basis of the type of setting in which a child is served, the funding mechanism does not result in placements that violate the requirements of subparagraph (A).
 
 #### (ii) Assurance
 
@@ -112,7 +112,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (ii) Reimbursement for private school placement
 
-&emsp;&emsp;&emsp;If the parents of a child with a disability, who previously received special education and related services under the authority of a public agency, enroll the child in a private elementary or secondary school without the consent of or referral by the public agency, a court or a hearing officer may require the agency to reimburse the parents for the cost of that enrollment if the court or hearing officer finds that the agency had not made a free appropriate public education available to the child in a timely manner prior to that enrollment.
+&emsp;&emsp;&emsp;If the parents of a child with a disability, who previously received special educationand related services under the authority of a public agency, enroll the child in a private elementary or secondary school without the consent of or referral by the public agency, a court or a hearing officer may require the agency to reimburse the parents for the cost of that enrollment if the court or hearing officer finds that the agency had not made a free appropriate public education available to the child in a timely manner prior to that enrollment.
 
 #### (iii) Limitation on reimbursement
 
@@ -178,7 +178,7 @@ A State is eligible for assistance under this subchapter for a fiscal year if th
 
 #### (iii) Interagency disputes
 
-&emsp;&emsp;&emsp;Procedures for resolving interagency disputes (including procedures under which local educational agencies may initiate proceedings) under the agreement or other mechanism to secure reimbursement from other agencies or otherwise implement the provisions of the agreement or mechanism.
+&emsp;&emsp;&emsp;Procedures for resolving interagency disputes (including procedures under whichlocal educational agencies may initiate proceedings) under the agreement or other mechanism to secure reimbursement from other agencies or otherwise implement the provisions of the agreement or mechanism.
 
 #### (iv) Coordination of services procedures
 
@@ -394,7 +394,7 @@ If the State educational agency provides free appropriate public education to ch
 
 #### (1) In general
 
-&emsp;If a State has on file with the Secretary policies and procedures that demonstrate that such State meets any requirement of subsection (a) of this section, including any policies and procedures filed under this subchapter as in effect before the effective date of the Individuals with Disabilities Education Act Amendments of 1997, the Secretary shall consider such State to have met such requirement for purposes of receiving a grant under this subchapter.
+&emsp;If a State has on file with the Secretary policies and procedures that demonstrate thatsuch State meets any requirement of subsection (a) of this section, including any policies and procedures filed under this subchapter as in effect before the effective date of the Individuals with Disabilities Education Act Amendments of 1997, the Secretary shall consider such State to have met such requirement for purposes of receiving a grant under this subchapter.
 
 #### (2) Modifications made by State
 
@@ -436,7 +436,7 @@ Nothing in this chapter permits a State to reduce medical and other assistance a
 
 &emsp;&emsp;&emsp;(i) the total amount received by the State under this subchapter for such fiscal year; by
 
-&emsp;&emsp;&emsp;(ii) the number of children with disabilities served in the prior year, as reportedto the Secretary by the State under section 1418 of this title.
+&emsp;&emsp;&emsp;(ii) the number of children with disabilities served in the prior year, as reported to the Secretary by the State under section 1418 of this title.
 
 #### (B) Withholding of certain amounts
 

@@ -8,7 +8,7 @@ For the purpose of this subchapter and part C of subchapter I of chapter 34 of t
 
 1998—Pub. L. 105–244 substituted “subpart 2” for “subpart 4”.
 
-1992—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: “For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, except subparts 1 and 3 of part A of this subchapter, the term ‘family contribution’ with respect to any student means the amount which the student and his or her family may be reasonably expected to contribute toward his or her postsecondary education for the academic year for which the determination is made, as determined in accordance with this part.”
+1992—Pub. L. 102–325 amended section generally. Prior to amendment, section read as follows: “For the purpose of this subchapter and part C of subchapter I of chapter 34 of title 42, except subparts 1 and 3 of part A of this subchapter, the term ‘family contribution’ with respect to any student means the amount which the student and his or her family may be reasonably expected to contribute toward his or her postsecondaryeducation for the academic year for which the determination is made, as determined in accordance with this part.”
 
 #### Effective Date of 1998 Amendment
 

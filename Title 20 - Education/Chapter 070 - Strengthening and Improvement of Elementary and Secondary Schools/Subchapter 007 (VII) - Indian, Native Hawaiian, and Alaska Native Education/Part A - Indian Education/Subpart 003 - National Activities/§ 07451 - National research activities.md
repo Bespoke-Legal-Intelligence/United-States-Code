@@ -20,13 +20,19 @@ The Secretary may carry out any of the activities described in subsection (a) of
 
 Research activities supported under this section—
 
-&emsp;(1) shall be carried out in consultation with the Office of Educational Research and Improvement to ensure that such activities are coordinated with and enhance the research and development activities supported by the Office; and
+&emsp;(1) shall be carried out in consultation with the Institute of Education Sciences to ensure that such activities are coordinated with and enhance the research and development activities supported by the Institute; and
 
-&emsp;(2) may include collaborative research activities that are jointly funded and carried out by the Office of Indian Education Programs and the Office of Educational Research and Improvement.
+&emsp;(2) may include collaborative research activities that are jointly funded and carried out by the Office of Indian Education Programs and the Institute of Education Sciences.
 
-(Pub. L. 89–10, title VII, §7131, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1923.)
+(Pub. L. 89–10, title VII, §7131, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1923; amended Pub. L. 107–279, title IV, §404(d)(5)(E), (8), Nov. 5, 2002, 116 Stat. 1986.)
 
 #### Prior Provisions
 
 A prior section 7451, Pub. L. 89–10, title VII, §7131, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3729, authorized research, evaluation of activities, and dissemination of information. See section 6931 of this title.
+
+#### Amendments
+
+2002—Subsec. (c)(1). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement” and “by the Institute” for “by the Office”.
+
+Subsec. (c)(2). Pub. L. 107–279, §404(d)(5)(E), substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement”.
 

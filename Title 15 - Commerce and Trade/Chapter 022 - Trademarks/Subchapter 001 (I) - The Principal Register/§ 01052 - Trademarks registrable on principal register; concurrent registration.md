@@ -16,7 +16,7 @@ No trademark by which the goods of the applicant may be distinguished from the g
 
 > A mark which when used would cause dilution under section 1125(c) of this title may be refused registration only pursuant to a proceeding brought under section 1063 of this title. A registration for a mark which when used would cause dilution under section 1125(c) of this title may be canceled pursuant to a proceeding brought under either section 1064 of this title or section 1092 of this title.
 
-(July 5, 1946, ch. 540, title I, §2, 60 Stat. 428; Pub. L. 87–772, §2, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §104, Nov. 16, 1988, 102 Stat. 3937; Pub. L. 103–182, title III, §333(a), Dec. 8, 1993, 107 Stat. 2114; Pub. L. 103–465, title V, §522, Dec. 8, 1994, 108 Stat. 4982; Pub. L. 105–330, title II, §201(a)(2), (12), Oct. 30, 1998, 112 Stat. 3069, 3070; Pub. L. 106–43, §2(a), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title I, §2, 60 Stat. 428; Pub. L. 87–772, §2, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §104, Nov. 16, 1988, 102 Stat. 3937; Pub. L. 103–182, title III, §333(a), Dec. 8, 1993, 107 Stat. 2114; Pub. L. 103–465, title V, §522, Dec. 8, 1994, 108 Stat. 4982; Pub. L. 105–330, title II, §201(a)(2), (12), Oct. 30, 1998, 112 Stat. 3069, 3070; Pub. L. 106–43, §2(a), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV,§4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
 
 #### References in Text
 

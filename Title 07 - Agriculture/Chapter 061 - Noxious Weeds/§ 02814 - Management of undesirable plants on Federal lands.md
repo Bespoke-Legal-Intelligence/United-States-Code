@@ -54,7 +54,7 @@ As used in this section:
 
 #### (4) Integrated management system
 
-&emsp;The term “integrated management systems” means a system for the planning and implementation of a program, using an interdisciplinary approach, to select a method for containing or controlling an undesirable plantspecies or group of species using all available methods, including—
+&emsp;The term “integrated management systems” means a system for the planning and implementation of a program, using an interdisciplinary approach, to select a method for containing or controlling an undesirable plant species or group of species using all available methods, including—
 
 &emsp;&emsp;(A) education;
 
@@ -98,7 +98,7 @@ As used in this section:
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture and the Secretary of the Interior shall take such actions as may be necessary to coordinate Federal agency programs for control, research, and educational efforts associated with Federal, State, and locally designated noxious weeds.
+&emsp;The Secretary of Agriculture and the Secretary of the Interior shall take such actions as may be necessary to coordinate Federal agency programs for control, research, andeducational efforts associated with Federal, State, and locally designated noxious weeds.
 
 #### (2) Duties
 

@@ -1,14 +1,16 @@
 ### §3324. Authorization of appropriations
 
-There is authorized to be appropriated $7,500,000 for each of the fiscal years 1991 through 2002. Funds appropriated under this section or section 3323 <sup>1</sup> of this title may not be used to acquire or construct a building.
+There is authorized to be appropriated $7,500,000 for each of the fiscal years 1991 through 2007. Funds appropriated under this section or section 3323 <sup>1</sup> of this title may not be used to acquire or construct a building.
 
-(Pub. L. 95–113, title XIV, §1477, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981, 95 Stat. 1318; amended Pub. L. 99–198, title XIV, §1429(c), Dec. 23, 1985, 99 Stat. 1556; Pub. L. 101–624, title XVI, §1614(c), Nov. 28, 1990, 104 Stat. 3728; Pub. L. 104–127, title VIII, §820(d), Apr. 4, 1996, 110 Stat. 1168; Pub. L. 105–185, title III, §301(a)(15), June 23, 1998, 112 Stat. 562.)
+(Pub. L. 95–113, title XIV, §1477, as added Pub. L. 97–98, title XIV, §1440(a), Dec. 22, 1981, 95 Stat. 1318; amended Pub. L. 99–198, title XIV, §1429(c), Dec. 23, 1985, 99 Stat. 1556; Pub. L. 101–624, title XVI, §1614(c), Nov. 28, 1990, 104 Stat. 3728; Pub. L. 104–127, title VIII, §820(d), Apr. 4, 1996, 110 Stat. 1168; Pub. L. 105–185, title III, §301(a)(15), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7116, May 13, 2002, 116 Stat. 433.)
 
 #### References in Text
 
 Section 3323 of this title, referred to in text, was repealed by Pub. L. 105–185, title III, §302(a), June 23, 1998, 112 Stat. 563.
 
 #### Amendments
+
+2002—Pub. L. 107–171 substituted “2007” for “2002”.
 
 1998—Pub. L. 105–185 substituted “2002” for “1997”.
 

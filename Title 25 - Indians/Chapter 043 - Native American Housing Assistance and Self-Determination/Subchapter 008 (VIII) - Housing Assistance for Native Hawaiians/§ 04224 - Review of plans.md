@@ -58,7 +58,7 @@ If the Secretary determines that a plan submitted under section 4223 of this tit
 
 #### (2) Complete plans
 
-&emsp;The Director shall submit a complete plan under section 4223 of this title not later than 4 years after submitting an initial plan under that section, and not less frequently than every 4 years thereafter.
+&emsp;The Director shall submit a complete plan under section 4223 of this title not later than4 years after submitting an initial plan under that section, and not less frequently than every 4 years thereafter.
 
 #### (e) Effective date
 

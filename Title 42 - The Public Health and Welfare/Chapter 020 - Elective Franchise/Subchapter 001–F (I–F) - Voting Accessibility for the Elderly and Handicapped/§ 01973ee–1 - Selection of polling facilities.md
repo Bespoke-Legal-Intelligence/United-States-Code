@@ -36,5 +36,5 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(2) of this
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1973gg–4 of this title.
+This section is referred to in sections 1973gg–4, 15483 of this title.
 

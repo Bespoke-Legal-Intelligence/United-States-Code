@@ -6,9 +6,9 @@
 
 &emsp;(2) acquire, collect, classify, and preserve any information which would assist in the identification of any deceased individual who has not been identified after the discovery of such deceased individual;
 
-&emsp;(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney General may acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); <sup>1</sup>
+&emsp;(3) acquire, collect, classify, and preserve any information which would assist in the location of any missing person (including an unemancipated person as defined by the laws of the place of residence of such person) and provide confirmation as to any entry for such a person to the parent, legal guardian, or next of kin of that person (and the Attorney General may acquire, collect, classify, and preserve such information from such parent, guardian, or next of kin); and
 
-&emsp;(4) exchange such records and information with, and for the official use of, authorized officials of the Federal Government, the States, cities, and penal and other institutions.
+&emsp;(4) exchange such records and information with, and for the official use of, authorized officials of the Federal Government, including the United States Sentencing Commission, the States, cities, and penal and other institutions.
 
 (b) The exchange of records and information authorized by subsection (a)(4) of this section is subject to cancellation if dissemination is made outside the receiving departments or related agencies.
 
@@ -30,11 +30,11 @@
 
 (3) As used in this subsection—
 
-&emsp;(A) the term “national crime information databases” means the National Crime Information Center and its incorporated criminalhistory databases, including the Interstate Identification Index; and
+&emsp;(A) the term “national crime information databases” means the National Crime Information Center and its incorporated criminal history databases, including the Interstate Identification Index; and
 
 &emsp;(B) the term “protection order” includes an injunction or any other order issued for the purpose of preventing violent or threatening acts or harassment against, or contact or communication with or physical proximity to, another person, including temporary and final orders issued by civil or criminal courts (other than support or child custody orders) whether obtained by filing an independent action or as a pendente lite order in another proceeding so long as any civil order was issued in response to a complaint, petition, or motion filed by or on behalf of a person seeking protection.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 616; amended Pub. L. 97–292, §§2, 3(a), Oct. 12, 1982, 96 Stat. 1259; Pub. L. 100–690, title VII, §7333, Nov. 18, 1988, 102 Stat. 4469; Pub. L. 103–322, title IV, §40601(a), Sept. 13, 1994, 108 Stat. 1950; Pub. L. 107–273, div. A, title II, §204(c), div. B, title IV, §4003(b)(4), div. C, title I, §11004, Nov. 2, 2002, 116 Stat. 1776, 1811, 1816.)
 
 Historical and Revision Notes
 
@@ -62,11 +62,15 @@ In subsection (c), the authority to appoint officials for the cited purposes is 
 
 #### Amendments
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–322 added subsec. (e).
+2002—Subsec. (a)(3). Pub. L. 107–273, §§204(c) and 4003(b)(4), amended par. (3) identically, inserting “and” at end.
 
-<b>1988</b>—Subsec. (d). Pub. L. 100–690 added subsec. (d).
+Subsec. (a)(4). Pub. L. 107–273, §11004, added par. (4) and struck out former par. (4) which read as follows: “exchange such records and information with, and for the official use of, authorized officials of the Federal Government, the States, cities, and penal and other institutions.”
 
-<b>1982</b>—Pub. L. 97–292, §3(a), inserted “and information” after “identification records” in section catchline.
+1994—Subsec. (e). Pub. L. 103–322 added subsec. (e).
+
+1988—Subsec. (d). Pub. L. 100–690 added subsec. (d).
+
+1982—Pub. L. 97–292, §3(a), inserted “and information” after “identification records” in section catchline.
 
 Subsec. (a). Pub. L. 97–292, §2(a), added pars. (2) and (3), redesignated former par. (2) as (4), and substituted “exchange such records and information” for “exchange these records” in par. (4).
 
@@ -104,45 +108,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §124\], Oct. 21, 1998, 112 Stat.
 
 #### Compilation of Statistics Relating to Intimidation of Government Employees
 
-Pub. L. 104–132, title VIII, §808, Apr. 24, 1996, 110 Stat. 1310, provided that:
-
-“(a)
-
-Findings.—The Congress finds that—
-
-&emsp;“(1) threats of violence and acts of violence against Federal, State, and local government employees and their families are increasing as the result of attempts to stop public servants from performing their lawful duties;
-
-&emsp;“(2) these acts are a danger to the constitutional form of government of the United States; and
-
-&emsp;“(3) more information is needed relating to the extent and nature of the danger to these employees and their families so that actions can be taken to protect public servants at all levels of government in the performance of their duties.
-
-“(b)
-
-Statistics.—The Attorney General shall collect data, for the calendar year 1990 and each succeeding calendar year thereafter, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, and local government employees and their families in the performance of their lawful duties. Such data shall include—
-
-&emsp;“(1) in the case of crimes against such employees and their families, the nature of the crime; and
-
-&emsp;“(2) in the case of incidents of threats of violence and acts of violence, including verbal and implicit threats against such employees and their families, the deterrent effect on the performance of their jobs.
-
-“(c)
-
-Guidelines.—The Attorney General shall establish guidelines for the collection of the data under subsection (b), including a definition of the sufficiency of evidence of noncriminal incidents required to be reported.
-
-“(d)
-
-Use of Data.—
-
-&emsp;“(1)
-
-Annual publishing.—The Attorney General shall publish an annual summary of the data collected under this section.
-
-&emsp;“(2)
-
-Use of data.—Except with respect to the summary published under paragraph (1), data collected under this section shall be used only for research and statistical purposes.
-
-“(e)
-
-Exemption.—The Attorney General, the Secretary of State, and the United States Secret Service is not required to participate in any statistical reporting activity under this section with respect to any direct or indirect threat made against any individual for whom that official or Service is authorized to provide protection.”
+Pub. L. 104–132, title VIII, §808, Apr. 24, 1996, 110 Stat. 1310, which required Attorney General to collect data for the calendar year 1990 and each succeeding calendar year, relating to crimes and incidents of threats of violence and acts of violence against Federal, State, and local government employees and their families in the performance of their lawful duties, and to annually publish a summary of the data collected to be used only for research and statistical purposes, was repealed by Pub. L. 107–273, div. A, title III, §311(a), Nov. 2, 2002, 116 Stat. 1786.
 
 #### Rulemaking Relating to Access to Federal Criminal Information Databases
 
@@ -307,6 +273,4 @@ Definition.—As used in this section, the term ‘State’ means a State of the
 #### Funds for Exchange of Identification Records
 
 Pub. L. 92–544, title II, §201, Oct. 25, 1972, 86 Stat. 1115, provided that: “The funds provided for Salaries and Expenses, Federal Bureau of Investigation, may be used hereafter, in addition to those uses authorized thereunder, for the exchange of identification records with officials or federally chartered or insured banking institutions to promote or maintain the security of those institutions, and, if authorized by State statute and approved by the Attorney General, to officials of State and local governments for purposes of employment and licensing, any such exchange to be made only for the official use of any such official and subject to the same restriction with respect to dissemination as that provided for under the aforementioned appropriation.”
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 

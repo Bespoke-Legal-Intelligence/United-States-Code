@@ -1,6 +1,6 @@
 ### §2507. Calls and discovery
 
-(a) The United States Court of Federal Claims may call upon any department or agency of the United States or upon any party for any information or papers, not privileged, for purposes of discovery or for use as evidence. The head of any department or agency may refuse to comply with a call issued pursuant to this subsection when, in his opinion, compliance will be injurious to the public interest.
+(a) The United States Court of Federal Claims may call upon any department or agency of the United States or upon any party for any information or papers, not privileged, for purposes of discovery or for use as evidence. The head of any department or agency may refuse to comply with a call issued pursuant to this subsectionwhen, in his opinion, compliance will be injurious to the public interest.
 
 (b) Without limitation on account of anything contained in subsection (a) of this section, the court may, in accordance with its rules, provide additional means for the discovery of any relevant facts, books, papers, documents or tangible things, not privileged.
 
@@ -18,15 +18,15 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsec. (c). Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164, §139(f)(1), substituted “United States Claims Court” for “Court of Claims”.
+1982—Subsec. (a). Pub. L. 97–164, §139(f)(1), substituted “United States Claims Court” for “Court of Claims”.
 
 Subsec. (c). Pub. L. 97–164, §139(f)(2), substituted “Claims Court” for “Court of Claims”.
 
-<b>1954</b>—Act Sept. 3, 1954, substituted “Calls and discovery” for “Calls on departments for information” in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
+1954—Act Sept. 3, 1954, substituted “Calls and discovery” for “Calls on departments for information” in section catchline, designated existing provisions as subsec. (a), and added subsecs. (b) and (c).
 
 #### Effective Date of 1992 Amendment
 

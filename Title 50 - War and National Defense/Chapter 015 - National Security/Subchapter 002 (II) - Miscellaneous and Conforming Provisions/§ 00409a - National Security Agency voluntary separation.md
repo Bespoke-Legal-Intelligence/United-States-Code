@@ -12,7 +12,7 @@ For purposes of this section—
 
 &emsp;(2) the term “employee” means an employee of the National Security Agency, serving under an appointment without time limitation, who has been currently employed by the National Security Agency for a continuous period of at least 12 months prior to the effective date of the program established under subsection (c) of this section, except that such term does not include—
 
-&emsp;&emsp;(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title5 or another retirement system for employees of the Government; or
+&emsp;&emsp;(A) a reemployed annuitant under subchapter III of chapter 83 or chapter 84 of title 5 or another retirement system for employees of the Government; or
 
 &emsp;&emsp;(B) an employee having a disability on the basis of which such employee is or would be eligible for disability retirement under any of the retirement systems referred to in subparagraph (A).
 
@@ -50,7 +50,7 @@ An employee who—
 
 #### (f) Reemployment restrictions
 
-An employee who receives separation pay under such program may not be reemployed by the National Security Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separation occurring on or after March 30, 1994, and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the National Security Agency. If the employment is with an Executive agency (as defined by section 105 of title 5), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
+An employee who receives separation pay under such program may not be reemployed by the National Security Agency for the 12-month period beginning on the effective date of the employee's separation. An employee who receives separation pay under this section on the basis of a separation occurring on or after March 30, 1994, and accepts employment with the Government of the United States within 5 years after the date of the separation on which payment of the separation pay is based shall be required to repay the entire amount of the separation pay to the National Security Agency. If the employment is with an Executive agency (as defined by section 105 of title 5), the Director of the Office of Personnel Management may, at the request of the head of the agency, waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant availablefor the position. If the employment is with an entity in the legislative branch, the head of the entity or the appointing official may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position. If the employment is with the judicial branch, the Director of the Administrative Office of the United States Courts may waive the repayment if the individual involved possesses unique abilities and is the only qualified applicant available for the position.
 
 #### (g) Bar on certain employment
 
@@ -82,21 +82,15 @@ Under this program, early retirement and separation pay may be offered only—
 
 Before an employee may be eligible for early retirement, separation pay, or both, under this section, the Director shall prescribe such regulations as may be necessary to carry out this section.
 
-#### (j) Reporting requirements
+#### (j) Notification of exercise of authority
 
-#### (1) Notification
-
-&emsp;The Director may not make an offer of early retirement, separation pay, or both, pursuant to this section until 15 days after submitting to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (h) of this section,and includes <sup>1</sup> the proposed regulations issued pursuant to subsection (i) of this section.
-
-#### (2) Annual report
-
-&emsp;The Director shall submit to the President and the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate an annual report on the effectiveness and costs of carrying out this section.
+The Director may not make an offer of early retirement, separation pay, or both, pursuant to this section until 15 days after submitting to the congressional intelligence committees a report describing the occupational groups or geographic locations, or other similar limitations or conditions, required by the Director under subsection (h) of this section, and includes <sup>1</sup> the proposed regulations issued pursuant to subsection (i) of this section.
 
 #### (k) Remittance of funds
 
 In addition to any other payment that is required to be made under subchapter III of chapter 83 or chapter 84 of title 5, the National Security Agency shall remit to the Office of Personnel Management for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund, an amount equal to 15 percent of the final basic pay of each employee to whom a voluntary separation payment has been or is to be paid under this section. The remittance required by this subsection shall be in lieu of any remittance required by section 4(a) of the Federal Workforce Restructuring Act of 1994 (5 U.S.C. 8331 note).
 
-(July 26, 1947, ch. 343, title III, §301, as added Pub. L. 106–567, title III, §304(a), Dec. 27, 2000, 114 Stat. 2836.)
+(July 26, 1947, ch. 343, title III, §301, as added Pub. L. 106–567, title III, §304(a), Dec. 27, 2000, 114 Stat. 2836; amended Pub. L. 107–306, title III, §353(b)(2)(A), title VIII, §841(b), Nov. 27, 2002, 116 Stat. 2402, 2431.)
 
 #### References in Text
 
@@ -105,6 +99,18 @@ Section 4(a) of the Federal Workforce Restructuring Act of 1994, referred to in 
 #### Prior Provisions
 
 A prior section 301 of act July 26, 1947, ch. 343, 61 Stat. 507, was classified to sections 171b and 171c–1 of former Title 5, Executive Departments and Government Officers and Employees, prior to repeal by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 632.
+
+#### Amendments
+
+2002—Subsec. (j). Pub. L. 107–306, §841(b), substituted “Notification of exercise of authority” for “Reporting requirements” in subsec. heading and struck out “(1)
+
+Notification.—” before “The Director may” and par. (2) which read as follows:
+
+“(2)
+
+Annual report.—The Director shall submit to the President and the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate an annual report on the effectiveness and costs of carrying out this section.”
+
+Pub. L. 107–306, §353(b)(2)(A), substituted “congressional intelligence committees” for “Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate”.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “including”.</i>
 

@@ -4,7 +4,7 @@
 
 The National Council shall—
 
-&emsp;(1) prepare and submit to the Secretary, for the Secretary's review and approval, an annual marketing and promotion plan whichcontains descriptions of consumer education, research, and other marketing and promotion activities of the National Council for the following year, including plans to coordinate the activities of councils established under section 4009 of this title;
+&emsp;(1) prepare and submit to the Secretary, for the Secretary's review and approval, an annual marketing and promotion plan which contains descriptions of consumer education, research, and other marketing and promotion activities of the National Council for the following year, including plans to coordinate the activities of councils established under section 4009 of this title;
 
 &emsp;(2) prepare and submit to the Secretary, for the Secretary's review and approval, an annual budget of the anticipated expenses and disbursements of the National Council, including probable costs of consumer education, research, and other marketing and promotion plans or projects, and referenda under section 4009 of this title;
 
@@ -26,7 +26,7 @@ Each annual marketing and promotion plan shall be directed to—
 
 #### (c) Prohibition on certain references
 
-Consumer education and other marketing and promotion activities of the National Council shall contain no reference to a private brand or trade name and shall avoid use of deceptive acts or practices in behalf of fish or fish products or with respect to the quality, value, or use of any competing product or group of products. In addition, the National Council may not promote the consumption or purchase of a single or group of similar fish species (such as members of the same genera); except that the Council may use illustrations of a single or group of similar fish species in the course of promoting the generic consumption of fish and fish products.
+Consumer education and other marketing and promotion activities of the National Councilshall contain no reference to a private brand or trade name and shall avoid use of deceptive acts or practices in behalf of fish or fish products or with respect to the quality, value, or use of any competing product or group of products. In addition, the National Council may not promote the consumption or purchase of a single or group of similar fish species (such as members of the same genera); except that the Council may use illustrations of a single or group of similar fish species in the course of promoting the generic consumption of fish and fish products.
 
 #### (d) Executive director
 

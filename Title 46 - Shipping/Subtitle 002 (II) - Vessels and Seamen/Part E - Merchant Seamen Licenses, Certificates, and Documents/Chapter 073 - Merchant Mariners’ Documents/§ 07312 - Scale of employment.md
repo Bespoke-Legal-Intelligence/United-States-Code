@@ -6,7 +6,7 @@
 
 (c) Individuals qualified as able seamen—special under section 7309 of this title may constitute—
 
-&emsp;(1) all of the able seamen required on a vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretaryunder section 14104 of this title or on a seagoing barge or towing vessel; and
+&emsp;(1) all of the able seamen required on a vessel of not more than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title or on a seagoing barge or towing vessel; and
 
 &emsp;(2) not more than 50 percent of the number of able seamen required on board other vessels.
 

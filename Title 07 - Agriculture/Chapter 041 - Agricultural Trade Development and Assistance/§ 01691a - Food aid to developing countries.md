@@ -22,7 +22,7 @@ It is the sense of Congress that—
 
 &emsp;“(2) encourage other advanced nations to make increased food aid contributions to combat world hunger and malnutrition, particularly through the expansion of international food and agricultural assistance programs.”
 
-1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions urging President to maintain United States food assistance and encourage other countries to increase their contributions, in order to meet annual goal of World Food Conference of providing 10,000,000 tons of food assistance annually for needy nations.
+1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions urging President to maintain United States food assistance and encourage other countries to increase their contributions, in order to meet annual goal of World Food Conferenceof providing 10,000,000 tons of food assistance annually for needy nations.
 
 #### Effective Date of 1990 Amendment
 

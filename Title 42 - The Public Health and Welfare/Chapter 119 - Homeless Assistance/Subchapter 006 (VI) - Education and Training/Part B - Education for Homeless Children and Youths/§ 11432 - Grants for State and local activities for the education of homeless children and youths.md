@@ -190,7 +190,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;(4) facilitate coordination between the State educational agency, the State social services agency, and other agencies (including agencies providing mental health services) to provide services to homeless children, including preschool-aged homeless children, and youths, and to families of such children and youths;
 
-&emsp;(5) in order to improve the provision of comprehensive education and related services to homeless children and youths and their families, coordinate and collaborate with—
+&emsp;(5) in order to improve the provision of comprehensive education and related services tohomeless children and youths and their families, coordinate and collaborate with—
 
 &emsp;&emsp;(A) educators, including child development and preschool program personnel;
 
@@ -252,7 +252,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 &emsp;&emsp;&emsp;&emsp;(I) If the homeless child or youth continues to live in the area served by the local educational agency in which the school of origin is located, the child's or youth's transportation to and from the school of origin shall be provided or arranged by the local educational agency in which the school of origin is located.
 
-&emsp;&emsp;&emsp;&emsp;(II) If the homeless child's or youth's living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing his or her education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the homeless child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child with transportation to and from the school of origin. If the local educational agencies are unable to agree upon such method, the responsibility and costs for transportation shall be shared equally.
+&emsp;&emsp;&emsp;&emsp;(II) If the homeless child's or youth's living arrangements in the area served by the local educational agency of origin terminate and the child or youth, though continuing his or her education in the school of origin, begins living in an area served by another local educational agency, the local educational agency of origin and the local educational agency in which the homeless child or youth is living shall agree upon a method to apportion the responsibility and costs for providing the child with transportation to and from the school of origin. If the local educational agencies are unable toagree upon such method, the responsibility and costs for transportation shall be shared equally.
 
 #### (2) Compliance
 
@@ -326,7 +326,7 @@ The Coordinator for Education of Homeless Children and Youths established in eac
 
 #### (H) Contact information
 
-&emsp;&emsp;Nothing in this part shall prohibit a local educational agency from requiring a parent or guardian of a homeless child to submit contact information.
+&emsp;&emsp;Nothing in this part shall prohibit a local educational agency from requiring a parentor guardian of a homeless child to submit contact information.
 
 #### (4) Comparable services
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(ii) that may provide services, supports, and assistance for the persons described in clause (i) through demonstration and model activities.
 
-&emsp;&emsp;(C) Conduct of research, which may include basic or applied research, evaluation,and the analysis of public policy in areas that affect or could affect, either positively or negatively, individuals with developmental disabilities and their families.
+&emsp;&emsp;(C) Conduct of research, which may include basic or applied research, evaluation, and the analysis of public policy in areas that affect or could affect, either positively or negatively, individuals with developmental disabilities and their families.
 
 &emsp;&emsp;(D) Dissemination of information related to activities undertaken to address the purpose of this subchapter, especially dissemination of information that demonstrates that the network authorized under this part is a national and international resource that includes specific substantive areas of expertise that may be accessed and applied in diverse settings and circumstances.
 

@@ -16,7 +16,7 @@ The Clearinghouse may—
 
 &emsp;(4) provide technical assistance and advice to such governments with respect to such initiatives, including assistance in determining sources of assistance from Federal agencies which may be available to support such initiatives;
 
-&emsp;(5) study ways in which Federal agencies, including Federal laboratories, are able to use their existing policies and programs to assist State and local governments, and regional and multistate organizations of such governments,to enhance the competitiveness of American business;
+&emsp;(5) study ways in which Federal agencies, including Federal laboratories, are able to use their existing policies and programs to assist State and local governments, and regional and multistate organizations of such governments, to enhance the competitiveness of American business;
 
 &emsp;(6) make periodic recommendations to the Secretary, and to other Federal agencies upon their request, concerning modifications in Federal policies and programs which would improve Federal assistance to State and local technology and business assistance programs;
 

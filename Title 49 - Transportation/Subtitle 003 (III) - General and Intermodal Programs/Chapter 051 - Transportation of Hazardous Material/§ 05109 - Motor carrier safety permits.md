@@ -50,7 +50,7 @@ Shipper Responsibility.—A person offering hazardous material for motor vehicle
 
 (g)
 
-Conditions.—A motor carrier may provide transportation under a safety permit issued under this section only if the carrier complies with conditions the Secretary finds are required to protect public safety.
+Conditions.—A motor carrier may provide transportation under a safety permit issuedunder this section only if the carrier complies with conditions the Secretary finds are required to protect public safety.
 
 (h)
 

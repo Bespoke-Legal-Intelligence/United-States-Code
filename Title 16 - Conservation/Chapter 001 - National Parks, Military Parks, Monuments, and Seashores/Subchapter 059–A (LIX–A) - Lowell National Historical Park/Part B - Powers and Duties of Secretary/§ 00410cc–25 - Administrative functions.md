@@ -12,7 +12,7 @@ Notwithstanding any other provisions of law, the Secretary may accept donations 
 
 #### (c) Sponsorship or coordination of educational or cultural programs
 
-The Secretary may sponsor or coordinate within the park and preservation district such educational or cultural programs as the Secretary considers appropriate to encourage appreciation of the resources of the park and preservation district.
+The Secretary may sponsor or coordinate within the park and preservation district sucheducational or cultural programs as the Secretary considers appropriate to encourage appreciation of the resources of the park and preservation district.
 
 #### (d) Acquisition of leases
 

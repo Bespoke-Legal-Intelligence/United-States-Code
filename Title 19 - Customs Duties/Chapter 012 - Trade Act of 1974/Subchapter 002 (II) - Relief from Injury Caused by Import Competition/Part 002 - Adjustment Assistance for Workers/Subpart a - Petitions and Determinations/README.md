@@ -2,7 +2,7 @@ subpart a—petitions and determinations
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 2291, 2295, 2296, 2297, 2298, 2318, 2322, 2331 of this title.
+This subpart is referred to in sections 2291, 2295, 2296, 2297, 2298, 2318 of this title.
 
 
 ---

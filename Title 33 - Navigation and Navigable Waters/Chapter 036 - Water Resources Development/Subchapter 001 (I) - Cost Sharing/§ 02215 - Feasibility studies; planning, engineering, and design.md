@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall not initiate any feasibility study for a water resources project after November 17, 1986, until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost of the study.
+&emsp;&emsp;The Secretary shall not initiate any feasibility study for a water resources projectafter November 17, 1986, until appropriate non-Federal interests agree, by contract, to contribute 50 percent of the cost of the study.
 
 #### (B) Payment of cost share during period of study
 
@@ -40,7 +40,7 @@
 
 #### (2) Applicability
 
-&emsp;This subsection shall not apply to any water resources study primarily designed for thepurposes of navigational improvements in the nature of dams, locks, and channels on the Nation's system of inland waterways.
+&emsp;This subsection shall not apply to any water resources study primarily designed for the purposes of navigational improvements in the nature of dams, locks, and channels on the Nation's system of inland waterways.
 
 #### (b) Planning and engineering
 

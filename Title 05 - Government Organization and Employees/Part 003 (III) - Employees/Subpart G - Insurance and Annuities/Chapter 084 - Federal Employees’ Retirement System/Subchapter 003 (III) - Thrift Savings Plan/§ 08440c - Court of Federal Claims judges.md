@@ -1,6 +1,6 @@
 ### §8440c. Court of Federal Claims judges
 
-(a)(1) A judge of the United States Court of Federal Claims who is covered by section 178 of title 28 may elect to contribute an amount of such individual's basic pay to the Thrift Savings Fund.
+(a)(1) A judge of the United States Court of Federal Claims who is covered by section 178 of title 28 may elect to contribute an amount ofsuch individual's basic pay to the Thrift Savings Fund.
 
 (2) An election may be made under paragraph (1) only during a period provided under section 8432(b) for individuals subject to this chapter.
 
@@ -60,7 +60,7 @@ Subsec. (b)(9). Pub. L. 102–198, §7(c)(1)(B)(iii), added par. (9).
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under suchamendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L. 104–208, set out as a note under section 5545a of this title.
+Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and elections as provided under such amendment to be made at earliest practicable date as determined by Executive Director in regulations, see section 101(f) \[title VI, §659 \[title II, §207\]\] of Pub. L.104–208, set out as a note under section 5545a of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -10,7 +10,7 @@ The purposes of the TPIA Program shall include the following:
 
 &emsp;(1) To establish and maintain a public awareness campaign in cooperation with public and private organizations and individuals—
 
-&emsp;&emsp;(A) to instill in the public the importance of the appropriate use of, and appreciationfor Federal, State, and local lands, facilities, and natural and cultural resources;
+&emsp;&emsp;(A) to instill in the public the importance of the appropriate use of, and appreciation for Federal, State, and local lands, facilities, and natural and cultural resources;
 
 &emsp;&emsp;(B) to encourage an attitude of stewardship and responsibility toward these lands, facilities, and resources; and
 

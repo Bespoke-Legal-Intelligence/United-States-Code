@@ -444,7 +444,7 @@ Prohibition of Compensation Other Than Travel Expenses.—Members of the Advisor
 
 &emsp;“(3) The term ‘Commission’ means the Centennial of Flight Commission.
 
-&emsp;“(4) The term ‘First Flight’ means the first four successful manned, free, controlled, and sustained flights by a power-driven, heavier-than-air machine, which were accomplished by Orville and Wilbur Wright of Dayton, Ohio on December 17, 1903 at Kitty Hawk, North Carolina.
+&emsp;“(4) The term ‘First Flight’ means the first four successful manned, free, controlled, and sustained flights by a power-driven, heavier-than-air machine, which were accomplished by Orville and WilburWright of Dayton, Ohio on December 17, 1903 at Kitty Hawk, North Carolina.
 
 #### “SEC. 14. TERMINATION.
 

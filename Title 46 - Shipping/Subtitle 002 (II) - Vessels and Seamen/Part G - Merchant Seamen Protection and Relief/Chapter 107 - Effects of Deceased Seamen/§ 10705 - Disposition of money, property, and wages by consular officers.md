@@ -2,7 +2,7 @@
 
 When money, property, or wages of a deceased seaman comes into possession of a consular officer, the officer may—
 
-&emsp;(1) sell the property and remit the proceeds and other money or wages of the seaman theofficer has received, to the district court of the United States for the district in which the voyage begins or ends; or
+&emsp;(1) sell the property and remit the proceeds and other money or wages of the seaman the officer has received, to the district court of the United States for the district in which the voyage begins or ends; or
 
 &emsp;(2) deliver the money, property, and wages to the district court.
 

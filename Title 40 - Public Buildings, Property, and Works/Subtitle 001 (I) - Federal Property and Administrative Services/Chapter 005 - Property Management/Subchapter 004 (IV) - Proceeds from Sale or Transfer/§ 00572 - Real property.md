@@ -1,0 +1,142 @@
+### §572. Real property
+
+(a)
+
+In General.—
+
+&emsp;(1)
+
+Separate fund.—Except as provided in subsection (b), proceeds of the disposition of surplus real and related personal property by the Administrator of General Services shall be set aside in a separate fund in the Treasury.
+
+&emsp;(2)
+
+Payment of expenses from the fund.—
+
+&emsp;&emsp;(A)
+
+Authority.—From the fund described in paragraph (1), the Administrator may obligate an amount to pay the following direct expenses incurred for the use of excess property and the disposal of surplus property under this subtitle:
+
+&emsp;&emsp;&emsp;(i) Fees of appraisers, auctioneers, and realty brokers, in accordance with the scale customarily paid in similar commercial transactions.
+
+&emsp;&emsp;&emsp;(ii) Costs of environmental and historic preservation services.
+
+&emsp;&emsp;&emsp;(iii) Advertising and surveying.
+
+&emsp;&emsp;(B)
+
+Limitations.—
+
+&emsp;&emsp;&emsp;(i)
+
+Percentage limitation.—In each fiscal year, no more than 12 percent of the proceeds of all dispositions of surplus real and related personal property may be paid to meet direct expenses incurred in connection with the dispositions.
+
+&emsp;&emsp;&emsp;(ii)
+
+Determination of maximum amount.—The Director of the Office of Management and Budget each quarter shall determine the maximum amount that may be obligated under this paragraph.
+
+&emsp;&emsp;(C)
+
+Direct payment or reimbursement.—An amount obligated under this paragraph may be used to pay an expense directly or to reimburse a fund or appropriation that initially paid the expense.
+
+&emsp;(3)
+
+Transfer to miscellaneous receipts.—At least once each year, excess amounts beyond current operating needs shall be transferred from the fund described in paragraph (1) to miscellaneous receipts.
+
+&emsp;(4)
+
+Report.—A report of receipts, disbursements, and transfers to miscellaneous receipts under this subsection shall be made annually, in connection with the budget estimate, to the Director and to Congress.
+
+(b)
+
+Real Property Under Control of a Military Department.—
+
+&emsp;(1)
+
+Definitions.—In this subsection, the following definitions apply:
+
+&emsp;&emsp;(A)
+
+Military installation.—The term “military installation” has the meaning given that term in section 2687(e)(1) of title 10.
+
+&emsp;&emsp;(B)
+
+Base closure law.—The term “base closure law” has the meaning given that term in section 2667(h)(2) of title 10.
+
+&emsp;(2)
+
+Application.—
+
+&emsp;&emsp;(A)
+
+In general.—This subsection applies to real property, including any improvement on the property, that is under the control of a military department and that the Secretary of the department determines is excess to the department's needs.
+
+&emsp;&emsp;(B)
+
+Exceptions.—This subsection does not apply to—
+
+&emsp;&emsp;&emsp;(i) damaged or deteriorated military family housing facilities conveyed under section 2854a of title 10; or
+
+&emsp;&emsp;&emsp;(ii) property at a military installation designated for closure or realignment pursuant to a base closure law.
+
+&emsp;(3)
+
+Transfer between military departments.—The Secretary of Defense shall provide that property described in paragraph (2) is available for transfer, without reimbursement, to other military departments within the Department of Defense.
+
+&emsp;(4)
+
+Alternative disposition by administrator of general services.—If property is not transferred pursuant to paragraph (3), the Secretary of the military department with the property under its control shall request the Administrator to transfer or dispose of the property in accordance with this subtitle or other applicable law.
+
+&emsp;(5)
+
+Proceeds.—
+
+&emsp;&emsp;(A)
+
+Deposit in special account.—For a transfer or disposition of property pursuant to paragraph (4), the Administrator shall deposit any proceeds (less expenses of the transfer or disposition as provided in subsection (a)) in a special account in the Treasury.
+
+&emsp;&emsp;(B)
+
+Availability of amount deposited.—To the extent provided in an appropriation law, an amount deposited in a special account under subparagraph (A) is available for facility maintenance and repair or environmental restoration as follows:
+
+&emsp;&emsp;&emsp;(i) In the case of property located at a military installation that is closed, the amount is available for facility maintenance and repair or environmental restoration by the military department that had jurisdiction over the property before the closure of the military installation.
+
+&emsp;&emsp;&emsp;(ii) In the case of property located at any other military installation—
+
+&emsp;&emsp;&emsp;&emsp;(I) 50 percent of the amount is available for facility maintenance and repair or environmental restoration at the military installation where the property was located before it was disposed of or transferred; and
+
+&emsp;&emsp;&emsp;&emsp;(II) 50 percent of the amount is available for facility maintenance and repair and for environmental restoration by the military department that had jurisdiction over the property before it was disposed of or transferred.
+
+&emsp;(6)
+
+Report.—As part of the annual request for authorizations of appropriations to the Committees on Armed Services of the Senate and the House of Representatives, the Secretary of Defense shall include an accounting of each transfer and disposal made in accordance with this subsection during the fiscal year preceding the fiscal year in which the request is made. The accounting shall include a detailed explanation of each transfer and disposal and of the use of the proceeds received from it by the Department of Defense.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1105.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+572(a)
+
+40:485(b).
+
+June 30, 1949, ch. 288, title II, §204(b), as added Aug. 31, 1954, ch. 1178, §1(b), 68 Stat. 1051; Pub. L. 86–215, Sept. 1, 1959, 73 Stat. 446; Pub. L. 100–612, §6, Nov. 5, 1988, 102 Stat. 3181; Pub. L. 101–510, div. B, title XXVIII, §2805(2), Nov. 5, 1990, 104 Stat. 1786; Pub. L. 107–107, §2812, Dec. 28, 2001, 115 Stat. 1307.
+
+572(b)
+
+40:485(h).
+
+June 30, 1949, ch. 288, title II, §204(h), as added Pub. L. 101–510, div. B, title XXVIII, §2805(3), Nov. 5, 1990, 104 Stat. 1786; Pub. L. 104–106, div. A, title XV, §1502(f)(7), div. B, title XXVIII, §2818(b), Feb. 10, 1996, 110 Stat. 510, 555; Pub. L. 106–65, title X, §1067(18), Oct. 5, 1999, 113 Stat. 775; Pub. L. 107–107, §2812, Dec. 28, 2001, 115 Stat. 1307.
+
+In subsection (b)(4), the words “section 13(g) of the Surplus Property Act of 1944 (50 U.S.C. App. 1622(g))” are omitted because 50 App.:1622(g) has been repealed.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 111, 547, 705 of this title; title 10 section 2831; title 16 section 460<i>l</i>–5.
+

@@ -4,13 +4,13 @@
 
 &emsp;(1) is eligible for documentation;
 
-&emsp;(2)(A) was built in the United States; or
+&emsp;(2) was built in the United States;
 
-&emsp;(B) if not built in the United States, was captured in war by citizens of the United States and lawfully condemned as prize, was adjudged to be forfeited for a breach of the laws of the United States, or qualified for documentation under section 4136 of the Revised Statutes (46 App. U.S.C. 14);
+&emsp;(3) if rebuilt, was rebuilt in the United States;
 
-&emsp;(3) if rebuilt, was rebuilt in the United States; and
+&emsp;(4) was not forfeited to the United States Government after July 1, 2001, for a breach of the laws of the United States; and
 
-&emsp;(4) otherwise qualifies under the laws of the United States to be employed in the fisheries.
+&emsp;(5) otherwise qualifies under the laws of the United States to be employed in the fisheries.
 
 (b) Subject to the laws of the United States regulating the fisheries, only a vessel for which a certificate of documentation with a fishery endorsement is issued may be employed in the fisheries.
 
@@ -26,7 +26,7 @@
 
 (d) A vessel purchased by the Secretary of Commerce through a fishing capacity reduction program under the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1801 et seq.) or section 308 of the Interjurisdictional Fisheries Act <sup>1</sup> (16 U.S.C. 4107) is not eligible for a fishery endorsement, and any fishery endorsement issued for that vessel is invalid.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 587; Pub. L. 98–454, title III, §301(c), Oct. 5, 1984, 98 Stat. 1734;Pub. L. 100–239, §§3(4), (5), 6(a)(6), Jan. 11, 1988, 101 Stat. 1779, 1782; Pub. L. 101–225, title III, §301(a)(8), Dec. 12, 1989, 103 Stat. 1921; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title III, §301(e), title VII, §744, Oct. 19, 1996, 110 Stat. 3917, 3942.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 587; Pub. L. 98–454, title III, §301(c), Oct. 5, 1984, 98 Stat. 1734; Pub. L. 100–239, §§3(4), (5), 6(a)(6), Jan. 11, 1988, 101 Stat. 1779, 1782; Pub. L. 101–225, title III, §301(a)(8), Dec. 12, 1989, 103 Stat. 1921; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41; Pub. L. 104–324, title III, §301(e), title VII, §744, Oct. 19, 1996, 110 Stat. 3917, 3942; Pub. L. 107–295, title IV, §409, Nov. 25, 2002, 116 Stat. 2117.)
 
 Historical and Revision Notes
 
@@ -45,6 +45,14 @@ Section 12108 provides that a certificate of documentation in the form of a fish
 The Magnuson-Stevens Fishery Conservation and Management Act, referred to in subsec. (d), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 16 and Tables.
 
 #### Amendments
+
+2002—Subsec. (a)(2). Pub. L. 107–295, §409(1), added par. (2) and struck out former par. (2) which read as follows:
+
+“(2)(A) was built in the United States; or
+
+“(B) if not built in the United States, was captured in war by citizens of the United States and lawfully condemned as prize, was adjudged to be forfeited for a breach of the laws of the United States, or qualified for documentation under section 4136 of the Revised Statutes (46 App. U.S.C. 14);”.
+
+Subsec. (a)(4), (5). Pub. L. 107–295, §409(2)–(4), added par. (4) and redesignated former par. (4) as (5).
 
 1996—Subsec. (c)(1). Pub. L. 104–324, §744, substituted “200 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” for “two hundred gross tons”.
 
@@ -114,11 +122,11 @@ Section 4 of Pub. L. 100–239, as amended by Pub. L. 101–225, title III, §31
 
 #### Extension of Period for Rebuilding Vessels in Foreign Countries
 
-Section 6(c)(3) of Pub. L. 100–239 provided that: “The Secretary, on proof of circumstances beyond the control of the owner of a vessel affected by this section \[amending sections 2101, 12106, 12107, and 12108 of this title and section 883 of the Appendix to this title, andenacting notes set out under sections 12105 and 12108 of this title and section 883 of the Appendix to this title\], may extend the period for rebuilding in a foreign country permitted by this section.”
+Section 6(c)(3) of Pub. L. 100–239 provided that: “The Secretary, on proof of circumstances beyond the control of the owner of a vessel affected by this section \[amending sections 2101, 12106, 12107, and 12108 of this title and section 883 of the Appendix to this title, and enacting notes set out under sections 12105 and 12108 of this title and section 883 of the Appendix to this title\], may extend the period for rebuilding in a foreign country permitted by this section.”
 
 #### Definitions
 
-Section 6(d) of Pub. L. 100–239 provided that: “The terms in this Act \[see Short Title of 1988 Amendment note set out under section 2101 of this title\] have the same meaning as in subtitle II of title 46, United States Code (as amended by this Act).”
+Section 6(d) of Pub. L. 100–239 provided that: “The terms in this Act \[see Short Title of 1988 Amendmentnote set out under section 2101 of this title\] have the same meaning as in subtitle II of title 46, United States Code (as amended by this Act).”
 
 #### Application of Weight Limitations to Northern Mariana Islands
 

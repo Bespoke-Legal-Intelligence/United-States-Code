@@ -24,7 +24,7 @@
 
 (c) Any court of appeals may pretermit any regular session of court at any place for insufficient business or other good cause.
 
-(d) The times and places of the sessions of the Court of Appeals for the Federal Circuit shall beprescribed with a view to securing reasonable opportunity to citizens to appear before the court with as little inconvenience and expense to citizens as is practicable.
+(d) The times and places of the sessions of the Court of Appeals for the Federal Circuit shall be prescribed with a view to securing reasonable opportunity to citizens to appear before the court with as little inconvenience and expense to citizens as is practicable.
 
 (June 25, 1948, ch. 646, 62 Stat. 872; Oct. 31, 1951, ch. 655, §36, 65 Stat. 723; Pub. L. 96–452, §4, Oct. 14, 1980, 94 Stat. 1994; Pub. L. 97–164, title I, §104, Apr. 2, 1982, 96 Stat. 26; Pub. L. 102–572, title V, §501, Oct. 29, 1992, 106 Stat. 4512.)
 
@@ -50,9 +50,9 @@ By Senate amendment, Jacksonville (Fla.) was added as a place for holding a regu
 
 #### Amendments
 
-<b>1992</b>—Subsec. (c). Pub. L. 102–572 struck out “, with the consent of the Judicial Conference of the United States,” after “pretermit”.
+1992—Subsec. (c). Pub. L. 102–572 struck out “, with the consent of the Judicial Conference of the United States,” after “pretermit”.
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164, §104(a), (b), designated introductory provisions and table of circuits as subsec. (a) and substituted provisions directing the courts of appeals to hold regular sessions at the places listed in the table and at such other places within the circuits as each court might designate by rule, for provisions which directed that terms or sessions of courts of appeals be held annually at the places listed in the table and at such other places as the courts might designate by rule and authorized each court of appeals to hold special terms at any place within its circuit, and added to the table an item for the Federal circuit, with sessions to be held in the District of Columbia and in any other place listed elsewhere in the table as the Federal circuit court might by rule direct.
+1982—Subsec. (a). Pub. L. 97–164, §104(a), (b), designated introductory provisions and table of circuits as subsec. (a) and substituted provisions directing the courts of appeals to hold regular sessions at the places listed in the table and at such other places within the circuits as each court might designate by rule, for provisions which directed that terms or sessions of courts of appeals be held annually at the places listed in the table and at such other places as the courts might designate by rule and authorized each court of appeals to hold special terms at any place within its circuit, and added to the table an item for the Federal circuit, with sessions to be held in the District of Columbia and in any other place listed elsewhere in the table as the Federal circuit court might by rule direct.
 
 Subsec. (b). Pub. L. 97–164, §104(c), added subsec. (b).
 
@@ -60,9 +60,9 @@ Subsec. (c). Pub. L. 97–164, §104(c), designated existing provisions followin
 
 Subsec. (d). Pub. L. 97–164, §104(c), added subsec. (d).
 
-<b>1980</b>—Pub. L. 96–452 substituted “New Orleans, Fort Worth, Jackson” for “New Orleans, Atlanta, Fort Worth, Jacksonville, Montgomery” in item relating to fifth circuit, and added item relating to eleventh circuit.
+1980—Pub. L. 96–452 substituted “New Orleans, Fort Worth, Jackson” for “New Orleans, Atlanta, Fort Worth, Jacksonville, Montgomery” in item relating to fifth circuit, and added item relating to eleventh circuit.
 
-<b>1951</b>—Act Oct. 31, 1951, inserted last par.
+1951—Act Oct. 31, 1951, inserted last par.
 
 #### Effective Date of 1992 Amendment
 

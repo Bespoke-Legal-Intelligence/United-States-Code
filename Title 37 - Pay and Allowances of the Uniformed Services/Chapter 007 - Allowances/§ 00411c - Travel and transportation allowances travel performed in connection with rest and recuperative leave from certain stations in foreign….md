@@ -1,6 +1,6 @@
 ### §411c. Travel and transportation allowances: travel performed in connection with rest and recuperative leave from certain stations in foreign countries
 
-(a) Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service who is serving at a duty station outside the United States in an area specifically designated for the purposes of this section bythe Secretary concerned may be paid for or provided transportation for himself and his dependents authorized to reside at his duty station—
+(a) Under uniform regulations prescribed by the Secretaries concerned, a member of a uniformed service who is serving at a duty station outside the United States in an area specifically designated for the purposes of this section by the Secretary concerned may be paid for or provided transportation for himself and his dependents authorized to reside at his duty station—
 
 &emsp;(1) to another location outside the United States having different social, climatic, or environmental conditions than those at the duty station at which the member is serving; or
 

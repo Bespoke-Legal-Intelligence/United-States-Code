@@ -6,7 +6,7 @@ For the purposes of this subchapter—
 
 &emsp;(2) the term “State” means any of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Northern Mariana Islands;
 
-&emsp;(3) the term “energy audit” means an inspection as described in section 8216(b)(1)(A) <sup>1</sup>of this title, or an energy audit as defined in section 8281(b)(7) <sup>1</sup> of this title, which in addition may provide information on the utilization of renewable resources and may make energy-related improvements in the building; and
+&emsp;(3) the term “energy audit” means an inspection as described in section 8216(b)(1)(A) <sup>1</sup> of this title, or an energy audit as defined in section 8281(b)(7) <sup>1</sup> of this title, which in addition may provide information on the utilization of renewable resources and may make energy-related improvements in the building; and
 
 &emsp;(4) the term “Secretary” means the Secretary of Energy.
 

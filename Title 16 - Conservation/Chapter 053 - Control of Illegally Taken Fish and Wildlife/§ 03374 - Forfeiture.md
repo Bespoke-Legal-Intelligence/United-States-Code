@@ -12,7 +12,7 @@ All provisions of law relating to the seizure, forfeiture, and condemnation of p
 
 #### (c) Storage cost
 
-Any person convicted of an offense, or assessed a civil penalty, under section 3373 of this titleshall be liable for the costs incurred in the storage, care, and maintenance of any fish or wildlife or plant seized in connection with the violation concerned.
+Any person convicted of an offense, or assessed a civil penalty, under section 3373 of this title shall be liable for the costs incurred in the storage, care, and maintenance of any fish or wildlife or plant seized in connection with the violation concerned.
 
 (Pub. L. 97–79, §5, Nov. 16, 1981, 95 Stat. 1076.)
 
@@ -21,6 +21,10 @@ Any person convicted of an offense, or assessed a civil penalty, under section 3
 The customs laws, referred to in subsec. (b), are classified generally to Title 19, Customs Duties.
 
 Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (b), is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

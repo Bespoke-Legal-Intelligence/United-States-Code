@@ -8,7 +8,7 @@ The Council shall—
 
 &emsp;(2) encourage, in cooperation with the National Trust for Historic Preservation and appropriate private agencies, public interest and participation in historic preservation;
 
-&emsp;(3) recommend the conduct of studies in such areas as the adequacy of legislative and administrative statutes and regulations pertaining to historic preservation activities of Stateand local governments and the effects of tax policies at all levels of government on historic preservation;
+&emsp;(3) recommend the conduct of studies in such areas as the adequacy of legislative and administrative statutes and regulations pertaining to historic preservation activities of State and local governments and the effects of tax policies at all levels of government on historic preservation;
 
 &emsp;(4) advise as to guidelines for the assistance of State and local governments in drafting legislation relating to historic preservation;
 
@@ -37,4 +37,8 @@ For termination, effective May 15, 2000, of provisions in subsec. (b) of this se
 #### Relationship of Federal Tax Laws to Historic Preservation; Report to President and Congress
 
 Section 503 of Pub. L. 96–515 directed the Advisory Council on Historic Preservation to submit a report, within one year of Dec. 12, 1980, to the President and the Congress on Federal tax laws relating to historic preservation or affecting in any manner historic preservation.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 40 section 3303.
 

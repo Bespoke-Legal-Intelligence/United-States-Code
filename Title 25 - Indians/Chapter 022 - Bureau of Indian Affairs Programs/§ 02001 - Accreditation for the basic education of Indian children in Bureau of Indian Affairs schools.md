@@ -28,7 +28,7 @@
 
 #### (B) Feasibility study
 
-&emsp;&emsp;Not later than 12 months after January 8, 2002, the Secretary of the Interior and theSecretary of Education shall, in consultation with Indian tribes, Indian education organizations, and accrediting agencies, develop and submit to the appropriate committees of Congress a report on the desirability and feasibility of establishing a tribal accreditation agency that would—
+&emsp;&emsp;Not later than 12 months after January 8, 2002, the Secretary of the Interior and the Secretary of Education shall, in consultation with Indian tribes, Indian education organizations, and accrediting agencies, develop and submit to the appropriate committees of Congress a report on the desirability and feasibility of establishing a tribal accreditation agency that would—
 
 &emsp;&emsp;&emsp;(i) review and acknowledge the accreditation standards for Bureau-funded schools; and
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;Not later than 120 days after the date on which a school is included in an annual report under paragraph (5), the school shall develop a school plan, in consultation with interested parties including parents, school staff, the school board, and other outside experts (if appropriate), that shall be submitted to the Secretary for approval. The school plan shall cover a 3-year period and shall—
 
-&emsp;&emsp;&emsp;(i) incorporate strategies that address the specific issues that caused the schoolto fail to be accredited or fail to be a candidate for accreditation;
+&emsp;&emsp;&emsp;(i) incorporate strategies that address the specific issues that caused the school to fail to be accredited or fail to be a candidate for accreditation;
 
 &emsp;&emsp;&emsp;(ii) incorporate policies and practices concerning the school that have the greatest likelihood of ensuring that the school will obtain accreditation during the 3-year period beginning on the date on which the plan is implemented;
 
@@ -128,7 +128,7 @@
 
 #### (B) Waiver
 
-&emsp;&emsp;The Secretary shall grant a waiver which shall exempt a school from any or all of the requirements of this paragraph and paragraph (7) (though such school shall be required to comply with the standards contained in part 36 of title 25, Code of Federal Register,<sup>2</sup> as in effect on January 8, 2002) if the school—
+&emsp;&emsp;The Secretary shall grant a waiver which shall exempt a school from any or all of therequirements of this paragraph and paragraph (7) (though such school shall be required to comply with the standards contained in part 36 of title 25, Code of Federal Register,<sup>2</sup> as in effect on January 8, 2002) if the school—
 
 &emsp;&emsp;&emsp;(i) is identified in the report described in paragraph (5)(C); and
 
@@ -178,7 +178,7 @@
 
 #### (ii) Outside entity
 
-&emsp;&emsp;&emsp;If the corrective action described in clause (i) does not result in accreditation of the school, the Secretary, in conjunction with the tribal governing body, may contract with an outside entity to operate the school in order to achieve accreditation of the school within 2 school years. Prior to entering into such a contract, the Secretary shall develop a proposal for such operation which shall include, at a minimum, the following elements:
+&emsp;&emsp;&emsp;If the corrective action described in clause (i) does not result in accreditation of the school, the Secretary, in conjunction with the tribal governing body, maycontract with an outside entity to operate the school in order to achieve accreditation of the school within 2 school years. Prior to entering into such a contract, the Secretary shall develop a proposal for such operation which shall include, at a minimum, the following elements:
 
 &emsp;&emsp;&emsp;&emsp;(I) The identification of one or more outside entities each of which has demonstrated to the Secretary its ability to develop a satisfactory plan for achieving accreditation and its willingness and availability to undertake such a plan.
 
@@ -236,7 +236,7 @@
 
 &emsp;This subsection (other than this paragraph) shall not apply—
 
-&emsp;&emsp;(A) in those cases in which the tribal governing body for a school, or the local school board concerned (if designated by the tribal governing body to act under this paragraph), requests the closure, consolidation, or substantial curtailment; or
+&emsp;&emsp;(A) in those cases in which the tribal governing body for a school, or the local schoolboard concerned (if designated by the tribal governing body to act under this paragraph), requests the closure, consolidation, or substantial curtailment; or
 
 &emsp;&emsp;(B) if a temporary closure, consolidation, or substantial curtailment is required by facility conditions that constitute an immediate hazard to health and safety.
 
@@ -276,7 +276,7 @@
 
 #### (6) Limitation on certain actions
 
-&emsp;No irrevocable action may be taken in furtherance of any such proposed school closure,transfer to another authority, consolidation, or substantial curtailment (including any action which would prejudice the personnel or programs of such school) prior to the end of the first full academic year after such report is made.
+&emsp;No irrevocable action may be taken in furtherance of any such proposed school closure, transfer to another authority, consolidation, or substantial curtailment (including any action which would prejudice the personnel or programs of such school) prior to the end of the first full academic year after such report is made.
 
 #### (7) Tribal governing body approval required for certain actions
 

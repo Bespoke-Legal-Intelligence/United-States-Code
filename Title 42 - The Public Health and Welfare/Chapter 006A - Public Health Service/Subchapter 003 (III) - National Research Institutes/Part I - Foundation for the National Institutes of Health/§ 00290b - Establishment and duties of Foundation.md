@@ -16,7 +16,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;(A) A program to provide and administer endowed positions that are associated with the research program of the National Institutes of Health. Such endowments may be expended for the compensation of individuals holding the positions, for staff, equipment, quarters, travel, and other expenditures that are appropriate in supporting the endowed positions.
 
-&emsp;&emsp;(B) A program to provide and administer fellowships and grants to research personnel in order to work and study in association with the National Institutes of Health. Such fellowships and grants may include stipends, travel, health insurance benefits and other appropriate expenses. The recipients of fellowships shall be selected by the donors and the Foundation upon the recommendation of the National Institutes of Health employees in the laboratory where the fellow would serve, and shall be subject to the agreement of the Director of the National Institutes of Health and the Executive Director of the Foundation.
+&emsp;&emsp;(B) A program to provide and administer fellowships and grants to research personnelin order to work and study in association with the National Institutes of Health. Such fellowships and grants may include stipends, travel, health insurance benefits and other appropriate expenses. The recipients of fellowships shall be selected by the donors and the Foundation upon the recommendation of the National Institutes of Health employees in the laboratory where the fellow would serve, and shall be subject to the agreement of the Director of the National Institutes of Health and the Executive Director of the Foundation.
 
 &emsp;&emsp;(C) A program to collect funds for pediatric pharmacologic research and studies listed by the Secretary pursuant to section 284m(a)(1)(A) of this title and referred under section 355a(d)(4)(C) of title 21.
 
@@ -24,7 +24,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;&emsp;&emsp;(i) scientists of other countries to serve in research capacities in the United States in association with the National Institutes of Health or elsewhere, or opportunities for employees of the National Institutes of Health or other public health officials in the United States to serve in such capacities in other countries, or both;
 
-&emsp;&emsp;&emsp;(ii) the conduct and support of studies, projects, and research, which may include stipends, travel and other support for personnel in collaboration with national andinternational non-profit and for-profit organizations;
+&emsp;&emsp;&emsp;(ii) the conduct and support of studies, projects, and research, which may include stipends, travel and other support for personnel in collaboration with national and international non-profit and for-profit organizations;
 
 &emsp;&emsp;&emsp;(iii) the conduct and support of forums, meetings, conferences, courses, and training workshops that may include undergraduate, graduate, post-graduate, and post-doctoral accredited courses and the maintenance of accreditation of such courses by the Foundation at the State and national level for college or continuing education credits or for degrees;
 
@@ -86,7 +86,7 @@ The purpose of the Foundation shall be to support the National Institutes of Hea
 
 &emsp;(A) The ex officio members of the Board under paragraph (1)(B) shall designate an individual to serve as the initial Chair of the Board.
 
-&emsp;(B) Upon the termination of the term of service of the initial Chair of the Board, the appointed members of the Board shall elect a member of the Board to serve as the Chair of the Board.
+&emsp;(B) Upon the termination of the term of service of the initial Chair of the Board, the appointed members of the Board shall elect amember of the Board to serve as the Chair of the Board.
 
 #### (3) Terms and vacancies
 
@@ -188,7 +188,7 @@ No participant in the program established under this part shall exercise any adm
 
 #### (2) Financial conflicts of interest
 
-&emsp;Any individual who is an officer, employee, or member of the Board of the Foundationmay not (in accordance with policies and requirements developed under subsection (d)(2)(B)(i)(II)) <sup>1</sup> personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 109(16) of the Ethics in Government Act of 1978) of the individual, of any business organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
+&emsp;Any individual who is an officer, employee, or member of the Board of the Foundation may not (in accordance with policies and requirements developed under subsection (d)(2)(B)(i)(II)) <sup>1</sup> personally or substantially participate in the consideration or determination by the Foundation of any matter that would directly or predictably affect any financial interest of the individual or a relative (as such term is defined in section 109(16) of the Ethics in Government Act of 1978) of the individual, of any business organization or other entity, or of which the individual is an officer or employee, or is negotiating for employment, or in which the individual has any other financial interest.
 
 #### (3) Audits; availability of records
 

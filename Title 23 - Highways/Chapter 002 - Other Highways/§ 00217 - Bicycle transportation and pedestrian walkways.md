@@ -82,7 +82,7 @@ Wheelchair.—The term “wheelchair” means a mobility aid, usable indoors, an
 
 Subsec. (e). Pub. L. 105–178, §1202(a)(2), struck out “, other than a highway access to which is fully controlled,” after “located on a highway”.
 
-Subsec. (g). Pub. L. 105–178, §1202(a)(3), added subsec. (g) and struck out heading and text of former subsec.\(g). Text read as follows: “Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Such plans shall provide due consideration for safety and contiguous routes.”
+Subsec. (g). Pub. L. 105–178, §1202(a)(3), added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows: “Pedestrian walkways and bicycle transportation facilities to be constructed under this section shall be located and designed pursuant to an overall plan to be developed by each metropolitan planning organization and State and incorporated into their comprehensive annual long-range plans in accordance with sections 134 and 135 of this title, respectively. Such plans shall provide due consideration for safety and contiguous routes.”
 
 Subsec. (h). Pub. L. 105–178, §1202(a)(4), substituted “Motorized vehicles may not” for “No motorized vehicles shall” in introductory provisions.
 
@@ -132,7 +132,7 @@ In general.—In implementing section 217(g) of title 23, United States Code, th
 
 “(2)
 
-Issues to be addressed.—The guidance shall address issues such as the level and nature of the demand, volume, and speed of motor vehicle traffic, safety, terrain, cost, and sight distance.
+Issues to be addressed.—The guidance shall address issues such as the level and nature of the demand,volume, and speed of motor vehicle traffic, safety, terrain, cost, and sight distance.
 
 “(3)
 

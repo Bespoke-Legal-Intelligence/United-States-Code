@@ -36,7 +36,7 @@
 
 #### (b) Relevant factors in determining amount of penalty
 
-In determining the amount of any penalty to be sought upon commencing an action seeking to assess a penalty for a violation of section 2068(a) of this title, the Commission shall consider the nature of the product defect, the severity of the risk of injury, the occurrence or absence of injury, the number of defective products distributed, and the appropriateness of suchpenalty in relation to the size of the business of the person charged.
+In determining the amount of any penalty to be sought upon commencing an action seeking to assess a penalty for a violation of section 2068(a) of this title, the Commission shall consider the nature of the product defect, the severity of the risk of injury, the occurrence or absence of injury, the number of defective products distributed, and the appropriateness of such penalty in relation to the size of the business of the person charged.
 
 #### (c) Compromise of penalty; deductions from penalty
 

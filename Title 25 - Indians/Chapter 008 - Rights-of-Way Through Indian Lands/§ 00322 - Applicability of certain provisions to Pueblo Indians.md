@@ -10,7 +10,7 @@ The provisions of the following statutes:
 
 &emsp;Sections 323 to 328 of this title,
 
-> are extended over and made applicable to the Pueblo Indians of New Mexico and their lands, whether owned by the Pueblo Indians or held in trust or set aside for their use and occupancy by Executive order or otherwise, under such rules, regulations, and conditions as the Secretary of the Interior may prescribe.
+> are extended over and made applicable to the Pueblo Indians of New Mexico and their lands,whether owned by the Pueblo Indians or held in trust or set aside for their use and occupancy by Executive order or otherwise, under such rules, regulations, and conditions as the Secretary of the Interior may prescribe.
 
 (Apr. 21, 1928, ch. 400, §1, 45 Stat. 442; Pub. L. 94–416, §3, Sept. 17, 1976, 90 Stat. 1275.)
 

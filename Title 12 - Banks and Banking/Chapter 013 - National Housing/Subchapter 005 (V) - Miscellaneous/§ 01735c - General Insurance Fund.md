@@ -2,7 +2,7 @@
 
 #### (a) Establishment; purpose; mortgages or loans insurable; transfers to
 
-There is hereby created a General Insurance Fund which shall be used by the Secretary, on and after August 10, 1965, as a revolving fund for carrying out all the insurance provisions of this chapter with the exception of those specified in subsection (e) of this section. All mortgages or loans insured under this chapter pursuant to commitments issued on or after August 10, 1965, except those specified in subsection (e) of this section, and all loans reported for insurance under section 1703 of this title on or after August 10, 1965, shall be insured under the General Insurance Fund. The Secretary shall transfer to the General Insurance Fund—
+There is hereby created a General Insurance Fund which shall be used by the Secretary, on and after August 10, 1965, as a revolving fund forcarrying out all the insurance provisions of this chapter with the exception of those specified in subsection (e) of this section. All mortgages or loans insured under this chapter pursuant to commitments issued on or after August 10, 1965, except those specified in subsection (e) of this section, and all loans reported for insurance under section 1703 of this title on or after August 10, 1965, shall be insured under the General Insurance Fund. The Secretary shall transfer to the General Insurance Fund—
 
 &emsp;(1) the assets and liabilities of all insurance accounts and funds, except the Mutual Mortgage Insurance Fund, existing under this chapter immediately prior to August 10, 1965;
 
@@ -18,7 +18,7 @@ The general expenses of the operations of the Department of Housing and Urban De
 
 #### (c) Deposit or investment of moneys; purchase of debentures
 
-Moneys in the General Insurance Fund not needed for the current operations of the Department of Housing and Urban Development with respect to mortgages and loans which are the obligation of the General Insurance Fund shall be deposited with the Treasurer of the United States to the credit of such Fund, or invested inbonds or other obligations of, or in bonds or other obligations guaranteed as to principal and interest by, the United States or any agency of the United States: <i>Provided</i>, That such moneys shall to the maximum extent feasible be invested in such bonds or other obligations the proceeds of which will be used to directly support the residential mortgage market. The Secretary may, with the approval of the Secretary of the Treasury, purchase in the open market debentures issued as obligations of the General Insurance Fund or issued prior to August 10, 1965, under other provisions of this chapter, except debentures issued under the Mutual Mortgage Insurance Fund. Such purchases shall be made at a price which will provide an investment yield of not less than the yield obtainable from other investments authorized by this section. Debentures so purchased shall be canceled and not reissued.
+Moneys in the General Insurance Fund not needed for the current operations of the Department of Housing and Urban Development with respect to mortgages and loans which are the obligation of the General Insurance Fund shall be deposited with the Treasurer of the United States to the credit of such Fund, or invested in bonds or other obligations of, or in bonds or other obligations guaranteed as to principal and interest by, the United States or any agency of the United States: <i>Provided</i>, That such moneys shall to the maximum extent feasible be invested in such bonds or other obligations the proceeds of which will be used to directly support the residential mortgage market. The Secretary may, with the approval of the Secretary of the Treasury, purchase in the open market debentures issued as obligations of the General Insurance Fund or issued prior to August 10, 1965, under other provisions of this chapter, except debentures issued under the Mutual Mortgage Insurance Fund. Such purchases shall be made at a price which will provide an investment yield of not less than the yield obtainable from other investments authorized by this section. Debentures so purchased shall be canceled and not reissued.
 
 #### (d) Credits and charges to Fund
 
@@ -48,7 +48,7 @@ Pub. L. 103–233, §103(g)(2), added subsec. (g).
 
 1981—Subsec. (f). Pub. L. 97–35 inserted provision increasing authorization on Oct. 1, 1981.
 
-1980—Subsec. (f). Pub. L. 96–399 substituted “$1,738,000,000” for “$1,341,000,000, which amount shall be increased by $165,000,000 on October 1, 1978, which shall be increased by not to exceed $93,000,000 on October 1, 1979”.
+1980—Subsec. (f). Pub. L. 96–399 substituted “$1,738,000,000” for “$1,341,000,000, which amount shall be increased by $165,000,000 on October 1, 1978, whichshall be increased by not to exceed $93,000,000 on October 1, 1979”.
 
 1979—Subsec. (f). Pub. L. 96–153 provided for an increase of $93,000,000 on October 1, 1979.
 

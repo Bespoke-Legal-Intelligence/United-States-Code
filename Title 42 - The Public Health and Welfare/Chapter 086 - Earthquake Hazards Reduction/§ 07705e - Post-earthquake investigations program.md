@@ -10,6 +10,10 @@ There is established within the United States Geological Survey a post-earthquak
 
 (Pub. L. 95–124, §11, as added Pub. L. 101–614, §11(a), Nov. 16, 1990, 104 Stat. 3239.)
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Report on Funding of Program
 
 Section 11(b) of Pub. L. 101–614 directed Director of Federal Emergency Management Agency in consultation with other agencies of National Earthquake Hazards Reduction Program, not later than one year after Nov. 16, 1990, to report to Congress on possible options for funding a program for post-earthquake investigations, which would, at a minimum, consider funding such a program either by setting aside a percentage of disaster relief funds provided by Federal Emergency Management Agency after a major earthquake or by a revolving fund, and which would also include a recommendation on how the funding for such investigations would be allocated among the other Program agencies.

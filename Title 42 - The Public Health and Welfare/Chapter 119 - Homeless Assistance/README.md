@@ -1007,6 +1007,10 @@ Records.
 
 (h)
 
+Applicability to property under base closure process.
+
+(i)
+
 Definitions.
 
 |  |  |

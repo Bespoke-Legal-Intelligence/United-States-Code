@@ -110,7 +110,7 @@ The following security requirements shall apply with respect to United States di
 
 #### (iii) Authority to lease aircraft to respond to a terrorist attack abroad
 
-&emsp;&emsp;&emsp;Subject to the availability of appropriations, when the Attorney General of theDepartment of Justice exercises the Attorney General's authority to lease commercial aircraft to transport equipment and personnel in response to a terrorist attack abroad if there have been reasonable efforts to obtain appropriate Department of Defense aircraft and such aircraft are unavailable, the Attorney General shall have the authority to obtain indemnification insurance or guarantees if necessary and appropriate.
+&emsp;&emsp;&emsp;Subject to the availability of appropriations, when the Attorney General of the Department of Justice exercises the Attorney General's authority to lease commercial aircraft to transport equipment and personnel in response to a terrorist attack abroad if there have been reasonable efforts to obtain appropriate Department of Defense aircraft and such aircraft are unavailable, the Attorney General shall have the authority to obtain indemnification insurance or guarantees if necessary and appropriate.
 
 #### (7) Rapid response procedures
 
@@ -174,7 +174,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §602\], Nov. 29, 19
 
 #### Authorizations of Appropriations
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §604\], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, provided that:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VI, §604\], Nov. 29, 1999, 113 Stat. 1536, 1501A–453, as amended by Pub. L. 107–228, div. A, title I, §111(a)(3)(B), Sept. 30, 2002, 116 Stat. 1356, provided that:
 
 “(a)
 
@@ -186,7 +186,7 @@ Authorization of Appropriations.—In addition to amounts otherwise authorized t
 
 &emsp;“(3) for fiscal year 2002, $900,000,000;
 
-&emsp;“(4) for fiscal year 2003, $900,000,000; and
+&emsp;“(4) for fiscal year 2003, $1,000,000,000; and
 
 &emsp;“(5) for fiscal year 2004, $900,000,000.
 

@@ -6,7 +6,7 @@ The Surgeon General, with the approval of the Secretary, is authorized to make a
 
 #### (b) Apprehension, detention, or conditional release of individuals
 
-Regulations prescribed under this section shall not provide for the apprehension, detention, or conditional release of individuals except for the purpose of preventing the introduction, transmission, or spread of such communicable diseases as may be specified from time to time in Executive orders of the President upon the recommendation of the National Advisory Health Council and the Surgeon General.
+Regulations prescribed under this section shall not provide for the apprehension, detention, or conditional release of individuals except for the purpose of preventing the introduction, transmission, or spread of such communicable diseases as may be specified from time to time in Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General,<sup>1</sup>.
 
 #### (c) Application of regulations to persons entering from foreign countries
 
@@ -14,11 +14,31 @@ Except as provided in subsection (d) of this section, regulations prescribed und
 
 #### (d) Apprehension and examination of persons reasonably believed to be infected
 
-On recommendation of the National Advisory Health Council, regulations prescribed under this section may provide for the apprehension and examination of any individual reasonably believed to be infected with a communicable disease in a communicable stage and (1) to be moving or about to move from a State to another State; or (2) to be a probable source of infection to individuals who, while infected with such disease in a communicable stage, will be moving from a State to another State. Such regulations may provide that if upon examination any such individual is found to be infected, he may be detained for such time and in such manner as may be reasonably necessary. For purposes of this subsection, the term “State” includes, in addition to the several States, only the District of Columbia.
+(1) Regulations prescribed under this section may provide for the apprehension and examination of any individual reasonably believed to be infected with a communicable disease in a qualifying stage and (A) to be moving or about to move from a State to another State; or (B) to be a probable source of infection to individuals who, while infected with such disease in a qualifying stage, will be moving from a State to another State. Such regulations may provide that if upon examination any such individual is found to be infected, he may be detained for such time and in such manner as may be reasonably necessary. For purposes of this subsection, the term “State” includes, in addition to the several States, only the District of Columbia.
 
-(July 1, 1944, ch. 373, title III, §361, 58 Stat. 703; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 86–624, §29(c), July 12, 1960, 74 Stat. 419; Pub. L. 94–317, title III, §301(b)(1), June 23, 1976, 90 Stat. 707.)
+(2) For purposes of this subsection, the term “qualifying stage”, with respect to a communicable disease, means that such disease—
+
+&emsp;(A) is in a communicable stage; or
+
+&emsp;(B) is in a precommunicable stage, if the disease would be likely to cause a public health emergency if transmitted to other individuals.
+
+#### (e) Preemption
+
+Nothing in this section or section 266 of this title, or the regulations promulgated under such sections, may be construed as superseding any provision under State law (including regulations and including provisions established by political subdivisions of States), except to the extent that such a provision conflicts with an exercise of Federal authority under this section or section 266 of this title.
+
+(July 1, 1944, ch. 373, title III, §361, 58 Stat. 703; 1953 Reorg. Plan No. 1, §§5, 8, eff. Apr. 11, 1953, 18 F.R. 2053, 67 Stat. 631; Pub. L. 86–624, §29(c), July 12, 1960, 74 Stat. 419; Pub. L. 94–317, title III, §301(b)(1), June 23, 1976, 90 Stat. 707; Pub. L. 107–188, title I, §142(a)(1), (2), (b)(1), (c), June 12, 2002, 116 Stat. 626, 627.)
 
 #### Amendments
+
+2002—Pub. L. 107–188, §142(a)(1), (2), (b)(1), and (c), which directed certain amendments to section 361 of the Public Health Act, was executed by making the amendments to this section, which is section 361 of the Public Health Service Act, to reflect the probable intent of Congress. See below.
+
+Subsec. (b). Pub. L. 107–188, §142(a)(1), substituted “Executive orders of the President upon the recommendation of the Secretary, in consultation with the Surgeon General,” for “Executive orders of the President upon the recommendation of the National Advisory Health Council and the Surgeon General”.
+
+Subsec. (d). Pub. L. 107–188, §142(a)(2), (b)(1), substituted in first sentence “Regulations” for “On recommendation of the National Advisory Health Council, regulations”, “in a qualifying stage” for “in a communicable stage” in two places,
+
+designated existing text as par. (1) and substituted “(A)” and “(B)” for “(1)” and “(2)”, respectively, and added par. (2).
+
+Subsec. (e). Pub. L. 107–188, §142(c), added subsec. (e).
 
 1976—Subsec. (d). Pub. L. 94–317 inserted provision defining “State” to include, in addition to the several States, only the District of Columbia.
 
@@ -49,4 +69,6 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 201, 266, 271 of this title; title 21 section 381; title 49 section 24301.
+
+<i><sup>1</sup></i><i> So in original. Comma probably should not appear.</i>
 

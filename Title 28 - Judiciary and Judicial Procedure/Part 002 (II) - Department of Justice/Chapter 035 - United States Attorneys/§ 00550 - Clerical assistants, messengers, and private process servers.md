@@ -58,7 +58,7 @@ A prior section 556, act June 25, 1948, ch. 646, 62 Stat. 913, related to the pr
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–647 substituted “, messengers, and private process servers” for “and messengers” in section catchline and text.
+1990—Pub. L. 101–647 substituted “, messengers, and private process servers” for “and messengers” in section catchline and text.
 
 #### Effective Date of 1990 Amendment
 

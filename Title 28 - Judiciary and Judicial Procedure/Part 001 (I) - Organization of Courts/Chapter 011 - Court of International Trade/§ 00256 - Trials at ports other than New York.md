@@ -8,7 +8,7 @@
 
 #### Amendments
 
-<b>1982</b>—Subsec. (b). Pub. L. 97–164 substituted “section 1292(d)(1) of this title, and the United States Court of Appeals for the Federal Circuit may, in its discretion, consider the appeal” for “section 1541(b) of this title, subject to the discretion of the Court of Customs and Patent Appeals as set forth in that section”.
+1982—Subsec. (b). Pub. L. 97–164 substituted “section 1292(d)(1) of this title, and the United States Court of Appeals for the Federal Circuit may, in its discretion, consider the appeal” for “section 1541(b) of this title, subject to the discretion of the Court of Customs and Patent Appeals as set forth in that section”.
 
 #### Effective Date of 1982 Amendment
 
@@ -18,7 +18,7 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 Section 122 of title I of Pub. L. 91–271 provided that:
 
-“(a) This title \[see Short Title of 1970 Amendment note set out under section 1 of this title\] shall become effective on October 1, 1970, and shall thereafter apply to all actions and proceedings in the Customs Court and the Court of Customs and Patent Appeals exceptthose involving merchandise entered before the effective date for which trial has commenced by such effective date.
+“(a) This title \[see Short Title of 1970 Amendment note set out under section 1 of this title\] shall become effective on October 1, 1970, and shall thereafter apply to all actions and proceedings in the Customs Court and the Court of Customs and Patent Appeals except those involving merchandise entered before the effective date for which trial has commenced by such effective date.
 
 “(b) An appeal for reappraisement timely filed with the Bureau of Customs before the effective date, but as to which trial has not commenced by such date, shall be deemed to have had a summons timely and properly filed under this title. When the judgment or order of the United States Customs Court has become final in this appeal, the papers shall be returned to the appropriate customs officer to decide any remaining matters relating to the entry in accordance with section 500 of the Tariff Act of 1930, as amended \[section 1500 of Title 19, Customs Duties\]. A protest or summons filed after final decision on an appeal for reappraisement shall not include issues which were raised or could have been raised on the appeal for reappraisement.
 

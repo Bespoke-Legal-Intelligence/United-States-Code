@@ -2,7 +2,7 @@
 
 #### (a) Function and operation
 
-There is established in the Office of the Secretary an Administration on Aging which shall be headed by an Assistant Secretary for Aging. Except for subchapter IX of this chapter, the Administration shall be the agency for carrying out this chapter. There shall be a direct reporting relationship between the Assistant Secretary and the Secretary. In the performance of the functions of the Assistant Secretary, the Assistant Secretary shall be directly responsible to the Secretary. The Secretary shall not approve or require any delegation of the functions of the Assistant Secretary (including the functions of the Assistant Secretary carried out through regional offices) to any other officer not directly responsible to the Assistant Secretary.
+There is established in the Office of the Secretary an Administration on Aging which shall be headed by an Assistant Secretary for Aging. Except for subchapter IX of this chapter, the Administration shall be the agency for carrying out this chapter. There shall be a direct reporting relationship between the Assistant Secretary and the Secretary. In the performance of the functions of the Assistant Secretary, the Assistant Secretary shall be directly responsible to the Secretary. The Secretary shall not approve or require any delegation of the functions of theAssistant Secretary (including the functions of the Assistant Secretary carried out through regional offices) to any other officer not directly responsible to the Assistant Secretary.
 
 #### (b) Appointment of Assistant Secretary
 
@@ -122,7 +122,7 @@ Subsec. (b). Pub. L. 103–171, §3(a)(2)(D), substituted “Assistant Secretary
 
 Subsec. (c)(2). Pub. L. 103–171, §3(a)(2)(B)(i), (D), substituted “a Director of the Office for” for “an Associate Commissioner on” and “Assistant Secretary” for “Commissioner”.
 
-Subsec. (c)(3). Pub. L. 103–171, §3(a)(2)(B)(ii), (D), substituted “Director of the Office for” for “AssociateCommissioner on” in introductory provisions and “Assistant Secretary” for “Commissioner” wherever appearing in subpars. (A), (E), and (I)(ii).
+Subsec. (c)(3). Pub. L. 103–171, §3(a)(2)(B)(ii), (D), substituted “Director of the Office for” for “Associate Commissioner on” in introductory provisions and “Assistant Secretary” for “Commissioner” wherever appearing in subpars. (A), (E), and (I)(ii).
 
 Subsec. (d)(2). Pub. L. 103–171, §3(a)(2)(C), (D), substituted “a Director of the Office of Long-Term Care Ombudsman Programs” for “an Associate Commissioner for Ombudsman Programs” in subpar. (A), “Director” for “Associate Commissioner” wherever appearing, and “Assistant Secretary” for “Commissioner” in two places in subpar. (A).
 

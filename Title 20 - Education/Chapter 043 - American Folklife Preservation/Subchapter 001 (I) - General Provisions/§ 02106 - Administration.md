@@ -28,7 +28,7 @@ The Director shall submit to the Librarian for inclusion in the annual report of
 
 #### References in Text
 
-The Federal property disposal statutes, referred to in subsec. (a)(2), are generally classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works.
+For Federal property disposal statutes, referred to in subsec. (a)(2), see, generally, subtitle I of Title 40, Public Buildings, Property, and Works.
 
 #### Codification
 

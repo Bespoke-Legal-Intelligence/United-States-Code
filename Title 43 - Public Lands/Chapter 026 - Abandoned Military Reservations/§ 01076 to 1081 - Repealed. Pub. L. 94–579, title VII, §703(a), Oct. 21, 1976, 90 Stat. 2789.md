@@ -1,6 +1,6 @@
 ### §§1076 to 1081. Repealed. Pub. L. 94–579, title VII, §703(a), Oct. 21, 1976, 90 Stat. 2789
 
-Section 1076, act Mar. 3, 1893, ch. 208, 27 Stat. 593, authorized the President to withhold from sale or grantto municipal corporations portions of abandoned military reservations.
+Section 1076, act Mar. 3, 1893, ch. 208, 27 Stat. 593, authorized the President to withhold from sale or grant to municipal corporations portions of abandoned military reservations.
 
 Section 1077, acts Aug. 23, 1894, ch. 314, §1, 28 Stat. 491; Feb. 15, 1895, ch. 92, §1, 28 Stat. 664, authorized opening of lands of abandoned military reservations to settlement.
 

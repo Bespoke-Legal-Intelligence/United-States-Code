@@ -8,7 +8,7 @@ To carry out the provisions of this subchapter, there are authorized to be appro
 
 &emsp;(3) such amounts as may be authorized for the construction of demonstrations pursuant to section 5556(f) of this title; and
 
-&emsp;(4) to the National Science Foundation for the fiscal year ending June 30, 1975, not to exceed $2,000,000 to be made available for use in the preparation of the comprehensive program definition under section 5564 of this title.
+&emsp;(4) to the National Science Foundation for the fiscal year ending June 30, 1975, not to exceed $2,000,000 to be made available for use inthe preparation of the comprehensive program definition under section 5564 of this title.
 
 (Pub. L. 93–473, §17, Oct. 26, 1974, 88 Stat. 1438.)
 

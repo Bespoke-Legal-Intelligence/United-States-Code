@@ -32,7 +32,7 @@ LOAN FEE TABLE
 |  |  |  |  |
 | (D)(ii) Initial loan described in section 3710(a) to purchase or construct a dwelling with 10-down (closed on or after October 1, 2011) | 0\.50 | 1\.25 | NA |
 |  |  |  |  |
-| (E) Interest rate reduction refinancing loan | 0\.50 | 0\.50 | NA |
+| \(E) Interest rate reduction refinancing loan | 0\.50 | 0\.50 | NA |
 |  |  |  |  |
 | (F) Direct loan under section 3711 | 1\.00 | 1\.00 | NA |
 |  |  |  |  |
@@ -88,7 +88,7 @@ Subsec. (a)(4). Pub. L. 105–368, §603(b), designated existing provisions as s
 
 Subsec. (c). Pub. L. 105–368, §603(e)(1)(D)(i), struck out “(1)” before “A fee may not” and struck out pars. (2) and (3) which read as follows:
 
-“(2) There shall be credited to the Guaranty and Indemnity Fund (in addition to the amount required to be credited to such Fund under clause (A) or (B) of paragraph (2) of section 3725(c) of this title or paragraph (3) of that section), on behalf of a veteran or surviving spouse described in paragraph (1) of this subsection, an amount equal to the fee that, except for paragraph (1) of this subsection, would be collected from such veteran or surviving spouse.
+“(2) There shall be credited to the Guaranty and Indemnity Fund (in addition to the amount required tobe credited to such Fund under clause (A) or (B) of paragraph (2) of section 3725(c) of this title or paragraph (3) of that section), on behalf of a veteran or surviving spouse described in paragraph (1) of this subsection, an amount equal to the fee that, except for paragraph (1) of this subsection, would be collected from such veteran or surviving spouse.
 
 “(3) Credits to the Guaranty and Indemnity Fund under paragraph (2) of this subsection with respect to loans guaranteed, insured, or made under this chapter that are closed during fiscal year 1990 shall be made in October 1990.”
 
@@ -187,6 +187,18 @@ Section 2511(c) of Pub. L. 98–369 provided that:
 #### Effective Date
 
 Section 406(b) of Pub. L. 97–253, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that: “Section 1829 \[now 3729\] of title 38, United States Code, as added by subsection (a), shall apply only to loans closed after September 30, 1982.”
+
+#### Fee for Loan Assumption
+
+Pub. L. 107–330, title III, §307, Dec. 6, 2002, 116 Stat. 2827, provided that:
+
+“(a)
+
+In General.—For the period described in subsection (b), the Secretary of Veterans Affairs shall apply section 3729(b)(2)(I) of title 38, United States Code, by substituting ‘1.00’ for ‘0.50’ each place it appears.
+
+“(b)
+
+Period Described.—The period referred to in subsection (a) is the period that begins on the date that is 7 days after the date of the enactment of this Act \[Dec. 6, 2002\] and ends on September 30, 2003.”
 
 #### Ratification of Actions by Secretary of Veterans Affairs and by Secretary of the Treasury Between Oct. 1, 1990, and June 13, 1991
 

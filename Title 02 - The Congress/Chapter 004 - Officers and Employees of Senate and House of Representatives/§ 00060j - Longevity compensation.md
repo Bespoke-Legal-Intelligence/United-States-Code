@@ -14,7 +14,7 @@ This section shall apply to—
 
 &emsp;(2) each employee of the Senate authorized by Senate resolution to be appointed by the Secretary of the Senate or the Sergeant at Arms and Doorkeeper, except employees designated as “special employees”; and
 
-&emsp;(3) each employee of the Capitol Guide Service established under section 851 of title 40.
+&emsp;(3) each employee of the Capitol Guide Service established under section 2166 of this title.
 
 #### (b) Rate of compensation; limitation on increases; computation of service; effective date of payment
 
@@ -78,7 +78,7 @@ Figure “696” deemed to refer to the figure “738”, effective Feb. 1, 1971
 
 1969—Subsec. (b). Figure “597”, as increased by Order of June 12, 1968, deemed, on and after July 1, 1969, to refer to the figure “657”, pursuant to Pub. L. 90–206, §225(h), see section 4(c) of Salary Directive of President pro tempore of the Senate, June 17, 1969, set out as a note under section 60a–1 of this title.
 
-1968—Subsec. (b). Figure “564”, deemed, on and after July 1, 1968, to refer to the figure “597”, pursuant toPub. L. 90–206, §225(h), see section 1(h) of Salary Directive of President pro tempore of the Senate, June 12, 1968, set out as a note under section 60a–1 of this title.
+1968—Subsec. (b). Figure “564”, deemed, on and after July 1, 1968, to refer to the figure “597”, pursuant to Pub. L. 90–206, §225(h), see section 1(h) of Salary Directive of President pro tempore of the Senate, June 12, 1968, set out as a note under section 60a–1 of this title.
 
 1967—Subsec. (b). Pub. L. 90–206, §214(n), substituted “$564” for “540”.
 

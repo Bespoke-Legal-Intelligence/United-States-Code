@@ -24,7 +24,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding sections 563(a) and 565(a) of title 5, all regulations required under this chapter shall be issued according to a negotiated rulemaking procedure under subchapter III of chapter 5 of title 5.
+&emsp;&emsp;Notwithstanding sections 563(a) and 565(a) of title 5, all regulations required under this chapter, including any regulations that may be required pursuant to amendments made to this chapter after October 26, 1996, shall be issued according to a negotiated rulemaking procedure under subchapter III of chapter 5 of title 5.
 
 #### (B) Committee
 
@@ -44,13 +44,17 @@
 
 This section shall take effect on October 26, 1996.
 
-(Pub. L. 104–330, title I, §106, Oct. 26, 1996, 110 Stat. 4029.)
+(Pub. L. 104–330, title I, §106, Oct. 26, 1996, 110 Stat. 4029; Pub. L. 107–292, §6, Nov. 13, 2002, 116 Stat. 2054.)
 
 #### References in Text
 
 For the effective date of this chapter, referred to in subsecs. (a)(1) and (b)(1), as Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of this title.
 
-The United States Housing Act of 1937, referred to in subsec. (a)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+The United States Housing Act of 1937, referred to in subsec. (a)(1), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974,88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+
+#### Amendments
+
+2002—Subsec. (b)(2)(A). Pub. L. 107–292 inserted “, including any regulations that may be required pursuant to amendments made to this chapter after October 26, 1996,” after “required under this chapter”.
 
 #### Section Referred to in Other Sections
 

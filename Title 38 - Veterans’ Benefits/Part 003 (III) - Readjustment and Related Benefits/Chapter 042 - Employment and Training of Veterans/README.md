@@ -6,10 +6,13 @@
 | [4212\.](%C2%A7%2004212%20-%20Veterans%E2%80%99%20employment%20emphasis%20under%20Federal%20contracts.md) | Veterans’ employment emphasis under Federal contracts. |
 | [4213\.](%C2%A7%2004213%20-%20Eligibility%20requirements%20for%20veterans%20under%20Federal%20employment%20and%20training%20programs.md) | Eligibility requirements for veterans under Federal employment and training programs. |
 | [4214\.](%C2%A7%2004214%20-%20Employment%20within%20the%20Federal%20Government.md) | Employment within the Federal Government. |
+| [4215\.](%C2%A7%2004215%20-%20Priority%20of%20service%20for%20veterans%20in%20Department%20of%20Labor%20job%20training%20programs.md) | Priority of service for veterans in Department of Labor job training programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–288, §2(a)(2), Nov. 7, 2002, 116 Stat. 2034, added item 4215.
 
 1991—Pub. L. 102–83, §5(b)(1), Aug. 6, 1991, 105 Stat. 406, renumbered items 2011 to 2014 as 4211 to 4214, respectively.
 
@@ -32,3 +35,4 @@ This chapter is referred to in sections 3116, 4102A, 4103A, 4106, 4107, 7725 of 
 - [&sect; 04212 - Veterans&#8217; employment emphasis under Federal contracts](%C2%A7%2004212%20-%20Veterans%E2%80%99%20employment%20emphasis%20under%20Federal%20contracts.md)
 - [&sect; 04213 - Eligibility requirements for veterans under Federal employment and training programs](%C2%A7%2004213%20-%20Eligibility%20requirements%20for%20veterans%20under%20Federal%20employment%20and%20training%20programs.md)
 - [&sect; 04214 - Employment within the Federal Government](%C2%A7%2004214%20-%20Employment%20within%20the%20Federal%20Government.md)
+- [&sect; 04215 - Priority of service for veterans in Department of Labor job training programs](%C2%A7%2004215%20-%20Priority%20of%20service%20for%20veterans%20in%20Department%20of%20Labor%20job%20training%20programs.md)

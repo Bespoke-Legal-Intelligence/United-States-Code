@@ -1,0 +1,30 @@
+### §9302. Consent of Theodore Roosevelt Association required for development
+
+(a)
+
+General Plan for Development.—The Theodore Roosevelt Association must approve every general plan for the development of Theodore Roosevelt Island.
+
+(b)
+
+Development Inconsistent with Plan.—As long as the Association remains in existence, development inconsistent with the general plan may not be carried out without the Association's consent.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1233.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+9302
+
+40:124 (proviso).
+
+May 21, 1932, ch. 200, §1 (proviso), 47 Stat. 163.
+
+The words “Theodore Roosevelt Association” are substituted for “Roosevelt Memorial Association” because of section 2 of the Act of May 21, 1953 (ch. 63, 36:210101 note).
+

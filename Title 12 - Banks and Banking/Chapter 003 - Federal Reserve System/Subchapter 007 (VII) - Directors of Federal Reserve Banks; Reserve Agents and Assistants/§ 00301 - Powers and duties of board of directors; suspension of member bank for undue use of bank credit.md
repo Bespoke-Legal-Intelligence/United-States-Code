@@ -18,7 +18,7 @@ Section is comprised of pars. 6 to 8 of section 4 of act Dec. 23, 1913.
 
 Pars. 1 to 3 and 25 of section 4 were omitted from the code as executed.
 
-Pars. 4 and 5, 9 to 12, 13 to 15, 16 to 21, 22, 24, and 26 of section 4, and par. 23 of section 4 as added June 21,1917, ch. 32, §2, 40, Stat. 232, are classified to sections 341, 302, 303, 304, 305, 307, 308, and 306, respectively, of this title.
+Pars. 4 and 5, 9 to 12, 13 to 15, 16 to 21, 22, 24, and 26 of section 4, and par. 23 of section 4 as added June 21, 1917, ch. 32, §2, 40, Stat. 232, are classified to sections 341, 302, 303, 304, 305, 307, 308, and 306, respectively, of this title.
 
 #### Amendments
 

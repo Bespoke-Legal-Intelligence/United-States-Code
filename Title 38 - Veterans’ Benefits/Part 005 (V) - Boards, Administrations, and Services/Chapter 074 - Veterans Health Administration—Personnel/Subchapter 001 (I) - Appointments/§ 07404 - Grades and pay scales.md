@@ -74,11 +74,11 @@ Subsec. (d)(1). Pub. L. 102–405, §302(c)(1), substituted “Under Secretary f
 
 Section 308 of Pub. L. 102–585 provided that: “The amendments made by sections 301, 302, 303, and 304 \[amending this section and sections 7451 and 7452 of this title\] shall take effect with respect to the first pay period beginning on or after the end of the six-month period beginning on the date of the enactment of this Act \[Nov. 4, 1992\].”
 
-#### Adjustment of Pay Rates Effective for Pay Periods Beginning On or After January 1, 2002
+#### Adjustment of Pay Rates Effective for Pay Periods Beginning On or After January 1, 2003
 
-Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for an adjustment of the pay rates under this section effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2002. See Schedule set out below:
+Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for an adjustment of the pay rates under this section effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2003. See Schedule set out below:
 
-Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2002)
+Schedule 3<br><i>Veterans Health Administration Schedules, Department of Veterans Affairs</i><br>(Effective on the first day of the first applicable pay period beginning on or after January 1, 2003)
 
 &nbsp;
 
@@ -90,15 +90,15 @@ Schedule for the Office of the Under Secretary for Health (38 U.S.C. 7306) <sup
 
 Deputy Under Secretary for Health
 
-<sup>2</sup> $140,243
+<sup>2</sup> $144,591
 
 Associate Deputy Under Secretary for Health
 
-<sup>3</sup> 134,327
+<sup>3</sup> 138,491
 
 Assistant Under Secretaries for Health
 
-<sup>3</sup> 130,367
+<sup>3</sup> 134,408
 
 &nbsp;
 
@@ -108,153 +108,153 @@ Maximum
 
 Medical Directors
 
-$111,230
+$114,678
 
-<sup>3</sup> $126,064
+<sup>3</sup> $129,972
 
 Service Directors
 
-96,851
+99,853
 
-120,282
+124,011
 
 Director, National Center for Preventive Health
 
-82,580
+85,140
 
-120,282
+124,011
 
 Physician and Dentist Schedule
 
 Director Grade
 
-$96,851
+$99,853
 
-$120,282
+$124,011
 
 Executive Grade
 
-89,432
+92,204
 
-113,978
+117,511
 
 Chief Grade
 
-82,580
+85,140
 
-107,357
+110,682
 
 Senior Grade
 
-70,205
+72,381
 
-91,265
+94,098
 
 Intermediate Grade
 
-59,409
+61,251
 
-77,229
+79,629
 
 Full Grade
 
-49,959
+51,508
 
-64,944
+66,961
 
 Associate Grade
 
-41,684
+42,976
 
-54,185
+55,873
 
 Clinical Podiatrist and Optometrist Schedule
 
 Chief Grade
 
-$82,580
+$85,140
 
-$107,357
+$110,682
 
 Senior Grade
 
-70,205
+72,381
 
-91,265
+94,098
 
 Intermediate Grade
 
-59,409
+61,251
 
-77,229
+79,629
 
 Full Grade
 
-49,959
+51,508
 
-64,944
+66,961
 
 Associate Grade
 
-41,684
+42,976
 
-54,185
+55,873
 
 Physician Assistant and Expanded-Function Dental Auxiliary Schedule <sup>4</sup>
 
 Director Grade
 
-$82,580
+$85,140
 
-$107,357
+$110,682
 
 Assistant Director Grade
 
-70,205
+72,381
 
-91,265
+94,098
 
 Chief Grade
 
-59,409
+61,251
 
-77,229
+79,629
 
 Senior Grade
 
-49,959
+51,508
 
-64,944
+66,961
 
 Intermediate Grade
 
-41,684
+42,976
 
-54,185
+55,873
 
 Full Grade
 
-34,451
+35,519
 
-44,783
+46,175
 
 Associate Grade
 
-29,646
+30,565
 
-38,538
+39,736
 
 Junior Grade
 
-25,344
+26,130
 
-32,949
+33,969
 
 <sup>1</sup> This schedule does not apply to the Assistant Under Secretary for Nursing Programs or the Director of Nursing Services. Pay for these positions is set by the Under Secretary for Health under 38 U.S.C. 7451.
 
-<sup>2</sup> Pursuant to section 7404(d)(1) of title 38, United States Code, the rate of basic pay payable to this employee is limited to the rate for level IV of the Executive Schedule, which is $130,000.
+<sup>2</sup> Pursuant to section 7404(d)(1) of title 38, United States Code, the rate of basic pay payable to this employee is limited to the rate for level IV of the Executive Schedule, which is $134,000.
 
-<sup>3</sup> Pursuant to section 7404(d)(2) of title 38, United States Code, the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $121,600.
+<sup>3</sup> Pursuant to section 7404(d)(2) of title 38, United States Code, the rate of basic pay payable to these employees is limited to the rate for level V of the Executive Schedule, which is $125,400.
 
 <sup>4</sup> Pursuant to section 301(a) of Public Law 102–40, these positions are paid according to the Nurse Schedule in 38 U.S.C. 4107(b) \[former section 4107(b) of Title 38, Veterans’ Benefits\] as in effect on August 14, 1990, with subsequent adjustments.
 
@@ -384,11 +384,15 @@ Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, which provided for adjustment o
 
 #### Executive Order No. 13144
 
-Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for adjustment of pay rates effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, formerly set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for adjustment of pay rates effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, formerly set out as a note under section 5332 of Title 5.
 
 #### Executive Order No. 13182
 
-Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided for adjustment of pay rates effective Jan. 1, 2001, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, set out as a note under section 5332 of Title 5.
+Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided for adjustment of pay rates effective Jan. 1, 2001, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, formerly set out as a note under section 5332 of Title 5.
+
+#### Executive Order No. 13249
+
+Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, which provided for adjustment of pay rates effective Jan. 1, 2002,was superseded by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of Title 5.
 
 #### Section Referred to in Other Sections
 

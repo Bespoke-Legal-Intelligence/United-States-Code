@@ -1,6 +1,6 @@
 ### §1135e. Authorization of appropriations
 
-There are authorized to be appropriated $35,000,000 for fiscal year 1999 and such sums as may be necessary for each of the 4 succeeding fiscal years to carry out this subpart.
+There are authorized to be appropriated $35,000,000 for fiscal year 1999 and such sums asmay be necessary for each of the 4 succeeding fiscal years to carry out this subpart.
 
 (Pub. L. 89–329, title VII, §716, as added Pub. L. 105–244, title VII, §701, Oct. 7, 1998, 112 Stat. 1794.)
 

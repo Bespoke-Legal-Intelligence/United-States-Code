@@ -60,7 +60,7 @@
 
 > but only if each value referred to in clause (i) or (ii) that is used for comparison relates to merchandise that was exported to the United States at or about the same time as the imported merchandise.
 
-(C) In applying the values used for comparison purposes under subparagraph (B), there shall be taken into account differences with respect to the sales involved (if such differences are based on sufficient information whether supplied by the buyer or otherwise available to the customs officer concerned) in—
+(C) In applying the values used for comparison purposes under subparagraph (B), there shall be taken into account differences with respect to the sales involved (if such differences are based on sufficient information whether supplied bythe buyer or otherwise available to the customs officer concerned) in—
 
 &emsp;(i) commercial levels;
 
@@ -344,7 +344,7 @@ Earlier effective date under certain circumstances.—If the President determine
 
 “(b)
 
-Application of Old Law Valuation Standards.—For purposes of the administration of the customs laws, all merchandise (other than merchandise to which subsections (a) and (c) apply) shall be appraised on the same basis, and in the same manner, as if the amendments made by this title had not been enacted.
+Application of Old Law Valuation Standards.—For purposes of the administration of the customs laws, all merchandise (other than merchandise to which subsections (a) and (c) apply) shall be appraisedon the same basis, and in the same manner, as if the amendments made by this title had not been enacted.
 
 “(c)
 

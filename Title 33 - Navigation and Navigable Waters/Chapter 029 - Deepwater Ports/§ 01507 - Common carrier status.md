@@ -16,13 +16,25 @@ A licensee is not discriminating under this section and is not subject to common
 
 When the Secretary has reason to believe that a licensee is not in compliance with this section, the Secretary shall commence an appropriate proceeding before the Federal Energy Regulatory Commission or request the Attorney General to take appropriate steps to enforce compliance with this section and, when appropriate, to secure the imposition of appropriate sanctions. In addition, the Secretary may suspend or revoke the license of a licensee not complying with its obligations under this section.
 
-(Pub. L. 93–627, §8, Jan. 3, 1975, 88 Stat. 2136; Pub. L. 98–419, §3(a), Sept. 25, 1984, 98 Stat. 1608; Pub. L. 104–324, title V, §507, Oct. 19, 1996, 110 Stat. 3927.)
+#### (d) Managed access
+
+Subsections (a) and (b) of this section shall not apply to deepwater ports for natural gas. A licensee of a deepwater port for natural gas, or an affiliate thereof, may exclusively utilize the entire capacity of the deepwater port and storage facilities for the acceptance, transport, storage, regasification, or conveyance of natural gas produced, processed, marketed, or otherwise obtained by agreement by such licensee or its affiliates. The licensee may make unused capacity of the deepwater port and storage facilities available to other persons, pursuant to reasonable terms and conditions imposed by the licensee, if such use does not otherwise interfere in any way with the acceptance, transport, storage, regasification, or conveyance of natural gas produced, processed, marketed, or otherwise obtained by agreement by such licensee or its affiliates.
+
+#### (e) Jurisdiction
+
+Notwithstanding any provision of the Natural Gas Act (15 U.S.C. 717 et seq.), any regulation or rule issued thereunder, or section 1518 of this title as it pertains to such Act, this chapter shall apply with respect to the licensing, siting, construction, or operation of a deepwater natural gas port or the acceptance, transport, storage, regasification, or conveyance of natural gas at or through a deepwater port, to the exclusion of the Natural Gas Act or any regulation or rule issued thereunder.
+
+(Pub. L. 93–627, §8, Jan. 3, 1975, 88 Stat. 2136; Pub. L. 98–419, §3(a), Sept. 25, 1984, 98 Stat. 1608; Pub. L. 104–324, title V, §507, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, §106(d), Nov. 25, 2002, 116 Stat. 2087.)
 
 #### References in Text
 
 The Interstate Commerce Act, referred to in subsec. (a), is act Feb. 4, 1887, ch. 104, 24 Stat. 379, as amended. Part I of the Act, which was classified to chapter 1 (§1 et seq.) of former Title 49, Transportation, was repealed by Pub. L. 95-473, §4(b), Oct. 17, 1978, 92 Stat. 1467, the first section of which enacted subtitle IV (§10101 et seq.) of Title 49. For distribution of former sections of Title 49 into the revised Title 49, see Table at the beginning of Title 49.
 
+The Natural Gas Act, referred to in subsec. (e), is act June 21, 1938, ch. 556, 52 Stat. 821, as amended, which is classified generally to chapter 15B (§717 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 717w of Title 15 and Tables.
+
 #### Amendments
+
+2002—Subsecs. (d), (e). Pub. L. 107–295 added subsecs. (d) and (e).
 
 1996—Subsec. (a). Pub. L. 104–324, §507(a), inserted “and shall accept, transport, or convey without discrimination all oil delivered to the deepwater port with respect to which its license is issued,” after “subtitle IV of title 49,”.
 

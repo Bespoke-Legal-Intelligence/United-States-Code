@@ -8,7 +8,7 @@ Contents of Wire or Electronic Communications in Electronic Storage.—A governm
 
 Contents of Wire or Electronic Communications in a Remote Computing Service.—(1) A governmental entity may require a provider of remote computing service to disclose the contents of any wire or electronic communication to which this paragraph is made applicable by paragraph (2) of this subsection—
 
-&emsp;(A) without required notice to the subscriber or customer, if the governmental entity obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation or equivalent State warrant; or
+&emsp;(A) without required notice to the subscriber or customer, if the governmental entity obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction overthe offense under investigation or equivalent State warrant; or
 
 &emsp;(B) with prior notice from the governmental entity to the subscriber or customer if the governmental entity—
 
@@ -26,7 +26,7 @@ Contents of Wire or Electronic Communications in a Remote Computing Service.—(
 
 (c)
 
-Records Concerning Electronic Communication Service or Remote Computing Service.—(1) A governmental entity may require a provider of electronic communication service orremote computing service to disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications) only when the governmental entity—
+Records Concerning Electronic Communication Service or Remote Computing Service.—(1) A governmental entity may require a provider of electronic communication service or remote computing service to disclose a record or other information pertaining to a subscriber to or customer of such service (not including the contents of communications) only when the governmental entity—
 
 &emsp;(A) obtains a warrant issued using the procedures described in the Federal Rules of Criminal Procedure by a court with jurisdiction over the offense under investigation or equivalent State warrant;
 
@@ -62,7 +62,7 @@ Requirements for Court Order.—A court order for disclosure under subsection (b
 
 (e)
 
-No Cause of Action Against a Provider Disclosing Information Under This Chapter.—No cause of action shall lie in any court against any provider of wire or electronic communication service, its officers, employees, agents, or other specified persons for providing information, facilities, or assistance in accordance with the terms of a court order, warrant, subpoena, or certification under this chapter.
+No Cause of Action Against a Provider Disclosing Information Under This Chapter.—No cause of action shall lie in any court against any provider of wire or electronic communication service, its officers, employees, agents, or other specified persons for providing information, facilities, or assistance in accordance with the terms of a court order, warrant, subpoena, statutory authorization, or certification under this chapter.
 
 (f)
 
@@ -76,7 +76,11 @@ In general.—A provider of wire or electronic communication services or a remot
 
 Period of retention.—Records referred to in paragraph (1) shall be retained for a period of 90 days, which shall be extended for an additional 90-day period upon a renewed request by the governmental entity.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994, 108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23, 1998, 112 Stat. 522; Pub. L. 107–56, title II, §§209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292.)
+(g)
+
+Presence of Officer Not Required.—Notwithstanding section 3105 of this title, the presence of an officer shall not be required for service or execution of a search warrant issued in accordance with this chapter requiring disclosure by a provider of electronic communications service or remote computing service of the contents of communications or records or other information pertaining to a subscriber to or customer of such service.
+
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1861; amended Pub. L. 100–690, title VII, §§7038, 7039, Nov. 18, 1988, 102 Stat. 4399; Pub. L. 103–322, title XXXIII, §330003(b), Sept. 13, 1994,108 Stat. 2140; Pub. L. 103–414, title II, §207(a), Oct. 25, 1994, 108 Stat. 4292; Pub. L. 104–132, title VIII, §804, Apr. 24, 1996, 110 Stat. 1305; Pub. L. 104–293, title VI, §601(b), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 104–294, title VI, §605(f), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–184, §8, June 23, 1998, 112 Stat. 522; Pub. L. 107–56, title II, §§209(2), 210, 212(b)(1), 220(a)(1), (b), Oct. 26, 2001, 115 Stat. 283, 285, 291, 292; Pub. L. 107–273, div. B, title IV, §4005(a)(2), div. C, title I, §11010, Nov. 2, 2002, 116 Stat. 1812, 1822; Pub. L. 107–296, title II, §225(h)(1), Nov. 25, 2002, 116 Stat. 2158.)
 
 #### Amendment of Section
 
@@ -87,6 +91,12 @@ Period of retention.—Records referred to in paragraph (1) shall be retained fo
 The Federal Rules of Criminal Procedure, referred to in subsecs. (a), (b)(1)(A), and (c)(1)(B)(i), are set out in the Appendix to this title.
 
 #### Amendments
+
+2002—Subsec. (c)(1)(E). Pub. L. 107–273, §4005(a)(2), realigned margins.
+
+Subsec. (e). Pub. L. 107–296 inserted “, statutory authorization” after “subpoena”.
+
+Subsec. (g). Pub. L. 107–273, §11010, added subsec. (g).
 
 2001—Pub. L. 107–56, §§212(b)(1)(A), 224, temporarily substituted “Required disclosure of customer communications or records” for “Requirements for governmental access” in section catchline. See Termination Date of 2001 Amendment note below.
 
@@ -129,6 +139,10 @@ Pub. L. 103–322 substituted “section 3127(2)(A)” for “section 3126(2)(A)
 1988—Subsecs. (b)(1)(B)(i), (c)(1)(B)(i). Pub. L. 100–690, §7038, inserted “or trial” after “grand jury”.
 
 Subsec. (d). Pub. L. 100–690, §7039, inserted “may be issued by any court that is a court of competent jurisdiction set forth in section 3126(2)(A) of this title and” before “shall issue”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out asan Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Termination Date of 2001 Amendment
 

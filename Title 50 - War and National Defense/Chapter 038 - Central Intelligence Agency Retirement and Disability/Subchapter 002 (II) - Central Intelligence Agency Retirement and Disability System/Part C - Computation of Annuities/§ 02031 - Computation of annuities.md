@@ -50,7 +50,7 @@
 
 #### (A) General rule
 
-&emsp;&emsp;Except to the extent provided otherwise under a written election under subparagraph (B) or (C), if at the time of retirement a participant or former participant is married (or has a former spouse who has not remarried before attaining age 55), the participant shall receive a reduced annuity and provide a survivor annuity for the participant's spouse under this subsection or former spouse under section 2032(b) of this title, or a combination of such annuities, as the case may be.
+&emsp;&emsp;Except to the extent provided otherwise under a written election under subparagraph\(B) or (C), if at the time of retirement a participant or former participant is married (or has a former spouse who has not remarried before attaining age 55), the participant shall receive a reduced annuity and provide a survivor annuity for the participant's spouse under this subsection or former spouse under section 2032(b) of this title, or a combination of such annuities, as the case may be.
 
 #### (B) Joint election for waiver or reduction of spouse survivor annuity
 
@@ -134,7 +134,7 @@
 
 #### (4) Reductions in annuity
 
-&emsp;An annuity that is reduced in connection with an election under this subsection shall bereduced by the same percentage reductions as were in effect at the time of the retirement of the participant or former participant whose annuity is so reduced.
+&emsp;An annuity that is reduced in connection with an election under this subsection shall be reduced by the same percentage reductions as were in effect at the time of the retirement of the participant or former participant whose annuity is so reduced.
 
 #### (5) Rights and obligations resulting from reduced annuity election
 
@@ -180,7 +180,7 @@
 
 &emsp;(A) In the case of a child annuity payable under paragraph (1), upon the death of a surviving spouse or the termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse or child had not survived the retired participant.
 
-&emsp;(B) In the case of a child annuity payable under paragraph (2), upon the death of a surviving spouse or former spouse or termination of the annuity of a child, the annuities of any remaining children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the retired participant. If the annuity of a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities of all currently eligible children were then being initiated.
+&emsp;(B) In the case of a child annuity payable under paragraph (2), upon the death of a surviving spouse or former spouse or termination of the annuity of a child, the annuities of anyremaining children shall be recomputed and paid as though the spouse, former spouse, or child had not survived the retired participant. If the annuity of a surviving child who has not been receiving an annuity is initiated or resumed, the annuities of any other children shall be recomputed and paid from that date as though the annuities of all currently eligible children were then being initiated.
 
 #### (5) “Former spouse” defined
 
@@ -202,7 +202,7 @@
 
 #### (A) Authority to make designation
 
-&emsp;&emsp;Subject to the rights of former spouses under subsection (b) of this section and section 2032 of this title, at the time of retirement an unmarried participant found by the Director to be in good health may elect to receive an annuity reduced in accordancewith subparagraph (B) and designate in writing an individual having an insurable interest in the participant to receive an annuity under the system after the participant's death. The amount of such an annuity shall be equal to 55 percent of the participant's reduced annuity.
+&emsp;&emsp;Subject to the rights of former spouses under subsection (b) of this section and section 2032 of this title, at the time of retirement an unmarried participant found by the Director to be in good health may elect to receive an annuity reduced in accordance with subparagraph (B) and designate in writing an individual having an insurable interest in the participant to receive an annuity under the system after the participant's death. The amount of such an annuity shall be equal to 55 percent of the participant's reduced annuity.
 
 #### (B) Reduction in participant's annuity
 
@@ -236,7 +236,7 @@
 
 #### (i) Election
 
-&emsp;&emsp;&emsp;If the retired participant's annuity was not reduced (or was not fully reduced) to provide a survivor annuity for the participant's spouse or former spouse as of the time of retirement, the retired participant may make an election under the first sentence of subparagraph (A) upon remarriage to a spouse other than the spouse at the time of retirement. For any remarriage that occurred before August 14, 1991, the retired participant may make such an election within 2 years after such date.
+&emsp;&emsp;&emsp;If the retired participant's annuity was not reduced (or was not fully reduced) to provide a survivor annuity for the participant's spouse or former spouse as of the time of retirement, the retired participant may make an election under the first sentence of subparagraph (A) upon remarriage to a spouse other than the spouse at the time of retirement. For any remarriagethat occurred before August 14, 1991, the retired participant may make such an election within 2 years after such date.
 
 #### (ii) Deposit required
 
@@ -256,7 +256,7 @@
 
 #### (1) Surviving spouse
 
-&emsp;A surviving spouse whose survivor annuity was terminated because of remarriage before attaining age 55 shall not be entitled under subsection (b)(3)(C) of this section to the restoration of that survivor annuity payable from the fund unless the surviving spouse elects toreceive it instead of any other survivor annuity to which the surviving spouse may be entitled under the system or any other retirement system for Government employees by reason of the remarriage.
+&emsp;A surviving spouse whose survivor annuity was terminated because of remarriage before attaining age 55 shall not be entitled under subsection (b)(3)(C) of this section to the restoration of that survivor annuity payable from the fund unless the surviving spouse elects to receive it instead of any other survivor annuity to which the surviving spouse may be entitled under the system or any other retirement system for Government employees by reason of the remarriage.
 
 #### (2) Former spouse
 

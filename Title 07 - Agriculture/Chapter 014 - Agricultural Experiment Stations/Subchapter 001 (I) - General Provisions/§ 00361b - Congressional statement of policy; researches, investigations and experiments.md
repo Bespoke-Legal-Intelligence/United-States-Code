@@ -14,5 +14,5 @@ Section was formerly classified to section 363 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 361d of this title.
+This section is referred to in sections 361d, 361g of this title.
 

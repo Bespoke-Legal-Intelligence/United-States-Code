@@ -4,7 +4,7 @@
 
 General Authority.—The Secretary of Transportation may make grants and loans to—
 
-&emsp;(1) State and local governmental authorities to help them provide mass transportation service planned, designed, and carried out to meet the special needs of elderly individuals and individuals with disabilities; and
+&emsp;(1) State and local governmental authorities to help them provide mass transportation service planned, designed, and carried out tomeet the special needs of elderly individuals and individuals with disabilities; and
 
 &emsp;(2) the chief executive officer of each State for allocation to—
 
@@ -22,7 +22,7 @@ Apportioning and Transferring Amounts.—The Secretary shall apportion amounts m
 
 (c)
 
-State Program of Projects.—Amounts made available for this section may be used for transportation projects to assist in providing transportation services for elderly individuals and individuals with disabilities that are included in a State program of projects. A program shall be submitted annually to the Secretary for approval and shall contain an assurance that the program provides for maximum feasible coordination of transportation servicesassisted under this section with transportation services assisted by other United States Government sources.
+State Program of Projects.—Amounts made available for this section may be used for transportation projects to assist in providing transportation services for elderly individuals and individuals with disabilities that are included in a State program of projects. A program shall be submitted annually to the Secretary for approval and shall contain an assurance that the program provides for maximum feasible coordination of transportation services assisted under this section with transportation services assisted by other United States Government sources.
 
 (d)
 

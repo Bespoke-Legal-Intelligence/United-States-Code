@@ -8,7 +8,7 @@
 
 &emsp;(B) may be made only if the used equipment has no recoverable value because disposal in accordance with paragraph (1), under the most favorable terms available to the Government, would result in a loss to the Government.
 
-(3)(A) In the case of computer-related equipment, during fiscal year 1998 the Chief Administrative Officer may donate directly the equipment to a public elementary or secondary schoolof the District of Columbia without regard to whether the donation meets the requirements of the second sentence of paragraph (2), except that the total number of workstations donated as a result of this paragraph may not exceed 1,000.
+(3)(A) In the case of computer-related equipment, during fiscal year 1998 the Chief Administrative Officer may donate directly the equipment to a public elementary or secondary school of the District of Columbia without regard to whether the donation meets the requirements of the second sentence of paragraph (2), except that the total number of workstations donated as a result of this paragraph may not exceed 1,000.
 
 (B) In this paragraph—
 
@@ -20,7 +20,7 @@
 
 (C) The Committee on House Oversight shall have authority to issue regulations to carry out this paragraph.
 
-(4) The Committee on House Oversight of the House of Representatives shall have authority to prescribe regulations to carry out this subsection.
+(4) The Committee on House Oversight of the House of Representatives shall have authorityto prescribe regulations to carry out this subsection.
 
 (5) As used in this section—
 

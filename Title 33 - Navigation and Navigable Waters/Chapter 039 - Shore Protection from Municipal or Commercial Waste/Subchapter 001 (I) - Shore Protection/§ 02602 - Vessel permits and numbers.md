@@ -62,7 +62,7 @@ The Secretary may, or at the request of the Administrator shall, deny the issuan
 
 #### (e) Permit decision
 
-The Secretary, after consultation with the Administrator, shall issue or deny a vessel permit under this section within 30 days after receiving a complete application. On denying the issuance of the permit for a vessel the Secretary shall—
+The Secretary, after consultation with the Administrator, shall issue or deny a vessel permitunder this section within 30 days after receiving a complete application. On denying the issuance of the permit for a vessel the Secretary shall—
 
 &emsp;(1) notify the applicant of the denial and the reasons for the denial; and
 

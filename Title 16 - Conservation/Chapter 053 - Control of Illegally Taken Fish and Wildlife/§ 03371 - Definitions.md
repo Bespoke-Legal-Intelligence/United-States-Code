@@ -32,7 +32,7 @@ Reorganization Plan No. 4 of 1970 (84 Stat. 2090), referred to in par. (g), is s
 
 #### Short Title
 
-Section 1 of Pub. L. 97–79 provided: “That this Act \[enacting this chapter, amending section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealing sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacting provisions set out as a note under section 1540 of this title\] may be cited as the ‘Lacey Act Amendments of 1981’.”
+Section 1 of Pub. L. 97–79 provided: “That this Act \[enacting this chapter, amending section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealing sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacting provisions set out as a note under section 1540of this title\] may be cited as the ‘Lacey Act Amendments of 1981’.”
 
 #### Section Referred to in Other Sections
 

@@ -38,7 +38,7 @@ In the original, subsections (a) and (b) of this section contained a final parag
 
 #### Transfer of Functions
 
-“Secretary of the Treasury” was substituted in text for “Administrator”, meaning the Administrator of theFederal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under section 201 of this title.
+“Secretary of the Treasury” was substituted in text for “Administrator”, meaning the Administrator of the Federal Alcohol Administration, pursuant to Reorg. Plan No. III of 1940, see note set out under section 201 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -28,7 +28,7 @@ In this part, the following definitions apply:
 
 &emsp;&emsp;&emsp;(ii) in the case of a tract—
 
-&emsp;&emsp;&emsp;&emsp;(I) that is located within a metropolitan area, 50 percent or more of the households in that census tract have an income equal to less than 60 percent of the area median gross income; or
+&emsp;&emsp;&emsp;&emsp;(I) that is located within a metropolitan area, 50 percent or more of thehouseholds in that census tract have an income equal to less than 60 percent of the area median gross income; or
 
 &emsp;&emsp;&emsp;&emsp;(II) that is not located within a metropolitan area, the median household income for such tract does not exceed 80 percent of the statewide median household income; or
 

@@ -14,7 +14,7 @@
 
 #### (1) Principal
 
-&emsp;Each loan made under this section shall be in an amount equal to 30 percent of the purchase price or appraisal value, whichever is lower, of the farm or ranch to be acquired, unless the borrower requests a lesser amount.
+&emsp;Each loan made under this section shall be in an amount equal to 40 percent of the purchase price or appraisal value, whichever is lower, of the farm or ranch to be acquired, unless the borrower requests a lesser amount.
 
 #### (2) Interest rate
 
@@ -22,7 +22,7 @@
 
 #### (3) Duration
 
-&emsp;Each loan under this section shall be made for a period of 10 years or less, at the option of the borrower.
+&emsp;Each loan under this section shall be made for a period of 15 years or less, at the option of the borrower.
 
 #### (4) Repayment
 
@@ -46,7 +46,7 @@
 
 #### (2) Maximum price of property to be acquired
 
-&emsp;The Secretary shall not make a loan under this section with respect to a farm or ranch for which the purchase price or appraisal value, whichever is lower, exceeds $250,000.
+&emsp;The Secretary shall not make a loan under this section with respect to a farm or ranchfor which the purchase price or appraisal value, whichever is lower, exceeds $250,000.
 
 #### (3) Prohibited types of financing
 
@@ -54,7 +54,7 @@
 
 &emsp;&emsp;(A) The financing is to be amortized over a period of less than 30 years.
 
-&emsp;&emsp;(B) A balloon payment will be due on the financing during the 10-year period beginning on the date the loan is to be made by the Secretary.
+&emsp;&emsp;(B) A balloon payment will be due on the financing during the 15-year period beginning on the date the loan is to be made by the Secretary.
 
 #### (d) Administration
 
@@ -74,7 +74,15 @@ In carrying out this section, the Secretary shall, to the maximum extent practic
 
 &emsp;(4) coordinate the loan program established by this section with State programs that provide farm ownership or operating loans for beginning farmers and ranchers.
 
-(Pub. L. 87–128, title III, §310E, as added Pub. L. 102–554, §7(a), Oct. 28, 1992, 106 Stat. 4144.)
+(Pub. L. 87–128, title III, §310E, as added Pub. L. 102–554, §7(a), Oct. 28, 1992, 106 Stat. 4144; amended Pub. L. 107–171, title V, §5005, May 13, 2002, 116 Stat. 342.)
+
+#### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–171, §5005(1)(A), substituted “40 percent” for “30 percent”.
+
+Subsec. (b)(3). Pub. L. 107–171, §5005(1)(B), substituted “15 years” for “10 years”.
+
+Subsec. (c)(3)(B). Pub. L. 107–171, §5005(2), substituted “15-year” for “10-year”.
 
 #### Section Referred to in Other Sections
 

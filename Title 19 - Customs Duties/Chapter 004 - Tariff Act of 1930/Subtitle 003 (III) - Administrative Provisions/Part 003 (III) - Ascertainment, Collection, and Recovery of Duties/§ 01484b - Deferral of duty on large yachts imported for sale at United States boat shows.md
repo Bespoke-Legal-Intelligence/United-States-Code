@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding any other provision of law, any vessel meeting the definition of a large yacht as provided in subsection (b) of this section and which is otherwise dutiable may be imported without the payment of duty if imported with the intention to offer for sale at a boatshow in the United States. Payment of duty shall be deferred, in accordance with this section, until such large yacht is sold.
+Notwithstanding any other provision of law, any vessel meeting the definition of a large yacht as provided in subsection (b) of this section and which is otherwise dutiable may be imported without the payment of duty if imported with the intention to offer for sale at a boat show in the United States. Payment of duty shall be deferred, in accordance with this section, until such large yacht is sold.
 
 #### (b) Definition
 
@@ -53,6 +53,10 @@ The Harmonized Tariff Schedule of the United States, referred to in subsecs. (c)
 #### Effective Date
 
 Pub. L. 106–36, title II, §2406(b), June 25, 1999, 113 Stat. 171, provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply with respect to any large yacht imported into the United States after the date that is 15 days after the date of the enactment of this Act \[June 25, 1999\].”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

@@ -12,7 +12,7 @@
 
 #### (3) Applicability of certain provisions regarding obligated service
 
-&emsp;Except to the extent inconsistent with this section, the provisions of sections 254<i>l</i>–1, 254mand 254<i>o</i> of this title shall apply to the program established in paragraph (1) to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in section 254<i>l</i>–1 of this title.
+&emsp;Except to the extent inconsistent with this section, the provisions of sections 254<i>l</i>–1, 254m and 254<i>o</i> of this title shall apply to the program established in paragraph (1) to the same extent and in the same manner as such provisions apply to the National Health Service Corps Loan Repayment Program established in section 254<i>l</i>–1 of this title.
 
 #### (b) Availability of authorization of appropriations
 

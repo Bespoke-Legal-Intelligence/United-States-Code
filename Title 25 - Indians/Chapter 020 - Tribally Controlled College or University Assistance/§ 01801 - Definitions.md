@@ -10,7 +10,7 @@
 
 &emsp;(4) “tribally controlled college or university” means an institution of higher education which is formally controlled, or has been formally sanctioned, or chartered, by the governing body of an Indian tribe or tribes, except that no more than one such institution shall be recognized with respect to any such tribe;
 
-&emsp;(5) “institution of higher education” means an institution of higher education as defined by section 1001 <sup>1</sup> of title 20, except that clause (2) of such section shall not be applicable and the reference to Secretary in clause (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior;
+&emsp;(5) “institution of higher education” means an institution of higher education as defined by section 1001 <sup>1</sup> of title 20, except that clause (2) of such section shall not be applicable andthe reference to Secretary in clause (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior;
 
 &emsp;(6) “national Indian organization” means an organization which the Secretary finds is nationally based, represents a substantial Indian constituency, and has expertise in the field of Indian education;
 
@@ -32,7 +32,7 @@
 
 &emsp;(6) No credit hours earned by an Indian student who is not making satisfactory progress toward a degree or certificate shall be taken into account.
 
-(Pub. L. 95–471, §2, formerly §1, Oct. 17, 1978, 92 Stat. 1325; renumbered §2 and amended Pub. L.98–192, §1, Dec. 1, 1983, 97 Stat. 1335; Pub. L. 99–428, §3, Sept. 30, 1986, 100 Stat. 982; Pub. L. 105–244, title I, §102(a)(8)(B), title IX, §901(b)(5), (9), Oct. 7, 1998, 112 Stat. 1619, 1828.)
+(Pub. L. 95–471, §2, formerly §1, Oct. 17, 1978, 92 Stat. 1325; renumbered §2 and amended Pub. L. 98–192, §1, Dec. 1, 1983, 97 Stat. 1335; Pub. L. 99–428, §3, Sept. 30, 1986, 100 Stat. 982; Pub. L. 105–244, title I, §102(a)(8)(B), title IX, §901(b)(5), (9), Oct. 7, 1998, 112 Stat. 1619, 1828.)
 
 #### References in Text
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Short Title of 1990 Amendment
 
-Section 401 of title IV of Pub. L. 95–471, as added by Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat. 804, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Tribal Economic Development and Technology Related Education Assistance Act of 1990’.”
+Section 401 of title IV of Pub. L. 95–471, as added by Pub. L. 101–392, title III, §312, Sept. 25, 1990, 104 Stat.804, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Tribal Economic Development and Technology Related Education Assistance Act of 1990’.”
 
 #### Short Title of 1986 Amendment
 
@@ -98,83 +98,87 @@ Submission to congress.—Not later than 6 months after the effective date of th
 
 Pub. L. 105–244, title IX, §901(d), Oct. 7, 1998, 112 Stat. 1828, provided that: “Any reference to a section or other provision of the Tribally Controlled Community College Assistance Act of 1978 shall be deemed to be a reference to the Tribally Controlled College or University Assistance Act of 1978.”
 
-#### Ex. Ord. No. 13021. Tribal Colleges and Universities
+#### Executive Order No. 13021
 
-Ex. Ord. No. 13021, Oct. 19, 1996, 61 F.R. 54929, as amended by Ex. Ord. No. 13104, Oct. 19, 1998, 63 F.R. 56535, provided:
+Ex. Ord. No. 13021, Oct. 19, 1996, 61 F.R. 54929, as amended by Ex. Ord. No. 13104, Oct. 19, 1998, 63 F.R. 56535, which established the President's Board of Advisors on Tribal Colleges and Universities and the White House Initiative on Tribal Colleges and Universities in the Department of Education and required a Five-Year Federal Plan regarding tribal colleges and universities, was revoked by Ex. Ord. No. 13270, §10, July 3, 2002, 67 F.R. 45291, set out below.
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, in reaffirmation of the special relationship of the Federal Government to American Indians and Alaska Natives, and, for the purposes of helping to: (a) ensure that tribal colleges and universities are more fully recognized as accredited institutions, have access to the opportunities afforded other institutions, and have Federal resources committed to them on a continuing basis; (b) establish a mechanism that will increase accessibility of Federal resources for tribal colleges and universities in tribal communities; (c) promote access to high-quality educational opportunity for economically disadvantaged students; (d) promote the preservation and the revitalization of American Indian and Alaska Native languages and cultural traditions; (e) explore innovative approaches to better link tribal colleges with early childhood, elementary, and secondary education programs; and (f) support the National Education Goals (20 U.S.C. 5812), it is hereby ordered as follows:
+#### Ex. Ord. No. 13270. Tribal Colleges and Universities
 
-Section 1. <i>Definition of Tribal Colleges and Universities</i>. Tribal colleges and universities (“tribal colleges”) are those institutions cited in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note), any other institution that qualifies for funding under the Tribally Controlled Community College Assistance Act of 1978 \[now Tribally Controlled College orUniversity Assistance Act of 1978\], (25 U.S.C. 1801 <i>et seq</i>.), and Navajo Community College, authorized in the Navajo Community College Assistance Act of 1978, Public Law 95-471, title II (25 U.S.C. 640a note).
+Ex. Ord. No. 13270, July 3, 2002, 67 F.R. 45288, provided:
 
-Sec. 2. <i>Board of Advisors</i>. (a) <i>Establishment</i>. There shall be established in the Department of Education a Presidential advisory committee entitled the President's Board of Advisors on Tribal Colleges and Universities (“Board”). Notwithstanding the provisions of any other Executive order, the responsibilities of the President under the Federal Advisory Committee Act, as amended (5 U.S.C. App.), with respect to the Board, shall be performed by the Secretary of Education (“Secretary”), in accordance with the guidelines and procedures established by the Administrator of General Services.
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
-(b) <i>Composition</i>. The Board shall consist of not more than 15 Members who shall be appointed by the President. The Board shall include representatives of tribal colleges. The Board may also include representatives of the higher, early childhood, elementary, and secondary education communities; tribal officials; health, business, and financial institutions; private foundations; and such other persons as the President deems appropriate. Members of the Board will serve terms of 2 years and may be reappointed to additional terms. A Member may continue to serve until his or her successor is appointed. In the event a Member fails to serve a full term, an individual appointed to replace that Member will serve the remainder of that term. All terms will expire upon the termination of the Board.
+Section 1. <i>Policy</i>. There is a unique relationship between the United States and Indian tribes, and a special relationship between the United States and Alaska Native entities. It is the policy of the Federal Government that this Nation's commitment to educational excellence and opportunity must extend as well to the tribal colleges and universities (tribal colleges) that serve Indian tribes and Alaska Native entities. The President's Board of Advisors on Tribal Colleges and Universities (the “Board”) and the White House Initiative on Tribal Colleges and Universities (WHITCU) established by this order shall ensure that this national policy regarding tribal colleges is carried out with direct accountability at the highest levels of the Federal Government.
 
-(c) <i>Role of Board</i>. The Board shall provide advice regarding the progress made by Federal agencies toward fulfilling the purposes and objectives of this order. The Board shall also provide recommendations to the President and the Secretary at least annually on ways tribal colleges can:
+Tribal colleges are both integral and essential to their communities. Often they are the only postsecondary institutions within some of our Nation's poorest rural areas. They fulfill a vital role: in maintaining and preserving irreplaceable languages and cultural traditions; in offering a high-quality college education to younger students; and in providing job training and other career-building programs to adults and senior citizens. Tribal colleges provide crucial services in communities that continue to suffer high rates of unemployment and the resulting social and economic distress.
 
-(1) utilize long-term development, endowment building, and master planning to strengthen institutional viability;
+The Federal Government's commitment to tribal colleges is reaffirmed and the private sector can and should contribute to the colleges’ educational and cultural missions.
 
-(2) utilize the Federal and private sector to improve financial management and security, obtain private sector funding support, and expand and complement Federal education initiatives;
+Finally, postsecondary institutions can play a vital role in promoting excellence in early childhood, elementary, and secondary education. The Federal Government will therefore work to implement the innovations and reforms of the No Child Left Behind Act of 2001 (Public Law 107–110) \[see Short Title of 2002 Amendment note set out under 20 U.S.C. 6301\] in partnership with tribal colleges and their American Indian and Alaska Native communities.
 
-(3) develop institutional capacity through the use of new and emerging technologies offered by both the Federal and private sectors;
+Sec. 2. <i>Definition of Tribal Colleges and Universities</i>. Tribal colleges are those institutions cited in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note), any other institution that qualifies for funding under the Tribally Controlled Community College Assistance Act of 1978 \[now Tribally Controlled College or University Assistance Act of 1978\] (25 U.S.C. 1801 <i>et seq</i>.), and Dine�AE1 College, authorized in the Navajo Community College Assistance Act of 1978, Public Law 95–471, title II (25 U.S.C. 640a note).
 
-(4) enhance physical infrastructure to facilitate more efficient operation and effective recruitment and retention of students and faculty; and
+Sec. 3. <i>Board of Advisors</i>. (a) <i>Establishment</i>. There shall be established in the Department of Education a Presidential advisory committee entitled the President's Board of Advisors on Tribal Colleges and Universities (the “Board”).
 
-(5) help achieve National Education Goals and meet other high standards of education accomplishment.
+(b) <i>Membership</i>. The Board shall consist of not more than 15 members who shall be appointed by the President, one of whom shall be designated by the President as Chair. The Board shall include representatives of tribal colleges and may also include representatives of the higher, early childhood, elementary, and secondary education communities; tribal officials; health, business, and financial institutions; private foundations; and such other persons as the President deems appropriate.
 
-(d) <i>Scheduled Meetings</i>. The Board shall meet at least annually to provide advice and consultation on tribal colleges and relevant Federal and private sector activities, and to transmit reports and present recommendations.
+(c) <i>Functions</i>. The Board shall provide advice regarding the progress made by Federal agencies toward fulfilling the purposes and objectives of this order. The Board also shall provide recommendations to the President, through the Secretary of Education (Secretary), on ways the Federal Government can help tribal colleges:
 
-Sec. 3. <i>Office of White House Initiative</i>. There shall be established in the Department of Education the White House Initiative on Tribal Colleges and Universities (“Initiative”). The Initiative shall be authorized to: (a) provide the staff support for the Board;
+&emsp;(1) use long-term development, endowment building, and planning to strengthen institutional viability;
 
-(b) assist the Secretary in the role of liaison between the executive branch and tribal colleges;
+&emsp;(2) improve financial management and security, obtain private-sector funding support, and expand and complement Federal education initiatives;
 
-(c) serve the Secretary in carrying out the Secretary's responsibilities under this order; and
+&emsp;(3) develop institutional capacity through the use of new and emerging technologies offered by both the Federal and private sectors;
 
-(d) utilize the services, personnel, information, and facilities of other Federal, State, tribal, and local agencies with their consent, and with or without reimbursement, consistent with applicable law. To the extent permitted by law and regulations, each Federal agency shall cooperate in providing resources, including personnel detailed to the Initiative, to meet the objectives of the order.
+&emsp;(4) enhance physical infrastructure to facilitate more efficient operation and effective recruitment and retention of students and faculty; and
 
-Sec. 4. <i>Department and Agency Participation</i>. Each participating executive department and agency (hereinafter collectively referred to as “agency”), as determined by the Secretary, shall appoint a senior official, who is a full-time officer of the Federal Government and who is responsible for management or program administration, to serve as liaison to the White House Initiative. The official shall report directly to the agency head, or agency representative, on agency activity under this order and serve as liaison to the White House Initiative. To the extent permitted by law and regulation, each agency shall provide appropriate information in readily available formats requested by the White House Initiative staff pursuant to this order.
+&emsp;(5) help implement the No Child Left Behind Act of 2001 \[see Short Title of 2002 Amendment note set out under 20 U.S.C. 6301\] and meet other high standards of educational achievement.
 
-Sec. 5. <i>Five-Year Federal Plan</i>. (a) <i>Content</i>. Each agency shall, in collaboration with tribal colleges, develop and document a Five-Year Plan of the agency's efforts to fulfill the purpose of this order. These Five-Year Plans shall include annual performance indicators and appropriate measurable objectives for the agency. The plans shall address among other relevant issues:
+(d) <i>Meetings</i>. The Board shall meet at least annually, at the request of the Secretary, to provide advice and consultation on tribal colleges and relevant Federal and private-sector activities, and to transmit reports and present recommendations.
 
-(1) barriers impeding the access of tribal colleges to funding opportunities and to participation in Federal programs, and ways to eliminate the barriers;
+Sec. 4. <i>White House Initiative on Tribal Colleges and Universities</i>. There shall be established in the Department of Education, Office of the Secretary, the White House Initiative on Tribal Colleges and Universities (WHITCU). The WHITCU shall:
 
-(2) technical assistance and information that will be made available to tribal colleges regarding the program activities of the agency and the preparation of applications or proposals for grants, cooperative agreements, or contracts; and
+(a) provide the staff support for the Board;
 
-(3) an annual goal for agency funds to be awarded to tribally controlled colleges and universities in:
+(b) assist the Secretary in the role of liaison between the executive branch and tribal colleges; and
 
-(A) grants, cooperative agreements, contracts, and procurement;
+(c) serve the Secretary in carrying out the Secretary's responsibilities under this order.
 
-(B) related excess property-type acquisitions under various authorities such as section 923 of the Federal Agriculture Improvement and Reform Act of 1996 (7 U.S.C. 2206a) and the Federal Property and Administrative Services Act of 1949, chapter 288, 63 Stat. 377 (codified as described at 40 U.S.C. 471 note); and
+Sec. 5. <i>Department and Agency Participation</i>. Each participating executive department and agency (agency), as determined by the Secretary, shall appoint a senior official who is a full-time officer of the Federal Government and who is responsible for management or program administration. The official shall report directly to the agency head, or to the agency head's designee, on agency activity under this order and serve as liaison to the WHITCU. To the extent permitted by law and regulation, each agency shall provide appropriate information as requested by the WHITCU staff pursuant to this order.
 
-(C) the transfer of excess and surplus Federal computer equipment under Executive Order 12999 \[40 U.S.C. 484 note\].
+Sec. 6. <i>Three-Year Federal Plan</i>. (a) <i>Content</i>. Each agency identified by the Secretary shall develop and implement a Three-Year Plan of the agency's efforts to fulfill the purposes of this order. These Three-Year Plans shall include annual performance indicators and appropriate measurable objectives for the agency. Among other relevant issues, the plans shall address how the agency intends to increase the capacity of tribal colleges to compete effectively for any available grants, contracts, cooperative agreements, and any other Federal resources, and to encourage tribal colleges to participate in Federal programs. The plans also may emphasize access to high-quality educational opportunities for economically disadvantaged Indian students, consistent with requirements of the No Child Left Behind Act of 2001 \[see Short Title of 2002 Amendment note set out under 20 U.S.C. 6301\]; the preservation and revitalization of tribal languages and cultural traditions; and innovative approaches to better link tribal colleges with early childhood, elementary, and secondary education programs. The agency's performance indicators and objectives should be clearly reflected in the agency's annual budget submission to the Office of Management and Budget. To facilitate the attainment of these performance indicators and objectives, the head of each agency identified by the Secretary, shall provide, as appropriate, technical assistance and information to tribal colleges regarding the program activities of the agency and the preparation of applications or proposals for grants, contracts, or cooperative agreements.
 
-> In developing the Five-Year Plans required by this order, agencies shall strive to include tribal colleges in all aspects and activities related to the attainment of the participation goals described in Executive Order 12928, “Promoting Procurement with Small Businesses Owned and Controlled by Socially and Economically Disadvantaged Individuals, Historically Black Colleges and Universities, and Minority Institutions” \[15 U.S.C. 631 note\]. The Plans may also emphasize access to high-quality educational opportunity for economically disadvantaged Indian students; the preservation and revitalization of American Indian and Alaska Native languages and cultural traditions; innovative approaches to better link tribal colleges with early childhood, elementary, and secondary education programs; and the National Education Goals.
+(b) <i>Submission</i>. Each agency shall submit its Three-Year Plan to the WHITCU. In consultation with the Board, the WHITCU shall then review these Three-Year Plans and develop an integrated Three-Year Plan for Assistance to Tribal Colleges, which the Secretary shall review and submit to the President. Agencies may revise their Three-Year Plans within the three-year period.
 
-(b) <i>Submission</i>. Each agency shall submit its Five-Year Plan to the White House Initiative Office. In consultation with the Board, the White House Initiative Office shall then review these Five-Year Plans and develop an integrated Five-Year Plan for Assistance to Tribal Colleges, which the Secretary shall review and submit to the President. The Five-Year Plan for Assistance to Tribal Colleges may be revised within the 5-year period.
+(c) <i>Annual Performance Reports</i>. Each agency shall submit to the WHITCU an Annual Performance Report that measures the agency's performance against the objectives set forth in its Three-Year Plan. In consultation with the Board, the WHITCU shall review and combine Annual Performance Reports into one annual report, which shall be submitted to the Secretary for review, in consultation with the Office of Management and Budget.
 
-(c) <i>Annual Performance Reports</i>. Each agency shall submit to the White House Initiative Office an Annual Performance Report that shall measure each agency's performance against the objectives set forth in its Five-Year Plan. In consultation with the Board, the White House Initiative Office shall review and combine Annual Performance Reports into one annual report, which shall be submitted to the Secretary for review, in consultation with the Office of Management and Budget.
+Sec. 7. <i>Private Sector</i>. In cooperation with the Board, the WHITCU shall encourage the private sector to assist tribal colleges through increased use of such strategies as:
 
-Sec. 6. <i>Private Sector</i>. In cooperation with the Board, the White House Initiative Office shall encourage the private sector to assist tribal colleges through increased use of such strategies as: (a) matching funds to support increased endowments;
+(a) matching funds to support increased endowments;
 
-(b) developing expertise and more effective ways to manage finance, improve information systems, build facilities, and improve course offerings; and
+(b) developing expertise and more effective ways to manage finances, improve information systems, build facilities, and improve course offerings; and
 
 (c) increasing resources for and training of faculty.
 
-Sec. 7. <i>Termination</i>. The Board shall terminate on September 30, 1999, unless the Board is renewed by the President prior to that date.
+Sec. 8. <i>Termination</i>. The Board shall terminate 2 years after the date of this order unless the Board is renewed by the President prior to the end of that 2-year period.
 
-Sec. 8. <i>Administration</i>. (a) <i>Compensation</i>. Members of the Board shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707).
+Sec. 9. <i>Administration</i>. (a) <i>Compensation</i>. Members of the Board shall serve without compensation, but shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Government service (5 U.S.C. 5701–5707).
 
-(b) <i>Funding</i>. The Board and the Initiative shall be funded by the Department of Education.
+(b) <i>Funding</i>. The Board and the WHITCU shall be funded by the Department of Education.
 
-(c) <i>Administrative Support</i>. The Department of Education shall provide appropriate administrative services and staff support for the Board and the Initiative. With the consent of the Department of Education, other agencies participating in the Initiative shall provide administrative support to the White House Initiative Office consistent with statutory authority and shall make use of section 112 of title 3, United States Code, to detail agency employees to the extent permitted by law. The Board and the White House Initiative Office shall have a core staff and shall be supported at appropriate levels.
+(c) <i>Administrative Support</i>. The Department of Education shall provide appropriate administrative services and staff support for the Board and the WHITCU. With the consent of the Department of Education, other agencies participating in the WHITCU shall provide administrative support (including detailees) to the WHITCU consistent with statutory authority. The Board and the WHITCU each shall have a staff and shall be supported at appropriate levels commensurate with that of similar White House Initiative Offices.
 
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+(d) <i>General Provisions</i>. Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (the “Act”), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Secretary of Education in accordance with the guidelines issued by the Administrator of General Services.
+
+Sec. 10. <i>Revocation</i>. Executive Order 13021 of October 19, 1996, as amended, is revoked.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Extension of Term of President's Board of Advisors on Tribal Colleges and Universities
 
 Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2001, by Ex. Ord. No. 13138, Sept. 30, 1999, 64 F.R. 53879, formerly set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
-Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5.
+Term of President's Board of Advisors on Tribal Colleges and Universities extended until Sept. 30, 2003, by Ex. Ord. No. 13225, Sept. 28, 2001, 66 F.R. 50291, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.
 
 #### Section Referred to in Other Sections
 

@@ -112,7 +112,7 @@ The Board shall determine an appropriate date or dates for announcement of the a
 
 &emsp;&emsp;(B) Detailed information regarding the expenditures made by the Board, including the percentage of funds that are used for administrative expenses.
 
-&emsp;&emsp;(C) A description of the programs formulated by the Director under section 816(b)(1) of this title, including an explanation of the operation of such programs and a list of the sponsors of the programs.
+&emsp;&emsp;(C) A description of the programs formulated by the Director under section 816(b)(1) of this title, including an explanation of theoperation of such programs and a list of the sponsors of the programs.
 
 &emsp;&emsp;(D) A detailed list of the administrative expenditures made by the Board, including the amounts expended for salaries, travel expenses, and reimbursed expenses.
 

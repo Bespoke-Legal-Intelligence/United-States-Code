@@ -10,7 +10,7 @@ Pretrial services functions shall include the following:
 
 &emsp;(4) Operate or contract for the operation of appropriate facilities for the custody or care of persons released under this chapter including residential halfway houses, addict and alcoholic treatment centers, and counseling services.
 
-&emsp;(5) Inform the court and the United States attorney of all apparent violations of pretrial release conditions, arrests of persons released to the custody of providers of pretrial services or under the supervision of providers of pretrial services, and any danger that any such person may come to pose to any other person or the community, and recommend appropriate modifications of release conditions.
+&emsp;(5) Inform the court and the United States attorney of all apparent violations of pretrial release conditions, arrests of persons released to the custody of providers of pretrial services or under the supervision of providers of pretrial services, and any danger that any suchperson may come to pose to any other person or the community, and recommend appropriate modifications of release conditions.
 
 &emsp;(6) Serve as coordinator for other local agencies which serve or are eligible to serve as custodians under this chapter and advise the court as to the eligibility, availability, and capacity of such agencies.
 
@@ -72,7 +72,7 @@ Selection of Districts.—The Judicial Conference of the United States shall sel
 
 “(d)
 
-Inclusion in Pretrial Services.—In each of the districts in which the demonstration program takes place, pretrial services under chapter 207 of title 18, United States Code, shall arrange for the drug testing of defendants in criminal cases. To the extent feasible, such testing shall be completed before the defendant makes the defendant's initial appearance in the case before a judicial officer. The results of such testing shall be included in the report to the judicial officer under section 3154 of title 18, United States Code.
+Inclusion in Pretrial Services.—In each of the districts in which the demonstration program takes place, pretrial services under chapter 207 of title 18, United States Code, shall arrange for the drug testingof defendants in criminal cases. To the extent feasible, such testing shall be completed before the defendant makes the defendant's initial appearance in the case before a judicial officer. The results of such testing shall be included in the report to the judicial officer under section 3154 of title 18, United States Code.
 
 “(e)
 

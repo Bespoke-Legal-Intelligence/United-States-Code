@@ -14,10 +14,13 @@
 | [5\.](%C2%A7%2000005%20-%20%E2%80%9CCompany%E2%80%9D%20or%20%E2%80%9Cassociation%E2%80%9D%20as%20including%20successors%20and%20assigns.md) | “Company” or “association” as including successors and assigns. |
 | [6\.](%C2%A7%2000006%20-%20Limitation%20of%20term%20%E2%80%9Cproducts%20of%20American%20fisheries%E2%80%9D.md) | Limitation of term “products of American fisheries.” |
 | [7\.](%C2%A7%2000007%20-%20Definition%20of%20%E2%80%9Cmarriage%E2%80%9D%20and%20%E2%80%9Cspouse%E2%80%9D.md) | Definition of “marriage” and “spouse”. |
+| [8\.](%C2%A7%2000008%20-%20%E2%80%9CPerson%E2%80%9D%2C%20%E2%80%9Chuman%20being%E2%80%9D%2C%20%E2%80%9Cchild%E2%80%9D%2C%20and%20%E2%80%9Cindividual%E2%80%9D%20as%20including%20born-alive%20infant.md) | “Person”, “human being”, “child”, and “individual” as including born-alive infant. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–207, §2(b), Aug. 5, 2002, 116 Stat. 926, added item 8.
 
 1996—Pub. L. 104–199, §3(b), Sept. 21, 1996, 110 Stat. 2420, added item 7.
 
@@ -35,3 +38,4 @@
 - [&sect; 00005 - &#8220;Company&#8221; or &#8220;association&#8221; as including successors and assigns](%C2%A7%2000005%20-%20%E2%80%9CCompany%E2%80%9D%20or%20%E2%80%9Cassociation%E2%80%9D%20as%20including%20successors%20and%20assigns.md)
 - [&sect; 00006 - Limitation of term &#8220;products of American fisheries&#8221;](%C2%A7%2000006%20-%20Limitation%20of%20term%20%E2%80%9Cproducts%20of%20American%20fisheries%E2%80%9D.md)
 - [&sect; 00007 - Definition of &#8220;marriage&#8221; and &#8220;spouse&#8221;](%C2%A7%2000007%20-%20Definition%20of%20%E2%80%9Cmarriage%E2%80%9D%20and%20%E2%80%9Cspouse%E2%80%9D.md)
+- [&sect; 00008 - &#8220;Person&#8221;, &#8220;human being&#8221;, &#8220;child&#8221;, and &#8220;individual&#8221; as including born-alive infant](%C2%A7%2000008%20-%20%E2%80%9CPerson%E2%80%9D%2C%20%E2%80%9Chuman%20being%E2%80%9D%2C%20%E2%80%9Cchild%E2%80%9D%2C%20and%20%E2%80%9Cindividual%E2%80%9D%20as%20including%20born-alive%20infant.md)

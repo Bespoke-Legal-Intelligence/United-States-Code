@@ -32,7 +32,7 @@ Information and research facilities.—In carrying out this subchapter, the Admi
 
 > Not later than one year after December 16, 1974, he shall transmit to the Congress the results of such survey and study, together with such recommendations as he deems appropriate.
 
-(5) The Administrator shall carry out a study of methods of underground injection which do not result in the degradation of underground drinking water sources.
+(5) The Administrator shall carry out a study of methods of underground injection which donot result in the degradation of underground drinking water sources.
 
 (6) The Administrator shall carry out a study of methods of preventing, detecting, and dealing with surface spills of contaminants which may degrade underground water sources for public water systems.
 
@@ -40,13 +40,13 @@ Information and research facilities.—In carrying out this subchapter, the Admi
 
 (8) The Administrator shall carry out a study of the nature and extent of the impact on underground water which supplies or can reasonably be expected to supply public water systems of (A) abandoned injection or extraction wells; (B) intensive application of pesticides and fertilizers in underground water recharge areas; and (C) ponds, pools, lagoons, pits, or other surface disposal of contaminants in underground water recharge areas.
 
-(9) The Administrator shall conduct a comprehensive study of public water supplies and drinking water sources to determine the nature, extent, sources of and means of control of contamination by chemicals or other substances suspected of being carcinogenic. Not later than six months after December 16, 1974, he shall transmit to the Congress the initial results ofsuch study, together with such recommendations for further review and corrective action as he deems appropriate.
+(9) The Administrator shall conduct a comprehensive study of public water supplies and drinking water sources to determine the nature, extent, sources of and means of control of contamination by chemicals or other substances suspected of being carcinogenic. Not later than six months after December 16, 1974, he shall transmit to the Congress the initial results of such study, together with such recommendations for further review and corrective action as he deems appropriate.
 
 (10) The Administrator shall carry out a study of the reaction of chlorine and humic acids and the effects of the contaminants which result from such reaction on public health and on the safety of drinking water, including any carcinogenic effect.
 
 #### (b) Emergency situations
 
-The Administrator is authorized to provide technical assistance and to make grants to States, or publicly owned water systems to assist in responding to and alleviating any emergency situation affecting public water systems (including sources of water for such systems) which the Administrator determines to present substantial danger to the public health. Grants provided under this subparagraph <sup>1</sup> shall be used only to support those actions which (i) are necessary for preventing, limiting or mitigating danger to the public health in such emergency situation and (ii) would not, in the judgment of the Administrator, be taken without such emergency assistance. The Administrator may carry out the program authorized under this subparagraph <sup>1</sup> as part of, and in accordance with the terms and conditions of, any other program of assistance for environmental emergencies which the Administrator is authorized to carry out under any other provision of law. No limitation on appropriations for any such other program shall apply to amounts appropriated under this subparagraph.<sup>1</sup>
+The Administrator is authorized to provide technical assistance and to make grants to States, or publicly owned water systems to assist in responding to and alleviating any emergency situation affecting public water systems (including sources of water for such systems) which the Administrator determines to present substantial danger to the public health. Grants provided under this subsection shall be used only to support those actions which (i) are necessary for preventing, limiting or mitigating danger to the public health in such emergency situation and (ii) would not, in the judgment of the Administrator, be taken without such emergency assistance. The Administrator may carry out the program authorized under this subsection as part of, and in accordance with the terms and conditions of, any other program of assistance for environmental emergencies which the Administrator is authorized to carry out under any other provision of law. No limitation on appropriations for any such other program shall apply to amounts appropriated under this subsection.
 
 #### (c) Establishment of training programs and grants for training; training fees
 
@@ -68,41 +68,19 @@ The Administrator shall—
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated to carry out the provisions of this section other than subsection (a)(2)(B) <sup>2</sup> of this section and provisions relating to research $15,000,000 for the fiscal year ending June 30, 1975; $25,000,000 for the fiscal year ending June 30, 1976; $35,000,000 for the fiscal year ending June 30, 1977; $17,000,000 for each of the fiscal years 1978 and 1979; $21,405,000 for the fiscal year ending September 30, 1980; $30,000,000 for the fiscal year ending September 30, 1981; and $35,000,000 for the fiscal year ending September 30, 1982. There are authorized to be appropriated to carry out subsection (a)(2)(B) <sup>2</sup> of this section $8,000,000 for each of the fiscal years 1978 through 1982. There are authorized to be appropriated to carry out subsection (a)(2)(B) <sup>2</sup> of this section not more than the following amounts:
-
-&nbsp;
-
-| Fiscal year: | <i>Amount</i> |
-| :--- | ---: |
-| &nbsp;&nbsp;1987 | $7,650,000 |
-| &nbsp;&nbsp;1988 | 7,650,000 |
-| &nbsp;&nbsp;1989 | 8,050,000 |
-| &nbsp;&nbsp;1990 | 8,050,000 |
-| &nbsp;&nbsp;1991 | 8,050,000 |
-
-> There are authorized to be appropriated to carry out the provisions of this section (other than subsection (g) <sup>3</sup> of this section, subsection (a)(2)(B) <sup>2</sup> of this section, and provisions relating to research), not more than the following amounts:
-
-&nbsp;
-
-| Fiscal year: | <i>Amount</i> |
-| :--- | ---: |
-| &nbsp;&nbsp;1987 | $35,600,000 |
-| &nbsp;&nbsp;1988 | 35,600,000 |
-| &nbsp;&nbsp;1989 | 38,020,000 |
-| &nbsp;&nbsp;1990 | 38,020,000 |
-| &nbsp;&nbsp;1991 | 38,020,000 |
+There are authorized to be appropriated to carry out subsection (b) of this section not more than $35,000,000 for the fiscal year 2002 and such sums as may be necessary for each fiscal year thereafter.
 
 #### (e) Technical assistance
 
-The Administrator may provide technical assistance to small public water systems to enable such systems to achieve and maintain compliance with applicable national primary drinking water regulations. Such assistance may include circuit-rider and multi-State regional technical assistance programs, training, and preliminary engineering evaluations. The Administrator shall ensure that technical assistance pursuant to this subsection is available in each State. Each nonprofit organization receiving assistance under this subsection shall consult with the State in which the assistance is to be expended or otherwise made available before using assistance to undertake activities to carry out this subsection. There are authorized to be appropriated to the Administrator to be used forsuch technical assistance $15,000,000 for each of the fiscal years 1997 through 2003. No portion of any State loan fund established under section 300j–12 of this title (relating to State loan funds) and no portion of any funds made available under this subsection may be used for lobbying expenses. Of the total amount appropriated under this subsection, 3 percent shall be used for technical assistance to public water systems owned or operated by Indian Tribes.
+The Administrator may provide technical assistance to small public water systems to enable such systems to achieve and maintain compliance with applicable national primary drinking water regulations. Such assistance may include circuit-rider and multi-State regional technical assistance programs, training, and preliminary engineering evaluations. The Administrator shall ensure that technical assistance pursuant to this subsection is available in each State. Each nonprofit organization receiving assistance under this subsection shall consult with the State in which the assistance is to be expended or otherwise made available before using assistance to undertake activities to carry out this subsection. There are authorized to be appropriated to the Administrator to be used for such technical assistance $15,000,000 for each of the fiscal years 1997 through 2003. No portion of any State loan fund established under section 300j–12 of this title (relating to State loan funds) and no portion of any funds made available under this subsection may be used for lobbying expenses. Of the total amount appropriatedunder this subsection, 3 percent shall be used for technical assistance to public water systems owned or operated by Indian Tribes.
 
-(July 1, 1944, ch. 373, title XIV, §1442, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1682; amended Pub. L. 95–190, §§2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, Nov. 16, 1977, 91 Stat. 1393–1395, 1397–1399; Pub. L. 96–63, §1, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §5, Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title I, §107, title III, §§301(a), (g), 304(a), June 19, 1986, 100 Stat. 651, 663, 665, 667; Pub. L. 104–66, title II, §2021(h), Dec. 21, 1995, 109 Stat. 727; Pub. L. 104–182, title I, §§121, 122, Aug. 6, 1996, 110 Stat. 1651.)
-
-#### References in Text
-
-Subsection (a)(2)(B) of this section, referred to in subsec. (d), was redesignated subsec. (b) of this section by Pub. L. 104–182, title I, §121(3), Aug. 6, 1996, 110 Stat. 1651.
+(July 1, 1944, ch. 373, title XIV, §1442, as added Pub. L. 93–523, §2(a), Dec. 16, 1974, 88 Stat. 1682; amended Pub. L. 95–190, §§2(a), 3(a), (b), (e)(1), 4, 9, 10(b), 13, Nov. 16, 1977, 91 Stat. 1393–1395, 1397–1399; Pub. L. 96–63, §1, Sept. 6, 1979, 93 Stat. 411; Pub. L. 96–502, §5, Dec. 5, 1980, 94 Stat. 2738; Pub. L. 99–339, title I, §107, title III, §§301(a), (g), 304(a), June 19, 1986, 100 Stat. 651, 663, 665, 667; Pub. L. 104–66, title II, §2021(h), Dec. 21, 1995, 109 Stat. 727; Pub. L. 104–182, title I, §§121, 122, Aug. 6, 1996, 110 Stat. 1651; Pub. L. 107–188, title IV, §403(4), June 12, 2002, 116 Stat. 687.)
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–188, §403(4)(A), which directed substitution of “this subsection” for “this subparagraph”, was executed by making the substitution in three places to reflect the probable intent of Congress.
+
+Subsec. (d). Pub. L. 107–188, §403(4)(B), amended subsec. (d) generally, substituting provisions relating to authorization of appropriations to carry out subsec. (b) in fiscal year 2002 and subsequent fiscal years for provisions relating to authorization of appropriations to carry out this section in fiscal year 1991 and earlier.
 
 1996—Subsec. (a)(2). Pub. L. 104–182, §121(4)(A), added heading and text of par. (2) and struck out former par. (2) which read as follows: “(2)(A) The Administrator shall, to the maximum extent feasible, provide technical assistance to the States and municipalities in the establishment and administration of public water system supervision programs (as defined in section 300j–2(c)(1) of this title).”
 
@@ -185,10 +163,4 @@ Section 304(b) of Pub. L. 99–339 provided that: “The Administrator of the En
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 300g–1, 300j–3b, 300j–12 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “this subsection”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be subsection “(e)”.</i>
 

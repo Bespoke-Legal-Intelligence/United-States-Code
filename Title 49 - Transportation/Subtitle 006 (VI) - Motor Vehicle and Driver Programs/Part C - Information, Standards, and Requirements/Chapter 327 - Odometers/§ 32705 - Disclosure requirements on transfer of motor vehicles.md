@@ -20,7 +20,7 @@ Disclosure Requirements.—Under regulations prescribed by the Secretary of Tran
 
 (b)
 
-Mileage Statement Requirement for Licensing.—(1) A motor vehicle the ownership of which is transferred may not be licensed for use in a State unless the transferee, in submitting an application to a State for the title on which the license will be issued, includes with the application the transferor's title and, if that title contains the space referred to in paragraph (3)(A)(iii) of this subsection, a statement, signed and dated by the transferor, of the mileage disclosure required under subsection (a) of this section. This paragraph does not apply to a transfer of ownership of a motor vehicle that has not been licensed before the transfer.
+Mileage Statement Requirement for Licensing.—(1) A motor vehicle the ownership of which is transferred may not be licensed for use in a State unless the transferee, in submitting an application to a State for the title on which the license will be issued, includes with the application the transferor's title and, if that title contains the space referred to in paragraph (3)(A)(iii) of this subsection, a statement, signed and dated by the transferor, of the mileage disclosure required under subsection (a) of this section. This paragraph does not apply to a transferof ownership of a motor vehicle that has not been licensed before the transfer.
 
 (2)(A) Under regulations prescribed by the Secretary, if the title to a motor vehicle issued to a transferor by a State is in the possession of a lienholder when the transferor transfers ownership of the vehicle, the transferor may use a written power of attorney (if allowed by State law) in making the mileage disclosure required under subsection (a) of this section. Regulations prescribed under this paragraph—
 
@@ -72,7 +72,7 @@ Leased Motor Vehicles.—(1) For a leased motor vehicle, the regulations prescri
 
 (d)
 
-State Alternate Vehicle Mileage Disclosure Requirements.—The requirements of subsections (b) and (c)(1) of this section on the disclosure of motor vehicle mileage when motor vehicles are transferred or leased apply in a State unless the State has in effect alternate motor vehicle mileage disclosure requirements approved by the Secretary. The Secretary shall approve alternate motor vehicle mileage disclosure requirements submitted by a State unlessthe Secretary decides that the requirements are not consistent with the purpose of the disclosure required by subsection (b) or (c), as the case may be.
+State Alternate Vehicle Mileage Disclosure Requirements.—The requirements of subsections (b) and (c)(1) of this section on the disclosure of motor vehicle mileage when motor vehicles are transferred or leased apply in a State unless the State has in effect alternate motor vehicle mileage disclosure requirements approved by the Secretary. The Secretary shall approve alternate motor vehicle mileage disclosure requirements submitted by a State unless the Secretary decides that the requirements are not consistent with the purpose of the disclosure required by subsection (b) or (c), as the case may be.
 
 (e)
 

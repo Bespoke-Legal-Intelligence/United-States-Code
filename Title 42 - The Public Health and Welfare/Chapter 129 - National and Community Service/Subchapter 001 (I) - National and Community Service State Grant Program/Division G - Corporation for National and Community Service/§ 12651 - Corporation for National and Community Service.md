@@ -36,7 +36,7 @@ Section 202(i) of Pub. L. 103–82 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), or paragraph (2) or (3) of subsection (g) \[amending sections 8F and 9 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 8F and 9 of such act\], the amendments made by this section \[enacting this division and section 8E of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, amending section 5041 of this title, sections 4, 8F, 8G, 9, and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, sections 9101 and 9105 of Title 31, Money and Finance, section 410 of Title 39, Postal Service, and section 484 of Title 40, Public Buildings, Property, and Works\] shall take effect on October 1, 1993.
+In general.—Except as provided in paragraph (2), or paragraph (2) or (3) of subsection (g) \[amending sections 8F and 9 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, Government Organization and Employees, and enacting provisions set out as notes under sections 8F and 9 of such act\], the amendments made by this section \[enacting this division and section 8E of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, amending section 5041 of this title, sections 4, 8F, 8G, 9, and 11 of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, sections 9101 and 9105 of Title 31, Money and Finance, section 410 of Title 39, Postal Service, and section 484 of former Title 40, Public Buildings, Property, and Works\] shall take effect on October 1, 1993.
 
 “(2)
 
@@ -110,7 +110,7 @@ In general.—Except as otherwise provided by this subsection, the transfer purs
 
 &emsp;“(B)
 
-Executive schedule positions.—Except as otherwise provided in this subsection, any personwho, on the day preceding the effective date of this subsection \[see Effective Date of 1993 Amendment note above\], held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, United States Code, and who, without a break in service, is appointed in the Corporation to a position having duties comparable to the duties performed immediately preceding such appointment shall continue to be compensated in such new position at not less than the rate provided for such previous position, for the duration of the service of such person in such new position.
+Executive schedule positions.—Except as otherwise provided in this subsection, any person who, on the day preceding the effective date of this subsection \[see Effective Date of 1993 Amendment note above\], held a position compensated in accordance with the Executive Schedule prescribed in chapter 53 of title 5, United States Code, and who, without a break in service, is appointed in the Corporation to a position having duties comparable to the duties performed immediately preceding such appointment shall continue to be compensated in such new position at not less than the rate provided for such previous position, for the duration of the service of such person in such new position.
 
 &emsp;“(C)
 
@@ -144,7 +144,7 @@ Nonabatement of actions.—No suit, action, or other proceeding commenced by or 
 
 &emsp;“(E)
 
-Administrative actions relating to promulgation of regulations.—Any administrative action relating to the preparation or promulgation of a regulation by the ACTION Agency relating to a function transferred under this subsection may be continued by the Corporation with the same effect as if this subsection had not been enacted.
+Administrative actions relating to promulgation of regulations.—Any administrative action relating to the preparation or promulgation of a regulation by the ACTION Agency relating to a function transferred under this subsection may be continuedby the Corporation with the same effect as if this subsection had not been enacted.
 
 “(9)
 
@@ -200,7 +200,7 @@ Allocation of funds.—The business plan shall contain—
 
 Investigative and audit functions.—The business plan shall include a description of the plans of the Corporation—
 
-&emsp;&emsp;“(A) to ensure continuity, during the transition period, and after the transition period, in the investigative and audit functions carried out by the Inspector General of ACTION prior to such period,consistent with the Inspector General Act of 1978 (5 U.S.C. App.); and
+&emsp;&emsp;“(A) to ensure continuity, during the transition period, and after the transition period, in the investigative and audit functions carried out by the Inspector General of ACTION prior to such period, consistent with the Inspector General Act of 1978 (5 U.S.C. App.); and
 
 &emsp;&emsp;“(B) to carry out investigative and audit functions and implement financial management controls regarding programs carried out by the Corporation after October 1, 1993, consistent with the Inspector General Act of 1978, including a specific description of—
 
@@ -260,7 +260,7 @@ Definition.—The term ‘transition period’ means the period beginning on Oct
 
 Proc. No. 6662, Apr. 4, 1994, 59 F.R. 16507, provided:
 
-On September 21, 1993, I had the honor of signing into law the National and Community Service Trust Act of 1993 \[Pub. L. 103–82, see Tables for classification\], which created the Corporation for National and Community Service. The Corporation was designed to involve Americans of all ages and backgrounds in community projects to address many of our Nation's most important needs—from educating our children to ensuring public safety to protecting our environment. It was chartered to foster civic responsibility, strengthening the ties that bind us together as a people, while providing educational opportunity for those who make the commitment to serve.
+On September 21, 1993, I had the honor of signing into law the National and Community Service Trust Act of 1993 \[Pub. L. 103–82, see Tables for classification\], whichcreated the Corporation for National and Community Service. The Corporation was designed to involve Americans of all ages and backgrounds in community projects to address many of our Nation's most important needs—from educating our children to ensuring public safety to protecting our environment. It was chartered to foster civic responsibility, strengthening the ties that bind us together as a people, while providing educational opportunity for those who make the commitment to serve.
 
 In the few short months since the Corporation's establishment, enormous progress has been made toward the achievement of these invaluable goals. Final regulations have been published governing the Corporation's new grant programs, grant application packages have been developed, and a national recruitment effort has begun. As a result of intensive outreach efforts, most states have already established State Commissions on National and Community Service, and many local programs, national nonprofit organizations, institutions of higher education, and Federal agencies are eager to participate. Grant competitions have begun for a summer program that will focus on our Nation's public safety concerns, and all community service grant competitions will be completed by this summer. Finally, the Corporation has established the National Civilian Community Corps, which will take advantage of closed and down-sized military bases to launch environmental clean-up and preservation efforts.
 
@@ -280,7 +280,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. A youth award for community service is hereby established. The award shall recognize outstanding voluntary community service contributions made by individuals between the ages of 5 and 22.
 
-Sec. 2. The Director of the White House Office of National Service shall establish the criteria for the award. The criteria shall be based upon participation in voluntary community service activity. The award maybe bestowed upon any eligible individual who meets the established criteria.
+Sec. 2. The Director of the White House Office of National Service shall establish the criteria for the award. The criteria shall be based upon participation in voluntary community service activity. The award may be bestowed upon any eligible individual who meets the established criteria.
 
 Sec. 3. The selection process for the award shall be administered by the Commission on National and Community Service and the White House Office of National Service. Such other individuals and entities as the Director of the White House Office of National Service deems appropriate may participate in the selection process.
 
@@ -289,6 +289,52 @@ Sec. 4. The award shall be presented by the President, his designee or designees
 Sec. 5. The name and design of the award shall be approved by the President upon the recommendation of the Director of the White House Office of National Service.
 
 George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13285. President's Council on Service and Civic Participation
+
+Ex. Ord. No. 13285, Jan. 29, 2003, 68 F.R. 5203, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to encourage the recognition of volunteer service and civic participation by all Americans, and especially America's youth, it is hereby ordered as follows:
+
+Section 1. <i>The President's Council on Service and Civic Participation</i>. (a) There is hereby established within the Corporation for National and Community Services \[Service\] (CNCS) the President's Council on Service and Civic Participation (Council).
+
+(b) The Council shall be composed of up to 25 members, including representatives of America's youth, appointed by the President. Each member shall serve for a term of 2 years and may continue to serve after the expiration of their term until a successor is appointed. The President shall designate one member to serve as Chair and one member to serve as Vice Chair. Subject to the direction of the Chief Executive Officer of the CNCS, the Chair, and in the Chair's absence the Vice Chair, shall convene and preside at the meetings of the Council, determine its agenda, and direct its work.
+
+Sec. 2. <i>Mission and Functions of the Council.</i>
+
+&emsp;(a) The mission of the Council shall be to:
+
+&emsp;(i) encourage the recognition of outstanding volunteer service and civic participation by individuals, schools, and organizations and thereby encourage more such activity, especially on the part of America's youth; and
+
+&emsp;(ii) facilitate awareness of the ways in which Americans throughout our history have helped to meet the vital needs of their communities and Nation through volunteer service and civic participation.
+
+&emsp;(b) In carrying out its mission, the Council shall:
+
+&emsp;(i) design and recommend programs to recognize individuals, schools, and organizations that excel in their efforts to support volunteer service and civic participation, especially with respect to students in primary schools, secondary schools, and institutions of higher learning;
+
+&emsp;(ii) exchange information and ideas with interested individuals and organizations on ways to expand and improve programs developed pursuant to subsection 2(b)(i) of this order;
+
+&emsp;(iii) advise the Chief Executive Officer of the CNCS on broad dissemination, especially among schools and youth organizations, of information regarding recommended practices for the promotion of volunteer service and civic participation, and other relevant educational and promotional materials;
+
+&emsp;(iv) monitor and advise the Chief Executive Officer of the CNCS on the need for the enhancement of materials disseminated pursuant to subsection 2(b)(iii) of this order; and
+
+&emsp;(v) make recommendations from time to time to the President, through the Director of the USA Freedom Corps, on ways to promote and recognize outstanding volunteer service and civic participation by individuals, schools, and organizations and to promote awareness of the ways in which Americans throughout our history have helped to meet the vital needs of their communities and Nation through volunteer service and civic participation.
+
+Sec. 3. <i>Administration</i>. (a) Each Federal agency, to the extent permitted by law and subject to the availability of appropriations, shall furnish such information and assistance to the Council as the Council may, with the approval of the Director of the USA Freedom Corps, request.
+
+(b) The members of the Council shall serve without compensation for their work on the Council. Members of the Council who are not officers or employees of the United States may receive travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in the Government (5 U.S.C. 5701–5707).
+
+(c) To the extent permitted by law, the Chief Executive Officer of the CNCS shall furnish the Council with necessary staff, supplies, facilities, and other administrative services and shall pay the expenses of the Council.
+
+(d) The Chief Executive Officer of the CNCS shall appoint an Executive Director to head the staff of the Council.
+
+(e) The Council, with the approval of the Chief Executive Officer of the CNCS, may establish subcommittees of the Council, consisting exclusively of members of the Council, as appropriate to aid the Council in carrying out its mission under this order.
+
+Sec. 4. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under the Act, except that of reporting to the Congress, shall be performed by the Chief Executive Officer of CNCS in accordance with the guidelines and procedures issued by the Administrator of General Services.
+
+(b) Unless extended by the President, this order shall expire 2 years from the date of this order.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

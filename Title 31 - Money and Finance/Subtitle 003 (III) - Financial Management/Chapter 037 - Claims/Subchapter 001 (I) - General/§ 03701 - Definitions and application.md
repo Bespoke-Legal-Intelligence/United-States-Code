@@ -26,7 +26,7 @@
 
 &emsp;(8) “nontax” means, with respect to any debt or claim, any debt or claim other than a debt or claim under the Internal Revenue Code of 1986.
 
-(b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed tothe United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation—
+(b)(1) In subchapter II of this chapter and subsection (a)(8) of this section, the term “claim” or “debt” means any amount of funds or property that has been determined by an appropriate official of the Federal Government to be owed to the United States by a person, organization, or entity other than another Federal agency. A claim includes, without limitation—
 
 &emsp;(A) funds owed on account of loans made, insured, or guaranteed by the Government, including any deficiency or any difference between the price obtained by the Government in the sale of a property and the amount owed to the Government on a mortgage on the property,
 
@@ -217,6 +217,10 @@ Section 31001(a)(1) of Pub. L. 104–134 provided that: “This section \[enacti
 #### Short Title of 1986 Amendment
 
 Pub. L. 99–562, §1, Oct. 27, 1986, 100 Stat. 3153, provided that: “This Act \[enacting sections 3732 and 3733 of this title and amending sections 3729 to 3731 of this title and section 287 of Title 18, Crimes and Criminal Procedure\] may be cited as the ‘False Claims Amendments Act of 1986’.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Purposes of 1996 Amendment
 

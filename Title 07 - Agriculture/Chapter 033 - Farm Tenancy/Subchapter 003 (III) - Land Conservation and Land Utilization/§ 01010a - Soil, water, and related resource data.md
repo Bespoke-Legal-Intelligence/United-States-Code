@@ -14,5 +14,5 @@ Section was not enacted as part of the Bankhead-Jones Farm Tenant Act which cons
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 section 1602.
+This section is referred to in section 2276 of this title; title 16 section 1602.
 

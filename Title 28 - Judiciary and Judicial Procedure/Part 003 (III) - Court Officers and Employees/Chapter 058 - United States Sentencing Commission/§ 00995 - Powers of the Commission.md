@@ -16,7 +16,7 @@
 
 &emsp;(7) accept and employ, in carrying out the provisions of this title, voluntary and uncompensated services, notwithstanding the provisions of 31 U.S.C. 1342, however, individuals providing such services shall not be considered Federal employees except for purposes of chapter 81 of title 5, United States Code, with respect to job-incurred disability and title 28, United States Code, with respect to tort claims;
 
-&emsp;(8) request such information, data, and reports from any Federal agency or judicial officer as the Commission may from time to time require and as may be produced consistent with other law;
+&emsp;(8) request such information, data, and reports from any Federal agency or judicial officer as the Commission may from time to timerequire and as may be produced consistent with other law;
 
 &emsp;(9) monitor the performance of probation officers with regard to sentencing recommendations, including application of the Sentencing Commission guidelines and policy statements;
 
@@ -70,11 +70,11 @@ The provisions of title 28, United States Code, with respect to tort claims, ref
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a)(3). Pub. L. 103–322 substituted “Chair” for “Chairman”.
+1994—Subsec. (a)(3). Pub. L. 103–322 substituted “Chair” for “Chairman”.
 
-<b>1990</b>—Subsec. (a)(22). Pub. L. 101–650 struck out “and” after semicolon at end.
+1990—Subsec. (a)(22). Pub. L. 101–650 struck out “and” after semicolon at end.
 
-<b>1988</b>—Subsec. (a)(2). Pub. L. 100–690, §7105, substituted “Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382)” for “grade 18 of the General Schedule pay rates (5 U.S.C. 5332)”.
+1988—Subsec. (a)(2). Pub. L. 100–690, §7105, substituted “Level 6 of the Senior Executive Service Schedule (5 U.S.C. 5382)” for “grade 18 of the General Schedule pay rates (5 U.S.C. 5332)”.
 
 Subsec. (a)(23). Pub. L. 100–690, §7104, added par. (23).
 

@@ -10,7 +10,7 @@ Whenever a consumer reporting agency prepares a consumer report it shall follow 
 
 #### (c) Disclosure of consumer reports by users allowed
 
-A consumer reporting agency may not prohibit a user of a consumer report furnished by the agency on a consumer from disclosing the contents of the report to the consumer, if adverse action against the consumer has been taken by the user based in whole or in part on the report.
+A consumer reporting agency may not prohibit a user of a consumer report furnished bythe agency on a consumer from disclosing the contents of the report to the consumer, if adverse action against the consumer has been taken by the user based in whole or in part on the report.
 
 #### (d) Notice to users and furnishers of information
 

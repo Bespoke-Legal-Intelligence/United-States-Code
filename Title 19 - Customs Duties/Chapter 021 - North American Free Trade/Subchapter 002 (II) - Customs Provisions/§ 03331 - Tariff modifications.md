@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) such additional duties,
 
-> &emsp;as the President determines to be necessary or appropriate to carry out or apply articles 302,305, 307, 308, and 703 and Annexes 302.2, 307.1, 308.1, 308.2, 300–B, 703.2, and 703.3 of the Agreement.
+> &emsp;as the President determines to be necessary or appropriate to carry out or apply articles 302, 305, 307, 308, and 703 and Annexes 302.2, 307.1, 308.1, 308.2, 300–B, 703.2, and 703.3 of the Agreement.
 
 #### (2) Effect on Mexican GSP status
 
@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(A) such modifications or continuation of any duty,
 
-&emsp;&emsp;(B) such modifications as the United States may agree to with Mexico or Canada regarding the staging of any duty treatment set forth in Annex 302.2 of the Agreement,
+&emsp;&emsp;(B) such modifications as the United States may agree to with Mexico or Canadaregarding the staging of any duty treatment set forth in Annex 302.2 of the Agreement,
 
 &emsp;&emsp;(C) such continuation of duty-free or excise treatment, or
 

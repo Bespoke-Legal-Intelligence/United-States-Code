@@ -36,7 +36,7 @@ As used in this chapter—
 
 &emsp;(2) the term “State” means any of the fifty States, the District of Columbia, the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, or any territory or possession of the United States;
 
-&emsp;(3) the term “unit of local government” means the government of a county, municipality, town, township, village, or other unit of general government below the State level, or a combination of units of local government acting through an areawide agency under State law or an agreement for the formulation of regional development policies and plans;
+&emsp;(3) the term “unit of local government” means the government of a county, municipality, town, township, village, or other unit of general government below the State level, or acombination of units of local government acting through an areawide agency under State law or an agreement for the formulation of regional development policies and plans;
 
 &emsp;(4) the term “Federal program” means those activities or responsibilities of a department, agency, independent commission, or other unit of the Federal Government that involve (A) undertaking, financing, or assisting construction or improvement projects; or (B) acquiring, managing, or disposing of Federal lands and facilities. The term “Federal program” does not include construction or improvement projects that on the effective date of this chapter are beyond the planning stage and are in either the active design or construction state; and
 
@@ -140,7 +140,7 @@ Mandatory Assistance to Each State Trust Fund.—The Secretary shall—
 
 &emsp;“(2) annually pay to each State trust fund an amount calculated by applying the allowable interest rate to the amount of each loan described in section 1465(c)(2) made to, or issued for the benefit of, each State trust fund during each of the first 5 years after the date on which each such loan was made or issued; and
 
-&emsp;“(3) annually pay to each State trust fund, for each year during the second 5-year period after each such eligible loan is made to, or issued for the benefit of, the State trust fund, an amount calculated by applying the interest rate difference, between the rate of interest charged to borrowers of direct loans as described in section 316(a)(2) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1946(a)(2)) and the allowable interest rate, to the amount of each such loan made to, or issued for the benefit of, the State trust fund, as determined under procedures established by the Secretary.
+&emsp;“(3) annually pay to each State trust fund, for each year during the second 5-year period after each such eligible loan is made to, or issued for the benefit of, the State trust fund, an amount calculated by applying the interest rate difference, between the rate of interest charged to borrowers of direct loans as described in section 316(a)(2) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1946(a)(2)) andthe allowable interest rate, to the amount of each such loan made to, or issued for the benefit of, the State trust fund, as determined under procedures established by the Secretary.
 
 “(c)
 
@@ -202,7 +202,7 @@ In general.—Funds from eligible loans (including proceeds from the sale of bon
 
 &emsp;&emsp;“(C) to pay the costs of enforcing easements or land use restrictions;
 
-&emsp;&emsp;“(D) to cover the costs of complying with any regulations issued by the Secretary under this program and the costs of implementing the farmland plan of operation, except that the guaranteed loanproceeds shall not be used to pay overhead expenses of the State trust fund (rent, utilities, salaries, wages, insurance premiums, and the like); and
+&emsp;&emsp;“(D) to cover the costs of complying with any regulations issued by the Secretary under this program and the costs of implementing the farmland plan of operation, except that the guaranteed loan proceeds shall not be used to pay overhead expenses of the State trust fund (rent, utilities, salaries, wages, insurance premiums, and the like); and
 
 &emsp;&emsp;“(E) to generate earnings (including through investments not exceeding 10 years in duration for each eligible loan), to be used for future farmland preservation efforts, through investments in direct obligations of the United States or obligations guaranteed by the United States or an agency thereof or by depositing funds in any member bank of the Federal Reserve System or any federally insured State nonmember bank.
 
@@ -224,7 +224,7 @@ Provision of loan guarantee and interest assistance agreement.—Within 30 days 
 
 &emsp;“(2)
 
-Approval of application.—The Secretary shall annually approve the completed application from the eligible State within 30 days after receipt if the application sets forth the general goals and policies of the State trust fund. The Secretary shall provide the Federal assistance required under this chapter beginning on the date the application or plan is approved.
+Approval of application.—The Secretary shall annually approve the completed applicationfrom the eligible State within 30 days after receipt if the application sets forth the general goals and policies of the State trust fund. The Secretary shall provide the Federal assistance required under this chapter beginning on the date the application or plan is approved.
 
 &emsp;“(3)
 
@@ -290,7 +290,7 @@ Obligations.—Proceeds from the sale of tax-exempt general obligation bonds, or
 
 &emsp;“(4)
 
-Land.—The fair market value of any donation of an interest in land to the State trust fund, or acharitable organization working with the State trust fund, may be considered as matching funds, for the same fiscal year, if—
+Land.—The fair market value of any donation of an interest in land to the State trust fund, or a charitable organization working with the State trust fund, may be considered as matching funds, for the same fiscal year, if—
 
 &emsp;&emsp;“(i) the fair market value is based on an appraisal determined to be adequate by the State trust fund; and
 

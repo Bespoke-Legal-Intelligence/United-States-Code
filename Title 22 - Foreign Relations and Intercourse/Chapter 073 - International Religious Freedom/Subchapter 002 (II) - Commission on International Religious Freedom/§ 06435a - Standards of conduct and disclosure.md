@@ -18,7 +18,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (A) In general
 
-&emsp;&emsp;Subject to subparagraph (B), paragraph (1) shall not apply to payments made for items such as conference fees or the purchase of periodicals or other similar expenses, if such payments would not cause the aggregate value paid to any agency, project, or person for a fiscal year to exceed $250.
+&emsp;&emsp;Subject to subparagraph (B), paragraph (1) shall not apply to payments made for itemssuch as conference fees or the purchase of periodicals or other similar expenses, if such payments would not cause the aggregate value paid to any agency, project, or person for a fiscal year to exceed $250.
 
 #### (B) Limitation
 
@@ -36,7 +36,7 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 #### (1) In general
 
-&emsp;Subject to the availability of appropriations, the Commission may contract with and compensate Government agencies or persons for the conduct of activities necessary to the discharge of its functions under this subchapter. Any such person shall be hired without interruption or loss of civil service or Foreign Service status or privilege. The Commission may not procure temporary and intermittent services under section 3109(b) of title 5 or under other contracting authority other than that allowed under this subchapter.
+&emsp;Subject to the availability of appropriations, the Commission may contract with and compensate Government agencies or persons for the conduct of activities necessary to the discharge of its functions under this subchapter. Any such person shall be hired without interruption or loss of civil service or Foreign Service status or privilege. The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5, except that the Commission may not expend more than $100,000 in any fiscal year to procure such services.
 
 #### (2) Expert study
 
@@ -70,11 +70,15 @@ The Commission shall seek to effectively and freely cooperate with all entities 
 
 In addition to providing the reports required under section 6432 of this title, the Commission shall provide, each year no later than January 1, to the Committees on International Relations and Appropriations of the House of Representatives, and to the Committees on Foreign Relations and Appropriations of the Senate, a financial report detailing and identifying its expenditures for the preceding fiscal year.
 
-(Pub. L. 105–292, title II, §208, as added Pub. L. 106–55, §1(b)(5), Aug. 17, 1999, 113 Stat. 403.)
+(Pub. L. 105–292, title II, §208, as added Pub. L. 106–55, §1(b)(5), Aug. 17, 1999, 113 Stat. 403; amended Pub. L. 107–228, div. A, title VI, §681(f), Sept. 30, 2002, 116 Stat. 1409.)
 
 #### References in Text
 
 The Foreign Gifts and Decorations Act of 1966, referred to in subsec. (d)(2)(E), is Pub. L. 89–673, Oct. 15, 1966, 80 Stat. 952, as amended, which was classified principally to chapter 37 (§2621 et seq.) of this title. The Act was substantially repealed, except for provisions which are classified to section 2625 of this title, and with limited applicability, to section 2621 of this title, and was restated in section 7342 of Title 5, Government Organization and Employees, by Pub. L. 90–83, §10(b), Sept. 11, 1967, 91 Stat. 224. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2002—Subsec. (c)(1). Pub. L. 107–228 substituted “The Commission may procure temporary and intermittent services under the authority of section 3109(b) of title 5, except that the Commission may not expend more than $100,000 in any fiscal year to procure such services.” for “The Commission may not procure temporary and intermittent services under section 3109(b)of title 5 or under other contracting authority other than that allowed under this subchapter.”
 
 <i><sup>1</sup></i><i> So in original. The comma probably should follow “member”.</i>
 

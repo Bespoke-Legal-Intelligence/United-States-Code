@@ -14,7 +14,7 @@
 
 &emsp;(6) advise the President on the extent to which the various scientific and technological programs, policies, and activities of the Federal Government are likely to affect the achievement of the priority goals of the Nation as set forth in section 6601(b) of this title;
 
-&emsp;(7) provide the President with periodic reviews of Federal statutes and administrative regulations of the various departments and agencies which affect research and development activities, both internally and in relation to the private sector, or which may interfere with desirable technological innovation, together with recommendations for their elimination, reform, or updating as appropriate;
+&emsp;(7) provide the President with periodic reviews of Federal statutes and administrative regulations of the various departments and agencies which affect research and development activities, both internally and in relation to the private sector, or which may interfere with desirable technological innovation, together with recommendations for theirelimination, reform, or updating as appropriate;
 
 &emsp;(8) develop, review, revise, and recommend criteria for determining scientific and technological activities warranting Federal support, and recommend Federal policies designed to advance (A) the development and maintenance of broadly based scientific and technological capabilities, including human resources, at all levels of government, academia, and industry, and (B) the effective application of such capabilities to national needs;
 
@@ -30,7 +30,7 @@
 
 (b)(1) The Director shall establish an Intergovernmental Science, Engineering, and Technology Advisory Panel (hereinafter referred to as the “Panel”), whose purpose shall be to (A) identify and define civilian problems at State, regional, and local levels which science, engineering, and technology may assist in resolving or ameliorating; (B) recommend priorities for addressing such problems; and (C) advise and assist the Director in identifying and fostering policies to facilitate the transfer and utilization of research and development results so as to maximize their application to civilian needs.
 
-(2) The Panel shall be composed of (A) the Director of the Office, or his representative; (B) atleast ten members representing the interests of the States, appointed by the Director of the Office after consultation with State officials; and (C) the Director of the National Science Foundation, or his representative.
+(2) The Panel shall be composed of (A) the Director of the Office, or his representative; (B) at least ten members representing the interests of the States, appointed by the Director of the Office after consultation with State officials; and (C) the Director of the National Science Foundation, or his representative.
 
 (3)(A) The Director of the Office, or his representative, shall serve as Chairman of the Panel.
 
@@ -74,7 +74,7 @@ Study.—The Director of the Office of Science and Technology Policy, in consult
 
 &emsp;&emsp;“(A) describing the research process in the various scientific and engineering disciplines;
 
-&emsp;&emsp;“(B) describing in the different sciences what measures and what criteria each community uses to evaluate the success or failure of a program, and on what time scales these measures are considered reliable—both for exploratory long-range work and for short-range goals; and
+&emsp;&emsp;“(B) describing in the different sciences what measures and what criteria each community uses to evaluate the success or failure of a program, and on what time scales these measures are consideredreliable—both for exploratory long-range work and for short-range goals; and
 
 &emsp;&emsp;“(C) recommending how these measures may be adapted for use by the Federal Government to evaluate federally-funded research and development programs;
 

@@ -2,7 +2,23 @@
 
 #### (a) Authority to conduct
 
-The Secretary is authorized to conduct examinations and investigations for the purposes of this chapter through officers and employees of the Department or through any health, food, or drug officer or employee of any State, Territory, or political subdivision thereof, duly commissioned by the Secretary as an officer of the Department. In the case of food packed in the Commonwealth of Puerto Rico or a Territory the Secretary shall attempt to make inspection of such food at the first point of entry within the United States when, in his opinion and with due regard to the enforcement of all the provisions of this chapter, the facilities at his disposal will permit of such inspection. For the purposes of this subsection the term “United States” means the States and the District of Columbia.
+(1) The Secretary is authorized to conduct examinations and investigations for the purposes of this chapter through officers and employees of the Department or through any health, food, or drug officer or employee of any State, Territory, or political subdivision thereof, duly commissioned by the Secretary as an officer of the Department.
+
+(2)(A) In addition to the authority established in paragraph (1), the Secretary, pursuant to a memorandum of understanding between the Secretary and the head of another Federal department or agency, is authorized to conduct examinations and investigations for the purposes of this chapter through the officers and employees of such other department or agency, subject to subparagraph (B). Such a memorandum shall include provisions to ensure adequate training of such officers and employees to conduct the examinations and investigations. The memorandum of understanding shall contain provisions regarding reimbursement. Such provisions may, at the sole discretion of the head of the other department or agency, require reimbursement, in whole or in part, from the Secretary for the examinations or investigations performed under this section by the officers or employees of the other department or agency.
+
+(B) A memorandum of understanding under subparagraph (A) between the Secretary and another Federal department or agency is effective only in the case of examinations or inspections at facilities or other locations that are jointly regulated by the Secretary and such department or agency.
+
+(C) For any fiscal year in which the Secretary and the head of another Federal department or agency carries out one or more examinations or inspections under a memorandum of understanding under subparagraph (A), the Secretary and the head of such department or agency shall with respect to their respective departments or agencies submit to the committees of jurisdiction (authorizing and appropriating) in the House of Representatives and the Senate a report that provides, for such year—
+
+&emsp;(i) the number of officers or employees that carried out one or more programs, projects, or activities under such memorandum;
+
+&emsp;(ii) the number of additional articles that were inspected or examined as a result of such memorandum; and
+
+&emsp;(iii) the number of additional examinations or investigations that were carried out pursuant to such memorandum.
+
+(3) In the case of food packed in the Commonwealth of Puerto Rico or a Territory the Secretary shall attempt to make inspection of such food at the first point of entry within the United States when, in his opinion and with due regard to the enforcement of all the provisions of this chapter, the facilities at his disposal will permit of such inspection.
+
+(4) For the purposes of this subsection, the term “United States” means the States and the District of Columbia.
 
 #### (b) Availability to owner of part of analysis samples
 
@@ -30,9 +46,11 @@ Any officer or employee of the Department designated by the Secretary to conduct
 
 &emsp;(5) make, prior to the institution of libel proceedings under section 334(a)(2) of this title, seizures of drugs or containers or of equipment, punches, dies, plates, stones, labeling, or other things, if they are, or he has reasonable grounds to believe that they are, subject to seizure and condemnation under such section 334(a)(2). In the event of seizure pursuant to this paragraph (5), libel proceedings under section 334(a)(2) of this title shall be instituted promptly and the property seized be placed under the jurisdiction of the court.
 
-(June 25, 1938, ch. 675, §702, 52 Stat. 1056; Pub. L. 87–781, title III, §§307(b), 308, Oct. 10, 1962, 76 Stat. 796; Pub. L. 89–74, §8(a), July 15, 1965, 79 Stat. 234; Pub. L. 91–513, title II, §701(f), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 102–300, §6(b)(2), June16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(dd)(2), Aug. 13, 1993, 107 Stat. 779; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(12)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584.)
+(June 25, 1938, ch. 675, §702, 52 Stat. 1056; Pub. L. 87–781, title III, §§307(b), 308, Oct. 10, 1962, 76 Stat. 796; Pub. L. 89–74, §8(a), July 15, 1965, 79 Stat. 234; Pub. L. 91–513, title II, §701(f), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 102–300, §6(b)(2), June 16, 1992, 106 Stat. 240; Pub. L. 103–80, §3(dd)(2), Aug. 13, 1993, 107 Stat. 779; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(12)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–584; Pub. L. 107–188, title III, §314, June 12, 2002, 116 Stat. 674.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–188 inserted “(1)” before “The Secretary is authorized to conduct”, added par. (2), inserted “(3)” before “In the case of food packed”, and substituted “(4) For the purposes of this subsection,” for “For the purposes of this subsection”.
 
 1999—Subsec. (d). Pub. L. 106–113, in first sentence, substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents” and “Director” for “Commissioner”.
 
@@ -62,7 +80,7 @@ Amendment by Pub. L. 89–74 effective July 15, 1965, see section 11 of Pub. L. 
 
 #### Savings Provision
 
-Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
+Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for any violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment,and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
 
 #### Transfer of Functions
 
@@ -70,5 +88,5 @@ For transfer of functions of Federal Security Administrator to Secretary of Heal
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 321 of this title.
+This section is referred to in sections 321, 399 of this title.
 

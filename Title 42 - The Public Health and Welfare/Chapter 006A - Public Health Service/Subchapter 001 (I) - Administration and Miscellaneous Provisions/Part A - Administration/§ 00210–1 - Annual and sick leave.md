@@ -2,7 +2,7 @@
 
 #### (a) Regulations
 
-In accordance with regulations of the President, commissioned officers of the Regular Corps and officers of the Reserve Corps on active duty may be granted annual leave and sick leave without any deductions from their pay and allowances: <i>Provided</i>, That such regulations shallnot authorize annual leave to be accumulated in excess of sixty days.
+In accordance with regulations of the President, commissioned officers of the Regular Corps and officers of the Reserve Corps on active duty may be granted annual leave and sick leave without any deductions from their pay and allowances: <i>Provided</i>, That such regulations shall not authorize annual leave to be accumulated in excess of sixty days.
 
 #### (b) Repealed. Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499
 
@@ -16,7 +16,7 @@ For purposes of this section the term “accumulated annual leave” means unuse
 
 #### Partial Repeal of Subsection (d)
 
-<i>Subsection (d) of this section was repealed by Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499, insofar as it was applicable to the last sentence of subsection (c) of this section which authorized a lump-sum payment to an officer credited with unused accumulated and accrued annual leave. See section 501 of Title 37, Pay and Allowances of the Uniformed Services.</i>
+<i>Subsection (d) of this section was repealed by Pub. L. 87–649, §14b, Sept. 7, 1962, 76 Stat. 499,</i><i>insofar as it was applicable to the last sentence of subsection (c) of this section which authorized a lump-sum payment to an officer credited with unused accumulated and accrued annual leave. See section 501 of Title 37, Pay and Allowances of the Uniformed Services.</i>
 
 #### Amendments
 

@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 97–164, §144(3), substituted “United States Court of A
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–311, §10(b), Oct. 30, 1998, 112 Stat. 2954, provided that: “The amendments made by this section \[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 30, 1998\], and apply to any suit, action, or other administrative or judicial proceeding pending on such date or commenced on or after such date.”
+Pub. L. 105–311, §10(b), Oct. 30, 1998, 112 Stat. 2954, provided that: “The amendments made by this section\[amending this section\] shall take effect on the date of enactment of this Act \[Oct. 30, 1998\], and apply to any suit, action, or other administrative or judicial proceeding pending on such date or commenced on or after such date.”
 
 #### Effective Date of 1989 Amendment
 
@@ -62,5 +62,5 @@ For effect of Pub. L. 101–12 on orders, rules, and regulations issued before e
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1214, 1215, 1221, 7121, 8347, 8461 of this title; title 28 section 1295; title 38 section 4324.
+This section is referred to in sections 1214, 1215, 1221, 7121, 8347, 8461 of this title; title 28 section 1295; title 38 section 4324; title 49 section 40122.
 

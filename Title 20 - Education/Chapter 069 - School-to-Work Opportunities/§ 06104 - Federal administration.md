@@ -12,7 +12,7 @@
 
 #### (b) Acceptance of gifts
 
-The Secretaries are authorized, in carrying out this chapter, to accept, purchase, or lease inthe name of the Department of Labor or the Department of Education, and employ or dispose of in furtherance of the purposes of this chapter, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise.
+The Secretaries are authorized, in carrying out this chapter, to accept, purchase, or lease in the name of the Department of Labor or the Department of Education, and employ or dispose of in furtherance of the purposes of this chapter, any money or property, real, personal, or mixed, tangible or intangible, received by gift, devise, bequest, or otherwise.
 
 #### (c) Use of voluntary and uncompensated services
 

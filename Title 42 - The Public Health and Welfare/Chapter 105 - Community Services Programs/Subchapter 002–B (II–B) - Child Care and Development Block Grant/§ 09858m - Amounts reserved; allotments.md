@@ -56,7 +56,7 @@
 
 #### (1) General authority
 
-&emsp;From amounts reserved under subsection (a)(2) of this section, the Secretary may make grants to or enter into contracts with Indian tribes or tribal organizations that submit applications under this section, for the planning and carrying out of programs or activities consistent with the purposes of this subchapter.
+&emsp;From amounts reserved under subsection (a)(2) of this section, the Secretary may makegrants to or enter into contracts with Indian tribes or tribal organizations that submit applications under this section, for the planning and carrying out of programs or activities consistent with the purposes of this subchapter.
 
 #### (2) Applications and requirements
 
@@ -134,7 +134,7 @@ The Secretary shall obtain from each appropriate Federal agency, the most recent
 
 #### (4) Indian tribes or tribal organizations
 
-&emsp;Any portion of a grant or contract made to an Indian tribe or tribal organization under subsection (c) of this section that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant orcontract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) of this section in accordance with their respective needs.
+&emsp;Any portion of a grant or contract made to an Indian tribe or tribal organization undersubsection (c) of this section that the Secretary determines is not being used in a manner consistent with the provision of this subchapter in the period for which the grant or contract is made available, shall be allotted by the Secretary to other tribes or organizations that have submitted applications under subsection (c) of this section in accordance with their respective needs.
 
 #### (f) “State” defined
 

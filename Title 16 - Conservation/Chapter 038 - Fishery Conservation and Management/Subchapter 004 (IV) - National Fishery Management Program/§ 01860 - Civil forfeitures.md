@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Any fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo)used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by section 1857 of this title (other than any act for which the issuance of a citation under section 1861(c) of this title is sufficient sanction) shall be subject to forfeiture to the United States. All or part of such vessel may, and all such fish (or the fair market value thereof) shall, be forfeited to the United States pursuant to a civil proceeding under this section.
+Any fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by section 1857 of this title (other than any act for which the issuance of a citation under section 1861(c) of this title is sufficient sanction) shall be subject to forfeiture to the United States. All or part of such vessel may, and all such fish (or the fair market value thereof) shall, be forfeited to the United States pursuant to a civil proceeding under this section.
 
 #### (b) Jurisdiction of district courts
 
@@ -71,6 +71,10 @@ Subsec. (d)(1). Pub. L. 99–659, §109(a)(2), inserted provision that nothing i
 #### Effective Date
 
 Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly set out as a note under section 1857 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

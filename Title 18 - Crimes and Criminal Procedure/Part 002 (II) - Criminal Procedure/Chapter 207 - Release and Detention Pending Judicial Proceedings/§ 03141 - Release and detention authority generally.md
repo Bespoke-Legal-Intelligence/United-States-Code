@@ -26,7 +26,7 @@ Section 55(j) of Pub. L. 99–646 provided that: “The amendments made by this 
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–647, title IX, §901, Nov. 29, 1990, 104 Stat. 4826, provided that: “This title \[amending sections 3143and 3145 of this title\] may be cited as the ‘Mandatory Detention for Offenders Convicted of Serious Crimes Act’.”
+Pub. L. 101–647, title IX, §901, Nov. 29, 1990, 104 Stat. 4826, provided that: “This title \[amending sections 3143 and 3145 of this title\] may be cited as the ‘Mandatory Detention for Offenders Convicted of Serious Crimes Act’.”
 
 #### Short Title of 1984 Amendment
 

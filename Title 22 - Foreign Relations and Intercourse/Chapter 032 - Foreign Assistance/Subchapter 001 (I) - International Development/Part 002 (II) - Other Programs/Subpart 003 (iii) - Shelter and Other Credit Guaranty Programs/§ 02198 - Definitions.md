@@ -2,7 +2,7 @@
 
 As used in this subpart—
 
-&emsp;(a) the term “investment” includes any contribution or commitment of funds, commodities, services, patents, processes, or techniques, in the form of (1) a loan or loans to an approved project, (2) the purchase of a share of ownership in any such project, (3) participation in royalties, earnings, or profits of any such project, and (4) the furnishing of commodities or services pursuant to a lease or other contract;
+&emsp;(a) the term “investment” includes any contribution or commitment of funds, commodities, services, patents, processes, or techniques, in the form of (1) a loan or loans to anapproved project, (2) the purchase of a share of ownership in any such project, (3) participation in royalties, earnings, or profits of any such project, and (4) the furnishing of commodities or services pursuant to a lease or other contract;
 
 &emsp;(b) the term “expropriation” includes, but is not limited to, any abrogation, repudiation, or impairment by a foreign government of its own contract with an investor with respect to a project, where such abrogation, repudiation, or impairment is not caused by the investor's own fault or misconduct, and materially adversely affects the continued operation of the project;
 
@@ -18,7 +18,7 @@ As used in this subpart—
 
 #### References in Text
 
-The Foreign Assistance Act of 1969, referred to in subsec. (f), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title of 1969 Amendment note set outunder section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
+The Foreign Assistance Act of 1969, referred to in subsec. (f), is Pub. L. 91–175, Dec. 30, 1969, 83 Stat. 805, as amended. For complete classification of this Act to the Code, see Short Title of 1969 Amendment note set out under section 2151 of this title and Tables. The guaranty authorities repealed by the 1969 Act were the guaranty authorities contained in sections 2181 to 2184 prior to the general reorganization of subpart III by the 1969 Act.
 
 Section 1509(b)(3) of this title, referred to in subsec. (f), was repealed by act Aug. 26, 1954, ch. 937, title V, §542(a)(4), 68 Stat. 861.
 

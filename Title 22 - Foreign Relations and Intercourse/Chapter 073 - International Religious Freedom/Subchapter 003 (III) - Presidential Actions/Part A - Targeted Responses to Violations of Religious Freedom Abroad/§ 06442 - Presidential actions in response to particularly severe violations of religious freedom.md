@@ -32,7 +32,7 @@
 
 #### (2) Determinations of responsible parties
 
-&emsp;For the government of each country designated as a country of particular concern for religious freedom under paragraph (1)(A), the President shall seek to determine the agencyor instrumentality thereof and the specific officials thereof that are responsible for the particularly severe violations of religious freedom engaged in or tolerated by that government in order to appropriately target Presidential actions under this section in response.
+&emsp;For the government of each country designated as a country of particular concern for religious freedom under paragraph (1)(A), the President shall seek to determine the agency or instrumentality thereof and the specific officials thereof that are responsible for the particularly severe violations of religious freedom engaged in or tolerated by that government in order to appropriately target Presidential actions under this section in response.
 
 #### (3) Congressional notification
 
@@ -102,7 +102,7 @@ A determination under this chapter, or any amendment made by this chapter, that 
 
 #### References in Text
 
-This subchapter, referred to in subsec. (c)(2)(A), was in the original “this title”, meaning title IV of Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2800, which is classifiedprincipally to this subchapter. For complete classification of title IV to the Code, see Tables.
+This subchapter, referred to in subsec. (c)(2)(A), was in the original “this title”, meaning title IV of Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2800, which is classified principally to this subchapter. For complete classification of title IV to the Code, see Tables.
 
 This chapter, referred to in subsecs. (c)(4) and (d), was in the original “this Act”, meaning Pub. L. 105–292, Oct. 27, 1998, 112 Stat. 2787, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 6401 of this title and Tables.
 

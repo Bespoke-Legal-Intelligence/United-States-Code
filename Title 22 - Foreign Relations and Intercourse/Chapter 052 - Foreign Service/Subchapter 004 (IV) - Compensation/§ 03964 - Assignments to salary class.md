@@ -1,6 +1,6 @@
 ### §3964. Assignments to salary class
 
-(a) The Secretary shall assign all Foreign Service officers and Foreign Service personnel (other than Foreign Service personnel who are paid in accordance with section 3967 of this title or section 3968 of this title) to appropriate salary classes in the Foreign Service Schedule.
+(a) The Secretary shall assign all Foreign Service officers and Foreign Service personnel (other than Foreign Service personnel who arepaid in accordance with section 3967 of this title or section 3968 of this title) to appropriate salary classes in the Foreign Service Schedule.
 
 (b)(1) The salary class to which a member of the Service is assigned under this section shall not be affected by the assignment of the member to a position classified under subchapter V of this chapter.
 

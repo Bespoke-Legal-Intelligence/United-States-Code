@@ -4,9 +4,9 @@ Whoever willfully and knowingly makes any false statement in an application for 
 
 Whoever willfully and knowingly uses or attempts to use, or furnishes to another for use any passport the issue of which was secured in any way by reason of any false statement—
 
-Shall be fined under this title, imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility <sup>1</sup> such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
+Shall be fined under this title, imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facilitate such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, §130009(a)(2), title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2030, 2147; Pub. L. 104–208, div. C, title II, §211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569.)
+(June 25, 1948, ch. 645, 62 Stat. 771; Pub. L. 103–322, title XIII, §130009(a)(2), title XXXIII, §330016(1)(I), Sept. 13, 1994, 108 Stat. 2030, 2147; Pub. L. 104–208, div. C, title II, §211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 107–273, div. B, title IV, §4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
 
 #### Historical and Revision Notes
 
@@ -20,19 +20,19 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
+2002—Pub. L. 107–273 substituted “to facilitate” for “to facility” in last par.
+
 1996—Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than 10 years” in last par.
 
 1994—Pub. L. 103–322, §330016(1)(I), which directed the amendment of this section by substituting “under this title” for “not more than $2,000”, could not be executed because the words “not more than $2,000” did not appear in text subsequent to amendment by Pub. L. 103–322, §130009(a)(2). See below.
 
-Pub. L. 103–322, §130009(a)(2), substituted “under this title, imprisoned not more than 10 years” for “not more than $2,000 or imprisoned not more than five years” in last par.
+Pub. L. 103–322, §130009(a)(2), substituted “under this title, imprisoned not more than 10 years” for “notmore than $2,000 or imprisoned not more than five years” in last par.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, seesection 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
+Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on or after Sept. 30, 1996, see section 211(c) of Pub. L. 104–208, set out as a note under section 1028 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 982, 1717, 1961, 2516, 3291 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “facilitate”.</i>
+This section is referred to in sections 982, 1717, 1961, 2516, 3291 of this title.
 

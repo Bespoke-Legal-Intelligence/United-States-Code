@@ -26,7 +26,7 @@ Whoever—
 
 &emsp;&emsp;(A) willfully, knowingly, and with intent to deceive, uses a social security account number, assigned by the Commissioner of Social Security (in the exercise of the Commissioner's authority under section 405(c)(2) of this title to establish and maintain records) on the basis of false information furnished to the Commissioner of Social Security by him or by any other person; or
 
-&emsp;&emsp;(B) with intent to deceive, falsely represents a number to be the social security account number assigned by the Commissioner of Social Security to him or to another person, when in fact such number isnot the social security account number assigned by the Commissioner of Social Security to him or to such other person; or
+&emsp;&emsp;(B) with intent to deceive, falsely represents a number to be the social security account number assigned by the Commissioner of Social Security to him or to another person, when in fact such number is not the social security account number assigned by the Commissioner of Social Security to him or to such other person; or
 
 &emsp;&emsp;(C) knowingly alters a social security card issued by the Commissioner of Social Security, buys or sells a card that is, or purports to be, a card so issued, counterfeits a social security card, or possesses a social security card or counterfeit social security card with intent to sell or alter it; or
 
@@ -80,7 +80,7 @@ Chapters 2 and 21 and subtitle F of the Internal Revenue Code of 1954, referred 
 
 Section 902 of the Foreign Relations Authorization Act, Fiscal Years 1988 and 1989, referred to in subsec. (d)(1)(A), is section 902 of Pub. L. 100–204, which is set out as a note under section 1255a of Title 8, Aliens and Nationality.
 
-Section 202 of the Immigration Reform and Control Act of 1986, referred to in subsec. (d)(1)(B)(i), is section202 of Pub. L. 99–603, which is set out as a note under section 1255a of Title 8.
+Section 202 of the Immigration Reform and Control Act of 1986, referred to in subsec. (d)(1)(B)(i), is section 202 of Pub. L. 99–603, which is set out as a note under section 1255a of Title 8.
 
 #### Amendments
 

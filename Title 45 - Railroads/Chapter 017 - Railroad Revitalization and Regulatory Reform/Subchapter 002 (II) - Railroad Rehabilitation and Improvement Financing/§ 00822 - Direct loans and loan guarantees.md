@@ -54,7 +54,7 @@ The aggregate unpaid principal amounts of obligations under direct loans and loa
 
 #### (1) Authority of Secretary
 
-&emsp;In lieu of or in combination with appropriations of budget authority to cover the costs ofdirect loans and loan guarantees as required under section 661c(b)(1) of title 2, the Secretary may accept on behalf of an applicant for assistance under this section a commitment from a non-Federal source to fund in whole or in part credit risk premiums with respect to the loan that is the subject of the application. In no event shall the aggregate of appropriations of budget authority and credit risk premiums described in this paragraph with respect to a direct loan or loan guarantee be less than the cost of that direct loan or loan guarantee.
+&emsp;In lieu of or in combination with appropriations of budget authority to cover the costs of direct loans and loan guarantees as required under section 661c(b)(1) of title 2, the Secretary may accept on behalf of an applicant for assistance under this section a commitment from a non-Federal source to fund in whole or in part credit risk premiums with respect to the loan that is the subject of the application. In no event shall the aggregate of appropriations of budget authority and credit risk premiums described in this paragraph with respect to a direct loan or loan guarantee be less than the cost of that direct loan or loan guarantee.
 
 #### (2) Credit risk premium amount
 
@@ -76,7 +76,7 @@ The aggregate unpaid principal amounts of obligations under direct loans and loa
 
 #### (4) Cohorts of loans
 
-&emsp;In order to maintain sufficient balances of credit risk premiums to adequately protect the Federal Government from risk of default, while minimizing the length of time the Government retains possession of those balances, the Secretary shall establish cohorts of loans. When all obligations attached to a cohort of loans have been satisfied, credit risk premiums paid for the cohort, and interest accrued thereon, which were not used to mitigate losses shall be returned to the original source on a pro rata basis.
+&emsp;In order to maintain sufficient balances of credit risk premiums to adequately protect the Federal Government from risk of default, while minimizing the length of time the Government retains possession of those balances, the Secretary shall establish cohorts of loans.When all obligations attached to a cohort of loans have been satisfied, credit risk premiums paid for the cohort, and interest accrued thereon, which were not used to mitigate losses shall be returned to the original source on a pro rata basis.
 
 #### (g) Prerequisites for assistance
 

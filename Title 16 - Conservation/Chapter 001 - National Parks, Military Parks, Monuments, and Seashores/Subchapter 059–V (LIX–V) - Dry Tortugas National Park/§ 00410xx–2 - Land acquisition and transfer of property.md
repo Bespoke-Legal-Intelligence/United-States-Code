@@ -18,3 +18,7 @@ The Secretary is authorized to lease or to acquire, by purchase, donation, or ex
 
 Section 201 of the Act of June 28, 1980 (Public Law 96–287), referred to in subsec. (a), appears in a table under the heading “National Monuments Established Under Presidential Proclamation”, set out as a note under section 431 of this title.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

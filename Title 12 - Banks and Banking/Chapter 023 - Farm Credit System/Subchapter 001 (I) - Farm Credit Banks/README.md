@@ -6,7 +6,7 @@ Title I of the Farm Credit Act of 1971, comprising this subchapter, was original
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 2122, 2202a, 2206a, 2218, 2252 of this title.
+This subchapter is referred to in sections 2202a, 2206a, 2218, 2252 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Prohibition on disclosing procurement information
 
-(1) A person described in paragraph (2) shall not, other than as provided by law, knowingly disclose contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates.
+(1) A person described in paragraph (2) shall not, other than as provided by law, knowingly disclose contractor bid or proposal information or source selection information before the award of a Federal agency procurement contract to which the information relates. In the case of an employee of a private sector organization assigned to an agency under chapter 37 of title 5, in addition to the restriction in the preceding sentence, such employee shall not, other than as provided by law, knowingly disclose contractor bid or proposal information or source selection information during the three-year period after the end of the assignment of such employee.
 
 (2) Paragraph (1) applies to any person who—
 
@@ -58,7 +58,7 @@ A person shall not, other than as provided by law, knowingly obtain contractor b
 
 (4) A contractor who provides compensation to a former official knowing that such compensation is accepted by the former official in violation of this subsection shall be subject to penalties and administrative actions as set forth in subsection (e) of this section.
 
-(5) Regulations implementing this subsection shall include procedures for an official or former official of a Federal agency to request advicefrom the appropriate designated agency ethics official regarding whether the official or former official is or would be precluded by this subsection from accepting compensation from a particular contractor.
+(5) Regulations implementing this subsection shall include procedures for an official or former official of a Federal agency to request advice from the appropriate designated agency ethics official regarding whether the official or former official is or would be precluded by this subsection from accepting compensation from a particular contractor.
 
 #### (e) Penalties and administrative actions
 
@@ -132,7 +132,7 @@ As used in this section:
 
 &emsp;&emsp;(J) Other information marked as “source selection information” based on a case-by-case determination by the head of the agency, his designee, or the contracting officer that its disclosure would jeopardize the integrity or successful completion of the Federal agency procurement to which the information relates.
 
-&emsp;(3) The term “Federal agency” has the meaning provided such term in section 472 of title 40.
+&emsp;(3) The term “Federal agency” has the meaning provided such term in section 102 of title 40.
 
 &emsp;(4) The term “Federal agency procurement” means the acquisition (by using competitive procedures and awarding a contract) of goods or services (including construction) from non-Federal sources by a Federal agency using appropriated funds.
 
@@ -170,9 +170,15 @@ This section does not—
 
 &emsp;(7) limit the applicability of any requirements, sanctions, contract penalties, and remedies established under any other law or regulation.
 
-(Pub. L. 93–400, §27, as added Pub. L. 100–679, §6(a), Nov. 17, 1988, 102 Stat. 4063; amended Pub. L. 101–189, div. A, title VIII, §814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495–1498; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, §705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, §8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, div. D, title XLIII, §4304(a), Feb. 10, 1996, 110 Stat. 659.)
+(Pub. L. 93–400, §27, as added Pub. L. 100–679, §6(a), Nov. 17, 1988, 102 Stat. 4063; amended Pub. L. 101–189, div. A, title VIII, §814(a)–(d)(1), Nov. 29, 1989, 103 Stat. 1495–1498; Pub. L. 101–510, div. A, title XIV, §1484(<i>l</i>)(6), Nov. 5, 1990, 104 Stat. 1720; Pub. L. 102–25, title VII, §705(i), Apr. 6, 1991, 105 Stat. 121; Pub. L. 103–355, title VIII, §8301(e), Oct. 13, 1994, 108 Stat. 3397; Pub. L. 104–106, div. D, title XLIII, §4304(a), Feb. 10, 1996, 110 Stat. 659; Pub. L. 107–347, title II, §209(d)(4), Dec. 17, 2002, 116 Stat. 2930.)
+
+#### Codification
+
+“Section 102 of title 40” substituted in subsec. (f)(3) for “section 3 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 472)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–347 inserted at end “In the case of an employee of a private sector organization assigned to an agency under chapter 37 of title 5, in addition to the restriction in the preceding sentence, such employee shall not, other than as provided by law, knowingly disclose contractor bid or proposal information or source selection information during the three-year period after the end of the assignment of such employee.”
 
 1996—Pub. L. 104–106 amended section generally, substituting subsecs. (a) to (h) relating to restrictions on disclosing and obtaining contractor bid or proposal information and source selection information for former subsecs. (a) to (p) relating to procurement integrity.
 
@@ -234,7 +240,7 @@ Subsec. (<i>l</i>)(2). Pub. L. 101–189, §814(c)(6)(B), substituted “subsect
 
 Subsecs. (m), (n). Pub. L. 101–189, §814(a)(1)(B)(i), redesignated subsecs. (k) and (<i>l</i>) as (m) and (n), respectively. Former subsecs. (m) and (n) redesignated (<i>o</i>) and (p), respectively.
 
-Subsec. (<i>o</i>). Pub. L. 101–189, §814(a)(4), amended subsec. (<i>o</i>) generally. Prior to amendment, subsec. (<i>o</i>) read as follows: “Government-wide regulations and guidelines deemed appropriate to carry out this section shall be issued in the Federal Acquisition Regulation within 180 days after November 17, 1988.”
+Subsec. (<i>o</i>). Pub. L. 101–189, §814(a)(4), amended subsec. (<i>o</i>) generally. Prior to amendment, subsec. (<i>o</i>) read as follows: “Government-wide regulations and guidelines deemed appropriate to carry out this section shallbe issued in the Federal Acquisition Regulation within 180 days after November 17, 1988.”
 
 Pub. L. 101–189, §814(a)(1)(B)(i), redesignated subsec. (m) as (<i>o</i>).
 
@@ -245,6 +251,10 @@ Subsec. (p)(1). Pub. L. 101–189, §814(b)(1), substituted “on the earliest s
 Subsec. (p)(3)(A). Pub. L. 101–189, §814(b)(2), added subpar. (A) and struck out former subpar. (A) which read as follows: “The term ‘procurement official’ means any civilian or military official or employee of an agency who has participated personally and substantially in the conduct of the agency procurement concerned, including all officials and employees who are responsible for reviewing or approving the procurement, as further defined by applicable implementing regulations.”
 
 Subsec. (p)(8). Pub. L. 101–189, §814(b)(3), added par. (8).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
 
 #### Effective Date of 1996 Amendment
 
@@ -274,5 +284,5 @@ Pub. L. 101–194, title V, §507(1), Nov. 30, 1989, 103 Stat. 1759, provided th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 3374; title 15 sections 637, 657a; title 22 section 3861; title 42 sections 1396a, 1396u–2; title 43 section 1475a; title 49 section 40110.
+This section is referred to in title 5 sections 3374, 3704; title 15 sections 637, 657a; title 22 section 3861; title 42 sections 1396a, 1396u–2; title 43 section 1475a; title 49 section 40110.
 

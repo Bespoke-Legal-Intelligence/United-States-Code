@@ -64,7 +64,7 @@ From the funds appropriated for fiscal year 1999 and for each subsequent fiscal 
 
 #### (4) Proportional reduction
 
-&emsp;To provide allotments to States in accordance with paragraph (1)(B), to provide minimum allotments to States (as increased under paragraph (3)) under paragraph (1)(C), or to provide minimum allotments to States underparagraph (2)(B), the Commissioner shall proportionately reduce the allotments of the remaining States under paragraph (1)(A), with such adjustments as may be necessary to prevent the allotment of any such remaining State from being reduced to less than the amount required by paragraph (1)(B).
+&emsp;To provide allotments to States in accordance with paragraph (1)(B), to provide minimum allotments to States (as increased under paragraph (3)) under paragraph (1)(C), or to provide minimum allotments to States under paragraph (2)(B), the Commissioner shall proportionately reduce the allotments of the remaining States under paragraph (1)(A), with such adjustments as may be necessary to prevent the allotment of any such remaining State from being reduced to less than the amount required by paragraph (1)(B).
 
 #### (d) Reallotment
 

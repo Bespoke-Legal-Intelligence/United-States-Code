@@ -12,7 +12,7 @@ The purpose of this subpart is to provide additional Federal financial assistanc
 
 &emsp;(2) providing technical assistance to States and local units of government;
 
-&emsp;(3) undertaking projects which are national or multijurisdictional in scope and which address the purposes specified in section 3752 of this title; and
+&emsp;(3) undertaking projects which are national or multijurisdictional in scope and which address the purposes specified in section 3751(b) of this title; and
 
 &emsp;(4) providing financial assistance to public agencies and private nonprofit organizations for demonstration programs which, in view of previous research or experience, are likely to be a success in more than one jurisdiction.
 
@@ -34,13 +34,21 @@ In carrying out this subpart, the Director is authorized to make grants to, or e
 
 &emsp;(B) is designed primarily to provide material resources and supplies, and that activity would not justify an evaluation.
 
-(Pub. L. 90–351, title I, §510, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4335; amended Pub. L. 101–647, title XVIII, §1801(a)(2), Nov. 29, 1990, 104 Stat. 4847; Pub. L. 103–322, title XXXII, §320702(a), Sept. 13, 1994, 108 Stat. 2121; Pub. L. 105–277, div. A, §101(b) \[title I, §120(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–70.)
+#### (d) Limitations as to non-governmental entities
+
+No grants or contracts under subsection (b) of this section may be made, entered into, or used, directly or indirectly, to provide any security enhancements or any equipment to any non-governmental entity that is not engaged in law enforcement or law enforcement support, criminal or juvenile justice, or delinquency prevention.
+
+(Pub. L. 90–351, title I, §510, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4335; amended Pub. L. 101–647, title XVIII, §1801(a)(2), Nov. 29, 1990, 104 Stat. 4847; Pub. L. 103–322, title XXXII, §320702(a), Sept. 13, 1994, 108 Stat. 2121; Pub. L. 105–277, div. A, §101(b) \[title I, §120(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–70; Pub. L. 107–273, div. A, title II, §203(a)(3), (4), Nov. 2, 2002, 116 Stat. 1775.)
 
 #### Prior Provisions
 
 For prior section 510 of Pub. L. 90–351 and prior section 3760 of this title, see note set out preceding section 3750 of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(3). Pub. L. 107–273, §203(a)(3), substituted “3751(b)” for “3752”.
+
+Subsec. (d). Pub. L. 107–273, §203(a)(4), added subsec. (d).
 
 1998—Subsec. (a)(1). Pub. L. 105–277, §101(b) \[title I, §120(a)(1)\], added par. (1) and struck out former par. (1) which read as follows: “undertaking educational and training programs for criminal justice personnel;”.
 

@@ -41,7 +41,7 @@ The net result has been a patchwork quilt of categories and classifications that
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2102, 8101, 8301 of this title; title 40 section 484d.
+This chapter is referred to in sections 2102, 8101, 8301 of this title; title 40 section 558.
 
 
 ---

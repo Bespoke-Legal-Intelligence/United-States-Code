@@ -14,7 +14,7 @@ The Governor of each State shall maintain records on—
 
 (1) Each year, in accordance with procedures established by the Administrator, the Governor of each State shall:
 
-&emsp;(A) submit to the Administrator a priority list of all schools under the authority of alocal educational agency within the State, without regard to the public or private nature of the school involved, that are candidates for abatement activities and other response actions; and
+&emsp;(A) submit to the Administrator a priority list of all schools under the authority of a local educational agency within the State, without regard to the public or private nature of the school involved, that are candidates for abatement activities and other response actions; and
 
 &emsp;(B) forward to the Administrator for each candidate for abatement activities and other response actions all applications for financial assistance prepared by the local educational agencies in accordance with the provisions of section 4014 of this title; and <sup>1</sup>
 
@@ -56,7 +56,7 @@ Subsec. (b)(1). Pub. L. 101–637, §5(b)(1), substituted “Each year, in accor
 
 Subsec. (b)(1)(A). Pub. L. 101–637, §§5(b)(2), (3), 14(b)(6)(B), substituted “abatement activities and other response actions” for “abatement”, struck out “and the Secretary of the Department of Education” after “submit to the Administrator”, and inserted “and” after semicolon at end.
 
-Subsec. (b)(1)(B). Pub. L. 101–637, §§5(b)(2), 14(b)(6)(B), (C), substituted “abatement activities and other response actions” for “abatement”, struck out “section 4012(b)(3) of this title and” before “section 4014”, and struck out “and the Secretary of the Department of Education” after “forward to the Administrator”.
+Subsec. (b)(1)(B). Pub. L. 101–637, §§5(b)(2), 14(b)(6)(B), (C), substituted “abatement activities and other response actions” for “abatement”, struck out “section4012(b)(3) of this title and” before “section 4014”, and struck out “and the Secretary of the Department of Education” after “forward to the Administrator”.
 
 Subsec. (b)(1)(C). Pub. L. 101–637, §5(b)(4), struck out subpar. (C) which read as follows: “forward to the Secretary of the Department of Education a copy of all information submitted to the Administrator in accordance with subsection (b)(3) of this section.”
 

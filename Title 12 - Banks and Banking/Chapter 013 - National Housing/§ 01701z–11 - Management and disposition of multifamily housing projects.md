@@ -122,7 +122,7 @@ For purposes of this section:
 
 #### (C) Sales price
 
-&emsp;&emsp;The initial sales price shall be reasonably related to the intended use of the projectafter sale, any rehabilitation requirements for the project, the rents for units in the project that can be supported by the market, the amount of rental assistance available for the project under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], the occupancy profile of the project (including family size and income levels for tenant families), and any other factors that the Secretary considers appropriate.
+&emsp;&emsp;The initial sales price shall be reasonably related to the intended use of the project after sale, any rehabilitation requirements for the project, the rents for units in the project that can be supported by the market, the amount of rental assistance available for the project under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\], the occupancy profile of the project (including family size and income levels for tenant families), and any other factors that the Secretary considers appropriate.
 
 #### (D) Community and tenant input
 
@@ -178,11 +178,11 @@ For purposes of this section:
 
 #### (e) Required assistance
 
-In disposing of multifamily housing property under this section, consistent with the goal ofsubsection (a)(3)(A) of this section, the Secretary shall take, separately or in combination with other actions under this subsection or subsection (f) of this section, one or more of the following actions:
+In disposing of multifamily housing property under this section, consistent with the goal of subsection (a)(3)(A) of this section, the Secretary shall take, separately or in combination with other actions under this subsection or subsection (f) of this section, one or more of the following actions:
 
 #### (1) Contract with owner for project-based assistance
 
-&emsp;In the case of multifamily housing projects that are acquired by a purchaser other than the Secretary at foreclosure or after sale by the Secretary, the Secretary may enter into contracts under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] (to the extent budget authority is available) with owners of the projects, subject to the following requirements:
+&emsp;In the case of multifamily housing projects that are acquired by a purchaser other than the Secretary at foreclosure or after sale by the Secretary, the Secretary may enter into contracts under section 8 of the United StatesHousing Act of 1937 \[42 U.S.C. 1437f\] (to the extent budget authority is available) with owners of the projects, subject to the following requirements:
 
 #### (A) Subsidized or formerly subsidized projects receiving mortgage-related assistance
 
@@ -296,7 +296,7 @@ In addition to the actions required under subsection (e) of this section for a s
 
 #### (4) Up-front grants
 
-&emsp;If the Secretary determines that action under this paragraph is more cost-effective than establishing rents pursuant to subsection (h)(2) of this section, the Secretary may utilize the budget authority provided for contracts issued under this section for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] to (in addition to providing project-based section 8 rental assistance) provide up-front grants for the necessary cost of rehabilitation and other related development costs.
+&emsp;If the Secretary determines that action under this paragraph is more cost-effective than establishing rents pursuant to subsection (h)(2) of this section, the Secretary may utilize the budget authority provided for contracts issued under this section for project-based assistance under section 8 of the United States Housing Act of 1937 \[42 U.S.C. 1437f\] to (in addition to providing project-based section 8 rental assistance) provide up-front grants forthe necessary cost of rehabilitation and other related development costs.
 
 #### (5) Tenant-based assistance
 
@@ -358,7 +358,7 @@ In addition to the actions required under subsection (e) of this section for a s
 
 #### (g) Protection for unassisted very low-income tenants
 
-For each multifamily housing project disposed of under this section, the Secretary shall require that, for any very low-income family who is a preexisting tenant of the project who (upon disposition) would be required to pay rent in an amount in excess of 30 percent of the adjusted income (as such term is defined in section 3(b) ofthe United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]) of the family—
+For each multifamily housing project disposed of under this section, the Secretary shall require that, for any very low-income family who is a preexisting tenant of the project who (upon disposition) would be required to pay rent in an amount in excess of 30 percent of the adjusted income (as such term is defined in section 3(b) of the United States Housing Act of 1937 \[42 U.S.C. 1437a(b)\]) of the family—
 
 &emsp;(1) for a period of 2 years beginning upon the date of the acquisition of the project by the purchaser under such disposition, the rent for the unit occupied by the family may not be increased above the rent charged immediately before acquisition;
 
@@ -486,7 +486,7 @@ Not later than June 1 of each year, the Secretary shall submit to the Congress a
 
 &emsp;(12) a description of the extent to which the provisions of this section and actions taken under this section have displaced tenants of multifamily housing projects;
 
-&emsp;(13) a description of any of the functions performed in connection with this section thatare contracted out to public or private entities or to States; and
+&emsp;(13) a description of any of the functions performed in connection with this section that are contracted out to public or private entities or to States; and
 
 &emsp;(14) a description of the activities carried out under subsection (i) of this section during the preceding year.
 
@@ -538,7 +538,7 @@ Pub. L. 100–242, §181(a), substituted introductory provisions and par. (1) fo
 
 &emsp;“(1) preserving the housing units so that at least those units which are occupied by low- and moderate-income persons or which are vacant, at the time of acquisition, are available to and affordable by such persons;”.
 
-Subsec. (b)(2). Pub. L. 100–242, §181(b), designated existing provisions as subpar. (A) and redesignated formercls. (A) to (D) as cls. (i) to (iv), substituted “subject to subsection (a) of this section that is owned by the Secretary (or for which the Secretary is mortgagee in possession)” for “, owned by the Secretary”, substituted “may determine; and” for “may determine.”, and added subpar. (B).
+Subsec. (b)(2). Pub. L. 100–242, §181(b), designated existing provisions as subpar. (A) and redesignated former cls. (A) to (D) as cls. (i) to (iv), substituted “subject to subsection (a) of this section that is owned by the Secretary (or for which the Secretary is mortgagee in possession)” for “, owned by the Secretary”, substituted “may determine; and” for “may determine.”, and added subpar. (B).
 
 Subsec. (c). Pub. L. 100–242, §181(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “Except where the Secretary has determined on a case-by-case basis that it would be clearly inappropriate, given the manner by which an individual project is to be managed or disposed of pursuant to subsection (a) of this section, the Secretary shall seek to—
 
@@ -602,7 +602,7 @@ Section 101(a) of Pub. L. 103–233 provided that: “The Congress finds that—
 
 &emsp;“(5) the inventory of insured and formerly insured multifamily housing projects is deteriorating, potentially endangering tenants and neighborhoods; and
 
-&emsp;“(6) the current statutory framework governing the disposition of multifamily housing projects effectively impedes the Government's ability to dispose ofproperties, protect tenants, and ensure that projects are maintained over time.”
+&emsp;“(6) the current statutory framework governing the disposition of multifamily housing projects effectively impedes the Government's ability to dispose of properties, protect tenants, and ensure that projects are maintained over time.”
 
 Section 184 of Pub. L. 100–242, as amended by Pub. L. 101–625, title V, §580, Nov. 28, 1990, 104 Stat. 4245, provided for establishment of demonstration program for multifamily housing disposition partnerships, together with requirements relating to participation by State housing finance agencies in sale of such housing and cooperation between Secretary of Housing and Urban Development and such agencies, as well as termination of such program at end of Sept. 30, 1991, with certain exceptions, with report to Congress required to be submitted by Secretary not later than 6 months after Sept. 30, 1991, prior to repeal by Pub. L. 103–233, title I, §102, Apr. 11, 1994, 108 Stat. 358.
 

@@ -32,7 +32,7 @@ In providing assistance under this part for the government of any independent st
 
 &emsp;(10) cooperate with the United States Government in uncovering all evidence regarding Americans listed as prisoners-of-war, or otherwise missing during American operations, who were detained in the former Soviet Union during the Cold War; and
 
-&emsp;(11) terminate support for the communist regime in Cuba, including removal of troops,closing military and intelligence facilities, including the military and intelligence facilities at Lourdes and Cienfuegos, and ceasing trade subsidies and economic, nuclear, and other assistance.
+&emsp;(11) terminate support for the communist regime in Cuba, including removal of troops, closing military and intelligence facilities, including the military and intelligence facilities at Lourdes and Cienfuegos, and ceasing trade subsidies and economic, nuclear, and other assistance.
 
 #### (b) Ineligibility for assistance
 
@@ -102,7 +102,7 @@ Assistance prohibited by subsection (b) of this section or any similar provision
 
 &emsp;&emsp;(G) assistance for the purposes described in the Cooperative Threat Reduction Act of 1993 (title XII of Public Law 103–160) \[22 U.S.C. 5951 et seq.\].
 
-(Pub. L. 87–195, pt. I, §498A, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3326; amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(b), (c)(1), (3), (d)(2), Mar. 12, 1996, 110 Stat. 795–797.)
+(Pub. L. 87–195, pt. I, §498A, as added Pub. L. 102–511, title II, §201, Oct. 24, 1992, 106 Stat. 3326;amended Pub. L. 103–236, title VIII, §826(c), Apr. 30, 1994, 108 Stat. 519; Pub. L. 104–114, title I, §106(b), (c)(1), (3), (d)(2), Mar. 12, 1996, 110 Stat. 795–797.)
 
 #### References in Text
 

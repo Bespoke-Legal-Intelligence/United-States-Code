@@ -4,7 +4,7 @@
 
 #### (1) Conditions for privilege
 
-&emsp;A report or result of a self-test (as that term is defined by regulations of the Board) shall beconsidered to be privileged under paragraph (2) if a creditor—
+&emsp;A report or result of a self-test (as that term is defined by regulations of the Board) shall be considered to be privileged under paragraph (2) if a creditor—
 
 &emsp;&emsp;(A) conducts, or authorizes an independent third party to conduct, a self-test of any aspect of a credit transaction by a creditor, in order to determine the level or effectiveness of compliance with this subchapter by the creditor; and
 

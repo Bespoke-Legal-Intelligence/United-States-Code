@@ -6,7 +6,7 @@
 
 &emsp;(A) direct placement of such veteran in employment;
 
-&emsp;(B) utilization of the services of disabled veterans outreach program specialists under section 4103A of this title; and
+&emsp;(B) utilization of employment, training, and placement services under chapter 41 of this title; and
 
 &emsp;(C) utilization of the job development and placement services of (i) programs under the Rehabilitation Act of 1973, (ii) the State employment service and the Veterans’ Employment Service of the Department of Labor, (iii) the Office of Personnel Management, (iv) any other public or nonprofit organization having placement services available, and (v) any for-profit entity in a case in which the Secretary has determined that services necessary to provide such assistance are available from such entity and that comparably effective services are not available, or cannot be obtained cost-effectively, from the entities described in subclauses (i) through (iv) of this clause.
 
@@ -14,7 +14,7 @@
 
 (2) In the case of a veteran described in clause (12) of section 3104(a) of this title who has trained under a State rehabilitation program with the objective of self-employment in a small business enterprise, the Secretary may, subject to the limitations and criteria provided for in such clause, provide such veteran with such supplementary equipment and initial stocks and supplies as are determined to be needed by such veteran if such supplementary equipment and initial stocks and supplies, or assistance in acquiring them, are not available through the State program or other sources.
 
-(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2183, §1517; amended Pub. L. 97–72, title III, §303(k), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–689, title II, §202(a), Nov. 18, 1988, 102 Stat. 4175; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–54, §14(c)(4), June 13, 1991, 105 Stat. 285; renumbered §3117 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(h), Oct. 9, 1996, 110 Stat. 3325.)
+(Added Pub. L. 96–466, title I, §101(a), Oct. 17, 1980, 94 Stat. 2183, §1517; amended Pub. L. 97–72, title III, §303(k), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 100–689, title II, §202(a), Nov. 18, 1988, 102 Stat. 4175; Pub. L. 101–237, title IV, §423(b)(1)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–54, §14(c)(4), June 13, 1991, 105 Stat. 285; renumbered §3117 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 104–275, title I, §101(h), Oct. 9, 1996, 110 Stat. 3325; Pub. L. 107–288, §4(e)(2), Nov. 7, 2002, 116 Stat. 2044.)
 
 #### References in Text
 
@@ -27,6 +27,8 @@ Section 8 of the Small Business Act (15 U.S.C. 633(b)), referred to in subsec. (
 Prior section 3117 was renumbered section 5317 of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(2)(B). Pub. L. 107–288 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “utilization of the services of disabled veterans outreach program specialists under section 4103A of this title; and”.
 
 1996—Subsec. (a)(1). Pub. L. 104–275 inserted “rated at 10 percent or more” after “disability”.
 

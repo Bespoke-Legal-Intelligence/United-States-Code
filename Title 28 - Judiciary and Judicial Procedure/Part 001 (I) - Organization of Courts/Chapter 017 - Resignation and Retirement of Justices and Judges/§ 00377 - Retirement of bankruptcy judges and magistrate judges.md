@@ -48,7 +48,7 @@ Calculation of Service.—(1) For purposes of calculating an annuity under this 
 
 &emsp;(B) each month of service shall be credited as one-twelfth of a year, and the fractional part of any month shall not be credited.
 
-(2)(A) In the case of an individual who is a bankruptcy judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a United States magistrate judge to whom this section applies, and any service of that individual as a full-timejudicial officer who performed the duties of a magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
+(2)(A) In the case of an individual who is a bankruptcy judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a United States magistrate judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of a magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
 (B) In the case of an individual who is a magistrate judge to whom this section applies and who retires under this section or who is removed from office under subsection (d) upon the sole ground of mental or physical disability, any service of that individual as a bankruptcy judge to whom this section applies, and any service of that individual as a full-time judicial officer who performed the duties of magistrate judge and a bankruptcy judge at the same time, shall be included for purposes of calculating years of service under subsection (a), (b), (c), or (d), as the case may be.
 
@@ -176,7 +176,7 @@ Spouses and former spouses.—(A) Payment of the lump-sum credit under paragraph
 
 &emsp;&emsp;&emsp;(II) payment of the lump-sum credit or other payment would extinguish entitlement of the bankruptcy judge's or magistrate judge's spouse or former spouse to any portion of an annuity under subsection (i).
 
-&emsp;(B) Notification of a spouse or former spouse under this paragraph shall be made in accordance with such requirements as the Director of the Administrative Office of the United States Courts shall by regulation prescribe. The Director may provide under such regulations that subparagraph (A)(i) may be waived with respect to a spouse or former spouse if the bankruptcy judge or magistrate judge establishes to the satisfaction of the Director that the whereabouts of such spouse or former spouse cannot be determined.
+&emsp;(B) Notification of a spouse or former spouse under this paragraph shall be made in accordance with such requirements as the Director of the Administrative Office of the United States Courts shall by regulation prescribe. The Director may provide under such regulations that subparagraph (A)(i) may be waived with respect to a spouse or former spouse if the bankruptcy judge or magistrate judge establishes to the satisfaction of the Director thatthe whereabouts of such spouse or former spouse cannot be determined.
 
 &emsp;(C) The Director shall prescribe regulations under which this paragraph shall be applied in any case in which the Director receives two or more orders or decrees described in subparagraph (A).
 
@@ -234,9 +234,9 @@ Section 404 of the Act of November 6, 1978 (Public Law 95–598; 92 Stat. 2549),
 
 #### Amendments
 
-<b>1991</b>—Subsec. (f)(4). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
+1991—Subsec. (f)(4). Pub. L. 102–40 substituted “section 7296 of title 38” for “section 4096 of title 38”.
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–650, §325(b)(3)(A), substituted pars. (1) to (4) for “any annuity to which such judge or magistrate would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5.”
+1990—Subsec. (f). Pub. L. 101–650, §325(b)(3)(A), substituted pars. (1) to (4) for “any annuity to which such judge or magistrate would otherwise have been entitled under subchapter III of chapter 83, or under chapter 84 (except for subchapters III and VII), of title 5.”
 
 Subsec. (h). Pub. L. 101–650, §325(b)(3)(B), substituted “on or after” for “in or after” in concluding provisions.
 
@@ -320,7 +320,5 @@ Section 8 of Pub. L. 100–659 provided that: “The Director of the Administrat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 155, 375, 376, 604, 636 of this title; title 5 sections 8334, 8402, 8440b.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “receive—”.</i>
+This section is referred to in sections 155, 364, 375, 376, 604, 636 of this title; title 5 sections 8334, 8402, 8440b.
 

@@ -18,7 +18,7 @@
 
 (B) The Federal Bureau of Investigation may disseminate information obtained pursuant to this paragraph only as provided in guidelines approved by the Attorney General for foreign intelligence collection and foreign counterintelligence investigations conducted by the Federal Bureau of Investigation, and, with respect to dissemination to an agency of the United States, only if such information is clearly relevant to the authorized responsibilities of such agency.
 
-(C) On a semiannual basis the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate concerning all requests made pursuant to this paragraph.
+(C) On the dates provided in section 415b of title 50, the Attorney General shall fully inform the congressional intelligence committees (as defined in section 401a of title 50) concerning all requests made pursuant to this paragraph.
 
 (D) No financial institution, or officer, employee, or agent of such institution, shall disclose to any person that the Federal Bureau of Investigation has sought or obtained access to a customer's or entity's financial records under this paragraph.
 
@@ -36,7 +36,7 @@
 
 (4) The Government authority specified in paragraph (1) shall compile an annual tabulation of the occasions in which this section was used.
 
-(Pub. L. 95–630, title XI, §1114, Nov. 10, 1978, 92 Stat. 3707; Pub. L. 97–320, title IV, §432(b), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 99–569, title IV, §404, Oct. 27, 1986, 100 Stat. 3197; Pub. L. 107–56, title III, §358(f)(2), title V, §505(b), Oct. 26, 2001, 115 Stat. 327, 365.)
+(Pub. L. 95–630, title XI, §1114, Nov. 10, 1978, 92 Stat. 3707; Pub. L. 97–320, title IV, §432(b), Oct. 15, 1982, 96 Stat. 1527; Pub. L. 99–569, title IV, §404, Oct. 27, 1986, 100 Stat. 3197; Pub. L. 107–56, title III, §358(f)(2), title V, §505(b), Oct. 26, 2001, 115 Stat. 327, 365; Pub. L. 107–306, title VIII, §811(b)(9), Nov. 27, 2002, 116 Stat. 2426.)
 
 #### References in Text
 
@@ -45,6 +45,8 @@ Section 3421 of this title, referred to in subsec. (a)(1), was repealed by Pub. 
 Public Law 90–331, as amended, referred to in subsec. (a)(1)(B), is Pub. L. 90–331, June 6, 1968, 82 Stat. 170, as amended, which is set out as a note under section 3056 of Title 18, Crimes and Criminal Procedure.
 
 #### Amendments
+
+2002—Subsec. (a)(5)(C). Pub. L. 107–306 substituted “On the dates provided in section 415b of title 50, the Attorney General shall fully inform the congressional intelligence committees (as defined in section 401a of title 50)” for “On a semiannual basis the Attorney General shall fully inform the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate”.
 
 2001—Subsec. (a)(1)(C). Pub. L. 107–56, §358(f)(2), added subpar. (C).
 
@@ -60,9 +62,13 @@ Amendments by title III of Pub. L. 107–56 to terminate effective on and after 
 
 Amendment by section 358(f)(2) of Pub. L. 107–56 applicable with respect to reports filed or records maintained on, before, or after Oct. 26, 2001, see section 358(h) of Pub. L. 107–56, set out as a note under section 1829b of this title.
 
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3402, 3409 of this title.
+This section is referred to in sections 3402, 3409 of this title; title 50 section 415b.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,5 +6,5 @@ Any limitation on the use of funds contained in an Act providing appropriations 
 
 #### Amendments
 
-1988—Pub. L. 100–713 inserted section catchline and amended text generally. Prior to amendment, text read as follows: “Within one year from December 17, 1980, the Secretary shall submit to the Congress a resource allocation plan. Such plan shall explain the future allocation of services and funds among the service population of the Service and shall provide a schedule for reducing deficiencies in resources of tribes and nontribal specific entities.”
+1988—Pub. L. 100–713 inserted section catchline and amended text generally. Prior to amendment, text readas follows: “Within one year from December 17, 1980, the Secretary shall submit to the Congress a resource allocation plan. Such plan shall explain the future allocation of services and funds among the service population of the Service and shall provide a schedule for reducing deficiencies in resources of tribes and nontribal specific entities.”
 

@@ -42,7 +42,7 @@ Variable, Additional, and Board Certification Special Pay.—(1) An officer who 
 
 (b)
 
-Incentive Special Pay.—(1) Subject to subsection (c) and paragraph (2) and under regulations prescribed under section 303a(a) of this title, an officer who is entitled to variable special pay under subsection (a)(2) may be paid incentive special pay for any twelve-month period during which the officer is not undergoing medical internship or initial residency training. No payment to an officer under this subsection may exceed $16,000 for any twelve-month period beginning in fiscal year 1990, $22,000 for any twelve-month period beginning in fiscal year 1991, $29,000 for any twelve-month period beginning in fiscal year 1992, and $36,000 for any twelve-month period beginning after fiscal year 1992.
+Incentive Special Pay.—(1) Subject to subsection (c) and paragraph (2) and under regulations prescribed under section 303a(a) of this title, an officer who is entitled to variable special pay under subsection (a)(2) may be paid incentive special pay for any twelve-month period during which the officer is not undergoing medical internship or initial residency training. The amount of incentive special pay paid to an officer under this subsection may not exceed $50,000 for any 12-month period.
 
 (2) An officer is not eligible for incentive special pay under paragraph (1) unless the Secretary concerned has determined that such officer is qualified in the medical profession.
 
@@ -90,7 +90,7 @@ Reserve Medical Officers Special Pay.—(1) A reserve medical officer described 
 
 Effect of Discharge in Bankruptcy.—A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or under subsection (c)(2) or (f). This paragraph applies to any case commenced under title 11 after September 30, 1985.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 464; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 88–132, §4, Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §53, Nov. 2, 1966, 80 Stat. 1122; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §201, July 9, 1973, 87 Stat. 149; Pub. L. 93–274, §1(1), May 6, 1974, 88 Stat. 94; Pub. L. 96–284, §2(a), June 28, 1980, 94 Stat. 587; Pub. L. 96–513, title IV, §415, Dec. 12, 1980, 94 Stat. 2906; Pub. L. 99–145, title VI, §640, Nov. 8, 1985, 99 Stat. 652; Pub. L. 99–661, div. A, title XIII, §§1342(d), 1343(b)(1), Nov. 14, 1986, 100 Stat. 3991, 3995; Pub. L. 100–180, div. A, title VII, §716(a), Dec. 4, 1987, 101 Stat. 1113; Pub. L. 101–189, div. A, title VII, §702(a)–(f), Nov. 29, 1989, 103 Stat. 1468, 1469; Pub. L. 101–510, div. A, title VI, §612, Nov. 5, 1990, 104 Stat. 1577; Pub. L. 106–398, §1 \[\[div. A\], title VI, §625(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 464; Pub. L. 88–2, §5, Mar. 28, 1963, 77 Stat. 4; Pub. L. 88–132, §4, Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §53, Nov. 2, 1966, 80 Stat. 1122; Pub. L. 90–40, §5, June 30, 1967, 81 Stat. 105; Pub. L. 92–129, title I, §104, Sept. 28, 1971, 85 Stat. 355; Pub. L. 93–64, title II, §201, July 9, 1973, 87 Stat. 149; Pub. L. 93–274, §1(1), May 6, 1974, 88 Stat. 94; Pub. L. 96–284, §2(a), June 28, 1980, 94 Stat. 587; Pub. L. 96–513, title IV, §415, Dec. 12, 1980, 94 Stat. 2906; Pub. L. 99–145, title VI, §640, Nov. 8, 1985, 99 Stat. 652; Pub. L. 99–661, div. A, title XIII, §§1342(d), 1343(b)(1), Nov. 14, 1986, 100 Stat. 3991, 3995; Pub. L. 100–180, div. A, title VII, §716(a), Dec. 4, 1987, 101 Stat. 1113; Pub. L. 101–189, div. A, title VII, §702(a)–(f), Nov. 29, 1989, 103 Stat. 1468, 1469; Pub. L. 101–510, div. A, title VI, §612, Nov. 5, 1990, 104 Stat. 1577; Pub. L. 106–398, §1 \[\[div. A\], title VI, §625(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153; Pub. L. 107–314, div. A, title VI, §615(c), Dec. 2, 2002, 116 Stat. 2568.)
 
 Historical and Revision Notes
 
@@ -137,6 +137,8 @@ In subsection (a), clause (1) is substituted for section 234(a)(1), (2), and (3)
 In subsection (c), the words “disability retirement pay” are omitted as covered by the words “retired pay”. Section 234(b) (2d proviso) of existing title 37 is omitted as obsolete.
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–314 inserted second sentence and struck out former second sentence which read as follows: “No payment to an officer under this subsection may exceed $16,000 for any twelve-month period beginning in fiscal year 1990, $22,000 for any twelve-month period beginning in fiscal year 1991, $29,000 for any twelve-month period beginning in fiscal year 1992, and $36,000 for any twelve-month period beginning after fiscal year 1992.”
 
 2000—Subsec. (h)(1). Pub. L. 106–398 inserted before period at end “, including active duty in the form of annual training, active duty for training, and active duty for special work”.
 
@@ -265,6 +267,10 @@ Amendment by Pub. L. 93–64 effective July 1, 1973, see section 206 of Pub. L. 
 #### Effective Date of 1963 Amendment
 
 Amendment by Pub. L. 88–132 effective Oct. 1, 1963, see section 14 of Pub. L. 88–132, set out as a note under section 201 of this title.
+
+#### Application of Increase
+
+In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonusthat may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under section 301d of this title.
 
 #### Prohibition on Use of Appropriations To Pay Bonuses to Certain Regular or Reserve Medical Officers of Public Health Service
 

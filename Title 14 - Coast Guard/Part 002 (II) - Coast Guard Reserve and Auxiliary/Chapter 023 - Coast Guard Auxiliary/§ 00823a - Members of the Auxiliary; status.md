@@ -20,9 +20,11 @@
 
 &emsp;(8) The resolution of claims relating to damage to or loss of personal property of the member incident to service under the Military Personnel and Civilian Employees’ Claims Act of 1964 (31 U.S.C. 3721).<sup>1</sup>
 
+&emsp;(9) On or after January 1, 2001, section 651 of Public Law 104–208.
+
 (c) A member of the Auxiliary, while assigned to duty, shall be deemed to be a person acting under an officer of the United States or an agency thereof for purposes of section 1442(a)(1) of title 28.
 
-(Added Pub. L. 104–324, title IV, §403(a), Oct. 19, 1996, 110 Stat. 3923.)
+(Added Pub. L. 104–324, title IV, §403(a), Oct. 19, 1996, 110 Stat. 3923; amended Pub. L. 107–295, title IV, §415, Nov. 25, 2002, 116 Stat. 2121.)
 
 #### References in Text
 
@@ -33,6 +35,12 @@ The Public Vessels Act, referred to in subsec. (b)(3), is act Mar. 3, 1925, ch. 
 The Suits in Admiralty Act, referred to in subsec. (b)(4), is act Mar. 9, 1920, ch. 95, 41 Stat. 525, as amended, which is classified generally to chapter 20 (§741 et seq.) of Title 46, Appendix. For complete classification of this Act to the Code, see Short Title note set out under section 741 of Title 46, Appendix, and Tables.
 
 The Military Personnel and Civilian Employees’ Claims Act of 1964, referred to in subsec. (b)(8), is Pub. L. 88–558, Aug. 31, 1964, 78 Stat. 767, as amended, which enacted sections 240 to 243 of former Title 31, Money and Finance, amended section 2735 of Title 10, Armed Forces, and repealed section 490 of this title and section 2732 of Title 10, and which was repealed by Pub. L. 97–258, §5(b), Sept. 13, 1982, 96 Stat. 1068, the first section of which enacted Title 31, Money and Finance. For disposition of sections of former Title 31 into revised Title 31, see Table preceding section 101 of Title 31. For complete classification of this Act to the Code, see Tables.
+
+Section 651 of Public Law 104–208, referred to in subsec. (b)(9), is section 101(f) \[title VI, §651\] of Pub. L. 104–208, which is set out as a note under section 8133 of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2002—Subsec. (b)(9). Pub. L. 107–295 added par. (9).
 
 #### Section Referred to in Other Sections
 

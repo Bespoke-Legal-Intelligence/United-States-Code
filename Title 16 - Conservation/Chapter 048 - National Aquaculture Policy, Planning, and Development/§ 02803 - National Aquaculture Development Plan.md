@@ -24,7 +24,7 @@ The Plan shall—
 
 &emsp;&emsp;(D) nutrition and the development of economical feeds, including natural food sources,
 
-&emsp;&emsp;(E) life history, genetics, physiology, pathology, and disease control (including research regarding organisms that may not beharmful to fish and shellfish, but are injurious to humans),
+&emsp;&emsp;(E) life history, genetics, physiology, pathology, and disease control (including research regarding organisms that may not be harmful to fish and shellfish, but are injurious to humans),
 
 &emsp;&emsp;(F) processing and market development,
 
@@ -52,7 +52,7 @@ The Plan shall specify—
 
 &emsp;(A) the responsibilities conferred on the respective Secretaries by law or by any executive action having the effect of law (including, but not limited to, Reorganization Plan Numbered 4 of 1970);
 
-&emsp;(B) the experience, expertise, and other appropriate resources that the department of each such Secretary may have with respect to the action required under the activity concerned; and
+&emsp;(B) the experience, expertise, and other appropriate resources that the department ofeach such Secretary may have with respect to the action required under the activity concerned; and
 
 &emsp;(C) the concurrence of the Secretaries.
 

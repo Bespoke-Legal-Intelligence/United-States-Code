@@ -17,7 +17,13 @@
 | [<b>31.</b>](Subpart%20B%20-%20Employment%20and%20Retention/Chapter%20031%20-%20Authority%20for%20Employment/README.md) | <b>Authority for Employment</b> | <b>3101</b> |
 | [<b>33.</b>](Subpart%20B%20-%20Employment%20and%20Retention/Chapter%20033%20-%20Examination%2C%20Selection%2C%20and%20Placement/README.md) | <b>Examination, Selection, and Placement</b> | <b>3301</b> |
 | [<b>34.</b>](Subpart%20B%20-%20Employment%20and%20Retention/Chapter%20034%20-%20Part-Time%20Career%20Employment%20Opportunities/README.md) | <b>Part-time career employment opportunities</b> | <b>3401</b> |
-| [<b>35.</b>](Subpart%20B%20-%20Employment%20and%20Retention/Chapter%20035%20-%20Retention%20Preference%2C%20Restoration%2C%20and%20Reemployment/README.md) | <b>Retention Preference, Restoration, and Reemployment</b> | <b>3501</b> |
+| [<b>35.</b>](Subpart%20B%20-%20Employment%20and%20Retention/Chapter%20035%20-%20Retention%20Preference%2C%20Voluntary%20Separation%20Incentive%20Payments%2C%20Restoration%2C%20and%20Reemployment/README.md) | <b>Retention Preference, Restoration, and Reemployment </b><b><sup>1</sup></b> | <b>3501</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>37.</b>](Subpart%20B%20-%20Employment%20and%20Retention/Chapter%20037%20-%20Information%20Technology%20Exchange%20Program/README.md) | <b>Information Technology Exchange Program</b> | <b>3701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -29,6 +35,7 @@
 | [<b>43.</b>](Subpart%20C%20-%20Employee%20Performance/Chapter%20043%20-%20Performance%20Appraisal/README.md) | <b>Performance Appraisal</b> | <b>4301</b> |
 | [<b>45.</b>](Subpart%20C%20-%20Employee%20Performance/Chapter%20045%20-%20Incentive%20Awards/README.md) | <b>Incentive Awards</b> | <b>4501</b> |
 | [<b>47.</b>](Subpart%20C%20-%20Employee%20Performance/Chapter%20047%20-%20Personnel%20Research%20Programs%20and%20Demonstration%20Projects/README.md) | <b>Personnel Research Programs and Demonstration Projects</b> | <b>4701</b> |
+| [<b>48.</b>](Subpart%20C%20-%20Employee%20Performance/Chapter%20048%20-%20Agency%20Personnel%20Demonstration%20Project/README.md) | <b>Agency Personnel Demonstration Project</b> | <b>4801</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -93,11 +100,23 @@
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>95.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20095%20-%20Personnel%20Flexibilities%20Relating%20to%20the%20Internal%20Revenue%20Service/README.md) | <b>Personnel flexibilities </b><b><sup>1</sup></b> <b>relating </b><b><sup>1</sup></b> <b>to the Internal Revenue Service</b> | <b>9501</b> |
+| [<b>95.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20095%20-%20Personnel%20Flexibilities%20Relating%20to%20the%20Internal%20Revenue%20Service/README.md) | <b>Personnel flexibilities </b><b><sup>2</sup></b> <b>relating </b><b><sup>2</sup></b> <b>to the Internal Revenue Service</b> | <b>9501</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
+| [<b>97.</b>](Subpart%20I%20-%20Miscellaneous/Chapter%20097%20-%20Department%20of%20Homeland%20Security/README.md) | <b>Department of Homeland Security</b> | <b>9701</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–347, title II, §209(c)(3), Dec. 17, 2002, 116 Stat. 2930, added item for chapter 37.
+
+Pub. L. 107–296, title VIII, §841(a)(3), Nov. 25, 2002, 116 Stat. 2233, added item for chapter 97.
+
+Pub. L. 107–123, §8(d)(1)(A), Jan. 16, 2002, 115 Stat. 2399, added item for chapter 48.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(f)(1)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–282, substituted “and Other Purposes” for “Purposes” in item for chapter 91.
 

@@ -8,3 +8,7 @@ No officer or agency of the United States shall have any authority to require th
 
 1980—Pub. L. 96–515 struck out provision requiring the Council, whenever it transmits any legislative recommendations, or testimony, or comments on legislation to the President or Office of Management and Budget, to concurrently transmit copies thereof to the House Committee on Interior and Insular Affairs and the Senate Committee on Interior and Insular Affairs.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 40 section 3303.
+

@@ -135,6 +135,49 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER IV—THE MADRID PROTOCOL
+
+|  |  |
+| :--- | ---: |
+| [1141\.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141%20-%20Definitions.md) | Definitions. |
+| [1141a.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141a%20-%20International%20applications%20based%20on%20United%20States%20applications%20or%20registrations.md) | International applications based on United States applications or registrations. |
+| (a) | In general. |
+| (b) | Qualified owners. |
+| [1141b.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141b%20-%20Certification%20of%20the%20international%20application.md) | Certification of the international application. |
+| (a) | Certification procedure. |
+| (b) | Transmittal. |
+| [1141c.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141c%20-%20Restriction%2C%20abandonment%2C%20cancellation%2C%20or%20expiration%20of%20a%20basic%20application%20or%20basic%20registration.md) | Restriction, abandonment, cancellation, or expiration of a basic application or basic registration. |
+| [1141d.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141d%20-%20Request%20for%20extension%20of%20protection%20subsequent%20to%20international%20registration.md) | Request for extension of protection subsequent to international registration. |
+| [1141e.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141e%20-%20Extension%20of%20protection%20of%20an%20international%20registration%20to%20the%20United%20States%20under%20the%20Madrid%20Protocol.md) | Extension of protection of an international registration to the United States under the Madrid Protocol. |
+| (a) | In general. |
+| (b) | If the United States is office of origin. |
+| [1141f.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141f%20-%20Effect%20of%20filing%20a%20request%20for%20extension%20of%20protection%20of%20an%20international%20registration%20to%20the%20United%20States.md) | Effect of filing a request for extension of protection of an international registration to the United States. |
+| (a) | Requirement for request for extension of protection. |
+| (b) | Effect of proper filing. |
+| [1141g.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141g%20-%20Right%20of%20priority%20for%20request%20for%20extension%20of%20protection%20to%20the%20United%20States.md) | Right of priority for request for extension of protection to the United States. |
+| [1141h.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141h%20-%20Examination%20of%20and%20opposition%20to%20request%20for%20extension%20of%20protection%3B%20notification%20of%20refusal.md) | Examination of and opposition to request for extension of protection; notification of refusal. |
+| (a) | Examination and opposition. |
+| (b) | Notification of refusal. |
+| (c) | Notice to International Bureau. |
+| (d) | Designation of agent for service of process. |
+| [1141i.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141i%20-%20Effect%20of%20extension%20of%20protection.md) | Effect of extension of protection. |
+| (a) | Issuance of extension of protection. |
+| (b) | Effect of extension of protection. |
+| [1141j.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141j%20-%20Dependence%20of%20extension%20of%20protection%20to%20the%20United%20States%20on%20the%20underlying%20international%20registration.md) | Dependence of extension of protection to the United States on the underlying international registration. |
+| (a) | Effect of cancellation of international registration. |
+| (b) | Effect of failure to renew international registration. |
+| (c) | Transformation of an extension of protection into a United States application. |
+| [1141k.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141k%20-%20Affidavits%20and%20fees.md) | Affidavits and fees. |
+| (a) | Required affidavits and fees. |
+| (b) | Contents of affidavit. |
+| (c) | Notification. |
+| (d) | Service of notice or process. |
+| 1141<i>l</i>. | Assignment of an extension of protection. |
+| [1141m.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141m%20-%20Incontestability.md) | Incontestability. |
+| [1141n.](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/%C2%A7%2001141n%20-%20Rights%20of%20extension%20of%20protection.md) | Rights of extension of protection. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Effective Date
 
 This chapter, act July 5, 1946, ch. 540, 60 Stat. 427, became effective one year from July 5, 1946, and repealed chapter 3 of this title as of that date. See notes under section 1051 of this title.
@@ -155,3 +198,4 @@ This chapter is referred to in section 1129 of this title; title 18 section 2320
 - [Subchapter 001 (I) - The Principal Register](Subchapter%20001%20%28I%29%20-%20The%20Principal%20Register/README.md)
 - [Subchapter 002 (II) - The Supplemental Register](Subchapter%20002%20%28II%29%20-%20The%20Supplemental%20Register/README.md)
 - [Subchapter 003 (III) - General Provisions](Subchapter%20003%20%28III%29%20-%20General%20Provisions/README.md)
+- [Subchapter 004 (IV) - The Madrid Protocol](Subchapter%20004%20%28IV%29%20-%20The%20Madrid%20Protocol/README.md)

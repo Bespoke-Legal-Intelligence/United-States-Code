@@ -30,7 +30,3 @@ In paragraph (2), the words “other agencies in any branch of the Government”
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 7 section 5922.
-

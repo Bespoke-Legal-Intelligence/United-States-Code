@@ -12,7 +12,15 @@ After notice and opportunity for public comment are given, as provided for in su
 
 The Secretary may, from time to time, amend a dairy products promotion and research order.
 
-(Pub. L. 98–180, title I, §112, Nov. 29, 1983, 97 Stat. 1137.)
+#### (d) Order implementation and international trade obligations
+
+The Secretary, in consultation with the United States Trade Representative, shall ensure that the order is implemented in a manner consistent with the international trade obligations of the Federal Government.
+
+(Pub. L. 98–180, title I, §112, Nov. 29, 1983, 97 Stat. 1137; Pub. L. 107–171, title I, §1505(g), May 13, 2002, 116 Stat. 209.)
+
+#### Amendments
+
+2002—Subsec. (d). Pub. L. 107–171, which directed the addition of subsec. (d) at the end of section 112 of the Dairy Promotion Stabilization Act of 1983, was executed by adding subsec. (d) at the end of this section to reflect the probable intent of Congress.
 
 #### Section Referred to in Other Sections
 

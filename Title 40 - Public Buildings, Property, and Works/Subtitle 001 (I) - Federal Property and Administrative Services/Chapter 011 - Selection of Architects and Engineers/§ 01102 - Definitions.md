@@ -1,0 +1,46 @@
+### §1102. Definitions
+
+In this chapter, the following definitions apply:
+
+&emsp;(1)
+
+Agency head.—The term “agency head” means the head of a department, agency, or bureau of the Federal Government.
+
+&emsp;(2)
+
+Architectural and engineering services.—The term “architectural and engineering services” means—
+
+&emsp;&emsp;(A) professional services of an architectural or engineering nature, as defined by state law, if applicable, that are required to be performed or approved by a person licensed, registered, or certified to provide the services described in this paragraph;
+
+&emsp;&emsp;(B) professional services of an architectural or engineering nature performed by contract that are associated with research, planning, development, design, construction, alteration, or repair of real property; and
+
+&emsp;&emsp;(C) other professional services of an architectural or engineering nature, or incidental services, which members of the architectural and engineering professions (and individuals in their employ) may logically or justifiably perform, including studies, investigations, surveying and mapping, tests, evaluations, consultations, comprehensive planning, program management, conceptual designs, plans and specifications, value engineering, construction phase services, soils engineering, drawing reviews, preparation of operating and maintenance manuals, and other related services.
+
+&emsp;(3)
+
+Firm.—The term “firm” means an individual, firm, partnership, corporation, association, or other legal entity permitted by law to practice the profession of architecture or engineering.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1129.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1102
+
+40:541.
+
+June 30, 1949, ch. 288, title IX, §901, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1278; Pub. L. 100–656, title VII, §742, Nov. 15, 1988, 102 Stat. 3897; Pub. L. 100–679, §8, Nov. 17, 1988, 102 Stat. 4068.
+
+In clause (1), the words “Secretary, Administrator, or” are omitted as unnecessary.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 31 section 1105; title 41 section 253m.
+

@@ -4,7 +4,7 @@
 
 Congress finds that—
 
-&emsp;(1) fundamental changes in the demographics and economics of family life in theUnited States over the past 20 years have had a profound effect on children and their parents;
+&emsp;(1) fundamental changes in the demographics and economics of family life in the United States over the past 20 years have had a profound effect on children and their parents;
 
 &emsp;(2) since 1966, the number of women working outside the home has increased by 92 percent and the number of two earner families has increased by over 50 percent;
 

@@ -34,7 +34,7 @@ General Penalty.—(1) A person is liable to the United States Government for a 
 
 (5)
 
-Penalty for diversion of aviation revenues.—The amount of a civil penalty assessedunder this section for a violation of section 47107(b) of this title (or any assurance made under such section) or section 47133 of this title may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
+Penalty for diversion of aviation revenues.—The amount of a civil penalty assessed under this section for a violation of section 47107(b) of this title (or any assurance made under such section) or section 47133 of this title may be increased above the otherwise applicable maximum amount under this section to an amount not to exceed 3 times the amount of revenues that are used in violation of such section.
 
 (6)
 
@@ -43,6 +43,10 @@ Air service termination notice.—Notwithstanding paragraph (1), the maximum civ
 (7)
 
 Consumer protection.—Notwithstanding paragraphs (1) and (4), the maximum civil penalty for violating section 40127 or 41712 (including a regulation prescribed or order issued under such section) or any other regulation prescribed by the Secretary that is intended to afford consumer protection to commercial air transportation passengers, shall be $2,500 for each violation.
+
+(8)
+
+Aviation security violations.—Notwithstanding paragraphs (1) and (2) of this subsection, the maximum civil penalty for violating chapter 449 or another requirement under this title administered by the Under Secretary of Transportation for Security shall be $10,000; except that the maximum civil penalty shall be $25,000 in the case of a person operating an aircraft for the transportation of passengers or property for compensation (except an individual serving as an airman).
 
 (b)
 
@@ -98,7 +102,7 @@ Administrative Imposition of Penalties.—(1) In this subsection—
 
 (D) When an individual files an appeal with the Board under this paragraph, the order of the Administrator is stayed.
 
-(6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator when the Administrator decides that an order of the Boardunder paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
+(6) An individual substantially affected by an order of the Board under paragraph (5) of this subsection, or the Administrator when the Administrator decides that an order of the Board under paragraph (5) will have a significant adverse impact on carrying out this part, may obtain judicial review of the order under section 46110 of this title. The Administrator shall be made a party to the judicial review proceedings. Findings of fact of the Board are conclusive if supported by substantial evidence.
 
 (7)(A) The Administrator may impose a penalty on a person (except an individual acting as a pilot, flight engineer, mechanic, or repairman) only after notice and an opportunity for a hearing on the record.
 
@@ -160,7 +164,7 @@ Nonapplication.—(1) This section does not apply to the following when performi
 
 (2) The appropriate military authority is responsible for taking necessary disciplinary action and submitting to the Secretary (or the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or the Administrator with respect to aviation safety duties and powers designated to be carried out by the Administrator) a timely report on action taken.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1231; Pub. L. 103–305, title I, §112(c), title II, §207(c), Aug. 23, 1994, 108 Stat. 1575, 1588; Pub. L. 103–429, §6(60), Oct. 31, 1994, 108 Stat. 4385; Pub. L. 104–264, title V, §502(c), title VIII, §804(b), title XII, §1220(b), Oct. 9, 1996, 110 Stat. 3263, 3271, 3286; Pub. L. 104–287, §5(77), Oct. 11, 1996, 110 Stat. 3396; Pub. L. 105–102, §3(c)(4), Nov. 20, 1997, 111 Stat. 2215; Pub. L. 106–181, title II, §222, title V, §§503(c), 504(b), 519(c), title VII, §§707(b), 720, Apr. 5, 2000, 114 Stat. 102, 133, 134, 149, 158, 163; Pub. L. 106–424, §15, Nov. 1, 2000, 114 Stat. 1888; Pub. L. 107–71, title I, §140(d)(1)–(4), Nov. 19, 2001, 115 Stat. 642; Pub. L. 107–296, title XVI, §1602, Nov. 25, 2002, 116 Stat. 2312.)
 
 Historical and Revision Notes
 
@@ -346,6 +350,8 @@ Section 41715, referred to in subsec. (a)(4), (6), was renumbered section 41719 
 
 #### Amendments
 
+2002—Subsec. (a)(8). Pub. L. 107–296 added par. (8).
+
 2001—Subsec. (d)(2). Pub. L. 107–71, §140(d)(1)(C), inserted “Under Secretary or” before “Administrator shall”.
 
 Pub. L. 107–71, §140(d)(1)(B), inserted after first sentence “The Under Secretary of Transportation for Security may impose a civil penalty for a violation of chapter 449 (except sections 44902, 44903(d), 44907(a)–(d)(1)(A), 44907(d)(1)(C)–(f), 44908, and 44909) or a regulation prescribed or order issued under such chapter 449.”
@@ -358,7 +364,7 @@ Subsec. (d)(8). Pub. L. 107–71, §140(d)(3), substituted “Under Secretary, A
 
 Subsec. (h)(2). Pub. L. 107–71, §140(d)(4), inserted “the Under Secretary of Transportation for Security with respect to security duties and powers designated to be carried out by the Under Secretary or” after “(or”.
 
-2000—Subsec. (a)(1)(A). Pub. L. 106–181, §§519(c), 720(1), substituted “subchapter II or III of chapter 421” for “subchapter II of chapter 421” and struck out “46302, 46303, or” before “47107(b) (including”.
+2000—Subsec. (a)(1)(A). Pub. L. 106–181, §§519(c), 720(1), substituted “subchapter II or III of chapter 421” for“subchapter II of chapter 421” and struck out “46302, 46303, or” before “47107(b) (including”.
 
 Subsec. (a)(3)(C). Pub. L. 106–181, §503(c), added subpar. (C).
 
@@ -434,6 +440,10 @@ Subsec. (d)(7)(D). Pub. L. 103–305, §112(c)(3), added subpar. (D).
 
 Subsec. (f)(1)(A)(i). Pub. L. 103–429, §6(60)(B), substituted “any of sections 44701(a)” for “section 44701(a)”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
@@ -450,7 +460,7 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 Amendment by section 502(c) of Pub. L. 104–264 applicable to any air carrier hiring an individual as a pilot whose application was first received by the carrier on or after the 120th day following Oct. 9, 1996, see section 502(d) of Pub. L. 104–264, set out as a note under section 30305 of this title.
 
-Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal yearsbeginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
 
 #### Effective Date of 1994 Amendments
 
@@ -461,6 +471,10 @@ Amendment by section 207(c) of Pub. L. 103–305 effective Feb. 1, 1995, see sec
 #### Savings Provision
 
 Pub. L. 102–345, §2(c), Aug. 26, 1992, 106 Stat. 925, provided that: “Notwithstanding subsections (a) and (b) of this section, sections 901(a)(3) and 905 of the Federal Aviation Act of 1958 \[Pub. L. 85–726\] as in effect on July 31, 1992, shall continue in effect on and after such date of enactment with respect to violations of the Federal Aviation Act of 1958 occurring before such date of enactment.”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

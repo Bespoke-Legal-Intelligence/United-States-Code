@@ -14,7 +14,7 @@ Term of Office.—The term of office of the judges of the Court of Appeals for V
 
 (d)
 
-Chief Judge.—(1) The chief judge of the Court shall be the judge of the Court in regular active service who is senior in commission among the judges of the Court who—
+Chief Judge.—(1) The chief judge of the Court shall be the judge of the Court in regularactive service who is senior in commission among the judges of the Court who—
 
 &emsp;(A) have served for one or more years as judges of the Court; and
 
@@ -48,13 +48,13 @@ Removal.—(1) A judge of the Court may be removed from office by the President 
 
 (g)
 
-Rules.—(1) The Court shall prescribe rules, consistent with the provisions of section 372(c) of title 28, establishing procedures for the filing of complaints with respect to the conduct of any judge of the Court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, the Court shall have the powers granted to a judicial council under such section.
+Rules.—(1) The Court shall prescribe rules, consistent with the provisions of chapter 16 of title 28, establishing procedures for the filing of complaints with respect to the conduct of any judge of the Court and for the investigation and resolution of such complaints. In investigating and taking action with respect to any such complaint, the Court shall have the powers granted to a judicial council under such chapter.
 
-(2) The provisions of paragraphs (7) through (15) of section 372(c) of title 28, regarding referral or certification to, and petition for review in, the Judicial Conference of the United States and action thereon, shall apply to the exercise by the Court of the powers of a judicial council under paragraph (1) of this subsection. The grounds for removal from office specified in subsection (f)(1) shall provide a basis for a determination pursuant to paragraph (7) or (8) of section 372(c) of title 28, and certification and transmittal by the Conference shall be made to the President for consideration under subsection (f).
+(2) The provisions of sections 354(b) through 360 of title 28, regarding referral or certification to, and petition for review in, the Judicial Conference of the United States and action thereon, shall apply to the exercise by the Court of the powers of a judicial council under paragraph (1) of this subsection. The grounds for removal from office specified in subsection (f)(1) shall provide a basis for a determination pursuant to section 354(b) or 355 of title 28, and certification and transmittal by the Conference shall be made to the President for consideration under subsection (f).
 
 (3)(A) In conducting hearings pursuant to paragraph (1), the Court may exercise the authority provided under section 1821 of title 28 to pay the fees and allowances described in that section.
 
-(B) The Court shall have the power provided under section 372(c)(16) of title 28 to award reimbursement for the reasonable expenses described in that section. Reimbursements under this subparagraph shall be made from funds appropriated to the Court.
+(B) The Court shall have the power provided under section 361 of title 28 to award reimbursement for the reasonable expenses described in that section. Reimbursements under this subparagraph shall be made from funds appropriated to the Court.
 
 (h)
 
@@ -74,13 +74,19 @@ Temporary Expansion of Court.—(1) During the period from January 1, 2002, thro
 
 (5) Notwithstanding paragraph (1), an appointment may not be made to the Court if the appointment would result in there being more than seven judges on the Court who were appointed after January 1, 1997. For the purposes of this paragraph, a judge serving in recall status under section 7257 of this title shall be disregarded in counting the number of judges appointed to the Court after such date.
 
-(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4053; amended Pub. L. 101–94, title I, §102(c), Aug. 16, 1989, 103 Stat. 626; renumbered §7253, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §3, Aug. 6, 1991, 105 Stat. 375; Pub. L. 102–585, title VIII, §801, Nov. 4, 1992, 106 Stat. 4980; Pub. L. 105–368, title V, §§501, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1031, 1032(a), 1033, Nov. 30, 1999, 113 Stat. 1594, 1595; Pub. L. 107–103, title VI, §601, Dec. 27, 2001, 115 Stat. 998.)
+(Added Pub. L. 100–687, div. A, title III, §301(a), Nov. 18, 1988, 102 Stat. 4114, §4053; amended Pub. L. 101–94, title I, §102(c), Aug. 16, 1989, 103 Stat. 626; renumbered §7253, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–82, §3, Aug. 6, 1991, 105 Stat. 375; Pub. L. 102–585, title VIII, §801, Nov. 4, 1992, 106 Stat. 4980; Pub. L. 105–368, title V, §§501, 512(a)(1), Nov. 11, 1998, 112 Stat. 3340, 3341; Pub. L. 106–117, title X, §§1031, 1032(a), 1033, Nov. 30, 1999, 113 Stat. 1594, 1595; Pub. L. 107–103, title VI, §601, Dec. 27, 2001, 115 Stat. 998; Pub. L. 107–273, div. C, title I, §11043(f), Nov. 2, 2002, 116 Stat. 1856.)
 
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (h)(4), is the date of enactment of Pub. L. 107–103, which was approved Dec. 27, 2001.
 
 #### Amendments
+
+2002—Subsec. (g)(1). Pub. L. 107–273, §11043(f)(1), substituted “chapter 16” for “section 372(c)” and “such chapter” for “such section”.
+
+Subsec. (g)(2). Pub. L. 107–273, §11043(f)(2), substituted “sections 354(b) through 360” for “paragraphs (7) through (15) of section 372(c)” and “section 354(b) or 355” for “paragraph (7) or (8) of section 372(c)”.
+
+Subsec. (g)(3)(B). Pub. L. 107–273, §11043(f)(3), substituted “361” for “372(c)(16)”.
 
 2001—Subsecs. (b), (c), (f), (g). Pub. L. 107–103, §601(b), inserted subsec. headings.
 

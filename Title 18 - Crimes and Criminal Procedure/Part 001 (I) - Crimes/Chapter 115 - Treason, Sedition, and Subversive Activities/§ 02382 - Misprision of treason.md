@@ -16,5 +16,5 @@ Mandatory punishment provision was rephrased in the alternative.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14 of this title; title 5 section 8312; title 8 section 1101; title 38 section 6105; title 50 App. section 34.
+This section is referred to in title 5 section 8312; title 8 section 1101; title 38 section 6105; title 50 App. section 34.
 

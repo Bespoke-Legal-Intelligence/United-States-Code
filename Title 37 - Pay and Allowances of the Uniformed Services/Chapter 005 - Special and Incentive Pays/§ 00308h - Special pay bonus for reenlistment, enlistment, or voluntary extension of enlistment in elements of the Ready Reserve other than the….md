@@ -12,7 +12,7 @@ Authority and Eligibility Requirements.—(1) The Secretary concerned may pay a 
 
 &emsp;(C) has not failed to complete satisfactorily any original term of enlistment in the armed forces.
 
-(3) For the purposes of this section, the Secretary concerned may designate a skill or specialty as a critically short wartime skill orcritically short wartime specialty for an armed force under the jurisdiction of the Secretary if the Secretary determines that—
+(3) For the purposes of this section, the Secretary concerned may designate a skill or specialty as a critically short wartime skill or critically short wartime specialty for an armed force under the jurisdiction of the Secretary if the Secretary determines that—
 
 &emsp;(A) the skill or specialty is critical to meet wartime requirements of the armed force; and
 
@@ -52,17 +52,21 @@ Effect of Bankruptcy.—A discharge in bankruptcy under title 11 that is entered
 
 (f)
 
-Regulations.—(1) This section shall be administered under regulations to be prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Transportation for the Coast Guard when it is not operating as a service in the Navy.
+Regulations.—(1) This section shall be administered under regulations to be prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
 
 (2) Regulations under this section may require that as a condition of receiving a bonus under this section the person receiving the bonus agree to participate in an annual muster of the Reserves, or in active duty for training, as may be required by the Secretary concerned.
 
 (g)
 
-Termination of Authority.—A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2002.
+Termination of Authority.—A bonus may not be paid under this section to any person for a reenlistment, enlistment, or voluntary extension of an enlistment after December 31, 2003.
 
-(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 98–525, title V, §552(f)(2), Oct. 19, 1984, 98 Stat. 2532; Pub. L. 99–145, title VI, §646(a)–(c), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(d), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(d), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(d), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(f), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(f), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(f), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(f), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §§611(f), 619(a), (b), Dec. 28, 2001, 115 Stat. 1135, 1137, 1138.)
+(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 98–525, title V, §552(f)(2), Oct. 19, 1984, 98 Stat. 2532; Pub. L. 99–145, title VI, §646(a)–(c), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), Oct. 23, 1992, 106 Stat. 2421; Pub. L. 103–160, div. A, title VI, §612(d), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(d), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(d), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(f), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §611(f), Nov. 18, 1997, 111 Stat. 1785; Pub. L. 105–261, div. A, title VI, §611(f), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §611(f), Oct. 5, 1999, 113 Stat. 650; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(f)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §§611(f), 619(a), (b), Dec. 28, 2001, 115 Stat. 1135, 1137, 1138; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §611(e), Dec. 2, 2002, 116 Stat. 2567.)
 
 #### Amendments
+
+2002—Subsec. (f)(1). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+Subsec. (g). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
 
 2001—Subsec. (a). Pub. L. 107–107, §619(a), inserted heading and amended text generally. Prior to amendment, text read as follows:
 
@@ -100,7 +104,7 @@ Pub. L. 104–106 substituted “September 30, 1997” for “September 30, 1996
 
 1987—Subsec. (g). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
 
-1985—Subsec. (a)(1). Pub. L. 99–145, §646(b)(1), substituted “for a period of three years, or for a period ofsix years,” for “for a period of not less than three years”.
+1985—Subsec. (a)(1). Pub. L. 99–145, §646(b)(1), substituted “for a period of three years, or for a period of six years,” for “for a period of not less than three years”.
 
 Subsec. (b). Pub. L. 99–145, §646(b)(2), designated existing provisions as par. (1), struck out “, except that the amount of such a bonus may not exceed $900 and shall be paid in equal annual increments”, and added pars. (2) and (3).
 
@@ -111,6 +115,10 @@ Subsec. (f). Pub. L. 99–145, §646(c), designated existing provisions as par. 
 Subsec. (g). Pub. L. 99–145, §646(a), substituted “September 30, 1987” for “September 30, 1985”.
 
 1984—Subsec. (b). Pub. L. 98–525 inserted provision for payment in equal annual increments.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 2001 Amendment
 

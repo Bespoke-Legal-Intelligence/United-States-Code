@@ -26,7 +26,7 @@
 
 &emsp;(3) subject to approval by the Board, procure the services of experts and consultants under section 3109 of this title;
 
-&emsp;(4) secure directly from an Executive agency, the United States Postal Service, or the Postal Rate Commission any information necessary to carry out the provisions of this subchapter or subchapter III of this chapter and policies of the Board;
+&emsp;(4) secure directly from an Executive agency, the United States Postal Service, or thePostal Rate Commission any information necessary to carry out the provisions of this subchapter or subchapter III of this chapter and policies of the Board;
 
 &emsp;(5) make such payments out of sums in the Thrift Savings Fund as the Executive Director determines are necessary to carry out the provisions of this subchapter and subchapter III of this chapter and the policies of the Board;
 

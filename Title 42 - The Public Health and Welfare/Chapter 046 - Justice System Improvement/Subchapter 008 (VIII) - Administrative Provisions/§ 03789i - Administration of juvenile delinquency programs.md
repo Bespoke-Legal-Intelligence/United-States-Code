@@ -2,7 +2,7 @@
 
 The Director of the National Institute of Justice and the Director of the Bureau of Justice Statistics shall work closely with the Administrator of the Office of Juvenile Justice and Delinquency Prevention in developing and implementing programs in the juvenile justice and delinquency prevention field.
 
-(Pub. L. 90–351, title I, §813, formerly §820, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1214; renumbered §813 and amended Pub. L.98–473, title II, §609B(f), (m), Oct. 12, 1984, 98 Stat. 2093, 2096.)
+(Pub. L. 90–351, title I, §813, formerly §820, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1214; renumbered §813 and amended Pub. L. 98–473, title II, §609B(f), (m), Oct. 12, 1984, 98 Stat. 2093, 2096.)
 
 #### Prior Provisions
 

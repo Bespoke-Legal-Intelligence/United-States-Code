@@ -6,7 +6,7 @@ As used in this section:
 
 #### (1) Participate and participation
 
-&emsp;The terms “participate” and “participation” shall have the meaning provided in section 2121(11)(B)(iv) of this title.
+&emsp;The terms “participate” and “participation” shall have the meaning provided in section 2122(11)(B)(iii) of this title.
 
 #### (2) Similar entity
 
@@ -24,23 +24,27 @@ Notwithstanding any other provision of this chapter, any Farm Credit Bank or dir
 
 &emsp;(2) the participation by the Farm Credit Bank or association would equal or exceed 50 percent of the principal of the loan or, when taken together with participations in the loan by other Farm Credit System institutions, would cause the cumulative amount of the participations by all Farm Credit System institutions in the loan to equal or exceed 50 percent of the principal of the loan;
 
-&emsp;(3) the participation would cause the cumulative amount of participations that the Farm Credit Bank or association has outstandingunder this section to exceed 15 percent of the total assets of the Farm Credit Bank or association; or
+&emsp;(3) the participation would cause the cumulative amount of participations that the Farm Credit Bank or association has outstanding under this section to exceed 15 percent of the total assets of the Farm Credit Bank or association; or
 
 &emsp;(4) the loan is of the type authorized under section 2019(b) or 2075(a)(2) of this title.
 
-#### (c) Prior approval required
+(Pub. L. 92–181, title IV, §4.18A, as added Pub. L. 103–376, §5, Oct. 19, 1994, 108 Stat. 3498; Pub. L. 107–171, title V, §5401(b), May 13, 2002, 116 Stat. 349.)
 
-#### (1) In general
+#### Amendments
 
-&emsp;With respect to a similar entity that is eligible to borrow from a bank for cooperatives under subchapter III of this chapter, the authority of a Farm Credit Bank or association to participate in a loan to the entity under this section shall be subject to the prior approval of the bank for cooperatives having, at the time the loan is made, the greatest loan volume in the State in which the headquarters office of the similar entity is located.
+2002—Subsec. (a)(1). Pub. L. 107–171, §5401(b)(1), substituted “2122(11)(B)(iii) of this title” for “2122(11)(B)(iv) of this title”.
 
-#### (2) Terms and conditions
+Subsec. (c). Pub. L. 107–171, §5401(b)(2), struck out heading and text of subsec. (c). Text read as follows:
 
-&emsp;Approval under paragraph (1) may be granted on an annual basis and under such terms and conditions as may be agreed on between the Farm Credit Bank or association, as the case may be, and the bank for cooperatives granting the approval.
+“(1)
 
-#### (3) Approval by supervising Farm Credit Bank
+In general.—With respect to a similar entity that is eligible to borrow from a bank for cooperatives under subchapter III of this chapter, the authority of a Farm Credit Bank or association to participate in a loan to the entity under this section shall be subject to the prior approval of the bank for cooperatives having, at the time the loan is made, the greatest loan volume in the State in which the headquarters office of the similar entity is located.
 
-&emsp;An association may not participate in a loan to a similar entity under this section without the approval of the supervising Farm Credit Bank of the association.
+“(2)
 
-(Pub. L. 92–181, title IV, §4.18A, as added Pub. L. 103–376, §5, Oct. 19, 1994, 108 Stat. 3498.)
+Terms and conditions.—Approval under paragraph (1) may be granted on an annual basis and under such terms and conditions as may be agreed on between the Farm Credit Bank or association, as the case may be, and the bank for cooperatives granting the approval.
+
+“(3)
+
+Approval by supervising Farm Credit Bank.—An association may not participate in a loan to a similar entity under this section without the approval of the supervising Farm Credit Bank of the association.”
 

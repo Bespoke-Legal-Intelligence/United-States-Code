@@ -18,7 +18,7 @@
 
 #### (1) Determination of punitive damages
 
-&emsp;A complaining party may recover punitive damages under this section against a respondent (other than a government, government agency or political subdivision) if the complaining party demonstrates that the respondent engaged in a discriminatory practice or discriminatory practices with malice or with reckless indifference to the federally protected rights of an aggrieved individual.
+&emsp;A complaining party may recover punitive damages under this section against a respondent (other than a government, governmentagency or political subdivision) if the complaining party demonstrates that the respondent engaged in a discriminatory practice or discriminatory practices with malice or with reckless indifference to the federally protected rights of an aggrieved individual.
 
 #### (2) Exclusions from compensatory damages
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(C) in the case of a respondent who has more than 200 and fewer than 501 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $200,000; and
 
-&emsp;&emsp;(D) in the case of a respondent who has more than 500 employees in each of 20 ormore calendar weeks in the current or preceding calendar year, $300,000.
+&emsp;&emsp;(D) in the case of a respondent who has more than 500 employees in each of 20 or more calendar weeks in the current or preceding calendar year, $300,000.
 
 #### (4) Construction
 

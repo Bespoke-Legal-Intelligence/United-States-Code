@@ -28,7 +28,7 @@ The President should encourage the governments of countries that conduct trade w
 
 &emsp;&emsp;&emsp;(ii) exports of medicines or medical supplies, instruments, or equipment that would be permitted under section 6004(c) of this title.
 
-> &emsp;As used in this paragraph, the term “agency or instrumentality of the Government of Cuba” means an agency or instrumentality of a foreign state as defined in section 1603(b) of title 28, with each reference in such section to “a foreign state” deemed to be a reference to “Cuba”.
+> &emsp;As used in this paragraph, the term “agency or instrumentality of the Government of Cuba” means an agency or instrumentality of a foreign state as defined in section 1603(b) oftitle 28, with each reference in such section to “a foreign state” deemed to be a reference to “Cuba”.
 
 #### (3) Applicability of section
 

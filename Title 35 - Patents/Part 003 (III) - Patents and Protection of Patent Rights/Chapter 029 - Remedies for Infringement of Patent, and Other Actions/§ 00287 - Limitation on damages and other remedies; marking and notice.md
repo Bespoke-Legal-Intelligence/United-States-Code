@@ -10,7 +10,7 @@
 
 &emsp;(C) had knowledge before the infringement that a patented process was used to make the product the importation, use, offer for sale, or sale of which constitutes the infringement.
 
-(2) No remedies for infringement under section 271(g) of this title shall be available with respect to any product in the possession of, or in transit to, the person subject to liability under such section before that person had notice of infringement with respect to that product. The person subject to liability shall bear the burden of proving any such possession or transit.
+(2) No remedies for infringement under section 271(g) of this title shall be available with respectto any product in the possession of, or in transit to, the person subject to liability under such section before that person had notice of infringement with respect to that product. The person subject to liability shall bear the burden of proving any such possession or transit.
 
 (3)(A) In making a determination with respect to the remedy in an action brought for infringement under section 271(g), the court shall consider—
 
@@ -36,7 +36,7 @@
 
 &emsp;(ii) which is made by such person before the person's first importation, use, offer for sale, or sale of units of the product produced by an infringing process and before the person had notice of infringement with respect to the product; and
 
-&emsp;(iii) which includes a representation by the person making the request that such person will promptly submit the patents identifiedpursuant to the request to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the person making the request, and will request from that manufacturer or supplier a written statement that none of the processes claimed in those patents is used in the manufacture of the product.
+&emsp;(iii) which includes a representation by the person making the request that such person will promptly submit the patents identified pursuant to the request to the manufacturer, or if the manufacturer is not known, to the supplier, of the product to be purchased by the person making the request, and will request from that manufacturer or supplier a written statement that none of the processes claimed in those patents is used in the manufacture of the product.
 
 (B) In the case of a request for disclosure received by a person to whom a patent is licensed, that person shall either identify the patent or promptly notify the licensor of the request for disclosure.
 
@@ -54,7 +54,7 @@
 
 (D) For purposes of this subsection, a person who obtains a product made by a process patented in the United States in a quantity which is abnormally large in relation to the volume of business of such person or an efficient inventory level shall be rebuttably presumed to have actual knowledge that the product was made by such patented process.
 
-(6) A person who receives a response to a request for disclosure under this subsection shall pay to the person to whom the request was made a reasonable fee to cover actual costs incurred in complying with the request, which may not exceed the cost of a commercially available automated patent search of the matter involved, but in no case more than $500.
+(6) A person who receives a response to a request for disclosure under this subsection shallpay to the person to whom the request was made a reasonable fee to cover actual costs incurred in complying with the request, which may not exceed the cost of a commercially available automated patent search of the matter involved, but in no case more than $500.
 
 (c)(1) With respect to a medical practitioner's performance of a medical activity that constitutes an infringement under section 271(a) or (b) of this title, the provisions of sections 281, 283, 284, and 285 of this title shall not apply against the medical practitioner or against a related health care entity with respect to such medical activity.
 
@@ -74,7 +74,7 @@
 
 &emsp;(G) the term “State” shall mean any state <sup>1</sup> or territory of the United States, the District of Columbia, and the Commonwealth of Puerto Rico.
 
-(3) This subsection does not apply to the activities of any person, or employee or agent of such person (regardless of whether such person is a tax exempt organization under section 501(c) of the Internal Revenue Code), who is engaged in the commercial development, manufacture, sale,importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), where such activities are:
+(3) This subsection does not apply to the activities of any person, or employee or agent of such person (regardless of whether such person is a tax exempt organization under section 501(c) of the Internal Revenue Code), who is engaged in the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), where such activities are:
 
 &emsp;(A) directly related to the commercial development, manufacture, sale, importation, or distribution of a machine, manufacture, or composition of matter or the provision of pharmacy or clinical laboratory services (other than clinical laboratory services provided in a physician's office), and
 
@@ -106,7 +106,7 @@ The Clinical Laboratories Improvement Act, referred to in subsec. (c)(3)(B), pro
 
 #### Amendments
 
-1999—Subsec. (c)(4). Pub. L. 106–113 substituted “based on an application the earliest effective filing date of which is prior to September 30, 1996” for “before the date of enactment of this subsection”.
+1999—Subsec. (c)(4). Pub. L. 106–113 substituted “based on an application the earliest effective filing date ofwhich is prior to September 30, 1996” for “before the date of enactment of this subsection”.
 
 1996—Subsec. (c). Pub. L. 104–208 added subsec. (c).
 

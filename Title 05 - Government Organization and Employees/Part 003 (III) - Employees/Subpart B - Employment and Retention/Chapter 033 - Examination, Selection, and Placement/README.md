@@ -24,7 +24,7 @@
 | [3316\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003316%20-%20Preference%20eligibles%3B%20reinstatement.md) | Preference eligibles; reinstatement. |
 | [3317\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003317%20-%20Competitive%20service%3B%20certification%20from%20registers.md) | Competitive service; certification from registers. |
 | [3318\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003318%20-%20Competitive%20service%3B%20selection%20from%20certificates.md) | Competitive service; selection from certificates. |
-| \[3319. | Repealed.\] |
+| [3319\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003319%20-%20Alternative%20ranking%20and%20selection%20procedures.md) | Alternative ranking and selection procedures. |
 | [3320\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003320%20-%20Excepted%20service%3B%20government%20of%20the%20District%20of%20Columbia%3B%20selection.md) | Excepted service; government of the District of Columbia; selection. |
 | [3321\.](Subchapter%20001%20%28I%29%20-%20Examination%2C%20Certification%2C%20and%20Appointment/%C2%A7%2003321%20-%20Competitive%20service%3B%20probationary%20period.md) | Competitive service; probationary period. |
 | \[3322. | Repealed.\] |
@@ -129,7 +129,7 @@
 | [3391\.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003391%20-%20Definitions.md) | Definitions. |
 | [3392\.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003392%20-%20General%20appointment%20provisions.md) | General appointment provisions. |
 | [3393\.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003393%20-%20Career%20appointments.md) | Career appointments. |
-| [3393a.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003393a%20-%20Recertification.md) | Recertification. |
+| \[3393a. | Repealed.\] |
 | [3394\.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003394%20-%20Noncareer%20and%20limited%20appointments.md) | Noncareer and limited appointments. |
 | [3395\.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003395%20-%20Reassignment%20and%20transfer%20within%20the%20Senior%20Executive%20Service.md) | Reassignment and transfer within the Senior Executive Service. |
 | [3396\.](Subchapter%20008%20%28VIII%29%20-%20Appointment%2C%20Reassignment%2C%20Transfer%2C%20and%20Development%20in%20the%20Senior%20Executive%20Service/%C2%A7%2003396%20-%20Development%20for%20and%20within%20the%20Senior%20Executive%20Service.md) | Development for and within the Senior Executive Service. |
@@ -138,6 +138,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–296, title XIII, §§1312(b), 1321(a)(1)(C), Nov. 25, 2002, 116 Stat. 2291, 2296, added item 3319 and struck out item 3393a “Recertification”.
 
 1998—Pub. L. 105–339, §3(b), Oct. 31, 1998, 112 Stat. 3184, added items 3330a to 3330c.
 
@@ -195,7 +197,7 @@ Pub. L. 90–83, §1(9)(B), Sept. 11, 1967, 81 Stat. 197, added item 3315a.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 20 section 1018; title 31 section 3801; title 35 section 3; title 36 sections 510, 151307, 151707, 152407; title 42 sections 290aa, 2297b–4.
+This chapter is referred to in title 20 section 1018; title 31 section 3801; title 35 section 3; title 36 sections 511, 151307, 151707, 152407; title 40 sections 311, 581, 701, 3308, 3704, 8502, 8711; title 42 sections 290aa, 2297b–4.
 
 
 ---

@@ -60,7 +60,7 @@ Subsec. (c). Pub. L. 106–170, §101(b)(2)(B), struck out subsec. (c) which rea
 
 1997—Subsec. (d). Pub. L. 105–33, §5523(2), substituted “the Commissioner” for “him” after “determined by” in last sentence.
 
-Pub. L. 105–33, §5523(1), which directed insertion of comma after “subsection (a)(1)” in first sentence, was executed by making the insertion after “subsection (a) of this section” to reflect the probable intent of Congress.
+Pub. L. 105–33, §5523(1), which directed insertion of comma after “subsection (a)(1)” in first sentence, was executed by making the insertion after “subsection (a)of this section” to reflect the probable intent of Congress.
 
 1994—Subsec. (a). Pub. L. 103–296 in closing provisions substituted “Commissioner of Social Security” for “Secretary” and “the Commissioner may” for “he may”.
 
@@ -138,7 +138,7 @@ Section 301 of Pub. L. 92–603 provided that this section is effective Jan. 1, 
 
 #### Publication of Criteria
 
-Section 501(b) of Pub. L. 94–566 directed Secretary, within 120 days after Oct. 20, 1976, to publish criteria to be employed to determine disability (as defined in subsec. (a)(3) of this section) in the case of persons who have not attained the age of 18.
+Section 501(b) of Pub. L. 94–566 directed Secretary, within 120 days after Oct. 20, 1976, to publish criteria tobe employed to determine disability (as defined in subsec. (a)(3) of this section) in the case of persons who have not attained the age of 18.
 
 #### Application to Northern Mariana Islands
 

@@ -70,7 +70,7 @@ The sole authority to naturalize persons as citizens of the United States is con
 
 &emsp;&emsp;(A) a district court of the United States in any State, or
 
-&emsp;&emsp;(B) any court of record in any State having a seal, a clerk, and jurisdiction in actions in law or equity, or law and equity, in which the amount in controversy is unlimited.
+&emsp;&emsp;(B) any court of record in any State having a seal, a clerk, and jurisdiction in actions inlaw or equity, or law and equity, in which the amount in controversy is unlimited.
 
 #### (c) Judicial review
 
@@ -148,17 +148,21 @@ Continuing Duties.—The amendments to section 339 of the Immigration and Nation
 
 “(d)
 
-General Savings Provisions.—(1) Nothing contained in this title \[amending this section, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, repealing section 1459 of this title, and enacting provisions set out as a note under section 1440 of this title\], unless otherwise specifically provided, shall be construed to affect the validity of any declaration of intention, petition for naturalization, certificate of naturalization, certification of citizenship, or other document or proceeding which is valid as of the effective date; or to affect any prosecution, suit, action, or proceedings, civil or criminal, brought, or any status, condition, right in process ofacquisition, act, thing, liability, obligation, or matter, civil or criminal, done or existing, as of the effective date.
+General Savings Provisions.—(1) Nothing contained in this title \[amending this section, sections 1101, 1423, 1424, 1426 to 1430, 1433, 1435 to 1440, 1441 to 1451, and 1455 of this title, and section 1429 of Title 18, Crimes and Criminal Procedure, repealing section 1459 of this title, and enacting provisions set out as a note under section 1440 of this title\], unless otherwise specifically provided, shall be construed to affect the validity of any declaration of intention, petition for naturalization, certificate of naturalization, certification of citizenship, or other document or proceeding which is valid as of the effective date; or to affect any prosecution, suit, action, or proceedings, civil or criminal, brought, or any status, condition, right in process of acquisition, act, thing, liability, obligation, or matter, civil or criminal, done or existing, as of the effective date.
 
 “(2) As to all such prosecutions, suits, actions, proceedings, statutes, conditions, rights, acts, things, liabilities, obligations, or matters, the provisions of law repealed by this title are, unless otherwise specifically provided, hereby continued in force and effect.
 
 “(e)
 
-Treatment of Service in Armed Forces of Foreign Country.—The amendments made by section 404 \[amending section 1426 of this title\] (relating to treatment of service in armed forces of a foreign country) shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\] and shall apply to exemptions from training or service obtained before, on, or after such date.
+Treatment of Service in Armed Forces of Foreign Country.—The amendments made by section 404\[amending section 1426 of this title\] (relating to treatment of service in armed forces of a foreign country) shall take effect on the date of the enactment of this Act \[Nov. 29, 1990\] and shall apply to exemptions from training or service obtained before, on, or after such date.
 
 “(f)
 
-Filipino War Veterans.—Section 405 \[enacting provisions set out as a note under section 1440 of this title\] (relating to naturalization of natives of the Philippines through active-duty service under United States command during World War II) shall become effective on May 1, 1991, without regard to whether regulations to implement such section have been issued by such date.”
+Filipino War Veterans.—Section 405 \[enacting provisions formerly set out as a note under section 1440 of this title\] (relating to naturalization of natives of the Philippines through active-duty service under United States command during World War II) shall become effective on May 1, 1991, without regard to whether regulations to implement such section have been issued by such date.”
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Admission of Alaska and Hawaii to Statehood
 

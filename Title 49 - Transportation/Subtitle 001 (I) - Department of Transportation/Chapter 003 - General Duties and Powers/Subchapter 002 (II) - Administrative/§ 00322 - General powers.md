@@ -8,7 +8,7 @@
 
 &emsp;(1) use the available services, equipment, personnel, and facilities of other civilian or military departments, agencies, and instrumentalities of the United States Government, with their consent;
 
-&emsp;(2) cooperate with those departments, agencies, and instrumentalities in establishing andusing aviation services, equipment, and facilities of the Department; and
+&emsp;(2) cooperate with those departments, agencies, and instrumentalities in establishing and using aviation services, equipment, and facilities of the Department; and
 
 &emsp;(3) confer and cooperate with, and use the services, records, and facilities of, State, territorial, municipal, and other agencies.
 
@@ -98,7 +98,7 @@ In subsection (e), before clause (1), the words “or in support of” are omitt
 
 #### Availability of Receipts From Fitness Centers For Operation and Maintenance of Facilities
 
-Pub. L. 106–69, title III, §329, Oct. 9, 1999, 113 Stat. 1021, provided that: “Hereafter, notwithstanding any other provision of law, receipts, in amounts determined by the Secretary, collected from users of fitness centers operated by or for the Department of Transportation shall be available to support the operation and maintenance of those facilities.”
+Pub. L. 106–69, title III, §329, Oct. 9, 1999, 113 Stat. 1021, provided that: “Hereafter, notwithstanding any other provision of law, receipts, in amounts determined by the Secretary, collected from users of fitness centersoperated by or for the Department of Transportation shall be available to support the operation and maintenance of those facilities.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

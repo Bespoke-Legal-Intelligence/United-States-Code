@@ -46,7 +46,7 @@
 
 (b)(1) A rule shall not take effect (or continue), if the Congress enacts a joint resolution of disapproval, described under section 802, of the rule.
 
-(2) A rule that does not take effect (or does not continue) under paragraph (1) may not be reissued in substantially the same form, and a new rule that is substantially the same as such a rule may not be issued, unless the reissued or new rule is specifically authorized by a law enacted after the date of the joint resolution disapproving the original rule.
+(2) A rule that does not take effect (or does not continue) under paragraph (1) may not be reissued in substantially the same form, and a new rule that is substantially the same as such a rule may not be issued, unless the reissued ornew rule is specifically authorized by a law enacted after the date of the joint resolution disapproving the original rule.
 
 (c)(1) Notwithstanding any other provision of this section (except subject to paragraph (3)), a rule that would not take effect by reason of subsection (a)(3) may take effect, if the President makes a determination under paragraph (2) and submits written notice of such determination to the Congress.
 

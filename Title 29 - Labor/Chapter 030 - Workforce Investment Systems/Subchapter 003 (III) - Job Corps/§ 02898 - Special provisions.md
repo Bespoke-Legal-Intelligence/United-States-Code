@@ -12,7 +12,7 @@ The Secretary shall assure that all studies, evaluations, proposals, and data pr
 
 #### (1) In general
 
-&emsp;Notwithstanding title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.) and any other provision of law, the Secretary and the Secretary of Education shall receive priority by the Secretary of Defense for the direct transfer, on a nonreimbursable basis, of the property described in paragraph (2) for use in carrying out programs under this Act or under any other Act.
+&emsp;Notwithstanding title II of the Federal Property and Administrative Services Act of 1949 <sup>1</sup> and any other provision of law, the Secretary and the Secretary of Education shall receive priority by the Secretary of Defense for the direct transfer, on a nonreimbursable basis, of the property described in paragraph (2) for use in carrying out programs under this Act or under any other Act.
 
 #### (2) Property
 
@@ -38,9 +38,11 @@ Notwithstanding any other provision of law, if the Administrator of General Serv
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of that Act, is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of the Act, which was classified principally to subchapter II (§§481, 483, 484, 485, 486, 487 to 490, 491, 492) of chapter 10 and section 758 of former Title 40, Public Buildings, Property, and Works, was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304, the first section of which enacted Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 torevised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 
 Provisions similar to this section were contained in sections 1707 and 1709 of this title prior to repeal by Pub. L. 105–220.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

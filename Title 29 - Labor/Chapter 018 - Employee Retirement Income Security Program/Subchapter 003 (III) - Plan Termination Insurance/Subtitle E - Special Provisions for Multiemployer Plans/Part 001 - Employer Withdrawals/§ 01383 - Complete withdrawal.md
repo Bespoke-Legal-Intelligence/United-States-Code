@@ -12,7 +12,7 @@ For purposes of this part, a complete withdrawal from a multiemployer plan occur
 
 (1) Notwithstanding subsection (a) of this section, in the case of an employer that has an obligation to contribute under a plan for work performed in the building and construction industry, a complete withdrawal occurs only as described in paragraph (2), if—
 
-&emsp;(A) substantially all the employees with respect to whom the employer has an obligationto contribute under the plan perform work in the building and construction industry, and
+&emsp;(A) substantially all the employees with respect to whom the employer has an obligation to contribute under the plan perform work in the building and construction industry, and
 
 &emsp;(B) the plan—
 

@@ -28,7 +28,7 @@ The court of appeals (other than the United States Court of Appeals for the Fede
 
 > Jurisdiction is invoked by filing a petition as provided by section 2344 of this title.
 
-(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, §4, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–454, title II, §206, Oct. 13, 1978, 92 Stat. 1144; Pub. L. 96–454, §8(b)(2), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–164, title I, §137, Apr. 2, 1982, 96 Stat. 41; Pub. L. 98–554, title II, §227(a)(4), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 99–336, §5(a), June 19, 1986, 100 Stat. 638; Pub. L. 100–430, §11(a), Sept. 13, 1988, 102 Stat. 1635; Pub.L. 102–365, §5(c)(2), Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–272, §5(h), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §305(d)(5)–(8), Dec. 29, 1995, 109 Stat. 945; Pub. L. 104–287, §6(f)(2), Oct. 11, 1996, 110 Stat. 3399.)
+(Added Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 622; amended Pub. L. 93–584, §4, Jan. 2, 1975, 88 Stat. 1917; Pub. L. 95–454, title II, §206, Oct. 13, 1978, 92 Stat. 1144; Pub. L. 96–454, §8(b)(2), Oct. 15, 1980, 94 Stat. 2021; Pub. L. 97–164, title I, §137, Apr. 2, 1982, 96 Stat. 41; Pub. L. 98–554, title II, §227(a)(4), Oct. 30, 1984, 98 Stat. 2852; Pub. L. 99–336, §5(a), June 19, 1986, 100 Stat. 638; Pub. L. 100–430, §11(a), Sept. 13, 1988, 102 Stat. 1635; Pub. L. 102–365, §5(c)(2), Sept. 3, 1992, 106 Stat. 975; Pub. L. 103–272, §5(h), July 5, 1994, 108 Stat. 1375; Pub. L. 104–88, title III, §305(d)(5)–(8), Dec. 29,1995, 109 Stat. 945; Pub. L. 104–287, §6(f)(2), Oct. 11, 1996, 110 Stat. 3399.)
 
 Historical and Revision Notes
 
@@ -58,9 +58,9 @@ Section 812 of the Fair Housing Act, referred to in par. (6), is classified to s
 
 #### Amendments
 
-<b>1996</b>—Par. (3)(A). Pub. L. 104–287 amended Pub. L. 104–88, §305(d)(6). See 1995 Amendment note below.
+1996—Par. (3)(A). Pub. L. 104–287 amended Pub. L. 104–88, §305(d)(6). See 1995 Amendment note below.
 
-<b>1995</b>—Par. (3)(A). Pub. L. 104–88, §305(d)(6), as amended by Pub. L. 104–287, inserted “or pursuant to part B or C of subtitle IV of title 49” before the semicolon.
+1995—Par. (3)(A). Pub. L. 104–88, §305(d)(6), as amended by Pub. L. 104–287, inserted “or pursuant to part B or C of subtitle IV of title 49” before the semicolon.
 
 Pub. L. 104–88, §305(d)(5), substituted “or 41” for “41, or 43”.
 
@@ -72,23 +72,23 @@ Par. (3)(B). Pub. L. 104–88, §305(d)(7), redesignated cls. (ii), (iv), and (v
 
 Par. (5). Pub. L. 104–88, §305(d)(8), added par. (5) and struck out former par. (5) which read as follows: “all rules, regulations, or final orders of the Interstate Commerce Commission made reviewable by section 2321 of this title and all final orders of such Commission made reviewable under section 11901(j)(2) of title 49, United States Code;”.
 
-<b>1994</b>—Par. (7). Pub. L. 103–272 substituted “section 20114(c) of title 49” for “section 202(f) of the Federal Railroad Safety Act of 1970”.
+1994—Par. (7). Pub. L. 103–272 substituted “section 20114(c) of title 49” for “section 202(f) of the Federal Railroad Safety Act of 1970”.
 
-<b>1992</b>—Par. (7). Pub. L. 102–365, which directed the addition of par. (7) at end, was executed by adding par. (7) after par. (6) and before concluding provisions, to reflect the probable intent of Congress.
+1992—Par. (7). Pub. L. 102–365, which directed the addition of par. (7) at end, was executed by adding par. (7) after par. (6) and before concluding provisions, to reflect the probable intent of Congress.
 
-<b>1988</b>—Par. (6). Pub. L. 100–430 added par. (6).
+1988—Par. (6). Pub. L. 100–430 added par. (6).
 
-<b>1986</b>—Par. (3). Pub. L. 99–336 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “such final orders of the Federal Maritime Commission or the Maritime Administration entered under chapters 23 and 23A of title 46 as are subject to judicial review under section 830 of title 46;”.
+1986—Par. (3). Pub. L. 99–336 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “such final orders of the Federal Maritime Commission or the Maritime Administration entered under chapters 23 and 23A of title 46 as are subject to judicial review under section 830 of title 46;”.
 
-<b>1984</b>—Par. (5). Pub. L. 98–554 substituted “11901(j)(2)” for “11901(i)(2)”.
+1984—Par. (5). Pub. L. 98–554 substituted “11901(j)(2)” for “11901(i)(2)”.
 
-<b>1982</b>—Pub. L. 97–164 inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “court of appeals” in provisions preceding par. (1), and struck out par. (6) which had given the court of appeals jurisdiction in cases involving all final orders of the Merit Systems Protection Board except as provided for in section 7703(b) of title 5. See section 1295(a)(9) of this title.
+1982—Pub. L. 97–164 inserted “(other than the United States Court of Appeals for the Federal Circuit)” after “court of appeals” in provisions preceding par. (1), and struck out par. (6) which had given the court of appeals jurisdiction in cases involving all final orders of the Merit Systems Protection Board except as provided for in section 7703(b) of title 5. See section 1295(a)(9) of this title.
 
-<b>1980</b>—Par. (5). Pub. L. 96–454 inserted “and all final orders of such Commission made reviewable under section 11901(i)(2) of title 49, United States Code” after “section 2321 of this title”.
+1980—Par. (5). Pub. L. 96–454 inserted “and all final orders of such Commission made reviewable under section 11901(i)(2) of title 49, United States Code” after “section 2321 of this title”.
 
-<b>1978</b>—Par. (6). Pub. L. 95–454 added par. (6).
+1978—Par. (6). Pub. L. 95–454 added par. (6).
 
-<b>1975</b>—Par. (5). Pub. L. 93–584 added par. (5).
+1975—Par. (5). Pub. L. 93–584 added par. (5).
 
 #### Effective Date of 1996 Amendment
 

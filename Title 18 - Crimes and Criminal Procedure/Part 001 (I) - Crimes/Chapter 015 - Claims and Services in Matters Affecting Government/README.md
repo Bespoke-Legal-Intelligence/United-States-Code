@@ -17,7 +17,9 @@
 
 #### Amendments
 
-1996—Pub. L. 104–106, div. D, title XLIII, §4304(c)(2), Feb. 10, 1996, 110 Stat. 664, and Pub. L. 104–294, title VI, §602(d), Oct. 11, 1996, 110 Stat. 3503, amended analysis identically, striking out item 281 “Restrictions on retired military officers regarding certain matters affecting the Government”.
+2002—Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, repealed amendment by Pub. L. 104–294, §602(d). See 1996 Amendment note below.
+
+1996—Pub. L. 104–106, div. D, title XLIII, §4304(c)(2), Feb. 10, 1996, 110 Stat. 664, struck out item 281 “Restrictions on retired military officers regarding certain matters affecting the Government”. Pub. L. 104–294, title VI, §602(d), Oct. 11, 1996, 110 Stat. 3503, which amended analysis identically, was repealed by Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, effective Oct. 11, 1996.
 
 1989—Pub. L. 101–123, §3(a), Oct. 23, 1989, 103 Stat. 760, struck out item 293 “Limitation on Government contract costs”.
 

@@ -12,5 +12,5 @@ Notwithstanding the provisions of any other law, the unexpended balances of appr
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 40 section 188b–6.
+This section is referred to in section 2107 of this title.
 

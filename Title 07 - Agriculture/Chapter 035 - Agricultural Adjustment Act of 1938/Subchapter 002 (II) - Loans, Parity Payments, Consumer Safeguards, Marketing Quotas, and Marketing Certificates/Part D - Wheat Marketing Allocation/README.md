@@ -2,7 +2,7 @@ Part D—Wheat Marketing Allocation
 
 #### Part Referred to in Other Sections
 
-This part is referred to in section 7301 of this title.
+This part is referred to in sections 7301, 7992 of this title.
 
 
 ---

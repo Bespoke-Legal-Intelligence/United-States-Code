@@ -8,7 +8,7 @@
 
 #### (2) Corporate powers
 
-&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent not inconsistent with this section, to the District of Columbia Business Corporation Act (or the comparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidental to the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
+&emsp;The Corporation shall be subject to the provisions of this section, and, to the extent not inconsistent with this section, to the District of Columbia Business Corporation Act (or the comparable law of another State, if applicable). The Corporation shall have the powers conferred upon a corporation by the District of Columbia Business Corporation Act (or such other applicable State law) as from time to time in effect in order to conduct the Corporation's affairs as a private, for-profit corporation and to carry out the Corporation's purposes and activities incidental thereto. The Corporation shall have the power to enter into contracts, to execute instruments, to incur liabilities, to provide products and services, and to do all things as are necessary or incidentalto the proper management of the Corporation's affairs and the efficient operation of a private, for-profit business.
 
 #### (3) Limitation on ownership of stock
 
@@ -42,7 +42,7 @@
 
 #### (B) Securities offered by the Corporation
 
-&emsp;&emsp;No debt or equity securities of the Corporation shall be deemed to be guaranteedby the full faith and credit of the United States.
+&emsp;&emsp;No debt or equity securities of the Corporation shall be deemed to be guaranteed by the full faith and credit of the United States.
 
 #### (5) “Corporation” defined
 
@@ -78,7 +78,7 @@
 
 #### (5) Requirements until stock sale
 
-&emsp;Notwithstanding subsection (d) of this section, the requirements of sections 1132f–3 and 1132f–9 of this title, as such sections were in effect on the day before September 30, 1996, shall continue to be effective until the day immediately following the date of closing of the purchase of the Secretary of Education's stock (or the date of closing of the final purchase, in the case of multiple transactions) pursuant to subsection (c)(1) of this Act.<sup>1</sup>
+&emsp;Notwithstanding subsection (d) of this section, the requirements of sections 1132f–3 and 1132f–9 of this title, as such sections were in effect on the day before September 30, 1996, shall continue to be effective until the day immediately following the date of closing of thepurchase of the Secretary of Education's stock (or the date of closing of the final purchase, in the case of multiple transactions) pursuant to subsection (c)(1) of this Act.<sup>1</sup>
 
 #### (c) Sale of federally owned stock
 
@@ -110,7 +110,7 @@
 
 &emsp;Notwithstanding any other provision of law, the District of Columbia Financial Responsibility and Management Assistance Authority shall establish an account to receive—
 
-&emsp;&emsp;(A) amounts collected from the sale and proceeds resulting from the exercise of stockwarrants pursuant to section 1087–3(c)(9) of this title;
+&emsp;&emsp;(A) amounts collected from the sale and proceeds resulting from the exercise of stock warrants pursuant to section 1087–3(c)(9) of this title;
 
 &emsp;&emsp;(B) amounts and proceeds remitted as compensation for the right to assign the “Sallie Mae” name as a trademark or service mark pursuant to section 1087–3(e)(3) of this title; and
 
@@ -150,7 +150,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(ii), the Mayor of the District of Columbia shall make grants to entities to carry out the purposes described in subparagraph (E).
+&emsp;&emsp;&emsp;Using the amounts described in subparagraph (A)(ii), the Mayor of the District of Columbia shall make grants to entities tocarry out the purposes described in subparagraph (E).
 
 #### (ii) Participation of schools
 
@@ -184,7 +184,7 @@
 
 &emsp;&emsp;&emsp;Funds provided under a grant under this subparagraph may not be used by a recipient to make direct loans or grants to public charter schools.
 
-(Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–290;Pub. L. 106–113, div. A, title I, §153, Nov. 29, 1999, 113 Stat. 1526; Pub. L. 106–522, §161, Nov. 22, 2000, 114 Stat. 2483; Pub. L. 106–553, §1(a)(1) \[§161\], Dec. 21, 2000, 114 Stat. 2762, 2762A–45; Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–189; Pub. L. 107–96, Dec. 21, 2001, 115 Stat. 936.)
+(Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §603\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–290; Pub. L. 106–113, div. A, title I, §153, Nov. 29, 1999, 113 Stat. 1526; Pub. L. 106–522, §161, Nov. 22, 2000, 114 Stat. 2483; Pub. L. 106–553, §1(a)(1) \[§161\], Dec. 21, 2000, 114 Stat. 2762, 2762A–45; Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–189; Pub. L. 107–96, Dec. 21, 2001, 115 Stat. 936.)
 
 #### References in Text
 
@@ -214,7 +214,7 @@ Subsec. (e)(3)(C)(iv). Pub. L. 107–96, proviso, which directed amendment of th
 
 2000—Subsec. (e)(2)(B). Pub. L. 106–553, §1(a)(1) \[§161(1)\], which directed amendment identical to amendment by Pub. L. 106–522, §161(1), below, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\]. See Effective Date and Construction of 2000 Amendment note below.
 
-Pub. L. 106–522, §161(1), as amended by Pub. L. 107–96, par. (2), amended second sentence generally. Prior to amendment, second sentence read as follows: “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointed by the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
+Pub. L. 106–522, §161(1), as amended by Pub. L. 107–96, par. (2), amended second sentence generally. Prior to amendment, second sentence read as follows: “Of such amounts and proceeds, $5,000,000 shall be set aside for use as a credit enhancement fund for public charter schools in the District of Columbia, with the administration of the fund (including the making of loans) to be carried out by the Mayor through a committee consisting of three individuals appointed by the Mayor of the District of Columbia and two individuals appointedby the Public Charter School Board established under section 2214 of the District of Columbia School Reform Act of 1995.”
 
 Subsec. (e)(3). Pub. L. 106–553, §1(a)(1) \[§161(2)\], which directed amendment identical to amendment by Pub. L. 106–522, §161(2), below, was repealed by Pub. L. 106–554, §1(a)(4) \[div. A, §406(a)\]. See Effective Date and Construction of 2000 Amendment note below.
 

@@ -30,7 +30,7 @@ A prior section 1935 of act July 1, 1944, was classified to section 300y–25 of
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–310, §3303(g)(1), substituted “$2,000,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years2002 and 2003” for “$1,500,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994”.
+2000—Subsec. (a). Pub. L. 106–310, §3303(g)(1), substituted “$2,000,000,000 for fiscal year 2001, and such sums as may be necessary for each of the fiscal years 2002 and 2003” for “$1,500,000,000 for fiscal year 1993, and such sums as may be necessary for fiscal year 1994”.
 
 Subsec. (b)(1)(B). Pub. L. 106–310, §3303(g)(2), substituted “sections 290aa–4 and 300y of this title” for “section 290aa–4 of this title”.
 

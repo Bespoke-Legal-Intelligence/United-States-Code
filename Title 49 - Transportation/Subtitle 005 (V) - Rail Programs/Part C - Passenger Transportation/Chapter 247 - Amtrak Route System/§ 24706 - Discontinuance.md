@@ -2,7 +2,7 @@
 
 (a)
 
-Notice of Discontinuance.—(1) Except as provided in subsection (b) of this section, at least 180 days before a discontinuance under section 24704 <sup>1</sup> or or <sup>2</sup> discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, oranother person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
+Notice of Discontinuance.—(1) Except as provided in subsection (b) of this section, at least 180 days before a discontinuance under section 24704 <sup>1</sup> or or <sup>2</sup> discontinuing service over a route, Amtrak shall give notice of the discontinuance in the way Amtrak decides will give a State, a regional or local authority, or another person the opportunity to agree to share or assume the cost of any part of the train, route, or service to be discontinued.
 
 (2) Notice of the discontinuance under section 24704 <sup>1</sup> or paragraph (1) shall be posted in all stations served by the train to be discontinued at least 14 days before the discontinuance.
 
@@ -156,7 +156,7 @@ Dispute Resolution.—(1) With respect to the dispute described in subsection (a
 
 “(e)
 
-No Precedent for Freight.—Nothing in this Act \[see Short Title of 1997 Amendment note set out under section 20101 of this title\], or in any amendment made by this Act, shall affect the level of protection provided to freight railroad employees and mass transportation employees as it existed on the day before the date of enactment of this Act \[Dec. 2, 1997\].
+No Precedent for Freight.—Nothing in this Act \[see Short Title of 1997 Amendment note set outunder section 20101 of this title\], or in any amendment made by this Act, shall affect the level of protection provided to freight railroad employees and mass transportation employees as it existed on the day before the date of enactment of this Act \[Dec. 2, 1997\].
 
 #### “SEC. 142. SERVICE DISCONTINUANCE.
 

@@ -38,7 +38,7 @@ In making grants under subsection (a) of this section, the Secretary shall give 
 
 #### Prior Provisions
 
-A prior section 295d, act July 1, 1944, ch. 373, title VII, §765, as added Dec. 25, 1970, Pub. L. 91–696, §101, 84 Stat. 2080–3; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692, related to requisites for approval of grants, establishment of separate medical school departments of family medicine,establishment of special hospital programs of family medicine, and supplementation of non-Federal funds, prior to repeal by Pub. L. 99–129, title II, §220(c), Oct. 22, 1985, 99 Stat. 544.
+A prior section 295d, act July 1, 1944, ch. 373, title VII, §765, as added Dec. 25, 1970, Pub. L. 91–696, §101, 84 Stat. 2080–3; amended Oct. 17, 1979, Pub. L. 96–88, title III, §301(a)(1), title V, §507, 93 Stat. 677, 692, related to requisites for approval of grants, establishment of separate medical school departments of family medicine, establishment of special hospital programs of family medicine, and supplementation of non-Federal funds, prior to repeal by Pub. L. 99–129, title II, §220(c), Oct. 22, 1985, 99 Stat. 544.
 
 Another prior section 295d, act July 1, 1944, ch. 373, title VII, §765, as added Oct. 31, 1963, Pub. L. 88–164, title I, §101, 77 Stat. 284, related to noninterference with administration of institutions respecting grants for construction of mental retardation facilities, prior to the general amendment of former part D of this subchapter by section 101 of Pub. L. 91–696.
 

@@ -8,7 +8,7 @@ For the purposes of this subchapter:
 
 (c) “Lands” means real property interest therein, or improvements thereon, and includes water rights.
 
-(d) “Tribal property” means any real or personal property, including water rights, or any interest in real or personal property, that belongs to the tribe and either is held by the United States in trust for the tribe or is subject to a restriction against alienation imposed by the United States.
+(d) “Tribal property” means any real or personal property, including water rights, or any interest in real or personal property, that belongs to the tribe and either is held by the United States in trust for the tribe or is subjectto a restriction against alienation imposed by the United States.
 
 (Aug. 13, 1954, ch. 733, §2, 68 Stat. 724.)
 

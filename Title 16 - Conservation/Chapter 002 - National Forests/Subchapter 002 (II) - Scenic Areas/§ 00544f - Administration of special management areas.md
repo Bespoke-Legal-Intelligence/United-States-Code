@@ -20,7 +20,7 @@ Within two years after November 17, 1986, the Secretary shall complete an assess
 
 &emsp;(2) identify areas within the special management areas suitable for other public use facilities, including but not limited to educational and interpretive facilities, campsites, picnic areas, boat launch facilities, and river access areas; and
 
-&emsp;(3) subject to the treaty or other rights of Indian tribes, identify areas with the specialmanagement areas suitable for use to increase access for recreation purposes to the Columbia River and its tributaries.
+&emsp;(3) subject to the treaty or other rights of Indian tribes, identify areas with the special management areas suitable for use to increase access for recreation purposes to the Columbia River and its tributaries.
 
 #### (e) Land use designations
 
@@ -42,7 +42,7 @@ Within three years after November 17, 1986, the Secretary shall develop land use
 
 #### (i) Review by Commission
 
-(1) The Commission shall review the special management area land use ordinance received from each county, and within ninety days after receipt shall make a tentative determination as to whether the ordinance is consistent with the management plan. If the Commission makes a tentative determination that the land use ordinance is consistent with the management plan, the Commission shall send the ordinance to the Secretary for concurrence.
+(1) The Commission shall review the special management area land use ordinance received from each county, and within ninety days after receipt shall make a tentative determination as to whether the ordinance is consistent with themanagement plan. If the Commission makes a tentative determination that the land use ordinance is consistent with the management plan, the Commission shall send the ordinance to the Secretary for concurrence.
 
 (2) If the Commission makes a tentative determination that the land use ordinance is inconsistent with the management plan, the Commission shall state the reasons for the determination and shall return the ordinance to the appropriate county with suggested modifications required for consistency with the management plan.
 

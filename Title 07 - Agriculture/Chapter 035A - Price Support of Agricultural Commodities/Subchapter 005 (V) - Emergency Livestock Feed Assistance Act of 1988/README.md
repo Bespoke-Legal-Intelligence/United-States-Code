@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1427, 7301 of this title.
+This subchapter is referred to in sections 1427, 7301, 7992 of this title.
 
 
 ---
@@ -20,3 +20,4 @@ This subchapter is referred to in sections 1427, 7301 of this title.
 - [&sect; 01471h - Ineligibility](%C2%A7%2001471h%20-%20Ineligibility.md)
 - [&sect; 01471i - Administration](%C2%A7%2001471i%20-%20Administration.md)
 - [&sect; 01471j - Penalties](%C2%A7%2001471j%20-%20Penalties.md)
+- [&sect; 01472 - Assistance for livestock producers](%C2%A7%2001472%20-%20Assistance%20for%20livestock%20producers.md)

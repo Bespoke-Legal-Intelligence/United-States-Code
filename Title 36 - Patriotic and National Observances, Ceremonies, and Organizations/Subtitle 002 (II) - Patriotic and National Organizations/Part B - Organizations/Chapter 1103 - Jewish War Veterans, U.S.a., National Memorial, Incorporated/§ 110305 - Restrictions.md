@@ -14,7 +14,7 @@ Distribution of Income or Assets.—The income or assets of the corporation may 
 
 (d)
 
-Loans.—The corporation may not make a loan to a director, officer, or employee. Directors who vote for or assent to making a loan to a director, officer, or employee, and officers who participate in making the loan, are jointly andseverally liable to the corporation for the amount of the loan until it is repaid.
+Loans.—The corporation may not make a loan to a director, officer, or employee. Directors who vote for or assent to making a loan to a director, officer, or employee, and officers who participate in making the loan, are jointly and severally liable to the corporation for the amount of the loan until it is repaid.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1370.)
 

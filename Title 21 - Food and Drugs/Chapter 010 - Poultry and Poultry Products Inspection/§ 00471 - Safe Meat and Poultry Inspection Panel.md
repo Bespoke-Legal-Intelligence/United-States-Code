@@ -16,7 +16,7 @@ The advisory panel known as the “Safe Meat and Poultry Inspection Panel” est
 
 #### (1) In general
 
-&emsp;The Safe Meat and Poultry Inspection Panel shall submit to the Secretary a report on theresults of each review and evaluation carried out under paragraph (1), including such recommendations as the panel considers appropriate.
+&emsp;The Safe Meat and Poultry Inspection Panel shall submit to the Secretary a report on the results of each review and evaluation carried out under paragraph (1), including such recommendations as the panel considers appropriate.
 
 #### (2) Reports on formal changes
 

@@ -28,7 +28,7 @@ As used in this chapter:
 
 #### (3) Gross sales price
 
-&emsp;The term “gross sales price” means the total amount of the transaction in a sale of cut flowers or cut greens from a handler to a retailer or exempt handler.
+&emsp;The term “gross sales price” means the total amount of the transaction in a sale of cutflowers or cut greens from a handler to a retailer or exempt handler.
 
 #### (4) Handler
 

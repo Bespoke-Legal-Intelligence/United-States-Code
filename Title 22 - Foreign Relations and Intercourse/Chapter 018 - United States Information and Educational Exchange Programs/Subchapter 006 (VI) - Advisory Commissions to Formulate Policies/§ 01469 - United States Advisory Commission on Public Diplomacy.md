@@ -34,7 +34,7 @@ The Commission shall have a staff director who shall be appointed by the chairpe
 
 The Commission shall have no authority with respect to the J. William Fulbright Foreign Scholarship Board or the United States National Commission for UNESCO.
 
-(Jan. 27, 1948, ch. 36, title VI, §604, as added Pub. L. 96–60, title II, §203(f), Aug. 15, 1979, 93 Stat. 399; amended Pub. L. 100–204, title II, §213, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 101–246, title II,§206(a), Feb. 16, 1990, 104 Stat. 51; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790.)
+(Jan. 27, 1948, ch. 36, title VI, §604, as added Pub. L. 96–60, title II, §203(f), Aug. 15, 1979, 93 Stat. 399; amended Pub. L. 100–204, title II, §213, Dec. 22, 1987, 101 Stat. 1376; Pub. L. 101–246, title II, §206(a), Feb. 16, 1990, 104 Stat. 51; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1334(b), Oct. 21, 1998, 112 Stat. 2681–786; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title IV, §404(a), (c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–446, 1501A–447; Pub. L. 107–77, title IV, §407(c), Nov. 28, 2001, 115 Stat. 790.)
 
 #### Amendments
 

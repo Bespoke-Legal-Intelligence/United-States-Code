@@ -54,13 +54,13 @@ There is established a National Earthquake Hazards Reduction Program.
 
 #### (C) Non-Federal cost sharing
 
-&emsp;&emsp;(i) In the case of any State which has received, before October 1, 1990, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date shall not include a requirement for cost sharing in an amount greater than 50 percent of the cost of the project for which the grant is made.
+&emsp;&emsp;(i) In the case of any State which has received, before October 1, 1990, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date shall not include a requirement for cost sharing in anamount greater than 50 percent of the cost of the project for which the grant is made.
 
 &emsp;&emsp;(ii) In the case of any State which has not received, before October 1, 1990, a grant from the Agency for activities under this chapter which included a requirement for cost sharing by matching such grant, any grant obtained from the Agency for activities under subparagraph (A)(i) after such date—
 
 &emsp;&emsp;&emsp;(I) shall not include a requirement for cost sharing for the first fiscal year of such a grant;
 
-&emsp;&emsp;&emsp;(II) shall not include a requirement for cost sharing in an amount greater than 25percent of the cost of the project for which the grant is made for the second fiscal year of such grant, and any cost sharing requirement may be satisfied through in-kind contributions;
+&emsp;&emsp;&emsp;(II) shall not include a requirement for cost sharing in an amount greater than 25 percent of the cost of the project for which the grant is made for the second fiscal year of such grant, and any cost sharing requirement may be satisfied through in-kind contributions;
 
 &emsp;&emsp;&emsp;(III) shall not include a requirement for cost sharing in an amount greater than 35 percent of the cost of the project for which the grant is made for the third fiscal year of such grant, and any cost sharing requirement may be satisfied through in-kind contributions; and
 
@@ -180,11 +180,17 @@ Subsec. (d). Pub. L. 96–472, §101(c), substituted “(1)(A)” for “(3)(B)�
 
 Subsec. (e)(6). Pub. L. 96–472, §101(d), substituted “potential” for “political”.
 
-Subsec. (f). Pub. L. 96–472, §101(e), substituted in provision preceding par. (1), provision directing that the mitigation elements of the program are to be as specified in pars. (1) to (8) for provision authorizing the establishment of a implementation plan, year-by-year targets, and Federal and non-Federal roles, in par. (1), substituted provision including as one of the mitigating elements, issuance of earthquake predictions for provision including in the implementation plan development of measures in preparing for earthquakes, actual predictions, warnings, and insuring a comprehensive response to an earthquake, added pars. (7) and (8), and struck out provision following par. (8), that when the implementation plan developed by the President contemplates specific action to be taken by a Federal agency, department, or entity, and at the end of the 30-day period beginning on the date the President submits such plan to the appropriate authorizing committees ofCongress and such action has not been initiated, the President submit to such committees a report why such action has not been taken.
+Subsec. (f). Pub. L. 96–472, §101(e), substituted in provision preceding par. (1), provision directing that the mitigation elements of the program are to be as specified in pars. (1) to (8) for provision authorizing the establishment of a implementation plan, year-by-year targets, and Federal and non-Federal roles, in par. (1),substituted provision including as one of the mitigating elements, issuance of earthquake predictions for provision including in the implementation plan development of measures in preparing for earthquakes, actual predictions, warnings, and insuring a comprehensive response to an earthquake, added pars. (7) and (8), and struck out provision following par. (8), that when the implementation plan developed by the President contemplates specific action to be taken by a Federal agency, department, or entity, and at the end of the 30-day period beginning on the date the President submits such plan to the appropriate authorizing committees of Congress and such action has not been initiated, the President submit to such committees a report why such action has not been taken.
 
 Subsec. (i). Pub. L. 96–472, §101(f), added subsec. (i).
 
-#### Contribution to the Advancement of Seismology
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Real-Time Public Availability of Raw Seismological Data
+
+Pub. L. 107–228, div. B, title XVI, §1602, Sept. 30, 2002, 116 Stat. 1460, provided that: “The head of the Air Force Technical Applications Center shall make available to the public, immediately upon receipt or as soon after receipt as is practicable, all raw seismological data provided to the United States Government by any international monitoring organization that is directly responsible for seismological monitoring.”
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1116\], Nov. 29, 1999, 113 Stat. 1536, 1501A–489, provided that: “The United States Government shall, to the maximum extent practicable, make available to the public in real time, or as quickly as possible, all raw seismological data provided to the United States Government by any international organization that is directly responsible for seismological monitoring.”
 
@@ -296,7 +302,7 @@ School.—The term ‘school’ means a nonprofit institutional day or residenti
 
 &emsp;“(2)
 
-Teaching materials.—In a manner consistent with the requirement under section 5(b)(4) of the Earthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(4)) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or her under section 12(c) of such Act (42 U.S.C. 7706(c)) to develop, and make available to schools and local educational agencies for use by schools, at a minimal cost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
+Teaching materials.—In a manner consistent with the requirement under section 5(b)(4) of theEarthquake Hazards Reduction Act of 1977 (42 U.S.C. 7704(b)(4)) and subject to a merit based competitive process, the Director of the National Science Foundation may use funds made available to him or her under section 12(c) of such Act (42 U.S.C. 7706(c)) to develop, and make available to schools and local educational agencies for use by schools, at a minimal cost, earth science teaching materials that are designed to meet the needs of elementary and secondary school teachers and students.
 
 “(d)
 
@@ -350,7 +356,7 @@ Pub. L. 100–570, title I, §115, Oct. 31, 1988, 102 Stat. 2871, directed Natio
 
 #### Ex. Ord. No. 12699. Seismic Safety of Federal and Federally Assisted or Regulated New Building Construction
 
-Ex. Ord. No. 12699, Jan. 5, 1990, 55 F.R. 835, provided:
+Ex. Ord. No. 12699, Jan. 5, 1990, 55 F.R. 835, as amended by Ex. Ord. No. 13286, §40, Feb. 28, 2003, 68 F.R. 10626, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, and in furtherance of the Earthquake Hazards Reduction Act of 1977, as amended (42 U.S.C. 7701 <i>et seq</i>.), which requires that Federal preparedness and mitigation activities are to include “development and promulgation of specifications, building standards, design criteria, and construction practices to achieve appropriate earthquake resistance for new . . . structures,” and “an examination of alternative provisions and requirements for reducing earthquake hazards through Federal and federally financed construction, loans, loan guarantees, and licenses. . . .” (42 U.S.C. 7704(f)(3, 4)), it is hereby ordered as follows:
 
@@ -366,27 +372,25 @@ The purposes of these requirements are to reduce risks to the lives of occupants
 
 (a) Space Leased for Federal Occupancy. Each Federal agency responsible for the construction and lease of a new building for Federal use shall ensure that the building is designed and constructed in accord with appropriate seismic design and construction standards. This requirement pertains to all leased building projects for which the agreement covering development of detailed plans and specifications is effected subsequent to the issuance of this order. Local building codes shall be used in design and construction by those concerned with such activities in accord with section 3(a) and 3(c) of this order and augmented when necessary to achieve appropriate seismic design and construction standards.
 
-(b) Federal Domestic Assistance Programs. Each Federal agency assisting in the financing, through Federal grants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of newly constructed buildings shall plan, and shall initiate no later than 3 years subsequent to the issuance of this order, measures consistent with section 3(a) of this order, to assure appropriate consideration of seismic safety.
+(b) Federal Domestic Assistance Programs. Each Federal agency assisting in the financing, through Federalgrants or loans, or guaranteeing the financing, through loan or mortgage insurance programs, of newly constructed buildings shall plan, and shall initiate no later than 3 years subsequent to the issuance of this order, measures consistent with section 3(a) of this order, to assure appropriate consideration of seismic safety.
 
 (c) Federally Regulated Buildings. Each Federal agency with generic responsibility for regulating the structural safety of buildings shall plan to require use of appropriate seismic design and construction standards for new buildings within the agency's purview. Implementation of the plan shall be initiated no later than 3 years subsequent to the issuance of this order.
 
 Sec. 3. Concurrent Requirements. (a) In accord with Office of Management and Budget Circular A–119 of January 17, 1980, entitled “Federal Participation in the Development and Use of Voluntary Standards,” nationally recognized private sector standards and practices shall be used for the purposes identified in sections 1 and 2 above unless the responsible agency finds that none is available that meets its requirements. The actions ordered herein shall consider the seismic hazards in various areas of the country to be as shown in the most recent edition of the American National Standards Institute Standards A58, <i>Minimum Design Loans for Buildings and Other Structures</i>, or subsequent maps adopted for Federal use in accord with this order. Local building codes determined by the responsible agency or by the Interagency Committee for Seismic Safety in Construction to provide adequately for seismic safety, or special seismic standards and practices required by unique agency mission needs, may be used.
 
-(b) All orders, regulations, circulars, or other directives issued, and all other actions taken prior to the date of this order that meet the requirements of thisorder, are hereby confirmed and ratified and shall be deemed to have been issued under this order.
+(b) All orders, regulations, circulars, or other directives issued, and all other actions taken prior to the date of this order that meet the requirements of this order, are hereby confirmed and ratified and shall be deemed to have been issued under this order.
 
 (c) Federal agencies that are as of this date requiring seismic safety levels that are higher than those imposed by this order in their assigned new building construction programs shall continue to maintain in force such levels.
 
-(d) Nothing in this order shall apply to assistance provided for emergency work essential to save lives and protect property and public health and safety, performed pursuant to Sections 402, 403, 502, and 503 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (Stafford Act) (42 U.S.C. 5170a, 5170b, 5192, and 5193), or for temporary housing assistance programs and individual and family grants performed pursuant to Sections 408 and 411 of the Stafford Act (42 U.S.C. 5174 and 5178). However, this order shall apply to other provisions of the Stafford Act \[42 U.S.C. 5121 et seq.\] after a presidentially declared major disaster or emergency when assistance actions involve new construction or total replacement of a building. Grantees and subgrantees shall be encouraged to adopt the standards established in section 3(a) of this order for use when the construction does not involve Federal funding as well as when Federal Emergency Management Agency (FEMA) funding applies.
+(d) Nothing in this order shall apply to assistance provided for emergency work essential to save lives and protect property and public health and safety, performed pursuant to Sections 402, 403, 502, and 503 of the Robert T. Stafford Disaster Relief and Emergency Assistance Act (Stafford Act) (42 U.S.C. 5170a, 5170b, 5192, and 5193), or for temporary housing assistance programs and individual and family grants performed pursuant to Sections 408 and 411 of the Stafford Act (42 U.S.C. 5174 and former 5178). However, this order shall apply to other provisions of the Stafford Act \[42 U.S.C. 5121 et seq.\] after a presidentially declared major disaster or emergency when assistance actions involve new construction or total replacement of a building. Grantees and subgrantees shall be encouraged to adopt the standards established in section 3(a) of this order for use when the construction does not involve Federal funding as well as when Department of Homeland Security funding applies.
 
-Sec. 4. Agency Responsibilities. (a) The Director of the Federal Emergency Management Agency shall be responsible for reporting to the President on the execution of this order and providing support for the secretariat of the Interagency Committee on Seismic Safety in Construction (ICSSC). The ICSSC, using consensus procedures, shall be responsible to FEMA for the recommendation for adoption of cost-effective seismic design and construction standards and practices required by sections 1 and 2 of this order. Participation in ICSSC shall be open to all agencies with programs affected by this order.
+Sec. 4. Agency Responsibilities. (a) The Secretary of Homeland Security shall be responsible for reporting to the President on the execution of this order and providing support for the secretariat of the Interagency Committee on Seismic Safety in Construction (ICSSC). The ICSSC, using consensus procedures, shall be responsible to FEMA for the recommendation for adoption of cost-effective seismic design and construction standards and practices required by sections 1 and 2 of this order. Participation in ICSSC shall be open to all agencies with programs affected by this order.
 
 (b) To the extent permitted by law, each agency shall issue or amend existing regulations or procedures to comply with this order within 3 years of its issuance and plan for their implementation through the usual budget process. Thereafter, each agency shall review, within a period not to exceed 3 years, its regulations or procedures to assess the need to incorporate new or revised standards and practices.
 
-Sec. 5. Reporting. The Federal Emergency Management Agency shall request, from each agency affected by this order, information on the status of its procedures, progress in its implementation plan, and the impact of this order on its operations. The FEMA shall include an assessment of the execution of this order in its annual report to the Congress on the National Earthquake Hazards Reduction Program.
+Sec. 5. Reporting. The Department of Homeland Security shall request, from each agency affected by this order, information on the status of its procedures, progress in its implementation plan, and the impact of this order on its operations. The Department of Homeland Security shall include an assessment of the execution of this order in its annual report to the Congress on the National Earthquake Hazards Reduction Program.
 
 Sec. 6. Judicial Review. Nothing in this order is intended to create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
-
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

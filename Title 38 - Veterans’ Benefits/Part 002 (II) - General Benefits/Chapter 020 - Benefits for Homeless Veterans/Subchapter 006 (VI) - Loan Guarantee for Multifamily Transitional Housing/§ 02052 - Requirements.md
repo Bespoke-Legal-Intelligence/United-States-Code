@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(A) at the time of taking occupancy by any such veteran or homeless individual, the transitional housing needs of homeless veterans in the project area have been met;
 
-&emsp;&emsp;(B) the housing needs of any such veteran or homeless individual can be met in a manner that is compatible with the manner inwhich the needs of homeless veterans are met under paragraph (1); and
+&emsp;&emsp;(B) the housing needs of any such veteran or homeless individual can be met in a manner that is compatible with the manner in which the needs of homeless veterans are met under paragraph (1); and
 
 &emsp;&emsp;(C) the provisions of paragraphs (4) and (5) of subsection (b) are met.
 

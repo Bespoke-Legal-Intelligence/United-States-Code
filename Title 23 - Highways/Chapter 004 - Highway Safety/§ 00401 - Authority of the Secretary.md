@@ -2,7 +2,7 @@
 
 The Secretary is authorized and directed to assist and cooperate with other Federal departments and agencies, State and local governments, private industry, and other interested parties, to increase highway safety. For the purposes of this chapter, the term “State” means any one of the fifty States, the District of Columbia, Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
-(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 731; amended Pub. L. 93–87, title II, §218, Aug. 13, 1973, 87 Stat. 290; Pub. L. 98–363, §3(b), July 17, 1984, 98 Stat. 436; Pub. L. 100–17, title I, §133(b)(19), Apr. 2, 1987, 101 Stat. 172.)
+(Added Pub. L. 89–564, title I, §101, Sept. 9, 1966, 80 Stat. 731; amended Pub. L. 93–87, title II, §218,Aug. 13, 1973, 87 Stat. 290; Pub. L. 98–363, §3(b), July 17, 1984, 98 Stat. 436; Pub. L. 100–17, title I, §133(b)(19), Apr. 2, 1987, 101 Stat. 172.)
 
 #### Amendments
 
@@ -26,7 +26,7 @@ Pub. L. 100–690, title IX, §9001, Nov. 18, 1988, 102 Stat. 4521, provided tha
 
 #### Short Title of 1987 Amendment
 
-Section 201 of title II of Pub. L. 100–17 provided that: “This title \[amending sections 402 and 408 of this title and section 2314 of former Title 49, Transportation, enacting provisions set out as notes under this section,section 402 of this title, and section 2204 of former Title 49, and amending provisions set out as a note under this section\] be cited as the ‘Highway Safety Act of 1987’.”
+Section 201 of title II of Pub. L. 100–17 provided that: “This title \[amending sections 402 and 408 of this title and section 2314 of former Title 49, Transportation, enacting provisions set out as notes under this section, section 402 of this title, and section 2204 of former Title 49, and amending provisions set out as a note under this section\] be cited as the ‘Highway Safety Act of 1987’.”
 
 #### Short Title of 1983 Amendment
 
@@ -156,7 +156,7 @@ National Highway Safety Campaign.—Utilizing those techniques, methods, and pra
 
 “(i) All provisions of chapter 1 of title 23, United States Code, that are applicable to Federal-aid primary highway funds, other than provisions relating to the apportionment formula and provisions limiting the expenditure of such funds to the Federal-aid systems, shall apply to the funds authorized to be appropriated to carry out this section, except as determined by the Secretary to be inconsistent with this section and except that the funds authorized to be appropriated to carry out this section shall not be subject to any obligation limitation.”
 
-\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed inHouse Document No. 103–7 (in which a report required under section 209(g) of Pub. L. 95–599, set out above, is listed on page 139), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
+\[For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report required under section 209(g) of Pub. L. 95–599, set out above, is listed on page 139), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.\]
 
 #### Highway Safety Educational Programing and Study; Report to Congress; Series of Highway Safety Television Programs; Appropriations Authorizations
 
@@ -190,7 +190,7 @@ Pub. L. 91–605, title II, §202(b), Dec. 31, 1970, 84 Stat. 1740, permitted Pr
 
 Section 202 of Pub. L. 89–564, as amended by Pub. L. 93–87, title II, §224, Aug. 13, 1973, 87 Stat. 292, provided that:
 
-“(a) The Secretary shall prepare and submit to the President for transmittal to the Congress on July 1 of each year a comprehensive report on the administration of the Highway Safety Act of 1966 (including chapter 4 of title 23 of the United States Code) for the preceding calendar year. Such report should include but not be restricted to (1) a thorough statistical compilation of the accidents and injuries occurring in such year; (2) a list of all safety standards issued or in effect in such year; (3) the scope of observance of applicable Federal standards; (4) a statement of enforcement actions including judicial decisions, settlements, or pending litigation during the year; (5) a summary of all current research grants and contracts together with a description of the problems to be considered by such grants and contracts; (6) an analysis and evaluation of completed research activities and technological progress achieved during such year together with the relevant policy recommendations flowing therefrom: (7) the effectiveness of State highway safety program (including local highway safety programs) and (8) the extent to which technical information was being disseminated to the scientific community and consumer-oriented material was made available to the motoring public.
+“(a) The Secretary shall prepare and submit to the President for transmittal to the Congress on July 1 of each year a comprehensive report on the administration of the Highway Safety Act of 1966 (including chapter 4 of title 23 of the United States Code) for the preceding calendar year. Such report should include but not be restricted to (1) a thorough statistical compilation of the accidents and injuries occurring in such year; (2) a list of all safety standards issued or in effect in such year; (3) the scope of observance of applicable Federal standards; (4) a statement of enforcement actions including judicial decisions, settlements, or pending litigation during the year; (5) a summary of all current research grants and contracts together with a description of the problems to be considered by suchgrants and contracts; (6) an analysis and evaluation of completed research activities and technological progress achieved during such year together with the relevant policy recommendations flowing therefrom: (7) the effectiveness of State highway safety program (including local highway safety programs) and (8) the extent to which technical information was being disseminated to the scientific community and consumer-oriented material was made available to the motoring public.
 
 “(b) The annual report shall also contain such recommendations for additional legislation as the Secretary deems necessary to promote cooperation among the several States in the improvement of highway safety and to strengthen the national highway safety program.”
 
@@ -204,7 +204,7 @@ Section 207 of Pub. L. 89–564 directed Secretary, in cooperation with the Gove
 
 Pub. L. 85–684, Aug. 20, 1958, 72 Stat. 635, as amended by Pub. L. 88–466, Aug. 20 1964, 78 Stat. 564, provided: “That the consent of Congress is hereby given to any two or more of the several States, and one or more of the several States and the District of Columbia, to enter into agreements or compacts—
 
-&emsp;“(1) for cooperative effort and mutual assistance in the establishment and carrying out of traffic safety programs, including, but not limited to, the enactment of uniform traffic laws, driver education and training, coordination of traffic law enforcement, research into safe automobile and highway design, andresearch programs of the human factors affecting traffic safety, and
+&emsp;“(1) for cooperative effort and mutual assistance in the establishment and carrying out of traffic safety programs, including, but not limited to, the enactment of uniform traffic laws, driver education and training, coordination of traffic law enforcement, research into safe automobile and highway design, and research programs of the human factors affecting traffic safety, and
 
 &emsp;“(2) for the establishment of such agencies, joint or otherwise, as they deem desirable for the establishment and carrying out of such traffic safety programs.”
 

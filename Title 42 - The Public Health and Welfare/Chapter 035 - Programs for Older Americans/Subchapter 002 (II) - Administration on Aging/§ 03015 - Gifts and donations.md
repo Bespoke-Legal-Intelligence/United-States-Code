@@ -16,7 +16,7 @@ Gifts and donations accepted pursuant to subsection (a) of this section may be u
 
 #### (c) Ethics guidelines
 
-The Assistant Secretary shall establish written guidelines setting forth the criteria to be used in determining whether a gift or donationshould be declined under this section because the acceptance of the gift or donation would—
+The Assistant Secretary shall establish written guidelines setting forth the criteria to be used in determining whether a gift or donation should be declined under this section because the acceptance of the gift or donation would—
 
 &emsp;(1) reflect unfavorably upon the ability of the Administration, the Department of Health and Human Services, or any employee of the Administration or Department, to carry out responsibilities or official duties under this chapter in a fair and objective manner; or
 

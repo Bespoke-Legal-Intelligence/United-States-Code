@@ -22,6 +22,10 @@ Pub. L. 101–649, §407(c)(4), substituted “application” for “petition”
 
 Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1439, 1440 of this title.

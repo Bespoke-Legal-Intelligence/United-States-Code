@@ -1,8 +1,0 @@
-### §138. Repealed. Pub. L. 105–100, title I, §157(f), Nov. 19, 1997, 111 Stat. 2187
-
-Section, Pub. L. 105–33, title XI, §§11715, 11717(b), Aug. 5, 1997, 111 Stat. 784, 786, related to requirement that certain Federal officials provide notice before carrying out activities affecting real property located in the District of Columbia.
-
-#### Effective Date of Repeal
-
-Section 157(f) of Pub. L. 105–100 provided that the repeal of this section is effective Oct. 1, 1997.
-

@@ -98,7 +98,7 @@ Section 1107, Pub. L. 89–329, title V, §551, as added Pub. L. 102–325, titl
 
 A prior section 1107, Pub. L. 89–329, title V, §531, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1500, related to purpose and authority for professional development resource centers program, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
-Another prior section 1107, Pub. L. 89–329, title V, §517, Nov. 8, 1965, 79 Stat. 1258; Pub. L. 90–35, §3(a)(3), June 29, 1967, 81 Stat. 85, prohibited members of the Teacher Corps from acting as replacements for teachers, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
+Another prior section 1107, Pub. L. 89–329, title V, §517, Nov. 8, 1965, 79 Stat. 1258; Pub. L. 90–35, §3(a)(3),June 29, 1967, 81 Stat. 85, prohibited members of the Teacher Corps from acting as replacements for teachers, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
 Prior sections 1107a to 1107d were omitted in the general amendment of this subchapter by Pub. L. 102–325.
 
@@ -162,7 +162,7 @@ Section 1110, Pub. L. 89–329, title V, §566, as added Pub. L. 102–325, titl
 
 A prior section 1110, Pub. L. 89–329, title V, §520, as added Pub. L. 90–35, §4, June 29, 1967, 81 Stat. 88; amended Pub. L. 90–575, title II, §233(b), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §§143(a)(2), (3), 144(a), 145(a), 146(a), June 23, 1972, 86 Stat. 286, 287, set forth requirements for State plans as prerequisite for receipt of grant by State, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
-Section 1110a, Pub. L. 89–329, title V, §567, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 703, defined “developmentally appropriate” and “middle school”.
+Section 1110a, Pub. L. 89–329, title V, §567, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat.703, defined “developmentally appropriate” and “middle school”.
 
 A prior section 1110a, Pub. L. 89–329, title V, §520A, as added Pub. L. 90–35, §4, June 29, 1967, 81 Stat. 89, set forth manner of repayment of amounts expended by each State for implementation of State plan, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
@@ -228,7 +228,7 @@ Section 1112c, Pub. L. 89–329, title V, §580, as added Pub. L. 102–325, tit
 
 Section 1112d, Pub. L. 89–329, title V, §580A, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 710, authorized grants for teacher training and placement programs.
 
-Section 1112e, Pub. L. 89–329, title V, §580B, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 710; amended Pub. L. 103–208, §2(j)(7), Dec. 20, 1993, 107 Stat. 2481, authorized appropriations for programs under sections 1112a and 1112d of this title.
+Section 1112e, Pub. L. 89–329, title V, §580B, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat.710; amended Pub. L. 103–208, §2(j)(7), Dec. 20, 1993, 107 Stat. 2481, authorized appropriations for programs under sections 1112a and 1112d of this title.
 
 Section 1113, Pub. L. 89–329, title V, §581, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 711; amended Pub. L. 103–208, §2(j)(8), Dec. 20, 1993, 107 Stat. 2481; Pub. L. 103–382, title III, §391(e)(6), (7), Oct. 20, 1994, 108 Stat. 4022, 4023, authorized grants for partnerships to carry out National Mini Corps Program.
 
@@ -260,7 +260,7 @@ Section 1115, Pub. L. 89–329, title V, §591, as added Pub. L. 102–325, titl
 
 A prior section 1115, Pub. L. 89–329, title V, §571, as added Pub. L. 99–498, title V, §501(a), Oct. 17, 1986, 100 Stat. 1512, related to State task forces on teacher training, prior to the general amendment of this subchapter by Pub. L. 102–325.
 
-Another prior section 1115, Pub. L. 89–329, title V, §525, Nov. 8, 1965, 79 Stat. 1260; Pub. L. 90–35, §5(f), June 29, 1967, 81 Stat. 91; Pub. L. 90–575, title II, §238, Oct. 16, 1968, 82 Stat. 1040; Pub. L. 92–318, title I, §141(c)(3), June 23, 1972, 86 Stat. 285, authorized Commissioner to paystipends to individuals awarded fellowships and additional amounts to institutions of higher education for support of programs, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
+Another prior section 1115, Pub. L. 89–329, title V, §525, Nov. 8, 1965, 79 Stat. 1260; Pub. L. 90–35, §5(f), June 29, 1967, 81 Stat. 91; Pub. L. 90–575, title II, §238, Oct. 16, 1968, 82 Stat. 1040; Pub. L. 92–318, title I, §141(c)(3), June 23, 1972, 86 Stat. 285, authorized Commissioner to pay stipends to individuals awarded fellowships and additional amounts to institutions of higher education for support of programs, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, eff. Sept. 30, 1976.
 
 Section 1116, Pub. L. 89–329, title V, §593, as added Pub. L. 102–325, title V, §501(a), July 23, 1992, 106 Stat. 715, authorized grants for development of model programs of development and training of faculty who teach students with disabilities.
 
@@ -284,7 +284,7 @@ Section 1119 Pub. L. 89–329, title V, §531, as added Pub. L. 94–482, title 
 
 Another prior section 1119, Pub. L. 89–329, title V, §531, as added Pub. L. 90–35, §6, June 29, 1967, 81 Stat. 91; amended Pub. L. 90–247, title VII, §704(d), Jan. 2, 1968, 81 Stat. 820; Pub. L. 92–318, title I, §§147(a), 148(a), June 23, 1972, 86 Stat. 287, authorized training and retraining programs for education personnel other than higher education personnel, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, effective Sept. 30, 1976.
 
-Section 1119a, Pub. L. 89–329, title V, §532, as added Pub. L. 94–482, title I, §153, formerly §153(a), Oct. 12, 1976, 90 Stat. 2154, renumbered Pub. L. 95–43, §1(b)(5), June 15, 1977, 91 Stat. 218; amended Pub. L. 95–561, title XIII, §1321(b), Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374, title V, §503(b), (c), title XIII, §1391(a)(1), (2), Oct. 3, 1980, 94 Stat. 1459, 1460, 1503, related to grants, functions, etc., of teacher centers, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
+Section 1119a, Pub. L. 89–329, title V, §532, as added Pub. L. 94–482, title I, §153, formerly §153(a), Oct. 12, 1976, 90 Stat. 2154, renumbered Pub. L. 95–43, §1(b)(5), June 15, 1977, 91 Stat. 218; amended Pub. L. 95–561, title XIII, §1321(b), Nov. 1, 1978, 92 Stat. 2363; Pub. L. 96–374,title V, §503(b), (c), title XIII, §1391(a)(1), (2), Oct. 3, 1980, 94 Stat. 1459, 1460, 1503, related to grants, functions, etc., of teacher centers, prior to repeal by Pub. L. 97–35, title V, §587(a)(2), Aug. 13, 1981, 95 Stat. 480, eff. Oct. 1, 1982.
 
 Another prior section 1119a, Pub. L. 89–329, title V, §532, as added Pub. L. 92–318, title IV, §451(b), June 23, 1972, 86 Stat. 344, authorized teachers for Indian children as part of the training and retraining program, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(A), Oct. 12, 1976, 90 Stat. 2152, effective Sept. 30, 1976.
 
@@ -314,7 +314,7 @@ Section 1119b–5, Pub. L. 89–329, title V, §546, as added Pub. L. 96–374, 
 
 Section 1119c, Pub. L. 89–329, title V, §551, as added Pub. L. 96–374, title V, §506, Oct. 3, 1980, 94 Stat. 1463, stated Congressional findings concerning Federal programs to train education professionals.
 
-Another prior section 1119c, Pub. L. 89–329, title V, §551, as added Pub. L. 90–576, title II, §201, Oct. 16, 1968,82 Stat. 1091, set forth Congressional declaration of purpose, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
+Another prior section 1119c, Pub. L. 89–329, title V, §551, as added Pub. L. 90–576, title II, §201, Oct. 16, 1968, 82 Stat. 1091, set forth Congressional declaration of purpose, prior to repeal by Pub. L. 94–482, title I, §151(a)(4)(C), title II, §204(c)(1), Oct. 12, 1976, 90 Stat. 2152, 2215.
 
 Section 1119c–1, Pub. L. 89–329, title V, §552, as added Pub. L. 96–374, title V, §506, Oct. 3, 1980, 94 Stat. 1464, stated Congressional declaration of policy concerning Federal programs to support education professional development.
 

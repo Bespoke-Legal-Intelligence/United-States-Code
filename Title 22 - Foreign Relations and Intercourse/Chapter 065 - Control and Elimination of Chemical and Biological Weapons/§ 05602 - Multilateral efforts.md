@@ -8,7 +8,7 @@ It is the policy of the United States to seek multilaterally coordinated efforts
 
 &emsp;(2) set as a top priority the early conclusion of a comprehensive global agreement banning the use, development, production, and stockpiling of chemical weapons;
 
-&emsp;(3) seek and support effective international means of monitoring and reporting regularlyon commerce in equipment, materials, and technology applicable to the attainment of a chemical or biological weapons capability; and
+&emsp;(3) seek and support effective international means of monitoring and reporting regularly on commerce in equipment, materials, and technology applicable to the attainment of a chemical or biological weapons capability; and
 
 &emsp;(4) pursue and give full support to multilateral sanctions pursuant to United Nations Security Council Resolution 620, which declared the intention of the Security Council to give immediate consideration to imposing “appropriate and effective” sanctions against any country which uses chemical weapons in violation of international law.
 

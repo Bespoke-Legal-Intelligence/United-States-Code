@@ -6,7 +6,7 @@ For purposes of this subpart:
 
 &emsp;(1) The term “program involved” means the program of grants established in section 300x or 300x–21 of this title, or both, as indicated by whether the State involved is receiving or is applying to receive a grant under section 300x or 300x–21 of this title, or both.
 
-&emsp;(2)(A) The term “funding agreement”, with respect to a grant under section 300x of thistitle, has the meaning given such term in section 300x–8 of this title.
+&emsp;(2)(A) The term “funding agreement”, with respect to a grant under section 300x of this title, has the meaning given such term in section 300x–8 of this title.
 
 &emsp;(B) The term “funding agreement”, with respect to a grant under section 300x–21 of this title, has the meaning given such term in section 300x–34 of this title.
 

@@ -22,7 +22,7 @@ The Secretary is authorized to reimburse non-Federal interests for work done by 
 
 #### Amendments
 
-1996—Pub. L. 104–303 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “Secretary” for “Secretary of the Army” and “non-Federal interests” for “local interests”, inserted “or separable element of the project” after “project”, inserted “or separable elements” after “projects” wherever appearing, and added subsec. (b).
+1996—Pub. L. 104–303 inserted section catchline, designated existing provisions as subsec. (a), inserted heading, substituted “Secretary” for “Secretary of theArmy” and “non-Federal interests” for “local interests”, inserted “or separable element of the project” after “project”, inserted “or separable elements” after “projects” wherever appearing, and added subsec. (b).
 
 1962—Pub. L. 87–874 substituted provisions which authorize the Secretary of the Army to reimburse local interests for work done on authorized projects which individually do not exceed $1,000,000 in cost, and provide that such reimbursement shall be subject to applicable appropriations or available funds and not take priority over pending projects of higher priority, for provisions which authorized the Chief of Engineers to cause to be paid to the political subdivision involved the amount authorized by Congress.
 
@@ -34,7 +34,7 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Transfer of Functions
 
-Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
+Functions, powers, and duties of Secretary of the Army and other offices and officers of Department of the Army under section 401 of this title to extent that they relate generally to location and clearances of bridges and causeways in navigable waters of United States transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(g)(6)(A), Oct. 15, 1966, 80 Stat. 941, which created Department of Transportation. Pub. L. 97–449 amended section 401 of this title to reflect transfer made by section 6(g)(6)(A) of Pub. L. 89–670, and repealed section 6(g)(6)(A).
 
 #### Section Referred to in Other Sections
 

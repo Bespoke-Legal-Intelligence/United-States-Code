@@ -1,0 +1,116 @@
+### §8903. Congressional authorization of commemorative works
+
+(a)
+
+In General.—Commemorative works—
+
+&emsp;(1) may be established on federal lands referred to in section 8901(4) of this title only as specifically authorized by law; and
+
+&emsp;(2) are subject to applicable provisions of this chapter.
+
+(b)
+
+Military Commemorative Works.—A military commemorative work may be authorized only to commemorate a war or similar major military conflict or a branch of the armed forces. A commemorative work commemorating a lesser conflict or a unit of an armed force may not be authorized. Commemorative works to a war or similar major military conflict may not be authorized until at least 10 years after the officially designated end of the event.
+
+(c)
+
+Works Commemorating Events, Individuals, or Groups.—A commemorative work commemorating an event, individual, or group of individuals, except a military commemorative work as described in subsection (b), may not be authorized until after the 25th anniversary of the event, death of the individual, or death of the last surviving member of the group.
+
+(d)
+
+Consultation With National Capital Memorial Commission.—In considering legislation authorizing commemorative works in the District of Columbia and its environs, the Committee on House Administration of the House of Representatives and the Committee on Energy and Natural Resources of the Senate shall solicit the views of the National Capital Memorial Commission.
+
+(e)
+
+Expiration of Legislative Authority.—Legislative authority for a commemorative work expires at the end of the seven-year period beginning on the date the authority is enacted unless the Secretary of the Interior or Administrator of General Services, as appropriate, has issued a construction permit for the commemorative work during that period.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1228.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8903(a)
+
+40:1003(a).
+
+Pub. L. 99–652, §3, Nov. 14, 1986, 100 Stat. 3651; Pub. L. 100–202, §101(f) \[title II, §3\], Dec. 22, 1987, 101 Stat. 1329–196; Pub. L. 100–230, §3, Jan. 5, 1988, 101 Stat. 1564; Pub. L. 103–321, §2(b), Aug. 26, 1994, 108 Stat. 1793; Pub. L 104–186, title II, §221(18), Aug. 20, 1996, 110 Stat. 1750.
+
+8903(b)
+
+40:1003(b).
+
+8903(c)
+
+40:1003(c).
+
+8903(d)
+
+40:1003(d).
+
+8903(e)
+
+40:1010(b).
+
+Pub. L. 99–652, §10(b), Nov. 14, 1986, 100 Stat. 3654; Pub. L. 102–216, §1, Dec. 11, 1991, 105 Stat. 1666.
+
+In subsection (a)(1), the words “in the District of Columbia and its environs” are omitted as unnecessary.
+
+In subsection (d), the words “House Administration” are substituted for “House Oversight” because the name of the Committee was changed in the 106th Congress. See Rule X(1)(i) of the Rules of the House of Representatives.
+
+Commemorative Works
+
+&nbsp;
+
+Adams Memorial.—Pub. L. 107–62, Nov. 5, 2001, 115 Stat. 411; Pub. L. 107–315, Dec. 2, 2002, 116 Stat. 2763.
+
+African-Americans Civil War Union Memorial.—Pub. L. 102–412, Oct. 14, 1992, 106 Stat. 2104.
+
+Air Force Memorial.—Pub. L. 103–163, Dec. 2, 1993, 107 Stat. 1973; Pub. L. 106–302, Oct. 13, 2000, 114 Stat. 1062; Pub. L. 107–107, div. B, title XXVIII, §2863(a)–(e), Dec. 28, 2001, 115 Stat. 1330–1332.
+
+American Armored Force Memorial.—Pub. L. 99–620, Nov. 6, 1986, 100 Stat. 3493.
+
+Benjamin Banneker Memorial.—Pub. L. 105–355, title V, §512, Nov. 6, 1998, 112 Stat. 3266.
+
+Black Revolutionary War Patriots Memorial.—Pub. L. 99–500, §101(h) \[title I, §118\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §118\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–558, Oct. 27, 1986, 100 Stat. 3144; Pub. L. 99–590, title VIII, §§801, 802, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 100–265, Mar. 25, 1988, 102 Stat. 39; Pub. L. 103–321, §1(a)(1), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 104–333, div. I, title V, §506, Nov. 12, 1996, 110 Stat. 4155; Pub. L. 105–345, §1, Nov. 2, 1998, 112 Stat. 3205; Pub. L. 106–442, Nov. 6, 2000, 114 Stat. 1926.
+
+Disabled Veterans’ LIFE Memorial.—Pub. L. 106–348, Oct. 24, 2000, 114 Stat. 1358.
+
+Dwight D. Eisenhower Memorial.—Pub. L. 106–79, title VIII, §8162, Oct. 25, 1999, 113 Stat. 1274; Pub. L. 107–117, div. A, title VIII, §8120(a), (b), Jan. 10, 2002, 115 Stat. 2273, 2274.
+
+Francis Scott Key Memorial.—Pub. L. 99–531, Oct. 27, 1986, 100 Stat. 3022.
+
+Frederick Douglass Memorial and Gardens.—Pub. L. 106–479, Nov. 9, 2000, 114 Stat. 2184.
+
+George Mason Memorial.—Pub. L. 101–358, Aug. 10, 1990, 104 Stat. 419; Pub. L. 102–277, Apr. 28, 1992, 106 Stat. 127; Pub. L. 105–182, §1, June 19, 1998, 112 Stat. 516.
+
+Japanese American Patriotism in World War II Memorial.—Pub. L. 102–502, Oct. 24, 1992, 106 Stat. 3273; Pub. L. 104–333, div. I, title V, §514, Nov. 12, 1996, 110 Stat. 4165.
+
+Korean War Veterans Memorial.—Pub. L. 99–572, Oct. 28, 1986, 100 Stat. 3226; Pub. L. 100–202, §101(f) \[title II, §§1, 2\], Dec. 22, 1987, 101 Stat. 1329–195, 1329–196; Pub. L. 100–230, §§1, 2, Jan. 5, 1988, 101 Stat. 1563; Pub. L. 100–267, Mar. 28, 1988, 102 Stat. 41; Pub. L. 105–262, title VIII, §8122, Oct. 17, 1998, 112 Stat. 2332.
+
+Lincoln Memorial, “I Have a Dream Speech” Commemorative Plaque.—Pub. L. 106–365, Oct. 27, 2000, 114 Stat. 1409.
+
+Mahatma Gandhi Memorial.—Pub. L. 105–284, §1, Oct. 26, 1998, 112 Stat. 2701.
+
+Martin Luther King, Jr. Memorial.—Pub. L. 104–333, div. I, title V, §508, Nov. 12, 1996, 110 Stat. 4157; Pub. L. 105–201, §1, July 16, 1998, 112 Stat. 675; Pub. L. 106–176, title I, §108, Mar. 10, 2000, 114 Stat. 26.
+
+National Peace Garden.—Pub. L. 100–63, June 30, 1987, 101 Stat. 379; Pub. L. 103–321, §1(a)(3), (b), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 105–202, July 16, 1998, 112 Stat. 676.
+
+Thomas Paine Memorial.—Pub. L. 102–407, Oct. 13, 1992, 106 Stat. 1991; Pub. L. 102–459, Oct. 23, 1992, 106 Stat. 2268; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–113, div. B, §1000(a)(3) \[title I, §142\], Nov. 29, 1999, 113 Stat. 1535, 1501A–171.
+
+Tomas G. Masaryk Memorial.—Pub. L. 107–61, Nov. 5, 2001, 115 Stat. 410.
+
+Victims of Communism Memorial.—Pub. L. 103–199, title IX, §905, Dec. 17, 1993, 107 Stat. 2331; Pub. L. 105–277, div. A, §101(e) \[title III, §326\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–291.
+
+Vietnam Women's Memorial.—Pub. L. 100–660, Nov. 15, 1988, 102 Stat. 3922; Pub. L. 101–187, Nov. 28, 1989, 103 Stat. 1350.
+
+Women in Military Service for America Memorial.—Pub. L. 99–500, §101(h) \[title I, §117\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–266, and Pub. L. 99–591, §101(h) \[title I, §117\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–266; Pub. L. 99–590, title IX, §§901, 902, Oct. 30, 1986, 100 Stat. 3339; Pub. L. 99–610, Nov. 6, 1986, 100 Stat. 3477; Pub. L. 103–321, §1(a)(2), Aug. 26, 1994, 108 Stat. 1793; Pub. L. 103–337, div. B, title XXVIII, §2855, Oct. 5, 1994, 108 Stat. 3073.
+
+World War II Memorial.—Pub. L. 103–32, May 25, 1993, 107 Stat. 90; Pub. L. 103–422, Oct. 25, 1994, 108 Stat. 4356; Pub. L. 106–58, title VI, §652, Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–117, title VI, §601(b), Nov. 30, 1999, 113 Stat. 1578; Pub. L. 107–11, May 28, 2001, 115 Stat. 19.
+

@@ -94,7 +94,7 @@ There are authorized to be appropriated, in equal parts from the Federal Hospita
 
 #### References in Text
 
-The Older Americans Act, referred to in subsec. (d)(1)(C)(ii), probably means the Older Americans Act of1965, which is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, and is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
+The Older Americans Act, referred to in subsec. (d)(1)(C)(ii), probably means the Older Americans Act of 1965, which is Pub. L. 89–73, July 14, 1965, 79 Stat. 218, as amended, and is classified generally to chapter 35 (§3001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3001 of this title and Tables.
 
 #### Codification
 
@@ -120,7 +120,7 @@ Subsec. (e)(1). Pub. L. 103–432, §171(i)(6)(C), struck out “State-wide” b
 
 Subsec. (f). Pub. L. 103–437, §15(b)(1), in introductory provisions, substituted “and the Committee on Energy and Commerce” for “the Committee on Energy and Commerce of the House of Representatives, and the Select Committee on Aging”.
 
-Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made identical amendments, redesignating subsec. (f), relating to authorization of appropriations for grants, as (g).
+Pub. L. 103–432, §171(i)(8)(B), and Pub. L. 103–437, §15(b)(2), made identical amendments, redesignatingsubsec. (f), relating to authorization of appropriations for grants, as (g).
 
 Pub. L. 103–432, §171(i)(8)(A), in subsec. (f), relating to authorization of appropriations for grants, substituted “1993, 1994, 1995, and 1996” for “and 1993”.
 

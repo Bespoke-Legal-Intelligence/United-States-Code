@@ -18,6 +18,7 @@ This subchapter is referred to in section 289b of this title.
 - [&sect; 00287e - Authorization of appropriations; payment of expenses](%C2%A7%2000287e%20-%20Authorization%20of%20appropriations%3B%20payment%20of%20expenses.md)
 - [&sect; 00287e&#8211;1 - Housing supplement for certain employees assigned to the United States Mission to the United Nations](%C2%A7%2000287e%E2%80%931%20-%20Housing%20supplement%20for%20certain%20employees%20assigned%20to%20the%20United%20States%20Mission%20to%20the%20United%20Nations.md)
 - [&sect; 00287e&#8211;2 - Reimbursement for goods and services provided by the United States to the United Nations](%C2%A7%2000287e%E2%80%932%20-%20Reimbursement%20for%20goods%20and%20services%20provided%20by%20the%20United%20States%20to%20the%20United%20Nations.md)
+- [&sect; 00287e&#8211;3 - Limitation on the United States share of assessments for United Nations regular budget](%C2%A7%2000287e%E2%80%933%20-%20Limitation%20on%20the%20United%20States%20share%20of%20assessments%20for%20United%20Nations%20regular%20budget.md)
 - [&sect; 00287f - Omitted](%C2%A7%2000287f%20-%20Omitted.md)
 - [&sect; 00287g - Authorization of appropriations for loan to United Nations; restrictions on use of proceeds of loan](%C2%A7%2000287g%20-%20Authorization%20of%20appropriations%20for%20loan%20to%20United%20Nations%3B%20restrictions%20on%20use%20of%20proceeds%20of%20loan.md)
 - [&sect; 00287h - Limitation on loan](%C2%A7%2000287h%20-%20Limitation%20on%20loan.md)

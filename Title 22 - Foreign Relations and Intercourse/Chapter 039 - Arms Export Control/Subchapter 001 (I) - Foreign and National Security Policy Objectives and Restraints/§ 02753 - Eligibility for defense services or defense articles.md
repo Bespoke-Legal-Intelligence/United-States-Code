@@ -12,7 +12,7 @@ No defense article or defense service shall be sold or leased by the United Stat
 
 &emsp;(4) the country or international organization is otherwise eligible to purchase or lease defense articles or defense services.
 
-> In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, or other implement of war to another country, the President shall not give his consent under paragraph (2) to the transfer unless the United States itself would transfer the defense article under consideration to that country. In addition, the President shall not give his consent under paragraph (2) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President. The President shall promptly submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate on the implementation of each agreement entered into pursuant to clause (2) of this subsection.
+> In considering a request for approval of any transfer of any weapon, weapons system, munitions, aircraft, military boat, military vessel, or other implement of war to another country, the President shall not give his consent under paragraph (2) to the transfer unless the United States itself would transfer the defense article under consideration to that country. In addition, the President shall not give his consentunder paragraph (2) to the transfer of any significant defense articles on the United States Munitions List unless the foreign country requesting consent to transfer agrees to demilitarize such defense articles prior to transfer, or the proposed recipient foreign country provides a commitment in writing to the United States Government that it will not transfer such defense articles, if not demilitarized, to any other foreign country or person without first obtaining the consent of the President. The President shall promptly submit a report to the Speaker of the House of Representatives and to the Committee on Foreign Relations of the Senate on the implementation of each agreement entered into pursuant to clause (2) of this subsection.
 
 #### (b) Necessity of consent by President
 
@@ -54,7 +54,7 @@ The consent of the President under paragraph (2) of subsection (a) of this secti
 
 #### (d) Submission of written certification to Congress; contents; classified material; effective date of consent; report to Congress; transfers not subject to procedures
 
-(1) The President may not give his consent under paragraph (2) of subsection (a) of this section or under the third sentence of such subsection, or under section 2314(a)(1) or 2314(a)(4) of this title, to a transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or any defense article or related training or other defense service valued (in terms of its original acquisition cost) at $50,000,000 or more, unless the President submits to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate a written certification with respect to such proposed transfer containing—
+(1) Subject to paragraph (5), the President may not give his consent under paragraph (2) of subsection (a) of this section or under the third sentence of such subsection, or under section 2314(a)(1) or 2314(a)(4) of this title, to a transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or any defense article or related training or other defense service valued (in terms of its original acquisition cost) at $50,000,000 or more, unless the President submits to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate a written certification with respect to such proposed transfer containing—
 
 &emsp;(A) the name of the country or international organization proposing to make such transfer,
 
@@ -78,7 +78,7 @@ The consent of the President under paragraph (2) of subsection (a) of this secti
 
 (ii) For the purpose of expediting the consideration and enactment of joint resolutions under this paragraph, a motion to proceed to the consideration of any such joint resolution after it has been reported by the appropriate committee shall be treated as highly privileged in the House of Representatives.
 
-(3)(A) The President may not give his consent to the transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more, the export of which has been licensed or approved under section 2778 of this title, unless before giving such consent the President submits to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a certification containing the information specified in subparagraphs (A) through (E) of paragraph (1). Such certification shall be submitted—
+(3)(A) Subject to paragraph (5), the President may not give his consent to the transfer of any major defense equipment valued (in terms of its original acquisition cost) at $14,000,000 or more, or of any defense article or defense service valued (in terms of its original acquisition cost) at $50,000,000 or more, the export of which has been licensed or approved under section 2778 of this title, unless before giving such consent the President submits to the Speaker of the House of Representatives and the Chairman of the Committee on Foreign Relations of the Senate a certification containing the information specified in subparagraphs (A) through (E) of paragraph (1). Such certification shall be submitted—
 
 &emsp;(i) at least 15 calendar days before such consent is given in the case of a transfer to a country which is a member of the North Atlantic Treaty Organization or Australia, Japan, or New Zealand; and
 
@@ -104,6 +104,12 @@ The consent of the President under paragraph (2) of subsection (a) of this secti
 
 &emsp;&emsp;(ii) for lead-nation procurement if the certification transmitted to the Congress pursuant to section 2776(b) of this title with regard to such lead-nation procurement identified the transferees on whose behalf the lead-nation procurement was proposed.
 
+(5) In the case of a transfer to a member country of the North Atlantic Treaty Organization (NATO) or Australia, Japan, or New Zealand that does not authorize a new sales territory that includes any country other than such countries, the limitations on consent of the President set forth in paragraphs (1) and (3)(A) shall apply only if the transfer is—
+
+&emsp;(A) a transfer of major defense equipment valued (in terms of its original acquisition cost) at $25,000,000 or more; or
+
+&emsp;(B) a transfer of defense articles or defense services valued (in terms of its original acquisition cost) at $100,000,000 or more).<sup>1</sup>
+
 #### (e) Transfers without consent of President; report to Congress
 
 If the President receives any information that a transfer of any defense article, or related training or other defense service, has been made without his consent as required under this section or under section 2314 of this title, he shall report such information immediately to the Speaker of the House of Representatives and the Committee on Foreign Relations of the Senate.
@@ -116,13 +122,17 @@ No sales or leases shall be made to any country that the President has determine
 
 Any agreement for the sale or lease of any article on the United States Munitions List entered into by the United States Government after November 29, 1999, shall state that the United States Government retains the right to verify credible reports that such article has been used for a purpose not authorized under section 2754 of this title or, if such agreement provides that such article may only be used for purposes more limited than those authorized under section 2754 of this title, for a purpose not authorized under such agreement.
 
-(Pub. L. 90–629, ch. 1, §3, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 91–672, §1, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(2), Dec. 17, 1973, 87 Stat. 729;Pub. L. 93–559, §45(a)(1), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §§203(a), 204(a), (b)(1), title III, §304(b), June 30, 1976, 90 Stat. 735, 736, 754, 755; Pub. L. 95–92, §§15–18, Aug. 4, 1977, 91 Stat. 622; Pub. L. 96–92, §11, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §101, Dec. 16, 1980, 94 Stat. 3131; Pub. L. 97–113, title I, §§101(a), 102(a), 109(b)(2), Dec. 29, 1981, 95 Stat. 1519, 1520, 1526; Pub. L. 99–83, title I, §115(b)(2), title V, §503(b), Aug. 8, 1985, 99 Stat. 201, 221; Pub. L. 99–145, title XI, §1102(a)(3), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–247, §1(a), Feb. 12, 1986, 100 Stat. 9; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–461, title V, §577, Oct. 1, 1988, 102 Stat. 2268–45; Pub. L. 101–222, §2(b), Dec. 12, 1989, 103 Stat. 1896; Pub. L. 103–236, title VIII, §822(a)(1), Apr. 30, 1994, 108 Stat. 511; Pub. L. 104–164, title I, §§141(a), (b), 142, July 21, 1996, 110 Stat. 1430, 1431, 1433; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1225\], Nov. 29, 1999, 113 Stat. 1536, 1501A–499.)
+(Pub. L. 90–629, ch. 1, §3, Oct. 22, 1968, 82 Stat. 1322; Pub. L. 91–672, §1, Jan. 12, 1971, 84 Stat. 2053; Pub. L. 93–189, §25(2), Dec. 17, 1973, 87 Stat. 729; Pub. L. 93–559, §45(a)(1), Dec. 30, 1974, 88 Stat. 1813; Pub. L. 94–329, title II, §§203(a), 204(a), (b)(1), title III, §304(b), June 30, 1976, 90 Stat. 735, 736, 754, 755; Pub. L. 95–92, §§15–18, Aug. 4, 1977, 91 Stat. 622; Pub. L. 96–92, §11, Oct. 29, 1979, 93 Stat. 705; Pub. L. 96–533, title I, §101, Dec. 16, 1980, 94 Stat. 3131; Pub. L. 97–113, title I, §§101(a), 102(a), 109(b)(2), Dec. 29, 1981, 95 Stat. 1519, 1520, 1526; Pub. L. 99–83, title I, §115(b)(2), title V, §503(b), Aug. 8, 1985, 99 Stat. 201, 221; Pub. L. 99–145, title XI, §1102(a)(3), (5), Nov. 8, 1985, 99 Stat. 710; Pub. L. 99–247, §1(a), Feb. 12, 1986, 100 Stat. 9; Pub. L. 99–661, div. A, title XIII, §1342(e), Nov. 14, 1986, 100 Stat. 3991; Pub. L. 100–461, title V, §577, Oct. 1, 1988, 102 Stat. 2268–45; Pub. L. 101–222, §2(b), Dec. 12, 1989, 103 Stat. 1896; Pub. L. 103–236, title VIII, §822(a)(1), Apr. 30, 1994, 108 Stat. 511; Pub. L. 104–164, title I, §§141(a), (b), 142, July 21, 1996, 110 Stat. 1430, 1431, 1433; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §1225\], Nov. 29, 1999, 113 Stat. 1536, 1501A–499; Pub. L. 107–228, div. B, title XIV, §1405(a)(1), Sept. 30, 2002, 116 Stat. 1456.)
 
 #### References in Text
 
 Section 601(b) of the International Security Assistance and Arms Export Control Act of 1976, referred to in subsec. (d)(2)(D)(i), (3)(C)(i), is section 601(b) of Pub. L. 94–329, June 30, 1976, 90 Stat. 729, which made provision for expedited procedures in the Senate, and is not classified to the Code.
 
 #### Amendments
+
+2002—Subsec. (d)(1), (3)(A). Pub. L. 107–228, §1405(a)(1)(A), substituted “Subject to paragraph (5), the President may not” for “The President may not” in introductory provisions.
+
+Subsec. (d)(5). Pub. L. 107–228, §1405(a)(1)(B), added par. (5).
 
 1999—Subsec. (g). Pub. L. 106–113 added subsec. (g).
 
@@ -250,7 +260,7 @@ Countries Defined.—This section shall apply to any country that is—
 
 Exclusions.—Information reportable under title V of the National Security Act of 1947 \[50 U.S.C. 413 et seq.\] is excluded from the requirements of this section.”
 
-\[For delegation of functions of President under section 101(d) \[title V, §594\] of div. A of Pub. L. 105–277, set out above, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R.56673, as amended, set out as a note under section 2381 of this title.\]
+\[For delegation of functions of President under section 101(d) \[title V, §594\] of div. A of Pub. L. 105–277, set out above, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.\]
 
 #### Eligibility of Baltic States for Nonlethal Defense Articles
 
@@ -279,4 +289,6 @@ Definitions.—As used in this section—
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2765, 2776, 2780, 2799b, 3281 of this title; title 10 section 4542.
+
+<i><sup>1</sup></i><i> So in original. The closing parenthesis probably should not appear.</i>
 

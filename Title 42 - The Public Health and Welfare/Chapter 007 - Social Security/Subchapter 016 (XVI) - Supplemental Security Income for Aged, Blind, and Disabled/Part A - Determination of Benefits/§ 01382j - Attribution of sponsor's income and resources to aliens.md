@@ -18,7 +18,7 @@ For purposes of determining eligibility for and the amount of benefits under thi
 
 &emsp;(A) The total amount of the resources (as determined under section 1382b of this title) of such sponsor and such sponsor's spouse (if such spouse is living with the sponsor) shall be determined.
 
-&emsp;(B) The amount determined under subparagraph (A) shall be reduced by an amount equalto (i) the applicable amount determined under section 1382(a)(3)(B) of this title in the case of a sponsor who has no spouse with whom he is living, or (ii) the applicable amount determined under section 1382(a)(3)(A) of this title in the case of a sponsor who has a spouse with whom he is living.
+&emsp;(B) The amount determined under subparagraph (A) shall be reduced by an amount equal to (i) the applicable amount determined under section 1382(a)(3)(B) of this title in the case of a sponsor who has no spouse with whom he is living, or (ii) the applicable amount determined under section 1382(a)(3)(A) of this title in the case of a sponsor who has a spouse with whom he is living.
 
 &emsp;(C) The resources of such sponsor (and spouse) as determined under subparagraphs (A) and (B) shall be deemed to be resources of such alien in addition to any resources of such alien.
 
@@ -28,7 +28,7 @@ In determining the amount of income of an alien during the period of 3 years aft
 
 #### (d) Information and documentation; agreements with Secretary of State and Attorney General
 
-(1) Any individual who is an alien shall, during the period of 3 years after entry into the United States, in order to be an eligible individual or eligible spouse for purposes of this subchapter, be required to provide to the Commissioner of Social Security such information and documentation with respect to his sponsor as may be necessary in order for the Commissioner of Social Security to make any determination required under this section, and to obtain any cooperation from such sponsor necessary for any such determination. Such alien shall also be required to provide to the Commissioner of Social Security such information and documentation as the Commissioner of Social Security may request and which such alien or his sponsor provided in support of such alien's immigration application.
+(1) Any individual who is an alien shall, during the period of 3 years after entry into the UnitedStates, in order to be an eligible individual or eligible spouse for purposes of this subchapter, be required to provide to the Commissioner of Social Security such information and documentation with respect to his sponsor as may be necessary in order for the Commissioner of Social Security to make any determination required under this section, and to obtain any cooperation from such sponsor necessary for any such determination. Such alien shall also be required to provide to the Commissioner of Social Security such information and documentation as the Commissioner of Social Security may request and which such alien or his sponsor provided in support of such alien's immigration application.
 
 (2) The Commissioner of Social Security shall enter into agreements with the Secretary of State and the Attorney General whereby any information available to such persons and required in order to make any determination under this section will be provided by such persons to the Commissioner of Social Security, and whereby such persons shall inform any sponsor of an alien, at the time such sponsor executes an affidavit of support or similar agreement, of the requirements imposed by this section.
 
@@ -87,6 +87,10 @@ Amendment by section 2663(g)(10) of Pub. L. 98–369 effective July 18, 1984, bu
 #### Effective Date
 
 Section 504(c) of Pub. L. 96–265 provided that: “The amendments made by this section \[enacting this section and amending section 1382c of this title\] shall be effective with respect to individuals applying for supplemental security income benefits under title XVI of the Social Security Act \[this subchapter\] for the first time after September 30, 1980.”
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Section Referred to in Other Sections
 

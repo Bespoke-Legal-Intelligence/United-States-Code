@@ -2,7 +2,7 @@
 
 Notwithstanding the other provisions of this chapter—
 
-&emsp;(1) The farm marketing quota for any crop of wheat shall be the actual production of the acreage planted to such crop of wheat on the farm less the farm marketing excess. The farm marketing excess shall be an amount equal to twice the projected farm yield multiplied by the number of acres of such crop of wheat on the farm in excess of the farm acreage allotment for such crop unless the producer, in accordance with regulations issued by the Secretary and within the time prescribed therein, establishes to the satisfaction of the Secretary the actual production of such crop of wheat on the farm. If such actual production is so established, the farm marketing excess shall be an amount equal to the actual production of the number of acres of wheat on the farm in excess of the farm acreage allotment for such crop. In determining the farm marketing quota and farm marketing excess, any acreage of wheat remaining after the date prescribed by the Secretary for the disposal of excess acres of wheat shall be included as acreage of wheat on the farm, and the production thereof shall be appraised in such manner as the Secretary determines will provide a reasonably accurate estimate of such production. Any acreage of wheat disposed of in accordance with regulations issued by the Secretary prior to such date as may be prescribed by the Secretary shall be excluded in determining the farm marketing quota and farm marketing excess. Self-seeded (volunteer) wheat shall be included in determining the acreage of wheat. Marketing quotas for any marketing year shall be in effect with respect to wheat harvested in the calendar year in which such marketing year begins notwithstanding that the wheat is marketed prior to the beginning of such marketing year.
+&emsp;(1) The farm marketing quota for any crop of wheat shall be the actual production of the acreage planted to such crop of wheat on the farm less the farm marketing excess. The farm marketing excess shall be an amount equal to twice the projected farm yield multiplied by the number of acres of such crop of wheat onthe farm in excess of the farm acreage allotment for such crop unless the producer, in accordance with regulations issued by the Secretary and within the time prescribed therein, establishes to the satisfaction of the Secretary the actual production of such crop of wheat on the farm. If such actual production is so established, the farm marketing excess shall be an amount equal to the actual production of the number of acres of wheat on the farm in excess of the farm acreage allotment for such crop. In determining the farm marketing quota and farm marketing excess, any acreage of wheat remaining after the date prescribed by the Secretary for the disposal of excess acres of wheat shall be included as acreage of wheat on the farm, and the production thereof shall be appraised in such manner as the Secretary determines will provide a reasonably accurate estimate of such production. Any acreage of wheat disposed of in accordance with regulations issued by the Secretary prior to such date as may be prescribed by the Secretary shall be excluded in determining the farm marketing quota and farm marketing excess. Self-seeded (volunteer) wheat shall be included in determining the acreage of wheat. Marketing quotas for any marketing year shall be in effect with respect to wheat harvested in the calendar year in which such marketing year begins notwithstanding that the wheat is marketed prior to the beginning of such marketing year.
 
 &emsp;(2) Whenever farm marketing quotas are in effect with respect to any crop of wheat, the producers on a farm shall be subject to a penalty on the farm marketing excess of wheat at a rate per bushel equal to 65 per centum of the parity price per bushel of wheat as of May 1 of the calendar year in which the crop is harvested. Each producer having an interest in the crop of wheat on any farm for which a farm marketing excess of wheat is determined shall be jointly and severally liable for the entire amount of the penalty on the farm marketing excess.
 
@@ -50,7 +50,7 @@ Par. (9), which directed the Commodity Credit Corporation to make loans upon the
 
 Par. (2). Pub. L. 87–703, §319(2), increased from 45 to 65 per centum the rate of penalty on farm marketing excess and provided for joint and several liability for such penalty.
 
-Par. (3). Pub. L. 87–703, §319(3), required computation of the farm marketing excess initially upon twice thenormal yield and eliminated reference to corn. Act Aug. 28, 1954, had made the section in applicable to corn.
+Par. (3). Pub. L. 87–703, §319(3), required computation of the farm marketing excess initially upon twice the normal yield and eliminated reference to corn. Act Aug. 28, 1954, had made the section in applicable to corn.
 
 Par. (4). Pub. L. 87–703, §319(4), inserted “and any subsequent crop of wheat subject to marketing quotas in which the producer has an interest” after “produced on the farm” and struck out reference to corn. Act Aug. 28, 1954, had made the section inapplicable to corn.
 
@@ -82,7 +82,7 @@ Amendment by section 319 of Pub. L. 87–703 effective only with respect to prog
 
 #### Effective Date of 1953 Amendment
 
-Amendment by act July 14, 1953, effective with respect to 1954 and subsequent crops of wheat, see section 5 of act July 14, 1953, set out as a note under section 1334 of this title.
+Amendment by act July 14, 1953, effective with respect to 1954 and subsequent crops of wheat, see section5 of act July 14, 1953, set out as a note under section 1334 of this title.
 
 #### Transfer of Functions
 
@@ -93,6 +93,8 @@ Administration of program of Commodity Credit Corporation transferred to Secreta
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 #### Inapplicability of Section
+
+Section inapplicable to crops of wheat planted for harvest in calendar years 2002 through 2007, see section 7992(c) of this title.
 
 Section inapplicable to crops of wheat planted for harvest in calendar years 1996 through 2002, see section 7301(c) of this title.
 
@@ -108,5 +110,5 @@ Pub. L. 91–524, title IV, §406, Nov. 30, 1970, 84 Stat. 1367, as amended by P
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1334, 1335, 7301 of this title.
+This section is referred to in sections 1334, 1335, 7301, 7992 of this title.
 

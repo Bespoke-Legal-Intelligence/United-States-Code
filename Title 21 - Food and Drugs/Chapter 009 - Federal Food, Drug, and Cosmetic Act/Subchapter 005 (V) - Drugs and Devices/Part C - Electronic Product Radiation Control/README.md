@@ -8,8 +8,6 @@ This part was classified to subpart 3 (§263c et seq.) of part F of subchapter I
 
 This part is referred to in title 15 section 2080.
 
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
-
 
 ---
 

@@ -4,3 +4,7 @@ Any employee in the competitive service of the United States transferred to the 
 
 (Pub. L. 89–665, title II, §208, as added Pub. L. 94–422, title II, §201(9), Sept. 28, 1976, 90 Stat. 1322.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 40 section 3303.
+

@@ -90,7 +90,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(1)(C) (related to §412
 
 In this section, the word “contract” is omitted as being included in “agreement”.
 
-In subsection (a), the words “(whether enforceable by provisions for liquidated damages, penalties, bonds, or otherwise)” are omitted as surplus. The words “(except an agreement related to interstate air transportation)” and “(except arrangements related to interstate air transportation)” are added because of 49 App.:1551(a)(6) (related to 49 App.:1382). The word “working” is omitted as surplus. The words “in force on October 24, 1978, or thereafter entered into” are omitted as executed. The words “and any modification or cancellation of an agreement” are substituted for “or any modification or cancellation thereof” for clarity and consistency.
+In subsection (a), the words “(whether enforceable by provisions for liquidated damages, penalties, bonds, or otherwise)” are omitted as surplus. The words “(exceptan agreement related to interstate air transportation)” and “(except arrangements related to interstate air transportation)” are added because of 49 App.:1551(a)(6) (related to 49 App.:1382). The word “working” is omitted as surplus. The words “in force on October 24, 1978, or thereafter entered into” are omitted as executed. The words “and any modification or cancellation of an agreement” are substituted for “or any modification or cancellation thereof” for clarity and consistency.
 
 In subsection (b), before clause (1), the words “The Board shall by order disapprove any contract, agreement, or request . . . that it finds to be adverse to the public interest or in violation of this chapter” are omitted as surplus because of the language restated in this subsection that sets out the requirements for approval by the Secretary of Transportation before the antitrust exemption is effective. The words “whether or not previously approved by it” are omitted as surplus because of the language in clause (1) requiring periodic review and continuing approval. The words “by order” are omitted as unnecessary because of 5:ch. 5, subch. II. The text of 49 App.:1382(a)(2)(A)(iii) is omitted as obsolete because of 49 App.:1551(a)(6) (related to 49 App.:1382).
 
@@ -112,41 +112,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Air Transportation Arrangements in Certain States
 
-Pub. L. 107–71, title I, §116, Nov. 19, 2001, 115 Stat. 624, provided that:
-
-“(a)
-
-In General.—Notwithstanding any provision of section 41309(a) of title 49, United States Code, to the contrary, air carriers providing air transportation on flights which both originate and terminate at points within the same State may file an agreement, request, modification, or cancellation of an agreement within the scope of that section with the Secretary of Transportation upon a declaration by the Governor of the State that such agreement, request, modification, or cancellation is necessary to ensure the continuing availability of such air transportation within that State.
-
-“(b)
-
-Approval of Secretary.—The Secretary may approve any such agreement, request, modification, or cancellation and grant an exemption under section 41308(c) of title 49, United States Code, to the extent necessary to effectuate such agreement, request, modification, or cancellation, without regard to the provisions of section 41309(b) or (c) of that title.
-
-“(c)
-
-Public Interest Requirement.—The Secretary may approve such an agreement, request, modification, or cancellation if the Secretary determines that—
-
-&emsp;“(1) the State to which it relates has extraordinary air transportation needs and concerns; and
-
-&emsp;“(2) approval is in the public interest.
-
-“(d)
-
-Termination.—An approval under subsection (b) and an exemption under section 41308(c) of title 49, United States Code, granted under subsection (b) shall terminate on the earlier of the 2 following dates:
-
-&emsp;“(1) A date established by the Secretary in the Secretary's discretion.
-
-&emsp;“(2) October 1, 2002.
-
-“(e)
-
-Extension.—Notwithstanding subsection (d), if the Secretary determines that it is in the public interest, the Secretary may extend the termination date under subsection (d)(2) until a date no later than October 1, 2003.
-
-“(f)
-
-Reports.—If the Secretary approves any such agreement, request, modification, or cancellation under this section and grants an exemption, the Secretary shall transmit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives within 6 months describing what actions have been taken by the air carriers to which the exemption was granted. The Secretary shall also notify those committees if the Secretary extends the termination date under subsection (e).”
-
-\[For definitions of “air carrier” and “air transportation” used in section 116 of Pub. L. 107–71, set out above, see section 133 of Pub. L. 107–71, set out as a note under section 40102 of this title.\]
+Pub. L. 107–71, title I, §116, Nov. 19, 2001, 115 Stat. 624, which related to air transportation arrangements for flights that both originate and terminate at points within the same State, was repealed by Pub. L. 107–273, div. C, title IV, §14102(g), Nov. 2, 2002, 116 Stat. 1922.
 
 #### Section Referred to in Other Sections
 

@@ -46,7 +46,7 @@ If any member of the Council subsequently becomes an officer or employee of the 
 
 #### (g) Reimbursements
 
-Members of the Council shall serve without pay for such membership, except that members shall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions of the Council, in the same manner as persons serving on advisory boards pursuant to section 637(b) of this title.
+Members of the Council shall serve without pay for such membership, except that membersshall be entitled to reimbursement for travel, subsistence, and other necessary expenses incurred by them in carrying out the functions of the Council, in the same manner as persons serving on advisory boards pursuant to section 637(b) of this title.
 
 #### (h) Executive director
 

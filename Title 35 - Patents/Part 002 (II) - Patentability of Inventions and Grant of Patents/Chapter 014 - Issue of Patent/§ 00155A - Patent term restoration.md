@@ -18,7 +18,7 @@
 
 (c) The patentee of any patent described in subsection (a) of this section shall, within ninety days after the date of enactment of this section, notify the Director of the number of any patent so extended. On receipt of such notice, the Director shall confirm such extension by placing a notice thereof in the official file of such patent and publishing an appropriate notice of such extension in the Official Gazette of the Patent and Trademark Office.
 
-(Added Pub. L. 98–127, §4(a), Oct. 13, 1983, 97 Stat. 832; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(7), (10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(Added Pub. L. 98–127, §4(a), Oct. 13, 1983, 97 Stat. 832; amended Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(7), (10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### References in Text
 
@@ -28,7 +28,11 @@ The date of enactment of this section, referred to in subsec. (c), is the date o
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “notify the Director” for “notify the Commissioner of Patents andTrademarks” and “Director shall confirm” for “Commissioner shall confirm”.
+2002—Subsec. (c). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+
+1999—Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director shall confirm” for “Commissioner shall confirm”.
+
+Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(7)\], substituted “notify the Director” for “notify the Commissioner of Patents and Trademarks”.
 
 #### Effective Date of 1999 Amendment
 

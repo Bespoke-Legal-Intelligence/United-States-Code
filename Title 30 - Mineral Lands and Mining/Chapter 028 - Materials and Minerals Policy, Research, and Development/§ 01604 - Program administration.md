@@ -34,7 +34,7 @@ The Secretary of Commerce, in consultation with the Federal Emergency Management
 
 &emsp;(1) within 3 months after October 21, 1980, identify and submit to the Congress a specific materials needs case related to national security, economic well-being and industrial production which will be the subject of the report required by paragraph (2) of this subsection;
 
-&emsp;(2) within 1 year after October 21, 1980, submit to the Congress a report which assessescritical materials needs in the case identified in paragraph (1) of this subsection, and which recommends programs that would assist in meeting such needs, including an assessment of economic stockpiles; and
+&emsp;(2) within 1 year after October 21, 1980, submit to the Congress a report which assesses critical materials needs in the case identified in paragraph (1) of this subsection, and which recommends programs that would assist in meeting such needs, including an assessment of economic stockpiles; and
 
 &emsp;(3) continually thereafter identify and assess additional cases, as necessary, to ensure an adequate and stable supply of materials to meet national security, economic well-being and industrial production needs.
 

@@ -28,7 +28,7 @@ Nothing in this subchapter shall be construed to preclude the enactment of State
 
 #### (e) Construction
 
-Nothing in this subchapter shall be construed to link performance of service with receipt of Federal student financial assistance, other than assistance provided pursuant to this chapter.
+Nothing in this subchapter shall be construed to link performance of service with receipt ofFederal student financial assistance, other than assistance provided pursuant to this chapter.
 
 #### (f) Grievance procedure
 

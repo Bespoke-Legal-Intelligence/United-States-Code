@@ -2,7 +2,7 @@
 
 The Home Owners’ Loan Corporation (herein called the “Corporation”) is authorized and directed to convey and transfer to the United States of America, upon the terms and conditions provided in this section, all right, title, and interest vested in the Corporation, at the date of such conveyance and transfer, in and to real property and interests therein in the county of Hancock, State of Maine, acquired by the Corporation through the foreclosure of that certain mortgage deed, dated October 20, 1933, executed to the Corporation by Percy B. Russell and Florence L. Russell, and appearing in book 642, page 389, of the Registry of Deeds of Hancock County, State of Maine.
 
-The Secretary of the Interior, for and on behalf of the United States of America, is authorized and directed to accept the conveyance and transfer of such property without regard to the provisions of section 355, as amended \[40 U.S.C.255\], section 1136 as amended, and section 3709 \[41 U.S.C. 5\] of the Revised Statutes (except the last paragraph of said section 355, as amended \[40 U.S.C. 255\], which shall be applicable hereto), or any other provision of law. The Secretary of the Interior is further authorized and directed to pay all necessary fees, charges, and expenses in connection with such conveyance and transfer.
+The Secretary of the Interior, for and on behalf of the United States of America, is authorized and directed to accept the conveyance and transfer of such property without regard to the provisions of sections 3111 and 3112 of title 40 and section 1136 as amended, and section 3709 \[41 U.S.C. 5\] of the Revised Statutes (except section 3112 of title 40, which shall be applicable hereto), or any other provision of law. The Secretary of the Interior is further authorized and directed to pay all necessary fees, charges, and expenses in connection with such conveyance and transfer.
 
 Upon the conveyance and transfer of such property as herein provided, it shall be used and administered by the Secretary of the Interior solely for national-park purposes, and it shall be deemed to constitute a part of the Acadia National Park.
 
@@ -15,6 +15,10 @@ Any other provision of law to the contrary notwithstanding, the Secretary of the
 Section 1136 of the Revised Statutes, referred to in the second par., was repealed and reenacted as sections 4774(d) and 9774(d) of Title 10, Armed Forces, by act Aug. 10, 1956, ch. 1041, 70A Stat. 1. Sections 4774(d) and 9774(d) were redesignated as entire sections 4774 and 9774 by Pub. L. 93–166, title V, §509(c), (e), Nov. 29, 1973, 87 Stat. 677, 678, and subsequently were repealed by Pub. L. 97–214, §7(1), July 12, 1982, 96 Stat. 173.
 
 Section 1463 of title 12, referred to in the last par., was repealed by Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 648.
+
+#### Codification
+
+“Sections 3111 and 3112 of title 40 and” substituted in text for “section 355, as amended,” and “section 3112 of title 40” substituted in text for “the last paragraph of said section 355, as amended” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Abolition of Home Owners’ Loan Corporation
 

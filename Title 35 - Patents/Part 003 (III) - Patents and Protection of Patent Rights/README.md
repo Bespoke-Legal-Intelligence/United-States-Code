@@ -6,12 +6,7 @@
 | [<b>26.</b>](Chapter%20026%20-%20Ownership%20and%20Assignment/README.md) | <b>Ownership and Assignment</b> | <b>261</b> |
 | [<b>27.</b>](Chapter%20027%20-%20Government%20Interests%20in%20Patents/README.md) | <b>Government Interests in Patents</b> | <b>266</b> |
 | [<b>28.</b>](Chapter%20028%20-%20Infringement%20of%20Patents/README.md) | <b>Infringement of Patents</b> | <b>271</b> |
-| [<b>29.</b>](Chapter%20029%20-%20Remedies%20for%20Infringement%20of%20Patent%2C%20and%20Other%20Actions/README.md) | <b>Remedies for Infringement of Patent and Other Actions </b><b><sup>1</sup></b> | <b>281</b> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |  |
-| :--- | :---: | ---: |
+| [<b>29.</b>](Chapter%20029%20-%20Remedies%20for%20Infringement%20of%20Patent%2C%20and%20Other%20Actions/README.md) | <b>Remedies for Infringement of Patent, and Other Actions</b> | <b>281</b> |
 | [<b>30.</b>](Chapter%20030%20-%20Prior%20Art%20Citations%20to%20Office%20and%20Ex%20Parte%20Reexamination%20of%20Patents/README.md) | <b>Prior Art Citations to Office and Ex Parte Reexamination of Patents</b> | <b>301</b> |
 | [<b>31.</b>](Chapter%20031%20-%20Optional%20Inter%20Partes%20Reexamination%20Procedures/README.md) | <b>Optional Inter Partes Reexamination of Patents </b><b><sup>1</sup></b> | <b>311</b> |
 
@@ -19,7 +14,9 @@
 
 #### Amendments
 
-1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–570, which directed the substitution of “Ex Parte Reexamination of Patents” for “Reexamination of Patents” in item for chapter 30 and the addition of item for chapter 31, in the table of chapters for part III of title 25, was executed to the table of chapters for this part, to reflect the probable intent of Congress.
+2002—Pub. L. 107–273, div. C, title III, §13206(a)(17), Nov. 2, 2002, 116 Stat. 1905, inserted a comma after “Patent” in item for chapter 29.
+
+1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–570, as amended by Pub. L. 107–273, div. C, title III, §13202(c)(2), Nov. 2, 2002, 116 Stat. 1902, substituted “Ex Parte Reexamination of Patents” for “Reexamination of Patents” in item for chapter 30 and added item for chapter 31.
 
 1982—Pub. L. 97–256, title I, §101(7), Sept. 8, 1982, 96 Stat. 816, added item for chapter 30.
 

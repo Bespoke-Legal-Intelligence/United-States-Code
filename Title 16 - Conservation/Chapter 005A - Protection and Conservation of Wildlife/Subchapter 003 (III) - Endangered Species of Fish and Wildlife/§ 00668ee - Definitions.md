@@ -14,7 +14,7 @@ For purposes of this Act:
 
 &emsp;&emsp;(A) by cooperative agreement between the United States Fish and Wildlife Service and a State agency having control over wildlife resources pursuant to section 664 of this title; or
 
-&emsp;&emsp;(B) by long-term leases or agreements pursuant to title III of the Bankhead-JonesFarm Tenant Act (50 Stat. 525; 7 U.S.C. 1010 et seq.).
+&emsp;&emsp;(B) by long-term leases or agreements pursuant to title III of the Bankhead-Jones Farm Tenant Act (50 Stat. 525; 7 U.S.C. 1010 et seq.).
 
 &emsp;(6) The term “Director” means the Director of the United States Fish and Wildlife Service or a designee of that Director.
 

@@ -26,11 +26,17 @@ To assist in carrying out this chapter, the Secretary may convene an advisory gr
 
 The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the advisory group.
 
-(Pub. L. 100–478, title II, §2104, as added Pub. L. 107–111, §4, Jan. 8, 2002, 115 Stat. 2095.)
+(Pub. L. 100–478, title II, §2104, as added Pub. L. 107–111, §4, Jan. 8, 2002, 115 Stat. 2095; amended Pub. L. 107–141, §5(b)(2)(A), Feb. 12, 2002, 116 Stat. 14.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 100–478 to reflect the probable intent of Congress.
-
 The Federal Advisory Committee Act, referred to in subsec. (c), is Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–141 made technical amendment to reference in original act which appears in text as reference to this chapter.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–141, §5(b)(2), Feb. 12, 2002, 116 Stat. 14, provided that the amendment by section 5(b)(2) of Pub. L. 107–141 is effective on the day after Jan. 8, 2002.
 

@@ -56,7 +56,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;The term “gross revenues from the securities business” means the sum of (but without duplication)—
 
-&emsp;&emsp;(A) commissions earned in connection with transactions in securities effected for customers as agent (net of commissions paid to other brokers and dealers in connection with such transactions) and markups with respect to purchases or sales of securities as principal;
+&emsp;&emsp;(A) commissions earned in connection with transactions in securities effected for customers as agent (net of commissions paid toother brokers and dealers in connection with such transactions) and markups with respect to purchases or sales of securities as principal;
 
 &emsp;&emsp;(B) charges for executing or clearing transactions in securities for other brokers and dealers;
 
@@ -110,7 +110,7 @@ For purposes of this chapter, including the application of the Bankruptcy Act to
 
 &emsp;The term “Security” means any note, stock, treasury stock, bond, debenture, evidence of indebtedness, any collateral trust certificate, preorganization certificate or subscription, transferable share, voting trust certificate, certificate of deposit, certificate of deposit for a security, or any security future as that term is defined in section 78c(a)(55)(A) of this title, any investment contract or certificate of interest or participation in any profit-sharing agreement or in any oil, gas, or mineral royalty or lease (if such investment contract or interest is the subject of a registration statement with the Commission pursuant to the provisions of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\]), any put, call, straddle, option, or privilege on any security, or group or index of securities (including any interest therein or based on the value thereof), or any put, call, straddle, option, or privilege entered into on a national securities exchange relating to foreign currency, any certificate of interest or participation in, temporary or interim certificate for, receipt for, guarantee of, or warrant or right to subscribe to or purchase or sell any of the foregoing, and any other instrument commonly known as a security. Except as specifically provided above, the term “security” does not include any currency, or any commodity or related contract or futures contract, or any warrant or right to subscribe to or purchase or sell any of the foregoing.
 
-(Pub. L. 91–598, §16, formerly §12, Dec. 30, 1970, 84 Stat. 1656; renumbered §16 and amended Pub. L. 95–283, §§9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, §308(<i>o</i>), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, §7, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VIII, §802, Dec. 4, 1987, 101 Stat. 1265; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424.)
+(Pub. L. 91–598, §16, formerly §12, Dec. 30, 1970, 84 Stat. 1656; renumbered §16 and amended Pub. L. 95–283, §§9, 15, May 21, 1978, 92 Stat. 260, 271; Pub. L. 95–598, title III, §308(<i>o</i>), Nov. 6, 1978, 92 Stat. 2676; Pub. L. 97–303, §7, Oct. 13, 1982, 96 Stat. 1410; Pub. L. 100–181, title VIII, §802, Dec. 4, 1987, 101Stat. 1265; Pub. L. 106–554, §1(a)(5) \[title II, §203(d)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–424.)
 
 #### References in Text
 

@@ -144,11 +144,11 @@ For purposes of this section—
 
 #### (f) Competition
 
-Response action contractors and subcontractors for program management, construction management, architectural and engineering, surveying and mapping, and related services shall be selected in accordance with title IX of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 541 et seq.\]. The Federal selection procedures shall apply to appropriate contracts negotiated by all Federal governmental agencies involved in carrying out this chapter. Such procedures shall be followed by response action contractors and subcontractors.
+Response action contractors and subcontractors for program management, construction management, architectural and engineering, surveying and mapping, and related services shall be selected in accordance with title IX of the Federal Property and Administrative Services Act of 1949.<sup>3</sup> The Federal selection procedures shall apply to appropriate contracts negotiated by all Federal governmental agencies involved in carrying out this chapter. Such procedures shall be followed by response action contractors and subcontractors.
 
 #### (g) Surety bonds
 
-(1) If under the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the “Miller Act”, surety bonds are required for any direct Federal procurement of any response action contract and are not waived pursuant to the Act of April 29, 1941 (40 U.S.C. 270e–270f), they shall be issued in accordance with such Act of August 24, 1935.
+(1) If under sections 3131 and 3133 of title 40, surety bonds are required for any direct Federal procurement of any response action contract and are not waived pursuant to section 3134 of title 40, they shall be issued in accordance with sections 3131 and 3133 of title 40.
 
 (2) If under applicable Federal law surety bonds are required for any direct Federal procurement of any response action contract, no right of action shall accrue on the performance bond issued on such response action contract to or for the use of any person other than the obligee named in the bond.
 
@@ -166,11 +166,11 @@ The Solid Waste Disposal Act, referred to in subsec. (c)(5)(D), is title II of P
 
 Section 9660a of this title, referred to in subsec. (e)(2)(A)(iii), was in the original “section 126” probably meaning section 126 of Pub. L. 99–499, title I, Oct. 17, 1986, 100 Stat. 1690. Subsecs. (a) to (f) of section 126, which relate to worker protection standards, are set out as a note under section 655 of Title 29, Labor. Subsec. (g) of section 126, which relates grants for training and education of workers who are or may be engaged in activities related to hazardous waste removal, etc., is classified to section 9660a of this title.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Federal Property and Administrative Services Act of 1949 is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Act, which was classified generally to subchapter VI (§541 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 11 (§1101 et seq.) of Title 40, Public Buildings, Property, and Works. For disposition of sections of former Title 40 to revised Title 40, see Table preceding section 101 of Title 40. For complete classification of this Act to the Code, see Tables.
 
-Act of August 24, 1935, referred to in subsec. (g)(1), is act Aug. 24, 1935, ch. 642, 49 Stat. 793, as amended, known as the Miller Act, which is classified generally to sections 270a to 270d–1 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 270a of Title 40 and Tables.
+#### Codification
 
-Act of April 29, 1941, referred to in subsec. (g)(1), is act April 29, 1941, ch. 81, 55 Stat. 147, which is classified to sections 270e and 270f of Title 40. For complete classification of this Act to the Code, see Tables.
+In subsec. (g)(1), “sections 3131 and 3133 of title 40” substituted for “the Act of August 24, 1935 (40 U.S.C. 270a–270d), commonly referred to as the ‘Miller Act’ ” and for “such Act of August 24, 1935” and “section 3134 of title 40” substituted for “the Act of April 29, 1941 (40 U.S.C. 270e–270f)”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

@@ -24,9 +24,9 @@
 
 &emsp;(G) implement such other recommendations as the Comptroller General determines to be necessary in order to promote compliance with procurement statutes and regulations.
 
-(2) If the head of the procuring activity responsible for a contract makes a finding under section 3553(d)(3)(C)(i)(I) of this title, the Comptroller General shall make recommendations under this subsection without regard to any costor disruption from terminating, recompeting, or reawarding the contract.
+(2) If the head of the procuring activity responsible for a contract makes a finding under section 3553(d)(3)(C)(i)(I) of this title, the Comptroller General shall make recommendations under this subsection without regard to any cost or disruption from terminating, recompeting, or reawarding the contract.
 
-(3) If the Federal agency fails to implement fully the recommendations of the Comptroller General under this subsection with respect to a solicitation for a contract or an award or proposed award of a contract within 60 days after receiving the recommendations, the head of the procuring activity responsible for that contract shall report such failure to the Comptroller General not later than 5 days after the end of such 60-day period.
+(3) If the Federal agency fails to implement fully the recommendations of the Comptroller General under this subsection with respect to a solicitation for a contract or an award or proposed award of a contract within 60 days after receiving the recommendations, the head of theprocuring activity responsible for that contract shall report such failure to the Comptroller General not later than 5 days after the end of such 60-day period.
 
 (c)(1) If the Comptroller General determines that a solicitation for a contract or a proposed award or the award of a contract does not comply with a statute or regulation, the Comptroller General may recommend that the Federal agency conducting the procurement pay to an appropriate interested party the costs of—
 
@@ -116,7 +116,7 @@ Committee on Government Reform and Oversight of House of Representatives changed
 
 For effective date and applicability of amendment by section 4321(d)(3) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of Title 41, Public Contracts.
 
-Amendment by section 5501(2) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by section 5501(2) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, div. E, title LVII, Feb. 10, 1996, 110 Stat. 702.
 
 #### Effective Date of 1994 Amendment
 

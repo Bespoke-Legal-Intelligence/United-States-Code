@@ -16,7 +16,7 @@ Notwithstanding any other provision of law, the Secretary may, subject to subsec
 
 #### (2) Exemption from release
 
-&emsp;The Secretary shall, to the maximum extent practicable, in advance of making a release of information under subsection (a) of this section, allow, by announcement, a period of at least 15 days for persons whose consent would otherwise be required by law to effectuate the release, to elect to be exempt from the release.
+&emsp;The Secretary shall, to the maximum extent practicable, in advance of making a release ofinformation under subsection (a) of this section, allow, by announcement, a period of at least 15 days for persons whose consent would otherwise be required by law to effectuate the release, to elect to be exempt from the release.
 
 #### (c) Assistance
 

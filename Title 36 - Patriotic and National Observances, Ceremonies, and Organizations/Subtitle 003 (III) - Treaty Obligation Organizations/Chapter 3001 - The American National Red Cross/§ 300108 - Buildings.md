@@ -48,7 +48,7 @@ Act July 1, 1947, ch. 195, 61 Stat. 241, as amended by Pub. L. 100–637, §1, N
 
 “
 
-Sec. 2. That the plans of the proposed building shall first be approved by the American National Red Cross, the Commission of Fine Arts and the National Capital Park and Planning Commission and the erection and design thereof shall be under the supervision of the Administrator of the Federal Works Agency \[now the Administrator of General Services\] in accordance with the provisions of the Public Buildings Act of May 25, 1926, as amended \[enacting sections 341, 342, 343 to 345a, 346, and 347 of Title 40, Public Buildings, Property, and Works\] and as hereby further amended.
+Sec. 2. That the plans of the proposed building shall first be approved by the American National Red Cross, the Commission of Fine Arts and the National Capital Park and Planning Commission and the erection and design thereof shall be under the supervision of the Administrator of the Federal Works Agency \[now the Administrator of General Services\] in accordance with the provisions of the Public Buildings Act of May 25, 1926, as amended \[enacting sections 341, 342, 343 to 345a, 346, and 347 of former Title 40, Public Buildings, Property, and Works\] and as hereby further amended.
 
 “
 

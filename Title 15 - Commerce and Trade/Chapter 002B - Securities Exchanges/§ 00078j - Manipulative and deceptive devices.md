@@ -30,5 +30,5 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78k, 78u, 78aa–1, 78hh, 3904 of this title; title 42 section 9675.
+This section is referred to in sections 78k, 78u, 78u–3, 78aa–1, 78hh, 3904 of this title; title 42 section 9675.
 

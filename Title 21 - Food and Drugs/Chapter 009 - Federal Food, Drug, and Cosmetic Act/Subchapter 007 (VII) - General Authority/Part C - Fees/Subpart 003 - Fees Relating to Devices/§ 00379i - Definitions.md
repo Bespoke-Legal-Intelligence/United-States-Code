@@ -1,0 +1,142 @@
+### §379i. Definitions
+
+For purposes of this part:
+
+&emsp;(1) The term “premarket application” means—
+
+&emsp;&emsp;(A) an application for approval of a device submitted under section 360e(c) of this title or section 262 of title 42; or
+
+&emsp;&emsp;(B) a product development protocol described in section 360e(f) of this title.
+
+> &emsp;Such term does not include a supplement, a premarket report, or a premarket notification submission.
+
+&emsp;(2) The term “premarket report” means a report submitted under section 360e(c)(2) of this title.
+
+&emsp;(3) The term “premarket notification submission” means a report submitted under section 360(k) of this title.
+
+&emsp;(4)(A) The term “supplement”, with respect to a panel-track supplement, a 180-day supplement, a real-time supplement, or an efficacy supplement, means a request to the Secretary to approve a change in a device for which—
+
+&emsp;&emsp;(i) an application or report has been approved under section 360e(d) of this title, or an application has been approved under section 262 of title 42; or
+
+&emsp;&emsp;(ii) a notice of completion has become effective under section 360e(f) of this title.
+
+&emsp;(B) The term “panel-track supplement” means a supplement to an approved premarket application or premarket report under section 360e of this title that requests a significant change in design or performance of the device, or a new indication for use of the device, and for which clinical data are generally necessary to provide a reasonable assurance of safety and effectiveness.
+
+&emsp;(C) The term “180-day supplement” means a supplement to an approved premarket application or premarket report under section 360e of this title that is not a panel-track supplement and requests a significant change in components, materials, design, specification, software, color additives, or labeling.
+
+&emsp;(D) The term “real-time supplement” means a supplement to an approved premarket application or premarket report under section 360e of this title that requests a minor change to the device, such as a minor change to the design of the device, software, manufacturing, sterilization, or labeling, and for which the applicant has requested and the agency has granted a meeting or similar forum to jointly review and determine the status of the supplement.
+
+&emsp;(E) The term “efficacy supplement” means a supplement to an approved premarket application under section 262 of title 42 that requires substantive clinical data.
+
+&emsp;(5) The term “process for the review of device applications” means the following activities of the Secretary with respect to the review of premarket applications, premarket reports, supplements, and premarket notification submissions:
+
+&emsp;&emsp;(A) The activities necessary for the review of premarket applications, premarket reports, supplements, and premarket notification submissions.
+
+&emsp;&emsp;(B) The issuance of action letters that allow the marketing of devices or which set forth in detail the specific deficiencies in such applications, reports, supplements, or submissions and, where appropriate, the actions necessary to place them in condition for approval.
+
+&emsp;&emsp;(C) The inspection of manufacturing establishments and other facilities undertaken as part of the Secretary's review of pending premarket applications, premarket reports, and supplements.
+
+&emsp;&emsp;(D) Monitoring of research conducted in connection with the review of such applications, reports, supplements, and submissions.
+
+&emsp;&emsp;(E) Review of device applications subject to section 262 of title 42 for an investigational new drug application under section 355(i) of this title or for an investigational device exemption under section 360j(g) of this title and activities conducted in anticipation of the submission of such applications under section 355(i) or 360j(g) of this title.
+
+&emsp;&emsp;(F) The development of guidance, policy documents, or regulations to improve the process for the review of premarket applications, premarket reports, supplements, and premarket notification submissions.
+
+&emsp;&emsp;(G) The development of voluntary test methods, consensus standards, or mandatory performance standards under section 360d of this title in connection with the review of such applications, reports, supplements, or submissions and related activities.
+
+&emsp;&emsp;(H) The provision of technical assistance to device manufacturers in connection with the submission of such applications, reports, supplements, or submissions.
+
+&emsp;&emsp;(I) Any activity undertaken under section 360c or 360e(i) of this title in connection with the initial classification or reclassification of a device or under section 360e(b) of this title in connection with any requirement for approval of a device.
+
+&emsp;&emsp;(J) Evaluation of postmarket studies required as a condition of an approval of a premarket application under section 360e of this title or section 262 of title 42.
+
+&emsp;&emsp;(K) Compiling, developing, and reviewing information on relevant devices to identify safety and effectiveness issues for devices subject to premarket applications, premarket reports, supplements, or premarket notification submissions.
+
+&emsp;(6) The term “costs of resources allocated for the process for the review of device applications” means the expenses incurred in connection with the process for the review of device applications for—
+
+&emsp;&emsp;(A) officers and employees of the Food and Drug Administration, contractors of the Food and Drug Administration, advisory committees, and costs related to such officers, employees, and committees and to contracts with such contractors;
+
+&emsp;&emsp;(B) management of information, and the acquisition, maintenance, and repair of computer resources;
+
+&emsp;&emsp;(C) leasing, maintenance, renovation, and repair of facilities and acquisition, maintenance, and repair of fixtures, furniture, scientific equipment, and other necessary materials and supplies; and
+
+&emsp;&emsp;(D) collecting fees and accounting for resources allocated for the review of premarket applications, premarket reports, supplements, and submissions.
+
+&emsp;(7) The term “adjustment factor” applicable to a fiscal year is the Consumer Price Index for all urban consumers (all items; United States city average) for April of the preceding fiscal year divided by such Index for April 2002.
+
+&emsp;(8) The term “affiliate” means a business entity that has a relationship with a second business entity if, directly or indirectly—
+
+&emsp;&emsp;(A) one business entity controls, or has the power to control, the other business entity; or
+
+&emsp;&emsp;(B) a third party controls, or has power to control, both of the business entities.
+
+(June 25, 1938, ch. 675, §737, as added Pub. L. 107–250, title I, §102(a), Oct. 26, 2002, 116 Stat. 1589.)
+
+#### Termination of Section
+
+<i>For termination of section by section 107 of Pub. L. 107–250, see Effective and Termination Dates note set out below.</i>
+
+#### Effective and Termination Dates
+
+Pub. L. 107–250, title I, §106, Oct. 26, 2002, 116 Stat. 1602, provided that: “The amendments made by this title \[enacting this subpart\] shall take effect on the date of the enactment of this Act \[Oct. 26, 2002\], except that fees shall be assessed for all premarket applications, premarket reports, supplements, and premarket notification submissions received on or after October 1, 2002, regardless of the date of enactment.”
+
+Pub. L. 107–250, title I, §107, Oct. 26, 2002, 116 Stat. 1602, provided that: “The amendments made by this title \[enacting this subpart\] cease to be effective October 1, 2007, except that section 103 \[set out as a note below\] with respect to annual reports ceases to be effective January 31, 2008.”
+
+#### Findings
+
+Pub. L. 107–250, title I, §101, Oct. 26, 2002, 116 Stat. 1589, provided that: “The Congress finds that—
+
+&emsp;“(1) prompt approval and clearance of safe and effective devices is critical to the improvement of the public health so that patients may enjoy the benefits of devices to diagnose, treat, and prevent disease;
+
+&emsp;“(2) the public health will be served by making additional funds available for the purpose of augmenting the resources of the Food and Drug Administration that are devoted to the process for the review of devices and the assurance of device safety and effectiveness so that statutorily mandated deadlines may be met; and
+
+&emsp;“(3) the fees authorized by this title \[enacting this subpart and provisions set out as notes under this section and section 379j of this title\] will be dedicated to meeting the goals identified in the letters from the Secretary of Health and Human Services to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor, and Pensions of the Senate, as set forth in the Congressional Record.”
+
+#### Annual Reports
+
+Pub. L. 107–250, title I, §103, Oct. 26, 2002, 116 Stat. 1600, provided that: “Beginning with fiscal year 2003, the Secretary shall prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Health, Education, Labor and Pensions of the Senate a report concerning—
+
+&emsp;“(1) the progress of the Food and Drug Administration in achieving the goals identified in the letters described in section 101(3) \[set out as a note above\] during such fiscal year and the future plans of the Food and Drug Administration for meeting the goals, not later than 60 days after the end of each fiscal year during which fees are collected under this part \[title I of Pub. L. 107–250 does not contain parts\]; and
+
+&emsp;“(2) the implementation of the authority for such fees during such fiscal year, and the use, by the Food and Drug Administration, of the fees collected during such fiscal year, not later than 120 days after the end of each fiscal year during which fees are collected under the medical device user-fee program established under the amendment made by section 102 \[enacting this subpart\].”
+
+\[Section 103 of Pub. L. 107–250, set out above, ceases to be effective Jan. 31, 2008, see Effective and Termination Dates note above.\]
+
+#### Study
+
+Pub. L. 107–250, title I, §104(b), Oct. 26, 2002, 116 Stat. 1601, provided that:
+
+“(1)
+
+In general.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall conduct a study for the purpose of determining the following with respect to the medical device user-fee program established under the amendment made by section 102 \[enacting this subpart\]:
+
+&emsp;“(A) The impact of such program on the ability of the Food and Drug Administration to conduct postmarket surveillance on medical devices.
+
+&emsp;“(B) The programmatic improvements, if any, needed for adequate postmarket surveillance of medical devices.
+
+&emsp;“(C) The amount of funds needed to conduct adequate postmarket surveillance of medical devices.
+
+&emsp;“(D) The extent to which device companies comply with the postmarket surveillance requirements, including postmarket study commitments.
+
+&emsp;“(E) The recommendations of the Secretary as to whether, and in what amounts, user fees collected under such user-fee program should be dedicated to postmarket surveillance if the program is extended beyond fiscal year 2007.
+
+“(2)
+
+Report.—Not later than January 10, 2007, the Secretary shall submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report that describes the findings of the study under paragraph (1).”
+
+#### Consultation
+
+Pub. L. 107–250, title I, §105, Oct. 26, 2002, 116 Stat. 1601, provided that:
+
+“(a)
+
+In General.—In developing recommendations to the Congress for the goals and plans for meeting the goals for the process for the review of medical device applications for fiscal years after fiscal year 2007, and for the reauthorization of sections 737 and 738 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 379i, 379j\], the Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall consult with the Committee on Energy and Commerce of the House of Representatives, the Committee on Health, Education, Labor, and Pensions of the Senate, appropriate scientific and academic experts, health care professionals, representatives of patient and consumer advocacy groups, and the regulated industry.
+
+“(b)
+
+Recommendations.—The Secretary shall publish in the Federal Register recommendations under subsection (a), after negotiations with the regulated industry; shall present such recommendations to the congressional committees specified in such paragraph; shall hold a meeting at which the public may presentits views on such recommendations; and shall provide for a period of 30 days for the public to provide written comments on such recommendations.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 360e of this title.
+

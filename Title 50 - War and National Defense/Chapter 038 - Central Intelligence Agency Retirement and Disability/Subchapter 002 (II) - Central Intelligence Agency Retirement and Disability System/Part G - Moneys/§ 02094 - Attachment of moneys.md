@@ -10,7 +10,7 @@ In the case of any participant, former participant, or retired participant who h
 
 &emsp;(1) any right of the former spouse to any annuity under section 2032(a) of this title in connection with any retirement or disability annuity of the participant, and the amount of any such annuity;
 
-&emsp;(2) any right of the former spouse of a participant or retired participant to a survivorannuity under section 2032(b) or 2032(c) of this title, and the amount of any such annuity; and
+&emsp;(2) any right of the former spouse of a participant or retired participant to a survivor annuity under section 2032(b) or 2032(c) of this title, and the amount of any such annuity; and
 
 &emsp;(3) any right of the former spouse of a former participant to any payment of a lump-sum credit under section 2071(b) of this title, and the amount of any such payment;
 

@@ -8,7 +8,7 @@ Each State plan—
 
 &emsp;(2) may require, in case of an individual so identified and as a condition of the individual being or remaining eligible for medical assistance under this subchapter and subject to subsection (b)(2) of this section, notwithstanding any other provision of this subchapter, that the individual (or in the case of a child, the child's parent) apply for enrollment in the group health plan; and
 
-&emsp;(3) in the case of such enrollment (except as provided in subsection (c)(1)(B) of this section), shall provide for payment of all enrolleepremiums for such enrollment and all deductibles, coinsurance, and other cost-sharing obligations for items and services otherwise covered under the State plan under this subchapter (exceeding the amount otherwise permitted under section 1396<i>o</i> of this title), and shall treat coverage under the group health plan as a third party liability (under section 1396a(a)(25) of this title).
+&emsp;(3) in the case of such enrollment (except as provided in subsection (c)(1)(B) of this section), shall provide for payment of all enrollee premiums for such enrollment and all deductibles, coinsurance, and other cost-sharing obligations for items and services otherwise covered under the State plan under this subchapter (exceeding the amount otherwise permitted under section 1396<i>o</i> of this title), and shall treat coverage under the group health plan as a third party liability (under section 1396a(a)(25) of this title).
 
 #### (b) Timing of enrollment; failure to enroll
 

@@ -16,7 +16,7 @@ For the purposes of this subsection, the investment adviser of a registered inve
 
 (1) It shall not be necessary to allege or prove that any defendant engaged in personal misconduct, and the plaintiff shall have the burden of proving a breach of fiduciary duty.
 
-(2) In any such action approval by the board of directors of such investment company of such compensation or payments, or of contracts or other arrangements providing for such compensation or payments, and ratification or approval of such compensation or payments, or of contracts or other arrangements providing for such compensation or payments, by the shareholders of such investment company, shall be given such consideration by the court as is deemed appropriate under all the circumstances.
+(2) In any such action approval by the board of directors of such investment company of such compensation or payments, or of contracts or other arrangements providing for such compensation or payments, and ratification or approval of such compensation or payments, or of contracts or other arrangements providing for such compensation or payments, by the shareholders of such investment company, shall begiven such consideration by the court as is deemed appropriate under all the circumstances.
 
 (3) No such action shall be brought or maintained against any person other than the recipient of such compensation or payments, and no damages or other relief shall be granted against any person other than the recipient of such compensation or payments. No award of damages shall be recoverable for any period prior to one year before the action was instituted. Any award of damages against such recipient shall be limited to the actual damages resulting from the breach of fiduciary duty and shall in no event exceed the amount of compensation or payment received from such investment company, or the security holders thereof, by such recipient.
 
@@ -24,7 +24,7 @@ For the purposes of this subsection, the investment adviser of a registered inve
 
 (5) Any action pursuant to this subsection may be brought only in an appropriate district court of the United States.
 
-(6) No finding by a court with respect to a breach of fiduciary duty under this subsectionshall be made a basis (A) for a finding of a violation of this subchapter for the purposes of sections 80a–9 and 80a–48 of this title, section 78<i>o</i> of this title, or section 80b–3 of this title, or (B) for an injunction to prohibit any person from serving in any of the capacities enumerated in subsection (a) of this section.
+(6) No finding by a court with respect to a breach of fiduciary duty under this subsection shall be made a basis (A) for a finding of a violation of this subchapter for the purposes of sections 80a–9 and 80a–48 of this title, section 78<i>o</i> of this title, or section 80b–3 of this title, or (B) for an injunction to prohibit any person from serving in any of the capacities enumerated in subsection (a) of this section.
 
 #### (c) Corporate or other trustees performing functions of investment advisers
 

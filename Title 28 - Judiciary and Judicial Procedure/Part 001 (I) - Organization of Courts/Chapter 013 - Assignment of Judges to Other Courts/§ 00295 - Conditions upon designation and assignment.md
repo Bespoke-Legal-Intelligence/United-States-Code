@@ -26,13 +26,13 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1978</b>—Pub. L. 95–598 directed the amendment of section by substituting “district, or bankruptcy” for “or district”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598 directed the amendment of section by substituting “district, or bankruptcy” for “or district”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<b>1958</b>—Pub. L. 85–755 substituted “of any other court of the United States” for “of the Customs Court” in first par.
+1958—Pub. L. 85–755 substituted “of any other court of the United States” for “of the Customs Court” in first par.
 
-<b>1956</b>—Act July 14, 1956, provided that no designation and assignment of a judge of the Customs Court in active service shall be made without the consent of the chief judge of the court.
+1956—Act July 14, 1956, provided that no designation and assignment of a judge of the Customs Court in active service shall be made without the consent of the chief judge of the court.
 
-<b>1954</b>—Act Sept. 3, 1954, made it clear that the section applies only to the assignment of circuit and district judges in active service.
+1954—Act Sept. 3, 1954, made it clear that the section applies only to the assignment of circuit and district judges in active service.
 
 #### Jurisdiction of United States Court of Customs and Patent Appeals
 

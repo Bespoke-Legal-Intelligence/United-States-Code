@@ -18,7 +18,7 @@ For purposes of this section:
 
 &emsp;&emsp;(C) The pilot watershed program authorized under the heading “
 
-Flood Prevention”of the Department of Agriculture Appropriation Act, 1954 (Public Law 156; 67 Stat. 214).
+Flood Prevention” of the Department of Agriculture Appropriation Act, 1954 (Public Law 156; 67 Stat. 214).
 
 &emsp;&emsp;(D) Subtitle H of title XV of the Agriculture and Food Act of 1981 (16 U.S.C. 3451 et seq.; commonly known as the Resource Conservation and Development Program).
 
@@ -30,7 +30,7 @@ Flood Prevention”of the Department of Agriculture Appropriation Act, 1954 (Pub
 
 #### (1) Assistance authorized
 
-&emsp;The Secretary may provide financial assistance to a local organization to cover a portion of the total costs incurred for the rehabilitation of structural measures originally constructed as part of a covered water resource project. The total costs of rehabilitation include the costs associated with all components of the rehabilitation project, including acquisition of land, easements, and rights-of-ways, rehabilitation project administration, the provision of technical assistance, contracting, and construction costs, except that the local organization shall be responsible for securing all land, easements, or rights-of-ways necessary for the project.
+&emsp;The Secretary may provide financial assistance to a local organization to cover a portion of the total costs incurred for the rehabilitation of structural measures originally constructed as part of a covered water resource project. The total costs of rehabilitation include the costs associated with all components of the rehabilitation project, including acquisition of land, easements, and rights-of-ways,rehabilitation project administration, the provision of technical assistance, contracting, and construction costs, except that the local organization shall be responsible for securing all land, easements, or rights-of-ways necessary for the project.
 
 #### (2) Amount of assistance; limitations
 
@@ -70,19 +70,37 @@ The Secretary shall establish such system of approving rehabilitation requests, 
 
 The Secretary may not approve a rehabilitation request if the need for rehabilitation of the structure is the result of a lack of adequate maintenance by the party responsible for the maintenance.
 
-#### (h) Authorization of appropriations
+#### (h) Funding
 
-There is authorized to be appropriated to the Secretary to provide financial and technical assistance under this section—
+#### (1) Funds of Commodity Credit Corporation
 
-&emsp;(1) $5,000,000 for fiscal year 2001;
+&emsp;In carrying out this section, of the funds of the Commodity Credit Corporation, the Secretary shall make available, to remain available until expended—
 
-&emsp;(2) $10,000,000 for fiscal year 2002;
+&emsp;&emsp;(A) $45,000,000 for fiscal year 2003;
 
-&emsp;(3) $15,000,000 for fiscal year 2003;
+&emsp;&emsp;(B) $50,000,000 for fiscal year 2004;
 
-&emsp;(4) $25,000,000 for fiscal year 2004; and
+&emsp;&emsp;(C) $55,000,000 for fiscal year 2005;
 
-&emsp;(5) $35,000,000 for fiscal year 2005.
+&emsp;&emsp;(D) $60,000,000 for fiscal year 2006;
+
+&emsp;&emsp;(E) $65,000,000 for fiscal year 2007; and
+
+&emsp;&emsp;(F) $0 for fiscal year 2008.
+
+#### (2) Authorization of appropriations
+
+&emsp;In addition to amounts made available under paragraph (1), there are authorized to be appropriated to the Secretary to carry out this section, to remain available until expended—
+
+&emsp;&emsp;(A) $45,000,000 for fiscal year 2003;
+
+&emsp;&emsp;(B) $55,000,000 for fiscal year 2004;
+
+&emsp;&emsp;(C) $65,000,000 for fiscal year 2005;
+
+&emsp;&emsp;(D) $75,000,000 for fiscal year 2006; and
+
+&emsp;&emsp;(E) $85,000,000 for fiscal year 2007.
 
 #### (i) Assessment of rehabilitation needs
 
@@ -98,7 +116,7 @@ The Secretary, in concert with the responsible State agencies, shall conduct an 
 
 &emsp;Not later than 90 days after the completion of a specific rehabilitation project for which assistance is provided under this section, the local organization that received the assistance shall make a report to the Secretary giving the status of any rehabilitation effort undertaken using financial assistance provided under this section.
 
-(Aug. 4, 1954, ch. 656, §14, as added Pub. L. 106–472, title III, §313, Nov. 9, 2000, 114 Stat. 2077.)
+(Aug. 4, 1954, ch. 656, §14, as added Pub. L. 106–472, title III, §313, Nov. 9, 2000, 114 Stat. 2077; amended Pub. L. 107–171, title II, §2505, May 13, 2002, 116 Stat. 274.)
 
 #### References in Text
 
@@ -109,4 +127,18 @@ The Department of Agriculture Appropriation Act, 1954, referred to in subsec. (a
 Flood Prevention” are not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
 The Agriculture and Food Act of 1981, referred to in subsec. (a)(2)(D), is Pub. L. 97–98, Dec. 22, 1981, 95 Stat. 1213, as amended. Subtitle H of title XV of the Act is classified generally to subchapter V (§3451 et seq.) of chapter 54 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Amendments
+
+2002—Subsec. (h). Pub. L. 107–171 added subsec. (h) and struck out heading and text of former subsec. (h). Text read as follows: “There is authorized to be appropriated to the Secretary to provide financial and technical assistance under this section—
+
+&emsp;“(1) $5,000,000 for fiscal year 2001;
+
+&emsp;“(2) $10,000,000 for fiscal year 2002;
+
+&emsp;“(3) $15,000,000 for fiscal year 2003;
+
+&emsp;“(4) $25,000,000 for fiscal year 2004; and
+
+&emsp;“(5) $35,000,000 for fiscal year 2005.”
 

@@ -22,7 +22,7 @@ Any individual who knowingly enters into a marriage for the purpose of evading a
 
 Any individual who knowingly establishes a commercial enterprise for the purpose of evading any provision of the immigration laws shall be imprisoned for not more than 5 years, fined in accordance with title 18, or both.
 
-(June 27, 1952, ch. 477, title II, ch. 8, §275, 66 Stat. 229; Pub. L. 99–639, §2(d), Nov. 10, 1986, 100 Stat. 3542; Pub. L. 101–649, title I, §121(b)(3), title V, §543(b)(2), Nov. 29, 1990, 104 Stat. 4994, 5059; Pub. L. 102–232, title III, §306(c)(3), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 104–208, div. C, title I, §105(a), Sept. 30, 1996, 110 Stat. 3009–556.)
+(June 27, 1952, ch. 477, title II, ch. 8, §275, 66 Stat. 229; Pub. L. 99–639, §2(d), Nov. 10, 1986, 100 Stat.3542; Pub. L. 101–649, title I, §121(b)(3), title V, §543(b)(2), Nov. 29, 1990, 104 Stat. 4994, 5059; Pub. L. 102–232, title III, §306(c)(3), Dec. 12, 1991, 105 Stat. 1752; Pub. L. 104–208, div. C, title I, §105(a), Sept. 30, 1996, 110 Stat. 3009–556.)
 
 #### Amendments
 
@@ -49,6 +49,10 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 Amendment by section 121(b)(3) of Pub. L. 101–649 effective Oct. 1, 1991, and applicable beginning with fiscal year 1992, see section 161(a) of Pub. L. 101–649, set out as a note under section 1101 of this title.
 
 Amendment by section 543(b)(2) of Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, see section 543(c) of Pub. L. 101–649, set out as a note under section 1221 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

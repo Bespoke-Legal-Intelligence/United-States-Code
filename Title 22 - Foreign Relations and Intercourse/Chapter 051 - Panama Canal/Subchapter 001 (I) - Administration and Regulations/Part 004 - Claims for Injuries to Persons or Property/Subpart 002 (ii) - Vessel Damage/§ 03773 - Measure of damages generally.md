@@ -4,7 +4,7 @@ In determining the amount of the award of damages for injuries to a vessel for w
 
 &emsp;(1) the actual or estimated cost of repairs;
 
-&emsp;(2) charter hire actually lost by the owners, or charter hire actually paid, depending upon the terms of the charter party, for the time the vessel is undergoing repairs;
+&emsp;(2) charter hire actually lost by the owners, or charter hire actually paid, depending uponthe terms of the charter party, for the time the vessel is undergoing repairs;
 
 &emsp;(3) maintenance of the vessel and wages of the crew, if they are found to be actual additional expenses or losses incurred outside of the charter hire; and
 

@@ -36,24 +36,28 @@
 
 |  |  |
 | :--- | ---: |
-| [3451\.](Subchapter%20004%20%28IV%29%20-%20Reservoir%20Sedimentation%20Reduction%20Program/%C2%A7%2003451%20-%20Statement%20of%20purpose.md) | Statement of purpose. |
-| [3452\.](Subchapter%20004%20%28IV%29%20-%20Reservoir%20Sedimentation%20Reduction%20Program/%C2%A7%2003452%20-%20Definitions.md) | Definitions. |
-| [3453\.](Subchapter%20004%20%28IV%29%20-%20Reservoir%20Sedimentation%20Reduction%20Program/%C2%A7%2003453%20-%20Establishment%20and%20scope.md) | Establishment and scope. |
-| [3454\.](Subchapter%20004%20%28IV%29%20-%20Reservoir%20Sedimentation%20Reduction%20Program/%C2%A7%2003454%20-%20Selection%20of%20designated%20areas.md) | Selection of designated areas. |
-| [3455\.](Subchapter%20004%20%28IV%29%20-%20Reservoir%20Sedimentation%20Reduction%20Program/%C2%A7%2003455%20-%20Authority%20of%20Secretary.md) | Authority of Secretary. |
-| [3456\.](Subchapter%20004%20%28IV%29%20-%20Reservoir%20Sedimentation%20Reduction%20Program/%C2%A7%2003456%20-%20Technical%20and%20financial%20assistance.md) | Technical and financial assistance. |
-| (a) | Eligibility and criteria. |
-| (b) | Terms and conditions of loans. |
-| (c) | Submission and approval of plan as prerequisite. |
+| [3451\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003451%20-%20Definitions.md) | Definitions. |
+| [3452\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003452%20-%20Resource%20conservation%20and%20development%20program.md) | Resource conservation and development program. |
+| [3453\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003453%20-%20Selection%20of%20designated%20areas.md) | Selection of designated areas. |
+| [3454\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003454%20-%20Powers%20of%20the%20Secretary.md) | Powers of the Secretary. |
+| [3455\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003455%20-%20Eligibility%3B%20terms%20and%20conditions.md) | Eligibility; terms and conditions. |
+| (a) | Eligibility. |
+| (b) | Loans. |
+| (c) | Approval by Secretary. |
 | (d) | Withdrawal. |
-| [3457\.](Subchapter%20004%20%28IV%29%20-%20Reservoir%20Sedimentation%20Reduction%20Program/%C2%A7%2003457%20-%20Resource%20Conservation%20and%20Development%20Policy%20Board.md) | Resource Conservation and Development Policy Board. |
+| [3456\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003456%20-%20Resource%20Conservation%20and%20Development%20Policy%20Advisory%20Board.md) | Resource Conservation and Development Policy Advisory Board. |
 | (a) | Establishment. |
-| (b) | Composition; chairman. |
-| (c) | Functions. |
-| [3458\.](Subchapter%20004%20%28IV%29%20-%20Reservoir%20Sedimentation%20Reduction%20Program/%C2%A7%2003458%20-%20Program%20evaluation.md) | Program evaluation. |
-| [3459\.](Subchapter%20004%20%28IV%29%20-%20Reservoir%20Sedimentation%20Reduction%20Program/%C2%A7%2003459%20-%20Limitation%20on%20assistance.md) | Limitation on assistance. |
-| [3460\.](Subchapter%20004%20%28IV%29%20-%20Reservoir%20Sedimentation%20Reduction%20Program/%C2%A7%2003460%20-%20Supplemental%20authority%20of%20Secretary.md) | Supplemental authority of Secretary. |
-| [3461\.](Subchapter%20004%20%28IV%29%20-%20Reservoir%20Sedimentation%20Reduction%20Program/%C2%A7%2003461%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (b) | Composition. |
+| (c) | Duties. |
+| [3457\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003457%20-%20Evaluation%20of%20program.md) | Evaluation of program. |
+| (a) | In general. |
+| (b) | Report. |
+| [3458\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003458%20-%20Limitation%20on%20assistance.md) | Limitation on assistance. |
+| [3459\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003459%20-%20Supplemental%20authority%20of%20the%20Secretary.md) | Supplemental authority of the Secretary. |
+| [3460\.](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/%C2%A7%2003460%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Loans. |
+| (c) | Availability. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -76,4 +80,5 @@
 - [Subchapter 002 (II) - Special Areas Conservation Program](Subchapter%20002%20%28II%29%20-%20Special%20Areas%20Conservation%20Program/README.md)
 - [Subchapter 003 (III) - Matching Grants for Conservation Activities](Subchapter%20003%20%28III%29%20-%20Matching%20Grants%20for%20Conservation%20Activities/README.md)
 - [Subchapter 004 (IV) - Reservoir Sedimentation Reduction Program](Subchapter%20004%20%28IV%29%20-%20Reservoir%20Sedimentation%20Reduction%20Program/README.md)
+- [Subchapter 005 (V) - Resource Conservation and Development Program](Subchapter%20005%20%28V%29%20-%20Resource%20Conservation%20and%20Development%20Program/README.md)
 - [Subchapter 006 (VI) - Miscellaneous Provisions](Subchapter%20006%20%28VI%29%20-%20Miscellaneous%20Provisions/README.md)

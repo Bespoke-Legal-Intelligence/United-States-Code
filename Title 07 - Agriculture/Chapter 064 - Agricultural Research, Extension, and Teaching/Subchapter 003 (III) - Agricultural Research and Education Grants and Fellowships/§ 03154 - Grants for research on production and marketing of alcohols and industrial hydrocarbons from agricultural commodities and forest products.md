@@ -6,13 +6,13 @@ The Secretary may award grants under this section to colleges, universities, and
 
 &emsp;(1) alcohol fuels, including ethanol and methanol or their ethers;
 
-&emsp;(2) industrial oilseed crops for diesel fuel and petrochemical substitutes;
+&emsp;(2) industrial oilseed crops and animal fats and oils for diesel fuel and petrochemical substitutes;
 
 &emsp;(3) other forms of biomass fuels, including gaseous and solid fuels;
 
-&emsp;(4) other industrial hydrocarbons made from agricultural commodities and forest products; and
+&emsp;(4) other industrial hydrocarbons or triglycerides made from agricultural commodities and forest products; and
 
-&emsp;(5) the development of the most economical and commercially feasible means of producing, collecting, and transporting agricultural crops, wastes, residues, and byproducts for use as feedstocks for the production of alcohol and other forms of biomass energy and the development of new markets for byproducts.
+&emsp;(5) the development of the most economical and commercially feasible means of producing,collecting, and transporting agricultural crops, wastes, residues, and byproducts for use as feedstocks for the production of alcohol and other forms of biomass energy and the development of new markets for byproducts.
 
 #### (b) Set aside of funds for certain grant projects
 
@@ -30,11 +30,17 @@ The Secretary may set aside a portion of funds appropriated for the award of gra
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated for the purposes of carrying out this section $20,000,000 for each of the fiscal years 1991 through 2002.
+There are authorized to be appropriated for the purposes of carrying out this section $20,000,000 for each of the fiscal years 1991 through 2007.
 
-(Pub. L. 95–113, title XIV, §1419, Sept. 29, 1977, 91 Stat. 997; Pub. L. 96–294, title II, §252, June 30, 1980, 94 Stat. 705; Pub. L. 97–98, title XIV, §1422,Dec. 22, 1981, 95 Stat. 1306; Pub. L. 101–624, title XVI, §1609(a), Nov. 28, 1990, 104 Stat. 3718; Pub. L. 102–237, title IV, §402(7), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §806, Apr. 4, 1996, 110 Stat. 1162; Pub. L. 105–185, title III, §301(a)(2), June 23, 1998, 112 Stat. 562.)
+(Pub. L. 95–113, title XIV, §1419, Sept. 29, 1977, 91 Stat. 997; Pub. L. 96–294, title II, §252, June 30, 1980, 94 Stat. 705; Pub. L. 97–98, title XIV, §1422, Dec. 22, 1981, 95 Stat. 1306; Pub. L. 101–624, title XVI, §1609(a), Nov. 28, 1990, 104 Stat. 3718; Pub. L. 102–237, title IV, §402(7), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §806, Apr. 4, 1996, 110 Stat. 1162; Pub. L. 105–185, title III, §301(a)(2), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §§7134, 7209(b), May 13, 2002, 116 Stat. 436, 445.)
 
 #### Amendments
+
+2002—Subsec. (a)(2). Pub. L. 107–171, §7209(b)(1), inserted “and animal fats and oils” after “industrial oilseed crops”.
+
+Subsec. (a)(4). Pub. L. 107–171, §7209(b)(2), inserted “or triglycerides” after “other industrial hydrocarbons”.
+
+Subsec. (d). Pub. L. 107–171, §7134, substituted “2007” for “2002”.
 
 1998—Subsec. (d). Pub. L. 105–185 substituted “2002” for “1997”.
 

@@ -30,5 +30,5 @@ In clause (2), the word “property” is substituted for “real and personal e
 
 #### Tax Exemption of Real Property
 
-Pub. L. 85–83, §2, July 3, 1957, 71 Stat. 277, provided that: “The real property situated in Square 817, in the city of Washington, District of Columbia, described aslot 23, owned, occupied, and used by the American Historical Association, is exempt from all taxation so long as the same is so owned and occupied, and not used for commercial purposes, subject to the provisions of sections 2, 3, and 5 of the Act entitled ‘An Act to define the real property exempt from taxation in the District of Columbia’, approved December 24, 1942 (56 Stat. 1089; D.C. Code, secs. 47–801b, 47–801c, and 47–801e).”
+Pub. L. 85–83, §2, July 3, 1957, 71 Stat. 277, provided that: “The real property situated in Square 817, in the city of Washington, District of Columbia, described as lot 23, owned, occupied, and used by the American Historical Association, is exempt from all taxation so long as the same is so owned and occupied, and not used for commercial purposes, subject to the provisions of sections 2, 3, and 5 of the Act entitled ‘An Act to define the real property exempt from taxation in the District of Columbia’, approved December 24, 1942 (56 Stat. 1089; D.C. Code, secs. 47–801b, 47–801c, and 47–801e).”
 

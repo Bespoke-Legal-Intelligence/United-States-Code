@@ -76,7 +76,7 @@ As used in this chapter:
 
 #### (2) Effect on CFTC and Commodity Exchange Act
 
-&emsp;Nothing in this chapter affects the jurisdiction of the Commodity Futures Trading Commission or the applicability of the Commodity Exchange Act (7 U.S.C. 1 et seq.) to any transaction conducted on a contract market underthat Act by an approved insurance provider to offset the approved insurance provider's risk under a plan or policy of insurance under this chapter.
+&emsp;Nothing in this chapter affects the jurisdiction of the Commodity Futures Trading Commission or the applicability of the Commodity Exchange Act (7 U.S.C. 1 et seq.) to any transaction conducted on a contract market under that Act by an approved insurance provider to offset the approved insurance provider's risk under a plan or policy of insurance under this chapter.
 
 (Feb. 16, 1938, ch. 30, title V, §502, 52 Stat. 72; June 21, 1941, ch. 214, §1, 55 Stat. 255; Aug. 1, 1947, ch. 440, §4, 61 Stat. 719; Pub. L. 103–354, title I, §102(a), Oct. 13, 1994, 108 Stat. 3180; Pub. L. 106–224, title I, §§122, 141, June 20, 2000, 114 Stat. 377, 389.)
 
@@ -102,5 +102,5 @@ Section 120 of title I of Pub. L. 103–354 provided that: “Except as otherwis
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1506, 1515 of this title.
+This section is referred to in sections 1506, 1515, 8002 of this title.
 

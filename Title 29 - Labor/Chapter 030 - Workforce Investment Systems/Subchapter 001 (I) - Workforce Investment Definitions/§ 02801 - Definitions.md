@@ -260,7 +260,7 @@ In this chapter:
 
 #### (38) Rapid response activity
 
-&emsp;The term “rapid response activity” means an activity provided by a State, or by an entity designated by a State, with funds provided by the State under section 2864(a)(1)(A) of this title, in the case of a permanent closure or mass layoff at a plant, facility, or enterprise, or a natural or other disaster, that results in mass job dislocation, in order to assist dislocated workers in obtaining reemployment as soon as possible, with services including—
+&emsp;The term “rapid response activity” means an activity provided by a State, or by an entity designated by a State, with funds provided by the State under section 2864(a)(1)(A)of this title, in the case of a permanent closure or mass layoff at a plant, facility, or enterprise, or a natural or other disaster, that results in mass job dislocation, in order to assist dislocated workers in obtaining reemployment as soon as possible, with services including—
 
 &emsp;&emsp;(A) the establishment of onsite contact with employers and employee representatives—
 
@@ -346,7 +346,7 @@ In this chapter:
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 Section 2302 of title 20, referred to in par. (3), defines the term “area vocational and technical education school” but not the term “area vocational education school”.
 
@@ -452,5 +452,5 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 705 of this title; title 20 sections 9202, 9272; title 42 sections 603, 9908.
+This section is referred to in section 705 of this title; title 19 section 2271; title 20 sections 9202, 9272; title 42 sections 603, 9908.
 

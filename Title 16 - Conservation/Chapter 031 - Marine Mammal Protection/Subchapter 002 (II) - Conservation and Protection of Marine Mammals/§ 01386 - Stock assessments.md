@@ -70,7 +70,7 @@ Not later than August 1, 1994, the Secretary shall, in consultation with the app
 
 (2) The scientific review groups established under this subsection shall not be subject to the Federal Advisory Committee Act (5 App. U.S.C.).
 
-(3) Members of the scientific review groups shall serve without compensation, but may bereimbursed by the Secretary, upon request, for reasonable travel costs and expenses incurred in performing their obligations.
+(3) Members of the scientific review groups shall serve without compensation, but may be reimbursed by the Secretary, upon request, for reasonable travel costs and expenses incurred in performing their obligations.
 
 (4) The Secretary may appoint or reappoint individuals to the regional scientific review groups under paragraph (1) as needed.
 

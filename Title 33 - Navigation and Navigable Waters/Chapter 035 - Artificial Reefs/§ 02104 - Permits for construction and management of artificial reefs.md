@@ -8,7 +8,7 @@ In issuing a permit for artificial reefs under section 403 of this title, sectio
 
 &emsp;(2) ensure that the provisions for siting, constructing, monitoring, and managing the artificial reef are consistent with the criteria and standards established under this chapter;
 
-&emsp;(3) ensure that the title to the artificial reef construction material is unambiguous, andthat responsibility for maintenance and the financial ability to assume liability for future damages are clearly established; and
+&emsp;(3) ensure that the title to the artificial reef construction material is unambiguous, and that responsibility for maintenance and the financial ability to assume liability for future damages are clearly established; and
 
 &emsp;(4) consider the plan developed under section 2103 of this title and notify the Secretary of Commerce of any need to deviate from that plan.
 
@@ -34,7 +34,7 @@ Nothing in this chapter creates any liability on the part of the United States.
 
 #### (e) Civil penalty
 
-Any person who, after notice and an opportunity for a hearing, is found to have violated any provision of a permit issued in accordance with subsection (a) of this section shall be liable to the United States for a civil penalty, not to exceed $10,000 for each violation. The amount of the civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation. The Secretary may compromise, modify, or remit with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection.
+Any person who, after notice and an opportunity for a hearing, is found to have violated any provision of a permit issued in accordance with subsection (a) of this section shall be liable to the United States for a civil penalty, not to exceed $10,000 for each violation. The amount of the civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the violation. The Secretarymay compromise, modify, or remit with or without conditions, any civil penalty which is subject to imposition or which has been imposed under this section. If any person fails to pay an assessment of a civil penalty after it has become final, the Secretary may refer the matter to the Attorney General for collection.
 
 (Pub. L. 98–623, title II, §205, Nov. 8, 1984, 98 Stat. 3396.)
 

@@ -28,7 +28,7 @@ A civil action authorized to be brought under this section shall be referred to 
 
 #### (4) Notice and hearing
 
-&emsp;No order assessing a penalty or cease-and-desist order may be issued by the Secretary under this subsection unless the Secretary provides notice and an opportunity for a hearing on the record with respect to the violation.
+&emsp;No order assessing a penalty or cease-and-desist order may be issued by the Secretaryunder this subsection unless the Secretary provides notice and an opportunity for a hearing on the record with respect to the violation.
 
 #### (5) Finality
 
@@ -62,7 +62,7 @@ A person who fails to obey a valid cease-and-desist order issued by the Secretar
 
 #### (f) Failure to pay penalties
 
-If a person fails to pay a valid civil penalty imposed under this section by the Secretary, the Secretary shall refer the matter to the AttorneyGeneral for recovery of the amount assessed in the district court of the United States for any district in which the person resides or carries on business. In the action, the validity and appropriateness of the order imposing the civil penalty shall not be subject to review.
+If a person fails to pay a valid civil penalty imposed under this section by the Secretary, the Secretary shall refer the matter to the Attorney General for recovery of the amount assessed in the district court of the United States for any district in which the person resides or carries on business. In the action, the validity and appropriateness of the order imposing the civil penalty shall not be subject to review.
 
 #### (g) Additional remedies
 

@@ -2,7 +2,7 @@
 
 #### (a) Program required
 
-The Secretary of Energy, acting through the Director of Counterintelligence, shall carry out a counterintelligence polygraph program for the defense-related activities of the Department. The counterintelligence polygraph program shall consist of the administration of counterintelligence polygraph examinations to each covered person who has access to high-risk programs.
+The Secretary of Energy, acting through the Director of Counterintelligence, shall carry outa counterintelligence polygraph program for the defense-related activities of the Department. The counterintelligence polygraph program shall consist of the administration of counterintelligence polygraph examinations to each covered person who has access to high-risk programs.
 
 #### (b) Covered persons
 
@@ -62,7 +62,7 @@ For purposes of this section, high-risk programs are the following:
 
 &emsp;(B) The Committee on Armed Services and the Permanent Select Committee on Intelligence of the House of Representatives.
 
-(6) It is the sense of Congress that the waiver authority in paragraph (2) not be used by theSecretary to exempt from the applicability of paragraph (1) any covered persons in the highest risk categories, such as persons who have access to the most sensitive weapons design information and other highly sensitive programs, including special access programs.
+(6) It is the sense of Congress that the waiver authority in paragraph (2) not be used by the Secretary to exempt from the applicability of paragraph (1) any covered persons in the highest risk categories, such as persons who have access to the most sensitive weapons design information and other highly sensitive programs, including special access programs.
 
 (7) The authority under paragraph (2) to waive the applicability of paragraph (1) to a covered person shall expire on September 30, 2002.
 
@@ -76,7 +76,7 @@ The Secretary may not permit a covered person to have continued access to any hi
 
 #### (f) Counterintelligence polygraph examination
 
-For purposes of this section, the term “counterintelligence polygraph examination” means a polygraph examination using questions reasonably calculated to obtain counterintelligence information, including questions relating to espionage, sabotage, terrorism, unauthorized disclosure of classified information, deliberate damage to or malicious misuse of a United States Government information or defense system, and unauthorized contact with foreign nationals.
+For purposes of this section, the term “counterintelligence polygraph examination”means a polygraph examination using questions reasonably calculated to obtain counterintelligence information, including questions relating to espionage, sabotage, terrorism, unauthorized disclosure of classified information, deliberate damage to or malicious misuse of a United States Government information or defense system, and unauthorized contact with foreign nationals.
 
 #### (g) Regulations
 

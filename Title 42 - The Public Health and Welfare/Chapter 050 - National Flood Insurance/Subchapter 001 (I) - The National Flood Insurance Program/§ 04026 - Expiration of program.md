@@ -82,7 +82,7 @@ Pub. L. 93–4 substituted “$4,000,000,000” for “$2,500,000,000”.
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–276, title V, §599D(c), Oct. 21, 1998, 112 Stat. 2663, provided that: “The amendments made by this section \[amending this section and section 4056 ofthis title\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §599D(c), Oct. 21, 1998, 112 Stat. 2663, provided that: “The amendments made by this section \[amending this section and section 4056 of this title\] are made on, and shall apply beginning upon, the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Effective Date of 1981 Amendment
 

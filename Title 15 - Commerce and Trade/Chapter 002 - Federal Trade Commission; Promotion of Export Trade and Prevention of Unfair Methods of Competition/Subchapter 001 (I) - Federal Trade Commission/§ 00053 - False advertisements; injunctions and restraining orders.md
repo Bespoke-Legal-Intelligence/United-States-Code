@@ -8,7 +8,7 @@ Whenever the Commission has reason to believe—
 
 &emsp;(2) that the enjoining thereof pending the issuance of a complaint by the Commission under section 45 of this title, and until such complaint is dismissed by the Commission or set aside by the court on review, or the order of the Commission to cease and desist made thereon has become final within the meaning of section 45 of this title, would be to the interest of the public,
 
-> the Commission by any of its attorneys designated by it for such purpose may bring suit in a district court of the United States or in the United States court of any Territory, to enjoin the dissemination or the causing of the dissemination of such advertisement. Upon proper showing a temporary injunction or restraining order shall be granted without bond. Any suit may be brought where such person, partnership, or corporation resides or transacts business, or wherever venue is proper under section 1391 of title 28. In addition, the court may, if the court determines that the interests of justice require that any other person, partnership, or corporation should be a party in such suit, cause such other person, partnership, or corporation to be added as a party without regard to whether venue is otherwise proper in the district in which the suit is brought. In any suit under this section, process may be served on any person, partnership, or corporation wherever it may be found.
+> the Commission by any of its attorneys designated by it for such purpose may bring suit ina district court of the United States or in the United States court of any Territory, to enjoin the dissemination or the causing of the dissemination of such advertisement. Upon proper showing a temporary injunction or restraining order shall be granted without bond. Any suit may be brought where such person, partnership, or corporation resides or transacts business, or wherever venue is proper under section 1391 of title 28. In addition, the court may, if the court determines that the interests of justice require that any other person, partnership, or corporation should be a party in such suit, cause such other person, partnership, or corporation to be added as a party without regard to whether venue is otherwise proper in the district in which the suit is brought. In any suit under this section, process may be served on any person, partnership, or corporation wherever it may be found.
 
 #### (b) Temporary restraining orders; preliminary injunctions
 
@@ -46,7 +46,7 @@ Whenever it appears to the satisfaction of the court in the case of a newspaper,
 
 #### Amendments
 
-1994—Subsecs. (a), (b). Pub. L. 103–312, §10(a), in concluding provisions, substituted “Any suit may be brought where such person, partnership, or corporation resides or transacts business, or wherever venue is proper under section 1391 of title 28. In addition, the court may, if the court determines that the interests of justice require that any other person, partnership, or corporation should be a party in such suit, cause such other person, partnership, or corporation to be added as a party without regard to whether venue is otherwise proper in the district in which the suit is brought. In any suit under this section, process may be served onany person, partnership, or corporation wherever it may be found.” for “Any such suit shall be brought in the district in which such person, partnership, or corporation resides or transacts business.”
+1994—Subsecs. (a), (b). Pub. L. 103–312, §10(a), in concluding provisions, substituted “Any suit may be brought where such person, partnership, or corporation resides or transacts business, or wherever venue is proper under section 1391 of title 28. In addition, the court may, if the court determines that the interests of justice require that any other person, partnership, or corporation should be a party in such suit, cause such other person, partnership, or corporation to be added as a party without regard to whether venue is otherwise proper in the district in which the suit is brought. In any suit under this section, process may be served on any person, partnership, or corporation wherever it may be found.” for “Any such suit shall be brought in the district in which such person, partnership, or corporation resides or transacts business.”
 
 Subsecs. (c), (d). Pub. L. 103–312, §10(b), added subsec. (c) and redesignated former subsec. (c) as (d).
 
@@ -54,7 +54,7 @@ Subsecs. (c), (d). Pub. L. 103–312, §10(b), added subsec. (c) and redesignate
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of suchCommission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
 #### Section Referred to in Other Sections
 

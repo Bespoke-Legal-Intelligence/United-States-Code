@@ -30,5 +30,9 @@ The Secretary may stop and inspect, without a warrant, any person or means of co
 
 This chapter, referred to in subsecs. (b)(1), (2) and (c), was in the original “this title”, meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
 
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 <i><sup>1</sup></i><i> So in original. Probably should be “magistrate judges's”.</i>
 

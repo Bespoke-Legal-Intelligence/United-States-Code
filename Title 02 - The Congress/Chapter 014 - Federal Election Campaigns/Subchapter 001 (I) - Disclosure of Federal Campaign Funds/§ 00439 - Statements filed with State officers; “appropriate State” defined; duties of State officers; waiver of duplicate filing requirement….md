@@ -18,7 +18,7 @@ The Secretary of State (or equivalent State officer), or the officer designated 
 
 &emsp;(2) keep such reports and statements (either in original filed form or in facsimile copy by microfilm or otherwise) for 2 years after their date of receipt;
 
-&emsp;(3) make each report and statement filed therewith available as soon as practicable (but within 48 hours of receipt) for public inspection and copying during regular business hours, and permit copying of any such report or statement by hand or by duplicating machine at the request of any person, except that such copying shall be at the expense of the person making the request; and
+&emsp;(3) make each report and statement filed therewith available as soon as practicable (but within 48 hours of receipt) for public inspection and copying during regular business hours, and permit copying of any such report or statement by hand or by duplicating machine at the request of any person, except thatsuch copying shall be at the expense of the person making the request; and
 
 &emsp;(4) compile and maintain a current list of all reports and statements pertaining to each candidate.
 
@@ -31,6 +31,12 @@ Subsections (a) and (b) of this section shall not apply with respect to any Stat
 #### References in Text
 
 This Act, referred to in subsecs. (a)(1) and (b)(1), means the Federal Election Campaign Act of 1971, as amended, as defined by section 431 of this title.
+
+#### Prior Provisions
+
+A prior section 312 of Pub. L. 92–225 was renumbered section 308, and is classified to section 437f of this title.
+
+Another prior section 312 of Pub. L. 92–225 was renumbered section 311, and was classified to section 437e of this title, prior to repeal by Pub. L. 96–187.
 
 #### Amendments
 

@@ -30,7 +30,7 @@
 
 &emsp;&emsp;&emsp;(III) is a defaulted borrower who has made arrangements to repay the obligation on the defaulted loans satisfactory to the holders of the defaulted loans.
 
-&emsp;(B)(i) <sup>1</sup> An individual's status as an eligible borrower under this section terminates uponreceipt of a consolidation loan under this section, except that—
+&emsp;(B)(i) <sup>1</sup> An individual's status as an eligible borrower under this section terminates upon receipt of a consolidation loan under this section, except that—
 
 &emsp;&emsp;(I) an individual who receives eligible student loans after the date of receipt of the consolidation loan may receive a subsequent consolidation loan;
 
@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(IV) loans received prior to the date of the first consolidation loan may be added to a subsequent consolidation loan.
 
-&emsp;(C)(i) A married couple, each of whom has eligible student loans, may be treated as if such couple were an individual borrowing under subparagraphs (A) and (B) if such couple agrees to be held jointly and severally liable for the repayment of a consolidation loan, without regard to the amounts of the respective loan obligations that are to be consolidated, and without regard to any subsequent change that may occur in such couple's marital status.
+&emsp;(C)(i) A married couple, each of whom has eligible student loans, may be treated as if such couple were an individual borrowing undersubparagraphs (A) and (B) if such couple agrees to be held jointly and severally liable for the repayment of a consolidation loan, without regard to the amounts of the respective loan obligations that are to be consolidated, and without regard to any subsequent change that may occur in such couple's marital status.
 
 &emsp;(ii) Only one spouse in a married couple applying for a consolidation loan under this subparagraph need meet any of the requirements of subsection (b) of this section, except that each spouse shall—
 
@@ -152,9 +152,13 @@
 
 #### (1) Interest rate
 
-&emsp;(A) Notwithstanding subparagraphs (B) and (C), with respect to any loan made under this section for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2003, the applicable interest rate shall be determined under section 1077a(k)(4) of this title.
+&emsp;(A) Notwithstanding subparagraphs (B) and (C), with respect to any loan made under this section for which the application is received by an eligible lender—
 
-&emsp;(B) A consolidation loan made before July 1, 1994, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the greater of—
+&emsp;&emsp;(i) on or after October 1, 1998, and before July 1, 2006, the applicable interest rate shall be determined under section 1077a(k)(4) of this title; or
+
+&emsp;&emsp;(ii) on or after July 1, 2006, the applicable interest rate shall be determined under section 1077a(<i>l</i>)(3) of this title.
+
+&emsp;(B) A consolidation loan made before July 1, 1994, shall bear interest at an annual rate onthe unpaid principal balance of the loan that is equal to the greater of—
 
 &emsp;&emsp;(i) the weighted average of the interest rates on the loans consolidated, rounded to the nearest whole percent; or
 
@@ -222,7 +226,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The portion of each consolidated loan that is attributable to an eligible student loan described in paragraph (1)(C)(ii) shall bear interest at a rate not to exceed the rate determined under subparagraph (B).
+&emsp;&emsp;The portion of each consolidated loan that is attributable to an eligible student loandescribed in paragraph (1)(C)(ii) shall bear interest at a rate not to exceed the rate determined under subparagraph (B).
 
 #### (B) Determination of the maximum interest rate
 
@@ -272,23 +276,25 @@ The authority to make loans under this section expires at the close of September
 
 &emsp;The Secretary shall deposit all fees collected pursuant to subsection (a) of this section into the insurance fund established in section 1081 of this title.
 
-(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)(ii)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–33, title VI, §6104(3), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(b)–(e), Nov. 13, 1997, 111 Stat. 1522, 1523; Pub. L. 105–244, title IV, §§416(b)(2), 420, Oct. 7, 1998, 112 Stat. 1682, 1695.)
+(Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1388; amended Pub. L. 100–50, §10(s), June 3, 1987, 101 Stat. 345; Pub. L. 102–325, title IV, §419, July 23, 1992, 106 Stat. 532; Pub. L. 102–408, title III, §306(a), (b), Oct. 13, 1992, 106 Stat. 2084, 2086; Pub. L. 103–66, title IV, §§4046(a), (b)(2), 4106(a), Aug. 10, 1993, 107 Stat. 360, 363, 368; Pub. L. 103–208, §2(c)(33)–(37), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 103–382, title III, §356, Oct. 20, 1994, 108 Stat. 3967; Pub. L. 104–208, div. A, title I, §101(e) \[title VI, §602(b)(1)(A)(ii)\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–283; Pub. L. 105–33, title VI, §6104(3), Aug. 5, 1997, 111 Stat. 652; Pub. L. 105–78, title VI, §609(b)–(e), Nov. 13, 1997, 111 Stat. 1522, 1523; Pub. L. 105–244, title IV, §§416(b)(2), 420, Oct. 7, 1998, 112 Stat. 1682, 1695; Pub. L. 107–139, §1(a)(2), Feb. 8, 2002, 116 Stat. 8.)
 
 #### References in Text
 
-The Public Health Service Act, referred to in subsecs. (a)(4)(D), (E) and (d)(1)(C)(ii), (3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subparts I and II of part A of title VII of the Act are classified generally to subpart I (§292 et seq.) and subpart II (§292q et seq.), respectively, of part A of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Subpart II of part B of title VIII of the Act, which was classified generally to subpart II (§297a et seq.) of part B of subchapter VI of chapter 6A of Title 42, was redesignated as part E of subchapter VI of chapter 6A of Title 42, by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562. For complete classification of this Act to theCode, see Short Title note set out under section 201 of Title 42 and Tables.
+The Public Health Service Act, referred to in subsecs. (a)(4)(D), (E) and (d)(1)(C)(ii), (3)(D), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Subparts I and II of part A of title VII of the Act are classified generally to subpart I (§292 et seq.) and subpart II (§292q et seq.), respectively, of part A of subchapter V of chapter 6A of Title 42, The Public Health and Welfare. Subpart II of part B of title VIII of the Act, which was classified generally to subpart II (§297a et seq.) of part B of subchapter VI of chapter 6A of Title 42, was redesignated as part E of subchapter VI of chapter 6A of Title 42, by Pub. L. 105–392, title I, §123(2), Nov. 13, 1998, 112 Stat. 3562. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
 
 This chapter, referred to in subsec. (d)(3)(C), was in the original “this Act”, meaning Pub. L. 89–329, as amended, known as the Higher Education Act of 1965. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 #### Codification
 
-Amendments by section 2(c)(33), (36) of Pub. L. 103–208 (which were effective as if included in Pub. L. 102–325) were executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–66, to reflect the probable intent of Congress.
+Amendments by section 2(c)(33), (36) of Pub. L. 103–208 (which were effective as if included in Pub. L. 102–325)were executed to this section as amended by Pub. L. 102–325 and Pub. L. 103–66, to reflect the probable intent of Congress.
 
 #### Prior Provisions
 
 A prior section 1078–3, Pub. L. 89–329, title IV, §428C, as added Pub. L. 99–272, title XVI, §16017(a), Apr. 7, 1986, 100 Stat. 343, related to consolidation loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2002—Subsec. (c)(1)(A). Pub. L. 107–139 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “Notwithstanding subparagraphs (B) and (C), with respect to any loan made under this section for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2003, the applicable interest rate shall be determined under section 1077a(k)(4) of this title.”
 
 1998—Subsec. (a)(3). Pub. L. 105–244, §420(a), amended heading, added subpars. (A) and (B), and struck out former subpars. (A) and (B) which defined the term “eligible borrower”, provided for termination of individual's status as an eligible borrower, and provided for counting loans against certain limitations on aggregate indebtedness.
 
@@ -354,7 +360,7 @@ Subsec. (c)(1)(B), (C). Pub. L. 103–66, §4046(a)(3)(A), amended subpars. (B) 
 
 Subsec. (c)(2)(A). Pub. L. 103–208, §2(c)(36), inserted period at end of cl. (vi). See Codification note above.
 
-Pub. L. 103–66, §4046(a)(3)(B)(i), in introductory provisions substituted “income-sensitive repayment schedules, established by the lender in accordance with the regulations of the Secretary. Except as required by such income-sensitive repayment schedules, or by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, such repayment terms” for “income sensitive repayment schedules. Such repayment terms”, added cl. (i), and redesignated former cls. (i) to (v) as (ii) to (vi), respectively.
+Pub. L. 103–66, §4046(a)(3)(B)(i), in introductory provisions substituted “income-sensitive repayment schedules, established by the lender in accordance with the regulations of the Secretary. Except as required bysuch income-sensitive repayment schedules, or by the terms of repayment pursuant to income contingent repayment offered by the Secretary under subsection (b)(5) of this section, such repayment terms” for “income sensitive repayment schedules. Such repayment terms”, added cl. (i), and redesignated former cls. (i) to (v) as (ii) to (vi), respectively.
 
 Subsec. (c)(2)(B), (C). Pub. L. 103–66, §4046(a)(3)(B)(ii), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows: “Unless a consolidation loan under subparagraph (A)(ii) will be used to discharge at least $5,000 of loans made under this part, such loan shall be repaid in accordance with subparagraph (A)(i).”
 
@@ -416,11 +422,11 @@ Subsec. (c)(5). Pub. L. 100–50, §10(s)(7), inserted “, but a fee may be pa
 
 Amendment by section 416(b)(2) of Pub. L. 105–244 applicable with respect to any loan made, insured, or guaranteed under this part for which the first disbursement is made on or after Oct. 1, 1998, and before July 1, 2003, except that such amendment is applicable with respect to any loan made under this section for which application is received by an eligible lender on or after Oct. 1, 1998, and before July 1, 2003, see section 416(c) of Pub. L. 105–244, set out as a note under section 1077a of this title.
 
-Amendment by section 420 of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L.105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+Amendment by section 420 of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Section 101(e) \[title VI, §602(b)(1)(B)\] of div. A of Pub. L. 104–208 provided that: “The amendments made by this paragraph \[amending this section and section 1085 of this title\] shall take effect on the reorganization effective date as defined in section 440(h) of the Higher Education Act of 1965 \[20 U.S.C. 1087–3(h)\] (as added by subsection (a)).”
+Section 101(e) \[title VI, §602(b)(1)(B)\] of div. A of Pub. L. 104–208 provided that: “The amendments made bythis paragraph \[amending this section and section 1085 of this title\] shall take effect on the reorganization effective date as defined in section 440(h) of the Higher Education Act of 1965 \[20 U.S.C. 1087–3(h)\] (as added by subsection (a)).”
 
 #### Effective Date of 1993 Amendments
 

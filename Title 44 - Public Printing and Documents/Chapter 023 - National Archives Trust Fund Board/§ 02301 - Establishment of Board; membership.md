@@ -1,6 +1,6 @@
 ### §2301. Establishment of Board; membership
 
-The National Archives Trust Fund Board shall consist of the Archivist of the United States, as Chairman, and the Secretary of the Treasury and the Chairman of the National Endowment for the Humanities. Membership on the Board is not an office within the meaning of the statutes of the United States.
+The National Archives Trust Fund Board shall consist of the Archivist of the United States, asChairman, and the Secretary of the Treasury and the Chairman of the National Endowment for the Humanities. Membership on the Board is not an office within the meaning of the statutes of the United States.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1292; Pub. L. 94–391, Aug. 19, 1976, 90 Stat. 1192; Pub. L. 95–379, Sept. 22, 1978, 92 Stat. 724; Pub. L. 98–497, title I, §107(b)(8), Oct. 19, 1984, 98 Stat. 2287.)
 

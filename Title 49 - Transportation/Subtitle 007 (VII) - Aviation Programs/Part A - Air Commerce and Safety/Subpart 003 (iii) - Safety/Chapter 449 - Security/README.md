@@ -24,6 +24,7 @@
 | [44918\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044918%20-%20Crew%20training.md) | Crew training. |
 | [44919\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044919%20-%20Security%20screening%20pilot%20program.md) | Security screening pilot program. |
 | [44920\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044920%20-%20Security%20screening%20opt-out%20program.md) | Security screening opt-out program. |
+| [44921\.](Subchapter%20001%20%28I%29%20-%20Requirements/%C2%A7%2044921%20-%20Federal%20flight%20deck%20officer%20program.md) | Federal flight deck officer program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -54,6 +55,8 @@
 
 #### Amendments
 
+2002—Pub. L. 107–296, title XIV, §1402(b)(1), Nov. 25, 2002, 116 Stat. 2305, added item 44921.
+
 2001—Pub. L. 107–71, title I, §§101(f)(6), 105(b), 107(b), 108(b), 113(b), 125(b), 131(b), Nov. 19, 2001, 115 Stat. 603, 607, 611, 613, 622, 632, 635, added items 44917 to 44920, 44939, 44941, and 44944 and struck out items 44931 “Director of Intelligence and Security” and 44932 “Assistant Administrator for Civil Aviation Security”.
 
 Pub. L. 107–71, title I, §118(b), Nov. 19, 2001, 115 Stat. 627, which directed addition of item 44940 to the analysis for chapter 449 without specifying the Code title to be amended, was executed by adding item 44940 to this analysis to reflect the probable intent of Congress.
@@ -62,7 +65,7 @@ Pub. L. 107–71, title I, §118(b), Nov. 19, 2001, 115 Stat. 627, which directe
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 106, 114, 46301, 48301 of this title.
+This chapter is referred to in sections 106, 114, 46301, 48301 of this title; title 6 section 233.
 
 
 ---

@@ -2,7 +2,7 @@
 
 #### (a) Application of United States laws generally
 
-The absence of diplomatic relations or recognition shall not affect the application of thelaws of the United States with respect to Taiwan, and the laws of the United States shall apply with respect to Taiwan in the manner that the laws of the United States applied with respect to Taiwan prior to January 1, 1979.
+The absence of diplomatic relations or recognition shall not affect the application of the laws of the United States with respect to Taiwan, and the laws of the United States shall apply with respect to Taiwan in the manner that the laws of the United States applied with respect to Taiwan prior to January 1, 1979.
 
 #### (b) Application of United States laws in specific and enumerated areas
 

@@ -1,6 +1,6 @@
 ### §961. Strengthening armed vessel of foreign nation
 
-Whoever, within the United States, increases or augments the force of any ship of war, cruiser, or other armed vessel which, at the time of her arrival within the United States, was a ship of war, or cruiser, or armed vessel, in the service of any foreign prince or state, or of any colony, district, or people, or belonging to the subjects or citizens of any such prince or state, colony, district, or people, the same being at war with any foreign prince or state, or of any colony, district, or people, with whom the United States is at peace, by adding to the number of the guns of such vessel, or by changing those on board of her for guns of a larger caliber, or by adding thereto any equipment solely applicable to war,shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, within the United States, increases or augments the force of any ship of war, cruiser, or other armed vessel which, at the time of her arrival within the United States, was a ship of war, or cruiser, or armed vessel, in the service of any foreign prince or state, or of any colony, district, or people, or belonging to the subjects or citizens of any such prince or state, colony, district, or people, the same being at war with any foreign prince or state, or of any colony, district, or people, with whom the United States is at peace, by adding to the number of the guns of such vessel, or by changing those on board of her for guns of a larger caliber, or by adding thereto any equipment solely applicable to war, shall be fined under this title or imprisoned not more than one year, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 746; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -22,5 +22,5 @@ Minor changes in phraseology were made.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 959 of this title; title 22 section 461.
+This section is referred to in section 959 of this title; title 22 section 461.
 

@@ -32,7 +32,7 @@ There is established within the Administration a program to be carried out by th
 
 &emsp;&emsp;(B) a contract opportunity shall be awarded pursuant to this section on the basis of competition restricted to qualified HUBZone small business concerns if the contracting officer has a reasonable expectation that not less than 2 qualified HUBZone small business concerns will submit offers and that the award can be made at a fair market price; and
 
-&emsp;&emsp;(C) not later than 5 days from the date the Administration is notified of a procurement officer's decision not to award a contract opportunity under this section to a qualified HUBZone small business concern, the Administrator may notify the contracting officer of the intent to appeal the contracting officer's decision, and within 15 days of such date the Administrator may file a written request for reconsideration of the contracting officer's decision with the Secretary of the department or agency head.
+&emsp;&emsp;(C) not later than 5 days from the date the Administration is notified of a procurementofficer's decision not to award a contract opportunity under this section to a qualified HUBZone small business concern, the Administrator may notify the contracting officer of the intent to appeal the contracting officer's decision, and within 15 days of such date the Administrator may file a written request for reconsideration of the contracting officer's decision with the Secretary of the department or agency head.
 
 #### (3) Price evaluation preference in full and open competitions
 
@@ -74,7 +74,7 @@ There is established within the Administration a program to be carried out by th
 
 #### (3) Provision of data
 
-&emsp;Upon the request of the Administrator, the Secretary of Labor, the Secretary of Housing and Urban Development, and the Secretary ofthe Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
+&emsp;Upon the request of the Administrator, the Secretary of Labor, the Secretary of Housing and Urban Development, and the Secretary of the Interior (or the Assistant Secretary for Indian Affairs), shall promptly provide to the Administrator such information as the Administrator determines to be necessary to carry out this subsection.
 
 #### (4) Penalties
 
@@ -144,5 +144,5 @@ Section 606 of Pub. L. 105–135 provided that: “Not later than March 1, 2002,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 632, 645 of this title.
+This section is referred to in sections 632, 645 of this title; title 6 section 426.
 

@@ -26,7 +26,7 @@ The Secretary may waive the requirements set forth in section 1101a(a)(2)(A)(i) 
 
 &emsp;&emsp;(A) identify the factors referred to in paragraph (1) that were considered by the Secretary as factors that distorted the determination of compliance with clauses (i) and (ii) of section 1101a(a)(2)(A) of this title; and
 
-&emsp;&emsp;(B) contain a list of each institution determined to be an eligible institution under part A of this subchapter including a statement of the reasons for each such determination.
+&emsp;&emsp;(B) contain a list of each institution determined to be an eligible institution underpart A of this subchapter including a statement of the reasons for each such determination.
 
 (Pub. L. 89–329, title V, §512, as added Pub. L. 105–244, title V, §501, Oct. 7, 1998, 112 Stat. 1772.)
 

@@ -30,7 +30,7 @@ Each regional center established under this section may—
 
 #### (d) Application
 
-Any nonprofit institution or consortium interested in receiving a grant under this section shall submit to the Secretary an application in such form and containing such information as the Secretary may require. A lighting or building energy center in existence on October 24, 1992, which is owned and operated by a nonprofit institution or a consortium as described in subsection (b) of this section shall be eligible for a grant under this section.
+Any nonprofit institution or consortium interested in receiving a grant under this section shall submit to the Secretary an application insuch form and containing such information as the Secretary may require. A lighting or building energy center in existence on October 24, 1992, which is owned and operated by a nonprofit institution or a consortium as described in subsection (b) of this section shall be eligible for a grant under this section.
 
 #### (e) Selection criteria
 
@@ -52,7 +52,7 @@ The Secretary shall select recipients of grants under this section on the basis 
 
 #### (2) Non-Federal contributions
 
-&emsp;No grant may be made under this section in any fiscal year unless the recipient of such grant enters into such agreements with the Secretary as the Secretary may require to ensure that such recipient will provide the necessary non-Federal contributions. Such non-Federal contributions may be provided by utilities, State and local governments, nonprofitinstitutions, foundations, corporations, and other non-Federal entities.
+&emsp;No grant may be made under this section in any fiscal year unless the recipient of such grant enters into such agreements with the Secretary as the Secretary may require to ensure that such recipient will provide the necessary non-Federal contributions. Such non-Federal contributions may be provided by utilities, State and local governments, nonprofit institutions, foundations, corporations, and other non-Federal entities.
 
 #### (g) Task force
 

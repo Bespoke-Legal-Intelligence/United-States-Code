@@ -4,7 +4,7 @@
 
 Offense.—Whoever—
 
-&emsp;(1) in violation of a statute or a rule or order issued under a statute, provides to an inmateof a prison a prohibited object, or attempts to do so; or
+&emsp;(1) in violation of a statute or a rule or order issued under a statute, provides to an inmate of a prison a prohibited object, or attempts to do so; or
 
 &emsp;(2) being an inmate of a prison, makes, possesses, or obtains, or attempts to make or obtain, a prohibited object;
 

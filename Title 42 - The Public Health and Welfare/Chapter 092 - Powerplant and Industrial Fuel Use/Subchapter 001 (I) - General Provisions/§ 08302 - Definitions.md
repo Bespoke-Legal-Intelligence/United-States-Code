@@ -44,7 +44,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(A) petroleum coke, shale oil, uranium, biomass, and municipal, industrial, or agricultural wastes, wood, and renewable and geothermal energy sources;
 
-&emsp;&emsp;(B) liquid, solid, or gaseous waste byproducts of refinery or industrial operations which are commercially unmarketable, either by reason of quality or quantity, as determined under rules prescribed by the Secretary; and
+&emsp;&emsp;(B) liquid, solid, or gaseous waste byproducts of refinery or industrial operationswhich are commercially unmarketable, either by reason of quality or quantity, as determined under rules prescribed by the Secretary; and
 
 &emsp;&emsp;(C) waste gases from industrial operations.
 
@@ -80,7 +80,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;&emsp;(i) has a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 100 million Btu's per hour or greater; or
 
-&emsp;&emsp;(ii) is in a combination of two or more such units which are located at the samesite and which in the aggregate have a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
+&emsp;&emsp;(ii) is in a combination of two or more such units which are located at the same site and which in the aggregate have a design capability of consuming any fuel (or mixture thereof) at a fuel heat input rate of 250 million Btu's per hour or greater.
 
 &emsp;(B) The terms “major fuel-burning installation” and “installation” do not include—
 
@@ -144,7 +144,7 @@ Unless otherwise expressly provided, for the purposes of this chapter—
 
 &emsp;(17) The term “applicable environmental requirements” includes—
 
-&emsp;&emsp;(A) any standard, limitation, or other requirement established by or pursuant to Federal or State law (including any final order of any Federal or State court) applicable to emissions of environmental pollutants (including air and water pollutants) or disposal of solid waste residues resulting from the use of coal or other alternate fuels or natural gas or petroleum as a primary energy source or from the operation of pollution control equipment in connection with such use, taking into account any variance of law granted or issued in accordance with Federal law or in accordance with State lawto the extent consistent with Federal law; and
+&emsp;&emsp;(A) any standard, limitation, or other requirement established by or pursuant to Federal or State law (including any final order of any Federal or State court) applicable to emissions of environmental pollutants (including air and water pollutants) or disposal of solid waste residues resulting from the use of coal or other alternate fuels or natural gas or petroleum as a primary energy source or from the operation of pollution control equipment in connection with such use, taking into account any variance of law granted or issued in accordance with Federal law or in accordance with State law to the extent consistent with Federal law; and
 
 &emsp;&emsp;(B) any other standard, limitation, or other requirement established by, or pursuant to, the Clean Air Act \[42 U.S.C. 7401 et seq.\], the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Solid Waste Disposal Act \[42 U.S.C. 6901 et seq.\], or the National Environmental Policy Act of 1969 \[42 U.S.C. 4321 et seq.\].
 

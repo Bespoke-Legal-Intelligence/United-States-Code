@@ -36,13 +36,13 @@ Payment Methods.—(1) Upon acceptance of an agreement under subsection (b) by t
 
 (2) The amount of the retention bonus may be paid as follows:
 
-&emsp;(A) At the time the agreement is accepted by the Secretary concerned, the Secretary may make a lump sum payment equal to half the total amount payable under the agreement. The balance of the bonus amount shall be paid in equal annual installments on the anniversary of the acceptance of the agreement.
+&emsp;(A) At the time the agreement is accepted by the Secretary concerned, the Secretarymay make a lump sum payment equal to half the total amount payable under the agreement. The balance of the bonus amount shall be paid in equal annual installments on the anniversary of the acceptance of the agreement.
 
 &emsp;(B) The Secretary concerned may make graduated annual payments under regulations prescribed by the Secretary, with the first payment being payable at the time the agreement is accepted by the Secretary and subsequent payments being payable on the anniversary of the acceptance of the agreement.
 
 (g)
 
-Additional Pay.—A retention bonus paid under this section is in addition to any otherpay and allowances to which an officer is entitled.
+Additional Pay.—A retention bonus paid under this section is in addition to any other pay and allowances to which an officer is entitled.
 
 (h)
 

@@ -28,9 +28,25 @@ As used in this chapter—
 
 &emsp;&emsp;Subject to subparagraph (B), the term “unfair trade practice” means any act, policy, or practice of a foreign country that—
 
-&emsp;&emsp;&emsp;(i) violates, or is inconsistent with, the provisions of, or otherwise denies benefits to the United States under, any trade agreement to which the United States is a party; or
+&emsp;&emsp;&emsp;(i) violates, or is inconsistent with, the provisions of, or otherwise denies benefits to the United States under, any trade agreement to which the United States is a party;
 
-&emsp;&emsp;&emsp;(ii) is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce.
+&emsp;&emsp;&emsp;(ii) in the case of a monopolistic state trading enterprise engaged in the export sale of an agricultural commodity, implements a pricing practice that is inconsistent with sound commercial practice;
+
+&emsp;&emsp;&emsp;(iii) provides a subsidy that—
+
+&emsp;&emsp;&emsp;&emsp;(I) decreases market opportunities for United States exports; or
+
+&emsp;&emsp;&emsp;&emsp;(II) unfairly distorts an agricultural market to the detriment of United States exporters;
+
+&emsp;&emsp;&emsp;(iv) imposes an unfair technical barrier to trade, including—
+
+&emsp;&emsp;&emsp;&emsp;(I) a trade restriction or commercial requirement (such as a labeling requirement) that adversely affects a new technology (including biotechnology); and
+
+&emsp;&emsp;&emsp;&emsp;(II) an unjustified sanitary or phytosanitary restriction (including any restriction that, in violation of the Uruguay Round Agreements, is not based on scientific principles; <sup>1</sup>
+
+&emsp;&emsp;&emsp;(v) imposes a rule that unfairly restricts imports of United States agricultural commodities in the administration of tariff rate quotas; or
+
+&emsp;&emsp;&emsp;(vi) fails to adhere to, or circumvents any obligation under, any provision of a trade agreement with the United States.
 
 #### (B) Consistency with 1974 Trade Act
 
@@ -38,7 +54,7 @@ As used in this chapter—
 
 #### (6) United States
 
-&emsp;The term “United States” includes each of the States, the District of Columbia, Puerto Rico, and the territories and possessions of the United States.
+&emsp;The term “United States” includes each of the States, the District of Columbia, PuertoRico, and the territories and possessions of the United States.
 
 #### (7) United States agricultural commodity
 
@@ -58,9 +74,11 @@ As used in this chapter—
 
 &emsp;The term “independent states of the former Soviet Union” means the following: Armenia, Azerbaijan, Belarus, Georgia, Kazakhstan, Kyrgyzstan, Moldova, Russia, Tajikistan, Turkmenistan, Ukraine, and Uzbekistan.
 
-(Pub. L. 95–501, title I, §102, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3669; amended Pub. L. 102–511, title VII, §702, Oct. 24, 1992, 106 Stat. 3349; Pub. L. 104–127, title II, §243(c), Apr. 4, 1996, 110 Stat. 967.)
+(Pub. L. 95–501, title I, §102, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3669; amended Pub. L. 102–511, title VII, §702, Oct. 24, 1992, 106 Stat. 3349; Pub. L. 104–127, title II, §243(c), Apr. 4, 1996, 110 Stat. 967; Pub. L. 107–171, title III, §3104(b), May 13, 2002, 116 Stat. 290.)
 
 #### Amendments
+
+2002—Par. (5)(A)(ii) to (vi). Pub. L. 107–171 added cls. (ii) to (vi) and struck out former cl. (ii) which read as follows: “is unjustifiable, unreasonable, or discriminatory and burdens or restricts United States commerce.”
 
 1996—Par. (7). Pub. L. 104–127 added subpars. (A) and (B) and struck out former subpars. (A) and (B) which read as follows:
 
@@ -84,5 +102,7 @@ Par. (8). Pub. L. 102–511, §702(b), added par. (8).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1736<i>o</i>, 3293 of this title; title 15 section 632; title 22 section 7201.
+This section is referred to in sections 3293, 5679 of this title; title 15 section 632; title 22 section 7201.
+
+<i><sup>1</sup></i><i> So in original. There probably should be a closing parenthesis.</i>
 

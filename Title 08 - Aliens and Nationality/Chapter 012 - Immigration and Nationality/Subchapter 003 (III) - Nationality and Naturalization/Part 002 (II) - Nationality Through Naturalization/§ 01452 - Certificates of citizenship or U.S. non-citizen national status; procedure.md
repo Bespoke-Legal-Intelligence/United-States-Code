@@ -52,13 +52,17 @@ Section 305(m) of Pub. L. 102–232 provided that the amendment made by that sec
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–525 effective as if included in the enactment of the Immigration and Nationality Act Amendments of 1986, Pub. L. 99–653, see section309(b)(15) of Pub. L. 102–232, set out as an Effective and Termination Dates of 1988 Amendments note under section 1101 of this title.
+Amendment by Pub. L. 100–525 effective as if included in the enactment of the Immigration and Nationality Act Amendments of 1986, Pub. L. 99–653, see section 309(b)(15) of Pub. L. 102–232, set out as an Effective and Termination Dates of 1988 Amendments note under section 1101 of this title.
 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Certificates of Non-Citizen National Status; $35 Limit on Fees for Processing Applications Filed Before End of Fiscal Year 1987
 
-Section 16(c) of Pub. L. 99–396 provided that: “The Secretary of State may not impose a fee exceeding $35 for the processing of an application for a certificate of non-citizen national status under section 341(b) of the Immigration and Nationality Act \[8 U.S.C. 1452(b)\] filed before the end of fiscal year 1987.”
+Section 16(c) of Pub. L. 99–396 provided that: “The Secretary of State may not impose a fee exceeding $35for the processing of an application for a certificate of non-citizen national status under section 341(b) of the Immigration and Nationality Act \[8 U.S.C. 1452(b)\] filed before the end of fiscal year 1987.”
 

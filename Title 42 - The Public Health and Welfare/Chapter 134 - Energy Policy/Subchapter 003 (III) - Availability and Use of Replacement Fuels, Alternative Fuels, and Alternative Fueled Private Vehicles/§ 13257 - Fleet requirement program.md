@@ -16,7 +16,7 @@
 
 &emsp;(F) 70 percent of the motor vehicles acquired in model year 2006 and thereafter.
 
-(2) The Secretary may not establish percentage requirements higher than those described in paragraph (1). The Secretary may, if appropriate, and pursuant to a rule under subsection (b) of this section, establish a lesser percentage requirement for any model year. The Secretary may, by rule, establish a date later than 1998 (ormodel year 1999) for initiating the fleet requirements under paragraph (1).
+(2) The Secretary may not establish percentage requirements higher than those described in paragraph (1). The Secretary may, if appropriate, and pursuant to a rule under subsection (b) of this section, establish a lesser percentage requirement for any model year. The Secretary may, by rule, establish a date later than 1998 (or model year 1999) for initiating the fleet requirements under paragraph (1).
 
 (3) The Secretary shall publish an advance notice of proposed rulemaking for the purpose of—
 
@@ -150,7 +150,7 @@ In carrying out this section and section 13256 of this title, the Secretary shal
 
 #### (n) Petitions
 
-As part of the rule promulgated either pursuant to subsection (b) or (g) of this section, the Secretary shall establish procedures for any fleet owner or operator or motor vehicle manufacturer to request that the Secretary modify or suspend a fleet requirement program established under either subsection nationally, by region, or in an applicable fleet area because, as demonstrated by the petitioner, the infrastructure or fuel supply or distribution system for an applicable alternative fuel is inadequate to meet the needs of a fleet. In the event that the Secretary determines that a modification or suspension of the fleet requirement program on a regional basis would detract from the nationwide character of any fleet requirement program established by rule or would sufficiently diminish the economies of scale for the production of alternative fueled vehicles or alternative fuels and thereafter the practicability and effectiveness of such program, the Secretary may only modify or suspend the program nationally. The procedures shall include provisions for notice and public hearings. The Secretary shall deny or grant the petition within 180 days after filing.
+As part of the rule promulgated either pursuant to subsection (b) or (g) of this section, the Secretary shall establish procedures for any fleet owner or operator or motor vehicle manufacturer to request that the Secretary modify or suspend a fleet requirement program established under either subsection nationally, by region, or in an applicable fleet area because, as demonstrated by the petitioner, the infrastructure or fuel supply or distribution system for an applicable alternative fuel is inadequate to meetthe needs of a fleet. In the event that the Secretary determines that a modification or suspension of the fleet requirement program on a regional basis would detract from the nationwide character of any fleet requirement program established by rule or would sufficiently diminish the economies of scale for the production of alternative fueled vehicles or alternative fuels and thereafter the practicability and effectiveness of such program, the Secretary may only modify or suspend the program nationally. The procedures shall include provisions for notice and public hearings. The Secretary shall deny or grant the petition within 180 days after filing.
 
 #### (<i>o</i>) Mandatory State fleet programs
 

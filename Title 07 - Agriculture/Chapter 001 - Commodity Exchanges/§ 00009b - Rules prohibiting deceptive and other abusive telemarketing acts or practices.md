@@ -6,7 +6,7 @@
 
 &emsp;(A) rules adopted by the Commission under this chapter provide protection from deceptive and abusive telemarketing by persons described under paragraph (1) substantially similar to that provided by rules promulgated by the Federal Trade Commission under section 6102(a) of title 15; or
 
-&emsp;(B) such a rule promulgated by the Commission is not necessary or appropriate in thepublic interest, or for the protection of customers in the futures and options markets, or would be inconsistent with the maintenance of fair and orderly markets.
+&emsp;(B) such a rule promulgated by the Commission is not necessary or appropriate in the public interest, or for the protection of customers in the futures and options markets, or would be inconsistent with the maintenance of fair and orderly markets.
 
 > If the Commission determines that an exception described in subparagraph (A) or (B) applies, the Commission shall publish in the Federal Register its determination with the reasons for it.
 

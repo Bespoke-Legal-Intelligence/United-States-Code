@@ -28,7 +28,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 2516 of this title; title 39 section 3001; title 47 section 230.
+This chapter is referred to in section 2516 of this title; title 19 section 1583; title 39 section 3001; title 47 section 230.
 
 
 ---

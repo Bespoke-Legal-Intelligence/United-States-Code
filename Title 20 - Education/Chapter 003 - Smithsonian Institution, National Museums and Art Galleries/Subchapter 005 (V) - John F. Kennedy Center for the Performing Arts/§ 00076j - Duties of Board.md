@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) present classical and contemporary music, opera, drama, dance, and other performing arts from the United States and other countries;
 
-&emsp;&emsp;(B) promote and maintain the John F. Kennedy Center for the Performing Arts as the National Center for the Performing Arts—
+&emsp;&emsp;(B) promote and maintain the John F. Kennedy Center for the Performing Arts asthe National Center for the Performing Arts—
 
 &emsp;&emsp;&emsp;(i) by developing and maintaining a leadership role in national performing arts education policy and programs, including developing and presenting original and innovative performing arts and educational programs for children, youth, families, adults, and educators designed specifically to foster an appreciation and understanding of the performing arts;
 
@@ -50,7 +50,13 @@
 
 #### (D) Selection of contractors
 
-&emsp;&emsp;In carrying out the duties of the Board under this subchapter, the Board may negotiate any contract for an environmental system for, a protection system for, or a repair to, maintenance of, or restoration of the John F. Kennedy Center for the Performing Arts with selected contractors and award the contract on the basis of contractor qualifications as well as price.
+&emsp;&emsp;In carrying out the duties of the Board under this subchapter, the Board may negotiate any contract—
+
+&emsp;&emsp;&emsp;(i) for planning, design, engineering, or construction of buildings to be erected on the John F. Kennedy Center Plaza under section 76q–1 of this title and for landscaping and other improvements to the Plaza; or
+
+&emsp;&emsp;&emsp;(ii) for an environmental system for, a protection system for, or a repair to, maintenance of, or restoration of the John F. Kennedy Center for the Performing Arts,
+
+> &emsp;&emsp;with selected contractors and award the contract on the basis of contractor qualifications as well as price.
 
 #### (E) Maintenance of halls
 
@@ -76,9 +82,11 @@
 
 (3) For purposes of this subsection, testimonials and benefit performances shall not be construed to be memorials.
 
-(Pub. L. 85–874, §4, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(3), Jan. 23, 1964, 78 Stat. 4; Pub. L. 98–205, §4, Dec. 2, 1983, 97 Stat. 1388; Pub. L. 103–279, §3, July 21, 1994, 108 Stat. 1411; Pub. L. 105–95, §3(a), Nov. 19, 1997, 111 Stat. 2149; Pub. L. 105–226, §§2, 3, Aug. 12, 1998, 112 Stat. 1513.)
+(Pub. L. 85–874, §4, Sept. 2, 1958, 72 Stat. 1699; Pub. L. 88–260, §1(3), Jan. 23, 1964, 78 Stat. 4; Pub. L. 98–205, §4, Dec. 2, 1983, 97 Stat. 1388; Pub. L. 103–279, §3, July 21, 1994, 108 Stat. 1411; Pub. L. 105–95, §3(a), Nov. 19, 1997, 111 Stat. 2149; Pub. L. 105–226, §§2, 3, Aug. 12, 1998, 112 Stat. 1513; Pub. L. 107–224, §4(a), Sept. 18, 2002, 116 Stat. 1343.)
 
 #### Amendments
+
+2002—Subsec. (a)(2)(D). Pub. L. 107–224 amended heading and text of subpar. (D) generally. Prior to amendment, text read as follows: “In carrying out the duties of the Board under this subchapter, the Board may negotiate any contract for an environmental system for, a protection system for, or a repair to, maintenance of, or restoration of the John F. Kennedy Center for the Performing Arts with selected contractors and award the contract on the basis of contractor qualifications as well as price.”
 
 1998—Subsec. (a)(1)(G). Pub. L. 105–226, §2, amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “with respect to each feature of the building and site of the John F. Kennedy Center for the Performing Arts that is in existence on July 21, 1994 (including a theater, the garage, the plaza, or a building walkway), plan, design, and construct each capital repair, replacement, improvement, rehabilitation, alteration, or modification necessary for the feature;”.
 
@@ -124,5 +132,5 @@ Applicability of title 23, united states code.—Funds authorized by this subsec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 76k, 76r of this title.
+This section is referred to in sections 76k, 76q–1, 76r of this title.
 

@@ -2,21 +2,29 @@
 
 (a)
 
-General Penalties.—(1) A person that the Secretary of Transportation decides, after written notice and an opportunity for a hearing, has violated section 60114(c) <sup>1</sup> or 60118(a) of this title or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of not more than $25,000 for each violation. A separate violation occurs for each day the violation continues. Themaximum civil penalty under this paragraph for a related series of violations is $500,000.
+General Penalties.—(1) A person that the Secretary of Transportation decides, after written notice and an opportunity for a hearing, has violated section 60114(b) or 60118(a) of this title or a regulation prescribed or order issued under this chapter is liable to the United States Government for a civil penalty of not more than $100,000 for each violation. A separate violation occurs for each day the violation continues. The maximum civil penalty under this paragraph for a related series of violations is $1,000,000.
 
 (2) A person violating a standard or order under section 60103 or 60111 of this title is liable to the Government for a civil penalty of not more than $50,000 for each violation. A penalty under this paragraph may be imposed in addition to penalties imposed under paragraph (1) of this subsection.
 
+(3) A person violating section 60129, or an order issued thereunder, is liable to the Government for a civil penalty of not more than $1,000 for each violation. The penalties provided by paragraph (1) do not apply to a violation of section 60129 or an order issued thereunder.
+
 (b)
 
-Penalty Considerations.—In determining the amount of a civil penalty under this section, the Secretary shall consider—
+Penalty Considerations.—In determining the amount of a civil penalty under this section—
 
-&emsp;(1) the nature, circumstances, and gravity of the violation;
+&emsp;(1) the Secretary shall consider—
 
-&emsp;(2) with respect to the violator, the degree of culpability, any history of prior violations, the ability to pay, and any effect on ability to continue doing business;
+&emsp;&emsp;(A) the nature, circumstances, and gravity of the violation, including adverse impact on the environment;
 
-&emsp;(3) good faith in attempting to comply; and
+&emsp;&emsp;(B) with respect to the violator, the degree of culpability, any history of prior violations, the ability to pay, and any effect on ability to continue doing business; and
 
-&emsp;(4) other matters that justice requires.
+&emsp;&emsp;(C) good faith in attempting to comply; and
+
+&emsp;(2) the Secretary may consider—
+
+&emsp;&emsp;(A) the economic benefit gained from the violation without any reduction because of subsequent damages; and
+
+&emsp;&emsp;(B) other matters that justice requires.
 
 (c)
 
@@ -36,7 +44,7 @@ Deposit in Treasury.—Amounts collected under this section shall be deposited i
 
 Prohibition on Multiple Penalties for Same Act.—Separate penalties for violating a regulation prescribed under this chapter and for violating an order under section 60112 or 60118(b) of this title may not be imposed under this chapter if both violations are based on the same act.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1325; Pub. L. 107–355, §§6(b), 8(b)(1), (2), 21(3), Dec. 17, 2002, 116 Stat. 2992, 2993, 3010.)
 
 Historical and Revision Notes
 
@@ -118,13 +126,49 @@ In subsection (d), the words “imposed or compromised under this section” are
 
 In subsection (f), the words “Separate penalties . . . prescribed under this chapter . . . may not be imposed under this chapter” are substituted for “Nothing in this title shall be construed to authorize . . . penalties” for clarity.
 
-#### References in Text
+#### Amendments
 
-Section 60114(c) of this title, referred to in subsec. (a), was redesignated section 60114(b) by Pub. L. 104–304, §20(d), Oct. 12, 1996, 110 Stat. 3804.
+2002—Subsec. (a)(1). Pub. L. 107–355, §21(3), substituted “section 60114(b)” for “section 60114(c)”.
+
+Pub. L. 107–355, §8(b)(1), substituted “$100,000” for “$25,000” and “$1,000,000” for “$500,000”.
+
+Subsec. (a)(3). Pub. L. 107–355, §6(b), added par. (3).
+
+Subsec. (b). Pub. L. 107–355, §8(b)(2), substituted “under this section—” and pars. (1) and (2) for “under this section, the Secretary shall consider—
+
+&emsp;“(1) the nature, circumstances, and gravity of the violation;
+
+&emsp;“(2) with respect to the violator, the degree of culpability, any history of prior violations, the ability to pay, and any effect on ability to continue doing business;
+
+&emsp;“(3) good faith in attempting to comply; and
+
+&emsp;“(4) other matters that justice requires.”
+
+#### Comptroller General Study
+
+Pub. L. 107–355, §8(d), Dec. 17, 2002, 116 Stat. 2994, provided that:
+
+“(1)
+
+In general.—The Comptroller General shall conduct a study of the actions, policies, and procedures of the Secretary of Transportation for assessing and collecting fines and penalties on operators of hazardous liquid and gas transmission pipelines.
+
+“(2)
+
+Analysis.—In conducting the study, the Comptroller General shall examine, at a minimum, the following:
+
+&emsp;“(A) The frequency with which the Secretary has substituted corrective orders for fines and penalties.
+
+&emsp;“(B) Changes in the amounts of fines recommended by safety inspectors, assessed by the Secretary, and actually collected.
+
+&emsp;“(C) An evaluation of the overall effectiveness of the Secretary's enforcement strategy.
+
+&emsp;“(D) The extent to which the Secretary has complied with the report of the Government Accounting Office entitled ‘Pipeline Safety: The Office of Pipeline Safety is Changing How it Oversees the Pipeline Industry’.
+
+“(3)
+
+Report.—Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2002\], the Comptroller General shall transmit to the Committee on Commerce, Science, and Transportation of the Senate and the Committees on Transportation and Infrastructure and Energy and Commerce of the House of Representatives a report on the results of the study.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 60105, 60114 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 60105, 60114, 60120 of this title.
 

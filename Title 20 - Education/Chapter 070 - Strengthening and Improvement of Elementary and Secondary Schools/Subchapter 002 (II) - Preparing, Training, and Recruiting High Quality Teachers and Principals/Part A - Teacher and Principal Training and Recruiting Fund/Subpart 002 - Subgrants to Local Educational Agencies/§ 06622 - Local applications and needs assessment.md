@@ -6,7 +6,7 @@ To be eligible to receive a subgrant under this subpart, a local educational age
 
 #### (b) Contents
 
-Each application submitted under this section shall be based on the needs assessment required in subsection (c) of this section and shall include the following:
+Each application submitted under this section shall be based on the needs assessment requiredin subsection (c) of this section and shall include the following:
 
 &emsp;(1)(A) A description of the activities to be carried out by the local educational agency under this subpart and how these activities will be aligned with—
 

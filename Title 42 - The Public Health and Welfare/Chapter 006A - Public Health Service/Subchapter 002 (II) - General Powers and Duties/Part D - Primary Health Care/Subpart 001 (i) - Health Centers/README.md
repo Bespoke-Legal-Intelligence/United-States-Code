@@ -12,7 +12,7 @@ subpart i—health centers
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [&sect; 00254b - Health centers](%C2%A7%2000254b%20-%20Health%20centers.md)
-- [&sect; 00254c - Rural health outreach, network development, and telemedicine grant program](%C2%A7%2000254c%20-%20Rural%20health%20outreach%2C%20network%20development%2C%20and%20telemedicine%20grant%20program.md)
+- [&sect; 00254c - Rural health care services outreach, rural health network development, and small health care provider quality improvement grant programs](%C2%A7%2000254c%20-%20Rural%20health%20care%20services%20outreach%2C%20rural%20health%20network%20development%2C%20and%20small%20health%20care%20provider%20quality%20improvement%20grant%20programs.md)
 - [&sect; 00254c&#8211;1 - Grants for health services for Pacific Islanders](%C2%A7%2000254c%E2%80%931%20-%20Grants%20for%20health%20services%20for%20Pacific%20Islanders.md)
 - [&sect; 00254c&#8211;2 - Special diabetes programs for type I diabetes](%C2%A7%2000254c%E2%80%932%20-%20Special%20diabetes%20programs%20for%20type%20I%20diabetes.md)
 - [&sect; 00254c&#8211;3 - Special diabetes programs for Indians](%C2%A7%2000254c%E2%80%933%20-%20Special%20diabetes%20programs%20for%20Indians.md)
@@ -26,3 +26,7 @@ subpart i—health centers
 - [&sect; 00254c&#8211;11 - Technical assistance](%C2%A7%2000254c%E2%80%9311%20-%20Technical%20assistance.md)
 - [&sect; 00254c&#8211;12 - Definitions](%C2%A7%2000254c%E2%80%9312%20-%20Definitions.md)
 - [&sect; 00254c&#8211;13 - Authorization of appropriations](%C2%A7%2000254c%E2%80%9313%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 00254c&#8211;14 - Telehealth network and telehealth resource centers grant programs](%C2%A7%2000254c%E2%80%9314%20-%20Telehealth%20network%20and%20telehealth%20resource%20centers%20grant%20programs.md)
+- [&sect; 00254c&#8211;15 - Rural emergency medical service training and equipment assistance program](%C2%A7%2000254c%E2%80%9315%20-%20Rural%20emergency%20medical%20service%20training%20and%20equipment%20assistance%20program.md)
+- [&sect; 00254c&#8211;16 - Mental health services delivered via telehealth](%C2%A7%2000254c%E2%80%9316%20-%20Mental%20health%20services%20delivered%20via%20telehealth.md)
+- [&sect; 00254c&#8211;17 - Telemedicine; incentive grants regarding coordination among States](%C2%A7%2000254c%E2%80%9317%20-%20Telemedicine%3B%20incentive%20grants%20regarding%20coordination%20among%20States.md)

@@ -96,7 +96,7 @@ Commission.—The Consumer Product Safety Commission shall—
 
 “(c)
 
-Health and Human Services.—The Consumer Product Safety Commission, in consultation with the Secretary of Health and Human Services, shall developinformation on changes in the toxicity of smoke and resultant health effects from cigarette prototypes. The Commission shall not obligate more than $50,000 to develop such information.
+Health and Human Services.—The Consumer Product Safety Commission, in consultation with the Secretary of Health and Human Services, shall develop information on changes in the toxicity of smoke and resultant health effects from cigarette prototypes. The Commission shall not obligate more than $50,000 to develop such information.
 
 #### “SEC. 3. ADVISORY GROUP.
 

@@ -4,7 +4,7 @@
 
 #### (1) Plan provisions
 
-&emsp;Each State in which all or part of a Moderate Area is located shall submit, accordingto the applicable schedule under paragraph (2), an implementation plan that includes each of the following:
+&emsp;Each State in which all or part of a Moderate Area is located shall submit, according to the applicable schedule under paragraph (2), an implementation plan that includes each of the following:
 
 &emsp;&emsp;(A) For the purpose of meeting the requirements of section 7502(c)(5) of this title, a permit program providing that permits meeting the requirements of section 7503 of this title are required for the construction and operation of new and modified major stationary sources of PM–10.
 

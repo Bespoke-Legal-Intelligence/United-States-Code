@@ -26,7 +26,7 @@ Subsec. (b). Pub. L. 103–296, §206(c)(2), amended subsec. (b) generally. Prio
 
 “(b)(1) Any person or other entity who is convicted of a violation of any of the provisions of paragraphs (1) through (4) of subsection (a) of this section, if such violation is committed by such person or entity in his role as, or in applying to become, a payee under section 1383(a)(2) of this title on behalf of another individual (other than such person's eligible spouse), in lieu of the penalty set forth in subsection (a) of this section—
 
-&emsp;“(A) upon his first such conviction, shall be guilty of a misdemeanor and shall be fined not more than$5,000 or imprisoned for not more than one year, or both; and
+&emsp;“(A) upon his first such conviction, shall be guilty of a misdemeanor and shall be fined not more than $5,000 or imprisoned for not more than one year, or both; and
 
 &emsp;“(B) upon his second or any subsequent such conviction, shall be guilty of a felony and shall be fined not more than $25,000 or imprisoned for not more than five years, or both.
 

@@ -8,7 +8,7 @@ The Administrative Committee of the Federal Register shall consist of the Archiv
 
 &emsp;(3) the manner and form in which the Federal Register shall be printed, reprinted, and compiled, indexed, bound, and distributed;
 
-&emsp;(4) the number of copies of the Federal Register, which shall be printed, reprinted, and compiled, the number which shall be distributed without charge to Members of Congress, officers and employees of the United States, or Federal agency, for official use, and the number which shall be available for distribution to the public; and
+&emsp;(4) the number of copies of the Federal Register, which shall be printed, reprinted, and compiled, the number which shall be distributed without charge to Members of Congress,officers and employees of the United States, or Federal agency, for official use, and the number which shall be available for distribution to the public; and
 
 &emsp;(5) the prices to be charged for individual copies of, and subscriptions to, the Federal Register and reprints and bound volumes of it.
 

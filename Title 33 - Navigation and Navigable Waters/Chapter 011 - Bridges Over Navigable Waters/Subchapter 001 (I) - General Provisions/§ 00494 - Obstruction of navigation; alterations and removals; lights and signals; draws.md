@@ -18,6 +18,8 @@ Section would seem to supersede a provision of act Aug. 7, 1882, ch. 433, §1, 2
 
 #### Transfer of Functions
 
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 Functions, powers, and duties of Secretary of the Army \[formerly War\] and other offices and officers of Department of the Army \[formerly War\] relating to reasonableness of tolls and to location and clearances of bridges and causeways in navigable waters of United States under this section transferred to and vested in Secretary of Transportation by section 6(g)(4)(A), (6)(B) of Pub. L. 89–670. Pub. L. 97–449 amended this section to reflect transfer made by section 6(g)(4)(A), (6)(B) of Pub. L. 89–670, and repealed section 6(g)(4)(A), (6)(B).
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when the President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.

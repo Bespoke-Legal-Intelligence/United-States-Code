@@ -14,7 +14,7 @@ The authority specified in subsection (a) of this section may be exercised only 
 
 &emsp;(3) the head of each Federal agency managing the lands proposed for such transfer has submitted to the Secretary of the Interior a statement of concurrence with the proposed revocation, modification, or termination;
 
-&emsp;(4) at least sixty days have elapsed since the Secretary of the Interior has published in the Federal Register a notice of the proposed revocation, modification, or termination; and
+&emsp;(4) at least sixty days have elapsed since the Secretary of the Interior has published in theFederal Register a notice of the proposed revocation, modification, or termination; and
 
 &emsp;(5) at least sixty days have elapsed since the Secretary of the Interior has transmitted to the Committee on Natural Resources of the House of Representatives and the Committee on Energy and Natural Resources of the United States Senate a report which includes—
 

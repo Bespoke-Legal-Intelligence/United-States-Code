@@ -6,7 +6,7 @@ For the purposes of this subchapter—
 
 (b) The term “local educational agency” means a local educational agency as defined by section 801(f) <sup>1</sup> of the Elementary and Secondary Education Act of 1965.
 
-(c) The term “segregation” means the operation of a school system in which students arewholly or substantially separated among the schools of an educational agency on the basis of race, color, sex, or national origin or within a school on the basis of race, color, or national origin.
+(c) The term “segregation” means the operation of a school system in which students are wholly or substantially separated among the schools of an educational agency on the basis of race, color, sex, or national origin or within a school on the basis of race, color, or national origin.
 
 (d) The term “desegregation” means desegregation as defined by section 2000c(b) of title 42.
 

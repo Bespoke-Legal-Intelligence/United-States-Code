@@ -8,9 +8,11 @@ In any case in which the Bureau of Justice Assistance (hereinafter in this subch
 
 &emsp;(2) if there is a surviving child or children and a surviving spouse, one-half to the surviving child or children of such officer in equal shares and one-half to the surviving spouse;
 
-&emsp;(3) if there is no surviving spouse, to the child or children of such officer in equal shares; or
+&emsp;(3) if there is no surviving spouse, to the child or children of such officer in equal shares;
 
-&emsp;(4) if none of the above, to the parent or parents of such officer in equal shares.
+&emsp;(4) if there is no surviving spouse or surviving child, to the individual designated by such officer as beneficiary under such officer's most recently executed life insurance policy, provided that such individual survived such officer; or
+
+&emsp;(5) if none of the above, to the parent or parents of such officer in equal shares.
 
 #### (b) Benefits for permanent and total disability
 
@@ -54,7 +56,7 @@ The amount payable under subsection (a) of this section with respect to the deat
 
 (2) No benefit is payable under this subchapter with respect to the disability of a public safety officer if a benefit is payable under this subchapter with respect to the death of such public safety officer.
 
-(Pub. L. 90–351, title I, §1201, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, §6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, §1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, §330001(e)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–56, title VI, §613(a), Oct. 26, 2001, 115 Stat. 369.)
+(Pub. L. 90–351, title I, §1201, as added Pub. L. 98–473, title II, §609F, Oct. 12, 1984, 98 Stat. 2098; amended Pub. L. 100–690, title VI, §6105(a)–(c), Nov. 18, 1988, 102 Stat. 4341; Pub. L. 101–647, title XIII, §1301(a), Nov. 29, 1990, 104 Stat. 4834; Pub. L. 102–520, §1, Oct. 25, 1992, 106 Stat. 3402; Pub. L. 103–322, title XXXIII, §330001(e)(1), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–56, title VI, §613(a), Oct. 26, 2001, 115 Stat. 369; Pub. L. 107–196, §2(b), June 24, 2002, 116 Stat. 719.)
 
 #### References in Text
 
@@ -69,6 +71,8 @@ Another prior section 3796, Pub. L. 90–351, title I, §701, as added Pub. L. 9
 A prior section 1201 of Pub. L. 90–351, title VII, June 19, 1968, 82 Stat. 236, was set out in the Appendix to Title 18, Crimes and Criminal Procedure, prior to repeal by Pub. L. 99–308, §104(b), May 19, 1986, 100 Stat. 459.
 
 #### Amendments
+
+2002—Subsec. (a)(4), (5). Pub. L. 107–196 added par. (4) and redesignated former par. (4) as (5).
 
 2001—Subsec. (a). Pub. L. 107–56 substituted “$250,000” for “$100,000” in introductory provisions.
 
@@ -93,6 +97,10 @@ Subsec. (j). Pub. L. 101–647, §1301(a)(4), added subsec. (j).
 Subsec. (a)(4). Pub. L. 100–690, §6105(c), struck out “dependent” before “parent”.
 
 Subsecs. (g), (h). Pub. L. 100–690, §6105(b), added subsecs. (g) and (h).
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–196, §2(c), June 24, 2002, 116 Stat. 720, provided that: “The amendments made by this section \[amending this section and section 3796b of this title\] shall take effect on September 11, 2001, and shall apply to injuries or deaths that occur in the line of duty on or after such date.”
 
 #### Effective Date of 2001 Amendment
 

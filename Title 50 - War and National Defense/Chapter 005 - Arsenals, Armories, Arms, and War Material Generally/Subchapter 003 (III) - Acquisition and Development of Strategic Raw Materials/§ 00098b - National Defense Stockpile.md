@@ -24,7 +24,7 @@ Provisions similar to those in this section were contained in former section 98a
 
 #### Amendments
 
-1996—Subsec. (c)(2). Pub. L. 104–201 substituted “after the end of the 45-day period beginning on” for “effective on or after the 30th legislative day following” andstruck out at end “For purposes of this paragraph, a legislative day is a day on which both Houses of Congress are in session.”
+1996—Subsec. (c)(2). Pub. L. 104–201 substituted “after the end of the 45-day period beginning on” for “effective on or after the 30th legislative day following” and struck out at end “For purposes of this paragraph, a legislative day is a day on which both Houses of Congress are in session.”
 
 1992—Subsec. (c)(2) to (5). Pub. L. 102–484 added par. (2) and struck out former pars. (2) to (5) which read as follows:
 

@@ -60,7 +60,7 @@
 
 #### (4) Transshipment described
 
-&emsp;Transshipment within the meaning of this subsection has occurred when preferentialtreatment for a textile or apparel article under this chapter <sup>1</sup> has been claimed on the basis of material false information concerning the country of origin, manufacture, processing, or assembly of the article or any of its components. For purposes of this paragraph, false information is material if disclosure of the true information would mean or would have meant that the article is or was ineligible for preferential treatment under section 3721 of this title.
+&emsp;Transshipment within the meaning of this subsection has occurred when preferential treatment for a textile or apparel article under this chapter <sup>1</sup> has been claimed on the basis of material false information concerning the country of origin, manufacture, processing, or assembly of the article or any of its components. For purposes of this paragraph, false information is material if disclosure of the true information would mean or would have meant that the article is or was ineligible for preferential treatment under section 3721 of this title.
 
 #### (5) Monitoring and reports to Congress
 
@@ -89,6 +89,10 @@ There is authorized to be appropriated to carry out subsection (c) of this secti
 #### References in Text
 
 This chapter, referred to in subsec. (b)(4), was in the original “this Act”, and was translated as reading “this title”, meaning title I of Pub. L. 106–200, May 18, 2000, 114 Stat. 252, which is classified principally to this chapter, to reflect the probable intent of Congress. For complete classification of title I to the Code, see Short Title note set out under section 3701 of this title and Tables.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Delegation of Authority
 

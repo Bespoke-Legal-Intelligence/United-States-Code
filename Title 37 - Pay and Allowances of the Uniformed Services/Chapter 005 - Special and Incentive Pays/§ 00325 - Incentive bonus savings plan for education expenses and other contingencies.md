@@ -42,7 +42,7 @@ Total Amount of Benefit.—The total amount of the benefit authorized for a memb
 
 &emsp;(1) the purchase price of the United States savings bonds; and
 
-&emsp;(2) the amounts that would be deducted and withheld for the payment of individual income taxes if the total amount computed under this subsection for that commitment were paid to the member as a bonus.
+&emsp;(2) the amounts that would be deducted and withheld for the payment of individual income taxes if the total amount computed under thissubsection for that commitment were paid to the member as a bonus.
 
 (f)
 
@@ -64,9 +64,17 @@ Relationship to Other Special Pays.—The benefit authorized under this section 
 
 (i)
 
-Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
-(Added Pub. L. 107–107, div. A, title VI, §622(a)(1), Dec. 28, 2001, 115 Stat. 1140.)
+(Added Pub. L. 107–107, div. A, title VI, §622(a)(1), Dec. 28, 2001, 115 Stat. 1140; amended Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
+
+#### Amendments
+
+2002—Subsec. (i). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date
 

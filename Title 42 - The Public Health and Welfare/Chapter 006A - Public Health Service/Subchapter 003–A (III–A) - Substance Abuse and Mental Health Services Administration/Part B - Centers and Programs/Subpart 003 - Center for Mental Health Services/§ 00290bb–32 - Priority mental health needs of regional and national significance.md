@@ -44,7 +44,7 @@ The Secretary shall address priority mental health needs of regional and nationa
 
 #### (d) Evaluation
 
-The Secretary shall evaluate each project carried out under subsection (a)(1) of this section and shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
+The Secretary shall evaluate each project carried out under subsection (a)(1) of this sectionand shall disseminate the findings with respect to each such evaluation to appropriate public and private entities.
 
 #### (e) Information and education
 

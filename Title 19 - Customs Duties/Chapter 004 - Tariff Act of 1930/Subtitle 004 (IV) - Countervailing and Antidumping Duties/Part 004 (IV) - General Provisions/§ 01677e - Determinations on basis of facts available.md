@@ -20,7 +20,7 @@ If—
 
 #### (b) Adverse inferences
 
-If the administering authority or the Commission (as the case may be) finds that an interested party has failed to cooperate by not acting to the best of its ability to comply with a request for information from the administering authority or the Commission, the administering authority or the Commission (as the case maybe), in reaching the applicable determination under this subtitle, may use an inference that is adverse to the interests of that party in selecting from among the facts otherwise available. Such adverse inference may include reliance on information derived from—
+If the administering authority or the Commission (as the case may be) finds that an interested party has failed to cooperate by not acting to the best of its ability to comply with a request for information from the administering authority or the Commission, the administering authority or the Commission (as the case may be), in reaching the applicable determination under this subtitle, may use an inference that is adverse to the interests of that party in selecting from among the facts otherwise available. Such adverse inference may include reliance on information derived from—
 
 &emsp;(1) the petition,
 

@@ -46,7 +46,7 @@ Pub. L. 102–245, title I, §101, Feb. 14, 1992, 106 Stat. 7, provided that: �
 
 #### Short Title of 1989 Amendment
 
-Pub. L. 101–189, div. C, title XXXI, §3131, Nov. 29, 1989, 103 Stat. 1674, provided that: “This part \[part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, amending sections 3710, 3710a, and 3710c of this title and enacting provisions set out as notes under this section and section 3710a of this title\] may be cited as the ‘National Competitiveness Technology Transfer Act of 1989’.”
+Pub. L. 101–189, div. C, title XXXI, §3131, Nov. 29, 1989, 103 Stat. 1674, provided that: “This part \[part C (§§3131–3133) of title XXXI of div. C of Pub. L. 101–189, amending sections 3710, 3710a, and 3710c of this title and enacting provisions set out as notes under this sectionand section 3710a of this title\] may be cited as the ‘National Competitiveness Technology Transfer Act of 1989’.”
 
 #### Short Title of 1988 Amendment
 
@@ -304,7 +304,7 @@ Ex. Ord. No. 13185, Dec. 28, 2000, 66 F.R. 701, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to keep the Federal Government-University research partnership strong, it is hereby ordered as follows:
 
-Section 1. <i>Principles of the Government-University Partnership</i>. The partnership in science and technology that has evolved between the Federal Government and American universities has yielded benefits that are vital to each. It continues to prove exceptionally productive, successfully promoting the discovery of knowledge, stimulating technological innovation, improving the quality of life, educating and training the next generation of scientists and engineers, and contributing to America's economic prosperity and national security. In order to reaffirm and strengthen this partnership, this order sets forth the following guiding and operating principles that are fully described in the April 1999 National Science and Technology Council report, “Renewing the Government-University Partnership.” These principles shall provide the framework for the development and analysis of all future Federal policies, rules, and regulations for the Federal Government-University research partnership.
+Section 1. <i>Principles of the Government-University Partnership</i>. The partnership in science and technology that has evolved between the Federal Government and American universities has yielded benefits that are vital to each. It continues to prove exceptionally productive, successfully promoting the discovery of knowledge, stimulating technological innovation, improving the quality of life, educating and training the next generation of scientists and engineers, and contributing to America's economic prosperity and national security. In order to reaffirm and strengthen this partnership, this order sets forth the following guiding and operating principles that are fully described in the April 1999 National Science and Technology Council report, “Renewing the Government-University Partnership.”These principles shall provide the framework for the development and analysis of all future Federal policies, rules, and regulations for the Federal Government-University research partnership.
 
 (a) The guiding principles that shall govern interactions between the Federal Government and universities that perform research are:
 

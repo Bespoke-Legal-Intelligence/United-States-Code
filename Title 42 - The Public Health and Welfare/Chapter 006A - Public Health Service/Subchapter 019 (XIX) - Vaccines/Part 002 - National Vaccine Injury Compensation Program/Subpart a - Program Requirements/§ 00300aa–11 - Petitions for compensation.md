@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-(1) A proceeding for compensation under the Program for a vaccine-related injury or death shall be initiated by service upon the Secretary and the filing of a petition containing the matter prescribed by subsection (c) of this section with the United States Court of Federal Claims. The clerk of the United States Court of Federal Claims shall immediately forward the filed petition to the chief special master for assignment to a special master under section 300aa–12(d)(1) of this title.
+(1) A proceeding for compensation under the Program for a vaccine-related injury or deathshall be initiated by service upon the Secretary and the filing of a petition containing the matter prescribed by subsection (c) of this section with the United States Court of Federal Claims. The clerk of the United States Court of Federal Claims shall immediately forward the filed petition to the chief special master for assignment to a special master under section 300aa–12(d)(1) of this title.
 
 (2)(A) No person may bring a civil action for damages in an amount greater than $1,000 or in an unspecified amount against a vaccine administrator or manufacturer in a State or Federal court for damages arising from a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, and no such court may award damages in an amount greater than $1,000 in a civil action for damages for such a vaccine-related injury or death, unless a petition has been filed, in accordance with section 300aa–16 of this title, for compensation under the Program for such injury or death and—
 
@@ -30,7 +30,7 @@
 
 (9) This subsection applies only to a person who has sustained a vaccine-related injury or death and who is qualified to file a petition for compensation under the Program.
 
-(10) The Clerk of the United States Claims Court <sup>2</sup> is authorized to continue to receive, and forward, petitions for compensation for a vaccine-related injury or death associated with theadministration of a vaccine on or after October 1, 1992.
+(10) The Clerk of the United States Claims Court <sup>2</sup> is authorized to continue to receive, and forward, petitions for compensation for a vaccine-related injury or death associated with the administration of a vaccine on or after October 1, 1992.
 
 #### (b) Petitioners
 
@@ -202,7 +202,7 @@ Section 201(i) of Pub. L. 102–168 provided that:
 
 #### Effective Date of 1990 Amendment
 
-Section 5(h) of Pub. L. 101–502 provided that: “The amendments made by subsections (f)(1) and (g) \[amending section 300aa–21 of this title and provisions set out as a note under section 300aa–1 of this title and enacting provisions set out as a note under section 300aa–12 of this title\] shall take effect as of November 14, 1986, and the amendments made by subsections (a) through (e) and subsection (f)(2) \[amending this section and sections 300aa–12, 300aa–13, 300aa–15, 300aa–16, and 300aa–21 of this title\] shall take effect as of September 30, 1990.”
+Section 5(h) of Pub. L. 101–502 provided that: “The amendments made by subsections (f)(1) and (g) \[amending section 300aa–21 of this title and provisions set out as a note under section 300aa–1 of this title and enacting provisions set out as a note under section 300aa–12 of this title\] shall take effect as of November 14, 1986,and the amendments made by subsections (a) through (e) and subsection (f)(2) \[amending this section and sections 300aa–12, 300aa–13, 300aa–15, 300aa–16, and 300aa–21 of this title\] shall take effect as of September 30, 1990.”
 
 #### Effective Date of 1989 Amendment
 

@@ -20,11 +20,9 @@ Not later than 180 days after the end of a fiscal year, the Administrator shall 
 
 &emsp;(3) A description, based on the most recent data available, of the extent to which each State complies with section 5633 of this title and with the plan submitted under such section by the State for such fiscal year.
 
-&emsp;(4) A summary of each program or activity for which assistance is provided under part C or D of this subchapter, an evaluation of the results of such program or activity, and a determination of the feasibility and advisability of replicating such program or activity in other locations.
+&emsp;(4) An evaluation of the programs funded under this subchapter and their effectiveness in reducing the incidence of juvenile delinquency, particularly violent crime, committed by juveniles.
 
-&emsp;(5) A description of selected exemplary delinquency prevention programs for which assistance is provided under this subchapter, with particular attention to community-based juvenile delinquency prevention programs that involve and assist families of juveniles.
-
-(Pub. L. 93–415, title II, §207, as added Pub. L. 100–690, title VII, §7255, Nov. 18, 1988, 102 Stat. 4437; amended Pub. L. 102–586, §2(e), Nov. 4, 1992, 106 Stat. 4986.)
+(Pub. L. 93–415, title II, §207, as added Pub. L. 100–690, title VII, §7255, Nov. 18, 1988, 102 Stat. 4437; amended Pub. L. 102–586, §2(e), Nov. 4, 1992, 106 Stat. 4986; Pub. L. 107–273, div. C, title II, §12207, Nov. 2, 2002, 116 Stat. 1872.)
 
 #### Prior Provisions
 
@@ -34,9 +32,19 @@ Another prior section 5617, Pub. L. 93–415, title II, §207, Sept. 7, 1974, 88
 
 #### Amendments
 
+2002—Pars. (4), (5). Pub. L. 107–273 added par. (4) and struck out former pars. (4) and (5) which read as follows:
+
+“(4) A summary of each program or activity for which assistance is provided under part C or D of this subchapter, an evaluation of the results of such program or activity, and a determination of the feasibility and advisability of replicating such program or activity in other locations.
+
+“(5) A description of selected exemplary delinquency prevention programs for which assistance is provided under this subchapter, with particular attention to community-based juvenile delinquency prevention programs that involve and assist families of juveniles.”
+
 1992—Par. (1)(D). Pub. L. 102–586, §2(e)(1)(A), inserted “(including juveniles treated as adults for purposes of prosecution)”.
 
 Par. (1)(F). Pub. L. 102–586, §2(e)(1)(B), (2), (3), added subpar. (F).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
 
 #### Effective Date
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) notified his employer of an alleged violation of this chapter or the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.);
 
-&emsp;(B) refused to engage in any practice made unlawful by this chapter or the Atomic EnergyAct of 1954, if the employee has identified the alleged illegality to the employer;
+&emsp;(B) refused to engage in any practice made unlawful by this chapter or the Atomic Energy Act of 1954, if the employee has identified the alleged illegality to the employer;
 
 &emsp;(C) testified before Congress or at any Federal or State proceeding regarding any provision (or proposed provision) of this chapter or the Atomic Energy Act of 1954;
 

@@ -20,7 +20,7 @@ The President should direct the Secretary of State, in cooperation with the Comm
 
 &emsp;&emsp;(A) create globally accessible formats for data collected by various international sources; and
 
-&emsp;&emsp;(B) combine and interpret data from various sources to produce information readily usable by policymakers attempting to formulate effective strategies for preventing, mitigating, and adapting to possible adverse effects of global change.
+&emsp;&emsp;(B) combine and interpret data from various sources to produce information readily usable by policymakers attempting to formulate effective strategies for preventing,mitigating, and adapting to possible adverse effects of global change.
 
 &emsp;(6) Establishment of international offices to disseminate information useful in identifying, preventing, mitigating, or adapting to the possible effects of global change.
 

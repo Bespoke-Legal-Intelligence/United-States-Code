@@ -52,7 +52,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 90 days after the date on which a notice is published under subparagraph (A)(i), the court shall consider any motion made by a purported class member in response to the notice, including any motion by a class member who is not individually named as a plaintiff in the complaint or complaints, and shall appoint as lead plaintiff the member or members of the purported plaintiff class that the court determines to be most capable of adequately representing the interests of class members (hereafter in this paragraph referred to as the “most adequate plaintiff”) in accordance with this subparagraph.
+&emsp;&emsp;&emsp;Not later than 90 days after the date on which a notice is published under subparagraph (A)(i), the court shall consider any motion made by a purported class member in response to the notice, including any motion by a class member who is not individually named as a plaintiff in the complaint or complaints, and shall appoint as lead plaintiff the member or members of the purported plaintiff class that the courtdetermines to be most capable of adequately representing the interests of class members (hereafter in this paragraph referred to as the “most adequate plaintiff”) in accordance with this subparagraph.
 
 #### (ii) Consolidated actions
 
@@ -148,7 +148,7 @@
 
 #### (1) In general
 
-&emsp;In any private action arising under this subchapter, all discovery and other proceedingsshall be stayed during the pendency of any motion to dismiss, unless the court finds, upon the motion of any party, that particularized discovery is necessary to preserve evidence or to prevent undue prejudice to that party.
+&emsp;In any private action arising under this subchapter, all discovery and other proceedings shall be stayed during the pendency of any motion to dismiss, unless the court finds, upon the motion of any party, that particularized discovery is necessary to preserve evidence or to prevent undue prejudice to that party.
 
 #### (2) Preservation of evidence
 
@@ -186,7 +186,7 @@
 
 &emsp;&emsp;The presumption described in subparagraph (A) may be rebutted only upon proof by the party or attorney against whom sanctions are to be imposed that—
 
-&emsp;&emsp;&emsp;(i) the award of attorneys’ fees and other expenses will impose an unreasonable burden on that party or attorney and would be unjust, and the failure to make such an award would not impose a greater burden on the party in whose favor sanctions are to be imposed; or
+&emsp;&emsp;&emsp;(i) the award of attorneys’ fees and other expenses will impose an unreasonable burden on that party or attorney and would be unjust, and the failure to make such anaward would not impose a greater burden on the party in whose favor sanctions are to be imposed; or
 
 &emsp;&emsp;&emsp;(ii) the violation of Rule 11(b) of the Federal Rules of Civil Procedure was de minimis.
 
@@ -220,5 +220,5 @@ Section not to affect or apply to any private action arising under this subchapt
 
 #### Construction
 
-Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission,by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
+Nothing in section to be deemed to create or ratify any implied right of action, or to prevent Commission, by rule or regulation, from restricting or otherwise regulating private actions under Securities Exchange Act of 1934 (15 U.S.C. 78a et seq.), see section 203 of Pub. L. 104–67, set out as a note under section 78j–1 of this title.
 

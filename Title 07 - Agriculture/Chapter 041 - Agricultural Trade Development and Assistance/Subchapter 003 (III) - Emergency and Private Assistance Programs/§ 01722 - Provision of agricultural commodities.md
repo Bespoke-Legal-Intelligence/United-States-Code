@@ -14,9 +14,17 @@ Notwithstanding any other provision of law, the Administrator may provide agricu
 
 &emsp;The Administrator may not deny a request for funds submitted under this subsection because the program for which the funds are requested—
 
-&emsp;&emsp;(A) would be carried out by the eligible organization in a foreign country in which theAgency for International Development does not have a mission, office, or other presence; or
+&emsp;&emsp;(A) would be carried out by the eligible organization in a foreign country in which the Agency for International Development does not have a mission, office, or other presence; or
 
 &emsp;&emsp;(B) is not part of a development plan for the country prepared by the Agency.
+
+#### (3) Program diversity
+
+&emsp;The Administrator shall—
+
+&emsp;&emsp;(A) encourage eligible organizations to propose and implement program plans to address 1 or more aspects of the program under section 1721 of this title; and
+
+&emsp;&emsp;(B) consider proposals that incorporate a variety of program objectives and strategic plans based on the identification by eligible organizations of appropriate activities, consistent with section 1721 of this title, to assist development of foreign countries.
 
 #### (c) Uses of assistance
 
@@ -34,7 +42,7 @@ To be eligible to receive assistance under subsection (b) of this section an org
 
 #### (1) In general
 
-&emsp;Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than $10,000,000, and not more than $28,000,000, shall be made available in each fiscal year to eligible organizations described in subsection (d) of this section, to assist the organizations in—
+&emsp;Of the funds made available in each fiscal year under this subchapter to the Administrator, not less than 5 percent nor more than 10 percent of the funds shall be made available in each fiscal year to eligible organizations described in subsection (d) of this section, to assist the organizations in—
 
 &emsp;&emsp;(A) establishing new programs under this subchapter; and
 
@@ -68,9 +76,49 @@ To ensure that agricultural commodities made available under this subchapter are
 
 Commodities provided under this subchapter shall, to the extent practicable, be clearly identified with appropriate markings on the package or container of such commodity in the language of the locality in which such commodities are distributed, as being furnished by the people of the United States of America.
 
-(July 10, 1954, ch. 469, title II, §202, 68 Stat. 458; Pub. L. 86–472, ch. VI, §601 (a)(1), May 14, 1960, 74 Stat. 140; Pub. L. 88–205, pt. IV, §403(d), Dec. 16, 1963, 77 Stat. 390; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 95–88, title II, §§207, 208(a), Aug. 3, 1977, 91 Stat. 547; Pub. L. 96–53, title I, §121, title II, §202, Aug. 14, 1979, 93 Stat. 366, 368; Pub. L. 99–83, title X, §§1003, 1004(a), 1005, Aug. 8, 1985, 99 Stat. 270, 271; Pub. L. 100–202, §11, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–508, title I, §1204(b)(1), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 104–127, title II, §207(a), Apr. 4, 1996, 110 Stat. 953.)
+#### (h) Streamlined program management
+
+#### (1) Improvements
+
+&emsp;Not later than 1 year after May 13, 2002, the Administrator shall—
+
+&emsp;&emsp;(A) streamline program procedures and guidelines under this subchapter for agreements with eligible organizations for programs in 1 or more countries; and
+
+&emsp;&emsp;(B) effective beginning with fiscal year 2004, to the maximum extent practicable, incorporate the changes into the procedures and guidelines for programs and the guidelines for resource requests.
+
+#### (2) Streamlined procedures and guidelines
+
+&emsp;In carrying out paragraph (1), the Administrator shall make improvements in the Office of Food for Peace management systems that include—
+
+&emsp;&emsp;(A) expedition of and greater consistency in the program review and approval process under this subchapter;
+
+&emsp;&emsp;(B) streamlining of information collection and reporting systems by identifying the critical information that needs to be monitored and reported on by eligible organizations; and
+
+&emsp;&emsp;(C) for approved programs, provision of greater flexibility for an eligible organization to make modifications in program activities to achieve program results with streamlined procedures for reporting such modifications.
+
+#### (3) Consultation
+
+#### (A) In general
+
+&emsp;&emsp;Paragraphs (1) and (2) shall be carried out in accordance with section 1725 of this title and subsections (b) and (c) of section 1726a of this title.
+
+#### (B) Consultation with congressional committees
+
+&emsp;&emsp;Not later than 180 days after May 13, 2002, the Administrator shall consult with the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on progress made in carrying out this subsection.
+
+#### (4) Report
+
+&emsp;Not later than 270 days after May 13, 2002, the Administrator shall submit to the Committee on Agriculture and the Committee on International Relations of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on the improvements made and planned upgrades in the information management, procurement, and financial management systems to administer this subchapter.
+
+(July 10, 1954, ch. 469, title II, §202, 68 Stat. 458; Pub. L. 86–472, ch. VI, §601 (a)(1), May 14, 1960, 74 Stat. 140; Pub. L. 88–205, pt. IV, §403(d), Dec. 16, 1963, 77 Stat. 390; Pub. L. 89–808, §2(C), Nov. 11, 1966, 80 Stat. 1534; Pub. L. 95–88, title II, §§207, 208(a), Aug. 3, 1977, 91 Stat. 547; Pub. L. 96–53, title I, §121, title II, §202, Aug. 14, 1979, 93 Stat. 366, 368; Pub. L. 99–83, title X, §§1003, 1004(a), 1005, Aug. 8, 1985, 99 Stat. 270, 271; Pub. L. 100–202, §11, Dec. 22, 1987, 101 Stat. 1329–448; Pub. L. 101–508, title I, §1204(b)(1), Nov. 5, 1990, 104 Stat. 1388–11; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3636; Pub. L. 104–127, title II, §207(a), Apr. 4, 1996, 110 Stat. 953; Pub. L. 107–171, title III, §3002, May 13, 2002, 116 Stat. 280.)
 
 #### Amendments
+
+2002—Subsec. (b)(3). Pub. L. 107–171, §3002(1), added par. (3).
+
+Subsec. (e)(1). Pub. L. 107–171, §3002(2), substituted “not less than 5 percent nor more than 10 percent of the funds” for “not less than $10,000,000, and not more than $28,000,000,”.
+
+Subsec. (h). Pub. L. 107–171, §3002(3), added subsec. (h).
 
 1996—Subsec. (b). Pub. L. 104–127, §207(a)(1), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The Administrator may provide agricultural commodities for non-emergency assistance under this subchapter through eligible organizations (as described in subsection (d) of this section) that have entered into an agreement with the Administrator to use such commodities in accordance with this subchapter.”
 

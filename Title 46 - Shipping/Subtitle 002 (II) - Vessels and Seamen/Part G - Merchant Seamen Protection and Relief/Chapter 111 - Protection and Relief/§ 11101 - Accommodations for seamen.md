@@ -10,7 +10,7 @@
 
 &emsp;(4) crew space shall be kept free from goods or stores that are not the personal property of the crew occupying the place in use during the voyage.
 
-(b) In addition to the requirements of subsection (a) of this section, a merchant vessel of the United States that in the ordinary course of trade makes a voyage of more than 3 days’ duration between ports and carries a crew of at least 12 seamen shall have a hospital compartment, suitably separated from other spaces. The compartment shall have at least one bunk for each 12 seamen constituting the crew (but not more than 6 bunks may be required).
+(b) In addition to the requirements of subsection (a) of this section, a merchant vessel ofthe United States that in the ordinary course of trade makes a voyage of more than 3 days’ duration between ports and carries a crew of at least 12 seamen shall have a hospital compartment, suitably separated from other spaces. The compartment shall have at least one bunk for each 12 seamen constituting the crew (but not more than 6 bunks may be required).
 
 (c) A steam vessel of the United States operating on the Mississippi River or its tributaries shall provide, under the direction and approval of the Secretary, an appropriate place for the crew that shall conform to the requirements of this section, as far as they apply to the steam vessel, by providing a properly heated sleeping room in the engineroom of the steam vessel properly protected from the cold, wind, and rain by means of suitable awnings or screens on either side of the guards or sides and forward, reaching from the boiler deck to the lower or main deck.
 

@@ -10,7 +10,7 @@ Words “hereinafter described” are from the sixth par. of section 13 of the F
 
 #### Codification
 
-Section is comprised of the sixth par. of section 13 of act Dec. 23, 1913, as amended. The sixth par. constituted the fourth par. of section 13 in 1916 (39 Stat. 752), became the fifth par. in 1923 (42 Stat. 1478), and became the sixth par. in 1932 (47 Stat. 715). For further details, see Codification notes under sections 343 and 344 of this title. For classification to this title of other pars. of section 13, see Codification note set out under section 342 of this title.
+Section is comprised of the sixth par. of section 13 of act Dec. 23, 1913, as amended. The sixth par. constituted the fourth par. of section 13 in 1916 (39 Stat. 752), became the fifth par. in 1923 (42 Stat. 1478), and becamethe sixth par. in 1932 (47 Stat. 715). For further details, see Codification notes under sections 343 and 344 of this title. For classification to this title of other pars. of section 13, see Codification note set out under section 342 of this title.
 
 #### Section Referred to in Other Sections
 

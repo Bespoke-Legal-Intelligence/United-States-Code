@@ -24,3 +24,19 @@ A prior section 3126 was renumbered section 3127 of this title.
 
 1988—Pub. L. 100–690 renumbered section 3125 of this title as this section.
 
+#### Report on Use of DCS 1000 (Carnivore) To Implement Orders Under Section 3123
+
+Pub. L. 107–273, div. A, title III, §305(a), Nov. 2, 2002, 116 Stat. 1782, provided that: “At the same time that the Attorney General submits to Congress the annual reports required by section 3126 of title 18, United States Code, that are respectively next due after the end of each of the fiscal years 2002 and 2003, the Attorney General shall also submit to the Chairmen and ranking minority members of the Committees on the Judiciary of the Senate and of the House of Representatives a report, covering the same respective time period, on the number of orders under section 3123 applied for by law enforcement agencies of the Department of Justice whose implementation involved the use of the DCS 1000 program (or any subsequent version of such program), which report shall include information concerning—
+
+&emsp;“(1) the period of interceptions authorized by the order, and the number and duration of any extensions of the order;
+
+&emsp;“(2) the offense specified in the order or application, or extension of an order;
+
+&emsp;“(3) the number of investigations involved;
+
+&emsp;“(4) the number and nature of the facilities affected;
+
+&emsp;“(5) the identity of the applying investigative or law enforcement agency making the application for an order; and
+
+&emsp;“(6) the specific persons authorizing the use of the DCS 1000 program (or any subsequent version of such program) in the implementation of such order.”
+

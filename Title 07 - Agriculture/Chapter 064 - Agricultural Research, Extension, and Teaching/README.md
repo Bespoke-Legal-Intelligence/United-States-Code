@@ -214,7 +214,7 @@
 | (d) | Method of awarding grants. |
 | (e) | Prohibition of certain uses. |
 | (f) | Regulations. |
-| [3222c.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222c%20-%20National%20research%20and%20training%20centennial%20centers.md) | National research and training centennial centers. |
+| [3222c.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003222c%20-%20National%20research%20and%20training%20virtual%20centers.md) | National research and training virtual centers. |
 | (a) | Competitive grants authorized. |
 | (b) | Use of grants. |
 | (c) | Priority. |
@@ -227,7 +227,7 @@
 | (a) | Definitions. |
 | (b) | Determination of non-Federal sources of funds. |
 | (c) | Matching formula. |
-| (d) | Limited waiver authority. |
+| (d) | Waiver authority. |
 | (e) | Use of matching funds. |
 | (f) | Redistribution of funds. |
 | [3223\.](Subchapter%20006%20%28VI%29%20-%201890%20Land-Grant%20College%20Funding/%C2%A7%2003223%20-%20Grants%20for%20acquisition%20and%20improvement%20of%20research%20facilities%20and%20equipment.md) | Grants for acquisition and improvement of research facilities and equipment. |
@@ -303,6 +303,14 @@
 |  |  |
 | :--- | ---: |
 | [3310\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003310%20-%20Limitation%20on%20indirect%20costs%20for%20agricultural%20research%2C%20education%2C%20and%20extension%20programs.md) | Limitation on indirect costs for agricultural research, education, and extension programs. |
+| (a) | In general. |
+| (b) | Exception. |
+| [3310a.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003310a%20-%20Research%20equipment%20grants.md) | Research equipment grants. |
+| (a) | In general. |
+| (b) | Eligible institutions. |
+| (c) | Maximum amount. |
+| (d) | Prohibition on charge of equipment as indirect costs. |
+| (e) | Authorization of appropriations. |
 | [3311\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003311%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Existing programs. |
 | (b) | Agricultural research at State agricultural experiment stations. |
@@ -315,6 +323,7 @@
 | (b) | Community food projects. |
 | (c) | Peer panel expenses. |
 | (d) | “In-kind support” defined. |
+| [3315a.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003315a%20-%20Availability%20of%20competitive%20grant%20funds.md) | Availability of competitive grant funds. |
 | [3316\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003316%20-%20Rules%20and%20regulations.md) | Rules and regulations. |
 | [3317\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003317%20-%20Program%20evaluation%20studies.md) | Program evaluation studies. |
 | [3318\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003318%20-%20Contract%2C%20grant%2C%20and%20cooperative%20agreement%20authorities.md) | Contract, grant, and cooperative agreement authorities. |
@@ -325,13 +334,27 @@
 | (e) | Applicable requirements. |
 | [3319\.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319%20-%20Restriction%20on%20treatment%20of%20indirect%20costs%20and%20tuition%20remission.md) | Restriction on treatment of indirect costs and tuition remission. |
 | [3319a.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319a%20-%20Cost-reimbursable%20agreements.md) | Cost-reimbursable agreements. |
-| 3319b, 3319c. Repealed. |  |
+| [3319b.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319b%20-%20Joint%20requests%20for%20proposals.md) | Joint requests for proposals. |
+| (a) | In general. |
+| (b) | Administration. |
+| (c) | Regulations. |
+| (d) | Joint peer review panels. |
+| [3319c.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319c%20-%20Repealed.%20Pub.%20L.%20101%E2%80%93624%2C%20title%20XVI%2C%20%C2%A71601%28f%29%281%29%28F%29%2C%20Nov.%2028%2C%201990%2C%20104%20Stat.%203704.md) | Repealed. |
 | [3319d.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319d%20-%20Supplemental%20and%20alternative%20crops.md) | Supplemental and alternative crops. |
 | (a) | Research and pilot project program. |
 | (b) | Importance to producers. |
 | (c) | Research funding, special or competitive grants, etc.; program requirements; agreements, grants and other arrangements. |
 | (d) | Use of expertise and resources of other Federal agencies and land-grant colleges and universities. |
 | [3319e.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319e%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93237%2C%20title%20IV%2C%20%C2%A7402%2814%29%2C%20Dec.%2013%2C%201991%2C%20105%20Stat.%201863.md) | Repealed. |
+| [3319f.](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/%C2%A7%2003319f%20-%20Beginning%20farmer%20and%20rancher%20development%20program.md) | Beginning farmer and rancher development program. |
+| (a) | Definition of beginning farmer or rancher. |
+| (b) | Program. |
+| (c) | Grants. |
+| (d) | Education teams. |
+| (e) | Curriculum and training clearinghouse. |
+| (f) | Stakeholder input. |
+| (g) | Participation by other farmers and ranchers. |
+| (h) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -358,9 +381,55 @@
 | :--- | ---: |
 | [3331\.](Subchapter%20012%20%28XII%29%20-%20Rangeland%20Research/%C2%A7%2003331%20-%20Congressional%20statement%20of%20purpose.md) | Congressional statement of purpose. |
 | [3332\.](Subchapter%20012%20%28XII%29%20-%20Rangeland%20Research/%C2%A7%2003332%20-%20Program%3B%20development%2C%20purposes%2C%20scope%2C%20etc.md) | Program; development, purposes, scope, etc. |
-| [3333\.](Subchapter%20012%20%28XII%29%20-%20Rangeland%20Research/%C2%A7%2003333%20-%20Grants%3B%20eligible%20institutions%3B%20amounts.md) | Grants; eligible institutions; amounts. |
+| [3333\.](Subchapter%20012%20%28XII%29%20-%20Rangeland%20Research/%C2%A7%2003333%20-%20Rangeland%20research%20grants.md) | Rangeland research grants. |
+| (a) | In general. |
+| (b) | Matching requirements. |
 | 3334, 3335. Repealed. |  |
 | [3336\.](Subchapter%20012%20%28XII%29%20-%20Rangeland%20Research/%C2%A7%2003336%20-%20Authorization%20of%20appropriations%3B%20allocation%20of%20funds.md) | Authorization of appropriations; allocation of funds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XIII—BIOSECURITY
+
+|  |  |
+| :--- | ---: |
+| [3351\.](Subchapter%20013%20%28XIII%29%20-%20Biosecurity/%C2%A7%2003351%20-%20Special%20authorization%20for%20biosecurity%20planning%20and%20response.md) | Special authorization for biosecurity planning and response. |
+| (a) | Authorization of appropriations. |
+| (b) | Use of funds. |
+| [3352\.](Subchapter%20013%20%28XIII%29%20-%20Biosecurity/%C2%A7%2003352%20-%20Agriculture%20research%20facility%20expansion%20and%20security%20upgrades.md) | Agriculture research facility expansion and security upgrades. |
+| (a) | In general. |
+| (b) | Limitation on grants. |
+| (c) | Requirements for grants. |
+| (d) | Additional requirements for grants for facility expansion. |
+| (e) | Amount of grant. |
+| (f) | Federal share. |
+| (g) | Authorization of appropriations. |
+| [3353\.](Subchapter%20013%20%28XIII%29%20-%20Biosecurity/%C2%A7%2003353%20-%20Agricultural%20biosecurity.md) | Agricultural biosecurity. |
+| (a) | Security at colleges and universities. |
+| (b) | Guidelines for agricultural biosecurity. |
+| (c) | Authorization of appropriations. |
+| [3354\.](Subchapter%20013%20%28XIII%29%20-%20Biosecurity/%C2%A7%2003354%20-%20Agricultural%20bioterrorism%20research%20and%20development.md) | Agricultural bioterrorism research and development. |
+| (a) | In general. |
+| (b) | Authorization of appropriations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XIV—INSTITUTIONS OF HIGHER EDUCATION IN INSULAR AREAS
+
+|  |  |
+| :--- | ---: |
+| [3361\.](Subchapter%20014%20%28XIV%29%20-%20Institutions%20of%20Higher%20Education%20in%20Insular%20Areas/%C2%A7%2003361%20-%20Definition.md) | Definition. |
+| [3362\.](Subchapter%20014%20%28XIV%29%20-%20Institutions%20of%20Higher%20Education%20in%20Insular%20Areas/%C2%A7%2003362%20-%20Distance%20education%20grants%20for%20insular%20areas.md) | Distance education grants for insular areas. |
+| (a) | In general. |
+| (b) | Use. |
+| (c) | Limitation on use of grant funds. |
+| (d) | Administration of program. |
+| (e) | Matching requirement. |
+| (f) | Authorization of appropriations. |
+| [3363\.](Subchapter%20014%20%28XIV%29%20-%20Institutions%20of%20Higher%20Education%20in%20Insular%20Areas/%C2%A7%2003363%20-%20Resident%20instruction%20grants%20for%20insular%20areas.md) | Resident instruction grants for insular areas. |
+| (a) | In general. |
+| (b) | Grant requirements. |
+| (e) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -385,3 +454,5 @@ This chapter is referred to in section 450i of this title; title 16 sections 164
 - [Subchapter 010 (X) - Funding and Miscellaneous Provisions](Subchapter%20010%20%28X%29%20-%20Funding%20and%20Miscellaneous%20Provisions/README.md)
 - [Subchapter 011 (XI) - Aquaculture](Subchapter%20011%20%28XI%29%20-%20Aquaculture/README.md)
 - [Subchapter 012 (XII) - Rangeland Research](Subchapter%20012%20%28XII%29%20-%20Rangeland%20Research/README.md)
+- [Subchapter 013 (XIII) - Biosecurity](Subchapter%20013%20%28XIII%29%20-%20Biosecurity/README.md)
+- [Subchapter 014 (XIV) - Institutions of Higher Education in Insular Areas](Subchapter%20014%20%28XIV%29%20-%20Institutions%20of%20Higher%20Education%20in%20Insular%20Areas/README.md)

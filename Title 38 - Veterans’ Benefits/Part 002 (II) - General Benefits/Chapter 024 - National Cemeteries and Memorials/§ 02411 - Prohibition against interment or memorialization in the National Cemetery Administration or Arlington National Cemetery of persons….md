@@ -6,7 +6,7 @@
 
 &emsp;(B) honor the memory of such person in a memorial area in a cemetery in the National Cemetery Administration (described in section 2403(a) of this title) or in such an area in Arlington National Cemetery (described in section 2409(a) of this title).
 
-(2) The prohibition under paragraph (1) shall not apply unless written notice of a conviction or finding under subsection (b) is received by the appropriate Federal official before such official approves an application for the interment or memorialization of such person. Such written notice shall be furnished to such official by the Attorney General, in the case of a Federal capital crime, or by an appropriate State official, in the case of a State capital crime.
+(2) In the case of a person described in subsection (b)(1) or (b)(2), the prohibition under paragraph (1) shall not apply unless written notice of a conviction referred to in subsection (b)(1) or (b)(2), as the case may be, is received by the appropriate Federal official before such official approves an application for the interment or memorialization of such person. Such writtennotice shall be furnished to such official by the Attorney General, in the case of a Federal capital crime, or by an appropriate State official, in the case of a State capital crime.
 
 (b) A person referred to in subsection (a) is any of the following:
 
@@ -34,9 +34,11 @@
 
 &emsp;&emsp;(B) the Secretary of the Army, in the case of Arlington National Cemetery.
 
-(Added Pub. L. 105–116, §1(a), Nov. 21, 1997, 111 Stat. 2381; amended Pub. L. 105–368, title IV, §403(d)(1), Nov. 11, 1998, 112 Stat. 3339.)
+(Added Pub. L. 105–116, §1(a), Nov. 21, 1997, 111 Stat. 2381; amended Pub. L. 105–368, title IV, §403(d)(1), Nov. 11, 1998, 112 Stat. 3339; Pub. L. 107–330, title II, §202, Dec. 6, 2002, 116 Stat. 2824.)
 
 #### Amendments
+
+2002—Subsec. (a)(2). Pub. L. 107–330 substituted “In the case of a person described in subsection (b)(1) or (b)(2), the prohibition” for “The prohibition” and “referred to in subsection (b)(1) or (b)(2), as the case may be,” for “or finding under subsection (b)”.
 
 1998—Pub. L. 105–368, §403(d)(1), substituted “Administration” for “System” in section catchline.
 
@@ -48,5 +50,5 @@ Section 1(c) of Pub. L. 105–116 provided that: “Section 2411 of title 38, Un
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2408 of this title.
+This section is referred to in sections 112, 2301, 2306, 2408 of this title.
 

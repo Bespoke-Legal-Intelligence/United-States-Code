@@ -6,7 +6,7 @@ The Secretary shall establish for each participating jurisdiction a HOME Investm
 
 #### (b) Line of credit
 
-The Secretary shall establish a line of credit in the HOME Investment Trust Fund of eachparticipating jurisdiction, which line of credit shall include—
+The Secretary shall establish a line of credit in the HOME Investment Trust Fund of each participating jurisdiction, which line of credit shall include—
 
 &emsp;(1) funds allocated or reallocated to the participating jurisdiction under section 12747 of this title, and
 

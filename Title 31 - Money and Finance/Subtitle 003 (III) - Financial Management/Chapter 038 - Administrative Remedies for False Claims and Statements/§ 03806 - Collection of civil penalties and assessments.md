@@ -16,7 +16,7 @@
 
 (2)(A) Any amount of a penalty or assessment imposed by the United States Postal Service under this chapter shall be deposited in the Postal Service Fund established by section 2003 of title 39.
 
-(B) Any amount of a penalty or assessment imposed by the Secretary of Health and Human Services under this chapter with respect to a claim or statement made in connection with old age and survivors benefits under title II of the Social Security Act shall be deposited in the Federal Old-Age and Survivors Insurance Trust Fund.
+(B) Any amount of a penalty or assessment imposed by the Secretary of Health and HumanServices under this chapter with respect to a claim or statement made in connection with old age and survivors benefits under title II of the Social Security Act shall be deposited in the Federal Old-Age and Survivors Insurance Trust Fund.
 
 (C) Any amount of a penalty or assessment imposed by the Secretary of Health and Human Services under this chapter with respect to a claim or statement made in connection with disability benefits under title II of the Social Security Act shall be deposited in the Federal Disability Insurance Trust Fund.
 

@@ -32,7 +32,7 @@ Compliance with the requirements imposed under this subchapter shall be enforced
 
 #### (b) Violations of subchapter deemed violations of preexisting statutory requirements; additional agency powers
 
-For the purpose of the exercise by any agency referred to in subsection (a) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) of this section, each of the agencies referred to in that subsection may exercise for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law. The exercise of the authorities of any of the agencies referred to in subsection (a) of this section for the purpose of enforcing compliance with any requirement imposed under this subchapter shall in no way preclude the exercise of such authorities for the purpose of enforcing compliance with any other provision of law not relating to the prohibition of discrimination on the basis of sex or marital status with respect to any aspect of a credit transaction.
+For the purpose of the exercise by any agency referred to in subsection (a) of this section of its powers under any Act referred to in that subsection, a violation of any requirement imposed under this subchapter shall be deemed to be a violation of a requirement imposed under that Act. In addition to its powers under any provision of law specifically referred to in subsection (a) of this section, each of the agencies referred to in that subsection may exercise for the purpose of enforcing compliance with any requirement imposed under this subchapter, any other authority conferred on it by law. The exercise of the authorities of any of the agencies referred to in subsection (a) of this section for the purpose of enforcing compliance with any requirement imposed under this subchapter shall in no way preclude the exercise of such authorities for the purpose of enforcing compliance with any otherprovision of law not relating to the prohibition of discrimination on the basis of sex or marital status with respect to any aspect of a credit transaction.
 
 #### (c) Overall enforcement authority of Federal Trade Commission
 
@@ -86,7 +86,7 @@ Pub. L. 102–242, §212(d)(1), added par. (1) and struck out former par. (1) wh
 
 1984—Subsec. (a)(5). Pub. L. 98–443 substituted “Secretary of Transportation” for “Civil Aeronautics Board”.
 
-1976—Subsec. (c). Pub. L. 94–239 inserted provisions giving the Federal Trade Commission power to enforce any regulation of the Federal Reserve Board promulgated under this subchapter.
+1976—Subsec. (c). Pub. L. 94–239 inserted provisions giving the Federal Trade Commission power to enforceany regulation of the Federal Reserve Board promulgated under this subchapter.
 
 #### Effective Date of 1995 Amendment
 

@@ -4,7 +4,7 @@ The Office of Personnel Management may contract for or approve the following hea
 
 &emsp;(1)
 
-Service Benefit Plan.—One Government-wide plan, which may be underwritten by participating affiliates licensed in any number of States, offering two levels of benefits, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by section 8904(1) of this title given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under section 8905a of this title, or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title.
+Service Benefit Plan.—One Government-wide plan, which may be underwrittenby participating affiliates licensed in any number of States, offering two levels of benefits, under which payment is made by a carrier under contracts with physicians, hospitals, or other providers of health services for benefits of the types described by section 8904(1) of this title given to employees, annuitants, members of their families, former spouses, or persons having continued coverage under section 8905a of this title, or, under certain conditions, payment is made by a carrier to the employee, annuitant, family member, former spouse, or person having continued coverage under section 8905a of this title.
 
 &emsp;(2)
 
@@ -74,7 +74,7 @@ Amendment by Pub. L. 100–654 applicable with respect to any calendar year begi
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions, and applicable to any individual who is married to an employee or annuitant on or after that date, see section 4(a)(2) of Pub. L. 98–615,as amended, set out as a note under section 8341 of this title.
+Amendment by Pub. L. 98–615 effective May 7, 1985, with enumerated exceptions, and applicable to any individual who is married to an employee or annuitant on or after that date, see section 4(a)(2) of Pub. L. 98–615, as amended, set out as a note under section 8341 of this title.
 
 #### Effective Date of 1978 Amendment
 

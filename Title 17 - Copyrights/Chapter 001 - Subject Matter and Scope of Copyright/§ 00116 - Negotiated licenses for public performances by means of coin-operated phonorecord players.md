@@ -46,7 +46,7 @@ Definitions.—As used in this section, the following terms mean the following:
 
 #### Prior Provisions
 
-A prior section 116, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2562; Pub. L. 100–568, §4(b)(1), Oct. 31, 1988, 102 Stat. 2857, related to scope of exclusive rights in nondramatic musical works and compulsory licenses for public performances by means of coin-operated phonorecord players, prior to repeal by Pub. L. 103–198, §3(a), Dec. 17, 1993, 107 Stat. 2309.
+A prior section 116, Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2562; Pub. L. 100–568, §4(b)(1), Oct. 31, 1988, 102 Stat. 2857, related to scope of exclusive rights in nondramatic musical works and compulsory licensesfor public performances by means of coin-operated phonorecord players, prior to repeal by Pub. L. 103–198, §3(a), Dec. 17, 1993, 107 Stat. 2309.
 
 #### Amendments
 

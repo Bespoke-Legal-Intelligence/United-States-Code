@@ -2,7 +2,7 @@
 
 #### (a) Exercise of powers
 
-The powers of the Assistance Board under this subchapter shall be exercised by the Farm Credit Administration Board until the issuance of the charter of the Assistance Board, or suchlater date not to exceed 30 days thereafter, as may be requested by the Assistance Board.
+The powers of the Assistance Board under this subchapter shall be exercised by the Farm Credit Administration Board until the issuance of the charter of the Assistance Board, or such later date not to exceed 30 days thereafter, as may be requested by the Assistance Board.
 
 #### (b) Limitation on assistance
 

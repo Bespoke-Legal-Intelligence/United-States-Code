@@ -10,13 +10,13 @@ For purposes of this subchapter—
 
 (b) The term “pneumoconiosis” means a chronic dust disease of the lung and its sequelae, including respiratory and pulmonary impairments, arising out of coal mine employment.
 
-(c) The term “Secretary” where used in part C means the Secretary of Labor.
+(c) The term “Secretary”, except where expressly otherwise provided, means the Secretary of Labor.
 
 (d) The term “miner” means any individual who works or has worked in or around a coal mine or coal preparation facility in the extraction or preparation of coal. Such term also includes an individual who works or has worked in coal mine construction or transportation in or around a coal mine, to the extent such individual was exposed to coal dust as a result of such employment.
 
-(e) The term “widow” includes the wife living with or dependent for support on the miner at the time of his death, or living apart for reasonable cause or because of his desertion, or who meets the requirements of section 416(c)(1), (2), (3), (4), or (5), and section 416(k) of title 42, who is not married. The determination of an individual's status as the “widow” of a miner shall be made in accordance with section 416(h)(1) of title 42 as if such miner were the “insured individual” referred to therein. Such term also includes a “surviving divorced wife” as defined in section 416(d)(2) of title 42 who for the month preceding the month in which the miner died, was receiving at least one-half of her support, as determined in accordance with regulations prescribed by the Secretary,<sup>1</sup> from the miner, or was receiving substantial contributions from the miner (pursuant to a written agreement) or there was in effect a court order for substantial contributions to her support from the miner at the time of his death.
+(e) The term “widow” includes the wife living with or dependent for support on the miner at the time of his death, or living apart for reasonable cause or because of his desertion, or who meets the requirements of section 416(c)(1), (2), (3), (4), or (5), and section 416(k) of title 42, who is not married. The determination of an individual's status as the “widow” of a miner shall be made in accordance with section 416(h)(1) of title 42 as if such miner were the “insured individual” referred to therein. Such term also includes a “surviving divorced wife” as defined in section 416(d)(2) of title 42 who for the month preceding the month in which the miner died, was receiving at least one-half of her support, as determined in accordance with regulations prescribed by the Secretary, from the miner, or was receiving substantial contributions from the miner (pursuant to a written agreement) or there was in effect a court order for substantial contributions to her support from the miner at the time of his death.
 
-(f)(1) The term “total disability” has the meaning given it by regulations of the Secretary of Health and Human Services <sup>1</sup> for claims under part B of this subchapter, and by regulations of the Secretary of Labor for claims under part C of this subchapter, subject to the relevant provisions of subsections (b) and (d) of section 923 of this title, except that—
+(f)(1) The term “total disability” has the meaning given it by regulations of the Secretary of Health and Human Services, which were in effect on November 2, 2002, for claims under part B of this subchapter, and by regulations of the Secretary of Labor for claims under part C of this subchapter, subject to the relevant provisions of subsections (b) and (d) of section 923 of this title, except that—
 
 &emsp;(A) in the case of a living miner, such regulations shall provide that a miner shall be considered totally disabled when pneumoconiosis prevents him or her from engaging in gainful employment requiring the skills and abilities comparable to those of any employment in a mine or mines in which he or she previously engaged with some regularity and over a substantial period of time;
 
@@ -28,9 +28,9 @@ For purposes of this subchapter—
 
 (2) Criteria applied by the Secretary of Labor in the case of—
 
-&emsp;(A) any claim which is subject to review by the Secretary of Health and Human Services,<sup>1</sup> or subject to a determination by the Secretary of Labor, under section 945(a) of this title;
+&emsp;(A) any claim arising under part B of this subchapter or subject to a determination by the Secretary of Labor under section 945(a) <sup>1</sup> of this title;
 
-&emsp;(B) any claim which is subject to review by the Secretary of Labor under section 945(b) of this title; and
+&emsp;(B) any claim which is subject to review by the Secretary of Labor under section 945(b) <sup>1</sup> of this title; and
 
 &emsp;(C) any claim filed on or before the effective date of regulations promulgated under this subsection by the Secretary of Labor;
 
@@ -54,13 +54,27 @@ For purposes of this subchapter—
 
 (i) For the purposes of subsections (c) and (j) of section 932 of this title, and for the purposes of paragraph (7) of subsection (d) of section 9501 of title 26, the term “claim denied” means a claim—
 
-&emsp;(1) denied by the Social Security Administration; or
+&emsp;(1) for benefits under part B of this subchapter that was denied by the official responsible for administration of such part; or
 
 &emsp;(2) in which (A) the claimant was notified by the Department of Labor of an administrative or informal denial more than 1 year prior to March 1, 1978, and did not, within 1 year from the date of notification of such denial, request a hearing, present additional evidence or indicate an intention to present additional evidence, or (B) the claim was denied under the law in effect prior to March 1, 1978, following a formal hearing or administrative or judicial review proceeding.
 
-(Pub. L. 91–173, title IV, §402, Dec. 30, 1969, 83 Stat. 792; Pub. L. 92–303, §§1(c)(2)–(4), 3(b), 4(a), May 19, 1972, 86 Stat. 151–153; Pub. L. 95–239, §2, Mar. 1, 1978, 92 Stat. 95; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–119, title I, §104(b)(1), title II, §205(b), Dec. 29, 1981, 95 Stat. 1639, 1645; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, §108(i)(1), Aug. 15, 1994, 108 Stat. 1488.)
+(Pub. L. 91–173, title IV, §402, Dec. 30, 1969, 83 Stat. 792; Pub. L. 92–303, §§1(c)(2)–(4), 3(b), 4(a), May 19, 1972, 86 Stat. 151–153; Pub. L. 95–239, §2, Mar. 1, 1978, 92 Stat. 95; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 97–119, title I, §104(b)(1), title II, §205(b), Dec. 29, 1981, 95 Stat. 1639, 1645; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 103–296, title I, §108(i)(1), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, §2(b)(1), Nov. 2, 2002, 116 Stat. 1925.)
+
+#### References in Text
+
+Section 945 of this title, referred to in subsec. (f)(2)(A), (B), was repealed by Pub. L. 107–275, §2(c)(1), Nov. 2, 2002, 116 Stat. 1926.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–275, §2(b)(1)(A), substituted “, except where expressly otherwise provided,” for “where used in part C”.
+
+Subsec. (f)(1). Pub. L. 107–275, §2(b)(1)(B), inserted “, which were in effect on November 2, 2002,” after “Secretary of Health and Human Services”.
+
+Subsec. (f)(2)(A). Pub. L. 107–275, §2(b)(1)(C)(ii), struck out comma after “Secretary of Labor”.
+
+Pub. L. 107–275, §2(b)(1)(C)(i), substituted “arising under part B of this subchapter” for “which is subject to review by the Secretary of Health and Human Services,”.
+
+Subsec. (i)(1). Pub. L. 107–275, §2(b)(1)(D), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “denied by the Social Security Administration; or”.
 
 1994—Subsec. (c). Pub. L. 103–296 substituted “where used in part C means the Secretary of Labor” for “where used in part B means the Secretary of Health, Education, and Welfare, and where used in part C means the Secretary of Labor”.
 
@@ -92,6 +106,10 @@ Subsec. (g). Pub. L. 92–303, §1(c)(4), added subsec. (g).
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (f) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–275, §4, Nov. 2, 2002, 116 Stat. 1928, provided that: “This Act \[amending this section and sections 921 to 924, 925, 932a, and 936 of this title, repealing sections 904, 924a, and 945 of this title, and enacting provisions set out as notes under sections 801 and 921 of this title\], and the amendments made by this Act, shall take effect 90 days after the date of enactment of this Act \[Nov. 2, 2002\].”
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
@@ -114,5 +132,5 @@ Amendment by section 4(a) of Pub. L. 92–303 effective Dec. 30, 1969, see secti
 
 This section is referred to in sections 922, 931, 934 of this title; title 26 sections 192, 501, 9501.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “Commissioner of Social Security”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

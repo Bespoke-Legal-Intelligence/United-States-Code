@@ -6,7 +6,7 @@ The Secretary may provide assistance under section 3141 or 3149 of this title (e
 
 &emsp;(1) an identification of the economic development problems to be addressed using the assistance;
 
-&emsp;(2) an identification of the past, present, and projected future economic development investments in the area receiving the assistance and public and private participants and sources of funding for the investments; and
+&emsp;(2) an identification of the past, present, and projected future economic development investments in the area receiving the assistanceand public and private participants and sources of funding for the investments; and
 
 &emsp;(3)(A) a comprehensive economic development strategy for addressing the economic problems identified under paragraph (1) in a manner that promotes economic development and opportunity, fosters effective transportation access, enhances and protects the environment, and balances resources through sound management of development; and
 

@@ -176,7 +176,7 @@
 
 #### (E) Definition
 
-&emsp;&emsp;For the purposes of subparagraph (A), the term “loss of eligibility” shall be defined as the mandatory liquidation of an institution's student loan fund, and assignment of the institution's outstanding loan portfolio to the Secretary.
+&emsp;&emsp;For the purposes of subparagraph (A), the term “loss of eligibility” shall be defined asthe mandatory liquidation of an institution's student loan fund, and assignment of the institution's outstanding loan portfolio to the Secretary.
 
 #### (f) Applicable maximum cohort default rate
 
@@ -422,7 +422,7 @@ Subsec. (f). Pub. L. 100–50, §13(d), substituted “subsection (g) of this se
 
 Pub. L. 105–244, title IV, §462(a)(3), Oct. 7, 1998, 112 Stat. 1721, provided that: “The amendments made by this subsection \[amending this section\] shall apply with respect to allocations of amounts appropriated pursuant to section 461(b) \[20 U.S.C. 1087aa(b)\] for fiscal year 2000 or any succeeding fiscal year.”
 
-Amendment by section 462(b)–(e) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub.L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
+Amendment by section 462(b)–(e) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
 #### Effective Date of 1993 Amendment
 

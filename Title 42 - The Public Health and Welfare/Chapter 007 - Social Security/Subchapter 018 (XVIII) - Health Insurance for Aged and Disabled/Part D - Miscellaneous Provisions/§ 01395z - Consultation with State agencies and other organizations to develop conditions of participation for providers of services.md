@@ -42,7 +42,7 @@ Amendment by Pub. L. 103–432 applicable to mammography furnished by a facility
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable to screening mammography performed on or after Jan. 1, 1991, see section 4163(e) of Pub. L. 101–508, set out as a note under section 1395<i>l</i> of this title.
+Amendment by Pub. L. 101–508 applicable to screening mammography performed on or after Jan. 1, 1991, seesection 4163(e) of Pub. L. 101–508, set out as a note under section 1395<i>l</i> of this title.
 
 #### Effective Date of 1989 Amendment
 

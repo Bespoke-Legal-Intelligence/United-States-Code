@@ -2,7 +2,7 @@
 
 The Secretary of the Treasury or his designee shall consult with the Chairman and the Ranking Minority Member of—
 
-&emsp;(1) the Committee on Banking, Finance and Urban Affairs of the House of Representatives, the Committee on Appropriations of the House of Representatives, and the appropriate subcommittee of each such committee, and
+&emsp;(1) the Committee on Banking, Finance and Urban Affairs of the House of Representatives,the Committee on Appropriations of the House of Representatives, and the appropriate subcommittee of each such committee, and
 
 &emsp;(2) the Committee on Foreign Relations of the Senate, the Committee on Appropriations of the Senate, and the appropriate subcommittee of each such committee,
 

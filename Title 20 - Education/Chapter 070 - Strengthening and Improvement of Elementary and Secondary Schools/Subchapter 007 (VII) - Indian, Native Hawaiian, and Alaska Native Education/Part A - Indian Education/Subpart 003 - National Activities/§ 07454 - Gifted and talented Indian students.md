@@ -34,7 +34,7 @@ The Secretary shall make grants, or enter into contracts, for the activities des
 
 &emsp;&emsp;&emsp;(i) address the special needs of Indian students in elementary schools and secondary schools who are gifted and talented; and
 
-&emsp;&emsp;&emsp;(ii) provide such support services to the families of the students described in clause (i) as are needed to enable such students to benefit from the projects.
+&emsp;&emsp;&emsp;(ii) provide such support services to the families of the students described in clause\(i) as are needed to enable such students to benefit from the projects.
 
 #### (2) Subcontracts
 

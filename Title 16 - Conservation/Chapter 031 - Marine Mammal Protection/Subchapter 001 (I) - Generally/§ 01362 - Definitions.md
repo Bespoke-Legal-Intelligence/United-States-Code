@@ -48,7 +48,7 @@ For the purposes of this chapter—
 
 &emsp;(B) the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the other boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured; and
 
-&emsp;(C) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular,those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured, except that this subparagraph shall not apply before the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States.
+&emsp;(C) the areas referred to as eastern special areas in Article 3(1) of the Agreement between the United States of America and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990; in particular, those areas east of the maritime boundary, as defined in that Agreement, that lie within 200 nautical miles of the baselines from which the breadth of the territorial sea of Russia is measured but beyond 200 nautical miles of the baselines from which the breadth of the territorial sea of the United States is measured, except that this subparagraph shall not apply before the date on which the Agreement between the United States and the Union of Soviet Socialist Republics on the Maritime Boundary, signed June 1, 1990, enters into force for the United States.
 
 (16) The term “fishery” means—
 
@@ -172,7 +172,7 @@ Par. (13). Pub. L. 97–58, §1(b)(2)(C), (E), redesignated par. (14) as (13) an
 
 Pars. (14), (15). Pub. L. 97–58, §1(b)(2)(C), redesignated pars. (14) and (15) as (13) and (14), respectively.
 
-1976—Par. (15)(B). Pub. L. 94–265 substituted “the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on it is 200 nautical miles from the baseline from which the territorial sea is measured” for “the fisheries zone established pursuant to the Act of October 14, 1966”.
+1976—Par. (15)(B). Pub. L. 94–265 substituted “the waters included within a zone, contiguous to the territorial sea of the United States, of which the inner boundary is a line coterminous with the seaward boundary of each coastal State, and the outer boundary is a line drawn in such a manner that each point on itis 200 nautical miles from the baseline from which the territorial sea is measured” for “the fisheries zone established pursuant to the Act of October 14, 1966”.
 
 1973—Par. (1)(B). Pub. L. 93–205 substituted “Endangered Species Act of 1973” for “Endangered Species Conservation Act of 1969”.
 

@@ -8,13 +8,13 @@ Any—
 
 &emsp;&emsp;(A) imports merchandise into the customs territory of the United States, files a drawback claim, or transports or stores merchandise carried or held under bond, or
 
-&emsp;&emsp;(B) knowingly causes the importation or transportation or storage of merchandisecarried or held under bond into or from the customs territory of the United States;
+&emsp;&emsp;(B) knowingly causes the importation or transportation or storage of merchandise carried or held under bond into or from the customs territory of the United States;
 
 &emsp;(2) agent of any party described in paragraph (1); or
 
 &emsp;(3) person whose activities require the filing of a declaration or entry, or both;
 
-> shall make, keep, and render for examination and inspection records (which for purposes of this section include, but are not limited to, statements, declarations, documents and electronically generated or machine readable data) which—
+> shall make, keep, and render for examination and inspection records (which for purposes of this section include, but are not limited to,statements, declarations, documents and electronically generated or machine readable data) which—
 
 &emsp;(A) pertain to any such activity, or to the information contained in the records required by this chapter in connection with any such activity; and
 
@@ -155,6 +155,10 @@ Amendment by Pub. L. 100–449 effective on date United States-Canada Free-Trade
 #### Construction of 1993 Amendment
 
 Amendment by section 205(a) of Pub. L. 103–182 to be made after amendment by section 614 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

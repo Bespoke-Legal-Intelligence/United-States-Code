@@ -28,7 +28,7 @@ The purposes for which each grant awarded under subsection (a) of this section m
 
 #### (c) Applications
 
-For the purpose of making grants under subsection (a) of this section, the Secretary shall select applicants from among agencies and organizations described in such subsection on the basis of applications submitted to the Secretary at such time, in such form, and containing such information as the Secretary shall require, but each application shall include at a minimum—
+For the purpose of making grants under subsection (a) of this section, the Secretary shallselect applicants from among agencies and organizations described in such subsection on the basis of applications submitted to the Secretary at such time, in such form, and containing such information as the Secretary shall require, but each application shall include at a minimum—
 
 &emsp;(1) a detailed description of the current status of the Native American language to be addressed by the project for which a grant under subsection (a) of this section is requested, including a description of existing programs and projects, if any, in support of such language;
 

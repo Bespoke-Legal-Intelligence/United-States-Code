@@ -24,7 +24,7 @@
 
 (c) A special Government employee shall be subject to subsections (a) and (b) only in relation to a particular matter involving a specific party or parties—
 
-&emsp;(1) in which such employee has at any time participated personally and substantially as aGovernment employee or as a special Government employee through decision, approval, disapproval, recommendation, the rendering of advice, investigation or otherwise; or
+&emsp;(1) in which such employee has at any time participated personally and substantially as a Government employee or as a special Government employee through decision, approval, disapproval, recommendation, the rendering of advice, investigation or otherwise; or
 
 &emsp;(2) which is pending in the department or agency of the Government in which such employee is serving except that paragraph (2) of this subsection shall not apply in the case of a special Government employee who has served in such department or agency no more than sixty days during the immediately preceding period of three hundred and sixty-five consecutive days.
 
@@ -118,5 +118,5 @@ Pub. L. 97–241, title I, §120, Aug. 24, 1982, 96 Stat. 280, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 202, 206, 216 of this title; title 5 sections 568, 3374; title 7 section 2009aa–1; title 12 section 2245; title 15 section 4805; title 16 section 459b–7; title 22 sections 3507, 3508, 3613; title 26 section 7802; title 28 section 594; title 30 section 663; title 38 section 5902; title 40 App. section 108; title 42 section 1314; title 50 section 405; title 50 App. section 463.
+This section is referred to in sections 202, 206, 216 of this title; title 5 sections 568, 3374, 3704; title 7 sections 2009aa–1, 2009bb–1; title 12 section 2245; title 15 section 4805; title 16 section 459b–7; title 22 sections 3507, 3508, 3613; title 26 section 7802; title 28 section 594; title 30 section 663; title 38 section 5902; title 40 section 14309; title 42 section 1314; title 50 section 405; title 50 App. section 463.
 

@@ -8,7 +8,7 @@ Section 5012, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1087, provided f
 
 Section 1513, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1087, authorized Director of Bureau of Prisons to contract for maintenance of youth offenders.
 
-Section 5014, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1087; amended July 17, 1970, Pub. L. 91–339, §1, 84 Stat. 437; Mar. 15, 1976, Pub. L. 94–233, §6, 90 Stat. 231, related to classification studies and reports.
+Section 5014, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1087; amended July 17, 1970, Pub. L. 91–339, §1, 84Stat. 437; Mar. 15, 1976, Pub. L. 94–233, §6, 90 Stat. 231, related to classification studies and reports.
 
 Section 5015, added act Sept. 30, 1950, ch. 1115, §2, 64 Stat. 1088; amended Mar. 15, 1976, Pub. L. 94–233, §9, 90 Stat. 232, related to powers of Director as to placement of youth offenders.
 

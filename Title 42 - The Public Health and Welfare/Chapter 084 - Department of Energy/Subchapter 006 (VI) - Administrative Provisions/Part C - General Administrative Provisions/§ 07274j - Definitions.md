@@ -10,7 +10,7 @@ For purposes of sections 7274h to 7274j of this title:
 
 &emsp;&emsp;(C) a testing and assembly facility that is under the control or jurisdiction of the Secretary and that is operated for national security purposes (including the Nevada Test Site, Nevada; the Pinnellas Plant, Florida; and the Pantex facility, Texas);
 
-&emsp;&emsp;(D) an atomic weapons research facility that is under the control or jurisdiction of the Secretary (including the Lawrence Livermore, Los Alamos, and Sandia National Laboratories); or
+&emsp;&emsp;(D) an atomic weapons research facility that is under the control or jurisdiction ofthe Secretary (including the Lawrence Livermore, Los Alamos, and Sandia National Laboratories); or
 
 &emsp;&emsp;(E) any facility described in subparagraphs (A) through (D) that—
 
@@ -37,6 +37,8 @@ Section was enacted as part of the National Defense Authorization Act for Fiscal
 1996—Par. (1)(E). Pub. L. 104–106 substituted “subparagraphs (A) through (D)” for “paragraphs (1) through (4)”.
 
 #### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the advanced scientific computing research program and activities at Lawrence Livermore National Laboratory, including the functions of the Secretary of Energy relating thereto, to the Secretary of Homeland Security, see sections 183(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 All national security functions and activities performed immediately before Oct. 5, 1999, by Department of Energy defense nuclear facilities described in this section, transferred to the Administrator for Nuclear Security of the National Nuclear Security Administration of the Department of Energy, see section 2481 of Title 50, War and National Defense.
 

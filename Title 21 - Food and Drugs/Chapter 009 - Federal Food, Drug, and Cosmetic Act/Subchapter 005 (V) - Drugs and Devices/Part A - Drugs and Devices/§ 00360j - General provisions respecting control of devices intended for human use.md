@@ -8,7 +8,7 @@ Any requirement authorized by or under section 351, 352, 360, or 360i of this ti
 
 Sections 360d and 360e of this title do not apply to any device which, in order to comply with the order of an individual physician or dentist (or any other specially qualified person designated under regulations promulgated by the Secretary after an opportunity for an oral hearing) necessarily deviates from an otherwise applicable performance standard or requirement prescribed by or under section 360e of this title if (1) the device is not generally available in finished form for purchase or for dispensing upon prescription and is not offered through labeling or advertising by the manufacturer, importer, or distributor thereof for commercial distribution, and (2) such device—
 
-&emsp;(A)(i) is intended for use by an individual patient named in such order of such physician or dentist (or other specially qualified person so designated) and is to be made in a specific form for such patient, or
+&emsp;(A)(i) is intended for use by an individual patient named in such order of such physician ordentist (or other specially qualified person so designated) and is to be made in a specific form for such patient, or
 
 &emsp;(ii) is intended to meet the special needs of such physician or dentist (or other specially qualified person so designated) in the course of the professional practice of such physician or dentist (or other specially qualified person so designated), and
 
@@ -60,7 +60,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(iii) contain such other information as the Secretary shall prescribe.
 
-(B) The Secretary may refer to the advisory committee established under paragraph (3) any petition submitted under subparagraph (A). Theadvisory committee shall report its recommendations to the Secretary with respect to a petition referred to it within sixty days of the date of the petition's referral. Within sixty days after—
+(B) The Secretary may refer to the advisory committee established under paragraph (3) anypetition submitted under subparagraph (A). The advisory committee shall report its recommendations to the Secretary with respect to a petition referred to it within sixty days of the date of the petition's referral. Within sixty days after—
 
 &emsp;(i) the date the petition was submitted to the Secretary under subparagraph (A), or
 
@@ -100,7 +100,7 @@ Each notice of proposed rulemaking under section 360c, 360d, 360e, 360f, 360h, o
 
 &emsp;(iii) Such other requirements as the Secretary may determine to be necessary for the protection of the public health and safety.
 
-(C) Procedures and conditions prescribed pursuant to subparagraph (A) for an exemption may appropriately vary depending on (i) the scope and duration of clinical testing to be conducted under such exemption, (ii) the number of human subjects that are to be involved in such testing, (iii) the need to permit changes to be made in the device subject to the exemption during testing conducted in accordance with a clinical testing plan required under paragraph (3)(A), and (iv) whether the clinical testing of such device isfor the purpose of developing data to obtain approval for the commercial distribution of such device.
+(C) Procedures and conditions prescribed pursuant to subparagraph (A) for an exemption may appropriately vary depending on (i) the scope and duration of clinical testing to be conducted under such exemption, (ii) the number of human subjects that are to be involved in such testing, (iii) the need to permit changes to be made in the device subject to the exemption during testing conducted in accordance with a clinical testing plan required under paragraph (3)(A), and\(iv) whether the clinical testing of such device is for the purpose of developing data to obtain approval for the commercial distribution of such device.
 
 (3) Procedures and conditions prescribed pursuant to paragraph (2)(A) shall require, as a condition to the exemption of any device to be the subject of testing involving human subjects, that the person applying for the exemption—
 
@@ -350,6 +350,14 @@ Amendment by sections 201(a), 203, 216(a)(1), and 410(a) of Pub. L. 105–115 ef
 
 Section 14(b) of Pub. L. 101–629 provided that: “Subsection (m) of section 520 of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 360j(m)\], as added by the amendment made by subsection (a), shall take effect on the effective date of the regulations issued by the Secretary under paragraph (6) of such subsection.”
 
+#### Guidance Regarding Pediatric Devices
+
+Pub. L. 107–250, title II, §213, Oct. 26, 2002, 116 Stat. 1614, provided that: “Not later than 270 days after thedate of the enactment of this Act \[Oct. 26, 2002\], the Secretary of Health and Human Services shall issue guidance on the following:
+
+&emsp;“(1) The type of information necessary to provide reasonable assurance of the safety and effectiveness of medical devices intended for use in pediatric populations.
+
+&emsp;“(2) Protections for pediatric subjects in clinical investigations of the safety or effectiveness of such devices.”
+
 #### Report on Humanitarian Device Exemptions
 
 Section 14(c) of Pub. L. 101–629 directed Secretary of Health and Human Services, within 4 years after issuance of regulations under 21 U.S.C. 360j(m)(6), to report to Congress on types of devices exempted, an evaluation of effects of such section, and a recommendation on extension of the section.
@@ -360,5 +368,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 331, 333, 351, 352, 353, 360c, 360d, 360e, 360g, 360i, 360bbb, 374, 381, 382, 383, 1604 of this title.
+This section is referred to in sections 331, 333, 351, 352, 353, 360c, 360d, 360e, 360g, 360i, 360bbb, 374, 379i, 379j, 381, 382, 383, 1604 of this title; title 42 section 1395<i>l</i>.
 

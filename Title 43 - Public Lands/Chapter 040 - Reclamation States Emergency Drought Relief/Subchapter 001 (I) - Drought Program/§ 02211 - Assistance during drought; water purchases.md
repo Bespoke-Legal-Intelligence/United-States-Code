@@ -26,6 +26,24 @@ The Bureau, referred to in heading for subsec. (c), probably means the Bureau of
 
 For provisions directing that authorities established under this subchapter shall terminate ten years after Mar. 5, 1992, see section 2214(c) of this title.
 
+#### Desert Terminal Lakes
+
+Pub. L. 107–206, title I, §103, Aug. 2, 2002, 116 Stat. 823, provided that: “Not later than 14 days after the date of enactment of this Act \[Aug. 2, 2002\], the Secretary of Agriculture shall carry out the transfer of funds under section 2507(a) of the Food Security and Rural Investment Act of 2002 (Public Law 107–171) \[set out below\].”
+
+Pub. L. 107–171, title II, §2507, May 13, 2002, 116 Stat. 275, provided that:
+
+“(a)
+
+In General.—Subject to subsection (b), as soon as practicable after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall transfer $200,000,000 of the funds of the Commodity Credit Corporation to the Bureau of Reclamation Water and Related Resources Account, which funds shall—
+
+&emsp;“(1) be used by the Secretary of the Interior, acting through the Commissioner of Reclamation, to provide water to at-risk natural desert terminal lakes; and
+
+&emsp;“(2) remain available until expended.
+
+“(b)
+
+Limitation.—The funds described in subsection (a) shall not be used to purchase or lease water rights.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2212 of this title.

@@ -8,17 +8,13 @@
 
 #### (2) Minimum interval required
 
-&emsp;The interval between the first and second such installments shall be not less than one-half of such period of enrollment, except as necessary to permit the second installment tobe disbursed at the beginning of the second semester, quarter, or similar division of such period of enrollment.
-
-#### (3) Special rule
-
-&emsp;An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months.
+&emsp;The interval between the first and second such installments shall be not less than one-half of such period of enrollment, except as necessary to permit the second installment to be disbursed at the beginning of the second semester, quarter, or similar division of such period of enrollment.
 
 #### (b) Disbursement and endorsement requirements
 
 #### (1) First year students
 
-&emsp;The first installment of the proceeds of any loan made, insured, or guaranteed under this part that is made to a student borrower who is entering the first year of a program of undergraduate education, and who has not previously obtained a loan under this part, shall not (regardless of the amount of such loan or the duration of the period of enrollment) be presented by the institution to the student for endorsement until 30 days after the borrower begins a course of study, but may be delivered to the eligible institution prior to the end of that 30-day period. An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall be exempt from the requirements of this paragraph.
+&emsp;The first installment of the proceeds of any loan made, insured, or guaranteed under this part that is made to a student borrower who is entering the first year of a program of undergraduate education, and who has not previously obtained a loan under this part, shall not (regardless of the amount of such loan or the duration of the period of enrollment) be presented by the institution to the student for endorsement until 30 days after the borrower begins a course of study, but may be delivered to the eligible institution prior to the end of that 30-day period.
 
 #### (2) Other students
 
@@ -62,19 +58,15 @@ An eligible lender shall not sell or transfer a promissory note for any loan mad
 
 (Pub. L. 89–329, title IV, §428G, as added Pub. L. 101–239, title II, §2004(a), Dec. 19, 1989, 103 Stat. 2115; amended Pub. L. 101–508, title III, §3003(a), Nov. 5, 1990, 104 Stat. 1388–26; Pub. L. 102–325, title IV, §421, July 23, 1992, 106 Stat. 534; Pub. L. 103–66, title IV, §4109(b), Aug. 10, 1993, 107 Stat. 369; Pub. L. 103–208, §2(c)(41), Dec. 20, 1993, 107 Stat. 2466; Pub. L. 105–244, title IV, §422(a)–(c), Oct. 7, 1998, 112 Stat. 1696.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 422(d) of Pub. L. 105–244, see Effective and Termination Dates of 1998 Amendment note below.</i>
-
 #### References in Text
 
-Section 1078(a)(2)(A)(i)(III) of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 105–244, title IV,§417(a)(1)(A), Oct. 7, 1998, 112 Stat. 1682. Provisions similar to those contained in section 1078(a)(2)(A)(i)(III) are now contained in section 1078(a)(2)(A)(i)(II).
+Section 1078(a)(2)(A)(i)(III) of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 105–244, title IV, §417(a)(1)(A), Oct. 7, 1998, 112 Stat. 1682. Provisions similar to those contained in section 1078(a)(2)(A)(i)(III) are now contained in section 1078(a)(2)(A)(i)(II).
 
 Section 1078–1 of this title, referred to in subsec. (c)(2), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
 #### Amendments
 
-1998—Subsec. (a)(3). Pub. L. 105–244, §422(a), (d), temporarily added par. (3). See Effective and Termination Dates of 1998 Amendment note below.
+1998—Subsec. (a)(3). Pub. L. 105–244, §422(a), (d), temporarily added par. (3) which read as follows: “An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the 3 most recent fiscal years for which data are available is less than 10 percent may disburse any loan made, insured, or guaranteed under this part in a single installment for any period of enrollment that is not more than 1 semester, 1 trimester, 1 quarter, or 4 months.” See Effective and Termination Dates of 1998 Amendment note below.
 
 Subsec. (b)(1). Pub. L. 105–244, §422(b), (d), temporarily inserted at end “An institution whose cohort default rate (as determined under section 1085(m) of this title) for each of the three most recent fiscal years for which data are available is less than 10 percent shall be exempt from the requirements of this paragraph.” See Effective and Termination Dates of 1998 Amendment note below.
 

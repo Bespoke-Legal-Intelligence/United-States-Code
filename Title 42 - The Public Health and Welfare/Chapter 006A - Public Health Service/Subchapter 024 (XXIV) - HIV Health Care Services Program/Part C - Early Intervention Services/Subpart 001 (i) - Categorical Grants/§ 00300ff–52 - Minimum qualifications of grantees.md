@@ -6,7 +6,7 @@ The entities referred to in section 300ff–51(a) of this title are public entit
 
 &emsp;(1) migrant health centers under section 254b <sup>1</sup> of this title or community health centers under section 254c <sup>1</sup> of this title;
 
-&emsp;(2) grantees under section 256 <sup>1</sup> of this title (regarding health services for the homeless);
+&emsp;(2) grantees under section 254b(h) of this title (regarding health services for the homeless);
 
 &emsp;(3) grantees under section 300 of this title (regarding family planning) other than States;
 
@@ -32,17 +32,17 @@ The entities referred to in section 300ff–51(a) of this title are public entit
 
 &emsp;(B) A determination by the Secretary of whether an entity referred to in subparagraph (A) meets the criteria for a waiver under such subparagraph shall be made without regard to whether the entity accepts voluntary donations regarding the provision of services to the public.
 
-(July 1, 1944, ch. 373, title XXVI, §2652, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 607; amended Pub. L. 101–557, title IV, §401(b)(3), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §3(d)(2), May 20, 1996, 110 Stat. 1357.)
+(July 1, 1944, ch. 373, title XXVI, §2652, as added Pub. L. 101–381, title III, §301(a), Aug. 18, 1990, 104 Stat. 607; amended Pub. L. 101–557, title IV, §401(b)(3), Nov. 15, 1990, 104 Stat. 2771; Pub. L. 104–146, §3(d)(2), May 20, 1996, 110 Stat. 1357; Pub. L. 107–251, title VI, §601(a), Oct. 26, 2002, 116 Stat. 1664.)
 
 #### References in Text
 
 Sections 254b and 254c of this title, referred to in subsec. (a)(1), were in the original references to sections 329 and 330, meaning sections 329 and 330 of act July 1, 1944, which were omitted in the general amendment of subpart I (§254b et seq.) of part D of subchapter II of this chapter by Pub. L. 104–299, §2, Oct. 11, 1996, 110 Stat. 3626. Sections 2 and 3(a) of Pub. L. 104–299 enacted new sections 330 and 330A of act July 1, 1944, which are classified, respectively, to sections 254b and 254c of this title.
 
-Section 256 of this title, referred to in subsec. (a)(2), was repealed by Pub. L. 104–299, §4(a)(3), Oct. 11, 1996, 110 Stat. 3645.
-
 The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Social Security Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (a)(2). Pub. L. 107–251 substituted “254b(h)” for “256”.
 
 1996—Subsec. (b)(1)(B). Pub. L. 104–146 inserted “, or a private for-profit entity if such entity is the only available provider of quality HIV care in the area,” after “nonprofit private entity”.
 

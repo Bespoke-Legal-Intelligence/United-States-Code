@@ -18,7 +18,7 @@ It is the purpose of this section to implement the responsibilities of the Unite
 
 &emsp;(A) an assessment of the technical and commercial status of the domestic renewable energy industry and related service industries in domestic and foreign markets;
 
-&emsp;(B) an assessment of the Federal Government's activities affecting commerce in the domestic renewable energy industry and related service industries and in consolidating andcoordinating such activities within the Federal Government; and
+&emsp;(B) an assessment of the Federal Government's activities affecting commerce in the domestic renewable energy industry and related service industries and in consolidating and coordinating such activities within the Federal Government; and
 
 &emsp;(C) an assessment of the aspects of the domestic renewable energy industry and related service industries in which improvements must be made to increase the international commercialization of such industry.
 
@@ -116,7 +116,7 @@ Subsec. (e) of this section, which required the interagency working group establ
 
 #### Amendments
 
-2000—Subsec. (h). Pub. L. 106–469 inserted at end “There are authorized to be appropriated for fiscal years 2000 through 2003, such sums as may be necessary.”
+2000—Subsec. (h). Pub. L. 106–469 inserted at end “There are authorized to be appropriated for fiscalyears 2000 through 2003, such sums as may be necessary.”
 
 1996—Subsec. (h). Pub. L. 104–306 inserted at end “There are authorized to be appropriated for fiscal year 1997 such sums as may be necessary to carry out this part.”
 

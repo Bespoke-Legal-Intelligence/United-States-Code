@@ -38,7 +38,7 @@
 
 #### (1) Prohibition on effecting an arrest
 
-&emsp;No officer or employee of the United States may directly effect an arrest in any foreign country as part of any foreign police action with respect to narcotics control efforts, notwithstanding any other provision of law.
+&emsp;No officer or employee of the United States may directly effect an arrest in any foreigncountry as part of any foreign police action with respect to narcotics control efforts, notwithstanding any other provision of law.
 
 #### (2) Participation in arrest actions
 
@@ -92,7 +92,7 @@ For purposes of this part and other provisions of this chapter relating specific
 
 &emsp;&emsp;(C) 5,000 hectares or more of illicit cannabis is cultivated or harvested during a year, unless the President determines that such illicit cannabis production does not significantly affect the United States;
 
-&emsp;(3) the term “narcotic and psychotropic drugs and other controlled substances” hasthe same meaning as is given by any applicable international narcotics control agreement or domestic law of the country or countries concerned;
+&emsp;(3) the term “narcotic and psychotropic drugs and other controlled substances” has the same meaning as is given by any applicable international narcotics control agreement or domestic law of the country or countries concerned;
 
 &emsp;(4) the term “United States assistance” means—
 
@@ -154,7 +154,7 @@ A prior section 481 of Pub. L. 87–195, pt. I, as added Pub. L. 92–226, pt. I
 
 Subsec. (a)(4). Pub. L. 104–164, §131(a)(2), inserted “, or for other anticrime purposes” before period at end.
 
-1994—Subsec. (d)(2) to (4). Pub. L. 103–447, §101(a), redesignated pars. (3) and (4) as (2) and (3), respectively,and struck out heading and text of former par. (2). Text read as follows: “The Secretary of State shall inform the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency of the use or intended use by any country or international organization of any herbicide for aerial eradication in a program receiving assistance under this part.”
+1994—Subsec. (d)(2) to (4). Pub. L. 103–447, §101(a), redesignated pars. (3) and (4) as (2) and (3), respectively, and struck out heading and text of former par. (2). Text read as follows: “The Secretary of State shall inform the Secretary of Health and Human Services and the Administrator of the Environmental Protection Agency of the use or intended use by any country or international organization of any herbicide for aerial eradication in a program receiving assistance under this part.”
 
 Subsec. (e). Pub. L. 103–447, §101(b)(1), substituted “For” for “Except as provided in sections 2291j(h) and (i) of this title with respect to the definition of major illicit drug producing country and major drug-transit country, for”.
 
@@ -242,7 +242,7 @@ Subsecs. (f) to (h). Pub. L. 102–583, §6(b)(2), struck out subsec. (f) relati
 
 Subsec. (i). Pub. L. 102–583, §6(b)(3), redesignated subsec. (i) as (e).
 
-Subsec. (i)(4). Pub. L. 102–583, §5(b), amended par. (4) generally. Prior to amendment, par. (4) consisted of subpars. (A) to (E) and concluding provisions, which defined “United States assistance”.
+Subsec. (i)(4). Pub. L. 102–583, §5(b), amended par. (4) generally. Prior to amendment, par. (4) consisted ofsubpars. (A) to (E) and concluding provisions, which defined “United States assistance”.
 
 Subsec. (i)(5). Pub. L. 102–550, §1519(c), inserted “or” at end of subpar. (A), substituted a period for “or” at end of subpar. (B), and struck out subpar. (C) which read as follows: “through which significant sums of drug-related profits or monies are laundered with the knowledge or complicity of the government.”
 
@@ -284,7 +284,7 @@ Subsec. (h)(2). Pub. L. 100–690, §4407(a), added par. (2) and struck out form
 
 Subsec. (h)(2)(A)(i)(I). Pub. L. 100–461, §578(g)(3), inserted “or multilateral agreement which achieves the objectives of this subsection,” after “(ii)”.
 
-Subsec. (h)(2)(A)(ii). Pub. L. 100–461, §578(g)(1), amended cl. (ii) generally, substituting “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to undertake specific activities including, where applicable, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.” for “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to takespecific activities including but not limited to, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification of and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.”
+Subsec. (h)(2)(A)(ii). Pub. L. 100–461, §578(g)(1), amended cl. (ii) generally, substituting “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to undertake specific activities including, where applicable, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.” for “A bilateral narcotics agreement referred to in clause (i)(I) is an agreement between the United States and a foreign country whereby the foreign country agrees to take specific activities including but not limited to, efforts to reduce drug production, drug consumption, and drug trafficking within its territory, including activities to address illicit crop eradication and crop substitution; drug interdiction and enforcement; drug consumption and treatment; identification of and elimination of illicit drug laboratories; identification and elimination of the trafficking of precursor chemicals for the use in production of illegal drugs; cooperation with United States drug enforcement officials; and, where applicable, participation in extradition treaties, mutual legal assistance provisions directed at money laundering, sharing of evidence, and other initiatives for cooperative drug enforcement.”
 
 Subsec. (h)(2)(B). Pub. L. 100–461, §578(i), substituted “subparagraph (A)(i)(II)” for “clause (A)(ii)”.
 
@@ -394,6 +394,62 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Reports on Activities in Colombia
+
+Pub. L. 107–228, div. A, title VI, §694, Sept. 30, 2002, 116 Stat. 1415, provided that:
+
+“(a)
+
+Report on Reform Activities.—
+
+&emsp;“(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Sept. 30, 2002\], and not later than April 1 of each year thereafter, the Secretary shall submit to the appropriate congressional committees a report on the status of activities funded or authorized, in whole or in part, by the Department or the Department of Defense in Colombia to promote alternative development, recovery and resettlement of internally displaced persons, judicial reform, the peace process, and human rights.
+
+&emsp;“(2)
+
+Contents.—Each such report shall contain the following:
+
+&emsp;&emsp;“(A) A summary of activities described in paragraph (1) during the previous 12-month period.
+
+&emsp;&emsp;“(B) An estimated timetable for the conduct of such activities in the subsequent 12-month period.
+
+&emsp;&emsp;“(C) An explanation of any delay in meeting timetables contained in the previous report submitted in accordance with this subsection.
+
+&emsp;&emsp;“(D) An assessment of steps to be taken to correct any delays in meeting such timetables.
+
+“(b)
+
+Report on Certain Counternarcotics Activities.—
+
+&emsp;“(1)
+
+Declaration of policy.—It is the policy of the United States to encourage the transfer of counternarcotics activities carried out in Colombia by United States businesses that have entered into agreements with the Department or the Department of Defense to conduct such activities, to Colombian nationals, in particular personnel of the Colombian antinarcotics police, when properly qualified personnel are available.
+
+&emsp;“(2)
+
+Report.—Not later than 180 days after the date of the enactment of this Act \[Sept. 30, 2002\], and not later than April 1 of each year thereafter, the Secretary shall submit to the appropriate congressional committees a report on the activities of United States businesses that have entered into agreements in the previous 12-month period with the Department or the Department of Defense to carry out counternarcotics activities in Colombia.
+
+&emsp;“(3)
+
+Contents.—Each such report shall contain the following:
+
+&emsp;&emsp;“(A) The name of each United States business described in paragraph (2) and description of the counternarcotics activities carried out by the business in Colombia.
+
+&emsp;&emsp;“(B) The total value of all payments by the Department and the Department of Defense to each such business for such activities.
+
+&emsp;&emsp;“(C) A written statement justifying the decision by the Department and the Department of Defense to enter into an agreement with each such business for such activities.
+
+&emsp;&emsp;“(D) An assessment of the risks to personal safety and potential involvement in hostilities incurred by employees of each such business as a result of their activities in Colombia.
+
+&emsp;&emsp;“(E) A plan to provide for the transfer of the counternarcotics activities carried out by such United States businesses to Colombian nationals, in particular personnel of the Colombian antinarcotics police.
+
+&emsp;“(4)
+
+Definition.—In this subsection, the term ‘United States business’ means any person (including any corporation, partnership, or other organization) that is subject to the jurisdiction of the United States or organized under the laws of the United States, but does not include any person (including any corporation, partnership, or other organization) that performs contracts involving personal services.”
+
+\[For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in section 694 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+
 #### Limitation on Counternarcotics Assistance to Colombia
 
 Pub. L. 105–277, div. C, title VIII, §821(b), Oct. 21, 1998, 112 Stat. 2681–700, provided that:
@@ -424,7 +480,7 @@ Pub. L. 101–513, title V, §599H, Nov. 5, 1990, 104 Stat. 2068, provided that:
 
 Negotiations.—(1) The Attorney General shall enter into negotiations with the appropriate law enforcement and judicial agencies and any other officials of any foreign country with jurisdiction over companies who manufacture, market, sell or purchase certain precursor and/or essential chemicals used in the production of illicit narcotics. The priority of negotiations should be determined based on an assessment by the Attorney General which countries have jurisdiction over companies that may be knowingly or unknowingly supplying chemicals for the illicit manufacture of controlled substances.
 
-“(2) The purposes of the negotiations shall be to (a) establish a list of precursor and essential chemicals contributing to the illicit manufacture of controlled substances, as defined in section 102 of the Controlled Substances Act (21 USC 802); (b) reach one or more international agreements on a method for maintaining records of transactions of these listed chemicals; (c) establish a procedure by which such records may be made available to (and kept confidential as necessary by)United States law enforcement authorities for the exclusive purpose of conducting an investigation relative to precursor chemicals, essential chemicals and/or controlled substances contributing to the manufacture of illicit narcotics; and (d) encourage chemical source countries to enact national chemical control legislation which would (i) impose specific record keeping and reporting requirements for domestic transactions involving listed chemicals; (ii) establish a system of permits or declarations for imports and exports of listed chemicals; and (iii) authorize government officials to seize or suspend shipments of listed chemicals based on evidence that they may be destined for the illicit manufacture of controlled substances.
+“(2) The purposes of the negotiations shall be to (a) establish a list of precursor and essential chemicals contributing to the illicit manufacture of controlled substances, as defined in section 102 of the Controlled Substances Act (21 USC 802); (b) reach one or more international agreements on a method for maintaining records of transactions of these listed chemicals; (c) establish a procedure by which such records may be made available to (and kept confidential as necessary by) United States law enforcement authorities for the exclusive purpose of conducting an investigation relative to precursor chemicals, essential chemicals and/or controlled substances contributing to the manufacture of illicit narcotics; and (d) encourage chemical source countries to enact national chemical control legislation which would (i) impose specific record keeping and reporting requirements for domestic transactions involving listed chemicals; (ii) establish a system of permits or declarations for imports and exports of listed chemicals; and (iii) authorize government officials to seize or suspend shipments of listed chemicals based on evidence that they may be destined for the illicit manufacture of controlled substances.
 
 “(b)
 
@@ -476,7 +532,7 @@ Section 10 of Pub. L. 101–231 provided that:
 
 “(a)
 
-Authority.—The President may release Bolivia, Colombia, or Peru from its obligation to make payments to the United States Government of principal and interest on account of a loan made to that country under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 and following; relating to foreign assistance programs) or credits extended for that country under section 23 of the Arms Export Control Act (22 U.S.C. 2763; relating to foreign military sales credits) if the President determines that that country is implementing programs to reduce the flow of cocaine to the United States in accordance with a formal bilateral or multilateral agreement, to which the United States is a party, that contains specific, quantitative and qualitative, performance criteria with respect to those programs.
+Authority.—The President may release Bolivia, Colombia, or Peru from its obligation to make payments to the United States Government of principal and interest on account of a loan made to that country under the Foreign Assistance Act of 1961 (22 U.S.C. 2151 and following; relating to foreign assistance programs) or credits extended for that country under section 23 ofthe Arms Export Control Act (22 U.S.C. 2763; relating to foreign military sales credits) if the President determines that that country is implementing programs to reduce the flow of cocaine to the United States in accordance with a formal bilateral or multilateral agreement, to which the United States is a party, that contains specific, quantitative and qualitative, performance criteria with respect to those programs.
 
 “(b)
 
@@ -494,7 +550,7 @@ Effective Date.—Subsection (a) takes effect on October 1, 1990.”
 
 Pub. L. 101–167, title V, §569(d), Nov. 21, 1989, 103 Stat. 1244, provided that:
 
-“(1) If any funds made available for any fiscal year for security assistance are not used for assistance for the country for which those funds were allocated because of any provision of law requiring the withholding of assistance for countries that have not taken adequate steps to halt illicit drug production of \[or\] trafficking, the President shall use those funds for additional assistance for those countries which have mettheir illicit drug eradication targets or have otherwise taken significant steps to halt illicit drug production or trafficking, as follows:
+“(1) If any funds made available for any fiscal year for security assistance are not used for assistance for the country for which those funds were allocated because of any provision of law requiring the withholding of assistance for countries that have not taken adequate steps to halt illicit drug production of \[or\] trafficking, the President shall use those funds for additional assistance for those countries which have met their illicit drug eradication targets or have otherwise taken significant steps to halt illicit drug production or trafficking, as follows:
 
 &emsp;“(A) Those funds may be transferred to and consolidated with the funds made available to carry out section 481 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2291\] in order to provide additional narcotics control assistance for those countries. Funds transferred under this paragraph may only be used to provide increased funds for activities previously justified to the Congress. Transfers may be made under this paragraph without regard to the 20-percent increase limitation contained in section 610 of the Foreign Assistance Act \[22 U.S.C. 2360\].
 
@@ -566,7 +622,7 @@ Pub. L. 107–68, title I, §103, Nov. 12, 2001, 115 Stat. 568, provided that:
 
 “(b) This section shall apply to pay periods beginning on or after October 1, 2001.”
 
-Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119, title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412, provided that:
+Pub. L. 99–93, title VIII, §814, Aug. 16, 1985, 99 Stat. 455, as amended by Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808; Pub. L. 100–202, §101(i) \[title I, §5\], Dec. 22, 1987, 101 Stat. 1329–290, 1329–294; Pub. L. 102–392, title III, §323, Oct. 6, 1992, 106 Stat. 1726; Pub. L. 105–119, title VI, §625, Nov. 26, 1997, 111 Stat. 2522; Pub. L. 106–57, title I, §7, Sept. 29, 1999, 113 Stat. 412; Pub. L. 107–228, div. A, title VI, §684, Sept. 30, 2002, 116 Stat. 1411, provided that:
 
 “(a)
 
@@ -614,7 +670,7 @@ Staff.—The Caucus may appoint and fix the pay of such staff personnel as it de
 
 “(i)
 
-Termination.—The Caucus shall cease to exist on September 30, 2002.”
+Termination.—The Caucus shall cease to exist on September 30, 2005.”
 
 Pub. L. 99–151, title III, §306, Nov. 13, 1985, 99 Stat. 808, provided that:
 
@@ -686,7 +742,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2151x–2, 2291a of this title; title 7 section 1736g–1; title 12 section 635; title 19 section 2492; title 48 sections 1902, 1903.
+This section is referred to in sections 2151x–2, 2291a, 2291j–1 of this title; title 7 section 1736g–1; title 12 section 635; title 19 section 2492; title 48 sections 1902, 1903.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

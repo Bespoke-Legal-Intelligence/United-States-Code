@@ -1,6 +1,6 @@
 ### §12306. Safety certificates
 
-When a State is the authority issuing a number under this chapter, it may require that the individual in charge of a numbered vessel have avalid safety certificate issued under conditions set by the issuing authority, except when the vessel is subject to manning requirements under part F of this subtitle.
+When a State is the authority issuing a number under this chapter, it may require that the individual in charge of a numbered vessel have a valid safety certificate issued under conditions set by the issuing authority, except when the vessel is subject to manning requirements under part F of this subtitle.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 591.)
 

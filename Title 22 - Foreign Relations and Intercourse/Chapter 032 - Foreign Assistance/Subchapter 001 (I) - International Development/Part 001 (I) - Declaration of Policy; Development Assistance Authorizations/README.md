@@ -27,6 +27,7 @@ This part is referred to in sections 2077, 2151x–1, 2151x–2, 2183, 2201, 221
 - [&sect; 02151l, 2151m - Repealed. Pub. L. 95&#8211;424, title I, &sect;&sect;102(f), 104(b), Oct. 6, 1978, 92 Stat. 942, 947](%C2%A7%2002151l%2C%202151m%20-%20Repealed.%20Pub.%20L.%2095%E2%80%93424%2C%20title%20I%2C%20%C2%A7%C2%A7102%28f%29%2C%20104%28b%29%2C%20Oct.%206%2C%201978%2C%2092%20Stat.%20942%2C%20947.md)
 - [&sect; 02151n - Human rights and development assistance](%C2%A7%2002151n%20-%20Human%20rights%20and%20development%20assistance.md)
 - [&sect; 02151n&#8211;1 - Repealed. Pub. L. 103&#8211;236, title I, &sect;139(4), Apr. 30, 1994, 108 Stat. 397](%C2%A7%2002151n%E2%80%931%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93236%2C%20title%20I%2C%20%C2%A7139%284%29%2C%20Apr.%2030%2C%201994%2C%20108%20Stat.%20397.md)
+- [&sect; 02151n&#8211;2 - Human Rights and Democracy Fund](%C2%A7%2002151n%E2%80%932%20-%20Human%20Rights%20and%20Democracy%20Fund.md)
 - [&sect; 02151o - Repealed. Pub. L. 103&#8211;149, &sect;4(a)(3)(B), Nov. 23, 1993, 107 Stat. 1505](%C2%A7%2002151o%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93149%2C%20%C2%A74%28a%29%283%29%28B%29%2C%20Nov.%2023%2C%201993%2C%20107%20Stat.%201505.md)
 - [&sect; 02151p - Environmental and natural resources](%C2%A7%2002151p%20-%20Environmental%20and%20natural%20resources.md)
 - [&sect; 02151p&#8211;1 - Tropical forests](%C2%A7%2002151p%E2%80%931%20-%20Tropical%20forests.md)
@@ -49,3 +50,4 @@ This part is referred to in sections 2077, 2151x–1, 2151x–2, 2183, 2201, 221
 - [&sect; 02152b - United States Microfinance Loan Facility](%C2%A7%2002152b%20-%20United%20States%20Microfinance%20Loan%20Facility.md)
 - [&sect; 02152c - Programs to encourage good governance](%C2%A7%2002152c%20-%20Programs%20to%20encourage%20good%20governance.md)
 - [&sect; 02152d - Assistance to foreign countries to meet minimum standards for the elimination of trafficking](%C2%A7%2002152d%20-%20Assistance%20to%20foreign%20countries%20to%20meet%20minimum%20standards%20for%20the%20elimination%20of%20trafficking.md)
+- [&sect; 02152e - Program to improve building construction and practices in Latin American countries](%C2%A7%2002152e%20-%20Program%20to%20improve%20building%20construction%20and%20practices%20in%20Latin%20American%20countries.md)

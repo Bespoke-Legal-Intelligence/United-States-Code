@@ -2,7 +2,7 @@
 
 #### (a) Appointment and number; selection of Chairman; rules of procedure; term
 
-(1) The United States shall be represented by not more than three Commissioners who shall serve as delegates of the United States on the Commission, and who may serve on the Council and Panels of the Commission as provided for in the Convention. Such Commissioners shall be appointed by and serve at the pleasure of the President. Not more than one such Commissioner shall be a salaried employee of any Stateor political subdivision thereof, or the Federal Government. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. The Commissioners shall be entitled to select a Chairman and to adopt such rules of procedure as they find necessary.
+(1) The United States shall be represented by not more than three Commissioners who shall serve as delegates of the United States on the Commission, and who may serve on the Council and Panels of the Commission as provided for in the Convention. Such Commissioners shall be appointed by and serve at the pleasure of the President. Not more than one such Commissioner shall be a salaried employee of any State or political subdivision thereof, or the Federal Government. Individuals serving as such Commissioners shall not be considered to be Federal employees while performing such service, except for purposes of injury compensation or tort claims liability as provided in chapter 81 of title 5 and chapter 171 of title 28. The Commissioners shall be entitled to select a Chairman and to adopt such rules of procedure as they find necessary.
 
 (2) Of the Commissioners appointed under paragraph (1) who are not governmental employees—
 
@@ -42,7 +42,7 @@ Subsec. (d). Pub. L. 101–627, §203, added subsec. (d).
 
 Section 201(b) of title II of Pub. L. 101–627 provided that:
 
-“(1) Paragraph (2) of section 3(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971a(a)), as added by this section, shall not apply to reappointment of an individual as a United States Commissioner of the International Commission for the Conservation of Atlantic Tunas (hereinafter in this title \[enacting section 971b–1 of this title, amending this section and sections 971b, 971d, and 971h of this title, and enacting provisions set out as a note below\] referred to as a ‘Commissioner’) if that individual is serving in that position on the date of enactment of this Act \[Nov. 28, 1990\].
+“(1) Paragraph (2) of section 3(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971a(a)), asadded by this section, shall not apply to reappointment of an individual as a United States Commissioner of the International Commission for the Conservation of Atlantic Tunas (hereinafter in this title \[enacting section 971b–1 of this title, amending this section and sections 971b, 971d, and 971h of this title, and enacting provisions set out as a note below\] referred to as a ‘Commissioner’) if that individual is serving in that position on the date of enactment of this Act \[Nov. 28, 1990\].
 
 “(2) An individual serving a term as a Commissioner on the date of enactment of this Act shall not, by reason of that term of service, be ineligible under paragraph (3)(B) of section 3(a) of the Atlantic Tunas Convention Act of 1975 (16 U.S.C. 971a(a)), as added by this section, for reappointment as a Commissioner.”
 

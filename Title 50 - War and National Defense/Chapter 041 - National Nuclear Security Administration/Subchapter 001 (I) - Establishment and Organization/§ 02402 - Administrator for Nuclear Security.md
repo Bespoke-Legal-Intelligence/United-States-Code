@@ -146,7 +146,7 @@ Selection Criteria.—(1) The projects selected for the pilot program shall—
 
 > &emsp;that can support the missions of those laboratories and facilities.
 
-“(2) The Administrator may authorize the provision of Federal funds for a project under this section only if the director of the laboratory or facility managing theproject determines that the project is likely to improve the ability of that laboratory or facility to achieve technical success in meeting nuclear weapons and nuclear nonproliferation missions of the Administration.
+“(2) The Administrator may authorize the provision of Federal funds for a project under this section only if the director of the laboratory or facility managing the project determines that the project is likely to improve the ability of that laboratory or facility to achieve technical success in meeting nuclear weapons and nuclear nonproliferation missions of the Administration.
 
 “(3) The Administrator shall require the director of the laboratory or facility to consider the following criteria in selecting a project to receive Federal funds:
 

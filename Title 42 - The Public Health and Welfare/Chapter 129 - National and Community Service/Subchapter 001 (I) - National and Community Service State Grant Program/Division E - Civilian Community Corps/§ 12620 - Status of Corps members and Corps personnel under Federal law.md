@@ -18,7 +18,7 @@ Except as otherwise provided in this section, members of the Civilian Community 
 
 A member of the Corps shall be considered an employee of the United States for purposes of chapter 171 of title 28 relating to tort claims liability and procedure.
 
-(Pub. L. 101–610, title I, §160, formerly §195I, as added Pub. L. 102–484, div. A, title X, §1092(a)(1), Oct. 23, 1992, 106 Stat. 2530; renumbered §160, Pub. L. 103–82, title I, §104(b), Sept. 21, 1993, 107 Stat. 840.)
+(Pub. L. 101–610, title I, §160, formerly §195I, as added Pub. L. 102–484, div. A, title X, §1092(a)(1),Oct. 23, 1992, 106 Stat. 2530; renumbered §160, Pub. L. 103–82, title I, §104(b), Sept. 21, 1993, 107 Stat. 840.)
 
 #### Codification
 

@@ -14,6 +14,28 @@
 
 &emsp;The program shall commence not later than January 1, 1998.
 
+#### (3) Aliens for whom a visa is required
+
+&emsp;The Attorney General, in consultation with the Secretary of State, shall establish an electronic means to monitor and verify—
+
+&emsp;&emsp;(A) the issuance of documentation of acceptance of a foreign student by an approved institution of higher education or other approved educational institution, or of an exchange visitor program participant by a designated exchange visitor program;
+
+&emsp;&emsp;(B) the transmittal of the documentation referred to in subparagraph (A) to the Department of State for use by the Bureau of Consular Affairs;
+
+&emsp;&emsp;(C) the issuance of a visa to a foreign student or an exchange visitor program participant;
+
+&emsp;&emsp;(D) the admission into the United States of the foreign student or exchange visitor program participant;
+
+&emsp;&emsp;(E) the notification to an approved institution of higher education, other approved educational institution, or exchange visitor program sponsor that the foreign student or exchange visitor participant has been admitted into the United States;
+
+&emsp;&emsp;(F) the registration and enrollment of that foreign student in such approved institution of higher education or other approved educational institution, or the participation of that exchange visitor in such designated exchange visitor program, as the case may be; and
+
+&emsp;&emsp;(G) any other relevant act by the foreign student or exchange visitor program participant, including a changing of school or designated exchange visitor program and any termination of studies or participation in a designated exchange visitor program.
+
+#### (4) Reporting requirements
+
+&emsp;Not later than 30 days after the deadline for registering for classes for an academic term of an approved institution of higher education or other approved educational institution for which documentation is issued for an alien as described in paragraph (3)(A), or the scheduled commencement of participation by an alien in a designated exchange visitor program, as the case may be, the institution or program, respectively, shall report to the Immigration and Naturalization Service any failure of the alien to enroll or to commence participation.
+
 #### (b) Covered countries
 
 The Attorney General, in consultation with the Secretary of State, shall designate countries for purposes of subsection (a)(1)(B) of this section. The Attorney General shall initially designate not less than 5 countries and may designate additional countries at any time while the program is being conducted.
@@ -28,9 +50,17 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 &emsp;&emsp;(B) the nonimmigrant classification of the alien and the date on which a visa under the classification was issued or extended or the date on which a change to such classification was approved by the Attorney General;
 
-&emsp;&emsp;(C) in the case of a student at an approved institution of higher education, or other approved educational institution,,<sup>1</sup> the current academic status of the alien, including whether the alien is maintaining status as a full-time student or, in the case of a participant in a designated exchange visitor program, whether the alien is satisfying the terms and conditions of such program; and
+&emsp;&emsp;(C) in the case of a student at an approved institution of higher education, or other approved educational institution,,<sup>1</sup> the current academic status of the alien, including whether the alien is maintaining status as a full-time student or, in the case of a participant in a designated exchange visitor program, whether the alien is satisfying the terms and conditions of such program;
 
-&emsp;&emsp;(D) in the case of a student at an approved institution of higher education, or other approved educational institution,,<sup>1</sup> any disciplinary action taken by the institution against the alien as a result of the alien's being convicted of a crime or, in the case of a participant in a designated exchange visitor program, any change in the alien's participation as a result of the alien's being convicted of a crime.
+&emsp;&emsp;(D) in the case of a student at an approved institution of higher education, or other approved educational institution,,<sup>1</sup> any disciplinary action taken by the institution against the alien as a result of the alien's being convicted of a crime or, in the case of a participant in a designated exchange visitor program, any change in the alien's participation as a result of the alien's being convicted of a crime; and <sup>2</sup>
+
+&emsp;&emsp;(E) the date of entry and port of entry;
+
+&emsp;&emsp;(F) the date of the alien's enrollment in an approved institution of higher education, other approved educational institution, or designated exchange visitor program in the United States;
+
+&emsp;&emsp;(G) the degree program, if applicable, and field of study; and
+
+&emsp;&emsp;(H) the date of the alien's termination of enrollment and the reason for such termination (including graduation, disciplinary action or other dismissal, and failure to re-enroll).
 
 #### (2) FERPA
 
@@ -49,6 +79,10 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 #### (B) Attorney General
 
 &emsp;&emsp;To the extent practicable, the Attorney General shall use or enhance existing software for the collection, storage, and data processing of information described in paragraph (1).
+
+#### (5) Reporting requirements
+
+&emsp;The Attorney General shall prescribe by regulation reporting requirements by taking into account the curriculum calendar of the approved institution of higher education, other approved educational institution, or exchange visitor program.
 
 #### (d) Participation by institutions of higher education and exchange visitor programs
 
@@ -82,11 +116,11 @@ The Attorney General, in consultation with the Secretary of State, shall designa
 
 #### (A) Establishment of amount
 
-&emsp;&emsp;The Attorney General shall establish the amount of the fee to be imposed on, and collected from, an alien under paragraph (1). Except as provided in subsection (g)(2) of this section, the fee imposed on any individual may not exceed $100, except that, in the case of an alien admitted under section 1101(a)(15)(J) of this title as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $40, except that, in the case of an alien admitted under section 1101(a)(15)(J) of this title as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $35.<sup>2</sup> The amount of the fee shall be based on the Attorney General's estimate of the cost per alien of conducting the information collection program described in this section.
+&emsp;&emsp;The Attorney General shall establish the amount of the fee to be imposed on, and collected from, an alien under paragraph (1). Except as provided in subsection (g)(2) of this section, the fee imposed on any individual may not exceed $100, except that, in the case of an alien admitted under section 1101(a)(15)(J) of this title as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $40, except that, in the case of an alien admitted under section 1101(a)(15)(J) of this title as an au pair, camp counselor, or participant in a summer work travel program, the fee shall not exceed $35.<sup>3</sup> The amount of the fee shall be based on the Attorney General's estimate of the cost per alien of conducting the information collection program described in this section.
 
 #### (B) Use
 
-&emsp;&emsp;Fees collected under paragraph (1) shall be deposited as offsetting receipts into the Immigration Examinations Fee Account (established under section 1356(m) of this title) and shall remain available until expendedfor the Attorney General to reimburse any appropriation the amount paid out of which is for expenses in carrying out this section. Such expenses include, but are not necessarily limited to, those incurred by the Secretary of State in connection with the program under subsection (a) of this section.
+&emsp;&emsp;Fees collected under paragraph (1) shall be deposited as offsetting receipts into the Immigration Examinations Fee Account (established under section 1356(m) of this title) and shall remain available until expended for the Attorney General to reimburse any appropriation the amount paid out of which is for expenses in carrying out this section. Such expenses include, but are not necessarily limited to, those incurred by the Secretary of State in connection with the program under subsection (a) of this section.
 
 #### (5) Proof of payment
 
@@ -134,7 +168,7 @@ As used in this section:
 
 &emsp;The term “other approved educational institution” includes any air flight school, language training school, or vocational school, approved by the Attorney General, in consultation with the Secretary of Education and the Secretary of State, under subparagraph (F), (J), or (M) of section 1101(a)(15) of this title.
 
-(Pub. L. 104–208, div. C, title VI, §641, Sept. 30, 1996, 110 Stat. 3009–704; Pub. L. 106–396, title IV, §§404–406, Oct. 30, 2000, 114 Stat. 1649, 1650; Pub. L. 106–553, §1(a)(2) \[title I, §110\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 107–56, title IV, §416(c), Oct. 26, 2001, 115 Stat. 354.)
+(Pub. L. 104–208, div. C, title VI, §641, Sept. 30, 1996, 110 Stat. 3009–704; Pub. L. 106–396, title IV, §§404–406, Oct. 30, 2000, 114 Stat. 1649, 1650; Pub. L. 106–553, §1(a)(2) \[title I, §110\], Dec. 21, 2000, 114 Stat. 2762, 2762A–68; Pub. L. 107–56, title IV, §416(c), Oct. 26, 2001, 115 Stat. 354; Pub. L. 107–173, title V, §501(a), May 14, 2002, 116 Stat. 560.)
 
 #### References in Text
 
@@ -145,6 +179,12 @@ The Family Educational Rights and Privacy Act of 1974, referred to in subsec. (c
 Section was enacted as part of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996, and also as part of the Omnibus Consolidated Appropriations Act, 1997, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
 #### Amendments
+
+2002—Subsec. (a)(3), (4). Pub. L. 107–173, §501(a)(1), added pars. (3) and (4).
+
+Subsec. (c)(1)(E) to (H). Pub. L. 107–173, §501(a)(2), added subpars. (E) to (H).
+
+Subsec. (c)(5). Pub. L. 107–173, §501(a)(3), added par. (5).
 
 2001—Subsec. (a)(1). Pub. L. 107–56, §416(c)(1), inserted “, other approved educational institutions,” after “higher education” in introductory provisions.
 
@@ -194,6 +234,10 @@ Deadline.—Such expansion shall be completed not later than 1 year after the da
 
 Subsec. (h)(2)(A). Pub. L. 106–396, §406(1), substituted “Secretary of State” for “Director of the United States Information Agency”.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Foreign Student Monitoring Program
 
 Pub. L. 107–56, title IV, §416(a), (b), Oct. 26, 2001, 115 Stat. 354, provided that:
@@ -206,7 +250,13 @@ Full Implementation and Expansion of Foreign Student Visa Monitoring Program Req
 
 Integration With Port of Entry Information.—For each alien with respect to whom information is collected under section 641 of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996 (8 U.S.C. 1372), the Attorney General, in consultation with the Secretary of State, shall include information on the date of entry and port of entry.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1761, 1762 of this title; title 6 section 252; title 15 section 7410.
+
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original. See 2000 amendment notes below.</i>
+<i><sup>2</sup></i><i> So in original. The word “and” probably should not appear.</i>
+
+<i><sup>3</sup></i><i> So in original. See 2000 amendment notes below.</i>
 

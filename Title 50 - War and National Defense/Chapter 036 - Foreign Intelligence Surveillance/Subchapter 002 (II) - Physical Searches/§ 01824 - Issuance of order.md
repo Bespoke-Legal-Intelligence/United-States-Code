@@ -10,7 +10,7 @@ Upon an application made pursuant to section 1823 of this title, the judge shall
 
 &emsp;(3) on the basis of the facts submitted by the applicant there is probable cause to believe that—
 
-&emsp;&emsp;(A) the target of the physical search is a foreign power or an agent of a foreign power,except that no United States person may be considered an agent of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States; and
+&emsp;&emsp;(A) the target of the physical search is a foreign power or an agent of a foreign power, except that no United States person may be considered an agent of a foreign power solely upon the basis of activities protected by the first amendment to the Constitution of the United States; and
 
 &emsp;&emsp;(B) the premises or property to be searched is owned, used, possessed by, or is in transit to or from an agent of a foreign power or a foreign power;
 

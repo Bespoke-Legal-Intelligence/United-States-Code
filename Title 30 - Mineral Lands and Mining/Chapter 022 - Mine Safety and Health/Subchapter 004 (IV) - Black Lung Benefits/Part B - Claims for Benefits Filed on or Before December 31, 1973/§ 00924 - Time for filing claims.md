@@ -12,7 +12,7 @@
 
 (C) No claim for benefits under this part, in the case of a claimant who is a child, shall be considered unless it is filed within six months after the death of his father or mother (whichever last occurred) or by December 31, 1973, whichever is the later.
 
-(D) Any benefit under subparagraph (A) or (B) for a month prior to the month in which a claim is filed shall be reduced, to any extent that may be necessary, so that it will not render erroneous any benefit which, before the filing of such claim, the Commissioner of Social Security has certified for payment for such prior month.
+(D) Any benefit under subparagraph (A) or (B) for a month prior to the month in which a claim is filed shall be reduced, to any extent that maybe necessary, so that it will not render erroneous any benefit which, before the filing of such claim, the Secretary has certified for payment for such prior month.
 
 (3) No claim for benefits under this part, in the case of a claimant who is a parent, brother, or sister shall be considered unless it is filed within six months after the death of the miner or by December 31, 1973, whichever is the later.
 
@@ -32,9 +32,11 @@ No benefits shall be paid under this part to the residents of any State which, a
 
 No benefits shall be payable to a widow, child, parent, brother, or sister under this part on account of the death of a miner unless (1) benefits under this part were being paid to such miner with respect to disability due to pneumoconiosis prior to his death, (2) the death of such miner occurred prior to January 1, 1974, or (3) any such individual is entitled to benefits under paragraph (5) of section 921(c) of this title.
 
-(Pub. L. 91–173, title IV, §414, Dec. 30, 1969, 83 Stat. 795; Pub. L. 92–303, §§1(c)(1), (6), 5(1)–(3), May 19, 1972, 86 Stat. 151, 152, 155; Pub. L. 95–239, §3(b)(2), Mar. 1, 1978, 92 Stat. 97; Pub. L. 103–296, title I, §108(i)(2), Aug. 15, 1994, 108 Stat. 1488.)
+(Pub. L. 91–173, title IV, §414, Dec. 30, 1969, 83 Stat. 795; Pub. L. 92–303, §§1(c)(1), (6), 5(1)–(3), May 19, 1972, 86 Stat. 151, 152, 155; Pub. L. 95–239, §3(b)(2), Mar. 1, 1978, 92 Stat. 97; Pub. L. 103–296, title I, §108(i)(2), Aug. 15, 1994, 108 Stat. 1488; Pub. L. 107–275, §2(a), Nov. 2, 2002, 116 Stat. 192.)
 
 #### Amendments
+
+2002—Subsec. (a)(2)(D). Pub. L. 107–275 substituted “Secretary” for “Commissioner of Social Security”.
 
 1994—Subsec. (a)(2)(D). Pub. L. 103–296 substituted “Commissioner of Social Security” for “Secretary”.
 
@@ -45,6 +47,10 @@ No benefits shall be payable to a widow, child, parent, brother, or sister under
 Subsec. (b). Pub. L. 92–303, §§5(1), (2), substituted “June 30, 1973” for “December 31, 1971” and “December 31, 1973” for “December 31, 1971”.
 
 Subsec. (e). Pub. L. 92–303, §§1(c)(1), 5(3), substituted “widow, child, parent, brother, or sister” for “widow” and “1974” for “1973”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–275 effective 90 days after Nov. 2, 2002, see section 4 of Pub. L. 107–275, set out as a note under section 902 of this title.
 
 #### Effective Date of 1994 Amendment
 

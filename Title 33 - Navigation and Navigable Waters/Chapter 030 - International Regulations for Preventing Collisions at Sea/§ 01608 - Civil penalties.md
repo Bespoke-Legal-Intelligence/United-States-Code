@@ -6,7 +6,7 @@ Whoever operates a vessel, subject to the provisions of this chapter, in violati
 
 #### (b) Liability of vessel for violations; seizure of vessel
 
-Every vessel subject to the provisions of this chapter, other than a public vessel being used for noncommercial purposes, which is operated in violation of this chapter or of any regulation promulgated pursuant to section 1607 of this title, shall be liable to a civil penalty of not more than $5,000 for each such violation, for which penalty the vessel may be seized and proceeded against in the district court of the United States of any district within which such vessel may be found.
+Every vessel subject to the provisions of this chapter, other than a public vessel being usedfor noncommercial purposes, which is operated in violation of this chapter or of any regulation promulgated pursuant to section 1607 of this title, shall be liable to a civil penalty of not more than $5,000 for each such violation, for which penalty the vessel may be seized and proceeded against in the district court of the United States of any district within which such vessel may be found.
 
 #### (c) Assessment of penalties; notice; opportunity for hearing; remission, mitigation, and compromise of penalty; action for collection
 
@@ -19,4 +19,8 @@ The Secretary of the department in which the Coast Guard is operating may assess
 1980—Subsec. (a). Pub. L. 96–591, §6(3), substituted “$5,000” for “$500”.
 
 Subsec. (b). Pub. L. 96–591, §6(4), substituted “not more than $5,000” for “$500”.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

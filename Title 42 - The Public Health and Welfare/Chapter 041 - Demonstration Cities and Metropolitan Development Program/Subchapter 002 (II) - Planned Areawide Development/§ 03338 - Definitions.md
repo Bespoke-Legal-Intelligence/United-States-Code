@@ -14,7 +14,7 @@ As used in this subchapter—
 
 (6) “Hospital” means any public health center or general, tuberculosis, mental, chronic disease, or other type of hospital and related facilities, such as laboratories, outpatient departments, nurses’ home and training facilities, and central service facilities normally operated in connection with hospitals, but does not include any hospital furnishing primarily domiciliary care.
 
-(7) “Areawide agency” means an official State, metropolitan, regional, or district agency empowered under State or local laws or under an interstate compact or agreement to perform comprehensive planning in an area, an organization of the type referred to in section 701(g) <sup>1</sup> of the Housing Act of 1954 \[40 U.S.C. 461(g)\]; or such other agency or instrumentality as may be designated by the Governor (or, in the case of areas crossing State lines, any one or more of such agencies or instrumentalities as may be designated by the Governors of the States involved) to perform such planning.
+(7) “Areawide agency” means an official State, metropolitan, regional, or district agency empowered under State or local laws or under an interstate compact or agreement to perform comprehensive planning in an area, an organization of the type referred to in section 701(g) <sup>1</sup> of the Housing Act of 1954; or such other agency or instrumentality as may be designated by the Governor (or, in the case of areas crossing State lines, any one or more of such agencies or instrumentalities as may be designated by the Governors of the States involved) to perform such planning.
 
 (8) “Special purpose unit of local government” means any special district, public-purpose corporation, or other limited-purpose political subdivision of a State, but shall not include a school district.
 
@@ -38,11 +38,11 @@ The Housing Act of 1961, referred to in par. (2), is Pub. L. 87–70, June 30, 1
 
 Section 101(a)(1) of the Public Works and Economic Development Act of 1965, referred to in par. (2), is section 101(a)(1) of Pub. L. 89–136, title I, Aug. 26, 1965, 79 Stat. 552, as amended, which was classified to section 3131 of this title prior to repeal by Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3597.
 
-Section 701 of the Housing Act of 1954 \[40 U.S.C. 461\], referred to in par. (7), was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
+Section 701 of the Housing Act of 1954, referred to in par. (7), is section 701 of act Aug. 2, 1954, ch. 649, 68 Stat. 640, as amended, which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, §313(b), Aug. 13, 1981, 95 Stat. 398.
 
 #### Codification
 
-In par. (2), “section 5309 of title 49” substituted for “section 3 of the Federal Transit Act \[49 App. U.S.C.1602\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In par. (2), “section 5309 of title 49” substituted for “section 3 of the Federal Transit Act \[49 App. U.S.C. 1602\]” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
 

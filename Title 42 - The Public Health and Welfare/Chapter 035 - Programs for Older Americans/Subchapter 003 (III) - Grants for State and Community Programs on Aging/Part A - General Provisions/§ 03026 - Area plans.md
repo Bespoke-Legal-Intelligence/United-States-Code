@@ -2,7 +2,7 @@
 
 #### (a) Preparation and development by area agency on aging; requirements
 
-Each area agency on aging designated under section 3025(a)(2)(A) of this title shall, in order to be approved by the State agency, prepare and develop an area plan for a planning and service area for a two-, three-, or four-year period determined by the State agency, with such annual adjustments as may be necessary. Each such plan shall be based upon a uniform format for area plans within the State prepared in accordance with section 3027(a)(1) of this title. Each such plan shall—
+Each area agency on aging designated under section 3025(a)(2)(A) of this title shall, in orderto be approved by the State agency, prepare and develop an area plan for a planning and service area for a two-, three-, or four-year period determined by the State agency, with such annual adjustments as may be necessary. Each such plan shall be based upon a uniform format for area plans within the State prepared in accordance with section 3027(a)(1) of this title. Each such plan shall—
 
 &emsp;(1) provide, through a comprehensive and coordinated system, for supportive services, nutrition services, and, where appropriate, for the establishment, maintenance, or construction of multipurpose senior centers, within the planning and service area covered by the plan, including determining the extent of need for supportive services, nutrition services, and multipurpose senior centers in such area (taking into consideration, among other things, the number of older individuals with low incomes residing in such area, the number of older individuals who have greatest economic need (with particular attention to low-income minority individuals and older individuals residing in rural areas) residing in such area, the number of older individuals who have greatest social need (with particular attention to low-income minority individuals and older individuals residing in rural areas) residing in such area, and the number of older individuals who are Indians residing in such area, and the efforts of voluntary organizations in the community), evaluating the effectiveness of the use of resources in meeting such need, and entering into agreements with providers of supportive services, nutrition services, or multipurpose senior centers in such area, for the provision of such services or centers to meet such need;
 
@@ -54,7 +54,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;&emsp;&emsp;(VI) older individuals with Alzheimer's disease or related disorders with neurological and organic brain dysfunction (and the caretakers of such individuals); and
 
-&emsp;&emsp;(ii) inform the older individuals referred to in subclauses (I) through (VI) of clause (i), and the caretakers of such individuals, of the availability of such assistance; and
+&emsp;&emsp;(ii) inform the older individuals referred to in subclauses (I) through (VI) of clause (i),and the caretakers of such individuals, of the availability of such assistance; and
 
 &emsp;(C) contain an assurance that the area agency on aging will ensure that each activity undertaken by the agency, including planning, advocacy, and systems development, will include a focus on the needs of low-income minority older individuals and older individuals residing in rural areas;
 
@@ -90,7 +90,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;(7) provide that the area agency on aging will facilitate the coordination of community-based, long-term care services designed to enable older individuals to remain in their homes, by means including—
 
-&emsp;&emsp;(A) development of case management services as a component of the long-term careservices, consistent with the requirements of paragraph (8);
+&emsp;&emsp;(A) development of case management services as a component of the long-term care services, consistent with the requirements of paragraph (8);
 
 &emsp;&emsp;(B) involvement of long-term care providers in the coordination of such services; and
 
@@ -148,7 +148,7 @@ Each area agency on aging designated under section 3025(a)(2)(A) of this title s
 
 &emsp;(15) <sup>5</sup> provide assurances that funds received under this subchapter will not be used to pay any part of a cost (including an administrative cost) incurred by the area agency on aging to carry out a contract or commercial relationship that is not carried out to implement this subchapter; <sup>6</sup>
 
-&emsp;(16) provide assurances that preference in receiving services under this subchapter will notbe given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship that is not carried out to implement this subchapter; <sup>7</sup>
+&emsp;(16) provide assurances that preference in receiving services under this subchapter will not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship that is not carried out to implement this subchapter; <sup>7</sup>
 
 #### (b) Waiver of requirements
 
@@ -196,7 +196,7 @@ The Rehabilitation Act of 1973, referred to in subsec. (c), is Pub. L. 93–112,
 
 A prior section 3026, Pub. L. 89–73, title III, §306, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 43; amended Pub. L. 94–135, title I, §107, Nov. 28, 1975, 89 Stat. 716, related to the planning, coordination, evaluation, and administration of State plans, prior to the general amendment of this subchapter by Pub. L. 95–478. See section 3028 of this title.
 
-Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 38; amended Pub. L. 94–135, title I, §§105, 106(c), Nov. 28,1975, 89 Stat. 715, 716, which was classified to section 3024 of this title prior to repeal by Pub. L. 95–478.
+Provisions similar to those comprising this section were contained in Pub. L. 89–73, title III, §304, as added Pub. L. 93–29, title III, §301, May 3, 1973, 87 Stat. 38; amended Pub. L. 94–135, title I, §§105, 106(c), Nov. 28, 1975, 89 Stat. 715, 716, which was classified to section 3024 of this title prior to repeal by Pub. L. 95–478.
 
 #### Amendments
 
@@ -264,7 +264,7 @@ Subsec. (a)(13). Pub. L. 106–501, §305(a)(11), (12), redesignated par. (14) a
 
 Subsec. (a)(14). Pub. L. 106–501, §305(a)(13), added par. (14). Former par. (14) redesignated (13).
 
-Subsec. (a)(15). Pub. L. 106–501, §305(a)(13), added par. (15) relating to assurances that preference in receivingservices under this subchapter would not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship not being carried out to implement this subchapter.
+Subsec. (a)(15). Pub. L. 106–501, §305(a)(13), added par. (15) relating to assurances that preference in receiving services under this subchapter would not be given by the area agency on aging to particular older individuals as a result of a contract or commercial relationship not being carried out to implement this subchapter.
 
 Subsec. (a)(17) to (20). Pub. L. 106–501, §305(a)(14), struck out pars. (17) to (20) which required each area plan to provide: in par. (17), assurances that projects in the planning and service area would reasonably accommodate particular dietary needs of participants, in par. (18), assurances that the area agency on aging would coordinate its services under this subchapter with services provided under subchapter X of this chapter, in par. (19), assurance that the area agency on aging would pursue activities to increase access by older individuals who are Native Americans to all aging programs and benefits provided by the agency, and, in par. (20), that case management services provided under this subchapter through the area agency on aging would be coordinated with and not duplicate other Federal and State programs and would be provided by a public agency or a nonprofit private agency either not providing services other than case management services or located in a rural area and having obtained a waiver of that requirement.
 

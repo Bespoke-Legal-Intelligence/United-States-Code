@@ -124,7 +124,7 @@ As used in this section—
 
 #### References in Text
 
-Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (c)(1), is section 1(a) of Pub.L. 96–456, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
+Section 1(a) of the Classified Information Procedures Act, referred to in subsec. (c)(1), is section 1(a) of Pub. L. 96–456, which is set out in the Appendix to Title 18, Crimes and Criminal Procedure.
 
 #### Codification
 
@@ -138,7 +138,7 @@ Subsec. (a)(1)(C). Pub. L. 107–56, §411(c)(2), inserted “or terrorism” af
 
 Subsec. (a)(2)(A). Pub. L. 107–56, §411(c)(3), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Seven days before making a designation under this subsection, the Secretary shall, by classified communication—
 
-&emsp;“(i) notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore, Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees, in writing, of the intent to designate a foreign organization under this subsection, together with the findings made under paragraph (1) with respect to that organization, and the factual basis therefor; and
+&emsp;“(i) notify the Speaker and Minority Leader of the House of Representatives, the President pro tempore,Majority Leader, and Minority Leader of the Senate, and the members of the relevant committees, in writing, of the intent to designate a foreign organization under this subsection, together with the findings made under paragraph (1) with respect to that organization, and the factual basis therefor; and
 
 &emsp;“(ii) seven days after such notification, publish the designation in the Federal Register.”
 
@@ -176,7 +176,11 @@ Amendment by section 356 of Pub. L. 104–208 effective as if included in the en
 
 Section 671(c)(7) of div. C of Pub. L. 104–208 provided that: “The amendments made by this subsection \[amending this section and sections 1105a and 1252a of this title\] shall take effect as if included in the enactment of subtitle A of title IV of AEPDA \[Pub. L. 104–132\].”
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1182 of this title; title 18 section 2339B.
+This section is referred to in section 1182 of this title; title 6 section 236; title 18 section 2339B.
 

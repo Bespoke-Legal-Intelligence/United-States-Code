@@ -48,11 +48,15 @@ Subsec. (f). Pub. L. 105–85, §1107(b), added subsec. (f).
 
 Section 4(c) of Pub. L. 101–391 provided that: “The amendments made by this section \[enacting this section\] shall take effect 60 days after the date of the publication in the Federal Register \[Nov. 24, 1992, 57 F.R. 55314\] of the master list of certified places of public accommodation maintained by the Director of the Federal Emergency Management Agency pursuant to section 28(b) of the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2224(b)\] (as added by section 3 of this Act).”
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 16 sections 5608, 5709.
+This section is referred to in title 16 sections 971a, 971b, 3608, 3641, 5608, 5709, 5727.
 

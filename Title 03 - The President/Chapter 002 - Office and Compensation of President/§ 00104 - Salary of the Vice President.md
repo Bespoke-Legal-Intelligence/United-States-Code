@@ -38,7 +38,7 @@ Section 101 of Pub. L. 101–356 provided that the amendment made by that sectio
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set outas a note under section 5301 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1989 Amendment
 
@@ -66,9 +66,11 @@ Amendment by act Jan. 19, 1949, effective noon, Jan. 20, 1949, see section 3 of 
 
 #### Salary Increases
 
-2002—Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 2002.
+2003—Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of Title 5, Government Organization and Employees, provided for the adjustment of pay rates effective Jan. 1, 2003.
 
-2001—Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided for the adjustment of pay rates effective Jan. 1, 2001, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, set out as a note under section 5332 of Title 5.
+2002—Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, which provided for the adjustment of pay rates effective Jan. 1, 2002, was superseded by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of Title 5.
+
+2001—Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided for the adjustment of pay rates effective Jan. 1, 2001, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, formerly set out as a note under section 5332 of Title 5.
 
 2000—Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for the adjustment of pay rates effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, formerly set out as a note under section 5332 of Title 5.
 
@@ -104,7 +106,7 @@ Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for the adjustmen
 
 1984—Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, which provided for the adjustment of pay rates effective Jan. 1, 1984, was superseded by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, formerly set out as a note under section 5332 of Title 5.
 
-1982—Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for the adjustment of pay rates effective Oct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477,May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1983, 49 F.R. 36493, formerly set out as a note under section 5332 of Title 5.
+1982—Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for the adjustment of pay rates effective Oct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1983, 49 F.R. 36493, formerly set out as a note under section 5332 of Title 5.
 
 Maximum rate payable after Dec. 17, 1982, increased from $79,125 to $91,000, see Pub. L. 97–377, title I, §129(b)–(d), Dec. 21, 1982, 96 Stat. 1914, set out as a note under section 5318 of Title 5.
 
@@ -136,5 +138,5 @@ Pub. L. 95–66, §1(1), July 11, 1977, 91 Stat. 270, set out as a note under se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 sections 9502, 9503, 9505; title 35 section 3.
+This section is referred to in title 5 sections 5307, 9502, 9503, 9505; title 35 section 3.
 

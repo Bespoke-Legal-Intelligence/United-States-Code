@@ -2,7 +2,7 @@
 
 #### (a) Study
 
-The Secretary of Commerce, in conjunction with the Secretary of Agriculture and the Secretary of the Interior, shall conduct a study ofthe export from the United States, during the 2-year period beginning on January 1, 1991, of unprocessed hardwood timber harvested from Federal lands or public lands east of the 100th meridian. In order to carry out the provisions of this section—
+The Secretary of Commerce, in conjunction with the Secretary of Agriculture and the Secretary of the Interior, shall conduct a study of the export from the United States, during the 2-year period beginning on January 1, 1991, of unprocessed hardwood timber harvested from Federal lands or public lands east of the 100th meridian. In order to carry out the provisions of this section—
 
 &emsp;(1) the Secretary of Commerce shall require each person exporting such timber from the United States to declare, in addition to the information normally required in the Shipper's Export Declarations, the State in which the timber was grown and harvested; and
 
@@ -10,7 +10,7 @@ The Secretary of Commerce, in conjunction with the Secretary of Agriculture and 
 
 #### (b) Report to Congress
 
-Not later than April 1, 1993, the Secretary of Commerce shall submit to the Committees on Agriculture, Natural Resources, and Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the volume and value of unprocessed timber grown and harvested from Federal lands or public lands east of the 100th meridian that is exported from the United States during the 2-year period beginning on January 1, 1991, the country to which such timber is exported, and the State in which such timber was grown and harvested.
+Not later than April 1, 1993, the Secretary of Commerce shall submit to the Committees on Agriculture, Natural Resources, and Foreign Affairs of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report describing the volume and value of unprocessed timber grown and harvested from Federal lands or public landseast of the 100th meridian that is exported from the United States during the 2-year period beginning on January 1, 1991, the country to which such timber is exported, and the State in which such timber was grown and harvested.
 
 (Pub. L. 101–382, title IV, §498, Aug. 20, 1990, 104 Stat. 725; Pub. L. 103–437, §6(d)(35), Nov. 2, 1994, 108 Stat. 4585.)
 

@@ -122,7 +122,7 @@ Subsec. (c). Pub. L. 101–508 substituted “wheat and feed grains which paymen
 
 > See Effective and Termination Dates of 1987 Amendment note below.
 
-Subsec. (a)(2)(F)(iii). Pub. L. 100–203, §1110(2), temporarily added cl. (iii) and struck out former cl. (iii)which read as follows: “50 percent of the projected payment rate,”. See Effective and Termination Dates of 1987 Amendment note below.
+Subsec. (a)(2)(F)(iii). Pub. L. 100–203, §1110(2), temporarily added cl. (iii) and struck out former cl. (iii) which read as follows: “50 percent of the projected payment rate,”. See Effective and Termination Dates of 1987 Amendment note below.
 
 1985—Pub. L. 99–198, as amended by Pub. L. 101–624, §1121(c), amended section generally, substituting provisions relating to advance deficiency and diversion payments for the 1986 through 1990 crops of wheat, feed grains, upland cotton and rice for provisions relating to advance deficiency payments for the 1982 through 1985 crops of wheat, feed grains, upland cotton and rice.
 
@@ -142,7 +142,7 @@ Section 1110 of Pub. L. 100–203 provided that the amendment made by that secti
 
 #### Effective and Termination Dates of 1985 Amendment
 
-That portion of section 1002 of Pub. L. 99–198 which provided that the amendment made by that section was effective only for 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice, was struck out by section 1121(c) of Pub. L. 101–624.
+That portion of section 1002 of Pub. L. 99–198 which provided that the amendment made by that section waseffective only for 1986 through 1990 crops of wheat, feed grains, upland cotton, and rice, was struck out by section 1121(c) of Pub. L. 101–624.
 
 #### Effective and Termination Dates
 
@@ -240,7 +240,7 @@ Application.—This subparagraph shall apply if—
 
 #### Advance Deficiency Payments
 
-Pub. L. 99–509, title I, §1021, Oct. 21, 1986, 100 Stat. 1877, required Secretary of Agriculture to make advance deficiency payments available for 1987 crops of wheat, feed grains, upland cotton, and rice, and provided that percentage of projected payment rate used in computing such payments shall not be less than (1) 40 percent in the case of wheat and feed grains, and (2) 30 percent in the case of rice and upland cotton.
+Pub. L. 99–509, title I, §1021, Oct. 21, 1986, 100 Stat. 1877, required Secretary of Agriculture to make advance deficiency payments available for 1987 crops of wheat, feed grains, upland cotton, and rice, and provided that percentage of projected payment rate used in computing such payments shall not be less than (1)40 percent in the case of wheat and feed grains, and (2) 30 percent in the case of rice and upland cotton.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ There is hereby established an interagency committee composed of the heads of th
 
 #### (b) Functions of committee
 
-It is the function of the committee to conduct a study of the socioeconomic impacts of expanded coal production and rapid energy development in general, on States, including local communities, and on the public, including the adequacy of housing and public, recreational, and cultural facilities for coal miners and their families and the effect of any Federal or State laws or regulations on providing such housing and facilities. The committee shall gather data and information on—
+It is the function of the committee to conduct a study of the socioeconomic impacts of expanded coal production and rapid energy development in general, on States, including local communities, and on the public, including the adequacy of housing and public, recreational,and cultural facilities for coal miners and their families and the effect of any Federal or State laws or regulations on providing such housing and facilities. The committee shall gather data and information on—
 
 &emsp;(1) the level of assistance provided under this chapter and any other programs related to impact assistance,
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-If a State accepts and processes an official post card form (prescribed under section 1973ff of this title) submitted by an absent uniformed services voter or overseas voter for simultaneous voter registration and absentee ballot application (in accordance with section 1973ff–1(a)(4) of this title) and the voter requests that the application be considered an application for an absentee ballot for each subsequent election for Federal office held in the State during that year, the State shall provide an absentee ballot to the voter for each subsequent election for Federal office held in the State during that year.
+If a State accepts and processes an official post card form (prescribed under section 1973ff of this title) submitted by an absent uniformed services voter or overseas voter for simultaneous voter registration and absentee ballot application (in accordance with section 1973ff–1(a)(4) of this title) and the voter requests that the application be considered an application for an absentee ballot for each subsequent election for Federal office held in the State through the next 2 regularly scheduled general elections for Federal office (including any runoff elections which may occur as a result of the outcome of such general elections), the State shall provide an absentee ballot to the voter for each such subsequent election.
 
 #### (b) Exception for voters changing registration
 
@@ -20,11 +20,23 @@ The Presidential designee shall revise the official post card form (prescribed u
 
 Nothing in this section may be construed to prevent a State from removing any voter from the rolls of registered voters in the State under any program or method permitted under section 1973gg–6 of this title.
 
-(Pub. L. 99–410, title I, §104, Aug. 28, 1986, 100 Stat. 926; Pub. L. 107–107, div. A, title XVI, §1606(b), Dec. 28, 2001, 115 Stat. 1279.)
+#### (e) Prohibition of refusal of applications on grounds of early submission
+
+A State may not refuse to accept or process, with respect to any election for Federal office, any otherwise valid voter registration application or absentee ballot application (including the postcard form prescribed under section 1973ff of this title) submitted by an absent uniformed services voter during a year on the grounds that the voter submitted the application before the first date on which the State otherwise accepts or processes such applications for that year submitted by absentee voters who are not members of the uniformed services.
+
+(Pub. L. 99–410, title I, §104, Aug. 28, 1986, 100 Stat. 926; Pub. L. 107–107, div. A, title XVI, §1606(b), Dec. 28, 2001, 115 Stat. 1279; Pub. L. 107–252, title VII, §§704, 706(a), Oct. 29, 2002, 116 Stat. 1724, 1725.)
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–252, §704, substituted “through the next 2 regularly scheduled general elections for Federal office (including any runoff elections which may occur as a result of the outcome of such general elections), the State shall provide an absentee ballot to the voter for each such subsequent election” for “during that year, the State shall provide an absentee ballot to the voter for each subsequent election for Federal office held in the State during that year”.
+
+Subsec. (e). Pub. L. 107–252, §706(a), added subsec. (e).
+
 2001—Pub. L. 107–107 amended section catchline and text generally, substituting provisions relating to use of single application for all subsequent elections for provisions relating to recommendations to States to maximize access to polls by absent uniformed services voters and overseas voters.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–252, title VII, §706(b), Oct. 29, 2002, 116 Stat. 1725, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to elections for Federal office that occur after January 1, 2004.”
 
 #### Section Referred to in Other Sections
 

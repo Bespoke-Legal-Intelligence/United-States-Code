@@ -6,7 +6,7 @@ In order that the Congress and the American people may be better and more curren
 
 &emsp;(1)(A) a comprehensive and coordinated review of all United States policies and programs having a major impact on the development of developing countries, including but not limited to bilateral and multilateral assistance, trade, debt, employment, food, energy, technology, population, oceans, environment, human settlements, natural resources, and participation in international agencies concerned with development;
 
-&emsp;(B) an assessment of the impact of such policies and programs on the well-being of the poor majority in developing countries in accordance with the policy objectives of part I of subchapter I of this chapter, including increasing life expectancy and literacy, lowering infant mortality and birth rates, and increasing food production and employment, such assessment to include an evaluation of the extent to which programs under part I of subchapter I of this chapter directly benefit the poor majority; and
+&emsp;(B) an assessment of the impact of such policies and programs on the well-being of the poor majority in developing countries in accordance with the policy objectives of part I of subchapter I of this chapter, including increasing life expectancy and literacy, lowering infant mortality and birth rates, and increasing food production and employment, such assessment to include an evaluation of the extent to which programs under part I of subchapter I ofthis chapter directly benefit the poor majority; and
 
 &emsp;(C) an assessment of the impact of such policies and programs on economic conditions in the United States, including but not limited to employment, wages, and working conditions;
 
@@ -56,7 +56,7 @@ For purposes of this section—
 
 &emsp;(2) “provided by the United States Government” includes, but is not limited to, foreign assistance provided by means of gift, loan, sale, credit, or guaranty.
 
-(Pub. L. 87–195, pt. III, §634, Sept. 4, 1961, 75 Stat. 455; Pub. L. 87–565, pt. III, §302(e), (f), Aug. 1,1962, 76 Stat. 262; Pub. L. 89–583, pt. III, §302(c), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(h), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–629, ch. 4, §45(a), (b)(4), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 91–175, pt. III, §305, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. III, §304(a)(3), (c)(2), Feb. 7, 1972, 86 Stat. 28, 32; Pub. L. 93–189, §17, Dec. 17, 1973, 87 Stat. 724; Pub. L. 93–559, §14, Dec. 30, 1974, 88 Stat. 1799; Pub. L. 94–273, §6(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–329, title II, §209(b), June 30, 1976, 90 Stat. 739; Pub. L. 95–424, title V, §502(a)(1), (2), Oct. 6, 1978, 92 Stat. 957; Pub. L. 96–533, title VII, §707, Dec. 16, 1980, 94 Stat. 3159; Pub. L. 97–113, title VII, §733, Dec. 29, 1981, 95 Stat. 1559; Pub. L. 99–83, title III, §312(b), Aug. 8, 1985, 99 Stat. 216.)
+(Pub. L. 87–195, pt. III, §634, Sept. 4, 1961, 75 Stat. 455; Pub. L. 87–565, pt. III, §302(e), (f), Aug. 1, 1962, 76 Stat. 262; Pub. L. 89–583, pt. III, §302(c), Sept. 19, 1966, 80 Stat. 807; Pub. L. 90–137, pt. III, §302(h), Nov. 14, 1967, 81 Stat. 460; Pub. L. 90–629, ch. 4, §45(a), (b)(4), Oct. 22, 1968, 82 Stat. 1327; Pub. L. 91–175, pt. III, §305, Dec. 30, 1969, 83 Stat. 821; Pub. L. 92–226, pt. III, §304(a)(3), (c)(2), Feb. 7, 1972, 86 Stat. 28, 32; Pub. L. 93–189, §17, Dec. 17, 1973, 87 Stat. 724; Pub. L. 93–559, §14, Dec. 30, 1974, 88 Stat. 1799; Pub. L. 94–273, §6(1), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–329, title II, §209(b), June 30, 1976, 90 Stat. 739; Pub. L. 95–424, title V, §502(a)(1), (2), Oct. 6, 1978, 92 Stat. 957; Pub. L. 96–533, title VII, §707, Dec. 16, 1980, 94 Stat. 3159; Pub. L. 97–113, title VII, §733, Dec. 29, 1981, 95 Stat. 1559; Pub. L. 99–83, title III, §312(b), Aug. 8, 1985, 99 Stat. 216.)
 
 #### References in Text
 
@@ -112,7 +112,7 @@ Subsec. (f). Pub. L. 94–273 substituted “September” for “June” and “
 
 Subsec. (g). Pub. L. 93–189 added subsec. (g).
 
-1972—Subsec. (a). Pub. L. 92–226, §304(c)(2), struck out provisions for annual report to Congress concerning operations under this chapter, including information onthe progress of the freedom of navigation and nondiscrimination declaration. See annual foreign assistance report provisions of section 2417 of this title.
+1972—Subsec. (a). Pub. L. 92–226, §304(c)(2), struck out provisions for annual report to Congress concerning operations under this chapter, including information on the progress of the freedom of navigation and nondiscrimination declaration. See annual foreign assistance report provisions of section 2417 of this title.
 
 Subsec. (d). Pub. L. 92–226, §304(a)(3), substituted in last sentence reference to section “2360(b)” for prior reference to sections “2360, 2364(a)”.
 
@@ -154,23 +154,7 @@ Determinations, authorizations, regulations, orders, contracts, agreements, and 
 
 #### Annual Report on Economic and Social Growth
 
-Pub. L. 104–107, title V, §574, Feb. 12, 1996, 110 Stat. 749, provided that:
-
-“(a)
-
-Reporting Requirement.—The President shall submit to the appropriate congressional committees an annual report providing a concise overview of the prospects for economic and social growth on a broad, equitable, and sustainable basis in the countries receiving economic assistance under title II of this Act \[see Tables for classification\]. For each country, the report shall discuss the laws, policies and practices of that country that most contribute to or detract from the achievement of this kind of growth. The report should address relevant macroeconomic, microeconomic, social, legal, environmental, and political factors and include criteria regarding wage and price controls, State ownership of production and distribution, State control of financial institutions, trade and foreign investment, capital and profit repatriation, tax and private property protections and a country's commitment to stimulate education, health and human development.
-
-“(b)
-
-Countries.—The countries referred to in subsection (a) are countries—
-
-&emsp;“(1) for which in excess of $5,000,000 has been obligated during the previous fiscal year for assistance under sections 103 through 106 \[22 U.S.C. 2151a to 2151d\], chapters 10 \[22 U.S.C. 2293 et seq.\] and 11 \[22 U.S.C. 2295 et seq.\] of part I, and chapter 4 of part II \[22 U.S.C. 2346 et seq.\] of the Foreign Assistance of 1961, and under the Support for East European Democracy Act of 1989 \[22 U.S.C. 5401 et seq.\]; or
-
-&emsp;“(2) for which in excess of $1,000,000 has been obligated during the previous fiscal year by the Overseas Private Investment Corporation.
-
-“(c)
-
-Consultation.—The Secretary of State shall submit the report required by subsection (a) in consultation with the Secretary of the Treasury, the Administrator of the Agency for International Development, and the President of the Overseas Private Investment Corporation. The report shall be submitted with the annual congressional presentation for appropriations.”
+Pub. L. 104–107, title V, §574, Feb. 12, 1996, 110 Stat. 749, required the President to submit to the appropriate congressional committees an annual report providing a concise overview of the prospects for economic and social growth in countries receiving economic assistance under title II of Pub. L. 104–107, prior to repeal by Pub. L. 107–228, div. A, title VI, §671(2), Sept. 30, 2002, 116 Stat. 1407.
 
 #### Progress Report of Implementation of Immunization and Oral Rehydration Promotion Programs
 

@@ -46,7 +46,7 @@ Subsection (a) of this section shall apply with respect to costs incurred under 
 
 #### Codification
 
-Section was enacted as part of the Department of Defense Authorization Act, 1986, and also as part of theDepartment of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1986, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the Department of Defense Authorization Act, 1986, and also as part of the Department of Energy National Security and Military Applications of Nuclear Energy Authorization Act of 1986, and not as part of the Department of Energy Organization Act which comprises this chapter.
 
 #### Amendments
 

@@ -7,6 +7,7 @@
 | [313\.](%C2%A7%2000313%20-%20Duties%20of%20Secretary%20of%20Commerce.md) | Duties of Secretary of Commerce. |
 | [313a.](%C2%A7%2000313a%20-%20Establishment%20of%20meteorological%20observation%20stations%20in%20the%20Arctic%20region.md) | Establishment of meteorological observation stations in the Arctic region. |
 | [313b.](%C2%A7%2000313b%20-%20Institute%20for%20Aviation%20Weather%20Prediction.md) | Institute for Aviation Weather Prediction. |
+| [313c.](%C2%A7%2000313c%20-%20Authorized%20activities%20of%20the%20National%20Oceanic%20and%20Atmospheric%20Administration.md) | Authorized activities of the National Oceanic and Atmospheric Administration. |
 | [314\.](%C2%A7%2000314%20-%20Omitted.md) | Omitted. |
 | [315\.](%C2%A7%2000315%20-%20Changes%20or%20assignment%20to%20duty.md) | Changes or assignment to duty. |
 | [316\.](%C2%A7%2000316%20-%20Omitted.md) | Omitted. |
@@ -33,6 +34,7 @@
 - [&sect; 00313 - Duties of Secretary of Commerce](%C2%A7%2000313%20-%20Duties%20of%20Secretary%20of%20Commerce.md)
 - [&sect; 00313a - Establishment of meteorological observation stations in the Arctic region](%C2%A7%2000313a%20-%20Establishment%20of%20meteorological%20observation%20stations%20in%20the%20Arctic%20region.md)
 - [&sect; 00313b - Institute for Aviation Weather Prediction](%C2%A7%2000313b%20-%20Institute%20for%20Aviation%20Weather%20Prediction.md)
+- [&sect; 00313c - Authorized activities of the National Oceanic and Atmospheric Administration](%C2%A7%2000313c%20-%20Authorized%20activities%20of%20the%20National%20Oceanic%20and%20Atmospheric%20Administration.md)
 - [&sect; 00314 - Omitted](%C2%A7%2000314%20-%20Omitted.md)
 - [&sect; 00315 - Changes or assignment to duty](%C2%A7%2000315%20-%20Changes%20or%20assignment%20to%20duty.md)
 - [&sect; 00316 - Omitted](%C2%A7%2000316%20-%20Omitted.md)

@@ -6,13 +6,15 @@
 | [1782\.](%C2%A7%2001782%20-%20Assistance%20to%20foreign%20and%20international%20tribunals%20and%20to%20litigants%20before%20such%20tribunals.md) | Assistance to foreign and international tribunals and to litigants before such tribunals. |
 | [1783\.](%C2%A7%2001783%20-%20Subpoena%20of%20person%20in%20foreign%20country.md) | Subpoena of person in foreign country. |
 | [1784\.](%C2%A7%2001784%20-%20Contempt.md) | Contempt. |
-| \[1785. | Repealed.\] |
+| [1785\.](%C2%A7%2001785%20-%20Subpoenas%20in%20multiparty%2C%20multiforum%20actions.md) | Subpoenas in multiparty, multiforum actions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>1964</b>—Pub. L. 88–619, §§8(b), 9(b), 10(b), 12(b), Oct. 3, 1964, 78 Stat. 997, 998, substituted “Transmittal of letter rogatory or request” for “Foreign witnesses” in item 1781, “Assistance to foreign and international tribunals and to litigants before such tribunals” for “Testimony for use in foreign countries” in item 1782, “person” for “witness” in item 1783, and struck out item 1785 “Privilege against incrimination”.
+2002—Pub. L. 107–273, div. C, title I, §11020(b)(4)(B)(ii), Nov. 2, 2002, 116 Stat. 1829, added item 1785.
+
+1964—Pub. L. 88–619, §§8(b), 9(b), 10(b), 12(b), Oct. 3, 1964, 78 Stat. 997, 998, substituted “Transmittal of letter rogatory or request” for “Foreign witnesses” in item 1781, “Assistance to foreign and international tribunals and to litigants before such tribunals” for “Testimony for use in foreign countries” in item 1782, “person” for “witness” in item 1783, and struck out item 1785 “Privilege against incrimination”.
 
 #### Depositions in Admiralty Cases
 
@@ -43,4 +45,4 @@ R.S. §§863 to 865, as amended, quoted above, were applicable to admiralty proc
 - [&sect; 01782 - Assistance to foreign and international tribunals and to litigants before such tribunals](%C2%A7%2001782%20-%20Assistance%20to%20foreign%20and%20international%20tribunals%20and%20to%20litigants%20before%20such%20tribunals.md)
 - [&sect; 01783 - Subpoena of person in foreign country](%C2%A7%2001783%20-%20Subpoena%20of%20person%20in%20foreign%20country.md)
 - [&sect; 01784 - Contempt](%C2%A7%2001784%20-%20Contempt.md)
-- [&sect; 01785 - Repealed. Pub. L. 88&#8211;619, &sect;12(a), Oct. 3, 1964, 78 Stat. 998](%C2%A7%2001785%20-%20Repealed.%20Pub.%20L.%2088%E2%80%93619%2C%20%C2%A712%28a%29%2C%20Oct.%203%2C%201964%2C%2078%20Stat.%20998.md)
+- [&sect; 01785 - Subpoenas in multiparty, multiforum actions](%C2%A7%2001785%20-%20Subpoenas%20in%20multiparty%2C%20multiforum%20actions.md)

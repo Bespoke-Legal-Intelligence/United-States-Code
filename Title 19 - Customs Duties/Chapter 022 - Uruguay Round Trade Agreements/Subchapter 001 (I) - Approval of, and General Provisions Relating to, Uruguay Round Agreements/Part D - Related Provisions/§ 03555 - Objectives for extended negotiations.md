@@ -2,7 +2,7 @@
 
 #### (a) Trade in financial services
 
-The principal negotiating objective of the United States in the extended negotiations on financial services to be conducted under the auspices of the WTO is to seek to secure commitments, from a wide range of commercially important developed and developing countries, to reduce or eliminate barriers to the supply of financial services, including barriers that deny national treatment or market access by restricting the establishment or operation of financial services providers, as the condition for the United States—
+The principal negotiating objective of the United States in the extended negotiations on financial services to be conducted under the auspices of the WTO is to seek to secure commitments, from a wide range of commercially important developed and developing countries, toreduce or eliminate barriers to the supply of financial services, including barriers that deny national treatment or market access by restricting the establishment or operation of financial services providers, as the condition for the United States—
 
 &emsp;(1) offering commitments to provide national treatment and market access in each of the financial services subsectors, and
 
@@ -51,4 +51,8 @@ The principal negotiating objective of the United States in the extended negotia
 #### Effective Date
 
 Section effective on date on which WTO Agreement enters into force with respect to United States \[Jan. 1, 1995\], see section 138(b) of Pub. L. 103–465, set out as a note under section 3551 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 3802 of this title.
 

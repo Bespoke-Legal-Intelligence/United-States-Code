@@ -136,5 +136,5 @@ In subsection (b), before clause (1), the words “A person may not” are subst
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 80303 of this title; title 19 section 1595a.
+This section is referred to in sections 80303, 80304 of this title; title 19 section 1595a.
 

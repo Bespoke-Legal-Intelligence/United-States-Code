@@ -150,7 +150,7 @@ Section effective Oct. 17, 1986, except that subsec. (a)(2)(C) (other than cls. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1071, 1075, 1077a, 1078, 1078–2, 1078–8, 1085, 1087e of this title.
+This section is referred to in sections 1071, 1075, 1077a, 1078, 1078–2, 1078–8, 1085, 1087–1, 1087e of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

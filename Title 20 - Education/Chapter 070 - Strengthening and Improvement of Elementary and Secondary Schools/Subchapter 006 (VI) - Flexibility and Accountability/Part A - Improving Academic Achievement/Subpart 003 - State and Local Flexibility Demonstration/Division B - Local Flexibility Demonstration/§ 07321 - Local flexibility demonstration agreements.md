@@ -36,7 +36,7 @@ Except as otherwise provided in this division, the Secretary shall, on a competi
 
 #### (C) Priority of States to enter into State flexibility demonstration agreements
 
-&emsp;&emsp;Notwithstanding any other provision of this part, a local educational agency maynot seek to enter into a local flexibility demonstration agreement under this division if that agency is located in a State for which the State educational agency—
+&emsp;&emsp;Notwithstanding any other provision of this part, a local educational agency may not seek to enter into a local flexibility demonstration agreement under this division if that agency is located in a State for which the State educational agency—
 
 &emsp;&emsp;&emsp;(i) has, not later than 4 months after January 8, 2002, notified the Secretary of its intent to apply for a grant of flexibility authority under division A of this subpart and, within such period of time as the Secretary may establish, is provided with such authority by the Secretary; or
 
@@ -60,7 +60,7 @@ Each local flexibility demonstration agreement entered into with the Secretary u
 
 #### (4) Use of funds to improve student achievement
 
-&emsp;The local flexibility demonstration agreement shall contain a 5-year plan describing how the local educational agency intends to consolidate and use the funds from programs included in the scope of the agreement for any educational purpose authorized under this chapter to advance the education priorities of the local educational agency, meet the general purposes of the included programs, improve student achievement, and narrow achievement gaps in accordance with section 6311(b) of this title.
+&emsp;The local flexibility demonstration agreement shall contain a 5-year plan describing how the local educational agency intends to consolidate and use the funds from programs included in the scope of the agreement for any educational purpose authorized under this chapter to advance the education priorities ofthe local educational agency, meet the general purposes of the included programs, improve student achievement, and narrow achievement gaps in accordance with section 6311(b) of this title.
 
 #### (5) Local input
 
@@ -124,7 +124,7 @@ The Secretary shall—
 
 #### (C) Notification
 
-&emsp;&emsp;If the Secretary finds that the proposed amendment is not in compliance, in whole or in part, with this division, the Secretary shall—
+&emsp;&emsp;If the Secretary finds that the proposed amendment is not in compliance, in whole orin part, with this division, the Secretary shall—
 
 &emsp;&emsp;&emsp;(i) give the local educational agency notice and an opportunity for a hearing; and
 

@@ -20,5 +20,5 @@ A person who is convicted of an offense under section 1028, 1029, 1341, 1342, 13
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2327, 3059 of this title.
+This section is referred to in section 2327 of this title.
 

@@ -18,7 +18,7 @@ Subsection (a) of this section shall not in any way affect payments to the State
 
 #### (c) Spending authority
 
-Any spending authority (as defined in section 651 of title 2) provided in this subchapter shallbe effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
+Any spending authority (as defined in section 651 of title 2) provided in this subchapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
 
 (Pub. L. 101–624, title XXIII, §2379, Nov. 28, 1990, 104 Stat. 4049.)
 

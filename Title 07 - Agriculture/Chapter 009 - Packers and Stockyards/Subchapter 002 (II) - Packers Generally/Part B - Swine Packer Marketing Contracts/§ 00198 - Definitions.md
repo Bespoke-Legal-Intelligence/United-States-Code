@@ -42,7 +42,7 @@ Except as provided in section 198b(a) of this title, in this part:
 
 #### Termination of Section
 
-<i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Re</i><i>porting note set out under section 1635 of this title.</i>
+<i>For termination of section by section 942 of Pub. L. 106–78, see Livestock Mandatory Reporting note set out under section 1635 of this title.</i>
 
 #### Termination Date
 

@@ -1,6 +1,6 @@
 ### §7118. Prevention of unfair labor practices
 
-(a)(1) If any agency or labor organization is charged by any person with having engaged in or engaging in an unfair labor practice, the General Counsel shall investigate the charge and may issue and cause to be served upon the agency or labor organization a complaint. In any case in which the General Counsel does not issuea complaint because the charge fails to state an unfair labor practice, the General Counsel shall provide the person making the charge a written statement of the reasons for not issuing a complaint.
+(a)(1) If any agency or labor organization is charged by any person with having engaged in or engaging in an unfair labor practice, the General Counsel shall investigate the charge and may issue and cause to be served upon the agency or labor organization a complaint. In any case in which the General Counsel does not issue a complaint because the charge fails to state an unfair labor practice, the General Counsel shall provide the person making the charge a written statement of the reasons for not issuing a complaint.
 
 (2) Any complaint under paragraph (1) of this subsection shall contain a notice—
 

@@ -48,7 +48,7 @@ Subject to subsection (b)(4) of this section, an owner or producer may enroll as
 
 #### (f) Voluntary reduction in contract acreage
 
-Subject to subsection (b)(4) of this section, an owner or producer who enters into a contract may subsequently reduce the quantity of contract acreage covered by the contract.
+Subject to subsection (b)(4) of this section, an owner or producer who enters into a contractmay subsequently reduce the quantity of contract acreage covered by the contract.
 
 (Pub. L. 104–127, title I, §111, Apr. 4, 1996, 110 Stat. 898.)
 
@@ -66,5 +66,5 @@ Pub. L. 104–180, title VII, §726, Aug. 6, 1996, 110 Stat. 1600, provided that
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 7202, 7216 of this title.
+This section is referred to in sections 7202, 7216, 7917 of this title.
 

@@ -6,7 +6,7 @@
 
 (b) Amounts available to the Secretary for State recreational boating safety programs for a fiscal year that have not been allocated at the end of the fiscal year shall be allocated among States in the next fiscal year in addition to amounts otherwise available for allocation to States for that next fiscal year.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 595; Pub. L. 99–307, §1(18), May 19, 1986, 100 Stat. 446; Pub. L.102–587, title V, §5101, Nov. 4, 1992, 106 Stat. 5070; Pub. L. 105–178, title VII, §7405(a), June 9, 1998, 112 Stat. 487.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 595; Pub. L. 99–307, §1(18), May 19, 1986, 100 Stat. 446; Pub. L. 102–587, title V, §5101, Nov. 4, 1992, 106 Stat. 5070; Pub. L. 105–178, title VII, §7405(a), June 9, 1998, 112 Stat. 487.)
 
 Historical and Revision Notes
 

@@ -16,7 +16,7 @@ The Institute shall be—
 
 The duties of the Institute shall include the following:
 
-&emsp;(1) The assembly of timely and authoritative information regarding significant developments and trends in science and technology research and development in the United States and abroad, including information relating to the technologies identified in the most recent biennial report submitted to Congress by the President pursuant to section 6683(d) <sup>1</sup> of this title and developing and maintaining relevant informational and analytical tools.
+&emsp;(1) The assembly of timely and authoritative information regarding significant developments and trends in science and technology research and development in the United States and abroad, including information relating tothe technologies identified in the most recent biennial report submitted to Congress by the President pursuant to section 6683(d) <sup>1</sup> of this title and developing and maintaining relevant informational and analytical tools.
 
 &emsp;(2) Analysis and interpretation of the information referred to in paragraph (1) with particular attention to the scope and content of the Federal science and technology research and development portfolio as it affects interagency and national issues.
 
@@ -44,7 +44,7 @@ The Institute shall submit to the President an annual report on the activities o
 
 (1) The Director of the National Science Foundation shall be the sponsor of the Institute.
 
-(2) The Director of the National Science Foundation, in consultation with the Director of Office of Science and Technology Policy, shall enter into a sponsoring agreement with respect to the Institute. The sponsoring agreement shall require that the Institute carry out such functions as the Director of Office of Science and Technology Policy may specify consistent withthe duties referred to in subsection (c) of this section. The sponsoring agreement shall be consistent with the general requirements prescribed for such a sponsoring agreement by the Administrator for Federal Procurement Policy.
+(2) The Director of the National Science Foundation, in consultation with the Director of Office of Science and Technology Policy, shall enter into a sponsoring agreement with respect to the Institute. The sponsoring agreement shall require that the Institute carry out such functions as the Director of Office of Science and Technology Policy may specify consistent with the duties referred to in subsection (c) of this section. The sponsoring agreement shall be consistent with the general requirements prescribed for such a sponsoring agreement by the Administrator for Federal Procurement Policy.
 
 (Pub. L. 101–510, div. A, title VIII, §822, Nov. 5, 1990, 104 Stat. 1598; Pub. L. 102–25, title VII, §704(a)(5), Apr. 6, 1991, 105 Stat. 118; Pub. L. 102–190, div. A, title VIII, §822(c)(1), Dec. 5, 1991, 105 Stat. 1433; Pub. L. 103–160, div. A, title VIII, §803, Nov. 30, 1993, 107 Stat. 1701; Pub. L. 104–201, div. A, title X, §1073(e)(1)(C), Sept. 23, 1996, 110 Stat. 2658; Pub. L. 105–207, title II, §208(a), July 29, 1998, 112 Stat. 877.)
 
@@ -88,7 +88,7 @@ Subsec. (c)(2). Pub. L. 105–207, §208(a)(4)(D), substituted “with particula
 
 Subsec. (c)(3). Pub. L. 105–207, §208(a)(4)(E), amended par. (3) generally. Prior to amendment, par. (3) read as follows: “Initiation of studies and analyses (including systems analyses and technology assessments) of alternatives available for ensuring long-term leadership by the United States in the development and application of the technologies referred to in paragraph (1), including appropriate roles for the Federal Government, State governments, private industry, and institutions of higher education in the development and application of such technologies.”
 
-Subsec. (c)(4). Pub. L. 105–207, §208(a)(4)(F), (G), inserted “science and” after “Executive branch on” in subpar. (A) and amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to the committees and panels of the Federal Coordinating Council for Science, Engineering, and Technology that are responsible for planning and coordinating activities of the Federal Government to advance the development of critical technologies and sustain and strengthen the technology base of the United States.”
+Subsec. (c)(4). Pub. L. 105–207, §208(a)(4)(F), (G), inserted “science and” after “Executive branch on” in subpar. (A) and amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “to the committees and panels of the Federal Coordinating Councilfor Science, Engineering, and Technology that are responsible for planning and coordinating activities of the Federal Government to advance the development of critical technologies and sustain and strengthen the technology base of the United States.”
 
 Subsec. (d). Pub. L. 105–207, §208(a)(3), (5), redesignated subsec. (e) as (d) and substituted “subsection (c)” for “subsection (d)” in introductory provisions. Former subsec. (d) redesignated (c).
 
@@ -130,7 +130,7 @@ Section 822(d)(2) of Pub. L. 102–190 provided that: “There is authorized to 
 
 #### References to Critical Technologies Institute
 
-Pub. L. 105–207, title II, §208(b), July 29, 1998, 112 Stat. 878, provided that: “All references in Federal law orregulations to the Critical Technologies Institute shall be considered to be references to the Science and Technology Policy Institute.”
+Pub. L. 105–207, title II, §208(b), July 29, 1998, 112 Stat. 878, provided that: “All references in Federal law or regulations to the Critical Technologies Institute shall be considered to be references to the Science and Technology Policy Institute.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

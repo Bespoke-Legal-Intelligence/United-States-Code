@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(i) the amount of the family assistance grant payable to the territory without regard to section 609 of this title; and
 
-&emsp;&emsp;&emsp;(ii) the total amount expended by the territory during fiscal year 1995 pursuant to parts A and F of subchapter IV of this chapter (as so in effect), other than for child care.
+&emsp;&emsp;&emsp;(ii) the total amount expended by the territory during fiscal year 1995 pursuantto parts A and F of subchapter IV of this chapter (as so in effect), other than for child care.
 
 #### (2) Appropriation
 
@@ -108,13 +108,13 @@ Subject to subsection (g) of this section, the total amount certified by the Sec
 
 &emsp;Notwithstanding subsection (f) of this section, with respect to fiscal year 1999 and any fiscal year thereafter, the total amount certified by the Secretary under subchapter XIX of this chapter for payment to—
 
-&emsp;&emsp;(A) Puerto Rico shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase in the medical care component of the Consumer Price Index for all urban consumers (as published by the Bureau of Labor Statistics) for the 12-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
+&emsp;&emsp;(A) Puerto Rico shall not exceed the sum of the amount provided in this subsection forthe preceding fiscal year increased by the percentage increase in the medical care component of the Consumer Price Index for all urban consumers (as published by the Bureau of Labor Statistics) for the 12-month period ending in March preceding the beginning of the fiscal year, rounded to the nearest $100,000;
 
 &emsp;&emsp;(B) the Virgin Islands shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
 
 &emsp;&emsp;(C) Guam shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000;
 
-&emsp;&emsp;(D) the Northern Mariana Islands shall not exceed the sum of the amount provided in this subsection for the preceding fiscal yearincreased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
+&emsp;&emsp;(D) the Northern Mariana Islands shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000; and
 
 &emsp;&emsp;(E) American Samoa shall not exceed the sum of the amount provided in this subsection for the preceding fiscal year increased by the percentage increase referred to in subparagraph (A), rounded to the nearest $10,000.
 
@@ -164,7 +164,7 @@ Subsec. (f). Pub. L. 104–193, §103(b)(2), redesignated subsec. (c) as (f).
 
 “(3) Guam shall not exceed (A) $2,320,000 for fiscal year 1988, (B) $2,410,000 for fiscal year 1989, and (C) $2,500,000 for fiscal year 1990 (and each succeeding fiscal year);
 
-“(4) the Northern Mariana Islands shall not exceed (A) $636,700 for fiscal year 1988, (B) $693,350 for fiscal year 1989, and (C) $750,000 for fiscal year 1990 (and each succeeding fiscal year); and
+“(4) the Northern Mariana Islands shall not exceed (A) $636,700 for fiscal year 1988, (B) $693,350 for fiscalyear 1989, and (C) $750,000 for fiscal year 1990 (and each succeeding fiscal year); and
 
 “(5) American Samoa shall not exceed (A) $1,330,000 for fiscal year 1988, (B) $1,390,000 for fiscal year 1989, and (C) $1,450,000 for fiscal year 1990 (and each succeeding fiscal year).”
 

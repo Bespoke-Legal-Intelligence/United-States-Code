@@ -16,7 +16,7 @@ Any proceeding under subsection (b) of this section shall be governed by the fol
 
 &emsp;(2) A war contractor may initiate proceedings in accordance with subsection (b) of this section (i) within ninety days after delivery to him of the findings by the contracting agency, or (ii) in case of protests or appeal within the agency, within ninety days after the determination of such protest or appeal, or (iii) in case of failure to deliver such findings, within one year after his demand therefor. If he does not initiate such proceedings within the time specified, he shall be precluded thereafter from initiating any proceedings in accordance with subsection (b) of this section, and the findings of the contracting agency shall be final and conclusive, or if no findings were made, he shall be deemed to have waived such termination claim.
 
-&emsp;(3) Notwithstanding any contrary provision in any war contract, the court shall not be bound by the findings of the contracting agency, but shall treat such findings as prima facie correct, and the burden shall be on the war contractor to establish that the amount due on his claim or part thereof exceeds the amount allowed by the findings of the contracting agency. Whenever the court finds that the war contractor failed to negotiate in good faith with the contracting agency for the settlement of his claim or part thereof before appeal or suit thereon, or failed to furnish to the agency any information reasonably requested by it regarding his termination claim or part thereof, or failed to prosecute diligently any protest or appeal required to be taken under subsection (c)(1)(ii) of this section, the court (i) may refuse to receive in evidence any information not submitted to the contracting agency; (ii) may deny interest on the claim or part thereof for such period as it deems proper; or (iii) may remand the case to the contracting agency for further proceedings upon such terms as the court may prescribe. Unless the case is remanded, the court shall enter the appropriate award or judgment on the basis of the law and facts, and may increase or decrease the amount allowed by the findings of the contracting agency.
+&emsp;(3) Notwithstanding any contrary provision in any war contract, the court shall not bebound by the findings of the contracting agency, but shall treat such findings as prima facie correct, and the burden shall be on the war contractor to establish that the amount due on his claim or part thereof exceeds the amount allowed by the findings of the contracting agency. Whenever the court finds that the war contractor failed to negotiate in good faith with the contracting agency for the settlement of his claim or part thereof before appeal or suit thereon, or failed to furnish to the agency any information reasonably requested by it regarding his termination claim or part thereof, or failed to prosecute diligently any protest or appeal required to be taken under subsection (c)(1)(ii) of this section, the court (i) may refuse to receive in evidence any information not submitted to the contracting agency; (ii) may deny interest on the claim or part thereof for such period as it deems proper; or (iii) may remand the case to the contracting agency for further proceedings upon such terms as the court may prescribe. Unless the case is remanded, the court shall enter the appropriate award or judgment on the basis of the law and facts, and may increase or decrease the amount allowed by the findings of the contracting agency.
 
 &emsp;(4) Any such proceedings shall not affect the authority of the contracting agency concerned to make a settlement of the termination claim, or any part thereof, by agreement with the war contractor at any time before such proceedings are concluded.
 
@@ -62,17 +62,17 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works.
+Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 “Secretary” substituted for “Director” by section 8 of Ex. Ord. No. 9809 and section 201 of Reorg. Plan No. 1 of 1947, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date of Transfer of Functions
 
-Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605 of act June 30, 1949, set out as an Effective Date note under section 471 of Title 40, Public Buildings, Property, and Works.
+Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Abolition of Reconstruction Finance Corporation
 
-Reorg. Plan No. 1 of 1957, §6(a), eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title 5, Government Organization and Employees, abolished Reconstruction Finance Corporation.
+Reorg. Plan No. 1 of 1957, §6(a), eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 647, set out in the Appendix to Title5, Government Organization and Employees, abolished Reconstruction Finance Corporation.
 
 #### Abolition of Appeals Board; Termination of Appeals; No Further Appeals Accepted; Return of Erroneous Filed Appeals
 
@@ -80,7 +80,7 @@ Act July 14, 1952, ch. 739, 66 Stat. 627, provided: “That the Appeal Board est
 
 “Sec. 2. (a) Upon the effective date of the abolition of the Appeal Board all appeals and disputes pending therein shall be terminated without prejudice and the right of the parties to pursue such other remedies as are provided by law shall not be affected thereby.
 
-“(b) In any such terminated appeal, timely initiated in the Appeal Board, where the period for pursuit of any other remedy pursuant to section 13(b)(2) of the Contract Settlement Act of 1944 \[41 U.S.C. 113(b)(2)\] shall have expired or would expire within sixty days after the effective date of the abolition of the AppealBoard, the period within which proceedings may be initiated in accordance with the said section shall be extended to sixty days after said effective date.
+“(b) In any such terminated appeal, timely initiated in the Appeal Board, where the period for pursuit of any other remedy pursuant to section 13(b)(2) of the Contract Settlement Act of 1944 \[41 U.S.C. 113(b)(2)\] shall have expired or would expire within sixty days after the effective date of the abolition of the Appeal Board, the period within which proceedings may be initiated in accordance with the said section shall be extended to sixty days after said effective date.
 
 “(c) Effective thirty days after the enactment of this Act \[July 14, 1952\] no further appeals or submitted disputes shall be accepted for determination by said Appeal Board.
 
@@ -92,5 +92,5 @@ For application of this section to war contracts terminated at or before July 21
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 117, 124 of this title; title 40 section 752.
+This section is referred to in sections 106, 117, 124 of this title.
 

@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(C) subject to paragraph (5), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount after application of subparagraphs (A) and (B); and
 
-&emsp;&emsp;(D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section.
+&emsp;&emsp;(D) subject to paragraph (5), shall pay to the State in which the person is located a sum equal to the balance of such amount after application of subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\],as provided in subsection (f)(2) of this section.
 
 #### (3) Schedule for payment
 
@@ -188,7 +188,7 @@
 
 &emsp;&emsp;&emsp;(i) subject to paragraph (4), shall pay into the Clean Oceans Fund established by the State in which the person is located a sum equal to 50 percent of the balance of such amount; and
 
-&emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act\[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section; and
+&emsp;&emsp;&emsp;(ii) subject to paragraph (4), shall pay to the State in which the person is located a sum equal to the portion of such amount which is not paid as provided in subparagraphs (A), (B), and (C), for deposit into the water pollution control revolving fund established by the State under title VI of the Federal Water Pollution Control Act \[33 U.S.C. 1381 et seq.\], as provided in subsection (f)(2) of this section; and
 
 &emsp;&emsp;(D) for violations in any year after calendar year 1994, shall pay to the State in which the person is located a sum equal to the balance of such amount, for use by the State for providing assistance under subsection (f)(3) of this section.
 
@@ -254,7 +254,7 @@
 
 &emsp;&emsp;&emsp;(ii) such enforcement activities conducted by the Coast Guard with respect to such transportation and dumping as may be necessary to ensure to the maximum extent practicable complete compliance with the requirements of this Act; and
 
-&emsp;&emsp;(C) not to exceed one-third of such total amount shall be transferred to the Under Secretary of Commerce for Oceans and Atmosphere for use for—
+&emsp;&emsp;(C) not to exceed one-third of such total amount shall be transferred to the UnderSecretary of Commerce for Oceans and Atmosphere for use for—
 
 &emsp;&emsp;&emsp;(i) monitoring, research, and related activities consistent with the program developed pursuant to subsection (j)(1) of this section; and
 
@@ -429,6 +429,10 @@ Section 2301 of the Marine Plastic Pollution Research and Control Act of 1987, r
 Subsec. (j)(4)(A) of this section directed the Administrator, in cooperation with the Under Secretary of Commerce for Oceans and Atmosphere, to submit to Congress a report describing the program designed pursuant to subsec. (j)(1) of this section not later than one year after Nov. 18, 1988.
 
 Subsec. (j)(4)(B) of this section, which required the Administrator and the Under Secretary of Commerce for Oceans and Atmosphere to report annually to Congress on monitoring activities conducted under the program designed pursuant to subsec. (j)(1) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 148 of House Document No. 103–7.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

@@ -1,6 +1,6 @@
 ### §554. Travel and transportation; dependents; household and personal effects; trailers; additional movements; motor vehicles; sale of bulky items; claims for proceeds; appropriation chargeable
 
-(a) In this section, “household and personal effects” and “household effects” may include, in addition to other authorized weight allowances, one privately owned motor vehicle which may be shipped at United States expense. Under regulations prescribed by the Secretaries concerned, and in place of the transportation of household and personal effects, a dependent, who would otherwise be entitled to transportation of household and personal effects under this section, may transport a house trailer or mobile dwelling within and between the areas specified in section 409 of this title for use as a residence by one of the following means—
+(a) In this section, “household and personal effects” and “household effects” may include, in addition to other authorized weight allowances, two privately owned motor vehicles which may be shipped at United States expense. Under regulations prescribed by the Secretaries concerned, and in place of the transportation of household and personal effects, a dependent, who would otherwise be entitled to transportation of household and personal effects under this section, may transport a house trailer or mobile dwelling within and between the areas specified in section 409 of this title for use as a residence by one of the following means—
 
 &emsp;(1) transport it and be reimbursed by the United States;
 
@@ -8,7 +8,7 @@
 
 &emsp;(3) have it transported by commercial means, and be reimbursed by the United States.
 
-> If a trailer or dwelling is transported under clause (2) or (3), that transportation may include one privately owned motor vehicle which may be shipped at United States expense. Transportation, and incidental costs, authorized by this section shall be at United States expense without any cost limitation, and any payment authorized may be made in advance of the transportation concerned.
+> If a trailer or dwelling is transported under clause (2) or (3), that transportation may include two privately owned motor vehicles which may be shipped at United States expense. Transportation, and incidental costs, authorized by this section shall be at United States expense without any cost limitation, and any payment authorized may be made in advance of the transportation concerned.
 
 (b) Transportation (including packing, crating, drayage, temporary storage, and unpacking of household and personal effects) may be provided for the dependents and household and personal effects of a member of a uniformed service on active duty (without regard to pay grade) who is officially reported as dead, injured, ill, or absent for a period of more than 29 days in a missing status—
 
@@ -34,9 +34,9 @@
 
 (g) The Secretary concerned may, when he determines that there is an emergency and a sale would be in the best interests of the United States, provide for the public or private sale of motor vehicles and other bulky items of household and personal effects of a member described in subsection (b). Before a sale, and if practicable, a reasonable effort shall be made to determine the desires of the interested persons. The net proceeds received from the sale shall, under regulations prescribed by the Secretary concerned, be sent to the owner or other persons. If there are no such persons, or if they or their addresses are not known within one year from the date of sale, the net proceeds may be covered into the Treasury as miscellaneous receipts.
 
-(h) Claims for net proceeds that are covered into the Treasury under subsection (g) may be filed with the Secretary of Defense by the rightful owners, their heirs or next of kin, or their legal representatives at any time before the end of a 5-year period from the date the proceeds are covered into the Treasury. When a claim is filed, the Secretary of Defense shall allow or disallow it. A claim that is allowed shall be paid from the appropriation for refunding money erroneously received and covered. If a claim is not filed before the end of the 5-year period from the date the proceeds are covered into the Treasury, it is barred from being acted on by the courts or the Secretary of Defense.
+(h) Claims for net proceeds that are covered into the Treasury under subsection (g) may be filed with the Secretary of Defense by the rightful owners, their heirs or next of kin, or their legal representatives at any time before the end of a 5-year period from the date the proceeds are covered into the Treasury. When a claim is filed, the Secretary of Defense shall allow or disallow it. A claim that is allowed shall be paid from the appropriation for refunding money erroneouslyreceived and covered. If a claim is not filed before the end of the 5-year period from the date the proceeds are covered into the Treasury, it is barred from being acted on by the courts or the Secretary of Defense.
 
-(i) If a motor vehicle of a member (or a dependent of the member) that is transported at the expense of the United States under this section does not arrive at the authorized destination of the vehicle by the designated delivery date, the Secretary concerned shall reimburse the dependent for expenses incurred after that date to rent a motor vehicle for the dependent's use. The amount reimbursed may not exceed $30 per day, and the rental period for which reimbursement may be provided expires after 7 days or on the date on which the delayed vehicle arrives at the authorized destination (whichever occurs first).
+(i) If a motor vehicle of a member (or a dependent of the member) that is transported at the expense of the United States under this section does not arrive at the authorized destination of the vehicle by the designated delivery date, the Secretary concerned shall reimburse the dependent for expenses incurred after that date to rent a motor vehicle for the dependent's use. The amount reimbursed may not exceed $30 per day, and the rental period for which reimbursement may be provided expires after 7 days or on the date on which the delayed vehicle arrives at the authorized destination (whichever occurs first). In a case in which two motor vehicles of a member (or the dependent or dependents of a member) are transported at the expense of the United States, no reimbursement is payable under this subsection unless both motor vehicles do not arrive at the authorized destination of the vehicles by the designated delivery date.
 
 (j) This section does not amend or repeal—
 
@@ -46,7 +46,7 @@
 
 &emsp;(3) chapter 171 of title 28.
 
-(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 627; amended Pub. L. 90–83, §5(2), Sept. 11, 1967, 81 Stat. 221; Pub. L. 90–236, Jan. 2, 1968, 81 Stat. 764; Pub. L. 90–623, §3(7), Oct. 22, 1968, 82 Stat. 1315; Pub. L. 92–477, §1, Oct. 9, 1972, 86 Stat. 793; Pub. L. 93–548, §3, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105 Stat. 1476; Pub. L. 104–316, title II, §202(s), Oct. 19, 1996, 110 Stat. 3845; Pub. L. 105–261, div. A, title VI, §653(d), Oct. 17, 1998, 112 Stat. 2052.)
+(Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 627; amended Pub. L. 90–83, §5(2), Sept. 11, 1967, 81 Stat. 221; Pub. L. 90–236, Jan. 2, 1968, 81 Stat. 764; Pub. L. 90–623, §3(7), Oct. 22, 1968, 82 Stat. 1315; Pub. L. 92–477, §1, Oct. 9, 1972, 86 Stat. 793; Pub. L. 93–548, §3, Dec. 26, 1974, 88 Stat. 1743; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title X, §1063(a), Dec. 5, 1991, 105 Stat. 1476; Pub. L. 104–316, title II, §202(s), Oct. 19, 1996, 110 Stat. 3845; Pub. L. 105–261, div. A, title VI, §653(d), Oct. 17, 1998, 112 Stat. 2052; Pub. L. 107–314, div. A, title VI, §622(a), (b), Dec. 2, 2002, 116 Stat. 2571.)
 
 Historical and Revision Notes
 
@@ -124,6 +124,10 @@ In subsection (i), the words “the provisions of” are omitted as unnecessary.
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–314, §622(a), substituted “two privately owned motor vehicles” for “one privately owned motor vehicle” in introductory and concluding provisions.
+
+Subsec. (i). Pub. L. 107–314, §622(b), inserted at end “In a case in which two motor vehicles of a member (or the dependent or dependents of a member) are transported at the expense of the United States, no reimbursement is payable under this subsection unless both motor vehicles do not arrive at the authorized destination of the vehicles by the designated delivery date.”
+
 1998—Subsecs. (i), (j). Pub. L. 105–261 added subsec. (i) and redesignated former subsec. (i) as (j).
 
 1996—Subsec. (h). Pub. L. 104–316 substituted “Secretary of Defense” for “General Accounting Office” wherever appearing.
@@ -151,6 +155,10 @@ Subsec. (b). Pub. L. 92–477, §1(3), authorized additional movements of and tr
 Pub. L. 90–236 inserted provision authorizing nontemporary storage of household and personal effects of a member who is officially reported as absent for a period of more than 29 days in a missing status.
 
 1967—Subsec. (a). Pub. L. 90–83 struck out “when it is located outside the United States, or in Alaska or Hawaii” after “shipped at United States expense”.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–314, div. A, title VI, §622(c), Dec. 2, 2002, 116 Stat. 2571, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to members whose eligibility for benefits under section 554 of title 37, United States Code, commences on or after the date of the enactment of this Act \[Dec. 2, 2002\].”
 
 #### Effective Date of 1998 Amendment
 

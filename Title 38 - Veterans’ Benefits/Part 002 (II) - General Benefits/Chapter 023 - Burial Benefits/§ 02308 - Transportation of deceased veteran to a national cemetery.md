@@ -1,6 +1,6 @@
 ### §2308. Transportation of deceased veteran to a national cemetery
 
-Where a veteran dies as the result of a service-connected disability, or is in receipt of (but for the receipt of retirement pay or pension under this title would have been entitled to) disability compensation, the Secretary may pay, in addition to any amount paid pursuant to section 2302 or 2307 of this title, the cost of transportation of the deceased veteran for burial in a national cemetery. Such payment shall not exceed the cost of transportation to the national cemetery nearest the veteran's last place of residence in which burial space is available.
+Where a veteran dies as the result of a service-connected disability, or is in receipt of (but for the receipt of retirement pay or pension under this title would have been entitled to) disability compensation, the Secretary may pay, in addition to any amount paid pursuant to section 2302 or 2307 of this title, the cost of transportation of the deceased veteran for burial in a nationalcemetery. Such payment shall not exceed the cost of transportation to the national cemetery nearest the veteran's last place of residence in which burial space is available.
 
 (Added Pub. L. 94–433, title III, §304(a), Sept. 30, 1976, 90 Stat. 1377, §908; amended Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; renumbered §2308 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 

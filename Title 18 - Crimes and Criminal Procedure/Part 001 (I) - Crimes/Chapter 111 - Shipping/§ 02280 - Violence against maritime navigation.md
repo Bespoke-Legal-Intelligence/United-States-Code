@@ -48,7 +48,7 @@ Jurisdiction.—There is jurisdiction over the activity prohibited in subsection
 
 &emsp;&emsp;(C) the offender is later found in the United States after such activity is committed;
 
-&emsp;(2) in the case of a ship navigating or scheduled to navigate solely within the territorial sea or internal waters of a country other thanthe United States, if the offender is later found in the United States after such activity is committed; and
+&emsp;(2) in the case of a ship navigating or scheduled to navigate solely within the territorial sea or internal waters of a country other than the United States, if the offender is later found in the United States after such activity is committed; and
 
 &emsp;(3) in the case of any vessel, if such activity is committed in an attempt to compel the United States to do or abstain from doing any act.
 

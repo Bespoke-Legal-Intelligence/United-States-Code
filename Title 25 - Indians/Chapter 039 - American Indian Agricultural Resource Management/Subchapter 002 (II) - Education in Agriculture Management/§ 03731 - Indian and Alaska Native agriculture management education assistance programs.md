@@ -38,7 +38,7 @@
 
 &emsp;(D) Working through tribally controlled community colleges and in cooperation with land grant institutions, the Secretary shall implement research activities to improve the basis for determining appropriate management measures to apply to Indian agricultural management.
 
-(4) Under the cooperative agreement program under paragraph (1), the Secretary shall pay, by reimbursement or otherwise, all costs for tuition, books, and fees of an Indian student who—
+(4) Under the cooperative agreement program under paragraph (1), the Secretary shall pay, byreimbursement or otherwise, all costs for tuition, books, and fees of an Indian student who—
 
 &emsp;(A) is enrolled in a course of study at an education institution with which the Secretary has entered into a cooperative agreement; and
 

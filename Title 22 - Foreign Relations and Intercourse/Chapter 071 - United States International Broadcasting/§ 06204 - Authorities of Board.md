@@ -10,13 +10,13 @@ The Board shall have the following authorities:
 
 &emsp;(3) To ensure that United States international broadcasting is conducted in accordance with the standards and principles contained in section 6202 of this title.
 
-&emsp;(4) To review, evaluate, and determine, at least annually,,<sup>1</sup> after consultation with the Secretary of State, the addition or deletion of language services.
+&emsp;(4) To review, evaluate, and determine, at least annually, after consultation with the Secretary of State, the addition or deletion of language services.
 
 &emsp;(5) To make and supervise grants for broadcasting and related activities in accordance with sections 6207 and 6208 of this title.
 
 &emsp;(6) To allocate funds appropriated for international broadcasting activities among the various elements of the International Broadcasting Bureau and grantees, subject to the limitations in sections 6207 and 6208 of this title and subject to reprogramming notification requirements in law for the reallocation of funds.
 
-&emsp;(7) To review engineering activities to ensure that all broadcasting elements receive the highest quality and cost-effective delivery services.
+&emsp;(7) To review engineering activities to ensure that all broadcasting elements receivethe highest quality and cost-effective delivery services.
 
 &emsp;(8) To undertake such studies as may be necessary to identify areas in which broadcasting activities under its authority could be made more efficient and economical.
 
@@ -54,17 +54,17 @@ The Director of the Bureau and the grantees identified in sections 6207 and 6208
 
 The Secretary of State and the Board, in carrying out their functions, shall respect the professional independence and integrity of the International Broadcasting Bureau, its broadcasting services, and the grantees of the Board.
 
-(Pub. L. 103–236, title III, §305, Apr. 30, 1994, 108 Stat. 435; Pub. L. 103–415, §1(s)(1), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(e)–(i), Oct. 21, 1998, 112 Stat. 2681–778, 2681–779.)
+(Pub. L. 103–236, title III, §305, Apr. 30, 1994, 108 Stat. 435; Pub. L. 103–415, §1(s)(1), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1323(e)–(i), Oct. 21, 1998, 112 Stat. 2681–778, 2681–779; Pub. L. 107–228, div. A, title V, §507(1), Sept. 30, 2002, 116 Stat. 1394.)
 
 #### References in Text
 
 The Radio Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (c), is Pub. L. 98–111, Oct. 4, 1983, 97 Stat. 749, as amended, which is classified generally to subchapter V–A (§1465 et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465 of this title and Tables.
 
-The Television Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (b)(1), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Titlenote set out under section 1465aa of this title and Tables.
+The Television Broadcasting to Cuba Act, referred to in subsecs. (a)(1), (9) and (b)(1), is part D of title II of Pub. L. 101–246, Feb. 16, 1990, 104 Stat. 58, as amended, which is classified principally to subchapter V–B (§1465aa et seq.) of chapter 18 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1465aa of this title and Tables.
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a)(11), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 
-The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§1431 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
+The United States Information and Educational Exchange Act of 1948, referred to in subsec. (a)(17), is act Jan. 27, 1948, ch. 36, 62 Stat. 6, as amended, which is classified generally to chapter 18 (§1431 et seq.) of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 1431 of this title and Tables.
 
 Section 6 of Reorganization Plan Number 2 of 1977, referred to in subsec. (a)(17), which was set out under section 1461 of this title, was repealed by Pub. L. 105–277, div. G, subdiv. A, title XIII, §1336(6), Oct. 21, 1998, 112 Stat. 2681–790.
 
@@ -75,6 +75,8 @@ For the effective date of title XIII of the Foreign Affairs Agencies Consolidati
 Section is comprised of section 305 of Pub. L. 103–236. Subsec. (e) of section 305 of Pub. L. 103–236 amended sections 1465b and 1465c of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(4). Pub. L. 107–228 substituted “annually,” for “annually,,”.
 
 1998—Subsec. (a)(1). Pub. L. 105–277, §1323(e)(1), struck out “direct and” after “To” and substituted “, the Television Broadcasting to Cuba Act, and Worldnet Television, except as provided in section 6205(b) of this title” for “and the Television Broadcasting to Cuba Act”.
 

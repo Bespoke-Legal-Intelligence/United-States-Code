@@ -52,7 +52,7 @@ The Secretary, in approving applications for assistance under this subchapter, s
 
 &emsp;(3) the applicant will coordinate or conduct seminars on a national or multistate basis through a collaboration with an institution of higher education, State higher education agency or a public or private nonprofit organization, with experience in coordinating or conducting teacher training programs in American government and civics education;
 
-&emsp;(4) the applicant will coordinate or conduct seminars designed for more than one minoritystudent population and for Native Americans; and
+&emsp;(4) the applicant will coordinate or conduct seminars designed for more than one minority student population and for Native Americans; and
 
 &emsp;(5) the applicant will coordinate or conduct seminars that offer a combination of academic instruction in American government, exposure to the practical workings of the political system, and training in appropriate pedagogical techniques for working with minority and Native American students.
 

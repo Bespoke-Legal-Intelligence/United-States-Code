@@ -104,7 +104,7 @@ Section was enacted as part of the American Competitiveness and Workforce Improv
 
 “(1)
 
-In general.—In establishing demonstration programs under section 1732(c) of this title, as in effect on October 21, 1998, or demonstration programs or projects under section 2916(b) of this title, the Secretary ofLabor shall use funds available under section 1356(s)(2) of title 8 to establish demonstration programs or projects to provide technical skills training for workers, including both employed and unemployed workers.
+In general.—In establishing demonstration programs under section 1732(c) of this title, as in effect on October 21, 1998, or demonstration programs or projects under section 2916(b) of this title, the Secretary of Labor shall use funds available under section 1356(s)(2) of title 8 to establish demonstration programs or projects to provide technical skills training for workers, including both employed and unemployed workers.
 
 “(2)
 

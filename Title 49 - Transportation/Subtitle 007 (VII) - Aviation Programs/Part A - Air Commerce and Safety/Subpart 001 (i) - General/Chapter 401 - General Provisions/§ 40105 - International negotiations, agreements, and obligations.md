@@ -100,7 +100,7 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1102(c), (d); added Feb. 15, 19
 
 49 App.:1502(d).
 
-In subsection (a), the words “government of a foreign country” are substituted for “foreign governments” in49 App.:1462 and “foreign country” in 49 App.:1502(a) for consistency in the revised title and with other titles of the United States Code. The words “Secretary of Transportation” are substituted for “Department of Transportation” in 49 App.:1551(b)(1)(B) because of 49:102(b). The words “Secretary of State” are substituted for “Department of State” because of 22:2651.
+In subsection (a), the words “government of a foreign country” are substituted for “foreign governments” in 49 App.:1462 and “foreign country” in 49 App.:1502(a) for consistency in the revised title and with other titles of the United States Code. The words “Secretary of Transportation” are substituted for “Department of Transportation” in 49 App.:1551(b)(1)(B) because of 49:102(b). The words “Secretary of State” are substituted for “Department of State” because of 22:2651.
 
 In subsection (b)(1), before clause (A), the words “carrying out” are substituted for “exercising and performing . . . powers and duties” for consistency in the revised title and with other titles of the Code. In clause (A), the words “an international agreement” are substituted for “any treaty, convention, or agreement that may be in force between the United States and any foreign country or foreign countries” for consistency and to eliminate unnecessary words. In clause (C), the word “public” is added for consistency in this part.
 
@@ -220,7 +220,7 @@ The air waybill shall contain the following particulars:
 
 (<i>b</i>) The place of departure and of destination;
 
-(<i>c</i>) The agreed stopping places, provided that the carrier may reserve the right to alter the stopping places in case of necessity, and that if he exercises that right the alteration shall not have the effect of depriving the transportation of its international character;
+(<i>c</i>) The agreed stopping places, provided that the carrier may reserve the right to alter the stopping placesin case of necessity, and that if he exercises that right the alteration shall not have the effect of depriving the transportation of its international character;
 
 (<i>d</i>) The name and address of the consignor;
 
@@ -344,7 +344,7 @@ Any provision tending to relieve the carrier of liability or to fix a lower limi
 
 #### <i>Article 24</i>
 
-(1) In the cases covered by articles 18 and 19 any action for damages, however founded, can only be broughtsubject to the conditions and limits set out in this convention.
+(1) In the cases covered by articles 18 and 19 any action for damages, however founded, can only be brought subject to the conditions and limits set out in this convention.
 
 (2) In the cases covered by article 17 the provisions of the preceding paragraph shall also apply, without prejudice to the questions as to who are the persons who have the right to bring suit and what are their respective rights.
 
@@ -420,7 +420,7 @@ This convention is drawn up in French in a single copy which shall remain deposi
 
 #### <i>Article 37</i>
 
-(1) This convention shall be ratified. The instruments of ratification shall be deposited in the archives of the Ministry for Foreign Affairs of Poland, which shall givenotice of the deposit to the Government of each of the High Contracting Parties.
+(1) This convention shall be ratified. The instruments of ratification shall be deposited in the archives of the Ministry for Foreign Affairs of Poland, which shall give notice of the deposit to the Government of each of the High Contracting Parties.
 
 (2) As soon as this convention shall have been ratified by five of the High Contracting Parties it shall come into force as between them on the nineteenth day after the deposit of the fifth ratification. Thereafter it shall come into force between the High Contracting Parties which shall have ratified and the High Contracting Party which deposits its instrument of ratification on the ninetieth day after the deposit.
 

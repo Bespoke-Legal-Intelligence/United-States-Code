@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(ii) then ratably increasing the amounts of both (I) the grants determined under subparagraph (A), as increased under clause (i) of this subparagraph, and (II) the grants determined under subparagraph (B).
 
-(2) For purposes of paragraph (1) of this subsection, the term “per capita payment” for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled colleges or universities under section 1807 of this title for such fiscal year by the sum of the Indian student counts of such colleges or universities for such fiscal year. The Secretary shall, on the basis of the most satisfactory data available, compute the Indian student count forany fiscal year for which such count was not used for the purpose of making allocations under this subchapter.
+(2) For purposes of paragraph (1) of this subsection, the term “per capita payment” for any fiscal year shall be determined by dividing the amount available for grants to tribally controlled colleges or universities under section 1807 of this title for such fiscal year by the sum of the Indian student counts of such colleges or universities for such fiscal year. The Secretary shall, on the basis of the most satisfactory data available, compute the Indian student count for any fiscal year for which such count was not used for the purpose of making allocations under this subchapter.
 
 #### (b) Ratable reduction or increase in funds available for existing schools; excess funds; definition
 
@@ -40,7 +40,7 @@ In any fiscal year in which the amounts for which grant recipients are eligible 
 
 1998—Subsec. (a)(2). Pub. L. 105–244 substituted “controlled colleges or universities” for “controlled community colleges” and “such colleges or universities” for “such colleges”.
 
-1990—Subsec. (a)(1)(A). Pub. L. 101–477, §1(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary shall first allocate to each such applicant which received funds under section 1807 of this title for the preceding fiscal year an amount equal to 95 per centum of the product of—
+1990—Subsec. (a)(1)(A). Pub. L. 101–477, §1(c)(1), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “the Secretary shall first allocate to each such applicant which received funds under section 1807 of this title for the preceding fiscalyear an amount equal to 95 per centum of the product of—
 
 &emsp;“(i) the per capita payment for the preceding fiscal year; and
 

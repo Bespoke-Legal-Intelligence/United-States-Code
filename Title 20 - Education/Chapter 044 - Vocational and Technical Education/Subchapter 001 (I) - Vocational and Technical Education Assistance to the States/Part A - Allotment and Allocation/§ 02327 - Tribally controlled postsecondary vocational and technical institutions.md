@@ -92,7 +92,7 @@ Any tribally controlled postsecondary vocational and technical institution that 
 
 #### (B) Contents
 
-&emsp;&emsp;The study required by subparagraph (A) shall include a 5-year projection of training facilities, equipment, and housing needs and shall consider such factors as projected service population, employment, and economic development forecasting, based on the mostcurrent and accurate data available from the institutions and Indian tribes affected.
+&emsp;&emsp;The study required by subparagraph (A) shall include a 5-year projection of training facilities, equipment, and housing needs and shall consider such factors as projected service population, employment, and economic development forecasting, based on the most current and accurate data available from the institutions and Indian tribes affected.
 
 #### (C) Submission
 

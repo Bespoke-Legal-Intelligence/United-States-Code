@@ -107,8 +107,15 @@
 | (a) | Regulations. |
 | (b) | Assistance to State. |
 | [6522\.](%C2%A7%2006522%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [6523\.](%C2%A7%2006523%20-%20National%20organic%20certification%20cost-share%20program.md) | National organic certification cost-share program. |
+| (a) | In general. |
+| (b) | Federal share. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 6523 of this title.
 
 
 ---
@@ -137,3 +144,4 @@
 - [&sect; 06520 - Administrative appeal](%C2%A7%2006520%20-%20Administrative%20appeal.md)
 - [&sect; 06521 - Administration](%C2%A7%2006521%20-%20Administration.md)
 - [&sect; 06522 - Authorization of appropriations](%C2%A7%2006522%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 06523 - National organic certification cost-share program](%C2%A7%2006523%20-%20National%20organic%20certification%20cost-share%20program.md)

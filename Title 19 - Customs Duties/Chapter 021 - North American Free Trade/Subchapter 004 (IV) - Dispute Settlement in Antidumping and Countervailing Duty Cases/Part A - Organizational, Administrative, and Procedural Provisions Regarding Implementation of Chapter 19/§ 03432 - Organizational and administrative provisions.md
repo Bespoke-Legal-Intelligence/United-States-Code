@@ -86,7 +86,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;No later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives (hereafter in this section referred to as the “appropriate Congressional Committees”) the preliminary candidate lists of those individuals selected by the Trade Representative under subparagraph (A) to be candidates eligible to serve on panels or committees convened pursuant to chapter 19 during the 1-year period beginning on April 1 of such calendar year.
+&emsp;&emsp;&emsp;No later than January 3 of each calendar year, the Trade Representative shall submit to the Committee on Finance of the Senate and the Committee on Ways andMeans of the House of Representatives (hereafter in this section referred to as the “appropriate Congressional Committees”) the preliminary candidate lists of those individuals selected by the Trade Representative under subparagraph (A) to be candidates eligible to serve on panels or committees convened pursuant to chapter 19 during the 1-year period beginning on April 1 of such calendar year.
 
 #### (ii) Additional information
 
@@ -204,7 +204,7 @@ If the Agreement enters into force between the United States and a NAFTA country
 
 #### (f) Immunity
 
-With the exception of acts described in section 777(f)(3) of the Tariff Act of 1930 (19 U.S.C. 1677f(f)(3)), individuals serving on panels or committees convened pursuant to chapter 19, and individuals designated to assist the individuals serving on such panels or committees, shall be immune from suit and legal process relating to acts performed by such individuals in their official capacity and within the scope of their functions as such panelists or committee members or assistants to such panelists or committee members.
+With the exception of acts described in section 777(f)(3) of the Tariff Act of 1930 (19 U.S.C. 1677f(f)(3)), individuals serving on panels or committees convened pursuant to chapter 19, and individuals designated to assist the individuals serving on such panels or committees, shall beimmune from suit and legal process relating to acts performed by such individuals in their official capacity and within the scope of their functions as such panelists or committee members or assistants to such panelists or committee members.
 
 #### (g) Regulations
 

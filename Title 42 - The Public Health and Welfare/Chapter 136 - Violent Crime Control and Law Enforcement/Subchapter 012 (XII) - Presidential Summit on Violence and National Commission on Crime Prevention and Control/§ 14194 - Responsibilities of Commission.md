@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The responsibilities of the Commission shall include such study and consultation as may benecessary or appropriate to carry out the purposes set forth in section 14193 of this title, including the specific measures described in subsections (b) through (e) of this section in relation to the subject areas addressed in those subsections.
+The responsibilities of the Commission shall include such study and consultation as may be necessary or appropriate to carry out the purposes set forth in section 14193 of this title, including the specific measures described in subsections (b) through (e) of this section in relation to the subject areas addressed in those subsections.
 
 #### (b) Crime and violence generally
 
@@ -38,7 +38,7 @@ In addressing the subject of the causes of the demand for drugs, the activities 
 
 &emsp;&emsp;(E) The physiological and psychological factors that contribute to the desire for illicit drugs.
 
-&emsp;(2) Evaluating Federal, State, and local laws and policies on the prevention of drug abuse, control of unlawful production, distribution and use of controlled substances, and the efficacy of sentencing policies with regard to those laws.
+&emsp;(2) Evaluating Federal, State, and local laws and policies on the prevention of drug abuse,control of unlawful production, distribution and use of controlled substances, and the efficacy of sentencing policies with regard to those laws.
 
 &emsp;(3) Analyzing the allocation of resources among interdiction of controlled substances entering the United States, enforcement of Federal laws relating to the unlawful production, distribution, and use of controlled substances, education with regard to and the prevention of the unlawful use of controlled substances, and treatment and rehabilitation of drug abusers.
 
@@ -76,7 +76,7 @@ In addressing the subject of sexual assault, domestic violence, and other crimin
 
 &emsp;(2) Evaluating the adequacy of, and making recommendations regarding, the responsiveness of prosecutors and courts to such crimes and acts.
 
-&emsp;(3) Evaluating the adequacy of rules of evidence, practice, and procedure to ensure the effective prosecution and conviction of perpetrators of such crimes and acts and to protect victims of such crimes and acts fromabuse in legal proceedings, making recommendations, where necessary, to improve those rules.
+&emsp;(3) Evaluating the adequacy of rules of evidence, practice, and procedure to ensure the effective prosecution and conviction of perpetrators of such crimes and acts and to protect victims of such crimes and acts from abuse in legal proceedings, making recommendations, where necessary, to improve those rules.
 
 &emsp;(4) Evaluating the adequacy of pretrial release, sentencing, incarceration, and post-conviction release in relation to such crimes and acts.
 

@@ -8,7 +8,7 @@ Government Relief From Liability.—The Secretary of Transportation shall ensure
 
 Air Traffic Control Contract Program.—(1) The Secretary shall continue the low activity (Visual Flight Rules) level I air traffic control tower contract program established under subsection (a) of this section for towers existing on December 30, 1987, and extend the program to other towers as practicable.
 
-(2) The Secretary may make a contract, on a sole source basis, with a State or a political subdivision of a State to allow the State or subdivision to operate an airport traffic control tower classified as a level I (Visual Flight Rules) tower if the Secretary decides that the State or subdivision has the capability to comply with the requirements of this paragraph. The contract shall require that the State or subdivision comply with applicable safety regulations in operating the facility and with applicable competition requirements in making a subcontract to perform work to carry out the contract.
+(2) The Secretary may make a contract, on a sole source basis, with a State or a political subdivision of a State to allow the State or subdivision to operate an airport traffic control tower classified as a level I (Visual Flight Rules) tower if the Secretary decides that the State or subdivision has the capability to comply with therequirements of this paragraph. The contract shall require that the State or subdivision comply with applicable safety regulations in operating the facility and with applicable competition requirements in making a subcontract to perform work to carry out the contract.
 
 (3)
 
@@ -50,7 +50,7 @@ Costs exceeding benefits.—If the costs of operating an air traffic tower under
 
 &emsp;(E)
 
-Funding.—Subject to paragraph (4)(D), of the amounts appropriated pursuant to section106(k), not more than $6,000,000 per fiscal year may be used to carry out this paragraph.
+Funding.—Subject to paragraph (4)(D), of the amounts appropriated pursuant to section 106(k), not more than $6,000,000 per fiscal year may be used to carry out this paragraph.
 
 (4)
 

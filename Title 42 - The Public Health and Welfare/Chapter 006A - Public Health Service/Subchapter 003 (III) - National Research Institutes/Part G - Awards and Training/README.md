@@ -9,7 +9,7 @@ Part G—Awards and Training
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00288 - National Research Service Awards](%C2%A7%2000288%20-%20National%20Research%20Service%20Awards.md)
+- [&sect; 00288 - Ruth L. Kirschstein National Research Service Awards](%C2%A7%2000288%20-%20Ruth%20L.%20Kirschstein%20National%20Research%20Service%20Awards.md)
 - [&sect; 00288&#8211;1 - Loan repayment program for research with respect to acquired immune deficiency syndrome](%C2%A7%2000288%E2%80%931%20-%20Loan%20repayment%20program%20for%20research%20with%20respect%20to%20acquired%20immune%20deficiency%20syndrome.md)
 - [&sect; 00288&#8211;2 - Loan repayment program for research with respect to contraception and infertility](%C2%A7%2000288%E2%80%932%20-%20Loan%20repayment%20program%20for%20research%20with%20respect%20to%20contraception%20and%20infertility.md)
 - [&sect; 00288&#8211;3 - Loan repayment program for research generally](%C2%A7%2000288%E2%80%933%20-%20Loan%20repayment%20program%20for%20research%20generally.md)

@@ -10,7 +10,7 @@ The amendments required by subsection (a) of this section shall—
 
 &emsp;(1) provide for a period at the beginning of each meeting of the Interdepartmental Radio Advisory Committee to be open to the public to make presentations and receive advice, and provide the public with other meaningful opportunities to make presentations and receive advice;
 
-&emsp;(2) include provisions that will require (A) publication in the Federal Register of major policy proposals that are not classified and that involve spectrum management, and (B) adequate opportunity for public review and comment on those proposals;
+&emsp;(2) include provisions that will require (A) publication in the Federal Register of major policy proposals that are not classified andthat involve spectrum management, and (B) adequate opportunity for public review and comment on those proposals;
 
 &emsp;(3) include provisions that will require publication in the Federal Register of major policy decisions that are not classified and that involve spectrum management;
 

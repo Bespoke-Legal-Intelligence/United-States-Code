@@ -20,7 +20,7 @@ Establishment; Membership.—There is established the Railroad-Shipper Transport
 
 &emsp;(4) The Secretary of Transportation and the members of the Board shall serve as ex officio, nonvoting members of the Council. The Council shall not be subject to the Federal Advisory Committee Act. A list of the members appointed to the Council shall be forwarded to the Chairmen and ranking members of the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives.
 
-&emsp;(5) Each ex officio member of the Council may designate an alternate, who shall serve as a member of the Council whenever the ex officio member is unable to attend a meeting of the Council. Any such designated alternate shall be selected from individuals who exercisesignificant decision-making authority in the Federal agency involved.
+&emsp;(5) Each ex officio member of the Council may designate an alternate, who shall serve as a member of the Council whenever the ex officio member is unable to attend a meeting of the Council. Any such designated alternate shall be selected from individuals who exercise significant decision-making authority in the Federal agency involved.
 
 (b)
 
@@ -66,7 +66,7 @@ Functions and Duties; Annual Report.—(1) The Council shall advise the Secretar
 
 (3) The Council shall endeavor to develop within the private sector mechanisms to prevent, or identify and effectively address, obstacles to the most effective and efficient transportation system practicable.
 
-(4) The Council shall prepare an annual report concerning its activities and the results of Council efforts to resolve industry issues, and propose whatever regulatory or legislative relief it considers appropriate. The Council shall include in the annual report such recommendations as it considers appropriate with respect to the performance of the Secretary and Chairman under this chapter, and with respect to the operation and effectiveness of meetings and industry developments relating to the Council's efforts, and such other information as it considers appropriate. Such annual reports shall be reviewed by the Secretary and Chairman, and shall include the Secretary's and Chairman's views or comments relating to—
+(4) The Council shall prepare an annual report concerning its activities and the results of Council efforts to resolve industry issues, andpropose whatever regulatory or legislative relief it considers appropriate. The Council shall include in the annual report such recommendations as it considers appropriate with respect to the performance of the Secretary and Chairman under this chapter, and with respect to the operation and effectiveness of meetings and industry developments relating to the Council's efforts, and such other information as it considers appropriate. Such annual reports shall be reviewed by the Secretary and Chairman, and shall include the Secretary's and Chairman's views or comments relating to—
 
 &emsp;(A) the accuracy of information therein;
 

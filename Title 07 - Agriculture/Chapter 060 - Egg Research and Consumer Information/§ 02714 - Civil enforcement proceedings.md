@@ -2,7 +2,7 @@
 
 #### (a) Enforcement of orders by district court; referral of civil actions to Attorney General
 
-The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, any order or regulation made or issued pursuant to this chapter. Any civil action authorized to be brought under this subsection shall be referred to the Attorney General for appropriate action: <i>Provided</i>, That nothing in this chapter shall be construed as requiring the Secretary to refer to the Attorney General violations of this chapter whenever he believes that the administration and enforcement of the program would be adequately served by administrative action pursuant to subsection (b) of this section or suitable written notice or warning to any person committing such violations.
+The several district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, any order or regulation made or issued pursuant to this chapter. Any civil action authorized to be brought under this subsection shall be referred to the Attorney General for appropriate action: <i>Provided</i>, That nothing in this chapter shall be construed as requiring the Secretary to refer to the Attorney General violations of this chapter whenever he believes that the administration and enforcement of the program would be adequately served by administrative action pursuant to subsection\(b) of this section or suitable written notice or warning to any person committing such violations.
 
 #### (b) Civil penalty; review by court of appeals; noncompliance with final order; referral to Attorney General
 
@@ -20,7 +20,7 @@ The several district courts of the United States are vested with jurisdiction sp
 
 1980—Subsec. (a). Pub. L. 96–276 substituted “civil action authorized to be brought under this subsection” for “civil action authorized to be brought under this chapter”, struck out “minor” before “violation of this chapter”, and inserted reference to administrative action pursuant to subsection (b).
 
-Subsec. (b). Pub. L. 96–276 substituted provisions authorizing Secretary to assess civil penalty of not less than $500 or more than $5,000 per violation, to issue cease and desist orders for violations of regulations or orders issued by Secretary, and, after review in court of appeals, to assess civil penalty of $500 per offense for failure to abide by duly issued cease and desist order,and authorized actions by Attorney General in appropriate district courts to collect assessed penalties, for provisions authorizing penalties of up to $1,000 per offense for willful violations of this chapter, recoverable in civil action brought by the United States.
+Subsec. (b). Pub. L. 96–276 substituted provisions authorizing Secretary to assess civil penalty of not less than $500 or more than $5,000 per violation, to issue cease and desist orders for violations of regulations or orders issued by Secretary, and, after review in court of appeals, to assess civil penalty of $500 per offense for failure to abide by duly issued cease and desist order, and authorized actions by Attorney General in appropriate district courts to collect assessed penalties, for provisions authorizing penalties of up to $1,000 per offense for willful violations of this chapter, recoverable in civil action brought by the United States.
 
 #### Section Referred to in Other Sections
 

@@ -4,9 +4,9 @@
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this chapter for each of fiscal years 2001 through 2003—
+&emsp;There are authorized to be appropriated to carry out this chapter for each of fiscal years 2001 through 2005—
 
-&emsp;&emsp;(A) $20,000,000 to the Department of the Interior; and
+&emsp;&emsp;(A) $25,000,000 to the Department of the Interior; and
 
 &emsp;&emsp;(B) $5,000,000 to the Department of Commerce.
 
@@ -40,9 +40,13 @@ Amounts provided as a grant by the Foundation shall not be used for—
 
 &emsp;(2) any activity the purpose of which is to influence legislation pending before Congress.
 
-(Pub. L. 98–244, §10, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, §4, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 101–593, title I, §110(c), Nov. 16, 1990, 104 Stat. 2960; Pub. L. 103–232, title I, §104, Apr. 11, 1994, 108 Stat. 337; Pub. L. 106–408, title II, §207, Nov. 1, 2000, 114 Stat. 1781.)
+(Pub. L. 98–244, §10, Mar. 26, 1984, 98 Stat. 110; Pub. L. 100–240, §4, Jan. 11, 1988, 101 Stat. 1786; Pub. L. 101–593, title I, §110(c), Nov. 16, 1990, 104 Stat. 2960; Pub. L. 103–232, title I, §104, Apr. 11, 1994, 108 Stat. 337; Pub. L. 106–408, title II, §207, Nov. 1, 2000, 114 Stat. 1781; Pub. L. 107–141, §6, Feb. 12, 2002, 116 Stat. 14.)
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–141, §6(1), substituted “2005” for “2003”.
+
+Subsec. (a)(1)(A). Pub. L. 107–141, §6(2), substituted “$25,000,000” for “$20,000,000”.
 
 2000—Pub. L. 106–408 added text of section and struck out former text which read as follows:
 

@@ -26,7 +26,7 @@
 
 #### (1) In general
 
-&emsp;Not later than 2 years after November 29, 1990, the Secretary, in consultation with the Task Force, shall issue regulations to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the ballast water of vessels.
+&emsp;Not later than 2 years after November 29, 1990, the Secretary, in consultation with theTask Force, shall issue regulations to prevent the introduction and spread of aquatic nuisance species into the Great Lakes through the ballast water of vessels.
 
 #### (2) Content of regulations
 
@@ -122,7 +122,7 @@
 
 &emsp;&emsp;(J) not affect or supersede any requirements or prohibitions pertaining to the discharge of ballast water into waters of the United States under the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.); and
 
-&emsp;&emsp;(K) provide an exemption from ballast water exchange requirements to passenger vessels with operating ballast water systemsthat are equipped with treatment systems designed to kill aquatic organisms in ballast water, unless the Secretary determines that such treatment systems are less effective than ballast water exchange at reducing the risk of transfers of invasive species in the ballast water of passenger vessels; and
+&emsp;&emsp;(K) provide an exemption from ballast water exchange requirements to passenger vessels with operating ballast water systems that are equipped with treatment systems designed to kill aquatic organisms in ballast water, unless the Secretary determines that such treatment systems are less effective than ballast water exchange at reducing the risk of transfers of invasive species in the ballast water of passenger vessels; and
 
 &emsp;&emsp;(L) not apply to crude oil tankers engaged in the coastwise trade.
 
@@ -262,7 +262,7 @@ The Secretary, in cooperation with the International Maritime Organization of th
 
 The Secretary shall ensure that vessels registered outside of the United States do not receive more favorable treatment than vessels registered in the United States when the Secretary performs studies, reviews compliance, determines effectiveness, establishes requirements, or performs any other responsibilities under this chapter.
 
-(Pub. L. 101–646, title I, §1101, Nov. 29, 1990, 104 Stat. 4763; Pub. L. 102–580, title III, §302(b)(1), Oct. 31, 1992, 106 Stat. 4839; Pub. L. 102–587, title IV, §4002, Nov. 4, 1992, 106 Stat. 5068; Pub. L. 104–332, §2(b)(2), Oct. 26, 1996, 110 Stat. 4075.)
+(Pub. L. 101–646, title I, §1101, Nov. 29, 1990, 104 Stat. 4763; Pub. L. 102–580, title III, §302(b)(1),Oct. 31, 1992, 106 Stat. 4839; Pub. L. 102–587, title IV, §4002, Nov. 4, 1992, 106 Stat. 5068; Pub. L. 104–332, §2(b)(2), Oct. 26, 1996, 110 Stat. 4075.)
 
 #### References in Text
 
@@ -276,9 +276,13 @@ October 26, 1996, referred to in subsec. (k)(3), was in the original “the date
 
 #### Amendments
 
-1996—Pub. L. 104–332 amended section generally, substituting subsecs. (a) to (<i>l</i>) relating to aquatic nuisancespecies in waters of the United States for former subsecs. (a) to (e) relating to aquatic nuisance species in the Great Lakes.
+1996—Pub. L. 104–332 amended section generally, substituting subsecs. (a) to (<i>l</i>) relating to aquatic nuisance species in waters of the United States for former subsecs. (a) to (e) relating to aquatic nuisance species in the Great Lakes.
 
 1992—Subsec. (b)(3). Pub. L. 102–580 and Pub. L. 102–587 made substantively identical amendments, adding par. (3). Par. (3) is based on text of Pub. L. 102–587.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

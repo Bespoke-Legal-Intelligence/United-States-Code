@@ -24,7 +24,7 @@ The Secretary of the Treasury is authorized to make such regulations as may be n
 
 #### (e) Review of official acts
 
-The action of any officer, employee, or agent in determining the amount of and in making any payment authorized to be made under section 608 of this title shall not be subject to review by any officer of the Government other than the Secretary of Agriculture or Secretary of the Treasury.
+The action of any officer, employee, or agent in determining the amount of and in makingany payment authorized to be made under section 608 of this title shall not be subject to review by any officer of the Government other than the Secretary of Agriculture or Secretary of the Treasury.
 
 #### (f) Geographical application
 
@@ -40,7 +40,7 @@ For the efficient administration of the provisions of this chapter, the provisio
 
 #### (i) Cooperation with State authorities; imparting information
 
-The Secretary of Agriculture upon the request of the duly constituted authorities of any State is directed, in order to effectuate the declared policy of this chapter and in order to obtain uniformity in the formulation, administration, and enforcement of Federal and State programs relating to the regulation of the handling of agricultural commodities or products thereof, to confer with and hold joint hearings with the duly constituted authorities of any State, and is authorized to cooperate with such authorities; to accept and utilize, with the consent of the State, such State and local officers and employees as may be necessary; to avail himself of the records and facilities of such authorities; to issue orders (subject to the provisions of section 608c of this title) complementary to orders or other regulations issued by such authorities; and to make available to such State authorities the records and facilities of the Department ofAgriculture: <i>Provided</i>, That information furnished to the Secretary of Agriculture pursuant to section 608d(1) of this title shall be made available only to the extent that such information is relevant to transactions within the regulatory jurisdiction of such authorities, and then only upon a written agreement by such authorities that the information so furnished shall be kept confidential by them in a manner similar to that required of Federal officers and employees under the provisions of section 608d(2) of this title.
+The Secretary of Agriculture upon the request of the duly constituted authorities of any State is directed, in order to effectuate the declared policy of this chapter and in order to obtain uniformity in the formulation, administration, and enforcement of Federal and State programs relating to the regulation of the handling of agricultural commodities or products thereof, to confer with and hold joint hearings with the duly constituted authorities of any State, and is authorized to cooperate with such authorities; to accept and utilize, with the consent of the State, such State and local officers and employees as may be necessary; to avail himself of the records and facilities of such authorities; to issue orders (subject to the provisions of section 608c of this title) complementary to orders or other regulations issued by such authorities; and to make available to such State authorities the records and facilities of the Department of Agriculture: <i>Provided</i>, That information furnished to the Secretary of Agriculture pursuant to section 608d(1) of this title shall be made available only to the extent that such information is relevant to transactions within the regulatory jurisdiction of such authorities, and then only upon a written agreement by such authorities that the information so furnished shall be kept confidential by them in a manner similar to that required of Federal officers and employees under the provisions of section 608d(2) of this title.
 
 #### (j) Definitions
 
@@ -110,7 +110,7 @@ Act June 3, 1937, §1, affirmed, validated, and reenacted without change the pro
 
 #### Appropriations for Refunds and Payments of Processing and Related Taxes and Limitations Thereon
 
-Acts June 25, 1938, ch. 681, 52 Stat. 1150; May 6, 1939, ch. 115, §1, 53 Stat. 661, 662; Feb. 12, 1940, ch. 28, §1, 54 Stat. 36; Mar. 25, 1940, ch. 71, title I, 54 Stat. 61; May 31, 1941, ch. 156, title I, §1, 55 Stat. 218; Mar. 10, 1942, ch. 178, title I, §1, 56 Stat. 156; June 30, 1943, ch. 179, title I, 57 Stat. 257; Apr. 22, 1944, ch. 175, title I, §1, 58 Stat. 201; Apr. 24, 1945, ch. 92, title I, 59 Stat. 62; July 20, 1946, ch. 588, title I, 60 Stat. 574.
+Acts June 25, 1938, ch. 681, 52 Stat. 1150; May 6, 1939, ch. 115, §1, 53 Stat. 661, 662; Feb. 12, 1940, ch. 28, §1, 54 Stat. 36; Mar. 25, 1940, ch. 71, title I, 54 Stat. 61; May 31, 1941, ch. 156, title I, §1, 55 Stat. 218; Mar. 10, 1942, ch. 178, title I, §1, 56 Stat. 156; June 30, 1943, ch. 179, titleI, 57 Stat. 257; Apr. 22, 1944, ch. 175, title I, §1, 58 Stat. 201; Apr. 24, 1945, ch. 92, title I, 59 Stat. 62; July 20, 1946, ch. 588, title I, 60 Stat. 574.
 
 #### Ex. Ord. No. 10199. Regulations Without Approval of President
 

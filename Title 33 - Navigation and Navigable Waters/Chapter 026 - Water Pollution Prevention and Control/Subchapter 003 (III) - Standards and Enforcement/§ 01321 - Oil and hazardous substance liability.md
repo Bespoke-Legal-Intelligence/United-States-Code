@@ -74,7 +74,7 @@ For the purpose of this section, the term—
 
 (4) The President shall by regulation determine for the purposes of this section those quantities of oil and any hazardous substances the discharge of which may be harmful to the public health or welfare or the environment of the United States, including but not limited to fish, shellfish, wildlife, and public and private property, shorelines, and beaches.
 
-(5) Any person in charge of a vessel or of an onshore facility or an offshore facility shall, as soon as he has knowledge of any discharge of oil or a hazardous substance from such vessel or facility in violation of paragraph (3) of this subsection, immediately notify the appropriate agency of the United States Government of such discharge. The Federal agency shall immediately notify the appropriate State agency of any State which is, or may reasonably be expected to be, affected by the discharge of oil or a hazardous substance. Any such person (A) in charge of a vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(i) of this subsection, or (B) in charge of a vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) of this subsection and who is otherwise subject to the jurisdiction of the United States at the time of the discharge, or (C) in charge of an onshore facility or an offshore facility, who fails to notify immediately such agency of such discharge shall, upon conviction, be fined in accordance with title 18, or imprisoned for not more than 5 years, or both. Notification received pursuant to this paragraph shall not be used against any such natural person in any criminal case, except a prosecution for perjury or for giving a false statement.
+(5) Any person in charge of a vessel or of an onshore facility or an offshore facility shall, as soon as he has knowledge of any discharge of oil or a hazardous substance from such vessel or facility in violation of paragraph (3) of this subsection, immediately notify the appropriate agency of the United States Government of such discharge. The Federal agency shall immediately notify the appropriate State agency of any State which is, or may reasonably be expected to be, affected by the discharge of oil or a hazardous substance. Any such person (A) in charge of a vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(i) of this subsection, or (B) in charge of a vessel from which oil or a hazardous substance is discharged in violation of paragraph (3)(ii) ofthis subsection and who is otherwise subject to the jurisdiction of the United States at the time of the discharge, or (C) in charge of an onshore facility or an offshore facility, who fails to notify immediately such agency of such discharge shall, upon conviction, be fined in accordance with title 18, or imprisoned for not more than 5 years, or both. Notification received pursuant to this paragraph shall not be used against any such natural person in any criminal case, except a prosecution for perjury or for giving a false statement.
 
 (6)
 
@@ -108,7 +108,7 @@ Rights of interested persons.—
 
 &emsp;&emsp;(i)
 
-Public notice.—Before issuing an order assessing a class II civil penalty under thisparagraph the Administrator or Secretary, as the case may be, shall provide public notice of and reasonable opportunity to comment on the proposed issuance of such order.
+Public notice.—Before issuing an order assessing a class II civil penalty under this paragraph the Administrator or Secretary, as the case may be, shall provide public notice of and reasonable opportunity to comment on the proposed issuance of such order.
 
 &emsp;&emsp;(ii)
 
@@ -158,7 +158,7 @@ Collection.—If any person fails to pay an assessment of a civil penalty—
 
 &emsp;(I)
 
-Subpoenas.—The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this paragraph. In case of contumacy or refusal to obey a subpoena issued pursuant to this subparagraph and served upon any person, the district court of the UnitedStates for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
+Subpoenas.—The Administrator or Secretary, as the case may be, may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, or documents in connection with hearings under this paragraph. In case of contumacy or refusal to obey a subpoena issued pursuant to this subparagraph and served upon any person, the district court of the United States for any district in which such person is found, resides, or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the administrative law judge or to appear and produce documents before the administrative law judge, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
 (7)
 
@@ -200,7 +200,7 @@ Determination of amount.—In determining the amount of a civil penalty under pa
 
 (9)
 
-Mitigation of damage.—In addition to establishing a penalty for the discharge of oil or a hazardous substance, the Administrator or the Secretary of the department in which the Coast Guard is operating may act to mitigate the damage to the public health or welfare caused by such discharge. The cost of such mitigation shall be deemed a cost incurred under subsection (c) of this section for the removal of such substance by the United States Government.
+Mitigation of damage.—In addition to establishing a penalty for the discharge of oil or a hazardous substance, the Administrator or the Secretary of the department in which the CoastGuard is operating may act to mitigate the damage to the public health or welfare caused by such discharge. The cost of such mitigation shall be deemed a cost incurred under subsection (c) of this section for the removal of such substance by the United States Government.
 
 (10)
 
@@ -370,13 +370,13 @@ Withholding clearance.—If any owner, operator, or person in charge of a vessel
 
 #### (f) Liability for actual costs of removal
 
-(1) Except where an owner or operator can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner,such owner or operator shall be liable to the United States Government for the full amount of such costs. Such costs shall constitute a maritime lien on such vessel which may be recovered in an action in rem in the district court of the United States for any district within which any vessel may be found. The United States may also bring an action against the owner or operator of such vessel in any court of competent jurisdiction to recover such costs.
+(1) Except where an owner or operator can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any vessel from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed, in the case of an inland oil barge $125 per gross ton of such barge, or $125,000, whichever is greater, and in the case of any other vessel, $150 per gross ton of such vessel (or, for a vessel carrying oil or hazardous substances as cargo, $250,000), whichever is greater, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. Such costs shall constitute a maritime lien on such vessel which may be recovered in an action in rem in the district court of the United States for any district within which any vessel may be found. The United States may also bring an action against the owner or operator of such vessel in any court of competent jurisdiction to recover such costs.
 
 (2) Except where an owner or operator of an onshore facility can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any such facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed $50,000,000, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. The United States may bring an action against the owner or operator of such facility in any court of competent jurisdiction to recover such costs. The Administrator is authorized, by regulation, after consultation with the Secretary of Commerce and the Small Business Administration, to establish reasonable and equitable classifications of those onshore facilities having a total fixed storage capacity of 1,000 barrels or less which he determines because of size, type, and location do not present a substantial risk of the discharge of oil or a hazardous substance in violation of subsection (b)(3) of this section, and apply with respect to such classifications differing limits of liability which may be less than the amount contained in this paragraph.
 
 (3) Except where an owner or operator of an offshore facility can prove that a discharge was caused solely by (A) an act of God, (B) an act of war, (C) negligence on the part of the United States Government, or (D) an act or omission of a third party without regard to whether any such act or omission was or was not negligent, or any combination of the foregoing clauses, such owner or operator of any such facility from which oil or a hazardous substance is discharged in violation of subsection (b)(3) of this section shall, notwithstanding any other provision of law, be liable to the United States Government for the actual costs incurred under subsection (c) of this section for the removal of such oil or substance by the United States Government in an amount not to exceed $50,000,000, except that where the United States can show that such discharge was the result of willful negligence or willful misconduct within the privity and knowledge of the owner, such owner or operator shall be liable to the United States Government for the full amount of such costs. The United States may bring an action against the owner or operator of such a facility in any court of competent jurisdiction to recover such costs.
 
-(4) The costs of removal of oil or a hazardous substance for which the owner or operator of a vessel or onshore or offshore facility is liable under subsection (f) of this section shall include any costs or expenses incurred by the Federal Government or any State government in the restoration or replacement of natural resources damaged or destroyed as a result of a discharge of oil or a hazardous substance in violation of subsection (b) of this section.
+(4) The costs of removal of oil or a hazardous substance for which the owner or operator of avessel or onshore or offshore facility is liable under subsection (f) of this section shall include any costs or expenses incurred by the Federal Government or any State government in the restoration or replacement of natural resources damaged or destroyed as a result of a discharge of oil or a hazardous substance in violation of subsection (b) of this section.
 
 (5) The President, or the authorized representative of any State, shall act on behalf of the public as trustee of the natural resources to recover for the costs of replacing or restoring such resources. Sums recovered shall be used to restore, rehabilitate, or acquire the equivalent of such natural resources by the appropriate agencies of the Federal Government, or the State government.
 
@@ -536,7 +536,7 @@ In any case where an owner or operator of a vessel or an onshore facility or an 
 
 #### (8) United States Government not liable
 
-&emsp;The United States Government is not liable for any damages arising from its actions or omissions relating to any response plan required by this section.
+&emsp;The United States Government is not liable for any damages arising from its actions oromissions relating to any response plan required by this section.
 
 #### (k) Repealed. Pub. L. 101–380, title II, §2002(b)(2), Aug. 18, 1990, 104 Stat. 507
 
@@ -572,7 +572,7 @@ The President is authorized to delegate the administration of this section to th
 
 #### (C) Arrests and execution of warrants
 
-&emsp;&emsp;Anyone authorized by the Administrator or the Secretary of the department in whichthe Coast Guard is operating to enforce the provisions of this section with respect to any facility may—
+&emsp;&emsp;Anyone authorized by the Administrator or the Secretary of the department in which the Coast Guard is operating to enforce the provisions of this section with respect to any facility may—
 
 &emsp;&emsp;&emsp;(i) with or without a warrant, arrest any person who violates the provisions of this section or any regulation issued thereunder in the presence or view of the person so authorized; and
 
@@ -598,7 +598,7 @@ The several district courts of the United States are invested with jurisdiction 
 
 #### (q) Establishment of maximum limit of liability with respect to onshore or offshore facilities
 
-The President is authorized to establish, with respect to any class or category of onshore or offshore facilities, a maximum limit of liability under subsections (f)(2) and (3) of this section of less than $50,000,000, but not less than $8,000,000.
+The President is authorized to establish, with respect to any class or category of onshore oroffshore facilities, a maximum limit of liability under subsections (f)(2) and (3) of this section of less than $50,000,000, but not less than $8,000,000.
 
 #### (r) Liability limitations not to limit liability under other legislation
 
@@ -650,7 +650,7 @@ Subsec. (c)(3)(B). Pub. L. 104–324, §1144, inserted “, except that the own
 
 Subsec. (j)(2)(A). Pub. L. 104–324, §1143(1), inserted “and of information regarding previous spills, including data from universities, research institutions, State governments, and other nations, as appropriate, which shall be disseminated as appropriate to response groups and area committees, and” after “paragraph (4),”.
 
-Subsec. (j)(4)(C)(v). Pub. L. 104–324, §1143(2), inserted “compile a list of local scientists, both inside and outside Federal Government service, with expertise in the environmental effects of spills of the types of oil typically transported in the area, who may be contacted to provide information or, where appropriate, participate in meetings of the scientific support team convened in response to a spill, and” before “describe”.
+Subsec. (j)(4)(C)(v). Pub. L. 104–324, §1143(2), inserted “compile a list of local scientists, both inside and outside Federal Government service, with expertise in the environmental effects of spills of the types of oil typically transported in the area, who may be contacted to provide information or, where appropriate, participatein meetings of the scientific support team convened in response to a spill, and” before “describe”.
 
 1992—Subsec. (b)(12). Pub. L. 102–388 added par. (12).
 
@@ -674,7 +674,7 @@ Subsec. (c). Pub. L. 101–380, §4201(a), amended subsec. (c) generally, substi
 
 Subsec. (d). Pub. L. 101–380, §4201(b), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Whenever a marine disaster in or upon the navigable waters of the United States has created a substantial threat of a pollution hazard to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and the public and private shorelines and beaches of the United States, because of a discharge, or an imminent discharge, of large quantities of oil, or of a hazardous substance from a vessel the United States may (A) coordinate and direct all public and private efforts directed at the removal or elimination of such threat; and (B) summarily remove, and, if necessary, destroy such vessel by whatever means are available without regard to any provisions of law governing the employment of personnel or the expenditure of appropriated funds. Any expense incurred under this subsection or under the Intervention on the High Seas Act (or the convention defined in section 2(3) thereof) shall be a cost incurred by the United States Government for the purposes of subsection (f) of this section in the removal of oil or hazardous substance.”
 
-Subsec. (e). Pub. L. 101–380, §4306, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In addition to any other action taken by a State or local government, when the President determines there is an imminent and substantial threat to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and public and private property, shorelines, and beaches within the United States, because of an actual or threatened discharge of oil or hazardous substance into or upon the navigable waters of the United States from an onshore or offshore facility, the President may requirethe United States attorney of the district in which the threat occurs to secure such relief as may be necessary to abate such threat, and the district courts of the United States shall have jurisdiction to grant such relief as the public interest and the equities of the case may require.”
+Subsec. (e). Pub. L. 101–380, §4306, amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “In addition to any other action taken by a State or local government, when the President determines there is an imminent and substantial threat to the public health or welfare of the United States, including, but not limited to, fish, shellfish, and wildlife and public and private property, shorelines, and beaches within the United States, because of an actual or threatened discharge of oil or hazardous substance into or upon the navigable waters of the United States from an onshore or offshore facility, the President may require the United States attorney of the district in which the threat occurs to secure such relief as may be necessary to abate such threat, and the district courts of the United States shall have jurisdiction to grant such relief as the public interest and the equities of the case may require.”
 
 Subsec. (i). Pub. L. 101–380, §2002(b)(1), struck out par. (1) designation before “In any case” and struck out pars. (2) and (3) which read as follows:
 
@@ -796,7 +796,9 @@ Section 58(h) of Pub. L. 95–217 provided that: “The amendments made by parag
 
 #### Transfer of Functions
 
-Enforcement functions of Administrator or other official of the Environmental Protection Agency underthis section relating to spill prevention, containment and countermeasure plans with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+Enforcement functions of Administrator or other official of the Environmental Protection Agency under this section relating to spill prevention, containment and countermeasure plans with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(a), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -805,6 +807,28 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 #### Termination of United States District Court for the District of the Canal Zone
 
 For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30-month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
+
+#### Report on Oil Spill Responder Immunity
+
+Pub. L. 107–295, title IV, §440, Nov. 25, 2002, 116 Stat. 2130, provided that:
+
+“(a)
+
+Report to Congress.—Not later than January 1, 2004, the Secretary of the department in which the Coast Guard is operating, jointly with the Secretary of Commerce and the Secretary of the Interior, and after consultation with the Administrator of the Environmental Protection Agency and the Attorney General, shall submit a report to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives on the immunity from criminal and civil penalties provided under existing law of a private responder (other than a responsible party) in the case of the incidental take of federally listed fish or wildlife that results from, but is not the purpose of, carrying out an otherwise lawful activity conducted by that responder during an oil spill removal activity where the responder was acting in a manner consistent with the National Contingency Plan or as otherwise directed by the Federal On-Scene Coordinator for the spill, and on the circumstances under which such penalties have been or could be imposed on a private responder. The report shall take into consideration the procedures under the Inter-Agency Memorandum for addressing incidental takes.
+
+“(b)
+
+Definitions.—In this section—
+
+&emsp;“(1) the term ‘Federal On-Scene Coordinator’ has the meaning given that term in section 311 of the Federal Water Pollution Control Act (33 U.S.C. 1321);
+
+&emsp;“(2) the term ‘incidental take’ has the meaning given that term in the Inter-Agency Memorandum;
+
+&emsp;“(3) the term ‘Inter-Agency Memorandum’ means the Inter-Agency Memorandum of Agreement Regarding Oil Spill Planning and Response Activities under the Federal Water Pollution Control Act's National Oil and Hazardous Substances Pollution Contingency Plan and the Endangered Species Act \[of 1973, 16 U.S.C. 1531 et seq.\], effective on July 22, 2001;
+
+&emsp;“(4) the terms ‘National Contingency Plan’, ‘removal’, and ‘responsible party’ have the meanings given those terms under section 1001 of the Oil Pollution Act of 1990 (33 U.S.C. 2701); and
+
+&emsp;“(5) the term ‘private responder’ means a nongovernmental entity or individual that is carrying out an oil spill removal activity at the direction of a Federal agency or a responsible party.”
 
 #### Oil Spill Liability Under Oil Pollution Act of 1990
 
@@ -866,7 +890,7 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 
 #### Executive Order No. 11735
 
-Ex. Ord. No. 11735, Aug. 3, 1973, 38 F.R. 21243, as amended by Ex. Ord. No. 12418, May 5, 1983, 48 F.R.20891, which assigned functions of the President regarding water pollution, was revoked by Ex. Ord. No. 12777, §8(i), Oct. 18, 1991, 56 F.R. 54769, set out below.
+Ex. Ord. No. 11735, Aug. 3, 1973, 38 F.R. 21243, as amended by Ex. Ord. No. 12418, May 5, 1983, 48 F.R. 20891, which assigned functions of the President regarding water pollution, was revoked by Ex. Ord. No. 12777, §8(i), Oct. 18, 1991, 56 F.R. 54769, set out below.
 
 #### Executive Order No. 12418
 
@@ -874,9 +898,9 @@ Ex. Ord. No. 12418, May 5, 1983, 48 F.R. 20891, which transferred certain functi
 
 #### Ex. Ord. No. 12777. Implementation of This Section and Oil Pollution Act of 1990
 
-Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54757, provided:
+Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54757, as amended by Ex. Ord. No. 13286, §34, Feb. 28, 2003, 68 F.R. 10625, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, including Section 311 of the Federal Water Pollution Control Act, (“FWPCA”) (33 U.S.C. 1321), as amended by the Oil Pollution Act of 1990 (Public Law 101–380) (“OPA”), and by Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including Section 311 of the Federal WaterPollution Control Act, (“FWPCA”) (33 U.S.C. 1321), as amended by the Oil Pollution Act of 1990 (Public Law 101–380) (“OPA”), and by Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
 Section 1. <i>National Contingency Plan, Area Committees, and Area Contingency Plans</i>. (a) Section 1 of Executive Order No. 12580 of January 23, 1987 \[42 U.S.C. 9615 note\], is amended to read as follows:
 
@@ -916,7 +940,7 @@ Sec. 2. <i>National Response System</i>. (a) The functions vested in the Preside
 
 (b)(1) The functions vested in the President by Section 311(j)(1)(C) of FWPCA, respecting the establishment of procedures, methods, and equipment and other requirements for equipment to prevent and to contain discharges of oil and hazardous substances from non-transportation-related onshore facilities, are delegated to the Administrator.
 
-(2) The functions vested in the President by Section 311(j)(1)(C) of FWPCA, respecting the establishment of procedures, methods, and equipment and other requirements for equipment to prevent and to contain discharges of oil and hazardous substances from vessels and transportation-related onshore facilities and deepwater ports subject to the Deepwater Ports \[Port\] Act of 1974 (“DPA”) \[33 U.S.C. 1501 et seq.\], are delegated to the Secretary of Transportation.
+(2) The functions vested in the President by Section 311(j)(1)(C) of FWPCA, respecting the establishment of procedures, methods, and equipment and other requirements for equipment to prevent and to contain discharges of oil and hazardous substances from vessels and transportation-related onshore facilities and deepwater ports subject to the Deepwater Ports \[Port\] Act of 1974 (“DPA”) \[33 U.S.C. 1501 et seq.\], are delegated to the Secretary of Transportation and the Secretary of the Department in which the Coast Guard is operating.
 
 (3) The functions vested in the President by Section 311(j)(1)(C) of FWPCA, respecting the establishment of procedures, methods, and equipment and other requirements for equipment to prevent and to contain discharges of oil and hazardous substances from offshore facilities, including associated pipelines, other than deepwater ports subject to the DPA, are delegated to the Secretary of the Interior.
 
@@ -924,13 +948,13 @@ Sec. 2. <i>National Response System</i>. (a) The functions vested in the Preside
 
 (d)(1) The functions vested in the President by Section 311(j)(5) of FWPCA and Section 4202(b)(4) of OPA \[set out as a note above\], respecting the issuance of regulations requiring the owners or operators of non-transportation-related onshore facilities to prepare and submit response plans, the approval of means to ensure the availability of private personnel and equipment, the review and approval of such response plans, and the authorization of non-transportation-related onshore facilities to operate without approved response plans, are delegated to the Administrator.
 
-(2) The functions vested in the President by Section 311(j)(5) of FWPCA and Section 4202(b)(4) of OPA, respecting the issuance of regulations requiring the owners or operators of tank vessels, transportation-related onshore facilities and deepwater ports subject to the DPA, to prepare and submit response plans, the approval of means to ensure the availability of private personnel and equipment, the review and approval of such response plans, and the authorization of tank vessels, transportation-related onshore facilities and deepwater ports subject to the DPA to operate without approved response plans, are delegated to the Secretary of Transportation.
+(2) The functions vested in the President by Section 311(j)(5) of FWPCA and Section 4202(b)(4) of OPA, respecting the issuance of regulations requiring the owners or operators of tank vessels, transportation-related onshore facilities and deepwater ports subject to the DPA, to prepare and submit response plans, the approval of means to ensure the availability of private personnel and equipment, the review and approval of such response plans, and the authorization of tank vessels, transportation-related onshore facilities and deepwater ports subject to the DPA to operate without approved response plans, are delegated to the Secretary of Transportation and the Secretary of the Department in which the Coast Guard is operating.
 
 (3) The functions vested in the President by Section 311(j)(5) of FWPCA and Section 4202(b)(4) of OPA, respecting the issuance of regulations requiring the owners or operators of offshore facilities, including associated pipelines, other than deepwater ports subject to the DPA, to prepare and submit response plans, the approval of means to ensure the availability of private personnel and equipment, the review and approval of such response plans, and the authorization of offshore facilities, including associated pipelines, other than deepwater ports subject to the DPA, to operate without approved response plans, are delegated to the Secretary of the Interior.
 
 (e)(1) The functions vested in the President by Section 311(j)(6)(A) of FWPCA, respecting the requirements for periodic inspections of containment booms and equipment used to remove discharges at non-transportation-related onshore facilities, are delegated to the Administrator.
 
-(2) The functions vested in the President by Section 311(j)(6)(A) of FWPCA, respecting the requirements for periodic inspections of containment booms and equipment used to remove discharges on vessels, and at transportation-related onshore facilities and deepwater ports subject to the DPA, are delegated to the Secretary of Transportation.
+(2) The functions vested in the President by Section 311(j)(6)(A) of FWPCA, respecting the requirements for periodic inspections of containment booms and equipment used to remove discharges on vessels, and at transportation-related onshore facilities and deepwater ports subject to the DPA, are delegated to the Secretary of the Department in which the Coast Guard is operating.
 
 (3) The functions vested in the President by Section 311(j)(6)(A) of FWPCA, respecting the requirements for periodic inspections of containment booms and equipment used to remove discharges at offshore facilities, including associated pipelines, other than deepwater ports subject to the DPA, are delegated to the Secretary of the Interior.
 
@@ -954,13 +978,13 @@ Sec. 4. <i>Liability Limit Adjustment</i>. (a) The functions vested in the Presi
 
 Sec. 5. <i>Financial Responsibility</i>. (a)(1) The functions vested in the President by Section 1016(e) of OPA \[33 U.S.C. 2716(e)\], respecting (in the case of offshore facilities other than deepwater ports) the issuance of regulations concerning financial responsibility, the determination of acceptable methods of financial responsibility, and the specification of necessary or unacceptable terms, conditions, or defenses, are delegated to the Secretary of the Interior.
 
-(2) The functions vested in the President by Section 1016(e) of OPA, respecting (in the case of deepwater ports) the issuance of regulations concerning financial responsibility, the determination of acceptable methods of financial responsibility, and the specification of necessary or unacceptable terms, conditions, or defenses, are delegated to the Secretary of Transportation.
+(2) The functions vested in the President by Section 1016(e) of OPA, respecting (in the case of deepwater ports) the issuance of regulations concerning financial responsibility, the determination of acceptable methods of financial responsibility, and the specification of necessary or unacceptable terms, conditions, or defenses, are delegated to the Secretary of the Department in which the Coast Guard is operating.
 
 (b)(1) The functions vested in the President by Section 4303 of OPA \[33 U.S.C. 2716a\], respecting (in cases involving vessels) the assessment of civil penalties, the compromising, modification or remission, with or without condition, and the referral for collection of such imposed penalties, and requests to the Attorney General to secure necessary judicial relief, are delegated to the Secretary of the Department in which the Coast Guard is operating.
 
 (2) The functions vested in the President by Section 4303 of OPA, respecting (in cases involving offshore facilities other than deepwater ports) the assessment of civil penalties, the compromising, modification or remission, with or without condition, and the referral for collection of such imposed penalties, and requests to the Attorney General to secure necessary judicial relief, are delegated to the Secretary of the Interior.
 
-(3) The functions vested in the President by Section 4303 of OPA, respecting (in cases involving deepwater ports) the assessment of civil penalties, the compromising, modification or remission, with or without condition, and the referral for collection of such imposed penalties, and requests to the Attorney General to secure necessary judicial relief, are delegated to the Secretary of Transportation.
+(3) The functions vested in the President by Section 4303 of OPA, respecting (in cases involving deepwater ports) the assessment of civil penalties, the compromising, modification or remission, with or without condition, and the referral for collection of such imposed penalties, and requests to the Attorney General to secure necessary judicial relief, are delegated to the Secretary of the Department in which the Coast Guard is operating.
 
 Sec. 6. <i>Enforcement</i>. (a) The functions vested in the President by Section 311(m)(1) of FWPCA, respecting the enforcement of Section 311 with respect to vessels, are delegated to the Secretary of the Department in which the Coast Guard is operating.
 
@@ -996,11 +1020,11 @@ Sec. 8. <i>Miscellaneous</i>. (a) The functions vested in the President by Secti
 
 (e) The functions vested in the President by Section 4113 of OPA \[104 Stat. 516\], respecting a study on the use of liners or other secondary means of containment for onshore facilities, and the implementation of the recommendations of the study, are delegated to the Administrator.
 
-(f) The function vested in the President by Section 5002(c)(2)(D) of OPA \[33 U.S.C. 2732(c)(2)(D)\], respecting the designating of an employee of the Federal Government who shall represent the Federal Government on the Oil Terminal Facilities and Oil Tanker Operations Associations, is delegated to the Secretary of Transportation.
+(f) The function vested in the President by Section 5002(c)(2)(D) of OPA \[33 U.S.C. 2732(c)(2)(D)\], respecting the designating of an employee of the Federal Government who shall represent the Federal Government on the Oil Terminal Facilities and Oil Tanker Operations Associations, is delegated to the Secretary of the Department in which the Coast Guard is operating.
 
-(g) The functions vested in the President by Section 5002(<i>o</i>) of OPA, respecting the annual certification of alternative voluntary advisory groups, are delegated to the Secretary of Transportation.
+(g) The functions vested in the President by Section 5002(<i>o</i>) of OPA, respecting the annual certification of alternative voluntary advisory groups, are delegated to the Secretary of the Department in which the Coast Guard is operating.
 
-(h) The function vested in the President by Section 7001(a)(3) of OPA \[33 U.S.C. 2761(a)(3)\], respecting the appointment of Federal agencies to membership on the Interagency Coordinating Committee on Oil Pollution Research, is delegated to the Secretary of Transportation.
+(h) The function vested in the President by Section 7001(a)(3) of OPA \[33 U.S.C. 2761(a)(3)\], respecting the appointment of Federal agencies to membership on the Interagency Coordinating Committee on Oil Pollution Research, is delegated to the Secretary of the Department in which the Coast Guard is operating.
 
 (i) Executive Order No. 11735 of August 3, 1973, Executive Order No. 12123 of February 26, 1979, Executive Order No. 12418 of May 5, 1983 and the memorandum of August 24, 1990, delegating certain authorities of the President under the Oil Pollution Act of 1990 are revoked.
 
@@ -1010,11 +1034,9 @@ Sec. 10. <i>Litigation</i>. (a) Notwithstanding any other provision of this orde
 
 (b) Notwithstanding any other provision of this order, the authority under the Oil Pollution Act of 1990 to require the Attorney General to commence litigation is retained by the President.
 
-(c) Notwithstanding any other provision of this order, the Secretaries of the Departments of Transportation, Commerce, Interior, Agriculture, and/or the Administrator of the Environmental Protection Agency may request that the Attorney General commence litigation under the Oil Pollution Act of 1990.
+(c) Notwithstanding any other provision of this order, the Secretaries of the Departments of Transportation, Commerce, Interior, Agriculture, the Secretary of the Department in which the Coast Guard is operating, and/or the Administrator of the Environmental Protection Agency may request that the Attorney General commence litigation under the Oil Pollution Act of 1990.
 
 (d) The Attorney General, in his discretion, is authorized to require that, with respect to a particular oil spill, an agency refrain from taking administrative enforcement action without first consulting with the Attorney General.
-
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

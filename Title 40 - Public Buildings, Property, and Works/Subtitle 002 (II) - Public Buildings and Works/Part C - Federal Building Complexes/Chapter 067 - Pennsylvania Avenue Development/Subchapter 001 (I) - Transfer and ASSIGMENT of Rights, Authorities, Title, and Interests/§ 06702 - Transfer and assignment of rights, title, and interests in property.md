@@ -1,0 +1,138 @@
+### §6702. Transfer and assignment of rights, title, and interests in property
+
+(a)
+
+In General.—
+
+&emsp;(1)
+
+Leases, covenants, agreements, and easements.—As provided in this section, the General Services Administration, the National Capital Planning Commission, and the National Park Service have the rights, title, and interest of the Pennsylvania Avenue Development Corporation in and to all leases, covenants, agreements, and easements the Corporation executed before April 1, 1996, in carrying out its powers and duties under the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1266) and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735).
+
+&emsp;(2)
+
+Property.—The Administration has the rights, title, and interest of the Corporation in and to all property held in the name of the Corporation, except as provided in subsection (c).
+
+(b)
+
+General Services Administration.—
+
+&emsp;(1)
+
+Responsibilities.—The responsibilities of the Corporation transferred to the Administration under subsection (a) include—
+
+&emsp;&emsp;(A) the collection of revenue owed the Federal Government as a result of real estate sales or lease agreements made by the Corporation and private parties, including—
+
+&emsp;&emsp;&emsp;(i) the Willard Hotel property on Square 225;
+
+&emsp;&emsp;&emsp;(ii) the Gallery Row project on Square 457;
+
+&emsp;&emsp;&emsp;(iii) the Lansburgh's project on Square 431; and
+
+&emsp;&emsp;&emsp;(iv) the Market Square North project on Square 407;
+
+&emsp;&emsp;(B) the collection of sale or lease revenue owed the Government from the sale or lease before April 1, 1996, of two undeveloped sites owned by the Corporation on Squares 457 and 406;
+
+&emsp;&emsp;(C) the application of collected revenue to repay Treasury debt the Corporation incurred when acquiring real estate;
+
+&emsp;&emsp;(D) performing financial audits for projects in which the Corporation has actual or potential revenue expectation, as identified in subparagraphs (A) and (B), in accordance with procedures described in applicable sale or lease agreements;
+
+&emsp;&emsp;(E) the disposition of real estate properties which are or become available for sale and lease or other uses;
+
+&emsp;&emsp;(F) payment of benefits in accordance with the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970 (42 U.S.C. 4601 et seq.) to which persons in the project area squares are entitled as a result of the Corporation's acquisition of real estate; and
+
+&emsp;&emsp;(G) carrying out the responsibilities of the Corporation under subchapter III and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735), including responsibilities for managing assets and liabilities of the Corporation under subchapter III and the Act.
+
+&emsp;(2)
+
+Powers.—In carrying out the responsibilities of the Corporation transferred under this section, the Administrator of General Services may—
+
+&emsp;&emsp;(A) acquire land, improvements, and property by purchase, lease or exchange, and sell, lease, or otherwise dispose of any property, as necessary to complete the development plan developed under section 5 of the Pennsylvania Avenue Development Corporation Act of 1972 (Public Law 92–578, 86 Stat. 1269) if a notice of intention to carry out the acquisition or disposal is first transmitted to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and at least 60 days elapse after the date of the transmission;
+
+&emsp;&emsp;(B) modify the plan referred to in subparagraph (A) if the modification is first transmitted to the Committee on Transportation and Infrastructure and the Committee on Appropriations of the House of Representatives and the Committee on Environment and Public Works and the Committee on Appropriations of the Senate and at least 60 days elapse after the date of the transmission;
+
+&emsp;&emsp;(C) maintain any existing Corporation insurance programs;
+
+&emsp;&emsp;(D) make and perform transactions with an agency or instrumentality of the Federal Government, a State, the District of Columbia, or any person as necessary to carry out the responsibilities of the Corporation under subchapter III and the Federal Triangle Development Act (Public Law 100–113, 101 Stat. 735);
+
+&emsp;&emsp;(E) request the Council of the District of Columbia to close any alleys necessary for the completion of development in Square 457; and
+
+&emsp;&emsp;(F) use all of the amount transferred from the Corporation or income earned on Corporation property to complete any pending development projects.
+
+(c)
+
+National Park Service.—
+
+&emsp;(1)
+
+Property.—The National Park Service has the right, title, and interest in and to the property located in the Pennsylvania Avenue National Historic Site, including the parks, plazas, sidewalks, special lighting, trees, sculpture, and memorials, depicted on a map entitled “Pennsylvania Avenue National Historic Park”, dated June 1, 1995, and numbered 840–82441. The map shall be on file and available for public inspection in the offices of the Service.
+
+&emsp;(2)
+
+Responsibilities.—The Service is responsible for management, administration, maintenance, law enforcement, visitor services, resource protection, interpretation, and historic preservation at the Site.
+
+&emsp;(3)
+
+Special events, festivals, concerts, or programs.—The Service may—
+
+&emsp;&emsp;(A) make transactions with an agency or instrumentality of the Government, a State, the District of Columbia, or any person as considered necessary or appropriate for the conduct of special events, festivals, concerts, or other art and cultural programs at the Site; or
+
+&emsp;&emsp;(B) establish a nonprofit foundation to solicit amounts for those activities.
+
+&emsp;(4)
+
+Jurisdiction of district of columbia.—Jurisdiction of Pennsylvania Avenue and all other roadways from curb to curb remains with the District of Columbia but vendors are not permitted to occupy street space except during temporary special events.
+
+(d)
+
+National Capital Planning Commission.—The National Capital Planning Commission is responsible for ensuring that development in the Pennsylvania Avenue area is carried out in accordance with the Pennsylvania Avenue Development Corporation Plan—1974.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1194.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+6702
+
+40:872 note.
+
+Pub. L. 104–134, title I, §101(c) \[title III, §313(a)–(e)\], Apr. 26, 1996, 110 Stat. 1321–198, renumbered as title I by Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327.
+
+Subsection (a) is substituted for section 313(a) of title III of section 101(c) of the Act of April 26, 1996, to eliminate obsolete words.
+
+In subsection (a)(2), the words “both real and personal” are omitted as unnecessary.
+
+In subsection (b)(1)(A), before subclause (i), the words “with respect to the following projects” are omitted as unnecessary.
+
+In subsection (b)(1)(F), the word “Acquisition” is substituted for “Acquisitions” to correct an error in the source provision.
+
+In subsections (b)(2)(D) and (c)(3)(A), the words “firm, association, or corporation” are omitted because of the definition of “person” in 1:1.
+
+In subsection (b)(2)(D), the words “leases, contracts, or other” are omitted as unnecessary.
+
+Subsection (c)(1) is substituted for section 313(d)(1) of title III of section 101(c) of the Act of April 26, 1996, to eliminate obsolete words.
+
+In subsection (c)(3)(A), the words “contracts, cooperative agreements, or other” are omitted as unnecessary.
+
+In subsection (d), the words “Notwithstanding any other provision of law” are omitted as unnecessary. The words “commencing April 1, 1996” are omitted as obsolete. The words “or its successor” and “or redevelopment” are omitted as unnecessary.
+
+#### References in Text
+
+The Pennsylvania Avenue Development Corporation Act of 1972, referred to in subsec. (a)(1), is Pub. L. 92–578, Oct. 27, 1972, 86 Stat. 1266, as amended, which was classified to chapter 19 (§871 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as section 6701 of this title and subchapter II of this chapter by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+
+Section 5 of the Act was classified to section 874 of former Title 40 prior to repeal by Pub. L. 107–217.
+
+The Federal Triangle Development Act, referred to in subsecs. (a)(1), (b)(1)(G), and (2)(D), is Pub. L. 100–113, Aug. 21, 1987, 101 Stat. 735, as amended, which was classified to chapter 22 (§1101 et seq.) of former Title 40, Public Buildings, Property, and Works, prior to repeal, omission, and reenactment as subchapter III of this chapter by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. For complete classification of this Act to the Code, see Tables.
+
+The Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, referred to in subsec. (b)(1)(F), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended, which is classified principally to chapter 61 (§4601 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of Title 42 and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 6701 of this title.
+

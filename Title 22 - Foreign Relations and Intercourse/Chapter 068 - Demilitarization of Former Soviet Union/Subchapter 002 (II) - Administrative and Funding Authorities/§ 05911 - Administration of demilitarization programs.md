@@ -30,7 +30,7 @@ Chapter 89 of title 10, referred to in subsec. (a)(1)(F), was repealed by Pub. L
 
 #### Codification
 
-Section is comprised of section 1421 of Pub. L. 102–484. Subsec. (a)(2) and (3) of section 1421 of Pub. L. 102–484 amended section 221 of Pub. L. 102–228 which is set out as a note under section 2551 of this title. Subsec. (b) of section 1421 of Pub. L. 102–484 amended sections 108 and 109 of Pub. L. 102–229 which are not classified to the Code.
+Section is comprised of section 1421 of Pub. L. 102–484. Subsec. (a)(2) and (3) of section 1421 of Pub. L. 102–484amended section 221 of Pub. L. 102–228 which is set out as a note under section 2551 of this title. Subsec. (b) of section 1421 of Pub. L. 102–484 amended sections 108 and 109 of Pub. L. 102–229 which are not classified to the Code.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 (a)(1) Notwithstanding the provisions of section 106, and except in the case of a motion picture or other audiovisual work, it is not an infringement of copyright for a transmitting organization entitled to transmit to the public a performance or display of a work, under a license, including a statutory license under section 114(f), or transfer of the copyright or under the limitations on exclusive rights in sound recordings specified by section 114(a), or for a transmitting organization that is a broadcast radio or television station licensed as such by the Federal Communications Commission and that makes a broadcast transmission of a performance of a sound recording in a digital format on a nonsubscription basis, to make no more than one copy or phonorecord of a particular transmission program embodying the performance or display, if—
 
-&emsp;(A) the copy or phonorecord is retained and used solely by the transmitting organization that made it, and no further copies or phonorecords are reproduced from it; and
+&emsp;(A) the copy or phonorecord is retained and used solely by the transmitting organizationthat made it, and no further copies or phonorecords are reproduced from it; and
 
 &emsp;(B) the copy or phonorecord is used solely for the transmitting organization's own transmissions within its local service area, or for purposes of archival preservation or security; and
 
@@ -36,7 +36,7 @@
 
 Statutory License.—(1) A transmitting organization entitled to transmit to the public a performance of a sound recording under the limitation on exclusive rights specified by section 114(d)(1)(C)(iv) or under a statutory license in accordance with section 114(f) is entitled to a statutory license, under the conditions specified by this subsection, to make no more than 1 phonorecord of the sound recording (unless the terms and conditions of the statutory license allow for more), if the following conditions are satisfied:
 
-&emsp;(A) The phonorecord is retained and used solely by the transmitting organization thatmade it, and no further phonorecords are reproduced from it.
+&emsp;(A) The phonorecord is retained and used solely by the transmitting organization that made it, and no further phonorecords are reproduced from it.
 
 &emsp;(B) The phonorecord is used solely for the transmitting organization's own transmissions originating in the United States under a statutory license in accordance with section 114(f) or the limitation on exclusive rights specified by section 114(d)(1)(C)(iv).
 
@@ -68,13 +68,25 @@ Statutory License.—(1) A transmitting organization entitled to transmit to the
 
 (B) Any royalty payments in arrears shall be made on or before the 20th day of the month next succeeding the month in which the royalty fees are set.
 
-(8) If a transmitting organization entitled to make a phonorecord under this subsection is prevented from making such phonorecord by reason of the application by the copyright owner of technical measures that prevent the reproduction of the sound recording, the copyright owner shall make available to the transmitting organization the necessary means for permitting the making of such phonorecord as permitted under this subsection, if it is technologically feasible and economically reasonable for the copyright owner to do so. If the copyright owner fails to do so in a timely manner in light of the transmitting organization's reasonable business requirements, the transmitting organization shall not be liable for a violation of section 1201(a)(1) of this title for engaging in such activities as are necessary to make such phonorecords as permitted under this subsection.
+(8) If a transmitting organization entitled to make a phonorecord under this subsection is prevented from making such phonorecord by reason of the application by the copyright owner of technical measures that prevent the reproduction of the sound recording, the copyright owner shall make available to the transmitting organization the necessary means for permitting the making of such phonorecord as permitted under this subsection, if it is technologically feasible and economically reasonable for the copyright owner to do so. If the copyright owner fails to do so in a timely manner in light of the transmitting organization's reasonable business requirements, the transmitting organizationshall not be liable for a violation of section 1201(a)(1) of this title for engaging in such activities as are necessary to make such phonorecords as permitted under this subsection.
 
 (9) Nothing in this subsection annuls, limits, impairs, or otherwise affects in any way the existence or value of any of the exclusive rights of the copyright owners in a sound recording, except as otherwise provided in this subsection, or in a musical work, including the exclusive rights to reproduce and distribute a sound recording or musical work, including by means of a digital phonorecord delivery, under sections 106(1), 106(3), and 115, and the right to perform publicly a sound recording or musical work, including by means of a digital audio transmission, under sections 106(4) and 106(6).
 
-(f) The transmission program embodied in a copy or phonorecord made under this section is not subject to protection as a derivative work under this title except with the express consent of the owners of copyright in the preexisting works employed in the program.
+(f)(1) Notwithstanding the provisions of section 106, and without limiting the application of subsection (b), it is not an infringement of copyright for a governmental body or other nonprofit educational institution entitled under section 110(2) to transmit a performance or display to make copies or phonorecords of a work that is in digital form and, solely to the extent permitted in paragraph (2), of a work that is in analog form, embodying the performance or display to be used for making transmissions authorized under section 110(2), if—
 
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2558; Pub. L. 105–304, title IV, §§402, 405(b), Oct. 28, 1998, 112 Stat. 2888, 2899; Pub. L. 106–44, §1(b), Aug. 5, 1999, 113 Stat. 221.)
+&emsp;(A) such copies or phonorecords are retained and used solely by the body or institution that made them, and no further copies or phonorecords are reproduced from them, except as authorized under section 110(2); and
+
+&emsp;(B) such copies or phonorecords are used solely for transmissions authorized under section 110(2).
+
+(2) This subsection does not authorize the conversion of print or other analog versions of works into digital formats, except that such conversion is permitted hereunder, only with respect to the amount of such works authorized to be performed or displayed under section 110(2), if—
+
+&emsp;(A) no digital version of the work is available to the institution; or
+
+&emsp;(B) the digital version of the work that is available to the institution is subject to technological protection measures that prevent its use for section 110(2).
+
+(g) The transmission program embodied in a copy or phonorecord made under this section is not subject to protection as a derivative work under this title except with the express consent of the owners of copyright in the preexisting works employed in the program.
+
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2558; Pub. L. 105–304, title IV, §§402, 405(b), Oct. 28, 1998, 112 Stat. 2888, 2899; Pub. L. 106–44, §1(b), Aug. 5, 1999, 113 Stat. 221; Pub. L. 107–273, div. C, title III, §13301(c)(1), Nov. 2, 2002, 116 Stat. 1912.)
 
 #### Historical and Revision Notes
 
@@ -90,7 +102,7 @@ Some concern has been expressed by authors and publishers lest the term “organ
 
 <i>Scope of the Privilege</i>.—Subsection (a) permits the transmitting organization to make “no more than one copy or phonorecord of a particular transmission program embodying the performance or display.” A “transmission program” is defined in section 101 as a body of material produced for the sole purpose of transmission as a unit. Thus, under section 112(a), a transmitter could make only one copy or phonorecord of a particular “transmission program” containing a copyrighted work, but would not be limited as to the number of times the work itself could be duplicated as part of other “transmission programs.”
 
-Three specific limitations on the scope of the ephemeral recording privilege are set out in subsection (a), and unless all are met the making of an “ephemeral recording” becomes fully actionable as an infringement. The first requires that the copy or phonorecord be “retained and used solely by the transmitting organization that made it,” and that “no further copies or phonorecords are reproduced from it.” This means that a transmitting organization would have no privilege of exchanging ephemeral recordings with other transmitters or of allowing them to duplicate their own ephemeral recordings from the copy or phonorecord it has made. There is nothing in the provision to prevent a transmitting organization from having an ephemeral recording made by means of facilities other than its own, although it would not be permissible for a person or organization other than a transmitting organization to make a recording on its own initiative for possible sale or lease to a broadcaster. The ephemeral recording privilege would extend to copies or phonorecords made in advance for later broadcast, as well as recordings of a program that are made while it is being transmittedand are intended for deferred transmission or preservation.
+Three specific limitations on the scope of the ephemeral recording privilege are set out in subsection (a), and unless all are met the making of an “ephemeral recording” becomes fully actionable as an infringement. The first requires that the copy or phonorecord be “retained and used solely by the transmitting organization that made it,” and that “no further copies or phonorecords are reproduced from it.” This means thata transmitting organization would have no privilege of exchanging ephemeral recordings with other transmitters or of allowing them to duplicate their own ephemeral recordings from the copy or phonorecord it has made. There is nothing in the provision to prevent a transmitting organization from having an ephemeral recording made by means of facilities other than its own, although it would not be permissible for a person or organization other than a transmitting organization to make a recording on its own initiative for possible sale or lease to a broadcaster. The ephemeral recording privilege would extend to copies or phonorecords made in advance for later broadcast, as well as recordings of a program that are made while it is being transmitted and are intended for deferred transmission or preservation.
 
 Clause (2) of section 112(a) provides that, to be exempt from copyright, the copy or phonorecord must be “used solely for the transmitting organization's own transmissions within its local service area, or for purposes of archival preservation or security”. The term “local service area” is defined in section 111(f).
 
@@ -126,6 +138,8 @@ The date of the enactment of the Digital Millennium Copyright Act, referred to i
 
 #### Amendments
 
+2002—Subsecs. (f), (g). Pub. L. 107–273 added subsec. (f) and redesignated former subsec. (f) as (g).
+
 1999—Subsec. (e)(2). Pub. L. 106–44, §1(b)(1), redesignated par. (3) as (2).
 
 Subsec. (e)(3). Pub. L. 106–44, §1(b)(1), (2), redesignated par. (4) as (3) and substituted “(1)” for “(2)” in first sentence. Former par. (3) redesignated (2).
@@ -148,5 +162,5 @@ Pub. L. 105–304, title IV, §405(c), Oct. 28, 1998, 112 Stat. 2902, provided t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 501, 511, 802, 803 of this title; title 18 section 2319.
+This section is referred to in sections 106, 114, 501, 511, 802, 803 of this title; title 18 section 2319.
 

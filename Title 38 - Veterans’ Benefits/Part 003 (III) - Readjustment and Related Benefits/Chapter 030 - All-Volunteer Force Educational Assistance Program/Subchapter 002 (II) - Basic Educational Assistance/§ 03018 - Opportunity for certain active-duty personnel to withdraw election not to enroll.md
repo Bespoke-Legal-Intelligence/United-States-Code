@@ -18,7 +18,7 @@
 
 &emsp;(3)(A) serves the obligated period of service described in clause (2) of this subsection;
 
-&emsp;(B) before completing such obligated period of service, is discharged or released from active duty for (i) a service-connected disability, (ii) a medical condition which preexisted such service and which the Secretary determines is not service connected, (iii) hardship, or (iv) a physical or mental condition that was not characterized as a disability and did not result from the individual's own willful misconduct but did interfere with the individual's performance of duty, as determined by the Secretary of each military department in accordance with regulations prescribed by the Secretary of Defense (or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service of the Navy); or
+&emsp;(B) before completing such obligated period of service, is discharged or released from active duty for (i) a service-connected disability, (ii) a medical condition which preexisted such service and which the Secretary determines is not service connected, (iii) hardship, or (iv) a physical or mental condition that was not characterized as a disability and did not result from the individual's own willful misconduct but did interfere with the individual's performance of duty, as determined by the Secretary of each military department in accordance with regulations prescribed by the Secretary of Defense (or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service of the Navy); or
 
 &emsp;(C) before completing such obligated period of service, is (i) discharged or released from active duty for the convenience of the Government after completing not less than 20 months of such period of service, if such period was less than three years, or 30 months, if such period was at least three years, or (ii) involuntarily discharged or released from active duty for the convenience of the Government as a result of a reduction in force, as determined by the Secretary concerned in accordance with regulations prescribed by the Secretary of Defense;
 
@@ -46,9 +46,11 @@
 
 (d) A withdrawal under subsection (b)(1) of this section is irrevocable.
 
-(Added Pub. L. 100–689, title I, §103(a), Nov. 18, 1988, 102 Stat. 4164, §1418; amended Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §10(a)(2), Mar. 22, 1991, 105 Stat. 55; renumbered §3018 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §506(b)(2), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–568, title III, §309(a), Oct. 29, 1992, 106 Stat. 4329; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 106–419, title I, §102(c), Nov. 1, 2000, 114 Stat. 1825.)
+(Added Pub. L. 100–689, title I, §103(a), Nov. 18, 1988, 102 Stat. 4164, §1418; amended Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(A), Dec. 18, 1989, 103 Stat. 2092; Pub. L. 102–16, §10(a)(2), Mar. 22, 1991, 105 Stat. 55; renumbered §3018 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §506(b)(2), Aug. 14, 1991, 105 Stat. 426; Pub. L. 102–568, title III, §309(a), Oct. 29, 1992, 106 Stat. 4329; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 106–419, title I, §102(c), Nov. 1, 2000, 114 Stat. 1825; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
 
 #### Amendments
+
+2002—Subsec. (b)(3)(B)(iv). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2000—Subsec. (b)(4). Pub. L. 106–419 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “before completing such obligated period of service (i) has completed the requirements of a secondary school diploma (or an equivalency certificate), or (ii) has successfully completed (or otherwise received academic credit for) the equivalent of 12 semester hours in a program of education leading to a standard college degree; and”.
 
@@ -71,6 +73,10 @@ Subsec. (c). Pub. L. 102–83, §5(c)(1), substituted “3011(c)(1) or 3012(d)(1
 1989—Subsec. (a). Pub. L. 101–237, §423(b)(4)(A), as amended by Pub. L. 102–86, inserted “of Defense” after “Secretary” in concluding provisions.
 
 Subsec. (b)(3)(B). Pub. L. 101–237, §423(b)(1)(A), substituted “Secretary” for “Administrator”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1998 Amendment
 

@@ -18,7 +18,7 @@ A prior section 2034, Pub. L. 92–181, title I, §1.16, Dec. 10, 1971, 85 Stat.
 
 A prior section 2051, Pub. L. 92–181, title I, §1.17, Dec. 10, 1971, 85 Stat. 589; Pub. L. 96–592, title I, §112, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title II, §205(d)(6), title VI, §602, Dec. 23, 1985, 99 Stat. 1704, 1711; Pub. L. 100–233, title VIII, §802(f), Jan. 6, 1988, 101 Stat. 1711, related to land bank reserves, dividends, and patronage refunds, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
-A prior section 2052, Pub. L. 92–181, title I, §1.18, Dec. 10, 1971, 85 Stat. 589; Pub. L. 96–592, title I, §113, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title VI, §603, Dec. 23,1985, 99 Stat. 1711; Pub. L. 100–233, title VIII, §802(g), Jan. 6, 1988, 101 Stat. 1711, related to association reserves, dividends, and patronage refunds, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
+A prior section 2052, Pub. L. 92–181, title I, §1.18, Dec. 10, 1971, 85 Stat. 589; Pub. L. 96–592, title I, §113, Dec. 24, 1980, 94 Stat. 3439; Pub. L. 99–205, title VI, §603, Dec. 23, 1985, 99 Stat. 1711; Pub. L. 100–233, title VIII, §802(g), Jan. 6, 1988, 101 Stat. 1711, related to association reserves, dividends, and patronage refunds, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 
 A prior section 2053, Pub. L. 92–181, title I, §1.19, Dec. 10, 1971, 85 Stat. 590; Pub. L. 96–592, title I, §114, Dec. 24, 1980, 94 Stat. 3439, related to agreements for sharing gains or losses, prior to the general amendment of this subchapter by Pub. L. 100–233, §401.
 

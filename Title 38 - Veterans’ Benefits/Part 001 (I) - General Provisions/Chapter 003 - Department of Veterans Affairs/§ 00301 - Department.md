@@ -40,7 +40,7 @@ Provisions similar to those in subsec. (b) of this section were contained in sec
 
 #### Order of Succession
 
-For order of succession during any period when both Secretary and Deputy Secretary of Veterans Affairs are unable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, set out as a note under section 3345 of Title 5, Government Organization and Employees.
+For order of succession during any period when both Secretary and Deputy Secretary of Veterans Affairs areunable to perform functions and duties of office of Secretary, see Ex. Ord. No. 13247, Dec. 18, 2001, 66 F.R. 66271, set out as a note under section 3345 of Title 5, Government Organization and Employees.
 
 #### Renaming of Veterans Health Services and Research Administration
 
@@ -118,7 +118,7 @@ Redesignation.—The Office of Inspector General of the Veterans’ Administrati
 
 “(a)
 
-Continuing Effect of Legal Documents.—All orders, determinations, rules, regulations, permits,grants, contracts, certificates, licenses, and privileges—
+Continuing Effect of Legal Documents.—All orders, determinations, rules, regulations, permits, grants, contracts, certificates, licenses, and privileges—
 
 &emsp;“(1) which have been issued, made, granted, or allowed to become effective by the President, by the Administrator of Veterans’ Affairs, or by a court of competent jurisdiction, in the performance of functions of the Administrator or the Veterans’ Administration; and
 

@@ -27,7 +27,9 @@
 
 This chapter is referred to in title 22 section 3664.
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 107–296 without corresponding amendment of part analysis.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 
 
 ---

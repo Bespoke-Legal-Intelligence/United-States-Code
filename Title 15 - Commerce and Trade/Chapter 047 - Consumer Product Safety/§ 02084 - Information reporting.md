@@ -76,3 +76,7 @@ Section 112(f) of Pub. L. 101–608 provided that:
 
 This section is referred to in sections 2055, 2068 of this title.
 
+<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original.</i>
+

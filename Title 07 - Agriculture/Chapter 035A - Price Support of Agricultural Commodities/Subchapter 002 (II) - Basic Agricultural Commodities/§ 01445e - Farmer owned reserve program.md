@@ -54,7 +54,7 @@ The Secretary shall formulate and administer a farmer owned reserve program unde
 
 #### (3) Duration
 
-&emsp;The Secretary shall cease making storage payments whenever the price of wheat or feedgrains is equal to or exceeds 95 percent of the then current established price for the commodities, and for any 90-day period immediately following the last day on which the price of wheat or feed grains was equal to or in excess of 95 percent of the then current established price for the commodities.
+&emsp;The Secretary shall cease making storage payments whenever the price of wheat or feed grains is equal to or exceeds 95 percent of the then current established price for the commodities, and for any 90-day period immediately following the last day on which the price of wheat or feed grains was equal to or in excess of 95 percent of the then current established price for the commodities.
 
 #### (e) Emergencies
 
@@ -120,7 +120,7 @@ Notwithstanding any other provision of law, if a producer has substituted purcha
 
 #### (m) Additional authority
 
-The authority provided by this section shall be in addition to other authorities available to theSecretary for carrying out producer loan and storage operations.
+The authority provided by this section shall be in addition to other authorities available to the Secretary for carrying out producer loan and storage operations.
 
 #### (n) Regulations
 
@@ -184,7 +184,7 @@ Subsec. (d). Pub. L. 97–98 added subsec. (d) and redesignated former subsec. (
 
 Subsec. (e). Pub. L. 97–98 redesignated former subsec. (d) as (e) and substituted provision authorizing Secretary to place an upper limit on the amount of wheat and feed grains placed in the reserve, with such upper limit not less than seven hundred million bushels for wheat and one billion bushels for feed grains, for provision authorizing the maximum amount of wheat stored as not less than three hundred million bushels nor more than seven hundred million bushels, with authority for Secretary to adjust this amount as necessary to meet commitments by the United States pursuant to international agreements. Former subsec. (e) redesignated (f).
 
-Subsec. (f). Pub. L. 97–98 redesignated former subsec. (e) as (f) and substituted in provision preceding par. (1) “the program authorized” for “the extended loan program authorized”, “110 per centum” for “105 per centum”, “Secretary may encourage repayment” for “Secretary may call for repayment”, and “clause (5) of the third sentence of subsection (b) of this section. The foregoing restriction” for “clause (6) of the second sentence of subsection (b) of this section: <i>Provided</i>, That such restriction” and in provision following par. (3) “clause (5) of the third sentence” for “clause (5) of the second sentence”. Former subsec. (f) redesignated (g).
+Subsec. (f). Pub. L. 97–98 redesignated former subsec. (e) as (f) and substituted in provision preceding par. (1) “the program authorized” for “the extended loan program authorized”, “110 per centum” for “105 per centum”, “Secretary may encourage repayment” for “Secretary may call for repayment”, and “clause (5) of thethird sentence of subsection (b) of this section. The foregoing restriction” for “clause (6) of the second sentence of subsection (b) of this section: <i>Provided</i>, That such restriction” and in provision following par. (3) “clause (5) of the third sentence” for “clause (5) of the second sentence”. Former subsec. (f) redesignated (g).
 
 Subsec. (g). Pub. L. 97–98 redesignated former subsec. (f) as (g) and substituted “by the producer's or warehouseman's commitment” for “by his commitment”. Former subsec. (g) redesignated (h).
 
@@ -230,7 +230,7 @@ Section 1001 of Pub. L. 97–98 provided that the amendment made by that section
 
 #### Effective Date of 1980 Amendment
 
-Section 203(b) of Pub. L. 96–494 provided that: “Subsection (a) of this section \[amending this section\] shall become effective October 1, 1980, and any producers who, prior to such date, receive loans on the 1980 cropof the commodity as computed under the Agricultural Act of 1949, as \[see Short Title note set out under section 1421 of this title\] amended prior to the enactment of this Act \[see Short Title note set out under section 4001 of this title\], may elect after September 30, 1980, to receive loans as authorized under subsection (a) of this section.”
+Section 203(b) of Pub. L. 96–494 provided that: “Subsection (a) of this section \[amending this section\] shall become effective October 1, 1980, and any producers who, prior to such date, receive loans on the 1980 crop of the commodity as computed under the Agricultural Act of 1949, as \[see Short Title note set out under section 1421 of this title\] amended prior to the enactment of this Act \[see Short Title note set out under section 4001 of this title\], may elect after September 30, 1980, to receive loans as authorized under subsection (a) of this section.”
 
 Amendment by sections 204 and 205 of Pub. L. 96–494 effective Dec. 3, 1980, see section 213 of Pub. L. 96–494, set out as an Effective Date note under section 4001 of this title.
 
@@ -239,6 +239,8 @@ Amendment by sections 204 and 205 of Pub. L. 96–494 effective Dec. 3, 1980, se
 Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as an Effective Date of 1977 Amendment note under section 1307 of this title.
 
 #### Inapplicability of Section
+
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(5) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(E) of this title.
 
@@ -252,5 +254,5 @@ Section 303(a) of Pub. L. 100–387 provided that: “Effective for the 1988 mar
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1308a, 1427, 1445k, 4001, 4002, 7301 of this title.
+This section is referred to in sections 1308a, 1427, 1445k, 4001, 4002, 7301, 7992 of this title.
 

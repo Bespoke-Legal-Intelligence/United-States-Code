@@ -13,7 +13,7 @@
 | &nbsp; | 7\.5 | Before January 1, 1999. |
 | &nbsp; | 7\.75 | January 1, 1999, to December 31, 1999. |
 | &nbsp; | 7\.9 | January 1, 2000, to December 31, 2000. |
-| &nbsp; | 7\.5 | After December 31, 2000. |
+| &nbsp; | 7\.55 | After January 11, 2003. |
 
 #### (b) Consent to deductions; discharge of claims
 
@@ -27,15 +27,21 @@ Amounts deducted and withheld under this section shall be deposited in the Treas
 
 Under such regulations as the Secretary of State may issue, amounts deducted under subsection (a) of this section shall be entered on individual retirement records.
 
-(Pub. L. 96–465, title I, §856, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 618; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–33, title VII, §7001(e)(1)(A), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53.)
+(Pub. L. 96–465, title I, §856, as added Pub. L. 99–335, title IV, §415, June 6, 1986, 100 Stat. 618; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 105–33, title VII, §7001(e)(1)(A), Aug. 5, 1997, 111 Stat. 661; Pub. L. 106–346, §101(a) \[title V, §505(e)(1)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(b)(2), Sept. 30, 2002, 116 Stat. 1384.)
 
 #### Amendments
+
+2002—Subsec. (a)(2). Pub. L. 107–228, in table, substituted item relating to applicable percentage after January 11, 2003, for item relating to applicable percentage after December 31, 2000.
 
 2000—Subsec. (a)(2). Pub. L. 106–346, in table, substituted item relating to applicable percentage after December 31, 2000, for items relating to applicable percentages from January 1, 2001, to December 31, 2002; and after December 31, 2002.
 
 1997—Subsec. (a). Pub. L. 105–33 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The employing agency shall deduct and withhold from basic pay of each participant a percentage of basic pay equal to 71/2 percent minus the percentage then in effect under section 3101(a) of title 26 (relating to the rate of tax for old age, survivors and disability insurance).”
 
 1986—Subsec. (a). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–228 effective with the first pay period beginning on or after the date that is 90 days after Sept. 30, 2002, see section 322(c)(2) of Pub. L. 107–228, set out as a note under section 4045 of this title.
 
 #### Effective Date of 2000 Amendment
 

@@ -54,9 +54,9 @@ Paragraphs (b) and (c) define and limit contributory infringement of a patent an
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Sections 505(b)(2), 505(j), and 512 of that Act are classified, respectively, to sections 355(b)(2), 355(j), and 360b of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (e)(1), (2), is act June 25, 1938, ch. 675, 52Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. Sections 505(b)(2), 505(j), and 512 of that Act are classified, respectively, to sections 355(b)(2), 355(j), and 360b of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
-Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended. The provisions of such act relating to viruses, etc., applicable to domestic animals, popularly known as the Virus-Serum-Toxin Act, are classified generally to chapter 5 (§151 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
+Act of March 4, 1913, referred to in subsec. (e)(1), (2), is act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended. The provisions of such act relating to viruses, etc., applicable to domestic animals, popularly known as the Virus-Serum-Toxin Act, are contained in the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, at 37 Stat. 832, and are classified generally to chapter 5 (§151 et seq.) of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
 #### Amendments
 
@@ -92,7 +92,7 @@ Subsec. (f). Pub. L. 98–622 added subsec. (f).
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–465 effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patentapplication, see section 534(a), (b)(3) of Pub. L. 103–465, set out as a note under section 154 of this title.
+Amendment by Pub. L. 103–465 effective on date that is one year after date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], with provisions relating to earliest filed patent application, see section 534(a), (b)(3) of Pub. L. 103–465, set out as a note under section 154 of this title.
 
 #### Effective Date of 1992 Amendment
 

@@ -42,7 +42,7 @@
 
 #### (B) Review of formula
 
-&emsp;&emsp;Not later than January 1, 2003, the Secretary shall review the formula establishedunder this section and shall take such steps as are necessary to increase the availability of counseling and therapeutic programs for students in off-reservation home-living (dormitory) schools and other Bureau-operated residential facilities.
+&emsp;&emsp;Not later than January 1, 2003, the Secretary shall review the formula established under this section and shall take such steps as are necessary to increase the availability of counseling and therapeutic programs for students in off-reservation home-living (dormitory) schools and other Bureau-operated residential facilities.
 
 #### (C) Review of standards
 
@@ -160,7 +160,7 @@ In this section, the term “eligible Indian student” means a student who—
 
 #### (3) Attendance of non-Indian students at contract and grant schools
 
-&emsp;The school board of a contract or grant school may permit students who are not eligible Indian students under this subsection to attend its contract school or grant school. Any tuition collected for those students shall be in addition to funding received under this section.
+&emsp;The school board of a contract or grant school may permit students who are not eligible Indian students under this subsection to attend its contract school or grant school.Any tuition collected for those students shall be in addition to funding received under this section.
 
 #### (h) Funds available without fiscal year limitation
 

@@ -10,7 +10,7 @@
 
 (1) The Secretary shall, after consultation with the Marine Mammal Commission—
 
-&emsp;(A) publish in the Federal Register, for public comment, not later than sixty days after November 23, 1988, a proposed list of those fisheries, along with a statement of the marine mammals and the approximate number of vessels or persons involved in each such fishery, that have—
+&emsp;(A) publish in the Federal Register, for public comment, not later than sixty days after November 23, 1988, a proposed list of those fisheries, along with a statement of the marinemammals and the approximate number of vessels or persons involved in each such fishery, that have—
 
 &emsp;&emsp;(i) frequent incidental taking of marine mammals;
 
@@ -74,7 +74,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(3) for each incidental taking, the number and species of marine mammals involved, whether the marine mammals were deterred from gear or catch, incidentally injured, incidentally killed, or lethally removed to protect gear, catch, or human life.
 
-> If there was no incidental taking of marine mammals during the reporting period, a reportstating that fact shall be filed with the Secretary.
+> If there was no incidental taking of marine mammals during the reporting period, a report stating that fact shall be filed with the Secretary.
 
 #### (d) Program for enhancement and verification of information received from vessel owners; confidentiality of information
 
@@ -116,7 +116,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 > The Secretary may, with the consent of the vessel owner, station an observer on board a vessel engaged in a fishery not identified under subsection (b)(1)(A)(i) of this section.
 
-(4) Information gathered by observers shall be subject to the provisions of subsection (j) of this section. Consistent with the requirements of paragraph (1), the Secretary shall, if requested by the Appropriate <sup>1</sup> Regional Fishery Management Council, or in the case of a State fishery, the State, require observers to collect additional information, including but not limited to the quantities, species, and physical condition of target and non-target fishery resources and, if requested by the Secretary of the Interior, seabirds.
+(4) Information gathered by observers shall be subject to the provisions of subsection (j) of this section. Consistent with the requirements of paragraph (1), the Secretary shall, if requested by the Appropriate <sup>1</sup> Regional Fishery Management Council, or in the case of a State fishery, the State, require observers to collect additional information, including but not limited to the quantities, species, and physical condition oftarget and non-target fishery resources and, if requested by the Secretary of the Interior, seabirds.
 
 (5) Notwithstanding the provisions of paragraph (4), the Secretary may decline to require observers to collect information described in such paragraph, if the Secretary finds in writing, following public notice and opportunity for comment, that such information will not contribute to the protection of marine mammals or the understanding of the marine ecosystem, including fishery resources and seabirds.
 
@@ -162,7 +162,7 @@ The owner of each vessel holding an exemption granted under subsection (b) of th
 
 &emsp;(A) a Regional Fishery Management Council or State does not act in a reasonable period of time on a request made by the Secretary under paragraph (3); or
 
-&emsp;(B) if the Secretary determines after notice and opportunity for public comment that the purposes of this section would be better served by such action.
+&emsp;(B) if the Secretary determines after notice and opportunity for public comment that thepurposes of this section would be better served by such action.
 
 #### (h) Information and management system for processing and analyzing reports and information; accessibility to public
 
@@ -170,7 +170,7 @@ The Secretary shall design and implement an information management system capabl
 
 #### (i) Utilization of services of State and Federal agencies and private entities
 
-When carrying out the Secretary's responsibilities under subsections (b), (d), (e), (f), and (h) of this section, the Secretary shall, to the maximum extent practicable, utilize the services and programs of State agencies, Federal agencies (including programs established by Regional Fishery Management Councils), marine fisheries commissions, universities, and private entities, on a reimbursable basis or otherwise. The Secretary is authorized to enter into contracts and agreements to carry out his or her responsibilities and shall establish appropriate guidelines to ensure that other programs used or contracted for will meet the same standards as a program established by the Secretary. A person contracting with the Secretary to provide observer services under subsection (e) of this section must provide evidence of financial responsibility in an amount and form prescribed by theSecretary to compensate employees (or their survivors) adequately for any illness, disability, injury, or death from service on a vessel.
+When carrying out the Secretary's responsibilities under subsections (b), (d), (e), (f), and (h) of this section, the Secretary shall, to the maximum extent practicable, utilize the services and programs of State agencies, Federal agencies (including programs established by Regional Fishery Management Councils), marine fisheries commissions, universities, and private entities, on a reimbursable basis or otherwise. The Secretary is authorized to enter into contracts and agreements to carry out his or her responsibilities and shall establish appropriate guidelines to ensure that other programs used or contracted for will meet the same standards as a program established by the Secretary. A person contracting with the Secretary to provide observer services under subsection (e) of this section must provide evidence of financial responsibility in an amount and form prescribed by the Secretary to compensate employees (or their survivors) adequately for any illness, disability, injury, or death from service on a vessel.
 
 #### (j) Confidentiality of information; exceptions
 

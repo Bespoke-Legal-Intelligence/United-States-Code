@@ -26,7 +26,7 @@ Amendment by Pub. L. 104–104 not to be interpreted as limiting or repealing an
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1961 of this title.
+This section is referred to in section 1961 of this title; title 19 section 1583.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

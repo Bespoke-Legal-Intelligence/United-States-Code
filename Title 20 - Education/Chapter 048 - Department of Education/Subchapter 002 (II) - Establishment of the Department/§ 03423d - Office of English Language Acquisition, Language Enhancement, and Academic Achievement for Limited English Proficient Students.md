@@ -36,3 +36,7 @@ Subsec. (b)(1). Pub. L. 107–110, §1072(d), substituted “Director of English
 
 Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to certain noncompetitive programs and competitive programs, see section 5 of Pub. L. 107–110, set out as an Effective Date note under section 6301 of this title.
 
+#### Office of Educational Research and Improvement
+
+The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
+

@@ -12,7 +12,7 @@ There is within the Department an Office of Intelligence.
 
 #### (c) Duties
 
-Subject to the authority, direction, and control of the Secretary, the Director of the Office shall perform such duties and exercise such powers as the Secretary may prescribe.
+Subject to the authority, direction, and control of the Secretary, the Director of the Officeshall perform such duties and exercise such powers as the Secretary may prescribe.
 
 (Pub. L. 95–91, title II, §216, as added Pub. L. 106–65, div. C, title XXXII, §3204(a), Oct. 5, 1999, 113 Stat. 956.)
 

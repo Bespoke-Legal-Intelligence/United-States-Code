@@ -2,7 +2,7 @@
 
 (a) Of the funds appropriated to carry out this part, up to $75,000,000 for the fiscal year 1986 and up to $75,000,000 for the fiscal year 1987 may be made available for emergency use under this part when the national interests of the United States urgently require economic support to promote economic or political stability.
 
-(b) Notwithstanding any provision of this part or of an appropriations Act (including a joint resolution making continuing appropriations) which earmarks funds available to carry out this part for a specific country or purpose, up to5 percent of each amount so earmarked may be used to carry out this section.
+(b) Notwithstanding any provision of this part or of an appropriations Act (including a joint resolution making continuing appropriations) which earmarks funds available to carry out this part for a specific country or purpose, up to 5 percent of each amount so earmarked may be used to carry out this section.
 
 (Pub. L. 87–195, pt. II, §533, formerly §535, as added Pub. L. 97–113, title II, §202, Dec. 29, 1981, 95 Stat. 1530; renumbered §533 and amended Pub. L. 99–83, title II, §201(b), Aug. 8, 1985, 99 Stat. 211.)
 

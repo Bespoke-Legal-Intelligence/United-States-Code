@@ -8,7 +8,7 @@ The Congress finds that—
 
 &emsp;(3) the Tax Reform Act of 1986 removed major tax incentives for the production of affordable rental housing;
 
-&emsp;(4) the living environments of an increasing number of Americans have deteriorated over the past several years as a result of reductions in Federal assistance to low-income and moderate-income families;
+&emsp;(4) the living environments of an increasing number of Americans have deteriorated over the past several years as a result of reductionsin Federal assistance to low-income and moderate-income families;
 
 &emsp;(5) many Americans face the possibility of homelessness unless Federal, State, and local governments work together with the private sector to develop and rehabilitate the housing stock of the Nation to provide decent, safe, sanitary, and affordable housing for very low-income and low-income families;
 
@@ -28,7 +28,7 @@ The Congress finds that—
 
 &emsp;(9) much of the Nation's housing system works very well and provides a strong base on which national housing policy should build;
 
-&emsp;(10) an increasing number of States and local governments have been successful in producing cost-effective low-income and moderate-income housing by working in partnership with the private sector, including nonprofit community development corporations, community action agencies, neighborhood housing services corporations, trade unions, groups sponsored by religious organizations, limitedequity cooperatives, and other tenant organizations;
+&emsp;(10) an increasing number of States and local governments have been successful in producing cost-effective low-income and moderate-income housing by working in partnership with the private sector, including nonprofit community development corporations, community action agencies, neighborhood housing services corporations, trade unions, groups sponsored by religious organizations, limited equity cooperatives, and other tenant organizations;
 
 &emsp;(11) during the 1980's, nonprofit community housing development organizations, despite severe obstacles caused by inadequate funding, have played an increasingly important role in the production and rehabilitation of affordable housing in communities across the Nation;
 

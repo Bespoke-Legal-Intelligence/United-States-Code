@@ -8,7 +8,7 @@
 
 (3) The Associate Deputy Secretary, the Under Secretary for Health or the designee of the Under Secretary for Health, and the Department official charged with the responsibility for construction shall be ex officio members of such advisory committee.
 
-(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 57, §5005; amended Pub. L. 96–128, title V, §501(e), Nov. 28, 1979, 93 Stat. 987; renumbered §8105, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
+(Added Pub. L. 96–22, title III, §301(a), June 13, 1979, 93 Stat. 57, §5005; amended Pub. L. 96–128,title V, §501(e), Nov. 28, 1979, 93 Stat. 987; renumbered §8105, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(E), 5(c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 
 #### Amendments
 

@@ -188,7 +188,7 @@ Pub. L. 101–508, title VIII, §8005, Nov. 5, 1990, 104 Stat. 1388–343, provi
 
 “(a)
 
-Policy Regarding Fiscal Year 1991.—The fiscal year 1991 cost-of-living adjustments in the rates of compensation payable under chapter 11 of title 38, United States Code, and of the dependency and indemnity compensation payable under chapter 13 of suchtitle will be no more than a 5.4 percent increase, with all increased monthly rates rounded down to the next lower dollar. The effective date for such adjustments will not be earlier than January 1, 1991.
+Policy Regarding Fiscal Year 1991.—The fiscal year 1991 cost-of-living adjustments in the rates of compensation payable under chapter 11 of title 38, United States Code, and of the dependency and indemnity compensation payable under chapter 13 of such title will be no more than a 5.4 percent increase, with all increased monthly rates rounded down to the next lower dollar. The effective date for such adjustments will not be earlier than January 1, 1991.
 
 “(b)
 
@@ -198,7 +198,7 @@ Increase Payable as of January 1992.—The amount of compensation or dependency 
 
 Pub. L. 97–37, §6, Aug. 14, 1981, 95 Stat. 937, provided that:
 
-“(a) Not later than ninety days after the date of the enactment of this Act \[Aug. 14, 1981\] and at appropriate times thereafter, the Administrator shall, to the maximum extent feasible and in order to carry out the requirements of the veterans outreach services program under subchapter IV of chapter 3 \[see subchapter II of chapter 77\] of title 38, United States Code, seek out former prisoners of war and provide them with information regarding applicable changes in law, regulations, policies, guidelines, or other directives affecting the benefits and services to which former prisoners of war are entitled under such title by virtue of the amendments made by this Act \[see Tables for classification\].
+“(a) Not later than ninety days after the date of the enactment of this Act \[Aug. 14, 1981\] and at appropriate times thereafter, the Administrator shall, to the maximum extent feasible and in order to carry out the requirements of the veterans outreach services program under subchapter IV of chapter 3 \[see subchapter II ofchapter 77\] of title 38, United States Code, seek out former prisoners of war and provide them with information regarding applicable changes in law, regulations, policies, guidelines, or other directives affecting the benefits and services to which former prisoners of war are entitled under such title by virtue of the amendments made by this Act \[see Tables for classification\].
 
 “(b)(1) The Administrator shall, for not less than the three-year period beginning ninety days after the date of the enactment of this Act \[Aug. 14, 1981\], maintain a centralized record showing all claims for benefits under chapter 11 of such title that are submitted by former prisoners of war and the disposition of such claims.
 

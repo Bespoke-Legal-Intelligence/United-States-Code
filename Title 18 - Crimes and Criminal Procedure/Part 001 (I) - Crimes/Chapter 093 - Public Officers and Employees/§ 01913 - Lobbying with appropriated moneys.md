@@ -1,10 +1,8 @@
 ### §1913. Lobbying with appropriated moneys
 
-No part of the money appropriated by any enactment of Congress shall, in the absence of express authorization by Congress, be used directly or indirectly to pay for any personal service, advertisement, telegram, telephone, letter, printed or written matter, or other device, intended or designed to influence in any manner a Member of Congress, to favor or oppose, by vote or otherwise, any legislation or appropriation by Congress, whether before or after the introduction of any bill or resolution proposing such legislation or appropriation; but this shall not prevent officers or employees of the United States or of its departments or agencies from communicating to Members of Congress on the request of any Member or to Congress, through the proper official channels, requests for legislation or appropriations which they deem necessary for the efficient conduct of the public business.
+No part of the money appropriated by any enactment of Congress shall, in the absence of express authorization by Congress, be used directly or indirectly to pay for any personal service, advertisement, telegram, telephone, letter, printed or written matter, or other device, intended or designed to influence in any manner a Member of Congress, a jurisdiction, or an official of any government, to favor, adopt, or oppose, by vote or otherwise, any legislation, law, ratification, policy, or appropriation, whether before or after the introduction of any bill, measure, or resolution proposing such legislation, law, ratification, policy, or appropriation; but this shall not prevent officers or employees of the United States or of its departments or agencies from communicating to any such Member or official, at his request, or to Congress or such official, through the proper official channels, requests for any legislation, law, ratification, policy, or appropriations which they deem necessary for the efficient conduct of the public business, or from making any communication whose prohibition by this section might, in the opinion of the Attorney General, violate the Constitution or interfere with the conduct of foreign policy, counter-intelligence, intelligence, or national security activities. Violations of this section shall constitute violations of section 1352(a) of title 31.
 
-Whoever, being an officer or employee of the United States or of any department or agency thereof, violates or attempts to violate this section, shall be fined under this title or imprisoned not more than one year, or both; and after notice and hearing by the superior officer vested with the power of removing him, shall be removed from office or employment.
-
-(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147.)
+(June 25, 1948, ch. 645, 62 Stat. 792; Pub. L. 103–322, title XXXIII, §330016(1)(G), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–273, div. A, title II, §205(b), Nov. 2, 2002, 116 Stat. 1778.)
 
 #### Historical and Revision Notes
 
@@ -20,9 +18,11 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
+2002—Pub. L. 107–273 substituted “a jurisdiction, or an official of any government, to favor, adopt,” for “to favor”, inserted “, law, ratification, policy,” after “legislation” wherever appearing, struck out “by Congress” before “, whether before or after”, inserted “, measure,” before “or resolution”, substituted “any such Member or official, at his request,” for “Members of Congress on the request of any Member”, inserted “or such official” before “, through the proper”, substituted “for any legislation” for “for legislation”, substituted “, or from making any communication whose prohibition by this section might, in the opinion of the Attorney General, violate the Constitution or interfere with the conduct of foreign policy, counter-intelligence, intelligence, or national security activities. Violations of this section shall constitute violations of section 1352(a) of title 31.” for period at end of first par., and struck out last par. which read as follows: “Whoever, being an officer or employee of the United States or of any department or agency thereof, violates or attempts to violate this section, shall be fined under this title or imprisoned not more than one year, or both; and after notice and hearing by the superior officer vested with the power of removing him, shall be removed from office or employment.”
+
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $500” in last par.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 5 section 3374.
+This section is referred to in title 5 sections 3374, 3704.
 

@@ -26,7 +26,9 @@ Amendment by Pub. L. 87–703 effective only with respect to programs applicable
 
 #### Inapplicability of Section
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
+
+Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
 Pub. L. 101–624, title III, §303, Nov. 28, 1990, 104 Stat. 3400, provided that: “Sections 331 through 339, 379b, and 379c of the Agricultural Adjustment Act of 1938 (7 U.S.C. 1331 through 1339, 1379b, and 1379c) shall not be applicable to the 1991 through 1995 crops of wheat.”
 

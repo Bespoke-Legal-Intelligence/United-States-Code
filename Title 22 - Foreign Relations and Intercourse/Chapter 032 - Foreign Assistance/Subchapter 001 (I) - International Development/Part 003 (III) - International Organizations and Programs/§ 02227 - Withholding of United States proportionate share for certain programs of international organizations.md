@@ -18,7 +18,7 @@ The Secretary of State—
 
 (2)(A) Except as provided in subparagraph (B), with respect to funds authorized to be appropriated by this part and available for the International Atomic Energy Agency, the limitations of subsection (a) of this section shall apply to programs or projects of such Agency in Cuba.
 
-(B)(i) Subparagraph (A) shall not apply with respect to programs or projects of the International Atomic Energy Agency that provide for the discontinuation, dismantling, or safety inspection of nuclear facilities or related materials, or for inspections and similar activities designed to prevent the development of nuclear weapons by a country described in subsection (a) of this section.
+(B)(i) Subparagraph (A) shall not apply with respect to programs or projects of the International Atomic Energy Agency that provide for the discontinuation, dismantling, or safety inspection of nuclear facilities or related materials, or for inspections and similar activities designed to prevent the development of nuclearweapons by a country described in subsection (a) of this section.
 
 (ii) Clause (i) shall not apply with respect to the Juragua Nuclear Power Plant near Cienfuegos, Cuba, or the Pedro Pi Nuclear Research Center unless Cuba—
 
@@ -28,9 +28,21 @@ The Secretary of State—
 
 &emsp;(III) incorporates internationally accepted nuclear safety standards.
 
-(Pub. L. 87–195, pt. I, §307, as added Pub. L. 99–83, title IV, §403, Aug. 8, 1985, 99 Stat. 219; amended Pub. L. 103–236, title IV, §431(a), Apr. 30, 1994, 108 Stat. 459; Pub. L. 105–277, div. A, §101(d) \[title V, §516\], div. G, subdiv. B, title XXVIII, §2809(a), Oct. 21, 1998, 112 Stat. 2681–150, 2681–174, 2681–849.)
+#### (d) Programs and projects of the International Atomic Energy Agency in Iran
+
+(1) Notwithstanding subsection (c) of this section, if the Secretary of State determines that programs and projects of the International Atomic Energy Agency in Iran are inconsistent with United States nuclear nonproliferation and safety goals, will provide Iran with training or expertise relevant to the development of nuclear weapons, or are being used as a cover for the acquisition of sensitive nuclear technology, the limitations of subsection (a) of this section shall apply to such programs and projects, and the Secretary of State shall so notify the appropriate congressional committees (as defined in section 3 of the Foreign Relations Authorization Act, Fiscal Year 2003).
+
+(2) A determination made by the Secretary of State under paragraph (1) shall be effective for the 1-year period beginning on the date of the determination.
+
+(Pub. L. 87–195, pt. I, §307, as added Pub. L. 99–83, title IV, §403, Aug. 8, 1985, 99 Stat. 219; amended Pub. L. 103–236, title IV, §431(a), Apr. 30, 1994, 108 Stat. 459; Pub. L. 105–277, div. A, §101(d) \[title V, §516\], div. G, subdiv. B, title XXVIII, §2809(a), Oct. 21, 1998, 112 Stat. 2681–150, 2681–174, 2681–849; Pub. L. 107–228, div. B, title XIII, §1342, Sept. 30, 2002, 116 Stat. 1451.)
+
+#### References in Text
+
+Section 3 of the Foreign Relations Authorization Act, Fiscal Year 2003, referred to in subsec. (d)(1), is section 3 of Pub. L. 107–228, which is set out as a note under section 2651 of this title.
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–228 added subsec. (d).
 
 1998—Subsec. (a). Pub. L. 105–277, §101(d) \[title V, §516\], inserted before period at end “, or at the discretion of the President, Communist countries listed in section 2370(f) of this title”.
 
@@ -50,5 +62,5 @@ For delegation of functions of President under this section, see Ex. Ord. No. 12
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6039 of this title.
+This section is referred to in sections 2027, 6039 of this title.
 

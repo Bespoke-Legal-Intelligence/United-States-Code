@@ -2,7 +2,7 @@
 
 As used in this title:
 
-The term “court of the United States” includes the Supreme Court of the United States, courts of appeals, district courts constituted by chapter 5 of this title, including the Court of International Trade and any court created by Act of Congress the judges of which are entitled to hold office during good behavior.
+The term “court of the United States” includes the Supreme Court of the United States,courts of appeals, district courts constituted by chapter 5 of this title, including the Court of International Trade and any court created by Act of Congress the judges of which are entitled to hold office during good behavior.
 
 The terms “district court” and “district court of the United States” mean the courts constituted by chapter 5 of this title.
 
@@ -34,15 +34,15 @@ Section 1 of Title 5, referred to in text, is section 1 of former Title 5, Execu
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–164 struck out references to the Court of Claims and to the Court of Customs and Patent Appeals in the definitions of “court of the United States” and “judge of the United States”.
+1982—Pub. L. 97–164 struck out references to the Court of Claims and to the Court of Customs and Patent Appeals in the definitions of “court of the United States” and “judge of the United States”.
 
-<b>1980</b>—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
+1980—Pub. L. 96–417 redesignated the Customs Court as the Court of International Trade.
 
-<b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting references to bankruptcy courts and bankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598 directed the amendment of section by inserting references to bankruptcy courts and bankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<b>1966</b>—Pub. L. 89–571 removed the United States District Court for the District of Puerto Rico from the definition of “court of the United States”.
+1966—Pub. L. 89–571 removed the United States District Court for the District of Puerto Rico from the definition of “court of the United States”.
 
-<b>1959</b>—Pub. L. 86–3 substituted “including the United States District for the District of Puerto Rico” for “including the district courts of the United States for the districts of Hawaii and Puerto Rico” in provisions defining “court of the United States”.
+1959—Pub. L. 86–3 substituted “including the United States District for the District of Puerto Rico” for “including the district courts of the United States for the districts of Hawaii and Puerto Rico” in provisions defining “court of the United States”.
 
 #### Effective Date of 1982 Amendment
 
@@ -70,7 +70,7 @@ Section 32 of act June 25, 1948, as amended by act May 24, 1949, ch. 139, §127,
 
 #### Judges of the United States
 
-Section 2(a) of act June 25, 1948, as amended by act Sept. 3, 1954, ch. 1263, §51(a), 68 Stat. 1245, provided that: “The Chief Justices of the United States Court of Appeals for the District of Columbia, the District Court of the United States for the District of Columbia, and the Court of Claims \[now United States Court of Federal Claims\], and the presiding judge of the Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\], in office on the effective date of this Act shall be the chief judges of their respective courts. The Chief Justice of the United States Court of Appeals for the District of Columbia and the Associate Justices thereof, the Chief Justice of the District Court of the United States for the District of Columbia (formerly named the Supreme Court of the District of Columbia) and the Associate Justices thereof, the Chief Justice of the Court of Claims \[now United States Court of Federal Claims\], and the presiding judge of the Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\],in office on the effective date of this Act, shall be judges of the United States within the meaning of Section 451 of Title 28, Judiciary and Judicial Procedure, of the United States Code, set out in Section 1 of this Act. The Chief Justice of the United States Court of Appeals for the District of Columbia and the Associate Justices thereof, in office on the effective date of this Act, shall be circuit judges of the District of Columbia Circuit and vested with all the rights, powers, and duties thereof, and the said Chief Justice of the United States Court of Appeals for the District of Columbia shall be Chief Judge of said Circuit. The Chief Justice of the District Court of the United States for the District of Columbia (formerly named the Supreme Court of the District of Columbia) and the Associate Justices thereof, in office on the effective date of this Act, shall be district judges for the District of Columbia and vested with all the rights, powers, and duties thereof.”
+Section 2(a) of act June 25, 1948, as amended by act Sept. 3, 1954, ch. 1263, §51(a), 68 Stat. 1245, provided that: “The Chief Justices of the United States Court of Appeals for the District of Columbia, the District Court of the United States for the District of Columbia, and the Court of Claims \[now United States Court of Federal Claims\], and the presiding judge of the Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\], in office on the effective date of this Act shall be the chief judges of their respective courts. The Chief Justice of the United States Court of Appeals for the District of Columbia and the Associate Justices thereof, the Chief Justice of the District Court of the United States for the District of Columbia (formerly named the Supreme Court of the District of Columbia) and the Associate Justices thereof, the Chief Justice of the Court of Claims \[now United States Court of Federal Claims\], and the presiding judge of the Court of Customs and Patent Appeals \[now United States Court of Appeals for the Federal Circuit\], in office on the effective date of this Act, shall be judges of the United States within the meaning of Section 451 of Title 28, Judiciary and Judicial Procedure, of the United States Code, set out in Section 1 of this Act. The Chief Justice of the United States Court of Appeals for the District of Columbia and the Associate Justices thereof, in office on the effective date of this Act, shall be circuit judges of the District of Columbia Circuit and vested with all the rights, powers, and duties thereof, and the said Chief Justice of the United States Court of Appeals for the District of Columbia shall be Chief Judge of said Circuit. The Chief Justice of the District Court of the United States for the District of Columbia (formerly named the Supreme Court of the District of Columbia) and the Associate Justices thereof, in office on the effective date of this Act, shall be district judges for the District of Columbia and vested with all the rights, powers, and duties thereof.”
 
 Section 51(b) of act Sept. 3, 1954, provided that this amendment should take effect as of Sept. 1, 1948.
 

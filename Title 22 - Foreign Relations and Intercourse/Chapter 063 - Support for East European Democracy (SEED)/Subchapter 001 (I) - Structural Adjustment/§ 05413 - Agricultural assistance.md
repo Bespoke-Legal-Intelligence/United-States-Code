@@ -4,7 +4,7 @@
 
 #### (1) United States assistance
 
-&emsp;A principal component of the SEED Program shall be the provision by the UnitedStates of food and other agricultural commodities and products to alleviate crucial shortages that may be created in an East European country by the transition from state-directed controls to a free market economy.
+&emsp;A principal component of the SEED Program shall be the provision by the United States of food and other agricultural commodities and products to alleviate crucial shortages that may be created in an East European country by the transition from state-directed controls to a free market economy.
 
 #### (2) Assistance from other countries
 

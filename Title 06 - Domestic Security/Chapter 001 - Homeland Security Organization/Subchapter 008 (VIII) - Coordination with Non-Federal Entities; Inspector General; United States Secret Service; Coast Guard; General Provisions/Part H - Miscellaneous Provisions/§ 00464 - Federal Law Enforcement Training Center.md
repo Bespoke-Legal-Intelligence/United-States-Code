@@ -1,0 +1,12 @@
+### §464. Federal Law Enforcement Training Center
+
+#### (a) In general
+
+The transfer of an authority or an agency under this chapter to the Department of Homeland Security does not affect training agreements already entered into with the Federal Law Enforcement Training Center with respect to the training of personnel to carry out that authority or the duties of that transferred agency.
+
+#### (b) Continuity of operations
+
+All activities of the Federal Law Enforcement Training Center transferred to the Department of Homeland Security under this chapter shall continue to be carried out at the locations such activities were carried out before such transfer.
+
+(Pub. L. 107–296, title VIII, §884, Nov. 25, 2002, 116 Stat. 2247.)
+

@@ -150,9 +150,13 @@ Subject to subsection (c) of this section, any consumer reporting agency may fur
 
 #### (D) Report to the Congress
 
-&emsp;&emsp;Not later than January 31 of each year, the head of each agency and department of the United States Government that exercised authority under this paragraph during the preceding year shall submit a report to the Congress on the number of times the department or agency exercised such authority during the year.
+&emsp;&emsp;Except as provided in subparagraph (E), not later than January 31 of each year, the head of each agency and department of the United States Government that exercised authority under this paragraph during the preceding year shall submit a report to the Congress on the number of times the department or agency exercised such authority during the year.
 
-#### (E) Definitions
+#### (E) Reports to congressional intelligence committees
+
+&emsp;&emsp;In the case of a report to be submitted under subparagraph (D) to the congressional intelligence committees (as defined in section 401a of title 50), the submittal date for such report shall be as provided in section 415b of title 50.
+
+#### (F) Definitions
 
 &emsp;&emsp;For purposes of this paragraph, the following definitions shall apply:
 
@@ -266,13 +270,17 @@ A person shall not use or obtain a consumer report for any purpose unless—
 
 A consumer reporting agency shall not furnish for employment purposes, or in connection with a credit or insurance transaction, a consumer report that contains medical information about a consumer, unless the consumer consents to the furnishing of the report.
 
-(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div. A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211.)
+(Pub. L. 90–321, title VI, §604, as added Pub. L. 91–508, title VI, §601, Oct. 26, 1970, 84 Stat. 1129; amended Pub. L. 101–73, title IX, §964(c), Aug. 9, 1989, 103 Stat. 506; Pub. L. 104–193, title III, §352, Aug. 22, 1996, 110 Stat. 2240; Pub. L. 104–208, div.A, title II, §§2403, 2404(a), (b), 2405, Sept. 30, 1996, 110 Stat. 3009–430, 3009–431, 3009–433, 3009–434; Pub. L. 105–107, title III, §311(a), Nov. 20, 1997, 111 Stat. 2255; Pub. L. 105–347, §§2, 3, 6(4), Nov. 2, 1998, 112 Stat. 3208, 3210, 3211; Pub. L. 107–306, title VIII, §811(b)(8)(A), Nov. 27, 2002, 116 Stat. 2426.)
 
 #### References in Text
 
-Executive Order No. 12958, referred to in subsec. (b)(4)(E)(i), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R.19825, as amended, which is set out under section 435 of Title 50, War and National Defense.
+Executive Order No. 12958, referred to in subsec. (b)(4)(E)(i), is Ex. Ord. No. 12958, Apr. 17, 1995, 60 F.R. 19825, as amended, which is set out under section 435 of Title 50, War and National Defense.
 
 #### Amendments
+
+2002—Subsec. (b)(4)(D). Pub. L. 107–306, §811(b)(8)(A)(i), substituted “Except as provided in subparagraph (E), not later than” for “Not later than”.
+
+Subsec. (b)(4)(E), (F). Pub. L. 107–306, §811(b)(8)(A)(ii), (iii), added subpar. (E) and redesignated former subpar. (E) as (F).
 
 1998—Subsec. (b)(1)(B). Pub. L. 105–347, §3, inserted “, or has previously provided,” before “a summary”.
 
@@ -326,5 +334,5 @@ Section 2404(c) of div. A of Pub. L. 104–208 provided that: “The Federal Tra
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1681a, 1681e, 1681f, 1681g, 1681k, 1681m, 1681s–1, 1681t, 1681u, 1681v, 1692d of this title; title 31 section 3711.
+This section is referred to in sections 1681a, 1681e, 1681f, 1681g, 1681k, 1681m, 1681s–1, 1681t, 1681u, 1681v, 1692d of this title; title 31 section 3711; title 50 section 415b.
 

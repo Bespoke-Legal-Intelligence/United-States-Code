@@ -68,7 +68,7 @@ Duties.—(1) The Secretary shall consult with and seek the advice of the Commit
 
 &emsp;(G) recommend appropriate funding levels for specialized programs for homeless veterans provided or funded by the Department;
 
-&emsp;(H) recommend appropriate placement options for veterans who, because of advancedage, frailty, or severe mental illness, may not be appropriate candidates for vocational rehabilitation or independent living; and
+&emsp;(H) recommend appropriate placement options for veterans who, because of advanced age, frailty, or severe mental illness, may not be appropriate candidates for vocational rehabilitation or independent living; and
 
 &emsp;(I) perform such other functions as the Secretary may direct.
 

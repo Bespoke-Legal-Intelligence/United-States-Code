@@ -80,7 +80,7 @@ In accordance with section 233 of the Compact, the President of the United State
 
 #### (4) Annual financial statements
 
-&emsp;As part of the annual report submitted by the Government of the Federated States of Micronesia under section 211 of the Compact, the Government shall include annual financial statements which account for the use of all ofthe funds provided by the Government of the United States to the Government under the Compact or otherwise. Such financial statements shall be prepared in accordance with generally accepted accounting procedures, except as may otherwise be mutually agreed. Not later than 180 days after the end of the United States fiscal year with respect to which such funds were provided, each such statement shall be submitted to the President for audit and transmission to the Congress.
+&emsp;As part of the annual report submitted by the Government of the Federated States of Micronesia under section 211 of the Compact, the Government shall include annual financial statements which account for the use of all of the funds provided by the Government of the United States to the Government under the Compact or otherwise. Such financial statements shall be prepared in accordance with generally accepted accounting procedures, except as may otherwise be mutually agreed. Not later than 180 days after the end of the United States fiscal year with respect to which such funds were provided, each such statement shall be submitted to the President for audit and transmission to the Congress.
 
 #### (5) “Audits” defined
 

@@ -36,6 +36,32 @@ Pub. L. 105–277, div. C, title I, §151(a), Oct. 21, 1998, 112 Stat. 2681–61
 
 Pub. L. 102–175, §1, Dec. 2, 1991, 105 Stat. 1222, provided that: “This Act \[amending sections 3395, 3396, 5383, and 7701 of this title\] may be cited as the ‘Senior Executive Service Improvements Act’.”
 
+#### Modifications to National Security Education Program
+
+Pub. L. 107–296, title XIII, §1332(a), Nov. 25, 2002, 116 Stat. 2299, provided that:
+
+“(a)
+
+Findings and Policies.—
+
+&emsp;“(1)
+
+Findings.—Congress finds that—
+
+&emsp;&emsp;“(A) the United States Government actively encourages and financially supports the training, education, and development of many United States citizens;
+
+&emsp;&emsp;“(B) as a condition of some of those supports, many of those citizens have an obligation to seek either compensated or uncompensated employment in the Federal sector; and
+
+&emsp;&emsp;“(C) it is in the United States national interest to maximize the return to the Nation of funds invested in the development of such citizens by seeking to employ them in the Federal sector.
+
+&emsp;“(2)
+
+Policy.—It shall be the policy of the United States Government to—
+
+&emsp;&emsp;“(A) establish procedures for ensuring that United States citizens who have incurred service obligations as the result of receiving financial support for education and training from the United States Government and have applied for Federal positions are considered in all recruitment and hiring initiatives of Federal departments, bureaus, agencies, and offices; and
+
+&emsp;&emsp;“(B) advertise and open all Federal positions to United States citizens who have incurred service obligations with the United States Government as the result of receiving financial support for education and training from the United States Government.”
+
 #### Temporary Measures To Facilitate Reemployment of Certain Displaced Federal Employees
 
 Pub. L. 102–484, div. D, title XLIV, §4432, Oct. 23, 1992, 106 Stat. 2720, provided that:
@@ -44,7 +70,7 @@ Pub. L. 102–484, div. D, title XLIV, §4432, Oct. 23, 1992, 106 Stat. 2720, pr
 
 Definitions.—For the purpose of this section—
 
-&emsp;“(1) the term ‘agency’ means an Executive agency (as defined by section 105 of title 5, United States Code), excluding the General Accounting Office and the Department of Defense; and
+&emsp;“(1) the term ‘agency’ means an Executive agency (as defined by section 105 of title 5, United StatesCode), excluding the General Accounting Office and the Department of Defense; and
 
 &emsp;“(2) the term ‘displaced employee’ means any individual who is—
 
@@ -90,7 +116,7 @@ Pub. L. 101–363, Aug. 14, 1990, 104 Stat. 424, provided that:
 
 &emsp;“(1) recognition of the services rendered by Federal employees (hereinafter in this Act referred to as ‘national public service’) should be accorded a high and continuing place on the national agenda;
 
-&emsp;“(2) the National Commission on the Public Service, through its good works, has documented the needfor greater advocacy on behalf of those performing national public service;
+&emsp;“(2) the National Commission on the Public Service, through its good works, has documented the need for greater advocacy on behalf of those performing national public service;
 
 &emsp;“(3) although public service is an honorable profession, members of the public do not always perceive it favorably;
 
@@ -248,7 +274,7 @@ Section 3. (a) Upon consideration of the report of the Committee on Civil Servic
 
 (c) It shall be the duty of the Board to promote the development of a merit system for the recruitment, selection, appointment, promotion, and transfer of attorneys in the classified civil service in accordance with the general procedures outlined in Plan A of the report of the Committee on Civil Service Improvement, appointed by Executive Order No. 8044 of January 31, 1939.
 
-(d) The Board, in consultation with the Office, shall determine the regulations and procedures under this section governing the recruitment and examination of applicants for attorney positions, and the selection, appointment, promotion and transfer of attorneys, in the classified service.
+(d) The Board, in consultation with the Office, shall determine the regulations and procedures under thissection governing the recruitment and examination of applicants for attorney positions, and the selection, appointment, promotion and transfer of attorneys, in the classified service.
 
 (e) The Office shall in the manner determined by the Board establish a register or registers for attorney positions in the classified service and such positions shall thereafter be filled from such registers as are designated by the Board. Unless otherwise determined by the Board, any register so established shall not be in effect for a period longer than one year from the date of its establishment. Upon request of the Board, the Office shall appoint regional or local boards of examiners composed of persons approved by the Board, within or without the Federal service, to interview and examine applicants as the Board shall direct.
 
@@ -260,7 +286,7 @@ Section 3. (a) Upon consideration of the report of the Committee on Civil Servic
 
 (i) Any position affected by this section may be filled before appropriate registers have been established pursuant to this section only by a person whose appointment is approved by the Board. The Board may require as a condition of its approval that persons thus proposed for appointment pass a noncompetitive examination and may designate examining committees composed of persons within or without the Federal service to conduct such examinations. Persons whose appointment was approved by the Board prior to March 16, 1942, and who pass a noncompetitive examination prescribed by the Board shall be eligible for a classified civil-service status after the expiration of six months from the date of appointment upon compliance with the provisions of Section 6 of Civil Service Rule II other than those provisions relating to examination. Effective March 16, 1942, all appointments to attorney and law clerk (trainee) positions shall be for the duration of the present war and for six months thereafter unless specifically limited to a shorter period.
 
-(j) The incumbent of any attorney position covered into the classified service by section 1 of this order may acquire a classified civil-service status in accordance with the provisions of Section 2(a) of the act of November 26, 1940 (54 Stat. 1211) or, in the discretion of theBoard and when applicable, Section 6, of Civil Service Rule II: <i>Provided</i>, That the noncompetitive examination required thereunder shall be prescribed by the Office with the approval of the Board.
+(j) The incumbent of any attorney position covered into the classified service by section 1 of this order may acquire a classified civil-service status in accordance with the provisions of Section 2(a) of the act of November 26, 1940 (54 Stat. 1211) or, in the discretion of the Board and when applicable, Section 6, of Civil Service Rule II: <i>Provided</i>, That the noncompetitive examination required thereunder shall be prescribed by the Office with the approval of the Board.
 
 (k) The Office with the approval of the Board shall appoint a competent person to act as Executive Secretary to the Board; and the Office shall furnish such further professionals, clerical, stenographic, and other assistants as may be necessary to carry out the provisions of this section.
 
@@ -282,7 +308,7 @@ Ex. Ord. No. 9367, Aug. 4, 1943, 8 F.R. 11017, which prohibited, with certain ex
 
 #### Ex. Ord. No. 10577. Civil Service Rules
 
-Ex. Ord. No. 10577, Nov. 22, 1954, 19 F.R. 7521, eff. Jan. 23, 1955, as amended by Ex. Ord. No. 10641, Oct. 26, 1955, 20 F.R. 8137; Ex. Ord. No. 10675, Aug. 21, 1956, 21 F.R. 6327 Jan. 23, 1956; Ex. Ord. No. 10745, Dec. 12, 1957, 22 F.R. 10025; Ex. Ord. No. 10869, Mar. 9, 1960, 25 F.R. 2073; Ex. Ord. No. 11315, Nov. 17, 1966, 31 F.R. 14729; Ex. Ord. No. 11839, Feb. 15, 1975, 40 F.R. 7351; Ex. Ord. No. 11856, May 7, 1975, 40 F.R. 20259; Ex. Ord. No. 11887, Nov. 4, 1975, 40 F.R. 51411; Ex. Ord. No. 11935; Sept. 2, 1976, 41 F.R. 37301; Ex. Ord. No. 12021, Nov. 30, 1977, 42 F.R. 61237; Ex. Ord. No. 12043, Mar. 7, 1978, 43 F.R. 9773; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12125, Mar. 15, 1979, 44 F.R. 16879; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12300, Mar. 23, 1981, 46 F.R. 18683; Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521; Ex. Ord. No. 12896, Feb. 3, 1994, 59 F.R. 5515; Ex. Ord. No. 12940, Nov. 28, 1994, 59 F.R. 61519; Ex. Ord. No. 13124, §2(b), June 4, 1999, 64 F.R. 31103, Ex. Ord. No. 13197, Jan. 18, 2001, 66 F.R. 7853; provided:
+Ex. Ord. No. 10577, Nov. 22, 1954, 19 F.R. 7521, eff. Jan. 23, 1955, as amended by Ex. Ord. No. 10641, Oct. 26, 1955, 20 F.R. 8137; Ex. Ord. No. 10675, Aug. 21, 1956, 21 F.R. 6327 Jan. 23, 1956; Ex. Ord. No. 10745, Dec. 12, 1957, 22 F.R. 10025; Ex. Ord. No. 10869, Mar. 9, 1960, 25 F.R. 2073; Ex. Ord. No. 11315, Nov. 17, 1966, 31 F.R. 14729; Ex. Ord. No. 11839, Feb. 15, 1975, 40 F.R. 7351; Ex. Ord. No. 11856, May 7, 1975, 40 F.R. 20259; Ex. Ord. No. 11887, Nov. 4, 1975, 40 F.R. 51411; Ex. Ord. No. 11935; Sept. 2, 1976, 41 F.R. 37301; Ex. Ord. No. 12021, Nov. 30, 1977, 42 F.R. 61237; Ex. Ord. No. 12043, Mar. 7, 1978, 43 F.R. 9773; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12125, Mar. 15, 1979, 44 F.R. 16879; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239; Ex. Ord. No. 12300, Mar. 23, 1981, 46 F.R. 18683; Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521; Ex. Ord. No. 12896, Feb. 3, 1994, 59 F.R. 5515; Ex. Ord. No. 12940, Nov. 28, 1994, 59 F.R. 61519; Ex. Ord. No. 13124, §2(b), June 4, 1999, 64 F.R. 31103; Ex. Ord. No. 13197, Jan. 18, 2001, 66 F.R. 7853; provided:
 
 #### PART I—CIVIL SERVICE RULES
 
@@ -314,7 +340,7 @@ As used in these Rules:
 
 #### §1.4. Extent of the Excepted Service
 
-(a) The excepted service shall include all civilian positions in the executive branch of the Governmentwhich are specifically excepted from the requirements of the Civil Service Act or from the competitive service by or pursuant to statute or by the Office under section 6.1 of Rule VI.
+(a) The excepted service shall include all civilian positions in the executive branch of the Government which are specifically excepted from the requirements of the Civil Service Act or from the competitive service by or pursuant to statute or by the Office under section 6.1 of Rule VI.
 
 (b) “Excepted service” shall have the same meaning as the words “unclassified service”, or “unclassified civil service”, or “positions outside the competitive civil service” as used in existing statutes and executive orders.
 
@@ -334,7 +360,7 @@ As used in these Rules:
 
 (a) The Office shall establish and administer a career-conditional appointment system for positions subject to competitive examination which will permit adjustment of the career service to necessary fluctuations in Federal employment, and provide an equitable and orderly system for stabilizing the Federal work force. A competitive status shall be acquired by a career-conditional appointee upon satisfactory completion of a probationary period, but the appointee shall have career-conditional tenure for a period of service to be prescribed by regulation of the Office. When an employee has completed the required period of service his appointment shall be converted to a career appointment without time limitation: <i>Provided</i>, That his career-conditional appointment shall not be converted to a career appointment if the limitation on the number of permanent employees in the Federal civil service established under subsection (b) of this section would be exceeded thereby. Persons selected from competitive civil service registers for other than temporary appointment shall be given career-conditional appointments: <i>Provided</i>, That career appointments shall be given to the following classes of eligibles: (1) Persons whose appointments are required by statute to be made on a permanent basis; (2) employees serving under career appointments at the time of selections from such registers; (3) former employees who have eligibility for career appointments upon reinstatement; and (4) to the extent permitted by law, persons appointed to positions in the field service of the Post Office Department for which salary rates are fixed by the act of July 6, 1945, 59 Stat. 435, as heretofore or hereafter amended and supplemented.
 
-(b) Under the career-conditional appointment system there shall be a limit on the number of permanent employees in the Federal civil service which shall be the ceiling established by section 1310 of the Supplemental Appropriation Act, 1952 (65 Stat. 757), as amended \[set out as a note under section 3101 of this title\]. In the event section 1310, supra, is repealed, the Office is authorized to fix such limitation on the number of permanent employees in the Federal civil service as it finds necessary to meet the needs of the service.
+(b) Under the career-conditional appointment system there shall be a limit on the number of permanent employees in the Federal civil service which shall be the ceiling established by section 1310 of the Supplemental Appropriation Act, 1952 (65 Stat. 757), as amended \[setout as a note under section 3101 of this title\]. In the event section 1310, supra, is repealed, the Office is authorized to fix such limitation on the number of permanent employees in the Federal civil service as it finds necessary to meet the needs of the service.
 
 (c) The Office may determine the types, duration, and conditions of indefinite and temporary appointments, and may prescribe the method for replacing persons holding such appointments.
 
@@ -392,7 +418,7 @@ No person shall influence another person to withdraw from competition for any po
 
 #### §5.1. Civil Service Regulations
 
-The Director, Office of Personnel Management, shall promulgate and enforce regulations necessary to carry out the provisions of the Civil Service Act and the Veterans’ Preference Act, as reenacted in Title 5, United States Code \[now covered by this chapter and chapter 35 of this title\], the Civil Service Rules, and all other statutes and Executive orders imposing responsibilities on the Office. The Director is authorized, whenever there are practical difficulties and unnecessary hardships in complying with the strict letter of the regulation, to grant a variation from the strict letter of the regulation if such a variation is within the spirit of the regulations, and the efficiency of the Government and the integrity of the competitive service are protected and promoted. Whenever a variation is granted the Director shall note the official record to show: (1) the particular practical difficulty or hardship involved, (2) what is permitted in place of what is required by regulation, (3) the circumstances which protect or promote the efficiency of the Government and the integrity of the competitive service, and (4) a statement limiting the application of the variation to the continuation of the conditions which gave rise to it. Like variations shall be granted whenever like conditions exist. All such decisions and information concerning variations noted in the official record shall be published promptly in a Federal Personnel Manual, Letter or Bulletin and in the Director's next annual report.
+The Director, Office of Personnel Management, shall promulgate and enforce regulations necessary to carry out the provisions of the Civil Service Act and the Veterans’ Preference Act, as reenacted in Title 5, United States Code \[now covered by this chapter and chapter 35 of this title\], the Civil Service Rules, and all other statutes and Executive orders imposing responsibilities on the Office. The Director is authorized, whenever there are practical difficulties and unnecessary hardships in complying with the strict letter of the regulation, to grant a variation from the strict letter of the regulation if such a variation is within the spirit of the regulations, and the efficiency of the Government and the integrity of the competitive service are protected and promoted. Whenever a variation is granted the Director shall note the official record to show: (1) the particular practical difficulty or hardship involved, (2) what is permitted in place of what is required by regulation, (3) the circumstances which protect or promote the efficiency of the Government and the integrity ofthe competitive service, and (4) a statement limiting the application of the variation to the continuation of the conditions which gave rise to it. Like variations shall be granted whenever like conditions exist. All such decisions and information concerning variations noted in the official record shall be published promptly in a Federal Personnel Manual, Letter or Bulletin and in the Director's next annual report.
 
 #### §5.2. Investigation and Evaluations
 
@@ -410,7 +436,7 @@ The Director may secure effective implementation of the civil service laws, rule
 
 (1) Instructing an agency to separate or take other action against an employee serving an appointment subject to investigation when the Director finds that the employee is disqualified for Federal employment. Where the employee or the agency appeals the Director's finding that a separation or other action is necessary, the Director may instruct the agency as to whether or not the employee should remain on duty and continue to receive pay pending adjudication of the appeal: <i>Provided</i>, That when an agency separates or takes other action against an employee pursuant to the Director's instructions, and the Director, on the basis of new evidence, subsequently reverses the initial decision as to the employee's qualifications and suitability, the agency shall, upon request of the Director, restore the employee to duty or otherwise reverse any action taken.
 
-(2) Reporting the results of evaluation or investigations to the head of the agency concerned with instructions for any corrective action necessary, including cancellation of personnel actions where appropriate. The Director's findings resulting from evaluations or investigations are binding unless changed as a result of agency evidence and arguments against them. If, during the course of any evaluation or investigation under this Section, the Director finds evidence of matters which come within the investigative and prosecutorialjurisdiction of the Special Counsel of the Merit Systems Protection Board, the Director shall refer this evidence to the Special Counsel for appropriate disposition.
+(2) Reporting the results of evaluation or investigations to the head of the agency concerned with instructions for any corrective action necessary, including cancellation of personnel actions where appropriate. The Director's findings resulting from evaluations or investigations are binding unless changed as a result of agency evidence and arguments against them. If, during the course of any evaluation or investigation under this Section, the Director finds evidence of matters which come within the investigative and prosecutorial jurisdiction of the Special Counsel of the Merit Systems Protection Board, the Director shall refer this evidence to the Special Counsel for appropriate disposition.
 
 (b) Whenever the Director issues specific instructions as to separation or other corrective action with regard to an employee, including cancellation of a personnel action, the head of the agency concerned shall comply with the Director's instructions.
 
@@ -626,7 +652,7 @@ WHEREAS older workers are an indispensable source of productivity and experience
 
 WHEREAS President Kennedy, mindful that maximum national growth depends on the utilization of all manpower resources, issued a memorandum on March 14, 1963, reaffirming the policy of the Executive Branch of the Government of hiring and promoting employees on the basis of merit alone and emphasizing the need to assure that older people are not discriminated against because of their age and receive fair and full consideration for employment and advancement in Federal employment; and
 
-WHEREAS, to encourage and hasten the acceptance of the principle of equal employment opportunity for older persons by all sectors of the economy, private and public, the Federal Government can and should provide maximum leadership in this regard by adopting that principle as an express policy of the Federal Government not only with respect to Federal employees but also with respect to persons employed by contractors and subcontractors engaged in the performance of Federal contracts:
+WHEREAS, to encourage and hasten the acceptance of the principle of equal employment opportunity for older persons by all sectors of the economy, private and public, the Federal Government can and should provide maximum leadership in this regard by adopting that principle as an express policy of the Federal Government not only with respect to Federal employees but also with respect to persons employed by contractorsand subcontractors engaged in the performance of Federal contracts:
 
 NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and statutes of the United States and as President of the United States, I hereby declare that it is the policy of the Executive Branch of the Government that (1) contractors and subcontractors engaged in the performance of Federal contracts shall not, in connection with the employment, advancement, or discharge of employees, or in connection with the terms, conditions, or privileges of their employment, discriminate against persons because of their age except upon the basis of a <i>bona fide</i> occupational qualification, retirement plan, or statutory requirement, and (2) that contractors and subcontractors, or persons acting on their behalf, shall not specify, in solicitations or advertisements for employees to work on Government contracts, a maximum age limit for such employment unless the specified maximum age limit is based upon a <i>bona fide</i> occupational qualification, retirement plan, or statutory requirement. The head of each department and agency shall take appropriate action to enunciate this policy, and to this end the Federal Procurement Regulations and the Armed Services Procurement Regulation shall be amended by the insertion therein of a statement giving continuous notice of the existence of the policy declared by this order.
 
@@ -768,7 +794,7 @@ Sec. 5. <i>Conversion of incumbents</i>. On the day Civil Service Rule IX become
 
 Sec. 6. <i>Office responsibilities</i>. The Office of Personnel Management is responsible to the President for the effective implementation and administration of the executive assignment system established by this Order. The Office shall continuously review operations under this system, shall recommend promptly to the President any changes that are necessary to improve this system, and shall report periodically to the President any significant developments in the operation of the system. The Office shall recommend to the President a program of special honors and awards for the recognition of persons assigned to Career Executive Assignments and a program for the development and training of persons assigned to Career Executive Assignments. The training program shall include the establishment of special training and educational facilities, and provide for the relevant use of outside training facilities.
 
-Sec. 7. <i>Responsibilities of the agencies</i>. The head of each agency in which there are positions covered by Civil Service Rule IX shall periodically review with the Office of Personnel Management his plans for staffing. The head of a newly established agency shall initially review with the Office his plans for staffing as soon as practicable after the establishment of the agency. The head of each agency shall cooperate fully with the Office in the establishment of special facilities and special boards and panels that are required under Civil Service Rule IX as a means of recruiting persons of the highest quality.
+Sec. 7. <i>Responsibilities of the agencies</i>. The head of each agency in which there are positions covered by Civil Service Rule IX shall periodically review with the Office of Personnel Management his plans for staffing. The head of a newly established agency shall initially review with the Office his plans for staffing as soon as practicable after the establishment of the agency. Thehead of each agency shall cooperate fully with the Office in the establishment of special facilities and special boards and panels that are required under Civil Service Rule IX as a means of recruiting persons of the highest quality.
 
 Sec. 8. <i>Regulations</i>. The Office of Personnel Management shall prescribe such regulations as may be necessary to carry out the purpose and intent of this Order.
 
@@ -798,7 +824,7 @@ Sec. 2. Civil Service Rule IX is amended by adding the following:
 
 #### “Sec. 9.11. Specified Noncareer Executive Assignments
 
-“The regional director, regional administrator, or the Secretary's principal regional representative positionsin the Department of Health, Education, and Welfare, Housing and Urban Development, Transportation and Labor, and those positions in the Environmental Protection Agency shall be designated Noncareer Executive Assignments; and, the Limited Executive Assignments of any incumbents of these positions on February 15, 1975, are converted to Noncareer Executive Assignments. Incumbents of these positions serving in Career Executive Assignments on February 15, 1975, shall not be affected by the foregoing provisions of this Section.”
+“The regional director, regional administrator, or the Secretary's principal regional representative positions in the Department of Health, Education, and Welfare, Housing and Urban Development, Transportation and Labor, and those positions in the Environmental Protection Agency shall be designated Noncareer Executive Assignments; and, the Limited Executive Assignments of any incumbents of these positions on February 15, 1975, are converted to Noncareer Executive Assignments. Incumbents of these positions serving in Career Executive Assignments on February 15, 1975, shall not be affected by the foregoing provisions of this Section.”
 
 Gerald R. Ford.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -874,7 +900,7 @@ Sec. 2. The appointment of a student to a position in a career-related work-stud
 
 (d) satisfies such other requirements and conditions as the Office of Personnel Management may prescribe for term, career, or career-conditional appointment of an individual in career-related work-study programs.
 
-Sec. 3. The Office of Personnel Management shall prescribe such regulations as it deems necessary to carryout the provisions of this order and to provide for the continuation of planning, implementation and evaluation of employment programs for students throughout the Government. These regulations shall provide for the periodic evaluation of the work of each student and require that each student's continuation in the program shall be dependent upon a finding of satisfactory performance.
+Sec. 3. The Office of Personnel Management shall prescribe such regulations as it deems necessary to carry out the provisions of this order and to provide for the continuation of planning, implementation and evaluation of employment programs for students throughout the Government. These regulations shall provide for the periodic evaluation of the work of each student and require that each student's continuation in the program shall be dependent upon a finding of satisfactory performance.
 
 Sec. 4. Students converted to term appointment under section 2 may subsequently be converted noncompetitively to a career or career-conditional appointment before the term appointment expires.
 
@@ -956,7 +982,7 @@ Ex. Ord. No. 12362, May 12, 1982, 47 F.R. 21231, as amended by Ex. Ord. No. 1258
 
 Ex. Ord. No. 12364, May 24, 1982, 47 F.R. 22931, as amended by Ex. Ord. No. 12645, July 12, 1988, 53 F.R. 26750, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America,including Sections 3301 and 3302 of Title 5 of the United States Code, and in order to provide for the recruitment and selection of outstanding employees for careers in public sector management, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including Sections 3301 and 3302 of Title 5 of the United States Code, and in order to provide for the recruitment and selection of outstanding employees for careers in public sector management, it is hereby ordered as follows:
 
 Section 1. There is hereby reconstituted the Presidential Management Intern Program. The purpose of the Program is to attract to the Federal service outstanding men and women from a variety of academic disciplines who have a clear interest in, and commitment to, a career in the analysis and management of public policies and programs. Individuals selected for the Program will be known as Presidential Management Interns.
 
@@ -1076,7 +1102,7 @@ Sec. 3. To the extent there is any conflict between this order and Civil Service
 
 Sec. 4. (a) Executive Order No. 12362 of May 12, 1982, as amended, and Executive Order No. 12585 of March 3, 1987, are revoked.
 
-(b) Existing regulations prescribed by the Director of the Office of Personnel Management under Executive Order No. 12362, as amended, shall continue in effect until modified or superseded by the Director of the Office of Personnel Management.
+(b) Existing regulations prescribed by the Director of the Office of Personnel Management under Executive Order No. 12362, as amended, shall continue in effectuntil modified or superseded by the Director of the Office of Personnel Management.
 
 Sec. 5. This order shall be effective upon publication in the Federal Register.
 
@@ -1102,7 +1128,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>Policy.</i>
 
-(a) It is the policy of the United States to assure equality of opportunity, full participation, independent living, and economic self-sufficiency for persons with disabilities. The Federal Government as an employershould serve as a model for the employment of persons with disabilities and utilize the full potential of these talented citizens.
+(a) It is the policy of the United States to assure equality of opportunity, full participation, independent living, and economic self-sufficiency for persons with disabilities. The Federal Government as an employer should serve as a model for the employment of persons with disabilities and utilize the full potential of these talented citizens.
 
 (b) The Civil Service Rules governing appointment of persons with psychiatric disabilities were adopted years ago when attitudes about mental illness were different than they are today, which led to stricter standards for hiring persons with psychiatric disabilities than for persons with mental retardation or severe physical disabilities. The Civil Service Rules provide that persons with mental retardation, severe physical disabilities, or psychiatric disabilities may be hired under excepted appointing authorities. While persons with mental retardation or severe physical disabilities may be appointed for more than 2 years and may convert to competitive status after completion of 2 years of satisfactory service in their excepted position, people with psychiatric disabilities may not.
 

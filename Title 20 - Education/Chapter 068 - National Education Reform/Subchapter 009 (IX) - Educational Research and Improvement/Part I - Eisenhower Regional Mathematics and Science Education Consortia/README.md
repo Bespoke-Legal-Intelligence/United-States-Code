@@ -2,23 +2,11 @@ Part I—Eisenhower Regional Mathematics and Science Education Consortia
 
 #### Codification
 
-Part M of title IX of Pub. L. 103–227, comprising this part, has been designated part I of this subchapter for purposes of codification. Part M of title IX of Pub. L. 103–227 was formerly part C of title XIII of Pub. L. 89–10, which was classified to part C (§8671 et seq.) of subchapter XIII of chapter 70 of this title, prior to being redesignated as part M of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, §1023(a), Jan. 8, 2002, 115 Stat. 1987, and transferred to this part.
-
-#### Part Referred to in Other Sections
-
-This part is referred to in sections 6053a, 6054, 6212 of this title.
+Part M of title IX of Pub. L. 103–227, which comprised this part, was designated part I of this subchapter for purposes of codification. Part M of title IX of Pub. L. 103–227 was formerly part C of title XIII of Pub. L. 89–10, which was classified to part C (§8671 et seq.) of subchapter XIII of chapter 70 of this title, prior to being redesignated as part M of title IX of Pub. L. 103–227 by Pub. L. 107–110, title X, §1023(a), Jan. 8, 2002, 115 Stat. 1987, transferred to this part, and subsequently repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985.
 
 
 ---
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 06055 - Program established](%C2%A7%2006055%20-%20Program%20established.md)
-- [&sect; 06055a - Use of funds](%C2%A7%2006055a%20-%20Use%20of%20funds.md)
-- [&sect; 06055b - Application and review](%C2%A7%2006055b%20-%20Application%20and%20review.md)
-- [&sect; 06055c - Regional boards](%C2%A7%2006055c%20-%20Regional%20boards.md)
-- [&sect; 06055d - Payments; Federal share; non-Federal share](%C2%A7%2006055d%20-%20Payments%3B%20Federal%20share%3B%20non-Federal%20share.md)
-- [&sect; 06055e - Evaluation](%C2%A7%2006055e%20-%20Evaluation.md)
-- [&sect; 06055f - Definitions](%C2%A7%2006055f%20-%20Definitions.md)
-- [&sect; 06055g - Authorization of appropriations](%C2%A7%2006055g%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 06055h - Defined terms](%C2%A7%2006055h%20-%20Defined%20terms.md)
+- [&sect; 06055 to 6055h - Repealed. Pub. L. 107&#8211;279, title IV, &sect;403(2), Nov. 5, 2002, 116 Stat. 1985](%C2%A7%2006055%20to%206055h%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93279%2C%20title%20IV%2C%20%C2%A7403%282%29%2C%20Nov.%205%2C%202002%2C%20116%20Stat.%201985.md)

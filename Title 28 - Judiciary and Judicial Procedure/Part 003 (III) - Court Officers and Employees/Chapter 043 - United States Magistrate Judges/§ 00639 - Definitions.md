@@ -26,7 +26,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1968</b>—Pub. L. 90–578 substituted definition provisions for prior requirements obligating the Director to furnish docket books and forms to United States commissioners and, with approval of the chief judge of the district court, a copy of the United States Code, declaring such property to remain United States property, and calling for transmission of such property to successors in office or for its disposal as directed by the Director, now incorporated in section 638(a) and (b) of this title.
+1968—Pub. L. 90–578 substituted definition provisions for prior requirements obligating the Director to furnish docket books and forms to United States commissioners and, with approval of the chief judge of the district court, a copy of the United States Code, declaring such property to remain United States property, and calling for transmission of such property to successors in office or for its disposal as directed by the Director, now incorporated in section 638(a) and (b) of this title.
 
 #### Change of Name
 

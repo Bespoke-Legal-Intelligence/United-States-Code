@@ -24,7 +24,7 @@ In subsec. (a), “section 967 of title 18” substituted for “section 1, titl
 
 #### Delegation of Functions
 
-For delegation to Secretary of the Treasury of authority vested in President by subsecs. (a) and (b) of this section, see sections 1(n) and 1(<i>o</i>) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, set out as a note under section 301 of Title 3, The President.
+For delegation to Secretary of Homeland Security of authority vested in President by subsecs. (a) and (b) of this section, see sections 1(n) and 1(<i>o</i>) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended, set out as a note under section 301 of Title 3, The President.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

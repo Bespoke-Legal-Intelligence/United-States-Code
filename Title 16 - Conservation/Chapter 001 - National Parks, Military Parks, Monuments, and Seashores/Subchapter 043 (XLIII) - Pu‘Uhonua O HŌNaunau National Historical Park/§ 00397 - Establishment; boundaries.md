@@ -1,10 +1,12 @@
 ### §397. Establishment; boundaries
 
+#### (a) Establishment
+
 When title to such lands located on the island of Hawaii, within the following-described area, as shall be designated by the Secretary of the Interior, in the exercise of his judgment and discretion as necessary and suitable for the purpose, shall have been vested in the United States, said lands shall be set apart as the Pu‘uhonua o Hōnaunau National Historical Park, in the Territory of Hawaii, for the benefit and inspiration of the people:
 
 parcel 1
 
-Being all of R. P. 3306, L. C. Aw. 7219, Apana 2 to Kaliae, all of L. C. Aw. 9470 to Muki, and portions of R. P. 7874, L. C. Aw. 11216 Apana 34 to M. Kekauonohi (Ahupuaa of Honaunau), and R. P. 6852, L. C. Aw. 7712 Apana 1 to M. Kekuanaoa (Ahupuaa of Keokea).
+Being all of R. P. 3306, L. C. Aw. 7219, Apana 2 to Kaliae, all of L. C. Aw. 9470 to Muki, and portions of R. P. 7874, L. C. Aw. 11216 Apana 34 to M. Kekauonohi (Ahupuaa of Honaunau), and R. P.6852, L. C. Aw. 7712 Apana 1 to M. Kekuanaoa (Ahupuaa of Keokea).
 
 Beginning at a one and one-half-inch pipe in concrete monument called “Kalani”, at the southeast corner of this parcel, the northeast corner of parcel 3, and on the common boundary of the lands of Keokea and Kiilae, the coordinates of said point of beginning referred to Government Survey Triangulation Station “Lae-O-Kanoni” being seven thousand four hundred forty-four and eight-tenths feet south and five thousand three and two-tenths feet east, and running by azimuths measured clockwise from true south:
 
@@ -32,7 +34,7 @@ Beginning at a one and one-half-inch pipe in concrete monument called “Kalani�
 
 12\. One hundred and seventy-two degrees twenty-eight minutes forty-eight and one-tenth feet along same;
 
-13\. Two hundred and twenty-six degrees twenty-three minutes two hundred twenty-eight andeight-tenths feet along remainder of L. C. Aw. 11216:34 to M. Kekauonohi to the south side of fifty-foot road;
+13\. Two hundred and twenty-six degrees twenty-three minutes two hundred twenty-eight and eight-tenths feet along remainder of L. C. Aw. 11216:34 to M. Kekauonohi to the south side of fifty-foot road;
 
 14\. Two hundred and sixty-four degrees fifty-one minutes one hundred fifteen and two-tenths feet along the south side of fifty-foot road;
 
@@ -92,17 +94,31 @@ Beginning at a one and one-half-inch pipe in concrete monument called “Kalani�
 
 Area, ten and twenty-five one-hundredths acres.
 
-(July 26, 1955, ch. 385, §1, 69 Stat. 376; Pub. L. 95–625, title III, §305, Nov. 10, 1978, 92 Stat. 3477; Pub. L. 106–510, §3(d)(1), Nov. 13, 2000, 114 Stat. 2364.)
+#### (b) Boundary modification
+
+The boundaries of Pu‘uhonua o Hōnaunau National Historical Park are hereby modified to include approximately 238 acres of lands and interests therein within the area identified as “Parcel A” on the map entitled “Pu‘uhonua o Hōnaunau National Historical Park Proposed Boundary Additions, Ki‘ilae Village”, numbered PUHO–P 415/82,013 and dated May, 2001.
+
+#### (c) Acquisition
+
+The Secretary of the Interior is authorized to acquire approximately 159 acres of lands and interests therein within the area identified as “Parcel B” on the map referenced in subsection (b) of this section. Upon the acquisition of such lands or interests therein, the Secretary shall modify the boundaries of Pu‘uhonua o Hōnaunau National Historical Park to include such lands or interests therein.
+
+(July 26, 1955, ch. 385, §1, 69 Stat. 376; Pub. L. 95–625, title III, §305, Nov. 10, 1978, 92 Stat. 3477; Pub. L. 106–510, §3(d)(1), Nov. 13, 2000, 114 Stat. 2364; Pub. L. 107–340, §2, Dec. 16, 2002, 116 Stat. 2889.)
 
 #### Amendments
 
-2000—Pub. L. 106–510 substituted “Pu‘uhonua o Hōnaunau National Historical Park” for “Puuhonua oHonaunau National Historical Park” in introductory provisions.
+2002—Pub. L. 107–340 designated existing provisions as subsec. (a), substituted “When” for “That, when”, and added subsecs. (b) and (c).
+
+2000—Pub. L. 106–510 substituted “Pu‘uhonua o Hōnaunau National Historical Park” for “Puuhonua o Honaunau National Historical Park” in introductory provisions.
 
 1978—Pub. L. 95–625 redesignated as “Puuhonua o Honaunau National Historical Park” the Park previously designated “City of Refuge National Historical Park”.
 
 #### Change of Name
 
 Pub. L. 106–510, §3(d)(2), Nov. 13, 2000, 114 Stat. 2364, provided that: “Any reference in any law (other than this Act \[see Short Title of 2000 Amendments note set out under section 1 of this title\]), regulation, document, record, map, or other paper of the United States to ‘Puuhonua o Honaunau National Historical Park\[’\] shall be considered a reference to ‘Pu‘uhonua o Hōnaunau National Historical Park’.”
+
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–340, §1, Dec. 16, 2002, 116 Stat. 2889, provided that: “This Act \[amending this section\] may be cited as the ‘Pu‘uhonua o Hōnaunau National Historical Park Addition Act of 2002’.”
 
 #### Admission of Hawaii as State
 

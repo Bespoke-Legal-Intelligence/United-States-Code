@@ -1,5 +1,5 @@
 
-38 U.S.C.<br>United States Code, 2001 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
+38 U.S.C.<br>United States Code, 2002 Edition<br>Title 38 - VETERANS’ BENEFITS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 38—VETERANS’ BENEFITS
 
@@ -10,13 +10,15 @@
 | [<b>I.</b>](Part%20001%20%28I%29%20-%20General%20Provisions/README.md) | <b>General Provisions</b> | <b>101</b> |
 | [<b>II.</b>](Part%20002%20%28II%29%20-%20General%20Benefits/README.md) | <b>General Benefits</b> | <b>1101</b> |
 | [<b>III.</b>](Part%20003%20%28III%29%20-%20Readjustment%20and%20Related%20Benefits/README.md) | <b>Readjustment and Related Benefits</b> | <b>3001</b> |
-| [<b>IV.</b>](Part%20004%20%28IV%29%20-%20General%20Administrative%20Provisions/README.md) | <b>General Administrative Provisions</b> | <b>5101</b> |
+| [<b>IV.</b>](Part%20004%20%28IV%29%20-%20General%20Administrative%20Provisions/README.md) | <b>General Administrative Provisions</b> | <b>5100</b> |
 | [<b>V.</b>](Part%20005%20%28V%29%20-%20Boards%2C%20Administrations%2C%20and%20Services/README.md) | <b>Boards, Administrations, and Services</b> | <b>7101</b> |
 | [<b>VI.</b>](Part%20006%20%28VI%29%20-%20Acquisition%20and%20Disposition%20of%20Property/README.md) | <b>Acquisition and Disposition of Property</b> | <b>8101</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–330, title III, §308(g)(1)(B), Dec. 6, 2002, 116 Stat. 2828, substituted “5100” for “5101” in item for part IV.
 
 1991—Pub. L. 102–83, §5(b)(2), Aug. 6, 1991, 105 Stat. 406, substituted “1101” for “301” in item for part II and “3001” for “1401” in item for part III.
 
@@ -5671,7 +5673,7 @@ This title is referred to in title 5 sections 7511, 8347, 8905a; title 7 section
 
 |  |  |  |
 | :--- | :---: | ---: |
-| [<b>51.</b>](Part%20004%20%28IV%29%20-%20General%20Administrative%20Provisions/Chapter%20051%20-%20Claims%2C%20Effective%20Dates%2C%20and%20Payments/README.md) | <b>Claims, Effective Dates, and Payments</b> | <b>5101</b> |
+| [<b>51.</b>](Part%20004%20%28IV%29%20-%20General%20Administrative%20Provisions/Chapter%20051%20-%20Claims%2C%20Effective%20Dates%2C%20and%20Payments/README.md) | <b>Claims, Effective Dates, and Payments</b> | <b>5100</b> |
 | [<b>53.</b>](Part%20004%20%28IV%29%20-%20General%20Administrative%20Provisions/Chapter%20053%20-%20Special%20Provisions%20Relating%20to%20Benefits/README.md) | <b>Special Provisions Relating to Benefits</b> | <b>5301</b> |
 | [<b>55.</b>](Part%20004%20%28IV%29%20-%20General%20Administrative%20Provisions/Chapter%20055%20-%20Minors%2C%20Incompetents%2C%20and%20Other%20Wards/README.md) | <b>Minors, Incompetents, and Other Wards</b> | <b>5501</b> |
 | [<b>57.</b>](Part%20004%20%28IV%29%20-%20General%20Administrative%20Provisions/Chapter%20057%20-%20Records%20and%20Investigations/README.md) | <b>Records and Investigations</b> | <b>5701</b> |
@@ -5712,6 +5714,8 @@ This title is referred to in title 5 sections 7511, 8347, 8905a; title 7 section
 
 #### Amendments
 
+2002—Pub. L. 107–330, title III, §308(g)(1)(A), Dec. 6, 2002, 116 Stat. 2828, substituted “5100” for “5101” in item for chapter 51.
+
 2001—Pub. L. 107–95, §5(a)(2), Dec. 21, 2001, 115 Stat. 918, added item for chapter 20.
 
 2000—Pub. L. 106–419, title IV, §401(f)(2), Nov. 1, 2000, 114 Stat. 1861, substituted “Benefits for Children of Vietnam Veterans” and “1802” for “Benefits for Children of Vietnam Veterans Who Are Born With Spina Bifida” and “1801”, respectively, in item for chapter 18.
@@ -5748,9 +5752,9 @@ Pub. L. 97–295, §4(1)(B), Oct. 12, 1982, 96 Stat. 1304, substituted “1651�
 
 Pub. L. 97–295, §4(1)(C), Oct. 12, 1982, 96 Stat. 1304, added item for chapter 82.
 
-1981—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted “Housing and Small Business Loans” for “Home, Condominium, and Mobile Home Loans” in item for chapter 37.
+1981—Pub. L. 97–72, title III, §302(b)(2), Nov. 3, 1981, 95 Stat. 1059, substituted “Housing and Small BusinessLoans” for “Home, Condominium, and Mobile Home Loans” in item for chapter 37.
 
-1980—Pub. L. 96–466, title I, §101(b), Oct. 17, 1980, 94 Stat. 2186, substituted “Training and Rehabilitation for Veterans with Service-Connected Disabilities . . .1,500” for “Vocational Rehabilitation . . . 1501” in item for chapter 31.
+1980—Pub. L. 96–466, title I, §101(b), Oct. 17, 1980, 94 Stat. 2186, substituted “Training and Rehabilitation for Veterans with Service-Connected Disabilities . . . 1,500” for “Vocational Rehabilitation . . . 1501” in item for chapter 31.
 
 1976—Pub. L. 94–581, title II, §203(a), Oct. 21, 1976, 90 Stat. 2856, inserted “Nursing Home,” in item for chapter 17.
 

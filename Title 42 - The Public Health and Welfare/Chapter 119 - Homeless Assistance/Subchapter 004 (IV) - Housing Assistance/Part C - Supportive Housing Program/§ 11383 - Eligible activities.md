@@ -22,7 +22,7 @@ The Secretary may provide any project with one or more of the following types of
 
 #### (5) Supportive services
 
-&emsp;A grant for costs of supportive services provided to homeless individuals. Any recipient,including program recipients under this subchapter before October 28, 1992, may reapply for such assistance or for the renewal of such assistance to continue services funded under prior grants or to provide other services.
+&emsp;A grant for costs of supportive services provided to homeless individuals. Any recipient, including program recipients under this subchapter before October 28, 1992, may reapply for such assistance or for the renewal of such assistance to continue services funded under prior grants or to provide other services.
 
 #### (6) Technical assistance
 

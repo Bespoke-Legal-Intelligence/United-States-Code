@@ -58,7 +58,7 @@ The Vocational Education Act of 1963, referred to in par. (10), was title I of P
 
 The Civil Rights Act of 1964, referred to in par. (11), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title IV of the Civil Rights Act of 1964 is classified generally to subchapter IV (§2000c et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
-The Navajo Community College Act, referred to in par. (12), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
+The Navajo Community College Act, referred to in par. (12), is Pub. L. 92–189, Dec. 15, 1971, 85 Stat. 646, as amended, which is classified to section 640a et seq. of Title 25, Indians. For complete classification of thisAct to the Code, see Short Title note set out under section 640a of Title 25 and Tables.
 
 The Tribally Controlled College or University Assistance Act of 1978, referred to in par. (12), is Pub. L. 95–471, Oct. 17, 1978, 92 Stat. 1325, as amended, which is classified principally to chapter 20 (§1801 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 25 and Tables.
 
@@ -70,7 +70,7 @@ Section was enacted as part of the Omnibus Education Reconciliation Act of 1981 
 
 #### Amendments
 
-1998—Par. (12). Pub. L. 105–244 substituted “Tribally Controlled College or University Assistance Act of1978” for “Tribally Controlled Community College Assistance Act of 1978”.
+1998—Par. (12). Pub. L. 105–244 substituted “Tribally Controlled College or University Assistance Act of 1978” for “Tribally Controlled Community College Assistance Act of 1978”.
 
 1996—Pars. (12) to (15). Pub. L. 104–208 redesignated pars. (13) to (15) as (12) to (14), respectively, and struck out former par. (12) which listed the Library Services and Construction Act as one of the laws for which funds were authorized to be appropriated under this section.
 

@@ -80,7 +80,7 @@ Other Health-Care Positions.—To be appointed as a physician assistant, expande
 
 (c) Except as provided in section 7407(a) of this title, a person may not be appointed in the Administration to a position listed in section 7401(1) of this title unless the person is a citizen of the United States.
 
-(d) A person may not be appointed under section 7401(1) of this title to serve in the Administration in any direct patient-care capacity unless the Under Secretary for Health determines that the person possesses such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable the person to carry out the person's health-care responsibilities satisfactorily. Any determination by the Under Secretary for Health under this subsection shall be in accordance with regulations which the Secretary shall prescribe.
+(d) A person may not be appointed under section 7401(1) of this title to serve in the Administration in any direct patient-care capacity unless the Under Secretary for Health determines that the person possesses such basic proficiency in spoken and written English as will permit such degree of communication with patients and other health-care personnel as will enable the person to carry out the person's health-care responsibilities satisfactorily. Any determinationby the Under Secretary for Health under this subsection shall be in accordance with regulations which the Secretary shall prescribe.
 
 (e) A person may not serve as Chief of Staff of a Department health-care facility if the person is not serving on a full-time basis.
 

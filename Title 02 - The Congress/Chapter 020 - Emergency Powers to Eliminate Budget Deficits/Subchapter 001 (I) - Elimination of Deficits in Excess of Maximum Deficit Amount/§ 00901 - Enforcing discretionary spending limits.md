@@ -114,7 +114,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 #### (C) Continuing disability reviews
 
-&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disabilityreviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such reviews for that fiscal year and the additional outlays flowing from such amounts, but shall not exceed—
+&emsp;&emsp;(i) If a bill or joint resolution making appropriations for a fiscal year is enacted that specifies an amount for continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, the adjustments for that fiscal year shall be the additional new budget authority provided in that Act for such reviews for that fiscal year and the additional outlays flowing from such amounts, but shall not exceed—
 
 &emsp;&emsp;&emsp;(I) for fiscal year 1998, $290,000,000 in additional new budget authority and $338,000,000 in additional outlays;
 
@@ -132,7 +132,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 &emsp;&emsp;&emsp;(II) the term “additional new budget authority” means the amount provided for a fiscal year, in excess of $200,000,000, in an appropriations Act and specified to pay for the costs of continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration; and
 
-&emsp;&emsp;&emsp;(III) the term “additional outlays” means outlays, in excess of $200,000,000 in a fiscal year, flowing from the amounts specified for continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, including outlays in that fiscal year flowing from amounts specified in Acts enacted for prior fiscal years (but not before 1996).
+&emsp;&emsp;&emsp;(III) the term “additional outlays” means outlays, in excess of $200,000,000 in a fiscal year, flowing from the amounts specified for continuing disability reviews under the heading “Limitation on Administrative Expenses” for the Social Security Administration, including outlays in thatfiscal year flowing from amounts specified in Acts enacted for prior fiscal years (but not before 1996).
 
 #### (D) Allowance for IMF
 
@@ -178,7 +178,7 @@ Adjustment to align highway spending with revenues.—(i) When the President sub
 
 &emsp;&emsp;(i) If a bill or resolution making appropriations for any fiscal year appropriates an amount for the conservation spending category that is less than the limit for the conservation spending category as specified in subsection (c) of this section, then the adjustment for new budget authority and outlays for the following fiscal year for that category shall be the amount of new budget authority and outlays that equals the difference between the amount appropriated and the amount of that category specified in subsection (c) of this section.
 
-&emsp;&emsp;(ii) If a bill or resolution making appropriations for any fiscal year appropriates anamount for any conservation spending sub-category that is less than the limit for that conservation spending sub-category as specified in subsections (c)(11)–(c)(16) of this section, then the adjustment for new budget authority for the following fiscal year for that sub-category shall be the amount of new budget authority that equals the difference between the amount appropriated and the amount of that sub-category specified in subsection (c)(11)–(c)(16) of this section.
+&emsp;&emsp;(ii) If a bill or resolution making appropriations for any fiscal year appropriates an amount for any conservation spending sub-category that is less than the limit for that conservation spending sub-category as specified in subsections (c)(11)–(c)(16) of this section, then the adjustment for new budget authority for the following fiscal year for that sub-category shall be the amount of new budget authority that equals the difference between the amount appropriated and the amount of that sub-category specified in subsection (c)(11)–(c)(16) of this section.
 
 &emsp;&emsp;(iii) The total amount provided for any conservation activity within the conservation spending category may not exceed any authorized ceiling for that activity.
 
@@ -260,7 +260,7 @@ As used in this subchapter, the term “discretionary spending limit” means—
 
 &emsp;(15) with respect to each fiscal year 2002 through 2006 for the Federal Deferred Maintenance sub-category of the conservation spending category: $150,000,000 in new budget authority and the outlays flowing therefrom;
 
-&emsp;(16) with respect to fiscal year 2002 for the Coastal Assistance sub-category of the conservation spending category: $440,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2003 for the Coastal Assistance sub-category of the conservation spending category: $480,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2004 for the Coastal Assistance sub-category of the conservation spending category: $520,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2005 for the Coastal Assistance sub-category of the conservation spending category: $560,000,000 in new budget authority and the outlays flowing therefrom; and with respect to fiscal year 2006 for the Coastal Assistance sub-category of the conservation spending category: $600,000,000 innew budget authority and the outlays flowing therefrom;
+&emsp;(16) with respect to fiscal year 2002 for the Coastal Assistance sub-category of the conservation spending category: $440,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2003 for the Coastal Assistance sub-category of the conservation spending category: $480,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2004 for the Coastal Assistance sub-category of the conservation spending category: $520,000,000 in new budget authority and the outlays flowing therefrom; with respect to fiscal year 2005 for the Coastal Assistance sub-category of the conservation spending category: $560,000,000 in new budget authority and the outlays flowing therefrom; and with respect to fiscal year 2006 for the Coastal Assistance sub-category of the conservation spending category: $600,000,000 in new budget authority and the outlays flowing therefrom;
 
 > as adjusted in strict conformance with subsection (b) of this section.
 
@@ -274,7 +274,7 @@ As used in this subchapter, the term “discretionary spending limit” means—
 
 Section 8103 of the Transportation Equity Act for the 21st Century, referred to in subsec. (b)(1)(B)(ii)(I)(cc), (D)(i), is section 8103 of Pub. L. 105–178, which is set out as a note below.
 
-Section 211 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(2)(C)(ii)(I), is section 211 of Pub. L. 104–193, which amended this section, section 665e of this title, and section 1382c of Title 42, The Public Health and Welfare, enacted provisions set out as a note under section 1382c of Title 42, and amended provisions set out as a note under section 401 of Title 42.
+Section 211 of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, referred to in subsec. (b)(2)(C)(ii)(I), is section 211 of Pub. L. 104–193, which amended this section, section 665e of this title,and section 1382c of Title 42, The Public Health and Welfare, enacted provisions set out as a note under section 1382c of Title 42, and amended provisions set out as a note under section 401 of Title 42.
 
 #### Codification
 
@@ -328,7 +328,7 @@ Subsec. (b)(2)(H). Pub. L. 104–121 added subpar. (H).
 
 Subsec. (b)(2)(H)(i). Pub. L. 104–193, §211(d)(5)(B)(i), substituted “$175,000,000” for “$25,000,000” and “$310,000,000” for “$160,000,000” in subcl. (II), and “$245,000,000” for “$145,000,000” and “$470,000,000” for “$370,000,000” in subcl. (III).
 
-Subsec. (b)(2)(H)(ii)(I). Pub. L. 104–193, §211(d)(5)(B)(ii), amended subcl. (I) generally. Prior toamendment, subcl. (I) read as follows: “the term ‘continuing disability reviews’ has the meaning given such term by section 401(g)(1)(A) of title 42;”.
+Subsec. (b)(2)(H)(ii)(I). Pub. L. 104–193, §211(d)(5)(B)(ii), amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “the term ‘continuing disability reviews’ has the meaning given such term by section 401(g)(1)(A) of title 42;”.
 
 1994—Subsec. (b)(2)(D)(i). Pub. L. 103–354 inserted at end “This subparagraph shall not apply to appropriations to cover agricultural crop disaster assistance.”
 

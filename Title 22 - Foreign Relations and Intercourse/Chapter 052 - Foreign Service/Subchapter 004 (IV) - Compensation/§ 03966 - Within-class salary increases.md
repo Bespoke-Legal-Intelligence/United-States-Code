@@ -8,7 +8,7 @@ Any member of the Service receiving a salary under the Foreign Service Schedule 
 
 &emsp;(2) 104 calendar weeks of service in each of salary steps 10 through 13,
 
-> unless the performance of the member during that period is found in a review by a selection board established under section 4002 of this title to fall below the standards of performance for his or her salary class.
+> unless the performance of the member during that period is found in a review by a selectionboard established under section 4002 of this title to fall below the standards of performance for his or her salary class.
 
 #### (b) Additional increase for meritorious service
 

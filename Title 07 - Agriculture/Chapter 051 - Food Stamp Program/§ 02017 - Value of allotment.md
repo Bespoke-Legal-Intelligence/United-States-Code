@@ -6,7 +6,7 @@ The value of the allotment which State agencies shall be authorized to issue to 
 
 #### (b) Benefits not deemed income or resources for certain purposes
 
-The value of benefits that may be provided under this chapter, whether through coupons, access devices, or otherwise <sup>1</sup> shall not be considered income or resources for any purpose under any Federal, State, or local laws, including, but not limited to, laws relating to taxation, welfare, and public assistance programs, and no participating State or political subdivision thereof shall decrease any assistance otherwise provided an individual or individuals because of the receipt of benefits under this chapter.
+The value of benefits that may be provided under this chapter, whether through coupons, access devices, or otherwise <sup>1</sup> shall not be considered income or resources for any purpose under any Federal, State, or local laws, including, but not limited to, laws relating to taxation, welfare, and public assistance programs, and no participating State or political subdivision thereof shall decrease any assistance otherwiseprovided an individual or individuals because of the receipt of benefits under this chapter.
 
 #### (c) First month benefits prorated
 
@@ -36,7 +36,7 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 #### (1) In general
 
-&emsp;In the case of an individual who resides in a center for the purpose of a drug or alcoholic treatment program described in the last sentence of section 2012(i) of this title, a State agency may provide an allotment for the individual to—
+&emsp;In the case of an individual who resides in a center for the purpose of a drug or alcoholic treatment program described in section 2012(i)(5) of this title, a State agency may provide an allotment for the individual to—
 
 &emsp;&emsp;(A) the center as an authorized representative of the individual for a period that is less than 1 month; and
 
@@ -46,13 +46,123 @@ Optional combined allotment for expedited households.—A State agency may provi
 
 &emsp;A State agency may require an individual referred to in paragraph (1) to designate the center in which the individual resides as the authorized representative of the individual for the purpose of receiving an allotment.
 
-(Pub. L. 88–525, §8, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–35, title I, §§104(b), 110, Aug. 13, 1981, 95 Stat. 359, 361; Pub. L. 97–253, title I, §§143(c), 152(b), 163, 164, Sept. 8, 1982, 96 Stat. 773, 776, 778; Pub. L. 99–198, title XV, §1520, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–387, title V, §502(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, §203(a), Sept. 19, 1988, 102 Stat. 1656; Pub. L. 101–624, title XVII, §§1730, 1732, Nov. 28, 1990, 104 Stat. 3790; Pub. L. 102–237, title IX, §§909, 910, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §13916, Aug. 10, 1993, 107 Stat. 674; Pub. L. 103–296, title I, §108(f)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–193, title VIII, §§826–830, 854(c)(1), Aug. 22, 1996, 110 Stat. 2327, 2342.)
+#### (f) Alternative procedures for residents of certain group facilities
+
+#### (1) In general
+
+#### (A) Applicability
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), at the option of the State agency, allotments for residents of any facility described in subparagraph (B), (C), (D), or (E) of section 2012(i)(5) of this title (referred to in this subsection as a “covered facility”) may be determined and issued under this paragraph in lieu of subsection (a) of this section.
+
+#### (ii) Limitation
+
+&emsp;&emsp;&emsp;Unless the Secretary authorizes implementation of this paragraph in all States under paragraph (3), clause (i) shall apply only to residents of covered facilities participating in a pilot project under paragraph (2).
+
+#### (B) Amount of allotment
+
+&emsp;&emsp;The allotment for each eligible resident described in subparagraph (A) shall be calculated in accordance with standardized procedures established by the Secretary that take into account the allotments typically received by residents of covered facilities.
+
+#### (C) Issuance of allotment
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;The State agency shall issue an allotment determined under this paragraph to a covered facility as the authorized representative of the residents of the covered facility.
+
+#### (ii) Adjustment
+
+&emsp;&emsp;&emsp;The Secretary shall establish procedures to ensure that a covered facility does notreceive a greater proportion of a resident's monthly allotment than the proportion of the month during which the resident lived in the covered facility.
+
+#### (D) Departures of residents of covered facilities
+
+#### (i) Notification
+
+&emsp;&emsp;&emsp;Any covered facility that receives an allotment for a resident under this paragraph shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) notify the State agency promptly on the departure of the resident; and
+
+&emsp;&emsp;&emsp;&emsp;(II) notify the resident, before the departure of the resident, that the resident—
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(aa) is eligible for continued benefits under the food stamp program; and
+
+&emsp;&emsp;&emsp;&emsp;&emsp;(bb) should contact the State agency concerning continuation of the benefits.
+
+#### (ii) Issuance to departed residents
+
+&emsp;&emsp;&emsp;On receiving a notification under clause (i)(I) concerning the departure of a resident, the State agency—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall promptly issue the departed resident an allotment for the days of the month after the departure of the resident (calculated in a manner prescribed by the Secretary) unless the departed resident reapplies to participate in the food stamp program; and
+
+&emsp;&emsp;&emsp;&emsp;(II) may issue an allotment for the month following the month of the departure (but not any subsequent month) based on this paragraph unless the departed resident reapplies to participate in the food stamp program.
+
+#### (iii) State option
+
+&emsp;&emsp;&emsp;The State agency may elect not to issue an allotment under clause (ii)(I) if the State agency lacks sufficient information on the location of the departed resident to provide the allotment.
+
+#### (iv) Effect of reapplication
+
+&emsp;&emsp;&emsp;If the departed resident reapplies to participate in the food stamp program, the allotment of the departed resident shall be determined without regard to this paragraph.
+
+#### (2) Pilot projects
+
+#### (A) In general
+
+&emsp;&emsp;Before the Secretary authorizes implementation of paragraph (1) in all States, the Secretary shall carry out, at the request of 1 or more State agencies and in 1 or more areas of the United States, such number of pilot projects as the Secretary determines to be sufficient to test the feasibility of determining and issuing allotments to residents of covered facilities under paragraph (1) in lieu of subsection (a) of this section.
+
+#### (B) Project plan
+
+&emsp;&emsp;To be eligible to participate in a pilot project under subparagraph (A), a State agency shall submit to the Secretary for approval a project plan that includes—
+
+&emsp;&emsp;&emsp;(i) a specification of the covered facilities in the State that will participate in the pilot project;
+
+&emsp;&emsp;&emsp;(ii) a schedule for reports to be submitted to the Secretary on the pilot project;
+
+&emsp;&emsp;&emsp;(iii) procedures for standardizing allotment amounts that takes into account the allotments typically received by residents of covered facilities; and
+
+&emsp;&emsp;&emsp;(iv) a commitment to carry out the pilot project in compliance with the requirements of this subsection other than paragraph (1)(B).
+
+#### (3) Authorization of implementation in all States
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary shall—
+
+&emsp;&emsp;&emsp;(i) determine whether to authorize implementation of paragraph (1) in all States; and
+
+&emsp;&emsp;&emsp;(ii) notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate of the determination.
+
+#### (B) Determination not to authorize implementation in all States
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If the Secretary makes a finding described in clause (ii), the Secretary—
+
+&emsp;&emsp;&emsp;&emsp;(I) shall not authorize implementation of paragraph (1) in all States; and
+
+&emsp;&emsp;&emsp;&emsp;(II) shall terminate all pilot projects under paragraph (2) within a reasonable period of time (as determined by the Secretary).
+
+#### (ii) Finding
+
+&emsp;&emsp;&emsp;The finding referred to in clause (i) is that—
+
+&emsp;&emsp;&emsp;&emsp;(I) an insufficient number of project plans that the Secretary determines to be eligible for approval are submitted by State agencies under paragraph (2)(B); or
+
+&emsp;&emsp;&emsp;&emsp;(II)(aa) a sufficient number of pilot projects have been carried out under paragraph (2)(A); and
+
+&emsp;&emsp;&emsp;&emsp;(bb) authorization of implementation of paragraph (1) in all States is not in the best interest of the food stamp program.
+
+(Pub. L. 88–525, §8, Aug. 31, 1964, 78 Stat. 705; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 968; Pub. L. 97–35, title I, §§104(b), 110, Aug. 13, 1981, 95 Stat. 359, 361; Pub. L. 97–253, title I, §§143(c), 152(b), 163, 164, Sept. 8, 1982, 96 Stat. 773, 776, 778; Pub. L. 99–198, title XV, §1520, Dec. 23, 1985, 99 Stat. 1578; Pub. L. 100–387, title V, §502(a), Aug. 11, 1988, 102 Stat. 960; Pub. L. 100–435, title II, §203(a), Sept. 19, 1988, 102 Stat. 1656; Pub. L. 101–624, title XVII, §§1730, 1732, Nov. 28, 1990, 104 Stat. 3790; Pub. L. 102–237, title IX, §§909, 910, Dec. 13, 1991, 105 Stat. 1887; Pub. L. 103–66, title XIII, §13916, Aug. 10, 1993, 107 Stat. 674; Pub. L. 103–296, title I, §108(f)(1), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–193, title VIII, §§826–830, 854(c)(1), Aug. 22, 1996, 110 Stat. 2327, 2342; Pub. L. 107–171, title IV, §4112(a), (b)(3), May 13, 2002, 116 Stat. 310, 313.)
 
 #### References in Text
 
 The Social Security Act, referred to in subsec. (d)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (e)(1). Pub. L. 107–171, §4112(b)(3), substituted “section 2012(i)(5) of this title” for “the last sentence of section 2012(i) of this title” in introductory provisions.
+
+Subsec. (f). Pub. L. 107–171, §4112(a), added subsec. (f).
 
 1996—Subsec. (a). Pub. L. 104–193, §826, struck out before period at end “, and shall be adjusted on each October 1 to reflect the percentage change in the cost of the thrifty food plan without regard to the special adjustments under section 2012(<i>o</i>) of this title for the 12-month period ending the preceding June, with the result rounded to the nearest $5”.
 
@@ -106,6 +216,10 @@ Subsec. (c). Pub. L. 97–35, §110, added subsec. (c).
 
 1977—Pub. L. 95–113 substituted revised provisions relating to the value of the coupon allotment for provisions covering approval of retail stores and wholesale food concerns which are now covered by section 2018 of this title.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
+
 #### Effective Date of 1994 Amendment
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
@@ -116,7 +230,7 @@ Amendment by Pub. L. 103–66 effective, and to be implemented beginning on, Sep
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section 1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
+Amendment by Pub. L. 102–237 effective and to be implemented no later than Feb. 1, 1992, see section1101(d)(1) of Pub. L. 102–237, set out as a note under section 1421 of this title.
 
 #### Effective Date of 1990 Amendment
 

@@ -18,7 +18,7 @@ In carrying out the purposes of section 241 of this title, the Secretary, acting
 
 &emsp;&emsp;(A) may acquire, construct, improve, repair, operate, and maintain, at the site of such institutes and entities, laboratories, and other research facilities, other facilities, equipment, and other real or personal property, and
 
-&emsp;&emsp;(B) may acquire, without regard to section 34 of title 40, by lease or otherwise through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia for use for a period not to exceed ten years;
+&emsp;&emsp;(B) may acquire, without regard to section 8141 of title 40, by lease or otherwise through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia for use for a period not to exceed ten years;
 
 &emsp;(5) may secure resources for research conducted by or through the National Institutes of Health;
 
@@ -116,7 +116,7 @@ The Secretary, acting through the Director of NIH and the Directors of the agenc
 
 #### (j) Data bank of information on clinical trials for drugs for serious or life-threatening diseases and conditions
 
-(1)(A) The Secretary, acting through the Director of NIH, shall establish, maintain, and operate a data bank of information on clinical trials for drugs for serious or life-threatening diseases and conditions (in this subsection referred to as the “data bank”). The activities of the data bank shall be integrated and coordinated with related activities of other agencies of the Department of Health and Human Services, and to the extent practicable, coordinated with other data banks containing similar information.
+(1)(A) The Secretary, acting through the Director of NIH, shall establish, maintain, and operate a data bank of information on clinical trials for drugs for serious or life-threatening diseases and conditions (in this subsection referred to as the “data bank”). The activities ofthe data bank shall be integrated and coordinated with related activities of other agencies of the Department of Health and Human Services, and to the extent practicable, coordinated with other data banks containing similar information.
 
 (B) The Secretary shall establish the data bank after consultation with the Commissioner of Food and Drugs, the directors of the appropriate agencies of the National Institutes of Health (including the National Library of Medicine), and the Director of the Centers for Disease Control and Prevention.
 
@@ -165,6 +165,10 @@ The Federal Advisory Committee Act, referred to in subsec. (b), is Pub. L. 92–
 The provisions of title 5 relating to reimbursement for travel expenses, referred to in subsec. (d)(2)(A), are classified generally to section 5701 et seq. of Title 5, Government Organization and Employees.
 
 The National Literacy Act of 1991, referred to in subsec. (e)(5), is Pub. L. 102–73, July 25, 1991, 105 Stat. 333, as amended, which was repealed by Pub. L. 105–220, title II, §251(a)(2), Aug. 7, 1998, 112 Stat. 1079. For complete classification of this Act to the Code, see Tables.
+
+#### Codification
+
+In subsec. (b)(4)(B),“section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” onauthority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -238,7 +242,7 @@ Section 902(c) of Pub. L. 103–43 provided that: “The Secretary of Health and
 
 Section 1901(a) of Pub. L. 103–43 provided that: “The Secretary of Health and Human Services, acting through the Director of the National Institutes of Health, shall conduct a study for the purpose of—
 
-&emsp;“(1) determining the policies of third-party payors regarding the payment of the costs of appropriatehealth services that are provided incident to the participation of individuals as subjects in clinical trials conducted in the development of drugs with respect to acquired immune deficiency syndrome, cancer, and other life-threatening illnesses; and
+&emsp;“(1) determining the policies of third-party payors regarding the payment of the costs of appropriate health services that are provided incident to the participation of individuals as subjects in clinical trials conducted in the development of drugs with respect to acquired immune deficiency syndrome, cancer, and other life-threatening illnesses; and
 
 &emsp;“(2) developing recommendations regarding such policies.”
 

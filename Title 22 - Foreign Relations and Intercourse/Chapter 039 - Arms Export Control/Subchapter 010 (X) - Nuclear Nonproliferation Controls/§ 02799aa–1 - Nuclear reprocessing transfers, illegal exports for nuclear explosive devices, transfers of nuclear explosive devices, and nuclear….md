@@ -6,7 +6,7 @@
 
 &emsp;(A) delivers nuclear reprocessing equipment, materials, or technology to any other country on or after August 4, 1977, or receives such equipment, materials, or technology from any other country on or after August 4, 1977 (except for the transfer of reprocessing technology associated with the investigation, under international evaluation programs in which the United States participates, of technologies which are alternatives to pure plutonium reprocessing), or
 
-&emsp;(B) is a non-nuclear-weapon state which, on or after August 8, 1985, exports illegally (or attempts to export illegally) from the United States any material, equipment, or technology which would contribute significantly to theability of such country to manufacture a nuclear explosive device, if the President determines that the material, equipment, or technology was to be used by such country in the manufacture of a nuclear explosive device.
+&emsp;(B) is a non-nuclear-weapon state which, on or after August 8, 1985, exports illegally (or attempts to export illegally) from the United States any material, equipment, or technology which would contribute significantly to the ability of such country to manufacture a nuclear explosive device, if the President determines that the material, equipment, or technology was to be used by such country in the manufacture of a nuclear explosive device.
 
 > For purposes of clause (B), an export (or attempted export) by a person who is an agent of, or is otherwise acting on behalf of or in the interests of, a country shall be considered to be an export (or attempted export) by that country.
 
@@ -62,11 +62,11 @@
 
 (3) As used in this subsection—
 
-&emsp;(A) the term “design information” means specific information that relates to the design of a nuclear explosive device and that is not available to the public; and
+&emsp;(A) the term “design information” means specific information that relates to the designof a nuclear explosive device and that is not available to the public; and
 
 &emsp;(B) the term “component” means a specific component of a nuclear explosive device.
 
-(4)(A) Notwithstanding paragraph (1) of this subsection, the President may, for a period ofnot more than 30 days of continuous session, delay the imposition of sanctions which would otherwise be required under paragraph (1)(A) or (1)(B) of this subsection if the President first transmits to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a certification that he has determined that an immediate imposition of sanctions on that country would be detrimental to the national security of the United States. Not more than one such certification may be transmitted for a country with respect to the same detonation, transfer, or receipt of a nuclear explosive device.
+(4)(A) Notwithstanding paragraph (1) of this subsection, the President may, for a period of not more than 30 days of continuous session, delay the imposition of sanctions which would otherwise be required under paragraph (1)(A) or (1)(B) of this subsection if the President first transmits to the Speaker of the House of Representatives, and to the chairman of the Committee on Foreign Relations of the Senate, a certification that he has determined that an immediate imposition of sanctions on that country would be detrimental to the national security of the United States. Not more than one such certification may be transmitted for a country with respect to the same detonation, transfer, or receipt of a nuclear explosive device.
 
 (B) If the President transmits a certification to the Congress under subparagraph (A), a joint resolution which would permit the President to exercise the waiver authority of paragraph (5) of this subsection shall, if introduced in either House within thirty days of continuous session after the Congress receives this certification, be considered in the Senate in accordance with subparagraph (C) of this paragraph.
 
@@ -130,7 +130,7 @@ Pub. L. 106–113, div. B, §1000(a)(3) \[title I\], Nov. 29, 1999, 113 Stat. 15
 
 #### Waiver of Certain Sanctions Against India and Pakistan
 
-Pub. L. 106–79, title IX, §9001, Oct. 25, 1999, 113 Stat. 1283, provided that:
+Pub. L. 106–79, title IX, §9001, Oct. 25, 1999, 113 Stat. 1283, as amended by Pub. L. 107–228, div. B, title XIV, §1405(b), Sept. 30, 2002, 116 Stat. 1458, provided that:
 
 “(a)
 
@@ -162,7 +162,7 @@ Reporting requirement.—Not later than 60 days after the date of the enactment 
 
 “(e)
 
-Congressional Notification.—The issuance of a license for export of a defense article, defense service, or technology under the authority of this section shall be subject to the same requirements as are applicable to the export of items described in section 36(c) of the Arms Export Control Act (22 U.S.C. 2776(c)), including the transmittal of information and the application of congressional review procedures.
+Congressional Notification.—The issuance of a license for export of a defense article, defense service, or technology under the authority of this section shall be subject to the same requirements as are applicable to the export of items described in section 36(c) of the Arms Export Control Act (22 U.S.C. 2776(c)), including the transmittal of information and the application of congressional review procedures. The application of these requirements shall be subject to the dollar amount thresholds specified in that section.
 
 “(f)
 

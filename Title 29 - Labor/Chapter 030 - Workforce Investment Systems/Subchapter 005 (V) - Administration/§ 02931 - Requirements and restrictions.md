@@ -74,7 +74,7 @@
 
 &emsp;&emsp;The Secretary shall investigate an allegation of a violation described in paragraph (1) if—
 
-&emsp;&emsp;&emsp;(i) a decision relating to such violation has not been reached within 60 days after the date of the filing of the grievance or complaint and either party appeals to the Secretary; or
+&emsp;&emsp;&emsp;(i) a decision relating to such violation has not been reached within 60 days afterthe date of the filing of the grievance or complaint and either party appeals to the Secretary; or
 
 &emsp;&emsp;&emsp;(ii) a decision relating to such violation has been reached within such 60 days and the party to which such decision is adverse appeals such decision to the Secretary.
 
@@ -152,7 +152,7 @@ No funds available under this chapter shall be used for employment generating ac
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
+This chapter, referred to in text, was in the original “this title” meaning title I of Pub. L. 105–220, Aug. 7,1998, 112 Stat. 939, as amended, which enacted this chapter, repealed sections 1501 to 1505, 1511 to 1583, 1592 to 1735, 1737 to 1791h, 1792 to 1792b, 2301 to 2314 of this title, section 211 of former Title 40, Appendix, Public Buildings, Property, and Works, sections 11421, 11441 to 11447, 11449, 11450, 11461 to 11466, 11471, and 11472 of Title 42, The Public Health and Welfare, and sections 42101 to 42106 of Title 49, Transportation, enacted provisions set out as notes under sections 1501, 2301, and 2940 of this title and section 11421 of Title 42, and repealed provisions set out as notes under sections 801 and 2301 of this title and section 1255a of Title 8, Aliens and Nationality. For complete classification of title I to the Code, see Tables.
 
 The Social Security Act, referred to in subsec. (a)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 

@@ -24,7 +24,7 @@ There is authorized to be appropriated to carry out this section $7,000,000 for 
 
 #### Codification
 
-Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the Water Resources Development Act of 1986 which comprises this chapter.
+Section was enacted as part of the Water Resources Development Act of 1999, and not as part of the WaterResources Development Act of 1986 which comprises this chapter.
 
 #### “Secretary” Defined
 

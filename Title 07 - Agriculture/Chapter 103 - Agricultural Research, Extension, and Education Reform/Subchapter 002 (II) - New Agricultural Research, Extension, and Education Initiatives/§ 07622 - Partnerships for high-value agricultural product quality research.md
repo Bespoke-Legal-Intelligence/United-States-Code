@@ -84,7 +84,11 @@ Funds provided under this section may not be used for the planning, repair, reha
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007.
 
-(Pub. L. 105–185, title IV, §402, June 23, 1998, 112 Stat. 566.)
+(Pub. L. 105–185, title IV, §402, June 23, 1998, 112 Stat. 566; Pub. L. 107–171, title VII, §7123, May 13, 2002, 116 Stat. 434.)
+
+#### Amendments
+
+2002—Subsec. (g). Pub. L. 107–171 substituted “2007” for “2002”.
 

@@ -1,0 +1,62 @@
+### §553. Property for correctional facility, law enforcement, and emergency management response purposes
+
+(a)
+
+Definition.—In this section, the term “State” includes the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and, the Northern Mariana Islands.
+
+(b)
+
+Authority To Transfer Property.—The Administrator of General Services, in the Administrator's discretion and under regulations that the Administrator may prescribe, may transfer or convey to a State, or political subdivision or instrumentality of a State, surplus real and related personal property that—
+
+&emsp;(1) the Attorney General determines is required by the transferee or grantee for correctional facility use under a program approved by the Attorney General for the care or rehabilitation of criminal offenders;
+
+&emsp;(2) the Attorney General determines is required by the transferee or grantee for law enforcement purposes; or
+
+&emsp;(3) the Director of the Federal Emergency Management Agency determines is required by the transferee or grantee for emergency management response purposes including fire and rescue services.
+
+(c)
+
+No Monetary Consideration.—A transfer or conveyance under this section shall be made without monetary consideration to the Federal Government.
+
+(d)
+
+Deed of Conveyance.—The deed of conveyance of any surplus real and related personal property disposed of under this section—
+
+&emsp;(1) shall provide that all of the property be used and maintained for the purpose for which it was conveyed in perpetuity, and that if the property ceases to be used or maintained for that purpose, all or any portion of the property shall, in its then existing condition, at the option of the Government, revert to the Government; and
+
+&emsp;(2) may contain additional terms, reservations, restrictions, and conditions that the Administrator determines are necessary to safeguard the interests of the Government.
+
+(e)
+
+Enforcement and Revision of Instruments Transferring Property Under This Section.—The Administrator shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Administrator shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Administrator shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the transferee (or other eligible user) any right or interest reserved to the Government by the instrument, if the Administrator determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Administrator considers necessary to protect or advance the interests of the Government.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1099.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+553
+
+40:484(p).
+
+June 30, 1949, ch. 288, title II, §203(p), as added Pub. L. 98–473, title II, §701, Oct. 12, 1984, 98 Stat. 2129; Pub. L. 105–119, title I, §118, Nov. 26, 1997, 111 Stat. 2468; Pub. L. 106–113, §1000(a)(5) \[§233(a)\], Nov. 29, 1999, 113 Stat. 1501A–301; Pub. L. 106–168, title III, §301, Dec. 12, 1999, 113 Stat. 1821; Pub. L. 106–398, §1 \[§2814\], Oct. 30, 2000, 114 Stat. 1654A–419.
+
+In subsection (a), the words “Trust Territory of the Pacific Islands” are omitted and the words “the Federated States of Micronesia, the Marshall Islands, Palau” are added because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
+
+In subsection (c), the text of 40:484(p)(1)(A) (last sentence) is omitted as executed and obsolete.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 sections 2577, 2814; title 14 section 641; title 28 section 604; title 38 section 8162; title 42 sections 3796<i>ll</i>–3, 11411.
+

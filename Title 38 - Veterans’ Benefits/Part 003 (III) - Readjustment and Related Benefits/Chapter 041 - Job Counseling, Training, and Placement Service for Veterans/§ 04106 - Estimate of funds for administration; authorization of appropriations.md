@@ -1,14 +1,14 @@
 ### §4106. Estimate of funds for administration; authorization of appropriations
 
-(a) The Secretary shall estimate the funds necessary for the proper and efficient administration of this chapter and chapters 42 and 43 of this title. Such estimated sums shall include the annual amounts necessary for salaries, rents, printing and binding, travel, and communications. Sums thus estimated shall be included as a special item in the annual budget for the Department of Labor. Estimated funds necessary for proper counseling, placement, and training services to eligible veterans and eligible persons provided by the various State public employment service agencies shall each be separately identified in the budgets of those agencies as approved by the Department of Labor. Funds estimated pursuant to the first sentence of this subsection shall include amounts necessary in all of the States for the purposes specified in paragraph (5) of section 4102A(b) of this title and to fund the National Veterans’ Employment and Training Services Institute under section 4109 of this title and shall be approved by the Secretary only if the level of funding proposed is in compliance with such sections. Each budget submission with respect to such funds shall include separate listings of the amount for the National Veterans’ Employment and Training Services Institute and of the proposed numbers, by State, of disabled veterans’ outreach program specialists appointed under section 4103A of this title and local veterans’ employment representatives assigned under section 4104 of this title, together with information demonstrating the compliance of such budget submission with the funding requirements specified in the preceding sentence.
+(a) The Secretary shall estimate the funds necessary for the proper and efficient administration of this chapter and chapters 42 and 43 of this title. Such estimated sums shall include the annual amounts necessary for salaries, rents, printing and binding, travel, and communications. Sums thus estimated shall be included as a special item in the annual budget for the Department of Labor. Estimated funds necessary for proper intensive services, placement, and training services to eligible veterans and eligible persons provided by the various State public employment service agencies shall each be separately identified in the budgets of those agencies as approved by the Department of Labor. Funds estimated pursuant to the first sentence of this subsection shall include amounts necessary in all of the States for the purposes specified in paragraph (5) of section 4102A(b) of this title and to fund the National Veterans’ Employment and Training Services Institute under section 4109 of this title and shall be approved by the Secretary only if the level of funding proposed is in compliance with such sections. Each budget submission with respect to such funds shall include a separate listing of the amount for the National Veterans’ Employment and Training Services Institute together with information demonstrating the compliance of such budget submission with the funding requirements specified in the preceding sentence.
 
 (b) There are authorized to be appropriated such sums as may be necessary for the proper and efficient administration of this chapter.
 
-(c) In the event that the regular appropriations Act making appropriations for administrative expenses for the Department of Labor with respect to any fiscal year does not specify an amount for the purposes specified in subsection (b) of this section for that fiscal year, then ofthe amounts appropriated in such Act there shall be available only for the purposes specified in subsection (b) of this section such amount as was set forth in the budget estimate submitted pursuant to subsection (a) of this section.
+(c) In the event that the regular appropriations Act making appropriations for administrative expenses for the Department of Labor with respect to any fiscal year does not specify an amount for the purposes specified in subsection (b) of this section for that fiscal year, then of the amounts appropriated in such Act there shall be available only for the purposes specified in subsection (b) of this section such amount as was set forth in the budget estimate submitted pursuant to subsection (a) of this section.
 
 (d) Any funds made available pursuant to subsections (b) and (c) of this section shall not be available for any purpose other than those specified in such subsections.
 
-(Added Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1096, §2006; amended Pub. L. 93–508, title IV, §401(e), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §603, Oct. 15, 1976, 90 Stat. 2404; Pub. L. 97–306, title III, §306, Oct. 14, 1982, 96 Stat. 1440; Pub. L. 100–323, §§2(b), (c), (e)(2), 15(a)(2), May 20, 1988, 102 Stat. 558, 559, 574; renumbered §4106 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 92–540, title V, §502(a), Oct. 24, 1972, 86 Stat. 1096, §2006; amended Pub. L. 93–508, title IV, §401(e), Dec. 3, 1974, 88 Stat. 1592; Pub. L. 94–502, title VI, §603, Oct. 15, 1976, 90 Stat. 2404; Pub. L. 97–306, title III, §306, Oct. 14, 1982, 96 Stat. 1440; Pub. L. 100–323, §§2(b), (c), (e)(2), 15(a)(2), May 20, 1988, 102 Stat. 558, 559, 574; renumbered §4106 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–288, §§4(d)(1), 5(a)(1)(C), Nov. 7, 2002, 116 Stat. 2044.)
 
 #### Prior Provisions
 
@@ -17,6 +17,10 @@ Prior section 4106, Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1245; Pub. L. 89�
 Provisions similar to those comprising this section were contained in former section 2005 of this title prior to the amendment of this chapter by Pub. L. 92–540.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–288, §5(a)(1)(C), substituted “proper intensive services” for “proper counseling”.
+
+Pub. L. 107–288, §4(d)(1), amended last sentence generally. Prior to amendment, last sentence read as follows: “Each budget submission with respect to such funds shall include separate listings of the amount for the National Veterans’ Employment and Training Services Institute and of the proposed numbers, by State, of disabled veterans’ outreach program specialists appointed under section 4103A of this title and local veterans’ employment representatives assigned under section 4104 of this title, together with information demonstrating the compliance of such budget submission with the funding requirements specified in the preceding sentence.”
 
 1991—Pub. L. 102–83, §5(a), renumbered section 2006 of this title as this section.
 
@@ -35,6 +39,10 @@ Subsec. (d). Pub. L. 97–306, §306(b), inserted “, upon the recommendation 
 1976—Subsec. (a). Pub. L. 94–502 substituted “agencies shall each be” for “agencies shall be”.
 
 1974—Subsec. (a). Pub. L. 93–508 substituted “training services to eligible veterans and eligible persons” for “training services to veterans”.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–288, §4(d)(2), Nov. 7, 2002, 116 Stat. 2044, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of this Act \[Nov. 7, 2002\], and apply to budget submissions for fiscal year 2004 and each subsequent fiscal year.”
 
 #### Effective Date of 1976 Amendment
 

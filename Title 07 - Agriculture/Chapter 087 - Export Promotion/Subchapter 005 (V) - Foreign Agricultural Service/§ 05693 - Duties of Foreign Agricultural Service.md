@@ -20,6 +20,26 @@ The Agricultural Trade Development and Assistance Act of 1954, referred to in pa
 
 1996—Pub. L. 104–127 substituted “Duties” for “Establishment” in section catchline and amended text generally. Prior to amendment, text read as follows: “The Service shall assist the Secretary in carrying out the agricultural trade policy of the United States by acquiring information pertaining to agricultural trade, carrying out market promotion and development activities, and implementing the programs authorized in this chapter, the Agricultural Trade Development and Assistance Act of 1954, and other Acts.”
 
+#### Study on Fee for Services
+
+Pub. L. 107–171, title III, §3208, May 13, 2002, 116 Stat. 302, provided that:
+
+“(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture shall submit to the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition and Forestry of the Senate a report on the feasibility of instituting a program under which the Secretary would charge and retain a fee to cover the costs incurred by the Department of Agriculture, acting through the Foreign Agricultural Service or any successor agency, in providing persons with commercial services provided outside the United States.
+
+“(b)
+
+Purpose of Program.—The purpose of a program described in subsection (a) would be to supplement and not replace any services currently offered overseas by the Foreign Agricultural Service.
+
+“(c)
+
+Market Development Strategy.—A program under subsection (b) would be part of an overall market development strategy for a particular country or region.
+
+“(d)
+
+Pilot Program.—A program under subsection (a) would be established on a pilot basis to ensure that the program does not disadvantage small- and medium-sized companies, including companies that have never engaged in exporting.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6912 of this title.

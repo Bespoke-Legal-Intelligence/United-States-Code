@@ -2,17 +2,19 @@
 
 For purposes of carrying out the provisions of this chapter, there are authorized to be appropriated—
 
-&emsp;(1) to the Department of Agriculture, $1,000,000 for each of fiscal years 1991 through 2002;
+&emsp;(1) to the Department of Agriculture, $1,000,000 for each of fiscal years 1991 through 2007;
 
-&emsp;(2) to the Department of Commerce, $1,000,000 for each of fiscal years 1991 through 2002; and
+&emsp;(2) to the Department of Commerce, $1,000,000 for each of fiscal years 1991 through 2007; and
 
-&emsp;(3) to the Department of <sup>1</sup> Interior, $1,000,000 for each of fiscal years 1991 through 2002.
+&emsp;(3) to the Department of <sup>1</sup> Interior, $1,000,000 for each of fiscal years 1991 through 2007.
 
 > Funds authorized by this section shall be in addition to, and not in lieu of, funds authorized by any other Act.
 
-(Pub. L. 96–362, §10, Sept. 26, 1980, 94 Stat. 1205; Pub. L. 98–623, title IV, §402, Nov. 8, 1984, 98 Stat. 3407; Pub. L. 99–198, title XVII, §1737, Dec. 23, 1985, 99 Stat. 1643; Pub. L. 101–624, title XVI, §1614(d), Nov. 28, 1990, 104 Stat. 3728; Pub. L. 105–185, title III, §301(i), June 23, 1998, 112 Stat. 563.)
+(Pub. L. 96–362, §10, Sept. 26, 1980, 94 Stat. 1205; Pub. L. 98–623, title IV, §402, Nov. 8, 1984, 98 Stat.3407; Pub. L. 99–198, title XVII, §1737, Dec. 23, 1985, 99 Stat. 1643; Pub. L. 101–624, title XVI, §1614(d), Nov. 28, 1990, 104 Stat. 3728; Pub. L. 105–185, title III, §301(i), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7139, May 13, 2002, 116 Stat. 436.)
 
 #### Amendments
+
+2002—Pars. (1) to (3). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1998—Pars. (1) to (3). Pub. L. 105–185 substituted “fiscal years 1991 through 2002” for “the fiscal years 1991, 1992, and 1993”.
 

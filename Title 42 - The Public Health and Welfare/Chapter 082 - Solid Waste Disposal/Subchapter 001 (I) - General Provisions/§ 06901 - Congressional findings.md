@@ -64,7 +64,7 @@ The Water Pollution Control Act, referred to in subsec. (b)(3), is act June 30, 
 
 The statutory system governing the disposal of solid wastes set out in this chapter is found in Pub. L. 89–272, title II, as amended in its entirety and completely revised by section 2 of Pub. L. 94–580, Oct. 21, 1976, 90 Stat. 2795. See Short Title of 1976 Amendment note below.
 
-The act, as set out in this chapter, carries a statutory credit showing the sections as having been added by Pub. L. 94–580, without reference to amendments to theact between its original enactment in 1965 and its complete revision in 1976. The act, as originally enacted in 1965, was classified to section 3251 et seq. of this title. For a recapitulation of the provisions of the act as originally enacted, see notes in chapter 39 (§3251 et seq.) of this title where the act was originally set out.
+The act, as set out in this chapter, carries a statutory credit showing the sections as having been added by Pub. L. 94–580, without reference to amendments to the act between its original enactment in 1965 and its complete revision in 1976. The act, as originally enacted in 1965, was classified to section 3251 et seq. of this title. For a recapitulation of the provisions of the act as originally enacted, see notes in chapter 39 (§3251 et seq.) of this title where the act was originally set out.
 
 #### Prior Provisions
 
@@ -100,7 +100,7 @@ Pub. L. 96–463, §1, Oct. 15, 1980, 94 Stat. 2055, provided: “This Act \[ena
 
 #### Short Title of 1976 Amendment
 
-Section 1 of Pub. L. 94–580 provided that: “This Act \[enacting this chapter and provisions set out as notes under this section and section 6981 of this title\] may be cited as the ‘Resource Conservation and Recovery Act of 1976’.”
+Section 1 of Pub. L. 94–580 provided that: “This Act \[enacting this chapter and provisions set out as notesunder this section and section 6981 of this title\] may be cited as the ‘Resource Conservation and Recovery Act of 1976’.”
 
 #### Short Title
 

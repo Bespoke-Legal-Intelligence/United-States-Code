@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(ii) to provide advanced, sustained, and ongoing training of teachers on the roles of State and local governments in the Federal system established by the Constitution of the United States;
 
-&emsp;&emsp;&emsp;(iii) to provide materials and methods of instruction, including teacher training, that utilize the latest advancements in educational technology; and
+&emsp;&emsp;&emsp;(iii) to provide materials and methods of instruction, including teacher training,that utilize the latest advancements in educational technology; and
 
 &emsp;&emsp;&emsp;(iv) to provide civic education materials and services to address specific problems such as the prevention of school violence and the abuse of drugs and alcohol.
 

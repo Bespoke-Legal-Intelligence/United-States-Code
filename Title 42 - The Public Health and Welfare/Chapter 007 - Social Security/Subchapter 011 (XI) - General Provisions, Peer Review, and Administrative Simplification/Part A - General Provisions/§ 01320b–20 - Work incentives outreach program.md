@@ -94,7 +94,7 @@
 
 #### (4) Allocation of costs
 
-&emsp;The costs of carrying out this section shall be paid from amounts made available for the administration of subchapter II of this chapter and amounts made available for the administration of subchapter XVI of this chapter, andshall be allocated among those amounts as appropriate.
+&emsp;The costs of carrying out this section shall be paid from amounts made available for the administration of subchapter II of this chapter and amounts made available for the administration of subchapter XVI of this chapter, and shall be allocated among those amounts as appropriate.
 
 #### (c) Definitions
 

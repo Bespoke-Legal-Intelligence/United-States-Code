@@ -38,7 +38,7 @@ June 3, 1916, ch. 134, §86, 39 Stat. 204.
 
 June 23, 1910, ch. 370, 36 Stat. 603.
 
-In subsection (a), the words “stores \* \* \* materiel” are omitted as covered by the word “supplies”. The words “other supplies issued” are substituted for thewords “those issued under the provisions of this title”. The words “at cost plus transportation” are substituted for the words “at the price at which they shall be listed to the Army, with cost of transportation added”.
+In subsection (a), the words “stores \* \* \* materiel” are omitted as covered by the word “supplies”. The words “other supplies issued” are substituted for the words “those issued under the provisions of this title”. The words “at cost plus transportation” are substituted for the words “at the price at which they shall be listed to the Army, with cost of transportation added”.
 
 In subsection (b), 32:39a (less last 23 words) is omitted as obsolete and superseded by 32:39 (proviso of last sentence). The Act of June 23, 1910, ch. 370 (less proviso), not contained in 32:39a, is omitted from the revised section as executed. The words “bought under subsection (a)” are substituted for the words “so purchased”. The words “for military use” are substituted for the words “for use in the military service thereof”. The words “and when so requisitioned by the United States and delivered” and “ultimate” are omitted as surplusage.
 

@@ -1,6 +1,6 @@
 ### §706. Conversion
 
-(a) The debtor may convert a case under this chapter to a case under chapter 11, 12, or 13 of this title at any time, if the case has not been converted under section 1112, 1208, or 1307 of this title. Any waiver of the right to convert a case under this subsection is unenforceable.
+(a) The debtor may convert a case under this chapter to a case under chapter 11, 12, or 13 ofthis title at any time, if the case has not been converted under section 1112, 1208, or 1307 of this title. Any waiver of the right to convert a case under this subsection is unenforceable.
 
 (b) On request of a party in interest and after notice and a hearing, the court may convert a case under this chapter to a case under chapter 11 of this title at any time.
 
@@ -14,7 +14,7 @@
 
 I74legislative statements
 
-Section 706(a) of the House amendment adopts a provision contained in the Senate amendment indicatingthat a waiver of the right to convert a case under section 706(a) is unenforceable. The explicit reference in title 11 forbidding the waiver of certain rights is not intended to imply that other rights, such as the right to file a voluntary bankruptcy case under section 301, may be waived.
+Section 706(a) of the House amendment adopts a provision contained in the Senate amendment indicating that a waiver of the right to convert a case under section 706(a) is unenforceable. The explicit reference in title 11 forbidding the waiver of certain rights is not intended to imply that other rights, such as the right to file a voluntary bankruptcy case under section 301, may be waived.
 
 Section 706 of the House amendment adopts a similar provision contained in H.R. 8200 as passed by the House. Competing proposals contained in section 706(c) and section 706(d) of the Senate amendment are rejected.
 

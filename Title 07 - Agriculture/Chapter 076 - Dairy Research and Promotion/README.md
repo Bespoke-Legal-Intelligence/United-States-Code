@@ -10,6 +10,7 @@
 | (a) | Notice and opportunity for public comment. |
 | (b) | Effective date of orders. |
 | (c) | Amendment of orders. |
+| (d) | Order implementation and international trade obligations. |
 | [4504\.](Subchapter%20001%20%28I%29%20-%20Dairy%20Promotion%20Program/%C2%A7%2004504%20-%20Required%20terms%20in%20orders.md) | Required terms in orders. |
 | [4505\.](Subchapter%20001%20%28I%29%20-%20Dairy%20Promotion%20Program/%C2%A7%2004505%20-%20Certification%20of%20organizations.md) | Certification of organizations. |
 | [4506\.](Subchapter%20001%20%28I%29%20-%20Dairy%20Promotion%20Program/%C2%A7%2004506%20-%20Requirement%20of%20referendum.md) | Requirement of referendum. |

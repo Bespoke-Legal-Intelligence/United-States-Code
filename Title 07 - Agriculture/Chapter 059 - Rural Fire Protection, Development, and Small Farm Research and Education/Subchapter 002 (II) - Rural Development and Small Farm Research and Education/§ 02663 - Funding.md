@@ -14,7 +14,7 @@ Such sums as are appropriated to carry out the provisions of section 2662(a) and
 
 &emsp;(3) 20 per centum shall be allocated equally among the States; and
 
-&emsp;(4) 66 per centum shall be allocated to each State as follows: One-half in an amount that bears the same ratio to the total amount to be allotted as the rural population of the State bears to the total rural population of all the States, as determined by the last preceding decennial census current at that time; and one-half in an amount that bears the same ratio to the total amount to be allotted as the farm population of the State bears to the total farm population of all the States, as determined by the last preceding decennial census current at that time:
+&emsp;(4) 66 per centum shall be allocated to each State as follows: One-half in an amount that bears the same ratio to the total amount to be allotted as the rural population of the State bears to the total rural population of all the States, as determined by the last preceding decennial census current at that time; and one-half in an amount that bears the same ratio to the total amount to be allotted as the farmpopulation of the State bears to the total farm population of all the States, as determined by the last preceding decennial census current at that time:
 
 > <i>Provided</i>, That, beginning with the fiscal year ending September 30, 1982, no State may receive more than $75,000 until all States have been allotted a minimum of $75,000.
 

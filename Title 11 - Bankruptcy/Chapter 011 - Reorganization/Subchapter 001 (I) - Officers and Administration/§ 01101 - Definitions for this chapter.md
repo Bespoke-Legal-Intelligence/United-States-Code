@@ -18,7 +18,7 @@ In this chapter—
 
 I74senate report no. 95–989
 
-This section contains definitions of three terms that are used in chapter 11. Paragraph (1) defines debtor inpossession to mean the debtor, except when a trustee who has qualified in serving in the case.
+This section contains definitions of three terms that are used in chapter 11. Paragraph (1) defines debtor in possession to mean the debtor, except when a trustee who has qualified in serving in the case.
 
 Paragraph (2), derived from section 229a of current law \[section 629(a) of former title 11\], defines substantial consummation. Substantial consummation of a plan occurs when transfer of all or substantially all of the property proposed by the plan to be transferred is actually transferred; when the debtor (or its successor) has assumed the business of the debtor or the management of all or substantially all of the property dealt with by the plan; and when distribution under the plan has commenced.
 

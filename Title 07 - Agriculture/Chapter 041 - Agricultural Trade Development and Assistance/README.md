@@ -152,9 +152,13 @@ Effective use of commodities.
 
 Labeling.
 
+(h)
+
+Streamlined program management.
+
 |  |  |
 | :--- | ---: |
-| [1723\.](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/%C2%A7%2001723%20-%20Generation%20and%20use%20of%20foreign%20currencies%20by%20private%20voluntary%20organizations%20and%20cooperatives.md) | Generation and use of foreign currencies by private voluntary organizations and cooperatives. |
+| [1723\.](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/%C2%A7%2001723%20-%20Generation%20and%20use%20of%20currencies%20by%20private%20voluntary%20organizations%20and%20cooperatives.md) | Generation and use of currencies by private voluntary organizations and cooperatives. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -220,20 +224,7 @@ Termination.
 
 |  |  |
 | :--- | ---: |
-| [1726\.](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/%C2%A7%2001726%20-%20Maximum%20level%20of%20expenditures.md) | Maximum level of expenditures. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-(a)
-
-Maximum expenditures.
-
-(b)
-
-Waiver by President.
-
-|  |  |
-| :--- | ---: |
+| [1726\.](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/%C2%A7%2001726%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20III%2C%20%C2%A73006%2C%20May%2013%2C%202002%2C%20116%20Stat.%20282.md) | Repealed. |
 | [1726a.](Subchapter%20003%20%28III%29%20-%20Emergency%20and%20Private%20Assistance%20Programs/%C2%A7%2001726a%20-%20Administration.md) | Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -253,6 +244,10 @@ Regulations.
 (d)
 
 Deadline for submission of commodity orders.
+
+(e)
+
+Timely approval.
 
 |  |  |
 | :--- | ---: |
@@ -468,6 +463,10 @@ Violations of human rights.
 
 Abortion prohibition.
 
+(<i>l</i>)
+
+Sale procedure.
+
 |  |  |
 | :--- | ---: |
 | [1734\.](Subchapter%20004%20%28IV%29%20-%20General%20Authorities%20and%20Requirements/%C2%A7%2001734%20-%20Agreements.md) | Agreements. |
@@ -674,7 +673,7 @@ Exception for narcotics control.
 
 |  |  |
 | :--- | ---: |
-| 1736g–2. | Micronutrient fortification pilot program. |
+| 1736g–2. | Micronutrient fortification programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -711,39 +710,39 @@ Short title.
 
 (b)
 
-Agreements with developing countries and emerging democracies to furnish commodities.
+Definitions.
 
 (c)
 
-“Commodities” defined.
+Program.
 
 (d)
 
-Considerations for agreements.
+Consideration for agreements.
 
 (e)
 
-Availability of commodities; financing sale and exportation of commodities; payment of costs and charges.
+Funding of eligible commodities.
 
 (f)
 
-Provision to developing countries on grant basis; purchase of commodities by Commodity Credit Corporation; funds for implementation; cost of commodities and expenses.
+Provision of eligible commodities to developing countries.
 
 (g)
 
-Maximum amount of metric tons of commodities to be furnished.
+Minimum tonnage.
 
 (h)
 
-Prohibition on resale of transshipment of commodities.
+Prohibition on resale or transshipment of eligible commodities.
 
 (i)
 
-Agreements not to displace other sales of United States commodities.
+Displacement of United States commercial sales.
 
 (j)
 
-Agreements for distribution or sale on multiyear basis.
+Multicountry or multiyear basis.
 
 (k)
 
@@ -751,19 +750,69 @@ Effective and termination dates.
 
 (<i>l</i>)
 
-Additional assistance in administration of food assistance programs.
+Administrative expenses.
 
 (m)
 
-Agreements for sale of commodities.
+Presidential approval.
 
 (n)
 
-Private Voluntary Organizations to carry out section.
+Program management.
 
-(<i>o</i>)
+|  |  |
+| :--- | ---: |
+| §1736<i>o</i>–1. | McGovern-Dole International Food for Education and Child Nutrition Program. |
 
-“Independent states of the former Soviet Union” defined.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Definition of agricultural commodity.
+
+(b)
+
+Program.
+
+(c)
+
+Eligible commodities and cost items.
+
+(d)
+
+General authorities.
+
+(e)
+
+Eligible entities.
+
+(f)
+
+Procedures.
+
+(g)
+
+Use of Food and Nutrition Service.
+
+(h)
+
+Multilateral involvement.
+
+(i)
+
+Private sector involvement.
+
+(j)
+
+Graduation.
+
+(k)
+
+Requirement to safeguard local production and usual marketing.
+
+(<i>l</i>)
+
+Funding.
 
 |  |  |
 | :--- | ---: |
@@ -827,19 +876,23 @@ Exemption from requirements of OMB circular.
 
 (a)
 
-In general.
+Definitions.
 
 (b)
 
-Definitions.
+Provision.
 
 (c)
 
-Minimum funding.
+Special emphasis on sub-Saharan African and Caribbean Basin countries.
 
 (d)
 
-Designation of program.
+Minimum funding.
+
+(e)
+
+Authorization of appropriations.
 
 #### SUBCHAPTER VI—ENTERPRISE FOR THE AMERICAS INITIATIVE
 
@@ -1109,7 +1162,7 @@ Designated congressional committees.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1431, 1446c–1, 1736f–1, 1736<i>o</i>, 1765b, 1765d–1, 5201, 5693, 5713 of this title; title 13 section 301; title 16 section 1537; title 22 sections 2151a, 2291, 2292n, 2353, 2354, 2362, 2370, 2371, 2394, 2455, 2775, 5413, 5425, 6006, 6062, 7201; title 46 App. section 1241f.
+This chapter is referred to in sections 1431, 1446c–1, 1736f–1, 1736<i>o</i>, 1765b, 5201, 5693, 5713 of this title; title 13 section 301; title 16 section 1537; title 22 sections 2151a, 2291, 2292n, 2353, 2354, 2362, 2370, 2371, 2394, 2455, 2775, 5413, 5425, 6006, 6062, 7201; title 46 App. section 1241f.
 
 
 ---

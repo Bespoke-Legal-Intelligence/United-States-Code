@@ -26,7 +26,7 @@
 
 &emsp;&emsp;(ii) shall prescribe mileage reimbursement rates which reflect the current costs as determined by the Administrator of operating privately owned airplanes and motorcycles.
 
-&emsp;(B) At least once each year after the issuance of the regulations described in subparagraph (A) of this paragraph, the Administrator shall determine, based upon the results of the cost investigation, specific figures, each rounded to the nearest half cent, of the average, actual cost per mile during the period for the use of a privately owned airplane, automobile, and motorcycle.
+&emsp;(B) At least once each year after the issuance of the regulations described in subparagraph (A) of this paragraph, the Administrator shall determine, based upon the results of the cost investigation, specific figures, eachrounded to the nearest half cent, of the average, actual cost per mile during the period for the use of a privately owned airplane, automobile, and motorcycle.
 
 &emsp;(C) The Administrator shall report the specific figures to Congress not later than five working days after the Administrator makes the cost determination. Each such report shall be printed in the Federal Register.
 
@@ -34,7 +34,7 @@
 
 (c) The Administrator of General Services shall periodically, but at least every 2 years, submit to the Director of the Office of Management and Budget an analysis of estimated total agency payments for such items as travel and transportation of people, average costs and duration of trips, and purposes of official travel; and of estimated total agency payments for employee relocation. This analysis shall be based on a sampling survey of agencies each of which spent more than $5,000,000 during the previous fiscal year on travel and transportation payments, including payments for employee relocation. Agencies shall provide to the Administrator the necessary information in a format prescribed by the Administrator and approved by the Director.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, §6(a), May 19, 1975, 89 Stat. 85; Pub. L.99–234, title I, §104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, §5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, §634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, §103(e), Oct. 19, 1996, 110 Stat. 3829.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 500; Pub. L. 94–22, §6(a), May 19, 1975, 89 Stat. 85; Pub. L. 99–234, title I, §104, Jan. 2, 1986, 99 Stat. 1758; Pub. L. 101–391, §5(a)(1), Sept. 25, 1990, 104 Stat. 750; Pub. L. 103–329, title VI, §634(b), (c), Sept. 30, 1994, 108 Stat. 2429, 2430; Pub. L. 104–201, div. A, title XVI, §1614(a)(1), Sept. 23, 1996, 110 Stat. 2739; Pub. L. 104–316, title I, §103(e), Oct. 19, 1996, 110 Stat. 3829.)
 
 Historical and Revision Notes
 
@@ -168,5 +168,5 @@ Section 5(b) of Pub. L. 101–391, which provided that not later than 6 months a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5701, 5702, 5704, 5706a, 5706c, 5709 of this title; title 7 sections 3128, 5843; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 section 1474; title 24 section 415; title 28 section 456; title 40 section 872.
+This section is referred to in sections 5701, 5702, 5704, 5706a, 5706c, 5709 of this title; title 7 sections 3128, 5843; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709, 5727; title 22 section 1474; title 24 section 416; title 28 section 456.
 

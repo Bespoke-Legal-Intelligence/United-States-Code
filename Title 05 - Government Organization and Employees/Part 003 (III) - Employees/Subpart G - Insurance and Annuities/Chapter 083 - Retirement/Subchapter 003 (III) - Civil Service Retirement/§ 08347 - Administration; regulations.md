@@ -36,7 +36,7 @@
 
 &emsp;(4) the Secretary of Labor or the Secretary's designee shall provide information on benefits paid under subchapter I of chapter 81 of this title.
 
-> The Director shall request only such information as the Director determines is necessary.The Director, in consultation with the officials from whom information is requested, shall establish, by regulation and otherwise, such safeguards as are necessary to ensure that information made available under this subsection is used only for the purpose authorized.
+> The Director shall request only such information as the Director determines is necessary. The Director, in consultation with the officials from whom information is requested, shall establish, by regulation and otherwise, such safeguards as are necessary to ensure that information made available under this subsection is used only for the purpose authorized.
 
 (n)(1) Notwithstanding any other provision of this subchapter, the Director of Central Intelligence shall, in a manner consistent with the administration of this subchapter by the Office, and to the extent considered appropriate by the Director of Central Intelligence—
 
@@ -70,11 +70,9 @@
 
 (q)(1) Under regulations prescribed by the Office of Personnel Management, an employee who—
 
-&emsp;(A) has not previously made an election under this subsection or had an opportunity to make an election under this paragraph;
+&emsp;(A) has not previously made an election under this subsection or had an opportunity to make an election under this paragraph; and
 
-&emsp;(B) has 5 or more years of civilian service creditable under this subchapter; and
-
-&emsp;(C) moves, without a break in service of more than 1 year, to employment in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, described in section 2105(c),
+&emsp;(B) moves, without a break in service of more than 1 year, to employment in a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard, respectively, described in section 2105(c),
 
 > shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered as an employee under this subchapter during any employment described in section 2105(c) after such move.
 
@@ -82,7 +80,7 @@
 
 &emsp;(A) has not previously made an election under this subsection or had an opportunity to make an election under this paragraph;
 
-&emsp;(B) is a vested participant in a retirement system established for employees described in section 2105(c), as the term “vested participant” is defined by such system;
+&emsp;(B) is a participant in a retirement system established for employees described in section 2105(c);
 
 &emsp;(C) moves, without a break in service of more than 1 year, to a position that is not described in section 2105(c); and
 
@@ -90,7 +88,7 @@
 
 > shall be given the opportunity to elect irrevocably, within 30 days after such move, to remain covered, during any subsequent employment as an employee as defined in section 2105(a) or section 2105(c), by the retirement system applicable to such employee's current or most recent employment described in section 2105(c) rather than be subject to this subchapter.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 583; Pub. L. 90–83, §1(84), Sept. 11, 1967, 81 Stat. 218; Pub. L. 90–623, §1(22), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 95–437, §4(a), Oct. 10, 1978, 92 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), (9), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1224, 1225, 1227; Pub. L. 96–54, §2(a)(50), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §404(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 96–500, §1, Dec. 5, 1980, 94 Stat. 2696; Pub. L. 97–253, title III, §302(b), Sept. 8, 1982, 96 Stat. 793; Pub. L. 99–335, title II, §207(i), June 6, 1986, 100 Stat. 596; Pub. L. 100–238, title I, §108(a)(1), Jan. 8, 1988, 101 Stat. 1747; Pub. L. 101–474, §5(n), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(2), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 102–54, §13(b)(5), June 13, 1991, 105 Stat. 274; Pub. L. 102–378, §2(64), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 103–296, title I, §108(e)(5), Aug. 15, 1994, 108 Stat. 1486; Pub. L.104–106, div. A, title X, §1043(a)(1), Feb. 10, 1996, 110 Stat. 434.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 583; Pub. L. 90–83, §1(84), Sept. 11, 1967, 81 Stat. 218; Pub. L. 90–623, §1(22), Oct. 22, 1968, 82 Stat. 1313; Pub. L.95–437, §4(a), Oct. 10, 1978, 92 Stat. 1058; Pub. L. 95–454, title IX, §906(a)(2), (3), (9), (c)(2)(F), Oct. 13, 1978, 92 Stat. 1224, 1225, 1227; Pub. L. 96–54, §2(a)(50), Aug. 14, 1979, 93 Stat. 384; Pub. L. 96–499, title IV, §404(b), Dec. 5, 1980, 94 Stat. 2606; Pub. L. 96–500, §1, Dec. 5, 1980, 94 Stat. 2696; Pub. L. 97–253, title III, §302(b), Sept. 8, 1982, 96 Stat. 793; Pub. L. 99–335, title II, §207(i), June 6, 1986, 100 Stat. 596; Pub. L. 100–238, title I, §108(a)(1), Jan. 8, 1988, 101 Stat. 1747; Pub. L. 101–474, §5(n), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–508, title VII, §7202(j)(2), Nov. 5, 1990, 104 Stat. 1388–337; Pub. L. 102–54, §13(b)(5), June 13, 1991, 105 Stat. 274; Pub. L. 102–378, §2(64), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 102–496, title VIII, §803(c), Oct. 24, 1992, 106 Stat. 3253; Pub. L. 103–296, title I, §108(e)(5), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 104–106, div. A, title X, §1043(a)(1), Feb. 10, 1996, 110 Stat. 434; Pub. L. 107–107, div. A, title XI, §1131(a), Dec. 28, 2001, 115 Stat. 1242.)
 
 Historical and Revision Notes<br>1966
 
@@ -145,6 +143,10 @@ Sept. 26, 1966, Pub. L. 89–604, §1(c), 80 Stat. 847.
 Section 201(c) of the Central Intelligence Agency Retirement Act, referred to in subsec. (n)(4)(A), is classified to section 2011(c) of Title 50, War and National Defense.
 
 #### Amendments
+
+2001—Subsec. (q)(1). Pub. L. 107–107, §1131(a)(1), inserted “and” after semicolon in subpar. (A), redesignated subpar. (C) as (B), and struck out former subpar. (B) which read as follows: “has 5 or more years of civilian service creditable under this subchapter; and”.
+
+Subsec. (q)(2)(B). Pub. L. 107–107, §1131(a)(2), struck out “vested” before “participant in a retirement system” and struck out “, as the term ‘vested participant’ is defined by such system” before semicolon at end.
 
 1996—Subsec. (q)(1). Pub. L. 104–106, §1043(a)(1)(A), struck out “of the Department of Defense or the Coast Guard” after “an employee” in introductory provisions and substituted “1 year” for “3 days” in subpar. (C).
 
@@ -210,7 +212,7 @@ Amendment by section 2(64) of Pub. L. 102–378 effective Nov. 5, 1990, see sect
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987, moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
+Amendment by Pub. L. 101–508 applicable with respect to any individual who, on or after Jan. 1, 1987,moves from employment in nonappropriated fund instrumentality of Department of Defense or Coast Guard, that is described in section 2105(c) of this title, to employment in Department or Coast Guard, that is not described in section 2105(c), or who moves from employment in Department or Coast Guard, that is not described in section 2105(c), to employment in nonappropriated fund instrumentality of Department or Coast Guard, that is described in section 2105(c), see section 7202(m)(1) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Effective Date of 1986 Amendment
 
@@ -222,7 +224,7 @@ Amendment by Pub. L. 97–253 effective Oct. 1, 1982, see section 302(c)(1) of P
 
 #### Effective Date of 1980 Amendments
 
-Section 2 of Pub. L. 96–500 provided that: “The amendments made by the first section of this Act\[amending this section\] shall apply with respect to determinations made by the Office of Personnel Management on or after the first day of the first month beginning after the date of the enactment of this Act \[Dec. 5, 1980\].”
+Section 2 of Pub. L. 96–500 provided that: “The amendments made by the first section of this Act \[amending this section\] shall apply with respect to determinations made by the Office of Personnel Management on or after the first day of the first month beginning after the date of the enactment of this Act \[Dec. 5, 1980\].”
 
 Amendment by Pub. L. 96–499 effective Dec. 5, 1980, see section 404(c) of Pub. L. 96–499, set out as a note under section 8339 of this title.
 
@@ -300,7 +302,7 @@ In general.—Except as provided in subclause (II), the payment described in cla
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II)
 
-Payment of deficiency.—A determination of a deficiency under this clause shall notrender an election ineffective if the individual pays or arranges to pay, at a time and in a manner satisfactory to such administrative authority, the full amount of the deficiency described in subclause (I).
+Payment of deficiency.—A determination of a deficiency under this clause shall not render an election ineffective if the individual pays or arranges to pay, at a time and in a manner satisfactory to such administrative authority, the full amount of the deficiency described in subclause (I).
 
 &emsp;&emsp;“(D)
 
@@ -382,13 +384,17 @@ Information.—The regulations under subsection (b) shall include provisions und
 
 For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which the report required by subsec. (f) of this section is listed on page 187), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Treatment of Individuals Electing To Remain Subject to Their Former Retirement System
 
 For provisions relating to the deductions and contributions required with respect to individuals electing under section 8347(q) or 8461(n) of this title to remain covered under subchapter III of chapter 83 of this title, chapter 84 of this title, or a retirement system for employees described in section 2105(c) of this title, see section 7202(n) of Pub. L. 101–508, set out as a note under section 2105 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8331, 8334, 8348, 8349, 8423, 8461 of this title; title 22 section 6103; title 25 section 450i.
+This section is referred to in sections 8331, 8334, 8348, 8349, 8423, 8461, 8901 of this title; title 22 section 6103; title 25 section 450i.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “Commissioner's”.</i>
 

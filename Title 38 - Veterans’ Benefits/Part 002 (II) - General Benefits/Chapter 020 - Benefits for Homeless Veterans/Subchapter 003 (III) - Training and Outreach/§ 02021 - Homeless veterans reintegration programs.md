@@ -42,5 +42,5 @@ A prior section 2021 was renumbered section 4301 of this title and subsequently 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2003, 4103A, 4104 of this title.
+This section is referred to in section 2003 of this title.
 

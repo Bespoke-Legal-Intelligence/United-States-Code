@@ -112,7 +112,7 @@ Section not to affect or supersede the provisions of section 637(a) of Title 15,
 
 #### Definitions
 
-The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
+The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 
 #### Section Referred to in Other Sections
 

@@ -68,6 +68,12 @@ Subsec. (d)(2). Pub. L. 104–201, §228(b)(2), in first sentence, inserted “(
 
 Subsec. (d)(3), (4). Pub. L. 104–201, §228(b)(3), (4), added par. (3) and redesignated former par. (3) as (4).
 
+#### National Bio-Weapons Defense Analysis Center
+
+Pub. L. 107–296, title XVII, §1708, Nov. 25, 2002, 116 Stat. 2318, provided that: “There is established in the Department of Defense a National Bio-Weapons Defense Analysis Center, whose mission is to develop countermeasures to potential attacks by terrorists using weapons of mass destruction.”
+
+\[For transfer of functions, personnel, assets, and liabilities of the National Bio-Weapons Defense Analysis Center of the Department of Defense, including the functions of the Secretary of Defense related thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 183(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
 #### Chemical Warfare Defense
 
 Pub. L. 105–261, div. A, title II, §247, Oct. 17, 1998, 112 Stat. 1956, provided that:
@@ -80,7 +86,7 @@ Review and Modification of Policies and Doctrines.—The Secretary of Defense sh
 
 Objectives.—The objectives for the modification of policies and doctrines of the Department of Defense on chemical warfare defense are as follows:
 
-&emsp;“(1) To provide for adequate protection of personnel from any exposure to a chemical warfare agent (including chronic and low-level exposure to a chemicalwarfare agent) that would endanger the health of exposed personnel because of the deleterious effects of—
+&emsp;“(1) To provide for adequate protection of personnel from any exposure to a chemical warfare agent (including chronic and low-level exposure to a chemical warfare agent) that would endanger the health of exposed personnel because of the deleterious effects of—
 
 &emsp;&emsp;“(A) a single exposure to the agent;
 

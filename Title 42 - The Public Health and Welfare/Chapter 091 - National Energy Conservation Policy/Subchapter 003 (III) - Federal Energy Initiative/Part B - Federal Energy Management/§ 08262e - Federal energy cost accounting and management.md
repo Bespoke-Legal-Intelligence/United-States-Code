@@ -16,7 +16,7 @@ Such guidelines shall include the establishment of a monitoring system to determ
 
 #### (c) Federally leased space energy reporting requirement
 
-The Administrator of General Services shall include, in each report submitted under section 8262a of this title, the estimated energy cost of leased buildings or space in which the Federal Government does not directly pay the utility bills.
+The Administrator of General Services shall include, in each report submitted under section8262a of this title, the estimated energy cost of leased buildings or space in which the Federal Government does not directly pay the utility bills.
 
 (Pub. L. 102–486, title I, §159, Oct. 24, 1992, 106 Stat. 2857.)
 

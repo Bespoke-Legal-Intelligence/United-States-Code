@@ -20,7 +20,7 @@ Eligible airport-related project.—The term “eligible airport-related project
 
 &emsp;&emsp;(B) A project for terminal development described in section 47110(d).
 
-&emsp;&emsp;(C) for <sup>1</sup> costs of terminal development referred to in subparagraph (B) incurred afterAugust 1, 1986, at an airport that did not have more than .25 percent of the total annual passenger boardings in the United States in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997; <sup>2</sup>
+&emsp;&emsp;(C) for <sup>1</sup> costs of terminal development referred to in subparagraph (B) incurred after August 1, 1986, at an airport that did not have more than .25 percent of the total annual passenger boardings in the United States in the most recent calendar year for which data is available and at which total passenger boardings declined by at least 16 percent between calendar year 1989 and calendar year 1997; <sup>2</sup>
 
 &emsp;&emsp;(D) A project for airport noise capability planning under section 47505.
 
@@ -70,7 +70,7 @@ Applications.—(1) An eligible agency must submit to the Secretary an applicati
 
 Limitations on Approving Applications.—The Secretary may approve an application that an eligible agency has submitted under subsection (c) of this section to finance a specific project only if the Secretary finds, based on the application, that—
 
-&emsp;(1) the amount and duration of the proposed passenger facility fee will result in revenue\(including interest and other returns on the revenue) that is not more than the amount necessary to finance the specific project;
+&emsp;(1) the amount and duration of the proposed passenger facility fee will result in revenue (including interest and other returns on the revenue) that is not more than the amount necessary to finance the specific project;
 
 &emsp;(2) each project is an eligible airport-related project that will—
 

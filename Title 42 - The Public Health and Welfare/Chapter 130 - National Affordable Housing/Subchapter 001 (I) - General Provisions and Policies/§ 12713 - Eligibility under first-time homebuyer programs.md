@@ -8,7 +8,7 @@
 
 #### (2) Single parents
 
-&emsp;No individual who is a single parent may be denied eligibility under any Federal programto assist first-time homebuyers on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse.
+&emsp;No individual who is a single parent may be denied eligibility under any Federal program to assist first-time homebuyers on the basis that the individual, while married, owned a home with his or her spouse or resided in a home owned by the spouse.
 
 #### (b) Definitions
 

@@ -50,13 +50,13 @@ No provision of this chapter, or any other law, shall be construed to require th
 
 1998—Pub. L. 105–276 added subsec. (a) and redesignated former subsecs. (a) to (e) as (b) to (f), respectively.
 
-1996—Pub. L. 104–99 amended section generally, substituting subsecs. (a) to (e) relating to authority to assist mortgagors in default for former subsecs. (a) to (d) relating to temporary mortgage assistance payments and acquisition of mortgages to avoid foreclosures.
+1996—Pub. L. 104–99 amended section generally, substituting subsecs. (a) to (e) relating to authority to assist mortgagors in default for former subsecs. (a) to (d)relating to temporary mortgage assistance payments and acquisition of mortgages to avoid foreclosures.
 
 Subsec. (d). Pub. L. 104–134 struck out heading and text of subsec. (d). Text read as follows: “Any mortgage for which the mortgagor has applied to the Secretary, before the date of enactment of the Departments of Veterans Affairs and Housing and Urban Development, and Independent Agencies Appropriations Act, 1996, for assignment pursuant to subsection (b) of this section as in effect before such date of enactment shall continue to be governed by the provisions of this section, as in effect immediately before such date of enactment.”
 
 1991—Subsec. (a)(5). Pub. L. 102–83 substituted “section 3703(c) of title 38” for “section 1803(c) of title 38”.
 
-1988—Subsec. (a)(5). Pub. L. 100–242 substituted “The interest rate on payments made under this subsection shall be the rate established under section 1803(c) of title 38. The interest rate to be charged shall be determined when the Secretary approves assistance under this subsection” for “The Secretary may establish interest charges on payments made under this subsection; except that such charges shall not exceed arate which is more than the maximum interest rate applicable with respect to level payment mortgages insured pursuant to section 1709(b) of this title at the time assistance under this section is approved by the Secretary.”
+1988—Subsec. (a)(5). Pub. L. 100–242 substituted “The interest rate on payments made under this subsection shall be the rate established under section 1803(c) of title 38. The interest rate to be charged shall be determined when the Secretary approves assistance under this subsection” for “The Secretary may establish interest charges on payments made under this subsection; except that such charges shall not exceed a rate which is more than the maximum interest rate applicable with respect to level payment mortgages insured pursuant to section 1709(b) of this title at the time assistance under this section is approved by the Secretary.”
 
 1983—Subsec. (d). Pub. L. 98–181 struck out “, to the extent practicable,” after “Secretary shall”.
 

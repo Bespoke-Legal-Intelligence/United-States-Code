@@ -20,7 +20,7 @@ Disbursements from the revolving fund shall be made upon vouchers signed by the 
 
 #### (e) Inapplicability of provisions prohibiting sales, advertisements, or solicitations in Capitol grounds
 
-The provisions of section 193d of title 40 shall not be applicable to any class, service, or other activity carried out pursuant to the provisions of this section.
+The provisions of section 5104(c) of title 40 shall not be applicable to any class, service, or other activity carried out pursuant to the provisions of this section.
 
 #### (f) Regulations
 
@@ -31,6 +31,8 @@ The provisions of this section shall be carried out in accordance with regulatio
 #### Codification
 
 Section is from the Congressional Operations Appropriations Act, 1990, which is title I of the Legislative Branch Appropriations Act, 1990.
+
+In subsec. (e), “section 5104(c) of title 40” substituted for “section 4 of the Act of July 31, 1946 (40 U.S.C. 193d)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

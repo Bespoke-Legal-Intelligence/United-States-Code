@@ -44,7 +44,7 @@
 
 #### (3) Mandatory recall
 
-&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administrator does not request the submission of a plan under paragraph (2) or finds such a plan to be inadequate, the Administrator shall issue a regulation that prescribes a plan for the recall of the pesticide. A regulation issued under this paragraph may apply to any person who is or was a registrant, distributor, or seller of the pesticide, or any successor in interest to such a person.
+&emsp;If, after determining under paragraph (1) that a recall is necessary, the Administratordoes not request the submission of a plan under paragraph (2) or finds such a plan to be inadequate, the Administrator shall issue a regulation that prescribes a plan for the recall of the pesticide. A regulation issued under this paragraph may apply to any person who is or was a registrant, distributor, or seller of the pesticide, or any successor in interest to such a person.
 
 #### (4) Recall procedure
 
@@ -74,7 +74,7 @@
 
 #### (1) Submission of plan
 
-&emsp;A registrant who wishes to become eligible for reimbursement of storage costs incurred as a result of a recall prescribed under subsection (b) of this section for a pesticide whose registration has been suspended and canceled shall, as soon as practicable after the suspension of the registration of the pesticide, submit to the Administrator a plan for the storage and disposal of the pesticide that meetscriteria established by the Administrator by regulation.
+&emsp;A registrant who wishes to become eligible for reimbursement of storage costs incurred as a result of a recall prescribed under subsection (b) of this section for a pesticide whose registration has been suspended and canceled shall, as soon as practicable after the suspension of the registration of the pesticide, submit to the Administrator a plan for the storage and disposal of the pesticide that meets criteria established by the Administrator by regulation.
 
 #### (2) Reimbursement
 
@@ -198,7 +198,7 @@ The Solid Waste Disposal Act, referred to in subsecs. (f)(1)(B)(iv), (3) and (h)
 
 1996—Subsec. (h). Pub. L. 104–170 designated existing provisions as par. (1), inserted heading, and added par. (2).
 
-1988—Pub. L. 100–532, §401, amended section generally, in subsec. (a) substituting provisions which related to storage, disposal, and transportation, for provisions which directed Secretary to establish procedures for disposal or storage, in subsec. (b) substituting provisions which related to recalls, for provisions which directed Administrator to provide advice to Secretary of Transportation, in subsec. (c) substituting provisions which related to storage costs, for provisions which related to disposal of unused quantities, and adding subsec. (d).
+1988—Pub. L. 100–532, §401, amended section generally, in subsec. (a) substituting provisions which related to storage, disposal, and transportation, for provisions which directed Secretary to establish procedures for disposal or storage, in subsec. (b) substituting provisions which related to recalls, for provisions which directed Administrator to provide advice to Secretary of Transportation, in subsec. (c) substituting provisionswhich related to storage costs, for provisions which related to disposal of unused quantities, and adding subsec. (d).
 
 Subsec. (a)(3). Pub. L. 100–532, §402, added par. (3).
 

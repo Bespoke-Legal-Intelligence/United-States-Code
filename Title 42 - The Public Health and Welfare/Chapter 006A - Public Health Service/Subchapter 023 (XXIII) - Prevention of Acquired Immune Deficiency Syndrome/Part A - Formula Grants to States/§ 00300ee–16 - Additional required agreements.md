@@ -44,7 +44,7 @@ The Secretary may not, except as provided in subsection (b) of this section, mak
 
 &emsp;&emsp;(E) such other information as the Secretary may prescribe;
 
-&emsp;(7) with respect to programs carried out pursuant to section 300ee–12(10) of this title, the State will give preference to any applicant fora grant pursuant to such section that is located in, has a history of service in, and will serve under the program, any geographic area in which—
+&emsp;(7) with respect to programs carried out pursuant to section 300ee–12(10) of this title, the State will give preference to any applicant for a grant pursuant to such section that is located in, has a history of service in, and will serve under the program, any geographic area in which—
 
 &emsp;&emsp;(A) there is a significant incidence of acquired immune deficiency syndrome;
 

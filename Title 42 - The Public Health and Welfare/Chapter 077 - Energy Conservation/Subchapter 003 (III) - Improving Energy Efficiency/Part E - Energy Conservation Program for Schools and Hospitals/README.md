@@ -23,4 +23,4 @@ This part is referred to in sections 6323, 6325, 6371j of this title; title 15 s
 - [&sect; 06371g - Allocation of grants](%C2%A7%2006371g%20-%20Allocation%20of%20grants.md)
 - [&sect; 06371h - Administration; detailed description in annual report](%C2%A7%2006371h%20-%20Administration%3B%20detailed%20description%20in%20annual%20report.md)
 - [&sect; 06371i - Records](%C2%A7%2006371i%20-%20Records.md)
-- [&sect; 06371j - Application of Davis-Bacon Act](%C2%A7%2006371j%20-%20Application%20of%20Davis-Bacon%20Act.md)
+- [&sect; 06371j - Application of sections 3141&#8211;3144, 3146, and 3147 of title 40](%C2%A7%2006371j%20-%20Application%20of%20sections%203141%E2%80%933144%2C%203146%2C%20and%203147%20of%20title%2040.md)

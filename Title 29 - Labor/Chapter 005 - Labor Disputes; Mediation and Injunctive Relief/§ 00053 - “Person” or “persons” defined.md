@@ -10,5 +10,5 @@ Section is based on the 3d par. of section 1(a) of the Clayton Act (Oct. 15, 191
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 42 section 2135.
+This section is referred to in title 40 section 559; title 42 section 2135.
 

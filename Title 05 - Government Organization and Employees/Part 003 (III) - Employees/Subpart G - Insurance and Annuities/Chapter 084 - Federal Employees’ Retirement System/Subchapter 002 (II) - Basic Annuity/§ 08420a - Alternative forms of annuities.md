@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(B) payment of an annuity to the employee or Member for life, with a survivor annuity payable for the life of a surviving spouse.
 
-(c) Each alternative provided for under subsection (b) shall, to the extent practicable, be designed such that the present value of the benefits provided under such alternative (including any lump-sum credit) is actuarially equivalent to the sum of—
+(c) Each alternative provided for under subsection (b) shall, to the extent practicable, be designed such that the present value of the benefits provided under such alternative (includingany lump-sum credit) is actuarially equivalent to the sum of—
 
 &emsp;(1) the present value of the annuity which would otherwise be provided under this subchapter, as computed under section 8415; and
 

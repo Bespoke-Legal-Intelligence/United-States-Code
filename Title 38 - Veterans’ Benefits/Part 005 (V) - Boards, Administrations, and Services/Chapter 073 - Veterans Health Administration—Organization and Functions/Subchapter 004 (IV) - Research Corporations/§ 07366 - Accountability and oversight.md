@@ -12,7 +12,7 @@
 
 &emsp;(1) shall be subject to Federal laws and regulations applicable to Federal employees with respect to conflicts of interest in the performance of official functions; and
 
-&emsp;(2) shall submit to the Secretary a statement signed by the executive director of the corporation certifying that each director andemployee is aware of, and has complied with, such laws and regulations in the same manner as Federal employees are required to.
+&emsp;(2) shall submit to the Secretary a statement signed by the executive director of the corporation certifying that each director and employee is aware of, and has complied with, such laws and regulations in the same manner as Federal employees are required to.
 
 (d) The Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and House of Representatives an annual report on the corporations established under this subchapter. The report shall set forth the following information:
 
@@ -82,5 +82,5 @@ Subsec. (d). Pub. L. 102–40, §403(a)(1), substituted “Secretary” for “A
 
 #### Effective Date of 2001 Amendment
 
-Pub. L. 107–103, title V, §509(f), Dec. 27, 2001, 115 Stat. 997, provided that the amendment made by section 509(f) is effective Nov. 30, 1999, and as if included in Pub. L. 106–117 as originally enacted.
+Pub. L. 107–103, title V, §509(f), Dec. 27, 2001, 115 Stat. 997, provided that the amendment made by section509(f) is effective Nov. 30, 1999, and as if included in Pub. L. 106–117 as originally enacted.
 

@@ -32,11 +32,11 @@ To the maximum extent possible, each State shall establish procedures, including
 
 #### (d) Federal assistance
 
-After the date 3 years after June 19, 1986, no State shall receive funds authorized to be appropriated under this section except for the purpose of implementing the program and requirements of paragraphs (4) and (6) of subsection (a) of this section.
+After the date 3 years after June 19, 1986, no State shall receive funds authorized to be appropriated under this section except for the purpose of implementing the program and requirementsof paragraphs (4) and (6) of subsection (a) of this section.
 
 #### (e) “Wellhead protection area” defined
 
-As used in this section, the term “wellhead protection area” means the surface and subsurface area surrounding a water well or wellfield, supplying a public water system, through which contaminants are reasonably likely to move toward and reach such water well or wellfield. The extent of a wellhead protection area, within a State, necessary to provide protection from contaminants which may have any adverse effect on the health of persons is to be determined by the State in the program submittedunder subsection (a) of this section. Not later than one year after June 19, 1986, the Administrator shall issue technical guidance which States may use in making such determinations. Such guidance may reflect such factors as the radius of influence around a well or wellfield, the depth of drawdown of the water table by such well or wellfield at any given point, the time or rate of travel of various contaminants in various hydrologic conditions, distance from the well or wellfield, or other factors affecting the likelihood of contaminants reaching the well or wellfield, taking into account available engineering pump tests or comparable data, field reconnaissance, topographic information, and the geology of the formation in which the well or wellfield is located.
+As used in this section, the term “wellhead protection area” means the surface and subsurface area surrounding a water well or wellfield, supplying a public water system, through which contaminants are reasonably likely to move toward and reach such water well or wellfield. The extent of a wellhead protection area, within a State, necessary to provide protection from contaminants which may have any adverse effect on the health of persons is to be determined by the State in the program submitted under subsection (a) of this section. Not later than one year after June 19, 1986, the Administrator shall issue technical guidance which States may use in making such determinations. Such guidance may reflect such factors as the radius of influence around a well or wellfield, the depth of drawdown of the water table by such well or wellfield at any given point, the time or rate of travel of various contaminants in various hydrologic conditions, distance from the well or wellfield, or other factors affecting the likelihood of contaminants reaching the well or wellfield, taking into account available engineering pump tests or comparable data, field reconnaissance, topographic information, and the geology of the formation in which the well or wellfield is located.
 
 #### (f) Prohibitions
 
@@ -80,7 +80,7 @@ Nothing in this section shall authorize or require any department, agency, or ot
 
 #### (k) Authorization of appropriations
 
-Unless the State program is disapproved under this section, the Administrator shall make grants to the State for not less than 50 or more than 90 percent of the costs incurred by a State (as determined by the Administrator) in developing and implementing each State program under this section. For purposes of making such grants there is authorized to be appropriated not more than the following amounts:
+Unless the State program is disapproved under this section, the Administrator shall make grants to the State for not less than 50 or more than 90 percent of the costs incurred by a State (as determined by the Administrator) in developing and implementing each State program under this section. For purposes of making suchgrants there is authorized to be appropriated not more than the following amounts:
 
 &nbsp;
 

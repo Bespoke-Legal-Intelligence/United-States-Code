@@ -12,15 +12,15 @@ As used in this chapter:
 
 #### (3) Fluid milk product
 
-&emsp;The term “fluid milk product”—
+&emsp;The term “fluid milk product” has the meaning given the term in—
 
-&emsp;&emsp;(A) means any of the following products in fluid or frozen form: milk, skim milk, lowfat milk, milk drinks, buttermilk, filled milk, and milkshake and ice milk mixes containing less than 20 percent total solids, including any such products that are flavored, cultured, modified with added nonfat milk solids, concentrated (if in a consumer-type package), or reconstituted; and
+&emsp;&emsp;(A) section 1000.15 of title 7, Code of Federal Regulations, subject to such amendments as may be made by the Secretary; or
 
-&emsp;&emsp;(B) does not include evaporated or condensed milk (plain or sweetened), evaporated or condensed skim milk (plain or sweetened), formulas specially prepared for infant feeding or dietary use that are packaged in hermetically sealed glass or all-metal containers, any product that contains by weight less than 6.5 percent nonfat milk solids, and whey.
+&emsp;&emsp;(B) any successor regulation.
 
 #### (4) Fluid milk processor
 
-&emsp;The term “fluid milk processor” means any person who processes and markets commercially more than 500,000 pounds of fluid milk products in consumer-type packages per month.
+&emsp;The term “fluid milk processor” means any person who processes and markets commercially more than 3,000,000 pounds of fluid milk products in consumer-type packages per month (excluding products delivered directly to the place of residence of a consumer).
 
 #### (5) Department
 
@@ -38,9 +38,17 @@ As used in this chapter:
 
 &emsp;The term “United States”, except as used in sections 6410 through 6412 of this title, means the 48 contiguous States in the continental United States and the District of Columbia.
 
-(Pub. L. 101–624, title XIX, §1999C, Nov. 28, 1990, 104 Stat. 3915; Pub. L. 103–72, §2(a), Aug. 11, 1993, 107 Stat. 717; Pub. L. 104–127, title I, §146(c), Apr. 4, 1996, 110 Stat. 918.)
+(Pub. L. 101–624, title XIX, §1999C, Nov. 28, 1990, 104 Stat. 3915; Pub. L. 103–72, §2(a), Aug. 11, 1993, 107 Stat. 717; Pub. L. 104–127, title I, §146(c), Apr. 4, 1996, 110 Stat. 918; Pub. L. 107–171, title I, §1506(a), (b), May 13, 2002, 116 Stat. 210.)
 
 #### Amendments
+
+2002—Par. (3). Pub. L. 107–171, §1506(a), added par. (3) and struck out heading and text of former par. (3). Text read as follows: “The term ‘fluid milk product’—
+
+&emsp;“(A) means any of the following products in fluid or frozen form: milk, skim milk, lowfat milk, milk drinks, buttermilk, filled milk, and milkshake and ice milk mixes containing less than 20 percent total solids, including any such products that are flavored, cultured, modified with added nonfat milk solids, concentrated (if in a consumer-type package), or reconstituted; and
+
+&emsp;“(B) does not include evaporated or condensed milk (plain or sweetened), evaporated or condensed skim milk (plain or sweetened), formulas specially prepared for infant feeding or dietary use that are packaged in hermetically sealed glass or all-metal containers, any product that contains by weight less than 6.5 percent nonfat milk solids, and whey.”
+
+Par. (4). Pub. L. 107–171, §1506(b), substituted “3,000,000 pounds of fluid milk products in consumer-type packages per month (excluding products delivered directly to the place of residence of a consumer)” for “500,000 pounds of fluid milk products in consumer-type packages per month”.
 
 1996—Par. (6). Pub. L. 104–127 amended heading and text of par. (6) generally. Text read as follows: “The term ‘research’—
 

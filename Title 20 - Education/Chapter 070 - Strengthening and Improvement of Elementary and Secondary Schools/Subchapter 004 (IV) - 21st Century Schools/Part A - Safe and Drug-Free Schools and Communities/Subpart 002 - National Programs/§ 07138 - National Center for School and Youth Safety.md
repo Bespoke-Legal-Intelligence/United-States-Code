@@ -22,7 +22,7 @@ The Center shall carry out emergency response, anonymous student hotline, consul
 
 #### (4) Information and outreach
 
-&emsp;The Center shall compile information about the best practices in school violence prevention, intervention, and crisis management, and shall serve as a clearinghouse for model school safety program information. The staff of the Center shall work to ensure local governments, school officials, parents, students, and law enforcement officials and agencies are aware of the resources, grants, and expertise available to enhance school safety and prevent school crime. The staff of the Center shall give special attention to providing outreach to rural and impoverished communities.
+&emsp;The Center shall compile information about the best practices in school violence prevention, intervention, and crisis management, and shall serve as a clearinghouse for model school safety program information. The staff of the Center shall work to ensure local governments, school officials, parents, students, and law enforcement officials and agencies are aware of the resources, grants, and expertise available to enhance school safety and prevent school crime. The staff of the Center shall givespecial attention to providing outreach to rural and impoverished communities.
 
 (Pub. L. 89–10, title IV, §4128, as added Pub. L. 107–110, title IV, §401, Jan. 8, 2002, 115 Stat. 1756.)
 

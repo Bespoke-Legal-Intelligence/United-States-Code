@@ -40,7 +40,7 @@
 
 #### (7) Secretary's review of marketing materials
 
-&emsp;An agreement with an individual or entity furnishing services under the demonstrationprogram shall require the individual or entity to guarantee that it will not distribute materials that market items or services under the program without the Secretary's prior review and approval.
+&emsp;An agreement with an individual or entity furnishing services under the demonstration program shall require the individual or entity to guarantee that it will not distribute materials that market items or services under the program without the Secretary's prior review and approval.
 
 #### (8) Payment in full
 
@@ -130,7 +130,7 @@
 
 #### (9) Information sharing
 
-&emsp;Notwithstanding section 1306 of this title and section 552a of title 5, the Secretary is authorized to disclose to an entity with a program administration contract under this subsection such information (including medical information) on individuals receiving healthcare items and services under the program as the entity may require to carry out its responsibilities under the contract.
+&emsp;Notwithstanding section 1306 of this title and section 552a of title 5, the Secretary is authorized to disclose to an entity with a program administration contract under this subsection such information (including medical information) on individuals receiving health care items and services under the program as the entity may require to carry out its responsibilities under the contract.
 
 #### (c) Rules applicable to both program agreements and program administration contracts
 

@@ -36,7 +36,7 @@ The term “employment” means any service performed after 1936 and prior to 19
 
 &emsp;&emsp;&emsp;&emsp;(III) if an individual performing service described in subparagraph (A) is reemployed or reinstated after being separated from such service for the purpose of accepting employment with the American Institute of Taiwan as provided under section 3310 of title 22, then the service performed for that Institute shall be considered service described in subparagraph (A),
 
-&emsp;&emsp;&emsp;&emsp;(IV) if an individual performing service described in subparagraph (A) returns to the performance of such service after performing service as a member of a uniformed service (including, for purposes of this clause, service in the National Guard and temporary service in the Coast Guard Reserve) and after exercising restoration or reemployment rights as provided under chapter 43 of title 38, then the service so performed as a member of a uniformed service shall be considered service described in subparagraph (A), and
+&emsp;&emsp;&emsp;&emsp;(IV) if an individual performing service described in subparagraph (A) returns to the performance of such service afterperforming service as a member of a uniformed service (including, for purposes of this clause, service in the National Guard and temporary service in the Coast Guard Reserve) and after exercising restoration or reemployment rights as provided under chapter 43 of title 38, then the service so performed as a member of a uniformed service shall be considered service described in subparagraph (A), and
 
 &emsp;&emsp;&emsp;&emsp;(V) if an individual performing service described in subparagraph (A) returns to the performance of such service after employment (by a tribal organization) to which section 450i(e)(2) of title 25 applies, then the service performed for that tribal organization shall be considered service described in subparagraph (A); or
 
@@ -78,7 +78,7 @@ The term “employment” means any service performed after 1936 and prior to 19
 
 &emsp;&emsp;(A) in a penal institution of the United States by an inmate thereof;
 
-&emsp;&emsp;(B) by any individual as an employee included under section 5351(2) of title 5 (relating to certain interns, student nurses, and other student employees of hospitals of the Federal Government), other than as a medical or dental intern or a medical or dental resident in training; or
+&emsp;&emsp;(B) by any individual as an employee included under section 5351(2) of title 5 (relating to certain interns, student nurses, and other student employees of hospitals of theFederal Government), other than as a medical or dental intern or a medical or dental resident in training; or
 
 &emsp;&emsp;(C) by any individual as an employee serving on a temporary basis in case of fire, storm, earthquake, flood, or other similar emergency;
 
@@ -272,11 +272,11 @@ The term “employee” means—
 
 > the service of such employee in connection with the operation of the transportation system shall constitute covered transportation service, commencing with the first day of the third calendar quarter following the calendar quarter in which the acquisition of such part took place, unless on such first day such service of such employee is covered by a general retirement system which does not, with respect to such employee, contain special provisions applicable only to employees described in subparagraph (C) of this paragraph.
 
-(3) All service performed in the employ of a State or political subdivision thereof in connection with its operation of a public transportation system shall constitute covered transportation service if the transportation system wasnot operated by the State or political subdivision prior to 1951 and, at the time of its first acquisition (after 1950) from private ownership of any part of its transportation system, the State or political subdivision did not have a general retirement system covering substantially all service performed in connection with the operation of the transportation system.
+(3) All service performed in the employ of a State or political subdivision thereof in connection with its operation of a public transportation system shall constitute covered transportation service if the transportation system was not operated by the State or political subdivision prior to 1951 and, at the time of its first acquisition (after 1950) from private ownership of any part of its transportation system, the State or political subdivision did not have a general retirement system covering substantially all service performed in connection with the operation of the transportation system.
 
 (4) For the purposes of this subsection—
 
-&emsp;(A) The term “general retirement system” means any pension, annuity, retirement, or similar fund or system established by a State or by a political subdivision thereof for employees of the State, political subdivision, or both; but such term shall not include such a fund or system which covers only service performed in positions connected with the operation of its public transportation system.
+&emsp;(A) The term “general retirement system” means any pension, annuity, retirement, or similar fund or system established by a State or by a political subdivision thereof for employees of the State, political subdivision, or both; but such term shall not include such afund or system which covers only service performed in positions connected with the operation of its public transportation system.
 
 &emsp;(B) A transportation system or a part thereof shall be considered to have been acquired by a State or political subdivision from private ownership if prior to the acquisition service performed by employees in connection with the operation of the system or part thereof acquired constituted employment under this subchapter, and some of such employees became employees of the State or political subdivision in connection with and at the time of such acquisition.
 
@@ -322,7 +322,7 @@ The term “member of a uniformed service” means any person appointed, enliste
 
 #### (n) Crew leader
 
-The term “crew leader” means an individual who furnishes individuals to perform agricultural labor for another person, if such individual pays (either on his own behalf or on behalf of such person) the individuals so furnished by him for the agricultural labor performed by them and if such individual has not entered into a written agreement with such person whereby such individual has been designated as an employee of such person; and such individuals furnished by the crew leader to perform agricultural labor for another person shall be deemed to be the employees of such crew leader. A crew leader shall, with respect to services performed in furnishing individuals to perform agricultural labor for another person and service performed as a member of the crew, be deemed not to be an employee of such other person.
+The term “crew leader” means an individual who furnishes individuals to perform agricultural labor for another person, if such individual pays (either on his own behalf or on behalf of such person) the individuals so furnished by him for the agricultural labor performed by them and if such individual has not entered into a written agreement with such person whereby such individual has been designated as an employee of such person; and such individuals furnished by the crew leader to perform agricultural labor for another person shall be deemed to be the employees of such crew leader. A crewleader shall, with respect to services performed in furnishing individuals to perform agricultural labor for another person and service performed as a member of the crew, be deemed not to be an employee of such other person.
 
 #### (<i>o</i>) Peace Corps volunteer service
 
@@ -388,7 +388,7 @@ Notwithstanding any other provision of this subchapter, the rules of section 350
 
 &emsp;(B) The term “international organization” has the meaning provided such term by section 3581(3) of title 5.
 
-(Aug. 14, 1935, ch. 531, title II, §210, as added Aug. 10, 1946, ch. 951, title II, §201, 60 Stat. 979; amended, Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 494; Oct. 31, 1949, ch. 792, title V, §506(a), formerly §505(a), as added July 12, 1951, ch. 223, 65 Stat. 120, and renumbered Pub. L. 87–345, §3, Oct. 3, 1961, 75 Stat. 761; Sept. 1, 1954, ch. 1206, title I, §101(a)(4), (5), (b), (c)(1), (2), (e), (f), (m), 68 Stat. 1052, 1061; Aug. 1, 1956, ch. 836, title I, §§104(a), (b), (c)(1), 105(b), 121(c), 70 Stat. 824, 828, 839; Aug. 1, 1956, ch. 837, title IV, §402(a), 70 Stat. 870; Pub. L. 85–840, title III, §311(a), 312(a), Aug. 28, 1958, 72 Stat. 1035; Pub. L. 86–70, §32(c)(2), June 25, 1959, 73 Stat. 149; Pub. L. 86–168, title I, §104(h), title II, §202(a), Aug. 18, 1959, 73 Stat. 387, 389; Pub. L. 86–624, §30(c)(2), July 12, 1960, 74 Stat. 420; Pub. L. 86–778, title I, §§103(c)–(f), (j)(2)(A), (B), 104(a), Sept. 13, 1960, 74 Stat. 936, 937, 942; Pub. L. 87–256, §110(e)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §202(b)(1), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title III, §§311(a)(3), (4), 317(a), July 30, 1965, 79 Stat. 380, 381, 388; Pub. L. 90–248, title I, §123(a), title IV, §403(a), Jan. 2, 1968, 81 Stat. 844, 931; Pub. L. 92–603, title I, §§123(a)(1), 128(a), 129(a)(1), Oct. 30, 1972, 86 Stat. 1354, 1358, 1359; Pub. L. 93–445, title III, §311, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–455, title XII, §1207(e)(2)(A), Oct. 4, 1976, 90 Stat. 1707; Pub. L. 94–563, §1(a), Oct. 19, 1976, 90 Stat. 2655; Pub. L. 95–216, title III, §351(a)(1), (3)(B), Dec. 20, 1977, 91 Stat. 1549; Pub. L. 95–600, title VII, §703(j)(14)(C), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 97–248, title II, §§269(b), 278(b)(1), Sept. 3, 1982, 96 Stat. 552, 560; Pub. L. 97–448, title III, §309(b)(23), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 98–21, title I, §§101(a), 102(a), title III, §§321(b), 322(a)(1), 323(a)(2), Apr. 20, 1983, 97 Stat. 67, 70, 118, 120, 121; Pub. L. 98–369, div. B, title VI, §§2601(a), 2603(a)(1), 2661(j), 2663(a)(7), (j)(3)(A)(i), July 18, 1984, 98 Stat. 1122, 1128, 1157, 1162, 1170; Pub. L. 99–221, §3(b), Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–272, title XIII, §§13205(b)(1), 13303(c)(2), Apr. 7, 1986, 100 Stat. 316, 327; Pub. L. 99–335, title III, §304(a), June 6, 1986, 100 Stat. 606; Pub. L. 99–514, title XVIII, §§1883(a)(4), 1895(b)(18)(B), (19), Oct. 22, 1986, 100 Stat. 2916, 2935; Pub. L. 100–203, title IX, §§9001(a)(1), 9004(a), 9005(a), 9023(a), Dec. 22, 1987, 101 Stat. 1330–286 to 1330–288, 1330–295; Pub. L. 100–647, title I, §1001(d)(2)(E), title VIII, §§8015(b)(1), (c)(1), 8016(a)(4)(B), (C), Nov. 10, 1988, 102 Stat. 3351, 3791–3793; Pub. L. 101–239, title X, §10201(b)(1), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 101–508, title XI, §11332(a), Nov. 5, 1990, 104 Stat. 1388–469; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–178, title II, §204(d), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 103–296, title I, §107(a)(4), title III, §§303(a)(1), (b)(1), 319(b)(1), (3), 320(b), 321(a)(13), (c)(6)(C), (D), Aug. 15, 1994, 108 Stat. 1478, 1518, 1519, 1534–1536, 1538; Pub. L. 103–387, §2(a)(2)(B), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 104–188, title I, §1116(a)(2), Aug. 20, 1996, 110 Stat. 1762; Pub. L. 105–61, title VI, §642(d)(1), Oct. 10, 1997, 111 Stat. 1319; Pub. L. 105–33, title XI, §11246(b)(2)(B), as added Pub. L. 105–277, div. A, §101(h) \[title VIII, §802(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–532.)
+(Aug. 14, 1935, ch. 531, title II, §210, as added Aug. 10, 1946, ch. 951, title II, §201, 60 Stat. 979; amended, Aug. 28, 1950, ch. 809, title I, §104(a), 64 Stat. 492, 494; Oct. 31, 1949, ch. 792, title V, §506(a), formerly §505(a), as added July 12, 1951, ch. 223, 65 Stat. 120, and renumbered Pub. L. 87–345, §3, Oct. 3, 1961, 75 Stat. 761; Sept. 1, 1954, ch. 1206, title I, §101(a)(4), (5), (b), (c)(1), (2), (e), (f), (m), 68 Stat. 1052, 1061; Aug. 1, 1956, ch. 836, title I, §§104(a), (b), (c)(1), 105(b), 121(c), 70 Stat. 824, 828, 839; Aug. 1, 1956, ch. 837, title IV, §402(a), 70 Stat. 870; Pub. L. 85–840, title III, §311(a), 312(a), Aug. 28, 1958, 72 Stat. 1035; Pub. L. 86–70, §32(c)(2), June 25, 1959, 73 Stat. 149; Pub. L. 86–168, title I, §104(h), title II, §202(a), Aug. 18, 1959, 73 Stat. 387, 389; Pub. L. 86–624, §30(c)(2), July 12, 1960, 74 Stat. 420; Pub.L. 86–778, title I, §§103(c)–(f), (j)(2)(A), (B), 104(a), Sept. 13, 1960, 74 Stat. 936, 937, 942; Pub. L. 87–256, §110(e)(2), Sept. 21, 1961, 75 Stat. 537; Pub. L. 87–293, title II, §202(b)(1), Sept. 22, 1961, 75 Stat. 626; Pub. L. 89–97, title III, §§311(a)(3), (4), 317(a), July 30, 1965, 79 Stat. 380, 381, 388; Pub. L. 90–248, title I, §123(a), title IV, §403(a), Jan. 2, 1968, 81 Stat. 844, 931; Pub. L. 92–603, title I, §§123(a)(1), 128(a), 129(a)(1), Oct. 30, 1972, 86 Stat. 1354, 1358, 1359; Pub. L. 93–445, title III, §311, Oct. 16, 1974, 88 Stat. 1359; Pub. L. 94–455, title XII, §1207(e)(2)(A), Oct. 4, 1976, 90 Stat. 1707; Pub. L. 94–563, §1(a), Oct. 19, 1976, 90 Stat. 2655; Pub. L. 95–216, title III, §351(a)(1), (3)(B), Dec. 20, 1977, 91 Stat. 1549; Pub. L. 95–600, title VII, §703(j)(14)(C), Nov. 6, 1978, 92 Stat. 2942; Pub. L. 97–248, title II, §§269(b), 278(b)(1), Sept. 3, 1982, 96 Stat. 552, 560; Pub. L. 97–448, title III, §309(b)(23), Jan. 12, 1983, 96 Stat. 2410; Pub. L. 98–21, title I, §§101(a), 102(a), title III, §§321(b), 322(a)(1), 323(a)(2), Apr. 20, 1983, 97 Stat. 67, 70, 118, 120, 121; Pub. L. 98–369, div. B, title VI, §§2601(a), 2603(a)(1), 2661(j), 2663(a)(7), (j)(3)(A)(i), July 18, 1984, 98 Stat. 1122, 1128, 1157, 1162, 1170; Pub. L. 99–221, §3(b), Dec. 26, 1985, 99 Stat. 1735; Pub. L. 99–272, title XIII, §§13205(b)(1), 13303(c)(2), Apr. 7, 1986, 100 Stat. 316, 327; Pub. L. 99–335, title III, §304(a), June 6, 1986, 100 Stat. 606; Pub. L. 99–514, title XVIII, §§1883(a)(4), 1895(b)(18)(B), (19), Oct. 22, 1986, 100 Stat. 2916, 2935; Pub. L. 100–203, title IX, §§9001(a)(1), 9004(a), 9005(a), 9023(a), Dec. 22, 1987, 101 Stat. 1330–286 to 1330–288, 1330–295; Pub. L. 100–647, title I, §1001(d)(2)(E), title VIII, §§8015(b)(1), (c)(1), 8016(a)(4)(B), (C), Nov. 10, 1988, 102 Stat. 3351, 3791–3793; Pub. L. 101–239, title X, §10201(b)(1), Dec. 19, 1989, 103 Stat. 2472; Pub. L. 101–508, title XI, §11332(a), Nov. 5, 1990, 104 Stat. 1388–469; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–178, title II, §204(d), Dec. 3, 1993, 107 Stat. 2033; Pub. L. 103–296, title I, §107(a)(4), title III, §§303(a)(1), (b)(1), 319(b)(1), (3), 320(b), 321(a)(13), (c)(6)(C), (D), Aug. 15, 1994, 108 Stat. 1478, 1518, 1519, 1534–1536, 1538; Pub. L. 103–387, §2(a)(2)(B), Oct. 22, 1994, 108 Stat. 4072; Pub. L. 104–188, title I, §1116(a)(2), Aug. 20, 1996, 110 Stat. 1762; Pub. L. 105–61, title VI, §642(d)(1), Oct. 10, 1997, 111 Stat. 1319; Pub. L. 105–33, title XI, §11246(b)(2)(B), as added Pub. L. 105–277, div. A, §101(h) \[title VIII, §802(a)(2)\], Oct. 21, 1998, 112 Stat. 2681–480, 2681–532.)
 
 #### References in Text
 
@@ -424,7 +424,7 @@ Subsec. (a)(20)(A). Pub. L. 104–188, §1116(a)(2)(B), amended subpar. (A) gene
 
 1994—Subsec. (a). Pub. L. 103–296, §321(c)(6)(C), substituted “1986” for “1954” after “Code of” in introductory provisions.
 
-Subsec. (a)(5)(B)(i)(V). Pub. L. 103–296, §321(a)(13), made technical amendment to reference to section450i(e)(2) of title 25 to reflect renumbering of corresponding section of original act.
+Subsec. (a)(5)(B)(i)(V). Pub. L. 103–296, §321(a)(13), made technical amendment to reference to section 450i(e)(2) of title 25 to reflect renumbering of corresponding section of original act.
 
 Subsec. (a)(7)(F)(iv). Pub. L. 103–296, §303(a)(1), substituted “$1,000 with respect to service performed during any calendar year commencing on or after January 1, 1995, ending on or before December 31, 1999, and the adjusted amount determined under section 418(c)(8)(B) of this title for any calendar year commencing on or after January 1, 2000, with respect to service performed during such calendar year” for “$100”.
 
@@ -498,7 +498,7 @@ Subsec. (a)(5)(B). Pub. L. 98–369, §2601(a)(1), in amending subpar. (B) gener
 
 Subsec. (a)(5)(C) to (F). Pub. L. 98–369, §2601(a)(2)(A), (B), in provisions following “except that this paragraph shall not apply with respect to—” redesignated cls. (i), (ii), (iii), and (iv) as subpars. (C), (D), (E), and (F), respectively, and redesignated former subcls. (I), (II), and (III) as cls. (i), (ii), and (iii), respectively, of the redesignated subpar. (D).
 
-Subsec. (a)(5)(G). Pub. L. 98–369, §2601(a)(2)(A), (C), in provisions following “except that this paragraph shall not apply with respect to—” redesignated former cl. (v) as subpar. (G), and in subpar. (G) as so redesignated, designated the existing provisions of subpar. (G) as theintroductory language and the first phrase of cl. (i) and added the remainder of cl. (i) following “chapter 38 of title 5”, cls. (ii) and (iii), and the provisions following cl. (iii).
+Subsec. (a)(5)(G). Pub. L. 98–369, §2601(a)(2)(A), (C), in provisions following “except that this paragraph shall not apply with respect to—” redesignated former cl. (v) as subpar. (G), and in subpar. (G) as so redesignated, designated the existing provisions of subpar. (G) as the introductory language and the first phrase of cl. (i) and added the remainder of cl. (i) following “chapter 38 of title 5”, cls. (ii) and (iii), and the provisions following cl. (iii).
 
 Subsec. (a)(7)(D). Pub. L. 98–369, §2663(a)(7)(B), realigned margins of subpar. (D).
 
@@ -580,7 +580,7 @@ Subsecs. (a)(17)(A), (f)(4)(B). Pub. L. 95–216, §351(a)(1), substituted “ye
 
 Subsec. (a)(20). Pub. L. 94–455 added par. (20).
 
-1974—Subsec. (<i>l</i>)(4)(A). Pub. L. 93–445 substituted “section 231b(i) of title 45” for “section 228c–1 of title 45” and struck out “, as provided in section 228c–1(p)(2) of title 45” after “notify the Secretary of Health, Education, and Welfare”.
+1974—Subsec. (<i>l</i>)(4)(A). Pub. L. 93–445 substituted “section 231b(i) of title 45” for “section 228c–1 of title 45” and struck out “, as provided in section 228c–1(p)(2) oftitle 45” after “notify the Secretary of Health, Education, and Welfare”.
 
 1972—Subsec. (a)(7)(E). Pub. L. 92–603, §128(a), added subpar. (E).
 
@@ -738,11 +738,11 @@ Section 13205(d)(2) of Pub. L. 99–272 provided that:
 
 “(A)
 
-In general.—The amendments made by subsection (b) \[amending this section and sections 426,426–1, and 1395c of this title\] shall be effective after March 31, 1986, and the amendments made by paragraph (3) of that subsection \[subsection does not contain a paragraph (3)\] shall apply to services performed (for medicare qualified government employment) after that date.
+In general.—The amendments made by subsection (b) \[amending this section and sections 426, 426–1, and 1395c of this title\] shall be effective after March 31, 1986, and the amendments made by paragraph (3) of that subsection \[subsection does not contain a paragraph (3)\] shall apply to services performed (for medicare qualified government employment) after that date.
 
 “(B)
 
-Treatment of certain disabilities.—For purposes of establishing entitlement to hospital insurance benefits under part A of title XVIII of the Social Security Act \[section 1395c et seq. of this title\] pursuant to the amendments made by subsection (b), no individual may be considered to be under a disability for any period beginning before April 1, 1986.”
+Treatment of certain disabilities.—For purposes of establishing entitlement to hospital insurance benefits under part A of title XVIII of the Social Security Act \[section 1395c et seq. of this title\] pursuant to the amendments made by subsection (b), no individualmay be considered to be under a disability for any period beginning before April 1, 1986.”
 
 #### Effective Date of 1985 Amendment
 
@@ -810,7 +810,7 @@ Section 317(g) of Pub. L. 89–97 provided that: “The amendments made by this 
 
 #### Effective Date of 1961 Amendments
 
-Amendment by Pub. L. 87–293 applicable with respect to service performed after Sept. 22, 1961, but in the case of persons serving under the Peace Corps agency established by executive order applicable with respect to service performed on or after the effective date of enrollment, see section 202(c) of Pub. L. 87–293, set out as a note under section 3121 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 87–293 applicable with respect to service performed after Sept. 22, 1961, but in the case of persons serving under the Peace Corps agency established by executive order applicable with respect to service performed on or after the effective date of enrollment, see section 202(c) of Pub. L. 87–293, set out asa note under section 3121 of Title 26, Internal Revenue Code.
 
 Amendment by Pub. L. 87–256 applicable with respect to service performed after Dec. 31, 1961, see section 110(h)(3) of Pub. L. 87–256, set out as a note under section 3121 of Title 26.
 
@@ -868,7 +868,7 @@ Amendment by section 105(b) of act Aug. 1, 1956, ch. 836, applicable with respec
 
 #### Effective Date of 1954 Amendment
 
-Amendment by section 101(a)(4), (5) of act Sept. 1, 1954, applicable only with respect to services (whetherperformed after 1954 or prior to 1955) for which the remuneration is paid after 1954, and amendment by section 101(b), (c)(1), (2), (e), and (f) of act Sept. 1, 1954, applicable only with respect to services performed after 1954, see section 101(n) of act Sept. 1, 1954, set out as a note under section 405 of this title.
+Amendment by section 101(a)(4), (5) of act Sept. 1, 1954, applicable only with respect to services (whether performed after 1954 or prior to 1955) for which the remuneration is paid after 1954, and amendment by section 101(b), (c)(1), (2), (e), and (f) of act Sept. 1, 1954, applicable only with respect to services performed after 1954, see section 101(n) of act Sept. 1, 1954, set out as a note under section 405 of this title.
 
 #### Effective Date of 1950 Amendment
 
@@ -881,6 +881,10 @@ Section 642(d)(1) of Pub. L. 105–61, amending this section, was subject to lin
 #### Repeals: Amendments and Application of Amendments Unaffected
 
 Section 202(b)(1) of Pub. L. 87–293, cited as a credit to this section, was repealed by Pub. L. 89–572, §5(a), Sept. 13, 1966, 80 Stat. 765. Such repeal not deemed to affect amendments to this section contained in such provisions, and continuation in full force and effect until modified by appropriate authority of all determinations, authorization, regulations, orders, contracts, agreements, and other actions issued, undertaken, or entered into under authority of the repealed provisions, see section 5(b) of Pub. L. 89–572, set out as a note under section 2515 of Title 22, Foreign Relations and Intercourse.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
@@ -942,7 +946,7 @@ Joint Res. July 25, 1947, ch. 327, §3, 61 Stat. 451, provided that in the inter
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 401, 402, 403, 404, 405, 409, 411, 415, 416, 417, 418, 424a, 426, 426–1, 426a, 429, 1382a, 1395i, 1395i–2, 1395x of this title; title 5 section 8402; title 10 section 1451; title 20 section 125; title 26 section 3121; title 33 section 857; title 45 section 231q.
+This section is referred to in sections 401, 402, 403, 404, 405, 409, 411, 415, 416, 417, 418, 424a, 426, 426–1, 426a, 429, 1382a, 1395i, 1395i–2, 1395x of this title; title 5 section 8402; title 10 section 1451; title 20 section 125; title 26 section 3121; title 33 section 3072; title 45 section 231q.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

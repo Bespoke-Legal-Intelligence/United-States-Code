@@ -22,9 +22,9 @@
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 911; Pub. L. 99–177, title II, §242, Dec. 12, 1985, 99 Stat. 1063.)
 
-#### Amendment of Section
+#### Termination of Subsection (c)
 
-<i>For termination of amendment by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates of 1985 Amendment note below.</i>
+<i>For termination of subsection (c) of this section by section 275(b) of Pub. L. 99–177, as amended, see Effective and Termination Dates of 1985 Amendment note below.</i>
 
 Historical and Revision Notes
 

@@ -22,7 +22,7 @@ Changes in phraseology were made.
 
 #### Amendments
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–578 incorporated in provisions designated as subsec. (a) provisions of first par. of former section 639 of this title, substituting “United States magistrates” for prior designation as “United States Commissioners”, specifying that the copy of the United States Code be a current edition, and dispensing with approval by the chief judge of the district court for a copy of such Code.
+1968—Subsec. (a). Pub. L. 90–578 incorporated in provisions designated as subsec. (a) provisions of first par. of former section 639 of this title, substituting “United States magistrates” for prior designation as “United States Commissioners”, specifying that the copy of the United States Code be a current edition, and dispensing with approval by the chief judge of the district court for a copy of such Code.
 
 Subsec. (b). Pub. L. 90–578 incorporated in provisions designated as subsec. (b) provisions of the second par. of former section 639 of this title.
 
@@ -34,5 +34,5 @@ Subsec. (c). Pub. L. 90–578 designated existing provisions as subsec. (c), and
 
 #### Effective Date of 1968 Amendment
 
-Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub. L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
+Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effective date is applicable, which is the earlier of date when implementation of amendment by appointment of magistrates \[now United States magistrate judges\] and assumption of office takes place or third anniversary of enactment of Pub.L. 90–578 on Oct. 17, 1968, see section 403 of Pub. L. 90–578, set out as a note under section 631 of this title.
 

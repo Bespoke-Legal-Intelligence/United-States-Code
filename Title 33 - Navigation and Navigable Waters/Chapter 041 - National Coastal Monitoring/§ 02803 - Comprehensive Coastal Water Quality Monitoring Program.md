@@ -66,7 +66,7 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 #### (4) Discharge permit data
 
-&emsp;The Administrator or a State permitting authority shall ensure that compliance monitoring conducted pursuant to section 402(a)(2) ofthe Federal Water Pollution Control Act (33 U.S.C. 1342(a)(2)) for permits for discharges to coastal waters is consistent with the guidelines issued under this subsection. Any modifications of discharge permits necessary to implement this subsection shall be deemed to be minor modifications of such permit. Nothing in this subsection requires dischargers to conduct monitoring other than compliance monitoring pursuant to permits under section 402(a)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)(2)).
+&emsp;The Administrator or a State permitting authority shall ensure that compliance monitoring conducted pursuant to section 402(a)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)(2)) for permits for discharges to coastal waters is consistent with the guidelines issued under this subsection. Any modifications of discharge permits necessary to implement this subsection shall be deemed to be minor modifications of such permit. Nothing in this subsection requires dischargers to conduct monitoring other than compliance monitoring pursuant to permits under section 402(a)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1342(a)(2)).
 
 #### (d) Intensive coastal water quality monitoring programs
 
@@ -162,9 +162,13 @@ The Comprehensive Coastal Water Quality Monitoring Program shall include, but no
 
 #### References in Text
 
-The Federal Water Pollution Control Act, referred to in subsec. (b)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816. Title III of the Act is classified generally to subchapter III (§1311 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, referred to in subsec. (b)(1), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816. Title III of the Act is classified generally to subchapterIII (§1311 et seq.) of chapter 26 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 Title IV of this Act, referred to in subsec. (d)(3)(B), is title IV of Pub. L. 92–532 which is classified generally to chapter 32A (§1447 et seq.) of Title 16, Conservation.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

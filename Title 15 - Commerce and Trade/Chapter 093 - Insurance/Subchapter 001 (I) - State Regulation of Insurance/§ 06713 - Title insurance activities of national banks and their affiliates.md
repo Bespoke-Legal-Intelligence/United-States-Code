@@ -8,7 +8,7 @@ No national bank may engage in any activity involving the underwriting or sale o
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of law (including section 6701 of this title), in the case of any State in which banks organized under the laws of such State are authorized to sell title insurance as agent, a national bank may sell title insurance as agent in such State, but only in the same manner, to the same extent, and under the same restrictions as such State banks are authorized to sell title insurance as agent in such State.
+&emsp;Notwithstanding any other provision of law (including section 6701 of this title), in thecase of any State in which banks organized under the laws of such State are authorized to sell title insurance as agent, a national bank may sell title insurance as agent in such State, but only in the same manner, to the same extent, and under the same restrictions as such State banks are authorized to sell title insurance as agent in such State.
 
 #### (2) Coordination with “wildcard” provision
 

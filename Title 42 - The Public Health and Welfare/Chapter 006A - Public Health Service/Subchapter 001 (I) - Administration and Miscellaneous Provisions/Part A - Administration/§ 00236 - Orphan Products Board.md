@@ -50,7 +50,7 @@ The Board shall submit to the Committee on Labor and Human Resources of the Sena
 
 #### References in Text
 
-The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended. Subchapter B of the Federal Food, Drug, and Cosmetic Act probably means subchapter B of chapter V of the Federal Food, Drug, and Cosmetic Act which is classified generally to part B (section 360aa et seq.) of subchapter V of chapter 9 ofTitle 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (c)(1)(A), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended. Subchapter B of the Federal Food, Drug, and Cosmetic Act probably means subchapter B of chapter V of the Federal Food, Drug, and Cosmetic Act which is classified generally to part B (section 360aa et seq.) of subchapter V of chapter 9 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
 Section 44H of title 26, referred to in subsec. (e), was renumbered section 28 of title 26, by Pub. L. 98–369, div. A, title IV, §471(c)(1), July 18, 1984, 98 Stat. 826, and subsequently renumbered section 45C of title 26 by Pub. L. 104–188, title I, §1205(a)(1), Aug. 20, 1996, 110 Stat. 1775.
 
@@ -74,7 +74,7 @@ Subsec. (e). Pub. L. 102–321, §163(b)(1)(C), (D), in concluding provisions, s
 
 #### Change of Name
 
-Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Energy and Commerce of House of Representatives treated as referring to Committee on Commerce of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Commerce ofHouse of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Effective Date of 1992 Amendment
 
@@ -168,7 +168,7 @@ Composition.—The Commission shall be composed of twenty members appointed by t
 
 &emsp;“(4) One nonvoting member shall be appointed from officers or employees of the Food and Drug Administration who the Secretary determines are involved with rare diseases.
 
-> A vacancy in the Commission shall be filled in the manner in which the original appointment was made. If any member of the Commission who was appointed to the Commission as a director of a national research institute or as an officer or employee of the Food and Drug Administration leaves that office or position, or if any member of the Commission who was appointed from persons who are not officers or employees of the Government becomes an officer or employee of the Government, such member may continue as a member of the Commission for not longer than the ninety-day period beginning on the date such member leaves that office or position or becomes such an officer or employee, as the case may be.
+> A vacancy in the Commission shall be filled in the manner in which the original appointment was made. If any member of the Commission who was appointed to the Commission as a director of a national research institute or as an officer or employee of the Food and Drug Administration leaves that office or position, or if any member of the Commission who was appointed from persons who are not officers or employees of the Government becomes an officer or employee of theGovernment, such member may continue as a member of the Commission for not longer than the ninety-day period beginning on the date such member leaves that office or position or becomes such an officer or employee, as the case may be.
 
 “(e)
 

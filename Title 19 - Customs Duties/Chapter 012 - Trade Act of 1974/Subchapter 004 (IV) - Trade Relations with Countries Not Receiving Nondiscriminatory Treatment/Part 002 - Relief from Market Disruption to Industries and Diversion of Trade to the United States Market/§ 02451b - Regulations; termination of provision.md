@@ -6,7 +6,7 @@ The President shall by regulation provide for the efficient and fair administrat
 
 #### (b) To carry out agreements
 
-To carry out an agreement concluded pursuant to consultations under section 2451(j) or2451a(e)(2) of this title, the President is authorized to prescribe regulations governing the entry or withdrawal from warehouse of articles covered by such agreement.
+To carry out an agreement concluded pursuant to consultations under section 2451(j) or 2451a(e)(2) of this title, the President is authorized to prescribe regulations governing the entry or withdrawal from warehouse of articles covered by such agreement.
 
 #### (c) Termination date
 

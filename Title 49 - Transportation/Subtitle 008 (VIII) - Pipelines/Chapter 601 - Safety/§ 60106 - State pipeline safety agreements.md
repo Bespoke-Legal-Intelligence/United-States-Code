@@ -2,7 +2,7 @@
 
 (a)
 
-General Authority.—If the Secretary of Transportation does not receive a certification under section 60105 of this title, the Secretarymay make an agreement with a State authority (including a municipality if the agreement applies to intrastate gas pipeline transportation) authorizing it to take necessary action. Each agreement shall—
+Agreements Without Certification.—If the Secretary of Transportation does not receive a certification under section 60105 of this title, the Secretary may make an agreement with a State authority (including a municipality if the agreement applies to intrastate gas pipeline transportation) authorizing it to take necessary action. Each agreement shall—
 
 &emsp;(1) establish an adequate program for record maintenance, reporting, and inspection designed to assist compliance with applicable safety standards prescribed under this chapter; and
 
@@ -10,17 +10,79 @@ General Authority.—If the Secretary of Transportation does not receive a certi
 
 (b)
 
-Notification.—Each agreement shall require the State authority to notify the Secretary promptly of a violation or probable violation of an applicable safety standard discovered as a result of action taken in carrying out an agreement under this section.
+Agreements With Certification.—
+
+&emsp;(1)
+
+In general.—If the Secretary accepts a certification under section 60105 and makes the determination required under this subsection, the Secretary may make an agreement with a State authority authorizing it to participate in the oversight of interstate pipeline transportation. Each such agreementshall include a plan for the State authority to participate in special investigations involving incidents or new construction and allow the State authority to participate in other activities overseeing interstate pipeline transportation or to assume additional inspection or investigatory duties. Nothing in this section modifies section 60104(c) or authorizes the Secretary to delegate the enforcement of safety standards for interstate pipeline facilities prescribed under this chapter to a State authority.
+
+&emsp;(2)
+
+Determinations required.—The Secretary may not enter into an agreement under this subsection, unless the Secretary determines in writing that—
+
+&emsp;&emsp;(A) the agreement allowing participation of the State authority is consistent with the Secretary's program for inspection and consistent with the safety policies and provisions provided under this chapter;
+
+&emsp;&emsp;(B) the interstate participation agreement would not adversely affect the oversight responsibilities of intrastate pipeline transportation by the State authority;
+
+&emsp;&emsp;(C) the State is carrying out a program demonstrated to promote preparedness and risk prevention activities that enable communities to live safely with pipelines;
+
+&emsp;&emsp;(D) the State meets the minimum standards for State one-call notification set forth in chapter 61; and
+
+&emsp;&emsp;(E) the actions planned under the agreement would not impede interstate commerce or jeopardize public safety.
+
+&emsp;(3)
+
+Existing agreements.—If requested by the State authority, the Secretary shall authorize a State authority which had an interstate agreement in effect after January 31, 1999, to oversee interstate pipeline transportation pursuant to the terms of that agreement until the Secretary determines that the State meets the requirements of paragraph (2) and executes a new agreement, or until December 31, 2003, whichever is sooner. Nothing in this paragraph shall prevent the Secretary, after affording the State notice, hearing, and an opportunity to correct any alleged deficiencies, from terminating an agreement that was in effect before enactment of the Pipeline Safety Improvement Act of 2002 if—
+
+&emsp;&emsp;(A) the State authority fails to comply with the terms of the agreement;
+
+&emsp;&emsp;(B) implementation of the agreement has resulted in a gap in the oversight responsibilities of intrastate pipeline transportation by the State authority; or
+
+&emsp;&emsp;(C) continued participation by the State authority in the oversight of interstate pipeline transportation has had an adverse impact on pipeline safety.
 
 (c)
 
-Monitoring.—The Secretary may monitor a safety program established under this section to ensure that the program complies with the agreement. A State authority shall cooperate with the Secretary under this subsection.
+Notification.—
+
+&emsp;(1)
+
+In general.—Each agreement shall require the State authority to notify the Secretary promptly of a violation or probable violation of an applicable safety standard discovered as a result of action taken in carrying out an agreement under this section.
+
+&emsp;(2)
+
+Response by secretary.—If a State authority notifies the Secretary under paragraph (1) of a violation or probable violation of an applicable safety standard, the Secretary, not later than 60 days after the date of receipt of the notification, shall—
+
+&emsp;&emsp;(A) issue an order under section 60118(b) or take other appropriate enforcement actions to ensure compliance with this chapter; or
+
+&emsp;&emsp;(B) provide the State authority with a written explanation as to why the Secretary has determined not to take such actions.
 
 (d)
 
-Ending Agreements.—The Secretary may end an agreement made under this section when the Secretary finds that the State authority has not complied with any provision of the agreement. The Secretary shall give the authority notice and an opportunity for a hearing before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication.
+Monitoring.—The Secretary may monitor a safety program established under this section to ensure that the program complies with the agreement. A State authority shall cooperate with the Secretary under this subsection.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1310; Pub. L. 104–304, §20(b), Oct. 12, 1996, 110 Stat. 3804.)
+(e)
+
+Ending Agreements.—
+
+&emsp;(1)
+
+Permissive termination.—The Secretary may end an agreement under this section when the Secretary finds that the State authority has not complied with any provision of the agreement.
+
+&emsp;(2)
+
+Mandatory termination of agreement.—The Secretary shall end an agreement for the oversight of interstate pipeline transportation if the Secretary finds that—
+
+&emsp;&emsp;(A) implementation of such agreement has resulted in a gap in the oversight responsibilities of intrastate pipeline transportation by the State authority;
+
+&emsp;&emsp;(B) the State actions under the agreement have failed to meet the requirements under subsection (b); or
+
+&emsp;&emsp;(C) continued participation by the State authority in the oversight of interstate pipeline transportation would not promote pipeline safety.
+
+&emsp;(3)
+
+Procedural requirements.—The Secretary shall give notice and an opportunity for a hearing to a State authority before ending an agreement under this section. The Secretary may provide a State an opportunity to correct any deficiencies before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication unless the Secretary finds that continuation of an agreement poses an imminent hazard.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1310; Pub. L. 104–304, §20(b), Oct. 12, 1996, 110 Stat. 3804; Pub. L. 107–355, §4, Dec. 17, 2002, 116 Stat. 2986.)
 
 Historical and Revision Notes
 
@@ -78,11 +140,29 @@ In subsection (b), the words “action taken in carrying out an agreement” are
 
 In subsection (c), the words “conduct whatever . . . may be necessary” and “fully” are omitted as surplus. The words “with the Secretary” are substituted for “in any monitoring of their programs” for clarity.
 
+#### References in Text
+
+Enactment of the Pipeline Safety Improvement Act of 2002, referred to in subsec. (b)(3), is the enactment of Pub. L. 107–355, which was approved Dec. 17, 2002.
+
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–355, §4(a)(1), substituted “
+
+Agreements Without Certification” for “
+
+General Authority” in heading.
+
+Subsec. (b). Pub. L. 107–355, §4(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
+
+Subsec. (c). Pub. L. 107–355, §4(a)(2), (c), redesignated subsec. (b) as (c), designated existing provisions as par. (1), inserted par. heading, realigned margins, and added par. (2). Former subsec. (c) redesignated (d).
+
+Subsec. (d). Pub. L. 107–355, §4(a)(2), redesignated subsec. (c) as (d). Former subsec. (d) redesignated (e).
+
+Subsec. (e). Pub. L. 107–355, §4(a)(2), (b), redesignated subsec. (d) as (e), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Secretary may end an agreement made under this section when the Secretary finds that the State authority has not complied with any provision of the agreement. The Secretary shall give the authority notice and an opportunity for a hearing before ending an agreement. The finding and decision to end the agreement shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication.”
 
 1996—Pub. L. 104–304 substituted “State pipeline safety agreements” for “State agreements” in section catchline.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 60107, 60108, 60118, 60124 of this title.
+This section is referred to in sections 60107, 60108, 60109, 60118, 60124 of this title.
 

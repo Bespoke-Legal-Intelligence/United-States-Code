@@ -1,0 +1,56 @@
+### §1369. Multiparty, multiforum jurisdiction
+
+(a)
+
+In General.—The district courts shall have original jurisdiction of any civil action involving minimal diversity between adverse parties that arises from a single accident, where at least 75 natural persons have died in the accident at a discrete location, if—
+
+&emsp;(1) a defendant resides in a State and a substantial part of the accident took place in another State or other location, regardless of whether that defendant is also a resident of the State where a substantial part of the accident took place;
+
+&emsp;(2) any two defendants reside in different States, regardless of whether such defendants are also residents of the same State or States; or
+
+&emsp;(3) substantial parts of the accident took place in different States.
+
+(b)
+
+Limitation of Jurisdiction of District Courts.—The district court shall abstain from hearing any civil action described in subsection (a) in which—
+
+&emsp;(1) the substantial majority of all plaintiffs are citizens of a single State of which the primary defendants are also citizens; and
+
+&emsp;(2) the claims asserted will be governed primarily by the laws of that State.
+
+(c)
+
+Special Rules and Definitions.—For purposes of this section—
+
+&emsp;(1) minimal diversity exists between adverse parties if any party is a citizen of a State and any adverse party is a citizen of anotherState, a citizen or subject of a foreign state, or a foreign state as defined in section 1603(a) of this title;
+
+&emsp;(2) a corporation is deemed to be a citizen of any State, and a citizen or subject of any foreign state, in which it is incorporated or has its principal place of business, and is deemed to be a resident of any State in which it is incorporated or licensed to do business or is doing business;
+
+&emsp;(3) the term “injury” means—
+
+&emsp;&emsp;(A) physical harm to a natural person; and
+
+&emsp;&emsp;(B) physical damage to or destruction of tangible property, but only if physical harm described in subparagraph (A) exists;
+
+&emsp;(4) the term “accident” means a sudden accident, or a natural event culminating in an accident, that results in death incurred at a discrete location by at least 75 natural persons; and
+
+&emsp;(5) the term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and any territory or possession of the United States.
+
+(d)
+
+Intervening Parties.—In any action in a district court which is or could have been brought, in whole or in part, under this section, any person with a claim arising from the accident described in subsection (a) shall be permitted to intervene as a party plaintiff in the action, even if that person could not have brought an action in a district court as an original matter.
+
+(e)
+
+Notification of Judicial Panel on Multidistrict Litigation.—A district court in which an action under this section is pending shall promptly notify the judicial panel on multidistrict litigation of the pendency of the action.
+
+(Added Pub. L. 107–273, div. C, title I, §11020(b)(1)(A), Nov. 2, 2002, 116 Stat. 1826.)
+
+#### Effective Date
+
+Pub. L. 107–273, div. C, title I, §11020(c), Nov. 2, 2002, 116 Stat. 1829, provided that: “The amendments made by subsection (b) \[enacting this section and sections 1697 and 1785 of this title and amending sections 1391 and 1441 of this title\] shall apply to a civil action if the accident giving rise to the cause of action occurred on or after the 90th day after the date of the enactment of this Act \[Nov. 2, 2002\].”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1391, 1441, 1697, 1785 of this title.
+

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary, in consultation with the Secretary of Commerce, may approve any projectthat is consistent with an approved enhancement plan and the provisions of this chapter, and shall promptly notify the States, the treaty tribes and, upon request, any other interested party of the approval of a project and the amount of funding made available under this chapter for such project.
+The Secretary, in consultation with the Secretary of Commerce, may approve any project that is consistent with an approved enhancement plan and the provisions of this chapter, and shall promptly notify the States, the treaty tribes and, upon request, any other interested party of the approval of a project and the amount of funding made available under this chapter for such project.
 
 #### (b) Limitations on Federal share
 

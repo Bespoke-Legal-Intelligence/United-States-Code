@@ -18,7 +18,7 @@ There is established in the Treasury of the United States within the contingent 
 
 &emsp;(B) for necessary supplies, equipment, and other expenses of Senate Hair Care Services.
 
-(3) The provisions of section 193d of title 40, except for the provisions relating to solicitation, shall not apply to any activity carried out pursuant to this section, subject to approval of such activities by the Committee on Rules and Administration.
+(3) The provisions of section 5104(c) of title 40, except for the provisions relating to solicitation, shall not apply to any activity carried out pursuant to this section, subject to approval of such activities by the Committee on Rules and Administration.
 
 (3) <sup>1</sup> Agency contributions for employees of Senate Hair Care Services shall be paid from the appropriations account for “
 
@@ -57,6 +57,8 @@ Section 121a of this title, referred to in subsec. (g), was repealed by Pub. L. 
 Section is comprised of section 6 of Pub. L. 105–275. Subsec. (h) of section 6 of Pub. L. 105–275 amended section 121b of this title and repealed section 121a of this title.
 
 Section is from the Congressional Operations Appropriations Act, 1999, which is title I of the Legislative Branch Appropriations Act, 1999.
+
+In subsec. (c), in the first par. (3), “section 5104(c) of title 40” substituted for “section 4 of the Act of July 31, 1946 (40 U.S.C. 193d)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

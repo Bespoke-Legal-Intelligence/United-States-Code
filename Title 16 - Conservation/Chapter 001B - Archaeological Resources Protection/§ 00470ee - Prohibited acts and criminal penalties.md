@@ -26,7 +26,7 @@ The prohibitions contained in this section shall take effect on October 31, 1979
 
 #### (f) Prospective application
 
-Nothing in subsection (b)(1) of this section shall be deemed applicable to any person withrespect to an archaeological resource which was in the lawful possession of such person prior to October 31, 1979.
+Nothing in subsection (b)(1) of this section shall be deemed applicable to any person with respect to an archaeological resource which was in the lawful possession of such person prior to October 31, 1979.
 
 #### (g) Removal of arrowheads located on ground surface
 

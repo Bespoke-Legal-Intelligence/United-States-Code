@@ -36,7 +36,7 @@ The Congress finds and declares that—
 
 #### Short Title of 1988 Amendment
 
-Pub. L. 100–610, title I, §1, Nov. 5, 1988, 102 Stat. 3176, provided that: “This Act \[probably should be ‘Thistitle’, which amended section 1815 of this title\] may be cited as the ‘Outer Continental Shelf Operations Indemnification Clarification Act of 1988’.”
+Pub. L. 100–610, title I, §1, Nov. 5, 1988, 102 Stat. 3176, provided that: “This Act \[probably should be ‘This title’, which amended section 1815 of this title\] may be cited as the ‘Outer Continental Shelf Operations Indemnification Clarification Act of 1988’.”
 
 #### Short Title
 

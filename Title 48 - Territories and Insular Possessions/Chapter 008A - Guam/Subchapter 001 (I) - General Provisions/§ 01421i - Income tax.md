@@ -2,7 +2,7 @@
 
 #### (a) Applicability of Federal laws; separate tax
 
-The income-tax laws in force in the United States of America and those which may hereafter be enacted shall be held to be likewise in force in Guam: <i>Provided</i>, That notwithstanding any other provision of law, the Legislature of Guam may levy a separate tax on all taxpayers in an amount not to exceed 10 per centum oftheir annual income tax obligation to the Government of Guam.
+The income-tax laws in force in the United States of America and those which may hereafter be enacted shall be held to be likewise in force in Guam: <i>Provided</i>, That notwithstanding any other provision of law, the Legislature of Guam may levy a separate tax on all taxpayers in an amount not to exceed 10 per centum of their annual income tax obligation to the Government of Guam.
 
 #### (b) Guam Territorial income tax
 
@@ -17,6 +17,8 @@ The administration and enforcement of the Guam Territorial income tax shall be p
 (1) The income-tax laws in force in Guam pursuant to subsection (a) of this section include but are not limited to the following provisions of the Internal Revenue Code of 1986, where not manifestly inapplicable or incompatible with the intent of this section: Subtitle A \[26 U.S.C. 1 et seq.\] (not including chapter 2 \[26 U.S.C. 1401 et seq.\] and section 931 \[26 U.S.C. 931\]); chapters 24 and 25 of subtitle C \[26 U.S.C. 3401 et seq. and 3501 et seq.\], with reference to the collection of income tax at source on wages; and all provisions of subtitle F \[26 U.S.C. 6001 et seq.\] which apply to the income tax, including provisions as to crimes, other offenses, and forfeitures contained in chapter 75 \[26 U.S.C. 7201 et seq.\]. For the period after 1950 and prior to the effective date of the repeal of any provision of the Internal Revenue Code of 1939 which corresponds to one or more of those provisions of the Internal Revenue Code of 1986 which are included in the income-tax laws in force in Guam pursuant to subsection (a) of this section, such income-tax laws include but are not limited to such provisions of the Internal Revenue Code of 1939.
 
 (2) The Governor or his delegate shall have the same administrative and enforcement powers and remedies with regard to the Guam Territorial income tax as the Secretary of the Treasury, and other United States officials of the executive branch, have with respect to the United States income tax. Needful rules and regulations not inconsistent with the regulations prescribed under section 7654(e) of the Internal Revenue Code of 1986 \[26 U.S.C. 7654(e)\] for enforcement of the Guam Territorial income tax shall be prescribed by the Governor. The Governor or his delegate shall have authority to issue, from time to time, in whole or in part, the text of the income-tax laws in force in Guam pursuant to subsection (a) of this section.
+
+(3) In applying as the Guam Territorial income tax the income-tax laws in force in Guam pursuant to subsection (a) of this section, the rate of tax under sections 871, 881, 884, 1441, 1442, 1443, 1445, and 1446 of the Internal Revenue Code of 1986 \[26 U.S.C. 871, 881, 884, 1441, 1442, 1443, 1445, and 1446\] on any item of income from sources within Guam shall be the same as the rate which would apply with respect to such item were Guam treated as part of the United States for purposes of the treaty obligations of the United States. The preceding sentence shall not apply to determine the rate of tax on any item of income received from a Guam payor if, for any taxable year, the taxes of the Guam payor were rebated under Guam law. For purposes of this subsection, the term “Guam payor” means the person from whom the item of income would be deemed to be received for purposes of claiming treaty benefits were Guam treated as part of the United States.
 
 #### (e) Substitution of terms
 
@@ -48,7 +50,7 @@ When such certificate has been issued, the Governor shall order the payment of s
 
 (5) The jurisdiction conferred upon the District Court of Guam by this subsection shall not be subject to transfer to any other court by the legislature, notwithstanding section 1424(a) of this title.
 
-(Aug. 1, 1950, ch. 512, §31, 64 Stat. 392; Pub. L. 85–688, §1, Aug. 20, 1958, 72 Stat. 681; Pub. L. 92–606, §1(d), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 95–134, title II, §203(c), Oct. 15, 1977, 91 Stat. 1162; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Aug. 1, 1950, ch. 512, §31, 64 Stat. 392; Pub. L. 85–688, §1, Aug. 20, 1958, 72 Stat. 681; Pub. L. 92–606, §1(d), Oct. 31, 1972, 86 Stat. 1497; Pub. L. 95–134, title II, §203(c), Oct. 15, 1977, 91 Stat. 1162; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–212, §2(a), Aug. 21, 2002, 116 Stat. 1051.)
 
 #### References in Text
 
@@ -62,6 +64,8 @@ Subtitle A (not including chapter 2 and section 931) and chapters 24 and 25 of s
 
 #### Amendments
 
+2002—Subsec. (d)(3). Pub. L. 107–212 added par. (3).
+
 1986—Subsecs. (d) to (f). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954” wherever appearing.
 
 1977—Subsec. (a). Pub. L. 95–134 inserted provision that the Legislature of Guam may levy a separate tax on taxpayers in an amount not to exceed 10 per centum of their annual income tax obligation to the Government of Guam.
@@ -71,6 +75,10 @@ Subtitle A (not including chapter 2 and section 931) and chapters 24 and 25 of s
 1958—Subsec. (a). Pub. L. 85–688 designated existing provisions as subsec. (a).
 
 Subsecs. (b) to (h). Pub. L. 85–688 added subsecs. (b) to (h).
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–212, §2(b), Aug. 21, 2002, 116 Stat. 1051, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to amounts paid after the date of the enactment of the Act \[Aug. 21, 2002\].”
 
 #### Effective Date of 1972 Amendment
 

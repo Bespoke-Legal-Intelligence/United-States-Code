@@ -186,22 +186,19 @@
 | (b) | Duties. |
 | (c) | Objectives. |
 | (d) | Components. |
-| (e) | Implementation plan. |
-| (f) | Assistance for State dam safety programs. |
-| (g) | Dam safety training. |
-| (h) | Board. |
+| (e) | Assistance for State dam safety programs. |
+| (f) | Board. |
 | [467g.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467g%20-%20Research.md) | Research. |
 | (a) | In general. |
 | (b) | Consultation. |
+| 467g–1. | Dam safety training. |
 | [467h.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467h%20-%20Reports.md) | Reports. |
-| (a) | Report on dam insurance. |
-| (b) | Biennial reports. |
 | [467i.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467i%20-%20Statutory%20construction.md) | Statutory construction. |
 | [467j.](Subchapter%20007%20%28VII%29%20-%20Dam%20Inspection%20Program/%C2%A7%2000467j%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | National dam safety program. |
 | (b) | National dam inventory. |
-| (c) | Dam safety training. |
-| (d) | Research. |
+| (c) | Research. |
+| (d) | Dam safety training. |
 | (e) | Staff. |
 | (f) | Limitation on use of amounts. |
 | 467k to 467m. Repealed. |  |

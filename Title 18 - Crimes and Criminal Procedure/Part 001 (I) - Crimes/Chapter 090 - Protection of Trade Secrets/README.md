@@ -8,18 +8,15 @@
 | [1834\.](%C2%A7%2001834%20-%20Criminal%20forfeiture.md) | Criminal forfeiture. |
 | [1835\.](%C2%A7%2001835%20-%20Orders%20to%20preserve%20confidentiality.md) | Orders to preserve confidentiality. |
 | [1836\.](%C2%A7%2001836%20-%20Civil%20proceedings%20to%20enjoin%20violations.md) | Civil proceedings to enjoin violations. |
-| [1837\.](%C2%A7%2001837%20-%20Applicability%20to%20conduct%20outside%20the%20United%20States.md) | Conduct outside the United States.<sup>1</sup> |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-|  |  |
-| :--- | ---: |
+| [1837\.](%C2%A7%2001837%20-%20Applicability%20to%20conduct%20outside%20the%20United%20States.md) | Applicability to conduct outside the United States. |
 | [1838\.](%C2%A7%2001838%20-%20Construction%20with%20other%20laws.md) | Construction with other laws. |
 | [1839\.](%C2%A7%2001839%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
+#### Amendments
+
+2002—Pub. L. 107–273, div. B, title IV, §4002(f)(1), Nov. 2, 2002, 116 Stat. 1811, substituted “Applicability to conduct” for “Conduct” in item 1837.
 
 
 ---

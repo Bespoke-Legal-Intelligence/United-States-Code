@@ -18,11 +18,11 @@ The mortgagee's share of a property's or stock's net appreciated value shall be 
 
 #### (c) Entitlement of mortgagee upon default
 
-In the event of a default, the mortgagee shall be entitled to receive the benefits of insurance in accordance with section 1710(a) of this title, but such insurance benefits shall not include the mortgagee's share of net appreciated value. The term “original principal obligation of the mortgage” as used in section 1710 of this title shall not include the mortgagee's share of net appreciated value.
+In the event of a default, the mortgagee shall be entitled to receive the benefits of insurancein accordance with section 1710(a) of this title, but such insurance benefits shall not include the mortgagee's share of net appreciated value. The term “original principal obligation of the mortgage” as used in section 1710 of this title shall not include the mortgagee's share of net appreciated value.
 
 #### (d) Inapplicability of State constitution, statute, etc., limiting or prohibiting increases in outstanding loan balance
 
-Mortgages insured pursuant to this section which contain provisions for sharing appreciation or which otherwise require or permit increases in the outstanding loan balance which are authorized under this section or under applicable regulations shall not be subject to anyState constitution, statute, court decree, common law, rule, or public policy limiting or prohibiting increases in the outstanding loan balance after execution of the mortgage.
+Mortgages insured pursuant to this section which contain provisions for sharing appreciation or which otherwise require or permit increases in the outstanding loan balance which are authorized under this section or under applicable regulations shall not be subject to any State constitution, statute, court decree, common law, rule, or public policy limiting or prohibiting increases in the outstanding loan balance after execution of the mortgage.
 
 #### (e) Encouraged use of insurance by low and moderate income families
 

@@ -4,7 +4,7 @@
 
 (b) All valid claims and obligations payable out of said fund shall be assumed by the corporation.
 
-(c) The corporation, in accordance with the laws generally applicable to the expenditures ofthe several departments, agencies, and establishments of the Government, is authorized to employ the fund, and any earnings that may accrue to the corporation—
+(c) The corporation, in accordance with the laws generally applicable to the expenditures of the several departments, agencies, and establishments of the Government, is authorized to employ the fund, and any earnings that may accrue to the corporation—
 
 &emsp;(1) as operating capital in performing the duties imposed by this chapter;
 

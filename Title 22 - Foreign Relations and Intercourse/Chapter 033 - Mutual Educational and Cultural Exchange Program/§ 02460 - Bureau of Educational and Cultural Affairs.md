@@ -34,7 +34,9 @@ The President shall insure that all programs under the authority of the Bureau s
 
 #### (d) Administration of programs
 
-The Bureau shall administer no programs except those operating under the authority of this chapter and consistent with its purposes.
+(1) The Bureau shall administer no programs except those operating under the authority of this chapter and consistent with its purposes.
+
+(2) Notwithstanding paragraph (1), the Bureau may also exercise the authorities of this chapter to administer programs authorized by, or funded pursuant to, the FREEDOM Support Act, the Support for East European Democracy Act \[22 U.S.C. 5401 et seq.\], the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\], or any other Act authorizing educational or cultural exchanges or activities, to the extent that such programs are consistent with the purposes of this chapter.
 
 #### (e) Office of Citizen Exchanges
 
@@ -48,29 +50,27 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 #### (g) Working Group on United States Government-Sponsored International Exchanges and Training
 
-(1) In order to carry out the purposes of subsection (f) of this section and to improve the coordination, efficiency, and effectiveness ofUnited States Government-sponsored international exchanges and training, there is established within the United States Information Agency a senior-level interagency working group to be known as the Working Group on United States Government-Sponsored International Exchanges and Training (in this section referred to as the “Working Group”).
+(1) In order to carry out the purposes of subsection (f) of this section and to improve the coordination, efficiency, and effectiveness of United States Government-sponsored international exchanges and training, there is established within the Department of State a senior-level interagency working group to be known as the Working Group on United States Government-Sponsored International Exchanges and Training (in this section referred to as the “Working Group”).
 
 (2) For purposes of this subsection, the term “Government-sponsored international exchanges and training” means the movement of people between countries to promote the sharing of ideas, to develop skills, and to foster mutual understanding and cooperation, financed wholly or in part, directly or indirectly, with United States Government funds.
 
 (3) The Working Group shall be composed as follows:
 
-&emsp;(A) The Associate Director for Educational and Cultural Affairs of the United States Information Agency, who shall act as Chair.
+&emsp;(A) The Assistant Secretary of State for Educational and Cultural Affairs, who shall act as Chair.
 
-&emsp;(B) A senior representative of the Department of State, who shall be designated by the Secretary of State.
+&emsp;(B) A senior representative of the Department of Defense, who shall be designated by the Secretary of Defense.
 
-&emsp;(C) A senior representative of the Department of Defense, who shall be designated by the Secretary of Defense.
+&emsp;(C) A senior representative of the Department of Education, who shall be designated by the Secretary of Education.
 
-&emsp;(D) A senior representative of the Department of Education, who shall be designated by the Secretary of Education.
+&emsp;(D) A senior representative of the Department of Justice, who shall be designated by the Attorney General.
 
-&emsp;(E) A senior representative of the Department of Justice, who shall be designated by the Attorney General.
+&emsp;(E) A senior representative of the Agency for International Development, who shall be designated by the Administrator of the Agency.
 
-&emsp;(F) A senior representative of the Agency for International Development, who shall be designated by the Administrator of the Agency.
-
-&emsp;(G) Senior representatives of such other departments and agencies as the Chair determines to be appropriate.
+&emsp;(F) Senior representatives of such other departments and agencies as the Chair determines to be appropriate.
 
 (4) Representatives of the National Security Adviser and the Director of the Office of Management and Budget may participate in the Working Group at the discretion of the Adviser and the Director, respectively.
 
-(5) The Working Group shall be supported by an interagency staff office established in the Bureau of Educational and Cultural Affairs of the United States Information Agency.
+(5) The Working Group shall be supported by an interagency staff office established in the Bureau of Educational and Cultural Affairs of the Department of State.
 
 (6) The Working Group shall have the following purposes and responsibilities:
 
@@ -90,9 +90,9 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 &emsp;(F) To conduct a survey of private sector international exchange activities and develop strategies for expanding public and private partnerships in, and leveraging private sector support for, United States Government-sponsored international exchange and training activities.
 
-&emsp;(G) Not later than 6 months after October 21, 1998, to report on the feasibility and advisability of transferring funds and program management for the ATLAS or the Mandela Fellows programs, or both, in South Africa from the Agency for International Development to the United States Information Agency. The report shall include an assessment of the capabilities of the South African Fulbright Commission to manage such programs and the cost effects of consolidating such programs under one entity.
+&emsp;(G) Not later than 6 months after October 21, 1998, to report on the feasibility and advisability of transferring funds and program management for the ATLAS or the Mandela Fellows programs, or both, in South Africa from the Agency for International Development to the Department of State. The report shall include an assessment of the capabilities of the South African Fulbright Commission to manage such programs and the cost effects of consolidating such programs under one entity.
 
-(7) All reports prepared by the Working Group shall be submitted to the President, through the Director of the United States Information Agency.
+(7) All reports prepared by the Working Group shall be submitted to the President, through the Secretary of State, acting through the Under Secretary of State for Public Diplomacy.
 
 (8) The Working Group shall meet at least on a quarterly basis.
 
@@ -102,13 +102,33 @@ There is established in the Bureau of Educational and Cultural Affairs an Office
 
 (11) With respect to any report issued under paragraph (6), a member may submit dissenting views to be submitted as part of the report of the Working Group.
 
-(Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17,1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, §102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2414, Oct. 21, 1998, 112 Stat. 2681–832.)
+(Pub. L. 87–256, §112, as added Pub. L. 98–164, title II, §213, Nov. 22, 1983, 97 Stat. 1034; amended Pub. L. 100–204, title III, §§302(a), 303, Dec. 22, 1987, 101 Stat. 1378, 1379; Pub. L. 101–246, title II, §§204(a)(2), 222(a), 223, Feb. 16, 1990, 104 Stat. 50, 55, 56; Pub. L. 103–199, title III, §301(1), Dec. 17, 1993, 107 Stat. 2322; Pub. L. 103–236, title II, §229(a), Apr. 30, 1994, 108 Stat. 423; Pub. L. 105–244, title I, §102(a)(7)(B), Oct. 7, 1998, 112 Stat. 1619; Pub. L. 105–277, div. G, subdiv. B, title XXIV, §2414, Oct. 21, 1998, 112 Stat. 2681–832; Pub. L. 107–228, div. A, title II, §§221, 229, Sept. 30, 2002, 116 Stat. 1367, 1371.)
 
 #### References in Text
 
 This chapter, referred to in subsecs. (a), (b)(1), and (d), was in the original “this Act”, meaning Pub. L. 87–256, Sept. 21, 1961, 75 Stat. 527, as amended, known as the Mutual Educational and Cultural Exchange Act of 1961. For complete classification of this Act to the Code, see Short Title note set out under section 2451 of this title and Tables.
 
+The FREEDOM Support Act, referred to in subsec. (d)(2), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+
+The Support for East European Democracy Act, referred to in subsec. (d)(2), probably means the Support for East European Democracy (SEED) Act of 1989, Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, as amended, which is classified principally to chapter 63 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
+
+The Foreign Assistance Act of 1961, referred to in subsec. (d)(2), is Pub. L. 87–195, Sept. 4, 1961, 75 Stat. 424, as amended, which is classified principally to chapter 32 (§2151 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2151 of this title and Tables.
+
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–228, §221, designated existing provisions as par. (1) and added par. (2).
+
+Subsec. (g)(1). Pub. L. 107–228, §229(1), substituted “Department of State” for “United States Information Agency”.
+
+Subsec. (g)(3)(A). Pub. L. 107–228, §229(2)(A), substituted “Assistant Secretary of State for Educational and Cultural Affairs” for “Associate Director for Educational and Cultural Affairs of the United States Information Agency”.
+
+Subsec. (g)(3)(B) to (G). Pub. L. 107–228, §229(2)(B), (C), redesignated subpars. (C) to (G) as (B) to (F), respectively, and struck out former subpar. (B) which read as follows: “A senior representative of the Department of State, who shall be designated by the Secretary of State.”
+
+Subsec. (g)(5). Pub. L. 107–228, §229(3), substituted “Department of State” for “United States Information Agency”.
+
+Subsec. (g)(6)(G). Pub. L. 107–228, §229(4), substituted “Department of State” for “United States Information Agency”.
+
+Subsec. (g)(7). Pub. L. 107–228, §229(5), substituted “Secretary of State, acting through the Under Secretary of State for Public Diplomacy” for “Director of the United States Information Agency”.
 
 1998—Subsec. (a)(8). Pub. L. 105–244 substituted “section 1001” for “section 1141(a)”.
 
@@ -170,7 +190,7 @@ Sec. 4. The Working Group shall have the following responsibilities:
 
 (f) Develop strategies for expanding public and private partnerships in, and leveraging private sector support for, United States Government-sponsored international exchange and training activities.
 
-Sec. 5. All reports prepared by the Working Group pursuant to section 4 shall be made to the President,through the Director of the United States Information Agency.
+Sec. 5. All reports prepared by the Working Group pursuant to section 4 shall be made to the President, through the Director of the United States Information Agency.
 
 Sec. 6. The Working Group shall meet on at least a quarterly basis.
 

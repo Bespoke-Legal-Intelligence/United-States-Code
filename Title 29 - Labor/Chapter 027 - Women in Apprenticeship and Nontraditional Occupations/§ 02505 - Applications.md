@@ -6,7 +6,7 @@ To be eligible to be selected under section 2503(b) of this title to receive tec
 
 &emsp;(2) a description of the types of apprenticeable occupations or nontraditional occupations in which the employer or labor union would like to train or employ women;
 
-&emsp;(3) assurances that there are or will be suitable and appropriate positions available in theapprenticeable occupations program or in the nontraditional occupations being targeted; and
+&emsp;(3) assurances that there are or will be suitable and appropriate positions available in the apprenticeable occupations program or in the nontraditional occupations being targeted; and
 
 &emsp;(4) commitments that reasonable efforts shall be made to place qualified women in apprenticeable occupations or nontraditional occupations.
 

@@ -54,7 +54,7 @@ Section 10527, added Pub. L. 96–296, §16(a), July 1, 1980, 94 Stat. 810; amen
 
 Section 10528, added Pub. L. 96–296, §21(b)(1), July 1, 1980, 94 Stat. 812; amended Pub. L. 96–454, §11(b), Oct. 15, 1980, 94 Stat. 2023; Pub. L. 103–272, §5(m)(17), July 5, 1994, 108 Stat. 1377, related to mixed loads of regulated and unregulated property. See section 13507 of this title.
 
-Section 10529, added Pub. L. 96–296, §24(b)(1), July 1, 1980, 94 Stat. 814; amended Pub. L. 103–272, §5(m)(18), July 5, 1994, 108 Stat. 1377, related to authority of Commission over cooperative associations. See section 13508 of this title.
+Section 10529, added Pub. L. 96–296, §24(b)(1), July 1, 1980, 94 Stat. 814; amended Pub. L. 103–272, §5(m)(18),July 5, 1994, 108 Stat. 1377, related to authority of Commission over cooperative associations. See section 13508 of this title.
 
 Section 10530, added Pub. L. 98–554, title II, §226(a)(1), Oct. 30, 1984, 98 Stat. 2848; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title IX, §9111(a)–(f), Nov. 18, 1988, 102 Stat. 4531–4533; Pub. L. 103–272, §4(j)(18), (<i>o</i>), July 5, 1994, 108 Stat. 1369, 1371, related to certificates of registration for certain foreign carriers. See section 13902 of this title.
 

@@ -28,11 +28,11 @@ In this section:
 
 #### (1) Authority
 
-&emsp;From funds reserved under section 2321(a)(1)(B)(i) of this title, the Secretary shallmake grants to and enter into contracts with Indian tribes, tribal organizations, and Alaska Native entities to carry out the authorized programs described in subsection (d) <sup>2</sup> of this section, except that such grants or contracts shall not be awarded to secondary school programs in Bureau funded schools.
+&emsp;From funds reserved under section 2321(a)(1)(B)(i) of this title, the Secretary shall make grants to and enter into contracts with Indian tribes, tribal organizations, and Alaska Native entities to carry out the authorized programs described in subsection (d) <sup>2</sup> of this section, except that such grants or contracts shall not be awarded to secondary school programs in Bureau funded schools.
 
 #### (2) Indian tribes and tribal organizations
 
-&emsp;The grants or contracts described in this section (other than in subsection (i) <sup>3</sup> of this section) that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 450f of title 25 and shall be conducted in accordance with the provisions of sections 455, 456, and 457 of title 25, which are relevant to the programs administered under this subsection.
+&emsp;The grants or contracts described in this section (other than in subsection (i) <sup>3</sup> of this section) that are awarded to any Indian tribe or tribal organization shall be subject to the terms and conditions of section 450f of title 25 and shall be conducted in accordance with the provisions of sections 455, 456, and 457 of title25, which are relevant to the programs administered under this subsection.
 
 #### (3) Special authority relating to secondary schools operated or supported by the Bureau of Indian Affairs
 
@@ -88,7 +88,7 @@ The Secretary may not place upon grants awarded or contracts entered into under 
 
 #### (f) Consolidation of funds
 
-Each organization, tribe, or entity receiving assistance under this section may consolidatesuch assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).
+Each organization, tribe, or entity receiving assistance under this section may consolidate such assistance with assistance received from related programs in accordance with the provisions of the Indian Employment, Training and Related Services Demonstration Act of 1992 (25 U.S.C. 3401 et seq.).
 
 #### (g) Nonduplicative and nonexclusive services
 

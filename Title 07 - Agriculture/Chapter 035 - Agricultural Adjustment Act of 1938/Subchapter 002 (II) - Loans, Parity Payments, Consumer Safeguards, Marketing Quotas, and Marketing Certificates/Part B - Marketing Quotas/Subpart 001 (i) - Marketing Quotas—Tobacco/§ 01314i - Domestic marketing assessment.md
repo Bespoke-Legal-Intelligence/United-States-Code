@@ -8,7 +8,7 @@ A domestic manufacturer of cigarettes shall certify to the Secretary, for each c
 
 #### (1) In general
 
-&emsp;Subject to subsection (f) of this section, a domestic manufacturer of cigarettes that hasfailed, as determined by the Secretary after notice and opportunity for a hearing, to use in the manufacture of cigarettes during a calendar year a quantity of tobacco grown in the United States that is at least 75 percent of the total quantity of tobacco used by the manufacturer, or to comply with subsection (a) of this section, shall be subject to the requirements of subsections (c), (d), and (e) of this section.
+&emsp;Subject to subsection (f) of this section, a domestic manufacturer of cigarettes that has failed, as determined by the Secretary after notice and opportunity for a hearing, to use in the manufacture of cigarettes during a calendar year a quantity of tobacco grown in the United States that is at least 75 percent of the total quantity of tobacco used by the manufacturer, or to comply with subsection (a) of this section, shall be subject to the requirements of subsections (c), (d), and (e) of this section.
 
 #### (2) Failure to certify
 

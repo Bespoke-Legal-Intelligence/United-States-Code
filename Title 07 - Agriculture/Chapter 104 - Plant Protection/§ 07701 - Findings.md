@@ -30,3 +30,7 @@ This chapter, referred to in pars. (4) and (9), was in the original “this titl
 
 Pub. L. 106–224, title IV, §401, June 20, 2000, 114 Stat. 438, provided that: “This title \[enacting this chapter, amending section 7759 of this title and section 129a of Title 21, Food and Drugs, and repealing sections 148, 148a, 148c to 148f, 149, 150, 150a to 150g, 150aa to 150jj, 151 to 154, 156 to 164, 164a, 167, 1651 to 1656, and 2801 to 2813 of this title, and provisions set out as notes under sections 147a, 150, 150aa, 151, and 1651 of this title\] may be cited as the ‘Plant Protection Act’.”
 
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

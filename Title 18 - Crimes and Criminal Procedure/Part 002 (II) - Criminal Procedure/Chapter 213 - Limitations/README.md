@@ -17,10 +17,13 @@
 | [3293\.](%C2%A7%2003293%20-%20Financial%20institution%20offenses.md) | Financial institution offenses. |
 | [3294\.](%C2%A7%2003294%20-%20Theft%20of%20major%20artwork.md) | Theft of major artwork. |
 | [3295\.](%C2%A7%2003295%20-%20Arson%20offenses.md) | Arson offenses. |
+| [3296\.](%C2%A7%2003296%20-%20Counts%20dismissed%20pursuant%20to%20a%20plea%20agreement.md) | Counts dismissed pursuant to a plea agreement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–273, div. B, title III, §3003(b), Nov. 2, 2002, 116 Stat. 1805, added item 3296.
 
 1996—Pub. L. 104–132, title VII, §708(c)(2), Apr. 24, 1996, 110 Stat. 1297, added item 3295.
 
@@ -56,3 +59,4 @@
 - [&sect; 03293 - Financial institution offenses](%C2%A7%2003293%20-%20Financial%20institution%20offenses.md)
 - [&sect; 03294 - Theft of major artwork](%C2%A7%2003294%20-%20Theft%20of%20major%20artwork.md)
 - [&sect; 03295 - Arson offenses](%C2%A7%2003295%20-%20Arson%20offenses.md)
+- [&sect; 03296 - Counts dismissed pursuant to a plea agreement](%C2%A7%2003296%20-%20Counts%20dismissed%20pursuant%20to%20a%20plea%20agreement.md)

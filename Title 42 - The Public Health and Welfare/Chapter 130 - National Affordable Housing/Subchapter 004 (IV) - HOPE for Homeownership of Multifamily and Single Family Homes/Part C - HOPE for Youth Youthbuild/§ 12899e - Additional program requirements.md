@@ -26,7 +26,7 @@ A Youthbuild program receiving assistance under this part shall be structured so
 
 #### (c) Authority restriction
 
-No provision of this part may be construed to authorize any agency, officer, or employee ofthe United States to exercise any direction, supervision, or control over the curriculum, program of instruction, administration, or personnel of any educational institution, school, or school system, or over the selection of library resources, textbooks, or other printed or published instructional materials by any educational institution or school system.
+No provision of this part may be construed to authorize any agency, officer, or employee of the United States to exercise any direction, supervision, or control over the curriculum, program of instruction, administration, or personnel of any educational institution, school, or school system, or over the selection of library resources, textbooks, or other printed or published instructional materials by any educational institution or school system.
 
 #### (d) State and local standards
 

@@ -22,7 +22,7 @@ The Director may utilize the administrative authorities otherwise available to t
 
 #### (e) Implementation
 
-The President is authorized to implement and carry out the provisions of this chapter and theConvention and shall designate through Executive order which agencies of the United States shall issue, amend, or revise the regulations in order to implement this chapter and the provisions of the Convention. The Director of the United States National Authority shall report to the Congress on the regulations that have been issued, implemented, or revised pursuant to this section.
+The President is authorized to implement and carry out the provisions of this chapter and the Convention and shall designate through Executive order which agencies of the United States shall issue, amend, or revise the regulations in order to implement this chapter and the provisions of the Convention. The Director of the United States National Authority shall report to the Congress on the regulations that have been issued, implemented, or revised pursuant to this section.
 
 (Pub. L. 105–277, div. I, title I, §101, Oct. 21, 1998, 112 Stat. 2681–860.)
 
@@ -38,7 +38,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. The Department of State shall be the United States National Authority (the “USNA”) for purposes of the Act and the Convention.
 
-Sec. 2. The USNA shall coordinate the implementation of the provisions of the Act and the Convention with an interagency group consisting of the Secretary of Defense, the Attorney General, the Secretary of Commerce, the Secretary of Energy, and the heads of such other agencies or departments, or their designees, I may consider necessary or advisable.
+Sec. 2. The USNA shall coordinate the implementation of the provisions of the Act and the Conventionwith an interagency group consisting of the Secretary of Defense, the Attorney General, the Secretary of Commerce, the Secretary of Energy, and the heads of such other agencies or departments, or their designees, I may consider necessary or advisable.
 
 Sec. 3. The Departments of State and Commerce, and other agencies as appropriate, each shall issue, amend, or revise regulations, orders, or directives as necessary to implement the Act and U.S. obligations under Article VI and related provisions of the Convention. Regulations under section 401(a) of the Act \[22 U.S.C. 6741(a)\] shall be issued by the Department of Commerce by a date specified by the USNA, which shall review and approve these regulations, in coordination with the interagency group designated in section 2 of this order, prior to their issuance.
 

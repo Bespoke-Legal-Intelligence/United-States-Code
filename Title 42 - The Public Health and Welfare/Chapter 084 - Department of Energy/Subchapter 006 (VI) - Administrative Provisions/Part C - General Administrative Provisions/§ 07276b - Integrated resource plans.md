@@ -12,7 +12,7 @@ The Administrator shall approve an integrated resource plan submitted as require
 
 &emsp;(2) Included a 2-year action plan and a 5-year action plan which describe specific actions the customer will take to implement its integrated resource plan.
 
-&emsp;(3) Designated “least-cost options” to be utilized by the customer for the purpose of providing reliable electric service to its retail consumers and explained the reasons why such options were selected.
+&emsp;(3) Designated “least-cost options” to be utilized by the customer for the purpose of providing reliable electric service to its retailconsumers and explained the reasons why such options were selected.
 
 &emsp;(4) To the extent practicable, minimized adverse environmental effects of new resource acquisitions.
 
@@ -48,7 +48,7 @@ Within 1 year after October 24, 1992, the Administrator shall, by regulation, re
 
 #### (f) Integrated resource planning cooperatives
 
-With the approval of the Administrator, customers within any State or region may form integrated resource planning cooperatives for the purposes of complying with sections 7275 to 7276cof this title, and such customers shall be allowed an additional 6 months to submit an initial integrated resource plan to the Administrator.
+With the approval of the Administrator, customers within any State or region may form integrated resource planning cooperatives for the purposes of complying with sections 7275 to 7276c of this title, and such customers shall be allowed an additional 6 months to submit an initial integrated resource plan to the Administrator.
 
 #### (g) Customers with more than 1 contract
 
@@ -56,7 +56,7 @@ If more than one long-term firm power service contract exists between the Admini
 
 #### (h) Program review
 
-Within 1 year after January 1, 1999, and at appropriate intervals thereafter, the Administrator shall initiate a public process to review the program established by this section. The Administrator is authorized at that time to revise the criteria set forth in subsection (b) of this section to reflect changes, if any, in technology, needs, or other developments.
+Within 1 year after January 1, 1999, and at appropriate intervals thereafter, the Administrator shall initiate a public process to review the program established by this section. The Administrator is authorized at that time to revise the criteria set forth in subsection (b) of thissection to reflect changes, if any, in technology, needs, or other developments.
 
 (Pub. L. 98–381, title II, §204, as added Pub. L. 102–486, title I, §114, Oct. 24, 1992, 106 Stat. 2800.)
 

@@ -1,6 +1,0 @@
-### §65. Omitted
-
-#### Codification
-
-Section, R.S. §1813; act June 20, 1874, ch. 337, §2, 18 Stat. 116, which related to limitation on contracts of the District of Columbia commissioners, was omitted as not having general applicability.
-

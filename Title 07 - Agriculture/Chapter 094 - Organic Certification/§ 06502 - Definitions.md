@@ -96,3 +96,7 @@ As used in this chapter:
 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in par. (16), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7401 of this title.
+

@@ -44,7 +44,7 @@ The Trust shall have all necessary and proper powers for the exercise of the aut
 
 #### (2) Reports
 
-&emsp;Not later than January 15 of each year, the Trust shall submit to the Secretary and theCommittees of Congress a comprehensive and detailed report of its operations, activities, and accomplishments for the prior year including information on the status of ecological, cultural, and financial resources being managed by the Trust, and benefits provided by the Preserve to local communities. The report shall also include a section that describes the Trust's goals for the current year.
+&emsp;Not later than January 15 of each year, the Trust shall submit to the Secretary and the Committees of Congress a comprehensive and detailed report of its operations, activities, and accomplishments for the prior year including information on the status of ecological, cultural, and financial resources being managed by the Trust, and benefits provided by the Preserve to local communities. The report shall also include a section that describes the Trust's goals for the current year.
 
 #### (3) Annual budget
 

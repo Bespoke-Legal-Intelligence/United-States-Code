@@ -110,7 +110,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(i) the individual's premium under this section for the month is not (and will not be) paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof; and
 
-&emsp;(ii) in each of 84 months before such month, the individual was enrolled in this part underthis section and the payment of the individual's premium under this section for the month was not paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof.
+&emsp;(ii) in each of 84 months before such month, the individual was enrolled in this part under this section and the payment of the individual's premium under this section for the month was not paid for, in whole or in part, by a State (under subchapter XIX of this chapter or otherwise), a political subdivision of a State, or an agency or instrumentality of one or more States or political subdivisions thereof.
 
 (B) A person described in this subparagraph for a month is a person who establishes to the satisfaction of the Secretary that, as of the last day of the previous month—
 
@@ -120,7 +120,7 @@ The provisions of section 1395p of this title (except subsection (f) thereof), s
 
 &emsp;(iii) the person had been married to an individual for a period of at least 1 year (at the time of such individual's death) if (I) the individual was described in clause (i) at the time of the individual's death, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the individual's death; or
 
-&emsp;(iv) the person is divorced from an individual and had been married to the individual for a period of at least 10 years (at the time of the divorce) if (I) the individual was described in clause (i) at the time of the divorce, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the divorce.
+&emsp;(iv) the person is divorced from an individual and had been married to the individual for a period of at least 10 years (at the time of thedivorce) if (I) the individual was described in clause (i) at the time of the divorce, or (II) the person met the requirement of clause (i)(II) and the individual was described in clause (i)(I) at the time of the divorce.
 
 (C) For purposes of subparagraph (B)(i)(I), the term “qualified State or local government retirement system” means a retirement system that—
 
@@ -156,7 +156,7 @@ Amounts paid to the Secretary for coverage under this section shall be deposited
 
 (B) For purposes of this subsection, section 1395v(d)(1) of this title shall be applied by substituting “section 1395i–2 of this title” for “section 1395r of this title” and “subsection (c)(6) (with reference to subsection (b) of section 1395r of this title)” for “subsection (b).”.<sup>2</sup>
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat.1374; amended Pub. L. 98–21, title VI, §606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425; Pub. L. 106–554, §1(a)(6) \[title III, §331(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1818, as added Pub. L. 92–603, title II, §202, Oct. 30, 1972, 86 Stat. 1374; amended Pub. L. 98–21, title VI, §606(a)(3)(D), (b), Apr. 20, 1983, 97 Stat. 170, 171; Pub. L. 98–369, div. B, title III, §§2315(e), 2354(b)(3), (4), July 18, 1984, 98 Stat. 1080, 1100; Pub. L. 99–272, title IX, §9124(a), Apr. 7, 1986, 100 Stat. 168; Pub. L. 100–203, title IV, §4009(j)(9), Dec. 22, 1987, as added Pub. L. 100–360, title IV, §411(b)(8)(D), July 1, 1988, 102 Stat. 772; Pub. L. 100–360, title I, §103, July 1, 1988, 102 Stat. 687; Pub. L. 100–485, title VI, §608(d)(2), Oct. 13, 1988, 102 Stat. 2413; Pub. L. 101–239, title VI, §§6012(a)(1), 6013(a), Dec. 19, 1989, 103 Stat. 2161, 2163; Pub. L. 101–508, title IV, §4008(g)(1), (m)(3)(D), Nov. 5, 1990, 104 Stat. 1388–45, 1388–54; Pub. L. 103–66, title XIII, §13508(a), Aug. 10, 1993, 107 Stat. 579; Pub. L. 105–33, title IV, §4453(a), Aug. 5, 1997, 111 Stat. 425; Pub. L. 106–554, §1(a)(6) \[title III, §331(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–502.)
 
 #### References in Text
 

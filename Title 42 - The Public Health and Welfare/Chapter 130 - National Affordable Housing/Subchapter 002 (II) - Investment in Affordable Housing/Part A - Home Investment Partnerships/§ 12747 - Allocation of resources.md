@@ -10,7 +10,7 @@
 
 #### (3) <sup>1</sup> Insular areas
 
-&emsp;For each fiscal year, of any amounts approved in appropriation Acts to carry out this subchapter, the Secretary shall reserve for grants to the insular areas the greater of (A) $750,000, or (B) 0.2 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amounts reserved under this paragraph among the insular areas pursuant to specific criteria for such distribution, which shall be contained in a regulation issued by the Secretary.
+&emsp;For each fiscal year, of any amounts approved in appropriation Acts to carry out this subchapter, the Secretary shall reserve for grants to the insular areas the greater of (A) $750,000, or (B) 0.2 percent of the amounts appropriated under such Acts. The Secretary shall provide for the distribution of amountsreserved under this paragraph among the insular areas pursuant to specific criteria for such distribution, which shall be contained in a regulation issued by the Secretary.
 
 #### (b) Formula allocation
 
@@ -30,7 +30,7 @@
 
 #### (D) Weights
 
-&emsp;&emsp;When allocation is made among States, the Secretary shall apply the formula insubparagraph (A) giving 20 percent weight to measures of need for the whole State and 80 percent weight to measures of need among units of general local government that are not receiving an allocation under section 12746(1) of this title.
+&emsp;&emsp;When allocation is made among States, the Secretary shall apply the formula in subparagraph (A) giving 20 percent weight to measures of need for the whole State and 80 percent weight to measures of need among units of general local government that are not receiving an allocation under section 12746(1) of this title.
 
 #### (E) Adjustments
 
@@ -108,7 +108,7 @@ The Secretary shall establish objective criteria for making direct reallocations
 
 1996—Subsec. (a)(1). Pub. L. 104–330, §505(a)(1)(A), struck out “reserving amounts under paragraph (2) for Indian tribes and after” after “After”.
 
-Subsec. (a)(2). Pub. L. 104–330, §505(a)(1)(B), struck out heading and text of par. (2). Text read as follows: “For each fiscal year, of the amount approved in an appropriations Act to carry out this subchapter, the Secretary shall reserve for grants to Indian tribes 1 percent of the amount appropriated under such section. The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of a competition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
+Subsec. (a)(2). Pub. L. 104–330, §505(a)(1)(B), struck out heading and text of par. (2). Text read as follows: “For each fiscal year, of the amount approved in an appropriations Act to carry out this subchapter, the Secretary shall reserve for grants to Indian tribes 1 percent of the amount appropriated under such section. The Secretary shall provide for distribution of amounts under this paragraph to Indian tribes on the basis of acompetition conducted pursuant to specific criteria for the selection of Indian tribes to receive such amounts. The criteria shall be contained in a regulation promulgated by the Secretary after notice and public comment.”
 
 1992—Subsec. (a)(1). Pub. L. 102–550, §211(a)(2)(A), added first sentence and struck out former first sentence which read as follows: “After reserving amounts for Indian tribes as required by paragraph (2) of this subsection and after reserving amounts for the insular areas under paragraph (3), the Secretary shall allocate funds approved in an appropriations Act to carry out this subchapter by formula as provided in subsection (b) of this section.”
 

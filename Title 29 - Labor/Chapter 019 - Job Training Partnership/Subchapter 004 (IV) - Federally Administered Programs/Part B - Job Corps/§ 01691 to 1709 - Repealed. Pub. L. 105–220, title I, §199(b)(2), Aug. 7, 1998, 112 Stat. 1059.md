@@ -8,7 +8,7 @@ Section 1693, Pub. L. 97–300, title IV, §423, Oct. 13, 1982, 96 Stat. 1370; P
 
 Section 1694, Pub. L. 97–300, title IV, §424, Oct. 13, 1982, 96 Stat. 1371, contained general provisions relating to screening and selection of applicants. See section 2885 of this title.
 
-Section 1695, Pub. L. 97–300, title IV, §425, Oct. 13, 1982, 96 Stat. 1372; Pub. L. 98–473, title II, §231, Oct. 12, 1984, 98 Stat. 2031, contained special limitations relating to screening and selection of applicants. See section 2885 of this title.
+Section 1695, Pub. L. 97–300, title IV, §425, Oct. 13, 1982, 96 Stat. 1372; Pub. L. 98–473, title II, §231, Oct. 12,1984, 98 Stat. 2031, contained special limitations relating to screening and selection of applicants. See section 2885 of this title.
 
 Section 1696, Pub. L. 97–300, title IV, §426, Oct. 13, 1982, 96 Stat. 1372; Pub. L. 102–367, title IV, §402(b), Sept. 7, 1992, 106 Stat. 1076, related to enrollment and assignment. See section 2886 of this title.
 

@@ -10,7 +10,7 @@
 
 &emsp;(3) by authorizing the Secretary of Labor to set mandatory occupational safety and health standards applicable to businesses affecting interstate commerce, and by creating an Occupational Safety and Health Review Commission for carrying out adjudicatory functions under this chapter;
 
-&emsp;(4) by building upon advances already made through employer and employee initiative for providing safe and healthful working conditions;
+&emsp;(4) by building upon advances already made through employer and employee initiative forproviding safe and healthful working conditions;
 
 &emsp;(5) by providing for research in the field of occupational safety and health, including the psychological factors involved, and by developing innovative methods, techniques, and approaches for dealing with occupational safety and health problems;
 

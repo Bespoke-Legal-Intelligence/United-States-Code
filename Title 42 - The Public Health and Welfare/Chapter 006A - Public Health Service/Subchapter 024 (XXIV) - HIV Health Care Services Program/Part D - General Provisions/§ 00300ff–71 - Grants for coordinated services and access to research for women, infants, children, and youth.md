@@ -52,7 +52,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (A) In general
 
-&emsp;&emsp;From among the research protocols described in paragraph (1)(B)(ii), the Secretary shall establish a list of research protocols that are appropriate for purposes of subsection (a)(1) of this section. Such list shallbe established only after consultation with public and private entities that conduct such research, and with providers of services under subsection (a) of this section and recipients of such services.
+&emsp;&emsp;From among the research protocols described in paragraph (1)(B)(ii), the Secretary shall establish a list of research protocols that are appropriate for purposes of subsection (a)(1) of this section. Such list shall be established only after consultation with public and private entities that conduct such research, and with providers of services under subsection (a) of this section and recipients of such services.
 
 #### (B) Discretion of Secretary
 
@@ -114,7 +114,7 @@ The Secretary shall develop and implement a plan that provides for the coordinat
 
 #### (1) Determination by Secretary
 
-&emsp;Not later than 12 months after October 20, 2000, the Secretary, in consultation withgrantees under this part, shall conduct a review of the administrative, program support, and direct service-related activities that are carried out under this part to ensure that eligible individuals have access to quality, HIV-related health and support services and research opportunities under this part, and to support the provision of such services.
+&emsp;Not later than 12 months after October 20, 2000, the Secretary, in consultation with grantees under this part, shall conduct a review of the administrative, program support,and direct service-related activities that are carried out under this part to ensure that eligible individuals have access to quality, HIV-related health and support services and research opportunities under this part, and to support the provision of such services.
 
 #### (2) Requirements
 

@@ -152,7 +152,3 @@ References.—References in this section to voting stockholders shall include su
 
 Section 414(a) of Pub. L. 100–233, as amended by Pub. L. 100–399, title IV, §406(a), Aug. 17, 1988, 102 Stat. 1000, provided that: “Notwithstanding section 3.2 \[probably means section 3.2 of Pub. L. 92–181, 12 U.S.C. 2123\], the initial board of each district bank for cooperatives shall be composed of the members of the district board (which is dissolved upon the creation of the district Farm Credit Bank) elected by the stockholders of the bank for cooperatives and one member elected by the other two members, which member shall not be a director, officer, employee, or stockholder of a System institution. The initial board shall operate for such term as is agreed to by the members of the board, except that such period shall not exceed two years. Thereafter, the board shall be elected and serve in accordance with section 3.0 of the Farm Credit Act of 1971 \[12 U.S.C. 2121\].”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 2206a of this title.
-

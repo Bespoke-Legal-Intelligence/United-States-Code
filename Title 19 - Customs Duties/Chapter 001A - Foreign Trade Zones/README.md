@@ -50,7 +50,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 58c, 1484, 3332 of this title; title 25 section 941m; title 49 section 70117.
+This chapter is referred to in sections 58c, 1484, 3332 of this title; title 6 section 212; title 25 section 941m; title 49 section 70117.
 
 
 ---

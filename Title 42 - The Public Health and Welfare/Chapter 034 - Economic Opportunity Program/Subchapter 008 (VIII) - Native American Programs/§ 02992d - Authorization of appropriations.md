@@ -10,7 +10,7 @@
 
 &emsp;(A) establishing demonstration projects to conduct research related to Native American studies and Indian policy development; and
 
-&emsp;(B) continuing the development of a detailed plan, based in part on the results of the projects, for the establishment of a National Center for Native American Studies and Indian Policy Development.
+&emsp;(B) continuing the development of a detailed plan, based in part on the results of theprojects, for the establishment of a National Center for Native American Studies and Indian Policy Development.
 
 (2) Such a plan shall be delivered to the Congress not later than 30 days after September 30, 1992.
 

@@ -50,7 +50,7 @@ Each State program under this section shall provide for the implementation, at a
 
 #### (1) Review and approval
 
-&emsp;Within 6 months after the date of submission by a State of a program pursuant to this section, the Secretary and the Administrator shall jointly review the program. The program shall be approved if—
+&emsp;Within 6 months after the date of submission by a State of a program pursuant to this section, the Secretary and the Administratorshall jointly review the program. The program shall be approved if—
 
 &emsp;&emsp;(A) the Secretary determines that the portions of the program under the authority of the Secretary meet the requirements of this section and the Administrator concurs with that determination; and
 
@@ -90,7 +90,7 @@ Each State program under this section shall provide for the implementation, at a
 
 &emsp;&emsp;(D) For fiscal year 1999 and each fiscal year thereafter, 30 percent of the amount awarded for fiscal year 1998 or other preceding fiscal year.
 
-> &emsp;The Administrator shall make amounts withheld under this paragraph available to Stateshaving programs approved pursuant to this subsection.
+> &emsp;The Administrator shall make amounts withheld under this paragraph available to States having programs approved pursuant to this subsection.
 
 #### (d) Technical assistance
 

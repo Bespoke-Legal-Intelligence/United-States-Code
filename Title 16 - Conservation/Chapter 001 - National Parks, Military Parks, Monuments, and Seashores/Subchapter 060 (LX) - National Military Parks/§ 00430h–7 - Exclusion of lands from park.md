@@ -16,13 +16,13 @@ The park boundary is hereby revised to exclude those lands depicted as “Propos
 
 #### (c) Excess property
 
-Any lands not conveyed pursuant to subsection (b) of this section shall be reported to the Administrator of General Services as excess to the needs of the Department of the Interior and shall be subject to transfer or disposition in accordance with the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\].
+Any lands not conveyed pursuant to subsection (b) of this section shall be reported to the Administrator of General Services as excess to the needs of the Department of the Interior and shall be subject to transfer or disposition in accordance with the Federal Property and Administrative Services Act of 1949, as amended.
 
 (Pub. L. 101–442, title I, §102, Oct. 18, 1990, 104 Stat. 1019.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Section Referred to in Other Sections
 

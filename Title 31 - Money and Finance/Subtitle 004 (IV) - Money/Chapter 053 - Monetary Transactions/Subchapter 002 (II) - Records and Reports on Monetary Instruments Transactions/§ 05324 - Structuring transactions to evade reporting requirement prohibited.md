@@ -2,7 +2,7 @@
 
 (a)
 
-Domestic Coin and Currency Transactions Involving Financial Institutions.—Noperson shall, for the purpose of evading the reporting requirements of section 5313(a) or 5325 or any regulation prescribed under any such section, the reporting or recordkeeping requirements imposed by any order issued under section 5326, or the recordkeeping requirements imposed by any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508—
+Domestic Coin and Currency Transactions Involving Financial Institutions.—No person shall, for the purpose of evading the reporting requirements of section 5313(a) or 5325 or any regulation prescribed under any such section, the reporting or recordkeeping requirements imposed by any order issued under section 5326, or the recordkeeping requirements imposed by any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508—
 
 &emsp;(1) cause or attempt to cause a domestic financial institution to fail to file a report required under section 5313(a) or 5325 or any regulation prescribed under any such section, to file a report or to maintain a record required by an order issued under section 5326, or to maintain a record required pursuant to any regulation prescribed under section 21 of the Federal Deposit Insurance Act or section 123 of Public Law 91–508;
 
@@ -62,7 +62,7 @@ Subsecs. (b) to (d). Pub. L. 107–56, §365(b)(1), added subsec. (b) and redesi
 
 1994—Subsec. (a). Pub. L. 103–322, §330017(a)(2) and Pub. L. 103–325, §413(a)(2), amended subsec. (a), introductory provisions, identically, substituting “section 5313(a) or 5325 or any regulation prescribed under any such section” for “section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325” and striking out “with respect to such transaction” before dash.
 
-Subsec. (a)(1), (2). Pub. L. 103–322, §330017(a)(2)(A) and Pub. L. 103–325, §413(a)(2)(A), amended pars. (1) and (2) identically, substituting “section 5313(a) or 5325 or anyregulation prescribed under any such section” for “section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325”.
+Subsec. (a)(1), (2). Pub. L. 103–322, §330017(a)(2)(A) and Pub. L. 103–325, §413(a)(2)(A), amended pars. (1) and (2) identically, substituting “section 5313(a) or 5325 or any regulation prescribed under any such section” for “section 5313(a), section 5325, or the regulations issued thereunder or section 5325 or regulations prescribed under such section 5325”.
 
 Subsec. (c). Pub. L. 103–325, §411(a), added subsec. (c).
 

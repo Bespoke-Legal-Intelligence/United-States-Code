@@ -10,5 +10,5 @@ For prior sections 502 of Pub. L. 90–351 and prior sections 3752 of this title
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3754, 3756, 3760 of this title.
+This section is referred to in section 3756 of this title.
 

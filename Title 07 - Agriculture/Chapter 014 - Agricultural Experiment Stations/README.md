@@ -23,7 +23,7 @@
 | [361g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000361g%20-%20Duties%20of%20Secretary%3B%20ascertainment%20of%20entitlement%20of%20State%20to%20funds%3B%20plans%20of%20work.md) | Duties of Secretary; ascertainment of entitlement of State to funds; plans of work. |
 | (a) | Duties of Secretary. |
 | (b) | Ascertainment of entitlement. |
-| (c) | Effect of failure to expend full allotment. |
+| (c) | Carryover. |
 | (d) | Plan of work required. |
 | (e) | Requirements related to plan of work. |
 | (f) | Research protocols. |
@@ -62,14 +62,7 @@
 | (c) | Criteria for approval. |
 | (d) | Evaluation of proposals. |
 | (e) | National or multistate needs served by ARS facilities. |
-| [390b.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390b%20-%20Task%20force%20on%2010-year%20strategic%20plan%20for%20agricultural%20research%20facilities.md) | Task force on 10-year strategic plan for agricultural research facilities. |
-| (a) | Establishment. |
-| (b) | Composition. |
-| (c) | Duties. |
-| (d) | 10-year strategic plan. |
-| (e) | Applicability of Federal Advisory Committee Act. |
-| (f) | “Agricultural research facility” defined. |
-| (g) | Comprehensive research capacity. |
+| [390b.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390b%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VII%2C%20%C2%A77308%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20455.md) | Repealed. |
 | [390c.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390c%20-%20Applicability%20of%20Federal%20Advisory%20Committee%20Act.md) | Applicability of Federal Advisory Committee Act. |
 | [390d.](Subchapter%20003%20%28III%29%20-%20Research%20Facilities/%C2%A7%2000390d%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | In general. |

@@ -74,7 +74,7 @@ In subsection (a), before clause (1), the words “Notwithstanding any other pro
 
 Subsection (b) is substituted for 50 App.:1622b to eliminate unnecessary words.
 
-In subsection (c), the text of 50 App.:1622(g)(5) is omitted as obsolete because 50 App.:1621, 1622(f), and 1627(e) were repealed by section 602(a)(1) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63 Stat. 399). The words “An interest in surplus property that could be used at a public airport” are substituted for “All surplus property within the purview of this subsection” for clarity. The words “elsewhere in this Act or other applicable” are omitted as surplus. The word “law” is substituted for “Federal Statute” for consistency in the revised title and with other titles of the Code.
+In subsection (c), the text of 50 App.:1622(g)(5) is omitted as obsolete because 50 App.:1621, 1622(f), and 1627(e) were repealed by section 602(a)(1) of the Federal Property and Administrative Services Act of 1949 (ch. 288, 63Stat. 399). The words “An interest in surplus property that could be used at a public airport” are substituted for “All surplus property within the purview of this subsection” for clarity. The words “elsewhere in this Act or other applicable” are omitted as surplus. The word “law” is substituted for “Federal Statute” for consistency in the revised title and with other titles of the Code.
 
 #### References in Text
 

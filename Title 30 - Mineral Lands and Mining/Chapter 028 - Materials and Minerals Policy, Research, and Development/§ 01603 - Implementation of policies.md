@@ -10,7 +10,7 @@ For the purpose of implementing the policies set forth in section 1602 of this t
 
 &emsp;&emsp;(B) enhanced methods or processes for the more efficient production and use of renewable and nonrenewable resources;
 
-&emsp;&emsp;(C) improved methods for the extraction, processing, use, recovery, and recycling ofmaterials which encourage the conservation of materials, energy, and the environment; and
+&emsp;&emsp;(C) improved methods for the extraction, processing, use, recovery, and recycling of materials which encourage the conservation of materials, energy, and the environment; and
 
 &emsp;&emsp;(D) improved understanding of current and new materials performance, processing, substitution, and adaptability in engineering designs;
 
@@ -28,7 +28,7 @@ For the purpose of implementing the policies set forth in section 1602 of this t
 
 &emsp;&emsp;(B) Federal and State institutions having shared interests or objectives;
 
-&emsp;(8) assess Federal policies which adversely or positively affect all stages of the materials cycle, from exploration to final product recycling and disposal including but not limited to, financial assistance and tax policies for recycled and virgin sources of materials and make recommendations for equalizing any existing imbalances, or removing any impediments, which may be created by the application of Federal law and regulations to the market for materials; and
+&emsp;(8) assess Federal policies which adversely or positively affect all stages of the materialscycle, from exploration to final product recycling and disposal including but not limited to, financial assistance and tax policies for recycled and virgin sources of materials and make recommendations for equalizing any existing imbalances, or removing any impediments, which may be created by the application of Federal law and regulations to the market for materials; and
 
 &emsp;(9) assess the opportunities for the United States to promote cooperative multilateral and bilateral agreements for materials development in foreign nations for the purpose of increasing the reliability of materials supplies to the Nation.
 

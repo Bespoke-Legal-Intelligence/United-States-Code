@@ -4,9 +4,17 @@
 
 (b) For the purpose of this section an “eligible recipient” means the next of kin, a relative or friend upon request, or an authorized service representative acting on behalf of such relative or friend.
 
-(Added Pub. L. 89–88, §1(a), July 24, 1965, 79 Stat. 264; amended Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
+(c) A certificate may not be furnished under the program under subsection (a) on behalf of a deceased person described in section 2411(b) of this title.
+
+(Added Pub. L. 89–88, §1(a), July 24, 1965, 79 Stat. 264; amended Pub. L. 102–83, §4(b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405; Pub. L. 107–330, title II, §201(a), Dec. 6, 2002, 116 Stat. 2823.)
 
 #### Amendments
 
+2002—Subsec. (c). Pub. L. 107–330 added subsec. (c).
+
 1991—Subsec. (a). Pub. L. 102–83 substituted “Secretary” for “Administrator”.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–330, title II, §201(d), Dec. 6, 2002, 116 Stat. 2823, provided that: “The amendments made by this section \[amending this section and sections 2301 and 2306 of this title\] shall apply with respect to deaths occurring on or after the date of the enactment of this Act \[Dec. 6, 2002\].”
 

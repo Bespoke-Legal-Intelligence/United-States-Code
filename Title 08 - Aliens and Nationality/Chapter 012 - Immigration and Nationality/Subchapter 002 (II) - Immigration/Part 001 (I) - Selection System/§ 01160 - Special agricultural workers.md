@@ -26,7 +26,7 @@
 
 #### (2) Adjustment to permanent residence
 
-&emsp;The Attorney General shall adjust the status of any alien provided lawful temporary resident status under paragraph (1) to that of analien lawfully admitted for permanent residence on the following date:
+&emsp;The Attorney General shall adjust the status of any alien provided lawful temporary resident status under paragraph (1) to that of an alien lawfully admitted for permanent residence on the following date:
 
 #### (A) Group 1
 
@@ -34,7 +34,7 @@
 
 #### (B) Group 2
 
-&emsp;&emsp;In the case of aliens to which subparagraph (A) does not apply, the adjustment shall occur on the day after the last day of the two-year period that begins on the later of (I) the date the alien was granted such temporary resident status, or (II) the day after the last day of the application period described in paragraph (1)(A).
+&emsp;&emsp;In the case of aliens to which subparagraph (A) does not apply, the adjustment shall occur on the day after the last day ofthe two-year period that begins on the later of (I) the date the alien was granted such temporary resident status, or (II) the day after the last day of the application period described in paragraph (1)(A).
 
 #### (C) Numerical limitation
 
@@ -90,11 +90,11 @@
 
 #### (B) Documentation of work history
 
-&emsp;&emsp;(i) An alien applying for adjustment of status under subsection (a)(1) of this sectionhas the burden of proving by a preponderance of the evidence that the alien has worked the requisite number of man-days (as required under subsection (a)(1)(B)(ii) of this section).
+&emsp;&emsp;(i) An alien applying for adjustment of status under subsection (a)(1) of this section has the burden of proving by a preponderance of the evidence that the alien has worked the requisite number of man-days (as required under subsection (a)(1)(B)(ii) of this section).
 
 &emsp;&emsp;(ii) If an employer or farm labor contractor employing such an alien has kept proper and adequate records respecting such employment, the alien's burden of proof under clause (i) may be met by securing timely production of those records under regulations to be promulgated by the Attorney General.
 
-&emsp;&emsp;(iii) An alien can meet such burden of proof if the alien establishes that the alien has in fact performed the work described in subsection (a)(1)(B)(ii) of this section by producing sufficient evidence to show the extent of that employment as a matter of just and reasonable inference. In such a case, the burden then shifts to the Attorney General to disprove the alien's evidence with a showing which negates the reasonableness of the inference to be drawn from the evidence.
+&emsp;&emsp;(iii) An alien can meet such burden of proof if the alien establishes that the alien has in fact performed the work described in subsection (a)(1)(B)(ii) of this section by producing sufficient evidence to show the extent of that employment as a matter of just and reasonable inference. In such a case, the burden then shifts to the Attorney Generalto disprove the alien's evidence with a showing which negates the reasonableness of the inference to be drawn from the evidence.
 
 #### (4) Treatment of applications by designated entities
 
@@ -228,7 +228,7 @@
 
 #### (B) Standard for review
 
-&emsp;&emsp;Such administrative appellate review shall be based solely upon the administrativerecord established at the time of the determination on the application and upon such additional or newly discovered evidence as may not have been available at the time of the determination.
+&emsp;&emsp;Such administrative appellate review shall be based solely upon the administrative record established at the time of the determination on the application and upon such additional or newly discovered evidence as may not have been available at the time of the determination.
 
 #### (3) Judicial review
 
@@ -341,6 +341,10 @@ Amendment by Pub. L. 101–649 applicable to applications for adjustment of stat
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Commission on Agricultural Workers
 

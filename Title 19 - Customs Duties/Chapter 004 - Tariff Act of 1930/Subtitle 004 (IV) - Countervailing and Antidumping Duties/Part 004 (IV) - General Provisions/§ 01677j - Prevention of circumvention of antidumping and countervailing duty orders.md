@@ -124,7 +124,7 @@
 
 &emsp;For purposes of determining whether merchandise developed after an investigation is initiated under this subtitle or section 1303 <sup>2</sup> of this title (hereafter in this paragraph referred to as the “later-developed merchandise”) is within the scope of an outstanding antidumping or countervailing duty order issued under this subtitle or section 1303 <sup>2</sup> of this title as a result of such investigation, the administering authority shall consider whether—
 
-&emsp;&emsp;(A) the later-developed merchandise has the same general physical characteristics asthe merchandise with respect to which the order was originally issued (hereafter in this paragraph referred to as the “earlier product”),
+&emsp;&emsp;(A) the later-developed merchandise has the same general physical characteristics as the merchandise with respect to which the order was originally issued (hereafter in this paragraph referred to as the “earlier product”),
 
 &emsp;&emsp;(B) the expectations of the ultimate purchasers of the later-developed merchandise are the same as for the earlier product,
 
@@ -142,7 +142,7 @@
 
 &emsp;&emsp;(A) is classified under a tariff classification other than that identified in the petition or the administering authority's prior notices during the proceeding, or
 
-&emsp;&emsp;(B) permits the purchaser to perform additional functions, unless such additional functions constitute the primary use of the merchandise and the cost of the additional functions constitute more than a significant proportion of the total cost of production of the merchandise.
+&emsp;&emsp;(B) permits the purchaser to perform additional functions, unless such additionalfunctions constitute the primary use of the merchandise and the cost of the additional functions constitute more than a significant proportion of the total cost of production of the merchandise.
 
 #### (e) Commission advice
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 
 #### Effective Date
 
-Section applicable with respect to articles entered, or withdrawn from warehouse for consumption, on orafter Aug. 23, 1988, see section 1337(d) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 1671 of this title.
+Section applicable with respect to articles entered, or withdrawn from warehouse for consumption, on or after Aug. 23, 1988, see section 1337(d) of Pub. L. 100–418, set out as an Effective Date of 1988 Amendment note under section 1671 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

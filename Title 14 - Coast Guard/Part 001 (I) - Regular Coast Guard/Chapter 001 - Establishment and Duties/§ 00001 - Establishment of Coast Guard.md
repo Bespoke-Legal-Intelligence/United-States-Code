@@ -1,8 +1,8 @@
 ### §1. Establishment of Coast Guard
 
-The Coast Guard as established January 28, 1915, shall be a military service and a branch of the armed forces of the United States at all times. The Coast Guard shall be a service in the Department of Transportation, except when operating as a service in the Navy.
+The Coast Guard as established January 28, 1915, shall be a military service and a branch of the armed forces of the United States at all times. The Coast Guard shall be a service in the Department of Homeland Security, except when operating as a service in the Navy.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 496; Pub. L. 94–546, §1(1), Oct. 18, 1976, 90 Stat. 2519.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 496; Pub. L. 94–546, §1(1), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Historical and Revision Notes
 
@@ -16,9 +16,23 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
+2002—Pub. L. 107–296 substituted “Department of Homeland Security” for “Department of Transportation”.
+
 1976—Pub. L. 94–546 substituted “Department of Transportation” for “Treasury Department”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–295, title III, §301, Nov. 25, 2002, 116 Stat. 2102, provided that: “This title \[amending sections 259, 260, 271, 336, and 511 of this title, sections 1203, 1231a, 2073, 2302, and 2752 of Title 33, Navigation and Navigable Waters, and sections 2110, 2302, 4508, 7302, 8701, and 13110 of Title 46, Shipping, and enacting provisions set out as notes under sections 88 and 92 of this title and section 1113 of Title 33\] may be cited as the ‘Coast Guard Personnel and Maritime Safety Act of 2002’.”
+
+Pub. L. 107–295, title IV, §401, Nov. 25, 2002, 116 Stat. 2113, provided that: “This title \[see Tables for classification\] may be cited as the ‘Omnibus Maritime and Coast Guard Improvements Act of 2002’.”
+
 #### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Coast Guard transferred to Department of Transportation and all functions, powers, and duties, relating to Coast Guard, of Secretary of the Treasury and of other offices and officers of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 931. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of this title. See section 108 of Title 49, Transportation.
 

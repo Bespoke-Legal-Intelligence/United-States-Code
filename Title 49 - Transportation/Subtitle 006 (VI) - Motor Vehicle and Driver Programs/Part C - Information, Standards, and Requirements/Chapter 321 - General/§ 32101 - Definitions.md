@@ -118,7 +118,7 @@ Oct. 20, 1972, Pub. L. 92–513, §2(1)–(6) (words before semicolon), (7)–(1
 
 15:1901(18).
 
-In clause (1), the text of 15:1901(11) is omitted as surplus because the complete title of the Secretary of Transportation is used the first time the term appears in a section. The definition of “property loss reduction standard” is combined with the definition of “bumper standard” because the former term is used only in thedefinition of the latter term. Before subclause (A), the words “the purpose of which is” and “eliminate” are omitted as surplus. In subclauses (A) and (B), the words “(or both)” are omitted as surplus. In subclause (A), the word “physical” is omitted as surplus.
+In clause (1), the text of 15:1901(11) is omitted as surplus because the complete title of the Secretary of Transportation is used the first time the term appears in a section. The definition of “property loss reduction standard” is combined with the definition of “bumper standard” because the former term is used only in the definition of the latter term. Before subclause (A), the words “the purpose of which is” and “eliminate” are omitted as surplus. In subclauses (A) and (B), the words “(or both)” are omitted as surplus. In subclause (A), the word “physical” is omitted as surplus.
 
 In clause (2), the words “of passenger motor vehicles” and “engaged” are omitted as surplus.
 

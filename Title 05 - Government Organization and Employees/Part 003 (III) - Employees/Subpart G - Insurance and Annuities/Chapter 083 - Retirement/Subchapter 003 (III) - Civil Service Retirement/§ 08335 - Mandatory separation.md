@@ -1,8 +1,8 @@
 ### §8335. Mandatory separation
 
-(a) An air traffic controller shall be separated from the service on the last day of the month in which he becomes 56 years of age. The Secretary, under such regulations as he may prescribe, may exempt a controller having exceptional skills and experience as a controller from the automatic separation provisions of this subsection until that controller becomes 61 years of age. The Secretary shall notify the controller in writing of the date of separation at least 60 days before that date. Action to separate the controller is not effective, without the consent of the controller, until the last day of the month in which the 60-day notice expires.
+(a) An air traffic controller shall be separated from the service on the last day of the month in which he becomes 56 years of age or completes the age and service requirements for an annuity under section 8336, whichever occurs later. The Secretary, under such regulations as he may prescribe, may exempt a controller having exceptional skills and experience as a controller from the automatic separation provisions of this subsection until that controller becomes 61 years of age. The Secretary shall notify the controller in writing of the date of separation at least 60 days before that date. Action to separate the controller is not effective, without the consent of the controller, until the last day of the month in which the 60-day notice expires.
 
-(b) A firefighter who is otherwise eligible for immediate retirement under section 8336(c) shall be separated from the service on the last day of the month in which such firefighter becomes 55 years of age or completes 20 years of service if then over that age. A law enforcement officer or nuclear materials courier who is otherwise eligible for immediate retirement under section 8336(c) shall be separated from the service on the last day of the month in which that officer or courier, as the case may be, becomes 57 years of age or completes 20 years of service if then over that age. The head of the agency, when in his judgment the public interest so requires, may exempt such an employee from automatic separation under this subsection until that employee becomes 60 years of age. The employing office shall notify the employee in writing of the date of separation at least 60 days in advance thereof. Action to separate the employee is not effective, without the consent of the employee, until the last day of the month in which the 60-day notice expires.
+(b) A law enforcement officer, firefighter, or nuclear materials courier who is otherwise eligible for immediate retirement under section 8336(c) shall be separated from the service on the last day of the month in which that officer, firefighter, or courier, as the case may be, becomes 57 years of age or completes 20 years of service if then over that age. The head of the agency, when in his judgment the public interest so requires, may exempt such an employee from automatic separation under this subsection until that employee becomes 60 years of age. The employing office shall notify the employee in writing of the date of separation at least 60 days in advance thereof. Action to separate theemployee is not effective, without the consent of the employee, until the last day of the month in which the 60-day notice expires.
 
 (c) A member of the Capitol Police who is otherwise eligible for immediate retirement under section 8336(m) shall be separated from the service on the last day of the month in which such member becomes 57 years of age or completes 20 years of service if then over that age. The Capitol Police Board, when in its judgment the public interest so requires, may exempt such a member from automatic separation under this subsection until that member becomes 60 years of age. The Board shall notify the member in writing of the date of separation at least 60 days in advance thereof. Action to separate the member is not effective, without the consent of the member, until the last day of the month in which the 60-day notice expires.
 
@@ -10,7 +10,7 @@
 
 (f) <sup>1</sup> The President, by Executive order, may exempt an employee (other than a member of the Capitol Police or the Supreme Court Police) from automatic separation under this section when he determines the public interest so requires.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 92–297, §4, May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §4, July 12, 1974, 88 Stat. 356; Pub. L. 95–256, §5(c), Apr. 6, 1978, 92 Stat. 191; Pub. L. 96–70, title III, §3302(e)(3), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 101–428, §2(b)(1)(A), (2), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–509, title V, §529 \[title IV, §409(a)\], Nov. 5, 1990, 104 Stat. 1427, 1468; Pub. L. 102–378, §2(60), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–283, title III, §307(a), July 22, 1994, 108 Stat. 1441; Pub. L. 105–261, div. C, title XXXI,§3154(d), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §141(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 571; Pub. L. 92–297, §4, May 16, 1972, 86 Stat. 144; Pub. L. 93–350, §4, July 12, 1974, 88 Stat. 356; Pub. L. 95–256, §5(c), Apr. 6, 1978, 92 Stat. 191; Pub. L. 96–70, title III, §3302(e)(3), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–347, §1(b), Sept. 12, 1980, 94 Stat. 1150; Pub. L. 101–428, §2(b)(1)(A), (2), Oct. 15, 1990, 104 Stat. 928; Pub. L. 101–509, title V, §529 \[title IV, §409(a)\], Nov. 5, 1990, 104 Stat. 1427, 1468; Pub. L. 102–378, §2(60), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 103–283, title III, §307(a), July 22, 1994, 108 Stat. 1441; Pub. L. 105–261, div. C, title XXXI, §3154(d), Oct. 17, 1998, 112 Stat. 2255; Pub. L. 106–553, §1(a)(2) \[title III, §308(b)(2)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–87; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §141(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–27, §2(a), Aug. 20, 2001, 115 Stat. 207; Pub. L. 107–67, title VI, §640(a), Nov. 12, 2001, 115 Stat. 554.)
 
 Historical and Revision Notes
 
@@ -35,6 +35,10 @@ Standard changes are made to conform with the definitions applicable and style o
 For definition of Secretary, referred to in subsec. (a), see section 2109 of this title.
 
 #### Amendments
+
+2001—Subsec. (a). Pub. L. 107–67 inserted before period at end of first sentence “or completes the age and service requirements for an annuity under section 8336, whichever occurs later”.
+
+Subsec. (b). Pub. L. 107–27 struck out first sentence which read “A firefighter who is otherwise eligible for immediate retirement under section 8336(c) shall be separated from the service on the last day of the month in which such firefighter becomes 55 years of age or completes 20 years of service if then over that age.” and, in second sentence, inserted “, firefighter,” after “law enforcement officer” and “that officer”.
 
 2000—Subsec. (c). Pub. L. 106–554 redesignated subsec. (d) as (c) and struck out former subsec. (c) which read as follows: “An employee of the Alaska Railroad in Alaska and an employee who is a citizen of the United States employed on the Isthmus of Panama by the Panama Canal Commission, who becomes 62 years of age and completes 15 years of service in Alaska or on the Isthmus of Panama shall be automatically separated from the service. The separation is effective on the last day of the month in which the employee becomes age 62 or completes 15 years of service in Alaska or on the Isthmus of Panama if then over that age. The employing office shall notify the employee in writing of the date of separation at least 60 days in advance thereof. Action to separate the employee is not effective, without the consent of the employee, until the last day of the month in which the 60-day notice expires.”
 
@@ -82,6 +86,10 @@ Subsecs. (f), (g). Pub. L. 95–256, §5(c)(2), redesignated subsecs. (f) and (g
 
 1972—Subsec. (f). Pub. L. 92–297 added subsec. (f).
 
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–67, title VI, §640(b), Nov. 12, 2001, 115 Stat. 554, provided that: “The amendment made by subsection (a) \[amending this section\] takes effect on the date of enactment \[Nov. 12, 2001\] with regard to any individual subject to chapter 83 of title 5, United States Code, who is employed as an air traffic controller on that date.”
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–553 effective on the first day of the first applicable pay period that begins on Dec. 21, 2000, and applicable only to an individual who is employed as a member of the Supreme Court Police after Dec. 21, 2000, see section 1(a)(2) \[title III, §308(i), (j)\] of Pub. L. 106–553, set out in a Supreme Court Police Retirement note under section 8331 of this title.
@@ -106,7 +114,7 @@ Amendment by Pub. L. 96–347 effective on 90th day after Sept. 12, 1980, see se
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date of 1978 Amendment
 

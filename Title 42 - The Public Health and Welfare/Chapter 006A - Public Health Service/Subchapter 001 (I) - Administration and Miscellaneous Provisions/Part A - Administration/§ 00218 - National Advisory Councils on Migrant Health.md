@@ -26,7 +26,7 @@ Section 14(a) of the Federal Advisory Committee Act, referred to in subsec. (d),
 
 #### Amendments
 
-1986—Pub. L. 99–570 redesignated former subsec. (e)(1) to (4) as subsecs. (a) to (d), respectively, in subsec. (c), further redesignated former cls. (A) and (B) as (1) and (2), respectively, and struck out former subsecs. (a) to (d), which related, respectively, to composition, qualifications, appointment and tenure of the National Advisory Mental Health Council and the National Advisory Council on Alcohol Abuse and Alcoholism; duties of the National Advisory Mental Health Council; duties of the National Advisory Council on Alcohol Abuse and Alcoholism; and the composition, qualifications, and duties of the National Advisory Council on Drug Abuse.
+1986—Pub. L. 99–570 redesignated former subsec. (e)(1) to (4) as subsecs. (a) to (d), respectively, in subsec. (c),further redesignated former cls. (A) and (B) as (1) and (2), respectively, and struck out former subsecs. (a) to (d), which related, respectively, to composition, qualifications, appointment and tenure of the National Advisory Mental Health Council and the National Advisory Council on Alcohol Abuse and Alcoholism; duties of the National Advisory Mental Health Council; duties of the National Advisory Council on Alcohol Abuse and Alcoholism; and the composition, qualifications, and duties of the National Advisory Council on Drug Abuse.
 
 Subsec. (c). Pub. L. 99–660 which directed that “section 300cc of this title” be substituted for “section 300aa of this title” could not be executed because the reference in question appeared in former subsec. (c) which was repealed by Pub. L. 99–570.
 
@@ -118,7 +118,7 @@ Amendment by Pub. L. 94–63 effective July 1, 1975, see section 608 of Pub. L. 
 
 #### Effective Date of 1974 Amendment
 
-Section 211(b) of Pub. L. 93–348, as amended by Pub. L. 94–278, title III, §301(b), Apr. 22, 1976, 90 Stat. 407;Pub. L. 94–573, §18(b), Oct. 21, 1976, 90 Stat. 2720; Pub. L. 95–203, §5(b), Nov. 23, 1977, 91 Stat. 1454, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect November 1, 1978.”
+Section 211(b) of Pub. L. 93–348, as amended by Pub. L. 94–278, title III, §301(b), Apr. 22, 1976, 90 Stat. 407; Pub. L. 94–573, §18(b), Oct. 21, 1976, 90 Stat. 2720; Pub. L. 95–203, §5(b), Nov. 23, 1977, 91 Stat. 1454, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect November 1, 1978.”
 
 #### Effective Date of 1972 Amendment
 

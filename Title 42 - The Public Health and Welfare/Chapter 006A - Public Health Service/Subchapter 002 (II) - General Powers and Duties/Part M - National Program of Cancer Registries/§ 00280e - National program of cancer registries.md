@@ -2,17 +2,47 @@
 
 #### (a) In general
 
-The Secretary, acting through the Director of the Centers for Disease Control, may make grants to States, or may make grants or enter into contracts with academic or nonprofit organizations designated by the State to operate the State's cancer registry in lieu of making a grant directly to the State, to support the operation of population-based, statewide cancer registries in order to collect, for each form of in-situ and invasive cancer (with the exception of basal cell and squamous cell carcinoma of the skin), data concerning—
+#### (1) Statewide cancer registries
 
-&emsp;(1) demographic information about each case of cancer;
+&emsp;The Secretary, acting through the Director of the Centers for Disease Control, may make grants to States, or may make grants or enter into contracts with academic or nonprofit organizations designated by the State to operate the State's cancer registry in lieu of making a grant directly to the State, to support the operation of population-based, statewide registries to collect, for each condition specified in paragraph (2)(A), data concerning—
 
-&emsp;(2) information on the industrial or occupational history of the individuals with the cancers, to the extent such information is available from the same record;
+&emsp;&emsp;(A) demographic information about each case of cancer;
 
-&emsp;(3) administrative information, including date of diagnosis and source of information;
+&emsp;&emsp;(B) information on the industrial or occupational history of the individuals with the cancers, to the extent such information is available from the same record;
 
-&emsp;(4) pathological data characterizing the cancer, including the cancer site, stage of disease (pursuant to Staging Guide), incidence, and type of treatment; and
+&emsp;&emsp;(C) administrative information, including date of diagnosis and source of information;
 
-&emsp;(5) other elements determined appropriate by the Secretary.
+&emsp;&emsp;(D) pathological data characterizing the cancer, including the cancer site, stage of disease (pursuant to Staging Guide), incidence, and type of treatment; and
+
+&emsp;&emsp;(E) other elements determined appropriate by the Secretary.
+
+#### (2) Cancer; benign brain-related tumors
+
+#### (A) In general
+
+&emsp;&emsp;For purposes of paragraph (1), the conditions referred to in this paragraph are the following:
+
+&emsp;&emsp;&emsp;(i) Each form of in-situ and invasive cancer (with the exception of basal cell and squamous cell carcinoma of the skin), including malignant brain-related tumors.
+
+&emsp;&emsp;&emsp;(ii) Benign brain-related tumors.
+
+#### (B) Brain-related tumor
+
+&emsp;&emsp;For purposes of subparagraph (A):
+
+&emsp;&emsp;&emsp;(i) The term “brain-related tumor” means a listed primary tumor (whether malignant or benign) occurring in any of the following sites:
+
+&emsp;&emsp;&emsp;&emsp;(I) The brain, meninges, spinal cord, cauda equina, a cranial nerve or nerves, or any other part of the central nervous system.
+
+&emsp;&emsp;&emsp;&emsp;(II) The pituitary gland, pineal gland, or craniopharyngeal duct.
+
+&emsp;&emsp;&emsp;(ii) The term “listed”, with respect to a primary tumor, means a primary tumor that is listed in the International Classification of Diseases for Oncology (commonly referred to as the ICD–O).
+
+&emsp;&emsp;&emsp;(iii) The term “International Classification of Diseases for Oncology” means a classification system that includes topography (site) information and histology (cell type information) developed by the World Health Organization, in collaboration with international centers, to promote international comparability in the collection, classification, processing, and presentation of cancer statistics. The ICD–O system is a supplement to the International Statistical Classification of Diseases and Related Health Problems (commonly known as the ICD) and is the standard coding system used by cancer registries worldwide. Such term includes any modification made to such system for purposes of the United States. Such term further includes any published classification system that is internationally recognized as a successor to the classification system referred to in the first sentence of this clause.
+
+#### (C) Statewide cancer registry
+
+&emsp;&emsp;References in this section to cancer registries shall be considered to be references to registries described in this subsection.
 
 #### (b) Matching funds
 
@@ -24,13 +54,13 @@ The Secretary, acting through the Director of the Centers for Disease Control, m
 
 &emsp;(A) Non-Federal contributions required in paragraph (1) may be in cash or in kind, fairly evaluated, including plant, equipment, or services. Amounts provided by the Federal Government, or services assisted or subsidized to any significant extent by the Federal Government, may not be included in determining the amount of such non-Federal contributions.
 
-&emsp;(B) With respect to a State in which the purpose described in subsection (a) of this section is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) of this section is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by thissubsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
+&emsp;(B) With respect to a State in which the purpose described in subsection (a) of this section is to be carried out, the Secretary, in making a determination of the amount of non-Federal contributions provided under paragraph (1), may include only such contributions as are in excess of the amount of such contributions made by the State toward the collection of data on cancer for the fiscal year preceding the first year for which a grant under subsection (a) of this section is made with respect to the State. The Secretary may decrease the amount of non-Federal contributions that otherwise would have been required by this subsection in those cases in which the State can demonstrate that decreasing such amount is appropriate because of financial hardship.
 
 #### (c) Eligibility for grants
 
 #### (1) In general
 
-&emsp;No grant shall be made by the Secretary under subsection (a) of this section unless an application has been submitted to, and approved by, the Secretary. Such application shall be in such form, submitted in such a manner, and be accompanied by such information, as the Secretary may specify. No such application may be approved unless it contains assurances that the applicant will use the funds provided only for the purposes specified in the approved application and in accordance with the requirements of this section, that the application will establish such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting of Federal funds paid to the applicant under subsection (a) of this section, and that the applicant will comply with the peer review requirements under sections 289 and 289a of this title.
+&emsp;No grant shall be made by the Secretary under subsection (a) of this section unless an application has been submitted to, and approved by, the Secretary. Such application shall be in such form, submitted in such a manner, and be accompanied by such information, as the Secretary may specify. No such application may be approved unless it contains assurances that the applicant will usethe funds provided only for the purposes specified in the approved application and in accordance with the requirements of this section, that the application will establish such fiscal control and fund accounting procedures as may be necessary to assure proper disbursement and accounting of Federal funds paid to the applicant under subsection (a) of this section, and that the applicant will comply with the peer review requirements under sections 289 and 289a of this title.
 
 #### (2) Assurances
 
@@ -76,21 +106,27 @@ The Secretary, acting through the Director of the Centers for Disease Control, m
 
 #### (4) Coordination
 
-&emsp;To encourage the greatest possible efficiency and effectiveness of Federally supported efforts with respect to the activities described in this subsection, the Secretary shall takesteps to assure the appropriate coordination of programs supported under this part with existing Federally supported cancer registry programs.
+&emsp;To encourage the greatest possible efficiency and effectiveness of Federally supported efforts with respect to the activities described in this subsection, the Secretary shall take steps to assure the appropriate coordination of programs supported under this part with existing Federally supported cancer registry programs.
 
 #### (e) Requirement regarding certain study on breast cancer
 
 In the case of a grant under subsection (a) of this section to any State specified in subsection (b) of section 280e–3 of this title, the Secretary may establish such conditions regarding the receipt of the grant as the Secretary determines are necessary to facilitate the collection of data for the study carried out under such section.
 
-(July 1, 1944, ch. 373, title III, §399B, formerly §399H, as added Pub. L. 102–515, §3, Oct. 24, 1992, 106 Stat. 3372; renumbered §399B and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (B), Oct. 17, 2000, 114 Stat. 1115.)
+(July 1, 1944, ch. 373, title III, §399B, formerly §399H, as added Pub. L. 102–515, §3, Oct. 24, 1992,106 Stat. 3372; renumbered §399B and amended Pub. L. 106–310, div. A, title V, §502(2)(A), (B), Oct. 17, 2000, 114 Stat. 1115; Pub. L. 107–260, §2(a), Oct. 29, 2002, 116 Stat. 1743.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–260 designated existing provisions as par. (1), inserted par. (1) heading, substituted “population-based, statewide registries to collect, for each condition specified in paragraph (2)(A), data” for “population-based, statewide cancer registries in order to collect, for each form of in-situ and invasive cancer (with the exception of basal cell and squamous cell carcinoma of the skin), data”, redesignated former pars. (1) to (5) as subpars. (A) to (E) of par. (1), respectively, and added par. (2).
 
 2000—Subsec. (e). Pub. L. 106–310, §502(2)(B), substituted “subsection (b) of section 280e–3 of this title” for “section 280e–3(b) of this title” and “such section” for “section 399C”.
 
 #### Change of Name
 
 Centers for Disease Control changed to Centers for Disease Control and Prevention by Pub. L. 102–531, title III, §312, Oct. 27, 1992, 106 Stat. 3504.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–260, §2(b), Oct. 29, 2002, 116 Stat. 1744, provided that: “The amendments made by subsection (a) \[amending this section\] apply to grants under section 399B of the Public Health Service Act \[this section\] for fiscal year 2002 and subsequent fiscal years, except that, in the case of a State that received such a grant for fiscal year 2000, the Secretary of Health and Human Services may delay the applicability of such amendments to the State for not more than 12 months if the Secretary determines that compliance with such amendments requires the enactment of a statute by the State or the issuance of State regulations.”
 
 #### Congressional Findings and Purpose
 

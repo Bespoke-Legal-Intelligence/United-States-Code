@@ -35,6 +35,15 @@
 | [1483\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001483%20-%20Interest%20rate.md) | Interest rate. |
 | [1484\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001484%20-%20Application%20for%20loan%3B%20approval%20by%20Secretary%3B%20issuance%20of%20certificate%3B%20limitations%20on%20amount%20of%20loans%20to%20individual%20Indians%20or%20economic%E2%80%A6.md) | Application for loan; approval by Secretary; issuance of certificate; limitations on amount of loans to individual Indians or economic enterprises; review by Secretary. |
 | [1485\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001485%20-%20Sale%20or%20assignment%20of%20loans%20and%20underlying%20security.md) | Sale or assignment of loans and underlying security. |
+| (a) | In general. |
+| (b) | Initial transfers. |
+| (c) | Secondary transfers. |
+| (d) | Full faith and credit. |
+| (e) | Damages. |
+| (f) | Fees. |
+| (g) | Central registration of loans. |
+| (h) | Pooling of loans. |
+| (i) | Regulations. |
 | [1486\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001486%20-%20Loans%20ineligible%20for%20guaranty%20or%20insurance.md) | Loans ineligible for guaranty or insurance. |
 | [1487\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001487%20-%20Loans%20eligible%20for%20insurance.md) | Loans eligible for insurance. |
 | [1488\.](Subchapter%20002%20%28II%29%20-%20Loan%20Guaranty%20and%20Insurance/%C2%A7%2001488%20-%20Lenders%20authorized%20to%20make%20loans%3B%20decrease%20or%20increase%20of%20liability%20under%20the%20guaranty.md) | Lenders authorized to make loans; decrease or increase of liability under the guaranty. |

@@ -28,6 +28,10 @@ Minor changes were made in phraseology.
 
 Reference to United States magistrate or to magistrate deemed to refer to United States magistrate judge pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–204, title VIII, §801, July 30, 2002, 116 Stat. 800, provided that: “This title \[enacting sections 1348, 1514A, 1519, and 1520 of this title, amending section 523 of Title 11, Bankruptcy, and section 1658 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under sections 994 and 1658 of Title 28\] may be cited as the ‘Corporate and Criminal Fraud Accountability Act of 2002’.”
+
 #### Short Title of 1982 Amendment
 
 Pub. L. 97–291, §1, Oct. 12, 1982, 96 Stat. 1248, provided: “That this Act \[enacting sections 1512 to 1515, 3579, and 3580 of this title, amending sections 1503, 1505, 1510, and 3146 of this title and Rule 32 of the Federal Rules of Civil Procedure, and enacting provisions set out as notes under sections 1512 and 3579 of this title\] may be cited as the ‘Victim and Witness Protection Act of 1982’.”

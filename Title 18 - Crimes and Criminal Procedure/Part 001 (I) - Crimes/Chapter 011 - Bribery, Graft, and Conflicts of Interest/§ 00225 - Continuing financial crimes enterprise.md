@@ -12,7 +12,3 @@
 
 (Added Pub. L. 101–647, title XXV, §2510(a), Nov. 29, 1990, 104 Stat. 4863.)
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 3059A of this title.
-

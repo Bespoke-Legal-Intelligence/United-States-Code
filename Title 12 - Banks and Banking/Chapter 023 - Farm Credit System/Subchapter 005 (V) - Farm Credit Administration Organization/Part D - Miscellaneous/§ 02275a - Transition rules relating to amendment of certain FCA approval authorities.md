@@ -16,7 +16,7 @@ Any approvals granted by the Farm Credit Administration before January 6, 1988, 
 
 #### (c) Effect of section
 
-This section shall not affect the authority of the Farm Credit Administration to exercise anyother approval authority either on a case-by-case basis or through regulation, as provided in section 2252(a)(5) of this title.
+This section shall not affect the authority of the Farm Credit Administration to exercise any other approval authority either on a case-by-case basis or through regulation, as provided in section 2252(a)(5) of this title.
 
 (Pub. L. 92–181, title V, §5.45, as added Pub. L. 100–233, title VIII, §802(w), Jan. 6, 1988, 101 Stat. 1713.)
 

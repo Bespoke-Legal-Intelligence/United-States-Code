@@ -2,7 +2,7 @@
 
 #### (a) Information dissemination activities
 
-(1) Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall carry out information dissemination activities for prospective and enrolled students (includingthose attending or planning to attend less than full time) regarding the institution and all financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. The information required by this section shall be produced and be made readily available upon request, through appropriate publications, mailings, and electronic media, to an enrolled student and to any prospective student. Each eligible institution shall, on an annual basis, provide to all enrolled students a list of the information that is required to be provided by institutions to students by this section and section 1232g of this title, together with a statement of the procedures required to obtain such information. The information required by this section shall accurately describe—
+(1) Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall carry out information dissemination activities for prospective and enrolled students (including those attending or planning to attend less than full time) regarding the institution and all financial assistance under this subchapter and part C of subchapter I of chapter 34 of title 42. The information required by this section shall be produced and be made readily available upon request, through appropriate publications, mailings, and electronic media, to an enrolled student and to any prospective student. Each eligible institution shall, on an annual basis, provide to all enrolled students a list of the information that is required to be provided by institutions to students by this section and section 1232g of this title, together with a statement of the procedures required to obtain such information. The information required by this section shall accurately describe—
 
 &emsp;(A) the student financial assistance programs available to students who enroll at such institution;
 
@@ -110,7 +110,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;(F) the average completion or graduation rate for the 4 most recent completing or graduating classes of students at the institution of higher education broken down by race and sex.
 
-(2) When an institution described in paragraph (1) of this subsection offers a potential student athlete athletically related student aid, such institution shall provide to the student and the student's parents, guidance counselor, and coach the information contained in the report submitted by such institution pursuant to paragraph (1). If the institution is a member of a national collegiate athletic association that compiles graduation rate data on behalf of the association's member institutions that the Secretary determines is substantially comparable to the information described in paragraph (1), the distribution of the compilation of such data to all secondary schools in the United States shall fulfill the responsibility of the institution to provide information to a prospective student athlete's guidance counselor and coach.
+(2) When an institution described in paragraph (1) of this subsection offers a potential student athlete athletically related student aid, such institution shall provide to the student and the student's parents, guidance counselor, and coach the information contained in the report submitted by such institution pursuant to paragraph (1). If the institution is a member of a national collegiate athletic association that compiles graduation rate data on behalf of the association's member institutions that the Secretarydetermines is substantially comparable to the information described in paragraph (1), the distribution of the compilation of such data to all secondary schools in the United States shall fulfill the responsibility of the institution to provide information to a prospective student athlete's guidance counselor and coach.
 
 (3) For purposes of this subsection, institutions may exclude from the reporting requirements under paragraphs (1) and (2) the completion or graduation rates of students and student athletes who leave school to serve in the armed services, on official church missions, or with a recognized foreign aid service of the Federal Government.
 
@@ -132,7 +132,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 #### (f) Disclosure of campus security policy and campus crime statistics
 
-(1) Each eligible institution participating in any program under this subchapter and part C ofsubchapter I of chapter 34 of title 42 shall on August 1, 1991, begin to collect the following information with respect to campus crime statistics and campus security policies of that institution, and beginning September 1, 1992, and each year thereafter, prepare, publish, and distribute, through appropriate publications or mailings, to all current students and employees, and to any applicant for enrollment or employment upon request, an annual security report containing at least the following information with respect to the campus security policies and campus crime statistics of that institution:
+(1) Each eligible institution participating in any program under this subchapter and part C of subchapter I of chapter 34 of title 42 shall on August 1, 1991, begin to collect the following information with respect to campus crime statistics and campus security policies of that institution, and beginning September 1, 1992, and each year thereafter, prepare, publish, and distribute, through appropriate publications or mailings, to all current students and employees, and to any applicant for enrollment or employment upon request, an annual security report containing at least the following information with respect to the campus security policies and campus crime statistics of that institution:
 
 &emsp;(A) A statement of current campus policies regarding procedures and facilities for students and others to report criminal actions or other emergencies occurring on campus and policies concerning the institution's response to such reports.
 
@@ -172,7 +172,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;&emsp;(ii) of the crimes described in subclauses (I) through (VIII) of clause (i), and other crimes involving bodily injury to any person in which the victim is intentionally selected because of the actual or perceived race, gender, religion, sexual orientation, ethnicity, or disability of the victim that are reported to campus security authorities or local police agencies, which data shall be collected and reported according to category of prejudice.
 
-&emsp;(G) A statement of policy concerning the monitoring and recording through local police agencies of criminal activity at off-campus student organizations which are recognized by the institution and that are engaged in by students attending the institution, including those student organizations with off-campus housing facilities.
+&emsp;(G) A statement of policy concerning the monitoring and recording through local policeagencies of criminal activity at off-campus student organizations which are recognized by the institution and that are engaged in by students attending the institution, including those student organizations with off-campus housing facilities.
 
 &emsp;(H) A statement of policy regarding the possession, use, and sale of alcoholic beverages and enforcement of State underage drinking laws and a statement of policy regarding the possession, use, and sale of illegal drugs and enforcement of Federal and State drug laws and a description of any drug or alcohol abuse education programs as required under section 1011i of this title.
 
@@ -190,7 +190,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 (B)(i) All entries that are required pursuant to this paragraph shall, except where disclosure of such information is prohibited by law or such disclosure would jeopardize the confidentiality of the victim, be open to public inspection within two business days of the initial report being made to the department or a campus security authority.
 
-(ii) If new information about an entry into a log becomes available to a police or security department, then the new information shall be recorded in the log not later than two businessdays after the information becomes available to the police or security department.
+(ii) If new information about an entry into a log becomes available to a police or security department, then the new information shall be recorded in the log not later than two business days after the information becomes available to the police or security department.
 
 (iii) If there is clear and convincing evidence that the release of such information would jeopardize an ongoing criminal investigation or the safety of an individual, cause a suspect to flee or evade detection, or result in the destruction of evidence, such information may be withheld until that damage is no longer likely to occur from the release of such information.
 
@@ -344,7 +344,7 @@ Each eligible institution shall designate an employee or group of employees who 
 
 &emsp;For the purposes of this subsection, the term “operating expenses” means expenditures on lodging and meals, transportation, officials, uniforms and equipment.
 
-(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat. 1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741; Pub. L. 106–386, div. B, title VI, §1601(c)(1), Oct. 28, 2000, 114 Stat. 1537.)
+(Pub. L. 89–329, title IV, §485, as added Pub. L. 99–498, title IV, §407(a), Oct. 17, 1986, 100 Stat.1482; amended Pub. L. 100–50, §15(10), (11), June 3, 1987, 101 Stat. 357; Pub. L. 101–542, title I, §§103(a), (b), 104(a), title II, §204(a), Nov. 8, 1990, 104 Stat. 2381–2385; Pub. L. 101–610, title II, §§201–203, Nov. 16, 1990, 104 Stat. 3171, 3172; Pub. L. 102–26, §10(a)–(d), Apr. 9, 1991, 105 Stat. 128; Pub. L. 102–164, title VI, §603, Nov. 15, 1991, 105 Stat. 1066; Pub. L. 102–325, title IV, §486(a)–(c)(2), July 23, 1992, 106 Stat. 620, 621; Pub. L. 103–208, §2(h)(28)–(37), (k)(9), Dec. 20, 1993, 107 Stat. 2477, 2486; Pub. L. 103–382, title III, §360B(c), Oct. 20, 1994, 108 Stat. 3970; Pub. L. 104–208, div. A, title I, §101(e) \[title III, §308\], Sept. 30, 1996, 110 Stat. 3009–233, 3009–262; Pub. L. 105–18, title VI, §60001(a), June 12, 1997, 111 Stat. 214; Pub. L. 105–244, title I, §102(b)(3), title IV, §486, Oct. 7, 1998, 112 Stat. 1622, 1741; Pub. L. 106–386, div. B, title VI, §1601(c)(1), Oct. 28, 2000, 114 Stat. 1537.)
 
 #### References in Text
 
@@ -366,7 +366,7 @@ Another prior section 1092, Pub. L. 89–329, title V, §508, formerly §502, No
 
 1998—Subsec. (a)(1). Pub. L. 105–244, §486(a)(1)(B), in introductory provisions, inserted after second sentence “Each eligible institution shall, on an annual basis, provide to all enrolled students a list of the information that is required to be provided by institutions to students by this section and section 1232g of this title, together with a statement of the procedures required to obtain such information.”
 
-Pub. L. 105–244, §486(a)(1)(A), in introductory provisions, substituted “upon request, through appropriatepublications, mailings, and electronic media, to an enrolled student and to any prospective student” for “, through appropriate publications and mailings, to all current students, and to any prospective student upon request”.
+Pub. L. 105–244, §486(a)(1)(A), in introductory provisions, substituted “upon request, through appropriate publications, mailings, and electronic media, to an enrolled student and to any prospective student” for “, through appropriate publications and mailings, to all current students, and to any prospective student upon request”.
 
 Subsec. (a)(1)(F). Pub. L. 105–244, §486(a)(1)(C), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “a statement of the refund policy of the institution, as determined under section 1091b of this title, for the return of unearned tuition and fees or other refundable portion of cost, as described in subparagraph (E) of this paragraph, which refunds shall be credited in the following order:
 
@@ -468,7 +468,7 @@ Subsec. (e)(9). Pub. L. 105–18, §60001(a)(2), substituted “August 31” for
 
 Subsec. (a)(1)(F)(iv). Pub. L. 103–208, §2(h)(29), inserted “under” after “awards”.
 
-Subsec. (a)(1)(F)(vi). Pub. L. 103–208, §2(h)(32), redesignated cl. (vii) as (vi) and struck out former cl. (vi)which read as follows: “to awards under part C of subchapter I of chapter 34 of title 42,”.
+Subsec. (a)(1)(F)(vi). Pub. L. 103–208, §2(h)(32), redesignated cl. (vii) as (vi) and struck out former cl. (vi) which read as follows: “to awards under part C of subchapter I of chapter 34 of title 42,”.
 
 Subsec. (a)(1)(F)(vii). Pub. L. 103–208, §2(h)(32), redesignated cl. (viii) as (vii). Former cl. (vii) redesignated (vi).
 
@@ -526,7 +526,7 @@ Subsec. (a)(3)(A) to (C). Pub. L. 102–26, §10(b), inserted “and” at end o
 
 Subsec. (a)(5). Pub. L. 102–26, §10(c), added par. (5).
 
-Subsec. (b). Pub. L. 102–164 substituted “Exit counseling for borrowers; borrower information” for “Exit counseling for borrowers” in heading and inserted at end “Each eligible institution shall require that the borrower of a loan made under part B, part C, or part D of this subchapter submit to the institution, during the exit interview required by this subsection, the borrower's expected permanent address after leaving the institution, regardless of the reason for leaving; the name and address of the borrower's expected employer after leaving the institution; and the address of the borrower's next of kin. In the case of a loan made under part B of this subchapter, the institution shall then submit this information to the holder of the loan.”
+Subsec. (b). Pub. L. 102–164 substituted “Exit counseling for borrowers; borrower information” for “Exit counseling for borrowers” in heading and inserted at end “Each eligible institution shall require that the borrower of a loan made under part B, part C, or part D of this subchapter submit to the institution, during the exit interview required by this subsection, the borrower's expected permanent address after leaving the institution, regardless of the reason for leaving; the name and address of the borrower's expected employer after leaving the institution; and the address of the borrower's next of kin. In the case of a loan made underpart B of this subchapter, the institution shall then submit this information to the holder of the loan.”
 
 Subsec. (f)(1). Pub. L. 102–26, §10(d), substituted “August 1, 1991,” for “September 1, 1991,” in introductory provisions, and in subpar. (F) substituted “calendar year” and “calendar years” for “school year” and “school years”, respectively.
 
@@ -570,7 +570,7 @@ Information dissemination.—No institution shall be required to comply with the
 
 #### Effective Date of 1993 Amendment
 
-Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L.102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
+Amendment by Pub. L. 103–208 effective as if included in the Higher Education Amendments of 1992, Pub. L. 102–325, except as otherwise provided, see section 5(a) of Pub. L. 103–208, set out as a note under section 1051 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -614,7 +614,7 @@ Section 360B(b) of Pub. L. 103–382 provided that: “The Congress finds that�
 
 &emsp;“(2) participation in athletic pursuits plays an important role in keeping the minds and bodies of young Americans healthy and physically fit;
 
-&emsp;“(3) there is increasing concern among citizens, educators, and public officials regarding the athletic opportunities for young men and women at institutions of higher education;
+&emsp;“(3) there is increasing concern among citizens, educators, and public officials regarding the athleticopportunities for young men and women at institutions of higher education;
 
 &emsp;“(4) a recent study by the National Collegiate Athletic Association found that in Division I–A institutions, only 20 percent of the average athletic department operations budget of $1,310,000 is spent on women's athletics; 15 percent of the average recruiting budget of $318,402 is spent on recruiting female athletes; the average scholarship expenses for men is $1,300,000 and $505,246 for women; and an average of 143 grants are awarded to male athletes and 59 to women athletes;
 
@@ -646,7 +646,7 @@ Section 202 of Pub. L. 101–542 provided that: “The Congress finds that—
 
 &emsp;“(1) the reported incidence of crime, particularly violent crime, on some college campuses has steadily risen in recent years;
 
-&emsp;“(2) although annual ‘National Campus Violence Surveys’ indicate that roughly 80 percent of campus crimes are committed by a student upon another student and that approximately 95 percent of the campuscrimes that are violent are alcohol- or drug-related, there are currently no comprehensive data on campus crimes;
+&emsp;“(2) although annual ‘National Campus Violence Surveys’ indicate that roughly 80 percent of campus crimes are committed by a student upon another student and that approximately 95 percent of the campus crimes that are violent are alcohol- or drug-related, there are currently no comprehensive data on campus crimes;
 
 &emsp;“(3) out of 8,000 postsecondary institutions participating in Federal student aid programs, only 352 colleges and universities voluntarily provide crime statistics directly through the Uniform Crime Report of the Federal Bureau of Investigation, and other institutions report data indirectly, through local police agencies or States, in a manner that does not permit campus statistics to be separated;
 

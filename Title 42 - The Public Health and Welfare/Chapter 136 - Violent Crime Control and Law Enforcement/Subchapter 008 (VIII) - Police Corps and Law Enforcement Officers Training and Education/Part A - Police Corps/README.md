@@ -14,6 +14,6 @@ Part A—Police Corps
 - [&sect; 14097 - Police Corps training](%C2%A7%2014097%20-%20Police%20Corps%20training.md)
 - [&sect; 14098 - Service obligation](%C2%A7%2014098%20-%20Service%20obligation.md)
 - [&sect; 14099 - State plan requirements](%C2%A7%2014099%20-%20State%20plan%20requirements.md)
-- [&sect; 14100 - Assistance to States and localities employing Police Corps officers](%C2%A7%2014100%20-%20Assistance%20to%20States%20and%20localities%20employing%20Police%20Corps%20officers.md)
+- [&sect; 14100 - Repealed. Pub. L. 107&#8211;273, div. C, title I, &sect;11006(4), Nov. 2, 2002, 116 Stat. 1817](%C2%A7%2014100%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93273%2C%20div.%20C%2C%20title%20I%2C%20%C2%A711006%284%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201817.md)
 - [&sect; 14101 - Authorization of appropriations](%C2%A7%2014101%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 14102 - Reports to Congress](%C2%A7%2014102%20-%20Reports%20to%20Congress.md)

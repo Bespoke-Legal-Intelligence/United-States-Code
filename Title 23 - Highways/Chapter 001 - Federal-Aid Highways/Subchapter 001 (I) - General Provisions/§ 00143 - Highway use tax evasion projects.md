@@ -98,11 +98,11 @@ Subsec. (c)(3). Pub. L. 105–178, §1114(c)(2), (3), as added by Pub. L. 105–
 
 Subsec. (b). Pub. L. 93–87, §122(a), substituted “projects” for “demonstration projects” and “a Federal-aid system (other than the Interstate System)” for “the Federal-aid primary system”.
 
-Subsec. (c). Pub. L. 93–87, §122(a), substituted “project” for “demonstration project” and “a Federal-aid system (other than the Interstate System)” for “the Federal-aid primary system”.
+Subsec. (c). Pub. L. 93–87, §122(a), substituted “project” for “demonstration project” and “a Federal-aidsystem (other than the Interstate System)” for “the Federal-aid primary system”.
 
 Subsec. (d). Pub. L. 93–87, §122(a), substituted “highways on the Federal-aid system on which such development highway is located” for “Federal-aid primary highways”.
 
-Subsec. (e). Pub. L. 93–87, §122(b), inserted introductory text “Except as otherwise provided in subsection (c) of this section,” and substituted “the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be the same as that provided under this title for any other project on the Federal-aid system on which such development highway is located” for “the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be increased by not to exceed an additional 20 per centum of the cost of such project, except that in no case shallthe Federal share exceed 95 per centum of the cost of such project”.
+Subsec. (e). Pub. L. 93–87, §122(b), inserted introductory text “Except as otherwise provided in subsection (c) of this section,” and substituted “the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be the same as that provided under this title for any other project on the Federal-aid system on which such development highway is located” for “the Federal share of the cost of any project for construction, reconstruction, or improvement of a development highway under this section shall be increased by not to exceed an additional 20 per centum of the cost of such project, except that in no case shall the Federal share exceed 95 per centum of the cost of such project”.
 
 #### Effective Date of 1998 Amendment
 

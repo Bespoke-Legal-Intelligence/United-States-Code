@@ -2,27 +2,29 @@
 
 #### (a) Purpose
 
-It is the purpose of this section to—
+It is the purpose of this section—
 
-&emsp;(1) authorize and support environmental assessment research to the extent necessary to help address general concerns about environmental effects of biotechnology; and
+&emsp;(1) to authorize and support environmental assessment research to help identify and analyze environmental effects of biotechnology; and
 
-&emsp;(2) authorize research to help regulators develop policies, as soon as practicable, concerning the introduction into the environment of such technology.
+&emsp;(2) to authorize research to help regulators develop long-term policies concerning the introduction of such technology.
 
 #### (b) Grant program
 
-The Secretary of Agriculture shall establish a grant program within the Cooperative State Research Service and the Agricultural Research Service to provide the necessary funding for environmental assessment research concerning the introduction of genetically engineered organisms into the environment.
+The Secretary of Agriculture shall establish a grant program within the Cooperative State Research, Education, and Extension Service and the Agricultural Research Service to provide the necessary funding for environmental assessment research concerning the introduction of genetically engineered animals, plants, and microorganisms into the environment.
 
-#### (c) Types of research
+#### (c) Research priorities
 
-Types of research for which grants may be made under this section shall include the following:
+The following types of research shall be given priority for funding:
 
-&emsp;(1) Research designed to develop methods to physically and biologically contain genetically engineered animals, plants, and microorganisms once they are introduced into the environment.
+&emsp;(1) Research designed to identify and develop appropriate management practices to minimize physical and biological risks associated with genetically engineered animals, plants, and microorganisms.
 
 &emsp;(2) Research designed to develop methods to monitor the dispersal of genetically engineered animals, plants, and microorganisms.
 
-&emsp;(3) Research designed to further existing knowledge with respect to the rates and methods of gene transfer that may occur between genetically engineered organisms and related wild and agricultural organisms.
+&emsp;(3) Research designed to further existing knowledge with respect to the characteristics, rates, and methods of gene transfer that may occur between genetically engineered animals, plants, and microorganisms and related wild and agricultural organisms.
 
-&emsp;(4) Other areas of research designed to further the purposes of this section.
+&emsp;(4) Environmental assessment research designed to provide analysis which compares the relative impacts of animals, plants, and microorganisms modified through genetic engineering to other types of production systems.
+
+&emsp;(5) Other areas of research designed to further the purposes of this section.
 
 #### (d) Eligibility requirements
 
@@ -34,7 +36,7 @@ Grants under this section shall be—
 
 #### (e) Consultation
 
-In considering specific areas of research for funding under this section, the Secretary of Agriculture shall consult with the Administrator of the Animal and Plant Health Inspection Service, the Office of Agricultural Biotechnology, and the Agricultural Biotechnology Research Advisory Committee.
+In considering specific areas of research for funding under this section, the Secretary of Agriculture shall consult with the Administrator of the Animal and Plant Health Inspection Service and the National Agricultural Research, Extension, Education, and Economics Advisory Board.
 
 #### (f) Program coordination
 
@@ -48,11 +50,17 @@ The Secretary of Agriculture shall coordinate research funded under this section
 
 #### (2) Withholdings from biotechnology outlays
 
-&emsp;The Secretary of Agriculture shall withhold from outlays of the Department of Agriculture for research on biotechnology, as defined and determined by the Secretary, at least one percent of such amount for the purpose of making grants under this section for research on biotechnology risk assessment.
+&emsp;The Secretary of Agriculture shall withhold from outlays of the Department of Agriculture for research on biotechnology, as defined and determined by the Secretary, at least 2 percent of such amount for the purpose of making grants under this section for research on biotechnology risk assessment.
 
-(Pub. L. 101–624, title XVI, §1668, Nov. 28, 1990, 104 Stat. 3767; Pub. L. 102–237, title IV, §407(9), Dec. 13, 1991, 105 Stat. 1865.)
+#### (3) Application of funds
+
+&emsp;Funds made available under this subsection shall be applied, to the maximum extent practicable, to risk assessment research on all categories identified in subsection (c) of this section.
+
+(Pub. L. 101–624, title XVI, §1668, Nov. 28, 1990, 104 Stat. 3767; Pub. L. 102–237, title IV, §407(9), Dec. 13, 1991, 105 Stat. 1865; Pub. L. 107–171, title VII, §7210, May 13, 2002, 116 Stat. 446.)
 
 #### Amendments
+
+2002—Pub. L. 107–171 reenacted section catchline and amended text generally, substituting substantially similar provisions in subsecs. (a), (b), and (d) to (g), and substituting in subsec. (c), provisions relating to research priorities for provisions relating to types of research.
 
 1991—Subsec. (g)(2). Pub. L. 102–237 substituted “Withholdings” for “Witholdings” in heading.
 

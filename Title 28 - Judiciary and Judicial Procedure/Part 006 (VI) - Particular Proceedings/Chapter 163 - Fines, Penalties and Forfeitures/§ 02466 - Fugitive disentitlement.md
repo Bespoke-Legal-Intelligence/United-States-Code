@@ -18,7 +18,7 @@
 
 #### Amendments
 
-<b>2001</b>—Pub. L. 107–56, which directed amendment of section 2466 of title 18 by designating existing provisions as subsec. (a) and adding subsec. (b), was executed to this section to reflect the probable intent of Congress because title 18 does not contain a section 2466.
+2001—Pub. L. 107–56, which directed amendment of section 2466 of title 18 by designating existing provisions as subsec. (a) and adding subsec. (b), was executed to this section to reflect the probable intent of Congress because title 18 does not contain a section 2466.
 
 #### Termination Date of 2001 Amendment
 

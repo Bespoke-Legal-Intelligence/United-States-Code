@@ -22,7 +22,7 @@ Such assessments shall not—
 
 #### (2) Time to remit assessment
 
-&emsp;Each processor who is responsible for the remittance of an assessment under paragraph (1)shall remit the assessment to the Board not later than the last day of the month following the month that the milk being assessed was marketed.
+&emsp;Each processor who is responsible for the remittance of an assessment under paragraph (1) shall remit the assessment to the Board not later than the last day of the month following the month that the milk being assessed was marketed.
 
 #### (3) Verification
 
@@ -30,7 +30,7 @@ Such assessments shall not—
 
 #### (d) Limitation on assessments
 
-Not more than one assessment may be assessed under this section for the purposes of this chapter on a processor for any unit of fluid milk product.
+Not more than one assessment may be assessed under this section for the purposes of thischapter on a processor for any unit of fluid milk product.
 
 #### (e) Producer-handlers
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Each eligible agency desiring assistance under this subchapter for any fiscal year shallprepare and submit to the Secretary a State plan for a 5-year period, together with such annual revisions as the eligible agency determines to be necessary.
+&emsp;Each eligible agency desiring assistance under this subchapter for any fiscal year shall prepare and submit to the Secretary a State plan for a 5-year period, together with such annual revisions as the eligible agency determines to be necessary.
 
 #### (2) Revisions
 
@@ -16,7 +16,7 @@
 
 #### (3) Hearing process
 
-&emsp;The eligible agency shall conduct public hearings in the State, after appropriate and sufficient notice, for the purpose of affording all segments of the public and interested organizations and groups (including employers, labor organizations, and parents), an opportunity to present their views and make recommendations regarding the State plan. A summary of such recommendations and the eligible agency's response to such recommendations shall be included in the State plan.
+&emsp;The eligible agency shall conduct public hearings in the State, after appropriate andsufficient notice, for the purpose of affording all segments of the public and interested organizations and groups (including employers, labor organizations, and parents), an opportunity to present their views and make recommendations regarding the State plan. A summary of such recommendations and the eligible agency's response to such recommendations shall be included in the State plan.
 
 #### (b) Plan development
 

@@ -26,7 +26,7 @@ For the purposes of this chapter—
 
 &emsp;(1) The terms “United States” and “State” shall include each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the territories and possessions of the United States;
 
-&emsp;(2) The term “forest resources” shall include esthetics, fish and wildlife, forage, outdoor recreation opportunities, timber, and water; and
+&emsp;(2) The term “forest resources” shall include esthetics, fish and wildlife, forage, outdoorrecreation opportunities, timber, and water; and
 
 &emsp;(3) The term “urban forestry” means the planning, establishment, protection, and management of trees and associated plants, individually, in small groups, or under forest conditions within cities, their suburbs, and towns.
 
@@ -68,7 +68,7 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2103, 2106b of this title.
+This section is referred to in section 2106b of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

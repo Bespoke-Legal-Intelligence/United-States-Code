@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Exclusive of aliens described in subsection (b) of this section, aliens born in a foreign state or dependent area who may be issued immigrant visas or who may otherwise acquire the status of an alien lawfully admitted to the United States for permanent residence are limited to—
+Exclusive of aliens described in subsection (b) of this section, aliens born in a foreign state ordependent area who may be issued immigrant visas or who may otherwise acquire the status of an alien lawfully admitted to the United States for permanent residence are limited to—
 
 &emsp;(1) family-sponsored immigrants described in section 1153(a) of this title (or who are admitted under section 1181(a) of this title on the basis of a prior issuance of a visa to their accompanying parent under section 1153(a) of this title) in a number not to exceed in any fiscal year the number specified in subsection (c) of this section for that year, and not to exceed in any of the first 3 quarters of any fiscal year 27 percent of the worldwide level under such subsection for all of such fiscal year;
 
@@ -58,7 +58,7 @@ Immediate relatives.—For purposes of this subsection, the term “immediate re
 
 &emsp;(A) who did not depart from the United States (without advance parole) within 365 days; and
 
-&emsp;(B) who (i) did not acquire the status of aliens lawfully admitted to the United States for permanent residence in the two preceding fiscal years, or (ii) acquired such status in such years under a provision of law (other than subsection (b) of this section) which exempts such adjustment from the numerical limitation on the worldwide level of immigration under this section.
+&emsp;(B) who (i) did not acquire the status of aliens lawfully admitted to the United States for permanent residence in the two preceding fiscal years, or (ii) acquired such status insuch years under a provision of law (other than subsection (b) of this section) which exempts such adjustment from the numerical limitation on the worldwide level of immigration under this section.
 
 (5) If any alien described in paragraph (4) (other than an alien described in paragraph (4)(B)(ii)) is subsequently admitted as an alien lawfully admitted for permanent residence, such alien shall not again be considered for purposes of paragraph (1).
 
@@ -80,9 +80,25 @@ Immediate relatives.—For purposes of this subsection, the term “immediate re
 
 The worldwide level of diversity immigrants is equal to 55,000 for each fiscal year.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723; Pub. L. 106–386, div. B, title V, §1507(a)(3), Oct. 28, 2000, 114 Stat. 1530.)
+#### (f) Rules for determining whether certain aliens are immediate relatives
+
+#### (1) Age on petition filing date
+
+&emsp;Except as provided in paragraphs (2) and (3), for purposes of subsection (b)(2)(A)(i) of this section, a determination of whether an alien satisfies the age requirement in the matter preceding subparagraph (A) of section 1101(b)(1) of this title shall be made using the age of the alien on the date on which the petition is filed with the Attorney General under section 1154 of this title to classify the alien as an immediate relative under subsection (b)(2)(A)(i) of this section.
+
+#### (2) Age on parent's naturalization date
+
+&emsp;In the case of a petition under section 1154 of this title initially filed for an alien child's classification as a family-sponsored immigrant under section 1153(a)(2)(A) of this title, based on the child's parent being lawfully admitted for permanent residence, if the petition is later converted, due to the naturalization of the parent, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i) of this section, the determination described in paragraph (1) shall be made using the age of the alien on the date of the parent's naturalization.
+
+#### (3) Age on marriage termination date
+
+&emsp;In the case of a petition under section 1154 of this title initially filed for an alien's classification as a family-sponsored immigrant under section 1153(a)(3) of this title, based on the alien's being a married son or daughter of a citizen, if the petition is later converted, due to the legal termination of the alien's marriage, to a petition to classify the alien as an immediate relative under subsection (b)(2)(A)(i) of this section or as an unmarried son or daughter of a citizen under section 1153(a)(1) of this title, the determination described in paragraph (1) shall be made using the age of the alien on the date of the termination of the marriage.
+
+(June 27, 1952, ch. 477, title II, ch. 1, §201, 66 Stat. 175; Pub. L. 89–236, §1, Oct. 3, 1965, 79 Stat. 911; Pub. L. 94–571, §2, Oct. 20, 1976, 90 Stat. 2703; Pub. L. 95–412, §1, Oct. 5, 1978, 92 Stat. 907; Pub. L. 96–212, title II, §203(a), Mar. 17, 1980, 94 Stat. 106; Pub. L. 97–116, §20\[(a)\], Dec. 29, 1981, 95 Stat. 1621; Pub. L. 101–649, title I, §101(a), Nov. 29, 1990, 104 Stat. 4980; Pub. L. 102–232, title III, §302(a)(1), Dec. 12, 1991, 105 Stat. 1742; Pub. L. 103–322, title IV, §40701(b)(2), Sept. 13, 1994, 108 Stat. 1954; Pub. L. 103–416, title II, §219(b)(1), Oct. 25, 1994, 108 Stat. 4316; Pub. L. 104–208, div. C, title III, §308(e)(5), (g)(8)(A)(i), title VI, §§603, 671(d)(1)(A), Sept. 30, 1996, 110 Stat. 3009–620, 3009–624, 3009–690, 3009–723; Pub. L. 106–386, div. B, title V, §1507(a)(3), Oct. 28, 2000, 114 Stat. 1530; Pub. L. 107–208, §2, Aug. 6, 2002, 116 Stat. 927.)
 
 #### Amendments
+
+2002—Subsec. (f). Pub. L. 107–208 added subsec. (f).
 
 2000—Subsec. (b)(2)(A)(i). Pub. L. 106–386 inserted at end “For purposes of this clause, an alien who has filed a petition under clause (iii) or (iv) of section 1154(a)(1)(A) of this title remains an immediate relative in the event that the United States citizen spouse or parent loses United States citizenship on account of the abuse.”
 
@@ -118,13 +134,23 @@ Subsecs. (c) to (e). Pub. L. 94–571, §2(2), struck out subsec. (c) which prov
 
 1965—Subsec. (a). Pub. L. 89–236 substituted provisions setting up a 170,000 maximum on total annual immigration and 45,000 maximum on total quarterly immigration without regard to national origins, for provisions setting an annual quota for quota areas which allowed admission of one-sixth of one per centum of portion of national population of continental United States in 1920 attributable by national origin of that quota area and setting a minimum quota of 100 for each quota area.
 
-Subsec. (b). Pub. L. 89–236 substituted provisions defining “immediate relatives” for provisions calling fora determination of annual quota for each quota area by Secretaries of State and Commerce and Attorney General, and proclamation of quotas by President.
+Subsec. (b). Pub. L. 89–236 substituted provisions defining “immediate relatives” for provisions calling for a determination of annual quota for each quota area by Secretaries of State and Commerce and Attorney General, and proclamation of quotas by President.
 
 Subsec. (c). Pub. L. 89–236 substituted provisions allowing carryover through June 30, 1968, of quotas for quota areas in effect on June 30, 1965, and redistribution of unused quota numbers, for provisions which limited issuance of immigrant visas.
 
 Subsec. (d). Pub. L. 89–236 substituted provisions creating an immigration pool and allocating its numbers without reference to the quotas to which an alien is chargeable, for provisions allowing issuance of an immigrant visa to an immigrant as a quota immigrant even though he might be a nonquota immigrant.
 
 Subsec. (e). Pub. L. 89–236 substituted provisions terminating the immigration pool on June 30, 1968, for provisions permitting reduction of annual quotas based on national origins pursuant to Act of Congress prior to effective date of proclaimed quotas.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–208, §8, Aug. 6, 2002, 116 Stat. 930, provided that: “The amendments made by this Act \[amending this section and sections 1153, 1154, 1157, and 1158 of this title\] shall take effect on the date of the enactment of this Act \[Aug. 6, 2002\] and shall apply to any alien who is a derivative beneficiary or any other beneficiary of—
+
+&emsp;“(1) a petition for classification under section 204 of the Immigration and Nationality Act (8 U.S.C. 1154) approved before such date but only if a final determination has not been made on the beneficiary's application for an immigrant visa or adjustment of status to lawful permanent residence pursuant to such approved petition;
+
+&emsp;“(2) a petition for classification under section 204 of the Immigration and Nationality Act (8 U.S.C. 1154) pending on or after such date; or
+
+&emsp;“(3) an application pending before the Department of Justice or the Department of State on or after such date.”
 
 #### Effective Date of 1996 Amendment
 
@@ -159,6 +185,10 @@ Amendment by Pub. L. 94–571 effective on first day of first month which begins
 #### Effective Date of 1965 Amendment
 
 Section 20 of Pub. L. 89–236 provided that: “This Act \[amending this section and sections 1101, 1152 to 1156, 1181, 1182, 1201, 1202, 1204, 1251, 1253, 1254, 1255, 1259, 1322, and 1351 of this title, repealing section 1157 of this title, and enacting provisions set out as a note under this section\] shall become effective on the first day of the first month after the expiration of thirty days following the date of its enactment \[Oct. 3, 1965\] except as provided herein.”
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Temporary Reduction in Diversity Visas
 

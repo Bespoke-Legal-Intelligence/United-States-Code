@@ -1,10 +1,12 @@
 ### §1261. Enforcement, regulations, and scope
 
-(a) The Secretary of the Treasury shall enforce the provisions of this chapter. Regulationsto carry out its provisions shall be prescribed by the Commissioner of Internal Revenue with the approval of the Secretary of the Treasury.
+(a) <sup>1</sup> The Attorney General—
 
-(b) This chapter shall not apply to the Canal Zone.
+&emsp;(1) shall enforce the provisions of this chapter; and
 
-(June 25, 1948, ch. 645, 62 Stat. 761; May 24, 1949, ch. 139, §31, 63 Stat. 94.)
+&emsp;(2) has the authority to issue regulations to carry out the provisions of this chapter.
+
+(June 25, 1948, ch. 645, 62 Stat. 761; May 24, 1949, ch. 139, §31, 63 Stat. 94; Pub. L. 107–273, div. B, title IV, §4004(b), Nov. 2, 2002, 116 Stat. 1812; Pub. L. 107–296, title XI, §1112(g), Nov. 25, 2002, 116 Stat. 2276.)
 
 #### Historical and Revision Notes
 
@@ -24,13 +26,19 @@ For definition of Canal Zone, referred to in text, see section 3602(b) of Title 
 
 #### Amendments
 
+2002—Pub. L. 107–296, which directed amendment of subsec. (a) generally, was executed by amending text of section generally to reflect the probable intent of Congress and the amendment by Pub. L. 107–273, see below.Prior to amendment, text read as follows: “The Secretary of the Treasury shall enforce the provisions of this chapter. Regulations to carry out its provisions shall be prescribed by the Commissioner of Internal Revenue with the approval of the Secretary of the Treasury.”
+
+Pub. L. 107–273 struck out subsec. (a) designation and subsec. (b) which read as follows: “This chapter shall not apply to the Canal Zone.”.
+
 1949—Subsec. (b). Act May 24, 1949, substituted subsection designation “(b)” for “(d)”.
 
-#### Transfer of Functions
+#### Effective Date of 2002 Amendment
 
-Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Commissioner of Internal Revenue, referred to in this section, is an officer of Department of the Treasury.
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3667 of this title.
+
+<i><sup>1</sup></i><i> So in original. There is no subsec. (b).</i>
 

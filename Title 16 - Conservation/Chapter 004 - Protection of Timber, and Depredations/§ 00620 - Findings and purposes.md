@@ -12,7 +12,7 @@ The Congress makes the following findings:
 
 &emsp;(4) In recent years, administrative, statutory, or judicial action has been taken to set aside an increased amount of otherwise harvestable timberlands for conservation purposes.
 
-&emsp;(5) In the next few months and years, additional amounts of otherwise harvestable timberlands may be set aside for conservation purposes, pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], the National Forest Management Act of 1976, or other expected statutory, administrative, and judicial actions.
+&emsp;(5) In the next few months and years, additional amounts of otherwise harvestabletimberlands may be set aside for conservation purposes, pursuant to the Endangered Species Act of 1973 \[16 U.S.C. 1531 et seq.\], the National Forest Management Act of 1976, or other expected statutory, administrative, and judicial actions.
 
 &emsp;(6) There is evidence of a shortfall in the supply of unprocessed timber in the western United States.
 
@@ -64,7 +64,7 @@ Pub. L. 103–45, §1, July 1, 1993, 107 Stat. 223, provided that: “This Act \
 
 #### Short Title
 
-Section 487 of title IV of Pub. L. 101–382 provided that: “This title \[enacting this section and sections620a to 620j of this title and provisions set out as a note above\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1990’.”
+Section 487 of title IV of Pub. L. 101–382 provided that: “This title \[enacting this section and sections 620a to 620j of this title and provisions set out as a note above\] may be cited as the ‘Forest Resources Conservation and Shortage Relief Act of 1990’.”
 
 #### Section Referred to in Other Sections
 

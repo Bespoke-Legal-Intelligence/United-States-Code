@@ -2,7 +2,7 @@
 
 #### (a) Counseling before testing
 
-The Secretary may not make a grant under section 300dd–31 of this title to a State unlessthe State agrees that, before testing an individual pursuant to such section, the State will provide to the individual appropriate counseling with respect to acquired immune deficiency syndrome (based on the most recent scientific data relating to such syndrome), including—
+The Secretary may not make a grant under section 300dd–31 of this title to a State unless the State agrees that, before testing an individual pursuant to such section, the State will provide to the individual appropriate counseling with respect to acquired immune deficiency syndrome (based on the most recent scientific data relating to such syndrome), including—
 
 &emsp;(1) measures for the prevention of exposure to, and the transmission of, the etiologic agent for such syndrome;
 
@@ -14,7 +14,7 @@ The Secretary may not make a grant under section 300dd–31 of this title to a S
 
 #### (b) Counseling of individuals with negative test results
 
-The Secretary may not make a grant under section 300dd–31 of this title to a State unless the State agrees that, if the results of testing conducted pursuant to such section indicate that an individual is not infected with the etiologic agent for acquired immune deficiency syndrome, the State will review for the individual the information provided pursuant to subsection (a) of this section with respect to such syndrome, including—
+The Secretary may not make a grant under section 300dd–31 of this title to a State unlessthe State agrees that, if the results of testing conducted pursuant to such section indicate that an individual is not infected with the etiologic agent for acquired immune deficiency syndrome, the State will review for the individual the information provided pursuant to subsection (a) of this section with respect to such syndrome, including—
 
 &emsp;(1) the information described in paragraphs (1) through (3) of such subsection; and
 

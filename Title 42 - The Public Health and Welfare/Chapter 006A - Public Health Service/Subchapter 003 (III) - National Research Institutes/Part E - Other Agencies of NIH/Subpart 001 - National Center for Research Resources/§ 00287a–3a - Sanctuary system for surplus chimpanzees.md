@@ -20,7 +20,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 #### (2) Chimpanzees accepted into system
 
-&emsp;With respect to chimpanzees that are accepted into the sanctuary system, standardsunder paragraph (1) shall include the following:
+&emsp;With respect to chimpanzees that are accepted into the sanctuary system, standards under paragraph (1) shall include the following:
 
 &emsp;&emsp;(A) A prohibition that the chimpanzees may not be used for research, except as authorized under paragraph (3).
 
@@ -52,7 +52,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 &emsp;&emsp;For purposes of paragraph (2)(A), standards under paragraph (1) shall provide that a chimpanzee accepted into the sanctuary system may not be used for studies or research, except as provided in clause (i) or (ii), as follows:
 
-&emsp;&emsp;&emsp;(i) The chimpanzee may be used for noninvasive behavioral studies or medical studies based on information collected during the course of normal veterinary care that is provided for the benefit of the chimpanzee, provided that any such study involves minimal physical and mental harm, pain, distress, and disturbance to the chimpanzee and the social group in which the chimpanzee lives.
+&emsp;&emsp;&emsp;(i) The chimpanzee may be used for noninvasive behavioral studies or medical studies based on information collected during the course of normal veterinary care that is provided for the benefit of the chimpanzee, provided that any such study involves minimal physical and mentalharm, pain, distress, and disturbance to the chimpanzee and the social group in which the chimpanzee lives.
 
 &emsp;&emsp;&emsp;(ii) The chimpanzee may be used in research if—
 
@@ -100,7 +100,7 @@ All surplus chimpanzees owned by the Federal Government shall be accepted into t
 
 &emsp;&emsp;(B) A provision that the Secretary may deny such chimpanzee acceptance into the system if the capacity of the system is not sufficient to accept the chimpanzee, taking into account the physical capacity of the system; the financial resources of the system; the number of individuals serving as the staff of the system, including the number of professional staff; the necessity of providing for the safety of the staff and of the public; the necessity of caring for accepted chimpanzees in accordance with the standards under paragraph (1); and such other factors as may be appropriate.
 
-&emsp;&emsp;(C) A provision that the Secretary may deny such chimpanzee acceptance into the system if a complete history of the health and use in research of the chimpanzee is not available to the Secretary.
+&emsp;&emsp;(C) A provision that the Secretary may deny such chimpanzee acceptance into thesystem if a complete history of the health and use in research of the chimpanzee is not available to the Secretary.
 
 &emsp;&emsp;(D) Such additional standards as the Secretary determines to be appropriate.
 
@@ -204,7 +204,7 @@ For purposes of this section:
 
 #### (1) In general
 
-&emsp;Of the amount appropriated under this chapter for fiscal year 2001 and each subsequent fiscal year, the Secretary, subject to paragraph (2), shall reserve a portion for purposes of the operation (and establishment, as applicable) of the sanctuary system and for purposes of paragraph (3), except that the Secretary may not for such purposes reserve any further funds from such amount after the aggregate total of the funds so reserved for such fiscal years reaches $30,000,000. The purposes for whichfunds reserved under the preceding sentence may be expended include the construction and renovation of facilities for the sanctuary system.
+&emsp;Of the amount appropriated under this chapter for fiscal year 2001 and each subsequent fiscal year, the Secretary, subject to paragraph (2), shall reserve a portion for purposes of the operation (and establishment, as applicable) of the sanctuary system and for purposes of paragraph (3), except that the Secretary may not for such purposes reserve any further funds from such amount after the aggregate total of the funds so reserved for such fiscal years reaches $30,000,000. The purposes for which funds reserved under the preceding sentence may be expended include the construction and renovation of facilities for the sanctuary system.
 
 #### (2) Limitation
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Eligible Career Enlisted Flyer Defined.—In this section, the term “eligible career enlisted flyer” means an enlisted member of the armed forces who—
+Eligible Career Enlisted Flyer Defined.—In this section, the term “eligible careerenlisted flyer” means an enlisted member of the armed forces who—
 
 &emsp;(1) is entitled to basic pay under section 204 of this title, or is entitled to pay under section 206 of this title as described in subsection (e) of this section;
 
@@ -55,7 +55,7 @@ Save Pay Provision.—If, immediately before a member receives incentive pay und
 
 (h)
 
-Specialty Code of Dropsonde System Operators.—Within the Air Force, the Secretary of the Air Force shall assign to members who are dropsonde system operators a specialty code that identifies such members as serving in a weather specialty.
+Specialty Code of Dropsonde System Operators.—Within the Air Force, the Secretary of the Air Force shall assign to members who are dropsonde system operators a specialty codethat identifies such members as serving in a weather specialty.
 
 (i)
 
@@ -63,7 +63,7 @@ Definitions.—In this section:
 
 &emsp;(1) The term “aviation service” means participation in aerial flight performed, under regulations prescribed by the Secretary concerned, by an eligible career enlisted flyer.
 
-&emsp;(2) The term “operational flying duty” means flying performed under competent orders while serving in assignments, including an assignment as a dropsonde system operator, in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying duty performed by members in training that leads to the award of an enlisted aviation rating or military occupationalspecialty designated as a career enlisted flyer rating or specialty by the Secretary concerned.
+&emsp;(2) The term “operational flying duty” means flying performed under competent orders while serving in assignments, including an assignment as a dropsonde system operator, in which basic flying skills normally are maintained in the performance of assigned duties as determined by the Secretary concerned, and flying duty performed by members in training that leads to the award of an enlisted aviation rating or military occupational specialty designated as a career enlisted flyer rating or specialty by the Secretary concerned.
 
 (Added Pub. L. 106–65, div. A, title VI, §628(a)(1), Oct. 5, 1999, 113 Stat. 657.)
 

@@ -20,7 +20,7 @@ Unsafe Aircraft, Engines, Propellers, and Appliances.—When an inspector decide
 
 Modifications in System.—(1) The Administrator of the Federal Aviation Administration shall make modifications in the system for processing forms for major repairs or alterations to fuel tanks and fuel systems of aircraft not used to provide air transportation that are necessary to make the system more effective in serving the needs of users of the system, including officials responsible for enforcing laws related to the regulation of controlled substances (as defined in section 102 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 802)). The modifications shall address at least each of the following deficiencies in, and abuses of, the existing system:
 
-&emsp;(A) the lack of a special identification feature to allow the forms to be distinguishedeasily from other major repair and alteration forms.
+&emsp;(A) the lack of a special identification feature to allow the forms to be distinguished easily from other major repair and alteration forms.
 
 &emsp;(B) the excessive period of time required to receive the forms at the Airmen and Aircraft Registry of the Administration.
 
@@ -131,6 +131,10 @@ In subsection (d)(2), the words “Not later than September 18, 1989” and “f
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

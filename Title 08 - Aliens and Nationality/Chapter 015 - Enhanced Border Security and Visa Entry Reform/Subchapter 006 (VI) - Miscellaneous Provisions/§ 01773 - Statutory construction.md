@@ -1,0 +1,6 @@
+### §1773. Statutory construction
+
+Nothing in this chapter shall be construed to impose requirements that are inconsistent with the North American Free Trade Agreement or to require additional documents for aliens for whom documentary requirements are waived under section 1182(d)(4)(B) of this title.
+
+(Pub. L. 107–173, title VI, §604, May 14, 2002, 116 Stat. 565.)
+

@@ -172,7 +172,7 @@ Pub. L. 106–525, §2, Nov. 22, 2000, 114 Stat. 2495, provided that: “The Con
 
 #### Report Regarding Resources of National Institutes of Health Dedicated to Minority and Other Health Disparities Research
 
-Pub. L. 106–525, title I, §105, Nov. 22, 2000, 114 Stat. 2504, provided that: “Not later than December 1, 2003, the Director of the National Center on Minority Health and Health Disparities (established by the amendment made by section 101(a) \[enacting this section\]), after consultation with the advisory council for such Center, shall submit to the Congress, the Secretary of Health and Human Services, and the Director of the National Institutes of Health a report that provides the following:
+Pub. L. 106–525, title I, §105, Nov. 22, 2000, 114 Stat. 2504, provided that: “Not later than December 1, 2003,the Director of the National Center on Minority Health and Health Disparities (established by the amendment made by section 101(a) \[enacting this section\]), after consultation with the advisory council for such Center, shall submit to the Congress, the Secretary of Health and Human Services, and the Director of the National Institutes of Health a report that provides the following:
 
 &emsp;“(1) Recommendations for the methodology that should be used to determine the extent of the resources of the National Institutes of Health that are dedicated to minority health disparities research and other health disparities research, including determining the amount of funds that are used to conduct and support such research. With respect to such methodology, the report shall address any discrepancies between the methodology used by such Institutes as of the date of the enactment of this Act \[Nov. 22, 2000\] and the methodology used by the Institute of Medicine as of such date.
 
@@ -202,7 +202,7 @@ Dissemination of Information on Health Disparities.—The Secretary shall develo
 
 Advisory councils established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a council established by the President or an officer of the Federal Government, such council is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a council established by Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that anadvisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### Section Referred to in Other Sections
 

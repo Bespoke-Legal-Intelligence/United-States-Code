@@ -8,13 +8,13 @@ An eligible partnership that receives a subgrant under section 6632 of this titl
 
 &emsp;&emsp;(A) teachers and highly qualified paraprofessionals, and, if appropriate, principals have subject matter knowledge in the academic subjects that the teachers teach, including the use of computer related technology to enhance student learning; and
 
-&emsp;&emsp;(B) principals have the instructional leadership skills that will help such principals work most effectively with teachers to help students master core academic subjects; and
+&emsp;&emsp;(B) principals have the instructional leadership skills that will help such principalswork most effectively with teachers to help students master core academic subjects; and
 
 &emsp;(2) developing and providing assistance to local educational agencies and individuals who are teachers, highly qualified paraprofessionals, or principals of schools served by such agencies, for sustained, high-quality professional development activities that—
 
 &emsp;&emsp;(A) ensure that the individuals are able to use challenging State academic content standards and student academic achievement standards, and State assessments, to improve instructional practices and improve student academic achievement;
 
-&emsp;&emsp;(B) may include intensive programs designed to prepare such individuals who willreturn to a school to provide instruction related to the professional development described in subparagraph (A) to other such individuals within such school; and
+&emsp;&emsp;(B) may include intensive programs designed to prepare such individuals who will return to a school to provide instruction related to the professional development described in subparagraph (A) to other such individuals within such school; and
 
 &emsp;&emsp;(C) may include activities of partnerships between one or more local educational agencies, one or more schools served by such local educational agencies, and one or more institutions of higher education for the purpose of improving teaching and learning at low-performing schools.
 

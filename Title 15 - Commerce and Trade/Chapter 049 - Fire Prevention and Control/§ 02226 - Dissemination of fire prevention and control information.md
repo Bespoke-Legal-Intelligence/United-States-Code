@@ -4,6 +4,10 @@ The Director, acting through the Administrator, is authorized to take steps to e
 
 (Pub. L. 93–498, §30, as added Pub. L. 101–391, §3(a), Sept. 25, 1990, 104 Stat. 748.)
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2225 of this title.

@@ -6,7 +6,7 @@
 
 &emsp;(2) the Secretary, as escrow agent, shall administer those funds in an escrow account; and
 
-&emsp;(3) the Secretary shall disburse the escrowed funds to pay for such equipment upon its delivery or in accordance with the contract to procure the equipment and shall disburse all accrued interest or other earnings on the escrowed funds to the institution.
+&emsp;(3) the Secretary shall disburse the escrowed funds to pay for such equipment upon its delivery or in accordance with the contract to procure the equipment and shall disburse allaccrued interest or other earnings on the escrowed funds to the institution.
 
 (b) As escrow agent for funds placed in escrow pursuant to an agreement under subsection (a), the Secretary may—
 

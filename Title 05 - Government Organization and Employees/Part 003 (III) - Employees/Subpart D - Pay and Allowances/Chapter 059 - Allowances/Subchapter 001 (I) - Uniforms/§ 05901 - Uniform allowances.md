@@ -72,7 +72,7 @@ Oct. 29, 1965, Pub. L. 89–301 §13, 79 Stat. 1122.
 
 July 18, 1966, Pub. L. 89–504, §407(a), 80 Stat. 299.
 
-The amendment to the third sentence of subsection (a) of 5 U.S.C. 5901, and the deletion of subsection (d) thereof, reflect the recodification of subsection (d) in 5 U.S.C. 5903 by section 1(40)(A) of this bill. In the last sentence of subsection (a), the words “When” and “pays” are substituted for “In those instances where” and “makes reimbursement”, respectively.
+The amendment to the third sentence of subsection (a) of 5 U.S.C. 5901, and the deletion of subsection (d)thereof, reflect the recodification of subsection (d) in 5 U.S.C. 5903 by section 1(40)(A) of this bill. In the last sentence of subsection (a), the words “When” and “pays” are substituted for “In those instances where” and “makes reimbursement”, respectively.
 
 #### Amendments
 
@@ -112,5 +112,5 @@ Pub. L. 97–377, title I, §101(e)(1) \[title V, §504\], Dec. 21, 1982, 96 Sta
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5902, 8331 of this title; title 10 sections 1593, 1622; title 16 sections 1a–4,742j–2; title 25 section 2807; title 33 section 540a; title 37 sections 417, 418; title 38 section 903; title 43 section 1468.
+This section is referred to in sections 5902, 8331 of this title; title 10 sections 1593, 1622; title 16 sections 1a–4, 742j–2; title 25 section 2807; title 28 section 530C; title 33 section 540a; title 37 sections 417, 418; title 38 section 903; title 43 section 1468.
 

@@ -96,17 +96,33 @@ For purposes of this section:
 
 Subsec. (b)(2). Pub. L. 106–79, which struck out par. (2) reading “commence competitive bidding for the commercial licenses created pursuant to subsection (a) of this section after January 1, 2001.”, was repealed by Pub. L. 106–113, §1000(a)(5) \[title II, §213(d)\].
 
+#### Interference Protection
+
+Pub. L. 107–195, §6, June 19, 2002, 116 Stat. 717, provided that:
+
+“(a)
+
+Interference Waivers.—In granting a request by a television broadcast station licensee assigned to any of channels 52–69 to utilize any channel of channels 2–51 that is assigned for digital broadcasting in order to continue analog broadcasting during the transition to digital broadcasting, the Federal Communications Commission may not, either at the time of the grant or thereafter, waive or otherwise reduce—
+
+&emsp;“(1) the spacing requirements provided for analog broadcasting licensees within channels 2–51 as required by section 73.610 of the Commission's rules (and the table contained therein) (47 CFR 73.610), or
+
+&emsp;“(2) the interference standards provided for digital broadcasting licensees within channels 2–51 as required by sections 73.622 and 73.623 of such rules (47 CFR 73.622, 73.623),
+
+> if such waiver or reduction will result in any degradation in or loss of service, or an increased level of interference, to any television household except as the Commission's rules would otherwise expressly permit, exclusive of any waivers previously granted.
+
+“(b)
+
+Exception for Public Safety Channel Clearing.—The restrictions in subsection (a) shall not apply to a station licensee that is seeking authority (either by waiver or otherwise) to vacate the frequencies that constitute television channel 63, 64, 68, or 69 in order to make such frequencies available for public safety purposes pursuant to the provisions of section 337 of the Communications Act of 1934 (47 U.S.C. 337).”
+
 #### Competitive Bidding Process for Commercial Licenses for Assigned Frequencies
 
-Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §213\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, provided that:
+Pub. L. 106–113, div. B, §1000(a)(5) \[title II, §213\], Nov. 29, 1999, 113 Stat. 1536, 1501A–295, as amended by Pub. L. 107–195, §3(b)(3), June 19, 2002, 116 Stat. 717, provided that:
 
 “(a)
 
 Revised Schedule for Competitive Bidding of Spectrum.—(1) \[Amended subsec. (b) of this section.\]
 
-“(2) Commencing on the date of the enactment of this Act \[Nov. 29, 1999\], the Federal Communications Commission shall initiate the competitive bidding process previously required under section 337(b)(2) of the Communications Act of 1934 (as repealed by the amendment made by paragraph (1) \[47 U.S.C. 337(b)(2)\]).
-
-“(3) The Federal Communications Commission shall conduct the competitive bidding process described in paragraph (2) in a manner that ensures that all proceeds of such bidding are deposited in accordance with section 309(j)(8) of the Communications Act of 1934 (47 U.S.C. 309(j)(8)) not later than September 30, 2000.
+“\[(2), (3) Repealed. Pub. L. 107–195, §3(b)(3), June 19, 2002, 116 Stat. 717.\]
 
 “(4)(A) To expedite the assignment by competitive bidding of the frequencies identified in section 337(a)(2) of the Communications Act of 1934 (47 U.S.C. 337(a)(2)), the rules governing such frequencies shall be effective immediately upon publication in the Federal Register without regard to sections 553(d), 801(a)(3), 804(2), and 806(a) of title 5, United States Code.
 

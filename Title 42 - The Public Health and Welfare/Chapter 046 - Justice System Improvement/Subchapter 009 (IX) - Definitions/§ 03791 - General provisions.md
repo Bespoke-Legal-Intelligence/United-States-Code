@@ -50,7 +50,7 @@ As used in this chapter—
 
 &emsp;(15) “Attorney General” means the Attorney General of the United States or his designee;
 
-&emsp;(16) “court of last resort” means that State court having the highest and final appellate authority of the State. In States having two or more such courts, court of last resort shall mean that State court, if any, having highest and final appellate authority, as well as both administrative responsibility for the State's judicial system and the institutions of the State judicial branch and rulemaking authority. In other States having two or more courts with highest and final appellate authority, court of last resort shall mean the highest appellate court which also has either rulemaking authority or administrative responsibility forthe State's judicial system and the institutions of the State judicial branch. Except as used in the definition of the term “court of last resort” the term “court” means a tribunal recognized as a part of the judicial branch of a State or of its local government units;
+&emsp;(16) “court of last resort” means that State court having the highest and final appellate authority of the State. In States having two or more such courts, court of last resort shall mean that State court, if any, having highest and final appellate authority, as well as both administrative responsibility for the State's judicial system and the institutions of the State judicial branch and rulemaking authority. In other States having two or more courts with highest and final appellate authority, court of last resort shall mean the highest appellate court which also has either rulemaking authority or administrative responsibility for the State's judicial system and the institutions of the State judicial branch. Except as used in the definition of the term “court of last resort” the term “court” means a tribunal recognized as a part of the judicial branch of a State or of its local government units;
 
 &emsp;(17) “institution of higher education” means any such institution as defined by section 1001 of title 20, subject, however, to such modifications and extensions as the Office may determine to be appropriate;
 
@@ -60,7 +60,7 @@ As used in this chapter—
 
 &emsp;(20) “record of proven success” means that a program, project, approach, or practice has been demonstrated by evaluation or by analysis of performance data and information to be successful in a number of jurisdictions or over a period of time in contributing to the accomplishment of objectives or to improving conditions identified with the problem, to which it is addressed;
 
-&emsp;(21) “high probability of improving the criminal justice system” means that a prudent assessment of the concepts and implementation plans included in a proposed program, project, approach, or practice, together with an assessment of the problem to which it is addressed and of data and information bearing on the problem, concept, and implementation plan, provides strong evidence that the proposed activities would result in identifiable improvements in the criminal justice system if implemented as proposed;
+&emsp;(21) “high probability of improving the criminal justice system” means that a prudent assessment of the concepts and implementation plans included in a proposed program, project, approach, or practice, together with an assessment of the problem to which it is addressed and of data and information bearing on the problem, concept, and implementation plan, provides strong evidence that the proposed activities would result in identifiableimprovements in the criminal justice system if implemented as proposed;
 
 &emsp;(22) “correctional option” includes community-based incarceration, weekend incarceration, boot camp prison, electronic monitoring of offenders, intensive probation, and any other innovative punishment designed to have the greatest impact on offenders who can be punished more effectively in an environment other than a traditional correctional facility;
 
@@ -120,7 +120,7 @@ Subsec. (a)(25). Pub. L. 103–322, §32101(c)(3), added par. (25).
 
 1988—Subsec. (a)(2). Pub. L. 100–690 substituted “section 3756(a)” for “section 3747(a)”.
 
-1986—Subsec. (a)(2). Pub. L. 99–396, §7(1), included American Samoa, Guam, and the Northern Mariana Islands in definition of “State” and inserted proviso directing that for purposes of section 3747(a) of this title American Samoa, Guam, and the Northern Mariana Islands shall be considered as one State.
+1986—Subsec. (a)(2). Pub. L. 99–396, §7(1), included American Samoa, Guam, and the Northern Mariana Islands in definition of “State” and inserted proviso directing that for purposes of section 3747(a) of this titleAmerican Samoa, Guam, and the Northern Mariana Islands shall be considered as one State.
 
 Subsec. (a)(3). Pub. L. 99–396, §7(2), substituted “and” for “, Guam, American Samoa” after “in and for the District of Columbia” and struck out “, or the Commonwealth of the Northern Mariana Islands” after “Trust Territory of the Pacific Islands”.
 

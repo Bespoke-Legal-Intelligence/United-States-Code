@@ -6,7 +6,7 @@ The legitimate proprietary interest of the United States and of a contractor in 
 
 #### (b) Unlimited rights; technical data; developed with Federal funds; unrestricted, royalty-free right to use; rights under law
 
-(1) Except as otherwise expressly provided by Federal statute, the regulations prescribed pursuant to subsection (a) of this section shall provide, with respect to executive agencies that aresubject to the provisions of title III of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 251 et seq.\], that the United States shall have unlimited rights in technical data developed exclusively with Federal funds if delivery of such data—
+(1) Except as otherwise expressly provided by Federal statute, the regulations prescribed pursuant to subsection (a) of this section shall provide, with respect to executive agencies that are subject to the provisions of title III of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 251 et seq.\], that the United States shall have unlimited rights in technical data developed exclusively with Federal funds if delivery of such data—
 
 &emsp;(A) was required as an element of performance under a contract; and
 
@@ -60,7 +60,7 @@ Regulations prescribed under subsection (a) of this section shall require that a
 
 Section 403(4) of this title, referred to in subsec. (a), which defined “single system of Government-wide procurement regulations”, was repealed, and par. (5) of section 403 of this title was redesignated as par. (4), by Pub. L. 100–679, §3(c), Nov. 17, 1988, 102 Stat. 4056.
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsecs. (a) and (b)(1), (2), is act June 30, 1949, ch. 288, 63 Stat. 393, as amended. Title III of the Federal Property and Administrative Services Act of 1949 is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsecs. (a) and (b)(1), (2), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 

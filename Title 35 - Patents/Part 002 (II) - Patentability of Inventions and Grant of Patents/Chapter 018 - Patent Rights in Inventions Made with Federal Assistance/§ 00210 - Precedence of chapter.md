@@ -22,7 +22,7 @@
 
 &emsp;(10) section 32 of the Arms Control and Disarmament Act of 1961 (22 U.S.C. 2572; 75 Stat. 634);
 
-&emsp;(11) section 9 of the Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5901; <sup>2</sup> 88 Stat. 1878);
+&emsp;(11) section 9 of the Federal Nonnuclear Energy Research and Development Act of 1974 (42 U.S.C. 5908; 88 Stat. 1878);
 
 &emsp;(12) section 5(d) of the Consumer Product Safety Act (15 U.S.C. 2054(d); 86 Stat. 1211);
 
@@ -40,7 +40,7 @@
 
 &emsp;(19) section 6(b) of the Solar Photovoltaic Energy Research Development and Demonstration Act of 1978 (42 U.S.C. 5585(b); 92 Stat. 2516);
 
-&emsp;(20) section 12 of the Native Latex Commercialization and Economic Development Act of 1978 (7 U.S.C. 178(j); <sup>3</sup> 92 Stat. 2533); and
+&emsp;(20) section 12 of the Native Latex Commercialization and Economic Development Act of 1978 (7 U.S.C. 178j; 92 Stat. 2533); and
 
 &emsp;(21) section 408 of the Water Resources and Development Act of 1978 (42 U.S.C. 7879; 92 Stat. 1360).
 
@@ -48,13 +48,13 @@
 
 (b) Nothing in this chapter is intended to alter the effect of the laws cited in paragraph (a) of this section or any other laws with respect to the disposition of rights in inventions made in the performance of funding agreements with persons other than nonprofit organizations or small business firms.
 
-(c) Nothing in this chapter is intended to limit the authority of agencies to agree to the disposition of rights in inventions made in the performance of work under funding agreements with persons other than nonprofit organizations or small business firms in accordance with the Statement of Government Patent Policy issued on February 18, 1983, agency regulations, or other applicable regulations or to otherwise limit the authority of agencies to allow such persons to retain ownership of inventions except that all funding agreements, including those with other than small business firms and nonprofit organizations, shall include the requirements established in paragraph <sup>4</sup> 202(c)(4) and section 203 of this title..<sup>5</sup> Any disposition of rights in inventions made in accordance with the Statement or implementing regulations, including any disposition occurring before enactment of this section, are hereby authorized.
+(c) Nothing in this chapter is intended to limit the authority of agencies to agree to the disposition of rights in inventions made in the performance of work under funding agreements with persons other than nonprofit organizations or small business firms in accordance with the Statement of Government Patent Policy issued on February 18, 1983, agency regulations, or other applicable regulations or to otherwise limit the authority of agencies to allow such persons to retain ownership of inventions except that all funding agreements, including those with other than small business firms and nonprofit organizations, shall include the requirements established in section 202(c)(4) and section 203 of this title. Any disposition of rights in inventions made in accordance with the Statement or implementing regulations, including any disposition occurring before enactment of this section, are hereby authorized.
 
 (d) Nothing in this chapter shall be construed to require the disclosure of intelligence sources or methods or to otherwise affect the authority granted to the Director of Central Intelligence by statute or Executive order for the protection of intelligence sources or methods.
 
 (e) The provisions of the Stevenson-Wydler Technology Innovation Act of 1980 shall take precedence over the provisions of this chapter to the extent that they permit or require a disposition of rights in subject inventions which is inconsistent with this chapter.
 
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, §501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, §220(c)(2), Nov. 13, 1998, 112 Stat. 3625.)
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3026; amended Pub. L. 98–620, title V, §501(13), Nov. 8, 1984, 98 Stat. 3367; Pub. L. 99–502, §9(c), Oct. 20, 1986, 100 Stat. 1796; Pub. L. 103–272, §5(j), July 5, 1994, 108 Stat. 1375; Pub. L. 104–113, §7, Mar. 7, 1996, 110 Stat. 779; Pub. L. 105–393, title II, §220(c)(2), Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–273, div. C, title III, §13206(a)(16), Nov. 2, 2002, 116 Stat. 1905.)
 
 #### References in Text
 
@@ -74,6 +74,12 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 
 #### Amendments
 
+2002—Subsec. (a)(11). Pub. L. 107–273, §13206(a)(16)(A)(i), substituted “5908” for “5901”.
+
+Subsec. (a)(20). Pub. L. 107–273, §13206(a)(16)(A)(ii), substituted “178j” for “178(j)”.
+
+Subsec. (c). Pub. L. 107–273, §13206(a)(16)(B), substituted “section 202(c)(4)” for “paragraph 202(c)(4)” and struck out second period after “title”.
+
 1998—Subsec. (a)(11) to (22). Pub. L. 105–393 redesignated pars. (12) to (22) as (11) to (21), respectively, and struck out former par. (11) which read as follows: “subsection (e) of section 302 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App. 302(e); 79 Stat. 5);”.
 
 1996—Subsec. (e). Pub. L. 104–113 struck out “, as amended by the Federal Technology Transfer Act of 1986,” after “1980”.
@@ -85,12 +91,4 @@ The Stevenson-Wydler Technology Innovation Act of 1980, referred to in subsec. (
 1984—Subsec. (c). Pub. L. 98–620 substituted “February 18, 1983” for “August 23, 1971 (36 Fed. Reg. 16887)” and inserted provision that all funding agreements, including those with other than small business firms and nonprofit organizations, shall include the requirements established in paragraph 202(c)(4) and section 203 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Should be “5908;”.</i>
-
-<i><sup>3</sup></i><i> So in original. Should be “178j;”.</i>
-
-<i><sup>4</sup></i><i> So in original. Probably should be “section”.</i>
-
-<i><sup>5</sup></i><i> So in original.</i>
 

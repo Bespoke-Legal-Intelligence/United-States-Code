@@ -28,7 +28,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (A) Use for deposits due under section 2082(b)
 
-&emsp;&emsp;Amounts described in paragraph (1), including interest accrued on such amounts,shall be applied upon the participant's retirement or death toward any deposit due under section 2082(b) of this title.
+&emsp;&emsp;Amounts described in paragraph (1), including interest accrued on such amounts, shall be applied upon the participant's retirement or death toward any deposit due under section 2082(b) of this title.
 
 #### (B) Lump-sum payment
 
@@ -74,7 +74,7 @@ A prior section 211 of Pub. L. 88–643, title II, Oct. 13, 1964, 78 Stat. 1045;
 
 #### Amendments
 
-1993—Subsec. (c)(2)(B). Pub. L. 103–178 substituted “prior notification of a current spouse, if any, unless the participant establishes to the satisfaction of the Director, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse” for “the requirement under section 2071(b)(4) of this title”.
+1993—Subsec. (c)(2)(B). Pub. L. 103–178 substituted “prior notification of a current spouse, if any, unless the participant establishes to the satisfaction of theDirector, in accordance with regulations which the Director may prescribe, that the participant does not know, and has taken all reasonable steps to determine, the whereabouts of the current spouse” for “the requirement under section 2071(b)(4) of this title”.
 
 #### Effective Date of 1993 Amendment
 

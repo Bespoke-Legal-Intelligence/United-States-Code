@@ -36,7 +36,7 @@ Reference to persons aiding, causing or assisting was omitted. Such persons are 
 
 Reference to states, territories, specific places, etc., were omitted. This was made possible by insertion of words “interstate commerce or from any foreign country into the United States,” and by definitive section 10 of this title.
 
-Subsection (b) was rewritten to eliminate ambiguity and uncertainty by expressly making the exceptive language apply to the entire chapter and by permitting State institutions to manufacture goods for the Federal Government and the District of Columbia and vice versa. In such subsections, the words “penal and correctional” and “penal or correctional,” preceding “institutions” and “institution,” respectively, were omitted as surplusage.
+Subsection (b) was rewritten to eliminate ambiguity and uncertainty by expressly making the exceptive language apply to the entire chapter and by permittingState institutions to manufacture goods for the Federal Government and the District of Columbia and vice versa. In such subsections, the words “penal and correctional” and “penal or correctional,” preceding “institutions” and “institution,” respectively, were omitted as surplusage.
 
 Minor changes in phraseology were made.
 
@@ -90,5 +90,5 @@ Pub. L. 90–351, title I, §819(c), formerly §827(c), as added Pub. L. 96–15
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1762 of this title; title 41 section 35.
+This section is referred to in section 1762 of this title; title 41 section 35.
 

@@ -26,7 +26,7 @@ Before making any commitment to insure a mortgage under this section with respec
 
 #### (e) Assumption of mortgage
 
-A mortgage insured under this section may be assumed, subject to credit approval by the lender and the consent of the tribe to an assumption of the existing lease or the grant of a new lease, without an adjustment of the interest rate. Any other sale of a property subject to a mortgage insured under this section may be made only if a new lease is granted, except that a sale following a foreclosure may be accompanied by an assumption of the lease with the consent of the tribe.
+A mortgage insured under this section may be assumed, subject to credit approval by the lender and the consent of the tribe to an assumptionof the existing lease or the grant of a new lease, without an adjustment of the interest rate. Any other sale of a property subject to a mortgage insured under this section may be made only if a new lease is granted, except that a sale following a foreclosure may be accompanied by an assumption of the lease with the consent of the tribe.
 
 #### (f) Insurance of mortgage as obligation of General Insurance Fund
 

@@ -20,7 +20,7 @@ The Bureau is authorized to—
 
 &emsp;(4) collect and analyze statistical information, concerning the operations of the criminal justice system at the Federal, State, and local levels;
 
-&emsp;(5) collect and analyze statistical information concerning the prevalence, incidence, rates, extent, distribution, and attributes of crime, and juvenile delinquency, at the Federal, State, and local levels;
+&emsp;(5) collect and analyze statistical information concerning the prevalence, incidence,rates, extent, distribution, and attributes of crime, and juvenile delinquency, at the Federal, State, and local levels;
 
 &emsp;(6) analyze the correlates of crime, civil disputes and juvenile delinquency, by the use of statistical information, about criminal and civil justice systems at the Federal, State, and local levels, and about the extent, distribution and attributes of crime, and juvenile delinquency, in the Nation and at the Federal, State, and local levels;
 
@@ -176,7 +176,7 @@ Findings.—Congress finds that—
 
 &emsp;“(2) in fact, the National Crime Victim's Survey, conducted annually by the Bureau of Justice Statistics of the Department of Justice, does not specifically collect data relating to crimes against individuals with developmental disabilities;
 
-&emsp;“(3) studies in Canada, Australia, and Great Britain consistently show that victims with developmental disabilities suffer repeated victimization because so few of the crimes against them are reported, and even when they are, there is sometimes a reluctance by police, prosecutors, and judges to rely on the testimony of a disabled individual, making individuals with developmental disabilities a target for criminal predators;
+&emsp;“(3) studies in Canada, Australia, and Great Britain consistently show that victims with developmental disabilities suffer repeated victimization because sofew of the crimes against them are reported, and even when they are, there is sometimes a reluctance by police, prosecutors, and judges to rely on the testimony of a disabled individual, making individuals with developmental disabilities a target for criminal predators;
 
 &emsp;“(4) research in the United States needs to be done to—
 
@@ -186,7 +186,7 @@ Findings.—Congress finds that—
 
 &emsp;&emsp;“(C) identify programs, policies, or laws that hold promises for making the justice system more responsive to crimes against individuals with developmental disabilities; and
 
-&emsp;“(5) the National Academy of Science Committee on Law and Justice of the National Research Councilis a premier research institution with unique experience in developing seminal, multidisciplinary studies to establish a strong research base from which to make public policy.
+&emsp;“(5) the National Academy of Science Committee on Law and Justice of the National Research Council is a premier research institution with unique experience in developing seminal, multidisciplinary studies to establish a strong research base from which to make public policy.
 
 “(b)
 

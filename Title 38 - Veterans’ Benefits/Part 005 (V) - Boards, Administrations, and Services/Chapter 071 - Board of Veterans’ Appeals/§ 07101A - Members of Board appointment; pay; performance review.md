@@ -18,7 +18,7 @@
 
 &emsp;(B) recommend to the Secretary that the member be noncertified.
 
-(4) In the case of a member of the Board who is granted a conditional recertification under paragraph (3)(A) or (5)(A), the performance review panel shall review the member's job performance record and make a further determination under paragraph (1) concerning that member not later than one year after the date of the conditional recertification. If the determination of the performance review panel at that time is that the member's job performance as a member of the Board still does not meet the performance standards for a member of the Board established under subsection (f), the Chairman shall recommend to the Secretary that the member be noncertified.
+(4) In the case of a member of the Board who is granted a conditional recertification under paragraph (3)(A) or (5)(A), the performance review panel shall review the member's job performance record and make a further determination under paragraph (1) concerning that member not later than one year after the date of theconditional recertification. If the determination of the performance review panel at that time is that the member's job performance as a member of the Board still does not meet the performance standards for a member of the Board established under subsection (f), the Chairman shall recommend to the Secretary that the member be noncertified.
 
 (5) In a case in which the Chairman recommends to the Secretary under paragraph (3) or (4) that a member be noncertified, the Secretary, after considering the recommendation of the Chairman, may either—
 
@@ -36,7 +36,7 @@
 
 (2) In the case of a removal of a member under this section for a reason other than job performance that would be covered by section 7521 of title 5 in the case of an administrative law judge, the removal of the member of the Board shall be carried out subject to the same requirements as apply to removal of an administrative law judge under that section. Section 554(a)(2) of title 5 shall not apply to a removal action under this subsection. In such a removal action, a member shall have the rights set out in section 7513(b) of that title.
 
-(f) The Chairman, subject to the approval of the Secretary, shall establish standards for the performance of the job of a member of the Board (other than the Chairman or a member of the Senior Executive Service). Those standards shallestablish objective and fair criteria for evaluation of the job performance of a member of the Board.
+(f) The Chairman, subject to the approval of the Secretary, shall establish standards for the performance of the job of a member of the Board (other than the Chairman or a member of the Senior Executive Service). Those standards shall establish objective and fair criteria for evaluation of the job performance of a member of the Board.
 
 (g) The Secretary shall prescribe procedures for the administration of this section, including deadlines and time schedules for different actions under this section.
 

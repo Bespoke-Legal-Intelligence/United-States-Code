@@ -6,7 +6,7 @@ The Administrator of General Services and other agencies of the Government are a
 
 #### Transfer of Functions
 
-Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator, transferred to Administrator of General Services, and Federal Works Agency and office of Federal Works Administrator abolished by section 103 of act June 30, 1949, which is classified to section 753 of Title 40, Public Buildings, Property, and Works.
+Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal WorksAdministrator, transferred to Administrator of General Services, and Federal Works Agency and office of Federal Works Administrator abolished by section 103 of act June 30, 1949. See text of, and Historical and Revision Notes under, section 303(b) of Title 40, Public Buildings, Property, and Works.
 
 Public Buildings Branch of Procurement Division in Treasury Department and Public Works Administration and other agencies were consolidated into Federal Works Agency, and functions transferred to Federal Works Administrator, by Reorg. Plan No. I of 1939, set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -70,11 +70,11 @@ The authority to provide services to persons otherwise ineligible for the health
 
 #### (f) Equitable treatment
 
-For purposes of subsection (c)(1)(A) of this section, the Secretary shall, in evaluating facilities operated under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], use the same criteria that the Secretary uses in evaluating facilities operated directly by the Service.
+For purposes of subsection (c)(1)(A) of this section, the Secretary shall, in evaluating facilitiesoperated under any contract entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], use the same criteria that the Secretary uses in evaluating facilities operated directly by the Service.
 
 #### (g) Equitable integration of facilities
 
-The Secretary shall ensure that the planning, design, construction, and renovation needs ofService and non-Service facilities which are the subject of a contract for health services entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.
+The Secretary shall ensure that the planning, design, construction, and renovation needs of Service and non-Service facilities which are the subject of a contract for health services entered into with the Service under the Indian Self-Determination Act \[25 U.S.C. 450f et seq.\], are fully and equitably integrated into the implementation of the health care delivery demonstration projects under this section.
 
 #### (h) Report to Congress
 

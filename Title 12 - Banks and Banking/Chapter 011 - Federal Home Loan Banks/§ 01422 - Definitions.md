@@ -64,7 +64,7 @@ In general.—The term “community financial institution” means a member—
 
 Adjustments.—The $500,000,000 limit referred to in subparagraph (A)(ii) shall be adjusted annually by the Finance Board, based on the annual percentage increase, if any, in the Consumer Price Index for all urban consumers, as published by the Department of Labor.
 
-(July 22, 1932, ch. 522, §2, 47 Stat. 725; June 27, 1934, ch. 847, §507, 48 Stat. 1264; May 28, 1935, ch. 150, §1, 49 Stat. 293; July 14, 1952, ch. 723, §10(c), 66 Stat. 604; Pub. L. 86–70, §9(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §5(a), July 12, 1960, 74Stat. 411; Pub. L. 87–779, §2(a), Oct. 9, 1962, 76 Stat. 779; Pub. L. 101–73, title VII, §§701(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 411, 418; Pub. L. 106–102, title VI, §602, Nov. 12, 1999, 113 Stat. 1450.)
+(July 22, 1932, ch. 522, §2, 47 Stat. 725; June 27, 1934, ch. 847, §507, 48 Stat. 1264; May 28, 1935, ch. 150, §1, 49 Stat. 293; July 14, 1952, ch. 723, §10(c), 66 Stat. 604; Pub. L. 86–70, §9(a), June 25, 1959, 73 Stat. 142; Pub. L. 86–624, §5(a), July 12, 1960, 74 Stat. 411; Pub. L. 87–779, §2(a), Oct. 9, 1962, 76 Stat. 779; Pub. L. 101–73, title VII, §§701(a), 710(b)(1), Aug. 9, 1989, 103 Stat. 411, 418; Pub. L. 106–102, title VI, §602, Nov. 12, 1999, 113 Stat. 1450.)
 
 #### References in Text
 

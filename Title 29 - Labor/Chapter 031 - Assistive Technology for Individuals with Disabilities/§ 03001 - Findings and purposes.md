@@ -52,7 +52,7 @@ Congress finds the following:
 
 &emsp;(12) At the Federal level, the Federal Laboratories, the National Aeronautics and Space Administration, and other similar entities do not recognize the value of, or commit resources on an ongoing basis to, technology transfer initiatives that would benefit, and especially increase the independence of, individuals with disabilities.
 
-&emsp;(13) At the Federal level, there is a lack of coordination among agencies that provide or pay for the provision of assistive technology devices and assistive technology services. In addition, the Federal Government does not provide adequate assistance and information with respect to the quality and use of assistive technology devices and assistive technology services to targeted individuals.
+&emsp;(13) At the Federal level, there is a lack of coordination among agencies that provide or pay for the provision of assistive technology devices and assistive technology services. In addition, the Federal Government does notprovide adequate assistance and information with respect to the quality and use of assistive technology devices and assistive technology services to targeted individuals.
 
 &emsp;(14) There are changes in the delivery of assistive technology devices and assistive technology services, including—
 
@@ -118,7 +118,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 #### Short Title
 
-Pub. L. 105–394, §1(a), Nov. 13, 1998, 112 Stat. 3627, provided that: “This Act \[enacting this chapter, amending sections 705, 763, 764, 781, 792, 794b, and 794e of this title and section 3710 of Title 15, Commerce and Trade, and repealing chapter 24 of this title\] may be cited as the ‘Assistive Technology Act of 1998’.”
+Pub. L. 105–394, §1(a), Nov. 13, 1998, 112 Stat. 3627, provided that: “This Act \[enacting this chapter, amendingsections 705, 763, 764, 781, 792, 794b, and 794e of this title and section 3710 of Title 15, Commerce and Trade, and repealing chapter 24 of this title\] may be cited as the ‘Assistive Technology Act of 1998’.”
 
 #### Section Referred to in Other Sections
 

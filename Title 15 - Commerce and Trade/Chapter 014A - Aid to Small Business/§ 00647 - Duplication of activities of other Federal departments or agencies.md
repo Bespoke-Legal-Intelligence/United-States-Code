@@ -20,7 +20,7 @@ Prior similar provisions were contained in section 225, of act July 30, 1953, ch
 
 #### Amendments
 
-1986—Subsec. (a). Pub. L. 99–272 struck out agricultural enterprises exception and proviso that, prior to Oct. 1, 1987, an agricultural enterprise not be eligible for loan assistance under section 636(b)(1) of this title to repair or replace property other than residences and/or personal property unless it is declined for, or would be declined for, emergency loan assistance at substantially similar interest rates from the Farmers HomeAdministration under subchapter III of the Consolidated Farm and Rural Development Act.
+1986—Subsec. (a). Pub. L. 99–272 struck out agricultural enterprises exception and proviso that, prior to Oct. 1, 1987, an agricultural enterprise not be eligible for loan assistance under section 636(b)(1) of this title to repair or replace property other than residences and/or personal property unless it is declined for, or would be declined for, emergency loan assistance at substantially similar interest rates from the Farmers Home Administration under subchapter III of the Consolidated Farm and Rural Development Act.
 
 1984—Subsec. (a). Pub. L. 98–369 substituted “October 1, 1987” for “October 1, 1986”.
 

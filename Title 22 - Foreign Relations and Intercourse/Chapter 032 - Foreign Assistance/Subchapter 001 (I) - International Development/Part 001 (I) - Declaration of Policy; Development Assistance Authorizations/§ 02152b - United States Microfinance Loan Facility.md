@@ -28,7 +28,7 @@ The Administrator is authorized to establish a United States Microfinance Loan F
 
 #### (1) Policy provisions
 
-&emsp;In providing the credit assistance authorized by this section, the Administrator should apply, as appropriate, the policy provisions in subchapter I of this chapter that are applicable to development assistance activities.
+&emsp;In providing the credit assistance authorized by this section, the Administrator shouldapply, as appropriate, the policy provisions in subchapter I of this chapter that are applicable to development assistance activities.
 
 #### (2) Default and procurement provisions
 

@@ -64,7 +64,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (1) In general
 
-&emsp;Any vessel (including the vessel's equipment, stores, and cargo) and other item used, and any sanctuary resource taken or retained, in any manner, in connection with or as a result of any violation of this chapter or of any regulation or permit issued under this chapter shall be subject to forfeiture to the UnitedStates pursuant to a civil proceeding under this subsection. The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under section 1443 of this title. None of those proceeds shall be subject to set-off.
+&emsp;Any vessel (including the vessel's equipment, stores, and cargo) and other item used, and any sanctuary resource taken or retained, in any manner, in connection with or as a result of any violation of this chapter or of any regulation or permit issued under this chapter shall be subject to forfeiture to the United States pursuant to a civil proceeding under this subsection. The proceeds from forfeiture actions under this subsection shall constitute a separate recovery in addition to any amounts recovered as civil penalties under this section or as civil damages under section 1443 of this title. None of those proceeds shall be subject to set-off.
 
 #### (2) Application of the customs laws
 
@@ -100,7 +100,7 @@ Any person who is authorized to enforce this chapter may—
 
 #### (g) Subpoenas
 
-In the case of any hearing under this section which is determined on the record in accordance with the procedures provided for under section 554 of title 5, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, electronic files, and documents, and may administer oaths.
+In the case of any hearing under this section which is determined on the record in accordancewith the procedures provided for under section 554 of title 5, the Secretary may issue subpoenas for the attendance and testimony of witnesses and the production of relevant papers, books, electronic files, and documents, and may administer oaths.
 
 #### (h) Use of resources of State and other Federal agencies
 
@@ -159,6 +159,10 @@ In general.—Notwithstanding any other law, the Secretary may use amounts recei
 Subsec. (j). Pub. L. 102–587, §2107(e), added subsec. (j).
 
 1988—Pub. L. 100–627 amended section generally, substituting provisions consisting of subsecs. (a) to (i) relating to enforcement activities in general, powers of authorized officers, civil penalties, forfeiture, payment of storage, care, and other costs, subpoenas, use of resources of State and other Federal agencies, Coast Guard authority, and injunctive relief for former provisions consisting of subsecs. (a) to (c) relating to enforcement activities in general, civil penalties, and jurisdiction.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Study of Joint Enforcement of Marine Sanctuary Regulations
 

@@ -18,10 +18,15 @@
 | [<b>33.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20033%20-%20Inspection%20Generally/README.md) | <b>Inspection generally</b> | <b>3301</b> |
 | [<b>35.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20035%20-%20Carriage%20of%20Passengers/README.md) | <b>Carriage of passengers</b> | <b>3501</b> |
 | [<b>37.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20037%20-%20Carriage%20of%20Liquid%20Bulk%20Dangerous%20Cargoes/README.md) | <b>Carriage of liquid bulk dangerous cargoes</b> | <b>3701</b> |
-| [<b>39.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20039%20-%20Carriage%20of%20Animals/README.md) | <b>Carriage of animals</b> | <b>3901</b> |
+| [<b>39.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20039%20-%20Repealed/README.md) | <b>Carriage of animals </b><b><sup>1</sup></b> | <b>3901</b> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |  |
+| :--- | :---: | ---: |
 | [<b>41.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20041%20-%20Uninspected%20Vessels%20Generally/README.md) | <b>Uninspected vessels generally</b> | <b>4101</b> |
 | [<b>43.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20043%20-%20Recreational%20Vessels/README.md) | <b>Recreational vessels</b> | <b>4301</b> |
-| [<b>45.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20045%20-%20Uninspected%20Commercial%20Fishing%20Industry%20Vessels/README.md) | <b>Fish processing vessels </b><b><sup>1</sup></b> | <b>4501</b> |
+| [<b>45.</b>](Part%20B%20-%20Inspection%20and%20Regulation%20of%20Vessels/Chapter%20045%20-%20Uninspected%20Commercial%20Fishing%20Industry%20Vessels/README.md) | <b>Fish processing vessels </b><b><sup>2</sup></b> | <b>4501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -96,7 +101,7 @@
 | :--- | :---: | ---: |
 | [<b>121.</b>](Part%20H%20-%20Identification%20of%20Vessels/Chapter%20121%20-%20Documentation%20of%20Vessels/README.md) | <b>Documentation of vessels</b> | <b>12101</b> |
 | [<b>123.</b>](Part%20H%20-%20Identification%20of%20Vessels/Chapter%20123%20-%20Numbering%20Undocumented%20Vessels/README.md) | <b>Numbering undocumented vessels</b> | <b>12301</b> |
-| [<b>125.</b>](Part%20H%20-%20Identification%20of%20Vessels/Chapter%20125%20-%20Vessel%20Identification%20System/README.md) | <b>Vessel Identification System </b><b><sup>2</sup></b> | <b>12501</b> |
+| [<b>125.</b>](Part%20H%20-%20Identification%20of%20Vessels/Chapter%20125%20-%20Vessel%20Identification%20System/README.md) | <b>Vessel Identification System </b><b><sup>3</sup></b> | <b>12501</b> |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -22,7 +22,7 @@
 
 #### (3) Information
 
-&emsp;To receive a payment under this subsection, the tribe, tribal organization, or consortium shall submit such information to the Secretary of the Interior as is needed to determine the amounts to be distributed under paragraph (2).
+&emsp;To receive a payment under this subsection, the tribe, tribal organization, or consortiumshall submit such information to the Secretary of the Interior as is needed to determine the amounts to be distributed under paragraph (2).
 
 #### (4) Use of funds
 
@@ -58,7 +58,7 @@
 
 &emsp;&emsp;&emsp;(i) part H (as in effect for such fiscal year); and
 
-&emsp;&emsp;&emsp;(ii) subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in effect on theday before the date of the enactment of the Improving America's Schools Act of 1994) for children with disabilities under 3 years of age.
+&emsp;&emsp;&emsp;(ii) subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in effect on the day before the date of the enactment of the Improving America's Schools Act of 1994) for children with disabilities under 3 years of age.
 
 #### (B) Exception
 
@@ -92,7 +92,7 @@ If a State elects not to receive its allotment under subsection (c) of this sect
 
 Public Law 95–134, referred to in subsec. (a)(2), is Pub. L. 95–134, Oct. 15, 1977, 91 Stat. 1159, as amended. Provisions relating to consolidation of grants are contained in section 501 of Pub. L. 95–134 which is classified to section 1469a of Title 48, Territories and Insular Possessions.
 
-Part H (as in effect for such fiscal year \[1994\]), referred to in subsec. (c)(3)(A)(i), means part H of Pub. L. 91–230, title VI, as added by Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1145, which was classified generally to subchapter VIII (§1471 et seq.) of this chapter prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
+Part H (as in effect for such fiscal year \[1994\]), referred to in subsec. (c)(3)(A)(i), means part H of Pub. L. 91–230, title VI, as added by Pub. L. 99–457, title I,§101(a), Oct. 8, 1986, 100 Stat. 1145, which was classified generally to subchapter VIII (§1471 et seq.) of this chapter prior to repeal by Pub. L. 105–17, title II, §203(b), June 4, 1997, 111 Stat. 157, effective July 1, 1998.
 
 Subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965 (as in effect on the day before the date of enactment of the Improving America's Schools Act of 1994), referred to in subsec. (c)(3)(A)(ii), means subpart 2 of part D of chapter 1 of title I of Pub. L. 89–10, as added by Pub. L. 100–297, title I, §1001, Apr. 28, 1988, 102 Stat. 179, as amended, which was classified generally to subpart 2 (§2791 et seq.) of part D of div. I of subchapter I of chapter 47 of this title prior to being omitted in the general amendment of Pub. L. 89–10 by Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3519. The date of enactment of the Improving America's Schools Act of 1994 is the date of enactment of Pub. L. 103–382, which was approved Oct. 20, 1994.
 

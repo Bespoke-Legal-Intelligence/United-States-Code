@@ -2,7 +2,7 @@
 
 (a) The provisions of sections 105 and 106 of this title shall not be deemed to authorize the levy or collection of any tax on or from the United States or any instrumentality thereof, or the levy or collection of any tax with respect to sale, purchase, storage, or use of tangible personal property sold by the United States or any instrumentality thereof to any authorized purchaser.
 
-(b) A person shall be deemed to be an authorized purchaser under this section only with respect to purchases which he is permitted to make from commissaries, ship's stores, or voluntary unincorporated organizations of personnel of any branch of the Armed Forces of theUnited States, under regulations promulgated by the departmental Secretary having jurisdiction over such branch.
+(b) A person shall be deemed to be an authorized purchaser under this section only with respect to purchases which he is permitted to make from commissaries, ship's stores, or voluntary unincorporated organizations of personnel of any branch of the Armed Forces of the United States, under regulations promulgated by the departmental Secretary having jurisdiction over such branch.
 
 (July 30, 1947, ch. 389, 61 Stat. 645; Sept. 3, 1954, ch. 1263, §4, 68 Stat. 1227.)
 

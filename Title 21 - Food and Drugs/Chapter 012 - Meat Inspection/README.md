@@ -29,9 +29,7 @@
 | [611\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000611%20-%20Devices%2C%20marks%2C%20labels%2C%20and%20certificates%3B%20simulations.md) | Devices, marks, labels, and certificates; simulations. |
 | (a) | Devices to be made under authorization of Secretary. |
 | (b) | Other misconduct. |
-| [612\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000612%20-%20Inspection%20of%20animals%20for%20export.md) | Inspection of animals for export. |
-| [613\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000613%20-%20Inspectors%20of%20animals%20for%20export%3B%20certificates%20of%20condition.md) | Inspectors of animals for export; certificates of condition. |
-| [614\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000614%20-%20Clearance%20prohibited%20to%20vessel%20carrying%20animals%20for%20export%20without%20inspector%27s%20certificate.md) | Clearance prohibited to vessel carrying animals for export without inspector's certificate. |
+| 612 to 614. Repealed. |  |
 | [615\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000615%20-%20Inspection%20of%20carcasses%2C%20meat%20of%20which%20is%20intended%20for%20export.md) | Inspection of carcasses, meat of which is intended for export. |
 | [616\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000616%20-%20Inspectors%20of%20carcasses%2C%20etc.%2C%20meat%20of%20which%20is%20intended%20for%20export%3B%20certificates%20of%20condition.md) | Inspectors of carcasses, etc., meat of which is intended for export; certificates of condition. |
 | [617\.](Subchapter%20001%20%28I%29%20-%20Inspection%20Requirements%3B%20Adulteration%20and%20Misbranding/%C2%A7%2000617%20-%20Clearance%20prohibited%20to%20vessel%20carrying%20meat%20for%20export%20without%20inspector%27s%20certificate.md) | Clearance prohibited to vessel carrying meat for export without inspector's certificate. |
@@ -112,6 +110,10 @@
 | (g) | Conflicts of interest. |
 | (h) | Exemption. |
 | (i) | Funding. |
+| [679b.](Subchapter%20004%20%28IV%29%20-%20Auxiliary%20Provisions/%C2%A7%2000679b%20-%20Pasteurization%20of%20meat%20and%20poultry.md) | Pasteurization of meat and poultry. |
+| [679c.](Subchapter%20004%20%28IV%29%20-%20Auxiliary%20Provisions/%C2%A7%2000679c%20-%20Expansion%20of%20Food%20Safety%20Inspection%20Service%20activities.md) | Expansion of Food Safety Inspection Service activities. |
+| (a) | In general. |
+| (b) | Authorization of appropriations. |
 | [680\.](Subchapter%20004%20%28IV%29%20-%20Auxiliary%20Provisions/%C2%A7%2000680%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -130,7 +132,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 321, 392 of this title; title 7 sections 138f, 6519.
+This chapter is referred to in sections 321, 350c, 381, 392 of this title; title 7 sections 138f, 2219a, 6519.
 
 
 ---

@@ -42,7 +42,7 @@ Historical and Revision Notes
 
 46:881
 
-Section 3316 prescribes the relationship between certain classification societies and the Federal Government with respect to the promotion of maritime safety and the security of life and property at sea. Briefly stated, a classification society, like the American Bureau of Shipping (ABS), establishes and administers standards for the design, construction, and periodic survey of commercial vessels, yachts, and other marinestructures. Classification certifies adherence to these standards, thus representing that a vessel or structure possesses the structural and mechanical fitness required for its intended service.
+Section 3316 prescribes the relationship between certain classification societies and the Federal Government with respect to the promotion of maritime safety and the security of life and property at sea. Briefly stated, a classification society, like the American Bureau of Shipping (ABS), establishes and administers standards for the design, construction, and periodic survey of commercial vessels, yachts, and other marine structures. Classification certifies adherence to these standards, thus representing that a vessel or structure possesses the structural and mechanical fitness required for its intended service.
 
 The section requires that a Federal department, agency, or instrumentality recognize the American Bureau of Shipping as its agent for classing vessels owned by the Federal Government and in any matters related to classification. In effect, the ABS has a statutory monopoly on classing vessels of the United States Government. Additionally, the section contains the authority to permit the Secretary to rely on reports, documents, and certificates issued by a classification society that is similar to the American Bureau of Shipping. However, a “similar classification society” continues to mean one that is organized like the American Bureau of Shipping with attendant governmental representation.
 
@@ -59,4 +59,8 @@ Subsec. (b). Pub. L. 104–324, §607(a)(2), (4), redesignated subsec. (c) as (b
 Subsec. (c). Pub. L. 104–324, §607(a)(2), redesignated subsec. (c) as (b).
 
 Subsec. (d). Pub. L. 104–324, §607(a)(1), struck out subsec. (d) which read as follows: “The Secretary also may make an agreement with or use the Bureau or a similar United States classification society, or an agent of the Bureau or society, for reviewing and approving plans required for issuing a certificate of inspection.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

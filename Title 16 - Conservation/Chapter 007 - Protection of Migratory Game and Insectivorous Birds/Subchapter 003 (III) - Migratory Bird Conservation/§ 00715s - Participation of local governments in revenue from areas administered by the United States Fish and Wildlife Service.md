@@ -26,7 +26,7 @@ The Secretary may pay from the fund any necessary expenses incurred by him in co
 
 &emsp;(i) appraise before September 30, 1979, all fee areas for which payments under this section were not authorized for fiscal years occurring before October 1, 1977; and
 
-&emsp;(ii) appraise all other fee areas, within five years after October 17, 1978, in the order in which such areas were first established by the Service.
+&emsp;(ii) appraise all other fee areas, within five years after October 17, 1978, in the order inwhich such areas were first established by the Service.
 
 > After initial appraisal under clause (i) or (ii), each fee area shall thereafter be reappraised by the Secretary at least once during each five-year period occurring after the date of the initial appraisal. Until any fee area referred to in clause (ii) is initially appraised under this subparagraph, the fair market value of such area shall be deemed to be that adjusted cost of the area which was used to determine payments under this subsection for fiscal year 1977; and in no case may the amount of any payment to any local government under paragraph (1)(B) with respect to any fee area be less than the amount paid under paragraph (2)(A) of this subsection (as in effect on September 30, 1977) with respect to such area.
 

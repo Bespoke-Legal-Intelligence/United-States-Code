@@ -14,7 +14,7 @@ If a court of competent jurisdiction enters a final judgment on the merits that�
 
 #### Effective Date; Application of Amendment
 
-Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the firstmonth beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
+Section effective July 28, 2000, and applicable only to customer bills issued after the first day of the first month beginning more than 2 years after July 28, 2000, see section 3 of Pub. L. 106–252, set out as a note under section 116 of this title.
 
 #### Section Referred to in Other Sections
 

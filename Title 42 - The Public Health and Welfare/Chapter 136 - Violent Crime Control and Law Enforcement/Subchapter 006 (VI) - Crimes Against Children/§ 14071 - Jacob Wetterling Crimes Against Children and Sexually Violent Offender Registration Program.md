@@ -6,7 +6,7 @@
 
 &emsp;The Attorney General shall establish guidelines for State programs that require—
 
-&emsp;&emsp;(A) a person who is convicted of a criminal offense against a victim who is a minor or who is convicted of a sexually violent offense to register a current address for the time period specified in subparagraph (A) of subsection (b)(6) of this section; and
+&emsp;&emsp;(A) a person who is convicted of a criminal offense against a victim who is a minor or who is convicted of a sexually violent offense to register a current address for thetime period specified in subparagraph (A) of subsection (b)(6) of this section; and
 
 &emsp;&emsp;(B) a person who is a sexually violent predator to register a current address unless such requirement is terminated under subparagraph (B) of subsection (b)(6) of this section.
 
@@ -76,7 +76,7 @@ An approved State registration program established under this section shall cont
 
 &emsp;&emsp;(ii) inform the person that if the person changes residence address, the person shall report the change of address as provided by State law;
 
-&emsp;&emsp;(iii) inform the person that if the person changes residence to another State, the person shall report the change of address as provided by State law and comply with any registration requirement in the new State of residence, and inform the person that the person must also register in a State where the person is employed, carries on a vocation, or is a student;
+&emsp;&emsp;(iii) inform the person that if the person changes residence to another State, the person shall report the change of address as provided by State law and comply with any registration requirement in the new State ofresidence, and inform the person that the person must also register in a State where the person is employed, carries on a vocation, or is a student;
 
 &emsp;&emsp;(iv) obtain fingerprints and a photograph of the person if these have not already been obtained in connection with the offense that triggers registration; and
 
@@ -92,7 +92,7 @@ An approved State registration program established under this section shall cont
 
 #### (B) National reporting
 
-&emsp;&emsp;A State shall participate in the national database established under section 14072(b) of this title in accordance with guidelines issued by the Attorney General, including transmission of current address informationand other information on registrants to the extent provided by the guidelines.
+&emsp;&emsp;A State shall participate in the national database established under section 14072(b) of this title in accordance with guidelines issued by the Attorney General, including transmission of current address information and other information on registrants to the extent provided by the guidelines.
 
 #### (3) Verification
 
@@ -142,7 +142,7 @@ A person required to register under a State program established pursuant to this
 
 (1) The information collected under a State registration program may be disclosed for any purpose permitted under the laws of the State.
 
-(2) The State or any agency authorized by the State shall release relevant information that is necessary to protect the public concerning a specific person required to register under this section, except that the identity of a victim of an offense that requires registration under this section shall not be released.
+(2) The State or any agency authorized by the State shall release relevant information that isnecessary to protect the public concerning a specific person required to register under this section, except that the identity of a victim of an offense that requires registration under this section shall not be released.
 
 #### (f) Immunity for good faith conduct
 
@@ -172,7 +172,7 @@ Each requirement to register under this section shall be deemed to also require 
 
 #### (A) In general
 
-&emsp;&emsp;The Director of the Bureau of Justice Assistance (in this subsection referred to as the “Director”) shall carry out a program, which shall be known as the “Sex OffenderManagement Assistance Program” (in this subsection referred to as the “SOMA program”), under which the Director shall award a grant to each eligible State to offset costs directly associated with complying with this section.
+&emsp;&emsp;The Director of the Bureau of Justice Assistance (in this subsection referred to as the “Director”) shall carry out a program, which shall be known as the “Sex Offender Management Assistance Program” (in this subsection referred to as the “SOMA program”), under which the Director shall award a grant to each eligible State to offset costs directly associated with complying with this section.
 
 #### (B) Uses of funds
 
@@ -220,7 +220,7 @@ Each requirement to register under this section shall be deemed to also require 
 
 #### (B) Change in status
 
-&emsp;&emsp;A change in status under subparagraph (A)(ii) shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated information is promptly made available to a law enforcement agency having jurisdiction where such institution is located and entered into the appropriate State records or data system.
+&emsp;&emsp;A change in status under subparagraph (A)(ii) shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated information is promptly made available to a law enforcement agency having jurisdiction wheresuch institution is located and entered into the appropriate State records or data system.
 
 #### (2) State reporting
 
@@ -280,7 +280,7 @@ Subsec. (b)(3)(A)(i) to (iv). Pub. L. 105–119, §115(a)(2)(C)(ii), which direc
 
 Subsec. (b)(4). Pub. L. 105–119, §115(a)(2)(D), substituted “section shall be reported by the person in the manner provided by State law. State procedures shall ensure that the updated address information is promptly made available to a law enforcement agency having jurisdiction where the person will reside and entered into the appropriate State records or data system” for “section reported to the designated State law enforcement agency shall be immediately reported to the appropriate law enforcement agency having jurisdiction where the person is residing. The designated law enforcement agency shall, if the person changes residence to another State, notify the law enforcement agency with which the person must register in the new State, if the new State has a registration requirement”.
 
-Subsec. (b)(5). Pub. L. 105–119, §115(a)(2)(E), substituted “and who moves to another State, shall report the change of address to the responsible agency in the State the person is leaving, and shall comply with any registration requirement in the new State of residence. The procedures of the State the person is leaving shall ensure that notice is provided promptly to an agency responsible for registration in the new State, if that State requires registration” for “shall register the new address with a designated law enforcement agency in another State to which the person moves not later than 10 days after such person establishes residence in the new State, if the new State has a registration requirement”.
+Subsec. (b)(5). Pub. L. 105–119, §115(a)(2)(E), substituted “and who moves to another State, shall report the change of address to the responsible agency in the State the person is leaving, and shall comply with any registration requirement in the new State of residence. The procedures of the State the person is leaving shall ensure that notice is provided promptly to an agencyresponsible for registration in the new State, if that State requires registration” for “shall register the new address with a designated law enforcement agency in another State to which the person moves not later than 10 days after such person establishes residence in the new State, if the new State has a registration requirement”.
 
 Subsec. (b)(7). Pub. L. 105–119, §115(a)(2)(F), added par. (7).
 
@@ -354,7 +354,7 @@ Effective Date.—States shall be allowed the time specified in subsection (b) t
 
 #### Regulations
 
-Section 9 of Pub. L. 104–236 provided that: “Not later than 1 year after the date of enactment of this Act \[Oct. 3, 1996\], the Attorney General shall issue regulations to carry out this Act \[see Effective Date of 1996 Amendment note above\] and the amendments made by this Act.”
+Section 9 of Pub. L. 104–236 provided that: “Not later than 1 year after the date of enactment of this Act\[Oct. 3, 1996\], the Attorney General shall issue regulations to carry out this Act \[see Effective Date of 1996 Amendment note above\] and the amendments made by this Act.”
 
 #### Severability
 

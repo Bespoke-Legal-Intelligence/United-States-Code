@@ -18,7 +18,7 @@ Status and Compensation.—Officers and employees of the corporation—
 
 #### Amendment Subsequent to August 15, 1997
 
-<i>Section 5202(g)(1) of former Title 36, from which this section was derived, was amended by Pub. L. 105–276, title IV, §427(b), Oct. 21, 1998, 112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. As subsequently amended by Pub. L. 106–503, this section restated the provisions of section 5202(g)(1) of former Title 36, as amended by Pub. L. 105–276, §427(b).</i>
+<i>Section 5202(g)(1) of former Title 36, from which this section was derived, was amended by Pub. L. 105–276, title IV, §427(b), Oct. 21, 1998,</i><i>112 Stat. 2511, see section 5(a) of Pub. L. 105–225, set out as a Legislative Purpose and Construction note preceding section 101 of this title. As subsequently amended by Pub. L. 106–503, this section restated the provisions of section 5202(g)(1) of former Title 36, as amended by Pub. L. 105–276, §427(b).</i>
 
 Historical and Revision Notes
 

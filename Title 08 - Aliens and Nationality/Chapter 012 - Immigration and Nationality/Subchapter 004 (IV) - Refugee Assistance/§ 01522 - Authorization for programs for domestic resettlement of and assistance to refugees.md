@@ -12,7 +12,7 @@
 
 &emsp;(iii) local voluntary agency activities should be conducted in close cooperation and advance consultation with State and local governments.
 
-(2)(A) The Director and the Federal agency administering subsection (b)(1) of this section shall consult regularly (not less often than quarterly) with State and local governments and private nonprofit voluntary agencies concerningthe sponsorship process and the intended distribution of refugees among the States and localities before their placement in those States and localities.
+(2)(A) The Director and the Federal agency administering subsection (b)(1) of this section shall consult regularly (not less often than quarterly) with State and local governments and private nonprofit voluntary agencies concerning the sponsorship process and the intended distribution of refugees among the States and localities before their placement in those States and localities.
 
 (B) The Director shall develop and implement, in consultation with representatives of voluntary agencies and State and local governments, policies and strategies for the placement and resettlement of refugees within the United States.
 
@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(v) for the identification of refugees who at the time of resettlement in the State are determined to have medical conditions requiring, or medical histories indicating a need for, treatment or observation and such monitoring of such treatment or observation as may be necessary;
 
-&emsp;(B) meet standards, goals, and priorities, developed by the Director, which assure the effective resettlement of refugees and whichpromote their economic self-sufficiency as quickly as possible and the efficient provision of services; and
+&emsp;(B) meet standards, goals, and priorities, developed by the Director, which assure the effective resettlement of refugees and which promote their economic self-sufficiency as quickly as possible and the efficient provision of services; and
 
 &emsp;(C) submit to the Director, within a reasonable period of time after the end of each fiscal year, a report on the uses of funds provided under this subchapter which the State is responsible for administering.
 
@@ -106,7 +106,7 @@
 
 (4) The Secretary shall—
 
-&emsp;(A) assure that an adequate number of trained staff are available at the location at which the refugees enter the United States to assure that all necessary medical records are available and in proper order;
+&emsp;(A) assure that an adequate number of trained staff are available at the location atwhich the refugees enter the United States to assure that all necessary medical records are available and in proper order;
 
 &emsp;(B) provide for the identification of refugees who have been determined to have medical conditions affecting the public health and requiring treatment;
 
@@ -168,7 +168,7 @@
 
 &emsp;(i) to assist refugees in obtaining the skills which are necessary for economic self-sufficiency, including projects for job training, employment services, day care, professional refresher training, and other recertification services;
 
-&emsp;(ii) to provide training in English where necessary (regardless of whether the refugees are employed or receiving cash or other assistance); and
+&emsp;(ii) to provide training in English where necessary (regardless of whether the refugees areemployed or receiving cash or other assistance); and
 
 &emsp;(iii) to provide where specific needs have been shown and recognized by the Director, health (including mental health) services, social services, educational and other services.
 
@@ -182,7 +182,7 @@
 
 &emsp;(i) primarily for the purpose of facilitating refugee employment and achievement of self-sufficiency,
 
-&emsp;(ii) in a manner that does not supplant other refugee program funds and that assures thatnot less than 95 percent of the amount of the grant award is made available to the county or other local entity.
+&emsp;(ii) in a manner that does not supplant other refugee program funds and that assures that not less than 95 percent of the amount of the grant award is made available to the county or other local entity.
 
 #### (d) Assistance for refugee children
 
@@ -266,7 +266,7 @@
 
 &emsp;(B) such other information as the Attorney General may require.
 
-(3) For a fiscal year the Attorney General shall pay the costs described in paragraph (1) to each State and county determined by the Attorney General to be eligible under paragraph (2); except that if the amounts appropriated for the fiscal year to carry out this subsection are insufficient to cover all such payments, each of such payments shall be ratably reduced so that the total of such payments equals the amounts so appropriated.
+(3) For a fiscal year the Attorney General shall pay the costs described in paragraph (1) to each State and county determined by the Attorney General to be eligible under paragraph (2);except that if the amounts appropriated for the fiscal year to carry out this subsection are insufficient to cover all such payments, each of such payments shall be ratably reduced so that the total of such payments equals the amounts so appropriated.
 
 (4) The authority of the Attorney General to pay compensation under this subsection shall be effective for any fiscal year only to the extent and in such amounts as may be provided in advance in appropriation Acts.
 
@@ -334,7 +334,7 @@ Subsec. (e)(2)(A)(ii). Pub. L. 99–605, §8(b), inserted “or targeted assista
 
 Subsec. (e)(2)(C). Pub. L. 99–605, §9(a)(2), added subpar. (C).
 
-Subsec. (e)(7)(A). Pub. L. 99–605, §10, inserted provisions which related to alternative projects for specific groups of refugees in the United States 36 months or longer if determined to be disproportionately dependent on welfare.
+Subsec. (e)(7)(A). Pub. L. 99–605, §10, inserted provisions which related to alternative projects for specificgroups of refugees in the United States 36 months or longer if determined to be disproportionately dependent on welfare.
 
 Subsec. (e)(8). Pub. L. 99–605, §9(b), added par. (8).
 
@@ -364,7 +364,7 @@ Subsec. (b)(6). Pub. L. 97–363, §5(4), added par. (6).
 
 Subsec. (e)(1). Pub. L. 97–363, §6(a), struck out “up to” before “100 per centum”.
 
-Subsec. (e)(2). Pub. L. 97–363, §6(b), redesignated existing provisions of par. (2) as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (iii), respectively, added cl. (ii), inserted provision that cash assistance be cut off, after opportunity for hearing, to arefugee who refuses appropriate offer of employment or participation in available social service program, and added subpar. (B).
+Subsec. (e)(2). Pub. L. 97–363, §6(b), redesignated existing provisions of par. (2) as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (iii), respectively, added cl. (ii), inserted provision that cash assistance be cut off, after opportunity for hearing, to a refugee who refuses appropriate offer of employment or participation in available social service program, and added subpar. (B).
 
 Subsec. (e)(6). Pub. L. 97–363, §6(c), added par. (6).
 
@@ -433,6 +433,10 @@ Section 313 of part B of title III of Pub. L. 96–212 provided that:
 &emsp;“(2) to provide reimbursement in any fiscal year for 100 percent of the non-Federal costs associated with such Cuban refugees with respect to whom supplemental security income payments were being paid as of September 30, 1978, under title XVI of the Social Security Act \[42 U.S.C. 1381 et seq.\].
 
 “(d) the requirements of section 412(a)(6)(A) of the Immigration and Nationality Act \[subsec. (a)(6)(A) of this section\] shall apply to assistance furnished under chapter 2 of title IV of such Act \[this subchapter\] after October 1, 1980, or such earlier date as the Director of the Office of Refugee Resettlement may establish.”
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Maintaining Funding Level of Matching Grant Program
 
@@ -536,7 +540,7 @@ I74“state entitlements
 
 “(2) The amount of the grant to which a State educational agency is otherwise entitled for any fiscal year, as determined under paragraph (1), shall be reduced by the amounts made available for such fiscal year under any other Federal law for expenditure within the State for the same purposes as those for which funds are made available under this title, except that the reduction shall be made only to the extent that (A) such amounts are made available for such purposes specifically because of the refugee, parolee, or asylee status of the individuals to be served by such funds, and (B) such amounts are made available to provide assistance to individuals eligible for services under this title. The amount of the reduction required under this paragraph shall be determined by the Secretary in a manner consistent with subsection (c).
 
-“(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 201(a) shall be considered to be payments under this title.
+“(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section103 for the purposes set forth in section 201(a) shall be considered to be payments under this title.
 
 “(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
 
@@ -558,7 +562,7 @@ I74“state entitlements
 
 #### “payments and authorizations
 
-“Sec. 203. (a) The Secretary shall pay to each State educational agency having an application approvedunder section 202 the amount which that State is entitled to receive under this title.
+“Sec. 203. (a) The Secretary shall pay to each State educational agency having an application approved under section 202 the amount which that State is entitled to receive under this title.
 
 “(b) For fiscal year 1981 and for each subsequent fiscal year, there is authorized to be appropriated, in the manner specified under section 102, to make payments under this title an amount equal to the product of—
 
@@ -614,7 +618,7 @@ I74“state entitlements
 
 &emsp;&emsp;“(C) special materials and supplies;
 
-&emsp;“(2) additional basic instructional services which are directly attributable to the presence in the school district of eligible participants, including the costs of providing additional classroom supplies, overhead costs, costs of construction, acquisition or rental ofspace, costs of transportation, or such other costs as are directly attributable to such additional basis instructional services; and
+&emsp;“(2) additional basic instructional services which are directly attributable to the presence in the school district of eligible participants, including the costs of providing additional classroom supplies, overhead costs, costs of construction, acquisition or rental of space, costs of transportation, or such other costs as are directly attributable to such additional basis instructional services; and
 
 &emsp;“(3) special inservice training for personnel who will be providing instruction described in either paragraph (1) or (2) of this subsection.
 
@@ -668,7 +672,7 @@ I74“state entitlements
 
 “(3) For the purpose of this subsection, the term ‘State’ does not include Guam, American Samoa, the Virgin Islands, the Northern Mariana Islands, and the Trust Territory of the Pacific Islands. The entitlements of such jurisdictions shall be determined in the manner specified in section 103, but for purposes of this title and section 105 any payments made under section 103 for the purposes set forth in section 402 shall be considered to be payments under this title.
 
-“(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction undersubsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
+“(c) Determinations by the Secretary under this title for any period with respect to the number of eligible participants and the amount of the reduction under subsection (b)(2) shall be made, whenever actual satisfactory data are not available, on the basis of estimates. No such determination shall operate because of an underestimate or overestimate to deprive any State educational agency of its entitlement to any payment (or the amount thereof) under this title to which such agency would be entitled had such determination been made on the basis of accurate data.
 
 #### “use of funds
 
@@ -762,19 +766,17 @@ Ex. Ord. No. 12251, Nov. 15, 1980, 45 F.R. 76085, which related to the delegatio
 
 #### Ex. Ord. No. 12341. Delegation of Functions Concerning Educational Assistance to Cuban and Haitian Entrants
 
-Ex. Ord. No. 12341, Jan. 21, 1982, 47 F.R. 3341, provided:
+Ex. Ord. No. 12341, Jan. 21, 1982, 47 F.R. 3341, as amended by Ex. Ord. No. 13286, §48, Feb. 28, 2003, 68 F.R. 10628, provided:
 
 By the authority vested in me as President of the United States of America by Section 501 of the Refugee Education Assistance Act of 1980 (8 U.S.C. 1522 note) and Section 301 of Title 3 of the United States Code, and to reassign some responsibilities for providing assistance to Cuban and Haitian entrants, it is hereby ordered as follows:
 
 Section 1. The functions vested in the President by Sections 501(a) and (b) of the Refugee Education Assistance Act of 1980, hereinafter referred to as the Act (8 U.S.C. 1522 note), are delegated to the Secretary of Health and Human Services.
 
-Sec. 2. The Attorney General shall ensure that actions are taken to provide such assistance to Cuban and Haitian entrants as provided for by Section 501(c) of the Act. To that end, the functions vested in the President by Section 501(c) of the Act are delegated to the Attorney General.
+Sec. 2. The Secretary of Homeland Security shall ensure that actions are taken to provide such assistance to Cuban and Haitian entrants as provided for by Section 501(c) of the Act. To that end, the functions vested in the President by Section 501(c) of the Act are delegated to the Secretary of Homeland Security.
 
 Sec. 3. All actions taken pursuant to Executive Order No. 12251 \[formerly set out as a note above\] shall continue in effect until superseded by actions under this Order.
 
 Sec. 4. Executive Order No. 12251 of November 15, 1980, is revoked.
-
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Presidential Determination Authorizing Transportation for Certain Unaccompanied Minors, Elderly, and Ill Individuals
 
@@ -790,5 +792,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1523 of this title; title 42 sections 1382, 1396v.
+This section is referred to in section 1523 of this title; title 6 section 279; title 42 sections 1382, 1396v.
 

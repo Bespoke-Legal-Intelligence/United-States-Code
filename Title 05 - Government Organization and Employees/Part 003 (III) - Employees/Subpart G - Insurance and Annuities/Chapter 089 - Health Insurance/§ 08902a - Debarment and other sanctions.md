@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(B) that surrendered such a license while a formal disciplinary proceeding was pending before such an authority, if the proceeding concerned the provider's professional competence, professional performance, or financial integrity.
 
-&emsp;(2) Any provider that is an entity directly or indirectly owned, or with a control interest of 5 percent or more held, by an individual who has been convicted of any offense described in subsection (b), against whom a civil monetary penalty has been assessed under subsection (d), or who has been debarred from participation under this chapter.
+&emsp;(2) Any provider that is an entity directly or indirectly owned, or with a control interest of 5 percent or more held, by an individual who has been convicted of any offense described insubsection (b), against whom a civil monetary penalty has been assessed under subsection (d), or who has been debarred from participation under this chapter.
 
 &emsp;(3) Any individual who directly or indirectly owns or has a control interest in a sanctioned entity and who knows or should know of the action constituting the basis for the entity's conviction of any offense described in subsection (b), assessment with a civil monetary penalty under subsection (d), or debarment from participation under this chapter.
 
@@ -90,9 +90,9 @@
 
 (2)(A) Except as provided in subparagraph (B), a debarment shall be effective with respect to any health care services or supplies furnished by a provider on or after the effective date of such provider's debarment.
 
-(B) A debarment shall not apply with respect to inpatient institutional services furnished toan individual who was admitted to the institution before the date the debarment would otherwise become effective until the passage of 30 days after such date, unless the Office determines that the health or safety of the individual receiving those services warrants that a shorter period, or that no such period, be afforded.
+(B) A debarment shall not apply with respect to inpatient institutional services furnished to an individual who was admitted to the institution before the date the debarment would otherwise become effective until the passage of 30 days after such date, unless the Office determines that the health or safety of the individual receiving those services warrants that a shorter period, or that no such period, be afforded.
 
-(3) Any notice of debarment referred to in paragraph (1) shall specify the date as of which debarment becomes effective and the minimum period of time for which such debarment is to remain effective. In the case of a debarment under paragraph (1), (2), (3), or (4) of subsection (b), the minimum period of debarment shall not be less than 3 years, except as provided in paragraph (4)(B)(ii).
+(3) Any notice of debarment referred to in paragraph (1) shall specify the date as of which debarment becomes effective and the minimum period of time for which such debarment is to remain effective. In the case of a debarment under paragraph (1), (2), (3), or (4) of subsection\(b), the minimum period of debarment shall not be less than 3 years, except as provided in paragraph (4)(B)(ii).
 
 (4)(A) A provider barred from participating in the program under this chapter may, after the expiration of the minimum period of debarment referred to in paragraph (3), apply to the Office, in such manner as the Office may by regulation prescribe, for termination of the debarment.
 
@@ -126,7 +126,7 @@
 
 (i) A civil action to recover civil monetary penalties or assessments under subsection (d) shall be brought by the Attorney General in the name of the United States, and may be brought in the United States district court for the district where the claim involved was presented or where the person subject to the penalty resides. Amounts recovered under this section shall be paid to the Office for deposit into the Employees Health Benefits Fund. The amount of a penalty or assessment as finally determined by the Office, or other amount the Office may agree to in compromise, may be deducted from any sum then or later owing by the United States to the party against whom the penalty or assessment has been levied.
 
-(j) The Office shall prescribe regulations under which, with respect to services or supplies furnished by a debarred provider to a covered individual during the period of such provider's debarment, payment or reimbursement under this chapter may be made, notwithstanding the factof such debarment, if such individual did not know or could not reasonably be expected to have known of the debarment. In any such instance, the carrier involved shall take appropriate measures to ensure that the individual is informed of the debarment and the minimum period of time remaining under the terms of the debarment.
+(j) The Office shall prescribe regulations under which, with respect to services or supplies furnished by a debarred provider to a covered individual during the period of such provider's debarment, payment or reimbursement under this chapter may be made, notwithstanding the fact of such debarment, if such individual did not know or could not reasonably be expected to have known of the debarment. In any such instance, the carrier involved shall take appropriate measures to ensure that the individual is informed of the debarment and the minimum period of time remaining under the terms of the debarment.
 
 (Added Pub. L. 100–654, title I, §101(a), Nov. 14, 1988, 102 Stat. 3837; amended Pub. L. 105–266, §2(a), Oct. 19, 1998, 112 Stat. 2363.)
 
@@ -210,7 +210,7 @@ Applicability.—The amendments made by this title \[enacting this section\] sha
 
 “(b)
 
-Prior Conduct Not To Be Considered.—In carrying out section 8902a of title 5, United States Code, asadded by this title, no debarment, civil monetary penalty, or assessment may be imposed under such section based on any criminal or other conduct occurring before the beginning of the first calendar year which begins after the date of the enactment of this Act \[Nov. 14, 1988\].”
+Prior Conduct Not To Be Considered.—In carrying out section 8902a of title 5, United States Code, as added by this title, no debarment, civil monetary penalty, or assessment may be imposed under such section based on any criminal or other conduct occurring before the beginning of the first calendar year which begins after the date of the enactment of this Act \[Nov. 14, 1988\].”
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a period.</i>
 

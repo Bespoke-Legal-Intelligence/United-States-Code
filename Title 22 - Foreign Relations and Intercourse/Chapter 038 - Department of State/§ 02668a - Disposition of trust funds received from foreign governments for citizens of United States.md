@@ -14,5 +14,5 @@ Section was formerly classified to section 547 of Title 31 prior to the general 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 225.
+This section is referred to in section 2710 of this title; title 20 section 225.
 

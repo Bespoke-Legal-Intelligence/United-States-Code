@@ -30,7 +30,7 @@ The Migratory Bird Treaty Act, referred to in par. (4), is act July 3, 1918, ch.
 
 The Federal Aid in Wildlife Restoration Act, referred to in par. (4), is act Sept. 2, 1937, ch. 899, 50 Stat. 917, as amended, also known as the Pittman-Robertson Wildlife Restoration Act, which is classified generally to chapter 5B (§669 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 669 of this title and Tables.
 
-The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of thistitle. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
+The Magnuson-Stevens Fishery Conservation and Management Act, referred to in par. (4), is Pub. L. 94–265, Apr. 13, 1976, 90 Stat. 331, as amended, which is classified principally to chapter 38 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
 The Federal Aid in Fish Restoration Act, referred to in par. (4), is act Aug. 9, 1950, ch. 658, 64 Stat. 430, as amended, also known as the Dingell-Johnson Sport Fish Restoration Act and the Fish Restoration and Management Projects Act, which is classified generally to chapter 10B (§777 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 777 of this title and Tables.
 
@@ -44,7 +44,7 @@ The Federal Aid in Fish Restoration Act, referred to in par. (4), is act Aug. 9,
 
 #### Effective and Termination Dates of 1997 Amendment
 
-Until laws are adopted in Alaska which provide for definition, preference, and participation specified in sections 3113 to 3115 of this title, amendment by Pub. L. 105–83 was effective only for purpose of determining whether State's laws provide for such definition, preference, and participation, and such amendment was repealed on Dec. 1, 1998, because such laws had not been adopted, see section 316(d) of Pub. L. 105–83 set out as a note under section 3102 of this title.
+Until laws are adopted in Alaska which provide for definition, preference, and participation specified in sections 3113 to 3115 of this title, amendment by Pub. L.105–83 was effective only for purpose of determining whether State's laws provide for such definition, preference, and participation, and such amendment was repealed on Dec. 1, 1998, because such laws had not been adopted, see section 316(d) of Pub. L. 105–83 set out as a note under section 3102 of this title.
 
 #### Effective Date of 1996 Amendment
 

@@ -18,6 +18,10 @@ Assistance under programs referred to in subsection (a) of this section may (not
 
 Section 301, referred to in subsec. (b), is section 301 of Pub. L. 104–201, div. A, title III, Sept. 23, 1996, 110 Stat. 2475, which is not classified to the Code.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Delegation of Authority
 
 Memorandum of President of the United States, July 24, 1997, 62 F.R. 40727, provided:

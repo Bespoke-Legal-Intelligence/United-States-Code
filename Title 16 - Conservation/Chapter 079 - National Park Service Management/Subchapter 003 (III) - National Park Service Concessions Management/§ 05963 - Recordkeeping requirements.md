@@ -6,7 +6,7 @@ Each concessioner shall keep such records as the Secretary may prescribe to enab
 
 #### (b) Access to records
 
-The Comptroller General or any duly authorized representative of the Comptroller Generalshall, until the expiration of 5 calendar years after the close of the business year of each concessioner or subconcessioner, have access to and the right to examine any pertinent books, papers, documents and records of the concessioner or subconcessioner related to the contract or contracts involved.
+The Comptroller General or any duly authorized representative of the Comptroller General shall, until the expiration of 5 calendar years after the close of the business year of each concessioner or subconcessioner, have access to and the right to examine any pertinent books, papers, documents and records of the concessioner or subconcessioner related to the contract or contracts involved.
 
 (Pub. L. 105–391, title IV, §414, Nov. 13, 1998, 112 Stat. 3515.)
 

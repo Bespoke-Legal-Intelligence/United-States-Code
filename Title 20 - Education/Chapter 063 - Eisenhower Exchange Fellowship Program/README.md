@@ -17,6 +17,7 @@
 | (c) | Agricultural exchange program. |
 | (d) | Participation by United States minority populations. |
 | [5206\.](%C2%A7%2005206%20-%20Report%20to%20Congress.md) | Report to Congress. |
+| [5207\.](%C2%A7%2005207%20-%20Status%20as%20executive%20agency.md) | Status as executive agency. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -31,3 +32,4 @@
 - [&sect; 05204 - Authorization of appropriations](%C2%A7%2005204%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 05205 - Use of income on endowment](%C2%A7%2005205%20-%20Use%20of%20income%20on%20endowment.md)
 - [&sect; 05206 - Report to Congress](%C2%A7%2005206%20-%20Report%20to%20Congress.md)
+- [&sect; 05207 - Status as executive agency](%C2%A7%2005207%20-%20Status%20as%20executive%20agency.md)

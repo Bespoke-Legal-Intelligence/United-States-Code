@@ -10,9 +10,9 @@
 
 &emsp;Each State, in the notice of termination of aid under part A of subchapter IV of this chapter sent to a family meeting the requirements of paragraph (1)—
 
-&emsp;&emsp;(A) shall notify the family of its right to extended medical assistance under this subsection and include in the notice a description of the reporting requirement of subsection (b)(2)(B)(i) of this section and of the circumstances (described in paragraph (3))under which such extension may be terminated; and
+&emsp;&emsp;(A) shall notify the family of its right to extended medical assistance under this subsection and include in the notice a description of the reporting requirement of subsection (b)(2)(B)(i) of this section and of the circumstances (described in paragraph (3)) under which such extension may be terminated; and
 
-&emsp;&emsp;(B) shall include a card or other evidence of the family's entitlement to assistance under this subchapter for the period provided in this subsection.
+&emsp;&emsp;(B) shall include a card or other evidence of the family's entitlement to assistanceunder this subchapter for the period provided in this subsection.
 
 #### (3) Termination of extension
 
@@ -70,7 +70,7 @@
 
 #### (i) During initial extension period
 
-&emsp;&emsp;&emsp;Each State shall require (as a condition for additional extended assistance under this subsection) that a family receiving extended assistance under subsection (a) of this section report to the State, not later than the 21st day of the 4th month in the period of extended assistance under subsection (a) of this section, on the family's gross monthly earnings and on the family's costs for such child care as is necessary for the employment of the caretaker relative in each of the first 3 months of that period. A State may permit such additional extended assistance under this subsection notwithstanding a failure to report under this clause if the family has established, to the satisfaction of the State, good cause for the failure to report on a timely basis.
+&emsp;&emsp;&emsp;Each State shall require (as a condition for additional extended assistance underthis subsection) that a family receiving extended assistance under subsection (a) of this section report to the State, not later than the 21st day of the 4th month in the period of extended assistance under subsection (a) of this section, on the family's gross monthly earnings and on the family's costs for such child care as is necessary for the employment of the caretaker relative in each of the first 3 months of that period. A State may permit such additional extended assistance under this subsection notwithstanding a failure to report under this clause if the family has established, to the satisfaction of the State, good cause for the failure to report on a timely basis.
 
 #### (ii) During additional extension period
 
@@ -114,7 +114,7 @@
 
 #### (i) Dependent children
 
-&emsp;&emsp;&emsp;With respect to a child who would cease to receive medical assistance because of subparagraph (A)(i) but who may be eligible for assistance under the State plan because the child is described in clause (i) of section 1396d(a) of this title or clause (i)(IV), (i)(VI), (i)(VII), or (ii)(IX) of section 1396a(a)(10)(A) of this title, the State may not discontinue such assistance under suchsubparagraph until the State has determined that the child is not eligible for assistance under the plan.
+&emsp;&emsp;&emsp;With respect to a child who would cease to receive medical assistance because of subparagraph (A)(i) but who may be eligible for assistance under the State plan because the child is described in clause (i) of section 1396d(a) of this title or clause (i)(IV), (i)(VI), (i)(VII), or (ii)(IX) of section 1396a(a)(10)(A) of this title, the State may not discontinue such assistance under such subparagraph until the State has determined that the child is not eligible for assistance under the plan.
 
 #### (ii) Medically needy
 
@@ -184,7 +184,7 @@
 
 #### (A) Permitted
 
-&emsp;&emsp;Notwithstanding any other provision of this subchapter (including section 1396<i>o</i> of this title), a State may impose a premium for a family for additional extended coverage under this subsection for a premium payment period (as defined in subparagraph (D)(i)), but only if the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) for the premium base period exceed 100 percent of the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
+&emsp;&emsp;Notwithstanding any other provision of this subchapter (including section 1396<i>o</i> of this title), a State may impose a premium for a family for additional extended coverage under this subsection for a premium payment period (as defined in subparagraph\(D)(i)), but only if the family's average gross monthly earnings (less the average monthly costs for such child care as is necessary for the employment of the caretaker relative) for the premium base period exceed 100 percent of the official poverty line (as defined by the Office of Management and Budget, and revised annually in accordance with section 9902(2) of this title) applicable to a family of the size involved.
 
 #### (B) Level may vary by option offered
 

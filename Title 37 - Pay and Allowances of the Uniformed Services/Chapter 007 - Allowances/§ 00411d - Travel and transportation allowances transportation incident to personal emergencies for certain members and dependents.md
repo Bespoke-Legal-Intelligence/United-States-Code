@@ -18,11 +18,11 @@
 
 (c) Transportation under this section may be authorized only upon a determination that, considering the nature of the personal emergency involved, Government transportation is not reasonably available. The cost of transportation authorized under this section for a member, or the dependents of a member, may not exceed the cost of Government-procured commercial air travel between the applicable locations described in subsection (b).
 
-(d) In this section, the term “continental United States” means the 48 contiguous States and the District of Columbia.
-
-(Added Pub. L. 97–60, title I, §126(a), Oct. 14, 1981, 95 Stat. 1004; amended Pub. L. 98–525, title VI, §612(a)(1), Oct. 19, 1984, 98 Stat. 2538; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §623, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 106–65, div. A, title VI, §633, Oct. 5, 1999, 113 Stat. 661.)
+(Added Pub. L. 97–60, title I, §126(a), Oct. 14, 1981, 95 Stat. 1004; amended Pub. L. 98–525, title VI, §612(a)(1), Oct. 19, 1984, 98 Stat. 2538; Pub. L. 100–26, §8(e)(6), Apr. 21, 1987, 101 Stat. 286; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title VI, §623, Oct. 5, 1994, 108 Stat. 2784; Pub. L. 106–65, div. A, title VI, §633, Oct. 5, 1999, 113 Stat. 661; Pub. L. 107–314, div. A, title VI, §654(b)(5), Dec. 2, 2002, 116 Stat. 2582.)
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–314 struck out subsec. (d) which read as follows: “In this section, the term ‘continental United States’ means the 48 contiguous States and the District of Columbia.”
 
 1999—Subsec. (b)(1). Pub. L. 106–65 struck out “or” at end of subpar. (A), added subpar. (B), and redesignated former subpar. (B) as (C).
 

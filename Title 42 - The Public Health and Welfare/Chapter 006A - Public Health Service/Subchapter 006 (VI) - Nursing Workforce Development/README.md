@@ -22,3 +22,5 @@ This subchapter is referred to in sections 235, 300<i>l</i>–2, 12604 of this t
 - [Part E - Student Loans](Part%20E%20-%20Student%20Loans/README.md)
 - [Part F - Funding](Part%20F%20-%20Funding/README.md)
 - [Part G - National Advisory Council on Nurse Education and Practice](Part%20G%20-%20National%20Advisory%20Council%20on%20Nurse%20Education%20and%20Practice/README.md)
+- [Part H - Public Service Announcements](Part%20H%20-%20Public%20Service%20Announcements/README.md)
+- [Part I - Comprehensive Geriatric Education](Part%20I%20-%20Comprehensive%20Geriatric%20Education/README.md)

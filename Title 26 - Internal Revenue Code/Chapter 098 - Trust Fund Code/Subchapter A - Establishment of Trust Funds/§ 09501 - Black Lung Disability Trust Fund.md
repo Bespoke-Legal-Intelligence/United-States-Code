@@ -1,0 +1,116 @@
+### §9501. Black Lung Disability Trust Fund
+
+#### (a) Creation of Trust Fund
+
+#### (1) In general
+
+&emsp;There is established in the Treasury of the United States a trust fund to be known as the “Black Lung Disability Trust Fund”, consisting of such amounts as may be appropriated or credited to the Black Lung Disability Trust Fund.
+
+#### (2) Trustees
+
+&emsp;The trustees of the Black Lung Disability Trust Fund shall be the Secretary of the Treasury, the Secretary of Labor, and the Secretary of Health and Human Services.
+
+#### (b) Transfer of certain taxes; other receipts
+
+#### (1) Transfer to Black Lung Disability Trust Fund of amounts equivalent to certain taxes
+
+&emsp;There are herby appropriated to the Black Lung Disability Trust Fund amounts equivalent to the taxes received in the Treasury under section 4121 or subchapter B of chapter 42.
+
+#### (2) Certain repaid amounts, etc.
+
+&emsp;The following amounts shall be credited to the Black Lung Disability Trust Fund:
+
+&emsp;&emsp;(A) Amounts repaid or recovered under subsection (b) of section 424 of the Black Lung Benefits Act (including interest thereon).
+
+&emsp;&emsp;(B) Amounts paid as fines or penalties, or interest thereon, under section 423, 431, or 432 of the Black Lung Benefits Act.
+
+&emsp;&emsp;(C) Amounts paid into the Black Lung Disability Trust Fund by a trust described in section 501(c)(21).
+
+#### (c) Repayable advances
+
+#### (1) Authorization
+
+&emsp;There are authorized to be appropriated to the Black Lung Disability Trust Fund, as repayable advances, such sums as may from time to time be necessary to make the expenditures described in subsection (d).
+
+#### (2) Repayment with interest
+
+&emsp;Repayable advances made to the Black Lung Disability Trust Fund shall be repaid, and interest on such advances shall be paid, to the general fund of the Treasury when the Secretary of the Treasury determines that moneys are available in the Black Lung Disability Trust Fund for such purposes.
+
+#### (3) Rate of interest
+
+&emsp;Interest on advances made pursuant to this subsection shall be at a rate determined by the Secretary of the Treasury (as of the close of the calendar month preceding the month in which the advance is made) to be equal to the current average market yield on outstanding marketable obligations of the United States with remaining periods to maturity comparable to the anticipated period during which the advance will be outstanding.
+
+#### (d) Expenditures from Trust Fund
+
+Amounts in the Black Lung Disability Trust Fund shall be available, as provided by appropriation Acts, for—
+
+&emsp;(1) the payment of benefits under section 422 of the Black Lung Benefits Act in any case in which the Secretary of Labor determines that—
+
+&emsp;&emsp;(A) the operator liable for the payment of such benefits—
+
+&emsp;&emsp;&emsp;(i) has no commenced payment of such benefits within 30 days after the date of an initial determination of eligibility by the Secretary of Labor, or
+
+&emsp;&emsp;&emsp;(ii) has not made a payment within 30 days after that payment is due,
+
+> &emsp;&emsp;except that, in the case of a claim filed on or after the date of the enactment of the Black Lung Benefits Revenue Act of 1981, amounts will be available under this subparagraph only for benefits accruing after the date of such initial determination, or
+
+&emsp;&emsp;(B) there is no operator who is liable for the payment of such benefits,
+
+&emsp;(2) the payment of obligations incurred by the Secretary of Labor with respect to all claims of miners of their survivors in which the miner's last coal mine employment was before January 1, 1970,
+
+&emsp;(3) the repayment into the Treasury of the United States of an amount equal to the sumof the amounts expended by the Secretary of Labor for claims under part C of the Black Lung Benefits Act which were paid before April 1, 1978, except that the Black Lung Disability Trust Fund shall not be obligated to pay or reimburse any such amounts which are attributable to periods of eligibility before January 1, 1974,
+
+&emsp;(4) the repayment of, and the payment of interest on, repayable advances to the Black Lung Disability Trust Fund,
+
+&emsp;(5) the payment of all expenses of administration on or after March 1, 1978—
+
+&emsp;&emsp;(A) incurred by the Department of Labor or the Department of Health and Human Services under part C of the Black Lung Benefits Act (other than under section 427(a) or 433), or
+
+&emsp;&emsp;(B) incurred by the Department of the Treasury in administering subchapter B of chapter 32 and in carrying out its responsibilities with respect to the Black Lung Disability Trust Fund,
+
+&emsp;(6) the reimbursement of operators for amounts paid by such operators (other than as penalties or interest) before April 1, 1978, in satisfaction (in whole or in part) of claims of miners whose last employment in coal mines was terminated before January 1, 1970, and
+
+&emsp;(7) the reimbursement of operators and insurers for amounts paid by such operators and insurers (other than amounts paid as penalties, interest, or attorney fees) at any time in satisfaction (in whole or in part) of any claim denied (within the meaning of section 402(i) of the Black Lung Benefits Act) before March 1, 1978, and which is or has been approved in accordance with the provisions of section 435 <sup>1</sup> of the Black Lung Benefits Act.
+
+> For purposes of the preceding sentence, any reference to section 402(i), 422, or 435 <sup>1</sup> of the Black Lung Benefits Act shall be treated as a reference to such section as in effect immediately after the enactment of this section.
+
+(Added Pub. L. 97–119, title I, §103(a), Dec. 29, 1981, 95 Stat. 1636; amended Pub. L. 97–248, title II, §281(c)(2), Sept. 3, 1982, 96 Stat. 566.)
+
+#### References in Text
+
+The Black Lung Benefits Act, referred to in subsecs. (b)(2)(A), (B) and (d), is title IV of Pub. L. 91–173, Dec. 30, 1969, 83 Stat. 792, as amended. Part C of the Act is classified generally to part C (§931 et seq.) of subchapter IV of chapter 22 of Title 30, Mineral Lands and Mining. Sections 402(i), 422, 423, 424(b), 427(a), 431, 432, and 433 of the Act are classified to sections 902(i), 932, 933, 934(b), 937(a), 941, 942, and 943, respectively, of Title 30. Section 435 of the Act was classified to section 945 of Title 30, prior to repeal by Pub. L. 107–275, §2(c)(1), Nov. 2, 2002, 116 Stat. 1926. For complete classification of this Act to the Code, see section 901(b) of Title 30 and Tables.
+
+The date of enactment of the Black Lung Benefits Revenue Act of 1981, referred to in subsec. (d)(1)(A), is the date of enactment of Pub. L. 97–119, which was approved Dec. 29, 1981.
+
+The enactment of this section, referred to in subsec. (d), probably means the date of enactment of Pub. L. 97–119, which enacted this section and which was approved Dec. 29, 1981.
+
+#### Amendments
+
+1982—Pub. L. 97–248 struck out “Establishment of” before “Black Lung” in section catchline.
+
+#### Effective Date of 1982 Amendment
+
+Amendment by Pub. L. 97–248 effective Sept. 1, 1982, see section 281(d) of Pub. L. 97–248, set out as an Effective Date; Savings Provisions note under section 9502 of this title.
+
+#### Effective Date
+
+Section 103(d)(1) of Pub. L. 97–119, as amended by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, provided that: “The amendments made by this section \[enacting this section and sections 9500, 9601, and 9602 of this title, amending section 501 of this title, and repealing section 934a of Title 30, Mineral Lands and Mining\] shall take effect on January 1, 1982. Section 9501(c)(3) of the Internal Revenue Code of 1986 \[formerly I.R.C. 1954\] (as added by subsection (a)) shall only apply to advances made after December 31, 1981.”
+
+#### Savings Provision
+
+Section 103(d)(2) of Pub. L. 97–119 provided that: “The Black Lung Disability Trust Fund established by the amendments made by this section \[enacting this section and sections 9500, 9601, 9602 of this title, amending section 501 of this title, and repealing section 934a of Title 30, Mineral Lands and Mining\] shall be treated for all purposes of law as the continuation of the Black Lung Disability Trust Fund established by section 3 of the Black Lung Benefits Revenue Act of 1977 \[former section 934a of Title 30\]. Any reference in any law to the Black Lung Disability Trust Fund established by such section 3 shall be deemed to include a reference to the Black Lung Disability Trust Fund established by the amendments made by this section.”
+
+#### Moratorium on Interest Accruals on Indebtedness of Black Lung Disability Trust Fund
+
+Pub. L. 99–272, title XIII, §13203(b), Apr. 7, 1986, 100 Stat. 312, provided that: “No interest shall accrue for the period beginning on October 1, 1985, and ending on September 30, 1990, with respect to any repayable advance to the Black Lung Disability Trust Fund.”
+
+#### Provisions Relating to Payment of Benefits to Miners and Eligible Survivors of Miners To Take Effect as Rules and Regulations of Secretary of Labor
+
+Pub. L. 95–239, §20(b), Mar. 1, 1978, 92 Stat. 106, provided that: “In the event that the payment of benefits to miners and to eligible survivors of miners cannot be made from the Black Lung Disability Trust Fund established by section 3(a) of the Black Lung Benefits Revenue Act of 1977 \[former section 934a(a) of Title 30, Mineral Lands and Mining\], the provisions of the Act relating to the payment of benefits to miners and to eligible survivors of miners, as in effect immediately before the date of the enactment of this Act \[Mar. 1, 1978\], shall take effect, as rules and regulations of the Secretary of Labor until such provisions are revoked, amended, or revised by law. The Secretary of Labor may promulgate additional rules and regulations to carry out such provisions and shall make benefit payments to miners and to eligible survivors of miners in accordance with such provisions.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 501 of this title; title 30 sections 902, 925, 932.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

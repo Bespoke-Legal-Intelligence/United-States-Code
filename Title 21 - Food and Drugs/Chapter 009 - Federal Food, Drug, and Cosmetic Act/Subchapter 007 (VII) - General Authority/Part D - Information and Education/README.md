@@ -1,5 +1,9 @@
 Part D—Information and Education
 
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+
+<i><sup>2</sup></i><i> So in original. The period probably should be a comma.</i>
+
 
 ---
 

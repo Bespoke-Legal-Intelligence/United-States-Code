@@ -2,7 +2,7 @@
 
 (a)
 
-Enforcement Remedies.—A judgment may be enforced by any of the remedies set forth inthis subchapter. A court may issue other writs pursuant to section 1651 of title 28, United States Code, as necessary to support such remedies, subject to rule 81(b) of the Federal Rules of Civil Procedure.
+Enforcement Remedies.—A judgment may be enforced by any of the remedies set forth in this subchapter. A court may issue other writs pursuant to section 1651 of title 28, United States Code, as necessary to support such remedies, subject to rule 81(b) of the Federal Rules of Civil Procedure.
 
 (b)
 
@@ -22,7 +22,7 @@ Notice.—On the commencement by the United States of an action or proceeding un
 
 “At the hearing you may explain to the judge why you believe the property the Government has taken is exempt \[For a default judgment:\] or why you think you do not owe the money to the Government. \[For a writ of execution:\] If you do not request a hearing within 20 days of receiving this notice, your \[property\] may be sold at public auction and the payment used toward the money you owe the Government.
 
-“If you think you live outside the Federal judicial district in which the court is located, you may request, not later than 20 days after your <sup>1</sup> receive this notice, that this proceeding to take your property be transferred by the court to the Federal judicial district in which you reside. You must make your request in writing, and either mail it or deliver it in person to the clerk of the court at \[address\]. You must also send a copy of your request to the Government at \[address\], so the Government will know you want the proceeding to be transferred.
+“If you think you live outside the Federal judicial district in which the court is located, you may request, not later than 20 days after your <sup>1</sup>receive this notice, that this proceeding to take your property be transferred by the court to the Federal judicial district in which you reside. You must make your request in writing, and either mail it or deliver it in person to the clerk of the court at \[address\]. You must also send a copy of your request to the Government at \[address\], so the Government will know you want the proceeding to be transferred.
 
 “Be sure to keep a copy of this notice for your own records. If you have any questions about your rights or about this procedure, you should contact a lawyer, an office of public legal assistance, or the clerk of the court. The clerk is not permitted to give legal advice, but can refer you to other sources of information.”
 

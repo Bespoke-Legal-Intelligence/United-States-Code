@@ -8,13 +8,15 @@
 
 (d) The international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall either be paid on filing of an international application or within such later time as may be fixed by the Director.
 
-(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 686; amended Pub. L. 98–622, title IV, §§401(a), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, §2(d), Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(Added Pub. L. 94–131, §1, Nov. 14, 1975, 89 Stat. 686; amended Pub. L. 98–622, title IV, §§401(a), 403(a), Nov. 8, 1984, 98 Stat. 3391, 3392; Pub. L. 99–616, §2(d), Nov. 6, 1986, 100 Stat. 3485; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Amendments
 
-1999—Subsec. (d). Pub. L. 106–113 substituted “Director” for “Commissioner”.
+2002—Subsec. (d). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
 
-1986—Subsec. (d). Pub. L. 99–616 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The basic fee portion of the international fee,and the transmittal and search fees prescribed under section 376(a) of this part, shall be paid on filing of an international application or within one month after the date of such filing. Payment of designation fees may be made on filing and shall be made not later than one year from the priority date of the international application.”
+1999—Subsec. (d). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
+
+1986—Subsec. (d). Pub. L. 99–616 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The basic fee portion of the international fee, and the transmittal and search fees prescribed under section 376(a) of this part, shall be paid on filing of an international application or within one month after the date of such filing. Payment of designation fees may be made on filing and shall be made not later than one year from the priority date of the international application.”
 
 1984—Subsecs. (a) to (c). Pub. L. 98–622, §403(a), substituted “Patent and Trademark Office” for “Patent Office”.
 

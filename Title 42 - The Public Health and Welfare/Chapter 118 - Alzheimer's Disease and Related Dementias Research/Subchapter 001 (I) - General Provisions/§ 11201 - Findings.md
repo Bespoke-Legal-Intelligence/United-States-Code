@@ -22,7 +22,7 @@ The Congress finds that—
 
 &emsp;(8) the responsibility for care of individuals with Alzheimer's disease and related dementias falls primarily on their families, and the care is financially and emotionally devastating;
 
-&emsp;(9) attempts to reduce the emotional and financial burden of caring for dementia patients is impeded by a lack of knowledge about such patients, how to care for such patients, the costs associated with such care, the effectiveness of various modes of care, the quality and type of care necessary at various stages of thedisease, and other appropriate services that are needed to provide quality care;
+&emsp;(9) attempts to reduce the emotional and financial burden of caring for dementia patients is impeded by a lack of knowledge about such patients, how to care for such patients, the costs associated with such care, the effectiveness of various modes of care, the quality and type of care necessary at various stages of the disease, and other appropriate services that are needed to provide quality care;
 
 &emsp;(10) the results of the little research that has been undertaken concerning dementia has been inadequate or the results have not been widely disseminated;
 

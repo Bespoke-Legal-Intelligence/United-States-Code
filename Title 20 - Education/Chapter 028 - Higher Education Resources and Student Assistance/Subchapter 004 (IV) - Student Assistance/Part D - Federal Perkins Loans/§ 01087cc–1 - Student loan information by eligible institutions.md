@@ -22,7 +22,7 @@ Each institution of higher education, in order to carry out the provisions of se
 
 &emsp;(9) an explanation of any special options the borrower may have for loan consolidation or other refinancing of the loan;
 
-&emsp;(10) a statement that the borrower has the right to prepay all or part of the loan, at any time, without penalty, a statement summarizing circumstances in which repayment of the loan or interest that accrues on the loan may be deferred, and a brief notice of the program for repayment of loans, on the basis of military service, pursuant to the Department of Defense educational loan repayment program (10 U.S.C. 16302);
+&emsp;(10) a statement that the borrower has the right to prepay all or part of the loan, at anytime, without penalty, a statement summarizing circumstances in which repayment of the loan or interest that accrues on the loan may be deferred, and a brief notice of the program for repayment of loans, on the basis of military service, pursuant to the Department of Defense educational loan repayment program (10 U.S.C. 16302);
 
 &emsp;(11) a definition of default and the consequences to the borrower if the borrower defaults, together with a statement that the disbursement of, and the default on, a loan under this part, shall be reported to a credit bureau or credit reporting agency;
 
@@ -90,7 +90,7 @@ Subsec. (a)(10). Pub. L. 100–50, §13(h), substituted “the Department of Def
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, see section 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
+Amendment by Pub. L. 104–106 effective as if included in the Reserve Officer Personnel Management Act, title XVI of Pub. L. 103–337, as enacted on Oct. 5, 1994, seesection 1501(f)(3) of Pub. L. 104–106, set out as a note under section 113 of Title 10, Armed Forces.
 
 #### Effective Date of 1993 Amendment
 

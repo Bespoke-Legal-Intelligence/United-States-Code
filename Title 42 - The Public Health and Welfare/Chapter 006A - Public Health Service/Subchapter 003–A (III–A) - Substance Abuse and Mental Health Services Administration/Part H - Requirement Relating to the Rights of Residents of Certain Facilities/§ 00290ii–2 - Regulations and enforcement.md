@@ -8,9 +8,9 @@ Not later than 1 year after October 17, 2000, the Secretary, after consultation 
 
 The regulations promulgated under subsection (a) of this section shall require that—
 
-&emsp;(1) facilities described in subsection (a) of this section ensure that there is an adequate number of qualified professional and supportive staff to evaluate patients, formulate written individualized, comprehensive treatment plans, and to provide active treatment measures;
+&emsp;(1) facilities described in subsection (a) of this section ensure that there is an adequatenumber of qualified professional and supportive staff to evaluate patients, formulate written individualized, comprehensive treatment plans, and to provide active treatment measures;
 
-&emsp;(2) appropriate training be provided for the staff of such facilities in the use of restraintsand any alternatives to the use of restraints; and
+&emsp;(2) appropriate training be provided for the staff of such facilities in the use of restraints and any alternatives to the use of restraints; and
 
 &emsp;(3) such facilities provide complete and accurate notification of deaths, as required under section 290ii–1(a) of this title.
 

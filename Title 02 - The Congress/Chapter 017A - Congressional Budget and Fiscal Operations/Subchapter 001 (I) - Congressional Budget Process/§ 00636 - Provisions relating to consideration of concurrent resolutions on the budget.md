@@ -4,7 +4,7 @@
 
 (1) When a concurrent resolution on the budget has been reported by the Committee on the Budget of the House of Representatives and has been referred to the appropriate calendar of the House, it shall be in order on any day thereafter, subject to clause 2(<i>l</i>)(6) of rule XI <sup>1</sup> of the Rules of the House of Representatives, to move to proceed to the consideration of the concurrent resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order and it is not in order to move to reconsider the vote by which the motion is agreed to or disagreed to.
 
-(2) General debate on any concurrent resolution on the budget in the House of Representatives shall be limited to not more than 10 hours, which shall be divided equally between the majority and minority parties, plus such additional hours of debate as are consumed pursuant toparagraph (3). A motion further to limit debate is not debatable. A motion to recommit the concurrent resolution is not in order, and it is not in order to move to reconsider the vote by which the concurrent resolution is agreed to or disagreed to.
+(2) General debate on any concurrent resolution on the budget in the House of Representatives shall be limited to not more than 10 hours, which shall be divided equally between the majority and minority parties, plus such additional hours of debate as are consumed pursuant to paragraph (3). A motion further to limit debate is not debatable. A motion to recommit the concurrent resolution is not in order, and it is not in order to move to reconsider the vote by which the concurrent resolution is agreed to or disagreed to.
 
 (3) Following the presentation of opening statements on the concurrent resolution on the budget for a fiscal year by the chairman and ranking minority member of the Committee on the Budget of the House, there shall be a period of up to four hours for debate on economic goals and policies.
 
@@ -18,7 +18,7 @@
 
 #### (b) Procedure in Senate after report of Committee; debate; amendments
 
-(1) Debate in the Senate on any concurrent resolution on the budget, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 50 hours, except that with respect to any concurrent resolution referred to in section 635(a) <sup>1</sup> of this title all such debate shall be limited to not more than 15 hours. The time shall be equally divided between, and controlled by, the majority leader and the minority leader or their designees.
+(1) Debate in the Senate on any concurrent resolution on the budget, and all amendments thereto and debatable motions and appeals in connection therewith, shall be limited to not more than 50 hours, except that with respect to any concurrent resolution referred to in section 635(a) <sup>1</sup> of this title all such debate shall be limited to not more than 15 hours. The time shall be equally divided between, and controlled by,the majority leader and the minority leader or their designees.
 
 (2) Debate in the Senate on any amendment to a concurrent resolution on the budget shall be limited to 2 hours, to be equally divided between, and controlled by, the mover and the manager of the concurrent resolution, and debate on any amendment to an amendment, debatable motion, or appeal shall be limited to 1 hour, to be equally divided between, and controlled by, the mover and the manager of the concurrent resolution, except that in the event the manager of the concurrent resolution is in favor of any such amendment, motion, or appeal, the time in opposition thereto shall be controlled by the minority leader or his designee. No amendment that is not germane to the provisions of such concurrent resolution shall be received. Such leaders, or either of them, may, from the time under their control on the passage of the concurrent resolution, allot additional time to any Senator during the consideration of any amendment, debatable motion, or appeal.
 
@@ -52,7 +52,7 @@ It shall not be in order in the Senate to vote on the question of agreeing to—
 
 #### References in Text
 
-The Rules of the House of Representatives for the One Hundred Sixth Congress were adopted and amended generally by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999. Provisions formerly appearing in clause 2(<i>l</i>)(6) of rule XI, referred to in subsec. (a)(1), are now contained in clause 4 of rule XIII. Provisions formerly appearing in rule XXIII, referred to in subsec. (a)(5), are now contained in rule XVIII.
+The Rules of the House of Representatives for the One Hundred Sixth Congress were adopted and amended generally by House Resolution No. 5, One HundredSixth Congress, Jan. 6, 1999. Provisions formerly appearing in clause 2(<i>l</i>)(6) of rule XI, referred to in subsec. (a)(1), are now contained in clause 4 of rule XIII. Provisions formerly appearing in rule XXIII, referred to in subsec. (a)(5), are now contained in rule XVIII.
 
 Section 635(a) of this title, referred to in subsec. (b)(1), was redesignated section 635 of this title by Pub. L. 105–33, title X, §10108(1), Aug. 5, 1997, 111 Stat. 684.
 

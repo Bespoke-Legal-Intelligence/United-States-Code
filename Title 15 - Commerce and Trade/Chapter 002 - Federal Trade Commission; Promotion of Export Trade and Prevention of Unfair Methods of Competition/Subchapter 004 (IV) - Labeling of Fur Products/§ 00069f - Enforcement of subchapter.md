@@ -4,7 +4,7 @@
 
 (1) Except as otherwise specifically provided in this subchapter, sections 69a, 69d, and 69h(b) of this title shall be enforced by the Federal Trade Commission under rules, regulations, and procedure provided for in the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\].
 
-(2) The Commission is authorized and directed to prevent any person from violating the provisions of sections 69a, 69d, and 69h(b) of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] were incorporated into and made a part of this subchapter; and any such person violating any provision of section 69a, 69d, or 69h(b) of this title shall be subject to the penalties and entitled to the privileges and immunities provided in said Federal Trade Commission Act asthough the applicable terms and provisions of the said Act were incorporated into and made a part of this subchapter.
+(2) The Commission is authorized and directed to prevent any person from violating the provisions of sections 69a, 69d, and 69h(b) of this title in the same manner, by the same means, and with the same jurisdiction, powers, and duties as though all applicable terms and provisions of the Federal Trade Commission Act \[15 U.S.C. 41 et seq.\] were incorporated into and made a part of this subchapter; and any such person violating any provision of section 69a, 69d, or 69h(b) of this title shall be subject to the penalties and entitled to the privileges and immunities provided in said Federal Trade Commission Act as though the applicable terms and provisions of the said Act were incorporated into and made a part of this subchapter.
 
 #### (b) Rules and regulations for disclosure of information
 
@@ -28,7 +28,7 @@ The Federal Trade Commission Act, referred to in subsec. (a), is act Sept. 26, 1
 
 #### Transfer of Functions
 
-For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
+For transfer of functions of Federal Trade Commission, with certain exceptions, to Chairman of suchCommission, see Reorg. Plan No. 8 of 1950, §1, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1264, set out under section 41 of this title.
 
 #### Section Referred to in Other Sections
 

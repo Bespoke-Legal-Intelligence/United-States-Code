@@ -20,7 +20,7 @@ The President is authorized to transfer excess defense articles under this secti
 
 &emsp;(F) the transfer of such articles is consistent with the policy framework for the Eastern Mediterranean established under section 2373 of this title.
 
-(2) Accordingly, for the four-year period beginning on October 1, 1996, and thereafter for the four-period <sup>1</sup> beginning on October 1, 2000, the President shall ensure that excess defense articles offered to Greece and Turkey under this section will be made available consistent with the manner in which the President made available such excess defense articles during the four-year period that began on October 1, 1992, pursuant to section 573(e) of the Foreign Operations,Export Financing, and Related Programs Appropriations Act, 1990.
+(2) Accordingly, for the four-year period beginning on October 1, 1996, and thereafter for the four-period <sup>1</sup> beginning on October 1, 2000, the President shall ensure that excess defense articles offered to Greece and Turkey under this section will be made available consistent with the manner in which the President made available such excess defense articles during the four-year period that began on October 1, 1992, pursuant to section 573(e) of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1990.
 
 #### (c) Terms of transfers
 
@@ -30,7 +30,7 @@ The President is authorized to transfer excess defense articles under this secti
 
 #### (2) Priority
 
-&emsp;Notwithstanding any other provision of law, the delivery of excess defense articles under this section to member countries of the North Atlantic Treaty Organization (NATO) on the southern and southeastern flank of NATO and to major non-NATO allies on such southern and southeastern flank shall be given priority to the maximum extent feasible over the delivery of such excess defense articles to other countries.
+&emsp;Notwithstanding any other provision of law, the delivery of excess defense articles under this section to member countries of the North Atlantic Treaty Organization (NATO) on the southern and southeastern flank of NATO, to major non-NATO allies on such southern and southeastern flank, and to the Philippines shall be given priority to the maximum extent feasible over the delivery of such excess defense articles to other countries.
 
 #### (d) Waiver of requirement for reimbursement of Department of Defense expenses
 
@@ -44,7 +44,7 @@ Section 2392(d) of this title shall not apply with respect to transfers of exces
 
 #### (2) Exception
 
-&emsp;The President may provide for the transportation of excess defense articles without charge to a country for the costs of such transportation if—
+&emsp;The President may provide for the transportation of excess defense articles withoutcharge to a country for the costs of such transportation if—
 
 &emsp;&emsp;(A) it is determined that it is in the national interest of the United States to do so;
 
@@ -90,7 +90,7 @@ Documents described in subsection (a) of this section justifying the transfer of
 
 For purposes of this section, the term “excess defense articles” shall be deemed to include excess property of the Coast Guard, and the term “Department of Defense” shall be deemed, with respect to such excess property, to include the Coast Guard.
 
-(Pub. L. 87–195, pt. II, §516, as added Pub. L. 99–661, div. A, title XI, §1101, Nov. 14, 1986, 100 Stat. 3960; amended Pub. L. 100–202, §101(b) \[title VIII, §8143\], Dec. 22, 1987, 101 Stat. 1321–43, 1329–89; Pub. L. 101–189, div. A, title IX, §934, Nov. 29, 1989, 103 Stat. 1538; Pub. L. 101–513, title V, §589, Nov. 5, 1990, 104 Stat. 2057; Pub. L. 102–190, div. A, title X, §1049(a), Dec. 5, 1991, 105 Stat. 1469; Pub. L. 102–391, title V, §574, Oct. 6, 1992, 106 Stat. 1683; Pub. L. 102–484, div. A, title XIII, §1313, Oct. 23, 1992, 106 Stat. 2548; Pub. L. 103–160, div. A, title XI, §1182(c)(2), title XIV, §1421, Nov. 30, 1993, 107 Stat. 1772, 1829; Pub. L. 103–236, title VII, §731(a), Apr. 30, 1994, 108 Stat. 502; Pub. L. 104–106, div. A, title X, §1012(g)(1), Feb. 10, 1996, 110 Stat. 422; Pub. L. 104–164, title I, §104(a), July 21, 1996, 110 Stat. 1424; Pub. L.106–113, div. B, §1000(a)(7) \[div. B, title XII, §§1211(b), 1213\], Nov. 29, 1999, 113 Stat. 1536, 1501A–497, 1501A–498; Pub. L. 106–280, title I, §122, Oct. 6, 2000, 114 Stat. 851.)
+(Pub. L. 87–195, pt. II, §516, as added Pub. L. 99–661, div. A, title XI, §1101, Nov. 14, 1986, 100 Stat. 3960; amended Pub. L. 100–202, §101(b) \[title VIII, §8143\], Dec. 22, 1987, 101 Stat. 1321–43, 1329–89; Pub. L. 101–189, div. A, title IX, §934, Nov. 29, 1989, 103 Stat. 1538; Pub. L. 101–513, title V, §589, Nov. 5, 1990, 104 Stat. 2057; Pub. L. 102–190, div. A, title X, §1049(a), Dec. 5, 1991, 105 Stat. 1469; Pub. L. 102–391, title V, §574, Oct. 6, 1992, 106 Stat. 1683; Pub. L. 102–484, div. A, title XIII, §1313, Oct. 23, 1992, 106 Stat. 2548; Pub. L. 103–160, div. A, title XI, §1182(c)(2), title XIV, §1421, Nov. 30, 1993, 107 Stat. 1772, 1829; Pub. L. 103–236, title VII, §731(a), Apr. 30, 1994, 108 Stat. 502; Pub. L. 104–106, div. A, title X, §1012(g)(1), Feb. 10, 1996, 110 Stat. 422; Pub. L. 104–164, title I, §104(a), July 21, 1996, 110 Stat. 1424; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XII, §§1211(b), 1213\], Nov. 29, 1999, 113 Stat. 1536, 1501A–497, 1501A–498; Pub. L. 106–280, title I, §122, Oct. 6, 2000, 114 Stat. 851; Pub. L. 107–228, div. B, title XII, §1234, Sept. 30, 2002, 116 Stat. 1433.)
 
 #### References in Text
 
@@ -103,6 +103,8 @@ The Arms Export Control Act, referred to in subsec. (f)(1), is Pub. L. 90–629,
 A prior section 2321j, Pub. L. 87–195, pt. II, §516, as added Pub. L. 94–329, title I, §105, June 30, 1976, 90 Stat. 732; amended Pub. L. 95–92, §§5(b), 7(b), Aug. 4, 1977, 91 Stat. 615, 617; Pub. L. 95–384, §7(b), Sept. 26, 1978, 92 Stat. 732; Pub. L. 96–92, §5(c), Oct. 29, 1979, 93 Stat. 703; Pub. L. 96–533, title I, §112(d), Dec. 16, 1980, 94 Stat. 3139, provided for termination of authorities contained in this part other than the authorities contained in sections 2318, 2321h, and 2321i of this title, prior to repeal by Pub. L. 97–113, title I, §110(d), Dec. 29, 1981, 95 Stat. 1526.
 
 #### Amendments
+
+2002—Subsec. (c)(2). Pub. L. 107–228 substituted “, to major non-NATO allies on such southern and southeastern flank, and to the Philippines” for “and to major non-NATO allies on such southern and southeastern flank”.
 
 2000—Subsec. (e)(2)(C). Pub. L. 106–280 substituted “50,000” for “25,000”.
 
@@ -152,6 +154,10 @@ Section 1012(g)(2) of Pub. L. 104–106 provided that: “The amendment made by 
 
 Section 1182(c)(2) of Pub. L. 103–160 provided in part that the amendment made by that section is effective as of Oct. 23, 1992.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
@@ -182,7 +188,7 @@ NATO southern flank countries.—The President may transfer—
 
 &emsp;&emsp;“(A) to any NATO southern flank country which is eligible for United States security assistance and which is integrated into NATO's military structure; and
 
-&emsp;&emsp;“(B) to any major non-NATO ally on the southern and southeastern flank of NATO which is eligible for United States security assistance, such excess defense articles as may be necessary to help modernize the defense capabilities of such country.
+&emsp;&emsp;“(B) to any major non-NATO ally on the southern and southeastern flank of NATO which is eligiblefor United States security assistance, such excess defense articles as may be necessary to help modernize the defense capabilities of such country.
 
 &emsp;“(2)
 

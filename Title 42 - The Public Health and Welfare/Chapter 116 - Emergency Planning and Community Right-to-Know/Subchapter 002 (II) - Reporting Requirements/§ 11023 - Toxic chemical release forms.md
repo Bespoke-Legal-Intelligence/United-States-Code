@@ -10,7 +10,7 @@ The owner or operator of a facility subject to the requirements of this section 
 
 &emsp;(A) The requirements of this section shall apply to owners and operators of facilities that have 10 or more full-time employees and that are in Standard Industrial Classification Codes 20 through 39 (as in effect on July 1, 1985) and that manufactured, processed, or otherwise used a toxic chemical listed under subsection (c) of this section in excess of the quantity of that toxic chemical established under subsection (f) of this section during the calendar year for which a release form is required under this section.
 
-&emsp;(B) The Administrator may add or delete Standard Industrial Classification Codes for purposes of subparagraph (A), but only to the extent necessary to provide that each Standard Industrial Code to which this section applies is relevant to the purposes of this section.
+&emsp;(B) The Administrator may add or delete Standard Industrial Classification Codes for purposes of subparagraph (A), but only to theextent necessary to provide that each Standard Industrial Code to which this section applies is relevant to the purposes of this section.
 
 &emsp;(C) For purposes of this section—
 
@@ -88,7 +88,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 #### (2) Governor petitions
 
-&emsp;A State Governor may petition the Administrator to add or delete a chemical from the list described in subsection (c) of this section on the basis of the criteria in subparagraph (A), (B), or (C) of subsection (d)(2) of this section. In the case of such a petition from a State Governor to delete a chemical, the petition shall be treated in the same manner as a petition received under paragraph (1) to delete a chemical. In the case of such a petition from a State Governor to add a chemical, the chemical will be added to the list within 180 days after receipt of the petition, unless the Administrator—
+&emsp;A State Governor may petition the Administrator to add or delete a chemical from the list described in subsection (c) of this section on the basis of the criteria in subparagraph (A), (B), or (C) of subsection (d)(2) of this section. In the case of such a petition from a State Governor to delete a chemical, the petition shall be treated in the same manner as a petition received under paragraph (1) to delete a chemical. In the case of such a petition from a State Governor to add a chemical, the chemical will be added to the list within 180 daysafter receipt of the petition, unless the Administrator—
 
 &emsp;&emsp;(A) initiates a rulemaking to add the chemical to the list, in accordance with subsection (d)(2) of this section, or
 
@@ -126,7 +126,7 @@ The toxic chemicals subject to the requirements of this section are those chemic
 
 &emsp;&emsp;(C) provide for submission of each of the following items of information for each listed toxic chemical known to be present at the facility:
 
-&emsp;&emsp;&emsp;(i) Whether the toxic chemical at the facility is manufactured, processed, orotherwise used, and the general category or categories of use of the chemical.
+&emsp;&emsp;&emsp;(i) Whether the toxic chemical at the facility is manufactured, processed, or otherwise used, and the general category or categories of use of the chemical.
 
 &emsp;&emsp;&emsp;(ii) An estimate of the maximum amounts (in ranges) of the toxic chemical present at the facility at any time during the preceding calendar year.
 
@@ -200,7 +200,7 @@ The release forms required under this section are intended to provide informatio
 
 #### (j) EPA management of data
 
-The Administrator shall establish and maintain in a computer data base a national toxic chemical inventory based on data submitted tothe Administrator under this section. The Administrator shall make these data accessible by computer telecommunication and other means to any person on a cost reimbursable basis.
+The Administrator shall establish and maintain in a computer data base a national toxic chemical inventory based on data submitted to the Administrator under this section. The Administrator shall make these data accessible by computer telecommunication and other means to any person on a cost reimbursable basis.
 
 #### (k) Report
 
@@ -232,7 +232,7 @@ Not later than June 30, 1991, the Comptroller General, in consultation with the 
 
 #### (3) Information collection
 
-&emsp;(A) The Administrator shall acquire available mass balance information from States which currently conduct (or during the 5 years after October 17, 1986 initiate) a mass balance-oriented annual quantity toxic chemical release program. If information from such States provides an inadequate representation of industry classes and categories to carry out the purposes of the study, the Administrator also may acquire mass balance information necessary for the study from a representative number of facilities in other States.
+&emsp;(A) The Administrator shall acquire available mass balance information from States which currently conduct (or during the 5 years after October 17, 1986 initiate) a mass balance-oriented annual quantity toxic chemical release program. If information from suchStates provides an inadequate representation of industry classes and categories to carry out the purposes of the study, the Administrator also may acquire mass balance information necessary for the study from a representative number of facilities in other States.
 
 &emsp;(B) Any information acquired under this section shall be available to the public, except that upon a showing satisfactory to the Administrator by any person that the information (or a particular part thereof) to which the Administrator or any officer, employee, or representative has access under this section if made public would divulge information entitled to protection under section 1905 of title 18, such information or part shall be considered confidential in accordance with the purposes of that section, except that such information or part may be disclosed to other officers, employees, or authorized representatives of the United States concerned with carrying out this section.
 
@@ -254,7 +254,7 @@ Memorandum for the Administrator of the Environmental Protection Agency and the 
 
 The Emergency Planning and Community Right-to-Know Act of 1986 (42 U.S.C. 11001–11050) (“EPCRA”) and the Pollution Prevention Act of 1990 (42 U.S.C. 13101–13109) provide an innovative approach to protecting public health and the environment by ensuring that communities are informed about the toxic chemicals being released into the air, land, and water by manufacturing facilities. I am committed to the effective implementation of this law, because Community Right-to-Know protections provide a basic informational tool to encourage informed community-based environmental decision making and provide a strong incentive for businesses to find their own ways of preventing pollution.
 
-The laws provide the Environmental Protection Agency with substantial authority to add to the Toxics Release Inventory under EPCRA: (1) new chemicals; (2) new classes of industrial facilities; and (3) additional types of information concerning toxic chemical use at facilities. Community Right-to-Know should be enhanced wherever possible as appropriate. EPA currently is engaged in an on-going process to address potential facility expansion and the collection of use information. I am committed to a full and open processon the policy issues posed by EPA's exercise of these authorities.
+The laws provide the Environmental Protection Agency with substantial authority to add to the Toxics Release Inventory under EPCRA: (1) new chemicals; (2) new classes of industrial facilities; and (3) additional types of information concerning toxic chemical use at facilities. Community Right-to-Know should be enhanced wherever possible as appropriate. EPA currently is engaged in an on-going process to address potential facility expansion and the collection of use information. I am committed to a full and open process on the policy issues posed by EPA's exercise of these authorities.
 
 So that consideration of these issues can be fully accomplished during this Administration, I am directing the Administrator of the Environmental Protection Agency, in consultation with the Office of Management and Budget and appropriate Federal agencies with applicable technical and functional expertise, as necessary, to take the following actions:
 

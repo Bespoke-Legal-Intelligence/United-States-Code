@@ -74,7 +74,7 @@ Depository institution.—The term “depository institution” means any bank o
 
 &emsp;(2)
 
-Insured depository institution.—The term “insured depository institution” means any bank or savings association the deposits of which are insured by the Corporation pursuant to this chapter.
+Insured depository institution.—The term “insured depository institution” meansany bank or savings association the deposits of which are insured by the Corporation pursuant to this chapter.
 
 &emsp;(3)
 
@@ -150,7 +150,7 @@ Bridge bank.—The term “bridge bank” means a new national bank organized by
 
 &emsp;(4) outstanding draft (including advice or authorization to charge a bank's or a savings association's balance in another bank or savings association), cashier's check, money order, or other officer's check issued in the usual course of business for any purpose, including without being limited to those issued in payment for services, dividends, or purchases, and
 
-&emsp;(5) such other obligations of a bank or savings association as the Board of Directors,after consultation with the Comptroller of the Currency, Director of the Office of Thrift Supervision, and the Board of Governors of the Federal Reserve System, shall find and prescribe by regulation to be deposit liabilities by general usage, except that the following shall not be a deposit for any of the purposes of this chapter or be included as part of the total deposits or of an insured deposit:
+&emsp;(5) such other obligations of a bank or savings association as the Board of Directors, after consultation with the Comptroller of the Currency, Director of the Office of Thrift Supervision, and the Board of Governors of the Federal Reserve System, shall find and prescribe by regulation to be deposit liabilities by general usage, except that the following shall not be a deposit for any of the purposes of this chapter or be included as part of the total deposits or of an insured deposit:
 
 &emsp;&emsp;(A) any obligation of a depository institution which is carried on the books and records of an office of such bank or savings association located outside of any State, unless—
 
@@ -218,7 +218,7 @@ Appropriate Federal Banking Agency.—The term “appropriate Federal banking ag
 
 &emsp;&emsp;(F) any bank holding company and any subsidiary of a bank holding company (other than a bank);
 
-&emsp;(3) the Federal Deposit Insurance Corporation in the case of a State nonmember insured bank (except a District bank), or a foreign bank having an insured branch; and
+&emsp;(3) the Federal Deposit Insurance Corporation in the case of a State nonmember insuredbank (except a District bank), or a foreign bank having an insured branch; and
 
 &emsp;(4) the Director of the Office of Thrift Supervision in the case of any savings association or any savings and loan holding company.
 
@@ -340,7 +340,7 @@ In danger of default.—The term “in danger of default” means an insured dep
 
 &emsp;&emsp;&emsp;(i) the depository institution or insured branch is not likely to be able to meet the demands of the institution's or branch's depositors or pay the institution's or branch's obligations in the normal course of business; and
 
-&emsp;&emsp;&emsp;(ii) there is no reasonable prospect that the depository institution or insured branch will be able to meet such demands or pay such obligations without Federal assistance; or
+&emsp;&emsp;&emsp;(ii) there is no reasonable prospect that the depository institution or insuredbranch will be able to meet such demands or pay such obligations without Federal assistance; or
 
 &emsp;&emsp;(B) in the opinion of such agency or authority—
 
@@ -400,7 +400,7 @@ Subsec. (y). Pub. L. 102–550, §1603(d)(5), amended directory language of Pub.
 
 1991—Subsec. (m). Pub. L. 102–242, §311(b)(5)(A), inserted heading.
 
-Subsec. (m)(1). Pub. L. 102–242, §311(b)(5)(A), added par. (1) and struck out former par. (1) which read as follows: “Subject to the provisions of paragraph (2) of this subsection, the term ‘insured deposit’ means the net amount due to any depositor (other than a depositor referred to in the third sentence of this subsection) for deposits in an insured depository institution (after deducting offsets) less any part thereof which is in excess of $100,000. Such net amount shall be determined according to such regulations as the Board of Directors may prescribe, and in determining the amount due to any depositor there shall be added together all deposits in the depository institution maintained in the same capacity and the same right for his benefit either in his own name or in the names of others except trust funds which shall be insured as provided in subsection (i) ofsection 1817 of this title. Each officer, employee, or agent of the United States, of any State of the United States, of the District of Columbia, of any Territory of the United States, of Puerto Rico, of Guam, of American Samoa, of the Trust Territory of the Pacific Islands, of the Virgin Islands, of the Northern Mariana Islands, of any county, of any municipality, or of any political subdivision thereof, herein called ‘public unit’, having official custody of public funds and lawfully depositing the same in an insured depository institution shall, for the purpose of determining the amount of the insured deposits, be deemed a depositor in such custodial capacity separate and distinct from any other officer, employee, or agent of the same or any public unit having official custody of public funds and lawfully depositing the same in the same insured depository institution in custodial capacity. For the purpose of clarifying and defining the insurance coverage under this subsection and subsection (i) of section 1817 of this title, the Corporation is authorized to define, with such classifications and exceptions as it may prescribe, terms used in those subsections, in subsection (p) of this section, and in subsections (a) and (i) of section 1821 of this title and the extent of the insurance coverage resulting therefrom.”
+Subsec. (m)(1). Pub. L. 102–242, §311(b)(5)(A), added par. (1) and struck out former par. (1) which read as follows: “Subject to the provisions of paragraph (2) of this subsection, the term ‘insured deposit’ means the net amount due to any depositor (other than a depositor referred to in the third sentence of this subsection) for deposits in an insured depository institution (after deducting offsets) less any part thereof which is in excess of $100,000. Such net amount shall be determined according to such regulations as the Board of Directorsmay prescribe, and in determining the amount due to any depositor there shall be added together all deposits in the depository institution maintained in the same capacity and the same right for his benefit either in his own name or in the names of others except trust funds which shall be insured as provided in subsection (i) of section 1817 of this title. Each officer, employee, or agent of the United States, of any State of the United States, of the District of Columbia, of any Territory of the United States, of Puerto Rico, of Guam, of American Samoa, of the Trust Territory of the Pacific Islands, of the Virgin Islands, of the Northern Mariana Islands, of any county, of any municipality, or of any political subdivision thereof, herein called ‘public unit’, having official custody of public funds and lawfully depositing the same in an insured depository institution shall, for the purpose of determining the amount of the insured deposits, be deemed a depositor in such custodial capacity separate and distinct from any other officer, employee, or agent of the same or any public unit having official custody of public funds and lawfully depositing the same in the same insured depository institution in custodial capacity. For the purpose of clarifying and defining the insurance coverage under this subsection and subsection (i) of section 1817 of this title, the Corporation is authorized to define, with such classifications and exceptions as it may prescribe, terms used in those subsections, in subsection (p) of this section, and in subsections (a) and (i) of section 1821 of this title and the extent of the insurance coverage resulting therefrom.”
 
 Subsec. (m)(3), (4). Pub. L. 102–242, §141(f), added pars. (3) and (4).
 
@@ -550,7 +550,7 @@ Amendment by Pub. L. 96–221 effective Mar. 31, 1980, see section 308(e) of Pub
 
 #### Applicability of 1980 Amendment
 
-Section 308(a)(2) of Pub. L. 96–221 provided that: “The amendments made by this subsection \[amending thissection and sections 1817 and 1821 of this title\] are not applicable to any claim arising out of the closing of a bank prior to the effective date of this section \[see section 308(e) of Pub. L. 96–221, set out as a note under section 1817 of this title\].”
+Section 308(a)(2) of Pub. L. 96–221 provided that: “The amendments made by this subsection \[amending this section and sections 1817 and 1821 of this title\] are not applicable to any claim arising out of the closing of a bank prior to the effective date of this section \[see section 308(e) of Pub. L. 96–221, set out as a note under section 1817 of this title\].”
 
 #### Effective Date of 1978 Amendment
 
@@ -592,5 +592,5 @@ Section 206 of title II of Pub. L. 89–695 provided that: “Nothing contained 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 24, 24a, 30, 43, 93, 191, 248, 265, 347b, 371b–2, 375b, 461, 504, 505, 506, 1422, 1441, 1441a, 1462, 1462a, 1464, 1467, 1467a, 1715z–14, 1735f–7a, 1759, 1785, 1786, 1786a, 1790d, 1815, 1817, 1820a, 1828, 1828a, 1828b, 1831q, 1831r, 1831w, 1832, 1834, 1834a, 1834b, 1835, 1835a, 1841, 1842, 1843, 1847, 1861, 1953, 1972, 2013, 2122, 2245, 2278a–3, 2278b–4, 2802, 2804, 2902, 2903, 2906, 2907, 3101, 3102, 3103, 3104, 3105, 3108, 3110, 3350, 3413, 3902, 3909, 4009, 4204, 4224, 4309, 4421, 4702, 4713, 4742, 4801, 4805a, 4808, 4809, 4909 of this title; title 7 sections 1a, 6f, 27; title 10 sections 4357, 6975, 9356; title 11 sections 101, 109, 781; title 15 sections 57a, 77c, 78c, 78<i>o</i>–5, 78q, 80a–2, 80a–17, 80a–26, 80a–34, 80b–10a, 1607, 1679a, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6701, 6716, 6805, 6809, 6825; title 18 sections 20, 656, 1004, 1005, 1906, 2113, 3059A; title 20 section 1085; title 22 section 5426; title 26 sections 42, 414; title 29 section 1134; title 31 sections 5312, 5321, 5326; title 42 sections 669a, 5318a, 9601.
+This section is referred to in sections 24, 24a, 30, 43, 93, 191, 248, 265, 347b, 371b–2, 375b, 461, 504, 505, 506, 1422, 1441, 1441a, 1462, 1462a, 1464, 1467, 1467a, 1715z–14, 1735f–7a, 1759, 1785, 1786, 1786a, 1790d, 1815, 1817, 1820a, 1828, 1828a, 1828b, 1831q, 1831r, 1831w, 1832, 1834, 1834a, 1834b, 1835, 1835a, 1841, 1842, 1843, 1847, 1861, 1953, 1972, 2013, 2122, 2245, 2278a–3, 2278b–4, 2802, 2804, 2902, 2903, 2906, 2907, 3101, 3102, 3103, 3104, 3105, 3108, 3110, 3350, 3413, 3902, 3909, 4009, 4204, 4224, 4309, 4421, 4702, 4713, 4742, 4801, 4805a, 4808, 4809, 4909 of this title; title 7 sections 1a, 6f, 27; title 10 sections 4357, 6975, 9356; title 11 sections 101, 109, 781; title 15 sections 57a, 77c, 78c, 78m, 78<i>o</i>, 78<i>o</i>–5, 78q, 80a–2, 80a–17, 80a–26, 80a–34, 80b–3, 80b–10a, 1607, 1679a, 1681s, 1691c, 1692<i>l</i>, 1693<i>o</i>, 6701, 6716, 6805, 6809, 6825; title 18 sections 20, 656, 1004, 1005, 1906, 2113; title 20 section 1085; title 22 section 5426; title 26 sections 42, 414; title 29 section 1134; title 31 sections 5312, 5318, 5318A, 5321, 5326; title 42 sections 669a, 5318a, 9601.
 

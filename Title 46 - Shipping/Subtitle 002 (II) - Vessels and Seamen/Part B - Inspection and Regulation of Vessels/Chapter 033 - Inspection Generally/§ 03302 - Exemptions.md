@@ -108,6 +108,12 @@
 
 &emsp;(C) The steamship Jeremiah O'Brien (United States official number 243622), owned by the National Liberty Ship Memorial, Inc..<sup>2</sup>
 
+&emsp;(D) The SS Red Oak Victory (United States official number 249410), owned by the Richmond Museum Association, located in Richmond, California.
+
+&emsp;(E) The SS American Victory (United States official number 248005), owned by Victory Ship, Inc., of Tampa, Florida.
+
+&emsp;(F) The LST–325, owned by USS LST Ship Memorial, Incorporated, located in Mobile, Alabama.
+
 (2) The Secretary may issue a permit for a specific voyage or for not more than one year. The Secretary may impose specific requirements about the number of passengers to be carried, manning, the areas or specific routes over which the vessel may operate, or other similar matters.
 
 (3) A designated Coast Guard official who has reason to believe that a vessel operating under this subsection is in a condition or is operated in a manner that creates an immediate threat to life or the environment or is operated in a manner that is inconsistent with this section, may direct the master or individual in charge to take immediate and reasonable steps to safeguard life and the environment, including directing the vessel to a port or other refuge.
@@ -118,7 +124,7 @@
 
 &emsp;(2) a flammable or combustible liquid, including oil, in bulk.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969; Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(3), July 17, 1984, 98 Stat. 445; Pub. L. 99–307, §1(3), (4), May 19, 1986, 100 Stat. 444; Pub. L. 101–595, title III, §303(a), title VI, §§602(b), 603(2), Nov. 16, 1990, 104 Stat. 2983, 2990, 2993; Pub. L. 103–206, title III, §311, Dec. 20, 1993, 107 Stat. 2426; Pub. L. 104–324, title VII, §711, title XI, §1110, Oct. 19, 1996, 110 Stat. 3935, 3969;Pub. L. 106–65, div. C, title XXXVI, §3604, Oct. 5, 1999, 113 Stat. 976; Pub. L. 107–295, title II, §208, Nov. 25, 2002, 116 Stat. 2098.)
 
 Historical and Revision Notes
 
@@ -144,6 +150,8 @@ Section 3302 does three things. It makes clear that a vessel included in one of 
 
 #### Amendments
 
+2002—Subsec. (<i>l</i>)(1)(D) to (F). Pub. L. 107–295 added subpars. (D) to (F).
+
 1999—Subsec. (<i>l</i>)(1)(C). Pub. L. 106–65 substituted “owned by the National Liberty Ship Memorial, Inc.” for “owned by the United States Maritime Administration”.
 
 1996—Subsec. (b). Pub. L. 104–324, §1110(1), substituted “Except as provided in subsection (c)(3) of this section, a fishing vessel” for “A fishing vessel,”.
@@ -168,7 +176,7 @@ Subsec. (d)(1). Pub. L. 104–324, §711(4), inserted “as measured under secti
 
 Subsec. (i)(1)(A). Pub. L. 104–324, §711(5), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “300 gross tons”.
 
-Subsec. (j). Pub. L. 104–324, §711(6), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title asprescribed by the Secretary under section 14104 of this title” after “15 gross tons”.
+Subsec. (j). Pub. L. 104–324, §711(6), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “15 gross tons”.
 
 1993—Subsec. (m). Pub. L. 103–206 added subsec. (m).
 
@@ -198,6 +206,10 @@ Subsec. (c). Pub. L. 98–364 amended subsec. (c) generally, which prior to amen
 
 Amendment by section 602(b) of Pub. L. 101–595 effective Nov. 16, 1990, except that requirements imposed by subsec. (c)(4)(B) and (C), effective six months after Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Vessels Repaired or Retrofitted for Mobile Trade Fair Purposes Deemed Out of Commission
 
 Pub. L. 100–418, title X, §10003(b), Aug. 23, 1988, 102 Stat. 1573, provided that: “For one year after the date of enactment of this Act \[Aug. 23, 1988\], a vessel that is undergoing repair or retrofitting for use solely for mobile trade fair purposes is deemed to be out of commission under section 3302(e) of title 46, United States Code, during the repair or retrofitting.”
@@ -206,7 +218,7 @@ Pub. L. 100–418, title X, §10003(b), Aug. 23, 1988, 102 Stat. 1573, provided 
 
 Section 403 of Pub. L. 98–364, as amended by Pub. L. 99–36, §3, May 15, 1985, 99 Stat. 68; Pub. L. 101–225, title III, §306, Dec. 12, 1989, 103 Stat. 1925, provided that:
 
-“(a) Except as provided in chapter 37 of title 46, United States Code, and before January 1, 1991, a fishing, fish processing, or fish tender vessel, that is (1) not more than 500 gross tons and (2) in operation, or contracted for purchase to be used as a vessel of this type, before July 1, 1984, may transport cargo to or from a place in Alaska not receiving weekly transportation service from a port of the United States by an established water common carrier, except that the service limitation does not apply to transporting cargo of a type not accepted by that carrier.
+“(a) Except as provided in chapter 37 of title 46, United States Code, and before January 1, 1991, a fishing, fish processing, or fish tender vessel, that is (1) not more than 500 gross tons and (2) in operation, or contracted for purchase to be used as a vessel of this type,before July 1, 1984, may transport cargo to or from a place in Alaska not receiving weekly transportation service from a port of the United States by an established water common carrier, except that the service limitation does not apply to transporting cargo of a type not accepted by that carrier.
 
 “(b) A fish processing vessel entered into service before January 1, 1988, and more than 1,600 gross tons or entered into service after December 31, 1987, and having more than 16 individuals on board primarily employed in the preparation of fish or fish products is exempt from section 8702(b) of title 46, United States Code, until 18 months after the date of enactment of this Act \[July 17, 1984\].
 

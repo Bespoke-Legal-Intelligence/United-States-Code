@@ -60,5 +60,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 912, 6944 of this title.
+This section is referred to in sections 912, 940c–1, 6944 of this title.
 

@@ -66,13 +66,13 @@ A local exchange carrier and a cable operator whose telephone service area and c
 
 &emsp;&emsp;&emsp;(ii) the system or facilities would not be economically viable if such provisions were enforced; or
 
-&emsp;&emsp;&emsp;(iii) the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction in meetingthe convenience and needs of the community to be served; and
+&emsp;&emsp;&emsp;(iii) the anticompetitive effects of the proposed transaction are clearly outweighed in the public interest by the probable effect of the transaction in meeting the convenience and needs of the community to be served; and
 
 &emsp;&emsp;(B) the local franchising authority approves of such waiver.
 
 #### (e) “Telephone service area” defined
 
-For purposes of this section, the term “telephone service area” when used in connection with a common carrier subject in whole or in part to subchapter II of this chapter means the area within which such carrier provided telephone exchange service as of January 1, 1993, but if any common carrier after such date transfers its telephone exchange service facilities to another common carrier, the area to which such facilities provide telephone exchange service shall be treated as part of the telephone service area of the acquiring common carrier and not of the selling common carrier.
+For purposes of this section, the term “telephone service area” when used in connection with a common carrier subject in whole or in part to subchapter II of this chapter means the area within which such carrier provided telephone exchange service as of January 1, 1993, but if any common carrier after such date transfers its telephone exchange service facilities to another common carrier, the area to which such facilities provide telephone exchange service shall be treated as part of the telephone servicearea of the acquiring common carrier and not of the selling common carrier.
 
 (June 19, 1934, ch. 652, title VI, §652, as added Pub. L. 104–104, title III, §302(a), Feb. 8, 1996, 110 Stat. 119.)
 

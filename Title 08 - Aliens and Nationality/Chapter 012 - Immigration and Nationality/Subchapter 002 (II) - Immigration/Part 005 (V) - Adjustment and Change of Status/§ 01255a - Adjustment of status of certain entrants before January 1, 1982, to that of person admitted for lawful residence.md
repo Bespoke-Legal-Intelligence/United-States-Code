@@ -12,7 +12,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (B) Application within 30 days of show-cause order
 
-&emsp;&emsp;An alien who, at any time during the first 11 months of the 12-month period described in subparagraph (A), is the subject of an order to show cause issued under section 1252of this title (as in effect before October 1, 1996), must make application under this section not later than the end of the 30-day period beginning either on the first day of such 12-month period or on the date of the issuance of such order, whichever day is later.
+&emsp;&emsp;An alien who, at any time during the first 11 months of the 12-month period described in subparagraph (A), is the subject of an order to show cause issued under section 1252 of this title (as in effect before October 1, 1996), must make application under this section not later than the end of the 30-day period beginning either on the first day of such 12-month period or on the date of the issuance of such order, whichever day is later.
 
 #### (C) Information included in application
 
@@ -198,7 +198,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (A) Fee schedule
 
-&emsp;&emsp;The Attorney General shall provide for a schedule of fees to be charged for the filing of applications for adjustment under subsection (a) or (b)(1) of this section. The Attorney General shall provide for an additional fee for filing an application for adjustment under subsection (b)(1) of this section after the end of the first year of the 2-year period described in subsection (b)(1)(A) of this section.
+&emsp;&emsp;The Attorney General shall provide for a schedule of fees to be charged for the filingof applications for adjustment under subsection (a) or (b)(1) of this section. The Attorney General shall provide for an additional fee for filing an application for adjustment under subsection (b)(1) of this section after the end of the first year of the 2-year period described in subsection (b)(1)(A) of this section.
 
 #### (B) Use of fees
 
@@ -234,7 +234,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 &emsp;&emsp;&emsp;&emsp;(I) Paragraphs (2)(A) and (2)(B) (relating to criminals).
 
-&emsp;&emsp;&emsp;&emsp;(II) Paragraph (2)(C) (relating to drug offenses), except for so much of suchparagraph as relates to a single offense of simple possession of 30 grams or less of marihuana.
+&emsp;&emsp;&emsp;&emsp;(II) Paragraph (2)(C) (relating to drug offenses), except for so much of such paragraph as relates to a single offense of simple possession of 30 grams or less of marihuana.
 
 &emsp;&emsp;&emsp;&emsp;(III) Paragraph (3) (relating to security and related grounds).
 
@@ -348,7 +348,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (1) In general
 
-&emsp;During the five-year period beginning on the date an alien was granted lawful temporary resident status under subsection (a) of this section, and notwithstanding any other provision of law—
+&emsp;During the five-year period beginning on the date an alien was granted lawful temporaryresident status under subsection (a) of this section, and notwithstanding any other provision of law—
 
 &emsp;&emsp;(A) except as provided in paragraphs (2) and (3), the alien is not eligible for—
 
@@ -424,7 +424,7 @@ The Attorney General shall adjust the status of an alien to that of an alien law
 
 #### (5) Adjustment not affecting Fascell-Stone benefits
 
-&emsp;For the purpose of section 501 of the Refugee Education Assistance Act of 1980 (Public Law 96–122) <sup>1</sup> \[8 U.S.C. 1255 note\], assistance shall be continued under such section with respect to an alien without regard to the alien's adjustment of status under this section.
+&emsp;For the purpose of section 501 of the Refugee Education Assistance Act of 1980 (Public Law 96–122) <sup>1</sup> \[8 U.S.C. 1255 note\], assistance shall becontinued under such section with respect to an alien without regard to the alien's adjustment of status under this section.
 
 #### (i) Dissemination of information on legalization program
 
@@ -446,7 +446,7 @@ Section 404 of the Immigration Reform and Control Act of 1986, referred to in su
 
 Section 1105a of this title, referred to in subsec. (f)(4)(A), was repealed by Pub. L. 104–208, div. C, title III, §306(b), Sept. 30, 1996, 110 Stat. 3009–612.
 
-The Social Security Act, referred to in subsec. (h)(1)(A), (2)(B), (3)(A)(ii), (B)(i), (C), (4)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A, B, D, and E of title IV of the Social Security Act are classified generally to parts A (§601 et seq.), B (§620 et seq.), D (§651 et seq.), and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The PublicHealth and Welfare. Titles I, V, X, XIV, XVI, XIX, and XX of the Social Security Act are classified generally to subchapters I (§301 et seq.), V (§701 et seq.), X (§1201 et seq.), XIV (§1351 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (h)(1)(A), (2)(B), (3)(A)(ii), (B)(i), (C), (4)(I), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A, B, D, and E of title IV of the Social Security Act are classified generally to parts A (§601 et seq.), B (§620 et seq.), D (§651 et seq.), and E (§670 et seq.), respectively, of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Titles I, V, X, XIV, XVI, XIX, and XX of the Social Security Act are classified generally to subchapters I (§301 et seq.), V (§701 et seq.), X (§1201 et seq.), XIV (§1351 et seq.), XVI (§1381 et seq.), XIX (§1396 et seq.), and XX (§1397 et seq.), respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 Section 301 of the Social Security Amendments of 1972, referred to in subsec. (h)(4)(I), is section 301 of Pub. L. 92–603, title III, Oct. 30, 1972, 86 Stat. 1465, which enacted sections 1381 to 1382e and 1383 to 1383c of Title 42.
 
@@ -552,7 +552,7 @@ Subsec. (d)(2)(B)(ii)(II). Pub. L. 100–525, §2(h)(1)(E)(i), struck out “by 
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 101(f) \[title VIII, §405(d)(4)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(4)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(4)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(4)\] of Pub. L. 105–277effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1996 Amendments
 
@@ -580,6 +580,10 @@ Amendment by section 603(a)(13) of Pub. L. 101–649 applicable to applications 
 
 Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Report on Citizenship of Certain Legalized Aliens
 
 Section 109 of Pub. L. 103–416 provided that: “Not later than June 30, 1996, the Commissioner of the Immigration and Naturalization Service shall prepare and submit to the Congress a report concerning the citizenship status of aliens legalized under section 245A and section 210 of the Immigration and Nationality Act \[8 U.S.C. 1255a, 1160\]. Such report shall include the following information by district office for each national origin group:
@@ -594,7 +598,7 @@ Section 109 of Pub. L. 103–416 provided that: “Not later than June 30, 1996,
 
 #### Family Unity
 
-Section 301 of Pub. L. 101–649, as amended by Pub. L. 101–649, title VI, §603(a)(23), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 103–416, title II, §206(a), Oct. 25, 1994, 108 Stat.4311; Pub. L. 104–208, div. C, title III, §§308(d)(4)(R), (e)(2)(H), (16), (g)(1), (7)(E)(ii), 383(a), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–622, 3009–624, 3009–652, provided that:
+Section 301 of Pub. L. 101–649, as amended by Pub. L. 101–649, title VI, §603(a)(23), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 103–416, title II, §206(a), Oct. 25, 1994, 108 Stat. 4311; Pub. L. 104–208, div. C, title III, §§308(d)(4)(R), (e)(2)(H), (16), (g)(1), (7)(E)(ii), 383(a), Sept. 30, 1996, 110 Stat. 3009–619 to 3009–622, 3009–624, 3009–652, provided that:
 
 “(a)
 
@@ -684,7 +688,7 @@ Similar provisions were contained in Pub. L. 100–202, §101(a) \[title IX, §�
 
 #### Procedures for Property Acquisition or Leasing
 
-Section 201(c)(1) of Pub. L. 99–603 provided that notwithstanding Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), the Attorney General was authorized for period of up to two yearsafter effective date of legalization program, to expend from appropriation provided for administration and enforcement of this chapter, such amounts necessary for leasing or acquisition of property in fulfillment of section 201 of Pub. L. 99–603, which enacted this section and amended sections 602, 672, and 673 of Title 42, The Public Health and Welfare.
+Section 201(c)(1) of Pub. L. 99–603 provided that notwithstanding Federal Property and Administrative Services Act of 1949 \[chapters 1 to 11 of Title 40, Public Buildings, Property, and Works and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\], the Attorney General was authorized for period of up to two years after effective date of legalization program, to expend from appropriation provided for administration and enforcement of this chapter, such amounts necessary for leasing or acquisition of property in fulfillment of section 201 of Pub. L. 99–603, which enacted this section and amended sections 602, 672, and 673 of Title 42, The Public Health and Welfare.
 
 #### Use of Retired Federal Employees
 
@@ -730,7 +734,7 @@ Second Report on Impact of Legalization Program.—The second report, which shal
 
 &emsp;“(3) the participation of legalized aliens in social service programs.”
 
-\[Functions of President under section 404 of Pub. L. 99–603 relating to initial report described in section 404(b) delegated to Attorney General and relating to second report described in section 404(c) delegated to Secretary of Labor by sections 1(c) and 2(c) of Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, set out as a note under section 1364 of this title.\]
+\[Functions of President under section 404 of Pub. L. 99–603 relating to initial report described in section 404(b) delegated to Secretary of Homeland Security and relating to second report described in section 404(c) delegated to Secretary of Labor by sections 1(c) and 2(c) of Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, set out as a note under section 1364 of this title.\]
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ The Administrator is authorized to pay to each State and interstate agency each 
 
 #### (d) Limitations
 
-No grant shall be made under this section to any State or interstate agency for any fiscal year when the expenditure of non-Federal funds by such State or interstate agency during suchfiscal year for the recurrent expenses of carrying out its pollution control program are less than the expenditure by such State or interstate agency of non-Federal funds for such recurrent program expenses during the fiscal year ending June 30, 1971.
+No grant shall be made under this section to any State or interstate agency for any fiscal year when the expenditure of non-Federal funds by such State or interstate agency during such fiscal year for the recurrent expenses of carrying out its pollution control program are less than the expenditure by such State or interstate agency of non-Federal funds for such recurrent program expenses during the fiscal year ending June 30, 1971.
 
 #### (e) Grants prohibited to States not establishing water quality monitoring procedures or adequate emergency and contingency plans
 

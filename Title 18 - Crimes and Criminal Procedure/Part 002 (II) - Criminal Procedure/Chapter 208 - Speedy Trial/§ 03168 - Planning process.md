@@ -14,7 +14,7 @@
 
 #### Change of Name
 
-“United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant tosection 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+“United States magistrate judge” substituted for “United States magistrate” in subsec. (a) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

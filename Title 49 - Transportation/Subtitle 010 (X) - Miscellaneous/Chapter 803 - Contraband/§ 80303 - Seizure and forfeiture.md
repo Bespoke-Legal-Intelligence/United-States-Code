@@ -1,14 +1,14 @@
 ### §80303. Seizure and forfeiture
 
-The Secretary of the Treasury or the Governor of Guam or of the Northern Mariana Islands as provided in section 80304 of this title, or a person authorized by another law to enforce section 80302 of this title, shall seize an aircraft, vehicle, or vessel involved in a violation of section 80302 and place it in the custody of a person designated by the Secretary or appropriate Governor, as the case may be. The seized aircraft, vehicle, or vessel shall be forfeited, except when the owner establishes that a person except the owner committed the violation when the aircraft, vehicle, or vessel was in the possession of a person who got possession by violating a criminal law of the United States or a State. However, an aircraft, vehicle, or vessel used by a common carrier to provide transportation for compensation may be forfeited only when—
+The Secretary of the Treasury or the Governor of Guam or of the Northern Mariana Islands as provided in section 80304 of this title, or, when the violation of this chapter involves contraband described in paragraph (2) or (5) of section 80302(a), the Attorney General or a person authorized by another law to enforce section 80302 of this title, shall seize an aircraft, vehicle, or vessel involved in a violation of section 80302 and place it in the custody of a person designated by the Secretary, the Attorney General, or appropriate Governor, as the case may be. The seized aircraft, vehicle, or vessel shall be forfeited, except when the owner establishes that a person except the owner committed the violation when the aircraft, vehicle, or vessel was in the possession of a person who got possession by violating a criminal law of the United States or a State. However, an aircraft, vehicle, or vessel used by a common carrier to provide transportation for compensation may be forfeited only when—
 
-&emsp;(1) the owner, conductor, driver, pilot, or other individual in charge of the aircraft or vehicle (except a rail car or engine) consents to, or knows of, the alleged violation when the violation occurs;
+&emsp;(1) the owner, conductor, driver, pilot, or other individual in charge of the aircraft orvehicle (except a rail car or engine) consents to, or knows of, the alleged violation when the violation occurs;
 
 &emsp;(2) the owner of the rail car or engine consents to, or knows of, the alleged violation when the violation occurs; or
 
 &emsp;(3) the master or owner of the vessel consents to, or knows of, the alleged violation when the violation occurs.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1354.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1354; Pub. L. 107–296, title XI, §1112(q), Nov. 25, 2002, 116 Stat. 2278.)
 
 Historical and Revision Notes
 
@@ -37,4 +37,14 @@ In this section, before clause (1), the words “The Secretary of the Treasury .
 #### References in Text
 
 The criminal laws of the United States, referred to in text, are classified generally to Title 18, Crimes and Criminal Procedure.
+
+#### Amendments
+
+2002—Pub. L. 107–296, §1112(q)(2), inserted “, the Attorney General,” after “by the Secretary” in introductory provisions.
+
+Pub. L. 107–296, §1112(q)(1), which directed amendment of this section by inserting “or, when the violation of this chapter involves contraband described in paragraph (2) or (5) of section 80302(a), the Attorney General” after “section 80304 of this title.”, was executed by making the insertion after “section 80304 of this title,” to reflect the probable intent of Congress.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 

@@ -12,13 +12,15 @@
 
 (f) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an enlistment for which a bonus was paid under this section does not discharge the person receiving such bonus payment from the debt arising under subsection (d). This subsection applies to any case commenced under title 11 after September 24, 1983.
 
-(g) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Transportation for the Coast Guard when it is not operating as a service in the Navy.
+(g) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when it is not operating as a service in the Navy.
 
 (h) A bonus may not be paid under this section to any person for an enlistment after September 30, 1992.
 
-(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 99–145, title VI, §646(a)(1), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117.)
+(Added Pub. L. 98–94, title X, §1011(a), Sept. 24, 1983, 97 Stat. 663; amended Pub. L. 99–145, title VI, §646(a)(1), title XIII, §1303(b)(3), Nov. 8, 1985, 99 Stat. 654, 740; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsec. (g). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1991—Pub. L. 102–25 struck out “of this section” wherever appearing in subsecs. (a), (b), (e), and (f).
 
@@ -29,6 +31,10 @@
 1985—Subsec. (f). Pub. L. 99–145, §1303(b)(3), substituted “September 24, 1983” for “the date of the enactment of the Department of Defense Authorization Act, 1984”.
 
 Subsec. (h). Pub. L. 99–145, §646(a)(1), substituted “September 30, 1987” for “September 30, 1985”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1985 Amendment
 

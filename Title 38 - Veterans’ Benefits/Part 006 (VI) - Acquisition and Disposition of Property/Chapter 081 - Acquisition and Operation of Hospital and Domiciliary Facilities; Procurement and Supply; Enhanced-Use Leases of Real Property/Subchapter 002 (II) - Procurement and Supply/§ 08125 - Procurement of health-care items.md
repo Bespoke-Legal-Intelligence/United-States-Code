@@ -44,7 +44,7 @@
 
 Subsec. (d)(2). Pub. L. 107–14, §8(a)(15)(B), struck out “(beginning in 1993)” after “each year”.
 
-Subsec. (d)(3). Pub. L. 107–14, §8(a)(15)(C), struck out par. (3) which read as follows: “Not later than February 1 of each year from 1989 through 1992, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the experience in carrying out this section during the preceding fiscal year. The first such report shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department during fiscal year 1988 that were procured through local contracts. The other reports under this paragraph shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department, and by each Department medical center, during the fiscal year covered by the report that were purchased through local contracts and, in the case of each medical center at which the percentage was greater than 20 percent, an explanation of the reasons why that occurred.”
+Subsec. (d)(3). Pub. L. 107–14, §8(a)(15)(C), struck out par. (3) which read as follows: “Not later than February 1 of each year from 1989 through 1992, the Secretary shall submit to the Committees on Veterans’ Affairs of the Senate and the House of Representatives a report on the experience in carrying out this section duringthe preceding fiscal year. The first such report shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department during fiscal year 1988 that were procured through local contracts. The other reports under this paragraph shall contain information showing the percentage (measured by cost) of the total of all health-care items procured by the Department, and by each Department medical center, during the fiscal year covered by the report that were purchased through local contracts and, in the case of each medical center at which the percentage was greater than 20 percent, an explanation of the reasons why that occurred.”
 
 1992—Subsec. (b)(1)(B)(ii). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
@@ -80,5 +80,5 @@ Section 403(b) of Pub. L. 100–322, as amended by Pub. L. 100–687, div. B, ti
 
 #### Standardization of Medical and Pharmaceutical Items
 
-Section 402 of Pub. L. 100–322, as amended by Pub. L. 100–687, div. B, title XV, §1508, Nov. 18, 1988, 102 Stat.4137, directed Administrator, not later than Oct. 1, 1989, to develop and fully implement an agency-wide plan for cost-effective standardization of health-care items procured by Veterans’ Administration.
+Section 402 of Pub. L. 100–322, as amended by Pub. L. 100–687, div. B, title XV, §1508, Nov. 18, 1988, 102 Stat. 4137, directed Administrator, not later than Oct. 1, 1989, to develop and fully implement an agency-wide plan for cost-effective standardization of health-care items procured by Veterans’ Administration.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of programs
 
-(1) The Secretary and the Board of Trustees of Gallaudet University are authorized to establish the Gallaudet University Federal Endowment Fund as a permanent endowment fund, in accordance with this section, for the purpose of promoting the financial independence of the University. The Secretary and the Board of Trustees may enter into such agreements as may be necessary to carry out the purposes of this section with respect to the University.
+(1) The Secretary and the Board of Trustees of Gallaudet University are authorized to establishthe Gallaudet University Federal Endowment Fund as a permanent endowment fund, in accordance with this section, for the purpose of promoting the financial independence of the University. The Secretary and the Board of Trustees may enter into such agreements as may be necessary to carry out the purposes of this section with respect to the University.
 
 (2) The Secretary and the Board of Trustees or other governing body of the institution of higher education with which the Secretary has an agreement under section 4332 of this title are authorized to establish the National Technical Institute for the Deaf Federal Endowment Fund as a permanent endowment fund, in accordance with this section, for the purpose of promoting the financial independence of NTID. The Secretary and the Board or other governing body may enter into such agreements as may be necessary to carry out the purposes of this section with respect to NTID.
 
@@ -52,7 +52,7 @@ After notice and an opportunity for a hearing, the Secretary is authorized to re
 
 &emsp;(2) fails to comply with the investment standards and limitations under this section; or
 
-&emsp;(3) fails to account properly to the Secretary concerning the investment of or expenditures from the Federal endowment fund corpus or income.
+&emsp;(3) fails to account properly to the Secretary concerning the investment of or expendituresfrom the Federal endowment fund corpus or income.
 
 #### (g) Definitions
 
@@ -86,7 +86,7 @@ A prior section 4357, Pub. L. 99–371, title II, §207, formerly title IV, §40
 
 #### Amendments
 
-1998—Subsec. (b)(2). Pub. L. 105–244, §919(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Subject to the availability of appropriations and the non-Federal matching requirements of paragraph (3), the Secretary shall make payments toeach Federal endowment fund in amounts equal to sums contributed to the fund from non-Federal sources (excluding transfers from other endowment funds of the institution involved).”
+1998—Subsec. (b)(2). Pub. L. 105–244, §919(1)(A), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “Subject to the availability of appropriations and the non-Federal matching requirements of paragraph (3), the Secretary shall make payments to each Federal endowment fund in amounts equal to sums contributed to the fund from non-Federal sources (excluding transfers from other endowment funds of the institution involved).”
 
 Subsec. (b)(3). Pub. L. 105–244, §919(1)(B), struck out par. (3) which read as follows: “Effective for fiscal year 1993 and each succeeding fiscal year, for any fiscal year in which the sums contributed to the Federal endowment fund of the institution involved from non-Federal sources exceed $1,000,000, the non-Federal contribution to the Federal endowment fund shall be $2 for each Federal dollar provided in excess of $1,000,000 (excluding transfers from other endowment funds of the institution involved).”
 

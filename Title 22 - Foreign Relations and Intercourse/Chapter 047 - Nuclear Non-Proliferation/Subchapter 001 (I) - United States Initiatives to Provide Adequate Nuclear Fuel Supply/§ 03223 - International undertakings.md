@@ -2,9 +2,9 @@
 
 #### (a) Development of international approaches for meeting future worldwide nuclear fuel needs; international nuclear fuel authority
 
-Consistent with section 3224 of this title, the President shall institute prompt discussions with other nations and groups of nations, including both supplier and recipient nations, to develop international approaches for meeting future worldwide nuclear fuel needs. In particular, the President is authorized and urged to seek to negotiate as soon as practicable with nations possessing nuclear fuel production facilities or source material, and such other nations and groups of nations, such as the IAEA, as may be deemed appropriate, with a view toward the timely establishment of binding international undertakings providing for—
+Consistent with section 3224 of this title, the President shall institute prompt discussionswith other nations and groups of nations, including both supplier and recipient nations, to develop international approaches for meeting future worldwide nuclear fuel needs. In particular, the President is authorized and urged to seek to negotiate as soon as practicable with nations possessing nuclear fuel production facilities or source material, and such other nations and groups of nations, such as the IAEA, as may be deemed appropriate, with a view toward the timely establishment of binding international undertakings providing for—
 
-&emsp;(1) the establishment of an international nuclear fuel authority (INFA) with responsibilityfor providing agreed upon fuel services and allocating agreed upon quantities of fuel resources to ensure fuel supply on reasonable terms in accordance with agreements between INFA and supplier and recipient nations;
+&emsp;(1) the establishment of an international nuclear fuel authority (INFA) with responsibility for providing agreed upon fuel services and allocating agreed upon quantities of fuel resources to ensure fuel supply on reasonable terms in accordance with agreements between INFA and supplier and recipient nations;
 
 &emsp;(2) a set of conditions consistent with subsection (d) of this section under which international fuel assurances under INFA auspices will be provided to recipient nations, including conditions which will ensure that the transferred materials will not be used for nuclear explosive devices;
 

@@ -118,31 +118,7 @@ For effective date of amendment by Pub. L. 100–690, see section 2613(b)(1) of 
 
 #### Study of the Use of Centers of Excellence at the National Institutes of Health
 
-Pub. L. 107–84, §7, Dec. 18, 2001, 115 Stat. 829, provided that:
-
-“(a)
-
-Review.—Not later than 60 days after the date of enactment of this Act \[Dec. 18, 2001\], the Secretary of Health and Human Services shall enter into a contract with the Institute of Medicine for the purpose of conducting a study and making recommendations on the impact of, need for, and other issues associated with Centers of Excellence at the National Institutes of Health.
-
-“(b)
-
-Areas of Review.—In conducting the study under subsection (a), the Institute of Medicine shall at a minimum consider the following:
-
-&emsp;“(1) The current areas of research incorporating Centers of Excellence (which shall include a description of such areas) and the relationship of this form of funding mechanism to other forms of funding for research grants, including investigator initiated research, contracts and other types of research support awards.
-
-&emsp;“(2) The distinctive aspects of Centers of Excellence, including the additional knowledge that may be expected to be gained through Centers of Excellence as compared to other forms of grant or contract mechanisms.
-
-&emsp;“(3) The costs associated with establishing and maintaining Centers of Excellence, and the record of scholarship and training resulting from such Centers. The research and training contributions of Centers should be assessed on their own merits and in comparison with other forms of research support.
-
-&emsp;“(4) Specific areas of research in which Centers of Excellence may be useful, needed, or underused, as well as areas of research in which Centers of Excellence may not be helpful.
-
-&emsp;“(5) Criteria that may be applied in determining when Centers of Excellence are an appropriate and cost-effective research investment and conditions that should be present in order to consider the establishment of Centers of Excellence.
-
-&emsp;“(6) Alternative research models that may accomplish results similar to or greater than Centers of Excellence.
-
-“(c)
-
-Report.—Not later than 1 year after the date on which the contract is entered into under subsection (a), the Institute of Medicine shall complete the study under such subsection and submit a report to the Secretary of Health and Human Services and the appropriate committees of Congress that contains the results of such study.”
+Pub. L. 107–84, §7, Dec. 18, 2001, 115 Stat. 829, required the Secretary of Health and Human Services to contract, not later than 60 days after Dec. 18, 2001, with the Institute of Medicine to conduct a study on the impact of, need for, and other issues associated with Centers of Excellence at the National Institutes of Health and complete the study and submit a report not later than one year after the date of the contract.
 
 #### Report on Medical Uses of Biological Agents in Development of Defenses Against Biological Warfare
 

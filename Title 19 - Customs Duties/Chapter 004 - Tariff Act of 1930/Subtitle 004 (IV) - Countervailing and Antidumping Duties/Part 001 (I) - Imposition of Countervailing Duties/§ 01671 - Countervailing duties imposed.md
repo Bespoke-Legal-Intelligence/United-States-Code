@@ -96,7 +96,7 @@ Subsec. (f). Pub. L. 100–647 redesignated subsec (d), relating to cross refere
 
 Subsec. (a)(1). Pub. L. 98–573, §602(a)(1)(A), inserted “, or sold (or likely to be sold) for importation,” in provisions following subpar. (B).
 
-Subsec. (a)(2). Pub. L. 98–573, §602(a)(1)(B), inserted “or by reason of sales (or the likelihood of sales) of that merchandise for importation” in provisions following subpar. (B).
+Subsec. (a)(2). Pub. L. 98–573, §602(a)(1)(B), inserted “or by reason of sales (or the likelihood of sales) ofthat merchandise for importation” in provisions following subpar. (B).
 
 Subsec. (g). Pub. L. 98–573, §613(b), added subsec. (g).
 
@@ -214,7 +214,7 @@ Functions of President under subsec. (b) of this section delegated to United Sta
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Investigations Pending on January 1, 1980
 
@@ -284,7 +284,7 @@ Determination by the commission.—Within 180 days after the date on which it re
 
 Effect of determination.—
 
-“(A) Affirmative determination.—Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of imposition of countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] which applies to that merchandise shall remain in effect until revoked, in whole or inpart, under section 751(d) of such Act \[section 1675(d) of this title\].
+“(A) Affirmative determination.—Upon being notified by the Commission of an affirmative determination under paragraph (2), the administering authority shall terminate the waiver of imposition of countervailing duties for merchandise subject to the order, if any. The countervailing duty order under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] which applies to that merchandise shall remain in effect until revoked, in whole or in part, under section 751(d) of such Act \[section 1675(d) of this title\].
 
 “(B) Negative determination.—Upon being notified by the Commission of a negative determination under paragraph (2), the administering authority shall revoke the countervailing duty order, and publish notice in the Federal Register of the revocation.
 

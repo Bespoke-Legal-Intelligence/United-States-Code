@@ -86,7 +86,7 @@ The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (g), (h), and 
 
 1997—Subsec. (a). Pub. L. 105–115, §123(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) related to intrastate and interstate traffic in biological products and suspension or revocation of licenses as affecting prior sales.
 
-Subsec. (b). Pub. L. 105–115, §123(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No person shall falsely label or mark any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid; nor alterany label or mark on any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid so as to falsify such label or mark.”
+Subsec. (b). Pub. L. 105–115, §123(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “No person shall falsely label or mark any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid; nor alter any label or mark on any package or container of any virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid so as to falsify such label or mark.”
 
 Subsec. (c). Pub. L. 105–115, §123(c), substituted “biological product.” for “virus, serum, toxin, antitoxin, vaccine, blood, blood component or derivative, allergenic product, or other product aforesaid for sale, barter, or exchange in the District of Columbia, or to be sent, carried, or brought from any State or possession into any other State or possession or into any foreign country, or from any foreign country into any State or possession.”
 
@@ -100,7 +100,7 @@ Subsec. (j). Pub. L. 105–115, §123(g), added subsec. (j).
 
 Subsec. (h)(1)(A). Pub. L. 104–134, §2102(d)(2), substituted “in a country listed under section 802(b)(1)” for “in a country listed under section 802(b)(A)” and “to a country listed under section 802(b)(1)” for “to a country listed under section 802(b)(4)”.
 
-1992—Subsec. (c). Pub. L. 102–300, which directed substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed because the words “Health, Education, and Welfare” did not appear in original statutory text. Previously, references to Department and Secretary of Health and Human Services were substituted for references to Federal Security Agency and its Administrator pursuant to provisions cited in Transfer of Functions note below.
+1992—Subsec. (c). Pub. L. 102–300, which directed substitution of “Health and Human Services” for “Health, Education, and Welfare”, could not be executed becausethe words “Health, Education, and Welfare” did not appear in original statutory text. Previously, references to Department and Secretary of Health and Human Services were substituted for references to Federal Security Agency and its Administrator pursuant to provisions cited in Transfer of Functions note below.
 
 1986—Subsec. (d). Pub. L. 99–660, §315, designated existing provisions as par. (1) and added par. (2).
 
@@ -128,7 +128,7 @@ References to Secretary and Department of Health, Education, and Welfare substit
 
 #### Enhanced Penalties and Control of Biological Agents
 
-Pub. L. 104–132, title V, §511, Apr. 24, 1996, 110 Stat. 1284, provided that:
+Pub. L. 104–132, title V, §511, Apr. 24, 1996, 110 Stat. 1284, as amended by Pub. L. 107–188, title II, §204, June 12, 2002, 116 Stat. 647, provided that:
 
 “(a)
 
@@ -148,69 +148,9 @@ Criminal Enforcement.—\[Amended sections 175, 177, and 178 of Title 18, Crimes
 
 “(c)
 
-Terrorism.—\[Amended section 2332a of Title 18.\]
-
-“(d)
-
-Regulatory Control of Biological Agents.—
-
-&emsp;“(1)
-
-List of biological agents.—
-
-&emsp;&emsp;“(A)
-
-In general.—The Secretary shall, through regulations promulgated under subsection (f), establish and maintain a list of each biological agent that has the potential to pose a severe threat to public health and safety.
-
-&emsp;&emsp;“(B)
-
-Criteria.—In determining whether to include an agent on the list under subparagraph (A), the Secretary shall—
-
-&emsp;&emsp;&emsp;“(i) consider—
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the effect on human health of exposure to the agent;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the degree of contagiousness of the agent and the methods by which the agent is transferred to humans;
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) the availability and effectiveness of immunizations to prevent and treatments for any illness resulting from infection by the agent; and
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) any other criteria that the Secretary considers appropriate; and
-
-&emsp;&emsp;&emsp;“(ii) consult with scientific experts representing appropriate professional groups.
-
-“(e)
-
-Regulation of Transfers of Listed Biological Agents.—The Secretary shall, through regulations promulgated under subsection (f), provide for—
-
-&emsp;“(1) the establishment and enforcement of safety procedures for the transfer of biological agents listed pursuant to subsection (d)(1), including measures to ensure—
-
-&emsp;&emsp;“(A) proper training and appropriate skills to handle such agents; and
-
-&emsp;&emsp;“(B) proper laboratory facilities to contain and dispose of such agents;
-
-&emsp;“(2) safeguards to prevent access to such agents for use in domestic or international terrorism or for any other criminal purpose;
-
-&emsp;“(3) the establishment of procedures to protect the public safety in the event of a transfer or potential transfer of a biological agent in violation of the safety procedures established under paragraph (1) or the safeguards established under paragraph (2); and
-
-&emsp;“(4) appropriate availability of biological agents for research, education, and other legitimate purposes.
-
-“(f)
-
-Regulations.—The Secretary shall carry out this section by issuing—
-
-&emsp;“(1) proposed rules not later than 60 days after the date of enactment of this Act \[Apr. 24, 1996\]; and
-
-&emsp;“(2) final rules not later than 120 days after the date of enactment of this Act.
-
-“(g)
-
-Definitions.—For purposes of this section—
-
-&emsp;“(1) the term ‘biological agent’ has the same meaning as in section 178 of title 18, United States Code; and
-
-&emsp;“(2) the term ‘Secretary’ means the Secretary of Health and Human Services.”
+Terrorism.—\[Amended section 2332a of Title 18.\]”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 236, 263, 300aa–22, 300aa–23, 1396r–8 of this title; title 21 sections 321, 331, 352, 353, 355, 356, 356a, 360aa, 360bb, 360cc, 360ee, 360aaa, 360bbb–1, 379g, 381, 382, 384, 392, 397, 823; title 26 section 45C; title 35 section 156.
+This section is referred to in sections 236, 262a, 263, 300aa–22, 300aa–23, 1396r–8 of this title; title 7 section 8401; title 21 sections 321, 331, 352, 353, 355, 356, 356–1, 356a, 360aa, 360bb, 360cc, 360ee, 360aaa, 360bbb–1, 379g, 379i, 379j, 381, 382, 384, 392, 397, 823; title 26 section 45C; title 35 section 156.
 

@@ -1,6 +1,6 @@
 ### §910. Determination of pay
 
-Except as otherwise provided in this chapter, the average weekly wage of the injured employee at the time of the injury shall be takenas the basis upon which to compute compensation and shall be determined as follows:
+Except as otherwise provided in this chapter, the average weekly wage of the injured employee at the time of the injury shall be taken as the basis upon which to compute compensation and shall be determined as follows:
 
 (a) If the injured employee shall have worked in the employment in which he was working at the time of the injury, whether for the same or another employer, during substantially the whole of the year immediately preceding his injury, his average annual earnings shall consist of three hundred times the average daily wage or salary for a six-day worker and two hundred and sixty times the average daily wage or salary for a five-day worker, which he shall have earned in such employment during the days when so employed.
 
@@ -32,7 +32,7 @@ Except as otherwise provided in this chapter, the average weekly wage of the inj
 
 (3) For the purposes of subsections (f) and (g) of this section an injury which resulted in permanent total disability or death which occurred prior to October 27, 1972, shall be considered to have occurred on the day following such date.
 
-(i) For purposes of this section with respect to a claim for compensation for death or disability due to an occupational disease which does not immediately result in death or disability, the time of injury shall be deemed to be the date on which the employee or claimant becomes aware, or in the exercise of reasonable diligence or by reason of medical advice should have beenaware, of the relationship between the employment, the disease, and the death or disability.
+(i) For purposes of this section with respect to a claim for compensation for death or disability due to an occupational disease which does not immediately result in death or disability, the time of injury shall be deemed to be the date on which the employee or claimant becomes aware, or in the exercise of reasonable diligence or by reason of medical advice should have been aware, of the relationship between the employment, the disease, and the death or disability.
 
 (Mar. 4, 1927, ch. 509, §10, 44 Stat. 1431; June 24, 1948, ch. 623, §4, 62 Stat. 603; Pub. L. 92–576, §11, Oct. 27, 1972, 86 Stat. 1258; Pub. L. 98–426, §10, Sept. 28, 1984, 98 Stat. 1647.)
 

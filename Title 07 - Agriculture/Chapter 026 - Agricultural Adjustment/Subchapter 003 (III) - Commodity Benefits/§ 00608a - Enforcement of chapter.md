@@ -16,7 +16,7 @@ Upon the request of the Secretary of Agriculture, it shall be the duty of the se
 
 #### (8) Cumulative remedies
 
-The remedies provided for in this section shall be in addition to, and not exclusive of, any ofthe remedies or penalties provided for elsewhere in this chapter or now or hereafter existing at law or in equity.
+The remedies provided for in this section shall be in addition to, and not exclusive of, any of the remedies or penalties provided for elsewhere in this chapter or now or hereafter existing at law or in equity.
 
 #### (9) “Person” defined
 

@@ -60,7 +60,7 @@ Such contributions may be in the form of—
 
 &emsp;&emsp;(A) “fiscal distress” means a jurisdiction other than a State that satisfies 1 of the distress criteria set forth in paragraph (3); and
 
-&emsp;&emsp;(B) “severe fiscal distress” means a jurisdiction other than a State that satisfies both of the distress criteria set forth in paragraph (3).
+&emsp;&emsp;(B) “severe fiscal distress” means a jurisdiction other than a State that satisfiesboth of the distress criteria set forth in paragraph (3).
 
 #### (3) Distress criteria
 
@@ -132,7 +132,7 @@ Amendment by Pub. L. 103–233 applicable with respect to any amounts made avail
 
 Section 210(d) of Pub. L. 102–550 provided that: “The amendments made by this section \[amending this section\] shall apply with respect to fiscal year 1993 and each fiscal year thereafter.”
 
-Amendment by section 207(c) of Pub. L. 102–550 applicable to unexpended funds allocated under subchapter II of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
+Amendment by section 207(c) of Pub. L. 102–550 applicable to unexpended funds allocated under subchapterII of this chapter in fiscal year 1992, except as otherwise specifically provided, see section 223 of Pub. L. 102–550, set out as a note under section 12704 of this title.
 
 #### Section Referred to in Other Sections
 

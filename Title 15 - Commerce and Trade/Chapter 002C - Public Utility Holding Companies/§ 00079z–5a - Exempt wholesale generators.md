@@ -6,7 +6,7 @@ For purposes of this section—
 
 #### (1) Exempt wholesale generator
 
-&emsp;The term “exempt wholesale generator” means any person determined by the Federal Energy Regulatory Commission to be engaged directly, or indirectly through one or more affiliates as defined in section 79b(a)(11)(B) of this title, and exclusively in the business of owning or operating, or both owning and operating, all or part of one or more eligible facilities and selling electric energy at wholesale. No person shall be deemed to be an exempt wholesale generator under this section unless such person has applied to the Federal Energy Regulatory Commission for a determination under this paragraph. A person applying in good faith for such a determination shall be deemed an exempt wholesale generator under this section, with all of the exemptions provided by this section, until the Federal Energy Regulatory Commission makes such determination. The Federal Energy Regulatory Commission shall make such determination within 60 days of its receipt of such application and shall notify the Commission whenever a determination is made under this paragraph that any person is an exempt wholesalegenerator. Not later than 12 months after October 24, 1992, the Federal Energy Regulatory Commission shall promulgate rules implementing the provisions of this paragraph. Applications for determination filed after the effective date of such rules shall be subject thereto.
+&emsp;The term “exempt wholesale generator” means any person determined by the Federal Energy Regulatory Commission to be engaged directly, or indirectly through one or more affiliates as defined in section 79b(a)(11)(B) of this title, and exclusively in the business of owning or operating, or both owning and operating, all or part of one or more eligible facilities and selling electric energy at wholesale. No person shall be deemed to be an exempt wholesale generator under this section unless such person has applied to the Federal Energy Regulatory Commission for a determination under this paragraph. A person applying in good faith for such a determination shall be deemed an exempt wholesale generator under this section, with all of the exemptions provided by this section, until the Federal Energy Regulatory Commission makes such determination. The Federal Energy Regulatory Commission shall make such determination within 60 days of its receipt of such application and shall notify the Commission whenever a determination is made under this paragraph that any person is an exempt wholesale generator. Not later than 12 months after October 24, 1992, the Federal Energy Regulatory Commission shall promulgate rules implementing the provisions of this paragraph. Applications for determination filed after the effective date of such rules shall be subject thereto.
 
 #### (2) Eligible facility
 
@@ -40,7 +40,7 @@ If a rate or charge for, or in connection with, the construction of a facility, 
 
 #### (d) Hybrids
 
-(1) No exempt wholesale generator may own or operate a portion of any facility if any other portion of the facility is owned or operated by an electric utility company that is an affiliate or associate company of such exempt wholesale generator.
+(1) No exempt wholesale generator may own or operate a portion of any facility if any other portion of the facility is owned or operated byan electric utility company that is an affiliate or associate company of such exempt wholesale generator.
 
 (2)
 
@@ -102,7 +102,7 @@ The ownership by a person of one or more exempt wholesale generators shall not r
 
 &emsp;&emsp;&emsp;&emsp;(II) does not violate any State law (including where applicable, least cost planning),
 
-&emsp;&emsp;&emsp;&emsp;(III) would not provide the exempt wholesale generator any unfair competitive advantage by virtue of its affiliationor association with the electric utility company, and
+&emsp;&emsp;&emsp;&emsp;(III) would not provide the exempt wholesale generator any unfair competitive advantage by virtue of its affiliation or association with the electric utility company, and
 
 &emsp;&emsp;&emsp;&emsp;(IV) is in the public interest; or
 

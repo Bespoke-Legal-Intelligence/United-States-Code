@@ -34,7 +34,7 @@ The Secretaries, in collaboration with the States, shall by grant, contract, or 
 
 #### (b) Evaluation
 
-Not later than September 30, 1998, the Secretaries shall complete a national evaluation of School-to-Work Opportunities programs funded under this chapter by grants, contracts, or otherwise, that will track and assess the progress of implementation of State and local programs and their effectiveness based on measures such as those measures described in subsection (a) of this section.
+Not later than September 30, 1998, the Secretaries shall complete a national evaluation of School-to-Work Opportunities programs funded under this chapter by grants, contracts, orotherwise, that will track and assess the progress of implementation of State and local programs and their effectiveness based on measures such as those measures described in subsection (a) of this section.
 
 #### (c) Reports to Secretaries
 

@@ -6,7 +6,7 @@ Federal Charter.—Jewish War Veterans of the United States of America, Incorpor
 
 (b)
 
-Expiration of Charter.—If the corporation does not comply with any provision of this chapter, the charter granted by this chapter expires.
+Expiration of Charter.—If the corporation does not comply with any provision of thischapter, the charter granted by this chapter expires.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1367.)
 

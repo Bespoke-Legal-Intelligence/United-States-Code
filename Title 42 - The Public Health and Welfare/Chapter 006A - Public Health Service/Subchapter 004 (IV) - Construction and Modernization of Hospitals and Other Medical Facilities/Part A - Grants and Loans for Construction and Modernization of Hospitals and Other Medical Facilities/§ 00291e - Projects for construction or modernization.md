@@ -12,7 +12,7 @@ For each project pursuant to a State plan approved under this part, there shall 
 
 &emsp;(4) reasonable assurance that adequate financial support will be available for the completion of the project and for its maintenance and operation when completed;
 
-&emsp;(5) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of construction or modernization on the project will be paid wages at rates not less than those prevailing on similar work in the locality as determined by the Secretary of Labor in accordance with the Davis-Bacon Act, as amended \[40 U.S.C. 276a et seq.\]; and the Secretary of Labor shall have with respect to the labor standards specified in this paragraph the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176) and section 276c of title 40; and
+&emsp;(5) reasonable assurance that all laborers and mechanics employed by contractors or subcontractors in the performance of construction or modernization on the project will be paid wages at rates not less than those prevailing on similar work in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40; and the Secretary of Labor shall have with respect to the labor standards specified in this paragraph the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176) and section 3145 of title 40; and
 
 &emsp;(6) a certification by the State agency of the Federal share for the project.
 
@@ -30,15 +30,17 @@ Amendment of any approved application shall be subject to approval in the same m
 
 #### (e) Outpatient facilities; requirements of applicants
 
-Notwithstanding any other provision of this subchapter, no application for an outpatient facility shall be approved under this section unless the applicant is (1) a State, political subdivision, or public agency, or (2) a corporation or association which owns and operates a nonprofit hospital (as defined in section 291<i>o</i> of this title) or which provides reasonable assurance that the services of a general hospital will beavailable to patients of such facility who are in need of hospital care.
+Notwithstanding any other provision of this subchapter, no application for an outpatient facility shall be approved under this section unless the applicant is (1) a State, political subdivision, or public agency, or (2) a corporation or association which owns and operates a nonprofit hospital (as defined in section 291<i>o</i> of this title) or which provides reasonable assurance that the services of a general hospital will be available to patients of such facility who are in need of hospital care.
 
 (July 1, 1944, ch. 373, title VI, §605, as added Pub. L. 88–443, §3(a), Aug. 18, 1964, 78 Stat. 453; amended Pub. L. 91–296, title I, §§111(a), 116(e), June 30, 1970, 84 Stat. 340, 342; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695.)
 
 #### References in Text
 
-The Davis-Bacon Act, referred to in subsec. (a)(5), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to section 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (a)(5), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+
+In subsec. (a) (5), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 

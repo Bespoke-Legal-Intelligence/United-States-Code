@@ -18,7 +18,7 @@
 
 &emsp;(B) endorse the grants made by the Bank for the community adjustment and investment program, as provided in Article I, section 1(b), and Article III, section 11(a), of Chapter II of the Cooperation Agreement; and
 
-&emsp;(C) endorse any loans or guarantees made by the Bank for the community adjustment and investment program, as provided in Article I, section 1(b), and Article III, section 6(a) and\(c) of Chapter II of the Cooperation Agreement.
+&emsp;(C) endorse any loans or guarantees made by the Bank for the community adjustment and investment program, as provided in Article I, section 1(b), and Article III, section 6(a) and (c) of Chapter II of the Cooperation Agreement.
 
 #### (b) Advisory Committee
 
@@ -106,7 +106,7 @@ Functions of President under subsec. (a)(1) to (3) of this section delegated to 
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Community Adjustment and Investment Program Finance Committee
 

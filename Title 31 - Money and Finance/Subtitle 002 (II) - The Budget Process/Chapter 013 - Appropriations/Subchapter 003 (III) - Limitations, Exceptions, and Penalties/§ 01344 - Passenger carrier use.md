@@ -118,7 +118,7 @@ Section 8(a)(1) of the Central Intelligence Agency Act of 1949, referred to in s
 
 Subsection (b)(2)(B) of this section, referred to in subsec. (d)(3), (4), was redesignated subsec. (b)(3)(B) by Pub. L. 100–202. See 1987 Amendment note below.
 
-Section 3502 of title 44, referred to in subsec. (g)(2)(H), which in par. (10) defined “independent regulatory agency”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L. 104–13 enacted a new section 3502 of Title 44 which also defines “independent regulatory agency”.
+Section 3502 of title 44, referred to in subsec. (g)(2)(H), which in par. (10) defined “independent regulatory agency”, was omitted in the general amendment of chapter 35 of Title 44, Public Printing and Documents, by Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 163. Pub. L.104–13 enacted a new section 3502 of Title 44 which also defines “independent regulatory agency”.
 
 #### Codification
 
@@ -168,6 +168,10 @@ Committee on Government Operations of House of Representatives treated as referr
 
 Section 4(f)(2) of Pub. L. 103–272 provided that the amendment made by that section is effective Dec. 22, 1987.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Use of Government Vehicles
 
 Pub. L. 101–194, title V, §503, Nov. 30, 1989, 103 Stat. 1755, as amended by Pub. L. 101–280, §6(b), May 4, 1990, 104 Stat. 160, provided that: “Notwithstanding any other provision of law, the head of each department, agency, or other entity of each branch of the Government may prescribe by rule appropriate conditions for the incidental use, for other than official business, of vehicles owned or leased by the Government. Such use with respect to vehicles owned or leased by, or the cost of which is reimbursed by, the House of Representatives or the Senate shall be only as prescribed by rule of the House of Representatives or the Senate, as applicable.”
@@ -178,7 +182,7 @@ Pub. L. 101–194, title VIII, §802(d), Nov. 30, 1989, 103 Stat. 1773, as amend
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1349 of this title; title 5 section 3374; title 15 section 278e; title 22 section 3622; title 40 section 491.
+This section is referred to in section 1349 of this title; title 5 sections 3374, 3704; title 15 section 278e; title 22 section 3622; title 40 section 611.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

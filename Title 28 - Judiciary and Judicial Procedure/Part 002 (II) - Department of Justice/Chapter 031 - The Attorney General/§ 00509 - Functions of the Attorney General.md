@@ -6,9 +6,9 @@ All functions of other officers of the Department of Justice and all functions o
 
 &emsp;(2) of the Federal Prison Industries, Inc.; and
 
-&emsp;(3) of the Board of Directors and officers of the Federal Prison Industries, Inc..<sup>1</sup>
+&emsp;(3) of the Board of Directors and officers of the Federal Prison Industries, Inc.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 95–251, §2(a)(6), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–473, title II, §228(a), Oct. 12, 1984, 98 Stat. 2030.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 612; amended Pub. L. 95–251, §2(a)(6), Mar. 27, 1978, 92 Stat. 183; Pub. L. 98–473, title II, §228(a), Oct. 12, 1984, 98 Stat. 2030; Pub. L. 107–273, div. A, title II, §204(d), div. B, title IV, §4003(b)(1), Nov. 2, 2002, 116 Stat. 1776, 1811.)
 
 Historical and Revision Notes
 
@@ -30,21 +30,41 @@ The section is restated to allow incorporation into this chapter.
 
 #### Prior Provisions
 
-A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expenses of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactment in section 549 of this title by section 4(c) of Pub. L. 89–554.
+A prior section 509, act June 25, 1948, ch. 646, 62 Stat. 910, related to expenses of United States attorneys, prior to repeal by Pub. L. 89–554, §8(a), and reenactmentin section 549 of this title by section 4(c) of Pub. L. 89–554.
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–473 inserted “and” at end of cl. (2), substituted a period for “; and” at end of cl. (3), and struck out cl. (4) which related to functions of Board of Parole.
+2002—Par. (3). Pub. L. 107–273, §§204(d), 4003(b)(1), amended par. (3) identically, striking out second period at end.
 
-<b>1978</b>—Cl. (1). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
+1984—Pub. L. 98–473 inserted “and” at end of par. (2), substituted a period for “; and” at end of par. (3), and struck out par. (4) which related to functions of Board of Parole.
+
+1978—Par. (1). Pub. L. 95–251 substituted “administrative law judges” for “hearing examiners”.
 
 #### Effective Date of 1984 Amendment
 
 Section 235(a)(1)(B)(ii)(IV) of Pub. L. 98–473 provided that the amendment made by Pub. L. 98–473 is effective Oct. 12, 1984.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Domestic Emergency Support Teams of the Department of Justice, including the functions of the Attorney General relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Emergency Preparedness Functions
 
 For assignment of certain emergency preparedness functions to the Attorney General, see Parts 1, 2, and 11 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of Title 42, The Public Health and Welfare.
+
+#### Authorization for Additional Assistant United States Attorneys for Project Safe Neighborhoods
+
+Pub. L. 107–273, div. A, title I, §104, Nov. 2, 2002, 116 Stat. 1766, provided that:
+
+“(a)
+
+In General.—The Attorney General shall establish a program for each United States Attorney to provide for coordination with State and local law enforcement officials in the identification and prosecution of violations of Federal firearms laws including school gun violence and juvenile gun offenses.
+
+“(b)
+
+Authorization for Hiring 94
+
+Additional Assistant United States Attorneys.—There are authorized to be appropriated to carry out this section $9,000,000 for fiscal year 2002 to hire an additional Assistant United States Attorney in each United States Attorney Office.”
 
 #### Development and Support of Cybersecurity Forensic Capabilities
 
@@ -214,7 +234,7 @@ Responsibilities.—The Special Counsel shall—
 
 &emsp;“(2) ensure that Federal law relating to civil enforcement, asset seizure and forfeiture, money laundering, and racketeering are used to the fullest extent authorized to recover the proceeds of unlawful activities from persons who have committed crimes in and against the financial services industry; and
 
-&emsp;“(3) ensure that adequate resources are made available for the investigation and prosecution of fraud and other criminal activity in and against the financial services industry.
+&emsp;“(3) ensure that adequate resources are made available for the investigation and prosecution of fraudand other criminal activity in and against the financial services industry.
 
 “(c)
 
@@ -270,6 +290,8 @@ Duties.—This senior interagency group shall enhance interagency coordination a
 
 Pub. L. 101–647, title XXXII, §3201, Nov. 29, 1990, 104 Stat. 4916, as amended by Pub. L. 105–277, div. A, §101(b) \[title I, §109(a)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–67, provided that: “Appropriations in this or any other Act hereafter for the Federal Bureau of Investigation, the Drug Enforcement Administration, or the Immigration and Naturalization Service are available, in an amount of not to exceed $25,000 each per fiscal year, to pay humanitarian expenses incurred by or for any employee thereof (or any member of the employee's immediate family) that results from or is incident to serious illness, serious injury, or death occurring to the employee while on official duty or business.”
 
+\[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.\]
+
 #### Investigation of Financial Institutions; Assistance of Government Personnel
 
 Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 103–322, title XXXII, §320923, Sept. 13, 1994, 108 Stat. 2131, provided that:
@@ -288,7 +310,9 @@ Pub. L. 101–509, title V, §528, Nov. 5, 1990, 104 Stat. 1427, as amended by P
 
 &emsp;“(2) shall expire on December 31, 2004.
 
-“(c) This section applies notwithstanding any other provision of law enacted by the 101st Congress after October 15, 1990, that by its terms would grant authority to, or otherwise affect the authority of, the Secret Service or other departments or agencies of the Federal Government to conduct or to assist the Department ofJustice in conducting investigations or prosecutions of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, and any other such provision shall not be effective in granting or otherwise affecting any such authority.”
+“(c) This section applies notwithstanding any other provision of law enacted by the 101st Congress after October 15, 1990, that by its terms would grant authority to, or otherwise affect the authority of, the Secret Service or other departments or agencies of the Federal Government to conduct or to assist the Department of Justice in conducting investigations or prosecutions of fraud or other criminal or unlawful activity in or against any federally insured financial institution or the Resolution Trust Corporation, and any other such provision shall not be effective in granting or otherwise affecting any such authority.”
+
+\[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Processing of Name Checks and Background Records for Noncriminal Employment, Licensing, and Humanitarian Purposes
 
@@ -301,6 +325,8 @@ Pub. L. 101–162, title II, Nov. 21, 1989, 103 Stat. 997, provided: “That for
 #### Uniforms and Allowances
 
 Pub. L. 101–162, title II, §203, Nov. 21, 1989, 103 Stat. 1002, provided that: “For fiscal year 1990 and hereafter, appropriations for ‘Salaries and expenses, General Administration’, ‘Salaries and expenses, United States Marshals Service’, ‘Salaries and expenses, Federal Bureau of Investigation’, ‘Salaries and expenses, Drug Enforcement Administration’, ‘Salaries and expenses, Immigration and Naturalization Service’, and ‘Salaries and expenses, Federal Prison System’, shall be available for uniforms and allowances therefor as authorized by law (5 U.S.C. 5901–5902).”
+
+\[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.\]
 
 #### Justice Department Organized Crime and Drug Enforcement Enhancement
 
@@ -530,7 +556,7 @@ Today, in my Message on Crime, I recommended strong new laws to control dangerou
 
 I now propose that a single Bureau of Narcotics and Dangerous Drugs be established in the Department of Justice to administer those laws and to bring to the American people the most efficient and effective Federal enforcement machinery we can devise.
 
-Under this Reorganization Plan the Attorney General will have full authority and responsibility for enforcingthe Federal laws relating to narcotics and dangerous drugs. The new Bureau of Narcotics and Dangerous Drugs, to be headed by a Director appointed by the Attorney General, will:
+Under this Reorganization Plan the Attorney General will have full authority and responsibility for enforcing the Federal laws relating to narcotics and dangerous drugs. The new Bureau of Narcotics and Dangerous Drugs, to be headed by a Director appointed by the Attorney General, will:
 
 &emsp;—consolidate the authority and preserve the experience and manpower of the Bureau of Narcotics and the Bureau of Drug Abuse Control.
 
@@ -604,7 +630,7 @@ The Attorney General may from time to time make such provisions as he shall deem
 
 #### Sec. 7. Coordination
 
-The Attorney General, acting through the Administrator and such other officials of the Department of Justice as he may designate, shall provide for the coordination of all drug law enforcement functions vested in the Attorney General so as to assure maximum cooperation between and among the Administration, the Federal Bureau of Investigation, and other units of the Department involved in the performance of these and related functions.
+The Attorney General, acting through the Administrator and such other officials of the Department ofJustice as he may designate, shall provide for the coordination of all drug law enforcement functions vested in the Attorney General so as to assure maximum cooperation between and among the Administration, the Federal Bureau of Investigation, and other units of the Department involved in the performance of these and related functions.
 
 #### Sec. 8. Incidental Transfers
 
@@ -738,7 +764,7 @@ The White House, March 28, 1973
 
 #### Ex. Ord. No. 12146. Management of Federal Legal Resources
 
-Ex. Ord. No. 12146, July 18, 1979, 44 F.R. 42657, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 12146, July 18, 1979, 44 F.R. 42657, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, §53, Feb. 28, 2003, 68 F.R. 10628, provided:
 
 By the authority vested in me as President by the Constitution and statutes of the United States of America, it is hereby ordered as follows:
 
@@ -746,7 +772,7 @@ By the authority vested in me as President by the Constitution and statutes of t
 
 Establishment of the Federal Legal Council
 
-1–101. There is hereby established the Federal Legal Council, which shall be composed of the Attorney General and the representatives of not more than 15 other agencies. The agency representative shall be designated by the head of the agency.
+1–101. There is hereby established the Federal Legal Council, which shall be composed of the Attorney General and the representatives of not more than 16 other agencies. The agency representative shall be designated by the head of the agency.
 
 1–102. The initial membership of the Council, in addition to the Attorney General, shall consist of representatives designated by the heads of the following agencies:
 
@@ -776,9 +802,11 @@ Establishment of the Federal Legal Council
 
 (m) The Department of the Treasury.
 
-(n) The United States Postal Service and
+(n) The Department of Homeland Security.
 
-(<i>o</i>) the Veterans Administration.
+(<i>o</i>) The United States Postal Service and
+
+(p) the Veterans Administration.
 
 1–103. The initial members of the Council shall serve for a term of two years. Thereafter, the agencies which compose the membership shall be designated annually by the Council and at least five positions on the Council, other than that held by the Attorney General, shall rotate annually.
 
@@ -852,9 +880,79 @@ Responsibilities of the Agencies
 
 1–702. To the extent permitted by law, each agency shall furnish the Federal Legal Council and the Attorney General with reports, information and assistance as requested to carry out the provisions of this Order.
 
+#### Ex. Ord. 13271. Establishment of the Corporate Fraud Task Force
+
+Ex. Ord. No. 13271, July 9, 2002, 67 F.R. 46091, as amended by Ex. Ord. No. 13286, §3, Feb. 28, 2003, 68 F.R. 10619, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to strengthen the efforts of the Department of Justice and Federal, State, and local agencies to investigate and prosecute significant financial crimes, recover the proceeds of such crimes, and ensure just and effective punishment of those who perpetrate financial crimes, it is hereby ordered as follows:
+
+Section 1. <i>Establishment</i>. The Attorney General shall immediately establish within the Department of Justice a Corporate Fraud Task Force (Task Force). Without regard to any other provision of this order, the Task Force shall be subject to the authority of the Attorney General under applicable law.
+
+Sec. 2. <i>Membership and Operation</i>. Subject to section 4 of this order, the Task Force shall have the following members:
+
+(a) the Deputy Attorney General, who shall serve as Chair;
+
+(b) the Assistant Attorney General (Criminal Division);
+
+(c) the Assistant Attorney General (Tax Division);
+
+(d) the Director of the Federal Bureau of Investigation;
+
+(e) the United States Attorney for the Southern District of New York;
+
+(f) the United States Attorney for the Eastern District of New York;
+
+(g) the United States Attorney for the Northern District of Illinois;
+
+(h) the United States Attorney for the Eastern District of Pennsylvania;
+
+(i) the United States Attorney for the Central District of California;
+
+(j) the United States Attorney for the Northern District of California;
+
+(k) the United States Attorney for the Southern District of Texas; and
+
+(<i>l</i>) such other officers or employees of the Department of Justice as the Attorney General may from time to time designate.
+
+The Deputy Attorney General shall convene and direct the work of the Task Force in fulfilling all its functions under this order. The Deputy Attorney General may permit, when he deems it appropriate, the designee of a member of the Task Force, including those designated under section 4 of this order, to participate in lieu of the member. The Deputy Attorney General shall convene the first meeting of the Task Force within 10 days of the date of this order and shall thereafter convene the Task Force at such times as he deems appropriate.
+
+Sec. 3. <i>Functions</i>. Consistent with the constitutional authority of the President, the authorities assigned to the Attorney General by law, and other applicable law, the Task Force shall:
+
+(a) provide direction for the investigation and prosecution of cases of securities fraud, accounting fraud, mail and wire fraud, money laundering, tax fraud based on such predicate offenses, and other related financial crimes committed by commercial entities and directors, officers, professional advisers, and employees thereof (hereinafter “financial crimes”), when such cases are determined by the Deputy Attorney General, for purposes of this order, to be significant;
+
+(b) provide recommendations to the Attorney General for allocation and reallocation of resources of the Department of Justice for investigation and prosecution of significant financial crimes, recovery of proceeds from such crimes to the extent permitted by law, and other matters determined by the Task Force from time to time to be of the highest priority in the investigation and prosecution of such crimes; and
+
+(c) make recommendations to the President, through the Attorney General, from time to time for:
+
+&emsp;(i) action to enhance cooperation among departments, agencies, and entities of the Federal Government in the investigation and prosecution of significant financial crimes;
+
+&emsp;(ii) action to enhance cooperation among Federal, State, and local authorities responsible for the investigation and prosecution of significant financial crimes;
+
+&emsp;(iii) changes in rules, regulations, or policy to improve the effective investigation and prosecution of significant financial crimes; and
+
+&emsp;(iv) recommendations to the Congress regarding such measures as the President may judge necessary and expedient relating to significant financial crimes, or the investigation or prosecution thereof.
+
+Sec. 4. <i>Additional Participation for Specified Functions</i>. In the Task Force's performance of the functions set forth in subsection 3(c) of this order, and to the extent permitted by law, the following officers of the executive branch shall be members of the Task Force in addition to such other officers of the Federal Government as the Deputy Attorney General deems appropriate:
+
+(a) the Secretary of the Treasury;
+
+(b) the Secretary of Homeland Security;
+
+(c) the Chairman of the Securities and Exchange Commission;
+
+(d) the Chairman of the Commodities Futures Trading Commission;
+
+(e) the Chairman of the Federal Energy Regulatory Commission; and
+
+(f) the Chairman of the Federal Communications Commission.
+
+Sec. 5. <i>Internal Management Purpose</i>. This order is intended to improve the internal management of the Federal Government. This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity or otherwise against the United States, its departments, agencies, entities, instrumentalities, officers, or employees, or any other person.
+
+Sec. 6. <i>Termination</i>. The Task Force shall terminate when directed by the President or, with the approval of the President, by the Attorney General.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Section Referred to in Other Sections
 
 This section is referred to in title 20 section 1082; title 42 section 12651d.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

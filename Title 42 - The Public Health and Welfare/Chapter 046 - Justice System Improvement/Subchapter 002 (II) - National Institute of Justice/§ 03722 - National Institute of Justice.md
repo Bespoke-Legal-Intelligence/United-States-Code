@@ -30,19 +30,23 @@ The Institute is authorized to—
 
 > &emsp;In carrying out the provisions of this subsection, the Institute may request the assistance of both public and private research agencies;
 
-&emsp;(3) evaluate the effectiveness of projects or programs carried out under this chapter;
+&emsp;(3) evaluate the effectiveness, including cost effectiveness where practical, of projects or programs carried out under this chapter;
 
 &emsp;(4) make recommendations for action which can be taken by Federal, State, and local governments and by private persons and organizations to improve and strengthen criminal and civil justice systems;
 
-&emsp;(5) provide research fellowships and clinical internships and carry out programs of training and special workshops for the presentation and dissemination of information resulting from research, demonstrations, and specialprojects including those authorized by this subchapter;
+&emsp;(5) provide research fellowships and clinical internships and carry out programs of training and special workshops for the presentation and dissemination of information resulting from research, demonstrations, and special projects including those authorized by this subchapter;
 
 &emsp;(6) collect and disseminate information obtained by the Institute or other Federal agencies, public agencies, institutions of higher education, and private organizations relating to the purposes of this subchapter;
 
 &emsp;(7) serve as a national and international clearinghouse for the exchange of information with respect to the purposes of this subchapter;
 
-&emsp;(8) after consultation with appropriate agencies and officials of States and units of local government, make recommendations for the designation of programs or projects which will be effective in improving the functioning of the criminal justice system, for funding as discretionary grants under subchapter V of this chapter; and
+&emsp;(8) after consultation with appropriate agencies and officials of States and units of local government, make recommendations for the designation of programs or projects which will be effective in improving the functioning of the criminal justice system, for funding as discretionary grants under subchapter V of this chapter;
 
-&emsp;(9) encourage, assist, and serve in a consulting capacity to Federal, State, and local justice system agencies in the development, maintenance, and coordination of criminal and civil justice programs and services.
+&emsp;(9) encourage, assist, and serve in a consulting capacity to Federal, State, and local justice system agencies in the development,maintenance, and coordination of criminal and civil justice programs and services; and
+
+&emsp;(10) research and development of tools and technologies relating to prevention, detection, investigation, and prosecution of crime; and
+
+&emsp;(11) support research, development, testing, training, and evaluation of tools and technology for Federal, State, and local law enforcement agencies.
 
 #### (d) Criminal and civil justice research
 
@@ -58,13 +62,17 @@ To insure that all criminal and civil justice research is carried out in a coord
 
 &emsp;(5) exercise the powers and functions set out in subchapter VIII of this chapter.
 
-(Pub. L. 90–351, title I, §202, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1172; amended Pub. L. 98–473, title II, §604(b), Oct. 12, 1984, 98 Stat. 2078; Pub. L. 103–322, title XXXIII, §330001(h)(1), Sept. 13, 1994, 108 Stat. 2139.)
+(Pub. L. 90–351, title I, §202, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1172; amended Pub. L. 98–473, title II, §604(b), Oct. 12, 1984, 98 Stat. 2078; Pub. L. 103–322, title XXXIII, §330001(h)(1), Sept. 13, 1994, 108 Stat. 2139; Pub. L. 107–296, title II, §237, Nov. 25, 2002, 116 Stat. 2162.)
 
 #### Prior Provisions
 
 A prior section 3722, Pub. L. 90–351, title I, §202, June 19, 1968, 82 Stat. 198; Pub. L. 93–83, §2, Aug. 6, 1973, 87 Stat. 198, provided for making of grants to State planning agencies, prior to the general amendment of this chapter by Pub. L. 96–157.
 
 #### Amendments
+
+2002—Subsec. (c)(3). Pub. L. 107–296, §237(1), inserted “, including cost effectiveness where practical,” after “evaluate the effectiveness”.
+
+Subsec. (c)(10), (11). Pub. L. 107–296, §237(2), added pars. (10) and (11).
 
 1994—Subsec. (c)(2)(E). Pub. L. 103–322 substituted “crime,” for “crime,,”.
 
@@ -84,9 +92,25 @@ Subsec. (c)(9). Pub. L. 98–473, §604(b)(2)(E), (F), redesignated par. (11) as
 
 Subsec. (c)(10), (11). Pub. L. 98–473, §604(b)(2)(F), redesignated pars. (10) and (11) as (8) and (9), respectively.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date of 1984 Amendment
 
 Amendment by Pub. L. 98–473 effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as an Effective Date note under section 3711 of this title.
+
+#### Report on Drug-testing Technologies
+
+Pub. L. 107–273, div. B, title II, §2201, Nov. 2, 2002, 116 Stat. 1793, provided that:
+
+“(a)
+
+Requirement.—The National Institute of Justice shall conduct a study of drug-testing technologies in order to identify and assess the efficacy, accuracy, and usefulness for purposes of the National effort to detect the use of illicit drugs of any drug-testing technologies (including the testing of hair) that may be used as alternatives or complements to urinalysis as a means of detecting the use of such drugs.
+
+“(b)
+
+Report.—Not later than 2 years after the date of enactment of this Act \[Nov. 2, 2002\], the Institute shall submit to Congress a report on the results of the study conducted under subsection (a).”
 
 #### Anti-Stalking Legislation Evaluation, Model Development, Dissemination and Report
 

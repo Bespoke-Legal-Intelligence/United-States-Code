@@ -44,7 +44,7 @@ This chapter, referred to in text, was in the original “this title” meaning 
 
 #### Effective Date
 
-Section 216 of title II of Pub. L. 98–620 provided that: “The provisions of this title \[enacting this chapter andamending section 620 of Title 28, Judiciary and Judicial Procedure\] shall take effect on October 1, 1985.”
+Section 216 of title II of Pub. L. 98–620 provided that: “The provisions of this title \[enacting this chapter and amending section 620 of Title 28, Judiciary and Judicial Procedure\] shall take effect on October 1, 1985.”
 
 #### Short Title
 

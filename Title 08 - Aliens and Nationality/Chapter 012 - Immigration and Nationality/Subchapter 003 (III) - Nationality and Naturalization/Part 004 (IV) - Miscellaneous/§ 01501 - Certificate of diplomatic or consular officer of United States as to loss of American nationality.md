@@ -16,6 +16,10 @@ Section was formerly classified to section 100 of this title.
 
 1994—Pub. L. 103–416 inserted at end “Approval by the Secretary of State of a certificate under this section shall constitute a final administrative determination of loss of United States nationality under this chapter, subject to such procedures for administrative appeal as the Secretary may prescribe by regulation, and also shall constitute a denial of a right or privilege of United States nationality for purposes of section 1503 of this title.”
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in title 26 section 6039G.

@@ -6,7 +6,7 @@
 
 (2) Hearings held during proceedings for the assessment of civil penalties authorized by paragraph (1) of this subsection shall be conducted in accordance with section 554 of title 5. The Secretary may issue subpenas for the attendance and testimony of witnesses and the production of relevant papers, books, and documents, and administer oaths. Witnesses summoned shall be paid the same fees and mileage that are paid to witnesses in the courts of the United States. In case of contumacy or refusal to obey a subpena served upon any person pursuant to this paragraph, the district court of the United States for any district in which such person is found or resides or transacts business, upon application by the United States and after notice to such person, shall have jurisdiction to issue an order requiring such person to appear and give testimony before the Secretary or to appear and produce documents before the Secretary, or both, and any failure to obey such order of the court may be punished by such court as a contempt thereof.
 
-(3) Notwithstanding any other provision of this chapter, no civil penalty shall be imposed if it can be shown by a preponderance of the evidence that the defendant committed an actbased on a good faith belief that he was acting to protect himself or herself, a member of his or her family, or any other individual from bodily harm, from any endangered or threatened species.
+(3) Notwithstanding any other provision of this chapter, no civil penalty shall be imposed if it can be shown by a preponderance of the evidence that the defendant committed an act based on a good faith belief that he was acting to protect himself or herself, a member of his or her family, or any other individual from bodily harm, from any endangered or threatened species.
 
 #### (b) Criminal violations
 
@@ -18,7 +18,7 @@
 
 #### (c) District court jurisdiction
 
-The several district courts of the United States, including the courts enumerated in section 460 of title 28, shall have jurisdiction over any actions arising under this chapter. For the purpose of this chapter, American Samoa shall be included within the judicial district of the District Court of the United States for the District of Hawaii.
+The several district courts of the United States, including the courts enumerated in section 460 of title 28, shall have jurisdiction over any actions arising under this chapter. For the purpose of this chapter, American Samoa shallbe included within the judicial district of the District Court of the United States for the District of Hawaii.
 
 #### (d) Rewards and incidental expenses
 
@@ -30,7 +30,7 @@ The Secretary or the Secretary of the Treasury shall pay, from sums received as 
 
 (2) The judges of the district courts of the United States and the United States magistrate judges may, within their respective jurisdictions, upon proper oath or affirmation showing probable cause, issue such warrants or other process as may be required for enforcement of this chapter and any regulation issued thereunder.
 
-(3) Any person authorized by the Secretary, the Secretary of the Treasury, or the Secretary of the Department in which the Coast Guard is operating, to enforce this chapter may detain for inspection and inspect any package, crate, or other container, including its contents, and all accompanying documents, upon importation or exportation. Such person may make arrests without a warrant for any violation of this chapter if he has reasonable grounds to believe that the person to be arrested is committing the violation in his presence or view, and may execute and serve any arrest warrant, search warrant, or other warrant or civil or criminal process issued by any officer or court of competent jurisdiction for enforcement of this chapter. Such person so authorized may search and seize, with or without a warrant, as authorized by law. Any fish, wildlife, property, or item so seized shall be held by any person authorized by the Secretary, the Secretary of the Treasury, or the Secretary of the Department in which the Coast Guard is operating pending disposition of civil or criminal proceedings, or the institution of an action in rem for forfeiture of such fish, wildlife, property, or item pursuant to paragraph (4) of this subsection; except that the Secretary may, in lieu of holding such fish, wildlife, property, or item, permit the owner or consignee to post abond or other surety satisfactory to the Secretary, but upon forfeiture of any such property to the United States, or the abandonment or waiver of any claim to any such property, it shall be disposed of (other than by sale to the general public) by the Secretary in such a manner, consistent with the purposes of this chapter, as the Secretary shall by regulation prescribe.
+(3) Any person authorized by the Secretary, the Secretary of the Treasury, or the Secretary of the Department in which the Coast Guard is operating, to enforce this chapter may detain for inspection and inspect any package, crate, or other container, including its contents, and all accompanying documents, upon importation or exportation. Such person may make arrests without a warrant for any violation of this chapter if he has reasonable grounds to believe that the person to be arrested is committing the violation in his presence or view, and may execute and serve any arrest warrant, search warrant, or other warrant or civil or criminal process issued by any officer or court of competent jurisdiction for enforcement of this chapter. Such person so authorized may search and seize, with or without a warrant, as authorized by law. Any fish, wildlife, property, or item so seized shall be held by any person authorized by the Secretary, the Secretary of the Treasury, or the Secretary of the Department in which the Coast Guard is operating pending disposition of civil or criminal proceedings, or the institution of an action in rem for forfeiture of such fish, wildlife, property, or item pursuant to paragraph (4) of this subsection; except that the Secretary may, in lieu of holding such fish, wildlife, property, or item, permit the owner or consignee to post a bond or other surety satisfactory to the Secretary, but upon forfeiture of any such property to the United States, or the abandonment or waiver of any claim to any such property, it shall be disposed of (other than by sale to the general public) by the Secretary in such a manner, consistent with the purposes of this chapter, as the Secretary shall by regulation prescribe.
 
 (4)(A) All fish or wildlife or plants taken, possessed, sold, purchased, offered for sale or purchase, transported, delivered, received, carried, shipped, exported, or imported contrary to the provisions of this chapter, any regulation made pursuant thereto, or any permit or certificate issued hereunder shall be subject to forfeiture to the United States.
 
@@ -42,7 +42,7 @@ The Secretary or the Secretary of the Treasury shall pay, from sums received as 
 
 #### (f) Regulations
 
-The Secretary, the Secretary of the Treasury, and the Secretary of the Department in which the Coast Guard is operating, are authorized to promulgate such regulations as may be appropriate to enforce this chapter, and charge reasonable fees for expenses to the Government connected with permits or certificates authorized by this chapter including processing applications and reasonable inspections, and with the transfer, board, handling, or storage of fish or wildlife or plants and evidentiary items seized and forfeited under this chapter. All such fees collected pursuant to this subsection shall be deposited in the Treasury to the credit of the appropriation which is current and chargeable for the cost of furnishing the services. Appropriated funds may be expended pending reimbursement from parties in interest.
+The Secretary, the Secretary of the Treasury, and the Secretary of the Department in which the Coast Guard is operating, are authorized to promulgate such regulations as may be appropriate to enforce this chapter, and charge reasonable fees for expenses to the Government connected with permits or certificates authorized by this chapter including processing applications and reasonable inspections, and with thetransfer, board, handling, or storage of fish or wildlife or plants and evidentiary items seized and forfeited under this chapter. All such fees collected pursuant to this subsection shall be deposited in the Treasury to the credit of the appropriation which is current and chargeable for the cost of furnishing the services. Appropriated funds may be expended pending reimbursement from parties in interest.
 
 #### (g) Citizen suits
 
@@ -82,9 +82,9 @@ The Secretary, the Secretary of the Treasury, and the Secretary of the Departmen
 
 #### (h) Coordination with other laws
 
-The Secretary of Agriculture and the Secretary shall provide for appropriate coordination of the administration of this chapter with the administration of the animal quarantine laws (21 U.S.C. 101–105, 111–135b, and 612–614) and section 306 of the Tariff Act of 1930 (19 U.S.C. 1306). Nothing in this chapter or any amendment made by this chapter shall be construed as superseding or limiting in any manner the functions of the Secretary of Agriculture under any other law relating to prohibited or restricted importations or possession of animals and other articles and no proceeding or determination under this chapter shall preclude any proceeding or be considered determinative of any issue of fact or law in any proceeding under any Act administered by the Secretary of Agriculture. Nothing in this chapter shall be construed as superseding or limiting in any manner the functions and responsibilities of the Secretary of the Treasury under the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\], including, without limitation, section 527 of that Act (19 U.S.C. 1527), relating to the importation of wildlife taken, killed, possessed, or exported to the United States in violation of the laws or regulations of a foreign country.
+The Secretary of Agriculture and the Secretary shall provide for appropriate coordination of the administration of this chapter with the administration of the animal quarantine laws (as defined in section 136a(f) of title 21) and section 306 <sup>1</sup> of the Tariff Act of 1930 (19 U.S.C. 1306). Nothing in this chapter or any amendment made by this chapter shall be construed as superseding or limiting in any manner the functions of the Secretary of Agriculture under any other law relating to prohibited or restricted importations or possession of animals and other articles and no proceeding or determination under this chapter shall preclude any proceeding or be considered determinative of any issue of fact or law in any proceeding under any Act administered by the Secretary of Agriculture. Nothing in this chapter shall be construed as superseding or limiting in any manner the functions and responsibilities of the Secretary of the Treasury under the Tariff Act of 1930 \[19 U.S.C. 1202 et seq.\], including, without limitation, section 527 of that Act (19 U.S.C. 1527), relating to the importation of wildlife taken, killed, possessed, or exported to the United States in violation of the laws or regulations of a foreign country.
 
-(Pub. L. 93–205, §11, Dec. 28, 1973, 87 Stat. 897; Pub. L. 94–359, §4, July 12, 1976, 90 Stat. 913; Pub. L. 95–632, §§6–8, Nov. 10, 1978, 92 Stat. 3761, 3762; Pub. L. 97–79, §9(e), Nov. 16, 1981, 95 Stat. 1079; Pub. L. 97–304, §§7, 9(c), Oct. 13, 1982, 96 Stat. 1425, 1427; Pub. L. 98–327, §4, June 25, 1984, 98 Stat. 271; Pub. L. 100–478, title I, §1007, Oct. 7, 1988, 102 Stat. 2309; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(Pub. L. 93–205, §11, Dec. 28, 1973, 87 Stat. 897; Pub. L. 94–359, §4, July 12, 1976, 90 Stat. 913; Pub. L. 95–632, §§6–8, Nov. 10, 1978, 92 Stat. 3761, 3762; Pub. L. 97–79, §9(e), Nov. 16, 1981, 95 Stat. 1079; Pub. L. 97–304, §§7, 9(c), Oct. 13, 1982, 96 Stat. 1425, 1427; Pub. L. 98–327, §4, June 25, 1984, 98 Stat. 271; Pub. L. 100–478, title I, §1007, Oct. 7, 1988, 102 Stat. 2309; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, §10418(b)(3), May 13, 2002, 116 Stat. 508.)
 
 #### References in Text
 
@@ -94,9 +94,11 @@ The customs laws, referred to in subsec. (e)(5), are classified generally to Tit
 
 The amendments made by this chapter, referred to in subsec. (h), refer to the amendments made by Pub. L. 93–205, which amended sections 460k–1, 460<i>l</i>–9, 668dd, 715i, 715s, 1362, 1371, 1372, and 1402 of this title and section 136 of Title 7, Agriculture, and repealed sections 668aa to 668cc–6 of this title.
 
-The Tariff Act of 1930, referred to in subsec. (h), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
+The Tariff Act of 1930, referred to in subsec. (h), is act June 17, 1930, ch. 497, 46 Stat. 590, as amended, which is classified generally to chapter 4 (§1202 et seq.) of Title 19, Customs Duties. Section 306 of the Act was repealed by Pub. L. 107–171, title X, §10418(a)(5), May 13, 2002, 116 Stat. 507. For complete classification of this Act to the Code, see section 1654 of Title 19 and Tables.
 
 #### Amendments
+
+2002—Subsec. (h). Pub. L. 107–171 substituted “animal quarantine laws (as defined in section 136a(f) of title 21)” for “animal quarantine laws (21 U.S.C. 101–105, 111–135b, and 612–614)”.
 
 1988—Subsec. (a)(1). Pub. L. 100–478, §1007(a), substituted “$25,000” for “$10,000” and “$12,000” for “$5,000”.
 
@@ -130,7 +132,7 @@ Subsec. (b)(2). Pub. L. 95–632, §6(4), inserted “a person to import or expo
 
 Subsec. (b)(3). Pub. L. 95–632, §8, added par. (3).
 
-1976—Subsec. (e)(3). Pub. L. 94–359 inserted “make arrests without a warrant for any violation of this chapter if he has reasonable grounds to believe that the person to be arrested is committing the violation in his presence or view, and may” after “Such person may” and “, but upon forfeiture of any such property to the United States, or the abandonment or waiver of anyclaim to any such property, it shall be disposed of (other than by sale to the general public) by the Secretary in such a manner, consistent with the purposes of this chapter, as the Secretary shall by regulation prescribe,” after “other surety satisfactory to the Secretary”.
+1976—Subsec. (e)(3). Pub. L. 94–359 inserted “make arrests without a warrant for any violation of this chapter if he has reasonable grounds to believe that the person to be arrested is committing the violation in his presence or view, and may” after “Such person may” and “, but upon forfeiture of any such property to the United States, or the abandonment or waiver of any claim to any such property, it shall be disposed of (other than by sale to the general public) by the Secretary in such a manner, consistent with the purposes of this chapter, as the Secretary shall by regulation prescribe,” after “other surety satisfactory to the Secretary”.
 
 #### Change of Name
 
@@ -140,7 +142,15 @@ Subsec. (b)(3). Pub. L. 95–632, §8, added par. (3).
 
 Section 9(f) of Pub. L. 97–79 provided that: “The amendment specified in subsection 9(e) of this Act \[amending this section\] shall take effect beginning in fiscal year 1983.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this section to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 742<i>l</i>, 1536, 1539, 4224, 4912, 5305a of this title; title 28 section 524; title 42 section 10601.
+This section is referred to in sections 742<i>l</i>, 1536, 1539, 4224, 4912, 5305a of this title; title 6 section 231; title 28 section 524; title 42 section 10601.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §61k. Appointment and compensation of employees by President pro tempore of Senate
 
-Effective October 1, 1979, the President pro tempore is authorized to appoint and fix the compensation of such employees as he deems appropriate: <i>Provided</i>, That the gross compensation paid to such employees shall not exceed $123,000 each fiscal year.
+Effective October 1, 1979, the President pro tempore is authorized to appoint and fix thecompensation of such employees as he deems appropriate: <i>Provided</i>, That the gross compensation paid to such employees shall not exceed $123,000 each fiscal year.
 
 (Pub. L. 96–38, title I, §101, July 25, 1979, 93 Stat. 111.)
 

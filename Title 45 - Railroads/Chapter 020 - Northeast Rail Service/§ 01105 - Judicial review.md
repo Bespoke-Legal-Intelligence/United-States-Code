@@ -30,7 +30,7 @@ The Conrail Privatization Act, referred to in subsecs. (a) and (c), is subtitle 
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–317, §605(b)(3), added heading and text of subsec. (b) and struck out former subsec. (b) which read as follows: “A judgment of the special court in any action referred to in this section shall be reviewable only upon petition for a writ of certiorari to the Supreme Court of the United States. Such review is exclusive and any such petition shall be filed in the Supreme Court not more than 20 days after entry of such order or judgment.”
+1996—Subsec. (b). Pub. L. 104–317, §605(b)(3), added heading and text of subsec. (b) and struck out former subsec. (b) which read as follows: “A judgment of thespecial court in any action referred to in this section shall be reviewable only upon petition for a writ of certiorari to the Supreme Court of the United States. Such review is exclusive and any such petition shall be filed in the Supreme Court not more than 20 days after entry of such order or judgment.”
 
 Subsec. (d). Pub. L. 104–317, §605(c)(4), struck out subsec. (d) which read as follows: “If the volume of civil actions under subsection (a) of this section so requires, the United States Railway Association shall apply to the judicial panel on multi-district litigation authorized by section 1407 of title 28 for the assignment of additional judges to the special court. Within 30 days after the date of such application, the panel shall assign to the special court such additional judges as may be necessary to exercise the jurisdiction described in subsection (a) of this section.”
 

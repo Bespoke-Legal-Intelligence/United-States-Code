@@ -6,7 +6,7 @@ Final judgments or decrees rendered by the Supreme Court of the Commonwealth of 
 
 #### Amendments
 
-<b>1988</b>—Pub. L. 100–352 struck out “appeal;” before “certiorari” in section catchline and amended text generally. Prior to amendment, text read as follows: “Final judgments or decrees rendered by the Supreme Court of the Commonwealth of Puerto Rico may be reviewed by the Supreme Court as follows:
+1988—Pub. L. 100–352 struck out “appeal;” before “certiorari” in section catchline and amended text generally. Prior to amendment, text read as follows: “Final judgments or decrees rendered by the Supreme Court of the Commonwealth of Puerto Rico may be reviewed by the Supreme Court as follows:
 
 “(1) By appeal, where is drawn in question the validity of a treaty or statute of the United States and the decision is against its validity.
 

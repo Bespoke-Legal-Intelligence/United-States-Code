@@ -18,5 +18,5 @@ This subchapter, referred to in text, was in the original “this part”, meani
 
 #### Short Title
 
-Section 641 of Pub. L. 98–181 provided that: “This part \[part C (§§641–647) of title VI of Pub. L. 98–181, enacting this subchapter and section 1671g of Title 19, Customs Duties, and amended sections 1671a and 1671b of Title 19\] may be referred to as the ‘Trade and Development Enhancement Act of 1983’.”
+Section 641 of Pub. L. 98–181 provided that: “This part \[part C (§§641–647) of title VI of Pub. L. 98–181, enactingthis subchapter and section 1671g of Title 19, Customs Duties, and amended sections 1671a and 1671b of Title 19\] may be referred to as the ‘Trade and Development Enhancement Act of 1983’.”
 

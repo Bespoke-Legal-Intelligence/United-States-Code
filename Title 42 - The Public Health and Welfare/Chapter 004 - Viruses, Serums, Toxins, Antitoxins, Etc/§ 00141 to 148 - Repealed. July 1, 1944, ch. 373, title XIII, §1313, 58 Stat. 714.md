@@ -8,7 +8,7 @@ Section 143, act July 1, 1902, ch. 1378, §3, 32 Stat. 729, provided for inspect
 
 Section 144, act July 1, 1902, ch. 1378, §4, 32 Stat. 729, provided for inspection of foreign manufacturing establishments. See section 262 of this title.
 
-Section 145, acts July 1, 1902, ch. 1370, §1, 32 Stat. 712; July 1, 1902, ch. 1378, §4, 32 Stat. 729; Aug. 14, 1912, ch. 288, 37 Stat. 309, provided for issuing of licenses to manufacturing establishments. See section 262 of this title.
+Section 145, acts July 1, 1902, ch. 1370, §1, 32 Stat. 712; July 1, 1902, ch. 1378, §4, 32 Stat. 729; Aug. 14, 1912, ch.288, 37 Stat. 309, provided for issuing of licenses to manufacturing establishments. See section 262 of this title.
 
 Section 146, act July 1, 1902, ch. 1378, §5, 32 Stat. 729, provided for enforcement of regulations. See section 262 of this title.
 

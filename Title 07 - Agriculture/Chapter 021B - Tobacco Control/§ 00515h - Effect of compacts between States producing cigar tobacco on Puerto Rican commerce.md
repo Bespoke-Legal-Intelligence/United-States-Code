@@ -20,7 +20,7 @@ The marketing quota established for Puerto Rico and the marketing quotas establi
 
 #### (e) Issuance of marketing certificates
 
-The Secretary shall, under such terms and conditions and in accordance with such methods as may be established in regulations prescribedby him, issue, to buyers or handlers of tobacco from any farm in Puerto Rico, marketing certificates for an amount of tobacco equal to the marketing quota established for such farm, and, for any tobacco marketed in excess of such quota for such farm, sell, to the buyer or handlers of such excess tobacco, marketing certificates for a charge equal to one-third of the current market value of such tobacco, and the Secretary may require the buyer or handler of such excess tobacco to deduct the charge for marketing certificates from the price or proceeds of or advances on such tobacco.
+The Secretary shall, under such terms and conditions and in accordance with such methods as may be established in regulations prescribed by him, issue, to buyers or handlers of tobacco from any farm in Puerto Rico, marketing certificates for an amount of tobacco equal to the marketing quota established for such farm, and, for any tobacco marketed in excess of such quota for such farm, sell, to the buyer or handlers of such excess tobacco, marketing certificates for a charge equal to one-third of the current market value of such tobacco, and the Secretary may require the buyer or handler of such excess tobacco to deduct the charge for marketing certificates from the price or proceeds of or advances on such tobacco.
 
 #### (f) Payments for production deficits due to adverse conditions
 

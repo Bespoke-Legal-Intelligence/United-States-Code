@@ -2,7 +2,7 @@ Part B—Advisory Council on Historic Preservation
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 460hhh–4, 470f of this title; title 23 section 133.
+This part is referred to in sections 460hhh–4, 470f of this title; title 23 section 133; title 40 section 3303.
 
 
 ---

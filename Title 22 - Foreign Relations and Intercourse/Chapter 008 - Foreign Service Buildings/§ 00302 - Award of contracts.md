@@ -12,7 +12,7 @@ Eligibility for award of contracts under this chapter or of any other contract b
 
 (3) A determination of adequacy of competition for purposes of subsection (a) of this section shall be made after advance publication by the Secretary of State of the proposed project, and receipt from not less than two prospective responsible bidders of intent to submit a bid or proposal. If competition is not determined to be adequate, contracts may be awarded without regard to subsection (a) of this section and this subsection.
 
-(4) Bidder qualification under subsection (a) of this section shall be determined on the basis of nationality of ownership, the burden of which shall be on the prospective bidder. Qualification under subsection (a)(1) of this section shall require evidence of (A) performance of similar construction work in the United States, and (B) either (i) ownership in excess of fifty percent by United States citizens or permanent residents, or (ii) incorporation in the United States for more than three years and employment of United States citizens or permanent residents in more than half of the corporation's permanent full-time professional and managerial positions in the United States.
+(4) Bidder qualification under subsection (a) of this section shall be determined on the basis of nationality of ownership, the burden of which shall be on the prospective bidder. Qualification under subsection (a)(1) of this section shall require evidence of (A) performance of similar construction work in the United States or at aUnited States diplomatic or consular establishment abroad, and (B) either (i) ownership in excess of fifty percent by United States citizens or permanent residents, or (ii) incorporation in the United States for more than three years and employment of United States citizens or permanent residents in more than half of the corporation's permanent full-time professional and managerial positions in the United States.
 
 (5) Qualification under this section shall be established on the basis of determinations at the time bids are requested.
 
@@ -28,11 +28,15 @@ Determinations under this section shall be committed to the discretion of the Se
 
 This section shall cease to be effective when the Secretary of State determines that there are internationally-agree-upon <sup>2</sup> rules in effect on bidding for construction contracts.
 
-(May 7, 1926, ch. 250, §11, as added Pub. L. 98–164, title I, §136, Nov. 22, 1983, 97 Stat. 1029.)
+(May 7, 1926, ch. 250, §11, as added Pub. L. 98–164, title I, §136, Nov. 22, 1983, 97 Stat. 1029; amended Pub. L. 107–228, div. A, title II, §206(a), Sept. 30, 2002, 116 Stat. 1364.)
 
 #### References in Text
 
 Title II of the State Department Basic Authorities Act of 1956, referred to in subsec. (c), is title II of act Aug. 1, 1956, ch. 841, as added Aug. 24, 1982, Pub. L. 97–241, title II, §202(b), 96 Stat. 283, known as the Foreign Missions Act, which is classified principally to chapter 53 (§4301 et seq.) of this title. Section 202(a)(4) of title II was redesignated section 202(a)(3), and former section 202(a)(5) was redesignated section 202(a)(4), by Pub. L. 103–236, title I, §162(<i>o</i>)(1), Apr. 30, 1994, 108 Stat. 409. For complete classification of title II to the Code, see Short Title note set out under section 4301 of this title and Tables.
+
+#### Amendments
+
+2002—Subsec. (b)(4)(A). Pub. L. 107–228 inserted “or at a United States diplomatic or consular establishment abroad” after “United States”.
 
 #### Section Referred to in Other Sections
 

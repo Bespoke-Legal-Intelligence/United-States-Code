@@ -12,7 +12,7 @@
 
 &emsp;(4) a written decision and the specific reasons therefor at the earliest practicable date.
 
-(c) Copies of the notice of proposed action, the answer of the employee if written, a summary thereof if made orally, the notice of decision andreasons therefor, and any order effecting <sup>1</sup> the suspension, together with any supporting material, shall be maintained by the agency and shall be furnished to the Merit Systems Protection Board upon its request and to the employee affected upon the employee's request.
+(c) Copies of the notice of proposed action, the answer of the employee if written, a summary thereof if made orally, the notice of decision and reasons therefor, and any order effecting <sup>1</sup> the suspension, together with any supporting material, shall be maintained by the agency and shall be furnished to the Merit Systems Protection Board upon its request and to the employee affected upon the employee's request.
 
 (Added Pub. L. 95–454, title II, §204(a), Oct. 13, 1978, 92 Stat. 1135.)
 

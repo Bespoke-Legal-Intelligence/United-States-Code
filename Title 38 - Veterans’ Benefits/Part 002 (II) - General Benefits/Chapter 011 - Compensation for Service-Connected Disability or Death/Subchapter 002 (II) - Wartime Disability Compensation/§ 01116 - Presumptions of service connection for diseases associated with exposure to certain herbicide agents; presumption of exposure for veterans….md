@@ -36,7 +36,7 @@
 
 (c)(1)(A) Not later than 60 days after the date on which the Secretary receives a report from the National Academy of Sciences under section 3 of the Agent Orange Act of 1991, the Secretary shall determine whether a presumption of service connection is warranted for each disease covered by the report. If the Secretary determines that such a presumption is warranted, the Secretary, not later than 60 days after making the determination, shall issue proposed regulations setting forth the Secretary's determination.
 
-(B) If the Secretary determines that a presumption of service connection is not warranted, the Secretary, not later than 60 days after making the determination, shall publish in the Federal Register a notice of that determination. The notice shall include an explanation of the scientific basis for that determination. If the disease already is included in regulations providing for a presumption of service connection, the Secretary, not later than 60 days after publication of the notice of a determination that the presumption is not warranted, shall issue proposed regulations removing the presumption for the disease.
+(B) If the Secretary determines that a presumption of service connection is not warranted, the Secretary, not later than 60 days after making the determination, shall publish in the Federal Register a notice of that determination. The notice shall include an explanation ofthe scientific basis for that determination. If the disease already is included in regulations providing for a presumption of service connection, the Secretary, not later than 60 days after publication of the notice of a determination that the presumption is not warranted, shall issue proposed regulations removing the presumption for the disease.
 
 (2) Not later than 90 days after the date on which the Secretary issues any proposed regulations under this subsection, the Secretary shall issue final regulations. Such regulations shall be effective on the date of issuance.
 
@@ -48,7 +48,7 @@
 
 (e) Subsections (b) through (d) shall cease to be effective on September 30, 2015.
 
-(f) For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran who, during active military,naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
+(f) For purposes of establishing service connection for a disability or death resulting from exposure to a herbicide agent, including a presumption of service-connection under this section, a veteran who, during active military, naval, or air service, served in the Republic of Vietnam during the period beginning on January 9, 1962, and ending on May 7, 1975, shall be presumed to have been exposed during such service to an herbicide agent containing dioxin or 2,4-dichlorophenoxyacetic acid, and may be presumed to have been exposed during such service to any other chemical compound in an herbicide agent, unless there is affirmative evidence to establish that the veteran was not exposed to any such agent during that service.
 
 (Added Pub. L. 102–4, §2(a)(1), Feb. 6, 1991, 105 Stat. 11, §316; renumbered §1116 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–446, title V, §505, title XII, §1201(e)(6), Nov. 2, 1994, 108 Stat. 4664, 4685; Pub. L. 104–275, title V, §505(b), Oct. 9, 1996, 110 Stat. 3342; Pub. L. 106–419, title IV, §404(a)(1), Nov. 1, 2000, 114 Stat. 1864; Pub. L. 107–103, title II, §201(a)(1)(A), (b)–(c)(2)(A), (d)(1), Dec. 27, 2001, 115 Stat. 987, 988.)
 
@@ -118,7 +118,7 @@ Pub. L. 107–103, title II, §201(a)(2)–(4), Dec. 27, 2001, 115 Stat. 987, pr
 
 #### Agreement With National Academy of Sciences
 
-Section 3 of Pub. L. 102–4, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86,title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988, provided that:
+Section 3 of Pub. L. 102–4, as amended by Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §503(a), (b)(1), Aug. 14, 1991, 105 Stat. 424, 425; Pub. L. 107–103, title II, §201(d)(2), Dec. 27, 2001, 115 Stat. 988, provided that:
 
 “(a)
 
@@ -176,7 +176,7 @@ Alternative Contract Scientific Organization.—If the Secretary is unable withi
 
 “(k)
 
-Liability Insurance.—(1) The Secretary may provide liability insurance for the National Academy of Sciences or any other contract scientific organization to cover any claim for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission of any person referred to in paragraph (2) in carrying out any of the following responsibilities of the Academy or such other organization, as the case may be, under an agreement entered into with the Secretary pursuant to this section:
+Liability Insurance.—(1) The Secretary may provide liability insurance for the National Academy ofSciences or any other contract scientific organization to cover any claim for money damages for injury, loss of property, personal injury, or death caused by any negligent or wrongful act or omission of any person referred to in paragraph (2) in carrying out any of the following responsibilities of the Academy or such other organization, as the case may be, under an agreement entered into with the Secretary pursuant to this section:
 
 &emsp;“(A) The review, summarization, and assessment of scientific evidence referred to in subsection (c).
 
@@ -196,7 +196,7 @@ Liability Insurance.—(1) The Secretary may provide liability insurance for the
 
 “(3) The cost of the liability insurance referred to in paragraph (1) shall be made from funds available to carry out this section.
 
-“(4) The Secretary shall reimburse the Academy or person referred to in paragraph (2) for the cost of any judgments (if any) and reasonable attorney's fees and incidental expenses, not compensated by the liability insurance referred to in paragraph (1) or by any other insurance maintained by the Academy, incurred by theAcademy or person referred to in paragraph (2), in connection with any legal or administrative proceedings arising out of or in connection with the work to be performed under the agreement referred to in paragraph (1). Reimbursement of the cost of such judgments, attorney's fees, and incidental expenses shall be paid from funds appropriated for such reimbursement or appropriated to carry out this section, but in no event shall any such reimbursement be made from funds authorized pursuant to section 1304 of title 31, United States Code.”
+“(4) The Secretary shall reimburse the Academy or person referred to in paragraph (2) for the cost of any judgments (if any) and reasonable attorney's fees and incidental expenses, not compensated by the liability insurance referred to in paragraph (1) or by any other insurance maintained by the Academy, incurred by the Academy or person referred to in paragraph (2), in connection with any legal or administrative proceedings arising out of or in connection with the work to be performed under the agreement referred to in paragraph (1). Reimbursement of the cost of such judgments, attorney's fees, and incidental expenses shall be paid from funds appropriated for such reimbursement or appropriated to carry out this section, but in no event shall any such reimbursement be made from funds authorized pursuant to section 1304 of title 31, United States Code.”
 
 #### Results of Examinations and Treatment of Veterans for Disabilities Related to Exposure to Certain Herbicides or to Service in Vietnam
 
@@ -266,7 +266,7 @@ Funding.—The authority of the Secretary to carry out this section is effective
 
 “(f)
 
-Effective Date.—(1) This section shall take effect at the end of the 90-day period beginning on the date on which the first report of the National Academy of Sciences under section 3(g) \[set out above\] is received by the Secretary, except that this section shall not take effect if the Secretary, after receiving that report and before the end of that 90-day period—
+Effective Date.—(1) This section shall take effect at the end of the 90-day period beginning on thedate on which the first report of the National Academy of Sciences under section 3(g) \[set out above\] is received by the Secretary, except that this section shall not take effect if the Secretary, after receiving that report and before the end of that 90-day period—
 
 &emsp;“(A) determines that it is not feasible or cost-effective to carry out this section or that carrying out this section would not make a material contribution to the body of scientific knowledge concerning the health effects in humans of herbicide exposure; and
 
@@ -364,7 +364,7 @@ Pub. L. 99–272, title XIX, §19031, Apr. 7, 1986, 100 Stat. 385, provided that
 
 “(a)
 
-Requirement for Epidemiological Study.—(1)(A) Except as provided in paragraph (2), the Administrator of Veterans’ Affairs shall provide for the conduct of an epidemiological study of any long-term adverse health effects (particularly gender-specific health effects) which have been experienced by women who served in the Armed Forces of the United States in the Republic of Vietnam during the Vietnam era and which may have resulted from traumatic experiences during such service, from exposure during such service to phenoxy herbicides (including the herbicide known as Agent Orange), to other herbicides, chemicals, or medications that may have deleterious health effects, or to environmental hazards, or from any other experience or exposure during such service.
+Requirement for Epidemiological Study.—(1)(A) Except as provided in paragraph (2), the Administrator of Veterans’ Affairs shall provide for the conduct of an epidemiological study of any long-term adverse health effects (particularly gender-specific health effects) which have been experienced by women whoserved in the Armed Forces of the United States in the Republic of Vietnam during the Vietnam era and which may have resulted from traumatic experiences during such service, from exposure during such service to phenoxy herbicides (including the herbicide known as Agent Orange), to other herbicides, chemicals, or medications that may have deleterious health effects, or to environmental hazards, or from any other experience or exposure during such service.
 
 “(B) The Administrator may include in the study conducted under this paragraph an evaluation of the means of detecting and treating long-term adverse health effects (particularly gender-specific health effects) found through the study.
 
@@ -382,7 +382,7 @@ Requirement for Epidemiological Study.—(1)(A) Except as provided in paragraph 
 
 “(b)
 
-Approval of Protocol.—(1) The study required by subsection (a) shall be conducted in accordance witha protocol approved by the Director of the Office of Technology Assessment.
+Approval of Protocol.—(1) The study required by subsection (a) shall be conducted in accordance with a protocol approved by the Director of the Office of Technology Assessment.
 
 “(2) Not later than July 1, 1986, the Administrator shall publish a request for proposals for the design of the protocol to be used in conducting the study under this section.
 

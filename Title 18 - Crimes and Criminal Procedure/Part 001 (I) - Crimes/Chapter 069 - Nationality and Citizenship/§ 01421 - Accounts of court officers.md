@@ -1,6 +1,6 @@
 ### §1421. Accounts of court officers
 
-Whoever, being a clerk or assistant clerk of a court, or other person charged by law with a duty to render true accounts of moneys received in any proceeding relating to citizenship, naturalization, or registration of aliens or to pay over any balance of such moneys due to the United States, willfully neglects to do so within thirty days after said payment shall become due and demand therefor has been made, shall be fined under this title or imprisoned not more than five years, or both.
+Whoever, being a clerk or assistant clerk of a court, or other person charged by law with a duty to render true accounts of moneys receivedin any proceeding relating to citizenship, naturalization, or registration of aliens or to pay over any balance of such moneys due to the United States, willfully neglects to do so within thirty days after said payment shall become due and demand therefor has been made, shall be fined under this title or imprisoned not more than five years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 766; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147.)
 

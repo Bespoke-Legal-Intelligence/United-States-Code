@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(E) the fuel cycle for nuclear energy resources.
 
-&emsp;(3) Environmental responsibilities and functions, including advising the Secretary withrespect to the conformance of the Department's activities to environmental protection laws and principles, and conducting a comprehensive program of research and development on the environmental effects of energy technologies and programs.
+&emsp;(3) Environmental responsibilities and functions, including advising the Secretary with respect to the conformance of the Department's activities to environmental protection laws and principles, and conducting a comprehensive program of research and development on the environmental effects of energy technologies and programs.
 
 &emsp;(4) International programs and international policy functions, including those functions which assist in carrying out the international energy purposes described in section 7112 of this title.
 
@@ -58,7 +58,7 @@
 
 1999—Subsec. (a). Pub. L. 106–65, §3294(a)(2), substituted “six” for “eight” in introductory provisions.
 
-Subsec. (a)(5). Pub. L. 106–65, §3294(b), struck out par. (5) which read as follows: “National security functions, including those transferred to the Department from the Energy Research and Development Administration which relate to management and implementation of the nuclear weapons program and other national security functions involving nuclear weapons research and development.”
+Subsec. (a)(5). Pub. L. 106–65, §3294(b), struck out par. (5) which read as follows: “National security functions,including those transferred to the Department from the Energy Research and Development Administration which relate to management and implementation of the nuclear weapons program and other national security functions involving nuclear weapons research and development.”
 
 #### Effective Date of 1999 Amendment
 

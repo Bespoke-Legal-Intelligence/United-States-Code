@@ -126,7 +126,7 @@ The Board is authorized to issue such regulations and orders as may be necessary
 
 #### (C) Limitations on indirect action
 
-&emsp;&emsp;In developing, establishing, or assessing bank holding company capital or capital adequacy rules, guidelines, standards, or requirements for purposes of this paragraph, the Board may not take into account the activities, operations, or investments of an affiliated investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], unless the investment company is—
+&emsp;&emsp;In developing, establishing, or assessing bank holding company capital or capitaladequacy rules, guidelines, standards, or requirements for purposes of this paragraph, the Board may not take into account the activities, operations, or investments of an affiliated investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], unless the investment company is—
 
 &emsp;&emsp;&emsp;(i) a bank holding company; or
 
@@ -174,7 +174,7 @@ Before the expiration of two years following May 9, 1956, and each year thereaft
 
 > The distribution referred to in subparagraph (A) shall be pro rata with respect to all of the shareholders of the distributing bank holding company, and the holding company shall not make any charge to its shareholders arising out of such a distribution.
 
-(2) The Board may in its discretion apply to the United States district court within the jurisdiction of which the principal office of the holding company is located, for the enforcement of any effective and outstanding order issued under this section, and such court shall have jurisdiction and power to order and require compliance therewith, but except as provided in section 1848 of this title, no court shall have jurisdiction to affect by injunction or otherwise the issuance orenforcement of any notice or order under this section, or to review, modify, suspend, terminate, or set aside any such notice or order.
+(2) The Board may in its discretion apply to the United States district court within the jurisdiction of which the principal office of the holding company is located, for the enforcement of any effective and outstanding order issued under this section, and such court shall have jurisdiction and power to order and require compliancetherewith, but except as provided in section 1848 of this title, no court shall have jurisdiction to affect by injunction or otherwise the issuance or enforcement of any notice or order under this section, or to review, modify, suspend, terminate, or set aside any such notice or order.
 
 #### (f) Powers of Board respecting applications, examinations, or other proceedings
 
@@ -204,7 +204,7 @@ In the course of or in connection with an application, examination, investigatio
 
 #### (4) Conditions before divestiture
 
-&emsp;During the period beginning on the date an order to divest is issued by the Board under paragraph (3) to a bank holding company and ending on the date the divestiture is completed, the Board may impose any conditionsor restrictions on the holding company's ownership or operation of the depository institution, including restricting or prohibiting transactions between the depository institution and any affiliate of the institution, as are appropriate under the circumstances.
+&emsp;During the period beginning on the date an order to divest is issued by the Board under paragraph (3) to a bank holding company andending on the date the divestiture is completed, the Board may impose any conditions or restrictions on the holding company's ownership or operation of the depository institution, including restricting or prohibiting transactions between the depository institution and any affiliate of the institution, as are appropriate under the circumstances.
 
 #### (5) Rule of construction
 

@@ -36,7 +36,7 @@ Any document described in subsection (a) of this section shall be immediately re
 
 &emsp;(B) Debate in the House of Representatives on any fishery agreement resolution shall be limited to not more than 10 hours, which shall be divided equally between those favoring and those opposing the resolution. A motion further to limit debate shall not be debatable. It shall not be in order to move to recommit any fishery agreement resolution or to move to reconsider the vote by which any fishery agreement resolution is agreed to or disagreed to.
 
-&emsp;(C) Motions to postpone, made in the House of Representatives with respect to the consideration of any fishery agreement resolution, and motions to proceed to the consideration of other business, shall be decided without debate.
+&emsp;(C) Motions to postpone, made in the House of Representatives with respect to the consideration of any fishery agreement resolution, and motions to proceed to the consideration ofother business, shall be decided without debate.
 
 &emsp;(D) All appeals from the decisions of the Chair relating to the application of the Rules of the House of Representatives to the procedure relating to any fishery agreement resolution shall be decided without debate.
 
@@ -92,7 +92,7 @@ Pub. L. 102–587, title I, §1001, Nov. 4, 1992, 106 Stat. 5039, provided that 
 
 #### Fisheries Enforcement in Central Bering Sea and Central Sea of Okhotsk
 
-Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, as amended by Pub. L. 104–43, title V, §502, Nov. 3, 1995, 109 Stat. 391; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that this title was to be cited as the “Central Bering Sea Fisheries Enforcement Act of 1992”, prohibited vessels and nationals of United States from conducting fishing operations in Central Bering Sea and Central Sea of Okhotsk, except where such fishing operations were conducted in accordance with international fishery agreement to which United States and Russian Federation were parties, further provided for civil penalties and permit sanctions for violations of these provisions as well as authority to deny port privileges for fishing in Central Bering Sea, further authorized Secretary of Commerce to issue regulations restricting fishing in United States exclusive economic zone, and further provided for definition of terms and that this title would cease to have force and effect after the date that is seven years after Nov. 2, 1992, except that any proceeding with respect to violations occurring prior to such date was to be conducted as if these provisions were still in effect.
+Pub. L. 102–582, title III, Nov. 2, 1992, 106 Stat. 4906, as amended by Pub. L. 104–43, title V, §502, Nov. 3, 1995, 109 Stat. 391; Pub. L. 104–208, div. A, title I, §101(a) \[title II, §211(b)\], Sept. 30, 1996, 110 Stat. 3009, 3009–41, which provided that this title was to be cited as the “Central Bering Sea Fisheries Enforcement Act of 1992”, prohibited vessels and nationals of United States from conducting fishing operations in Central Bering Sea and Central Sea of Okhotsk, except where such fishing operations were conducted in accordance with international fishery agreement to which United States and Russian Federation were parties, further provided for civil penalties and permit sanctions for violations ofthese provisions as well as authority to deny port privileges for fishing in Central Bering Sea, further authorized Secretary of Commerce to issue regulations restricting fishing in United States exclusive economic zone, and further provided for definition of terms and that this title would cease to have force and effect after the date that is seven years after Nov. 2, 1992, except that any proceeding with respect to violations occurring prior to such date was to be conducted as if these provisions were still in effect.
 
 #### North Pacific and Bering Sea Fisheries Advisory Body
 
@@ -160,7 +160,7 @@ Pub. L. 98–498, title IV, §440, Oct. 19, 1984, 98 Stat. 2310, as amended by P
 
 Pub. L. 101–224, §7, Dec. 12, 1989, 103 Stat. 1907, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan was approved by Congress and was to enter into force and effect with respect to the United States on Dec. 12, 1989.
 
-Pub. L. 100–220, title I, §1001, Dec. 29, 1987, 101 Stat. 1459, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Japan Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 29, 1987.
+Pub. L. 100–220, title I, §1001, Dec. 29, 1987, 101 Stat. 1459, provided that the governing international fisheryagreement between the Government of the United States of America and the Government of Japan Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 29, 1987.
 
 Pub. L. 97–389, title IV, §401, Dec. 29, 1982, 96 Stat. 1954, provided that the governing international fishery agreement entered into between the Government of the United States and the Government of Japan pursuant to this chapter, signed at Washington on Sept. 10, 1982, was approved, and was effective on Jan. 1, 1983.
 
@@ -170,7 +170,7 @@ Pub. L. 97–389, title IV, §402, Dec. 29, 1982, 96 Stat. 1954, provided for ap
 
 #### Governing International Fishery Agreement With Portugal
 
-Pub. L. 96–561, title I, §145, title II, §238(b), Dec. 22, 1980, 94 Stat. 3287, 3300, provided that the governinginternational fishery agreement between the Government of the United States of America and the Government of Portugal Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 22, 1980.
+Pub. L. 96–561, title I, §145, title II, §238(b), Dec. 22, 1980, 94 Stat. 3287, 3300, provided that the governing international fishery agreement between the Government of the United States of America and the Government of Portugal Concerning Fisheries Off the Coasts of the United States was approved by Congress as a governing international fishery agreement for the purposes of this chapter, and was to enter into force and effect with respect to the United States on Dec. 22, 1980.
 
 #### Extension of International Fishery Agreements
 

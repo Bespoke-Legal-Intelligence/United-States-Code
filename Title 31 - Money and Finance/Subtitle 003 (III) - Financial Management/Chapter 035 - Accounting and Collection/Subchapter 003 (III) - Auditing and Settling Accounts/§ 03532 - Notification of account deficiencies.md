@@ -18,5 +18,5 @@ Historical and Revision Notes
 
 June 6, 1972, Pub. L. 92–310, §260, 86 Stat. 215.
 
-The word “official” is substituted for “officers”, and the word “Government” is added, for consistency in therevised title and with other titles of the United States Code. The words “having custody of public money” are substituted for “or in the accounts of any officer disbursing or chargeable with public money” for clarity and consistency. The words “immediately” and “the affairs of . . . or officer” are omitted as surplus.
+The word “official” is substituted for “officers”, and the word “Government” is added, for consistency in the revised title and with other titles of the United States Code. The words “having custody of public money” are substituted for “or in the accounts of any officer disbursing or chargeable with public money” for clarity and consistency. The words “immediately” and “the affairs of . . . or officer” are omitted as surplus.
 

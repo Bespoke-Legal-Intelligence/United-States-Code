@@ -18,7 +18,7 @@ This part is referred to in sections 2110, 2113, 7111, 7113, 8101, 8104, 8303, 8
 - [Chapter 033 - Inspection Generally](Chapter%20033%20-%20Inspection%20Generally/README.md)
 - [Chapter 035 - Carriage of Passengers](Chapter%20035%20-%20Carriage%20of%20Passengers/README.md)
 - [Chapter 037 - Carriage of Liquid Bulk Dangerous Cargoes](Chapter%20037%20-%20Carriage%20of%20Liquid%20Bulk%20Dangerous%20Cargoes/README.md)
-- [Chapter 039 - Carriage of Animals](Chapter%20039%20-%20Carriage%20of%20Animals/README.md)
+- [Chapter 039 - Repealed](Chapter%20039%20-%20Repealed/README.md)
 - [Chapter 041 - Uninspected Vessels Generally](Chapter%20041%20-%20Uninspected%20Vessels%20Generally/README.md)
 - [Chapter 043 - Recreational Vessels](Chapter%20043%20-%20Recreational%20Vessels/README.md)
 - [Chapter 045 - Uninspected Commercial Fishing Industry Vessels](Chapter%20045%20-%20Uninspected%20Commercial%20Fishing%20Industry%20Vessels/README.md)

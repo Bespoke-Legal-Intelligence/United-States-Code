@@ -1,14 +1,16 @@
 ### §307. Certificate of patentability, unpatentability, and claim cancellation
 
-(a) In a reexamination proceeding under this chapter, when the time for appeal has expired orany appeal proceeding has terminated, the Director will issue and publish a certificate canceling any claim of the patent finally determined to be unpatentable, confirming any claim of the patent determined to be patentable, and incorporating in the patent any proposed amended or new claim determined to be patentable.
+(a) In a reexamination proceeding under this chapter, when the time for appeal has expired or any appeal proceeding has terminated, the Director will issue and publish a certificate canceling any claim of the patent finally determined to be unpatentable, confirming any claim of the patent determined to be patentable, and incorporating in the patent any proposed amended or new claim determined to be patentable.
 
 (b) Any proposed amended or new claim determined to be patentable and incorporated into a patent following a reexamination proceeding will have the same effect as that specified in section 252 of this title for reissued patents on the right of any person who made, purchased, or used within the United States, or imported into the United States, anything patented by such proposed amended or new claim, or who made substantial preparation for the same, prior to issuance of a certificate under the provisions of subsection (a) of this section.
 
-(Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 103–465, title V, §533(b)(8), Dec. 8, 1994, 108 Stat. 4990; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(Added Pub. L. 96–517, §1, Dec. 12, 1980, 94 Stat. 3016; amended Pub. L. 103–465, title V, §533(b)(8), Dec. 8, 1994, 108 Stat. 4990; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–113 substituted “Director” for “Commissioner”.
+2002—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+
+1999—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
 1994—Subsec. (b). Pub. L. 103–465 substituted “used within the United States, or imported into the United States, anything” for “used anything”.
 

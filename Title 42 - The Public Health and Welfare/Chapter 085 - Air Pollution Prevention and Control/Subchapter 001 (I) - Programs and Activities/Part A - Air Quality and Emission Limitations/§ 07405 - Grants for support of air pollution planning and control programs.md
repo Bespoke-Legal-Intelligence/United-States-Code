@@ -4,7 +4,7 @@
 
 (1)(A) The Administrator may make grants to air pollution control agencies, within the meaning of paragraph (1), (2), (3), (4), or (5) of section 7602 of this title, in an amount up to three-fifths of the cost of implementing programs for the prevention and control of air pollution or implementation of national primary and secondary ambient air quality standards. For the purpose of this section, “implementing” means any activity related to the planning, developing, establishing, carrying-out, improving, or maintaining of such programs.
 
-(B) Subject to subsections (b) and (c) of this section, an air pollution control agency which receives a grant under subparagraph (A) and which contributes less than the required two-fifths minimum shall have 3 years following November 15, 1990, in which to contribute such amount. If such an agency fails to meet and maintain this required level, the Administrator shall reduce the amount of the Federal contribution accordingly.
+(B) Subject to subsections (b) and (c) of this section, an air pollution control agency which receives a grant under subparagraph (A) and which contributes less than the required two-fifths minimum shall have 3 years following November 15, 1990, in which to contribute such amount. If such an agency fails to meet andmaintain this required level, the Administrator shall reduce the amount of the Federal contribution accordingly.
 
 (C) With respect to any air quality control region or portion thereof for which there is an applicable implementation plan under section 7410 of this title, grants under subparagraph (A) may be made only to air pollution control agencies which have substantial responsibilities for carrying out such applicable implementation plan.
 

@@ -10,7 +10,7 @@
 
 &emsp;(4) for threatening to commit a crime of violence, by imprisonment for not more than five years or a fine under this title, or both;
 
-&emsp;(5) for attempting or conspiring to commit murder or kidnapping, by imprisonment fornot more than ten years or a fine under this title, or both; and
+&emsp;(5) for attempting or conspiring to commit murder or kidnapping, by imprisonment for not more than ten years or a fine under this title, or both; and
 
 &emsp;(6) for attempting or conspiring to commit a crime involving maiming, assault with a dangerous weapon, or assault resulting in serious bodily injury, by imprisonment for not more than three years or a fine of <sup>1</sup> under this title, or both.
 

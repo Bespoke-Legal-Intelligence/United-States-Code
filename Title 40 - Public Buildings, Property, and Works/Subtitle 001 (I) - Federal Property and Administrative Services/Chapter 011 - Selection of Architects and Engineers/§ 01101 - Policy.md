@@ -1,0 +1,28 @@
+### §1101. Policy
+
+The policy of the Federal Government is to publicly announce all requirements for architectural and engineering services and to negotiate contracts for architectural and engineering services on the basis of demonstrated competence and qualification for the type of professional services required and at fair and reasonable prices.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1129.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+1101
+
+40:542.
+
+June 30, 1949, ch. 288, title IX, §902, as added Pub. L. 92–582, Oct. 27, 1972, 86 Stat. 1279.
+
+The words “The Congress hereby declares” are omitted as unnecessary.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 41 section 253m.
+

@@ -2,7 +2,7 @@
 
 #### (a) Reports by issuer of security; contents
 
-Every issuer of a security registered pursuant to section 78<i>l</i> of this title shall file with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate for the proper protection of investors and to insure fair dealing in the security—
+Every issuer of a security registered pursuant to section 78<i>l</i> of this title shall file with the Commission, in accordance with such rules andregulations as the Commission may prescribe as necessary or appropriate for the proper protection of investors and to insure fair dealing in the security—
 
 &emsp;(1) such information and documents (and such copies thereof) as the Commission shall require to keep reasonably current the information and documents required to be included in or filed with an application or registration statement filed pursuant to section 78<i>l</i> of this title, except that the Commission may not require the filing of any material contract wholly executed before July 1, 1962.
 
@@ -16,7 +16,7 @@ Every issuer of a security registered pursuant to section 78<i>l</i> of this tit
 
 (2) Every issuer which has a class of securities registered pursuant to section 78<i>l</i> of this title and every issuer which is required to file reports pursuant to section 78<i>o</i>(d) of this title shall—
 
-&emsp;(A) make and keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the issuer; and
+&emsp;(A) make and keep books, records, and accounts, which, in reasonable detail, accurately and fairly reflect the transactions and dispositions of the assets of the issuer;
 
 &emsp;(B) devise and maintain a system of internal accounting controls sufficient to provide reasonable assurances that—
 
@@ -26,7 +26,9 @@ Every issuer of a security registered pursuant to section 78<i>l</i> of this tit
 
 &emsp;&emsp;(iii) access to assets is permitted only in accordance with management's general or specific authorization; and
 
-&emsp;&emsp;(iv) the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to any differences.
+&emsp;&emsp;(iv) the recorded accountability for assets is compared with the existing assets at reasonable intervals and appropriate action is taken with respect to any differences; and
+
+&emsp;(C) notwithstanding any other provision of law, pay the allocable share of such issuer of a reasonable annual accounting support fee or fees, determined in accordance with section 7219 of this title.
 
 (3)(A) With respect to matters concerning the national security of the United States, no duty or liability under paragraph (2) of this subsection shall be imposed upon any person acting in cooperation with the head of any Federal department or agency responsible for such matters if such act in cooperation with such head of a department or agency was done upon the specific, written directive of the head of such department or agency pursuant to Presidential authority to issue such directives. Each directive issued under this paragraph shall set forth the specific facts and circumstances with respect to which the provisions of this paragraph are to be invoked. Each such directive shall, unless renewed in writing, expire one year after the date of issuance.
 
@@ -74,13 +76,13 @@ If in the judgment of the Commission any report required under subsection (a) of
 
 &emsp;(C) any acquisition of an equity security by the issuer of such security;
 
-&emsp;(D) any acquisition or proposed acquisition of a security which the Commission, by rules or regulations or by order, shall exempt from the provisions of this subsection as not entered into for the purpose of, and not having the effect of, changing or influencing the control of the issuer or otherwise as not comprehended within the purposes of this subsection.
+&emsp;(D) any acquisition or proposed acquisition of a security which the Commission, by rulesor regulations or by order, shall exempt from the provisions of this subsection as not entered into for the purpose of, and not having the effect of, changing or influencing the control of the issuer or otherwise as not comprehended within the purposes of this subsection.
 
 #### (e) Purchase of securities by issuer
 
 (1) It shall be unlawful for an issuer which has a class of equity securities registered pursuant to section 78<i>l</i> of this title, or which is a closed-end investment company registered under the Investment Company Act of 1940 \[15 U.S.C. 80a–1 et seq.\], to purchase any equity security issued by it if such purchase is in contravention of such rules and regulations as the Commission, in the public interest or for the protection of investors, may adopt (A) to define acts and practices which are fraudulent, deceptive, or manipulative, and (B) to prescribe means reasonably designed to prevent such acts and practices. Such rules and regulations may require such issuer to provide holders of equity securities of such class with such information relating to the reasons for such purchase, the source of funds, the number of shares to be purchased, the price to be paid for such securities, the method of purchase, and such additional information, as the Commission deems necessary or appropriate in the public interest or for the protection of investors, or which the Commission deems to be material to a determination whether such security should be sold.
 
-(2) For the purpose of this subsection, a purchase by or for the issuer or any person controlling, controlled by, or under common control with the issuer, or a purchase subject to controlof the issuer or any such person, shall be deemed to be a purchase by the issuer. The Commission shall have power to make rules and regulations implementing this paragraph in the public interest and for the protection of investors, including exemptive rules and regulations covering situations in which the Commission deems it unnecessary or inappropriate that a purchase of the type described in this paragraph shall be deemed to be a purchase by the issuer for purposes of some or all of the provisions of paragraph (1) of this subsection.
+(2) For the purpose of this subsection, a purchase by or for the issuer or any person controlling, controlled by, or under common control with the issuer, or a purchase subject to control of the issuer or any such person, shall be deemed to be a purchase by the issuer. The Commission shall have power to make rules and regulations implementing this paragraph in the public interest and for the protection of investors, including exemptive rules and regulations covering situations in which the Commission deems it unnecessary or inappropriate that a purchase of the type described in this paragraph shall be deemed to be a purchase by the issuer for purposes of some or all of the provisions of paragraph (1) of this subsection.
 
 (3) At the time of filing such statement as the Commission may require by rule pursuant to paragraph (1) of this subsection, the person making the filing shall pay to the Commission a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased. The fee shall be reduced with respect to securities in an amount equal to any fee paid with respect to any securities issued in connection with the proposed transaction under section 6(b) of the Securities Act of 1933 \[15 U.S.C. 77f(b)\], or the fee paid under that section shall be reduced in an amount equal to the fee paid to the Commission in connection with such transaction under this paragraph.
 
@@ -132,7 +134,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 &emsp;(B) the aggregate fair market value or cost or amortized cost of exempted securities (in aggregate or by class) held on the last day of the reporting period by such accounts;
 
-&emsp;(C) the number of shares of each equity security of a class described in subsection (d)(1) ofthis section held on the last day of the reporting period by such accounts with respect to which the institutional investment manager possesses sole or shared authority to exercise the voting rights evidenced by such securities;
+&emsp;(C) the number of shares of each equity security of a class described in subsection (d)(1) of this section held on the last day of the reporting period by such accounts with respect to which the institutional investment manager possesses sole or shared authority to exercise the voting rights evidenced by such securities;
 
 &emsp;(D) the aggregate purchases and aggregate sales during the reporting period of each security (other than an exempted security) effected by or for such accounts; and
 
@@ -174,7 +176,7 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 &emsp;(B) the number and description of the shares in which such person has an interest and the nature of such interest.
 
-(2) If any material change occurs in the facts set forth in the statement sent to the issuer and filed with the Commission, an amendment shall be transmitted to the issuer and shall be filedwith the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
+(2) If any material change occurs in the facts set forth in the statement sent to the issuer and filed with the Commission, an amendment shall be transmitted to the issuer and shall be filed with the Commission, in accordance with such rules and regulations as the Commission may prescribe as necessary or appropriate in the public interest or for the protection of investors.
 
 (3) When two or more persons act as a partnership, limited partnership, syndicate, or other group for the purpose of acquiring, holding, or disposing of securities of an issuer, such syndicate or group shall be deemed a “person” for the purposes of this subsection.
 
@@ -238,11 +240,43 @@ Publication.—The rate applicable under this subsection for each fiscal year is
 
 &emsp;&emsp;(E) the term “person” has the meaning given in section 78c(a)(9) of this title and also includes two or more persons acting as a partnership, limited partnership, syndicate, or other group, but does not include a foreign central bank.
 
-(June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395.)
+#### (i) Accuracy of financial reports
+
+Each financial report that contains financial statements, and that is required to be prepared in accordance with (or reconciled to) generally accepted accounting principles under this chapter and filed with the Commission shall reflect all material correcting adjustments that have been identified by a registered public accounting firm in accordance with generally accepted accounting principles and the rules and regulations of the Commission.
+
+#### (j) Off-balance sheet transactions
+
+Not later than 180 days after July 30, 2002, the Commission shall issue final rules providing that each annual and quarterly financial report required to be filed with the Commission shall disclose all material off-balance sheet transactions, arrangements, obligations (including contingent obligations), and other relationships of the issuer with unconsolidated entities or other persons, that may have a material current or future effect on financial condition, changes in financial condition, results of operations, liquidity, capital expenditures, capital resources, or significant components of revenues or expenses.
+
+#### (k) Prohibition on personal loans to executives
+
+#### (1) In general
+
+&emsp;It shall be unlawful for any issuer (as defined in section 7201 of this title), directly or indirectly, including through any subsidiary, to extend or maintain credit, to arrange for the extension of credit, or to renew an extension of credit, in the form of a personal loan to or for any director or executive officer (or equivalent thereof) of that issuer. An extension of credit maintained by the issuer on July 30, 2002, shall not be subject to the provisions of this subsection, provided that there is no material modification to any term of any such extension of credit or any renewal of any such extension of credit on or after July 30, 2002.
+
+#### (2) Limitation
+
+&emsp;Paragraph (1) does not preclude any home improvement and manufactured home loans (as that term is defined in section 1464 of title 12), consumer credit (as defined in section 1602 of this title), or any extension of credit under an open end credit plan (as defined in section 1602 of this title), or a charge card (as defined in section 1637(c)(4)(e) of this title), or any extension of credit by a broker or dealer registered under section 78<i>o</i> of this title to an employee of that broker or dealer to buy, trade, or carry securities, that is permitted under rules or regulations of the Board of Governors of the Federal Reserve System pursuant to section 78g of this title (other than an extension of credit that would be used to purchase the stock of that issuer), that is—
+
+&emsp;&emsp;(A) made or provided in the ordinary course of the consumer credit business of such issuer;
+
+&emsp;&emsp;(B) of a type that is generally made available by such issuer to the public; and
+
+&emsp;&emsp;(C) made by such issuer on market terms, or terms that are no more favorable than those offered by the issuer to the general public for such extensions of credit.
+
+#### (3) Rule of construction for certain loans
+
+&emsp;Paragraph (1) does not apply to any loan made or maintained by an insured depository institution (as defined in section 3 of the Federal Deposit Insurance Act (12 U.S.C. 1813)), if the loan is subject to the insider lending restrictions of section 375b of title 12.
+
+#### (<i>l</i>) Real time issuer disclosures
+
+Each issuer reporting under subsec. (a) of this section or section 78<i>o</i>(d) of this title shall disclose to the public on a rapid and current basis such additional information concerning material changes in the financial condition or operations of the issuer, in plain English, which may include trend and qualitative information and graphic presentations, as the Commission determines, by rule, is necessary or useful for the protection of investors and in the public interest.
+
+(June 6, 1934, ch. 404, title I, §13, 48 Stat. 894; Pub. L. 88–467, §4, Aug. 20, 1964, 78 Stat. 569; Pub. L. 90–439, §2, July 29, 1968, 82 Stat. 454; Pub. L. 91–567, §§1, 2, Dec. 22, 1970, 84 Stat. 1497; Pub. L. 94–29, §10, June 4, 1975, 89 Stat. 119; Pub. L. 94–210, title III, §308(b), Feb. 5, 1976, 90 Stat. 57; Pub. L. 95–213, title I, §102, title II, §§202, 203, Dec. 19, 1977, 91 Stat. 1494, 1498, 1499; Pub. L. 98–38, §2(a), June 6, 1983, 97 Stat. 205; Pub. L. 100–181, title III, §§315, 316, Dec. 4, 1987, 101 Stat. 1256; Pub. L. 100–241, §12(d), Feb. 3, 1988, 101 Stat. 1810; Pub. L. 100–418, title V, §5002, Aug. 23, 1988, 102 Stat. 1415; Pub. L. 101–432, §3, Oct. 16, 1990, 104 Stat. 964; Pub. L. 107–123, §5, Jan. 16, 2002, 115 Stat. 2395; Pub. L. 107–204, title I, §109(h), title IV, §§401(a), 402(a), 409, July 30, 2002, 116 Stat. 771, 785, 787, 791.)
 
 #### References in Text
 
-This chapter, referred to in subsecs. (b)(1) and (h)(1), (2), (4), (6), was in the original “this title”. See References in Text note set out under section 78a of this title.
+This chapter, referred to in subsecs. (b)(1), (h)(1), (2), (4), (6), and (i), was in the original “this title”. See References in Text note set out under section 78a of this title.
 
 The Investment Company Act of 1940, referred to in subsecs. (d)(1) and (e)(1), is title I of act Aug. 22, 1940, ch. 686, 54 Stat. 789, as amended, which is classified generally to subchapter I (§80a–1 et seq.) of chapter 2D of this title. For complete classification of this Act to the Code, see section 80a–51 of this title and Tables.
 
@@ -250,11 +284,21 @@ The Securities Act of 1933, referred to in subsec. (d)(6)(A), is act May 27, 193
 
 The Federal Deposit Insurance Act, referred to in subsec. (f)(4), is act Sept. 21, 1950, ch. 967, §2, 64 Stat. 873, as amended, which is classified generally to chapter 16 (§1811 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 1811 of Title 12 and Tables.
 
+Section 7201 of this title, referred to in subsec. (k)(1), was in the original “section 2 of the Sarbanes-Oxley Act of 2002”, Pub. L. 107–204, which enacted section 7201 of this title and amended section 78c of this title.
+
 #### Amendments
 
-2002—Subsec. (e)(3). Pub. L. 107–123, §5(1), substituted “a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased” for “a fee of 1/50 of 1 per centum of the value of securities proposed to be purchased”.
+2002—Subsec. (b)(2)(C). Pub. L. 107–204, §109(h), added subpar. (C).
+
+Subsec. (e)(3). Pub. L. 107–123, §5(1), substituted “a fee at a rate that, subject to paragraphs (5) and (6), is equal to $92 per $1,000,000 of the value of securities proposed to be purchased” for “a fee of 1/50 of 1 per centum of the value of securities proposed to be purchased”.
 
 Subsec. (e)(4) to (10). Pub. L. 107–123, §5(2), added pars. (4) to (10).
+
+Subsecs. (i), (j). Pub. L. 107–204, §401(a), added subsecs. (i) and (j).
+
+Subsec. (k). Pub. L. 107–204, §402(a), added subsec. (k).
+
+Subsec. (<i>l</i>). Pub. L. 107–204, §409, added subsec. (<i>l</i>).
 
 1990—Subsec. (h). Pub. L. 101–432 added subsec. (h).
 
@@ -322,7 +366,7 @@ Definitions.—For purposes of subsection (a), the terms ‘insured depository i
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 77f, 77r, 77z–2, 77nnn, 78c, 78<i>l</i>, 78n, 78<i>o</i>, 78u–5, 78w, 78hh, 80a–8, 80a–29, 80a–54, 80a–63, 773 of this title; title 7 section 12a; title 11 section 1145; title 12 section 1817; title 16 section 824c; title 22 section 2197; title 26 sections 162, 952, 964; title 29 section 1343; title 43 section 1629c.
+This section is referred to in sections 77f, 77r, 77s, 77z–2, 77nnn, 78c, 78j–1, 78<i>l</i>, 78n, 78<i>o</i>, 78u–5, 78w, 78hh, 80a–8, 80a–29, 80a–54, 80a–63, 773, 7201, 7241, 7261, 7262, 7264, 7265, 7266 of this title; title 7 section 12a; title 11 section 1145; title 12 section 1817; title 16 section 824c; title 18 section 1350; title 22 section 2197; title 26 sections 162, 952, 964; title 29 section 1343; title 43 section 1629c.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “account.”</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-The Director is authorized to enter into such agreements with the pool formed or otherwisecreated under this part as he deems necessary to carry out the purposes of this chapter.
+The Director is authorized to enter into such agreements with the pool formed or otherwise created under this part as he deems necessary to carry out the purposes of this chapter.
 
 #### (b) Terms and conditions
 
@@ -33,4 +33,8 @@ In addition, such agreements shall contain such provisions as the Director finds
 #### Amendments
 
 1983—Subsecs. (a), (b)(3), (c). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -32,5 +32,5 @@ Amendment by Pub. L. 103–94 effective 120 days after Oct. 6, 1993, but not to 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1212, 1215, 2105 of this title.
+This section is referred to in sections 1212, 1215, 2105 of this title; title 49 section 40122.
 

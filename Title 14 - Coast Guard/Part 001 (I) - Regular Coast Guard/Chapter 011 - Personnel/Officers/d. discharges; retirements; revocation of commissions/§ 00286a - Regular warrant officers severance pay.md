@@ -8,7 +8,17 @@
 
 (d) The acceptance of severance pay under this section does not deprive a person of any retirement benefits from the United States. However, there shall be deducted from each of his retirement payments so much thereof as is based on the service for which he has received severance pay under this section, until the total deductions equal the amount of such severance pay.
 
-(Added Pub. L. 96–513, title V, §505(a)(1), Dec. 12, 1980, 94 Stat. 2918; amended Pub. L. 102–190, div. A, title XI, §1125(b)(1), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title V, §541(f)(2), Oct. 5, 1994, 108 Stat. 2766; Pub. L. 105–383, title II, §201(a), (b), Nov. 13, 1998, 112 Stat. 3414.)
+(Added Pub. L. 96–513, title V, §505(a)(1), Dec. 12, 1980, 94 Stat. 2918; amended Pub. L. 102–190, div. A, title XI, §1125(b)(1), Dec. 5, 1991, 105 Stat. 1505; Pub. L. 103–337, div. A, title V, §541(f)(2), Oct. 5, 1994, 108 Stat. 2766; Pub. L. 105–383, title II, §201(a), (b), Nov. 13, 1998, 112 Stat. 3414; Pub. L. 107–295, title IV, §416(a)(4), Nov. 25, 2002, 116 Stat. 2121.)
+
+#### Amendment of Section
+
+<i>Pub. L. 107–295, title IV, §416(a)(4), (c), Nov. 25, 2002, 116 Stat. 2121, 2122, provided that, effective 4 years after Nov. 25, 2002, this section is amended by striking “severance” in the section heading and inserting “separation” and by striking subsections (a), (b), and (c) and inserting the following:</i>
+
+<i>“(a) A regular warrant officer of the Coast Guard who is discharged under section 580 of title 10, and has completed 6 or more, but less than 20, continuous years of active service immediately before that discharge is entitled to separation pay computed under subsection (d)(1) of section 1174 of title 10.</i>
+
+<i>“(b) A regular warrant officer of the Coast Guard who is discharged under section 1165 or 1166 of title 10, and has completed 6 or more, but less than 20, continuous years of active service immediately before that discharge is entitled to separation pay computed under subsection (d)(1) or (d)(2) of section 1174 of title 10, as determined under regulations promulgated by the Secretary.</i>
+
+<i>“(c) In determining a member's years of active service for the purpose of computing separation pay under this section, each full month of service that is in addition to the number of full years of service creditable to the member is counted as one-twelfth of a year and any remaining fractional part of a month is disregarded.”</i>
 
 #### References in Text
 
@@ -23,6 +33,10 @@ Subsec. (d). Pub. L. 105–383, §201(a), struck out at end “However, no perso
 1994—Subsec. (a). Pub. L. 103–337 substituted “section 580(a)(4)(A) of title 10” for “section 564(a)(3) of title 10 (as in effect on the day before the effective date of the Warrant Officer Management Act)”.
 
 1991—Subsec. (a). Pub. L. 102–190 inserted “(as in effect on the day before the effective date of the Warrant Officer Management Act)” after “section 564(a)(3) of title 10”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–295 effective 4 years after Nov. 25, 2002, see section 416(c) of Pub. L. 107–295, set out as a note under section 286 of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -10,7 +10,7 @@ For the purpose of carrying out parts B, C, and D of this subchapter (subject to
 
 #### (A) Fiscal year 1998
 
-&emsp;&emsp;Of the amount appropriated under subsection (a) of this section for fiscal year 1998,the Secretary shall reserve not less than $17,564,000 for making awards of grants and contracts under section 296m of this title as such section was in effect for fiscal year 1998.
+&emsp;&emsp;Of the amount appropriated under subsection (a) of this section for fiscal year 1998, the Secretary shall reserve not less than $17,564,000 for making awards of grants and contracts under section 296m of this title as such section was in effect for fiscal year 1998.
 
 #### (B) Fiscal years 1999 through 2002
 
@@ -60,7 +60,7 @@ For the purpose of carrying out parts B, C, and D of this subchapter (subject to
 
 &emsp;&emsp;&emsp;(vii) The percentage of the general population constituted by individuals who are of Hispanic ethnicity.
 
-&emsp;&emsp;&emsp;(viii) The number of individuals residing in health professional shortage areas, andthe number of individuals who are members of medically underserved populations.
+&emsp;&emsp;&emsp;(viii) The number of individuals residing in health professional shortage areas, and the number of individuals who are members of medically underserved populations.
 
 &emsp;&emsp;&emsp;(ix) The percentage of the general population constituted by elderly individuals.
 
@@ -109,6 +109,8 @@ Section 297–1 of this title, referred to in subsec. (b)(2), was repealed by Pu
 #### Prior Provisions
 
 A prior section 841 of act July 1, 1944, was classified to section 297h of this title prior to repeal by Pub. L. 99–92.
+
+Another prior section 841 of act July 1, 1944, was renumbered section 851, and was classified to section 298 of this title prior to repeal by Pub. L. 105–392.
 
 #### Change of Name
 

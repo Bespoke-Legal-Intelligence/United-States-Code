@@ -2,7 +2,7 @@
 
 #### (a) Funds for fiscal years during period June 30, 1972, and September 30, 1977; determination of amount
 
-Sums authorized to be appropriated pursuant to section 1287 of this title for each fiscal year beginning after June 30, 1972, and before September 30, 1977, shall be allotted by the Administrator not later than the January 1st immediately preceding the beginning of the fiscal year for which authorized, except that the allotment for fiscal year 1973 shall be made not later than 30 days after October 18, 1972. Such sums shall be allotted among the States by the Administrator in accordance with regulations promulgated by him, in the ratio that the estimated cost of constructing all needed publicly owned treatment works in each State bears to the estimated cost of construction of all needed publicly owned treatment works in all of the States. For the fiscal years ending June 30, 1973, and June 30, 1974, such ratio shall be determined on the basis of table III of House Public Works Committee Print No. 92–50. For the fiscal year ending June 30, 1975, such ratio shall be determined one-half on the basis of table I of House Public Works Committee Print Numbered 93–28 and one-half on the basis of table II of such print, except that no State shall receive an allotment less than that which it received for the fiscal year ending June 30, 1972, as set forth in table III of such print. Allotments for fiscal years which begin after the fiscal year ending June 30, 1975, shall be made only in accordancewith a revised cost estimate made and submitted to Congress in accordance with section 1375 of this title and only after such revised cost estimate shall have been approved by law specifically enacted after October 18, 1972.
+Sums authorized to be appropriated pursuant to section 1287 of this title for each fiscal year beginning after June 30, 1972, and before September 30, 1977, shall be allotted by the Administrator not later than the January 1st immediately preceding the beginning of the fiscal year for which authorized, except that the allotment for fiscal year 1973 shall be made not later than 30 days after October 18, 1972. Such sums shall be allotted among the States by the Administrator in accordance with regulations promulgated by him, in the ratio that the estimated cost of constructing all needed publicly owned treatment works in each State bears to the estimated cost of construction of all needed publicly owned treatment works in all of the States. For the fiscal years ending June 30, 1973, and June 30, 1974, such ratio shall be determined on the basis of table III of House Public Works Committee Print No. 92–50. For the fiscal year ending June 30, 1975, such ratio shall be determined one-half on the basis of table I of House Public Works Committee Print Numbered 93–28 and one-half on the basis of table II of such print, except that no State shall receive an allotment less than that which it received for the fiscal year ending June 30, 1972, as set forth in table III of such print. Allotments for fiscal years which begin after the fiscal year ending June 30, 1975, shall be made only in accordance with a revised cost estimate made and submitted to Congress in accordance with section 1375(b) of this title and only after such revised cost estimate shall have been approved by law specifically enacted after October 18, 1972.
 
 #### (b) Availability and use of funds allotted for fiscal years during period June 30, 1972, and September 30, 1977; reallotment
 
@@ -184,7 +184,7 @@ Not less than 1/2 of 1 percent of funds allotted to a State for each of the fisc
 
 &emsp;(D) determining those publicly owned treatment works which should be constructed with assistance under this subchapter, in which areas and in what sequence, taking into account the relative degree of effluent reduction attained, the relative contributions to water quality of other point or nonpoint sources, and the consideration of alternatives to such construction, and implementing section 1313(e) of this title.
 
-(3) In carrying out planning with grants made under paragraph (2) of this subsection, a State shall develop jointly with local, regional, and interstate entities, a plan for carrying out the program and give funding priority to such entities and designated or undesignated public comprehensive planning organizations to carry out the purposes of this subsection. In giving such priority, the State shall allocate at least 40 percent of the amount granted to such State for a fiscal year under paragraph (2) of this subsection to regional public comprehensive planning organizations in such State and appropriate interstate organizations for the development and implementation of the plan described in this paragraph. In any fiscal year for which the Governor, in consultation with such organizations and with the approval of the Administrator, determines that allocation of at least 40 percent of such amount to such organizations will not result in significant participation by such organizations in water quality management planning and not significantly assist in development and implementation of the plan described in this paragraph and achieving the goals of this chapter, the allocation to such organization may be less than 40 percent of such amount.
+(3) In carrying out planning with grants made under paragraph (2) of this subsection, a Stateshall develop jointly with local, regional, and interstate entities, a plan for carrying out the program and give funding priority to such entities and designated or undesignated public comprehensive planning organizations to carry out the purposes of this subsection. In giving such priority, the State shall allocate at least 40 percent of the amount granted to such State for a fiscal year under paragraph (2) of this subsection to regional public comprehensive planning organizations in such State and appropriate interstate organizations for the development and implementation of the plan described in this paragraph. In any fiscal year for which the Governor, in consultation with such organizations and with the approval of the Administrator, determines that allocation of at least 40 percent of such amount to such organizations will not result in significant participation by such organizations in water quality management planning and not significantly assist in development and implementation of the plan described in this paragraph and achieving the goals of this chapter, the allocation to such organization may be less than 40 percent of such amount.
 
 (4) All activities undertaken under this subsection shall be in coordination with other related provisions of this chapter.
 
@@ -244,7 +244,7 @@ The Administrator shall allot to the State of New York from sums authorized to b
 
 &emsp;Sums reserved under section 1285(j) of this title shall not be available for obligation under this subsection.
 
-(June 30, 1948, ch. 758, title II, §205, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 837; amended Pub. L. 93–243, §1, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§25, 26(a), 27, 28, Dec. 27, 1977, 91 Stat. 1574, 1575; Pub. L. 96–483, §11, Oct. 21, 1980, 94 Stat. 2363; Pub. L. 97–117, §§8(c), 13–16, Dec. 29, 1981, 95 Stat. 1625, 1627–1629; Pub. L. 100–4, title II, §§206(a)–(c), 207–210, 212(b), title III, §316(d), Feb. 4, 1987, 101 Stat. 19–21, 27, 60; Pub. L. 105–362, title V, §501(d)(2)(C), Nov. 10, 1998, 112 Stat. 3284.)
+(June 30, 1948, ch. 758, title II, §205, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 837; amended Pub. L. 93–243, §1, Jan. 2, 1974, 87 Stat. 1069; Pub. L. 95–217, §§25, 26(a), 27, 28, Dec. 27, 1977, 91 Stat. 1574, 1575; Pub. L. 96–483, §11, Oct. 21, 1980, 94 Stat. 2363; Pub. L. 97–117, §§8(c), 13–16,Dec. 29, 1981, 95 Stat. 1625, 1627–1629; Pub. L. 100–4, title II, §§206(a)–(c), 207–210, 212(b), title III, §316(d), Feb. 4, 1987, 101 Stat. 19–21, 27, 60; Pub. L. 105–362, title V, §501(d)(2)(C), Nov. 10, 1998, 112 Stat. 3284; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
 #### Codification
 
@@ -252,7 +252,9 @@ Subsec. (f) provided that sums made available for obligation between Jan. 1, 197
 
 #### Amendments
 
-1998—Subsec. (a). Pub. L. 105–362 substituted “section 1375 of this title” for “section 1375(b) of this title” in last sentence.
+2002—Subsec. (a). Pub. L. 107–303 repealed Pub. L. 105–362, §501(d)(2)(C). See 1998 Amendment note below.
+
+1998—Subsec. (a). Pub. L. 105–362, §501(d)(2)(C), which directed the substitution of “section 1375 of this title” for “section 1375(b) of this title” in last sentence, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 1987—Subsec. (c)(2). Pub. L. 100–4, §206(a)(1), substituted “September 30, 1985, and September 30, 1986” for “and September 30, 1985”.
 
@@ -297,6 +299,10 @@ Subsecs. (g) to (i). Pub. L. 95–217, §§26(a), 27, 28, added subsecs. (g) to 
 #### Change of Name
 
 Committee on Public Works and Transportation of House of Representatives treated as referring to Committee on Transportation and Infrastructure of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
 
 #### Termination of Trust Territory of the Pacific Islands
 

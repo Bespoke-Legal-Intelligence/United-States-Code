@@ -22,9 +22,31 @@ The Secretary may (with the concurrence of the agency, organization, or other bo
 
 #### (c) Length of assignment
 
-Assignments under this section may not exceed four years of continuous service for any member of the Service unless the Secretary approves an extension of such period for that member because of special circumstances.
+Except as otherwise provided in subsection (d)(5) of this section, assignments under this section may not exceed four years of continuous service for any member of the Service unless the Secretary approves an extension of such period for that member because of special circumstances.
 
-(Pub. L. 96–465, title I, §503, Oct. 17, 1980, 94 Stat. 2093.)
+#### (d) Assignment to the American Institute in Taiwan
+
+(1) The Secretary may assign a member of the Service, or otherwise detail an employee of the Department, for duty at the American Institute in Taiwan, if the Secretary determines that to do so is in the national interest of the United States.
+
+(2) The head of any other department or agency of the United States may, with the concurrence of the Secretary, detail an employee of that department or agency to the American Institute in Taiwan, if the Secretary determines that to do so is in the national interest of the United States.
+
+(3) In this subsection, the term “employee” does not include—
+
+&emsp;(A) a noncareer appointee, limited term appointee, or limited emergency appointee (as such terms are defined in section 3132(a) of title 5) in the Senior Executive Service; or
+
+&emsp;(B) an employee in a position that has been excepted from the competitive service by reason of its confidential, policy-determining, policy-making, or policy-advocating character.
+
+(4) An assignment or detail under this subsection may be made with or without reimbursement from the American Institute in Taiwan.
+
+(5) The period of an assignment or detail under this subsection shall not exceed a total of 6 years, except that the Secretary (or any other head of a department or agency of the United States, with the concurrence of the Secretary) may extend the period of an assignment or detail for an additional period of not more than 6 years.
+
+(Pub. L. 96–465, title I, §503, Oct. 17, 1980, 94 Stat. 2093; Pub. L. 107–228, div. A, title III, §326, Sept. 30, 2002, 116 Stat. 1386.)
+
+#### Amendments
+
+2002—Subsec. (c). Pub. L. 107–228, §326(2), substituted “Except as otherwise provided in subsection (d)(5) of this section, assignments” for “Assignments”.
+
+Subsec. (d). Pub. L. 107–228, §326(1), added subsec. (d).
 
 #### Section Referred to in Other Sections
 

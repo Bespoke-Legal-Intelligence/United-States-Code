@@ -38,7 +38,7 @@ For purposes of this part—
 
 #### (4) Employer
 
-&emsp;Subsection (n) (relating to leased employees) and subsection (t) (relating to application of controlled group rules to certain employee benefits) of section 414 of title 26 shall apply for purposes of this part in the same manner and to the same extent as such subsections apply for purposes of section 106 of title 26. Any regulations prescribed by the Secretary pursuant to the preceding sentence shall be consistent and coextensive with any regulations prescribed for similar purposes by the Secretary of the Treasury (or such Secretary's delegate) under such subsections.
+&emsp;Subsection (n) (relating to leased employees) and subsection (t) (relating to application of controlled group rules to certain employee benefits) of section 414 of title 26 shall applyfor purposes of this part in the same manner and to the same extent as such subsections apply for purposes of section 106 of title 26. Any regulations prescribed by the Secretary pursuant to the preceding sentence shall be consistent and coextensive with any regulations prescribed for similar purposes by the Secretary of the Treasury (or such Secretary's delegate) under such subsections.
 
 #### (5) Optional extension of required periods
 

@@ -14,7 +14,7 @@ Examinations and interviews of a child who may have been the subject of abuse sh
 
 #### (d) Court orders
 
-Upon a finding of reasonable suspicion that an Indian child has been the subject of abuse in Indian country, a Federal magistrate judge orUnited States District Court may issue an order enforcing any provision of this section.
+Upon a finding of reasonable suspicion that an Indian child has been the subject of abuse in Indian country, a Federal magistrate judge or United States District Court may issue an order enforcing any provision of this section.
 
 (Pub. L. 101–630, title IV, §407, Nov. 28, 1990, 104 Stat. 4550; Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
 

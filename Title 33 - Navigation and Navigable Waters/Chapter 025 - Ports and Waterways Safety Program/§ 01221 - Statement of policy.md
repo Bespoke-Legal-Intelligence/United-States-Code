@@ -2,7 +2,7 @@
 
 The Congress finds and declares—
 
-&emsp;(a) that navigation and vessel safety and protection of the marine environment are matters of major national importance;
+&emsp;(a) that navigation and vessel safety, protection of the marine environment, and safety and security of United States ports and waterways are matters of major national importance;
 
 &emsp;(b) that increased vessel traffic in the Nation's ports and waterways creates substantial hazard to life, property, and the marine environment;
 
@@ -18,9 +18,11 @@ The Congress finds and declares—
 
 &emsp;(d) that advance planning is critical in determining proper and adequate protective measures for the Nation's ports and waterways and the marine environment, with continuing consultation with other Federal agencies, State representatives, affected users, and the general public, in the development and implementation of such measures.
 
-(Pub. L. 92–340, §2, formerly title I, §101, July 10, 1972, 86 Stat. 424; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1471.)
+(Pub. L. 92–340, §2, formerly title I, §101, July 10, 1972, 86 Stat. 424; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1471; Pub. L. 107–295, title IV, §443(1), Nov. 25, 2002, 116 Stat. 2132.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–295 substituted “safety, protection of the marine environment, and safety and security of United States ports and waterways” for “safety and protection of the marine environment”.
 
 1978—Pub. L. 95–474 substituted provision relating to Congressional declaration of findings for provision relating to the authority of the Secretary of the department in which the Coast Guard is operating to prevent damage to vessels, bridges, and other structures and to protect navigable waters from environmental harm.
 

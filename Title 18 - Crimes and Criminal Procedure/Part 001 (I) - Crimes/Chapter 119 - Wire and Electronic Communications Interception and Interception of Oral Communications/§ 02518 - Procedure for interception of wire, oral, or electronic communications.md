@@ -106,7 +106,7 @@
 
 &emsp;&emsp;(i) the application is by a Federal investigative or law enforcement officer and is approved by the Attorney General, the Deputy Attorney General, the Associate Attorney General, an Assistant Attorney General, or an acting Assistant Attorney General;
 
-&emsp;&emsp;(ii) the application identifies the person believed to be committing the offense and whose communications are to be intercepted and the applicant makes a showing that there is probable cause to believe that the person's actions could have the effect of thwarting interception from a specified facility;
+&emsp;&emsp;(ii) the application identifies the person believed to be committing the offense and whose communications are to be intercepted and the applicant makes a showing that there is probable cause to believe that theperson's actions could have the effect of thwarting interception from a specified facility;
 
 &emsp;&emsp;(iii) the judge finds that such showing has been adequately made; and
 
@@ -130,7 +130,7 @@ Par. (11)(b)(iv). Pub. L. 105–272, §604(a)(3), added cl. (iv).
 
 Par. (12). Pub. L. 105–272, §604(b), substituted “by reason of subsection (11)(a)” for “by reason of subsection (11)”, struck out “the facilities from which, or” after “shall not begin until”, and struck out comma after “the place where”.
 
-1994—Par. (4). Pub. L. 103–414 inserted at end of concluding provisions “Pursuant to section 2522 of thischapter, an order may also be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.”
+1994—Par. (4). Pub. L. 103–414 inserted at end of concluding provisions “Pursuant to section 2522 of this chapter, an order may also be issued to enforce the assistance capability and capacity requirements under the Communications Assistance for Law Enforcement Act.”
 
 1986—Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral” in section catchline.
 

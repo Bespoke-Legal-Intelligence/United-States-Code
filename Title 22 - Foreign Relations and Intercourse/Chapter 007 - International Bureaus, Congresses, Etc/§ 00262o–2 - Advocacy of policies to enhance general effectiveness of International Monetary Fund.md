@@ -6,7 +6,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(1) Vigorously promote policies to increase the effectiveness of the International Monetary Fund in structuring programs and assistance so as to promote policies and actions that will contribute to exchange rate stability and avoid competitive devaluations that will further destabilize the international financial and trading systems.
 
-&emsp;(2) Vigorously promote policies to increase the effectiveness of the International Monetary Fund in promoting market-oriented reform, trade liberalization, economic growth, democratic governance, and social stability through—
+&emsp;(2) Vigorously promote policies to increase the effectiveness of the International Monetary Fund in promoting market-oriented reform, trade liberalization, economic growth,democratic governance, and social stability through—
 
 &emsp;&emsp;(A) establishing an independent monetary authority, with full power to conduct monetary policy, that provides for a non-inflationary domestic currency that is fully convertible in foreign exchange markets;
 
@@ -46,7 +46,7 @@ The Secretary of the Treasury shall instruct the United States Executive Directo
 
 &emsp;(7) Vigorously promote the design of International Monetary Fund programs and assistance so that governments that draw on the International Monetary Fund channel public funds away from unproductive purposes, including large “show case” projects and excessive military spending, and toward investment in human and physical capital as well as social programs to protect the neediest and promote social equity.
 
-&emsp;(8) Work with the International Monetary Fund to foster economic prescriptions that are appropriate to the individual economic circumstances of each recipient country, recognizing that inappropriate stabilization programs may only serve to further destabilize the economy and create unnecessary economic, social, and political dislocation.
+&emsp;(8) Work with the International Monetary Fund to foster economic prescriptions that areappropriate to the individual economic circumstances of each recipient country, recognizing that inappropriate stabilization programs may only serve to further destabilize the economy and create unnecessary economic, social, and political dislocation.
 
 &emsp;(9) Structure International Monetary Fund programs and assistance so that the maintenance and improvement of core labor standards are routinely incorporated as an integral goal in the policy dialogue with recipient countries, so that—
 
@@ -82,7 +82,7 @@ Publication of IMF Operational Budgets.—The Secretary of the Treasury shall in
 
 “(b)
 
-Report to the Congress Showing Costs of United States Participation in the International Monetary Fund.—The Secretary of the Treasury shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], on Appropriations, and on International Relations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs, on Foreign Relations, and on Appropriations of the Senate a quarterly report, which shall be made readily available to the public, on the costs or benefits of UnitedStates participation in the International Monetary Fund and which shall detail the costs and benefits to the United States, as well as valuation gains or losses on the United States reserve position in the International Monetary Fund.
+Report to the Congress Showing Costs of United States Participation in the International Monetary Fund.—The Secretary of the Treasury shall prepare and transmit to the Committees on Banking and Financial Services \[now Committee on Financial Services\], on Appropriations, and on International Relations of the House of Representatives and the Committees on Banking, Housing, and Urban Affairs, on Foreign Relations, and on Appropriations of the Senate a quarterly report, which shall be made readily available to the public, on the costs or benefits of United States participation in the International Monetary Fund and which shall detail the costs and benefits to the United States, as well as valuation gains or losses on the United States reserve position in the International Monetary Fund.
 
 “(c)
 

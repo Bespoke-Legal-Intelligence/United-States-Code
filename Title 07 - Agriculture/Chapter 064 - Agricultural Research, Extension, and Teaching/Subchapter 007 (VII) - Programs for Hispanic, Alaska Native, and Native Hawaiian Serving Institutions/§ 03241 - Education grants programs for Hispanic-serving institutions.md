@@ -18,15 +18,17 @@ Grants made under this section shall be used—
 
 #### (c) Authorization of appropriations
 
-There are authorized to be appropriated to make grants under this section $20,000,000 for each of fiscal years 1997 through 2002.
+There are authorized to be appropriated to make grants under this section $20,000,000 for each of fiscal years 1997 through 2007.
 
-(Pub. L. 95–113, title XIV, §1455, as added Pub. L. 104–127, title VIII, §815(a), Apr. 4, 1996, 110 Stat. 1166; amended Pub. L. 105–185, title III, §301(a)(11), June 23, 1998, 112 Stat. 562.)
+(Pub. L. 95–113, title XIV, §1455, as added Pub. L. 104–127, title VIII, §815(a), Apr. 4, 1996, 110 Stat.1166; amended Pub. L. 105–185, title III, §301(a)(11), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7111, May 13, 2002, 116 Stat. 433.)
 
 #### Prior Provisions
 
 For prior section 3241 and prior section 1455 of Pub. L. 95–113, see note set out preceding this section.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1998—Subsec. (c). Pub. L. 105–185 substituted “each of fiscal years 1997 through 2002” for “fiscal year 1997”.
 

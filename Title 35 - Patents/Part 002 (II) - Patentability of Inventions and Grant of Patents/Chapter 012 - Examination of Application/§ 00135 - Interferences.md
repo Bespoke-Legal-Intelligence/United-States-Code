@@ -14,7 +14,7 @@ Any discretionary action of the Director under this subsection shall be reviewab
 
 (d) Parties to a patent interference, within such time as may be specified by the Director by regulation, may determine such contest or any aspect thereof by arbitration. Such arbitration shall be governed by the provisions of title 9 to the extent such title is not inconsistent with this section. The parties shall give notice of any arbitration award to the Director, and such award shall, as between the parties to the arbitration, be dispositive of the issues to which it relates. The arbitration award shall be unenforceable until such notice is given. Nothing in this subsection shall preclude the Director from determining patentability of the invention involved in the interference.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 87–831, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–622, title I, §105, title II, §202, Nov. 8, 1984, 98 Stat. 3385, 3386; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(11), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 87–831, Oct. 15, 1962, 76 Stat. 958; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–622, title I, §105, title II, §202, Nov. 8, 1984, 98 Stat. 3385, 3386; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4507(11), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–566, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -30,11 +30,13 @@ Section 10 of the Administrative Procedure Act, referred to in subsec. (c), is s
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], substituted “Director” for “Commissioner” wherever appearing.
+2002—Subsecs. (a), (c), (d). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment notes below.
+
+1999—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
 
 Subsec. (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4507(11)\], designated existing provisions as par. (1) and added par. (2).
 
-Subsecs. (c), (d). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], substituted “Director” for “Commissioner” wherever appearing.
+Subsecs. (c), (d). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” wherever appearing.
 
 1984—Subsec. (a). Pub. L. 98–622, §202, amended subsec. (a) generally, substituting “, an interference may be declared and the Commissioner shall give notice of such declaration to the applicants, or applicant and patentee, as the case may be” for “he shall give notice thereof to the applicants, or applicant and patentee, as the case may be” and substituting provisions vesting jurisdiction for determining questions of interference in the Board of Patent Appeals and Interferences for provisions vesting such jurisdiction in a board of patent interferences.
 
@@ -46,7 +48,7 @@ Subsec. (d). Pub. L. 98–622, §105, added subsec. (d).
 
 #### Effective Date of 1999 Amendment
 
-Amendment by section 1000(a)(9) \[title IV, §4507(11)\] of Pub. L. 106–113 effective on date that is 1 year after Nov. 29, 1999, and applicable to all applications filed under section 111 of this title on or after that date, and all applications complying with section 371 of this title that resulted from international applications filed on or after that date, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4507(11)\] of Pub. L. 106–113 effective Nov. 29, 2000, and applicable only to applications (including international applications designating the United States) filed on or after that date, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
 Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(A)\] of Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of this title.
 

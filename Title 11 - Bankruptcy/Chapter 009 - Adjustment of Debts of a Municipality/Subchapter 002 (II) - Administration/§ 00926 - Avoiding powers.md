@@ -26,7 +26,7 @@ Incorporated by reference also is the power to accept or reject executory contra
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–597 effective Nov. 3, 1988, but not applicable to any case commenced under this title before that date, see section 12 of Pub. L. 100–597, set out as a note under section 101 of this title.
+Amendment by Pub. L. 100–597 effective Nov. 3, 1988, but not applicable to any case commenced under thistitle before that date, see section 12 of Pub. L. 100–597, set out as a note under section 101 of this title.
 
 #### Section Referred to in Other Sections
 

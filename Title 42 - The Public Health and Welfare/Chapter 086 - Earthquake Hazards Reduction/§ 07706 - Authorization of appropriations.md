@@ -78,7 +78,7 @@ Subsecs. (e), (f). Pub. L. 106–503, §203, struck out subsecs. (e) and (f), wh
 
 1997—Subsec. (a)(7). Pub. L. 105–47, §1(1), struck out “and” after “1995,” and inserted before period at end “, $20,900,000 for the fiscal year ending September 30, 1998, and $21,500,000 for the fiscal year ending September 30, 1999”.
 
-Subsec. (b). Pub. L. 105–47, §1(2), substituted “$50,676,000 for the fiscal year ending September 30,1996; $52,565,000 for the fiscal year ending September 30, 1998, of which $3,800,000 shall be used for the Global Seismic Network operated by the Agency; and $54,052,000 for the fiscal year ending September 30, 1999, of which $3,800,000 shall be used for the Global Seismic Network operated by the Agency. Of the amounts authorized to be appropriated under this subsection, at least—
+Subsec. (b). Pub. L. 105–47, §1(2), substituted “$50,676,000 for the fiscal year ending September 30, 1996; $52,565,000 for the fiscal year ending September 30, 1998, of which $3,800,000 shall be used for the Global Seismic Network operated by the Agency; and $54,052,000 for the fiscal year ending September 30, 1999, of which $3,800,000 shall be used for the Global Seismic Network operated by the Agency. Of the amounts authorized to be appropriated under this subsection, at least—
 
 &emsp;“(1) $8,000,000 of the amount authorized to be appropriated for the fiscal year ending September 30, 1998; and
 
@@ -153,6 +153,10 @@ Subsec. (e). Pub. L. 97–80, §101(e), added subsec. (e).
 Subsecs. (b), (c). Pub. L. 96–472, §103(b), (c), inserted authorization for fiscal year ending Sept. 30, 1981.
 
 Subsec. (d). Pub. L. 96–472, §103(d), added subsec. (d).
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

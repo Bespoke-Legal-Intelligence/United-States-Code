@@ -22,7 +22,7 @@ Regular Special Pay.—Each of the following officers is entitled to special pay
 
 (b)
 
-Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) of this title, the Secretary concerned may pay an officer described in paragraph (2) a retention special pay of not more than $6,000 for any twelve-month period during which the officer is not undergoing an internship or initial residency training.
+Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) of this title, the Secretary concerned may pay an officer described in paragraph (2) a retention special pay of not more than $15,000 for any twelve-month period during which the officer is not undergoing an internship or initial residency training.
 
 (2) An officer referred to in paragraph (1) is an officer of a uniformed service who—
 
@@ -36,9 +36,11 @@ Retention Special Pay.—(1) Under regulations prescribed under section 303a(a) 
 
 (4) The Secretary concerned may terminate at any time the eligibility of an officer to receive retention special pay under paragraph (1). If such eligibility is terminated, the officer concerned shall receive such special pay only for the part of the period of active duty that the officer served and may be required to refund any amount in excess of that amount.
 
-(Added Pub. L. 92–129, title II, §202(a), Sept. 28, 1971, 85 Stat. 357; amended Pub. L. 93–64, title II, §202, July 9, 1973, 87 Stat. 149; Pub. L. 95–114, §2, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–284, §4(a), June 28, 1980, 94 Stat. 591; Pub. L. 100–26, §8(d)(2), Apr. 21, 1987, 101 Stat. 285; Pub. L. 101–510, div. A, title VI, §617(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 104–201, div. A, title VI, §614(a), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153.)
+(Added Pub. L. 92–129, title II, §202(a), Sept. 28, 1971, 85 Stat. 357; amended Pub. L. 93–64, title II, §202, July 9, 1973, 87 Stat. 149; Pub. L. 95–114, §2, Sept. 30, 1977, 91 Stat. 1046; Pub. L. 95–485, title VIII, §801(b), Oct. 20, 1978, 92 Stat. 1619; Pub. L. 96–284, §4(a), June 28, 1980, 94 Stat. 591; Pub. L. 100–26, §8(d)(2), Apr. 21, 1987, 101 Stat. 285; Pub. L. 101–510, div. A, title VI, §617(a), Nov. 5, 1990, 104 Stat. 1578; Pub. L. 104–201, div. A, title VI, §614(a), Sept. 23, 1996, 110 Stat. 2544; Pub. L. 106–398, §1 \[\[div. A\], title VI, §626(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153; Pub. L. 107–314, div. A, title VI, §615(d), Dec. 2, 2002, 116 Stat. 2568.)
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–314 substituted “$15,000” for “$6,000”.
 
 2000—Subsec. (b)(1). Pub. L. 106–398 substituted “the Secretary concerned may pay an officer described in paragraph (2) a” for “an officer described in paragraph (2) may be paid”.
 
@@ -73,6 +75,10 @@ Amendment by Pub. L. 93–64 effective July 1, 1973, see section 206 of Pub. L. 
 #### Effective Date
 
 Section 209 of title II of Pub. L. 92–129 provided that: “The foregoing provisions of this title \[enacting this section and section 428 of this title and amending sections 203 and 403 of this title and sections 2204 and 2207 of Title 50, Appendix, War and National Defense\] shall become effective on October 1, 1971, except that section 203 \[enacting section 308a of this title\] shall become effective on such date as shall be prescribed by the Secretary of Defense, but not earlier than February 1, 1971, and section 206 \[amending section 2203 of Title 50, Appendix\] shall become effective July 1, 1971.”
+
+#### Application of Increase
+
+In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonus that may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under section 301d of this title.
 
 #### Implementation of Subsection (b)
 

@@ -2,7 +2,7 @@
 
 In order to promote the conservation of migratory waterfowl and to offset or prevent the serious loss of important wetlands and other waterfowl habitat essential to the preservation of such waterfowl, there is authorized to be appropriated for the period beginning on July 1, 1961, and ending when all amounts authorized to be appropriated have been expended, not to exceed $200,000,000.
 
-(Pub. L. 87–383, §1, Oct. 4, 1961, 75 Stat. 813; Pub. L. 90–205, §1(a), Dec. 15, 1967, 81 Stat. 612; Pub. L. 94–215, §2(a), Feb. 17, 1976, 90 Stat. 189; Pub. L. 98–200, §1, Dec. 2, 1983, 97 Stat. 1378; Pub. L. 98–548, title I, §101, Oct. 26, 1984, 98 Stat. 2774;Pub. L. 99–645, title I, §101(a), Nov. 10, 1986, 100 Stat. 3584; Pub. L. 100–653, title III, §301, Nov. 14, 1988, 102 Stat. 3827.)
+(Pub. L. 87–383, §1, Oct. 4, 1961, 75 Stat. 813; Pub. L. 90–205, §1(a), Dec. 15, 1967, 81 Stat. 612; Pub. L. 94–215, §2(a), Feb. 17, 1976, 90 Stat. 189; Pub. L. 98–200, §1, Dec. 2, 1983, 97 Stat. 1378; Pub. L. 98–548, title I, §101, Oct. 26, 1984, 98 Stat. 2774; Pub. L. 99–645, title I, §101(a), Nov. 10, 1986, 100 Stat. 3584; Pub. L. 100–653, title III, §301, Nov. 14, 1988, 102 Stat. 3827.)
 
 #### Codification
 

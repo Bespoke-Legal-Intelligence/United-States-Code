@@ -22,7 +22,7 @@ Upon the request of a State or interstate agency, the Administrator may assign p
 
 #### (e) Labor standards
 
-The Administrator shall take such action as may be necessary to assure compliance with provisions of the Act of March 3, 1931 (known as the Davis-Bacon Act; 40 U.S.C. 276a—276a–5). The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267) and section 276c of title 40.
+The Administrator shall take such action as may be necessary to assure compliance with provisions of sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267) and section 3145 of title 40.
 
 #### (f) Appearance and representation of Administrator through Attorney General or attorney appointees
 
@@ -66,11 +66,13 @@ Not later than April 1 of each year, the Administrator shall submit to the Commi
 
 #### References in Text
 
-Act of March 3, 1931 (known as the Davis-Bacon Act; 40 U.S.C. 276a—276a–5), referred to in subsec. (e), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), referred to in subsec. (e), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Part G of subchapter II of this chapter, referred to in subsec. (g), is classified to section 264 of this title.
+
+#### Codification
+
+In subsec. (e), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (known as the Davis-Bacon Act; 40 U.S.C. 276a—276a(5))” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

@@ -26,9 +26,9 @@ There is hereby established an independent establishment in the executive branch
 
 &emsp;(C) the use and expenditure of funds.
 
-(3) The Chairman may delegate any of the functions under this paragraph to any othermember or to any appropriate officer of the Board.
+(3) The Chairman may delegate any of the functions under this paragraph to any other member or to any appropriate officer of the Board.
 
-(4) The Vice Chairman shall act as Chairman in the event of the absence or incapacity of the Chairman or in case of a vacancy in the office of Chairman.
+(4) The Vice Chairman shall act as Chairman in the event of the absence or incapacity of theChairman or in case of a vacancy in the office of Chairman.
 
 #### (d) Terms
 

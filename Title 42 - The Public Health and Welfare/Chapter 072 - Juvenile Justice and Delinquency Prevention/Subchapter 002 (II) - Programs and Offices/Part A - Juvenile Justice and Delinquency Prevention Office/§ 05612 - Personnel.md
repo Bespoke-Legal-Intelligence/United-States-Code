@@ -16,11 +16,13 @@ Upon the request of the Administrator, the head of any Federal agency is authori
 
 The Administrator may obtain services as authorized by section 3109 of title 5, at rates not to exceed the rate now or hereafter payable under section 5376 of title 5.
 
-(Pub. L. 93–415, title II, §202, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 95–115, §3(a)(3)(A), Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §19(c), Dec. 8, 1980, 94 Stat. 2763; Pub. L. 98–473, title II, §621, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 102–586, §2(b), Nov. 4, 1992, 106 Stat. 4984.)
+(Pub. L. 93–415, title II, §202, Sept. 7, 1974, 88 Stat. 1113; Pub. L. 95–115, §3(a)(3)(A), Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §19(c), Dec. 8, 1980, 94 Stat. 2763; Pub. L. 98–473, title II, §621, Oct. 12, 1984, 98 Stat. 2109; Pub. L. 102–586, §2(b), Nov. 4, 1992, 106 Stat. 4984; Pub. L. 107–273, div. C, title II, §12221(a)(1), Nov. 2, 2002, 116 Stat. 1894.)
 
 #### Amendments
 
-1992—Subsec. (b). Pub. L. 102–586, §2(b)(1), which directed the substitution of “payable under section 5376” for “prescribes for GS–18 of the General Schedule by section 5332”, was executed by making the substitution for “prescribed for GS–18 of the General Schedule by section 5332” to reflect the probable intent of Congress.
+2002—Subsec. (b). Pub. L. 107–273 substituted “payable under section 5376” for “prescribed for GS–18 of the General Schedule by section 5332”.
+
+1992—Subsec. (b). Pub. L. 102–586, §2(b)(1), which directed the substitution of “payable under section 5376” for “prescribes for GS–18 of the General Schedule by section 5332”, could not be executed because the phrase “prescribes for GS–18 of the General Schedule by section 5332” did not appear in text.
 
 Subsec. (c). Pub. L. 102–586, §2(b)(2), substituted “subchapter” for “chapter”.
 
@@ -35,6 +37,10 @@ Subsec. (c). Pub. L. 98–473, §621(b), substituted “the Administrator” for
 Subsec. (d). Pub. L. 96–509, §19(c)(2), substituted “title 5” for “title I” after “section 5332 of”.
 
 1977—Subsec. (c). Pub. L. 95–115 substituted “Associate” for “Assistant”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
 
 #### Effective Date of 1984 Amendment
 

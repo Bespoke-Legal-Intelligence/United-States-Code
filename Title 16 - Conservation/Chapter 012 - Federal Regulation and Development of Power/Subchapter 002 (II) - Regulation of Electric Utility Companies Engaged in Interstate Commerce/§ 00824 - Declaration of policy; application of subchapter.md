@@ -20,7 +20,7 @@ The term “sale of electric energy at wholesale” when used in this subchapter
 
 #### (e) “Public utility” defined
 
-The term “public utility” when used in this subchapter and subchapter III of this chapter means any person who owns or operates facilities subject to the jurisdiction of the Commission under this subchapter (other than facilities subject to such jurisdiction solely by reason of section 824i, 824j, or 824k of this title).
+The term “public utility” when used in this subchapter and subchapter III of this chaptermeans any person who owns or operates facilities subject to the jurisdiction of the Commission under this subchapter (other than facilities subject to such jurisdiction solely by reason of section 824i, 824j, or 824k of this title).
 
 #### (f) United States, State, political subdivision of a State, or agency or instrumentality thereof exempt
 
@@ -80,7 +80,7 @@ Section 214 of Pub. L. 95–617 provided that:
 
 “(a)
 
-Prior Actions.—No provision of this title \[enacting sections 823a, 824i to 824k, 824a–1 to 824a–3 and825q–1 of this title, amending sections 796, 824, 824a, 824d, and 825d of this title and enacting provisions set out as notes under sections 824a, 824d, and 825d of this title\] or of any amendment made by this title shall apply to, or affect, any action taken by the Commission before the date of the enactment of this Act \[Nov. 9, 1978\].
+Prior Actions.—No provision of this title \[enacting sections 823a, 824i to 824k, 824a–1 to 824a–3 and 825q–1 of this title, amending sections 796, 824, 824a, 824d, and 825d of this title and enacting provisions set out as notes under sections 824a, 824d, and 825d of this title\] or of any amendment made by this title shall apply to, or affect, any action taken by the Commission before the date of the enactment of this Act \[Nov. 9, 1978\].
 
 “(b)
 

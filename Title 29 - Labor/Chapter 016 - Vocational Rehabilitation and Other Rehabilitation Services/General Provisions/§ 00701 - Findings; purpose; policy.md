@@ -38,7 +38,7 @@ The purposes of this chapter are—
 
 &emsp;(1) to empower individuals with disabilities to maximize employment, economic self-sufficiency, independence, and inclusion and integration into society, through—
 
-&emsp;&emsp;(A) statewide workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] that include, as integral components, comprehensive and coordinated state-of-the-art programs of vocational rehabilitation;
+&emsp;&emsp;(A) statewide workforce investment systems implemented in accordance with title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] that include, as integralcomponents, comprehensive and coordinated state-of-the-art programs of vocational rehabilitation;
 
 &emsp;&emsp;(B) independent living centers and services;
 
@@ -110,7 +110,7 @@ Section 1 of Pub. L. 95–602 provided that: “This Act \[enacting sections 710
 
 #### Short Title of 1976 Amendment
 
-Pub. L. 94–230, §1, Mar. 15, 1976, 90 Stat. 211, provided that: “This Act \[amending sections 720, 732, 741, 761, 771, 772, 774, 775, 783, 785, and 792 of this title and enacting provisions set out as a note under section 720 of this title\] may be cited as the ‘Rehabilitation Act Extension of 1976’.”
+Pub. L. 94–230, §1, Mar. 15, 1976, 90 Stat. 211, provided that: “This Act \[amending sections 720, 732, 741, 761, 771, 772, 774, 775, 783, 785, and 792 of this title and enacting provisions set out as a note under section 720 of thistitle\] may be cited as the ‘Rehabilitation Act Extension of 1976’.”
 
 #### Short Title of 1974 Amendment
 
@@ -170,7 +170,7 @@ Section 1. Establishment of National Task Force on Employment of Adults with Dis
 
 &emsp;(7) subject to the availability of appropriations, analyze youth programs related to employment (e.g., Employment and Training Administration programs, special education, vocational rehabilitation, school-to-work transition, vocational education, and Social Security Administration work incentives and other programs, as may be determined by the Chair and Vice Chair of the Task Force) and the outcomes of those programs for young people with disabilities;
 
-&emsp;(8) evaluate whether a single governmental entity or program should be established to provide computerand electronic accommodations for Federal employees with disabilities;
+&emsp;(8) evaluate whether a single governmental entity or program should be established to provide computer and electronic accommodations for Federal employees with disabilities;
 
 &emsp;(9) consult with the President's Committee on Mental Retardation on policies to increase the employment of people with mental retardation and cognitive disabilities; and
 

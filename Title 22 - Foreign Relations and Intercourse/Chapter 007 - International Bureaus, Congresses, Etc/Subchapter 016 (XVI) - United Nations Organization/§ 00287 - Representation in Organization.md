@@ -76,6 +76,18 @@ Amendment by Pub. L. 96–465 effective Feb. 15, 1981, except as otherwise provi
 
 Section 1 of act Dec. 20, 1945, provided that: “This Act \[enacting this subchapter\] may be cited as the ‘United Nations Participation Act of 1945’.”
 
+#### United States Membership on the United Nations Commission on Human Rights and International Narcotics Control Board
+
+Pub. L. 107–228, div. A, title IV, §408, Sept. 30, 2002, 116 Stat. 1391, provided that: “The United States, in connection with its voice and vote in the United Nations General Assembly and the United Nations Economic and Social Council, shall make every reasonable effort—
+
+&emsp;“(1) to secure a seat for the United States on the United Nations Commission on Human Rights;
+
+&emsp;“(2) to secure a seat for a United States national on the United Nations International Narcotics Control Board; and
+
+&emsp;“(3) to prevent membership on the Human Rights Commission by any member nation the government of which, in the judgment of the Secretary, based on the Department's Annual Country Reports on Human Rights and the Annual Report on International Report on Religious Freedom, consistently violates internationally recognized human rights or has engaged in or tolerated particularly severe violations of religious freedom in that country.”
+
+\[For definitions of “Secretary” and “Department” as used in section 408 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
+
 #### United Nations Policy on Israel and the Palestinians
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §721\], Nov. 29, 1999, 113 Stat. 1536, 1501A–462, provided that:
@@ -94,7 +106,7 @@ Annual Reports.—On January 15 of each year, the Secretary of State shall submi
 
 &emsp;“(1) actions taken by representatives of the United States to encourage the nations of the Western Europe and Others Group (WEOG) to accept Israel into their regional bloc;
 
-&emsp;“(2) other measures being undertaken, and which will be undertaken, to ensure and promote Israel'sfull and equal participation in the United Nations; and
+&emsp;“(2) other measures being undertaken, and which will be undertaken, to ensure and promote Israel's full and equal participation in the United Nations; and
 
 &emsp;“(3) steps taken by the United States under subsection (b) to secure abolition by the United Nations of groups described in that subsection.
 
@@ -148,7 +160,7 @@ Sec. 3. \[Authorization of Appropriations\] There is authorized to be appropriat
 
 #### United States Grant for Expansion and Improvement of United Nations Headquarters
 
-Pub. L. 91–622, Dec. 31, 1970, 84 Stat. 1867, provided: “That there is hereby authorized to be appropriated to the Secretary of State out of any money in the Treasury not otherwise appropriated, a sum not to exceed $20,000,000, to remain available until expended, for a grant to be made at the discretion of the Secretary of State, to the United Nations to defray a portion of the cost of the expansion and improvement of its headquarters in the city of New York on such terms and conditions as the Secretary of State may determine. Such grant shall not be considered a contribution to the United Nations for purpose of any other applicable law limiting contributions.”
+Pub. L. 91–622, Dec. 31, 1970, 84 Stat. 1867, provided: “That there is hereby authorized to be appropriated to the Secretary of State out of any money in the Treasury not otherwise appropriated, a sum not to exceed $20,000,000, to remain available until expended, for agrant to be made at the discretion of the Secretary of State, to the United Nations to defray a portion of the cost of the expansion and improvement of its headquarters in the city of New York on such terms and conditions as the Secretary of State may determine. Such grant shall not be considered a contribution to the United Nations for purpose of any other applicable law limiting contributions.”
 
 #### United States Loan for Construction of Permanent Headquarters in New York City
 
@@ -158,7 +170,7 @@ Act Aug. 11, 1948, ch. 834, 62 Stat. 1286, authorized the President to loan to t
 
 Joint Res. Aug. 4, 1947, ch. 482, 61 Stat. 756, provided that:
 
-“Whereas the Charter of the United Nations was signed on behalf of the United States on June 26, 1945, and was ratified on August 8, 1945, by the President ofthe United States, by and with the advice and consent of the Senate, and the instrument of ratification of the said Charter was deposited on August 8, 1945; and
+“Whereas the Charter of the United Nations was signed on behalf of the United States on June 26, 1945, and was ratified on August 8, 1945, by the President of the United States, by and with the advice and consent of the Senate, and the instrument of ratification of the said Charter was deposited on August 8, 1945; and
 
 “Whereas the said Charter of the United Nations came into force with respect to the United States on October 24, 1945; and
 
@@ -218,7 +230,7 @@ I74section 1
 
 In this agreement:
 
-(a) The expression ‘headquarters district’ means (1) the area defined as such in Annex 1, (2) any other lands or buildings which from time to time may be included therein by supplemental agreement with the appropriate American authorities;
+(a) The expression ‘headquarters district’ means (1) the area defined as such in Annex 1, (2) any other landsor buildings which from time to time may be included therein by supplemental agreement with the appropriate American authorities;
 
 (b) the expression ‘appropriate American authorities’ means such federal, state, or local authorities in the United States as may be appropriate in the context and in accordance with the laws and customs of the United States, including the laws and customs of the state and local government involved;
 
@@ -334,7 +346,7 @@ I74section 15
 
 (3) every person designated by a Member of a specialized agency, as defined in Article 57, paragraph 2, of the Charter, as its principal resident representative, with the rank of ambassador or minister plenipotentiary, at the headquarters of such agency in the United States, and
 
-(4) such other principal resident representatives of members to a specialized agency and such resident members of the staffs of representatives to a specialized agency as may be agreed upon between the principal executive officer of the specialized agency, the Government of the United States and the Government of the Member concerned, shall, whether residing inside or outside the headquarters district, be entitled in the territory of the United States to the same privileges and immunities, subject to corresponding conditions and obligations, as it accords to diplomatic envoys accredited to it. In the case of Members whose governments are not recognized by the United States, such privileges and immunities need be extended to such representatives, or persons on the staffs of such representatives, only within the headquarters district, at their residences and offices outside the district, in transit between the district and such residences and offices, and in transit on official business to or from foreign countries.
+(4) such other principal resident representatives of members to a specialized agency and such resident members of the staffs of representatives to a specialized agency as may be agreed upon between the principal executive officer of the specialized agency, the Government of the United States and the Government of the Member concerned, shall, whether residing inside or outside the headquarters district, be entitled in the territory of the United States to the same privilegesand immunities, subject to corresponding conditions and obligations, as it accords to diplomatic envoys accredited to it. In the case of Members whose governments are not recognized by the United States, such privileges and immunities need be extended to such representatives, or persons on the staffs of such representatives, only within the headquarters district, at their residences and offices outside the district, in transit between the district and such residences and offices, and in transit on official business to or from foreign countries.
 
 #### “Article VI—Police Protection of the Headquarters District
 
@@ -444,7 +456,7 @@ Sec. 2. For the purpose of carrying out the obligations of the United States und
 
 (a) The President of the United States, or any official or governmental agency authorized by the President, may acquire in the name of the United States any property or interest therein by purchase, donation, or other means of transfer, or may cause proceedings to be instituted for the acquisition of the same by condemnation.
 
-(b) Upon the request of the President, or such officer as the President may designate, the Attorney General of the United States shall cause such condemnation or other proceedings to be instituted in the name of the United States in the district court of the United States for the district in which the property is situated and such court shall have full jurisdiction of such proceedings, and any condemnation proceedings shall be conducted in accordance with the Act of August 1, 1888 (25 Stat. 357), as amended \[section 257 of Title 40, Public Buildings, Property, and Works\] and the Act of February 26, 1931 (46 Stat. 1421), as amended \[sections 258a to 258e of title 40\].
+(b) Upon the request of the President, or such officer as the President may designate, the Attorney General of the United States shall cause such condemnation or other proceedings to be instituted in the name of the United States in the district court of the United States for the district in which the property is situated and such court shall have full jurisdiction of such proceedings, and any condemnation proceedings shall be conducted in accordance with the Act of August 1, 1888 (25 Stat. 357), as amended \[now 40 U.S.C. 3113\] and the Act of February 26, 1931 (46 Stat. 1421), as amended \[now 40 U.S.C. 3114–3116, 3118\].
 
 (c) After the institution of any such condemnation proceedings, possession of the property may be taken at any time the President, or such officer as he may designate, determines is necessary, and the court shall enter such orders as may be necessary to effect entry and occupancy of the property.
 
@@ -456,13 +468,13 @@ Sec. 3. The President, or the Secretary of State under his direction, is authori
 
 Sec. 4. Any States, or, to the extent not inconsistent with State law any political subdivisions thereof, affected by the establishment of the headquarters of the United Nations in the United States are authorized to enter into agreements with the United Nations or with each other consistent with the agreement and for the purpose of facilitating compliance with the same: <i>Provided</i>, That, except in cases of emergency and agreements of a routine contractual character, a representative of the United States, to be appointed by the Secretary of State, may, at the discretion of the Secretary of State, participate in the negotiations, and that any such agreement entered into by such State or States or political subdivisions thereof shall be subject to approval by the Secretary of State.
 
-Sec. 5. The President is authorized to make effective with respect to the temporary headquarters of the United Nations in the State of New York, on a provisional basis, such of the provisions of the agreement as he may deem appropriate, having due regard for the needs of the United Nations at its temporary headquarters.
+Sec. 5. The President is authorized to make effective with respect to the temporary headquarters of theUnited Nations in the State of New York, on a provisional basis, such of the provisions of the agreement as he may deem appropriate, having due regard for the needs of the United Nations at its temporary headquarters.
 
 Sec. 6. Nothing in the agreement shall be construed as in any way diminishing, abridging, or weakening the right of the United States to safeguard its own security and completely to control the entrance of aliens into any territory of the United States other than the headquarters district and its immediate vicinity, as to be defined and fixed in a supplementary agreement between the Government of the United States and the United Nations in pursuance of section 13(3)(e) of the agreement, and such areas as it is reasonably necessary to traverse in transit between the same and foreign countries. Moreover, nothing in section 14 of the agreement with respect to facilitating entrance into the United States by persons who wish to visit the headquarters district and do not enjoy the right of entry provided in section 11 of the agreement shall be construed to amend or suspend in any way the immigration laws of the United States or to commit the United States in any way to effect any amendment or suspension of such laws.”
 
 #### UN Membership for Communist China
 
-Section 105 of Pub. L. 91–472, title I, Oct. 21, 1970, 84 Stat. 1044, provided that it was the sense of the Congress that the United Nations should not admit the Communist Chinese Government to membership as therepresentative of China. Similar provisions were contained in the following prior acts:
+Section 105 of Pub. L. 91–472, title I, Oct. 21, 1970, 84 Stat. 1044, provided that it was the sense of the Congress that the United Nations should not admit the Communist Chinese Government to membership as the representative of China. Similar provisions were contained in the following prior acts:
 
 Dec. 24, 1969, Pub. L. 91–153, title I, §105, 83 Stat. 407.
 
@@ -532,7 +544,7 @@ Ex. Ord. No. 10422, Jan. 9, 1953, 18 F.R. 239, as amended by Ex. Ord. No. 10459,
 
 (b) If the investigation conducted by the Office of Personnel Management reveals that a favorable National Agency Check was previously completed, and the investigation conducted by the Office of Personnel Management has not disclosed any derogatory information within the meaning of the standard set forth in Part II of this order, completion of a new National Agency Check is not required if: (1) the applicant is or was previously employed by the same or another international organization without an immediately prior break in such service exceeding one year; (2) the applicant is or was a United States Government civilian or military employee, or a United States Government contract employee, without an immediately prior break in such employment exceeding one year; or (3) the applicant is transferred or detailed from an agency of the United States Government pursuant to the provisions of sections 3343, 3581, 3582, 3583, or 3584 of Title 5 of the United States Code.
 
-4\. Whenever information disclosed with respect to any person being investigated is derogatory, within thestandard set forth in Part II of this order, the Office of Personnel Management shall forward such information to the Federal Bureau of Investigation, and the Bureau shall conduct a full field investigation of such persons.
+4\. Whenever information disclosed with respect to any person being investigated is derogatory, within the standard set forth in Part II of this order, the Office of Personnel Management shall forward such information to the Federal Bureau of Investigation, and the Bureau shall conduct a full field investigation of such persons.
 
 5\. Reports of full field investigations shall be forwarded through the Office of Personnel Management to the International Organizations Employees Loyalty Board, established by Part IV of this order and hereinafter referred to as the Board. Whenever such a report contains derogatory information, under the standard set forth in Part II of this order, there shall be made available to the person in question the procedures of the Board provided or authorized by Part IV of this order (including the opportunity of a hearing) for inquiring into the loyalty of the person as a United States citizen in accordance with the standard set forth in Part II of this order. The Board shall transmit its determinations, as advisory opinions, together with the reasons therefor stated in as much detail as the Board determines that security considerations permit, to the Secretary of State for transmission to the Secretary General of the United Nations for his use in exercising his rights and duties with respect to the personnel of the United Nations as set out in the Charter and in regulations and decisions of the competent organs of the United Nations.
 

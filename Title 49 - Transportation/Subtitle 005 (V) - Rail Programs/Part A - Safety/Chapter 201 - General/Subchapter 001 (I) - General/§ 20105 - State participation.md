@@ -2,7 +2,7 @@
 
 (a)
 
-Investigative and Surveillance Activities.—The Secretary of Transportation may prescribe investigative and surveillance activities necessary to enforce the safety regulations prescribed and orders issued by the Secretary that apply to railroad equipment, facilities, rolling stock, and operations in a State. The State may participate in those activities when the safety practices for railroad equipment, facilities, rolling stock, and operations in the State are regulated by a State authority and the authority submits to the Secretary an annual certification as provided in subsection (b) of this section.
+Investigative and Surveillance Activities.—The Secretary concerned may prescribe investigative and surveillance activities necessary to enforce the safety regulations prescribed and orders issued by the Secretary <sup>1</sup> that apply to railroad equipment, facilities, rolling stock, and operations in a State. The State may participate in those activities when the safety practices for railroad equipment, facilities, rolling stock, and operations in the State are regulated by a State authority and the authority submits to the Secretary concerned an annual certification as provided in subsection (b) of this section.
 
 (b)
 
@@ -12,43 +12,55 @@ Annual Certification.—(1) A State authority's annual certification must includ
 
 &emsp;&emsp;(i) has regulatory jurisdiction over the safety practices for railroad equipment, facilities, rolling stock, and operations in the State;
 
-&emsp;&emsp;(ii) was given a copy of each safety regulation prescribed and order issued by the Secretary, that applies to the equipment, facilities, rolling stock, or operations, as of the date of certification; and
+&emsp;&emsp;(ii) was given a copy of each safety regulation prescribed and order issued by the Secretary concerned, that applies to the equipment, facilities, rolling stock, or operations, as of the date of certification; and
 
-&emsp;&emsp;(iii) is conducting the investigative and surveillance activities prescribed by the Secretary under subsection (a) of this section; and
+&emsp;&emsp;(iii) is conducting the investigative and surveillance activities prescribed by the Secretary concerned under subsection (a) of this section; and
 
-&emsp;(B) a report, in the form the Secretary prescribes by regulation, that includes—
+&emsp;(B) a report, in the form the Secretary concerned prescribes by regulation, that includes—
 
 &emsp;&emsp;(i) the name and address of each railroad carrier subject to the safety jurisdiction of the authority;
 
-&emsp;&emsp;(ii) each accident or incident reported during the prior 12 months by a railroad carrier involving a fatality, personal injury requiring hospitalization, or property damage of more than $750 (or a higher amount prescribed by the Secretary), and a summary of the authority's investigation of the cause and circumstances surrounding the accident or incident;
+&emsp;&emsp;(ii) each accident or incident reported during the prior 12 months by a railroad carrier involving a fatality, personal injury requiring hospitalization, or property damage of more than $750 (or a higher amount prescribed by the Secretary concerned), and a summary of the authority's investigation of the cause and circumstances surrounding the accident or incident;
 
-&emsp;&emsp;(iii) the record maintenance, reporting, and inspection practices conducted by the authority to aid the Secretary in enforcing railroad safety regulations prescribed andorders issued by the Secretary, including the number of inspections made of railroad equipment, facilities, rolling stock, and operations by the authority during the prior 12 months; and
+&emsp;&emsp;(iii) the record maintenance, reporting, and inspection practices conducted by the authority to aid the Secretary concerned in enforcing railroad safety regulations prescribed and orders issued by the Secretary concerned, including the number of inspections made of railroad equipment, facilities, rolling stock, and operations by the authority during the prior 12 months; and
 
-&emsp;&emsp;(iv) other information the Secretary requires.
+&emsp;&emsp;(iv) other information the Secretary concerned requires.
 
 (2) An annual certification applies to a safety regulation prescribed or order issued after the date of the certification only if the State authority submits an appropriate certification to provide the necessary investigative and surveillance activities.
 
-(3) If, after receipt of an annual certification, the Secretary decides the State authority is not complying satisfactorily with the investigative and surveillance activities prescribed under subsection (a) of this section, the Secretary may reject any part of the certification or take other appropriate action to achieve adequate enforcement. The Secretary must give the authority notice and an opportunity for a hearing before taking action under this paragraph. When the Secretary gives notice, the burden of proof is on the authority to show that it is complying satisfactorily with the investigative and surveillance activities prescribed by the Secretary.
+(3) If, after receipt of an annual certification, the Secretary concerned decides the State authority is not complying satisfactorily with the investigative and surveillance activities prescribed under subsection (a) of this section, the Secretary concerned may reject any part of the certification or take other appropriate action to achieve adequate enforcement. The Secretary concerned must give the authority notice and an opportunity for a hearing before taking action under this paragraph. When the Secretary concerned gives notice, the burden of proof is on the authority to show that it is complying satisfactorily with the investigative and surveillance activities prescribed by the Secretary concerned.
 
 (c)
 
-Agreement When Certification Not Received.—(1) If the Secretary does not receive an annual certification under subsection (a) of this section related to any railroad equipment, facility, rolling stock, or operation, the Secretary may make an agreement with a State authority for the authority to provide any part of the investigative and surveillance activities prescribed by the Secretary as necessary to enforce the safety regulations and orders applicable to the equipment, facility, rolling stock, or operation.
+Agreement When Certification Not Received.—(1) If the Secretary concerned does not receive an annual certification under subsection (a) of this section related to any railroad equipment, facility, rolling stock, or operation, the Secretary concerned may make an agreement with a State authority for the authority to provide any part of the investigative and surveillance activities prescribed by the Secretary concerned as necessary to enforce the safety regulations and orders applicable to the equipment, facility, rolling stock, or operation.
 
-(2) The Secretary may terminate any part of an agreement made under this subsection on finding that the authority has not provided every part of the investigative and surveillance activities to which the agreement relates. The Secretary must give the authority notice and an opportunity for a hearing before making such a finding. The finding and termination shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication.
+(2) The Secretary concerned may terminate any part of an agreement made under this subsection on finding that the authority has not provided every part of the investigative and surveillance activities to which the agreement relates. The Secretary concerned must give the authority notice and an opportunity for a hearing before making such a finding. The finding and termination shall be published in the Federal Register and may not become effective for at least 15 days after the date of publication.
 
 (d)
 
-Agreement for Investigative and Surveillance Activities.—In addition to providing for State participation under this section, the Secretary may make an agreement with a State to provide investigative and surveillance activities related to the Secretary's duties under chapters 203–213 of this title.
+Agreement for Investigative and Surveillance Activities.—In addition to providing for State participation under this section, the Secretary concerned may make an agreement with a State to provide investigative and surveillance activities related to the duties under chapters 203–213 of this title (in the case of the Secretary of Transportation) and duties under section 114 of this title (in the case of the Secretary of Homeland Security).
 
 (e)
 
-Payment.—On application by a State authority that has submitted a certification under subsections (a) and (b) of this section or made an agreement under subsection (c) or (d) of this section, the Secretary shall pay not more than 50 percent of the cost of the personnel, equipment, and activities of the authority needed, during the next fiscal year, to carry out a safety program under the certification or agreement. However, the Secretary may pay an authority only when the authority assures the Secretary that it will provide the remaining cost of the safety program and that the total State money expended for the safety program, excluding grants of the United States Government, will be at least as much as the average amount expended for the fiscal years that ended June 30, 1969, and June 30, 1970.
+Payment.—On application by a State authority that has submitted a certification under subsections (a) and (b) of this section or made an agreement under subsection (c) or (d) of this section, the Secretary concerned shall pay not more than 50 percent of the cost of the personnel, equipment, and activities of the authority needed, during the next fiscal year, to carry out a safety program under the certification or agreement. However, the Secretary concerned may pay an authority only when the authority assures the Secretary concerned that it will provide the remaining cost of the safety program and that the total State money expended for the safety program, excluding grants of the United States Government, will be at least as much as the average amount expended for the fiscal years that ended June 30, 1969, and June 30, 1970.
 
 (f)
 
-Monitoring.—The Secretary may monitor State investigative and surveillance practices and carry out other inspections and investigations necessary to help enforce this chapter.
+Monitoring.—The Secretary concerned may monitor State investigative and surveillance practices and carry out other inspections and investigations necessary to help enforce this chapter (in the case of the Secretary of Transportation) and duties under section 114 of this title (in the case of the Secretary of Homeland Security).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 864.)
+(g)
+
+Definitions.—In this section—
+
+&emsp;(1) the term “safety” includes security; and
+
+&emsp;(2) the term “Secretary concerned” means—
+
+&emsp;&emsp;(A) the Secretary of Transportation, with respect to railroad safety matters concerning such Secretary under laws administered by that Secretary; and
+
+&emsp;&emsp;(B) the Secretary of Homeland Security, with respect to railroad safety matters concerning such Secretary under laws administered by that Secretary.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 864; Pub. L. 107–296, title XVII, §1710(a), Nov. 25, 2002, 116 Stat. 2319.)
 
 Historical and Revision Notes
 
@@ -118,7 +130,29 @@ In subsection (c)(1), the word “enforce” is substituted for “obtain compli
 
 In subsection (e), the words “out of funds appropriated pursuant to this subchapter or otherwise made available”, “reasonably”, and “satisfactory” are omitted as surplus. The words “will be at least as much as the average amount expended” are substituted for “will be maintained at a level which does not fall below the average level of such expenditures” for clarity and to eliminate unnecessary words.
 
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–296, §1710(a)(2), substituted “the Secretary concerned” for “the Secretary” in second sentence.
+
+Pub. L. 107–296, §1710(a)(1), substituted “The Secretary concerned” for “The Secretary of Transportation” in first sentence.
+
+Subsecs. (b), (c). Pub. L. 107–296, §1710(a)(2), substituted “Secretary concerned” for “Secretary” wherever appearing.
+
+Subsec. (d). Pub. L. 107–296, §1710(a)(2), (3), substituted “Secretary concerned” for “Secretary” and “duties under chapters 203–213 of this title (in the case of the Secretary of Transportation) and duties under section 114 of this title (in the case of the Secretary of Homeland Security)” for “Secretary's duties under chapters 203–213 of this title”.
+
+Subsec. (e). Pub. L. 107–296, §1710(a)(2), substituted “Secretary concerned” for “Secretary” wherever appearing.
+
+Subsec. (f). Pub. L. 107–296, §1710(a)(2), (4), substituted “Secretary concerned” for “Secretary” and “chapter (in the case of the Secretary of Transportation) and duties under section 114 of this title (in the case of the Secretary of Homeland Security)” for “chapter”.
+
+Subsec. (g). Pub. L. 107–296, §1710(a)(5), added subsec. (g).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 20108, 20113, 20117 of this title; title 45 section 54a.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Secretary concerned”.</i>
 

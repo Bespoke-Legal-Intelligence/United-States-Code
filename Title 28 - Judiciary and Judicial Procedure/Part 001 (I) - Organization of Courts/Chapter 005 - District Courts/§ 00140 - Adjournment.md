@@ -22,5 +22,5 @@ The provision of subsection (a) authorizing the district court, with the consent
 
 #### Amendments
 
-<b>1963</b>—Subsecs. (a), (b). Pub. L. 88–139 substituted “session” for “term”.
+1963—Subsecs. (a), (b). Pub. L. 88–139 substituted “session” for “term”.
 

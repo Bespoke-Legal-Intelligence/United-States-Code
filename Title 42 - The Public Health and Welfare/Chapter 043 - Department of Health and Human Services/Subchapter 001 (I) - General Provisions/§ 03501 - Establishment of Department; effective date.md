@@ -14,6 +14,10 @@ The Reorganization Act of 1949, as amended, referred to in text, is act June 20,
 
 Section was formerly classified to section 623 of former Title 5, Executive Departments and Government Officers and Employees, prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 1, 1966, 80 Stat. 378.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Department of Health and Human Services, including the functions of the Secretary of Health and Human Services and the Assistant Secretary for Public Health Emergency Preparedness relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(5) and (6), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Emergency Preparedness Functions
 
 For assignment of certain emergency preparedness functions to Secretary of Health and Human Services, see Parts 1, 2, and 8 of Ex. Ord. No. 12656, Nov. 18, 1988, 53 F.R. 47491, set out as a note under section 5195 of this title.
@@ -28,7 +32,7 @@ Pub. L. 106–525, title III, §301, Nov. 22, 2000, 114 Stat. 2507, provided tha
 
 “(a)
 
-Study.—The National Academy of Sciences shall conduct a comprehensive study of the Department of Health and Human Services’ data collection systems and practices, and any data collection or reporting systems required under any of the programs or activities of the Department, relating to the collection of data on race or ethnicity, including other Federal data collection systems (such as the Social Security Administration) with which the Department interacts to collect relevant data on race and ethnicity.
+Study.—The National Academy of Sciences shall conduct a comprehensive study of the Department of Health and Human Services’ data collection systemsand practices, and any data collection or reporting systems required under any of the programs or activities of the Department, relating to the collection of data on race or ethnicity, including other Federal data collection systems (such as the Social Security Administration) with which the Department interacts to collect relevant data on race and ethnicity.
 
 “(b)
 
@@ -78,7 +82,7 @@ There shall be in the Department an Under Secretary of Health, Education, and We
 
 #### Sec. 4. Commissioner of Social Security
 
-There shall be in the Department a Commissioner of Social Security who shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions concerning social security and public welfare as the Secretary may prescribe, and shall receive compensation at the rate now or hereafterfixed by law for grade GS–18 of the general schedule established by the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].
+There shall be in the Department a Commissioner of Social Security who shall be appointed by the President by and with the advice and consent of the Senate, shall perform such functions concerning social security and public welfare as the Secretary may prescribe, and shall receive compensation at the rate now or hereafter fixed by law for grade GS–18 of the general schedule established by the Classification Act of 1949, as amended \[chapter 51 and subchapter III of chapter 53 of Title 5, Government Organization and Employees\].
 
 #### Sec. 5. Transfers to the Department
 
@@ -116,7 +120,7 @@ There should be an unremitting effort to improve those health, education, and so
 
 But good intent and high purpose are not enough; all such programs depend for their success upon efficient, responsible administration. I have recently taken action to assure that the Federal Security Administrator's views are given proper consideration in executive councils by inviting her to attend meetings of the Cabinet. Now the establishment of the new Department provided for in Reorganization Plan No. 1 of 1953 will give the needed additional assurance that these matters will receive the full consideration they deserve in the whole operation of the Government.
 
-This need has long been recognized. In 1923, President Harding proposed a Department of Education and Welfare, which was also to include health functions. In 1924, the Joint Committee on Reorganization recommended a new department similar to that suggested by President Harding. In 1932, one of President Hoover's reorganization proposals called for the concentration of health, education, and recreational activities in a single executive department. The President's Committeeon Administrative Management in 1937 recommended the placing of health, education, and social-security functions in a Department of Social Welfare. This recommendation was partially implemented in 1939 by the creation of the Federal Security Agency—by which action the Congress indicated its approval of the grouping of these functions in a single agency. A new department could not be proposed at that time because the Reorganization Act of 1939 prohibited the creation of additional executive departments. In 1949, the Commission on Organization of the Executive Branch of the Government proposed the creation of a department for social security and education.
+This need has long been recognized. In 1923, President Harding proposed a Department of Education and Welfare, which was also to include health functions. In 1924, the Joint Committee on Reorganization recommended a new department similar to that suggested by President Harding. In 1932, one of President Hoover's reorganization proposals called for the concentration of health, education, and recreational activities in a single executive department. The President's Committee on Administrative Management in 1937 recommended the placing of health, education, and social-security functions in a Department of Social Welfare. This recommendation was partially implemented in 1939 by the creation of the Federal Security Agency—by which action the Congress indicated its approval of the grouping of these functions in a single agency. A new department could not be proposed at that time because the Reorganization Act of 1939 prohibited the creation of additional executive departments. In 1949, the Commission on Organization of the Executive Branch of the Government proposed the creation of a department for social security and education.
 
 The present plan will make it possible to give the officials directing the Department titles indicative of their responsibilities and salaries comparable to those received by their counterparts in other executive departments. As the Under Secretary of an executive department, the Secretary's principal assistant will be better equipped to give leadership in the Department's organization and management activities, for which he will be primarily responsible. The plan opens the way to further administrative improvement by authorizing the Secretary to centralize services and activities common to the several agencies of the Department. It also established a uniform method of appointment for the heads of the three major constituent agencies. At present, the Surgeon General and the Commissioner of Education are appointed by the President and confirmed by the Senate, while the Commissioner for Social Security is appointed by the Federal Security Administrator. Hereafter, all three will be Presidential appointees subject to Senate confirmation.
 
@@ -160,7 +164,7 @@ Sec. 2. <i>Powers and duties of the Director</i>. (a) The Director shall be resp
 
 (1) appoint one or more advisory committees composed of such private citizens and officials of the Federal, State, and local governments as he deems desirable to advise him with respect to his functions. Members of such committees (including the Consumer Advisory Council established in section 5 of this order) other than those regularly employed by the Federal Government, while attending meetings of such committees or otherwise serving at the request of the Director, shall be entitled to receive compensation and travel expenses as authorized by law for persons serving intermittently;
 
-(2) promulgate such rules, regulations, and procedures as may be necessary to carry out the functions vested in him or in the Office, and delegate authorityfor the performance of any function to any officer or employee under his direction and supervision;
+(2) promulgate such rules, regulations, and procedures as may be necessary to carry out the functions vested in him or in the Office, and delegate authority for the performance of any function to any officer or employee under his direction and supervision;
 
 (3) utilize, with their consent, the services, personnel, and facilities of other Federal, State, local and private agencies and instrumentalities with or without reimbursement thereof except as reimbursement may be required by law; and
 
@@ -234,7 +238,7 @@ Sec. 2. In view of the establishment of the Council on Economic Policy, the Cabi
 
 #### Ex. Ord. No. 12160. Enhancement and Coordination of Federal Consumer Programs
 
-Ex. Ord. No. 12160, Sept. 26, 1979, 44 F.R. 55787, as amended by Ex. Ord. No. 12265, Jan. 15, 1981, 46 F.R. 4665, provided:
+Ex. Ord. No. 12160, Sept. 26, 1979, 44 F.R. 55787, as amended by Ex. Ord. No. 12265, Jan. 15, 1981, 46 F.R. 4665; Ex. Ord. No. 13286, §51, Feb. 28, 2003, 68 F.R. 10628, provided:
 
 By virtue of the authority vested in me as President by the Constitution of the United States of America, and in order to improve the management, coordination, and effectiveness of agency consumer programs, it is ordered as follows:
 
@@ -270,19 +274,19 @@ Establishment of the Consumer Affairs Council
 
 (<i>l</i>) Department of the Treasury.
 
-(m) ACTION Agency \[now Corporation for National and Community Service\].
+(m) Department of Homeland Security.
 
-(n) Administrative Conference of the United States.
+(n) ACTION Agency \[now Corporation for National and Community Service\].
 
-(<i>o</i>) Community Services Administration.
+(<i>o</i>) Administrative Conference of the United States.
 
-(p) Department of Education.
+(p) Community Services Administration.
 
-(q) Environmental Protection Agency.
+(q) Department of Education.
 
-(r) Equal Employment Opportunity Commission.
+(r) Environmental Protection Agency.
 
-(s) Federal Emergency Management Agency.
+(s) Equal Employment Opportunity Commission.
 
 (t) General Services Administration.
 
@@ -387,8 +391,6 @@ Definitions
 (b) agencies to the extent that their activities fall within the categories excepted in Sections 6(b)(2), (3), (4), and (6) of Executive Order No. 12044 \[5 U.S.C. 553 note\].
 
 (c) agencies to the extent that they demonstrate within 30 days of the date of issuance of this Order, to the satisfaction of the Chairperson with the advice of the Council, that their activities have no substantial impact upon consumers.
-
-Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13125. Increasing Opportunity and Improving Quality of Life of Asian Americans and Pacific Islanders
 

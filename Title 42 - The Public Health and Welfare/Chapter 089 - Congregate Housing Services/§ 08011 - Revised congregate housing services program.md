@@ -24,7 +24,7 @@
 
 &emsp;&emsp;(I) approximately 25 percent of congregate housing services program sites provide congregate services to young individuals with disabilities;
 
-&emsp;&emsp;(J) to the extent that institutionalized older adults do not need the full costly support provided by such care, public moneys could be more effectively spent providingthe necessary services in a noninstitutional setting; and
+&emsp;&emsp;(J) to the extent that institutionalized older adults do not need the full costly support provided by such care, public moneys could be more effectively spent providing the necessary services in a noninstitutional setting; and
 
 &emsp;&emsp;(K) the Congregate Housing Services Program, established by Congress in 1978, and similar programs providing in-home services have been effective in preventing unnecessary institutionalization and encouraging deinstitutionalization.
 
@@ -54,7 +54,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture (through Administrator of the Farmers Home Administration) shall enter into contracts with States, Indian tribes, units of general local government and local nonprofit housing sponsors, utilizing any amounts appropriated under subsection (n) of this section—
+&emsp;The Secretary of Housing and Urban Development and the Secretary of Agriculture (through Administrator of the Farmers HomeAdministration) shall enter into contracts with States, Indian tribes, units of general local government and local nonprofit housing sponsors, utilizing any amounts appropriated under subsection (n) of this section—
 
 &emsp;&emsp;(A) to provide congregate services programs for eligible project residents to promote and encourage maximum independence within a home environment for such residents capable of self-care with appropriate supportive services; or
 
@@ -128,7 +128,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 &emsp;Assistance under this section may be provided with respect to the employment of one or more individuals (hereinafter referred to as “service coordinator”) who may be responsible for—
 
-&emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> of this section on an ongoing basis to assess the service needs of eligible residents;
+&emsp;&emsp;(A) working with the professional assessment committee established under subsection (f) <sup>2</sup> of this section on an ongoingbasis to assess the service needs of eligible residents;
 
 &emsp;&emsp;(B) working with service providers and the professional assessment committee to tailor the provision of services to the needs and characteristics of eligible residents;
 
@@ -160,7 +160,7 @@ For each State, Indian tribe, unit of general local government, and nonprofit ho
 
 #### (ii) Less than full meal services
 
-&emsp;&emsp;&emsp;The fees for residents receiving meal services less frequently than as described in the preceding sentence shall be in anamount equal to 10 percent of such adjusted income of the project resident or the cost of providing the services, whichever is less.
+&emsp;&emsp;&emsp;The fees for residents receiving meal services less frequently than as described in the preceding sentence shall be in an amount equal to 10 percent of such adjusted income of the project resident or the cost of providing the services, whichever is less.
 
 #### (B) Other residents and nonresidents
 
@@ -402,7 +402,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) describing the activities being carried out with assistance under this section and the population being served by such activities;
 
-&emsp;&emsp;(B) evaluating the effectiveness of the program of providing assistance for congregate services under this section, and a comparison of the effectiveness of the program under this section with the HOPE for Elderly Independence Program under section 8012 of this title; and
+&emsp;&emsp;(B) evaluating the effectiveness of the program of providing assistance for congregateservices under this section, and a comparison of the effectiveness of the program under this section with the HOPE for Elderly Independence Program under section 8012 of this title; and
 
 &emsp;&emsp;(C) containing any other information that the Secretary concerned considers helpful to the Congress in evaluating the effectiveness of this section.
 

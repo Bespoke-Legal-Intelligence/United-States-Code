@@ -26,7 +26,7 @@ The Secretary of State shall designate one of the Assistant Secretaries of State
 
 #### (1) In general
 
-&emsp;The Assistant Secretary shall have as his principal responsibility the overall supervision (including oversight of policy and resources) within the Department of State of all matters relating to verification and compliance with international arms control, nonproliferation, and disarmament agreements or commitments.
+&emsp;The Assistant Secretary shall have as his principal responsibility the overall supervision (including oversight of policy and resources) within the Department of State of all mattersrelating to verification and compliance with international arms control, nonproliferation, and disarmament agreements or commitments.
 
 #### (2) Participation of the Assistant Secretary
 

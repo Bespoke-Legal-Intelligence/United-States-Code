@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary of Agriculture
 
-Within the boundaries of the Rattlesnake National Recreation Area and Rattlesnake Wilderness, the Secretary is authorized and directed to acquire with donated or appropriated funds including amounts appropriated from the Land and Water Conservation Fund, by exchange, gift, or purchase, such non-Federal lands, interests, or any other property, in conformance with the provisions of this section. Nothing in this subchapter shall be construed to limit or diminish the existing authority of the Secretary to acquire lands and interests therein within or contiguous to the Rattlesnake National Recreation Area or Rattlesnake Wilderness.
+Within the boundaries of the Rattlesnake National Recreation Area and Rattlesnake Wilderness, the Secretary is authorized and directed toacquire with donated or appropriated funds including amounts appropriated from the Land and Water Conservation Fund, by exchange, gift, or purchase, such non-Federal lands, interests, or any other property, in conformance with the provisions of this section. Nothing in this subchapter shall be construed to limit or diminish the existing authority of the Secretary to acquire lands and interests therein within or contiguous to the Rattlesnake National Recreation Area or Rattlesnake Wilderness.
 
 #### (b) Exchange of lands for bidding rights on coal lease sales or coal lease modifications; bidding rights as monetary credit; transfer or sale
 
@@ -24,7 +24,7 @@ The exchange of lands involving Burlington Northern, Inc. shall be in accordance
 
 (1) As non-Federal lands and interests in the Rattlesnake National Recreation Area are acquired,  the  lands  shall  become  part  of  the Rattlesnake National Recreation Area. As non-Federal lands and interests in the Rattlesnake Wilderness are acquired, the lands shall become part of the Rattlesnake Wilderness. The Secretary shall publish from time to time a notice of such classifications in the Federal Register. It is the intention of Congress that acquisition of the non-Federal lands shall be completed no later than three years after October 19, 1980.
 
-(2) Nothing in this subchapter shall be construed to permit the Secretary to affect or diminish any water right which is vested under either State or Federal law on October 19, 1980, nor the rights of the owner of such water rightto the customary and usual access, including necessary motorized use over and along existing roads and trails to any facilities used in connection therewith, and the right to operate and maintain such facilities.
+(2) Nothing in this subchapter shall be construed to permit the Secretary to affect or diminish any water right which is vested under either State or Federal law on October 19, 1980, nor the rights of the owner of such water right to the customary and usual access, including necessary motorized use over and along existing roads and trails to any facilities used in connection therewith, and the right to operate and maintain such facilities.
 
 #### (e) Exchange of land owned by Montana Power Company for bidding rights
 

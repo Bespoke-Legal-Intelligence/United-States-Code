@@ -4,7 +4,7 @@
 
 A local educational agency shall use grant funds received under this subchapter for one or more of the following activities:
 
-&emsp;(1) Identifying and assessing school violence and discipline problems, including coordinating needs assessment activities with education, law enforcement, judicial, health, social service, and other appropriate agencies and organizations, juvenile justice programs, and gang prevention activities.
+&emsp;(1) Identifying and assessing school violence and discipline problems, including coordinating needs assessment activities with education, law enforcement, judicial, health, social service, and other appropriate agenciesand organizations, juvenile justice programs, and gang prevention activities.
 
 &emsp;(2) Conducting school safety reviews or violence prevention reviews of programs, policies, practices, and facilities to determine what changes are needed to reduce or prevent violence and promote safety and discipline.
 

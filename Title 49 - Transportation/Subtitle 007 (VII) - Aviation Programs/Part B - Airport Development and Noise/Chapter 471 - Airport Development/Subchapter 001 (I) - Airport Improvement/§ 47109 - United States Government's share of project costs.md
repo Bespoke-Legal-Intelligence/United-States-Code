@@ -10,7 +10,7 @@ General.—Except as provided in subsection (b) of this section, the United Stat
 
 &emsp;(3) 90 percent for a project at any other airport;
 
-&emsp;(4) 40 percent for a project funded by the Administrator from the discretionary fund undersection 47115 at an airport receiving an exemption under section 47134; and
+&emsp;(4) 40 percent for a project funded by the Administrator from the discretionary fund under section 47115 at an airport receiving an exemption under section 47134; and
 
 &emsp;(5) for fiscal year 2002, 100 percent for a project described in section 47102(3)(J), 47102(3)(K), or 47102(3)(L).
 

@@ -8,7 +8,7 @@ The Congress finds that there is a continuing urgent need to protect children an
 
 &emsp;(2) Family preservation programs have been shown to provide extensive and intensive services to families in crisis.
 
-&emsp;(3) The time lines established by the Adoption and Safe Families Act of 1997 have made the prompt availability of services to address family problems (and in particular the prompt availability of appropriate services and treatment addressing substance abuse) an important factor in successful family reunification.
+&emsp;(3) The time lines established by the Adoption and Safe Families Act of 1997 have made the prompt availability of services to addressfamily problems (and in particular the prompt availability of appropriate services and treatment addressing substance abuse) an important factor in successful family reunification.
 
 &emsp;(4) The rapid increases in the annual number of adoptions since the enactment of the Adoption and Safe Families Act of 1997 have created a growing need for postadoption services and for service providers with the particular knowledge and skills required to address the unique issues adoptive families and children may face.
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Establishment of Program.—The Under Secretary shall establish a pilot program underwhich, upon approval of an application submitted by an operator of an airport, the screening of passengers and property at the airport under section 44901 will be carried out by the screening personnel of a qualified private screening company under a contract entered into with the Under Secretary.
+Establishment of Program.—The Under Secretary shall establish a pilot program under which, upon approval of an application submitted by an operator of an airport, the screening of passengers and property at the airport under section 44901 will be carried out by the screening personnel of a qualified private screening company under a contract entered into with the Under Secretary.
 
 (b)
 
@@ -41,6 +41,10 @@ Election.—If a contract is in effect with respect to screening at an airport u
 #### References in Text
 
 The date of enactment of this section, referred to in subsecs. (b) and (i), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, andof the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

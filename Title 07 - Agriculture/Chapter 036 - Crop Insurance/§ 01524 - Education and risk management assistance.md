@@ -22,7 +22,7 @@
 
 #### (A) Authority
 
-&emsp;&emsp;The Secretary, acting through the Cooperative State Research, Education, and Extension Service, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities, including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, and other risk management strategies.
+&emsp;&emsp;The Secretary, acting through the Cooperative State Research, Education, and Extension Service, shall establish a program under which competitive grants are made to qualified public and private entities (including land grant colleges, cooperative extension services, and colleges or universities), as determined by the Secretary, for the purpose of educating agricultural producers about the full range of risk management activities,including futures, options, agricultural trade options, crop insurance, cash forward contracting, debt reduction, production diversification, farm resources risk reduction, and other risk management strategies.
 
 #### (B) Basis for grants
 
@@ -48,11 +48,11 @@
 
 #### (1) Authority
 
-&emsp;The Secretary shall provide cost share assistance to producers, in a manner determined by the Secretary, in not less than 10, nor more than 15, States in which participation in the Federal crop insurance program is historically low, as determined by the Secretary.
+&emsp;The Secretary shall provide financial assistance to producers in the States of Connecticut, Delaware, Maryland, Massachusetts, Maine, Nevada, New Hampshire, New Jersey, New York, Pennsylvania, Rhode Island, Utah, Vermont, West Virginia, and Wyoming.
 
-#### (2) <sup>1</sup> Uses
+#### (2) Uses
 
-&emsp;A producer may use cost share assistance provided under this subsection to—
+&emsp;A producer may use financial assistance provided under this subsection to—
 
 &emsp;&emsp;(A) construct or improve—
 
@@ -62,25 +62,27 @@
 
 &emsp;&emsp;(B) plant trees to form windbreaks or to improve water quality;
 
-&emsp;&emsp;(C) mitigate financial risk through production diversification or resource conservation practices, including—
+&emsp;&emsp;(C) mitigate financial risk through production or marketing diversification or resource conservation practices, including—
 
 &emsp;&emsp;&emsp;(i) soil erosion control;
 
-&emsp;&emsp;&emsp;(ii) integrated pest management; or
+&emsp;&emsp;&emsp;(ii) integrated pest management;
 
-&emsp;&emsp;&emsp;(iii) transition to organic farming;
+&emsp;&emsp;&emsp;(iii) organic farming; or
+
+&emsp;&emsp;&emsp;(iv) to develop and implement a plan to create marketing opportunities for the producer, including through value-added processing;
 
 &emsp;&emsp;(D) enter into futures, hedging, or options contracts in a manner designed to help reduce production, price, or revenue risk;
 
 &emsp;&emsp;(E) enter into agricultural trade options as a hedging transaction to reduce production, price, or revenue risk; or
 
-&emsp;&emsp;(F) conduct any other activity related to the activities described in subparagraphs (A) through (E), as determined by the Secretary.
+&emsp;&emsp;(F) conduct any other activity relating to an activity described in subparagraphs (A) through (E), as determined by the Secretary.
 
-#### (2) <sup>1</sup> Payment limitation
+#### (3) Payment limitation
 
-&emsp;The total amount of payments made to a person (as defined in section 1308(5) of this title) under this subsection for any year may not exceed $50,000.
+&emsp;The total amount of payments made to a person (as defined in section 1308(5) <sup>1</sup> of this title) under this subsection for any year may not exceed $50,000.
 
-#### (3) Commodity Credit Corporation
+#### (4) Commodity Credit Corporation
 
 #### (A) In general
 
@@ -88,9 +90,69 @@
 
 #### (B) Funding
 
-&emsp;&emsp;The Commodity Credit Corporation shall make available to carry out this subsection $10,000,000 for fiscal year 2001 and each subsequent fiscal year.
+#### (i) In general
 
-(Feb. 16, 1938, ch. 30, title V, §524, as added Pub. L. 106–224, title I, §133, June 20, 2000, 114 Stat. 387.)
+&emsp;&emsp;&emsp;Except as provided in clause (ii), the Commodity Credit Corporation shall make available to carry out this subsection not less than $10,000,000 for each fiscal year.
+
+#### (ii) Exception
+
+&emsp;&emsp;&emsp;For each of fiscal years 2003 through 2007, the Commodity Credit Corporation shall make available to carry out this subsection $20,000,000.
+
+(Feb. 16, 1938, ch. 30, title V, §524, as added Pub. L. 106–224, title I, §133, June 20, 2000, 114 Stat. 387; amended Pub. L. 107–171, title II, §2501, May 13, 2002, 116 Stat. 263.)
+
+#### References in Text
+
+Section 1308(5) of this title, referred to in subsec. (b)(3), was redesignated section 1308(e) by Pub. L. 107–171, title I, §1603(b)(1), May 13, 2002, 116 Stat. 214.
+
+#### Amendments
+
+2002—Subsec. (b). Pub. L. 107–171 added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows:
+
+“(1)
+
+Authority.—The Secretary shall provide cost share assistance to producers, in a manner determined by the Secretary, in not less than 10, nor more than 15, States in which participation in the Federal crop insurance program is historically low, as determined by the Secretary.
+
+“(2)
+
+Uses.—A producer may use cost share assistance provided under this subsection to—
+
+&emsp;“(A) construct or improve—
+
+&emsp;&emsp;“(i) watershed management structures; or
+
+&emsp;&emsp;“(ii) irrigation structures;
+
+&emsp;“(B) plant trees to form windbreaks or to improve water quality;
+
+&emsp;“(C) mitigate financial risk through production diversification or resource conservation practices, including—
+
+&emsp;&emsp;“(i) soil erosion control;
+
+&emsp;&emsp;“(ii) integrated pest management; or
+
+&emsp;&emsp;“(iii) transition to organic farming;
+
+&emsp;“(D) enter into futures, hedging, or options contracts in a manner designed to help reduce production, price, or revenue risk;
+
+&emsp;“(E) enter into agricultural trade options as a hedging transaction to reduce production, price, or revenue risk; or
+
+&emsp;“(F) conduct any other activity related to the activities described in subparagraphs (A) through (E), as determined by the Secretary.”
+
+“(2)
+
+Payment limitation.—The total amount of payments made to a person (as defined in section 1308(5) of this title) under this subsection for any year may not exceed $50,000.
+
+“(3)
+
+Commodity credit corporation.—
+
+&emsp;“(A)
+
+In general.—The Secretary shall carry out this subsection through the Commodity Credit Corporation.
+
+&emsp;“(B)
+
+Funding.—The Commodity Credit Corporation shall make available to carry out this subsection $10,000,000 for fiscal year 2001 and each subsequent fiscal year.”
 
 #### Effective Date
 

@@ -52,7 +52,7 @@
 
 #### (2) National clearinghouse
 
-&emsp;In carrying out subsection (a)(1) of this section, the Secretary shall establish and maintain a National Information Clearinghouse on Birth Defects to collect and disseminate to health professionals and the general public information on birth defects, including the prevention of such defects.
+&emsp;In carrying out subsection (a)(1) of this section, the Secretary shall establish and maintain a National Information Clearinghouse onBirth Defects to collect and disseminate to health professionals and the general public information on birth defects, including the prevention of such defects.
 
 #### (c) Grants and contracts
 
@@ -90,7 +90,7 @@ The provisions of this section shall be subject to the requirements of section 5
 
 #### (f) Authorization of appropriations
 
-For the purpose of carrying out this section, there are authorized to be appropriated$30,000,000 for fiscal year 1999, $40,000,000 for fiscal year 2000, and such sums as may be necessary for each of the fiscal years 2001 and 2002.
+For the purpose of carrying out this section, there are authorized to be appropriated $30,000,000 for fiscal year 1999, $40,000,000 for fiscal year 2000, and such sums as may be necessary for each of the fiscal years 2001 and 2002.
 
 (July 1, 1944, ch. 373, title III, §317C, as added Pub. L. 102–531, title III, §306(a), Oct. 27, 1992, 106 Stat. 3494; amended Pub. L. 103–43, title XX, §2008(i)(1)(B)(iii), June 10, 1993, 107 Stat. 213; Pub. L. 105–168, §2, Apr. 21, 1998, 112 Stat. 43; Pub. L. 106–310, div. A, title VI, §611, Oct. 17, 2000, 114 Stat. 1119.)
 

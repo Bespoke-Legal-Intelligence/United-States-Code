@@ -1,6 +1,6 @@
 ### §957. Possession of property in aid of foreign government
 
-Whoever, in aid of any foreign government, knowingly and willfully possesses or controls any property or papers used or designed or intended for use in violating any penal statute, or any of the rights or obligations of the United States under any treaty or the law of nations, shall be fined under this title or imprisoned not more than ten years, or both.
+Whoever, in aid of any foreign government, knowingly and willfully possesses or controlsany property or papers used or designed or intended for use in violating any penal statute, or any of the rights or obligations of the United States under any treaty or the law of nations, shall be fined under this title or imprisoned not more than ten years, or both.
 
 (June 25, 1948, ch. 645, 62 Stat. 745; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
 
@@ -20,5 +20,5 @@ Minor changes were made in phraseology.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1717 of this title.
+This section is referred to in section 1717 of this title.
 

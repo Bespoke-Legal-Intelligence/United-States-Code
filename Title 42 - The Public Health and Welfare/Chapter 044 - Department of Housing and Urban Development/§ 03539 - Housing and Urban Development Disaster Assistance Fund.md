@@ -20,6 +20,8 @@ Section was formerly classified to section 4413a of this title.
 
 #### Transfer of Functions
 
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 “President” substituted in text for “Director of the Office of Emergency Preparedness” pursuant to section 1 of Reorganization Plan No. 1 of 1973, eff. July 1, 1973, 38 F.R. 9579, 87 Stat. 1089, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Previously, functions of Director of Office of Emergency Preparedness under Disaster Relief Act of 1970, transferred to President by Reorg. Plan No. 1 of 1973, had been transferred to Secretary of Housing and Urban Development by Ex. Ord. No. 11749, Dec. 10, 1973, 38 F.R. 34177, which superseded Ex. Ord. No. 11725, June 27, 1973, 38 F.R. 17175, which had provided for a similar transfer to Secretary of Housing and Urban Development. Both of these Executive Orders were subsequently revoked, see Delegation of Functions note below.
@@ -28,5 +30,5 @@ Office of Emergency Preparedness \[formerly Office of Emergency Planning\], incl
 
 #### Delegation of Functions
 
-Functions of President under Disaster Relief Act of 1970 delegated to Director of Federal Emergency Management Agency by section 4–201 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, set out as a note under section 5195 of this title. Sections 5–112 and 5–113 of Ex. Ord. No. 12148, revoked Ex. Ord. Nos. 11725 and 11749, respectively, which had previously transferred President's functions under Disaster Relief Act of 1970 to Secretary of Housing and Urban Development. See Transfer of Functions note above.
+Functions of President under Disaster Relief Act of 1970 delegated to Secretary of Homeland Security by section 4–201 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under section 5195 of this title. Sections 5–112 and 5–113 of Ex. Ord. No. 12148, revoked Ex. Ord. Nos. 11725 and 11749, respectively, which had previously transferred President's functions under Disaster Relief Act of 1970 to Secretary of Housing and Urban Development. See Transfer of Functions note above.
 

@@ -2,7 +2,7 @@
 
 #### Codification
 
-Section, Pub. L. 102–391, title V, §532, Oct. 6, 1992, 106 Stat. 1666, which related to involvement of Multilateral Development Banks in promoting environmental and energy initiatives and required reports to Congress on progress in meeting benchmarks in sustainable energy development, forest conservation, forced displacement of populations, and environmental impact assessment, was from the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1993, and was omitted from the Code as not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
+Section, Pub. L. 102–391, title V, §532, Oct. 6, 1992, 106 Stat. 1666, which related to involvement of MultilateralDevelopment Banks in promoting environmental and energy initiatives and required reports to Congress on progress in meeting benchmarks in sustainable energy development, forest conservation, forced displacement of populations, and environmental impact assessment, was from the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1993, and was omitted from the Code as not repeated in subsequent appropriation acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 101–513, title V, §533, Nov. 5, 1990, 104 Stat. 2013, as amended by Pub. L. 102–27, title III, §308, Apr. 10, 1991, 105 Stat. 152.
 

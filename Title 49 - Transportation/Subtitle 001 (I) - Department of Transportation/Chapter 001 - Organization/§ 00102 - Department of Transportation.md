@@ -10,13 +10,13 @@
 
 &emsp;(2) acts for the Secretary when the Secretary is absent or unable to serve or when the office of Secretary is vacant.
 
-(d) The Department has an Associate Deputy Secretary appointed by the President, by and with the advice and consent of the Senate. The Associate Deputy Secretary shall carry out powers and duties prescribed by the Secretary.
+(d) The Department has an Under Secretary of Transportation for Policy appointed by the President, by and with the advice and consent of the Senate. The Under Secretary shall provide leadership in the development of policy for the Department, supervise the policy activities of Assistant Secretaries with primary responsibility for aviation, international, and other transportation policy development and carry out other powers and duties prescribed by the Secretary. The Under Secretary acts for the Secretary when the Secretary and the Deputy Secretary are absent or unable to serve, or when the offices of Secretary and Deputy Secretary are vacant.
 
-(e) The Department has 4 Assistant Secretaries and a General Counsel appointed by the President, by and with the advice and consent of the Senate. The Department also has an Assistant Secretary of Transportation for Administration appointed in the competitive service by the Secretary, with the approval of the President. They shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary or the General Counsel, in the order prescribed by the Secretary, acts for the Secretary when the Secretary and the Deputy Secretary are absent or unable to serve, or when the offices of the Secretary and Deputy Secretary are vacant.
+(e) The Department has 4 Assistant Secretaries and a General Counsel appointed by the President, by and with the advice and consent of the Senate. The Department also has an Assistant Secretary of Transportation for Administration appointed in the competitive service by the Secretary, with the approval of the President. They shall carry out duties and powers prescribed by the Secretary. An Assistant Secretary or the General Counsel, in the order prescribed by the Secretary, acts for the Secretary when the Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy are absent or unable to serve, or when the offices of the Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy are vacant.
 
 (f) The Department shall have a seal that shall be judicially recognized.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–557, §26(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 103–272, §4(j)(1), July 5, 1994, 108 Stat. 1365.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–557, §26(a), Oct. 30, 1984, 98 Stat. 2873; Pub. L. 103–272, §4(j)(1), July 5, 1994, 108 Stat. 1365; Pub. L. 107–295, title II, §215(a), (c), Nov. 25, 2002, 116 Stat. 2101, 2102.)
 
 Historical and Revision Notes
 
@@ -66,9 +66,21 @@ In subsection (e), the words “The Secretary shall cause a . . . of office”
 
 #### Amendments
 
+2002—Subsec. (d). Pub. L. 107–295, §215(a)(2), added subsec. (d). Former subsec. (d) redesignated (g).
+
+Subsec. (e). Pub. L. 107–295, §215(a)(3), which directed the substitution of “Secretary, Deputy Secretary, and Under Secretary of Transportation for Policy” for “Secretary and the Deputy Secretary” each place it appears in last sentence, was executed by making substitution for “Secretary and the Deputy Secretary” before “are absent” and for “Secretary and Deputy Secretary” before “are vacant”, to reflect the probable intent of Congress.
+
+Subsec. (g). Pub. L. 107–295, §215(c), struck out subsec. (g) which read as follows: “The Department has an Associate Deputy Secretary appointed by the President, by and with the advice and consent of the Senate. The Associate Deputy Secretary shall carry out powers and duties prescribed by the Secretary.”
+
+Pub. L. 107–295, §215(a)(1), redesignated subsec. (d) as (g).
+
 1994—Subsecs. (e), (f). Pub. L. 103–272 redesignated subsec. (e), relating to judicial recognition of Department seal, as (f).
 
 1984—Subsecs. (d), (e). Pub. L. 98–557 added subsec. (d) and redesignated former subsec. (d), relating to Assistant Secretaries and General Counsel, as (e).
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–295, title II, §215(c), Nov. 25, 2002, 116 Stat. 2102, provided that the amendment to this section made by section 215(c) is effective on the date that an individual is appointed to the position of Under Secretary of Transportation for Policy under subsection (d) of this section. On Mar. 19, 2003, the United States Senate confirmed the appointment of the first Under Secretary of Transportation for Policy.
 
 #### Notice
 

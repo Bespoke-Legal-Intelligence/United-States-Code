@@ -92,7 +92,7 @@ Pub. L. 106–31, title V, §5004(4), May 21, 1999, 113 Stat. 110, provided that
 
 #### Congressional Intent of 1998 Amendment
 
-Pub. L. 105–277, div. A, §101(e) \[title III, §354(b)\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–303, provided that: “Theamendment made by subsection (a) \[amending this section\]—
+Pub. L. 105–277, div. A, §101(e) \[title III, §354(b)\], Oct. 21, 1998, 112 Stat. 2681–231, 2681–303, provided that: “The amendment made by subsection (a) \[amending this section\]—
 
 &emsp;“(1) is intended to achieve the intent of Congress set forth in Public Law 98–396 \[see Tables for classification\]; and
 

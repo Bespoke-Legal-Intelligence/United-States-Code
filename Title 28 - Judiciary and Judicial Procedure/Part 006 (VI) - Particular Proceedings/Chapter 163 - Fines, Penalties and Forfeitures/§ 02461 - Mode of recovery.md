@@ -4,13 +4,13 @@
 
 (b) Unless otherwise provided by Act of Congress, whenever a forfeiture of property is prescribed as a penalty for violation of an Act of Congress and the seizure takes place on the high seas or on navigable waters within the admiralty and maritime jurisdiction of the United States, such forfeiture may be enforced by libel in admiralty but in cases of seizures on land the forfeiture may be enforced by a proceeding by libel which shall conform as near as may be to proceedings in admiralty.
 
-(c) If a forfeiture of property is authorized in connection with a violation of an Act of Congress, and any person is charged in an indictment or information with such violation but no specific statutory provision is made for criminal forfeiture upon conviction, the Government may include the forfeiture in the indictment or information in accordance with the Federal Rules of Criminal Procedure, and upon conviction, the court shall order the forfeiture of the property in accordance with the procedures set forth in section 413 of the Controlled Substances Act (21 U.S.C. 853), other than subsection (d) of that section.
+(c) If a forfeiture of property is authorized in connection with a violation of an Act of Congress, and any person is charged in an indictment or information with such violation but no specific statutory provision is made for criminal forfeiture upon conviction, the Government may include the forfeiture in the indictment or information in accordance with the Federal Rules of Criminal Procedure, and upon conviction, thecourt shall order the forfeiture of the property in accordance with the procedures set forth in section 413 of the Controlled Substances Act (21 U.S.C. 853), other than subsection (d) of that section.
 
 (June 25, 1948, ch. 646, 62 Stat. 974; Pub. L. 106–185, §16, Apr. 25, 2000, 114 Stat. 221.)
 
 #### Historical and Revision Notes
 
-Subsection (a) was drafted to clarify a serious ambiguity in existing law and is based upon rulings of the Supreme Court. Numerous sections in the United States Code prescribe civil fines, penalties, and pecuniary forfeitures for violation of certain sections without specifying the mode of recovery or enforcement thereof. See, for example, section 567 of title 12, U.S.C., 1940 ed., Banks and Banking, section 64 of title 14,U.S.C., 1940 ed., Coast Guard, and section 180 of title 25, U.S.C., 1940 ed., Indians. Compare section 1 (21) of title 49, U.S.C., 1940 ed., Transportation.
+Subsection (a) was drafted to clarify a serious ambiguity in existing law and is based upon rulings of the Supreme Court. Numerous sections in the United States Code prescribe civil fines, penalties, and pecuniary forfeitures for violation of certain sections without specifying the mode of recovery or enforcement thereof. See, for example, section 567 of title 12, U.S.C., 1940 ed., Banks and Banking, section 64 of title 14, U.S.C., 1940 ed., Coast Guard, and section 180 of title 25, U.S.C., 1940 ed., Indians. Compare section 1 (21) of title 49, U.S.C., 1940 ed., Transportation.
 
 A civil fine, penalty, or pecuniary forfeiture is recoverable in a civil action. <i>United States ex rel. Marcus v. Hess</i> et al., 1943, 63 S.Ct. 379, 317 U.S. 537, 87 L.Ed. 433, rehearing denied 63 S.Ct. 756, 318 U.S. 799, 87 L.Ed. 1163; <i>Hepner v. United States</i>, 1909, 29 S.Ct. 474, 213 U.S. 103, 53 L.Ed. 720, and cases cited therein.
 
@@ -32,7 +32,7 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (c), are set out
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c). Pub. L. 106–185 added subsec. (c).
+2000—Subsec. (c). Pub. L. 106–185 added subsec. (c).
 
 #### Effective Date of 2000 Amendment
 

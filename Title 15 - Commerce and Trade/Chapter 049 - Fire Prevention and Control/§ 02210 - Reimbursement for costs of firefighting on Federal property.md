@@ -20,7 +20,7 @@ The Director shall forward the claim and a copy of the Administrator's determina
 
 #### (d) Adjudication
 
-In the case of a dispute arising in connection with a claim under this section, the United States Court of Federal Claims shall have jurisdiction to adjudicate the claim and enter judgment accordingly.
+In the case of a dispute arising in connection with a claim under this section, the UnitedStates Court of Federal Claims shall have jurisdiction to adjudicate the claim and enter judgment accordingly.
 
 (Pub. L. 93–498, §11, Oct. 29, 1974, 88 Stat. 1543; Pub. L. 97–164, title I, §146, Apr. 2, 1982, 96 Stat. 45; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 106–503, title I, §110(a)(2)(B)(iii), Nov. 13, 2000, 114 Stat. 2302.)
 
@@ -41,6 +41,8 @@ Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. 
 Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L. 97–164, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 

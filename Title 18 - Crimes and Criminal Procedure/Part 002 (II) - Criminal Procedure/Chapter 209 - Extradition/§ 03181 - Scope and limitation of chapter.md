@@ -146,6 +146,7 @@ The United States currently has bilateral extradition treaties with the followin
 | Canada DDec. 3, 1971 DMar. 22, 1976 D27 UST 983. |  |  |  |
 | &nbsp; | June 28, July 9, 1974 | Mar. 22, 1976 | 27 UST 1017. |
 | &nbsp; | Jan. 11, 1988 | Nov. 26, 1991 | TIAS. |
+| &nbsp; | Jan. 12, 2001 | Apr. 30, 2003 | &nbsp; |
 | Chile | Apr. 17, 1900 | June 26, 1902 | 32 Stat. 1850. |
 | Colombia | Sept. 14, 1979 | Mar. 4, 1982 | TIAS. |
 | Congo DJan. 6, 1909 DJuly 27, 1911 D37 Stat. 1526. |  |  |  |
@@ -206,8 +207,7 @@ The United States currently has bilateral extradition treaties with the followin
 | Lesotho | Dec. 22, 1931 | June 24, 1935 | 47 Stat. 2122. |
 | Liberia | Nov. 1, 1937 | Nov. 21, 1939 | 54 Stat. 1733. |
 | Liechtenstein | May 20, 1936 | June 28, 1937 | 50 Stat. 1337. |
-| Lithuania DApr. 9, 1924 DAug. 23, 1924 D43 Stat. 1835. |  |  |  |
-| &nbsp; | May 17, 1934 | Jan. 8, 1935 | 49 Stat. 3077. |
+| Lithuania DOct. 23, 2001 DMar. 31, 2003 D&nbsp; |  |  |  |
 | Luxembourg | Oct. 1, 1996 | Feb. 1, 2002 | &nbsp; |
 | Malawi DDec. 22, 1931 DJune 24, 1935 D47 Stat. 2122. |  |  |  |
 | &nbsp; |  | Apr. 4, 1967 | 18 UST 1822. |
@@ -227,7 +227,7 @@ The United States currently has bilateral extradition treaties with the followin
 | Panama | May 25, 1904 | May 8, 1905 | 34 Stat. 2851. |
 | Papua New Guinea | Dec. 22, 1931 | Aug. 30, 1935 | 47 Stat. 2122. |
 | Paraguay | Nov. 9, 1998 | Mar. 9, 2001 | &nbsp; |
-| Peru | Nov. 28, 1899 | Feb. 22, 1901 | 31 Stat. 1921. |
+| Peru | July 26, 2001 | Aug. 25, 2003 | &nbsp; |
 | Philippines | Nov. 13, 1994 | Nov. 22, 1996 | &nbsp; |
 | Poland DJuly 10, 1996 DSept. 17, 1999 D&nbsp; |  |  |  |
 | &nbsp; | Apr. 5, 1935 | June 5, 1936 | 49 Stat. 3394. |
@@ -284,5 +284,5 @@ Other states which have become parties: Argentina, Chile, Colombia, Dominican Re
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3184 of this title.
+This section is referred to in section 3184 of this title; title 22 section 7432.
 

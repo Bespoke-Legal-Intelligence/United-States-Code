@@ -20,7 +20,7 @@ The penalties established by this section shall be in addition to other criminal
 
 Upon receipt of—
 
-&emsp;(1) a written complaint from an officer, employee, or agent of the Forest Service, Bureau of Land Management, National Park Service, United States Fish and Wildlife Service, or other Federal agency that a person violated section 5201 of this title; or
+&emsp;(1) a written complaint from an officer, employee, or agent of the Forest Service, Bureau of Land Management, National Park Service, United States Fish and Wildlife Service, orother Federal agency that a person violated section 5201 of this title; or
 
 &emsp;(2) a sworn affidavit from an individual and a determination by the Secretary that the statement contains sufficient factual allegations to create a reasonable belief that a violation of section 5201 of this title has occurred;
 

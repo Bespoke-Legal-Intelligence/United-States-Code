@@ -44,7 +44,7 @@ Changes were made in phraseology and arrangement.
 
 #### 1949 Act
 
-This amendment \[see section 45\] restates and clarifies the first paragraph of section 2314 of title 18, U.S.C., to conform to the original law upon which the section is based.
+This amendment \[see section 45\] restates and clarifies the first paragraph of section 2314 of title 18, U.S.C., toconform to the original law upon which the section is based.
 
 #### Amendments
 

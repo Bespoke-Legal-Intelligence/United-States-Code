@@ -140,5 +140,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 402a, 438, 1802, 1804, 1805, 1810, 1821, 1822, 1823, 1824, 1828, 1841 of this title; title 18 sections 794, 2511; title 22 section 1442a; title 42 section 10603b.
+This section is referred to in sections 402a, 438, 1802, 1804, 1805, 1810, 1821, 1822, 1823, 1824, 1828, 1841 of this title; title 7 section 8401; title 18 sections 794, 2511; title 22 section 1442a; title 42 sections 262a, 10603b.
 

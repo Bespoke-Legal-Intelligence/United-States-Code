@@ -32,13 +32,13 @@
 
 &emsp;&emsp;(iii) the right to direct the transfer, operation or manning of a vessel with a fishery endorsement; and
 
-&emsp;(B) shall not include the right to simply participate in the activities under subparagraph (A), or the exercise of rights under loan or mortgage covenants by a mortgagee eligible to be a preferred mortgagee under section 31322(a) of this title, provided that a mortgagee not eligible to own a vessel with a fishery endorsement may only operate such a vessel to the extent necessary for the immediate safety of the vessel or for repairs, drydocking or berthing changes.
+&emsp;(B) shall not include the right to simply participate in the activities under subparagraph (A), or the exercise of rights under loan or mortgage covenants by a mortgagee eligible to be a preferred mortgagee under section 31322(a) of this title, provided that a mortgagee not eligible to own a vessel with a fishery endorsement may only operate such a vesselto the extent necessary for the immediate safety of the vessel or for repairs, drydocking or berthing changes.
 
 (3) A fishery endorsement for a vessel that is chartered or leased to an individual who is not a citizen of the United States or to an entity that is not eligible to own a vessel with a fishery endorsement and used as a fishing vessel shall be invalid immediately upon such use.
 
 (4) The requirements of this subsection shall not apply to a vessel when it is engaged in fisheries in the exclusive economic zone under the authority of the Western Pacific Fishery Management Council established under section 302(a)(1)(H) of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1852(a)(1)(H)) or to a purse seine vessel when it is engaged in tuna fishing in the Pacific Ocean outside the exclusive economic zone of the United States or pursuant to the South Pacific Regional Fisheries Treaty, provided that the owner of the vessel continues to comply with the eligibility requirements for a fishery endorsement under the federal <sup>1</sup> law that was in effect on October 1, 1998. A fishery endorsement issued by the Secretary pursuant to this paragraph shall be valid for engaging only in fisheries in the exclusive economic zone under the authority of such Council, in such tuna fishing in the Pacific Ocean, or pursuant to such Treaty.
 
-(5) A vessel greater than 165 feet in registered length, of more than 750 gross registered tons, or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower is not eligible for a fishery endorsement under section 12108 of this title unless—
+(5) A vessel greater than 165 feet in registered length, of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons as <sup>2</sup> measured under chapter 143 of that title), or that has an engine or engines capable of producing a total of more than 3,000 shaft horsepower is not eligible for a fishery endorsement under section 12108 of this title unless—
 
 &emsp;(A)(i) a certificate of documentation was issued for the vessel and endorsed with a fishery endorsement that was effective on September 25, 1997;
 
@@ -62,7 +62,7 @@
 
 (4) If a person chartering a vessel from a trust that is qualified under paragraph (2) of this subsection is a citizen of the United States under section 2 of the Shipping Act, 1916 (46 App. U.S.C. 802), then the vessel is deemed to be owned by a citizen of the United States for purposes of that section and related laws, except for subtitle B of title VI of the Merchant Marine Act, 1936.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 99–509, title V, §5102(b)(6), Oct. 21, 1986, 100 Stat. 1927; Pub. L. 100–239, §7(a), Jan. 11, 1988, 101 Stat. 1782; Pub. L. 100–710, title I, §104(a)(4), (5), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(2), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 104–324, title XI, §1136(a), Oct. 19, 1996, 110 Stat. 3986; Pub. L. 105–277, div. C, title II, §202(a), Oct. 21, 1998, 112 Stat. 2681–617; Pub. L. 105–383, title IV, §§401(a)(1), 421, Nov. 13, 1998, 112 Stat. 3424, 3439; Pub. L. 107–20, title II, §2202(a), July 24, 2001, 115 Stat. 168.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 99–509, title V, §5102(b)(6), Oct. 21, 1986, 100 Stat. 1927; Pub. L. 100–239, §7(a), Jan. 11, 1988, 101 Stat. 1782; Pub. L. 100–710, title I, §104(a)(4), (5), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(2), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 104–324, title XI, §1136(a), Oct. 19, 1996, 110 Stat. 3986; Pub. L. 105–277, div. C, title II, §202(a), Oct. 21, 1998, 112 Stat. 2681–617; Pub. L. 105–383, title IV, §§401(a)(1), 421, Nov. 13, 1998, 112 Stat. 3424, 3439; Pub. L. 107–20, title II, §2202(a), July 24, 2001, 115 Stat. 168; Pub. L. 107–206, title I, §1103, Aug. 2, 2002, 116 Stat. 884.)
 
 Historical and Revision Notes
 
@@ -74,7 +74,7 @@ Historical and Revision Notes
 
 46:65b
 
-Section 12102 provides that vessels of at least five net tons, not registered under the laws of a foreign nation, are eligible for documentation if certain ownership requirements are met, and lists the ownership requirements.
+Section 12102 provides that vessels of at least five net tons, not registered under the laws of a foreign nation,are eligible for documentation if certain ownership requirements are met, and lists the ownership requirements.
 
 #### References in Text
 
@@ -85,6 +85,8 @@ Such Act, referred to in subsec. (c)(5)(B), probably means the Magnuson-Stevens 
 The Merchant Marine Act, 1936, referred to in subsec. (d)(4), is act June 29, 1936, ch. 858, 49 Stat. 1985, as amended. Subtitle B of title VI of the Act is classified generally to part B (§1187 et seq.) of subchapter VI of chapter 27 of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1245 of Title 46, Appendix, and Tables.
 
 #### Amendments
+
+2002—Subsec. (c)(5). Pub. L. 107–206, which directed amendment of title II of division C of Public Law 105–277 by substituting “of more than 750 gross registered tons (as measured under chapter 145 of title 46) or 1,900 gross registered tons as measured under chapter 143 of that title)” for “of more than 750 gross registered tons” each place appearing, was executed by amending subsec. (c)(5) of this section, to reflect the probable intent of Congress. See 1998 Amendment note below.
 
 2001—Subsec. (c)(2)(B). Pub. L. 107–20, §2202(a)(1), substituted “or the exercise of rights under loan or mortgage covenants by a mortgagee eligible to be a preferred mortgagee under section 31322(a) of this title, provided that a mortgagee not eligible to own a vessel with a fishery endorsement may only operate such a vessel to the extent necessary for the immediate safety of the vessel or for repairs, drydocking or berthing changes” for “or the use by a mortgagee under paragraph (4) of loan covenants approved by the Secretary”.
 
@@ -112,9 +114,9 @@ Subsec. (c)(4) to (6). Pub. L. 107–20, §2202(a)(2), which directed amendment 
 
 Subsec. (a)(4). Pub. L. 105–383, §421, struck out “president or other” after “a State, whose” and inserted “, by whatever title,” after “chief executive officer”.
 
-Subsec. (c). Pub. L. 105–277 amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+Subsec. (c). Pub. L. 105–277, §202(a), as amended by Pub. L. 107–206, amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
 
-“(c)(1) A vessel owned by a corporation is not eligible for a fishery endorsement under section 12108 of this title unless the controlling interest (as measured by a majority of voting shares in that corporation) is owned by individuals who are citizens of the United States. However, if the corporation is owned in whole or inpart by other United States corporations, the controlling interest in those corporations, in the aggregate, must be owned by individuals who are citizens of the United States.
+“(c)(1) A vessel owned by a corporation is not eligible for a fishery endorsement under section 12108 of this title unless the controlling interest (as measured by a majority of voting shares in that corporation) is owned by individuals who are citizens of the United States. However, if the corporation is owned in whole or in part by other United States corporations, the controlling interest in those corporations, in the aggregate, must be owned by individuals who are citizens of the United States.
 
 “(2) The Secretary shall apply the restrictions on controlling interest in section 2(b) of the Shipping Act, 1916 (46 App. U.S.C. 802(b)) when applying this subsection.”
 
@@ -140,7 +142,7 @@ Pub. L. 105–277, div. C, title II, §203(a), Oct. 21, 1998, 112 Stat. 2681–6
 
 #### Effective Date of 1989 Amendment
 
-Amendments by section 301(a)(2) of Pub. L. 101–225 effective Jan. 1, 1989, except that amendment by section 301(a)(2)(A) inapplicable to a vessel titled in a State until one year after the Secretary of Transportation prescribes guidelines for a titling system under section 13106(b)(8) of this title, see section 309(b)(1) of Pub. L. 101–225, set out as a note under section 12101 of this title.
+Amendments by section 301(a)(2) of Pub. L. 101–225 effective Jan. 1, 1989, except that amendment by section301(a)(2)(A) inapplicable to a vessel titled in a State until one year after the Secretary of Transportation prescribes guidelines for a titling system under section 13106(b)(8) of this title, see section 309(b)(1) of Pub. L. 101–225, set out as a note under section 12101 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -190,7 +192,9 @@ Pub. L. 100–111, Aug. 20, 1987, 101 Stat. 733, as amended by Pub. L. 100–151
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12106, 12112, 12122, 31322, 31329 of this title; section 1704 of Appendix to this title.
+This section is referred to in sections 12103a, 12106, 12112, 12122, 31322, 31329 of this title; section 1704 of Appendix to this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “(as”.</i>
 

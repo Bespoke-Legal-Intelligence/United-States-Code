@@ -20,7 +20,7 @@
 
 &emsp;(1) is not entitled to pay from the agency, except to the extent that the pay received from the State or local government is less than the appropriate rate of pay which the duties would warrant under the applicable pay provisions of this title or other applicable authority;
 
-&emsp;(2) is deemed an employee of the agency for the purpose of chapter 73 of this title, sections 203, 205, 207, 208, 209, 602, 603, 606, 607, 643, 654, 1905, and 1913 of title 18, sections 1343, 1344, and1349(b) of title 31, and the Federal Tort Claims Act and any other Federal tort liability statute; and
+&emsp;(2) is deemed an employee of the agency for the purpose of chapter 73 of this title, the Ethics in Government Act of 1978, section 27 of the Office of Federal Procurement Policy Act, sections 203, 205, 207, 208, 209, 602, 603, 606, 607, 643, 654, 1905, and 1913 of title 18, sections 1343, 1344, and 1349(b) of title 31, and the Federal Tort Claims Act and any other Federal tort liability statute; and
 
 &emsp;(3) is subject to such regulations as the President may prescribe.
 
@@ -30,13 +30,19 @@
 
 (e) If a State or local government fails to continue the employer's contribution to State or local government retirement, life insurance, and health benefit plans for a State or local government employee who is given an appointment in a Federal agency, the employer's contributions covering the State or local government employee's period of assignment, or any part thereof, may be made from the appropriations of the Federal agency concerned.
 
-(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1923; amended Pub. L. 95–454, title VI, §603(b), (d), Oct. 13, 1978, 92 Stat. 1190; Pub. L. 97–258, §3(a)(6), Sept. 13, 1982, 96 Stat. 1063.)
+(Added Pub. L. 91–648, title IV, §402(a), Jan. 5, 1971, 84 Stat. 1923; amended Pub. L. 95–454, title VI, §603(b), (d), Oct. 13, 1978, 92 Stat. 1190; Pub. L. 97–258, §3(a)(6), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 107–107, div. A, title XI, §1117, Dec. 28, 2001, 115 Stat. 1241.)
 
 #### References in Text
+
+The Ethics in Government Act of 1978, referred to in subsec. (c)(2), is Pub. L. 95–521, Oct. 26, 1978, 92 Stat. 1824, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 101 of Pub. L. 95–521 in the Appendix to this title and Tables.
+
+Section 27 of the Office of Federal Procurement Policy Act, referred to in subsec. (c)(2), is classified to section 423 of Title 41, Public Contracts.
 
 The Federal Tort Claims Act, referred to in subsec. (c)(2), is classified to sections 1346(b) and 2671 et seq. of Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+2001—Subsec. (c)(2). Pub. L. 107–107 inserted “the Ethics in Government Act of 1978, section 27 of the Office of Federal Procurement Policy Act,” after “chapter 73 of this title,”.
 
 1982—Subsec. (c)(2). Pub. L. 97–258 substituted “sections 1343, 1344, and 1349(b)” for “section 638a”.
 

@@ -16,7 +16,7 @@
 
 > shall be eligible to receive an educational assistance allowance at the appropriate rate provided in paragraph (2) of this subsection, if such eligible person is concurrently engaged in agricultural employment which is relevant to such institutional agricultural courses as determined under standards prescribed by the Secretary. In computing the foregoing clock hour requirements there shall be included the time involved in field trips and individual and group instruction sponsored and conducted by the educational institution through a duly authorized instructor of such institution in which the person is enrolled.
 
-(2) The monthly educational assistance allowance to be paid on behalf of an eligible personpursuing a farm cooperative program under this chapter shall be $541 for full-time, $406 for three-quarter-time, and $271 for half-time pursuit.
+(2) The monthly educational assistance allowance to be paid on behalf of an eligible person pursuing a farm cooperative program under this chapter shall be $541 for full-time, $406 for three-quarter-time, and $271 for half-time pursuit.
 
 (d) If a program of education is pursued by an eligible person at an institution located in the Republic of the Philippines, the educational assistance allowance computed for such person under this section shall be paid at the rate of $0.50 for each dollar.
 

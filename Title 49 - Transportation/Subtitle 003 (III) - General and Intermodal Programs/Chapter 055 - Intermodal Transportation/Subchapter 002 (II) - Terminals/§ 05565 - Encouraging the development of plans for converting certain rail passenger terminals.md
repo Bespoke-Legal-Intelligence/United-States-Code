@@ -6,7 +6,7 @@ General Grant Authority.—The Secretary of Transportation may make a grant of f
 
 &emsp;(1) be prepared to develop practicable plans that meet zoning, land use, and other requirements of the applicable State and local jurisdictions in which the terminal is located;
 
-&emsp;(2) incorporate into the designs and plans proposed for converting the terminal, features that reasonably appear likely to attract private investors willing to carry out the planned conversion and its subsequent maintenance and operation; and
+&emsp;(2) incorporate into the designs and plans proposed for converting the terminal, featuresthat reasonably appear likely to attract private investors willing to carry out the planned conversion and its subsequent maintenance and operation; and
 
 &emsp;(3) complete the designs and plans for the conversion within the period of time prescribed by the Secretary.
 
@@ -22,7 +22,7 @@ Maximizing Conversion and Continued Public Use.—(1) Amounts appropriated to ca
 
 &emsp;(B) recommended (on the basis of architectural integrity and quality) by the Advisory Council on Historic Preservation or the Chairman of the National Endowment for the Arts.
 
-(2) The Secretary of Transportation may not make a grant under this section for more than80 percent of the total cost of the project for which the financial assistance is provided.
+(2) The Secretary of Transportation may not make a grant under this section for more than 80 percent of the total cost of the project for which the financial assistance is provided.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 853; Pub. L. 103–429, §6(15), Oct. 31, 1994, 108 Stat. 4379.)
 

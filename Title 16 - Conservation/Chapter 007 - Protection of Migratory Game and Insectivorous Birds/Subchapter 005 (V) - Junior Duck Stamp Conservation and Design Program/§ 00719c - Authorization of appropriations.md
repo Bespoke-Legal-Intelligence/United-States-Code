@@ -6,7 +6,7 @@ There are authorized to be appropriated to the Secretary for administrative expe
 
 #### Codification
 
-Another section 6 of Pub. L. 103–340 enacted provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title.
+Another section 6 of Pub. L. 103–340 was renumbered section 7 and enacted provisions listed in a table of National Wildlife Refuges set out under section 668dd of this title.
 
 #### Amendments
 

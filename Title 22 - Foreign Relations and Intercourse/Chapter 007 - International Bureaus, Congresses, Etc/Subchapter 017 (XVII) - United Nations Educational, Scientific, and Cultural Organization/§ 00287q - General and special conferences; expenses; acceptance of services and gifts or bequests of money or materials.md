@@ -20,7 +20,7 @@ The constitution of the Organization, referred to in text, is the Constitution o
 
 1983—Pub. L. 98–164 struck out provision prohibiting acceptance of gifts or bequests aggregating more than $200,000 in any year.
 
-1961—Pub. L. 87–139 substituted provisions authorizing payment of transportation and other expenses of attending experts as authorized by section 5703 of title 5, for provisions which allowed the experts $10 per diem plus actual transportation expenses.
+1961—Pub. L. 87–139 substituted provisions authorizing payment of transportation and other expenses of attending experts as authorized by section 5703 of title5, for provisions which allowed the experts $10 per diem plus actual transportation expenses.
 
 1958—Pub. L. 85–477 authorized the National Commission to receive and accept services and gifts or bequests of money or materials.
 

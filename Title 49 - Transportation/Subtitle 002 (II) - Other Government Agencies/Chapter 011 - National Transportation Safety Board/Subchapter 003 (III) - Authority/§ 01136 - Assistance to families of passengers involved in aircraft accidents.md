@@ -22,7 +22,7 @@ Responsibilities of Designated Organization.—The organization designated for a
 
 &emsp;(3) To meet with the families who have traveled to the location of the accident, to contact the families unable to travel to such location, and to contact all affected families periodically thereafter until such time as the organization, in consultation with the director of family support services designated for the accident under subsection (a)(1), determines that further assistance is no longer needed.
 
-&emsp;(4) To communicate with the families as to the roles of the organization, government agencies, and the air carrier or foreign air carrier involved with respect to the accident and the post-accident activities.
+&emsp;(4) To communicate with the families as to the roles of the organization, governmentagencies, and the air carrier or foreign air carrier involved with respect to the accident and the post-accident activities.
 
 &emsp;(5) To arrange a suitable memorial service, in consultation with the families.
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after S
 
 #### Effective Date
 
-Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
+Except as otherwise specifically provided, section applicable only to fiscal years beginning after Sept. 30,1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as an Effective Date of 1996 Amendment note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -40,7 +40,7 @@ A person or entity specified in this subsection is any of the following:
 
 #### (e) Official capacity of persons to whom information is disclosed
 
-A member of, or an employee of Congress who is a staff member of, a committee of Congressspecified in subsection (d) of this section who receives a protected disclosure under this section does so in that member or employee's official capacity as such a member or employee.
+A member of, or an employee of Congress who is a staff member of, a committee of Congress specified in subsection (d) of this section who receives a protected disclosure under this section does so in that member or employee's official capacity as such a member or employee.
 
 #### (f) Assistance and guidance
 
@@ -122,5 +122,5 @@ The Whistleblower Protection Act of 1989, referred to in subsec. (<i>l</i>), is 
 
 #### Codification
 
-Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2000, and not as partof the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the National Defense Authorization Act for Fiscal Year 2000, and not as part of the Department of Energy Organization Act which comprises this chapter.
 

@@ -16,7 +16,7 @@ The Secretary, acting through the Bureau of Land Management, shall manage the co
 
 #### (3) Existing public roads
 
-&emsp;The Secretary is authorized to maintain existing public access within the boundaries of the conservation area in a manner consistent with the purposes for which the conservation area was established.
+&emsp;The Secretary is authorized to maintain existing public access within the boundaries of the conservation area in a manner consistentwith the purposes for which the conservation area was established.
 
 #### (c) Uses
 

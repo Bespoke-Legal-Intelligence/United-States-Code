@@ -10,7 +10,7 @@
 
 (c)(1) If a resident agent is removed, resigns, dies, or becomes disabled, the surety corporation shall appoint another agent as described in this section.
 
-(2) Until an appointment is made under paragraph (1) of this subsection or during an absence of an agent from the district in which the surety bond is given, service of process may be made on the clerk of the court in which a civil action against the corporation is brought. The official serving process on the clerk of the court—
+(2) Until an appointment is made under paragraph (1) of this subsection or during an absence of an agent from the district in which the surety bond is given, service of process may be made onthe clerk of the court in which a civil action against the corporation is brought. The official serving process on the clerk of the court—
 
 &emsp;&emsp;(A) immediately shall mail a copy of the process to the corporation; and
 

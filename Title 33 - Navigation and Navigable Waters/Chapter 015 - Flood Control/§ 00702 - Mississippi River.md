@@ -1,6 +1,6 @@
 ### §702. Mississippi River
 
-<i>Authorization of flood-control work</i>—For controlling the floods of the Mississippi River and continuing its improvement from the Head of the Passes to the mouth of the Ohio River the Secretary of the Army is empowered, authorized, and directed to carry on continuously, by hired labor or otherwise, the plans of the Mississippi River Commission, prior to March 3,1923, or thereafter adopted, to be paid for as appropriations may from time to time be made by law.
+<i>Authorization of flood-control work</i>—For controlling the floods of the Mississippi River and continuing its improvement from the Head of the Passes to the mouth of the Ohio River the Secretary of the Army is empowered, authorized, and directed to carry on continuously, by hired labor or otherwise, the plans of the Mississippi River Commission, prior to March 3, 1923, or thereafter adopted, to be paid for as appropriations may from time to time be made by law.
 
 <i>Allotments for improvement of watercourses connected with Mississippi River</i>—The watercourses connected with the Mississippi River to such extent as may be necessary to exclude the flood waters from the upper limits of any delta basin, together with the Ohio River from its mouth to the mouth of the Cache River, may, in the discretion of said commission, receive allotments for improvements under way March 1, 1917, or thereafter to be undertaken.
 

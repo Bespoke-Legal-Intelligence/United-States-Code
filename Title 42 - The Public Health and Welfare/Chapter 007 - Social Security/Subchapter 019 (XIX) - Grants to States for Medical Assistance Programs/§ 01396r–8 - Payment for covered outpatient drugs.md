@@ -96,7 +96,7 @@
 
 #### (B) Verification surveys of average manufacturer price
 
-&emsp;&emsp;The Secretary may survey wholesalers and manufacturers that directly distribute their covered outpatient drugs, when necessary, to verify manufacturer prices reported under subparagraph (A). The Secretary may impose a civil monetary penalty in an amount not to exceed $100,000 on a wholesaler, manufacturer, or direct seller, if the wholesaler, manufacturer, or direct seller of a covered outpatient drug refuses a request for information about charges or prices by the Secretary in connection with a survey under this subparagraph or knowingly providesfalse information. The provisions of section 1320a–7a of this title (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;&emsp;The Secretary may survey wholesalers and manufacturers that directly distribute their covered outpatient drugs, when necessary, to verify manufacturer prices reported under subparagraph (A). The Secretary may impose a civil monetary penalty in an amount not to exceed $100,000 on a wholesaler, manufacturer, or direct seller, if the wholesaler, manufacturer, or direct seller of a covered outpatient drug refuses a request for information about charges or prices by the Secretary in connection with a survey under this subparagraph or knowingly provides false information. The provisions of section 1320a–7a of this title (other than subsections (a) (with respect to amounts of penalties or additional assessments) and (b)) shall apply to a civil money penalty under this subparagraph in the same manner as such provisionsapply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (C) Penalties
 
@@ -324,7 +324,7 @@
 
 #### (6) Other permissible restrictions
 
-&emsp;A State may impose limitations, with respect to all such drugs in a therapeutic class, on the minimum or maximum quantities per prescription or on the number of refills, if such limitations are necessary to discourage waste, and may address instances of fraud or abuse by individuals in any manner authorized under this chapter.
+&emsp;A State may impose limitations, with respect to all such drugs in a therapeutic class, on the minimum or maximum quantities per prescription or on the number of refills, if such limitations are necessary to discourage waste, and may address instances of fraud orabuse by individuals in any manner authorized under this chapter.
 
 #### (e) Treatment of pharmacy reimbursement limits
 
@@ -386,7 +386,7 @@
 
 &emsp;&emsp;(i) The State plan shall provide for a review of drug therapy before each prescription is filled or delivered to an individual receiving benefits under this subchapter, typically at the point-of-sale or point of distribution. The review shall include screening for potential drug therapy problems due to therapeutic duplication, drug-disease contraindications, drug-drug interactions (including serious interactions with nonprescription or over-the-counter drugs), incorrect drug dosage or duration of drug treatment, drug-allergy interactions, and clinical abuse/misuse. Each State shall use the compendia and literature referred to in paragraph (1)(B) as its source of standards for such review.
 
-&emsp;&emsp;(ii) As part of the State's prospective drug use review program under this subparagraph applicable State law shall establish standards for counseling of individuals receiving benefits under this subchapter by pharmacists which includes at least the following:
+&emsp;&emsp;(ii) As part of the State's prospective drug use review program under this subparagraphapplicable State law shall establish standards for counseling of individuals receiving benefits under this subchapter by pharmacists which includes at least the following:
 
 &emsp;&emsp;&emsp;(I) The pharmacist must offer to discuss with each individual receiving benefits under this subchapter or caregiver of such individual (in person, whenever practicable, or through access to a telephone service which is toll-free for long-distance calls) who presents a prescription, matters which in the exercise of the pharmacist's professional judgment (consistent with State law respecting the provision of such information), the pharmacist deems significant including the following:
 
@@ -456,7 +456,7 @@
 
 &emsp;&emsp;&emsp;(ii) Application of standards as defined in section <sup>5</sup> (2)(C).
 
-&emsp;&emsp;&emsp;(iii) Ongoing interventions for physicians and pharmacists, targeted toward therapy problems or individuals identified in the course of retrospective drug use reviews performed under this subsection. Intervention programs shall include, in appropriate instances, at least:
+&emsp;&emsp;&emsp;(iii) Ongoing interventions for physicians and pharmacists, targeted towardtherapy problems or individuals identified in the course of retrospective drug use reviews performed under this subsection. Intervention programs shall include, in appropriate instances, at least:
 
 &emsp;&emsp;&emsp;&emsp;(I) information dissemination sufficient to ensure the ready availability to physicians and pharmacists in the State of information concerning its duties, powers, and basis for its standards;
 
@@ -508,9 +508,9 @@ In this section—
 
 &emsp;Subject to the exceptions in paragraph (3), the term “covered outpatient drug” means—
 
-&emsp;&emsp;(A) of those drugs which are treated as prescribed drugs for purposes of section1396d(a)(12) of this title, a drug which may be dispensed only upon prescription (except as provided in paragraph (5)), and—
+&emsp;&emsp;(A) of those drugs which are treated as prescribed drugs for purposes of section 1396d(a)(12) of this title, a drug which may be dispensed only upon prescription (except as provided in paragraph (5)), and—
 
-&emsp;&emsp;&emsp;(i) which is approved for safety and effectiveness as a prescription drug under section 505 \[21 U.S.C. 355\] or 507 <sup>6</sup> of the Federal Food, Drug, and Cosmetic Act or which is approved under section 505(j) of such Act \[21 U.S.C. 355(j)\];
+&emsp;&emsp;&emsp;(i) which is approved for safety and effectiveness as a prescription drug under section 505 \[21 U.S.C. 355\] or 507 <sup>6</sup> of the Federal Food, Drug, and Cosmetic Act orwhich is approved under section 505(j) of such Act \[21 U.S.C. 355(j)\];
 
 &emsp;&emsp;&emsp;(ii)(I) which was commercially used or sold in the United States before October 10, 1962, or which is identical, similar, or related (within the meaning of section 310.6(b)(1) of title 21 of the Code of Federal Regulations) to such a drug, and (II) which has not been the subject of a final determination by the Secretary that it is a “new drug” (within the meaning of section 201(p) of the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 321(p)\]) or an action brought by the Secretary under section 301, 302(a), or 304(a) of such Act \[21 U.S.C. 331, 332(a), 334(a)\] to enforce section 502(f) or 505(a) of such Act \[21 U.S.C. 352(f), 355(a)\]; or
 
@@ -572,7 +572,7 @@ In this section—
 
 #### (i) Multiple source drug
 
-&emsp;&emsp;&emsp;The term “multiple source drug” means, with respect to a rebate period, a coveredoutpatient drug (not including any drug described in paragraph (5)) for which there are 2 or more drug products which—
+&emsp;&emsp;&emsp;The term “multiple source drug” means, with respect to a rebate period, a covered outpatient drug (not including any drug described in paragraph (5)) for which there are 2 or more drug products which—
 
 &emsp;&emsp;&emsp;&emsp;(I) are rated as therapeutically equivalent (under the Food and Drug Administration's most recent publication of “Approved Drug Products with Therapeutic Equivalence Evaluations”),
 
@@ -648,7 +648,7 @@ Subsec. (k)(7)(C)(i). Pub. L. 106–113, §1000(a)(6) \[title VI, §608(u)(3)(B)
 
 1997—Subsec. (g)(1)(B)(i)(III), (IV). Pub. L. 105–33, §4756, added subcl. (III) and redesignated former subcl. (III) as (IV).
 
-Subsec. (j)(1). Pub. L. 105–33, §4701(b)(2)(A)(x), substituted “health maintenance organizations, including medicaid managed care organizations” for “\* \* \* Health Maintenance Organizations, including those organizations”.
+Subsec. (j)(1). Pub. L. 105–33, §4701(b)(2)(A)(x), substituted “health maintenance organizations, includingmedicaid managed care organizations” for “\* \* \* Health Maintenance Organizations, including those organizations”.
 
 1993—Subsec. (b)(1)(A). Pub. L. 103–66, §13602(a)(2)(A)(i)(II), which directed amendment of subpar. (A) by substituting “dispensed after December 31, 1990, for which payment was made under the State plan for such period” for “dispensed under the plan during the quarter (or other period as the Secretary may specify)”, was executed by making the substitution for “dispensed under the plan during the quarter (or such other period as the Secretary may specify)” to reflect the probable intent of Congress.
 
@@ -706,13 +706,13 @@ Amendment by section 1000(a)(6) \[title VI, §608(u)\] of Pub. L. 106–113 effe
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts entered into or renewed onor after Oct. 1, 1997, see section 4710 of Pub. L. 105–33, set out as a note under section 1396b of this title.
+Amendment by Pub. L. 105–33 effective Aug. 5, 1997, and applicable to contracts entered into or renewed on or after Oct. 1, 1997, see section 4710 of Pub. L. 105–33, set out as a note under section 1396b of this title.
 
 #### Effective Date of 1993 Amendments
 
 Section 13602(d) of Pub. L. 103–66 provided that:
 
-“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1396a and 1396b of this title\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].
+“(1) Except as provided in paragraph (2), the amendments made by this section \[amending this section andsections 1396a and 1396b of this title\] shall take effect as if included in the enactment of OBRA–1990 \[Pub. L. 101–508\].
 
 “(2) The amendment made by subsection (a)(1) \[amending this section\] (insofar as such subsection amends section 1927(d) of the Social Security Act \[subsec. (d) of this section\]) and the amendment made by subsection (c) \[amending section 1396a of this title\] shall apply to calendar quarters beginning on or after October 1, 1993, without regard to whether or not regulations to carry out such amendments have been promulgated by such date.”
 

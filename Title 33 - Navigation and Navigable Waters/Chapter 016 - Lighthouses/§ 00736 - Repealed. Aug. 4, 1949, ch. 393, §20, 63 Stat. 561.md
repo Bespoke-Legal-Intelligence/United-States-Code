@@ -4,5 +4,5 @@ Section, R.S. §4676; acts June 10, 1910, ch. 301, §6, 36 Stat. 538; Aug. 16, 1
 
 #### Effective Date of Repeal
 
-Repeal effective first day of third month after approval by President \[Aug. 4, 1949\], see section 19 of act Aug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
+Repeal effective first day of third month after approval by President \[Aug. 4, 1949\], see section 19 of actAug. 4, 1949, set out as an Effective Date note preceding chapter 1 of Title 14, Coast Guard.
 

@@ -52,7 +52,7 @@ Notwithstanding any other provision of law, the applicable Secretary may not mak
 
 The following conditions apply with respect to financial assistance being or to be provided for the benefit of an individual:
 
-&emsp;(1)(A) There must be a declaration in writing by the individual (or, in the case of an individual who is a child, by another on the individual's behalf), under penalty of perjury, stating whether or not the individual is a citizen or national of the United States, and, if that individual is not a citizen or national of the United States, that the individual is in a satisfactory immigration status. If the declaration states that the individual is not a citizen or national of the United States and that the individual is younger than 62 years of age, the declaration shall be verified by the Immigration and Naturalization Service. If the declaration states that the individual is a citizen or national of the United States, the applicable Secretary, or the agency administering assistance covered by this section, may request verification of the declaration by requiring presentation of documentation that the applicable Secretary considers appropriate, including a United States passport, resident alien card, alien registration card, social security card, or other documentation.
+&emsp;(1)(A) There must be a declaration in writing by the individual (or, in the case of an individual who is a child, by another on the individual's behalf), under penalty of perjury, stating whether or not the individual is a citizen or national of the United States, and, if that individual is not a citizen or national of the United States, that the individual is in a satisfactory immigration status. If the declaration states that the individual is not a citizen or national of the United States and that the individual is younger than 62 years of age, thedeclaration shall be verified by the Immigration and Naturalization Service. If the declaration states that the individual is a citizen or national of the United States, the applicable Secretary, or the agency administering assistance covered by this section, may request verification of the declaration by requiring presentation of documentation that the applicable Secretary considers appropriate, including a United States passport, resident alien card, alien registration card, social security card, or other documentation.
 
 &emsp;(B) In this subsection, the term “satisfactory immigration status” means an immigration status which does not make the individual ineligible for financial assistance.
 
@@ -100,7 +100,7 @@ The following conditions apply with respect to financial assistance being or to 
 
 &emsp;&emsp;(C) provide to the individual written notice of the determination under this paragraph, the right to a fair hearing process, and the time limitation for requesting a hearing under subparagraph (C).
 
-&emsp;(6) The applicable Secretary shall terminate the eligibility for financial assistance of an individual and the members of the household of the individual, for a period of not less than 24 months, upon determining that such individual has knowingly permitted another individual who is not eligible for such assistance to reside in the public or assisted housing unit of the individual. This provision shall not apply to a family if the ineligibility of the ineligible individual at issue was considered in calculating any proration of assistance provided for the family.
+&emsp;(6) The applicable Secretary shall terminate the eligibility for financial assistance of an individual and the members of the household of the individual, for a period of not less than 24months, upon determining that such individual has knowingly permitted another individual who is not eligible for such assistance to reside in the public or assisted housing unit of the individual. This provision shall not apply to a family if the ineligibility of the ineligible individual at issue was considered in calculating any proration of assistance provided for the family.
 
 > For purposes of this subsection, the term “applicable Secretary” means the applicable Secretary, a public housing agency, or another entity that determines the eligibility of an individual for financial assistance.
 
@@ -156,7 +156,7 @@ For purposes of this section, the term “applicable Secretary” means—
 
 &emsp;For purposes of this subsection, with respect to a family, the term “eligibility” means the eligibility of each family member.
 
-(Pub. L. 96–399, title II, §214, Oct. 8, 1980, 94 Stat. 1637; Pub. L. 97–35, title III, §329(a), Aug. 13, 1981, 95 Stat. 408; Pub. L. 99–603, title I, §121(a)(2), Nov. 6, 1986, 100 Stat. 3386; Pub. L. 100–242, title I, §164(a)–(f)(1), Feb. 5, 1988, 101 Stat. 1860–1863; Pub. L. 104–193, title IV, §441(a), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(ii), title V, §§572–576, Sept. 30, 1996, 110 Stat. 3009–624, 3009–684, 3009–685, 3009–687; Pub. L. 105–276, title V, §592(a), Oct. 21, 1998, 112 Stat. 2653; Pub. L. 106–504, §3(b), Nov. 13, 2000, 114 Stat. 2312.)
+(Pub. L. 96–399, title II, §214, Oct. 8, 1980, 94 Stat. 1637; Pub. L. 97–35, title III, §329(a), Aug. 13, 1981, 95 Stat. 408; Pub. L. 99–603, title I, §121(a)(2),Nov. 6, 1986, 100 Stat. 3386; Pub. L. 100–242, title I, §164(a)–(f)(1), Feb. 5, 1988, 101 Stat. 1860–1863; Pub. L. 104–193, title IV, §441(a), Aug. 22, 1996, 110 Stat. 2276; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(ii), title V, §§572–576, Sept. 30, 1996, 110 Stat. 3009–624, 3009–684, 3009–685, 3009–687; Pub. L. 105–276, title V, §592(a), Oct. 21, 1998, 112 Stat. 2653; Pub. L. 106–504, §3(b), Nov. 13, 2000, 114 Stat. 2312.)
 
 #### References in Text
 
@@ -326,7 +326,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Short Title of 1996 Amendment
 
-Section 571 of div. C of Pub. L. 104–208 provided that: “This subtitle \[subtitle E (§§571–577) of title V of div. Cof Pub. L. 104–208, amending this section and enacting provisions set out as a note below\] may be cited as the ‘Use of Assisted Housing by Aliens Act of 1996’.”
+Section 571 of div. C of Pub. L. 104–208 provided that: “This subtitle \[subtitle E (§§571–577) of title V of div. C of Pub. L. 104–208, amending this section and enacting provisions set out as a note below\] may be cited as the ‘Use of Assisted Housing by Aliens Act of 1996’.”
 
 #### Regulations
 
@@ -339,6 +339,10 @@ Issuance.—Not later than the 60 days after the date of enactment of this Act \
 “(b)
 
 Failure To Issue.—If the Secretary fails to issue the regulations required under subsection (a) before the date specified in that subsection, the regulations relating to restrictions on assistance to noncitizens, contained in the final rule issued by the Secretary of Housing and Urban Development in RIN–2501–AA63 (Docket No. R–95–1409; FR–2383–F–050), published in the Federal Register on March 20, 1995 (Vol. 60, No. 53; pp. 14824–14861), shall not apply after that date.”
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Transitional Certification and Documentation Provisions
 

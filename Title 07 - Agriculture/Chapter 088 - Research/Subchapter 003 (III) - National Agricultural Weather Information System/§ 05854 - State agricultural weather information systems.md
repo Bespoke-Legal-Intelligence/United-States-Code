@@ -4,7 +4,7 @@
 
 #### (1) Grants required
 
-&emsp;With funds allocated to carry out this section, the Secretary of Agriculture shall make grants to not fewer than 10 eligible States to plan and administer, in cooperation with persons described in paragraph (2), advisory programs for State agricultural weather information systems.
+&emsp;With funds allocated to carry out this section, the Secretary of Agriculture shall make grants to not fewer than 10 eligible States toplan and administer, in cooperation with persons described in paragraph (2), advisory programs for State agricultural weather information systems.
 
 #### (2) Persons described
 
@@ -12,7 +12,7 @@
 
 #### (b) Consultation
 
-For purposes of selecting among applications submitted by States for grants under this section, the Secretary shall take into consideration the recommendation of the Advisory Board on Agricultural Weather and consult with the Director.
+For purposes of selecting among applications submitted by States for grants under this section, the Secretary shall consult with the Director.
 
 #### (c) Eligibility requirements
 
@@ -28,7 +28,11 @@ To be eligible to receive a grant under this section, the chief executive office
 
 &emsp;(2) such other assurances and information as the Secretary may require by rule.
 
-(Pub. L. 101–624, title XVI, §1640, Nov. 28, 1990, 104 Stat. 3749.)
+(Pub. L. 101–624, title XVI, §1640, Nov. 28, 1990, 104 Stat. 3749; Pub. L. 107–171, title VII, §7304(b), May 13, 2002, 116 Stat. 455.)
+
+#### Amendments
+
+2002—Subsec. (b). Pub. L. 107–171 struck out “take into consideration the recommendation of the Advisory Board on Agricultural Weather and” before “consult with the Director”.
 
 #### Section Referred to in Other Sections
 

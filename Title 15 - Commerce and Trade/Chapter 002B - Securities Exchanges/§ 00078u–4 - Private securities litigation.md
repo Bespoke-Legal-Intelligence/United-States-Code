@@ -146,7 +146,7 @@
 
 #### (9) Attorney conflict of interest
 
-&emsp;If a plaintiff class is represented by an attorney who directly owns or otherwise has a beneficial interest in the securities that are the subject of the litigation, the court shall make a determination of whether such ownership or other interest constitutes a conflict of interest sufficient to disqualify the attorney from representing the plaintiff class.
+&emsp;If a plaintiff class is represented by an attorney who directly owns or otherwise has a beneficial interest in the securities that are the subject of the litigation, the court shall make a determination of whether such ownership orother interest constitutes a conflict of interest sufficient to disqualify the attorney from representing the plaintiff class.
 
 #### (b) Requirements for securities fraud actions
 
@@ -298,7 +298,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 &emsp;&emsp;&emsp;Each covered person shall be jointly and severally liable for the uncollectible share if the plaintiff establishes that—
 
-&emsp;&emsp;&emsp;&emsp;(I) the plaintiff is an individual whose recoverable damages under the finaljudgment are equal to more than 10 percent of the net worth of the plaintiff; and
+&emsp;&emsp;&emsp;&emsp;(I) the plaintiff is an individual whose recoverable damages under the final judgment are equal to more than 10 percent of the net worth of the plaintiff; and
 
 &emsp;&emsp;&emsp;&emsp;(II) the net worth of the plaintiff is equal to less than $200,000.
 
@@ -372,7 +372,7 @@ In any private action arising under this chapter in which the plaintiff may reco
 
 &emsp;&emsp;&emsp;&emsp;(II) persons are likely to reasonably rely on that misrepresentation or omission; and
 
-&emsp;&emsp;&emsp;(ii) with respect to an action that is based on any conduct that is not described in clause (i), if that covered person engages in that conduct with actual knowledge of the facts and circumstances thatmake the conduct of that covered person a violation of the securities laws;
+&emsp;&emsp;&emsp;(ii) with respect to an action that is based on any conduct that is not described in clause (i), if that covered person engages in that conduct with actual knowledge of the facts and circumstances that make the conduct of that covered person a violation of the securities laws;
 
 &emsp;&emsp;(B) reckless conduct by a covered person shall not be construed to constitute a knowing commission of a violation of the securities laws by that covered person;
 

@@ -14,7 +14,7 @@ The Secretary may issue regulations to implement subsection (a) of this section,
 
 &emsp;(1) be accompanied by a permit issued by the Secretary prior to the importation, entry, exportation, or movement in interstate commerce;
 
-&emsp;(2) be accompanied by a certificate of inspection issued (in a manner and form required by the Secretary) by appropriate officials of the country or State from which the plant, plant product, biological control organism, noxiousweed, article, or means of conveyance is to be moved;
+&emsp;(2) be accompanied by a certificate of inspection issued (in a manner and form required by the Secretary) by appropriate officials of the country or State from which the plant, plant product, biological control organism, noxious weed, article, or means of conveyance is to be moved;
 
 &emsp;(3) be subject to remedial measures the Secretary determines to be necessary to prevent the spread of plant pests or noxious weeds; and
 
@@ -85,6 +85,10 @@ Not later than 1 year after June 20, 2000, the Secretary shall publish for publi
 #### References in Text
 
 This chapter, referred to in subsec. (d)(2)(E), was in the original “this title”, meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
+
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

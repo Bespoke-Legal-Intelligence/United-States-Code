@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 300q–2, 300s–6, 1395x, 2005b, 2005d of this title; title 40 App. sections 202, 214.
+This subchapter is referred to in sections 300q–2, 300s–6, 1395x, 2005b, 2005d of this title; title 40 sections 14502, 14507.
 
 
 ---

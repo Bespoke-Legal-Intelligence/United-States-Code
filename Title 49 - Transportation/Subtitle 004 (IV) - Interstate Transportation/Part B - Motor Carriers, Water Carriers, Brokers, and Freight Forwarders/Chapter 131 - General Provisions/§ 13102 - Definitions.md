@@ -106,13 +106,29 @@ Person.—The term “person”, in addition to its meaning under section 1 of t
 
 &emsp;(17)
 
-Secretary.—The term “Secretary” means the Secretary of Transportation.
+Pre-arranged ground transportation service.—The term “pre-arranged ground transportation service” means transportation for a passenger (or a group of passengers) that is arranged in advance (or is operated on a regular route or between specified points) and is provided in a motor vehicle with a seating capacity not exceeding 15 passengers (including the driver).
 
 &emsp;(18)
 
-State.—The term “State” means the 50 States of the United States and the District of Columbia.
+Secretary.—The term “Secretary” means the Secretary of Transportation.
 
 &emsp;(19)
+
+State.—The term “State” means the 50 States of the United States and the District of Columbia.
+
+&emsp;(20)
+
+Taxicab service.—The term “taxicab service” means passenger transportation in a motor vehicle having a capacity of not more than 8 passengers (including the driver), not operated on a regular route or between specified places, and that—
+
+&emsp;&emsp;(A) is licensed as a taxicab by a State or a local jurisdiction; or
+
+&emsp;&emsp;(B) is offered by a person that—
+
+&emsp;&emsp;&emsp;(i) provides local transportation for a fare determined (except with respect to transportation to or from airports) primarily on the basis of the distance traveled; and
+
+&emsp;&emsp;&emsp;(ii) does not primarily provide transportation to or from airports.
+
+&emsp;(21)
 
 Transportation.—The term “transportation” includes—
 
@@ -120,19 +136,19 @@ Transportation.—The term “transportation” includes—
 
 &emsp;&emsp;(B) services related to that movement, including arranging for, receipt, delivery, elevation, transfer in transit, refrigeration, icing, ventilation, storage, handling, packing, unpacking, and interchange of passengers and property.
 
-&emsp;(20)
+&emsp;(22)
 
 United states.—The term “United States” means the States of the United States and the District of Columbia.
 
-&emsp;(21)
+&emsp;(23)
 
 Vessel.—The term “vessel” means a watercraft or other artificial contrivance that is used, is capable of being used, or is intended to be used, as a means of transportation by water.
 
-&emsp;(22)
+&emsp;(24)
 
 Water carrier.—The term “water carrier” means a person providing water transportation for compensation.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 854; amended Pub. L. 104–287, §5(27), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 106–159, title II, §209(a), Dec. 9, 1999, 113 Stat. 1764.)
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 854; amended Pub. L. 104–287, §5(27), Oct. 11, 1996, 110 Stat. 3390; Pub. L. 106–159, title II, §209(a), Dec. 9, 1999, 113 Stat. 1764; Pub. L. 107–298, §3(a), Nov. 26, 2002, 116 Stat. 2343.)
 
 #### Historical and Revision Notes
 
@@ -154,6 +170,8 @@ Provisions similar to those in this section were contained in section 10102 of t
 
 #### Amendments
 
+2002—Pars. (17) to (24). Pub. L. 107–298 added pars. (17) and (20) and redesignated former pars. (17), (18), (19), (20), (21), and (22) as pars. (18), (19), (21), (22), (23), and (24), respectively.
+
 1999—Par. (10)(A). Pub. L. 106–159 substituted “, except such term does not include property moving from a factory or store, other than property that the householder has purchased with the intent to use in his or her dwelling and is transported at the request of, and the transportation charges are paid to the carrier by, the householder;” for “, including transportation of property from a factory or store when the property is purchased by the householder with intent to use in his or her dwelling,”.
 
 1996—Par. (4)(A). Pub. L. 104–287, §5(27)(A), substituted “January 1, 1996” for “the effective date of this section” and “December 31, 1995” for “the day before the effective date of this section”.
@@ -162,5 +180,5 @@ Par. (4)(B). Pub. L. 104–287, §5(27)(B), substituted “after December 31, 19
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 501, 5102, 5901, 14101, 14706, 41713 of this title; title 15 section 6781; title 18 section 921; title 29 section 186; title 39 section 5201; title 42 section 4917.
+This section is referred to in sections 501, 5102, 5901, 14101, 14706, 31138, 41713 of this title; title 15 section 6781; title 18 section 921; title 29 section 186; title 39 section 5201; title 42 section 4917.
 

@@ -26,7 +26,7 @@ The Secretaries may not provide a development grant under section 6122 of this t
 
 &emsp;(12) designing challenging curricula, in cooperation with representatives of local partnerships, that take into account the diverse learning needs and abilities of the student population served by the statewide School-to-Work Opportunities system;
 
-&emsp;(13) developing a system for labor market analysis and strategic planning for localtargeting of industry sectors or broad occupational clusters that can provide students with placements in high-skill workplaces;
+&emsp;(13) developing a system for labor market analysis and strategic planning for local targeting of industry sectors or broad occupational clusters that can provide students with placements in high-skill workplaces;
 
 &emsp;(14) analyzing the post-high school employment experiences of recent high school graduates and school dropouts;
 

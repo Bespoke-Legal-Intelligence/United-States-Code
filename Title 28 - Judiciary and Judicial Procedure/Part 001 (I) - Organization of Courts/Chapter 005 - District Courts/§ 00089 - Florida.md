@@ -20,7 +20,7 @@ Florida is divided into three judicial districts to be known as the Northern, Mi
 
 &emsp;&emsp;Court for the Southern District shall be held at Fort Lauderdale, Fort Pierce, Key West, Miami, and West Palm Beach.
 
-(June 25, 1948, ch. 646, 62 Stat. 876; July 17, 1952, ch. 929, 66 Stat. 757; Pub. L. 87–36, §3(f), May 19, 1961, 75 Stat. 83; Pub. L. 87–562, §1, July 30, 1962, 76 Stat. 247; Pub. L. 91–272, §10, June 2, 1970, 84 Stat. 298; Pub. L. 95–408, §4(a), Oct. 2, 1978, 92 Stat. 884; Pub. L. 100–702, title X, §1021(a), Nov. 19, 1988, 102 Stat. 4672.)
+(June 25, 1948, ch. 646, 62 Stat. 876; July 17, 1952, ch. 929, 66 Stat. 757; Pub. L. 87–36, §3(f), May 19, 1961, 75 Stat. 83; Pub. L. 87–562, §1, July 30, 1962, 76 Stat. 247; Pub. L. 91–272, §10, June 2, 1970, 84Stat. 298; Pub. L. 95–408, §4(a), Oct. 2, 1978, 92 Stat. 884; Pub. L. 100–702, title X, §1021(a), Nov. 19, 1988, 102 Stat. 4672.)
 
 #### Historical and Revision Notes
 
@@ -38,21 +38,21 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–702, §1021(a)(1), added Collier, Glades, and Hendry to the counties comprising the Middle District.
+1988—Subsec. (b). Pub. L. 100–702, §1021(a)(1), added Collier, Glades, and Hendry to the counties comprising the Middle District.
 
 Subsec. (c). Pub. L. 100–702, §1021(a)(2), struck out Collier, Glades, and Hendry from the counties comprising the Southern District.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–408, §4(a)(1), added Madison to the counties comprising the Northern District.
+1978—Subsec. (a). Pub. L. 95–408, §4(a)(1), added Madison to the counties comprising the Northern District.
 
 Subsec. (b). Pub. L. 95–408, §4(a)(2), struck out Madison from the counties comprising the Middle District.
 
-<b>1970</b>—Subsec. (c). Pub. L. 91–272 provided for holding court at Fort Lauderdale.
+1970—Subsec. (c). Pub. L. 91–272 provided for holding court at Fort Lauderdale.
 
-<b>1962</b>—Pub. L. 87–562 struck out provisions which authorized court for the Northern District to be held at Live Oak, and for the Southern District at Fernandina, Fort Myers, Jacksonville, Ocala, Orlando, and Tampa, and removed the counties of Baker, Bradford, Brevard, Charlotte, Citrus, Clay, Columbia, De Soto, Duval, Flagler, Hamilton, Hardee, Hernando, Hillsborough, Lake, Lee, Madison, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, Saint Johns, Sarasota, Seminole, Sumter, Suwannee, Union, and Volusia from the Southern District and created the Middle District to comprise such counties.
+1962—Pub. L. 87–562 struck out provisions which authorized court for the Northern District to be held at Live Oak, and for the Southern District at Fernandina, Fort Myers, Jacksonville, Ocala, Orlando, and Tampa, and removed the counties of Baker, Bradford, Brevard, Charlotte, Citrus, Clay, Columbia, De Soto, Duval, Flagler, Hamilton, Hardee, Hernando, Hillsborough, Lake, Lee, Madison, Manatee, Marion, Nassau, Orange, Osceola, Pasco, Pinellas, Polk, Putnam, Saint Johns, Sarasota, Seminole, Sumter, Suwannee, Union, and Volusia from the Southern District and created the Middle District to comprise such counties.
 
-<b>1961</b>—Subsec. (a). Pub. L. 87–36 provided for holding court at Live Oak.
+1961—Subsec. (a). Pub. L. 87–36 provided for holding court at Live Oak.
 
-<b>1952</b>—Subsec. (b). Act July 17, 1952, provided for holding court at Fort Myers and West Palm Beach.
+1952—Subsec. (b). Act July 17, 1952, provided for holding court at Fort Myers and West Palm Beach.
 
 #### Effective Date of 1988 Amendment
 

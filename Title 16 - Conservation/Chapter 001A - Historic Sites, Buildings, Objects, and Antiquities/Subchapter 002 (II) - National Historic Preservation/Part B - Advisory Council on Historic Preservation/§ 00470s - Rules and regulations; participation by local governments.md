@@ -12,5 +12,5 @@ The Council is authorized to promulgate such rules and regulations as it deems n
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 470h–2 of this title.
+This section is referred to in section 470h–2 of this title; title 40 section 3303.
 

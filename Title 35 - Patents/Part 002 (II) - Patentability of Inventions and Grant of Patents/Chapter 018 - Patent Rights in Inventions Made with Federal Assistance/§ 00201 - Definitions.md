@@ -2,7 +2,7 @@
 
 As used in this chapter—
 
-&emsp;(a) The term “Federal agency” means any executive agency as defined in section 105 of title 5, United States Code, and the military departments as defined by section 102 of title 5, United States Code.
+&emsp;(a) The term “Federal agency” means any executive agency as defined in section 105 of title 5, and the military departments as defined by section 102 of title 5.
 
 &emsp;(b) The term “funding agreement” means any contract, grant, or cooperative agreement entered into between any Federal agency, other than the Tennessee Valley Authority, and any contractor for the performance of experimental, developmental, or research work funded in whole or in part by the Federal Government. Such term includes any assignment, substitution of parties, or subcontract of any type entered into for the performance of experimental, developmental, or research work under a funding agreement as herein defined.
 
@@ -20,7 +20,7 @@ As used in this chapter—
 
 &emsp;(i) The term “nonprofit organization” means universities and other institutions of higher education or an organization of the type described in section 501(c)(3) of the Internal Revenue Code of 1986 (26 U.S.C. 501(c)) and exempt from taxation under section 501(a) of the Internal Revenue Code (26 U.S.C. 501(a)) or any nonprofit scientific or educational organization qualified under a State nonprofit organization statute.
 
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3019; amended Pub. L. 98–620, title V, §501(1), (2), Nov. 8, 1984, 98 Stat. 3364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3019; amended Pub. L. 98–620, title V, §501(1), (2), Nov. 8, 1984, 98 Stat. 3364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 107–273, div. C, title III, §13206(a)(12), Nov. 2, 2002, 116 Stat. 1904.)
 
 #### References in Text
 
@@ -29,6 +29,8 @@ The Plant Variety Protection Act, referred to in subsec. (d), is Pub. L. 91–57
 Section 41 of the Plant Variety Protection Act (7 U.S.C. 2401(d)), referred to in subsec. (e), was subsequently amended, and no longer defines the term “date of determination”.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–273 struck out “United States Code,” after “section 105 of title 5,” and “, United States Code” after “section 102 of title 5”.
 
 1986—Subsec. (i). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-After consultation with the Commissioner of Food and Drugs, the Secretary, acting through the Director of the National Institute of Allergy and Infectious Diseases, shall establish within such Institute an advisory committee to be known as the AIDS Research Advisory Committee (hereafter in this section referred to as the “Committee”).
+After consultation with the Commissioner of Food and Drugs, the Secretary, acting through the Director of the National Institute of Allergy and Infectious Diseases, shall establish within such Institute an advisory committee to beknown as the AIDS Research Advisory Committee (hereafter in this section referred to as the “Committee”).
 
 #### (b) Composition
 

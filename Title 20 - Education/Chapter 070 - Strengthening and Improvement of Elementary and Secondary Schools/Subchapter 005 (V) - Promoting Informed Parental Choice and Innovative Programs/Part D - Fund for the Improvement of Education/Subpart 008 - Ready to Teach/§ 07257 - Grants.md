@@ -6,7 +6,7 @@ The Secretary is authorized to award grants to a nonprofit telecommunications en
 
 #### (b) Digital educational programming
 
-The Secretary is authorized to award grants, as provided for in section 7257c of this title, to eligible entities described in subsection (b) of such section, to enable such entities to develop, produce, and distribute innovative educational and instructional video programming that is designed for use by elementary schools and secondary schools and based on challenging State academic content and student academic achievement standards. In awarding such grants, the Secretary shall ensure that eligible entities enter into multiyear content development collaborative arrangements with State educational agencies, local educational agencies, institutions of higher education, businesses, or other agencies or organizations.
+The Secretary is authorized to award grants, as provided for in section 7257c of this title, toeligible entities described in subsection (b) of such section, to enable such entities to develop, produce, and distribute innovative educational and instructional video programming that is designed for use by elementary schools and secondary schools and based on challenging State academic content and student academic achievement standards. In awarding such grants, the Secretary shall ensure that eligible entities enter into multiyear content development collaborative arrangements with State educational agencies, local educational agencies, institutions of higher education, businesses, or other agencies or organizations.
 
 (Pub. L. 89–10, title V, §5481, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1837.)
 

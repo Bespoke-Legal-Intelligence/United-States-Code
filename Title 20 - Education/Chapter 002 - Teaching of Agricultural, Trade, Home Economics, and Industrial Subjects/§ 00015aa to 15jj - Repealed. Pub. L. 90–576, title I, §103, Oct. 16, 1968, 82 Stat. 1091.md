@@ -8,9 +8,9 @@ Section 15cc, act Aug. 1, 1946, ch. 725, title II, §203, as added Aug. 2, 1956,
 
 Section 15dd, act Aug. 1, 1946, ch. 725, title II, §204, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 927, set out method of making and computing payments to States.
 
-Section 15ee, act Aug. 1, 1946, ch. 725, title II, §205, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 927, set out duties and authority of Commissioner in carrying out sections 15aa to 15jj of this title.
+Section 15ee, act Aug. 1, 1946, ch. 725, title II, §205, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 927, setout duties and authority of Commissioner in carrying out sections 15aa to 15jj of this title.
 
-Section 15ff, act Aug. 1, 1946, ch. 725, title II, §206, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 928,authorized appointment of advisory committees by Commissioner.
+Section 15ff, act Aug. 1, 1946, ch. 725, title II, §206, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 928, authorized appointment of advisory committees by Commissioner.
 
 Section 15gg, act Aug. 1, 1946, ch. 725, title II, §207, as added Aug. 2, 1956, ch. 871, title III, §301, 70 Stat. 928, provided that amounts paid under sections 15aa to 15jj of this title should in no way affect the availability of funds for practical nurse training under sections 11 to 15, 16, and 18 to 28 and sections 15i to 15m and 15<i>o</i> to 15q of this title.
 

@@ -8,7 +8,7 @@ In determining whether to withdraw, reserve, lease, or otherwise permit the use,
 
 &emsp;(2) gives notice of, and holds, a hearing in the vicinity of the area involved; and
 
-&emsp;(3) determines that (A) such a significant restriction of subsistence uses is necessary, consistent with sound management principles for the utilization of the public lands, (B) the proposed activity will involve the minimal amount of public lands necessary to accomplish the purposes of such use, occupancy, or other disposition, and (C) reasonable steps willbe taken to minimize adverse impacts upon subsistence uses and resources resulting from such actions.
+&emsp;(3) determines that (A) such a significant restriction of subsistence uses is necessary, consistent with sound management principles for the utilization of the public lands, (B) the proposed activity will involve the minimal amount of public lands necessary to accomplish the purposes of such use, occupancy, or other disposition, and (C) reasonable steps will be taken to minimize adverse impacts upon subsistence uses and resources resulting from such actions.
 
 #### (b) Environmental impact statement
 
@@ -26,7 +26,7 @@ After compliance with the procedural requirements of this section and other appl
 
 #### References in Text
 
-The Alaska Statehood Act, referred to in subsec. (c), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
+The Alaska Statehood Act, referred to in subsec. (c), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended,which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
 The Alaska Native Claims Settlement Act, referred to in subsec. (c), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set our under section 1601 of Title 43 and Tables.
 

@@ -30,11 +30,7 @@
 | (a) | Office of Risk Assessment and Cost-Benefit Analysis. |
 | (b) | Functions. |
 | (c) | “Major regulation” defined. |
-| [2204f.](%C2%A7%2002204f%20-%20Fund%20for%20Rural%20America.md) | Fund for Rural America. |
-| (a) | In general. |
-| (b) | Funding. |
-| (c) | Activities. |
-| (d) | Limitations. |
+| [2204f.](%C2%A7%2002204f%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VI%2C%20%C2%A76403%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20429.md) | Repealed. |
 | [2204g.](%C2%A7%2002204g%20-%20Authority%20of%20Secretary%20of%20Agriculture%20to%20conduct%20census%20of%20agriculture.md) | Authority of Secretary of Agriculture to conduct census of agriculture. |
 | (a) | Census of agriculture required. |
 | (b) | Methods. |
@@ -65,6 +61,9 @@
 | [2217\.](%C2%A7%2002217%20-%20Oaths%2C%20affirmations%2C%20and%20affidavits%20taken%20by%20officers%2C%20agents%2C%20or%20employees%20of%20Department%3B%20use%20and%20effect.md) | Oaths, affirmations, and affidavits taken by officers, agents, or employees of Department; use and effect. |
 | [2218\.](%C2%A7%2002218%20-%20Fee%20for%20administering%20or%20taking%20oaths%2C%20affirmations%2C%20and%20affidavits.md) | Fee for administering or taking oaths, affirmations, and affidavits. |
 | [2219\.](%C2%A7%2002219%20-%20Salaries%3B%20how%20paid.md) | Salaries; how paid. |
+| [2219a.](%C2%A7%2002219a%20-%20Overtime%20and%20holiday%20pay.md) | Overtime and holiday pay. |
+| (a) | In general. |
+| (b) | Availability. |
 | [2220\.](%C2%A7%2002220%20-%20Certain%20officials%20and%20employees%20of%20Department%20and%20others%20not%20subject%20to%20restriction%20on%20payment%20of%20compensation%20to%20Government%20officials%20and%E2%80%A6.md) | Certain officials and employees of Department and others not subject to restriction on payment of compensation to Government officials and employees. |
 | [2221\.](%C2%A7%2002221%20-%20Details%20of%20persons%20from%20or%20to%20office%20of%20Secretary.md) | Details of persons from or to office of Secretary. |
 | [2222\.](%C2%A7%2002222%20-%20Details%20of%20law%20clerks.md) | Details of law clerks. |
@@ -120,11 +119,7 @@
 | [2257\.](%C2%A7%2002257%20-%20Interchangeability%20of%20funds%20for%20miscellaneous%20expenses%20and%20general%20expenses.md) | Interchangeability of funds for miscellaneous expenses and general expenses. |
 | [2258\.](%C2%A7%2002258%20-%20Purchase%20of%20newspapers.md) | Purchase of newspapers. |
 | [2259\.](%C2%A7%2002259%20-%20Market-inspection%20certificates%20as%20prima%20facie%20evidence.md) | Market-inspection certificates as prima facie evidence. |
-| [2260\.](%C2%A7%2002260%20-%20Inspection%20or%20quarantine%20services%20involving%20overtime%20furnished%20upon%20a%20reimbursable%20basis.md) | Inspection or quarantine services involving overtime furnished upon a reimbursable basis. |
-| [2260a.](%C2%A7%2002260a%20-%20Reimbursable%20agreements.md) | Reimbursable agreements. |
-| (a) | In general. |
-| (b) | Overtime, night, and holiday work. |
-| (c) | Reimbursement. |
+| 2260, 2260a. | Repealed. |
 | [2261\.](%C2%A7%2002261%20-%20Credit%20of%20donations%20and%20proceeds%20from%20exhibitions%20to%20appropriations%20concerned%20with%20foreign%20market%20development%20programs.md) | Credit of donations and proceeds from exhibitions to appropriations concerned with foreign market development programs. |
 | [2262\.](%C2%A7%2002262%20-%20Employee%20liability%20insurance%20on%20motor%20vehicles%20in%20foreign%20countries.md) | Employee liability insurance on motor vehicles in foreign countries. |
 | [2262a.](%C2%A7%2002262a%20-%20Overseas%20tort%20claims.md) | Overseas tort claims. |
@@ -140,6 +135,8 @@
 | [2269\.](%C2%A7%2002269%20-%20Gifts%20of%20property%3B%20acceptance%20and%20administration%20by%20Secretary%20of%20Agriculture%3B%20Federal%20tax%20law%20consideration%3B%20separate%20fund%20in%20Treasury%E2%80%A6.md) | Gifts of property; acceptance and administration by Secretary of Agriculture; Federal tax law consideration; separate fund in Treasury; regulations. |
 | [2270\.](%C2%A7%2002270%20-%20Authority%20of%20Office%20of%20Inspector%20General.md) | Authority of Office of Inspector General. |
 | [2270a.](%C2%A7%2002270a%20-%20Office%20of%20Inspector%20General%3B%20transfer%20of%20forfeiture%20funds%20for%20law%20enforcement%20activities.md) | Office of Inspector General; transfer of forfeiture funds for law enforcement activities. |
+| [2270b.](%C2%A7%2002270b%20-%20Department%20of%20Agriculture%20Inspector%20General%20investigation%20of%20Forest%20Service%20firefighter%20deaths.md) | Department of Agriculture Inspector General investigation of Forest Service firefighter deaths. |
+| [2270c.](%C2%A7%2002270c%20-%20Submission%20of%20results.md) | Submission of results. |
 | [2271\.](%C2%A7%2002271%20-%20Marketing%20education%20programs%20for%20small%20and%20medium%20size%20family%20farm%20operations.md) | Marketing education programs for small and medium size family farm operations. |
 | [2271a.](%C2%A7%2002271a%20-%20Advanced%20marketing%20training%20for%20farmers%20and%20ranchers.md) | Advanced marketing training for farmers and ranchers. |
 | [2272\.](%C2%A7%2002272%20-%20Volunteers%20for%20Department%20of%20Agriculture%20programs.md) | Volunteers for Department of Agriculture programs. |
@@ -169,6 +166,10 @@
 | (e) | Definitions. |
 | (f) | Omitted. |
 | (g) | Reservations. |
+| 2279–1. | Transparency and accountability for socially disadvantaged farmers and ranchers. |
+| (a) | Purpose. |
+| (b) | Definition of socially disadvantaged farmer or rancher. |
+| (c) | Compilation of program participation data. |
 | [2279a.](%C2%A7%2002279a%20-%20Fair%20and%20equitable%20treatment%20of%20socially%20disadvantaged%20producers.md) | Fair and equitable treatment of socially disadvantaged producers. |
 | (a) | Fair crop acreage bases and farm program payment yields. |
 | (b) | Fair application of Consolidated Farm and Rural Development Act. |
@@ -185,6 +186,7 @@
 | (h) | Acquisition and disposal of property. |
 | (i) | Contract authority. |
 | (j) | Use of Department facilities and resources. |
+| (k) | Audits of records. |
 | [2279c.](%C2%A7%2002279c%20-%20Student%20internship%20programs.md) | Student internship programs. |
 | (a) | Student intern subsistence program. |
 | (b) | Cooperation with associations of colleges and universities. |
@@ -194,6 +196,7 @@
 | (b) | Factors in determining civil penalty. |
 | (c) | Settlement of civil penalties. |
 | (d) | Finality of orders. |
+| (e) | Secretary concerned defined. |
 | [2279f.](%C2%A7%2002279f%20-%20Subpoena%20authority.md) | Subpoena authority. |
 | (a) | In general. |
 | (b) | Location of production. |
@@ -219,7 +222,7 @@
 - [&sect; 02204c - Water management for rural areas](%C2%A7%2002204c%20-%20Water%20management%20for%20rural%20areas.md)
 - [&sect; 02204d - Encouragement of private contracting](%C2%A7%2002204d%20-%20Encouragement%20of%20private%20contracting.md)
 - [&sect; 02204e - Office of Risk Assessment and Cost-Benefit Analysis](%C2%A7%2002204e%20-%20Office%20of%20Risk%20Assessment%20and%20Cost-Benefit%20Analysis.md)
-- [&sect; 02204f - Fund for Rural America](%C2%A7%2002204f%20-%20Fund%20for%20Rural%20America.md)
+- [&sect; 02204f - Repealed. Pub. L. 107&#8211;171, title VI, &sect;6403(a), May 13, 2002, 116 Stat. 429](%C2%A7%2002204f%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VI%2C%20%C2%A76403%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20429.md)
 - [&sect; 02204g - Authority of Secretary of Agriculture to conduct census of agriculture](%C2%A7%2002204g%20-%20Authority%20of%20Secretary%20of%20Agriculture%20to%20conduct%20census%20of%20agriculture.md)
 - [&sect; 02205 - Duties of former Commissioner of Agriculture transferred to Secretary](%C2%A7%2002205%20-%20Duties%20of%20former%20Commissioner%20of%20Agriculture%20transferred%20to%20Secretary.md)
 - [&sect; 02206 - Custody of property and records](%C2%A7%2002206%20-%20Custody%20of%20property%20and%20records.md)
@@ -245,6 +248,7 @@
 - [&sect; 02217 - Oaths, affirmations, and affidavits taken by officers, agents, or employees of Department; use and effect](%C2%A7%2002217%20-%20Oaths%2C%20affirmations%2C%20and%20affidavits%20taken%20by%20officers%2C%20agents%2C%20or%20employees%20of%20Department%3B%20use%20and%20effect.md)
 - [&sect; 02218 - Fee for administering or taking oaths, affirmations, and affidavits](%C2%A7%2002218%20-%20Fee%20for%20administering%20or%20taking%20oaths%2C%20affirmations%2C%20and%20affidavits.md)
 - [&sect; 02219 - Salaries; how paid](%C2%A7%2002219%20-%20Salaries%3B%20how%20paid.md)
+- [&sect; 02219a - Overtime and holiday pay](%C2%A7%2002219a%20-%20Overtime%20and%20holiday%20pay.md)
 - [&sect; 02220 - Certain officials and employees of Department and others not subject to restriction on payment of compensation to Government officials and&#8230;](%C2%A7%2002220%20-%20Certain%20officials%20and%20employees%20of%20Department%20and%20others%20not%20subject%20to%20restriction%20on%20payment%20of%20compensation%20to%20Government%20officials%20and%E2%80%A6.md)
 - [&sect; 02221 - Details of persons from or to office of Secretary](%C2%A7%2002221%20-%20Details%20of%20persons%20from%20or%20to%20office%20of%20Secretary.md)
 - [&sect; 02222 - Details of law clerks](%C2%A7%2002222%20-%20Details%20of%20law%20clerks.md)
@@ -296,8 +300,7 @@
 - [&sect; 02257 - Interchangeability of funds for miscellaneous expenses and general expenses](%C2%A7%2002257%20-%20Interchangeability%20of%20funds%20for%20miscellaneous%20expenses%20and%20general%20expenses.md)
 - [&sect; 02258 - Purchase of newspapers](%C2%A7%2002258%20-%20Purchase%20of%20newspapers.md)
 - [&sect; 02259 - Market-inspection certificates as prima facie evidence](%C2%A7%2002259%20-%20Market-inspection%20certificates%20as%20prima%20facie%20evidence.md)
-- [&sect; 02260 - Inspection or quarantine services involving overtime furnished upon a reimbursable basis](%C2%A7%2002260%20-%20Inspection%20or%20quarantine%20services%20involving%20overtime%20furnished%20upon%20a%20reimbursable%20basis.md)
-- [&sect; 02260a - Reimbursable agreements](%C2%A7%2002260a%20-%20Reimbursable%20agreements.md)
+- [&sect; 02260, 2260a - Repealed. Pub. L. 107&#8211;171, title X, &sect;10418(a)(3), (4), May 13, 2002, 116 Stat. 507](%C2%A7%2002260%2C%202260a%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20X%2C%20%C2%A710418%28a%29%283%29%2C%20%284%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20507.md)
 - [&sect; 02261 - Credit of donations and proceeds from exhibitions to appropriations concerned with foreign market development programs](%C2%A7%2002261%20-%20Credit%20of%20donations%20and%20proceeds%20from%20exhibitions%20to%20appropriations%20concerned%20with%20foreign%20market%20development%20programs.md)
 - [&sect; 02262 - Employee liability insurance on motor vehicles in foreign countries](%C2%A7%2002262%20-%20Employee%20liability%20insurance%20on%20motor%20vehicles%20in%20foreign%20countries.md)
 - [&sect; 02262a - Overseas tort claims](%C2%A7%2002262a%20-%20Overseas%20tort%20claims.md)
@@ -310,6 +313,8 @@
 - [&sect; 02269 - Gifts of property; acceptance and administration by Secretary of Agriculture; Federal tax law consideration; separate fund in Treasury&#8230;](%C2%A7%2002269%20-%20Gifts%20of%20property%3B%20acceptance%20and%20administration%20by%20Secretary%20of%20Agriculture%3B%20Federal%20tax%20law%20consideration%3B%20separate%20fund%20in%20Treasury%E2%80%A6.md)
 - [&sect; 02270 - Authority of Office of Inspector General](%C2%A7%2002270%20-%20Authority%20of%20Office%20of%20Inspector%20General.md)
 - [&sect; 02270a - Office of Inspector General; transfer of forfeiture funds for law enforcement activities](%C2%A7%2002270a%20-%20Office%20of%20Inspector%20General%3B%20transfer%20of%20forfeiture%20funds%20for%20law%20enforcement%20activities.md)
+- [&sect; 02270b - Department of Agriculture Inspector General investigation of Forest Service firefighter deaths](%C2%A7%2002270b%20-%20Department%20of%20Agriculture%20Inspector%20General%20investigation%20of%20Forest%20Service%20firefighter%20deaths.md)
+- [&sect; 02270c - Submission of results](%C2%A7%2002270c%20-%20Submission%20of%20results.md)
 - [&sect; 02271 - Marketing education programs for small and medium size family farm operations](%C2%A7%2002271%20-%20Marketing%20education%20programs%20for%20small%20and%20medium%20size%20family%20farm%20operations.md)
 - [&sect; 02271a - Advanced marketing training for farmers and ranchers](%C2%A7%2002271a%20-%20Advanced%20marketing%20training%20for%20farmers%20and%20ranchers.md)
 - [&sect; 02272 - Volunteers for Department of Agriculture programs](%C2%A7%2002272%20-%20Volunteers%20for%20Department%20of%20Agriculture%20programs.md)
@@ -321,6 +326,7 @@
 - [&sect; 02277 - Contracts by Animal and Plant Health Inspection Service for services to be performed abroad](%C2%A7%2002277%20-%20Contracts%20by%20Animal%20and%20Plant%20Health%20Inspection%20Service%20for%20services%20to%20be%20performed%20abroad.md)
 - [&sect; 02278 - Consistency with international obligations of United States](%C2%A7%2002278%20-%20Consistency%20with%20international%20obligations%20of%20United%20States.md)
 - [&sect; 02279 - Outreach and assistance for socially disadvantaged farmers and ranchers](%C2%A7%2002279%20-%20Outreach%20and%20assistance%20for%20socially%20disadvantaged%20farmers%20and%20ranchers.md)
+- [&sect; 02279&#8211;1 - Transparency and accountability for socially disadvantaged farmers and ranchers](%C2%A7%2002279%E2%80%931%20-%20Transparency%20and%20accountability%20for%20socially%20disadvantaged%20farmers%20and%20ranchers.md)
 - [&sect; 02279a - Fair and equitable treatment of socially disadvantaged producers](%C2%A7%2002279a%20-%20Fair%20and%20equitable%20treatment%20of%20socially%20disadvantaged%20producers.md)
 - [&sect; 02279b - Operation of Graduate School of Department of Agriculture as nonappropriated fund instrumentality](%C2%A7%2002279b%20-%20Operation%20of%20Graduate%20School%20of%20Department%20of%20Agriculture%20as%20nonappropriated%20fund%20instrumentality.md)
 - [&sect; 02279c - Student internship programs](%C2%A7%2002279c%20-%20Student%20internship%20programs.md)

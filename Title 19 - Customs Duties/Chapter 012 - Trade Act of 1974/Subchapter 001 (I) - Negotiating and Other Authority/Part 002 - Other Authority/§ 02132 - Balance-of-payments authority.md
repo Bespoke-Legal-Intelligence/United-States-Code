@@ -22,7 +22,7 @@ Whenever fundamental international payments problems require special import meas
 
 #### (b) Import restrictions not imposed when contrary to national interest of United States
 
-If the President determines that the imposition of import restrictions under subsection (a)of this section will be contrary to the national interest of the United States, then he may refrain from proclaiming such restrictions and he shall—
+If the President determines that the imposition of import restrictions under subsection (a) of this section will be contrary to the national interest of the United States, then he may refrain from proclaiming such restrictions and he shall—
 
 &emsp;(1) immediately inform Congress of his determination, and
 

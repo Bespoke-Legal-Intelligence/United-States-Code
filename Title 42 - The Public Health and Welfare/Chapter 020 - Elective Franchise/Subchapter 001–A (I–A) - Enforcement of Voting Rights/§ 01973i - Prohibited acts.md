@@ -40,5 +40,5 @@ Amendment by Pub. L. 91–405 effective Sept. 22, 1970, see section 206(b) of Pu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1973j, 1973aa–1 of this title.
+This section is referred to in sections 1973j, 1973aa–1, 15544 of this title.
 

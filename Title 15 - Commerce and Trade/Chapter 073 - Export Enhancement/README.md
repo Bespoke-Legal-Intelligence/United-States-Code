@@ -29,7 +29,7 @@
 
 |  |  |
 | :--- | ---: |
-| 4711\. | Country reports on economic policy and trade practices. |
+| 4711\. | Repealed. |
 | 4712\. | Barter and countertrade. |
 | (a) | Interagency group. |
 | (b) | Office of Barter. |

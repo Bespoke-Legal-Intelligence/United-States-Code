@@ -56,7 +56,7 @@ The Public Health Service Act, referred to in subsec. (e), is act July 1, 1944, 
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–170, §101(b)(1)(B), struck out heading and text of subsec. (a). Text read as follows: “It is declared to be the policy of the Congress that disabled individuals applying for a determination of disability, and disabled individuals who are entitled to child's insurance benefits, widow's insurance benefits, or widower's insurance benefits, shall be promptly referred to the State agency or agencies administering or supervising the administration of the State plan approved under title I of the Rehabilitation Act of 1973 for necessary vocational rehabilitation services, to the end that the maximum number of such individuals may be rehabilitated into productive activity.”
+1999—Subsec. (a). Pub. L. 106–170, §101(b)(1)(B), struck out heading and text of subsec. (a). Text read as follows: “It is declared to be the policy of the Congress that disabled individuals applying for a determination of disability, and disabled individuals who are entitledto child's insurance benefits, widow's insurance benefits, or widower's insurance benefits, shall be promptly referred to the State agency or agencies administering or supervising the administration of the State plan approved under title I of the Rehabilitation Act of 1973 for necessary vocational rehabilitation services, to the end that the maximum number of such individuals may be rehabilitated into productive activity.”
 
 Subsec. (b). Pub. L. 106–170, §101(b)(1)(C), struck out heading and text of subsec. (b), which authorized deductions from payments under this subchapter up to amount of benefits on account of refusal without good cause to accept rehabilitation services, and authorized deductions from payments to husbands, wives, or children of individuals who refuse to accept such services with exception for children between 18 and 22 who are full-time students.
 
@@ -128,7 +128,7 @@ Subsecs. (b), (c). Act Aug. 1, 1956, added subsecs. (b) and (c).
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–170 effective with the first month following one year after Dec. 17, 1999, subject to section 101(d) of Pub. L. 106–170, see section 101(c) of Pub. L. 106–170, set out as an Effective Date note under section 1320b–19 of this title.
+Amendment by Pub. L. 106–170 effective with the first month following one year after Dec. 17, 1999, subject tosection 101(d) of Pub. L. 106–170, see section 101(c) of Pub. L. 106–170, set out as an Effective Date note under section 1320b–19 of this title.
 
 #### Effective Date of 1996 Amendment
 

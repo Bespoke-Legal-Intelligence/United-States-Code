@@ -36,7 +36,7 @@ The Secretary of State is authorized to establish within the Department of State
 
 #### Ex. Ord. No. 13257. President's Interagency Task Force To Monitor and Combat Trafficking in Persons
 
-Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, provided:
+Ex. Ord. No. 13257, Feb. 13, 2002, 67 F.R. 7259, as amended by Ex. Ord. No. 13286, §5, Feb. 28, 2003, 68 F.R. 10619, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Trafficking Victims Protection Act of 2000, (22 U.S.C. 7103) \[this chapter\] (the “Act”), and in order to combat trafficking in persons, a contemporary manifestation of slavery whose victims are predominantly women and children, to ensure just and effective punishment of traffickers, and to protect their victims, it is hereby ordered as follows:
 
@@ -52,13 +52,15 @@ Section 1. (a) The President's Interagency Task Force to Monitor and Combat Traf
 
 &emsp;(iv) the Secretary of Health and Human Services;
 
-&emsp;(v) the Director of Central Intelligence;
+&emsp;(v) the Secretary of Homeland Security;
 
-&emsp;(vi) the Director of the Office of Management and Budget;
+&emsp;(vi) the Director of Central Intelligence;
 
-&emsp;(vii) the Administrator of the United States Agency for International Development; and
+&emsp;(vii) the Director of the Office of Management and Budget;
 
-&emsp;(viii) any additional officers or employees of the United States as may be designated by the President.
+&emsp;(viii) the Administrator of the United States Agency for International Development; and
+
+&emsp;(ix) any additional officers or employees of the United States as may be designated by the President.
 
 (c) The Task Force shall be chaired by the Secretary of State.
 

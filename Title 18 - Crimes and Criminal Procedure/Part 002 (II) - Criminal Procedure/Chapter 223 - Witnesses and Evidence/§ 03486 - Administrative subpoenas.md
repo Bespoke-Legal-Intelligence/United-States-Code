@@ -56,7 +56,7 @@ Authorization.—(1)(A) In any investigation of—
 
 (b)
 
-Service.—A subpoena issued under this section may be served by any person who is at least 18 years of age and is designated in the subpoena to serve it. Service upon a natural person may be made by personal delivery of the subpoena to him. Service may be made upon adomestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the subpoena to an officer, to a managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The affidavit of the person serving the subpoena entered on a true copy thereof by the person serving it shall be proof of service.
+Service.—A subpoena issued under this section may be served by any person who is at least 18 years of age and is designated in the subpoena to serve it. Service upon a natural person may be made by personal delivery of the subpoena to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the subpoena to an officer, to a managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The affidavit of the person serving the subpoena entered on a true copy thereof by the person serving it shall be proof of service.
 
 (c)
 
@@ -101,6 +101,10 @@ Subsec. (d). Pub. L. 106–544, §5(c)(2), substituted “subpoena” for “sum
 1998—Pub. L. 105–314 substituted “Administrative subpoenas in Federal health care investigations” for “Authorized investigative demand procedures” in section catchline.
 
 Subsec. (a)(1). Pub. L. 105–277 inserted “or any act or activity involving a Federal offense relating to the sexual exploitation or other abuse of children,” after “health care offense,” in introductory provisions.
+
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

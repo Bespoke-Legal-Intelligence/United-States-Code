@@ -28,7 +28,7 @@ The term “United States” as used in this section includes the Canal Zone, an
 
 #### (d) Nonadmission of certain aliens
 
-Nothing in this section shall be construed to entitle an alien to whom a permit to enter theUnited States has been issued to enter the United States, if, upon arrival in the United States, he is found to be inadmissible under any of the provisions of this chapter, or any other law, relative to the entry of aliens into the United States.
+Nothing in this section shall be construed to entitle an alien to whom a permit to enter the United States has been issued to enter the United States, if, upon arrival in the United States, he is found to be inadmissible under any of the provisions of this chapter, or any other law, relative to the entry of aliens into the United States.
 
 #### (e) Revocation of proclamation as affecting penalties
 
@@ -36,7 +36,7 @@ The revocation of any rule, regulation, or order issued in pursuance of this sec
 
 #### (f) Permits to enter
 
-Passports, visas, reentry permits, and other documents required for entry under this chapter may be considered as permits to enter for the purposes of this section.
+Passports, visas, reentry permits, and other documents required for entry under this chaptermay be considered as permits to enter for the purposes of this section.
 
 (June 27, 1952, ch. 477, title II, ch. 2, §215, 66 Stat. 190; Pub. L. 95–426, title VII, §707(a)–(d), Oct. 7, 1978, 92 Stat. 992, 993; Pub. L. 103–416, title II, §204(a), Oct. 25, 1994, 108 Stat 4311.)
 
@@ -63,6 +63,10 @@ Subsecs. (f), (g). Pub. L. 95–426, §707(d), redesignated subsec. (g) as (f). 
 #### Effective Date of 1994 Amendment
 
 Section 204(b) of Pub. L. 103–416 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to departures and entries (and attempts thereof) occurring on or after the date of enactment of this Act \[Oct. 25, 1994\].”
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Delegation of Authority Under Sections 1182(f) and 1185(a)(1) of This Title
 

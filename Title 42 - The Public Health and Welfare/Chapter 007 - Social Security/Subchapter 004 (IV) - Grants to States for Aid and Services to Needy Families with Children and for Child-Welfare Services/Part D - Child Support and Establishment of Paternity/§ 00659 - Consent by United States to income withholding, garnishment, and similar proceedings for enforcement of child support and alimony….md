@@ -16,7 +16,7 @@ With respect to notice to withhold income pursuant to subsection (a)(1) or (b) o
 
 &emsp;&emsp;(A) designate an agent or agents to receive orders and accept service of process in matters relating to child support or alimony; and
 
-&emsp;&emsp;(B) annually publish in the Federal Register the designation of the agent or agents,identified by title or position, mailing address, and telephone number.
+&emsp;&emsp;(B) annually publish in the Federal Register the designation of the agent or agents, identified by title or position, mailing address, and telephone number.
 
 #### (2) Response to notice or process
 
@@ -120,7 +120,7 @@ For purposes of this section—
 
 #### (2) Child support
 
-&emsp;The term “child support”, when used in reference to the legal obligations of an individual to provide such support, means amounts required to be paid under a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or a child and the parent with whom the child is living, which provides for monetary support, health care, arrearages or reimbursement, and which may include other related costs and fees, interest and penalties, income withholding, attorney's fees, and other relief.
+&emsp;The term “child support”, when used in reference to the legal obligations of an individualto provide such support, means amounts required to be paid under a judgment, decree, or order, whether temporary, final, or subject to modification, issued by a court or an administrative agency of competent jurisdiction, for the support and maintenance of a child, including a child who has attained the age of majority under the law of the issuing State, or a child and the parent with whom the child is living, which provides for monetary support, health care, arrearages or reimbursement, and which may include other related costs and fees, interest and penalties, income withholding, attorney's fees, and other relief.
 
 #### (3) Alimony
 
@@ -152,7 +152,7 @@ For purposes of this section—
 
 &emsp;&emsp;&emsp;(iii) an authorized official pursuant to an order of such a court or an administrative agency of competent jurisdiction or pursuant to State or local law; and
 
-&emsp;&emsp;(B) which is directed to, and the purpose of which is to compel, a governmental entity which holds moneys which are otherwise payable to an individual to make a paymentfrom the moneys to another party in order to satisfy a legal obligation of the individual to provide child support or make alimony payments.
+&emsp;&emsp;(B) which is directed to, and the purpose of which is to compel, a governmental entity which holds moneys which are otherwise payable to an individual to make a payment from the moneys to another party in order to satisfy a legal obligation of the individual to provide child support or make alimony payments.
 
 (Aug. 14, 1935, ch. 531, title IV, §459, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2357; amended Pub. L. 95–30, title V, §501(a), (b), May 23, 1977, 91 Stat. 157; Pub. L. 98–21, title III, §335(b)(1), Apr. 20, 1983, 97 Stat. 130; Pub. L. 104–193, title III, §362(a), Aug. 22, 1996, 110 Stat. 2242; Pub. L. 105–33, title V, §5542(a), (b), Aug. 5, 1997, 111 Stat. 631; Pub. L. 106–169, title II, §251(b)(3), Dec. 14, 1999, 113 Stat. 1855.)
 
@@ -193,10 +193,6 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 Section 362(d) of Pub. L. 104–193 provided that: “The amendments made by this section \[amending this section, section 5520a of Title 5, Government Organization and Employees, and section 1408 of Title 10, Armed Forces, and repealing sections 661 and 662 of this title\] shall become effective 6 months after the date of the enactment of this Act \[Aug. 22, 1996\].”
 
 For provisions relating to effective date of title III of Pub. L. 104–193, see section 395(a)–(c) of Pub. L. 104–193, set out as a note under section 654 of this title.
-
-#### Pilot Program on Alternative Notice of Receipt of Legal Process for Garnishment of Federal Pay for Child Support and Alimony
-
-For provisions relating to pilot program on alternative notice procedures for withholding or garnishment of pay for payment of child support and alimony under this section, see section 1061 of Pub. L. 105–261, set out as a note under section 5520a of Title 5, Government Organization and Employees.
 
 #### Executive Order No. 11881
 
@@ -270,7 +266,7 @@ Sec. 302. <i>Service of Legal Process</i>. Every Federal agency shall assist in 
 
 Sec. 303. <i>Federal Parent Locator</i>. Every Federal agency shall cooperate with the Federal Parent Locator Service, established under 42 U.S.C. 653, by providing complete, timely and accurate information that will assist in locating noncustodial parents and their employers.
 
-Sec. 304. <i>Crossmatch for Delinquent Obligors</i>. (a) The master file of delinquent obligors that each State child support enforcement agency submits to the Internal Revenue Service for Federal income tax refund offset purposes shall be matched at least annually with the payroll or personnel files of Federal agencies in order to determine if there are any Federal employees with child support delinquencies. The list of matches shall be forwarded to the appropriate State child support enforcement agency to determine, in each instance, whether wage withholding or other enforcement actions should be commenced. All matches will be performed in accordance with 5 U.S.C. 552a(<i>o</i>)–(u).
+Sec. 304. <i>Crossmatch for Delinquent Obligors</i>. (a) The master file of delinquent obligors that each State child support enforcement agency submits to the Internal Revenue Service for Federal income tax refund offsetpurposes shall be matched at least annually with the payroll or personnel files of Federal agencies in order to determine if there are any Federal employees with child support delinquencies. The list of matches shall be forwarded to the appropriate State child support enforcement agency to determine, in each instance, whether wage withholding or other enforcement actions should be commenced. All matches will be performed in accordance with 5 U.S.C. 552a(<i>o</i>)–(u).
 
 (b) All Federal agencies shall inform current and prospective employees that crossmatches are routinely made between Federal personnel records and State records on individuals who owe child support, and inform employees how to initiate voluntary wage withholding requests.
 

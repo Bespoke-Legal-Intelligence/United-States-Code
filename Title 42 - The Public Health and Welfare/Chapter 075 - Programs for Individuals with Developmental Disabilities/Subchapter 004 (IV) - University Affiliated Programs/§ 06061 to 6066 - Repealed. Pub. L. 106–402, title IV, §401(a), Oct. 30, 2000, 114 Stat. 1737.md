@@ -6,7 +6,7 @@ A prior section 6061, Pub. L. 88–164, title I, §131, as added Pub. L. 91–51
 
 Section 6062, Pub. L. 88–164, title I, §152, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2681; amended Pub. L. 100–146, title IV, §402, Oct. 29, 1987, 101 Stat. 853; Pub. L. 101–496, §17, Oct. 31, 1990, 104 Stat. 1200; Pub. L. 103–230, title IV, §403, Apr. 6, 1994, 108 Stat. 320; Pub. L. 105–12, §9(<i>l</i>)(3), Apr. 30, 1997, 111 Stat. 28, provided for administration and operation grants.
 
-A prior section 6062, Pub. L. 88–164, title I, §132, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1317; amended Pub. L. 94–103, title I, §110(b)–(e)(1), title III, §302(b)(1), Oct. 4, 1975, 89 Stat. 489, 490, 506; Pub. L. 94–278, title XI, §1107(a) Apr. 22, 1976, 90 Stat. 416; Pub. L. 95–602, title V, §510(b), Nov. 6, 1978, 92 Stat. 3010, related to allotments to States, prior to the general amendment of this chapter by Pub. L. 98–527.
+A prior section 6062, Pub. L. 88–164, title I, §132, as added Pub. L. 91–517, title I, §101(b), Oct. 30, 1970, 84 Stat. 1317; amended Pub. L. 94–103, title I, §110(b)–(e)(1), title III, §302(b)(1), Oct. 4, 1975, 89 Stat. 489, 490, 506; Pub. L. 94–278, title XI, §1107(a) Apr. 22, 1976, 90 Stat.416; Pub. L. 95–602, title V, §510(b), Nov. 6, 1978, 92 Stat. 3010, related to allotments to States, prior to the general amendment of this chapter by Pub. L. 98–527.
 
 Section 6063, Pub. L. 88–164, title I, §153, as added Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2682; amended Pub. L. 100–146, title IV, §403, Oct. 29, 1987, 101 Stat. 855; Pub. L. 101–496, §18, Oct. 31, 1990, 104 Stat. 1203; Pub. L. 103–230, title IV, §404, Apr. 6, 1994, 108 Stat. 324, related to applications.
 

@@ -14,7 +14,7 @@ Pub. L. 100–180, div. C, title II, §3201, Dec. 4, 1987, 101 Stat. 1245, provi
 
 #### Short Title of 1979 Amendment
 
-Section 1 of Pub. L. 96–41 provided: “That this Act \[enacting this section and sections 98a to 98h–3 of this title, redesignating former section 98h–1 of this title as 98h–4 of this title, amending section 2093 of the Appendix to this title, sections 1743 and 1745 of Title 7, Agriculture, section 741b of Title 15, Commerce and Trade, and section 485 of Title 40, Public Buildings, Property, and Works, enacting a provision set out as a note under this section, and repealing a provision set out as a note under this section\] may be cited as the ‘Strategic and Critical Materials Stock Piling Revision Act of 1979’.”
+Section 1 of Pub. L. 96–41 provided: “That this Act \[enacting this section and sections 98a to 98h–3 of this title, redesignating former section 98h–1 of this title as 98h–4 of this title, amending section 2093 of the Appendix to this title, sections 1743 and 1745 of Title 7, Agriculture, section 741b of Title 15, Commerce and Trade, and section 485 of former Title 40, Public Buildings, Property, and Works, enacting a provision set out as a note under this section, and repealing a provision set out as a note under this section\] may be cited as the ‘Strategic and Critical Materials Stock Piling Revision Act of 1979’.”
 
 #### Short Title
 
@@ -38,7 +38,7 @@ Section 1. The Secretary of Defense is designated National Defense Stockpile Man
 
 Sec. 2. The functions vested in the President by section 4(h) of the Commodity Credit Corporation Charter Act, as amended (15 U.S.C. 714b(h)), are delegated to the Secretary of Defense.
 
-Sec. 3. The functions vested in the President by section 204(f) of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 485(f)), are delegated to the Secretary of Defense.
+Sec. 3. The functions vested in the President by section 204(f) of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 485(f)) \[now 40 U.S.C. 574(d)\], are delegated to the Secretary of Defense.
 
 Sec. 4. In executing the functions delegated to him by this Order, the Secretary of Defense may delegate such functions as he may deem appropriate, subject to his direction. The Secretary shall consult with the heads of affected agencies in performing the functions delegated to him by this Order.
 

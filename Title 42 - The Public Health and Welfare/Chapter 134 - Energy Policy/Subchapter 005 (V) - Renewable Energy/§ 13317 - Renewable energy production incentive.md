@@ -34,7 +34,7 @@ A qualified renewable energy facility may receive payments under this section fo
 
 #### (2) Adjustments
 
-&emsp;The amount of the payment made to any person under this subsection as provided in paragraph (1) shall be adjusted for inflation for each fiscal year beginning after calendar year 1993 in the same manner as provided in the provisions of section 29(d)(2)(B) of title 26, except that in applying such provisions the calendar year 1993 shall be substituted for calendar year 1979.
+&emsp;The amount of the payment made to any person under this subsection as provided in paragraph (1) shall be adjusted for inflation for each fiscal year beginning after calendar year 1993 in the same manner as provided in theprovisions of section 29(d)(2)(B) of title 26, except that in applying such provisions the calendar year 1993 shall be substituted for calendar year 1979.
 
 #### (f) Sunset
 

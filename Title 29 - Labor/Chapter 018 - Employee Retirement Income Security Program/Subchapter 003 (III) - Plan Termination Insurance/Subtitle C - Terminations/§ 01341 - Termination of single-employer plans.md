@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) of the projected amount of the assets of the plan (as of a proposed date of final distribution of assets),
 
-&emsp;&emsp;&emsp;&emsp;(II) of the actuarial present value (as of such date) of the benefit liabilities (determined as of the proposed termination date) under the plan, and
+&emsp;&emsp;&emsp;&emsp;(II) of the actuarial present value (as of such date) of the benefit liabilities\(determined as of the proposed termination date) under the plan, and
 
 &emsp;&emsp;&emsp;&emsp;(III) that the plan is projected to be sufficient (as of such proposed date of final distribution) for such benefit liabilities,
 
@@ -108,7 +108,7 @@
 
 #### (B) Certification to the corporation of final distribution of assets
 
-&emsp;&emsp;Within 30 days after the final distribution of assets is completed pursuant to the standard termination of the plan under this subsection, the plan administrator shall send a notice to the corporation certifying that the assets of the plan have been distributed in accordance with the provisions of subparagraph (A) so as to pay all benefit liabilities under the plan.
+&emsp;&emsp;Within 30 days after the final distribution of assets is completed pursuant to the standard termination of the plan under this subsection, the plan administrator shall send a notice to the corporation certifying that theassets of the plan have been distributed in accordance with the provisions of subparagraph (A) so as to pay all benefit liabilities under the plan.
 
 #### (4) Continuing authority
 
@@ -168,7 +168,7 @@
 
 &emsp;&emsp;&emsp;The requirements of this clause are met by a person if—
 
-&emsp;&emsp;&emsp;&emsp;(I) such person has filed or has had filed against such person, as of the proposed termination date, a petition seeking liquidation in a case under title 11 or under any similar Federal law or law ofa State or political subdivision of a State (or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought), and
+&emsp;&emsp;&emsp;&emsp;(I) such person has filed or has had filed against such person, as of the proposed termination date, a petition seeking liquidation in a case under title 11 or under any similar Federal law or law of a State or political subdivision of a State (or a case described in clause (ii) filed by or against such person has been converted, as of such date, to a case in which liquidation is sought), and
 
 &emsp;&emsp;&emsp;&emsp;(II) such case has not, as of the proposed termination date, been dismissed.
 
@@ -228,7 +228,7 @@
 
 #### (i) Finding with respect to benefit liabilities which are not guaranteed benefits
 
-&emsp;&emsp;&emsp;If, after the plan administrator has begun to terminate the plan as authorizedunder subparagraph (B)(i), the plan administrator finds that the plan is unable, or will be unable, to pay benefit liabilities which are not benefits guaranteed by the corporation under section 1322 of this title, the plan administrator shall notify the corporation of such finding as soon as practicable thereafter.
+&emsp;&emsp;&emsp;If, after the plan administrator has begun to terminate the plan as authorized under subparagraph (B)(i), the plan administrator finds that the plan is unable, or will be unable, to pay benefit liabilities which are not benefits guaranteed by the corporation under section 1322 of this title, the plan administrator shall notify the corporation of such finding as soon as practicable thereafter.
 
 #### (ii) Finding with respect to guaranteed benefits
 
@@ -370,7 +370,7 @@ Subsec. (c)(3)(B)(ii). Pub. L. 100–203, §9313(a)(2)(D), substituted in headin
 
 Pub. L. 100–203, §9312(c)(1), struck out former subcl. (I) designation and substituted comma for dash before “the plan administrator”, substituted period for “, and” after “termination of the plan”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title.”
 
-Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before “the corporation shall commence”, substituted period for “, and” after “section 1342 of this title”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporationdetermines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title.”
+Subsec. (c)(3)(B)(iii). Pub. L. 100–203, §9312(c)(2), struck out former subcl. (I) designation and substituted comma for dash before “the corporation shall commence”, substituted period for “, and” after “section 1342 of this title”, and struck out former subcl. (II) which read as follows: “the corporation shall establish a separate trust in connection with the plan for purposes of section 1349 of this title unless the corporation determines that all benefit commitments under the plan are benefits guaranteed by the corporation under section 1322 of this title.”
 
 Subsec. (c)(3)(C)(i). Pub. L. 100–203, §9313(a)(2)(D), substituted in heading and text “benefit liabilities” for “benefit commitments”.
 
@@ -560,7 +560,7 @@ General rule.—Except as provided in subparagraph (B), the Corporation shall no
 
 &emsp;“(B)
 
-Exception in cases of substantial business hardship.—Except in the case of an acquisition, takeover, or leveraged buyout, the preceding provisions of this subsection shall not apply if the contributing sponsor demonstrates to the satisfaction of the Corporation that the contributing sponsor is experiencing substantial business hardship. For purposes of this subparagraph, a contributing sponsor shall be considered as experiencing substantial business hardship if the contributing sponsor has been operating, and can demonstrate that the contributing sponsor will continue to operate, at an economic loss.”
+Exception in cases of substantial business hardship.—Except in the case of an acquisition, takeover, or leveraged buyout, the preceding provisions of this subsection shall not apply if the contributing sponsor demonstrates to the satisfaction of the Corporation that the contributing sponsor is experiencing substantial business hardship. For purposes ofthis subparagraph, a contributing sponsor shall be considered as experiencing substantial business hardship if the contributing sponsor has been operating, and can demonstrate that the contributing sponsor will continue to operate, at an economic loss.”
 
 #### Section Referred to in Other Sections
 

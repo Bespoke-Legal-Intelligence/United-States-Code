@@ -2,7 +2,7 @@
 
 (a)
 
-Offense Against a National of the United States or Within the United States.—A person who, without lawful authority, uses, threatens, or attempts or conspires to use, a weapon of mass destruction (other than a chemical weapon as that term is defined in section 229F), including any biological agent, toxin, or vector (as those terms are defined in section 178)—
+Offense Against a National of the United States or Within the United States.—A person who, without lawful authority, uses, threatens, or attempts or conspires to use, a weapon of mass destruction (other than a chemical weapon as that term is defined in section 229F)—
 
 &emsp;(1) against a national of the United States while such national is outside of the United States;
 
@@ -28,13 +28,17 @@ Definitions.—For purposes of this section—
 
 &emsp;&emsp;(B) any weapon that is designed or intended to cause death or serious bodily injury through the release, dissemination, or impact of toxic or poisonous chemicals, or their precursors;
 
-&emsp;&emsp;(C) any weapon involving a disease organism; or
+&emsp;&emsp;(C) any weapon involving a biological agent, toxin, or vector (as those terms are defined in section 178 of this title); or
 
 &emsp;&emsp;(D) any weapon that is designed to release radiation or radioactivity at a level dangerous to human life.
 
-(Added Pub. L. 103–322, title VI, §60023(a), Sept. 13, 1994, 108 Stat. 1980; amended Pub. L. 104–132, title V, §511(c), title VII, §725, Apr. 24, 1996, 110 Stat. 1284, 1300; Pub. L. 104–294, title VI, §605(m), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–277, div. I, title II, §201(b)(1), Oct. 21, 1998, 112 Stat. 2681–871.)
+(Added Pub. L. 103–322, title VI, §60023(a), Sept. 13, 1994, 108 Stat. 1980; amended Pub. L. 104–132, title V, §511(c), title VII, §725, Apr. 24, 1996, 110 Stat. 1284, 1300; Pub. L. 104–294, title VI, §605(m), Oct. 11, 1996, 110 Stat. 3510; Pub. L. 105–277, div. I, title II, §201(b)(1), Oct. 21, 1998, 112 Stat. 2681–871; Pub. L. 107–188, title II, §231(d), June 12, 2002, 116 Stat. 661.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–188, §231(d)(1), substituted “section 229F)—” for “section 229F), including any biological agent, toxin, or vector (as those terms are defined in section 178)—” in introductory provisions.
+
+Subsec. (c)(2)(C). Pub. L. 107–188, §231(d)(2), substituted “a biological agent, toxin, or vector (as those terms are defined in section 178 of this title)” for “a disease organism”.
 
 1998—Pub. L. 105–277, §201(b)(1)(A), inserted “certain” before “weapons” in section catchline.
 
@@ -58,5 +62,5 @@ Subsec. (c). Pub. L. 104–132, §725(3), redesignated subsec. (b) as (c).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 842, 1956, 2332b, 2332e, 2339, 2339A, 2516, 3592 of this title; title 22 section 2296c.
+This section is referred to in sections 842, 1956, 2332b, 2332e, 2332f, 2339, 2339A, 2516, 3592 of this title; title 19 section 1583; title 22 section 2296c.
 

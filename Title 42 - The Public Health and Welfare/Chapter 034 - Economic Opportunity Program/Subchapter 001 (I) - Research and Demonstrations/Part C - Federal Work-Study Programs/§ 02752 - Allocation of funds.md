@@ -10,7 +10,7 @@
 
 &emsp;(ii) 90 percent of the amount received and used under this part for the first year it participated in the program.
 
-(B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 and is a first or second time participant, an amount equal to the greatest of—
+(B) From the amount so appropriated, the Secretary shall next allocate to each eligible institution that began participation in the program under this part after fiscal year 1999 and is afirst or second time participant, an amount equal to the greatest of—
 
 &emsp;(i) $5,000;
 
@@ -58,7 +58,7 @@
 
 &emsp;(A) establish various income categories for dependent and independent undergraduate students;
 
-&emsp;(B) establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expectedfamily contribution (computed in accordance with part F of this title \[20 U.S.C. 1087kk et seq.\]) of a representative sample within each income category for the second preceding fiscal year;
+&emsp;(B) establish an expected family contribution for each income category of dependent and independent undergraduate students, determined on the basis of the average expected family contribution (computed in accordance with part F of this title \[20 U.S.C. 1087kk et seq.\]) of a representative sample within each income category for the second preceding fiscal year;
 
 &emsp;(C) compute 25 percent of the average cost of attendance for all undergraduate students;
 
@@ -112,7 +112,7 @@
 
 The Secretary shall, from time to time, set dates before which institutions must file applications for allocations under this part.
 
-(Pub. L. 89–329, title IV, §442, formerly title I, §142, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(1), (3), 133(a), 135, Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 92–318, title I, §135B, June 23, 1972, 86 Stat. 270; Pub. L. 96–374, title IV, §§432, 433, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1433, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; Pub. L. 100–50, §11(a), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §442, July 23, 1992, 106 Stat. 564; Pub. L. 103–208, §2(d)(1), (2), Dec. 20, 1993, 107Stat. 2470; Pub. L. 105–244, title IV, §442(a), (b), Oct. 7, 1998, 112 Stat. 1712.)
+(Pub. L. 89–329, title IV, §442, formerly title I, §142, as added, renumbered, and amended Pub. L. 90–575, title I, §§131(a), (b)(1), (3), 133(a), 135, Oct. 16, 1968, 82 Stat. 1028, 1029; Pub. L. 92–318, title I, §135B, June 23, 1972, 86 Stat. 270; Pub. L. 96–374, title IV, §§432, 433, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1433, 1503; Pub. L. 99–498, title IV, §403(a), Oct. 17, 1986, 100 Stat. 1429; Pub. L. 100–50, §11(a), June 3, 1987, 101 Stat. 348; Pub. L. 102–325, title IV, §442, July 23, 1992, 106 Stat. 564; Pub. L. 103–208, §2(d)(1), (2), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §442(a), (b), Oct. 7, 1998, 112 Stat. 1712.)
 
 #### References in Text
 
@@ -210,7 +210,7 @@ Amendment by Pub. L. 96–374 effective Oct. 1, 1980, see section 1393(a) of Pub
 
 #### College Work-Study Allotment for Specific Fiscal Years
 
-Pub. L. 98–8, title I, §100, Mar. 24, 1983, 97 Stat. 27, provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section and section 11 of Public Law 97–301, set out as a note below, the Secretary should allot the sums appropriated pursuant to section 2751(b) of this title for fiscal year 1983 among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981.
+Pub. L. 98–8, title I, §100, Mar. 24, 1983, 97 Stat. 27, provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section and section 11 of Public Law 97–301, set out as a note below, the Secretary should allot the sums appropriated pursuant to section 2751(b) of this title for fiscal year 1983 among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscalyear 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981.
 
 Pub. L. 97–301, §11, Oct. 13, 1982, 96 Stat. 1403, which provided that notwithstanding subsecs. (a), (b), (c), and (e) of this section, if in fiscal year 1983, fiscal year 1984, or fiscal year 1985 the sums appropriated pursuant to section 2751(b) of this title were less than the sums appropriated pursuant to such section for the fiscal year 1981, the Secretary should allot the sums appropriated pursuant to that section for such fiscal year among the States so that each State's allotment bore the same ratio to the total amount appropriated as that State's allotment in fiscal year 1981 bore to the total amount appropriated pursuant to that section for fiscal year 1981 was repealed by Pub. L. 99–498, title IV, §408(b), Oct. 17, 1986, 100 Stat. 1495, eff. with respect to any academic year beginning on or after July 1, 1988.
 

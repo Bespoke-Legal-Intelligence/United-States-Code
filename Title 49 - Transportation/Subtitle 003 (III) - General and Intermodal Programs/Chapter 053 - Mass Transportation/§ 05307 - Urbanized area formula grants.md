@@ -18,9 +18,27 @@ Designated recipient.—The term “designated recipient” means—
 
 (b)
 
-General Authority.—(1) The Secretary of Transportation may make grants under this section for capital projects and to finance the planning and improvement costs of equipment, facilities, and associated capital maintenance items for use in mass transportation, including the renovation and improvement of historic transportation facilities with related private investment. The Secretary may also make grants under this section to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000. The Secretary may make grants under this section from funds made available for fiscal year 1998 to finance the operating costs of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000.
+General Authority.—(1) The Secretary of Transportation may make grants under this section for capital projects and to finance the planning and improvement costs of equipment, facilities, and associated capital maintenance items for use in mass transportation, including the renovation and improvement of historic transportation facilities with related private investment. The Secretary may also make grants under this section to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of less than 200,000.
 
-(2) In a transportation management area designated under section 5305(a) of this title, amounts that cannot be used to pay operating expenses under this section also are available for a highway project if—
+(2)
+
+Special rule for fiscal year 2003.—
+
+&emsp;(A)
+
+Increased flexibility.—The Secretary may make grants under this section, from funds made available to carry out this section for fiscal year 2003, to finance the operating cost of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000 as determined under the 2000 decennial census of population if—
+
+&emsp;&emsp;(i) the urbanized area had a population of less than 200,000 as determined under the 1990 Federal decennial census of population;
+
+&emsp;&emsp;(ii) a portion of the urbanized area was a separate urbanized area with a population of less than 200,000 as determined under the 1990 Federal decennial census of population; or
+
+&emsp;&emsp;(iii) the area was not designated as a urbanized area as determined under the 1990 Federal decennial census of population.
+
+&emsp;(B)
+
+Maximum amounts.—Amounts made available pursuant to subparagraphs (A)(i) and (A)(ii) shall be no more than the amount apportioned in fiscal year 2002 to the urbanized area with a population of less than 200,000 as determined in the 1990 Federal decennial census of population. Amounts made available pursuant to subparagraph (A)(iii) shall be no more than the amount apportioned under this section for fiscal year 2003.
+
+(3) In a transportation management area designated under section 5305(a) of this title, amounts that cannot be used to pay operating expenses under this section also are available for a highway project if—
 
 &emsp;(A) that use is approved, in writing, by the metropolitan planning organization under section 5303 of this title after appropriate notice and an opportunity for comment and appeal is provided to affected mass transportation providers;
 
@@ -28,7 +46,7 @@ General Authority.—(1) The Secretary of Transportation may make grants under t
 
 &emsp;(C) the metropolitan planning organization in approving the use under subparagraph (A) determines that the local transit needs are being addressed.
 
-(3) A project for the reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used, is a capital project for an associated capital maintenance item under this section.
+(4) A project for the reconstruction of equipment and material, each of which after reconstruction will have a fair market value of at least .5 percent of the current fair market value of rolling stock comparable to the rolling stock for which the equipment and material will be used, is a capital project for an associated capital maintenance item under this section.
 
 (c)
 
@@ -78,7 +96,7 @@ Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year
 
 &emsp;&emsp;(I) has a locally developed process to solicit and consider public comment before raising a fare or carrying out a major reduction of transportation; and
 
-&emsp;&emsp;(J)(i) will expend for each fiscal year for mass transportation security projects, including increased lighting in or adjacent to a mass transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned mass transportation system, at least one percent of the amount the recipient receives for each fiscal year under section 5336 of this title; or
+&emsp;&emsp;(J)(i) will expend for each fiscal year for mass transportation security projects, including increased lighting in or adjacent to a mass transportation system (including bus stops, subway stations, parking lots, and garages), increased camera surveillance of an area in or adjacent to that system, providing an emergency telephone line to contact law enforcement or security personnel in an area in or adjacent to that system, and any other project intended to increase the security and safety of an existing or planned mass transportation system, at least one percent of theamount the recipient receives for each fiscal year under section 5336 of this title; or
 
 &emsp;&emsp;(ii) has decided that the expenditure for security projects is not necessary; and
 
@@ -86,7 +104,7 @@ Grant Recipient Requirements.—A recipient may receive a grant in a fiscal year
 
 (e)
 
-Government's Share of Costs.—A grant of the Government for a capital project (including associated capital maintenance items) under this section is for 80 percent of the net project cost of the project. A recipient may provide additional local matching amounts. A grant for operating expenses may not be more than 50 percent of the net project cost of the project. The remainder of the net project cost shall be provided in cash from sources other than amounts of the Government or revenues from providing mass transportation (excluding revenues derived from the sale of advertising and concessions that are more than the amount of those revenues in the fiscal year that ended September 30, 1985). Transit system amounts that make up the remainder shall be from an undistributed cashsurplus, a replacement or depreciation cash fund or reserve, or new capital.
+Government's Share of Costs.—A grant of the Government for a capital project (including associated capital maintenance items) under this section is for 80 percent of the net project cost of the project. A recipient may provide additional local matching amounts. A grant for operating expenses may not be more than 50 percent of the net project cost of the project. The remainder of the net project cost shall be provided in cash from sources other than amounts of the Government or revenues from providing mass transportation (excluding revenues derived from the sale of advertising and concessions that are more than the amount of those revenues in the fiscal year that ended September 30, 1985). Transit system amounts that make up the remainder shall be from an undistributed cash surplus, a replacement or depreciation cash fund or reserve, or new capital.
 
 (f)
 
@@ -154,7 +172,7 @@ Report.—A recipient of funds apportioned under paragraph (1) shall submit, as 
 
 (<i>l</i>)
 
-Procurement System Approval.—A recipient may request the Secretary to approve its procurement system. The Secretary shall approve the system for use for procurements financed under section 5336 of this title if, after consulting with the Administrator for Federal Procurement Policy, the Secretary decides the system provides for competitive procurement.Approval of a system under this subsection does not relieve a recipient of the duty to certify under subsection (d)(1)(E) of this section.
+Procurement System Approval.—A recipient may request the Secretary to approve its procurement system. The Secretary shall approve the system for use for procurements financed under section 5336 of this title if, after consulting with the Administrator for Federal Procurement Policy, the Secretary decides the system provides for competitive procurement. Approval of a system under this subsection does not relieve a recipient of the duty to certify under subsection (d)(1)(E) of this section.
 
 (m)
 
@@ -166,7 +184,7 @@ Relationship to Other Laws.—(1) Section 1001 of title 18 applies to a certific
 
 (2) Sections 5302, 5318, 5319, 5323(a)(1), (d), and (f), 5332, and 5333 of this title apply to this section and to a grant made under this section. Except as provided in this section, no other provision of this chapter applies to this section or to a grant made under this section.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 795; Pub. L. 103–429, §6(7), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 104–287, §5(11), Oct. 11, 1996, 110 Stat. 3389; Pub. L. 105–178, title III, §3007(a)(1), (b)–(h), June 9, 1998, 112 Stat. 347, 348; Pub. L. 105–206, title IX, §9009(e), July 22, 1998, 112 Stat. 855; Pub. L. 107–232, §1, Oct. 1, 2002, 116 Stat. 1478.)
 
 Historical and Revision Notes
 
@@ -368,11 +386,15 @@ This amends 49:5307(a)(2) to delete an obsolete provision.
 
 #### References in Text
 
-The Americans with Disabilities Act of 1990, referred to in subsec. (b)(2)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
+The Americans with Disabilities Act of 1990, referred to in subsec. (b)(3)(B), is Pub. L. 101–336, July 26, 1990, 104 Stat. 327, as amended, which is classified principally to chapter 126 (§12101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 12101 of Title 42 and Tables.
 
 The Social Security Act, referred to in subsec. (d)(1)(D), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles II and XVIII of such Act are classified generally to subchapters II (§401 et seq.) and XVIII (§1395 et seq.) respectively, of chapter 7 of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–232, §1(1), struck out at end “The Secretary may make grants under this section from funds made available for fiscal year 1998 to finance the operating costs of equipment and facilities for use in mass transportation in an urbanized area with a population of at least 200,000.”
+
+Subsec. (b)(2) to (4). Pub. L. 107–232, §1(2)–(4), added par. (2), redesignated former pars. (2) and (3) as (3) and\(4), respectively, and realigned margins of par. (3)(C), as redesignated.
 
 1998—Pub. L. 105–178, §3007(a)(1), substituted “Urbanized area formula grants” for “Block grants” in section catchline.
 
@@ -484,7 +506,7 @@ Contents.—The report submitted under paragraph (1) shall include—
 
 #### Continuation of Operating Assistance to Certain Larger Urbanized Areas
 
-Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(<i>o</i>)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat.2681–439, 2681–477; Pub. L. 106–31, title VI, §6004, May 21, 1999, 113 Stat. 113; Pub. L. 106–346, §101(a) \[title III, §341\], Oct. 23, 2000, 114 Stat. 1356, 1356A–32, provided that:
+Pub. L. 105–178, title III, §3027(c), June 9, 1998, 112 Stat. 366; as amended by Pub. L. 105–206, title IX, §9009(<i>o</i>)(1), July 22, 1998, 112 Stat. 858; Pub. L. 105–277, div. A, §101(g) \[title III, §360\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–477; Pub. L. 106–31, title VI, §6004, May 21, 1999, 113 Stat. 113; Pub. L. 106–346, §101(a) \[title III, §341\], Oct. 23, 2000, 114 Stat. 1356, 1356A–32, provided that:
 
 “(1)
 

@@ -58,7 +58,7 @@ The Attorney General, acting through the Director of the Office of Correctional 
 
 &emsp;&emsp;(B) other State and local officials, with respect to other employment or training programs carried out by the Department of Justice or Department of Labor;
 
-&emsp;(7) collect from States information on the training accomplishments and employmentoutcomes of a sample of incarcerated persons and ex-offenders who were served by employment or training programs carried out, or that receive financial assistance through programs carried out, by the Department of Justice or Department of Labor; and
+&emsp;(7) collect from States information on the training accomplishments and employment outcomes of a sample of incarcerated persons and ex-offenders who were served by employment or training programs carried out, or that receive financial assistance through programs carried out, by the Department of Justice or Department of Labor; and
 
 &emsp;(8)(A) collect from States and local governments information on the development and implementation of correctional job training or placement programs; and
 

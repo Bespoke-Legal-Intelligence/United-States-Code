@@ -10,7 +10,7 @@ Pub. L. 106–65, div. C, title XXXI, §3175, Oct. 5, 1999, 113 Stat. 950, provi
 
 “(a)
 
-Requirement.—(1) The Secretary of Energy shall carry out a pilot program on use of project management oversight services (in this section referred to as ‘PMO services’) for construction projects of the Department of Energy.
+Requirement.—(1) The Secretary of Energy shall carry out a pilot program on use of project management oversight services (in this section referred to as‘PMO services’) for construction projects of the Department of Energy.
 
 “(2) The purpose of the pilot program shall be to provide a basis for determining whether or not the use of competitively procured, external PMO services for those construction projects would permit the Department to control excessive costs and schedule delays associated with those construction projects that have large capital costs.
 

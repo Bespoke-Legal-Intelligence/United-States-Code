@@ -26,7 +26,7 @@ There is authorized to be appropriated to carry out subsection (a) of this secti
 
 &emsp;(A) to the extent that such payment would exceed such State's allotment of the amount appropriated for such fiscal year; and
 
-&emsp;(B) unless such payment is for a project which, on the basis of an approved funding priority list of such State, is eligible to receive such payment based on the allotment and appropriation for such fiscal year.
+&emsp;(B) unless such payment is for a project which, on the basis of an approved funding priority list of such State, is eligible to receivesuch payment based on the allotment and appropriation for such fiscal year.
 
 > To the extent that sufficient funds are not appropriated to pay the full Federal share with respect to a project for which obligations under the provisions of this subsection have been made, the Administrator shall reduce the Federal share to such amount less than 75 per centum as such appropriations do provide.
 

@@ -48,7 +48,7 @@
 
 &emsp;No individual shall be selected as an enrollee unless the individual or organization implementing the standards and procedures described in subsection (a) of this section determines that—
 
-&emsp;&emsp;(A) there is a reasonable expectation that the individual considered for selection can participate successfully in group situations and activities, and is not likely to engage in behavior that would prevent other enrollees from receiving the benefit of the Job Corps program or be incompatible with the maintenance of sound discipline and satisfactory relationships between the Job Corps centerto which the individual might be assigned and communities surrounding the Job Corps center;
+&emsp;&emsp;(A) there is a reasonable expectation that the individual considered for selection can participate successfully in group situations and activities, and is not likely to engage in behavior that would prevent other enrollees from receiving the benefit of the Job Corps program or be incompatible with the maintenance of sound discipline and satisfactory relationships between the Job Corps center to which the individual might be assigned and communities surrounding the Job Corps center;
 
 &emsp;&emsp;(B) the individual manifests a basic understanding of both the rules to which the individual will be subject and of the consequences of failure to observe the rules; and
 
@@ -56,7 +56,7 @@
 
 #### (2) Individuals on probation, parole, or supervised release
 
-&emsp;An individual on probation, parole, or supervised release may be selected as an enrollee only if release from the supervision of the probation or parole official involved is satisfactory to the official and the Secretary and does not violate applicable laws (including regulations). No individual shall be denied a position in the Job Corps solely on the basis of individual contact with the criminal justice system.
+&emsp;An individual on probation, parole, or supervised release may be selected as an enrolleeonly if release from the supervision of the probation or parole official involved is satisfactory to the official and the Secretary and does not violate applicable laws (including regulations). No individual shall be denied a position in the Job Corps solely on the basis of individual contact with the criminal justice system.
 
 #### (c) Assignment plan
 

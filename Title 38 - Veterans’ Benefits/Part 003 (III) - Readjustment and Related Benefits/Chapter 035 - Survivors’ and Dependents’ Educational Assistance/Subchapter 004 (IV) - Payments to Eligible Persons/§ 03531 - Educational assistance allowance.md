@@ -1,6 +1,6 @@
 ### §3531. Educational assistance allowance
 
-(a) The Secretary shall, in accordance with the provisions of chapter 36 of this title, pay to the parent or guardian of each eligible person who is pursuing a program of education under this chapter, and who applies therefor on behalf of such eligible person, an educational assistance allowance to meet, in part, the expenses ofthe eligible person's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
+(a) The Secretary shall, in accordance with the provisions of chapter 36 of this title, pay to the parent or guardian of each eligible person who is pursuing a program of education under this chapter, and who applies therefor on behalf of such eligible person, an educational assistance allowance to meet, in part, the expenses of the eligible person's subsistence, tuition, fees, supplies, books, equipment, and other educational costs.
 
 (b) The educational assistance allowance of an eligible person pursuing a program of education at an educational institution shall be paid as provided in chapter 36 of this title.
 
@@ -32,7 +32,7 @@ Subsec. (e). Pub. L. 92–540, §312(2), struck out subsec. (e) which related to
 
 Subsec. (d). Pub. L. 89–358 redesignated provisions of former subsec. (c)(1)(B), (2) as subsec. (d).
 
-Subsec. (e). Pub. L. 89–358 added subsec. (e). Concluding sentence of former subsec. (c), struck out by Pub. L. 89–358, provided for payment of such allowances within twenty days after receipt by the Administrator of requisite certifications.
+Subsec. (e). Pub. L. 89–358 added subsec. (e). Concluding sentence of former subsec. (c), struck out by Pub.L. 89–358, provided for payment of such allowances within twenty days after receipt by the Administrator of requisite certifications.
 
 #### Effective Date of 1980 Amendment
 

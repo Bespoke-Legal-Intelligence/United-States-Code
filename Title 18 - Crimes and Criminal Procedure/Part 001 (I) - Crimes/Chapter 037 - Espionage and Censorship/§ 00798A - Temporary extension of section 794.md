@@ -20,5 +20,5 @@ Declaration of national emergency in effect on Sept. 14, 1976, was terminated tw
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 951 of this title.
+This section is referred to in section 951 of this title.
 

@@ -2,7 +2,7 @@
 
 (a) The Director of the Office of Personnel Management may establish, and from time to time revise, the maximum number of scientific or professional positions for carrying out research and development functions which require the services of specially qualified personnel which may be established outside of the General Schedule. Any such position may be established by action of the Director or, under such standards and procedures as the Office prescribes (including procedures under which the prior approval of the Director may be required), by agency action.
 
-(b) The provisions of subsection (a) of this section shall not apply to any Senior ExecutiveService position (as defined in section 3132(a) of this title).
+(b) The provisions of subsection (a) of this section shall not apply to any Senior Executive Service position (as defined in section 3132(a) of this title).
 
 (c) In addition to the number of positions authorized by subsection (a) of this section, the Librarian of Congress may establish, without regard to the second sentence of subsection (a) of this section, not more than 8 scientific or professional positions to carry out the research and development functions of the Library of Congress which require the services of specially qualified personnel.
 
@@ -188,7 +188,9 @@ Annual Report.—(1) Not later than October 15 of each year, beginning in 1999 a
 
 #### FBI Personnel Management System for Non-Special Agent Employees; Secretary of the Treasury
 
-Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by Pub. L. 105–277, div. C, title I, §102, Oct. 21, 1998, 112 Stat. 2681–585, provided that during 3-year period beginning on Nov. 26, 1997, Director of the Federal Bureau of Investigation could, with approval of Attorney General, establish personnel management system providing for compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Federal Bureau of Investigation, further authorized Secretary of the Treasury to establish, for period of three years from Nov. 26, 1997, personnel management demonstration project providing for compensation and performance management of not more than combined total of 950 employees who fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Bureau of Alcohol, Tobacco and Firearms, United States Customs Service, and United States Secret Service, and further provided for submittal of reports to Congress and termination of demonstration project authority on Nov. 26, 2000.
+Pub. L. 105–119, title I, §122, Nov. 26, 1997, 111 Stat. 2469, as amended by Pub. L. 105–277, div. C, title I, §102, Oct. 21, 1998, 112 Stat. 2681–585; Pub. L. 107–67, title I, §120, Nov. 12, 2001, 115 Stat. 525, provided that during 3-year period beginning on Nov. 26, 1997, Director of the Federal Bureau of Investigation could, with approval of Attorney General, establish personnel management system providing for compensation and performance management of not more than 3,000 non-Special Agent employees to fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Federal Bureau of Investigation, further authorized Secretary of the Treasury to establish, for period of four years from Oct. 21, 1998, personnel management demonstration project providing for compensation and performance management of not more than combined total of 950 employees who fill critical scientific, technical, engineering, intelligence analyst, language translator, and medical positions in Bureau of Alcohol, Tobacco and Firearms, and further provided for submittal of reports to Congress and termination of authority to establish demonstration project on Nov. 26, 2000.
+
+\[Personnel management demonstration project transferred to Attorney General for continued use by Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice, and Secretary of the Treasury for continued use by Tax and Trade Bureau, see section 533 of Title 6, Domestic Security.\]
 
 #### Termination of Authority To Establish Scientific or Professional Positions Outside the General Schedule
 
@@ -216,5 +218,5 @@ Section 414(a)(3) of Pub. L. 95–454 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3325, 5376, 5377 of this title; title 20 section 3461.
+This section is referred to in sections 3325, 5376, 5377 of this title.
 

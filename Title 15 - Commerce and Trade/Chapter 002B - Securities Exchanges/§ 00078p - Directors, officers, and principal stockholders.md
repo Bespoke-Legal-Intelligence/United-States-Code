@@ -1,12 +1,42 @@
 ### §78p. Directors, officers, and principal stockholders
 
-#### (a) Filing of statement of all ownership of securities of issuer by owner of more than ten per centum of any class of security
+#### (a) Disclosures required
 
-Every person who is directly or indirectly the beneficial owner of more than 10 per centum of any class of any equity security (other than an exempted security) which is registered pursuant to section 78<i>l</i> of this title, or who is a director or an officer of the issuer of such security, shall file, at the time of the registration of such security on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78<i>l</i>(g) of this title, or within ten days after he becomes such beneficial owner, director, or officer, a statement with the Commission (and, if such security is registered on a national securities exchange, also with the exchange) of the amount of all equity securities ofsuch issuer of which he is the beneficial owner, and within ten days after the close of each calendar month thereafter, if there has been a change in such ownership or if such person shall have purchased or sold a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involving such equity security during such month, shall file with the Commission (and if such security is registered on a national securities exchange, shall also file with the exchange), a statement indicating his ownership at the close of the calendar month and such changes in his ownership and such purchases and sales of such security-based swap agreements as have occurred during such calendar month.
+#### (1) Directors, officers, and principal stockholders required to file
+
+&emsp;Every person who is directly or indirectly the beneficial owner of more than 10 percent of any class of any equity security (other than an exempted security) which is registered pursuant to section 78<i>l</i> of this title, or who is a director or an officer of the issuer of such security, shall file the statements required by this subsection with the Commission (and, if such security is registered on a national securities exchange, also with the exchange).
+
+#### (2) Time of filing
+
+&emsp;The statements required by this subsection shall be filed—
+
+&emsp;&emsp;(A) at the time of the registration of such security on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78<i>l</i>(g) of this title;
+
+&emsp;&emsp;(B) within 10 days after he or she becomes such beneficial owner, director, or officer;
+
+&emsp;&emsp;(C) if there has been a change in such ownership, or if such person shall have purchased or sold a security-based swap agreement (as defined in section 206(b) <sup>1</sup> of the Gramm-Leach-Bliley Act (15 U.S.C. 78c note)) involving such equity security, before the end of the second business day following the day on which the subject transaction has been executed, or at such other time as the Commission shall establish, by rule, in any case in which the Commission determines that such 2-day period is not feasible.
+
+#### (3) Contents of statements
+
+&emsp;A statement filed—
+
+&emsp;&emsp;(A) under subparagraph (A) or (B) of paragraph (2) shall contain a statement of the amount of all equity securities of such issuer of which the filing person is the beneficial owner; and
+
+&emsp;&emsp;(B) under subparagraph (C) of such paragraph shall indicate ownership by the filing person at the date of filing, any such changes in such ownership, and such purchases and sales of the security-based swap agreements as have occurred since the most recent such filing under such subparagraph.
+
+#### (4) Electronic filing and availability
+
+&emsp;Beginning not later than 1 year after July 30, 2002—
+
+&emsp;&emsp;(A) a statement filed under subparagraph (C) of paragraph (2) shall be filed electronically;
+
+&emsp;&emsp;(B) the Commission shall provide each such statement on a publicly accessible Internet site not later than the end of the business day following that filing; and
+
+&emsp;&emsp;(C) the issuer (if the issuer maintains a corporate website) shall provide that statement on that corporate website, not later than the end of the business day following that filing.
 
 #### (b) Profits from purchase and sale of security within six months
 
-For the purpose of preventing the unfair use of information which may have been obtained by such beneficial owner, director, or officer by reason of his relationship to the issuer, any profit realized by him from any purchase and sale, or any sale and purchase, of any equity security of such issuer (other than an exempted security) or a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involving any such equity security within any period of less than six months, unless such security or security-based swap agreement was acquired in good faith in connection with a debt previously contracted, shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such beneficial owner, director, or officer in entering into such transaction of holding the security or security-based swap agreement purchased or of not repurchasing the security or security-based swap agreement sold for a period exceeding six months. Suit to recover such profit may be instituted at law or in equity in any court of competent jurisdiction by the issuer, or by the owner of any security of the issuer in the name and in behalf of the issuer if the issuer shall fail or refuse to bring such suit within sixty days after request or shall fail diligently to prosecute the same thereafter; but no such suit shall be brought more than two years after the date such profit was realized. This subsection shall not be construed to cover any transaction where such beneficial owner was not such both at the time of the purchase and sale, or the sale and purchase, of the security or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involved, or any transaction or transactions which the Commission by rules and regulations may exempt as not comprehended within the purpose of this subsection.
+For the purpose of preventing the unfair use of information which may have been obtained by such beneficial owner, director, or officer by reason of his relationship to the issuer, any profit realized by him from any purchase and sale, or any sale and purchase, of any equity security of such issuer (other than an exempted security) or a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involving any such equity security within any period of less than six months, unless such security or security-based swap agreement was acquired in good faith in connection with a debt previously contracted, shall inure to and be recoverable by the issuer, irrespective of any intention on the part of such beneficial owner, director, or officer in entering into such transaction of holding the security or security-based swap agreement purchased or of not repurchasing the security or security-based swap agreement sold for a period exceeding six months. Suit to recover such profit may be instituted at law or in equity in any court of competent jurisdiction by the issuer, or by the owner of any security of the issuer in the name and in behalf of the issuer if the issuer shall fail or refuse to bring such suit within sixty days after request or shall fail diligently to prosecute the same thereafter; but no such suit shall be brought more than two years after the date such profit was realized. This subsection shall not be construed to cover any transaction where such beneficial owner was not such both at the time of the purchase and sale, or the sale and purchase,of the security or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involved, or any transaction or transactions which the Commission by rules and regulations may exempt as not comprehended within the purpose of this subsection.
 
 #### (c) Conditions for sale of security by beneficial owner, director, or officer
 
@@ -28,13 +58,17 @@ The provisions of this section shall apply to ownership of and transactions in s
 
 The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 206B of the Gramm-Leach-Bliley Act) shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
 
-(June 6, 1934, ch. 404, title I, §16, 48 Stat. 896; Pub. L. 88–467, §8, Aug. 20, 1964, 78 Stat. 579; Pub. L. 106–554, §1(a)(5) \[title II, §208(b)(3), title III, §303(g), (h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–455, 2763A–456.)
+(June 6, 1934, ch. 404, title I, §16, 48 Stat. 896; Pub. L. 88–467, §8, Aug. 20, 1964, 78 Stat. 579; Pub. L. 106–554, §1(a)(5) \[title II, §208(b)(3), title III, §303(g), (h)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–435, 2763A–455, 2763A–456; Pub. L. 107–204, title IV, §403(a), July 30, 2002, 116 Stat. 788.)
 
 #### References in Text
 
-Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (a), (b), and (g), is section 206B of Pub. L. 106–102, which is set out in a note under section 78c of this title.
+Section 206(b) of the Gramm-Leach-Bliley Act, referred to in subsec. (a)(2)(C), probably means section 206B of Pub. L. 106–102, which is set out in a note under section 78c of this title.
+
+Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (b) and (g), is section 206B of Pub. L. 106–102, which is set out in a note under section 78c of this title.
 
 #### Amendments
+
+2002—Pub. L. 107–204 reenacted section catchline without change, added heading and text of subsec. (a), and struck out former subsec. (a) which read as follows: “Every person who is directly or indirectly the beneficial owner of more than 10 per centum of any class of any equity security (other than an exempted security) which is registered pursuant to section 78<i>l</i> of this title, or who is a director or an officer of the issuer of such security, shall file, at the time of the registration of such security on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78<i>l</i>(g) of this title, or within ten days after he becomes such beneficial owner, director, or officer, a statement with the Commission (and, if such security is registered on a national securities exchange, also with the exchange) of the amount of all equity securities of such issuer of which he is the beneficial owner, and within ten days after the close of each calendar month thereafter, if there has been a change in such ownership or if such person shall have purchased or sold a security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act) involving such equity security during such month, shall file with the Commission (and if such security is registered on a national securities exchange, shall also file with the exchange), a statement indicating his ownership at the close of the calendar month and such changes in his ownership and such purchases and sales of such security-based swap agreements as have occurred during such calendar month.”
 
 2000—Subsecs. (a), (b). Pub. L. 106–554, §1(a)(5) \[title III, §303(g)\], amended subsecs. (a) and (b) generally, revising provisions to extend application to security-based swap agreements.
 
@@ -45,6 +79,10 @@ Subsec. (g). Pub. L. 106–554, §1(a)(5) \[title III, §303(h)\], added subsec.
 1964—Subsec. (a). Pub. L. 88–467, §8(a), substituted “registered pursuant to section 78<i>l</i> of this title” for “registered on a national securities exchange”, “Commission (and, if such security is registered on a national securities exchange, also with the exchange)” for “exchange (and a duplicate original thereof with the Commission)”, “a change” for “any change”, and “Commission (and if such security is registered on a national securities exchange, shall also file with the exchange) a statement” for “exchange a statement (and a duplicate original thereof with the Commission)”, and inserted “on a national securities exchange or by the effective date of a registration statement filed pursuant to section 78<i>l</i>(g) of this title” after “registration of such security”.
 
 Subsecs. (d), (e). Pub. L. 88–467, §8(b), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–204, title IV, §403(b), July 30, 2002, 116 Stat. 789, provided that: “The amendment made by this section \[amending this section\] shall be effective 30 days after the date of the enactment of this Act \[July 30, 2002\].”
 
 #### Effective Date of 1964 Amendment
 
@@ -57,4 +95,6 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 78c, 78c–1, 78j, 78<i>l</i>, 78hh, 79q of this title; title 26 section 83.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

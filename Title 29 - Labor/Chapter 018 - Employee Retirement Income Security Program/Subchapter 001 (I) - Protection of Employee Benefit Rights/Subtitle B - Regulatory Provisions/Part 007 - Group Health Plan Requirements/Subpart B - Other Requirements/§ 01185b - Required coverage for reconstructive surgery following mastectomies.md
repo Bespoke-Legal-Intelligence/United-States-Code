@@ -58,7 +58,7 @@ In general.—The amendments made by this section \[enacting this section\] shal
 
 “(2)
 
-Special rule for collective bargaining agreements.—In the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers, any plan amendment made pursuant to a collective bargaining agreement relating to the planwhich amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement.”
+Special rule for collective bargaining agreements.—In the case of a group health plan maintained pursuant to 1 or more collective bargaining agreements between employee representatives and 1 or more employers, any plan amendment made pursuant to a collective bargaining agreement relating to the plan which amends the plan solely to conform to any requirement added by this section shall not be treated as a termination of such collective bargaining agreement.”
 
 #### Section Referred to in Other Sections
 

@@ -166,7 +166,7 @@ Section 108(f) of the Sustainable Fisheries Act, referred to in subsec. (d)(5), 
 
 Subsec. (a)(5). Pub. L. 104–297, §108(a)(2), inserted “commercial, recreational, and charter fishing in” after “with respect to”.
 
-Subsec. (a)(7). Pub. L. 104–297, §108(a)(3), added par. (7) and struck out former par. (7) which read as follows: “include readily available information regarding the significance of habitat to the fishery and assessment as to the effects which changes to that habitat may have upon the fishery;”.
+Subsec. (a)(7). Pub. L. 104–297, §108(a)(3), added par. (7) and struck out former par. (7) which read as follows:“include readily available information regarding the significance of habitat to the fishery and assessment as to the effects which changes to that habitat may have upon the fishery;”.
 
 Subsec. (a)(9)(A). Pub. L. 104–297, §108(a)(5), inserted “and fishing communities” after “fisheries”.
 
@@ -206,7 +206,7 @@ Subsec. (f). Pub. L. 101–627, §109(d), added subsec. (f).
 
 Subsec. (b)(1). Pub. L. 99–659, §101(c)(2), substituted “exclusive economic zone” for “fishery conservation zone”.
 
-Subsec. (d). Pub. L. 99–659, §105(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any statistics submitted to the Secretary by any person in compliance with any requirement under subsection (a)(5) of this section shall beconfidential and shall not be disclosed except when required under court order.”
+Subsec. (d). Pub. L. 99–659, §105(b), amended first sentence generally. Prior to amendment, first sentence read as follows: “Any statistics submitted to the Secretary by any person in compliance with any requirement under subsection (a)(5) of this section shall be confidential and shall not be disclosed except when required under court order.”
 
 1983—Subsec. (b)(7), (8). Pub. L. 97–453, §6(1), added par. (7) and redesignated former par. (7) as (8).
 
@@ -230,9 +230,13 @@ Section 105(a)(2) of Pub. L. 99–659 provided that: “The amendments made by p
 
 &emsp;“(B) is in effect on that date, but compliance with those amendments is not required except in conjunction with the amendment to the plan next occurring after that date.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Exceptions to Subsection (d)(1) and Section 1883 Plan Restrictions
 
-Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: “Notwithstanding sections 303(d)(1)(A) and 303(d)(1)(B) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1853(d)(1)(A), (B)\], as amended by this section, the Pacific Fishery Management Council may recommend and the Secretary of Commerce may approve and implement any fishery management plan, plan amendment, or regulation, for fixed gear sablefish subject to the jurisdiction of such Council, that—
+Pub. L. 106–554, §1(a)(4) \[div. B, title I, §144(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–238, provided that: “Notwithstanding sections 303(d)(1)(A) and 303(d)(1)(B) of the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1853(d)(1)(A), (B)\], as amended bythis section, the Pacific Fishery Management Council may recommend and the Secretary of Commerce may approve and implement any fishery management plan, plan amendment, or regulation, for fixed gear sablefish subject to the jurisdiction of such Council, that—
 
 &emsp;“(1) allows the use of more than one groundfish fishing permit by each fishing vessel; and/or
 
@@ -264,7 +268,7 @@ Section 108(f)(1) to (5) of Pub. L. 104–297, as amended by Pub. L. 104–208, 
 
 &emsp;“(G) threshold criteria for determining whether a fishery may be considered for individual fishing quota management, including criteria related to the geographical range, population dynamics and condition of a fish stock, the socioeconomic characteristics of a fishery (including participants’ involvement in multiple fisheries in the region), and participation by commercial, charter, and recreational fishing sectors in the fishery;
 
-&emsp;“(H) mechanisms to ensure that vessel owners, vessel masters, crew members, and United States fish processors are treated fairly and equitably in initialallocations, to require persons holding individual fishing quotas to be on board the vessel using such quotas, and to facilitate new entry under individual fishing quota programs;
+&emsp;“(H) mechanisms to ensure that vessel owners, vessel masters, crew members, and United States fish processors are treated fairly and equitably in initial allocations, to require persons holding individual fishing quotas to be on board the vessel using such quotas, and to facilitate new entry under individual fishing quota programs;
 
 &emsp;“(I) potential social and economic costs and benefits to the nation, individual fishing quota recipients, and any recipients of Federal permits described in subparagraph (D) under individual fishing quota programs, including from capital gains revenue, the allocation of such quotas or permits through Federal auctions, annual fees and transfer fees at various levels, or other measures;
 

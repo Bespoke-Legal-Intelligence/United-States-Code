@@ -4,7 +4,7 @@
 
 (b) Appropriate certificates concerning the radio particulars provided for in said Convention shall be issued upon proper request to any vessel which is subject to the radio provisions of the Safety Convention and is found by the Commission to comply therewith. Cargo ship safety radio telegraphy certificates, cargo ship safety radiotelephony certificates, and exemption certificates with respect to radio particulars shall be issued by the Commission. Other certificates concerning the radio particulars provided for in the said Convention shall be issued by the Commandant of the Coast Guard or whatever other agency is authorized by law to do so upon request of the Commission made after proper inspection or determination of the facts. If the holder of a certificate violates the radio provisions of the Safety Convention or the provisions of this chapter, or the rules, regulations, or conditions prescribed by the Commission, and if the effective administration of the Safety Convention or of this part so requires, the Commission, after hearing in accordance with law, is authorized to modify or cancel a certificate which it has issued, or to request the modification or cancellation of a certificate which has been issued by another agency upon the Commission's request. Upon receipt of such request for modification or cancellation, the Commandant of the Coast Guard, or whatever agency is authorized by law to do so, shall modify or cancel the certificate in accordance therewith.
 
-(June 19, 1934, ch. 652, title III, §361, formerly §359, as added May 20, 1937, ch. 229, §10(b), 50Stat. 195; renumbered §361 and amended Aug. 13, 1954, ch. 729, §2(a)(1), (f), 68 Stat. 706, 707; Pub. L. 89–121, §10, Aug. 13, 1965, 79 Stat. 516.)
+(June 19, 1934, ch. 652, title III, §361, formerly §359, as added May 20, 1937, ch. 229, §10(b), 50 Stat. 195; renumbered §361 and amended Aug. 13, 1954, ch. 729, §2(a)(1), (f), 68 Stat. 706, 707; Pub. L. 89–121, §10, Aug. 13, 1965, 79 Stat. 516.)
 
 #### References in Text
 
@@ -23,6 +23,8 @@ Subsec. (b). Act Aug. 13, 1954, §2(f), amended subsection generally to provide,
 Section effective May 20, 1937, see section 16 of act May 20, 1937, set out as a note under section 351 of this title.
 
 #### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of all other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 

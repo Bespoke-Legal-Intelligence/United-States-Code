@@ -6,7 +6,7 @@ As used in this chapter:
 
 “Cattle” means one or more bulls, steers, oxen, cows, heifers, or calves, or the carcass or carcasses thereof;
 
-“Livestock” means any domestic animals raised for home use, consumption, or profit, such as horses, pigs, llamas, goats, fowl, sheep, buffalo, and cattle, or the carcasses thereof.<sup>1</sup>
+“Livestock” means any domestic animals raised for home use, consumption, or profit, such as horses, pigs, llamas, goats, fowl, sheep, buffalo, and cattle, or the carcasses thereof;
 
 “Money” means the legal tender of the United States or of any foreign country, or any counterfeit thereof;
 
@@ -18,7 +18,7 @@ As used in this chapter:
 
 “Value” means the face, par, or market value, whichever is the greatest, and the aggregate value of all goods, wares, and merchandise, securities, and money referred to in a single indictment shall constitute the value thereof.
 
-(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507.)
+(June 25, 1948, ch. 645, 62 Stat. 805; Pub. L. 87–371, §1, Oct. 4, 1961, 75 Stat. 802; Pub. L. 98–547, title II, §202, Oct. 25, 1984, 98 Stat. 2770; Pub. L. 103–322, title XXXII, §320912, Sept. 13, 1994, 108 Stat. 2128; Pub. L. 104–294, title VI, §604(b)(20), Oct. 11, 1996, 110 Stat. 3507; Pub. L. 107–273, div. B, title IV, §4002(b)(8), Nov. 2, 2002, 116 Stat. 1808.)
 
 #### Historical and Revision Notes
 
@@ -37,6 +37,8 @@ In the paragraph defining “value” which came from said section 417 of title 
 Minor changes were made in phraseology.
 
 #### Amendments
+
+2002—Pub. L. 107–273 substituted semicolon for period at end of third par.
 
 1996—Pub. L. 104–294 substituted “Livestock” for “livestock” in third par.
 
@@ -101,6 +103,4 @@ Section 2 of Pub. L. 98–547 provided that: “It is the purpose of this Act \[
 #### Section Referred to in Other Sections
 
 This section is referred to in section 667 of this title.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

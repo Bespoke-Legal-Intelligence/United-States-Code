@@ -6,7 +6,7 @@ Upon payment of compensation to any petitioner under the Program, the trust fund
 
 #### (b) Disposition of amounts recovered
 
-Amounts recovered under subsection (a) of this section shall be collected on behalf of, anddeposited in, the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26.
+Amounts recovered under subsection (a) of this section shall be collected on behalf of, and deposited in, the Vaccine Injury Compensation Trust Fund established under section 9510 of title 26.
 
 (July 1, 1944, ch. 373, title XXI, §2117, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3770; amended Pub. L. 100–203, title IV, §4307(7), Dec. 22, 1987, 101 Stat. 1330–225; Pub. L. 101–239, title VI, §6601(m)(2), Dec. 19, 1989, 103 Stat. 2291.)
 
@@ -18,7 +18,7 @@ Amounts recovered under subsection (a) of this section shall be collected on beh
 
 #### Effective Date of 1989 Amendment
 
-For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediate suspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
+For applicability of amendments by Pub. L. 101–239 to petitions filed after Dec. 19, 1989, petitions currently pending in which the evidentiary record is closed, and petitions currently pending in which the evidentiary record is not closed, with provision for an immediatesuspension for 30 days of all pending cases, see section 6601(s)(1) of Pub. L. 101–239, set out as a note under section 300aa–10 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subrogated”.</i>
 

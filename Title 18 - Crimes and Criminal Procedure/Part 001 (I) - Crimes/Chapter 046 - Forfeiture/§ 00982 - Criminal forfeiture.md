@@ -24,7 +24,7 @@
 
 &emsp;(F) section 1343 (relating to wire fraud),
 
-> involving the sale of assets acquired or held by the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, as conservator or receiver for a financial institution or any other conservator for a financial institution appointed by the Office of the Comptroller of the Currency or the Office of Thrift Supervision, or the National Credit Union Administration, as conservator or liquidating agent for a financial institution, shall order that the person forfeit to the United States any property, real or personal, which represents or is traceable to the gross receipts obtained, directly or indirectly, as a result of such violation.
+> involving the sale of assets acquired or held by the Resolution Trust Corporation, the Federal Deposit Insurance Corporation, as conservatoror receiver for a financial institution or any other conservator for a financial institution appointed by the Office of the Comptroller of the Currency or the Office of Thrift Supervision, or the National Credit Union Administration, as conservator or liquidating agent for a financial institution, shall order that the person forfeit to the United States any property, real or personal, which represents or is traceable to the gross receipts obtained, directly or indirectly, as a result of such violation.
 
 (4) With respect to an offense listed in subsection (a)(3) committed for the purpose of executing or attempting to execute any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent statements, pretenses, representations, or promises, the gross receipts of such an offense shall include any property, real or personal, tangible or intangible, which is obtained, directly or indirectly, as a result of such offense.
 
@@ -56,7 +56,7 @@
 
 (7) The court, in imposing sentence on a person convicted of a Federal health care offense, shall order the person to forfeit property, real or personal, that constitutes or is derived, directly or indirectly, from gross proceeds traceable to the commission of the offense.
 
-(8) The Court,<sup>1</sup> in sentencing a defendant convicted of an offense under section 1028, 1029, 1341, 1342, 1343, or 1344, or of a conspiracy to commit such an offense, if the offense involves telemarketing (as that term is defined in section 2325), shall order that the defendant forfeit to the United States any real or personal property—
+(8) The court, in sentencing a defendant convicted of an offense under section 1028, 1029, 1341, 1342, 1343, or 1344, or of a conspiracy to commit such an offense, if the offense involves telemarketing (as that term is defined in section 2325), shall order that the defendant forfeit to the United States any real or personal property—
 
 &emsp;(A) used or intended to be used to commit, to facilitate, or to promote the commission of such offense; and
 
@@ -66,7 +66,7 @@
 
 (2) The substitution of assets provisions of subsection 413(p) shall not be used to order a defendant to forfeit assets in place of the actual property laundered where such defendant acted merely as an intermediary who handled but did not retain the property in the course of the money laundering offense unless the defendant, in committing the offense or offenses giving rise to the forfeiture, conducted three or more separate transactions involving a total of $100,000 or more in any twelve month period.
 
-(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–39; amended Pub. L. 100–690, title VI, §§6463(c), 6464, Nov. 18, 1988, 102 Stat. 4374, 4375; Pub. L. 101–73, title IX, §963(c), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title XIV, §§1401, 1403, title XXV, §2525(b), Nov. 29, 1990, 104 Stat. 4835, 4874; Pub. L. 102–393, title VI, §638(e), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(b), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §1512(c), Oct. 28, 1992, 106 Stat. 4058; Pub. L. 103–322, title XXXIII, §330011(s)(1), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, §249(a), (b), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 104–208, div. C, title II, §217, Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 105–184, §2, June 23, 1998, 112 Stat. 520; Pub. L. 105–318, §6(a), Oct. 30, 1998, 112 Stat. 3010; Pub. L. 106–185, §18(b), Apr. 25, 2000, 114 Stat. 223; Pub. L. 107–56, title III, §372(b)(2), Oct. 26, 2001, 115 Stat. 339.)
+(Added Pub. L. 99–570, title I, §1366(a), Oct. 27, 1986, 100 Stat. 3207–39; amended Pub. L. 100–690, title VI, §§6463(c), 6464, Nov. 18, 1988, 102 Stat. 4374, 4375; Pub. L. 101–73, title IX, §963(c), Aug. 9, 1989, 103 Stat. 504; Pub. L. 101–647, title XIV, §§1401, 1403, title XXV, §2525(b), Nov. 29, 1990, 104 Stat. 4835, 4874; Pub. L. 102–393, title VI, §638(e), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–519, title I, §104(b), Oct. 25, 1992, 106 Stat. 3385; Pub. L. 102–550, title XV, §1512(c), Oct. 28, 1992, 106 Stat. 4058; Pub. L. 103–322, title XXXIII, §330011(s)(1), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, §249(a), (b), Aug. 21, 1996, 110 Stat. 2020; Pub. L. 104–208, div. C, title II, §217, Sept. 30, 1996, 110 Stat. 3009–573; Pub. L. 105–184, §2, June 23, 1998, 112 Stat. 520; Pub. L. 105–318, §6(a), Oct. 30, 1998, 112 Stat. 3010; Pub. L. 106–185, §18(b), Apr. 25, 2000, 114 Stat. 223; Pub. L. 107–56, title III, §372(b)(2), Oct. 26, 2001, 115 Stat. 339; Pub. L. 107–273, div. B, title IV, §4002(b)(10), Nov. 2, 2002, 116 Stat. 1808.)
 
 #### References in Text
 
@@ -74,7 +74,9 @@ Sections 274 and 274A of the Immigration and Nationality Act, referred to in sub
 
 #### Amendments
 
-2001—Subsec. (a)(1). Pub. L. 107–56 struck out “of section 5313(a), 5316, or 5324 of title 31, or” before “of section 1956, 1957, or 1960 of this title” and struck out at end “However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.”
+2002—Subsec. (a)(8). Pub. L. 107–273 substituted “court” for “Court”.
+
+2001—Subsec. (a)(1). Pub. L. 107–56 struck out “of section 5313(a), 5316, or 5324 of title 31, or” before “of section 1956, 1957, or 1960 of this title” and struck out atend “However, no property shall be seized or forfeited in the case of a violation of section 5313(a) of title 31 by a domestic financial institution examined by a Federal bank supervisory agency or a financial institution regulated by the Securities and Exchange Commission or a partner, director, or employee thereof.”
 
 2000—Subsec. (a)(6). Pub. L. 106–185, §18(b)(2), (3), designated concluding provisions of subpar. (A) as subpar. (B), substituted “The court, in imposing sentence on a person described in subparagraph (A)” for “The court, in imposing sentence on such person” and “that subparagraph” for “this subparagraph”, and struck out former subpar. (B), which read as follows: “The criminal forfeiture of property under subparagraph (A), including any seizure and disposition of the property and any related administrative or judicial proceeding, shall be governed by the provisions of section 413 of the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 853), other than subsections (a) and (d) of such section 413.”
 
@@ -139,6 +141,4 @@ Section 330011(s)(1) of Pub. L. 103–322 provided that the amendment made by th
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1956 of this title; title 12 sections 1831k, 3412; title 31 section 9703.
-
-<i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

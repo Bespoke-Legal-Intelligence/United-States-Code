@@ -22,7 +22,7 @@
 
 (3) In any action arising from a violation in the execution of an order on the floor of a registered entity, the person referred to in paragraph (1) shall be liable for—
 
-&emsp;(A) actual damages proximately caused by such violation. If an award of actual damages is made against a floor broker in connection with the execution of a customer order, and the futures commission merchant which selected the floor broker for the execution of the customer order is held to be responsible under section 2(a)(1) of this title for the floor broker's violation, such futures commission merchant may be required to satisfy such award; and
+&emsp;(A) actual damages proximately caused by such violation. If an award of actual damages is made against a floor broker in connectionwith the execution of a customer order, and the futures commission merchant which selected the floor broker for the execution of the customer order is held to be responsible under section 2(a)(1) of this title for the floor broker's violation, such futures commission merchant may be required to satisfy such award; and
 
 &emsp;(B) where the violation is willful and intentional, punitive or exemplary damages equal to no more than two times the amount of such actual damages. If an award of punitive or exemplary damages is made against a floor broker in connection with the execution of a customer order, and the futures commission merchant which selected the floor broker for the execution of the customer order is held to be responsible under section 2(a)(1) of this title for the floor broker's violation, such futures commission merchant may be required to satisfy such award if the floor broker fails to do so, except that such requirement shall apply to the futures commission merchant only if it willfully and intentionally selected the floor broker with the intent to assist or facilitate the floor broker's violation.
 
@@ -32,7 +32,7 @@ Contract enforcement between eligible counterparties.—No agreement, contract, 
 
 #### (b) Liabilities of organizations and individuals; bad faith requirement; exclusive remedy
 
-(1)(A) A registered entity that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by sections 7 through 7a–2 of this title, (B) a licensed board of trade that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by the Commission, or (C) any registered entity that in enforcing any such bylaw, rule, regulation, or resolution violates this chapter or any Commission rule, regulation, or order, shall be liable foractual damages sustained by a person who engaged in any transaction on or subject to the rules of such registered entity to the extent of such person's actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaws, rules, regulations, or resolutions.
+(1)(A) A registered entity that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by sections 7 through 7a–2 of this title, (B) a licensed board of trade that fails to enforce any bylaw, rule, regulation, or resolution that it is required to enforce by the Commission, or (C) any registered entity that in enforcing any such bylaw, rule, regulation, or resolution violates this chapter or any Commission rule, regulation, or order, shall be liable for actual damages sustained by a person who engaged in any transaction on or subject to the rules of such registered entity to the extent of such person's actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaws, rules, regulations, or resolutions.
 
 (2) A registered futures association that fails to enforce any bylaw or rule that is required under section 21 of this title or in enforcing any such bylaw or rule violates this chapter or any Commission rule, regulation, or order shall be liable for actual damages sustained by a person that engaged in any transaction specified in subsection (a) of this section to the extent of such person's actual losses that resulted from such transaction and were caused by such failure to enforce or enforcement of such bylaw or rule.
 
@@ -76,7 +76,7 @@ Subsec. (b)(4). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(B)(iii)\], 
 
 Subsec. (b)(5). Pub. L. 106–554, §1(a)(5) \[title I, §123(a)(25)(B)(iv)\], substituted “registered entity” for “contract market, licensed board of trade, clearing organization,”.
 
-1992—Subsec. (a)(1). Pub. L. 102–546, §402(14)(A), substituted “subparagraphs” for “clauses” in introductoryprovisions and “subparagraph” for “clause” in subpar. (D).
+1992—Subsec. (a)(1). Pub. L. 102–546, §402(14)(A), substituted “subparagraphs” for “clauses” in introductory provisions and “subparagraph” for “clause” in subpar. (D).
 
 Subsec. (a)(2). Pub. L. 102–546, §402(14)(B), made technical amendment to reference to section 21(b)(10) of this title to correct reference to corresponding section of original act.
 

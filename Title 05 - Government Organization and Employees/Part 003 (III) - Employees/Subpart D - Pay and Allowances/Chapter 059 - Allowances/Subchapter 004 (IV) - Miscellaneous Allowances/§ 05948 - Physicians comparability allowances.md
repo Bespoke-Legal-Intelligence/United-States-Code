@@ -22,7 +22,7 @@
 
 (d) Any agreement entered into by a physician under this section shall be for a period of one year of service in the agency involved unless the physician requests an agreement for a longer period of service.
 
-(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physicianvoluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
+(e) Unless otherwise provided for in the agreement under subsection (f) of this section, an agreement under this section shall provide that the physician, in the event that such physician voluntarily, or because of misconduct, fails to complete at least one year of service pursuant to such agreement, shall be required to refund the total amount received under this section, unless the head of the agency, pursuant to such regulations as may be prescribed under this section by the President or his designee, determines that such failure is necessitated by circumstances beyond the control of the physician.
 
 (f) Any agreement under this section shall specify, subject to such regulations as the President or his designee may prescribe, the terms under which the head of the agency and the physician may elect to terminate such agreement, and the amounts, if any, required to be refunded by the physician for each reason for termination.
 
@@ -56,7 +56,7 @@
 
 (h)(1) Any allowance paid under this section shall not be considered as basic pay for the purposes of subchapter VI and section 5595 of chapter 55, chapter 81 or 87 of this title, or other benefits related to basic pay.
 
-(2) Any allowance under this section for a Government physician shall be paid in the same manner and at the same time as the physician's basic pay is paid.
+(2) Any allowance under this section for a Government physician shall be paid in the samemanner and at the same time as the physician's basic pay is paid.
 
 (i) Any regulations, criteria, or conditions that may be prescribed under this section by the President or his designee shall not be applicable to the Tennessee Valley Authority, and the Tennessee Valley Authority shall have sole responsibility for administering the provisions of this section with respect to Government physicians employed by the Authority.
 
@@ -88,7 +88,7 @@ Section 2 of the Act of May 29, 1959 (Public Law 86–36, as amended, 50 U.S.C. 
 
 #### Amendments
 
-2000—Subsec. (d). Pub. L. 106–571, §2(a)(1), struck out second sentence which read as follows: “No agreementshall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007.”
+2000—Subsec. (d). Pub. L. 106–571, §2(a)(1), struck out second sentence which read as follows: “No agreement shall be entered into under this section later than September 30, 2005, nor shall any agreement cover a period of service extending beyond September 30, 2007.”
 
 Pub. L. 106–554 amended second sentence generally. Prior to amendment, second sentence read as follows: “No agreement shall be entered into under this section later than September 30, 2000, nor shall any agreement cover a period of service extending beyond September 30, 2002.”
 
@@ -208,7 +208,7 @@ Limitation.—A modification taking effect under this subsection in any year sha
 
 #### Effectiveness of Service Agreements Limited by Appropriation Acts
 
-Section 1(a)(3) of Pub. L. 103–114 provided that: “Any service agreement entered into on or after the date of the enactment of this Act \[Oct. 26, 1993\] pursuant to section 5948 of title 5, United States Code, as amended by paragraph (1), shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
+Section 1(a)(3) of Pub. L. 103–114 provided that: “Any service agreement entered into on or after the date ofthe enactment of this Act \[Oct. 26, 1993\] pursuant to section 5948 of title 5, United States Code, as amended by paragraph (1), shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.”
 
 #### Due Date for First Annual Report on Operation of Section
 
@@ -245,4 +245,8 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5307, 8331, 8401 of this title; title 24 section 225e; title 42 section 1395b–6.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -74,7 +74,7 @@ If any application for financial assistance under this subchapter is disapproved
 
 (2) The Secretary of Agriculture may issue such regulations as are necessary to carry out functions assigned to the Secretary of Agriculture under this subchapter.
 
-(3) The entities or entity designated under paragraph (1) shall coordinate the administration of functions assigned to it under this subsection with any other biomass energy programs within the Department of Agriculture established under other provisions of law.
+(3) The entities or entity designated under paragraph (1) shall coordinate the administration of functions assigned to it under this subsection with any other biomass energy programswithin the Department of Agriculture established under other provisions of law.
 
 #### (f) Implementation of functions assigned to Secretary of Energy by Office of Alcohol Fuels
 

@@ -6,7 +6,7 @@
 
 &emsp;(2) the term of the patent has never been extended under subsection (e)(1) of this section;
 
-&emsp;(3) an application for extension is submitted by the owner of record of the patent or its agent and in accordance with the requirements of paragraphs (1) through (4) of subsection (d);
+&emsp;(3) an application for extension is submitted by the owner of record of the patent or itsagent and in accordance with the requirements of paragraphs (1) through (4) of subsection (d);
 
 &emsp;(4) the product has been subject to a regulatory review period before its commercial marketing or use;
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(A) the approved product, or
 
-&emsp;&emsp;(B) the product if it has been subject to a regulatory review period described in paragraphs <sup>1</sup> (1), (4), or (5) of subsection (g).
+&emsp;&emsp;(B) the product if it has been subject to a regulatory review period described in paragraph (1), (4), or (5) of subsection (g).
 
 > As used in this subsection, the term “product” includes an approved product.
 
@@ -60,7 +60,7 @@
 
 &emsp;(2) after any reduction required by paragraph (1), the period of extension shall include only one-half of the time remaining in the periods described in paragraphs (1)(B)(i), (2)(B)(i), (3)(B)(i), (4)(B)(i), and (5)(B)(i) of subsection (g);
 
-&emsp;(3) if the period remaining in the term of a patent after the date of the approval of the approved product under the provision of law under which such regulatory review occurred when added to the regulatory review period as revised under paragraphs (1) and (2) exceeds fourteen years, the period of extension shall bereduced so that the total of both such periods does not exceed fourteen years; and
+&emsp;(3) if the period remaining in the term of a patent after the date of the approval of the approved product under the provision of law under which such regulatory review occurred when added to the regulatory review period as revised under paragraphs (1) and (2) exceeds fourteen years, the period of extension shall be reduced so that the total of both such periods does not exceed fourteen years; and
 
 &emsp;(4) in no event shall more than one patent be extended under subsection (e)(1) for the same regulatory review period for any product.
 
@@ -84,7 +84,7 @@
 
 > of the extension application and shall submit to the Secretary who is so notified a copy of the application. Not later than 30 days after the receipt of an application from the Director, the Secretary receiving the application shall review the dates contained in the application pursuant to paragraph (1)(C) and determine the applicable regulatory review period, shall notify the Director of the determination, and shall publish in the Federal Register a notice of such determination.
 
-(B)(i) If a petition is submitted to the Secretary making the determination under subparagraph (A), not later than 180 days after the publication of the determination under subparagraph (A), upon which it may reasonably be determined that the applicant did not act with due diligence during the applicable regulatory review period, the Secretary making the determination shall, in accordance with regulations promulgated by such Secretary, determine if the applicant acted with due diligence during the applicable regulatory review period. The Secretary making the determination shall make such determination not later than 90 days after the receipt of such a petition. For a drug product, device, or additive subject to the Federal Food, Drug, and Cosmetic Act or the Public Health Service Act, the Secretary may not delegate the authority to make the determination prescribed by this clause to an office below the Office of the Director <sup>2</sup> of Food and Drugs. For a product subject to the Virus-Serum-Toxin Act, the Secretary of Agriculture may not delegate the authority to make the determination prescribed by this clause to an office below the office <sup>3</sup> of the Assistant Secretary for Marketing and Inspection Services.
+(B)(i) If a petition is submitted to the Secretary making the determination under subparagraph (A), not later than 180 days after the publication of the determination under subparagraph (A), upon which it may reasonably be determined that the applicant did not act with due diligence during the applicable regulatory review period, the Secretary making the determination shall, in accordance with regulations promulgated by such Secretary, determine if the applicant acted with due diligence during the applicable regulatory review period. The Secretary making the determination shall make such determination not later than 90 days after the receipt of such a petition. For a drug product, device, or additive subject to the Federal Food, Drug, and Cosmetic Act or the Public Health Service Act, the Secretary may not delegate the authority to make the determination prescribed by this clause to an office below the Office of the Director <sup>1</sup> of Food and Drugs. For a product subject to the Virus-Serum-Toxin Act, the Secretary of Agriculture may not delegate the authority to make the determination prescribed by this clause to an office below the Office of the Assistant Secretary for Marketing and Inspection Services.
 
 (ii) The Secretary making a determination under clause (i) shall notify the Director of the determination and shall publish in the Federal Register a notice of such determination together with the factual and legal basis for such determination. Any interested person may request, within the 60-day period beginning on the publication of a determination, the Secretary making the determination to hold an informal hearing on the determination. If such a request is made within such period, such Secretary shall hold such hearing not later than 30 days after the date of the request, or at the request of the person making the request, not later than 60 days after such date. The Secretary who is holding the hearing shall provide notice of the hearing to the owner of the patent involved and to any interested person and provide the owner and any interested person an opportunity to participate in the hearing. Within 30 days after the completion of the hearing, such Secretary shall affirm or revise the determination which was the subject of the hearing and shall notify the Director of any revision of the determination and shall publish any such revision in the Federal Register.
 
@@ -92,7 +92,7 @@
 
 (4) An application for the extension of the term of a patent is subject to the disclosure requirements prescribed by the Director.
 
-(5)(A) If the owner of record of the patent or its agent reasonably expects that the applicable regulatory review period described in paragraph (1)(B)(ii), (2)(B)(ii), (3)(B)(ii), (4)(B)(ii), or (5)(B)(ii) of subsection (g) that began for a product that is the subject of such patent may extend beyond the expiration of the patent term in effect, the owner or its agent may submit an application to the Director for an interim extension during the period beginning 6 months, andending 15 days, before such term is due to expire. The application shall contain—
+(5)(A) If the owner of record of the patent or its agent reasonably expects that the applicable regulatory review period described in paragraph (1)(B)(ii), (2)(B)(ii), (3)(B)(ii), (4)(B)(ii), or (5)(B)(ii) of subsection (g) that began for a product that is the subject of such patent may extend beyond the expiration of the patent term in effect, the owner or its agent may submit an application to the Director for an interim extension during the period beginning 6 months, and ending 15 days, before such term is due to expire. The application shall contain—
 
 &emsp;(i) the identity of the product subject to regulatory review and the Federal statute under which such review is occurring;
 
@@ -104,7 +104,7 @@
 
 &emsp;(v) such patent or other information as the Director may require.
 
-(B) If the Director determines that, except for permission to market or use the product commercially, the patent would be eligible for an extension of the patent term under this section, the Director shall publish in the Federal Register a notice of such determination, including the identity of the product under regulatory review, and shall issue to the applicant a certificate of interim extension for a period of not more than 1 year.
+(B) If the Director determines that, except for permission to market or use the product commercially, the patent would be eligible for an extension of the patent term under this section, the Director shall publish in the Federal Register a notice of such determination, includingthe identity of the product under regulatory review, and shall issue to the applicant a certificate of interim extension for a period of not more than 1 year.
 
 (C) The owner of record of a patent, or its agent, for which an interim extension has been granted under subparagraph (B), may apply for not more than 4 subsequent interim extensions under this paragraph, except that, in the case of a patent subject to subsection (g)(6)(C), the owner of record of the patent, or its agent, may apply for only 1 subsequent interim extension under this paragraph. Each such subsequent application shall be made during the period beginning 60 days before, and ending 30 days before, the expiration of the preceding interim extension.
 
@@ -152,7 +152,7 @@
 
 &emsp;(C) Any reference to the Virus-Serum-Toxin Act is a reference to the Act of March 4, 1913 (21 U.S.C. 151–158).
 
-&emsp;(5) The term “informal hearing” has the meaning prescribed for such term by section 201(y) <sup>4</sup> of the Federal Food, Drug, and Cosmetic Act.
+&emsp;(5) The term “informal hearing” has the meaning prescribed for such term by section 201(y) <sup>2</sup> of the Federal Food, Drug, and Cosmetic Act.
 
 &emsp;(6) The term “patent” means a patent issued by the United States Patent and Trademark Office.
 
@@ -166,9 +166,9 @@
 
 &emsp;(B) The regulatory review period for a new drug, antibiotic drug, or human biological product is the sum of—
 
-&emsp;&emsp;(i) the period beginning on the date an exemption under subsection (i) of section 505 or subsection (d) of section 507 <sup>4</sup> became effective for the approved product and ending on the date an application was initially submitted for such drug product under section 351, 505, or 507,<sup>4</sup> and
+&emsp;&emsp;(i) the period beginning on the date an exemption under subsection (i) of section 505 or subsection (d) of section 507 <sup>2</sup> became effective for the approved product and ending on the date an application was initially submitted for such drug product under section 351, 505, or 507,<sup>2</sup> and
 
-&emsp;&emsp;(ii) the period beginning on the date the application was initially submitted for the approved product under section 351, subsection (b) of section 505, or section 507 <sup>4</sup> and ending on the date such application was approved under such section.
+&emsp;&emsp;(ii) the period beginning on the date the application was initially submitted for the approved product under section 351, subsection (b) of section 505, or section 507 <sup>2</sup> and ending on the date such application was approved under such section.
 
 &emsp;(2)(A) In the case of a product which is a food additive or color additive, the term means the period described in subparagraph (B) to which the limitation described in paragraph (6) applies.
 
@@ -212,19 +212,19 @@
 
 &emsp;&emsp;&emsp;(ii) no major health or environmental effects test described in paragraph (2)(B) or (4)(B) was initiated and no petition for a regulation or application for registration described in such paragraph was submitted, or
 
-&emsp;&emsp;&emsp;(iii) no clinical investigation described in paragraph (3) was begun or product development protocol described in such paragraph was submittted,<sup>5</sup>
+&emsp;&emsp;&emsp;(iii) no clinical investigation described in paragraph (3) was begun or product development protocol described in such paragraph was submitted,
 
-> &emsp;&emsp;before such date for the approved product the period of extension determined on the basis of the regulatory review period determined under any such paragraph may not exceed five years.
+> &emsp;&emsp;before such date for the approved product the period of extension determined on thebasis of the regulatory review period determined under any such paragraph may not exceed five years.
 
 &emsp;&emsp;(C) If the patent involved was issued before the date of the enactment of this section and if an action described in subparagraph (B) was taken before the date of the enactment of this section with respect to the approved product and the commercial marketing or use of the product has not been approved before such date, the period of extension determined on the basis of the regulatory review period determined under such paragraph may not exceed two years or in the case of an approved product which is a new animal drug or veterinary biological product (as those terms are used in the Federal Food, Drug, and Cosmetic Act or the Virus-Serum-Toxin Act), three years.
 
 (h) The Director may establish such fees as the Director determines appropriate to cover the costs to the Office of receiving and acting upon applications under this section.
 
-(Added Pub. L. 98–417, title II, §201(a), Sept. 24, 1984, 98 Stat. 1598; amended Pub. L. 100–670, title II, §201(a)–(h), Nov. 16, 1988, 102 Stat. 3984–3987; Pub. L. 103–179, §§5, 6, Dec. 3, 1993, 107 Stat. 2040, 2042; Pub. L. 103–465, title V, §532(c)(1), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 105–115, title I, §125(b)(2)(P), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4404, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582.)
+(Added Pub. L. 98–417, title II, §201(a), Sept. 24, 1984, 98 Stat. 1598; amended Pub. L. 100–670, title II, §201(a)–(h), Nov. 16, 1988, 102 Stat. 3984–3987; Pub. L. 103–179, §§5, 6, Dec. 3, 1993, 107 Stat. 2040, 2042; Pub. L. 103–465, title V, §532(c)(1), Dec. 8, 1994, 108 Stat. 4987; Pub. L. 105–115, title I, §125(b)(2)(P), Nov. 21, 1997, 111 Stat. 2326; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4404, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(a)(9), (b)(1)(B), Nov. 2, 2002, 116 Stat. 1904, 1906.)
 
 #### References in Text
 
-The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(B), (4)(C), and (g)(5)(B), (6)(C), is act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
+The Virus-Serum-Toxin Act, referred to in subsecs. (d)(2)(A)(i), (B)(i), (f)(2)(B), (4)(C), and (g)(5)(B), (6)(C), is the eighth paragraph under the heading “Bureau of Animal Industry” of act Mar. 4, 1913, ch. 145, 37 Stat. 828, as amended, which is classified generally to chapter 5 (§151 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 151 of Title 21 and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsecs. (d)(2)(A)(ii), (B)(ii), (f), and (g)(2)(B), (3)(B)(ii), (6)(C), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
 
@@ -242,9 +242,21 @@ The date of the enactment of this section, referred to in subsec. (g)(6), is the
 
 #### Amendments
 
+2002—Subsec. (b)(3)(B). Pub. L. 107–273, §13206(a)(9)(A), substituted “paragraph” for “paragraphs”.
+
+Subsec. (d). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+
+Subsec. (d)(2)(B)(i). Pub. L. 107–273, §13206(a)(9)(B), substituted “below the Office” for “below the office”.
+
+Subsec. (e). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+
+Subsec. (g)(6)(B)(iii). Pub. L. 107–273, §13206(a)(9)(C), substituted “submitted” for “submittted”.
+
+Subsec. (h). Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+
 1999—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title IV, §4404\], in introductory provisions, inserted “, which shall include any patent term adjustment granted under section 154(b),” after “the original expiration date of the patent”.
 
-Subsecs. (d), (e), (h). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], substituted “Director” for “Commissioner” wherever appearing.
+Subsecs. (d), (e), (h). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” wherever appearing.
 
 1997—Subsec. (f)(4)(B). Pub. L. 105–115, §125(b)(2)(P), struck out “507,” after “505,” in two places.
 
@@ -270,7 +282,7 @@ Subsec. (e)(2). Pub. L. 103–179, §6(3)(B), substituted “subsection (d)(1)�
 
 Subsec. (a)(5)(C). Pub. L. 100–670, §201(a)(2), (3), added subpar. (C).
 
-Subsec. (b). Pub. L. 100–670, §201(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read asfollows: “The rights derived from any patent the term of which is extended under this section shall during the period during which the patent is extended—
+Subsec. (b). Pub. L. 100–670, §201(b), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “The rights derived from any patent the term of which is extended under this section shall during the period during which the patent is extended—
 
 &emsp;“(1) in the case of a patent which claims a product, be limited to any use approved for the approved product before the expiration of the term of the patent under the provision of law under which the applicable regulatory review occurred;
 
@@ -328,13 +340,7 @@ Amendment by Pub. L. 103–465 effective 6 months after Dec. 8, 1994, and applic
 
 This section is referred to in sections 273, 282 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “paragraph”.</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “Commissioner”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be “Commissioner”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be “submitted,”.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

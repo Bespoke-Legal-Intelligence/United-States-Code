@@ -20,11 +20,11 @@ Section 1 of act Apr. 12, 1900, was similar to this section, except that it desc
 
 #### Short Title
 
-Act July 3, 1950, ch. 446, §4, 64 Stat. 319, provided, in part, that the act of Mar. 2, 1917, ch. 145, 39 Stat. 951\[enacting this chapter, section 1019 of this title, section 46 of Title 2, The Congress, and section 358 of Title 8, Aliens and Nationality, and amending sections 325, 327, and 328 of former Title 39, Postal Service\], may be cited as the “Puerto Rican Federal Relations Act”. The act of Mar. 2, 1917, is also popularly known as the “Jones Act”.
+Act July 3, 1950, ch. 446, §4, 64 Stat. 319, provided, in part, that the act of Mar. 2, 1917, ch. 145, 39 Stat. 951 \[enacting this chapter, section 1019 of this title, section 46 of Title 2, The Congress, and section 358 of Title 8, Aliens and Nationality, and amending sections 325, 327, and 328 of former Title 39, Postal Service\], may be cited as the “Puerto Rican Federal Relations Act”. The act of Mar. 2, 1917, is also popularly known as the “Jones Act”.
 
 #### United States-Puerto Rico Commission on the Status of Puerto Rico
 
-Pub. L. 88–271, Feb. 20, 1964, 78 Stat. 17, as amended by Pub. L. 89–84, July 24, 1965, 79 Stat. 261, established a United States-Puerto Rico Commission on the Status of Puerto Rico to study all factors, including but not limited to applicable laws, treaties, constitutions, and agreements having a bearing on the relationship between the United States and Puerto Rico. The Commission was required to render its report to the President of the United States, the Congress of the United States, the Governor of Puerto Rico, and the Legislative Assembly of Puerto Rico not later than Sept. 30, 1966.
+Pub. L. 88–271, Feb. 20, 1964, 78 Stat. 17, as amended by Pub. L. 89–84, July 24, 1965, 79 Stat. 261, established a United States-Puerto Rico Commission on the Status of Puerto Rico to study all factors, including but not limited to applicable laws, treaties, constitutions, and agreements having a bearing on the relationship between the United States and Puerto Rico. The Commission was required to render its report to the President of the United States, the Congress of the United States,the Governor of Puerto Rico, and the Legislative Assembly of Puerto Rico not later than Sept. 30, 1966.
 
 #### Administration of Government
 

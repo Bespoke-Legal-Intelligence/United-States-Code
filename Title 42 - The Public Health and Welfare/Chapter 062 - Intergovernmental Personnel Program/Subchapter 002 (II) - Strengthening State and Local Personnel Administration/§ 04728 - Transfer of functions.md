@@ -78,7 +78,7 @@ Effective one year after October 13, 1978, all statutory personnel requirements 
 
 &emsp;(2) requirements that generally prohibit discrimination in employment or require equal employment opportunity;
 
-&emsp;(3) the Davis-Bacon Act \[40 U.S.C. 276a—276a–5\]; and
+&emsp;(3) sections 3141–3144, 3146, and 3147 of title 40; and
 
 &emsp;(4) chapter 15 of title 5, relating to political activities of certain State and local employees.
 
@@ -102,7 +102,9 @@ Section 705 of this title, referred to in subsec. (a)(3)(D), was amended by Pub.
 
 Section 1382(a)(5)(A) of this title, referred to in subsec. (a)(3)(D), was in the original a reference to section 1602(a)(5)(A) of the Social Security Act. Title XVI of the Social Security Act (section 1381 et seq. of this title) was amended generally by Pub. L. 92–603, title III, §301, Oct. 30, 1972, 86 Stat. 1465, and the provisions formerly contained in section 1382 of this title appeared in section 602 of the Act, which was classified to section 802 of this title, and was repealed by Pub. L. 93–647, §3(b), Jan. 4, 1975, 88 Stat. 2349.
 
-The Davis-Bacon Act, referred to in subsec. (h)(3), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+#### Codification
+
+In subsec. (h)(3), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act (40 U.S.C. 276 et seq.)”, meaning 40 U.S.C. 276a et seq., on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -118,7 +120,7 @@ Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section
 
 #### Transfer of Functions
 
-“Office”, meaning Office of Personnel Management, substituted for “Commission”, meaning Civil Service Commission”, in subsecs. (a) and (c) to (e) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
+“Office”, meaning Office of Personnel Management, substituted for “Commission”, meaning Civil Service Commission, in subsecs. (a) and (c) to (e) pursuant to Reorg. Plan No. 2 of 1978, §102, 43 F.R. 36037, 92 Stat. 3783, set out under section 1101 of Title 5, Government Organization and Employees, which transferred functions vested by statute in Civil Service Commission and Chairman thereof to Director of Office of Personnel Management (except as otherwise specified), effective Jan. 1, 1979, as provided by section 1–102 of Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, set out under section 1101 of Title 5.
 
 #### Section Referred to in Other Sections
 

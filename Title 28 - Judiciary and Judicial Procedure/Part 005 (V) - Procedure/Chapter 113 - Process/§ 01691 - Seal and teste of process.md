@@ -8,7 +8,7 @@ All writs and process issuing from a court of the United States shall be under t
 
 Based on title 28, U.S.C., 1940 ed., §721 (R.S. §911; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167).
 
-Provisions as to teste of process issuing from the district courts were omitted as superseded by Rule 4 (b) of the Federal Rules of Civil Procedure. Provision for teste of the Chief Justice of writs and process was omitted as unnecessary.
+Provisions as to teste of process issuing from the district courts were omitted as superseded by Rule 4 (b) ofthe Federal Rules of Civil Procedure. Provision for teste of the Chief Justice of writs and process was omitted as unnecessary.
 
 A provision requiring the United States to bear the expense of providing seals was omitted as unnecessary and obsolete.
 

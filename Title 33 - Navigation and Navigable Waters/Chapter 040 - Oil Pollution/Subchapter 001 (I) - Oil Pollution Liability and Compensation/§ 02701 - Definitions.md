@@ -140,6 +140,10 @@ Pub. L. 101–537, title II, §2001, Nov. 8, 1990, 104 Stat. 2375, and Pub. L. 1
 
 Section 1 of Pub. L. 101–380 provided that: “This Act \[enacting this chapter, sections 1642 and 1656 of Title 43, Public Lands, sections 3703a and 7505 of Title 46, Shipping, and section 1274a of the Appendix to Title 46, amending sections 1223, 1228, 1232, 1236, 1319, 1321, 1481, 1486, 1503, 1514, and 1908 of this title, section 3145 of Title 16, Conservation, sections 4612 and 9509 of Title 26, Internal Revenue Code, sections 1334, 1350, and 1653 of Title 43, sections 2101, 2302, 3318, 3715, 3718, 5116, 6101, 7101, 7106, 7107, 7109, 7302, 7502, 7503, 7701 to 7703, 8101, 8104, 8502, 8503, 8702, 9101, 9102, 9302, 9308, and 12106 of Title 46, and section 1274 of the Appendix to Title 46, repealing section 1517 of this title and sections 1811 and 1812 to 1824 of Title 43, enacting provisions set out as notes under this section, sections 1203, 1223, and 1321, of this title, section 92 of Title 14, Coast Guard, section 9509 of Title 26, sections 1334, 1651, and 1653 of Title 43, sections 3703, 3703a, and 7106 of Title 46, and section 1295 of the Appendix to Title 46, amending provisions set out as a note under section 401 of Title 23, Highways, and repealing provisions set out as a note under section 1811 of Title 43\] may be cited as the ‘Oil Pollution Act of 1990’.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1321 of this title.

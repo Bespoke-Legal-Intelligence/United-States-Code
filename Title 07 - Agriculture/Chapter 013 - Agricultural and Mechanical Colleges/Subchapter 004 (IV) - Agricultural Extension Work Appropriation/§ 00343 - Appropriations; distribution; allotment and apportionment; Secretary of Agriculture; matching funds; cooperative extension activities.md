@@ -6,7 +6,7 @@
 
 (2) There is authorized to be appropriated for the fiscal year ending June 30, 1971, and for each fiscal year thereafter, for payment to the Virgin Islands, Guam, and the Northern Mariana Islands, $100,000 each, which sums shall be in addition to the sums appropriated for the several States of the United States and Puerto Rico under the provisions of this section. The amount paid by the Federal Government to the Virgin Islands and Guam pursuant to this paragraph shall not exceed during any fiscal year, except the fiscal years ending June 30, 1971, and June 30, 1972, when such amount may be used to pay the total cost of providing services pursuant to this subchapter, the amount available and budgeted for expenditure by the Virgin Islands and Guam for the purposes of this subchapter.
 
-(3) There are authorized to be appropriated for the fiscal year ending June 30, 1996, and for each fiscal year thereafter, for payment on behalf of the 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994), $5,000,000 for the purposes set forth in section 342 of this title. Such sums shall be in addition to the sums appropriated for the several States and Puerto Rico, the Virgin Islands, and Guam under the provisions of this section. Such sums shall be distributed on the basis of a competitive application process to be developed and implemented by the Secretary and paid by the Secretary to 1994 Institutions (in accordance with regulations that the Secretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State.
+(3) There are authorized to be appropriated for the fiscal year ending June 30, 1996, and for each fiscal year thereafter, for payment on behalf of the 1994 Institutions (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994), such sums as are necessary for the purposes set forth in section 342 of this title. The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation. Such sums shall be in addition to the sums appropriated for the several States and Puerto Rico, the Virgin Islands, and Guam under the provisions of this section. Such sums shall be distributed on the basis of a competitive application process to be developed and implemented by the Secretary and paid by the Secretary to 1994 Institutions (in accordance with regulations that the Secretary may promulgate) and may be administered by the 1994 Institutions through cooperative agreements with colleges and universities eligible to receive funds under subchapters I and II of this chapter, including Tuskegee University, located in any State.
 
 (c) Any sums made available by the Congress for further development of cooperative extension work in addition to those referred to in subsection (b) of this section shall be distributed as follows:
 
@@ -16,7 +16,7 @@
 
 (d) The Secretary of Agriculture shall receive such additional amounts as Congress shall determine for administration, technical, and other services and for coordinating the extension work of the Department and the several States, Territories, and possessions. A college or university eligible to receive funds under subchapter II of this chapter, including Tuskegee University, may apply for and receive directly from the Secretary of Agriculture—
 
-&emsp;(1) amounts made available under this subsection after September 30, 1995, to carry out programs or initiatives for which no funds were made available under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary; and
+&emsp;(1) amounts made available under this subsection after September 30, 1995, to carry outprograms or initiatives for which no funds were made available under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary; and
 
 &emsp;(2) amounts made available after September 30, 1995, to carry out programs or initiatives funded under this subsection prior to that date that are in excess of the highest amount made available for the programs or initiatives under this subsection for fiscal year 1995, or any previous fiscal year, as determined by the Secretary.
 
@@ -50,7 +50,15 @@ Matching requirement.—Any reapportionment of funds under this paragraph shall 
 
 &emsp;(4)
 
-Territories.—In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title.
+Exception for insular areas.—
+
+&emsp;&emsp;(A)
+
+In general.—Effective beginning for fiscal year 2003, in lieu of the matching funds requirement of paragraph (1), the insular areas of the Commonwealth of Puerto Rico, Guam, and the Virgin Islands of the United States shall provide matching funds from non-Federal sources in an amount equal to not less than 50 percent of the formula funds distributed by the Secretary to each of the insular areas, respectively, under this section.
+
+&emsp;&emsp;(B)
+
+Waivers.—The Secretary may waive the matching fund requirement of subparagraph (A) for any fiscal year if the Secretary determines that the government of the insular area will be unlikely to meet the matching requirement for the fiscal year.
 
 (f)
 
@@ -114,19 +122,23 @@ Review required.—Effective October 1, 1999, extension activity carried out und
 
 &emsp;(2)
 
-Other requirements.—An extension activity for which merit review is conducted under paragraph (1) shall be considered to have satisfied the requirements for review under section 7613 of this title.
+Other requirements.—An extension activity for which merit review is conductedunder paragraph (1) shall be considered to have satisfied the requirements for review under section 7613 of this title.
 
 (j)
 
 Integration of Research and Extension.—Section 361c(i) of this title shall apply to amounts made available to carry out this subchapter.
 
-(May 8, 1914, ch. 79, §3, 38 Stat. 373; June 26, 1953, ch. 157, §1, 67 Stat. 84; Pub. L. 87–749, §1(b)–(e), Oct. 5, 1962, 76 Stat. 745; Pub. L. 92–318, title V, §506(g), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1465, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 99–198, title XIV, §1435(b), Dec. 23, 1985, 99 Stat. 1557; Pub. L. 99–396, §9(e), Aug. 27, 1986, 100 Stat. 840; Pub. L. 103–382, title V, §534(b), Oct. 20, 1994, 108 Stat. 4050; Pub. L. 104–127, title VIII, §883(a), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §105, title II, §§201, 203(b), (c)(2), 204(b), June 23, 1998, 112 Stat. 529, 531, 534, 536; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(e)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
+(May 8, 1914, ch. 79, §3, 38 Stat. 373; June 26, 1953, ch. 157, §1, 67 Stat. 84; Pub. L. 87–749, §1(b)–(e), Oct. 5, 1962, 76 Stat. 745; Pub. L. 92–318, title V, §506(g), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1465, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 99–198, title XIV, §1435(b), Dec. 23, 1985, 99 Stat. 1557; Pub. L. 99–396, §9(e), Aug. 27, 1986, 100 Stat. 840; Pub. L. 103–382, title V, §534(b), Oct. 20, 1994, 108 Stat. 4050; Pub. L. 104–127, title VIII, §883(a), Apr. 4, 1996, 110 Stat. 1176; Pub. L. 105–185, title I, §105, title II, §§201, 203(b), (c)(2), 204(b), June 23, 1998, 112 Stat. 529, 531, 534, 536; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(e)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §§7213(b), 7215, May 13, 2002, 116 Stat. 448.)
 
 #### References in Text
 
 Section 532 of the Equity in Educational Land-Grant Status Act of 1994, referred to in subsec. (b)(3), is section 532 of Pub. L. 103–382, which is set out as a note under section 301 of this title.
 
 #### Amendments
+
+2002—Subsec. (b)(3). Pub. L. 107–171, §7215, substituted “such sums as are necessary” for “$5,000,000” and inserted “The balance of any annual funds provided under the preceding sentence for a fiscal year that remains unexpended at the end of that fiscal year shall remain available without fiscal year limitation.” after “section 342 of this title.”.
+
+Subsec. (e)(4). Pub. L. 107–171, §7213(b), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title.”
 
 1998—Subsec. (b)(1). Pub. L. 105–185, §203(c)(2)(A), substituted “Secretary of Agriculture” for “Federal Extension Service”.
 
@@ -166,11 +178,11 @@ Subsecs. (f), (g). Pub. L. 103–382, §534(2), (3), added subsec. (f) and redes
 
 1972—Subsec. (b). Pub. L. 92–318 designated existing provisions as par. (1) and added par. (2).
 
-1962—Subsec. (b). Pub. L. 87–749, §1(b), substituted “sums available” for “sums received”, and “1962” for “1953”, and struck out “, Alaska, Hawaii, Puerto Rico,” before “and the Federal Extension Service”, “such sums shall be” before “subject to the same requirement”, “, Alaska, Hawaii, and Puerto Rico as existed immediately prior to June 26, 1953” before “except that amounts heretofore”, and proviso which authorized Puerto Rico to receive the total initial amount set by Act Oct. 26, 1949, which amount was to be increased yearly until the total sum equalled the maximumamount set by such Act, and to receive such amount annually thereafter.
+1962—Subsec. (b). Pub. L. 87–749, §1(b), substituted “sums available” for “sums received”, and “1962” for “1953”, and struck out “, Alaska, Hawaii, Puerto Rico,” before “and the Federal Extension Service”, “such sums shall be” before “subject to the same requirement”, “, Alaska, Hawaii, and Puerto Rico as existed immediately prior to June 26, 1953” before “except that amounts heretofore”, and proviso which authorized Puerto Rico to receive the total initial amount set by Act Oct. 26, 1949, which amount was to be increased yearly until the total sum equalled the maximum amount set by such Act, and to receive such amount annually thereafter.
 
 Subsec. (c)1. Pub. L. 87–749, §1(c), provided that the allotment shall be to the Federal Extension Service for various services and for coordinating the extension work of the Department, States, Territories and Possessions, and struck out provisions which required the Secretary to allot the funds among the States, Alaska, Hawaii, and Puerto Rico according to special needs.
 
-Subsec. (c)2. Pub. L. 87–749, §1(d), substituted provisions authorizing 20 per centum of the remainder of the appropriated funds to be paid to the States in equal proportions, 40 per centum of such funds to be paid to the States in the proportion that the rural population of each bears to the total rural population of the States, and the balance to be paid the States in the proportion that the farm population of each bears to the total farm population of the States, for provisions paying 50 per centum of the remaining sum to the States, Alaska, Hawaii and Puerto Rico in the proportion that the rural population of each had to the total rural population of all, and the balance in the proportion that the farm population of each had to the farm population of all, and struck out “, Alaska, Hawaii, and Puerto Rico” from first proviso.
+Subsec. (c)2. Pub. L. 87–749, §1(d), substituted provisions authorizing 20 per centum of the remainder of the appropriated funds to be paid to the States in equal proportions, 40 per centum of such funds to be paid to the States in the proportion that the rural population of each bears to the total rural population of the States, and the balance to be paid the States in the proportion that the farm population of each bears to the total farm population of the States, for provisionspaying 50 per centum of the remaining sum to the States, Alaska, Hawaii and Puerto Rico in the proportion that the rural population of each had to the total rural population of all, and the balance in the proportion that the farm population of each had to the farm population of all, and struck out “, Alaska, Hawaii, and Puerto Rico” from first proviso.
 
 Subsec. (d). Pub. L. 87–749, §1(e), inserted “additional” after “receive such”.
 
@@ -194,5 +206,5 @@ Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 361c, 2020, 3175, 3221 of this title.
+This section is referred to in sections 361c, 2020, 3175, 3221 of this title; title 39 section 3202.
 

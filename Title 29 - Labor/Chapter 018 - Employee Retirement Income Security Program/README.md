@@ -2,7 +2,7 @@
 
 #### SUBCHAPTER I—PROTECTION OF EMPLOYEE BENEFIT RIGHTS
 
-#### Subtitse A—General Provisions
+#### Subtitle A—General Provisions
 
 | Sec. |  |
 | :--- | ---: |
@@ -41,7 +41,8 @@ I74part 1—reporting and disclosure
 | (f) | Repealed. |
 | (g) | Reporting by certain arrangements. |
 | (h) | Simple retirement accounts. |
-| (h) | Cross reference. |
+| (i) | Notice of blackout periods to participant or beneficiary under individual account plan. |
+| (j) | Cross reference. |
 | [1022\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20001%20-%20Reporting%20and%20Disclosure/%C2%A7%2001022%20-%20Summary%20plan%20description.md) | Summary plan description. |
 | [1023\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20001%20-%20Reporting%20and%20Disclosure/%C2%A7%2001023%20-%20Annual%20reports.md) | Annual reports. |
 | (a) | Publication and filing. |
@@ -330,7 +331,9 @@ I74part 1—reporting and disclosure
 | [1162\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20006%20-%20Continuation%20Coverage%20and%20Additional%20Standards%20for%20Group%20Health%20Plans/%C2%A7%2001162%20-%20Continuation%20coverage.md) | Continuation coverage. |
 | [1163\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20006%20-%20Continuation%20Coverage%20and%20Additional%20Standards%20for%20Group%20Health%20Plans/%C2%A7%2001163%20-%20Qualifying%20event.md) | Qualifying event. |
 | [1164\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20006%20-%20Continuation%20Coverage%20and%20Additional%20Standards%20for%20Group%20Health%20Plans/%C2%A7%2001164%20-%20Applicable%20premium.md) | Applicable premium. |
-| [1165\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20006%20-%20Continuation%20Coverage%20and%20Additional%20Standards%20for%20Group%20Health%20Plans/%C2%A7%2001165%20-%20Election.md) | Election |
+| [1165\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20006%20-%20Continuation%20Coverage%20and%20Additional%20Standards%20for%20Group%20Health%20Plans/%C2%A7%2001165%20-%20Election.md) | Election. |
+| (a) | In general. |
+| (b) | Temporary extension of COBRA election period for certain individuals. |
 | [1166\.](Subchapter%20001%20%28I%29%20-%20Protection%20of%20Employee%20Benefit%20Rights/Subtitle%20B%20-%20Regulatory%20Provisions/Part%20006%20-%20Continuation%20Coverage%20and%20Additional%20Standards%20for%20Group%20Health%20Plans/%C2%A7%2001166%20-%20Notice%20requirements.md) | Notice requirements. |
 | (a) | In general. |
 | (b) | Alternative means of compliance with requirements for notification of multiemployer plans by employers. |

@@ -78,7 +78,7 @@ The Commission may, for the purposes of carrying out the Commission's duties und
 
 (1) Except as provided in paragraph (2), the Commission shall terminate on the day occurring ten years after August 24, 1984.
 
-(2) The Secretary of the Interior may extend the life of the Commission for a period of not more than five years beginning on the day referred to in paragraph (1) if the Commission determines that such extension is necessary inorder for the Commission to carry out sections 450jj to 450jj–9 of this title.
+(2) The Secretary of the Interior may extend the life of the Commission for a period of not more than five years beginning on the day referred to in paragraph (1) if the Commission determines that such extension is necessary in order for the Commission to carry out sections 450jj to 450jj–9 of this title.
 
 (May 17, 1954, ch. 204, §7, as added Pub. L. 98–398, title II, §201(a), Aug. 24, 1984, 98 Stat. 1469.)
 

@@ -54,7 +54,7 @@ The United States Trade Representative shall consult on a continuing basis with 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2132, 2155, 2517 of this title.
+This section is referred to in sections 2132, 2155, 2517, 3802 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

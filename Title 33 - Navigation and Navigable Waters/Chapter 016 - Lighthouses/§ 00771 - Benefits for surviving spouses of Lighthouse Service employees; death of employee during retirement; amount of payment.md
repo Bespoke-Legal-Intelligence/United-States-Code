@@ -38,6 +38,8 @@ Section 6 of act Aug. 19, 1950, provided that: “No payment shall be made under
 
 Bureau of Lighthouses, of which Lighthouse Service was a part, transferred and consolidated with Coast Guard under Secretary of the Treasury by Reorg. Plan No. II of 1939, §2(a), eff. July 1, 1939, 4 F.R. 2731, 33 Stat. 1432, set out in the Appendix to Title 5, Government Organization and Employees. Functions of Secretary of the Treasury relating to Coast Guard transferred to Secretary of Transportation by section 6(b)(1) of Pub. L. 89–670. See section 108 of Title 49, Transportation.
 
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Increase in Widows Benefits and Effective Date of Increase
 
 Pub. L. 94–170, Dec. 23, 1975, 89 Stat. 1022, provided: “That the benefits payable under section 1 or section 2 of the Act of August 19, 1950 (64 Stat. 465, 466), as amended (33 U.S.C. 771, 772) shall, effective on the first day of the calendar month following enactment of this Act \[Dec. 23, 1975\], be increased by $26 per month.

@@ -8,13 +8,13 @@ In General.—Whoever—
 
 &emsp;(2) forcibly assaults or intimidates any person who formerly served as a person designated in section 1114 on account of the performance of official duties during such person's term of service,
 
-> shall, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year,or both, and in all other cases, be fined under this title or imprisoned not more than three years, or both.
+> shall, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases, be fined under this title or imprisoned not more than 8 years, or both.
 
 (b)
 
-Enhanced Penalty.—Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon (including a weapon intended to cause death or danger but that fails to do so by reason of a defective component) or inflicts bodily injury, shall be fined under this title or imprisoned not more than ten years, or both.
+Enhanced Penalty.—Whoever, in the commission of any acts described in subsection (a), uses a deadly or dangerous weapon (including a weapon intended to cause death or danger but that fails to do so by reason of a defective component) or inflicts bodily injury, shall be fined under this title or imprisoned not more than 20 years, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 100–690, title VI, §6487(a), Nov. 18, 1988, 102 Stat. 4386; Pub. L. 103–322, title XXXII, §320101(a), Sept. 13, 1994, 108 Stat. 2108; Pub. L. 104–132, title VII, §727(c), Apr. 24, 1996, 110 Stat. 1302.)
+(June 25, 1948, ch. 645, 62 Stat. 688; Pub. L. 100–690, title VI, §6487(a), Nov. 18, 1988, 102 Stat. 4386; Pub. L. 103–322, title XXXII, §320101(a), Sept. 13, 1994, 108 Stat. 2108; Pub. L. 104–132, title VII, §727(c), Apr. 24, 1996, 110 Stat. 1302; Pub. L. 107–273, div. C, title I, §11008(b), Nov. 2, 2002, 116 Stat. 1818.)
 
 #### Historical and Revision Notes
 
@@ -28,6 +28,10 @@ The punishment provision of section 254 of title 18, U.S.C., 1940 ed., was adopt
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–273, §11008(b)(1), substituted “8” for “three” in concluding provisions.
+
+Subsec. (b). Pub. L. 107–273, §11008(b)(2), substituted “20” for “ten”.
+
 1996—Subsec. (b). Pub. L. 104–132 inserted “(including a weapon intended to cause death or danger but that fails to do so by reason of a defective component)” after “deadly or dangerous weapon”.
 
 1994—Subsec. (a). Pub. L. 103–322, §320101(a)(1), inserted “, where the acts in violation of this section constitute only simple assault, be fined under this title or imprisoned not more than one year, or both, and in all other cases,” after “shall” in concluding provisions.
@@ -40,7 +44,11 @@ Subsec. (b). Pub. L. 103–322, §320101(a)(2), inserted “or inflicts bodily i
 
 “Whoever, in the commission of any such acts uses a deadly or dangerous weapon, shall be fined not more than $10,000 or imprisoned not more than ten years, or both.”
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–273, div. C, title I, §11008(a), Nov. 2, 2002, 116 Stat. 1818, provided that: “This section \[amending this section, sections 115 and 876 of this title, and provisions set out as a note under section 994 of Title 28, Judiciary and Judicial Procedure\] may be cited as the ‘Federal Judiciary Protection Act of 2002’.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 115, 3050 of this title; title 7 sections 84, 87c; title 16 section 742<i>l</i>; title 19 section 1629; title 22 section 2709; title 25 section 2804; title 42 sections 2000e–13, 2283.
+This section is referred to in sections 115, 3050 of this title; title 7 sections 84, 87c; title 16 section 742<i>l</i>; title 19 section 1629; title 25 section 2804; title 42 sections 2000e–13, 2283.
 

@@ -18,7 +18,7 @@ The Secretary shall by regulation promulgate procedures for the implementation o
 
 #### Amendments
 
-1997—Subsec. (a). Pub. L. 105–115, §125(b)(2)(G), struck out “, certification of such drug for such disease orcondition under section 357 of this title,” before “or licensing of such drug” in closing provisions.
+1997—Subsec. (a). Pub. L. 105–115, §125(b)(2)(G), struck out “, certification of such drug for such disease or condition under section 357 of this title,” before “or licensing of such drug” in closing provisions.
 
 Subsec. (a)(1) to (3). Pub. L. 105–115, §125(b)(2)(F), inserted “or” at end of par. (1), redesignated par. (3) as (2), and struck out former par. (2), which read as follows: “if the drug is an antibiotic, it may be certified for such disease or condition under section 357 of this title, or”.
 

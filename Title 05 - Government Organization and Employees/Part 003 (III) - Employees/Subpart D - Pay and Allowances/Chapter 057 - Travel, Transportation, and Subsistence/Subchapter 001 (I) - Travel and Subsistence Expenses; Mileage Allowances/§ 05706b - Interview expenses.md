@@ -6,9 +6,9 @@ An individual being considered for employment by an agency may be paid travel or
 
 #### Effective Date
 
-Section effective on such date as the President shall determine, but not earlier than 90 days, and not laterthan 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
+Section effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as an Effective Date of 1990 Amendment note under section 5301 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 sections 3128, 5843; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 22 section 1474; title 24 section 415; title 38 section 7410.
+This section is referred to in title 7 sections 3128, 5843; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709, 5727; title 22 section 1474; title 24 section 416; title 38 section 7410.
 

@@ -1,8 +1,12 @@
 ### §266. Special quarantine powers in time of war
 
-To protect the military and naval forces and war workers of the United States, in time of war, against any communicable disease specified in Executive orders as provided in subsection (b) of section 264 of this title, the Surgeon General, on recommendation of the National Advisory Health Council, is authorized to provide by regulations for the apprehension and examination, in time of war, of any individual reasonably believed (1) to be infected with such disease in a communicable stage and (2) to be a probable source of infection to members of the armed forces of the United States or to individuals engaged in the production or transportation of arms, munitions, ships, food, clothing, or other supplies for the armed forces. Such regulations may provide that if upon examination any such individual is found to be so infected, he may be detained for such time and in such manner as may be reasonably necessary.
+To protect the military and naval forces and war workers of the United States, in time of war, against any communicable disease specified in Executive orders as provided in subsection (b) of section 264 of this title, the Secretary, in consultation with the Surgeon General, is authorized to provide by regulations for the apprehension and examination, in time of war, of any individual reasonably believed (1) to be infected with such disease and (2) to be a probable source of infection to members of the armed forces of the United States or to individuals engaged in the production or transportation of arms, munitions, ships, food, clothing, or other supplies for the armed forces. Such regulations may provide that if upon examination any such individual is found to be so infected, he may be detained for such time and in such manner as may be reasonably necessary.
 
-(July 1, 1944, ch. 373, title III, §363, 58 Stat. 704.)
+(July 1, 1944, ch. 373, title III, §363, 58 Stat. 704; Pub. L. 107–188, title I, §142(a)(3), (b)(2), June 12, 2002, 116 Stat. 626, 627.)
+
+#### Amendments
+
+2002—Pub. L. 107–188, which directed substitution of “the Secretary, in consultation with the Surgeon General,” for “the Surgeon General, on recommendation of the National Advisory Health Council,” and striking out of “in a communicable stage” after “(1) to be infected with such disease”, in section 363 of the Public Health Act, was executed to this section, which is section 363 of the Public Health Service Act, to reflect the probable intent of Congress.
 
 #### Transfer of Functions
 
@@ -14,5 +18,5 @@ Joint Res. July 25, 1947, ch. 327, §3, 61 Stat. 451, provided that in the inter
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 271 of this title.
+This section is referred to in sections 264, 271 of this title.
 

@@ -2,7 +2,7 @@
 
 Except where expressly provided to the contrary, any reference in any law to subchapter I of this chapter shall be deemed to include reference to this part and any reference in any law to subchapter II of this chapter shall be deemed to exclude reference to this part.
 
-(Pub. L. 87–195, pt. II, §575, formerly §576, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97Stat. 972; renumbered §575, Pub. L. 104–164, title I, §121(d), July 21, 1996, 110 Stat. 1428.)
+(Pub. L. 87–195, pt. II, §575, formerly §576, as added Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 972; renumbered §575, Pub. L. 104–164, title I, §121(d), July 21, 1996, 110 Stat. 1428.)
 
 #### References to Subchapter I Deemed To Include Certain Parts of Subchapter II, and References to Subchapter II Deemed To Exclude Such Parts
 

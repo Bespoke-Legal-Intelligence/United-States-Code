@@ -32,7 +32,7 @@ In the development and revision of land use plans, the Secretary shall—
 
 #### (d) Review and inclusion of classified public lands; review of existing land use plans; modification and termination of classifications
 
-Any classification of public lands or any land use plan in effect on October 21, 1976, is subject to review in the land use planning process conducted under this section, and all public lands, regardless of classification, are subject to inclusion in any land use plan developed pursuant to this section. The Secretary may modify or terminate any such classification consistent with such land use plans.
+Any classification of public lands or any land use plan in effect on October 21, 1976, is subjectto review in the land use planning process conducted under this section, and all public lands, regardless of classification, are subject to inclusion in any land use plan developed pursuant to this section. The Secretary may modify or terminate any such classification consistent with such land use plans.
 
 #### (e) Management decisions for implementation of developed or revised plans
 
@@ -60,5 +60,5 @@ The Mining Law of 1872, as amended, referred to in subsec. (e)(3), is act May 10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1713, 1732, 1752, 1781, 1783, 1784, 1901, 1903, 1904, 2304 of this title; title 16 sections 460uu–43, 460iii, 1333; title 42 section 6508.
+This section is referred to in sections 1713, 1732, 1752, 1781, 1783, 1784, 1901, 1903, 1904, 2304 of this title; title 16 sections 460uu–43, 460iii, 460qqq–4, 1333; title 42 section 6508.
 

@@ -14,7 +14,7 @@ Section 345, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; May 21, 194
 
 Section 346, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; May 21, 1948, ch. 328, §4, 62 Stat. 255, related to duty of steam vessels to slacken speed. See sections 2006, 2017 of this title.
 
-Section 347, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; May 21, 1948, ch. 328, §4, 62 Stat. 255, related to duty of an overtaking vessel to keep out of the way. See section 2013 of this title.
+Section 347, R.S. §4233; Feb. 19, 1895, ch. 102, §1, 28 Stat. 672; May 21, 1948, ch. 328, §4, 62 Stat. 255, relatedto duty of an overtaking vessel to keep out of the way. See section 2013 of this title.
 
 Section 348, R.S. §4233; Feb. 19, 1895, ch. 102, 28 Stat. 672; May 21, 1948, ch. 328, §4, 62 Stat. 255, set out rule that a vessel having the right of way was to keep course. See section 2017 of this title.
 

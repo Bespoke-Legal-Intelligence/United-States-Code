@@ -108,7 +108,7 @@ The sanctions imposed pursuant to this section shall apply for a period of at le
 
 #### (2) Notification of and report to Congress
 
-&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), the President shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
+&emsp;If the President decides to exercise the waiver authority provided in paragraph (1), thePresident shall so notify the Congress not less than 20 days before the waiver takes effect. Such notification shall include a report fully articulating the rationale and circumstances which led the President to exercise the waiver authority.
 
 #### (f) “Foreign person” defined
 

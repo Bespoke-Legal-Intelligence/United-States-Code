@@ -22,5 +22,5 @@ No provision or amendment made by Pub. L. 103–62 to be construed as creating a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 44 section 3534.
+This section is referred to in title 44 sections 3534, 3544.
 

@@ -6,11 +6,15 @@ With their consent, the Secretary and the Federal Energy Regulatory Commission m
 
 #### (b) Facilities under custody of Secretary
 
-In carrying out his functions, the Secretary, under such terms, at such rates, and for such periods not exceeding five years, as he may deem to be in the public interest, is authorized to permit the use by public and private agencies, corporations, associations, or other organizations or by individuals of any real property, or any facility, structure, or other improvement thereon, under the custody of the Secretary for Department purposes. The Secretary may require permittees under this section to recondition and maintain, at their own expense, the real property, facilities, structures, and improvements involved to a satisfactory standard. This section shall not apply to excess property as defined in section 472(e) of title 40.
+In carrying out his functions, the Secretary, under such terms, at such rates, and for such periods not exceeding five years, as he may deem to be in the public interest, is authorized to permit the use by public and private agencies, corporations, associations, or other organizations or by individuals of any real property, or any facility, structure, or other improvement thereon, under the custody of the Secretary for Department purposes. The Secretary may require permittees under this section to recondition and maintain, at their own expense, the real property, facilities, structures, and improvements involved to a satisfactory standard. This section shall not apply to excess property as defined in section 102(3) of title 40.
 
 #### (c) Use of reimbursement proceeds
 
 Proceeds from reimbursements under this section shall be deposited in the Treasury and may be withdrawn by the Secretary or the head of the agency or instrumentality of the United States involved, as the case may be, to pay directly the costs of the equipment, or facilities provided, to repay or make advances to appropriations or funds which do or will initially bear all or a part of such costs, or to refund excess sums when necessary, except that such proceeds may be credited to a working capital fund otherwise established by law, including the fund established pursuant to section 7263 of this title, and used under the law governing such fund, if the fund is available for use for providing the equipment or facilities involved.
 
 (Pub. L. 95–91, title VI, §649, Aug. 4, 1977, 91 Stat. 600.)
+
+#### Codification
+
+In subsec. (b), “section 102(3) of title 40” substituted for “section 3(e) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 

@@ -10,7 +10,7 @@
 
 #### (b) Finality of board decision
 
-In the event of an appeal by a contractor or the Government from a decision of any agency board pursuant to section 607 of this title, notwithstanding any contract provision, regulation, or rules of law to the contrary, the decision of the agency board on any question of law shall not be final or conclusive, but the decision on any question of fact shall be final and conclusive and shall not be set aside unless the decision is fraudulent, or arbitrary, or capricious, or so grossly erroneous as to necessarily imply bad faith, or if such decision is not supported by substantial evidence.
+In the event of an appeal by a contractor or the Government from a decision of any agencyboard pursuant to section 607 of this title, notwithstanding any contract provision, regulation, or rules of law to the contrary, the decision of the agency board on any question of law shall not be final or conclusive, but the decision on any question of fact shall be final and conclusive and shall not be set aside unless the decision is fraudulent, or arbitrary, or capricious, or so grossly erroneous as to necessarily imply bad faith, or if such decision is not supported by substantial evidence.
 
 #### (c) Remand or retention of case
 
@@ -54,7 +54,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1992 Amendment
 
-Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a noteunder section 171 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 102–572 effective Oct. 29, 1992, see section 911 of Pub. L. 102–572, set out as a note under section 171 of Title 28, Judiciary and Judicial Procedure.
 
 #### Effective Date of 1982 Amendment
 

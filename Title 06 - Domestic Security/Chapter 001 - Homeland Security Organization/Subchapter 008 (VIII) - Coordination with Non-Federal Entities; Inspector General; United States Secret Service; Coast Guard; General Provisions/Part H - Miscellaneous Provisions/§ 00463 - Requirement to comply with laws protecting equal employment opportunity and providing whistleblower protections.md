@@ -1,0 +1,14 @@
+### §463. Requirement to comply with laws protecting equal employment opportunity and providing whistleblower protections
+
+Nothing in this chapter shall be construed as exempting the Department from requirements applicable with respect to executive agencies—
+
+&emsp;(1) to provide equal employment protection for employees of the Department (including pursuant to the provisions in section 2302(b)(1) of title 5 and the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (Public Law 107–174)); or
+
+&emsp;(2) to provide whistleblower protections for employees of the Department (including pursuant to the provisions in section 2302(b)(8) and (9) of such title and the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002).
+
+(Pub. L. 107–296, title VIII, §883, Nov. 25, 2002, 116 Stat. 2247.)
+
+#### References in Text
+
+The Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002, referred to in pars. (1) and (2), is Pub. L. 107–174, May 15, 2002, 116 Stat. 566, which is set out as a note under section 2301 of Title 5,Government Organization and Employees. For complete classification of this Act to the Code, see Tables.
+

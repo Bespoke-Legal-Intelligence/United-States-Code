@@ -38,7 +38,7 @@ The Secretary shall prescribe regulations to (1) assure that the confidentiality
 
 &emsp;(B)(i) the summary of data prepared by the Secretary pursuant to subsection (b)(2) of this section, and (ii) any other processed, analyzed, or interpreted data prepared by the Secretary pursuant to subsection (b)(1) of this section, unless the Secretary determines that transmittal of such data prepared pursuant to subsection (b)(1) of this section would unduly damage the competitive position of the lessee or permittee who provided the Secretary with the information which the Secretary had processed, analyzed, or interpreted; and
 
-&emsp;(C) any relevant information received by the Secretary pursuant to subsection (a) of this section, subject to any applicable requirements as to confidentiality which are set forth in regulations prescribed under subsection (c) of this section.
+&emsp;(C) any relevant information received by the Secretary pursuant to subsection (a) of thissection, subject to any applicable requirements as to confidentiality which are set forth in regulations prescribed under subsection (c) of this section.
 
 (2) Notwithstanding the provisions of any regulation required pursuant to the second sentence of subsection (c) of this section, the Governor of any affected State may designate an appropriate State official to inspect, at a regional location which the Secretary shall designate, any privileged information received by the Secretary regarding any activity adjacent to such State, except that no such inspection shall take place prior to the sale of a lease covering the area in which such activity was conducted. Knowledge obtained by such State during such inspection shall be subject to applicable requirements as to confidentiality which are set forth in regulations prescribed under subsection (c) of this section.
 
@@ -58,7 +58,7 @@ Any provision of State or local law which provides for public access to any priv
 
 #### (h) Failure by State to comply with regulations; withholding of information
 
-If the Secretary finds that any State cannot or does not comply with the regulations issuedunder subsection (c) of this section, he shall thereafter withhold transmittal and deny inspection of privileged information to such State until he finds that such State can and will comply with such regulations.
+If the Secretary finds that any State cannot or does not comply with the regulations issued under subsection (c) of this section, he shall thereafter withhold transmittal and deny inspection of privileged information to such State until he finds that such State can and will comply with such regulations.
 
 (Aug. 7, 1953, ch. 345, §26, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 664.)
 

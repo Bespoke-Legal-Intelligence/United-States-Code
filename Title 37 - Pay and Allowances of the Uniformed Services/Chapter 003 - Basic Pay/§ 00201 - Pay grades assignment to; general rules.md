@@ -35,7 +35,7 @@
 
 (e) Except as provided by subsections (c) and (d), enlisted members of the uniformed services shall, for the purpose of computing their basic pay, be distributed by the Secretary concerned in the various enlisted pay grades set forth in section 203 of this title. However, except as provided by section 307 of this title, an enlisted member may not be placed in pay grade E–8 or E–9 until he has completed at least 8 years or 10 years, respectively, of enlisted service computed under section 205 of this title.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 453; Pub. L. 88–132, §3(a), Oct. 2, 1963, 77 Stat. 212; Pub. L. 89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 91–278, §3(1), June 12, 1970, 84 Stat. 306; Pub. L. 95–79, title III, §302(a)(1), July 30, 1977, 91 Stat. 326; Pub. L. 96–76, title III, §313(a), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title V, §§506(3), 516(2), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 97–86, title IV, §405(c), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 98–94, title IX, §932(d), Sept. 24, 1983, 97 Stat. 650; Pub. L. 98–557, §25(b)(1), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(d)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–502, §5(k)(2), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 102–25, title VII, §701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §605, title XI, §1111(b), Dec. 5, 1991, 105 Stat. 1374, 1491.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 453; Pub. L. 88–132, §3(a), Oct. 2, 1963, 77 Stat. 212; Pub. L.89–718, §49(a)(1), Nov. 2, 1966, 80 Stat. 1121; Pub. L. 91–278, §3(1), June 12, 1970, 84 Stat. 306; Pub. L. 95–79, title III, §302(a)(1), July 30, 1977, 91 Stat. 326; Pub. L. 96–76, title III, §313(a), Sept. 29, 1979, 93 Stat. 586; Pub. L. 96–513, title V, §§506(3), 516(2), Dec. 12, 1980, 94 Stat. 2918, 2937; Pub. L. 97–86, title IV, §405(c), Dec. 1, 1981, 95 Stat. 1106; Pub. L. 98–94, title IX, §932(d), Sept. 24, 1983, 97 Stat. 650; Pub. L. 98–557, §25(b)(1), Oct. 30, 1984, 98 Stat. 2872; Pub. L. 99–145, title V, §514(d)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–502, §5(k)(2), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 102–25, title VII, §701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–190, div. A, title VI, §605, title XI, §1111(b), Dec. 5, 1991, 105 Stat. 1374, 1491.)
 
 Historical and Revision Notes
 
@@ -141,7 +141,7 @@ Amendment by section 1111(b) of Pub. L. 102–190 effective Feb. 1, 1992, see se
 
 #### Effective Date of 1990 Amendment
 
-Section 5(k)(3) of Pub. L. 101–502 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 207 of Title 42, The Public Health and Welfare\] shall take effect on the first day ofthe month immediately following the month in which this Act was enacted \[November 1990\].”
+Section 5(k)(3) of Pub. L. 101–502 provided that: “The amendments made by paragraphs (1) and (2) \[amending this section and section 207 of Title 42, The Public Health and Welfare\] shall take effect on the first day of the month immediately following the month in which this Act was enacted \[November 1990\].”
 
 #### Effective Date of 1983 Amendment
 
@@ -164,6 +164,8 @@ Amendment by Pub. L. 96–76 effective Oct. 1, 1979, see section 314 of Pub. L. 
 Section 14 of Pub. L. 88–132 provided that: “This Act \[see Short Title of 1963 Amendment note set out under section 101 of this title\] becomes effective on October 1, 1963.”
 
 #### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service, transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out in the Appendix to Title 5, Government Organization and Employees. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 3508(b) of Title 20, Education.
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Subject only to provisions of this section and notwithstanding any other provision oflaw, a public housing agency for which a plan under subsection (d) of this section is in effect may provide public housing projects (or portions of projects) designated for occupancy by (A) only elderly families, (B) only disabled families, or (C) elderly and disabled families.
+&emsp;Subject only to provisions of this section and notwithstanding any other provision of law, a public housing agency for which a plan under subsection (d) of this section is in effect may provide public housing projects (or portions of projects) designated for occupancy by (A) only elderly families, (B) only disabled families, or (C) elderly and disabled families.
 
 #### (2) Priority for occupancy
 
@@ -124,7 +124,7 @@ Subsec. (a)(2). Pub. L. 104–99, which directed the temporary amendment of par.
 
 #### Effective and Termination Dates of 1996 Amendments
 
-Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
+Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
 Amendment by Pub. L. 104–120 to be construed to have become effective Oct. 1, 1995, notwithstanding the effective date of any regulations issued by Secretary of Housing and Urban Development to implement amendments by sections 9 and 10 of Pub. L. 104–120 or any failure by Secretary to issue any such regulations, see section 13 of Pub. L. 104–120, set out as a note under section 1437d of this title.
 

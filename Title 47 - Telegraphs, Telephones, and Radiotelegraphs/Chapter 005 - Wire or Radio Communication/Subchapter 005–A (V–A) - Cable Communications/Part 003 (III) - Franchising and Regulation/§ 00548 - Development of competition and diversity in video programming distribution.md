@@ -26,7 +26,7 @@ It shall be unlawful for a cable operator, a satellite cable programming vendor 
 
 &emsp;&emsp;&emsp;(ii) establishing different prices, terms, and conditions to take into account actual and reasonable differences in the cost of creation, sale, delivery, or transmission of satellite cable programming or satellite broadcast programming;
 
-&emsp;&emsp;&emsp;(iii) establishing different prices, terms, and conditions which take into account economies of scale, cost savings, or other direct and legitimate economic benefitsreasonably attributable to the number of subscribers served by the distributor; or
+&emsp;&emsp;&emsp;(iii) establishing different prices, terms, and conditions which take into account economies of scale, cost savings, or other direct and legitimate economic benefits reasonably attributable to the number of subscribers served by the distributor; or
 
 &emsp;&emsp;&emsp;(iv) entering into an exclusive contract that is permitted under subparagraph (D);
 
@@ -94,7 +94,7 @@ The Commission shall, beginning not later than 18 months after promulgation of t
 
 #### (1) In general
 
-&emsp;Nothing in this section shall affect any contract that grants exclusive distribution rightsto any person with respect to satellite cable programming and that was entered into on or before June 1, 1990, except that the provisions of subsection (c)(2)(C) of this section shall apply for distribution to persons in areas not served by a cable operator.
+&emsp;Nothing in this section shall affect any contract that grants exclusive distribution rights to any person with respect to satellite cable programming and that was entered into on or before June 1, 1990, except that the provisions of subsection (c)(2)(C) of this section shall apply for distribution to persons in areas not served by a cable operator.
 
 #### (2) Limitation on renewals
 
@@ -106,7 +106,7 @@ As used in this section:
 
 &emsp;(1) The term “satellite cable programming” has the meaning provided under section 605 of this title, except that such term does not include satellite broadcast programming.
 
-&emsp;(2) The term “satellite cable programming vendor” means a person engaged in the production, creation, or wholesale distribution for sale of satellite cable programming, but does not include a satellite broadcast programming vendor.
+&emsp;(2) The term “satellite cable programming vendor” means a person engaged in the production, creation, or wholesale distribution for sale of satellite cable programming, butdoes not include a satellite broadcast programming vendor.
 
 &emsp;(3) The term “satellite broadcast programming” means broadcast video programming when such programming is retransmitted by satellite and the entity retransmitting such programming is not the broadcaster or an entity performing such retransmission on behalf of and with the specific consent of the broadcaster.
 

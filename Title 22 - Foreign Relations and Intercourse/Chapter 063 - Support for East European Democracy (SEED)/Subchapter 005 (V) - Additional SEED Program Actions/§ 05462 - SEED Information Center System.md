@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The President shall establish a SEED Information Center System, using existing Executivebranch agencies and acting in cooperation with the Government of Poland and the Government of Hungary.
+The President shall establish a SEED Information Center System, using existing Executive branch agencies and acting in cooperation with the Government of Poland and the Government of Hungary.
 
 #### (b) Functions
 

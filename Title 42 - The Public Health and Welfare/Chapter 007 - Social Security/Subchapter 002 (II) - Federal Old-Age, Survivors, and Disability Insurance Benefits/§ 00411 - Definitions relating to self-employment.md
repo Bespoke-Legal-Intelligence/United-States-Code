@@ -8,9 +8,9 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(1) There shall be excluded rentals from real estate and from personal property leased with the real estate (including such rentals paid in crop shares), together with the deductions attributable thereto, unless such rentals are received in the course of a trade or business as a real estate dealer; except that the preceding provisions of this paragraph shall not apply to any income derived by the owner or tenant of land if (A) such income is derived under an arrangement, between the owner or tenant and another individual, which provides that such other individual shall produce agricultural or horticultural commodities (including livestock, bees, poultry, and fur-bearing animals and wildlife) on such land, and that there shall be material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) in the production or the management of the production of such agricultural or horticultural commodities, and (B) there is material participation by the owner or tenant (as determined without regard to any activities of an agent of such owner or tenant) with respect to any such agricultural or horticultural commodity;
 
-&emsp;(2) There shall be excluded dividends on any share of stock, and interest on any bond, debenture, note, or certificate, or other evidence of indebtedness, issued with interest coupons or in registered form by any corporation (including one issued by a government or political subdivision thereof), unless such dividends and interest are received in the course of a trade or business as a dealer in stocks or securities;
+&emsp;(2) There shall be excluded dividends on any share of stock, and interest on any bond, debenture, note, or certificate, or other evidence of indebtedness, issued with interest coupons or in registered form by any corporation (including one issued by a government or political subdivision thereof), unless such dividends and interest are received in the course of atrade or business as a dealer in stocks or securities;
 
-&emsp;(3) There shall be excluded any gain or loss (A) which is considered under subtitle A of theInternal Revenue Code of 1986 as gain or loss from the sale or exchange of a capital asset, (B) from the cutting of timber, or the disposal of timber, coal, or iron ore, if section 631 of the Internal Revenue Code of 1986 applies to such gain or loss, or (C) from the sale, exchange, involuntary conversion, or other disposition of property if such property is neither (i) stock in trade or other property of a kind which would properly be includible in inventory if on hand at the close of the taxable year, nor (ii) property held primarily for sale to customers in the ordinary course of the trade or business;
+&emsp;(3) There shall be excluded any gain or loss (A) which is considered under subtitle A of the Internal Revenue Code of 1986 as gain or loss from the sale or exchange of a capital asset, (B) from the cutting of timber, or the disposal of timber, coal, or iron ore, if section 631 of the Internal Revenue Code of 1986 applies to such gain or loss, or (C) from the sale, exchange, involuntary conversion, or other disposition of property if such property is neither (i) stock in trade or other property of a kind which would properly be includible in inventory if on hand at the close of the taxable year, nor (ii) property held primarily for sale to customers in the ordinary course of the trade or business;
 
 &emsp;(4) The deduction for net operating losses provided in section 172 of the Internal Revenue Code of 1986 shall not be allowed;
 
@@ -48,9 +48,9 @@ The term “net earnings from self-employment” means the gross income, as comp
 
 &emsp;(15) The deduction under section 162(m) of the Internal Revenue Code of 1986 (relating to health insurance costs of self-employed individuals) shall not be allowed.
 
-> If the taxable year of a partner is different from that of the partnership, the distributive share which he is required to include in computing his net earnings from self-employment shall be based upon the ordinary net income or loss of the partnership for any taxable year of the partnership (even though beginning prior to 1951) ending within or with his taxable year. In the case of any trade or business which is carried on by an individual or by a partnership and in which, if such trade or business were carried on exclusively by employees, the major portion of the services would constitute agricultural labor as defined in section 410(f) of this title—
+> If the taxable year of a partner is different from that of the partnership, the distributive share which he is required to include in computing his net earnings from self-employment shall be based upon the ordinary net income or loss of the partnership for any taxable year of the partnership (even though beginning prior to 1951) ending within or with his taxable year. In the case of any trade or business which is carried on by an individual or by a partnership and in which, if such trade or business were carried on exclusively by employees, the major portion ofthe services would constitute agricultural labor as defined in section 410(f) of this title—
 
-&emsp;(i) in the case of an individual, if the gross income derived by him from such trade orbusiness is not more than $2,400, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be 662/3 percent of such gross income; or
+&emsp;(i) in the case of an individual, if the gross income derived by him from such trade or business is not more than $2,400, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be 662/3 percent of such gross income; or
 
 &emsp;(ii) in the case of an individual, if the gross income derived by him from such trade or business is more than $2,400 and the net earnings from self-employment derived by him from such trade or business (computed under this subsection without regard to this sentence) are less than $1,600, the net earnings from self-employment derived by him from such trade or business may, at his option, be deemed to be $1,600; and
 
@@ -86,9 +86,9 @@ The term “self-employment income” means the net earnings from self-employmen
 
 &emsp;&emsp;(F) For any taxable year beginning after 1971 and prior to 1973, (i) $9,000, minus (ii) the amount of the wages paid to such individual during the taxable year; and
 
-&emsp;&emsp;(G) For any taxable year beginning after 1972 and prior to 1974, (i) $10,800, minus (ii) the amount of the wages paid to such individual during the taxable year; and
+&emsp;&emsp;(G) For any taxable year beginning after 1972 and prior to 1974, (i) $10,800, minus (ii)the amount of the wages paid to such individual during the taxable year; and
 
-&emsp;&emsp;(H) For any taxable year beginning after 1973 and prior to 1975, (i) $13,200, minus (ii)the amount of the wages paid to such individual during the taxable year; and
+&emsp;&emsp;(H) For any taxable year beginning after 1973 and prior to 1975, (i) $13,200, minus (ii) the amount of the wages paid to such individual during the taxable year; and
 
 &emsp;&emsp;(I) For any taxable year beginning in any calendar year after 1974, (i) an amount equal to the contribution and benefit base (as determined under section 430 of this title) which is effective for such calendar year, minus (ii) the amount of the wages paid to such individual during such taxable year; or
 
@@ -146,7 +146,7 @@ In computing a partner's net earnings from self-employment for his taxable year 
 
 #### (g) Regular basis
 
-An individual shall be deemed to be self-employed on a regular basis in a taxable year, or to be a member of a partnership on a regular basis in such year, if he had net earnings from self-employment, as defined in the first sentence of subsection (a) of this section, of not less than$400 in at least two of the three consecutive taxable years immediately preceding such taxable year from trades or businesses carried on by such individual or such partnership.
+An individual shall be deemed to be self-employed on a regular basis in a taxable year, or tobe a member of a partnership on a regular basis in such year, if he had net earnings from self-employment, as defined in the first sentence of subsection (a) of this section, of not less than $400 in at least two of the three consecutive taxable years immediately preceding such taxable year from trades or businesses carried on by such individual or such partnership.
 
 #### (h) Option dealers and commodity dealers
 
@@ -290,7 +290,7 @@ Subsec. (a)(11), (12). Pub. L. 98–21, §124(c)(3), added par. (11) and redesig
 
 Subsec. (b). Pub. L. 98–21, §322(b)(1), as amended by Pub. L. 101–508, §5130(a)(2), inserted “, except as provided by an agreement under section 433 of this title” after “non-resident alien individual” in provisions preceding par. (1).
 
-1978—Subsec. (a)(2). Pub. L. 95–600, §703(j)(14)(D), which directed that “(other than interest described insection 35 of the Internal Revenue Code of 1954)” be struck out from subsec. (a)(2) of this section, was executed by striking out “(other than interest described in section 25(a) of the Internal Revenue Code of 1939)” as the probable intent of Congress.
+1978—Subsec. (a)(2). Pub. L. 95–600, §703(j)(14)(D), which directed that “(other than interest described in section 35 of the Internal Revenue Code of 1954)” be struck out from subsec. (a)(2) of this section, was executed by striking out “(other than interest described in section 25(a) of the Internal Revenue Code of 1939)” as the probable intent of Congress.
 
 Subsec. (c)(6). Pub. L. 95–600, §703(j)(14)(E), substituted “section 1402(g)” for “section 1402(h)”.
 
@@ -526,7 +526,7 @@ Section 106(b) of act Aug. 1, 1956, provided that: “The amendment made by subs
 
 #### Effective Date of 1954 Amendment
 
-Amendments by section 101(d), (g)(1), (2), (4) of act Sept. 1, 1954, applicable only with respect to taxable years ending after 1954, amendment by section 101(g)(3) of act Sept. 1, 1954, applicable only with respect to taxable years beginning after 1950, and, for purposes of section 403 of this title, the amendments made by paragraphs (1), (2), and (4) of subsection (g) and by subsection (d) \[of said section 101\] effective with respect to net earnings from self-employment derived after 1954, see section 101(n) of act Sept. 1, 1954, set out as a note under section 405 of this title.
+Amendments by section 101(d), (g)(1), (2), (4) of act Sept. 1, 1954, applicable only with respect to taxableyears ending after 1954, amendment by section 101(g)(3) of act Sept. 1, 1954, applicable only with respect to taxable years beginning after 1950, and, for purposes of section 403 of this title, the amendments made by paragraphs (1), (2), and (4) of subsection (g) and by subsection (d) \[of said section 101\] effective with respect to net earnings from self-employment derived after 1954, see section 101(n) of act Sept. 1, 1954, set out as a note under section 405 of this title.
 
 #### Effective Date of 1950 Amendment
 

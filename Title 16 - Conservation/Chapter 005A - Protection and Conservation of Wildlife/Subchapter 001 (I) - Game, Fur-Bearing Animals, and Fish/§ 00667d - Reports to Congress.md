@@ -10,7 +10,7 @@ A statement of the acreage and value of such property as may have been transferr
 
 #### Transfer of Functions
 
-Functions, records, property, etc., of War Assets Administration transferred to General Services Administration, functions of War Assets Administrator transferred to Administrator of General Services, and War Assets Administration and office of War Assets Administrator abolished by section 105 of act June 30, 1949. Transfer of functions effective July 1, 1949, see Effective Date note set out under section 471 of Title 40, Public Buildings, Property, and Works.
+Functions, records, property, etc., of War Assets Administration transferred to General Services Administration, functions of War Assets Administrator transferred to Administrator of General Services, and War Assets Administration and office of War Assets Administrator abolished by section 105 of act June 30, 1949. Transfer of functions effective July 1, 1949, see section 605, formerly §505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Section Referred to in Other Sections
 

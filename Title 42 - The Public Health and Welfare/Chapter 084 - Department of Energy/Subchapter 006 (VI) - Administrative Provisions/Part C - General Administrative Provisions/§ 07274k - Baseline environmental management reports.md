@@ -8,7 +8,7 @@
 
 &emsp;(A) The initial report shall be submitted not later than March 1, 1995.
 
-&emsp;(B) A report after the initial report shall be submitted in each year after 1995 during which the Secretary of Energy conducts, or plans to conduct, environmental restoration activities and projects, not later than 30 days after the date on which the President submits to theCongress the budget for the fiscal year beginning in that year.
+&emsp;(B) A report after the initial report shall be submitted in each year after 1995 during which the Secretary of Energy conducts, or plans to conduct, environmental restoration activities and projects, not later than 30 days after the date on which the President submits to the Congress the budget for the fiscal year beginning in that year.
 
 #### (b) Biennial waste management reports
 
@@ -46,7 +46,7 @@ A report required under subsection (a) or (b) of this section shall be based on 
 
 (1)(A) The Secretary of Energy shall (in the years and at the time specified in subparagraph (B)) submit to the Congress a status and variance report on environmental restoration and waste management activities and projects at Department of Energy defense nuclear facilities.
 
-(B) A report under subparagraph (A) shall be submitted in 1995 and in each odd-numbered year thereafter during which the Secretary of Energy conducts environmental restoration and waste management activities, not later than 30 days after the date on which the President submits to the Congress the budget for the fiscal year beginning in that year.
+(B) A report under subparagraph (A) shall be submitted in 1995 and in each odd-numbered year thereafter during which the Secretary ofEnergy conducts environmental restoration and waste management activities, not later than 30 days after the date on which the President submits to the Congress the budget for the fiscal year beginning in that year.
 
 (2) Each status and variance report under paragraph (1) shall contain the following:
 
@@ -74,7 +74,7 @@ In preparing a report under this section, the Secretary of Energy shall provide,
 
 (2) Consultation under paragraph (1) shall not interfere with the timely submission to Congress of the budget for a fiscal year.
 
-(3) The Secretary may award grants to, and enter into cooperative agreements with, affected States and affected Indian tribes to facilitatethe participation of such entities in the development of information under this subsection. The Secretary may also take appropriate action to facilitate the participation of interested members of the public in such development under this subsection.
+(3) The Secretary may award grants to, and enter into cooperative agreements with, affected States and affected Indian tribes to facilitate the participation of such entities in the development of information under this subsection. The Secretary may also take appropriate action to facilitate the participation of interested members of the public in such development under this subsection.
 
 (Pub. L. 103–160, div. C, title XXXI, §3153, Nov. 30, 1993, 107 Stat. 1950; Pub. L. 103–337, div. C, title XXXI, §3160(b)–(d), Oct. 5, 1994, 108 Stat. 3094; Pub. L. 104–201, div. C, title XXXI, §3152, Sept. 23, 1996, 110 Stat. 2839; Pub. L. 105–85, div. C, title XXXI, §3160, Nov. 18, 1997, 111 Stat. 2048.)
 
@@ -122,7 +122,7 @@ Requirement To Develop Future Use Plans.—The Secretary shall develop a future 
 
 Citizen Advisory Board.—(1) At each defense nuclear facility for which the Secretary of Energy intends or is required to develop a future use plan under this section and for which no citizen advisory board has been established, the Secretary shall establish a citizen advisory board.
 
-“(2) The Secretary may authorize the manager of a defense nuclear facility for which a future use plan is developed under this section (or, if there is no such manager, an appropriate official of the Department of Energy designated by the Secretary) to pay routine administrative expenses of a citizen advisory board established for that facility. Such payments shall be made from funds available to the Secretary for program direction in carrying out environmental restoration and waste management activities necessary for national security programs.
+“(2) The Secretary may authorize the manager of a defense nuclear facility for which a future use plan is developed under this section (or, if there is no suchmanager, an appropriate official of the Department of Energy designated by the Secretary) to pay routine administrative expenses of a citizen advisory board established for that facility. Such payments shall be made from funds available to the Secretary for program direction in carrying out environmental restoration and waste management activities necessary for national security programs.
 
 “(d)
 
@@ -214,7 +214,7 @@ Information to Secretary.—The Site Manager of a defense nuclear facility shall
 
 #### “SEC. 3174. DEPARTMENT OF ENERGY ORDERS.
 
-“An order imposed after the date of the enactment of this Act \[Sept. 23, 1996\] relating to the execution of environmental restoration, waste management, or technology development activities at a defense nuclear facility under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) may be imposed by the Secretary at the defense nuclear facility only if the Secretary finds that the order is necessary for the protection of human health and the environment or safety, the fulfillment of current legal requirements, or the conduct of critical administrative functions.
+“An order imposed after the date of the enactment of this Act \[Sept. 23, 1996\] relating to the execution of environmental restoration, waste management, or technology development activities at a defense nuclear facility under the Atomic Energy Act of 1954 (42 U.S.C. 2011 et seq.) may be imposed by the Secretary at the defense nuclear facility only if the Secretary finds that the order is necessary for the protection of human health and the environment or safety, the fulfillmentof current legal requirements, or the conduct of critical administrative functions.
 
 #### “SEC. 3175. DEPLOYMENT OF TECHNOLOGY FOR REMEDIATION OF DEFENSE NUCLEAR WASTE.
 

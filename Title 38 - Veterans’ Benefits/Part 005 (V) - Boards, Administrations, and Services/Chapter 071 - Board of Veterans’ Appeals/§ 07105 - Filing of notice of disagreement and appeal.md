@@ -8,7 +8,7 @@
 
 (c) If no notice of disagreement is filed in accordance with this chapter within the prescribed period, the action or determination shall become final and the claim will not thereafter be reopened or allowed, except as may otherwise be provided by regulations not inconsistent with this title.
 
-(d)(1) Where the claimant, or the claimant's representative, within the time specified in this chapter, files a notice of disagreement with the decision of the agency of original jurisdiction, such agency will take such development or review action as it deems proper under the provisions of regulations not inconsistent with this title. If such action does not resolve the disagreement either by granting the benefit sought or through withdrawal of the notice of disagreement, such agency shall prepare a statement of the case. A statement of the case shall include the following:
+(d)(1) Where the claimant, or the claimant's representative, within the time specified in thischapter, files a notice of disagreement with the decision of the agency of original jurisdiction, such agency will take such development or review action as it deems proper under the provisions of regulations not inconsistent with this title. If such action does not resolve the disagreement either by granting the benefit sought or through withdrawal of the notice of disagreement, such agency shall prepare a statement of the case. A statement of the case shall include the following:
 
 &emsp;(A) A summary of the evidence in the case pertinent to the issue or issues with which disagreement has been expressed.
 

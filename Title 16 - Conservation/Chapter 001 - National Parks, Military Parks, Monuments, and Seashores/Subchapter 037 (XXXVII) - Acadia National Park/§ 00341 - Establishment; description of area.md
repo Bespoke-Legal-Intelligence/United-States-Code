@@ -44,7 +44,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, provided that:
 
 “(c)(1) The owners of any private property within the Park may, on the date of its acquisition by the Secretary and as a condition of such acquisition, retain for himself and his successors or assigns a right to use and occupancy for a definite term of not more than 25 years, or ending at the death of the owner, or his spouse, whichever is later. The owners shall elect the term to be reserved. The Secretary shall pay to the owner the fair market value of the property on the date of such acquisition, less the fair market value, of the right retained by the owner.
 
-“(2) Any such right retained pursuant to this subsection shall be subject to such terms and conditions as the Secretary may prescribe and may be terminated by the Secretary upon his determination and after reasonable notice to the owner thereof that such property is being used for any purpose which is incompatible with the administration of the Park or with the preservation of the resources therein. Such right shall terminate by operation of law upon notification to the owner by the Secretary and tendering to the owner the amount equal to the fair market value of that portion which remains unexpired.
+“(2) Any such right retained pursuant to this subsection shall be subject to such terms and conditions as the Secretary may prescribe and may be terminated by the Secretary upon his determination and after reasonable notice to the owner thereof that such property is being used for any purpose which is incompatible with the administration of the Park or with the preservation of the resources therein. Such right shall terminate by operation of law upon notification to the ownerby the Secretary and tendering to the owner the amount equal to the fair market value of that portion which remains unexpired.
 
 “(d)(1) In exercising his authority to acquire lands by exchange pursuant to this title, the Secretary may accept title to non-Federal property located within the the boundary of the Park and may convey to the grantor of such property any federally owned property under the jurisdiction of the Secretary which lies outside said boundary and depicted on the map. Properties so exchanged shall be approximately equal in value, as determined by the Secretary, except that the Secretary may accept cash from or pay cash to the grantor in such an exchange in order to equalize the value of the properties exchanged.
 
@@ -102,7 +102,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, provided that:
 
 “(2) Upon receipt of the lands and easement described in paragraph (1), the Secretary shall transfer to the Jackson Laboratory the lands depicted on the map as 8 DBH and 9 DBH. Any disparity in the fair market value of the lands and easement referred to in paragraph (1) and the lands described in the preceding sentence shall be equalized as provided in section 102(d)(1).
 
-“(k) For purposes of subsection (a)(2), the construction of one single family residence on Burnt Porcupine Island by the owner of the Island shall not be treated as detrimental to the scenic, historic, cultural, or other values for which the park was established if, before such construction commences, the Secretary has reviewed and approved plans for the size, location and architectural design of the structure.
+“(k) For purposes of subsection (a)(2), the construction of one single family residence on Burnt Porcupine Island by the owner of the Island shall not be treated as detrimental to the scenic, historic, cultural, or other values for which the park was established if, beforesuch construction commences, the Secretary has reviewed and approved plans for the size, location and architectural design of the structure.
 
 #### “SEC. 103. ADVISORY COMMISSION.
 
@@ -146,7 +146,7 @@ Pub. L. 99–420, title I, Sept. 25, 1986, 100 Stat. 955, provided that:
 
 “(a) Effective October 1, 1986, there are authorized to be appropriated such sums as may be necessary to carry out the provisions of this title, but not to exceed $9,100,000 for acquisition of lands and interests therein.
 
-“(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended\(16 U.S.C. 460<i>l</i>–9), the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress \[Jan. 4, 1977\].
+“(b) For the purposes of paragraph 7(a)(3) of the Land and Water Conservation Fund Act of 1965, as amended (16 U.S.C. 460<i>l</i>–9), the statutory ceiling provided in subsection (a) shall be deemed to have been enacted prior to the convening of the Ninety-fifth Congress \[Jan. 4, 1977\].
 
 #### “SEC. 107. PAYMENTS TO LOCAL GOVERNMENTS.
 

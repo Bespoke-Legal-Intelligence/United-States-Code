@@ -30,13 +30,13 @@ Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–317 substituted “$150” for “$120”.
+1996—Subsec. (a). Pub. L. 104–317 substituted “$150” for “$120”.
 
-<b>1986</b>—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591 substituted “$120” for “$60”.
+1986—Subsec. (a). Pub. L. 99–500 and Pub. L. 99–591 substituted “$120” for “$60”.
 
 Subsec. (d). Pub. L. 99–336 struck out subsec. (d) which provided that section was not applicable to District of Columbia.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–598 substituted “$60” for “$15”.
+1978—Subsec. (a). Pub. L. 95–598 substituted “$60” for “$15”.
 
 #### Effective Date of 1996 Amendment
 

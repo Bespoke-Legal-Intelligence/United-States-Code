@@ -2,7 +2,7 @@
 
 #### (a) Grants authorized
 
-From amounts made available under section 6533 of this title for a fiscal year, the Secretary shall award grants to State educational agencies having applications approved under this section to enable the State educational agencies to reimburse low-income individuals to cover part or all of the costs of advanced placement test fees, if the low-income individuals—
+From amounts made available under section 6533 of this title for a fiscal year, the Secretary shall award grants to State educational agencies having applications approved under this sectionto enable the State educational agencies to reimburse low-income individuals to cover part or all of the costs of advanced placement test fees, if the low-income individuals—
 
 &emsp;(1) are enrolled in an advanced placement course; and
 
@@ -14,7 +14,7 @@ In determining the amount of the grant awarded to a State educational agency und
 
 #### (c) Information dissemination
 
-A State educational agency awarded a grant under this section shall disseminate informationregarding the availability of advanced placement test fee payments under this section to eligible individuals through secondary school teachers and guidance counselors.
+A State educational agency awarded a grant under this section shall disseminate information regarding the availability of advanced placement test fee payments under this section to eligible individuals through secondary school teachers and guidance counselors.
 
 #### (d) Applications
 

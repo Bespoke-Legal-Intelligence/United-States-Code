@@ -16,7 +16,7 @@ Any person (including, but not limited to, any governmental entity, public utili
 
 #### (c) Notice and opportunity for hearing; determination; review
 
-(1) If, after notice and an opportunity for a hearing, the appropriate county committee determines that any person knowingly failed tocomply with subsection (a) or (b) of this section, then the allotment or quota specified in such subsection shall be forfeited and shall be reallocated in the manner provided for in section 1314b(h)(3)(A) of this title.
+(1) If, after notice and an opportunity for a hearing, the appropriate county committee determines that any person knowingly failed to comply with subsection (a) or (b) of this section, then the allotment or quota specified in such subsection shall be forfeited and shall be reallocated in the manner provided for in section 1314b(h)(3)(A) of this title.
 
 (2) Notice of such determination shall be mailed, as soon as practicable, to such person. If such person is dissatisfied with such determination, then such person, within fifteen days after notice of such determination is so mailed, may request review of such determination under section 1363 of this title.
 

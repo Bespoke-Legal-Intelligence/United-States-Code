@@ -20,7 +20,7 @@
 
 > The payment of a rate of basic pay under this section shall not be subject to the pay limitation of section 5306(e) or 5373.
 
-(2) Subject to paragraph (1), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 in the rates of pay under the GeneralSchedule, each rate of pay established under this section for positions within an agency shall be adjusted by such amount as the head of such agency considers appropriate.
+(2) Subject to paragraph (1), effective at the beginning of the first applicable pay period commencing on or after the first day of the month in which an adjustment takes effect under section 5303 in the rates of pay under the General Schedule, each rate of pay established under this section for positions within an agency shall be adjusted by such amount as the head of such agency considers appropriate.
 
 (Added Pub. L. 101–509, title V, §529 \[title I, §102(a)(1)\], Nov. 5, 1990, 104 Stat. 1427, 1443.)
 
@@ -64,5 +64,5 @@ Regulations.—The Office of Personnel Management may prescribe regulations, con
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3405, 5304, 5331, 5382, 5595, 5948, 9509 of this title; title 7 section 7317; title 10 section 180; title 20 section 6011; title 33 sections 1123, 1128; title 36 sections 2302, 2303, 2307; title 42 sections 1863, 1864, 5612, 5651.
+This section is referred to in sections 3405, 4507a, 5304, 5307, 5331, 5382, 5595, 5948, 9509 of this title; title 7 section 7317; title 20 section 9578; title 33 sections 892c, 1123, 1128; title 42 sections 1863, 1864, 5612, 5651.
 

@@ -1,6 +1,6 @@
 ### §2151. Effect of international arrangements
 
-Any provision of this chapter or any action of the Commission to the extent and during the time that it conflicts with the provisions of any international arrangements made after August 30, 1954 shall be deemed to be of no force or effect.
+Any provision of this chapter or any action of the Commission to the extent and during thetime that it conflicts with the provisions of any international arrangements made after August 30, 1954 shall be deemed to be of no force or effect.
 
 (Aug. 1, 1946, ch. 724, title I, §121, as added Aug. 30, 1954, ch. 1073, §1, 68 Stat. 939; renumbered title I, Pub. L. 102–486, title IX, §902(a)(8), Oct. 24, 1992, 106 Stat. 2944.)
 

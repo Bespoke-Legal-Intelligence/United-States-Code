@@ -2,7 +2,7 @@
 
 The applicant shall furnish a drawing where necessary for the understanding of the subject matter sought to be patented. When the nature of such subject matter admits of illustration by a drawing and the applicant has not furnished such a drawing, the Director may require its submission within a time period of not less than two months from the sending of a notice thereof. Drawings submitted after the filing date of the application may not be used (i) to overcome any insufficiency of the specification due to lack of an enabling disclosure or otherwise inadequate disclosure therein, or (ii) to supplement the original disclosure thereof for the purpose of interpretation of the scope of any claim.
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 94–131, §8, Nov. 14, 1975, 89 Stat. 691; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 94–131, §8, Nov. 14, 1975, 89 Stat. 691; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,9 @@ The requirement for signature in the corresponding section of existing statute i
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Director” for “Commissioner”.
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+
+1999—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
 1975—Pub. L. 94–131 substituted provisions respecting drawings requiring necessary-for-understanding drawings and submission of drawings within prescribed time period and limiting use of drawings submitted after filing date of application for prior provision requiring the applicant to furnish a drawing when the nature of the case admitted it.
 

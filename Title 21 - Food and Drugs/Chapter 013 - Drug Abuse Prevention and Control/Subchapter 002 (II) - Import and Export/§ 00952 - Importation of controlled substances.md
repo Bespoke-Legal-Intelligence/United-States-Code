@@ -26,7 +26,7 @@ It shall be unlawful to import into the customs territory of the United States f
 
 #### (c) Coca leaves
 
-In addition to the amount of coca leaves authorized to be imported into the United States under subsection (a) of this section, the Attorney General may permit the importation of additional amounts of coca leaves. All cocaine and ecgonine (and all salts, derivatives, and preparations from which cocaine or ecgonine may besynthesized or made) contained in such additional amounts of coca leaves imported under this subsection shall be destroyed under the supervision of an authorized representative of the Attorney General.
+In addition to the amount of coca leaves authorized to be imported into the United States under subsection (a) of this section, the Attorney General may permit the importation of additional amounts of coca leaves. All cocaine and ecgonine (and all salts, derivatives, and preparations from which cocaine or ecgonine may be synthesized or made) contained in such additional amounts of coca leaves imported under this subsection shall be destroyed under the supervision of an authorized representative of the Attorney General.
 
 (Pub. L. 91–513, title III, §1002, Oct. 27, 1970, 84 Stat. 1285; Pub. L. 95–633, title I, §105, Nov. 10, 1978, 92 Stat. 3772; Pub. L. 98–473, title II, §§519–521, Oct. 12, 1984, 98 Stat. 2075.)
 

@@ -12,7 +12,7 @@ If a national marketing quota for wheat for one, two, or three marketing years i
 
 1985—Pub. L. 99–198, temporarily amended section generally. Prior to amendment, section read as follows: “If a national marketing quota for wheat for one, two, or three marketing years is proclaimed, the Secretary shall, not later than August 1 of the calendar year in which such national marketing quota is proclaimed, conduct a referendum, by secret ballot, of farmers to determine whether they favor or oppose marketing quotas for the marketing year or years for which proclaimed. Any producer who has a farm acreage allotment shall be eligible to vote in any referendum held pursuant to this section, except that a producer who has a farm acreage allotment of less than fifteen acres shall not be eligible to vote unless the farm operator elected pursuant to section 1335 of this title to be subject to the farm marketing quota. The Secretary shall proclaim the results of any referendum held hereunder within thirty days after the date of such referendum, and if the Secretary determines that more than one-third of the farmers voting in the referendum voted against marketing quotas, the Secretary shall proclaim that marketing quotas will not be in effect with respect to the crop of wheat produced for harvest in the calendar year following the calendar year in which the referendum is held. If the Secretary determines that two-thirds or more of the farmers voting in a referendum approve marketing quotas for a period of two or three marketing years, no referendum shall be held for the subsequent year or years of such period. Notwithstanding any other provision hereof, the referendum with respect to the national marketing quota for wheat for the marketing year beginning June 1, 1986, may be conducted not later than thirty-one days after adjournment sine die of the first session of the Ninety-ninth Congress.” See Effective and Termination Dates of 1985 Amendment note below.
 
-Pub. L. 99–63 substituted “year beginning June 1, 1986, may be conducted not later than thirty-one days after adjournment sine die of the first session of the Ninety-ninth Congress” for “year beginning June 1, 1982, may be conducted not later than the earlier of the following: (1) thirty days after adjournment sine die of the first session of the Ninety-seventh Congress, or (2) January 1, 1982”.
+Pub. L. 99–63 substituted “year beginning June 1, 1986, may be conducted not later than thirty-one daysafter adjournment sine die of the first session of the Ninety-ninth Congress” for “year beginning June 1, 1982, may be conducted not later than the earlier of the following: (1) thirty days after adjournment sine die of the first session of the Ninety-seventh Congress, or (2) January 1, 1982”.
 
 1981—Pub. L. 97–77 substituted “January 1, 1982” for “November 15, 1981” in sentence covering the date of the referendum for the national marketing quota for wheat for the marketing year beginning June 1, 1982.
 
@@ -56,7 +56,9 @@ Amendment by act July 3, 1948, effective Jan. 1, 1950, see section 303 of act Ju
 
 #### Inapplicability of Section
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
+
+Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
 Section inapplicable to 1991 through 1995 crops of wheat, see section 303 of Pub. L. 101–624, set out as a note under section 1331 of this title.
 

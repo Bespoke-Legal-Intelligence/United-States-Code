@@ -1,4 +1,4 @@
-### §6456. Accountability.
+### §6456. Accountability
 
 The State educational agency may—
 

@@ -416,7 +416,7 @@ For purposes of this section:
 
 #### (A) In general
 
-&emsp;&emsp;A critically undercapitalized insured depository institution shall not, beginning 60days after becoming critically undercapitalized, make any payment of principal or interest on the institution's subordinated debt.
+&emsp;&emsp;A critically undercapitalized insured depository institution shall not, beginning 60 days after becoming critically undercapitalized, make any payment of principal or interest on the institution's subordinated debt.
 
 #### (B) Exceptions
 
@@ -698,9 +698,9 @@ The Securities Exchange Act of 1934, referred to in subsec. (e)(2)(E)(ii)(III), 
 
 Subsec. (k)(1). Pub. L. 104–208, §2704(d)(14)(BB)(i), which directed substitution of “the Deposit Insurance Fund” for “a deposit insurance fund”, was not executed. See Effective Date of 1996 Amendment note below.
 
-Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of “The Deposit Insurance Fund” for “A deposit insurance fund” in introductoryprovisions and “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays” in cl. (ii), was not executed. See Effective Date of 1996 Amendment note below.
+Subsec. (k)(2)(A). Pub. L. 104–208, §2704(d)(14)(BB)(ii), which directed substitution of “The Deposit Insurance Fund” for “A deposit insurance fund” in introductory provisions and “the outlays of the Deposit Insurance Fund” for “the deposit insurance fund's outlays” in cl. (ii), was not executed. See Effective Date of 1996 Amendment note below.
 
-Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally. Prior to amendment, text read as follows: “The General Accounting Office shall annually—
+Subsec. (k)(5). Pub. L. 104–316 amended heading and text of par. (5) generally. Prior to amendment, textread as follows: “The General Accounting Office shall annually—
 
 &emsp;“(A) review reports made under paragraph (1) and recommend improvements in the supervision of insured depository institutions (including the implementation of this section); and
 

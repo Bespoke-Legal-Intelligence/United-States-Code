@@ -30,3 +30,7 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 
 Section 219(z)(3) of Pub. L. 103–416 provided that: “paragraph (1) of section 305(j) of such Act \[Pub. L. 102–232, amending section 407(d)(16)(C) of Pub. L. 101–649\] is repealed (and section 407(d)(16)(C) of the Immigration Act of 1990 \[Pub. L. 101–649, amending this section\] shall read as if such paragraph had not been enacted)”.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+

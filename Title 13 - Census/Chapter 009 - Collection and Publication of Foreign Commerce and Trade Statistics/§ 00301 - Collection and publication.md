@@ -46,7 +46,7 @@
 
 #### References in Text
 
-The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b), (e), and (f), is not set out in the Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
+The Harmonized Tariff Schedule of the United States, referred to in subsecs. (b), (e), and (f), is not set out inthe Code. See Publication of Harmonized Tariff Schedule note set out under section 1202 of Title 19, Customs Duties.
 
 The Agricultural Trade Development and Assistance Act of 1954, referred to in subsecs. (c)(1), (d)(1), is act July 10, 1954, ch. 649, 68 Stat. 454, as amended, which is classified generally to chapter 41 (§1691 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1691 of Title 7 and Tables.
 
@@ -117,6 +117,34 @@ Elements of the regulations.—The regulations referred to in paragraph (1) shal
 &emsp;“(B) provision by the Department of Commerce for ensuring that an individual who is required to use the Automated Export System is able to print out from the System a validated record of the individual's submission, including the date of the submission and a serial number or other unique identifier, where appropriate, for the export transaction; and
 
 &emsp;“(C) a requirement that the Department of Commerce print out and maintain on file a paper copy or other acceptable back-up record of the individual's submission at a location selected by the Secretary of Commerce.”
+
+#### Improvements to the Automated Export System
+
+Pub. L. 107–228, div. B, title XIV, §1404(a)–(c), Sept. 30, 2002, 116 Stat. 1454, provided that:
+
+“(a)
+
+Contribution to the Automated Export System.—Of the amount provided under section 1402 of this Act \[116 Stat. 1453\], $250,000 is authorized to be available for the purpose of—
+
+&emsp;“(1) providing the Department \[of State\] with full access to the Automated Export System;
+
+&emsp;“(2) ensuring that the system is modified to meet the needs of the Department \[of State\], if such modifications are consistent with the needs of other United States Government agencies; and
+
+&emsp;“(3) providing operational support.
+
+“(b)
+
+Mandatory Filing.—The Secretary of Commerce, with the concurrence of the Secretary of State and the Secretary of \[the\] Treasury, shall publish regulations in the Federal Register to require, upon the effective date of those regulations, that all persons who are required to file export information under chapter 9 of title 13, United States Code, file such information through the Automated Export System.
+
+“(c)
+
+Requirement for Information Sharing.—The Secretary \[of State\] shall conclude an information-sharing arrangement with the heads of the United States Customs Service and the Census Bureau—
+
+&emsp;“(1) to allow the Department \[of State\] to access information on controlled exports made through the United States Postal Service; and
+
+&emsp;“(2) to adjust the Automated Export System to parallel information currently collected by the Department.”
+
+\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Volumetric Index
 

@@ -104,7 +104,7 @@ Video equipment for detection of drunk drivers.—The State provides for a progr
 
 &emsp;&emsp;(B)
 
-Self-sustaining drunk driving prevention program.—The State provides for a self-sustaining drunk driving prevention program under which a significant portion of the fines or surcharges collected from individuals apprehended and fined for operating a motor vehicle while under the influence of alcohol are returned to those communities which have comprehensive programs for the prevention of such operations of motor vehicles.
+Self-sustaining drunk driving prevention program.—The State provides for a self-sustaining drunk driving preventionprogram under which a significant portion of the fines or surcharges collected from individuals apprehended and fined for operating a motor vehicle while under the influence of alcohol are returned to those communities which have comprehensive programs for the prevention of such operations of motor vehicles.
 
 &emsp;&emsp;(C)
 
@@ -192,7 +192,7 @@ Subsec. (d). Pub. L. 102–388, §§601(2), 602, redesignated subsec. (c) as (d)
 
 Subsec. (e). Pub. L. 102–388, §§601(2), 603, redesignated subsec. (d) as (e) and amended it generally. Prior to amendment, subsec. (e) read as follows: “
 
-Amount of Basic Grants.—The amount of a basic grant to be made in a fiscal year under this section to a State eligible to receive such grant shall be 65 percent of the amount of funds apportioned to such State in such fiscal year under this section.” Former subsec. (e) redesignated (f).
+Amount of Basic Grants.—The amount of a basic grant to be made in a fiscal year under this section to a State eligible to receive such grant shall be 65 percent of theamount of funds apportioned to such State in such fiscal year under this section.” Former subsec. (e) redesignated (f).
 
 Subsec. (f). Pub. L. 102–388, §§601(2), 604, redesignated subsec. (e) as (f) and substituted “Subject to subsection (c), a State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in fiscal year 1992 under section 402 of this title” for “A State shall be eligible to receive a supplemental grant in a fiscal year of 5 percent of the amount apportioned to the State in the fiscal year under this section” in pars. (1) to (7). Former subsec. (f) redesignated (g).
 

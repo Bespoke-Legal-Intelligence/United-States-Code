@@ -48,7 +48,7 @@
 
 &emsp;&emsp;(ii) Preparing the statements and reports to Congress required under section 2304 of this title.
 
-&emsp;&emsp;(iii) Making recommendations to the Secretary of State and the Administrator of theAgency for International Development regarding compliance with sections 2151n and 2304 of this title, and as part of the Assistant Secretary's overall policy responsibility for the creation of United States Government human rights policy, advising the Administrator of the Agency for International Development on the policy framework under which section 2151n(e) projects are developed and consulting with the Administrator on the selection and implementation of such projects.
+&emsp;&emsp;(iii) Making recommendations to the Secretary of State and the Administrator of the Agency for International Development regarding compliance with sections 2151n and 2304 of this title, and as part of the Assistant Secretary's overall policy responsibility for the creation of United States Government human rights policy, advising the Administrator of the Agency for International Development on the policy framework under which section 2151n(e) projects are developed and consulting with the Administrator on the selection and implementation of such projects.
 
 &emsp;&emsp;(iv) Performing other responsibilities which serve to promote increased observance of internationally recognized human rights by all countries.
 
@@ -80,15 +80,21 @@ In addition to officials of the Department of State who are otherwise authorized
 
 &emsp;The Coordinator shall have the rank and status of Ambassador at Large.
 
-#### (f) Qualifications of officer having primary responsibility for personnel management
+#### (f) Qualifications of certain officers of the Department of State
 
-The officer of the Department of State with primary responsibility for assisting the Secretary of State with respect to matters relating to personnel in the Department of State, or that officer's principal deputy, shall have substantial professional qualifications in the field of human resource policy and management.
+#### (1) Officer having primary responsibility for personnel management
 
-#### (g) Qualifications of officer having primary responsibility for diplomatic security
+&emsp;The officer of the Department of State with primary responsibility for assisting the Secretary with respect to matters relating to personnel in the Department of State, or that officer's principal deputy, shall have substantial professional qualifications in the field of human resource policy and management.
 
-The officer of the Department of State with primary responsibility for assisting the Secretary of State with respect to diplomatic security, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (1) management, and (2) Federal law enforcement, intelligence, or security.
+#### (2) Officer having primary responsibility for diplomatic security
 
-(Aug. 1, 1956, ch. 841, title I, §1 \[part\], 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96.)
+&emsp;The officer of the Department of State with primary responsibility for assisting the Secretary with respect to diplomatic security, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) Federal law enforcement, intelligence, or security.
+
+#### (3) Officer having primary responsibility for international narcotics and law enforcement
+
+&emsp;The officer of the Department of State with primary responsibility for assisting the Secretary with respect to international narcotics and law enforcement, or that officer's principal deputy, shall have substantial professional qualifications in the fields of (A) management, and (B) law enforcement or international narcotics policy.
+
+(Aug. 1, 1956, ch. 841, title I, §1, 70 Stat. 890; renumbered title I and amended Pub. L. 97–241, title II, §202(a), Aug. 24, 1982, 96 Stat. 282; Pub. L. 103–236, title I, §161(a), Apr. 30, 1994, 108 Stat. 402; Pub. L. 103–415, §1(f)(1), Oct. 25, 1994, 108 Stat. 4299; Pub. L. 105–277, div. G, subdiv. A, title XII, §1213, title XIII, §1313, subdiv. B, title XXIII, §§2301(a), 2303–2305(a)(1), (b)(1), (c), 2306, Oct. 21, 1998, 112 Stat. 2681–767, 2681–776, 2681–824, 2681–825, 2681–826; Pub. L. 106–553, §1(a)(2) \[title IV, §404(a)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 107–228, div. A, title III, §303, Sept. 30, 2002, 116 Stat. 1377.)
 
 #### References in Text
 
@@ -101,6 +107,8 @@ Section was formerly classified to section 2662 of this title.
 Section was also formerly classified to section 170f of Title 5 prior to the general revision and enactment of Title 5, Government Organization and Employees, by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+2002—Subsecs. (f), (g). Pub. L. 107–228 added subsec. (f) and struck out former subsecs. (f) and (g), which related to the qualifications of officers having primary responsibility for personnel management and for diplomatic security.
 
 2000—Subsec. (a)(2). Pub. L. 106–553 substituted “, the Deputy Secretary of State, and the Deputy Secretary of State for Management and Resources” for “and the Deputy Secretary of State”.
 
@@ -151,6 +159,126 @@ Section 161(b) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(f)(2),
 #### Effective Date of 1982 Amendment
 
 Amendment by Pub. L. 97–241, effective Oct. 1, 1982, see section 204 of Pub. L. 97–241, set out as an Effective Date note under section 4301 of this title.
+
+#### Comprehensive Workforce Plan
+
+Pub. L. 107–228, div. A, title III, §301, Sept. 30, 2002, 116 Stat. 1376, provided that:
+
+“(a)
+
+Workforce Plan.—Not later than 180 days after the date of the enactment of this Act \[Sept. 30, 2002\], the Secretary shall submit to the appropriate congressional committees a comprehensive workforce plan for the Department for the fiscal years 2003 through 2007. The plan shall consider personnel needs in both the Civil Service and the Foreign Service and expected domestic and overseas personnel allocations. The workforce plan should set forth—
+
+&emsp;“(1) the detailed mission of the Department;
+
+&emsp;“(2) the definition of work to be done;
+
+&emsp;“(3) a description of cyclical personnel needs based on expected retirements and attrition; and
+
+&emsp;“(4) a statement of the time required to hire, train, and deploy new personnel.
+
+“(b)
+
+Domestic Staffing Model.—Not later than one year after the date of the enactment of this Act \[Sept. 30, 2002\], the Secretary shall compile and submit to the appropriate congressional committees a domestic staffing model for the Department.”
+
+#### “Rightsizing” Overseas Posts
+
+Pub. L. 107–228, div. A, title III, §302, Sept. 30, 2002, 116 Stat. 1376, provided that:
+
+“(a)
+
+‘Rightsizing’ at the Department of State.—
+
+&emsp;“(1)
+
+In general.—The Secretary shall establish a task force within the Department on the issue of ‘rightsizing’ overseas posts.
+
+&emsp;“(2)
+
+Preliminary report.—Not later than 120 days after the date of the enactment of this Act \[Sept. 30, 2002\], the Secretary shall submit to the appropriate congressional committees a report that outlines the status, plans, and activities of the task force. In addition to such other information as the Secretary considers appropriate, the report shall include the following:
+
+&emsp;&emsp;“(A) The objectives of the task force.
+
+&emsp;&emsp;“(B) Measures for achieving the objectives under subparagraph (A).
+
+&emsp;&emsp;“(C) Identification of the official of the Department with primary responsibility for the issue of ‘rightsizing’.
+
+&emsp;&emsp;“(D) The plans of the Department for the reallocation of staff and resources based on changing needs at overseas posts and in the metropolitan Washington, D.C., area.
+
+&emsp;“(3)
+
+Report.—Not later than one year after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report reviewing the activities and progress of the task force established under paragraph (1).
+
+“(b)
+
+Interagency Working Group.—
+
+&emsp;“(1)
+
+Establishment.—The Secretary shall establish an interagency working group on the issue of ‘rightsizing’ the overseas presence of the United States Government.
+
+&emsp;“(2)
+
+Preliminary report.—Not later than 120 days after the date of the enactment of this Act \[Sept. 30, 2002\], the Secretary shall submit to the appropriate congressional committees a report which outlines the status, plans, and activities of the interagency working group. In addition to such other information as the Secretary considers appropriate, the report shall include the following:
+
+&emsp;&emsp;“(A) The objectives of the working group.
+
+&emsp;&emsp;“(B) Measures for achieving the objectives under subparagraph (A).
+
+&emsp;&emsp;“(C) Identification of the official of each agency with primary responsibility for the issue of ‘rightsizing’.
+
+&emsp;“(3)
+
+Report.—Not later than 180 days after the date of the enactment of this Act, the Secretary shall submit to the appropriate congressional committees a report reviewing the activities and progress of the working group established under paragraph (1).”
+
+#### Report Concerning Minority Employment
+
+Pub. L. 107–228, div. A, title III, §324, Sept. 30, 2002, 116 Stat. 1385, provided that: “On April 1, 2003, and April 1, 2004, the Secretary shall submit a comprehensive report to Congress, with respect to the preceding calendar year, concerning the employment of members of minority groups at the Department, including the Civil Service and the Foreign Service. The report shall include the following data (reported in terms of real numbers and percentages and not as ratios):
+
+&emsp;“(1) For the last preceding Foreign Service examination and promotion cycles for which such information is available—
+
+&emsp;&emsp;“(A) the numbers and percentages of members of all minority groups taking the written Foreign Service examination;
+
+&emsp;&emsp;“(B) the numbers and percentages of members of all minority groups successfully completing and passing the written Foreign Service examination;
+
+&emsp;&emsp;“(C) the numbers and percentages of members of all minority groups successfully completing and passing the oral Foreign Service examination;
+
+&emsp;&emsp;“(D) the numbers and percentages of members of all minority groups entering the junior officer class of the Foreign Service;
+
+&emsp;&emsp;“(E) the numbers and percentages of members of all minority groups who are Foreign Service officers at each grade; and
+
+&emsp;&emsp;“(F) the numbers and percentages of members of all minority groups promoted to each grade of the Foreign Service.
+
+&emsp;“(2) For the last preceding year for Civil Service employment at the Department for which such information is available—
+
+&emsp;&emsp;“(A) numbers and percentages of members of all minority groups entering the Civil Service;
+
+&emsp;&emsp;“(B) the number and percentages of members of all minority groups who are Civil Service employees at each grade of the Civil Service; and
+
+&emsp;&emsp;“(C) the number of and percentages of members of all minority groups promoted at each grade of the Civil Service.”
+
+#### Use of Funds Authorized for Minority Recruitment
+
+Pub. L. 107–228, div. A, title III, §325, Sept. 30, 2002, 116 Stat. 1386, provided that:
+
+“(a)
+
+Conduct of Recruitment Activities.—
+
+&emsp;“(1)
+
+In general.—Amounts authorized to be appropriated for minority recruitment under section 111(1)(D) \[probably means section 111(a)(1)(D) of Pub. L. 107–228, 116 Stat. 1356\] shall be used only for activities directly related to minority recruitment, such as recruitment materials designed to target members of minority groups and the travel expenses of recruitment trips to colleges, universities, and other institutions or locations.
+
+&emsp;“(2)
+
+Limitation.—Amounts authorized to be appropriated for minority recruitment under section 111(1)(D) may not be used to pay salaries of employees of the Department.
+
+“(b)
+
+Recruitment Activities at Academic Institutions.—The Secretary shall expand the recruitment efforts of the Department to include not less than 25 percent of the part B institutions (as defined under section 322 of the Higher Education Act of 1965 \[20 U.S.C. 1061\]) in the United States and not less than 25 percent of the Hispanic-serving institutions (as defined in section 502(a)(5) of such Act \[20 U.S.C. 1101a(a)(5)\]) in the United States.
+
+“(c)
+
+Evaluation of Recruitment Efforts.—The Secretary shall establish a database relating to efforts to recruit members of minority groups into the Foreign Service and the Civil Service and shall report to the appropriate congressional committees on the evaluation of efforts to recruit such individuals, including an analysis of the information collected in the database created under this subsection. Such report shall be included in each of the two reports required under section 324 \[set out as a note above\].”
 
 #### State Department Official for Northeastern Europe
 
@@ -203,6 +331,10 @@ You are authorized and directed to publish this memorandum in the Federal Regist
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[For abolition, transfer of functions, and treatment of references to United States Arms Control and Disarmament Agency, see section 6511 et seq. of this title.\]
+
+#### Definitions
+
+For definitions of “Secretary”, “Department”, and “appropriate congressional committees” as used in sections 301, 302, 324, and 325 of Pub. L. 107–228, set out as notes above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -16,41 +16,261 @@ Section 201 of title II of act Aug. 14, 1946, provided that: “This title \[ena
 
 Functions of all officers, agencies, and employees of Department of Agriculture transferred, with certain exceptions, to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, eff. June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
-#### Value-Added Agricultural Product Market Development Grants
+#### Agriculture Innovation Center Demonstration Program
 
-Pub. L. 106–224, title II, §231, June 20, 2000, 114 Stat. 409, provided that:
+Pub. L. 107–171, title VI, §6402, May 13, 2002, 116 Stat. 426, provided that:
 
 “(a)
+
+Purpose.—The purpose of this section is to direct the Secretary of Agriculture to establish a demonstration program under which agricultural producers are provided—
+
+&emsp;“(1) technical assistance, consisting of engineering services, applied research, scale production, and similar services, to enable the agricultural producers to establish businesses to produce value-added agricultural commodities or products;
+
+&emsp;“(2) assistance in marketing, market development, and business planning; and
+
+&emsp;“(3) organizational, outreach, and development assistance to increase the viability, growth, and sustainability of businesses that produce value-added agricultural commodities or products.
+
+“(b)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Program.—The term ‘Program’ means the Agriculture Innovation Center Demonstration Program established under subsection (c).
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Agriculture.
+
+“(c)
+
+Establishment of Program.—The Secretary shall establish a demonstration program, to be known as the ‘Agriculture Innovation Center Demonstration Program’ under which the Secretary shall—
+
+&emsp;“(1) make grants to assist eligible entities in establishing Agriculture Innovation Centers to enable agricultural producers to obtain the assistance described in subsection (a); and
+
+&emsp;“(2) provide assistance to eligible entities in establishing Agriculture Innovation Centers through the research and technical services of the Department of Agriculture.
+
+“(d)
+
+Eligibility Requirements.—
+
+&emsp;“(1)
+
+In general.—An entity shall be eligible for a grant and assistance described in subsection (c) to establish an Agriculture Innovation Center if—
+
+&emsp;&emsp;“(A) the entity—
+
+&emsp;&emsp;&emsp;“(i) has provided services similar to the services described in subsection (a); or
+
+&emsp;&emsp;&emsp;“(ii) demonstrates the capability of providing such services;
+
+&emsp;&emsp;“(B) the application of the entity for the grant and assistance includes a plan, in accordance with regulations promulgated by the Secretary, that outlines—
+
+&emsp;&emsp;&emsp;“(i) the support for the entity in the agricultural community;
+
+&emsp;&emsp;&emsp;“(ii) the technical and other expertise of the entity; and
+
+&emsp;&emsp;&emsp;“(iii) the goals of the entity for increasing and improving the ability of local agricultural producers to develop markets and processes for value-added agricultural commodities or products;
+
+&emsp;&emsp;“(C) the entity demonstrates that adequate resources (in cash or in kind) are available, or have been committed to be made available, to the entity, to increase and improve the ability of local agricultural producers to develop markets and processes for value-added agricultural commodities or products; and
+
+&emsp;&emsp;“(D) the Agriculture Innovation Center of the entity has a board of directors established in accordance with paragraph (2).
+
+&emsp;“(2)
+
+Board of directors.—Each Agriculture Innovation Center of an eligible entity shall have a board of directors composed of representatives of each of the following groups:
+
+&emsp;&emsp;“(A) The 2 general agricultural organizations with the greatest number of members in the State in which the eligible entity is located.
+
+&emsp;&emsp;“(B) The department of agriculture, or similar State department or agency, of the State in which the eligible entity is located.
+
+&emsp;&emsp;“(C) Entities representing the 4 highest grossing commodities produced in the State, determined on the basis of annual gross cash sales.
+
+“(e)
+
+Grants and Assistance.—
+
+&emsp;“(1)
+
+In general.—Subject to subsection (i), under the Program, the Secretary shall make, on a competitive basis, annual grants to eligible entities.
+
+&emsp;“(2)
+
+Maximum amount of grants.—A grant under paragraph (1) shall be in an amount that does not exceed the lesser of—
+
+&emsp;&emsp;“(A) $1,000,000; or
+
+&emsp;&emsp;“(B) twice the dollar amount of the resources (in cash or in kind) that the eligible entity demonstrates are available, or have been committed to be made available, to the eligible entity in accordance with subsection (d)(1)(C).
+
+&emsp;“(3)
+
+Maximum number of grants.—
+
+&emsp;&emsp;“(A)
+
+First fiscal year of program.—In the first fiscal year of the Program, the Secretary shall make grants to not more than 5 eligible entities.
+
+&emsp;&emsp;“(B)
+
+Second fiscal year of program.—In the second fiscal year of the Program, the Secretary may make grants to—
+
+&emsp;&emsp;&emsp;“(i) the eligible entities to which grants were made under subparagraph (A); and
+
+&emsp;&emsp;&emsp;“(ii) not more than 10 additional eligible entities.
+
+&emsp;“(4)
+
+State limitation.—
+
+&emsp;&emsp;“(A)
+
+In general.—Subject to subparagraph (B), in the first 3 fiscal years of the Program, the Secretary shall not make a grant under the Program to more than 1 entity in any 1 State.
+
+&emsp;&emsp;“(B)
+
+Collaboration.—Nothing in subparagraph (A) precludes a recipient of a grant under the Program from collaborating with any other institution with respect to activities conducted using the grant.
+
+“(f)
+
+Use of Funds.—An eligible entity to which a grant is made under the Program may use the grant only for the following purposes (but only to the extent that the use is not described in section 231(d) of the Agricultural Risk Protection Act of 2000 (7 U.S.C. 1621 note; Public Law 106–224)):
+
+&emsp;“(1) Applied research.
+
+&emsp;“(2) Consulting services.
+
+&emsp;“(3) Hiring of employees, at the discretion of the board of directors of the Agriculture Innovation Center of the eligible entity.
+
+&emsp;“(4) The making of matching grants, each of which shall be in an amount not to exceed $5,000, to agricultural producers, except that the aggregate amount of all such matching grants made by the eligible entity shall be not more than $50,000.
+
+&emsp;“(5) Legal services.
+
+&emsp;“(6) Any other related cost, as determined by the Secretary.
+
+“(g)
+
+Research on Effects on the Agricultural Sector.—
+
+&emsp;“(1)
+
+In general.—Of the amount made available under subsection (i) for each fiscal year, the Secretary shall use $300,000 to support research at a university concerning the effects of projects for value-added agricultural commodities or products on agricultural producers and the commodity markets.
+
+&emsp;“(2)
+
+Research elements.—Research under paragraph (1) shall systematically examine, using linked, long-term, global projections of the agricultural sector, the potential effects of projects described in subparagraph (A) on—
+
+&emsp;&emsp;“(A) demand for agricultural commodities;
+
+&emsp;&emsp;“(B) market prices;
+
+&emsp;&emsp;“(C) farm income; and
+
+&emsp;&emsp;“(D) Federal outlays on commodity programs.
+
+“(h)
+
+Report to Congress.—
+
+&emsp;“(1)
+
+In general.—Not later than 3 years after the date on which the last of the first 10 grants is made under the Program, the Secretary shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a report on—
+
+&emsp;&emsp;“(A) the effectiveness of the Program in improving and expanding the production of value-added agricultural commodities or products; and
+
+&emsp;&emsp;“(B) the effects of the Program on the economic viability of agricultural producers.
+
+&emsp;“(2)
+
+Required elements.—The report under paragraph (1) shall—
+
+&emsp;&emsp;“(A) include a description of the best practices and innovations found at each of the Agriculture Innovation Centers established under the Program; and
+
+&emsp;&emsp;“(B) specify the number and type of activities assisted, and the type of assistance provided, under the Program.
+
+“(i)
+
+Funding.—Of the amount made available under section 231(a)(1) of the Agricultural Risk Protection Act of 2000 (7 U.S.C. 1621 note; Public Law 106–224) for each fiscal year, the Secretary shall use to carry out this section—
+
+&emsp;“(1) not less than $3,000,000 for fiscal year 2002; and
+
+&emsp;“(2) not less than $6,000,000 for each of fiscal years 2003 and 2004.”
+
+#### Value-Added Agricultural Product Market Development Grants
+
+Pub. L. 106–224, title II, §231, June 20, 2000, 114 Stat. 409; as amended by Pub. L. 107–171, title VI, §6401(a), May 13, 2002, 116 Stat. 424, provided that:
+
+“(a)
+
+Definition of Value-Added Agricultural Product.—
+
+&emsp;“(1)
+
+In general.—The term ‘value-added agricultural product’ means any agricultural commodity or product that—
+
+&emsp;&emsp;“(A)(i) has undergone a change in physical state;
+
+&emsp;&emsp;“(ii) was produced in a manner that enhances the value of the agricultural commodity or product, as demonstrated through a business plan that shows the enhanced value, as determined by the Secretary; or
+
+&emsp;&emsp;“(iii) is physically segregated in a manner that results in the enhancement of the value of the agricultural commodity or product; and
+
+&emsp;&emsp;“(B) as a result of the change in physical state or the manner in which the agricultural commodity or product was produced or segregated—
+
+&emsp;&emsp;&emsp;“(i) the customer base for the agricultural commodity or product has been expanded; and
+
+&emsp;&emsp;&emsp;“(ii) a greater portion of the revenue derived from the marketing, processing, or physical segregation of the agricultural commodity or product is available to the producer of the commodity or product.
+
+&emsp;“(2)
+
+Inclusion.—The term ‘value-added agricultural product’ includes farm- or ranch-based renewable energy.
+
+“(b)
 
 Grant Program.—
 
 &emsp;“(1)
 
-Establishment and purposes.—Of the amount made available under section 261(a)(2) \[114 Stat. 427\], $15,000,000 shall be used by the Secretary to award competitive grants to eligible independent producers (as determined by the Secretary) of value-added agricultural commodities and products of agricultural commodities to assist an eligible producer—
+In general.—From amounts made available under paragraph (4), the Secretary shall award competitive grants—
 
-&emsp;&emsp;“(A) to develop a business plan for viable marketing opportunities for a value-added agricultural commodity or product of an agricultural commodity; or
+&emsp;&emsp;“(A) to an eligible independent producer (as determined by the Secretary) of a value-added agricultural product to assist the producer—
 
-&emsp;&emsp;“(B) to develop strategies for the ventures that are intended to create marketing opportunities for the producers.
+&emsp;&emsp;&emsp;“(i) in developing a business plan for viable marketing opportunities for the value-added agricultural product; or
+
+&emsp;&emsp;&emsp;“(ii) in developing strategies that are intended to create marketing opportunities for the producer; and
+
+&emsp;&emsp;“(B) to an eligible agricultural producer group, farmer or rancher cooperative, or majority-controlled producer-based business venture (as determined by the Secretary) to assist the entity—
+
+&emsp;&emsp;&emsp;“(i) in developing a business plan for viable marketing opportunities in emerging markets for a value-added agricultural product; or
+
+&emsp;&emsp;&emsp;“(ii) in developing strategies that are intended to create marketing opportunities in emerging markets for the value-added agricultural product.
 
 &emsp;“(2)
 
-Amount of grant.—The total amount provided under this subsection to a grant recipient may not exceed $500,000.
+Amount of grant.—
+
+&emsp;&emsp;“(A)
+
+In general.—The total amount provided under this subsection to a grant recipient shall not exceed $500,000.
+
+&emsp;&emsp;“(B) Majority-controlled producer-based business ventures.—The amount of grants provided to majority-controlled producer-based business ventures under paragraph (1)(B) for a fiscal year may not exceed 10 percent of the amount of funds that are usedto make grants for the fiscal year under this subsection.
 
 &emsp;“(3)
 
-Producer strategies.—A producer that receives a grant under paragraph (1) shall use the grant—
+Grantee strategies.—A grantee under paragraph (1) shall use the grant—
 
-&emsp;&emsp;“(A) to develop a business plan or perform a feasibility study to establish a viable marketing opportunity for a value-added agricultural commodity or product of an agricultural commodity; or
+&emsp;&emsp;“(A) to develop a business plan or perform a feasibility study to establish a viable marketing opportunity for a value-added agricultural product; or
 
-&emsp;&emsp;“(B) to provide capital to establish alliances or business ventures that allow the producer to better compete in domestic or international markets.
+&emsp;&emsp;“(B) to provide capital to establish alliances or business ventures that allow the producer of the value-added agricultural product to better compete in domestic or international markets.
 
-“(b)
+&emsp;“(4)
+
+Funding.—Not later than 30 days after the date of enactment of this paragraph \[May 13, 2002\], on October 1, 2002, and on each October 1 thereafter through October 1, 2006, of the funds of the Commodity Credit Corporation, the Secretary shall make available to carry out this subsection $40,000,000, to remain available until expended.
+
+“(c)
 
 Agricultural Marketing Resource Center Pilot Project.—
 
 &emsp;“(1)
 
-Establishment.—Notwithstanding the limitation on grants in subsection (a)(2), the Secretary shall not use more than $5,000,000 of the funds made available under subsection (a) to establish a pilot project (to be known as the ‘Agricultural Marketing Resource Center’) at an eligible institution described in paragraph (2) that will—
+Establishment.—Notwithstanding the limitation on grants in subsection (b)(2), the Secretary shall not use more than 5 percent of the funds made available under subsection (b) to establish a pilot project (to be known as the ‘Agricultural Marketing Resource Center’) at an eligible institution described in paragraph (2) that will—
 
 &emsp;&emsp;“(A) develop a resource center with electronic capabilities to coordinate and provide to independent producers and processors (as determined by the Secretary) of value-added agricultural commodities and products of agricultural commodities information regarding research, business, legal, financial, or logistical assistance; and
 
@@ -66,17 +286,29 @@ Eligible institution.—To be eligible to receive funding to establish the Agric
 
 &emsp;&emsp;“(C) the availability of resources (in cash or in kind) of definite value to sustain the Center following establishment.
 
-“(c)
+“(d)
 
 Matching Funds.—A recipient of funds under subsection (a) or (b) shall contribute an amount of non-Federal funds that is at least equal to the amount of Federal funds received.
 
-“(d)
+“(e)
 
 Limitation.—Funds provided under this section may not be used for—
 
 &emsp;“(1) planning, repair, rehabilitation, acquisition, or construction of a building or facility (including a processing facility); or
 
 &emsp;“(2) the purchase, rental, or installation of fixed equipment.”
+
+\[Pub. L. 107–171, title VI, §6401(b), May 13, 2002, 116 Stat. 426, provided that:
+
+\[“(1)
+
+In general.—Except as provided in paragraph (2), the amendments made by subsection (a) \[amending section 231 of Pub. L. 106–224, set out above\] apply beginning on October 1, 2002.
+
+\[“(2)
+
+Funding.—Funds made available under section 231(b)(4)(A)(i) of the Agricultural Risk Protection Act of 2000 \[Pub. L. 106–224\] (as amended by subsection (a)(2)) shall be made available not later than 30 days after the date of enactment of this Act \[May 13, 2002\].”\]
+
+\[Pub. L. 107–171, §6401(a)(4), which directed amendment of section 231(d) of Pub. L. 106–224, as redesignated, set out above, by substituting “subsections (b) and (c)” for “subsections (a) and (b)”, could not be executed because that phrase does not appear.\]
 
 #### National Commission on Food Marketing
 

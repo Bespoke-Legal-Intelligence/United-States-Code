@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(iii) at least one representative of the client assistance program established under section 732 of this title;
 
-&emsp;&emsp;&emsp;(iv) at least one qualified vocational rehabilitation counselor, with knowledge of and experience with vocational rehabilitation programs, who shall serve as an ex officio, nonvoting member of the Council if the counselor is an employee of the designated State agency;
+&emsp;&emsp;&emsp;(iv) at least one qualified vocational rehabilitation counselor, with knowledge of and experience with vocational rehabilitation programs, who shall serve as an exofficio, nonvoting member of the Council if the counselor is an employee of the designated State agency;
 
 &emsp;&emsp;&emsp;(v) at least one representative of community rehabilitation program service providers;
 
@@ -38,7 +38,7 @@
 
 &emsp;&emsp;&emsp;(viii) current or former applicants for, or recipients of, vocational rehabilitation services;
 
-&emsp;&emsp;&emsp;(ix) in a State in which one or more projects are carried out under section 741of this title, at least one representative of the directors of the projects;
+&emsp;&emsp;&emsp;(ix) in a State in which one or more projects are carried out under section 741 of this title, at least one representative of the directors of the projects;
 
 &emsp;&emsp;&emsp;(x) at least one representative of the State educational agency responsible for the public education of students with disabilities who are eligible to receive services under this subchapter and part B of the Individuals with Disabilities Education Act \[20 U.S.C. 1411 et seq.\]; and
 
@@ -136,7 +136,7 @@
 
 #### (B) Number of terms
 
-&emsp;&emsp;No member of the Council, other than a representative described in clause (iii) or (ix)of paragraph (1)(A), or clause (iii) or (x) of paragraph (1)(B), may serve more than two consecutive full terms.
+&emsp;&emsp;No member of the Council, other than a representative described in clause (iii) or (ix) of paragraph (1)(A), or clause (iii) or (x) of paragraph (1)(B), may serve more than two consecutive full terms.
 
 #### (7) Vacancies
 
@@ -192,7 +192,7 @@ The Council shall, after consulting with the State workforce investment board—
 
 #### (2) Resolution of disagreements
 
-&emsp;To the extent that there is a disagreement between the Council and the designated State unit in regard to the resources necessary to carry out the functions of the Council as set forth in this section, the disagreement shall be resolved by the Governor consistent with paragraph (1).
+&emsp;To the extent that there is a disagreement between the Council and the designated Stateunit in regard to the resources necessary to carry out the functions of the Council as set forth in this section, the disagreement shall be resolved by the Governor consistent with paragraph (1).
 
 #### (3) Supervision and evaluation
 
@@ -204,7 +204,7 @@ The Council shall, after consulting with the State workforce investment board—
 
 #### (e) Conflict of interest
 
-No member of the Council shall cast a vote on any matter that would provide direct financialbenefit to the member or otherwise give the appearance of a conflict of interest under State law.
+No member of the Council shall cast a vote on any matter that would provide direct financial benefit to the member or otherwise give the appearance of a conflict of interest under State law.
 
 #### (f) Meetings
 

@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(B) the Executive Director;
 
-&emsp;&emsp;(C) any person who has or exercises discretionary authority or discretionary control over the management or disposition of the assets of the Thrift Savings Fund; and
+&emsp;&emsp;(C) any person who has or exercises discretionary authority or discretionary controlover the management or disposition of the assets of the Thrift Savings Fund; and
 
 &emsp;&emsp;(D) any person who, with respect to the Thrift Savings Fund, is described in section 3(21)(A) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1002(21)(A)); and
 
@@ -114,7 +114,7 @@
 
 &emsp;(3) serving as a fiduciary in addition to being an officer, employee, agent, or other representative of a party in interest.
 
-(e)(1)(A) Any fiduciary that breaches the responsibilities, duties, and obligations set out in subsection (b) or violates subsection (c) shall be personally liable to the Thrift Savings Fund forany losses to such Fund resulting from each such breach or violation and to restore to such Fund any profits made by the fiduciary through use of assets of such Fund by the fiduciary, and shall be subject to such other equitable or remedial relief as a court considers appropriate, except as provided in paragraphs (3) and (4) of this subsection. A fiduciary may be removed for a breach referred to in the preceding sentence.
+(e)(1)(A) Any fiduciary that breaches the responsibilities, duties, and obligations set out in subsection (b) or violates subsection (c) shall be personally liable to the Thrift Savings Fund for any losses to such Fund resulting from each such breach or violation and to restore to such Fund any profits made by the fiduciary through use of assets of such Fund by the fiduciary, and shall be subject to such other equitable or remedial relief as a court considers appropriate, except as provided in paragraphs (3) and (4) of this subsection. A fiduciary may be removed for a breach referred to in the preceding sentence.
 
 (B) The Secretary of Labor may assess a civil penalty against a party in interest with respect to each transaction which is engaged in by the party in interest and is prohibited by subsection (c). The amount of such penalty shall be equal to 5 percent of the amount involved in each such transaction (as defined in section 4975(f)(4) of the Internal Revenue Code of 1986) for each year or part thereof during which the prohibited transaction continues, except that, if the transaction is not corrected (in such manner as the Secretary of Labor shall prescribe by regulation consistent with section 4975(f)(5) of such Code) within 90 days after the date the Secretary of Labor transmits notice to the party in interest (or such longer period as the Secretary of Labor may permit), such penalty may be in an amount not more than 100 percent of the amount involved.
 
@@ -160,13 +160,13 @@
 
 &emsp;(C) by any participant or beneficiary—
 
-&emsp;&emsp;(i) to recover benefits of such participant or beneficiary under the provisions of subchapter III of this chapter, to enforce any right of such participant or beneficiary under such provisions, or to clarify any such right to future benefits under such provisions; or
+&emsp;&emsp;(i) to recover benefits of such participant or beneficiary under the provisions of subchapter III of this chapter, to enforce anyright of such participant or beneficiary under such provisions, or to clarify any such right to future benefits under such provisions; or
 
 &emsp;&emsp;(ii) to enforce any claim otherwise cognizable under sections 1346(b) and 2671 through 2680 of title 28, provided that the remedy against the United States provided by sections 1346(b) and 2672 of title 28 for damages for injury or loss of property caused by the negligent or wrongful act or omission of any fiduciary while acting within the scope of his duties or employment shall be exclusive of any other civil action or proceeding by the participant or beneficiary for recovery of money by reason of the same subject matter against the fiduciary (or the estate of such fiduciary) whose act or omission gave rise to such action or proceeding, whether or not such action or proceeding is based on an alleged violation of subsection (b) or (c).
 
 (4)(A) In all civil actions under paragraph (3)(A), attorneys appointed by the Secretary may represent the Secretary (except as provided in section 518(a) of title 28), however all such litigation shall be subject to the direction and control of the Attorney General.
 
-(B) The Attorney General shall defend any civil action or proceeding brought in any court against any fiduciary referred to in paragraph (3)(C)(ii) (or the estate of such fiduciary) for any such injury. Any fiduciary against whom such a civil action or proceeding is brought shall deliver, within such time after date of service orknowledge of service as determined by the Attorney General, all process served upon such fiduciary (or an attested copy thereof) to the Executive Director of the Board, who shall promptly furnish copies of the pleading and process to the Attorney General and the United States Attorney for the district wherein the action or proceeding is brought.
+(B) The Attorney General shall defend any civil action or proceeding brought in any court against any fiduciary referred to in paragraph (3)(C)(ii) (or the estate of such fiduciary) for any such injury. Any fiduciary against whom such a civil action or proceeding is brought shall deliver, within such time after date of service or knowledge of service as determined by the Attorney General, all process served upon such fiduciary (or an attested copy thereof) to the Executive Director of the Board, who shall promptly furnish copies of the pleading and process to the Attorney General and the United States Attorney for the district wherein the action or proceeding is brought.
 
 (C) Upon certification by the Attorney General that a fiduciary described in paragraph (3)(C)(ii) was acting in the scope of such fiduciary's duties or employment as a fiduciary at the time of the occurrence or omission out of which the action arose, any such civil action or proceeding commenced in a State court shall be—
 
@@ -202,7 +202,7 @@
 
 (g)(1) The Secretary of Labor shall establish a program to carry out audits to determine the level of compliance with the requirements of this section relating to fiduciary responsibilities and prohibited activities of fiduciaries.
 
-(2) An audit under this subsection may be conducted by the Secretary of Labor, by contract with a qualified non-governmental organization, or in cooperation with the Comptroller General of the United States, as the Secretary considers appropriate.
+(2) An audit under this subsection may be conducted by the Secretary of Labor, by contractwith a qualified non-governmental organization, or in cooperation with the Comptroller General of the United States, as the Secretary considers appropriate.
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 582; amended Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–556, title I, §§112, 114(b), Oct. 27, 1986, 100 Stat. 3133; Pub. L. 100–238, title I, §133(a), (c), Jan. 8, 1988, 101 Stat. 1760, 1762; Pub. L. 100–366, §3(a), July 13, 1988, 102 Stat. 826; Pub. L. 101–335, §8, July 17, 1990, 104 Stat. 325.)
 

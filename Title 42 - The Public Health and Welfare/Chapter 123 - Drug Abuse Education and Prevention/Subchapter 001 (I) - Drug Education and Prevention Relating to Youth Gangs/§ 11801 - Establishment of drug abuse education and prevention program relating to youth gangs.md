@@ -22,7 +22,7 @@ The Secretary of Health and Human Services, through the Administration on Childr
 
 > &emsp;for the purpose of preventing or reducing the participation of youth in activities of gangs that commit drug-related crimes, and
 
-&emsp;(8) to provide technical assistance to eligible organizations in planning and implementing drug abuse education, prevention, rehabilitation, and referral programs for youth who are members of gangs that commit drug-related crimes.
+&emsp;(8) to provide technical assistance to eligible organizations in planning and implementing drug abuse education, prevention, rehabilitation, and referral programs for youth who aremembers of gangs that commit drug-related crimes.
 
 (Pub. L. 100–690, title III, §3501, Nov. 18, 1988, 102 Stat. 4254; Pub. L. 102–132, §1(a), Oct. 18, 1991, 105 Stat. 630.)
 

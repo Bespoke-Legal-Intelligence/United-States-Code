@@ -48,7 +48,7 @@ Not later than December 31 of each year, the Committee shall prepare and submit,
 
 In this section, the terms “assistive technology”, “targeted individuals”, and “universal design” have the meanings given the terms in section 3002 of this title.
 
-(Pub. L. 93–112, title II, §203, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1173; amended Pub. L. 105–277, div. A, §101(f) \[titleVIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–394, title II, §201, Nov. 13, 1998, 112 Stat. 3651.)
+(Pub. L. 93–112, title II, §203, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1173; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–394, title II, §201, Nov. 13, 1998, 112 Stat. 3651.)
 
 #### Prior Provisions
 

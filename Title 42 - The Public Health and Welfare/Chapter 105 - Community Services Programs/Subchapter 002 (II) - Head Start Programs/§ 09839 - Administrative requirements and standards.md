@@ -10,11 +10,11 @@ Except as provided in subsection (f) of this section, no financial assistance sh
 
 #### (c) Rules and regulations; special or simplified requirements for small agencies; common or joint use of facilities
 
-The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f) of this section, which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smaller agencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter and other programs shall be fairly allocated among the various programs which utilize such facilities and services.
+The Secretary shall prescribe rules or regulations to supplement subsections (a) and (f) of this section, which shall be binding on all agencies carrying on Head Start program activities with financial assistance under this subchapter. The Secretary may, where appropriate, establish special or simplified requirements for smaller agencies or agencies operating in rural areas. Policies and procedures shall be established to ensure that indirect costs attributable to the common or joint use of facilities and services by programs assisted under this subchapter andother programs shall be fairly allocated among the various programs which utilize such facilities and services.
 
 #### (d) Publication and notification of proposed rules, etc.
 
-At least 30 days prior to their effective date, all rules, regulations, and application forms shall be published in the Federal Register andshall be sent to each grantee with the notification that each such grantee has the right to submit comments pertaining thereto to the Secretary prior to the final adoption thereof.
+At least 30 days prior to their effective date, all rules, regulations, and application forms shall be published in the Federal Register and shall be sent to each grantee with the notification that each such grantee has the right to submit comments pertaining thereto to the Secretary prior to the final adoption thereof.
 
 #### (e) Neutrality concerning union organizing
 
@@ -54,7 +54,7 @@ Funds appropriated to carry out this subchapter shall not be used to assist, pro
 
 &emsp;(C) purchase of vehicles used for programs conducted at the Head Start facilities.
 
-(3) All laborers and mechanics employed by contractors or subcontractors in the construction or renovation of facilities to be used to carry out Head Start programs shall be paid wages at not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with the Act of March 3, 1931, as amended (40 U.S.C. 276a et seq., commonly known as the “Davis-Bacon Act”).
+(3) All laborers and mechanics employed by contractors or subcontractors in the construction or renovation of facilities to be used to carry out Head Start programs shall be paid wages at not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40.
 
 #### (h) Personnel preferences to Indian tribe members
 
@@ -62,9 +62,9 @@ In all personnel actions of the American Indian Programs Branch of the Head Star
 
 (Pub. L. 97–35, title VI, §644, Aug. 13, 1981, 95 Stat. 502; Pub. L. 101–501, title I, §§111, 112, Nov. 3, 1990, 104 Stat. 1231; Pub. L. 102–401, §2(j), Oct. 7, 1992, 106 Stat. 1958; Pub. L. 103–218, title IV, §403, Mar. 9, 1994, 108 Stat. 96; Pub. L. 103–252, title I, §110, May 18, 1994, 108 Stat. 636; Pub. L. 105–285, title I, §106(e), Oct. 27, 1998, 112 Stat. 2712.)
 
-#### References in Text
+#### Codification
 
-The Davis-Bacon Act, referred to in subsec. (g)(3), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+In subsec. (g)(3), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931, asamended (40 U.S.C. 276a et seq., commonly known as the ‘Davis-Bacon Act’)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

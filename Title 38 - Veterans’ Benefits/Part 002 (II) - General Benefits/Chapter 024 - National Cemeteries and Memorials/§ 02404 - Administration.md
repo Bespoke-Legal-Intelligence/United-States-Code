@@ -26,7 +26,7 @@
 
 (g) Notwithstanding any other provision of law, the Secretary may at such time as the Secretary deems desirable, relinquish to the State in which any cemetery, monument, or memorial under the Secretary's jurisdiction is located, such portion of legislative jurisdiction over the lands involved as is necessary to establish concurrent jurisdiction between the Federal Government and the State concerned. Such partial relinquishment of jurisdiction under the authority of this subsection may be made by filing with the Governor of the State involved a notice of such relinquishment and shall take effect upon acceptance thereof by the State in such manner as its laws may prescribe.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 76, §1004; amended Pub. L. 99–576, title IV, §411,title VII, §701(55), Oct. 28, 1986, 100 Stat. 3283, 3295; Pub. L. 100–322, title III, §§341(a), 342, May 20, 1988, 102 Stat. 539, 540; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §14(b)(21), June 13, 1991, 105 Stat. 284; renumbered §2404 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(7), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 76, §1004; amended Pub. L. 99–576, title IV, §411, title VII, §701(55), Oct. 28, 1986, 100 Stat. 3283, 3295; Pub. L. 100–322, title III, §§341(a), 342, May 20, 1988, 102 Stat. 539, 540; Pub. L. 101–237, title III, §313(b)(1), Dec. 18, 1989, 103 Stat. 2077; Pub. L. 102–54, §14(b)(21), June 13, 1991, 105 Stat. 284; renumbered §2404 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(7), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 
 #### Amendments
 

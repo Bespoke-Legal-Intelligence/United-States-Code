@@ -6,7 +6,7 @@ In the processing of applications for assistance, priority and immediate conside
 
 &emsp;(1) The United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\] for the provision of low-income housing.
 
-&emsp;(2) Section 462 of title 40 for assistance in public works planning.
+&emsp;(2) Sections 3502 to 3505 of title 40 for assistance in public works planning.
 
 &emsp;(3) The Community Development Block Grant Program under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\].
 
@@ -14,7 +14,7 @@ In the processing of applications for assistance, priority and immediate conside
 
 &emsp;(5) The Public Works and Economic Development Act of 1965 \[42 U.S.C. 3121 et seq.\].
 
-&emsp;(6) The Appalachian Regional Development Act of 1965.
+&emsp;(6) Subtitle IV of title 40.
 
 &emsp;(7) The Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\].
 
@@ -32,9 +32,11 @@ The Housing and Community Development Act of 1974, referred to in subsec. (a)(3)
 
 The Public Works and Economic Development Act of 1965, as amended, referred to in subsec. (a)(5), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified principally to chapter 38 (§3121 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of this title and Tables.
 
-The Appalachian Regional Development Act of 1965, referred to in subsec. (a)(6), is Pub. L. 89–4, Mar. 9, 1965, 79 Stat. 5, as amended, which is set out in the Appendix to Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Tables.
-
 The Federal Water Pollution Control Act, referred to in subsec. (a)(7), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+
+#### Codification
+
+“Sections 3502 to 3505 of title 40” substituted for “Section 702 of the Housing Act of 1954” in subsec. (a)(2) and “Subtitle IV of title 40” substituted for “The Appalachian Regional Development Act of 1965” in subsec. (a)(6) on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 

@@ -120,5 +120,7 @@ Section applicable with respect to health insurance coverage offered, sold, issu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 300gg–41 of this title.
+This section is referred to in sections 300gg–41, 300gg–45 of this title; title 26 section 35; title 29 section 2918.
+
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

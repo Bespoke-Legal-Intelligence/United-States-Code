@@ -12,7 +12,7 @@ The Secretary of State must have the capacity to provide the essential scientifi
 
 &emsp;(4) The dissemination and coordination of public information concerning arms control, nonproliferation, and disarmament.
 
-(Pub. L. 87–297, title I, §102, formerly §2, Sept. 26, 1961, 75 Stat. 631; Pub. L. 94–141, title I, §144,Nov. 29, 1975, 89 Stat. 758; Pub. L. 103–236, title VII, §§703, 719(a), Apr. 30, 1994, 108 Stat. 491, 501; renumbered §102 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(1), (21), Oct. 21, 1998, 112 Stat. 2681–768, 2681–772.)
+(Pub. L. 87–297, title I, §102, formerly §2, Sept. 26, 1961, 75 Stat. 631; Pub. L. 94–141, title I, §144, Nov. 29, 1975, 89 Stat. 758; Pub. L. 103–236, title VII, §§703, 719(a), Apr. 30, 1994, 108 Stat. 491, 501; renumbered §102 and amended Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(1), (21), Oct. 21, 1998, 112 Stat. 2681–768, 2681–772.)
 
 #### Amendments
 
@@ -46,7 +46,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1101\], Nov. 29, 1
 
 #### Short Title of 1994 Amendment
 
-Section 701(a) of Pub. L. 103–236 provided that: “This part \[part A (§§701–719) of title VII of Pub. L. 103–236, enacting sections 2578 and 2593a to 2593d of this title, amending this section, sections 2562, 2565 to 2568, 2571, 2573 to 2577, 2579, 2581, 2585, 2591, 2593, 2791, 2797, and 2797b of this title, section 5315 of Title 5, Government Organization and Employees, and section 2139a of Title 42, The Public Health and Welfare, repealing sections 2578, 2589, 2590, and 2592 of this title, enacting provisions set out as notes under this section, and repealing provisions set out as notes under this section\] may be cited as the ‘Arms Control and Nonproliferation Act of 1994’.”
+Section 701(a) of Pub. L. 103–236 provided that: “This part \[part A (§§701–719) of title VII of Pub. L. 103–236, enacting sections 2578 and 2593a to 2593d of this title, amending this section, sections 2562, 2565 to 2568, 2571, 2573 to 2577, 2579, 2581, 2585, 2591, 2593, 2791, 2797, and 2797b of this title, section 5315 of Title 5, Government Organization and Employees, and section 2139a of Title 42, The Public Health and Welfare, repealing sections 2578, 2589, 2590, and 2592 of this title, enacting provisions set out as notes under this section, and repealingprovisions set out as notes under this section\] may be cited as the ‘Arms Control and Nonproliferation Act of 1994’.”
 
 #### Short Title of 1989 Amendment
 
@@ -156,7 +156,7 @@ Human rights reports.—In the report required in sections 116(d) and 502B(b) of
 
 #### Congressional Declarations; Purposes of 1994 Amendment
 
-Section 702 of Pub. L. 103–236 stated congressional declarations and purposes of amendments by part A of title VII of Pub. L. 103–236 (see Short Title of 1994 Amendment note above) to strengthen United States Arms Control and Disarmament Agency, and to improve congressional oversight of arms control, nonproliferation, and disarmament activities of United States Arms Control and Disarmament Agency, and of Agency's operating budget.
+Section 702 of Pub. L. 103–236 stated congressional declarations and purposes of amendments by part A of title VII of Pub. L. 103–236 (see Short Title of 1994 Amendment note above) to strengthen United States Arms Control and Disarmament Agency, and to improve congressional oversight of arms control, nonproliferation, and disarmament activities of UnitedStates Arms Control and Disarmament Agency, and of Agency's operating budget.
 
 #### Report on Revitalization of ACDA
 
@@ -254,7 +254,7 @@ Determination by Director of OMB.—No amount may be obligated for the program u
 
 “(a)
 
-Reimbursement Arrangements.—Assistance provided under part B to the Soviet Union, any of its republics, or any successor entity shall be conditioned, to the extent that the President determines to be appropriate after consultation with the recipient government, upon the agreement of the recipient government to reimburse the United States Government for the cost of such assistance from natural resources or other materials available to the recipient government.
+Reimbursement Arrangements.—Assistance provided under part B to the Soviet Union, any of itsrepublics, or any successor entity shall be conditioned, to the extent that the President determines to be appropriate after consultation with the recipient government, upon the agreement of the recipient government to reimburse the United States Government for the cost of such assistance from natural resources or other materials available to the recipient government.
 
 “(b)
 

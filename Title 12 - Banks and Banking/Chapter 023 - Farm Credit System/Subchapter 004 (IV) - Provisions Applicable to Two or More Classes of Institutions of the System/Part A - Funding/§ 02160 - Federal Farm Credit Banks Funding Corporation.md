@@ -78,7 +78,7 @@ Until a majority of the voting members of the board of directors of the Corporat
 
 #### (3) Stock
 
-&emsp;The stock of the predecessor corporation issued before January 6, 1988, shall, by operation of law and without any further action by the Farm Credit Administration, the predecessor corporation, or any court, become and be converted into stock of the Corporation established by this section.
+&emsp;The stock of the predecessor corporation issued before January 6, 1988, shall, by operation of law and without any further action by the Farm Credit Administration, the predecessorcorporation, or any court, become and be converted into stock of the Corporation established by this section.
 
 #### (4) Taxation
 

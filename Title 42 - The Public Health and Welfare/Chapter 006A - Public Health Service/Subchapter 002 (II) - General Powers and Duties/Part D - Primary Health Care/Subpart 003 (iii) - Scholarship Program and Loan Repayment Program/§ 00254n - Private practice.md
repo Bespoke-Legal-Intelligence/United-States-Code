@@ -8,19 +8,15 @@ The Secretary shall, to the extent permitted by, and consistent with, the requir
 
 &emsp;(2) in the case of any other individual, in a health professional shortage area (designated under section 254e of this title) selected by the Secretary.
 
-#### (b) Written agreement; fee rates; ability to pay; health insurance; regulations; actions to ensure compliance
+#### (b) Written agreement; actions to ensure compliance
 
-The written agreement described in subsection (a) of this section shall—
+(1) The written agreement described in subsection (a) of this section shall—
 
-&emsp;(1) provide that during the period of private practice by an individual pursuant to the agreement—
+&emsp;(A) provide that, during the period of private practice by an individual pursuant to the agreement, the individual shall comply with the requirements of section 254g of this title that apply to entities; and
 
-&emsp;&emsp;(A) any person who receives health services provided by the individual in connection with such practice will be charged for such services at the usual and customary rate prevailing in the area in which such services are provided, except that if such person is unable to pay such charge, such person shall be charged at a reduced rate or not charged any fee; and
+&emsp;(B) contain such additional provisions as the Secretary may require to carry out the objectives of this section.
 
-&emsp;&emsp;(B) the individual in providing health services in connection with such practice (i) shall not discriminate against any person on the basis of such person's ability to pay for such services or because payment for the health services provided to such person will be made under the insurance program established under part A or B of title XVIII of the Social Security Act \[42 U.S.C. 1395c et seq. and 1395j et seq.\] or under a State plan for medical assistance approved under title XIX of such Act \[42 U.S.C. 1396 et seq.\], and (ii) shall agree to accept an assignment under section 1842(b)(3)(B)(ii) of such Act \[42 U.S.C. 1395u(b)(3)(B)(ii)\] for all services for which payment may be made under part B of title XVIII of such Act and enter into an appropriate agreement with the State agency which administers the State plan for medical assistance under title XIX of such Act to provide services to individuals entitled to medical assistance under the plan; and
-
-&emsp;(2) contain such additional provisions as the Secretary may require to carry out the purposes of this section.
-
-> For purposes of paragraph (1)(A), the Secretary shall by regulation prescribe the method for determining a person's ability to pay a charge for health services and the method of determining the amount (if any) to be charged such person based on such ability. The Secretary shall take such action as may be appropriate to ensure that the conditions of the written agreement prescribed by this subsection are adhered to.
+(2) The Secretary shall take such action as may be appropriate to ensure that the conditions of the written agreement prescribed by this subsection are adhered to.
 
 #### (c) Breach of service contract
 
@@ -46,19 +42,17 @@ The Secretary may, out of appropriations authorized under section 254k of this t
 
 &emsp;(D) $2,500 in the fourth year of obligated service; or
 
-&emsp;(2) an amount determined by subtracting such individual's net income before taxes from the income the individual would have receivedas a member of the Corps for each such year of obligated service.
+&emsp;(2) an amount determined by subtracting such individual's net income before taxes from the income the individual would have received as a member of the Corps for each such year of obligated service.
 
 #### (g) Technical assistance
 
 The Secretary shall, upon request, provide to each individual released from service obligation under this section technical assistance to assist such individual in fulfilling his or her agreement under this section.
 
-(July 1, 1944, ch. 373, title III, §338D, formerly title VII, §753, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2285; amended Pub. L. 96–538, title IV, §403, Dec. 17, 1980, 94 Stat. 3192; renumbered §338C and amended Pub. L. 97–35, title XXVII, §2709(a), (d), Aug. 13, 1981, 95 Stat. 908, 910; renumbered §338D and amended Pub. L. 100–177, title II, §201(2), title III, §307, Dec. 1, 1987, 101 Stat. 992, 1005; Pub. L. 101–597, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3035.)
+(July 1, 1944, ch. 373, title III, §338D, formerly title VII, §753, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2285; amended Pub. L. 96–538, title IV, §403, Dec. 17, 1980, 94 Stat. 3192; renumbered §338C and amended Pub. L. 97–35, title XXVII, §2709(a), (d), Aug. 13, 1981, 95 Stat. 908, 910; renumbered §338D and amended Pub. L. 100–177, title II, §201(2), title III, §307, Dec. 1, 1987, 101 Stat. 992, 1005; Pub. L. 101–597, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3035; Pub. L. 107–251, title III, §312, Oct. 26, 2002, 116 Stat. 1650.)
 
 #### References in Text
 
 Section 234 of this title, referred to in subsec. (a), was repealed by Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281, effective Oct. 1, 1977.
-
-The Social Security Act, referred to in subsec. (b)(1)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Parts A and B of title XVIII of the Social Security Act are classified generally to parts A (§1395c et seq.) and B (§1395j et seq.) of subchapter XVIII of chapter 7 of this title. Title XIX of such Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
 #### Codification
 
@@ -69,6 +63,8 @@ Section was formerly classified to section 294v of this title prior to its renum
 A prior section 338D of act July 1, 1944, was renumbered section 338E by section 201(2) of Pub. L. 100–177 and is classified to section 254<i>o</i> of this title.
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–251 added subsec. (b) and struck out former subsec. (b) which related to written agreements, regulations, and actions to ensure compliance.
 
 1990—Subsec. (a)(1), (2). Pub. L. 101–597 substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
 
@@ -98,7 +94,7 @@ See section 408(b)(2) of Pub. L. 94–484, set out as a note under section 254<i
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254d, 254<i>l</i>, 254<i>l</i>–1, 254m, 254<i>o</i>, 254p, 294cc, 11709 of this title.
+This section is referred to in sections 254d, 254<i>l</i>, 254<i>l</i>–1, 254m, 254<i>o</i>, 254p, 254t, 294cc, 11709 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@ The indenture to be qualified shall automatically be deemed (unless it is expres
 
 &emsp;(2) the indenture trustee may conclusively rely, as to the truth of the statements and the correctness of the opinions expressed therein, in the absence of bad faith on the part of such trustee, upon certificates or opinions conforming to the requirements of the indenture;
 
-> but the indenture trustee shall examine the evidence furnished to it pursuant to section 77nnn of this title to determine whether or not such evidence conforms to the requirements of the indenture.
+> but the indenture trustee shall examine the evidence furnished to it pursuant to section 77nnnof this title to determine whether or not such evidence conforms to the requirements of the indenture.
 
 #### (b) Notice of defaults
 
@@ -22,7 +22,7 @@ The indenture trustee shall exercise in case of default (as such term is defined
 
 The indenture to be qualified shall not contain any provisions relieving the indenture trustee from liability for its own negligent action, its own negligent failure to act, or its own willful misconduct, except that—
 
-&emsp;(1) such indenture shall automatically be deemed (unless it is expressly provided thereinthat any such provision is excluded) to contain the provisions authorized by paragraphs (1) and (2) of subsection (a) of this section;
+&emsp;(1) such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain the provisions authorized by paragraphs (1) and (2) of subsection (a) of this section;
 
 &emsp;(2) such indenture shall automatically be deemed (unless it is expressly provided therein that any such provision is excluded) to contain provisions protecting the indenture trustee from liability for any error of judgment made in good faith by a responsible officer or officers of such trustee, unless it shall be proved that such trustee was negligent in ascertaining the pertinent facts; and
 

@@ -67,9 +67,8 @@
 | (c) | Costs of referendum. |
 | (d) | Manner. |
 | [6414\.](%C2%A7%2006414%20-%20Suspension%20or%20termination%20of%20orders.md) | Suspension or termination of orders. |
-| (a) | Termination of order. |
-| (b) | Suspension or termination by Secretary. |
-| (c) | Other referenda. |
+| (a) | Suspension or termination by Secretary. |
+| (b) | Other referenda. |
 | [6415\.](%C2%A7%2006415%20-%20Amendments.md) | Amendments. |
 | (a) | Amendments to order. |
 | (b) | Amendment to assessment rates. |

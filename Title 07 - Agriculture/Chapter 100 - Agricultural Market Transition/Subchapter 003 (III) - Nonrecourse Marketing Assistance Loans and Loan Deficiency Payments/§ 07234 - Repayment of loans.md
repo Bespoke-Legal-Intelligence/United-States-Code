@@ -68,5 +68,5 @@ For purposes of this section and section 7236 of this title, the Secretary shall
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7235 of this title.
+This section is referred to in sections 7235, 7934 of this title.
 

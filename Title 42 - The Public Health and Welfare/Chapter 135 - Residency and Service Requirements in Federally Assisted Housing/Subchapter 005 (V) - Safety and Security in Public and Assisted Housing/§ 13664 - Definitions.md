@@ -42,7 +42,7 @@ Section 801 of the Cranston-Gonzalez National Affordable Housing Act, referred t
 
 #### Codification
 
-Section was enacted as part of the Quality Housing and Work Responsibility Act of 1998, and not as part ofsubtitles C to F of title VI of Pub. L. 102–550 which comprise this chapter.
+Section was enacted as part of the Quality Housing and Work Responsibility Act of 1998, and not as part of subtitles C to F of title VI of Pub. L. 102–550 which comprise this chapter.
 
 #### Section Referred to in Other Sections
 

@@ -20,7 +20,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;&emsp;(A) means assistance provided by the Federal Government to be used in connection with the provision of housing,<sup>1</sup> that is provided in the form of a grant, contract, loan, loan guarantee, cooperative agreement, interest subsidy, insurance, or direct appropriation; and
 
-&emsp;&emsp;(B) does not include assistance provided by the Secretary of Veterans Affairs; the Federal Emergency Management Agency; the Secretary of Housing and Urban Development under the single family mortgage insurance programs under the National Housing Act \[12 U.S.C. 1701 et seq.\] or the homeownership assistance program under section 235 of such Act \[12 U.S.C. 1715z\]; the National Homeownership Trust; the Federal Deposit Insurance Corporation under the affordable housing program under section 1831q of title 12; or the Resolution Trust Corporation under the affordable housing program under section 1441a(c) of title 12.
+&emsp;&emsp;(B) does not include assistance provided by the Secretary of Veterans Affairs; the Federal Emergency Management Agency; the Secretary of Housing and Urban Development under the single family mortgage insurance programs under the National Housing Act \[12 U.S.C. 1701 et seq.\] or the homeownership assistance program under section 235 of such Act \[12 U.S.C. 1715z\]; the National Homeownership Trust; the Federal Deposit Insurance Corporation under the affordablehousing program under section 1831q of title 12; or the Resolution Trust Corporation under the affordable housing program under section 1441a(c) of title 12.
 
 &emsp;(6) The term “hazardous areas” means those areas in a building referred to as hazardous areas in National Fire Protection Association Standard 101, known as the Life Safety Code, or any successor standard thereto.
 
@@ -84,7 +84,7 @@ For purposes of this section, the following definitions apply:
 
 (C) Housing covered by this paragraph that does not have an adequate and reliable electrical system shall not be subject to the requirement under subparagraph (A) for protection by hard-wired smoke detectors, but shall be protected by battery operated smoke detectors.
 
-(D) If funding has been programmed or designated for the demolition of housing covered bythis paragraph, such housing shall not be subject to the fire protection requirements of subparagraph (A), but shall be protected by battery operated smoke detectors.
+(D) If funding has been programmed or designated for the demolition of housing covered by this paragraph, such housing shall not be subject to the fire protection requirements of subparagraph (A), but shall be protected by battery operated smoke detectors.
 
 (2)(A)(i) Housing assistance may not be used in connection with any newly constructed multifamily property, unless after the new construction the multifamily property is protected by an automatic sprinkler system and hard-wired smoke detectors.
 
@@ -159,6 +159,10 @@ Subsec. (c)(1)(C), (D). Pub. L. 103–254, §6(2), added subpars. (C) and (D).
 #### Effective Date
 
 Section 106(b) of Pub. L. 102–522 provided that: “Subsection (b) of section 31 of the Federal Fire Prevention and Control Act of 1974 \[15 U.S.C. 2227\], as added by subsection (a) of this section, shall take effect 2 years after the date of enactment of this Act \[Oct. 26, 1992\].”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -160,7 +160,7 @@ Appeals during trial.—If an appeal is taken during trial, the trial court shal
 
 &emsp;&emsp;(C)
 
-Effect of ruling.—An interlocutory appeal and decision shall not affect the right of the defendant, in a subsequent appeal from a final judgment, to claim as error reversal by the trial court on remand of a ruling appealed from during trial.
+Effect of ruling.—An interlocutory appeal and decision shall not affect the rightof the defendant, in a subsequent appeal from a final judgment, to claim as error reversal by the trial court on remand of a ruling appealed from during trial.
 
 &emsp;(6)
 
@@ -224,5 +224,5 @@ Purpose.—The purpose of this subtitle \[subtitle A (§§301–303) of title II
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1956, 2332b, 2516 of this title; title 8 section 1189; title 22 section 7211.
+This section is referred to in sections 1956, 2332b, 2339C, 2516 of this title; title 7 section 8401; title 8 section 1189; title 22 section 7211; title 42 section 262a.
 

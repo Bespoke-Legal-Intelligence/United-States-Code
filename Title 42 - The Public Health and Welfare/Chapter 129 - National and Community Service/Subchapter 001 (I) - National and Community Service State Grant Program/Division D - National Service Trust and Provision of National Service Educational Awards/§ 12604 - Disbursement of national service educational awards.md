@@ -96,7 +96,7 @@ Amounts in the Trust shall be available—
 
 #### (6) Maximum award
 
-&emsp;The portion of an eligible individual's total available national service educational awardthat may be disbursed under this subsection for any period of enrollment shall not exceed the difference between—
+&emsp;The portion of an eligible individual's total available national service educational award that may be disbursed under this subsection for any period of enrollment shall not exceed the difference between—
 
 &emsp;&emsp;(A) the eligible individual's cost of attendance for such period of enrollment, determined in accordance with section 472 of the Higher Education Act of 1965 (20 U.S.C. 1087<i>ll</i>); and
 

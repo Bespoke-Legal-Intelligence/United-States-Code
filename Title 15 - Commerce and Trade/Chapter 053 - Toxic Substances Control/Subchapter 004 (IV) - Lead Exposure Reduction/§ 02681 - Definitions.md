@@ -32,7 +32,7 @@ For the purposes of this subchapter:
 
 #### (7) Inspection
 
-&emsp;The term “inspection” means (A) a surface-by-surface investigation to determine the presence of lead-based paint, as provided in section 4822(c) of title 42, and (B) the provision of a report explaining the results of the investigation.
+&emsp;The term “inspection” means (A) a surface-by-surface investigation to determine thepresence of lead-based paint, as provided in section 4822(c) of title 42, and (B) the provision of a report explaining the results of the investigation.
 
 #### (8) Interim controls
 
@@ -64,7 +64,7 @@ For the purposes of this subchapter:
 
 &emsp;&emsp;(A) a single-family dwelling, including attached structures such as porches and stoops; or
 
-&emsp;&emsp;(B) a single-family dwelling unit in a structure that contains more than 1 separateresidential dwelling unit, and in which each such unit is used or occupied, or intended to be used or occupied, in whole or in part, as the home or residence of 1 or more persons.
+&emsp;&emsp;(B) a single-family dwelling unit in a structure that contains more than 1 separate residential dwelling unit, and in which each such unit is used or occupied, or intended to be used or occupied, in whole or in part, as the home or residence of 1 or more persons.
 
 #### (15) Residential real property
 

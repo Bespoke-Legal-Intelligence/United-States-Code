@@ -68,7 +68,7 @@ Subsecs. (d), (e). Pub. L. 104–132, §205(e)(3), struck out subsecs. (d) and (
 
 “(d)
 
-Modification of Order.—A victim or the offender may petition the court at any time to modify a restitution order as appropriate in view of a change in the economic circumstances of the offender.
+Modification of Order.—A victim or the offender may petition the court at any time to modify arestitution order as appropriate in view of a change in the economic circumstances of the offender.
 
 “(e)
 

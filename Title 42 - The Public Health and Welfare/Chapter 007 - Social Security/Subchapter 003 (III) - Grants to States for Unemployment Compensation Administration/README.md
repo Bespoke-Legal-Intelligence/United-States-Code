@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 1103 of this title; title 5 section 8505; title 29 section 2943.
+This subchapter is referred to in title 5 section 8505; title 29 section 2943.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

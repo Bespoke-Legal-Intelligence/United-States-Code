@@ -24,7 +24,7 @@
 | (e) | Effect of failure to exempt from taxation. |
 | (f) | Amount. |
 | (g) | Use for affordable housing activities under plan. |
-| (h) | Administrative expenses. |
+| (h) | Administrative and planning expenses. |
 | (i) | Public-private partnerships. |
 | [4112\.](Subchapter%20001%20%28I%29%20-%20Block%20Grants%20and%20Grant%20Requirements/%C2%A7%2004112%20-%20Indian%20housing%20plans.md) | Indian housing plans. |
 | (a) | Plan submission. |
@@ -157,9 +157,8 @@
 | :--- | ---: |
 | [4191\.](Subchapter%20006%20%28VI%29%20-%20Federal%20Guarantees%20for%20Financing%20for%20Tribal%20Housing%20Activities/%C2%A7%2004191%20-%20Authority%20and%20requirements.md) | Authority and requirements. |
 | (a) | Authority. |
-| (b) | Lack of financing elsewhere. |
-| (c) | Terms of loans. |
-| (d) | Limitation on outstanding guarantees. |
+| (b) | Terms of loans. |
+| (c) | Limitation on outstanding guarantees. |
 | [4192\.](Subchapter%20006%20%28VI%29%20-%20Federal%20Guarantees%20for%20Financing%20for%20Tribal%20Housing%20Activities/%C2%A7%2004192%20-%20Security%20and%20repayment.md) | Security and repayment. |
 | (a) | Requirements on issuer. |
 | (b) | Repayment from grant amounts. |
@@ -273,7 +272,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 12 section 1715z–13a; title 20 section 7713; title 42 sections 1437z–6, 11902, 11903, 11904, 11905, 11908, 14614.
+This chapter is referred to in title 12 section 1715z–13a; title 20 section 7713; title 26 section 42; title 42 sections 1396r–1a, 1437z–6, 11902, 11903, 11904, 11905, 11908, 14614.
 
 
 ---

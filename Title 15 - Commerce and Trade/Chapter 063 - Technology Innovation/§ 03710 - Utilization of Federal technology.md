@@ -68,7 +68,7 @@ The National Technical Information Service shall—
 
 &emsp;(H) facilitate communication and cooperation between Offices of Research and Technology Applications of Federal laboratories and regional, State, and local technology transfer organizations;
 
-&emsp;(I) when requested, assist colleges or universities, businesses, nonprofit organizations, State or local governments, or regional organizations to establish programs to stimulate research and to encourage technology transfer in such areas as technology program development, curriculum design, long-term research planning, personnel needs projections, and productivity assessments;
+&emsp;(I) when requested, assist colleges or universities, businesses, nonprofit organizations, State or local governments, or regional organizations to establish programs to stimulate research and to encourage technology transferin such areas as technology program development, curriculum design, long-term research planning, personnel needs projections, and productivity assessments;
 
 &emsp;(J) seek advice in each Federal laboratory consortium region from representatives of State and local governments, large and small business, universities, and other appropriate persons on the effectiveness of the program (and any such advice shall be provided at no expense to the Government); and
 
@@ -84,7 +84,7 @@ The National Technical Information Service shall—
 
 (6) Not later than one year after October 20, 1986, and every year thereafter, the Chairman of the Consortium shall submit a report to the President, to the appropriate authorization and appropriation committees of both Houses of the Congress, and to each agency with respect to which a transfer of funding is made (for the fiscal year or years involved) under paragraph (7), concerning the activities of the Consortium and the expenditures made by it under this subsection during the year for which the report is made. Such report shall include an annual independent audit of the financial statements of the Consortium, conducted in accordance with generally accepted accounting principles.
 
-(7)(A) Subject to subparagraph (B), an amount equal to 0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of the laboratories of such agency for afiscal year referred to in subparagraph (B)(ii) shall be transferred by such agency to the National Institute of Standards and Technology at the beginning of the fiscal year involved. Amounts so transferred shall be provided by the Institute to the Consortium for the purpose of carrying out activities of the Consortium under this subsection.
+(7)(A) Subject to subparagraph (B), an amount equal to 0.008 percent of the budget of each Federal agency from any Federal source, including related overhead, that is to be utilized by or on behalf of the laboratories of such agency for a fiscal year referred to in subparagraph (B)(ii) shall be transferred by such agency to the National Institute of Standards and Technology at the beginning of the fiscal year involved. Amounts so transferred shall be provided by the Institute to the Consortium for the purpose of carrying out activities of the Consortium under this subsection.
 
 (B) A transfer shall be made by any Federal agency under subparagraph (A), for any fiscal year, only if the amount so transferred by that agency (as determined under such subparagraph) would exceed $10,000.
 
@@ -160,7 +160,7 @@ Public availability.—The Secretary shall make the report available to the publ
 
 (3) Not later than one year after October 20, 1986, the Secretary shall submit to the President and the Congress a report regarding—
 
-&emsp;(A) any copyright provisions or other types of barriers which tend to restrict or limit thetransfer of federally funded computer software to the private sector and to State and local governments, and agencies of such State and local governments; and
+&emsp;(A) any copyright provisions or other types of barriers which tend to restrict or limit the transfer of federally funded computer software to the private sector and to State and local governments, and agencies of such State and local governments; and
 
 &emsp;(B) the feasibility and cost of compiling and maintaining a current and comprehensive inventory of all federally funded training software.
 
@@ -186,7 +186,7 @@ The Government Performance and Results Act of 1993, referred to in subsec. (h), 
 
 #### Amendments
 
-2000—Subsec. (b). Pub. L. 106–404, §10(a)(1), struck out at end “The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectual property rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry.”
+2000—Subsec. (b). Pub. L. 106–404, §10(a)(1), struck out at end “The agency head shall submit to Congress at the time the President submits the budget to Congress an explanation of the agency's technology transfer program for the preceding year and the agency's plans for conducting its technology transfer function for the upcoming year, including plans for securing intellectualproperty rights in laboratory innovations with commercial promise and plans for managing such innovations so as to benefit the competitiveness of United States industry.”
 
 Subsec. (e)(1). Pub. L. 106–404, §7(5), substituted “in cooperation with Federal laboratories” for “in cooperation with Federal Laboratories” in introductory provisions.
 
@@ -224,7 +224,7 @@ Subsec. (e)(8). Pub. L. 102–245, §301(d), struck out former par. (8) which re
 
 “(C) Application for such grants, awards, or agreements shall be in such form and contain such information as the Consortium or its designee shall specify.
 
-“(D) Any person who receives or utilizes any proceeds of a grant or award made, or agreement entered into, under this paragraph shall keep such records as theConsortium or its designee shall determine are necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition of such proceeds and the total cost of the project in connection with which such proceeds were used.”
+“(D) Any person who receives or utilizes any proceeds of a grant or award made, or agreement entered into, under this paragraph shall keep such records as the Consortium or its designee shall determine are necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition of such proceeds and the total cost of the project in connection with which such proceeds were used.”
 
 Subsec. (i). Pub. L. 102–245, §303, added subsec. (i).
 
@@ -286,7 +286,7 @@ Section 1. <i>Transfer of Federally Funded Technology.</i>
 
 (A) to enter into cooperative research and development agreements with other Federal laboratories, State and local governments, universities, and the private sector; and
 
-(B) to license, assign, or waive rights to intellectual property developed by the laboratory either under suchcooperative research or development agreements and from within individual laboratories.
+(B) to license, assign, or waive rights to intellectual property developed by the laboratory either under such cooperative research or development agreements and from within individual laboratories.
 
 (2) identify and encourage persons to act as conduits between and among Federal laboratories, universities, and the private sector for the transfer of technology developed from federally funded research and development efforts;
 
@@ -308,7 +308,7 @@ Sec. 2. <i>Establishment of the Technology Share Program</i>. The Secretaries of
 
 (c) Limit its participation in any consortium so established to the use of laboratory personnel and facilities. However, each laboratory may also provide financial support generally not to exceed 25 percent of the total budget for the activities of the consortium. Such financial support by any laboratory in all such consortia shall be limited to a maximum of $5 million per annum.
 
-Sec. 3. <i>Technology Exchange—Scientists and Engineers</i>. The Executive Director of the President's Commission on Executive Exchange shall assist Federal agencies, where appropriate, by developing and implementing an exchange program whereby scientists and engineers in the private sector may take temporary assignments in Federal laboratories, and scientists and engineers in Federal laboratories may take temporary assignments in the private sector.
+Sec. 3. <i>Technology Exchange—Scientists and Engineers</i>. The Executive Director of the President's Commission on Executive Exchange shall assist Federal agencies, where appropriate, by developing and implementing an exchange program whereby scientists and engineers in the private sector may take temporary assignments in Federal laboratories, and scientists and engineers inFederal laboratories may take temporary assignments in the private sector.
 
 Sec. 4. <i>International Science and Technology</i>. In order to ensure that the United States benefits from and fully exploits scientific research and technology developed abroad,
 
@@ -346,5 +346,5 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3704b–2, 3708, 3713, 3715 of this title; title 10 section 2371a; title 29 section 3032.
+This section is referred to in sections 3704b–2, 3708, 3713, 3715 of this title; title 6 section 189; title 10 section 2371a; title 29 section 3032.
 

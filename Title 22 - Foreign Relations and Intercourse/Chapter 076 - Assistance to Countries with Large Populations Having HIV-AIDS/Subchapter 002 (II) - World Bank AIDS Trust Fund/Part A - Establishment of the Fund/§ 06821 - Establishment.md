@@ -26,7 +26,7 @@ The purpose of the Trust Fund should be to use contributed funds to—
 
 #### (A) In general
 
-&emsp;&emsp;Upon the effective date of this paragraph, there shall be a United States member of the Board of Trustees, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall have the qualifications described in paragraph (1).
+&emsp;&emsp;Upon the effective date of this paragraph, there shall be a United States member of theBoard of Trustees, who shall be appointed by the President, by and with the advice and consent of the Senate, and who shall have the qualifications described in paragraph (1).
 
 #### (B) Effective and termination dates
 

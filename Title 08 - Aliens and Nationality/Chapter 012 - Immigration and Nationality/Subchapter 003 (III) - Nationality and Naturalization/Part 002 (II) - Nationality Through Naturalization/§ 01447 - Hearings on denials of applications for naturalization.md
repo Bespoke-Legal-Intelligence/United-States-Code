@@ -10,7 +10,7 @@ If there is a failure to make a determination under section 1446 of this title b
 
 #### (c) Appearance of Attorney General
 
-The Attorney General shall have the right to appear before any immigration officer in any naturalization proceedings for the purpose of cross-examining the applicant and the witnesses produced in support of the application concerning any matter touching or in any way affecting the applicant's right to admission to citizenship, and shall have the right to call witnesses, including the applicant, produce evidence, and be heard in opposition to, or in favor of the granting of any application in naturalization proceedings.
+The Attorney General shall have the right to appear before any immigration officer in anynaturalization proceedings for the purpose of cross-examining the applicant and the witnesses produced in support of the application concerning any matter touching or in any way affecting the applicant's right to admission to citizenship, and shall have the right to call witnesses, including the applicant, produce evidence, and be heard in opposition to, or in favor of the granting of any application in naturalization proceedings.
 
 #### (d) Subpena of witnesses
 
@@ -65,6 +65,10 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

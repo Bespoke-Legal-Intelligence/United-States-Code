@@ -64,7 +64,7 @@ The plan developed under subsection (b) of this section shall include a strategy
 
 #### (d) Distribution
 
-Assistance under the plan developed under subsection (b) of this section shall be provided through United States Government organizations and nongovernmental organizations and private and voluntary organizations, whether within or outside the United States, includinghumanitarian, educational, labor, and private sector organizations.
+Assistance under the plan developed under subsection (b) of this section shall be provided through United States Government organizations and nongovernmental organizations and private and voluntary organizations, whether within or outside the United States, including humanitarian, educational, labor, and private sector organizations.
 
 #### (e) International efforts
 

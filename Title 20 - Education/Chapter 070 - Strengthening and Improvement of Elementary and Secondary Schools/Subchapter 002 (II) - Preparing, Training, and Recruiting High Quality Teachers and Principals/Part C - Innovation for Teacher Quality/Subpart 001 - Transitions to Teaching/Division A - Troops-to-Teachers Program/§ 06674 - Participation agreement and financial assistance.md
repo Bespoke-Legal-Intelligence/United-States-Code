@@ -6,7 +6,7 @@
 
 &emsp;An eligible member of the Armed Forces selected to participate in the Program under section 6673 of this title and receive financial assistance under this section shall be required to enter into an agreement with the Secretary in which the member agrees—
 
-&emsp;&emsp;(A) within such time as the Secretary may require, to obtain certification or licensingas an elementary school teacher, secondary school teacher, or vocational or technical teacher, and to become a highly qualified teacher; and
+&emsp;&emsp;(A) within such time as the Secretary may require, to obtain certification or licensing as an elementary school teacher, secondary school teacher, or vocational or technical teacher, and to become a highly qualified teacher; and
 
 &emsp;&emsp;(B) to accept an offer of full-time employment as an elementary school teacher, secondary school teacher, or vocational or technical teacher for not less than 3 school years with a high-need local educational agency or public charter school, as such terms are defined in section 6601 <sup>1</sup> of this title, to begin the school year after obtaining that certification or licensing.
 
@@ -82,7 +82,7 @@ A stipend or bonus paid under this section to a participant in the Program shall
 
 #### (C) Failure to complete service under reserve commitment agreement
 
-&emsp;&emsp;The participant executed a written agreement with the Secretary concerned undersection 6673(e)(2) of this title to serve as a member of a reserve component of the Armed Forces for a period of 3 years and fails to complete the required term of service.
+&emsp;&emsp;The participant executed a written agreement with the Secretary concerned under section 6673(e)(2) of this title to serve as a member of a reserve component of the Armed Forces for a period of 3 years and fails to complete the required term of service.
 
 #### (2) Amount of reimbursement
 

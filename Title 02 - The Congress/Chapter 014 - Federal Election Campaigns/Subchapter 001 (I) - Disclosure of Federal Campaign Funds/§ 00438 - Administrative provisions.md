@@ -22,11 +22,9 @@ The Commission shall—
 
 &emsp;(7) prepare and publish periodically lists of authorized committees which fail to file reports as required by this Act;
 
-&emsp;(8) prescribe rules, regulations, and forms to carry out the provisions of this Act, in accordance with the provisions of subsection (d) of this section;
+&emsp;(8) prescribe rules, regulations, and forms to carry out the provisions of this Act, in accordance with the provisions of subsection (d) of this section; and
 
-&emsp;(9) transmit to the President and to each House of the Congress no later than June 1 of each year, a report which states in detail the activities of the Commission in carrying out its duties under this Act, and any recommendations for any legislative or other action the Commission considers appropriate; and
-
-&emsp;(10) serve as a national clearinghouse for the compilation of information and review of procedures with respect to the administration of Federal elections. The Commission may enter into contracts for the purpose of conducting studies under this paragraph. Reports or studies made under this paragraph shall be available to the public upon the payment of the cost thereof, except that copies shall be made available without cost, upon request, to agencies and branches of the Federal Government.
+&emsp;(9) transmit to the President and to each House of the Congress no later than June 1 of each year, a report which states in detail the activities of the Commission in carrying out its duties under this Act, and any recommendations for any legislative or other action the Commission considers appropriate.
 
 #### (b) Audits and field investigations
 
@@ -46,9 +44,9 @@ Any forms prescribed by the Commission under subsection (a)(1) of this section, 
 
 (4) For purposes of this subsection, the terms “rule” and “regulation” mean a provision or series of interrelated provisions stating a single, separable rule of law.
 
-(5)(A) A motion to discharge a committee of the Senate from the consideration of a resolution relating to any such rule, regulation, orform or a motion to proceed to the consideration of such a resolution, is highly privileged and shall be decided without debate.
+(5)(A) A motion to discharge a committee of the Senate from the consideration of a resolution relating to any such rule, regulation, or form or a motion to proceed to the consideration of such a resolution, is highly privileged and shall be decided without debate.
 
-(B) Whenever a committee of the House of Representatives reports any resolution relating to any such form, rule or regulation, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and is not in order to move to reconsider the vote by which the motion is agreed to or disagreed with.
+(B) Whenever a committee of the House of Representatives reports any resolution relatingto any such form, rule or regulation, it is at any time thereafter in order (even though a previous motion to the same effect has been disagreed to) to move to proceed to the consideration of the resolution. The motion is highly privileged and is not debatable. An amendment to the motion is not in order, and is not in order to move to reconsider the vote by which the motion is agreed to or disagreed with.
 
 #### (e) Scope of protection for good faith reliance upon rules or regulations
 
@@ -58,7 +56,7 @@ Notwithstanding any other provision of law, any person who relies upon any rule 
 
 In prescribing such rules, regulations, and forms under this section, the Commission and the Internal Revenue Service shall consult and work together to promulgate rules, regulations, and forms which are mutually consistent. The Commission shall report to the Congress annually on the steps it has taken to comply with this subsection.
 
-(Pub. L. 92–225, title III, §311, formerly §308, Feb. 7, 1972, 86 Stat. 16; renumbered §316 and amended Pub. L. 93–443, title II, §§208(a), (c)(7)–(10), 209(a)(1), (b), Oct. 15, 1974, 88 Stat. 1279, 1286, 1287; renumbered §315 and amended Pub. L. 94–283, title I, §§105, 110, May 11, 1976, 90 Stat. 481, 486; renumbered §311 and amended Pub. L. 96–187, title I, §§105(4), 109, Jan. 8, 1980, 93 Stat. 1354, 1362; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §3(c), Dec. 28, 1995, 109 Stat. 792.)
+(Pub. L. 92–225, title III, §311, formerly §308, Feb. 7, 1972, 86 Stat. 16; renumbered §316 and amended Pub. L. 93–443, title II, §§208(a), (c)(7)–(10), 209(a)(1), (b), Oct. 15, 1974, 88 Stat. 1279, 1286, 1287; renumbered §315 and amended Pub. L. 94–283, title I, §§105, 110, May 11, 1976, 90 Stat. 481, 486; renumbered §311 and amended Pub. L. 96–187, title I, §§105(4), 109, Jan. 8, 1980, 93 Stat. 1354, 1362; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 104–79, §3(c), Dec. 28, 1995, 109 Stat. 792; Pub. L. 107–252, title VIII, §801(b), Oct. 29, 2002, 116 Stat. 1726.)
 
 #### References in Text
 
@@ -66,7 +64,17 @@ This Act, referred to in text, means the Federal Election Campaign Act of 1971, 
 
 Section 3512 of title 44, referred to in subsec. (c), which related to requirements for the collection of information by independent Federal regulatory agencies, was a part of chapter 35 of Title 44, Public Printing and Documents. Chapter 35 was amended generally by the Paperwork Reduction Act of 1980 (Pub. L. 96–511) and subsequently by the Paperwork Reduction Act of 1995 (Pub. L. 104–13).
 
+#### Prior Provisions
+
+A prior section 311 of Pub. L. 92–225 was classified to section 437e of this title, prior to repeal by Pub. L. 96–187.
+
+Another prior section 311 of Pub. L. 92–225 was renumbered section 307, and is classified to section 437d of this title.
+
+Another prior section 311 of Pub. L. 92–225 was renumbered section 320, and was classified to section 441 of this title, prior to repeal by Pub. L. 94–283.
+
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–252 inserted “and” at end of par. (8), substituted a period for “; and” at end of par. (9), and struck out par. (10) and concluding sentences which read as follows: “serve as a national clearinghouse for the compilation of information and review of procedures with respect to the administration of Federal elections. The Commission may enter into contracts for the purpose of conducting studies under this paragraph. Reports or studies made under this paragraph shall be available to the public upon the payment of the cost thereof, except that copies shall be made available without cost, upon request, to agencies and branches of the Federal Government.”
 
 1995—Subsec. (a)(4). Pub. L. 104–79 substituted “Secretary” for “Clerk, Secretary,”.
 
@@ -86,13 +94,13 @@ Subsec. (a)(5). Pub. L. 96–187, §109, substituted “keep such designations, 
 
 Subsec. (a)(6). Pub. L. 96–187, §109, redesignated existing provisions as subpar. (A), added subpars. (B) and (C), and in subpar. (A) as so designated substituted provisions for the compilation and maintenance of a cumulative index of designations, reports, and statements filed under this Act, to be published at regular intervals and made available for direct or mail purchase for provisions for compilation and maintenance of such index to be published in the Federal Register at regular intervals to be made available for direct or mail purchase at reasonable prices, and for compilation and maintenance of a separate cumulative index of reports and statements of political committees supporting more than one candidate including a listing of the date of registration of such committee and the date of qualification to make expenditures under section 441a(a)(2), to be revised on the same basis as the other cumulative indices.
 
-Subsec. (a)(7). Pub. L. 96–187, §109, substituted provisions requiring preparation and publication periodically lists of committees failing to file reports as required by this Act for provisions requiring preparation and publication from time to time of special reports listing candidates for whom reports were filed as required and candidates for whom reports were not filed.
+Subsec. (a)(7). Pub. L. 96–187, §109, substituted provisions requiring preparation and publication periodically lists of committees failing to file reports as required by this Act for provisions requiring preparationand publication from time to time of special reports listing candidates for whom reports were filed as required and candidates for whom reports were not filed.
 
 Subsec. (a)(8). Pub. L. 96–187, §109, substituted provisions for rules, regulations and forms to carry out the provisions of this Act in accordance with subsec. (d) for provisions mandating audits and field investigations with respect to reports and statements and failure to file such and giving priority to auditing and field investigation verification and receipt and use of payments received by a candidate.
 
 Subsec. (a)(9). Pub. L. 96–187, §109, substituted provisions for transmittal to the President and Congress no later than June 1 of each year a report of Commission activities and recommendations for legislation for provisions for reporting apparent violations of law to appropriate law enforcement authorities.
 
-Subsec. (a)(10). Pub. L. 96–187, §109, substituted provisions authorizing the Commission to serve as a national clearinghouse for compilation of information and review procedures with respect to administrationof Federal elections, and to enter into contracts to conduct studies, to be made available to the public upon payment of costs except that copies be made available without cost to agencies and branches of the Federal Government for provisions for prescription of rules and regulations to carry out the provisions of this subchapter in accordance with the provisions of subsec. (c) of this section.
+Subsec. (a)(10). Pub. L. 96–187, §109, substituted provisions authorizing the Commission to serve as a national clearinghouse for compilation of information and review procedures with respect to administration of Federal elections, and to enter into contracts to conduct studies, to be made available to the public upon payment of costs except that copies be made available without cost to agencies and branches of the Federal Government for provisions for prescription of rules and regulations to carry out the provisions of this subchapter in accordance with the provisions of subsec. (c) of this section.
 
 Subsec. (b). Pub. L. 96–187, §109, substituted provisions for the conduct of audits and field investigations with priority to verification for, and receipt and use of payments received by a candidate or committee under chapter 95 or 96 of title 26, and performance of internal review of reports of selected committees to determine compliance with threshold requirements of this Act, such requirements to be established by the Commission, audits and investigations to be undertaken upon affirmative vote of 4 members within 30 days of such vote except audits of an authorized committee of a candidate to be commenced within 6 months of the election for which such committee was authorized, for provisions declaring it the duty of the Commission to act as a national clearinghouse for information in respect to administration of elections, to enter into contracts to conduct independent studies of administration of elections, such studies to be published by the Commission and copies made available to the general public.
 
@@ -136,6 +144,10 @@ Subsec. (c). Pub. L. 93–443, §209(b)(2)(A), (B), added subsec. (c) and redesi
 
 Subsec. (d). Pub. L. 93–443, §209(b)(2)(A), (B), added subsec. (d) and struck out former subsec. (d) provisions respecting violations, the paragraphs relating to: (1) complaints, investigations, notice and hearing, Federal civil actions for injunction, restraining orders, or other appropriate orders, venue, and bond; (2) subpenas; (3) review by court of appeals and time for petition of review; (4) finality of appellate judgment and review by Supreme Court; and (5) docket advancement and priorities, provisions now covered by section 437g(a) of this title.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–252 effective upon appointment of all members of the Election Assistance Commission under section 15323 of Title 42, The Public Health and Welfare, see section 15534(a) of Title 42.
+
 #### Effective Date of 1995 Amendment
 
 Amendment by Pub. L. 104–79 applicable with respect to reports, designations, and statements required to be filed after Dec. 31, 1995, see section 3(d) of Pub. L. 104–79, set out as a note under section 432 of this title.
@@ -150,7 +162,7 @@ For termination, effective May 15, 2000, of provisions in subsecs. (a)(9) and (f
 
 #### Transition Provisions
 
-Disapproval of rules and regulations by either House of Congress under subsec. (d) of this section within 30 legislative days after receipt to be deemed to allowsuch disapproval within 15 days with respect to rules and regulations implementing Pub. L. 96–187 proposed under section 303(a) of Pub. L. 96–187, see section 303(b) of Pub. L. 96–187, set out as a note under section 431 of this title.
+Disapproval of rules and regulations by either House of Congress under subsec. (d) of this section within 30 legislative days after receipt to be deemed to allow such disapproval within 15 days with respect to rules and regulations implementing Pub. L. 96–187 proposed under section 303(a) of Pub. L. 96–187, see section 303(b) of Pub. L. 96–187, set out as a note under section 431 of this title.
 
 #### Annual Reports for Calendar Years Beginning After Dec. 31, 1972
 

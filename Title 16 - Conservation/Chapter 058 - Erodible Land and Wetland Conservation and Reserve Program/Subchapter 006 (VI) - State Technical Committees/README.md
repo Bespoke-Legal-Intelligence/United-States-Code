@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 7 section 5831.
+This subchapter is referred to in section 3838a of this title; title 7 section 5831.
 
 
 ---

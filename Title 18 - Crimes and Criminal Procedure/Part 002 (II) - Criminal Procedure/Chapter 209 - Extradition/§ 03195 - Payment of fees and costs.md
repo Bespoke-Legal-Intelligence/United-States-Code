@@ -34,5 +34,5 @@ Amendment by Pub. L. 90–578 effective Oct. 17, 1968, except when a later effec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 4114 of this title.
+This section is referred to in section 4114 of this title.
 

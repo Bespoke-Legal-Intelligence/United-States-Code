@@ -10,7 +10,7 @@ The Administrator, in consultation with the Secretary of the Interior and the Se
 
 #### (c) Expertise or statutory responsibility descriptions
 
-Not later than 60 days after August 3, 1980, the Secretary of Energy, the Administrator of the Environmental Protection Agency, the Secretary of the department in which the Coast Guard is operating, the Secretary of the Interior, the Chief of Engineers of the United States Army Corps of Engineers, and the heads of any other Federal departments or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of ocean thermal energy conversion facilities or plantships, shall transmit to the Administrator written description of their expertise or statutory responsibilities pursuant to this chapter or any other Federal law.
+Not later than 60 days after August 3, 1980, the Secretary of Energy, the Administrator of the Environmental Protection Agency, the Secretary of the department in which the Coast Guard is operating, the Secretary of the Interior, the Chief of Engineers of the United StatesArmy Corps of Engineers, and the heads of any other Federal departments or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of ocean thermal energy conversion facilities or plantships, shall transmit to the Administrator written description of their expertise or statutory responsibilities pursuant to this chapter or any other Federal law.
 
 #### (d) Application
 
@@ -59,6 +59,10 @@ The Administrator shall not take final action on any application unless the appl
 #### Amendments
 
 1984—Subsec. (h). Pub. L. 98–623 substituted “The Administrator shall not take final action on any application unless the applicant has paid to the Administrator a reasonable administrative fee” for “Each person applying for a license pursuant to this chapter shall remit to the Administrator at the time the application is filed a nonrefundable application fee” and “imposed by the Administrator on any applicant shall reflect the reasonable administrative costs incurred by the National Oceanic and Atmospheric Administration” for “shall be established by regulation by the Administrator, and shall reflect the reasonable administrative costs incurred”.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

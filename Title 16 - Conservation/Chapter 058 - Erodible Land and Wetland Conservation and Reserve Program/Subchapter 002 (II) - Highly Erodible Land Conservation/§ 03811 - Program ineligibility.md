@@ -1,5 +1,7 @@
 ### §3811. Program ineligibility
 
+#### (a) In general
+
 Except as provided in section 3812 of this title, and notwithstanding any other provision of law, any person who in any crop year produces an agricultural commodity on a field on which highly erodible land is predominate, or designates land on which highly erodible land is predominate to be set aside, diverted, devoted to conservation uses, or otherwise not cultivated under a program administered by the Secretary to reduce production of an agricultural commodity, as determined by the Secretary shall be ineligible for—
 
 &emsp;(1) as to any commodity produced during that crop year by such person—
@@ -24,17 +26,23 @@ Except as provided in section 3812 of this title, and notwithstanding any other 
 
 &emsp;&emsp;(D) a payment, loan, or other assistance under section 1003 or 1006a of this title.
 
-(Pub. L. 99–198, title XII, §1211, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 101–624, title XIV, §1411, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II, §204(1), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §311, Apr. 4, 1996, 110 Stat. 982.)
+#### (b) Highly erodible land
+
+The Secretary shall have, and shall not delegate to any private person or entity, authority to determine whether a person has complied with this subchapter.
+
+(Pub. L. 99–198, title XII, §1211, Dec. 23, 1985, 99 Stat. 1506; Pub. L. 101–624, title XIV, §1411, Nov. 28, 1990, 104 Stat. 3569; Pub. L. 102–237, title II,§204(1), Dec. 13, 1991, 105 Stat. 1854; Pub. L. 104–127, title III, §311, Apr. 4, 1996, 110 Stat. 982; Pub. L. 107–171, title II, §2002(a), May 13, 2002, 116 Stat. 233.)
 
 #### References in Text
 
-The Agricultural Market Transition Act, referred to in par. (1)(A), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§7201 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 7201 of Title 7 and Tables.
+The Agricultural Market Transition Act, referred to in subsec. (a)(1)(A), is title I of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 896, which is classified principally to chapter 100 (§7201 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see section 7201 of Title 7 and Tables.
 
-The Commodity Credit Corporation Charter Act, referred to in par. (1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
+The Commodity Credit Corporation Charter Act, referred to in subsec. (a)(1)(A), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 
-The Consolidated Farm and Rural Development Act, referred to in par. (1)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(D), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
 
 #### Amendments
+
+2002—Pub. L. 107–171 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1996—Pub. L. 104–127, §311(1), struck out “following December 23, 1985,” before “any person who” in introductory provisions.
 
@@ -100,5 +108,5 @@ Errors in Delineation.—If the Secretary determines that a significant error ha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3812, 3812a, 3836 of this title; title 7 section 7251.
+This section is referred to in sections 3812, 3812a of this title; title 7 section 7251.
 

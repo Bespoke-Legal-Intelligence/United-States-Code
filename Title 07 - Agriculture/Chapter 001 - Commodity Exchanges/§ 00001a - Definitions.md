@@ -214,7 +214,7 @@ As used in this chapter:
 
 &emsp;&emsp;&emsp;&emsp;(II) $5,000,000 and who enters into the agreement, contract, or transaction in order to manage the risk associated with an asset owned or liability incurred, or reasonably likely to be owned or incurred, by the individual;
 
-&emsp;&emsp;(B)(i) a person described in clause (i), (ii), (iv), (v), (viii), (ix), or (x) of subparagraph (A)or in subparagraph (C), acting as broker or performing an equivalent agency function on behalf of another person described in subparagraph (A) or (C); or
+&emsp;&emsp;(B)(i) a person described in clause (i), (ii), (iv), (v), (viii), (ix), or (x) of subparagraph (A) or in subparagraph (C), acting as broker or performing an equivalent agency function on behalf of another person described in subparagraph (A) or (C); or
 
 &emsp;&emsp;(ii) an investment adviser subject to regulation under the Investment Advisers Act of 1940 \[15 U.S.C. 80b–1 et seq.\], a commodity trading advisor subject to regulation under this chapter, a foreign person performing a similar role or function subject as such to foreign regulation, or a person described in clause (i), (ii), (iv), (v), (viii), (ix), or (x) of subparagraph (A) or in subparagraph (C), in any such case acting as investment manager or fiduciary (but excluding a person acting as broker or performing an equivalent agency function) for another person described in subparagraph (A) or (C) and who is authorized by such person to commit such person to the transaction; or
 
@@ -288,11 +288,11 @@ As used in this chapter:
 
 &emsp;&emsp;(A) is engaged in soliciting or in accepting orders for the purchase or sale of any commodity for future delivery on or subject to the rules of any contract market or derivatives transaction execution facility; and
 
-&emsp;&emsp;(B) in or in connection with such solicitation or acceptance of orders, accepts any money, securities, or property (or extends credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that result or may result therefrom.
+&emsp;&emsp;(B) in or in connection with such solicitation or acceptance of orders, accepts anymoney, securities, or property (or extends credit in lieu thereof) to margin, guarantee, or secure any trades or contracts that result or may result therefrom.
 
 #### (21) Hybrid instrument
 
-&emsp;The term “hybrid instrument” means a security having one or more payments indexedto the value, level, or rate of, or providing for the delivery of, one or more commodities.
+&emsp;The term “hybrid instrument” means a security having one or more payments indexed to the value, level, or rate of, or providing for the delivery of, one or more commodities.
 
 #### (22) Interstate commerce
 
@@ -360,9 +360,9 @@ As used in this chapter:
 
 &emsp;&emsp;(vi) a contract of sale for future delivery on the index is traded on or subject to the rules of a board of trade and meets such requirements as are jointly established by rule, regulation, or order by the Commission and the Securities and Exchange Commission.
 
-&emsp;(C) Within 1 year after December 21, 2000, the Commission and the Securities and Exchange Commission jointly shall adopt rules or regulations that set forth the requirements under subparagraph (B)(iv).
+&emsp;(C) Within 1 year after December 21, 2000, the Commission and the Securities and ExchangeCommission jointly shall adopt rules or regulations that set forth the requirements under subparagraph (B)(iv).
 
-&emsp;(D) An index that is a narrow-based security index solely because it was a narrow-based security index for more than 45 business daysover 3 consecutive calendar months pursuant to clause (iii) of subparagraph (B) shall not be a narrow-based security index for the 3 following calendar months.
+&emsp;(D) An index that is a narrow-based security index solely because it was a narrow-based security index for more than 45 business days over 3 consecutive calendar months pursuant to clause (iii) of subparagraph (B) shall not be a narrow-based security index for the 3 following calendar months.
 
 &emsp;(E) For purposes of subparagraphs (A) and (B)—
 
@@ -438,7 +438,7 @@ As used in this chapter:
 
 #### (C) Special rule
 
-&emsp;&emsp;A person or group of persons that would not otherwise constitute a trading facility shall not be considered to be a trading facility solely as a result of the submission to aderivatives clearing organization of transactions executed on or through the person or group of persons.
+&emsp;&emsp;A person or group of persons that would not otherwise constitute a trading facility shall not be considered to be a trading facility solely as a result of the submission to a derivatives clearing organization of transactions executed on or through the person or group of persons.
 
 (Sept. 21, 1922, ch. 369, §1a, as added Pub. L. 102–546, title IV, §404(a), Oct. 28, 1992, 106 Stat. 3625; amended Pub. L. 106–554, §1(a)(5) \[title I, §§101, 123(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–366, 2763A–405.)
 

@@ -26,5 +26,5 @@ Pub. L. 103–322, §330016(1)(H), substituted “fined under this title” for 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 649 of this title; title 5 section 3374.
+This section is referred to in section 649 of this title; title 5 sections 3374, 3704.
 

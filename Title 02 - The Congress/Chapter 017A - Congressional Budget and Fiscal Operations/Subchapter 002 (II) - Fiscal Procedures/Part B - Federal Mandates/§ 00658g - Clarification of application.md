@@ -18,7 +18,7 @@ This part applies to any bill, joint resolution, amendment, motion, or conferenc
 
 &emsp;The amounts referred to under paragraph (1) are—
 
-&emsp;&emsp;(A) the aggregate amount of direct costs of Federal mandates that would result underthe statute if the bill, joint resolution, amendment, motion, or conference report is enacted; and
+&emsp;&emsp;(A) the aggregate amount of direct costs of Federal mandates that would result under the statute if the bill, joint resolution, amendment, motion, or conference report is enacted; and
 
 &emsp;&emsp;(B) the aggregate amount of direct costs of Federal mandates that would result under the statute if the bill, joint resolution, amendment, motion, or conference report were not enacted.
 

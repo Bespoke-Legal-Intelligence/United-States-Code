@@ -14,7 +14,7 @@ General.—(1) In paragraph (2)(C) of this subsection, “24-hour period” mean
 
 (b)
 
-Determining Time on Duty.—In determining under subsection (a) of this section the time a signal employee is on duty or off duty, the following rules apply:
+Determining Time on Duty.—In determining under subsection (a) of this section the timea signal employee is on duty or off duty, the following rules apply:
 
 &emsp;(1) Time on duty begins when the employee reports for duty and ends when the employee is finally released from duty.
 

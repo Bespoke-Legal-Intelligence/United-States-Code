@@ -16,7 +16,7 @@
 
 #### (2) Use of proceeds of sales
 
-&emsp;Amounts received by the Secretary pursuant to the sale of such loans by a guaranty agency under paragraph (1) of this subsection shall be deducted from the calculations of the amount of reimbursement for which the agency is eligible under paragraph (1)(B)(ii) of this subsection for the fiscal year in which the amount was received, notwithstanding the fact that the default occurred in a prior fiscal year.
+&emsp;Amounts received by the Secretary pursuant to the sale of such loans by a guaranty agency under paragraph (1) of this subsection shall be deducted from the calculations of the amountof reimbursement for which the agency is eligible under paragraph (1)(B)(ii) of this subsection for the fiscal year in which the amount was received, notwithstanding the fact that the default occurred in a prior fiscal year.
 
 #### (3) Borrower eligibility
 

@@ -197,7 +197,7 @@
 | [230\.](Subchapter%20002%20%28II%29%20-%20Common%20Carriers/Part%20001%20%28I%29%20-%20Common%20Carrier%20Regulation/%C2%A7%2000230%20-%20Protection%20for%20private%20blocking%20and%20screening%20of%20offensive%20material.md) | Protection for private blocking and screening of offensive material. |
 | (a) | Findings. |
 | (b) | Policy. |
-| (c) | Protection for Good Samaritan blocking and screening of offensive material. |
+| (c) | Protection for “Good Samaritan” blocking and screening of offensive material. |
 | (d) | Obligations of interactive computer service. |
 | (e) | Effect on other laws. |
 | (f) | Definitions. |
@@ -430,9 +430,10 @@
 | [314\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000314%20-%20Competition%20in%20commerce%3B%20preservation.md) | Competition in commerce; preservation. |
 | [315\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000315%20-%20Candidates%20for%20public%20office.md) | Candidates for public office. |
 | (a) | Equal opportunities requirement; censorship prohibition; allowance of station use; news appearances exception; public interest; public issues discussion opportunities. |
-| (b) | Broadcast media rates. |
+| (b) | Charges. |
 | (c) | Definitions. |
 | (d) | Rules and regulations. |
+| (e) | Political record. |
 | [316\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000316%20-%20Modification%20by%20Commission%20of%20station%20licenses%20or%20construction%20permits%3B%20burden%20of%20proof.md) | Modification by Commission of station licenses or construction permits; burden of proof. |
 | [317\.](Subchapter%20003%20%28III%29%20-%20Special%20Provisions%20Relating%20to%20Radio/Part%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000317%20-%20Announcement%20of%20payment%20for%20broadcast.md) | Announcement of payment for broadcast. |
 | (a) | Disclosure of person furnishing. |
@@ -512,7 +513,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part II—Radio Equipment and Radio Operators on Board Ship
+#### Part II—Radio Equipment and Radio Operators On Board Ship
 
 |  |  |
 | :--- | ---: |
@@ -1081,7 +1082,7 @@ I74subpart a—assistance for planning and construction of public telecommunicat
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 15, 312a, 702, 721, 741, 765, 765b, 921, 923, 925, 926, 1108 of this title; title 7 section 923; title 15 sections 44, 79z–5c, 5625, 5656; title 17 section 119; title 18 section 2511; title 22 section 1465bb; title 40 section 791; title 41 sections 43, 356; title 49 section 70117.
+This chapter is referred to in sections 15, 312a, 702, 721, 741, 765, 765b, 921, 923, 925, 926, 1108 of this title; title 7 section 923; title 15 sections 44, 79z–5c, 5625, 5656; title 17 section 119; title 18 section 2511; title 22 section 1465bb; title 40 section 17708; title 41 sections 43, 356; title 49 section 70117.
 
 
 ---

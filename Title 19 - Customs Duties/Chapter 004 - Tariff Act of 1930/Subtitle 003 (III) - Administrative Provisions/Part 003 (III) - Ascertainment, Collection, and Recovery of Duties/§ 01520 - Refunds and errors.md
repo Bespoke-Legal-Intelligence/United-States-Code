@@ -72,7 +72,7 @@ Pub. L. 103–182, §642(b), struck out subsec. (d) which read as follows: “If
 
 Subsec. (d). Pub. L. 98–573, §210(b), added subsec. (d).
 
-1978—Subsec. (c)(1). Pub. L. 95–410 substituted “appropriate customs officer within one year after the date of liquidation or exaction” for “customs service withinone year after the date of entry, or transaction, or within ninety days after liquidation or exaction when the liquidation or exaction is made more than nine months after the date of the entry, or transaction”.
+1978—Subsec. (c)(1). Pub. L. 95–410 substituted “appropriate customs officer within one year after the date of liquidation or exaction” for “customs service within one year after the date of entry, or transaction, or within ninety days after liquidation or exaction when the liquidation or exaction is made more than nine months after the date of the entry, or transaction”.
 
 1970—Subsec. (c). Pub. L. 91–271 in introductory material substituted “the appropriate customs officer may, in accordance with regulations prescribed by the Secretary,” for “the Secretary of the Treasury may authorize a collector to”, and in par. (1) struck out “appraisement” wherever appearing and substituted “ninety” and “nine” for “sixty” and “ten”, respectively.
 
@@ -111,6 +111,10 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 #### Construction of 1993 Amendment
 
 Amendment by section 206 of Pub. L. 103–182 to be made after amendment by section 642(b) of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of theDepartment of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

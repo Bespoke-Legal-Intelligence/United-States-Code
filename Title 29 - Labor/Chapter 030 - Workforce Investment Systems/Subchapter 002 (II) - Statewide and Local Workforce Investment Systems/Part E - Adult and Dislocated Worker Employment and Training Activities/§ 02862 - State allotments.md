@@ -6,7 +6,7 @@ The Secretary shall—
 
 &emsp;(1) make allotments and grants from the total amount appropriated under section 2872(b) of this title for a fiscal year in accordance with subsection (b)(1) of this section; and
 
-&emsp;(2)(A) reserve 20 percent of the amount appropriated under section 2872(c) of this title for a fiscal year for use under subsection (b)(2)(A) of this section, and under sections 2915(b) (relating to dislocated worker technical assistance), 2916(d) (relating to dislocated worker projects), and 2918 (relating to national emergency grants) of this title; and
+&emsp;(2)(A) reserve 20 percent of the amount appropriated under section 2872(c) of this title for a fiscal year for use under subsection (b)(2)(A) of this section, and under sections 2915(b) (relating to dislocated worker technical assistance), 2916(d) (relating to dislocated worker projects), and 2918 (relating to national emergency grants, other than under subsection <sup>1</sup> (a)(4), (f), and (g)) of this title; and
 
 &emsp;(B) make allotments from 80 percent of the amount appropriated under section 2872(c) of this title for a fiscal year in accordance with subsection (b)(2)(B) of this section.
 
@@ -122,7 +122,7 @@ The Secretary shall—
 
 #### (ii) Applicability of additional requirements
 
-&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistance to the outlying areas for dislocated worker employment and training activities and statewide workforce investment activities in accordance with the requirements of section 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(a) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 302(e) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
+&emsp;&emsp;&emsp;From the amount reserved under clause (i), the Secretary shall provide assistance to the outlying areas for dislocated worker employment and training activities and statewide workforce investment activities in accordance with the requirements ofsection 2852(b)(1)(B) of this title, except that the reference in section 2852(b)(1)(B)(i)(II) of this title to sections 252(a) and 262(a)(1) of the Job Training Partnership Act shall be deemed to be a reference to section 302(e) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
 
 #### (B) States
 
@@ -176,15 +176,25 @@ The Secretary shall—
 
 #### (5) Procedures
 
-&emsp;The Governor of each State shall prescribe uniform procedures for the obligation of funds by local areas within the State in order to avoid the requirement that funds be made available for reallotment under this subsection. The Governor shall further prescribe equitable procedures for making funds available from the State and local areas in theevent that a State is required to make funds available for reallotment under this subsection.
+&emsp;The Governor of each State shall prescribe uniform procedures for the obligation of funds by local areas within the State in order to avoid the requirement that funds be made available for reallotment under this subsection. The Governor shall further prescribe equitable procedures for making funds available from the State and local areas in the event that a State is required to make funds available for reallotment under this subsection.
 
-(Pub. L. 105–220, title I, §132, Aug. 7, 1998, 112 Stat. 983.)
+(Pub. L. 105–220, title I, §132, Aug. 7, 1998, 112 Stat. 983; Pub. L. 107–210, div. A, title II, §203(d), Aug. 6, 2002, 116 Stat. 969.)
 
 #### References in Text
 
 The Job Training Partnership Act, referred to in subsec. (b)(1)(A)(ii), (B)(iv)(I)(bb), (IV), (v)(II), (2)(A)(ii), is Pub. L. 97–300, Oct. 13, 1982, 96 Stat. 1322, as amended, which was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Part A of title II of the Act was classified generally to part A (§1601 et seq.) of subchapter II of chapter 19 of this title, prior to repeal by Pub. L. 105–220. Sections 202, 252, 262, and 302 of the Act were classified to sections 1602, 1631, 1642, and 1652 of this title, respectively, prior to repeal by Pub. L. 105–220. For complete classification of this Act to the Code, see Tables.
 
+#### Amendments
+
+2002—Subsec. (a)(2)(A). Pub. L. 107–210 inserted “, other than under subsection (a)(4), (f), and (g)” after “national emergency grants”.
+
+#### Construction of 2002 Amendment
+
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 2801, 2822, 2831, 2853, 2854, 2861, 2863, 2864, 2871, 2872, 2915, 2916, 2918, 2932, 2944 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsections”.</i>
 

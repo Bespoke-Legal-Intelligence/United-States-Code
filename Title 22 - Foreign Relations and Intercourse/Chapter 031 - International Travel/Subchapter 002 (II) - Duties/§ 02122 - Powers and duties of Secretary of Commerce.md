@@ -50,7 +50,7 @@ Section 3 of Pub. L. 102–372 provided that: “The Secretary of Commerce, to t
 
 &emsp;“(1) expanding the survey to cover travel to and from the Middle East, Africa, South America, and the Caribbean and enhancing coverage for Mexico, Oceania, the Far East, and Europe; and
 
-&emsp;“(2) improving the methodology for conducting on-board surveys by (A) enhancing communications, training, and liaison activities in cooperation with participating air carriers, (B) providing for the continuation of needed data bases, and (C) utilizing improved sampling procedures.
+&emsp;“(2) improving the methodology for conducting on-board surveys by (A) enhancing communications,training, and liaison activities in cooperation with participating air carriers, (B) providing for the continuation of needed data bases, and (C) utilizing improved sampling procedures.
 
 > The Secretary of Commerce shall seek to increase the reporting frequency of the data provided by Statistics Canada and the Bank of Mexico on international travel trade between the United States and both Canada and Mexico. The Secretary shall improve the quarterly statistical report on United States international travel receipts and payments published in the Bureau of Economic Analysis document known as ‘The Survey of Current Services’ and heighten its visibility.”
 

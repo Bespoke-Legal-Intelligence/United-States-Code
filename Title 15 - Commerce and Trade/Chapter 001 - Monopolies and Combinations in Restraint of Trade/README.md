@@ -93,19 +93,19 @@
 | (a) | Limitations on the use of credit instruments; sales, resales, and transfers. |
 | (b) | Credit fees; equivalent conventional motor fuel sales; labeling of pumps; product liability disclaimers; advertising support; furnishing facilities. |
 | (c) | “United States” defined. |
-| [27\.](%C2%A7%2000027%20-%20Effect%20of%20partial%20invalidity.md) | Effect of partial invalidity. |
-| [27a.](%C2%A7%2000027a%20-%20Application%20of%20antitrust%20laws%20to%20professional%20major%20league%20baseball.md) | Application of antitrust laws to professional major league baseball. |
+| [26b.](%C2%A7%2000026b%20-%20Application%20of%20antitrust%20laws%20to%20professional%20major%20league%20baseball.md) | Application of antitrust laws to professional major league baseball. |
 | (a) | Major league baseball subject to antitrust laws. |
 | (b) | Limitation of section. |
 | (c) | Standing to sue. |
 | (d) | Conduct, acts, practices, or agreements subject to antitrust laws. |
+| [27\.](%C2%A7%2000027%20-%20Effect%20of%20partial%20invalidity.md) | Effect of partial invalidity. |
+| [27a.](%C2%A7%2000027a%20-%20Transferred.md) | Transferred. |
 | [28\.](%C2%A7%2000028%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93620%2C%20title%20IV%2C%20%C2%A7402%2811%29%2C%20Nov.%208%2C%201984%2C%2098%20Stat.%203358.md) | Repealed. |
 | [29\.](%C2%A7%2000029%20-%20Appeals.md) | Appeals. |
 | (a) | Court of appeals; review by Supreme Court. |
 | (b) | Direct appeals to Supreme Court. |
-| [30\.](%C2%A7%2000030%20-%20Depositions%20for%20use%20in%20suits%20in%20equity%3B%20proceedings%20open%20to%20public.md) | Depositions for use in suits in equity; proceedings open to public. |
-| [31\.](%C2%A7%2000031%20-%20Panama%20Canal%20closed%20to%20violators%20of%20antitrust%20laws.md) | Panama Canal closed to violators of antitrust laws. |
-| 32, 33. | Repealed. |
+| [30\.](%C2%A7%2000030%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93273%2C%20div.%20C%2C%20title%20IV%2C%20%C2%A714102%28f%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201922.md) |  |
+| 30 to 33. | Repealed. |
 | [34\.](%C2%A7%2000034%20-%20Definitions%20applicable%20to%20sections%2034%20to%2036.md) | Definitions applicable to sections 34 to 36. |
 | [35\.](%C2%A7%2000035%20-%20Recovery%20of%20damages%2C%20etc.%2C%20for%20antitrust%20violations%20from%20any%20local%20government%2C%20or%20official%20or%20employee%20thereof%20acting%20in%20an%20official%E2%80%A6.md) | Recovery of damages, etc., for antitrust violations from any local government, or official or employee thereof acting in an official capacity. |
 | (a) | Prohibition in general. |
@@ -128,7 +128,7 @@ This chapter includes among other statutory provisions the Sherman Act, comprisi
 
 #### Congressional Investigation of Monopoly
 
-Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, created a Temporary National Economic Committee which was authorized to make a full investigation on monopoly and the concentration of economic power in and financial control over production and distribution of goods and services. The time for submitting the final report under Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, as amended Apr. 26, 1939, ch. 104, §§1, 2, 53 Stat. 624, was extended to Apr. 3, 1941, by Joint Res. Dec. 16, 1940, ch. 932, 54 Stat. 1225. The committee's report was presented to Congress on Mar. 31, 1941, and was published in Senate Document No. 35.
+Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, created a Temporary National Economic Committee which was authorized to make a full investigation on monopoly and the concentration of economic power in and financial control over production and distribution of goods and services. The time for submitting the final reportunder Joint Res. June 16, 1938, ch. 456, 52 Stat. 705, as amended Apr. 26, 1939, ch. 104, §§1, 2, 53 Stat. 624, was extended to Apr. 3, 1941, by Joint Res. Dec. 16, 1940, ch. 932, 54 Stat. 1225. The committee's report was presented to Congress on Mar. 31, 1941, and was published in Senate Document No. 35.
 
 #### Executive Order No. 12022
 
@@ -136,7 +136,7 @@ Ex. Ord. No. 12022, Dec. 1, 1977, 42 F.R. 61441, as amended by Ex. Ord. No. 1205
 
 #### Antitrust Acts and Laws Defined in Other Sections
 
-Antitrust acts and laws are defined in sections 12, 44, 1311, 1802, 3301, 3503, 4002, 4021, 4301, 6211 of this title; title 10 section 7430; title 12 sections 1828, 1831u, 1841, 1849; title 16 section 2602; title 17 section 109; title 28 section 1407; title 30 sections 184, 1413; title 33 section 1502; title 40 section 488; title 42 sections 5417, 5909, 6202, 8235f, 9102; title 43 sections 1331, 1770; title 45 section 791; title 46 App. section 1702; title 49 sections 10706, 41308; title 50 App. sections 1941a, 2158.
+Antitrust acts and laws are defined in sections 12, 44, 1311, 1802, 3301, 3503, 4002, 4021, 4301, 6211 of this title; title 10 section 7430; title 12 sections 1828, 1831u, 1841, 1849; title 16 section 2602; title 17 section 109; title 28 section 1407; title 30 sections 184, 1413; title 33 section 1502; title 40 section 559; title 42 sections 5417, 5909, 6202, 8235f, 9102; title 43 sections 1331, 1770; title 45 section 791; title 46 App. section 1702; title 49 sections 10706, 41308; title 50 App. sections 1941a, 2158.
 
 
 ---
@@ -185,12 +185,13 @@ Antitrust acts and laws are defined in sections 12, 44, 1311, 1802, 3301, 3503, 
 - [&sect; 00025 - Restraining violations; procedure](%C2%A7%2000025%20-%20Restraining%20violations%3B%20procedure.md)
 - [&sect; 00026 - Injunctive relief for private parties; exception; costs](%C2%A7%2000026%20-%20Injunctive%20relief%20for%20private%20parties%3B%20exception%3B%20costs.md)
 - [&sect; 00026a - Restrictions on the purchase of gasohol and synthetic motor fuel](%C2%A7%2000026a%20-%20Restrictions%20on%20the%20purchase%20of%20gasohol%20and%20synthetic%20motor%20fuel.md)
+- [&sect; 00026b - Application of antitrust laws to professional major league baseball](%C2%A7%2000026b%20-%20Application%20of%20antitrust%20laws%20to%20professional%20major%20league%20baseball.md)
 - [&sect; 00027 - Effect of partial invalidity](%C2%A7%2000027%20-%20Effect%20of%20partial%20invalidity.md)
-- [&sect; 00027a - Application of antitrust laws to professional major league baseball](%C2%A7%2000027a%20-%20Application%20of%20antitrust%20laws%20to%20professional%20major%20league%20baseball.md)
+- [&sect; 00027a - Transferred](%C2%A7%2000027a%20-%20Transferred.md)
 - [&sect; 00028 - Repealed. Pub. L. 98&#8211;620, title IV, &sect;402(11), Nov. 8, 1984, 98 Stat. 3358](%C2%A7%2000028%20-%20Repealed.%20Pub.%20L.%2098%E2%80%93620%2C%20title%20IV%2C%20%C2%A7402%2811%29%2C%20Nov.%208%2C%201984%2C%2098%20Stat.%203358.md)
 - [&sect; 00029 - Appeals](%C2%A7%2000029%20-%20Appeals.md)
-- [&sect; 00030 - Depositions for use in suits in equity; proceedings open to public](%C2%A7%2000030%20-%20Depositions%20for%20use%20in%20suits%20in%20equity%3B%20proceedings%20open%20to%20public.md)
-- [&sect; 00031 - Panama Canal closed to violators of antitrust laws](%C2%A7%2000031%20-%20Panama%20Canal%20closed%20to%20violators%20of%20antitrust%20laws.md)
+- [&sect; 00030 - Repealed. Pub. L. 107&#8211;273, div. C, title IV, &sect;14102(f), Nov. 2, 2002, 116 Stat. 1922](%C2%A7%2000030%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93273%2C%20div.%20C%2C%20title%20IV%2C%20%C2%A714102%28f%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201922.md)
+- [&sect; 00031 - Repealed. Pub. L. 107&#8211;273, div. C, title IV, &sect;14102(a), Nov. 2, 2002, 116 Stat. 1921](%C2%A7%2000031%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93273%2C%20div.%20C%2C%20title%20IV%2C%20%C2%A714102%28a%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201921.md)
 - [&sect; 00032, 33 - Repealed. Pub. L. 91&#8211;452, title II, &sect;&sect;209, 210, Oct. 15, 1970, 84 Stat. 929](%C2%A7%2000032%2C%2033%20-%20Repealed.%20Pub.%20L.%2091%E2%80%93452%2C%20title%20II%2C%20%C2%A7%C2%A7209%2C%20210%2C%20Oct.%2015%2C%201970%2C%2084%20Stat.%20929.md)
 - [&sect; 00034 - Definitions applicable to sections 34 to 36](%C2%A7%2000034%20-%20Definitions%20applicable%20to%20sections%2034%20to%2036.md)
 - [&sect; 00035 - Recovery of damages, etc., for antitrust violations from any local government, or official or employee thereof acting in an official&#8230;](%C2%A7%2000035%20-%20Recovery%20of%20damages%2C%20etc.%2C%20for%20antitrust%20violations%20from%20any%20local%20government%2C%20or%20official%20or%20employee%20thereof%20acting%20in%20an%20official%E2%80%A6.md)

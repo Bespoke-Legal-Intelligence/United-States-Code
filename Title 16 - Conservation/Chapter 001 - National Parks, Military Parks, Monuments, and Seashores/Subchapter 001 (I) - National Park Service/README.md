@@ -31,6 +31,7 @@
 - [&sect; 00002 - National parks, reservations, and monuments; supervision](%C2%A7%2000002%20-%20National%20parks%2C%20reservations%2C%20and%20monuments%3B%20supervision.md)
 - [&sect; 00003 - Rules and regulations of national parks, reservations, and monuments; timber; leases](%C2%A7%2000003%20-%20Rules%20and%20regulations%20of%20national%20parks%2C%20reservations%2C%20and%20monuments%3B%20timber%3B%20leases.md)
 - [&sect; 00003a - Recovery of costs associated with special use permits](%C2%A7%2000003a%20-%20Recovery%20of%20costs%20associated%20with%20special%20use%20permits.md)
+- [&sect; 00003b - Maintenance and repair of Government improvements under concession contracts](%C2%A7%2000003b%20-%20Maintenance%20and%20repair%20of%20Government%20improvements%20under%20concession%20contracts.md)
 - [&sect; 00004 - Rights-of-way through public lands](%C2%A7%2000004%20-%20Rights-of-way%20through%20public%20lands.md)
 - [&sect; 00005 - Rights-of-way through parks or reservations for power and communications facilities](%C2%A7%2000005%20-%20Rights-of-way%20through%20parks%20or%20reservations%20for%20power%20and%20communications%20facilities.md)
 - [&sect; 00006 - Donations of lands within national parks and monuments and moneys](%C2%A7%2000006%20-%20Donations%20of%20lands%20within%20national%20parks%20and%20monuments%20and%20moneys.md)

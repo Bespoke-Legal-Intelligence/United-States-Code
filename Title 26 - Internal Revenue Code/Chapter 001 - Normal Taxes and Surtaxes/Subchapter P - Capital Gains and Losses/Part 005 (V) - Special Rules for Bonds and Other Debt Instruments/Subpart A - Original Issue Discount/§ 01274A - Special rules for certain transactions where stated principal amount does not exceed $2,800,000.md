@@ -1,0 +1,110 @@
+### §1274A. Special rules for certain transactions where stated principal amount does not exceed $2,800,000
+
+#### (a) Lower discount rate
+
+In the case of any qualified debt instrument, the discount rate used for purposes of sections 483 and 1274 shall not exceed 9 percent, compounded semiannually.
+
+#### (b) Qualified debt instrument defined
+
+For purposes of this section, the term “qualified debt instrument” means any debt instrument given in consideration for the sale or exchange of property (other than new section 38 property within the meaning of section 48(b), as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990) if the stated principal amount of such instrument does not exceed $2,800,000.
+
+#### (c) Election to use cash method where stated principal amount does not exceed $2,000,000
+
+#### (1) In general
+
+&emsp;In the case of any cash method debt instrument—
+
+&emsp;&emsp;(A) section 1274 shall not apply, and
+
+&emsp;&emsp;(B) interest on such debt instrument shall be taken into account by both the borrower and the lender under the cash receipts and disbursements method of accounting.
+
+#### (2) Cash method debt instrument
+
+&emsp;For purposes of paragraph (1), the term “cash method debt instrument” means any qualified debt instrument if—
+
+&emsp;&emsp;(A) the stated principal amount does not exceed $2,000,000,
+
+&emsp;&emsp;(B) the lender does not use an accrual method of accounting and is not a dealer with respect to the property sold or exchanged,
+
+&emsp;&emsp;(C) section 1274 would have applied to such instrument but for an election under this subsection, and
+
+&emsp;&emsp;(D) an election under this subsection is jointly made with respect to such debt instrument by the borrower and lender.
+
+#### (3) Successors bound by election
+
+#### (A) In general
+
+&emsp;&emsp;Except as provided in subparagraph (B), paragraph (1) shall apply to any successor to the borrower or lender with respect to a cash method debt instrument.
+
+#### (B) Exception where lender transfers debt instrument to accrual method taxpayer
+
+&emsp;&emsp;If the lender (or any successor) transfers any cash method debt instrument to a taxpayer who uses an accrual method of accounting, this paragraph shall not apply with respect to such instrument for periods after such transfer.
+
+#### (4) Fair market value rule in potentially abusive situations
+
+&emsp;In the case of any cash method debt instrument, section 483 shall be applied as if it included provisions similar to the provisions of section 1274(b)(3).
+
+#### (d) Other special rules
+
+#### (1) Aggregation rules
+
+&emsp;For purposes of this section—
+
+&emsp;&emsp;(A) all sales or exchanges which are part of the same transaction (or a series of related transactions) shall be treated as 1 sale or exchange, and
+
+&emsp;&emsp;(B) all debt instruments arising from the same transaction (or a series of related transactions) shall be treated as 1 debt instrument.
+
+#### (2) Inflation adjustments
+
+#### (A) In general
+
+&emsp;&emsp;In the case of any debt instrument arising out of a sale or exchange during any calendar year after 1989, each dollar amount contained in the preceding provisions of this section shall be increased by the inflation adjustment for such calendar year. Any increase under the preceding sentence shall be rounded to the nearest multiple of $100 (or, if such increase is a multiple of $50, such increase shall be increased to the nearest multiple of $100).
+
+#### (B) Inflation adjustment
+
+&emsp;&emsp;For purposes of subparagraph (A), the inflation adjustment for any calendar year is the percentage (if any) by which—
+
+&emsp;&emsp;&emsp;(i) the CPI for the preceding calendar year exceeds
+
+&emsp;&emsp;&emsp;(ii) the CPI for calendar year 1988.
+
+> &emsp;&emsp;For purposes of the preceding sentence, the CPI for any calendar year is the average of the Consumer Price Index as of the close of the 12-month period ending on September 30 of such calendar year.
+
+#### (e) Regulations
+
+The Secretary shall prescribe such regulations as may be necessary to carry out the purposes of this subsection, including—
+
+&emsp;(1) regulations coordinating the provisions of this section with other provisions of this title,
+
+&emsp;(2) regulations necessary to prevent the avoidance of tax through the abuse of the provisions of subsection (c), and
+
+&emsp;(3) regulations relating to the treatment of transfers of cash method debt instruments.
+
+(Added Pub. L. 99–121, title I, §102(a), Oct. 11, 1985, 99 Stat. 506; amended Pub. L. 101–508, title XI, §11813(b)(22), Nov. 5, 1990, 104 Stat. 1388–555; Pub. L. 104–188, title I, §1704(t)(62), Aug. 20, 1996, 110 Stat. 1890.)
+
+#### References in Text
+
+The date of the enactment of the Revenue Reconciliation Act of 1990, referred to in subsec. (b), is the date of enactment of Pub. L. 101–508, which was approved Nov. 5, 1990.
+
+#### Amendments
+
+1996—Subsec. (c)(1)(B). Pub. L. 104–188 substituted “instrument” for “instument”.
+
+1990—Subsec. (b). Pub. L. 101–508 inserted “, as in effect on the day before the date of the enactment of the Revenue Reconciliation Act of 1990” after “section 48(b)”.
+
+#### Effective Date of 1990 Amendment
+
+Amendment by Pub. L. 101–508 applicable to property placed in service after Dec. 31, 1990, but not applicable to any transition property (as defined in section 49(e) of this title), any property with respect to which qualified progress expenditures were previously taken into account under section 46(d) of this title, and any property described in section 46(b)(2)(C) of this title, as such sections were in effect on Nov. 4, 1990, see section 11813(c) of Pub. L. 101–508, set out as a note under section 29 of this title.
+
+#### Effective Date
+
+Section applicable to sales and exchanges after June 30, 1985, in taxable years ending after such date, see section 105(a)(1) of Pub. L. 99–121, set out as an Effective Date of 1985 Amendment note under section 1274 of this title.
+
+#### Savings Provision
+
+For provisions that nothing in amendment by Pub. L. 101–508 be construed to affect treatment of certain transactions occurring, property acquired, or items of income, loss, deduction, or credit taken into account prior to Nov. 5, 1990, for purposes of determining liability for tax for periods ending after Nov. 5, 1990, see section 11821(b) of Pub. L. 101–508, set out as a note under section 29 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 483, 1274 of this title.
+

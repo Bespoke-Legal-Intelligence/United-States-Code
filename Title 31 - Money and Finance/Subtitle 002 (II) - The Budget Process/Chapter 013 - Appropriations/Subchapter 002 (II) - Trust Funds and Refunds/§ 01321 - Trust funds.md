@@ -228,11 +228,11 @@ The Longshore and Harbor Workers’ Compensation Act, referred to in subsec. (a)
 
 The International Boundary Commission, United States and Mexico, referred to in subsec. (a)(41), was redesignated the International Boundary and Water Commission, United States and Mexico, by the Water Treaty of 1944.
 
-The National Capital Park and Planning Commission, referred to in subsec. (a)(53), was abolished and its functions transferred to the National Capital Planning Commission by section 9 of act June 6, 1924, ch. 270, as added by act July 19, 1952, ch. 949, §1, 66 Stat. 790, which enacted section 71h of Title 40, Public Buildings, Property, and Works.
+The National Capital Park and Planning Commission, referred to in subsec. (a)(53), was abolished and its functions transferred to the National Capital Planning Commission by section 9 of act June 6, 1924, ch. 270, as added by act July 19, 1952, ch. 949, §1, 66 Stat. 790, which was classified to section 71h of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 8711(f) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
 The Rock Creek and Potomac Parkway Commission, referred to in subsec. (a)(54), was abolished and its functions transferred to the Office of National Parks, Buildings, and Reservations, Department of the Interior, by Ex. Ord. No. 6166, §2, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees.
 
-The District of Columbia Workmen's Compensation Act, referred to in subsec. (a)(57), probably means the District of Columbia Unemployment Compensation Act, act Aug. 28, 1935, ch. 794, 49 Stat. 946, as amended, which is not classified to the Code.
+The District of Columbia Workmen's Compensation Act, referred to in subsec. (a)(57), probably means theDistrict of Columbia Unemployment Compensation Act, act Aug. 28, 1935, ch. 794, 49 Stat. 946, as amended, which is not classified to the Code.
 
 #### Amendments
 

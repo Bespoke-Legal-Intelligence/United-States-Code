@@ -62,7 +62,7 @@ In this section—
 
 #### (2) Other fiscal years
 
-&emsp;For any fiscal year in which the sums appropriated to carry out this section are less than $20,000,000, the Secretary may award grants on a competitive basis to eligible community-based organizations to pay for the Federal share of assisting eligible communities to develop and carry out programs in accordance with this section.
+&emsp;For any fiscal year in which the sums appropriated to carry out this section are less than$20,000,000, the Secretary may award grants on a competitive basis to eligible community-based organizations to pay for the Federal share of assisting eligible communities to develop and carry out programs in accordance with this section.
 
 #### (3) Administrative costs
 
@@ -170,7 +170,7 @@ In this section—
 
 &emsp;&emsp;(J) include a description of charitable private resources, and all other resources, that will be made available to achieve the goals of the program;
 
-&emsp;&emsp;(K) contain an assurance that the community-based organization will use competitive procedures when purchasing, contracting, orotherwise providing for goods, activities, or services to carry out programs under this section;
+&emsp;&emsp;(K) contain an assurance that the community-based organization will use competitive procedures when purchasing, contracting, or otherwise providing for goods, activities, or services to carry out programs under this section;
 
 &emsp;&emsp;(L) contain an assurance that the program will maintain a staff-to-participant ratio (including volunteers) that is appropriate to the activity or services provided by the program;
 

@@ -44,7 +44,7 @@
 
 (2) Amounts appropriated under this subsection shall be available until expended when so provided in appropriation Acts.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1294; Pub. L. 92–546, §1(c), Oct. 25, 1972, 86 Stat. 1155; Pub. L. 93–536, §1(c), Dec. 22, 1974, 88 Stat. 1735; Pub. L. 96–98, §1, Nov. 1, 1979, 93 Stat. 731; Pub. L. 98–189, Nov. 30, 1983, 97 Stat. 1323; Pub. L. 98–497, title I, §107(b)(10), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 100–365, §4, July 13, 1988, 102 Stat. 824; Pub. L. 103–262, §1, May 31, 1994, 108 Stat. 706; Pub. L. 104–274, §1, Oct. 9, 1996, 110 Stat. 3321; Pub. L. 106–410, Nov. 1, 2000, 114 Stat. 1788.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1294; Pub. L. 92–546, §1(c), Oct. 25, 1972, 86 Stat. 1155; Pub.L. 93–536, §1(c), Dec. 22, 1974, 88 Stat. 1735; Pub. L. 96–98, §1, Nov. 1, 1979, 93 Stat. 731; Pub. L. 98–189, Nov. 30, 1983, 97 Stat. 1323; Pub. L. 98–497, title I, §107(b)(10), Oct. 19, 1984, 98 Stat. 2287; Pub. L. 100–365, §4, July 13, 1988, 102 Stat. 824; Pub. L. 103–262, §1, May 31, 1994, 108 Stat. 706; Pub. L. 104–274, §1, Oct. 9, 1996, 110 Stat. 3321; Pub. L. 106–410, Nov. 1, 2000, 114 Stat. 1788.)
 
 #### Historical and Revision Notes
 

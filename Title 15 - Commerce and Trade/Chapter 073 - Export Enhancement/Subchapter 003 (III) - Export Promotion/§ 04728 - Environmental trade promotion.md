@@ -18,7 +18,7 @@ It is the policy of the United States to foster the export of United States envi
 
 &emsp;The members of the Working Group shall be—
 
-&emsp;&emsp;(A) representatives of the departments and agencies that are represented on the TPCC, who are designated by the head of their respective departments or agencies to advise the head of such department or agency on ways of promoting the export of United States environmental technologies, goods, and services; and
+&emsp;&emsp;(A) representatives of the departments and agencies that are represented on the TPCC, who are designated by the head of their respective departments or agencies to advisethe head of such department or agency on ways of promoting the export of United States environmental technologies, goods, and services; and
 
 &emsp;&emsp;(B) a representative of the Environmental Protection Agency.
 
@@ -64,7 +64,7 @@ It is the policy of the United States to foster the export of United States envi
 
 #### (1) Priority country identification
 
-&emsp;The Working Group, in consultation with the Committee, shall annually assess which foreign countries have markets with thegreatest potential for the export of United States environmental technologies, goods, and services. Of these countries the Working Group shall select as priority countries 5 with the greatest potential for the application of United States Government export promotion resources related to environmental exports.
+&emsp;The Working Group, in consultation with the Committee, shall annually assess which foreign countries have markets with the greatest potential for the export of United States environmental technologies, goods, and services. Of these countries the Working Group shall select as priority countries 5 with the greatest potential for the application of United States Government export promotion resources related to environmental exports.
 
 #### (2) Export plans
 
@@ -124,7 +124,7 @@ In addition to the training provided under subsection (f)(2)(C) of this section,
 
 #### (1) Establishment of initiatives
 
-&emsp;The TPCC may establish one or more international regional environmental initiativesthe purpose of which shall be to coordinate the activities of Federal departments and agencies in order to build environmental partnerships between the United States and the geographic region outside the United States for which such initiative is established. Such partnerships shall enhance environmental protection and promote sustainable development by using in the region technical expertise and financial resources of United States departments and agencies that provide foreign assistance and by expanding United States exports of environmental technologies, goods, and services to that region.
+&emsp;The TPCC may establish one or more international regional environmental initiatives the purpose of which shall be to coordinate the activities of Federal departments and agencies in order to build environmental partnerships between the United States and the geographic region outside the United States for which such initiative is established. Such partnerships shall enhance environmental protection and promote sustainable development by using in the region technical expertise and financial resources of United States departments and agencies that provide foreign assistance and by expanding United States exports of environmental technologies, goods, and services to that region.
 
 #### (2) Activities
 

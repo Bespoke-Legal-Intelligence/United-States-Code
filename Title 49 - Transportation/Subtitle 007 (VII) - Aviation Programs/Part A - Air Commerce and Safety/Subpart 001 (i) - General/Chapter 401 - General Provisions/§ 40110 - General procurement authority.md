@@ -52,13 +52,13 @@ Duties and Powers.—When carrying out subsection (a) of this section, the Admin
 
 &emsp;&emsp;(B) consider the reasonable probable future use of the underlying land in making an award for a condemnation of an interest in airspace;
 
-&emsp;&emsp;(C) construct, or acquire an interest in, a public building (as defined in section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612)) only under a delegation of authority from the Administrator of General Services;
+&emsp;&emsp;(C) construct, or acquire an interest in, a public building (as defined in section 3301(a) of title 40) only under a delegation of authority from the Administrator of General Services;
 
 &emsp;&emsp;(D) use procedures other than competitive procedures, as provided under section 303(c) of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 253(c));
 
 &emsp;&emsp;(E) use procedures other than competitive procedures only when the property or services needed by the Administrator of the Federal Aviation Administration are available from only one responsible source or only from a limited number of responsible sources and no other type of property or services will satisfy the needs of the Administrator; and
 
-&emsp;&emsp;(F) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.).
+&emsp;&emsp;(F) dispose of property under subsection (a)(2) of this section, except for airport and airway property and technical equipment used for the special purposes of the Administration, only under sections 121, 123, and 126 and chapter 5 of title 40.
 
 (d)
 
@@ -114,13 +114,13 @@ General rule.—Except as provided in paragraph (2), a proposal in the possessio
 
 &emsp;(2)
 
-Exception.—Paragraph (1) shall not apply to any portion of a proposal of an offeror the disclosure of which is authorized by theAdministrator pursuant to procedures published in the Federal Register. The Administrator shall provide an opportunity for public comment on the procedures for a period of not less than 30 days beginning on the date of such publication in order to receive and consider the views of all interested parties on the procedures. The procedures shall not take effect before the 60th day following the date of such publication.
+Exception.—Paragraph (1) shall not apply to any portion of a proposal of an offeror the disclosure of which is authorized by the Administrator pursuant to procedures published in the Federal Register. The Administrator shall provide an opportunity for public comment on the procedures for a period of not less than 30 days beginning on the date of such publication in order to receive and consider the views of all interested parties on the procedures. The procedures shall not take effect before the 60th day following the date of such publication.
 
 &emsp;(3)
 
 Proposal defined.—In this subsection, the term “proposal” means information contained in or originating from any proposal, including a technical, management, or cost proposal, submitted by an offeror in response to the requirements of a solicitation for a competitive proposal.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1106; Pub. L. 103–429, §6(48), (80), Oct. 31, 1994, 108 Stat. 4384, 4388; Pub. L. 104–264, title XII, §1201, Oct. 9, 1996, 110 Stat. 3279; Pub. L. 106–181, title III, §307(b), title VII, §703, Apr. 5, 2000, 114 Stat. 125, 156; Pub. L. 107–217, §3(n)(5), Aug. 21, 2002, 116 Stat. 1302.)
 
 Historical and Revision Notes
 
@@ -188,7 +188,7 @@ This amends 49:40110(a) to clarify the restatement of 49 App.:1344(a)(1)–(3) b
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsecs. (c)(2)(F) and (d)(2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title II of the Act is classified principally to subchapter II (§481 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d)(2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 The Office of Federal Procurement Policy Act, referred to in subsec. (d)(2)(B), (3)(B), (C), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
 
@@ -198,11 +198,15 @@ The Small Business Act, referred to in subsec. (d)(2)(D), is Pub. L. 85–536, J
 
 The Competition in Contracting Act, referred to in subsec. (d)(2)(E), probably means the Competition in Contracting Act of 1984, which is title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175. For complete classification of this Act to the Code, see Short Title of 1984 Amendments note set out under section 251 of Title 41, Public Contracts, and Tables.
 
-The Brooks Automatic Data Processing Act, referred to in subsec. (d)(2)(G), is act June 30, 1949, ch. 288, title I, §111, as added Oct. 30, 1965, Pub. L. 89–306, 79 Stat. 1127, as amended, which was classified to section 759 of Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–106, div. E, title LI, §5101, Feb. 10, 1996, 110 Stat. 680.
+The Brooks Automatic Data Processing Act, referred to in subsec. (d)(2)(G), is act June 30, 1949, ch. 288, title I, §111, as added Oct. 30, 1965, Pub. L. 89–306, 79 Stat. 1127, as amended, which was classified to section 759 of former Title 40, Public Buildings, Property, and Works, prior to repeal by Pub. L. 104–106, div. E, title LI, §5101, Feb. 10, 1996, 110 Stat. 680.
 
 The date of the enactment of the Wendell H. Ford Aviation Investment and Reform Act for the 21st Century, referred to in subsec. (d)(3)(B), is the date of enactment of Pub. L. 106–181, which was approved Apr. 5, 2000.
 
 #### Amendments
+
+2002—Subsec. (c)(2)(C). Pub. L. 107–217, §3(n)(5)(A), substituted “(as defined in section 3301(a) of title 40)” for “(as defined in section 13 of the Public Buildings Act of 1959 (40 U.S.C. 612))”.
+
+Subsec. (c)(2)(F). Pub. L. 107–217, §3(n)(5)(B), substituted “sections 121, 123, and 126 and chapter 5 of title 40” for “title II of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481 et seq.)”.
 
 2000—Subsecs. (d), (e). Pub. L. 106–181 added subsecs. (d) and (e).
 

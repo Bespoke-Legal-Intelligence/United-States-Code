@@ -4,7 +4,7 @@ A State Police Corps plan shall—
 
 &emsp;(1) provide for the screening and selection of participants in accordance with the criteria set out in section 14096 of this title;
 
-&emsp;(2) state procedures governing the assignment of participants in the Police Corps program to State and local police forces (no more than 10 percent of all the participants assigned in each year by each State to be assigned to a statewide police force or forces);
+&emsp;(2) state procedures governing the assignment of participants in the Police Corps program to State and local police forces (except with permission of the Director, no more than 25 percent of all the participants assigned in each year by each State to be assigned to a statewide police force or forces);
 
 &emsp;(3) provide that participants shall be assigned to those geographic areas in which—
 
@@ -34,9 +34,13 @@ A State Police Corps plan shall—
 
 &emsp;(10) provide that a participant shall, while serving as a member of a police force, be compensated at the same rate of pay and benefits and enjoy the same rights under applicable agreements with labor organizations and under State and local law as other police officers of the same rank and tenure in the police force of which the participant is a member.
 
-(Pub. L. 103–322, title XX, §200110, Sept. 13, 1994, 108 Stat. 2056.)
+(Pub. L. 103–322, title XX, §200110, Sept. 13, 1994, 108 Stat. 2056; Pub. L. 107–273, div. C, title I, §11006(3), Nov. 2, 2002, 116 Stat. 1817.)
+
+#### Amendments
+
+2002—Par. (2). Pub. L. 107–273 substituted “except with permission of the Director, no more than 25 percent” for “no more than 10 percent”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14092, 14094, 14096, 14097, 14100 of this title.
+This section is referred to in sections 14092, 14094, 14096, 14097 of this title.
 

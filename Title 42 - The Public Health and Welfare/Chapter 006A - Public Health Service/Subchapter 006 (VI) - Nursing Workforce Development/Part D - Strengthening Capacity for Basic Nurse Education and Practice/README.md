@@ -13,4 +13,4 @@ This part is referred to in sections 296e, 297q of this title.
 
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
-- [&sect; 00296p - Basic nurse education and practice grants](%C2%A7%2000296p%20-%20Basic%20nurse%20education%20and%20practice%20grants.md)
+- [&sect; 00296p - Nurse education, practice, and retention grants](%C2%A7%2000296p%20-%20Nurse%20education%2C%20practice%2C%20and%20retention%20grants.md)

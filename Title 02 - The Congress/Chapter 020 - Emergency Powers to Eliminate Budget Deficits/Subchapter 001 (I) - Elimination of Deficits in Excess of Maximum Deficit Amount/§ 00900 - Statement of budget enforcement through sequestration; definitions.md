@@ -16,7 +16,7 @@ As used in this subchapter:
 
 &emsp;(3) The term “breach” means, for any fiscal year, the amount (if any) by which new budget authority or outlays for that year (within a category of discretionary appropriations) is above that category's discretionary spending limit for new budget authority or outlays for that year, as the case may be.
 
-&emsp;(4)(A) The term “category” means the subsets of discretionary appropriations in section 901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts or activities shall be categorized only after consultation with the committees <sup>1</sup> on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
+&emsp;(4)(A) The term “category” means the subsets of discretionary appropriations in section 901(c) of this title. Discretionary appropriations in each of the categories shall be those designated in the joint explanatory statement accompanying the conference report on the Balanced Budget Act of 1997. New accounts oractivities shall be categorized only after consultation with the committees <sup>1</sup> on Appropriations and the Budget of the House of Representatives and the Senate and that consultation shall, to the extent practicable, include written communication to such committees that affords such committees the opportunity to comment before official action is taken with respect to new accounts or activities.
 
 &emsp;(B) The term “highway category” refers to the following budget accounts or portions thereof that are subject to the obligation limitations on contract authority set forth in the Transportation Equity Act for the 21st Century:
 
@@ -90,7 +90,7 @@ Special rule.—(i) Any outlays in excess of the discretionary spending limit se
 
 &emsp;(F) The term “Federal and State Land and Water Conservation Fund sub-category” means discretionary appropriations for activities in the accounts described in (E)(i)–(E)(iv) <sup>2</sup> or portions thereof.
 
-&emsp;(G) The term “State and Other Conservation sub-category” means discretionary appropriations for activities in the accounts described in (E)(v)–(E)(ix),<sup>2</sup> with the exception of Urban and Community Forestry as described in (E)(ix),<sup>2</sup> or portions thereof.
+&emsp;(G) The term “State and Other Conservation sub-category” means discretionary appropriations for activities in the accounts describedin (E)(v)–(E)(ix),<sup>2</sup> with the exception of Urban and Community Forestry as described in (E)(ix),<sup>2</sup> or portions thereof.
 
 &emsp;(H) The term “Urban and Historic Preservation sub-category” means discretionary appropriations for activities in the accounts described in (E)(ix)–(E)(xii),<sup>2</sup> with the exception of Forest Legacy and Smart Growth Partnerships as described in (E)(ix),<sup>2</sup> or portions thereof.
 
@@ -204,7 +204,7 @@ Subsec. (c)(9). Pub. L. 105–33, §10202(b)(4), substituted “that budget subm
 
 Subsec. (c)(14). Pub. L. 105–33, §10202(b)(5), inserted “first 4” before “fiscal years” and struck out “through fiscal year 1995” after “the budget year”.
 
-Subsec. (c)(17). Pub. L. 105–33, §10202(b)(6), (7), redesignated par. (18) as (17), substituted “Balanced BudgetAct of 1997” for “Omnibus Budget Reconciliation Act of 1990”, and struck out former par. (17) which read as follows: “For purposes of sections 902 and 903 of this title, legislation enacted during the second session of the One Hundred First Congress shall be deemed to have been enacted before November 5, 1990.”
+Subsec. (c)(17). Pub. L. 105–33, §10202(b)(6), (7), redesignated par. (18) as (17), substituted “Balanced Budget Act of 1997” for “Omnibus Budget Reconciliation Act of 1990”, and struck out former par. (17) which read as follows: “For purposes of sections 902 and 903 of this title, legislation enacted during the second session of the One Hundred First Congress shall be deemed to have been enacted before November 5, 1990.”
 
 Subsec. (c)(18). Pub. L. 105–33, §10202(b)(6), (8), redesignated par. (19) as (18) and substituted “the Federal deposit insurance agencies, and other Federal agencies supervising insured depository institutions, resulting from full funding of, and continuation of, the deposit insurance guarantee commitment in effect under current estimates.” for “of the Federal Deposit Insurance Corporation and the funds it incorporates, the Resolution Trust Corporation, the National Credit Union Administration and the funds it incorporates, the Office of Thrift Supervision, the Comptroller of the Currency Assessment Fund, and the RTC Office of Inspector General.” Former par. (18) redesignated (17).
 
@@ -224,7 +224,7 @@ Subsec. (c)(21). Pub. L. 105–33, §10202(b)(6), redesignated par. (21) as (19)
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 ofPub. L. 105–206, set out as a note under section 101 of Title 23, Highways.
 
 #### Effective and Termination Dates
 
@@ -266,7 +266,7 @@ Section 101(b) of title I of Pub. L. 100–119 provided that: “This title \[en
 
 #### Short Title
 
-Section 200(a) of title II of Pub. L. 99–177 provided that: “This title \[enacting this chapter and sections 654to 656 of this title, amending sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing section 661 of this title, enacting provisions set out as notes under this section and section 911 of Title 42, and amending provisions set out as a note under section 621 of this title\] may be cited as the ‘Balanced Budget and Emergency Deficit Control Act of 1985’.”
+Section 200(a) of title II of Pub. L. 99–177 provided that: “This title \[enacting this chapter and sections 654 to 656 of this title, amending sections 602, 622, 631 to 642, and 651 to 653 of this title, sections 1104 to 1106 and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealing section 661 of this title, enacting provisions set out as notes under this section and section 911 of Title 42, and amending provisions set out as a note under section 621 of this title\] may be cited as the ‘Balanced Budget and Emergency Deficit Control Act of 1985’.”
 
 #### Habitat Conservation Activities Considered Within Coastal Assistance Sub-category
 
@@ -318,7 +318,7 @@ Section 271(d), formerly section 271(c), of Pub. L. 99–177, as redesignated by
 
 &emsp;“(1) as an exercise of the rulemaking power of the House of Representatives and the Senate, respectively, and as such they shall be considered as part of the rules of each House, respectively, or of that House to which they specifically apply, and such rules shall supersede other rules only to the extent that they are inconsistent therewith; and
 
-&emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the samemanner and to the same extent as in the case of any other rule of such House.”
+&emsp;“(2) with full recognition of the constitutional right of either House to change such rules (so far as relating to such House) at any time, in the same manner and to the same extent as in the case of any other rule of such House.”
 
 #### Restoration of Trust Fund Investments; Funds Borrowed or Not Invested During Delays in Raising Public Debt Limit
 
@@ -342,7 +342,7 @@ Sec. 2. <i>Establishment of Direct Spending Targets.</i>
 
 (c) <i>Adjustments</i>. Direct spending targets shall be subsequently adjusted by the Director under Section 6.
 
-Sec. 3. <i>Annual Review of Direct Spending and Receipts by President</i>. As part of each budget submitted under section 1105(a) of title 31, United States Code, the Director shall provide an annual review of direct spending and receipts, which shall include (1) information supporting the adjustment of direct spending targets pursuant to Section 6, (2) information on total outlays for programs covered by the direct spending targets, including actual outlays for the prior fiscal year and projected outlays for the current fiscal year and the 5 succeeding fiscal years, and (3) information on the major categories of Federal receipts, including a comparison between the levels of those receipts and the levels projected as of the date of enactment of OBRA \[Aug. 10, 1993\].
+Sec. 3. <i>Annual Review of Direct Spending and Receipts by President</i>. As part of each budget submitted under section 1105(a) of title 31, United States Code, the Director shall provide an annual review of direct spending and receipts, which shall include (1) information supporting the adjustment of direct spending targets pursuant to Section 6, (2) information on total outlays forprograms covered by the direct spending targets, including actual outlays for the prior fiscal year and projected outlays for the current fiscal year and the 5 succeeding fiscal years, and (3) information on the major categories of Federal receipts, including a comparison between the levels of those receipts and the levels projected as of the date of enactment of OBRA \[Aug. 10, 1993\].
 
 Sec. 4. <i>Special Direct Spending Message by President</i>. (a) <i>Trigger</i>. In the event that the information submitted under Section 3 indicates—
 

@@ -8,9 +8,9 @@
 
 &emsp;(2) assure appropriate geographic distribution of such facilities.
 
-(c) The Secretary may not designate a health-care facility as a location for a center undersubsection (a) unless the peer review panel established under subsection (d) has determined under that subsection that the proposal submitted by such facility as a location for a new center under subsection (a) is among those proposals which have met the highest competitive standards of scientific and clinical merit, and the Secretary (upon the recommendation of the Under Secretary for Health) determines that the facility has (or may reasonably be anticipated to develop) each of the following:
+(c) The Secretary may not designate a health-care facility as a location for a center under subsection (a) unless the peer review panel established under subsection (d) has determined under that subsection that the proposal submitted by such facility as a location for a new center under subsection (a) is among those proposals which have met the highest competitive standards of scientific and clinical merit, and the Secretary (upon the recommendation of the Under Secretary for Health) determines that the facility has (or may reasonably be anticipated to develop) each of the following:
 
-&emsp;(1) An arrangement with an accredited medical school which provides education and training in geriatrics and with which such facility is affiliated under which residents receive education and training in geriatrics through regular rotation through such center and through nursing home, extended care, or domiciliary units of such facility so as to provide such residents with training in the diagnosis and treatment of chronic diseases of older individuals, including cardiopulmonary conditions, senile dementia, and neurological disorders.
+&emsp;(1) An arrangement with an accredited medical school which provides education and training in geriatrics and with which such facilityis affiliated under which residents receive education and training in geriatrics through regular rotation through such center and through nursing home, extended care, or domiciliary units of such facility so as to provide such residents with training in the diagnosis and treatment of chronic diseases of older individuals, including cardiopulmonary conditions, senile dementia, and neurological disorders.
 
 &emsp;(2) An arrangement under which nursing or allied health personnel receive training and education in geriatrics through regular rotation through nursing home, extended care, or domiciliary units of such facility.
 
@@ -68,7 +68,7 @@ Subsecs. (f), (g). Pub. L. 102–585, §521(2), redesignated subsecs. (e) and (f
 
 #### Effective Date of 1994 Amendment
 
-Section 1202(b) of Pub. L. 103–446 provided that the amendment made by that section is effective Aug. 6, 1991, and as if included in the enactment of Pub. L. 102–83.
+Section 1202(b) of Pub. L. 103–446 provided that the amendment made by that section is effective Aug. 6,1991, and as if included in the enactment of Pub. L. 102–83.
 
 #### Congressional Declaration of Purpose in Creating Centers of Geriatric Research, Education, and Clinical Activities
 

@@ -20,7 +20,7 @@ If any indenture trustee has or shall acquire any conflicting interest as herein
 
 &emsp;(ii) in the event that such trustee shall fail to comply with the provisions of clause (i) of this subsection, such trustee shall, within 10 days after the expiration of such 90-day period, transmit notice of such failure to the indenture security holders in the manner and to the extent provided in subsection (c) of section 77mmm of this title; and
 
-&emsp;(iii) subject to the provisions of subsection (e) of section 77<i>ooo</i> of this title, unless such trustee's duty to resign is stayed as provided below in this subsection, any security holder who has been a bona fide holder of indenturesecurities for at least six months may, on behalf of himself and all others similarly situated, petition any court of competent jurisdiction for the removal of such trustee, and the appointment of a successor, if such trustee fails, after written request thereof by such holder to comply with the provisions of clause (i) of this subsection.
+&emsp;(iii) subject to the provisions of subsection (e) of section 77<i>ooo</i> of this title, unless such trustee's duty to resign is stayed as provided below in this subsection, any security holder who has been a bona fide holder of indenture securities for at least six months may, on behalf of himself and all others similarly situated, petition any court of competent jurisdiction for the removal of such trustee, and the appointment of a successor, if such trustee fails, after written request thereof by such holder to comply with the provisions of clause (i) of this subsection.
 
 For the purposes of this subsection, an indenture trustee shall be deemed to have a conflicting interest if the indenture securities are in default (as such term is defined in such indenture, but exclusive of any period of grace or requirement of notice) and—
 
@@ -54,7 +54,7 @@ For the purposes of this subsection, an indenture trustee shall be deemed to hav
 
 &emsp;(6) such trustee is the beneficial owner of, or holds as collateral security for an obligation which is in default as hereinafter defined—
 
-&emsp;&emsp;(A) 5 per centum or more of the voting securities, or 10 per centum or more of any other class of security, of an obligor upon the indenture securities, not including indentures <sup>2</sup> securities and securities issuedunder any other indenture under which such trustee is also trustee, or
+&emsp;&emsp;(A) 5 per centum or more of the voting securities, or 10 per centum or more of any other class of security, of an obligor upon the indenture securities, not including indentures <sup>2</sup> securities and securities issued under any other indenture under which such trustee is also trustee, or
 
 &emsp;&emsp;(B) 10 per centum or more of any class of security of an underwriter for any such obligor;
 
@@ -68,7 +68,7 @@ For the purposes of this subsection, an indenture trustee shall be deemed to hav
 
 For purposes of paragraph (1) of this subsection, and of section 77ppp(a) of this title, the term “series of securities” or “series” means a series, class or group of securities issuable under an indenture pursuant to whose terms holders of one such series may vote to direct the indenture trustee, or otherwise take action pursuant to a vote of such holders, separately from holders of another such series: <i>Provided</i>, That “series of securities” or “series” shall not include any series of securities issuable under an indenture if all such series rank equally and are wholly unsecured.
 
-The specification of percentages in paragraphs (5) to (9), inclusive, of this subsection shall not be construed as indicating that the ownership of such percentages of the securities of a person is or is not necessary or sufficient to constitute direct or indirect control for the purposes of paragraph (3) or (7) of this subsection.
+The specification of percentages in paragraphs (5) to (9), inclusive, of this subsection shall notbe construed as indicating that the ownership of such percentages of the securities of a person is or is not necessary or sufficient to constitute direct or indirect control for the purposes of paragraph (3) or (7) of this subsection.
 
 For the purposes of paragraphs (6), (7), (8), and (9) of this subsection—
 
@@ -82,7 +82,7 @@ For the purposes of this subsection, the term “underwriter” when used with r
 
 Except in the case of a default in the payment of the principal of or interest on any indenture security, or in the payment of any sinking or purchase fund installment, the indenture trustee shall not be required to resign as provided by this subsection if such trustee shall have sustained the burden of proving, on application to the Commission and after opportunity for hearing thereon, that—
 
-&emsp;(i) the default under the indenture may be cured or waived during a reasonable periodand under the procedures described in such application, and
+&emsp;(i) the default under the indenture may be cured or waived during a reasonable period and under the procedures described in such application, and
 
 &emsp;(ii) a stay of the trustee's duty to resign will not be inconsistent with the interests of holders of the indenture securities. The filing of such an application shall automatically stay the performance of the duty to resign until the Commission orders otherwise.
 

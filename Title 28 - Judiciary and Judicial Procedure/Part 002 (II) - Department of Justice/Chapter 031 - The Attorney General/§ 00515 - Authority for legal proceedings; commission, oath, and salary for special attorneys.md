@@ -2,9 +2,9 @@
 
 (a) The Attorney General or any other officer of the Department of Justice, or any attorney specially appointed by the Attorney General under law, may, when specifically directed by the Attorney General, conduct any kind of legal proceeding, civil or criminal, including grand jury proceedings and proceedings before committing magistrate judges, which United States attorneys are authorized by law to conduct, whether or not he is a resident of the district in which the proceeding is brought.
 
-(b) Each attorney specially retained under authority of the Department of Justice shall be commissioned as special assistant to the Attorney General or special attorney, and shall take the oath required by law. Foreign counsel employed in special cases are not required to take the oath. The Attorney General shall fix the annual salary of a special assistant or special attorney at not more than $12,000.
+(b) Each attorney specially retained under authority of the Department of Justice shall be commissioned as special assistant to the Attorney General or special attorney, and shall take the oath required by law. Foreign counsel employed in special cases are not required to take the oath. The Attorney General shall fix the annual salary of a special assistant or special attorney.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 613; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 613; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–273, div. A, title II, §203(b), Nov. 2, 2002, 116 Stat. 1775.)
 
 Historical and Revision Notes
 
@@ -41,6 +41,10 @@ Aug. 5, 1953, ch. 328, §202 (1st and 2d provisos, as applicable to special assi
 July 2, 1954, ch. 456, §202 (as applicable to special assistants and special attorneys), 68 Stat. 421.
 
 In subsection (a), the words “or counselor” are omitted as redundant. The words “United States attorneys” are substituted for “district attorneys” on authority of the Act of June 25, 1948, ch. 646, §1, 62 Stat. 909. The words “any provision of” are omitted as unnecessary.
+
+#### Amendments
+
+2002—Subsec. (b). Pub. L. 107–273 struck out “at not more than $12,000” before period at end.
 
 #### Change of Name
 

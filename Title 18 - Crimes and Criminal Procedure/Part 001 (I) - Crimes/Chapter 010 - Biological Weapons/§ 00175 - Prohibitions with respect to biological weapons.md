@@ -10,11 +10,13 @@ Additional Offense.—Whoever knowingly possesses any biological agent, toxin, o
 
 (c)
 
-Definition.—For purposes of this section, the term “for use as a weapon” includes the development, production, transfer, acquisition, retention, or possession of any biological agent, toxin, or delivery system for other than prophylactic, protective <sup>1</sup> bona fide research, or other peaceful purposes.
+Definition.—For purposes of this section, the term “for use as a weapon” includes the development, production, transfer, acquisition, retention, or possession of any biological agent, toxin, or delivery system for other than prophylactic, protective, bona fide research, or other peaceful purposes.
 
-(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 201; amended Pub. L. 104–132, title V, §511(b)(1), Apr. 24, 1996, 110 Stat. 1284; Pub. L. 107–56, title VIII, §817(1), Oct. 26, 2001, 115 Stat. 385.)
+(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 201; amended Pub. L. 104–132, title V, §511(b)(1), Apr. 24, 1996, 110 Stat. 1284; Pub. L. 107–56, title VIII, §817(1), Oct. 26, 2001, 115 Stat. 385; Pub. L. 107–188, title II, §231(c)(1), June 12, 2002, 116 Stat. 661.)
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–188 substituted “protective, bona fide research, or other peaceful purposes” for “protective bona fide research, or other peaceful purposes”.
 
 2001—Subsec. (b). Pub. L. 107–56, §817(1)(C), added subsec. (b). Former subsec. (b) redesignated (c).
 
@@ -47,6 +49,4 @@ Intent of Act.—Nothing in this Act is intended to restrain or restrict peacefu
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 175a, 176, 177, 2332b, 2339, 2339A, 2516 of this title; title 10 section 382.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

@@ -42,7 +42,7 @@ Until such time as any subsequent law may otherwise provide, the following Calif
 
 Nothing in this section may be construed as expanding the eligibility of California Indians for health services provided by the Service beyond the scope of eligibility for such health services that applied on May 1, 1986.
 
-(Pub. L. 94–437, title VIII, §809, formerly title VII, §709, as added Pub. L. 96–537, §8(b), Dec. 17, 1980, 94 Stat. 3181; amended Pub. L. 100–713, title VII, §703, Nov. 23, 1988, 102 Stat. 4827; renumbered title VIII, §809, Pub. L. 102–573, title VII, §701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
+(Pub. L. 94–437, title VIII, §809, formerly title VII, §709, as added Pub. L. 96–537, §8(b), Dec. 17,1980, 94 Stat. 3181; amended Pub. L. 100–713, title VII, §703, Nov. 23, 1988, 102 Stat. 4827; renumbered title VIII, §809, Pub. L. 102–573, title VII, §701(a), (b), Oct. 29, 1992, 106 Stat. 4572.)
 
 #### References in Text
 

@@ -28,7 +28,7 @@
 
 #### (C) Continued detention
 
-&emsp;&emsp;If no country is willing to receive such an alien, the Attorney General may, notwithstanding any other provision of law, retain the alien in custody. The Attorney General, in coordination with the Secretary of State, shall make periodic efforts to reach agreement with other countries to accept such an alien and at least every 6 months shall provide to the attorney representing the alien at the removal hearing a written report on the Attorney General's efforts. Any alien incustody pursuant to this subparagraph shall be released from custody solely at the discretion of the Attorney General and subject to such conditions as the Attorney General shall deem appropriate.
+&emsp;&emsp;If no country is willing to receive such an alien, the Attorney General may, notwithstanding any other provision of law, retain the alien in custody. The Attorney General, in coordination with the Secretary of State, shall make periodic efforts to reach agreement with other countries to accept such an alien and at least every 6 months shall provide to the attorney representing the alien at the removal hearing a written report on the Attorney General's efforts. Any alien in custody pursuant to this subparagraph shall be released from custody solely at the discretion of the Attorney General and subject to such conditions as the Attorney General shall deem appropriate.
 
 #### (D) Fingerprinting
 
@@ -71,6 +71,10 @@ For purposes of sections 751 and 752 of title 18, an alien in the custody of the
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 

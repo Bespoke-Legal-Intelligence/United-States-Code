@@ -6,7 +6,7 @@ Under Secretary and Director.—
 
 &emsp;(1)
 
-In general.—The powers and duties of the United States Patent and Trademark Office shall be vested in an Under Secretary ofCommerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this title referred to as the “Director”), who shall be a citizen of the United States and who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall be a person who has a professional background and experience in patent or trademark law.
+In general.—The powers and duties of the United States Patent and Trademark Office shall be vested in an Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office (in this title referred to as the “Director”), who shall be a citizen of the United States and who shall be appointed by the President, by and with the advice and consent of the Senate. The Director shall be a person who has a professional background and experience in patent or trademark law.
 
 &emsp;(2)
 
@@ -18,7 +18,7 @@ In general.—The Director shall be responsible for providing policy direction a
 
 &emsp;&emsp;(B)
 
-Consulting with the public advisory committees.—The Director shall consult with the Patent Public Advisory Committee established in section 5 on a regular basis on matters relating to the patent operations of the Office, shall consult with the Trademark Public Advisory Committee established in section 5 on a regular basis on matters relating to the trademark operations of the Office, and shall consult with the respective Public Advisory Committee before submitting budgetary proposals to the Office of Management and Budget or changing or proposing to change patent or trademark user fees or patent or trademark regulations which are subject to the requirement to provide notice and opportunity for public comment under section 553 of title 5, United States Code, as the case may be.
+Consulting with the public advisory committees.—The Director shall consult with the Patent Public Advisory Committee established in section 5 on a regular basis on matters relating to the patent operations of the Office, shall consult with the Trademark Public Advisory Committee established in section 5 on a regular basis on matters relating to the trademark operations of the Office, and shall consult with the respective Public Advisory Committee before submitting budgetary proposals to the Office of Management and Budget or changing or proposing to change patent or trademark user fees or patent or trademark regulations which are subject to the requirement to provide notice and opportunity for public comment under section 553 of title 5, as the case may be.
 
 &emsp;(3)
 
@@ -42,15 +42,15 @@ Commissioners.—
 
 &emsp;&emsp;(A)
 
-Appointment and duties.—The Secretary of Commerce shall appoint a Commissioner for Patents and a Commissioner for Trademarks, without regard to chapter 33, 51, or 53 of title 5, United States Code. The Commissioner for Patents shall be a citizen of the United States with demonstrated management ability and professional background and experience in patent law and serve for a term of 5 years. The Commissioner for Trademarks shall be a citizen of the United States with demonstrated management ability and professional background and experience in trademark law and serve for a term of 5 years. The Commissioner for Patents and the Commissioner for Trademarks shall serve as the chief operating officers for the operations of the Office relating to patents and trademarks, respectively, and shall be responsible for the management and direction of all aspects of the activities of the Office that affect the administration of patent and trademark operations, respectively. The Secretary may reappoint a Commissioner to subsequent terms of 5 years as long as the performance of the Commissioner as set forth in the performance agreement in subparagraph (B) is satisfactory.
+Appointment and duties.—The Secretary of Commerce shall appoint a Commissioner for Patents and a Commissioner for Trademarks, without regard to chapter 33, 51, or 53 of title 5. The Commissioner for Patents shall be a citizen of the United States with demonstrated management ability and professional background and experience in patent law and serve for a term of 5 years. The Commissioner for Trademarks shall be a citizen of the United States with demonstrated management ability and professional background and experience in trademark law and serve for a term of 5 years. The Commissioner for Patents and the Commissioner for Trademarks shall serve as the chief operating officers for the operations of the Office relating to patents and trademarks, respectively, and shall be responsible for the management and direction of all aspects of the activities of the Office that affect the administration of patent and trademark operations, respectively. The Secretary may reappoint a Commissioner to subsequent terms of 5 years as long as the performance of the Commissioner as set forth in the performance agreement in subparagraph (B) is satisfactory.
 
 &emsp;&emsp;(B)
 
-Salary and performance agreement.—The Commissioners shall be paid an annual rate of basic pay not to exceed the maximum rate of basic pay for the Senior Executive Service established under section 5382 of title 5, United States Code, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of title 5, United States Code. The compensation of the Commissioners shall be considered, for purposes of section 207(c)(2)(A) of title 18, United States Code, to be the equivalent of that described under clause (ii) of section 207(c)(2)(A) of title 18, United States Code. In addition, the Commissioners may receive a bonus in an amount of up to, but not in excess of, 50 percent of the Commissioners’ annual rate of basic pay, based upon an evaluation by the Secretary of Commerce, acting through the Director, of the Commissioners’ performance as defined in an annual performance agreement between the Commissioners and the Secretary. The annual performance agreements shall incorporate measurable organization and individual goals in key operational areas as delineated in an annual performance plan agreed to by the Commissioners and the Secretary. Payment of a bonus under this subparagraph may be made to the Commissioners only to the extent that such payment does not cause the Commissioners’ total aggregate compensation in a calendar year to equal or exceed the amount of the salary of the Vice President under section 104 of title 3, United States Code.
+Salary and performance agreement.—The Commissioners shall be paid an annual rate of basic pay not to exceed the maximum rate of basic pay for the Senior Executive Service established under section 5382 of title 5, including any applicable locality-based comparability payment that may be authorized under section 5304(h)(2)(C) of title 5. The compensation of the Commissioners shall be considered, for purposes of section 207(c)(2)(A) of title 18, to be the equivalent of that described under clause (ii) of section 207(c)(2)(A) of title 18. In addition,the Commissioners may receive a bonus in an amount of up to, but not in excess of, 50 percent of the Commissioners’ annual rate of basic pay, based upon an evaluation by the Secretary of Commerce, acting through the Director, of the Commissioners’ performance as defined in an annual performance agreement between the Commissioners and the Secretary. The annual performance agreements shall incorporate measurable organization and individual goals in key operational areas as delineated in an annual performance plan agreed to by the Commissioners and the Secretary. Payment of a bonus under this subparagraph may be made to the Commissioners only to the extent that such payment does not cause the Commissioners’ total aggregate compensation in a calendar year to equal or exceed the amount of the salary of the Vice President under section 104 of title 3.
 
 &emsp;&emsp;(C)
 
-Removal.—The Commissioners may be removed from office by the Secretary for misconduct or nonsatisfactory performance under the performance agreement described in subparagraph (B), without regard to the provisions of title 5, United States Code. The Secretary shall provide notification of any such removal to both Houses of Congress.
+Removal.—The Commissioners may be removed from office by the Secretary for misconduct or nonsatisfactory performance under the performance agreement described in subparagraph (B), without regard to the provisions of title 5. The Secretary shall provide notification of any such removal to both Houses of Congress.
 
 &emsp;(3)
 
@@ -72,9 +72,7 @@ National security positions.—The Director, in consultation with the Director o
 
 (c)
 
-Continued Applicability of Title 5,
-
-United States Code.—Officers and employees of the Office shall be subject to the provisions of title 5, United States Code, relating to Federal employees.
+Continued Applicability of Title 5.—Officers and employees of the Office shall be subject to the provisions of title 5, relating to Federal employees.
 
 (d)
 
@@ -114,7 +112,7 @@ Continuation in office of certain officers.—(A) The individual serving as the 
 
 &emsp;(B) The individual serving as the Assistant Commissioner for Trademarks on the day before the effective date of the Patent and Trademark Office Efficiency Act may serve as the Commissioner for Trademarks until the date on which a Commissioner for Trademarks is appointed under subsection (b).
 
-(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 85–933, §1, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, §1(a), Sept. 23, 1959, 73 Stat. 650; Pub. L. 88–426, title III, §305(26), Aug. 14, 1964, 78 Stat. 425; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, §1, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 97–247, §4, Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–366, §4, Oct. 25, 1982, 96 Stat. 1760; Pub. L. 98–622, title IV, §405, Nov. 8, 1984, 98 Stat. 3392; Pub. L. 105–304, title IV, §401(a)(1), Oct. 28, 1998, 112 Stat. 2887; Pub. L. 106–44, §2(c), Aug. 5, 1999, 113 Stat. 223; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4713\], Nov. 29, 1999, 113 Stat. 1536, 1501A–575.)
+(July 19, 1952, ch. 950, 66 Stat. 792; Pub. L. 85–933, §1, Sept. 6, 1958, 72 Stat. 1793; Pub. L. 86–370, §1(a), Sept. 23, 1959, 73 Stat. 650; Pub. L. 88–426, title III, §305(26), Aug. 14, 1964, 78 Stat. 425; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 93–601, §1, Jan. 2, 1975, 88 Stat. 1956; Pub. L. 97–247, §4, Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–366, §4, Oct. 25, 1982, 96 Stat. 1760; Pub. L.98–622, title IV, §405, Nov. 8, 1984, 98 Stat. 3392; Pub. L. 105–304, title IV, §401(a)(1), Oct. 28, 1998, 112 Stat. 2887; Pub. L. 106–44, §2(c), Aug. 5, 1999, 113 Stat. 223; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4713\], Nov. 29, 1999, 113 Stat. 1536, 1501A–575; Pub. L. 107–273, div. C, title III, §13206(a)(2), Nov. 2, 2002, 116 Stat. 1904.)
 
 #### Historical and Revision Notes
 
@@ -131,6 +129,16 @@ This entire title is subject to Reorganization Plan No. 5 of 1950 (64 Stat. 1263
 For the effective date of the Patent and Trademark Office Efficiency Act, referred to in subsecs. (d) to (f), as 4 months after Nov. 29, 1999, see section 1009(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as an Effective Date of 1999 Amendment note under section 1 of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(2)(B). Pub. L. 107–273, §13206(a)(2)(A), struck out “United States Code,” after “title 5,”.
+
+Subsec. (b)(2)(A). Pub. L. 107–273, §13206(a)(2)(B)(i), struck out “, United States Code” after “title 5”.
+
+Subsec. (b)(2)(B). Pub. L. 107–273, §13206(a)(2)(B)(ii)–(iv), in first sentence, struck out “United States Code,” after “section 5382 of title 5,” and “, United States Code” after “section 5304(h)(2)(C) of title 5”, in second sentence, struck out “United States Code,” after “for purposes of section 207(c)(2)(A) of title 18,” and “, United States Code” after “clause (ii) of section 207(c)(2)(A) of title 18”, and in last sentence, struck out “, United States Code” after “title 3”.
+
+Subsec. (b)(2)(C). Pub. L. 107–273, §13206(a)(2)(B)(v), struck out “, United States Code” after “title 5”.
+
+Subsec. (c). Pub. L. 107–273, §13206(a)(2)(C), in heading, struck out “, United States Code” before period at end, and in text, struck out “United States Code,” after “title 5,”.
 
 1999—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
 
@@ -180,7 +188,7 @@ Amendment by Pub. L. 97–247 effective Aug. 27, 1982, see section 17(a) of Pub.
 
 #### Effective Date of 1975 Amendments
 
-Section 4(b) of Pub. L. 93–601 provided that: “This Act \[amending this section and sections 7 and 151 of this title and enacting provisions set out as a note under section 151 of this title\] shall be effective upon enactment \[Jan. 2, 1975\]. Examiners-in-chief in office on the date of enactment shall continue in office under and in accordance with their then existing appointments.”
+Section 4(b) of Pub. L. 93–601 provided that: “This Act \[amending this section and sections 7 and 151 of thistitle and enacting provisions set out as a note under section 151 of this title\] shall be effective upon enactment \[Jan. 2, 1975\]. Examiners-in-chief in office on the date of enactment shall continue in office under and in accordance with their then existing appointments.”
 
 Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 93–596, set out as a note under section 1111 of Title 15, Commerce and Trade.
 

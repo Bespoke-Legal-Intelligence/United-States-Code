@@ -1,6 +1,6 @@
 ### §§151 to 162. Repealed. Aug. 10, 1956, ch. 1041, §53, 70A Stat. 641
 
-Section 151, act Feb. 19, 1948, ch. 56, §2, 62 Stat. 21, related to purchases and contracts for supplies and services for the Armed Services, stated the Congressional declaration of policy, provided for advertising requirements, excepted certain purchases and contracts, authorized reference to Attorney General where there is any evidence of violation of antitrust laws, excluded certain authorizations and contracts. See sections 2303 to 2305 of Title 10, Armed Forces.
+Section 151, act Feb. 19, 1948, ch. 65, §2, 62 Stat. 21, related to purchases and contracts for supplies and services for the Armed Services, stated the Congressional declaration of policy, provided for advertising requirements, excepted certain purchases and contracts, authorized reference to Attorney General where there is any evidence of violation of antitrust laws, excluded certain authorizations and contracts. See sections 2303 to 2305 of Title 10, Armed Forces.
 
 Section 152, acts Feb. 19, 1948, ch. 65, §3, 62 Stat. 22; Aug. 9, 1955, ch. 628, §15, 69 Stat. 551, related to advertisements for bids, opening of bids and award or rejection of bids. See section 2305 of Title 10. Act Aug. 9, 1955, ch. 628, §15, 69 Stat. 551, which amended section 152 of this title, was repealed by Pub. L. 85–861, §36A, Sept. 2, 1958, 72 Stat. 1569.
 
@@ -16,7 +16,7 @@ Section 157, act Feb. 19, 1948, ch. 65, §8, 62 Stat. 24, related to exemption o
 
 Section 158, act Feb. 19, 1948, ch. 65, §9, 62 Stat. 24, defined “agency head” and “supplies”. See sections 2302 and 2303 of Title 10.
 
-Section 159, act Feb. 19, 1948, ch. 65, §10, 62 Stat. 25, related to assignment and delegation of joint procurement responsibilities by agency head, and allocation of appropriations. See sections 2308 and 2309 of Title 10.
+Section 159, act Feb. 19, 1948, ch. 65, §10, 62 Stat. 25, related to assignment and delegation of joint procurement responsibilities by agency head, and allocation of appropriations. See section 2309 of Title 10.
 
 Section 160, act Feb. 19, 1948, ch. 65, §11(b), 62 Stat. 25, provided that sections 5, 6, 6a, and 13 of this title should be inapplicable to procurement of supplies and services. See section 2314 of Title 10.
 

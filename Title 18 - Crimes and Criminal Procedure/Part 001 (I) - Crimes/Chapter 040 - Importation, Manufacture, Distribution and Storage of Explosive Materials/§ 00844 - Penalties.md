@@ -10,21 +10,21 @@
 
 (c)(1) Any explosive materials involved or used or intended to be used in any violation of the provisions of this chapter or any other rule or regulation promulgated thereunder or any violation of any criminal law of the United States shall be subject to seizure and forfeiture, and all provisions of the Internal Revenue Code of 1986 relating to the seizure, forfeiture, and disposition of firearms, as defined in section 5845(a) of that Code, shall, so far as applicable, extend to seizures and forfeitures under the provisions of this chapter.
 
-(2) Notwithstanding paragraph (1), in the case of the seizure of any explosive materials for any offense for which the materials would be subject to forfeiture in which it would be impracticable or unsafe to remove the materials to a place of storage or would be unsafe to store them, the seizing officer may destroy the explosive materials forthwith. Any destruction under this paragraph shall be in the presence of at least 1 credible witness. The seizing officer shall make a report of the seizure and take samples as the Secretary may by regulation prescribe.
+(2) Notwithstanding paragraph (1), in the case of the seizure of any explosive materials for any offense for which the materials would be subject to forfeiture in which it would be impracticable or unsafe to remove the materials to a place of storage or would be unsafe to store them, the seizing officer may destroy the explosive materials forthwith. Any destruction under this paragraph shall be in the presence of at least 1 credible witness. The seizing officer shall make a report of the seizure and take samples as the Attorney General may by regulation prescribe.
 
-(3) Within 60 days after any destruction made pursuant to paragraph (2), the owner of (including any person having an interest in) the property so destroyed may make application to the Secretary for reimbursement of the value of the property. If the claimant establishes to the satisfaction of the Secretary that—
+(3) Within 60 days after any destruction made pursuant to paragraph (2), the owner of (including any person having an interest in) the property so destroyed may make application to the Attorney General for reimbursement of the value of the property. If the claimant establishes to the satisfaction of the Attorney General that—
 
 &emsp;(A) the property has not been used or involved in a violation of law; or
 
 &emsp;(B) any unlawful involvement or use of the property was without the claimant's knowledge, consent, or willful blindness,
 
-> the Secretary shall make an allowance to the claimant not exceeding the value of the property destroyed.
+> the Attorney General shall make an allowance to the claimant not exceeding the value of the property destroyed.
 
-(d) Whoever transports or receives, or attempts to transport or receive, in interstate orforeign commerce any explosive with the knowledge or intent that it will be used to kill, injure, or intimidate any individual or unlawfully to damage or destroy any building, vehicle, or other real or personal property, shall be imprisoned for not more than ten years, or fined under this title, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not more than twenty years or fined under this title, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.
+(d) Whoever transports or receives, or attempts to transport or receive, in interstate or foreign commerce any explosive with the knowledge or intent that it will be used to kill, injure, or intimidate any individual or unlawfully to damage or destroy any building, vehicle, or other real or personal property, shall be imprisoned for not more than ten years, or fined under this title, or both; and if personal injury results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be imprisoned for not more than twenty years or fined under this title, or both; and if death results to any person, including any public safety officer performing duties as a direct or proximate result of conduct prohibited by this subsection, shall be subject to imprisonment for any term of years, or to the death penalty or to life imprisonment.
 
 (e) Whoever, through the use of the mail, telephone, telegraph, or other instrument of interstate or foreign commerce, or in or affecting interstate or foreign commerce, willfully makes any threat, or maliciously conveys false information knowing the same to be false, concerning an attempt or alleged attempt being made, or to be made, to kill, injure, or intimidate any individual or unlawfully to damage or destroy any building, vehicle, or other real or personal property by means of fire or an explosive shall be imprisoned for not more than 10 years or fined under this title, or both.
 
-(f)(1) Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other personal or real property in whole or in part owned or possessed by, or leased to, the United States, or any department or agency thereof, shall be imprisoned for not less than 5 years and not more than 20 years, fined under this title, or both.
+(f)(1) Whoever maliciously damages or destroys, or attempts to damage or destroy, by means of fire or an explosive, any building, vehicle, or other personal or real property in whole or in part owned or possessed by, or leased to, the United States, or any department or agency thereof, or any institution or organization receiving Federal financial assistance, shall be imprisoned for not less than 5 years and not more than 20 years, fined under this title, or both.
 
 (2) Whoever engages in conduct prohibited by this subsection, and as a result of such conduct, directly or proximately causes personal injury or creates a substantial risk of injury to any person, including any public safety officer performing duties, shall be imprisoned for not less than 7 years and not more than 40 years, fined under this title, or both.
 
@@ -34,7 +34,7 @@
 
 (2) The provisions of this subsection shall not be applicable to—
 
-&emsp;(A) the possession of ammunition (as that term is defined in regulations issued pursuant to this chapter) in an airport that is subject to the regulatory authority of the Federal Aviation Administration if such ammunition is either in checked baggage or in a closed container; or
+&emsp;(A) the possession of ammunition (as that term is defined in regulations issued pursuantto this chapter) in an airport that is subject to the regulatory authority of the Federal Aviation Administration if such ammunition is either in checked baggage or in a closed container; or
 
 &emsp;(B) the possession of an explosive in an airport if the packaging and transportation of such explosive is exempt from, or subject to and in accordance with, regulations of the Research and Special Projects Administration for the handling of hazardous materials pursuant to chapter 51 of title 49.
 
@@ -60,7 +60,19 @@
 
 (<i>o</i>) Whoever knowingly transfers any explosive materials, knowing or having reasonable cause to believe that such explosive materials will be used to commit a crime of violence (as defined in section 924(c)(3)) or drug trafficking crime (as defined in section 924(c)(2)) shall be subject to the same penalties as may be imposed under subsection (h) for a first conviction for the use or carrying of an explosive material.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 956; amended Pub. L. 97–298, §2, Oct. 12, 1982, 96 Stat. 1319; Pub. L. 98–473, title II, §1014, Oct. 12, 1984, 98 Stat. 2142; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title VI, §6474(a), (b), Nov. 18, 1988, 102 Stat. 4379; Pub. L. 101–647, title XXXV, §3522, Nov. 29, 1990, 104 Stat. 4924; Pub. L. 103–272, §5(e)(7), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title VI, §60003(a)(3), title XI, §§110504(b), 110509, 110515(b), 110518(b), title XXXII, §§320106, 320917(a), title XXXIII, §330016(1)(H), (K), (L), (N), Sept. 13, 1994, 108 Stat. 1969, 2016, 2018, 2020, 2111, 2129, 2147, 2148; Pub. L. 104–132, title VI, §604, title VII, §§701, 706, 708(a), (c)(3), 724, Apr. 24, 1996, 110 Stat. 1289, 1291, 1295–1297, 1300; Pub. L. 104–294, title VI, §603(a), Oct. 11, 1996, 110 Stat. 3503; Pub. L. 106–54, §2(b), Aug. 17, 1999, 113 Stat. 399.)
+(p)
+
+Theft Reporting Requirement.—
+
+&emsp;(1)
+
+In general.—A holder of a license or permit who knows that explosive materials have been stolen from that licensee or permittee, shall report the theft to the Secretary <sup>1</sup> not later than 24 hours after the discovery of the theft.
+
+&emsp;(2)
+
+Penalty.—A holder of a license or permit who does not report a theft in accordance with paragraph (1), shall be fined not more than $10,000, imprisoned not more than 5 years, or both.
+
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 956; amended Pub. L. 97–298, §2, Oct. 12, 1982, 96 Stat. 1319; Pub. L. 98–473, title II, §1014, Oct. 12, 1984, 98 Stat. 2142; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–690, title VI, §6474(a), (b), Nov. 18, 1988, 102 Stat. 4379; Pub. L. 101–647, title XXXV, §3522, Nov. 29, 1990, 104 Stat. 4924; Pub. L. 103–272, §5(e)(7), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title VI, §60003(a)(3), title XI, §§110504(b), 110509, 110515(b), 110518(b), title XXXII, §§320106, 320917(a), title XXXIII, §330016(1)(H), (K), (L), (N), Sept. 13, 1994, 108 Stat. 1969, 2016, 2018, 2020, 2111, 2129, 2147, 2148; Pub. L. 104–132, title VI, §604, title VII, §§701, 706, 708(a), (c)(3), 724, Apr. 24, 1996, 110 Stat. 1289, 1291, 1295–1297, 1300; Pub. L. 104–294, title VI, §603(a), Oct. 11, 1996, 110 Stat. 3503; Pub. L. 106–54, §2(b), Aug. 17, 1999, 113 Stat. 399; Pub. L. 107–296, title XI, §§1112(e)(3), 1125, 1127, Nov. 25, 2002, 116 Stat. 2276, 2285.)
 
 #### References in Text
 
@@ -69,6 +81,12 @@ The Internal Revenue Code of 1986, referred to in subsec. (c)(1), is set out as 
 Section 5845(a) of that Code, referred to in subsec. (c)(1), is section 5845(a) of Title 26.
 
 #### Amendments
+
+2002—Subsec. (c)(2), (3). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary” wherever appearing.
+
+Subsec. (f)(1). Pub. L. 107–296, §1125, inserted “or any institution or organization receiving Federal financial assistance,” before “shall”.
+
+Subsec. (p). Pub. L. 107–296, §1127, added subsec. (p).
 
 1999—Subsec. (a). Pub. L. 106–54, §2(b)(1), designated existing provisions as par. (1) and added par. (2).
 
@@ -108,7 +126,7 @@ Subsec. (e). Pub. L. 103–322, §330016(1)(K), substituted “fined under this 
 
 Subsec. (f). Pub. L. 103–322, §320106(1)(B), which directed the substitution of “not more than 40 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,” for “not more than twenty years, or fined not more than $10,000”, was executed by making the substitution for “not more than twenty years, or fined not more than $20,000”, to reflect the probable intent of Congress.
 
-Pub. L. 103–322, §320106(1)(A), substituted “not more than 20 years, fined the greater of the fine under thistitle or the cost of repairing or replacing any property that is damaged or destroyed,” for “not more than ten years, or fined not more than $10,000”.
+Pub. L. 103–322, §320106(1)(A), substituted “not more than 20 years, fined the greater of the fine under this title or the cost of repairing or replacing any property that is damaged or destroyed,” for “not more than ten years, or fined not more than $10,000”.
 
 Pub. L. 103–322, §60003(a)(3)(B), struck out before period at end “as provided in section 34 of this title”.
 
@@ -132,7 +150,7 @@ Subsec. (m). Pub. L. 103–322, §110518(b), added subsec. (m).
 
 1988—Subsec. (g). Pub. L. 100–690, §6474(a), designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), whoever” for “Whoever”, inserted “in an airport that is subject to the regulatory authority of the Federal Aviation Administration, or” after “possess an explosive”, inserted “or airport” after “such building”, substituted “not more than five years, or fined under this title, or both” for “not more than one year, or fined not more than $1,000, or both”, and added par. (2).
 
-Subsec. (h). Pub. L. 100–690, §6474(b)(2), which directed the amendment of subsec. (h) by striking “shall be sentenced” through the end and inserting new provisions was executed by striking “shall be sentenced” the first time it appeared through the end of the subsection which resulted in inserting concluding provisions and striking out former concluding provisions which read as follows: “shall be sentenced to a term of imprisonment for not less than one year nor more than ten years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to a term of imprisonment for not less than five years nor more than twenty-five years, and, notwithstanding any other provision of law, the court shall not suspend the sentence of such person or give him a probationary sentence.”
+Subsec. (h). Pub. L. 100–690, §6474(b)(2), which directed the amendment of subsec. (h) by striking “shall be sentenced” through the end and inserting new provisions was executed by striking “shall be sentenced” the first time it appeared through the end of the subsection which resulted in inserting concluding provisions andstriking out former concluding provisions which read as follows: “shall be sentenced to a term of imprisonment for not less than one year nor more than ten years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to a term of imprisonment for not less than five years nor more than twenty-five years, and, notwithstanding any other provision of law, the court shall not suspend the sentence of such person or give him a probationary sentence.”
 
 Subsec. (h)(2). Pub. L. 100–690, §6474(b)(1), in par. (2), struck out “unlawfully” after “explosive”.
 
@@ -145,6 +163,10 @@ Subsec. (h)(2). Pub. L. 100–690, §6474(b)(1), in par. (2), struck out “unla
 Subsec. (h)(1). Pub. L. 97–298, §2(b), inserted “fire or” after “uses”.
 
 Subsec. (i). Pub. L. 97–298, §2(c), inserted “fire or” after “by means of”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1996 Amendment
 
@@ -160,5 +182,7 @@ Subsecs. (a) to (c) of this section effective 120 days after Oct. 15, 1970, and 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 841, 842, 845, 846, 981, 982, 1956, 2332b, 2339, 2339A, 2516, 3295, 3592, 5032 of this title; title 8 section 1101; title 31 section 9703.
+This section is referred to in sections 841, 842, 845, 846, 981, 982, 1956, 2332b, 2332f, 2339, 2339A, 2516, 3295, 3592, 5032 of this title; title 8 section 1101.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Attorney General”.</i>
 

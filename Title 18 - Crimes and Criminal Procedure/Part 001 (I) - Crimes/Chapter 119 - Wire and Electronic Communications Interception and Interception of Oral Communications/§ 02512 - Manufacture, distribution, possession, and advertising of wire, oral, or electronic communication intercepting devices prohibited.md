@@ -6,13 +6,13 @@
 
 &emsp;(b) manufactures, assembles, possesses, or sells any electronic, mechanical, or other device, knowing or having reason to know that the design of such device renders it primarily useful for the purpose of the surreptitious interception of wire, oral, or electronic communications, and that such device or any component thereof has been or will be sent through the mail or transported in interstate or foreign commerce; or
 
-&emsp;(c) places in any newspaper, magazine, handbill, or other publication any advertisement of—
+&emsp;(c) places in any newspaper, magazine, handbill, or other publication or disseminates by electronic means any advertisement of—
 
 &emsp;&emsp;(i) any electronic, mechanical, or other device knowing or having reason to know that the design of such device renders it primarily useful for the purpose of the surreptitious interception of wire, oral, or electronic communications; or
 
 &emsp;&emsp;(ii) any other electronic, mechanical, or other device, where such advertisement promotes the use of such device for the purpose of the surreptitious interception of wire, oral, or electronic communications,
 
-> &emsp;knowing or having reason to know that such advertisement will be sent through the mail or transported in interstate or foreign commerce,
+> &emsp;knowing the content of the advertisement and knowing or having reason to know that such advertisement will be sent through the mail or transported in interstate or foreign commerce,
 
 > shall be fined under this title or imprisoned not more than five years, or both.
 
@@ -26,9 +26,11 @@
 
 (3) It shall not be unlawful under this section to advertise for sale a device described in subsection (1) of this section if the advertisement is mailed, sent, or carried in interstate or foreign commerce solely to a domestic provider of wire or electronic communication service or to an agency of the United States, a State, or a political subdivision thereof which is duly authorized to use such device.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 214; amended Pub. L. 99–508, title I, §101(c)(1)(A), (7), (f)(2), Oct. 21, 1986, 100 Stat. 1851, 1853; Pub. L. 103–322, title XXXIII, §§330016(1)(L), 330022, Sept. 13, 1994, 108 Stat. 2147, 2150; Pub. L. 104–294, title VI, §604(b)(45), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 105–112, §2, Nov. 21, 1997, 111 Stat. 2273.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 214; amended Pub. L. 99–508, title I, §101(c)(1)(A), (7), (f)(2), Oct. 21, 1986, 100 Stat. 1851, 1853; Pub. L. 103–322, title XXXIII, §§330016(1)(L), 330022, Sept. 13, 1994, 108 Stat. 2147, 2150; Pub. L. 104–294, title VI, §604(b)(45), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 105–112, §2, Nov. 21, 1997, 111 Stat. 2273; Pub. L. 107–296, title II, §225(f), Nov. 25, 2002, 116 Stat. 2158.)
 
 #### Amendments
+
+2002—Par. (1)(c). Pub. L. 107–296, in introductory provisions, inserted “or disseminates by electronic means” after “or other publication” and, in concluding provisions, inserted “knowing the content of the advertisement and” before “knowing or having reason to know”.
 
 1997—Par. (3). Pub. L. 105–112 added par. (3).
 
@@ -45,6 +47,10 @@ Par. (1). Pub. L. 99–508, §101(c)(1)(A), (f)(2), substituted “intentionally
 Par. (2)(a). Pub. L. 99–508, §101(c)(7), substituted “a provider of wire or electronic communication service or” for “a communications common carrier or”, “such a provider, in” for “a communications common carrier, in”, and “business of providing that wire or electronic communication service” for “communications common carrier's business”.
 
 Par. (2)(b). Pub. L. 99–508, §101(c)(1)(A), substituted “wire, oral, or electronic” for “wire or oral”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1996 Amendment
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Full Faith and Credit.—Any protection order issued that is consistent with subsection (b) of this section by the court of one State or Indian tribe (the issuing State or Indian tribe) shall be accorded full faith and credit by the court of another State or Indian tribe (the enforcing State or Indian tribe) and enforced as if it were the order of the enforcing State or tribe.
+Full Faith and Credit.—Any protection order issued that is consistent with subsection\(b) of this section by the court of one State or Indian tribe (the issuing State or Indian tribe) shall be accorded full faith and credit by the court of another State or Indian tribe (the enforcing State or Indian tribe) and enforced as if it were the order of the enforcing State or tribe.
 
 (b)
 
@@ -14,7 +14,7 @@ Protection Order.—A protection order issued by a State or tribal court is cons
 
 (c)
 
-Cross or Counter Petition.—A protection order issued by a State or tribal court againstone who has petitioned, filed a complaint, or otherwise filed a written pleading for protection against abuse by a spouse or intimate partner is not entitled to full faith and credit if—
+Cross or Counter Petition.—A protection order issued by a State or tribal court against one who has petitioned, filed a complaint, or otherwise filed a written pleading for protection against abuse by a spouse or intimate partner is not entitled to full faith and credit if—
 
 &emsp;(1) no cross or counter petition, complaint, or other written pleading was filed seeking such a protection order; or
 

@@ -2,7 +2,7 @@
 
 #### (a) Authorized activities
 
-Each eligible entity that receives an award under this part may use the award funds tocarry out a broad array of before and after school activities (including during summer recess periods) that advance student academic achievement, including—
+Each eligible entity that receives an award under this part may use the award funds to carry out a broad array of before and after school activities (including during summer recess periods) that advance student academic achievement, including—
 
 &emsp;(1) remedial education activities and academic enrichment learning programs, including providing additional assistance to students to allow the students to improve their academic achievement;
 

@@ -42,15 +42,15 @@ By Senate amendment to the bill, Blair County was transferred from the Middle Di
 
 #### Amendments
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–277, §101(b) \[title VI, §624(a)(1)\], substituted “and Philadelphia” for “Philadelphia, and Schuylkill”.
+1998—Subsec. (a). Pub. L. 105–277, §101(b) \[title VI, §624(a)(1)\], substituted “and Philadelphia” for “Philadelphia, and Schuylkill”.
 
 Subsec. (b). Pub. L. 105–277, §101(b) \[title VI, §624(a)(2)\], inserted “Schuylkill,” after “Potter,”.
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–396 inserted “Lancaster,” before “Reading”.
+1992—Subsec. (a). Pub. L. 102–396 inserted “Lancaster,” before “Reading”.
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–573 provided for holding court at Johnstown.
+1978—Subsec. (c). Pub. L. 95–573 provided for holding court at Johnstown.
 
-<b>1970</b>—Subsec. (a). Pub. L. 91–272 provided for holding court at Allentown and Reading.
+1970—Subsec. (a). Pub. L. 91–272 provided for holding court at Allentown and Reading.
 
 #### Effective Date of 1998 Amendment
 

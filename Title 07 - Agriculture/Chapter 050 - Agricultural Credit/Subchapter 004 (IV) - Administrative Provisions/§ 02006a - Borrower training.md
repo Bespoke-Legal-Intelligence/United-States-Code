@@ -18,11 +18,11 @@ The Secretary shall enter into contracts to provide educational training to all 
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), to be eligible to obtain a direct loan under this chapter, a borrower must obtain management assistance under this section, appropriate to the management ability of the borrower (as determined by the appropriate county committee established pursuant to section 1982 <sup>1</sup> of this title, during the determination of eligibility for the loan).
+&emsp;Subject to paragraph (2), to be eligible to obtain a direct loan under this chapter, a borrower must obtain management assistance under this section, appropriate to the management ability of the borrower (as determined by the appropriate county committee during the determination of eligibility for the loan).
 
 #### (2) Loan conditions
 
-&emsp;The need of a borrower who satisfies the criteria set out in section 1922(a)(2) or 1941(a)(2)of this title for management assistance under this section shall not be cause for denial of eligibility of the borrower for a direct loan under this chapter.
+&emsp;The need of a borrower who satisfies the criteria set out in section 1922(a)(2) or 1941(a)(2) of this title for management assistance under this section shall not be cause for denial of eligibility of the borrower for a direct loan under this chapter.
 
 #### (d) Guidelines and curriculum
 
@@ -34,17 +34,25 @@ A borrower shall pay for training received under this section, and may use funds
 
 #### (f) Waivers
 
-The Secretary may waive the requirements of this section for an individual borrower on a determination by the county committee that the borrower demonstrates adequate knowledge in areas described in this section.
+#### (1) In general
 
-(Pub. L. 87–128, title III, §359, as added Pub. L. 101–624, title XVIII, §1818(a), Nov. 28, 1990, 104 Stat. 3829; amended Pub. L. 105–277, div. A, §101(a) \[title VIII, §805(3)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39.)
+&emsp;The Secretary may waive the requirements of this section for an individual borrower if the Secretary determines that the borrower demonstrates adequate knowledge in areas described in this section.
+
+#### (2) Criteria
+
+&emsp;The Secretary shall establish criteria providing for the application of paragraph (1) consistently in all counties nationwide.
+
+(Pub. L. 87–128, title III, §359, as added Pub. L. 101–624, title XVIII, §1818(a), Nov. 28, 1990, 104 Stat. 3829; amended Pub. L. 105–277, div. A, §101(a) \[title VIII, §805(3)\], Oct. 21, 1998, 112 Stat. 2681, 2681–39; Pub. L. 107–171, title V, §§5316, 5501(c), May 13, 2002, 116 Stat. 348, 351.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in subsecs. (a) and (c), see note set out under section 1921 of this title.
 
-Section 1982 of this title, referred to in subsec. (c)(1), was repealed by Pub. L. 103–354, title II, §227(b)(1), Oct. 13, 1994, 108 Stat. 3218.
-
 #### Amendments
+
+2002—Subsec. (c)(1). Pub. L. 107–171, §5501(c), struck out “established pursuant to section 1982 of this title,” after “appropriate county committee”.
+
+Subsec. (f). Pub. L. 107–171, §5316, added subsec. (f) and struck out heading and text of former subsec. (f). Text read as follows: “The Secretary may waive the requirements of this section for an individual borrower on a determination by the county committee that the borrower demonstrates adequate knowledge in areas described in this section.”
 
 1998—Subsec. (a). Pub. L. 105–277, §101(a) \[title VIII, §805(3)(A)\], struck out “and guaranteed” after “direct”.
 
@@ -52,7 +60,5 @@ Subsec. (c). Pub. L. 105–277, §101(a) \[title VIII, §805(3)(B)\], struck out
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1942, 1949, 1981, 2006b of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 1941, 1942, 1949, 1981, 2006b of this title.
 

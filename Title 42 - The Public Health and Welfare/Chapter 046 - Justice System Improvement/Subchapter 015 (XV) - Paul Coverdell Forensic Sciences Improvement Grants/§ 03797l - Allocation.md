@@ -8,7 +8,7 @@
 
 #### (2) Discretionary allocation
 
-&emsp;Twenty-five percent of the amount made available to carry out this subchapter in each fiscal year shall be allocated pursuant to the Attorney General's discretion to States with above average rates of part 1 violent crimes based on the average annual number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 most recent calendar years for which such data is available.
+&emsp;Twenty-five percent of the amount made available to carry out this subchapter in each fiscal year shall be allocated pursuant to the Attorney General's discretion for competitive awards to States and units of local government. In making awards under this subchapter, the Attorney General shall consider the average annual number of part 1 violent crimes reported by each State to the Federal Bureau of Investigation for the 3 most recent calendar years for which data is available and consider the existing resources and current needs of the potential grant recipient.
 
 #### (3) Minimum requirement
 
@@ -26,5 +26,9 @@ In this section, the term “State” means each of the several States, the Dist
 
 &emsp;(2) for purposes of paragraph (1), 67 percent of the amount allocated shall be allocated to American Samoa, and 33 percent shall be allocated to the Commonwealth of the Northern Mariana Islands.
 
-(Pub. L. 90–351, title I, §2803, as added Pub. L. 106–561, §2(c)(1), Dec. 21, 2000, 114 Stat. 2788.)
+(Pub. L. 90–351, title I, §2803, as added Pub. L. 106–561, §2(c)(1), Dec. 21, 2000, 114 Stat. 2788; amended Pub. L. 107–273, div. B, title V, §5001(b)(3), Nov. 2, 2002, 116 Stat. 1814.)
+
+#### Amendments
+
+2002—Subsec. (a)(2). Pub. L. 107–273 substituted “for competitive awards to States and units of local government. In making awards under this subchapter, the Attorney General shall consider the average annual number of part 1 violent crimes reported by each State to the Federal Bureau of Investigation for the 3 most recent calendar years for which data is available and consider the existing resources and current needs of the potential grant recipient” for “to States with above average rates of part 1 violent crimes based on the average annual number of part 1 violent crimes reported by such State to the Federal Bureau of Investigation for the 3 most recent calendar years for which such data is available”.
 

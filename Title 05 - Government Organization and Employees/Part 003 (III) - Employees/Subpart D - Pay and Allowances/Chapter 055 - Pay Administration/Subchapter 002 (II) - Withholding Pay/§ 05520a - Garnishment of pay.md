@@ -82,7 +82,7 @@ The Soldiers’ and Sailors’ Relief Act of 1940, referred to in subsec. (k)(2)
 
 1997—Subsec. (j)(2). Pub. L. 105–85, §1105(1), added par. (2) and struck out former par. (2) which read as follows: “Such regulations shall provide that an agency's administrative costs incurred in executing legal process to which the agency is subject under this section shall be deducted from the amount withheld from the pay of the employee concerned pursuant to the legal process.”
 
-Subsec. (k)(3), (4). Pub. L. 105–85, §1105(2), redesignated par. (4) as (3) and struck out former par. (3) whichread as follows: “Regulations under this subsection may also provide that the administrative costs incurred in establishing and maintaining an involuntary allotment be deducted from the amount withheld from the pay of the member of the uniformed services concerned pursuant to such regulations.”
+Subsec. (k)(3), (4). Pub. L. 105–85, §1105(2), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “Regulations under this subsection may also provide that the administrative costs incurred in establishing and maintaining an involuntary allotment be deducted from the amount withheld from the pay of the member of the uniformed services concerned pursuant to such regulations.”
 
 Subsec. (<i>l</i>). Pub. L. 105–85, §1105(3), struck out subsec. (<i>l</i>) which read as follows: “The amount of an agency's administrative costs deducted under regulations prescribed pursuant to subsection (j)(2) or (k)(3) shall be credited to the appropriation, fund, or account from which such administrative costs were paid.”
 
@@ -104,73 +104,13 @@ For provisions relating to effective date of title III of Pub. L. 104–193, see
 
 Section effective 120 days after Oct. 6, 1993, and not to affect any proceedings with respect to which charges were filed on or before 120 days after Oct. 6, 1993, with orders to be issued in such proceedings and appeals taken therefrom as if Pub. L. 103–94 had not been enacted, see section 12 of Pub. L. 103–94, set out as a note under section 7321 of this title.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Pilot Program on Alternative Notice of Receipt of Legal Process for Garnishment of Federal Pay for Child Support and Alimony
 
-Pub. L. 105–261, div. A, title X, §1061, Oct. 17, 1998, 112 Stat. 2128, provided that:
-
-“(a)
-
-Program Required.—The Secretary of Defense shall conduct a pilot program on alternative notice procedures for withholding or garnishment of pay for the payment of child support and alimony under section 459 of the Social Security Act (42 U.S.C. 659).
-
-“(b)
-
-Purpose.—The purpose of the pilot program is to test the efficacy of providing notice in accordance with subsection (c) to the person whose pay is to be withheld or garnished.
-
-“(c)
-
-Authorization of Alternative To Providing Copy of Notice or Service Received by the Secretary.—(1) Under the pilot program, whenever the Secretary of Defense (acting through the DOD section 459 agent) provides a section 459 notice to an individual, the Secretary may include as part of that notice the information specified in subsection (e) in lieu of sending with that notice a copy (otherwise required pursuant to the parenthetical phrase in section 459(c)(2)(A) of the Social Security Act) of the notice or service received by the DOD section 459 agent with respect to that individual's child support or alimony payment obligations.
-
-“(2) Under the pilot program, whenever the Secretary of Defense (acting through the DOD section 5520a agent) provides a section 5520a notice to an individual, the Secretary may include as part of that notice the information specified in subsection (e) in lieu of sending with that notice a copy (otherwise required pursuant to the second parenthetical phrase in section 5520a(c) of title 5, United States Code) of the legal process received by the DOD section 5520a agent with respect to that individual.
-
-“(d)
-
-Definitions.—For purposes of this section:
-
-&emsp;“(1)
-
-DOD section 459 agent.—The term ‘DOD section 459 agent’ means the agent or agents designated by the Secretary of Defense under subsection (c)(1)(A) of section 459 of the Social Security Act (42 U.S.C. 659) to receive orders and accept service of process in matters related to child support or alimony.
-
-&emsp;“(2)
-
-Section 459 notice.—The term ‘section 459 notice’ means, with respect to the Department of Defense, the notice required by subsection (c)(2)(A) of section 459 of the Social Security Act (42 U.S.C. 659) to be sent to an individual in writing upon the receipt by the DOD section 459 agent of notice or service with respect to the individual's child support or alimony payment obligations.
-
-&emsp;“(3)
-
-DOD section 5520a agent.—The term ‘DOD section 5520a agent’ means a person who is designated by law or regulation to accept service of process to which the Department of Defense is subject under section 5520a of title 5, United States Code (including the regulations promulgated under subsection (k) of that section).
-
-&emsp;“(4)
-
-Section 5520a notice.—The term ‘section 5520a notice’ means, with respect to the Department of Defense, the notice required by subsection (c) of section 5520a of title 5, United States Code, to be sent in writing to an employee (or, pursuant to the regulations promulgated under subsection (k) of that section, to a member of the Armed Forces) upon the receipt by the DOD section 5520a agent of legal process covered by that section.
-
-“(e)
-
-Alternative Requirements.—The information referred to in subsection (c) that is to be included as part of a section 459 notice or section 5520a notice sent to an individual (in lieu of sending with that notice a copy of the notice or service received by the DOD section 459 agent or the DOD section 5520a agent) is the following:
-
-&emsp;“(1) A description of the pertinent court order, notice to withhold, or other order, process, or interrogatory received by the DOD section 459 agent or the DOD section 5520a agent.
-
-&emsp;“(2) The identity of the court or judicial forum involved and (in the case of a notice or process concerning the ordering of a support or alimony obligation) the case number, the amount of the obligation, and the name of the beneficiary.
-
-&emsp;“(3) Information on how the individual may obtain from the Department of Defense a copy of the notice, service, or legal process, including an address and telephone number that the individual may be contacted for the purpose of obtaining such a copy.
-
-“(f)
-
-Period of Pilot Program.—The Secretary shall commence the pilot program not later than 90 days after the date of the enactment of this Act \[Oct. 17, 1998\]. The pilot program shall terminate on September 30, 2001.
-
-“(g)
-
-Report.—Not later than January 1, 2001, the Secretary shall submit to Congress a report describing the experience of the Department of Defense under the authority provided by this section. The report shall include the following:
-
-&emsp;“(1) The number of section 459 notices provided by the DOD section 459 agent during the period the authority provided by this section was in effect.
-
-&emsp;“(2) The number of individuals who requested the DOD section 459 agent to provide to them a copy of the actual notice or service.
-
-&emsp;“(3) Any complaint the Secretary received by reason of not having provided the actual notice or service in the section 459 notice.
-
-&emsp;“(4) The number of section 5520a notices provided by the DOD section 5520a agent during the period the authority provided by this section was in effect.
-
-&emsp;“(5) The number of individuals who requested the DOD section 5520a agent to provide to them a copy of the actual legal process.
-
-&emsp;“(6) Any complaint the Secretary received by reason of not having provided the actual legal process in the section 5520a notice.”
+Pub. L. 105–261, div. A, title X, §1061, Oct. 17, 1998, 112 Stat. 2128, authorized the Secretary of Defense to conduct a pilot program on alternative notice procedures for withholding or garnishment of pay for the payment of child support and alimony under section 659 of Title 42, The Public Health and Welfare, required the Secretary to submit to Congress, not later than Jan. 1, 2001, a report describing the experience of the Department of Defense under the authority provided for the program, and provided for termination of pilot program on Sept. 30, 2001.
 
 #### Ex. Ord. No. 12897. Garnishment of Federal Employees’ Pay
 

@@ -14,7 +14,7 @@
 
 &emsp;&emsp;&emsp;(ii) field or other physical measurements of the standing or stored crop in regions of the United States, as determined by the Secretary, that do not have certified commercial scales from which certified scale tickets may be obtained within reasonable proximity of harvest operation;
 
-&emsp;&emsp;(C) certify that they were the owners of the feed grain at the time of delivery to, and that the quantity to be placed under loan under this subsection was in fact harvested on the farm and delivered to, a feedlot, feed mill, or commercial or on-farm high-moisture storage facility, or to a facility maintained by the users of corn and grain sorghum in a high moisture state; and
+&emsp;&emsp;(C) certify that they were the owners of the feed grain at the time of delivery to, and that the quantity to be placed under loanunder this subsection was in fact harvested on the farm and delivered to, a feedlot, feed mill, or commercial or on-farm high-moisture storage facility, or to a facility maintained by the users of corn and grain sorghum in a high moisture state; and
 
 &emsp;&emsp;(D) comply with deadlines established by the Secretary for harvesting the corn or grain sorghum and submit applications for loans under this subsection within deadlines established by the Secretary.
 
@@ -69,4 +69,8 @@ Repayment of a recourse loan made under this section shall be at the loan rate e
 1998—Pub. L. 105–277, §101(a) \[title XI, §1126(1)\], inserted “and other fibers” after “seed cotton” in section catchline.
 
 Subsecs. (c), (d). Pub. L. 105–277, §101(a) \[title XI, §1126(2), (3)\], added subsec. (c) and redesignated former subsec. (c) as (d).
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7939 of this title.
 

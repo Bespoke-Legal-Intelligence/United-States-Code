@@ -50,7 +50,7 @@ A prior section 504 of Pub. L. 93–344, title V, July 12, 1974, 88 Stat. 322, w
 
 #### Amendments
 
-1997—Subsec. (b)(1). Pub. L. 105–33, §10117(b)(1), amended par. (1) generally. Prior to amendment, par.\(1) read as follows: “appropriations of budget authority to cover their costs are made in advance;”.
+1997—Subsec. (b)(1). Pub. L. 105–33, §10117(b)(1), amended par. (1) generally. Prior to amendment, par. (1) read as follows: “appropriations of budget authority to cover their costs are made in advance;”.
 
 Subsec. (b)(2). Pub. L. 105–33, §10117(b)(2), substituted “has been provided in advance in an appropriations Act” for “is enacted”.
 

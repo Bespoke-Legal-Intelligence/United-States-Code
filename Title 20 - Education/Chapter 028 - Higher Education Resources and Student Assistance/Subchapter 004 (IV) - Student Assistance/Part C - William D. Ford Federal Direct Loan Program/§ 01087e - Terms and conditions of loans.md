@@ -112,15 +112,11 @@
 
 &emsp;&emsp;&emsp;(ii) by substituting “9.0 percent” for “8.25 percent”.
 
-#### (6) <sup>1</sup> Publication
-
-&emsp;The Secretary shall determine the applicable rates of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
-
-#### (6) <sup>1</sup> Interest rate provision for new loans on or after October 1, 1998, and before July 1, 2003
+#### (6) Interest rate provision for new loans on or after October 1, 1998, and before July 1, 2006
 
 #### (A) Rates for FDSL and FDUSL
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;&emsp;(i) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -130,7 +126,7 @@
 
 #### (B) In school and grace period rules
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, the applicable rate of interest for interest which accrues—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct Stafford Loan or Federal Direct Unsubsidized Stafford Loan for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;&emsp;(i) prior to the beginning of the repayment period of the loan; or
 
@@ -140,7 +136,7 @@
 
 #### (C) PLUS loans
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to Federal Direct PLUS Loan for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, the applicable rate of interest shall be determined under subparagraph (A)—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to Federal Direct PLUS Loan for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall be determined under subparagraph (A)—
 
 &emsp;&emsp;&emsp;(i) by substituting “3.1 percent” for “2.3 percent”; and
 
@@ -148,7 +144,7 @@
 
 #### (D) Consolidation loans
 
-&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after February 1, 1999, and before July 1, 2003, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after February 1, 1999, and before July 1, 2006, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
 
 &emsp;&emsp;&emsp;(i) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of one percent; or
 
@@ -164,7 +160,25 @@
 
 > &emsp;&emsp;except that such rate shall not exceed 8.25 percent.
 
-#### (7) Repayment incentives
+#### (7) Interest rate provision for new loans on or after July 1, 2006
+
+#### (A) Rates for FDSL and FDUSL
+
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, for Federal Direct Stafford Loans and Federal Direct Unsubsidized Stafford Loans for which the first disbursement is made on or after July 1, 2006, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
+
+#### (B) PLUS loans
+
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, with respect to any Federal Direct PLUS loan for which the first disbursement is made on or after July 1, 2006, the applicable rate of interest shall be 7.9 percent on the unpaid principal balance of the loan.
+
+#### (C) Consolidation loans
+
+&emsp;&emsp;Notwithstanding the preceding paragraphs of this subsection, any Federal Direct Consolidation loan for which the application is received on or after July 1, 2006, shall bear interest at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
+
+&emsp;&emsp;&emsp;(i) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of one percent; or
+
+&emsp;&emsp;&emsp;(ii) 8.25 percent.
+
+#### (8) Repayment incentives
 
 #### (A) In general
 
@@ -173,6 +187,10 @@
 #### (B) Accountability
 
 &emsp;&emsp;Prior to publishing regulations proposing repayment incentives, the Secretary shall ensure the cost neutrality of such reductions. The Secretary shall not prescribe such regulations in final form unless an official report from the Director of the Office of Management and Budget to the Secretary and a comparable report from the Director of the Congressional Budget Office to the Congress each certify that any such reductions will be completely cost neutral. Such reports shall be transmitted to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives not less than 60 days prior to the publication of regulations proposing such reductions.
+
+#### (9) Publication
+
+&emsp;The Secretary shall determine the applicable rates of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
 #### (c) Loan fee
 
@@ -202,7 +220,7 @@ The Secretary shall charge the borrower of a loan made under this part an origin
 
 #### (4) Alternative repayment plans
 
-&emsp;The Secretary may provide, on a case by case basis, an alternative repayment plan to a borrower of a loan made under this part who demonstrates to the satisfaction of the Secretary that the terms and conditions of the repayment plans available under paragraph (1) are not adequate to accommodate the borrower's exceptional circumstances. In designing such alternative repayment plans, the Secretary shall ensure that such plans do not exceed the cost to the Federal Government, as determined on the basis of the present value of future payments by such borrowers, of loans made using the plans available under paragraph (1).
+&emsp;The Secretary may provide, on a case by case basis, an alternative repayment plan to a borrower of a loan made under this part who demonstrates to the satisfaction of the Secretary that the terms and conditions of the repayment plans available under paragraph (1)are not adequate to accommodate the borrower's exceptional circumstances. In designing such alternative repayment plans, the Secretary shall ensure that such plans do not exceed the cost to the Federal Government, as determined on the basis of the present value of future payments by such borrowers, of loans made using the plans available under paragraph (1).
 
 #### (5) Repayment after default
 
@@ -296,7 +314,7 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 #### (1) In general
 
-&emsp;Proceeds of loans to students under this part shall be applied to the student's account fortuition and fees, and, in the case of institutionally owned housing, to room and board. Loan proceeds that remain after the application of the previous sentence shall be delivered to the borrower by check or other means that is payable to and requires the endorsement or other certification by such borrower.
+&emsp;Proceeds of loans to students under this part shall be applied to the student's account for tuition and fees, and, in the case of institutionally owned housing, to room and board. Loan proceeds that remain after the application of the previous sentence shall be delivered to the borrower by check or other means that is payable to and requires the endorsement or other certification by such borrower.
 
 #### (2) Payment periods
 
@@ -318,13 +336,31 @@ The common financial reporting form required in section 1090(a)(1) of this title
 
 &emsp;All transaction histories under this part shall be maintained using the same system designated by the Secretary for the provision of Federal Pell Grants under subpart 1 of part A of this subchapter.
 
-(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1), (b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49.)
+#### (<i>l</i>) Armed Forces student loan interest payment program
+
+#### (1) Authority
+
+&emsp;Using funds received by transfer to the Secretary under section 2174 of title 10 for the payment of interest on a loan made under this part to a member of the Armed Forces, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
+
+#### (2) Forbearance
+
+&emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the Secretary shall grant the borrower forbearance, in the form of a temporary cessation of all payments on the loan other than the payments of interest on the loan that are made under that paragraph.
+
+(Pub. L. 89–329, title IV, §455, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1439; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 572; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 346; Pub. L. 103–382, title III, §359, Oct. 20, 1994, 108 Stat. 3968; Pub. L. 105–178, title VIII, §8301(c), June 9, 1998, 112 Stat. 498; Pub. L. 105–244, title IV, §§401(g)(6), 452(a)(1),\(b), (c), Oct. 7, 1998, 112 Stat. 1652, 1715–1717; Pub. L. 106–554, §1(a)(1) \[title III, §318(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(b), (c), Feb. 8, 2002, 116 Stat. 9; Pub. L. 107–314, div. A, title VI, §651(c), Dec. 2, 2002, 116 Stat. 2580.)
 
 #### References in Text
 
 Sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title as such sections were in effect on July 22, 1992, referred to in subsec. (f)(4), means sections 1077(a)(2)(C) and 1078(b)(1)(M) of this title prior to being amended generally by sections 414(b) and 416(e)(1), respectively, of Pub. L. 102–325, title IV, July 23, 1992, 106 Stat. 513, 519.
 
 #### Amendments
+
+2002—Subsec. (b)(6) to (9). Pub. L. 107–139, in par. (6) relating to interest rate provision for new loans substituted “
+
+2006” for “
+
+2003” in heading and “July 1, 2006,” for “July 1, 2003,” wherever appearing in text, added par. (7), redesignated former par. (7) as (8), and redesignated par. (6) relating to publication of rate in Federal Register as (9).
+
+Subsec. (<i>l</i>). Pub. L. 107–314 added subsec. (<i>l</i>).
 
 2000—Subsec. (b)(4)(A). Pub. L. 106–554 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “For Federal Direct PLUS Loans for which the first disbursement is made on or after July 1, 1994, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
@@ -352,6 +388,10 @@ Subsecs. (j)(2), (k)(3). Pub. L. 105–244, §401(g)(6), substituted “Federal 
 
 1992—Pub. L. 102–325 amended section generally, substituting provisions relating to withdrawal and termination procedures for former provisions relating to feasibility study.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–314 applicable with respect to interest, and any special allowance under section 1087–1 of this title, that accrue for months beginning on or after Oct. 1, 2003, on student loans described in section 2174(c) of Title 10, Armed Forces, that were made before, on, or after such date to members of the Armed Forces who are on active duty (as defined in section 101(d) of Title 10) on or after that date, see section 651(e) of Pub. L. 107–314, set out as an Effective Date note under section 2174 of Title 10.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by sections 401(g)(6) and 452(b), (c) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -368,7 +408,5 @@ Pub. L. 105–244, title IV, §452(a)(2), Oct. 7, 1998, 112 Stat. 1716, provided
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1078–3, 1087i of this title; title 2 section 906.
-
-<i><sup>1</sup></i><i> So in original. Two pars. (6) have been enacted.</i>
+This section is referred to in sections 1078–3, 1087i of this title; title 2 section 906; title 10 section 2174.
 

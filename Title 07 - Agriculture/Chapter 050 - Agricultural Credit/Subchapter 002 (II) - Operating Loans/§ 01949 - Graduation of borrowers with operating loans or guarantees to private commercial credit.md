@@ -20,3 +20,7 @@ The Secretary shall establish a plan, in coordination with activities under sect
 
 1996—Subsec. (b). Pub. L. 104–127 added subsec. (b) and struck out former subsec. (b) which provided for limitation on period for which borrowers were eligible for assistance under this subchapter and contained transition rule.
 
+#### Suspension of Limitation on Period for Which Borrowers Are Eligible for Guaranteed Assistance
+
+Pub. L. 107–171, title V, §5102, May 13, 2002, 116 Stat. 343, provided that: “During the period beginning January 1, 2002, and ending December 31, 2006, section 319(b) of the Consolidated Farm and Rural Development Act (7 U.S.C. 1949(b)) shall have no force or effect.”
+

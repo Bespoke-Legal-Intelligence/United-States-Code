@@ -22,7 +22,7 @@ The agreement shall—
 
 &emsp;(4) include such other conditions as the Secretary deems necessary to carry out the purposes of this part;
 
-&emsp;(5) provide that any laborer or mechanic employed by any contractor or subcontractor in the performance of work on any construction aided by Federal funds appropriated for the benefit of NTID will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) commonly referred to as the Davis-Bacon Act; except that the Secretary of Labor shall have, with respect to the labor standards specified in this paragraph, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 276c of title 40; and
+&emsp;(5) provide that any laborer or mechanic employed by any contractor or subcontractor in the performance of work on any construction aided by Federal funds appropriated for thebenefit of NTID will be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40; except that the Secretary of Labor shall have, with respect to the labor standards specified in this paragraph, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40; and
 
 &emsp;(6) establish a policy of outreach and recruitment to employ and advance in employment qualified individuals with disabilities, particularly individuals who are deaf or hard of hearing.
 
@@ -40,9 +40,11 @@ If, within twenty years after the completion of any construction (except minor r
 
 #### References in Text
 
-Act of March 3, 1931 (40 U.S.C. 276a—276a–5) commonly referred to as the Davis-Bacon Act, referred to in subsec. (b)(5), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (b)(5), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+
+In subsec. (b)(5), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (40 U.S.C. 276a—276a–5) commonly referred to as the Davis-Bacon Act” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 
@@ -64,7 +66,7 @@ Subsec. (b)(3). Pub. L. 103–73, §203(g)(3)(A), substituted “Secretary, not 
 
 Subsec. (b)(4). Pub. L. 103–73, §203(g)(3)(B), struck out “and” at end of par. (4).
 
-Subsec. (b)(5). Pub. L. 103–73, §203(g)(3)(C), substituted “except that the Secretary” for “and the Secretary” and “title 40; and” for “title 40.”
+Subsec. (b)(5). Pub. L. 103–73, §203(g)(3)(C), substituted “except that the Secretary” for “and the Secretary” and “; and” for period at end.
 
 Pub. L. 103–73, §202, substituted “NTID” for “the Institute”.
 
@@ -94,7 +96,7 @@ Amendment by Pub. L. 102–421 effective Oct. 1, 1992, see section 161 of Pub. L
 
 #### Establishment of Institute
 
-Pursuant to an agreement entered into between the Secretary and the Rochester Institute of Technology on Dec. 20, 1966, the National Technical Institute for the Deaf (N.T.I.D.) was established and located at Rochester, New York.
+Pursuant to an agreement entered into between the Secretary and the Rochester Institute of Technologyon Dec. 20, 1966, the National Technical Institute for the Deaf (N.T.I.D.) was established and located at Rochester, New York.
 
 #### Section Referred to in Other Sections
 

@@ -40,5 +40,5 @@ July 7, 1932, ch. 443, 47 Stat. 625.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 40 section 483.
+This section is referred to in title 40 section 525.
 

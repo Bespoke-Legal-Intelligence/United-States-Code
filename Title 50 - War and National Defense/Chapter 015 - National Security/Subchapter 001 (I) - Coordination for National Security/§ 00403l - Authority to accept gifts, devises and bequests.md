@@ -14,7 +14,7 @@ There is hereby created on the books of the Treasury of the United States a fund
 
 #### (d) Taxation of gifts
 
-For purposes of Federal income, estate, and gift taxes, gifts accepted by the Director under this section shall be considered to be to or for the use of the United States.
+For purposes of Federal income, estate, and gift taxes, gifts accepted by the Director underthis section shall be considered to be to or for the use of the United States.
 
 #### (e) “Gift” defined
 

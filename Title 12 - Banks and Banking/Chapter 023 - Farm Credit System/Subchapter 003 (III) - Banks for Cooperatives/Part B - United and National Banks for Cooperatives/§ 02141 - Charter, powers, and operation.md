@@ -20,7 +20,7 @@ Section 413 of the Agricultural Credit Act of 1987, referred to in subsec. (a), 
 
 #### Amendments
 
-1988—Subsec. (a). Pub. L. 100–399, §407(a), struck out “in this section” after “referred to” and inserted“, established under section 413 of the Agricultural Credit Act of 1987,” before “shall”.
+1988—Subsec. (a). Pub. L. 100–399, §407(a), struck out “in this section” after “referred to” and inserted “, established under section 413 of the Agricultural Credit Act of 1987,” before “shall”.
 
 Subsec. (b). Pub. L. 100–399, §407(b), inserted “except” before “as otherwise”.
 

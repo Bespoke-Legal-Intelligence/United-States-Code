@@ -78,10 +78,6 @@ Section 1428(a) of Pub. L. 100–418 provided that:
 
 “(B) For purposes of this part \[see Effective Date note above\], the term ‘disapproval resolution’ means a joint resolution of the two Houses of the Congress, the matter after the resolving clause of which is as follows: ‘That the Congress disapproves of the determination made by the President under section 1428(a)(4)(A) of the Omnibus Trade and Competitiveness Act of 1988 \[subsec. (a)(4)(A) of this note\].’ ”
 
-#### Termination of Duties
-
-No duty may be imposed under this section after Sept. 30, 1993, see section 285(b) of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
-
 #### Determination That Certain Import Fees Are Not in the National Economic Interest
 
 Determination of President of the United States, No. 90–34, Aug. 23, 1990, 55 F.R. 34889, provided:

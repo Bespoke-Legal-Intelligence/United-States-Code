@@ -126,7 +126,7 @@ Subsecs. (c), (d). Pub. L. 102–586, §3(c)(2)(H), added subsecs. (c) and (d).
 
 1988—Subsec. (a). Pub. L. 100–690, §7271(c)(1), (2), substituted “section 5711(a) of this title” for “this part” and “runaway and homeless youth center” for “runaway center”.
 
-Subsec. (b). Pub. L. 100–690, §7271(c)(1), (3)(A), substituted “section 5711(a) of this title” for “this part” and “including assurances that the applicant” for “meeting the following requirements and including the following information. Each center” in introductory provisions.
+Subsec. (b). Pub. L. 100–690, §7271(c)(1), (3)(A), substituted “section 5711(a) of this title” for “this part”and “including assurances that the applicant” for “meeting the following requirements and including the following information. Each center” in introductory provisions.
 
 Subsec. (b)(1). Pub. L. 100–690, §7271(c)(3)(B), substituted “shall operate a runaway and homeless youth center” for “shall be” and “runaway and homeless youth” for “runaway youth”.
 

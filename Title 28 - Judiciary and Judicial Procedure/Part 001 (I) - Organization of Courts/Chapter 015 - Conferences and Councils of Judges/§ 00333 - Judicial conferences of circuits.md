@@ -22,19 +22,19 @@ The provision as to travel and subsistence which was contained in said section 4
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–134, §101\[(a)\] \[title III, §305(1)\], in first par. substituted “may” for “shall” before “summon biennially”, “preside at such”, and “also be summoned”.
+1996—Pub. L. 104–134, §101\[(a)\] \[title III, §305(1)\], in first par. substituted “may” for “shall” before “summon biennially”, “preside at such”, and “also be summoned”.
 
 Pub. L. 104–134, §101\[(a)\] \[title III, §305(2)\], in second par. substituted “may” for “shall” before “attend” and struck out “, and unless excused by the chief judge, shall remain throughout the conference” before period at end.
 
-<b>1990</b>—Pub. L. 101–650 substituted “biennially, and may summon annually,” for “annually”, struck out “the United States District Court for the District of the Canal Zone,” after “The judges of”, and substituted “the District Court of the Virgin Islands, and the District Court of the Northern Mariana Islands shall also be summoned biennially, and may be summoned annually,” for “and the District Court of the Virgin Islands shall also be summoned annually”.
+1990—Pub. L. 101–650 substituted “biennially, and may summon annually,” for “annually”, struck out “the United States District Court for the District of the Canal Zone,” after “The judges of”, and substituted “the District Court of the Virgin Islands, and the District Court of the Northern Mariana Islands shall also be summoned biennially, and may be summoned annually,” for “and the District Court of the Virgin Islands shall also be summoned annually”.
 
-<b>1978</b>—Pub. L. 95–598 inserted reference to bankruptcy judges.
+1978—Pub. L. 95–598 inserted reference to bankruptcy judges.
 
-<b>1958</b>—Pub. L. 85–508 struck out provisions which required judge of District Court for Territory of Alaska to be summoned annually to the conference of his circuit. See section 81A of this title which establishes a United States District Court for the State of Alaska.
+1958—Pub. L. 85–508 struck out provisions which required judge of District Court for Territory of Alaska to be summoned annually to the conference of his circuit. See section 81A of this title which establishes a United States District Court for the State of Alaska.
 
-<b>1951</b>—Act Oct. 31, 1951, inserted reference to judge of District Court of Guam in first par.
+1951—Act Oct. 31, 1951, inserted reference to judge of District Court of Guam in first par.
 
-<b>1950</b>—Act Dec., 29, 1950, provided for the presence of judges of District Courts of Alaska, Canal Zone, and the Virgin Islands at annual conferences within their respective circuits.
+1950—Act Dec., 29, 1950, provided for the presence of judges of District Courts of Alaska, Canal Zone, and the Virgin Islands at annual conferences within their respective circuits.
 
 #### Effective Date of 1978 Amendment
 
@@ -42,7 +42,7 @@ Amendment by Pub. L. 95–598 effective Oct. 1, 1979, see section 402(c) of Pub.
 
 #### Effective Date of 1958 Amendment
 
-Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
+Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc.No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of this title and preceding section 21 of Title 48, Territories and Insular Possessions.
 
 #### Termination of United States District Court for the District of the Canal Zone
 

@@ -50,7 +50,7 @@ The Task Force shall establish and implement monitoring measures, within the pro
 
 #### (1) In general
 
-&emsp;The Task Force may develop cooperative efforts, within the program established under subsection (a) of this section, to control established aquatic nuisance species to minimize the risk of harm to the environment and the public health and welfare. For purposes of this chapter, control efforts include eradication ofinfestations, reductions of populations, development of means of adapting human activities and public facilities to accommodate infestations, and prevention of the spread of aquatic nuisance species from infested areas. Such control efforts shall be developed in consultation with affected Federal agencies, States, Indian Tribes, local governments, interjurisdictional organizations, and other appropriate entities. Control actions authorized by this section shall be based on the best available scientific information and shall be conducted in an environmentally sound manner.
+&emsp;The Task Force may develop cooperative efforts, within the program established under subsection (a) of this section, to control established aquatic nuisance species to minimize the risk of harm to the environment and the public health and welfare. For purposes of this chapter, control efforts include eradication of infestations, reductions of populations, development of means of adapting human activities and public facilities to accommodate infestations, and prevention of the spread of aquatic nuisance species from infested areas. Such control efforts shall be developed in consultation with affected Federal agencies, States, Indian Tribes, local governments, interjurisdictional organizations, and other appropriate entities. Control actions authorized by this section shall be based on the best available scientific information and shall be conducted in an environmentally sound manner.
 
 #### (2) Decisions
 
@@ -80,7 +80,7 @@ The Task Force shall establish and implement monitoring measures, within the pro
 
 #### (3) Grants for research
 
-&emsp;The Task Force shall allocate funds authorized under this chapter for competitive research grants to study all aspects of aquatic nuisance species, which shall be administered through the National Sea Grant College Program and the Cooperative Fishery and Wildlife Research Units. Grants shall be conditioned to ensure that any recipient of funds follows the protocol established under paragraph (2) of this subsection.
+&emsp;The Task Force shall allocate funds authorized under this chapter for competitive research grants to study all aspects of aquatic nuisance species, which shall be administered through the National Sea Grant College Program and the Cooperative Fishery and WildlifeResearch Units. Grants shall be conditioned to ensure that any recipient of funds follows the protocol established under paragraph (2) of this subsection.
 
 #### (g) Technical assistance
 

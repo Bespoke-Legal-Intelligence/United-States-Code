@@ -20,7 +20,7 @@ In carrying out the Program the Secretary, in consultation with State foresters 
 
 &emsp;(2) investing in practices to protect, maintain, and enhance the resources identified in paragraph (1);
 
-&emsp;(3) ensuring that afforestation, reforestation, improvement of poorly stocked stands,timber stand improvement, practices necessary to improve seedling growth and survival, and growth enhancement practices occur where needed to enhance and sustain the long-term productivity of timber and nontimber forest resources to help meet future public demand for all forest resources and provide the environmental benefits that result; and
+&emsp;(3) ensuring that afforestation, reforestation, improvement of poorly stocked stands, timber stand improvement, practices necessary to improve seedling growth and survival, and growth enhancement practices occur where needed to enhance and sustain the long-term productivity of timber and nontimber forest resources to help meet future public demand for all forest resources and provide the environmental benefits that result; and
 
 &emsp;(4) protecting their forests from damage caused by fire, insects, disease, and damaging weather.
 
@@ -62,5 +62,5 @@ A prior section 5 of Pub. L. 95–313 was renumbered section 8 and is classified
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2103b, 2106b, 3835a of this title.
+This section is referred to in sections 2106b, 3835a of this title.
 

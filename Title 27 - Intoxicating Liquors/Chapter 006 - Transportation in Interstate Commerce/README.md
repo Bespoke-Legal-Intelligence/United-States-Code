@@ -15,6 +15,10 @@
 | (a) | Effect on Internet Tax Freedom Act. |
 | (b) | Inapplicability to service providers. |
 | [123\.](%C2%A7%2000123%20-%20Repealed.%20June%2025%2C%201936%2C%20ch.%20815%2C%20%C2%A79%2C%2049%20Stat.%201930.md) | Repealed. |
+| [124\.](%C2%A7%2000124%20-%20Direct%20shipment%20of%20wine.md) | Direct shipment of wine. |
+| (a) | Conditions for transporting certain wine. |
+| (b) | Violations. |
+| (c) | Report. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -28,3 +32,4 @@
 - [&sect; 00122a - Injunctive relief in Federal district court](%C2%A7%2000122a%20-%20Injunctive%20relief%20in%20Federal%20district%20court.md)
 - [&sect; 00122b - General provisions](%C2%A7%2000122b%20-%20General%20provisions.md)
 - [&sect; 00123 - Repealed. June 25, 1936, ch. 815, &sect;9, 49 Stat. 1930](%C2%A7%2000123%20-%20Repealed.%20June%2025%2C%201936%2C%20ch.%20815%2C%20%C2%A79%2C%2049%20Stat.%201930.md)
+- [&sect; 00124 - Direct shipment of wine](%C2%A7%2000124%20-%20Direct%20shipment%20of%20wine.md)

@@ -26,7 +26,7 @@ Pub. L. 100–625, §1, Nov. 7, 1988, 102 Stat. 3205, provided that: “This Act
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1307 of this title; title 25 section 2720; title 39 section 3005.
+This section is referred to in section 1307 of this title; title 25 section 2720; title 39 section 3005.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -12,7 +12,7 @@ In order to maintain existing conformity between the Civil Service Retirement an
 
 #### (b) Regulations to implement prescribed by Executive order
 
-The President shall by Executive order prescribe regulations to implement this section and may make such extension retroactive to a date no earlier than the effective date of the provision of law applicable to the Civil Service Retirement and Disability System. Any provision of an Executive order issued under this section shall modify, supersede, or render inapplicable, as the case may be, to the extent inconsistent therewith—
+The President shall by Executive order prescribe regulations to implement this section and may make such extension retroactive to a date no earlier than the effective date of the provision of law applicable to the Civil Service Retirement and Disability System. Any provision of an Executive order issued under this sectionshall modify, supersede, or render inapplicable, as the case may be, to the extent inconsistent therewith—
 
 &emsp;(1) all provisions of law enacted prior to the effective date of that provision of the Executive order, and
 
@@ -60,7 +60,7 @@ Section 1. (a) Section 826(c) of the Foreign Service Act of 1980 (22 U.S.C. 4066
 
 Sec. 2. Section 808(a) of the Foreign Service Act of 1980 (22 U.S.C. 4048(a)) is deemed to be amended by adding at the end thereof the following:
 
-“However, if a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in Section 8332(c)(1) or (2) of title 5 of the United States Code) or Department of Veterans Affairs pension or compensation in lieu of such retired or retainer pay, the annuity of that participant shall be computed under this chapter excluding extra credit authorized by this subsection and excluding credit for military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in Section 5532 of title 5 of the United States Code, or the Department of Veterans Affairs pension or compensation in lieu of such retired pay or retainer pay, isless than the annuity that would be payable under this chapter in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity computed under this chapter.”.
+“However, if a participant retiring under this section is receiving retired pay or retainer pay for military service (except that specified in Section 8332(c)(1) or (2) of title 5 of the United States Code) or Department of Veterans Affairs pension or compensation in lieu of such retired or retainer pay, the annuity of that participant shall be computed under this chapter excluding extra credit authorized by this subsection and excluding credit for military service from that computation. If the amount of the annuity so computed, plus the retired or retainer pay which is received, or which would be received but for the application of the limitation in Section 5532 of title 5 of the United States Code, or the Department of Veterans Affairs pension or compensation in lieu of such retired pay or retainer pay, is less than the annuity that would be payable under this chapter in the absence of the previous sentence, an amount equal to the difference shall be added to the annuity computed under this chapter.”.
 
 Sec. 3. The amendments to be deemed made by this Order shall take effect as of February 15, 1981.
 
@@ -150,7 +150,7 @@ Sec. 4. <i>Credit For Military Service</i>. (a) Section 805 of the Act (22 U.S.C
 
 “(B) any military or naval service performed prior to 1957 by an individual who first became a participant on or after the date of this Order with credit under section 816 \[22 U.S.C. 4056\] for civilian service performed prior to October 1982, or any period of military or naval service performed after 1956 with respect to which the participant has made a contribution (with interest if any is required) under section 805(e) \[22 U.S.C. 4045(e)\]; or
 
-“(C) any military or naval service performed prior to 1977 by any individual who first became a participant before the date of this Order or any period of military or naval service performed after 1976 with respect to which the participant has made a contribution (with interest if any is required) under section 805(e) \[22 U.S.C. 4045(e)\].”
+“(C) any military or naval service performed prior to 1977 by any individual who first became a participant before the date of this Order or any period of militaryor naval service performed after 1976 with respect to which the participant has made a contribution (with interest if any is required) under section 805(e) \[22 U.S.C. 4045(e)\].”
 
 (d) Section 822(a) of the Act (22 U.S.C. 4062(a)) is deemed to be amended by striking out the period at the end thereof and inserting in lieu thereof: “, less an amount determined by the Secretary of State to be appropriate to reflect the value of the deposits made to the credit of the Fund under section 805(e).”.
 

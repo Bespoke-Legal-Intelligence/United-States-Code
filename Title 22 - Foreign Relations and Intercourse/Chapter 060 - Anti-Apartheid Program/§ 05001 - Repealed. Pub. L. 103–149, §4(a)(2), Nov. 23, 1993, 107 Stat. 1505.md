@@ -36,7 +36,7 @@ Pub. L. 103–149, Nov. 23, 1993, 107 Stat. 1503, provided that:
 
 &emsp;“(7) In light of recent developments, the continuation of these economic sanctions is detrimental to persons disadvantaged by apartheid.
 
-&emsp;“(8) Those calling for the lifting of economic sanctions against South Africa have made clear that they do not seek the immediate termination of the United Nations-sponsored special sanctions relating to arms transfers, nuclear cooperation, and exports of oil. The Ad Hoc Committee on Southern Africa of the Organization of African Unity, for example, has urged that the oil embargo established pursuant to a 1986 General Assembly resolution be lifted after the establishment and commencement of the work of the Transitional Executive Council.
+&emsp;“(8) Those calling for the lifting of economic sanctions against South Africa have made clear that they do not seek the immediate termination of the United Nations-sponsored special sanctions relating to arms transfers, nuclear cooperation, and exports of oil. TheAd Hoc Committee on Southern Africa of the Organization of African Unity, for example, has urged that the oil embargo established pursuant to a 1986 General Assembly resolution be lifted after the establishment and commencement of the work of the Transitional Executive Council.
 
 #### “SEC. 3. UNITED STATES POLICY.
 
@@ -140,7 +140,7 @@ Continuation of UN Special Sanctions.—It is the sense of the Congress that the
 
 “(a)
 
-In General.—The President is authorized and encouraged to provide assistance under chapter 10 ofpart I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2293 et seq.\] (relating to the Development Fund for Africa) or chapter 4 of part II of that Act \[22 U.S.C. 2346 et seq.\] (relating to the Economic Support Fund) to support the transition to nonracial democracy in South Africa. Such assistance shall—
+In General.—The President is authorized and encouraged to provide assistance under chapter 10 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2293 et seq.\] (relating to the Development Fund for Africa) or chapter 4 of part II of that Act \[22 U.S.C. 2346 et seq.\] (relating to the Economic Support Fund) to support the transition to nonracial democracy in South Africa. Such assistance shall—
 
 &emsp;“(1) focus on building the capacity of disadvantaged South Africans to take their rightful place in the political, social, and economic systems of their country;
 
@@ -238,7 +238,7 @@ In General.—The President should encourage other donors, particularly Japan an
 
 “(b)
 
-International Financial Institutions.—The Secretary of the Treasury should instruct the United States Executive Director of each relevant international financial institution, including the International Bank for Reconstruction and Development and the International Development Association, to urge that institution to initiate or expand its lending and other financial assistance activities to South Africa in order to support the transition to nonracial democracy in South Africa.
+International Financial Institutions.—The Secretary of the Treasury should instruct the United States Executive Director of each relevant international financial institution, including the International Bank for Reconstruction and Developmentand the International Development Association, to urge that institution to initiate or expand its lending and other financial assistance activities to South Africa in order to support the transition to nonracial democracy in South Africa.
 
 “(c)
 

@@ -24,7 +24,7 @@ Availability of Amounts.—Amounts appropriated under this section remain availa
 
 (d)
 
-Universal Access Systems.—Of the amounts appropriated under subsection (a) for fiscal year 2001, $8,000,000 may be used for the voluntary purchase and installation of universal access systems.
+Universal Access Systems.—Of the amounts appropriated under subsection (a) forfiscal year 2001, $8,000,000 may be used for the voluntary purchase and installation of universal access systems.
 
 (e)
 

@@ -858,12 +858,29 @@ Indigenous plants not considered feed on hand.
 |  |  |
 | :--- | ---: |
 | [1471j.](Subchapter%20005%20%28V%29%20-%20Emergency%20Livestock%20Feed%20Assistance%20Act%20of%201988/%C2%A7%2001471j%20-%20Penalties.md) | Penalties. |
+| [1472\.](Subchapter%20005%20%28V%29%20-%20Emergency%20Livestock%20Feed%20Assistance%20Act%20of%201988/%C2%A7%2001472%20-%20Assistance%20for%20livestock%20producers.md) | Assistance for livestock producers. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+(a)
+
+Availability of assistance.
+
+(b)
+
+Types of assistance.
+
+(c)
+
+Limitations.
+
+(d)
+
+Authorization of appropriations.
+
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 511r, 511s, 1301, 1308–3, 1309, 1310, 1314, 1314f, 1334b, 1385, 1421a, 1433c–1,1435, 1446c, 1515, 1745, 2279, 4608, 5671, 5822, 7202, 7301, 7502 of this title; title 15 section 3391a; title 16 sections 3832, 3834, 3837d, 3839c; title 21 section 889; title 26 section 451; title 31 section 3902; title 42 section 1766; title 43 section 620c.
+This chapter is referred to in sections 511r, 511s, 1301, 1308–3, 1309, 1310, 1314, 1314f, 1334b, 1385, 1421a, 1433c–1, 1435, 1446c, 1515, 1745, 2279, 4608, 5671, 5822, 7202, 7301, 7502 of this title; title 15 section 3391a; title 16 sections 3832, 3834, 3837d, 3839c; title 21 section 889; title 26 section 451; title 31 section 3902; title 42 section 1766; title 43 section 620c.
 
 
 ---

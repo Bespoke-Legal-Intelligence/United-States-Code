@@ -20,13 +20,13 @@
 
 (B) If an agency makes a determination under subparagraph (A)(ii)(II) that prevents the return or presence of an employee at the place of employment, such employee shall receive pay, compensation, and all other benefits as terms and conditions of employment during the period pending the outcome of any petition for review under subsection (e).
 
-(C) Nothing in the provisions of this paragraph may be construed to require any award of back pay or attorney fees be paid before the decision is final.
+(C) Nothing in the provisions of this paragraph may be construed to require any award of backpay or attorney fees be paid before the decision is final.
 
 (3) With respect to an appeal from an adverse action covered by subchapter V of chapter 75, authority to mitigate the personnel action involved shall be available, subject to the same standards as would apply in an appeal involving an action covered by subchapter II of chapter 75 with respect to which mitigation authority under this section exists.
 
 (c)(1) Subject to paragraph (2) of this subsection, the decision of the agency shall be sustained under subsection (b) only if the agency's decision—
 
-&emsp;(A) in the case of an action based on unacceptable performance described in section 4303 or a removal from the Senior Executive Service for failure to be recertified under section 3393a, is supported by substantial evidence; or
+&emsp;(A) in the case of an action based on unacceptable performance described in section 4303, is supported by substantial evidence; or
 
 &emsp;(B) in any other case, is supported by a preponderance of the evidence.
 
@@ -84,7 +84,7 @@
 
 (k) The Board may prescribe regulations to carry out the purpose of this section.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 95–454, title II, §205, Oct. 13, 1978, 92 Stat. 1138; Pub. L. 96–54, §2(a)(45), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–386, title II, §208, Aug. 22, 1986, 100 Stat. 824; Pub. L. 101–12, §6, Apr. 10, 1989, 103 Stat. 33; Pub. L. 101–194, title V, §506(b)(6), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–280, §6(d)(2), May 4, 1990, 104 Stat. 160; Pub. L. 101–376, §3, Aug. 17, 1990, 104 Stat. 462; Pub. L. 102–175, §5, Dec. 2, 1991, 105 Stat. 1223; Pub. L. 102–378, §2(56), Oct. 2, 1992, 106 Stat. 1354.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 530; Pub. L. 95–454, title II, §205, Oct. 13, 1978, 92 Stat. 1138; Pub. L. 96–54, §2(a)(45), Aug. 14, 1979, 93 Stat. 384; Pub. L. 99–386, title II, §208, Aug. 22, 1986, 100 Stat. 824; Pub. L. 101–12, §6, Apr. 10, 1989, 103 Stat. 33; Pub. L. 101–194, title V, §506(b)(6), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–280, §6(d)(2), May 4, 1990, 104 Stat. 160; Pub. L. 101–376, §3, Aug. 17, 1990, 104 Stat. 462; Pub. L. 102–175, §5, Dec. 2, 1991, 105 Stat. 1223; Pub. L. 102–378, §2(56), Oct. 2, 1992, 106 Stat. 1354; Pub. L. 107–296, title XIII, §1321(a)(3), Nov. 25, 2002, 116 Stat. 2297.)
 
 Historical and Revision Notes
 
@@ -116,6 +116,8 @@ The civil service law, referred to in subsecs. (d) and (e)(2), is set out in thi
 
 #### Amendments
 
+2002—Subsec. (c)(1)(A). Pub. L. 107–296, which directed the amendment of subpar. (A) by striking “or removal from the Senior Executive Service for failure to be recertified under section 3393a”, was executed by striking out “or a removal from the Senior Executive Service for failure to be recertified under section 3393a” after “section 4303” to reflect the probable intent of Congress.
+
 1992—Subsec. (c)(1)(A). Pub. L. 102–378 amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “in the case of an action based on unacceptable performance described in section 4303 or a removal from the Senior Executive Service for failure to be recertified under section 3393a of this title, is supported by substantial evidence, or”.
 
 1991—Subsec. (b)(3). Pub. L. 102–175 added par. (3).
@@ -137,6 +139,10 @@ Subsec. (g)(1). Pub. L. 96–54, §2(a)(45)(B), substituted “(as the case may 
 Subsec. (h). Pub. L. 96–54, §2(a)(45)(C), substituted “subsection (e)” for “subsection (d)”.
 
 1978—Pub. L. 95–454 substituted “Appellate procedures” for “Appeals of preference eligibles” in section catchline, and in text substituted provisions relating to procedures applicable with respect to the Merit Systems Protection Board for an employee or applicant for employment, for provisions relating to appeals of preference eligible employees.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1990 Amendment
 
@@ -170,5 +176,5 @@ Ex. Ord. No. 11787, June 11, 1974, 39 F.R. 20675; Ex. Ord. No. 12107, Dec. 28, 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1212, 2105, 2302, 3395a, 3592, 3593, 3595, 4303, 5596, 7121, 7513, 7543, 7702, 7703, 8347, 8451, 8461 of this title; title 10 section 1610; title 22 sections 1438, 4137; title 28 section 569; title 31 section 753.
+This section is referred to in sections 1212, 2105, 2302, 3395a, 3592, 3593, 3595, 4303, 5596, 7121, 7513, 7543, 7702, 7703, 8347, 8451, 8461 of this title; title 10 section 1610; title 22 sections 1438, 4137; title 28 section 569; title 31 section 753; title 49 section 40122.
 

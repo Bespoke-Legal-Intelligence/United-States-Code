@@ -28,7 +28,7 @@ In addition to the other allocations required in this section, the Secretary sha
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–330, §506(a)(3)(A), struck out “, and to Indian tribes,” after “in the States)” and“, or for Indian tribes” after “or urban county” in two places.
+1996—Subsec. (a). Pub. L. 104–330, §506(a)(3)(A), struck out “, and to Indian tribes,” after “in the States)” and “, or for Indian tribes” after “or urban county” in two places.
 
 Subsec. (c). Pub. L. 104–330, §506(a)(3)(B), struck out “or Indian tribe” after “Any local government”.
 
@@ -44,7 +44,7 @@ Subsec. (d)(3). Pub. L. 101–625, §832(f)(5), inserted “or Indian tribe” a
 
 1988—Subsec. (a). Pub. L. 100–628, §421(a), inserted “and private nonprofit organizations” after “local governments”.
 
-Subsec. (c). Pub. L. 100–628, §421(b), inserted at end “Any State receiving assistance under this part may distribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.”
+Subsec. (c). Pub. L. 100–628, §421(b), inserted at end “Any State receiving assistance under this part maydistribute all or a portion of such assistance to private nonprofit organizations providing assistance to homeless individuals, if the local government for the locality in which the project is located certifies that it approves of the project.”
 
 #### Effective Date of 1996 Amendment
 

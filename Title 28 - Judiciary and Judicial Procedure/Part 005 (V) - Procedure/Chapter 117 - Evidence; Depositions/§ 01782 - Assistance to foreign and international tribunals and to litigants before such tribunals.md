@@ -12,7 +12,7 @@ A person may not be compelled to give his testimony or statement or to produce a
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§649–653, 701, 703, 704 (R.S. §§871–875, 4071, 4073, 4074; Feb. 27, 1877, ch. 69,§1, 19 Stat. 241; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; June 25, 1936, ch. 804, 49 Stat. 1921).
+Based on title 28, U.S.C., 1940 ed., §§649–653, 701, 703, 704 (R.S. §§871–875, 4071, 4073, 4074; Feb. 27, 1877, ch. 69, §1, 19 Stat. 241; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; June 25, 1936, ch. 804, 49 Stat. 1921).
 
 Sections 649–652 of title 28, U.S.C., 1940 ed., applied only to the District of Columbia and contained detailed provisions for issuing subpoenas, payment of witness fees and procedure for ordering and taking depositions. These matters are all covered by Federal Rules of Civil Procedure, Rules 26–32.
 
@@ -42,9 +42,13 @@ The Federal Rules of Civil Procedure, referred to in subsec. (a), are set out in
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–106 inserted “, including criminal investigations conducted before formal accusation” after “proceeding in a foreign or international tribunal” in first sentence.
+1996—Subsec. (a). Pub. L. 104–106 inserted “, including criminal investigations conducted before formal accusation” after “proceeding in a foreign or international tribunal” in first sentence.
 
-<b>1964</b>—Pub. L. 88–619 substituted provisions which empowered district courts to order residents to give testimony or to produce documents for use in a foreign or international tribunal, pursuant to a letter rogatory, or request, of a foreign or international tribunal or upon application of any interested person, and to direct that the evidence be presented before a person appointed by the court, provided that such person may administer oaths and take testimony, that the evidence be taken in accordance with the Federal Rules of Civil Procedure unless the order prescribes using the procedure of the foreign or international tribunal, that a person may not be compelled to give legally privileged evidence, and that this chapter doesn't preclude a person from voluntarily giving evidence for use in a foreign or international tribunal, for provisions permitting depositions of witnesses within the United States for use in any court in a foreign country with which the United States was at peace to be taken before a person authorized to administer oaths designated by the district court of the district where the witness resides or is found, and directing that the procedure used be that generally used in courts of the United States, in text, and “Assistance to foreign and international tribunals and to litigants before such tribunals” for “Testimony for use in foreign countries” in section catchline.
+1964—Pub. L. 88–619 substituted provisions which empowered district courts to order residents to give testimony or to produce documents for use in a foreign or international tribunal, pursuant to a letter rogatory, or request, of a foreign or international tribunal or upon application of any interested person, and to direct that the evidence be presented before a person appointed by the court, provided that such person may administer oaths and take testimony, that the evidence be taken in accordance with the Federal Rules of Civil Procedure unless the order prescribes using the procedure of the foreign or international tribunal, that a person may not be compelled to give legally privileged evidence, and that this chapter doesn't preclude a person from voluntarily giving evidence for use in a foreign or international tribunal, for provisions permitting depositions of witnesses within the United States for use in any court in a foreign country with which the United States was at peace to be taken before a person authorized to administer oaths designated by the district court of the district where the witness resides or is found, and directing that the procedure used be that generally used in courts of the United States, in text, and “Assistance to foreign and international tribunals and to litigants before such tribunals” for “Testimony for use in foreign countries” in section catchline.
 
-<b>1949</b>—Act May 24, 1949, struck out “residing” after “witness”, and substituted “judicial proceeding” for “civil action” after “to be used in any”.
+1949—Act May 24, 1949, struck out “residing” after “witness”, and substituted “judicial proceeding” for “civil action” after “to be used in any”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 22 section 7423.
 

@@ -72,7 +72,7 @@ The following rules shall apply in the case of the filing and consideration of a
 
 #### (4) Housing
 
-&emsp;Employers shall furnish housing in accordance with regulations. The employer shall be permitted at the employer's option to providehousing meeting applicable Federal standards for temporary labor camps or to secure housing which meets the local standards for rental and/or public accommodations or other substantially similar class of habitation: <i>Provided</i>, That in the absence of applicable local standards, State standards for rental and/or public accommodations or other substantially similar class of habitation shall be met: <i>Provided further</i>, That in the absence of applicable local or State standards, Federal temporary labor camp standards shall apply: <i>Provided further</i>, That the Secretary of Labor shall issue regulations which address the specific requirements of housing for employees principally engaged in the range production of livestock: <i>Provided further</i>, That when it is the prevailing practice in the area and occupation of intended employment to provide family housing, family housing shall be provided to workers with families who request it: <i>And provided further</i>, That nothing in this paragraph shall require an employer to provide or secure housing for workers who are not entitled to it under the temporary labor certification regulations in effect on June 1, 1986. The determination as to whether the housing furnished by an employer for an H–2A worker meets the requirements imposed by this paragraph must be made prior to the date specified in paragraph (3)(A) by which the Secretary of Labor is required to make a certification described in subsection (a)(1) of this section with respect to a petition for the importation of such worker.
+&emsp;Employers shall furnish housing in accordance with regulations. The employer shall be permitted at the employer's option to provide housing meeting applicable Federal standards for temporary labor camps or to secure housing which meets the local standards for rental and/or public accommodations or other substantially similar class of habitation: <i>Provided</i>, That in the absence of applicable local standards, State standards for rental and/or public accommodations or other substantially similar class of habitation shall be met: <i>Provided further</i>, That in the absence of applicable local or State standards, Federal temporary labor camp standards shall apply: <i>Provided further</i>, That the Secretary of Labor shall issue regulations which address the specific requirements of housing for employees principally engaged in the range production of livestock: <i>Provided further</i>, That when it is the prevailing practice in the area and occupation of intended employment to provide family housing, family housing shall be provided to workers with families who request it: <i>And provided further</i>, That nothing in this paragraph shall require an employer to provide or secure housing for workers who are not entitled to it under the temporary labor certification regulations in effect on June 1, 1986. The determination as to whether the housing furnished by an employer for an H–2A worker meets therequirements imposed by this paragraph must be made prior to the date specified in paragraph (3)(A) by which the Secretary of Labor is required to make a certification described in subsection (a)(1) of this section with respect to a petition for the importation of such worker.
 
 #### (d) Roles of agricultural associations
 
@@ -122,7 +122,7 @@ An alien may not be admitted to the United States as a temporary agricultural wo
 
 #### (h) Miscellaneous provisions
 
-(1) The Attorney General shall provide for such endorsement of entry and exit documents of nonimmigrants described in section 1101(a)(15)(H)(ii) of this title as may be necessary to carry out this section and to provide notice for purposes of section 1324a of this title.
+(1) The Attorney General shall provide for such endorsement of entry and exit documentsof nonimmigrants described in section 1101(a)(15)(H)(ii) of this title as may be necessary to carry out this section and to provide notice for purposes of section 1324a of this title.
 
 (2) The provisions of subsections (a) and (c) of section 1184 of this title and the provisions of this section preempt any State or local law regulating admissibility of nonimmigrant workers.
 
@@ -186,6 +186,10 @@ Effective Date.—The amendments made by this section \[enacting this section an
 
 Regulations.—The Attorney General, in consultation with the Secretary of Labor and the Secretary of Agriculture, shall approve all regulations to be issued implementing sections 101(a)(15)(H)(ii)(a) and 218 of the Immigration and Nationality Act \[8 U.S.C. 1101(a)(15)(H)(ii)(a), 1188\]. Notwithstanding any other provision of law, final regulations to implement such sections shall first be issued, on an interim or other basis, not later than the effective date.”
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Sense of Congress Respecting Consultation With Mexico
 
 Section 301(f) of Pub. L. 99–603, as amended by Pub. L. 100–525, §2(<i>l</i>)(4), Oct. 24, 1988, 102 Stat. 2612, provided that: “It is the sense of Congress that the President should establish an advisory commission which shall consult with the Governments of Mexico and of other appropriate countries and advise the Attorney General regarding the operation of the alien temporary worker program established under section 218 of the Immigration and Nationality Act \[8 U.S.C. 1188\].”
@@ -208,7 +212,7 @@ Presidential Reports.—The President shall transmit to the Committees on the Ju
 
 &emsp;&emsp;“(A) improving the timeliness of decisions regarding admission of temporary foreign workers under the program,
 
-&emsp;&emsp;“(B) removing any economic disincentives to hiring United States citizens or permanent resident aliens for jobs for which temporary foreign workers have been requested,
+&emsp;&emsp;“(B) removing any economic disincentives to hiring United States citizens or permanent residentaliens for jobs for which temporary foreign workers have been requested,
 
 &emsp;&emsp;“(C) improving cooperation among government agencies, employers, employer associations, workers, unions, and other worker associations to end the dependence of any industry on a constant supply of temporary foreign workers, and
 

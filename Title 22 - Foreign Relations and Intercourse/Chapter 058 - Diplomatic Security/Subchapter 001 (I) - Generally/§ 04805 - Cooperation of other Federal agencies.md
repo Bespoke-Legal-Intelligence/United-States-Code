@@ -10,7 +10,7 @@ Nothing contained in this chapter shall be construed to limit or impair the auth
 
 #### (c) Certain lease arrangements
 
-The Administrator of General Services is authorized to lease (to such extent or in such amounts as are provided in appropriation Acts) such amount of space in the United States as may be necessary for the Department of Stateto accommodate the personnel required to carry out this subchapter. The Department of State shall pay for such space at the rate established by the Administrator of General Services for space and related services.
+The Administrator of General Services is authorized to lease (to such extent or in such amounts as are provided in appropriation Acts) such amount of space in the United States as may be necessary for the Department of State to accommodate the personnel required to carry out this subchapter. The Department of State shall pay for such space at the rate established by the Administrator of General Services for space and related services.
 
 (Pub. L. 99–399, title I, §106, Aug. 27, 1986, 100 Stat. 857.)
 

@@ -50,7 +50,7 @@ Environmental Requirements.—(1) The Secretary may approve an application under
 
 (3) At the Secretary's request, the sponsor shall give the Secretary a copy of the transcript of any hearing held under paragraph (1)(A) of this subsection.
 
-(4)(A) Notice of certification or of refusal to certify under paragraph (1)(B) of this subsectionshall be provided to the Secretary not later than 60 days after the Secretary receives the application.
+(4)(A) Notice of certification or of refusal to certify under paragraph (1)(B) of this subsection shall be provided to the Secretary not later than 60 days after the Secretary receives the application.
 
 (B) The Secretary shall condition approval of the application on compliance with the applicable standards during construction and operation.
 
@@ -92,7 +92,7 @@ Prohibition.—Beginning in fiscal year 2001, no passenger facility fee may be a
 
 &emsp;(2)
 
-Contents.—A competition plan under this subsection shall include information on the availability of airport gates and related facilities, leasing and sub-leasing arrangements, gate-use requirements, patterns of air service, gate-assignment policy, financial constraints, airport controls over air- and ground-side capacity, whether the airport intends to build or acquire gates that would be used as common facilities, and airfare levels (as compiled by the Department of Transportation) compared to other large airports.
+Contents.—A competition plan under this subsection shall include information onthe availability of airport gates and related facilities, leasing and sub-leasing arrangements, gate-use requirements, patterns of air service, gate-assignment policy, financial constraints, airport controls over air- and ground-side capacity, whether the airport intends to build or acquire gates that would be used as common facilities, and airfare levels (as compiled by the Department of Transportation) compared to other large airports.
 
 &emsp;(3)
 
@@ -106,7 +106,11 @@ Covered airport defined.—In this subsection, the term “covered airport” me
 
 &emsp;&emsp;(B) at which one or two air carriers control more than 50 percent of the passenger boardings.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630.)
+(g)
+
+Consultation With Secretary of Homeland Security.—The Secretary shall consult with the Secretary of Homeland Security before approving an application under this subchapter for an airport development project grant for activities described in section 47102(3)(B)(ii) only as they relate to security equipment or section 47102(3)(B)(x) only as they relate to installation of bulk explosive detection system.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1254; Pub. L. 103–305, title I, §§108, 109, Aug. 23, 1994, 108 Stat. 1573; Pub. L. 106–181, title I, §155(b), Apr. 5, 2000, 114 Stat. 88; Pub. L. 107–71, title I, §123(a), Nov. 19, 2001, 115 Stat. 630; Pub. L. 107–296, title IV, §426(b), Nov. 25, 2002, 116 Stat. 2187.)
 
 Historical and Revision Notes
 
@@ -206,7 +210,9 @@ In subsection (e)(3), the words “adversely affected” are substituted for “
 
 #### Amendments
 
-2001—Subsec. (f)(3), (4). Pub. L. 107–71, which directed the amendment of section 47106(f) by adding par. (3) and redesignating former par. (3) as (4), without specifying the Code title to be amended, was executed by making the amendments to this section, to reflect the probable intent of Congress.
+2002—Subsec. (g). Pub. L. 107–296 added subsec. (g).
+
+2001—Subsec. (f)(3), (4). Pub. L. 107–71, which directed the amendment of section 47106(f) by adding par. (3) and redesignating former par. (3) as (4), without specifying the Code title to be amended, was executed by makingthe amendments to this section, to reflect the probable intent of Congress.
 
 2000—Subsec. (f). Pub. L. 106–181 added subsec. (f).
 
@@ -217,6 +223,10 @@ In subsection (e)(3), the words “adversely affected” are substituted for “
 General Aviation Airport Project Grant Application Approval.—(1) In this subsection, ‘general aviation airport’ means a public airport that is not an air carrier airport.
 
 “(2) The Secretary may approve an application under this subchapter for an airport development project included in a project grant application involving the construction or extension of a runway at a general aviation airport located on both sides of a boundary line separating 2 counties within a State only if, before the application is submitted to the Secretary, the project is approved by the governing body of each village incorporated under the laws of the State and located entirely within 5 miles of the nearest boundary of the airport.”
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 2000 Amendment
 

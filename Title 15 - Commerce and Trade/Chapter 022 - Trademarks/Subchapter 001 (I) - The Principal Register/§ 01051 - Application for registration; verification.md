@@ -52,11 +52,11 @@
 
 #### (c) Amendment of application under subsection (b) to conform to requirements of subsection (a)
 
-At any time during examination of an application filed under subsection (b) of this section, an applicant who has made use of the mark in commerce may claim the benefits of such use for purposes of this chapter, by amending his or herapplication to bring it into conformity with the requirements of subsection (a) of this section.
+At any time during examination of an application filed under subsection (b) of this section, an applicant who has made use of the mark in commerce may claim the benefits of such use for purposes of this chapter, by amending his or her application to bring it into conformity with the requirements of subsection (a) of this section.
 
 #### (d) Verified statement that trademark is used in commerce
 
-(1) Within six months after the date on which the notice of allowance with respect to a mark is issued under section 1063(b)(2) of this title to an applicant under subsection (b) of this section, the applicant shall file in the Patent and Trademark Office, together with such number of specimens or facsimiles of the mark as used in commerce as may be required by the Director and payment of the prescribed fee, a verified statement that the mark is in use in commerce and specifying the date of the applicant's first use of the mark in commerce and,,<sup>1</sup> those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce. Subject to examination and acceptance of the statement of use, the mark shall be registered in the Patent and Trademark Office, a certificate of registration shall be issued for those goods or services recited in the statement of use for which the mark is entitled to registration, and notice of registration shall be published in the Official Gazette of the Patent and Trademark Office. Such examination may include an examination of the factors set forth in subsections (a) through (e) of section 1052 of this title. The notice of registration shall specify the goods or services for which the mark is registered.
+(1) Within six months after the date on which the notice of allowance with respect to a mark is issued under section 1063(b)(2) of this title to an applicant under subsection (b) of this section, the applicant shall file in the Patent and Trademark Office, together with such number of specimens or facsimiles of the mark as used in commerce as may be required by the Director and payment of the prescribed fee, a verified statement that the mark is in use in commerce and specifying the date of the applicant's first use of the mark in commerce and those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce. Subject to examination and acceptance of the statement of use, the mark shall be registered in the Patent and Trademark Office, a certificate of registration shall be issued for those goods or services recited in the statement of use for which the mark is entitled to registration, and notice of registration shall be published in the Official Gazette of the Patent and Trademark Office. Such examination may include an examination of the factors set forth in subsections (a) through (e) of section 1052 of this title. The notice of registration shall specify the goods or services for which the mark is registered.
 
 (2) The Director shall extend, for one additional 6-month period, the time for filing the statement of use under paragraph (1), upon written request of the applicant before the expiration of the 6-month period provided in paragraph (1). In addition to an extension under the preceding sentence, the Director may, upon a showing of good cause by the applicant, further extend the time for filing the statement of use under paragraph (1) for periods aggregating not more than 24 months, pursuant to written request of the applicant made before the expiration of the last extension granted under this paragraph. Any request for an extension under this paragraph shall be accompanied by a verified statement that the applicant has a continued bona fide intention to use the mark in commerce and specifying those goods or services identified in the notice of allowance on or in connection with which the applicant has a continued bona fide intention to use the mark in commerce. Any request for an extension under this paragraph shall be accompanied by payment of the prescribed fee. The Director shall issue regulations setting forth guidelines for determining what constitutes good cause for purposes of this paragraph.
 
@@ -66,9 +66,9 @@ At any time during examination of an application filed under subsection (b) of t
 
 #### (e) Designation of resident for service of process and notices
 
-If the applicant is not domiciled in the United States he shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with him or mailing to him a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.
+If the applicant is not domiciled in the United States the applicant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
-(July 5, 1946, ch. 540, title I, §1, 60 Stat. 427; Pub. L. 87–772, §1, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §103, Nov. 16, 1988, 102 Stat. 3935; Pub. L. 105–330, title I, §103, title II, §201(a), Oct. 30, 1998, 112 Stat. 3064, 3069; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title I, §1, 60 Stat. 427; Pub. L. 87–772, §1, Oct. 9, 1962, 76 Stat. 769; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 100–667, title I, §103, Nov. 16, 1988, 102 Stat. 3935; Pub. L. 105–330, title I, §103, title II, §201(a), Oct. 30, 1998, 112 Stat. 3064, 3069; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(1), (2), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Prior Provisions
 
@@ -77,6 +77,10 @@ Subsecs. (a) to (c) are from acts Feb. 20, 1905, ch. 592, §§1, 2, 33 Stat. 724
 Subsec. (d) is from act Feb. 20, 1905, ch. 592, §3, 33 Stat. 725.
 
 #### Amendments
+
+2002—Subsec. (d)(1). Pub. L. 107–273, §13207(b)(1), in first sentence, substituted “specifying the date of the applicant's first use of the mark in commerce and those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce.” for “specifying the date of the applicant's first use of the mark in commerce and,, those goods or services specified in the notice of allowance on or in connection with which the mark is used in commerce.”
+
+Subsec. (e). Pub. L. 107–273, §13207(b)(2), amended subsec. (e) generally. Prior to amendment, subsec. (e) required applicant not domiciled in United States to designate name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark and provided that notices or process be served by leaving with such person or mailing to him a copy, or upon Director if designated person cannot be found.
 
 1999—Subsecs. (a), (b), (d), (e). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing.
 
@@ -130,6 +134,10 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 
 Section 46(a) of act July 5, 1946, provided that this chapter shall be in force and take effect one year from July 5, 1946.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–273, div. C, title III, §13401, Nov. 2, 2002, 116 Stat. 1913, provided that: “This subtitle \[subtitle D (§§13401–13403) of title III of div. C of Pub. L. 107–273, enacting subchapter IV of this chapter and provisions set out as a note under section 1141 of this title\] may be cited as the ‘Madrid Protocol Implementation Act’.”
+
 #### Short Title of 1999 Amendments
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3001(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–545, provided that: “This title \[enacting section 1129 of this title, amending sections 1114, 1116, 1117, 1125, and 1127 of this title, section 470a of Title 16, Conservation, and section 1338 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and sections 1117 and 1125 of this title\] may be cited as the ‘Anticybersquatting Consumer Protection Act’.”
@@ -146,7 +154,7 @@ Pub. L. 104–98, §1, Jan. 16, 1996, 109 Stat. 985, provided that: “This Act 
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–542, §1, Oct. 27, 1992, 106 Stat. 3567, provided that: “This Act \[enacting section 1122 of this title, amending sections 1114, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1114 of this title\] may be cited as the ‘Trademark Remedy Clarification Act’.”
+Pub. L. 102–542, §1, Oct. 27, 1992, 106 Stat. 3567, provided that: “This Act \[enacting section 1122 of thistitle, amending sections 1114, 1125, and 1127 of this title, and enacting provisions set out as a note under section 1114 of this title\] may be cited as the ‘Trademark Remedy Clarification Act’.”
 
 #### Short Title of 1988 Amendment
 
@@ -204,7 +212,5 @@ Relief as to filing date of trademark application or registration and excusal of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1060, 1062, 1063, 1068, 1071, 1091, 1092, 1094, 1126 of this title.
-
-<i><sup>1</sup></i><i> So in original.</i>
+This section is referred to in sections 1060, 1062, 1063, 1068, 1071, 1091, 1092, 1094, 1126, 1141j of this title.
 

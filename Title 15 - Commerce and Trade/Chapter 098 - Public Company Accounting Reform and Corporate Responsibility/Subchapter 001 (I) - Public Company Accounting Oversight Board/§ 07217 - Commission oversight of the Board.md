@@ -1,0 +1,94 @@
+### §7217. Commission oversight of the Board
+
+#### (a) General oversight responsibility
+
+The Commission shall have oversight and enforcement authority over the Board, as provided in this Act. The provisions of section 78q(a)(1) of this title, and of section 78q(b)(1) of this title shall apply to the Board as fully as if the Board were a “registered securities association” for purposes of those sections 78q(a)(1) and 78q(b)(1).
+
+#### (b) Rules of the Board
+
+#### (1) Definition
+
+&emsp;In this section, the term “proposed rule” means any proposed rule of the Board, and any modification of any such rule.
+
+#### (2) Prior approval required
+
+&emsp;No rule of the Board shall become effective without prior approval of the Commission in accordance with this section, other than as provided in section 7213(a)(3)(B) of this title with respect to initial or transitional standards.
+
+#### (3) Approval criteria
+
+&emsp;The Commission shall approve a proposed rule, if it finds that the rule is consistent with the requirements of this Act and the securitieslaws, or is necessary or appropriate in the public interest or for the protection of investors.
+
+#### (4) Proposed rule procedures
+
+&emsp;The provisions of paragraphs (1) through (3) of section 78s(b) of this title shall govern the proposed rules of the Board, as fully as if the Board were a “registered securities association” for purposes of that section 78s(b), except that, for purposes of this paragraph—
+
+&emsp;&emsp;(A) the phrase “consistent with the requirements of this chapter and the rules and regulations thereunder applicable to such organization” in section 78s(b)(2) of this title shall be deemed to read “consistent with the requirements of title I of the Sarbanes-Oxley Act of 2002, and the rules and regulations issued thereunder applicable to such organization, or as necessary or appropriate in the public interest or for the protection of investors”; and
+
+&emsp;&emsp;(B) the phrase “otherwise in furtherance of the purposes of this chapter” in section 78s(b)(3)(C) of this title shall be deemed to read “otherwise in furtherance of the purposes of title I of the Sarbanes-Oxley Act of 2002”.
+
+#### (5) Commission authority to amend rules of the Board
+
+&emsp;The provisions of section 78s(c) of this title shall govern the abrogation, deletion, or addition to portions of the rules of the Board by the Commission as fully as if the Board were a “registered securities association” for purposes of that section 78s(c), except that the phrase “to conform its rules to the requirements of this chapter and the rules and regulations thereunder applicable to such organization, or otherwise in furtherance of the purposes of this chapter” in section 78s(c) of this title shall, for purposes of this paragraph, be deemed to read “to assure the fair administration of the Public Company Accounting Oversight Board, conform the rules promulgated by that Board to the requirements of title I of the Sarbanes-Oxley Act of 2002, or otherwise further the purposes of that Act, the securities laws, and the rules and regulations thereunder applicable to that Board”.
+
+#### (c) Commission review of disciplinary action taken by the Board
+
+#### (1) Notice of sanction
+
+&emsp;The Board shall promptly file notice with the Commission of any final sanction on any registered public accounting firm or on any associated person thereof, in such form and containing such information as the Commission, by rule, may prescribe.
+
+#### (2) Review of sanctions
+
+&emsp;The provisions of sections 78s(d)(2) and 78s(e)(1) of this title shall govern the review by the Commission of final disciplinary sanctions imposed by the Board (including sanctions imposed under section 7215(b)(3) of this title for noncooperation in an investigation of the Board), as fully as if the Board were a self-regulatory organization and the Commission were the appropriate regulatory agency for such organization for purposes of those sections 78s(d)(2) and 78s(e)(1), except that, for purposes of this paragraph—
+
+&emsp;&emsp;(A) section 7215(e) of this title (rather than that section 78s(d)(2)) shall govern the extent to which application for, or institution by the Commission on its own motion of, review of any disciplinary action of the Board operates as a stay of such action;
+
+&emsp;&emsp;(B) references in that section 78s(e)(1) to “members” of such an organization shall be deemed to be references to registered public accounting firms;
+
+&emsp;&emsp;(C) the phrase “consistent with the purposes of this chapter” in that section 78s(e)(1) shall be deemed to read “consistent with the purposes of this chapter and title I of the Sarbanes-Oxley Act of 2002”;
+
+&emsp;&emsp;(D) references to rules of the Municipal Securities Rulemaking Board in that section 78s(e)(1) shall not apply; and
+
+&emsp;&emsp;(E) the reference to section 78s(e)(2) of this title shall refer instead to section 7217(c)(3) of this title.
+
+#### (3) Commission modification authority
+
+&emsp;The Commission may enhance, modify, cancel, reduce, or require the remission of a sanction imposed by the Board upon a registered public accounting firm or associated person thereof, if the Commission, having due regard for the public interest and the protection of investors, finds, after a proceeding in accordance with this subsection, that the sanction—
+
+&emsp;&emsp;(A) is not necessary or appropriate in furtherance of this Act or the securities laws; or
+
+&emsp;&emsp;(B) is excessive, oppressive, inadequate, or otherwise not appropriate to the finding or the basis on which the sanction was imposed.
+
+#### (d) Censure of the Board; other sanctions
+
+#### (1) Rescission of Board authority
+
+&emsp;The Commission, by rule, consistent with the public interest, the protection of investors, and the other purposes of this Act and the securities laws, may relieve the Board of any responsibility to enforce compliance with any provision of this Act, the securities laws, the rules of the Board, or professional standards.
+
+#### (2) Censure of the Board; limitations
+
+&emsp;The Commission may, by order, as it determines necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this Act or the securities laws, censure or impose limitations upon the activities, functions, and operations of the Board, if the Commission finds, on the record, after notice and opportunity for a hearing, that the Board—
+
+&emsp;&emsp;(A) has violated or is unable to comply with any provision of this Act, the rules of the Board, or the securities laws; or
+
+&emsp;&emsp;(B) without reasonable justification or excuse, has failed to enforce compliance with any such provision or rule, or any professional standard by a registered public accounting firm or an associated person thereof.
+
+#### (3) Censure of Board members; removal from office
+
+&emsp;The Commission may, as necessary or appropriate in the public interest, for the protection of investors, or otherwise in furtherance of the purposes of this Act or the securities laws, remove from office or censure any member of the Board, if the Commission finds, on the record, after notice and opportunity for a hearing, that such member—
+
+&emsp;&emsp;(A) has willfully violated any provision of this Act, the rules of the Board, or the securities laws;
+
+&emsp;&emsp;(B) has willfully abused the authority of that member; or
+
+&emsp;&emsp;(C) without reasonable justification or excuse, has failed to enforce compliance with any such provision or rule, or any professional standard by any registered public accounting firm or any associated person thereof.
+
+(Pub. L. 107–204, title I, §107, July 30, 2002, 116 Stat. 765.)
+
+#### References in Text
+
+This Act and the Sarbanes-Oxley Act of 2002, referred to in text, are Pub. L. 107–204, July 30, 2002, 116 Stat. 745. Title I of the Act is classified generally to this subchapter. For complete classification of this Act to the Code, see Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7201, 7211, 7212, 7213, 7215, 7231 of this title.
+

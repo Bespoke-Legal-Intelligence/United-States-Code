@@ -1,0 +1,42 @@
+### §510. Disclosure of and prohibition on certain donations
+
+(a)
+
+In General.—A committee shall not be considered to be the Inaugural Committee for purposes of this chapter unless the committee agrees to, and meets, the requirements of subsections (b) and (c).
+
+(b)
+
+Disclosure.—
+
+&emsp;(1)
+
+In general.—Not later than the date that is 90 days after the date of the Presidential inaugural ceremony, the committee shall file a report with the Federal Election Commission disclosing any donation of money or anything of value made to the committee in an aggregate amount equal to or greater than $200.
+
+&emsp;(2)
+
+Contents of report.—A report filed under paragraph (1) shall contain—
+
+&emsp;&emsp;(A) the amount of the donation;
+
+&emsp;&emsp;(B) the date the donation is received; and
+
+&emsp;&emsp;(C) the name and address of the person making the donation.
+
+(c)
+
+Limitation.—The committee shall not accept any donation from a foreign national (as defined in section 319(b) of the Federal Election Campaign Act of 1971 (2 U.S.C. 441e(b))).
+
+(Added Pub. L. 107–155, title III, §308(a)(2), Mar. 27, 2002, 116 Stat. 103.)
+
+#### Prior Provisions
+
+A prior section 510 was renumbered section 511 of this title.
+
+#### Effective Date
+
+Section effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of Title 2, The Congress.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 2 section 434.
+

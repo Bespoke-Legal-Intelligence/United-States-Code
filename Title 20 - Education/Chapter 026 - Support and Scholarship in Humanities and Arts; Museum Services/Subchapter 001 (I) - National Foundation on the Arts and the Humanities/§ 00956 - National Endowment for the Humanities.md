@@ -8,7 +8,7 @@ There is established within the Foundation the National Endowment for the Humani
 
 (1) The Endowment shall be headed by a chairperson, who shall be appointed by the President, by and with the advice and consent of the Senate.
 
-(2) The term of office of the Chairperson shall be four years, and the Chairperson shall be eligible for reappointment. The provisions of thisparagraph shall apply to any person appointed to fill a vacancy in the office of the Chairperson. Upon expiration of the Chairperson's term of office the Chairperson shall serve until the Chairperson's successor shall have been appointed and shall have qualified.
+(2) The term of office of the Chairperson shall be four years, and the Chairperson shall be eligible for reappointment. The provisions of this paragraph shall apply to any person appointed to fill a vacancy in the office of the Chairperson. Upon expiration of the Chairperson's term of office the Chairperson shall serve until the Chairperson's successor shall have been appointed and shall have qualified.
 
 #### (c) Functions of the Endowment; publications; traditionally underrepresented recipients of financial assistance
 
@@ -50,7 +50,7 @@ The total amount of any grant under subsection (c)(3) of this section to any gro
 
 (2)(A) Whenever a State desires to designate or to provide for the establishment of a State agency as the sole agency for the administration of the State plan, such State shall designate the humanities council in existence on the date the State agency is established as the State agency, and shall match from State funds a sum equal to 50 per centum of that portion of Federal financial assistance received by such State under this subsection which is described in the first sentence of paragraph (4) relating to the minimum State grant, or 25 per centum of the total amount of Federal financial assistance received by such State under this subsection, whichever is greater, for the fiscal year involved. In any State in which the State selects the option described in this subparagraph, the State shall submit, before the beginning of each fiscal year, an application for grants and accompany such application with a plan which the Chairperson finds—
 
-&emsp;(i) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the “State agency”) as the sole agency for the administration of the State plan;
+&emsp;(i) designates or provides for the establishment of a State agency (hereinafter in this section referred to as the “State agency”) asthe sole agency for the administration of the State plan;
 
 &emsp;(ii) provides that the chief executive officer of the State will appoint new members to the State humanities council designated under the provisions of this subparagraph, as vacancies occur as a result of the expiration of the terms of members of such council, until the chief executive officer has appointed all of the members of such council;
 
@@ -188,7 +188,7 @@ The Chairperson may enter into interagency agreements to promote or assist with 
 
 #### (j) Payment of wages at prevailing rates; authority of Secretary of Labor
 
-It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State, State agency, or entity receiving such grant furnish adequate assurances to the Secretary of Labor that all laborers and mechanics employed by contractors or subcontractors on construction projects assisted under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with the Davis-Bacon Act, as amended \[40 U.S.C. 276a et seq.\]. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 276c of title 40.
+It shall be a condition of the receipt of any grant under this section that the group or individual of exceptional talent or the State, State agency, or entity receiving such grant furnish adequate assurances to the Secretary of Labor that all laborers and mechanics employed by contractors or subcontractors on construction projects assisted under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 and section 3145 of title 40.
 
 #### (k) National information and data collection system on humanities, scholars, educational and cultural groups, and audiences; development and implementation plan; state of the humanities reports
 
@@ -214,9 +214,11 @@ The Chairperson, with the advice of the National Council on the Humanities, is a
 
 #### References in Text
 
-The Davis-Bacon Act, as amended, referred to in subsec. (j), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (j), is set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Codification
+
+In subsec. (j), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -258,7 +260,7 @@ Subsec. (c). Pub. L. 99–194, §107(2), (5), substituted “Chairperson” for 
 
 Subsec. (d). Pub. L. 99–194, §107(5), substituted “Chairperson” for “Chairman”.
 
-Subsec. (f). Pub. L. 99–194, §107(3), (5), substituted “Chairperson” for “Chairman” wherever appearing; in par. (2)(A) substituted “December 20, 1985” for “December 4, 1980”, inserted “officer” after “chief executive” wherever appearing in cl. (ii), struck out “and” at end of cl. (v), substituted “, including a description of the progress made toward achieving the goals of the State plan;” for the period at end of cl. (vi), and added cls. (vii) and (viii) and sentence providing that no application may be approved unless the accompanying plan satisfies the requirements specified in this subsection; in par. (2)(B)(i) substituted “six” and “25” for “four” and “20”, respectively; and in par. (3) struck out “and” at end of cl. (G), substituted “, including a description of the progress made toward achieving the goals of the plan;” for the period at end of cl. (H), and added cls. (I) and (J) and sentence providing that no application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
+Subsec. (f). Pub. L. 99–194, §107(3), (5), substituted “Chairperson” for “Chairman” wherever appearing; in par. (2)(A) substituted “December 20, 1985” for “December 4, 1980”, inserted “officer” after “chief executive” wherever appearing in cl. (ii), struck out “and” at endof cl. (v), substituted “, including a description of the progress made toward achieving the goals of the State plan;” for the period at end of cl. (vi), and added cls. (vii) and (viii) and sentence providing that no application may be approved unless the accompanying plan satisfies the requirements specified in this subsection; in par. (2)(B)(i) substituted “six” and “25” for “four” and “20”, respectively; and in par. (3) struck out “and” at end of cl. (G), substituted “, including a description of the progress made toward achieving the goals of the plan;” for the period at end of cl. (H), and added cls. (I) and (J) and sentence providing that no application may be approved unless the accompanying plan satisfies the requirements specified in this subsection.
 
 Subsec. (g). Pub. L. 99–194, §107(4), substituted “The Secretary of Labor shall prescribe standards, regulations, and procedures necessary to carry out this subsection not later than 180 days after December 20, 1985” for “The Secretary of Labor shall have the authority to prescribe standards, regulations, and procedures as he may deem necessary or appropriate to carry out the provisions of this subsection”.
 

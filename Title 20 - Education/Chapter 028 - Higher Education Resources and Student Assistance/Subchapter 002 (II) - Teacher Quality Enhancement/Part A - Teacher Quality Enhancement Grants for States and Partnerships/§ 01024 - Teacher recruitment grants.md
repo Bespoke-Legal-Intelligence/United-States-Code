@@ -2,7 +2,7 @@
 
 #### (a) Program authorized
 
-From amounts made available under section 1030(3) of this title for a fiscal year, the Secretary is authorized to award grants, on a competitive basis, to eligible applicants to enablethe eligible applicants to carry out activities described in subsection (d) of this section.
+From amounts made available under section 1030(3) of this title for a fiscal year, the Secretary is authorized to award grants, on a competitive basis, to eligible applicants to enable the eligible applicants to carry out activities described in subsection (d) of this section.
 
 #### (b) “Eligible applicant” defined
 

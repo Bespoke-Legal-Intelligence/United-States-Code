@@ -40,7 +40,7 @@ No Federal payment may be made under this part with respect to amounts expended 
 
 #### (f) “Voluntary placement” and “voluntary placement agreement” defined
 
-For the purposes of this part and part B of this subchapter, (1) the term “voluntary placement” means an out-of-home placement of a minor, by or with participation of a State agency, after the parents or guardians of the minor have requested the assistance of the agency and signed a voluntary placement agreement; and (2) the term “voluntary placement agreement” means a written agreement, binding on the parties to the agreement, between the State agency, any other agency acting on its behalf, and the parents or guardians of a minor child which specifies, at a minimum, the legal status of the child and the rights and obligations of the parents or guardians, the child, and the agency while the child is in placement.
+For the purposes of this part and part B of this subchapter, (1) the term “voluntary placement” means an out-of-home placement of a minor, byor with participation of a State agency, after the parents or guardians of the minor have requested the assistance of the agency and signed a voluntary placement agreement; and (2) the term “voluntary placement agreement” means a written agreement, binding on the parties to the agreement, between the State agency, any other agency acting on its behalf, and the parents or guardians of a minor child which specifies, at a minimum, the legal status of the child and the rights and obligations of the parents or guardians, the child, and the agency while the child is in placement.
 
 #### (g) Revocation of voluntary placement agreement
 
@@ -58,7 +58,7 @@ In any case where—
 
 (2) For purposes of paragraph (1), a child whose costs in a foster family home or child care institution are covered by the foster care maintenance payments being made with respect to the child's minor parent, as provided in section 675(4)(B) of this title, shall be considered a child with respect to whom foster care maintenance payments are made under this section.
 
-(Aug. 14, 1935, ch. 531, title IV, §472, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), June 17, 1980, 94 Stat. 503, 513, 514; Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), Nov. 6, 1986, 100 Stat. 3403, 3422, 3431; Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §202(d)(3), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, Aug. 22, 1996, 110 Stat. 2166, 2277; Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), Aug. 5, 1997, 111 Stat. 620, 644; Pub. L. 105–89, title I, §101(c), Nov. 19, 1997, 111 Stat. 2117; Pub.L. 106–169, title I, §111, Dec. 14, 1999, 113 Stat. 1829.)
+(Aug. 14, 1935, ch. 531, title IV, §472, as added and amended Pub. L. 96–272, title I, §§101(a)(1), 102(a)(1), (2), June 17, 1980, 94 Stat. 503, 513, 514; Pub. L. 99–603, title II, §201(b)(2)(A), title III, §§302(b)(2), 303(e)(2), Nov. 6, 1986, 100 Stat. 3403, 3422, 3431; Pub. L. 100–203, title IX, §§9133(b)(2), 9139(a), Dec. 22, 1987, 101 Stat. 1330–314, 1330–321; Pub. L. 103–432, title II, §202(d)(3), Oct. 31, 1994, 108 Stat. 4454; Pub. L. 104–193, title I, §108(d)(3), (4), title V, §501, Aug. 22, 1996, 110 Stat. 2166, 2277; Pub. L. 105–33, title V, §§5513(b)(1), (2), 5592(b), Aug. 5, 1997, 111 Stat. 620, 644; Pub. L. 105–89, title I, §101(c), Nov. 19, 1997, 111 Stat. 2117; Pub. L. 106–169, title I, §111, Dec. 14, 1999, 113 Stat. 1829.)
 
 #### References in Text
 
@@ -144,7 +144,7 @@ Pub. L. 96–272, title I, §102(e), June 17, 1980, 94 Stat. 515, as amended by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 602, 671, 673, 674, 675, 1382, 1396v of this title.
+This section is referred to in sections 602, 671, 673, 674, 675, 1382, 1396v, 5633 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

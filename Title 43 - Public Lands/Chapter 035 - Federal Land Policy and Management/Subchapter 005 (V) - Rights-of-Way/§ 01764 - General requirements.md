@@ -42,7 +42,7 @@ Where he deems it appropriate, the Secretary concerned may require a holder of a
 
 The Secretary concerned shall grant, issue, or renew a right-of-way under this subchapter only when he is satisfied that the applicant has the technical and financial capability to construct the project for which the right-of-way is requested, and in accord with the requirements of this subchapter.
 
-(Pub. L. 94–579, title V, §504, Oct. 21, 1976, 90 Stat. 2778; Pub. L. 98–300, May 25, 1984, 98 Stat.215; Pub. L. 99–545, §2, Oct. 27, 1986, 100 Stat. 3048; Pub. L. 104–333, div. I, title X, §1032(a), Nov. 12, 1996, 110 Stat. 4239.)
+(Pub. L. 94–579, title V, §504, Oct. 21, 1976, 90 Stat. 2778; Pub. L. 98–300, May 25, 1984, 98 Stat. 215; Pub. L. 99–545, §2, Oct. 27, 1986, 100 Stat. 3048; Pub. L. 104–333, div. I, title X, §1032(a), Nov. 12, 1996, 110 Stat. 4239.)
 
 #### References in Text
 

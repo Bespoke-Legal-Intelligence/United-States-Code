@@ -8,3 +8,7 @@ The procedures set forth in sections 1602 through 1619 of this title shall apply
 
 A prior section 600 of act June 17, 1930, ch. 497, title IV, 46 Stat. 753, related to gratuities, prior to repeal by act June 25, 1948, ch. 645, §21, 62 Stat. 862, eff. Sept. 1, 1948. See section 213 of Title 18, Crimes and Criminal Procedure.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

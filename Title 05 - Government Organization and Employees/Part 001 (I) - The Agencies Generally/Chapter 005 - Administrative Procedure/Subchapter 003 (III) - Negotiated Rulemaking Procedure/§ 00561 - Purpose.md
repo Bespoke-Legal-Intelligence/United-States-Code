@@ -16,7 +16,7 @@ Section 5 of Pub. L. 101–648, as amended by Pub. L. 102–354, §5(a)(2), Aug.
 
 Section 1 of Pub. L. 102–354 provided that: “This Act \[amending sections 565, 568, 569, 571, 577, 580, 581, and 593 of this title, section 10 of Title 9, Arbitration, and section 173 of Title 29, Labor, renumbering sections 571 to 576, 581 to 590, and 581 to 593 as 591 to 596, 561 to 570, and 571 to 583, respectively, of this title, and amending provisions set out as notes under this section and section 571 of this title\] may be cited as the ‘Administrative Procedure Technical Amendments Act of 1991’.”
 
-#### Short Title
+#### Short Title of 1990 Amendment
 
 Section 1 of Pub. L. 101–648 provided that: “This Act \[enacting this subchapter\] may be cited as the ‘Negotiated Rulemaking Act of 1990’.”
 

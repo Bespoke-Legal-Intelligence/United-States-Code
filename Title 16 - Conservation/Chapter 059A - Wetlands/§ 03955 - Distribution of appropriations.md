@@ -20,7 +20,7 @@ Of the total amount appropriated during a given fiscal year to carry out this ch
 
 &emsp;(3) to carry out wetlands restoration projects in accordance with the priorities set forth in the restoration plan prepared under this chapter;
 
-&emsp;(4) to make grants not to exceed $2,500,000 annually or $10,000,000 in total, to assist theagency designated by the State in development of the Coastal Wetlands Conservation Plan pursuant to this chapter.
+&emsp;(4) to make grants not to exceed $2,500,000 annually or $10,000,000 in total, to assist the agency designated by the State in development of the Coastal Wetlands Conservation Plan pursuant to this chapter.
 
 #### (b) Coastal wetlands conservation grants
 

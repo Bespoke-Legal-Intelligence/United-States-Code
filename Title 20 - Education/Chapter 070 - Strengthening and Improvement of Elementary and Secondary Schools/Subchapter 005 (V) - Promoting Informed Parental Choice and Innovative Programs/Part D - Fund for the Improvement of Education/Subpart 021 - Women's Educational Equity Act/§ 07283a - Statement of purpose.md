@@ -12,5 +12,5 @@ It is the purpose of this subpart—
 
 #### References in Text
 
-The Educational Amendments of 1972, referred to in par. (2), probably means the Education Amendments of 1972 which is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
+The Educational Amendments of 1972, referred to in par. (2), probably means the Education Amendments of 1972 which is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
 

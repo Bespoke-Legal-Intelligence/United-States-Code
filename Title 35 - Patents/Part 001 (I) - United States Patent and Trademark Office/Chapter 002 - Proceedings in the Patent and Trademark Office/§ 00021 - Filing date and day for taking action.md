@@ -4,7 +4,7 @@
 
 (b) When the day, or the last day, for taking any action or paying any fee in the United States Patent and Trademark Office falls on Saturday, Sunday, or a Federal holiday within the District of Columbia, the action may be taken, or the fee paid, on the next succeeding secular or business day.
 
-(July 19, 1952, ch. 950, 66 Stat. 794; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §12, Aug. 27, 1982, 96 Stat. 321; Pub. L. 106–113, div. B,§1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 794; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §12, Aug. 27, 1982, 96 Stat. 321; Pub. L. 106–113, div. B,§1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -14,7 +14,9 @@ Based on Title 35, U.S.C., 1946 ed., §21 (Mar. 2, 1927, ch. 273, §14, 44 Stat.
 
 #### Amendments
 
-1999—Subsec. (a). Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
+2002—Subsec. (a). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+
+1999—Subsec. (a). Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in two places.
 
 1982—Pub. L. 97–247 substituted “Filing date and day for taking action” for “Day for taking action falling on Saturday, Sunday, or holiday” as section catchline, added subsec. (a), redesignated existing provisions as subsec. (b) and inserted “Federal” after “Sunday, or a”.
 

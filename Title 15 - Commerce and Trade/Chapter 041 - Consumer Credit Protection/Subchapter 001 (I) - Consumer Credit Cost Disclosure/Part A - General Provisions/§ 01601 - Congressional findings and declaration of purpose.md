@@ -2,7 +2,7 @@
 
 #### (a) Informed use of credit
 
-The Congress finds that economic stabilization would be enhanced and the competition among the various financial institutions and other firms engaged in the extension of consumer credit would be strengthened by the informed use of credit. The informed use of credit results from an awareness of the cost thereof by consumers. It is the purpose of this subchapter to assure a meaningful disclosure of credit terms so that the consumer will be able to compare more readily the various credit terms available to him and avoid the uninformed use of credit, and to protect the consumer againstinaccurate and unfair credit billing and credit card practices.
+The Congress finds that economic stabilization would be enhanced and the competition among the various financial institutions andother firms engaged in the extension of consumer credit would be strengthened by the informed use of credit. The informed use of credit results from an awareness of the cost thereof by consumers. It is the purpose of this subchapter to assure a meaningful disclosure of credit terms so that the consumer will be able to compare more readily the various credit terms available to him and avoid the uninformed use of credit, and to protect the consumer against inaccurate and unfair credit billing and credit card practices.
 
 #### (b) Terms of personal property leases
 
@@ -70,7 +70,7 @@ Pub. L. 96–221, title VI, §601, Mar. 31, 1980, 94 Stat. 168, provided that: �
 
 #### Short Title of 1976 Amendments
 
-Section 1 of Pub. L. 94–240 provided that: “This Act \[enacting sections 1667 to 1667e of this title, amending this section and section 1640 of this title, and enacting provisions set out as a note under section 1667 of this title\] may be cited as the ‘Consumer Leasing Act of 1976’.”
+Section 1 of Pub. L. 94–240 provided that: “This Act \[enacting sections 1667 to 1667e of this title, amending this section and section 1640 of this title, and enactingprovisions set out as a note under section 1667 of this title\] may be cited as the ‘Consumer Leasing Act of 1976’.”
 
 Pub. L. 94–239, §1(a), Mar. 23, 1976, 90 Stat. 251, provided that: “This Act \[enacting section 1691f of this title, amending this section and sections 1691b, 1691c, 1691d, 1691e of this title, repealing section 1609 of this title, enacting provisions set out as notes under this section, and repealing provision set out as a note under this section\] may be cited as the ‘Equal Credit Opportunity Act Amendments of 1976’.”
 

@@ -1,6 +1,6 @@
 ### §3168. Injunctive relief
 
-No court shall have jurisdiction to grant any injunctive relief lasting longer than ninety daysagainst any action pursuant to this subchapter except in conjunction with a final judgment entered in a case involving an action pursuant to this subchapter.
+No court shall have jurisdiction to grant any injunctive relief lasting longer than ninety days against any action pursuant to this subchapter except in conjunction with a final judgment entered in a case involving an action pursuant to this subchapter.
 
 (Pub. L. 96–487, title XI, §1108, Dec. 2, 1980, 94 Stat. 2464; Pub. L. 98–620, title IV, §402(22)(B), Nov. 8, 1984, 98 Stat. 3358.)
 

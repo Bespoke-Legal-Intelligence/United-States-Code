@@ -24,7 +24,7 @@ This section authorizes the court to dismiss a liquidation case only for cause, 
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–183 inserted at end “In making a determination whether to dismiss a case under this section, the court may not take into consideration whether a debtor has made, or continues to make, charitable contributions (that meet the definition of ‘charitable contribution’ under section 548(d)(3)) to any qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)).”
+1998—Subsec. (b). Pub. L. 105–183 inserted at end “In making a determination whether to dismiss a case under this section, the court may not take into consideration whether a debtor has made, or continues tomake, charitable contributions (that meet the definition of ‘charitable contribution’ under section 548(d)(3)) to any qualified religious or charitable entity or organization (as that term is defined in section 548(d)(4)).”
 
 1986—Subsec. (a)(3). Pub. L. 99–554, §219(a), added par. (3).
 

@@ -64,7 +64,7 @@ The Director may publicly disseminate appropriate emergency preparedness informa
 
 (1) The Director may procure by condemnation or otherwise, construct, lease, transport, store, maintain, renovate or distribute materials and facilities for emergency preparedness, with the right to take immediate possession thereof.
 
-(2) Facilities acquired by purchase, donation, or other means of transfer may be occupied, used, and improved for the purposes of this subchapter before the approval of title by the Attorney General as required by section 255 of title 40.
+(2) Facilities acquired by purchase, donation, or other means of transfer may be occupied, used, and improved for the purposes of this subchapter before the approval of title by the Attorney General as required by sections 3111 and 3112 of title 40.
 
 (3) The Director may lease real property required for the purpose of carrying out the provisions of this subsection, but shall not acquire fee title to property unless specifically authorized by law.
 
@@ -86,21 +86,23 @@ The Director may publicly disseminate appropriate emergency preparedness informa
 
 (7) The Director shall submit to Congress a report, at least annually, regarding all contributions made pursuant to this subsection.
 
-(8) All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed with the assistance of any contribution of Federal funds made by the Director under this subsection shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (commonly known as the Davis-Bacon Act (40 U.S.C. 276a–276a–5)), and every such employee shall receive compensation at a rate not less than one and 1/2 times the basic rate of pay of the employee for all hours worked in any workweek in excess of eight hours in any workday or 40 hours in the workweek, as the case may be. The Director shall make no contribution of Federal funds without first obtaining adequate assurance that these labor standards will be maintained upon the construction work. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 276c of title 40.
+(8) All laborers and mechanics employed by contractors or subcontractors in the performance of construction work financed with the assistance of any contribution of Federal funds made by the Director under this subsection shall be paid wages at rates not less than those prevailing on similar construction in the locality as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40, and every such employee shall receive compensation at a rate not less than one and 1/2 times the basic rate of pay of the employee for all hours worked in any workweek in excess of eight hours in any workday or 40 hours in the workweek, as the case may be. The Director shall make no contribution of Federal funds without first obtaining adequate assurance that these labor standards will be maintained upon the construction work. The Secretary of Labor shall have, with respect to the labor standards specified in this subsection, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (5 U.S.C. App.) and section 3145 of title 40.
 
 #### (k) Sale or disposal of certain materials and facilities
 
-The Director may arrange for the sale or disposal of materials and facilities found by the Director to be unnecessary or unsuitable for emergency preparedness purposes in the same manner as provided for excess property under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.). Any funds received as proceeds from the sale or other disposition of such materials and facilities shall be deposited into the Treasury as miscellaneous receipts.
+The Director may arrange for the sale or disposal of materials and facilities found by the Director to be unnecessary or unsuitable for emergency preparedness purposes in the same manner as provided for excess property under the Federal Property and Administrative Services Act of 1949.<sup>1</sup> Any funds received as proceeds from the sale or other disposition of such materials and facilities shall be deposited into the Treasury as miscellaneous receipts.
 
 (Pub. L. 93–288, title VI, §611, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3102; amended Pub. L. 104–66, title II, §2071, Dec. 21, 1995, 109 Stat. 729.)
 
 #### References in Text
 
-Act of March 3, 1931 (commonly known as the Davis-Bacon Act), referred to in subsec. (j)(8), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (j)(8), is Reorg. Plan No. 14 of 1950, eff. May 24, 1950, 15 F.R. 3176, 64 Stat. 1267, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (k), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. The excess property provisions of that Act are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (k), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+
+#### Codification
+
+In subsec. (i)(2), “sections 3111 and 3112 of title 40” substituted for “section 355 of the Revised Statutes (40 U.S.C. 255)” and, in subsec. (j)(8), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act (40 U.S.C. 276a–276a–5))” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934 (40 U.S.C. 276(c))”, meaning 276c, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 
@@ -108,7 +110,11 @@ Provisions similar to those in this section were contained in section 2281 of Ti
 
 #### Amendments
 
-1995—Subsec. (i)(3) to (5). Pub. L. 104–66 redesignated pars. (4) and (5) as (3) and (4), respectively, and struckout former par. (3) which read as follows: “The Director shall submit to Congress a report, at least quarterly, describing all property acquisitions made pursuant to this subsection.”
+1995—Subsec. (i)(3) to (5). Pub. L. 104–66 redesignated pars. (4) and (5) as (3) and (4), respectively, and struck out former par. (3) which read as follows: “The Director shall submit to Congress a report, at least quarterly, describing all property acquisitions made pursuant to this subsection.”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Pilot Program To Study Design and Construction of Buildings To Minimize Effects of Nuclear Explosions
 
@@ -125,4 +131,6 @@ Pub. L. 96–342, title VII, §704, Sept. 8, 1980, 94 Stat. 1090, provided that:
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5132, 5195a, 5195b of this title; title 50 sections 2314, 2317.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

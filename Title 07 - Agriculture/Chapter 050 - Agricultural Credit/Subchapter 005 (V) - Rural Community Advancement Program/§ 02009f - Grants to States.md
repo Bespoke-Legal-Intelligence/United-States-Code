@@ -4,11 +4,11 @@
 
 #### (1) Mandatory grant
 
-&emsp;The Secretary shall make a grant to any eligible State for any fiscal year for which the State requests a grant under this section in an amount equal to 5 percent of the total amount allocated for the State under section 2009d(g) of this title.
+&emsp;The Secretary shall make a grant to any eligible State for any fiscal year for which the State requests a grant under this section in an amount equal to 5 percent of the total amount allocated for the State under section 2009d(f) of this title.
 
 #### (2) Permissive grant
 
-&emsp;Before July 15 of each fiscal year, the Secretary may make a grant to any State to defray the cost of any subsidy associated with a guarantee provided by an eligible public entity of the State under section 2009g of this title in an amount that does not exceed 5 percent of the total amount allocated for the State under section 2009d(g) of this title.
+&emsp;Before July 15 of each fiscal year, the Secretary may make a grant to any State to defray the cost of any subsidy associated with a guarantee provided by an eligible public entity of the State under section 2009g of this title in an amount that does not exceed 5 percent of the total amount allocated for the State under section 2009d(f) of this title.
 
 #### (3) Source of funds
 
@@ -18,7 +18,7 @@
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Secretary shall make a grant to any eligible State for any fiscal year for which the State requests a grant under this section in an amount equal to 5 percent of the amount allocated for the State for the fiscal year under section 2009d(h) of this title.
+&emsp;Subject to paragraph (2), the Secretary shall make a grant to any eligible State for any fiscal year for which the State requests a grant under this section in an amount equal to 5 percent of the amount allocated for the State for the fiscal year under section 2009d(g) of this title.
 
 #### (2) Eligibility
 
@@ -30,7 +30,7 @@
 
 #### (3) Source of funds
 
-&emsp;If the Secretary makes a grant under paragraph (1) before July 15 of the fiscal year, the grant shall be made from amounts allocated for the State in the accounts specified in section 2009d(c) of this title for the fiscal year, by reducing each allocated amount by the same percentage.
+&emsp;If the Secretary makes a grant under paragraph (1) before July 15 of the fiscal year, thegrant shall be made from amounts allocated for the State in the accounts specified in section 2009d(c) of this title for the fiscal year, by reducing each allocated amount by the same percentage.
 
 #### (c) Use of funds
 
@@ -84,7 +84,13 @@ Nothing in this subchapter—
 
 &emsp;(2) limits the right of a State to impose additional limitations or conditions on assistance or a contract or grant under this section.
 
-(Pub. L. 87–128, title III, §381G, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1143.)
+(Pub. L. 87–128, title III, §381G, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1143; amended Pub. L. 107–171, title VI, §6026(c), May 13, 2002, 116 Stat. 372.)
+
+#### Amendments
+
+2002—Subsec. (a)(1), (2). Pub. L. 107–171, §6026(c)(1), substituted “section 2009d(f) of this title” for “section 2009d(g) of this title”.
+
+Subsec. (b)(1). Pub. L. 107–171, §6026(c)(2), substituted “section 2009d(g) of this title” for “section 2009d(h) of this title”.
 
 #### Section Referred to in Other Sections
 

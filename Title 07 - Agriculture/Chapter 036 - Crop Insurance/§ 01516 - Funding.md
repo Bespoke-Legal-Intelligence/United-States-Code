@@ -66,7 +66,7 @@
 
 #### Amendments
 
-2000—Subsec. (a)(2). Pub. L. 106–224, §147(a), in introductory provisions, substituted “years the following:”for “years—”, in subpar. (A), substituted “The” for “the” and a period for “; and” at end, in subpar. (B), substituted “Premium” for “premium”, and added subpars. (C) and (D).
+2000—Subsec. (a)(2). Pub. L. 106–224, §147(a), in introductory provisions, substituted “years the following:” for “years—”, in subpar. (A), substituted “The” for “the” and a period for “; and” at end, in subpar. (B), substituted “Premium” for “premium”, and added subpars. (C) and (D).
 
 Subsec. (b)(1). Pub. L. 106–224, §147(b), in introductory provisions, substituted “including the following:” for “including—”, in subpar. (A), substituted “Premium” for “premium” and a period for the semicolon at end, in subpar. (B), substituted “Administrative” for “administrative” and a period for “; and” at end, in subpar. (C), substituted “All” for “all”, and added subpars. (D) and (E).
 
@@ -84,7 +84,7 @@ Subsec. (c)(1). Pub. L. 106–224, §147(d), substituted “income,” for “in
 
 &emsp;“(B) the administrative and operating expenses of the Corporation for the sales commissions of agents.”
 
-Subsec. (a)(2). Pub. L. 105–185, §531(1)(B)(i), inserted “for each of the 1999 and subsequent reinsurance years” after “are necessary to cover” in introductory provisions.
+Subsec. (a)(2). Pub. L. 105–185, §531(1)(B)(i), inserted “for each of the 1999 and subsequent reinsurance years”after “are necessary to cover” in introductory provisions.
 
 Subsec. (a)(2)(A). Pub. L. 105–185, §531(1)(B)(ii), added subpar. (A) and struck out former subpar. (A) which read as follows: “in the case of each of the 1995 through 1997 reinsurance years, the administrative and operating expenses of the Corporation for the sales commissions of agents, consistent with subsection (b)(1) of this section; and”.
 

@@ -26,13 +26,15 @@ The President may lease defense articles in the stocks of the Department of Defe
 
 #### (b) Duration; termination
 
-Each lease agreement under this section shall be for a fixed duration of not to exceed five years and shall provide that, at any time during the duration of the lease, the President may terminate the lease and require the immediate return of the leased articles.
+(1) Each lease agreement under this section shall be for a fixed duration which may not exceed (A) five years, and (B) a specified period of time required to complete major refurbishment work of the leased articles to be performed prior to the delivery of the leased articles, and shall provide that, at any time during the duration of the lease, the President may terminate the lease and require the immediate return of the leased articles.
+
+(2) In this subsection, the term “major refurbishment work” means work for which the period of performance is 6 months or more.
 
 #### (c) Applicable statutory authorities
 
 Defense articles in the stocks of the Department of Defense may be leased or loaned to a foreign country or international organization only under the authority of this subchapter or chapter 2 of part II of the Foreign Assistance Act of 1961 \[22 U.S.C. 2311 et seq.\], and may not be leased to a foreign country or international organization under the authority of section 2667 of title 10.
 
-(Pub. L. 90–629, ch. 6, §61, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1524; amended Pub. L. 99–500, §147, Oct. 18, 1986, 100 Stat. 1783–351, and Pub. L. 99–591, §147, Oct. 30, 1986, 100 Stat. 3341–354; Pub. L. 100–202, §101(e) \[title V, §556\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–170; Pub. L. 100–461, title V, §552, Oct. 1, 1988, 102 Stat. 2268–35; Pub. L. 101–167, title V, §550, Nov. 21, 1989, 103 Stat. 1235; Pub. L. 101–513, title V, §546, Nov. 5, 1990, 104 Stat. 2019; Pub. L. 102–145, §118, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93; Pub. L. 102–391, title V, §544, Oct. 6, 1992, 106 Stat. 1672; Pub. L. 103–87, title V, §524, Sept. 30, 1993, 107 Stat. 952; Pub. L. 103–236, title VII, §731(e), Apr. 30, 1994, 108 Stat. 503; Pub. L. 103–306, title V, §524, Aug. 23, 1994, 108 Stat. 1632; Pub. L. 104–107, title V, §524, Feb. 12, 1996, 110 Stat. 729; Pub. L. 104–164, title I, §§146, 153(a), July 21, 1996, 110 Stat. 1434, 1440; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §524\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–149; Pub. L. 105–118, title V, §524, Nov. 26, 1997, 111 Stat. 2412; Pub. L. 105–277, div. A, §101(d) \[title V, §524\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–177.)
+(Pub. L. 90–629, ch. 6, §61, as added Pub. L. 97–113, title I, §109(a), Dec. 29, 1981, 95 Stat. 1524; amended Pub. L. 99–500, §147, Oct. 18, 1986, 100 Stat. 1783–351, and Pub. L. 99–591, §147, Oct. 30, 1986, 100 Stat. 3341–354; Pub. L. 100–202, §101(e) \[title V, §556\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–170; Pub. L. 100–461, title V, §552, Oct. 1, 1988, 102 Stat. 2268–35; Pub. L. 101–167, title V, §550, Nov. 21, 1989, 103 Stat. 1235; Pub. L. 101–513, title V, §546, Nov. 5, 1990, 104 Stat. 2019; Pub. L. 102–145, §118, as added Pub. L. 102–266, §102, Apr. 1, 1992, 106 Stat. 93; Pub. L. 102–391, title V, §544, Oct. 6, 1992, 106 Stat. 1672; Pub. L. 103–87, title V, §524, Sept. 30, 1993, 107 Stat. 952; Pub. L. 103–236, title VII, §731(e), Apr. 30, 1994, 108 Stat. 503; Pub. L. 103–306, title V, §524, Aug. 23, 1994, 108 Stat. 1632; Pub. L. 104–107, title V, §524, Feb. 12, 1996, 110 Stat. 729; Pub. L. 104–164, title I, §§146, 153(a), July 21, 1996, 110 Stat. 1434, 1440; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §524\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–149; Pub. L. 105–118, title V, §524, Nov. 26, 1997, 111 Stat. 2412; Pub. L. 105–277, div. A, §101(d) \[title V, §524\], Oct. 21, 1998, 112 Stat. 2681–150, 2681–177; Pub. L. 107–228, div. B, title XII, §1233, Sept. 30, 2002, 116 Stat. 1433.)
 
 #### References in Text
 
@@ -45,6 +47,8 @@ Amendment by Pub. L. 102–145 is based on section 545 of H.R. 2621, One Hundred
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–228 designated existing provisions as par. (1), substituted “which may not exceed (A) five years, and (B) a specified period of time required to complete major refurbishment work of the leased articles to be performed prior to the delivery of the leased articles,” for “of not to exceed five years”, and added par. (2).
 
 1998—Subsec. (a). Pub. L. 105–277 substituted “the current fiscal year” for “1998” in par. (B).
 

@@ -110,7 +110,7 @@ Notwithstanding any other provision of law, nothing in this chapter shall be con
 
 #### (i) Coordination with research and development program
 
-To the extent available, and consistent with the provisions of this section, the Secretary shall provide spent nuclear fuel for the research and development program authorized in section 10198 <sup>1</sup> of this title from spent nuclear fuel received by the Secretary for storage under this section. Such spent nuclear fuel shall not besubject to the provisions of subsection (e) of this section.
+To the extent available, and consistent with the provisions of this section, the Secretary shall provide spent nuclear fuel for the research and development program authorized in section 10198 <sup>1</sup> of this title from spent nuclear fuel received by the Secretary for storage under this section. Such spent nuclear fuel shall not be subject to the provisions of subsection (e) of this section.
 
 (Pub. L. 97–425, title I, §135, Jan. 7, 1983, 96 Stat. 2232.)
 

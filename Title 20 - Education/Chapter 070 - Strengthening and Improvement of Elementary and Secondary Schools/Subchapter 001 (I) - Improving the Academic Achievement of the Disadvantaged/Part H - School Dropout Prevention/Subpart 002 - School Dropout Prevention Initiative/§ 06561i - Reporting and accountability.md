@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;To receive funds under this subpart for a fiscal year after the first fiscal year that a local educational agency receives funds under thissubpart, the local educational agency shall provide, on an annual basis, a report regarding the status of the implementation of activities funded under this subpart, and the dropout data for students at schools assisted under this subpart, disaggregated by race and ethnicity, to the—
+&emsp;To receive funds under this subpart for a fiscal year after the first fiscal year that a local educational agency receives funds under this subpart, the local educational agency shall provide, on an annual basis, a report regarding the status of the implementation of activities funded under this subpart, and the dropout data for students at schools assisted under this subpart, disaggregated by race and ethnicity, to the—
 
 &emsp;&emsp;(A) Secretary, if the local educational agency receives a grant under section 6561a(a)(1) of this title; or
 

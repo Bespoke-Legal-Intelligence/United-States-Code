@@ -124,7 +124,7 @@ In this subchapter:
 
 &emsp;&emsp;(B) live in homes close to community resources, with regular contact with individuals without disabilities in their communities;
 
-&emsp;&emsp;(C) enjoy full access to and active participation in the same community activitiesand types of employment as individuals without disabilities; and
+&emsp;&emsp;(C) enjoy full access to and active participation in the same community activities and types of employment as individuals without disabilities; and
 
 &emsp;&emsp;(D) take full advantage of their integration into the same community resources as individuals without disabilities, living, learning, working, and enjoying life in regular contact with individuals without disabilities.
 
@@ -164,7 +164,7 @@ In this subchapter:
 
 #### (18) Not-for-profit
 
-&emsp;The term “not-for-profit”, used with respect to an agency, institution, or organization, means an agency, institution, or organization that is owned or operated by 1 or more corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
+&emsp;The term “not-for-profit”, used with respect to an agency, institution, or organization,means an agency, institution, or organization that is owned or operated by 1 or more corporations or associations, no part of the net earnings of which inures, or may lawfully inure, to the benefit of any private shareholder or individual.
 
 #### (19) Personal assistance services
 
@@ -238,7 +238,7 @@ In this subchapter:
 
 #### (28) State
 
-&emsp;The term “State”, except as otherwise provided, includes, in addition to each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands.
+&emsp;The term “State”, except as otherwise provided, includes, in addition to each of the several States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the United States Virgin Islands, Guam,American Samoa, and the Commonwealth of the Northern Mariana Islands.
 
 #### (29) State Council on Developmental Disabilities
 
@@ -266,5 +266,5 @@ In this subchapter:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437a, 1471, 8013, 9877, 11382, 15001, 15112 of this title; title 25 section 4103; title 29 section 794e.
+This section is referred to in sections 1437a, 1471, 8013, 9877, 11382, 15001, 15112, 15461 of this title; title 25 section 4103; title 29 section 794e.
 

@@ -8,21 +8,33 @@ Employee.—The term “employee” means—
 
 &emsp;&emsp;(A) an employee as defined by section 8901(1);
 
-&emsp;&emsp;(B) an individual described in section 2105(e); and
+&emsp;&emsp;(B) an individual described in section 2105(e);
 
-&emsp;&emsp;(C) an individual employed by the Tennessee Valley Authority,
+&emsp;&emsp;(C) an individual employed by the Tennessee Valley Authority; and
+
+&emsp;&emsp;(D) an employee of a nonappropriated fund instrumentality of the Department of Defense described in section 2105(c),
 
 > &emsp;but does not include an individual employed by the government of the District of Columbia.
 
 &emsp;(2)
 
-Annuitant.—The term “annuitant” has the meaning such term would have under paragraph (3) of section 8901 if, for purposes of such paragraph, the term “employee” were considered to have the meaning given to it under paragraph (1) of this subsection.
+Annuitant.—The term “annuitant” means—
+
+&emsp;&emsp;(A) any individual who would satisfy the requirements of paragraph (3) of section 8901 if, for purposes of such paragraph, the term “employee” were considered to have the meaning given to it under paragraph (1) of this subsection; <sup>1</sup> and
+
+&emsp;&emsp;(B) any individual who—
+
+&emsp;&emsp;&emsp;(i) satisfies all requirements for title to an annuity under subchapter III of chapter 83, chapter 84, or any other retirement system for employees of the Government (whether based on the service of such individual or otherwise), and files application therefor;
+
+&emsp;&emsp;&emsp;(ii) is at least 18 years of age; and
+
+&emsp;&emsp;&emsp;(iii) would not (but for this subparagraph) otherwise satisfy the requirements of this paragraph.
 
 &emsp;(3)
 
 Member of the uniformed services.—The term “member of the uniformed services” means a member of the uniformed services, other than a retired member of the uniformed services, who is—
 
-&emsp;&emsp;(A) on active duty or full-time National Guard duty for a period of more than 30 days; and
+&emsp;&emsp;(A) on active duty or full-time National Guard duty for a period of more than 30 days; or
 
 &emsp;&emsp;(B) a member of the Selected Reserve.
 
@@ -70,11 +82,23 @@ Appropriate secretary.—The term “appropriate Secretary” means—
 
 &emsp;&emsp;(D) with respect to the commissioned corps of the Public Health Service, the Secretary of Health and Human Services.
 
-(Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 762.)
+(Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 762; amended Pub. L. 107–104, §1, Dec. 27, 2001, 115 Stat. 1001; Pub. L. 107–107, div. A, title X, §1048(i)(6), Dec. 28, 2001, 115 Stat. 1229; Pub. L. 107–314, div. A, title XI, §1101(a), Dec. 2, 2002, 116 Stat. 2660.)
 
 #### References in Text
 
 Section 7702B of the Internal Revenue Code of 1986, referred to in par. (9), is classified to section 7702B of Title 26, Internal Revenue Code.
+
+#### Amendments
+
+2002—Par. (1)(D). Pub. L. 107–314 added subpar. (D).
+
+2001—Par. (2). Pub. L. 107–104 amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “The term ‘annuitant’ has the meaning such term would have under paragraph (3) of section 8901 if, for purposes of such paragraph, the term ‘employee’ were considered to have the meaning given to it under paragraph (1) of this subsection.”
+
+Par. (3)(A). Pub. L. 107–107 substituted “or” for “and” after semicolon.
+
+#### Effective Date of 2001 Amendment
+
+Pub. L. 107–104, §3, Dec. 27, 2001, 115 Stat. 1002, provided that: “The amendments made by this Act \[amending this section and section 9005 of this title\] shall take effect as if included in the enactment of section 1002 of the Long-Term Care Security Act (Public Law 106–265; 114 Stat. 762).”
 
 #### Effective Date
 
@@ -84,7 +108,13 @@ Pub. L. 106–265, title I, §1003, Sept. 19, 2000, 114 Stat. 770, provided that
 
 Pub. L. 106–265, title I, §1001, Sept. 19, 2000, 114 Stat. 762, provided that: “This title \[enacting this chapter\] may be cited as the ‘Long-Term Care Security Act’.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 9002, 9004, 9008 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section;”.</i>
 

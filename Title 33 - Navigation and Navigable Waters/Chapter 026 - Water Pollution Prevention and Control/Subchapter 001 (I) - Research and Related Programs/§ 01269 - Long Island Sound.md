@@ -12,7 +12,7 @@ The Office shall be headed by a Director, who shall be detailed by the Administr
 
 The Office shall assist the Management Conference of the Long Island Sound Study in carrying out its goals. Specifically, the Office shall—
 
-&emsp;(1) assist and support the implementation of the Comprehensive Conservation and Management Plan for Long Island Sound developed pursuant to section 1330 of this title, including efforts to establish, within the process for granting watershed general permits, a systemfor promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan;
+&emsp;(1) assist and support the implementation of the Comprehensive Conservation and Management Plan for Long Island Sound developed pursuant to section 1330 of this title, including efforts to establish, within the process for granting watershed general permits, a system for promoting innovative methodologies and technologies that are cost-effective and consistent with the goals of the Plan;
 
 &emsp;(2) conduct or commission studies deemed necessary for strengthened implementation of the Comprehensive Conservation and Management Plan including, but not limited to—
 
@@ -91,8 +91,4 @@ Subsec. (e). Pub. L. 106–457, §403(2), added subsec. (e). Former subsec. (e) 
 Subsec. (f). Pub. L. 106–457, §§403(1), 404, redesignated subsec. (e) as (f) and substituted “2001 through 2005” for “1991 through 2001” in par. (1) and “not to exceed $40,000,000 for each of fiscal years 2001 through 2005” for “not to exceed $3,000,000 for each of the fiscal years 1991 through 2001” in par. (2).
 
 1996—Subsec. (e). Pub. L. 104–303 substituted “2001” for “1996” in pars. (1) and (2).
-
-#### Termination of Reporting Requirements
-
-For termination, effective May 15, 2000, of provisions in subsec. (c)(7) of this section relating to issuing a biennial report to Congress, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and page 163 of House Document No. 103–7.
 

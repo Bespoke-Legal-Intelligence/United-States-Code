@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary of Agriculture may make grants, not to exceed $20,000,000 annually, to public agencies or private organizations with tax exempt status under section 501(c)(3) of title 26, that have experience in providing emergency services to low-income migrant and seasonal farmworkers where the Secretary determines that a local, State or national emergency or disaster has caused low-income migrant or seasonal farmworkers to lose income, to be unable to work, or to stay home or return home in anticipation of work shortages. Emergency services to be provided with assistance received under this section may include such types of assistance as the Secretary of Agriculture determines to be necessary and appropriate.
+The Secretary of Agriculture may make grants to public agencies or private organizations with tax exempt status under section 501(c)(3) of title 26, that have experience in providing emergency services to low-income migrant and seasonal farmworkers where the Secretary determines that a local, State or national emergency or disaster has caused low-income migrant or seasonal farmworkers to lose income, to be unable to work, or to stay home or return home in anticipation of work shortages. Emergency services to be provided with assistance received under this section may includesuch types of assistance as the Secretary of Agriculture determines to be necessary and appropriate.
 
 #### (b) “Low-income migrant or seasonal farmworker” defined
 
@@ -18,11 +18,15 @@ For the purposes of this section, the term “low-income migrant or seasonal far
 
 There are authorized to be appropriated such sums as may be necessary to carry out this section.
 
-(Pub. L. 101–624, title XXII, §2281, Nov. 28, 1990, 104 Stat. 3978.)
+(Pub. L. 101–624, title XXII, §2281, Nov. 28, 1990, 104 Stat. 3978; Pub. L. 107–171, title X, §10102, May 13, 2002, 116 Stat. 488.)
 
 #### Codification
 
 Section was enacted as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171 struck out “, not to exceed $20,000,000 annually,” after “Secretary of Agriculture may make grants”.
 
 #### Section Referred to in Other Sections
 

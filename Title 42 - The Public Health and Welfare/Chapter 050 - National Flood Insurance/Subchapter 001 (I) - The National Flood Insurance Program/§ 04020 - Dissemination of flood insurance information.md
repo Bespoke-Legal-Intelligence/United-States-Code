@@ -12,3 +12,7 @@ The Director shall from time to time take such action as may be necessary in ord
 
 1983—Pub. L. 98–181 substituted “Director” for “Secretary” in provisions preceding par. (1).
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

@@ -28,7 +28,7 @@ Fund Management.—
 
 (2) If the requests for orders in subparagraph (1)(A) are withdrawn after December 31, 1999, or if such orders are not entered by March 1, 2000, amounts in the Northern Fund and the Southern Fund shall be transferred to the general fund of the United States Treasury.
 
-(3) During the term of the 1999 Pacific Salmon Treaty Agreement, the Secretary of Commerce shall determine whether Southern United States fisheries are likely to cause jeopardy to, or adversely modify designated critical habitat of, any salmonid species listed under Public Law 93–205, as amended, before the Secretary of Commerce may initiate or reinitiate consultation on Alaska fisheries under such Act.
+(3) During the term of the 1999 Pacific Salmon Treaty Agreement, the Secretary of Commerce shall determine whether Southern United States fisheries are likely to cause jeopardy to, or adversely modify designated critical habitat of,any salmonid species listed under Public Law 93–205, as amended, before the Secretary of Commerce may initiate or reinitiate consultation on Alaska fisheries under such Act.
 
 (4) During the term of the 1999 Pacific Salmon Treaty Agreement, the Secretary of Commerce may not initiate or reinitiate consultation on Alaska fisheries under section 7 of Public Law 93–205, as amended \[16 U.S.C. 1536\], until—
 

@@ -36,7 +36,7 @@ In the course of the negotiations, the following shall be pursued:
 
 &emsp;&emsp;(A) to evaluate from the viewpoint of the Western Hemisphere as a whole the energy and environmental situations, trends, and policies of the countries of the participating governments necessary to support sustainable economic development;
 
-&emsp;&emsp;(B) to recommend to the participating governments actions, policies, and institutional arrangements that will enhance cooperation and policy coordination among their respective countries in the future development and use of indigenous energy resources and technologies, and in the future development and implementation of measures to protect the environment of the Western Hemisphere; and
+&emsp;&emsp;(B) to recommend to the participating governments actions, policies, and institutionalarrangements that will enhance cooperation and policy coordination among their respective countries in the future development and use of indigenous energy resources and technologies, and in the future development and implementation of measures to protect the environment of the Western Hemisphere; and
 
 &emsp;&emsp;(C) to recommend to the participating governments actions and policies that will enhance energy and environmental cooperation and coordination among the countries of the Western Hemisphere and the world.
 

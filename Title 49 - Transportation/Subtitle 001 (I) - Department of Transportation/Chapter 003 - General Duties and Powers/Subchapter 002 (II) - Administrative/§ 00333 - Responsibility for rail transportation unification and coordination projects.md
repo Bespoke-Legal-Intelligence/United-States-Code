@@ -1,6 +1,6 @@
 ### §333. Responsibility for rail transportation unification and coordination projects
 
-(a) The Secretary of Transportation may develop and make available to interested persons any plans, proposals, and recommendations for mergers, consolidations, reorganizations, and other unification or coordination projects for rail transportation (including arrangements for joint use of tracks and other facilities and acquisition or sale of assets) that the Secretary believes will result in a rail system that is more efficient and consistent with the public interest.
+(a) The Secretary of Transportation may develop and make available to interested personsany plans, proposals, and recommendations for mergers, consolidations, reorganizations, and other unification or coordination projects for rail transportation (including arrangements for joint use of tracks and other facilities and acquisition or sale of assets) that the Secretary believes will result in a rail system that is more efficient and consistent with the public interest.
 
 (b) To achieve a more efficient, economical, and viable rail system in the private sector, the Secretary, when requested by a rail carrier and under this section, may assist in planning, negotiating, and carrying out a unification or coordination of operations and facilities of at least 2 rail carriers.
 

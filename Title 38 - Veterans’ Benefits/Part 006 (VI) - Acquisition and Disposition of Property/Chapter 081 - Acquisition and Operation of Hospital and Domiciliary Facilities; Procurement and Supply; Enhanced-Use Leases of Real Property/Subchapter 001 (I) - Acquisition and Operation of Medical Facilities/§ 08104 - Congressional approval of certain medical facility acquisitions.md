@@ -12,7 +12,7 @@
 
 (b) Whenever the President or the Secretary submit to the Congress a request for the funding of a major medical facility project (as defined in subsection (a)(3)(A)) or a major medical facility lease (as defined in subsection (a)(3)(B)), the Secretary shall submit to each committee, on the same day, a prospectus of the proposed medical facility. Any such prospectus shall include the following:
 
-&emsp;(1) A detailed description of the medical facility to be constructed, altered, leased, or otherwise acquired under this subchapter, including a description of the location of such facility and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring an existing facility by lease or purchase and to the sharing of health-care resources with the Department of Defense under section 8111 of this title.
+&emsp;(1) A detailed description of the medical facility to be constructed, altered, leased, or otherwise acquired under this subchapter, including a description of the location of such facility and, in the case of a prospectus proposing the construction of a new or replacement medical facility, a description of the consideration that was given to acquiring anexisting facility by lease or purchase and to the sharing of health-care resources with the Department of Defense under section 8111 of this title.
 
 &emsp;(2) An estimate of the cost to the United States of the construction, alteration, lease, or other acquisition of such facility (including site costs, if applicable).
 
@@ -24,7 +24,7 @@
 
 &emsp;(6) Current and projected operating costs of the facility, including both recurring and non-recurring costs.
 
-&emsp;(7) The priority score assigned to the project or lease under the Department's prioritization methodology and, if the project or lease is being proposed for funding before a project or lease with a higher score, a specific explanation of the factors other than the priorityscore that were considered and the basis on which the project or lease is proposed for funding ahead of projects or leases with higher priority scores.
+&emsp;(7) The priority score assigned to the project or lease under the Department's prioritization methodology and, if the project or lease is being proposed for funding before a project or lease with a higher score, a specific explanation of the factors other than the priority score that were considered and the basis on which the project or lease is proposed for funding ahead of projects or leases with higher priority scores.
 
 &emsp;(8) In the case of a prospectus proposing the construction of a new or replacement medical facility, a description of each alternative to construction of the facility that was considered.
 
@@ -80,7 +80,7 @@ Subsec. (c). Pub. L. 102–83 substituted “Secretary” for “Administrator�
 
 Subsecs. (d), (e). Pub. L. 102–83 substituted “Secretary” for “Administrator” wherever appearing.
 
-1988—Subsec. (a)(2). Pub. L. 100–322, §422(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “After the adoption by the committees during a fiscal year of resolutions with identical texts approving major medical facility projects, it shall not be in order in the House of Representatives or in the Senate to consider a bill, resolution, or amendment making an appropriation for that fiscal year or for the next fiscal year which may be expended for a major medical facility project—
+1988—Subsec. (a)(2). Pub. L. 100–322, §422(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “After the adoption by the committees during a fiscal year of resolutions with identical texts approving major medical facility projects, it shall not be in order in the House of Representatives or in the Senateto consider a bill, resolution, or amendment making an appropriation for that fiscal year or for the next fiscal year which may be expended for a major medical facility project—
 
 &emsp;“(A) if the project for which the appropriation is proposed to be made is not approved in those resolutions; or
 
@@ -98,7 +98,7 @@ Subsec. (a)(3), (4). Pub. L. 100–322, §422(b), added par. (3) and struck out 
 
 “(3) No appropriation may be made for the lease of any space for use as a medical facility at an average annual rental of more than $500,000 unless each committee has first adopted a resolution approving such lease and setting forth the estimated cost thereof.
 
-“(4) For the purpose of this subsection, the term ‘major medical facility project’ means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than$2,000,000. Such term does not include an acquisition by exchange.”
+“(4) For the purpose of this subsection, the term ‘major medical facility project’ means a project for the construction, alteration, or acquisition of a medical facility involving a total expenditure of more than $2,000,000. Such term does not include an acquisition by exchange.”
 
 Subsec. (c). Pub. L. 100–322, §422(c), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows: “The estimated cost of any construction, alteration, lease, or other acquisition that is approved under this section, as set forth in the pertinent resolutions described in subsection (a) of this section, may be increased by the Administrator in the contract for such construction, alteration, lease, or other acquisition by an amount equal to the percentage increase, if any, as determined by the Administrator, in construction, alteration, lease, or other acquisition costs, as the case may be, from the date of such approval to the date of contract, but in no event may the amount of such increase exceed 10 per centum of such estimated cost.”
 

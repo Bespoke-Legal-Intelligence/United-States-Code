@@ -36,5 +36,5 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 902 of this title; title 18 section 202; title 41 section 423; title 42 section 14614; title 50 section 426.
+This section is referred to in section 902 of this title; title 10 sections 4595, 7582, 9594; title 18 section 202; title 28 section 179; title 41 section 423; title 42 section 14614; title 50 section 426.
 

@@ -20,7 +20,7 @@ In furtherance of section 5411(b)(1) of this title, the President, acting in coo
 
 #### (2) Authorization of appropriations
 
-&emsp;For purposes of providing the assistance authorized by this subsection, there are authorized to be appropriated $200,000,000 for fiscal year 1990 to carry out chapter 4 of part II of the Foreign Assistance Act of 1961 (22 U.S.C. 2346 and following; relating to the economic support fund), in addition to amounts otherwise available for such purposes.
+&emsp;For purposes of providing the assistance authorized by this subsection, there are authorized to be appropriated $200,000,000 for fiscal year 1990 to carry out chapter 4 of part II ofthe Foreign Assistance Act of 1961 (22 U.S.C. 2346 and following; relating to the economic support fund), in addition to amounts otherwise available for such purposes.
 
 (Pub. L. 101–179, title I, §102, Nov. 28, 1989, 103 Stat. 1303.)
 

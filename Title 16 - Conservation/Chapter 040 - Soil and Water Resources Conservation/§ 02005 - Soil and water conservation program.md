@@ -34,7 +34,7 @@ The initial program shall be completed not later than December 31, 1979, and pro
 
 #### Transfer of Functions
 
-For transfer of certain enforcement functions of Secretary or other official in Department of Agriculture under this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 2002 of this title.
+For transfer of certain enforcement functions of Secretary or other official in Department of Agricultureunder this chapter to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, and subsequent transfer to Secretary of Energy, see note set out under section 2002 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -18,7 +18,7 @@ Pub. L. 103–349, §1(a), Oct. 6, 1994, 108 Stat. 3136, provided that: “This 
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–560, §1, Oct. 28, 1992, 106 Stat. 4230, provided that: “This Act \[enacting section 2570 of this titleand section 296 of Title 35, Patents, amending section 2541 of this title and section 271 of Title 35, and enacting provisions set out as a note under section 2541 of this title\] may be cited as the ‘Patent and Plant Variety Protection Remedy Clarification Act’.”
+Pub. L. 102–560, §1, Oct. 28, 1992, 106 Stat. 4230, provided that: “This Act \[enacting section 2570 of this title and section 296 of Title 35, Patents, amending section 2541 of this title and section 271 of Title 35, and enacting provisions set out as a note under section 2541 of this title\] may be cited as the ‘Patent and Plant Variety Protection Remedy Clarification Act’.”
 
 #### Short Title
 

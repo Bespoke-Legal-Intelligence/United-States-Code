@@ -34,5 +34,5 @@ A number of special conspiracy provisions, relating to specific offenses, which 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 24, 1345 of this title; title 22 section 2778; title 26 section 6531; title 42 section 3795b; title 50 App. section 18.
+This section is referred to in sections 24, 1345 of this title; title 22 section 2778; title 26 section 6531; title 42 section 3795b; title 50 App. section 18.
 

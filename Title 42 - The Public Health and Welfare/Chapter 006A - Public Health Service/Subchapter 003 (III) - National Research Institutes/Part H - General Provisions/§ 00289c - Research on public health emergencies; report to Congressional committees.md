@@ -2,7 +2,7 @@
 
 (a) If the Secretary determines, after consultation with the Director of NIH, the Commissioner of the Food and Drug Administration, or the Director of the Centers for Disease Control and Prevention, that a disease or disorder constitutes a public health emergency, the Secretary, acting through the Director of NIH—
 
-&emsp;(1) shall expedite the review by advisory councils under section 284a of this title and by peer review groups under section 289a of thistitle of applications for grants for research on such disease or disorder or proposals for contracts for such research;
+&emsp;(1) shall expedite the review by advisory councils under section 284a of this title and by peer review groups under section 289a of this title of applications for grants for research on such disease or disorder or proposals for contracts for such research;
 
 &emsp;(2) shall exercise the authority in section 5 of title 41 respecting public exigencies to waive the advertising requirements of such section in the case of proposals for contracts for such research;
 

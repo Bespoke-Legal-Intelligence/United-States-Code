@@ -30,7 +30,7 @@
 
 #### (2) Use of submitted priority list of projects
 
-&emsp;The Secretary of the Interior may make grants under this section only for projects identified on a priority list of wildlife restoration projects described in paragraph (3).
+&emsp;The Secretary of the Interior may make grants under this section only for projectsidentified on a priority list of wildlife restoration projects described in paragraph (3).
 
 #### (3) Priority list of projects
 

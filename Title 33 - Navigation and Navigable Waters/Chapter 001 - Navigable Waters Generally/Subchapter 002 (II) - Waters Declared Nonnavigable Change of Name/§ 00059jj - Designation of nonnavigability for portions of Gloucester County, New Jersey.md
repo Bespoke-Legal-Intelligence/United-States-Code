@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(v) N. 57°0439 W. 481.04 feet; thence
 
-&emsp;&emsp;&emsp;(vi) N. 36°2255 W. 870.00 feet to a point in the Pierhead and Bulkhead Line along theSoutheasterly shore of the Delaware River; thence
+&emsp;&emsp;&emsp;(vi) N. 36°2255 W. 870.00 feet to a point in the Pierhead and Bulkhead Line along the Southeasterly shore of the Delaware River; thence
 
 &emsp;&emsp;&emsp;(vii) along the same line N. 53°3705 E. 1256.19 feet; thence
 

@@ -22,5 +22,5 @@ Minor change was made in phraseology.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 951, 3591, 3592 of this title; title 5 section 8312; title 8 section 1101; title 38 section 6105; title 50 App. section 34.
+This section is referred to in sections 951, 3591, 3592 of this title; title 5 section 8312; title 8 section 1101; title 38 section 6105; title 50 App. section 34.
 

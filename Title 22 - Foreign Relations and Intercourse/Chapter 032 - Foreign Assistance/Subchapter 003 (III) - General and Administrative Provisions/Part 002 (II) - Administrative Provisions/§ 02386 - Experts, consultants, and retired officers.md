@@ -6,7 +6,7 @@ Experts and consultants or organizations thereof may as authorized by section 31
 
 #### (b) Exemption from certain Federal laws
 
-Service of an individual as an expert or consultant under subsection (a) of this section shall not be considered as employment or holding of office or position bringing such individual within the provisions of section 3323(a) of title 5.
+Service of an individual as an expert or consultant under subsection (a) of this section shallnot be considered as employment or holding of office or position bringing such individual within the provisions of section 3323(a) of title 5.
 
 #### (c) Employment without compensation of persons of outstanding experience and ability
 

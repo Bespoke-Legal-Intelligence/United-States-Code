@@ -16,7 +16,7 @@ For the purpose of executing the duties and functions of the Coast Guard the Com
 
 &emsp;(g) conduct or make available to personnel of the Coast Guard such specialized training and courses of instruction, including correspondence courses, as may be necessary or desirable for the good of the service;
 
-&emsp;(h) design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire patrol boats and other small craft, equip, operate, maintain, supply, and repair such patrol boats, other small craft, aircraft, and vehicles, and subject to applicable regulations under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) dispose of them;
+&emsp;(h) design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire patrol boats and other small craft, equip, operate, maintain, supply, and repair such patrol boats, other small craft, aircraft, and vehicles, and subject to applicable regulations under subtitle I of title 40 and title III ofthe Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) dispose of them;
 
 &emsp;(i) acquire, accept as gift, maintain, repair, and discontinue aids to navigation, appliances, equipment, and supplies;
 
@@ -54,7 +54,7 @@ For the purpose of executing the duties and functions of the Coast Guard the Com
 
 &emsp;(x) rent or lease, under such terms and conditions as are considered by the Secretary to be advisable, commercial vehicles to transport the next of kin of eligible retired Coast Guard military personnel to attend funeral services of the service member at a national cemetery.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 504; Aug. 3, 1950, ch. 536, §2, 64 Stat. 406; Oct. 31, 1951, ch. 654, §§1(33), 2(10), 4(1), 65 Stat. 702, 707, 709; Pub. L. 94–546, §1(9), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 97–136, §6(d), Dec. 29, 1981, 95 Stat. 1706; Pub. L. 97–276, §143, Oct. 2, 1982, 96 Stat. 1199; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 97–322, title I, §115(c), Oct. 15, 1982, 96 Stat. 1586; Pub. L. 102–241, §7, Dec. 19, 1991, 105 Stat. 2212; Pub. L. 103–206, title II, §202, title III, §316, Dec. 20, 1993, 107 Stat. 2420, 2426; Pub. L. 104–324, title II, §207(a), Oct. 19, 1996, 110 Stat. 3908; Pub. L. 105–383, title II, §§202, 203, Nov. 13, 1998, 112 Stat. 3414, 3415; Pub. L. 107–217, §3(c)(2), Aug. 21, 2002, 116 Stat. 1298.)
 
 #### Historical and Revision Notes
 
@@ -100,9 +100,11 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2002—Subsec. (h). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
 1998—Subsec. (w). Pub. L. 105–383, §202, added subsec. (w).
 
@@ -133,6 +135,34 @@ Subsec. (k). Act Oct. 31, 1951, §1(33), repealed subsec. (k) which empowered th
 1950—Subsec. (<i>o</i>). Act Aug. 3, 1950, struck out “and” after the semicolon.
 
 Subsec. (p). Act Aug. 3, 1950, substituted “; and” for the period at end.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Icebreaking Services
+
+Pub. L. 107–295, title IV, §429, Nov. 25, 2002, 116 Stat. 2127, provided that: “The Commandant of the Coast Guard shall not plan, implement, or finalize any regulation or take any other action which would result in the decommissioning of any WYTL-class harbor tugs unless and until the Commandant certifies in writing to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives that sufficient replacement capability has been procured by the Coast Guard to remediate any degradation in current icebreaking services that would be caused by such decommissioning.”
+
+#### Fishing Vessel Safety Training
+
+Pub. L. 107–295, title IV, §430, Nov. 25, 2002, 116 Stat. 2128, provided that:
+
+“(a)
+
+In General.—The Commandant of the Coast Guard may provide support, with or without reimbursement, to an entity engaged in fishing vessel safety training, including—
+
+&emsp;“(1) assistance in developing training curricula;
+
+&emsp;“(2) use of Coast Guard personnel, including active duty members, members of the Coast Guard Reserve, and members of the Coast Guard Auxiliary, as temporary or adjunct instructors;
+
+&emsp;“(3) sharing of appropriate Coast Guard informational and safety publications; and
+
+&emsp;“(4) participation on applicable fishing vessel safety training advisory panels.
+
+“(b)
+
+No Interference With Other Functions.—In providing support under subsection (a), the Commandant shall ensure that the support does not interfere with any Coast Guard function or operation.”
 
 #### Conveyance of Lighthouses; Notification
 

@@ -116,7 +116,7 @@ Based on information obtained under subsection (c)(3) of this section, the Admin
 
 &emsp;&emsp;(C) The grant recipient shall have access to expertise in small public water system technology management.
 
-&emsp;&emsp;(D) The grant recipient shall have the capability to disseminate the results of small public water system technology and training programs.
+&emsp;&emsp;(D) The grant recipient shall have the capability to disseminate the results of smallpublic water system technology and training programs.
 
 &emsp;&emsp;(E) The projects that the grant recipient proposes to carry out under the grant are necessary and appropriate.
 

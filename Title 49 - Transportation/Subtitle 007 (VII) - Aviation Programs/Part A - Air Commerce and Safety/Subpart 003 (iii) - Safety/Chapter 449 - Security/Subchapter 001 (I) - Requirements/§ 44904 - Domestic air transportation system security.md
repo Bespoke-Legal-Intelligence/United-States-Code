@@ -68,6 +68,16 @@ Subsec. (b)(5). Pub. L. 107–71, §101(f)(1), substituted “the Transportation
 
 Subsec. (c). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator”.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
 #### Regular Joint Threat Assessments
 
 Pub. L. 104–264, title III, §310, Oct. 9, 1996, 110 Stat. 3253, provided that: “The Administrator of the Federal Aviation Administration and the Director of the Federal Bureau of Investigation shall carry out joint threat and vulnerability assessments on security every 3 years, or more frequently, as necessary, at each airport determined to be high risk.”

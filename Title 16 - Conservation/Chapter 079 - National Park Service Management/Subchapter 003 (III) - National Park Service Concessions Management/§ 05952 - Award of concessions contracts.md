@@ -4,7 +4,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 #### (1) Competitive selection process
 
-&emsp;Except as otherwise provided in this section, all proposed concessions contracts shall be awarded by the Secretary to the person, corporation, or other entity submitting the best proposal, as determined by the Secretary through a competitive selection process. Such competitive process shall include simplified procedures for small, individually-owned, concessions contracts.
+&emsp;Except as otherwise provided in this section, all proposed concessions contracts shall beawarded by the Secretary to the person, corporation, or other entity submitting the best proposal, as determined by the Secretary through a competitive selection process. Such competitive process shall include simplified procedures for small, individually-owned, concessions contracts.
 
 #### (2) Solicitation of proposals
 
@@ -112,7 +112,7 @@ In furtherance of the findings and policy stated in section 5951 of this title, 
 
 &emsp;&emsp;(A) A temporary concessions contract or an extension of an existing concessions contract for a term not to exceed 3 years in order to avoid interruption of services to the public at a unit of the National Park System, except that prior to making such an award, the Secretary shall take all reasonable and appropriate steps to consider alternatives to avoid such interruption.
 
-&emsp;&emsp;(B) A concessions contract in extraordinary circumstances where compelling and equitable considerations require the award of a concessions contract to a particular party in the public interest. Such award of a concessions contract shall not be made by the Secretary until at least 30 days after publication in the Federal Register of notice of the Secretary's intention to do so and the reasons for such action, and submission of notice to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives.
+&emsp;&emsp;(B) A concessions contract in extraordinary circumstances where compelling and equitable considerations require the award of a concessions contract to a particularparty in the public interest. Such award of a concessions contract shall not be made by the Secretary until at least 30 days after publication in the Federal Register of notice of the Secretary's intention to do so and the reasons for such action, and submission of notice to the Committee on Energy and Natural Resources of the Senate and the Committee on Resources of the House of Representatives.
 
 (Pub. L. 105–391, title IV, §403, Nov. 13, 1998, 112 Stat. 3504.)
 

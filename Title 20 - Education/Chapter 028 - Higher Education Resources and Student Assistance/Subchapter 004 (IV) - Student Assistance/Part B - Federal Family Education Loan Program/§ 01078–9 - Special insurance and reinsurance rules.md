@@ -4,7 +4,7 @@
 
 #### (1) Authority
 
-&emsp;Whenever the Secretary determines that an eligible lender, servicer, or guaranty agency has a compliance performance rating that equals or exceeds 97 percent, the Secretary shall designate the eligible lender, servicer, or guaranty agency, as the case may be, for exceptional performance. The Secretary shall notify each appropriate guaranty agency ofthe eligible lenders and servicers designated under this section.
+&emsp;Whenever the Secretary determines that an eligible lender, servicer, or guaranty agency has a compliance performance rating that equals or exceeds 97 percent, the Secretary shall designate the eligible lender, servicer, or guaranty agency, as the case may be, for exceptional performance. The Secretary shall notify each appropriate guaranty agency of the eligible lenders and servicers designated under this section.
 
 #### (2) Compliance performance rating
 
@@ -18,7 +18,7 @@
 
 #### (1) 100 percent payment rule
 
-&emsp;Each guaranty agency shall pay each eligible lender or servicer (as agent for an eligible lender) designated under subsection (a) of this section 100 percent of the unpaid principal and interest of all loans for which claims are submitted for payment by that eligible lender or servicer for the one-year period following the receipt by the guaranty agency of the notification of designation under this section or until the guaranty agency receives notice from the Secretary that the designation of the lender or servicer under subsection (a) of this section has been revoked.
+&emsp;Each guaranty agency shall pay each eligible lender or servicer (as agent for an eligiblelender) designated under subsection (a) of this section 100 percent of the unpaid principal and interest of all loans for which claims are submitted for payment by that eligible lender or servicer for the one-year period following the receipt by the guaranty agency of the notification of designation under this section or until the guaranty agency receives notice from the Secretary that the designation of the lender or servicer under subsection (a) of this section has been revoked.
 
 #### (2) Revocation authority
 
@@ -56,7 +56,7 @@
 
 #### (6) Loss of designation
 
-&emsp;If the audit performed pursuant to paragraph (5) fails to meet the standards for designation as an exceptional lender or servicer under subsection (a)(1) of this section, the lender or servicer shall lose its designation asan exceptional lender or servicer. A lender or servicer receiving a compliance audit not meeting the standard for designation as an exceptional lender or servicer may reapply for designation under subsection (a) of this section at any time.
+&emsp;If the audit performed pursuant to paragraph (5) fails to meet the standards for designation as an exceptional lender or servicer under subsection (a)(1) of this section, the lender or servicer shall lose its designation as an exceptional lender or servicer. A lender or servicer receiving a compliance audit not meeting the standard for designation as an exceptional lender or servicer may reapply for designation under subsection (a) of this section at any time.
 
 #### (7) Due diligence standards
 
@@ -64,7 +64,7 @@
 
 #### (8) Additional revocation authority
 
-&emsp;Notwithstanding any other provision of this section, designation under subsection (a) of this section may be revoked at any time by the Secretary if the Secretary determines that the eligible lender or servicer has failed to maintain an overall level of regulatory compliance consistent with the audit submitted by the eligible lender or servicer under this section or if the Secretary believes the lender or servicer may have engaged in fraud in securing designation under subsection (a) of this section or is failing to service loans in accordance with program regulations.
+&emsp;Notwithstanding any other provision of this section, designation under subsection (a) of this section may be revoked at any time by the Secretary if the Secretary determines that the eligible lender or servicer has failed tomaintain an overall level of regulatory compliance consistent with the audit submitted by the eligible lender or servicer under this section or if the Secretary believes the lender or servicer may have engaged in fraud in securing designation under subsection (a) of this section or is failing to service loans in accordance with program regulations.
 
 #### (d) Supervision of designated guaranty agencies
 

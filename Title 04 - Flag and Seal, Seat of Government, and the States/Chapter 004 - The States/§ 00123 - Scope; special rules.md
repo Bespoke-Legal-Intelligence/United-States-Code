@@ -2,7 +2,7 @@
 
 (a)
 
-Act Does Not Supersede Customer's Liability to Taxing Jurisdiction.—Nothing in sections 116 through 126 modifies, impairs, supersedes, or authorizes the modification, impairment, or supersession of, any law allowing a taxing jurisdiction to collect a tax, charge, or fee from a customer that has failed to provide its place of primary use.
+Act Does Not Supersede Customer's Liability to Taxing Jurisdiction.—Nothing insections 116 through 126 modifies, impairs, supersedes, or authorizes the modification, impairment, or supersession of, any law allowing a taxing jurisdiction to collect a tax, charge, or fee from a customer that has failed to provide its place of primary use.
 
 (b)
 

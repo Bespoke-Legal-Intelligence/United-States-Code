@@ -30,5 +30,5 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 #### Effective Date of 1953 Amendment; Savings Provision
 
-Amendment by act Aug. 8, 1953, effective on and after the thirtieth day following Aug. 8, 1953, and savings provision, see notes set out under section 1304 of this title.
+Amendment by act Aug. 8, 1953, effective on and after the thirtieth day following Aug. 8, 1953, and savingsprovision, see notes set out under section 1304 of this title.
 

@@ -62,9 +62,13 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 
 Amendment by act June 25, 1938, effective on thirtieth day following June 25, 1938, except as otherwise specifically provided, see section 37 of act June 25, 1938, set out as a note under section 1401 of this title.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Extension of One-Year Period
 
-For extension of one year period prescribed in this section, see Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65 Stat. c41, set out as a note under section 1318 of this title.
+For extension of one year period prescribed in this section, see Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65Stat. c41, set out as a note under section 1318 of this title.
 
 Proc. No. 2599, Nov. 6, 1943, 8 F.R. 15359, 57 Stat. 758, as amended by Proc. No. 2712, Dec. 4, 1946, 11 F.R. 14133, 61 Stat. 1947, was superseded by Proc. No. 2948, Oct. 12, 1951, 16 F.R. 10589, 65 Stat. c41.
 

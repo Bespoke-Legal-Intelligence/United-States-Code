@@ -30,15 +30,15 @@
 
 (2) As used in this subsection, the term “ballistic knife” means a knife with a detachable blade that is propelled by a spring-operated mechanism.
 
-Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail, according to the direction thereon, or at any place at which it is directed to be delivered by the person to whom it is addressed, anything declared nonmailable by this section, unless in accordance with the rules and regulations authorized to be prescribed by the Postal Service, shall be fined under this title or imprisoned not more than one year, or both.
+(j)(1) Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail, according to the direction thereon, or at any place at which it is directed to be delivered by the person to whom it is addressed, anything declared nonmailable by this section, unless in accordance with the rules and regulations authorized to be prescribed by the Postal Service, shall be fined under this title or imprisoned not more than one year, or both.
 
-Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail, according to the direction thereon or at any place to which it is directed to be delivered by the person to whom it is addressed, anything declared nonmailable by this section, whether or not transmitted in accordance with the rules and regulations authorized to be prescribed by the Postal Service, with intent to kill or injure another, or injure the mails or other property, shall be fined not more than $10,000 or imprisoned not more than twenty years, or both.
+(2) Whoever knowingly deposits for mailing or delivery, or knowingly causes to be delivered by mail, according to the direction thereon or at any place to which it is directed to be delivered by the person to whom it is addressed, anything declared nonmailable by this section, whether or not transmitted in accordance with the rules and regulations authorized to be prescribed by the Postal Service, with intent to kill or injure another, or injure the mails or other property, shall be fined under this title or imprisoned not more than twenty years, or both.
 
-Whoever is convicted of any crime prohibited by this section, which has resulted in the death of any person, shall be subject also to the death penalty or to imprisonment for life.
+(3) Whoever is convicted of any crime prohibited by this section, which has resulted in the death of any person, shall be subject also to the death penalty or to imprisonment for life.
 
-(j) For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+(k) For purposes of this section, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat. 191; Pub. L. 85–268, Sept. 2, 1957, 71 Stat. 594; Pub. L. 85–623, §5, Aug. 12, 1958, 72 Stat. 562; Pub. L. 91–375, §6(j)(25), Aug. 12, 1970, 84 Stat. 779; Pub. L. 92–191, §1, Dec. 15, 1971, 85 Stat. 647; Pub. L. 99–570, title X, §10003, Oct. 27, 1986, 100 Stat. 3207–167; Pub. L. 103–322, title VI, §60003(a)(7), title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–294, title VI, §607(g), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 781; May 8, 1952, ch. 246, 66 Stat. 67; June 29, 1955, ch. 224, 69 Stat. 191; Pub. L. 85–268, Sept. 2, 1957, 71 Stat. 594; Pub. L. 85–623, §5, Aug. 12, 1958, 72 Stat. 562; Pub. L. 91–375, §6(j)(25), Aug. 12, 1970, 84 Stat. 779; Pub. L. 92–191, §1, Dec. 15, 1971, 85 Stat. 647; Pub. L. 99–570, title X, §10003, Oct. 27, 1986, 100 Stat. 3207–167; Pub. L. 103–322, title VI, §60003(a)(7), title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 1969, 2147; Pub. L. 104–294, title VI, §607(g), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, §4002(b)(2), (6), Nov. 2, 2002, 116 Stat. 1807.)
 
 #### Historical and Revision Notes
 
@@ -52,9 +52,15 @@ Minor changes were made in phraseology.
 
 #### Amendments
 
+2002—Subsec. (g)(3). Pub. L. 107–273, §4002(b)(2), made technical correction to directory language of Pub. L. 104–294, §607(g)(2). See 1996 Amendment note below.
+
+Subsec. (j). Pub. L. 107–273, §4002(b)(6), designated first, second, and third undesignated pars. after subsec. (i) as pars. (1) to (3), respectively, of subsec. (j) and, in par. (2), substituted “under this title” for “not more than $10,000”. Former subsec. (j) redesignated (k).
+
+Subsec. (k). Pub. L. 107–273, §4002(b)(6)(D), redesignated subsec. (j) as (k).
+
 1996—Subsec. (g)(2). Pub. L. 104–294, §607(g)(1), substituted “State” for “State, Territory, or the District of Columbia”.
 
-Subsec. (g)(3). Pub. L. 104–294, §607(g)(2), which directed substitution of “any State, or any political subdivision of a State” for “the municipal government of the District of Columbia or of the government of any State or territory, or any county, city, or other political subdivision of a State”, was executed by making the substitution in text which contained the word “Territory” rather than “territory”, to reflect the probable intent of Congress.
+—Subsec. (g)(3). Pub. L. 104–294, §607(g)(2), as amended by Pub. L. 107–273, §4002(b)(2), substituted “any State, or any political subdivision of a State” for “the municipal government of the District of Columbia or of the government of any State or Territory, or any county, city, or other political subdivision of a State”.
 
 Subsec. (j). Pub. L. 104–294, §607(g)(3), added subsec. (j) at end.
 
@@ -90,6 +96,10 @@ Eighth to tenth pars. Pub. L. 91–375, §6(j)(25)(B)(i), substituted “Postal 
 
 1952—Act May 8, 1952, inserted fourth paragraph to extend the Postmaster General's authority as it relates to the transmission of poisonous drugs through the mails for scientific purposes.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–273, div. B, title IV, §4002(b)(2), Nov. 2, 2002, 116 Stat. 1807, provided that the amendment made by section 4002(b)(2) is effective Oct. 11, 1996.
+
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–570 effective 30 days after Oct. 27, 1986, see section 10004 of Pub. L. 99–570, set out as an Effective Date note under section 1245 of Title 15, Commerce and Trade.
@@ -100,7 +110,7 @@ Section 3 of Pub. L. 92–191 provided that: “The amendments made by this Act 
 
 #### Effective Date of 1970 Amendment
 
-Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor byBoard of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
+Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on date established therefor by Board of Governors of United States Postal Service and published by it in Federal Register, see section 15(a) of Pub. L. 91–375, set out as an Effective Date note preceding section 101 of Title 39, Postal Service.
 
 #### Effective Date of 1958 Amendment
 
@@ -112,5 +122,5 @@ Federal Hazardous Substances Act as not modifying this section, see Pub. L. 86�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 39 section 3001.
+This section is referred to in title 19 section 1583; title 39 section 3001.
 

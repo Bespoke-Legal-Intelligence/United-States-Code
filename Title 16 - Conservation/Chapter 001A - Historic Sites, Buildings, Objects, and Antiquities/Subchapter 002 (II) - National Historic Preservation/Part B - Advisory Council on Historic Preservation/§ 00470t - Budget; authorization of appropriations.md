@@ -40,3 +40,7 @@ Committee on Natural Resources of House of Representatives treated as referring 
 
 For termination of Trust Territory of the Pacific Islands and the Trusteeship Agreement, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 40 section 3303.
+

@@ -1,5 +1,7 @@
 ### SUBCHAPTER II—LAND USE PLANNING AND LAND ACQUISITION AND DISPOSITION
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

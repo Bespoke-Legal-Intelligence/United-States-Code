@@ -2,7 +2,7 @@
 
 (a)
 
-Conditions for Recordation.—Any transfer of copyright ownership or other document pertaining to a copyright may be recorded in the Copyright Office if the document filed for recordation bears the actual signature of the person who executed it, or if it is accompanied by a sworn or official certification that it is a true copy of the original, signed document.
+Conditions for Recordation.—Any transfer of copyright ownership or other document pertaining to a copyright may be recorded in the Copyright Office if the document filed for recordation bears the actual signature of the personwho executed it, or if it is accompanied by a sworn or official certification that it is a true copy of the original, signed document.
 
 (b)
 
@@ -42,7 +42,7 @@ Under subsection (f) of section 205, a nonexclusive license in writing and signe
 
 #### Amendments
 
-1988—Subsecs. (d) to (f). Pub. L. 100–568 redesignated subsecs. (e) and (f) as (d) and (e), respectively, andstruck out former subsec. (d), which read as follows: “No person claiming by virtue of a transfer to be the owner of copyright or of any exclusive right under a copyright is entitled to institute an infringement action under this title until the instrument of transfer under which such person claims has been recorded in the Copyright Office, but suit may be instituted after such recordation on a cause of action that arose before recordation.”
+1988—Subsecs. (d) to (f). Pub. L. 100–568 redesignated subsecs. (e) and (f) as (d) and (e), respectively, and struck out former subsec. (d), which read as follows: “No person claiming by virtue of a transfer to be the owner of copyright or of any exclusive right under a copyright is entitled to institute an infringement action under this title until the instrument of transfer under which such person claims has been recorded in the Copyright Office, but suit may be instituted after such recordation on a cause of action that arose before recordation.”
 
 #### Effective Date of 1988 Amendment
 
@@ -66,7 +66,7 @@ Deposit of Copies in Library of Congress.—In the case of public domain compute
 
 “(d)
 
-Regulations.—The Register of Copyrights is authorized to establish regulations not inconsistent with law for the administration of the functions of the Register under this section. All regulations established by the Register are subject to the approval of the Librarian of Congress.”
+Regulations.—The Register of Copyrights is authorized to establish regulations not inconsistent with law for the administration of the functions of the Register under this section. All regulations established bythe Register are subject to the approval of the Librarian of Congress.”
 
 #### Registration of Claims to Copyrights and Recordation of Assignments of Copyrights and Other Instruments Under Predecessor Provisions
 

@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(v) an alien is admitted to the United States as an Amerasian immigrant pursuant to section 584 of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1988 (as contained in section 101(e) of Public Law 100–202 and amended by the 9th proviso under
 
-migration and refugee assistance in title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, as amended).
+migration and refugee assistancein title II of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 1989, Public Law 100–461, as amended).
 
 #### (B) Certain permanent resident aliens
 
@@ -48,7 +48,7 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;With respect to the specified Federal program described in paragraph (3)(A), during the period beginning on August 22, 1996, and ending on September 30, 1998, the Commissioner of Social Security shall redetermine the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefitsmay terminate by reason of the provisions of this subsection.
+&emsp;&emsp;&emsp;&emsp;With respect to the specified Federal program described in paragraph (3)(A), during the period beginning on August 22, 1996, and ending on September 30, 1998, the Commissioner of Social Security shall redetermine the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection.
 
 #### (II) Redetermination criteria
 
@@ -84,11 +84,13 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;With respect to eligibility for benefits for the specified Federal programs described in paragraph (3), paragraph (1) shall not apply to an alien who—
 
-&emsp;&emsp;&emsp;(i) was lawfully residing in the United States on August 22, 1996; and
+&emsp;&emsp;&emsp;(i) in the case of the specified Federal program described in paragraph (3)(A)—
 
-&emsp;&emsp;&emsp;(ii)(I) in the case of the specified Federal program described in paragraph (3)(A), is blind or disabled, as defined in section 1614(a)(2) or 1614(a)(3) of the Social Security Act \[42 U.S.C. 1382c(a)(2), (3)\]; and
+&emsp;&emsp;&emsp;&emsp;(I) was lawfully residing in the United States on August 22, 1996; and
 
-&emsp;&emsp;&emsp;(II) in the case of the specified Federal program described in paragraph (3)(B), is receiving benefits or assistance for blindness or disability (within the meaning of section 3(r) of the Food Stamp Act of 1977 (7 U.S.C. 2012(r))).
+&emsp;&emsp;&emsp;&emsp;(II) is blind or disabled (as defined in paragraph (2) or (3) of section 1614(a) of the Social Security Act (42 U.S.C. 1382c(a))); and
+
+&emsp;&emsp;&emsp;(ii) in the case of the specified Federal program described in paragraph (3)(B), is receiving benefits or assistance for blindness or disability (within the meaning of section 3(r) of the Food Stamp Act of 1977 (7 U.S.C. 2012(r))).
 
 #### (G) Exception for certain Indians
 
@@ -116,11 +118,9 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 #### (J) Food stamp exception for certain children
 
-&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual who—
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any individual
 
-&emsp;&emsp;&emsp;(i) was lawfully residing in the United States on August 22, 1996; and
-
-&emsp;&emsp;&emsp;(ii) is under 18 years of age.
+who is under 18 years of age.
 
 #### (K) Food stamp exception for certain Hmong and Highland Laotians
 
@@ -130,11 +130,15 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;&emsp;&emsp;(I) is lawfully residing in the United States; and
 
-&emsp;&emsp;&emsp;&emsp;(II) was a member of a Hmong or Highland Laotian tribe at the time that thetribe rendered assistance to United States personnel by taking part in a military or rescue operation during the Vietnam era (as defined in section 101 of title 38);
+&emsp;&emsp;&emsp;&emsp;(II) was a member of a Hmong or Highland Laotian tribe at the time that the tribe rendered assistance to United States personnel by taking part in a military or rescue operation during the Vietnam era (as defined in section 101 of title 38);
 
 &emsp;&emsp;&emsp;(ii) the spouse, or an unmarried dependent child, of such an individual; or
 
 &emsp;&emsp;&emsp;(iii) the unremarried surviving spouse of such an individual who is deceased.
+
+#### (L) Food stamp exception for certain qualified aliens
+
+&emsp;&emsp;With respect to eligibility for benefits for the specified Federal program described in paragraph (3)(B), paragraph (1) shall not apply to any qualified alien who has resided in the United States with a status within the meaning of the term “qualified alien” for a period of 5 years or more beginning on the date of the alien's entry into the United States.
 
 #### (3) “Specified Federal program” defined
 
@@ -234,11 +238,11 @@ migration and refugee assistance in title II of the Foreign Operations, Export F
 
 &emsp;&emsp;A State plan approved under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\], other than medical assistance described in section 1611(b)(1)(A) of this title.
 
-(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579.)
+(Pub. L. 104–193, title IV, §402, Aug. 22, 1996, 110 Stat. 2262; Pub. L. 104–208, div. C, title V, §510, Sept. 30, 1996, 110 Stat. 3009–673; Pub. L. 105–18, title II, §6005(a), June 12, 1997, 111 Stat. 191; Pub. L. 105–33, title V, §§5301–5302(b), 5303(a), (b), 5304, 5305(b), 5306(a), (b), 5562, 5563, Aug. 5, 1997, 111 Stat. 597, 598, 600–602, 638; Pub. L. 105–185, title V, §§503–508, June 23, 1998, 112 Stat. 578, 579; Pub. L. 107–171, title IV, §4401(a), (b)(1), (c)(1), May 13, 2002, 116 Stat. 333.)
 
 #### References in Text
 
-Section 243 of such Act, referred to in subsecs. (a)(2)(A)(iii) and (b)(2)(A)(i)(III), (ii)(III), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307 of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+Section 243 of such Act, referred to in subsecs. (a)(2)(A)(iii) and (b)(2)(A)(i)(III), (ii)(III), is section 243 of act June 27, 1952, which is classified to section 1253 of this title. Section 1253 of this title was amended generally by Pub. L. 104–208, div. C, title III, §307(a), Sept. 30, 1996, 110 Stat. 3009–612, and, as so amended, no longer contains a subsec. (h). For effective date of section 307of Pub. L. 104–208, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
 
 Section 501(e) of the Refugee Education Assistance Act of 1980, referred to in subsecs. (a)(2)(A)(iv) and (b)(2)(A)(i)(IV), (ii)(IV), is section 501(e) of Pub. L. 96–422, as amended, which is set out in a note under section 1522 of this title.
 
@@ -260,13 +264,27 @@ Subsection (a)(2)(A)(i)(V) of this section, referred to in subsec. (b)(2)(A)(i)(
 
 #### Amendments
 
+2002—Subsec. (a)(2)(F). Pub. L. 107–171, §4401(a), added cl. (i), substituted “(ii) in the case” for “(II) in the case”, and struck out former cls. (i) and (ii)(I) which read as follows:
+
+“(i) was lawfully residing in the United States on August 22, 1996; and
+
+“(ii)(I) in the case of the specified Federal program described in paragraph (3)(A), is blind or disabled, as defined in section 1614(a)(2) or 1614(a)(3) of the Social Security Act; and”.
+
+Subsec. (a)(2)(J). Pub. L. 107–171, §4401(b)(1), substituted “who is under 18 years of age.” for “who—
+
+&emsp;“(i) was lawfully residing in the United States on August 22, 1996; and
+
+&emsp;“(ii) is under 18 years of age.”
+
+Subsec. (a)(2)(L). Pub. L. 107–171, §4401(c)(1), added subpar. (L).
+
 1998—Subsec. (a)(2)(A). Pub. L. 105–185, §503, struck out cl. (i) designation and heading after subpar. (A) heading, substituted “programs described in paragraph (3)” for “program described in paragraph (3)(A)” in introductory provisions, redesignated subcls. (I) to (V) as cls. (i) to (v), respectively, and realigned their margins, and struck out heading and text of former cl. (ii) which related to eligibility of certain aliens for the food stamp program.
 
 Subsec. (a)(2)(F). Pub. L. 105–185, §504(1), substituted “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
 
 Subsec. (a)(2)(F)(ii). Pub. L. 105–185, §504(2), designated existing provisions as subcl. (I), inserted “in the case of the specified Federal program described in paragraph (3)(A),” before “is blind”, substituted “; and” for period at end, and added subcl. (II).
 
-Subsec. (a)(2)(G). Pub. L. 105–185, §505, substituted “Exception” for “SSI exception” in subpar. headingand “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
+Subsec. (a)(2)(G). Pub. L. 105–185, §505, substituted “Exception” for “SSI exception” in subpar. heading and “specified Federal programs described in paragraph (3)” for “program defined in paragraph (3)(A) (relating to the supplemental security income program)” in introductory provisions.
 
 Subsec. (a)(2)(I). Pub. L. 105–185, §506, added subpar. (I).
 
@@ -340,6 +358,14 @@ Subsec. (b)(2)(F). Pub. L. 105–33, §5305(b), added subpar. (F).
 
 1996—Subsec. (a)(2)(D)(ii)(I). Pub. L. 104–208 amended subcl. (I) generally. Prior to amendment, subcl. (I) read as follows: “With respect to the specified Federal program described in paragraph (3)(B), during the period beginning on August 22, 1996, and ending on the date which is 1 year after August 22, 1996, the State agency shall, at the time of the recertification, recertify the eligibility of any individual who is receiving benefits under such program as of August 22, 1996, and whose eligibility for such benefits may terminate by reason of the provisions of this subsection.”
 
+#### Effective Date of 2002 Amendment
+
+Amendment by section 4401(a) of Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
+
+Amendment by section 4401(b)(1) of Pub. L. 107–171 effective Oct. 1, 2003, see section 4401(b)(3) of Pub. L. 107–171, set out as a note under section 2014 of Title 7, Agriculture.
+
+Pub. L. 107–171, title IV, §4401(c)(2), May 13, 2002, 116 Stat. 334, provided that: “The amendment made by paragraph (1) \[amending this section\] takes effect on April 1, 2003.”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–185, title V, §510(b), June 23, 1998, 112 Stat. 580, provided that: “The amendments made by sections 503 through 509 \[amending this section and section 1613 of this title\] take effect on November 1, 1998.”
@@ -358,7 +384,7 @@ Section 510 of div. C of Pub. L. 104–208 provided that the amendment made by t
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1611, 1613, 1614, 1622, 1646 of this title; title 7 section 2016.
+This section is referred to in sections 1611, 1613, 1614, 1622, 1631, 1646 of this title; title 7 section 2016.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “alien is”.</i>
 

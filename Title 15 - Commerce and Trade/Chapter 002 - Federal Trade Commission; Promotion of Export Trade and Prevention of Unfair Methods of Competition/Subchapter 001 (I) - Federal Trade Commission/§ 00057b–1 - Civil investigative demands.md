@@ -70,7 +70,7 @@ For the purpose of investigations performed pursuant to this section with respec
 
 (7)(A) Any civil investigative demand may be served by any Commission investigator at any place within the territorial jurisdiction of any court of the United States.
 
-(B) Any such demand or any enforcement petition filed under this section may be served upon any person who is not found within the territorial jurisdiction of any court of the United States, in such manner as the Federal Rules of Civil Procedure prescribe for service in a foreign nation.
+(B) Any such demand or any enforcement petition filed under this section may be served uponany person who is not found within the territorial jurisdiction of any court of the United States, in such manner as the Federal Rules of Civil Procedure prescribe for service in a foreign nation.
 
 (C) To the extent that the courts of the United States have authority to assert jurisdiction over such person consistent with due process, the United States District Court for the District of Columbia shall have the same jurisdiction to take any action respecting compliance with this section by such person that such district court would have if such person were personally within the jurisdiction of such district court.
 
@@ -104,7 +104,7 @@ For the purpose of investigations performed pursuant to this section with respec
 
 (D)(i) Any person compelled to appear under a civil investigative demand for oral testimony pursuant to this section may be accompanied, represented, and advised by an attorney. The attorney may advise such person, in confidence, either upon the request of such person or upon the initiative of the attorney, with respect to any question asked of such person.
 
-(ii) Such person or attorney may object on the record to any question, in whole or in part, andshall briefly state for the record the reason for the objection. An objection may properly be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on grounds of any constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person shall not otherwise object to or refuse to answer any question, and shall not himself or through his attorney otherwise interrupt the oral examination. If such person refuses to answer any question, the Commission may petition the district court of the United States pursuant to this section for an order compelling such person to answer such question.
+(ii) Such person or attorney may object on the record to any question, in whole or in part, and shall briefly state for the record the reason for the objection. An objection may properly be made, received, and entered upon the record when it is claimed that such person is entitled to refuse to answer the question on grounds ofany constitutional or other legal right or privilege, including the privilege against self-incrimination. Such person shall not otherwise object to or refuse to answer any question, and shall not himself or through his attorney otherwise interrupt the oral examination. If such person refuses to answer any question, the Commission may petition the district court of the United States pursuant to this section for an order compelling such person to answer such question.
 
 (iii) If such person refuses to answer any question on grounds of the privilege against self-incrimination, the testimony of such person may be compelled in accordance with the provisions of section 6004 of title 18.
 
@@ -142,7 +142,7 @@ Whenever any petition is filed in any district court of the United States under 
 
 #### (i) Commission authority to issue subpoenas or make demand for information
 
-Notwithstanding any other provision of law, the Commission shall have no authority to issue a subpoena or make a demand for information, under authority of this subchapter or any other provision of law, unless such subpoena or demand for information is signed by a Commissioner acting pursuant to a Commission resolution. The Commission shall not delegate the power conferred by this section to sign subpoenas or demands for information to any other person.
+Notwithstanding any other provision of law, the Commission shall have no authority to issue a subpoena or make a demand for information,under authority of this subchapter or any other provision of law, unless such subpoena or demand for information is signed by a Commissioner acting pursuant to a Commission resolution. The Commission shall not delegate the power conferred by this section to sign subpoenas or demands for information to any other person.
 
 #### (j) Applicability of this section
 

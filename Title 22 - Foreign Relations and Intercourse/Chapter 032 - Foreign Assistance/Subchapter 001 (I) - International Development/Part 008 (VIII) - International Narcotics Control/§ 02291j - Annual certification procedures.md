@@ -8,7 +8,7 @@
 
 #### (2) Multilateral assistance
 
-&emsp;The Secretary of the Treasury shall instruct the United States Executive Director of each multilateral development bank to vote, on and after March 1 of each year, against any loan or other utilization of the funds of their respective institution to or for any major illicit drug producing country or major drug-transit country (as determined under subsection (h) of this section), except as provided in subsection (b) of this section. For purposes of this paragraph, the term “multilateral development bank” means the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, and the European Bank for Reconstruction and Development.
+&emsp;The Secretary of the Treasury shall instruct the United States Executive Director of eachmultilateral development bank to vote, on and after March 1 of each year, against any loan or other utilization of the funds of their respective institution to or for any major illicit drug producing country or major drug-transit country (as determined under subsection (h) of this section), except as provided in subsection (b) of this section. For purposes of this paragraph, the term “multilateral development bank” means the International Bank for Reconstruction and Development, the International Development Association, the Inter-American Development Bank, the Asian Development Bank, the African Development Bank, and the European Bank for Reconstruction and Development.
 
 #### (b) Certification procedures
 
@@ -174,5 +174,5 @@ Determination of President of the United States, No. 88–10, Feb. 29, 1988, 53 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2291e, 2291h of this title; title 12 section 635; title 18 section 981; title 19 sections 1616a, 2703, 3202; title 21 sections 881, 1703.
+This section is referred to in sections 2291e, 2291h, 2291j–1 of this title; title 12 section 635; title 18 section 981; title 19 sections 1616a, 2703, 3202, 3203; title 21 sections 881, 1703.
 

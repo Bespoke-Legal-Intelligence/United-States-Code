@@ -72,7 +72,7 @@ Except as provided in subsection (c)(3) of this section, the members of a State 
 
 #### (2) Terms
 
-&emsp;Each member of the State Commission for a State shall serve for a term of 3 years, except that the chief executive officer of a State shall initially appoint a portion of the members to terms of 1 year and 2 years.
+&emsp;Each member of the State Commission for a State shall serve for a term of 3 years, exceptthat the chief executive officer of a State shall initially appoint a portion of the members to terms of 1 year and 2 years.
 
 #### (3) Vacancies
 

@@ -36,7 +36,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(i) as a condition of eligibility for price support, each producer of each kind of quota tobacco shall agree, with respect to all such kind of quota tobacco marketed by the producer from a farm, to contribute to the appropriate association, for deposit in the association's Fund, an amount determined from time to time by the association with the approval of the Secretary;
 
-&emsp;&emsp;&emsp;(ii) each purchaser of Flue-cured and Burley quota tobacco shall pay to the appropriate association, for deposit in the Fund of the association, an assessment, in an amount determined from time to time by the association with the approval of the Secretary, with respect to purchases of all such kind of tobacco marketed by a producer from a farm (including purchases of such tobacco from the 1986 and subsequent crops from the association); and
+&emsp;&emsp;&emsp;(ii) each purchaser of Flue-cured and Burley quota tobacco shall pay to the appropriate association, for deposit in the Fund of the association, an assessment, inan amount determined from time to time by the association with the approval of the Secretary, with respect to purchases of all such kind of tobacco marketed by a producer from a farm (including purchases of such tobacco from the 1986 and subsequent crops from the association); and
 
 &emsp;&emsp;&emsp;(iii) each importer of Flue-cured or Burley tobacco shall pay to the appropriate association, for deposit in the Fund of the association, an assessment, in an amount that is equal to the product obtained by multiplying—
 
@@ -62,7 +62,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;(ii) add an amount equal to the purchaser assessment to the price paid by the purchaser;
 
-&emsp;&emsp;(C) if the tobacco involved is marketed by a producer directly to any person outside theUnited States, from the producer, who may add an amount equal to the purchaser assessment to the price paid by the purchaser; and
+&emsp;&emsp;(C) if the tobacco involved is marketed by a producer directly to any person outside the United States, from the producer, who may add an amount equal to the purchaser assessment to the price paid by the purchaser; and
 
 &emsp;&emsp;(D) if the tobacco involved is imported by an importer, from the importer.<sup>1</sup>
 
@@ -112,7 +112,7 @@ The Secretary shall issue regulations necessary to carry out the provisions of t
 
 #### References in Text
 
-This Act, referred to in subsec. (e), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in subsec. (e), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification ofthis Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 The Commodity Credit Corporation Charter Act, referred to in subsec. (e), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of Title 15 and Tables.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall ensure that the Department of Housing and Urban Development has adequate capacity and resources, including staff and training programs, to carry out its mission and responsibilities to implement the provisions of this Act, including the ability of the Department to carry out the multifamily mortgage insurance program, and the ability to respond to areas identified as “material weaknesses” by the Office of the Inspector General in financial audits or other reports.
+The Secretary shall ensure that the Department of Housing and Urban Development has adequate capacity and resources, including staff and training programs, to carry out its missionand responsibilities to implement the provisions of this Act, including the ability of the Department to carry out the multifamily mortgage insurance program, and the ability to respond to areas identified as “material weaknesses” by the Office of the Inspector General in financial audits or other reports.
 
 #### (b) Report
 
@@ -20,5 +20,5 @@ This Act, referred to in subsec. (a), is Pub. L. 101–625, Nov. 28, 1990, 104 S
 
 #### Change of Name
 
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, setout as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 

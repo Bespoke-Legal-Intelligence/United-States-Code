@@ -8,7 +8,7 @@ The Federal recognition of the Tribe and the trust relationship between the Unit
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this subsection, the Tribe and its members are eligible for all special programs and services provided by the United States to Indians because of their status as Indians.
+&emsp;Subject to the provisions of this subsection, the Tribe and its members are eligible for all special programs and services provided by theUnited States to Indians because of their status as Indians.
 
 #### (2) Continuation of benefits
 

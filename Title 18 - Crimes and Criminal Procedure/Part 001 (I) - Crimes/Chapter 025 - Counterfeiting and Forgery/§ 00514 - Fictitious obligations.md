@@ -10,7 +10,7 @@
 
 > any false or fictitious instrument, document, or other item appearing, representing, purporting, or contriving through scheme or artifice, to be an actual security or other financial instrument issued under the authority of the United States, a foreign government, a State or other political subdivision of the United States, or an organization, shall be guilty of a class B felony.
 
-(b) For purposes of this section, any term used in this section that is defined in section 513(c) has the same meaning given such term in section 513(c).
+(b) For purposes of this section, any term used in this section that is defined in section 513(c)has the same meaning given such term in section 513(c).
 
 (c) The United States Secret Service, in addition to any other agency having such authority, shall have authority to investigate offenses under this section.
 
@@ -23,4 +23,8 @@ Sections 101(f) \[title VI, §648(b)(1)\] and 2603(b)(1) of div. A of Pub. L. 10
 #### Effective Date
 
 Section effective Sept. 30, 1996, and to remain in effect for each fiscal year following Sept. 30, 1996, see section 101(f) \[title VI, §648(c)\] of Pub. L. 104–208, set out as an Effective Date of 1996 Amendment note under section 474 of this title.
+
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -18,7 +18,7 @@
 
 (c) There are authorized to be appropriated to carry out this chapter, except as otherwise specifically provided with respect to the payment of claims under section 2210 of this title, an amount not to exceed $23,814,000 for the fiscal year ending September 30, 1981, which amount includes—
 
-&emsp;(1) not less than $1,100,000 for the first year of a three-year concentrated demonstration program of fire prevention and control in two States with high fire death rates;
+&emsp;(1) not less than $1,100,000 for the first year of a three-year concentrated demonstrationprogram of fire prevention and control in two States with high fire death rates;
 
 &emsp;(2) not less than $2,575,000 for rural fire prevention and control; and
 
@@ -126,9 +126,13 @@ Subsec. (b). Pub. L. 96–121 added subsec. (b).
 
 1978—Pub. L. 95–422 substituted “except as otherwise specifically provided, with respect to the payment of claims, under section 2210 of this title” for “except section 2210 of this title”, struck out “and” after “September 30, 1977”, and inserted provision authorizing appropriation of not to exceed $24,352,000 for fiscal year ending Sept. 30, 1979.
 
-1976—Pub. L. 94–411 substituted provisions authorizing to be appropriated not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, and not to exceed $20,000,000 for fiscalyear ending Sept. 30, 1978, for provisions authorizing to be appropriated such sums as are necessary, not to exceed $10,000,000 for fiscal year ending June 30, 1975, and not to exceed $15,000,000 for fiscal year ending June 30, 1976.
+1976—Pub. L. 94–411 substituted provisions authorizing to be appropriated not to exceed $3,750,000 for the transitional fiscal quarter of July 1, 1976, through Sept. 30, 1976, not to exceed $15,000,000 for fiscal year ending Sept. 30, 1977, and not to exceed $20,000,000 for fiscal year ending Sept. 30, 1978, for provisions authorizing to be appropriated such sums as are necessary, not to exceed $10,000,000 for fiscal year ending June 30, 1975, and not to exceed $15,000,000 for fiscal year ending June 30, 1976.
 
 #### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 

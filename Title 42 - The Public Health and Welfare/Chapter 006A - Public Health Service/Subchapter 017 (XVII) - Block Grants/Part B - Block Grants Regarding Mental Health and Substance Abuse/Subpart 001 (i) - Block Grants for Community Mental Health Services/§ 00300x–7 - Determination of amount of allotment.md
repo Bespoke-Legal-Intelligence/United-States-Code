@@ -56,7 +56,7 @@
 
 &emsp;&emsp;(ii) an amount equal to the product of 0.166 and the number of individuals in the State who are between 25 and 44 years of age (inclusive);
 
-&emsp;&emsp;(iii) an amount equal to the product of 0.099 and the number of individuals in the State who are between 45 and 64 years of age (inclusive); and
+&emsp;&emsp;(iii) an amount equal to the product of 0.099 and the number of individuals in theState who are between 45 and 64 years of age (inclusive); and
 
 &emsp;&emsp;(iv) an amount equal to the product of 0.082 and the number of individuals in the State who are 65 years of age or older.
 
@@ -92,7 +92,7 @@
 
 &emsp;(A) The factor determined under this paragraph for the State involved is a factor whose purpose is to adjust the amount determined under clause (i) of paragraph (4)(A), and the amounts determined under each of subparagraphs (B)(i) and (D)(ii)(I) of paragraph (6), to reflect the differences that exist between the State and other States in the costs of providing comprehensive community mental health services to adults with a serious mental illness and to children with a serious emotional disturbance.
 
-&emsp;(B) Subject to subparagraph (C), the factor determined under this paragraph and in effect for the fiscal year involved shall be determined according to the methodology describedin the report entitled “Adjusting the Alcohol, Drug Abuse and Mental Health Services Block Grant Allocations for Poverty Populations and Cost of Service”, dated March 30, 1990, and prepared by Health Economics Research, a corporation, pursuant to a contract with the National Institute on Drug Abuse.
+&emsp;(B) Subject to subparagraph (C), the factor determined under this paragraph and in effect for the fiscal year involved shall be determined according to the methodology described in the report entitled “Adjusting the Alcohol, Drug Abuse and Mental Health Services Block Grant Allocations for Poverty Populations and Cost of Service”, dated March 30, 1990, and prepared by Health Economics Research, a corporation, pursuant to a contract with the National Institute on Drug Abuse.
 
 &emsp;(C) The factor determined under this paragraph for the State involved may not for any fiscal year be greater than 1.1 or less than 0.9.
 
@@ -126,7 +126,7 @@ With respect to fiscal year 2000, and subsequent fiscal years, the amount of the
 
 &emsp;&emsp;(B) $50,000; and
 
-&emsp;&emsp;(C) with respect to fiscal years 1993 and 1994, an amount equal to 20.6 percent of the amount received by the territory from allotments made pursuant to this part for fiscal year 1992.
+&emsp;&emsp;(C) with respect to fiscal years 1993 and 1994, an amount equal to 20.6 percent of theamount received by the territory from allotments made pursuant to this part for fiscal year 1992.
 
 #### (3) Reservation of amounts
 

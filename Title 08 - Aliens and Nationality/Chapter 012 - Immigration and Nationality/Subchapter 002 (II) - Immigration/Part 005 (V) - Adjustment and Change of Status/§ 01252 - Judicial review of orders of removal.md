@@ -46,7 +46,7 @@ With respect to review of an order of removal under subsection (a)(1) of this se
 
 #### (2) Venue and forms
 
-&emsp;The petition for review shall be filed with the court of appeals for the judicial circuit in which the immigration judge completed the proceedings. The record and briefs do not have to be printed. The court of appeals shall review the proceeding on a typewritten record and on typewritten briefs.
+&emsp;The petition for review shall be filed with the court of appeals for the judicial circuit in which the immigration judge completed theproceedings. The record and briefs do not have to be printed. The court of appeals shall review the proceeding on a typewritten record and on typewritten briefs.
 
 #### (3) Service
 
@@ -78,7 +78,7 @@ With respect to review of an order of removal under subsection (a)(1) of this se
 
 #### (A) Court determination if no issue of fact
 
-&emsp;&emsp;If the petitioner claims to be a national of the United States and the court of appealsfinds from the pleadings and affidavits that no genuine issue of material fact about the petitioner's nationality is presented, the court shall decide the nationality claim.
+&emsp;&emsp;If the petitioner claims to be a national of the United States and the court of appeals finds from the pleadings and affidavits that no genuine issue of material fact about the petitioner's nationality is presented, the court shall decide the nationality claim.
 
 #### (B) Transfer if issue of fact
 
@@ -198,7 +198,7 @@ A court may review a final order of removal only if—
 
 #### (5) Scope of inquiry
 
-&emsp;In determining whether an alien has been ordered removed under section 1225(b)(1) of this title, the court's inquiry shall be limited to whether such an order in fact was issued and whether it relates to the petitioner. There shall be no review of whether the alien is actually inadmissible or entitled to any relief from removal.
+&emsp;In determining whether an alien has been ordered removed under section 1225(b)(1) of this title, the court's inquiry shall be limited to whether such an order in fact was issued and whether it relates to the petitioner. Thereshall be no review of whether the alien is actually inadmissible or entitled to any relief from removal.
 
 #### (f) Limit on injunctive relief
 
@@ -214,7 +214,7 @@ A court may review a final order of removal only if—
 
 Except as provided in this section and notwithstanding any other provision of law, no court shall have jurisdiction to hear any cause or claim by or on behalf of any alien arising from the decision or action by the Attorney General to commence proceedings, adjudicate cases, or execute removal orders against any alien under this chapter.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6),Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645.)
+(June 27, 1952, ch. 477, title II, ch. 5, §242, 66 Stat. 208; Sept. 3, 1954, ch. 1263, §17, 68 Stat. 1232; Pub. L. 97–116, §18(h)(1), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 98–473, title II, §220(b), Oct. 12, 1984, 98 Stat. 2028; Pub. L. 99–603, title VII, §701, Nov. 6, 1986, 100 Stat. 3445; Pub. L. 100–525, §9(n), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 100–690, title VII, §7343(a), Nov. 18, 1988, 102 Stat. 4470; Pub. L. 101–649, title V, §§504(a), 545(e), title VI, §603(b)(2), Nov. 29, 1990, 104 Stat. 5049, 5066, 5085; Pub. L. 102–232, title III, §§306(a)(4), (c)(7), 307(m)(2), 309(b)(9), Dec. 12, 1991, 105 Stat. 1751, 1753, 1757, 1759; Pub. L. 103–322, title II, §20301(a), title XIII, §130001(a), Sept. 13, 1994, 108 Stat. 1823, 2023; Pub. L. 103–416, title II, §§219(h), 224(b), Oct. 25, 1994, 108 Stat. 4317, 4324; Pub. L. 104–132, title IV, §§436(a), (b)(1), 438(a), 440(c), (h), Apr. 24, 1996, 110 Stat. 1275, 1277, 1279; Pub. L. 104–208, div. C, title III, §§306(a), (d), 308(g)(10)(H), 371(b)(6), Sept. 30, 1996, 110 Stat. 3009–607, 3009–612, 3009–625, 3009–645.)
 
 #### References in Text
 
@@ -282,7 +282,7 @@ Pub. L. 101–649, §545(e), amended eighth sentence generally. Prior to amendme
 
 Subsec. (e). Pub. L. 101–649, §603(b)(2)(B), which directed the substitution of “paragraph (2), (3) or (4)” for “paragraph (4), (5), (6), (7), (11), (12), (14), (15), (16), (17), (18), or (19)”, could not be executed because the quoted language differed from the text. See 1991 Amendment note above.
 
-1988—Subsec. (a). Pub. L. 100–690 designated existing provisions as par. (1), substituted “Except as providedin paragraph (2), any” for “Any”, redesignated cls. (1) to (3) as (A) to (C), respectively, and added pars. (2) and (3).
+1988—Subsec. (a). Pub. L. 100–690 designated existing provisions as par. (1), substituted “Except as provided in paragraph (2), any” for “Any”, redesignated cls. (1) to (3) as (A) to (C), respectively, and added pars. (2) and (3).
 
 Subsec. (e). Pub. L. 100–525 struck out “or from September 23, 1950, whichever is the later,” after “from the date of the final order of the court,”.
 
@@ -384,6 +384,10 @@ Section 545(d) of Pub. L. 101–649 provided that: “Within 6 months after the 
 
 &emsp;“(2) the time period for the filing of administrative appeals in deportation proceedings and for the filing of appellate and reply briefs, which regulations include a limitation on the number of administrative appeals that may be made, a maximum time period for the filing of such motions and briefs, the items to be included in the notice of appeal, and the consolidation of motions to reopen or to reconsider with the appeal of the order of deportation.”
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
 For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.
@@ -402,7 +406,7 @@ Limitation.—The Attorney General shall terminate or rescind the exercise of th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1228, 1229a, 1255a, 1326 of this title; title 40 section 613.
+This section is referred to in sections 1228, 1229a, 1255a, 1326 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -1,6 +1,6 @@
 ### §3523. General audit authority of the Comptroller General
 
-(a) Except as specifically provided by law, the Comptroller General shall audit the financialtransactions of each agency. In deciding on auditing procedures and the extent to which records are to be inspected, the Comptroller General shall consider generally accepted auditing principles, including the effectiveness of accounting organizations and systems, internal audit and control, and related administrative practices of each agency.
+(a) Except as specifically provided by law, the Comptroller General shall audit the financial transactions of each agency. In deciding on auditing procedures and the extent to which records are to be inspected, the Comptroller General shall consider generally accepted auditing principles, including the effectiveness of accounting organizations and systems, internal audit and control, and related administrative practices of each agency.
 
 (b) The Comptroller General shall audit the Architect of the Capitol at times the Comptroller General considers appropriate. Section 716 of this title applies to the Architect in conducting the audit. The Comptroller General shall report the results of the audit to Congress. Each report shall be printed as a Senate document.
 

@@ -54,21 +54,49 @@ Food and agricultural sciences.—The term “food and agricultural sciences” 
 
 &emsp;(9) The term “Hispanic-serving institution” has the meaning given the term by section 1059c(b)(1) <sup>1</sup> of title 20.
 
-&emsp;(10) The term “land-grant colleges and universities” means those institutions eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), or the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University.
+&emsp;(10)
 
-&emsp;(11) The term “Secretary” means the Secretary of Agriculture of the United States.
+Insular area.—The term “insular area” means—
 
-&emsp;(12) The term “State” means any one of the fifty States, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Marianas, the Trust Territory of the Pacific Islands, the Virgin Islands of the United States, and the District of Columbia.
+&emsp;&emsp;(A) the Commonwealth of Puerto Rico;
 
-&emsp;(13) The term “State agricultural experiment stations” means those institutions eligible to receive funds under the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i).
+&emsp;&emsp;(B) Guam;
 
-&emsp;(14)
+&emsp;&emsp;(C) American Samoa;
+
+&emsp;&emsp;(D) the Commonwealth of the Northern Mariana Islands;
+
+&emsp;&emsp;(E) the Federated States of Micronesia;
+
+&emsp;&emsp;(F) the Republic of the Marshall Islands;
+
+&emsp;&emsp;(G) the Republic of Palau; and
+
+&emsp;&emsp;(H) the Virgin Islands of the United States.
+
+&emsp;(11) The term “land-grant colleges and universities” means those institutions eligible to receive funds under the Act of July 2, 1862 (12 Stat. 503–505, as amended; 7 U.S.C. 301–305, 307 and 308), or the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University.
+
+&emsp;(12) The term “Secretary” means the Secretary of Agriculture of the United States.
+
+&emsp;(13)
+
+State.—The term “State” means—
+
+&emsp;&emsp;(A) a State;
+
+&emsp;&emsp;(B) the District of Columbia; and
+
+&emsp;&emsp;(C) any insular area.
+
+&emsp;(14) The term “State agricultural experiment stations” means those institutions eligible to receive funds under the Act of March 2, 1887 (24 Stat. 440–442, as amended; 7 U.S.C. 361a–361i).
+
+&emsp;(15)
 
 Teaching and education.—The terms “teaching” and “education” mean formal classroom instruction, laboratory instruction, and practicum experience in the food and agricultural sciences and matters relating thereto (such as faculty development, student recruitment and services, curriculum development, instructional materials and equipment, and innovative teaching methodologies) conducted by colleges and universities offering baccalaureate or higher degrees.
 
-&emsp;(15) The term “cooperating forestry schools” means those institutions eligible to receive funds under the Act of October 10, 1962 (16 U.S.C. 582a et seq.), commonly known as the McIntire-Stennis Act of 1962.
+&emsp;(16) The term “cooperating forestry schools” means those institutions eligible to receive funds under the Act of October 10, 1962 (16 U.S.C. 582a et seq.), commonly known as the McIntire-Stennis Act of 1962.
 
-&emsp;(16) The term “State cooperative institutions” or “State cooperative agents” means institutions or agents designated by—
+&emsp;(17) The term “State cooperative institutions” or “State cooperative agents” means institutions or agents designated by—
 
 &emsp;&emsp;(A) the Act of July 2, 1862 (7 U.S.C. 301 et seq.), commonly known as the First Morrill Act;
 
@@ -82,7 +110,7 @@ Teaching and education.—The terms “teaching” and “education” mean form
 
 &emsp;&emsp;(F) subchapters V, VI, XI, and XII of this chapter.
 
-&emsp;(17) The term “sustainable agriculture” means an integrated system of plant and animal production practices having a site-specific application that will, over the long-term—
+&emsp;(18) The term “sustainable agriculture” means an integrated system of plant and animal production practices having a site-specific application that will, over the long-term—
 
 &emsp;&emsp;(A) satisfy human food and fiber needs;
 
@@ -94,25 +122,33 @@ Teaching and education.—The terms “teaching” and “education” mean form
 
 &emsp;&emsp;(E) enhance the quality of life for farmers and society as a whole.
 
-(Pub. L. 95–113, title XIV, §1404, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, §1404, Dec. 22, 1981, 95 Stat. 1297; Pub. L. 99–198, title XIV, §1403, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, §1603, Nov. 28, 1990, 104 Stat. 3705; Pub. L. 102–237, title IV, §402(3), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§802(b)(1), 815(b), 820(a), 853(b)(1), Apr. 4, 1996, 110 Stat. 1159, 1167, 1168, 1172; Pub. L. 105–185, title II, §§221, 226(c)(1), June 23, 1998, 112 Stat. 537, 543.)
+(Pub. L. 95–113, title XIV, §1404, Sept. 29, 1977, 91 Stat. 983; Pub. L. 97–98, title XIV, §1404, Dec. 22, 1981, 95 Stat. 1297; Pub. L. 99–198, title XIV, §1403, Dec. 23, 1985, 99 Stat. 1544; Pub. L. 101–624, title XVI, §1603, Nov. 28, 1990, 104 Stat. 3705; Pub. L. 102–237, title IV, §402(3), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §§802(b)(1), 815(b), 820(a), 853(b)(1), Apr. 4, 1996, 110 Stat. 1159, 1167, 1168, 1172; Pub. L. 105–185, title II, §§221, 226(c)(1), June 23, 1998, 112 Stat. 537, 543; Pub. L. 107–171, title VII, §7502(a), May 13, 2002, 116 Stat. 463.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in text, see note set out under section 3102 of this title.
 
-The Smith-Lever Act of May 8, 1914, referred to in pars. (5) and (16)(D), is act May 8, 1914, ch. 79, 38 Stat. 372, as amended, which is classified generally to subchapter IV (§341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
+The Smith-Lever Act of May 8, 1914, referred to in pars. (5) and (17)(D), is act May 8, 1914, ch. 79, 38 Stat. 372, as amended, which is classified generally to subchapter IV (§341 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 341 of this title and Tables.
 
 Section 1059c of title 20, referred to in par. (9), was amended generally by Pub. L. 105–244, title III, §303(e), Oct. 7, 1998, 112 Stat. 1639, and, as so amended, no longer relates to Hispanic-serving institutions.
 
-Act of July 2, 1862, 12 Stat. 503, referred to in pars. (10) and (16)(A), is popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under 301 of this title and Tables.
+Act of July 2, 1862, 12 Stat. 503, referred to in pars. (11) and (17)(A), is popularly known as the “Morrill Act” and also as the “First Morrill Act”, which is classified generally to subchapter I (§301 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 301 of this title and Tables.
 
-Act of August 30, 1890, 26 Stat. 417, referred to in pars. (10) and (16)(B), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
+Act of August 30, 1890, 26 Stat. 417, referred to in pars. (11) and (17)(B), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, which is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
-Act of March 2, 1887, referred to in pars. (13) and (16)(C), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
+Act of March 2, 1887, referred to in pars. (14) and (17)(C), is act Mar. 2, 1887, ch. 314, 24 Stat. 440, as amended, popularly known as the Hatch Act of 1887, which is classified generally to sections 361a to 361i of this title. For complete classification of this Act to the Code, see Short Title note set out under section 361a of this title and Tables.
 
-Act of October 10, 1962, referred to in pars. (15) and 16(E), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, known as the McIntire-Stennis Act of 1962, which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
+Act of October 10, 1962, referred to in pars. (16) and (17)(E), is Pub. L. 87–788, Oct. 10, 1962, 76 Stat. 806, as amended, known as the McIntire-Stennis Act of 1962,which is classified generally to subchapter III (§582a et seq.) of chapter 3 of Title 16, Conservation. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2002—Pars. (10) to (12). Pub. L. 107–171, §7502(a)(1), (2), redesignated pars. (10) and (11) as (11) and (12), respectively, and added par. (10). Former par. (12) redesignated (13).
+
+Par. (13). Pub. L. 107–171, §7502(a)(3), added par. (13) and struck out former par. (13) which read as follows: “The term ‘State’ means any one of the fifty States, the Commonwealth of Puerto Rico, Guam, American Samoa, the Commonwealth of the Northern Marianas, the Trust Territory of the Pacific Islands, the Virgin Islands of the United States, and the District of Columbia.”
+
+Pub. L. 107–171, §7502(a)(1), redesignated par. (12) as (13). Former par. (13) redesignated (14).
+
+Pars. (14) to (18). Pub. L. 107–171, §7502(a)(1), redesignated pars. (13) to (17) as (14) to (18), respectively.
 
 1998—Pub. L. 105–185, §221(c)(1), substituted “chapter:” for “chapter—” in introductory provisions.
 
@@ -178,7 +214,17 @@ Section effective Oct. 1, 1977, see section 1901 of Pub. L. 95–113, set out as
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
 
+#### Construction of 2002 Amendment
+
+Pub. L. 107–171, title VII, §7502(b), May 13, 2002, 116 Stat. 463, provided that: “The amendments made by subsection (a) \[amending this section\] shall not affect any basis for distribution of funds by formula (in effect on the date of enactment of this Act \[May 13, 2002\]) to—
+
+&emsp;“(1) the Federated States of Micronesia;
+
+&emsp;“(2) the Republic of the Marshall Islands; or
+
+&emsp;“(3) the Republic of Palau.”
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 390, 450i, 2027, 3319, 5801, 7626 of this title.
+This section is referred to in sections 390, 450i, 2027, 2279, 3319, 3352, 3353, 5801, 6711, 7626, 8105 of this title.
 

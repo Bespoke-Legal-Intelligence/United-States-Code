@@ -8,7 +8,7 @@
 
 (d) In the event the participant (1) dies while on active duty, (2) dies after discharge or release from active duty, or (3) disenrolls or is disenrolled from the program without having utilized any entitlement, the participant may have accrued under the program, or, in the event the participant utilizes part of such participant's entitlement and disenrolls or is disenrolled from the program, the amount contributed by the Secretary of Defense under the authority of section 3222(c) of this title remaining in the fund shall be refunded to such Secretary.
 
-(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2395, §1623; amended Pub. L. 98–160, title VII, §702(7), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(A), (7), Dec. 18, 1989, 103 Stat. 2092, 2093; renumbered §3223 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 94–502, title IV, §404, Oct. 15, 1976, 90 Stat. 2395, §1623; amended Pub. L. 98–160, title VII, §702(7), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §423(b)(1)(A), (4)(A), (7), Dec. 18,1989, 103 Stat. 2092, 2093; renumbered §3223 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

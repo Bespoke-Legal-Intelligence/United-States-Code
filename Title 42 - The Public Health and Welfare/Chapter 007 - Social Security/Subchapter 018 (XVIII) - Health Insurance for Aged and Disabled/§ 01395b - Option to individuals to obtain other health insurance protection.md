@@ -10,7 +10,7 @@ Pub. L. 105–78, title II, Nov. 13, 1997, 111 Stat. 1484, provided in part: “
 
 #### National Bipartisan Commission on the Future of Medicare
 
-Pub. L. 105–33, title IV, §4021, Aug. 5, 1997, 111 Stat. 347, established National Bipartisan Commission on the Future of Medicare which was directed to review and analyze long-term financial condition of medicare program, identify problems that threaten financial integrity of Federal Hospital Insurance Trust Fund and Federal Supplementary Medical Insurance Trust Fund, analyze potential solutions that will ensure both financial integrity of medicare program and provision of appropriate benefits under such program, and make recommendations for, among other things, restoring solvency of Federal Hospital Insurance Trust Fund and financial integrity of Federal Supplementary Medical Insurance Trust Fund, establishing appropriate financial structure of medicare program as a whole, and establishing appropriate balance of benefits covered and beneficiary contributions to medicare program, furtherprovided for membership of Commission, meetings, personnel and staff matters, powers of Commission, appropriations, submission of final report to Congress not later than Mar. 1, 1999, and termination of Commission 30 days after submission of final report.
+Pub. L. 105–33, title IV, §4021, Aug. 5, 1997, 111 Stat. 347, established National Bipartisan Commission on the Future of Medicare which was directed to review and analyze long-term financial condition of medicare program, identify problems that threaten financial integrity of Federal Hospital Insurance Trust Fund and Federal Supplementary Medical Insurance Trust Fund, analyze potential solutions that will ensure both financial integrity of medicare program and provision of appropriate benefits under such program, and make recommendations for, among other things, restoring solvency of Federal Hospital Insurance Trust Fund and financial integrity of Federal Supplementary Medical Insurance Trust Fund, establishing appropriate financial structure of medicare program as a whole, and establishing appropriate balance of benefits covered and beneficiary contributions to medicare program, further provided for membership of Commission, meetings, personnel and staff matters, powers of Commission, appropriations, submission of final report to Congress not later than Mar. 1, 1999, and termination of Commission 30 days after submission of final report.
 
 #### Exclusion From Wages and Compensation of Refunds Required From Employers To Compensate for Duplication of Medicare Benefits by Health Care Benefits Provided by Employers
 
@@ -34,7 +34,7 @@ Federal unemployment tax.—For purposes of chapter 23 of the Internal Revenue C
 
 &emsp;“(2)
 
-Railroad unemployment contributions.—For purposes of the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\], the term ‘compensation’ shall not include the amount of any refund required under section 421 of the Medicare Catastrophic Coverage Act of 1988.
+Railroad unemployment contributions.—For purposes of the Railroad Unemployment Insurance Act \[45 U.S.C. 351 et seq.\], the term ‘compensation’ shall not include the amount of any refund requiredunder section 421 of the Medicare Catastrophic Coverage Act of 1988.
 
 &emsp;“(3)
 

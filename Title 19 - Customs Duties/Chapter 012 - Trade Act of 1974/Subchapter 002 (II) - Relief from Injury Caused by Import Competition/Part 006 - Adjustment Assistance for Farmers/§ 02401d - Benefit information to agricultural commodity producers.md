@@ -1,0 +1,22 @@
+### §2401d. Benefit information to agricultural commodity producers
+
+#### (a) In general
+
+The Secretary shall provide full information to agricultural commodity producers about the benefit allowances, training, and other employment services available under this subchapter and about the petition and application procedures, and the appropriate filing dates, for such allowances, training, and services. The Secretary shall provide whatever assistance is necessary to enable groups to prepare petitions or applications for program benefits under this subchapter.
+
+#### (b) Notice of benefits
+
+#### (1) In general
+
+&emsp;The Secretary shall mail written notice of the benefits available under this part to each agricultural commodity producer that the Secretary has reason to believe is covered by a certification made under this part.
+
+#### (2) Other notice
+
+&emsp;The Secretary shall publish notice of the benefits available under this part to agricultural commodity producers that are covered by each certification made under this part in newspapers of general circulation in the areas in which such producers reside.
+
+#### (3) Other Federal assistance
+
+&emsp;The Secretary shall also provide information concerning procedures for applying for and receiving all other Federal assistance and services available to workers facing economic distress.
+
+(Pub. L. 93–618, title II, §295, as added Pub. L. 107–210, div. A, title I, §141(a), Aug. 6, 2002, 116 Stat. 949.)
+

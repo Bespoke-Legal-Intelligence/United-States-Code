@@ -24,7 +24,7 @@ For the purposes of carrying out this section, there is authorized to be appropr
 
 #### (e) Coordination with related United States activities abroad
 
-Under the direction of the President, the Secretary of State shall ensure the coordination of the activities authorized by this subchapter with other related activities of the United States conducted abroad, including the programs authorized by sections 2151a(c), 2151d(a)(2),<sup>1</sup> and 2151q <sup>1</sup> of this title.
+Under the direction of the President, the Secretary of State shall ensure the coordination ofthe activities authorized by this subchapter with other related activities of the United States conducted abroad, including the programs authorized by sections 2151a(c), 2151d(a)(2),<sup>1</sup> and 2151q <sup>1</sup> of this title.
 
 (Pub. L. 95–242, title V, §502, Mar. 10, 1978, 92 Stat. 149.)
 
@@ -32,7 +32,7 @@ Under the direction of the President, the Secretary of State shall ensure the co
 
 Section 2151d(a)(2) of this title, referred to in subsec. (e), which at the time of enactment of this section related to programs to increase energy production and conservation in developing countries, was deleted in the general amendment of section 2151d by Pub. L. 96–53, title I, §§104(b), 105, Aug. 14, 1979, 93 Stat. 360, 362. For provisions relating to cooperative programs with developing countries in energy production and conservation, see section 2151d(b)(2) of this title.
 
-Section 2151q of this title, referred to in subsec. (e), was repealed by Pub. L. 96–533, title III, §304(g), Dec. 16,1980, 94 Stat. 3147. See section 2151d(a)(2), (b)(2), (c) of this title.
+Section 2151q of this title, referred to in subsec. (e), was repealed by Pub. L. 96–533, title III, §304(g), Dec. 16, 1980, 94 Stat. 3147. See section 2151d(a)(2), (b)(2), (c) of this title.
 
 #### Feasibility of Expanding Cooperative Activities Into International Cooperative Effort; Presidential Report to Congress Not Later Than March 10, 1979
 

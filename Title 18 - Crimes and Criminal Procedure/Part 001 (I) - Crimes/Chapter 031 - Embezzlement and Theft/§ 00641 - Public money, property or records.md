@@ -50,5 +50,5 @@ Pub. L. 98–473, title II, chapter XI, part I (§§1110–1115), §1110, Oct. 1
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1956 of this title; title 22 section 3622; title 40 section 491.
+This section is referred to in section 1956 of this title; title 22 section 3622; title 40 section 611.
 

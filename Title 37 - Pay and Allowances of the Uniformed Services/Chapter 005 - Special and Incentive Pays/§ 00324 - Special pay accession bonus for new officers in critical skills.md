@@ -6,9 +6,9 @@ Accession Bonus Authorized.—Under regulations prescribed by the Secretary conc
 
 (b)
 
-Designation of Critical Officer Skills.—(1) <sup>1</sup> The Secretary concerned shall designate the critical officer skills for the purposes of this section. A skill may be designated as a critical officer skill for an armed force under this subsection if—
+Designation of Critical Officer Skills.—The Secretary concerned shall designate the critical officer skills for the purposes of this section. A skill may be designated as a critical officer skill for an armed force under this subsection if—
 
-&emsp;(1) in order to meet requirements of the armed force, it is critical for the armed force to have a sufficient number of officers who are qualified in that skill; and
+&emsp;(1) in order to meet requirements of the armed force, it is critical for the armed forceto have a sufficient number of officers who are qualified in that skill; and
 
 &emsp;(2) in order to mitigate a current or projected significant shortage of personnel in the armed force who are qualified in that skill, it is critical to access into that armed force in sufficient numbers persons who are qualified in that skill or are to be trained in that skill.
 
@@ -34,9 +34,13 @@ Repayment for Failure To Commence or Complete Obligated Service.—(1) An indivi
 
 (g)
 
-Termination of Authority.—No agreement under this section may be entered into after December 31, 2002.
+Termination of Authority.—No agreement under this section may be entered into after December 31, 2003.
 
-(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139.)
+(Added Pub. L. 107–107, div. A, title VI, §621(a), Dec. 28, 2001, 115 Stat. 1139; amended Pub. L. 107–314, div. A, title VI, §614(e), title X, §1062(c)(2), Dec. 2, 2002, 116 Stat. 2568, 2651.)
 
-<i><sup>1</sup></i><i> So in original. Par. (1) designation probably should not appear.</i>
+#### Amendments
+
+2002—Subsec. (b). Pub. L. 107–314, §1062(c)(2), struck out par. (1) designation before “The Secretary”.
+
+Subsec. (g). Pub. L. 107–314, §614(e), substituted “December 31, 2003” for “December 31, 2002”.
 

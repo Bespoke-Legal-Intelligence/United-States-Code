@@ -6,7 +6,7 @@ The Director of the Federal Bureau of Investigation is authorized to—
 
 &emsp;(1) establish and conduct training programs at the Federal Bureau of Investigation National Academy at Quantico, Virginia, to provide, at the request of a State, unit of local government, or rail carrier, training for State and local criminal justice personnel, including railroad police officers;
 
-&emsp;(2) develop new or improved approaches, techniques, systems, equipment, and devicesto improve and strengthen criminal justice; and
+&emsp;(2) develop new or improved approaches, techniques, systems, equipment, and devices to improve and strengthen criminal justice; and
 
 &emsp;(3) assist in conducting, at the request of a State, unit of local government, or rail carrier, local and regional training programs for the training of State and local criminal justice personnel engaged in the investigation of crime and the apprehension of criminals. Training for rural criminal justice personnel shall include, when appropriate, effective use of regional resources and methods to improve coordination among criminal justice personnel in different areas and in different levels of government. Such training shall be provided only for persons actually employed as State police or highway patrol, police of a unit of local government, sheriffs, and their deputies, railroad police officer,<sup>1</sup> and other persons as the State, unit of local government, or rail carrier may nominate for police training while such persons are actually employed as officers of such State, unit of local government, or rail carrier.
 
@@ -72,9 +72,29 @@ Subsecs. (d), (e). Pub. L. 106–110, §1(b), (c), added subsecs. (d) and (e).
 
 Section effective Oct. 12, 1984, see section 609AA(a) of Pub. L. 98–473, set out as a note under section 3711 of this title.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Employment of Annuitants by Federal Law Enforcement Training Center
+
+Pub. L. 107–206, title I, §1202, Aug. 2, 2002, 116 Stat. 887, provided that:
+
+“(a) The Federal Law Enforcement Training Center may, for a period ending not later than 5 years after the date of the enactment of this Act \[Aug. 2, 2002\], appoint and maintain a cadre of up to 250 Federal annuitants: (1) without regard to any provision of title 5, United States Code, which might otherwise require the application of competitive hiring procedures; and (2) who shall not be subject to any reduction in pay (for annuity allocable to the period of actual employment) under the provisions of section 8344 or 8468 of such title 5 or similar provision of any other retirement system for employees. A reemployed Federal annuitant as to whom a waiver of reduction under paragraph (2) applies shall not, for any period during which such waiver is in effect, be considered an employee for purposes of subchapter III of chapter 83 or chapter 84 of title 5, United States Code, or such other retirement system (referred to in paragraph (2)) as may apply.
+
+“(b) No appointment under this section may be made which would result in the displacement of any employee.
+
+“(c) For purposes of this section—
+
+&emsp;“(1) the term ‘Federal annuitant’ means an employee who has retired under the Civil Service Retirement System, the Federal Employees’ Retirement System, or any other retirement system for employees;
+
+&emsp;“(2) the term ‘employee’ has the meaning given such term by section 2105 of such title 5; and
+
+&emsp;“(3) the counting of Federal annuitants shall be done on a full time equivalent basis.”
+
 #### Annual Outstanding Student Award
 
-Pub. L. 107–67, title I, Nov. 12, 2001, 115 Stat. 516, provided in part: “That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a giftof intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority”.
+Pub. L. 107–67, title I, Nov. 12, 2001, 115 Stat. 516, provided in part: “That the \[Federal Law Enforcement Training\] Center is authorized to accept and use gifts of property, both real and personal, and to accept services, for authorized purposes, including funding of a gift of intrinsic value which shall be awarded annually by the Director of the Center to the outstanding student who graduated from a basic training program at the Center during the previous fiscal year, which shall be funded only by gifts received through the Center's gift authority”.
 
 Similar provisions were contained in the following prior appropriation acts:
 

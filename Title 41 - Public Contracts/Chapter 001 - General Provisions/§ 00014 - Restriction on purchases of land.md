@@ -8,7 +8,3 @@ No land shall be purchased on account of the United States, except under a law a
 
 R.S. §3736 derived from act May 1, 1820, ch. 52, §7, 3 Stat. 568.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 356.
-

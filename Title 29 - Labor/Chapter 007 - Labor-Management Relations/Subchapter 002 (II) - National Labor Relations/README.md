@@ -6,7 +6,7 @@ This subchapter is comprised of the National Labor Relations Act, and is not par
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 142, 186, 402, 524a, 2103, 2108 of this title; title 8 section 1288; title 15 sections 27a, 1014; title 18 section 1951; title 20 section 76k; title 39 section 1209; title 42 sections 300t–12, 2000e, 2297h–8; title 43 section 1333; title 46 App. section 1707; title 49 section 14103.
+This subchapter is referred to in sections 26b, 142, 186, 402, 524a, 2103, 2108 of this title; title 8 section 1288; title 15 section 1014; title 18 section 1951; title 20 section 76k; title 39 section 1209; title 42 sections 300t–12, 2000e, 2297h–8; title 43 section 1333; title 46 App. section 1707; title 49 section 14103.
 
 
 ---

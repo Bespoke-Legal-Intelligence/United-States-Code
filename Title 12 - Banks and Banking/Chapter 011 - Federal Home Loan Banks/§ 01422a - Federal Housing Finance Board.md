@@ -78,7 +78,7 @@
 
 #### (1) In general
 
-&emsp;The President shall designate 1 of the appointed directors to be the Chairperson of the Board. The Chairperson shall designate another director to serve as Acting Chairperson during the absence or disability of the Chairperson.
+&emsp;The President shall designate 1 of the appointed directors to be the Chairperson of theBoard. The Chairperson shall designate another director to serve as Acting Chairperson during the absence or disability of the Chairperson.
 
 #### (2) Transitional provision
 

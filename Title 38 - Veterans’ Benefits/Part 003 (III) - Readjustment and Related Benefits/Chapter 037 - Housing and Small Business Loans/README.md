@@ -11,6 +11,7 @@
 | [3705\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003705%20-%20Warranties.md) | Warranties. |
 | [3706\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003706%20-%20Escrow%20of%20deposits%20and%20downpayments.md) | Escrow of deposits and downpayments. |
 | [3707\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003707%20-%20Adjustable%20rate%20mortgages.md) | Adjustable rate mortgages. |
+| [3707A.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003707A%20-%20Hybrid%20adjustable%20rate%20mortgages.md) | Hybrid adjustable rate mortgages. |
 | [3708\.](Subchapter%20001%20%28I%29%20-%20General/%C2%A7%2003708%20-%20Authority%20to%20buy%20down%20interest%20rates%20pilot%20program.md) | Authority to buy down interest rates: pilot program. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -88,6 +89,8 @@
 
 #### Amendments
 
+2002—Pub. L. 107–330, title III, §303(b), Dec. 6, 2002, 116 Stat. 2826, added item 3707A.
+
 2001—Pub. L. 107–95, §5(g)(2), Dec. 21, 2001, 115 Stat. 918, struck out item 3735 “Housing assistance for homeless veterans”, item for subchapter VI “LOAN GUARANTEE FOR MULTIFAMILY TRANSITIONAL HOUSING FOR HOMELESS VETERANS”, and items 3771 “Definitions”, 3772 “General authority”, 3773 “Requirements”, 3774 “Default”, and 3775 “Audit”.
 
 1998—Pub. L. 105–368, title VI, §§601(b), 602(e)(3)(C), Nov. 11, 1998, 112 Stat. 3345, 3347, added item 3722, struck out items 3723 “Direct loan revolving fund”, 3724 “Loan Guaranty Revolving Fund”, and 3725 “Guaranty and Indemnity Fund”, substituted “Veterans Housing Benefit Program Fund and housing programs” for “Loan Guaranty Revolving Fund and the Guaranty and Indemnity Fund” in item 3734, substituted “Native American Veteran Housing Loan Program Account” for “Housing loan program account” in item 3763, and added item for subchapter VI and items 3771 to 3775.
@@ -102,7 +105,7 @@ Pub. L. 104–106, div. B, title XXVIII, §2822(b)(2), Feb. 10, 1996, 110 Stat. 
 
 Pub. L. 102–54, §9(b), June 13, 1991, 105 Stat. 273, added item 1835.
 
-1989—Pub. L. 101–237, title III, §§302(a)(3)(B), (b)(2), 313(b)(1), Dec. 18, 1989, 103 Stat. 2070, 2071, 2077, substituted “Secretary” for “Administrator” in items 1820, 1844, and 1850, “Loan Guaranty Revolving Fund” for “Loan guaranty revolving fund” in item 1824, and “Guaranty and Indemnity Fund” for “Waiver of discharge requirements for hospitalized persons” in item 1825, and added item 1834.
+1989—Pub. L. 101–237, title III, §§302(a)(3)(B), (b)(2), 313(b)(1), Dec. 18, 1989, 103 Stat. 2070, 2071, 2077, substituted “Secretary” for “Administrator” in items 1820, 1844, and 1850, “Loan Guaranty Revolving Fund”for “Loan guaranty revolving fund” in item 1824, and “Guaranty and Indemnity Fund” for “Waiver of discharge requirements for hospitalized persons” in item 1825, and added item 1834.
 
 1988—Pub. L. 100–322, title IV, §415(e), May 20, 1988, 102 Stat. 552, in item 1803 substituted “guaranty and insurance” for “guaranty”, struck out item 1807 “Service after July 25, 1947, and prior to June 27, 1950”, reenacted items 1810 and 1811 without change, redesignated item 1819 “Loans to purchase manufactured homes and lots” as item 1812, item 1817 “Release from liability under guaranty” as item 1813, and item 1817A “Assumptions; release from liability” as item 1814, struck out item 1815 “Insurance of loans” and item 1818 “Service after January 31, 1955, and prior to August 5, 1964, or after May 7, 1975”, redesignated item 1816 “Procedure on default” as item 1832, struck out former item 1832 “Furnishing information to real estate professionals to facilitate the disposition of properties”, and added item 1833.
 

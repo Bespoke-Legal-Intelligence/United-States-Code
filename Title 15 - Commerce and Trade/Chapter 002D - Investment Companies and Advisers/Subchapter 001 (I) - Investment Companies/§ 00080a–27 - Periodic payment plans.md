@@ -58,7 +58,7 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 &emsp;(5) the first payment on such certificate is less than $20, or any subsequent payment is less than $10;
 
-&emsp;(6) if such registered company is a management company, the proceeds of such certificate or the securities in which such proceeds are invested are subject to management fees (other than fees for administrative services of the character described in clause (C) of paragraph (2) of section 80a–26(a) of this title) exceeding such reasonable amount as the Commission may prescribe, whether such fees are payable to such company or to investment advisers thereof; or
+&emsp;(6) if such registered company is a management company, the proceeds of such certificate or the securities in which such proceeds are invested are subject to management fees\(other than fees for administrative services of the character described in clause (C) of paragraph (2) of section 80a–26(a) of this title) exceeding such reasonable amount as the Commission may prescribe, whether such fees are payable to such company or to investment advisers thereof; or
 
 &emsp;(7) if such registered company is a unit investment trust the assets of which are securities issued by a management company, the depositor of or principal underwriter for such trust, or any affiliated person of such depositor or underwriter, is to receive from such management company or any affiliated person thereof any fee or payment on account of payments on such certificate exceeding such reasonable amount as the Commission may prescribe.
 
@@ -72,7 +72,7 @@ Upon making the election specified in subsection (g) of this section, it shall b
 
 &emsp;(B) the insurance company complies with section 80a–26(e) <sup>1</sup> of this title and any rules or regulations issued by the Commission under section 80a–26(e) <sup>1</sup> of this title.
 
-(Aug. 22, 1940, ch. 686, title I, §27, 54 Stat. 829; Pub. L. 91–547, §16, Dec. 14, 1970, 84 Stat. 1424;Pub. L. 92–165, Nov. 23, 1971, 85 Stat. 487; Pub. L. 104–290, title II, §205(b), Oct. 11, 1996, 110 Stat. 3429.)
+(Aug. 22, 1940, ch. 686, title I, §27, 54 Stat. 829; Pub. L. 91–547, §16, Dec. 14, 1970, 84 Stat. 1424; Pub. L. 92–165, Nov. 23, 1971, 85 Stat. 487; Pub. L. 104–290, title II, §205(b), Oct. 11, 1996, 110 Stat. 3429.)
 
 #### References in Text
 

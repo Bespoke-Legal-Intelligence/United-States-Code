@@ -30,7 +30,7 @@
 
 #### (b) Analysis and use of samples
 
-The Director of the Bureau of Prisons or the probation office responsible (as applicable) shall furnish each DNA sample collected under subsection (a) of this section to the Director of the Federal Bureau of Investigation, who shall carry out a DNA analysis on each such DNA sample and include the results in CODIS.
+The Director of the Bureau of Prisons or the probation office responsible (as applicable) shallfurnish each DNA sample collected under subsection (a) of this section to the Director of the Federal Bureau of Investigation, who shall carry out a DNA analysis on each such DNA sample and include the results in CODIS.
 
 #### (c) Definitions
 

@@ -8,7 +8,7 @@ Notwithstanding any other provision of law, in the event of a transfer of owners
 
 Payments made pursuant to this section shall not exceed the amount to which the previous owner was entitled to receive under the terms of the contract at the time of the death of the prior owner.
 
-(Pub. L. 99–198, title X, §1001E, as added Pub. L. 101–624, title XI, §1111(h), Nov. 28, 1990, 104 Stat. 3499.)
+(Pub. L. 99–198, title X, §1001F, formerly §1001E, as added Pub. L. 101–624, title XI, §1111(h), Nov. 28, 1990, 104 Stat. 3499; renumbered §1001F, Pub. L. 107–171, title I, §1604(1), May 13, 2002, 116 Stat. 215.)
 
 #### References in Text
 
@@ -21,6 +21,10 @@ Section was enacted as part of the Food Security Act of 1985, and not as part of
 #### Effective Date
 
 Section effective beginning with 1991 crop of an agricultural commodity, with provision for prior crops, see section 1171 of Pub. L. 101–624, set out as an Effective Date of 1990 Amendment note under section 1421 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7996 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

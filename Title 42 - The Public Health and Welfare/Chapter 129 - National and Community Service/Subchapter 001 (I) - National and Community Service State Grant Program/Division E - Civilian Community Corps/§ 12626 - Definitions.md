@@ -16,7 +16,7 @@ In this division:
 
 #### (4) Corps members
 
-&emsp;The term “Corps members” means persons receiving training and participating inprojects under the Civilian Community Corps Demonstration Program.
+&emsp;The term “Corps members” means persons receiving training and participating in projects under the Civilian Community Corps Demonstration Program.
 
 #### (5) Director
 
@@ -68,7 +68,7 @@ A prior section 166 of Pub. L. 101–610 was classified to section 12622 of this
 
 Par. (2). Pub. L. 103–82, §104(e)(2)(H)(i), substituted “section 12615” for “section 12653d”.
 
-Par. (6). Pub. L. 103–82, §403(a)(4), which directed amendment of par. (6) of this section by striking par. (6) and redesignating par. (7) of this section as (6) was executed by redesignating par. (7) of this section as (6) and striking out former par. (6) which defined “Executive Director” as Executive Director of Commission on National and Community Service, to reflect the probable intent of Congress.
+Par. (6). Pub. L. 103–82, §403(a)(4), which directed amendment of par. (6) of this section by striking par.\(6) and redesignating par. (7) of this section as (6) was executed by redesignating par. (7) of this section as (6) and striking out former par. (6) which defined “Executive Director” as Executive Director of Commission on National and Community Service, to reflect the probable intent of Congress.
 
 Par. (7). Pub. L. 103–82, §403(a)(4)(B), which directed amendment of par. (6) of this section by redesignating par. (8) as (7) was executed by redesignating par. (8) of this section as (7), to reflect the probable intent of Congress. Former par. (7) redesignated (6).
 

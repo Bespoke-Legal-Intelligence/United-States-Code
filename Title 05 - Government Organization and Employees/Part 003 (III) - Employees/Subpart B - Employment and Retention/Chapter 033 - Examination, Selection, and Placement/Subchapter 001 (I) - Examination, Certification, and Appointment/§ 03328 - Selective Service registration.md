@@ -18,5 +18,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 38 section 7403.
+This section is referred to in title 10 section 1599c; title 38 section 7403.
 

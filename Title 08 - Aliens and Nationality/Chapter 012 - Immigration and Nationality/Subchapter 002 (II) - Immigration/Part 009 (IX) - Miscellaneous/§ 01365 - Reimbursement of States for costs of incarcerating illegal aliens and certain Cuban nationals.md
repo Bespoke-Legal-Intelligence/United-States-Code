@@ -52,3 +52,5 @@ Section was enacted as part of the Immigration Reform and Control Act of 1986, a
 
 Pub. L. 103–317, title VIII, Aug. 26, 1994, 108 Stat. 1778, provided in part: “That the Attorney General shall promulgate regulations to (a) prescribe requirements for program participation eligibility for States, (b) require verification by States of the eligible incarcerated population data with the Immigration and Naturalization Service, (c) prescribe a formula for distributing assistance to eligible States, and (d) award assistance to eligible States”.
 
+\[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.\]
+

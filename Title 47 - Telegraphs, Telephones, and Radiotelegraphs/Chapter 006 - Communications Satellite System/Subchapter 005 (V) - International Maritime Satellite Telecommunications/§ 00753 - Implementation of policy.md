@@ -26,7 +26,7 @@ The Commission is authorized to issue instructions to the corporation with respe
 
 #### Termination of Subsections (b) and (d)
 
-<i>Subsections (b) and (d) of this section to cease to be effective on the effective date of a Commission order determining under section 761(b)(2) of this title that Inmarsat privatization is consistent with criteria in sections 763 and 763c of this title, see section 765d(3) of this title.</i>
+<i>Subsections (b) and (d) of this section to cease to be effective on the effective date of a Commis</i><i>sion order determining under section 761(b)(2) of this title that Inmarsat privatization is consistent with criteria in sections 763 and 763c of this title, see section 765d(3) of this title.</i>
 
 #### Codification
 

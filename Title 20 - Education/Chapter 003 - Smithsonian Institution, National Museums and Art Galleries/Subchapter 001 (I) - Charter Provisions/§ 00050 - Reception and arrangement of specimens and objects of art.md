@@ -74,93 +74,7 @@ Applicability of title 23.—Funds authorized by this subsection shall be availa
 
 #### National Health Museum
 
-Pub. L. 105–78, title VII, Nov. 13, 1997, 111 Stat. 1524, provided that:
-
-#### “SEC. 701. SHORT TITLE.
-
-“This title may be cited as the ‘National Health Museum Development Act’.
-
-#### “SEC. 702. AMENDMENTS TO THE NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 1995.
-
-“\[Amended section 1067 of Pub. L. 103–337, set out as a note under section 176 of Title 10, Armed Forces.\]
-
-#### “SEC. 703. NATIONAL HEALTH MUSEUM SITE.
-
-“(a)
-
-Site.—The facility known as the National Health Museum shall be located on or near the Mall on land owned by the Federal Government or the District of Columbia (or both) in the District of Columbia.
-
-“(b)
-
-Rule of Construction.—Nothing in this section shall be construed as limiting the authority or responsibilities of the National Capital Planning Commission or the Commission of Fine Arts.
-
-“(c)
-
-Definition.—In this section, the term ‘the Mall’ means—
-
-&emsp;“(1) the land designated as ‘Union Square’, United States Reservation 6A; and
-
-&emsp;“(2) the land designated as the ‘Mall’, United States Reservations 3, 4, 5, and 6.
-
-#### “SEC. 704. NATIONAL HEALTH MUSEUM COMMISSION.
-
-“(a)
-
-Establishment of Commission.—There is established a commission to be known as the National Health Museum Commission (hereafter referred to in this title as the ‘Commission’) that shall be comprised of eight members.
-
-“(b)
-
-Membership.—
-
-&emsp;“(1)
-
-In general.—The members of the Commission shall be appointed for the life of the Commission as follows:
-
-&emsp;&emsp;“(A) Two members shall be appointed by the President.
-
-&emsp;&emsp;“(B) Two members shall be appointed by the Speaker of the House of Representatives.
-
-&emsp;&emsp;“(C) One member shall be appointed by the Minority Leader of the House of Representatives.
-
-&emsp;&emsp;“(D) Two members shall be appointed by the Majority Leader of the Senate.
-
-&emsp;&emsp;“(E) One member shall be appointed by the Minority Leader of the Senate.
-
-&emsp;“(2)
-
-Persons eligible.—The members of the Commission shall be individuals who have knowledge or expertise in matters to be studied by the Commission.
-
-&emsp;“(3)
-
-Chairperson.—The President shall designate one member as the Chairperson of the Commission.
-
-#### “SEC. 705. DUTIES OF THE COMMISSION.
-
-“(a)
-
-Study.—It shall be the duty of the Commission to conduct a comprehensive study of the appropriate Federal role in the planning and operation of the National Health Museum, as well as any other issues deemed appropriate to the development of the National Health Museum.
-
-“(b)
-
-Report.—Not later than 1 year after the date on which the Commission first meets, the Commission shall submit to the President and Congress a comprehensive report of the Commission's findings and conclusions, together with any recommendations of the Commission.
-
-#### “SEC. 706. COMMISSION ADMINISTRATION MATTERS.
-
-“(a)
-
-Application of FACA.—The National Health Museum, Inc. shall be responsible for administering all Commission activities in accordance with the Federal Advisory Committee Act (5 U.S.C. App.).
-
-“(b)
-
-Compensation of Members.—Each member of the Commission who is not an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for level IV of the Executive Schedule under section 5315 of title 5, United States Code.
-
-#### “SEC. 707. AUTHORIZATION OF APPROPRIATIONS.
-
-“There are authorized to be appropriated to carry out this section, $500,000 for fiscal year 1998, to remain available until expended.
-
-#### “SEC. 708. TERMINATION OF THE COMMISSION.
-
-“The Commission shall terminate 60 days after the Commission submits the report required under section 705(b).”
+Pub. L. 105–78, title VII, Nov. 13, 1997, 111 Stat. 1524, known as the National Health Museum Development Act, which provided that the National Health Museum would be located on or near the Mall, established the National Health Museum Commission and its duties, including submission of a report to the President and Congress, provided that all Commission activities would be administered in accordance with the Federal Advisory Committee Act, provided for compensation of Commission members who were not officers or employees of the U.S., appropriated funds, and specified the Commission would terminate 60 days after submission of the report, was repealed, except for section 702, by Pub. L. 107–303, title III, §303, Nov. 27, 2002, 116 Stat. 2361. Section 702 of Pub. L. 105–78 amended section 1067 of Pub. L. 103–337, set out as a note under section 176 of Title 10, Armed Forces.
 
 #### West Court of National Museum of Natural History Building
 
@@ -168,7 +82,7 @@ Pub. L. 103–151, Nov. 24, 1993, 107 Stat. 1515, provided that:
 
 #### “SECTION 1. PLANNING, DESIGN, AND CONSTRUCTION OF WEST COURT OF NATIONAL MUSEUM OF NATURAL HISTORY BUILDING.
 
-“The Board of Regents of the Smithsonian Institution is authorized to plan, design, and construct theWest Court of the National Museum of Natural History building.
+“The Board of Regents of the Smithsonian Institution is authorized to plan, design, and construct the West Court of the National Museum of Natural History building.
 
 #### “SEC. 2. FUNDING.
 
@@ -248,7 +162,7 @@ Pub. L. 96–36, July 20, 1979, 93 Stat. 94, provided: “That the Board of Rege
 
 #### Smithsonian Institution Plans for and Construction of Museum Support Facilities; Approval of Plans and Specifications; Situs; Transfer of Land; Appropriations; Contracts by General Services Administration
 
-Pub. L. 94–98, Sept. 19, 1975, 89 Stat. 480, as amended by Pub. L. 95–569, Nov. 2, 1978, 92 Stat. 2444, provided: “The Regents of the Smithsonian Institution are authorized to prepare plans for, and to construct, museum support facilities to be used for (1) the care, curation, conservation, deposit, preparation, and study of the national collections of scientific, historic, and artistic objects, specimens, and artifacts; (2) the related documentation of such collections of the Smithsonian Institution; and (3) the training of museum conservators. No appropriation shall be made to construct the facilitiesauthorized by this Act until the Committee on Public Works and Transportation of the House of Representatives and the Committee on Rules and Administration of the Senate, by resolution approve the final plans and specifications of such facilities.
+Pub. L. 94–98, Sept. 19, 1975, 89 Stat. 480, as amended by Pub. L. 95–569, Nov. 2, 1978, 92 Stat. 2444, provided: “The Regents of the Smithsonian Institution are authorized to prepare plans for, and to construct, museum support facilities to be used for (1) the care, curation, conservation, deposit, preparation, and study of the national collections of scientific, historic, and artistic objects, specimens, and artifacts; (2) the related documentation of such collections of the Smithsonian Institution; and (3) the training of museum conservators. No appropriation shall be made to construct the facilities authorized by this Act until the Committee on Public Works and Transportation of the House of Representatives and the Committee on Rules and Administration of the Senate, by resolution approve the final plans and specifications of such facilities.
 
 “
 

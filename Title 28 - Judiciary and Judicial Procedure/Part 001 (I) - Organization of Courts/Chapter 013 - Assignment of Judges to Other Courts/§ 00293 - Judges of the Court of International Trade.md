@@ -22,7 +22,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–164, §110(b), substituted “the Court of International Trade” for “other courts” in section catchline.
+1982—Pub. L. 97–164, §110(b), substituted “the Court of International Trade” for “other courts” in section catchline.
 
 Subsec. (a). Pub. L. 97–164, §110(a)(1), (2), redesignated subsec. (b) as (a). Former subsec. (a), which authorized the Chief Justice to designate and assign judges of the Court of Claims or the Court of Customs and Patent Appeals to serve temporarily on the other of these two courts or in a court of appeals or district court of any circuit in times of necessity, was struck out.
 
@@ -32,15 +32,15 @@ Subsecs. (c), (d). Pub. L. 97–164, §110(a)(1), struck out subsecs. (c) and (d
 
 Subsec. (e). Pub. L. 97–164, §110(a)(3), redesignated subsec. (e), as that subsec. was to have become effective pursuant to Pub. L. 95–598, as subsec. (b). See 1978 Amendment note below.
 
-<b>1980</b>—Subsec. (b). Pub. L. 96–417, §102(a), redesignated the Customs Court as the Court of International Trade and authorized performance of judicial functions in a court of appeals.
+1980—Subsec. (b). Pub. L. 96–417, §102(a), redesignated the Customs Court as the Court of International Trade and authorized performance of judicial functions in a court of appeals.
 
 Subsec. (c). Pub. L. 96–417, §501(8), redesignated the Customs Court as the Court of International Trade.
 
 Subsec. (d). Pub. L. 96–417, §102(b), redesignated the Customs Court as the Court of International Trade and authorized temporary assignments to the Court of Claims of judges of the Court of International Trade upon presentation of a certificate of necessity by the chief judge of the Court of Claims.
 
-<b>1978</b>—Subsec. (e). Pub. L. 95–598 directed the amendment of this section by adding subsec. (e) relating to temporary assignments of bankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Subsec. (e). Pub. L. 95–598 directed the amendment of this section by adding subsec. (e) relating to temporary assignments of bankruptcy judges, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<b>1958</b>—Pub. L. 85–755 substituted “Judges of other courts” for “Circuit or district judges to court of customs and patent appeals” in section catchline.
+1958—Pub. L. 85–755 substituted “Judges of other courts” for “Circuit or district judges to court of customs and patent appeals” in section catchline.
 
 Subsec. (a). Pub. L. 85–755 added subsec. (a). It incorporates provisions of former sections 291(a), (b) and 292(e) of this title respecting assignment of any judge of the Court of Claims to serve as circuit judge in any circuit, assignment of judges of the Court of Customs and Patent Appeals to serve as judges of the Court of Appeals or the District Court of Appeals or the District Court for the District of Columbia, and assignment of judges of the Court of Claims to district courts, respectively.
 
@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 85–755 designated existing second par. as subsec. (b).
 
 Subsecs. (c), (d). Pub. L. 85–755 added subsecs. (c) and (d).
 
-<b>1956</b>—Act July 14, 1956, authorized the Chief Justice of the United States to designate and assign temporarilya judge of the Customs Court to perform judicial duties in a district court in any circuit.
+1956—Act July 14, 1956, authorized the Chief Justice of the United States to designate and assign temporarilya judge of the Customs Court to perform judicial duties in a district court in any circuit.
 
 #### Effective Date of 1982 Amendment
 

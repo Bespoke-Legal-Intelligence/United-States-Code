@@ -56,7 +56,7 @@ Amendment by act June 28, 1955, effective June 28, 1955, see section 13 of act o
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 
 #### Ex. Ord. No. 10624. Regulations for Department of Agriculture Personnel Abroad
 
@@ -66,7 +66,7 @@ By virtue of the authority vested in me by sections 605, 606B and 606D of Title 
 
 Section 1. (a) The provisions of section 207 of the Foreign Service Act of 1980 (22 U.S.C. 3927) shall be applicable to the official activities of persons assigned abroad under authority of Title VI of the said act of August 28, 1954 \[this chapter\].
 
-(b) The Secretary of Agriculture shall institute and maintain such measures consistent with the said Part II as may be necessary to insure that the official activities of persons assigned abroad under the said Title VI are carried on consonant with United States foreign-policy objectives as defined by the Secretary of State and are effectively coordinated with the activities of representatives of other United States agencies, under the leadership of the Chief of the United States Diplomatic Mission.
+(b) The Secretary of Agriculture shall institute and maintain such measures consistent with the said Part II as may be necessary to insure that the official activities of persons assigned abroad under the said Title VI are carried on consonant with United States foreign-policy objectives as defined by the Secretary of State and are effectively coordinated with the activities ofrepresentatives of other United States agencies, under the leadership of the Chief of the United States Diplomatic Mission.
 
 (c) Consistent with subsections (a) and (b) of this section, the Secretary of Agriculture shall issue instructions on agricultural matters to persons assigned abroad under authority of the said Title VI.
 

@@ -68,7 +68,7 @@ States may, at the Governor's discretion, use funds from grants under this secti
 
 #### (h) Information
 
-(1) The Administrator may request such information, data, and reports developed by the State as he considers necessary to make the determination of continuing eligibility under this section.
+(1) The Administrator may request such information, data, and reports developed by theState as he considers necessary to make the determination of continuing eligibility under this section.
 
 (2) Any State receiving funds under this section shall provide to the Administrator all radon-related information generated in its activities, including the results of radon surveys, mitigation demonstration projects, and risk communication studies.
 

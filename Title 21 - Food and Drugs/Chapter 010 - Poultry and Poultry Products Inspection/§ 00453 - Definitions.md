@@ -48,7 +48,7 @@ For purposes of this chapter—
 
 &emsp;(4) if its container is so made, formed, or filled as to be misleading;
 
-&emsp;(5) unless it bears a label showing (A) the name and the place of business of the manufacturer, packer, or distributor; and (B) an accurate statement of the quantity of the product in terms of weight, measure, or numerical count: <i>Provided</i>, That under clause (B) of this subparagraph (5), reasonable variations may be permitted, and exemptions as to small packages or articles not in packages or other containers may be established by regulations prescribed by the Secretary;
+&emsp;(5) unless it bears a label showing (A) the name and the place of business of the manufacturer, packer, or distributor; and (B) an accurate statement of the quantity of the product in terms of weight, measure, or numericalcount: <i>Provided</i>, That under clause (B) of this subparagraph (5), reasonable variations may be permitted, and exemptions as to small packages or articles not in packages or other containers may be established by regulations prescribed by the Secretary;
 
 &emsp;(6) if any word, statement, or other information required by or under authority of this chapter to appear on the label or other labeling is not prominently placed thereon with such conspicuousness (as compared with other words, statements, designs, or devices, in the labeling) and in such terms as to render it likely to be read and understood by the ordinary individual under customary conditions of purchase and use;
 
@@ -88,7 +88,7 @@ For purposes of this chapter—
 
 (t) The term “shipping container” means any container used or intended for use in packaging the product packed in an immediate container.
 
-(u) The term “immediate container” includes any consumer package; or any other container in which poultry products, not consumer packaged, are packed.
+(u) The term “immediate container” includes any consumer package; or any other containerin which poultry products, not consumer packaged, are packed.
 
 (v) The term “capable of use as human food” shall apply to any carcass, or part or product of a carcass, of any poultry, unless it is denatured or otherwise identified as required by regulations prescribed by the Secretary to deter its use as human food, or it is naturally inedible by humans.
 

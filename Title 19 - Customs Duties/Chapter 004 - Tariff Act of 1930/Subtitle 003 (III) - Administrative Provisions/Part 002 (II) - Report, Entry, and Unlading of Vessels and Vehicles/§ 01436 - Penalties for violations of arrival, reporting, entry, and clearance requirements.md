@@ -14,7 +14,7 @@ It is unlawful—
 
 #### (b) Civil penalty
 
-Any master, person in charge of a vehicle, or aircraft pilot who commits any violation listed in subsection (a) of this section is liable for acivil penalty of $5,000 for the first violation, and $10,000 for each subsequent violation, and any conveyance used in connection with any such violation is subject to seizure and forfeiture.
+Any master, person in charge of a vehicle, or aircraft pilot who commits any violation listed in subsection (a) of this section is liable for a civil penalty of $5,000 for the first violation, and $10,000 for each subsequent violation, and any conveyance used in connection with any such violation is subject to seizure and forfeiture.
 
 #### (c) Criminal penalty
 
@@ -53,4 +53,8 @@ Subsec. (a)(2), (3). Pub. L. 103–182, §611(1)(B), (C), amended pars. (2) and 
 “Every master who presents a forged, altered, or false document or paper on making entry of a vessel as required by section 1434 or 1435 of this title, knowing the same to be forged, altered, or false and without revealing the fact, shall, in addition to any forfeiture to which in consequence the vessel may be subject, be liable to a fine of not more than $5,000 nor less than $50 or to imprisonment for not more than two years, or to both such fine and imprisonment.”
 
 1935—Act Aug. 5, 1935, inserted provisions relating to additional penalty for vessel carrying nonimportable merchandise or liquor and added second par.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

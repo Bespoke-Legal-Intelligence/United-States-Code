@@ -342,9 +342,13 @@ The requirements of subsections (c) through (<i>l</i>) of this section, as such 
 
 (Pub. L. 101–380, title V, §5002, Aug. 18, 1990, 104 Stat. 544.)
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Delegation of Functions
 
-Functions of President under subsecs. (c)(2)(D) and (<i>o</i>) of this section delegated to Secretary of Transportation by section 8(f), (g) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54769, set out as a note under section 1321 of this title.
+Functions of President under subsecs. (c)(2)(D) and (<i>o</i>) of this section delegated to Secretary of the Department in which the Coast Guard is operating by section 8(f), (g) of Ex. Ord. No. 12777, Oct. 18, 1991, 56 F.R. 54769, as amended, set out as a note under section 1321 of this title.
 
 #### Prince William Sound Regional Citizens Advisory Committee
 

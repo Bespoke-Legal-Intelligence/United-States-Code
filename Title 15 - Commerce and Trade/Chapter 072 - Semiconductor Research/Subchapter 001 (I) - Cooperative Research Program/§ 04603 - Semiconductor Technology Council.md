@@ -88,13 +88,13 @@ Section 14 of the Federal Advisory Committee Act shall not apply to the Council.
 
 #### (j) Support for Council
 
-The Council shall use Federal funds made available to Sematech as needed for general and administrative support in accomplishing the Council's purposes.
+The Council shall use Federal funds made available to Sematech as needed for general andadministrative support in accomplishing the Council's purposes.
 
 (Pub. L. 100–180, div. A, title II, §273, Dec. 4, 1987, 101 Stat. 1070; Pub. L. 102–245, title I, §103(e), Feb. 14, 1992, 106 Stat. 9; Pub. L. 103–160, div. A, title II, §263(b), (c)(3)–(e), Nov. 30, 1993, 107 Stat. 1608, 1610; Pub. L. 103–337, div. A, title II, §251, Oct. 5, 1994, 108 Stat. 2702; Pub. L. 106–65, div. A, title IX, §911(a)(1), Oct. 5, 1999, 113 Stat. 717.)
 
 #### References in Text
 
-Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463,which is set out in the Appendix to Title 5, Government Organization and Employees.
+Section 14 of the Federal Advisory Committee Act, referred to in subsec. (i), is section 14 of Pub. L. 92–463, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

@@ -102,11 +102,15 @@ Section 1 of Pub. L. 96–478 provided: “That this Act \[enacting this chapter
 
 Section 14(c) of Pub. L. 96–478 provided that: “Any rights or liabilities existing on the effective date of this Act \[see Effective Date note above\] shall not be affected by this enactment \[see Short Title note above\]. Any regulations or procedures promulgated or effected pursuant to the Oil Pollution Act, 1961, as amended \[section 1001 et seq. of this title\], remain in effect until modified or superseded by regulations promulgated under the authority of the MARPOL Protocol or this Act.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Study and Regulation of Great Lakes Cargo Residues
 
 Pub. L. 106–554, §1(a)(4) \[div. A, §1117(b), (c)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–209, provided that:
 
-“(b) The Secretary shall conduct a study of the effectiveness of the United States 1997 Enforcement Policyfor Cargo Residues on the Great Lakes (‘Policy’) by September 30, 2002.
+“(b) The Secretary shall conduct a study of the effectiveness of the United States 1997 Enforcement Policy for Cargo Residues on the Great Lakes (‘Policy’) by September 30, 2002.
 
 “(c) The Secretary is authorized to promulgate regulations to implement and enforce a program to regulate incidental discharges from vessels of residues of non-hazardous and non-toxic dry bulk cargo into the waters of the Great Lakes, which takes into account the finding in the study required under subsection (b). This program shall be consistent with the Policy.”
 
@@ -176,7 +180,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XIV\], Dec. 21, 2000, 114 Stat. 276
 
 &emsp;“(1) include unannounced inspections of any aspect of cruise vessel operations, equipment or discharges pertinent to the verification under subsection (a) of this section; and
 
-&emsp;“(2) require the owner, operator or master, or other person in charge of a cruise vessel subject to this title to maintain and produce a logbook detailing thetimes, types, volumes or flow rates and locations of any discharges of sewage or graywater under this title.
+&emsp;“(2) require the owner, operator or master, or other person in charge of a cruise vessel subject to this title to maintain and produce a logbook detailing the times, types, volumes or flow rates and locations of any discharges of sewage or graywater under this title.
 
 “(d) The inspection regime shall incorporate a plan for sampling and testing cruise vessel discharges to ensure that any discharges of sewage or graywater are in compliance with this title, the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], as amended, and any other applicable laws and regulations, and may require the owner, operator or master, or other person in charge of a cruise vessel subject to this title to conduct such samples or tests, and to produce any records of such sampling or testing at the request of the Secretary or Administrator.
 

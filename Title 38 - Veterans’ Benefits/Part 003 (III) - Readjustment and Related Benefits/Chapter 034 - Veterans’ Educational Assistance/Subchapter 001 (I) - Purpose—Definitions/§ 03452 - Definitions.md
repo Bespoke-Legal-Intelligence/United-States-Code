@@ -16,7 +16,7 @@ For the purposes of this chapter and chapter 36 of this title—
 
 (b) The term “program of education” means any curriculum or any combination of unit courses or subjects pursued at an educational institution which is generally accepted as necessary to fulfill requirements for the attainment of a predetermined and identified educational, professional, or vocational objective. Such term also means any curriculum of unit courses or subjects pursued at an educational institution which fulfill requirements for the attainment of more than one predetermined and identified educational, professional, or vocational objective if all the objectives pursued are generally recognized as being reasonably related to a single career field. Such term also means any unit course or subject, or combination of courses or subjects, pursued by an eligible veteran at an educational institution, required by the Administrator of the Small Business Administration as a condition to obtaining financial assistance under the provisions of section 7(i)(1) of the Small Business Act (15 U.S.C. 636(i)(1)). Such term also includes licensing or certification tests, the successful completion of which demonstrates an individual's possession of the knowledge or skill required to enter into, maintain, or advance in employment in a predetermined and identified vocation or profession, provided such tests and the licensing or credentialing organizations or entities that offer such tests are approved by the Secretary in accordance with section 3689 of this title.
 
-(c) The term “educational institution” means any public or private elementary school, secondary school, vocational school, correspondence school, business school, junior college, teachers’college, college, normal school, professional school, university, or scientific or technical institution, or other institution furnishing education for adults. Such term includes any entity that provides training required for completion of any State-approved alternative teacher certification program (as determined by the Secretary). Such term also includes any private entity (that meets such requirements as the Secretary may establish) that offers, either directly or under an agreement with another entity (that meets such requirements), a course or courses to fulfill requirements for the attainment of a license or certificate generally recognized as necessary to obtain, maintain, or advance in employment in a profession or vocation in a high technology occupation (as determined by the Secretary).
+(c) The term “educational institution” means any public or private elementary school, secondary school, vocational school, correspondence school, business school, junior college, teachers’ college, college, normal school, professional school, university, or scientific or technical institution, or other institution furnishing education for adults. Such term includes any entity that provides training required for completion of any State-approved alternative teacher certification program (as determined by the Secretary). Such term also includes any private entity (that meets such requirements as the Secretary may establish) that offers, either directly or under an agreement with another entity (that meets such requirements), a course or courses to fulfill requirements for the attainment of a license or certificate generally recognized as necessary to obtain, maintain, or advance in employment in a profession or vocation in a high technology occupation (as determined by the Secretary).
 
 (d) The term “dependent” means—
 
@@ -120,7 +120,7 @@ Section 802(h) of Pub. L. 96–466 provided that: “Section 801 \[see Tables fo
 
 #### Effective Date of 1976 Amendment
 
-Amendment by sections 202, 210(1), and 211(1) of Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub. L. 94–502, set out as an Effective Date note under section 3693 of this title.
+Amendment by sections 202, 210(1), and 211(1) of Pub. L. 94–502 effective Oct. 15, 1976, see section 703(b) of Pub.L. 94–502, set out as an Effective Date note under section 3693 of this title.
 
 Amendment by section 402 of Pub. L. 94–502 effective Jan. 1, 1977, see section 406 of Pub. L. 94–502, set out as an Effective Date note under section 3201 of this title.
 
@@ -131,6 +131,10 @@ Section 503 of Pub. L. 93–508 provided that: “Titles II and IV of this Act \
 #### Effective Date of 1967 Amendment
 
 Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

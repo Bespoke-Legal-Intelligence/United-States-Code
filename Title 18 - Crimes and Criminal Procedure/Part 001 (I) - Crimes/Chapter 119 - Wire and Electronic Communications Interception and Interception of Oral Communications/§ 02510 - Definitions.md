@@ -28,7 +28,7 @@ As used in this chapter—
 
 &emsp;&emsp;(b) a judge of any court of general criminal jurisdiction of a State who is authorized by a statute of that State to enter orders authorizing interceptions of wire, oral, or electronic communications;
 
-&emsp;(10) “communication common carrier” shall have the same meaning which is given the term “common carrier” by section 153(h) <sup>2</sup> of title 47 of the United States Code;
+&emsp;(10) “communication common carrier” has the meaning given that term in section 3 of the Communications Act of 1934;
 
 &emsp;(11) “aggrieved person” means a person who was a party to any intercepted wire, oral, or electronic communication or a person against whom the interception was directed;
 
@@ -96,7 +96,7 @@ As used in this chapter—
 
 &emsp;&emsp;(B) does not include a person known by the owner or operator of the protected computer to have an existing contractual relationship with the owner or operator of the protected computer for access to all or part of the protected computer.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I, §101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–132, title VII, §731, Apr. 24, 1996, 110 Stat. 1303; Pub. L. 107–56, title II, §§203(b)(2), 209(1), 217(1), Oct. 26, 2001, 115 Stat. 280, 283, 290; Pub. L. 107–108, title III, §314(b), Dec. 28, 2001, 115 Stat. 1402.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 212; amended Pub. L. 99–508, title I, §101(a), (c)(1)(A), (4), Oct. 21, 1986, 100 Stat. 1848, 1851; Pub. L. 103–414, title II, §§202(a), 203, Oct. 25, 1994, 108 Stat. 4290, 4291; Pub. L. 104–132, title VII, §731, Apr. 24, 1996, 110 Stat. 1303; Pub. L. 107–56, title II, §§203(b)(2), 209(1), 217(1), Oct. 26, 2001, 115 Stat. 280, 283, 290; Pub. L. 107–108, title III, §314(b), Dec. 28, 2001, 115 Stat. 1402; Pub. L. 107–273, div. B, title IV, §4002(e)(10), Nov. 2, 2002, 116 Stat. 1810.)
 
 #### Amendment of Section
 
@@ -104,9 +104,11 @@ As used in this chapter—
 
 #### References in Text
 
-Section 153 of title 47, referred to in par. (10), was subsequently amended, and section 153(h) no longer defines “common carrier”. However, such term is defined elsewhere in that section.
+Section 3 of the Communications Act of 1934, referred to in par. (10), is classified to section 153 of Title 47, Telegraphs, Telephones, and Radiotelegraphs.
 
 #### Amendments
+
+2002—Par. (10). Pub. L. 107–273 substituted “has the meaning given that term in section 3 of the Communications Act of 1934;” for “shall have the same meaning which is given the term ‘common carrier’ by section 153(h) of title 47 of the United States Code;”.
 
 2001—Par. (1). Pub. L. 107–56, §§209(1)(A), 224, temporarily struck out “and such term includes any electronic storage of such communication” before semicolon at end. See Termination Date of 2001 Amendment note below.
 
@@ -124,7 +126,7 @@ Par. (16)(F). Pub. L. 104–132, §731(2), struck out subpar. (F) which read as 
 
 1994—Par. (1). Pub. L. 103–414, §202(a)(1), struck out before semicolon at end “, but such term does not include the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit”.
 
-Par. (12). Pub. L. 103–414, §202(a)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struck out former subpar. (A) which read as follows: “the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit;”.
+Par. (12). Pub. L. 103–414, §202(a)(2), redesignated subpars. (B) to (D) as (A) to (C), respectively, and struckout former subpar. (A) which read as follows: “the radio portion of a cordless telephone communication that is transmitted between the cordless telephone handset and the base unit;”.
 
 Par. (16)(F). Pub. L. 103–414, §203, added subpar. (F).
 
@@ -194,7 +196,7 @@ In General.—Nothing in this Act or the amendments made by this Act \[see Short
 
 Certain Activities Under Procedures Approved by the Attorney General.—Nothing in chapter 119 or chapter 121 of title 18, United States Code, shall affect the conduct, by officers or employees of the United States Government in accordance with other applicable Federal law, under procedures approved by the Attorney General of activities intended to—
 
-&emsp;“(1) intercept encrypted or other official communications of United States executive branch entitiesor United States Government contractors for communications security purposes;
+&emsp;“(1) intercept encrypted or other official communications of United States executive branch entities or United States Government contractors for communications security purposes;
 
 &emsp;“(2) intercept radio communications transmitted between or among foreign powers or agents of a foreign power as defined by the Foreign Intelligence Surveillance Act of 1978 \[50 U.S.C. 1801 et seq.\]; or
 
@@ -204,7 +206,7 @@ Certain Activities Under Procedures Approved by the Attorney General.—Nothing 
 
 Section 801 of Pub. L. 90–351 provided that: “On the basis of its own investigations and of published studies, the Congress makes the following findings:
 
-“(a) Wire communications are normally conducted through the use of facilities which form part of an interstate network. The same facilities are used for interstate and intrastate communications. There has been extensive wiretapping carried on without legal sanctions, and without the consent of any of the parties to the conversation. Electronic, mechanical, and other intercepting devices are being used to overhear oral conversations made in private, without the consent of any of the parties to such communications. The contents of these communications and evidence derived therefrom are being used by public and private parties as evidence in court and administrative proceedings, and by persons whose activities affect interstate commerce. The possession, manufacture, distribution, advertising, and use of these devices are facilitated by interstate commerce.
+“(a) Wire communications are normally conducted through the use of facilities which form part of an interstate network. The same facilities are used for interstate and intrastate communications. There has been extensive wiretapping carried on without legal sanctions, and without the consent of any of the parties to the conversation. Electronic, mechanical, and other intercepting devices are being used to overhear oralconversations made in private, without the consent of any of the parties to such communications. The contents of these communications and evidence derived therefrom are being used by public and private parties as evidence in court and administrative proceedings, and by persons whose activities affect interstate commerce. The possession, manufacture, distribution, advertising, and use of these devices are facilitated by interstate commerce.
 
 “(b) In order to protect effectively the privacy of wire and oral communications, to protect the integrity of court and administrative proceedings, and to prevent the obstruction of interstate commerce, it is necessary for Congress to define on a uniform basis the circumstances and conditions under which the interception of wire and oral communications may be authorized, to prohibit any unauthorized interception of such communications, and the use of the contents thereof in evidence in courts and administrative proceedings.
 
@@ -221,6 +223,4 @@ Section 804 of Pub. L. 90–351, as amended by Pub. L. 91–452, title XII, §12
 This section is referred to in sections 2517, 2711, 3103a, 3127, 3504 of this title; title 15 section 1114; title 27 section 122b; title 42 section 13032; title 47 section 1001.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Federal Election Commission—
+The Election Assistance Commission—
 
 &emsp;(1) in consultation with the chief election officers of the States, shall prescribe such regulations as are necessary to carry out paragraphs (2) and (3);
 
@@ -36,9 +36,17 @@ The mail voter registration form developed under subsection (a)(2) of this secti
 
 &emsp;&emsp;(iii) a statement that if an applicant does register to vote, the office at which the applicant submits a voter registration application will remain confidential and will be used only for voter registration purposes.
 
-(Pub. L. 103–31, §9, May 20, 1993, 107 Stat. 87.)
+(Pub. L. 103–31, §9, May 20, 1993, 107 Stat. 87; Pub. L. 107–252, title VIII, §802(b), Oct. 29, 2002, 116 Stat. 1726.)
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–252 substituted “Election Assistance Commission” for “Federal Election Commission” in introductory provisions.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–252 effective upon appointment of all members of the Election Assistance Commission under section 15323 of this title, see section 15534(a) of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1973gg–4, 1973gg–5 of this title.
+This section is referred to in sections 1973gg–4, 1973gg–5, 15329, 15532 of this title.
 

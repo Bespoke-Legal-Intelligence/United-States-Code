@@ -176,7 +176,7 @@
 
 #### (ii) Publication by the Secretary
 
-&emsp;&emsp;&emsp;The consensus committee shall provide to the Secretary any revision proposed by the consensus committee, which the Secretary shall, not later than 30 calendar days after receipt, cause to be published inthe Federal Register a notice of the recommended revisions of the consensus committee to the standards, a notice of the submission of the recommended revisions to the Secretary, and a description of the circumstances under which the proposed revised standards could become effective.
+&emsp;&emsp;&emsp;The consensus committee shall provide to the Secretary any revision proposed by the consensus committee, which the Secretary shall, not later than 30 calendar days after receipt, cause to be published in the Federal Register a notice of the recommended revisions of the consensus committee to the standards, a notice of the submission of the recommended revisions to the Secretary, and a description of the circumstances under which the proposed revised standards could become effective.
 
 #### (iii) Publication of rejected proposed revised standards
 
@@ -284,7 +284,7 @@
 
 #### (c) Effective date of orders establishing standards
 
-Each order establishing a Federal manufactured home construction and safety standard shall specify the date such standard is to take effect, which shall not be sooner than one hundred and eighty days or later than one year after the date such order is issued, unless the Secretary finds, for good cause shown, that an earlier or later effective date is in the public interest, and publishes his reasons for such finding.
+Each order establishing a Federal manufactured home construction and safety standardshall specify the date such standard is to take effect, which shall not be sooner than one hundred and eighty days or later than one year after the date such order is issued, unless the Secretary finds, for good cause shown, that an earlier or later effective date is in the public interest, and publishes his reasons for such finding.
 
 #### (d) Supremacy of Federal standards
 
@@ -366,7 +366,7 @@ Subsec. (j). Pub. L. 106–569, §604(6), (7), substituted “subsection (e) of 
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order orinterpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
+Amendment by Pub. L. 106–569 effective Dec. 27, 2000, except that amendment has no effect on any order or interpretative bulletin issued under this chapter and published as a proposed rule pursuant to 5 U.S.C. 553 on or before Dec. 27, 2000, see section 612 of Pub. L. 106–569, set out as a note under section 5401 of this title.
 
 #### Exception to Federal Preemption for Thermal Insulation and Energy Efficiency Standards
 

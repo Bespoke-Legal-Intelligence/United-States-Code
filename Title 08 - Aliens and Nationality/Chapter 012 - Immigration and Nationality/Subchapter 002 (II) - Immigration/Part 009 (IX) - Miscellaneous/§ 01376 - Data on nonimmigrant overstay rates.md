@@ -14,3 +14,7 @@ Not later than June 30, 1999, and not later than June 30 of each year thereafter
 
 Section was not enacted as part of the Immigration and Nationality Act which comprises this chapter.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+

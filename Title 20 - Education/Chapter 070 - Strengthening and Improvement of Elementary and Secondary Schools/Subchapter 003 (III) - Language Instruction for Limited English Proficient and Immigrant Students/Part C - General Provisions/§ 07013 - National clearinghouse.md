@@ -1,8 +1,8 @@
 ### §7013. National clearinghouse
 
-The Secretary shall establish and support the operation of a National Clearinghouse for English Language Acquisition and Language Instruction Educational Programs, which shall collect, analyze, synthesize, and disseminate information about language instruction educational programs for limited English proficient children, and related programs. The National Clearinghouse shall—
+The Secretary shall establish and support the operation of a National Clearinghouse for English Language Acquisition and Language Instruction Educational Programs, which shall collect, analyze, synthesize, and disseminate information about language instruction educational programs for limited English proficientchildren, and related programs. The National Clearinghouse shall—
 
-&emsp;(1) be administered as an adjunct clearinghouse of the Educational Resources Information Center Clearinghouses system supported by the Office of Educational Research and Improvement;
+&emsp;(1) be administered as an adjunct clearinghouse of the Educational Resources Information Center Clearinghouses system supported by the Institute of Education Sciences;
 
 &emsp;(2) coordinate activities with Federal data and information clearinghouses and entities operating Federal dissemination networks and systems;
 
@@ -16,11 +16,15 @@ The Secretary shall establish and support the operation of a National Clearingho
 
 &emsp;(5) publish, on an annual basis, a list of grant recipients under this subchapter.
 
-(Pub. L. 89–10, title III, §3303, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1733.)
+(Pub. L. 89–10, title III, §3303, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1733; amended Pub. L. 107–279, title IV, §404(d)(5)(B), Nov. 5, 2002, 116 Stat. 1986.)
 
 #### Prior Provisions
 
 A prior section 3303 of Pub. L. 89–10 was classified to section 6923 of this title, prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Amendments
+
+2002—Par. (1). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement”.
 
 #### Section Referred to in Other Sections
 

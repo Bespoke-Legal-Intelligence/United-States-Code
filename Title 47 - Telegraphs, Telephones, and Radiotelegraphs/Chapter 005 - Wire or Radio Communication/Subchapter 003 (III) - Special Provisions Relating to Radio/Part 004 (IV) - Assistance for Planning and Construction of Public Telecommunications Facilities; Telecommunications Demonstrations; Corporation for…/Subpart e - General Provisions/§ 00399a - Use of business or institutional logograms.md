@@ -10,7 +10,7 @@ Each public television station and each public radio station shall be authorized
 
 #### (c) Authority of Commission not limited
 
-The provisions of this section shall not be construed to limit the authority of the Commissionto prescribe regulations relating to the manner in which logograms may be used to identify corporations, companies, or other organizations.
+The provisions of this section shall not be construed to limit the authority of the Commission to prescribe regulations relating to the manner in which logograms may be used to identify corporations, companies, or other organizations.
 
 (June 19, 1934, ch. 652, title III, §399A, as added Pub. L. 97–35, title XII, §1230, Aug. 13, 1981, 95 Stat. 730.)
 

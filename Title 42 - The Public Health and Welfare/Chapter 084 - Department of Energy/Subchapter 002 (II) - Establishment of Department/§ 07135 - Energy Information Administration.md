@@ -8,7 +8,7 @@
 
 #### (b) Delegation of functions
 
-The Secretary shall delegate to the Administrator (which delegation may be on a nonexclusive basis as the Secretary may determine may be necessary to assure the faithful execution of his authorities and responsibilities under law) the functions vested in him by law relating to gathering, analysis, and dissemination of energy information (as defined in section 796 of title 15) and the Administrator may act in the name of the Secretary for the purpose of obtaining enforcement of such delegated functions.
+The Secretary shall delegate to the Administrator (which delegation may be on a nonexclusive basis as the Secretary may determine may be necessary to assure the faithful execution of his authorities and responsibilities under law) the functions vested in him by law relating togathering, analysis, and dissemination of energy information (as defined in section 796 of title 15) and the Administrator may act in the name of the Secretary for the purpose of obtaining enforcement of such delegated functions.
 
 #### (c) Functions of Director of Office of Energy Information and Analysis
 
@@ -20,7 +20,7 @@ The Administrator shall not be required to obtain the approval of any other offi
 
 #### (e) Annual audit
 
-The Energy Information Administration shall be subject to an annual professional audit review of performance as described in section 55 <sup>1</sup>of part B of the Federal Energy Administration Act of 1974.
+The Energy Information Administration shall be subject to an annual professional audit review of performance as described in section 55 <sup>1</sup> of part B of the Federal Energy Administration Act of 1974.
 
 #### (f) Furnishing information or analysis to any other administration, commission, or office within Department
 

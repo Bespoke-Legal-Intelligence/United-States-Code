@@ -22,7 +22,7 @@ A request for the granting of posthumous citizenship to a person described in su
 
 &emsp;(1) the request is filed not later than 2 years after—
 
-&emsp;&emsp;(A) March 6, 1990, or
+&emsp;&emsp;(A) November 2, 2002, or
 
 &emsp;&emsp;(B) the date of the person's death, whichever date is later;
 
@@ -32,11 +32,19 @@ A request for the granting of posthumous citizenship to a person described in su
 
 #### (d) Documentation of posthumous citizenship
 
-If the Attorney General approves such a request to grant a person posthumous citizenship, the Attorney General shall send to the individual who filed the request a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person's death.
+If the Attorney General approves such a request to grant a person posthumous citizenship,the Attorney General shall send to the individual who filed the request a suitable document which states that the United States considers the person to have been a citizen of the United States at the time of the person's death.
 
 #### (e) No benefits to survivors
 
 Nothing in this section or section 1430(d) of this title shall be construed as providing for any benefits under this chapter for any spouse, son, daughter, or other relative of a person granted posthumous citizenship under this section.
 
-(June 27, 1952, ch. 477, title III, ch. 2, §329A, as added Pub. L. 101–249, §2(a), Mar. 6, 1990, 104 Stat. 94.)
+(June 27, 1952, ch. 477, title III, ch. 2, §329A, as added Pub. L. 101–249, §2(a), Mar. 6, 1990, 104 Stat. 94; Pub. L. 107–273, div. C, title I, §11030(b), Nov. 2, 2002, 116 Stat. 1836.)
+
+#### Amendments
+
+2002—Subsec. (c)(1)(A). Pub. L. 107–273 substituted “November 2, 2002,” for “March 6, 1990,”.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

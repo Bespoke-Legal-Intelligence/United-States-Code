@@ -52,7 +52,7 @@ For the purpose of this section, the term—
 
 &emsp;&emsp;(A) any vessel owned or operated by the Department of Defense, other than a time or voyage chartered vessel; and
 
-&emsp;&emsp;(B) any vessel owned or operated by the Department of Transportation that is designated by the Secretary of the department in which the Coast Guard is operating as a vessel equivalent to a vessel described in subparagraph (A).
+&emsp;&emsp;(B) any vessel owned or operated by the Department of Transportation that is designated by the Secretary of the departmentin which the Coast Guard is operating as a vessel equivalent to a vessel described in subparagraph (A).
 
 #### (b) Federal standards of performance
 
@@ -80,7 +80,7 @@ Before the standards and regulations under this section are promulgated, the Adm
 
 (1)(A) Except as provided in subparagraph (B), after the effective date of the initial standards and regulations promulgated under this section, no State or political subdivision thereof shall adopt or enforce any statute or regulation of such State or political subdivision with respect to the design, manufacture, or installation or use of any marine sanitation device on any vessel subject to the provisions of this section.
 
-(B) A State may adopt and enforce a statute or regulation with respect to the design, manufacture, or installation or use of any marine sanitation device on a houseboat, if such statute or regulation is more stringent than the standards and regulations promulgated under this section. For purposes of this paragraph, the term “houseboat” means a vessel which, for a period of time determined by the State in which the vessel is located, is used primarily as a residenceand is not used primarily as a means of transportation.
+(B) A State may adopt and enforce a statute or regulation with respect to the design, manufacture, or installation or use of any marine sanitation device on a houseboat, if such statute or regulation is more stringent than the standards and regulations promulgated under this section. For purposes of this paragraph, the term “houseboat” means a vessel which, for a period of time determined by the State in which the vessel is located, is used primarily as a residence and is not used primarily as a means of transportation.
 
 (2) If, after promulgation of the initial standards and regulations and prior to their effective date, a vessel is equipped with a marine sanitation device in compliance with such standards and regulations and the installation and operation of such device is in accordance with such standards and regulations, such standards and regulations shall, for the purposes of paragraph (1) of this subsection, become effective with respect to such vessel on the date of such compliance.
 
@@ -246,11 +246,11 @@ In the case of Guam and the Trust Territory of the Pacific Islands, actions aris
 
 &emsp;&emsp;&emsp;&emsp;(II) regulations promulgated by the Secretary of Defense under paragraph (4);
 
-&emsp;&emsp;&nbsp;if a State determines that the protection and enhancement of the quality of some or all of the waters within the State require greater environmental protection, theState may prohibit 1 or more discharges incidental to the normal operation of a vessel, whether treated or not treated, into the waters. No prohibition shall apply until the Administrator makes the determinations described in subclauses (II) and (III) of subparagraph (B)(i).
+&emsp;&emsp;&nbsp;if a State determines that the protection and enhancement of the quality of some or all of the waters within the State require greater environmental protection, the State may prohibit 1 or more discharges incidental to the normal operation of a vessel, whether treated or not treated, into the waters. No prohibition shall apply until the Administrator makes the determinations described in subclauses (II) and (III) of subparagraph (B)(i).
 
 #### (ii) Documentation
 
-&emsp;&emsp;&emsp;To the extent that a prohibition under this paragraph would apply to vessels of the Armed Forces and not to other types of vessels, the State shall document the technical or environmental basis for the distinction.
+&emsp;&emsp;&emsp;To the extent that a prohibition under this paragraph would apply to vessels of the Armed Forces and not to other typesof vessels, the State shall document the technical or environmental basis for the distinction.
 
 #### (B) Prohibition by the Administrator
 
@@ -321,6 +321,10 @@ Subsec. (f)(4). Pub. L. 95–217, §59(e), designated existing provisions as sub
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (e) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Termination of Trust Territory of the Pacific Islands
 
@@ -436,7 +440,7 @@ Lists of stations and facilities.—The Secretary of the Interior shall transmit
 
 &emsp;&emsp;“(B)
 
-Completion of project.—The Director of the United States Fish and Wildlife Service shall notify the Under Secretary of the location of each station or facility at which a construction or renovation project is completed by a State with amounts made available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), as amended by this subtitle, by not later than 30 days after the date of notification by a State of the completion of the project.
+Completion of project.—The Director of the United States Fish and Wildlife Service shall notify the Under Secretary of the location of eachstation or facility at which a construction or renovation project is completed by a State with amounts made available under the Act of August 9, 1950 (16 U.S.C. 777a et seq. \[16 U.S.C. 777 et seq.\]), as amended by this subtitle, by not later than 30 days after the date of notification by a State of the completion of the project.
 
 #### “SEC. 5604. FUNDING.
 

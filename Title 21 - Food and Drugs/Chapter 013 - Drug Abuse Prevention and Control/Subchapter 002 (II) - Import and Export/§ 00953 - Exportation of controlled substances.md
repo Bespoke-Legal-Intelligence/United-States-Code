@@ -68,5 +68,5 @@ Amendment by Pub. L. 95–633 effective on date the Convention on Psychotropic S
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 954, 956, 960 of this title; title 18 section 5032; title 48 section 1972.
+This section is referred to in sections 954, 956, 960 of this title; title 18 section 5032; title 19 section 1583; title 48 section 1972.
 

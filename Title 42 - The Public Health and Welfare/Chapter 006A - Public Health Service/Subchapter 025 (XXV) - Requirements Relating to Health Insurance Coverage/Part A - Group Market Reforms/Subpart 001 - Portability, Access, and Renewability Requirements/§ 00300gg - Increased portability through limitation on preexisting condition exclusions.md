@@ -370,5 +370,5 @@ Reports.—Not later than January 1, 2000, the Secretary shall submit to the app
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300e, 300gg–1, 300gg–21, 300gg–23, 300gg–41, 300gg–43, 300gg–91, 1395ss, 1396a, 1397jj of this title.
+This section is referred to in sections 300e, 300bb–5, 300gg–1, 300gg–21, 300gg–23, 300gg–41, 300gg–43, 300gg–91, 1395ss, 1396a, 1397jj of this title; title 26 section 4980B; title 29 section 1165.
 

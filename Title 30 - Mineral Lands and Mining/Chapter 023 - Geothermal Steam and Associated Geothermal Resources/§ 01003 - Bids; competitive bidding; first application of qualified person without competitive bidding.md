@@ -20,7 +20,7 @@ If lands to be leased under this chapter are within any known geothermal resourc
 
 #### (e) Regulations; substantial expenditures for exploration, development, or production of geothermal steam requisite for conversion
 
-&emsp;the conversion of leases, permits, and mining claims and applications for leases and permits shall be accomplished in accordance with regulations prescribed by the Secretary. No right to conversion to a geothermal lease shall accrue to any person under this section unless such person shows to the reasonable satisfaction of the Secretary that substantial expenditures for the exploration, development, or production of geothermal steam have been made by the applicant who is seeking conversion, onthe lands for which a lease is sought or on adjoining, adjacent, or nearby Federal or non-Federal lands.
+&emsp;the conversion of leases, permits, and mining claims and applications for leases and permits shall be accomplished in accordance with regulations prescribed by the Secretary. No right to conversion to a geothermal lease shall accrue to any person under this section unless such person shows to the reasonable satisfaction of the Secretary that substantial expenditures for the exploration, development, or production of geothermal steam have been made by the applicant who is seeking conversion, on the lands for which a lease is sought or on adjoining, adjacent, or nearby Federal or non-Federal lands.
 
 #### (f) Competitive geothermal lease; time for payment of highest bid and first year rental
 

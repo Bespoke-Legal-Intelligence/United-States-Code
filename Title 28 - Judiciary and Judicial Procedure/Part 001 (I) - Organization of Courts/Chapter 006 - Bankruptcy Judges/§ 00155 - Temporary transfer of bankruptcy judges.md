@@ -8,9 +8,9 @@
 
 #### Amendments
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–659 inserted “section 377 of this title or in” after “annuity in” and “which are applicable to such judge” after “title 5”.
+1988—Subsec. (b). Pub. L. 100–659 inserted “section 377 of this title or in” after “annuity in” and “which are applicable to such judge” after “title 5”.
 
-<b>1986</b>—Subsec. (b). Pub. L. 99–651 inserted reference to chapter 84 of title 5.
+1986—Subsec. (b). Pub. L. 99–651 inserted reference to chapter 84 of title 5.
 
 #### Effective Date of 1988 Amendment
 

@@ -40,7 +40,7 @@
 
 &emsp;&emsp;(B)(i) is not on a foreign voyage; or
 
-&emsp;&emsp;(ii) engaged in the Aleutian trade (except a vessel in that trade assigned a load line at any time before June 1, 1992).
+&emsp;&emsp;(ii) is not engaged in the Aleutian trade (except a vessel in that trade assigned a load line at any time before June 1, 1992).
 
 &emsp;(6) a vessel of the United States on a domestic voyage that does not cross the Boundary Line, except a voyage on the Great Lakes.
 
@@ -48,7 +48,7 @@
 
 &emsp;(8) a public vessel of the United States on a domestic voyage.
 
-&emsp;(9) a vessel excluded from the application of this chapter by an international agreement towhich the United States Government is a party.
+&emsp;(9) a vessel excluded from the application of this chapter by an international agreement to which the United States Government is a party.
 
 &emsp;(10) an existing vessel of not more than 150 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title that is on a domestic voyage.
 
@@ -60,7 +60,7 @@
 
 (d) This chapter does not affect an international agreement to which the Government is a party that is not in conflict with the International Convention on Load Lines currently in force for the United States.
 
-(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1914; Pub. L. 101–595, title VI, §602(d), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 104–324, title VII, §719, Oct. 19, 1996, 110 Stat. 3938.)
+(Pub. L. 99–509, title V, §5101(2), Oct. 21, 1986, 100 Stat. 1914; Pub. L. 101–595, title VI, §602(d), Nov. 16, 1990, 104 Stat. 2991; Pub. L. 104–324, title VII, §719, Oct. 19, 1996, 110 Stat. 3938; Pub. L. 107–295, title IV, §436(a), Nov. 25, 2002, 116 Stat. 2129.)
 
 #### Historical and Revision Notes
 
@@ -120,9 +120,11 @@ Section 5102(d) provides that this chapter shall not be construed as abrogating 
 
 #### Amendments
 
+2002—Subsec. (b)(5)(B)(ii). Pub. L. 107–295 inserted “is not” after “(ii)”.
+
 1996—Subsec. (b)(4). Pub. L. 104–324, §719(1), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “5,000 gross tons” in introductory provisions.
 
-Subsec. (b)(5). Pub. L. 104–324, §719(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this titleas prescribed by the Secretary under section 14104 of this title” after “500 gross tons” in introductory provisions.
+Subsec. (b)(5). Pub. L. 104–324, §719(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “500 gross tons” in introductory provisions.
 
 Subsec. (b)(10). Pub. L. 104–324, §719(3), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “150 gross tons”.
 
@@ -131,4 +133,26 @@ Subsec. (b)(10). Pub. L. 104–324, §719(3), inserted “as measured under sect
 #### Effective Date of 1990 Amendment
 
 Amendment by Pub. L. 101–595 effective Nov. 16, 1990, with provision that before Jan. 1, 2003, a fish tender vessel is exempt from this chapter when engaged in Aleutian trade if the vessel either operated in that trade before Sept. 8, 1990, or was purchased before that date to be used in such trade and entered into service in that trade before June 1, 1992, did not undergo a major conversion, and did not have a load line assigned at any time before Nov. 16, 1990, see section 602(f) of Pub. L. 101–595, set out as a note under section 4502 of this title.
+
+#### Fish Tender Vessels in Aleutian Trade
+
+Pub. L. 107–295, title IV, §436(b), (c), Nov. 25, 2002, 116 Stat. 2129, provided that:
+
+“(b)
+
+Implementation.—Except as provided in subsection (c), a fish tender vessel that before January 1, 2003, transported cargo (not including fishery related products) in the Aleutian trade is subject to chapter 51 of title 46, United States Code (as amended by subsection (a) of this section \[amending this section\]).
+
+“(c)
+
+Exception.—
+
+&emsp;“(1)
+
+In general.—Before December 31, 2006, the BOWFIN (United States official number 604231) is exempt from chapter 51 of title 46, United States Code (as amended by subsection (a) of this section) when engaged in the Aleutian trade, if the vessel does not undergo a major conversion.
+
+&emsp;“(2)
+
+Ensuring safety.—Before the date referred to in paragraph (1), a Coast Guard official who has reason to believe that the vessel referred to in paragraph (1) operating under this subsection is in a condition or is operated in a manner that creates an immediate threat to life or the environment or is operated in a manner that is inconsistent with section 3302 of title 46, United States Code, may direct the master or individual in charge to take immediate and reasonable steps to safeguard life and the environment, including directing the vessel to a port or other refuge.”
+
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

@@ -12,7 +12,7 @@ Congress finds that—
 
 &emsp;(4) individuals with developmental disabilities often encounter discrimination in the provision of critical services, such as services in the areas of emphasis (as defined in section 15002 of this title);
 
-&emsp;(5) individuals with developmental disabilities are at greater risk than the general population of abuse, neglect, financial and sexualexploitation, and the violation of their legal and human rights;
+&emsp;(5) individuals with developmental disabilities are at greater risk than the general population of abuse, neglect, financial and sexual exploitation, and the violation of their legal and human rights;
 
 &emsp;(6) a substantial portion of individuals with developmental disabilities and their families do not have access to appropriate support and services, including access to assistive technology, from generic and specialized service systems, and remain unserved or underserved;
 
@@ -72,7 +72,7 @@ The purpose of this subchapter is to assure that individuals with developmental 
 
 &emsp;&emsp;&emsp;(i) that provide training and technical assistance for individuals with developmental disabilities, their families, professionals, paraprofessionals, policymakers, students, and other members of the community; and
 
-&emsp;&emsp;&emsp;(ii) that may provide services, supports, and assistance for the persons described inclause (i) through demonstration and model activities;
+&emsp;&emsp;&emsp;(ii) that may provide services, supports, and assistance for the persons described in clause (i) through demonstration and model activities;
 
 &emsp;&emsp;(C) to conduct research, which may include basic or applied research, evaluation, and the analysis of public policy in areas that affect or could affect, either positively or negatively, individuals with developmental disabilities and their families; and
 
@@ -126,7 +126,7 @@ Pub. L. 106–402, title II, §201, Oct. 30, 2000, 114 Stat. 1728, provided that
 
 Ex. Ord. No. 12994, Mar. 21, 1996, 61 F.R. 13047, provided:
 
-The President's Committee on Mental Retardation, established by Executive Order No. 11280 \[former 42U.S.C. note prec. 2661\] on May 11, 1966, as superseded by Executive Order No. 11776 on March 28, 1974, has organized national planning, stimulated development of plans, policies and programs, and advanced the concept of community participation in the field of mental retardation.
+The President's Committee on Mental Retardation, established by Executive Order No. 11280 \[former 42 U.S.C. note prec. 2661\] on May 11, 1966, as superseded by Executive Order No. 11776 on March 28, 1974, has organized national planning, stimulated development of plans, policies and programs, and advanced the concept of community participation in the field of mental retardation.
 
 National goals have been established to:
 

@@ -66,11 +66,11 @@ Actions to reduce non-defense accounts shall be taken in the following order:
 
 #### (1) Adjustments
 
-&emsp;&emsp;(A) When the President submits the budget for fiscal year 1992, the maximum deficit amounts for fiscal years 1992, 1993, 1994, and 1995 shall be adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions. When the President submits thebudget for fiscal year 1993, the maximum deficit amounts for fiscal years 1993, 1994, and 1995 shall be further adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions.
+&emsp;&emsp;(A) When the President submits the budget for fiscal year 1992, the maximum deficit amounts for fiscal years 1992, 1993, 1994, and 1995 shall be adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions. When the President submits the budget for fiscal year 1993, the maximum deficit amounts for fiscal years 1993, 1994, and 1995 shall be further adjusted to reflect up-to-date reestimates of economic and technical assumptions and any changes in concepts or definitions.
 
 &emsp;&emsp;(B) When submitting the budget for fiscal year 1994, the President may choose to adjust the maximum deficit amounts for fiscal years 1994 and 1995 to reflect up-to-date reestimates of economic and technical assumptions. If the President chooses to adjust the maximum deficit amount when submitting the fiscal year 1994 budget, the President may choose to invoke the same adjustment procedure when submitting the budget for fiscal year 1995. In each case, the President must choose between making no adjustment or the full adjustment described in paragraph (2). If the President chooses to make that full adjustment, then those procedures for adjusting discretionary spending limits described in sections 901(b)(1)(C) <sup>1</sup> and 901(b)(2)(E) <sup>1</sup> of this title, otherwise applicable through fiscal year 1993 or 1994 (as the case may be), shall be deemed to apply for fiscal year 1994 (and 1995 if applicable).
 
-&emsp;&emsp;(C) When the budget for fiscal year 1994 or 1995 is submitted and the sequestration reports for those years under section 904 of this title are made (as applicable), if the President does not choose to make the adjustments set forth in subparagraph (B), the maximum deficit amount for that fiscal year shall be adjusted by the amount of the adjustment to discretionary spending limits first applicable for that year (if any) under section 901(b) of this title.
+&emsp;&emsp;(C) When the budget for fiscal year 1994 or 1995 is submitted and the sequestration reports for those years under section 904 ofthis title are made (as applicable), if the President does not choose to make the adjustments set forth in subparagraph (B), the maximum deficit amount for that fiscal year shall be adjusted by the amount of the adjustment to discretionary spending limits first applicable for that year (if any) under section 901(b) of this title.
 
 &emsp;&emsp;(D) For each fiscal year the adjustments required to be made with the submission of the President's budget for that year shall also be made when OMB submits the sequestration update report and the final sequestration report for that year, but OMB shall continue to use the economic and technical assumptions in the President's budget for that year.
 
@@ -122,7 +122,7 @@ November 5, 1990, referred to in subsec. (g)(2)(B), was in the original “the d
 
 #### Amendments
 
-1990—Pub. L. 101–508 amended section generally, substituting provisions relating to enforcement of deficittargets for provisions relating to compliance report by Comptroller General.
+1990—Pub. L. 101–508 amended section generally, substituting provisions relating to enforcement of deficit targets for provisions relating to compliance report by Comptroller General.
 
 1987—Pub. L. 100–119 amended section generally, designating existing provisions as par. (1), substituting “(or December 15, 1987, in the case of the fiscal year 1988)” for “(or on or before April 1, 1986, in the case of the fiscal year 1986)”, and adding pars. (2) and (3).
 

@@ -22,7 +22,7 @@ Programs authorized by this chapter shall be undertaken with the foreign policy 
 
 #### (e) Temporary assignment of employees
 
-The head of any of the departments or agencies referred to in subsection (a) of this section may temporarily assign, upon the request of the Chairman, any employee from such department or agency to the staff of the Committee.
+The head of any of the departments or agencies referred to in subsection (a) of this sectionmay temporarily assign, upon the request of the Chairman, any employee from such department or agency to the staff of the Committee.
 
 #### (f) Studies
 

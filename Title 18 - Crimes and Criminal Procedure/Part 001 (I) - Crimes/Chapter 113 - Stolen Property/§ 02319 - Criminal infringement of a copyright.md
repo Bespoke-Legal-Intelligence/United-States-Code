@@ -32,9 +32,9 @@
 
 &emsp;(1) the terms “phonorecord” and “copies” have, respectively, the meanings set forth in section 101 (relating to definitions) of title 17; and
 
-&emsp;(2) the terms “reproduction” and “distribution” refer to the exclusive rights of a copyright owner under clauses (1) and (3) respectively of section 106 (relating to exclusive rights in copyrighted works), as limited by sections 107 through 120, of title 17.
+&emsp;(2) the terms “reproduction” and “distribution” refer to the exclusive rights of a copyright owner under clauses (1) and (3) respectively of section 106 (relating to exclusive rights in copyrighted works), as limited by sections 107 through 122, of title 17.
 
-(Added Pub. L. 97–180, §3, May 24, 1982, 96 Stat. 92; amended Pub. L. 102–561, Oct. 28, 1992, 106 Stat. 4233; Pub. L. 105–80, §12(b)(2), Nov. 13, 1997, 111 Stat. 1536; Pub. L. 105–147, §2(d), Dec. 16, 1997, 111 Stat. 2678.)
+(Added Pub. L. 97–180, §3, May 24, 1982, 96 Stat. 92; amended Pub. L. 102–561, Oct. 28, 1992, 106Stat. 4233; Pub. L. 105–80, §12(b)(2), Nov. 13, 1997, 111 Stat. 1536; Pub. L. 105–147, §2(d), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 107–273, div. C, title III, §13211(a), Nov. 2, 2002, 116 Stat. 1910.)
 
 #### References in Text
 
@@ -42,11 +42,13 @@ The Federal Rules of Criminal Procedure, referred to in subsec. (d)(1), are set 
 
 #### Amendments
 
+2002—Subsec. (e)(2). Pub. L. 107–273 substituted “107 through 122” for “107 through 120”.
+
 1997—Subsec. (a). Pub. L. 105–147, §2(d)(1), substituted “subsections (b) and (c)” for “subsection (b)”.
 
 Subsec. (b). Pub. L. 105–147, §2(d)(2)(A), substituted “section 506(a)(1) of title 17” for “subsection (a) of this section” in introductory provisions.
 
-Subsec. (b)(1). Pub. L. 105–147, §2(d)(2)(B), inserted “including by electronic means,” after “if the offenseconsists of the reproduction or distribution,” and substituted “which have a total retail value of more than $2,500” for “with a retail value of more than $2,500”.
+Subsec. (b)(1). Pub. L. 105–147, §2(d)(2)(B), inserted “including by electronic means,” after “if the offense consists of the reproduction or distribution,” and substituted “which have a total retail value of more than $2,500” for “with a retail value of more than $2,500”.
 
 Pub. L. 105–80, substituted “at least 10 copies” for “at last 10 copies”.
 

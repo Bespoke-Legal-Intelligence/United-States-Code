@@ -10,7 +10,7 @@
 
 &emsp;(3) identify specific facilities within the Veterans Health Administration at which program enrichment is needed to improve treatment and rehabilitation of such veterans; and
 
-&emsp;(4) identify model programs which the committee considers to have been successful in the treatment and rehabilitation of such veteransand which should be implemented more widely in or through facilities of the Veterans Health Administration.
+&emsp;(4) identify model programs which the committee considers to have been successful in the treatment and rehabilitation of such veterans and which should be implemented more widely in or through facilities of the Veterans Health Administration.
 
 (c) The committee shall—
 

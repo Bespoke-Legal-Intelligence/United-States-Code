@@ -18,7 +18,7 @@
 
 > the Secretary shall approve such training for the worker. Upon such approval, the worker shall be entitled to have payment of the costs of such training (subject to the limitations imposed by this section) paid on his behalf by the Secretary directly or through a voucher system. Insofar as possible, the Secretary shall provide or assure the provision of such training on the job, which shall include related education necessary for the acquisition of skills needed for a position within a particular occupation.
 
-(2)(A) The total amount of payments that may be made under paragraph (1) for any fiscal year shall not exceed $80,000,000, except that for fiscal year 1997, the total amount of payments made under paragraph (1) shall not exceed $70,000,000.
+(2)(A) The total amount of payments that may be made under paragraph (1) for any fiscal year shall not exceed $220,000,000.
 
 (B) If, during any fiscal year, the Secretary estimates that the amount of funds necessary to pay the costs of training approved under this section will exceed the amount of the limitation imposed under subparagraph (A), the Secretary shall decide how the portion of such limitation that has not been expended at the time of such estimate is to be apportioned among the States for the remainder of such fiscal year.
 
@@ -32,11 +32,15 @@
 
 &emsp;(ii) are reimbursable under any other provision of Federal law and a portion of such costs have already been paid under such other provision of Federal law.
 
-(C) The provisions of this paragraph shall not apply to, or take into account, any funds provided under any other provision of Federal law which are used for any purpose other than the direct payment of the costs incurred in training a particular adversely affected worker, even ifsuch use has the effect of indirectly paying or reducing any portion of the costs involved in training the adversely affected worker.
+(C) The provisions of this paragraph shall not apply to, or take into account, any funds provided under any other provision of Federal law which are used for any purpose other than the direct payment of the costs incurred in training a particular adversely affected worker, even if such use has the effect of indirectly paying or reducing any portion of the costs involved in training the adversely affected worker.
 
 (5) The training programs that may be approved under paragraph (1) include, but are not limited to—
 
-&emsp;(A) on-the-job training,
+&emsp;(A) employer-based training, including—
+
+&emsp;&emsp;(i) on-the-job training, and
+
+&emsp;&emsp;(ii) customized training,
 
 &emsp;(B) any training program provided by a State pursuant to title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\],
 
@@ -98,11 +102,11 @@ The Secretary shall pay the costs of any on-the-job training of an adversely aff
 
 &emsp;(7) such training is not for the same occupation from which the worker was separated and with respect to which such worker's group was certified pursuant to section 2272 of this title,
 
-&emsp;(8) the employer certifies to the Secretary that the employer will continue to employ such worker for at least 26 weeks after completion of such training if the worker desires to continue such employment and the employer does not have due cause to terminate such employment,
+&emsp;(8) the employer is provided reimbursement of not more than 50 percent of the wage rate of the participant, for the cost of providing the training and additional supervision related to the training,
 
 &emsp;(9) the employer has not received payment under subsection (a)(1) of this section with respect to any other on-the-job training provided by such employer which failed to meet the requirements of paragraphs (1), (2), (3), (4), (5), and (6), and
 
-&emsp;(10) the employer has not taken, at any time, any action which violated the terms of any certification described in paragraph (8) made by such employer with respect to anyother on-the-job training provided by such employer for which the Secretary has made a payment under subsection (a)(1) of this section.
+&emsp;(10) the employer has not taken, at any time, any action which violated the terms of any certification described in paragraph (8) made by such employer with respect to any other on-the-job training provided by such employer for which the Secretary has made a payment under subsection (a)(1) of this section.
 
 #### (d) Eligibility for unemployment insurance
 
@@ -112,7 +116,17 @@ A worker may not be determined to be ineligible or disqualified for unemployment
 
 For purposes of this section the term “suitable employment” means, with respect to a worker, work of a substantially equal or higher skill level than the worker's past adversely affected employment, and wages for such work at not less than 80 percent of the worker's average weekly wage.
 
-(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431.)
+#### (f) “Customized training” defined
+
+For purposes of this section, the term “customized training” means training that is—
+
+&emsp;(1) designed to meet the special requirements of an employer or group of employers;
+
+&emsp;(2) conducted with a commitment by the employer or group of employers to employ an individual upon successful completion of the training; and
+
+&emsp;(3) for which the employer pays for a significant portion (but in no case less than 50 percent) of the cost of such training, as determined by the Secretary.
+
+(Pub. L. 93–618, title II, §236, Jan. 3, 1975, 88 Stat. 2023; Pub. L. 97–35, title XXV, §2506(2), Aug. 13, 1981, 95 Stat. 885; Pub. L. 99–272, title XIII, §13004(a), Apr. 7, 1986, 100 Stat. 301; Pub. L. 100–418, title I, §1424(a)–(c), Aug. 23, 1988, 102 Stat. 1248, 1249; Pub. L. 100–647, title IX, §9001(a)(20), Nov. 10, 1988, 102 Stat. 3808; Pub. L. 103–66, title XIII, §13803(b), Aug. 10, 1993, 107 Stat. 668; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(14)(A), (f)(11)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431; Pub. L. 107–210, div. A, title I, §§117, 118, Aug. 6, 2002, 116 Stat. 941.)
 
 #### References in Text
 
@@ -123,6 +137,14 @@ The Workforce Investment Act of 1998, referred to in subsec. (a)(5)(B), is Pub. 
 Section 102 of such Act, referred to in subsec. (a)(5)(C), meaning section 102 of the Job Training Partnership Act, was classified to section 1512 of Title 29, Labor, and was repealed by Pub. L. 105–220, title I, §199(b)(2), (c)(2)(B), Aug. 7, 1998, 112 Stat. 1059, effective July 1, 2000. Pursuant to section 2940(b) of Title 29, references to a provision of the Job Training Partnership Act, effective Aug. 7, 1998, are deemed to refer to that provision or the corresponding provision of the Workforce Investment Act of 1998, Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, and effective July 1, 2000, are deemed to refer to the corresponding provision of the Workforce Investment Act of 1998. For complete classification of the Workforce Investment Act of 1998 to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
 #### Amendments
+
+2002—Subsec. (a)(2)(A). Pub. L. 107–210, §117, substituted “$220,000,000” for “$80,000,000, except that for fiscal year 1997, the total amount of payments made under paragraph (1) shall not exceed $70,000,000”.
+
+Subsec. (a)(5)(A). Pub. L. 107–210, §118(a), amended subpar. (A) generally. Prior to amendment, subpar. (A) read as follows: “on-the-job training,”.
+
+Subsec. (c)(8). Pub. L. 107–210, §118(b), amended par. (8) generally. Prior to amendment, par. (8) read as follows: “the employer certifies to the Secretary that the employer will continue to employ such worker for at least 26 weeks after completion of such training if the worker desires to continue such employment and the employer does not have due cause to terminate such employment,”.
+
+Subsec. (f). Pub. L. 107–210, §118(c), added subsec. (f).
 
 1998—Subsec. (a)(5)(B). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(11)(A)\], struck out “section 1653 of title 29 or” before “title I of”.
 
@@ -172,6 +194,10 @@ Subsec. (f). Pub. L. 99–272, §13004(a)(4), (5), redesignated par. (3) of subs
 
 Subsec. (b). Pub. L. 97–35 substituted provisions limiting the maximum amount of travel expenses on the basis of amounts paid under Federal travel regulations for provisions establishing specific maximum amounts for subsistence and transportation expenses.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 101(f) \[title VIII, §405(d)(14)(A)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(11)(A)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\], set out as a note under section 3502 of Title 5, Government Organization and Employees.
@@ -188,7 +214,7 @@ Amendment by Pub. L. 97–35 effective for determinations made or filed after Se
 
 #### Termination Date
 
-No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Termination of Reporting Requirements
 
@@ -196,7 +222,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (d) of this se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2275, 2291, 2293, 2297, 2298, 2311, 2331 of this title; title 7 section 2015.
+This section is referred to in sections 2275, 2291, 2293, 2297, 2298, 2311, 2317, 2401e of this title; title 7 section 2015.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

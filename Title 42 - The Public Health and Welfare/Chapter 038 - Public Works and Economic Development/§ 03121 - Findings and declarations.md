@@ -52,7 +52,7 @@ Pub. L. 94–487, §101, Oct. 12, 1976, 90 Stat. 2331, provided that: “This Ac
 
 #### Short Title of 1975 Amendments
 
-Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: “That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, and sections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223, 224, 302, 401 and 405 of the Appendix to Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 of this title and sections 1, 2 and 201 of the Appendix of Title 40\] may be cited as the ‘Regional Development Act of 1975’.”
+Pub. L. 94–188, §1, Dec. 31, 1975, 89 Stat. 1079, provided: “That this Act \[enacting sections 3194 to 3196 of this title and sections 225 and 303 of the Appendix to former Title 40, Public Buildings, Property, and Works, amending sections 3181, 3182, 3188a and 3192 of this title, andsections 2, 101, 102, 105–107, 201, 202, 205, 207, 211, 214, 223, 224, 302, 401 and 405 of the Appendix to former Title 40, repealing section 3134 of this title, and enacting provisions set out as notes under sections 3181 and 3183 of this title and sections 1, 2 and 201 of the Appendix of former Title 40\] may be cited as the ‘Regional Development Act of 1975’.”
 
 Pub. L. 94–188, title II, §201, Dec. 31, 1975, 89 Stat. 1087, provided that: “This title \[enacting sections 3194 to 3196 of this title, amending sections 3181, 3182, 3188a, and 3192 of this title, and enacting provisions set out as note under section 3183 of this title\] may be cited as the ‘Regional Action Planning Commission Improvement Act of 1975’.”
 
@@ -276,7 +276,7 @@ Staff.—
 
 &emsp;“(1)
 
-In general.—The Federal Cochairperson of the Commission may, without regard to the civil service laws and regulations, appoint such personnel as may be necessary to enable the Commission to perform its duties.
+In general.—The Federal Cochairperson of the Commission may, without regard to the civil servicelaws and regulations, appoint such personnel as may be necessary to enable the Commission to perform its duties.
 
 &emsp;“(2)
 
@@ -318,7 +318,7 @@ Bulk Fuels.—Funds transferred to the Commission pursuant to section 329 of the
 
 “(c)
 
-Demonstration Health Projects.—In order to demonstrate the value of adequate health facilities and services to the economic development of the region, the Secretary of Health and Human Services is authorized to make grants to the Denali Commission to plan, construct, and equip demonstration health, nutrition, and child care projects, including hospitals, health care clinics, and mental health facilities (including drug and alcohol treatment centers) in accordance with the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277. No grant for construction or equipment of a demonstration project shall exceed 50 percentum of such costs, unless the project is located in a severely economically distressed community, as identified in the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277, in which case no grant shallexceed 80 percentum of such costs. To carry out this section, there is authorized to be appropriated such sums as may be necessary.
+Demonstration Health Projects.—In order to demonstrate the value of adequate health facilities and services to the economic development of the region, the Secretary of Health and Human Services is authorized to make grants to the Denali Commission to plan, construct, and equip demonstration health, nutrition, and child care projects, including hospitals, health care clinics, and mental health facilities (including drug and alcohol treatment centers) in accordance with the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277. No grant for construction or equipment of a demonstration project shall exceed 50 percentum of such costs, unless the project is located in a severely economically distressed community, as identified in the Work Plan referred to under section 304 of Title III—Denali Commission of Division C—Other Matters of Public Law 105–277, in which case no grant shall exceed 80 percentum of such costs. To carry out this section, there is authorized to be appropriated such sums as may be necessary.
 
 #### “SEC. 308. EXEMPTION FROM FEDERAL ADVISORY COMMITTEE ACT.
 
@@ -334,9 +334,11 @@ In General.—There are authorized to be appropriated to the Commission to carry
 
 Availability.—Any sums appropriated under the authorization contained in this section shall remain available until expended.”
 
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
 #### Lower Mississippi Delta Development Commission
 
-Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(a), title V, §504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–252, 2763A–281, incorporated by reference and made a part of that public law the provisions of S. 2836, the Delta Development Act, as introduced in the Senate on Sept. 27, 1988, which provided for establishment of Lower Mississippi Delta Development Commission to study and make recommendations regarding economic needs and development of Lower Mississippi Delta region, set forth membership, compensation, powers, and administrative provisions for Commission, required submission to Congress, President, and Governors of certain States of interim and final reports, and provided for termination of Commission no later than two years after Oct. 1, 1988.
+Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended by Pub. L. 106–554, §1(a)(4) \[div. B, title I, §153(a), title V, §504\], Dec. 21, 2000, 114 Stat. 2763, 2763A–252, 2763A–281; Pub. L. 107–171, title VI, §6027(j), May 13, 2002, 116 Stat. 374, incorporated by reference and made a part of that public law the provisions of S. 2836, the Delta Development Act, as introduced in the Senate on Sept. 27, 1988, which provided for establishment of Lower Mississippi Delta Development Commission to study and make recommendations regarding economic needs and development of Lower Mississippi Delta region, set forth membership, compensation, powers, and administrative provisions for Commission, required submission to Congress, President, and Governors of certain States of interim and final reports, and provided for termination of Commission no later than two years after Oct. 1, 1988.
 
 Prior to amendment by Pub. L. 106–554, Pub. L. 100–460 also incorporated by reference and made a part of that public law the provisions of H.R. 5378, as introduced in the House of Representatives on Sept. 26, 1988, and known as the “Lower Mississippi Delta Development Act”, which contained provisions similar to those in S. 2836.
 
@@ -364,13 +366,13 @@ Ex. Ord. No. 11493, Nov. 13, 1969, 34 F.R. 18289, which created Council for Rura
 
 #### Ex. Ord. No. 13122. Interagency Task Force on the Economic Development of the Southwest Border
 
-Ex. Ord. No. 13122, May 25, 1999, 64 F.R. 29201, provided:
+Ex. Ord. No. 13122, May 25, 1999, 64 F.R. 29201, as amended by Ex. Ord. No. 13284, §6, Jan. 23, 2003, 68 F.R. 4075, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to provide a more rapid and integrated Federal response to the economic development challenges of the Southwest Border region, it is hereby ordered as follows:
 
 Section 1. <i>Establishment of an Interagency Task Force on the Economic Development of the Southwest Border</i>. (a) There is established the “Interagency Task Force on the Economic Development of the Southwest Border” (Task Force) that reports to the Vice President, as Chair of the President's Community Empowerment Board (PCEB), and to the Assistant to the President for Economic Policy, as Vice Chair of the PCEB.
 
-(b) The Task Force shall comprise the Secretary of State, Secretary of Agriculture, Secretary of Commerce, Secretary of Defense, the Attorney General, Secretary of the Interior, Secretary of Education, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Energy, Secretary of Labor, Secretary of Transportation, Secretary of the Treasury, Director of the Office of Management and Budget, Director of National Drug Control Policy, Administrator of General Services, Administrator of the Small Business Administration, Administrator of the Environmental Protection Agency, or their designees, and such other senior executive branch officials as may be determined by the Co-Chairs of the Task Force. The Secretaries of the Treasury, Agriculture, and Labor shall Co-Chair the Task Force, rotating annually. The agency chairing the Task Force will provide administrative support for the Task Force.
+(b) The Task Force shall comprise the Secretary of State, Secretary of Agriculture, Secretary of Commerce, Secretary of Defense, the Attorney General, Secretary of the Interior, Secretary of Education, Secretary of Health and Human Services, Secretary of Housing and Urban Development, Secretary of Energy, Secretary of Labor, Secretary of Transportation, Secretary of the Treasury, Secretary of Homeland Security, Director of the Office of Management and Budget, Director of National Drug Control Policy, Administrator of General Services, Administrator of the Small Business Administration, Administrator of the Environmental Protection Agency, or their designees, and such other senior executive branch officials as may be determined by the Co-Chairs of the Task Force. The Secretaries of the Treasury, Agriculture, and Labor shall Co-Chair the Task Force, rotating annually. The agency chairing the Task Force will provide administrative support for the Task Force.
 
 (c) The purpose of the Task Force is to coordinate and better leverage existing Administration efforts for the Southwest Border, in concert with locally led efforts, in order to increase the living standards and the overall economic profile of the Southwest Border so that it may achieve the average of the Nation. Specifically, the Task Force shall:
 
@@ -399,6 +401,4 @@ Sec. 4. <i>(a) “Agency” means an executive agency as defined in 5 U.S.C. 105
 (b) The “Southwest Border” or “Southwest Border region” is defined as including the areas up to 150 miles north of the United States-Mexican border in the States of Arizona, New Mexico, Texas, and California.
 
 Sec. 5. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law by a party against the United States, its agencies, its officers, or any person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

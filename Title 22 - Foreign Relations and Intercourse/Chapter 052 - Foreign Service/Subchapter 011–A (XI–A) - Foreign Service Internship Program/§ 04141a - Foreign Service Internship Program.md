@@ -28,7 +28,7 @@ The program shall introduce interns to the practice of diplomacy and the unique 
 
 #### (e) Administration
 
-The Secretary of State shall determine the academic requirements, other selection criteria,and standards for successful completion of each internship period. The Secretary shall be responsible for the design, implementation, and operation of the program.
+The Secretary of State shall determine the academic requirements, other selection criteria, and standards for successful completion of each internship period. The Secretary shall be responsible for the design, implementation, and operation of the program.
 
 #### (f) Mentors
 

@@ -28,11 +28,11 @@ Allowance Authorized.—(1) A member described in subsection (a) may be paid a t
 
 (c)
 
-Use of Airlift and Sealift Command.—Whenever possible, the Air Mobility Command or Military Sealift Command shall be used, on a space-required basis, for the travel authorized by this section.
+Use of Airlift and Sealift Command.—Whenever possible, the Air Mobility Commandor Military Sealift Command shall be used, on a space-required basis, for the travel authorized by this section.
 
 (d)
 
-Attendance at School in Alaska or Hawaii.—For a member assigned to duty outsidethe continental United States, transportation under this section may be provided a dependent child as described in subsection (a)(2) who is attending a school in Alaska or Hawaii.
+Attendance at School in Alaska or Hawaii.—For a member assigned to duty outside the continental United States, transportation under this section may be provided a dependent child as described in subsection (a)(2) who is attending a school in Alaska or Hawaii.
 
 (e)
 
@@ -42,25 +42,29 @@ Exception.—The transportation allowance authorized by this section (whether tr
 
 Definitions.—In this section:
 
-&emsp;(1) The term “continental United States” means the 48 contiguous States and the District of Columbia.
-
-&emsp;(2) The term “formal education” means the following:
+&emsp;(1) The term “formal education” means the following:
 
 &emsp;&emsp;(A) A secondary education.
 
 &emsp;&emsp;(B) An undergraduate college education.
 
-&emsp;&emsp;(C) A graduate education pursued on a full-time basis at an institution of higher education (as defined in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001)).
+&emsp;&emsp;(C) A graduate education pursued on a full-time basis at an institution of higher education.
 
-&emsp;&emsp;(D) Vocational education pursued on a full-time basis at a post-secondary vocational institution (as defined in section 102(c) of the Higher Education Act of 1965 (20 U.S.C. 1002(c))).
+&emsp;&emsp;(D) Vocational education pursued on a full-time basis at a postsecondary vocational institution.
 
-(Added Pub. L. 98–94, title IX, §910(a)(1), Sept. 24, 1983, 97 Stat. 638; amended Pub. L. 101–189, div. A, title VI, §625(a), Nov. 29, 1989, 103 Stat. 1448; Pub. L. 101–510, div. A, title XIV, §1484(e)(1), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–261, div. A, title VI, §634, Oct. 17, 1998, 112 Stat. 2044; Pub. L. 106–398, §1 \[\[div. A\], title VI, §646\], Oct. 30, 2000, 114 Stat. 1654, 1654A–162; Pub. L. 107–107, div. A, title VI, §639(a)–(c), title IX, §931(c), Dec. 28, 2001, 115 Stat. 1148, 1200.)
+&emsp;(2) The term “institution of higher education” has the meaning given that term in section 101 of the Higher Education Act of 1965 (20 U.S.C. 1001).
+
+&emsp;(3) The term “postsecondary vocational institution” has the meaning given that term in section 102(c) of the Higher Education Act of 1965 (20 U.S.C. 1002(c)).
+
+(Added Pub. L. 98–94, title IX, §910(a)(1), Sept. 24, 1983, 97 Stat. 638; amended Pub. L. 101–189, div. A, title VI, §625(a), Nov. 29, 1989, 103 Stat. 1448; Pub. L. 101–510, div. A, title XIV, §1484(e)(1), Nov. 5, 1990, 104 Stat. 1717; Pub. L. 102–25, title VII, §702(b)(1), (2), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 105–261, div. A, title VI, §634, Oct. 17, 1998, 112 Stat. 2044; Pub. L. 106–398, §1 \[\[div. A\], title VI, §646\], Oct. 30, 2000, 114 Stat. 1654, 1654A–162; Pub. L. 107–107, div. A, title VI, §639(a)–(c), title IX, §931(c), Dec. 28, 2001, 115 Stat. 1148, 1200; Pub. L. 107–314, div. A, title VI, §654(b)(6), Dec. 2, 2002, 116 Stat. 2582.)
 
 #### References in Text
 
 The Defense Dependents’ Education Act of 1978, referred to in subsec. (b)(1), is title XIV of Pub. L. 95–561, Nov. 1, 1978, 92 Stat. 2365, as amended, which is classified principally to chapter 25A (§921 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 921 of Title 20 and Tables.
 
 #### Amendments
+
+2002—Subsec. (f). Pub. L. 107–314 added subsec. (f) and struck out heading and text of former subsec. (f). Text defined the terms “continental United States” and “formal education”.
 
 2001—Subsec. (a). Pub. L. 107–107, §639(a), inserted heading and amended text generally. Prior to amendment, text read as follows:
 
@@ -124,5 +128,5 @@ Section 910(b) of Pub. L. 98–94 provided that: “Section 430 of title 37, Uni
 
 For availability of Department of Defense funds for travel and transportation of dependent students of members of the Armed Forces stationed overseas for transportation allowances for travel within or between the contiguous States, see section 808 of Pub. L. 99–145, set out as a note under section 133 of Title 10, Armed Forces.
 
-Pub. L. 98–212, title VII, §799B, Dec. 8, 1983, 97 Stat. 1456, as amended by Pub. L. 98–396, title I, Aug. 22, 1984,98 Stat. 1378, provided in part that: “After August 31, 1984, none of the funds appropriated to the Department of Defense for the travel and transportation of dependent students of military personnel stationed overseas shall be obligated for a transportation allowance for travel within or between the contiguous United States.”
+Pub. L. 98–212, title VII, §799B, Dec. 8, 1983, 97 Stat. 1456, as amended by Pub. L. 98–396, title I, Aug. 22, 1984, 98 Stat. 1378, provided in part that: “After August 31, 1984, none of the funds appropriated to the Department of Defense for the travel and transportation of dependent students of military personnel stationed overseas shall be obligated for a transportation allowance for travel within or between the contiguous United States.”
 

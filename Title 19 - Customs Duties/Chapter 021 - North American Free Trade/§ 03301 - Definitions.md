@@ -46,7 +46,7 @@ Section 1(a) of Pub. L. 103–182 provided that: “This Act \[see Tables for cl
 
 #### Act Referred to in Other Sections
 
-The North American Free Trade Agreement Implementation Act is referred to in sections 1313, 1516a of this title.
+The North American Free Trade Agreement Implementation Act is referred to in sections 1313, 1516a, 2252 of this title; title 6 section 212.
 
 #### Section Referred to in Other Sections
 

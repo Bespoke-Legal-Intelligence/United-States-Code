@@ -40,7 +40,7 @@
 
 &emsp;&emsp;Paragraph (1) shall not apply to an alien if the Attorney General determines that—
 
-&emsp;&emsp;&emsp;(i) the alien ordered, incited, assisted, or otherwise participated in the persecutionof any person on account of race, religion, nationality, membership in a particular social group, or political opinion;
+&emsp;&emsp;&emsp;(i) the alien ordered, incited, assisted, or otherwise participated in the persecution of any person on account of race, religion, nationality, membership in a particular social group, or political opinion;
 
 &emsp;&emsp;&emsp;(ii) the alien, having been convicted by a final judgment of a particularly serious crime, constitutes a danger to the community of the United States;
 
@@ -72,7 +72,13 @@
 
 #### (3) Treatment of spouse and children
 
-&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
+#### (A) In general
+
+&emsp;&emsp;A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title)of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.
+
+#### (B) Continued classification of certain aliens as children
+
+&emsp;&emsp;An unmarried alien who seeks to accompany, or follow to join, a parent granted asylum under this subsection, and who was under 21 years of age on the date on which such parent applied for asylum under this section, shall continue to be classified as a child for purposes of this paragraph and section 1159(b)(3) of this title, if the alien attained 21 years of age after such application was filed but while it was pending.
 
 #### (c) Asylum status
 
@@ -132,7 +138,7 @@
 
 &emsp;&emsp;The procedure established under paragraph (1) shall provide that—
 
-&emsp;&emsp;&emsp;(i) asylum cannot be granted until the identity of the applicant has been checked against all appropriate records or databases maintained by the Attorney General and by the Secretary of State, including the Automated Visa Lookout System, to determine any grounds on which the alien may be inadmissible to or deportable from the United States, or ineligible to apply for or be granted asylum;
+&emsp;&emsp;&emsp;(i) asylum cannot be granted until the identity of the applicant has been checked against all appropriate records or databases maintained by the Attorney General and by the Secretary of State, includingthe Automated Visa Lookout System, to determine any grounds on which the alien may be inadmissible to or deportable from the United States, or ineligible to apply for or be granted asylum;
 
 &emsp;&emsp;&emsp;(ii) in the absence of exceptional circumstances, the initial interview or hearing on the asylum application shall commence not later than 45 days after the date an application is filed;
 
@@ -154,9 +160,11 @@
 
 &emsp;Nothing in this subsection shall be construed to create any substantive or procedural right or benefit that is legally enforceable by any party against the United States or its agencies or officers or any other person.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §208, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title V, §515(a)(1), Nov. 29, 1990, 104 Stat. 5053; Pub. L. 103–322, title XIII, §130005(b), Sept. 13, 1994, 108 Stat. 2028; Pub. L. 104–132, title IV, §421(a), Apr. 24, 1996, 110 Stat. 1270; Pub. L. 104–208, div. C, title VI, §604(a), Sept. 30, 1996, 110 Stat. 3009–690; Pub. L. 107–56, title IV, §411(b)(2), Oct. 26, 2001, 115 Stat. 348.)
+(June 27, 1952, ch. 477, title II, ch. 1, §208, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title V, §515(a)(1), Nov. 29, 1990, 104 Stat. 5053; Pub. L. 103–322, title XIII, §130005(b), Sept. 13, 1994, 108 Stat. 2028; Pub. L. 104–132, title IV, §421(a), Apr. 24, 1996, 110 Stat. 1270; Pub. L. 104–208, div. C, title VI, §604(a), Sept. 30, 1996, 110 Stat. 3009–690; Pub. L. 107–56, title IV, §411(b)(2), Oct. 26, 2001, 115 Stat. 348; Pub. L. 107–208, §4, Aug. 6, 2002, 116 Stat. 928.)
 
 #### Amendments
+
+2002—Subsec. (b)(3). Pub. L. 107–208 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of an alien who is granted asylum under this subsection may, if not otherwise eligible for asylum under this section, be granted the same status as the alien if accompanying, or following to join, such alien.”
 
 2001—Subsec. (b)(2)(A)(v). Pub. L. 107–56 substituted “(III), (IV), or (VI)” for “(III), or (IV)”.
 
@@ -167,6 +175,10 @@ Subsec. (a). Pub. L. 104–132, §421(a), inserted at end “The Attorney Genera
 1994—Subsec. (e). Pub. L. 103–322 added subsec. (e).
 
 1990—Subsec. (d). Pub. L. 101–649 added subsec. (d).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–208 effective Aug. 6, 2002, and applicable to certain beneficiary aliens, see section 8 of Pub. L. 107–208, set out as a note under section 1151 of this title.
 
 #### Effective Date of 2001 Amendment
 
@@ -189,6 +201,10 @@ Section 515(b) of Pub. L. 101–649, as amended by Pub. L. 102–232, title III,
 #### Effective Date
 
 Section effective Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as an Effective Date of 1980 Amendment note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
 
 #### Expeditious Removal for Denied Asylum Applicants
 
@@ -220,7 +236,7 @@ Section 204(d)(2) of Pub. L. 96–212 provided that: “The Attorney General sha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1157, 1182, 1225, 1229a, 1252, 1254a, 1324b, 1324c, 1427, 1534, 1574, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 22 section 4703; title 42 sections 608, 1436a.
+This section is referred to in sections 1157, 1182, 1225, 1229a, 1252, 1254a, 1324b, 1324c, 1427, 1534, 1574, 1612, 1613, 1622, 1641, 1738 of this title; title 7 section 2015; title 18 section 842; title 22 section 4703; title 42 sections 608, 1436a.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

@@ -32,11 +32,11 @@ In order to facilitate the administration of the national park system, the Secre
 
 #### (g) Exhibits and demonstrations; sale of products and services; contracts and cooperative arrangements; credits to appropriation
 
-&emsp;Sell at fair market value without regard to the requirements of the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\], products and services produced in the conduct of living exhibits and interpretive demonstrations in areas of the national park system, to enter into contracts including cooperative arrangements with respect to such living exhibits and interpretive demonstrations, and to credit the proceeds therefrom to the appropriation bearing the cost of such exhibits and demonstrations. Sixty percent of the fees paid by permittees for the privilege of entering into Glacier Bay for the period beginning on the first full fiscal year following November 12, 1996, shall be deposited into a special account and that such funds shall be available—
+&emsp;Sell at fair market value without regard to the requirements of the Federal Property and Administrative Services Act of 1949, as amended, products and services produced in the conduct of living exhibits and interpretive demonstrations in areas of the national park system, to enter into contracts including cooperative arrangements with respect to such living exhibits and interpretive demonstrations, and to credit the proceeds therefrom to the appropriation bearing the cost of such exhibits and demonstrations. Sixty percent of the fees paid by permittees for the privilege of entering into Glacier Bay for the period beginning on thefirst full fiscal year following November 12, 1996, shall be deposited into a special account and that such funds shall be available—
 
 &emsp;&emsp;(1) to the extent determined necessary, to acquire and preposition necessary and adequate emergency response equipment to prevent harm or the threat of harm to aquatic park resources from permittees; and
 
-&emsp;&emsp;(2) to conduct investigations to quantify any effect of permittees’ activity on wildlife and other natural resource values of Glacier Bay National Park. The investigations provided for in this subsection shall be designed to provide information of value to the Secretary, in determining any appropriate limitations on permittees’ activity in Glacier Bay. The Secretary may not impose any additional permittee operating conditions in the areas of air, water, and oil pollution beyond those determined and enforced by other appropriate agencies. When competitively awarding permits to enter Glacier Bay, the Secretary may take into account the relative impact particular permittees will have on park values and resources, provided that no operating conditions or limitations relating to noise abatement shall be imposed unless the Secretary determines, based on the weight of the evidence from all available studies including verifiable scientific information from the investigations provided for in this subsection, that such limitations or conditions are necessary to protect park values and resources. Fees paid by certain permittees for the privilege of entering into Glacier Bay shall not exceed $5per passenger. For the purposes of this subsection, “certain permittee” shall mean a permittee which provides overnight accommodations for at least 500 passengers for an itinerary of at least 3 nights, and “permittee” shall mean a concessionaire providing visitor services within Glacier Bay. Nothing in this subsection authorizes the Secretary to require additional categories of permits in, or otherwise increase the number of permits to enter Glacier Bay National Park.
+&emsp;&emsp;(2) to conduct investigations to quantify any effect of permittees’ activity on wildlife and other natural resource values of Glacier Bay National Park. The investigations provided for in this subsection shall be designed to provide information of value to the Secretary, in determining any appropriate limitations on permittees’ activity in Glacier Bay. The Secretary may not impose any additional permittee operating conditions in the areas of air, water, and oil pollution beyond those determined and enforced by other appropriate agencies. When competitively awarding permits to enter Glacier Bay, the Secretary may take into account the relative impact particular permittees will have on park values and resources, provided that no operating conditions or limitations relating to noise abatement shall be imposed unless the Secretary determines, based on the weight of the evidence from all available studies including verifiable scientific information from the investigations provided for in this subsection, that such limitations or conditions are necessary to protect park values and resources. Fees paid by certain permittees for the privilege of entering into Glacier Bay shall not exceed $5 per passenger. For the purposes of this subsection, “certain permittee” shall mean a permittee which provides overnight accommodations for at least 500 passengers for an itinerary of at least 3 nights, and “permittee” shall mean a concessionaire providing visitor services within Glacier Bay. Nothing in this subsection authorizes the Secretary to require additional categories of permits in, or otherwise increase the number of permits to enter Glacier Bay National Park.
 
 #### (h) Regulations; promulgation and enforcement
 
@@ -78,7 +78,7 @@ In order to facilitate the administration of the national park system, the Secre
 
 &emsp;&emsp;&emsp;&emsp;(i) payment of fair market value rental shall be required; and
 
-&emsp;&emsp;&emsp;&emsp;(ii) section 303b of title 40 shall not apply.
+&emsp;&emsp;&emsp;&emsp;(ii) section 1302 of title 40 shall not apply.
 
 #### (B) Adjustment
 
@@ -86,7 +86,7 @@ In order to facilitate the administration of the national park system, the Secre
 
 #### (C) Regulation
 
-&emsp;&emsp;&emsp;The Secretary shall promulgate regulations implementing this subsection that includes provisions to encourage and facilitate competition in the leasing process and provide for timely and adequate public comment.
+&emsp;&emsp;&emsp;The Secretary shall promulgate regulations implementing this subsection thatincludes provisions to encourage and facilitate competition in the leasing process and provide for timely and adequate public comment.
 
 #### (5) Special account
 
@@ -128,13 +128,15 @@ In order to facilitate the administration of the national park system, the Secre
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (g), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (g), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 This Act, referred to in subsec. (k)(5)(C), means Pub. L. 91–383, Aug. 18, 1970, 84 Stat. 825, as amended, popularly known as the “National Park System General Authorities Act”. As originally enacted, Pub. L. 91–383 contained sections 1 to 4, the first 3 of which enacted sections 1a–1 and 1a–2 and amended sections 1b and 1c of this title. Pub. L. 94–458 amended Pub. L. 91–383 by adding sections 5 to 12, which enacted sections 1a–3 to 1a–7, amended sections 17j, 460n–5, 463, 470a, and 559, and repealed sections 10, 10a, 17b–1, and 415 of this title. Pub. L. 103–322 amended Pub. L. 91–383 by adding section 13, which enacted section 1a–7a of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Codification
 
 In subsec. (c), “section 5703 of title 5” substituted for “section 5 of the Administrative Expenses Act of 1946 (5 U.S.C. 5703)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5, Government Organization and Employees.
+
+“Section 1302 of title 40” substituted in subsec. (k)(4)(A)(ii) for “section 321 of the Act of June 30, 1932 (47 Stat. 412, chapter 314; 40 U.S.C. 303b)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -158,7 +160,11 @@ Subsec. (j). Pub. L. 104–333, §818, added subsec. (j).
 
 Subsecs. (h), (i). Pub. L. 94–458, §1(2), added subsecs. (h) and (i).
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Termination of Advisory Committees
 
-Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod following Jan. 5, 1973, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 

@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Authorization.—Out of the amounts received by the Federal Aviation Administrationcredited to the account established under section 45303 of this title or otherwise provided to the Administration, the sum of $50,000,000 is authorized and shall be made available immediately for obligation and expenditure to carry out the essential air service program under this subchapter for each fiscal year.
+Authorization.—Out of the amounts received by the Federal Aviation Administration credited to the account established under section 45303 of this title or otherwise provided to the Administration, the sum of $50,000,000 is authorized and shall be made available immediately for obligation and expenditure to carry out the essential air service program under this subchapter for each fiscal year.
 
 &emsp;(2)
 

@@ -116,7 +116,7 @@ The Organisation shall include a General Conference, an Executive Board and a Se
 
 #### <i>A. Composition</i>
 
-1\. The Executive Board shall consist of eighteen members elected by the General Conference fromamong the delegates appointed by the Member States, together with the President of the Conference who shall sit <i>ex officio</i> in an advisory capacity.
+1\. The Executive Board shall consist of eighteen members elected by the General Conference from among the delegates appointed by the Member States, together with the President of the Conference who shall sit <i>ex officio</i> in an advisory capacity.
 
 2\. In electing the members of the Executive Board the General Conference shall endeavour to include persons competent in the arts, the humanities, the sciences, education and the diffusion of ideas, and qualified by their experience and capacity to fulfill the administrative and executive duties of the Board. It shall also have regard to the diversity of cultures and a balanced geographical distribution. Not more than one national of any Member State shall serve on the Board at any one time, the President of the Conference excepted.
 
@@ -186,7 +186,7 @@ Each Member State shall report periodically to the Organisation, in a manner to 
 
 #### <i>Relations with the United Nations Organisation</i>
 
-This Organisation shall be brought into relation with the United Nations Organisation, as soon as practicable, as one of the specialised agencies referred to in Article 57 of the Charter of the United Nations. This relationship shall be effected through an agreement with the United Nations Organisation under Article 63 of the Charter, which agreement shall be subject to the approval of the General Conference of this Organisation. The agreement shall provide for effective co-operation between the two Organisations in the pursuit of theircommon purposes, and at the same time shall recognise the autonomy of this Organisation, within the fields of its competence as defined in this Constitution. Such agreement may, among other matters, provide for the approval and financing of the budget of the Organisation by the General Assembly of the United Nations.
+This Organisation shall be brought into relation with the United Nations Organisation, as soon as practicable, as one of the specialised agencies referred to in Article 57 of the Charter of the United Nations. This relationship shall be effected through an agreement with the United Nations Organisation under Article 63 of the Charter, which agreement shall be subject to the approval of the General Conference of this Organisation. The agreement shall provide for effective co-operation between the two Organisations in the pursuit of their common purposes, and at the same time shall recognise the autonomy of this Organisation, within the fields of its competence as defined in this Constitution. Such agreement may, among other matters, provide for the approval and financing of the budget of the Organisation by the General Assembly of the United Nations.
 
 #### article xi.
 

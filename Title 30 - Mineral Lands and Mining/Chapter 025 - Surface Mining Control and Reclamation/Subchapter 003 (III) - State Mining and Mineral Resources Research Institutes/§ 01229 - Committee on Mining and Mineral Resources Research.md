@@ -32,7 +32,7 @@ The Committee shall be jointly chaired by the Assistant Secretary of the Interio
 
 #### (e) National plan for research
 
-The Committee shall develop a national plan for research in mining and mineral resources, considering ongoing efforts in the universities, the Federal Government, and the private sector, and shall formulate and recommend a program to implement the plan utilizing resources provided for under this subchapter. The Committee shall submit such plan to the Secretary, the President, and the Congress on or before March 1, 1986, and shall submit an annual update of such plan by January 15 of each calendar year.
+The Committee shall develop a national plan for research in mining and mineral resources, considering ongoing efforts in the universities,the Federal Government, and the private sector, and shall formulate and recommend a program to implement the plan utilizing resources provided for under this subchapter. The Committee shall submit such plan to the Secretary, the President, and the Congress on or before March 1, 1986, and shall submit an annual update of such plan by January 15 of each calendar year.
 
 #### (f) Application of Federal Advisory Committee Act
 
@@ -56,7 +56,7 @@ A prior section 1229, Pub. L. 95–87, title III, §309, Aug. 3, 1977, 91 Stat. 
 
 1988—Subsec. (a)(7). Pub. L. 100–483, §8, substituted “7 other persons” for “six other persons”, “this subchapter, 3” for “section 301 of the Surface Mining Control and Reclamation Act of 1977, two”, and “7 appointments” for “six appointments”.
 
-Subsec. (e). Pub. L. 100–483, §9, substituted “submit an annual update of such plan by January 15 of eachcalendar year” for “update the plan annually thereafter”.
+Subsec. (e). Pub. L. 100–483, §9, substituted “submit an annual update of such plan by January 15 of each calendar year” for “update the plan annually thereafter”.
 
 #### Change of Name
 

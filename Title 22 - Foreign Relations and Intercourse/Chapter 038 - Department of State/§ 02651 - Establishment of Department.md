@@ -14,6 +14,12 @@ Section was formerly classified to section 151 of Title 5 prior to the general r
 
 Pub. L. 100–204, title XIII, §1301, Dec. 22, 1987, 101 Stat. 1432, provided that: “Except as otherwise provided in this Act \[see Short Title of 1987 Amendment note below\], this Act shall take effect on the date of its enactment \[Dec. 22, 1987\].”
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–228, §1, Sept. 30, 2002, 116 Stat. 1350, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Foreign Relations Authorization Act, Fiscal Year 2003’.”
+
+Pub. L. 107–228, div. A, §101, Sept. 30, 2002, 116 Stat. 1355, provided that: “This division \[see Tables for classification\] may be cited as the ‘Department of State Authorization Act, Fiscal Year 2003’.”
+
 #### Short Title of 1999 Amendment
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[§1\], Nov. 29, 1999, 113 Stat. 1536, 1501A–405, provided that: “This Act \[H.R. 3427, as enacted by section 1000(a)(7) of Pub. L. 106–113, see Tables for classification\] may be cited as the ‘Admiral James W. Nance and Meg Donovan Foreign Relations Authorization Act, Fiscal Years 2000 and 2001’.”
@@ -64,7 +70,7 @@ Pub. L. 92–352, §1, July 13, 1972, 86 Stat. 489, provided: “That this Act \
 
 #### Short Title
 
-Act Aug. 1, 1956, ch. 841, §1 \[part\], as added by Pub. L. 102–138, title I, §111(2), Oct. 28, 1991, 105 Stat. 654, provided: “That this Act \[enacting sections 2662, 2669 to 2672, 2673 to 2680a, 2684, 2687 to 2692, 2695 to 2723, 4301 to 4316, 4341 to 4343, and 4351 to 4357 of this title\] may be cited as the ‘State Department Basic Authorities Act of 1956’.”
+Act Aug. 1, 1956, ch. 841 (first sentence), as added by Pub. L. 102–138, title I, §111(2), Oct. 28, 1991, 105 Stat. 654, provided: “That this Act \[enacting sections 2662, 2669 to 2672, 2673 to 2680a, 2684, 2687 to 2692, 2695 to 2723, 4301 to 4316, 4341 to 4343, and 4351 to 4357 of this title\] may be cited as the ‘State Department Basic Authorities Act of 1956’.”
 
 Act Aug. 1, 1956, ch. 841, title I, §48, formerly §33, as added Oct. 17, 1980, Pub. L. 96–465, title II, §2201(a), 94 Stat. 2157, and renumbered §34 and redesignated title I, Aug. 24, 1982, Pub. L. 97–241, title I, §117, title II, §202(a), 96 Stat. 279, 282; renumbered §35 and §36, Nov. 22, 1983, Pub. L. 98–164, title I, §§123, 124, 97 Stat. 1025; renumbered §37, Oct. 19, 1984, Pub. L. 98–533, title I, §102, 98 Stat. 2708; renumbered §38 and §39, Aug. 16, 1985, Pub. L. 99–93, title I, §§125(a), 128, 99 Stat. 415, 419; renumbered §40 and §41, Aug. 27, 1986, Pub. L. 99–399, title V, §§504(1), 506(1), 100 Stat. 871; renumbered §42, Dec. 22, 1987, Pub. L. 100–204, title I, §126(a)(1), 101 Stat. 1341; renumbered §43, Nov. 18, 1988, Pub. L. 100–690, title IV, §4603(1), 102 Stat. 4287; renumbered §44, §45, §46, §47, and §48, Feb. 16, 1990, Pub. L. 101–246, title I, §§115(c)(1), 117(1), 118(1), 119(1), 150(1), 104 Stat. 23, 25, 26, 42, which provided that act Aug. 1, 1956, ch. 841, was to be cited as the “State Department Basic Authorities Act of 1956”, was repealed by Pub. L. 102–138, title I, §111(1), Oct. 28, 1991, 105 Stat. 654.
 
@@ -105,6 +111,20 @@ Pub. L. 96–241, §2, May 3, 1980, 94 Stat. 343, provided that:
 “(d) This section applies only with respect to the Secretary of State who is first appointed to that office after the enactment of this Act \[May 3, 1980\].”
 
 #### Definitions
+
+Pub. L. 107–228, §3, Sept. 30, 2002, 116 Stat. 1355, provided that: “In this Act \[see Tables for classification\]:
+
+&emsp;“(1)
+
+Appropriate congressional committees.—The term ‘appropriate congressional committees’ means the Committee on Foreign Relations of the Senate and the Committee on International Relations of the House of Representatives.
+
+&emsp;“(2)
+
+Department.—The term ‘Department’ means the Department of State.
+
+&emsp;“(3)
+
+Secretary.—Except as otherwise provided, the term ‘Secretary’ means the Secretary of State.”
 
 Pub. L. 106–113, div. B, §1000(a)(7) \[§3\], Nov. 29, 1999, 113 Stat. 1536, 1501A–409, provided that: “In this Act \[see Short Title of 1999 Amendment note set out above\]:
 

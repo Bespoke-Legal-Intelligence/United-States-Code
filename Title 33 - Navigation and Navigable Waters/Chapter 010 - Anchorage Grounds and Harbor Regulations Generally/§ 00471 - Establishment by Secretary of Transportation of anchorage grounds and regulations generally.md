@@ -24,3 +24,5 @@ Section probably supersedes acts May 16, 1888, ch. 257, §§1, 2, 25 Stat. 151, 
 
 Section 6(g)(1)(A) of Pub. L. 89–670, transferred functions, powers, and duties of Secretary of the Army \[formerly War\] and other officers and offices of Department of the Army \[formerly War\] relating generally to water vessel anchorages under this section to Secretary of Transportation. Pub. L. 97–449 amended this section to reflect the transfer made by section 6(g)(1)(A) of Pub. L. 89–670, and repealed section 6(g)(1)(A).
 
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

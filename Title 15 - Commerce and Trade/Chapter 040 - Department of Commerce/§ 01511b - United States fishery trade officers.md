@@ -2,11 +2,11 @@
 
 #### (a) Appointment
 
-For purposes of carrying out export promotion and other fishery development responsibilities, the Secretary of Commerce (hereinafter in this section referred to as the “Secretary”) shall appoint not fewer than six officers who shall serve abroad to promote United States fishing interests. These officers shall be knowledgeable about the United States fishing industry, preferably with experience derived from the harvesting, processing, or marketing sectors of the industry or from the administration of fisheries programs. Such officers, who shall be employees of the Department of Commerce, shall have the designation of fishery trade officers.
+For purposes of carrying out export promotion and other fishery development responsibilities, the Secretary of Commerce (hereinafter in this section referred to as the “Secretary”) shall appoint not fewer than six officers who shall serve abroad to promote United States fishing interests. These officers shall be knowledgeable about the United States fishing industry, preferably with experience derived from the harvesting, processing, or marketing sectors of the industry or from the administration of fisheriesprograms. Such officers, who shall be employees of the Department of Commerce, shall have the designation of fishery trade officers.
 
 #### (b) Assignment
 
-Upon the request of the Secretary, the Secretary of State shall officially assign fishery trade officers to such diplomatic missions of the United States as the Secretary designates (three of which shall be those in Brussels, Belgium; Rome, Italy; and Tokyo, Japan) and shall obtainfor them diplomatic privileges and immunities equivalent to those enjoyed by foreign service personnel of comparable rank and salary.
+Upon the request of the Secretary, the Secretary of State shall officially assign fishery trade officers to such diplomatic missions of the United States as the Secretary designates (three of which shall be those in Brussels, Belgium; Rome, Italy; and Tokyo, Japan) and shall obtain for them diplomatic privileges and immunities equivalent to those enjoyed by foreign service personnel of comparable rank and salary.
 
 #### (c) Functions of fishery trade officers
 

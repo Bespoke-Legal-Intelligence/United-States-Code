@@ -20,7 +20,7 @@ A vessel shall, so far as practicable, avoid crossing traffic lanes but if oblig
 
 #### (d) Use of inshore traffic lane
 
-(i) A vessel shall not use an inshore traffic zone when she can safely use the appropriate traffic lane within the adjacent traffic separation scheme. However, vessels of less than twenty meters in length, sailing vessels, and vessels engaged in fishing may use the inshore traffic zone.
+(i) A vessel shall not use an inshore traffic zone when she can safely use the appropriatetraffic lane within the adjacent traffic separation scheme. However, vessels of less than twenty meters in length, sailing vessels, and vessels engaged in fishing may use the inshore traffic zone.
 
 (ii) Notwithstanding subparagraph (d)(i), a vessel may use an inshore traffic zone when en route to or from a port, offshore installation or structure, pilot station, or any other place situated within the inshore traffic zone, or to avoid immediate danger.
 

@@ -12,7 +12,7 @@ In any action brought by or on behalf of a lineal descendant or any group or com
 
 #### (1) Exclusive original jurisdiction
 
-&emsp;Subject to paragraph (2), only the United States District Court for the District of Columbia, and for the districts in North Dakotaand South Dakota, shall have original jurisdiction over any action brought to contest the constitutionality or validity under law of the distributions authorized under this part.
+&emsp;Subject to paragraph (2), only the United States District Court for the District of Columbia, and for the districts in North Dakota and South Dakota, shall have original jurisdiction over any action brought to contest the constitutionality or validity under law of the distributions authorized under this part.
 
 #### (2) Consolidation of actions
 

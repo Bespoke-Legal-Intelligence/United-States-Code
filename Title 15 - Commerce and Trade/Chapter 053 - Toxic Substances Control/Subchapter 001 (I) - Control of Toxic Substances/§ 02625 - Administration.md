@@ -16,7 +16,7 @@ Upon request by the Administrator, each Federal department and agency is authori
 
 #### (c) Action with respect to categories
 
-(1) Any action authorized or required to be taken by the Administrator under any provision of this chapter with respect to a chemical substance or mixture may be taken by the Administrator in accordance with that provision with respect to a category of chemical substances or mixtures. Whenever the Administrator takes action under a provision of this chapter with respect to a category of chemical substances or mixtures, any reference in this chapter to achemical substance or mixture (insofar as it relates to such action) shall be deemed to be a reference to each chemical substance or mixture in such category.
+(1) Any action authorized or required to be taken by the Administrator under any provision of this chapter with respect to a chemical substance or mixture may be taken by the Administrator in accordance with that provision with respect to a category of chemical substances or mixtures. Whenever the Administrator takes action under a provision of this chapter with respect to a category of chemical substances or mixtures, any reference in this chapter to a chemical substance or mixture (insofar as it relates to such action) shall be deemed to be a reference to each chemical substance or mixture in such category.
 
 (2) For purposes of paragraph (1):
 

@@ -60,13 +60,13 @@
 
 #### (ii) Sampling and other methods
 
-&emsp;&emsp;&emsp;The Secretary shall provide the States with such case sampling plans and data collection procedures as the Secretary deems necessary to produce statistically valid samples of the information described in subparagraph (B). The Secretary may develop and implement procedures for verifying the quality of data submitted by the States.
+&emsp;&emsp;&emsp;The Secretary shall provide the States with such case sampling plans and data collection procedures as the Secretary deems necessary to produce statistically valid samples of the information described in subparagraph (B). The Secretary may develop and implement procedures forverifying the quality of data submitted by the States.
 
 #### (2) Annual reports
 
 &emsp;Not later than December 31, 1997, and every 12 months thereafter, a State described in paragraph (1)(A) shall prepare and submit to the Secretary a report that includes aggregate data concerning—
 
-&emsp;&emsp;(A) the number of child care providers that received funding under this subchapter as separately identified based on the types ofproviders listed in section 9858n(5) of this title;
+&emsp;&emsp;(A) the number of child care providers that received funding under this subchapter as separately identified based on the types of providers listed in section 9858n(5) of this title;
 
 &emsp;&emsp;(B) the monthly cost of child care services, and the portion of such cost that is paid for with assistance provided under this subchapter, listed by the type of child care services provided;
 

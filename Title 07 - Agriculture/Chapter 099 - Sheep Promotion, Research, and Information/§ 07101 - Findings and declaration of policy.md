@@ -40,7 +40,7 @@ Section 1 of Pub. L. 103–407 provided that: “This Act \[enacting this chapte
 
 #### Wool Research, Development, and Promotion Trust Fund
 
-Pub. L. 106–200, title V, §506, May 18, 2000, 114 Stat. 303, provided that:
+Pub. L. 106–200, title V, §506, May 18, 2000, 114 Stat. 303, as amended by Pub. L. 107–210, div. E, title L, §5102(c)(2), Aug. 6, 2002, 116 Stat. 1047, provided that:
 
 “(a)
 
@@ -90,5 +90,5 @@ Reports to Congress.—The Secretary of the Treasury, in consultation with the S
 
 “(f)
 
-Sunset Provision.—Effective January 1, 2004, the Trust Fund shall be abolished and all amounts in the Trust Fund on such date shall be transferred to the general fund of the Treasury of the United States.”
+Sunset Provision.—Effective January 1, 2006, the Trust Fund shall be abolished and all amounts in the Trust Fund on such date shall be transferred to the general fund of the Treasury of the United States.”
 

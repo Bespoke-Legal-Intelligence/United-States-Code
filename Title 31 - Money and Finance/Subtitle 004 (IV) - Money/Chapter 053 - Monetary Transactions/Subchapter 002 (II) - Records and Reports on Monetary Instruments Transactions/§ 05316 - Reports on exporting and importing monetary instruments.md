@@ -74,5 +74,5 @@ Section 1364(d) of Pub. L. 99–570 provided that: “Any regulation prescribed 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5312, 5317, 5321, 5324, 5332 of this title; title 12 section 3420.
+This section is referred to in sections 5312, 5317, 5321, 5324, 5332 of this title; title 12 section 3420; title 19 section 1583.
 

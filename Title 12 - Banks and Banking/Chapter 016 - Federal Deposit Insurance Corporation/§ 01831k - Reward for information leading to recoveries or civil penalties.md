@@ -80,5 +80,5 @@ Subsec. (a)(2). Pub. L. 101–647, §2586(2), amended par. (2) generally. Prior 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4205, 4225 of this title.
+This section is referred to in section 4225 of this title.
 

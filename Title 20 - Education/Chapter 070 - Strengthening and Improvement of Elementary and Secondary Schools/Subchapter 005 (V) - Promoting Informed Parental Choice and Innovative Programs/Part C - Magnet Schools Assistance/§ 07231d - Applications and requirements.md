@@ -14,7 +14,7 @@ Each application submitted under subsection (a) of this section shall include—
 
 &emsp;&emsp;(B) the manner and extent to which the magnet school program will increase student academic achievement in the instructional area or areas offered by the school;
 
-&emsp;&emsp;(C) how the applicant will continue the magnet school program after assistance under this part is no longer available, and, if applicable, an explanation of why magnet schools established or supported by the applicant with grant funds under this part cannot be continued without the use of grant funds under this part;
+&emsp;&emsp;(C) how the applicant will continue the magnet school program after assistance under this part is no longer available, and, if applicable, an explanation of why magnetschools established or supported by the applicant with grant funds under this part cannot be continued without the use of grant funds under this part;
 
 &emsp;&emsp;(D) how grant funds under this part will be used—
 

@@ -36,7 +36,7 @@
 
 #### (B) Failure to exercise reasonable care
 
-&emsp;&emsp;If the Customs Service determines that merchandise is not from the country claimed on the documentation accompanying the merchandise, the failure to exercise reasonable care described in subparagraph (A) shall be considered when the Customs Service determines whether the importer ofrecord is in violation of section 1484(a) of this title.
+&emsp;&emsp;If the Customs Service determines that merchandise is not from the country claimed on the documentation accompanying the merchandise, the failure to exercise reasonable care described in subparagraph (A) shall be considered when the Customs Service determines whether the importer of record is in violation of section 1484(a) of this title.
 
 #### (b) List of high risk countries
 
@@ -71,4 +71,8 @@ The customs laws, referred to in subsec. (a)(1), (2), are classified generally t
 #### Effective Date
 
 Section effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 335 of Pub. L. 103–465, set out as a note under section 3591 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

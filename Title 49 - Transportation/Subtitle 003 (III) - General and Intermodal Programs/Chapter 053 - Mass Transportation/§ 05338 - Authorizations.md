@@ -70,7 +70,7 @@ Allocation of funds.—Of the aggregate of amounts made available by and appropr
 
 &emsp;&emsp;&emsp;(iii) of the remaining amount—
 
-&emsp;&emsp;&emsp;&emsp;(I) 2.4 percent shall be available to provide transportation services to elderly individuals and individuals with disabilities under section 5310;
+&emsp;&emsp;&emsp;&emsp;(I) 2.4 percent shall be available to provide transportation services to elderlyindividuals and individuals with disabilities under section 5310;
 
 &emsp;&emsp;&emsp;&emsp;(II) 6.37 percent shall be available to provide financial assistance for other than urbanized areas under section 5311; and
 
@@ -130,7 +130,7 @@ Fiscal years 1999 through 2003.—
 
 &emsp;&emsp;(A)
 
-From the trust fund.—There shall be available from the Mass Transit Account ofthe Highway Trust Fund to carry out sections 5303, 5304, 5305, and 5313(b)—
+From the trust fund.—There shall be available from the Mass Transit Account of the Highway Trust Fund to carry out sections 5303, 5304, 5305, and 5313(b)—
 
 &emsp;&emsp;&emsp;(i) $42,200,000 for fiscal year 1999;
 
@@ -580,7 +580,7 @@ Amendment by Pub. L. 104–287 effective July 5, 1994, see section 8(1) of Pub. 
 
 #### Adjustments for Surface Transportation Extension Act of 1997
 
-Pub. L. 105–178, title III, §3041, June 9, 1998, 112 Stat. 394, provided that the Secretary of Transportation ensure that the total apportionments and allocationsmade to a designated grant recipient under this section for fiscal year 1998 be reduced by the amount apportioned to such designated recipient pursuant to section 8 of Pub. L. 105–130 (amending sections 5309, 5337, and 5338 of this title) and in making the apportionments, the Secretary adjust the amount apportioned to each urbanized area for fixed guideway modernization for fiscal year 1998 to reflect the method of apportioning funds in section 5337(a) of this title.
+Pub. L. 105–178, title III, §3041, June 9, 1998, 112 Stat. 394, provided that the Secretary of Transportation ensure that the total apportionments and allocations made to a designated grant recipient under this section for fiscal year 1998 be reduced by the amount apportioned to such designated recipient pursuant to section 8 of Pub. L. 105–130 (amending sections 5309, 5337, and 5338 of this title) and in making the apportionments, the Secretary adjust the amount apportioned to each urbanized area for fixed guideway modernization for fiscal year 1998 to reflect the method of apportioning funds in section 5337(a) of this title.
 
 #### Training and Curriculum Development
 

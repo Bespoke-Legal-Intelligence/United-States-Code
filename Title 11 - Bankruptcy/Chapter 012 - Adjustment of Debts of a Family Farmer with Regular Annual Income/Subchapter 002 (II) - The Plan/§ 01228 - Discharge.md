@@ -1,6 +1,6 @@
 ### §1228. Discharge
 
-(a) As soon as practicable after completion by the debtor of all payments under the plan, other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(9) of this title, unless the court approves a written waiver of discharge executed by the debtor after the order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan allowed under section 503 of this title or disallowed under section 502 of this title, except any debt—
+(a) As soon as practicable after completion by the debtor of all payments under the plan, other than payments to holders of allowed claims provided for under section 1222(b)(5) or 1222(b)(9) of this title, unless the court approves a written waiver of discharge executed by the debtor afterthe order for relief under this chapter, the court shall grant the debtor a discharge of all debts provided for by the plan allowed under section 503 of this title or disallowed under section 502 of this title, except any debt—
 
 &emsp;(1) provided for under section 1222(b)(5) or 1222(b)(9) of this title; or
 
@@ -28,7 +28,7 @@
 
 (e) After the debtor is granted a discharge, the court shall terminate the services of any trustee serving in the case.
 
-(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 106–518, title II, §208, Nov. 13, 2000, 114 Stat. 2415; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151.)
+(Added and amended Pub. L. 99–554, title II, §255, title III, §302(f), Oct. 27, 1986, 100 Stat. 3112, 3124; Pub. L. 105–277, div. C, title I, §149(a), Oct. 21, 1998, 112 Stat. 2681–610; Pub. L. 106–5, §1(1), (2), Mar. 30, 1999, 113 Stat. 9; Pub. L. 106–70, §1, Oct. 9, 1999, 113 Stat. 1031; Pub. L. 106–518, title II, §208, Nov. 13, 2000, 114 Stat. 2415; Pub. L. 107–8, §1, May 11, 2001, 115 Stat. 10; Pub. L. 107–17, §1, June 26, 2001, 115 Stat. 151; Pub. L. 107–170, §1, May 7, 2002, 116 Stat. 133; Pub. L. 107–171, title X, §10814(a), May 13, 2002, 116 Stat. 532; Pub. L. 107–377, §2(a), Dec. 19, 2002, 116 Stat. 3115.)
 
 #### Termination of Section
 

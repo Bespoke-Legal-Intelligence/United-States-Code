@@ -2,25 +2,27 @@
 
 #### (a) Authority
 
-To such extent or in such amounts as provided in appropriations Acts, the Secretary may, subject to the limitations of this subchapter (including limitations designed to protect and maintain the viability of rental housing units owned or operated by the recipient that were developed under a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\]), and upon such terms and conditions as the Secretary may prescribe, guarantee and make commitments to guarantee, the notes or other obligations issued by Indian tribes or tribally designated housing entities with tribal approval, for the purposes of financing affordable housing activities described in section 4132 of this title.
+To such extent or in such amounts as provided in appropriations Acts, the Secretary may, subject to the limitations of this subchapter (including limitations designed to protect and maintain the viability of rental housing units owned or operated by the recipient that were developed under a contract between the Secretary and an Indian housing authority pursuant to the United States Housing Act of 1937 \[42 U.S.C. 1437 et seq.\]), and upon such terms and conditions as the Secretary may prescribe, guarantee and make commitments to guarantee, the notes or other obligations issued by Indian tribes or tribally designated housing entities with tribal approval, for the purposes of financing affordable housing activities described in section 4132 of this title and housing related community development activity as consistent with the purposes of this chapter.
 
-#### (b) Lack of financing elsewhere
-
-A guarantee under this subchapter may be used to assist an Indian tribe or housing entity in obtaining financing only if the Indian tribe or housing entity has made efforts to obtain such financing without the use of such guarantee and cannot complete such financing consistent with the timely execution of the program plans without such guarantee.
-
-#### (c) Terms of loans
+#### (b) Terms of loans
 
 Notes or other obligations guaranteed pursuant to this subchapter shall be in such form and denominations, have such maturities, and be subject to such conditions as may be prescribed by regulations issued by the Secretary. The Secretary may not deny a guarantee under this subchapter on the basis of the proposed repayment period for the note or other obligation, unless the period is more than 20 years or the Secretary determines that the period causes the guarantee to constitute an unacceptable financial risk.
 
-#### (d) Limitation on outstanding guarantees
+#### (c) Limitation on outstanding guarantees
 
 No guarantee or commitment to guarantee shall be made with respect to any note or other obligation if the total outstanding notes or obligations of the issuer guaranteed under this subchapter (excluding any amount defeased under the contract entered into under section 4192(a)(1) of this title) would thereby exceed an amount equal to 5 times the amount of the grant approval for the issuer pursuant to subchapter III of this chapter.
 
-(Pub. L. 104–330, title VI, §601, Oct. 26, 1996, 110 Stat. 4046.)
+(Pub. L. 104–330, title VI, §601, Oct. 26, 1996, 110 Stat. 4046; Pub. L. 107–292, §7, Nov. 13, 2002, 116 Stat. 2054.)
 
 #### References in Text
 
 The United States Housing Act of 1937, referred to in subsec. (a), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–292, §7(1), inserted “and housing related community development activity as consistent with the purposes of this chapter” after “section 4132 of this title”.
+
+Subsecs. (b) to (d). Pub. L. 107–292, §7(2), (3), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out heading and text of former subsec. (b). Text read as follows: “A guarantee under this subchapter may be used to assist an Indian tribe or housing entity in obtaining financing only if the Indian tribe or housing entity has made efforts to obtain such financing without the use of such guarantee and cannot complete such financing consistent with the timely execution of the program plans without such guarantee.”
 
 #### Effective Date
 

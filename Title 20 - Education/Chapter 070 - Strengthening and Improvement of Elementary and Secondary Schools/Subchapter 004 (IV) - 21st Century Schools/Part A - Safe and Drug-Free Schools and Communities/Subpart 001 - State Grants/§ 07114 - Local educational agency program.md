@@ -150,7 +150,7 @@ An application submitted by a local educational agency under this section shall 
 
 #### (4) Response
 
-&emsp;If the local educational agency responds to the State educational agency's notificationdescribed in paragraph (3)(B) during the 45-day period beginning on the date on which the agency received the notification, and resubmits the application with the requested information described in paragraph (3)(B)(ii), the State educational agency shall approve or disapprove such application prior to the later of—
+&emsp;If the local educational agency responds to the State educational agency's notification described in paragraph (3)(B) during the 45-day period beginning on the date on which the agency received the notification, and resubmits the application with the requested information described in paragraph (3)(B)(ii), the State educational agency shall approve or disapprove such application prior to the later of—
 
 &emsp;&emsp;(A) the expiration of the 45-day period beginning on the date on which the application is resubmitted; or
 

@@ -10,7 +10,7 @@ Credits to Fund.—There shall be credited to the Fund the following:
 
 &emsp;(1) Amounts authorized for and appropriated to that Fund.
 
-&emsp;(2) Subject to subsection (e), any amounts that the Secretary transfers, in such amounts as provided in appropriation Acts, to that Fund from amounts authorized and appropriated to the Department of Transportation or Coast Guard for the acquisition or construction of military family housing or unaccompanied housing.
+&emsp;(2) Subject to subsection (e), any amounts that the Secretary transfers, in such amounts as provided in appropriation Acts, to that Fund from amounts authorized and appropriated to the Department of Homeland Security or Coast Guard for the acquisition or construction of military family housing or unaccompanied housing.
 
 &emsp;(3) Proceeds from the conveyance or lease of property or facilities under section 685 of this title for the purpose of carrying out activities under this chapter with respect to military family and military unaccompanied housing.
 
@@ -32,9 +32,33 @@ Notification Required for Transfers.—A transfer of appropriated amounts to the
 
 (f)
 
-Limitation on Amount of Budget Authority.—The total value in budget authority of all contracts and investments undertaken using the authorities provided in this chapter shall not exceed $20,000,000.
+Limitation on Amount of Budget Authority.—The total value in budget authority of all contracts and investments undertaken using the authorities provided in this chapter shall not exceed $40,000,000.
 
-(Added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3912.)
+(g)
+
+Demonstration Project Authorized.—To promote efficiencies through the use of alternative procedures for expediting new housing projects, the Secretary—
+
+&emsp;(1) may develop and implement a demonstration project for acquisition or construction of military family housing and military unaccompanied housing on or near the Coast Guard installation at Kodiak, Alaska;
+
+&emsp;(2) in implementing the demonstration project, shall utilize, to the maximum extent possible, the contracting authority of the Small Business Administration's section 8(a) program;
+
+&emsp;(3) shall, to the maximum extent possible, acquire or construct such housing through contracts with small business concerns qualified under section 8(a) of the Small Business Act (15 U.S.C. 637(a)) that have their principal place of business in the State of Alaska; and
+
+&emsp;(4) shall report to Congress by September 1 of each year on the progress of activities under the demonstration project.
+
+(Added Pub. L. 104–324, title II, §208(a), Oct. 19, 1996, 110 Stat. 3912; amended Pub. L. 107–295, title IV, §402(b), (c), Nov. 25, 2002, 116 Stat. 2114; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314.)
+
+#### Amendments
+
+2002—Subsec. (b)(2). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+Subsec. (f). Pub. L. 107–295, §402(b), substituted “$40,000,000” for “$20,000,000”.
+
+Subsec. (g). Pub. L. 107–295, §402(c), added subsec. (g).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Section Referred to in Other Sections
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Secretary shall adjust the cabin user fee annually, using a rolling 5-year average of a published price index in accordance with subsection (b) or (c) of this section that reports changes in rural or similar land values in theState, county, or market area in which the lot is located.
+The Secretary shall adjust the cabin user fee annually, using a rolling 5-year average of a published price index in accordance with subsection (b) or (c) of this section that reports changes in rural or similar land values in the State, county, or market area in which the lot is located.
 
 #### (b) Initial index
 
@@ -18,7 +18,7 @@ The Secretary shall adjust the cabin user fee annually, using a rolling 5-year a
 
 #### (1) In general
 
-&emsp;Not later than 10 years after October 11, 2000, the Secretary may select and use an index other than the method of adjustment of a cabin user fee described in subsection (b)(2) of this section to adjust a cabin user fee if the Secretary determines that a different index better reflects change in the value of a lot over time.
+&emsp;Not later than 10 years after October 11, 2000, the Secretary may select and use an index other than the method of adjustment of a cabin user fee described in subsection (b)(2) ofthis section to adjust a cabin user fee if the Secretary determines that a different index better reflects change in the value of a lot over time.
 
 #### (2) Selection process
 

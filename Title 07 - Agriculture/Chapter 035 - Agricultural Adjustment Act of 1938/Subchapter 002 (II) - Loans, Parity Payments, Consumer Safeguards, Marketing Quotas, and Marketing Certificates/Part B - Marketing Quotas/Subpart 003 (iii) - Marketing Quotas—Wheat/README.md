@@ -2,7 +2,7 @@ subpart iii—marketing quotas—wheat
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in section 7301 of this title.
+This subpart is referred to in sections 7301, 7992 of this title.
 
 
 ---
@@ -21,7 +21,7 @@ This subpart is referred to in section 7301 of this title.
 - [&sect; 01337 - Repealed. Pub. L. 87&#8211;703, title III, &sect;317, Sept. 27, 1962, 76 Stat. 622](%C2%A7%2001337%20-%20Repealed.%20Pub.%20L.%2087%E2%80%93703%2C%20title%20III%2C%20%C2%A7317%2C%20Sept.%2027%2C%201962%2C%2076%20Stat.%20622.md)
 - [&sect; 01338 - Transfer of quotas](%C2%A7%2001338%20-%20Transfer%20of%20quotas.md)
 - [&sect; 01339 - Land use](%C2%A7%2001339%20-%20Land%20use.md)
-- [&sect; 01339a - Good faith reliance](%C2%A7%2001339a%20-%20Good%20faith%20reliance.md)
+- [&sect; 01339a - Repealed. Pub. L. 107&#8211;171, title I, &sect;1613(j)(1), May 13, 2002, 116 Stat. 221](%C2%A7%2001339a%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20I%2C%20%C2%A71613%28j%29%281%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20221.md)
 - [&sect; 01339b - Wheat diversion programs; credits in establishment of State, county and farm acreage allotments for wheat](%C2%A7%2001339b%20-%20Wheat%20diversion%20programs%3B%20credits%20in%20establishment%20of%20State%2C%20county%20and%20farm%20acreage%20allotments%20for%20wheat.md)
 - [&sect; 01339c - Feed grains diversion programs for 1964 and subsequent years; feed grain acreage considered wheat acreage and wheat acreage considered&#8230;](%C2%A7%2001339c%20-%20Feed%20grains%20diversion%20programs%20for%201964%20and%20subsequent%20years%3B%20feed%20grain%20acreage%20considered%20wheat%20acreage%20and%20wheat%20acreage%20considered%E2%80%A6.md)
 - [&sect; 01339d - Hay production on set-aside or diverted acreage; storage; emergency use; loans](%C2%A7%2001339d%20-%20Hay%20production%20on%20set-aside%20or%20diverted%20acreage%3B%20storage%3B%20emergency%20use%3B%20loans.md)

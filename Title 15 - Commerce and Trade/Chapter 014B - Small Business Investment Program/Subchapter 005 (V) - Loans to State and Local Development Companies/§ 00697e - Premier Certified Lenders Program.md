@@ -28,7 +28,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (3) Applicability of criteria after designation
 
-&emsp;The Administrator may revoke the designation of a certified development company as a premier certified lender under this section at any time, if the Administrator determines that the certified development company does not meet any requirement described in subparagraphs (A) through (D) of paragraph (2).
+&emsp;The Administrator may revoke the designation of a certified development company as a premier certified lender under this section atany time, if the Administrator determines that the certified development company does not meet any requirement described in subparagraphs (A) through (D) of paragraph (2).
 
 #### (c) Loss reserve
 
@@ -86,7 +86,7 @@ The Administration may establish a Premier Certified Lenders Program for certifi
 
 #### (1) In general
 
-&emsp;Notwithstanding section 697(b)(6) of this title, and subject to such terms and conditionsas the Administration may establish, the Administration may permit a company designated as a premier certified lender under this section to approve, authorize, close, service, foreclose, litigate (except that the Administration may monitor the conduct of any such litigation to which a premier certified lender is a party), and liquidate loans that are funded with the proceeds of a debenture issued by such company and may authorize the guarantee of such debenture.
+&emsp;Notwithstanding section 697(b)(6) of this title, and subject to such terms and conditions as the Administration may establish, the Administration may permit a company designated as a premier certified lender under this section to approve, authorize, close, service, foreclose, litigate (except that the Administration may monitor the conduct of any such litigation to which a premier certified lender is a party), and liquidate loans that are funded with the proceeds of a debenture issued by such company and may authorize the guarantee of such debenture.
 
 #### (2) Scope of review
 
@@ -212,7 +212,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 #### Termination Date
 
-Section 217(b) of Pub. L. 103–403, as amended by Pub. L. 105–135, title II, §223(c), Dec. 2, 1997, 111 Stat. 2606, which provided that this section was to be repealed effective Oct. 1, 2000, was repealed by Pub. L. 106–554, §1(a)(9) \[title III, §305\], Dec. 21, 2000, 114 Stat. 2763, 2763A–685.
+Section 217(b) of Pub. L. 103–403, as amended by Pub. L. 105–135, title II, §223(c), Dec. 2, 1997, 111 Stat. 2606,which provided that this section was to be repealed effective Oct. 1, 2000, was repealed by Pub. L. 106–554, §1(a)(9) \[title III, §305\], Dec. 21, 2000, 114 Stat. 2763, 2763A–685.
 
 #### Regulations
 

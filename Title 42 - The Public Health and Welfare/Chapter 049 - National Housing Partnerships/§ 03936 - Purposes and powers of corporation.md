@@ -34,7 +34,7 @@ To carry out the foregoing purposes and engaged in the foregoing activities, the
 
 #### (d) Labor standards
 
-Nothing in this chapter shall have the effect of waiving or otherwise affecting the applicability of the provisions of the Davis-Bacon Act (40 U.S.C. 276a—276a–5), or any other law requiring compliance with labor standards, in the case of any construction to which such provisions would otherwise apply.
+Nothing in this chapter shall have the effect of waiving or otherwise affecting the applicability of the provisions of sections 3141–3144, 3146, and 3147 of title 40, or any other law requiring compliance with labor standards, in the case of any construction to which such provisions would otherwise apply.
 
 #### (e) Maximum combined outstanding equity commitment
 
@@ -46,7 +46,9 @@ The combined outstanding equity commitment of the corporation and the partnershi
 
 The District of Columbia Business Corporation Act, referred to in subsec. (c), is act June 8, 1954, ch. 269, 68 Stat. 179, as amended, which is not classified to the Code.
 
-The Davis-Bacon Act, referred to in subsec. (d), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+#### Codification
+
+In subsec. (d), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act (40 U.S.C. 267a—276a–5)”, meaning 40 U.S.C. 276a—276a–5, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

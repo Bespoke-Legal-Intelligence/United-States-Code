@@ -18,6 +18,10 @@ Functions vested by law in Attorney General, Department of Justice, or any other
 
 Functions of all other officers of Department of Justice and functions of all agencies and employees of such Department, with a few exceptions, transferred to Attorney General, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 2, §§1, 2, eff. May 24, 1950, 15 F.R. 3173, 64 Stat. 1261, set out in the Appendix to Title 5. See sections 509 and 510 of Title 28, Judiciary and Judicial Procedure.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### History of Immigration and Naturalization Agencies
 
 Ex. Ord. No. 6166, §14, June 10, 1933, set out as a note under section 901 of Title 5, Government Organization and Employees, consolidated the two formerly separate bureaus known as the Bureau of Immigration and the Bureau of Naturalization to form the Immigration and Naturalization Service under a Commissioner of Immigration and Naturalization, which was subsequently transferred from the Department of Labor to the Department of Justice by 1940 Reorg. Plan No. V, eff. June 14, 1940, 5 F.R. 2223, 54 Stat. 1238, set out in the Appendix to Title 5. See note set out under section 1551 of this title.

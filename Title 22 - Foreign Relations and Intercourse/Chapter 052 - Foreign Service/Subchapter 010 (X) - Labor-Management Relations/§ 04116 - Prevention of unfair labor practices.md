@@ -36,7 +36,7 @@ The General Counsel may prescribe regulations providing for informal methods by 
 
 #### (f) Hearing
 
-The Board (or any member thereof or any individual employed by the Board and designated for such purpose) shall conduct a hearing on the complaint not earlier than 5 days after the date on which the complaint is served. In the discretion of the individual or individuals conducting the hearing, any person involved may be allowed to intervene in the hearing and to present testimony. Any such hearing shall, to the extent practicable, be conducted in accordance with the provisions of subchapter II of chapter 5 of title 5, except that the parties shall not be bound by rules of evidence, whether statutory, common law, or adopted by a court. A transcript shall be kept of the hearing. After such a hearing the Board, in its discretion, may upon notice receive further evidence or hear argument.
+The Board (or any member thereof or any individual employed by the Board and designated forsuch purpose) shall conduct a hearing on the complaint not earlier than 5 days after the date on which the complaint is served. In the discretion of the individual or individuals conducting the hearing, any person involved may be allowed to intervene in the hearing and to present testimony. Any such hearing shall, to the extent practicable, be conducted in accordance with the provisions of subchapter II of chapter 5 of title 5, except that the parties shall not be bound by rules of evidence, whether statutory, common law, or adopted by a court. A transcript shall be kept of the hearing. After such a hearing the Board, in its discretion, may upon notice receive further evidence or hear argument.
 
 #### (g) Findings of fact relative to issuance of orders; backpay
 
@@ -44,7 +44,7 @@ If the Board (or any member thereof or any individual employed by the Board and 
 
 &emsp;(1) to cease and desist from any such unfair labor practice in which the Department or labor organization is engaged;
 
-&emsp;(2) requiring the parties to renegotiate a collective bargaining agreement in accordancewith the order of the Board and requiring that the agreement, as amended, be given retroactive effect;
+&emsp;(2) requiring the parties to renegotiate a collective bargaining agreement in accordance with the order of the Board and requiring that the agreement, as amended, be given retroactive effect;
 
 &emsp;(3) requiring reinstatement of an employee with backpay in accordance with section 5596 of title 5; or
 

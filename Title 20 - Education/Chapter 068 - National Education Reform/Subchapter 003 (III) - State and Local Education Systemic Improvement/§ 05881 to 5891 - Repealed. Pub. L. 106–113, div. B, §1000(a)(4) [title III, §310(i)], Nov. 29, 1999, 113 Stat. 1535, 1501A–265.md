@@ -6,7 +6,7 @@ Section 5882, Pub. L. 103–227, title III, §302, Mar. 31, 1994, 108 Stat. 158,
 
 Section 5883, Pub. L. 103–227, title III, §303, Mar. 31, 1994, 108 Stat. 158, related to authorization of appropriations.
 
-Section 5884, Pub. L. 103–227, title III, §304, Mar. 31, 1994, 108 Stat. 158; Pub. L. 104–134, title I, §101(d) \[title VII, §§703(a)(8), 704\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–252, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to allotment of funds.
+Section 5884, Pub. L. 103–227, title III, §304, Mar. 31, 1994, 108 Stat. 158; Pub. L. 104–134, title I, §101(d) \[title VII, §§703(a)(8), 704\], Apr. 26, 1996, 110 Stat. 1321–211,1321–252, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to allotment of funds.
 
 Section 5885, Pub. L. 103–227, title III, §305, Mar. 31, 1994, 108 Stat. 159; Pub. L. 104–134, title I, §101(d) \[title VII, §705(b)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–256; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to State applications.
 

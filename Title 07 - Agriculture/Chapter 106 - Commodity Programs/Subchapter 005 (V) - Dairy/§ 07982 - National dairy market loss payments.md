@@ -1,0 +1,94 @@
+### §7982. National dairy market loss payments
+
+#### (a) Definitions
+
+In this section:
+
+#### (1) Class I milk
+
+&emsp;The term “Class I milk” means milk (including milk components) classified as Class I milk under a Federal milk marketing order.
+
+#### (2) Eligible production
+
+&emsp;The term “eligible production” means milk produced by a producer in a participating State.
+
+#### (3) Federal milk marketing order
+
+&emsp;The term “Federal milk marketing order” means an order issued under section 608c of this title.
+
+#### (4) Participating State
+
+&emsp;The term “participating State” means each State.
+
+#### (5) Producer
+
+&emsp;The term “producer” means an individual or entity that directly or indirectly (as determined by the Secretary)—
+
+&emsp;&emsp;(A) shares in the risk of producing milk; and
+
+&emsp;&emsp;(B) makes contributions (including land, labor, management, equipment, or capital) to the dairy farming operation of the individual or entity that are at least commensurate with the share of the individual or entity of the proceeds of the operation.
+
+#### (b) Payments
+
+The Secretary shall offer to enter into contracts with producers on a dairy farm located in a participating State under which the producers receive payments on eligible production.
+
+#### (c) Amount
+
+Payments to a producer under this section shall be calculated by multiplying (as determined by the Secretary)—
+
+&emsp;(1) the payment quantity for the producer during the applicable month established under subsection (d) of this section;
+
+&emsp;(2) the amount equal to—
+
+&emsp;&emsp;(A) $16.94 per hundredweight; less
+
+&emsp;&emsp;(B) the Class I milk price per hundredweight in Boston under the applicable Federal milk marketing order; by
+
+&emsp;(3) 45 percent.
+
+#### (d) Payment quantity
+
+#### (1) In general
+
+&emsp;Subject to paragraph (2), the payment quantity for a producer during the applicable month under this section shall be equal to the quantity of eligible production marketed by the producer during the month.
+
+#### (2) Limitation
+
+&emsp;The payment quantity for all producers on a single dairy operation during the months of the applicable fiscal year for which the producers receive payments under subsection (b) of this section shall not exceed 2,400,000 pounds. For purposes of determining whether producers are producers on separate dairy operations or a single dairy operation, the Secretary shall apply the same standards as were applied in implementing the dairy program under section 805 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001 (as enacted into law by Public Law 106–387; 114 Stat. 1549A–50).
+
+#### (3) Reconstitution
+
+&emsp;The Secretary shall promulgate regulations to ensure that a producer does not reconstitute a dairy operation for the sole purpose of receiving additional payments under this section.
+
+#### (e) Payments
+
+A payment under a contract under this section shall be made on a monthly basis not later than 60 days after the last day of the month for which the payment is made.
+
+#### (f) Signup
+
+The Secretary shall offer to enter into contracts under this section during the period beginning on the date that is 60 days after May 13, 2002, and ending on September 30, 2005.
+
+#### (g) Duration of contract
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2) and subsection (h) of this section, any contract entered into by producers on a dairy farm under this section shall cover eligible production marketed by the producers on the dairy farm during the period starting with the first day of month the producers on the dairy farm enter into the contract and ending on September 30, 2005.
+
+#### (2) Violations
+
+&emsp;If a producer violates the contract, the Secretary may—
+
+&emsp;&emsp;(A) terminate the contract and allow the producer to retain any payments received under the contract; or
+
+&emsp;&emsp;(B) allow the contract to remain in effect and require the producer to repay a portion of the payments received under the contract based on the severity of the violation.
+
+#### (h) Transition rule
+
+In addition to any payment that is otherwise available under this section, if the producers on a dairy farm enter into a contract under this section, the Secretary shall make a payment in accordance with the formula specified in subsection (c) of this section on the quantity of eligible production of the producer marketed during the period beginning on December 1, 2001, and ending on the last day of the month preceding the month the producers on the dairy farm entered into the contract.
+
+(Pub. L. 107–171, title I, §1502, May 13, 2002, 116 Stat. 205.)
+
+#### References in Text
+
+Section 805 of the Agriculture, Rural Development, Food and Drug Administration, and Related Agencies Appropriations Act, 2001, referred to in subsec. (d)(2), is section 805 of Pub. L. 106–387, §1(a) \[title VIII\], Oct. 28, 2000, 114 Stat. 1549, 1549A–50, which is not classified to the Code.
+

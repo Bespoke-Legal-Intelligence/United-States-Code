@@ -88,7 +88,7 @@ The President may waive the effective dates of the requirements set forth in sub
 
 #### (g) Noncommercial shipping standards
 
-The heads of Federal departments and agencies shall prescribe standards applicable to ships excluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
+The heads of Federal departments and agencies shall prescribe standards applicable to shipsexcluded from this chapter by subsection (b)(1) of this section and for which they are responsible. Standards prescribed under this subsection shall ensure, so far as is reasonable and practicable without impairing the operations or operational capabilities of such ships, that such ships act in a manner consistent with the MARPOL Protocol.
 
 (Pub. L. 96–478, §3, Oct. 21, 1980, 94 Stat. 2297; Pub. L. 100–220, title II, §2102, Dec. 29, 1987, 101 Stat. 1461; Pub. L. 103–160, div. A, title X, §1003(a)–(d), Nov. 30, 1993, 107 Stat. 1745–1747; Pub. L. 104–201, div. A, title III, §324(a), (d), Sept. 23, 1996, 110 Stat. 2480, 2481; Pub. L. 104–227, title II, §201(b), Oct. 2, 1996, 110 Stat. 3042; Pub. L. 105–261, div. A, title III, §326, Oct. 17, 1998, 112 Stat. 1965.)
 

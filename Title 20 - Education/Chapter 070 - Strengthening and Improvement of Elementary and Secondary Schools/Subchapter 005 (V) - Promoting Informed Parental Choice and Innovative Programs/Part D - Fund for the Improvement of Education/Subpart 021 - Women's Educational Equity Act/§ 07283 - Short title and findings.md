@@ -34,7 +34,7 @@ Congress finds that—
 
 #### References in Text
 
-The Education Amendments of 1972, referred to in subsec. (b)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of this title and Tables.
+The Education Amendments of 1972, referred to in subsec. (b)(1), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of this title. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of this title and Tables.
 
 The Women's Educational Equity Act of 2001, referred to in subsec. (b)(2), is subpart 21 of part D of title V of Pub. L. 89–10, as added by Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1867, which is classified generally to this subpart. For complete classification of this Act to the Code, see subsec. (a) of this section and Tables.
 

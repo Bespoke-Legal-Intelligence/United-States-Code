@@ -80,7 +80,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 &emsp;&emsp;(A) the independent power producer has—
 
-&emsp;&emsp;&emsp;(i) made good faith efforts to purchase the required allowances from the owners or operators of affected units to which allowances will be allocated, including efforts to purchase at annual auctions under this section, and from industrial sourcesthat have elected to become affected units pursuant to section 7651i of this title; and
+&emsp;&emsp;&emsp;(i) made good faith efforts to purchase the required allowances from the ownersor operators of affected units to which allowances will be allocated, including efforts to purchase at annual auctions under this section, and from industrial sources that have elected to become affected units pursuant to section 7651i of this title; and
 
 &emsp;&emsp;&emsp;(ii) such bids and efforts were unsuccessful in obtaining the required allowances; and
 
@@ -180,7 +180,7 @@ Allowances sold in the spot sale in any year are allowances which may only be us
 
 #### (4) Additional auction participants
 
-&emsp;Any person holding allowances or to whom allowances are allocated by the Administratormay submit those allowances to the Administrator to be offered for sale at auction under this subsection. The proceeds of any such sale shall be transferred at the time of sale by the purchaser to the person submitting such allowances for sale. The holder of allowances offered for sale under this paragraph may specify a minimum sale price. Any person may purchase allowances offered for auction under this paragraph. Such allowances shall be allocated and sold to purchasers on the basis of bid price after the auction under paragraph (2) is complete. No funds transferred from a purchaser to a seller of allowances under this paragraph shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or the Administrator.
+&emsp;Any person holding allowances or to whom allowances are allocated by the Administrator may submit those allowances to the Administrator to be offered for sale at auction under this subsection. The proceeds of any such sale shall be transferred at the time of sale by the purchaser to the person submitting such allowances for sale. The holder of allowances offered for sale under this paragraph may specify a minimum sale price. Any person may purchase allowances offered for auction under this paragraph. Such allowances shall be allocated and sold to purchasers on the basis of bid price after the auction under paragraph (2) is complete. No funds transferred from a purchaser to a seller of allowances under this paragraph shall be held by any officer or employee of the United States or treated for any purpose as revenue to the United States or the Administrator.
 
 #### (5) Recording by EPA
 

@@ -8,7 +8,7 @@ Each regulated person who imports or exports a listed chemical shall notify the 
 
 (1) The Attorney General shall provide by regulation for circumstances in which the requirement of subsection (a) of this section does not apply to a transaction between a regulated person and a regular customer or to an importation by a regular importer. At the time of any importation or exportation constituting a transaction referred to in the preceding sentence, the regulated person shall notify the Attorney General of the transaction.
 
-(2) The regulations under this subsection shall provide that the initial notification under subsection (a) of this section with respect to a customer of a regulated person or to an importer shall, upon the expiration of the 15-day period, qualify the customer as a regular customer or the importer as a regular importer, unless the Attorney General otherwise notifies the regulated person in writing.
+(2) The regulations under this subsection shall provide that the initial notification under subsection (a) of this section with respect to a customer of a regulated person or to an importer shall, upon the expiration of the 15-day period, qualify the customer as a regular customer orthe importer as a regular importer, unless the Attorney General otherwise notifies the regulated person in writing.
 
 #### (c) Suspension of importation or exportation; disqualification of regular customers or importers; hearing
 
@@ -70,7 +70,7 @@ Section 6053(b) of Pub. L. 100–690 provided that:
 
 “(4) Not later than 120 days after the date of the enactment of this Act, the Attorney General shall promulgate final regulations required by the amendment made by subsection (a).
 
-“(5) Subsection (a) of section 1018 of the Controlled Substances Import and Export Act \[subsection (a) of this section\], as added by subsection (a) of this section, shall take effect 90 days after the promulgation of the final regulations under paragraph (4).
+“(5) Subsection (a) of section 1018 of the Controlled Substances Import and Export Act \[subsection (a) ofthis section\], as added by subsection (a) of this section, shall take effect 90 days after the promulgation of the final regulations under paragraph (4).
 
 “(6) Each regulated person shall provide to the Attorney General the identity of any regular customer or regular supplier of the regulated person not later than 30 days after the promulgation of the final regulations under paragraph (4). Not later than 60 days after the end of such 30-day period, each regular customer and regular supplier so identified shall be a regular customer or regular supplier for purposes of any applicable exception from the requirement of subsection (a) of such section 1018, unless the the \[sic\] Attorney General otherwise notifies the regulated person in writing.”
 

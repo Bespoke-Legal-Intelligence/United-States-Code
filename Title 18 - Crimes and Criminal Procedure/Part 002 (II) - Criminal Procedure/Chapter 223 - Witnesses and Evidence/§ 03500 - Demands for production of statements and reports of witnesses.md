@@ -28,5 +28,5 @@ Subsec. (e). Pub. L. 91–452, §102(c), (d), struck out “or” after “by hi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14 of this title; title 26 section 6103.
+This section is referred to in title 26 section 6103.
 

@@ -6,7 +6,7 @@ In order to satisfy section 654(20)(A) of this title, each State must have in ef
 
 &emsp;(1)(A) Procedures described in subsection (b) of this section for the withholding from income of amounts payable as support in cases subject to enforcement under the State plan.
 
-&emsp;(B) Procedures under which the income of a person with a support obligation imposed by a support order issued (or modified) in the State before January 1, 1994, if not otherwise subject to withholding under subsection (b) of this section, shall become subject to withholdingas provided in subsection (b) of this section if arrearages occur, without the need for a judicial or administrative hearing.
+&emsp;(B) Procedures under which the income of a person with a support obligation imposed by a support order issued (or modified) in the State before January 1, 1994, if not otherwise subject to withholding under subsection (b) of this section, shall become subject to withholding as provided in subsection (b) of this section if arrearages occur, without the need for a judicial or administrative hearing.
 
 &emsp;(2) Expedited administrative and judicial procedures (including the procedures specified in subsection (c) of this section) for establishing paternity and for establishing, modifying, and enforcing support obligations. The Secretary may waive the provisions of this paragraph with respect to one or more political subdivisions within the State on the basis of the effectiveness and timeliness of support order issuance and enforcement or paternity establishment within the political subdivision (in accordance with the general rule for exemptions under subsection (d) of this section).
 
@@ -156,7 +156,7 @@ Temporary support order based on probable paternity in contested cases.—Proced
 
 &emsp;&emsp;(K)
 
-Proof of certain support and paternity establishment costs.—Procedures under which bills for pregnancy, childbirth, and genetic testing are admissible as evidence without requiring third-party foundation testimony, and shall constitute primafacie evidence of amounts incurred for such services or for testing on behalf of the child.
+Proof of certain support and paternity establishment costs.—Procedures under which bills for pregnancy, childbirth, and genetic testing are admissible as evidence without requiring third-party foundation testimony, and shall constitute prima facie evidence of amounts incurred for such services or for testing on behalf of the child.
 
 &emsp;&emsp;(L)
 
@@ -296,7 +296,7 @@ High-volume automated administrative enforcement.—In this part, the term “hi
 
 Procedures to ensure that persons owing overdue support work or have a plan for payment of such support.—Procedures under which the State has the authority, in any case in which an individual owes overdue support with respect to a child receiving assistance under a State program funded under part A of this subchapter, to issue an order or to request that a court or an administrative process established pursuant to State law issue an order that requires the individual to—
 
-&emsp;&emsp;(A) pay such support in accordance with a plan approved by the court, or, at the optionof the State, a plan approved by the State agency administering the State program under this part; or
+&emsp;&emsp;(A) pay such support in accordance with a plan approved by the court, or, at the option of the State, a plan approved by the State agency administering the State program under this part; or
 
 &emsp;&emsp;(B) if the individual is subject to such a plan and is not incapacitated, participate in such work activities (as defined in section 607(d) of this title) as the court, or, at the option of the State, the State agency administering the State program under this part, deems appropriate.
 
@@ -358,7 +358,7 @@ Health care coverage.—Procedures under which—
 
 &emsp;&emsp;&emsp;(ii) within 20 business days after the date of the National Medical Support Notice, the employer is required to transfer the Notice, excluding the severable employer withholding notice described in section 401(b)(2)(C) of the Child Support Performance and Incentive Act of 1998, to the appropriate plan providing any such health care coverage for which the child is eligible;
 
-&emsp;&emsp;&emsp;(iii) in any case in which the noncustodial parent is a newly hired employee entered in the State Directory of New Hires pursuant to section 653a(e) of this title, the State agency provides, where appropriate, the National Medical Support Notice, together with an income withholding notice issued pursuant to subsection (b) ofthis section, within two days after the date of the entry of such employee in such Directory; and
+&emsp;&emsp;&emsp;(iii) in any case in which the noncustodial parent is a newly hired employee entered in the State Directory of New Hires pursuant to section 653a(e) of this title, the State agency provides, where appropriate, the National Medical Support Notice, together with an income withholding notice issued pursuant to subsection (b) of this section, within two days after the date of the entry of such employee in such Directory; and
 
 &emsp;&emsp;&emsp;(iv) in any case in which the employment of the noncustodial parent with any employer who has received a National Medical Support Notice is terminated, such employer is required to notify the State agency of such termination; and
 
@@ -394,7 +394,7 @@ The procedures referred to in subsection (a)(1)(A) of this section (relating to 
 
 &emsp;(5) Such withholding must be administered by the State through the State disbursement unit established pursuant to section 654b of this title, in accordance with the requirements of section 654b of this title.
 
-&emsp;(6)(A)(i) The employer of any noncustodial parent to whom paragraph (1) applies, upon being given notice as described in clause (ii), must be required to withhold from such noncustodial parent's income the amount specified by such notice (which may include a fee, established by the State, to be paid to the employer unless waived by such employer) and pay such amount (after deducting and retaining any portion thereof which represents the fee so established) to the State disbursement unit within 7 business days after the date the amount would (but for this subsection) havebeen paid or credited to the employee, for distribution in accordance with this part. The employer shall withhold funds as directed in the notice, except that when an employer receives an income withholding order issued by another State, the employer shall apply the income withholding law of the State of the obligor's principal place of employment in determining—
+&emsp;(6)(A)(i) The employer of any noncustodial parent to whom paragraph (1) applies, upon being given notice as described in clause (ii), must be required to withhold from such noncustodial parent's income the amount specified by such notice (which may include a fee, established by the State, to be paid to the employer unless waived by such employer) and pay such amount (after deducting and retaining any portion thereof which represents the fee so established) to the State disbursement unit within 7 business days after the date the amount would (but for this subsection) have been paid or credited to the employee, for distribution in accordance with this part. The employer shall withhold funds as directed in the notice, except that when an employer receives an income withholding order issued by another State, the employer shall apply the income withholding law of the State of the obligor's principal place of employment in determining—
 
 &emsp;&emsp;(I) the employer's fee for processing an income withholding order;
 
@@ -424,7 +424,7 @@ The procedures referred to in subsection (a)(1)(A) of this section (relating to 
 
 &emsp;(7) Support collection under this subsection must be given priority over any other legal process under State law against the same income.
 
-&emsp;(8) For purposes of subsection (a) of this section and this subsection, the term “income” means any periodic form of payment due to an individual, regardless of source, including wages, salaries, commissions, bonuses, worker's compensation, disability, payments pursuant to a pension or retirement program, and interest.
+&emsp;(8) For purposes of subsection (a) of this section and this subsection, the term “income”means any periodic form of payment due to an individual, regardless of source, including wages, salaries, commissions, bonuses, worker's compensation, disability, payments pursuant to a pension or retirement program, and interest.
 
 &emsp;(9) The State must extend its withholding system under this subsection so that such system will include withholding from income derived within such State in cases where the applicable support orders were issued in other States, in order to assure that child support owed by noncustodial parents in such State or any other State will be collected without regard to the residence of the child for whom the support is payable or of such child's custodial parent.
 
@@ -454,7 +454,7 @@ The procedures specified in this subsection are the following:
 
 #### (D) Access to information contained in certain records
 
-&emsp;&emsp;To obtain access, subject to safeguards on privacy and information security, and subject to the nonliability of entities that afford such access under this subparagraph, to information contained in the following records (including automated access, in thecase of records maintained in automated data bases):
+&emsp;&emsp;To obtain access, subject to safeguards on privacy and information security, and subject to the nonliability of entities that afford such access under this subparagraph, to information contained in the following records (including automated access, in the case of records maintained in automated data bases):
 
 &emsp;&emsp;&emsp;(i) Records of other State and local government agencies, including—
 
@@ -532,7 +532,7 @@ The procedures specified in this subsection are the following:
 
 #### (3) Coordination with ERISA
 
-&emsp;Notwithstanding subsection (d) of section 514 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1144(d)\] (relating to effect on other laws), nothing in this subsectionshall be construed to alter, amend, modify, invalidate, impair, or supersede subsections (a), (b), and (c) of such section 514 \[29 U.S.C. 1144(a)–(c)\] as it applies with respect to any procedure referred to in paragraph (1) and any expedited procedure referred to in paragraph (2), except to the extent that such procedure would be consistent with the requirements of section 206(d)(3) of such Act \[29 U.S.C. 1056(d)(3)\] (relating to qualified domestic relations orders) or the requirements of section 609(a) of such Act \[29 U.S.C. 1169(a)\] (relating to qualified medical child support orders) if the reference in such section 206(d)(3) to a domestic relations order and the reference in such section 609(a) to a medical child support order were a reference to a support order referred to in paragraphs (1) and (2) relating to the same matters, respectively.
+&emsp;Notwithstanding subsection (d) of section 514 of the Employee Retirement Income Security Act of 1974 \[29 U.S.C. 1144(d)\] (relating to effect on other laws), nothing in this subsection shall be construed to alter, amend, modify, invalidate, impair, or supersede subsections (a), (b), and (c) of such section 514 \[29 U.S.C. 1144(a)–(c)\] as it applies with respect to any procedure referred to in paragraph (1) and any expedited procedure referred to in paragraph (2), except to the extent that such procedure would be consistent with the requirements of section 206(d)(3) of such Act \[29 U.S.C. 1056(d)(3)\] (relating to qualified domestic relations orders) or the requirements of section 609(a) of such Act \[29 U.S.C. 1169(a)\] (relating to qualified medical child support orders) if the reference in such section 206(d)(3) to a domestic relations order and the reference in such section 609(a) to a medical child support order were a reference to a support order referred to in paragraphs (1) and (2) relating to the same matters, respectively.
 
 #### (d) Exemption of States
 
@@ -684,7 +684,7 @@ Subsec. (b)(4). Pub. L. 104–193, §314(a)(2)(B), amended par. (4) generally. P
 
 “(B) The requirement of advance notice set forth in the first sentence of subparagraph (A) shall not apply in the case of any State which has a system of income withholding for child support purposes in effect on August 16, 1984, if such system provides on that date, and continues to provide, such procedures as may be necessary to meet the procedural due process requirements of State law.”
 
-Subsec. (b)(5). Pub. L. 104–193, §314(a)(2)(C), substituted “the State through the State disbursement unit established pursuant to section 654b of this title, in accordance with the requirements of section 654b of this title.” for “a public agency designated by the State, and the amounts withheld must be expeditiously distributed by the State or such agency in accordance with section 657 of this title under procedures (specified by the State) adequate to document payments of support and to track and monitor such payments, except that the State may establish or permit the establishment of alternative procedures for the collection and distribution of such amounts (under the supervision of such public agency) otherwise than through such public agency so long as the entity making such collection and distribution is publicly accountable for its actions taken in carrying out such procedures, and so long as such procedures will assure prompt distribution, provide for the keeping of adequate records to document payments of support, and permit the tracking and monitoring of such payments.”
+Subsec. (b)(5). Pub. L. 104–193, §314(a)(2)(C), substituted “the State through the State disbursement unit established pursuant to section 654b of this title, in accordance with the requirements of section 654b of this title.” for “a public agency designated by the State, and the amounts withheld must be expeditiously distributed by the State or such agency in accordance with section 657 of this title under procedures (specified by the State) adequate to document payments of support and to track and monitor such payments, except that the State may establish or permit the establishment of alternative procedures for the collection anddistribution of such amounts (under the supervision of such public agency) otherwise than through such public agency so long as the entity making such collection and distribution is publicly accountable for its actions taken in carrying out such procedures, and so long as such procedures will assure prompt distribution, provide for the keeping of adequate records to document payments of support, and permit the tracking and monitoring of such payments.”
 
 Subsec. (b)(6)(A)(i). Pub. L. 104–193, §§314(a)(2)(D)(i), (b)(2)(A), 395(d)(1)(H), substituted “The employer of any noncustodial parent” for “The employer of any absent parent”, “withhold from such noncustodial parent's income” for “withhold from such absent parent's wages”, and “to the State disbursement unit within 7 business days after the date the amount would (but for this subsection) have been paid or credited to the employee, for distribution in accordance with this part. The employer shall withhold funds as directed in the notice, except that when an employer receives an income withholding order issued by another State, the employer shall apply the income withholding law of the state of the obligor's principal place of employment in determining—” for “to the appropriate agency (or other entity authorized to collect the amounts withheld under the alternative procedures described in paragraph (5)) for distribution in accordance with section 657 of this title.”, and added subcls. (I) to (V) and closing provisions.
 

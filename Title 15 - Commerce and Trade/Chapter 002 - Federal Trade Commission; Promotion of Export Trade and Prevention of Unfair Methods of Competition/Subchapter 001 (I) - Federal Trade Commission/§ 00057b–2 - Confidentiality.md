@@ -14,7 +14,7 @@ For purposes of this section:
 
 (2)(A) The Commission shall designate a duly authorized agent to serve as custodian of documentary material, tangible things, or written reports or answers to questions, and transcripts of oral testimony, and such additional duly authorized agents as the Commission shall determine from time to time to be necessary to serve as deputies to the custodian.
 
-(B) Any person upon whom any demand for the production of documentary material has been duly served shall make such material available for inspection and copying or reproduction to the custodian designated in such demand at the principal place of business of such person (or at such other place as such custodian and such person thereafter may agree or prescribe in writingor as the court may direct pursuant to section 57b–1(h) of this title) on the return date specified in such demand (or on such later date as such custodian may prescribe in writing). Such person may upon written agreement between such person and the custodian substitute copies for originals of all or any part of such material.
+(B) Any person upon whom any demand for the production of documentary material has been duly served shall make such material available for inspection and copying or reproduction to the custodian designated in such demand at the principal place of business of such person (or at such other place as such custodian and such person thereafter may agree or prescribe in writing or as the court may direct pursuant to section 57b–1(h) of this title) on the return date specified in such demand (or on such later date as such custodian may prescribe in writing). Such person may upon written agreement between such person and the custodian substitute copies for originals of all or any part of such material.
 
 (3)(A) The custodian to whom any documentary material, tangible things, written reports or answers to questions, and transcripts of oral testimony are delivered shall take physical possession of such material, reports or answers, and transcripts, and shall be responsible for the use made of such material, reports or answers, and transcripts, and for the return of material, pursuant to the requirements of this section.
 
@@ -50,7 +50,7 @@ For purposes of this section:
 
 #### (c) Information considered confidential
 
-(1) All information reported to or otherwise obtained by the Commission which is not subject to the requirements of subsection (b) of this section shall be considered confidential when so marked by the person supplying the information and shall not be disclosed, except in accordance with the procedures established in paragraph (2) and paragraph (3).
+(1) All information reported to or otherwise obtained by the Commission which is not subject to the requirements of subsection (b) of this section shall be considered confidential when so marked by the person supplying the informationand shall not be disclosed, except in accordance with the procedures established in paragraph (2) and paragraph (3).
 
 (2) If the Commission determines that a document marked confidential by the person supplying it may be disclosed because it is not a trade secret or commercial or financial information which is obtained from any person and which is privileged or confidential, within the meaning of section 46(f) of this title, then the Commission shall notify such person in writing that the Commission intends to disclose the document at a date not less than 10 days after the date of receipt of notification.
 

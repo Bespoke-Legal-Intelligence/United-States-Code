@@ -140,7 +140,7 @@ Subsecs. (d) to (g). Pub. L. 98–497, §107(a)(6), substituted “Archivist” 
 
 #### Effective Date of 1986 Amendment
 
-Section 4 of Pub. L. 99–323 provided that: “Paragraphs (3) and (4) of section 2112(g) of title 44, United States Code (as added by the amendment made by section 3(b) of this Act) shall apply with respect to any Presidential archival depository created as a depository for the papers, documents, and other historical materials and Federal records pertaining to any President who takes the oath of office as President for the first time on or after January 20, 1985.”
+Section 4 of Pub. L. 99–323 provided that: “Paragraphs (3) and (4) of section 2112(g) of title 44, United StatesCode (as added by the amendment made by section 3(b) of this Act) shall apply with respect to any Presidential archival depository created as a depository for the papers, documents, and other historical materials and Federal records pertaining to any President who takes the oath of office as President for the first time on or after January 20, 1985.”
 
 #### Effective Date of 1984 Amendment
 

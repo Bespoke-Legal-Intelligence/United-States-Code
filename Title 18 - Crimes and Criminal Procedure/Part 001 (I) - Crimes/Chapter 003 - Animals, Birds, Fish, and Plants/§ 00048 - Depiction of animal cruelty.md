@@ -12,7 +12,7 @@ Exception.—Subsection (a) does not apply to any depiction that has serious rel
 
 Definitions.—In this section—
 
-&emsp;(1) the term “depiction of animal cruelty” means any visual or auditory depiction, including any photograph, motion-picture film, video recording, electronic image, or sound recording of conduct in which a living animal is intentionally maimed, mutilated, tortured, wounded, or killed, if such conduct is illegal under Federal law or the law of the State in which the creation, sale, or possession takesplace, regardless of whether the maiming, mutilation, torture, wounding, or killing took place in the State; and
+&emsp;(1) the term “depiction of animal cruelty” means any visual or auditory depiction, including any photograph, motion-picture film, video recording, electronic image, or sound recording of conduct in which a living animal is intentionally maimed, mutilated, tortured, wounded, or killed, if such conduct is illegal under Federal law or the law of the State in which the creation, sale, or possession takes place, regardless of whether the maiming, mutilation, torture, wounding, or killing took place in the State; and
 
 &emsp;(2) the term “State” means each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States.
 

@@ -26,7 +26,7 @@ Order.—If the agent does not appear at the hearing or if the Secretary finds t
 
 &emsp;(4)
 
-Hearing.—Upon filing of a petition with the Secretary by an agent who is the subject of an order issued pursuant to the second sentence of paragraph (3) of this subsection and after notice, a hearing shall be held with an opportunity to be heard. At such hearing, a determination shall be made whether the orderissued pursuant to paragraph (3) of this subsection should be rescinded.
+Hearing.—Upon filing of a petition with the Secretary by an agent who is the subject of an order issued pursuant to the second sentence of paragraph (3) of this subsection and after notice, a hearing shall be held with an opportunity to be heard. At such hearing, a determination shall be made whether the order issued pursuant to paragraph (3) of this subsection should be rescinded.
 
 &emsp;(5)
 

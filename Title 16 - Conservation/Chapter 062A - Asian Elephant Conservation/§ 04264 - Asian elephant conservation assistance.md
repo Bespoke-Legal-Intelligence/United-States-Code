@@ -72,5 +72,5 @@ Amounts provided as a grant under this chapter may not be used for captive breed
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 4265 of this title.
+This section is referred to in sections 4246, 4265 of this title.
 

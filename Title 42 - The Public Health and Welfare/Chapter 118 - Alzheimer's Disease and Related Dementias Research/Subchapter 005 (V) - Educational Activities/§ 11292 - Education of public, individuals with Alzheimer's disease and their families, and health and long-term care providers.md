@@ -60,7 +60,7 @@ To be eligible to receive a grant under this section, an entity shall submit an 
 
 #### (e) Coordination
 
-The Director of the National Institute on Aging shall coordinate the award of grantsunder this section with the heads of other appropriate agencies, including the Commissioner of the Administration on Aging.
+The Director of the National Institute on Aging shall coordinate the award of grants under this section with the heads of other appropriate agencies, including the Commissioner of the Administration on Aging.
 
 (Pub. L. 99–660, title IX, §962, Nov. 14, 1986, 100 Stat. 3814; Pub. L. 102–507, §8(a), Oct. 24, 1992, 106 Stat. 3286.)
 

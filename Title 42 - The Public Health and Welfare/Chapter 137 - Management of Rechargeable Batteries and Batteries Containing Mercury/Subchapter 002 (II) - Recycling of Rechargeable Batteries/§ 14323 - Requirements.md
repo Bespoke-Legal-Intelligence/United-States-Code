@@ -14,7 +14,7 @@ The collection, storage, or transportation of used rechargeable batteries, batte
 
 (2) States may implement and enforce the requirements of subsection (a) of this section if the Administrator finds that—
 
-&emsp;(A) the State has adopted requirements that are identical to those referred to in subsection\(a) of this section governing the collection, storage, or transportation of batteries referred to in subsection (a) of this section; and
+&emsp;(A) the State has adopted requirements that are identical to those referred to in subsection (a) of this section governing the collection, storage, or transportation of batteries referred to in subsection (a) of this section; and
 
 &emsp;(B) the State provides for enforcement of such requirements.
 

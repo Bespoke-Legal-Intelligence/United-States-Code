@@ -34,7 +34,7 @@ The Director shall revise and update any floodplain areas and flood-risk zones�
 
 #### (g) Availability of flood maps
 
-To promote compliance with the requirements of this chapter, the Director shall make flood insurance rate maps and related information available free of charge to the Federal entities for lending regulation, Federal agency lenders, State agencies directly responsible for coordinating the national flood insurance program, and appropriate representatives of communities participating in the national flood insurance program, and at a reasonable cost to all other persons. Any receipts resulting from this subsection shall be deposited in the National Flood Insurance Fund, pursuant to section 4017(b)(6) of this title.
+To promote compliance with the requirements of this chapter, the Director shall make flood insurance rate maps and related information available free of charge to the Federal entities for lending regulation, Federal agency lenders,State agencies directly responsible for coordinating the national flood insurance program, and appropriate representatives of communities participating in the national flood insurance program, and at a reasonable cost to all other persons. Any receipts resulting from this subsection shall be deposited in the National Flood Insurance Fund, pursuant to section 4017(b)(6) of this title.
 
 #### (h) Notification of flood map changes
 
@@ -48,7 +48,7 @@ Every 6 months, the Director shall publish separately in their entirety within a
 
 In the implementation of revisions to and updates of flood insurance rate maps, the Director shall share information, to the extent appropriate, with the Under Secretary of Commerce for Oceans and Atmosphere and representatives from State coastal zone management programs.
 
-(Pub. L. 90–448, title XIII, §1360, Aug. 1, 1968, 82 Stat. 587; Pub. L. 93–234, title II, §204, Dec. 31, 1973, 87 Stat. 983; Pub. L. 98–181, title IV,§451(d)(1), (6), (7), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §203(j)(2), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 99–120, §4(a)(3), Oct. 8, 1985, 99 Stat. 503; Pub. L. 99–156, §4(a)(3), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, §4(a)(3), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, §4(a)(3), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, §3010(a)(3), Apr. 7, 1986, 100 Stat. 106; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title V, §541(c), Feb. 5, 1988, 101 Stat. 1939; Pub. L. 101–137, §2, Nov. 3, 1989, 103 Stat. 824; Pub. L. 103–325, title V, §575, Sept. 23, 1994, 108 Stat. 2278.)
+(Pub. L. 90–448, title XIII, §1360, Aug. 1, 1968, 82 Stat. 587; Pub. L. 93–234, title II, §204, Dec. 31, 1973, 87 Stat. 983; Pub. L. 98–181, title IV, §451(d)(1), (6), (7), Nov. 30, 1983, 97 Stat. 1229; Pub. L. 98–479, title II, §203(j)(2), Oct. 17, 1984, 98 Stat. 2231; Pub. L. 99–120, §4(a)(3), Oct. 8, 1985, 99 Stat. 503; Pub. L. 99–156, §4(a)(3), Nov. 15, 1985, 99 Stat. 816; Pub. L. 99–219, §4(a)(3), Dec. 26, 1985, 99 Stat. 1731; Pub. L. 99–267, §4(a)(3), Mar. 27, 1986, 100 Stat. 74; Pub. L. 99–272, title III, §3010(a)(3), Apr. 7, 1986, 100 Stat. 106; Pub. L. 99–289, §1(b), May 2, 1986, 100 Stat. 412; Pub. L. 99–345, §1, June 24, 1986, 100 Stat. 673; Pub. L. 99–430, Sept. 30, 1986, 100 Stat. 986; Pub. L. 100–122, §1, Sept. 30, 1987, 101 Stat. 793; Pub. L. 100–154, Nov. 5, 1987, 101 Stat. 890; Pub. L. 100–170, Nov. 17, 1987, 101 Stat. 914; Pub. L. 100–179, Dec. 3, 1987, 101 Stat. 1018; Pub. L. 100–200, Dec. 21, 1987, 101 Stat. 1327; Pub. L. 100–242, title V, §541(c), Feb. 5, 1988, 101 Stat. 1939; Pub. L. 101–137, §2, Nov. 3, 1989, 103 Stat. 824; Pub. L. 103–325, title V, §575, Sept. 23, 1994, 108 Stat. 2278.)
 
 #### References in Text
 
@@ -99,6 +99,10 @@ Subsecs. (b), (c). Pub. L. 98–181, §451(d)(1), substituted “Director” for
 Subsec. (d). Pub. L. 98–181, §451(d)(7), added subsec. (d).
 
 1973—Pub. L. 93–234 designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Technical Mapping Advisory Council
 

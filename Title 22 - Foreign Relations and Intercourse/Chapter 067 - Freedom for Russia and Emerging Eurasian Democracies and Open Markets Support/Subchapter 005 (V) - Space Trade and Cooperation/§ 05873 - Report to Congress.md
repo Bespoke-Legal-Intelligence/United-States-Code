@@ -6,7 +6,7 @@ Within one year after October 24, 1992, the President shall submit to the design
 
 &emsp;(2) a technology procurement plan for identifying and evaluating all unique space hardware, space technology, and space services available to the United States from the independent states;
 
-&emsp;(3) specific space hardware, space technology, and space services that have been, orcould be, the subject of discussions described in section 5871(c) of this title;
+&emsp;(3) specific space hardware, space technology, and space services that have been, or could be, the subject of discussions described in section 5871(c) of this title;
 
 &emsp;(4) the trade missions carried out pursuant to section 5872(a) of this title, including the private participation in and the results of such missions;
 

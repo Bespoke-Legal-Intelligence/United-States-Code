@@ -36,7 +36,7 @@ It shall be an unfair labor practice for a labor organization—
 
 &emsp;(6) to fail or refuse to cooperate in impasse procedures and impasse decisions, as required under this subchapter;
 
-&emsp;(7)(A) to call, or participate in, a strike, work stoppage, or slowdown, or to picket the Department in a labor-management dispute (except that any such picketing in the United States which does not interfere with the Department's operations shall not be an unfair labor practice); or
+&emsp;(7)(A) to call, or participate in, a strike, work stoppage, or slowdown, or to picket the Department in a labor-management dispute (except that any such picketing in the UnitedStates which does not interfere with the Department's operations shall not be an unfair labor practice); or
 
 &emsp;(B) to condone any unfair labor practice described in subparagraph (A) by failing to take action to prevent or stop such activity;
 

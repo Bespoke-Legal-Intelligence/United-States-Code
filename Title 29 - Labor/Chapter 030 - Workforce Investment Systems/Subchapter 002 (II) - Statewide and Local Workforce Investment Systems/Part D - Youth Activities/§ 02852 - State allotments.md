@@ -42,7 +42,7 @@ The Secretary shall—
 
 &emsp;&emsp;&emsp;&emsp;(I) to provide assistance to the outlying areas to carry out youth activities and statewide workforce investment activities; and
 
-&emsp;&emsp;&emsp;&emsp;(II) for each of fiscal years 1999, 2000, and 2001, to carry out the competition described in clause (ii), except that the funds reserved to carry out such clause for any such fiscal year shall not exceed the amount reserved for the Freely Associated States for fiscal year 1997, from amounts reserved under sections 252(a) and 262(a)(1) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
+&emsp;&emsp;&emsp;&emsp;(II) for each of fiscal years 1999, 2000, and 2001, to carry out the competition described in clause (ii), except that the funds reserved to carry out such clause for any such fiscal year shall not exceed the amount reserved for the Freely Associated States for fiscal year 1997, fromamounts reserved under sections 252(a) and 262(a)(1) of the Job Training Partnership Act (as in effect on the day before August 7, 1998).
 
 #### (ii) Limitation for Freely Associated States
 
@@ -118,7 +118,7 @@ The Secretary shall—
 
 #### (II) Small State minimum allotment
 
-&emsp;&emsp;&emsp;&emsp;Subject to subclauses (I), (III), and (IV), the Secretary shall ensure that no State shall receive an allotment under this subparagraph that is less than the total of—
+&emsp;&emsp;&emsp;&emsp;Subject to subclauses (I), (III), and (IV), the Secretary shall ensure that no State shall receive an allotment underthis subparagraph that is less than the total of—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) 3/10 of 1 percent of $1,000,000,000 of the remainder described in clause (i)(II) for the fiscal year; and
 

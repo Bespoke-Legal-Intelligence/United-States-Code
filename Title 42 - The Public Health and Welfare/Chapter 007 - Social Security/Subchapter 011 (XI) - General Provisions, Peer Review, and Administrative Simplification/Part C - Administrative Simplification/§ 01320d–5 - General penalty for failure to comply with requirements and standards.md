@@ -38,7 +38,7 @@
 
 #### (ii) Assistance
 
-&emsp;&emsp;&emsp;If the Secretary determines that a person failed to comply because the person was unable to comply, the Secretary may provide technical assistance to the personduring the period described in subparagraph (A)(ii). Such assistance shall be provided in any manner determined appropriate by the Secretary.
+&emsp;&emsp;&emsp;If the Secretary determines that a person failed to comply because the person was unable to comply, the Secretary may provide technical assistance to the person during the period described in subparagraph (A)(ii). Such assistance shall be provided in any manner determined appropriate by the Secretary.
 
 #### (4) Reduction
 

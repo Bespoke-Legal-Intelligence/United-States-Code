@@ -30,7 +30,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2115, 2116, 3107, 3504 of this title; title 25 section 450j; title 28 section 594.
+This chapter is referred to in sections 2115, 2116, 3107, 3504, 3505, 3538, 3549 of this title; title 25 section 450j; title 28 section 594.
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 98–497 without corresponding amendment of chapter analysis.</i>
 

@@ -24,7 +24,7 @@ As private industry reasonably demonstrates its capability under subsection (a) 
 
 #### (4) Repair and rehabilitation
 
-&emsp;The Secretary may undertake any repair and rehabilitation of any Federal hopper dredge, including the vessel placed in ready reserve status under paragraph (2) to allow the vessel to be placed in active status as provided in paragraph (3).
+&emsp;The Secretary may undertake any repair and rehabilitation of any Federal hopper dredge, including the vessel placed in ready reserve status under paragraph (2) to allow thevessel to be placed in active status as provided in paragraph (3).
 
 #### (5) Procedures
 

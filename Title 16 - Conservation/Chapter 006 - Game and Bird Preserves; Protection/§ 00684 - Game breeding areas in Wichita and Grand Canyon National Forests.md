@@ -14,7 +14,7 @@ Act Jan. 24, 1905, and act June 29, 1906, are identical in language throughout, 
 
 The entire Wichita National Forest was designated a Game Preserve by Proclamation of June 2, 1905 (34 Stat. 3062), enlarged by Executive Order No. 7116, July 26, 1935, and designated the Wichita Mountains Wildlife Refuge by Act June 4, 1936, ch. 489, title I, §1, 49 Stat. 1446. Proclamation No. 2211, Nov. 27, 1936 (50 Stat. 1797), revoked the proclamations of July 4, 1901 (32 Stat. 1973), May 29, 1906 (34 Stat. 3207), and Oct. 13, 1910 (36 Stat. 2754), establishing, enlarging, and modifying the Wichita National Forest, but did affect the Wichita Mountains Wildlife Refuge.
 
-The Grand Canyon National Game Preserve was established by Proclamation of Nov. 28, 1906 (34 Stat.3263), enlarged by Proclamation of June 23, 1908 (35 Stat. 2192), and diminished by Proclamation of June 3, 1909 (36 Stat. 2496). The lands of the Grand Canyon National Forest were divided among and combined with those of the Coconino and Kaibab National Forests by Proclamation of July 2, 1908 (35 Stat. 2196).
+The Grand Canyon National Game Preserve was established by Proclamation of Nov. 28, 1906 (34 Stat. 3263), enlarged by Proclamation of June 23, 1908 (35 Stat. 2192), and diminished by Proclamation of June 3, 1909 (36 Stat. 2496). The lands of the Grand Canyon National Forest were divided among and combined with those of the Coconino and Kaibab National Forests by Proclamation of July 2, 1908 (35 Stat. 2196).
 
 #### Section Referred to in Other Sections
 

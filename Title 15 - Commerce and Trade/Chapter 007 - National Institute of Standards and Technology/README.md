@@ -55,19 +55,34 @@
 | (d) | Scheduling. |
 | (e) | Means of accomplishing goals. |
 | 278g–3. | Computer standards program. |
-| (a) | Development of standards, guidelines, methods, and techniques for computer systems. |
-| (b) | Technical assistance and implementation of standards developed. |
-| (c) | Protection of sensitive information. |
-| (d) | Definitions. |
-| 278g–4. | Computer System Security and Privacy Advisory Board. |
+| (a) | In general. |
+| (b) | Minimum requirements for standards and guidelines. |
+| (c) | Development of standards and guidelines. |
+| (d) | Information security functions. |
+| (e) | Definitions. |
+| (f) | Authorization of appropriations. |
+| 278g–4. | Information Security and Privacy Advisory Board. |
 | (a) | Establishment and composition. |
 | (b) | Duties. |
 | (c) | Term of office. |
 | (d) | Quorum. |
 | (e) | Allowance for travel expenses. |
-| (f) | Staff services and utilization of Federal personnel. |
-| (g) | Definitions. |
-| [278h.](%C2%A7%2000278h%20-%20Appropriations%3B%20availability.md) | Appropriations; availability. |
+| (f) | Meetings. |
+| (g) | Staff services and utilization of Federal personnel. |
+| (h) | Definitions. |
+| 278g–5. | Enterprise integration initiative. |
+| (a) | Establishment. |
+| (b) | Assessment. |
+| (c) | Reports. |
+| (d) | Authorized activities. |
+| (e) | Manufacturing Extension Program. |
+| [278h.](%C2%A7%2000278h%20-%20Research%20program%20on%20security%20of%20computer%20systems.md) | Research program on security of computer systems. |
+| (a) | Establishment. |
+| (b) | Fellowships. |
+| (c) | Awards; applications. |
+| (d) | Program operation. |
+| (e) | Review of program. |
+| (f) | Definitions. |
 | [278i.](%C2%A7%2000278i%20-%20Reports%20to%20Congress.md) | Reports to Congress. |
 | [278j.](%C2%A7%2000278j%20-%20Studies%20by%20National%20Research%20Council.md) | Studies by National Research Council. |
 | [278k.](%C2%A7%2000278k%20-%20Regional%20Centers%20for%20the%20Transfer%20of%20Manufacturing%20Technology.md) | Regional Centers for the Transfer of Manufacturing Technology. |
@@ -92,6 +107,7 @@
 | [278p.](%C2%A7%2000278p%20-%20Notice%20to%20Congress.md) | Notice to Congress. |
 | (a) | Notice of reprogramming. |
 | (b) | Notice of reorganization. |
+| [278q.](%C2%A7%2000278q%20-%20Appropriations%3B%20availability.md) | Appropriations; availability. |
 | [279\.](%C2%A7%2000279%20-%20Absence%20of%20Director.md) | Absence of Director. |
 | 280, 281. | Repealed. |
 | [281a.](%C2%A7%2000281a%20-%20Structural%20failures.md) | Structural failures. |
@@ -134,8 +150,9 @@ This chapter is referred to in section 290d of this title.
 - [&sect; 00278g&#8211;2 - Post-doctoral fellowship program](%C2%A7%2000278g%E2%80%932%20-%20Post-doctoral%20fellowship%20program.md)
 - [&sect; 00278g&#8211;2a - Teacher science and technology enhancement Institute program](%C2%A7%2000278g%E2%80%932a%20-%20Teacher%20science%20and%20technology%20enhancement%20Institute%20program.md)
 - [&sect; 00278g&#8211;3 - Computer standards program](%C2%A7%2000278g%E2%80%933%20-%20Computer%20standards%20program.md)
-- [&sect; 00278g&#8211;4 - Computer System Security and Privacy Advisory Board](%C2%A7%2000278g%E2%80%934%20-%20Computer%20System%20Security%20and%20Privacy%20Advisory%20Board.md)
-- [&sect; 00278h - Appropriations; availability](%C2%A7%2000278h%20-%20Appropriations%3B%20availability.md)
+- [&sect; 00278g&#8211;4 - Information Security and Privacy Advisory Board](%C2%A7%2000278g%E2%80%934%20-%20Information%20Security%20and%20Privacy%20Advisory%20Board.md)
+- [&sect; 00278g&#8211;5 - Enterprise integration initiative](%C2%A7%2000278g%E2%80%935%20-%20Enterprise%20integration%20initiative.md)
+- [&sect; 00278h - Research program on security of computer systems](%C2%A7%2000278h%20-%20Research%20program%20on%20security%20of%20computer%20systems.md)
 - [&sect; 00278i - Reports to Congress](%C2%A7%2000278i%20-%20Reports%20to%20Congress.md)
 - [&sect; 00278j - Studies by National Research Council](%C2%A7%2000278j%20-%20Studies%20by%20National%20Research%20Council.md)
 - [&sect; 00278k - Regional Centers for the Transfer of Manufacturing Technology](%C2%A7%2000278k%20-%20Regional%20Centers%20for%20the%20Transfer%20of%20Manufacturing%20Technology.md)
@@ -144,6 +161,7 @@ This chapter is referred to in section 290d of this title.
 - [&sect; 00278n - Advanced Technology Program](%C2%A7%2000278n%20-%20Advanced%20Technology%20Program.md)
 - [&sect; 00278o - User fees](%C2%A7%2000278o%20-%20User%20fees.md)
 - [&sect; 00278p - Notice to Congress](%C2%A7%2000278p%20-%20Notice%20to%20Congress.md)
+- [&sect; 00278q - Appropriations; availability](%C2%A7%2000278q%20-%20Appropriations%3B%20availability.md)
 - [&sect; 00279 - Absence of Director](%C2%A7%2000279%20-%20Absence%20of%20Director.md)
 - [&sect; 00280, 281 - Repealed. Pub. L. 100&#8211;418, title V, &sect;5113, Aug. 23, 1988, 102 Stat. 1432](%C2%A7%2000280%2C%20281%20-%20Repealed.%20Pub.%20L.%20100%E2%80%93418%2C%20title%20V%2C%20%C2%A75113%2C%20Aug.%2023%2C%201988%2C%20102%20Stat.%201432.md)
 - [&sect; 00281a - Structural failures](%C2%A7%2000281a%20-%20Structural%20failures.md)

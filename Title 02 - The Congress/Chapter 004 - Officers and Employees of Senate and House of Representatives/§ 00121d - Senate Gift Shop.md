@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of the Senate is authorized to establish a Senate Gift Shop for the purpose of providing for the sale of gift items to Members of the Senate, staff, and the general public.
+The Secretary of the Senate is authorized to establish a Senate Gift Shop for the purpose ofproviding for the sale of gift items to Members of the Senate, staff, and the general public.
 
 #### (b) Deposit of receipts
 
@@ -20,7 +20,7 @@ Office of the Secretary”, for amounts used from such account to pay the salari
 
 #### (d) Exception to prohibition of sale or solicitation on Capitol Grounds
 
-The provisions of section 193d of title 40 shall not be applicable to any activity carried out pursuant to this section.
+The provisions of section 5104(c) of title 40 shall not be applicable to any activity carried out pursuant to this section.
 
 #### (e) Transfer of moneys from Stationery Revolving Fund
 
@@ -47,6 +47,8 @@ The Legislative Branch Appropriations Act, 1991, referred to in subsec. (f), is 
 #### Codification
 
 Section is from the Congressional Operations Appropriations Act, 1993, which is title I of the Legislative Branch Appropriations Act, 1993.
+
+In subsec. (d), “section 5104(c) of title 40” substituted for “section 4 of the Act of July 31, 1946 (40 U.S.C. 193d)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

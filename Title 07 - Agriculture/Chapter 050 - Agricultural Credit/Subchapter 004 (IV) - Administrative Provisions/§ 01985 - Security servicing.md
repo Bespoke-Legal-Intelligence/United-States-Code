@@ -2,7 +2,7 @@
 
 #### (a) Preservation and protection of security, lien, or priority of lien securing loan
 
-The Secretary is authorized and empowered to make advances, without regard to any loan or total indebtedness limitation, to preserve and protect the security for or the lien or priority of the lien securing any loan or other indebtedness owing to, insured by, or acquired by the Secretary under this chapter or under any other programs administered by the Farmers Home Administration or the Rural Development Administration; to bid for and purchase at any execution, foreclosure, or other sale or otherwise to acquire property upon which the United States has a lien by reason of a judgment or execution arising from, or which is pledged, mortgaged, conveyed, attached, or levied upon to secure the payment of, any such indebtedness whether or not such property is subject to other liens, to accept title to any property so purchased or acquired; and to sell, manage, or otherwise dispose of such property as hereinafter provided.
+The Secretary is authorized and empowered to make advances, without regard to any loan or total indebtedness limitation, to preserve and protect the security for or the lien or priority of the lien securing any loan or other indebtedness owing to, insured by, or acquired by the Secretary under this chapter or under any other programs administered by the Farmers Home Administration or the Rural Development Administration; to bid for and purchase at any execution, foreclosure, or other sale or otherwise to acquire property upon which the United States has a lien by reason of a judgment or execution arising from, or which is pledged, mortgaged, conveyed, attached, or levied upon to secure thepayment of, any such indebtedness whether or not such property is subject to other liens, to accept title to any property so purchased or acquired; and to sell, manage, or otherwise dispose of such property as hereinafter provided.
 
 #### (b) Operation or lease of realty
 
@@ -22,7 +22,7 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Not later than 75 days after acquiring real property, the Secretary shall offer to sell the property to a qualified beginning farmer or rancher at current market value based on a current appraisal.
+&emsp;&emsp;&emsp;Not later than 135 days after acquiring real property, the Secretary shall offer to sell the property to a qualified beginning farmer or rancher at current market value based on a current appraisal.
 
 #### (ii) Random selection
 
@@ -32,19 +32,17 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 &emsp;&emsp;&emsp;A random selection or denial by the Secretary of a beginning farmer or rancher for farm inventory property under this subparagraph shall be final and not administratively appealable.
 
+#### (iv) Combining and dividing of property
+
+&emsp;&emsp;&emsp;To the maximum extent practicable, the Secretary shall maximize the opportunity for beginning farmers and ranchers to purchase real property acquired by the Secretary under this chapter by combining or dividing inventory parcels of the property in such manner as the Secretary determines to be appropriate.
+
 #### (C) Public sale
 
-&emsp;&emsp;If no acceptable offer is received from a qualified beginning farmer or rancher under subparagraph (B) not later than 75 days after acquiring the real property, the Secretary shall, not later than 30 days after the 75-day period, sell the property after public notice at a public sale, and, if no acceptable bid is received, by negotiated sale, at the best price obtainable.
+&emsp;&emsp;If no acceptable offer is received from a qualified beginning farmer or rancher under subparagraph (B) not later than 135 days after acquiring the real property, the Secretary shall, not later than 30 days after the 135-day period, sell the property after public notice at a public sale, and, if no acceptable bid is received, by negotiated sale, at the best price obtainable.
 
-#### (2) Transitional rules
+#### (2) Previous lease
 
-#### (A) Previous lease
-
-&emsp;&emsp;In the case of real property acquired prior to April 4, 1996, that the Secretary leased prior to April 4, 1996, not later than 60 days after the lease expires, the Secretary shall offer to sell the property in accordance with paragraph (1).
-
-#### (B) Previously in inventory
-
-&emsp;&emsp;In the case of real property acquired prior to April 4, 1996, that the Secretary has not leased, not later than 60 days after April 4, 1996, the Secretary shall offer to sell the property in accordance with paragraph (1).
+&emsp;In the case of real property acquired before April 4, 1996, that the Secretary leased before April 4, 1996, not later than 60 days after the lease expires, the Secretary shall offer to sell the property in accordance with paragraph (1).
 
 #### (3) Interest
 
@@ -58,7 +56,7 @@ Except as provided in subsections (c) and (e) of this section, real property adm
 
 #### (4) Other law
 
-&emsp;The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) shallnot apply to any exercise of authority under this chapter.
+&emsp;The Federal Property and Administrative Services Act of 1949 <sup>1</sup> shall not apply to any exercise of authority under this chapter.
 
 #### (5) Lease of property
 
@@ -124,7 +122,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 (ii) For purposes of this subparagraph, the term “Indian reservation” means all land located within the limits of any Indian reservation under the jurisdiction of the United States, notwithstanding the issuance of any patent, and, including rights-of-way running through the reservation; trust or restricted land located within the boundaries of a former reservation of a federally recognized Indian tribe in the State of Oklahoma; or all Indian allotments the Indian titles to which have not been extinguished if such allotments are subject to the jurisdiction of a federally recognized Indian tribe.
 
-(iii) Not later than 90 days after acquiring the property, the Secretary shall afford an opportunity to purchase or lease the real property in accordance with the order of priority established under clause (iv) by the Indian tribe having jurisdiction over the Indian reservation within which the real property is located or, ifno order of priority is established by such Indian tribe under clause (iv), in the following order:
+(iii) Not later than 90 days after acquiring the property, the Secretary shall afford an opportunity to purchase or lease the real property in accordance with the order of priority established under clause (iv) by the Indian tribe having jurisdiction over the Indian reservation within which the real property is located or, if no order of priority is established by such Indian tribe under clause (iv), in the following order:
 
 &emsp;(I) to an Indian member of the Indian tribe that has jurisdiction over the reservation within which the real property is located;
 
@@ -146,7 +144,7 @@ With respect to any real property administered under this chapter, the Secretary
 
 &emsp;(II) such time as the lands are transferred into trust pursuant to clause (viii).
 
-(vi) At any time any real property is transferred to the Secretary of the Interior under clause (v), the Secretary of Agriculture shall be deemed to have no further responsibility under this Act for collection of any amounts with regard to the farm program loan which had been secured by such real property, nor with regard to any lien arising out of such loan transaction, nor for repayments of any amount with regard to such loan transactions or liens to the Treasury of the United States, and the Secretary of the Interior shall be deemed to have succeeded to all right, title and interest of the Secretary of Agriculture in such real estate arising from the farm program loan transaction, including the obligation to remit to the Treasury of the United States, in repayment of the original loan, those amounts provided in clause (vii).
+(vi) At any time any real property is transferred to the Secretary of the Interior underclause (v), the Secretary of Agriculture shall be deemed to have no further responsibility under this Act for collection of any amounts with regard to the farm program loan which had been secured by such real property, nor with regard to any lien arising out of such loan transaction, nor for repayments of any amount with regard to such loan transactions or liens to the Treasury of the United States, and the Secretary of the Interior shall be deemed to have succeeded to all right, title and interest of the Secretary of Agriculture in such real estate arising from the farm program loan transaction, including the obligation to remit to the Treasury of the United States, in repayment of the original loan, those amounts provided in clause (vii).
 
 (vii) After the payment of any taxes which are required to be paid under clause (v), all remaining rental income derived from the lease of the real property transferred to the Secretary of the Interior under clause (v), and all other income generated from the real property transferred to the Secretary of the Interior under clause (v), shall be deposited as miscellaneous receipts in the Treasury of the United States until the amount deposited is equal to the lesser of—
 
@@ -310,25 +308,41 @@ Assumed loans.—If an Indian tribe assumes a loan under subclause (I)—
 
 #### (3) Notification
 
-&emsp;The Secretary shall provide prior written notification to a borrower considering preservation loan servicing that a wetlands conservation easement may be placed on land forwhich the borrower is negotiating a lease option.
+&emsp;The Secretary shall provide prior written notification to a borrower considering preservation loan servicing that a wetlands conservation easement may be placed on land for which the borrower is negotiating a lease option.
 
 #### (4) Appraised value
 
 &emsp;The appraised value of the farm shall reflect the value of the land due to the placement of wetland conservation easements.
 
-(Pub. L. 87–128, title III, §335, Aug. 8, 1961, 75 Stat. 315; Pub. L. 92–419, title I, §127, Aug. 30, 1972, 86 Stat. 666; Pub. L. 99–198, title XIII, §§1314(a), 1315, 1318(b)(1), Dec. 23, 1985, 99 Stat. 1526, 1528, 1531; Pub. L. 100–233, title VI, §§610, 611, Jan. 6, 1988, 101 Stat. 1669, 1673; Pub. L. 101–624, title XVIII, §§1813(a)–(h)(1), 1816(e), title XXIII, §§2303(c), 2388(g), Nov. 28, 1990, 104 Stat. 3821–3823, 3827, 3981, 4053; Pub. L. 102–237, title V, §501(f), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–552, title V, §516(h)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 102–554, §§16, 17, Oct. 28, 1992, 106 Stat. 4154; Pub. L. 104–127, title VI, §§638, 639, Apr. 4, 1996, 110 Stat. 1093, 1097.)
+(Pub. L. 87–128, title III, §335, Aug. 8, 1961, 75 Stat. 315; Pub. L. 92–419, title I, §127, Aug. 30, 1972, 86 Stat. 666; Pub. L. 99–198, title XIII, §§1314(a), 1315, 1318(b)(1), Dec. 23, 1985, 99 Stat. 1526, 1528, 1531; Pub. L. 100–233, title VI, §§610, 611, Jan. 6, 1988, 101 Stat. 1669, 1673; Pub. L. 101–624, title XVIII, §§1813(a)–(h)(1), 1816(e), title XXIII, §§2303(c), 2388(g), Nov. 28, 1990, 104 Stat. 3821–3823, 3827, 3981, 4053; Pub. L. 102–237, title V, §501(f), Dec. 13, 1991, 105 Stat. 1867; Pub. L. 102–552, title V, §516(h)(1), Oct. 28, 1992, 106 Stat. 4138; Pub. L. 102–554, §§16, 17, Oct. 28, 1992, 106 Stat. 4154; Pub. L. 104–127, title VI, §§638, 639, Apr. 4, 1996, 110 Stat. 1093, 1097; Pub. L. 107–171, title V, §5308, May 13, 2002, 116 Stat. 345.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in text, see note set out under section 1921 of this title.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(4), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that Act relating to management and disposal of property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(4), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 This Act, referred to in subsec. (e)(1)(A)(vi), refers to the Agricultural Act of 1961, Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 294, as amended. For classification of this Act to the Code, see Short Title note set out under section 1911 of this title and Tables. However, the reference was probably intended to be “this title” meaning the Consolidated Farm and Rural Development Act, title III of Pub. L. 87–128, as amended, which is classified principally to this chapter. For classification of this title to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
 Subsection (g)(6) of this section, referred to in subsec. (e)(1)(D)(iii)(I), was redesignated subsection (g)(3) of this section by Pub. L. 104–127, title VI, §639(4), Apr. 4, 1996, 110 Stat. 1097.
 
 #### Amendments
+
+2002—Subsec. (c)(1)(B)(i). Pub. L. 107–171, §5308(1)(A)(i), substituted “135 days” for “75 days”.
+
+Subsec. (c)(1)(B)(iv). Pub. L. 107–171, §5308(1)(A)(ii), added cl. (iv).
+
+Subsec. (c)(1)(C). Pub. L. 107–171, §5308(1)(B), substituted “135 days” for “75 days” and “135-day period” for “75-day period”.
+
+Subsec. (c)(2). Pub. L. 107–171, §5308(2), added par. (2) and struck out heading and text of former par. (2). Text read as follows:
+
+“(A)
+
+Previous lease.—In the case of real property acquired prior to April 4, 1996, that the Secretary leased prior to April 4, 1996, not later than 60 days after the lease expires, the Secretary shall offer to sell the property in accordance with paragraph (1).
+
+“(B)
+
+Previously in inventory.—In the case of real property acquired prior to April 4, 1996, that the Secretary has not leased, not later than 60 days after April 4, 1996, the Secretary shall offer to sell the property in accordance with paragraph (1).”
 
 1996—Subsec. (b). Pub. L. 104–127, §638(1), substituted “subsections (c) and (e)” for “subsection (e)”.
 
@@ -424,7 +438,7 @@ Subsec. (c)(2)(A), (B). Pub. L. 101–624, §1813(e)(1), added subpar. (A) and s
 
 Subsec. (c)(2)(B)(ii). Pub. L. 101–624, §1813(g)(1), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “offer suitable land at a price not greater than that which reflects the appraised market value of such land;”.
 
-Subsec. (c)(2)(B)(iii). Pub. L. 101–624, §1813(b)(1), inserted before semicolon “, except that if the committeedetermines that two or more applicants meet the loan eligibility criteria, the committee shall select between the qualified applicants on a random basis”.
+Subsec. (c)(2)(B)(iii). Pub. L. 101–624, §1813(b)(1), inserted before semicolon “, except that if the committee determines that two or more applicants meet the loan eligibility criteria, the committee shall select between the qualified applicants on a random basis”.
 
 Subsec. (c)(2)(B)(iv). Pub. L. 101–624, §2388(g), substituted “cause” for “caused”.
 
@@ -496,7 +510,7 @@ Amendment by section 1816 of Pub. L. 101–624 applicable to new applications su
 
 #### Effective Date of 1985 Amendment
 
-Section 1314(b) of Pub. L. 99–198 provided that: “The Secretary of Agriculture shall implement the amendments made by this section \[amending this section\] notlater than 90 days after the date of enactment of this Act \[Dec. 23, 1985\].”
+Section 1314(b) of Pub. L. 99–198 provided that: “The Secretary of Agriculture shall implement the amendments made by this section \[amending this section\] not later than 90 days after the date of enactment of this Act \[Dec. 23, 1985\].”
 
 #### Completion of Sales of Farmers Home Administration Inventory Farms
 
@@ -510,7 +524,7 @@ Section 623 of Pub. L. 100–233, as amended by Pub. L. 101–624, title XVIII, 
 
 In General.—The Secretary of Agriculture, in coordination with the limited resource farmers’ initiative in the office of the Director of the Office of Advocacy and Enterprise, shall establish a farm ownership outreach program for persons who are members of any group with respect to which an individual may be identified as a socially disadvantaged individual under section 8(a)(5) of the Small Business Act (15 U.S.C. 637(a)(5)) to encourage the acquisition of inventory farmland of the Farmers Home Administration by—
 
-&emsp;“(1) informing persons eligible for assistance under any other provision of this Act \[see Short Title of 1988 Amendment note set out under section 2001 of Title 12, Banks and Banking\] of—
+&emsp;“(1) informing persons eligible for assistance under any other provision of this Act \[see Short Title of1988 Amendment note set out under section 2001 of Title 12, Banks and Banking\] of—
 
 &emsp;&emsp;“(A) the possiblity \[sic\] of acquiring such inventory farmland; and
 

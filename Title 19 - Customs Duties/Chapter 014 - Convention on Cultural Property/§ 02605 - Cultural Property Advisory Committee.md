@@ -50,7 +50,7 @@ Six of the members of the Committee shall constitute a quorum. All decisions of 
 
 &emsp;(B) its findings as to the nations individually having a significant import trade in the relevant material; and
 
-&emsp;(C) its recommendation, together with the reasons therefor, as to whether an agreement should be entered into under section 2602(a) of this title with respect to the State Party.
+&emsp;(C) its recommendation, together with the reasons therefor, as to whether an agreementshould be entered into under section 2602(a) of this title with respect to the State Party.
 
 (2) The Committee shall, with respect to each agreement proposed to be extended by the President under section 2602(e) of this title, prepare a report setting forth its recommendations together with the reasons therefor, as to whether or not the agreement should be extended.
 

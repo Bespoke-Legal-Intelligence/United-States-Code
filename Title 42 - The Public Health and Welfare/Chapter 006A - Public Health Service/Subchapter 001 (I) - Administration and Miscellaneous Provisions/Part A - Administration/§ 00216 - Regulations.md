@@ -6,7 +6,7 @@ The President shall from time to time prescribe regulations with respect to the 
 
 #### (b) Promulgation by Surgeon General; administration of Service
 
-The Surgeon General, with the approval of the Secretary, unless specifically otherwise provided, shall promulgate all other regulations necessary to the administration of the Service, including regulations with respect to uniformsfor employees, and regulations with respect to the custody, use, and preservation of the records, papers, and property of the Service.
+The Surgeon General, with the approval of the Secretary, unless specifically otherwise provided, shall promulgate all other regulations necessary to the administration of the Service, including regulations with respect to uniforms for employees, and regulations with respect to the custody, use, and preservation of the records, papers, and property of the Service.
 
 #### (c) Preference to school of medicine
 
@@ -20,7 +20,7 @@ No regulation relating to qualifications for appointment of medical officers or 
 
 #### Effective Date of 1949 Amendment
 
-Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949.
+Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a note under section 854a of Title 33, Navigation and Navigable Waters.
 
 #### Transfer of Functions
 

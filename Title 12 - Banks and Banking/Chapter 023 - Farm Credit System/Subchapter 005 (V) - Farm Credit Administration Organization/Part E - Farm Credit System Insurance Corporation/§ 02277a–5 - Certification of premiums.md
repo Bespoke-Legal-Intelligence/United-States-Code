@@ -4,15 +4,17 @@
 
 Annually, on a date to be determined in the sole discretion of the Board of Directors, each insured System bank that became insured before the beginning of the year shall file with the Corporation a certified statement showing—
 
-&emsp;(1) the annual average principal outstanding on loans made by the bank that are in accrual status, including the nonguaranteed portions of government-guaranteed loans;
+&emsp;(1) the annual average principal outstanding on loans made by the bank that are in accrual status, including the nonguaranteed portions of government-guaranteed loans and Government Sponsored Enterprise-guaranteed loans (as defined in section 2277a–4(a)(4) of this title);
 
 &emsp;(2) the annual average principal outstanding on the guaranteed portion of Federal Government-guaranteed loans (as defined in section 2277a–4(a)(3) of this title) that are in accrual status;
 
 &emsp;(3) the annual average principal outstanding on State government-guaranteed loans (as defined in section 2277a–4(a)(3) of this title) that are in accrual status;
 
-&emsp;(4) the annual average principal outstanding on loans that are in nonaccrual status; and
+&emsp;(4) the annual average principal outstanding on the guaranteed portions of Government Sponsored Enterprise-guaranteed loans (as defined in section 2277a–4(a)(4) of this title) that are in accrual status;
 
-&emsp;(5) the amount of the premium due the Corporation from the bank for the year.
+&emsp;(5) the annual average principal outstanding on loans that are in nonaccrual status; and
+
+&emsp;(6) the amount of the premium due the Corporation from the bank for the year.
 
 #### (b) Contents and form of statement
 
@@ -30,9 +32,13 @@ The premium payments required from insured System banks under subsection (a) of 
 
 The Board of Directors shall prescribe all rules and regulations necessary for the enforcement of this section. The Board of Directors may limit the retroactive effect, if any, of any of its rules or regulations.
 
-(Pub. L. 92–181, title V, §5.56, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, §302(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–624, title XVIII, §1835, Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, §215(a)(2)(B), Feb. 10, 1996, 110 Stat. 176.)
+(Pub. L. 92–181, title V, §5.56, as added Pub. L. 100–233, title III, §302, Jan. 6, 1988, 101 Stat. 1612; amended Pub. L. 100–399, title III, §302(f), Aug. 17, 1988, 102 Stat. 994; Pub. L. 101–624, title XVIII, §1835, Nov. 28, 1990, 104 Stat. 3833; Pub. L. 104–105, title II, §215(a)(2)(B), Feb. 10, 1996, 110 Stat. 176; Pub. L. 107–171, title V, §5403(a)(2)(B), May 13, 2002, 116 Stat. 351.)
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–171, §5403(a)(2)(B)(i), inserted “and Government Sponsored Enterprise-guaranteed loans (as defined in section 2277a–4(a)(4) of this title)” after “government-guaranteed loans”.
+
+Subsec. (a)(4) to (6). Pub. L. 107–171, §5403(a)(2)(B)(ii), (iii), added par. (4) and redesignated former pars. (4) and (5) as (5) and (6), respectively.
 
 1996—Subsec. (a)(2), (3). Pub. L. 104–105 substituted “2277a–4(a)(3) of this title” for “2277a–4(a)(2) of this title”.
 
@@ -40,11 +46,15 @@ The Board of Directors shall prescribe all rules and regulations necessary for t
 
 1988—Subsec. (a). Pub. L. 100–399 substituted “of the year” for “of such year”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–171 applicable with respect to determinations of premiums for calendar year 2002 and for any succeeding calendar year, and to certified statements with respect to such premiums, see section 5403(b) of Pub. L. 107–171, set out as a note under section 2020 of this title.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2277a–6 of this title.
+This section is referred to in sections 2277a–4, 2277a–6 of this title.
 

@@ -8,7 +8,7 @@ Every individual who—
 
 &emsp;(2)(A) has been entitled to benefits under this part under section 426(b) of this title, and
 
-&emsp;(B)(i) continues to have the disabling physical or mental impairment on the basis of which the individual was found to be under a disability or to be a disabled qualified railroadretirement beneficiary, or (ii) is blind (within the meaning of section 416(i)(1) of this title), but
+&emsp;(B)(i) continues to have the disabling physical or mental impairment on the basis of which the individual was found to be under a disability or to be a disabled qualified railroad retirement beneficiary, or (ii) is blind (within the meaning of section 416(i)(1) of this title), but
 
 &emsp;(C) whose entitlement under section 426(b) of this title ends due solely to the individual having earnings that exceed the substantial gainful activity amount (as defined in section 423(d)(4) of this title); and
 
@@ -30,7 +30,7 @@ Every individual who—
 
 &emsp;(A) In the case of an individual who enrolls under subsection (b)(2) of this section before the month in which the individual first satisfies subsection (a) of this section, the first day of such month.
 
-&emsp;(B) In the case of an individual who enrolls under subsection (b)(2) of this section in the month in which the individual first satisfies subsection (a) of this section, the first day of the month following the month in which the individual so enrolls.
+&emsp;(B) In the case of an individual who enrolls under subsection (b)(2) of this section in the month in which the individual first satisfiessubsection (a) of this section, the first day of the month following the month in which the individual so enrolls.
 
 &emsp;(C) In the case of an individual who enrolls under subsection (b)(2) of this section in the month following the month in which the individual first satisfies subsection (a) of this section, the first day of the second month following the month in which the individual so enrolls.
 

@@ -26,7 +26,7 @@
 
 #### (b) Disclosure of information to authorized persons
 
-(1) Upon request, filed in accordance with subsection (d) of this section, of any authorized person, as defined in subsection (c) of this section for the information described in subsection (a)(2) of this section, or of any authorized person, as defined in section 663(d)(2) of this title for the information described in section 663(c) of this title, the Secretary shall, notwithstanding any other provision of law, provide through the Federal Parent Locator Service such information to such person, if such information—
+(1) Upon request, filed in accordance with subsection (d) of this section, of any authorized person, as defined in subsection (c) of this section for the information described in subsection (a)(2)of this section, or of any authorized person, as defined in section 663(d)(2) of this title for the information described in section 663(c) of this title, the Secretary shall, notwithstanding any other provision of law, provide through the Federal Parent Locator Service such information to such person, if such information—
 
 &emsp;(A) is contained in any files or records maintained by the Secretary or by the Department of Health and Human Services; or
 
@@ -52,7 +52,7 @@ As used in subsection (a) of this section, the term “authorized person” mean
 
 &emsp;(1) any agent or attorney of any State having in effect a plan approved under this part, who has the duty or authority under such plans to seek to recover any amounts owed as child and spousal support (including, when authorized under the State plan, any official of a political subdivision);
 
-&emsp;(2) the court which has authority to issue an order or to serve as the initiating court in anaction to seek an order against a noncustodial parent for the support and maintenance of a child, or any agent of such court;
+&emsp;(2) the court which has authority to issue an order or to serve as the initiating court in an action to seek an order against a noncustodial parent for the support and maintenance of a child, or any agent of such court;
 
 &emsp;(3) the resident parent, legal guardian, attorney, or agent of a child (other than a child receiving assistance under a State program funded under part A of this subchapter) (as determined by regulations prescribed by the Secretary) without regard to the existence of a court order against a noncustodial parent who has a duty to support and maintain any such child; and
 
@@ -86,7 +86,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (2) Case and order information
 
-&emsp;The information referred to in paragraph (1) with respect to a case or an order shall be such information as the Secretary may specify in regulations (including the names, social security numbers or other uniform identification numbers, and State case identification numbers) to identify the individuals who owe or are owed support (or with respect to or on behalf of whom support obligations are sought to be established), and the State or States whichhave the case or order. Beginning not later than October 1, 1999, the information referred to in paragraph (1) shall include the names and social security numbers of the children of such individuals.
+&emsp;The information referred to in paragraph (1) with respect to a case or an order shall be such information as the Secretary may specify in regulations (including the names, social security numbers or other uniform identification numbers, and State case identification numbers) to identify the individuals who owe or are owed support (or with respect to or on behalf of whom support obligations are sought to be established), and the State or States which have the case or order. Beginning not later than October 1, 1999, the information referred to in paragraph (1) shall include the names and social security numbers of the children of such individuals.
 
 #### (3) Administration of Federal tax laws
 
@@ -188,7 +188,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 &emsp;&emsp;The Secretary of Education may use information resulting from a data match pursuant to this paragraph only—
 
-&emsp;&emsp;&emsp;(i) for the purpose of collection of the debt described in subparagraph (A) owed by an individual whose annualized wage level (determined by taking into consideration information from the National Directory of New Hires) exceeds $16,000; and
+&emsp;&emsp;&emsp;(i) for the purpose of collection of the debt described in subparagraph (A) owedby an individual whose annualized wage level (determined by taking into consideration information from the National Directory of New Hires) exceeds $16,000; and
 
 &emsp;&emsp;&emsp;(ii) after removal of personal identifiers, to conduct analyses of student loan defaults.
 
@@ -230,7 +230,7 @@ The Secretary may reimburse Federal and State agencies for the costs incurred by
 
 #### (3) For information furnished to State and Federal agencies
 
-&emsp;A State or Federal agency that receives information from the Secretary pursuant to thissection shall reimburse the Secretary for costs incurred by the Secretary in furnishing the information, at rates which the Secretary determines to be reasonable (which rates shall include payment for the costs of obtaining, verifying, maintaining, and comparing the information).
+&emsp;A State or Federal agency that receives information from the Secretary pursuant to this section shall reimburse the Secretary for costs incurred by the Secretary in furnishing the information, at rates which the Secretary determines to be reasonable (which rates shall include payment for the costs of obtaining, verifying, maintaining, and comparing the information).
 
 #### (<i>l</i>) Restriction on disclosure and use
 
@@ -278,7 +278,7 @@ The Higher Education Act of 1965, referred to in subsec. (j)(6)(A), (E), is Pub.
 
 Subsec. (<i>l</i>)(2). Pub. L. 106–113, §1000(a)(5) \[title III, §303(b)\], amended Pub. L. 105–200, §402(a), by inserting “or any other person” after “employee of the United States” in new par. (2). See 1998 Amendment note below.
 
-1998—Subsec. (a)(2). Pub. L. 105–200, §410(d)(1), (2), in introductory provisions, substituted “parentage or” for“parentage,” and struck out “or making or enforcing child custody or visitation orders,” after “obligations,”.
+1998—Subsec. (a)(2). Pub. L. 105–200, §410(d)(1), (2), in introductory provisions, substituted “parentage or” for “parentage,” and struck out “or making or enforcing child custody or visitation orders,” after “obligations,”.
 
 Subsec. (a)(2)(A)(iv). Pub. L. 105–200, §410(d)(3), realigned margins.
 
@@ -408,7 +408,7 @@ Section 124(c) of Pub. L. 100–485 provided that:
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting any right, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
+Amendment by Pub. L. 98–369 effective July 18, 1984, but not to be construed as changing or affecting anyright, liability, status, or interpretation which existed (under the provisions of law involved) before that date, see section 2664(b) of Pub. L. 98–369, set out as a note under section 401 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -432,7 +432,7 @@ Section 316(h) of title III of Pub. L. 104–193 provided that: “The Secretary
 
 #### Executive Agencies To Facilitate Payment of Child Support
 
-For provisions requiring Federal agencies to cooperate with Federal Parent Locator Service, see Ex. Ord.No. 12953, §303, Feb. 27, 1995, 60 F.R. 11014, set out as a note under section 659 of this title.
+For provisions requiring Federal agencies to cooperate with Federal Parent Locator Service, see Ex. Ord. No. 12953, §303, Feb. 27, 1995, 60 F.R. 11014, set out as a note under section 659 of this title.
 
 #### Section Referred to in Other Sections
 

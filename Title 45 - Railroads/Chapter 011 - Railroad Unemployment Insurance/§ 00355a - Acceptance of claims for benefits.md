@@ -10,7 +10,7 @@ The Railroad Unemployment Insurance Act, referred to in text, is act June 25, 19
 
 #### Codification
 
-Section was enacted as part of act June 29, 1956, popularly known as the Departments of Labor, and Health,Education, and Welfare, Appropriation Act, 1957, and not as a part of the Railroad Unemployment Insurance Act which comprises this chapter.
+Section was enacted as part of act June 29, 1956, popularly known as the Departments of Labor, and Health, Education, and Welfare, Appropriation Act, 1957, and not as a part of the Railroad Unemployment Insurance Act which comprises this chapter.
 
 #### Prior Provisions
 

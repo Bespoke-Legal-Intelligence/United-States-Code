@@ -1,0 +1,66 @@
+### §14308. Information
+
+(a)
+
+Actions of Commission.—To obtain information needed to carry out its duties, the Appalachian Regional Commission shall—
+
+&emsp;(1) hold hearings, sit and act at times and places, take testimony, receive evidence, and print or otherwise reproduce and distribute so much of its proceedings and reports on the proceedings as the Commission may deem advisable;
+
+&emsp;(2) arrange for the head of any federal, state, or local department or agency to furnish to the Commission information as may be available to or procurable by the department or agency; and
+
+&emsp;(3) keep accurate and complete records of its doings and transactions which shall be made available for—
+
+&emsp;&emsp;(A) public inspection; and
+
+&emsp;&emsp;(B) audit and examination by the Comptroller General or an authorized representative of the Comptroller General.
+
+(b)
+
+Authorizations.—
+
+&emsp;(1)
+
+Administer oaths.—A Cochairman of the Commission, or any member of the Commission designated by the Commission, may administer oaths when the Commission decides that testimony shall be taken or evidence received under oath.
+
+&emsp;(2)
+
+Furnish information.—The head of any federal, state, or local department or agency, to the extent not otherwise prohibited by law, may carry out section <sup>1</sup> (a)(2).
+
+(c)
+
+Public Participation.—Public participation in the development, revision, and implementation of all plans and programs under this subtitle by the Commission, any State, or any local development district shall be provided for, encouraged, and assisted. The Commission shall develop and publish regulations specifying minimum guidelines for public participation, including public hearings.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1260.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+14308(a)
+
+40 App.:107(a)(1) (words before 5th comma), (2) (less words in parentheses), (3).
+
+Pub. L. 89–4, title I, §107, Mar. 9, 1965, 79 Stat. 9; Pub. L. 94–188, title I, §109, Dec. 31, 1975, 89 Stat. 1081.
+
+14308(b)(1)
+
+40 App.:107(a)(1) (words after 5th comma).
+
+14308(b)(2)
+
+40 App.:107(a)(2) (words in parentheses).
+
+14308(c)
+
+40 App.:107(b).
+
+In subsection (b)(1), the words “for the purpose” are omitted as unnecessary.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+

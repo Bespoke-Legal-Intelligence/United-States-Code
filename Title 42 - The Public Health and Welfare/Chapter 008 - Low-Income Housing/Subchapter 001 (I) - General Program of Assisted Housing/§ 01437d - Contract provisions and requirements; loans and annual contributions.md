@@ -70,7 +70,7 @@ Every contract for contributions with respect to a low-income housing project sh
 
 Every contract for contributions (including contracts which amend or supersede contracts previously made) may provide that—
 
-&emsp;(1) upon the occurrence of a substantial default in respect to the covenants or conditions to which the public housing agency is subject (as such substantial default shall be defined in such contract), the public housing agency shall be obligated at the option of the Secretary either to convey title in any case where, in the determination of the Secretary (which determination shall be final and conclusive), such conveyance of title is necessary to achieve the purposes of this chapter, or to deliver to the Secretary possession of theproject, as then constituted, to which such contract relates; and
+&emsp;(1) upon the occurrence of a substantial default in respect to the covenants or conditions to which the public housing agency is subject (as such substantial default shall be defined insuch contract), the public housing agency shall be obligated at the option of the Secretary either to convey title in any case where, in the determination of the Secretary (which determination shall be final and conclusive), such conveyance of title is necessary to achieve the purposes of this chapter, or to deliver to the Secretary possession of the project, as then constituted, to which such contract relates; and
 
 &emsp;(2) the Secretary shall be obligated to reconvey or redeliver possession of the project as constituted at the time of reconveyance or redelivery, to such public housing agency or to its successor (if such public housing agency or a successor exists) upon such terms as shall be prescribed in such contract, and as soon as practicable (i) after the Secretary is satisfied that all defaults with respect to the project have been cured, and that the project will, in order to fulfill the purposes of this chapter, thereafter be operated in accordance with the terms of such contract; or (ii) after the termination of the obligation to make annual contributions available unless there are any obligations or covenants of the public housing agency to the Secretary which are then in default. Any prior conveyances and reconveyances or deliveries and redeliveries of possession shall not exhaust the right to require a conveyance or delivery of possession of the project to the Secretary pursuant to subparagraph (1) upon the subsequent occurrence of a substantial default.
 
@@ -116,7 +116,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 &emsp;(J) The extent to which the public housing agency is providing acceptable basic housing conditions.
 
-&emsp;(K) Any other factors as the Secretary deems appropriate which shall not exceed theseven factors in the statute, plus an additional five.
+&emsp;(K) Any other factors as the Secretary deems appropriate which shall not exceed the seven factors in the statute, plus an additional five.
 
 &emsp;(I) <sup>3</sup> The Secretary shall:
 
@@ -152,7 +152,7 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 (3)(A) Notwithstanding any other provision of law or of any contract for contributions, upon the occurrence of events or conditions that constitute a substantial default by a public housing agency with respect to the covenants or conditions to which the public housing agency is subject or an agreement entered into under paragraph (2), the Secretary may—
 
-&emsp;(i) solicit competitive proposals from other public housing agencies and private housing management agents which (I) in the discretion of the Secretary, may be selected by existing public housing residents through administrative procedures established by the Secretary, and (II) if appropriate, shall provide for such agents to manage all, or part, of the housingadministered by the public housing agency or all or part of the other programs of the agency;
+&emsp;(i) solicit competitive proposals from other public housing agencies and private housing management agents which (I) in the discretion of the Secretary, may be selected by existing public housing residents through administrative procedures established by the Secretary, and (II) if appropriate, shall provide for such agents to manage all, or part, of the housing administered by the public housing agency or all or part of the other programs of the agency;
 
 &emsp;(ii) petition for the appointment of a receiver (which may be another public housing agency or a private management corporation) of the public housing agency to any district court of the United States or to any court of the State in which the real property of the public housing agency is situated, that is authorized to appoint a receiver for the purposes and having the powers prescribed in this subsection;
 
@@ -188,9 +188,9 @@ The Secretary may, upon application by a public housing agency in connection wit
 
 &emsp;(iii) if determined to be appropriate by the Secretary, may seek the establishment, as permitted by applicable State and local law, of 1 or more new public housing agencies;
 
-&emsp;(iv) if determined to be appropriate by the Secretary, may seek consolidation of all or part of the agency (including all or part of any project or program of the agency), as permitted by applicable State and local laws, into other well-managed public housing agencies with the consent of such well-managed agencies; and
+&emsp;(iv) if determined to be appropriate by the Secretary, may seek consolidation of all orpart of the agency (including all or part of any project or program of the agency), as permitted by applicable State and local laws, into other well-managed public housing agencies with the consent of such well-managed agencies; and
 
-&emsp;(v) shall not be required to comply with any State or local law relating to civil service requirements, employee rights (except civilrights), procurement, or financial or administrative controls that, in the receiver's written determination (which shall include the basis for such determination), substantially impedes correction of the substantial default.
+&emsp;(v) shall not be required to comply with any State or local law relating to civil service requirements, employee rights (except civil rights), procurement, or financial or administrative controls that, in the receiver's written determination (which shall include the basis for such determination), substantially impedes correction of the substantial default.
 
 (D)(i) If, pursuant to subparagraph (A)(iv), the Secretary takes possession of all or part of the public housing agency, including all or part of any project or program of the agency, the Secretary—
 
@@ -354,7 +354,7 @@ In providing housing in low-income housing projects, each public housing agency 
 
 #### (A) Provision of information
 
-&emsp;&emsp;Notwithstanding any other provision of law, except as provided in subparagraph (C), the National Crime Information Center, police departments, and other law enforcement agencies shall, upon request, provide information to public housing agencies regarding the criminal conviction records of adult applicants for, or tenants of, covered housing assistance for purposes of applicant screening, lease enforcement, and eviction.
+&emsp;&emsp;Notwithstanding any other provision of law, except as provided in subparagraph (C),the National Crime Information Center, police departments, and other law enforcement agencies shall, upon request, provide information to public housing agencies regarding the criminal conviction records of adult applicants for, or tenants of, covered housing assistance for purposes of applicant screening, lease enforcement, and eviction.
 
 #### (B) Requests by owners of project-based section 8 \[42 U.S.C. 1437f\] housing
 
@@ -490,7 +490,7 @@ A public housing agency may require, as a condition of providing admission to th
 
 #### (5) Disclosure permitted by treatment facilities
 
-&emsp;A drug abuse treatment facility shall not be liable for damages based on any informationrequired to be disclosed pursuant to this subsection if such disclosure is consistent with section 543 of the Public Health Service Act (42 U.S.C. 290dd–2).
+&emsp;A drug abuse treatment facility shall not be liable for damages based on any information required to be disclosed pursuant to this subsection if such disclosure is consistent with section 543 of the Public Health Service Act (42 U.S.C. 290dd–2).
 
 #### (6) Option to not request information
 
@@ -548,7 +548,7 @@ The Public Health Service Act, referred to in subsec. (t)(1), is act July 1, 194
 
 #### Prior Provisions
 
-A prior section 6 of act Sept. 1, 1937, ch. 896, 50 Stat. 890, as amended, enumerated financial provisions applicable to the Authority and was classified to section1406 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
+A prior section 6 of act Sept. 1, 1937, ch. 896, 50 Stat. 890, as amended, enumerated financial provisions applicable to the Authority and was classified to section 1406 of this title, prior to the general revision of this chapter by Pub. L. 93–383.
 
 #### Amendments
 
@@ -610,7 +610,7 @@ Subsec. (<i>l</i>)(4)(A). Pub. L. 105–276, §575(b)(1)(A), added subpar. (A) a
 
 Subsec. (<i>l</i>)(4)(C). Pub. L. 105–276, §575(b)(1)(B), inserted “, except that if a State or local law provides for a shorter period of time, such shorter period shall apply” before semicolon at end.
 
-Subsec. (<i>l</i>)(5), (6). Pub. L. 105–276, §512(b)(1), redesignated pars. (4) and (5) as (5) and (6), respectively. Former par. (6) redesignated (7), relating to specification that tenant be informed of opportunity to examine documents.
+Subsec. (<i>l</i>)(5), (6). Pub. L. 105–276, §512(b)(1), redesignated pars. (4) and (5) as (5) and (6), respectively.Former par. (6) redesignated (7), relating to specification that tenant be informed of opportunity to examine documents.
 
 Subsec. (<i>l</i>)(7). Pub. L. 105–276, §575(b)(4), added par. (7) relating to termination for illegal drug use and alcohol abuse.
 
@@ -668,7 +668,7 @@ Subsec. (c)(4)(A). Pub. L. 104–99, §402(d)(1), (f), temporarily amended subpa
 
 &emsp;“(ii) for any remaining units to be made available for occupancy, give preference in accordance with a system of preferences established by the public housing agency in writing and after public hearing to respond to local housing needs and priorities, which may include (I) assisting very low-income families who either reside in transitional housing assisted under title IV of the Stewart B. McKinney Homeless Assistance Act, or participate in a program designed to provide public assistance recipients with greater access to employment and educational opportunities; (II) assisting families in accordance with subsection (u)(2); (III) assisting families identified by local public agencies involved in providing for the welfare of children as having a lack of adequate housing that is a primary factor in the imminent placement of a child in foster care, or in preventing the discharge of a child from foster care and reunification with his or her family; (IV) assisting youth, upon discharge from foster care, in cases in which return to the family or extended family or adoption is not available; (V) assisting families that include one or more adult members who are employed; and (VI) achieving other objectives of national housing policy as affirmed by Congress; subclause (V) shall be effective only during fiscal year 1995;
 
-&emsp;“(iii) prohibit any individual or family evicted from housing assisted under the chapter by reason of drug-related criminal activity from having a preference under any provision of this subparagraph for 3 years unless the evicted tenant successfully completes a rehabilitation program approved by the agency, except that the agency may waive the application of this clause under standards established by the Secretary (which shall include waiver for any member of a family of an individual prohibited from tenancy under this clause who the agency determines clearly did not participate in and had no knowledge of such criminal activity or when circumstances leading to eviction no longer exist); and
+&emsp;“(iii) prohibit any individual or family evicted from housing assisted under the chapter by reason of drug-related criminal activity from having a preference under any provision of this subparagraph for 3 years unless the evicted tenant successfully completes a rehabilitation program approved by the agency, exceptthat the agency may waive the application of this clause under standards established by the Secretary (which shall include waiver for any member of a family of an individual prohibited from tenancy under this clause who the agency determines clearly did not participate in and had no knowledge of such criminal activity or when circumstances leading to eviction no longer exist); and
 
 &emsp;“(iv) are designed to ensure that, to the maximum extent feasible, the projects of an agency will include families with a broad range of incomes and will avoid concentrations of low-income and deprived families with serious social problems.”
 
@@ -734,7 +734,7 @@ Subsecs. (d), (e). Pub. L. 101–625, §572(2), substituted “low-income housin
 
 Subsec. (j). Pub. L. 101–625, §502(a), amended subsec. (j) generally. Prior to amendment, subsec. (j) read as follows: “On or after October 1, 1983, in entering into commitments for the development of public housing, the Secretary shall give a priority to projects for the construction, acquisition, or acquisition and rehabilitation of housing suitable for occupancy by families requiring three or more bedrooms.”
 
-Subsec. (k). Pub. L. 101–625, §503(a), added concluding provisions and struck out former concluding provisions which read as follows: “An agency may exclude from its procedure any grievance concerning an eviction or termination of tenancy in any jurisdiction which requires that, prior to eviction, a tenant be given a hearing in court which the Secretary determines provides the basic elements of due process.”
+Subsec. (k). Pub. L. 101–625, §503(a), added concluding provisions and struck out former concluding provisions which read as follows: “An agency may exclude fromits procedure any grievance concerning an eviction or termination of tenancy in any jurisdiction which requires that, prior to eviction, a tenant be given a hearing in court which the Secretary determines provides the basic elements of due process.”
 
 Subsec. (<i>l</i>)(5). Pub. L. 101–625, §504, amended par. (5) generally. Prior to amendment, par. (5) read as follows: “provide that a public housing tenant, any member of the tenant's household, or a guest or other person under the tenant's control shall not engage in criminal activity, including drug-related criminal activity, on or near public housing premises, while the tenant is a tenant in public housing, and such criminal activity shall be cause for termination of tenancy.”
 
@@ -822,13 +822,13 @@ Applicability.—This Act \[enacting section 1490p–2 of this title, amending t
 
 “(b)
 
-Implementation.—The amendments made by sections 9 and 10 \[amending this section and sections 1437e and 1437n of this title\] shall apply as provided in subsection (a) of this section, notwithstanding the effective date of any regulations issued by the Secretary of Housing and Urban Development to implement such amendments or any failure by the Secretary to issue any such regulations.”
+Implementation.—The amendments made by sections 9 and 10 \[amending this section and sections1437e and 1437n of this title\] shall apply as provided in subsection (a) of this section, notwithstanding the effective date of any regulations issued by the Secretary of Housing and Urban Development to implement such amendments or any failure by the Secretary to issue any such regulations.”
 
 Amendment by Pub. L. 104–99 effective Jan. 26, 1996, only for fiscal years 1996, 1997, and 1998, and to cease to be effective Oct. 21, 1998, see section 402(f) of Pub. L. 104–99, as amended, and section 514(f) of Pub. L. 105–276, set out as notes under section 1437a of this title.
 
 #### Effective Date of 1992 Amendment
 
-Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expirationof 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
+Amendment by subtitles B through F of title VI \[§§621–685\] of Pub. L. 102–550 applicable upon expiration of 6-month period beginning Oct. 28, 1992, except as otherwise provided, see section 13642 of this title.
 
 #### Effective Date of 1981 Amendment
 
@@ -904,7 +904,7 @@ Other models.—Various models of any other systems that may be more effective a
 
 “(d)
 
-Consultation.—The entity that, pursuant to subsection (e), carries out the study under this sectionshall, in carrying out the study, consult with individuals and organizations experienced in managing public housing, private real estate managers, representatives from State and local governments, residents of public housing, families and individuals receiving tenant-based assistance, the Secretary of Housing and Urban Development, the Inspector General of the Department of Housing and Urban Development, and the Comptroller General of the United States.
+Consultation.—The entity that, pursuant to subsection (e), carries out the study under this section shall, in carrying out the study, consult with individuals and organizations experienced in managing public housing, private real estate managers, representatives from State and local governments, residents of public housing, families and individuals receiving tenant-based assistance, the Secretary of Housing and Urban Development, the Inspector General of the Department of Housing and Urban Development, and the Comptroller General of the United States.
 
 “(e)
 
@@ -968,7 +968,7 @@ Pub. L. 95–128, title II, §201(g), Oct. 12, 1977, 91 Stat. 1129, provided tha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1437c–1, 1437f, 1437g, 1437j, 1437n, 1437s, 1437u, 1437v, 1437w, 1437y, 1437z, 1437z–7, 1437bbb–1, 1437bbb–5, 11907, 12705, 12742, 12755, 12899d, 13603 of this title; title 12 sections 24, 1701z–11.
+This section is referred to in sections 1437c–1, 1437f, 1437g, 1437j, 1437n, 1437s, 1437u, 1437v, 1437w, 1437y, 1437z,1437z–7, 1437bbb–1, 1437bbb–5, 11907, 12705, 12742, 12755, 12899d, 13603 of this title; title 12 sections 24, 1701z–11.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “is”.</i>
 

@@ -1,5 +1,9 @@
 ### SUBCHAPTER II—ADMINISTRATION AND PERSONNEL
 
+<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>2</sup></i><i> So in original. The words “the Under Secretary” probably should not appear.</i>
+
 
 ---
 

@@ -24,7 +24,7 @@ Notwithstanding subsection (a) of this section, exempted operational files shall
 
 &emsp;(2) any special activity the existence of which is not exempt from disclosure under the provisions of section 552 of title 5 (Freedom of Information Act); or
 
-&emsp;(3) the specific subject matter of an investigation by the intelligence committees of the Congress, the Intelligence Oversight Board, the Department of Justice, the Office of General Counsel of the Central Intelligence Agency, the Office of Inspector General of the Central Intelligence Agency, or the Office of the Director of Central Intelligence for any impropriety, or violation of law, Executive order, or Presidential directive, in the conduct of an intelligence activity.
+&emsp;(3) the specific subject matter of an investigation by the congressional intelligence committees, the Intelligence Oversight Board, the Department of Justice, the Office of General Counsel of the Central Intelligence Agency, the Office of Inspector General of the Central Intelligence Agency, or the Office of the Director of Central Intelligence for any impropriety, or violation of law, Executive order, or Presidential directive, in the conduct of an intelligence activity.
 
 #### (d) Information derived or disseminated from exempted operational files
 
@@ -48,7 +48,7 @@ Whenever any person who has requested agency records under section 552 of title 
 
 &emsp;(3) when a complaint alleges that requested records were improperly withheld because of improper placement solely in exempted operational files, the complainant shall support such allegation with a sworn written submission, based upon personal knowledge or otherwise admissible evidence;
 
-&emsp;(4)(A) when a complainant alleges that requested records were improperly withheld because of improper exemption of operational files, the Central Intelligence Agency shall meet its burden under section 552(a)(4)(B) of title 5 by demonstrating to the court by sworn written submission that exempted operational files likely to contain responsive records currently perform the functions set forth in subsection (b) of this section; and
+&emsp;(4)(A) when a complainant alleges that requested records were improperly withheld because of improper exemption of operational files, the Central Intelligence Agency shall meet its burden under section 552(a)(4)(B) oftitle 5 by demonstrating to the court by sworn written submission that exempted operational files likely to contain responsive records currently perform the functions set forth in subsection (b) of this section; and
 
 &emsp;(B) the court may not order the Central Intelligence Agency to review the content of any exempted operational file or files in order to make the demonstration required under subparagraph (A) of this paragraph, unless the complainant disputes the Central Intelligence Agency's showing with a sworn written submission based on personal knowledge or otherwise admissible evidence;
 
@@ -58,13 +58,15 @@ Whenever any person who has requested agency records under section 552 of title 
 
 &emsp;(7) if at any time following the filing of a complaint pursuant to this subsection the Central Intelligence Agency agrees to search the appropriate exempted operational file or files for the requested records, the court shall dismiss the claim based upon such complaint.
 
-(July 26, 1947, ch. 343, title VII, §701, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat. 2209; amended Pub. L. 104–93, title VII, §702, Jan. 6, 1996, 109 Stat. 978.)
+(July 26, 1947, ch. 343, title VII, §701, as added Pub. L. 98–477, §2(a), Oct. 15, 1984, 98 Stat. 2209; amended Pub. L. 104–93, title VII, §702, Jan. 6, 1996, 109 Stat. 978; Pub. L. 107–306, title III, §353(b)(10), Nov. 27, 2002, 116 Stat. 2402.)
 
 #### References in Text
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f)(5), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
 #### Amendments
+
+2002—Subsec. (c)(3). Pub. L. 107–306 substituted “congressional intelligence committees” for “intelligence committees of the Congress”.
 
 1996—Subsec. (b)(3). Pub. L. 104–93 substituted “Office of Personnel Security” for “Office of Security”.
 
@@ -74,5 +76,5 @@ Section 4 of Pub. L. 98–477 provided that: “The amendments made by subsectio
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 432 of this title; title 10 section 457.
+This section is referred to in sections 402c, 432 of this title; title 10 section 457.
 

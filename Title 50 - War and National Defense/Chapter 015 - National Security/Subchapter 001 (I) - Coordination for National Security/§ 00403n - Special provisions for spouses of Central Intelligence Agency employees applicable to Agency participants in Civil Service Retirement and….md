@@ -8,7 +8,7 @@ The provisions of sections 2002, 2031(b)(1)–(3), 2031(f), 2031(g), 2031(h)(2),
 
 The Director of the Office of Personnel Management, in consultation with the Director of Central Intelligence, shall prescribe such regulations as may be necessary to implement the provisions of this section.
 
-(June 20, 1949, ch. 227, §14, as added Pub. L. 97–269, title VI, §612, Sept. 27, 1982, 96 Stat. 1154;amended Pub. L. 99–569, title III, §302(b), Oct. 27, 1986, 100 Stat. 3194; Pub. L. 100–178, title IV, §§401(b), 402(b)(3), Dec. 2, 1987, 101 Stat. 1013, 1014; Pub. L. 102–496, title VIII, §803(a)(1), Oct. 24, 1992, 106 Stat. 3251.)
+(June 20, 1949, ch. 227, §14, as added Pub. L. 97–269, title VI, §612, Sept. 27, 1982, 96 Stat. 1154; amended Pub. L. 99–569, title III, §302(b), Oct. 27, 1986, 100 Stat. 3194; Pub. L. 100–178, title IV, §§401(b), 402(b)(3), Dec. 2, 1987, 101 Stat. 1013, 1014; Pub. L. 102–496, title VIII, §803(a)(1), Oct. 24, 1992, 106 Stat. 3251.)
 
 #### Codification
 
@@ -38,7 +38,7 @@ Section 302(d) of Pub. L. 99–569 provided that: “The amendments made by this
 
 #### Effective Date
 
-Section effective Nov. 15, 1982, see section 613 of Pub. L. 97–269 set out as an Effective Date of Amendments to Pub. L. 88–643 Prior to Enactment of Pub. L. 102–496 note under section 2001 of this title.
+Section effective Nov. 15, 1982, see section 613 of Pub. L. 97–269 set out as an Effective Date of Amendments toPub. L. 88–643 Prior to Enactment of Pub. L. 102–496 note under section 2001 of this title.
 
 #### Section Referred to in Other Sections
 

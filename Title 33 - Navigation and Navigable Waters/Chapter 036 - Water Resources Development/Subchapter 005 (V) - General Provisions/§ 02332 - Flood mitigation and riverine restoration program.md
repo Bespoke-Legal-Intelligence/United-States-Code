@@ -196,6 +196,10 @@ Section was enacted as part of the Water Resources Development Act of 1999, and 
 
 2000—Subsec. (e)(24) to (28). Pub. L. 106–541 added pars. (24) to (28).
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### “Secretary” Defined
 
 Secretary means the Secretary of the Army, see section 2 of Pub. L. 106–53, set out as a note under section 2201 of this title.

@@ -2,7 +2,7 @@
 
 #### (a) Notification of registration; effective date of registration
 
-Any investment company organized or otherwise created under the laws of the United States or of a State may register for the purposes of this subchapter by filing with the Commission a notification of registration, in such form as the Commission shall by rules and regulations prescribe as necessary or appropriate in the public interest or for the protection of investors. An investment company shall be deemed to be registered upon receipt by the Commission of such notification of registration.
+Any investment company organized or otherwise created under the laws of the United States or of a State may register for the purposes of this subchapter by filing with the Commission a notification of registration, in such form as the Commission shall by rules and regulations prescribe as necessary or appropriate in the publicinterest or for the protection of investors. An investment company shall be deemed to be registered upon receipt by the Commission of such notification of registration.
 
 #### (b) Registration statement; contents
 
@@ -68,9 +68,9 @@ Amendment by Pub. L. 91–547 effective Dec. 14, 1970, see section 30 of Pub. L.
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78c, 78<i>l</i>, 80a–2, 80a–6, 80a–7, 80a–13, 80a–42 of this title.
+This section is referred to in sections 78c, 78<i>l</i>, 80a–2, 80a–6, 80a–7, 80a–13, 80a–42, 7263 of this title.
 

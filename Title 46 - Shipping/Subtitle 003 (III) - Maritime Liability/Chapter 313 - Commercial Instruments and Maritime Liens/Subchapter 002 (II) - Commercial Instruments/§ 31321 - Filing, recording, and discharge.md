@@ -1,6 +1,6 @@
 ### §31321. Filing, recording, and discharge
 
-(a)(1) A bill of sale, conveyance, mortgage, assignment, or related instrument, whenevermade, that includes any part of a documented vessel or a vessel for which an application for documentation is filed, must be filed with the Secretary of Transportation to be valid, to the extent the vessel is involved, against any person except—
+(a)(1) A bill of sale, conveyance, mortgage, assignment, or related instrument, whenever made, that includes any part of a documented vessel or a vessel for which an application for documentation is filed, must be filed with the Secretary of Transportation to be valid, to the extent the vessel is involved, against any person except—
 
 &emsp;(A) the grantor, mortgagor, or assignor;
 
@@ -12,9 +12,7 @@
 
 (3) The parties to an instrument or an application for documentation shall use diligence to ensure that the parts of the instrument or application for which they are responsible are in substantial compliance with the filing and documentation requirements.
 
-(4)(A) A bill of sale, conveyance, mortgage, assignment, or related instrument may be filed electronically under regulations prescribed by the Secretary.
-
-(B) A filing made electronically under subparagraph (A) shall not be effective after the 10-day period beginning on the date of the filing unless the original instrument is provided to the Secretary within that 10-day period.
+(4) A bill of sale, conveyance, mortgage, assignment, or related instrument may be filed electronically under regulations prescribed by the Secretary.
 
 (b) To be filed, a bill of sale, conveyance, mortgage, assignment, or related instrument must—
 
@@ -54,7 +52,7 @@
 
 (h) On full and final discharge of the indebtedness under a mortgage deemed to be a preferred mortgage under section 31322(d) of this title, a mortgagee, on request of the Secretary, a State, or mortgagor, shall provide the Secretary or the State, as appropriate, with an acknowledged certificate of discharge of the indebtedness in a form prescribed by the Secretary or the State, as applicable. If filed with the Secretary, the Secretary shall enter that information in the vessel identification system under chapter 125 of this title.
 
-(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4741; Pub. L. 101–225, title III, §303(2), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title III, §305, Oct. 19, 1996, 110 Stat. 3918.)
+(Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4741; Pub. L. 101–225, title III, §303(2), Dec. 12, 1989, 103 Stat. 1923; Pub. L. 104–324, title III, §305, Oct. 19, 1996, 110 Stat. 3918; Pub. L. 107–295, title IV, §420, Nov. 25, 2002, 116 Stat. 2124.)
 
 Historical and Revision Notes
 
@@ -124,6 +122,8 @@ When a State preferred mortgage under section 31322(d) is finally discharged, su
 
 #### Amendments
 
+2002—Subsec. (a)(4) Pub. L. 107–295 struck out subpar. (A) designation before “A bill of sale” and subpar. (B) which read as follows: “A filing made electronically under subparagraph (A) shall not be effective after the 10-day period beginning on the date of the filing unless the original instrument is provided to the Secretary within that 10-day period.”
+
 1996—Subsec. (a). Pub. L. 104–324 added par. (4).
 
 1989—Subsec. (c). Pub. L. 101–225 substituted “for which an application for documentation is filed” for “that has not yet been documented” in introductory provisions and “interested party to” for “party whose name and address is stated on” in par. (1).
@@ -134,5 +134,5 @@ Section effective Jan. 1, 1989, not to affect any civil action filed before that
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 12111, 12503, 31301, 31322, 31325, 31330 of this title.
+This section is referred to in sections 12111, 12503, 31301, 31322, 31325, 31330, 31343 of this title.
 

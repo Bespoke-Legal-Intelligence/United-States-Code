@@ -9,25 +9,26 @@
 | (c) | Limitations on designation. |
 | (d) | Factors affecting designation. |
 | (e) | Withdrawal or suspension of designation. |
-| (f) | Report. |
+| (f) | Reporting requirements. |
 | [3203\.](%C2%A7%2003203%20-%20Eligible%20articles.md) | Eligible articles. |
 | (a) | In general. |
-| (b) | Exceptions to duty-free treatment. |
-| (c) | Duty reductions for certain goods. |
-| (d) | Suspension of duty-free treatment. |
-| (e) | Emergency relief with respect to perishable products. |
-| (f) | Fees under section 624 of title 7. |
-| (g) | Tariff-rate quotas. |
+| (b) | Exceptions and special rules. |
+| (c) | Suspension of duty-free treatment. |
+| (d) | Emergency relief with respect to perishable products. |
+| (e) | Fees under section 624 of title 7. |
+| (f) | Tariff-rate quotas. |
 | [3204\.](%C2%A7%2003204%20-%20International%20Trade%20Commission%20reports%20on%20impact%20of%20this%20chapter.md) | International Trade Commission reports on impact of this chapter. |
 | (a) | Reporting requirements. |
 | (b) | Report requirements. |
 | (c) | Submission dates; public comment. |
 | [3205\.](%C2%A7%2003205%20-%20Impact%20study%20by%20Secretary%20of%20Labor.md) | Impact study by Secretary of Labor. |
-| [3206\.](%C2%A7%2003206%20-%20Effective%20date%20and%20termination%20of%20duty-free%20treatment.md) | Effective date and termination of duty-free treatment. |
-| (a) | Effective date. |
-| (b) | Termination of duty-free treatment. |
+| [3206\.](%C2%A7%2003206%20-%20Termination%20of%20preferential%20treatment.md) | Termination of preferential treatment. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in section 2272 of this title; title 6 section 212.
 
 
 ---
@@ -39,4 +40,4 @@
 - [&sect; 03203 - Eligible articles](%C2%A7%2003203%20-%20Eligible%20articles.md)
 - [&sect; 03204 - International Trade Commission reports on impact of this chapter](%C2%A7%2003204%20-%20International%20Trade%20Commission%20reports%20on%20impact%20of%20this%20chapter.md)
 - [&sect; 03205 - Impact study by Secretary of Labor](%C2%A7%2003205%20-%20Impact%20study%20by%20Secretary%20of%20Labor.md)
-- [&sect; 03206 - Effective date and termination of duty-free treatment](%C2%A7%2003206%20-%20Effective%20date%20and%20termination%20of%20duty-free%20treatment.md)
+- [&sect; 03206 - Termination of preferential treatment](%C2%A7%2003206%20-%20Termination%20of%20preferential%20treatment.md)

@@ -18,3 +18,7 @@ Net sale proceeds from the disposal of a historic light station—
 
 The National Maritime Heritage Act of 1994, referred to in subsec. (b)(1), is Pub. L. 103–451, Nov. 2, 1994, 108 Stat. 4769, as amended, which is classified generally to chapter 74 (§5401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

@@ -8,7 +8,7 @@ Section 2023, Pub. L. 92–513, title VI, §603, as added Pub. L. 98–547, titl
 
 Section 2024, Pub. L. 92–513, title VI, §604, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2758, prescribed limitation on cost to manufacturer for compliance with section 2022 of this title. See section 33105 of Title 49.
 
-Section 2025, Pub. L. 92–513, title VI, §605, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2759; amended Pub. L. 102–519, title III, §304, Oct. 25, 1992, 106 Stat. 3396, related to exemption from section 2022 of this title for vehicles equipped with antitheft devices. See section 33106 of Title 49.
+Section 2025, Pub. L. 92–513, title VI, §605, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2759;amended Pub. L. 102–519, title III, §304, Oct. 25, 1992, 106 Stat. 3396, related to exemption from section 2022 of this title for vehicles equipped with antitheft devices. See section 33106 of Title 49.
 
 Section 2026, Pub. L. 92–513, title VI, §606, as added Pub. L. 98–547, title I, §101(a), Oct. 25, 1984, 98 Stat. 2760, related to determination of compliance of manufacturer with section 2022 of this title. See section 33108 of Title 49.
 

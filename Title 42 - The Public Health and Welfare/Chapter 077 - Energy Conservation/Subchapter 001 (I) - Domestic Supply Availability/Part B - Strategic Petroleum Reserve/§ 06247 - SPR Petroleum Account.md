@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-The Secretary of the Treasury shall establish in the Treasury of the United States an account to be known as the “SPR Petroleum Account” (hereinafter in this section referred to as the “Account”).
+The Secretary of the Treasury shall establish in the Treasury of the United States an accountto be known as the “SPR Petroleum Account” (hereinafter in this section referred to as the “Account”).
 
 #### (b) Obligation of funds for acquisition, transportation, and injection of petroleum products into SPR
 

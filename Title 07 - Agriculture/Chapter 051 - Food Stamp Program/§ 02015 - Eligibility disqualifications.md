@@ -36,7 +36,7 @@ In addition to meeting the standards of eligibility prescribed in section 2014 o
 
 #### (c) Refusal to provide necessary information
 
-No household shall be eligible to participate in the food stamp program if it refuses to cooperate in providing information to the State agency that is necessary for making a determination of its eligibility or for completing any subsequent review of its eligibility.
+Except in a case in which a household is receiving transitional benefits during the transitional benefits period under section 2020(s) of this title, no household shall be eligible to participate in the food stamp program if it refuses to cooperate in providing information to the State agency that is necessary for making a determination of its eligibility or for completing any subsequent review of its eligibility.
 
 &emsp;(1)(A) A State agency may require certain categories of households to file periodic reports of income and household circumstances in accordance with standards prescribed by the Secretary, except that a State agency may not require periodic reporting by—
 
@@ -46,7 +46,7 @@ No household shall be eligible to participate in the food stamp program if it re
 
 &emsp;&emsp;(iii) households that have no earned income and in which all adult members are elderly or disabled.
 
-&emsp;(B) Each household that is not required to file such periodic reports on a monthly basis shall be required to report or cause to be reported to the State agency changes in income or household circumstances that the Secretary considers necessary to assure accurate eligibility and benefit determinations.
+&emsp;(B) Each household that is not required to file such periodic reports shall be required to report or cause to be reported to the State agency changes in income or household circumstances that the Secretary considers necessary to assure accurate eligibility and benefit determinations.
 
 &emsp;(C) A State agency may require periodic reporting on a monthly basis by households residing on a reservation only if—
 
@@ -58,7 +58,23 @@ No household shall be eligible to participate in the food stamp program if it re
 
 &emsp;&emsp;(iv) the certification period for households residing on a reservation that are required to file periodic reports on a monthly basis is 2 years, unless the State demonstrates just cause to the Secretary for a shorter certification period.
 
-&emsp;(2) Any household required to file a periodic report under paragraph (1) of this subsection shall, (A) if it is eligible to participate and has filed a timely and complete report, receive its allotment, based on the reported information for a given month, within thirty days of theend of that month unless the Secretary determines that a longer period of time is necessary, (B) have available special procedures that permit the filing of the required information in the event all adult members of the household are mentally or physically handicapped or lacking in reading or writing skills to such a degree as to be unable to fill out the required forms, (C) have a reasonable period of time after the close of the month in which to file their reports on State agency designed forms, (D) be afforded prompt notice of failure to file any report timely or completely, and given a reasonable opportunity to cure that failure (with any applicable time requirements extended accordingly) and to exercise its rights under section 2020(e)(10) of this title, and (E) be provided each month (or other applicable period) with an appropriate, simple form for making the required reports of the household together with clear instructions explaining how to complete the form and the rights and responsibilities of the household under any periodic reporting system.
+&emsp;(D)
+
+Frequency of reporting.—
+
+&emsp;&emsp;(i)
+
+In general.—Except as provided in subparagraphs (A) and (C), a State agency may require households that report on a periodic basis to submit reports—
+
+&emsp;&emsp;&emsp;(I) not less often than once each 6 months; but
+
+&emsp;&emsp;&emsp;(II) not more often than once each month.
+
+&emsp;&emsp;(ii)
+
+Reporting by households with excess income.—A household required to report less often than once each 3 months shall, notwithstanding subparagraph (B), report in a manner prescribed by the Secretary if the income of the household for any month exceeds the income standard of eligibility established under section 2014(c)(2) of this title.
+
+&emsp;(2) Any household required to file a periodic report under paragraph (1) of this subsection shall, (A) if it is eligible to participate and has filed a timely and complete report, receive its allotment, based on the reported information for a given month, within thirty days of the end of that month unless the Secretary determines that a longer period of time is necessary, (B) have available special procedures that permit the filing of the required information in the event all adult members of the household are mentally or physically handicapped or lacking in reading or writing skills to such a degree as to be unable to fill out the required forms, (C) have a reasonable period of time after the close of the month in which to file their reports on State agency designedforms, (D) be afforded prompt notice of failure to file any report timely or completely, and given a reasonable opportunity to cure that failure (with any applicable time requirements extended accordingly) and to exercise its rights under section 2020(e)(10) of this title, and (E) be provided each month (or other applicable period) with an appropriate, simple form for making the required reports of the household together with clear instructions explaining how to complete the form and the rights and responsibilities of the household under any periodic reporting system.
 
 &emsp;(3) Reports required to be filed under paragraph (1) of this subsection shall be considered complete if they contain the information relevant to eligibility and benefit determinations that is specified by the State agency. All report forms, including those related to periodic reports of circumstances, shall contain a description, in understandable terms in prominent and bold face lettering, of the appropriate civil and criminal provisions dealing with violations of this chapter including the prescribed penalties. Reports required to be filed monthly under paragraph (1) shall be the sole reporting requirement for subject matter included in such reports. In promulgating regulations implementing these reporting requirements, the Secretary shall consult with the Commissioner of Social Security and the Secretary of Health and Human Services, and, wherever feasible, households that receive assistance under title IV–A of the Social Security Act \[42 U.S.C. 601 et seq.\] and that are required to file comparable reports under that Act \[42 U.S.C. 301 et seq.\] shall be provided the opportunity to file reports at the same time for purposes of this chapter and the Social Security Act.
 
@@ -196,7 +212,7 @@ Change in head of household.—If the head of a household leaves the household d
 
 (2) A person who otherwise would be required to comply with the requirements of paragraph (1) of this subsection shall be exempt from such requirements if he or she is (A) currently subject to and complying with a work registration requirement under title IV of the Social Security Act, as amended (42 U.S.C. 602), or the Federal-State unemployment compensation system, in which case, failure by such person to comply with any work requirement to which such person is subject shall be the same as failure to comply with that requirement of paragraph (1); (B) a parent or other member of a household with responsibility for the care of a dependent child under age six or of an incapacitated person; (C) a bona fide student enrolled at least half time in any recognized school, training program, or institution of higher education (except that any such person enrolled in an institution of higher education shall be ineligible to participate in the food stamp program unless he or she meets the requirements of subsection (e) of this section); (D) a regular participant in a drug addiction or alcoholic treatment and rehabilitation program; (E) employed a minimum of thirty hours per week or receiving weekly earnings which equal the minimum hourly rate under the Fair Labor Standards Act of 1938, as amended (29 U.S.C. 206(a)(1)), multiplied by thirty hours; or (F) a person between the ages of sixteen and eighteen who is not a head of a household or who is attending school, or enrolled in an employment training program, on at least a half-time basis. A State that requested a waiver to lower the age specified in subparagraph (B) and had the waiver denied by the Secretary as of August 1, 1996, may, for a period of not more than 3 years, lower the age of a dependent child that qualifies a parent or other member of a household for an exemption under subparagraph (B) to between 1 and 6 years of age.
 
-(3) Notwithstanding any other provision of law, a household shall not participate in the food stamp program at any time that any member of such household, not exempt from thework registration requirements of paragraph (1) of this subsection, is on strike as defined in section 142(2) of title 29, because of a labor dispute (other than a lockout) as defined in section 152(9) of title 29: <i>Provided</i>, That a household shall not lose its eligibility to participate in the food stamp program as a result of one of its members going on strike if the household was eligible for food stamps immediately prior to such strike, however, such household shall not receive an increased allotment as the result of a decrease in the income of the striking member or members of the household: <i>Provided further</i>, That such ineligibility shall not apply to any household that does not contain a member on strike, if any of its members refuses to accept employment at a plant or site because of a strike or lockout.
+(3) Notwithstanding any other provision of law, a household shall not participate in the food stamp program at any time that any member of such household, not exempt from the work registration requirements of paragraph (1) of this subsection, is on strike as defined in section 142(2) of title 29, because of a labor dispute (other than a lockout) as defined in section 152(9) of title 29: <i>Provided</i>, That a household shall not lose its eligibility to participate in the food stamp program as a result of one of its members going on strike if the household was eligible for food stamps immediately prior to such strike, however, such household shall not receive an increased allotment as the result of a decrease in the income of the striking member or members of the household: <i>Provided further</i>, That such ineligibility shall not apply to anyhousehold that does not contain a member on strike, if any of its members refuses to accept employment at a plant or site because of a strike or lockout.
 
 (4)
 
@@ -254,7 +270,7 @@ Statewide workforce development system.—Each component of an employment and tr
 
 &emsp;(I)(i) The State agency shall provide payments or reimbursements to participants in programs carried out under this paragraph, including individuals participating under subparagraph (G), for—
 
-&emsp;&emsp;(I) the actual costs of transportation and other actual costs (other than dependent care costs), that are reasonably necessary and directly related to participation in the program, except that the State agency may limit such reimbursement to each participant to $25 per month; and
+&emsp;&emsp;(I) the actual costs of transportation and other actual costs (other than dependentcare costs), that are reasonably necessary and directly related to participation in the program; and
 
 &emsp;&emsp;(II) the actual costs of such dependent care expenses that are determined by the State agency to be necessary for the participation of an individual in the program (other than an individual who is the caretaker relative of a dependent in a family receiving benefits under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) in a local area where an employment, training, or education program under title IV of such Act \[42 U.S.C. 601 et seq.\] is in operation), except that no such payment or reimbursement shall exceed the applicable local market rate. Individuals subject to the program under this paragraph may not be required to participate if dependent costs exceed the limit established by the State agency under this subclause or other actual costs exceed any limit established under subclause (I).
 
@@ -310,7 +326,7 @@ No individual who is a member of a household otherwise eligible to participate i
 
 #### (f) Aliens
 
-No individual who is a member of a household otherwise eligible to participate in the food stamp program under this section shall be eligible to participate in the food stamp program as a member of that or any other household unless he or she is (1) a resident of the United States and (2) either (A) a citizen or (B) an alien lawfully admitted for permanent residence as an immigrant as defined by sections 1101(a)(15) and 1101(a)(20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily with no intention of abandoning their residence in a foreign country; or (C) an alien who entered the United States prior to June 30, 1948, or such subsequent date as is enacted by law, has continuously maintained his or her residence in the United States since then, and is not ineligible for citizenship, but who is deemed to be lawfully admitted for permanent residence as a result of an exercise of discretion by the Attorney General pursuant to section 1259 of title 8; or (D) an alien who has qualified for conditional entry pursuant to sections 1157 and 1158 of title 8; or (E) an alien who is lawfully present in the United States as a result of an exercise of discretion by the Attorney General for emergent reasons or reasons deemed strictly in the public interest pursuant to section 1182(d)(5) of title 8; or (F) an alien within the United States as to whom the Attorney General has withheld deportation pursuant to section 1231(b)(3) of title 8. No aliens other than the ones specifically described in clauses (B) through (F) of this subsection shall be eligible to participate in the food stamp program as a member of any household. The income (less, at State option, a pro rata share) and financial resources of the individual rendered ineligible to participate in the food stamp program under this subsection shall be considered in determining the eligibility and the value of the allotment of the household of which such individual is a member.
+No individual who is a member of a household otherwise eligible to participate in the food stamp program under this section shall be eligible to participate in the food stamp program as a member of that or any other household unless he or she is (1) a resident of the United States and (2) either (A) a citizen or (B) an alien lawfully admitted for permanent residence as an immigrant as defined by sections 1101(a)(15) and 1101(a)(20) of title 8, excluding, among others, alien visitors, tourists, diplomats, and students who enter the United States temporarily withno intention of abandoning their residence in a foreign country; or (C) an alien who entered the United States prior to June 30, 1948, or such subsequent date as is enacted by law, has continuously maintained his or her residence in the United States since then, and is not ineligible for citizenship, but who is deemed to be lawfully admitted for permanent residence as a result of an exercise of discretion by the Attorney General pursuant to section 1259 of title 8; or (D) an alien who has qualified for conditional entry pursuant to sections 1157 and 1158 of title 8; or (E) an alien who is lawfully present in the United States as a result of an exercise of discretion by the Attorney General for emergent reasons or reasons deemed strictly in the public interest pursuant to section 1182(d)(5) of title 8; or (F) an alien within the United States as to whom the Attorney General has withheld deportation pursuant to section 1231(b)(3) of title 8. No aliens other than the ones specifically described in clauses (B) through (F) of this subsection shall be eligible to participate in the food stamp program as a member of any household. The income (less, at State option, a pro rata share) and financial resources of the individual rendered ineligible to participate in the food stamp program under this subsection shall be considered in determining the eligibility and the value of the allotment of the household of which such individual is a member.
 
 #### (g) Residents of States which provide State supplementary payments
 
@@ -362,7 +378,7 @@ No member of a household who is otherwise eligible to participate in the food st
 
 #### (2) Good cause for noncooperation
 
-&emsp;Paragraph (1) shall not apply to the individual if good cause is found for refusing to cooperate, as determined by the State agency in accordance with standards prescribed by the Secretary in consultation with the Secretary of Health and Human Services. The standards shall take into consideration circumstances under which cooperation may be against the best interests of the child.
+&emsp;Paragraph (1) shall not apply to the individual if good cause is found for refusing to cooperate, as determined by the State agency inaccordance with standards prescribed by the Secretary in consultation with the Secretary of Health and Human Services. The standards shall take into consideration circumstances under which cooperation may be against the best interests of the child.
 
 #### (3) Fees
 
@@ -530,7 +546,7 @@ No member of a household who is otherwise eligible to participate in the food st
 
 #### (F) Exemption adjustments
 
-&emsp;&emsp;During fiscal year 1999 and each subsequent fiscal year, the Secretary shall increase or decrease the number of individualswho may be granted an exemption by a State agency under this paragraph to the extent that the average monthly number of exemptions in effect in the State for the preceding fiscal year under this paragraph is lesser or greater than the average monthly number of exemptions estimated for the State agency for such preceding fiscal year under this paragraph.
+&emsp;&emsp;During fiscal year 1999 and each subsequent fiscal year, the Secretary shall increase or decrease the number of individuals who may be granted an exemption by a State agency under this paragraph to the extent that the average monthly number of exemptions in effect in the State for the preceding fiscal year under this paragraph is lesser or greater than the average monthly number of exemptions estimated for the State agency for such preceding fiscal year under this paragraph.
 
 #### (G) Reporting requirement
 
@@ -540,7 +556,7 @@ No member of a household who is otherwise eligible to participate in the food st
 
 &emsp;Nothing in this subsection shall make an individual eligible for benefits under this chapter if the individual is not otherwise eligible for benefits under the other provisions of this chapter.
 
-(Pub. L. 88–525, §6, Aug. 31, 1964, 78 Stat. 704; Pub. L. 94–339, §3, July 5, 1976, 90 Stat. 800; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 964; Pub. L. 96–58, §§5, 9, Aug. 14, 1979, 93 Stat. 391, 392; Pub. L. 96–249, title I, §§109, 110, 114, 115, 139, 140, May 26, 1980, 94 Stat. 359, 361, 370; Pub. L. 97–35, title I, §§108(b), (c), 109, 112, Aug. 13, 1981, 95 Stat. 361, 362; Pub. L. 97–98, title XIII, §§1310, 1311, Dec. 22, 1981, 95 Stat. 1284, 1285; Pub. L. 97–253, title I, §§145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, 96 Stat. 774, 777, 778, 787; Pub. L. 98–204, §§5, 6, Dec. 2, 1983, 97 Stat. 1385, 1386; Pub. L. 99–198, title XV, §§1513(b), 1516, 1517(a), Dec. 23, 1985, 99 Stat. 1571–1573; Pub. L. 100–435, title II, §202(b), (c), title IV, §404(a)–(d), Sept. 19, 1988, 102 Stat. 1656, 1665–1667; Pub. L. 101–624, title XVII, §§1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, 104 Stat. 3786–3788; Pub. L. 102–237, title IX, §§907, 941(3), Dec. 13, 1991, 105 Stat. 1885, 1892; Pub. L. 103–66, title XIII, §§13922(b), 13942, Aug. 10, 1993, 107 Stat. 675, 677; Pub. L. 103–225, title I, §§101(a), 104(b), Mar. 25, 1994, 108 Stat. 106, 107; Pub. L. 103–296, title I, §108(f)(1), (2), Aug. 15, 1994, 108 Stat. 1486, 1487; Pub. L. 104–193, title I, §109(b), title VIII, §§813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, 110 Stat. 2169, 2314, 2315, 2318, 2320–2323; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(i), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 105–33, title I, §1001, Aug. 5, 1997, 111 Stat. 251; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(B), (f)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429.)
+(Pub. L. 88–525, §6, Aug. 31, 1964, 78 Stat. 704; Pub. L. 94–339, §3, July 5, 1976, 90 Stat. 800; Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 964; Pub. L. 96–58, §§5, 9, Aug. 14, 1979, 93 Stat. 391, 392; Pub. L. 96–249, title I, §§109, 110, 114, 115, 139, 140, May 26, 1980, 94 Stat. 359, 361, 370; Pub. L. 97–35, title I, §§108(b), (c), 109, 112, Aug. 13, 1981, 95 Stat. 361, 362; Pub. L. 97–98, title XIII, §§1310, 1311, Dec. 22, 1981, 95 Stat. 1284, 1285; Pub. L. 97–253, title I, §§145(e), 154–161, 189(b)(1), 190(a), (b), Sept. 8, 1982, 96 Stat. 774, 777, 778, 787; Pub. L. 98–204, §§5, 6, Dec. 2, 1983, 97 Stat. 1385, 1386; Pub. L. 99–198, title XV, §§1513(b), 1516, 1517(a), Dec. 23, 1985, 99 Stat. 1571–1573; Pub. L. 100–435, title II, §202(b), (c), title IV, §404(a)–(d), Sept. 19, 1988, 102 Stat. 1656, 1665–1667; Pub. L. 101–624, title XVII, §§1723–1726(b)(1), (c), (d), 1727, Nov. 28, 1990, 104 Stat. 3786–3788; Pub. L. 102–237, title IX, §§907, 941(3), Dec. 13, 1991, 105 Stat. 1885, 1892; Pub. L. 103–66, title XIII, §§13922(b), 13942, Aug. 10, 1993, 107 Stat. 675, 677; Pub. L. 103–225, title I, §§101(a), 104(b), Mar. 25, 1994, 108 Stat. 106, 107; Pub. L. 103–296, title I, §108(f)(1), (2), Aug. 15, 1994, 108 Stat. 1486, 1487; Pub. L. 104–193, title I, §109(b), title VIII, §§813–815(a), 816, 817(a), 818, 819(a), (c), 820–824(a), Aug. 22, 1996, 110 Stat. 2169, 2314, 2315, 2318, 2320–2323; Pub. L. 104–208, div. C, title III, §308(g)(7)(D)(i), Sept. 30, 1996, 110 Stat. 3009–624; Pub. L. 105–33, title I, §1001, Aug. 5, 1997, 111 Stat. 251; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(2)(B), (f)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–418, 2681–429; Pub. L. 107–171, title IV, §§4109, 4115(b)(2), 4121(c), May 13, 2002, 116 Stat. 309, 315, 324.)
 
 #### References in Text
 
@@ -555,6 +571,14 @@ The Workforce Investment Act of 1998, referred to in subsecs. (d)(4)(M), (e)(3)(
 Section 212(a) of Pub. L. 93–66, referred to in subsec. (g), is Pub. L. 93–66, title II, §212(a), July 9, 1973, 87 Stat. 155, which is set out as a note under section 1382 of Title 42, The Public Health and Welfare.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–171, §4115(b)(2), substituted “Except in a case in which a household is receiving transitional benefits during the transitional benefits period under section 2020(s) of this title, no household” for “No household” in introductory provisions.
+
+Subsec. (c)(1)(B). Pub. L. 107–171, §4109(1), struck out “on a monthly basis” after “periodic reports”.
+
+Subsec. (c)(1)(D). Pub. L. 107–171, §4109(2), added subpar. (D).
+
+Subsec. (d)(4)(I)(i)(I). Pub. L. 107–171, §4121(c), struck out “, except that the State agency may limit such reimbursement to each participant to $25 per month” before semicolon.
 
 1998—Subsec. (d)(4)(M). Pub. L. 105–277, §101(f) \[title VIII, §405(f)(2)(B)(i)\], struck out “the State public employment offices and agencies operating programs under the Job Training Partnership Act or of” after “The facilities of”.
 
@@ -588,7 +612,7 @@ Subsec. (d)(2). Pub. L. 104–193, §§816, 819(c), struck out “that is compar
 
 Subsec. (d)(4). Pub. L. 104–193, §817(a)(1), inserted par. heading.
 
-Subsec. (d)(4)(A). Pub. L. 104–193, §817(a)(1), (2), inserted subpar. heading, designated existing provisions as cl. (i), inserted heading, substituted “Each State” for “Not later than April 1, 1987, each State”, inserted “work,” after “skills, training,”, and added cl. (ii).
+Subsec. (d)(4)(A). Pub. L. 104–193, §817(a)(1), (2), inserted subpar. heading, designated existing provisions as cl. (i), inserted heading, substituted “Each State”for “Not later than April 1, 1987, each State”, inserted “work,” after “skills, training,”, and added cl. (ii).
 
 Subsec. (d)(4)(B). Pub. L. 104–193, §817(a)(3), in introductory provisions, inserted before colon “, except that the State agency shall retain the option to apply employment requirements prescribed under this subparagraph to a program applicant at the time of application”, in cl. (i), struck out “with terms and conditions comparable to those prescribed in subparagraphs (A) and (B) of section 402(a)(35) of part A of title IV of the Social Security Act, except that the State agency shall retain the option to apply employment requirements prescribed under this clause to program applicants at the time of application” after “search programs”, and in cl. (iv), redesignated subcls. (III) and (IV) as (I) and (II), respectively, and struck out former subcls. (I) and (II) which read as follows:
 
@@ -694,7 +718,7 @@ Subsec. (d)(4)(B)(vi). Pub. L. 100–435, §404(a)(2), (3), redesignated former 
 
 Subsec. (d)(4)(H). Pub. L. 100–435, §404(b), added subpar. (H). Former subpar. (H) redesignated (I).
 
-Subsec. (d)(4)(I). Pub. L. 100–435, §404(b)(1), (c), redesignated subpar. (H) as (I) and amended subpar. generally. Prior to amendment, subpar. (I) read as follows: “The State agency shall reimburse participants in programs carried out under this paragraph, including those participating under subparagraph (G), for the actual costs of transportation, and other actual costs,that are reasonably necessary and directly related to participation in the program, except that the State agency may limit such reimbursement to each participant to $25 per month.” Former subpar. (I) redesignated (J).
+Subsec. (d)(4)(I). Pub. L. 100–435, §404(b)(1), (c), redesignated subpar. (H) as (I) and amended subpar. generally. Prior to amendment, subpar. (I) read as follows: “The State agency shall reimburse participants in programs carried out under this paragraph, including those participating under subparagraph (G), for the actual costs of transportation, and other actual costs, that are reasonably necessary and directly related to participation in the program, except that the State agency may limit such reimbursement to each participant to $25 per month.” Former subpar. (I) redesignated (J).
 
 Subsec. (d)(4)(J), (K). Pub. L. 100–435, §404(b)(1), redesignated subpars. (I) and (J) as (J) and (K), respectively. Former subpar. (K) redesignated (M).
 
@@ -740,7 +764,7 @@ Subsec. (d)(2)(C). Pub. L. 97–253, §§159, 190(a), redesignated subpar. (D) a
 
 Subsec. (d)(2)(D) to (F). Pub. L. 97–253, §190(a), redesignated subpars. (D) to (F) as (C) to (E), respectively. Former subpar. (D) redesignated (C).
 
-Subsec. (d)(3), (4). Pub. L. 97–253, §§160, 190(b), redesignated par. (4) as (3), and struck out former par. (3) which provided that to the extent that a State employment service was assigned responsibility for administering the provisions of this subsection, it had to comply with regulations issued jointly by the Secretary and the Secretary of Labor, which regulations had to be patterned to the maximum extent practicable on the work incentive program requirements set forth in title IV of the Social Security Act and had to take into account the diversity of the needs of the food stamp work registration population.
+Subsec. (d)(3), (4). Pub. L. 97–253, §§160, 190(b), redesignated par. (4) as (3), and struck out former par. (3)which provided that to the extent that a State employment service was assigned responsibility for administering the provisions of this subsection, it had to comply with regulations issued jointly by the Secretary and the Secretary of Labor, which regulations had to be patterned to the maximum extent practicable on the work incentive program requirements set forth in title IV of the Social Security Act and had to take into account the diversity of the needs of the food stamp work registration population.
 
 Subsec. (e)(3)(B). Pub. L. 97–253, §161, substituted “; (B) is not a parent with responsibility for the care of a dependent child under age six;” for “or (B) is not the head of a household (or spouse of such head) containing one or more other persons who are dependents of that individual because he or she supplies more than half of their support, or”.
 
@@ -754,9 +778,9 @@ Subsec. (c). Pub. L. 97–35, §108(b), in par. (1) inserted provisions enumerat
 
 Subsec. (c)(1). Pub. L. 97–35, §108(c), struck out provisions respecting election of retrospective accounting system, and filing of periodic reports by household categories.
 
-Subsec. (d)(1). Pub. L. 97–98, §§1310, 1311(1), (2), substituted in cl. (i) “twelve” for “six”, struck out in cl. (iii) “, unless the household was certified for benefits under this chapter immediately prior to such unemployment” after “without good cause”, and inserted in cl. (iv) “(including the lack of adequate child care for children above the age of five and under the age of twelve)” after “good cause”.
+Subsec. (d)(1). Pub. L. 97–98, §§1310, 1311(1), (2), substituted in cl. (i) “twelve” for “six”, struck out in cl. (iii) “, unless the household was certified for benefits under this chapter immediately prior to such unemployment” after “without good cause”, and inserted in cl. (iv) “(including the lack of adequate child care for children above the age of five and under the age of twelve)” after “good cause”.
 
-Subsec. (d)(2). Pub. L. 97–98, §1311(3), (4), inserted in cl. (A) “, in which case, failure by such person to comply with any work requirement to which such person is subject that is comparable to a requirement of paragraph (1) shall be the same as failure to comply with that requirement of paragraph (1)” after “compensation system” and substituted in cl. (B) “six” for “twelve”.
+Subsec. (d)(2). Pub. L. 97–98, §1311(3), (4), inserted in cl. (A) “, in which case, failure by such person to comply with any work requirement to which such person is subject that is comparable to a requirement of paragraph (1) shall be the same as failure to comply with that requirement of paragraph (1)” after “compensation system” and substituted in cl. (B) “six” for “twelve”.
 
 Subsec. (d)(4). Pub. L. 97–35, §109(a), inserted provisions relating to an increase in allotments as a result of a decrease in income of striking members of a household, and struck out proviso relating to income qualifications, etc., of subsec. (i).
 
@@ -782,6 +806,12 @@ Subsec. (i). Pub. L. 96–58, §9, added subsec. (i).
 
 1976—Subsecs. (b) to (e). Pub. L. 94–339 added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–171, title IV, §4121(e), May 13, 2002, 116 Stat. 324, provided that: “The amendments made by this section \[amending this section and section 2025 of this title\] take effect on the date of enactment of this Act \[May 13, 2002\].”
+
+Amendment by sections 4109, 4115(b)(2) of Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by section 101(f) \[title VIII, §405(d)(2)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(2)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
@@ -794,7 +824,7 @@ Section 1005(b) of Pub. L. 105–33 provided that: “The amendments made by sec
 
 Amendment by Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of Title 8, Aliens and Nationality.
 
-Amendment by section 109(b) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to Stateoptions to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by section 109(b) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1994 Amendment
 
@@ -843,6 +873,10 @@ Section 1301 of Pub. L. 95–113 provided that the amendment made by that sectio
 #### Regulations
 
 Section 1005(a) of title I of Pub. L. 105–33 provided that: “Not later than 1 year after the date of enactment of this Act \[Aug. 5, 1997\], the Secretary of Agriculture shall promulgate such regulations as are necessary to implement the amendments made by this title \[amending this section and sections 2020 and 2025 of this title\].”
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Transition Provision for Work Requirement
 

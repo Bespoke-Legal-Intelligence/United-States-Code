@@ -32,7 +32,7 @@ There is established in the Treasury a fund to be known as the Christopher Colum
 
 #### (c) Sale of obligations
 
-Any obligations acquired by the fund (except special obligations issued exclusively to the fund in accordance with subsection (b)(3) of this section) may be sold by the Secretary at the market price, and such special obligations may be redeemed at par plus accrued interest.
+Any obligations acquired by the fund (except special obligations issued exclusively to thefund in accordance with subsection (b)(3) of this section) may be sold by the Secretary at the market price, and such special obligations may be redeemed at par plus accrued interest.
 
 #### (d) Interest
 

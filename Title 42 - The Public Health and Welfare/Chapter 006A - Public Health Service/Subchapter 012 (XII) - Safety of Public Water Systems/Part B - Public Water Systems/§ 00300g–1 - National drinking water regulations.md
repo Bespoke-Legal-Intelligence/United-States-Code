@@ -34,13 +34,13 @@ Regulation of unregulated contaminants.—
 
 Listing of contaminants for consideration.—(I) Not later than 18 months after August 6, 1996, and every 5 years thereafter, the Administrator, after consultation with the scientific community, including the Science Advisory Board, after notice and opportunity for public comment, and after considering the occurrence data base established under section 300j–4(g) of this title, shall publish a list of contaminants which, at the time of publication, are not subject to any proposed or promulgated national primary drinking water regulation, which are known or anticipated to occur in public water systems, and which may require regulation under this subchapter.
 
-&emsp;&emsp;(II) The unregulated contaminants considered under subclause (I) shall include, but not be limited to, substances referred to in section 9601(14) of this title, and substances registered as pesticides under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\].
+&emsp;&emsp;(II) The unregulated contaminants considered under subclause (I) shall include, butnot be limited to, substances referred to in section 9601(14) of this title, and substances registered as pesticides under the Federal Insecticide, Fungicide, and Rodenticide Act \[7 U.S.C. 136 et seq.\].
 
 &emsp;&emsp;(III) The Administrator's decision whether or not to select an unregulated contaminant for a list under this clause shall not be subject to judicial review.
 
 &emsp;&emsp;(ii)
 
-Determination to regulate.—(I) Not later than 5 years after August 6, 1996, and every 5 years thereafter, the Administrator shall, after notice of the preliminary determination and opportunity for public comment, for not fewer than 5 contaminants included on the list published under clause (i),make determinations of whether or not to regulate such contaminants.
+Determination to regulate.—(I) Not later than 5 years after August 6, 1996, and every 5 years thereafter, the Administrator shall, after notice of the preliminary determination and opportunity for public comment, for not fewer than 5 contaminants included on the list published under clause (i), make determinations of whether or not to regulate such contaminants.
 
 &emsp;&emsp;(II) A determination to regulate a contaminant shall be based on findings that the criteria of clauses (i), (ii), and (iii) of subparagraph (A) are satisfied. Such findings shall be based on the best available public health information, including the occurrence data base established under section 300j–4(g) of this title.
 
@@ -88,7 +88,7 @@ Substitution of contaminants.—If the Administrator identifies a drinking water
 
 &emsp;(C)
 
-Disinfectants and disinfection byproducts.—The Administrator shall promulgate an Interim Enhanced Surface Water Treatment Rule, a Final Enhanced Surface Water Treatment Rule, a Stage I Disinfectants and Disinfection Byproducts Rule, and a Stage II Disinfectants and Disinfection Byproducts Rule in accordance with the schedule published in volume 59, Federal Register, page 6361 (February 10, 1994), in table III.13 of the proposed Information Collection Rule. If a delay occurs with respect to the promulgation of any rule in the schedule referred to in this subparagraph, all subsequent rules shall be completed as expeditiously as practicable but no laterthan a revised date that reflects the interval or intervals for the rules in the schedule.
+Disinfectants and disinfection byproducts.—The Administrator shall promulgate an Interim Enhanced Surface Water Treatment Rule, a Final Enhanced Surface Water Treatment Rule, a Stage I Disinfectants and Disinfection Byproducts Rule, and a Stage II Disinfectants and Disinfection Byproducts Rule in accordance with the schedule published in volume 59, Federal Register, page 6361 (February 10, 1994), in table III.13 of the proposed Information Collection Rule. If a delay occurs with respect to the promulgation of any rule in the schedule referred to in this subparagraph, all subsequent rules shall be completed as expeditiously as practicable but no later than a revised date that reflects the interval or intervals for the rules in the schedule.
 
 (3)
 
@@ -148,7 +148,7 @@ Approaches to measure and value benefits.—The Administrator may identify valid
 
 &emsp;&emsp;(iv)
 
-Authorization.—There are authorized to be appropriated to the Administrator, acting through the Office of Ground Water and Drinking Water, to conduct studies, assessments, and analyses in support of regulations or the development of methods, $35,000,000 for each of fiscal years 1996 through 2003.
+Authorization.—There are authorized to be appropriated to the Administrator,acting through the Office of Ground Water and Drinking Water, to conduct studies, assessments, and analyses in support of regulations or the development of methods, $35,000,000 for each of fiscal years 1996 through 2003.
 
 (4)
 
@@ -258,7 +258,7 @@ Judicial review.—A determination by the Administrator that the benefits of a m
 
 (iii) Within 18 months from the time that the Administrator establishes the criteria and procedures under this subparagraph, a State with primary enforcement responsibility shall adopt any necessary regulations to implement this subparagraph. Within 12 months of adoption of such regulations the State shall make determinations regarding filtration for all the public water systems within its jurisdiction supplied by surface waters.
 
-(iv) If a State does not have primary enforcement responsibility for public water systems, the Administrator shall have the same authority to make the determination in clause (ii) in such State as the State would have under thatclause. Any filtration requirement or schedule under this subparagraph shall be treated as if it were a requirement of a national primary drinking water regulation.
+(iv) If a State does not have primary enforcement responsibility for public water systems, the Administrator shall have the same authority to make the determination in clause (ii) in such State as the State would have under that clause. Any filtration requirement or schedule under this subparagraph shall be treated as if it were a requirement of a national primary drinking water regulation.
 
 (v) As an additional alternative to the regulations promulgated pursuant to clauses (i) and (iii), including the criteria for avoiding filtration contained in 40 CFR 141.71, a State exercising primary enforcement responsibility for public water systems may, on a case-by-case basis, and after notice and opportunity for public comment, establish treatment requirements as an alternative to filtration in the case of systems having uninhabited, undeveloped watersheds in consolidated ownership, and having control over access to, and activities in, those watersheds, if the State determines (and the Administrator concurs) that the quality of the source water and the alternative treatment requirements established by the State ensure greater removal or inactivation efficiencies of pathogenic organisms for which national primary drinking water regulations have been promulgated or that are of public health concern than would be achieved by the combination of filtration and chlorine disinfection (in compliance with this section).
 
@@ -314,7 +314,7 @@ Sulfate.—
 
 &emsp;&emsp;(i)
 
-Additional study.—Prior to promulgating a national primary drinking water regulation for sulfate, the Administrator and the Director of the Centers for Disease Control and Prevention shall jointly conduct an additional study to establish a reliable dose-response relationship for the adverse human health effects that may result from exposure to sulfate in drinking water, including the health effects that may be experienced by groups within the general population (including infants and travelers) that are potentially at greater risk of adverse health effects as the result of such exposure. The study shall be conducted in consultation with interested States, shall be based on thebest available, peer-reviewed science and supporting studies conducted in accordance with sound and objective scientific practices, and shall be completed not later than 30 months after August 6, 1996.
+Additional study.—Prior to promulgating a national primary drinking water regulation for sulfate, the Administratorand the Director of the Centers for Disease Control and Prevention shall jointly conduct an additional study to establish a reliable dose-response relationship for the adverse human health effects that may result from exposure to sulfate in drinking water, including the health effects that may be experienced by groups within the general population (including infants and travelers) that are potentially at greater risk of adverse health effects as the result of such exposure. The study shall be conducted in consultation with interested States, shall be based on the best available, peer-reviewed science and supporting studies conducted in accordance with sound and objective scientific practices, and shall be completed not later than 30 months after August 6, 1996.
 
 &emsp;&emsp;(ii)
 
@@ -370,7 +370,7 @@ Multimedia radon mitigation programs.—
 
 &emsp;&emsp;(i)
 
-In general.—A State may develop and submit a multimedia program to mitigate radon levels in indoor air for approval by the Administrator under this subparagraph. If, after notice and the opportunity for public comment, such program is approved by the Administrator, public water systems in the State may comply with the alternative maximum contaminant level promulgated under subparagraph (F) in lieu of the maximumcontaminant level in the national primary drinking water regulation promulgated under subparagraph (E).
+In general.—A State may develop and submit a multimedia program to mitigate radon levels in indoor air for approval by the Administrator under this subparagraph. If, after notice and the opportunity for public comment, such program is approved by the Administrator, public water systems in the State may comply with the alternative maximum contaminant level promulgated under subparagraph (F) in lieu of the maximum contaminant level in the national primary drinking water regulation promulgated under subparagraph (E).
 
 &emsp;&emsp;(ii)
 

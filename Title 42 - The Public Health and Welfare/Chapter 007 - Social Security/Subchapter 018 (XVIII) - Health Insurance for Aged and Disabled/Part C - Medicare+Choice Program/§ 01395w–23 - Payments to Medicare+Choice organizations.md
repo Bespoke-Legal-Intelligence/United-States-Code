@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e), (g), and (i) of this section and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under thissection in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in a Medicare+Choice payment area for a month, in an amount equal to 1/12 of the annual Medicare+Choice capitation rate (as calculated under subsection (c) of this section) with respect to that individual for that area, reduced by the amount of any reduction elected under section 1395w–24(f)(1)(E) of this title and adjusted for such risk factors as age, disability status, gender, institutional status, and such other factors as the Secretary determines to be appropriate, so as to ensure actuarial equivalence. The Secretary may add to, modify, or substitute for such factors, if such changes will improve the determination of actuarial equivalence.
+&emsp;&emsp;Under a contract under section 1395w–27 of this title and subject to subsections (e), (g), and (i) of this section and section 1395w–28(e)(4) of this title, the Secretary shall make monthly payments under this section in advance to each Medicare+Choice organization, with respect to coverage of an individual under this part in a Medicare+Choice payment area for a month, in an amount equal to 1/12 of the annual Medicare+Choice capitation rate (as calculated under subsection (c) of this section) with respect to that individual for that area, reduced by the amount of any reduction elected under section 1395w–24(f)(1)(E) of this title and adjusted for such risk factors as age, disability status, gender, institutional status, and such other factors as the Secretary determines to be appropriate, so as to ensure actuarial equivalence. The Secretarymay add to, modify, or substitute for such factors, if such changes will improve the determination of actuarial equivalence.
 
 #### (B) Special rule for end-stage renal disease
 
@@ -80,7 +80,7 @@
 
 #### (1) Annual announcement
 
-&emsp;The Secretary shall annually determine, and shall announce (in a manner intended to provide notice to interested parties) not later than March 1 before the calendar year concerned—
+&emsp;The Secretary shall annually determine, and shall announce (in a manner intended to provide notice to interested parties) for years before 2004 and after 2005 not later than March 1 before the calendar year concerned and for 2004 and 2005 not later than the second Monday in May before the respective calendar year—
 
 &emsp;&emsp;(A) the annual Medicare+Choice capitation rate for each Medicare+Choice payment area for the year, and
 
@@ -208,13 +208,13 @@
 
 #### (D) Treatment of areas with highly variable payment rates
 
-&emsp;&emsp;In the case of a Medicare+Choice payment area for which the annual per capita rate ofpayment determined under section 1395mm(a)(1)(C) of this title for 1997 varies by more than 20 percent from such rate for 1996, for purposes of this subsection the Secretary may substitute for such rate for 1997 a rate that is more representative of the costs of the enrollees in the area.
+&emsp;&emsp;In the case of a Medicare+Choice payment area for which the annual per capita rate of payment determined under section 1395mm(a)(1)(C) of this title for 1997 varies by more than 20 percent from such rate for 1996, for purposes of this subsection the Secretary may substitute for such rate for 1997 a rate that is more representative of the costs of the enrollees in the area.
 
 #### (4) Input-price-adjusted annual national Medicare+Choice capitation rate
 
 #### (A) In general
 
-&emsp;&emsp;For purposes of paragraph (1)(A), the input-price-adjusted annual national Medicare+Choice capitation rate for a Medicare+Choice payment area for a year is equal to the sum, for all the types of medicare services (as classified by the Secretary), of the product (for each such type of service) of—
+&emsp;&emsp;For purposes of paragraph (1)(A), the input-price-adjusted annual nationalMedicare+Choice capitation rate for a Medicare+Choice payment area for a year is equal to the sum, for all the types of medicare services (as classified by the Secretary), of the product (for each such type of service) of—
 
 &emsp;&emsp;&emsp;(i) the national standardized annual Medicare+Choice capitation rate (determined under subparagraph (B)) for the year,
 
@@ -288,7 +288,7 @@
 
 #### (C) Adjustment for over or under projection of national per capita Medicare+Choice growth percentage
 
-&emsp;&emsp;Beginning with rates calculated for 1999, before computing rates for a year as described in paragraph (1), the Secretary shall adjust all area-specific and national Medicare+Choice capitation rates (and beginning in 2000, the minimum amount) for the previous year for the differences between the projections of the national per capita Medicare+Choice growth percentage for that year and previous years and the current estimate of such percentage for such years.
+&emsp;&emsp;Beginning with rates calculated for 1999, before computing rates for a year as described in paragraph (1), the Secretary shall adjust all area-specific and national Medicare+Choice capitation rates (and beginning in 2000, the minimum amount) for the previous year for the differences between the projections of the national per capitaMedicare+Choice growth percentage for that year and previous years and the current estimate of such percentage for such years.
 
 #### (7) Adjustment for national coverage determinations and legislative changes in benefits
 
@@ -338,7 +338,7 @@
 
 #### (1) In general
 
-&emsp;If the amount of the Medicare+Choice monthly MSA premium (as defined in section 1395w–24(b)(2)(C) of this title) for an MSA plan for a year is less than 1/12 of the annual Medicare+Choice capitation rate applied under this section for the area and year involved, the Secretary shall deposit an amount equal to 100 percent of such difference in a Medicare+�Choice MSA established (and, if applicable, designated) by the individual under paragraph (2).
+&emsp;If the amount of the Medicare+Choice monthly MSA premium (as defined in section 1395w–24(b)(2)(C) of this title) for an MSA plan for a year is less than 1/12 of the annual Medicare+Choice capitation rate applied under this section for the area and year involved, the Secretary shall deposit an amount equal to 100 percent of such difference in a Medicare+Choice MSA established (and, if applicable, designated) by the individual under paragraph (2).
 
 #### (2) Establishment and designation of Medicare+Choice medical savings account as requirement for payment of contribution
 
@@ -352,7 +352,7 @@
 
 #### (3) Lump-sum deposit of medical savings account contribution
 
-&emsp;In the case of an individual electing an MSA plan effective beginning with a month in a year, the amount of the contribution to the Medicare+Choice MSA on behalf of the individual for that month and all successive months in the year shall be deposited during that first month. In the case of a termination of such an election as of a month before the end of a year, the Secretary shall provide for a procedure for the recovery of deposits attributable to the remaining months in the year.
+&emsp;In the case of an individual electing an MSA plan effective beginning with a month in a year, the amount of the contribution to the Medicare+Choice MSA on behalf of the individual for that month and all successive months in the year shall be deposited duringthat first month. In the case of a termination of such an election as of a month before the end of a year, the Secretary shall provide for a procedure for the recovery of deposits attributable to the remaining months in the year.
 
 #### (f) Payments from Trust Fund
 
@@ -414,7 +414,7 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 #### (3) Limitation to organization offering first plan in an area
 
-&emsp;Paragraph (1) shall only apply to payment to the first Medicare+Choice organization that offers a Medicare+Choice plan in each Medicare+Choice payment area, except that if more than one such organization first offers such a plan in an area on the same date, paragraph (1) shall apply to payment for such organizations.
+&emsp;Paragraph (1) shall only apply to payment to the first Medicare+Choice organization thatoffers a Medicare+Choice plan in each Medicare+Choice payment area, except that if more than one such organization first offers such a plan in an area on the same date, paragraph (1) shall apply to payment for such organizations.
 
 #### (4) Construction
 
@@ -424,7 +424,7 @@ In the case of an individual who is receiving inpatient hospital services from a
 
 &emsp;In this subsection, the term “offered” means, with respect to a Medicare+Choice plan as of a date, that a Medicare+Choice eligible individual may enroll with the plan on that date, regardless of when the enrollment takes effect or when the individual obtains benefits under the plan.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§511(a), 512, 514(a), 517\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, 1501A–382 to 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–554 to 2763A–559.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1853, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 299; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §§511(a), 512, 514(a), 517\], Nov. 29, 1999, 113 Stat. 1536, 1501A–380, 1501A–382 to 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§601(a), 602(a), 603, 605(a), 606(a)(2)(A), 607, 608(a), 611(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–554 to 2763A–559; Pub. L. 107–188, title V, §532(d)(1), June 12, 2002, 116 Stat. 696.)
 
 #### References in Text
 
@@ -435,6 +435,8 @@ Parts A and B of this subchapter, referred to in subsecs. (b)(4), (c)(4)(C), (6)
 The Internal Revenue Code of 1986, referred to in subsec. (e)(2)(A), is classified generally to Title 26, Internal Revenue Code.
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–188 in introductory provisions substituted “for years before 2004 and after 2005 not later than March 1 before the calendar year concerned and for 2004 and 2005 not later than the second Monday in May before the respective calendar year” for “not later than March 1 before the calendar year concerned”.
 
 2000—Subsec. (a)(1)(A). Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(A)\], inserted “reduced by the amount of any reduction elected under section 1395w–24(f)(1)(E) of this title and” after “for that area,”.
 
@@ -476,9 +478,13 @@ Subsec. (c)(6)(B)(v). Pub. L. 106–113, §1000(a)(6) \[title V, §517\], substi
 
 Subsec. (i). Pub. L. 106–113, §1000(a)(6) \[title V, §512(3)\], added subsec. (i).
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–188, title V, §532(d)(2), June 12, 2002, 116 Stat. 697, provided that: “The amendment made by paragraph (1) \[amending this section\] shall first apply to announcements for years after 2003.”
+
 #### Effective Date of 2000 Amendment
 
-Pub. L. 106–554, §1(a)(6) \[title VI, §605(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–556, provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to payments for months beginning with January 2002.”
+Pub. L. 106–554, §1(a)(6) \[title VI, §605(b)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–556, provided that: “Theamendment made by subsection (a) \[amending this section\] shall apply to payments for months beginning with January 2002.”
 
 Amendment by section 1(a)(6) \[title VI, §606(a)(2)(A)\] of Pub. L. 106–554 applicable to years beginning with 2003, see section 1(a)(6) \[title VI, §606(b)\] of Pub. L. 106–554, set out as a note under section 1395r of this title.
 
@@ -634,7 +640,7 @@ Establishment of Project.—
 
 &emsp;“(1)
 
-In general.—Subject to the succeeding provisions of this subsection, the Secretary of Health and Human Services (in this subchapter \[subchapter A (§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\] referred to as the ‘Secretary’) shall establish a demonstration project (in this subchapter referred to as the ‘project’) under which payments to Medicare+Choice organizations in medicare paymentareas in which the project is being conducted are determined in accordance with a competitive pricing methodology established under this subchapter.
+In general.—Subject to the succeeding provisions of this subsection, the Secretary of Health and Human Services (in this subchapter \[subchapter A\(§§4011–4012) of chapter 2 of subtitle A of title IV of Pub. L. 105–33\] referred to as the ‘Secretary’) shall establish a demonstration project (in this subchapter referred to as the ‘project’) under which payments to Medicare+Choice organizations in medicare payment areas in which the project is being conducted are determined in accordance with a competitive pricing methodology established under this subchapter.
 
 &emsp;“(2)
 
@@ -730,7 +736,7 @@ Waiver Authority.—The Secretary of Health and Human Services may waive such re
 
 “(f)
 
-Relationship to Other Authority.—Except pursuant to this subchapter, the Secretary of Health and Human Services may not conduct or continue any medicare demonstration project relating to payment of health maintenance organizations, Medicare+Choice organizations, or similar prepaid managed care entities on the basis of a competitive bidding process or pricing system described in subsection (a).
+Relationship to Other Authority.—Except pursuant to this subchapter, the Secretary of Health and Human Services may not conduct or continue any medicare demonstration project relating to payment of health maintenance organizations, Medicare+Choiceorganizations, or similar prepaid managed care entities on the basis of a competitive bidding process or pricing system described in subsection (a).
 
 “(g)
 

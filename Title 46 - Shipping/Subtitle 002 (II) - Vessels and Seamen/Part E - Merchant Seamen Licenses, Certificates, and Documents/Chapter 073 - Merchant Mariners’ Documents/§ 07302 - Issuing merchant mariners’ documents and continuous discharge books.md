@@ -10,9 +10,17 @@
 
 (e) The Secretary shall require the testing of an individual applying for issuance or renewal of a merchant mariner's document under this chapter for the use of a dangerous drug in violation of law or Federal regulation.
 
-(f) A merchant mariner's document issued under this chapter is valid for 5 years and may be renewed for additional 5-year periods.
+(f) Except as provided in subsection (g), a merchant mariner's document issued under this chapter is valid for 5 years and may be renewed for additional 5-year periods.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 542; Pub. L. 101–380, title IV, §§4101(b), 4102(c), Aug. 18, 1990, 104 Stat. 509.)
+(g)(1) The Secretary may, pending receipt and review of information required under subsections (c) and (d), immediately issue an interim merchant mariner's document valid for a period not to exceed 120 days, to—
+
+&emsp;(A) an individual to be employed as gaming personnel, entertainment personnel, waitstaff, or other service personnel on board a passenger vessel not engaged in foreign service, with no duties, including emergency duties, related to the navigation of the vessel or the safety of the vessel, its crew, cargo or passengers; or
+
+&emsp;(B) an individual seeking renewal of, or qualifying for a supplemental endorsement to, a valid merchant mariner's document issued under this section.
+
+(2) No more than one interim document may be issued to an individual under paragraph (1)(A) of this subsection.
+
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 542; Pub. L. 101–380, title IV, §§4101(b), 4102(c), Aug. 18, 1990, 104 Stat. 509; Pub. L. 107–295, title III, §324(a), Nov. 25, 2002, 116 Stat. 2104.)
 
 Historical and Revision Notes
 
@@ -39,6 +47,10 @@ Subsection (b) allows the Secretary to issue a continuous discharge book to an i
 Sections 205(a)(3)(A) or (B) and 206(b)(7) of the National Driver Register Act of 1982, referred to in subsec. (c), are sections 205(a)(3)(A), (B) and 206(b)(7) of Pub. L. 97–364, which are set out as a note under section 401 of Title 23, Highways.
 
 #### Amendments
+
+2002—Subsec. (f). Pub. L. 107–295, §324(a)(1), substituted “Except as provided in subsection (g), a” for “A”.
+
+Subsec. (g). Pub. L. 107–295, §324(a)(2), added subsec. (g).
 
 1990—Subsecs. (c) to (e). Pub. L. 101–380, §4101(b), added subsecs. (c) to (e).
 

@@ -14,7 +14,7 @@
 
 &emsp;(2) all machinery, equipment, and appurtenances of the former Post Office Department;
 
-&emsp;(3) all real property whose ownership was acquired by the Postmaster General under former section 2103 of this title, as in effect immediately prior to the effective date of this section, or which immediately prior to such effective date, is under the administration of the former Post Office Department for thepurpose of constructing a postal building from funds appropriated or transferred to the former Post Office Department, together with all funds appropriated or allocated therefor;
+&emsp;(3) all real property whose ownership was acquired by the Postmaster General under former section 2103 of this title, as in effect immediately prior to the effective date of this section, or which immediately prior to such effective date, is under the administration of the former Post Office Department for the purpose of constructing a postal building from funds appropriated or transferred to the former Post Office Department, together with all funds appropriated or allocated therefor;
 
 &emsp;(4) all real property 55 percent or more of which is occupied by or under control of the former Post Office Department immediately prior to the effective date of this section;
 

@@ -25,7 +25,7 @@
 | [3500\.](%C2%A7%2003500%20-%20Demands%20for%20production%20of%20statements%20and%20reports%20of%20witnesses.md) | Demands for production of statements and reports of witnesses. |
 | [3501\.](%C2%A7%2003501%20-%20Admissibility%20of%20confessions.md) | Admissibility of confessions. |
 | [3502\.](%C2%A7%2003502%20-%20Admissibility%20in%20evidence%20of%20eye%20witness%20testimony.md) | Admissibility in evidence of eye witness testimony. |
-| [3503\.](%C2%A7%2003503%20-%20Depositions%20to%20preserve%20testimony.md) | Depositions to preserve testimony. |
+| \[3503. | Repealed.\] |
 | [3504\.](%C2%A7%2003504%20-%20Litigation%20concerning%20sources%20of%20evidence.md) | Litigation concerning sources of evidence. |
 | [3505\.](%C2%A7%2003505%20-%20Foreign%20records%20of%20regularly%20conducted%20activity.md) | Foreign records of regularly conducted activity. |
 | [3506\.](%C2%A7%2003506%20-%20Service%20of%20papers%20filed%20in%20opposition%20to%20official%20request%20by%20United%20States%20to%20foreign%20government%20for%20criminal%20evidence.md) | Service of papers filed in opposition to official request by United States to foreign government for criminal evidence. |
@@ -37,6 +37,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–273, div. B, title IV, §4002(c)(3)(B), Nov. 2, 2002, 116 Stat. 1809, struck out item 3503 “Depositions to preserve testimony”.
 
 2000—Pub. L. 106–544, §5(b)(2), (3), Dec. 19, 2000, 114 Stat. 2718, struck out “in Federal health care investigations” after “subpoenas” in item 3486 and struck out item 3486A “Administrative subpoenas in cases involving child abuse and child sexual exploitation”.
 
@@ -94,7 +96,7 @@ Pub. L. 91–452, title V, §§501–504, Oct. 15, 1970, 84 Stat. 933, which aut
 - [&sect; 03500 - Demands for production of statements and reports of witnesses](%C2%A7%2003500%20-%20Demands%20for%20production%20of%20statements%20and%20reports%20of%20witnesses.md)
 - [&sect; 03501 - Admissibility of confessions](%C2%A7%2003501%20-%20Admissibility%20of%20confessions.md)
 - [&sect; 03502 - Admissibility in evidence of eye witness testimony](%C2%A7%2003502%20-%20Admissibility%20in%20evidence%20of%20eye%20witness%20testimony.md)
-- [&sect; 03503 - Depositions to preserve testimony](%C2%A7%2003503%20-%20Depositions%20to%20preserve%20testimony.md)
+- [&sect; 03503 - Repealed. Pub. L. 107&#8211;273, div. B, title IV, &sect;4002(c)(3)(A), Nov. 2, 2002, 116 Stat. 1809](%C2%A7%2003503%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93273%2C%20div.%20B%2C%20title%20IV%2C%20%C2%A74002%28c%29%283%29%28A%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201809.md)
 - [&sect; 03504 - Litigation concerning sources of evidence](%C2%A7%2003504%20-%20Litigation%20concerning%20sources%20of%20evidence.md)
 - [&sect; 03505 - Foreign records of regularly conducted activity](%C2%A7%2003505%20-%20Foreign%20records%20of%20regularly%20conducted%20activity.md)
 - [&sect; 03506 - Service of papers filed in opposition to official request by United States to foreign government for criminal evidence](%C2%A7%2003506%20-%20Service%20of%20papers%20filed%20in%20opposition%20to%20official%20request%20by%20United%20States%20to%20foreign%20government%20for%20criminal%20evidence.md)

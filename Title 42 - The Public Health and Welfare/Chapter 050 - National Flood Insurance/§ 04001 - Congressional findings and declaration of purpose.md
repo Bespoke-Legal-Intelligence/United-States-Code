@@ -2,7 +2,7 @@
 
 #### (a) Necessity and reasons for flood insurance program
 
-The Congress finds that (1) from time to time flood disasters have created personal hardships and economic distress which have required unforeseen disaster relief measures and have placed an increasing burden on the Nation's resources; (2) despite the installation of preventive and protective works and the adoption of other public programs designed to reduce losses caused by flood damage, these methods have not been sufficient to protect adequately against growing exposure to future flood losses; (3) as a matter of national policy, a reasonable method of sharing the risk of flood losses is through a program of flood insurance which can complement and encourage preventive and protective measures; and (4) if such a program is initiated and carried out gradually, it can be expanded as knowledge is gained and experience isappraised, thus eventually making flood insurance coverage available on reasonable terms and conditions to persons who have need for such protection.
+The Congress finds that (1) from time to time flood disasters have created personal hardships and economic distress which have required unforeseen disaster relief measures and have placed an increasing burden on the Nation's resources; (2) despite the installation of preventiveand protective works and the adoption of other public programs designed to reduce losses caused by flood damage, these methods have not been sufficient to protect adequately against growing exposure to future flood losses; (3) as a matter of national policy, a reasonable method of sharing the risk of flood losses is through a program of flood insurance which can complement and encourage preventive and protective measures; and (4) if such a program is initiated and carried out gradually, it can be expanded as knowledge is gained and experience is appraised, thus eventually making flood insurance coverage available on reasonable terms and conditions to persons who have need for such protection.
 
 #### (b) Participation of Federal Government in flood insurance program carried out by private insurance industry
 
@@ -57,6 +57,8 @@ Section 1301 of title XIII of Pub. L. 90–448 provided that: “This title \[en
 #### Regulations
 
 Section 583 of title V of Pub. L. 103–325 provided that: “The Director of the Federal Emergency Management Agency and any appropriate Federal agency may each issue any regulations necessary to carry out the applicable provisions of this title \[see Short Title of 1994 Amendment note above\] and the applicable amendments made by this title.”
+
+\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Evaluation of Erosion Hazards
 
@@ -138,7 +140,7 @@ Costs and Benefits of Mapping.—The determination under subsection (a)(5) shall
 
 &emsp;&emsp;“(A) funding the mitigation assistance program under section 1366 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4104c\] (as added by section 553 of this Act);
 
-&emsp;&emsp;“(B) funding the program under section 1304(b) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4011(b)\] (as added by section 555(a) of this Act) that provides additional coverage under the nationalflood insurance program for compliance with land use and control measures; and
+&emsp;&emsp;“(B) funding the program under section 1304(b) of the National Flood Insurance Act of 1968 \[42 U.S.C. 4011(b)\] (as added by section 555(a) of this Act) that provides additional coverage under the national flood insurance program for compliance with land use and control measures; and
 
 &emsp;&emsp;“(C) reviewing, revising, and updating flood insurance rate maps under subsections (e) and (f) of section 1360 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4101(e), (f)\] (as added by the amendment made by section 575 of this Act);
 

@@ -1,6 +1,6 @@
 ### §3204. Restrictions on use of penalty mail
 
-(a) Except as otherwise provided in this section or section 3220 of this title, an officer, executive department, or independent establishment of the Government of the United States may not mail, as penalty mail, any article or document unless—
+(a) Except as otherwise provided in this section, an officer, executive department, or independent establishment of the Government of the United States may not mail, as penalty mail, any article or document unless—
 
 &emsp;(1) a request therefor has been previously received by the department or establishment; or
 
@@ -26,17 +26,13 @@
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 752; Pub. L. 99–87, §1(c)(1), Aug. 9, 1985, 99 Stat. 291.)
 
-#### Amendment of Section
-
-<i>For termination of amendment by section 5 of Pub. L. 99–87, see Termination Date of 1985 Amendment note below.</i>
-
 #### Amendments
 
-1985—Subsec. (a). Pub. L. 99–87 temporarily inserted reference to section 3220(a) of this title. See Termination Date of 1985 Amendment note below.
+1985—Subsec. (a). Pub. L. 99–87 temporarily inserted “or section 3220(a) of this title” after “this section” in introductory provisions. See Termination Date of 1985 Amendment note below.
 
 #### Termination Date of 1985 Amendment
 
-Amendment by Pub. L. 99–87 not effective after Dec. 31, 2002, see section 5 of Pub. L. 99–87, as amended, set out as a Termination Date note under section 3220 of this title.
+Amendment by Pub. L. 99–87 not effective after Dec. 31, 2002, see section 5 of Pub. L. 99–87, as amended, set out as a Termination Date note under former section 3220 of this title.
 
 #### Transfer of Functions
 

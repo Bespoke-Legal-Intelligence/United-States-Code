@@ -30,7 +30,7 @@ The transferor and transferee of a facility that is sold or transferred as descr
 
 #### (d) Waiver of recovery rights
 
-The Secretary may waive the recovery rights of the United States under subsection (a) of this section with respect to a facility (under suchconditions as the Secretary may establish by regulation) if the Secretary determines that there is good cause for waiving such rights.
+The Secretary may waive the recovery rights of the United States under subsection (a) of this section with respect to a facility (under such conditions as the Secretary may establish by regulation) if the Secretary determines that there is good cause for waiving such rights.
 
 #### (e) Pre-judgment lien
 

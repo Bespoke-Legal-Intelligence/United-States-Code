@@ -10,7 +10,7 @@ Paragraph (2) of the Act of June 10, 1977 (Public Law 95–42; 91 Stat. 210), re
 
 The Land and Water Conservation Fund Act, referred to in text, probably means the Land and Water Conservation Fund Act of 1965, Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified principally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of this title and Tables.
 
-The Historic Preservation Act, referred to in text, probably means Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, known as the National Historic Preservation Act, which is classified generally to subchapter II\(§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470(a) of this title and Tables.
+The Historic Preservation Act, referred to in text, probably means Pub. L. 89–665, Oct. 15, 1966, 80 Stat. 915, as amended, known as the National Historic Preservation Act, which is classified generally to subchapter II (§470 et seq.) of chapter 1A of this title. For complete classification of this Act to the Code, see section 470(a) of this title and Tables.
 
 #### Amendments
 

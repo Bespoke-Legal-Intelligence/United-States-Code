@@ -4,7 +4,7 @@
 
 &emsp;(1) travel expenses of a new appointee and transportation expenses of his immediate family and his household goods and personal effects from the place of actual residence at the time of appointment to the place of employment outside the continental United States;
 
-&emsp;(2) these expenses on the return of an employee from his post of duty outside the continental United States to the place of his actual residence at the time of assignment to duty outside the continental United States; and
+&emsp;(2) these expenses on the return of an employee from his post of duty outside the continental United States to the place of his actual residence at the time of assignment toduty outside the continental United States; and
 
 &emsp;(3) the expenses of transporting a privately owned motor vehicle as authorized under section 5727(c) of this title.
 

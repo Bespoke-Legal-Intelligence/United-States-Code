@@ -30,13 +30,13 @@ All moneys collected and credited to the development fund pursuant to subsection
 
 #### (e) Appropriation by Congress required for construction of works
 
-Revenues credited to the development fund shall not be available for construction of theworks comprised within any unit of the project herein or hereafter authorized except upon appropriation by the Congress.
+Revenues credited to the development fund shall not be available for construction of the works comprised within any unit of the project herein or hereafter authorized except upon appropriation by the Congress.
 
 #### (f) Return of costs and interest
 
 Moneys credited to the development fund pursuant to subsection (b) and clauses (1) and (3) of subsection (c) of this section and the portion of revenues derived from the sale of power and energy for use in Arizona pursuant to clause (2) of subsection (c) of this section in excess of the amount necessary to meet the requirements of clauses (1) and (2) of subsection (d) of this section shall be paid annually to the general fund of the Treasury to return—
 
-&emsp;(1) the costs of each unit of the projects or separable feature thereof authorized pursuant to subchapter III of this chapter which are allocated to irrigation, commercial power, or municipal and industrial water supply, pursuant to this chapter within a period not exceeding fifty years from the date of completion of each such unit or separable feature, exclusive of any development period authorized by law: <i>Provided</i>, That return of the cost, if any, required by section 616aa–1 of this title shall not be made until after the payout period of the Central Arizona Project as authorized herein; and
+&emsp;(1) the costs of each unit of the projects or separable feature thereof authorized pursuant to subchapter III of this chapter which are allocated to irrigation, commercial power, or municipal and industrial water supply, pursuant to this chapter within a period not exceeding fifty years from the date of completion of each such unit or separable feature, exclusive of any development period authorized by law:<i>Provided</i>, That return of the cost, if any, required by section 616aa–1 of this title shall not be made until after the payout period of the Central Arizona Project as authorized herein; and
 
 &emsp;(2) interest (including interest during construction) on the unamortized balance of the investment in the commercial power and municipal and industrial water supply features of the project at a rate determined by the Secretary of the Treasury in accordance with the provisions of subsection (h) of this section, and interest due shall be a first charge.
 

@@ -4,7 +4,7 @@
 
 In carrying out his duties under this chapter the Secretary may conduct any investigation or other inquiry necessary and appropriate and may conduct, after notice, any hearing or audit, necessary and appropriate to carrying out his duties under this chapter. In connection with any such hearings, inquiry, investigation, or audit, the Secretary is also authorized where reasonably necessary—
 
-&emsp;(1) to require by special or general order, any person to submit in writing such affidavits and answers to questions as the Secretary may reasonably prescribe, which submission shall be made within such reasonable period and under oath or otherwise, as may be necessary;
+&emsp;(1) to require by special or general order, any person to submit in writing such affidavits and answers to questions as the Secretarymay reasonably prescribe, which submission shall be made within such reasonable period and under oath or otherwise, as may be necessary;
 
 &emsp;(2) to administer oaths;
 

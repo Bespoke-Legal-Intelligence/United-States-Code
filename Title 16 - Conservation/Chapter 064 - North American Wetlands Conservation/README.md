@@ -20,6 +20,7 @@
 | (c) | Council procedures. |
 | (d) | Council representation on Migratory Bird Conservation Commission. |
 | (e) | Approval of Council recommendations by Migratory Bird Conservation Commission. |
+| (f) | Notification of appropriate Committees. |
 | [4405\.](%C2%A7%2004405%20-%20Conditions%20relating%20to%20wetlands%20conservation%20projects.md) | Conditions relating to wetlands conservation projects. |
 | (a) | Projects in United States. |
 | (b) | Projects in Canada or Mexico. |
@@ -30,7 +31,7 @@
 | (d) | Availability of funds. |
 | [4407\.](%C2%A7%2004407%20-%20Allocation%20of%20amounts%20available%20to%20carry%20out%20this%20chapter.md) | Allocation of amounts available to carry out this chapter. |
 | (a) | Allocations. |
-| (b) | Federal contribution for projects; non-Federal share. |
+| (b) | Cost sharing. |
 | (c) | Partial payments. |
 | [4408\.](%C2%A7%2004408%20-%20Restoration%2C%20management%2C%20and%20protection%20of%20wetlands%20and%20habitat%20for%20migratory%20birds%20on%20Federal%20lands.md) | Restoration, management, and protection of wetlands and habitat for migratory birds on Federal lands. |
 | [4409\.](%C2%A7%2004409%20-%20Report%20to%20Congress.md) | Report to Congress. |

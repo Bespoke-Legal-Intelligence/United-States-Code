@@ -1,5 +1,5 @@
 
-44 U.S.C.<br>United States Code, 2001 Edition<br>Title 44 - PUBLIC PRINTING AND DOCUMENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+44 U.S.C.<br>United States Code, 2002 Edition<br>Title 44 - PUBLIC PRINTING AND DOCUMENTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 44—PUBLIC PRINTING AND DOCUMENTS
 
@@ -26,6 +26,7 @@
 | [<b>31.</b>](Chapter%20031%20-%20Records%20Management%20by%20Federal%20Agencies/README.md) | <b>Records Management by Federal Agencies</b> | <b>3101</b> |
 | [<b>33.</b>](Chapter%20033%20-%20Disposal%20of%20Records/README.md) | <b>Disposal of Records</b> | <b>3301</b> |
 | [<b>35.</b>](Chapter%20035%20-%20Coordination%20of%20Federal%20Information%20Policy/README.md) | <b>Coordination of Federal Information Policy</b> | <b>3501</b> |
+| [<b>36.</b>](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/README.md) | <b>Management and Promotion of Electronic Government Services</b> | <b>3601</b> |
 | [<b>37.</b>](Chapter%20037%20-%20Advertisements%20by%20Government%20Agencies/README.md) | <b>Advertisements by Government Agencies</b> | <b>3701</b> |
 | [<b>39.</b>](Chapter%20039%20-%20Government%20Printing%20Office%20Office%20of%20Inspector%20General/README.md) | <b>Government Printing Office: Office of Inspector General</b> | <b>3901</b> |
 | [<b>41.</b>](Chapter%20041%20-%20Access%20to%20Federal%20Electronic%20Information/README.md) | <b>Access to Federal Electronic Information</b> | <b>4101</b> |
@@ -33,6 +34,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–347, title I, §101(b), Dec. 17, 2002, 116 Stat. 2910, added item 36.
 
 1993—Pub. L. 103–40, §2(b), June 8, 1993, 107 Stat. 113, added item 41.
 
@@ -1442,11 +1445,13 @@ Section 2(f) of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1306, provided that: �
 
 #### Repeals
 
+Pub. L. 107–217, §4, Aug. 21, 2002, 116 Stat. 1303, repealed title V of the Federal Property and Administrative Services Act of 1949, act June 30, 1949, ch. 288, as added by act Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified to sections 392 to 401 of title 44 prior to the enactment into positive law of Title 44, Public Printing and Documents, by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238. Section 3 of Pub. L. 90–620 repealed various laws and parts of laws, including section 6(d), but not title V.
+
 Section 3 of Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1306, repealed the sections or parts thereof of the Revised Statutes or Statutes at Large codified in this title, except with respect to rights and duties that matured, penalties that were incurred, and proceedings that were begun, before October 22, 1968, and except as provided by section 2 of Pub. L. 90–620.
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 30 section 1809; title 40 section 474.
+This title is referred to in title 30 section 1809; title 40 section 113.
 
 
 ---
@@ -1472,6 +1477,7 @@ This title is referred to in title 30 section 1809; title 40 section 474.
 - [Chapter 031 - Records Management by Federal Agencies](Chapter%20031%20-%20Records%20Management%20by%20Federal%20Agencies/README.md)
 - [Chapter 033 - Disposal of Records](Chapter%20033%20-%20Disposal%20of%20Records/README.md)
 - [Chapter 035 - Coordination of Federal Information Policy](Chapter%20035%20-%20Coordination%20of%20Federal%20Information%20Policy/README.md)
+- [Chapter 036 - Management and Promotion of Electronic Government Services](Chapter%20036%20-%20Management%20and%20Promotion%20of%20Electronic%20Government%20Services/README.md)
 - [Chapter 037 - Advertisements by Government Agencies](Chapter%20037%20-%20Advertisements%20by%20Government%20Agencies/README.md)
 - [Chapter 039 - Government Printing Office Office of Inspector General](Chapter%20039%20-%20Government%20Printing%20Office%20Office%20of%20Inspector%20General/README.md)
 - [Chapter 041 - Access to Federal Electronic Information](Chapter%20041%20-%20Access%20to%20Federal%20Electronic%20Information/README.md)

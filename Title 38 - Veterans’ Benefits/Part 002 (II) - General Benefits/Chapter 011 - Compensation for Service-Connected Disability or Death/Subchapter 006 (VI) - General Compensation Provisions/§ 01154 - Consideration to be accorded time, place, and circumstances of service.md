@@ -92,7 +92,7 @@ Content of Registry.—Except as provided in subsection (c), the Registry shall 
 
 &emsp;“(3) Data on claims for the compensation referred to in paragraph (1), including decisions and determinations of the Department of Veterans Affairs relating to such claims.
 
-&emsp;“(4) An estimate of the dose of radiation to which each veteran listed in the Registry was exposed under the conditions described in section 1710(e)(1)(B) of such title.
+&emsp;“(4) An estimate of the dose of radiation to which each veteran listed in the Registry was exposed underthe conditions described in section 1710(e)(1)(B) of such title.
 
 “(c)
 
@@ -162,7 +162,7 @@ Sec. 2. The Congress makes the following findings:
 
 &emsp;“(12) Such claims (especially those involving health effects with long latency periods) present adjudicatory issues which are significantly different from issues generally presented in claims based upon the usual types of injuries incurred in military service.
 
-&emsp;“(13) It has always been the policy of the Veterans’ Administration \[now Department of Veterans Affairs\] and is the policy of the United States, with respect to individual claims for service connection of diseases and disabilities, that when, after consideration of all evidence and material of record, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of a claim, the benefit of the doubt in resolving each such issue shall be given to the claimant.
+&emsp;“(13) It has always been the policy of the Veterans’ Administration \[now Department of Veterans Affairs\]and is the policy of the United States, with respect to individual claims for service connection of diseases and disabilities, that when, after consideration of all evidence and material of record, there is an approximate balance of positive and negative evidence regarding the merits of an issue material to the determination of a claim, the benefit of the doubt in resolving each such issue shall be given to the claimant.
 
 #### “purpose
 
@@ -174,7 +174,7 @@ Sec. 3. The purpose of this Act is to ensure that Veterans’ Administration \[n
 
 #### Requirement for and Content of Regulations; Advisory Committee on Environmental Standards; Nuclear Radiation Matters Involving Other Agencies
 
-Sections 5–7 of Pub. L. 98–542, as amended by Pub. L. 100–321, §2(c), May 20, 1988, 102 Stat. 486; Pub. L. 102–4,§10(c), (d), Feb. 6, 1991, 105 Stat. 19, 20; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
+Sections 5–7 of Pub. L. 98–542, as amended by Pub. L. 100–321, §2(c), May 20, 1988, 102 Stat. 486; Pub. L. 102–4, §10(c), (d), Feb. 6, 1991, 105 Stat. 19, 20; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406, provided that:
 
 #### “requirement for and content of regulations
 
@@ -206,7 +206,7 @@ Sec. 5. (a) In carrying out the responsibilities of the Administrator of Veteran
 
 &emsp;“(B) a requirement that a claimant filing a claim based upon a veteran's exposure to ionizing radiation from the detonation of a nuclear device may not be required to produce evidence substantiating the veteran's exposure during active military, naval, or air service if the information in the veteran's service records and other records of the Department of Defense is not inconsistent with the claim that the veteran was present where and when the claimed exposure occurred.
 
-“(c)(1) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] shall develop the regulations required by this section (and any amendment to those regulations) through a public review and comment process in accordance with the provisions of section 553 of title 5, United States Code. That process may include consideration by the Administrator of the recommendations of the Veterans’ Advisory Committee on Environmental Hazards and the Scientific Council thereof (established under section 6) with respect to the proposed regulations, and that process shall include consideration by the Administrator of the recommendations of the Committee and the Council with respect to the final regulations and proposed and final amendments to such regulations. The period for public review and comment shall be completed not later than ninety days after the proposed regulations or proposed amendments are published in the Federal Register.
+“(c)(1) The Administrator of Veterans’ Affairs \[now Secretary of Veterans Affairs\] shall develop the regulations required by this section (and any amendment to those regulations) through a public review and comment process in accordance with the provisions of section 553 of title 5, United States Code. That processmay include consideration by the Administrator of the recommendations of the Veterans’ Advisory Committee on Environmental Hazards and the Scientific Council thereof (established under section 6) with respect to the proposed regulations, and that process shall include consideration by the Administrator of the recommendations of the Committee and the Council with respect to the final regulations and proposed and final amendments to such regulations. The period for public review and comment shall be completed not later than ninety days after the proposed regulations or proposed amendments are published in the Federal Register.
 
 “(2)(A) Not later than one hundred and eighty days after the date of the enactment of this Act \[Oct. 24, 1984\], the Administrator \[now Secretary\] shall develop and publish in the Federal Register a proposed version of the regulations required to be prescribed by this section.
 

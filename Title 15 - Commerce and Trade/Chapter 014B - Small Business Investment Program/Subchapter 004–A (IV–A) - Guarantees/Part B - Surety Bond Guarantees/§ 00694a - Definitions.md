@@ -16,7 +16,7 @@ As used in this part—
 
 (7) The term “prime contractor” means the person with whom the obligee has contracted to perform the contract.
 
-(8) The term “subcontractor” means a person who has contracted with a prime contractor or with another subcontractor to perform a contract.
+(8) The term “subcontractor” means a person who has contracted with a prime contractor orwith another subcontractor to perform a contract.
 
 (Pub. L. 85–699, title IV, §410, as added Pub. L. 91–609, title IX, §911(a)(4), Dec. 31, 1970, 84 Stat. 1812; amended Pub. L. 95–507, title I, §110, Oct. 24, 1978, 92 Stat. 1758.)
 

@@ -36,7 +36,7 @@
 
 (h) A nurse who is officially scheduled to be on call outside such nurse's regular hours or on a holiday designated by Federal statute or Executive order shall be paid for each hour of such on-call duty, except for such time as such nurse may be called back to work, at a rate equal to 10 percent of the hourly rate for excess service as provided in subsection (e).
 
-(i) Any additional pay paid pursuant to this section shall not be considered as basic pay for the purposes of the following provisions of title 5 (and any other provision of law relating to benefits based on basic pay):
+(i) Any additional pay paid pursuant to this section shall not be considered as basic pay forthe purposes of the following provisions of title 5 (and any other provision of law relating to benefits based on basic pay):
 
 &emsp;(1) Subchapter VI of chapter 55.
 

@@ -58,11 +58,17 @@ To the extent that funds appropriated to carry out this subpart for a fiscal yea
 
 Scientifically based research activities supported under this subpart—
 
-&emsp;(1) shall be carried out in consultation with the Office of Educational Research and Improvement to ensure that such activities are coordinated with and enhance the research and development activities supported by such Office; and
+&emsp;(1) shall be carried out in consultation with the Institute of Education Sciences to ensure that such activities are coordinated with and enhance the research and development activities supported by such Institute; and
 
-&emsp;(2) may include collaborative scientifically based research activities which are jointly funded and carried out with such Office.
+&emsp;(2) may include collaborative scientifically based research activities which are jointly funded and carried out with such Institute.
 
-(Pub. L. 89–10, title V, §5464, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1826.)
+(Pub. L. 89–10, title V, §5464, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1826; amended Pub. L. 107–279, title IV, §404(d)(5)(C), (6), Nov. 5, 2002, 116 Stat. 1986.)
+
+#### Amendments
+
+2002—Subsec. (e)(1). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement” and “such Institute” for “such Office”.
+
+Subsec. (e)(2). Pub. L. 107–279, §404(d)(6), substituted “such Institute” for “such Office”.
 
 #### Section Referred to in Other Sections
 

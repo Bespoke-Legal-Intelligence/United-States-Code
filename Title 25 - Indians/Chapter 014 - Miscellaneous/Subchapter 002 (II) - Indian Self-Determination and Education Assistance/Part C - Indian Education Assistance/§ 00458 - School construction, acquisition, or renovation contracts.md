@@ -22,13 +22,13 @@ Any contract entered into by the Secretary pursuant to this section shall contai
 
 #### (e) Advisory consultations by Secretary with affected entities and governing bodies prior to contracts; applicability
 
-The Secretary shall consult with the entity designated pursuant to section 456 of this title, and with the governing body of any Indian tribe or tribes the educational opportunity for the members of which will be significantly affected by any contract entered into pursuant to this section. Such consultation shall be advisory only, but shall occur prior to the entering into of any such contract. The foregoing provisions of this subsection shall not be applicable where the application for a contract pursuant to this section is submitted by an elected school board of which a majority of its members are Indians.
+The Secretary shall consult with the entity designated pursuant to section 456 of this title, and with the governing body of any Indian tribe or tribes the educational opportunity for the members of which will be significantly affected by any contract entered into pursuant to this section. Such consultation shall be advisory only, but shall occur prior to the entering into of any such contract. The foregoing provisions of this subsection shall not be applicable where the application for a contract pursuant to thissection is submitted by an elected school board of which a majority of its members are Indians.
 
 #### (f) Evaluation and report to Congress of effectiveness of construction, etc., programs; scope and content of report
 
 Within ninety days following the expiration of the three year period following January 4, 1975, the Secretary shall evaluate the effectiveness of the program pursuant to this section and transmit a report of such evaluation to the Congress. Such report shall include—
 
-&emsp;(1) an analysis of construction costs and the impact on such costs of the provisions of subsection (f) of this section and the Act of March 3, 1921 (46 Stat. 1491), as amended \[40 U.S.C. 276a et seq\];
+&emsp;(1) an analysis of construction costs and the impact on such costs of the provisions of subsection (f) of this section and the Act of March 3, 1921 (46 Stat. 1491), as amended; <sup>1</sup>
 
 &emsp;(2) a description of the working relationship between the Department of the Interior and the Department of Education including any memorandum of understanding in connection with the acquisition of data pursuant to subsection (b) of this section;
 
@@ -36,7 +36,7 @@ Within ninety days following the expiration of the three year period following J
 
 &emsp;(4) a description of the working relationship of the Department of the Interior with local or State educational agencies in connection with the contracting for construction, acquisition, or renovation of school facilities pursuant to this section; and
 
-&emsp;(5) the recommendations of the Secretary with respect to the transfer of the responsibility for administering subsections (a) and (b) of section 644 <sup>2</sup> of title 20 from the Department of Education to the Department of the Interior.
+&emsp;(5) the recommendations of the Secretary with respect to the transfer of the responsibility for administering subsections (a) and (b) of section 644 <sup>1</sup> of title 20 from the Department of Education to the Department of the Interior.
 
 #### (g) Authorization of appropriations
 
@@ -48,13 +48,11 @@ For the purpose of carrying out the provisions of this section, there is authori
 
 Section 644 of title 20, referred to in subsecs. (b) and (f)(5), was repealed by Pub. L. 103–382, title III, §331(a), Oct. 20, 1994, 108 Stat. 3965.
 
-Act of March 3, 1921, referred to in subsec. (f)(1), probably means the act of Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+Act of March 3, 1921, referred to in subsec. (f)(1), probably means the act of Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which was classified generally to sections 276a to 276a–5 of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 3141–3144, 3146, and 3147 of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
 
 #### Transfer of Functions
 
 “Secretary of Education” substituted for “United States Commissioner of Education” in subsec. (b), and “Department of Education” substituted for “Department of Health, Education, and Welfare” in subsec. (f)(2), (5), pursuant to sections 301 and 507 of Pub. L. 96–88, which is classified to sections 3441 and 3507 of Title 20, Education, and which transferred functions and offices (relating to education) of Commissioner of Education and Department of Health, Education, and Welfare to Secretary and Department of Education.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -42,7 +42,7 @@ In General.—Not later than 1 year after the date of enactment of this Act \[No
 
 “(b)
 
-Participants.—The Secretary shall include in the national conference convened under subsection (a) advocacy groups and educational entities as described in section 741 of the Public Health Service Act \[this section\] (as added by section 401), tribal health programs, health centers under section 330 of such Act \[section 254c of this title\], and other interested parties.
+Participants.—The Secretary shall include in the national conference convened under subsection (a) advocacy groups and educational entities as described in section 741 of the Public Health Service Act \[this section\] (as added by section 401), tribal health programs, health centers under section 330 of such Act \[section 254b of this title\], and other interested parties.
 
 “(c)
 

@@ -186,7 +186,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1436a, 1472, 1479, 1480, 1483, 1485, 1487, 1490c, 1490j, 1490<i>l</i>, 1490p–2 of this title; title 7 section 2204f.
+This section is referred to in sections 1436a, 1472, 1479, 1480, 1483, 1485, 1487, 1490c, 1490j, 1490<i>l</i>, 1490p–2 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

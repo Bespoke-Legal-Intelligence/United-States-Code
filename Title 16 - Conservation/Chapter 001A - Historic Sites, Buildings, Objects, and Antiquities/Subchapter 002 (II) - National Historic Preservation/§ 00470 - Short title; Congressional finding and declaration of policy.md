@@ -36,7 +36,7 @@ Pub. L. 102–575, title XL, §4001, Oct. 30, 1992, 106 Stat. 4753, provided tha
 
 #### Short Title of 1980 Amendment
 
-Section 1 of Pub. L. 96–515 provided: “That this Act \[enacting sections 469c–2, 470–1 470a–1, 470a–2, 470h–2, 470h–3, 470u, 470v and 470w to 470w–6 of this title, amending this section and sections 470a, 470b, 470c, 470d, 470h to 470j, 470<i>l</i>, 470m, and 470r to 470t of this title, and enacting provisions set out as notes under sections 470a, 470j and 470h of this title and section 874 of Title 40, Public Buildings, Property, and Works\] may be cited as the ‘National Historic Preservation Act Amendments of 1980’.”
+Section 1 of Pub. L. 96–515 provided: “That this Act \[enacting sections 469c–2, 470–1 470a–1, 470a–2, 470h–2, 470h–3, 470u, 470v and 470w to 470w–6 of this title, amending this section and sections 470a, 470b, 470c, 470d, 470h to 470j, 470<i>l</i>, 470m, and 470r to 470t of this title, and enacting provisions set out as notes under sections 470a, 470j and 470h of this title and section 874 of former Title 40, Public Buildings, Property, and Works\] may be cited as the ‘National Historic Preservation Act Amendments of 1980’.”
 
 #### Ex. Ord. No. 11593. Protection and Enhancement of the Cultural Environment
 

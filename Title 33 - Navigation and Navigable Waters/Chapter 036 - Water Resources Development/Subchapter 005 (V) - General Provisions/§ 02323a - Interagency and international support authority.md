@@ -14,7 +14,7 @@ The Secretary may use the technical and managerial expertise of the Corps of Eng
 
 #### (d) Funding
 
-There is authorized to be appropriated to carry out this section $250,000 for fiscal year 2001 and each fiscal year thereafter. The Secretary may accept and expend additional funds from other Federal agencies or international organizations to carry out this section.
+There is authorized to be appropriated to carry out this section $250,000 for fiscal year 2001 and each fiscal year thereafter. The Secretarymay accept and expend additional funds from other Federal agencies or international organizations to carry out this section.
 
 (Pub. L. 104–303, title II, §234, Oct. 12, 1996, 110 Stat. 3704; Pub. L. 106–541, title II, §207, Dec. 11, 2000, 114 Stat. 2590.)
 

@@ -4,7 +4,7 @@
 
 Definitions.—In this section—
 
-&emsp;(1) “automobile” includes an automobile rated at not more than 8,500 pounds gross vehicle weight regardless of whether the Secretary of Transportation has applied this chapter to the automobile under section 32901(a)(3)(B) of this title.
+&emsp;(1) “automobile” includes an automobile rated at not more than 8,500 pounds gross vehicle weight regardless of whether the Secretaryof Transportation has applied this chapter to the automobile under section 32901(a)(3)(B) of this title.
 
 &emsp;(2) “dealer” means a person residing or located in a State, the District of Columbia, or a territory or possession of the United States, and engaged in the sale or distribution of new automobiles to the first person (except a dealer buying as a dealer) that buys the automobile in good faith other than for resale.
 

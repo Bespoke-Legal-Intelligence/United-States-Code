@@ -22,7 +22,7 @@ When used in this section:
 
 &emsp;(7) The term “Producing Coastal State” means a Coastal State with a coastal seaward boundary within 200 miles from the geographic center of a leased tract other than a leased tract within any area of the Outer Continental Shelf where a moratorium on new leasing was in effect as of January 1, 2000, unless the lease was issued prior to the establishment of the moratorium and was in production on January 1, 2000.
 
-&emsp;(8) The term “qualified Outer Continental Shelf revenues” means all amounts received by the United States from each leased tract or portion of a leased tract lying seaward of the zone defined and governed by section 1337(g) of this title, or lying within such zone but to which section 1337(g) of this title does not apply, the geographic center of which lies within a distance of 200 miles from any part of the coastline of any Coastal State, including bonus bids, rents, royalties (including payments for royalties taken in kind and sold), net profit share payments, and related late payment interest. Such term does not include any revenues from a leased tract or portion of a leased tract that is included within any area of the Outer Continental Shelf where a moratorium on new leasing was in effect as of January 1, 2000, unless the lease was issued prior to the establishment of the moratorium and was in production on January 1, 2000.
+&emsp;(8) The term “qualified Outer Continental Shelf revenues” means all amounts received by the United States from each leased tract or portion of a leased tract lying seaward of the zone defined and governed by section 1337(g) of this title, or lying within such zone but to which section 1337(g) of this title does not apply, the geographic center of which lies within a distance of 200 miles from any part of the coastline of any Coastal State, including bonus bids, rents, royalties (including payments for royalties taken in kind and sold), net profit share payments, and related latepayment interest. Such term does not include any revenues from a leased tract or portion of a leased tract that is included within any area of the Outer Continental Shelf where a moratorium on new leasing was in effect as of January 1, 2000, unless the lease was issued prior to the establishment of the moratorium and was in production on January 1, 2000.
 
 &emsp;(9) The term “Secretary” means the Secretary of Commerce.
 
@@ -64,7 +64,7 @@ The Secretary shall make payments from the amounts available under this section 
 
 #### (1) Development and submission of State plans
 
-&emsp;The Governor of each Producing Coastal State shall prepare, and submit to the Secretary, a Coastal Impact Assistance Plan. The Governor shall solicit local input and shall provide for public participation in the development of the plan. The plan shall be submitted to the Secretary by July 1, 2001. Amounts received by Producing Coastal States and coastal political subdivisions may be used only for the purposes specified in the Producing Coastal State's Coastal Impact Assistance Plan.
+&emsp;The Governor of each Producing Coastal State shall prepare, and submit to the Secretary, a Coastal Impact Assistance Plan. The Governor shall solicit local input and shall provide for public participation in the development of the plan. The plan shall be submitted to the Secretary by July 1, 2001. Amounts received by Producing Coastal States and coastal political subdivisions may be used only forthe purposes specified in the Producing Coastal State's Coastal Impact Assistance Plan.
 
 #### (2) Approval
 
@@ -106,7 +106,7 @@ Producing Coastal States and coastal political subdivisions shall use amounts pr
 
 #### (g) Compliance with authorized uses
 
-If the Secretary determines that any expenditure made by a Producing Coastal State orcoastal political subdivision is not consistent with the uses authorized in subsection (f) of this section, the Secretary shall not disburse any further amounts under this section to that Producing Coastal State or coastal political subdivision until the amounts used for the inconsistent expenditure have been repaid or obligated for authorized uses.
+If the Secretary determines that any expenditure made by a Producing Coastal State or coastal political subdivision is not consistent with the uses authorized in subsection (f) of this section, the Secretary shall not disburse any further amounts under this section to that Producing Coastal State or coastal political subdivision until the amounts used for the inconsistent expenditure have been repaid or obligated for authorized uses.
 
 (Aug. 7, 1953, ch. 345, §31, as added Pub. L. 106–553, §1(a)(2) \[title IX, §903\], Dec. 21, 2000, 114 Stat. 2762, 2762A–124.)
 

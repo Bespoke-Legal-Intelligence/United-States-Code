@@ -58,7 +58,7 @@ The Congress finds that—
 
 &emsp;&emsp;&emsp;(ii) to the extent technically and economically feasible, to offer subscribers the option of having all other channels delivered directly to the subscribers’ television receivers or video cassette recorders without passing through the converter box;
 
-&emsp;&emsp;(C) to promote the commercial availability, from cable operators and retail vendors that are not affiliated with cable systems, of converter boxes and of remote control devices compatible with converter boxes;
+&emsp;&emsp;(C) to promote the commercial availability, from cable operators and retail vendors that are not affiliated with cable systems, ofconverter boxes and of remote control devices compatible with converter boxes;
 
 &emsp;&emsp;(D) to ensure that any standards or regulations developed under the authority of this section to ensure compatibility between televisions, video cassette recorders, and cable systems do not affect features, functions, protocols, and other product and service options other than those specified in paragraph (1)(B), including telecommunications interface equipment, home automation communications, and computer network services;
 

@@ -2,7 +2,7 @@
 
 #### (a) Rules and regulations governing examination of applicants
 
-The Attorney General shall make such rules and regulations as may be necessary to carry into effect the provisions of this part and is authorized to prescribe the scope and nature of the examination of applicants for naturalization as to their admissibility to citizenship. Such examination shall be limited to inquiry concerning the applicant's residence, physical presence in the United States, good moral character, understanding of and attachment to the fundamental principles of the Constitution of the United States, ability to read, write, and speak English, and other qualifications to become a naturalized citizen as required by law, and shall be uniform throughout the United States.
+The Attorney General shall make such rules and regulations as may be necessary to carryinto effect the provisions of this part and is authorized to prescribe the scope and nature of the examination of applicants for naturalization as to their admissibility to citizenship. Such examination shall be limited to inquiry concerning the applicant's residence, physical presence in the United States, good moral character, understanding of and attachment to the fundamental principles of the Constitution of the United States, ability to read, write, and speak English, and other qualifications to become a naturalized citizen as required by law, and shall be uniform throughout the United States.
 
 #### (b) Instruction in citizenship
 
@@ -45,6 +45,10 @@ Subsec. (h). Pub. L. 101–649, §406, added subsec. (h).
 #### Effective Date of 1991 Amendment
 
 Section 305(m) of Pub. L. 102–232 provided that the amendment made by that section is effective as if included in section 407(d) of the Immigration Act of 1990, Pub. L. 101–649.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

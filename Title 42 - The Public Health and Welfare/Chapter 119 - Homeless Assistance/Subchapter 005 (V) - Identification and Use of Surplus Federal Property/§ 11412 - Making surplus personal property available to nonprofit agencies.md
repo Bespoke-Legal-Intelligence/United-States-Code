@@ -4,7 +4,7 @@
 
 #### (b) Requirement for notification
 
-Within 90 days after July 22, 1987, the Administrator of General Services shall require each State agency administering a State plan under section 484(j) of title 40 to make generally available information about surplus personal property which may be used in the provision of food, shelter, or other services to homeless individuals.
+Within 90 days after July 22, 1987, the Administrator of General Services shall require each State agency administering a State plan under section 549(a)–(e) of title 40 to make generally available information about surplus personal property which may be used in the provision of food, shelter, or other services to homeless individuals.
 
 #### (c) Costs
 
@@ -14,5 +14,7 @@ Surplus personal property identified pursuant to this section shall be made avai
 
 #### Codification
 
-Section is comprised of section 502 of Pub. L. 100–77. Subsec. (a) of section 502 amended section 484(j)(3)(B) of Title 40, Public Buildings, Property, and Works.
+Section is comprised of section 502 of Pub. L. 100–77. Subsec. (a) of section 502 amended section 203(j)(3)(B) of the Federal Property and Administrative Services Act of 1949, which was classified to section 484(j)(3)(B) of former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as section 549(c)(3)(B) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+
+In subsec (b), “section 549(a)–(e) of title 40” substituted for “203(j) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 

@@ -30,7 +30,7 @@ Under this section, the total acreage allotted to any farm after any transfer sh
 
 #### (h) Future allotments; referendum voting eligibility
 
-The lease of any part of a tobacco acreage allotment or acreage-poundage quota under this section determined for a farm shall not affect the allotment or quota for the farm from which such allotment or quota is transferred or the farm to which it is transferred, except with respect to the crop year or years specified in the lease. The amount of the acreage allotment and acreage-poundage quota which is leased from a farm shall be considered for purposes of determining future allotments and quotas to havebeen planted to tobacco on the farm from which such allotment or quota is leased and the production pursuant to the lease shall not be taken into account in establishing allotments or quotas for subsequent years for the farm to which such allotment is leased. The lessor shall be considered to have been engaged in the production of tobacco for purposes of eligibility to vote in the referendum.
+The lease of any part of a tobacco acreage allotment or acreage-poundage quota under this section determined for a farm shall not affect the allotment or quota for the farm from which such allotment or quota is transferred or the farm to which it is transferred, except with respect to the crop year or years specified in the lease. The amount of the acreage allotment and acreage-poundage quota which is leased from a farm shall be considered for purposes of determining future allotments and quotas to have been planted to tobacco on the farm from which such allotment or quota is leased and the production pursuant to the lease shall not be taken into account in establishing allotments or quotas for subsequent years for the farm to which such allotment is leased. The lessor shall be considered to have been engaged in the production of tobacco for purposes of eligibility to vote in the referendum.
 
 #### (i) Land utilization agreements; payment adjustments
 
@@ -40,7 +40,7 @@ If the sale or transfer under this section occurs during a period in which the f
 
 The Secretary shall prescribed such regulations and other terms and conditions as he deems necessary for the administration of this section.
 
-(Feb. 16, 1938, ch. 30, title III, §318, as added Pub. L. 90–51, §1, July 7, 1967, 81 Stat. 120; amended Pub. L. 90–387, July 5, 1968, 82 Stat. 293; Pub. L. 92–144, Oct. 23, 1971, 85 Stat. 393; Pub. L. 98–180, title II, §212(a), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 102–566, §1, Oct. 28, 1992, 106 Stat. 4269; Pub. L. 106–224, title II, §204(b)(8), June 20, 2000, 114 Stat. 402.)
+(Feb. 16, 1938, ch. 30, title III, §318, as added Pub. L. 90–51, §1, July 7, 1967, 81 Stat. 120; amended Pub. L. 90–387, July 5, 1968, 82 Stat. 293; Pub. L.92–144, Oct. 23, 1971, 85 Stat. 393; Pub. L. 98–180, title II, §212(a), Nov. 29, 1983, 97 Stat. 1149; Pub. L. 102–566, §1, Oct. 28, 1992, 106 Stat. 4269; Pub. L. 106–224, title II, §204(b)(8), June 20, 2000, 114 Stat. 402.)
 
 #### Amendments
 

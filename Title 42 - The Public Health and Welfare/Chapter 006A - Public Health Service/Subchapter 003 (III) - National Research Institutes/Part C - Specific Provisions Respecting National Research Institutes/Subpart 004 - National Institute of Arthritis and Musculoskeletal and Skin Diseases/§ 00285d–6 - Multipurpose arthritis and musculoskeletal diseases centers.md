@@ -20,7 +20,7 @@ Each center assisted under this section shall—
 
 &emsp;&emsp;(D) programs for the dissemination to the general public of information—
 
-&emsp;&emsp;&emsp;(i) on the importance of early detection of arthritis and musculoskeletal diseases, of seeking prompt treatment, and of following an appropriate regimen; and
+&emsp;&emsp;&emsp;(i) on the importance of early detection of arthritis and musculoskeletal diseases,of seeking prompt treatment, and of following an appropriate regimen; and
 
 &emsp;&emsp;&emsp;(ii) to discourage the promotion and use of unapproved and ineffective diagnostic, preventive, treatment, and control methods and unapproved and ineffective drugs and devices.
 
@@ -42,7 +42,7 @@ The Director of the Institute shall, insofar as practicable, provide for an equi
 
 #### (e) Period of support; additional periods
 
-Support of a center under this section may be for a period of not to exceed five years. Such period may be extended by the Director of the Institute for one or more additional periods of notmore than five years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+Support of a center under this section may be for a period of not to exceed five years. Such period may be extended by the Director of the Institute for one or more additional periods of not more than five years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
 #### (f) Treatment and rehabilitation of children
 

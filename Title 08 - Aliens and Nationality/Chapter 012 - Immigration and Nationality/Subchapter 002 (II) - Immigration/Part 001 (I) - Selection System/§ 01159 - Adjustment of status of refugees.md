@@ -34,7 +34,7 @@ Not more than 10,000 of the refugee admissions authorized under section 1157(a) 
 
 The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not be applicable to any alien seeking adjustment of status under this section, and the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §209, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title I, §104(a)(1), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III,§307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title III, §§308(g)(3)(A), (4)(A), 371(b)(2), Sept. 30, 1996, 110 Stat. 3009–622, 3009–645.)
+(June 27, 1952, ch. 477, title II, ch. 1, §209, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 105; amended Pub. L. 101–649, title I, §104(a)(1), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title III, §§308(g)(3)(A), (4)(A), 371(b)(2), Sept. 30, 1996, 110 Stat. 3009–622, 3009–645.)
 
 #### Amendments
 
@@ -67,6 +67,10 @@ Amendment by section 603(a)(4) of Pub. L. 101–649 applicable to individuals en
 #### Effective Date
 
 Section effective, except as otherwise provided, Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as an Effective Date of 1980 Amendment note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Waiver of Numerical Limitation for Certain Current Asylees; Adjustment of Certain Former Asylees
 

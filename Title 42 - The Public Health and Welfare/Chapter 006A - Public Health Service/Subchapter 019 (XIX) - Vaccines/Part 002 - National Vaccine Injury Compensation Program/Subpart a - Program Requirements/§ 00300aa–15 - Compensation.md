@@ -2,7 +2,7 @@
 
 #### (a) General rule
 
-Compensation awarded under the Program to a petitioner under section 300aa–11 of this title for a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, shall include the following:
+Compensation awarded under the Program to a petitioner under section 300aa–11 of this titlefor a vaccine-related injury or death associated with the administration of a vaccine after October 1, 1988, shall include the following:
 
 &emsp;(1)(A) Actual unreimbursable expenses incurred from the date of the judgment awarding such expenses and reasonable projected unreimbursable expenses which—
 
@@ -50,7 +50,7 @@ Compensation awarded under the Program may not include the following:
 
 &emsp;(1) Punitive or exemplary damages.
 
-&emsp;(2) Except with respect to compensation payments under paragraphs (2) and (3) of subsection (a) of this section, compensation forother than the health, education, or welfare of the person who suffered the vaccine-related injury with respect to which the compensation is paid.
+&emsp;(2) Except with respect to compensation payments under paragraphs (2) and (3) of subsection (a) of this section, compensation for other than the health, education, or welfare of the person who suffered the vaccine-related injury with respect to which the compensation is paid.
 
 #### (e) Attorneys’ fees
 
@@ -92,7 +92,7 @@ No policy of health insurance may make payment of benefits under the policy seco
 
 &emsp;(2) no entity which provides health services on a prepaid basis or provides health benefits,
 
-> may make the provision of health services or health benefits secondary to the payment of compensation under the Program, except that this subsection shall not apply to the provisionof services or benefits under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
+> may make the provision of health services or health benefits secondary to the payment of compensation under the Program, except that this subsection shall not apply to the provision of services or benefits under title XIX of the Social Security Act \[42 U.S.C. 1396 et seq.\].
 
 #### (i) Source of compensation
 
@@ -104,7 +104,7 @@ No policy of health insurance may make payment of benefits under the policy seco
 
 For the payment of compensation under the Program to a petitioner for a vaccine-related injury or death associated with the administration of a vaccine before October 1, 1988, there are authorized to be appropriated to the Department of Health and Human Services $80,000,000 for fiscal year 1989, $80,000,000 for fiscal year 1990, $80,000,000 for fiscal year 1991, $80,000,000 for fiscal year 1992, $110,000,000 for fiscal year 1993, and $110,000,000 for each succeeding fiscal year in which a payment of compensation is required under subsection (f)(4)(B) of this section. Amounts appropriated under this subsection shall remain available until expended.
 
-(July 1, 1944, ch. 373, title XXI, §2115, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3767; amended Pub. L. 100–203, title IV, §§4302(b), 4303(a)–(d)(1), (e), (g), 4307(5), (6), Dec. 22, 1987, 101 Stat. 1330–221 to 1330–223, 1330–225; Pub. L. 100–360, title IV, §411(<i>o</i>)(1), July 1, 1988, 102 Stat. 808; Pub. L. 101–239, title VI, §6601(c)(8), (<i>l</i>), Dec. 19, 1989, 103 Stat. 2286, 2290; Pub. L. 101–502, §5(d), Nov. 3, 1990, 104 Stat. 1287; Pub. L. 102–168, title II, §201(e), (f), Nov. 26, 1991, 105 Stat. 1103; Pub. L. 102–531, title III, §314, Oct. 27, 1992, 106 Stat. 3508; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XIII, §13632(b), Aug. 10, 1993, 107 Stat. 646.)
+(July 1, 1944, ch. 373, title XXI, §2115, as added Pub. L. 99–660, title III, §311(a), Nov. 14, 1986, 100 Stat. 3767; amended Pub. L. 100–203, title IV, §§4302(b), 4303(a)–(d)(1), (e), (g), 4307(5), (6), Dec. 22, 1987, 101 Stat. 1330–221 to 1330–223, 1330–225;Pub. L. 100–360, title IV, §411(<i>o</i>)(1), July 1, 1988, 102 Stat. 808; Pub. L. 101–239, title VI, §6601(c)(8), (<i>l</i>), Dec. 19, 1989, 103 Stat. 2286, 2290; Pub. L. 101–502, §5(d), Nov. 3, 1990, 104 Stat. 1287; Pub. L. 102–168, title II, §201(e), (f), Nov. 26, 1991, 105 Stat. 1103; Pub. L. 102–531, title III, §314, Oct. 27, 1992, 106 Stat. 3508; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 103–66, title XIII, §13632(b), Aug. 10, 1993, 107 Stat. 646.)
 
 #### References in Text
 
@@ -150,7 +150,7 @@ Subsec. (e)(1). Pub. L. 101–239, §6601(<i>l</i>)(2)(A), substituted “In awa
 
 Pub. L. 101–239, §6601(<i>l</i>)(2)(B), (C), substituted “the special master or court may award an amount of compensation to cover” for “the court may include in the judgment an amount to cover” and “the special master or court determines that the petition was brought in good faith and there was a reasonable basis for the claim for which the petition” for “the court determines that the civil action was brought in good faith and there was a reasonable basis for the claim for which the civil action”.
 
-Subsec. (e)(2). Pub. L. 101–239, §6601(<i>l</i>)(2)(D), which directed amendment of par. (2) by substituting “the special master or court may also award an amount of compensation” for “the judgment of the court on such petition may include an amount”, could not be executedbecause of the prior amendment by Pub. L. 101–239, §6601(c)(8)(B), see Amendment note below.
+Subsec. (e)(2). Pub. L. 101–239, §6601(<i>l</i>)(2)(D), which directed amendment of par. (2) by substituting “the special master or court may also award an amount of compensation” for “the judgment of the court on such petition may include an amount”, could not be executed because of the prior amendment by Pub. L. 101–239, §6601(c)(8)(B), see Amendment note below.
 
 Pub. L. 101–239, §6601(c)(8), substituted “and petitioned under section 300aa–11(a)(5) of this title to have such action dismissed” for “and elected under section 300aa–11(a)(4) of this title to withdraw such action” and “in awarding compensation on such petition the special master or court may include” for “the judgment of the court on such petition may include”.
 
@@ -164,7 +164,7 @@ Subsec. (f)(4)(B). Pub. L. 101–239, §6601(<i>l</i>)(3)(C), substituted “det
 
 Subsec. (g). Pub. L. 101–239, §6601(<i>l</i>)(4)(A), inserted “(other than under title XIX of the Social Security Act)” after “State health benefits program”.
 
-Subsec. (h). Pub. L. 101–239, §6601(<i>l</i>)(4)(B), inserted before period at end “, except that this subsection shall not apply to the provision of services or benefits under title XIX of the Social Security Act”.
+Subsec. (h). Pub. L. 101–239, §6601(<i>l</i>)(4)(B), inserted before period at end “, except that this subsection shallnot apply to the provision of services or benefits under title XIX of the Social Security Act”.
 
 Subsec. (i)(1). Pub. L. 101–239, §6601(<i>l</i>)(5), which directed amendment of par. (1) by substituting “(j)” for “(i)”, could not be executed because “(i)” did not appear.
 

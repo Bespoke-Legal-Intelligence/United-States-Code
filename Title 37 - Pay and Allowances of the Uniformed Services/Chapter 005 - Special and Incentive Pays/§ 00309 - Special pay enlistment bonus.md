@@ -18,13 +18,13 @@ Relation to Prohibition on Bounties.—The enlistment bonus authorized by this s
 
 (d)
 
-Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary of Defense and by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary of Defense and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
 (e)
 
-Duration of Authority.—No bonus shall be paid under this section with respect to any enlistment in the armed forces made after December 31, 2002.
+Duration of Authority.—No bonus shall be paid under this section with respect to any enlistment in the armed forces made after December 31, 2003.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §624(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; amended Pub. L. 107–107, div. A, title VI, §614(c), Dec. 28, 2001, 115 Stat. 1136.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §624(a)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–152; amended Pub. L. 107–107, div. A, title VI, §614(c), Dec. 28, 2001, 115 Stat. 1136; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §614(c), Dec. 2, 2002, 116 Stat. 2568.)
 
 #### Prior Provisions
 
@@ -32,13 +32,17 @@ A prior section 309, Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 468, related to a
 
 #### Amendments
 
+2002—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+Subsec. (e). Pub. L. 107–314 substituted “December 31, 2003” for “December 31, 2002”.
+
 2001—Subsec. (e). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date
 
 Pub. L. 106–398, §1 \[\[div. A\], title VI, §624(c)(1)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–153, provided that: “The amendments made by subsection (a) \[enacting this section\] shall take effect on October 1, 2000, and apply with respect to enlistments in the Armed Forces made on or after that date.”
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 10 section 3264.
 

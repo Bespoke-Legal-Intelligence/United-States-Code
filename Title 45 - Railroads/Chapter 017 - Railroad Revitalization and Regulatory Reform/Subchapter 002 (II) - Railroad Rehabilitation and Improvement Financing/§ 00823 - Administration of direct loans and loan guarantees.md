@@ -30,7 +30,7 @@ For purposes of claims by any party other than the Secretary, a loan guarantee o
 
 #### (f) Default
 
-The Secretary shall prescribe regulations setting forth procedures in the event of default on a loan made or guaranteed under section 822 of this title. The Secretary shall ensure that each loan guarantee made under that section contains terms and conditions that provide that—
+The Secretary shall prescribe regulations setting forth procedures in the event of default on a loan made or guaranteed under section 822 of this title. The Secretary shall ensure that eachloan guarantee made under that section contains terms and conditions that provide that—
 
 &emsp;(1) if a payment of principal or interest under the loan is in default for more than 30 days, the Secretary shall pay to the holder of the obligation, or the holder's agent, the amount of unpaid guaranteed interest;
 
@@ -78,7 +78,7 @@ The Secretary may charge and collect from each applicant a reasonable charge for
 
 #### Codification
 
-The text of section 831(c) of this title, which was transferred to subsec. (b) of this section, relating to full faith and credit backing of guarantees entered into bySecretary, by Pub. L. 105–178, title VII, §7203(a)(4), June 9, 1998, 112 Stat. 477, was based on Pub. L. 94–210, title V, §511, Feb. 5, 1976, 90 Stat. 76; Pub. L. 94–555, title II, §215(a), Oct. 19, 1976, 90 Stat. 2625; Pub. L. 105–178, title VII, §7203(a)(2), (3), June 9, 1998, 112 Stat. 477.
+The text of section 831(c) of this title, which was transferred to subsec. (b) of this section, relating to full faith and credit backing of guarantees entered into by Secretary, by Pub. L. 105–178, title VII, §7203(a)(4), June 9, 1998, 112 Stat. 477, was based on Pub. L. 94–210, title V, §511, Feb. 5, 1976, 90 Stat. 76; Pub. L. 94–555, title II, §215(a), Oct. 19, 1976, 90 Stat. 2625; Pub. L. 105–178, title VII, §7203(a)(2), (3), June 9, 1998, 112 Stat. 477.
 
 #### Prior Provisions
 

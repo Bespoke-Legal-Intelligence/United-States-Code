@@ -2,11 +2,11 @@
 
 For purposes of this chapter—
 
-&emsp;(1) the term “community based” facility, program, or service means a small, open group home or other suitable place located near the juvenile's home or family and programs of community supervision and service which maintain community and consumer participation in the planning operation, and evaluation of their programs which may include, but arenot limited to, medical, educational, vocational, social, and psychological guidance, training, special education, counseling, alcoholism treatment, drug treatment, and other rehabilitative services;
+&emsp;(1) the term “community based” facility, program, or service means a small, open group home or other suitable place located near the juvenile's home or family and programs of community supervision and service which maintain community and consumer participation in the planning operation, and evaluation of their programs which may include, but are not limited to, medical, educational, vocational, social, and psychological guidance, training, special education, counseling, alcoholism treatment, drug treatment, and other rehabilitative services;
 
 &emsp;(2) the term “Federal juvenile delinquency program” means any juvenile delinquency program which is conducted, directly, or indirectly, or is assisted by any Federal department or agency, including any program funded under this chapter;
 
-&emsp;(3) the term “juvenile delinquency program” means any program or activity related to juvenile delinquency prevention, control, diversion, treatment, rehabilitation, planning, education, training, and research, including drug and alcohol abuse programs; the improvement of the juvenile justice system; and any program or activity to help prevent juvenile delinquency;
+&emsp;(3) the term “juvenile delinquency program” means any program or activity related to juvenile delinquency prevention, control, diversion, treatment, rehabilitation, planning, education, training, and research, including drug and alcohol abuse programs; the improvement of the juvenile justice system; and any program or activity designed to reduce known risk factors for juvenile delinquent behavior, provides <sup>1</sup> activities that build on protective factors for, and develop competencies in, juveniles to prevent, and reduce the rate of, delinquent juvenile behavior;
 
 &emsp;(4)(A) the term “Bureau of Justice Assistance” means the bureau established by section 3741 of this title;
 
@@ -20,7 +20,7 @@ For purposes of this chapter—
 
 &emsp;(6) the term “law enforcement and criminal justice” means any activity pertaining to crime prevention, control, or reduction or the enforcement of the criminal law, including, but not limited to police efforts to prevent, control, or reduce crime or to apprehend criminals, activities of courts having criminal jurisdiction and related agencies (including prosecutorial and defender services), activities of corrections, probation, or parole authorities, and programs relating to the prevention, control, or reduction of juvenile delinquency or narcotic addiction;
 
-&emsp;(7) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Trust Territory of the Pacific Islands, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands;
+&emsp;(7) the term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands;
 
 &emsp;(8) the term “unit of local government” means—
 
@@ -50,33 +50,23 @@ For purposes of this chapter—
 
 &emsp;&emsp;(A) includes construction fixtures designed to physically restrict the movements and activities of juveniles or other individuals held in lawful custody in such facility; and
 
-&emsp;&emsp;(B) is used for the temporary placement of any juvenile who is accused of having committed an offense, of any nonoffender, or of any other individual accused of having committed a criminal offense;
+&emsp;&emsp;(B) is used for the temporary placement of any juvenile who is accused of having committed an offense or of any other individual accused of having committed a criminal offense;
 
 &emsp;(13) the term “secure correctional facility” means any public or private residential facility which—
 
 &emsp;&emsp;(A) includes construction fixtures designed to physically restrict the movements and activities of juveniles or other individuals held in lawful custody in such facility; and
 
-&emsp;&emsp;(B) is used for the placement, after adjudication and disposition, of any juvenile who has been adjudicated as having committed an offense, any nonoffender, or any other individual convicted of a criminal offense;
+&emsp;&emsp;(B) is used for the placement, after adjudication and disposition, of any juvenile who has been adjudicated as having committed an offense or any other individual convicted of a criminal offense;
 
-&emsp;(14) the term “serious crime” means criminal homicide, forcible rape or other sex offenses punishable as a felony, mayhem, kidnapping, aggravated assault, robbery, larceny or theft punishable as a felony, motor vehicle theft, burglary or breaking and entering, extortion accompanied by threats of violence, and arson punishable as a felony;
+&emsp;(14) the term “serious crime” means criminal homicide, forcible rape or other sex offenses punishable as a felony, mayhem, kidnapping, aggravated assault, drug trafficking, robbery, larceny or theft punishable as a felony, motor vehicle theft, burglary or breaking and entering, extortion accompanied by threats of violence, and arson punishable as a felony;
 
 &emsp;(15) the term “treatment” includes but is not limited to medical, educational, special education, social, psychological, and vocational services, corrective and preventive guidance and training, and other rehabilitative services designed to protect the public, including services designed to benefit addicts and other users by eliminating their dependence on alcohol or other addictive or nonaddictive drugs or by controlling their dependence and susceptibility to addiction or use;
 
 &emsp;(16) the term “valid court order” means a court order given by a juvenile court judge to a juvenile—
 
-&emsp;&emsp;(A) who was brought before the court and made subject to such order;
+&emsp;&emsp;(A) who was brought before the court and made subject to such order; and
 
 &emsp;&emsp;(B) who received, before the issuance of such order, the full due process rights guaranteed to such juvenile by the Constitution of the United States;
-
-&emsp;&emsp;(C) with respect to whom an appropriate public agency (other than a court or law enforcement agency), before the issuance of such order—
-
-&emsp;&emsp;&emsp;(i) reviewed the behavior of such juvenile and the circumstances under which such juvenile was brought before the court and made subject to such order;
-
-&emsp;&emsp;&emsp;(ii) determined the reasons for the behavior that caused such juvenile to be brought before the court and made subject to such order;
-
-&emsp;&emsp;&emsp;(iii) determined that all dispositions (including treatment), other than placement in a secure detention facility or a secure correctional facility, have been exhausted or are clearly inappropriate; and
-
-&emsp;&emsp;&emsp;(iv) submitted to the court a written report stating the results of the review conducted under clause (i) and the determinations made under clauses (ii) and (iii);
 
 &emsp;(17) the term “Council” means the Coordinating Council on Juvenile Justice and Delinquency Prevention established in section 5616(a)(1) of this title;
 
@@ -102,19 +92,73 @@ For purposes of this chapter—
 
 &emsp;(22) the term “jail or lockup for adults” means a locked facility that is used by a State, unit of local government, or any law enforcement authority to detain or confine adults—
 
-&emsp;&emsp;(i) pending the filing of a charge of violating a criminal law;
+&emsp;&emsp;(A) pending the filing of a charge of violating a criminal law;
 
-&emsp;&emsp;(ii) awaiting trial on a criminal charge; or
+&emsp;&emsp;(B) awaiting trial on a criminal charge; or
 
-&emsp;&emsp;(iii) convicted of violating a criminal law; and
+&emsp;&emsp;(C) convicted of violating a criminal law;
 
-&emsp;(23) the term “nonprofit organization” means an organization described in section 501(c)(3) of title 26 that is exempt from taxation under section 501(a) of title 26.
+&emsp;(23) the term “nonprofit organization” means an organization described in section 501(c)(3) of title 26 that is exempt from taxation under section 501(a) of title 26;
 
-(Pub. L. 93–415, title I, §103, Sept. 7, 1974, 88 Stat. 1111; Pub. L. 95–115, §2, Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §§5, 19(a), Dec. 8, 1980, 94 Stat. 2751, 2762; Pub. L. 98–473, title II, §613, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §§7251(a), 7252(b)(1), Nov. 18, 1988, 102 Stat. 4435, 4436; Pub. L. 102–586, §1(c), Nov. 4, 1992, 106 Stat. 4983; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75.)
+&emsp;(24) the term “graduated sanctions” means an accountability-based, graduated series of sanctions (including incentives, treatment, and services) applicable to juveniles within the juvenile justice system to hold such juveniles accountable for their actions and to protect communities from the effects of juvenile delinquency by providing appropriate sanctions for every act for which a juvenile is adjudicated delinquent, by inducing their law-abiding behavior, and by preventing their subsequent involvement with the juvenile justice system;
+
+&emsp;(25) the term “contact” means the degree of interaction allowed between juvenile offenders in a secure custody status and incarcerated adults under section 31.303(d)(1)(i) of title 28, Code of Federal Regulations, as in effect on December 10, 1996;
+
+&emsp;(26) the term “adult inmate” means an individual who—
+
+&emsp;&emsp;(A) has reached the age of full criminal responsibility under applicable State law; and
+
+&emsp;&emsp;(B) has been arrested and is in custody for or awaiting trial on a criminal charge, or is convicted of a criminal offense;
+
+&emsp;(27) the term “violent crime” means—
+
+&emsp;&emsp;(A) murder or nonnegligent manslaughter, forcible rape, or robbery, or
+
+&emsp;&emsp;(B) aggravated assault committed with the use of a firearm;
+
+&emsp;(28) the term “collocated facilities” means facilities that are located in the same building, or are part of a related complex of buildings located on the same grounds; and
+
+&emsp;(29) the term “related complex of buildings” means 2 or more buildings that share—
+
+&emsp;&emsp;(A) physical features, such as walls and fences, or services beyond mechanical services (heating, air conditioning, water and sewer); or
+
+&emsp;&emsp;(B) the specialized services that are allowable under section 31.303(e)(3)(i)(C)(3) of title 28 of the Code of Federal Regulations, as in effect on December 10, 1996.
+
+(Pub. L. 93–415, title I, §103, Sept. 7, 1974, 88 Stat. 1111; Pub. L. 95–115, §2, Oct. 3, 1977, 91 Stat. 1048; Pub. L. 96–509, §§5, 19(a), Dec. 8, 1980, 94 Stat. 2751, 2762; Pub. L. 98–473, title II, §613, Oct. 12, 1984, 98 Stat. 2108; Pub. L. 100–690, title VII, §§7251(a), 7252(b)(1), Nov. 18, 1988, 102 Stat. 4435, 4436; Pub. L. 102–586, §1(c), Nov. 4, 1992, 106 Stat. 4983; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(1)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12204, Nov. 2, 2002, 116 Stat. 1871.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which enacted this chapter, sections 3772 to 3774 and 3821 of this title, and sections 4351 to 4353 and 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amended sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, and 3883 to 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealed section 3889 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Amendments
 
-1998—Par. (8). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(A)\], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of general local government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
+2002—Par. (3). Pub. L. 107–273, §12204(1), substituted “designed to reduce known risk factors for juvenile delinquent behavior, provides activities that build on protective factors for, and develop competencies in, juveniles to prevent, and reduce the rate of, delinquent juvenile behavior” for “to help prevent juvenile delinquency”.
+
+Par. (4). Pub. L. 107–273, §12204(2), made technical amendment to references in original act which appear in text as references to sections 3741, 3711, 3722 and 3732 of this title.
+
+Par. (7). Pub. L. 107–273, §12204(3), struck out “the Trust Territory of the Pacific Islands,” after “Puerto Rico,”.
+
+Par. (12)(B). Pub. L. 107–273, §12204(4), struck out “, of any nonoffender,” after “committed an offense”.
+
+Par. (13)(B). Pub. L. 107–273, §12204(5), struck out “, any nonoffender,” after “committed an offense”.
+
+Par. (14). Pub. L. 107–273, §12204(6), inserted “drug trafficking,” after “aggravated assault,”.
+
+Par. (16)(C). Pub. L. 107–273, §12204(7), struck out subpar. (C) which read as follows: “with respect to whom an appropriate public agency (other than a court or law enforcement agency), before the issuance of such order—
+
+&emsp;“(i) reviewed the behavior of such juvenile and the circumstances under which such juvenile was brought before the court and made subject to such order;
+
+&emsp;“(ii) determined the reasons for the behavior that caused such juvenile to be brought before the court and made subject to such order;
+
+&emsp;“(iii) determined that all dispositions (including treatment), other than placement in a secure detention facility or a secure correctional facility, have been exhausted or are clearly inappropriate; and
+
+&emsp;“(iv) submitted to the court a written report stating the results of the review conducted under clause (i) and the determinations made under clauses (ii) and (iii);”.
+
+Par. (22). Pub. L. 107–273, §12204(8)(A), redesignated cls. (i) to (iii) as subpars. (A) to (C), respectively.
+
+Pars. (24) to (29). Pub. L. 107–273, §12204(8)(B)–(10), added pars. (24) to (29).
+
+1998—Par. (8). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(A)\], added par. (8) and struck out former par. (8) which read as follows: “the term ‘unit of generallocal government’ means any city, county, township, town, borough, parish, village, or other general purpose political subdivision of a State, an Indian tribe which performs law enforcement functions as determined by the Secretary of the Interior, or, for the purpose of assistance eligibility, any agency of the District of Columbia government performing law enforcement functions in and for the District of Columbia and funds appropriated by the Congress for the activities of such agency may be used to provide the non-Federal share of the cost of programs or projects funded under this subchapter;”.
 
 Par. (9). Pub. L. 105–277, §101(b) \[title I, §129(a)(1)(B)\], substituted “units of local government” for “units of general local government”.
 
@@ -156,6 +200,10 @@ Par. (15). Pub. L. 96–509, §5(f), (g), redesignated former par. (13) as (15),
 
 1977—Par. (3). Pub. L. 95–115 substituted “to help prevent delinquency” for “who are in danger of becoming delinquent”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under section 5601 of this title.
@@ -174,5 +222,5 @@ For termination of Trust Territory of the Pacific Islands, see note set out prec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3791, 5633, 11851, 13791 of this title.
+This section is referred to in sections 3791, 11851, 13791 of this title.
 

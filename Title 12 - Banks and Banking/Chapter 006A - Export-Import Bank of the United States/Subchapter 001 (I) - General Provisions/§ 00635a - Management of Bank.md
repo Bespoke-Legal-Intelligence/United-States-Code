@@ -32,7 +32,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 &emsp;(iii) of the directors first appointed to serve beginning on or after January 21, 1985, two directors (other than the President and First Vice President of the Bank) shall be appointed for terms of two years, as designated by the President of the United States at the time of their appointment; and
 
-&emsp;(iv) any director first appointed to serve for a term beginning on any date after January 21, 1985, shall serve only for the remainder of the period for which such director would have been appointed if such director's term had begun on January 21, 1985. If such term would have expired before the date on which such director's term actually begins, the term of such director shall be the four-year period, or remainder thereof, as if such director had been preceded by a director whose term had begun on January 21, 1985.
+&emsp;(iv) any director first appointed to serve for a term beginning on any date after January 21, 1985, shall serve only for the remainder of the period for which such director would have been appointed if such director's term had begun on January 21, 1985. If such term wouldhave expired before the date on which such director's term actually begins, the term of such director shall be the four-year period, or remainder thereof, as if such director had been preceded by a director whose term had begun on January 21, 1985.
 
 (B) Of the five members of the Board appointed by the President, not less than one such member shall be selected from among the small business community and shall represent the interests of small business.
 
@@ -58,7 +58,7 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 (3) The Advisory Committee shall meet at least once each quarter.
 
-(4) The Advisory Committee shall advise the Bank on its programs, and shall submit, with the report specified in section 635(b)(1)(A) of this title, its own comments to the Congress on theextent to which the Bank is meeting its mandate to provide competitive financing to expand United States exports, and any suggestions for improvements in this regard.
+(4) The Advisory Committee shall advise the Bank on its programs, and shall submit, with the report specified in section 635(b)(1)(A) of this title, its own comments to the Congress on the extent to which the Bank is meeting its mandate to provide competitive financing to expand United States exports, and any suggestions for improvements in this regard.
 
 #### (e) Conflicting personal interests
 
@@ -66,13 +66,15 @@ There shall be a President of the Export-Import Bank of the United States, who s
 
 (2) The General Counsel of the Bank shall ensure that the directors, officers, and employees of the Bank have available appropriate legal counsel for advice on, and oversight of, issues relating to personnel matters and other administrative law matters by designating an attorney to serve as Assistant General Counsel for Administration, whose duties, under the supervision of the General Counsel, shall be concerned solely or primarily with such issues.
 
-(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title VI, §§613, 614(a), 620(b), Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; (As amended Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227.)
+(July 31, 1945, ch. 341, §3, 59 Stat. 527; Aug. 9, 1954, ch. 660, §1, 68 Stat. 677; Pub. L. 90–267, §1(a), (d), Mar. 13, 1968, 82 Stat. 47, 49; Pub. L. 98–181, title VI, §§613, 614(a), 620(b), Nov. 30, 1983, 97 Stat. 1255, 1261; Pub. L. 99–472, §18, Oct. 15, 1986, 100 Stat. 1205; Pub. L. 102–429, title I, §113, Oct. 21, 1992, 106 Stat. 2195; Pub. L. 105–121, §§6, 8, Nov. 26, 1997, 111 Stat. 2529, 2530; Pub. L. 106–46, §1(a), Aug. 11, 1999, 113 Stat. 227; Pub. L. 107–189, §24(b)(4), June 14, 2002, 116 Stat. 709.)
 
 #### Codification
 
 Provisions of subsecs. (b) and (c)(3) of this section, which prescribed the annual compensation of the President, the First Vice President, and other members of the Board of Directors, were omitted to conform to the provisions of the Executive Schedule. See sections 5314 and 5315 of Title 5, Government Organization and Employees.
 
 #### Amendments
+
+2002—Subsec. (d)(2)(B). Pub. L. 107–189 realigned margins.
 
 1999—Subsec. (c)(6). Pub. L. 106–46 amended par. (6) generally. Prior to amendment, par. (6) read as follows: “A majority of the Board of Directors shall constitute a quorum.”
 
@@ -99,6 +101,18 @@ Subsec. (d). Pub. L. 90–267, §1(d), substituted provisions for compensation o
 #### Effective Date of 1954 Amendment
 
 Section 4 of act Aug. 9, 1954, provided that: “The provisions of this Act for the appointment of a President and a First Vice President of the Bank and the members of the Board of Directors shall be effective upon its enactment \[Aug. 9, 1954\]. The remaining provisions of this Act shall become effective when the President and First Vice President of the Bank and one other member of the Board of Directors initially appointed hereunder enter upon office, and shall thereupon supersede Reorganization Plan No. 5 of 1953 \[set out below\].”
+
+#### Untied Aid
+
+Pub. L. 107–189, §10(a), June 14, 2002, 116 Stat. 702, provided that:
+
+“(1)
+
+Negotiations.—The Secretary of the Treasury shall seek to negotiate an OECD Arrangement on Untied Aid. In the negotiations, the Secretary should seek agreement on subjecting untied aid to the rules governing the Arrangement, including the rules governing disclosure.
+
+“(2)
+
+Report to the congress.—Within 1 year after the date of the enactment of this Act \[June 14, 2002\], the Secretary of the Treasury shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a report on the successes, failures, and obstacles in initiating negotiations, and if negotiations were initiated, in reaching the agreement described in paragraph (1).”
 
 #### Board of Directors; Exception to Quorum Requirement
 
@@ -210,7 +224,7 @@ The following are hereby abolished: (1) The Board of Directors of the Export-Imp
 
 Sections 3 to 7, inclusive, of this reorganization plan shall become effective when the Managing Director first appointed hereunder enters upon office pursuant to the provisions of this reorganization plan.
 
-\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director ofthe Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
+\[A Board of Directors was reestablished for the Export-Import Bank of Washington by section 1 of act Aug. 9, 1954, ch. 660, 68 Stat. 677, which amended this section. The Board had previously been abolished and its functions transferred to the Managing Director of the Bank by Reorg. Plan No. 5 of 1953, set out above. The 1953 Reorg. Plan was superseded by sections 1, 4 of act Aug. 9, 1954. See this section and 1954 Amendment and Effective Date of 1954 Amendment notes set out above. The “Export-Import Bank of Washington” was renamed the “Export-Import Bank of the United States” by Pub. L. 90–267, §1(a), Mar. 13, 1968, 82 Stat. 47.\]
 
 #### United States Trade Representative and Secretary of Commerce as Additional Members of Board of Directors of Export-Import Bank of the United States
 

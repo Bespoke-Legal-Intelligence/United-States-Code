@@ -2,7 +2,7 @@
 
 #### (a) Limitation
 
-Except as provided under this section no funds authorized to be appropriated to the Department of State may be used to pay any expense associated with the closing of any overseas public diplomacy post abroad.
+Except as provided under this section no funds authorized to be appropriated to the Department of State may be used to pay any expenseassociated with the closing of any overseas public diplomacy post abroad.
 
 #### (b) Notification
 

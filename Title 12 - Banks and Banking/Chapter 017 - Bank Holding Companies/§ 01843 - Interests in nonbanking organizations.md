@@ -1024,7 +1024,7 @@ Section 205 of Pub. L. 97–290 required Federal Reserve Board, within two years
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 24a, 371c, 635a–4, 1467a, 1815, 1828b, 1841, 1844, 1849, 1864, 1972, 2903, 3105, 3106, 3401 of this title; title 15 sections 18a, 78c, 78q, 6809.
+This section is referred to in sections 24a, 371c, 635a–4, 1467a, 1815, 1828b, 1841, 1844, 1849, 1864, 1972, 2903, 3105, 3106, 3401 of this title; title 15 sections 18a, 78c, 78q, 6809; title 31 section 5318.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

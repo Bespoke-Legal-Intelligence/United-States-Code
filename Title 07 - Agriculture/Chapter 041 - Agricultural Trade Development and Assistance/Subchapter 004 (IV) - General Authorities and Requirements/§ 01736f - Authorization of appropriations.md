@@ -16,7 +16,7 @@ There are authorized to be appropriated such sums as may be necessary to carry o
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, the President may direct that up to 15 percent of the funds available for any fiscal year for carrying out any subchapter of this chapter be used to carry out any other subchapter of this chapter.
+&emsp;Except as provided in paragraph (2) and notwithstanding any other provision of law, the President may direct that up to 15 percent ofthe funds available for any fiscal year for carrying out any subchapter of this chapter be used to carry out any other subchapter of this chapter.
 
 #### (2) Subchapter III–A funds
 

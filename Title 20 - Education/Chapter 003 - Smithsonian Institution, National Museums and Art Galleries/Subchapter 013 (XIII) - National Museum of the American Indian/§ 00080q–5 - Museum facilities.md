@@ -10,11 +10,11 @@ The Board of Regents shall plan, design, and construct a facility on the area bo
 
 #### (A) Terms
 
-&emsp;&emsp;Notwithstanding section 490(j) of title 40, the Administrator of General Services may lease, at a nominal charge, to the Smithsonian Institution space in the Old United States Custom House at One Bowling Green, New York, New York, to house the portion of the National Museum to be located in the city of New York. The lease shall be subject to such terms as may be mutually agreed upon by the Administrator and the Secretary of the Smithsonian Institution. The term of the lease shall not be less than 99 years.
+&emsp;&emsp;Notwithstanding section 586(a) and (b) of title 40, the Administrator of General Services may lease, at a nominal charge, to the Smithsonian Institution space in the Old United States Custom House at One Bowling Green, New York, New York, to house the portion of the National Museum to be located in the city of New York. The lease shall be subject to such terms as may be mutually agreed upon by the Administrator and the Secretary of the Smithsonian Institution. The term of the lease shall not be less than 99 years.
 
 #### (B) Reimbursement of Federal buildings fund
 
-&emsp;&emsp;The Administrator of General Services may reimburse the fund established by section 490(f) of title 40 for the difference between the amount charged to the Smithsonian Institution for leasing space under this paragraph and the commercial charge under section 490(j) of title 40 which, but for this paragraph, would apply to the leasing of such space. There are authorized to be appropriated to the Administrator such sums as may be necessary to carry out this subparagraph for fiscal years beginning after September 30, 1990.
+&emsp;&emsp;The Administrator of General Services may reimburse the fund established by section 592 of title 40 for the difference between the amount charged to the Smithsonian Institution for leasing space under this paragraph and the commercial charge under section 586(a) and (b) of title 40 which, but for this paragraph, would apply to the leasing of such space. There are authorized to be appropriated to the Administrator such sums as may be necessary to carry out this subparagraph for fiscal years beginning after September 30, 1990.
 
 #### (2) Construction
 
@@ -58,7 +58,7 @@ The Board of Regents shall plan, design, and construct a facility on the area bo
 
 #### (c) Museum Support Center facility
 
-The Board of Regents shall plan, design, and construct a facility for the conservation andstorage of the collections of the National Museum at the Museum Support Center of the Smithsonian Institution.
+The Board of Regents shall plan, design, and construct a facility for the conservation and storage of the collections of the National Museum at the Museum Support Center of the Smithsonian Institution.
 
 #### (d) Minimum square footage
 
@@ -73,6 +73,10 @@ The Board of Regents and the Administrator of General Services may enter into su
 Notwithstanding any other provision of this subchapter, funds appropriated for carrying out this section may not be obligated for actual construction of any facility under this section until the 60th day after the date on which the Board of Regents transmits to Congress a written analysis of the total estimated cost of the construction and a cost-sharing plan projecting the amount for Federal appropriations and for non-Federal contributions for the construction on a fiscal year basis.
 
 (Pub. L. 101–185, §7, Nov. 28, 1989, 103 Stat. 1339.)
+
+#### Codification
+
+“Section 586(a) and (b) of title 40” substituted in subsec. (b)(1)(A) for “section 210(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(j))”, “section 592 of title 40” substituted in subsec. (b)(1)(B) for “section 210(f) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 490(f))”, and “section 586(a) and (b) of title 40” substituted in subsec. (b)(1)(B) for “section 210(j) of such Act” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### National Native American Veterans’ Memorial
 

@@ -1,0 +1,136 @@
+### §14321. Grants and other assistance
+
+(a)
+
+Authorization To Make Grants.—
+
+&emsp;(1)
+
+In general.—The Appalachian Regional Commission may make grants—
+
+&emsp;&emsp;(A) for administrative expenses, including the development of areawide plans or action programs and technical assistance activities, of local development districts, but—
+
+&emsp;&emsp;&emsp;(i) the amount of a grant shall not exceed 50 percent of administrative expenses or, at the discretion of the Commission, 75 percent of administrative expenses if the grant is to a local development district that has a charter or authority that includes the economic development of a county or part of a county for which a distressed county designation is in effect under section 14526 of this title;
+
+&emsp;&emsp;&emsp;(ii) grants for administrative expenses shall not be made for a state agency certified as a local development district for a period of more than three years beginning on the date the initial grant is made for the development district; and
+
+&emsp;&emsp;&emsp;(iii) the local development district contributions for administrative expenses may be in cash or in kind, fairly evaluated, including space, equipment, and services;
+
+&emsp;&emsp;(B) for assistance to States for a period of not more than two years to strengthen the state development planning process for the Appalachian region and the coordination of state planning under this subtitle, the Public Works and Economic Development Act of 1965 (42 U.S.C. 3121 et seq.), and other federal and state programs; and
+
+&emsp;&emsp;(C) for investigation, research, studies, evaluations, and assessments of needs, potentials, or attainments of the people of the region, technical assistance, training programs, demonstrations, and the construction of necessary facilities incident to those activities, which will further the purposes of this subtitle.
+
+&emsp;(2)
+
+Limitation on available amounts.—
+
+&emsp;&emsp;(A)
+
+In general.—Except as provided in subparagraph (B), not more than 50 percent (or 80 percent in the case of a project to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title) of the cost of any activity eligible for financial assistance under this section may be provided from amounts appropriated to carry out this subtitle.
+
+&emsp;&emsp;(B)
+
+Discretionary grants.—
+
+&emsp;&emsp;&emsp;(i)
+
+Grants to which percentage limitation doesn't apply.—Discretionary grants made by the Commission to implement significant regional initiatives, to take advantage of special development opportunities, or to respond to emergency economic distress in the region may be made without regard to the percentage limitations specified in subparagraph (A).
+
+&emsp;&emsp;&emsp;(ii)
+
+Limitation on aggregate amount.—For each fiscal year, the aggregate amount of discretionary grants referred to in clause (i) shall not be more than 10 percent of the amount appropriated under section 14703 of this title for the fiscal year.
+
+&emsp;(3)
+
+Sources of grants.—Grant amounts may be provided entirely from appropriations to carry out this section, in combination with amounts available under other federal or federal grant programs, or from any other source.
+
+&emsp;(4)
+
+Federal share.—Notwithstanding any law limiting the federal share in any other federal or federal grant program, amounts appropriated to carry out this section may be used to increase that federal share, as the Commission decides is appropriate.
+
+(b)
+
+Assistance for Demonstrations of Enterprise Development.—
+
+&emsp;(1)
+
+In general.—The Commission may provide assistance under this section for demonstrations of enterprise development, including site acquisition or development where necessary for the feasibility of the project, in connection with the development of the region's energy resources and the development and stimulation of indigenous arts and crafts of the region.
+
+&emsp;(2)
+
+Cooperation by federal agencies.—In carrying out the purposes of this subtitle and in implementing this section, the Secretary of Energy, the Environmental Protection Agency, and other federal agencies shall cooperate with the Commission and shall provide assistance that the Federal Cochairman may request.
+
+&emsp;(3)
+
+Available amounts.—In any fiscal year, not more than—
+
+&emsp;&emsp;(A) $3,000,000 shall be obligated for energy resource related demonstrations; and
+
+&emsp;&emsp;(B) $2,500,000 shall be obligated for indigenous arts and crafts demonstrations.
+
+(c)
+
+Records.—
+
+&emsp;(1)
+
+Commission.—The Commission, as required by the President, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the President on the transactions and activities. The records of the Commission with respect to grants are available for audit by the President and the Comptroller General.
+
+&emsp;(2)
+
+Recipients of federal assistance.—Recipients of federal assistance under this section, as required by the Commission, shall maintain accurate and complete records of transactions and activities financed with federal amounts and report to the Commission on the transactions and activities. The records are be available for audit by the President, the Comptroller General, and the Commission.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1262.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+14321(a)(1)
+
+40 App.:302(a)(1)(A)– (C) (1st sentence).
+
+Pub. L. 89–4, title III, §302, Mar. 9, 1965, 79 Stat. 19; Pub. L. 90–103, title I, §120, Oct. 11, 1967, 81 Stat. 264; Pub. L. 91–123, title I, §108, Nov. 25, 1969, 83 Stat. 215; Pub. L. 92–65, title II, §211, Aug. 5, 1971, 85 Stat. 172; Pub. L. 94–188, title I, §119, Dec. 31, 1975, 89 Stat. 1085; Pub. L. 105–393, title II, §§218(d), 220(a)–(c)(1), Nov. 13, 1998, 112 Stat. 3623, 3624; Pub. L. 107–149, §§9, 13(c), Mar. 12, 2002, 116 Stat. 70, 71.
+
+14321(a)(2)
+
+40 App.:302(a)(2).
+
+14321(a)(3)
+
+40 App.:302(a)(1)(C) (2d sentence).
+
+14321(a)(4)
+
+40 App.:302(a)(1)(C) (last sentence).
+
+14321(b)
+
+40 App.:302(b).
+
+14321(c)
+
+40 App.:302(c).
+
+In subsection (a)(2)(A), the words “after September 30, 1998” are omitted as obsolete.
+
+In subsection (b)(2), the words “including section 2(b)” are omitted as unnecessary.
+
+In subsection (c)(1), the words “or their duly authorized representatives” are omitted because of 3:301 and 31:711(2).
+
+In subsection (c)(2), the words “or their duly authorized representatives” are omitted because of 3:301 and 31:711(2) and because of the inferred authority of the Commission to delegate in the absence of a prohibition. See section 14301(d) of the revised title.
+
+#### References in Text
+
+The Public Works and Economic Development Act of 1965, referred to in subsec. (a)(1)(B), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended, which is classified generally to chapter 38 (§3121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of Title 42 and Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 14526 of this title.
+

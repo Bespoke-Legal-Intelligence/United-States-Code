@@ -22,13 +22,17 @@ On the basis of such studies and investigations, and such other information as h
 
 > and he shall work closely with and provide any necessary technical assistance to State, interstate, and local governmental agencies, to encourage the application of such criteria and the adoption and enforcement of such measures.
 
-(Pub. L. 90–448, title XIII, §1361, Aug. 1, 1968, 82 Stat. 587; Pub. L. 91–152, title IV, §410(c), Dec. 24, 1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
+(Pub. L. 90–448, title XIII, §1361, Aug. 1, 1968, 82 Stat. 587; Pub. L. 91–152, title IV, §410(c), Dec. 24,1969, 83 Stat. 397; Pub. L. 98–181, title IV, §451(d)(1), Nov. 30, 1983, 97 Stat. 1229.)
 
 #### Amendments
 
 1983—Subsecs. (a), (c). Pub. L. 98–181 substituted “Director” for “Secretary”.
 
 1969—Subsec. (c). Pub. L. 91–152 substituted provisions requiring development of criteria designed to encourage adoption of adequate State and local measures, for provisions requiring development of criteria designed to encourage adoption of permanent State and local measures.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Task Force on Natural and Beneficial Functions of the Floodplain
 

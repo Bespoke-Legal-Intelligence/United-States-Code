@@ -8,7 +8,7 @@
 
 > Such report shall be submitted in such form and by such time as the Director may require by rule.
 
-(b) Not later than 90 days after the end of each fiscal year for which grants are made under this subchapter, the Director shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report that includes with respect to each State—
+(b) Not later than 90 days after the end of each fiscal year for which grants are made under thissubchapter, the Director shall submit to the Speaker of the House of Representatives and the President pro tempore of the Senate a report that includes with respect to each State—
 
 &emsp;(1) the aggregate amount of grants made under this chapter to the State and units of local government in the State for such fiscal year; and
 
@@ -26,7 +26,7 @@ Subsec. (b)(1). Pub. L. 103–322, §40156(c)(6)(B), substituted “the State an
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 13 on page 121identifies a reporting provision which, as subsequently amended, is contained in subsec. (b) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which item 13 on page 121 identifies a reporting provision which, as subsequently amended, is contained in subsec. (b) of this section), see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance.
 
 #### Transfer of Functions
 

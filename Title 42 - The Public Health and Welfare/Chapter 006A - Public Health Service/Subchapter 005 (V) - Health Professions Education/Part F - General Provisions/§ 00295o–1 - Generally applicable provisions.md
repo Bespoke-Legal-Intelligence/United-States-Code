@@ -20,7 +20,7 @@ Unless specifically required otherwise in this subchapter, the Secretary shall a
 
 #### (3) Use of funds
 
-&emsp;The Secretary shall establish procedures to permit the use of amounts appropriated under this subchapter to be used for data collection purposes.
+&emsp;The Secretary shall establish procedures to permit the use of amounts appropriated underthis subchapter to be used for data collection purposes.
 
 #### (4) Evaluations
 

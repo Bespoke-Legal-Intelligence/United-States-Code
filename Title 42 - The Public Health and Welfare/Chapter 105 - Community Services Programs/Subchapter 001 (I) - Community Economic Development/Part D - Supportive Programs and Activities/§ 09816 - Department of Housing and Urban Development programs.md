@@ -1,6 +1,6 @@
 ### §9816. Department of Housing and Urban Development programs
 
-The Secretary of Housing and Urban Development, after consultation with the Secretary, shall take all necessary steps to assist community development corporations and local cooperative associations to qualify for and receive (1) such assistance in connection with technical assistance, counseling to tenants and homeowners, and loans to sponsors of low-income and moderate-income housing under section 106 of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701x\], as amended by section 811 of the Housing and Community Development Act of 1974; (2) such land for housing and business location and expansion under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\]; and (3) such funds for comprehensive planning under section 701 of the Housing Act of 1954 \[40 U.S.C. 461\], as amended by section 401 of the Housing and Community Development Act of 1974, as shall further the purposes of this subchapter.
+The Secretary of Housing and Urban Development, after consultation with the Secretary, shall take all necessary steps to assist community development corporations and local cooperative associations to qualify for and receive (1) such assistance in connection with technical assistance, counseling to tenants and homeowners, and loans to sponsors of low-income and moderate-income housing under section 106 of the Housing and Urban Development Act of 1968 \[12 U.S.C. 1701x\], as amended by section 811 of the Housing and Community Development Act of 1974; (2) such land for housing and business location and expansion under title I of the Housing and Community Development Act of 1974 \[42 U.S.C. 5301 et seq.\]; and (3) such funds for comprehensive planning under section 701 of the Housing Act of 1954,<sup>1</sup> as amended by section 401 of the Housing and Community Development Act of 1974, as shall further the purposes of this subchapter.
 
 (Pub. L. 97–35, title VI, §627, Aug. 13, 1981, 95 Stat. 497.)
 
@@ -10,9 +10,9 @@ Section 811 of the Housing and Community Development Act of 1974, referred to in
 
 The Housing and Community Development Act of 1974, referred to in text, is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Housing and Community Development Act of 1974 is classified principally to chapter 69 (§5301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of this title and Tables.
 
-Section 701 of the Housing Act of 1954 \[40 U.S.C. 461\], referred to in text, was repealed by Pub. L. 97–35, title III, 313(b), Aug. 13, 1981, 95 Stat. 398.
+Section 701 of the Housing Act of 1954, referred to in text, is section 701 of act Aug. 2, 1954, ch. 649, 68 Stat. 640, as amended, which was classified to section 461 of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 97–35, title III, 313(b), Aug. 13, 1981, 95 Stat. 398.
 
-Section 401 of the Housing and Community Development Act of 1974, referred to in text, is section 401 of Pub. L. 93–383, title IV, Aug. 22, 1974, 88 Stat. 686, subsecs. (a) and (b) of which amended section 461 of Title 40, Public Buildings, Property, and Works, prior to its repeal by Pub. L. 97–35, and subsec. (c) of which amended section 460 of Title 40.
+Section 401 of the Housing and Community Development Act of 1974, referred to in text, is section 401 of Pub. L. 93–383, title IV, Aug. 22, 1974, 88 Stat. 686, subsecs. (a) and (b) of which amended section 461 of former Title 40, Public Buildings, Property, and Works, prior to its repeal by Pub. L. 97–35, and subsec. (c) of which amended section 460 of former Title 40.
 
 #### Capacity Building for Community Development and Affordable Housing
 
@@ -43,4 +43,6 @@ Implementation.—The Secretary shall by notice establish such requirements as m
 “(e)
 
 Authorization.—There are authorized to be appropriated $25,000,000 for fiscal year 1994 to carry out this section.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

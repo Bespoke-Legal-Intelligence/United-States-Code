@@ -40,7 +40,7 @@ To carry out subsection (b) of this section, the TPCC shall develop and implemen
 
 &emsp;(3) identify areas of overlap and duplication among Federal export promotion activities and propose means of eliminating them;
 
-&emsp;(4) propose to the President an annual unified Federal trade promotion budget that supports the plan for priority activities and improved coordination established under paragraph (2) and eliminates funding for the areas of overlap and duplication identified under paragraph (3);
+&emsp;(4) propose to the President an annual unified Federal trade promotion budget that supports the plan for priority activities and improved coordination established under paragraph (2) and eliminates funding for the areasof overlap and duplication identified under paragraph (3);
 
 &emsp;(5) review efforts by the States (as defined in section 4721(i) of this title) to promote United States exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data; and
 
@@ -110,7 +110,7 @@ Sections 5823 and 5824 of title 22, referred to in subsec. (f)(2), was, in the o
 
 #### Ex. Ord. No. 12870. Trade Promotion Coordinating Committee
 
-Ex. Ord. No. 12870, Sept. 30, 1993, 58 F.R. 51753, provided:
+Ex. Ord. No. 12870, Sept. 30, 1993, 58 F.R. 51753, as amended by Ex. Ord. No. 13286, §26, Feb. 28, 2003, 68 F.R. 10625, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including the Export Enhancement Act of 1992 (Public Law 102–429, 106 Stat. 2186) \[see Short Title of 1992 Amendment note set out under section 635 of Title 12, Banks and Banking\], and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -134,31 +134,33 @@ Section 1. <i>Establishment</i>. There is established the “Trade Promotion Coo
 
 &emsp;(i) Department of the Interior;
 
-&emsp;(j) Agency for International Development;
+&emsp;(j) Department of Homeland Security;
 
-&emsp;(k) Trade and Development Agency;
+&emsp;(k) Agency for International Development;
 
-&emsp;(<i>l</i>) Environmental Protection Agency;
+&emsp;(<i>l</i>) Trade and Development Agency;
 
-&emsp;(m) United States Information Agency;
+&emsp;(m) Environmental Protection Agency;
 
-&emsp;(n) Small Business Administration;
+&emsp;(n) United States Information Agency;
 
-&emsp;(<i>o</i>) Overseas Private Investment Corporation;
+&emsp;(<i>o</i>) Small Business Administration;
 
-&emsp;(p) Export-Import Bank of the United States;
+&emsp;(p) Overseas Private Investment Corporation;
 
-&emsp;(q) Office of the United States Trade Representative;
+&emsp;(q) Export-Import Bank of the United States;
 
-&emsp;(r) Council of Economic Advisers;
+&emsp;(r) Office of the United States Trade Representative;
 
-&emsp;(s) Office of Management and Budget;
+&emsp;(s) Council of Economic Advisers;
 
-&emsp;(t) National Economic Council;
+&emsp;(t) Office of Management and Budget;
 
-&emsp;(u) National Security Council; and
+&emsp;(u) National Economic Council;
 
-&emsp;(v) at the discretion of the President, such other departments or agencies as may be necessary.
+&emsp;(v) National Security Council; and
+
+&emsp;(w) at the discretion of the President, such other departments or agencies as may be necessary.
 
 Members of the TPCC shall be appointed by the heads of their respective departments or agencies. Such members, as well as their designated alternatives, shall be individuals who exercise significant decision-making authority in their respective departments or agencies.
 
@@ -199,8 +201,6 @@ Sec. 5. <i>Strategic Plan</i>. To carry out section 4 of this order, the TPCC sh
 (e) review efforts by the States to promote U.S. exports and propose means of developing cooperation between State and Federal efforts, including co-location, cost-sharing between Federal and State export promotion programs, and sharing of market research data.
 
 Sec. 6. <i>Report</i>. The chairperson of the TPCC, with the approval of the President, shall prepare and submit to the Committee on Banking, Housing, and Urban Affairs of the Senate, and the Committee on Foreign Affairs of the House of Representatives, not later than September 30, 1993, and annually thereafter, a report describing the strategic plan developed by the TPCC pursuant to section 5 of this order, the implementation of such a plan, and any revisions to the plan.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
 

@@ -68,7 +68,7 @@ The Director shall promote innovation in evidence-based health care practices an
 
 #### (2) Certain considerations
 
-&emsp;In identifying the issues to be addressed by the report, the Director shall, to the extent practicable, take into consideration the expertise and experience of Federal and State law enforcement officials regarding the victims referred to in paragraph (1), and of other appropriate public and private entities (including medical societies, victim services organizations, sexual assault prevention organizations, and social services organizations).
+&emsp;In identifying the issues to be addressed by the report, the Director shall, to the extentpracticable, take into consideration the expertise and experience of Federal and State law enforcement officials regarding the victims referred to in paragraph (1), and of other appropriate public and private entities (including medical societies, victim services organizations, sexual assault prevention organizations, and social services organizations).
 
 (July 1, 1944, ch. 373, title IX, §916, as added Pub. L. 106–129, §2(a), Dec. 6, 1999, 113 Stat. 1660.)
 

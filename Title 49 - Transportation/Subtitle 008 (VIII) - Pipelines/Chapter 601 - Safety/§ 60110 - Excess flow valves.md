@@ -46,7 +46,7 @@ Report.—If the Secretary decides under subsection (b) of this section that the
 
 Performance Standards.—Not later than April 24, 1994, the Secretary shall develop standards for the performance of excess flow valves used to protect lines in a natural gas distribution system. The Secretary may adopt industry accepted performance standards in order to comply with the requirement under the preceding sentence. The standards shall be incorporated into regulations the Secretary prescribes under this section. All excess flow valves shall be installed according to the standards.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1316; Pub. L. 104–304, §§8, 20(j), Oct. 12, 1996, 110 Stat. 3800, 3805.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1316; Pub. L. 104–304, §§8, 20(j), Oct. 12, 1996, 110 Stat.3800, 3805; Pub. L. 107–355, §21(1), Dec. 17, 2002, 116 Stat. 3010.)
 
 Historical and Revision Notes
 
@@ -86,9 +86,11 @@ In subsection (b), before clause (1), the words “on when” are substituted fo
 
 #### Amendments
 
+2002—Subsec. (b). Pub. L. 107–355 substituted “circumstances, if any, under which an operator” for “circumstances under which an operator” in introductory provisions.
+
 1996—Subsec. (b). Pub. L. 104–304, §20(j), substituted “standards” for “regulations” in introductory provisions.
 
-Pub. L. 104–304, §8(1), which directed the insertion of “, if any,” after “circumstances” in the first sentence of subsection (b)(1), was executed to the introductory provisions of subsec. (b) to reflect the probable intent of Congress.
+Subsec. (b)(1). Pub. L. 104–304, §8(1), which directed the insertion of “, if any,” after “circumstances” in the first sentence of subsection (b)(1), could not be executed because the word “circumstances” did not appear in subsec. (b)(1).
 
 Subsec. (b)(4). Pub. L. 104–304, §8(2), inserted “, operating, and maintaining” after “cost of installing”.
 

@@ -1,6 +1,6 @@
 ### §1355. Restrictions on employment of former officers or employees of Department of the Interior
 
-No full-time officer or employee of the Department of the Interior who directly or indirectly discharged duties or responsibilities under this subchapter, and who was at any time during the twelve months preceding the termination of his employment with the Department compensatedunder the Executive Schedule or compensated at or above the annual rate of basic pay for grade GS–16 of the General Schedule shall—
+No full-time officer or employee of the Department of the Interior who directly or indirectly discharged duties or responsibilities under this subchapter, and who was at any time during the twelve months preceding the termination of his employment with the Department compensated under the Executive Schedule or compensated at or above the annual rate of basic pay for grade GS–16 of the General Schedule shall—
 
 &emsp;(1) within two years after his employment with the Department has ceased—
 

@@ -10,7 +10,7 @@
 
 (e) The owner, charterer, managing operator, master, or individual in charge shall maintain the shipping agreement and make the shipping agreement available to the seaman.
 
-(f) The Secretary shall prescribe regulations requiring shipping companies to maintainrecords of seamen on matters of engagement, discharge, and service. The shipping companies shall make these records available to the seaman and the Coast Guard on request.
+(f) The Secretary shall prescribe regulations requiring shipping companies to maintain records of seamen on matters of engagement, discharge, and service. The shipping companies shall make these records available to the seaman and the Coast Guard on request.
 
 (Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 570; Pub. L. 103–206, title IV, §413, Dec. 20, 1993, 107 Stat. 2437.)
 
@@ -31,6 +31,10 @@ Section 10502 requires the master on a vessel engaged on a coastwise voyage to s
 1993—Subsec. (a). Pub. L. 103–206, §413(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “Before proceeding on a voyage, the master of a vessel to which this chapter applies shall make a shipping articles agreement in writing with each seaman on board, declaring the nature of the voyage or the period of time for which the seaman is engaged.”
 
 Subsecs. (d) to (f). Pub. L. 103–206, §413(2), added subsecs. (d) to (f).
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

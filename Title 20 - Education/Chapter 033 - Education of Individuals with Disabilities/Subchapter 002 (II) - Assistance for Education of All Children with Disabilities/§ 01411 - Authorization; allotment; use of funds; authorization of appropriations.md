@@ -76,7 +76,7 @@
 
 #### (c) Secretary of the Interior
 
-From the amount appropriated for any fiscal year under subsection (j) of this section, the Secretary shall reserve 1.226 percent to provideassistance to the Secretary of the Interior in accordance with subsection (i) of this section.
+From the amount appropriated for any fiscal year under subsection (j) of this section, the Secretary shall reserve 1.226 percent to provide assistance to the Secretary of the Interior in accordance with subsection (i) of this section.
 
 #### (d) Allocations to States
 
@@ -186,7 +186,7 @@ From the amount appropriated for any fiscal year under subsection (j) of this se
 
 &emsp;(A) For the purpose of administering this subchapter, including section 1419 of this title (including the coordination of activities under this subchapter with, and providing technical assistance to, other programs that provide services to children with disabilities)—
 
-&emsp;&emsp;(i) each State may use not more than twenty percent of the maximum amount it may retain under paragraph (1)(A) for any fiscal year or $500,000 (adjusted by the cumulative rate of inflation since fiscal year 1998, as measured by the percentage increase, if any, in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor), whichever is greater; and
+&emsp;&emsp;(i) each State may use not more than twenty percent of the maximum amount it may retain under paragraph (1)(A) for any fiscal year or $500,000 (adjusted by the cumulative rate of inflation since fiscal year 1998, as measured by the percentage increase, ifany, in the Consumer Price Index For All Urban Consumers, published by the Bureau of Labor Statistics of the Department of Labor), whichever is greater; and
 
 &emsp;&emsp;(ii) each outlying area may use up to five percent of the amount it receives under this section for any fiscal year or $35,000, whichever is greater.
 
@@ -248,7 +248,7 @@ From the amount appropriated for any fiscal year under subsection (j) of this se
 
 #### (1) Subgrants required
 
-&emsp;Each State that receives a grant under this section for any fiscal year shall distribute any funds it does not retain under subsection (f) of this section (at least 75 percent of the grant funds) to local educational agencies in the State that have established their eligibility under section 1413 of this title, and to State agencies that received funds under section 614A(a) of this Act for fiscal year 1997, as then in effect, and have established their eligibility under section 1413 of this title, for use in accordance with this subchapter.
+&emsp;Each State that receives a grant under this section for any fiscal year shall distribute any funds it does not retain under subsection (f) of this section (at least 75 percent of the grant funds) to local educational agencies in the State that have established their eligibility under section 1413 of this title, and to Stateagencies that received funds under section 614A(a) of this Act for fiscal year 1997, as then in effect, and have established their eligibility under section 1413 of this title, for use in accordance with this subchapter.
 
 #### (2) Allocations to local educational agencies
 
@@ -282,7 +282,7 @@ From the amount appropriated for any fiscal year under subsection (j) of this se
 
 &emsp;&emsp;&emsp;(II) the per-child amount provided under such subpart for fiscal year 1994; and
 
-&emsp;&emsp;(ii) may use those funds to ensure that each local educational agency that received fiscal year 1994 funds under that subpart for children who had transferred from a State-operated or State-supported school or program assisted under that subpart receives, from the combination of funds available under subsection (f)(1)(A) of this section and funds provided under paragraph (1) of this subsection, an amount for each such child,aged 3 through 21 to whom the agency was providing special education and related services on December 1 of the fiscal year for which the funds were appropriated, equal to the per-child amount the agency received under that subpart for fiscal year 1994.
+&emsp;&emsp;(ii) may use those funds to ensure that each local educational agency that received fiscal year 1994 funds under that subpart for children who had transferred from a State-operated or State-supported school or program assisted under that subpart receives, from the combination of funds available under subsection (f)(1)(A) of this section and funds provided under paragraph (1) of this subsection, an amount for each such child, aged 3 through 21 to whom the agency was providing special education and related services on December 1 of the fiscal year for which the funds were appropriated, equal to the per-child amount the agency received under that subpart for fiscal year 1994.
 
 &emsp;(B) The number of children counted under subparagraph (A)(i)(I) shall not exceed the number of children aged 3 through 21 for whom the agency received fiscal year 1994 funds under subpart 2 of part D of chapter 1 of title I of the Elementary and Secondary Education Act of 1965.
 
@@ -312,7 +312,7 @@ For the purpose of this section—
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary of Education shall provide amounts to the Secretary of the Interior to meet the need for assistance for the education of children with disabilities on reservations aged 5 to 21, inclusive, enrolled in elementary and secondary schools for Indian children operated or funded by the Secretary of the Interior. The amount of such payment for any fiscal year shall be equal to 80 percent of the amount allotted under subsection (c) of this section for that fiscal year.
+&emsp;&emsp;The Secretary of Education shall provide amounts to the Secretary of the Interior to meet the need for assistance for the education of children with disabilities on reservations aged 5 to 21, inclusive, enrolled in elementary and secondary schools for Indianchildren operated or funded by the Secretary of the Interior. The amount of such payment for any fiscal year shall be equal to 80 percent of the amount allotted under subsection (c) of this section for that fiscal year.
 
 #### (B) Calculation of number of children
 
@@ -356,7 +356,7 @@ For the purpose of this section—
 
 #### (D) Use of funds
 
-&emsp;&emsp;The funds received by a tribe or tribal organization shall be used to assist in child find, screening, and other procedures for the early identification of children aged 3 through 5, parent training, and the provision of direct services. These activities may be carried out directly or through contracts or cooperative agreements with the BIA, local educational agencies, and other public or private nonprofit organizations. The tribe or tribal organization is encouraged to involve Indian parents in the development and implementation of these activities. The above entities shall, as appropriate, make referrals to local, State, or Federal entities for the provision of services or further diagnosis.
+&emsp;&emsp;The funds received by a tribe or tribal organization shall be used to assist in child find, screening, and other procedures for the early identification of children aged 3 through 5, parent training, and the provision of direct services. These activities may be carried out directly or through contracts or cooperative agreements with the BIA, localeducational agencies, and other public or private nonprofit organizations. The tribe or tribal organization is encouraged to involve Indian parents in the development and implementation of these activities. The above entities shall, as appropriate, make referrals to local, State, or Federal entities for the provision of services or further diagnosis.
 
 #### (E) Biennial report
 
@@ -372,7 +372,7 @@ For the purpose of this section—
 
 #### (5) Establishment of advisory board
 
-&emsp;To meet the requirements of section 1412(a)(21) of this title, the Secretary of the Interior shall establish, not later than 6 months after June 4, 1997, under the BIA, an advisory board composed of individuals involved in or concerned with the education and provision of services to Indian infants, toddlers, children, and youth with disabilities, including Indians with disabilities, Indian parents or guardians of such children, teachers, service providers, State and local educational officials, representatives of tribes or tribal organizations, representatives from State Interagency Coordinating Councils under section 1441 of this title in States having reservations, and other members representing the various divisions and entities of the BIA. The chairperson shallbe selected by the Secretary of the Interior. The advisory board shall—
+&emsp;To meet the requirements of section 1412(a)(21) of this title, the Secretary of the Interior shall establish, not later than 6 months after June 4, 1997, under the BIA, an advisory board composed of individuals involved in or concerned with the education and provision of services to Indian infants, toddlers, children, and youth with disabilities, including Indians with disabilities, Indian parents or guardians of such children, teachers, service providers, State and local educational officials, representatives of tribes or tribal organizations, representatives from State Interagency Coordinating Councils under section 1441 of this title in States having reservations, and other members representing the various divisions and entities of the BIA. The chairperson shall be selected by the Secretary of the Interior. The advisory board shall—
 
 &emsp;&emsp;(A) assist in the coordination of services within the BIA and with other local, State, and Federal agencies in the provision of education for infants, toddlers, and children with disabilities;
 

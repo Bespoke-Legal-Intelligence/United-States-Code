@@ -100,6 +100,10 @@ Subsec. (c)(2). Pub. L. 103–272, §5(m)(2), substituted “315” for “31”
 
 Pub. L. 106–159, title I, §107(a), Dec. 9, 1999, 113 Stat. 1758, provided that: “This Act \[see Tables for classification\] shall take effect on the date of the enactment of this Act \[Dec. 9, 1999\]; except that the amendments made by section 101 \[enacting section 113 of this title and amending this section, sections 5314 and 5316 of Title 5, Government Organization and Employees, and section 104 of Title 23, Highways\] shall take effect on January 1, 2000.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Elimination of Regional Office Responsibilities
 
 Pub. L. 105–178, title I, §1220, June 9, 1998, 112 Stat. 221, provided that:

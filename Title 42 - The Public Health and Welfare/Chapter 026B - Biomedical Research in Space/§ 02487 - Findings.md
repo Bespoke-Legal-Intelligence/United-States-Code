@@ -6,7 +6,7 @@ The Congress finds that—
 
 &emsp;(2) the continuing development of trained scientists and engineers is essential to carrying out an effective and sustained program of biomedical research in space and on the ground;
 
-&emsp;(3) the establishment and maintenance of an electronically accessible archive of data onspace-related biomedical research is essential to advancement of the field;
+&emsp;(3) the establishment and maintenance of an electronically accessible archive of data on space-related biomedical research is essential to advancement of the field;
 
 &emsp;(4) cooperation with the republics of the former Soviet Union, including use of former Soviet orbital facilities, offers the potential for greatly enhanced biomedical research activities and progress; and
 

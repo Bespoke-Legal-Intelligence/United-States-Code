@@ -6,7 +6,7 @@ General.—(1) Each certificate issued under section 41102 of this title shall s
 
 (2) The Secretary of Transportation—
 
-&emsp;(A) may prescribe terms for providing air transportation under the certificate that the Secretary finds may be required in the public interest; but
+&emsp;(A) may prescribe terms for providing air transportation under the certificate that theSecretary finds may be required in the public interest; but
 
 &emsp;(B) may not prescribe a term preventing an air carrier from adding or changing schedules, equipment, accommodations, and facilities for providing the authorized transportation to satisfy business development and public demand.
 

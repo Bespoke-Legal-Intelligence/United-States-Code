@@ -148,7 +148,7 @@ With respect to meeting the conditions specified in subsection (c)(4) of this se
 
 &emsp;(1) the school has formed a consortium in accordance with subsection (d)(1) of this section; and
 
-&emsp;(2) the schools of the consortium collectively meet such conditions, without regard towhether the schools individually meet such conditions.
+&emsp;(2) the schools of the consortium collectively meet such conditions, without regard to whether the schools individually meet such conditions.
 
 #### (f) Duration of grant
 
@@ -226,7 +226,7 @@ In this section:
 
 #### (A) In general
 
-&emsp;&emsp;With respect to activities for which a grant made under this part are authorized to be expended, the Secretary may not make such a grant to a center of excellence for any fiscal year unless the center agrees tomaintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the center for the fiscal year preceding the fiscal year for which the school receives such a grant.
+&emsp;&emsp;With respect to activities for which a grant made under this part are authorized to be expended, the Secretary may not make such a grant to a center of excellence for any fiscal year unless the center agrees to maintain expenditures of non-Federal amounts for such activities at a level that is not less than the level of such expenditures maintained by the center for the fiscal year preceding the fiscal year for which the school receives such a grant.
 
 #### (B) Use of Federal funds
 

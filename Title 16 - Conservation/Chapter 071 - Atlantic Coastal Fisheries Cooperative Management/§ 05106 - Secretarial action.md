@@ -66,7 +66,7 @@ During the time in which a moratorium under this section is in effect, it is unl
 
 #### (g) Civil forfeitures
 
-(1) Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or as the result of, the commission of any act that is unlawful under subsection (e) of this section, shall be subject to forfeiture to the United States as provided in section 310 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1860).
+(1) Any vessel (including its gear, equipment, appurtenances, stores, and cargo) used, and any fish (or the fair market value thereof) taken or retained, in any manner, in connection with, or as the result of, the commission of any act that is unlawful under subsection (e) of this section,shall be subject to forfeiture to the United States as provided in section 310 of the Magnuson-Stevens Fishery Conservation and Management Act (16 U.S.C. 1860).
 
 (2) Any fish seized pursuant to this chapter may be disposed of pursuant to the order of a court of competent jurisdiction or, if perishable, in a manner prescribed in regulation.
 
@@ -83,4 +83,8 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 #### Amendments
 
 2000—Subsecs. (f) to (h). Pub. L. 106—555 substituted “Magnuson-Stevens Fishery” for “Magnuson Fishery” wherever appearing.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -222,6 +222,10 @@ The date of enactment of the Transportation Equity Act for the 21st Century, ref
 
 A prior section 502, added Pub. L. 90–495, §30, Aug. 23, 1968, 82 Stat. 831, related to State assurances of adequate highway relocation assistance program, prior to repeal by Pub. L. 91–646, title II, §220(a)(10), Jan. 2, 1971, 84 Stat. 1903.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Study of Future Strategic Highway Research Program
 
 Pub. L. 105–178, title V, §5112, June 9, 1998, 112 Stat. 445, provided that:
@@ -430,7 +434,7 @@ In general.—The Center shall—
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) make information available to State transportation departments, the Federal Highway Administration, the construction industry, and other interested parties to assist in evaluating proposals to use traditional and nontraditional recycled and secondary materials in transportation infrastructure construction;
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) encourage the increased use of traditional and nontraditional recycled and secondary materials by using sound science to analyze thoroughly all potential long-term considerations that affect the physical and environmental performance of the materials; and
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(III) encourage the increased use of traditional and nontraditional recycled and secondary materials by using sound science to analyzethoroughly all potential long-term considerations that affect the physical and environmental performance of the materials; and
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(IV) work cooperatively with Federal and State officials to reduce the institutional barriers that limit widespread use of traditional and nontraditional recycled and secondary materials and to ensure that such increased use is consistent with the sustained environmental and physical integrity of the infrastructure in which the materials are used.
 
@@ -476,7 +480,7 @@ Pub. L. 105–178, title V, subtitle C, June 9, 1998, 112 Stat. 452, as amended 
 
 &emsp;“(1) investments authorized by the Intermodal Surface Transportation Efficiency Act of 1991 (105 Stat. 1914 et seq.) \[Pub. L. 104–240, see Tables for classification\] have demonstrated that intelligent transportation systems can mitigate surface transportation problems in a cost-effective manner; and
 
-&emsp;“(2) continued investment in architecture and standards development, research, and systems integration is needed to accelerate the rate at which intelligent transportation systems are incorporatedinto the national surface transportation network, thereby improving transportation safety and efficiency and reducing costs and negative impacts on communities and the environment.
+&emsp;“(2) continued investment in architecture and standards development, research, and systems integration is needed to accelerate the rate at which intelligent transportation systems are incorporated into the national surface transportation network, thereby improving transportation safety and efficiency and reducing costs and negative impacts on communities and the environment.
 
 #### “SEC. 5203. GOALS AND PURPOSES.
 
@@ -530,7 +534,7 @@ Consultation With Federal Officials.—In carrying out the intelligent transport
 
 “(e)
 
-Technical Assistance, Training, and Information.—The Secretary may provide technical assistance, training, and information to State and local governments seeking to implement, operate, maintain, or evaluate intelligent transportation system technologies and services.
+Technical Assistance, Training, and Information.—The Secretary may provide technical assistance, training, and information to State and local governments seeking to implement, operate, maintain, orevaluate intelligent transportation system technologies and services.
 
 “(f)
 
@@ -602,7 +606,7 @@ Objectivity and independence.—The guidelines and requirements issued under sub
 
 &emsp;&emsp;“(C)
 
-Funding.—The guidelines and requirements issued under subparagraph (A) shall establish evaluation funding levels based on the size and scope ofeach test or project that ensure adequate evaluation of the results of the test or project.
+Funding.—The guidelines and requirements issued under subparagraph (A) shall establish evaluation funding levels based on the size and scope of each test or project that ensure adequate evaluation of the results of the test or project.
 
 &emsp;“(2)
 
@@ -766,7 +770,7 @@ Selection of Projects.—Under the program, the Secretary shall give priority to
 
 &emsp;“(3) encourage private sector involvement and financial commitment, to the maximum extent practicable, through innovative financial arrangements, especially public-private partnerships, including arrangements that generate revenue to offset public investment costs;
 
-&emsp;“(4) demonstrate commitment to a comprehensive plan of fully integrated intelligent transportation system deployment in accordance with the national architecture and standards and protocols established under section 5206;
+&emsp;“(4) demonstrate commitment to a comprehensive plan of fully integrated intelligent transportationsystem deployment in accordance with the national architecture and standards and protocols established under section 5206;
 
 &emsp;“(5) are part of approved plans and programs developed under applicable statewide and metropolitan transportation planning processes and applicable State air quality implementation plans, as appropriate, at the time at which Federal funds are sought;
 

@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(III) the number of minority children who graduated from secondary and postsecondary education programs; and
 
-&emsp;&emsp;&emsp;(ii) the performance of children with disabilities from minority backgrounds onState assessments and other performance indicators established for all students;
+&emsp;&emsp;&emsp;(ii) the performance of children with disabilities from minority backgrounds on State assessments and other performance indicators established for all students;
 
 &emsp;&emsp;(D) measure educational and transitional services and results of children with disabilities under this chapter, including longitudinal studies that—
 
@@ -112,7 +112,7 @@ The Secretary shall provide directly, or through grants, contracts, or cooperati
 
 #### (2) Maximum amount
 
-&emsp;For the first fiscal year in which the amount described in paragraph (1) is at least $20,000,000, the maximum amount the Secretary may reserve under paragraph (1) is $20,000,000. For each subsequent fiscal year, the maximum amount the Secretary may reserve under paragraph (1) is $20,000,000, increased by the cumulative rate of inflationsince the fiscal year described in the previous sentence.
+&emsp;For the first fiscal year in which the amount described in paragraph (1) is at least $20,000,000, the maximum amount the Secretary may reserve under paragraph (1) is $20,000,000. For each subsequent fiscal year, the maximum amount the Secretary may reserve under paragraph (1) is $20,000,000, increased by the cumulative rate of inflation since the fiscal year described in the previous sentence.
 
 #### (3) Use of maximum amount
 
@@ -132,7 +132,7 @@ Section 1476, Pub. L. 91–230, title VI, §675, as added Pub. L. 99–457, titl
 
 Section 1477, Pub. L. 91–230, title VI, §677, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1149; amended Pub. L. 100–630, title I, §108(f), Nov. 7, 1988, 102 Stat. 3301; Pub. L. 101–476, title IX, §901(b)(174)–(176), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§14, 25(b), Oct. 7, 1991, 105 Stat. 597, 607, related to the individualized family service plan.
 
-Section 1478, Pub. L. 91–230, title VI, §678, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1150; amended Pub. L. 100–630, title I, §108(g), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, §901(b)(177), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§15, 25(b), Oct. 7, 1991, 105 Stat. 597, 607, related to contents of State application, statement of assurances, and approval process.
+Section 1478, Pub. L. 91–230, title VI, §678, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1150;amended Pub. L. 100–630, title I, §108(g), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, §901(b)(177), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§15, 25(b), Oct. 7, 1991, 105 Stat. 597, 607, related to contents of State application, statement of assurances, and approval process.
 
 Section 1479, Pub. L. 91–230, title VI, §679, as added Pub. L. 99–457, title I, §101(a), Oct. 8, 1986, 100 Stat. 1151; amended Pub. L. 100–630, title I, §108(h), Nov. 7, 1988, 102 Stat. 3302; Pub. L. 101–476, title IX, §901(b)(178), Oct. 30, 1990, 104 Stat. 1150; Pub. L. 102–119, §§16, 25(b), Oct. 7, 1991, 105 Stat. 598, 607, related to permissible uses of funds.
 

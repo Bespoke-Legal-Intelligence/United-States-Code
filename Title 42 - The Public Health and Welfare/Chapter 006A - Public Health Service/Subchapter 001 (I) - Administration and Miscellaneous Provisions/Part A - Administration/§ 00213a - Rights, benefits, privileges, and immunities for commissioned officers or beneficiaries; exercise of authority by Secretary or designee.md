@@ -76,7 +76,7 @@ Section was formerly classified to section 316 of title 37 prior to the general 
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–85 applicable only to adoptions completed on or after Nov. 18, 1997, see section 653(c) of Pub. L. 105–85, set out as a note under section 857a of Title 33, Navigation and Navigable Waters.
+Section 653(c) of Pub. L. 105–85 provided that: “The amendments made by this section \[amending this section and former section 857a of Title 33, Navigation and Navigable Waters\] shall apply only to adoptions that are completed on or after the date of the enactment of this Act \[Nov. 18, 1997\].”
 
 #### Effective Date of 1980 Amendment
 

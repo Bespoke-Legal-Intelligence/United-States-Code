@@ -10,7 +10,7 @@
 
 > The allowance may not exceed 25 percent of the rate of basic pay. Except as otherwise specifically authorized by statute, the allowance is paid only in accordance with regulations prescribed by the President establishing the rates and defining the area, groups of positions, and classes of employees to which each rate applies.
 
-(b) An employee entitled to a cost-of-living allowance under section 5924 of this title may not be paid an allowance under subsection (a) of this section based on living costs substantially higher than in the District of Columbia.
+(b) An employee entitled to a cost-of-living allowance under section 5924 of this title may not be paid an allowance under subsection (a) of thissection based on living costs substantially higher than in the District of Columbia.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 512.)
 
@@ -58,9 +58,9 @@ Pub. L. 102–141, title IV, §1, Oct. 28, 1991, 105 Stat. 861, as amended by Pu
 
 #### Ex. Ord. No. 10000. Regulations Governing Additional Compensation and Credit Granted Certain Federal Employees Serving Outside the United States
 
-Ex. Ord. No. 10000, Sept. 16, 1948, 13 F.R. 5453, as amended by Ex. Ord. No. 10636, Sept. 16, 1955, 20 F.R. 7025; Ex. Ord. No. 11938, Sept. 29, 1976, 41 F.R. 43383; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12510, Apr. 17, 1985, 50 F.R. 15535, provided:
+Ex. Ord. No. 10000, Sept. 16, 1948, 13 F.R. 5453, as amended by Ex. Ord. No. 10636, Sept. 16, 1955, 20 F.R. 7025; Ex. Ord. No. 11938, Sept. 29, 1976, 41 F.R. 43383; Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055; Ex. Ord. No. 12510, Apr. 17, 1985, 50 F.R. 15535; Ex. Ord. No. 13207, Apr. 5, 2001, 66 F.R. 18399, provided:
 
-By virtue of the authority vested in me by section 207 of the Independent Offices Appropriation Act, 1949, approved April 20, 1948 (Public Law 491, 80th Congress), as amended by section 104 of the Supplemental Independent Offices Appropriation Act, 1949, approved June 30, 1948 (Public Law 862, 80th Congress), and by sections 303, 443, and 853 of the Foreign Service Act of 1946 (60 Stat. 1002, 1006, 1024), and as President of the United States, I hereby prescribe the following regulations (1) governing the payment of additional compensation to personnel of the United States employed outside the continental United States or in Alaska, under the provisions of the said section 207, as amended, (2) governing the payment of salary differentials to Foreign Service staff officers and employees serving at certainposts, pursuant to the said section 443, and (3) relating to unhealthful foreign posts, pursuant to the said section 853:
+By virtue of the authority vested in me by section 207 of the Independent Offices Appropriation Act, 1949, approved April 20, 1948 (Public Law 491, 80th Congress), as amended by section 104 of the Supplemental Independent Offices Appropriation Act, 1949, approved June 30, 1948 (Public Law 862, 80th Congress), and by sections 303, 443, and 853 of the Foreign Service Act of 1946 (60 Stat. 1002, 1006, 1024), and as President of the United States, I hereby prescribe the following regulations (1) governing the payment of additional compensation to personnel of the United States employed outside the continental United States or in Alaska, under the provisions of the said section 207, as amended, (2) governing the payment of salary differentials to Foreign Service staff officers and employees serving at certain posts, pursuant to the said section 443, and (3) relating to unhealthful foreign posts, pursuant to the said section 853:
 
 #### Part I—Additional Compensation in Foreign Areas
 
@@ -122,7 +122,7 @@ Additional Living Cost Compensation. No executive department, independent establ
 
 Sec. 201.
 
-Definition. As used in this Part, (a) the term “non-foreign areas” includes Alaska, Hawaii, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and such additional areas located outside the continental United States as the Secretary of State shall designate as being within the scope of the provisions of this Part, and (b) the words “section 207 of the Act” have the meaning set forth in section 101 hereof.
+Definition. As used in this Part, the term “non-foreign areas” includes Alaska, Hawaii, the territories and possessions of the United States, the Trust Territory of the Pacific Islands, and such additional areas located outside the continental United States as the Secretary of State shall designate as being within the scope of the provisions of this Part\[.\]
 
 Sec. 202.
 
@@ -146,9 +146,7 @@ Persons Eligible to Receive Non-Foreign Area Post Differential. (a) In order tha
 
 Sec. 205.
 
-Additional Living Cost Compensation. (a) The Office of Personnel Management shall from time to time, subject to applicable law, (1) designate places in non-foreign areas eligible to receive additional compensation by virtue of living costs that are substantially higher than in the Washington, D.C., area, (2) fix for each place so designated an additional rate or rates of compensation by reason of such higher living costs, and (3) prescribe by regulation such additional policies or procedures as may be necessary to administer such compensation. Additional compensation under this section is referred to as a “non-foreign area cost-of-living allowance”.
-
-(b) In fixing the non-foreign area cost-of-living allowances, the Office of Personnel Management shall make appropriate deductions when quarters or subsistence, or commissary or other purchasing privileges are furnished as a result of Federal civilian employment at a cost substantially lower than the prevailing costs in the allowance area concerned.
+Additional Living Cost Compensation. The Office of Personnel Management shall from time to time, subject to applicable law, (1) designate places in non-foreign areas eligible to receive additional compensation by virtue of living costs that are substantially higher than in the Washington, D.C., area, (2) fix for each place so designated an additional rate or rates of compensation by reason of such higher living costs, and (3) prescribe by regulation such additional policies or procedures as may be necessary to administer such compensation. Additional compensation under this section is referred to as a “non-foreign area cost-of-living allowance”.
 
 Sec. 206.
 
@@ -178,7 +176,7 @@ Persons Serving Under Contract. Any other provision of this Part notwithstanding
 
 Sec. 210.
 
-Periodic Review. The Office of Personnel Management shall periodically, but at least annually, review the places designated, the rates fixed, and the regulations prescribed pursuant to this Part, with a view to making such changes therein as will insure that payment of additional compensation under the provisions of this Part shall continue only during the continuance of conditions justifying such payment and shall not in any instance exceed the amount justified: <i>Provided</i>, That if program or methodology revisions would substantially reduce an established differential or allowance rate, then the rate of such additional compensation may be reduced gradually.
+Periodic Review. The Office of Personnel Management shall periodically review the places designated, the rates fixed, and the regulations prescribed pursuant to this Part, with a view to making such changes therein as will insure that payment of additional compensation under the provisions of this Part shall continue only during the continuance of conditions justifying such payment and shall not in any instance exceed the amount justified: <i>Provided</i>, That the rate of such additional compensation may be reduced gradually.
 
 #### Part III—Interim Arrangements
 

@@ -1,6 +1,6 @@
 ### §470a–2. Federal undertakings outside United States; mitigation of adverse effects
 
-Prior to the approval of any Federal undertaking outside the United States which may directly and adversely affect a property which is on the World Heritage List or on the applicable country's equivalent of the National Register, the head of a Federal agency having direct or indirect jurisdiction over such undertaking shall take into account the effect of the undertaking on such property for purposes of avoiding or mitigating any adverse effects.
+Prior to the approval of any Federal undertaking outside the United States which may directly and adversely affect a property which is on the World Heritage List or on the applicablecountry's equivalent of the National Register, the head of a Federal agency having direct or indirect jurisdiction over such undertaking shall take into account the effect of the undertaking on such property for purposes of avoiding or mitigating any adverse effects.
 
 (Pub. L. 96–515, title IV, §402, Dec. 12, 1980, 94 Stat. 3000.)
 

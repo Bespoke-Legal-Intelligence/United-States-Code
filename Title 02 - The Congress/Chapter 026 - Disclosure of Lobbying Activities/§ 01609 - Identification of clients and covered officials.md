@@ -2,7 +2,7 @@
 
 #### (a) Oral lobbying contacts
 
-Any person or entity that makes an oral lobbying contact with a covered legislative branch official or a covered executive branch officialshall, on the request of the official at the time of the lobbying contact—
+Any person or entity that makes an oral lobbying contact with a covered legislative branch official or a covered executive branch official shall, on the request of the official at the time of the lobbying contact—
 
 &emsp;(1) state whether the person or entity is registered under this chapter and identify the client on whose behalf the lobbying contact is made; and
 

@@ -58,7 +58,7 @@ The Rivers and Harbors Act of 1899, referred to in subsec. (b), is act Mar. 3, 1
 
 The Fish and Wildlife Coordination Act referred to in subsec. (e), is act Mar. 10, 1934, ch. 55, 48 Stat. 401, as amended, which is classified generally to sections 661 to 666c of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 661 of Title 16 and Tables.
 
-This Act, referred to in subsec. (g), means Pub. L. 92–532, which is classified generally to this chapter, chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16.
+This Act, referred to in subsec. (g), means Pub. L. 92–532, which is classified generally to this chapter,chapter 41 (§2801 et seq.) of this title, and chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16.
 
 #### Amendments
 

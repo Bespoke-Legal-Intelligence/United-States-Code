@@ -32,7 +32,7 @@ Procedural Requirements.—In developing and implementing a management system un
 
 (e)
 
-Intermodal Requirements.—The management system required under this section forintermodal transportation facilities and systems shall provide for improvement and integration of all of a State's transportation systems and shall include methods of achieving the optimum yield from such systems, methods for increasing productivity in the State, methods for increasing use of advanced technologies, and methods to encourage the use of innovative marketing techniques, such as just-in-time deliveries.
+Intermodal Requirements.—The management system required under this section for intermodal transportation facilities and systems shall provide for improvement and integration of all of a State's transportation systems and shall include methods of achieving the optimum yield from such systems, methods for increasing productivity in the State, methods for increasing use of advanced technologies, and methods to encourage the use of innovative marketing techniques, such as just-in-time deliveries.
 
 (f)
 

@@ -2,7 +2,7 @@
 
 #### (a) Initiative required
 
-The Secretary of Agriculture shall provide for a research initiative (to be known as the “Thomas Jefferson Initiative for Crop Diversification”) for the purpose of conducting research and development, in cooperation with other public and private entities, on the production and marketing of new and nontraditional crops needed to strengthen and diversify the agricultural production base of the United States.
+The Secretary of Agriculture shall provide for a research initiative (to be known as the “Thomas Jefferson Initiative for Crop Diversification”) for the purpose of conducting research and development, in cooperation with other public and private entities, on the production, marketing, and efficient use of new and nontraditional crops needed to strengthen and diversify the agricultural production base of the United States.
 
 #### (b) Research and education efforts
 
@@ -64,7 +64,13 @@ The Secretary may award funds under this section to colleges or universities, no
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007.
 
-(Pub. L. 105–185, title IV, §405, June 23, 1998, 112 Stat. 572.)
+(Pub. L. 105–185, title IV, §405, June 23, 1998, 112 Stat. 572; Pub. L. 107–171, title VII, §§7130, 7207(b), May 13, 2002, 116 Stat. 435, 440.)
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171, §7207(b), substituted “production, marketing, and efficient use” for “production and marketing”.
+
+Subsec. (h). Pub. L. 107–171, §7130, substituted “2007” for “2002”.
 

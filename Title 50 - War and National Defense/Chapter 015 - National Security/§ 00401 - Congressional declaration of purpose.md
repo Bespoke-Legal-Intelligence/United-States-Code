@@ -22,6 +22,10 @@ Section 310 of act July 26, 1947, provided:
 
 “(b) Except as provided in subsection (a), the provisions of this Act \[sections 171 to 171<i>l</i>, 181–1, 181–2, 411a, 411b, 626 to 626d of former Title 5, section 24 of Title 3, The President, and sections 401 to 405 of this title\] shall take effect on whichever of the following days is the earlier: The day after the day upon which the Secretary of Defense first appointed takes office, or the sixtieth day after the date of the enactment of this Act \[July 26, 1947\].”
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–306, title IX, §901(a), Nov. 27, 2002, 116 Stat. 2432, provided that: “This title \[enacting sections 402b and 402c of this title, amending section 402a of this title, and enacting provisions set out as a note under section 402b of this title\] may be cited as the ‘Counterintelligence Enhancement Act of 2002’.”
+
 #### Short Title of 1996 Amendment
 
 Pub. L. 104–293, title VIII, §801, Oct. 11, 1996, 110 Stat. 3474, provided that: “This title \[enacting sections 403, 403–1, 403–5a, and 403t of this title, amending sections 402, 403, 403–3 to 403–6, and 404d of this title and sections 5314 and 5315 of Title 5, Government Organization and Employees, repealing former section 403 of this title, and enacting provisions set out as notes under sections 403–3, 403–4, and 403t of this title\] may be cited as the ‘Intelligence Renewal and Reform Act of 1996’.”
@@ -32,7 +36,7 @@ Pub. L. 103–359, title VIII, §801, Oct. 14, 1994, 108 Stat. 3434, provided th
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–496, title VII, §701, Oct. 24, 1992, 106 Stat. 3188, provided that: “This title \[enacting sections 401a and 403–3 to 403–6 of this title, amending sections 402, 403, 404, and 404a of this title, and repealing section 403–1 of this title\] may be cited as the ‘Intelligence Organization Act of 1992’.”
+Pub. L. 102–496, title VII, §701, Oct. 24, 1992, 106 Stat. 3188, provided that: “This title \[enacting sections 401aand 403–3 to 403–6 of this title, amending sections 402, 403, 404, and 404a of this title, and repealing section 403–1 of this title\] may be cited as the ‘Intelligence Organization Act of 1992’.”
 
 #### Short Title of 1984 Amendment
 
@@ -44,7 +48,7 @@ Pub. L. 97–200, §1, June 23, 1982, 96 Stat. 122, provided: “That this Act \
 
 #### Short Title of 1949 Amendment
 
-Section 1 of act Aug. 10, 1949, provided that: “This Act \[enacting sections 408 and 412 of this title and sections 171–1, 171t, 172, 172a to 172d, and 172f to 172j of former Title 5, Executive Departments and Government Officers and Employees, amending this section, sections 151, 402, 403d, 405, 410, 459, 481, and 494 of this title, sections 171, 171a, 171b to 171d, 171e to 171j, 171n, 171r, 172e, 411b, and 626c of former Title 5, section 1748b of Title 12, Banks and Banking, section 1517 of Title 15,Commerce and Trade, sections 474, 481 to 484, and 487 of Title 40, Public Buildings, Property, and Works, section 364a of Title 43, Public Lands, sections 1156 and 1157 of former Title 49, Transportation, and section 1193 of the Appendix to this title, and enacting provisions set out as notes under this section and sections 171 and 171c of former Title 5\] may be cited as the ‘National Security Act Amendments of 1949’.”
+Section 1 of act Aug. 10, 1949, provided that: “This Act \[enacting sections 408 and 412 of this title and sections 171–1, 171t, 172, 172a to 172d, and 172f to 172j of former Title 5, Executive Departments and Government Officers and Employees, amending this section, sections 151, 402, 403d, 405, 410, 459, 481, and 494 of this title, sections 171, 171a, 171b to 171d, 171e to 171j, 171n, 171r, 172e, 411b, and 626c of former Title 5, section 1748b of Title 12, Banks and Banking, section 1517 of Title 15, Commerce and Trade, sections 474, 481 to 484, and 487 of former Title 40, Public Buildings, Property, and Works, section 364a of Title 43, Public Lands, sections 1156 and 1157 of former Title 49, Transportation, and section 1193 of the Appendix to this title, and enacting provisions set out as notes under this section and sections 171 and 171c of former Title 5\] may be cited as the ‘National Security Act Amendments of 1949’.”
 
 #### Short Title
 
@@ -108,6 +112,254 @@ Section 12(g) of act Aug. 10, 1949, provided: “All laws, orders, regulations, 
 Section 309 of act July 26, 1947, provided: “If any provision of this Act \[see Short Title note above\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of the application of such provision to other persons and circumstances shall not be affected thereby.”
 
 \[Section 310(a) of act July 26, 1947, set out as an Effective Date note above, provided that section 309 of act July 26, 1947, is effective July 26, 1947.\]
+
+#### National Commission for Review of Research and Development Programs of the United States Intelligence Community
+
+Pub. L. 107–306, title X, Nov. 27, 2002, 116 Stat. 2437, provided that:
+
+#### “SEC. 1001. FINDINGS.
+
+“Congress makes the following findings:
+
+&emsp;“(1) Research and development efforts under the purview of the intelligence community are vitally important to the national security of the United States.
+
+&emsp;“(2) The intelligence community must operate in a dynamic, highly-challenging environment, characterized by rapid technological growth, against a growing number of hostile, technically-sophisticated threats.Research and development programs under the purview of the intelligence community are critical to ensuring that intelligence agencies, and their personnel, are provided with important technological capabilities to detect, characterize, assess, and ultimately counter the full range of threats to the national security of the United States.
+
+&emsp;“(3) There is a need to review the full range of current research and development programs under the purview of the intelligence community, evaluate such programs against the scientific and technological fields judged to be of most importance, and articulate program and resource priorities for future research and development activities to ensure a unified and coherent research and development program across the entire intelligence community.
+
+#### “SEC. 1002. NATIONAL COMMISSION FOR THE REVIEW OF THE RESEARCH AND DEVELOPMENT PROGRAMS OF THE UNITED STATES INTELLIGENCE COMMUNITY.
+
+“(a)
+
+Establishment.—There is established a commission to be known as the ‘National Commission for the Review of the Research and Development Programs of the United States Intelligence Community’ (in this title referred to as the ‘Commission’).
+
+“(b)
+
+Composition.—The Commission shall be composed of 12 members, as follows:
+
+&emsp;“(1) The Deputy Director of Central Intelligence for Community Management.
+
+&emsp;“(2) A senior intelligence official of the Office of the Secretary of Defense, as designated by the Secretary of Defense.
+
+&emsp;“(3) Three members appointed by the majority leader of the Senate, in consultation with the Chairman of the Select Committee on Intelligence of the Senate, one from Members of the Senate and two from private life.
+
+&emsp;“(4) Two members appointed by the minority leader of the Senate, in consultation with the Vice Chairman of the Select Committee on Intelligence of the Senate, one from Members of the Senate and one from private life.
+
+&emsp;“(5) Three members appointed by the Speaker of the House of Representatives, in consultation with the Chairman of the Permanent Select Committee on Intelligence of the House of Representatives, one from Members of the House of Representatives and two from private life.
+
+&emsp;“(6) Two members appointed by the minority leader of the House of Representatives, in consultation with the ranking member of the Permanent Select Committee on Intelligence of the House of Representatives, one from Members of the House of Representatives and one from private life.
+
+“(c)
+
+Membership.—(1) The individuals appointed from private life as members of the Commission shall be individuals who are nationally recognized for expertise, knowledge, or experience in—
+
+&emsp;“(A) research and development programs;
+
+&emsp;“(B) technology discovery and insertion;
+
+&emsp;“(C) use of intelligence information by national policymakers and military leaders; or
+
+&emsp;“(D) the implementation, funding, or oversight of the national security policies of the United States.
+
+“(2) An official who appoints members of the Commission may not appoint an individual as a member of the Commission if, in the judgment of the official, such individual possesses any personal or financial interest in the discharge of any of the duties of the Commission.
+
+“(3) All members of the Commission appointed from private life shall possess an appropriate security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
+
+“(d)
+
+Co-Chairs.—(1) The Commission shall have two co-chairs, selected from among the members of the Commission.
+
+“(2) One co-chair of the Commission shall be a member of the Democratic Party, and one co-chair shall be a member of the Republican Party.
+
+“(3) The individuals who serve as the co-chairs of the Commission shall be jointly agreed upon by the President, the majority leader of the Senate, the minority leader of the Senate, the Speaker of the House of Representatives, and the minority leader of the House of Representatives.
+
+“(e)
+
+Appointment; Initial Meeting.—(1) Members of the Commission shall be appointed not later than 45 days after the date of the enactment of this Act \[Nov. 27, 2002\].
+
+“(2) The Commission shall hold its initial meeting on the date that is 60 days after the date of the enactment of this Act.
+
+“(f)
+
+Meetings; Quorum; Vacancies.—(1) After its initial meeting, the Commission shall meet upon the call of the co-chairs of the Commission.
+
+“(2) Six members of the Commission shall constitute a quorum for purposes of conducting business, except that two members of the Commission shall constitute a quorum for purposes of receiving testimony.
+
+“(3) Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.
+
+“(4) If vacancies in the Commission occur on any day after 45 days after the date of the enactment of this Act \[Nov. 27, 2002\], a quorum shall consist of a majority of the members of the Commission as of such day.
+
+“(g)
+
+Actions of Commission.—(1) The Commission shall act by resolution agreed to by a majority of the members of the Commission voting and present.
+
+“(2) The Commission may establish panels composed of less than the full membership of the Commission for purposes of carrying out the duties of the Commission under this title. The actions of any such panel shall be subject to the review and control of the Commission. Any findings and determinations made by such a panel shall not be considered the findings and determinations of the Commission unless approved by the Commission.
+
+“(3) Any member, agent, or staff of the Commission may, if authorized by the co-chairs of the Commission, take any action which the Commission is authorized to take pursuant to this title.
+
+“(h)
+
+Duties.—The duties of the Commission shall be—
+
+&emsp;“(1) to conduct, until not later than the date on which the Commission submits the report under section 1007(a), the review described in subsection (i); and
+
+&emsp;“(2) to submit to the congressional intelligence committees, the Director of Central Intelligence, and the Secretary of Defense a final report on the results of the review.
+
+“(i)
+
+Review.—The Commission shall review the status of research and development programs and activities within the intelligence community, including—
+
+&emsp;“(1) an assessment of the advisability of modifying the scope of research and development for purposes of such programs and activities;
+
+&emsp;“(2) a review of the particular individual research and development activities under such programs;
+
+&emsp;“(3) an evaluation of the current allocation of resources for research and development, including whether the allocation of such resources for that purpose should be modified;
+
+&emsp;“(4) an identification of the scientific and technological fields judged to be of most importance to the intelligence community;
+
+&emsp;“(5) an evaluation of the relationship between the research and development programs and activities of the intelligence community and the research and development programs and activities of other departments and agencies of the Federal Government; and
+
+&emsp;“(6) an evaluation of the relationship between the research and development programs and activities of the intelligence community and the research and development programs and activities of the private sector.
+
+#### “SEC. 1003. POWERS OF COMMISSION.
+
+“(a)
+
+In General.—(1) The Commission or, on the authorization of the Commission, any subcommittee ormember thereof, may, for the purpose of carrying out the provisions of this title—
+
+&emsp;“(A) hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, and administer such oaths; and
+
+&emsp;“(B) require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Commission or such designated subcommittee or designated member considers necessary.
+
+“(2) Subpoenas may be issued under subparagraph (1)(B) under the signature of the co-chairs of the Commission, and may be served by any person designated by such co-chairs.
+
+“(3) The provisions of sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192–194) shall apply in the case of any failure of a witness to comply with any subpoena or to testify when summoned under authority of this section.
+
+“(b)
+
+Contracting.—The Commission may, to such extent and in such amounts as are provided in advance in appropriation Acts, enter into contracts to enable the Commission to discharge its duties under this title.
+
+“(c)
+
+Information From Federal Agencies.—The Commission may secure directly from any executive department, agency, bureau, board, commission, office, independent establishment, or instrumentality of the Government information, suggestions, estimates, and statistics for the purposes of this title. Each such department, agency, bureau, board, commission, office, establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request of the co-chairs of the Commission. The Commission shall handle and protect all classified information provided to it under this section in accordance with applicable statutes and regulations.
+
+“(d)
+
+Assistance From Federal Agencies.—(1) The Director of Central Intelligence shall provide to the Commission, on a nonreimbursable basis, such administrative services, funds, staff, facilities, and other support services as are necessary for the performance of the Commission's duties under this title.
+
+“(2) The Secretary of Defense may provide the Commission, on a nonreimbursable basis, with such administrative services, staff, and other support services as the Commission may request.
+
+“(3) In addition to the assistance set forth in paragraphs (1) and (2), other departments and agencies of the United States may provide the Commission such services, funds, facilities, staff, and other support as such departments and agencies consider advisable and as may be authorized by law.
+
+“(4) The Commission shall receive the full and timely cooperation of any official, department, or agency of the United States Government whose assistance is necessary for the fulfillment of the duties of the Commission under this title, including the provision of full and current briefings and analyses.
+
+“(e)
+
+Prohibition on Withholding Information.—No department or agency of the Government may withhold information from the Commission on the grounds that providing the information to the Commission would constitute the unauthorized disclosure of classified information or information relating to intelligence sources or methods.
+
+“(f)
+
+Postal Services.—The Commission may use the United States mails in the same manner and under the same conditions as the departments and agencies of the United States.
+
+“(g)
+
+Gifts.—The Commission may accept, use, and dispose of gifts or donations of services or property in carrying out its duties under this title.
+
+#### “SEC. 1004. STAFF OF COMMISSION.
+
+“(a)
+
+In General.—(1) The co-chairs of the Commission, in accordance with rules agreed upon by the Commission, shall appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its duties, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable to a person occupying a position at level V of the Executive Schedule under section 5316 of such title.
+
+“(2) Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+
+“(3) All staff of the Commission shall possess a security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
+
+“(b)
+
+Consultant Services.—(1) The Commission may procure the services of experts and consultants in accordance with section 3109 of title 5, United States Code, but at rates not to exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under section 5315 of such title.
+
+“(2) All experts and consultants employed by the Commission shall possess a security clearance in accordance with applicable laws and regulations concerning the handling of classified information.
+
+#### “SEC. 1005. COMPENSATION AND TRAVEL EXPENSES.
+
+“(a)
+
+Compensation.—(1) Except as provided in paragraph (2), each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission under this title.
+
+“(2) Members of the Commission who are officers or employees of the United States or Members of Congress shall receive no additional pay by reason of their service on the Commission.
+
+“(b)
+
+Travel Expenses.—While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission may be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703 of title 5, United States Code.
+
+#### “SEC. 1006. TREATMENT OF INFORMATION RELATING TO NATIONAL SECURITY.
+
+“(a)
+
+In General.—(1) The Director of Central Intelligence shall assume responsibility for the handling and disposition of any information related to the national security of the United States that is received, considered, or used by the Commission under this title.
+
+“(2) Any information related to the national security of the United States that is provided to the Commission by a congressional intelligence committee may not be further provided or released without the approval of the chairman of such committee.
+
+“(b)
+
+Access After Termination of Commission.—Notwithstanding any other provision of law, after the termination of the Commission under section 1007, only the Members and designated staff of the congressional intelligence committees, the Director of Central Intelligence (and the designees of the Director), and such other officials of the executive branch as the President may designate shall have access to information related to the national security of the United States that is received, considered, or used by the Commission.
+
+#### “SEC. 1007. FINAL REPORT; TERMINATION.
+
+“(a)
+
+Final Report.—Not later than September 1, 2003, the Commission shall submit to the congressional intelligence committees, the Director of Central Intelligence, and the Secretary of Defense a final report as required by section 1002(h)(2).
+
+“(b)
+
+Termination.—(1) The Commission, and all the authorities of this title, shall terminate at the end of the 120-day period beginning on the date on which the final report under subsection (a) is transmitted to the congressional intelligence committees.
+
+“(2) The Commission may use the 120-day period referred to in paragraph (1) for the purposes of concluding its activities, including providing testimony to Congress concerning the final report referred to in that paragraph and disseminating the report.
+
+#### “SEC. 1008. ASSESSMENTS OF FINAL REPORT.
+
+“Not later than 60 days after receipt of the final report under section 1007(a), the Director of Central Intelligence and the Secretary of Defense shall each submit to the congressional intelligence committees an assessment by the Director or the Secretary, as the case may be, of the final report. Each assessment shall include such comments on the findings and recommendations contained in the final report as the Director or Secretary, as the case may be, considers appropriate.
+
+#### “SEC. 1009. INAPPLICABILITY OF CERTAIN ADMINISTRATIVE PROVISIONS.
+
+“(a)
+
+Federal Advisory Committee Act.—The provisions of the Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the activities of the Commission under this title.
+
+“(b)
+
+Freedom of Information Act.—The provisions of section 552 of title 5, United States Code (commonly referred to as the Freedom of Information Act), shall not apply to the activities, records, and proceedings of the Commission under this title.
+
+#### “SEC. 1010. FUNDING.
+
+“(a)
+
+Transfer From the Community Management Account.—Of the amounts authorized to be appropriated by this Act \[see Tables for classification\] for the Intelligence Technology Innovation Center of the Community Management Account, the Deputy Director of Central Intelligence for Community Management shall transfer to the Director of Central Intelligence $2,000,000 for purposes of the activities of the Commission under this title.
+
+“(b)
+
+Availability in General.—The Director of Central Intelligence shall make available to the Commission, from the amount transferred to the Director under subsection (a), such amounts as the Commission may require for purposes of the activities of the Commission under this title.
+
+“(c)
+
+Duration of Availability.—Amounts made available to the Commission under subsection (b) shall remain available until expended.
+
+#### “ SEC. 1011. DEFINITIONS.
+
+“In this title:
+
+&emsp;“(1)
+
+Congressional intelligence committees.—The term ‘congressional intelligence committees’ means—
+
+&emsp;&emsp;“(A) the Select Committee on Intelligence of the Senate; and
+
+&emsp;&emsp;“(B) the Permanent Select Committee on Intelligence of the House of Representatives.
+
+&emsp;“(2)
+
+Intelligence community.—The term ‘intelligence community’ has the meaning given that term in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)).”
 
 #### National Commission for the Review of the National Reconnaissance Office
 
@@ -363,199 +615,7 @@ Duration of Availability.—Amounts made available to the Commission under subse
 
 #### Commission on Roles and Capabilities of United States Intelligence Community
 
-Pub. L. 103–359, title IX, Oct. 14, 1994, 108 Stat. 3456, provided that:
-
-#### “SEC. 901. ESTABLISHMENT.
-
-“There is established a commission to be known as the Commission on the Roles and Capabilities of the United States Intelligence Community (hereafter in this title referred to as the ‘Commission’).
-
-#### “SEC. 902. COMPOSITION AND QUALIFICATIONS.
-
-“(a)
-
-Membership.—(1) The Commission shall be composed of 17 members, as follows:
-
-&emsp;“(A) Nine members shall be appointed by the President from private life, no more than four of whom shall have previously held senior leadership positions in the intelligence community and no more than five of whom shall be members of the same political party.
-
-&emsp;“(B) Two members shall be appointed by the majority leader of the Senate, of whom one shall be a Member of the Senate and one shall be from private life.
-
-&emsp;“(C) Two members shall be appointed by the minority leader of the Senate, of whom one shall be a Member of the Senate and one shall be from private life.
-
-&emsp;“(D) Two members shall be appointed by the Speaker of the House of Representatives, of whom one shall be a Member of the House and one shall be from private life.
-
-&emsp;“(E) Two members shall be appointed by the Minority Leader of the House of Representatives, of whom one shall be a Member of the House and one shall be from private life.
-
-“(2) The members of the Commission appointed from private life under paragraph (1) shall be persons of demonstrated ability and accomplishment in government, business, law, academe, journalism, or other profession, who have a substantial background in national security matters.
-
-“(b)
-
-Chairman and Vice Chairman.—The President shall designate two of the members appointed from private life to serve as Chairman and Vice Chairman, respectively, of the Commission.
-
-“(c)
-
-Period of Appointment; Vacancies.—Members shall be appointed for the life of the Commission. Any vacancy in the Commission shall not affect its powers but shall be filled in the same manner as the original appointment.
-
-“(d)
-
-Deadline for Appointments.—The appointments required by subsection (a) shall be made within 45 days after the date of enactment of this Act \[Oct. 14, 1994\].
-
-“(e)
-
-Meetings.—(1) The Commission shall meet at the call of the Chairman.
-
-“(2) The Commission shall hold its first meeting not later than four months after the date of enactment of this Act.
-
-“(f)
-
-Quorum.—Nine members of the Commission shall constitute a quorum, but a lesser number of members may hold hearings, take testimony, or receive evidence.
-
-“(g)
-
-Security Clearances.—Appropriate security clearances shall be required for members of the Commission who are private United States citizens. Such clearances shall be processed and completed on an expedited basis by appropriate elements of the executive branch of Government and shall, in any case, be completed within 90 days of the date such members are appointed.
-
-“(h)
-
-Application of Certain Provisions of Law.—In light of the extraordinary and sensitive nature of its deliberations, the provisions of the Federal Advisory Committee Act (5 U.S.C. App.), and the regulations prescribed by the Administrator of General Services pursuant to that Act, shall not apply to the Commission. Further, the provisions of section 552 of title 5, United States Code (commonly known as the ‘Freedom of Information Act’), shall not apply to the Commission; however, records of the Commission shall be subject to the Federal Records Act \[probably means chapters 21 to 31 of Title 44, Public Printing and Documents\] and, when transferred to the National Archives and Records Agency, shall no longer be exempt from the provisions of such section 552.
-
-#### “SEC. 903. DUTIES OF THE COMMISSION.
-
-“(a)
-
-In General.—It shall be the duty of the Commission—
-
-&emsp;“(1) to review the efficacy and appropriateness of the activities of the United States intelligence community in the post-cold war global environment; and
-
-&emsp;“(2) to prepare and transmit the reports described in section 904.
-
-“(b)
-
-Implementation.—In carrying out subsection (a), the Commission shall specifically consider the following:
-
-&emsp;“(1) What should be the roles and missions of the intelligence community in terms of providing support to the defense and foreign policy establishments and how should these relate to tactical intelligence activities.
-
-&emsp;“(2) Whether the roles and missions of the intelligence community should extend beyond the traditional areas of providing support to the defense and foreign policy establishments, and, if so, what areas should be considered legitimate for intelligence collection and analysis, and whether such areas should include, for example, economic issues, environmental issues, and health issues.
-
-&emsp;“(3) What functions, if any, should continue to be assigned to the organizations of the intelligence community, including the Central Intelligence Agency, and what capabilities should these organizations retain for the future.
-
-&emsp;“(4) Whether the existing organization and management framework of the organizations of the intelligence community, including the Central Intelligence Agency, provide the optimal structure for the accomplishment of their missions.
-
-&emsp;“(5) Whether existing principles and strategies governing the acquisition and maintenance of intelligence collection capabilities should be retained and what collection capabilities should the Government retain to meet future contingencies.
-
-&emsp;“(6) Whether intelligence analysis, as it is currently structured and executed, adds sufficient value to information otherwise available to the Government to justify its continuation, and, if so, at what level of resources.
-
-&emsp;“(7) Whether the existing decentralized system of intelligence analysis results in significant waste or duplication, and, if so, what can be done to correct these deficiencies.
-
-&emsp;“(8) Whether the existing arrangements for allocating available resources to accomplish the roles and missions assigned to intelligence agencies are adequate.
-
-&emsp;“(9) Whether the existing framework for coordinating among intelligence agencies with respect to intelligence collection and analysis and other activities, including training and operational activities, provides an optimal structure for such coordination.
-
-&emsp;“(10) Whether current personnel policies and practices of intelligence agencies provide an optimal work force to satisfy the needs of intelligence consumers.
-
-&emsp;“(11) Whether resources for intelligence activities should continue to be allocated as part of the defense budget or be treated by the President and Congress as a separate budgetary program.
-
-&emsp;“(12) Whether the existing levels of resources allocated for intelligence collection or intelligenceanalysis, or to provide a capability to conduct covert actions, are seriously at variance with United States needs.
-
-&emsp;“(13) Whether there are areas of redundant or overlapping activity or areas where there is evidence of serious waste, duplication, or mismanagement.
-
-&emsp;“(14) To what extent, if any, should the budget for United States intelligence activities be publicly disclosed.
-
-&emsp;“(15) To what extent, if any, should the United States intelligence community collect information bearing upon private commercial activity and the manner in which such information should be controlled and disseminated.
-
-&emsp;“(16) Whether counterintelligence policies and practices are adequate to ensure that employees of intelligence agencies are sensitive to security problems, and whether intelligence agencies themselves have adequate authority and capability to address perceived security problems.
-
-&emsp;“(17) The manner in which the size, missions, capabilities, and resources of the United States intelligence community compare to those of other countries.
-
-&emsp;“(18) Whether existing collaborative arrangements between the United States and other countries in the area of intelligence cooperation should be maintained and whether such arrangements should be expanded to provide for increased burdensharing.
-
-&emsp;“(19) Whether existing arrangements for sharing intelligence with multinational organizations in support of mutually shared objectives are adequate.
-
-#### “SEC. 904. REPORTS.
-
-“(a)
-
-Initial Report.—Not later than two months after the first meeting of the Commission, the Commission shall transmit to the congressional intelligence committees a report setting forth its plan for the work of the Commission.
-
-“(b)
-
-Interim Reports.—Prior to the submission of the report required by subsection (c), the Commission may issue such interim reports as it finds necessary and desirable.
-
-“(c)
-
-Final Report.—No later than March 1, 1996, the Commission shall submit to the President and to the congressional intelligence committees a report setting forth the activities, findings, and recommendations of the Commission, including any recommendations for the enactment of legislation that the Commission considers advisable. To the extent feasible, such report shall be unclassified and made available to the public. Such report shall be supplemented as necessary by a classified report or annex, which shall be provided separately to the President and the congressional intelligence committees.
-
-#### “SEC. 905. POWERS.
-
-“(a)
-
-Hearings.—The Commission or, at its direction, any panel or member of the Commission, may, for the purpose of carrying out the provisions of this title, hold hearings, sit and act at times and places, take testimony, receive evidence, and administer oaths to the extent that the Commission or any panel or member considers advisable.
-
-“(b)
-
-Information From Federal Agencies.—The Commission may secure directly from any intelligence agency or from any other Federal department or agency any information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this section. Upon request of the Chairman of the Commission, the head of any such department or agency shall furnish such information expeditiously to the Commission.
-
-“(c)
-
-Postal, Printing and Binding Services.—The Commission may use the United States mails and obtain printing and binding services in the same manner and under the same conditions as other departments and agencies of the Federal Government.
-
-“(d)
-
-Subcommittees.—The Commission may establish panels composed of less than the full membership of the Commission for the purpose of carrying out the Commission's duties. The actions of each such panel shall be subject to the review and control of the Commission. Any findings and determinations made by such a panel shall not be considered the findings and determinations of the Commission unless approved by the Commission.
-
-“(e)
-
-Authority of Individuals To Act for Commission.—Any member or agent of the Commission may, if authorized by the Commission, take any action which the Commission is authorized to take under this title.
-
-#### “SEC. 906. PERSONNEL MATTERS.
-
-“(a)
-
-Compensation of Members.—Each member of the Commission who is a private United States citizen shall be paid, if requested, at a rate equal to the daily equivalent of the annual rate of basic pay payable for level V of the Executive Schedule under section 5316 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Commission. All members of the Commission who are Members of Congress shall serve without compensation in addition to that received for their services as Members of Congress.
-
-“(b)
-
-Travel Expenses.—Each member of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
-
-“(c)
-
-Staff.—
-
-&emsp;“(1)
-
-In general.—The Chairman of the Commission may, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, appoint a staff director and such additional personnel as may be necessary to enable the Commission to perform its duties. The staff director of the Commission shall be appointed from private life, and such appointment shall be subject to the approval of the Commission as a whole. No member of the professional staff may be a current officer or employee of an intelligence agency, except that up to three current employees of intelligence agencies who are on rotational assignment to the Executive Office of the President may serve on the Commission staff, subject to the approval of the Commission as a whole.
-
-&emsp;“(2)
-
-Compensation.—The Chairman of the Commission may fix the pay of the staff director and other personnel without regard to the provisions of chapter 51 and subchapter III of chapter 53 of title 5, United States Code, relating to classification of positions and General Schedule pay rates, except that the rate of pay fixed under this paragraph for the staff director may not exceed the rate payable for level V of the Executive Schedule under section 5316 of such title and the rate of pay for other personnel may not exceed the maximum rate payable for grade GS–15 of the General Schedule.
-
-“(d)
-
-Detail of Government Employees.—Upon request of the Chairman of the Commission, the head of any Federal department or agency may detail, on a nonreimbursable basis, any personnel of that department or agency to the Commission to assist it in carrying out its administrative and clerical functions.
-
-“(e)
-
-Procurement of Temporary and Intermittent Services.—The Chairman of the Commission may procure temporary and intermittent services under section 3109(b) of title 5, United States Code, at rates for individuals which do not exceed the daily equivalent of the annual rate of basic pay payable for level V of the Executive Schedule under section 5316 of such title.
-
-“(f)
-
-Administrative and Support Services.—The Director of Central Intelligence shall furnish the Commission, on a non-reimbursable basis, any administrative and support services requested by the Commission consistent with this title.
-
-#### “SEC. 907. PAYMENT OF COMMISSION EXPENSES.
-
-“The compensation, travel expenses, per diem allowances of members and employees of the Commission,and other expenses of the Commission shall be paid out of funds available to the Director of Central Intelligence for the payment of compensation, travel allowances, and per diem allowances, respectively, of employees of the Central Intelligence Agency.
-
-#### “SEC. 908. TERMINATION OF THE COMMISSION.
-
-“The Commission shall terminate one month after the date of the submission of the report required by section 904(c).
-
-#### “SEC. 909. DEFINITIONS.
-
-“For purposes of this title—
-
-&emsp;“(1) the term ‘intelligence agency’ means any agency, office, or element of the intelligence community;
-
-&emsp;“(2) the term ‘intelligence community’ shall have the same meaning as set forth in section 3(4) of the National Security Act of 1947 (50 U.S.C. 401a(4)); and
-
-&emsp;“(3) the term ‘congressional intelligence committees’ refers to the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives.”
+Pub. L. 103–359, title IX, Oct. 14, 1994, 108 Stat. 3456, related to establishment, composition, duties, reports, powers, payment of expenses, and termination, not later than Mar. 1, 1996, of the Commission on the Roles and Capabilities of the United States Intelligence Community.
 
 #### National Commission on Defense and National Security
 
@@ -671,7 +731,7 @@ Final Report.—The Commission shall transmit to the President and to Congress a
 
 “(c)
 
-Contents of Reports.—The report under subsection (b) shall contain a detailed statement of thefindings and conclusions of the Commission concerning the matters to be studied by the Commission under section 4, together with its recommendations for such legislation and administrative actions as it considers appropriate. Such report shall include a comprehensive description and discussion of the matters set forth in section 4.
+Contents of Reports.—The report under subsection (b) shall contain a detailed statement of the findings and conclusions of the Commission concerning the matters to be studied by the Commission under section 4, together with its recommendations for such legislation and administrative actions as it considers appropriate. Such report shall include a comprehensive description and discussion of the matters set forth in section 4.
 
 “(d)
 
@@ -701,7 +761,7 @@ Experts and Consultants.—Subject to such rules as may be prescribed by the Com
 
 “(e)
 
-Staff of Federal Agencies.—Upon request of the Commission, the head of any Federal agency may detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this Act.
+Staff of Federal Agencies.—Upon request of the Commission, the head of any Federal agency maydetail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this Act.
 
 #### “SEC. 8. POWERS OF COMMISSION
 
@@ -811,7 +871,7 @@ Ex. Ord. No. 12036, Jan. 24, 1978, 43 F.R. 3674, as amended by Ex. Ord. No. 1213
 
 #### Ex. Ord. No. 12333. United States Intelligence Activities
 
-Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, provided:
+Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, as amended by Ex. Ord. No. 13284, §18, Jan. 23, 2003, 68 F.R. 4077, provided:
 
 TABLE OF CONTENTS
 
@@ -1110,7 +1170,7 @@ The heads of departments and agencies with organizations in the Intelligence Com
 
 The Central Intelligence Agency
 
-All duties and responsibilities of the CIA shall be related to the intelligence functions set out below. As authorized by this Order; the National Security Act of 1947, as amended \[see Short Title note above\]; the CIA Act of 1949, as amended \[see Short Title of 1949 Amendment note above\]; appropriate directives or other applicable law, the CIA shall:
+All duties and responsibilities of the CIA shall be related to the intelligence functions set out below. As authorized by this Order; the National Security Act of 1947, as amended \[see Short Title note above\]; the CIA Act of 1949, as amended \[probably means the Central Intelligence Agency Act of 1949, see Short Title note set out under 50 U.S.C. 403a\]; appropriate directives or other applicable law, the CIA shall:
 
 (a) Collect, produce and disseminate foreign intelligence and counterintelligence, including information not otherwise obtainable. The collection of foreign intelligence or counterintelligence within the United States shall be coordinated with the FBI as required by procedures agreed upon by the Director of Central Intelligence and the Attorney General;
 
@@ -1328,7 +1388,7 @@ In addition, agencies within the Intelligence Community may disseminate informat
 
 Collection Techniques
 
-Agencies within the Intelligence Community shall use the least intrusive collection techniques feasible within the United States or directed against United States persons abroad. Agencies are not authorized to use such techniques as electronic surveillance, unconsented physical search, mail surveillance, physical surveillance, or monitoring devices unless they are in accordance with procedures established by the head of the agency concerned and approved by the Attorney General. Such procedures shall protect constitutional and other legal rights and limit use of such information to lawful governmental purposes. These procedures shall not authorize:
+Agencies within the Intelligence Community shall use the least intrusive collection techniques feasiblewithin the United States or directed against United States persons abroad. Agencies are not authorized to use such techniques as electronic surveillance, unconsented physical search, mail surveillance, physical surveillance, or monitoring devices unless they are in accordance with procedures established by the head of the agency concerned and approved by the Attorney General. Such procedures shall protect constitutional and other legal rights and limit use of such information to lawful governmental purposes. These procedures shall not authorize:
 
 (a) The CIA to engage in electronic surveillance within the United States except for the purpose of training, testing, or conducting countermeasures to hostile electronic surveillance;
 
@@ -1392,7 +1452,7 @@ No one acting on behalf of agencies within the Intelligence Community may join o
 
 Human Experimentation
 
-No agency within the Intelligence Community shall sponsor, contract for or conduct research on human subjects except in accordance with guidelines issued by the Department of Health and Human Services. Thesubject's informed consent shall be documented as required by those guidelines.
+No agency within the Intelligence Community shall sponsor, contract for or conduct research on human subjects except in accordance with guidelines issued by the Department of Health and Human Services. The subject's informed consent shall be documented as required by those guidelines.
 
 #### 2\.11
 
@@ -1454,9 +1514,11 @@ For the purposes of this Order, the following terms shall have these meanings:
 
 (5) The Bureau of Intelligence and Research of the Department of State;
 
-(6) The intelligence elements of the Army, Navy, Air Force, and Marine Corps, the Federal Bureau of Investigation (FBI), the Department of the Treasury, and the Department of Energy; and
+(6) The intelligence elements of the Army, Navy, Air Force, and Marine Corps, the Federal Bureau of Investigation (FBI), the Department of the Treasury, and the Department of Energy;
 
-(7) The staff elements of the Director of Central Intelligence.
+(7) The staff elements of the Director of Central Intelligence; and
+
+(8) Those elements of the Department of Homeland Security that are supervised by the Department's Under Secretary for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, with the exception of those functions that involve no analysis of foreign intelligence information.
 
 (g) <i>The National Foreign Intelligence Program</i> includes the programs listed below, but its composition shall be subject to review by the National Security Council and modification by the President:
 
@@ -1486,11 +1548,11 @@ Revocation
 
 Executive Order No. 12036 of January 24, 1978, as amended, entitled “United States Intelligence Activities,” is revoked.
 
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+\[For provisions relating to consideration of Commandant and Assistant Commandant for Intelligence of the Coast Guard as a “Senior Official of the Intelligence Community” for purposes of Ex. Ord. No. 12333, set out above, and all other relevant authorities, see Ex. Ord. No. 13286, §87, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.\]
 
 #### Executive Order No. 12334
 
-Ex. Ord. No. 12334, Dec. 4, 1981, 46 F.R. 59955, as amended by Ex. Ord. No. 12701, Feb. 14, 1990, 55 F.R.5953, which established the President's Intelligence Oversight Board, was revoked by Ex. Ord. No. 12863, §3.3, Sept. 13, 1993, 58 F.R. 48441, set out below.
+Ex. Ord. No. 12334, Dec. 4, 1981, 46 F.R. 59955, as amended by Ex. Ord. No. 12701, Feb. 14, 1990, 55 F.R. 5953, which established the President's Intelligence Oversight Board, was revoked by Ex. Ord. No. 12863, §3.3, Sept. 13, 1993, 58 F.R. 48441, set out below.
 
 #### Ex. Ord. No. 12863. President's Foreign Intelligence Advisory Board
 
@@ -1540,7 +1602,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Act Referred to in Other Sections
 
-The National Security Act of 1947 is referred to in section 47e of this title; section 469 of Appendix to this title; title 21 sections 1704, 1903.
+The National Security Act of 1947 is referred to in sections 47e, 402c of this title; section 469 of Appendix to this title; title 6 section 121; title 21 sections 1704, 1903.
 
 #### Section Referred to in Other Sections
 

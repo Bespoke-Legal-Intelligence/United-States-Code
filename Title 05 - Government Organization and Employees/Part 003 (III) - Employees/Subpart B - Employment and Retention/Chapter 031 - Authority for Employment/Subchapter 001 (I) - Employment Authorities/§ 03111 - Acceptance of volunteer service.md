@@ -10,7 +10,7 @@
 
 &emsp;(3) will not be used to displace any employee.
 
-(c)(1) Except as provided in paragraph (2), any student who provides voluntary service under subsection (b) of this section shall not be considered a Federal employee for any purpose other than for purposes of chapter 81 of this title (relating to compensation for injury) and sections 2671 through 2680 of title 28 (relating to tort claims).
+(c)(1) Except as provided in paragraph (2), any student who provides voluntary service under subsection (b) of this section shall not be considered a Federal employee for any purpose other than for purposes of section 7905 (relating to commuting by means other than single-occupancy motor vehicles), chapter 81 (relating to compensation for injury) and sections 2671 through 2680 of title 28 (relating to tort claims).
 
 (2) In addition to being considered a Federal employee for the purposes specified in paragraph (1), any student who provides voluntary service as part of a program established under subsection (b) of this section in the Internal Revenue Service, Department of the Treasury, shall be considered an employee of the Department of the Treasury for purposes of—
 
@@ -24,9 +24,15 @@
 
 > except that returns and return information (as defined in section 6103(b) of title 26) shall be made available to students under such program only to the extent that the Secretary of the Treasury or his designee determines that the duties assigned to such students so require.
 
-(Added Pub. L. 95–454, title III, §301(a), Oct. 13, 1978, 92 Stat. 1144; amended Pub. L. 97–258, §3(a)(5), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–437, Jan. 8, 1983, 96 Stat. 2285.)
+(d) Notwithstanding section 1342 of title 31, the head of an agency may accept voluntary service for the United States under chapter 37 of this title and regulations of the Office of Personnel Management.
+
+(Added Pub. L. 95–454, title III, §301(a), Oct. 13, 1978, 92 Stat. 1144; amended Pub. L. 97–258, §3(a)(5), Sept. 13, 1982, 96 Stat. 1063; Pub. L. 97–437, Jan. 8, 1983, 96 Stat. 2285; Pub. L. 107–296, title XIII, §1314(b), Nov. 25, 2002, 116 Stat. 2296; Pub. L. 107–347, title II, §209(g)(1)(A), Dec. 17, 2002, 116 Stat. 2931.)
 
 #### Amendments
+
+2002—Subsec. (c)(1). Pub. L. 107–296 substituted “section 7905 (relating to commuting by means other than single-occupancy motor vehicles), chapter 81” for “chapter 81 of this title”.
+
+Subsec. (d). Pub. L. 107–347 added subsec. (d).
 
 1983—Subsec. (c)(1). Pub. L. 97–437, §1(1), substituted “(c)(1) Except as provided in par. (2), any” for “(c) Any”.
 
@@ -34,7 +40,17 @@ Subsec. (c)(2). Pub. L. 97–437, §1(2), added par. (2).
 
 1982—Subsec. (b). Pub. L. 97–258 substituted “section 1342 of title 31” for “section 3679(b) of the Revised Statutes (31 U.S.C. 665(b))”.
 
+#### Effective Date of 2002 Amendments
+
+Amendment by Pub. L. 107–347 effective 120 days after Dec. 17, 2002, see section 402(a) of Pub. L. 107–347, set out as an Effective Date note under section 3601 of Title 44, Public Printing and Documents.
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date
 
 Section effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as an Effective Date of 1978 Amendment note under section 1101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7905 of this title.
 

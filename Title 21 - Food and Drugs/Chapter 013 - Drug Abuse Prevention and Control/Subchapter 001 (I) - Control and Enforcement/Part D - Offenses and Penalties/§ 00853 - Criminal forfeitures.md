@@ -22,7 +22,7 @@ Property subject to criminal forfeiture under this section includes—
 
 #### (c) Third party transfers
 
-All right, title, and interest in property described in subsection (a) of this section vests inthe United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant may be the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (n) of this section that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
+All right, title, and interest in property described in subsection (a) of this section vests in the United States upon the commission of the act giving rise to forfeiture under this section. Any such property that is subsequently transferred to a person other than the defendant may be the subject of a special verdict of forfeiture and thereafter shall be ordered forfeited to the United States, unless the transferee establishes in a hearing pursuant to subsection (n) of this section that he is a bona fide purchaser for value of such property who at the time of purchase was reasonably without cause to believe that the property was subject to forfeiture under this section.
 
 #### (d) Rebuttable presumption
 
@@ -68,7 +68,7 @@ The Government may request the issuance of a warrant authorizing the seizure of 
 
 #### (g) Execution
 
-Upon entry of an order of forfeiture under this section, the court shall authorize the Attorney General to seize all property ordered forfeited upon such terms and conditions as the court shall deem proper. Following entry of an order declaring the property forfeited, the court may, upon application of the United States, enter such appropriate restraining orders or injunctions, require the execution of satisfactory performance bonds, appoint receivers, conservators, appraisers, accountants, or trustees, or take any other action to protect the interest of the United States in the property ordered forfeited. Any income accruing to or derived from property ordered forfeited under this section may beused to offset ordinary and necessary expenses to the property which are required by law, or which are necessary to protect the interests of the United States or third parties.
+Upon entry of an order of forfeiture under this section, the court shall authorize the Attorney General to seize all property ordered forfeited upon such terms and conditions as the court shall deem proper. Following entry of an order declaring the property forfeited, the court may, upon application of the United States, enter such appropriate restraining orders or injunctions, require the execution of satisfactory performance bonds, appoint receivers, conservators, appraisers, accountants, or trustees, or take any other action to protect the interest of the United States in the property ordered forfeited. Any income accruing to or derived from property ordered forfeited under this section may be used to offset ordinary and necessary expenses to the property which are required by law, or which are necessary to protect the interests of the United States or third parties.
 
 #### (h) Disposition of property
 
@@ -168,7 +168,7 @@ The court, when sentencing a defendant convicted of an offense under this subcha
 
 &emsp;(3) order restitution to any person injured as a result of the offense as provided in section 3663A of title 18.
 
-(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II, §207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, §3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, §319(d), Oct. 26, 2001, 115 Stat. 314.)
+(Pub. L. 91–513, title II, §413, as added and amended Pub. L. 98–473, title II, §§303, 2301(d)–(f), Oct. 12, 1984, 98 Stat. 2044, 2192, 2193; Pub. L. 99–570, title I, §§1153(b), 1864, Oct. 27, 1986, 100 Stat. 3207–13, 3207–54; Pub. L. 104–237, title II,§207, Oct. 3, 1996, 110 Stat. 3104; Pub. L. 106–310, div. B, title XXXVI, §3613(a), Oct. 17, 2000, 114 Stat. 1229; Pub. L. 107–56, title III, §319(d), Oct. 26, 2001, 115 Stat. 314.)
 
 #### References in Text
 

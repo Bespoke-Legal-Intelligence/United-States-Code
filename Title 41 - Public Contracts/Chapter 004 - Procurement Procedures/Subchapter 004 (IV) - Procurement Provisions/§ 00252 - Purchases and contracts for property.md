@@ -6,7 +6,7 @@ Executive agencies shall make purchases and contracts for property and services 
 
 &emsp;(1) to the Department of Defense, the Coast Guard, and the National Aeronautics and Space Administration; or
 
-&emsp;(2) when this subchapter is made inapplicable pursuant to section 474(d) of title 40 or any other law, but when this subchapter is made inapplicable by any such provision of law, sections 5 and 8 of this title shall be applicable in the absence of authority conferred by statute to procure without advertising or without regard to said section 5 of this title.
+&emsp;(2) when this subchapter is made inapplicable pursuant to section 113(e) of title 40 or any other law, but when this subchapter is made inapplicable by any such provision of law, sections 5 and 8 of this title shall be applicable inthe absence of authority conferred by statute to procure without advertising or without regard to said section 5 of this title.
 
 #### (b) Small business concerns; share of business
 
@@ -19,6 +19,10 @@ It is the declared policy of the Congress that a fair proportion of the total pu
 (2) Section 253(a)(2)(A) of this title does not require the use of sealed-bid procedures in cases in which section 204(e) of title 23 applies.
 
 (June 30, 1949, ch. 288, title III, §302, 63 Stat. 393; July 12, 1952, ch. 703, §1(m), 66 Stat. 594; Pub. L. 85–800, §§1–3, Aug. 28, 1958, 72 Stat. 966; Pub. L. 89–343, §§1, 2, Nov. 8, 1965, 79 Stat. 1303; Pub. L. 89–348, §1(2), Nov. 8, 1965, 79 Stat. 1310; Pub. L. 90–268, §4, Mar. 16, 1968, 82 Stat. 50; Pub. L. 93–356, §3, July 25, 1974, 88 Stat. 390; Pub. L. 98–191, §9(a)(1), Dec. 1, 1983, 97 Stat. 1331; Pub. L. 98–369, div. B, title VII, §2714(a)(1), July 18, 1984, 98 Stat. 1184.)
+
+#### Codification
+
+“Section 113(e) of title 40” substituted in subsec. (a)(2) for “section 602(d) of this Act”, meaning section 602(d) of the Federal Property and Administrative Services Act of 1949, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -60,7 +64,11 @@ Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bi
 
 #### Effective Date
 
-Section effective July 1, 1949, see section 605 of act June 30, 1949, set out as a note under section 471 of Title 40, Public Buildings, Property, and Works.
+Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat.403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Emergency Relief for Small Business Concerns With Government Contracts
 
@@ -160,9 +168,9 @@ Ex. Ord. No. 10936, Apr. 24, 1961, 26 F.R. 3555, which provided for the reportin
 
 #### Definitions
 
-The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
+The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 260 of this title; title 22 sections 2509, 4024; title 23 section 140; title 30 section 1711; title 38 section 8122; title 40 sections 356, 356a; title 50 sections 1432, 1651.
+This section is referred to in section 260 of this title; title 22 sections 2509, 4024; title 23 section 140; title 30 section 1711; title 38 section 8122; title 50 sections 1432, 1651.
 

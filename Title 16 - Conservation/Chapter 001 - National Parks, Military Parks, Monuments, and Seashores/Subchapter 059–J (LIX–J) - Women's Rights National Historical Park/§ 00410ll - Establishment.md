@@ -50,7 +50,7 @@ The Secretary is authorized to acquire by donation, purchase with donated or app
 
 #### (e) Cooperative agreements
 
-The Secretary is authorized to enter into cooperative agreements with the owners of properties designated as part of the park, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions that the Secretary shall have the right of access at reasonable times to public portions ofthe property for interpretative and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement.
+The Secretary is authorized to enter into cooperative agreements with the owners of properties designated as part of the park, pursuant to which the Secretary may mark, interpret, improve, restore, and provide technical assistance with respect to the preservation and interpretation of such properties. Such agreements shall contain, but need not be limited to, provisions that the Secretary shall have the right of access at reasonable times to public portions of the property for interpretative and other purposes, and that no changes or alterations shall be made in the property except by mutual agreement.
 
 #### (f) State and local participation; financial assistance
 
@@ -58,7 +58,7 @@ The Secretary shall encourage State and local governmental agencies to develop a
 
 #### (g) Administration
 
-The Secretary shall administer the park in accordance with the provisions of this section and the provisions of law generally applicable to the administration of units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
+The Secretary shall administer the park in accordance with the provisions of this section andthe provisions of law generally applicable to the administration of units of the National Park System, including sections 1, 2, 3, and 4 of this title and sections 461 to 467 of this title.
 
 #### (h) Women's Rights National Historical Park Advisory Commission; membership; Chair; compensation and expenses; function; consultation; termination
 

@@ -22,7 +22,7 @@ This amendment clarifies the intent in section 144 of title 28, U.S.C., to confo
 
 #### Amendments
 
-<b>1949</b>—Act May. 24, 1949, substituted “in any case” for “as to any judge” in second sentence of second par.
+1949—Act May. 24, 1949, substituted “in any case” for “as to any judge” in second sentence of second par.
 
 #### Abolition of Terms
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) ensure compliance with loan conditionalities, especially loan conditionalities relating to the protection of the quality of life of the poor and the rights of aboriginal minorities.
 
-&emsp;(3) A major increase in the number of members of the professional staff of each regional multilateral development bank with training in environmental or social impact analysis or natural science, including—
+&emsp;(3) A major increase in the number of members of the professional staff of each regionalmultilateral development bank with training in environmental or social impact analysis or natural science, including—
 
 &emsp;&emsp;(A) recruitment of additional permanent professional staff; and
 

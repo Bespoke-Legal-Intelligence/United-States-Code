@@ -2,7 +2,37 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated annually such sums as Congress may determine necessary to support continuing agricultural research at colleges eligible to receive funds under the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University (hereinafter referred to in this section as “eligible institutions”). Beginning with the fiscal year ending September 30, 1979, there shall be appropriated under this section for each fiscal year an amount not less than 15 per centum of the total appropriations for such year under section 361c of this title: <i>Provided</i>, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available in the fiscal year ending September 30, 1978, to such eligible institutions under the Act of August 4, 1965 (79 Stat. 431, 7 U.S.C. 450i). Funds appropriated under this section shall be used for expenses ofconducting agricultural research, printing, disseminating the results of such research, contributing to the retirement of employees subject to the provisions of section 331 of this title, administrative planning and direction, and purchase and rental of land and the construction, acquisition, alteration, or repair of buildings necessary for conducting agricultural research. The eligible institutions are authorized to plan and conduct agricultural research in cooperation with each other and such agencies, institutions, and individuals as may contribute to the solution of agricultural problems, and moneys appropriated pursuant to this section shall be available for paying the necessary expenses of planning, coordinating, and conducting such cooperative research. No more than 5 percent of the funds received by an institution in any fiscal year, under this section, may be carried forward to the succeeding fiscal year.
+#### (1) In general
+
+&emsp;There are authorized to be appropriated annually such sums as Congress may determinenecessary to support continuing agricultural research at colleges eligible to receive funds under the Act of August 30, 1890 (26 Stat. 417–419, as amended; 7 U.S.C. 321–326 and 328), including Tuskegee University (hereinafter referred to in this section as “eligible institutions”).
+
+#### (2) Minimum amount
+
+&emsp;Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 25 percent of the total appropriations for the fiscal year under section 361c of this title.
+
+#### (3) Uses
+
+&emsp;Funds appropriated under this section shall be used for expenses of conducting agricultural research, printing, disseminating the results of such research, contributing to the retirement of employees subject to the provisions of section 331 of this title, administrative planning and direction, and purchase and rental of land and the construction, acquisition, alteration, or repair of buildings necessary for conducting agricultural research.
+
+#### (4) Coordination
+
+&emsp;The eligible institutions are authorized to plan and conduct agricultural research in cooperation with each other and such agencies, institutions, and individuals as may contribute to the solution of agricultural problems, and moneys appropriated pursuant to this section shall be available for paying the necessary expenses of planning, coordinating, and conducting such cooperative research.
+
+#### (5) Carryover
+
+#### (A) In general
+
+&emsp;&emsp;The balance of any annual funds provided to an eligible institution for a fiscal year under this section that remains unexpended at the end of the fiscal year may be carried over for use during the following fiscal year.
+
+#### (B) Failure to expend full amount
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;If any unexpended balance carried over by an eligible institution is not expended by the end of the second fiscal year, an amount equal to the unexpended balance shall be deducted from the next succeeding annual allotment to the eligible institution.
+
+#### (ii) Redistribution
+
+&emsp;&emsp;&emsp;Federal funds that are deducted under clause (i) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in subsection (b)(2)(B) of this section to those eligible institutions for which no deduction under clause (i) has been taken for that fiscal year.
 
 #### (b) Allocation and distribution of appropriated funds
 
@@ -14,9 +44,7 @@ Beginning with the fiscal year ending September 30, 1979, the funds appropriated
 
 &emsp;&emsp;(A) Funds up to the total amount made available to all eligible institutions in the fiscal year ending September 30, 1978, under section 450i of this title, shall be allocated among the eligible institutions in the same proportion as funds made available under section 450i of this title, for the fiscal year ending September 30, 1978, are allocated among the eligible institutions.
 
-&emsp;&emsp;(B) Of funds in excess of the amount allocated under subparagraph (A) of this paragraph, 20 per centum shall be allotted among eligible institutions in equal proportions; 40 per centum shall be allotted among the eligible institutions in the proportion that the rural population of the State in which each eligible institution is located bears to the total rural population of all the States in which eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and the balance shall be allotted among the eligible institutions in the proportion that the farm population of the State in which each eligible institution is located bears to the total farm population of all the States in which the eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated.
-
-> &emsp;In computing the distribution of funds allocated under this subparagraph, the allotments to Tuskegee University and Alabama Agricultural and Mechanical University shall be determined as if each institution were in a separate State.
+&emsp;&emsp;(B) Of funds in excess of the amount allocated under subparagraph (A) of this paragraph, 20 per centum shall be allotted among eligible institutions in equal proportions; 40 per centum shall be allotted among the eligible institutions in the proportion that the rural population of the State in which each eligible institution is located bears to the total rural population of all the States in which eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated; and the balance shall be allotted among the eligible institutions in the proportion that the farm population of the State in which each eligible institution is located bears to the total farm population of all the States in which the eligible institutions are located, as determined by the last preceding decennial census current at the time each such additional sum is first appropriated. In computing the distribution of funds allocated under this subparagraph, the allotments to Tuskegee University and Alabama Agricultural and Mechanical University shall be determined as if each institution were in a separate State.
 
 #### (c) Program and plans of work
 
@@ -32,7 +60,7 @@ Beginning with the fiscal year ending September 30, 1979, the funds appropriated
 
 &emsp;Each plan of work required under paragraph (2) shall contain descriptions of the following:
 
-&emsp;&emsp;(A) The critical short-term, intermediate, and long-term agricultural issues in the State in which the eligible institution is located and the current and planned research programs and projects targeted to address the issues.
+&emsp;&emsp;(A) The critical short-term, intermediate, and long-term agricultural issues in theState in which the eligible institution is located and the current and planned research programs and projects targeted to address the issues.
 
 &emsp;&emsp;(B) The process established to consult with users of agricultural research regarding the identification of critical agricultural issues in the State and the development of research programs and projects targeted to address the issues.
 
@@ -76,21 +104,23 @@ On or before the first day of October in each year after September 29, 1977, the
 
 Nothing in this section shall be construed to impair or modify the legal relationship existing between any of the eligible institutions and the government of the States in which they are respectively located.
 
-(Pub. L. 95–113, title XIV, §1445, Sept. 29, 1977, 91 Stat. 1009; Pub. L. 95–547, Oct. 28, 1978, 92 Stat. 2063; Pub. L. 97–98, title XIV, §1432(a), Dec. 22, 1981, 95 Stat. 1311; Pub. L. 99–198, title XIV, §1417, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 105–185, title I, §103(f)(3)(B), title II, §§225(b), 226(b), (c)(3), June 23, 1998, 112 Stat. 528, 541, 543; Pub. L. 105–362, title I, §101(e), Nov. 10, 1998, 112 Stat. 3281.)
+(Pub. L. 95–113, title XIV, §1445, Sept. 29, 1977, 91 Stat. 1009; Pub. L. 95–547, Oct. 28, 1978, 92 Stat. 2063; Pub. L. 97–98, title XIV, §1432(a), Dec. 22, 1981, 95 Stat. 1311; Pub. L. 99–198, title XIV, §1417, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 105–185, title I, §103(f)(3)(B), title II, §§225(b), 226(b), (c)(3), June 23, 1998, 112 Stat. 528, 541, 543; Pub. L. 105–362, title I, §101(e), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 107–171, title VII, §§7203(b), 7204, May 13, 2002, 116 Stat. 438.)
 
 #### References in Text
 
-Act of August 30, 1890, 26 Stat. 417, as amended, referred to in subsec. (a), is popularly known as the “Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
-
-Act of August 4, 1965 (79 Stat. 431, 7 U.S.C. 450i), referred to in subsec. (a), is Pub. L. 89–106, Aug. 4, 1965, 79 Stat. 431, which enacted sections 450i, 2250a, 2262, and 2263 of this title, amended sections 1704, 1762, 1884, and 2235 of this title, and repealed section 608f of this title. For complete classification of this Act to the Code, see Tables.
+Act of August 30, 1890, 26 Stat. 417, as amended, referred to in subsec. (a)(1), is popularly known as the“Agricultural College Act of 1890” and also as the “Second Morrill Act”, and is classified generally to subchapter II (§321 et seq.) of chapter 13 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 321 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171, §7203(b), inserted heading, designated existing provisions as pars. (1) to (5), inserted headings, and substituted in par. (2) “Beginning with fiscal year 2003, there shall be appropriated under this section for each fiscal year an amount that is not less than 25 percent of the total appropriations for the fiscal year under section 361c of this title.” for “Beginning with the fiscal year ending September 30, 1979, there shall be appropriated under this section for each fiscal year an amount not less than 15 per centum of the total appropriations for such year under section 361c of this title: <i>Provided</i>, That the amount appropriated for the fiscal year ending September 30, 1979, shall not be less than the amount made available in the fiscal year ending September 30, 1978, to such eligible institutions under the Act of August 4, 1965 (79 Stat. 431, 7 U.S.C. 450i).”
+
+Subsec. (a)(5). Pub. L. 107–171, §7204, added par. (5) and struck out heading and text of former par. (5). Text read as follows: “No more than 5 percent of the funds received by an institution in any fiscal year, under this section, may be carried forward to the succeeding fiscal year.”
 
 1998—Pub. L. 105–185, §226(c)(3)(A), substituted “University” for “Institute” in section catchline.
 
 Subsec. (a). Pub. L. 105–185, §226(c)(3)(B), substituted “Tuskegee University” for “Tuskegee Institute” in first sentence.
 
-Subsec. (b)(2). Pub. L. 105–185, §226(c)(3)(B), which directed substitution of “Tuskegee University” for “Tuskegee Institute” in subpar. (B), was executed to concluding provisions following subpar. (B) to reflect probable intent of Congress.
+Subsec. (b)(2)(B). Pub. L. 105–185, §226(c)(3)(B), substituted “Tuskegee University” for “Tuskegee Institute”.
 
 Subsec. (c). Pub. L. 105–185, §225(b), inserted subsec. heading, designated existing provisions as par. (1) and inserted par. heading, and added pars. (2) to (5).
 
@@ -114,9 +144,7 @@ Subsec. (b)(2)(B). Pub. L. 97–98, §1432(a)(2), inserted “current at the tim
 
 Subsecs. (c), (d). Pub. L. 97–98, §1432(a)(3), substituted “research director” for “chief administrative officer” wherever appearing.
 
-1978—Subsec. (b)(2)(A). Pub. L. 95–547 substituted provisions relating to allocation of funds among eligible institutions in same proportion as funds made available under section 450i of this title, for fiscal year ending Sept. 30, 1978, are allocated among eligible institutions for provisions relating to allocation of $100,000 to each eligible institution.
-
-Subsec. (b)(2)(B). Pub. L. 95–547 substituted provisions relating to allocation among eligible institutions of 20 per centum of the excess funds in equal proportions, 40 per centum in proportion that the rural population of the State in which each eligible institution is located bears to total rural population of all States in which such institutions are located, and balance in proportion that farm population of State in which each eligible institution is located bears to total farm population of all States in which such institutions are located for provisions relating to allocation among eligible institutions of one-half of remaining funds in an amount which bore same ratio to total amount to be allocated as rural population of State in which eligible institution was located bore to total rural population of all States in which such institutions were located, and one-half in an amount which bore same ratio to total amount to be allocated as farm population of State in which eligible institution was located bore to total farm population of all States in which such institutions were located.
+1978—Subsec. (b). Pub. L. 95–547 amended subsec. (b) generally, substituting in par. (A) provisions relating to allocation of funds among eligible institutions in same proportion as funds made available under section 450i of this title, for fiscal year ending Sept. 30, 1978, are allocated among eligible institutions for provisions relating to allocation of $100,000 to each eligible institution, and substituting in par. (B) provisions relating to allocation among eligible institutions of 20 per centum of the excess funds in equal proportions, 40 per centum in proportion that the rural population of the State in which each eligible institution is located bears to total rural population of all States in which such institutions are located, and balance in proportion that farm population of State in which each eligible institution is located bears to total farm population of all States in which such institutions are located for provisions relating to allocation among eligible institutions of one-half of remaining funds in an amount which bore same ratio to total amount to be allocated as rural population of State in which eligible institution was located bore to total rural population of all States in which such institutions were located, and one-half in an amount which bore same ratio to total amount to be allocated as farm population of State in which eligible institution was located bore to total farm population of all States in which such institutions were located.
 
 #### Effective Date of 1998 Amendment
 
@@ -136,5 +164,5 @@ Section 1432(b) of Pub. L. 97–98, as amended by Pub. L. 99–198, title XIV, �
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 450i, 3222d of this title; title 40 section 483.
+This section is referred to in sections 450i, 3222d of this title; title 40 section 525.
 

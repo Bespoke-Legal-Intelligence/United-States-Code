@@ -46,7 +46,7 @@ Subsection (a)(1) of this section shall not apply in the following cases:
 
 &emsp;&emsp;&nbsp;unless the Secretary determines other terms and conditions under which the provision of such services does not present a risk of program or patient abuse, and
 
-&emsp;&emsp;(B) that are billed by the physician performing or supervising the services, by a group practice of which such physician is a member under a billing number assigned to the group practice, or by an entity that is wholly owned by such physician or such group practice,
+&emsp;&emsp;(B) that are billed by the physician performing or supervising the services, by a group practice of which such physician is amember under a billing number assigned to the group practice, or by an entity that is wholly owned by such physician or such group practice,
 
 > &emsp;if the ownership or investment interest in such services meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
@@ -60,7 +60,7 @@ Subsection (a)(1) of this section shall not apply in the following cases:
 
 &emsp;&emsp;(C) receiving payments on a prepaid basis, under a demonstration project under section 1395b–1(a) of this title or under section 222(a) of the Social Security Amendments of 1972, to an individual enrolled with the organization,
 
-&emsp;&emsp;(D) that is a qualified health maintenance organization (within the meaning of section300e–9(d) <sup>1</sup> of this title) to an individual enrolled with the organization, or
+&emsp;&emsp;(D) that is a qualified health maintenance organization (within the meaning of section 300e–9(d) <sup>1</sup> of this title) to an individual enrolled with the organization, or
 
 &emsp;&emsp;(E) that is a Medicare+Choice organization under part C of this subchapter that is offering a coordinated care plan described in section 1395w–21(a)(2)(A) of this title to an individual enrolled with the organization.
 
@@ -192,7 +192,7 @@ The following shall not be considered to be a compensation arrangement described
 
 #### (ii) “Physician incentive plan” defined
 
-&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “physician incentive plan” means any compensation arrangement between an entity and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the entity.
+&emsp;&emsp;&emsp;For purposes of this subparagraph, the term “physician incentive plan” means any compensation arrangement betweenan entity and a physician or physician group that may directly or indirectly have the effect of reducing or limiting services provided with respect to individuals enrolled with the entity.
 
 #### (4) Remuneration unrelated to the provision of designated health services
 
@@ -206,7 +206,7 @@ The following shall not be considered to be a compensation arrangement described
 
 &emsp;&emsp;(B) the amount of the remuneration under the arrangement is not determined in a manner that takes into account (directly or indirectly) the volume or value of any referrals by the referring physician, and
 
-&emsp;&emsp;(C) the arrangement meets such other requirements as the Secretary may impose byregulation as needed to protect against program or patient abuse.
+&emsp;&emsp;(C) the arrangement meets such other requirements as the Secretary may impose by regulation as needed to protect against program or patient abuse.
 
 #### (6) Isolated transactions
 
@@ -326,7 +326,7 @@ For purposes of this section:
 
 #### (2) Employee
 
-&emsp;An individual is considered to be “employed by” or an “employee” of an entity if the individual would be considered to be an employee of the entity under the usual common law rules applicable in determining the employer-employee relationship (as applied for purposes of section 3121(d)(2) of the Internal Revenue Code of 1986).
+&emsp;An individual is considered to be “employed by” or an “employee” of an entity if the individual would be considered to be an employeeof the entity under the usual common law rules applicable in determining the employer-employee relationship (as applied for purposes of section 3121(d)(2) of the Internal Revenue Code of 1986).
 
 #### (3) Fair market value
 
@@ -400,7 +400,7 @@ For purposes of this section:
 
 &emsp;&emsp;(K) Inpatient and outpatient hospital services.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV, §4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1877, as added Pub. L. 101–239, title VI, §6204(a), Dec. 19, 1989, 103 Stat. 2236; amended Pub. L. 101–508, title IV,§4207(e)(1)–(3), (k)(2), formerly §4027(e)(1)–(3), (k)(2), Nov. 5, 1990, 104 Stat. 1388–121, 1388–122, 1388–124, renumbered Pub. L. 103–432, title I, §160(d)(4), Oct. 31, 1994, 108 Stat. 4444; Pub. L. 103–66, title XIII, §13562(a), Aug. 10, 1993, 107 Stat. 596; Pub. L. 103–432, title I, §152(a), (b), Oct. 31, 1994, 108 Stat. 4436; Pub. L. 105–33, title IV, §4314, Aug. 5, 1997, 111 Stat. 389; Pub. L. 106–113, div. B, §1000(a)(6) \[title V, §524(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–387.)
 
 #### References in Text
 
@@ -416,7 +416,7 @@ Part B of this subchapter, referred to in subsec. (h)(5)(A), is classified to se
 
 #### Prior Provisions
 
-A prior section 1395nn, act Aug. 14, 1935, ch. 531, title XVIII, §1877, as added and amended Oct. 30, 1972, Pub.L. 92–603, title II, §§242(b), 278(b)(8), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(a), 91 Stat. 1179; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; July 18, 1984, Pub. L. 98–369, div. B, title III, §2306(f)(2), 98 Stat. 1073; Oct. 21, 1986, Pub. L. 99–509, title IX, §9321(a)(1), 100 Stat. 2016; Aug. 18, 1987, Pub. L. 100–93, §4(c), 101 Stat. 689, enumerated offenses relating to the Medicare program and penalties for such offenses, prior to repeal by Pub. L. 100–93, §§4(e), 15(a), Aug. 18, 1987, 101 Stat. 689, 698, effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period.
+A prior section 1395nn, act Aug. 14, 1935, ch. 531, title XVIII, §1877, as added and amended Oct. 30, 1972, Pub. L. 92–603, title II, §§242(b), 278(b)(8), 86 Stat. 1419, 1454; Oct. 25, 1977, Pub. L. 95–142, §4(a), 91 Stat. 1179; Dec. 5, 1980, Pub. L. 96–499, title IX, §917, 94 Stat. 2625; July 18, 1984, Pub. L. 98–369, div. B, title III, §2306(f)(2), 98 Stat. 1073; Oct. 21, 1986, Pub. L. 99–509, title IX, §9321(a)(1), 100 Stat. 2016; Aug. 18, 1987, Pub. L. 100–93, §4(c), 101 Stat. 689, enumerated offenses relating to the Medicare program and penalties for such offenses, prior to repeal by Pub. L. 100–93, §§4(e), 15(a), Aug. 18, 1987, 101 Stat. 689, 698, effective at end of fourteen-day period beginning Aug. 18, 1987, and inapplicable to administrative proceedings commenced before end of such period.
 
 #### Amendments
 
@@ -450,7 +450,7 @@ Subsec. (f)(2). Pub. L. 101–508, §4207(e)(3)(A), formerly §4027(e)(3)(A), as
 
 Subsec. (g)(5). Pub. L. 101–508, §4207(k)(2), formerly §4027(k)(2), as renumbered by Pub. L. 103–432, §160(d)(4), inserted at end “The provisions of section 1320a–7a of this title (other than the first sentence of subsection (a) and other than subsection (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.”
 
-Subsec. (h)(6). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432, §160(d)(4), added par. (6). Former par. (6) redesignated (7).
+Subsec. (h)(6). Pub. L. 101–508, §4207(e)(1)(C), formerly §4027(e)(1)(C), as renumbered by Pub. L. 103–432,§160(d)(4), added par. (6). Former par. (6) redesignated (7).
 
 Pub. L. 101–508, §4207(e)(1)(A), (B), formerly §4027(e)(1)(A), (B), as renumbered by Pub. L. 103–432, §160(d)(4), substituted “in the case of an item or service for which payment may be made under part B of this subchapter, the request by a physician for the item or service,” for “in the case of a clinical laboratory service which under law is required to be provided by (or under the supervision of) a physician, the request by a physician for the service,” in subpar. (A) and struck out “in the case of another clinical laboratory service,” after “subparagraph (C),” in subpar. (B).
 
@@ -520,7 +520,7 @@ Section 6204(f) of Pub. L. 101–239, as amended by Pub. L. 101–508, title IV,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1396b of this title; title 21 section 823.
+This section is referred to in sections 1320b–5, 1396b of this title; title 21 section 823.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@ Real property owned by the State of Hawaii or any political subdivision thereof 
 
 (2) For the purposes of a land exchange with the State of Hawaii, the Secretary shall consult with the State of Hawaii in the process of identifying suitable exchange lands belonging to the United States Government.
 
-(3) For the purposes of a land exchange with the State of Hawaii, real property owned by the United States Government and selected for use in a land exchange shall not be from among those lands ceded to the United States Government.
+(3) For the purposes of a land exchange with the State of Hawaii, real property owned by theUnited States Government and selected for use in a land exchange shall not be from among those lands ceded to the United States Government.
 
 #### (e) Administration of land acquired
 

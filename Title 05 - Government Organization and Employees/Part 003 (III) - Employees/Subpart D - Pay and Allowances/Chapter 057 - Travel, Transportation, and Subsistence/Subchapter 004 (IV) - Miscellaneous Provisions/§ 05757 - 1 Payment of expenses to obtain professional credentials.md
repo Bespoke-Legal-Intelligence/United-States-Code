@@ -1,0 +1,14 @@
+### §5757.<sup>1</sup> Payment of expenses to obtain professional credentials
+
+(a) An agency may use appropriated funds or funds otherwise available to the agency to pay for—
+
+&emsp;(1) expenses for employees to obtain professional credentials, including expenses for professional accreditation, State-imposed and professional licenses, and professional certification; and
+
+&emsp;(2) examinations to obtain such credentials.
+
+(b) The authority under subsection (a) may not be exercised on behalf of any employee occupying or seeking to qualify for appointment to any position that is excepted from the competitive service because of the confidential, policy-determining, policy-making, or policy-advocating character of the position.
+
+(Added Pub. L. 107–107, div. A, title XI, §1112(a), Dec. 28, 2001, 115 Stat. 1238.)
+
+<i><sup>1</sup></i><i> Another section 5757 is set out after this section.</i>
+

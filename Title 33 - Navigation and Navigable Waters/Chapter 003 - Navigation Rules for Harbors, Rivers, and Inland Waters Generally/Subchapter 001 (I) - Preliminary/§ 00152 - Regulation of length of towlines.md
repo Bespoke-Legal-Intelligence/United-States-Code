@@ -2,7 +2,7 @@
 
 The Commandant of the Coast Guard shall prepare regulations limiting the length of hawsers between towing vessels and seagoing barges in tow and the length of such tows within any of the inland waters of the United States designated and defined from time to time pursuant to section 151 of this title, and such regulations shall have the force of law.
 
-(May 28, 1908, ch. 212, §14, 35 Stat. 428; June 17, 1910, ch. 301, §§4, 6, 36 Stat. 537, 538; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; June 30, 1932, ch. 314, §§501, 502, 47 Stat. 415; May 27, 1936, ch. 463, §1, 49 Stat. 1380; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; 1946 Reorg.Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Aug. 4, 1949, ch. 393, §§1, 20, 63 Stat. 496, 561.)
+(May 28, 1908, ch. 212, §14, 35 Stat. 428; June 17, 1910, ch. 301, §§4, 6, 36 Stat. 537, 538; Mar. 4, 1913, ch. 141, §1, 37 Stat. 736; June 30, 1932, ch. 314, §§501, 502, 47 Stat. 415; May 27, 1936, ch. 463, §1, 49 Stat. 1380; 1939 Reorg. Plan No. II, §2(a), eff. July 1, 1939, 4 F.R. 2731, 53 Stat. 1432; 1946 Reorg. Plan No. 3, §§101–104, eff. July 16, 1946, 11 F.R. 7875, 60 Stat. 1097; Aug. 4, 1949, ch. 393, §§1, 20, 63 Stat. 496, 561.)
 
 #### Codification
 
@@ -25,6 +25,8 @@ Director of the Bureau of Navigation and Steamboat Inspection was designation gi
 Bureau of Marine Inspection and Navigation was designation given to Bureau of Navigation and Steamboat Inspection by act May 27, 1936.
 
 Functions of Secretary of Commerce and Director of Bureau of Marine Inspection and Navigation under this section transferred to Commandant of the Coast Guard by Reorg. Plan No. 3, of 1946, §§101 to 104, set out in the Appendix to Title 5.
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Coast Guard transferred to Department of Transportation, and functions, powers, and duties relating to Coast Guard of Secretary of the Treasury and of other officers and offices of Department of the Treasury transferred to Secretary of Transportation by Pub. L. 89–670, §6(b)(1), Oct. 15, 1966, 80 Stat. 938. Section 6(b)(2) of Pub. L. 89–670, however, provided that notwithstanding such transfer of functions, Coast Guard shall operate as part of Navy in time of war or when President directs as provided in section 3 of Title 14, Coast Guard. See section 108 of Title 49, Transportation.
 

@@ -28,7 +28,7 @@
 
 #### (6) Restrictions
 
-&emsp;Paragraphs (1), (3), and (4) shall be subject to any restriction on amounts of payments underthis chapter that are imposed by a continuing resolution or other Act appropriating the funds involved.
+&emsp;Paragraphs (1), (3), and (4) shall be subject to any restriction on amounts of payments under this chapter that are imposed by a continuing resolution or other Act appropriating the funds involved.
 
 #### (b) Investment of funds
 

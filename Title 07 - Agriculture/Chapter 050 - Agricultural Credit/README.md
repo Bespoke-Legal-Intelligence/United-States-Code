@@ -31,7 +31,7 @@
 | (c) | Repealed. |
 | (d) | Carryover of unused authorizations for appropriations. |
 | 1926–1. | Repealed. |
-| [1926a.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926a%20-%20Emergency%20community%20water%20assistance%20grant%20program.md) | Emergency community water assistance grant program. |
+| [1926a.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926a%20-%20Emergency%20and%20imminent%20community%20water%20assistance%20grant%20program.md) | Emergency and imminent community water assistance grant program. |
 | (a) | In general. |
 | (b) | Priority. |
 | (c) | Eligibility. |
@@ -40,19 +40,24 @@
 | (f) | Maximum grants. |
 | (g) | Full funding. |
 | (h) | Application. |
-| (i) | Authorization of appropriations. |
+| (i) | Funding. |
 | [1926b.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926b%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VII%2C%20%C2%A7743%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201125.md) | Repealed. |
 | [1926c.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926c%20-%20Water%20and%20waste%20facility%20loans%20and%20grants%20to%20alleviate%20health%20risks.md) | Water and waste facility loans and grants to alleviate health risks. |
 | (a) | Loans and grants to persons other than individuals. |
 | (b) | Loans and grants to individuals. |
 | (c) | Preference. |
 | (d) | “Cooperative” defined. |
-| (e) | Limitations on authorization of appropriations. |
+| (e) | Authorization of appropriations. |
 | (f) | Regulations. |
 | [1926d.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926d%20-%20Water%20systems%20for%20rural%20and%20Native%20villages%20in%20Alaska.md) | Water systems for rural and Native villages in Alaska. |
 | (a) | In general. |
 | (b) | Matching funds. |
 | (c) | Consultation with State of Alaska. |
+| (d) | Authorization of appropriations. |
+| [1926e.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001926e%20-%20Grants%20to%20nonprofit%20organizations%20to%20finance%20the%20construction%2C%20refurbishing%2C%20and%20servicing%20of%20individually-owned%20household%20water%20well%E2%80%A6.md) | Grants to nonprofit organizations to finance the construction, refurbishing, and servicing of individually-owned household water well systems in rural areas for individuals with low or moderate incomes. |
+| (a) | Definition of eligible individual. |
+| (b) | Grants. |
+| (c) | Priority in awarding grants. |
 | (d) | Authorization of appropriations. |
 | [1927\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001927%20-%20Repayment%20requirements.md) | Repayment requirements. |
 | (a) | Period of repayment; interest rates. |
@@ -74,6 +79,7 @@
 | (g) | Transfer of funds from Farmers Home Administration direct loan account and Emergency Credit Revolving Fund; abolition of such account and fund; payments from Agricultural Credit Insurance Fund; interest. |
 | (h) | Guaranteed loans; interest rate for loans sold into secondary market; loan fees. |
 | (i) | Coordination of assistance for qualified beginning farmers and ranchers. |
+| (j) | Guarantee of loans made under State beginning farmer or rancher programs. |
 | 1929–1. | Level of loan programs under Agricultural Credit Insurance Fund. |
 | [1929a.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001929a%20-%20Rural%20Development%20Insurance%20Fund.md) | Rural Development Insurance Fund |
 | (a) | Creation; revolving fund; rural development loans. |
@@ -94,10 +100,8 @@
 | (d) | Joint loans or grants for private business enterprises; restrictions; system of certification for expeditious processing of requests for assistance; prior approval of grant or loan; equity investment as condition for loan commitment; issuance of certificates of beneficial ownership of notes. |
 | (e) | Rural cooperative development grants. |
 | (f) | Grants to broadcasting systems. |
-| (g) | Loan guarantees for purchase of cooperative stock. |
-| (h) | Grants to defray administrative costs. |
-| (i) | Loans for business telecommunications partnerships. |
-| (j) | Grants to broadcasting systems. |
+| (g) | Business and industry direct and guaranteed loans. |
+| (h) | Loan guarantees for certain loans. |
 | [1933\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001933%20-%20Guaranteed%20rural%20housing%20loans%3B%20Hawaiian%20home%20lands.md) | Guaranteed rural housing loans; Hawaiian home lands. |
 | [1934\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001934%20-%20Low-income%20farm%20ownership%20loan%20program%3B%20eligibility%3B%20repayment%20requirements.md) | Low-income farm ownership loan program; eligibility; repayment requirements. |
 | [1935\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001935%20-%20Down%20payment%20loan%20program.md) | Down payment loan program. |
@@ -105,7 +109,10 @@
 | (b) | Loan terms. |
 | (c) | Limitations. |
 | (d) | Administration. |
-| [1936\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001936%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93127%2C%20title%20VI%2C%20%C2%A7616%28b%29%2C%20Apr.%204%2C%201996%2C%20110%20Stat.%201090.md) | Repealed. |
+| [1936\.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001936%20-%20Beginning%20farmer%20and%20rancher%20contract%20land%20sales%20program.md) | Beginning farmer and rancher contract land sales program. |
+| (a) | In general. |
+| (b) | Date of commencement of program. |
+| [1936a.](Subchapter%20001%20%28I%29%20-%20Real%20Estate%20Loans/%C2%A7%2001936a%20-%20Use%20of%20rural%20development%20loans%20and%20grants%20for%20other%20purposes.md) | Use of rural development loans and grants for other purposes. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -172,8 +179,6 @@
 | (a) | Appointment and compensation of Administrator; transfer of powers, duties, and assets pertaining to agricultural credit. |
 | (b) | Powers of Secretary of Agriculture. |
 | (c) | Delinquent claims and obligations. |
-| (d) | Temporary authority to enter into contracts. |
-| (e) | Private collection agency. |
 | [1981a.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001981a%20-%20Loan%20moratorium%20and%20policy%20on%20foreclosures.md) | Loan moratorium and policy on foreclosures. |
 | [1981b.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001981b%20-%20Farm%20loan%20interest%20rates.md) | Farm loan interest rates. |
 | [1981c.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001981c%20-%20Oil%20and%20gas%20royalty%20payments%20on%20loans.md) | Oil and gas royalty payments on loans. |
@@ -196,7 +201,7 @@
 | (d) | Approved lender designation applications; time for decision by Secretary. |
 | (e) | Processing loan applications; personnel and other resources made available; use of authorities of law. |
 | (f) | Graduation of seasoned direct loan borrowers to loan guarantee program. |
-| (g) | Simplified application for guaranteed loans of $50,000 or less. |
+| (g) | Simplified application forms for loan guarantees. |
 | [1983b.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001983b%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93354%2C%20title%20II%2C%20%C2%A7281%28c%29%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203233.md) | Repealed. |
 | [1983c.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001983c%20-%20Provision%20of%20information%20to%20borrowers.md) | Provision of information to borrowers. |
 | (a) | In general. |
@@ -224,6 +229,7 @@
 | (b) | Debt service margin requirements. |
 | (c) | Certified Lenders Program. |
 | (d) | Preferred Certified Lenders Program. |
+| (e) | Administration of Certified Lenders and Preferred Certified Lenders programs. |
 | [1990\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001990%20-%20Transfer%20of%20lands%20to%20Secretary.md) | Transfer of lands to Secretary. |
 | [1991\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001991%20-%20Definitions.md) | Definitions. |
 | [1992\.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2001992%20-%20Loan%20limitations.md) | Loan limitations. |
@@ -337,6 +343,42 @@
 | (h) | Consultation. |
 | (i) | Oversight. |
 | (j) | Privatization. |
+| [2008k.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008k%20-%20Making%20and%20servicing%20of%20loans%20by%20personnel%20of%20State%2C%20county%2C%20or%20area%20committees.md) | Making and servicing of loans by personnel of State, county, or area committees. |
+| 2008<i>l</i>. | Eligibility of employees of State, county, or area committee for loans and loan guarantees. |
+| (a) | In general. |
+| (b) | Approvals. |
+| [2008m.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008m%20-%20National%20Rural%20Development%20Partnership.md) | National Rural Development Partnership. |
+| (a) | Definitions. |
+| (b) | Partnership. |
+| (c) | National Rural Development Coordinating Committee. |
+| (d) | State rural development councils. |
+| (e) | Administrative support of the Partnership. |
+| (f) | Matching requirements for State rural development councils. |
+| (g) | Funding. |
+| (h) | Termination. |
+| [2008n.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008n%20-%20Rural%20telework.md) | Rural telework. |
+| (a) | Definitions. |
+| (b) | Rural telework institute. |
+| (c) | Telework grants. |
+| (d) | Applicability of certain Federal law. |
+| (e) | Regulations. |
+| (f) | Authorization of appropriation. |
+| 2008<i>o</i>. | Historic barn preservation. |
+| (a) | Definitions. |
+| (b) | Program. |
+| (c) | Grants. |
+| [2008p.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008p%20-%20Grants%20for%20NOAA%20weather%20radio%20transmitters.md) | Grants for NOAA weather radio transmitters. |
+| (a) | In general. |
+| (b) | Eligibility. |
+| (c) | Federal share. |
+| (d) | Authorization of appropriations. |
+| [2008q.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008q%20-%20Grants%20to%20train%20farm%20workers%20in%20new%20technologies%20and%20to%20train%20farm%20workers%20in%20specialized%20skills%20necessary%20for%20higher%20value%20crops.md) | Grants to train farm workers in new technologies and to train farm workers in specialized skills necessary for higher value crops. |
+| (a) | In general. |
+| (b) | Use of funds. |
+| (c) | Authorization of appropriations. |
+| [2008r.](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/%C2%A7%2002008r%20-%20Delta%20region%20agricultural%20economic%20development.md) | Delta region agricultural economic development. |
+| (a) | In general. |
+| (b) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -357,10 +399,9 @@
 | (b) | Accounts. |
 | (c) | Deposits into accounts. |
 | (d) | Function categories. |
-| (e) | National reserve account. |
-| (f) | Federally recognized Indian tribe account. |
-| (g) | Allocation among States. |
-| (h) | Availability of funds allocated for States. |
+| (e) | Federally recognized Indian tribe account. |
+| (f) | Allocation among States. |
+| (g) | Availability of funds allocated for States. |
 | [2009e.](Subchapter%20005%20%28V%29%20-%20Rural%20Community%20Advancement%20Program/%C2%A7%2002009e%20-%20Transfers%20of%20funds.md) | Transfers of funds. |
 | (a) | General authority. |
 | (b) | Limitation. |
@@ -394,9 +435,7 @@
 | (b) | Duties. |
 | 2009<i>l.</i> | Duties of Rural Economic and Community Development State Offices. |
 | [2009m.](Subchapter%20005%20%28V%29%20-%20Rural%20Community%20Advancement%20Program/%C2%A7%2002009m%20-%20Electronic%20transfer.md) | Electronic transfer. |
-| [2009n.](Subchapter%20005%20%28V%29%20-%20Rural%20Community%20Advancement%20Program/%C2%A7%2002009n%20-%20Rural%20venture%20capital%20demonstration%20program.md) | Rural venture capital demonstration program. |
-| (a) | In general. |
-| (b) | Rural business investment pool. |
+| [2009n.](Subchapter%20005%20%28V%29%20-%20Rural%20Community%20Advancement%20Program/%C2%A7%2002009n%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VI%2C%20%C2%A76026%28b%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20372.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -422,7 +461,7 @@
 | 2009aa–3. | Supplements to Federal grant programs. |
 | (a) | Finding. |
 | (b) | Federal grant program funding. |
-| (c) | Certification. |
+| (c) | Certifications. |
 | 2009aa–4. | Local development districts; certification and administrative expenses. |
 | (a) | Definition of local development district. |
 | (b) | Grants to local development districts. |
@@ -445,7 +484,7 @@
 | (a) | In general. |
 | (b) | Evaluation by State member. |
 | (c) | Certification. |
-| (d) | Votes for decisions. |
+| (d) | Approval of grant applications. |
 | 2009aa–9. | Consent of States. |
 | 2009aa–10. | Records. |
 | (a) | Records of the Authority. |
@@ -459,9 +498,207 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VII—NORTHERN GREAT PLAINS REGIONAL AUTHORITY
+
+|  |  |
+| :--- | ---: |
+| [2009bb.](Subchapter%20007%20%28VII%29%20-%20Northern%20Great%20Plains%20Regional%20Authority/%C2%A7%2002009bb%20-%20Definitions.md) | Definitions. |
+| 2009bb–1. | Northern Great Plains Regional Authority. |
+| (a) | Establishment. |
+| (b) | Alternate members. |
+| (c) | Voting. |
+| (d) | Duties. |
+| (e) | Administration. |
+| (f) | Federal agency cooperation. |
+| (g) | Administrative expenses. |
+| (h) | Compensation. |
+| (i) | Conflicts of interest. |
+| (j) | Validity of contracts, loans, and grants. |
+| 2009bb–2. | Economic and community development grants. |
+| (a) | In general. |
+| (b) | Funding. |
+| 2009bb–3. | Supplements to Federal grant programs. |
+| (a) | Finding. |
+| (b) | Federal grant program funding. |
+| (c) | Certifications. |
+| 2009bb–4. | Local development districts and organizations and Northern Great Plains Inc. |
+| (a) | Definition of local development district. |
+| (b) | Grants to local development districts. |
+| (c) | Duties of local development districts. |
+| (d) | Northern Great Plains Inc. |
+| 2009bb–5. | Distressed counties and areas and nondistressed counties. |
+| (a) | Designations. |
+| (b) | Distressed counties. |
+| (c) | Nondistressed counties. |
+| (d) | Transportation, telecommunication, and basic public infrastructure. |
+| 2009bb–6. | Development planning process. |
+| (a) | State development plan. |
+| (b) | Content of plan. |
+| (c) | Consultation with interested local parties. |
+| (d) | Public participation. |
+| 2009bb–7. | Program development criteria. |
+| (a) | In general. |
+| (b) | No relocation assistance. |
+| (c) | Maintenance of effort. |
+| 2009bb–8. | Approval of development plans and projects. |
+| (a) | In general. |
+| (b) | Evaluation by State member. |
+| (c) | Certification. |
+| (d) | Votes for decisions. |
+| 2009bb–9. | Consent of States. |
+| 2009bb–10. | Records. |
+| (a) | Records of the Authority. |
+| (b) | Records of recipients of Federal assistance. |
+| (c) | Annual audit. |
+| 2009bb–11. | Annual report. |
+| 2009bb–12. | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Administrative expenses. |
+| (c) | Minimum State share of grants. |
+| 2009bb–13. | Termination of authority. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER VIII—RURAL BUSINESS INVESTMENT PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [2009cc.](Subchapter%20008%20%28VIII%29%20-%20Rural%20Business%20Investment%20Program/%C2%A7%2002009cc%20-%20Definitions.md) | Definitions. |
+| 2009cc–1. | Purposes. |
+| 2009cc–2. | Establishment. |
+| 2009cc–3. | Selection of rural business investment companies. |
+| (a) | Eligibility. |
+| (b) | Application. |
+| (c) | Status. |
+| (d) | Matters considered. |
+| (e) | Approval; license. |
+| 2009cc–4. | Debentures. |
+| (a) | In general. |
+| (b) | Terms and conditions. |
+| (c) | Full faith and credit of the United States. |
+| (d) | Maximum guarantee. |
+| 2009cc–5. | Issuance and guarantee of trust certificates. |
+| (a) | Issuance. |
+| (b) | Guarantee. |
+| (c) | Full faith and credit of the United States. |
+| (d) | Subrogation and ownership rights. |
+| (e) | Management and administration. |
+| 2009cc–6. | Fees. |
+| (a) | In general. |
+| (b) | Trust certificate. |
+| (c) | License. |
+| 2009cc–7. | Operational assistance grants. |
+| (a) | In general. |
+| (b) | Terms. |
+| (c) | Use of funds. |
+| (d) | Submission of plans. |
+| (e) | Grant amount. |
+| 2009cc–8. | Rural business investment companies. |
+| (a) | Organization. |
+| (b) | Articles. |
+| (c) | Capital requirements. |
+| (d) | Diversification of ownership. |
+| 2009cc–9. | Financial institution investments. |
+| (a) | In general. |
+| (b) | Limitation. |
+| (c) | Limitation on rural business investment companies controlled by Farm Credit System institutions. |
+| 2009cc–10. | Reporting requirements. |
+| (a) | Rural business investment companies. |
+| (b) | Public reports. |
+| 2009cc–11. | Examinations. |
+| (a) | In general. |
+| (b) | Assistance of private sector entities. |
+| (c) | Costs. |
+| (d) | Deposit of funds. |
+| 2009cc–12. | Injunctions and other orders. |
+| (a) | In general. |
+| (b) | Jurisdiction. |
+| (c) | Secretary as trustee or receiver. |
+| 2009cc–13. | Additional penalties for noncompliance. |
+| (a) | In general. |
+| (b) | Adjudication of noncompliance. |
+| 2009cc–14. | Unlawful acts and omissions; breach of fiduciary duty. |
+| (a) | Parties deemed to commit a violation. |
+| (b) | Fiduciary duties. |
+| (c) | Unlawful acts. |
+| 2009cc–15. | Removal or suspension of directors or officers. |
+| 2009cc–16. | Contracting of functions. |
+| (a) | In general. |
+| (b) | Funding. |
+| 2009cc–17. | Regulations. |
+| 2009cc–18. | Funding. |
+| (a) | In general. |
+| (b) | Availability of funds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER IX—RURAL STRATEGIC INVESTMENT PROGRAM
+
+|  |  |
+| :--- | ---: |
+| [2009dd.](Subchapter%20009%20%28IX%29%20-%20Rural%20Strategic%20Investment%20Program/%C2%A7%2002009dd%20-%20Purpose.md) | Purpose. |
+| 2009dd–1. | Definitions. |
+| 2009dd–2. | Regional Investment Boards. |
+| (a) | In general. |
+| (b) | Requirements for certification. |
+| 2009dd–3. | National Board on Rural America. |
+| (a) | Establishment. |
+| (b) | Composition. |
+| (c) | Administrative support. |
+| (d) | Duties. |
+| 2009dd–4. | Rural strategic investment program. |
+| (a) | In general. |
+| (b) | Use by National Board. |
+| 2009dd–5. | Regional strategic investment planning grants. |
+| (a) | In general. |
+| (b) | Regional plans. |
+| (c) | Preferences. |
+| (d) | Amount. |
+| (e) | Cost sharing. |
+| 2009dd–6. | Innovation grants. |
+| (a) | In general. |
+| (b) | Eligibility. |
+| (c) | Selection. |
+| (d) | Preferences. |
+| (e) | Uses. |
+| (f) | Amount. |
+| (g) | Cost sharing. |
+| (h) | Negotiation. |
+| (i) | Noncompliance. |
+| (j) | Other uses. |
+| (k) | Transfers. |
+| 2009dd–7. | National Conference on Rural America. |
+| (a) | In general. |
+| (b) | Purpose. |
+| (c) | Composition. |
+| (d) | Report. |
+| (e) | Funding. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER X—SEARCH GRANTS FOR SMALL COMMUNITIES
+
+|  |  |
+| :--- | ---: |
+| [2009ee.](Subchapter%20010%20%28X%29%20-%20Search%20Grants%20for%20Small%20Communities/%C2%A7%2002009ee%20-%20Definitions.md) | Definitions. |
+| 2009ee–1. | SEARCH grant program. |
+| (a) | In general. |
+| (b) | Allocation to State rural development directors. |
+| (c) | Independent citizens’ council. |
+| (d) | Eligibility. |
+| (e) | Applications. |
+| (f) | Awards. |
+| (g) | Unexpended funds. |
+| 2009ee–2. | Report. |
+| 2009ee–3. | Funding. |
+| (a) | Allocation to State rural development directors. |
+| (b) | Other expenses. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 940, 1515, 2204f, 2279, 2279a of this title; title 12 sections 2219d, 2279aa; title 15 section 636; title 16 sections 590h, 3811, 3821; title 21 section 889; title 38 section 3711; title 40 App. section 214; title 42 sections 8813, 9817.
+This chapter is referred to in sections 940, 1515, 2279, 2279a, 7996 of this title; title 12 sections 2219d, 2279aa; title 15 section 636; title 16 sections 590h, 3811, 3821; title 21 section 889; title 38 section 3711; title 40 section 14507; title 42 sections 8813, 9817.
 
 
 ---
@@ -475,3 +712,7 @@ This chapter is referred to in sections 940, 1515, 2204f, 2279, 2279a of this ti
 - [Subchapter 004 (IV) - Administrative Provisions](Subchapter%20004%20%28IV%29%20-%20Administrative%20Provisions/README.md)
 - [Subchapter 005 (V) - Rural Community Advancement Program](Subchapter%20005%20%28V%29%20-%20Rural%20Community%20Advancement%20Program/README.md)
 - [Subchapter 006 (VI) - Delta Regional Authority](Subchapter%20006%20%28VI%29%20-%20Delta%20Regional%20Authority/README.md)
+- [Subchapter 007 (VII) - Northern Great Plains Regional Authority](Subchapter%20007%20%28VII%29%20-%20Northern%20Great%20Plains%20Regional%20Authority/README.md)
+- [Subchapter 008 (VIII) - Rural Business Investment Program](Subchapter%20008%20%28VIII%29%20-%20Rural%20Business%20Investment%20Program/README.md)
+- [Subchapter 009 (IX) - Rural Strategic Investment Program](Subchapter%20009%20%28IX%29%20-%20Rural%20Strategic%20Investment%20Program/README.md)
+- [Subchapter 010 (X) - Search Grants for Small Communities](Subchapter%20010%20%28X%29%20-%20Search%20Grants%20for%20Small%20Communities/README.md)

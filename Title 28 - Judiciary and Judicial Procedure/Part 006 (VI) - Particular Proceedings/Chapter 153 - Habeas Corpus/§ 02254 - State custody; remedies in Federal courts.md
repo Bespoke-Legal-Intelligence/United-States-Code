@@ -64,7 +64,7 @@ Section 408 of the Controlled Substances Act, referred to in subsec. (h), is cla
 
 #### Amendments
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–132, §104(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An application for a writ of habeas corpus in behalf of a person in custody pursuant to the judgment of a State court shall not be granted unless it appears that the applicant has exhausted the remedies available in the courts of the State, or that there is either an absence of available State corrective process or the existence of circumstances rendering such process ineffective to protect the rights of the prisoner.”
+1996—Subsec. (b). Pub. L. 104–132, §104(1), amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “An application for a writ of habeas corpus in behalf of a person in custody pursuant to the judgment of a State court shall not be granted unless it appears that the applicant has exhausted the remedies available in the courts of the State, or that there is either an absence of available State corrective process or the existence of circumstances rendering such process ineffective to protect the rights of the prisoner.”
 
 Subsec. (d). Pub. L. 104–132, §104(3), added subsec. (d). Former subsec. (d) redesignated (e).
 
@@ -76,7 +76,7 @@ Subsecs. (f), (g). Pub. L. 104–132, §104(2), redesignated subsecs. (e) and (f
 
 Subsecs. (h), (i). Pub. L. 104–132, §104(5), added subsecs. (h) and (i).
 
-<b>1966</b>—Pub. L. 89–711 substituted “Federal courts” for “State Courts” in section catchline, added subsec. (a), designated existing paragraphs as subsecs. (b) and (c), and added subsecs. (d) to (f).
+1966—Pub. L. 89–711 substituted “Federal courts” for “State Courts” in section catchline, added subsec. (a), designated existing paragraphs as subsecs. (b) and (c), and added subsecs. (d) to (f).
 
 #### Section Referred to in Other Sections
 
@@ -286,7 +286,7 @@ Subdivision (c). The amendment takes into account 28 U.S.C. §1746, enacted afte
 
 #### Amendments
 
-<b>1976</b>—Subd. (c). Pub. L. 94–426, §2(1), inserted “substantially” after “The petition shall be in”, and struck out requirement that the petition follow the prescribed form.
+1976—Subd. (c). Pub. L. 94–426, §2(1), inserted “substantially” after “The petition shall be in”, and struck out requirement that the petition follow the prescribed form.
 
 Subd. (e). Pub. L. 94–426, §2(2), inserted “substantially” after “district court does not”, and struck out provision which permitted the clerk to return a petition for noncompliance without a judge so directing.
 
@@ -546,7 +546,7 @@ The rule does not contain a specific provision on the subpoenaing of witnesses. 
 
 #### Amendments
 
-<b>1976</b>—Subd. (b). Pub. L. 94–577, §2(a)(1), substituted provisions which authorized magistrates, when designated to do so in accordance with section 636(b) of this title, to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
+1976—Subd. (b). Pub. L. 94–577, §2(a)(1), substituted provisions which authorized magistrates, when designated to do so in accordance with section 636(b) of this title, to conduct hearings, including evidentiary hearings, on the petition and to submit to a judge of the court proposed findings of fact and recommendations for disposition, which directed the magistrate to file proposed findings and recommendations with the court with copies furnished to all parties, which allowed parties thus served 10 days to file written objections thereto, and which directed a judge of the court to make de novo determinations of the objected-to portions and to accept, reject, or modify the findings or recommendations for provisions under which the magistrate had been empowered only to recommend to the district judge that an evidentiary hearing be held or that the petition be dismissed.
 
 Subd. (c). Pub. L. 94–577, §2(b)(1), substituted “and the hearing shall be conducted” for “and shall conduct the hearing”.
 
@@ -660,7 +660,7 @@ If it appears to the court after examining the petition and answer (where approp
 
 #### Amendments
 
-<b>1976</b>—Subd. (a). Pub. L. 94–426, §2(7), struck out provision which established a rebuttable presumption of prejudice to the state if the petition was filed more than five years after conviction and started the running of the five year period, where a petition challenged the validity of an action after conviction, from the time of the order of such action.
+1976—Subd. (a). Pub. L. 94–426, §2(7), struck out provision which established a rebuttable presumption of prejudice to the state if the petition was filed more than five years after conviction and started the running of the five year period, where a petition challenged the validity of an action after conviction, from the time of the order of such action.
 
 Subd. (b). Pub. L. 94–426, §2(8), substituted “constituted an abuse of the writ” for “is not excusable”.
 
@@ -694,7 +694,7 @@ The reference to particular rules is stricken, as under §636(b)(1)(A) a judge m
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria for the performance of such duties” after “rule of the district court”.
+1976—Pub. L. 94–426 inserted “, and to the extent the district court has established standards and criteria for the performance of such duties” after “rule of the district court”.
 
 #### Change of Name
 

@@ -1,0 +1,26 @@
+### §608. Scrip, tokens, tickets
+
+The Administrator of General Services, in the operation of motor vehicle pools or systems under this subchapter, may provide for the sale and use of scrip, tokens, tickets, and similar devices to collect payment.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1124.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+608
+
+40:491(i).
+
+June 30, 1949, ch. 288, title II, §211(i), as added Sept. 5, 1950, ch. 849, §5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, §2, 68 Stat. 1128.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 7588.
+

@@ -12,7 +12,7 @@ It shall be unlawful for any registered closed-end company to issue any class of
 
 &emsp;&emsp;(C) provision is made either—
 
-&emsp;&emsp;&emsp;(i) that, if on the last business day of each of twelve consecutive calendar months such class of senior securities shall have an asset coverage of less than 100 per centum, the holders of such securities voting as a class shall be entitled to elect atleast a majority of the members of the board of directors of such registered company, such voting right to continue until such class of senior security shall have an asset coverage of 110 per centum or more on the last business day of each of three consecutive calendar months, or
+&emsp;&emsp;&emsp;(i) that, if on the last business day of each of twelve consecutive calendar months such class of senior securities shall have an asset coverage of less than 100 per centum, the holders of such securities voting as a class shall be entitled to elect at least a majority of the members of the board of directors of such registered company, such voting right to continue until such class of senior security shall have an asset coverage of 110 per centum or more on the last business day of each of three consecutive calendar months, or
 
 &emsp;&emsp;&emsp;(ii) that, if on the last business day of each of twenty-four consecutive calendar months such class of senior securities shall have an asset coverage of less than 100 per centum, an event of default shall be deemed to have occurred;
 
@@ -38,7 +38,7 @@ Notwithstanding the provisions of subsection (a) of this section it shall be unl
 
 #### (d) Warrants and rights to subscription
 
-It shall be unlawful for any registered management company to issue any warrant or right to subscribe to or purchase a security of which such company is the issuer, except in the form of warrants or rights to subscribe expiring not later than one hundred and twenty days after their issuance and issued exclusively and ratably to a class or classes of such company's security holders; except that any warrant may be issued in exchange for outstanding warrants in connection with a plan of reorganization.
+It shall be unlawful for any registered management company to issue any warrant or right to subscribe to or purchase a security of which such company is the issuer, except in the formof warrants or rights to subscribe expiring not later than one hundred and twenty days after their issuance and issued exclusively and ratably to a class or classes of such company's security holders; except that any warrant may be issued in exchange for outstanding warrants in connection with a plan of reorganization.
 
 #### (e) Application of section to specific senior securities
 
@@ -50,7 +50,7 @@ The provisions of this section shall not apply to any senior securities issued o
 
 &emsp;&emsp;(A) that such senior securities are issued or sold for the purpose of substituting or exchanging such senior securities for outstanding senior securities, and if such senior securities represent indebtedness they are issued or sold for the purpose of substituting or exchanging such senior securities for outstanding senior securities representing indebtedness, of any registered investment company which is a party to such plan of reorganization; or
 
-&emsp;&emsp;(B) that the total amount of such senior securities so issued or sold pursuant to such plan does not exceed the total amount ofsenior securities of all the companies which are parties to such plan, and the total amount of senior securities representing indebtedness so issued or sold pursuant to such plan does not exceed the total amount of senior securities representing indebtedness of all such companies, or, alternatively, the total amount of such senior securities so issued or sold pursuant to such plan does not have the effect of increasing the ratio of senior securities representing indebtedness to the securities representing stock or the ratio of senior securities representing stock to securities junior thereto when compared with such ratios as they existed before such reorganization.
+&emsp;&emsp;(B) that the total amount of such senior securities so issued or sold pursuant to such plan does not exceed the total amount of senior securities of all the companies which are parties to such plan, and the total amount of senior securities representing indebtedness so issued or sold pursuant to such plan does not exceed the total amount of senior securities representing indebtedness of all such companies, or, alternatively, the total amount of such senior securities so issued or sold pursuant to such plan does not have the effect of increasing the ratio of senior securities representing indebtedness to the securities representing stock or the ratio of senior securities representing stock to securities junior thereto when compared with such ratios as they existed before such reorganization.
 
 #### (f) Senior securities securing loans from bank; securities not included in “senior security”
 
@@ -66,7 +66,7 @@ The term “senior security”, when used in subparagraphs (B) and (C) of paragr
 
 #### (h) “Asset coverage” defined
 
-“Asset coverage” of a class of senior security representing an indebtedness of an issuer means the ratio which the value of the total assets of such issuer, less all liabilities and indebtedness not represented by senior securities, bears to the aggregate amount of senior securities representing indebtedness of such issuer. “Asset coverage” of a class of senior security of an issuer which is a stock means the ratio which the value of the total assets of such issuer, less all liabilities and indebtedness not represented by senior securities, bears to the aggregate amount of senior securities representing indebtedness of such issuer plus the aggregate of the involuntary liquidation preference of such class of senior security which is a stock. The involuntary liquidation preference of a class of senior security which is a stock shall be deemed to mean the amount to which such class of senior security would be entitled on involuntary liquidation of the issuer in preference to a security junior to it.
+“Asset coverage” of a class of senior security representing an indebtedness of an issuer means the ratio which the value of the total assets of such issuer, less all liabilities and indebtedness not represented by senior securities, bears to the aggregate amount of senior securities representing indebtedness of such issuer. “Asset coverage” of a class of senior security of an issuerwhich is a stock means the ratio which the value of the total assets of such issuer, less all liabilities and indebtedness not represented by senior securities, bears to the aggregate amount of senior securities representing indebtedness of such issuer plus the aggregate of the involuntary liquidation preference of such class of senior security which is a stock. The involuntary liquidation preference of a class of senior security which is a stock shall be deemed to mean the amount to which such class of senior security would be entitled on involuntary liquidation of the issuer in preference to a security junior to it.
 
 #### (i) Future issuance of stock as voting stock; exceptions
 
@@ -74,7 +74,7 @@ Except as provided in subsection (a) of this section, or as otherwise required b
 
 #### (j) Securities issued by registered face-amount certificate company
 
-Notwithstanding any provision of this subchapter, it shall be unlawful, after August 22,1940, for any registered face-amount certificate company—
+Notwithstanding any provision of this subchapter, it shall be unlawful, after August 22, 1940, for any registered face-amount certificate company—
 
 &emsp;(1) to issue, except in accordance with such rules, regulations, or orders as the Commission may prescribe in the public interest or as necessary or appropriate for the protection of investors, any security other than (A) a face-amount certificate; (B) a common stock having a par value and being without preference as to dividends or distributions and having at least equal voting rights with any outstanding security of such company; or (C) short-term payment or promissory notes or other indebtedness issued in consideration of any loan, extension, or renewal thereof, made by a bank or other person and privately arranged and not intended to be publicly offered;
 

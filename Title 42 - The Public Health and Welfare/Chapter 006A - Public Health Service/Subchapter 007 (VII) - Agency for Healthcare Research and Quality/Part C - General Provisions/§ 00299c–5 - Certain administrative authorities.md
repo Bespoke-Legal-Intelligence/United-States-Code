@@ -14,7 +14,7 @@
 
 The Secretary, in carrying out this subchapter—
 
-&emsp;(1) may acquire, without regard to section 34 of title 40, by lease or otherwise through the Administrator of General Services, buildings or portions of buildings in the District of Columbia or communities located adjacent to the District of Columbia for use for a period not to exceed 10 years; and
+&emsp;(1) may acquire, without regard to section 8141 of title 40, by lease or otherwise throughthe Administrator of General Services, buildings or portions of buildings in the District of Columbia or communities located adjacent to the District of Columbia for use for a period not to exceed 10 years; and
 
 &emsp;(2) may acquire, construct, improve, repair, operate, and maintain laboratory, research, and other necessary facilities and equipment, and such other real or personal property (including patents) as the Secretary deems necessary.
 
@@ -61,6 +61,10 @@ The Director, in carrying out this subchapter, may accept voluntary and uncompen
 #### References in Text
 
 The civil service laws, referred to in subsec. (a)(2), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
+
+#### Codification
+
+In subsec. (b)(1), “section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 

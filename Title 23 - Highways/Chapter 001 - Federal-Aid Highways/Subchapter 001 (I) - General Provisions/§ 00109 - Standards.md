@@ -6,7 +6,7 @@ In General.—The Secretary shall ensure that the plans and specifications for e
 
 &emsp;(1) adequately serve the existing and planned future traffic of the highway in a manner that is conducive to safety, durability, and economy of maintenance; and
 
-&emsp;(2) be designed and constructed in accordance with criteria best suited to accomplishthe objectives described in paragraph (1) and to conform to the particular needs of each locality.
+&emsp;(2) be designed and constructed in accordance with criteria best suited to accomplish the objectives described in paragraph (1) and to conform to the particular needs of each locality.
 
 (b) The geometric and construction standards to be adopted for the Interstate System shall be those approved by the Secretary in cooperation with the State transportation departments. Such standards, as applied to each actual construction project, shall be adequate to enable such project to accommodate the types and volumes of traffic anticipated for such project for the twenty-year period commencing on the date of approval by the Secretary, under section 106 of this title, of the plans, specifications, and estimates for actual construction of such project. Such standards shall in all cases provide for at least four lanes of traffic. The right-of-way width of the Interstate System shall be adequate to permit construction of projects on the Interstate System to such standards. The Secretary shall apply such standards uniformly throughout all the States.
 
@@ -50,7 +50,7 @@ Development of criteria.—The Secretary, in cooperation with State transportati
 
 > Such guidelines shall apply to all proposed projects with respect to which plans, specifications, and estimates are approved by the Secretary after the issuance of such guidelines.
 
-(i) The Secretary, after consultation with appropriate Federal, State, and local officials, shall develop and promulgate standards for highway noise levels compatible with different land uses and after July 1, 1972, shall not approve plans and specifications for any proposed project on any Federal-aid system for which location approval has not yet been secured unless he determines that such plans and specifications include adequate measures to implement the appropriate noise level standards. The Secretary, after consultation with the Administrator of the Environmental Protection Agency and appropriate Federal, State, and local officials, may promulgate standards for the control of highway noise levels for highways on any Federal-aid system for which project approval has been secured prior to July 1, 1972. The Secretary mayapprove any project on a Federal-aid system to which noise-level standards are made applicable under the preceding sentence for the purpose of carrying out such standards. Such project may include, but is not limited to, the acquisition of additional rights-of-way, the construction of physical barriers, and landscaping. Sums apportioned for the Federal-aid system on which such project will be located shall be available to finance the Federal share of such project. Such project shall be deemed a highway project for all purposes of this title.
+(i) The Secretary, after consultation with appropriate Federal, State, and local officials, shall develop and promulgate standards for highway noise levels compatible with different land uses and after July 1, 1972, shall not approve plans and specifications for any proposed project on any Federal-aid system for which location approval has not yet been secured unless he determines that such plans and specifications include adequate measures to implement the appropriate noise level standards. The Secretary, after consultation with the Administrator of the Environmental Protection Agency and appropriate Federal, State, and local officials, may promulgate standards for the control of highway noise levels for highways on any Federal-aid system for which project approval has been secured prior to July 1, 1972. The Secretary may approve any project on a Federal-aid system to which noise-level standards are made applicable under the preceding sentence for the purpose of carrying out such standards. Such project may include, but is not limited to, the acquisition of additional rights-of-way, the construction of physical barriers, and landscaping. Sums apportioned for the Federal-aid system on which such project will be located shall be available to finance the Federal share of such project. Such project shall be deemed a highway project for all purposes of this title.
 
 (j) The Secretary, after consultation with the Administrator of the Environmental Protection Agency, shall develop and promulgate guidelines to assure that highways constructed pursuant to this title are consistent with any approved plan for—
 
@@ -98,7 +98,7 @@ Scenic and Historic Values.—Notwithstanding subsections (b) and (c), the Secre
 
 Phase Construction.—Safety considerations for a project under this title may be met by phase construction consistent with the operative safety management system established in accordance with section 303 or in accordance with a statewide transportation improvement program approved by the Secretary.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894; Pub. L. 88–157, §4, Oct. 24, 1963, 77 Stat. 277; Pub. L. 89–574, §§5(a), 14, Sept. 13, 1966, 80 Stat. 767, 771; Pub. L. 91–605, title I, §136(a), (b), Dec. 31, 1970, 84 Stat. 1734; Pub. L. 93–87, title I, §§114, 152(2), 156, Aug. 13, 1973, 87 Stat. 257, 276, 277; Pub. L. 95–599, title I, §§113, 116(d), 141(f), (g), Nov. 6, 1978, 92 Stat. 2696, 2699, 2711; Pub. L. 96–106, §3, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §110(a), Jan. 6, 1983, 96 Stat. 2105; Pub. L. 102–240, title I, §1016(c)–(f)(1), Dec. 18, 1991, 105 Stat. 1946; Pub. L. 104–59, title III, §§304, 305(a), Nov. 28, 1995, 109 Stat. 579, 580; Pub. L. 105–178, title I, §§1202(c), 1212(a)(2)(A), 1306, June 9, 1998, 112 Stat. 169, 193, 229.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 894; Pub. L. 88–157, §4, Oct. 24, 1963, 77 Stat. 277; Pub. L.89–574, §§5(a), 14, Sept. 13, 1966, 80 Stat. 767, 771; Pub. L. 91–605, title I, §136(a), (b), Dec. 31, 1970, 84 Stat. 1734; Pub. L. 93–87, title I, §§114, 152(2), 156, Aug. 13, 1973, 87 Stat. 257, 276, 277; Pub. L. 95–599, title I, §§113, 116(d), 141(f), (g), Nov. 6, 1978, 92 Stat. 2696, 2699, 2711; Pub. L. 96–106, §3, Nov. 9, 1979, 93 Stat. 797; Pub. L. 97–424, title I, §110(a), Jan. 6, 1983, 96 Stat. 2105; Pub. L. 102–240, title I, §1016(c)–(f)(1), Dec. 18, 1991, 105 Stat. 1946; Pub. L. 104–59, title III, §§304, 305(a), Nov. 28, 1995, 109 Stat. 579, 580; Pub. L. 105–178, title I, §§1202(c), 1212(a)(2)(A), 1306, June 9, 1998, 112 Stat. 169, 193, 229.)
 
 #### References in Text
 
@@ -172,7 +172,7 @@ Subsec. (g). Pub. L. 89–574, §14, added subsec. (g).
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certain exceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
+Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds authorized to be appropriated or made available after Sept. 30, 1991, and, with certainexceptions, not applicable to funds appropriated or made available on or before Sept. 30, 1991, see section 1100 of Pub. L. 102–240, set out as a note under section 104 of this title.
 
 #### International Roughness Index
 
@@ -264,7 +264,7 @@ Dispute Resolution.—When the Secretary determines that a Federal agency which 
 
 “(d)
 
-Participation of State Agencies.—For any project eligible for assistance under chapter 1 of title 23, United States Code, or chapter 53 of title 49, United States Code, a State, by operation of State law, may require that all State agencies that have jurisdiction by State or Federal law over environmental-related issues that may be affected by the project, or that are required to issue any environmental-related reviews, analyses, opinions, or determinations on issuing any permits, licenses, or approvals for the project, be subject to the coordinated environmental review process established under this section unless the Secretary determines that a State's participation would not be in the public interest. For a State to require State agencies to participate in the review process, all affected agencies of the State shall be subject to the review process.
+Participation of State Agencies.—For any project eligible for assistance under chapter 1 of title 23, United States Code, or chapter 53 of title 49, United States Code, a State, by operation of State law, may require that all State agencies that have jurisdiction by State or Federal law over environmental-related issues that may be affected by the project, or that are required to issue any environmental-related reviews, analyses, opinions, or determinations on issuing any permits, licenses, or approvals for the project, be subject to the coordinated environmental review process established under this section unless the Secretary determines that a State's participation would not be inthe public interest. For a State to require State agencies to participate in the review process, all affected agencies of the State shall be subject to the review process.
 
 “(e)
 
@@ -494,7 +494,7 @@ More Stringent State Requirements.—Guidelines developed under subsection (a) s
 
 “(c)
 
-Consistency With Other Programs.—Guidelines developed under subsection (a) shall be consistent with nonpoint source management programs under section 319 of the Federal Water Pollution Control Act \[33 U.S.C. 1329\] and coastal nonpoint pollution control guidance under section 6217(g) of the Omnibus Budget Reconciliation Act of 1990 \[16 U.S.C. 1455b(g)\].”
+Consistency With Other Programs.—Guidelines developed under subsection (a) shall be consistent with nonpoint source management programs under section 319 of the Federal Water Pollution Control Act \[33U.S.C. 1329\] and coastal nonpoint pollution control guidance under section 6217(g) of the Omnibus Budget Reconciliation Act of 1990 \[16 U.S.C. 1455b(g)\].”
 
 #### Roadside Barrier Technology
 
@@ -518,7 +518,7 @@ Section 1073 of Pub. L. 102–240 provided that:
 
 “(a)
 
-Initiation of Rulemaking Proceeding.—Not later than 30 days after the date of the enactment ofthis Act \[Dec. 18, 1991\], the Secretary shall initiate a rulemaking proceeding to revise the guidelines and establish standards for installation of roadside barriers and other safety appurtenances, including longitudinal barriers, end terminals, and crash cushions. Such rulemaking shall reflect state-of-the-art designs, testing, and evaluation criteria contained in the National Cooperative Highway Research Program Report 230, relating to approval standards which provide an enhanced level of crashworthy performance to accommodate vans, mini-vans, pickup trucks, and 4-wheel drive vehicles.
+Initiation of Rulemaking Proceeding.—Not later than 30 days after the date of the enactment of this Act \[Dec. 18, 1991\], the Secretary shall initiate a rulemaking proceeding to revise the guidelines and establish standards for installation of roadside barriers and other safety appurtenances, including longitudinal barriers, end terminals, and crash cushions. Such rulemaking shall reflect state-of-the-art designs, testing, and evaluation criteria contained in the National Cooperative Highway Research Program Report 230, relating to approval standards which provide an enhanced level of crashworthy performance to accommodate vans, mini-vans, pickup trucks, and 4-wheel drive vehicles.
 
 “(b)
 

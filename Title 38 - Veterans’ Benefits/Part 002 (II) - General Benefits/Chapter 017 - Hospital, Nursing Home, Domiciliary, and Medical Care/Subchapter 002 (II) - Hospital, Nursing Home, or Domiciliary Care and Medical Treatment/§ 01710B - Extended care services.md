@@ -166,7 +166,7 @@ Eligible Veterans.—A veteran is an eligible veteran for purposes of this secti
 
 &emsp;“(2) is unable to manage routine activities of daily living without supervision and assistance; and
 
-&emsp;“(3) could reasonably be expected to receive ongoing services after the end of the contract periodunder another government program or through other means.
+&emsp;“(3) could reasonably be expected to receive ongoing services after the end of the contract period under another government program or through other means.
 
 “(e)
 

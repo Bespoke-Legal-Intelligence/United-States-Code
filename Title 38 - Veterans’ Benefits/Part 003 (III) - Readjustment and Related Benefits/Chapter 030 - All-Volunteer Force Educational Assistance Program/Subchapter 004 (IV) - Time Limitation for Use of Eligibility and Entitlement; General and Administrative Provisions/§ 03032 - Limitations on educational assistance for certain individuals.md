@@ -8,7 +8,7 @@
 
 > the amount of the monthly educational assistance allowance payable to such individual under this chapter is the amount determined under subsection (b) of this section.
 
-(b) The amount of the educational assistance allowance payable to an individual described insubsection (a) of this section is the least of the following: (1) the amount of the educational assistance allowance otherwise payable to such individual under this chapter, (2) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay, or (3) the amount of the charges of the educational institution elected by the individual under section 3014(b)(1) of this title.
+(b) The amount of the educational assistance allowance payable to an individual described in subsection (a) of this section is the least of the following: (1) the amount of the educational assistance allowance otherwise payable to such individual under this chapter, (2) the established charges for tuition and fees that the educational institution involved requires similarly circumstanced nonveterans enrolled in the same program to pay, or (3) the amount of the charges of the educational institution elected by the individual under section 3014(b)(1) of this title.
 
 (c)(1) Except as provided in paragraph (2) of this subsection, the amount of the monthly educational assistance allowance payable to an individual pursuing a full-time program of apprenticeship or other on-job training under this chapter is—
 
@@ -52,7 +52,7 @@
 
 (f)(1) Subject to paragraph (3), the amount of educational assistance payable under this chapter for a licensing or certification test described in section 3452(b) of this title is the lesser of $2,000 or the fee charged for the test.
 
-(2) The number of months of entitlement charged in the case of any individual for such licensing or certification test is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance which, except for paragraph\(1), such individual would otherwise be paid under subsection (a)(1), (b)(1), (d), or (e)(1) of section 3015 of this title, as the case may be.
+(2) The number of months of entitlement charged in the case of any individual for such licensing or certification test is equal to the number (including any fraction) determined by dividing the total amount of educational assistance paid such individual for such test by the full-time monthly institutional rate of educational assistance which, except for paragraph (1), such individual would otherwise be paid under subsection (a)(1), (b)(1), (d), or (e)(1) of section 3015 of this title, as the case may be.
 
 (3) In no event shall payment of educational assistance under this subsection for such a test exceed the amount of the individual's available entitlement under this chapter.
 
@@ -122,5 +122,5 @@ Amendment by section 108(a)(2) of Pub. L. 100–689 effective Jan. 1, 1989, see 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3015, 3022, 3034 of this title.
+This section is referred to in sections 3015, 3020, 3022, 3034 of this title.
 

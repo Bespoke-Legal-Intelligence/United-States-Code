@@ -8,7 +8,7 @@ The Secretary may make grants and enter into contracts under this subsection to 
 
 &emsp;(2) be responsive to the needs or problems of individual States or regions.
 
-> The total amount paid pursuant to any such grant or contract may equal 662/3 percent, or any lesser percent, of the total cost of the sea grant program or project involved; except that thislimitation shall not apply in the case of grants or contracts paid for with funds accepted by the Secretary under section 1123(d)(6) <sup>1</sup> of this title.
+> The total amount paid pursuant to any such grant or contract may equal 662/3 percent, or anylesser percent, of the total cost of the sea grant program or project involved; except that this limitation shall not apply in the case of grants or contracts paid for with funds accepted by the Secretary under section 1123(c)(4)(F) of this title.
 
 #### (b) Special grants; maximum amount; prerequisites
 
@@ -42,13 +42,11 @@ Any person may apply to the Secretary for a grant or contract under this section
 
 (4) Any person who receives or utilizes any proceeds of any grant or contract under this section shall keep such records as the Secretary shall by regulation prescribe as being necessary and appropriate to facilitate effective audit and evaluation, including records which fully disclose the amount and disposition by such recipient of such proceeds, the total cost of the program or project in connection with which such proceeds were used, and the amount, if any, of such cost which was provided through other sources. Such records shall be maintained for 3 years after the completion of such a program or project. The Secretary and the Comptroller General of the United States, or any of their duly authorized representatives, shall have access, for the purpose of audit and evaluation, to any books, documents, papers, and records of receipts which, in the opinion of the Secretary or of the Comptroller General, may be related or pertinent to such grants and contracts.
 
-(Pub. L. 89–454, title II, §205, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 1001; amended Pub. L. 93–73, §1(8), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1964; Pub. L. 95–428, §3(2), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(3), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §3105(a), Dec. 29, 1987, 101 Stat. 1471; Pub. L. 102–186, §4(b)(1)(B), Dec. 4, 1991, 105 Stat. 1283.)
-
-#### References in Text
-
-Section 1123 of this title, referred to in subsec. (a), was amended generally by Pub. L. 105–160, §5, Mar. 6, 1998, 112 Stat. 22, and, as so amended, provisions relating to funds accepted by the Secretary from other departments and agencies, which formerly appeared in subsec. (d)(6), are contained in subsec. (c)(4)(F).
+(Pub. L. 89–454, title II, §205, as added Pub. L. 89–688, §1, Oct. 15, 1966, 80 Stat. 1001; amended Pub. L. 93–73, §1(8), July 10, 1973, 87 Stat. 170; Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1964; Pub. L. 95–428, §3(2), Oct. 7, 1978, 92 Stat. 999; Pub. L. 96–289, §1(3), June 28, 1980, 94 Stat. 605; Pub. L. 100–220, title III, §3105(a), Dec. 29, 1987, 101 Stat. 1471; Pub. L. 102–186, §4(b)(1)(B), Dec. 4, 1991, 105 Stat. 1283; Pub. L. 107–299, §4, Nov. 26, 2002, 116 Stat. 2346.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–299 substituted “section 1123(c)(4)(F)” for “section 1123(d)(6)” in concluding provisions.
 
 1991—Subsec. (b)(3). Pub. L. 102–186 struck out reference to section 1125 of this title after reference to subsection (a) of this section.
 
@@ -64,7 +62,5 @@ Section 1123 of this title, referred to in subsec. (a), was amended generally by
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1123, 1126, 1128, 1131 of this title; title 16 section 4741.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 1123, 1126, 1128 of this title; title 16 section 4741.
 

@@ -52,9 +52,11 @@ Circumstances.—The circumstances described in this section are that the offens
 
 &emsp;&emsp;(D) a conspiracy to commit an offense described in subparagraph (A), (B), or (C).
 
-(Added Pub. L. 103–322, title XV, §150001(a), Sept. 13, 1994, 108 Stat. 2034; amended Pub. L. 104–294, title VI, §607(q), Oct. 11, 1996, 110 Stat. 3513.)
+(Added Pub. L. 103–322, title XV, §150001(a), Sept. 13, 1994, 108 Stat. 2034; amended Pub. L. 104–294, title VI, §607(q), Oct. 11, 1996, 110 Stat. 3513; Pub. L. 107–273, div. B, title IV, §4002(b)(3), Nov. 2, 2002, 116 Stat. 1807.)
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–294 inserted at end “ ‘State’ means a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.”
+2002—Subsec. (a). Pub. L. 107–273 realigned margins of par. defining “State”.
+
+1996—Subsec. (a). Pub. L. 104–294 inserted par. defining “State” at end.
 

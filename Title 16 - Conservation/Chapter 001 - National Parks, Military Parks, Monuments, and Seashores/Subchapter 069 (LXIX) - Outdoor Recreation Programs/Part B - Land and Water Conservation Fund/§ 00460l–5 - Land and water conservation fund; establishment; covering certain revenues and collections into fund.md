@@ -4,7 +4,7 @@ During the period ending September 30, 2015, there shall be covered into the lan
 
 #### (a) Surplus property sales
 
-All proceeds (except so much thereof as may be otherwise obligated, credited, or paid underauthority of those provisions of law set forth in section 485(b)(e),<sup>1</sup> title 40, or the Independent Offices Appropriation Act, 1963 (76 Stat. 725) or in any later appropriation Act) hereafter received from any disposal of surplus real property and related personal property under the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\], notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury. Nothing in this part shall affect existing laws or regulations concerning disposal of real or personal surplus property to schools, hospitals, and States and their political subdivisions.
+All proceeds (except so much thereof as may be otherwise obligated, credited, or paid under authority of those provisions of law set forth in section 572(a) or 574(a)–(c) of title 40 or the Independent Offices Appropriation Act, 1963 (76 Stat. 725) or in any later appropriation Act) hereafter received from any disposal of surplus real property and related personal property under the Federal Property and Administrative Services Act of 1949, as amended, notwithstanding any provision of law that such proceeds shall be credited to miscellaneous receipts of the Treasury. Nothing in this part shall affect existing laws or regulations concerning disposal of real or personal surplus property to schools, hospitals, and States and their political subdivisions.
 
 #### (b) Motorboat fuels tax
 
@@ -22,9 +22,13 @@ The amounts provided for in section 460<i>l</i>–11 of this title.
 
 The provisions of the Independent Offices Appropriation Act, referred to in subsec. (a), are the provisions of Pub. L. 87–741, Oct. 3, 1962, 76 Stat. 716, appearing under the heading “Operating Expenses, Utilization and Disposal Service” which were not classified to the Code.
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 The Outer Continental Shelf Lands Act, referred to in subsec. (c)(2), is act Aug. 7, 1953, ch. 345, 67 Stat. 462, as amended, which is classified generally to subchapter III (§1331 et seq.) of chapter 29 of Title 43, Public Lands. For complete classification of this Act to the Code, see Short Title note set out under section 1331 of Title 43 and Tables.
+
+#### Codification
+
+“Section 572(a) or 574(a)–(c) of title 40” substituted in subsec. (a) for “section 485(b)(e), title 40, United States Code,” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -58,7 +62,7 @@ Subsecs. (b), (c). Pub. L. 90–401, §§1(a), 2, added subsec. (c) and redesign
 
 #### Effective Date of 1968 Amendment
 
-Section 1(d) of Pub. L. 90–401, as amended by section 1 of Pub. L. 91–308, provided that: “The provisions ofsubsections (a) and (c) of this section \[amending this section\] shall be effective December 31, 1971. Until that date revenues derived from the subsection (a) that is repealed by this section shall continue to be covered into the fund.”
+Section 1(d) of Pub. L. 90–401, as amended by section 1 of Pub. L. 91–308, provided that: “The provisions of subsections (a) and (c) of this section \[amending this section\] shall be effective December 31, 1971. Until that date revenues derived from the subsection (a) that is repealed by this section shall continue to be covered into the fund.”
 
 #### Elimination of System of Admission and User Fees for Federal Recreation Areas
 
@@ -112,7 +116,7 @@ Sec. 4. <i>Posting of designated areas</i>. The heads of administering agencies 
 
 Sec. 5. <i>Establishment of fees</i>. (a) Each official described in Section 1(b) of this Order shall, subject to the criteria prescribed by the Secretary of the Interior, establish a recreation user fee for each designated area administered under his jurisdiction by selecting from a schedule of fees, prescribed by the Secretary of the Interior pursuant to Section 6 of this Order, the fee which is appropriate for each such designated area under criteria prescribed by the Secretary pursuant to that section. Each such official shall also specify which designated areas shall be excluded from the coverage of the annual fee described in Section 2(a)(1) of the Act \[subsec. (a)(i) of this section\] and which, as a result of that exclusion will be subject to the fee described in Section 2(a)(iii) of the Act \[subsec. (a)(iii) of this section\]. The range of recreation user fees to be charged and the criteria for their selection shall be established under the procedures prescribed by Section 6 of this Order.
 
-(b) The Secretary of the Interior shall prescribe the procedures for the production, distribution, and sale of the Land and Water Conservation Fund Sticker, whichshall be issued to those individuals who elect to pay the annual fees. The Secretary of the Interior shall also prescribe the manner in which the Sticker shall be displayed. The conditions under which it may be used shall be determinated under the procedures prescribed by Section 6 of this Order.
+(b) The Secretary of the Interior shall prescribe the procedures for the production, distribution, and sale of the Land and Water Conservation Fund Sticker, which shall be issued to those individuals who elect to pay the annual fees. The Secretary of the Interior shall also prescribe the manner in which the Sticker shall be displayed. The conditions under which it may be used shall be determinated under the procedures prescribed by Section 6 of this Order.
 
 Sec. 6. <i>Coordination</i>. (a) The Secretary of the Interior shall after consultation with the heads of other affected departments and agencies, adopt such coordination measures as are necessary to carry out the purposes of Sections 2(a) and 4(a) of the Act \[subsec. (a) of this section and section 460<i>l</i>–7(a) of this title\] and the provisions of this order.
 
@@ -138,7 +142,5 @@ Lyndon B. Johnson.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 460<i>l</i>–7, 460<i>l</i>–10, 460nnn–122, 1248, 2508 of this title; title 40 section 885.
-
-<i><sup>1</sup></i><i> So in original. Probably should be section “485(b)–(e)”.</i>
+This section is referred to in sections 460<i>l</i>–7, 460<i>l</i>–10, 460nnn–122, 1248, 2508 of this title.
 

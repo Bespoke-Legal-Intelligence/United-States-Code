@@ -10,7 +10,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In making a recommendation to the Secretary under paragraph (1), an accreditedperson shall notify the Secretary in writing of the reasons for the recommendation.
+&emsp;&emsp;In making a recommendation to the Secretary under paragraph (1), an accredited person shall notify the Secretary in writing of the reasons for the recommendation.
 
 #### (B) Time period for review
 
@@ -98,15 +98,47 @@
 
 #### (c) Duration
 
-The authority provided by this section terminates—
+The authority provided by this section terminates October 1, 2007.
 
-&emsp;(1) 5 years after the date on which the Secretary notifies Congress that at least 2 persons accredited under subsection (b) of this section are available to review at least 60 percent of the submissions under section 360(k) of this title, or
+#### (d) Report
 
-&emsp;(2) 4 years after the date on which the Secretary notifies Congress that the Secretary has made a determination described in paragraph (2)(B) of subsection (a) of this section for at least 35 percent of the devices that are subject to review under paragraph (1) of such subsection,
+Not later than January 10, 2007, the Secretary shall conduct a study based on the experience under the program under this section and submit to the Committee on Energy and Commerce of the House of Representatives, and the Committee on Health, Education, Labor, and Pensions of the Senate, a report describing the findings of the study. The objectives of the study shall include determining—
 
-> whichever occurs first.
+&emsp;(1) the number of devices reviewed under this section;
 
-(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342.)
+&emsp;(2) the number of devices reviewed under this section that were ultimately cleared by the Secretary;
+
+&emsp;(3) the number of devices reviewed under this section that were ultimately not cleared by the Secretary;
+
+&emsp;(4) the average time period for a review under this section (including the time it takes for the Secretary to review a recommendation of an accredited person under subsection (a) of this section and determine the initial device classification);
+
+&emsp;(5) the average time period identified in paragraph (4) compared to the average time period for review of devices solely by the Secretary pursuant to section 360(k) of this title;
+
+&emsp;(6) if there is a difference in the average time period under paragraph (4) and the average time period under paragraph (5), the reasons for such difference;
+
+&emsp;(7) whether the quality of reviews under this section for devices for which no guidance has been issued is qualitatively inferior to reviews by the Secretary for devices for which no guidance has been issued;
+
+&emsp;(8) whether the quality of reviews under this section of devices for which no guidance has been issued is qualitatively inferior to reviews under this section of devices for which guidance has been issued;
+
+&emsp;(9) whether this section has in any way jeopardized or improved the public health;
+
+&emsp;(10) any impact of this section on resources available to the Secretary to review reports under section 360(k) of this title; and
+
+&emsp;(11) any suggestions for continuation, modification (including contraction or expansion of device eligibility), or termination of this section that the Secretary determines to be appropriate.
+
+(June 25, 1938, ch. 675, §523, as added Pub. L. 105–115, title II, §210(a), Nov. 21, 1997, 111 Stat. 2342; amended Pub. L. 107–250, title II, §202, Oct. 26, 2002, 116 Stat. 1609.)
+
+#### Amendments
+
+2002—Subsec. (c). Pub. L. 107–250, §202(1), substituted “The authority provided by this section terminates October 1, 2007.” for “The authority provided by this section terminates—
+
+&emsp;“(1) 5 years after the date on which the Secretary notifies Congress that at least 2 persons accreditedunder subsection (b) of this section are available to review at least 60 percent of the submissions under section 360(k) of this title, or
+
+&emsp;“(2) 4 years after the date on which the Secretary notifies Congress that the Secretary has made a determination described in paragraph (2)(B) of subsection (a) of this section for at least 35 percent of the devices that are subject to review under paragraph (1) of such subsection,
+
+> whichever occurs first.”
+
+Subsec. (d). Pub. L. 107–250, §202(2), added subsec. (d).
 
 #### Effective Date
 
@@ -134,5 +166,5 @@ Inclusion of certain devices within program.—Not later than 3 years after the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 331, 360, 360c, 374 of this title.
+This section is referred to in sections 331, 335a, 360, 360c, 374, 379j of this title.
 

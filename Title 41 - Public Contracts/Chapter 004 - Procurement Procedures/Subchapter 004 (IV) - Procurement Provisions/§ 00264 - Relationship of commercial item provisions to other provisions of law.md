@@ -20,7 +20,7 @@ Section 8002 of Pub. L. 103–355 provided that:
 
 “(a)
 
-In General.—The Federal Acquisition Regulation shall provide regulations to implement paragraphs (12) through (15) of section 4 of the Office of Federal Procurement Policy Act \[41 U.S.C. 403(12)–(15)\], chapter 140 of title 10, United States Code, and sections 314 through 314B of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 264–264b\].
+In General.—The Federal Acquisition Regulation shall provide regulations to implement paragraphs\(12) through (15) of section 4 of the Office of Federal Procurement Policy Act \[41 U.S.C. 403(12)–(15)\], chapter 140 of title 10, United States Code, and sections 314 through 314B of the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 264–264b\].
 
 “(b)
 
@@ -86,13 +86,13 @@ Defense Contract Clauses.—(1) Section 824(b) of the National Defense Authoriza
 
 #### Provisions Not Affected by Title VIII of Pub. L. 103–355
 
-Section 8304 of title VIII of Pub. L. 103–355 provided that: “Nothing in this title \[enacting this section, sections 264a, 264b, and 430 of this title, sections 2375 to 2377 of Title 10, Armed Forces, and section 334 of Title 40, Public Buildings, Property, and Works, amending sections 57, 58, 253g, 254, 403, 416, 418, 422, 423, and 701 of this title, sections 2306, 2320, 2321, 2384, 2393, 2397, 2397b, 2397c, 2402, 2408, and 2410b of Title 10, section 1368 of Title 33, Navigation and Navigable Waters, and section 40118 of Title 49, Transportation, repealing section 424 of this title and section 2325 of Title 10, enacting provisions set out as notes under this section, sections 264b and 430 of this title, and section 7606 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 2301 and 2327 of Title 10\] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
+Section 8304 of title VIII of Pub. L. 103–355 provided that: “Nothing in this title \[enacting this section, sections 264a, 264b, and 430 of this title, sections 2375 to 2377 of Title 10, Armed Forces, and section 334 of former Title 40, Public Buildings, Property, and Works, now section 3707 of Title 40, amending sections 57, 58, 253g, 254, 403, 416, 418, 422, 423, and 701 of this title, sections 2306, 2320, 2321, 2384, 2393, 2397, 2397b, 2397c, 2402, 2408, and 2410b of Title 10, section 1368 of Title 33, Navigation and Navigable Waters, and section 40118 of Title 49, Transportation, repealing section 424 of this title and section 2325 of Title 10, enacting provisions set out as notes under this section, sections 264b and 430 of this title, and section 7606 of Title 42, The Public Health and Welfare, and amending provisions set out as notes under sections 2301 and 2327 of Title 10\] shall be construed as modifying or superseding, or as intended to impair or restrict, authorities or responsibilities under—
 
 &emsp;“(1) section 2323 of title 10, United States Code, or section 7102 of the Federal Acquisition Streamlining Act of 1994 \[Pub. L. 103–355, 15 U.S.C. 644 note\];
 
 &emsp;“(2) the Brooks Automatic Data Processing Act (section 111 of the Federal Property and Administrative Services Act of 1949 (\[former\] 40 U.S.C. 759));
 
-&emsp;“(3) Brooks Architect-Engineers Act (title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.));
+&emsp;“(3) Brooks Architect-Engineers Act (title IX of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 541 et seq.) \[now 40 U.S.C. 1101–1104\]);
 
 &emsp;“(4) subsections (a) and (d) of section 8 of the Small Business Act (15 U.S.C. 637(a) and (d)); or
 

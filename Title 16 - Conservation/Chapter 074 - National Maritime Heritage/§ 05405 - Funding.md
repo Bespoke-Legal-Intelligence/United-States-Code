@@ -34,7 +34,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Not more than 15 percent or $500,000, whichever is less, of the amount available for the Program under subsection (a)(1)(C) of this section for a fiscal year may be used for expenses of administering the Program.
+&emsp;&emsp;Not more than 15 percent or $500,000, whichever is less, of the amount availablefor the Program under subsection (a)(1)(C) of this section for a fiscal year may be used for expenses of administering the Program.
 
 #### (B) Allocation
 
@@ -81,6 +81,40 @@ Subsec. (c)(1)(B). Pub. L. 106–398, §1 \[div. C, title XXXV, §3502(a)(2)\], 
 Subsec. (b)(2). Pub. L. 105–85, §1026(c)(1), (2), inserted “or 1160(i)” after “1158” and substituted “first 8” for “first 6”.
 
 Subsec. (c)(1)(A). Pub. L. 105–85, §1026(c)(3), substituted “2001” for “1999”.
+
+#### Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling
+
+Pub. L. 107–314, div. C, title XXXV, §3504(c), (d), Dec. 2, 2002, 116 Stat. 2755, 2756, provided that:
+
+“(c)
+
+Pilot Program on Export of Obsolete Vessels for Dismantlement and Recycling.—(1)(A) The Secretary of Transportation, Secretary of State, and Administrator of the Environmental Protection Agency shall jointly carry out one or more pilot programs through the Maritime Administration to explore the feasibility and advisability of various alternatives for exporting obsolete vessels in the National Defense Reserve Fleet for purposes of the dismantlement and recycling of such vessels.
+
+“(B) The pilot programs shall be carried out in accordance with applicable provisions of law and regulations.
+
+“(2)(A) The pilot programs under paragraph (1) shall be carried out during fiscal year 2003.
+
+“(B) The pilot programs shall include a total of not more than four vessels.
+
+“(C) The authority provided by this subsection is in addition to any other authority available to Maritime Administration for exporting obsolete vessels in the National Defense Reserve Fleet.
+
+“(3) Activities under the pilot programs under paragraph (1) shall include the following:
+
+&emsp;“(A) Exploration of the feasibility and advisability of a variety of alternatives (developed for purposes of the pilot programs) for exporting obsolete vessels in the National Defense Reserve Fleet for purposes of the dismantlement and recycling of such vessels.
+
+&emsp;“(B) Response by the Maritime Administration to proposals from the international ship recycling industry for innovative and cost-effective disposal solutions for obsolete vessels in the National Defense Reserve Fleet, including an evaluation of the feasibility and advisability of such proposals.
+
+&emsp;“(C) Demonstration of the extent to which the cost-effective dismantlement or recycling of obsolete vessels in the National Defense Reserve Fleet can be accomplished abroad in \[a\] manner that appropriately addresses concerns regarding worker health and safety and the environment.
+
+&emsp;“(D) Opportunities to transfer abroad processes, methodologies, and technologies for ship dismantlement and recycling in order to support the pilot programs and to improve international practices and standards for ship dismantlement and recycling.
+
+&emsp;“(E) Exploration of cooperative efforts with foreign governments (under a global action program on ship recycling or other program) in order to foster economically and environmentally sound ship recycling abroad.
+
+“(4) The Secretary of Transportation shall submit to Congress a report on the pilot programs under paragraph (1) through the existing ship disposal reporting requirements in section 3502 of Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[section 1 \[div. C, title XXXV, §3502\] of Pub. L. 106–398, which amended this section and enacted provisions set out below\]. The report shall include a description of the activities under the pilot programs, and such recommendations for further legislative or administrative action as the Secretary considers appropriate.
+
+“(d)
+
+Construction.—Nothing in this section shall be construed to establish a preference for the reefing or export of obsolete vessels in the National Defense Reserve Fleet over other alternatives available to the Secretary for the scrapping of such vessels under section 3502(d)(3) of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001.”
 
 #### Scrapping of National Defense Reserve Fleet Vessels
 

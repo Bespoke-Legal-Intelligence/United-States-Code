@@ -94,6 +94,10 @@ Amendment by Pub. L. 101–649 applicable to actions taken after Nov. 29, 1990, 
 
 Section 7345(b) of Pub. L. 100–690 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any alien who enters, attempts to enter, or is found in, the United States on or after the date of the enactment of this Act \[Nov. 18, 1988\].”
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### References to Order of Removal Deemed To Include Order of Exclusion and Deportation
 
 For purposes of carrying out this chapter, any reference in law to an order of removal is deemed to include a reference to an order of exclusion and deportation or an order of deportation, see section 309(d)(2) of Pub. L. 104–208, set out in an Effective Date of 1996 Amendments note under section 1101 of this title.

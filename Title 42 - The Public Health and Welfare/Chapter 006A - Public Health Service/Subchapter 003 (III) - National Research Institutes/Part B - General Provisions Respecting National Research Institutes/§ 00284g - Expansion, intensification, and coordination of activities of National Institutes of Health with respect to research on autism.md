@@ -8,7 +8,7 @@
 
 #### (2) Administration of program; collaboration among agencies
 
-&emsp;The Director shall carry out this section acting through the Director of the National Institute of Mental Health and in collaboration with any other agencies that the Director determines appropriate.
+&emsp;The Director shall carry out this section acting through the Director of the NationalInstitute of Mental Health and in collaboration with any other agencies that the Director determines appropriate.
 
 #### (b) Centers of excellence
 
@@ -50,7 +50,7 @@
 
 #### (B) Duration
 
-&emsp;&emsp;Support for a center established under paragraph (1) may be provided under thissection for a period of not to exceed 5 years. Such period may be extended for one or more additional periods not exceeding 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+&emsp;&emsp;Support for a center established under paragraph (1) may be provided under this section for a period of not to exceed 5 years. Such period may be extended for one or more additional periods not exceeding 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
 #### (c) Facilitation of research
 

@@ -24,6 +24,26 @@ Each manufacturer required to conduct a surveillance of a device shall, within 3
 
 Section 212 of Pub. L. 105–115 provided in part that the amendment made by that section is effective 90 days after Nov. 21, 1997.
 
+#### Study by Institute of Medicine of Postmarket Surveillance Regarding Pediatric Populations
+
+Pub. L. 107–250, title II, §212, Oct. 26, 2002, 116 Stat. 1614, provided that:
+
+“(a)
+
+In General.—The Secretary of Health and Human Services (referred to in this section as the ‘Secretary’) shall request the Institute of Medicine to enter into an agreement with the Secretary under which such Institute conducts a study for the purpose of determining whether the system under the Federal Food, Drug, and Cosmetic Act \[21 U.S.C. 301 et seq.\] for the postmarket surveillance of medical devices provides adequate safeguards regarding the use of devices in pediatric populations.
+
+“(b)
+
+Certain Matters.—The Secretary shall ensure that determinations made in the study under subsection (a) include determinations of—
+
+&emsp;“(1) whether postmarket surveillance studies of implanted medical devices are of long enough duration to evaluate the impact of growth and development for the number of years that the child will have the implant, and whether the studies are adequate to evaluate how children's active lifestyles may affect the failure rate and longevity of the implant; and
+
+&emsp;“(2) whether the postmarket surveillance by the Food and Drug Administration of medical devices used in pediatric populations is sufficient to provide adequate safeguards for such populations, taking into account the Secretary's monitoring of commitments made at the time of approval of medical devices, such as phase IV trials, and the Secretary's monitoring and use of adverse reaction reports, registries, and other postmarket surveillance activities.
+
+“(c)
+
+Report to Congress.—The Secretary shall ensure that, not later than four years after the date of the enactment of this Act \[Oct. 26, 2002\], a report describing the findings of the study under subsection (a) is submitted to the Congress. The report shall include any recommendations of the Secretary for administrative or legislative changes to the system of postmarket surveillance referred to in such subsection.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 331, 352 of this title.

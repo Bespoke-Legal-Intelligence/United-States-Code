@@ -78,7 +78,7 @@ October 24, 1992, referred to in subsec. (d)(1)(B), was in the original “the d
 
 1992—Subsec. (a)(2). Pub. L. 102–507, §6(a)(1), substituted “the Administrator of the Agency for Health Care Policy and Research” for “the Director of the National Center for Health Services Research and Health Care Technology Assessment”.
 
-Subsec. (d). Pub. L. 102–507, §6(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read asfollows: “Members of the Panel shall serve for the life of the Panel. A vacancy on the Panel shall be filled in the same manner as the original appointment was made. A vacancy on the Panel shall not affect its powers.”
+Subsec. (d). Pub. L. 102–507, §6(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Members of the Panel shall serve for the life of the Panel. A vacancy on the Panel shall be filled in the same manner as the original appointment was made. A vacancy on the Panel shall not affect its powers.”
 
 Subsec. (f). Pub. L. 102–507, §6(a)(3), substituted “once” for “twice”.
 

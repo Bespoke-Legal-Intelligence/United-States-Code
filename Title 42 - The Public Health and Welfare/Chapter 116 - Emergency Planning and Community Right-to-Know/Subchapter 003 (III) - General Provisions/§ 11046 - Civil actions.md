@@ -62,7 +62,7 @@ The district court shall have jurisdiction in actions brought under subsection (
 
 #### (d) Notice
 
-(1) No action may be commenced under subsection (a)(1)(A) of this section prior to 60 daysafter the plaintiff has given notice of the alleged violation to the Administrator, the State in which the alleged violation occurs, and the alleged violator. Notice under this paragraph shall be given in such manner as the Administrator shall prescribe by regulation.
+(1) No action may be commenced under subsection (a)(1)(A) of this section prior to 60 days after the plaintiff has given notice of the alleged violation to the Administrator, the State in which the alleged violation occurs, and the alleged violator. Notice under this paragraph shall be given in such manner as the Administrator shall prescribe by regulation.
 
 (2) No action may be commenced under subsection (a)(1)(B) or (a)(1)(C) of this section prior to 60 days after the date on which the plaintiff gives notice to the Administrator, State Governor, or State emergency response commission (as the case may be) that the plaintiff will commence the action. Notice under this paragraph shall be given in such manner as the Administrator shall prescribe by regulation.
 
@@ -92,7 +92,7 @@ Nothing in this section shall restrict or expand any right which any person (or 
 
 #### References in Text
 
-This Act, referred to in subsec. (e), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613, as amended, known as the Superfund Amendments and Reauthorization Act of 1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
+This Act, referred to in subsec. (e), is Pub. L. 99–499, Oct. 17, 1986, 100 Stat. 1613, as amended, known as the Superfund Amendments and Reauthorization Act of1986. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 9601 of this title and Tables.
 
 The Federal Rules of Civil Procedure, referred to in subsec. (f), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 

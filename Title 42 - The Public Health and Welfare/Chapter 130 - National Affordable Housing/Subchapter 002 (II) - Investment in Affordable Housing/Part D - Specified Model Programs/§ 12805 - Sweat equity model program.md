@@ -48,7 +48,7 @@ Goals and Accountability.—In making grants under this section, the Secretary s
 
 &emsp;“(3) the dwellings constructed in connection with assistance provided under this section are quality dwellings that comply with local building and safety codes and standards and are available at prices below the prevailing market prices;
 
-&emsp;“(4) the provision of assistance under this section establishes and fosters a partnership between the Federal Government and organizations and consortia, resulting in efficient development of affordable housing with minimal governmental intervention, limitedgovernmental regulation, and significant involvement by private entities;
+&emsp;“(4) the provision of assistance under this section establishes and fosters a partnership between the Federal Government and organizations and consortia, resulting in efficient development of affordable housing with minimal governmental intervention, limited governmental regulation, and significant involvement by private entities;
 
 &emsp;“(5) activities to develop housing assisted pursuant to this section involve community participation in which volunteers assist in the construction of dwellings; and
 
@@ -126,7 +126,7 @@ Grant Agreement.—A grant under this section shall be made only pursuant to a g
 
 &emsp;“(4) require the organization or consortia to comply with the other provisions of this section;
 
-&emsp;“(5) provide that the Secretary shall recapture any grant amounts provided to the organization or consortia that are not used within 24 months after such amounts are first disbursed to the organization or consortia, except that such period shall be 36 months in the case of grant amounts from amounts made available for fiscal year 1996 to carry out this section, and in the case of a \[sic\] grant amounts provided to a local affiliate of the organization or consortia that is developing five or more dwellings in connection with such grant amounts; and
+&emsp;“(5) provide that the Secretary shall recapture any grant amounts provided to the organization or consortia that are not used within 24 months after such amounts are first disbursed to the organization or consortia, except that such period shall be 36 months in the case of grant amounts from amounts made available for fiscal year 1996 to carry out this section, and in the case of a \[sic\] grant amounts provided to a local affiliate of the organization or consortia thatis developing five or more dwellings in connection with such grant amounts; and
 
 &emsp;“(6) contain such other terms as the Secretary may require to provide for compliance with subsection (b) and the requirements of this section.
 

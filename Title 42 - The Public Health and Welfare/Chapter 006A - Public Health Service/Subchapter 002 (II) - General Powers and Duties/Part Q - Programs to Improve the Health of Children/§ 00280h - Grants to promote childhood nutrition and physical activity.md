@@ -22,7 +22,7 @@ A State or political subdivision of a State shall use amount received under a gr
 
 &emsp;(2) expand opportunities for physical activity programs in school- and community-based settings; and
 
-&emsp;(3) develop, implement, and evaluate programs that promote good eating habits and physical activity including opportunities for children with cognitive and physical disabilities.
+&emsp;(3) develop, implement, and evaluate programs that promote good eating habits and physical activity including opportunities forchildren with cognitive and physical disabilities.
 
 #### (d) Technical assistance
 
@@ -30,7 +30,7 @@ The Secretary may set-aside an amount not to exceed 10 percent of the amount app
 
 &emsp;(1) provide States and political subdivisions of States with technical support in the development and implementation of programs under this section; and
 
-&emsp;(2) disseminate information about effective strategies and interventions in preventing andtreating obesity through the promotion of good nutrition and physical activity.
+&emsp;(2) disseminate information about effective strategies and interventions in preventing and treating obesity through the promotion of good nutrition and physical activity.
 
 #### (e) Limitation on administrative costs
 

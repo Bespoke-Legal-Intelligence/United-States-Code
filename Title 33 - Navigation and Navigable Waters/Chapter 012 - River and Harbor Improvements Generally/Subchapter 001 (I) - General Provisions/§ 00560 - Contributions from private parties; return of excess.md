@@ -10,7 +10,7 @@ Section is from act Mar. 4, 1915, popularly known as the “Rivers and Harbors A
 
 #### Prior Provisions
 
-Section superseded act Mar. 4, 1913, ch. 144, §8, 37 Stat. 827, which read as follows: “The Secretary of War is hereby authorized to receive from private parties such funds as may be contributed by them to be expended in connection with funds appropriated by the United States for any authorized work of public improvement of rivers and harbors, whenever such work and expenditure may be considered by the Chief of Engineers as advantageous to the interests of navigation.”
+Section superseded act Mar. 4, 1913, ch. 144, §8, 37 Stat. 827, which read as follows: “The Secretary of Waris hereby authorized to receive from private parties such funds as may be contributed by them to be expended in connection with funds appropriated by the United States for any authorized work of public improvement of rivers and harbors, whenever such work and expenditure may be considered by the Chief of Engineers as advantageous to the interests of navigation.”
 
 #### Change of Name
 

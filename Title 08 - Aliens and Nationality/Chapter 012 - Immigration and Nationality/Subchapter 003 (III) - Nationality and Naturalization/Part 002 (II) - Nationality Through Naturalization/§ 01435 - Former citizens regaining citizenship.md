@@ -2,7 +2,7 @@
 
 #### (a) Requirements
 
-Any person formerly a citizen of the United States who (1) prior to September 22, 1922, lost United States citizenship by marriage to an alien, or by the loss of United States citizenship of such person's spouse, or (2) on or after September 22, 1922, lost United States citizenship by marriage to an alien ineligible to citizenship,may if no other nationality was acquired by an affirmative act of such person other than by marriage be naturalized upon compliance with all requirements of this subchapter, except—
+Any person formerly a citizen of the United States who (1) prior to September 22, 1922, lost United States citizenship by marriage to an alien, or by the loss of United States citizenship of such person's spouse, or (2) on or after September 22, 1922, lost United States citizenship by marriage to an alien ineligible to citizenship, may if no other nationality was acquired by an affirmative act of such person other than by marriage be naturalized upon compliance with all requirements of this subchapter, except—
 
 &emsp;(1) no period of residence or specified period of physical presence within the United States or within the State or district of the Service in the United States where the application is filed shall be required; and
 
@@ -57,6 +57,10 @@ Subsec. (c)(3). Pub. L. 101–649, §407(d)(6)(C)(ii), substituted “court, or 
 #### Effective Date of 1994 Amendment
 
 Section 103(b) of Pub. L. 103–416 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month beginning more than 120 days after the date of the enactment of this Act \[Oct. 25, 1994\].”
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Italian Elections; Naturalization of Former Citizens Who Voted in Certain Former Elections
 

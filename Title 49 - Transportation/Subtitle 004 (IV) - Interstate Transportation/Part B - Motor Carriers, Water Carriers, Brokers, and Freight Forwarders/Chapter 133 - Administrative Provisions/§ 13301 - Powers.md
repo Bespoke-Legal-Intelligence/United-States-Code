@@ -38,7 +38,7 @@ Depositions.—A deposition may be taken before a judge of a court of the United
 
 &emsp;(4)
 
-Notice of deposition.—Before taking a deposition, reasonable notice must be given inwriting by the party or the attorney of that party proposing to take a deposition to the opposing party or the attorney of record of that party, whoever is nearest. The notice shall state the name of the witness and the time and place of taking the deposition.
+Notice of deposition.—Before taking a deposition, reasonable notice must be given in writing by the party or the attorney of that party proposing to take a deposition to the opposing party or the attorney of record of that party, whoever is nearest. The notice shall state the name of the witness and the time and place of taking the deposition.
 
 &emsp;(5)
 

@@ -58,7 +58,7 @@ Subsec. (a)(3). Pub. L. 102–375, §303(a)(3), struck out par. (3) which read a
 
 Subsec. (b)(1). Pub. L. 102–375, §303(b)(1), substituted “$505,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995” for “$414,750,000 for the fiscal year 1988, $435,488,000 for the fiscal year 1989, $457,262,000 for the fiscal year 1990, and $480,125,000 for the fiscal year 1991”.
 
-Subsec. (b)(2). Pub. L. 102–375, §303(b)(2), substituted “$120,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995” for“$79,380,000 for the fiscal year 1988, $83,349,000 for the fiscal year 1989, $87,516,000 for the fiscal year 1990, and $91,892,000 for the fiscal year 1991”.
+Subsec. (b)(2). Pub. L. 102–375, §303(b)(2), substituted “$120,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995” for “$79,380,000 for the fiscal year 1988, $83,349,000 for the fiscal year 1989, $87,516,000 for the fiscal year 1990, and $91,892,000 for the fiscal year 1991”.
 
 Subsec. (b)(3). Pub. L. 102–375, §303(b)(3), added par. (3).
 
@@ -72,7 +72,7 @@ Subsec. (e). Pub. L. 102–375, §303(d), substituted “There are authorized to
 
 Subsec. (f). Pub. L. 102–375, §303(e), substituted “There are authorized to be appropriated $25,000,000 for fiscal year 1992 and such sums as may be necessary for fiscal years 1993, 1994, and 1995,” for “Subject to subsection (h) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991”.
 
-Subsec. (g). Pub. L. 102–375, §303(f), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Subject to subsection (h) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991, to carry out part G of this subchapter (relating to abuse, neglect, and exploitation of older individuals).”
+Subsec. (g). Pub. L. 102–375, §303(f), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows: “Subject to subsection (h) of this section, there are authorized to be appropriated $5,000,000 for fiscal year 1988 and such sums as may be necessary for each of the fiscal years 1989, 1990, and 1991, to carry out partG of this subchapter (relating to abuse, neglect, and exploitation of older individuals).”
 
 Subsec. (h). Pub. L. 102–375, §303(g), struck out subsec. (h) which read as follows: “No funds may be appropriated under subsection (a)(2), (a)(3), (e), (f), or (g) of this section for a fiscal year unless the aggregate amount appropriated for such fiscal year to carry out this subchapter (other than sections 3026(a)(6)(P), 3027(a)(12), and 3030a of this title, and parts E, F, and G of this subchapter), subchapter IV of this chapter (other than sections 3035f and 3035g of this title), subchapter IX of this chapter, and subchapter X of this chapter exceeds 105 percent of the aggregate amount appropriated for the preceding fiscal year to carry out such subchapters.”
 

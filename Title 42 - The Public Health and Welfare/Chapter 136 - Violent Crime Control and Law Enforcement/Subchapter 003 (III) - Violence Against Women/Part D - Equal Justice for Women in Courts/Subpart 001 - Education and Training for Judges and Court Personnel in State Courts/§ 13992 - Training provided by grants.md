@@ -34,7 +34,7 @@ Training provided pursuant to grants made under this part may include current in
 
 &emsp;(16) the likelihood of retaliation, recidivism, and escalation of violence by batterers, and the potential impact of incarceration and other meaningful sanctions for acts of domestic violence including violations of orders of protection;
 
-&emsp;(17) economic, psychological, social and institutional reasons for victims’ inability to leave the batterer, to report domestic violence or dating violence or to follow through on complaints, including the influence of lack of support from police, judges, and court personnel, and the legitimate reasons why victims of domestic violence or dating violence may refuse to testify against a defendant;
+&emsp;(17) economic, psychological, social and institutional reasons for victims’ inability to leave the batterer, to report domestic violenceor dating violence or to follow through on complaints, including the influence of lack of support from police, judges, and court personnel, and the legitimate reasons why victims of domestic violence or dating violence may refuse to testify against a defendant;
 
 &emsp;(18) the need for orders of protection, and the implications of mutual orders of protection, dual arrest policies, and mediation in domestic violence and dating violence cases;
 

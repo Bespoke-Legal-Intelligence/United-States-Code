@@ -1,12 +1,12 @@
 ### §4638. Transfers of surplus property
 
-The Administrator of General Services is authorized to transfer to a State agency for the purpose of providing replacement housing required by this subchapter, any real property surplus to the needs of the United States within the meaning of the Federal Property and Administrative Services Act of 1949, as amended \[40 U.S.C. 471 et seq.\]. Such transfer shall be subject to such terms and conditions as the Administrator determines necessary to protect the interests of the United States and may be made without monetary consideration, except that such State agency shall pay to the United States all net amounts received by such agency from any sale, lease, or other disposition of such property for such housing.
+The Administrator of General Services is authorized to transfer to a State agency for the purpose of providing replacement housing required by this subchapter, any real property surplus to the needs of the United States within the meaning of the Federal Property and Administrative Services Act of 1949, as amended.<sup>1</sup> Such transfer shall be subject to such terms and conditions as the Administrator determines necessary to protect the interests of the United States and may be made without monetary consideration, except that such State agency shall pay to the United States all net amounts received by such agency from any sale, lease, or other disposition of such property for such housing.
 
 (Pub. L. 91–646, title II, §218, Jan. 2, 1971, 84 Stat. 1902; Pub. L. 100–17, title IV, §414, Apr. 2, 1987, 101 Stat. 255.)
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, as amended, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. The surplus property provisions of that Act are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, as amended, referred to in text, is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

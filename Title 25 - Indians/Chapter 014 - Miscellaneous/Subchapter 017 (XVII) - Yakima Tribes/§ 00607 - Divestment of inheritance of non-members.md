@@ -6,7 +6,7 @@ A person who is not an enrolled member of the Yakima Tribes with one-fourth degr
 
 #### (b) Time of election
 
-On request of the Yakima Tribes the Examiner of Inheritance shall keep an estate pending for not less than two years from the date of decedent's death.
+On request of the Yakima Tribes the Examiner of Inheritance shall keep an estate pending fornot less than two years from the date of decedent's death.
 
 #### (c) Interest of surviving spouse
 

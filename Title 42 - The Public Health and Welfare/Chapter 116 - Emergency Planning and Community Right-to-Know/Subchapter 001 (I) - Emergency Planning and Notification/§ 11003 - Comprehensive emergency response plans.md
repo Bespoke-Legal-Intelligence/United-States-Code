@@ -34,7 +34,7 @@ Each emergency plan shall include (but is not limited to) each of the following:
 
 For each facility subject to the requirements of this subchapter:
 
-&emsp;(1) Within 30 days after establishment of a local emergency planning committee for the emergency planning district in which such facility is located, or within 11 months after October 17, 1986, whichever is earlier, the owneror operator of the facility shall notify the emergency planning committee (or the Governor if there is no committee) of a facility representative who will participate in the emergency planning process as a facility emergency coordinator.
+&emsp;(1) Within 30 days after establishment of a local emergency planning committee for the emergency planning district in which such facility is located, or within 11 months after October 17, 1986, whichever is earlier, the owner or operator of the facility shall notify the emergency planning committee (or the Governor if there is no committee) of a facility representative who will participate in the emergency planning process as a facility emergency coordinator.
 
 &emsp;(2) The owner or operator of the facility shall promptly inform the emergency planning committee of any relevant changes occurring at such facility as such changes occur or are expected to occur.
 

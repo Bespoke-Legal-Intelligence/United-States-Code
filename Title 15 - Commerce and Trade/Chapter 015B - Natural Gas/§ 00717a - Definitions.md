@@ -4,7 +4,7 @@ When used in this chapter, unless the context otherwise requires—
 
 &emsp;(1) “Person” includes an individual or a corporation.
 
-&emsp;(2) “Corporation” includes any corporation, joint-stock company, partnership, association, business trust, organized group of persons, whether incorporated or not, receiver or receivers, trustee or trustees of any of the foregoing, but shall not include municipalities as hereinafter defined.
+&emsp;(2) “Corporation” includes any corporation, joint-stock company, partnership, association,business trust, organized group of persons, whether incorporated or not, receiver or receivers, trustee or trustees of any of the foregoing, but shall not include municipalities as hereinafter defined.
 
 &emsp;(3) “Municipality” means a city, county, or other political subdivision or agency of a State.
 

@@ -18,7 +18,7 @@ To the extent that the right to use the registered mark has become incontestable
 
 &emsp;(5) That the mark whose use by a party is charged as an infringement was adopted without knowledge of the registrant's prior use and has been continuously used by such party or those in privity with him from a date prior to (A) the date of constructive use of the mark established pursuant to section 1057(c) of this title, (B) the registration of the mark under this chapter if the application for registration is filed before the effective date of the Trademark Law Revision Act of 1988, or (C) publication of the registered mark under subsection (c) of section 1062 of this title: <i>Provided, however</i>, That this defense or defect shall apply only for the area in which such continuous prior use is proved; or
 
-&emsp;(6) That the mark whose use is charged as an infringement was registered and used prior to the registration under this chapter or publication under subsection (c) of section 1062 of this title of the registered mark of the registrant, and not abandoned: <i>Provided, however</i>, That this defense or defect shall apply only for the area in which the mark was used prior to such registration or such publication of the registrant's mark; or
+&emsp;(6) That the mark whose use is charged as an infringement was registered and used prior tothe registration under this chapter or publication under subsection (c) of section 1062 of this title of the registered mark of the registrant, and not abandoned: <i>Provided, however</i>, That this defense or defect shall apply only for the area in which the mark was used prior to such registration or such publication of the registrant's mark; or
 
 &emsp;(7) That the mark has been or is being used to violate the antitrust laws of the United States; or
 
@@ -26,7 +26,7 @@ To the extent that the right to use the registered mark has become incontestable
 
 &emsp;(9) That equitable principles, including laches, estoppel, and acquiescence, are applicable.
 
-(July 5, 1946, ch. 540, title VI, §33, 60 Stat. 438; Pub. L. 87–772, §18, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §128(a), (b), Nov. 16, 1988, 102 Stat. 3944; Pub. L. 105–330, title II, §201(a)(9), Oct. 30, 1998, 112 Stat. 3070.)
+(July 5, 1946, ch. 540, title VI, §33, 60 Stat. 438; Pub. L. 87–772, §18, Oct. 9, 1962, 76 Stat. 774; Pub. L. 100–667, title I, §128(a), (b), Nov. 16, 1988, 102 Stat. 3944; Pub. L. 105–330, title II, §201(a)(9), Oct. 30, 1998, 112 Stat. 3070; Pub. L. 107–273, div. C, title III, §13207(b)(7), Nov. 2, 2002, 116 Stat. 1908.)
 
 #### References in Text
 
@@ -41,6 +41,8 @@ The antitrust laws, referred to in subsec. (b)(7), are classified generally to c
 Act Feb. 20, 1905, ch. 592, §§16, 21, 33 Stat. 728, 729.
 
 #### Amendments
+
+2002—Subsec. (b)(8). Pub. L. 107–273 realigned margins.
 
 1998—Subsec. (b)(8), (9). Pub. L. 105–330 added par. (8) and redesignated former par. (8) as (9).
 

@@ -254,11 +254,11 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 &emsp;The Secretary shall determine the applicable rate of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
-#### (k) Interest rates for new loans on or after October 1, 1998, and before July 1, 2003
+#### (k) Interest rates for new loans on or after October 1, 1998, and before July 1, 2006
 
 #### (1) In general
 
-&emsp;Notwithstanding subsection (h) of this section and subject to paragraph (2) of this subsection, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
+&emsp;Notwithstanding subsection (h) of this section and subject to paragraph (2) of this subsection, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall, during any 12-month period beginning on July 1 and ending on June 30, be determined on the preceding June 1 and be equal to—
 
 &emsp;&emsp;(A) the bond equivalent rate of 91-day Treasury bills auctioned at the final auction held prior to such June 1; plus
 
@@ -268,7 +268,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (2) In school and grace period rules
 
-&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under this part\(other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, the applicable rate of interest for interest which accrues—
+&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under this part\(other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest for interest which accrues—
 
 &emsp;&emsp;(A) prior to the beginning of the repayment period of the loan; or
 
@@ -278,7 +278,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (3) PLUS loans
 
-&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under section 1078–2 of this title for which the first disbursement is made on or after October 1, 1998, and before July 1, 2003, the applicable rate of interest shall be determined under paragraph (1)—
+&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under section 1078–2 of this title for which the first disbursement is made on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall be determined under paragraph (1)—
 
 &emsp;&emsp;(A) by substituting “3.1 percent” for “2.3 percent”; and
 
@@ -286,7 +286,7 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 #### (4) Consolidation loans
 
-&emsp;With respect to any consolidation loan under section 1078–3 of this title for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2003, the applicable rate of interest shall be at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
+&emsp;With respect to any consolidation loan under section 1078–3 of this title for which the application is received by an eligible lender on or after October 1, 1998, and before July 1, 2006, the applicable rate of interest shall be at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
 
 &emsp;&emsp;(A) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of 1 percent; or
 
@@ -296,11 +296,29 @@ Notwithstanding subsections (a) and (b) of this section, with respect to any loa
 
 &emsp;The Secretary shall determine the applicable rate of interest under this subsection after consultation with the Secretary of the Treasury and shall publish such rate in the Federal Register as soon as practicable after the date of determination.
 
-#### (<i>l</i>) Lesser rates permitted
+#### (<i>l</i>) Interest rates for new loans on or after July 1, 2006
+
+#### (1) In general
+
+&emsp;Notwithstanding subsection (h) of this section, with respect to any loan made, insured, or guaranteed under this part (other than a loan made pursuant to section 1078–2 or 1078–3 of this title) for which the first disbursement is made on or after July 1, 2006, the applicable rate of interest shall be 6.8 percent on the unpaid principal balance of the loan.
+
+#### (2) PLUS loans
+
+&emsp;Notwithstanding subsection (h) of this section, with respect to any loan under section 1078–2 of this title for which the first disbursement is made on or after July 1, 2006, the applicable rate of interest shall be 7.9 percent on the unpaid principal balance of the loan.
+
+#### (3) Consolidation loans
+
+&emsp;With respect to any consolidation loan under section 1078–3 of this title for which the application is received by an eligible lender on or after July 1, 2006, the applicable rate of interest shall be at an annual rate on the unpaid principal balance of the loan that is equal to the lesser of—
+
+&emsp;&emsp;(A) the weighted average of the interest rates on the loans consolidated, rounded to the nearest higher one-eighth of 1 percent; or
+
+&emsp;&emsp;(B) 8.25 percent.
+
+#### (m) Lesser rates permitted
 
 Nothing in this section or section 1078–3 of this title shall be construed to prohibit a lender from charging a borrower interest at a rate less than the rate which is applicable under this part.
 
-#### (m) Definitions
+#### (n) Definitions
 
 For the purpose of subsections (a) and (d) of this section—
 
@@ -308,7 +326,7 @@ For the purpose of subsections (a) and (d) of this section—
 
 &emsp;(2) the term “period of enrollment” shall be the period for which the loan is made as determined by the institution of higher education and shall coincide with academic terms such as academic year, semester, trimester, quarter, or other academic period as defined by such institution.
 
-(Pub. L. 89–329, title IV, §427A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1364; amended Pub. L. 100–50, §10(d)(1), June 3, 1987, 101 Stat. 342; Pub. L. 102–325, title IV, §415, July 23, 1992, 106 Stat. 514; Pub. L. 103–66, title IV, §4101, Aug. 10, 1993, 107 Stat. 364; Pub. L. 103–208, §2(c)(5)–(10), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 105–178, title VIII, §8301(a)(1), June 9, 1998, 112 Stat. 496; Pub. L. 105–244, title IV, §416(a)(1), Oct. 7, 1998, 112 Stat. 1679; Pub. L. 106–554, §1(a)(1) \[title III, §318(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49.)
+(Pub. L. 89–329, title IV, §427A, as added Pub. L. 99–498, title IV, §402(a), Oct. 17, 1986, 100 Stat. 1364; amended Pub. L. 100–50, §10(d)(1), June 3, 1987, 101 Stat. 342; Pub. L. 102–325, title IV, §415, July 23, 1992, 106 Stat. 514; Pub. L. 103–66, title IV, §4101, Aug. 10, 1993, 107 Stat. 364; Pub. L. 103–208, §2(c)(5)–(10), Dec. 20, 1993, 107 Stat. 2461; Pub. L. 105–178, title VIII, §8301(a)(1), June 9, 1998, 112 Stat. 496; Pub. L. 105–244, title IV, §416(a)(1), Oct. 7, 1998, 112 Stat. 1679; Pub. L. 106–554, §1(a)(1) \[title III, §318(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–49; Pub. L. 107–139, §1(a)(1), (c), Feb. 8, 2002, 116 Stat. 8, 9.)
 
 #### References in Text
 
@@ -323,6 +341,10 @@ Amendments by section 2(c)(6)–(10) of Pub. L. 103–208 (which were effective 
 A prior section 1077a, Pub. L. 89–329, title IV, §427A, as added Pub. L. 96–374, title IV, §415(a)(1), Oct. 3, 1980, 94 Stat. 1419; amended Pub. L. 97–35, title V, §534(a)(1), Aug. 13, 1981, 95 Stat. 454; Pub. L. 98–79, §5(a), (b)(1), Aug. 15, 1983, 97 Stat. 481, 482, prescribed applicable interest rates on loans, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
+
+2002—Subsec. (k). Pub. L. 107–139, §1(c), substituted “2006” for “2003” in heading and “July 1, 2006,” for “July 1, 2003,” wherever appearing in text.
+
+Subsecs. (<i>l</i>) to (n). Pub. L. 107–139, §1(a)(1), added subsec. (<i>l</i>) and redesignated former subsecs. (<i>l</i>) and (m) as (m) and (n), respectively.
 
 2000—Subsec. (c)(4)(B). Pub. L. 106–554 amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “For any 12-month period beginning on July 1 and ending on June 30, the rate determined under this subparagraph is determined on the preceding June 1 and is equal to—
 
@@ -352,7 +374,7 @@ Subsec. (i). Pub. L. 103–66, §4101(2), redesignated subsec. (f) as (i).
 
 Subsec. (i)(1)(B). Pub. L. 103–208, §2(c)(6), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “by crediting the excess interest to the reduction of principal to the extent provided for under paragraph (5) of this subsection.” See Codification note above.
 
-Subsec. (i)(2)(B). Pub. L. 103–208, §2(c)(7), substituted “average daily principal balance” for “outstandingprincipal balance” and “during” for “at the end of”. See Codification note above.
+Subsec. (i)(2)(B). Pub. L. 103–208, §2(c)(7), substituted “average daily principal balance” for “outstanding principal balance” and “during” for “at the end of”. See Codification note above.
 
 Subsec. (i)(4)(B). Pub. L. 103–208, §2(c)(8), substituted “average daily principal balance” for “outstanding principal balance” and “during” for “at the end of”. See Codification note above.
 

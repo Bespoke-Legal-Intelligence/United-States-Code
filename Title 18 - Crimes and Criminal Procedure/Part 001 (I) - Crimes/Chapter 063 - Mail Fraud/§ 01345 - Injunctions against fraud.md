@@ -4,9 +4,9 @@
 
 &emsp;(A) violating or about to violate this chapter or section 287, 371 (insofar as such violation involves a conspiracy to defraud the United States or any agency thereof), or 1001 of this title;
 
-&emsp;(B) committing or about to commit a banking law violation (as defined in section 3322(d) of this title), or
+&emsp;(B) committing or about to commit a banking law violation (as defined in section 3322(d) of this title); or
 
-&emsp;(C) committing or about to commit a Federal health care offense.<sup>1</sup>
+&emsp;(C) committing or about to commit a Federal health care offense;
 
 > the Attorney General may commence a civil action in any Federal court to enjoin such violation.
 
@@ -22,9 +22,9 @@
 
 (3) A permanent or temporary injunction or restraining order shall be granted without bond.
 
-(b) The court shall proceed as soon as practicable to the hearing and determination of such an action, and may, at any time before final determination, enter such a restraining order or prohibition, or take such other action, as is warranted to prevent a continuing and substantial injury to the United States or to any person orclass of persons for whose protection the action is brought. A proceeding under this section is governed by the Federal Rules of Civil Procedure, except that, if an indictment has been returned against the respondent, discovery is governed by the Federal Rules of Criminal Procedure.
+(b) The court shall proceed as soon as practicable to the hearing and determination of such an action, and may, at any time before final determination, enter such a restraining order or prohibition, or take such other action, as is warranted to prevent a continuing and substantial injury to the United States or to any person or class of persons for whose protection the action is brought. A proceeding under this section is governed by the Federal Rules of Civil Procedure, except that, if an indictment has been returned against the respondent, discovery is governed by the Federal Rules of Criminal Procedure.
 
-(Added Pub. L. 98–473, title II, §1205(a), Oct. 12, 1984, 98 Stat. 2152; amended Pub. L. 100–690, title VII, §7077, Nov. 18, 1988, 102 Stat. 4406; Pub. L. 101–647, title XXV, §2521(b)(2), title XXXV, §3542, Nov. 29, 1990, 104 Stat. 4865, 4925; Pub. L. 103–322, title XXXIII, §330011(k), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, §247, Aug. 21, 1996, 110 Stat. 2018.)
+(Added Pub. L. 98–473, title II, §1205(a), Oct. 12, 1984, 98 Stat. 2152; amended Pub. L. 100–690, titleVII, §7077, Nov. 18, 1988, 102 Stat. 4406; Pub. L. 101–647, title XXV, §2521(b)(2), title XXXV, §3542, Nov. 29, 1990, 104 Stat. 4865, 4925; Pub. L. 103–322, title XXXIII, §330011(k), Sept. 13, 1994, 108 Stat. 2145; Pub. L. 104–191, title II, §247, Aug. 21, 1996, 110 Stat. 2018; Pub. L. 107–273, div. B, title IV, §4002(b)(14), Nov. 2, 2002, 116 Stat. 1808.)
 
 #### References in Text
 
@@ -33,6 +33,10 @@ The Federal Rules of Civil Procedure, referred to in subsec. (b), are set out in
 The Federal Rules of Criminal Procedure, referred to in subsec. (b), are set out in the Appendix to this title.
 
 #### Amendments
+
+2002—Subsec. (a)(1)(B). Pub. L. 107–273, §4002(b)(14)(A), substituted “; or” for “, or” at end.
+
+Subsec. (a)(1)(C). Pub. L. 107–273, §4002(b)(14)(B), substituted semicolon for period at end.
 
 1996—Subsec. (a)(1)(C). Pub. L. 104–191, §247(a), added subpar. (C).
 
@@ -49,6 +53,4 @@ Pub. L. 101–647, §3542, which directed insertion of a comma after “of this 
 #### Effective Date of 1994 Amendment
 
 Section 330011(k) of Pub. L. 103–322 provided that the amendment made by that section is effective Nov. 29, 1990.
-
-<i><sup>1</sup></i><i> So in original. The period probably should be a comma.</i>
 

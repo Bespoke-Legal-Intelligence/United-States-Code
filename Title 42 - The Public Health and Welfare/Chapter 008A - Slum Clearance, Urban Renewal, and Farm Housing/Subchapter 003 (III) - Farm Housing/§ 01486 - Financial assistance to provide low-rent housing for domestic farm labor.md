@@ -36,7 +36,7 @@ The Secretary shall prescribe regulations to insure that Federal funds expended 
 
 #### (f) Wages; labor standards; waiver; authority and functions of Secretary
 
-All laborers and mechanics employed by contractors or subcontractors on projects assisted by the Secretary which are undertaken by approved applicants under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5). The Secretary shall not extend any financial assistance under this section for any project without first obtaining adequate assurance that these labor standards will be maintained on the construction work; except that compliance with such standards may be waived by the Secretary in cases or classes of cases where laborers or mechanics, not otherwise employed at any time on the project, voluntarily donate their services without compensation for the purpose of lowering the costs of construction and the Secretary determines that any amounts thereby saved are fully credited to the person, corporation, association, organization, or other entity, undertaking the project. The Secretary of Labor shall have, with respect to the labor standards specified in this section, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and section 276c of title 40.
+All laborers and mechanics employed by contractors or subcontractors on projects assisted by the Secretary which are undertaken by approved applicants under this section shall be paid wages at rates not less than those prevailing on similar construction in the locality, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40. The Secretary shall not extend any financial assistance under this section for any project without first obtaining adequate assurance that these labor standards will be maintained on the construction work; except that compliance with such standards may be waived by the Secretary in cases or classes of cases where laborers or mechanics, not otherwise employed at any time on the project, voluntarily donate their services without compensation for the purpose of lowering the costs of construction and the Secretary determines that any amounts thereby saved are fully credited to the person, corporation, association, organization, or other entity, undertaking the project. The Secretary of Labor shall have, with respect to the labor standards specified in this section, the authority and functions set forth in Reorganization Plan Numbered 14 of 1950 (15 F.R. 3176; 64 Stat. 1267), and section 3145 of title 40.
 
 #### (g) Definitions
 
@@ -86,7 +86,7 @@ Housing and related facilities constructed with grants under this section may be
 
 #### (B) Available assistance
 
-&emsp;&emsp;A recipient may receive assistance under both clauses (i) and (ii) of subparagraph (A). The Secretary may increase the limit contained in such clauses to $800,000 in areaswhich the Secretary finds have high acquisition and rehabilitation costs.
+&emsp;&emsp;A recipient may receive assistance under both clauses (i) and (ii) of subparagraph (A). The Secretary may increase the limit contained in such clauses to $800,000 in areas which the Secretary finds have high acquisition and rehabilitation costs.
 
 #### (C) Repayment of advance
 
@@ -176,13 +176,13 @@ Housing and related facilities constructed with grants under this section may be
 
 #### References in Text
 
-The Davis-Bacon Act, as amended, referred to in subsec. (f), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 Reorganization Plan Numbered 14 of 1950, referred to in subsec. (f), is set out in the Appendix to Title 5, Government Organization and Employees.
 
 Section 1485(d)(4) of this title, referred to in subsec. (g)(3), was redesignated section 1485(e)(4) of this title by Pub. L. 100–242, title II, §242(1), Feb. 5, 1988, 101 Stat. 1890.
 
 #### Codification
+
+In subsec. (f), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended (40 U.S.C. 276a—276a–5)” and “section 3145 of title 40” substituted for “section 2 of the Act of June 13, 1934, as amended (40 U.S.C. 276c)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Subsec. (k)(6) of this section, which required the Secretary to submit an annual report to Congress summarizing the activities carried out under subsec. (k) and setting forth the findings, conclusions, and recommendations of the Secretary as a result of the activities, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, item 18 on page 103 of House Document No. 103–7.
 
@@ -216,7 +216,7 @@ Subsec. (g)(1). Pub. L. 91–609, §801(c), substituted “structures (including
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1483, 1484, 1490a, 4851b, 8011 of this title; title 7 section 2204f; title 20 section 244.
+This section is referred to in sections 1483, 1484, 1490a, 4851b, 8011 of this title; title 20 section 244.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

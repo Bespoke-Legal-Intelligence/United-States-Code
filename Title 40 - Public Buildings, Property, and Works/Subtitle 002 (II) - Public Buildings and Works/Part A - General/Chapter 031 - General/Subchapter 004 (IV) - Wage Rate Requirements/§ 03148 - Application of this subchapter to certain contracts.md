@@ -1,0 +1,24 @@
+### §3148. Application of this subchapter to certain contracts
+
+This subchapter applies to a contract authorized by law that is made without regard to section 3709 of the Revised Statutes (41 U.S.C. 5), or on a cost-plus-a-fixed-fee basis or otherwise without advertising for proposals, if this subchapter otherwise would apply to the contract.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1153.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3148
+
+40:276a–7.
+
+Mar. 23, 1941, ch. 26 (last proviso in 5th complete par. on p. 53), 55 Stat. 53; Aug. 21, 1941, ch. 395 (last proviso in 14th par. on p. 664), 55 Stat. 664.
+
+The words “this subchapter” are substituted for “such Act” to correct the reference as stated in 40:276a–7.
+

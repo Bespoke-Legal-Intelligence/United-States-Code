@@ -6,7 +6,7 @@ It is the purpose of this subchapter to require and to assist the development an
 
 #### (b) Application of technology: confined disposal of pollutants; consideration of advanced techniques
 
-Waste treatment management plans and practices shall provide for the application of the best practicable waste treatment technology before any discharge into receiving waters, including reclaiming and recycling of water, and confined disposal of pollutants so they will not migrate to cause water or other environmental pollution and shall provide for consideration of advanced waste treatment techniques.
+Waste treatment management plans and practices shall provide for the application of the best practicable waste treatment technology before any discharge into receiving waters, including reclaiming and recycling of water, and confineddisposal of pollutants so they will not migrate to cause water or other environmental pollution and shall provide for consideration of advanced waste treatment techniques.
 
 #### (c) Waste treatment management area and scope
 
@@ -86,7 +86,7 @@ No grant made after November 15, 1981, for a publicly owned treatment works, oth
 
 (1) Notwithstanding any other provisions of this subchapter, the Administrator is authorized to make a grant from any funds otherwise allotted to the State of California under section 1285 of this title to the project (and in the amount) specified in Order WQG 81–1 of the California State Water Resources Control Board.
 
-(2) Notwithstanding any other provision of this chapter, the Administrator shall make a grant from any funds otherwise allotted to the State of California to the city of Eureka, California, in connection with project numbered C–06–2772, for the purchase of one hundred and thirty-nine acres of property as environmental mitigation for siting of the proposed treatment plant.
+(2) Notwithstanding any other provision of this chapter, the Administrator shall make a grant from any funds otherwise allotted to the State of California to the city of Eureka, California, in connection with project numbered C–06–2772, for the purchase of one hundred andthirty-nine acres of property as environmental mitigation for siting of the proposed treatment plant.
 
 (3) Notwithstanding any other provision of this chapter, the Administrator shall make a grant from any funds otherwise allotted to the State of California to the city of San Diego, California, in connection with that city's aquaculture sewage process (total resources recovery system) as an innovative and alternative waste treatment process.
 
@@ -102,7 +102,7 @@ The Administrator shall encourage and assist applicants for grant assistance und
 
 &emsp;(1) projects the future requirements for waste treatment services within the applicant's jurisdiction for a period of no less than ten years;
 
-&emsp;(2) projects the nature, extent, timing, and costs of future expansion and reconstructionof treatment works which will be necessary to satisfy the applicant's projected future requirements for waste treatment services; and
+&emsp;(2) projects the nature, extent, timing, and costs of future expansion and reconstruction of treatment works which will be necessary to satisfy the applicant's projected future requirements for waste treatment services; and
 
 &emsp;(3) sets forth with specificity the manner in which the applicant intends to finance such future expansion and reconstruction.
 
@@ -158,7 +158,7 @@ Pub. L. 104–303, title V, §586, Oct. 12, 1996, 110 Stat. 3791, provided that:
 
 “(a)
 
-In General.—Notwithstanding the provisions of title II of the Federal Water Pollution Control Act (33 U.S.C. 1281 et seq.), Executive Order 12803 \[5 U.S.C. 601 note\], or any other law or authority, an entity that received Federal grant assistance for an infrastructure asset under the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] shall not be required to repay any portion of the grant upon the lease or concession of the asset only if—
+In General.—Notwithstanding the provisions of title II of the Federal Water Pollution Control Act (33 U.S.C. 1281 et seq.), Executive Order 12803 \[5 U.S.C. 601 note\], or any other law or authority, an entity that received Federal grant assistance for an infrastructure asset under the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\] shall not be required to repayany portion of the grant upon the lease or concession of the asset only if—
 
 &emsp;“(1) ownership of the asset remains with the entity that received the grant; and
 
@@ -204,7 +204,7 @@ Grants for Wastewater Assistance.—The Administrator of the Environmental Prote
 
 “(c)
 
-Use of Funds.—Each grant awarded pursuant to subsection (b) shall be used to provide assistance to one or more eligible communities with respect to which the residents are subject to a significant health risk (as determined by the Administrator or the head of the Federal agency making the grant) attributable to the lackof access to an adequate and affordable treatment works for wastewater.
+Use of Funds.—Each grant awarded pursuant to subsection (b) shall be used to provide assistance to one or more eligible communities with respect to which the residents are subject to a significant health risk (as determined by the Administrator or the head of the Federal agency making the grant) attributable to the lack of access to an adequate and affordable treatment works for wastewater.
 
 “(d)
 
@@ -252,7 +252,7 @@ Pub. L. 104–134, title I, §101(e) \[title III\], Apr. 26, 1996, 110 Stat. 132
 
 #### Grants to Trust Territory of the Pacific Islands, American Samoa, Guam, Northern Mariana Islands, and Virgin Islands; Waiver of Collector Sewers Limitation
 
-Pub. L. 99–396, §12(b), Aug. 27, 1986, 100 Stat. 841, provided that: “In awarding grants to the Trust Territory of the Pacific Islands, American Samoa, Guam, the Northern Mariana Islands and the Virgin Islands under section 201(g)(1) of the Clean Water Act (33 U.S.C. 1251 et seq.) \[subsec. (g)(1) of this section\], the Administrator of the Environmental Protection Agency may waive limitations regarding grant eligibility for sewerage facilities and related appurtenances, insofar as such limitations relate to collector sewers, based upon a determination that applying such limitations could hinder the alleviation of threats to public health and water quality. In making such a determination, the Administrator shall take into consideration the public health and water quality benefits to be derived and the availability of alternate funding sources. The Administrator shall not award grants under this section for the operation and maintenance of sewerage facilities, for construction of facilities which are not an essential component of the sewerage facilities, or any other activities or facilities which are not concerned with the management of wastewater to alleviate threats to public health and water quality.” \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
+Pub. L. 99–396, §12(b), Aug. 27, 1986, 100 Stat. 841, provided that: “In awarding grants to the Trust Territory of the Pacific Islands, American Samoa, Guam, the Northern Mariana Islands and the Virgin Islands under section 201(g)(1) of the Clean Water Act (33 U.S.C. 1251 et seq.) \[subsec. (g)(1) of this section\], the Administrator of the Environmental Protection Agency may waive limitations regarding grant eligibility for sewerage facilities and related appurtenances, insofar as such limitations relate to collector sewers, based upon a determination that applying such limitations couldhinder the alleviation of threats to public health and water quality. In making such a determination, the Administrator shall take into consideration the public health and water quality benefits to be derived and the availability of alternate funding sources. The Administrator shall not award grants under this section for the operation and maintenance of sewerage facilities, for construction of facilities which are not an essential component of the sewerage facilities, or any other activities or facilities which are not concerned with the management of wastewater to alleviate threats to public health and water quality.” \[For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.\]
 
 #### Environmental Financing Authority
 
@@ -268,7 +268,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 “(2) The Board of Directors shall meet at the call of its Chairman. The Board shall determine the general policies which shall govern the operations of the Authority. The Chairman of the Board shall select and effect the appointment of qualified persons to fill the offices as may be provided for in the bylaws, with such executive functions, powers, and duties as may be prescribed by the bylaws or by the Board of Directors, and such persons shall be the executive officers of the Authority and shall discharge all such executive functions, powers, and duties. The members of the Board, as such, shall not receive compensation for their services.
 
-“(e) \[Purchase of State and Local Obligations\] (1) Until July 1, 1975, the Authority is authorized to makecommitments to purchase, and to purchase on terms and conditions determined by the Authority, any obligation or participation therein which is issued by a State or local public body to finance the non-Federal share of the cost of any project for the construction of waste treatment works which the Administrator of the Environmental Protection Agency has determined to be eligible for Federal financial assistance under the Federal Water Pollution Control Act \[this chapter\].
+“(e) \[Purchase of State and Local Obligations\] (1) Until July 1, 1975, the Authority is authorized to make commitments to purchase, and to purchase on terms and conditions determined by the Authority, any obligation or participation therein which is issued by a State or local public body to finance the non-Federal share of the cost of any project for the construction of waste treatment works which the Administrator of the Environmental Protection Agency has determined to be eligible for Federal financial assistance under the Federal Water Pollution Control Act \[this chapter\].
 
 “(2) No commitment shall be entered into, and no purchase shall be made, unless the Administrator of the Environmental Protection Agency (A) has certified that the public body is unable to obtain on reasonable terms sufficient credit to finance its actual needs; (B) has approved the project as eligible under the Federal Water Pollution Control Act \[this chapter\], and (C) has agreed to guarantee timely payment of principal and interest on the obligation. The Administrator is authorized to guarantee such timely payments and to issue regulations as he deems necessary and proper to protect such guarantees. Appropriations are hereby authorized to be made to the Administrator in such sums as are necessary to make payments under such guarantees, and such payments are authorized to be made from such appropriations.
 
@@ -322,7 +322,7 @@ Section 12 of Pub. L. 92–500, as amended by Pub. L. 97–258, §4(b), Sept. 13
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1254, 1281a, 1281b, 1282, 1283, 1284, 1285, 1286, 1288, 1291, 1292, 1297, 1298, 1311, 1314, 1371, 1382, 1383 of this title.
+This section is referred to in sections 1254, 1281a, 1281b, 1282, 1283, 1284, 1285, 1286, 1288, 1291, 1292, 1297, 1298, 1311, 1314, 1371, 1375, 1382, 1383 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

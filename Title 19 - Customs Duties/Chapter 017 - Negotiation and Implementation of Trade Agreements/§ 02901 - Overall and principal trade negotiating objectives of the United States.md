@@ -38,7 +38,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;The principal negotiating objectives of the United States regarding developing countries are—
 
-&emsp;&emsp;(A) to ensure that developing countries promote economic development by assuming the fullest possible measure of responsibilityfor achieving and maintaining an open international trading system by providing reciprocal benefits and assuming equivalent obligations with respect to their import and export practices; and
+&emsp;&emsp;(A) to ensure that developing countries promote economic development by assuming the fullest possible measure of responsibility for achieving and maintaining an open international trading system by providing reciprocal benefits and assuming equivalent obligations with respect to their import and export practices; and
 
 &emsp;&emsp;(B) to establish procedures for reducing nonreciprocal trade benefits for the more advanced developing countries.
 
@@ -104,7 +104,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;(A) to seek the enactment and effective enforcement by foreign countries of laws which—
 
-&emsp;&emsp;&emsp;(i) recognize and adequately protect intellectual property, including copyrights,patents, trademarks, semiconductor chip layout designs, and trade secrets, and
+&emsp;&emsp;&emsp;(i) recognize and adequately protect intellectual property, including copyrights, patents, trademarks, semiconductor chip layout designs, and trade secrets, and
 
 &emsp;&emsp;&emsp;(ii) provide protection against unfair competition,
 
@@ -192,7 +192,7 @@ The overall trade negotiating objectives of the United States are to obtain—
 
 &emsp;&emsp;(iv) otherwise denying equitable access by United States persons to foreign-developed technology or contributing to the inequitable flow of technology between the United States and its trading partners.
 
-&emsp;(B) In pursuing the negotiating objective described in subparagraph (A), the United States negotiators shall take into account United States Government policies in licensing or otherwise making available to foreign persons technology and other information developed by United States laboratories.
+&emsp;(B) In pursuing the negotiating objective described in subparagraph (A), the United States negotiators shall take into account UnitedStates Government policies in licensing or otherwise making available to foreign persons technology and other information developed by United States laboratories.
 
 #### (16) Border taxes
 
@@ -280,7 +280,7 @@ Sec. 1–501. <i>Uniform Fee on Imports</i>. The functions vested in the Preside
 
 Sec. 2–101. <i>Countertrade and Barter.</i>
 
-(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of theSecretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director of the Federal Emergency Management Agency, the United States Trade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
+(1) <i>Establishment</i>. There is established an Interagency Group on Countertrade, which shall be composed of the Secretaries of Commerce, State, Defense, Treasury, Labor, Agriculture, and Energy, the Attorney General, the Administrator of the Agency for International Development, the Director of the Federal Emergency Management Agency, the United States Trade Representative and the Director of the Office of Management and Budget, or their respective representatives. The Secretary of Commerce or his representative shall be the Chairman of the interagency group.
 
 (2) <i>Functions</i>. The interagency group shall carry out the functions and duties set out in section 2205(a) of the Omnibus Trade Act \[15 U.S.C. 4712(a)\].
 
@@ -332,7 +332,7 @@ Sec. 3–301. <i>Reporting Requirement on Semiconductors, Fiber Optics and Super
 
 (B) Federal research and acquisition policies for fiber optics and optical-electronic technologies generally;
 
-(C) Superconducting materials, including descriptions of research priorities, the scientific and technicalbarriers to commercialization which such research is designed to overcome, steps taken to ensure coordination among Federal agencies conducting research on superconducting materials, and steps taken to consult with private United States industry to ensure that no unnecessary duplication of research exists and that all important scientific and technical barriers to the commercialization of superconducting materials will be addressed; and
+(C) Superconducting materials, including descriptions of research priorities, the scientific and technical barriers to commercialization which such research is designed to overcome, steps taken to ensure coordination among Federal agencies conducting research on superconducting materials, and steps taken to consult with private United States industry to ensure that no unnecessary duplication of research exists and that all important scientific and technical barriers to the commercialization of superconducting materials will be addressed; and
 
 (D) Federal research to assist United States industry to develop and apply advanced manufacturing technologies for the production of durable and nondurable goods.
 
@@ -372,5 +372,5 @@ Sec. 5–501. <i>Effective Date</i>. This Order shall take effect at 12:01 a.m. 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2155, 2902 of this title; title 7 section 5202.
+This section is referred to in section 2902 of this title; title 7 section 5202.
 

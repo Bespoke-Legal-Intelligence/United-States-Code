@@ -46,7 +46,7 @@ Personnel Management System.—
 
 &emsp;(1)
 
-In general.—In consultation with the employees of the Administration and suchnon-governmental experts in personnel management systems as he may employ, and notwithstanding the provisions of title 5 and other Federal personnel laws, the Administrator shall develop and implement, not later than January 1, 1996, a personnel management system for the Administration that addresses the unique demands on the agency's workforce. Such a new system shall, at a minimum, provide for greater flexibility in the hiring, training, compensation, and location of personnel.
+In general.—In consultation with the employees of the Administration and such non-governmental experts in personnel management systems as he may employ, and notwithstanding the provisions of title 5 and other Federal personnel laws, the Administrator shall develop and implement, not later than January 1, 1996, a personnel management system for the Administration that addresses the unique demands on the agency's workforce. Such a new system shall, at a minimum, provide for greater flexibility in the hiring, training, compensation, and location of personnel.
 
 &emsp;(2)
 

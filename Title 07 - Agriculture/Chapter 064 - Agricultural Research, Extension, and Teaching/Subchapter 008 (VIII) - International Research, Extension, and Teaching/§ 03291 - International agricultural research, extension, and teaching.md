@@ -2,7 +2,7 @@
 
 #### (a) Authority of Secretary
 
-To carry out the policy of this subchapter, the Secretary (in consultation with the Agency for International Development and subject to such coordination with other Federal officials, Departments, and agencies as the President may direct) may—
+To carry out the policy of this subchapter, the Secretary (in consultation with the Agency for International Development and subject to suchcoordination with other Federal officials, Departments, and agencies as the President may direct) may—
 
 &emsp;(1) expand the operational coordination of the Department of Agriculture with institutions and other persons throughout the world performing agricultural and related research, extension, and teaching activities by—
 
@@ -28,7 +28,7 @@ To carry out the policy of this subchapter, the Secretary (in consultation with 
 
 &emsp;&emsp;(C) the provision of support for the internationalization of resident instruction programs of the universities and colleges described in subparagraph (A);
 
-&emsp;(8) continue, in cooperation with the Secretary of State, a program, coordinated through the International Arid Land Consortium, to enhance collaboration and cooperation between institutions possessing research, extension, and teaching capabilities applied to the development, management, and reclamation of arid lands; and
+&emsp;(8) continue, in cooperation with the Secretary of State, a program, coordinated through the International Arid Land Consortium, to enhance collaboration and cooperation between institutions possessing research, extension, and teaching capabilities applied to the development, management, and reclamation of arid lands;
 
 &emsp;(9) make competitive grants for collaborative projects that—
 
@@ -42,7 +42,9 @@ To carry out the policy of this subchapter, the Secretary (in consultation with 
 
 &emsp;&emsp;(C) are mutually beneficial to the United States and other countries; and
 
-&emsp;&emsp;(D) encourage private sector involvement and the leveraging of private sector funds.
+&emsp;&emsp;(D) encourage private sector involvement and the leveraging of private sector funds; and
+
+&emsp;(10) establish a program, to be coordinated by the Cooperative State Research, Education, and Extension Service and the Foreign Agricultural Service, to place interns from United States colleges and universities at Foreign Agricultural Service field offices overseas.
 
 #### (b) Enhancing linkages
 
@@ -64,9 +66,11 @@ The Secretary shall provide biennial reports to the Committee on Agriculture of 
 
 Notwithstanding any other provision of law, the full amount of any funds appropriated or otherwise made available to carry out cooperative projects under the arrangement entered into between the Secretary and the Government of Israel to support the Israel-United States Binational Agricultural Research and Development Fund shall be paid directly to the Fund.
 
-(Pub. L. 95–113, title XIV, §1458, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, §1436, Dec. 22, 1981, 95 Stat. 1313; Pub. L. 99–198, title XIV, §1418, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 101–624, title XVI, §1613(a), (b), (d)(1), Nov. 28, 1990, 104 Stat. 3724, 3726; Pub. L. 102–237, title IV, §402(11), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §816, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title II, §227(a)–(d), June 23, 1998, 112 Stat. 543–545.)
+(Pub. L. 95–113, title XIV, §1458, Sept. 29, 1977, 91 Stat. 1015; Pub. L. 97–98, title XIV, §1436, Dec. 22, 1981, 95 Stat. 1313; Pub. L. 99–198, title XIV, §1418, Dec. 23, 1985, 99 Stat. 1550; Pub. L. 101–624, title XVI, §1613(a), (b), (d)(1), Nov. 28, 1990, 104 Stat. 3724, 3726; Pub. L. 102–237, title IV, §402(11), Dec. 13, 1991, 105 Stat. 1863; Pub. L. 104–127, title VIII, §816, Apr. 4, 1996, 110 Stat. 1167; Pub. L. 105–185, title II, §227(a)–(d), June 23, 1998, 112 Stat. 543–545; Pub. L. 107–171, title VII, §7209(c), May 13, 2002, 116 Stat. 445.)
 
 #### Amendments
+
+2002—Subsec. (a)(10). Pub. L. 107–171 added par. (10).
 
 1998—Pub. L. 105–185, §227(a)(1), substituted “research, extension, and teaching” for “research and extension” in section catchline.
 

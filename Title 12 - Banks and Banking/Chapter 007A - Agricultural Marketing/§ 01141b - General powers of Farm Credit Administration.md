@@ -10,7 +10,7 @@ The Farm Credit Administration—
 
 &emsp;(4) may make such regulations as are necessary to execute the functions vested in it by this chapter.
 
-&emsp;(5) may appoint and fix the salaries of a secretary and such experts, and, in accordance with chapter 51 and subchapter III of chapter 53 of title 5, and subject to the provisions of the civil service laws, such other officers and employees as are necessary to execute such functions.
+&emsp;(5) may appoint and fix the salaries of a secretary and such experts, and, in accordance with chapter 51 and subchapter III of chapter53 of title 5, and subject to the provisions of the civil service laws, such other officers and employees as are necessary to execute such functions.
 
 &emsp;(6) may make such expenditures (including expenditures for rent and personal services at the seat of government and elsewhere, for law books, periodicals, and books of reference, and for printing and binding) as are necessary to execute such functions. Expenditures by the administration shall be allowed and paid upon the presentation of itemized vouchers therefor approved by the governor of the administration.
 

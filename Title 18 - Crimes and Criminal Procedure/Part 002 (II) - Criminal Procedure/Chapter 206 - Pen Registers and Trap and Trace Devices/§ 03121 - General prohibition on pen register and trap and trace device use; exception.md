@@ -10,7 +10,7 @@ Exception.—The prohibition of subsection (a) does not apply with respect to th
 
 &emsp;(1) relating to the operation, maintenance, and testing of a wire or electronic communication service or to the protection of the rights or property of such provider, or to the protection of users of that service from abuse of service or unlawful use of service; or
 
-&emsp;(2) to record the fact that a wire or electronic communication was initiated or completed in order to protect such provider, another provider furnishing service toward the completion of the wire communication, or auser of that service, from fraudulent, unlawful or abusive use of service; or (3) where the consent of the user of that service has been obtained.
+&emsp;(2) to record the fact that a wire or electronic communication was initiated or completed in order to protect such provider, another provider furnishing service toward the completion of the wire communication, or a user of that service, from fraudulent, unlawful or abusive use of service; or (3) where the consent of the user of that service has been obtained.
 
 (c)
 

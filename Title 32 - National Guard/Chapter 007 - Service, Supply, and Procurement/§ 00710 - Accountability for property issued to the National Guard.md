@@ -84,7 +84,7 @@ In subsection (c), the first 12 words of the second sentence are substituted for
 
 In subsection (d), the last sentence is substituted for 32:47 (words between semicolon and 1st colon of last sentence).
 
-In subsection (e), the words “charged against it under subsection (c)” are substituted for the words “changedagainst such State, Territory, or the District of Columbia by the Secretary of the Army after survey by a disinterested officer appointed as hereinbefore provided”. The words “may bar it from receiving” are substituted for the words “is authorized to debar such State, Territory, or the District of Columbia from further participation in any and all”.
+In subsection (e), the words “charged against it under subsection (c)” are substituted for the words “changed against such State, Territory, or the District of Columbia by the Secretary of the Army after survey by a disinterested officer appointed as hereinbefore provided”. The words “may bar it from receiving” are substituted for the words “is authorized to debar such State, Territory, or the District of Columbia from further participation in any and all”.
 
 In subsection (f), the words “Instead of the procedure prescribed by subsections (b)–(d)” are substituted for the words “and to constitute as to such property a discretional substitute for the examination, report, and disposition provided for elsewhere in this section”. The words “a finding of unserviceability because of that wear and tear” are substituted for the words “finding to that effect”.
 

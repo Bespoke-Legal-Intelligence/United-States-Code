@@ -42,21 +42,27 @@ It shall be unlawful for any person who is a registrant to manufacture a control
 
 (B) In the case of a violation of paragraph (5) or (10) of subsection (a) of this section, the civil penalty shall not exceed $10,000.
 
-(2)(A) If a violation of this section is prosecuted by an information or indictment which alleges that the violation was committed knowingly and the trier of fact specifically finds that the violation was so committed, such person shall, except as otherwise provided in subparagraph (B) of this paragraph, be sentenced to imprisonment of not more than one year or a fine of not more than $25,000, or both.
+(2)(A) If a violation of this section is prosecuted by an information or indictment which alleges that the violation was committed knowingly and the trier of fact specifically finds that the violation was so committed, such person shall, except as otherwise provided in subparagraph (B) of this paragraph, be sentenced to imprisonment of not more than one year or a fine under title 18, or both.
 
-(B) If a violation referred to in subparagraph (A) was committed after one or more prior convictions of the offender for an offense punishable under this paragraph (2), or for a crime under any other provision of this subchapter or subchapter II of this chapter or other law of the United States relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 2 years, a fine of $50,000, or both.
+(B) If a violation referred to in subparagraph (A) was committed after one or more prior convictions of the offender for an offense punishable under this paragraph (2), or for a crime under any other provision of this subchapter or subchapter II of this chapter or other law of the United States relating to narcotic drugs, marihuana, or depressant or stimulant substances, have become final, such person shall be sentenced to a term of imprisonment of not more than 2 years, a fine under title 18, or both.
 
 (C) In addition to the penalties set forth elsewhere in this subchapter or subchapter II of this chapter, any business that violates paragraph (11) of subsection (a) of this section shall, with respect to the first such violation, be subject to a civil penalty of not more than $250,000, but shall not be subject to criminal penalties under this section, and shall, for any succeeding violation, be subject to a civil fine of not more than $250,000 or double the last previously imposed penalty, whichever is greater.
 
 (3) Except under the conditions specified in paragraph (2) of this subsection, a violation of this section does not constitute a crime, and a judgment for the United States and imposition of a civil penalty pursuant to paragraph (1) shall not give rise to any disability or legal disadvantage based on conviction for a criminal offense.
 
-(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2),Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103; Pub. L. 105–277, div. A, §101(b) \[title I, §117\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68.)
+(Pub. L. 91–513, title II, §402, Oct. 27, 1970, 84 Stat. 1262; Pub. L. 95–633, title II, §202(b)(1), (2), Nov. 10, 1978, 92 Stat. 3776; Pub. L. 100–690, title VI, §6056, Nov. 18, 1988, 102 Stat. 4318; Pub. L. 104–237, title II, §205, Oct. 3, 1996, 110 Stat. 3103; Pub. L. 105–277, div. A, §101(b) \[title I, §117\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–68; Pub. L. 107–273, div. B, title IV, §4002(b)(16), (d)(2)(B), Nov. 2, 2002, 116 Stat. 1808, 1809.)
 
 #### References in Text
 
 Schedules I and II, referred to in subsec. (b), are set out in section 812(c) of this title.
 
 #### Amendments
+
+2002—Subsec. (c)(2)(A). Pub. L. 107–273, §4002(d)(2)(B)(i), substituted “under title 18” for “of not more than $25,000”.
+
+Subsec. (c)(2)(B). Pub. L. 107–273, §4002(d)(2)(B)(ii), substituted “under title 18” for “of $50,000”.
+
+Subsec. (c)(2)(C). Pub. L. 107–273, §4002(b)(16), realigned margins.
 
 1998—Subsec. (a)(5). Pub. L. 105–277, §101(b) \[title I, §117(1)\], inserted “negligently” before “fail”.
 

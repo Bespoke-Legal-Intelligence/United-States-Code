@@ -8,27 +8,27 @@ The Secretary shall report to the appropriate Committees on the implementation o
 
 &emsp;&emsp;(B) trends in the population size and distribution of North American migratory birds;
 
-&emsp;&emsp;(C) the status of efforts to establish agreements with nations in the western hemisphere <sup>1</sup> pursuant to section 4413 <sup>2</sup> of this title; and
+&emsp;&emsp;(C) the status of efforts to establish agreements with nations in the Western Hemisphere pursuant to section 4413 of this title; and
 
-&emsp;&emsp;(D) wetlands conservation projects funded under this chapter, listed and identified by type, conservation mechanism (such as acquisition, easement, or lease), location, and duration.
+&emsp;&emsp;(D) wetlands conservation projects funded under this chapter, listed and identified by type, conservation mechanism (such as acquisition, easement, or lease), location, and duration; and
 
 &emsp;(2) an annual assessment of the status of wetlands conservation projects, including an accounting of expenditures by Federal, State, and other United States entities, and expenditures by Canadian and Mexican sources to carry out these projects.
 
-(Pub. L. 101–233, §10, Dec. 13, 1989, 103 Stat. 1976; Pub. L. 103–375, §2(b), Oct. 19, 1994, 108 Stat. 3494.)
+(Pub. L. 101–233, §10, Dec. 13, 1989, 103 Stat. 1976; Pub. L. 103–375, §2(b), Oct. 19, 1994, 108 Stat. 3494; Pub. L. 107–308, §8(a)(12), (13), Dec. 2, 2002, 116 Stat. 2448.)
 
 #### References in Text
 
-Section 4413 of this title, referred to in par. (1)(C), was in the original “section 17 of this Act”, meaning section 17 of Pub. L. 101–233, and was translated as reading section 16(a) of Pub. L. 101–233 as the probable intent of Congress because section 16(a) of Pub. L. 101–233 relates to agreements with nations in the Western Hemisphere.
+Section 4413 of this title, referred to in par. (1)(C), was in the original a reference to section 16 of Pub. L. 101–233 which enacted section 4413 of this title and amended section 2912 of this title.
 
 #### Amendments
+
+2002—Par. (1)(C). Pub. L. 107–308, §8(a)(12), substituted “Western Hemisphere” for “western hemisphere” and made technical amendment to reference in original act which appears in text as reference to section 4413 of this title.
+
+Par. (1)(D). Pub. L. 107–308, §8(a)(13), substituted “; and” for period at end.
 
 1994—Par. (1)(D). Pub. L. 103–375 added subpar. (D).
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4410 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “Western Hemisphere”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

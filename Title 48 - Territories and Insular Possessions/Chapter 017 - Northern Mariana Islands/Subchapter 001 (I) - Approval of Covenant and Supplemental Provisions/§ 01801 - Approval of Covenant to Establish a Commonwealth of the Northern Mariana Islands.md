@@ -58,7 +58,7 @@ I74“political relationship
 
 “
 
-Section 101. The Northern Mariana Islands upon termination of the Trusteeship Agreement will become a self-governing commonwealth to be known as the ‘Commonwealth of the Northern Mariana Islands’, in political union with and under the sovereignty of the United States of America.
+Section 101. The Northern Mariana Islands upon termination of the Trusteeship Agreement will become aself-governing commonwealth to be known as the ‘Commonwealth of the Northern Mariana Islands’, in political union with and under the sovereignty of the United States of America.
 
 “
 
@@ -74,7 +74,7 @@ Section 104. The United States will have complete responsibility for and authori
 
 “
 
-Section 105. The United States may enact legislation in accordance with its constitutional processeswhich will be applicable to the Northern Mariana Islands, but if such legislation cannot also be made applicable to the several States the Northern Mariana Islands must be specifically named therein for it to become effective in the Northern Mariana Islands. In order to respect the right of self-government guaranteed by this Covenant the United States agrees to limit the exercise of that authority so that the fundamental provisions of this Covenant, namely Articles I, II and III and Sections 501 and 805, may be modified only with the consent of the Government of the United States and the Government of the Northern Mariana Islands.
+Section 105. The United States may enact legislation in accordance with its constitutional processes which will be applicable to the Northern Mariana Islands, but if such legislation cannot also be made applicable to the several States the Northern Mariana Islands must be specifically named therein for it to become effective in the Northern Mariana Islands. In order to respect the right of self-government guaranteed by this Covenant the United States agrees to limit the exercise of that authority so that the fundamental provisions of this Covenant, namely Articles I, II and III and Sections 501 and 805, may be modified only with the consent of the Government of the United States and the Government of the Northern Mariana Islands.
 
 #### “Article II
 
@@ -140,7 +140,7 @@ Section 401. The United States will establish for and within the Northern Marian
 
 “
 
-Section 402. (a) The District Court for the Northern Mariana Islands will have the jurisdiction of a district court of the United States, except that in all causes arising under the Constitution, treaties or laws of the United States it will have jurisdiction regardless of the sum or value of the matter in controversy.
+Section 402. (a) The District Court for the Northern Mariana Islands will have the jurisdiction of a districtcourt of the United States, except that in all causes arising under the Constitution, treaties or laws of the United States it will have jurisdiction regardless of the sum or value of the matter in controversy.
 
 “(b) The District Court will have original jurisdiction in all causes in the Northern Mariana Islands not described in Subsection (a) jurisdiction over which is not vested by the Constitution or laws of the Northern Mariana Islands in a court or courts of the Northern Mariana Islands. In causes brought in the District Court solely on the basis of this subsection, the District Court will be considered a court of the Northern Mariana Islands for the purposes of determining the requirements of indictment by grand jury or trial by jury.
 
@@ -148,7 +148,7 @@ Section 402. (a) The District Court for the Northern Mariana Islands will have t
 
 “
 
-Section 403. (a) The relations between the courts established by the Constitution or laws of the UnitedStates and the courts of the Northern Mariana Islands with respect to appeals, certiorari, removal of causes, the issuance of writs of habeas corpus and other matters or proceedings will be governed by the laws of the United States pertaining to the relations between the courts of the United States and the courts of the several States in such matters and proceedings, except as otherwise provided in this Article; provided that for the first fifteen years following the establishment of an appellate court of the Northern Mariana Islands the United States Court of Appeals for the judicial circuit which includes the Northern Mariana Islands will have jurisdiction of appeals from all final decisions of the highest court of the Northern Mariana Islands from which a decision could be had in all cases involving the Constitution, treaties or laws of the United States, or any authority exercised thereunder, unless those cases are reviewable in the District Court for the Northern Mariana Islands pursuant to Subsection 402(c).
+Section 403. (a) The relations between the courts established by the Constitution or laws of the United States and the courts of the Northern Mariana Islands with respect to appeals, certiorari, removal of causes, the issuance of writs of habeas corpus and other matters or proceedings will be governed by the laws of the United States pertaining to the relations between the courts of the United States and the courts of the several States in such matters and proceedings, except as otherwise provided in this Article; provided that for the first fifteen years following the establishment of an appellate court of the Northern Mariana Islands the United States Court of Appeals for the judicial circuit which includes the Northern Mariana Islands will have jurisdiction of appeals from all final decisions of the highest court of the Northern Mariana Islands from which a decision could be had in all cases involving the Constitution, treaties or laws of the United States, or any authority exercised thereunder, unless those cases are reviewable in the District Court for the Northern Mariana Islands pursuant to Subsection 402(c).
 
 “(b) Those portions of Title 28 of the United States Code which apply to Guam or the District Court of Guam will be applicable to the Northern Mariana Islands or the District Court for the Northern Mariana Islands, respectively, except as otherwise provided in this Article.
 
@@ -190,7 +190,7 @@ Section 504. The President will appoint a Commission on Federal Laws to survey t
 
 “
 
-Section 505. The laws of the Trust Territory of the Pacific Islands, of the Mariana Islands District and its local municipalities, and all other Executive and District orders of a local nature applicable to the Northern Mariana Islands on the effective date of this Section and not inconsistent with this Covenant or with those provisions of the Constitution, treaties or laws of the United States applicable to the Northern Mariana Islands will remain in force and effect until and unless altered by the Government of the Northern Mariana Islands.
+Section 505. The laws of the Trust Territory of the Pacific Islands, of the Mariana Islands District and its local municipalities, and all other Executive and District orders of a local nature applicable to the Northern Mariana Islands on the effective date of this Section and not inconsistent with this Covenant or with those provisions of the Constitution, treaties or laws of theUnited States applicable to the Northern Mariana Islands will remain in force and effect until and unless altered by the Government of the Northern Mariana Islands.
 
 “
 
@@ -198,7 +198,7 @@ Section 506. (a) Notwithstanding the provisions of Subsection 503(a), upon the e
 
 “(b) With respect to children born abroad to United States citizen or non-citizen national parents permanently residing in the Northern Mariana Islands the provisions of Sections 301 and 308 of the said Act will apply.
 
-“(c) With respect to aliens who are ‘immediate relatives’ (as defined in Subsection 201(b) of the said Act) of United States citizens who are permanently residing in the Northern Mariana Islands all the provisions of the said Act will apply, commencing when a claim is made to entitlement to ‘immediate relative’ status. Aperson who is certified by the Government of the Northern Mariana Islands both to have been a lawful permanent resident of the Northern Mariana Islands and to have had the ‘immediate relative’ relationship denoted herein on the effective date of this Section will be presumed to have been admitted to the United States for lawful permanent residence as of that date without the requirement of any of the usual procedures set forth in the said Act. For the purpose of the requirements of judicial naturalization, the Northern Mariana Islands will be deemed to constitute a State as defined in Subsection 101(a) paragraph (36) of the said Act. The Courts of record of the Northern Mariana Islands and the District Court for the Northern Mariana Islands will be included among the courts specified in Subsection 310(a) of the said Act and will have jurisdiction to naturalize persons who become eligible under this Section and who reside within their respective jurisdictions.
+“(c) With respect to aliens who are ‘immediate relatives’ (as defined in Subsection 201(b) of the said Act) of United States citizens who are permanently residing in the Northern Mariana Islands all the provisions of the said Act will apply, commencing when a claim is made to entitlement to ‘immediate relative’ status. A person who is certified by the Government of the Northern Mariana Islands both to have been a lawful permanent resident of the Northern Mariana Islands and to have had the ‘immediate relative’ relationship denoted herein on the effective date of this Section will be presumed to have been admitted to the United States for lawful permanent residence as of that date without the requirement of any of the usual procedures set forth in the said Act. For the purpose of the requirements of judicial naturalization, the Northern Mariana Islands will be deemed to constitute a State as defined in Subsection 101(a) paragraph (36) of the said Act. The Courts of record of the Northern Mariana Islands and the District Court for the Northern Mariana Islands will be included among the courts specified in Subsection 310(a) of the said Act and will have jurisdiction to naturalize persons who become eligible under this Section and who reside within their respective jurisdictions.
 
 “(d) With respect to persons who will become citizens or nationals of the United States under Article III of this Covenant or under this Section the loss of nationality provisions of the said Act will apply.
 
@@ -324,7 +324,7 @@ Section 803. (a) The Government of the Northern Mariana Islands will lease the p
 
 &emsp;“(3) for that property known as Farallon de Medinilla, $20,600.
 
-> The sum stated in this Subsection will be adjusted by a percentage which will be the same as the percentagechange in the United States Department of Commerce composite price index from the date of signing the Covenant.
+> The sum stated in this Subsection will be adjusted by a percentage which will be the same as the percentage change in the United States Department of Commerce composite price index from the date of signing the Covenant.
 
 “(c) A separate Technical Agreement Regarding Use of Land To Be Leased by the United States in the Northern Mariana Islands will be executed simultaneously with this Covenant. The terms of the lease to the United States will be in accordance with this Section and with the terms of the Technical Agreement. The Technical Agreement will also contain terms relating to the leaseback of property, to the joint use arrangements for San Jose Harbor and West Field on Tinian Island, and to the principles which will govern the social structure relations between the United States military and the Northern Mariana Islands civil authorities.
 
@@ -364,7 +364,7 @@ Section 901. The Constitution or laws of the Northern Mariana Islands may provid
 
 “
 
-Section 902. The Government of the United States and the Government of the Northern Mariana Islands will consult regularly on all matters affecting the relationship between them. At the request of either Government, and not less frequently than every ten years, the President of the United States and the Governor of the Northern Mariana Islands will designate special representatives to meet and to consider in good faith such issues affecting the relationship between the Northern Mariana Islands and the United States as may be designated by either Government and to make a report and recommendations with respect thereto.Special representatives will be appointed in any event to consider and to make recommendations regarding future multi-year financial assistance to the Northern Mariana Islands pursuant to Section 701, to meet at least one year prior to the expiration of every period of such financial assistance.
+Section 902. The Government of the United States and the Government of the Northern Mariana Islands will consult regularly on all matters affecting the relationship between them. At the request of either Government, and not less frequently than every ten years, the President of the United States and the Governor of the Northern Mariana Islands will designate special representatives to meet and to consider in good faith such issues affecting the relationship between the Northern Mariana Islands and the United States as may be designated by either Government and to make a report and recommendations with respect thereto. Special representatives will be appointed in any event to consider and to make recommendations regarding future multi-year financial assistance to the Northern Mariana Islands pursuant to Section 701, to meet at least one year prior to the expiration of every period of such financial assistance.
 
 “
 

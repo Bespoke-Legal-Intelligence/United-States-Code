@@ -16,11 +16,17 @@ Except as provided in section 1206 of this title—
 
 #### (b) Vessels upon navigable waters of United States inside high seas lines
 
-The radiotelephone required by subsection (a) of this section shall be carried on board the described vessels, dredges, and floating plants upon the navigable waters of the United States inside the lines established pursuant to section 151 of this title.
+The radiotelephone required by subsection (a) of this section shall be carried on board the described vessels, dredges, and floating plants upon the navigable waters of the United States, which includes all waters of the territorial sea of the United States as described in Presidential Proclamation 5928 of December 27, 1988.
 
-(Pub. L. 92–63, §4, Aug. 4, 1971, 85 Stat. 164; Pub. L. 102–241, §16, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 104–324, title VII, §704, Oct. 19, 1996, 110 Stat. 3933.)
+(Pub. L. 92–63, §4, Aug. 4, 1971, 85 Stat. 164; Pub. L. 102–241, §16, Dec. 19, 1991, 105 Stat. 2213; Pub. L. 104–324, title VII, §704, Oct. 19, 1996, 110 Stat. 3933; Pub. L. 107–295, title III, §321, Nov. 25, 2002, 116 Stat. 2103.)
+
+#### References in Text
+
+Presidential Proclamation 5928 of December 27, 1988, referred to in subsec. (b), is set out as a note under section 1331 of Title 43, Public Lands.
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–295 substituted “United States, which includes all waters of the territorial seaof the United States as described in Presidential Proclamation 5928 of December 27, 1988” for “United States inside the lines established pursuant to section 151 of this title”.
 
 1996—Subsec. (a)(2). Pub. L. 104–324 inserted “as measured under section 14502 of title 46, or an alternate tonnage measured under section 14302 of that title as prescribed by the Secretary under section 14104 of that title,” after “one hundred gross tons”.
 

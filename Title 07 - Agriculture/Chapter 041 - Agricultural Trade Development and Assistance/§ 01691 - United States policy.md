@@ -8,13 +8,17 @@ It is the policy of the United States to use its abundant agricultural productiv
 
 &emsp;(3) expand international trade;
 
-&emsp;(4) develop and expand export markets for United States agricultural commodities; and
+&emsp;(4) develop and expand export markets for United States agricultural commodities;
 
-&emsp;(5) foster and encourage the development of private enterprise and democratic participation in developing countries.
+&emsp;(5) foster and encourage the development of private enterprise and democratic participation in developing countries; and
 
-(July 10, 1954, ch. 469, §2, 68 Stat. 454; Pub. L. 89–808, §2(A), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 94–161, title II, §201, Dec. 20, 1975, 89 Stat. 850; Pub. L. 99–198, title XI, §1111(a), Dec. 23, 1985, 99 Stat. 1474; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3633.)
+&emsp;(6) prevent conflicts.
+
+(July 10, 1954, ch. 469, §2, 68 Stat. 454; Pub. L. 89–808, §2(A), Nov. 11, 1966, 80 Stat. 1526; Pub. L. 94–161, title II, §201, Dec. 20, 1975, 89 Stat. 850; Pub. L. 99–198, title XI, §1111(a), Dec. 23, 1985, 99 Stat. 1474; Pub. L. 101–624, title XV, §1512, Nov. 28, 1990, 104 Stat. 3633; Pub. L. 107–171, title III, §3001, May 13, 2002, 116 Stat. 280.)
 
 #### Amendments
+
+2002—Par. (6). Pub. L. 107–171 added par. (6).
 
 1990—Pub. L. 101–624 amended section generally, substituting present provisions for provisions declaring policy of United States to expand trade, develop export markets, encourage economic development and private enterprise in developing countries, improve local food production and promote foreign policy, and requiring President to give priority to countries most affected by food shortages, encourage other donors, link assistance to local agricultural and related development, seek expanded markets for American commodities, and recognize and support American farm economy.
 
@@ -26,7 +30,7 @@ It is the policy of the United States to use its abundant agricultural productiv
 
 #### Effective Date of 1990 Amendment
 
-Section 1513 of Pub. L. 101–624 provided that: “The amendment made by section 1512 \[enacting sections1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991.”
+Section 1513 of Pub. L. 101–624 provided that: “The amendment made by section 1512 \[enacting sections 1736g–1 and 1737 to 1738m of this title, amending this section and sections 1691a, 1701 to 1705, 1721 to 1726a, 1727 to 1727e, 1731 to 1736, 1736a to 1736f, and 1736g of this title, and enacting provisions set out as a note under this section\] shall become effective on January 1, 1991.”
 
 #### Effective Date of 1966 Amendment
 
@@ -68,7 +72,7 @@ Section 1 of Pub. L. 89–808 provided: “That this Act \[enacting sections 170
 
 #### Short Title
 
-Section 1 of act July 10, 1954, as amended by act Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633, provided that: “This Act \[enacting this chapter\] may be cited as the ‘Agricultural Trade Development and Assistance Act of 1954’.”
+Section 1 of act July 10, 1954, as amended by act Nov. 28, 1990, Pub. L. 101–624, title XV, §1512, 104 Stat. 3633, provided that: “This Act \[enacting this chapter\] maybe cited as the ‘Agricultural Trade Development and Assistance Act of 1954’.”
 
 #### Minimum Level of Food Assistance
 

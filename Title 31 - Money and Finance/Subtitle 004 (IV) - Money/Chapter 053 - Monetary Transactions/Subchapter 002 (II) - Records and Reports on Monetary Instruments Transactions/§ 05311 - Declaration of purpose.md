@@ -162,7 +162,7 @@ Reports to the Financial Services Industry on Suspicious Financial Activities.�
 
 #### Report and Recommendation on Legislative Action on International Counter Money Laundering Provisions
 
-Pub. L. 107–56, title III, §324, Oct. 26, 2001, 115 Stat. 316, provided that: “Not later than 30 months after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle \[subtitle A (§§311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and 5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, and section 983 of Title 18\] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.”
+Pub. L. 107–56, title III, §324, Oct. 26, 2001, 115 Stat. 316, provided that: “Not later than 30 months after the date of enactment of this Act \[Oct. 26, 2001\], the Secretary \[of the Treasury\], in consultation with the Attorney General, the Federal banking agencies (as defined at section 3 of the Federal Deposit Insurance Act \[12 U.S.C. 1813\]), the National Credit Union Administration Board, the Securities and Exchange Commission, and such other agencies as the Secretary may determine, at the discretion of the Secretary, shall evaluate the operations of the provisions of this subtitle \[subtitle A (§§311–330) of title III of Pub. L. 107–56, enacting section 5318A of this title, amending sections 5312 and5318 of this title, sections 1828 and 1842 of Title 12, Banks and Banking, sections 981, 983, and 1956 of Title 18, Crimes and Criminal Procedure, section 853 of Title 21, Food and Drugs, and sections 2466 and 2467 of Title 28, Judiciary and Judicial Procedure, and enacting provisions set out as notes under this section and section 5318 of this title, sections 1828 and 1842 of Title 12, and section 983 of Title 18\] and make recommendations to Congress as to any legislative action with respect to this subtitle as the Secretary may determine to be necessary or advisable.”
 
 #### International Cooperation on Identification of Originators of Wire Transfers
 
@@ -392,7 +392,7 @@ Pub. L. 101–647, title I, §101, Nov. 29, 1990, 104 Stat. 4789, provided that:
 
 &emsp;“(1) the number of each type of report filed pursuant to subchapter II of chapter 53 of title 31, United States Code (or regulations promulgated thereunder) in the previous fiscal year;
 
-&emsp;“(2) the number of reports filed pursuant to section 6050I of the Internal Revenue Code of 1986 \[26 U.S.C.6050I\] (regarding transactions involving currency) in the previous fiscal year;
+&emsp;“(2) the number of reports filed pursuant to section 6050I of the Internal Revenue Code of 1986 \[26 U.S.C. 6050I\] (regarding transactions involving currency) in the previous fiscal year;
 
 &emsp;“(3) an estimate of the rate of compliance with the reporting requirements by persons required to file the reports referred to in paragraphs (1) and (2);
 
@@ -438,7 +438,7 @@ Reports.—Not later than 1 year after the date of enactment of this Act \[Nov. 
 
 &emsp;“(1) with respect to which the Secretary determines there is evidence that the financial institutions in such countries are engaging in currency transactions involving the proceeds of international narcotics trafficking; and
 
-&emsp;“(2) which have not reached agreement with United States authorities on a mechanism for exchanging adequate records on international currency transactions in connection with narcotics investigations and proceedings.
+&emsp;“(2) which have not reached agreement with United States authorities on a mechanism for exchangingadequate records on international currency transactions in connection with narcotics investigations and proceedings.
 
 “(e)
 

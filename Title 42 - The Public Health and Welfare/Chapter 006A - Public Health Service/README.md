@@ -505,6 +505,10 @@ Report on risk exposure of covered entities.
 
 Volunteer services provided by health professionals at free clinics.
 
+(p)
+
+Administration of smallpox countermeasures by health professionals.
+
 |  |  |
 | :--- | ---: |
 | [234\.](Subchapter%20001%20%28I%29%20-%20Administration%20and%20Miscellaneous%20Provisions/Part%20A%20-%20Administration/%C2%A7%2000234%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93484%2C%20title%20IV%2C%20%C2%A7408%28b%29%281%29%2C%20Oct.%2012%2C%201976%2C%2090%20Stat.%202281%2C%20eff.%20Oct.%201%2C%201977.md) | Repealed. |
@@ -986,7 +990,56 @@ Development of plan to control epidemics and meet emergencies or problems result
 
 |  |  |
 | :--- | ---: |
-| 244 to 245a. | Repealed. |
+| [244\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000244%20-%20Public%20access%20defibrillation%20programs.md) | Public access defibrillation programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Preference.
+
+(c)
+
+Use of funds.
+
+(d)
+
+Application.
+
+(e)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 244–1, 244a. | Repealed. |
+| [245\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000245%20-%20Public%20access%20defibrillation%20demonstration%20projects.md) | Public access defibrillation demonstration projects. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Use of funds.
+
+(c)
+
+Application.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| [245a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000245a%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93484%2C%20title%20V%2C%20%C2%A7503%28b%29%2C%20Oct.%2012%2C%201976%2C%2090%20Stat.%202300.md) | Repealed. |
 | [246\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000246%20-%20Grants%20and%20services%20to%20States.md) | Grants and services to States. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1648,6 +1701,20 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
+| 247b–20. | Food safety grants. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
 | [247c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20B%20-%20Federal-State%20Cooperation/%C2%A7%2000247c%20-%20Sexually%20transmitted%20diseases%3B%20prevention%20and%20control%20projects%20and%20programs.md) | Sexually transmitted diseases; prevention and control projects and programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -1773,6 +1840,10 @@ Public Health Emergency Fund.
 
 Supplement not supplant.
 
+(d)
+
+Data submittal and reporting deadlines.
+
 |  |  |
 | :--- | ---: |
 | 247d–1. | National needs to combat threats to public health. |
@@ -1847,7 +1918,91 @@ Report.
 
 Supplement not supplant.
 
+|  |  |
+| :--- | ---: |
+| 247d–3a. | Grants to improve State, local, and hospital preparedness for and response to bioterrorism and other public health emergencies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Eligible entities.
+
+(c)
+
+Bioterrorism and Other Public Health Emergency Preparedness and Response Plan.
+
+(d)
+
+Use of funds.
+
+(e)
+
+Priorities in use of grants.
+
 (f)
+
+Certain activities.
+
+(g)
+
+Coordination with local Medical Response System.
+
+(h)
+
+Coordination of Federal activities.
+
+(i)
+
+Definition.
+
+(j)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 247d–3b. | Partnerships for community and hospital preparedness. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants.
+
+(b)
+
+Eligibility.
+
+(c)
+
+Regional coordination.
+
+(d)
+
+Consistency of planned activities.
+
+(e)
+
+Use of funds.
+
+(f)
+
+Limitation on awards.
+
+(g)
+
+Priorities in use of grants.
+
+(h)
+
+Coordination with local Medical Response System.
+
+(i)
 
 Authorization of appropriations.
 
@@ -1859,9 +2014,13 @@ Authorization of appropriations.
 
 (a)
 
-Findings.
+Facilities; capacities.
 
 (b)
+
+National communications and surveillance networks.
+
+(c)
 
 Authorization of appropriations.
 
@@ -1907,39 +2066,43 @@ Authorization of appropriations.
 
 (a)
 
-Working group on preparedness for acts of bioterrorism.
+Working group on bioterrorism and other public health emergencies.
 
 (b)
 
-Working group on the public health and medical consequences of bioterrorism.
+Advice to the Federal Government.
 
 (c)
 
-Grants.
+Strategy for communication of information regarding bioterrorism and other public health emergencies.
 
 (d)
 
-Federal assistance.
+Recommendation of Congress regarding official Federal Internet site on bioterrorism.
 
 (e)
 
-Education.
+Grants.
 
 (f)
 
-Future resource development.
+Federal assistance.
 
 (g)
 
-General Accounting Office report.
+Education; training regarding pediatric issues.
 
 (h)
 
-Supplement not supplant.
+Accelerated research and development on priority pathogens and countermeasures.
 
 (i)
 
-Authorization of appropriations.
+General Accounting Office report.
+
+(j)
+
+Supplement not supplant.
 
 |  |  |
 | :--- | ---: |
@@ -1977,6 +2140,82 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
+| 247d–7a. | Grants regarding training and education of certain health professionals. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Authority regarding non-Federal contributions.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247d–7b. | Emergency system for advance registration of health professions volunteers. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Certain criteria.
+
+(c)
+
+Other assistance.
+
+(d)
+
+Coordination among States.
+
+(e)
+
+Rule of construction.
+
+(f)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 247d–7c. | Supplies and services in lieu of award funds. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Corresponding reduction in payments.
+
+|  |  |
+| :--- | ---: |
+| 247d–7d. | Security for countermeasure development and production. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Guidelines.
+
+|  |  |
+| :--- | ---: |
 | 247d–8. | Coordinated program to improve pediatric oral health. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2001,7 +2240,7 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
-| [247e.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20C%20-%20Hospitals%2C%20Medical%20Examinations%2C%20and%20Medical%20Care/%C2%A7%2000247e%20-%20Gillis%20W.%20Long%20Hansen%27s%20Disease%20Center.md) | Gillis W. Long Hansen's Disease Center. |
+| [247e.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20C%20-%20Hospitals%2C%20Medical%20Examinations%2C%20and%20Medical%20Care/%C2%A7%2000247e%20-%20National%20Hansen%27s%20Disease%20Programs%20Center.md) | National Hansen's Disease Programs Center. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -2152,7 +2391,7 @@ Planning grants.
 
 (d)
 
-Managed care loan guarantee program.
+Loan guarantee program.
 
 (e)
 
@@ -2176,6 +2415,10 @@ Residents of public housing.
 
 (j)
 
+Access grants.
+
+(j)
+
 Applications.
 
 (k)
@@ -2184,7 +2427,7 @@ Technical and other assistance.
 
 (<i>l</i>)
 
-Authorization of appropriations.
+Redesignated (s).
 
 (m)
 
@@ -2206,37 +2449,53 @@ Special consideration.
 
 Audits.
 
+(s)
+
+Authorization of appropriations.
+
 |  |  |
 | :--- | ---: |
-| [254c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20001%20%28i%29%20-%20Health%20Centers/%C2%A7%2000254c%20-%20Rural%20health%20outreach%2C%20network%20development%2C%20and%20telemedicine%20grant%20program.md) | Rural health outreach, network development, and telemedicine grant program. |
+| [254c.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20001%20%28i%29%20-%20Health%20Centers/%C2%A7%2000254c%20-%20Rural%20health%20care%20services%20outreach%2C%20rural%20health%20network%20development%2C%20and%20small%20health%20care%20provider%20quality%20improvement%20grant%20programs.md) | Rural health care services outreach, rural health network development, and small health care provider quality improvement grant programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Administration.
+Purpose.
 
 (b)
 
-Grants.
+Definitions.
 
 (c)
 
-Eligible networks.
+Program.
 
 (d)
 
-Preference.
+Administration.
 
 (e)
 
-Use of funds.
+Rural health care services outreach grants.
 
 (f)
 
-Term of grants.
+Rural health network development grants.
 
 (g)
+
+Small health care provider quality improvement grants.
+
+(h)
+
+General requirements.
+
+(i)
+
+Report.
+
+(j)
 
 Authorization of appropriations.
 
@@ -2448,8 +2707,167 @@ Integration with other programs.
 | 254c–11. | Technical assistance. |
 | 254c–12. | Definitions. |
 | 254c–13. | Authorization of appropriations. |
+| 254c–14. | Telehealth network and telehealth resource centers grant programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Definitions.
+
+(b)
+
+Programs.
+
+(c)
+
+Administration.
+
+(d)
+
+Grants.
+
+(e)
+
+Grant periods.
+
+(f)
+
+Eligible entities.
+
+(g)
+
+Applications.
+
+(h)
+
+Terms; conditions; maximum amount of assistance.
+
+(i)
+
+Preferences.
+
+(j)
+
+Distribution of funds.
+
+(k)
+
+Use of funds.
+
+(<i>l</i>)
+
+Prohibited uses of funds.
+
+(m)
+
+Collaboration.
+
+(n)
+
+Coordination with other agencies.
+
+(<i>o</i>)
+
+Outreach activities.
+
+(p)
+
+Telehealth.
+
+(q)
+
+Report.
+
+(r)
+
+Regulations.
+
+(s)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 254c–15. | Rural emergency medical service training and equipment assistance program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grants.
+
+(b)
+
+Eligibility.
+
+(c)
+
+Use of funds.
+
+(d)
+
+Preference.
+
+(e)
+
+Matching requirement.
+
+(f)
+
+Emergency medical services.
+
+(g)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 254c–16. | Mental health services delivered via telehealth. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Definitions.
+
+(b)
+
+Program authorized.
+
+(c)
+
+Use of funds.
+
+(d)
+
+Equitable distribution.
+
+(e)
+
+Application.
+
+(f)
+
+Report.
+
+(g)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 254c–17. | Telemedicine; incentive grants regarding coordination among States. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Authorization of appropriations.
 
 #### subpart ii—national health service corps program
 
@@ -2469,7 +2887,7 @@ Recruitment and fellowship programs.
 
 (c)
 
-Travel expenses; persons entitled; reimbursement; limitation.
+Travel and moving expenses; persons entitled; reimbursement; limitation.
 
 (d)
 
@@ -2492,6 +2910,10 @@ Conversion from Corps member to commissioned officer; retirement credits.
 Effective administration of program.
 
 (i)
+
+Demonstration projects; waivers.
+
+(j)
 
 Definitions.
 
@@ -2533,6 +2955,10 @@ Recommendations to Secretary.
 
 Public information programs in designated areas.
 
+(i)
+
+Dissemination.
+
 |  |  |
 | :--- | ---: |
 | [254f.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20002%20%28ii%29%20-%20National%20Health%20Service%20Corps%20Program/%C2%A7%2000254f%20-%20Corps%20personnel.md) | Corps personnel. |
@@ -2571,53 +2997,29 @@ In general.
 
 (b)
 
-Exclusive factors for determining greatest shortages.
+Establishment of criteria for determining priorities.
 
 (c)
 
-Establishment of criteria for determining priorities.
+Notifications regarding priorities.
 
 (d)
 
-Notifications regarding priorities.
-
-(e)
-
 Limitation on number of entities offered as assignment choices in Scholarship Program.
-
-(f)
-
-Applicable period regarding priorities.
 
 |  |  |
 | :--- | ---: |
-| [254g.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20002%20%28ii%29%20-%20National%20Health%20Service%20Corps%20Program/%C2%A7%2000254g%20-%20Cost%20sharing.md) | Cost sharing. |
+| [254g.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20002%20%28ii%29%20-%20National%20Health%20Service%20Corps%20Program/%C2%A7%2000254g%20-%20Charges%20for%20services%20by%20entities%20using%20Corps%20members.md) | Charges for services by entities using Corps members. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Charges for services; collection of payments; payment to United States; calculation of payments; annual report.
+Availability of services regardless of ability to pay or payment source.
 
 (b)
 
-Waiver of payment; use of funds.
-
-(c)
-
-Excess funds.
-
-(d)
-
-Charge for services; reduced rate; no charge.
-
-(e)
-
-Deposit of funds in Treasury as miscellaneous receipts; appropriations unaffected.
-
-(f)
-
-Small health centers.
+Charges for services.
 
 |  |  |
 | :--- | ---: |
@@ -2800,10 +3202,6 @@ Obligated service period; commencement.
 
 Assignment of personnel.
 
-(e)
-
-Service under National Research Service Award program; credits against obligated service time.
-
 |  |  |
 | :--- | ---: |
 | [254n.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254n%20-%20Private%20practice.md) | Private practice. |
@@ -2816,7 +3214,7 @@ Application for release of obligations; conditions.
 
 (b)
 
-Written agreement; fee rates; ability to pay; health insurance; regulations; actions to ensure compliance.
+Written agreement; actions to ensure compliance.
 
 (c)
 
@@ -2859,6 +3257,10 @@ Failure to commence or complete service obligations for other reasons; determina
 (d)
 
 Cancellation of obligation upon death of individual; waiver or suspension of obligation for impossibility, hardship, or unconscionability; release of debt by discharge in bankruptcy, time limitations.
+
+(e)
+
+Inapplicability of Federal and State statute of limitations on actions for collection.
 
 |  |  |
 | :--- | ---: |
@@ -2906,17 +3308,21 @@ Breach of agreement; notice; determination of liability.
 
 |  |  |
 | :--- | ---: |
-| [254q.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254q%20-%20Report%20and%20authorization%20of%20appropriations.md) | Report and authorization of appropriations. |
+| [254q.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254q%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-Omitted.
+Authorization of appropriations.
 
 (b)
 
-Funding.
+Scholarships for new participants.
+
+(c)
+
+Scholarships and loan repayments.
 
 |  |  |
 | :--- | ---: |
@@ -3034,57 +3440,37 @@ Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
-| [254t.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254t%20-%20Demonstration%20grants%20to%20States%20for%20community%20scholarship%20programs.md) | Demonstration grants to States for community scholarship programs. |
+| [254t.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20003%20%28iii%29%20-%20Scholarship%20Program%20and%20Loan%20Repayment%20Program/%C2%A7%2000254t%20-%20Demonstration%20project.md) | Demonstration project. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-In general.
+Program authorized.
 
 (b)
 
-Certain requirements for States.
+Procedure.
 
 (c)
 
-Grants by States to community organizations for provision of scholarship contracts.
+Limitations.
 
 (d)
 
-Requirement of State and local matching funds.
+Designations.
 
 (e)
 
-Specifications regarding scholarship contract.
+Rule of construction.
 
 (f)
 
-Reports to Secretary.
+Report.
 
 (g)
 
-Estimates regarding allocations between urban and rural areas.
-
-(h)
-
-Requirement of application.
-
-(i)
-
-Noncompliance.
-
-(j)
-
-Reports to Congress.
-
-(k)
-
-Definitions.
-
-(<i>l</i>)
-
-Funding.
+Authorization of appropriations.
 
 #### subpart iv—home health services
 
@@ -3110,13 +3496,61 @@ Report to Congress with respect to grants and loans and training of personnel.
 
 “Home health services” defined.
 
-#### subpart v—health services for the homeless
+#### subpart v—healthy communities access program
 
 |  |  |
 | :--- | ---: |
-| [256\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20005%20%28v%29%20-%20Health%20Services%20for%20the%20Homeless/%C2%A7%2000256%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93299%2C%20%C2%A74%28a%29%283%29%2C%20Oct.%2011%2C%201996%2C%20110%20Stat.%203645.md) | Repealed. |
+| [256\.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20005%20%28v%29%20-%20Healthy%20Communities%20Access%20Program/%C2%A7%2000256%20-%20Grants%20to%20strengthen%20the%20effectiveness%2C%20efficiency%2C%20and%20coordination%20of%20services%20for%20the%20uninsured%20and%20underinsured.md) | Grants to strengthen the effectiveness, efficiency, and coordination of services for the uninsured and underinsured. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Eligible entities.
+
+(c)
+
+Limitations.
+
+(d)
+
+Priorities.
+
+(e)
+
+Use of funds.
+
+(f)
+
+Grantee requirements.
+
+(g)
+
+Maintenance of effort.
+
+(h)
+
+Technical assistance.
+
+(i)
+
+Evaluation of program.
+
+(j)
+
+Demonstration authority.
+
+(k)
+
+Authorization of appropriations.
+
+(<i>l</i>)
+
+Date certain for termination of program.
 
 #### subpart vi—health services for residents of public housing
 
@@ -3228,6 +3662,39 @@ Authorization of appropriations.
 
 Definitions.
 
+#### subpart x—primary dental programs
+
+|  |  |
+| :--- | ---: |
+| [256f.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20010%20%28x%29%20-%20Primary%20Dental%20Programs/%C2%A7%2000256f%20-%20Designated%20dental%20health%20professional%20shortage%20area.md) | Designated dental health professional shortage area. |
+| [256g.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20D%20-%20Primary%20Health%20Care/Subpart%20010%20%28x%29%20-%20Primary%20Dental%20Programs/%C2%A7%2000256g%20-%20Grants%20for%20innovative%20programs.md) | Grants for innovative programs. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Grant program authorized.
+
+(b)
+
+State activities.
+
+(c)
+
+Application.
+
+(d)
+
+Matching requirement.
+
+(e)
+
+Report.
+
+(f)
+
+Authorization of appropriations.
+
 #### Part E—Narcotic Addicts and Other Drug Abusers
 
 |  |
@@ -3285,6 +3752,64 @@ Exportation of partially processed biological products.
 (j)
 
 Application of Federal Food, Drug, and Cosmetic Act.
+
+|  |  |
+| :--- | ---: |
+| [262a.](Subchapter%20002%20%28II%29%20-%20General%20Powers%20and%20Duties/Part%20F%20-%20Licensing%20of%20Biological%20Products%20and%20Clinical%20Laboratories/Subpart%20001%20-%20Biological%20Products/%C2%A7%2000262a%20-%20Enhanced%20control%20of%20dangerous%20biological%20agents%20and%20toxins.md) | Enhanced control of dangerous biological agents and toxins. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Regulatory control of certain biological agents and toxins.
+
+(b)
+
+Regulation of transfers of listed agents and toxins.
+
+(c)
+
+Possession and use of listed agents and toxins.
+
+(d)
+
+Registration; identification; database.
+
+(e)
+
+Safeguard and security requirements for registered persons.
+
+(f)
+
+Inspections.
+
+(g)
+
+Exemptions.
+
+(h)
+
+Disclosure of information.
+
+(i)
+
+Civil money penalty.
+
+(j)
+
+Notification in event of release.
+
+(k)
+
+Reports.
+
+(<i>l</i>)
+
+Definitions.
+
+(m)
+
+Authorization of appropriations.
 
 |  |  |
 | :--- | ---: |
@@ -3579,6 +4104,10 @@ Application of regulations to persons entering from foreign countries.
 (d)
 
 Apprehension and examination of persons reasonably believed to be infected.
+
+(e)
+
+Preemption.
 
 |  |  |
 | :--- | ---: |
@@ -4653,6 +5182,54 @@ Public input.
 
 Authorization of appropriations.
 
+|  |  |
+| :--- | ---: |
+| [283h.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283h%20-%20Office%20of%20Rare%20Diseases.md) | Office of Rare Diseases. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Duties.
+
+(c)
+
+Definition.
+
+(d)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| [283i.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20A%20-%20National%20Institutes%20of%20Health/%C2%A7%2000283i%20-%20Rare%20disease%20regional%20centers%20of%20excellence.md) | Rare disease regional centers of excellence. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Cooperative agreements and grants.
+
+(b)
+
+Coordination with other institutes.
+
+(c)
+
+Uses for Federal payments under cooperative agreements or grants.
+
+(d)
+
+Period of support; additional periods.
+
+(e)
+
+Authorization of appropriations.
+
 #### Part B—General Provisions Respecting National Research Institutes
 
 |  |  |
@@ -5081,6 +5658,20 @@ Report to Congress.
 (g)
 
 Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 285a–10. | Research, information, and education with respect to blood cancer. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Joe Moakley Research Excellence Program.
+
+(b)
+
+Geraldine Ferraro Cancer Education Program.
 
 #### subpart 2—national heart, lung, and blood institute
 
@@ -6209,7 +6800,7 @@ Grants.
 
 (c)
 
-Methamphetamine research.
+Drug abuse and addiction research.
 
 |  |  |
 | :--- | ---: |
@@ -7003,7 +7594,7 @@ Inclusion in biennial report of Director of NIH.
 
 |  |  |
 | :--- | ---: |
-| [288\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20G%20-%20Awards%20and%20Training/%C2%A7%2000288%20-%20National%20Research%20Service%20Awards.md) | National Research Service Awards. |
+| [288\.](Subchapter%20003%20%28III%29%20-%20National%20Research%20Institutes/Part%20G%20-%20Awards%20and%20Training/%C2%A7%2000288%20-%20Ruth%20L.%20Kirschstein%20National%20Research%20Service%20Awards.md) | Ruth L. Kirschstein National Research Service Awards. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -7396,6 +7987,20 @@ Criminal penalties for violations.
 (d)
 
 Definitions.
+
+|  |  |
+| :--- | ---: |
+| 289g–3. | Breast implant research. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Definition.
 
 |  |  |
 | :--- | ---: |
@@ -10968,17 +11573,41 @@ Required information and conditions for award recipients.
 
 |  |  |
 | :--- | ---: |
-| [296p.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20D%20-%20Strengthening%20Capacity%20for%20Basic%20Nurse%20Education%20and%20Practice/%C2%A7%2000296p%20-%20Basic%20nurse%20education%20and%20practice%20grants.md) | Basic nurse education and practice grants. |
+| [296p.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20D%20-%20Strengthening%20Capacity%20for%20Basic%20Nurse%20Education%20and%20Practice/%C2%A7%2000296p%20-%20Nurse%20education%2C%20practice%2C%20and%20retention%20grants.md) | Nurse education, practice, and retention grants. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 (a)
 
-In general.
+Education priority areas.
 
 (b)
 
-Priority areas.
+Practice priority areas.
+
+(c)
+
+Retention priority areas.
+
+(d)
+
+Other priority areas.
+
+(e)
+
+Preference.
+
+(f)
+
+Report.
+
+(g)
+
+Eligible entity.
+
+(h)
+
+Authorization of appropriations.
 
 #### Part E—Student Loans
 
@@ -11097,7 +11726,7 @@ Payment of balance of loan fund.
 | [297g.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297g%20-%20Modification%20of%20agreements%3B%20compromise%2C%20waiver%20or%20release.md) | Modification of agreements; compromise, waiver or release. |
 | [297h.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297h%20-%20Repealed.%20Pub.%20L.%2099%E2%80%9392%2C%20%C2%A79%28a%29%281%29%2C%20Aug.%2016%2C%201985%2C%2099%20Stat.%20400.md) | Repealed. |
 | [297i.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297i%20-%20Procedures%20for%20appeal%20of%20terminations.md) | Procedures for appeal of terminations. |
-| [297n.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297n%20-%20Loan%20repayment%20program.md) | Loan repayment program. |
+| [297n.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20E%20-%20Student%20Loans/%C2%A7%2000297n%20-%20Loan%20repayment%20and%20scholarship%20programs.md) | Loan repayment and scholarship programs. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -11115,7 +11744,7 @@ Payment by due date.
 
 (d)
 
-Breach of agreement.
+Scholarship program.
 
 (e)
 
@@ -11123,15 +11752,49 @@ Preferences regarding participants.
 
 (f)
 
-Definitions.
+Condition of agreement.
 
 (g)
 
-Authorization of appropriations.
+Breach of agreement.
 
 (h)
 
-Breach of agreement.
+Reports.
+
+(i)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 297n–1. | Nurse faculty loan program. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Establishment.
+
+(b)
+
+Agreements.
+
+(c)
+
+Loan provisions.
+
+(d)
+
+Payment of proportionate share.
+
+(e)
+
+Review by Secretary.
+
+(f)
+
+Authorization of appropriations.
 
 #### Part F—Funding
 
@@ -11200,6 +11863,76 @@ Funding.
 (h)
 
 FACA.
+
+#### Part H—Public Service Announcements
+
+|  |  |
+| :--- | ---: |
+| [297w.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20H%20-%20Public%20Service%20Announcements/%C2%A7%2000297w%20-%20Public%20service%20announcements.md) | Public service announcements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Method.
+
+(c)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| [297x.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20H%20-%20Public%20Service%20Announcements/%C2%A7%2000297x%20-%20State%20and%20local%20public%20service%20announcements.md) | State and local public service announcements. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Use of funds.
+
+(c)
+
+Limitation.
+
+(d)
+
+Authorization of appropriations.
+
+#### Part I—Comprehensive Geriatric Education
+
+|  |  |
+| :--- | ---: |
+| [298\.](Subchapter%20006%20%28VI%29%20-%20Nursing%20Workforce%20Development/Part%20I%20-%20Comprehensive%20Geriatric%20Education/%C2%A7%2000298%20-%20Comprehensive%20geriatric%20education.md) | Comprehensive geriatric education. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Program authorized.
+
+(b)
+
+Use of funds.
+
+(c)
+
+Application.
+
+(d)
+
+Eligible entity.
+
+(e)
+
+Authorization of appropriations.
 
 #### SUBCHAPTER VII—AGENCY FOR HEALTHCARE RESEARCH AND QUALITY
 
@@ -13190,6 +13923,72 @@ Civil penalty.
 (d)
 
 “Tamper” defined.
+
+|  |  |
+| :--- | ---: |
+| 300i–2. | Terrorist and other intentional acts. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Vulnerability assessments.
+
+(b)
+
+Emergency response plan.
+
+(c)
+
+Record maintenance.
+
+(d)
+
+Guidance to small public water systems.
+
+(e)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 300i–3. | Contaminant prevention, detection and response. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Funding.
+
+|  |  |
+| :--- | ---: |
+| 300i–4. | Supply disruption prevention, detection and response. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Disruption of supply or safety.
+
+(b)
+
+Alternative sources.
+
+(c)
+
+Requirements and considerations.
+
+(d)
+
+Information sharing.
+
+(e)
+
+Funding.
 
 #### Part E—General Provisions
 
@@ -15862,6 +16661,19 @@ Exception for certain plans.
 | 300bb–3. | Qualifying event. |
 | 300bb–4. | Applicable premium. |
 | 300bb–5. | Election. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Temporary extension of COBRA election period for certain individuals.
+
+|  |  |
+| :--- | ---: |
 | 300bb–6. | Notice requirements. |
 | 300bb–7. | Enforcement. |
 | 300bb–8. | Definitions. |
@@ -18114,6 +18926,28 @@ Application of acceptable alternative mechanisms.
 
 Provision related to risk.
 
+|  |  |
+| :--- | ---: |
+| 300gg–45. | Promotion of qualified high risk pools. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Seed grants to States.
+
+(b)
+
+Matching funds for operation of pools.
+
+(c)
+
+Funding.
+
+(d)
+
+Qualified high risk pool and State defined.
+
 #### subpart 2—other requirements
 
 |  |  |
@@ -18215,13 +19049,132 @@ Definitions relating to markets and small employers.
 |  |  |
 | :--- | ---: |
 | 300gg–92. | Regulations. |
-| 300aaa to 300aaa–13. Transferred. |  |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### SUBCHAPTER XXVI—NATIONAL PREPAREDNESS FOR BIOTERRORISM AND OTHER PUBLIC HEALTH EMERGENCIES
+
+#### Part A—National Preparedness and Response Planning, Coordinating, and Reporting
+
+|  |  |
+| :--- | ---: |
+| [300hh.](Subchapter%20026%20%28XXVI%29%20-%20National%20Preparedness%20for%20Bioterrorism%20and%20Other%20Public%20Health%20Emergencies/Part%20A%20-%20National%20Preparedness%20and%20Response%20Planning%2C%20Coordinating%2C%20and%20Reporting/%C2%A7%2000300hh%20-%20National%20preparedness%20plan.md) | National preparedness plan. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Preparedness goals.
+
+(c)
+
+Reports to Congress.
+
+(d)
+
+Rule of construction.
+
+#### Part B—Emergency Preparedness and Response
+
+|  |  |
+| :--- | ---: |
+| 300hh–11. | Coordination of preparedness for and response to bioterrorism and other public health emergencies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Assistant Secretary for Public Health Emergency Preparedness.
+
+(b)
+
+National Disaster Medical System.
+
+(c)
+
+Criteria.
+
+(d)
+
+Intermittent disaster-response personnel.
+
+(e)
+
+Certain employment issues regarding intermittent appointments.
+
+(f)
+
+Rule of construction regarding use of commissioned corps.
+
+(g)
+
+Definition.
+
+(h)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 300hh–12. | Strategic national stockpile. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Strategic national stockpile.
+
+(b)
+
+Smallpox vaccine development.
+
+(c)
+
+Disclosures.
+
+(d)
+
+Definition.
+
+(e)
+
+Authorization of appropriations.
+
+|  |  |
+| :--- | ---: |
+| 300hh–13. | Evaluation of new and emerging technologies regarding bioterrorist attack and other public health emergencies. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+In general.
+
+(b)
+
+Certain activities.
+
+(c)
+
+Consultation and evaluation.
+
+(d)
+
+Report.
+
+|  |
+| :--- |
+| 300aaa to 300aaa–13. Transferred. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 217a–1, 247b–4a, 300a–7, 300a–29, 701, 1320a–1, 1320a–7b, 1396r–4, 1437d, 3013, 3796gg, 14402 of this title; title 7 section 136a–1; title 8 section 1255a; title 18 section 42; title 20 section 1092a; title 21 section 397; title 35 sections 156, 287; title 38 section 8126.
+This chapter is referred to in sections 217a–1, 247b–4a, 300a–7, 300a–29, 701, 1320a–1, 1320a–7b, 1396r–4, 1437d, 3013, 3796gg, 14402 of this title; title 6 section 467; title 7 section 136a–1; title 8 section 1255a; title 18 section 42; title 20 section 1092a; title 21 section 397; title 35 sections 156, 287; title 38 section 8126.
 
 
 ---
@@ -18255,3 +19208,4 @@ This chapter is referred to in sections 217a–1, 247b–4a, 300a–7, 300a–29
 - [Subchapter 023 (XXIII) - Prevention of Acquired Immune Deficiency Syndrome](Subchapter%20023%20%28XXIII%29%20-%20Prevention%20of%20Acquired%20Immune%20Deficiency%20Syndrome/README.md)
 - [Subchapter 024 (XXIV) - HIV Health Care Services Program](Subchapter%20024%20%28XXIV%29%20-%20HIV%20Health%20Care%20Services%20Program/README.md)
 - [Subchapter 025 (XXV) - Requirements Relating to Health Insurance Coverage](Subchapter%20025%20%28XXV%29%20-%20Requirements%20Relating%20to%20Health%20Insurance%20Coverage/README.md)
+- [Subchapter 026 (XXVI) - National Preparedness for Bioterrorism and Other Public Health Emergencies](Subchapter%20026%20%28XXVI%29%20-%20National%20Preparedness%20for%20Bioterrorism%20and%20Other%20Public%20Health%20Emergencies/README.md)

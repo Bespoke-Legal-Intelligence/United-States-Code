@@ -40,7 +40,7 @@ Subsec. (b). Pub. L. 95–424 substituted provisions relating to the responsibil
 
 Subsecs. (c) to (e). Pub. L. 95–424 struck out subsecs. (c) to (e).
 
-1977—Subsec. (a). Pub. L. 95–88, §113(b)(1), inserted “environment and natural resources” to enumerationof fundamental needs of the people of less developed countries which development assistance must be used in meeting.
+1977—Subsec. (a). Pub. L. 95–88, §113(b)(1), inserted “environment and natural resources” to enumeration of fundamental needs of the people of less developed countries which development assistance must be used in meeting.
 
 Subsec. (b)(2). Pub. L. 95–88, §113(b)(2), inserted “environment and natural resources;” after “population planning and health;”.
 
@@ -73,6 +73,14 @@ Pub. L. 96–53, title V, §512, Aug. 14, 1979, 93 Stat. 380, provided that:
 #### Effective Date of 1978 Amendment
 
 Section 605 of Pub. L. 95–424 provided that: “The amendments made by this Act \[see Short Title of 1978 Amendment note below\] shall take effect on October 1, 1978.”
+
+#### Short Title of 2002 Amendments
+
+Pub. L. 107–246, §1, Oct. 23, 2002, 116 Stat. 1511, provided that: “This Act \[amending sections 2295 and 2295b of this title and enacting provisions set out as notesunder section 2295 of this title\] may be cited as the ‘Russian Democracy Act of 2002’.”
+
+Pub. L. 107–228, div. A, title VI, §661, Sept. 30, 2002, 116 Stat. 1405, provided that: “This subtitle \[subtitle E (§§661–665) of title VI of div. A of Pub. L. 107–228, enacting section 2151n–2 of this title, amending sections 2151n and 2304 of this title, and enacting provisions set out as notes under sections 2151n and 2151n–2 of this title\] may be cited as the ‘Freedom Investment Act of 2002’.”
+
+Pub. L. 107–228, div. B, title X, §1001, Sept. 30, 2002, 116 Stat. 1425, provided that: “This division \[see Tables for classification\] may be cited as the ‘Security Assistance Act of 2002’.”
 
 #### Short Title of 2000 Amendments
 
@@ -118,7 +126,7 @@ Pub. L. 103–392, §1, Oct. 22, 1994, 108 Stat. 4098, provided that: “This Ac
 
 Pub. L. 102–583, §1, Nov. 2, 1992, 106 Stat. 4914, provided that Pub. L. 102–583 could be cited as the “International Narcotics Control Act of 1992”, prior to repeal by Pub. L. 103–447, title I, §103(a), Nov. 2, 1994, 108 Stat. 4693.
 
-Pub. L. 102–549, §1, Oct. 28, 1992, 106 Stat. 3651, provided that: “This Act \[enacting sections 2077, 2200b, 2421a to 2421e, and 2430 to 2430i of this title and section 4723a of Title 15, Commerce and Trade, amending sections 2191, 2191a, 2194, 2195, 2197 to 2199, 2200a, 2421, and 5401 of this title, section 5314 of Title 5, Government Organization and Employees, section 1738i of Title 7, Agriculture, and sections 635q to 635s of Title 12, Banks and Banking, repealing section 2296 of this title, enacting provisions set out as notes under this section and sections 262s–2, 2296, 2421, and 2421a of this title, and amending provisions set out as a note under this section\] may be cited as the ‘Jobs Through Exports Act of 1992’.”
+Pub. L. 102–549, §1, Oct. 28, 1992, 106 Stat. 3651, provided that: “This Act \[enacting sections 2077, 2200b, 2421a to 2421e, and 2430 to 2430i of this title and section 4723a of Title 15, Commerce and Trade, amending sections 2191, 2191a, 2194, 2195, 2197 to 2199, 2200a, 2421, and 5401 of this title, section 5314 of Title 5, Government Organization and Employees, section 1738i of Title 7, Agriculture, and sections 635q to 635s of Title 12, Banks and Banking, repealing section 2296 of this title, enacting provisions set out as notes under this section and sections 262s–2, 2296, 2421, and 2421a of this title, andamending provisions set out as a note under this section\] may be cited as the ‘Jobs Through Exports Act of 1992’.”
 
 Pub. L. 102–549, title VI, §601, Oct. 28, 1992, 106 Stat. 3664, provided that: “This title \[enacting sections 2077 and 2430 to 2430i of this title, amending section 1738i of Title 7, Agriculture, repealing section 2296 of this title, and enacting provisions set out as a note under section 2296 of this title\] may be cited as the ‘Enterprise for the Americas Act of 1992’.”
 
@@ -128,7 +136,7 @@ Pub. L. 101–623, §1(a), Nov. 21, 1990, 104 Stat. 3350, provided that: “This
 
 #### Short Title of 1989 Amendments
 
-Pub. L. 101–240, §1(a), Dec. 19, 1989, 103 Stat. 2492, provided that: “This Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, and 2281 to 2286 of this title and section 3904a of Title 12, Banks and Banking, amending sections 262d, 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b,283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title, and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under this section, sections 262d, 283z–6, and 2291 of this title, and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262<i>l</i> of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] may be cited as the ‘International Development and Finance Act of 1989’.”
+Pub. L. 101–240, §1(a), Dec. 19, 1989, 103 Stat. 2492, provided that: “This Act \[enacting sections 262m–7, 262p–4g to 262p–4k, 262r to 262r–2, 262s–1, 262t, 283z–5 to 283z–8, 286e–12, 286kk, and 2281 to 2286 of this title and section 3904a of Title 12, Banks and Banking, amending sections 262d, 262m–7, 262p–1, 262p–5, 262s–2, 282b, 283b, 283cc, 284b, 285b, 286b, 286e–9, 286k–1, 286s, 290g–2, 290i–3, and 290k–5 of this title and sections 635 and 635i–3 of Title 12, transferring former section 262q of this title to section 262s of this title, and former section 4722 of Title 15, Commerce and Trade, to section 262s–2 of this title, repealing sections 262i, 262m–6, 276c–3, 283i, 286b–1, and 286b–2 of this title, enacting provisions set out as notes under this section, sections 262d, 283z–6, and 2291 of this title, and sections 635, 3901, and 3904a of Title 12, amending provisions set out as a note under section 262<i>l</i> of this title, and repealing provisions set out as notes under sections 262g–2 and 283 of this title\] may be cited as the ‘International Development and Finance Act of 1989’.”
 
 Pub. L. 101–240, title VII, §701, Dec. 19, 1989, 103 Stat. 2521, provided that: “This title \[enacting sections 2281 to 2286 of this title\] may be cited as the ‘Global Environmental Protection Assistance Act of 1989’.”
 
@@ -166,7 +174,7 @@ Pub. L. 98–151, §101(b)(2), Nov. 14, 1983, 97 Stat. 968, provided in part tha
 
 Pub. L. 97–113, §1, Dec. 29, 1981, 95 Stat. 1519, provided that: “This Act \[see Tables for classification\] may be cited as the ‘International Security and Development Cooperation Act of 1981’.”
 
-Pub. L. 97–65, §1, Oct. 16, 1981, 95 Stat. 1021, provided that: “This Act \[enacting sections 2194a and 2200b of this title, amending sections 2191, 2193, 2194, 2195, 2197, 2198, 2199, and 2200a of this title, and enacting provisions set out as notes under sections 2193 and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1981’.”
+Pub. L. 97–65, §1, Oct. 16, 1981, 95 Stat. 1021, provided that: “This Act \[enacting sections 2194a and 2200b of this title, amending sections 2191, 2193, 2194, 2195, 2197, 2198, 2199, and 2200a of this title, and enacting provisions set out as notes under sections 2193 and 2200a ofthis title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1981’.”
 
 #### Short Title of 1980 Amendments
 
@@ -204,7 +212,7 @@ Section 1 of Pub. L. 94–161 provided: “That this Act \[redesignating as sect
 
 #### Short Title of 1974 Amendments
 
-Pub. L. 93–559, §1, Dec. 30, 1974, 88 Stat. 1795, provided: “That this Act \[enacting sections 2151m, 2175a, 2182a, 2225, 2293, 2304, 2321h, 2321i, 2419 to 2424, 2435, and 2441 to 2443 of this title, amending sections 278, 2151a to 2151c, 2163, 2181, 2183, 2219a, 2222, 2261, 2312, 2318, 2321b, 2321f, 2346a, 2360, 2364, 2370, 2394, 2399, 2413, 2415, 2416, 2753, 2763, 2764, 2771, 2773, 2775, and 2776 of this title, repealing sections 2151j and 2200 of this title, enacting provisions set out as notes under sections 2166, 2175, 2311, 2370, 2399, 2406, 2415, 2431 to 2433, 2551, and 2764 of this title, and repealing provisions set out as a note under this section\] may be cited as the ‘Foreign Assistance Act of 1974’.”
+Pub. L. 93–559, §1, Dec. 30, 1974, 88 Stat. 1795, provided: “That this Act \[enacting sections 2151m, 2175a, 2182a, 2225, 2293, 2304, 2321h, 2321i, 2419 to 2424, 2435, and 2441 to 2443 of this title, amending sections 278, 2151a to 2151c, 2163, 2181, 2183, 2219a, 2222, 2261, 2312, 2318, 2321b, 2321f,2346a, 2360, 2364, 2370, 2394, 2399, 2413, 2415, 2416, 2753, 2763, 2764, 2771, 2773, 2775, and 2776 of this title, repealing sections 2151j and 2200 of this title, enacting provisions set out as notes under sections 2166, 2175, 2311, 2370, 2399, 2406, 2415, 2431 to 2433, 2551, and 2764 of this title, and repealing provisions set out as a note under this section\] may be cited as the ‘Foreign Assistance Act of 1974’.”
 
 Pub. L. 93–390, §1, Aug. 27, 1974, 88 Stat. 763, provided: “That this Act \[amending sections 2191, 2194, 2195, 2197, 2199, 2200 and 2200a of this title\] may be cited as the ‘Overseas Private Investment Corporation Amendments Act of 1974’.”
 
@@ -212,7 +220,7 @@ Pub. L. 93–333, §1, July 8, 1974, 88 Stat. 290, provided: “That this Act \[
 
 #### Short Title of 1973 Amendment
 
-Section 1 of Pub. L. 93–189 provided: “That this Act \[enacting sections 2151a to 2151<i>l</i>, 2303, 2399–1a, 2399–1b, 2399c, 2399d, 2431 to 2434 and 2794 of this title, amending this section and sections 285n, 1934, 2163, 2171, 2174, 2181, 2183, 2195, 2199, 2200, 2212, 2219a, 2221, 2222, 2261, 2291, 2291a, 2311, 2312, 2314, 2318, 2321b, 2321f, 2346a, 2367, 2370, 2385, 2394, and section 2397 of this title, repealing sections 2314a, 2319 to 2321, 2321e, 2321g, and 2346a, of this title, and enacting provisions set out as notes underthis section and sections 1942, 2163, 2220, 2415, and 2431 of this title\] may be cited as the ‘Foreign Assistance Act of 1973’.”
+Section 1 of Pub. L. 93–189 provided: “That this Act \[enacting sections 2151a to 2151<i>l</i>, 2303, 2399–1a, 2399–1b, 2399c, 2399d, 2431 to 2434 and 2794 of this title, amending this section and sections 285n, 1934, 2163, 2171, 2174, 2181, 2183, 2195, 2199, 2200, 2212, 2219a, 2221, 2222, 2261, 2291, 2291a, 2311, 2312, 2314, 2318, 2321b, 2321f, 2346a, 2367, 2370, 2385, 2394, and section 2397 of this title, repealing sections 2314a, 2319 to 2321, 2321e, 2321g, and 2346a, of this title, and enacting provisions set out as notes under this section and sections 1942, 2163, 2220, 2415, and 2431 of this title\] may be cited as the ‘Foreign Assistance Act of 1973’.”
 
 #### Short Title of 1972 Amendment
 
@@ -256,7 +264,7 @@ Section 1 of Pub. L. 87–565 provided: “That this Act \[enacting sections 221
 
 #### Short Title
 
-Section 1 of Pub. L. 87–195, as added by Pub. L. 87–329, title I, §111, Sept. 30, 1961, 75 Stat. 719, provided: “That this Act \[enacting this chapter and sections 1613d and 1945 of this title, amending sections 276, 279a, 1041, 1112, 1136, 1148, 1157, 1754, 1783, 1925, 1951 and 1964 of this title, section 1704 of Title 7, Agriculture, and sections 1651 and 1701 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 276, 1613d, and 1925 of this title, and repealing sections 1750, 1750a, 1750b to 1753a, 1755 to 1759, 1760, 1761 to 1765, 1766a to 1766c, 1767a, 1768, 1781, 1782, 1784 to 1795, 1797, 1811, 1812 to 1817, 1841, 1851, 1852, 1854, 1870, 1871 to 1876, 1891 to 1896, 1897, 1920, 1921, 1923, 1924, 1926, 1927, 1929, 1931, 1933, 1935, 1936, 1939 to 1940a, 1941, 2051 to 2053, 2071 and 2072 of this title, Reorganization Plan No. 7 of 1953, and provisions set out as notes under sections 1753, 1783, 1922, 1928b, 1939 and 1951 of this title\] may be cited as ‘The Foreign Assistance Act of 1961’.”
+Section 1 of Pub. L. 87–195, as added by Pub. L. 87–329, title I, §111, Sept. 30, 1961, 75 Stat. 719, provided: “That this Act \[enacting this chapter and sections 1613d and 1945 of this title, amending sections 276, 279a, 1041, 1112, 1136, 1148, 1157, 1754, 1783, 1925, 1951 and 1964 of this title, section 1704 of Title 7, Agriculture, and sections 1651 and 1701 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this sectionand sections 276, 1613d, and 1925 of this title, and repealing sections 1750, 1750a, 1750b to 1753a, 1755 to 1759, 1760, 1761 to 1765, 1766a to 1766c, 1767a, 1768, 1781, 1782, 1784 to 1795, 1797, 1811, 1812 to 1817, 1841, 1851, 1852, 1854, 1870, 1871 to 1876, 1891 to 1896, 1897, 1920, 1921, 1923, 1924, 1926, 1927, 1929, 1931, 1933, 1935, 1936, 1939 to 1940a, 1941, 2051 to 2053, 2071 and 2072 of this title, Reorganization Plan No. 7 of 1953, and provisions set out as notes under sections 1753, 1783, 1922, 1928b, 1939 and 1951 of this title\] may be cited as ‘The Foreign Assistance Act of 1961’.”
 
 Section 101 of Pub. L. 87–195 which provided that this subchapter should be cited as the “Act for International Development of 1961” was repealed by section 101(b) of Pub. L. 88–205.
 
@@ -344,7 +352,7 @@ Bilateral debt relief.—Upon receipt by the appropriate congressional committee
 
 &emsp;“(2)
 
-Multilateral debt relief and other financial assistance.—It is the sense of Congress that, upon receipt by the appropriate congressional committees of a certification described in subsection (d), the Secretary of the Treasury should—
+Multilateral debt relief and other financial assistance.—It is the sense of Congress that,upon receipt by the appropriate congressional committees of a certification described in subsection (d), the Secretary of the Treasury should—
 
 &emsp;&emsp;“(A) direct the United States executive director of each multilateral development bank to propose that the bank should undertake a review of the feasibility of restructuring, rescheduling, or eliminating the sovereign debt of Zimbabwe held by that bank; and
 
@@ -524,7 +532,7 @@ In general.—Defense articles, defense services, and military education and tra
 
 &emsp;“(2)
 
-Authorization of appropriations.—There are authorized to be appropriated to the President for each of the fiscal years 1998 and 1999 such sums as may be necessary to reimburse the applicable appropriation, fund, or account for the value (as defined in section 644(m) of the Foreign Assistance Act of 1961 \[22 U.S.C. 2403(m)\]) of defense articles, defense services, or military education and training provided under subsection (a)(2).
+Authorization of appropriations.—There are authorized to be appropriated to the President for each of the fiscal years 1998 and 1999 such sums as may be necessary to reimburse the applicable appropriation, fund, or account for the value (as defined in section 644(m) of the Foreign Assistance Act of 1961\[22 U.S.C. 2403(m)\]) of defense articles, defense services, or military education and training provided under subsection (a)(2).
 
 “(f)
 
@@ -572,6 +580,16 @@ Notification Requirement.—At least 15 days in advance of designating an Iraqi 
 
 #### Designations Under the Iraq Liberation Act of 1998
 
+Determination of President of the United States, No. 03–05, Dec. 7, 2002, 67 F.R. 78121, provided:
+
+Memorandum for the Secretary of State
+
+Pursuant to the authority vested in me as President of the United States, including under section 5 of the Iraq Liberation Act of 1998 (Public Law 105–338) (”the Act”) \[set out in a note above\], I hereby determine that each of the following groups is a democratic opposition organization and that each satisfies the criteria set forth in section 5(c) of the Act: the Assyrian Democratic Movement; the Iraqi Free Officers and Civilians Movement; the Iraqi National Front; the Iraqi National Movement; the Iraqi Turkmen Front; and the Islamic Accord of Iraq. I hereby designate each of these organizations as eligible to receive assistance under section 4 of the Act.
+
+You are authorized and directed to report this determination and designation to the Congress and to arrange for its publication in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 Determination of President of the United States, No. 99–13, Feb. 4, 1999, 64 F.R. 6781, provided:
 
 Memorandum for the Secretary of State
@@ -612,7 +630,7 @@ Military assistance or arms transfers.—The term ‘military assistance or arms
 
 &emsp;&emsp;“(C) assistance under the ‘Foreign Military Financing Program’ under section 23 of the Arms Export Control Act (22 U.S.C. 2763); or
 
-&emsp;&emsp;“(D) the transfer of defense articles, defense services, or design and construction services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), including defense articles and defense services licensed or approved for export under section 38 of that Act (22 U.S.C. 2778).”
+&emsp;&emsp;“(D) the transfer of defense articles, defense services, or design and construction services under theArms Export Control Act (22 U.S.C. 2751 et seq.), including defense articles and defense services licensed or approved for export under section 38 of that Act (22 U.S.C. 2778).”
 
 #### Authority for Anticrime Assistance
 
@@ -818,7 +836,7 @@ Pub. L. 102–583, §11(b), Nov. 2, 1992, 106 Stat. 4935, provided that as used 
 
 #### Impact on Employment in United States
 
-Pub. L. 102–549, title VIII, §801, Oct. 28, 1992, 106 Stat. 3671, provided that: “No funds made available to carry out any provision of this Act \[see Short Title of 1992 Amendments note above\] or the amendments made by this Act may be obligated or expended for any financial incentive to a business enterprise currently located in the United States for the purpose of inducing such an enterprise to relocate outside the United States, if such incentive or inducement is likely to reduce the number of employees in the United States because United States production is being replaced by such enterprise outside the United States.”
+Pub. L. 102–549, title VIII, §801, Oct. 28, 1992, 106 Stat. 3671, provided that: “No funds made available to carryout any provision of this Act \[see Short Title of 1992 Amendments note above\] or the amendments made by this Act may be obligated or expended for any financial incentive to a business enterprise currently located in the United States for the purpose of inducing such an enterprise to relocate outside the United States, if such incentive or inducement is likely to reduce the number of employees in the United States because United States production is being replaced by such enterprise outside the United States.”
 
 #### Internationally Recognized Worker Rights
 
@@ -1165,6 +1183,22 @@ Sept. 3, 1957, Pub. L. 85–279, §109, 71 Stat. 604.
 July 31, 1956, ch. 803, §108, 70 Stat. 735.
 
 July 8, 1955, ch. 301, §12, 69 Stat. 290 (repealed by Pub. L. 87–195, pt. III, §642(a)(3), Sept. 4, 1961, 75 Stat. 460).
+
+#### Definitions
+
+Pub. L. 107–228, div. B, title X, §1002, Sept. 30, 2002, 116 Stat. 1425, provided that: “In this division \[see Tables for classification\]:
+
+&emsp;“(1)
+
+Defense article.—The term ‘defense article’ has the meaning given the term in section 47(3) of the Arms Export Control Act (22 U.S.C. 2794 note \[22 U.S.C. 2794\]).
+
+&emsp;“(2)
+
+Defense service.—The term ‘defense service’ has the meaning given the term in section 47(4) of the Arms Export Control Act (22 U.S.C. 2794 note \[22 U.S.C. 2794\]).
+
+&emsp;“(3)
+
+Excess defense article.—The term ‘excess defense article’ has the meaning given the term in section 644(g) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(g)).”
 
 #### Section Referred to in Other Sections
 

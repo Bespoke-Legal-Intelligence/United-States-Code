@@ -1,6 +1,6 @@
 ### §8414. Early retirement
 
-(a)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for failure to be recertified as a senior executive under section 3393a or for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
+(a)(1) A member of the Senior Executive Service who is removed from the Senior Executive Service for less than fully successful executive performance (as determined under subchapter II of chapter 43 of this title) after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
 (2) A member of the Defense Intelligence Senior Executive Service or the Senior Cryptologic Executive Service who is removed from such service for failure to be recertified as a senior executive or for less than fully successful executive performance after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
@@ -10,11 +10,33 @@
 
 &emsp;(A) is separated from the service involuntarily, except by removal for cause on charges of misconduct or delinquency; or
 
-&emsp;(B) except in the case of an employee who is separated from the service under a program carried out under subsection (d), while serving in a geographic area designated by the Director, is separated from the service voluntarily during a period in which (as determined by the Director)—
+&emsp;(B)(i) has been employed continuously, by the agency in which the employee is serving, for at least the 31-day period ending on the date on which such agency requests the determination referred to in clause (iv);
 
-&emsp;&emsp;(i) the agency in which the employee is serving is undergoing a major reorganization, a major reduction in force, or a major transfer of function; and
+&emsp;(ii) is serving under an appointment that is not time limited;
 
-&emsp;&emsp;(ii) a significant percentage of the total number of employees serving in such agency will be separated or subject to an immediate reduction in the rate of basic pay (without regard to subchapter VI of chapter 53 of this title or comparable provisions);
+&emsp;(iii) has not been duly notified that such employee is to be involuntarily separated for misconduct or unacceptable performance;
+
+&emsp;(iv) is separate <sup>1</sup> from the service voluntarily during a period in which, as determined by the Office of Personnel Management (upon request of the agency) under regulations prescribed by the Office—
+
+&emsp;&emsp;(I) such agency (or, if applicable, the component in which the employee is serving) is undergoing substantial delayering, substantial reorganization, substantial reductions in force, substantial transfer of function, or other substantial workforce restructuring (or shaping);
+
+&emsp;&emsp;(II) a significant percentage of employees serving in such agency (or component) are likely to be separated or subject to an immediate reduction in the rate of basic pay (without regard to subchapter VI of chapter 53, or comparable provisions); or
+
+&emsp;&emsp;(III) identified as being in positions which are becoming surplus or excess to the agency's future ability to carry out its mission effectively; and
+
+&emsp;(v) as determined by the agency under regulations prescribed by the Office, is within the scope of the offer of voluntary early retirement, which may be made on the basis of—
+
+&emsp;&emsp;(I) 1 or more organizational units;
+
+&emsp;&emsp;(II) 1 or more occupational series or levels;
+
+&emsp;&emsp;(III) 1 or more geographical locations;
+
+&emsp;&emsp;(IV) specific periods;
+
+&emsp;&emsp;(V) skills, knowledge, or other factors related to a position; or
+
+&emsp;&emsp;(VI) any appropriate combination of such factors.<sup>2</sup>
 
 > after completing 25 years of service, or after becoming 50 years of age and completing 20 years of service, is entitled to an annuity.
 
@@ -96,37 +118,17 @@
 
 &emsp;&emsp;(iv) to reduce the number of high-grade, managerial, supervisory, or similar positions.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 526; amended Pub. L. 100–325, §2(m), May 30, 1988, 102 Stat. 583; Pub. L. 101–194, title V, §506(b)(9), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 105–261, div. A, title XI, §1109(b), Oct. 17, 1998, 112 Stat. 2144; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–65, div. A, title V, §522(b), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–321.)
-
-#### Application of Subsection (b)(1)(B)
-
-<i>Pub. L. 105–174, title III, §7001(b), May 1, 1998, 112 Stat. 91, as amended by Pub. L. 106–58, title VI, §651(a), Sept. 29, 1999, 113 Stat. 480, provided that, effective May 1, 1998, subsection (b)(1)(B) of this section shall be applied as if it had been amended to read as follows:</i>
-
-(B)(i) has been employed continuously, by the agency in which the employee is serving, for at least the 31-day period ending on the date on which such agency requests the determination referred to in clause (iv);
-
-(ii) is serving under an appointment that is not time limited;
-
-(iii) has not been duly notified that such employee is to be involuntarily separated for misconduct or unacceptable performance;
-
-(iv) is separated from the service voluntarily during a period in which, as determined by the Office of Personnel Management (upon request of the agency) under regulations prescribed by the Office—
-
-&emsp;(I) such agency (or, if applicable, the component in which the employee is serving) is undergoing a major reorganization, a major reduction in force, or a major transfer of function; and
-
-&emsp;(II) a significant percentage of the employees serving in such agency (or component) will be separated or subject to an immediate reduction in the rate of basic pay (without regard to subchapter VI of chapter 53, or comparable provisions); and
-
-(v) as determined by the agency under regulations prescribed by the Office, is within the scope of the offer of voluntary early retirement, which may be made on the basis of—
-
-&emsp;(I) one or more organizational units;
-
-&emsp;(II) one or more occupational series or levels;
-
-&emsp;(III) one or more geographical locations;
-
-&emsp;(IV) other similar nonpersonal factors the Office determines appropriate; or
-
-&emsp;(V) any appropriate combination of such factors;
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 526; amended Pub. L. 100–325, §2(m), May 30, 1988, 102 Stat. 583; Pub. L. 101–194, title V, §506(b)(9), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 105–261, div. A, title XI, §1109(b), Oct. 17, 1998, 112 Stat. 2144; Pub. L. 106–58, title VI, §651(b), Sept. 29, 1999, 113 Stat. 480; Pub. L. 106–65, div. A, title V, §522(b), Oct. 5, 1999, 113 Stat. 597; Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–321; Pub. L. 107–296, title XIII, §§1313(b)(2), 1321(a)(5)(A), Nov. 25, 2002, 116 Stat. 2295, 2297.)
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–296, §1321(a)(5)(A), struck out “for failure to be recertified as a senior executive under section 3393a or” before “for less than fully”.
+
+Subsec. (b)(1)(B). Pub. L. 107–296, §1313(b)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “except in the case of an employee who is separated from the service under a program carried out under subsection (d), while serving in a geographic area designated by the Director, is separated from the service voluntarily during a period in which (as determined by the Director)—
+
+&emsp;“(i) the agency in which the employee is serving is undergoing a major reorganization, a major reduction in force, or a major transfer of function; and
+
+&emsp;“(ii) a significant percentage of the total number of employees serving in such agency will be separated or subject to an immediate reduction in the rate of basic pay (without regard to subchapter VI of chapter 53 of this title or comparable provisions);”.
 
 2000—Subsec. (b)(1)(B). Pub. L. 106–398, §1 \[\[div. A\], title XI, §1152(b)(1)\], inserted “except in the case of an employee who is separated from the service under a program carried out under subsection (d),” before “while serving” in introductory provisions.
 
@@ -148,6 +150,10 @@ Subsec. (a)(2), (3). Pub. L. 101–194, §506(b)(9)(B), (C), substituted “for 
 
 1988—Subsec. (a)(3). Pub. L. 100–325 added par. (3).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date of 1989 Amendment
 
 Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub. L. 101–194, set out as a note under section 3151 of this title.
@@ -156,7 +162,15 @@ Amendment by Pub. L. 101–194 effective Jan. 1, 1991, see section 506(d) of Pub
 
 For provisions relating to the application of subsection (b)(1)(B) of this section to officers and employees of the General Accounting Office during the period beginning on Oct. 13, 2000 and ending on Dec. 31, 2003, see section 1 of Pub. L. 106-303, set out as a note under section 8336 of this title.
 
+#### Application of Subsection (b)(1)(B)
+
+Pub. L. 105–174, title III, §7001(b), May 1, 1998, 112 Stat. 91, as amended by Pub. L. 106–58, title VI, §651(a), Sept. 29, 1999, 113 Stat. 480, which provided that, effective May 1, 1998, subsec. (b)(1)(B) of this section was to be applied as if it read as specified in Pub. L. 105–174, §7001(b), was repealed by Pub. L. 107–296, title XIII, §1313(b)(4), Nov. 25, 2002, 116 Stat. 2296.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5597, 6302, 8420, 8421, 8421a, 8456, 8462, 8464, 8901 of this title; title 10 section 10218; title 50 sections 2053, 2442.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “separated”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be a semicolon.</i>
 

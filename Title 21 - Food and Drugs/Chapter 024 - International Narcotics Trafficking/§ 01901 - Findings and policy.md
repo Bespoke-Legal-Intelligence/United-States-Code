@@ -6,7 +6,7 @@ Congress makes the following findings:
 
 &emsp;(1) Presidential Decision Directive 42, issued on October 21, 1995, ordered agencies of the executive branch of the United States Government to, inter alia, increase the priority and resources devoted to the direct and immediate threat international crime presents to national security, work more closely with other governments to develop a global response to this threat, and use aggressively and creatively all legal means available to combat international crime.
 
-&emsp;(2) Executive Order No. 12978 of October 21, 1995, provides for the use of the authorities in the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.) to target and apply sanctions to four international narcotics traffickers and their organizations that operate from Colombia.
+&emsp;(2) Executive Order No. 12978 of October 21, 1995, provides for the use of the authorities in the International Emergency Economic Powers Act (IEEPA) (50 U.S.C. 1701 et seq.) to target and apply sanctions to four internationalnarcotics traffickers and their organizations that operate from Colombia.
 
 &emsp;(3) IEEPA was successfully applied to international narcotics traffickers in Colombia and based on that successful case study, Congress believes similar authorities should be applied worldwide.
 
@@ -14,7 +14,7 @@ Congress makes the following findings:
 
 #### (b) Policy
 
-It shall be the policy of the United States to apply economic and other financial sanctions tosignificant foreign narcotics traffickers and their organizations worldwide to protect the national security, foreign policy, and economy of the United States from the threat described in subsection (a)(4) of this section.
+It shall be the policy of the United States to apply economic and other financial sanctions to significant foreign narcotics traffickers and their organizations worldwide to protect the national security, foreign policy, and economy of the United States from the threat described in subsection (a)(4) of this section.
 
 (Pub. L. 106–120, title VIII, §802, Dec. 3, 1999, 113 Stat. 1626.)
 

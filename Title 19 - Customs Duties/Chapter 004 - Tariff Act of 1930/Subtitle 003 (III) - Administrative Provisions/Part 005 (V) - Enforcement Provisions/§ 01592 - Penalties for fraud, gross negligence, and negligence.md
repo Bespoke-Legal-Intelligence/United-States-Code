@@ -4,7 +4,7 @@
 
 #### (1) General rule
 
-&emsp;Without regard to whether the United States is or may be deprived of all or a portion of any lawful duty, tax, or fee thereby, no person, by fraud, gross negligence, or negligence—
+&emsp;Without regard to whether the United States is or may be deprived of all or a portion of anylawful duty, tax, or fee thereby, no person, by fraud, gross negligence, or negligence—
 
 &emsp;&emsp;(A) may enter, introduce, or attempt to enter or introduce any merchandise into the commerce of the United States by means of—
 
@@ -88,7 +88,7 @@
 
 &emsp;&emsp;(A) if the violation resulted from fraud—
 
-&emsp;&emsp;&emsp;(i) an amount equal to 100 percent of the lawful duties, taxes, and fees of which the United States is or may be deprived, so long as such person tenders the unpaid amount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount, or
+&emsp;&emsp;&emsp;(i) an amount equal to 100 percent of the lawful duties, taxes, and fees of which the United States is or may be deprived, so long as such person tenders the unpaidamount of the lawful duties, taxes, and fees at the time of disclosure, or within 30 days (or such longer period as the Customs Service may provide) after notice by the Customs Service of its calculation of such unpaid amount, or
 
 &emsp;&emsp;&emsp;(ii) if such violation did not affect the assessment of duties, 10 percent of the dutiable value; or
 
@@ -98,7 +98,7 @@
 
 #### (5) Prior disclosure regarding NAFTA claims
 
-&emsp;An importer shall not be subject to penalties under subsection (a) of this section for makingan incorrect claim for preferential tariff treatment under section 3332 of this title if the importer—
+&emsp;An importer shall not be subject to penalties under subsection (a) of this section for making an incorrect claim for preferential tariff treatment under section 3332 of this title if the importer—
 
 &emsp;&emsp;(A) has reason to believe that the NAFTA Certificate of Origin (as defined in section 1508(b)(1) of this title) on which the claim was based contains incorrect information; and
 
@@ -142,7 +142,7 @@ Notwithstanding any other provision of law, in any proceeding commenced by the U
 
 &emsp;A person may not be considered to have violated paragraph (1) if—
 
-&emsp;&emsp;(A) the information was correct at the time it was provided in a NAFTA Certificate of Origin but was later rendered incorrect due to a change in circumstances; and
+&emsp;&emsp;(A) the information was correct at the time it was provided in a NAFTA Certificateof Origin but was later rendered incorrect due to a change in circumstances; and
 
 &emsp;&emsp;(B) the person voluntarily and promptly provides written notice of the change to all persons to whom the person provided the Certificate of Origin.
 
@@ -156,7 +156,7 @@ The provisions of section III, H, of the 1913 act were substituted for provision
 
 Those provisions superseded similar provisions made by R.S. §2864, as amended by act Feb. 18, 1875, ch. 80, 18 Stat. 319, prior to repeal by act Sept. 21, 1922, ch. 356, title IV, §642, 42 Stat. 989.
 
-R.S. §2839 provided for forfeiture of merchandise entered, but not invoiced according to the actual cost at the place of exportation, with the design to evade payment of duty. It was repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, and provisions of a similar nature were made by section 9 of that act, amended by the Payne-Aldrich Tariff Act ofAug. 5, 1909, ch. 6, §28, 36 Stat. 97, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, H, 38 Stat. 183.
+R.S. §2839 provided for forfeiture of merchandise entered, but not invoiced according to the actual cost at the place of exportation, with the design to evade payment of duty. It was repealed by the Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141, and provisions of a similar nature were made by section 9 of that act, amended by the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §28, 36 Stat. 97, and further amended by the Underwood Tariff Act of Oct. 3, 1913, ch. 16, §III, H, 38 Stat. 183.
 
 Act June 22, 1874, ch. 391, §16, 18 Stat. 189, required special findings as to fraud in actions, etc., to enforce forfeitures, etc., prior to repeal by Customs Administrative Act of June 10, 1890, ch. 407, §29, 26 Stat. 141.
 
@@ -200,7 +200,7 @@ Subsec. (f). Pub. L. 103–182, §205(c)(2), added subsec. (f).
 
 1980—Subsec. (e). Pub. L. 96–417 substituted in heading “Court of International Trade” for “District court” and in text “proceeding commenced by the United States in the Court of International Trade” for “proceeding in a United States district court commenced by the United States pursuant to section 1604 of this title”.
 
-1978—Pub. L. 95–410 substituted subsecs. (a) to (e) relating to penalties for fraud, gross negligence, and negligence for prior provisions which: provided for forfeiture of merchandise, or recovery of value thereof, where entry or attempted entry of the merchandise was made using fraudulent or false invoice, declaration, affidavit, letter, paper, or false statement, written or verbal, false or fraudulent practice or appliance, or false statement in a declaration on entry without reasonable cause to believe the truth of the statement or aided or procured the making any such false statement as to any material matter without reasonable cause to believe the truth of the statement, regardless of deprivation of lawful duties, or guilty of any willful act or omission when there was a deprivation of such duties; made the forfeiture applicable to the whole of the merchandise or the value thereof where package contained the particular articles to which the fraud or false paper or statement related; and defined attempt to enter the merchandise without an actual entry having been made or offered.
+1978—Pub. L. 95–410 substituted subsecs. (a) to (e) relating to penalties for fraud, gross negligence, and negligence for prior provisions which: provided for forfeiture of merchandise, or recovery of value thereof, where entry or attempted entry of the merchandise was made using fraudulent or false invoice, declaration, affidavit, letter, paper, or false statement, written or verbal, false or fraudulent practice or appliance, or false statement in a declaration on entry without reasonable cause to believe the truth of the statement or aided or procured the making any such false statement as to any material matter without reasonable cause to believe the truth of the statement, regardless of deprivation of lawful duties, or guilty of any willful act or omission when there was a deprivation of such duties; made the forfeiture applicable to the whole of the merchandise or the value thereof where package contained the particular articles to which the fraud or false paperor statement related; and defined attempt to enter the merchandise without an actual entry having been made or offered.
 
 1935—Act Aug. 5, 1935, inserted “whether or not the United States shall or may be deprived of the lawful duties, or any portion thereof, accruing upon the merchandise, or any portion thereof, embraced or referred to in such invoice, declaration, affidavit, letter, paper, or statement;”.
 
@@ -222,7 +222,7 @@ Section 110(f) of Pub. L. 95–410 provided that:
 
 “(1)(A) Except as provided in subparagraphs (B) and (C), subsections (a), (b), and (c) (other than new subsection (e) of section 592 of the Tariff Act of 1930 as added by subsection (a)) \[subsec. (a), (b), and (c), not including (e) of this section\] shall be effective with respect to proceedings commenced after the 89th day after the date of enactment of this Act \[Oct. 3, 1978\].
 
-“(B) Except as provided in subparagraph (C), section 592 of the Tariff Act of 1930 \[this section\] (as such section existed on the day before the date of enactment of this Act) \[Oct. 3, 1978\] shall apply to any alleged intentional violation thereof involving television receiversthat are the product of Japan and that were or are the subject of antidumping proceedings if the alleged intentional violation—
+“(B) Except as provided in subparagraph (C), section 592 of the Tariff Act of 1930 \[this section\] (as such section existed on the day before the date of enactment of this Act) \[Oct. 3, 1978\] shall apply to any alleged intentional violation thereof involving television receivers that are the product of Japan and that were or are the subject of antidumping proceedings if the alleged intentional violation—
 
 &emsp;“(i) occurred before the date of enactment of this Act, and
 
@@ -243,6 +243,10 @@ Section 110(f) of Pub. L. 95–410 provided that:
 &emsp;“(ii) the closing date of the 2-year period beginning on such date of enactment,
 
 > whichever date later occurs, except that no such suit or action may be instituted after the date on which such suit or action would have been barred under section 621 of the Tariff Act of 1930 \[section 1621 of this title\] (as in effect on the day before such date of enactment).”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

@@ -34,7 +34,7 @@ The Secretary is authorized to provide assistance to private nonprofit organizat
 
 #### (2) Contract terms
 
-&emsp;The initial term of a contract entered into under subsection (c)(2) of this section shall be 240 months. The Secretary shall, to the extent approved in appropriation Acts, extend any expiring contract for a term of not less than 60 months. In order to facilitate the orderly extension of expiring contracts, the Secretary is authorized to make commitments to extend expiring contracts during the year prior to the date of expiration.
+&emsp;The initial term of a contract entered into under subsection (c)(2) of this section shall be240 months. The Secretary shall, to the extent approved in appropriation Acts, extend any expiring contract for a term of not less than 60 months. In order to facilitate the orderly extension of expiring contracts, the Secretary is authorized to make commitments to extend expiring contracts during the year prior to the date of expiration.
 
 #### (e) Applications
 
@@ -92,7 +92,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 #### (3) Service coordinators
 
-&emsp;Any cost associated with employing or otherwise retaining a service coordinator in housing assisted under this section shall be considered an eligible cost under subsection (c)(2) of this section. If a project is receiving congregate housing services assistance under section 8011 of title 42, the amount of costs provided under subsection (c)(2) of this section for the project service coordinator may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such section 8011 of title 42. To the extent that amounts are available pursuant to subsection (c)(2) of this section for the costs of carrying out this paragraph within a project, an owner of housing assisted under this section shall provide a service coordinator for the housing to coordinate the provision of services under this subsection within the housing.
+&emsp;Any cost associated with employing or otherwise retaining a service coordinator in housing assisted under this section shall be considered an eligible cost under subsection (c)(2) of this section. If a project is receiving congregate housing services assistance under section 8011 of title 42, the amount of costs provided under subsection (c)(2) of this section for the project service coordinator may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who arenot eligible residents under such section 8011 of title 42. To the extent that amounts are available pursuant to subsection (c)(2) of this section for the costs of carrying out this paragraph within a project, an owner of housing assisted under this section shall provide a service coordinator for the housing to coordinate the provision of services under this subsection within the housing.
 
 #### (h) Development cost limitations
 
@@ -160,11 +160,11 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 #### (1) In general
 
-&emsp;An owner shall adopt written tenant selection procedures that are satisfactory to the Secretary as (A) consistent with the purpose of improving housing opportunities for very low-income elderly persons; and (B) reasonably related to program eligibility and an applicant's ability to perform the obligations of the lease. Such tenant selection procedures shall comply with subtitle C of title VI of the Housing and Community Development Act of 1992 \[42 U.S.C. 13601 et seq.\] and any regulations issued under such subtitle. Owners shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+&emsp;An owner shall adopt written tenant selection procedures that are satisfactory to the Secretary as (A) consistent with the purpose of improving housing opportunities for very low-income elderly persons; and (B) reasonably related to program eligibility and an applicant's ability to perform the obligations of the lease. Such tenant selection procedures shall comply with subtitle C of title VI of theHousing and Community Development Act of 1992 \[42 U.S.C. 13601 et seq.\] and any regulations issued under such subtitle. Owners shall promptly notify in writing any rejected applicant of the grounds for any rejection.
 
 #### (2) Information regarding housing under this section
 
-&emsp;The Secretary shall provide to an appropriate agency in each area (which may be theapplicable Area Agency on the Aging) information regarding the availability of housing assisted under this section.
+&emsp;The Secretary shall provide to an appropriate agency in each area (which may be the applicable Area Agency on the Aging) information regarding the availability of housing assisted under this section.
 
 #### (j) Miscellaneous provisions
 
@@ -194,7 +194,7 @@ The Secretary shall establish selection criteria for assistance under this secti
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall take such action as may be necessary to ensure that all laborers and mechanics employed by contractors and subcontractors in the construction of housing with 12 or more units assisted under this section shall be paid wages at rates not less than the rates prevailing in the locality involved for the corresponding classes of laborers and mechanics employed on construction of a similar character, as determined by the Secretary of Labor in accordance with the Act of March 3, 1931 (commonly known as the Davis-Bacon Act) \[40 U.S.C. 276a et seq.\].
+&emsp;&emsp;The Secretary shall take such action as may be necessary to ensure that all laborers and mechanics employed by contractors and subcontractors in the construction of housing with 12 or more units assisted under this section shall be paid wages at rates not less than the rates prevailing in the locality involved for the corresponding classes of laborers and mechanics employed on construction of a similar character, as determined by the Secretary of Labor in accordance with sections 3141–3144, 3146, and 3147 of title 40.
 
 #### (B) Exemption
 
@@ -280,9 +280,9 @@ The Civil Rights Act of 1964, referred to in subsec. (j)(2), is Pub. L. 88–352
 
 The Fair Housing Act, referred to in subsec. (j)(2), is title VIII of Pub. L. 90–284, Apr. 11, 1968, 82 Stat. 81, as amended, which is classified principally to subchapter I (§3601 et seq.) of chapter 45 of Title 42. For complete classification of this Act to the Code, see Short Title note set out under section 3601 of Title 42 and Tables.
 
-The Davis-Bacon Act, referred to in subsec. (j)(5)(A), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 #### Codification
+
+“Sections 3141–3144, 3146, and 3147 of title 40” substituted in subsec. (j)(5)(A) for “the Act of March 3, 1931 (commonly known as the Davis-Bacon Act)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 Section was enacted as part of the Housing Act of 1959, and not as part of the National Housing Act which comprises this chapter.
 
@@ -356,7 +356,7 @@ Subsec. (h)(2). Pub. L. 102–242 inserted “or from the Federal Deposit Insura
 
 1990—Pub. L. 101–625, §801(a), amended section generally, substituting present provisions for provisions authorizing loans for housing and related facilities for elderly or handicapped families.
 
-Subsec. (a)(4)(C). Pub. L. 101–625, §801(e), struck out before period at end “, and not more than $666,400,000 may be approved in appropriation Acts for such loans with respect to fiscal year 1984. For fiscal years 1988 and 1989, not more than $621,701,000 and $630,000,000, respectively, may be approved in appropriation Acts for such loans” and inserted at end “For fiscal year 1991,not more than $714,200,000 may be approved in appropriation Acts for such loans.”
+Subsec. (a)(4)(C). Pub. L. 101–625, §801(e), struck out before period at end “, and not more than $666,400,000 may be approved in appropriation Acts for such loans with respect to fiscal year 1984. For fiscal years 1988 and 1989, not more than $621,701,000 and $630,000,000, respectively, may be approved in appropriation Acts for such loans” and inserted at end “For fiscal year 1991, not more than $714,200,000 may be approved in appropriation Acts for such loans.”
 
 Subsec. (a)(9). Pub. L. 101–625, §804(b), added par. (9).
 
@@ -582,11 +582,11 @@ Section 105(b)(2) of Pub. L. 89–117, as added by Pub. L. 89–754, title X, §
 
 #### Effective Date of 1962 Amendment
 
-Section 3(b) of Pub. L. 87–723 provided that the amendments made by that section are effective with respect to applications for loans made under this section after Sept. 28, 1962.
+Section 3(b) of Pub. L. 87–723 provided that the amendments made by that section are effective withrespect to applications for loans made under this section after Sept. 28, 1962.
 
 #### Regulations
 
-Pub. L. 106–74, title V, §502, Oct. 20, 1999, 113 Stat. 1101, provided that: “The Secretary of Housing andUrban Development shall issue any regulations to carry out this title \[see Short Title of 1999 Amendment note set out under section 1701 of this title\] and the amendments made by this title that the Secretary determines may or will affect tenants of federally assisted housing only after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Notice of such proposed rulemaking shall be provided by publication in the Federal Register. In issuing such regulations, the Secretary shall take such actions as may be necessary to ensure that such tenants are notified of, and provided an opportunity to participate in, the rulemaking, as required by such section 553.”
+Pub. L. 106–74, title V, §502, Oct. 20, 1999, 113 Stat. 1101, provided that: “The Secretary of Housing and Urban Development shall issue any regulations to carry out this title \[see Short Title of 1999 Amendment note set out under section 1701 of this title\] and the amendments made by this title that the Secretary determines may or will affect tenants of federally assisted housing only after notice and opportunity for public comment in accordance with the procedure under section 553 of title 5, United States Code, applicable to substantive rules (notwithstanding subsections (a)(2), (b)(B), and (d)(3) of such section). Notice of such proposed rulemaking shall be provided by publication in the Federal Register. In issuing such regulations, the Secretary shall take such actions as may be necessary to ensure that such tenants are notified of, and provided an opportunity to participate in, the rulemaking, as required by such section 553.”
 
 #### Prepayment and Refinancing
 
@@ -652,7 +652,7 @@ Inapplicability of hud reform act provisions.—Notwithstanding section 102 of t
 
 “(3)
 
-Limitation.—If a project is receiving congregate housing services assistance under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] or section 802 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 8011\], the amount of costs provided pursuant to paragraph (1) for the project may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residentsunder such section 802 or eligible project residents under the Congregate Housing Services Act of 1978, as applicable.”
+Limitation.—If a project is receiving congregate housing services assistance under the Congregate Housing Services Act of 1978 \[42 U.S.C. 8001 et seq.\] or section 802 of the Cranston-Gonzalez National Affordable Housing Act \[42 U.S.C. 8011\], the amount of costs provided pursuant to paragraph (1) for the project may not exceed the additional amount necessary to cover the costs of providing for the coordination of services for residents of the project who are not eligible residents under such section 802 or eligible project residents under the Congregate Housing Services Act of 1978, as applicable.”
 
 #### Expedited Financing and Construction
 

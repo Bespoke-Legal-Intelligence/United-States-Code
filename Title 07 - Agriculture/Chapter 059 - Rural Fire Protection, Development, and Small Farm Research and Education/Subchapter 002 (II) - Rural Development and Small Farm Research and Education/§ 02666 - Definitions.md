@@ -2,7 +2,7 @@
 
 For the purposes of this subchapter—
 
-&emsp;(a) “rural development” means the planning, financing, and development of facilities and services in rural areas that contribute to making those areas desirable places in which to live and make private and business investments; the planning, development, and expansion of business and industry in rural areas to provide increased employment and income; the planning, development, conservation, and use of land, water, and other natural resources of rural areas to maintain or improve the quality of the environment for people and business in rural areas; and the building or improvement of institutional, organizational, and leadership capacities of rural citizens and leaders to define and resolve their own community problems;
+&emsp;(a) “rural development” means the planning, financing, and development of facilities andservices in rural areas that contribute to making those areas desirable places in which to live and make private and business investments; the planning, development, and expansion of business and industry in rural areas to provide increased employment and income; the planning, development, conservation, and use of land, water, and other natural resources of rural areas to maintain or improve the quality of the environment for people and business in rural areas; and the building or improvement of institutional, organizational, and leadership capacities of rural citizens and leaders to define and resolve their own community problems;
 
 &emsp;(b) “State” means the several States, the Commonwealth of Puerto Rico, Guam, American Samoa, the Virgin Islands of the United States, and the Commonwealth of the Northern Mariana Islands; and
 

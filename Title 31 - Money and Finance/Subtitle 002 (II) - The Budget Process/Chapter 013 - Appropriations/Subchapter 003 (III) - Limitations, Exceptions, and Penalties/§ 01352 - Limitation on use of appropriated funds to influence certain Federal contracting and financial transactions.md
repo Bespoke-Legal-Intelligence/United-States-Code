@@ -52,7 +52,7 @@
 
 (d)(1)(A) Subsection (a)(1) of this section does not apply in the case of a payment of reasonable compensation made to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement to the extent that the payment is for agency and legislative liaison activities not directly related to a Federal action referred to in subsection (a)(2) of this section.
 
-(B) Subsection (a)(1) of this section does not prohibit any reasonable payment to a person in connection with, or any payment of reasonable compensation to an officer or employee of a person requesting or receiving, a Federal contract, grant, loan, or cooperative agreement or an extension, continuation, renewal, amendment, or modification of a Federal contract, grant, loan, or cooperative agreement if the payment is for professional or technical services rendered directly in the preparation, submission, or negotiation of any bid, proposal, or application for that Federal contract, grant, loan, or cooperative agreement or for meeting requirements imposed by or pursuant to law as a condition for receiving that Federal contract, grant, loan, or cooperative agreement.
+(B) Subsection (a)(1) of this section does not prohibit any reasonable payment to a person in connection with, or any payment of reasonable compensation to an officer or employee of a person requesting or receiving, a Federal contract, grant, loan, or cooperative agreement or an extension, continuation, renewal, amendment, ormodification of a Federal contract, grant, loan, or cooperative agreement if the payment is for professional or technical services rendered directly in the preparation, submission, or negotiation of any bid, proposal, or application for that Federal contract, grant, loan, or cooperative agreement or for meeting requirements imposed by or pursuant to law as a condition for receiving that Federal contract, grant, loan, or cooperative agreement.
 
 (C) Nothing in this paragraph shall be construed as permitting the use of appropriated funds for making any payment prohibited in or pursuant to any other provision of law.
 
@@ -62,7 +62,7 @@
 
 &emsp;(B) a request for or receipt of a contract (other than a contract referred to in clause (C)), grant, cooperative agreement, subcontract (other than a subcontract referred to in clause (C)), or subgrant that does not exceed $100,000; and
 
-&emsp;(C) a request for or receipt of a loan, or a commitment providing for the United Statesto insure or guarantee a loan, that does not exceed $150,000, or the single family maximum mortgage limit for affected programs, whichever is greater, including a contract or subcontract to carry out any purpose for which such a loan is made.
+&emsp;(C) a request for or receipt of a loan, or a commitment providing for the United States to insure or guarantee a loan, that does not exceed $150,000, or the single family maximum mortgage limit for affected programs, whichever is greater, including a contract or subcontract to carry out any purpose for which such a loan is made.
 
 (e) The Secretary of Defense may exempt a Federal action described in subsection (a)(2) from the prohibition in subsection (a)(1) whenever the Secretary determines, in writing, that such an exemption is in the national interest. The Secretary shall transmit a copy of each such written exemption to Congress immediately after making such determination.
 
@@ -124,7 +124,7 @@
 
 &emsp;(9) The term “reasonable compensation” means, with respect to a regularly employed officer or employee of any person, compensation that is consistent with the normal compensation for such officer or employee for work that is not furnished to, not funded by, or not furnished in cooperation with the Federal Government.
 
-&emsp;(10) The term “regularly employed”, with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or a commitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such person for at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
+&emsp;(10) The term “regularly employed”, with respect to an officer or employee of a person requesting or receiving a Federal contract, grant, loan, or cooperative agreement or acommitment providing for the United States to insure or guarantee a loan, means an officer or employee who is employed by such person for at least 130 working days within one year immediately preceding the date of the submission that initiates agency consideration of such person for receipt of such contract, grant, loan, cooperative agreement, loan insurance commitment, or loan guaranty commitment.
 
 &emsp;(11) The terms “Indian tribe” and “tribal organization” have the meaning provided in section 4 of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450b).
 
@@ -212,5 +212,5 @@ Section 319(c) of Pub. L. 101–121 provided that: “The Director of the Office
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 12 section 4707.
+This section is referred to in title 12 section 4707; title 18 section 1913.
 

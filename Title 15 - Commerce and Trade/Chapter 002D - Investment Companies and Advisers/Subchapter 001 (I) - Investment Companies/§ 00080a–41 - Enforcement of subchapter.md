@@ -2,7 +2,7 @@
 
 #### (a) Investigation
 
-The Commission may make such investigations as it deems necessary to determine whether any person has violated or is about to violate any provision of this subchapter or of any rule, regulation, or order hereunder, or to determine whether any action in any court or any proceeding before the Commission shall be instituted under this subchapter against a particular person or persons, or with respect to a particular transaction or transactions. The Commissionshall permit any person to file with it a statement in writing, under oath or otherwise as the Commission shall determine, as to all the facts and circumstances concerning the matter to be investigated.
+The Commission may make such investigations as it deems necessary to determine whether any person has violated or is about to violate any provision of this subchapter or of any rule, regulation, or order hereunder, or to determine whether any action in any court or any proceeding before the Commission shall be instituted under this subchapter against a particular person or persons, or with respect to a particular transaction or transactions. The Commission shall permit any person to file with it a statement in writing, under oath or otherwise as the Commission shall determine, as to all the facts and circumstances concerning the matter to be investigated.
 
 #### (b) Administration of oaths and affirmations, subpena of witnesses, etc.
 
@@ -26,7 +26,7 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 #### (A) First tier
 
-&emsp;&emsp;The amount of the penalty shall be determined by the court in light of the facts and circumstances. For each violation, the amount of the penalty shall not exceed the greater of (i) $5,000 for a natural person or $50,000 for any other person, or (ii) the gross amount of pecuniary gain to such defendant as a result of the violation.
+&emsp;&emsp;The amount of the penalty shall be determined by the court in light of the facts and circumstances. For each violation, the amount of the penalty shall not exceed the greater of (i) $5,000 for a natural person or $50,000 for any other person, or (ii) the grossamount of pecuniary gain to such defendant as a result of the violation.
 
 #### (B) Second tier
 
@@ -38,13 +38,13 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 &emsp;&emsp;&emsp;(I) the violation described in paragraph (1) involved fraud, deceit, manipulation, or deliberate or reckless disregard of a regulatory requirement; and
 
-&emsp;&emsp;&emsp;(II) such violation directly or indirectly resulted in substantial losses or created asignificant risk of substantial losses to other persons.
+&emsp;&emsp;&emsp;(II) such violation directly or indirectly resulted in substantial losses or created a significant risk of substantial losses to other persons.
 
 #### (3) Procedures for collection
 
 #### (A) Payment of penalty to Treasury
 
-&emsp;&emsp;A penalty imposed under this section shall be payable into the Treasury of the United States.
+&emsp;&emsp;A penalty imposed under this section shall be payable into the Treasury of the United States, except as otherwise provided in section 7246 of this title.
 
 #### (B) Collection of penalties
 
@@ -62,9 +62,11 @@ Whenever it shall appear to the Commission that any person has engaged or is abo
 
 &emsp;In an action to enforce a cease-and-desist order entered by the Commission pursuant to section 80a–9(f) of this title, each separate violation of such order shall be a separate offense, except that in the case of a violation through a continuing failure to comply with the order, each day of the failure to comply shall be deemed a separate offense.
 
-(Aug. 22, 1940, ch. 686, title I, §42, 54 Stat. 842; Pub. L. 91–452, title II, §215, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title VI, §623, Dec. 4, 1987, 101 Stat. 1262; Pub. L. 101–429, title III, §302, Oct. 15, 1990, 104 Stat. 945.)
+(Aug. 22, 1940, ch. 686, title I, §42, 54 Stat. 842; Pub. L. 91–452, title II, §215, Oct. 15, 1970, 84 Stat. 929; Pub. L. 100–181, title VI, §623, Dec. 4, 1987, 101 Stat. 1262; Pub. L. 101–429, title III, §302, Oct. 15, 1990, 104 Stat. 945; Pub. L. 107–204, title III, §308(d)(4), July 30, 2002, 116 Stat. 785.)
 
 #### Amendments
+
+2002—Subsec. (e)(3)(A). Pub. L. 107–204 inserted “, except as otherwise provided in section 7246 of this title” before period at end.
 
 1990—Subsec. (e). Pub. L. 101–429 added subsec. (e).
 

@@ -134,6 +134,10 @@ A prior section 1308, acts June 17, 1930, ch. 497, title III, §308, 46 Stat. 69
 
 Pub. L. 106–476, title I, §1443(c), Nov. 9, 2000, 114 Stat. 2167, provided that: “The amendments made by this section \[enacting this section and amending section 69 of Title 15, Commerce and Trade\] shall take effect on the date of the enactment of this Act \[Nov. 9, 2000\].”
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Findings and Purposes
 
 Pub. L. 106–476, title I, §1442, Nov. 9, 2000, 114 Stat. 2163, provided that:
@@ -146,7 +150,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(2) The United States represents one of the largest markets for the sale of fur and fur products in the world. Market demand for fur products in the United States has led to the introduction of dog and cat fur products into United States commerce, frequently based on deceptive or fraudulent labeling of the products to disguise the true nature of the fur and mislead United States wholesalers, retailers, and consumers.
 
-&emsp;“(3) Dog and cat fur, when dyed, is not easily distinguishable to persons who are not experts from other furs such as fox, rabbit, coyote, wolf, and mink, and synthetic materials made to resemble real fur. Dog and cat fur is generally less expensive than other types of fur and may be used as a substitute for more expensive types of furs, which provides an incentiveto engage in unfair or fraudulent trade practices in the importation, exportation, distribution, or sale of fur products, including deceptive labeling and other practices designed to disguise the true contents or origin of the product.
+&emsp;“(3) Dog and cat fur, when dyed, is not easily distinguishable to persons who are not experts from other furs such as fox, rabbit, coyote, wolf, and mink, and synthetic materials made to resemble real fur. Dog and cat fur is generally less expensive than other types of fur and may be used as a substitute for more expensive types of furs, which provides an incentive to engage in unfair or fraudulent trade practices in the importation, exportation, distribution, or sale of fur products, including deceptive labeling and other practices designed to disguise the true contents or origin of the product.
 
 &emsp;“(4) Forensic texts have documented that dog and cat fur products are being imported into the United States subject to deceptive labels or other practices designed to conceal the use of dog or cat fur in the production of wearing apparel, toys, and other products.
 

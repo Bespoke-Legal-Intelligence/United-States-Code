@@ -24,9 +24,9 @@ Changes in phraseology were also made.
 
 #### Delegation of Functions
 
-For delegation to Secretary of the Treasury of authority vested in President by this section, see section 1(m) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, set out as a note under section 301 of Title 3, The President.
+For delegation to Secretary of Homeland Security of authority vested in President by this section, see section 1(m) of Ex. Ord. No. 10637, Sept. 16, 1955, 20 F.R. 7025, as amended, set out as a note under section 301 of Title 3, The President.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14 of this title; title 22 sections 450, 465.
+This section is referred to in title 22 sections 450, 465.
 

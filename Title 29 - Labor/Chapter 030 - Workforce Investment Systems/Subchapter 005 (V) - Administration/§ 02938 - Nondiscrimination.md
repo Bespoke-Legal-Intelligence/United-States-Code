@@ -12,7 +12,7 @@
 
 #### (3) Prohibition on assistance for facilities for sectarian instruction or religious worship
 
-&emsp;Participants shall not be employed under this chapter to carry out the construction, operation, or maintenance of any part of any facility that is used or to be used for sectarian instruction or as a place for religious worship (except with respect to the maintenance of afacility that is not primarily or inherently devoted to sectarian instruction or religious worship, in a case in which the organization operating the facility is part of a program or activity providing services to participants).
+&emsp;Participants shall not be employed under this chapter to carry out the construction, operation, or maintenance of any part of any facility that is used or to be used for sectarian instruction or as a place for religious worship (except with respect to the maintenance of a facility that is not primarily or inherently devoted to sectarian instruction or religious worship, in a case in which the organization operating the facility is part of a program or activity providing services to participants).
 
 #### (4) Prohibition on discrimination on basis of participant status
 
@@ -32,7 +32,7 @@ Whenever the Secretary finds that a State or other recipient of funds under this
 
 #### (c) Action of Attorney General
 
-When a matter is referred to the Attorney General pursuant to subsection (b)(1) of this section, or whenever the Attorney General has reason to believe that a State or other recipient of funds under this chapter is engaged in a pattern or practice of discrimination in violation of a provision of law referred to in subsection (a)(1) of this section or in violation of paragraph (2), (3), (4), or (5) of subsection (a) of this section, the Attorney General may bring a civil action in any appropriate district court of the United States for such relief as may be appropriate, including injunctive relief.
+When a matter is referred to the Attorney General pursuant to subsection (b)(1) of this section, or whenever the Attorney General has reason to believe that a State or other recipient of funds under this chapter is engaged in a pattern or practice of discrimination in violation of a provision of law referred to in subsection (a)(1) of this section or in violation of paragraph (2), (3), (4), or (5) of subsection (a) of this section, the Attorney General may bring a civil action in any appropriate district court of the UnitedStates for such relief as may be appropriate, including injunctive relief.
 
 #### (d) Job Corps
 
@@ -48,7 +48,7 @@ The Secretary shall issue regulations necessary to implement this section not la
 
 The Age Discrimination Act of 1975, referred to in subsec. (a)(1), is title III of Pub. L. 94–135, Nov. 28, 1975, 89 Stat. 728, as amended, which is classified generally to chapter 76 (§6101 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 6101 of Title 42 and Tables.
 
-The Education Amendments of 1972, referred to in subsec. (a)(1), (2), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title of 1972 Amendment note set out under section 1001 of Title 20 and Tables.
+The Education Amendments of 1972, referred to in subsec. (a)(1), (2), is Pub. L. 92–318, June 23, 1972, 86 Stat. 235, as amended. Title IX of the Act, known as the Patsy Takemoto Mink Equal Opportunity in Education Act, is classified principally to chapter 38 (§1681 et seq.) of Title 20, Education. For complete classification of title IX to the Code, see Short Title note set out under section 1681 of Title 20 and Tables.
 
 The Civil Rights Act of 1964, referred to in subsec. (a)(1), is Pub. L. 88–352, July 2, 1964, 78 Stat. 241, as amended. Title VI of the Act is classified generally to subchapter V (§2000d et seq.) of chapter 21 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2000a of Title 42 and Tables.
 
@@ -57,6 +57,10 @@ This Act, referred to in subsec. (a)(1), is Pub. L. 105–220, Aug. 7, 1998, 112
 #### Prior Provisions
 
 Provisions similar to this section were contained in section 1577 of this title prior to repeal by Pub. L. 105–220.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Section Referred to in Other Sections
 

@@ -52,7 +52,7 @@ Not later than 180 days after November 28, 1990, the Secretary and the Secretary
 
 (3) Two or more Indian tribes may form a coalition for the adoption of resolutions and the establishment and development of a joint community mental health plan under this subsection.
 
-(4) The Secretary, acting through the Service, may make grants to Indian tribes adopting a resolution pursuant to paragraph (1) to obtain technical assistance for the development of a community mental health plan and to provideadministrative support in the implementation of such plan.
+(4) The Secretary, acting through the Service, may make grants to Indian tribes adopting a resolution pursuant to paragraph (1) to obtain technical assistance for the development of a community mental health plan and to provide administrative support in the implementation of such plan.
 
 #### (d) Mental health training and community education programs
 
@@ -246,7 +246,7 @@ Section 503(a) of Pub. L. 101–630 provided that: “The purposes of this secti
 
 &emsp;“(4) provide authority and opportunities for Indian tribes to develop and implement, and coordinate with, community-based mental health programs which include identification, prevention, education, referral, and treatment services, including through multidisciplinary resource teams;
 
-&emsp;“(5) ensure that Indians, as citizens of the United States and of the States in which they reside, havethe same access to mental health services to which all such citizens have access; and
+&emsp;“(5) ensure that Indians, as citizens of the United States and of the States in which they reside, have the same access to mental health services to which all such citizens have access; and
 
 &emsp;“(6) modify or supplement existing programs and authorities in the areas identified in paragraph (2).”
 

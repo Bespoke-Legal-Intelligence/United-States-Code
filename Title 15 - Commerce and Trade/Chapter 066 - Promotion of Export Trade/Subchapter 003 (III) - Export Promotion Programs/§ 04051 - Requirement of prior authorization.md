@@ -14,7 +14,7 @@ To the extent that legislation enacted after the making of an appropriation to c
 
 #### (c) Provisions must be specifically superseded
 
-The provisions of this section shall not be superseded except by a provision of law enacted after July 12, 1985, which specifically repeals, modifies, or supersedes the provisions of this section.
+The provisions of this section shall not be superseded except by a provision of law enactedafter July 12, 1985, which specifically repeals, modifies, or supersedes the provisions of this section.
 
 #### (d) “Export promotion program” defined
 

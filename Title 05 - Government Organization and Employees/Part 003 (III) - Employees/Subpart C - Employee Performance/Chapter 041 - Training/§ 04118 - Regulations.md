@@ -1,6 +1,6 @@
 ### §4118. Regulations
 
-(a) The Office of Personnel Management, after considering the needs and requirements of each agency for training its employees and after consulting with the agencies principally concerned, shall prescribe regulations containing the principles, standards, and related requirements for the programs, and plans thereunder, for the training of employees under this chapter, including requirements for coordination of andreasonable uniformity in the agency training programs and plans. The regulations shall provide for the maintenance of necessary information concerning the general conduct of the training activities of each agency, and such other information as is necessary to enable the President and Congress to discharge effectively their respective duties and responsibilities for supervision, control, and review of these training programs. The regulations also shall cover—
+(a) The Office of Personnel Management, after considering the needs and requirements of each agency for training its employees and after consulting with the agencies principally concerned, shall prescribe regulations containing the principles, standards, and related requirements for the programs, and plans thereunder, for the training of employees under this chapter, including requirements for coordination of and reasonable uniformity in the agency training programs and plans. The regulations shall provide for the maintenance of necessary information concerning the general conduct of the training activities of each agency, and such other information as is necessary to enable the President and Congress to discharge effectively their respective duties and responsibilities for supervision, control, and review of these training programs. The regulations also shall cover—
 
 &emsp;(1) requirements concerning the determination and continuing review by each agency of its training needs and requirements;
 
@@ -54,7 +54,7 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 1994—Subsec. (a)(7). Pub. L. 103–226, §2(a)(9)(A), struck out before semicolon at end “by, in, and through non-Government facilities”.
 
-Subsecs. (b) to (d). Pub. L. 103–226, §2(a)(9)(B), (C), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “In addition to the matters set forth by subsection (a) of this section, the regulations, concerning training of employees by, in, or through non-Government facilities, shall—
+Subsecs. (b) to (d). Pub. L. 103–226, §2(a)(9)(B), (C), redesignated subsecs. (c) and (d) as (b) and (c), respectively, and struck out former subsec. (b) which read as follows: “In addition to the matters set forth by subsection (a) of this section, the regulations, concerningtraining of employees by, in, or through non-Government facilities, shall—
 
 &emsp;“(1) prescribe general policies governing the selection of a non-Government facility to provide training;
 
@@ -68,11 +68,15 @@ Subsecs. (b) to (d). Pub. L. 103–226, §2(a)(9)(B), (C), redesignated subsecs.
 
 Amendment by Pub. L. 95–454 effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 
+#### Department of Homeland Security
+
+Exception from provisions of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, §86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+
 #### Central Intelligence Agency
 
-Exception of Central Intelligence Agency from provisions of this section and certain other provisions of this chapter and section 1308 of this title, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
+Exception of Central Intelligence Agency from provisions of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4103, 4107, 4108, 4109 of this title.
+This section is referred to in sections 4103, 4108, 4109 of this title.
 

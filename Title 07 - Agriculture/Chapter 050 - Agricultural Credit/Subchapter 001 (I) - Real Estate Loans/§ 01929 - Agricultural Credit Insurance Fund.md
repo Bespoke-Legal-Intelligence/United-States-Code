@@ -10,7 +10,7 @@ Moneys in the fund not needed for current operations shall be deposited in the T
 
 #### (c) Notes; form and denominations; maturities; terms and conditions; interest rate; purchase by Treasury; public debt transaction
 
-The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for authorized expenditures out of the fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the currentaverage market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Secretary under this subchapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
+The Secretary is authorized to make and issue notes to the Secretary of the Treasury for the purpose of obtaining funds necessary for discharging obligations under this section and for authorized expenditures out of the fund. Such notes shall be in such form and denominations and have such maturities and be subject to such terms and conditions as may be prescribed by the Secretary with the approval of the Secretary of the Treasury. Such notes shall bear interest at a rate fixed by the Secretary of the Treasury, taking into consideration the current average market yield of outstanding marketable obligations of the United States having maturities comparable to the notes issued by the Secretary under this subchapter. The Secretary of the Treasury is authorized and directed to purchase any notes of the Secretary issued hereunder, and, for that purpose, the Secretary of the Treasury is authorized to use as a public debt transaction the proceeds from the sale of any securities issued under chapter 31 of title 31, and the purposes for which such securities may be issued under such chapter are extended to include the purchase of notes issued by the Secretary. All redemptions, purchases, and sales by the Secretary of the Treasury of such notes shall be treated as public debt transactions of the United States.
 
 #### (d) Notes and security as part of fund; collection or sale of notes; deposit of net proceeds in fund
 
@@ -18,7 +18,7 @@ Notes and security acquired by the Secretary in connection with loans insured un
 
 #### (e) Deposit in fund of portion of charge on outstanding principal obligations; availability of remainder of charge, and merger with appropriations, for administrative expenses
 
-The Secretary shall deposit in the fund all or a portion, not to exceed one-half of 1 per centum of the unpaid principal balance of the loan, of any charge collected in connection with the insurance of loans; and any remainder of any such charge shall be available for administrative expenses of the Farmers Home Administration and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency, to be transferred annually and become merged with any appropriation for administrative expenses for such agency.
+The Secretary shall deposit in the fund all or a portion, not to exceed one-half of 1 per centumof the unpaid principal balance of the loan, of any charge collected in connection with the insurance of loans; and any remainder of any such charge shall be available for administrative expenses of the Farmers Home Administration and the Rural Development Administration, in proportion to such charges collected in connection with the insurance of loans by such agency, to be transferred annually and become merged with any appropriation for administrative expenses for such agency.
 
 #### (f) Utilization of fund
 
@@ -54,7 +54,7 @@ The Secretary may utilize the fund—
 
 (4)
 
-Maximum guarantee of 90 percent.—Except as provided in paragraphs (5) and (6), a loan guarantee under this chapter shall be for not more than 90 percent of the principal and interest due on the loan.
+Maximum guarantee of 90 percent.—Except as provided in paragraphs (5), (6), and (7), a loan guarantee under this chapter shall be for not more than 90 percent of the principal and interest due on the loan.
 
 (5)
 
@@ -72,6 +72,10 @@ Beginning farmer loans guaranteed up to 95 percent.—The Secretary may guarante
 
 &emsp;(B) an operating loan to a borrower who is participating in the down payment loan program under section 1935 of this title that is made during the period that the borrower has a direct loan outstanding under this subchapter for acquiring a farm or ranch.
 
+(7)
+
+Amount of guarantee of loans for farm operations on tribal lands.—In the case of an operating loan made to a farmer or rancher whose farm or ranch land is subject to the jurisdiction of an Indian tribe and whose loan is secured by 1 or more security instruments that are subject to the jurisdiction of an Indian tribe, the Secretary shall guarantee 95 percent of the loan.
+
 #### (i) Coordination of assistance for qualified beginning farmers and ranchers
 
 (1) Not later than 60 days after any State expresses to the Secretary, in writing, a desire to coordinate the provision of financial assistance to qualified beginning farmers and ranchers in the State, the Secretary and the State shall conclude a joint memorandum of understanding that shall govern the coordination of the provision of the financial assistance by the State and the Secretary.
@@ -88,13 +92,17 @@ Beginning farmer loans guaranteed up to 95 percent.—The Secretary may guarante
 
 &emsp;(B) designed to assist persons in obtaining the financial assistance necessary to enter agriculture and establish viable farming or ranching operations.
 
-(Pub. L. 87–128, title III, §309, Aug. 8, 1961, 75 Stat. 309; Pub. L. 87–703, title IV, §401(3), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, §2(b), (c), Oct. 7, 1965, 79 Stat. 932; Pub. L. 89–633, Oct. 8, 1966, 80 Stat. 879; Pub. L. 90–488, §7, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §115, Aug. 30, 1972, 86 Stat. 660; Pub. L. 95–113, title XV, §1510(a), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §109(a), Aug. 4, 1978, 92 Stat. 423; Pub. L. 101–624, title XXIII, §2302(a)(2), Nov. 28, 1990, 104 Stat. 3980; Pub. L. 102–554, §§4, 5(a), Oct. 28, 1992, 106 Stat. 4143; Pub. L. 104–127, title VI, §§606, 661(b), title VII, §§744, 749(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1125, 1129.)
+#### (j) Guarantee of loans made under State beginning farmer or rancher programs
+
+The Secretary may guarantee under this chapter a loan made under a State beginning farmer or rancher program, including a loan financed by the net proceeds of a qualified small issue agricultural bond for land or property described in section 144(a)(12)(B)(ii) of title 26.
+
+(Pub. L. 87–128, title III, §309, Aug. 8, 1961, 75 Stat. 309; Pub. L. 87–703, title IV, §401(3), Sept. 27, 1962, 76 Stat. 632; Pub. L. 89–240, §2(b), (c), Oct. 7, 1965, 79 Stat. 932; Pub. L. 89–633, Oct. 8, 1966, 80 Stat. 879; Pub. L. 90–488, §7, Aug. 15, 1968, 82 Stat. 771; Pub. L. 92–419, title I, §115, Aug. 30, 1972, 86 Stat. 660; Pub. L. 95–113, title XV, §1510(a), Sept. 29, 1977, 91 Stat. 1022; Pub. L. 95–334, title I, §109(a), Aug. 4, 1978, 92 Stat. 423; Pub. L. 101–624, title XXIII, §2302(a)(2), Nov. 28, 1990, 104 Stat. 3980; Pub. L. 102–554, §§4, 5(a), Oct. 28, 1992, 106 Stat. 4143; Pub. L. 104–127, title VI, §§606, 661(b), title VII, §§744, 749(b)(1), Apr. 4, 1996, 110 Stat. 1086, 1106, 1125, 1129; Pub. L. 107–171, title V, §§5003, 5004, May 13, 2002, 116 Stat. 342.)
 
 #### References in Text
 
 Section 11(a) of the Bankhead-Jones Farm Tenant Act, as amended, referred to in subsec. (a), refers to section 11(a) of act July 22, 1937, ch. 517, title I, as added Aug. 14, 1946, ch. 964, §5, 60 Stat. 1072, which was classified to section 1005a of this title and was repealed by section 341(a) of Pub. L. 87–128.
 
-For definition of “this chapter”, referred to in subsecs. (f)(5) and (h)(1), (2), (4), (5), see note set out under section 1921 of this title.
+For definition of “this chapter”, referred to in subsecs. (f)(5), (h)(1), (2), (4), (5), and (j), see note set out under section 1921 of this title.
 
 Section 1988(c) of this title (before the amendment made by section 749(a)(1) of the Federal Agriculture Improvement and Reform Act of 1996), referred to in subsec. (g)(1), means subsec. (c) of section 1988 of this title prior to repeal by section 749(a)(1) of Pub. L. 104–127.
 
@@ -103,6 +111,12 @@ Section 1988(c) of this title (before the amendment made by section 749(a)(1) of
 In subsec. (c), “chapter 31 of title 31” and “such chapter” substituted for “the Second Liberty Bond Act, as amended” and “such Act, as amended,” respectively, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2002—Subsec. (h)(4). Pub. L. 107–171, §5003(1), substituted “paragraphs (5), (6), and (7)” for “paragraphs (5) and (6)”.
+
+Subsec. (h)(7). Pub. L. 107–171, §5003(2), added par. (7).
+
+Subsec. (j). Pub. L. 107–171, §5004, added subsec. (j).
 
 1996—Subsec. (f). Pub. L. 104–127, §744, redesignated pars. (2) to (6) as (1) to (5), respectively, and struck out former par. (1) which read as follows: “to make loans which could be insured under this subchapter whenever the Secretary has reasonable assurance that they can be sold without undue delay, and may sell and insure such loans;”.
 

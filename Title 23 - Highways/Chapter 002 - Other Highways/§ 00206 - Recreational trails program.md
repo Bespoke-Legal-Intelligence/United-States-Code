@@ -24,7 +24,7 @@ Recreational trail.—The term “recreational trail” means a thoroughfare or 
 
 &emsp;&emsp;(F) aquatic or water activities; and
 
-&emsp;&emsp;(G) motorized vehicular activities, including all-terrain vehicle riding, motorcycling, snowmobiling, use of off-road light trucks, or use of other off-road motorized vehicles.
+&emsp;&emsp;(G) motorized vehicular activities, including all-terrain vehicle riding, motorcycling,snowmobiling, use of off-road light trucks, or use of other off-road motorized vehicles.
 
 (b)
 
@@ -116,7 +116,7 @@ Compliance.—A State that makes grants under subparagraph (A) shall establish m
 
 (e)
 
-Environmental Benefit or Mitigation.—To the extent practicable and consistent with the other requirements of this section, a State should give consideration to project proposals that provide for the redesign, reconstruction, nonroutine maintenance, or relocation of recreational trails to benefit the natural environment or to mitigate and minimize the impact to the natural environment.
+Environmental Benefit or Mitigation.—To the extent practicable and consistent with the other requirements of this section, a Stateshould give consideration to project proposals that provide for the redesign, reconstruction, nonroutine maintenance, or relocation of recreational trails to benefit the natural environment or to mitigate and minimize the impact to the natural environment.
 
 (f)
 

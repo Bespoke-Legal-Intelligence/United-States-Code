@@ -18,7 +18,7 @@
 
 #### (b) Surcharge or fee covering unsatisfied part of judgment; preconditions for imposition
 
-Whenever the Secretary finds that a member of a foreign mission, a member of the family of such member, or an individual described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946—
+Whenever the Secretary finds that a member of a foreign mission, a member of the family ofsuch member, or an individual described in section 19 of the Convention on Privileges and Immunities of the United Nations of February 13, 1946—
 
 &emsp;(1) is at fault for personal injury, death, or property damage arising out of the operation of a motor vehicle, vessel, or aircraft in the United States,
 

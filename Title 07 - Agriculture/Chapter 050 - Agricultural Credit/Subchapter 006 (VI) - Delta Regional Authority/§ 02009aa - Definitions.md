@@ -28,7 +28,7 @@ In this subchapter:
 
 #### References in Text
 
-The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Congress, as introduced on Sept. 27, 1988, and incorporated by reference by, and made a part of, Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended. Section 4 of the Delta Development Act, which was set out in a note under section 3121 of Title 42, The Public Health and Welfare, was omitted fromthe Code. See Lower Mississippi Delta Development Commission note under section 3121 of Title 42 and Tables.
+The Delta Development Act, referred to in par. (2), is S. 2836 of the 100th Congress, as introduced on Sept. 27, 1988, and incorporated by reference by, and made a part of, Pub. L. 100–460, title II, Oct. 1, 1988, 102 Stat. 2246, as amended. Section 4 of the Delta Development Act, which was set out in a note under section 3121 of Title 42, The Public Health and Welfare, was omitted from the Code. See Lower Mississippi Delta Development Commission note under section 3121 of Title 42 and Tables.
 
 #### Amendments
 
@@ -77,4 +77,8 @@ Purposes.—The purposes of this title are—
 &emsp;“(6) to encourage the participation of interested citizens, public officials, agencies, and others in developing and implementing local and regional plans for broad-based economic and community development; and
 
 &emsp;“(7) to focus special attention on areas of the region that suffer from the greatest economic distress.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2008r of this title.
 

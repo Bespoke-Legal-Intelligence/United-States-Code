@@ -8,7 +8,7 @@
 
 #### (2) Application of 100 percent FMAP
 
-&emsp;The third sentence of section 1905(b) of the Social Security Act (42 U.S.C. 1396d(b)) shall apply for purposes of reimbursement under the medicaid program for health care services directly billed under the program established under this section.
+&emsp;The third sentence of section 1905(b) of the Social Security Act (42 U.S.C. 1396d(b)) shall apply for purposes of reimbursement under themedicaid program for health care services directly billed under the program established under this section.
 
 #### (b) Direct reimbursement
 

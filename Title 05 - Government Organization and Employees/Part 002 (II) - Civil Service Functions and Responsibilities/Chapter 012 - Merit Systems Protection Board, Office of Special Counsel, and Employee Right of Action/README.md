@@ -49,7 +49,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2302, 3352 of this title; title 3 section 401; title 22 section 4139.
+This chapter is referred to in sections 2302, 3352 of this title; title 3 section 401; title 6 section 344; title 22 section 4139; title 49 section 40122.
 
 
 ---

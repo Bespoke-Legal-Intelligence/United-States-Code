@@ -1,5 +1,5 @@
 
-46 U.S.C.<br>United States Code, 2001 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
+46 U.S.C.<br>United States Code, 2002 Edition<br>Title 46 - SHIPPING<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 46—SHIPPING
 
@@ -10,11 +10,16 @@
 | <b>I.</b> | <b>GENERAL</b> | <b>101</b> |
 | <b>II.</b> | <b>VESSELS AND SEAMEN</b> | <b>2101</b> |
 | <b>III.</b> | <b>MARITIME LIABILITY</b> | <b>30101</b> |
+| <b>\[IV.</b> | <b>RESERVED\]</b> |  |
+| <b>\[V.</b> | <b>RESERVED\]</b> |  |
+| <b>VI.</b> | <b>MISCELLANEOUS</b> | <b>70101</b> |
 | <b> </b> | <b>\[BALANCE OF TITLE RESERVED\]</b> |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–295, title I, §102(b), Nov. 25, 2002, 116 Stat. 2084, added item VI.
 
 1988—Pub. L. 100–710, title I, §102(b), Nov. 23, 1988, 102 Stat. 4738, amended title analysis generally, substituting “GENERAL” for “\[Reserved—general\]” in item I and adding item III.
 
@@ -3106,3 +3111,6 @@ This title is referred to in section 1273a of Appendix to this title; title 7 se
 - [Subtitle 001 (I) - General](Subtitle%20001%20%28I%29%20-%20General/README.md)
 - [Subtitle 002 (II) - Vessels and Seamen](Subtitle%20002%20%28II%29%20-%20Vessels%20and%20Seamen/README.md)
 - [Subtitle 003 (III) - Maritime Liability](Subtitle%20003%20%28III%29%20-%20Maritime%20Liability/README.md)
+- [Subtitle 004 (IV) - Reserved](Subtitle%20004%20%28IV%29%20-%20Reserved/README.md)
+- [Subtitle 005 (V) - Reserved](Subtitle%20005%20%28V%29%20-%20Reserved/README.md)
+- [Subtitle 006 (VI) - Miscellaneous](Subtitle%20006%20%28VI%29%20-%20Miscellaneous/README.md)

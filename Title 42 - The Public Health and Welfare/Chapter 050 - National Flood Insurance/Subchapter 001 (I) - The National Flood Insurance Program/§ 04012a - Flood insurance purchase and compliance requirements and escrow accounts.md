@@ -96,7 +96,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (C) Effect of failure to respond
 
-&emsp;&emsp;If a request under subparagraph (A) is made in connection with the origination of a loan and the Director fails to provide a letter under subparagraph (A) before the later of (i) the expiration of the 45-day period under such subparagraph, or (ii) the closing of the loan, no person shall have an obligation under this title <sup>1</sup> to require the purchase of flood insurance for the building or mobile home securing the loan until such letter is provided.
+&emsp;&emsp;If a request under subparagraph (A) is made in connection with the origination of a loan and the Director fails to provide a letter under subparagraph (A) before the laterof (i) the expiration of the 45-day period under such subparagraph, or (ii) the closing of the loan, no person shall have an obligation under this title <sup>1</sup> to require the purchase of flood insurance for the building or mobile home securing the loan until such letter is provided.
 
 #### (4) Applicability
 
@@ -176,7 +176,7 @@ After the expiration of sixty days following December 31, 1973, no Federal offic
 
 #### (h) Fee for determining location
 
-Notwithstanding any other Federal or State law, any person who makes a loan secured by improved real estate or a mobile home or any servicer for such a loan may charge a reasonable fee for the costs of determining whether the building or mobile home securing the loan is located in an area having special flood hazards, but only in accordance with the following requirements:
+Notwithstanding any other Federal or State law, any person who makes a loan secured byimproved real estate or a mobile home or any servicer for such a loan may charge a reasonable fee for the costs of determining whether the building or mobile home securing the loan is located in an area having special flood hazards, but only in accordance with the following requirements:
 
 #### (1) Borrower fee
 
@@ -198,7 +198,7 @@ Notwithstanding any other Federal or State law, any person who makes a loan secu
 
 The National Flood Insurance Act of 1968, referred to in subsecs. (a), (b), (d)(1), and (e)(1), and the Act, referred to in subsec. (b), is title XIII of Pub. L. 90–448, Aug. 1, 1968, 82 Stat. 572, as amended, which is classified principally to this chapter (§4001 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 4001 of this title and Tables.
 
-The Federal Financial Institutions Examination Council Act of 1974, referred to in subsec. (b)(1), probably means the Federal Financial Institutions Examination Council Act of 1978, Pub. L. 95–630, title X, Nov. 10, 1978, 92 Stat. 3694, as amended, which is classified principally to chapter 34 (§3301 et seq.) of Title 12,Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of Title 12 and Tables.
+The Federal Financial Institutions Examination Council Act of 1974, referred to in subsec. (b)(1), probably means the Federal Financial Institutions Examination Council Act of 1978, Pub. L. 95–630, title X, Nov. 10, 1978, 92 Stat. 3694, as amended, which is classified principally to chapter 34 (§3301 et seq.) of Title 12, Banks and Banking. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of Title 12 and Tables.
 
 Section 522(a) of Public Law 103–325, referred to in subsec. (b)(4)(C), was in original “section 522(a) of such Act”, which generally amended subsec. (b) of this section.
 
@@ -225,6 +225,10 @@ Subsecs. (d) to (h). Pub. L. 103–325, §§523–526, added subsecs. (d) to (h)
 #### Effective Date of 1994 Amendment
 
 Amendment by section 582(c) of Pub. L. 103–325 applicable to disasters declared after Sept. 23, 1994, see section 5154a(e) of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

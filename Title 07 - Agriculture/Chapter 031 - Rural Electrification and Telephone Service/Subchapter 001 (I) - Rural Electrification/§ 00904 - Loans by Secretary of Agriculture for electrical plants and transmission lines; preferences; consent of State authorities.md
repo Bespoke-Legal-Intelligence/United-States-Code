@@ -10,7 +10,7 @@ The Tennessee Valley Authority Act of 1933, as amended, referred to in text, is 
 
 #### Amendments
 
-1996—Pub. L. 104–127, in first sentence, struck out “for the furnishing of electric energy to persons in rural areas who are not receiving central station service and” after “transmission and distribution lines or systems” and substituted “section 903 of this title,” for “the provisions of sections 903(d) and 903(e) of this title but without regard to the 25 per centum limitation therein contained,”, in second sentence, substituted “, except that” for “: <i>Provided, further</i>, That all such loans shall be self-liquidating within a period of not to exceed thirty-five years, and shall bear interest at the rate of 2 per centum per annum; interest rates on the unmatured and unpaid balance of any loans made pursuant to this section prior to September 21, 1944, shall be adjusted to 2 per centum per annum, and the maturity date of any such loans may be readjusted to occur at a date not beyond thirty-five years from the date of such loan: <i>And provided further</i>, That”, and in third sentence, struck out “and section 905 of this title” before “shall not be made”.
+1996—Pub. L. 104–127, in first sentence, struck out “for the furnishing of electric energy to persons in rural areas who are not receiving central station service and” after “transmission and distribution lines or systems” and substituted “section 903 of this title,” for“the provisions of sections 903(d) and 903(e) of this title but without regard to the 25 per centum limitation therein contained,”, in second sentence, substituted “, except that” for “: <i>Provided, further</i>, That all such loans shall be self-liquidating within a period of not to exceed thirty-five years, and shall bear interest at the rate of 2 per centum per annum; interest rates on the unmatured and unpaid balance of any loans made pursuant to this section prior to September 21, 1944, shall be adjusted to 2 per centum per annum, and the maturity date of any such loans may be readjusted to occur at a date not beyond thirty-five years from the date of such loan: <i>And provided further</i>, That”, and in third sentence, struck out “and section 905 of this title” before “shall not be made”.
 
 1994—Pub. L. 103–354 substituted “Secretary” for “Administrator”.
 
@@ -28,5 +28,5 @@ Act Sept. 21, 1944, extended limit of self-liquidating period from 25 to 35 year
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 907, 912, 922, 931, 932, 936b, 948 of this title; title 16 section 2708.
+This section is referred to in sections 907, 912, 922, 931, 932, 936b, 940c–1, 948 of this title; title 16 section 2708.
 

@@ -1,70 +1,48 @@
 ### §3533. Authority and functions of the Director
 
-(a)(1) The Director shall establish governmentwide policies for the management of programs that—
+(a) The Director shall oversee agency information security policies and practices, by—
 
-&emsp;(A) support the cost-effective security of Federal information systems by promoting security as an integral component of each agency's business operations; and
+&emsp;(1) promulgating information security standards under section 11331 of title 40;
 
-&emsp;(B) include information technology architectures as defined under section 5125 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1425).
+&emsp;(2) overseeing the implementation of policies, principles, standards, and guidelines on information security;
 
-(2) Policies under this subsection shall—
+&emsp;(3) requiring agencies, consistent with the standards promulgated under such section 11331 and the requirements of this subchapter, to identify and provide information security protections commensurate with the risk and magnitude of the harm resulting from the unauthorized access, use, disclosure, disruption, modification, or destruction of—
 
-&emsp;(A) be founded on a continuing risk management cycle that recognizes the need to—
+&emsp;&emsp;(A) information collected or maintained by or on behalf of an agency; or
 
-&emsp;&emsp;(i) identify, assess, and understand risk; and
+&emsp;&emsp;(B) information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency;
 
-&emsp;&emsp;(ii) determine security needs commensurate with the level of risk;
+&emsp;(4) coordinating the development of standards and guidelines under section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3) with agencies and offices operating or exercising control of national security systems (including the National Security Agency) to assure, to the maximum extent feasible, that such standards and guidelines are complementary with standards and guidelines developed for national security systems;
 
-&emsp;(B) implement controls that adequately address the risk;
+&emsp;(5) overseeing agency compliance with the requirements of this subchapter, including through any authorized action under section 11303(b)(5) of title 40, to enforce accountability for compliance with such requirements;
 
-&emsp;(C) promote continuing awareness of information security risk; and
+&emsp;(6) reviewing at least annually, and approving or disapproving, agency information security programs required under section 3534(b);
 
-&emsp;(D) continually monitor and evaluate policy and control effectiveness of information security practices.
+&emsp;(7) coordinating information security policies and procedures with related information resources management policies and procedures; and
 
-(b) The authority under subsection (a) includes the authority to—
+&emsp;(8) reporting to Congress no later than March 1 of each year on agency compliance with the requirements of this subchapter, including—
 
-&emsp;(1) oversee and develop policies, principles, standards, and guidelines for the handling of Federal information and information resources to improve the efficiency and effectiveness of governmental operations, including principles, policies, and guidelines for the implementation of agency responsibilities under applicable law for ensuring the privacy, confidentiality, and security of Federal information;
+&emsp;&emsp;(A) a summary of the findings of evaluations required by section 3535;
 
-&emsp;(2) consistent with the standards and guidelines promulgated under section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 1441 note; Public Law 100–235; 101 Stat. 1729), require Federal agencies to identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency;
+&emsp;&emsp;(B) significant deficiencies in agency information security practices;
 
-&emsp;(3) direct the heads of agencies to—
+&emsp;&emsp;(C) planned remedial action to address such deficiencies; and
 
-&emsp;&emsp;(A) identify, use, and share best security practices;
+&emsp;&emsp;(D) a summary of, and the views of the Director on, the report prepared by the National Institute of Standards and Technology under section 20(d)(9) of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3).
 
-&emsp;&emsp;(B) develop an agencywide information security plan;
+(b) Except for the authorities described in paragraphs (4) and (7) of subsection (a), the authorities of the Director under this section shall not apply to national security systems.
 
-&emsp;&emsp;(C) incorporate information security principles and practices throughout the life cycles of the agency's information systems; and
+(Added Pub. L. 107–296, title X, §1001(b)(1), Nov. 25, 2002, 116 Stat. 2261.)
 
-&emsp;&emsp;(D) ensure that the agency's information security plan is practiced throughout all life cycles of the agency's information systems;
+#### Applicability of Section
 
-&emsp;(4) oversee the development and implementation of standards and guidelines relating to security controls for Federal computer systems by the Secretary of Commerce through the National Institute of Standards and Technology under section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and section 20 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3);
+<i>This section not to apply while subchapter III of this chapter is in effect, see section 3549 of this title.</i>
 
-&emsp;(5) oversee and coordinate compliance with this section in a manner consistent with—
+#### Prior Provisions
 
-&emsp;&emsp;(A) sections 552 and 552a of title 5;
+A prior section 3533, added Pub. L. 106–398, §1 \[\[div. A\], title X, §1061\], Oct. 30, 2000, 114 Stat. 1654, 1654A–266, set forth authority and functions of the Director prior to the general amendment of this subchapter by Pub. L. 107–296.
 
-&emsp;&emsp;(B) sections 20 and 21 of the National Institute of Standards and Technology Act (15 U.S.C. 278g–3 and 278g–4);
+#### Section Referred to in Other Sections
 
-&emsp;&emsp;(C) section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441);
-
-&emsp;&emsp;(D) sections 5 and 6 of the Computer Security Act of 1987 (40 U.S.C. 1441 note; Public Law 100–235; 101 Stat. 1729); and
-
-&emsp;&emsp;(E) related information management laws; and
-
-&emsp;(6) take any authorized action under section 5113(b)(5) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1413(b)(5)) that the Director considers appropriate, including any action involving the budgetary process or appropriations management process, to enforce accountability of the head of an agency for information resources management, including the requirements of this subchapter, and for the investments made by the agency in information technology, including—
-
-&emsp;&emsp;(A) recommending a reduction or an increase in any amount for information resources that the head of the agency proposes for the budget submitted to Congress under section 1105(a) of title 31;
-
-&emsp;&emsp;(B) reducing or otherwise adjusting apportionments and reapportionments of appropriations for information resources; and
-
-&emsp;&emsp;(C) using other authorized administrative controls over appropriations to restrict the availability of funds for information resources.
-
-(c) The authorities of the Director under this section (other than the authority described in subsection (b)(6))—
-
-&emsp;(1) shall be delegated to the Secretary of Defense, the Director of Central Intelligence, and another agency head as designated by the President in the case of systems described under subparagraphs (A) and (B) of section 3532(b)(2);
-
-&emsp;(2) shall be delegated to the Secretary of Defense in the case of systems described under subparagraph (C) of section 3532(b)(2) that are operated by the Department of Defense, a contractor of the Department of Defense, or another entity on behalf of the Department of Defense; and
-
-&emsp;(3) in the case of all other Federal information systems, may be delegated only to the Deputy Director for Management of the Office of Management and Budget.
-
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1061\], Oct. 30, 2000, 114 Stat. 1654, 1654A–266.)
+This section is referred to in sections 3534, 3535 of this title.
 

@@ -56,7 +56,7 @@ Section 28 of Pub. L. 95–384 provided that:
 
 &emsp;“(2) support for a strong and secure Israel and the maintenance for this purpose of Israel's effective defense capabilities as essential to peace remains a fundamental tenet of United States foreign policy;
 
-&emsp;“(3) direct, face-to-face negotiations between Israel and Egypt without preconditions is an historic opening for peace, and the support of such negotiations by other moderate Arab countries, can best promote a peace settlement based on mutual concessions and accommodations;
+&emsp;“(3) direct, face-to-face negotiations between Israel and Egypt without preconditions is an historic opening for peace, and the support of such negotiations byother moderate Arab countries, can best promote a peace settlement based on mutual concessions and accommodations;
 
 &emsp;“(4) the establishment of secure, recognized, and defensible borders between Israel and its neighbors will discourage hostilities; and
 

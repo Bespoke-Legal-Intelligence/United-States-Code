@@ -4,7 +4,7 @@
 
 (2) The annuity of the employee or Member making the election is reduced by 10 percent, and by 5 percent for each full 5 years the individual named is younger than the retiring employee or Member, except that the total reduction may not exceed 40 percent.
 
-(3) An annuity which is reduced under this subsection shall, effective the first day of themonth following the death of the individual named under this subsection, be recomputed and paid as if the annuity had not been so reduced.
+(3) An annuity which is reduced under this subsection shall, effective the first day of the month following the death of the individual named under this subsection, be recomputed and paid as if the annuity had not been so reduced.
 
 (b)(1) In the case of a married employee or Member, an election under this section on behalf of the spouse may be made only if any right of such spouse to a survivor annuity based on the service of such employee or Member is waived in accordance with section 8416(a).
 

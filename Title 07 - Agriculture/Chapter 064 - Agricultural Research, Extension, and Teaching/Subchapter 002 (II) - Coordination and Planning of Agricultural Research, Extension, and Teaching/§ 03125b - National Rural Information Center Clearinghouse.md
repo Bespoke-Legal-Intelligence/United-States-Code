@@ -18,15 +18,17 @@ The Secretary shall request State and local governments and private nonprofit or
 
 #### (e) Limitation on authorization of appropriations
 
-To carry out this section, there are authorized to be appropriated $500,000 for each of the fiscal years 1991 through 2002.
+To carry out this section, there are authorized to be appropriated $500,000 for each of the fiscal years 1991 through 2007.
 
-(Pub. L. 101–624, title XXIII, §2381, Nov. 28, 1990, 104 Stat. 4049; Pub. L. 104–127, title VIII, §842, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 105–185, title III, §301(b)(3), June 23, 1998, 112 Stat. 563.)
+(Pub. L. 101–624, title XXIII, §2381, Nov. 28, 1990, 104 Stat. 4049; Pub. L. 104–127, title VIII, §842, Apr. 4, 1996, 110 Stat. 1170; Pub. L. 105–185, title III, §301(b)(3), June 23, 1998, 112 Stat. 563; Pub. L. 107–171, title VII, §7101, May 13, 2002, 116 Stat. 431.)
 
 #### Codification
 
 Section was enacted as part of the Rural Economic Development Act of 1990, and also as part of the Food, Agriculture, Conservation, and Trade Act of 1990, and not as part of the National Agricultural Research, Extension, and Teaching Policy Act of 1977 which comprises this chapter.
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1998—Subsec. (e). Pub. L. 105–185 substituted “2002” for “1997”.
 

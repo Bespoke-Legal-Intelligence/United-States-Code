@@ -22,7 +22,7 @@ When used in this chapter—
 
 &emsp;(ii) any person who does not sell, or negotiate the purchase or sale of any wild animal, dog, or cat, and who derives no more than $500 gross income from the sale of other animals during any calendar year;
 
-(g) The term “animal” means any live or dead dog, cat, monkey (nonhuman primate mammal), guinea pig, hamster, rabbit, or such other warmblooded animal, as the Secretary may determine is being used, or is intended for use, for research, testing, experimentation, or exhibition purposes, or as a pet; but such term excludes horses not used for research purposes and otherfarm animals, such as, but not limited to livestock or poultry, used or intended for use as food or fiber, or livestock or poultry used or intended for use for improving animal nutrition, breeding, management, or production efficiency, or for improving the quality of food or fiber. With respect to a dog, the term means all dogs including those used for hunting, security, or breeding purposes;
+(g) The term “animal” means any live or dead dog, cat, monkey (nonhuman primate mammal), guinea pig, hamster, rabbit, or such other warmblooded animal, as the Secretary may determine is being used, or is intended for use, for research, testing, experimentation, or exhibition purposes, or as a pet; but such term excludes (1) birds, rats of the genus Rattus, and mice of the genus Mus, bred for use in research, (2) horses not used for research purposes, and (3) other farm animals, such as, but not limited to livestock or poultry, used or intended for use as food or fiber, or livestock or poultry used or intended for use for improving animal nutrition, breeding, management, or production efficiency, or for improving the quality of food or fiber. With respect to a dog, the term means all dogs including those used for hunting, security, or breeding purposes;
 
 (h) The term “exhibitor” means any person (public or private) exhibiting any animals, which were purchased in commerce or the intended distribution of which affects commerce, or will affect commerce, to the public for compensation, as determined by the Secretary, and such term includes carnivals, circuses, and zoos exhibiting such animals whether operated for profit or not; but such term excludes retail pet stores, organizations sponsoring and all persons participating in State and country fairs, livestock shows, rodeos, purebred dog and cat shows, and any other fairs or exhibitions intended to advance agricultural arts and sciences, as may be determined by the Secretary;
 
@@ -40,13 +40,15 @@ When used in this chapter—
 
 (<i>o</i>) The term “Federal research facility” means each department, agency, or instrumentality of the United States which uses live animals for research or experimentation.
 
-(Pub. L. 89–544, §2, Aug. 24, 1966, 80 Stat. 350; Pub. L. 91–579, §3, Dec. 24, 1970, 84 Stat. 1560; Pub. L. 94–279, §§3, 4, Apr. 22, 1976, 90 Stat. 417, 418; Pub. L. 99–198, title XVII, §1756(a), Dec. 23, 1985, 99 Stat. 1650.)
+(Pub. L. 89–544, §2, Aug. 24, 1966, 80 Stat. 350; Pub. L. 91–579, §3, Dec. 24, 1970, 84 Stat. 1560; Pub. L. 94–279, §§3, 4, Apr. 22, 1976, 90 Stat. 417, 418; Pub. L. 99–198, title XVII, §1756(a), Dec. 23, 1985, 99 Stat. 1650; Pub. L. 107–171, title X, §10301, May 13, 2002, 116 Stat. 491.)
 
 #### Amendments
 
+2002—Subsec. (g). Pub. L. 107–171 substituted “excludes (1) birds, rats of the genus Rattus, and mice of the genus Mus, bred for use in research, (2) horses not used for research purposes, and (3)” for “excludes horses not used for research purposes and”.
+
 1985—Subsecs. (k) to (<i>o</i>). Pub. L. 99–198 added subsecs. (k) to (<i>o</i>).
 
-1976—Subsec. (c). Pub. L. 94–279, §3(1), made changes in phraseology, restructured subsection and expanded definition of “commerce” by making it applicable to any activity affecting interstate commerce.
+1976—Subsec. (c). Pub. L. 94–279, §3(1), made changes in phraseology, restructured subsection and expandeddefinition of “commerce” by making it applicable to any activity affecting interstate commerce.
 
 Subsec. (d). Pub. L. 94–279, §3(1), substituted definition of “State” for definition of “affecting commerce”.
 
@@ -79,6 +81,68 @@ Amendment by Pub. L. 99–198 effective one year after Dec. 23, 1985, see sectio
 #### Effective Date of 1970 Amendment
 
 Amendment by Pub. L. 91–579 effective one year after Dec. 24, 1970, see section 23 of Pub. L. 91–579, set out as a note under section 2131 of this title.
+
+#### Report on Rats, Mice, and Birds
+
+Pub. L. 107–171, title X, §10304, May 13, 2002, 116 Stat. 492, provided that:
+
+“(a)
+
+In General.—Not later than 1 year after the date of enactment of this Act \[May 13, 2002\], the National Research Council shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report on the implications of including rats, mice, and birds within the definition of animal under the regulations promulgated under the Animal Welfare Act (7 U.S.C. 2131 et seq.).
+
+“(b)
+
+Requirements.—The report under subsection (a) shall—
+
+&emsp;“(1) be completed with input, consultation, and recommendations from—
+
+&emsp;&emsp;“(A) the Secretary of Agriculture;
+
+&emsp;&emsp;“(B) the Secretary of Health and Human Services; and
+
+&emsp;&emsp;“(C) the Institute for Animal Laboratory Research within the National Academy of Sciences;
+
+&emsp;“(2) contain an estimate of—
+
+&emsp;&emsp;“(A) the number and types of entities that use rats, mice, and birds for research purposes; and
+
+&emsp;&emsp;“(B) which of the entities—
+
+&emsp;&emsp;&emsp;“(i) are subject to regulations of the Department of Agriculture;
+
+&emsp;&emsp;&emsp;“(ii) are subject to regulations or guidelines of the Department of Health and Human Services; or
+
+&emsp;&emsp;&emsp;“(iii) voluntarily comply with the accreditation requirements of the Association for Assessment and Accreditation of Laboratory Animal Care;
+
+&emsp;“(3) contain an estimate of the numbers of rats, mice, and birds used in research facilities, with an indication of which of the facilities—
+
+&emsp;&emsp;“(A) are subject to regulations of the Department of Agriculture;
+
+&emsp;&emsp;“(B) are subject to regulations or guidelines of the Department of Health and Human Services; or
+
+&emsp;&emsp;“(C) voluntarily comply with the accreditation requirements of the Association for Assessment and Accreditation of Laboratory Animal Care;
+
+&emsp;“(4) contain an estimate of the additional costs likely to be incurred by breeders and research facilities resulting from the additional regulatory requirements needed in order to afford the same level of protection to rats, mice, and birds as is provided for species regulated by the Department of Agriculture, detailing the costs associated with individual regulatory requirements;
+
+&emsp;“(5) contain recommendations for minimizing such costs, including—
+
+&emsp;&emsp;“(A) an estimate of the cost savings that would result from providing a different level of protection to rats, mice, and birds than is provided for species regulated by the Department of Agriculture; and
+
+&emsp;&emsp;“(B) an estimate of the cost savings that would result if new regulatory requirements were substantially equivalent to, and harmonized with, guidelines of the National Institutes of Health;
+
+&emsp;“(6) contain an estimate of the additional funding that the Animal and Plant Health Inspection Service would require to be able to ensure that the level of compliance with respect to other regulated animals is not diminished by the increase in the number of facilities that would require inspections if a rule extending the regulatory definition of animal to rats, mice, and birds were to become effective; and
+
+&emsp;“(7) contain recommendations for—
+
+&emsp;&emsp;“(A) minimizing the regulatory burden on facilities subject to—
+
+&emsp;&emsp;&emsp;“(i) regulations of the Department of Agriculture;
+
+&emsp;&emsp;&emsp;“(ii) regulations or guidelines of the Department of Health and Human Services; or
+
+&emsp;&emsp;&emsp;“(iii) accreditation requirements of the Association for Assessment and Accreditation of Laboratory Animal Care; and
+
+&emsp;&emsp;“(B) preventing any duplication of regulatory requirements.”
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

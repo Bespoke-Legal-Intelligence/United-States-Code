@@ -4,7 +4,7 @@
 
 For purposes of this section—
 
-&emsp;(1) the term “eligible country” means a country designated by the President in accordance with section <sup>1</sup> (b) of this section;
+&emsp;(1) the term “eligible country” means a country designated by the President in accordance with subsection (b) of this section;
 
 &emsp;(2) the term “Facility” means the entity established in the Department of the Treasury by section 1738 of title 7; and
 
@@ -76,11 +76,11 @@ Before the sale to any eligible purchaser, or any reduction or cancellation purs
 
 For the sale, reduction, and cancellation of loans or portions thereof pursuant to this section, there are authorized to be appropriated to the President such sums as may be necessary, which are authorized to remain available until expended.
 
-(July 31, 1945, ch. 341, §12, formerly §18, as added and renumbered §12, Pub. L. 102–429, title I, §§108, 121(c)(6), Oct. 21, 1992, 106 Stat. 2191, 2199.)
+(July 31, 1945, ch. 341, §12, formerly §18, as added and renumbered §12, Pub. L. 102–429, title I, §§108, 121(c)(6), Oct. 21, 1992, 106 Stat. 2191, 2199; Pub. L. 107–189, §24(b)(5), June 14, 2002, 116 Stat. 709.)
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (c)(3), is title I of act May 27, 1933, ch. 38, 48 Stat. 74,as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 The Federal Credit Reform Act of 1990, referred to in subsec. (c)(5), is title V of Pub. L. 93–344, as added Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 621 of Title 2 and Tables.
 
@@ -88,5 +88,7 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (c)(5), is title V
 
 A prior section 12 of act July 31, 1945, ch. 341, was classified to section 635i of this title, prior to repeal by Pub. L. 102–429, §121(c)(1).
 
-<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
+#### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–189 substituted “subsection (b) of this section” for “section (b) of this section”.
 

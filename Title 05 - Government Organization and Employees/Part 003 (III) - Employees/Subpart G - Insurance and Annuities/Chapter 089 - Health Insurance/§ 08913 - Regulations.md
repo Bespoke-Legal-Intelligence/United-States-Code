@@ -6,7 +6,7 @@
 
 &emsp;(1) an employee or group of employees solely on the basis of the hazardous nature of employment;
 
-&emsp;(2) a teacher in the employ of the Board of Education of the District of Columbia, whosepay is fixed by section 1501 of title 31, District of Columbia Code, on the basis of the fact that the teacher is serving under a temporary appointment if the teacher has been so employed by the Board for a period or periods totaling not less than two school years;
+&emsp;(2) a teacher in the employ of the Board of Education of the District of Columbia, whose pay is fixed by section 1501 of title 31, District of Columbia Code, on the basis of the fact that the teacher is serving under a temporary appointment if the teacher has been so employed by the Board for a period or periods totaling not less than two school years;
 
 &emsp;(3) an employee who is occupying a position on a part-time career employment basis (as defined in section 3401(2) of this title); or
 

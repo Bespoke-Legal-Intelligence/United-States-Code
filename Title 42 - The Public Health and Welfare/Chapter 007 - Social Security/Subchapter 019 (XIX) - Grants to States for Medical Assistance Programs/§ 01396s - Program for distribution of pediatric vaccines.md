@@ -14,7 +14,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary shall provide under subsection (d) of this section for the purchase and delivery on behalf of each State meeting the requirement of section 1396a(a)(62) of this title (or, with respect to vaccines administered by an Indian tribe or tribal organization to Indian children, directly to the tribe or organization), without charge to the State, of such quantities of qualified pediatric vaccines as may be necessary for the administration of such vaccines to all federally vaccine-eligible children in the State onor after October 1, 1994. This paragraph constitutes budget authority in advance of appropriations Acts, and represents the obligation of the Federal Government to provide for the purchase and delivery to States of the vaccines (or payment under subparagraph (C)) in accordance with this paragraph.
+&emsp;&emsp;The Secretary shall provide under subsection (d) of this section for the purchase and delivery on behalf of each State meeting the requirement of section 1396a(a)(62) of this title (or, with respect to vaccines administered by an Indian tribe or tribal organization to Indian children, directly to the tribe or organization), without charge to the State, of such quantities of qualified pediatric vaccines as may be necessary for the administration of such vaccines to all federally vaccine-eligible children in the State on or after October 1, 1994. This paragraph constitutes budget authority in advance of appropriations Acts, and represents the obligation of the Federal Government to provide for the purchase and delivery to States of the vaccines (or payment under subparagraph (C)) in accordance with this paragraph.
 
 #### (B) Special rules where vaccine is unavailable
 
@@ -142,7 +142,7 @@ For purposes of this section:
 
 &emsp;&emsp;(A) the Secretary shall provide, consistent with paragraph (6), for the purchase and delivery on behalf of States (and tribes and tribal organizations) of quantities of pediatric vaccines for federally vaccine-eligible children; and
 
-&emsp;&emsp;(B) each State, at the option of the State, shall be permitted to obtain additional quantities of pediatric vaccines (subject to amounts specified to the Secretary by the State in advance of negotiations) through purchasing the vaccines from the manufacturers at the applicable price negotiated by the Secretary consistent with paragraph (3), if (i) the State agrees that the vaccines will be used to provide immunizations only for children who are not federally vaccine-eligible children and (ii) the State provides to the Secretary such information (at a time and manner specified by the Secretary, including in advance of negotiations under paragraph (1)) as the Secretary determines to be necessary, to provide for quantities of pediatric vaccines for the State to purchase pursuant to this subsection and to determine annually the percentage of the vaccine market that is purchased pursuant to this section and this subparagraph.
+&emsp;&emsp;(B) each State, at the option of the State, shall be permitted to obtain additional quantities of pediatric vaccines (subject toamounts specified to the Secretary by the State in advance of negotiations) through purchasing the vaccines from the manufacturers at the applicable price negotiated by the Secretary consistent with paragraph (3), if (i) the State agrees that the vaccines will be used to provide immunizations only for children who are not federally vaccine-eligible children and (ii) the State provides to the Secretary such information (at a time and manner specified by the Secretary, including in advance of negotiations under paragraph (1)) as the Secretary determines to be necessary, to provide for quantities of pediatric vaccines for the State to purchase pursuant to this subsection and to determine annually the percentage of the vaccine market that is purchased pursuant to this section and this subparagraph.
 
 > &emsp;The Secretary shall enter into the initial negotiations under the preceding sentence not later than 180 days after August 10, 1993.
 
@@ -188,7 +188,7 @@ For purposes of this section:
 
 &emsp;(7) The term “program-registered provider” has the meaning given such term in subsection (c) of this section.
 
-&emsp;(8) The term “qualified pediatric vaccine” means a pediatric vaccine with respect towhich a contract is in effect under subsection (d) of this section.
+&emsp;(8) The term “qualified pediatric vaccine” means a pediatric vaccine with respect to which a contract is in effect under subsection (d) of this section.
 
 &emsp;(9) The terms “vaccine-eligible child”, “federally vaccine-eligible child”, and “State vaccine-eligible child” have the meaning given such terms in subsection (b) of this section.
 
@@ -212,7 +212,7 @@ Section applicable to payments under State plans approved under this subchapter 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300gg, 1396a, 1396b, 1396d of this title; title 26 section 9801; title 29 sections 1169, 1181.
+This section is referred to in sections 300gg, 1396a, 1396b, 1396d of this title; title 26 sections 35, 9801; title 29 sections 1169, 1181, 2918.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

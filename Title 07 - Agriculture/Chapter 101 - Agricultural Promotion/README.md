@@ -9,6 +9,7 @@
 | (b) | Findings. |
 | (c) | Independent evaluation of promotion program effectiveness. |
 | (d) | Administrative costs. |
+| (e) | Exemption of certified organic products from assessments. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

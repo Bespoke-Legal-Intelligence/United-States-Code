@@ -8,7 +8,7 @@ General Authority.—Except as provided in section 47111 of this title, the Unit
 
 Allowable Cost Standards.—A project cost is allowable—
 
-&emsp;(1) if the cost necessarily is incurred in carrying out the project in compliance with thegrant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this title;
+&emsp;(1) if the cost necessarily is incurred in carrying out the project in compliance with the grant agreement made for the project under this subchapter, including any cost a sponsor incurs related to an audit the Secretary requires under section 47121(b) or (d) of this title;
 
 &emsp;(2)(A) if the cost is incurred after the grant agreement is executed and is for airport development or airport planning carried out after the grant agreement is executed;
 
@@ -34,7 +34,7 @@ Allowable Cost Standards.—A project cost is allowable—
 
 Certain Prior Costs as Allowable Costs.—The Secretary may decide that a project cost under subsection (b)(2)(A) of this section incurred after May 13, 1946, and before the date the grant agreement is executed is allowable if it is—
 
-&emsp;(1) necessarily incurred in formulating an airport development project, including costs incurred for field surveys, plans and specifications, property interests in land or airspace, and administration or other incidental items that would not have been incurred except for the project; or
+&emsp;(1) necessarily incurred in formulating an airport development project, including costsincurred for field surveys, plans and specifications, property interests in land or airspace, and administration or other incidental items that would not have been incurred except for the project; or
 
 &emsp;(2) necessarily and directly incurred in developing the work scope of an airport planning project.
 
@@ -162,7 +162,7 @@ In subsection (d)(1), before clause (A), the words “The Secretary may decide t
 
 In subsection (d)(2), the words “In making a decision under paragraph (1) of this subsection, the Secretary may approve as allowable costs” are substituted for “In the case of a commercial service airport . . . the Secretary may approve, under the preceding sentence as allowable project costs” for consistency in this subsection.
 
-In subsection (e)(1), the word “sponsor” is substituted for “applicant” for consistency. The words “stipulatedas” and “Subject to the provisions of this paragraph” are omitted as surplus. The word “reimburse” is substituted for “make payments under paragraph (2) of this subsection” and “pay” for clarity. The words “payable on account of such project in accordance with such letter of intent” are omitted as surplus.
+In subsection (e)(1), the word “sponsor” is substituted for “applicant” for consistency. The words “stipulated as” and “Subject to the provisions of this paragraph” are omitted as surplus. The word “reimburse” is substituted for “make payments under paragraph (2) of this subsection” and “pay” for clarity. The words “payable on account of such project in accordance with such letter of intent” are omitted as surplus.
 
 In subsection (e)(2), before clause (A), the text of 49 App.:2212(d)(1)(C) (last sentence) is omitted as obsolete.
 

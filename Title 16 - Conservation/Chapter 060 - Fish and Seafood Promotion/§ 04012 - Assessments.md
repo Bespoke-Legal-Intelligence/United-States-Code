@@ -12,7 +12,7 @@ A council shall impose and administer the collection of the assessments that are
 
 &emsp;(A) except for an owner of a fish processing vessel, in the form of a percentage of the value of the fish described in accordance with section 4009(b)(3) of this title when purchased by such participants from fish harvesters; and
 
-&emsp;(B) for an owner of a fish processing vessel, in the form of a percentage of the value of the fish described in accordance with section 4009(b)(3) of this title and harvested by such avessel that is no less than the value of such fish, if such fish had been purchased by a receiver other than an owner of such a vessel.
+&emsp;(B) for an owner of a fish processing vessel, in the form of a percentage of the value of the fish described in accordance with section 4009(b)(3) of this title and harvested by such a vessel that is no less than the value of such fish, if such fish had been purchased by a receiver other than an owner of such a vessel.
 
 (3) An assessment on sector participants in the importing sector shall be in the form of a percentage of the value, as determined for the purposes of the customs laws, of the fish or fish products described in accordance with section 4009(b)(3) of this title when entered, or withdrawn from warehouse for consumption, in the customs territory of the United States by such sector participants.
 
@@ -30,7 +30,7 @@ All funds collected or received by a council under this section shall be deposit
 
 #### (f) Information
 
-(1) Sector participants shall make available to the Secretary such information and data as is necessary for the effectuation, administration or enforcement of this chapter or any order or regulation issued pursuant to this chapter. Except as provided in paragraphs (2) and (3) of this subsection, any information obtained in carrying out this subsection shall be kept confidential by all officers and employees of the Department of Commerce, independent accountants and other persons who have access to such information.
+(1) Sector participants shall make available to the Secretary such information and data as isnecessary for the effectuation, administration or enforcement of this chapter or any order or regulation issued pursuant to this chapter. Except as provided in paragraphs (2) and (3) of this subsection, any information obtained in carrying out this subsection shall be kept confidential by all officers and employees of the Department of Commerce, independent accountants and other persons who have access to such information.
 
 (2) If the Secretary or an employee of the United States Government is a party to a suit or administrative action involving an assessment, order, or regulation issued under this chapter, the Secretary may disclose information obtained under paragraph (1) of this subsection to the extent allowed by the judicial or administrative officer presiding over such suit or action.
 

@@ -28,7 +28,7 @@ The Commission shall also have the power—
 
 > &emsp;for the purpose of enforcing the laws subject to its jurisdiction;
 
-&emsp;(8) to lease buildings or parts of buildings in the District of Columbia, without regard to the Act of March 3, 1877 (40 U.S.C. 34), for the use of the Commission; and
+&emsp;(8) to lease buildings or parts of buildings in the District of Columbia, without regard to section 8141 of title 40, for the use of the Commission; and
 
 &emsp;(9) to delegate any of its functions or powers, other than the power to issue subpenas under paragraph (3), to any officer or employee of the Commission.
 
@@ -66,7 +66,7 @@ The Commission may plan, construct, and operate a facility or facilities suitabl
 
 #### (j) Report to President and Congress
 
-The Commission shall prepare and submit to the President and the Congress at the beginningof each regular session of Congress a comprehensive report on the administration of this chapter for the preceding fiscal year. Such report shall include—
+The Commission shall prepare and submit to the President and the Congress at the beginning of each regular session of Congress a comprehensive report on the administration of this chapter for the preceding fiscal year. Such report shall include—
 
 &emsp;(1) a thorough appraisal, including statistical analyses, estimates, and long-term projections, of the incidence of injury and effects to the population resulting from consumer products, with a breakdown, insofar as practicable, among the various sources of such injury;
 
@@ -113,6 +113,8 @@ The Commission shall prepare and submit to the President and the Congress at the
 #### Codification
 
 In subsec. (b)(6), “section 1342 of title 31” substituted for “section 3679 of the Revised Statutes (31 U.S.C. 665(b))” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+“Section 8141 of title 40” substituted in subsec. (b)(8) for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

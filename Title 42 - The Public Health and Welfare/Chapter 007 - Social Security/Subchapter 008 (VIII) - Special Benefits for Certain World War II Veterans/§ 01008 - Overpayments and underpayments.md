@@ -6,7 +6,7 @@ Whenever the Commissioner of Social Security finds that more or less than the co
 
 &emsp;(1) With respect to payment to a person of more than the correct amount, the Commissioner of Social Security shall decrease any payment—
 
-&emsp;&emsp;(A) under this subchapter to which the overpaid person (if a qualified individual) is entitled, or shall require the overpaid person or his or her estate to refund the amount in excess of the correct amount, or, if recovery is not obtained under these two methods, shall seek or pursue recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury, as authorized under section 3720A of title 31; or
+&emsp;&emsp;(A) under this subchapter to which the overpaid person (if a qualified individual) is entitled, or shall require the overpaid personor his or her estate to refund the amount in excess of the correct amount, or, if recovery is not obtained under these two methods, shall seek or pursue recovery by means of reduction in tax refunds based on notice to the Secretary of the Treasury, as authorized under section 3720A of title 31; or
 
 &emsp;&emsp;(B) under subchapter II of this chapter to recover the amount in excess of the correct amount, if the person is not currently eligible for payment under this subchapter.
 

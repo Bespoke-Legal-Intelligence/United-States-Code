@@ -24,7 +24,7 @@ The Secretary of Agriculture (referred to in this section as the “Secretary”
 
 &emsp;The Secretary may waive the matching funds requirement specified in paragraph (1) with respect to a research project if the Secretary determines that—
 
-&emsp;&emsp;(A) the results of the project, while of particular benefit to a specific agricultural commodity, are likely to be applicable to agricultural commodities generally; or
+&emsp;&emsp;(A) the results of the project, while of particular benefit to a specific agriculturalcommodity, are likely to be applicable to agricultural commodities generally; or
 
 &emsp;&emsp;(B) the project involves a minor commodity, the project deals with scientifically important research, and the grant recipient is unable to satisfy the matching funds requirement.
 
@@ -82,7 +82,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (10) Dairy financial risk management research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of providingresearch, development, or education materials, information, and outreach programs regarding risk management strategies for dairy producers and for dairy cooperatives and other processors and marketers of milk.
+&emsp;Research and extension grants may be made under this section for the purpose of providing research, development, or education materials, information, and outreach programs regarding risk management strategies for dairy producers and for dairy cooperatives and other processors and marketers of milk.
 
 #### (11) Cotton research and extension
 
@@ -114,7 +114,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (17) Wild pampas grass control, management, and eradication research and extension
 
-&emsp;Research and extension grants may be made under this section for the purpose of control, management, and eradication of wild pampas grass.
+&emsp;Research and extension grants may be made under this section for the purpose of control,management, and eradication of wild pampas grass.
 
 #### (18) Food safety, including pathogen detection and limitation, research and extension
 
@@ -150,6 +150,86 @@ Following the completion of a peer review process for grant proposals received u
 
 &emsp;Research and extension grants may be made under this section for the purpose of control, management, and eradication of tomato spotted wilt virus.
 
+#### (25) Genetically modified agriculture products (GMAP) research
+
+&emsp;Research grants may be made under this section for the purposes of providing unbiased, science-based evaluation of the risks and benefits to the public and the environment of specific genetically modified plant and animal products. Grants may be used to form interdisciplinary teams to review and conduct research on scientific, social, economic, and ethical issues during the review process, to answer questions raised by the release of new genetically modified agriculture products, to conduct fundamental studies on the health and environmental safety of genetically modified agriculture products (including quantitative risk assessment, the effect of specific genetically modified agriculture products on human health, and gene flow studies), to communicate the risk of genetically modified agriculture products through extension and education programs, and to engage the public and industry in relevant issues.
+
+#### (26) Wind erosion research and extension
+
+&emsp;Research and extension grants may be made under this section for the purpose of validating wind erosion models.
+
+#### (27) Crop loss research and extension
+
+&emsp;Research and extension grants may be made under this section for the purpose of validating crop loss models.
+
+#### (28) Land use management research and extension
+
+&emsp;Research and extension grants may be made under this section for the purposes of evaluating the environmental benefits of land use management tools such as those provided in the Farmland Protection Program.
+
+#### (29) Water and air quality research and extension
+
+&emsp;Research and extension grants may be made under this section for the purpose of better understanding agricultural impacts to air and water quality and means to address them.
+
+#### (30) Revenue and insurance tools research and extension
+
+&emsp;Research and extension grants may be made under this section for the purposes of better understanding the impact of revenue and insurance tools on farm income.
+
+#### (31) Agrotourism research and extension
+
+&emsp;Research and extension grants may be made under this section for the purpose of better understanding the economic, environmental, and food systems impacts of agrotourism.
+
+#### (32) Harvesting productivity for fruits and vegetables
+
+&emsp;Research and extension grants may be made under this section for the purpose of improving harvesting productivity for fruits and vegetables (including citrus), including the development of mechanical harvesting technologies and effective, economical, and safe abscission compounds.
+
+#### (33) Nitrogen-fixation by plants
+
+&emsp;Research and extension grants may be made under this section for the purpose of enhancing the nitrogen-fixing ability and efficiency of legumes, developing new varieties of legumes that fix nitrogen more efficiently, and developing new varieties of other commercially important crops that potentially are able to fix nitrogen.
+
+#### (34) Agricultural marketing
+
+&emsp;Extension grants may be made under this section for the purpose of providing education materials, information, and outreach programs regarding commodity and livestock marketing strategies for agricultural producers and for cooperatives and other marketers of any agricultural commodity, including livestock.
+
+#### (35) Environment and private lands research and extension
+
+&emsp;Research and extension grants may be made under this section for the purpose of researching the use of computer models to aid in assessment of best management practices on a watershed basis, working with government, industry, and private landowners to help craft industry-led solutions to identified environmental issues, researching and monitoring water, air, or soil environmental quality to aid in the development of new approaches to local environmental concerns, and working with local, State, and federal officials to help craft effective environmental solutions that respect private property rights and agricultural production realities.
+
+#### (36) Livestock disease research and extension
+
+&emsp;Research and extension grants may be made under this section for the purpose of identifying possible livestock disease threats, educating the public regarding livestock disease threats, training persons to deal with such threats, and conducting related research.
+
+#### (37) Plant gene expression
+
+&emsp;Research grants may be made under this section for the purpose of plant gene expression research to accelerate the application of basic plant genomic science to the development and testing of new varieties of enhanced food crops, crops that can be used as renewable energy sources, and other alternative uses of agricultural crops.
+
+#### (38) Animal infectious diseases research
+
+&emsp;Research and extension grants may be made under this section for the purpose of developing prevention and control methodologies for animal infectious diseases (including evaluation under field conditions in countries in which an animal disease occurs) such as laboratory tests for quicker detection of infected animals and presence of disease, prevention strategies (including vaccination programs), and rapid diagnostic techniques for animal disease agents considered to be risks for agricultural bioterrorism attack.
+
+#### (39) Program to combat childhood obesity
+
+&emsp;Research and extension grants may be made under this section to institutions of higher education with demonstrated capacity in basic and clinical obesity research, nutrition research, and community health education research to develop and evaluate community-wide strategies that catalyze partnerships between families and health care, education, recreation, mass media, and other community resources to reduce the incidence of childhood obesity.
+
+#### (40) Integrated pest management
+
+&emsp;Research and extension grants may be made under this section to coordinate and improve research, education, and outreach on, and implementation on farms of, integrated pest management.
+
+#### (41) Beef cattle genetics
+
+&emsp;Research and extension grants for beef cattle genetics evaluation research may be made under this section to consortia of institutions of higher education that have expertise in beef cattle genetic evaluation research and technology and that have been actively involved for at least 20 years in the estimation and prediction of progeny differences for publication and use by seed stock producer breed associations.
+
+#### (42) Dairy pipeline cleaner
+
+&emsp;Research and extension grants may be made under this section for the purpose of preventing and eliminating the dangers of dairy pipeline cleaner, including development of safer packaging and transfer mechanisms, outlining accident causes and potential prevention measures, and other means of improving efforts to prevent ingestion of dairy pipeline cleaner.
+
+#### (43) Development of publicly held plants and animal varieties
+
+&emsp;Research and extension grants may be made under this section for the purpose of development of publicly held plants and animal varieties (including germplasm for identity-preserved markets) and genetic resource conservation activities.
+
+#### (44) Sugarcane genetics
+
+&emsp;Research grants may be made under this section for the purpose of maintaining acceptable yields under reduced production inputs, implementing marker-assisted breeding strategies and other basic plant genomic technologies to screen for improved plant resistance to diseases, weeds, and insects toward minimizing pesticide use, enhancing food, fiber and energy production, and developing varieties for maximum performance under prevailing conditions, including management for improved soil and water conservation.
+
 #### (f) Imported fire ant control, management, and eradication
 
 #### (1) Task force
@@ -160,7 +240,7 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (A) Request for proposals
 
-&emsp;&emsp;The Secretary shall publish a request for proposals for grants for research or demonstration projects related to the control,management, and possible eradication of imported fire ants.
+&emsp;&emsp;The Secretary shall publish a request for proposals for grants for research or demonstration projects related to the control, management, and possible eradication of imported fire ants.
 
 #### (B) Selection
 
@@ -214,11 +294,15 @@ Following the completion of a peer review process for grant proposals received u
 
 #### (h) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007.
 
-(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865; Pub. L. 104–127, title VIII, §§836, 863, 888, Apr. 4, 1996, 110 Stat. 1169, 1174, 1180; Pub. L. 105–185, title II, §242, June 23, 1998, 112 Stat. 549.)
+(Pub. L. 101–624, title XVI, §1672, Nov. 28, 1990, 104 Stat. 3770; Pub. L. 102–237, title IV, §§406, 407(11), Dec. 13, 1991, 105 Stat. 1864, 1865; Pub. L. 104–127, title VIII, §§836, 863, 888, Apr. 4, 1996, 110 Stat. 1169, 1174, 1180; Pub. L. 105–185, title II, §242, June 23, 1998, 112 Stat. 549; Pub. L. 107–171, title VII, §§7119, 7208(b), May 13, 2002, 116 Stat. 434, 442.)
 
 #### Amendments
+
+2002—Subsec. (e)(25) to (44). Pub. L. 107–171, §7208(b), added pars. (25) to (44).
+
+Subsec. (h). Pub. L. 107–171, §7119, substituted “2007” for “2002”.
 
 1998—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsecs. (a) to (f) which authorized specialized research programs relating to, respectively, brown citrus aphid and citrus tristeza virus, ethanol, aflatoxin, mesquite, prickly pear, and deer tick ecology and related research, and for provisions in subsec. (g) subjecting research to peer review, setting limitation on use of funds, and providing for general eligibility to participate in programs.
 

@@ -30,7 +30,7 @@ The Secretary, in consultation with the Governor of the State, Native Village an
 
 #### (d) Guidelines
 
-(1) Within two years after December 2, 1980, the Secretary shall by regulation establish initial guidelines governing the carrying out of exploratory activities. The guidelines shall be based upon the results of the study required under subsection (c) of this section and such other information as may be available to the Secretary. The guidelines shall include such prohibitions, restrictions, and conditions on the carrying out of exploratory activities as the Secretary deems necessary or appropriate to ensure that exploratory activities do not significantly adversely affect the fish and wildlife,their habitats, or the environment, including, but not limited to—
+(1) Within two years after December 2, 1980, the Secretary shall by regulation establish initial guidelines governing the carrying out of exploratory activities. The guidelines shall be based upon the results of the study required under subsection (c) of this section and such other information as may be available to the Secretary. The guidelines shall include such prohibitions, restrictions, and conditions on the carrying out of exploratory activities as the Secretary deems necessary or appropriate to ensure that exploratory activities do not significantly adversely affect the fish and wildlife, their habitats, or the environment, including, but not limited to—
 
 &emsp;(A) a prohibition on the carrying out of exploratory activity during caribou calving and immediate post-calving seasons or during any other period in which human activity may have adverse effects;
 
@@ -44,7 +44,7 @@ The Secretary, in consultation with the Governor of the State, Native Village an
 
 #### (e) Exploration plans
 
-(1) After the initial guidelines are prescribed under subsection (d) of this section, any person including the United States Geological Survey may submit one or more plans for exploratory activity (hereinafter in this section referred to as “exploration plans”) to the Secretary for approval. An exploration plan must set forth such information as the Secretary may require in order to determine whether the plan is consistent with the guidelines, including, but not limited to—
+(1) After the initial guidelines are prescribed under subsection (d) of this section, any person including the United States Geological Survey may submit one or more plans for exploratory activity (hereinafter in this section referred toas “exploration plans”) to the Secretary for approval. An exploration plan must set forth such information as the Secretary may require in order to determine whether the plan is consistent with the guidelines, including, but not limited to—
 
 &emsp;(A) a description and schedule of the exploratory activity proposed to be undertaken;
 
@@ -70,7 +70,7 @@ If at any time while exploratory activity is being carried out under an explorat
 
 (1) Any person who is found by the Secretary, after notice and an opportunity for a hearing in accordance with section 554 of title 5, to have violated any provision of a plan approved under subsection (e) of this section or any term or condition of a permit issued under subsection (f) of this section, or to have committed any act prohibited under subsection (d) of this section shall be liable to the United States for a civil penalty. The amount of the civil penalty shall not exceed $10,000 for each violation. Each day of a continuing violation shall constitute a separate offense. The amount of such civil penalty shall be assessed by the Secretary by written notice. In determining the amount of such penalty, the Secretary shall take into account the nature, circumstances, extent, and gravity of the prohibited act committed, and, with respect to the violator, the history of any prior offenses, his demonstrated good faith in attempting to achieve timely compliance after being cited for the violation, and such other matters as justice may require.
 
-(2) Any person against whom a civil penalty is assessed under paragraph (1) may obtain review thereof in the appropriate district court of theUnited States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2)(E) of title 5.
+(2) Any person against whom a civil penalty is assessed under paragraph (1) may obtain review thereof in the appropriate district court of the United States by filing a notice of appeal in such court within thirty days from the date of such order and by simultaneously sending a copy of such notice by certified mail to the Secretary. The Secretary shall promptly file in such court a certified copy of the record upon which such violation was found or such penalty imposed, as provided in section 2112 of title 28. The findings and order of the Secretary shall be set aside by such court if they are not found to be supported by substantial evidence, as provided in section 706(2)(E) of title 5.
 
 (3) If any person fails to pay an assessment of a civil penalty against him under paragraph (1) after it has become final, or after the appropriate court has entered final judgment in favor of the Secretary, the Secretary shall refer the matter to the Attorney General of the United States, who shall recover the amount assessed in any appropriate district court of the United States. In such action, the validity and appropriateness of the final order imposing the civil penalty shall not be subject to review.
 
@@ -78,7 +78,7 @@ If at any time while exploratory activity is being carried out under an explorat
 
 #### (h) Report to Congress
 
-Not earlier than five years after December 2, 1980, and not later than five years and nine months after such date, the Secretary shall prepare and submit to Congress a report containing—
+Not earlier than five years after December 2, 1980, and not later than five years and ninemonths after such date, the Secretary shall prepare and submit to Congress a report containing—
 
 &emsp;(1) the identification by means other than drilling of exploratory wells of those areas within the coastal plain that have oil and gas production potential and estimate of the volume of the oil and gas concerned;
 

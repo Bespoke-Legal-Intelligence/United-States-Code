@@ -26,7 +26,7 @@ Withholding Payments.—The Secretary may withhold a payment under subsection (a
 
 (d)
 
-Surveys, Reports, and Compensation Plans.—(1) If as a result of an activity carried out under a license issued or transferred under this chapter the total of claims related to one launch or reentry is likely to be more than theamount of required insurance or demonstration of financial responsibility, the Secretary shall—
+Surveys, Reports, and Compensation Plans.—(1) If as a result of an activity carried out under a license issued or transferred under this chapter the total of claims related to one launch or reentry is likely to be more than the amount of required insurance or demonstration of financial responsibility, the Secretary shall—
 
 &emsp;(A) survey the causes and extent of damage; and
 

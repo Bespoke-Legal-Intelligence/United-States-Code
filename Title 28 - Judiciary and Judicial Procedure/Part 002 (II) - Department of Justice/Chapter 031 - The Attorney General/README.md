@@ -28,39 +28,43 @@
 | [523\.](%C2%A7%2000523%20-%20Requisitions.md) | Requisitions. |
 | [524\.](%C2%A7%2000524%20-%20Availability%20of%20appropriations.md) | Availability of appropriations. |
 | [525\.](%C2%A7%2000525%20-%20Procurement%20of%20law%20books%2C%20reference%20books%2C%20and%20periodicals%3B%20sale%20and%20exchange.md) | Procurement of law books, reference books, and periodicals; sale and exchange. |
-| [526\.](%C2%A7%2000526%20-%20Authority%20of%20Attorney%20General%20to%20investigate%20United%20States%20attorneys%2C%20marshals%2C%20and%20trustees%2C%20clerks%20of%20court%2C%20and%20others.md) | Authority of the Attorney General to investigate United States attorneys, marshals, and trustees, clerks of court, and others. |
+| [526\.](%C2%A7%2000526%20-%20Authority%20of%20Attorney%20General%20to%20investigate%20United%20States%20attorneys%2C%20marshals%2C%20trustees%2C%20clerks%20of%20court%2C%20and%20others.md) | Authority of the Attorney General to investigate United States attorneys, marshals, trustees, clerks of court, and others. |
 | [527\.](%C2%A7%2000527%20-%20Establishment%20of%20working%20capital%20fund.md) | Establishment of working capital fund. |
 | [528\.](%C2%A7%2000528%20-%20Disqualification%20of%20officers%20and%20employees%20of%20the%20Department%20of%20Justice.md) | Disqualification of officers and employees of the Department of Justice. |
 | [529\.](%C2%A7%2000529%20-%20Annual%20report%20of%20Attorney%20General.md) | Annual report of Attorney General. |
 | [530\.](%C2%A7%2000530%20-%20Payment%20of%20travel%20and%20transportation%20expenses%20of%20newly%20appointed%20special%20agents.md) | Payment of travel and transportation expenses of newly appointed special agents. |
 | [530A.](%C2%A7%2000530A%20-%20Authorization%20of%20appropriations%20for%20travel%20and%20related%20expenses%20and%20for%20health%20care%20of%20personnel%20serving%20abroad.md) | Authorization of appropriations for travel and related expenses and for health care of personnel serving abroad. |
 | [530B.](%C2%A7%2000530B%20-%20Ethical%20standards%20for%20attorneys%20for%20the%20Government.md) | Ethical standards for attorneys for the Government. |
+| [530C.](%C2%A7%2000530C%20-%20Authority%20to%20use%20available%20funds.md) | Authority to use available funds. |
+| [530D.](%C2%A7%2000530D%20-%20Report%20on%20enforcement%20of%20laws.md) | Report on enforcement of laws. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–277, div. A, §101(b) \[title VIII, §801(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–119, added item 530B.
+2002—Pub. L. 107–273, div. A, title II, §§201(b), 202(b)(1), div. B, title IV, §4003(b)(5), Nov. 2, 2002, 116 Stat. 1771, 1774, 1811, in item 526, struck out “and” before “trustees”, and added items 530C and 530D.
 
-<b>1992</b>—Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” in item 520.
+1998—Pub. L. 105–277, div. A, §101(b) \[title VIII, §801(b)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–119, added item 530B.
 
-<b>1988</b>—Pub. L. 100–690, title VI, §6281(b), Nov. 18, 1988, 102 Stat. 4369, added item 530A.
+1992—Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, substituted “United States Court of Federal Claims” for “United States Claims Court” in item 520.
 
-<b>1983</b>—Pub. L. 98–86, §2, Aug. 26, 1983, 97 Stat. 492, added item 530.
+1988—Pub. L. 100–690, title VI, §6281(b), Nov. 18, 1988, 102 Stat. 4369, added item 530A.
 
-<b>1982</b>—Pub. L. 97–258, §2(g)(1)(A), Sept. 13, 1982, 96 Stat. 1060, substituted “Availability of appropriations” for “Appropriations for administrative expenses; notarial fees; meals and lodging of bailiffs” in item 524.
+1983—Pub. L. 98–86, §2, Aug. 26, 1983, 97 Stat. 492, added item 530.
+
+1982—Pub. L. 97–258, §2(g)(1)(A), Sept. 13, 1982, 96 Stat. 1060, substituted “Availability of appropriations” for “Appropriations for administrative expenses; notarial fees; meals and lodging of bailiffs” in item 524.
 
 Pub. L. 97–164, title I, §118(b), Apr. 2, 1982, 96 Stat. 33, substituted “United States Claims Court or in United States Court of Appeals for the Federal Circuit” for “Court of Claims” in item 520.
 
-<b>1978</b>—Pub. L. 95–598, title II, §219(c), Nov. 6, 1978, 92 Stat. 2662, inserted reference to trustees in item 526.
+1978—Pub. L. 95–598, title II, §219(c), Nov. 6, 1978, 92 Stat. 2662, inserted reference to trustees in item 526.
 
 Pub. L. 95–521, title VI, §603(b), Oct. 26, 1978, 92 Stat. 1875, added items 528 and 529.
 
-<b>1977</b>—Pub. L. 95–139, §1(b), Oct. 19, 1977, 91 Stat. 1171, added item 504a.
+1977—Pub. L. 95–139, §1(b), Oct. 19, 1977, 91 Stat. 1171, added item 504a.
 
-<b>1975</b>—Pub. L. 93–613, §1(2), Jan. 2, 1975, 88 Stat. 1975, added item 527.
+1975—Pub. L. 93–613, §1(2), Jan. 2, 1975, 88 Stat. 1975, added item 527.
 
-<b>1966</b>—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 611, substituted “THE ATTORNEY GENERAL” for “UNITED STATES ATTORNEYS” in chapter heading, “Executive Department” for “Appointment of United States attorneys” in item 501, “Seal” for “Appointment of assistant United States attorneys” in item 502, “Attorney General” for “Appointment of attorneys” in item 503, “Deputy Attorney General” for “Tenure and oath of office; removal” in item 504, “Solicitor General” for “Residence” in item 505, “Assistant Attorney General” for “Vacancies” in item 506, “Assistant Attorney General for Administration” for “Duties; supervision by Attorney General” in item 507, “Vacancies” for “Salaries” in item 508, “Functions of the Attorney General” for “Expenses” in item 509, “Delegation of authority” for “Clerical assistants and messengers” in item 510, and added items 511 to 526.
+1966—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 611, substituted “THE ATTORNEY GENERAL” for “UNITED STATES ATTORNEYS” in chapter heading, “Executive Department” for “Appointment of United States attorneys” in item 501, “Seal” for “Appointment of assistant United States attorneys” in item 502, “Attorney General” for “Appointment of attorneys” in item 503, “Deputy Attorney General” for “Tenure and oath of office; removal” in item 504, “Solicitor General” for “Residence” in item 505, “Assistant Attorney General” for “Vacancies” in item 506, “Assistant Attorney General for Administration” for “Duties; supervision by Attorney General” in item 507, “Vacancies”for “Salaries” in item 508, “Functions of the Attorney General” for “Expenses” in item 509, “Delegation of authority” for “Clerical assistants and messengers” in item 510, and added items 511 to 526.
 
 #### Chapter Referred to in Other Sections
 
@@ -97,10 +101,12 @@ This chapter is referred to in section 463 of this title; title 42 section 7192.
 - [&sect; 00523 - Requisitions](%C2%A7%2000523%20-%20Requisitions.md)
 - [&sect; 00524 - Availability of appropriations](%C2%A7%2000524%20-%20Availability%20of%20appropriations.md)
 - [&sect; 00525 - Procurement of law books, reference books, and periodicals; sale and exchange](%C2%A7%2000525%20-%20Procurement%20of%20law%20books%2C%20reference%20books%2C%20and%20periodicals%3B%20sale%20and%20exchange.md)
-- [&sect; 00526 - Authority of Attorney General to investigate United States attorneys, marshals, and trustees, clerks of court, and others](%C2%A7%2000526%20-%20Authority%20of%20Attorney%20General%20to%20investigate%20United%20States%20attorneys%2C%20marshals%2C%20and%20trustees%2C%20clerks%20of%20court%2C%20and%20others.md)
+- [&sect; 00526 - Authority of Attorney General to investigate United States attorneys, marshals, trustees, clerks of court, and others](%C2%A7%2000526%20-%20Authority%20of%20Attorney%20General%20to%20investigate%20United%20States%20attorneys%2C%20marshals%2C%20trustees%2C%20clerks%20of%20court%2C%20and%20others.md)
 - [&sect; 00527 - Establishment of working capital fund](%C2%A7%2000527%20-%20Establishment%20of%20working%20capital%20fund.md)
 - [&sect; 00528 - Disqualification of officers and employees of the Department of Justice](%C2%A7%2000528%20-%20Disqualification%20of%20officers%20and%20employees%20of%20the%20Department%20of%20Justice.md)
 - [&sect; 00529 - Annual report of Attorney General](%C2%A7%2000529%20-%20Annual%20report%20of%20Attorney%20General.md)
 - [&sect; 00530 - Payment of travel and transportation expenses of newly appointed special agents](%C2%A7%2000530%20-%20Payment%20of%20travel%20and%20transportation%20expenses%20of%20newly%20appointed%20special%20agents.md)
 - [&sect; 00530A - Authorization of appropriations for travel and related expenses and for health care of personnel serving abroad](%C2%A7%2000530A%20-%20Authorization%20of%20appropriations%20for%20travel%20and%20related%20expenses%20and%20for%20health%20care%20of%20personnel%20serving%20abroad.md)
 - [&sect; 00530B - Ethical standards for attorneys for the Government](%C2%A7%2000530B%20-%20Ethical%20standards%20for%20attorneys%20for%20the%20Government.md)
+- [&sect; 00530C - Authority to use available funds](%C2%A7%2000530C%20-%20Authority%20to%20use%20available%20funds.md)
+- [&sect; 00530D - Report on enforcement of laws](%C2%A7%2000530D%20-%20Report%20on%20enforcement%20of%20laws.md)

@@ -6,7 +6,11 @@ Whenever a report is transmitted to the Congress on a country-by-country basis t
 
 &emsp;(2) section 2241 of title 19 (relating to trade barriers); and
 
-&emsp;(3) section 4711 of title 15 (relating to economic policy and trade practices).
+&emsp;(3) section 4711 <sup>1</sup> of title 15 (relating to economic policy and trade practices).
 
 (Pub. L. 102–383, title III, §302, Oct. 5, 1992, 106 Stat. 1454.)
+
+#### References in Text
+
+Section 4711 of title 15, referred to in par. (3), was repealed by Pub. L. 107–228, div. A, title VI, §671(1), Sept. 30, 2002, 116 Stat. 1407.
 

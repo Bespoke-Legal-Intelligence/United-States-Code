@@ -10,7 +10,7 @@ For each contract, the payment quantity of a contract commodity for each fiscal 
 
 #### (b) Annual payment quantity of contract commodities
 
-The payment quantity of each contract commodity covered by all contracts for each fiscal year shall be equal to the sum of the amounts calculated under subsection (a) of this section for each individual contract.
+The payment quantity of each contract commodity covered by all contracts for each fiscalyear shall be equal to the sum of the amounts calculated under subsection (a) of this section for each individual contract.
 
 #### (c) Annual payment rate
 
@@ -41,4 +41,8 @@ The provisions of section 590h(g) of title 16 (relating to assignment of payment
 The Secretary shall provide for the sharing of contract payments among the owners and producers subject to the contract on a fair and equitable basis.
 
 (Pub. L. 104–127, title I, §114, Apr. 4, 1996, 110 Stat. 901.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7911, 7916 of this title.
 

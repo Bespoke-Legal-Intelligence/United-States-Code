@@ -152,7 +152,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 &emsp;&emsp;&emsp;&emsp;(I) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Bank Insurance Fund member, the fee shall be the approximate amount which the Corporation calculates as necessary to prevent dilution of the Bank Insurance Fund, and shall be paid to the Bank Insurance Fund; and
 
-&emsp;&emsp;&emsp;&emsp;(II) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Savings Association Insurance Fund member, the fee shall be the approximate amount which the Corporation calculates as necessary to prevent dilution of the SavingsAssociation Insurance Fund, and shall be paid to the Savings Association Insurance Fund.
+&emsp;&emsp;&emsp;&emsp;(II) in the case of a conversion transaction in which the resulting or acquiring depository institution is a Savings Association Insurance Fund member, thefee shall be the approximate amount which the Corporation calculates as necessary to prevent dilution of the Savings Association Insurance Fund, and shall be paid to the Savings Association Insurance Fund.
 
 #### (F) Assessment of exit and entrance fees
 
@@ -220,7 +220,7 @@ Subject to the provisions of this chapter and to such terms and conditions as th
 
 #### (iii) Capital requirements
 
-&emsp;&emsp;&emsp;A transaction described in this paragraph shall not be approved under section 1828(c)(2) of this title unless the acquiring, assuming, or resulting depository institution will meet all applicable capital requirements upon consummation of the transaction.
+&emsp;&emsp;&emsp;A transaction described in this paragraph shall not be approved under section1828(c)(2) of this title unless the acquiring, assuming, or resulting depository institution will meet all applicable capital requirements upon consummation of the transaction.
 
 #### (F) Certain interstate transactions
 

@@ -62,7 +62,7 @@ A board of trade that is designated as a contract market on December 21, 2000, s
 
 #### (1) In general
 
-&emsp;To maintain the designation of a board of trade as a contract market, the board of tradeshall comply with the core principles specified in this subsection. The board of trade shall have reasonable discretion in establishing the manner in which it complies with the core principles.
+&emsp;To maintain the designation of a board of trade as a contract market, the board of trade shall comply with the core principles specified in this subsection. The board of trade shall have reasonable discretion in establishing the manner in which it complies with the core principles.
 
 #### (2) Compliance with rules
 
@@ -120,7 +120,7 @@ A board of trade that is designated as a contract market on December 21, 2000, s
 
 #### (13) Dispute resolution
 
-&emsp;The board of trade shall establish and enforce rules regarding and provide facilities for alternative dispute resolution as appropriate for market participants and any market intermediaries.
+&emsp;The board of trade shall establish and enforce rules regarding and provide facilities foralternative dispute resolution as appropriate for market participants and any market intermediaries.
 
 #### (14) Governance fitness standards
 
@@ -148,7 +148,7 @@ A board of trade that is designated as a contract market on December 21, 2000, s
 
 #### (e) Current agricultural commodities
 
-(1) Subject to paragraph (2) of this subsection, a contract for purchase or sale for future delivery of an agricultural commodity enumerated in section 1a(4) of this title that is available for trade on a contract market, as of December 21,2000, may be traded only on a contract market designated under this section.
+(1) Subject to paragraph (2) of this subsection, a contract for purchase or sale for future delivery of an agricultural commodity enumerated in section 1a(4) of this title that is available for trade on a contract market, as of December 21, 2000, may be traded only on a contract market designated under this section.
 
 (2) In order to promote responsible economic or financial innovation and fair competition, the Commission, on application by any person, after notice and public comment and opportunity for hearing, may prescribe rules and regulations to provide for the offer and sale of contracts for future delivery or options on such contracts to be conducted on a derivatives transaction execution facility.
 

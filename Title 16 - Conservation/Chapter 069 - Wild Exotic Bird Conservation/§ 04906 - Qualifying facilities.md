@@ -14,7 +14,7 @@ The Secretary shall determine under subsection (a) of this section that a facili
 
 &emsp;(3) The facility is operated in a humane manner.
 
-&emsp;(4) The appropriate governmental authority of the country in which the facility is locatedhas certified in writing, and the Secretary is satisfied, that the facility has the capability of breeding the species in captivity.
+&emsp;(4) The appropriate governmental authority of the country in which the facility is located has certified in writing, and the Secretary is satisfied, that the facility has the capability of breeding the species in captivity.
 
 &emsp;(5) The country in which the facility is located is a Party to the Convention.
 

@@ -18,7 +18,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (3) Interest rate
 
-&emsp;(A) Loans under this section shall bear interest at the “cost of money rate”. The cost of money rate is defined as the average cost of moneys to the telephone bank as determined by the Governor, but not less than 5 per centum per annum.
+&emsp;(A) Loans under this section shall bear interest at the “cost of money rate”. The cost of money rate is defined as the average cost of moneys to the telephone bank as determinedby the Governor, but not less than 5 per centum per annum.
 
 &emsp;(B) On and after December 22, 1987, advances made on or after December 22, 1987, under loan commitments made on or after October 1, 1987, shall bear interest at the rate determined under subparagraph (C), but in no event at a rate that is less than 5 percent per annum.
 
@@ -30,7 +30,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;(D) Within 30 days after the end of each fiscal year, the Governor shall determine to the nearest 0.01 percent the cost of money rate for the fiscal year, by calculating the sum of the results of the following calculations:
 
-&emsp;&emsp;(i) The aggregate of all amounts received by the telephone bank during the fiscal yearfrom the issuance of class A stock, multiplied by the rate of return payable by the telephone bank during the fiscal year, as specified in section 946(c) of this title, to holders of class A stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year.
+&emsp;&emsp;(i) The aggregate of all amounts received by the telephone bank during the fiscal year from the issuance of class A stock, multiplied by the rate of return payable by the telephone bank during the fiscal year, as specified in section 946(c) of this title, to holders of class A stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year.
 
 &emsp;&emsp;(ii) The aggregate of all amounts received by the telephone bank during the fiscal year from the issuance of class B stock, multiplied by the rate at which dividends are payable by the telephone bank during the fiscal year, as specified in section 946(d) of this title, to holders of class B stock, which product is divided by the aggregate of the amounts advanced by the telephone bank during the fiscal year. For purposes of the calculation under this subparagraph, such rate shall be zero.
 
@@ -120,7 +120,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;(III) For purposes of subclause (I), the term “the amount applicable to the advance” means an amount which fully reflects that percentage of the funds saved by the telephone bank as a result of the refinancing which is equal to the percentage representation of the advance in all advances described in subclause (I).
 
-&emsp;(IV) Within 60 days after any issue date described in subclause (I), the Governor shallamend the loan documentation for each advance described in subclause (I), as necessary, to reflect any interest rate reduction applicable to the advance by reason of this clause, and shall notify each affected borrower of the reduction.
+&emsp;(IV) Within 60 days after any issue date described in subclause (I), the Governor shall amend the loan documentation for each advance described in subclause (I), as necessary, to reflect any interest rate reduction applicable to the advance by reason of this clause, and shall notify each affected borrower of the reduction.
 
 &emsp;(G) Within 30 days after the publication of any determination made under subparagraph (D), any affected borrower may obtain review of the determination, or any other equitable relief as may be determined appropriate, by the United States court of appeals for the judicial circuit in which the borrower does business by filing a written petition requesting the court to set aside or modify such determination. On receipt of such a petition, the clerk of the court shall transmit a copy of the petition to the Governor. On receipt of a copy of such a petition from the clerk of the court, the Governor shall file with the court the record on which the determination is based. The court shall have jurisdiction to affirm, set aside, or modify the determination.
 
@@ -158,7 +158,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 &emsp;(B) If a borrower prepays part or all of a loan made under this section, then, notwithstanding section 947(b) of this title, the Governor of the telephone bank shall—
 
-&emsp;&emsp;(i) use the full amount of the prepayment to repay obligations of the telephone bank issued pursuant to section 947(b) of this title before October 1, 1991, to the extent any such obligations are outstanding; and
+&emsp;&emsp;(i) use the full amount of the prepayment to repay obligations of the telephone bank issued pursuant to section 947(b) of this titlebefore October 1, 1991, to the extent any such obligations are outstanding; and
 
 &emsp;&emsp;(ii) in repaying the obligations, first repay the advances bearing the greatest rate of interest.
 
@@ -172,7 +172,7 @@ Loans under this section shall be on such terms and conditions as the Governor o
 
 #### (10) Applications considered under section 935(d)(2)
 
-&emsp;On request of any applicant who is eligible for a loan under this section for which fundsare not available, the applicant shall be considered to have applied for a loan under section 935(d)(2) of this title.
+&emsp;On request of any applicant who is eligible for a loan under this section for which funds are not available, the applicant shall be considered to have applied for a loan under section 935(d)(2) of this title.
 
 #### (c) Payment schedule; adjustment; loan period
 
@@ -222,7 +222,7 @@ Subsec. (b)(4). Pub. L. 100–203, §1412, inserted at end “For purposes of de
 
 Subsec. (b)(8). Pub. L. 100–203, §1411(b)(1), added par. (8).
 
-1973—Subsec. (a). Pub. L. 93–32, §8, inserted “or which have been certified by the Administrator to be eligible for such a loan or loan commitments,” preceding cl. (1) and inserted provision that loans and advances not be included in the totals of the budget of the United States Government and that such loans and advances be exempt from any general limitation imposed by statute expenditures and net lending (budget outlays) of the United States.
+1973—Subsec. (a). Pub. L. 93–32, §8, inserted “or which have been certified by the Administrator to be eligiblefor such a loan or loan commitments,” preceding cl. (1) and inserted provision that loans and advances not be included in the totals of the budget of the United States Government and that such loans and advances be exempt from any general limitation imposed by statute expenditures and net lending (budget outlays) of the United States.
 
 Subsec. (b)(3). Pub. L. 93–32, §9, substituted provisions for a “cost of money rate” of interest with a “not less than 5 per centum per annum” limit on such rate, for provisions for interest “at the highest rate which meets the requirements set forth in paragraph (4), consistent with the borrower's ability to pay such interest rate and with achievement of the objectives of this chapter” with a “not less than 4 per centum per annum” limit on such rate.
 

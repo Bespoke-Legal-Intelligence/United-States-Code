@@ -72,7 +72,7 @@
 
 #### (1) Testate
 
-&emsp;If a testator devises interests in the same parcel of trust or restricted lands to morethan 1 person, in the absence of express language in the devise to the contrary, the devise shall be presumed to create joint tenancy with the right of survivorship in the land involved.
+&emsp;If a testator devises interests in the same parcel of trust or restricted lands to more than 1 person, in the absence of express language in the devise to the contrary, the devise shall be presumed to create joint tenancy with the right of survivorship in the land involved.
 
 #### (2) Intestate
 
@@ -126,7 +126,7 @@
 
 #### (2) Descent
 
-&emsp;Except in the State of California, upon the death of an individual holding an interest in trust or restricted lands that are located outside the boundaries of an Indian reservation and that are not subject to the jurisdiction of any Indian tribe, that interest shall descend either—
+&emsp;Except in the State of California, upon the death of an individual holding an interest intrust or restricted lands that are located outside the boundaries of an Indian reservation and that are not subject to the jurisdiction of any Indian tribe, that interest shall descend either—
 
 &emsp;&emsp;(A) by testate or intestate succession in trust to an Indian; or
 

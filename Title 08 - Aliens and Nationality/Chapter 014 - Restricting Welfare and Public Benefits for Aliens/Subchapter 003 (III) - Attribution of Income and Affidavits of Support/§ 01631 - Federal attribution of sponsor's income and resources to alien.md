@@ -26,6 +26,8 @@ Whenever an alien is required to reapply for benefits under any Federal means-te
 
 (2) If on August 22, 1996, a Federal means-tested public benefits program does not attribute a sponsor's income and resources to an alien in determining the alien's eligibility and the amount of benefits for an alien, this section shall apply to any such determination beginning 180 days after August 22, 1996.
 
+(3) This section shall not apply to assistance or benefits under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.) to the extent that a qualified alien is eligible under section 1612(a)(2)(J) of this title.
+
 #### (e) Indigence exception
 
 #### (1) In general
@@ -50,23 +52,31 @@ Whenever an alien is required to reapply for benefits under any Federal means-te
 
 &emsp;The exception under paragraph (1) shall not apply to benefits for an alien during any period in which the individual responsible for such battery or cruelty resides in the same household or family eligibility unit as the individual who was subjected to such battery or cruelty.
 
-(Pub. L. 104–193, title IV, §421, Aug. 22, 1996, 110 Stat. 2270; Pub. L. 104–208, div. C, title V, §§551(b)(1), 552, Sept. 30, 1996, 110 Stat. 3009–679, 3009–680; Pub. L. 105–33, title V, §5571(d), Aug. 5, 1997, 111 Stat. 641.)
+(Pub. L. 104–193, title IV, §421, Aug. 22, 1996, 110 Stat. 2270; Pub. L. 104–208, div. C, title V, §§551(b)(1), 552, Sept. 30, 1996, 110 Stat. 3009–679, 3009–680; Pub. L. 105–33, title V, §5571(d), Aug. 5, 1997, 111 Stat. 641; Pub. L. 107–171, title IV, §4401(b)(2)(B), May 13, 2002, 116 Stat. 333.)
 
 #### References in Text
 
 Section 213A of the Immigration and Nationality Act (as added by section 423 and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996), referred to in subsec. (a)(1), is section 1183a of this title as added by section 423 of Pub. L. 104–193 and amended by section 551(a) of div. C of Pub. L. 104–208.
 
-The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended. Chapter 2 of title III of the Act is classifiedgenerally to part II (§1421 et seq.) of subchapter III of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
+The Immigration and Nationality Act, referred to in subsec. (b)(1), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended. Chapter 2 of title III of the Act is classified generally to part II (§1421 et seq.) of subchapter III of chapter 12 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (b)(2)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
+The Food Stamp Act of 1977, referred to in subsec. (d)(3), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+
 #### Amendments
 
-1997—Subsec. (f)(1)(A). Pub. L. 105–33 struck out “or” before “(ii) the alien's child” and substituted “or (iii) the alien is a child whose parent (who resides in the same household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent's spouse, or by a member of the spouse's family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii)” for “and the battery or cruelty described in clause (i) or (ii)”.
+2002—Subsec. (d)(3). Pub. L. 107–171 added par. (3).
+
+1997—Subsec. (f)(1)(A). Pub. L. 105–33 struck out “or” before “(ii) the alien's child” and substituted “or (iii) the alien is a child whose parent (who resides in thesame household as the alien child) has been battered or subjected to extreme cruelty in the United States by that parent's spouse, or by a member of the spouse's family residing in the same household as the parent and the spouse consented to, or acquiesced in, such battery or cruelty, and the battery or cruelty described in clause (i), (ii), or (iii)” for “and the battery or cruelty described in clause (i) or (ii)”.
 
 1996—Subsec. (a)(1). Pub. L. 104–208, §551(b)(1), inserted “and as amended by section 551(a) of the Illegal Immigration Reform and Immigrant Responsibility Act of 1996” after “section 423”.
 
 Subsecs. (e), (f). Pub. L. 104–208, §552, added subsecs. (e) and (f).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–171 effective Oct. 1, 2003, see section 4401(b)(3) of Pub. L. 107–171, set out as a note under section 2014 of Title 7, Agriculture.
 
 #### Effective Date of 1997 Amendment
 
@@ -75,6 +85,10 @@ Amendment by Pub. L. 105–33 effective as if included in the enactment of title
 #### Effective Date of 1996 Amendment
 
 Amendment by section 551(b)(1) of Pub. L. 104–208 applicable to affidavits of support executed on or after a date specified by the Attorney General, which date shall be not earlier than 60 days, and not later than 90 days after the date the Attorney General formulates the form for such affidavits, see section 551(c) of Pub. L. 104–208, set out as an Effective Date of 1996 Amendment; Promulgation of Form note under section 1183a of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -2,13 +2,13 @@
 
 The Board shall from time to time, at least annually, require examinations and reports of condition of all Federal Home Loan Banks in such form as the Board shall prescribe and shall furnish periodically statements based upon the reports of the banks to the Board. For the purposes of this chapter, examiners appointed by the Board shall be subject to the same requirements, responsibilities, and penalties as are applicable to examiners under the National Bank Act \[12 U.S.C. 21 et seq.\] and the Federal Reserve Act \[12 U.S.C. 221 et seq.\], and shall have, in the exercise of functions under this chapter, the same powers and privileges as are vested in such examiners by law. In addition to such examinations, the Comptroller General may audit or examine the Board and the Banks, to determine the extent to which the Board and the Banks are fairly and effectively fulfilling the purposes of this chapter.
 
-(July 22, 1932, ch. 522, §20, 47 Stat. 738; June 27, 1950, ch. 369, §10, 64 Stat. 259; Aug. 2, 1954, ch. 649, title VIII, §802(f), 68 Stat. 643; Pub. L. 101–73, title VII, §§701(b)(1), (3)(A), 702(b), Aug. 9, 1989, 103 Stat. 412, 415.)
+(July 22, 1932, ch. 522, §20, 47 Stat. 738; June 27, 1950, ch. 369, §10, 64 Stat. 259; Aug. 2, 1954, ch. 649, title VIII, §802(f), 68 Stat. 643; Pub. L. 101–73,title VII, §§701(b)(1), (3)(A), 702(b), Aug. 9, 1989, 103 Stat. 412, 415.)
 
 #### References in Text
 
 The National Bank Act, referred to in text, is act June 3, 1864, ch. 106, 13 Stat. 99, as amended, which is classified principally to chapter 2 (§21 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 38 of this title.
 
-The Federal Reserve Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which isclassified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
+The Federal Reserve Act, referred to in text, is act Dec. 23, 1913, ch. 6, 38 Stat. 251, as amended, which is classified principally to chapter 3 (§221 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 226 of this title and Tables.
 
 #### Amendments
 

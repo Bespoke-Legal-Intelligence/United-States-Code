@@ -4,7 +4,7 @@ As used in this chapter:
 
 #### (1) Administrator
 
-&emsp;The term “Administrator” means the Administrator of the Agency for International Development, unless otherwise specified in this chapter.
+&emsp;The term “Administrator” means the Administrator of the Agency for InternationalDevelopment, unless otherwise specified in this chapter.
 
 #### (2) Agricultural commodity
 
@@ -12,7 +12,7 @@ As used in this chapter:
 
 #### (3) Cooperative
 
-&emsp;The term “cooperative” means a private sector organization whose members own and control the organization and share in its servicesand its profits and that provides business services and outreach in cooperative development for its membership.
+&emsp;The term “cooperative” means a private sector organization whose members own and control the organization and share in its services and its profits and that provides business services and outreach in cooperative development for its membership.
 
 #### (4) Developing country
 

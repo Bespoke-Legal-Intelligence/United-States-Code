@@ -1,0 +1,26 @@
+### §3072. Eligibility for veterans benefits and other rights, privileges, immunities, and benefits under certain provisions of law
+
+#### (a) In general
+
+Active service of officers of the Administration shall be deemed to be active military service for the purposes of all rights, privileges, immunities, and benefits under the following:
+
+&emsp;(1) Laws administered by the Secretary of Veterans Affairs.
+
+&emsp;(2) The Soldiers’ and Sailors’ Civil Relief Act of 1940 (50 App. U.S.C. 501 et seq.).
+
+&emsp;(3) Section 410 of title 42, as in effect before September 1, 1950.
+
+#### (b) Exercise of authority
+
+In the administration of the laws and regulations referred to in subsection (a) of this section, with respect to the Administration, the authority vested in the Secretary of Defense and the Secretaries of the military departments and their respective departments shall be exercised by the Secretary of Commerce.
+
+(Pub. L. 107–372, title II, §262, Dec. 19, 2002, 116 Stat. 3092.)
+
+#### References in Text
+
+The Soldiers’ and Sailors’ Civil Relief Act of 1940, referred to in subsec. (a)(2), is act Oct. 17, 1940, ch. 888, 54 Stat. 1178, as amended, which is classified to section 501 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see section 501 of Title 50, Appendix, and Tables.
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in sections 857 and 857–3(a) of this title prior to repeal by Pub. L. 107–372.
+

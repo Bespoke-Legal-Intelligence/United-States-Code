@@ -1,6 +1,6 @@
 ### §1064. Cancellation of registration
 
-A petition to cancel a registration of a mark, stating the grounds relied upon, may, upon payment of the prescribed fee, be filed as follows by any person who believes that he is or will be damaged, including as a result of dilution under section 1125(c) of this title, by the registrationof a mark on the principal register established by this chapter, or under the Act of March 3, 1881, or the Act of February 20, 1905:
+A petition to cancel a registration of a mark, stating the grounds relied upon, may, upon payment of the prescribed fee, be filed as follows by any person who believes that he is or will be damaged, including as a result of dilution under section 1125(c) of this title, by the registration of a mark on the principal register established by this chapter, or under the Act of March 3, 1881, or the Act of February 20, 1905:
 
 &emsp;(1) Within five years from the date of the registration of the mark under this chapter.
 
@@ -44,7 +44,7 @@ Par. (4). Pub. L. 100–667, §115(5), substituted “(4) At” for “(d) at”
 
 Par. (5). Pub. L. 100–667, §115(6), substituted “(5) At” for “(e) at” and redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively.
 
-1984—Par. (c). Pub. L. 98–620 inserted provision that a registered mark shall not be deemed to be the commondescriptive name of goods or services solely because such mark is also used as a name of or to identify a unique product or service, and that the primary significance of the registered mark to the relevant public rather than purchaser motivation shall be the test for determining whether the registered mark has become the common descriptive name of goods or services in connection with which it has been used.
+1984—Par. (c). Pub. L. 98–620 inserted provision that a registered mark shall not be deemed to be the common descriptive name of goods or services solely because such mark is also used as a name of or to identify a unique product or service, and that the primary significance of the registered mark to the relevant public rather than purchaser motivation shall be the test for determining whether the registered mark has become the common descriptive name of goods or services in connection with which it has been used.
 
 1982—Pub. L. 97–247 struck out “verified” before “petition to cancel” in provision preceding par. (a).
 

@@ -22,7 +22,7 @@ Funds available for the purposes of this chapter shall be available for—
 
 &emsp;(3) rental and hire of aircraft;
 
-&emsp;(4) purchase and hire of passenger motor vehicles: <i>Provided</i>, That, except as may otherwise be provided in an appropriation or other Act, passenger motor vehicles for administrative purposes abroad may be purchased for replacement only, and such vehicles may be exchanged or sold and replaced by an equal number of such vehicles, and the cost, including exchange allowance, of each such replacement shall not exceed the applicable cost limitation described in section 2396(a)(5) of this title in the case of an automobile for any Peace Corps country representative appointed under section 2506(c) of this title: <i>Provided further</i>, That the provisions of section 1343 of title 31 shall not apply to the purchase of vehicles for the transportation, maintenance, or direct support of volunteers overseas: <i>Provided further</i>, That passenger motor vehicles may be purchased for use in the United States only as may be specifically provided in an appropriation or other Act;
+&emsp;(4) purchase and hire of passenger motor vehicles: <i>Provided</i>, That, except as may otherwise be provided in an appropriation or other Act, passenger motor vehicles for administrative purposes abroad may be purchased for replacement only, and such vehicles may be exchanged or sold and replaced by an equal number of such vehicles, and the cost, including exchange allowance, of each such replacement shall not exceed the applicable cost limitation described in section 2396(a)(5) of this title in the case of an automobile for any Peace Corps country representative appointed under section 2506(c) of this title: <i>Provided further</i>, That the provisions of section 1343 of title 31 shall not apply to the purchase of vehicles for the transportation, maintenance, or direct support of volunteers overseas: <i>Provided further</i>, That passenger motor vehicles may be purchasedfor use in the United States only as may be specifically provided in an appropriation or other Act;
 
 &emsp;(5) entertainment (not to exceed $5,000 in any fiscal year except as may otherwise be provided in an appropriation or other Act);
 
@@ -42,7 +42,7 @@ Funds available for the purposes of this chapter shall be available for—
 
 &emsp;(13) the transportation of Peace Corps employees, Peace Corps volunteers, dependents of such employees and volunteers, and accompanying baggage, by a foreign air carrier when the transportation is between two places outside the United States without regard to section 40118 of title 49.
 
-(Pub. L. 87–293, title I, §15, Sept. 22, 1961, 75 Stat. 621; Pub. L. 89–134, §7, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, §3, Sept. 13, 1966, 80 Stat. 765; Pub. L. 96–465, title II, §2202(e), Oct. 17, 1980, 94 Stat. 2158; Pub. L. 96–533, title VI, §601(c), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131,1329–145; Pub. L. 106–30, §2(a), (b)(5)–(8), May 21, 1999, 113 Stat. 55, 56.)
+(Pub. L. 87–293, title I, §15, Sept. 22, 1961, 75 Stat. 621; Pub. L. 89–134, §7, Aug. 24, 1965, 79 Stat. 551; Pub. L. 89–572, §3, Sept. 13, 1966, 80 Stat. 765; Pub. L. 96–465, title II, §2202(e), Oct. 17, 1980, 94 Stat. 2158; Pub. L. 96–533, title VI, §601(c), Dec. 16, 1980, 94 Stat. 3155; Pub. L. 100–202, §101(e) \[title II, §201\], Dec. 22, 1987, 101 Stat. 1329–131, 1329–145; Pub. L. 106–30, §2(a), (b)(5)–(8), May 21, 1999, 113 Stat. 55, 56.)
 
 #### References in Text
 

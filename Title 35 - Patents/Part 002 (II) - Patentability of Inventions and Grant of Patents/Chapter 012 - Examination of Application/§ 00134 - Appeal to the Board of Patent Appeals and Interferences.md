@@ -2,17 +2,17 @@
 
 (a)
 
-Patent Applicant.—An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the administrative patent judge to the Board of Patent Appeals and Interferences, having once paid the fee for such appeal.
+Patent Applicant.—An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the primary examiner to the Board of Patent Appealsand Interferences, having once paid the fee for such appeal.
 
 (b)
 
-Patent Owner.—A patent owner in any reexamination proceeding may appeal from the final rejection of any claim by the administrative patent judge to the Board of Patent Appeals and Interferences, having once paid the fee for such appeal.
+Patent Owner.—A patent owner in any reexamination proceeding may appeal from the final rejection of any claim by the primary examiner to the Board of Patent Appeals and Interferences, having once paid the fee for such appeal.
 
 (c)
 
-Third-Party.—A third-party requester in an inter partes proceeding may appeal to the Board of Patent Appeals and Interferences from the final decision of the administrative patent judge favorable to the patentability of any original or proposed amended or new claim of a patent, having once paid the fee for such appeal. The third-party requester may not appeal the decision of the Board of Patent Appeals and Interferences.
+Third-Party.—A third-party requester in an inter partes proceeding may appeal to the Board of Patent Appeals and Interferences from the final decision of the primary examiner favorable to the patentability of any original or proposed amended or new claim of a patent, having once paid the fee for such appeal.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 98–622, title II, §204(b)(1), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4605(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–570.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 98–622, title II, §204(b)(1), Nov. 8, 1984, 98 Stat. 3388; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4605(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–570; Pub. L. 107–273, div. C, title III, §§13106(b), 13202(b)(1), Nov. 2, 2002, 116 Stat. 1901.)
 
 #### Historical and Revision Notes
 
@@ -22,11 +22,23 @@ Reference to reissues is omitted in view of the general provision in section 251
 
 #### Amendments
 
+2002—Subsecs. (a), (b). Pub. L. 107–273, §13202(b)(1), substituted “primary examiner” for “administrative patent judge”.
+
+Subsec. (c). Pub. L. 107–273, §13202(b)(1), substituted “primary examiner” for “administrative patent judge”.
+
+Pub. L. 107–273, §13106(b), struck out at end “The third-party requester may not appeal the decision of the Board of Patent Appeals and Interferences.”
+
 1999—Pub. L. 106–113 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows: “An applicant for a patent, any of whose claims has been twice rejected, may appeal from the decision of the primary examiner to the Board of Patent Appeals and Interferences, having once paid the fee for such appeal.”
 
 1984—Pub. L. 98–622 substituted “Patent Appeals and Interferences” for “Appeals” in section catchline and text.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–273, div. C, title III, §13106(d), Nov. 2, 2002, 116 Stat. 1901, provided that: “The amendments made by this section \[amending this section and sections 141 and 315 of this title\] apply with respect to any reexamination proceeding commenced on or after the date of enactment of this Act \[Nov. 2, 2002\].”
+
 #### Effective Date of 1999 Amendment
+
+Pub. L. 107–273, div. C, title III, §13202(d), Nov. 2, 2002, 116 Stat. 1902, provided that: “The amendments made by section 4605(b), (c), and (e) of the Intellectual Property and Communications Omnibus Reform Act, as enacted by section 1000(a)(9) of Public Law 106–113 \[amending this section and sections 141 and 145 of this title\], shall apply to any reexamination filed in the United States Patent and Trademark Office on or after the date of enactment of Public Law 106–113 \[Nov. 29, 1999\].”
 
 Amendment by Pub. L. 106–113 effective Nov. 29, 1999, and applicable to any patent issuing from an original application filed in the United States on or after that date, see section 1000(a)(9) \[title IV, §4608(a)\] of Pub. L. 106–113, set out as a note under section 41 of this title.
 

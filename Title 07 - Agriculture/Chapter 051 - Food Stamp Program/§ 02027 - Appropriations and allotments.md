@@ -2,9 +2,9 @@
 
 #### (a) Authorization of allotments; monthly reports of expenditures to Congressional committees; restriction on use of funds; nutrition education improvements
 
-(1) To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of the fiscal years 1996 through 2002. Not to exceed one-fourth of 1 per centum of the previous year's appropriation is authorized in each such fiscal year to carry out the provisions of section 2026 of this title, subject to paragraph (3).
+(1) To carry out this chapter, there are authorized to be appropriated such sums as are necessary for each of the fiscal years 2003 through 2007. Not to exceed one-fourth of 1 per centum of the previous year's appropriation is authorized in each such fiscal year to carry out the provisions of section 2026 of this title, subject to paragraph (3).
 
-(2) No funds authorized to be appropriated under this chapter or any other Act of Congress shall be used by any person, firm, corporation, group, or organization at any time, directly or indirectly, to interfere with or impede the implementation of any provision of this chapter or any rule, regulation, or project thereunder, except that this limitation shall not apply to theprovision of legal and related assistance in connection with any proceeding or action before any State or Federal agency or court. The President shall ensure that this paragraph is complied with by such order or other means as the President deems appropriate.
+(2) No funds authorized to be appropriated under this chapter or any other Act of Congress shall be used by any person, firm, corporation, group, or organization at any time, directly or indirectly, to interfere with or impede the implementation of any provision of this chapter or any rule, regulation, or project thereunder, except that this limitation shall not apply to the provision of legal and related assistance in connection with any proceeding or action before any State or Federal agency or court. The President shall ensure that this paragraph is complied with by such order or other means as the President deems appropriate.
 
 (3)(A) Of the amounts made available under the second sentence of paragraph (1), not more than $2,000,000 in any fiscal year may be used by the Secretary to make 2-year competitive grants that will—
 
@@ -28,21 +28,25 @@ In prescribing the manner in which allotments will be reduced under subsection (
 
 #### (d) Requisite action by Secretary to reduce allotments; statement to Congressional committees
 
-Not later than sixty days after the issuance of a report under subsection (a) of this section in which the Secretary expresses the belief that reductions in the value of allotments to be issued to households certified to participate in the food stamp program will be necessary, the Secretary shall take the requisite action to reduce allotments in accordance with the requirements of this section. Not later than seven days after the Secretary takes any action to reduce allotments under this section, the Secretary shall furnish the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a statement setting forth (1) the basis of the Secretary's determination, (2) the manner in which the allotments will be reduced, and (3) the action that has been taken by the Secretary to reduce the allotments.
+Not later than sixty days after the issuance of a report under subsection (a) of this section in which the Secretary expresses the belief that reductions in the value of allotments to be issued to households certified to participate in the food stamp program will be necessary, the Secretary shall take the requisite action to reduce allotments in accordance with the requirements of this section. Not later than seven days after theSecretary takes any action to reduce allotments under this section, the Secretary shall furnish the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate a statement setting forth (1) the basis of the Secretary's determination, (2) the manner in which the allotments will be reduced, and (3) the action that has been taken by the Secretary to reduce the allotments.
 
 #### (e) Disposition of funds collected pursuant to claims
 
-Funds collected from claims against households or State agencies, including claims collected pursuant to sections 2016(f), 2020(g) and (h), and subsections (b) and (c) of section 2022 of this title, claims resulting from resolution of audit findings, and claims collected from households receiving overissuances, shall be credited to the food stamp program appropriation account for the fiscal year in which the collection occurs. Funds provided to State agencies under section 2025(c) of this title shall be paid from the appropriation account for the fiscal year in which the funds are provided.
+Funds collected from claims against households or State agencies, including claims collected pursuant to sections <sup>1</sup> 2016(f) of this title, subsections (g) and (h) of section 2020 of this title, subsections (b) and (c) of section 2022 of this title, and section 2025(c)(1) of this title, claims resulting from resolution of audit findings, and claims collected from households receiving overissuances, shall be credited to the food stamp program appropriation account for the fiscal year in which the collection occurs. Funds provided to State agencies under section 2025(c) of this title shall be paid from the appropriation account for the fiscal year in which the funds are provided.
 
 #### (f) Transfer of funds
 
 No funds appropriated to carry out this chapter may be transferred to the Office of the Inspector General, or the Office of the General Counsel, of the Department of Agriculture.
 
-(Pub. L. 88–525, §18, as added Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 979; amended Pub. L. 96–58, §1, Aug. 14, 1979, 93 Stat. 389; Pub. L. 96–249, title I, §134, title II, §201, May 26, 1980, 94 Stat. 368, 370; Pub. L. 97–18, §1, June 30, 1981, 95 Stat. 102; Pub. L. 97–98, title XIII, §§1331, 1332, Dec. 22, 1981, 95 Stat. 1291; Pub. L. 97–253, title I, §§180(b)(2), 183, Sept. 8, 1982, 96 Stat. 784, 785; Pub. L. 99–198, title XV, §§1535(c)(2), 1541, 1542(a), Dec. 23, 1985, 99 Stat. 1585, 1589; Pub. L. 101–624, title XVII, §§1760, 1761, Nov. 28, 1990, 104 Stat. 3803, 3804; Pub. L. 104–127, title IV, §401(e), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §853, Aug. 22, 1996, 110 Stat. 2339; Pub. L. 105–362, title I, §101(b), Nov. 10, 1998, 112 Stat. 3281.)
+(Pub. L. 88–525, §18, as added Pub. L. 95–113, title XIII, §1301, Sept. 29, 1977, 91 Stat. 979; amended Pub. L. 96–58, §1, Aug. 14, 1979, 93 Stat. 389; Pub. L. 96–249, title I, §134, title II, §201, May 26, 1980, 94 Stat. 368, 370; Pub. L. 97–18, §1, June 30, 1981, 95 Stat. 102; Pub. L. 97–98, title XIII, §§1331, 1332, Dec. 22, 1981, 95 Stat. 1291; Pub. L. 97–253, title I, §§180(b)(2), 183, Sept. 8, 1982, 96 Stat. 784, 785; Pub. L. 99–198, title XV, §§1535(c)(2), 1541, 1542(a), Dec. 23, 1985, 99 Stat. 1585, 1589; Pub. L. 101–624, title XVII, §§1760, 1761, Nov. 28, 1990, 104 Stat. 3803, 3804; Pub. L. 104–127, title IV, §401(e), Apr. 4, 1996, 110 Stat. 1026; Pub. L. 104–193, title VIII, §853, Aug. 22, 1996, 110 Stat. 2339; Pub. L. 105–362, title I, §101(b), Nov. 10, 1998, 112 Stat. 3281; Pub. L. 107–171, title IV, §§4118(c), 4122(c), May 13, 2002, 116 Stat. 321, 324.)
 
 #### Amendments
 
-1998—Subsec. (a)(1). Pub. L. 105–362 struck out at end “The Secretary shall, by the fifteenth day of each month, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate setting forth the Secretary's best estimate of the second preceding month's expenditure, including administrative costs, as well as the cumulative totals for the fiscal year. In each monthly report, the Secretary shall also state whether there is reason to believe that supplemental appropriations will be neededto support the operation of the program through the end of the fiscal year.”
+2002—Subsec. (a)(1). Pub. L. 107–171, §4122(c), substituted “2003 through 2007” for “1996 through 2002”.
+
+Subsec. (e). Pub. L. 107–171, §4118(c), substituted “subsections (g) and (h) of section 2020 of this title,” for “2020(g) and (h), and” and inserted “and section 2025(c)(1) of this title,” after “section 2022 of this title,”.
+
+1998—Subsec. (a)(1). Pub. L. 105–362 struck out at end “The Secretary shall, by the fifteenth day of each month, submit a report to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate setting forth the Secretary's best estimate of the second preceding month's expenditure, including administrative costs, as well as the cumulative totals for the fiscal year. In each monthly report, the Secretary shall also state whether there is reason to believe that supplemental appropriations will be needed to support the operation of the program through the end of the fiscal year.”
 
 1996—Subsec. (a)(1). Pub. L. 104–193 substituted “1996 through 2002” for “1991 through 1997” in first sentence.
 
@@ -82,6 +86,12 @@ Subsec. (b). Pub. L. 96–58, §1(3), substituted “Notwithstanding any other p
 
 Subsecs. (c), (d). Pub. L. 96–58, §1(4), added subsecs. (c) and (d).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by section 4118(c) of Pub. L. 107–171 not applicable with respect to any sanction, appeal, new investment agreement, or other action by the Secretary of Agriculture or a State agency that is based on a payment error rate calculated for any fiscal year before fiscal year 2003, see section 4118(e) of Pub. L. 107–171, set out as a note under section 2022 of this title.
+
+Amendment by section 4122(c) of Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
+
 #### Effective Date of 1990 Amendment
 
 Amendment by sections 1760(1)(A) and 1761 of Pub. L. 101–624 effective Oct. 1, 1990, and amendment by section 1760(1)(B), (2) of Pub. L. 101–624 effective Nov. 28, 1990, see section 1781(b)(1), (2) of Pub. L. 101–624, set out as a note under section 2012 of this title.
@@ -112,5 +122,7 @@ Amounts available to carry out food stamp program under this section to be reduc
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2013, 2025, 2030 of this title.
+This section is referred to in sections 2013, 2020, 2025, 2030 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “section”.</i>
 

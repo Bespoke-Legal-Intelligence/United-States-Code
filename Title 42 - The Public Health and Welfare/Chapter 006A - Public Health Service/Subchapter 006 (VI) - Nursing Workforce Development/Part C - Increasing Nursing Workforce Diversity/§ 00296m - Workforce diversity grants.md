@@ -16,7 +16,7 @@ In carrying out subsection (a) of this section, the Secretary shall take into co
 
 #### (2) Falling rates
 
-&emsp;If any of the rates reported under paragraph (1) fall below the average of the two previousyears, the grant or contract recipient shall provide the Secretary with plans for immediately improving such rates.
+&emsp;If any of the rates reported under paragraph (1) fall below the average of the two previous years, the grant or contract recipient shall provide the Secretary with plans for immediately improving such rates.
 
 #### (3) Ineligibility
 

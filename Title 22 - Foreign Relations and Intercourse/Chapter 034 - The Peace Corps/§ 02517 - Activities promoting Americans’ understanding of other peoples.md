@@ -6,7 +6,7 @@ In order to further the goal of the Peace Corps, as set forth in section 2501 of
 
 #### Prior Provisions
 
-A prior section 2517, Pub. L. 87–293, title I, §18, Sept. 22, 1961, 75 Stat. 623, provided that Mutual Defense Assistance Control Act of 1951 (22 U.S.C. 1611 et seq.) applied, subject to an exception, to functions carried out under this chapter, prior to repeal by Pub. L. 97–113, title VI, §605(b), Dec. 29, 1981, 95 Stat. 1543. The 1951 Act was superseded by the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).
+A prior section 2517, Pub. L. 87–293, title I, §18, Sept. 22, 1961, 75 Stat. 623, provided that Mutual Defense Assistance Control Act of 1951 (22 U.S.C. 1611 et seq.) applied, subject to an exception, to functions carried outunder this chapter, prior to repeal by Pub. L. 97–113, title VI, §605(b), Dec. 29, 1981, 95 Stat. 1543. The 1951 Act was superseded by the Export Administration Act of 1979 (50 U.S.C. App. 2401 et seq.).
 
 #### Paul D. Coverdell World Wise Schools Program
 
@@ -44,7 +44,7 @@ In General.—Effective on the date of enactment of this Act \[Dec. 27, 2000\], 
 
 “(b)
 
-References.—Any reference before the date of enactment of this Act \[Dec. 27, 2000\] in any law, regulation, order, document, record, or other paper of theUnited States to the Peace Corps World Wise Schools Program shall, on and after such date, be considered to refer to the Paul D. Coverdell World Wise Schools Program.
+References.—Any reference before the date of enactment of this Act \[Dec. 27, 2000\] in any law, regulation, order, document, record, or other paper of the United States to the Peace Corps World Wise Schools Program shall, on and after such date, be considered to refer to the Paul D. Coverdell World Wise Schools Program.
 
 “(c)
 

@@ -56,7 +56,7 @@
 
 (5) Criminal justice agencies shall accept and respond to requests for criminal history record information through such systems with printed or photocopied records when requested.
 
-(f) The authority provided under this section with respect to the Department of State may be exercised only so long as the Department of State continues to extend to its employees and applicants for employment, at a minimum, those procedural safeguards provided for as part of the security clearance process that were made available, as of May 1, 1987, pursuant to section 163.4 of volume 3 of the Foreign Affairs Manual.
+(f) The authority provided under this section with respect to the Department of State may beexercised only so long as the Department of State continues to extend to its employees and applicants for employment, at a minimum, those procedural safeguards provided for as part of the security clearance process that were made available, as of May 1, 1987, pursuant to section 163.4 of volume 3 of the Foreign Affairs Manual.
 
 (Added Pub. L. 99–169, title VIII, §801(a), Dec. 4, 1985, 99 Stat. 1009; amended Pub. L. 99–569, title IV, §402(a), Oct. 27, 1986, 100 Stat. 3196; Pub. L. 101–246, title I, §114, Feb. 16, 1990, 104 Stat. 22; Pub. L. 106–398, §1 \[\[div. A\], title X, §1076(a)–(e), (f)(2)(A)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–280 to 1654A–282.)
 

@@ -28,7 +28,7 @@ Sec. 2. <i>Definitions.</i>
 
 2–203. The Attorney General is authorized to make a final determination as to whether a program falls within the scope of education and training programs and activities covered by this order, under subsection 2–202, or is excluded from coverage, under section 3.
 
-2–204. “Military education or training programs” are those education and training programs conducted by the Department of Defense or, where the Coast Guardis concerned, the Department of Transportation, for the primary purpose of educating or training members of the armed forces or meeting a statutory requirement to educate or train Federal, State, or local civilian law enforcement officials pursuant to 10 U.S.C. Chapter 18.
+2–204. “Military education or training programs” are those education and training programs conducted by the Department of Defense or, where the Coast Guard is concerned, the Department of Transportation, for the primary purpose of educating or training members of the armed forces or meeting a statutory requirement to educate or train Federal, State, or local civilian law enforcement officials pursuant to 10 U.S.C. Chapter 18.
 
 2–205. “Armed Forces” means the Armed Forces of the United States.
 
@@ -100,7 +100,7 @@ Sec. 5. <i>Implementation and Agency Responsibilities.</i>
 
 Sec. 6. <i>Reporting Requirements.</i>
 
-6–601. Consistent with the regulations, rules, policies, or guidance issued by the Attorney General, each executive department and agency shall submit to the Attorney General a report that summarizes the number and nature of complaints filed with the agency and the disposition of such complaints. For the first 3 years after the date of this order, such reports shall be submitted annually within 90 days of the end of the precedingyear's activities. Subsequent reports shall be submitted every 3 years and within 90 days of the end of each 3-year period.
+6–601. Consistent with the regulations, rules, policies, or guidance issued by the Attorney General, each executive department and agency shall submit to the Attorney General a report that summarizes the number and nature of complaints filed with the agency and the disposition of such complaints. For the first 3 years after the date of this order, such reports shall be submitted annually within 90 days of the end of the preceding year's activities. Subsequent reports shall be submitted every 3 years and within 90 days of the end of each 3-year period.
 
 Sec. 7. <i>General Provisions.</i>
 

@@ -44,7 +44,7 @@ Findings.—Congress makes the following findings:
 
 &emsp;“(6) The economic security of the countries in the Caribbean Basin will be enhanced by the completion of the FTAA.
 
-&emsp;“(7) Offering temporary benefits to Caribbean Basin countries will preserve the United States commitment to Caribbean Basin beneficiary countries, promote the growth of free enterprise and economic opportunity in these neighboring countries, and thereby enhance the national security interests of the United States.
+&emsp;“(7) Offering temporary benefits to Caribbean Basin countries will preserve the United States commitment to Caribbean Basin beneficiary countries, promote the growth of free enterprise and economic opportunity in these neighboring countries, and therebyenhance the national security interests of the United States.
 
 &emsp;“(8) Given the greater propensity of countries located in the Western Hemisphere to use United States components and to purchase United States products compared to other countries, increased trade and economic activity between the United States and countries in the Western Hemisphere will create new jobs in the United States as a result of expanding export opportunities.
 
@@ -62,7 +62,7 @@ Pub. L. 106–200, title II, §213, May 18, 2000, 114 Stat. 288, provided that:
 
 “(a)
 
-Schedule of Meetings.—The President shall take the necessary steps to convene a meeting with the trade ministers of the CBTPA beneficiary countries in order to establish a schedule of regular meetings, tocommence as soon as is practicable, of the trade ministers and the Trade Representative, for the purpose set forth in subsection (b).
+Schedule of Meetings.—The President shall take the necessary steps to convene a meeting with the trade ministers of the CBTPA beneficiary countries in order to establish a schedule of regular meetings, to commence as soon as is practicable, of the trade ministers and the Trade Representative, for the purpose set forth in subsection (b).
 
 “(b)
 

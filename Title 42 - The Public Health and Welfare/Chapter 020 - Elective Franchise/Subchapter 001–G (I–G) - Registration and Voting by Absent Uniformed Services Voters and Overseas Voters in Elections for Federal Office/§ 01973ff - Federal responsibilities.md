@@ -8,7 +8,7 @@ The President shall designate the head of an executive department to have primar
 
 The Presidential designee shall—
 
-&emsp;(1) consult State and local election officials in carrying out this subchapter;
+&emsp;(1) consult State and local election officials in carrying out this subchapter, and ensure that such officials are aware of the requirements of this Act;
 
 &emsp;(2) prescribe an official post card form, containing both an absentee voter registration application and an absentee ballot application, for use by the States as required under section 1973ff–1(4) of this title;
 
@@ -16,9 +16,11 @@ The Presidential designee shall—
 
 &emsp;(4) prescribe a suggested design for absentee ballot mailing envelopes for use by the States as recommended in section 1973ff–3 <sup>1</sup> of this title;
 
-&emsp;(5) compile and distribute (A) descriptive material on State absentee registration and voting procedures, and (B) to the extent practicable, facts relating to specific elections, including dates, offices involved, and the text of ballot questions; and
+&emsp;(5) compile and distribute (A) descriptive material on State absentee registration and voting procedures, and (B) to the extent practicable, facts relating to specific elections, including dates, offices involved, and the text of ballot questions;
 
-&emsp;(6) not later than the end of each year after a Presidential election year, transmit to the President and the Congress a report on the effectiveness of assistance under this subchapter, including a statistical analysis of uniformed services voter participation, a general assessment of overseas nonmilitary participation, and a description of State-Federal cooperation.
+&emsp;(6) not later than the end of each year after a Presidential election year, transmit to the President and the Congress a report on the effectiveness of assistance under this subchapter, including a statistical analysis of uniformed services voter participation, a separate statistical analysis of overseas nonmilitary participation, and a description of State-Federal cooperation; and
+
+&emsp;(7) prescribe a standard oath for use with any document under this subchapter affirming that a material misstatement of fact in the completion of such a document may constitute grounds for a conviction for perjury.
 
 #### (c) Duties of other Federal officials
 
@@ -30,13 +32,21 @@ The Presidential designee shall—
 
 &emsp;As directed by the Presidential designee, the Administrator of General Services shall furnish official post card forms (prescribed under subsection (b) of this section) and Federal write-in absentee ballots (prescribed under section 1973ff–2 of this title).
 
-(Pub. L. 99–410, title I, §101, Aug. 28, 1986, 100 Stat. 924; Pub. L. 105–277, div. G, title XXII, §2219(c), Oct. 21, 1998, 112 Stat. 2681–817; Pub. L. 107–107, div. A, title XVI, §1606(a)(2), Dec. 28, 2001, 115 Stat. 1279.)
+(Pub. L. 99–410, title I, §101, Aug. 28, 1986, 100 Stat. 924; Pub. L. 105–277, div. G, title XXII, §2219(c), Oct. 21, 1998, 112 Stat. 2681–817; Pub. L. 107–107, div. A, title XVI, §1606(a)(2), Dec. 28, 2001, 115 Stat. 1279; Pub. L. 107–252, title VII, §705(a), (b)(1), (c), Oct. 29, 2002, 116 Stat. 1724, 1725.)
 
 #### References in Text
+
+This Act, referred to in subsec. (b)(1), is Pub. L. 99–410, Aug. 28, 1986, 100 Stat. 924, as amended, known as the Uniformed and Overseas Citizens Absentee Voting Act, which is classified principally to this subchapter. For complete classification of this Act to the Code, see Short Title of 1986 Amendment note set out under section 1971 of this title and Tables.
 
 Section 1973ff–3 of this title, referred to in subsec. (b)(4), was amended generally by Pub. L. 107–107, div. A, title XVI, §1606(b), Dec. 28, 2001, 115 Stat. 1279, and, as so amended, no longer contains provisions relating to designs for absentee ballot mailing envelopes.
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–252, §705(a), inserted “, and ensure that such officials are aware of the requirements of this Act” before semicolon at end.
+
+Subsec. (b)(6). Pub. L. 107–252, §705(c), substituted “a separate statistical analysis” for “a general assessment”.
+
+Subsec. (b)(7). Pub. L. 107–252, §705(b)(1), added par. (7).
 
 2001—Subsec. (b)(2). Pub. L. 107–107 substituted “as required under section 1973ff–1(4) of this title” for “as recommended in section 1973ff–3 of this title”.
 
@@ -44,7 +54,7 @@ Section 1973ff–3 of this title, referred to in subsec. (b)(4), was amended gen
 
 #### Effective Date
 
-Section 204 of Pub. L. 99–410 provided that: “The amendments and repeals made by this Act \[see Short Title note below\] shall apply with respect to elections taking place after December 31, 1987.”
+Section 204 of Pub. L. 99–410 provided that: “The amendments and repeals made by this Act \[see Short Title of 1986 Amendment note set out under section 1971 of this title\] shall apply with respect to elections taking place after December 31, 1987.”
 
 #### Sense of Congress Regarding the Importance of Voting
 

@@ -1,10 +1,40 @@
 ### §77s. Special powers of Commission
 
-(a) The Commission shall have authority from time to time to make, amend, and rescind such rules and regulations as may be necessary to carry out the provisions of this subchapter, including rules and regulations governing registration statements and prospectuses for various classes of securities and issuers, and defining accounting, technical, and trade terms used in this subchapter. Among other things, the Commission shall have authority, for the purposes of this subchapter, to prescribe the form or forms in which required information shall be set forth, the items or details to be shown in the balance sheet and earning statement, and the methods to be followed in the preparation of accounts, in the appraisal or valuation of assets and liabilities, in the determination of depreciation and depletion, in the differentiation of recurring and nonrecurring income, in the differentiation of investment and operating income, and in the preparation, where the Commission deems it necessary or desirable, of consolidated balance sheets or income accounts of any person directly or indirectly controlling or controlled by the issuer, or any person under direct or indirect common control with the issuer. The rules and regulations of the Commission shall be effective upon publication in the manner which the Commission shall prescribe. No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule or regulation of the Commission, notwithstanding that such rule or regulation may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
+#### (a) Rules and regulations
 
-(b) For the purpose of all investigations which, in the opinion of the Commission, are necessary and proper for the enforcement of this subchapter, any member of the Commission or any officer or officers designated by it are empowered to administer oaths and affirmations, subpena witnesses, take evidence, and require the production of any books, papers, or other documents which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of such documentary evidence may be required from any place in the United States or any Territory at any designated place of hearing.
+The Commission shall have authority from time to time to make, amend, and rescind such rules and regulations as may be necessary to carry out the provisions of this subchapter, including rules and regulations governing registration statements and prospectuses for various classes of securities and issuers, and defining accounting, technical, and trade terms used in this subchapter. Among other things, the Commission shall have authority, for the purposes of this subchapter, to prescribe the form or forms in which required information shall be set forth, the items or details to be shown in the balance sheet and earning statement, and the methods to be followed in the preparation of accounts, in the appraisal or valuation of assets and liabilities, in the determination of depreciation and depletion, in the differentiation of recurring and nonrecurring income, in the differentiation of investment and operating income, and in the preparation, where the Commission deems it necessary or desirable, of consolidated balance sheets or income accounts of any person directly or indirectly controlling or controlled by the issuer, or any person under direct or indirect common control with the issuer. The rules and regulations of the Commission shall be effective upon publication in the manner which the Commission shall prescribe. No provision of this subchapter imposing any liability shall apply to any act done or omitted in good faith in conformity with any rule or regulation of the Commission, notwithstanding that such rule or regulation may, after such act or omission, be amended or rescinded or be determined by judicial or other authority to be invalid for any reason.
 
-(c)(1) The Commission is authorized to cooperate with any association composed of duly constituted representatives of State governments whose primary assignment is the regulation of the securities business within those States, and which, in the judgment of the Commission, could assist in effectuating greater uniformity in Federal-State securities matters. The Commission shall, at its discretion, cooperate, coordinate, and share information with such an association for the purposes of carrying out the policies and projects set forth in paragraphs (2) and (3).
+#### (b) Recognition of accounting standards
+
+#### (1) In general
+
+&emsp;In carrying out its authority under subsection (a) of this section and under section 78m(b) of this title, the Commission may recognize, as “generally accepted” for purposes of the securities laws, any accounting principles established by a standard setting body—
+
+&emsp;&emsp;(A) that—
+
+&emsp;&emsp;&emsp;(i) is organized as a private entity;
+
+&emsp;&emsp;&emsp;(ii) has, for administrative and operational purposes, a board of trustees (or equivalent body) serving in the public interest, the majority of whom are not, concurrent with their service on such board, and have not been during the 2-year period preceding such service, associated persons of any registered public accounting firm;
+
+&emsp;&emsp;&emsp;(iii) is funded as provided in section 7219 of this title;
+
+&emsp;&emsp;&emsp;(iv) has adopted procedures to ensure prompt consideration, by majority vote of its members, of changes to accounting principles necessary to reflect emerging accounting issues and changing business practices; and
+
+&emsp;&emsp;&emsp;(v) considers, in adopting accounting principles, the need to keep standards current in order to reflect changes in the business environment, the extent to which international convergence on high quality accounting standards is necessary or appropriate in the public interest and for the protection of investors; and
+
+&emsp;&emsp;(B) that the Commission determines has the capacity to assist the Commission in fulfilling the requirements of subsection (a) of this section and section 78m(b) of this title, because, at a minimum, the standard setting body is capable of improving the accuracy and effectiveness of financial reporting and the protection of investors under the securities laws.
+
+#### (2) Annual report
+
+&emsp;A standard setting body described in paragraph (1) shall submit an annual report to the Commission and the public, containing audited financial statements of that standard setting body.
+
+#### (c) Production of evidence
+
+For the purpose of all investigations which, in the opinion of the Commission, are necessary and proper for the enforcement of this subchapter, any member of the Commission or any officer or officers designated by it are empowered to administer oaths and affirmations, subpena witnesses, take evidence, and require the production of any books, papers, or other documents which the Commission deems relevant or material to the inquiry. Such attendance of witnesses and the production of such documentary evidence may be required from any place in the United States or any Territory at any designated place of hearing.
+
+#### (d) Federal and State cooperation
+
+(1) The Commission is authorized to cooperate with any association composed of duly constituted representatives of State governments whose primary assignment is the regulation of the securities business within those States, and which, in the judgment of the Commission, could assist in effectuating greater uniformity in Federal-State securities matters. The Commission shall, at its discretion, cooperate, coordinate, and share information with such an association for the purposes of carrying out the policies and projects set forth in paragraphs (2) and (3).
 
 (2) It is the declared policy of this subsection that there should be greater Federal and State cooperation in securities matters, including—
 
@@ -36,9 +66,11 @@
 
 > As used in this paragraph, the terms “association”, “conference”, “meeting”, “forum”, “agency”, “organization”, and “group” include any committee, subgroup, or representative of such entities.
 
-(May 27, 1933, ch. 38, title I, §19, 48 Stat. 85; June 6, 1934, ch. 404, title II, §209, 48 Stat. 908; Pub. L. 94–210, title III, §308(a)(2), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title V, §505, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 100–181, title II, §207, Dec. 4, 1987, 101 Stat. 1252.)
+(May 27, 1933, ch. 38, title I, §19, 48 Stat. 85; June 6, 1934, ch. 404, title II, §209, 48 Stat. 908; Pub. L. 94–210, title III, §308(a)(2), Feb. 5, 1976, 90 Stat. 57; Pub. L. 96–477, title V, §505, Oct. 21, 1980, 94 Stat. 2292; Pub. L. 100–181, title II, §207, Dec. 4, 1987, 101 Stat. 1252; Pub. L. 107–204, title I, §108(a), July 30, 2002, 116 Stat. 768.)
 
 #### Amendments
+
+2002—Subsecs. (b) to (d). Pub. L. 107–204 added subsec. (b) and redesignated former subsecs. (b) and (c) as (c) and (d), respectively.
 
 1987—Subsec. (c)(6). Pub. L. 100–181 added par. (6).
 
@@ -62,5 +94,5 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 78u of this title.
+This section is referred to in sections 78u, 7201, 7218, 7219 of this title.
 

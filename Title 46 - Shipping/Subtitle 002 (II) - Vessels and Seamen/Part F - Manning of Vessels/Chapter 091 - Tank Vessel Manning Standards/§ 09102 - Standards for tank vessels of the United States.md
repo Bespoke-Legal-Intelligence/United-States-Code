@@ -2,7 +2,7 @@
 
 (a) The Secretary shall prescribe standards for the manning of each vessel of the United States to which chapter 37 of this title applies, related to the duties, qualifications, and training of the officers and crew of the vessel, including standards related to—
 
-&emsp;(1) instruction in vessel and cargo handling and vessel navigation under normal operating conditions in coastal and confined waters and on the high seas;
+&emsp;(1) instruction in vessel and cargo handling and vessel navigation under normal operatingconditions in coastal and confined waters and on the high seas;
 
 &emsp;(2) instruction in vessel and cargo handling and vessel navigation in emergency situations and under marine casualty or potential casualty conditions;
 

@@ -66,7 +66,7 @@ General performance standards shall be applicable to all surface coal mining and
 
 &emsp;&emsp;(E) avoiding channel deepening or enlargement in operations requiring the discharge of water from mines;
 
-&emsp;&emsp;(F) preserving throughout the mining and reclamation process the essential hydrologic functions of alluvial valley floors in the arid and semiarid areas of the country; and
+&emsp;&emsp;(F) preserving throughout the mining and reclamation process the essential hydrologicfunctions of alluvial valley floors in the arid and semiarid areas of the country; and
 
 &emsp;&emsp;(G) such other actions as the regulatory authority may prescribe;
 
@@ -224,7 +224,7 @@ The following performance standards shall be applicable to steep-slope surface c
 
 (C) after approval of the appropriate State environmental agencies, the watershed of the affected land is deemed to be improved.
 
-(4) In granting a variance pursuant to this subsection the regulatory authority shall requirethat only such amount of spoil will be placed off the mine bench as is necessary to achieve the planned postmining land use, insure stability of the spoil retained on the bench, meet all other requirements of this chapter, and all spoil placement off the mine bench must comply with subsection (b)(22) of this section.
+(4) In granting a variance pursuant to this subsection the regulatory authority shall require that only such amount of spoil will be placed off the mine bench as is necessary to achieve the planned postmining land use, insure stability of the spoil retained on the bench, meet all other requirements of this chapter, and all spoil placement off the mine bench must comply with subsection (b)(22) of this section.
 
 (5) The regulatory authority shall promulgate specific regulations to govern the granting of variances in accord with the provisions of this subsection, and may impose such additional requirements as he deems to be necessary.
 

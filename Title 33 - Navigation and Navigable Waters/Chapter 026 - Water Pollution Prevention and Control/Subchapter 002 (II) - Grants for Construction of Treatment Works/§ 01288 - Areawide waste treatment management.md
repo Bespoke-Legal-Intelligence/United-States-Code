@@ -34,7 +34,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;&emsp;(i) implement the waste treatment management requirements of section 1281(c) of this title,
 
-&emsp;&emsp;(ii) regulate the location, modification, and construction of any facilities withinsuch area which may result in any discharge in such area, and
+&emsp;&emsp;(ii) regulate the location, modification, and construction of any facilities within such area which may result in any discharge in such area, and
 
 &emsp;&emsp;(iii) assure that any industrial or commercial wastes discharged into any treatment works in such area meet applicable pretreatment requirements;
 
@@ -62,7 +62,7 @@ For the purpose of encouraging and facilitating the development and implementati
 
 &emsp;(i) A consultation process which includes the State agency with primary jurisdiction over fish and wildlife resources.
 
-&emsp;(ii) A process to identify and manage the discharge or other placement of dredged or fill material which adversely affects navigable waters, which shall complement and be coordinated with a State program under section 1344 of this title conducted pursuant to this chapter.
+&emsp;(ii) A process to identify and manage the discharge or other placement of dredged or fillmaterial which adversely affects navigable waters, which shall complement and be coordinated with a State program under section 1344 of this title conducted pursuant to this chapter.
 
 &emsp;(iii) A process to assure that any activity conducted pursuant to a best management practice will comply with the guidelines established under section 1344(b)(1) of this title, and sections 1317 and 1343 of this title.
 
@@ -128,7 +128,7 @@ The Administrator is authorized, upon request of the Governor or the designated 
 
 (1) The Secretary of the Army, acting through the Chief of Engineers, in cooperation with the Administrator is authorized and directed, upon request of the Governor or the designated planning organization, to consult with, and provide technical assistance to, any agency designed <sup>1</sup> under subsection (a) of this section in developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section.
 
-(2) There is authorized to be appropriated to the Secretary of the Army, to carry out this subsection, not to exceed $50,000,000 per fiscalyear for the fiscal years ending June 30, 1973, and June 30, 1974.
+(2) There is authorized to be appropriated to the Secretary of the Army, to carry out this subsection, not to exceed $50,000,000 per fiscal year for the fiscal years ending June 30, 1973, and June 30, 1974.
 
 #### (i) State best management practices program
 
@@ -148,7 +148,7 @@ The Administrator is authorized, upon request of the Governor or the designated 
 
 &emsp;(iv) not to adopt any practice specified by the Secretary on the advice of the Administrator in the contract as a practice which would tend to defeat the purposes of the contract;
 
-&emsp;(v) to such additional provisions as the Secretary determines are desirable and includes in the contract to effectuate the purposes of the program or to facilitate the practical administration of the program.
+&emsp;(v) to such additional provisions as the Secretary determines are desirable and includesin the contract to effectuate the purposes of the program or to facilitate the practical administration of the program.
 
 (2) In return for such agreement by the landowner or operator the Secretary shall agree to provide technical assistance and share the cost of carrying out those conservation practices and measures set forth in the contract for which he determines that cost sharing is appropriate and in the public interest and which are approved for cost sharing by the agency designated to implement the plan developed under subsection (b) of this section. The portion of such cost (including labor) to be shared shall be that part which the Secretary determines is necessary and appropriate to effectuate the installation of the water quality management practices and measures under the contract, but not to exceed 50 per centum of the total cost of the measures set forth in the contract; except the Secretary may increase the matching cost share where he determines that (1) the main benefits to be derived from the measures are related to improving offsite water quality, and (2) the matching share requirement would place a burden on the landowner which would probably prevent him from participating in the program.
 
@@ -190,7 +190,7 @@ Subsec. (b)(2)(F). Pub. L. 95–217, §33(a), substituted “sources of pollutio
 
 Subsec. (b)(4). Pub. L. 95–217, §34(a), designated existing provisions as subpar. (A), substituted “to the Administrator for approval for application to a class or category of activity throughout such State” for “to the Administrator for application to all regions within such State”, and added subpars. (B) to (D).
 
-Subsec. (f)(2). Pub. L. 95–217, §31(b), substituted “For the two-year period beginning on the date the first grant is made under paragraph (1) of this subsection to an agency, if such first grant is made before October 1, 1977, the amount of each such grant to such agency shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section, and thereafter the amount granted to such agency shall not exceed 75 per centum of such costs in each succeeding one-year period” for “The amount granted to any agency under paragraph (1) of this subsection shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section for each of the fiscal years ending on June 30, 1973, June 30, 1974, and June 30, 1975, and shall not exceed 75 per centum of such costs in each succeeding fiscal year” and inserted “In the case of any other grant made to an agency under such paragraph (1) of this subsection, the amount of such grant shall not exceed 75 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process in any year.”
+Subsec. (f)(2). Pub. L. 95–217, §31(b), substituted “For the two-year period beginning on the date the first grant is made under paragraph (1) of this subsection to an agency, if such first grant is made before October 1,1977, the amount of each such grant to such agency shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section, and thereafter the amount granted to such agency shall not exceed 75 per centum of such costs in each succeeding one-year period” for “The amount granted to any agency under paragraph (1) of this subsection shall be 100 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process under subsection (b) of this section for each of the fiscal years ending on June 30, 1973, June 30, 1974, and June 30, 1975, and shall not exceed 75 per centum of such costs in each succeeding fiscal year” and inserted “In the case of any other grant made to an agency under such paragraph (1) of this subsection, the amount of such grant shall not exceed 75 per centum of the costs of developing and operating a continuing areawide waste treatment management planning process in any year.”
 
 Subsec. (f)(3). Pub. L. 95–217, §§4(e), 31(c), substituted “and not to exceed $150,000,000 per fiscal year for the fiscal years ending June 30, 1975, September 30, 1977, September 30, 1978, September 30, 1979, and September 30, 1980” for “and not to exceed $150,000,000 for the fiscal year ending June 30, 1975” and inserted “subject to such amounts as are provided in appropriation Acts” after “contractual obligation of the United States for the payment of its contribution to such proposal”.
 
@@ -204,7 +204,7 @@ Enforcement functions of Secretary or other official in Department of Agricultur
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1252, 1284, 1285, 1287, 1289, 1313, 1314, 1329, 1344, 1362, 1376, 1383 of this title; title 16 section 1455b; title 26 section 126; title 42 sections 300h–6, 6946, 7412.
+This section is referred to in sections 1252, 1284, 1285, 1287, 1289, 1313, 1314, 1329, 1344, 1362, 1375, 1376, 1383 of this title; title 16 section 1455b; title 26 section 126; title 42 sections 300h–6, 6946, 7412.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “designated”.</i>
 

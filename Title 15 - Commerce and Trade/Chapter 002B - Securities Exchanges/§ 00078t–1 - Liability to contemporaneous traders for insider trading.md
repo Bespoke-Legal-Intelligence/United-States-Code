@@ -28,11 +28,11 @@ Any person who violates any provision of this chapter or the rules or regulation
 
 #### (d) Authority not to restrict other express or implied rights of action
 
-Nothing in this section shall be construed to limit or condition the right of any person tobring an action to enforce a requirement of this chapter or the availability of any cause of action implied from a provision of this chapter.
+Nothing in this section shall be construed to limit or condition the right of any person to bring an action to enforce a requirement of this chapter or the availability of any cause of action implied from a provision of this chapter.
 
 #### (e) Provisions not to affect public prosecutions
 
-This section shall not be construed to bar or limit in any manner any action by the Commission or the Attorney General under any other provision of this chapter, nor shall it bar or limit in any manner any action to recover penalties, or to seek any other order regarding penalties.
+This section shall not be construed to bar or limit in any manner any action by the Commission or the Attorney General under any otherprovision of this chapter, nor shall it bar or limit in any manner any action to recover penalties, or to seek any other order regarding penalties.
 
 (June 6, 1934, ch. 404, title I, §20A, as added Pub. L. 100–704, §5, Nov. 19, 1988, 102 Stat. 4680.)
 

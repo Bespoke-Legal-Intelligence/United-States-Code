@@ -2,7 +2,7 @@
 
 #### (a) Establishment
 
-(1) There is hereby established the Hoopa-Yurok Settlement Fund. Upon enactment of this subchapter, the Secretary shall cause all the funds in the escrow funds, together with all accrued income thereon, to be deposited into the Settlement Fund.
+(1) There is hereby established the Hoopa-Yurok Settlement Fund. Upon enactment of thissubchapter, the Secretary shall cause all the funds in the escrow funds, together with all accrued income thereon, to be deposited into the Settlement Fund.
 
 (2) Until the distribution is made to the Hoopa Valley Tribe pursuant to section <sup>1</sup> (c), the Secretary may distribute to the Hoopa Valley Tribe, pursuant to section 123c of this title, not to exceed $3,500,000 each fiscal year out of the income or principal of the Settlement Fund for tribal, non per capita purposes: <i>Provided, however</i>, That the Settlement Fund apportioned under subsections (c) and (d) of this section shall be calculated without regard to this subparagraph, but any amounts distributed under this subparagraph shall be deducted from the payment to the Hoopa Valley Tribe pursuant to subsection (c) of this section.
 

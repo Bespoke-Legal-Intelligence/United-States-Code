@@ -18,5 +18,5 @@ Minor change was made in phraseology.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14 of this title; title 30 section 49e.
+This section is referred to in title 30 section 49e.
 

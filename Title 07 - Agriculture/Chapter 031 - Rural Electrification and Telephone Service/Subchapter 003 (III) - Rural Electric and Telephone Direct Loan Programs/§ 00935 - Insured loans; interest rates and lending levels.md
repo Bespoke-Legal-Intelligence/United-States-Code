@@ -46,7 +46,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 &emsp;&emsp;&emsp;Subject to clause (ii), the interest rate described in this subparagraph on a loan to a qualifying applicant shall be—
 
-&emsp;&emsp;&emsp;&emsp;(I) the interest rate determined by the Secretary to be equal to the current market yield on outstanding municipal obligations with remaining periods tomaturity similar to the term selected by the applicant pursuant to subparagraph (C), but not greater than the rate determined under section 1927(a)(3)(A) of this title that is based on the current market yield on outstanding municipal obligations; plus
+&emsp;&emsp;&emsp;&emsp;(I) the interest rate determined by the Secretary to be equal to the current market yield on outstanding municipal obligations with remaining periods to maturity similar to the term selected by the applicant pursuant to subparagraph (C), but not greater than the rate determined under section 1927(a)(3)(A) of this title that is based on the current market yield on outstanding municipal obligations; plus
 
 &emsp;&emsp;&emsp;&emsp;(II) if the applicant for the loan makes an election pursuant to subparagraph (D) to include in the loan agreement the right of the applicant to prepay the loan, a rate equal to the amount by which—
 
@@ -120,9 +120,9 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may make insured telephone loans for the acquisition, purchase, and installation of telephone lines, systems, and facilities (other than buildings used primarily for administrative purposes, vehiclesnot used primarily in construction, and customer premise equipment) related to the furnishing, improvement, or extension of rural telecommunications service, at an interest rate equal to the then current cost of money to the Government of the United States for loans of similar maturity, but not more than 7 percent per year, to any applicant for a loan who meets the following requirements:
+&emsp;&emsp;The Secretary may make insured telephone loans for the acquisition, purchase, and installation of telephone lines, systems, and facilities (other than buildings used primarily for administrative purposes, vehicles not used primarily in construction, and customer premise equipment) related to the furnishing, improvement, or extension of rural telecommunications service, at an interest rate equal to the then current cost of money to the Government of the United States for loans of similar maturity, but not more than 7 percent per year, to any applicant for a loan who meets the following requirements:
 
-&emsp;&emsp;&emsp;(i) The average number of subscribers per mile of line in the service area of the applicant is not more than 15, or the applicant is capable of producing net income or margins before interest of not less than 100 percent (but not more than 500 percent) of the interest requirements on all of the outstanding and proposed loans of the applicant.
+&emsp;&emsp;&emsp;(i) The average number of subscribers per mile of line in the service area of the applicant is not more than 15, or the applicant is capable of producing net income or margins before interest of not less than 100 percent (but not more than 500 percent) ofthe interest requirements on all of the outstanding and proposed loans of the applicant.
 
 &emsp;&emsp;&emsp;(ii) The Secretary has approved a telecommunications modernization plan for the State under paragraph (3) and, if the plan was developed by telephone borrowers under this subchapter, the applicant is a participant in the plan.
 
@@ -184,7 +184,7 @@ Loans made under this section shall be insured by the Secretary when purchased b
 
 Subsec. (a). Pub. L. 103–129, §2(c)(6)(A), inserted heading.
 
-Subsec. (b). Pub. L. 103–129, §2(a)(1)(A), (B), (c)(6)(B), redesignated subsec. (c) as (b), inserted heading, and struck out former subsec. (b) which read as follows: “Insured loans made under this subchapter shall bear interest at 5 per centum per annum, except that the Administrator may make insured loans to electric ortelephone borrowers at a lesser interest rate, but not less than 2 per centum per annum, if, in the Administrator's sole discretion, the Administrator finds that the borrower—
+Subsec. (b). Pub. L. 103–129, §2(a)(1)(A), (B), (c)(6)(B), redesignated subsec. (c) as (b), inserted heading, and struck out former subsec. (b) which read as follows: “Insured loans made under this subchapter shall bear interest at 5 per centum per annum, except that the Administrator may make insured loans to electric or telephone borrowers at a lesser interest rate, but not less than 2 per centum per annum, if, in the Administrator's sole discretion, the Administrator finds that the borrower—
 
 &emsp;“(1) has experienced extreme financial hardship; or
 
@@ -192,7 +192,7 @@ Subsec. (b). Pub. L. 103–129, §2(a)(1)(A), (B), (c)(6)(B), redesignated subse
 
 Subsec. (c). Pub. L. 103–129, §2(a)(1)(C), added subsec. (c). Former subsec. (c) redesignated (b).
 
-Subsec. (d). Pub. L. 103–129, §2(a)(1)(A), (C), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Administrator shall make a telephone loan under this subchapter to an applicant therefor who is otherwise qualified to receive such a loan at the highest interest rate (but not less than the lowest interest rate, nor higher than the highest interest rate, specified in subsection (b) of this section) at which the borrower would be capable of producing net income or margins before interest payments of at least 100 percent (but not more than 150 percent) of the interest requirements on all of the applicant's outstanding and proposed loans.”
+Subsec. (d). Pub. L. 103–129, §2(a)(1)(A), (C), added subsec. (d) and struck out former subsec. (d) which read as follows: “The Administrator shall make a telephoneloan under this subchapter to an applicant therefor who is otherwise qualified to receive such a loan at the highest interest rate (but not less than the lowest interest rate, nor higher than the highest interest rate, specified in subsection (b) of this section) at which the borrower would be capable of producing net income or margins before interest payments of at least 100 percent (but not more than 150 percent) of the interest requirements on all of the applicant's outstanding and proposed loans.”
 
 1990—Subsec. (d). Pub. L. 101–624 added subsec. (d).
 

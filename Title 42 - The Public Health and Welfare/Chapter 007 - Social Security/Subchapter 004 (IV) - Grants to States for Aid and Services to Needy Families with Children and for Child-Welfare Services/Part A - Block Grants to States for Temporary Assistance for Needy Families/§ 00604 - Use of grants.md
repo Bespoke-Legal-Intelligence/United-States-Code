@@ -36,7 +36,7 @@ A State operating a program funded under this part may apply to a family the rul
 
 #### (A) In general
 
-&emsp;&emsp;A State may use not more than the applicable percent of the amount of any grantmade to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to subchapter XX of this chapter.
+&emsp;&emsp;A State may use not more than the applicable percent of the amount of any grant made to the State under section 603(a) of this title for a fiscal year to carry out State programs pursuant to subchapter XX of this chapter.
 
 #### (B) Applicable percent
 
@@ -86,7 +86,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (ii) First home purchase
 
-&emsp;&emsp;&emsp;Qualified acquisition costs with respect to a qualified principal residence for a qualified first-time homebuyer, if paid from an individual development account directly to the persons to whom the amounts are due.
+&emsp;&emsp;&emsp;Qualified acquisition costs with respect to a qualified principal residence for aqualified first-time homebuyer, if paid from an individual development account directly to the persons to whom the amounts are due.
 
 #### (iii) Business capitalization
 
@@ -176,7 +176,7 @@ A State to which a grant is made under section 603 of this title is encouraged t
 
 #### (I) Qualified principal residence
 
-&emsp;&emsp;The term “qualified principal residence” means a principal residence (within the meaning of section 1034 of the Internal Revenue Code of 1986), the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence (determined in accordance with paragraphs (2) and (3) of section 143(e) of such Code).
+&emsp;&emsp;The term “qualified principal residence” means a principal residence (within themeaning of section 1034 of the Internal Revenue Code of 1986), the qualified acquisition costs of which do not exceed 100 percent of the average area purchase price applicable to such residence (determined in accordance with paragraphs (2) and (3) of section 143(e) of such Code).
 
 #### (i) Sanction welfare recipients for failing to ensure that minor dependent children attend school
 
@@ -184,7 +184,7 @@ A State to which a grant is made under section 603 of this title shall not be pr
 
 #### (j) Requirement for high school diploma or equivalent
 
-A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the food stamp program, as defined in section 2012(h) of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisitecapacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
+A State to which a grant is made under section 603 of this title shall not be prohibited from sanctioning a family that includes an adult who is older than age 20 and younger than age 51 and who has received assistance under any State program funded under this part attributable to funds provided by the Federal Government or under the food stamp program, as defined in section 2012(h) of title 7, if such adult does not have, or is not working toward attaining, a secondary school diploma or its recognized equivalent unless such adult has been determined in the judgment of medical, psychiatric, or other appropriate professionals to lack the requisite capacity to complete successfully a course of study that would lead to a secondary school diploma or its recognized equivalent.
 
 #### (k) Limitations on use of grant for matching under certain Federal transportation program
 
@@ -236,7 +236,7 @@ Section 3037 of the Transportation Equity Act for the 21st Century, referred to 
 
 #### Prior Provisions
 
-A prior section 604, acts Aug. 14, 1935, ch. 531, title IV, §404, 49 Stat. 628; Aug. 28, 1950, ch. 809, title III, pt. 6, §361(c), (d), 64 Stat. 558; May 8, 1961, Pub. L. 87–31, §4, 75 Stat. 77; July 25, 1962, Pub. L. 87–543, title I, §§104(a)(5)(B), 107(b), 76 Stat. 185, 189; Jan. 2, 1968, Pub. L. 90–248, title II, §§241(b)(4), 245, 81 Stat. 916, 918; Jan. 4, 1975, Pub. L. 93–647, §101(c)(6)(B), 88 Stat. 2360; July 18, 1984, Pub. L. 98–369, title VI, §2663(<i>l</i>)(1), 98 Stat. 1171, related to deviation from State plan, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
+A prior section 604, acts Aug. 14, 1935, ch. 531, title IV, §404, 49 Stat. 628; Aug. 28, 1950, ch. 809, title III, pt. 6,§361(c), (d), 64 Stat. 558; May 8, 1961, Pub. L. 87–31, §4, 75 Stat. 77; July 25, 1962, Pub. L. 87–543, title I, §§104(a)(5)(B), 107(b), 76 Stat. 185, 189; Jan. 2, 1968, Pub. L. 90–248, title II, §§241(b)(4), 245, 81 Stat. 916, 918; Jan. 4, 1975, Pub. L. 93–647, §101(c)(6)(B), 88 Stat. 2360; July 18, 1984, Pub. L. 98–369, title VI, §2663(<i>l</i>)(1), 98 Stat. 1171, related to deviation from State plan, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
 #### Amendments
 
@@ -254,7 +254,7 @@ Subsec. (a)(2). Pub. L. 105–33, §5503, inserted “, or (at the option of th
 
 Subsec. (d)(1). Pub. L. 105–33, §5002(a)(1), substituted “Subject to paragraph (2), a State may” for “A State may”.
 
-Subsec. (d)(2). Pub. L. 105–33, §5002(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Notwithstanding paragraph (1), not more than 1/3 of the total amount paid to a State under this part for a fiscal year that is used to carry out State programs pursuant to provisions of lawspecified in paragraph (1) may be used to carry out State programs pursuant to subchapter XX of this chapter.”
+Subsec. (d)(2). Pub. L. 105–33, §5002(a)(2), amended heading and text of par. (2) generally. Prior to amendment, text read as follows: “Notwithstanding paragraph (1), not more than 1/3 of the total amount paid to a State under this part for a fiscal year that is used to carry out State programs pursuant to provisions of law specified in paragraph (1) may be used to carry out State programs pursuant to subchapter XX of this chapter.”
 
 #### Effective Date of 1999 Amendments
 
@@ -432,7 +432,7 @@ First-home purchase.—Qualified acquisition costs with respect to a principal r
 
 &emsp;&emsp;&emsp;“(i)
 
-Principal residence.—The term ‘principal residence’ means a main residence, the qualified acquisition costs of which do not exceed 120 percent of the average area purchase price applicable to such residence.
+Principal residence.—The term ‘principal residence’ means a main residence, the qualifiedacquisition costs of which do not exceed 120 percent of the average area purchase price applicable to such residence.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -558,7 +558,7 @@ Contracts With Nonprofit Entities.—The Secretary may contract with an entity d
 
 “(g)
 
-Grandfathering of Existing Statewide Programs.—Any statewide individual asset-building program that is carried out in a manner consistent with the purposes of this title, that is established under State law as of the date of enactment of this Act \[Oct. 27, 1998\], and that as of such date is operating with an annual State appropriation of not less than $1,000,000 in non-Federal funds, shall be deemed to meet the eligibility requirements of this subtitle \[title\], and the entity carrying out the program shall be deemed to be a qualified entity. The Secretary shall consider funding the statewide program as a demonstration project described in this subtitle \[title\]. In considering the statewide program for funding, the Secretary shall review an application submitted by the entity carrying out such statewide program under this section, notwithstanding the preference requirements listed in subsection (d). Any program requirements under sections 407 through 411 that are inconsistent with State statutory requirements in effect on the date of enactment of this Act, governing such statewide program, shall not apply to the program.
+Grandfathering of Existing Statewide Programs.—Any statewide individual asset-building program that is carried out in a manner consistent with the purposes of this title, that is established under State law as of the date of enactment of this Act \[Oct.27, 1998\], and that as of such date is operating with an annual State appropriation of not less than $1,000,000 in non-Federal funds, shall be deemed to meet the eligibility requirements of this subtitle \[title\], and the entity carrying out the program shall be deemed to be a qualified entity. The Secretary shall consider funding the statewide program as a demonstration project described in this subtitle \[title\]. In considering the statewide program for funding, the Secretary shall review an application submitted by the entity carrying out such statewide program under this section, notwithstanding the preference requirements listed in subsection (d). Any program requirements under sections 407 through 411 that are inconsistent with State statutory requirements in effect on the date of enactment of this Act, governing such statewide program, shall not apply to the program.
 
 #### “SEC. 406. DEMONSTRATION AUTHORITY; ANNUAL GRANTS.
 
@@ -578,7 +578,7 @@ Grant Authority.—For each project year of a demonstration project conducted un
 
 “(a)
 
-Establishment.—A qualified entity under this title, other than a State or local government agency ora tribal government, shall establish a Reserve Fund that shall be maintained in accordance with this section.
+Establishment.—A qualified entity under this title, other than a State or local government agency or a tribal government, shall establish a Reserve Fund that shall be maintained in accordance with this section.
 
 “(b)
 

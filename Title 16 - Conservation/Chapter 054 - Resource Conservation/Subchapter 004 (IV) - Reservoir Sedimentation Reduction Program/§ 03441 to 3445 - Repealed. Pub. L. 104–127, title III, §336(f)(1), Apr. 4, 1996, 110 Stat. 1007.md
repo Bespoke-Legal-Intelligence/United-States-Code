@@ -10,11 +10,3 @@ Section 3444, Pub. L. 97–98, title XV, §1524, Dec. 22, 1981, 95 Stat. 1336, a
 
 Section 3445, Pub. L. 97–98, title XV, §1525, Dec. 22, 1981, 95 Stat. 1337, required report to Congress by Jan. 1, 1987, evaluating program.
 
-### SUBCHAPTER V—RESOURCE CONSERVA-
-
-### TION AND DEVELOPMENT PROGRAM
-
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 1012 of this title.
-

@@ -50,7 +50,7 @@
 
 &emsp;(15) Compensation for loss of more than one phalanx of a digit is the same as for loss of the entire digit. Compensation for loss of the first phalanx is one-half of the compensation for loss of the entire digit.
 
-&emsp;(16) If, in the case of an arm or a leg, the member is amputated above the wrist orankle, compensation is the same as for loss of the arm or leg, respectively.
+&emsp;(16) If, in the case of an arm or a leg, the member is amputated above the wrist or ankle, compensation is the same as for loss of the arm or leg, respectively.
 
 &emsp;(17) Compensation for loss of use of two or more digits, or one or more phalanges of each of two or more digits, of a hand or foot, is proportioned to the loss of use of the hand or foot occasioned thereby.
 

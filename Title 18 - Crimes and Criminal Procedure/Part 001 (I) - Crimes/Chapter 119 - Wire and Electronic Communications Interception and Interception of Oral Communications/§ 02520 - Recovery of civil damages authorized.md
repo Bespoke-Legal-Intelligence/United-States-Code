@@ -36,7 +36,7 @@ Defense.—A good faith reliance on—
 
 &emsp;(2) a request of an investigative or law enforcement officer under section 2518(7) of this title; or
 
-&emsp;(3) a good faith determination that section 2511(3) of this title permitted the conduct complained of;
+&emsp;(3) a good faith determination that section 2511(3) or 2511(2)(i) of this title permitted the conduct complained of;
 
 > is a complete defense against any civil or criminal action brought under this chapter or any other law.
 
@@ -52,13 +52,15 @@ Administrative Discipline.—If a court or appropriate department or agency dete
 
 Improper Disclosure Is Violation.—Any willful disclosure or use by an investigative or law enforcement officer or governmental entity of information beyond the extent permitted by section 2517 is a violation of this chapter for purposes of section 2520(a).
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 223; amended Pub. L. 91–358, title II, §211(c), July 29, 1970, 84 Stat. 654; Pub. L. 99–508, title I, §103, Oct. 21, 1986, 100 Stat. 1853; Pub. L. 107–56, title II, §223(a), Oct. 26, 2001, 115 Stat. 293.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 223; amended Pub. L. 91–358, title II, §211(c), July 29, 1970, 84 Stat. 654; Pub. L. 99–508, title I, §103, Oct. 21, 1986, 100 Stat. 1853; Pub. L. 107–56, title II, §223(a), Oct. 26, 2001, 115 Stat. 293; Pub. L. 107–296, title II, §225(e), Nov. 25, 2002, 116 Stat. 2157.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by Pub. L. 107–56, see Termination Date of 2001 Amendment note below.</i>
 
 #### Amendments
+
+2002—Subsec. (d)(3). Pub. L. 107–296 inserted “or 2511(2)(i)” after “2511(3)”.
 
 2001—Subsec. (a). Pub. L. 107–56, §§223(a)(1), 224, temporarily inserted “, other than the United States,” after “person or entity”. See Termination Date of 2001 Amendment note below.
 
@@ -75,6 +77,10 @@ Subsecs. (f), (g). Pub. L. 107–56, §§223(a)(2), (3), 224, temporarily added 
 > A good faith reliance on a court order or legislative authorization shall constitute a complete defense to any civil or criminal action brought under this chapter or under any other law.”
 
 1970—Pub. L. 91–358 substituted provisions that a good faith reliance on a court order or legislative authorization constitute a complete defense to any civil or criminal action brought under this chapter or under any other law, for provisions that a good faith reliance on a court order or on the provisions of section 2518(7) of this chapter constitute a complete defense to any civil or criminal action brought under this chapter.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Termination Date of 2001 Amendment
 

@@ -124,7 +124,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 #### (ii) Suspension of grants
 
-&emsp;&emsp;&emsp;If such grant recipient fails to continue to meet the criteria specified in subsection (a) of this section, the Administrator may suspend the grant, after providing writtennotice to the grant recipient and an opportunity to appeal.
+&emsp;&emsp;&emsp;If such grant recipient fails to continue to meet the criteria specified in subsection (a) of this section, the Administrator may suspend the grant, after providing written notice to the grant recipient and an opportunity to appeal.
 
 #### (iii) Renewal grants
 
@@ -198,7 +198,7 @@ To be eligible to receive an initial grant or a renewal grant under this part, a
 
 &emsp;&emsp;&emsp;(i) For the first and second fiscal years of that 4-fiscal-year period, the amount equal to 80 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
 
-&emsp;&emsp;&emsp;(ii) For the third and fourth fiscal years of that 4-fiscal-year period, the amountequal to 67 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
+&emsp;&emsp;&emsp;(ii) For the third and fourth fiscal years of that 4-fiscal-year period, the amount equal to 67 percent of the non-Federal funds, including in-kind contributions, raised by the coalition for the applicable fiscal year.
 
 #### (E) Suspension
 

@@ -92,7 +92,7 @@ Pub. L. 105–255, Oct. 14, 1998, 112 Stat. 1889, provided that:
 
 &emsp;&emsp;“(H) Blacks, Hispanics, and Native Americans continue to be seriously underrepresented in graduate science and engineering programs; and
 
-&emsp;&emsp;“(I) Blacks, Hispanics, and Native Americans as a group are 23 percent of the population of the UnitedStates, but only 6 percent are scientists or engineers.
+&emsp;&emsp;“(I) Blacks, Hispanics, and Native Americans as a group are 23 percent of the population of the United States, but only 6 percent are scientists or engineers.
 
 &emsp;“(2) According to the National Research Council's 1995 report, Women Scientists and Engineers Employed in Industry: Why So Few?—
 
@@ -369,4 +369,8 @@ Pub. L. 99–383, §8, Aug. 21, 1986, 100 Stat. 815, provided that:
 “(2) The Director of the National Science Foundation shall make provision for administrative support of the task force, and may enter into agreements with the heads of other participating agencies to facilitate the work of the task force.
 
 “(g) The task force shall terminate on January 31, 1990.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1862n, 1862n–1, 1862n–2, 1862n–8 of this title.
 

@@ -24,7 +24,7 @@ Duties of Facilitator.—A facilitator approved or selected by a negotiated rule
 
 (e)
 
-Committee Procedures.—A negotiated rulemaking committee established under this subchapter may adopt procedures for the operation of the committee. No provision of section 553 of this title shall apply to the procedures of a negotiated rulemaking committee.
+Committee Procedures.—A negotiated rulemaking committee established under thissubchapter may adopt procedures for the operation of the committee. No provision of section 553 of this title shall apply to the procedures of a negotiated rulemaking committee.
 
 (f)
 

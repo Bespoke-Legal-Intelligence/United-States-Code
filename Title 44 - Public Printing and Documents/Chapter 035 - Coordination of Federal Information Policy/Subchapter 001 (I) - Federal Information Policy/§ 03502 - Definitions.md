@@ -44,9 +44,9 @@ As used in this subchapter—
 
 &emsp;(7) the term “information resources management” means the process of managing information resources to accomplish agency missions and to improve agency performance, including through the reduction of information collection burdens on the public;
 
-&emsp;(8) the term “information system” means a discrete set of information resources organized for the collection, processing, maintenance, use, sharing, dissemination, or disposition of information;
+&emsp;(8) the term “information system” means a discrete set of information resources organizedfor the collection, processing, maintenance, use, sharing, dissemination, or disposition of information;
 
-&emsp;(9) the term “information technology” has the meaning given that term in section 5002 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401) but does not include national security systems as defined in section 5142 of that Act (40 U.S.C. 1452);
+&emsp;(9) the term “information technology” has the meaning given that term in section 11101 of title 40 but does not include national security systems as defined in section 11103 of title 40;
 
 &emsp;(10) the term “person” means an individual, partnership, association, corporation, business trust, or legal representative, an organized group of individuals, a State, territorial, tribal, or local government or branch thereof, or a political subdivision of a State, territory, tribal, or local government or a branch of a political subdivision;
 
@@ -66,7 +66,7 @@ As used in this subchapter—
 
 &emsp;(14) the term “penalty” includes the imposition by an agency or court of a fine or other punishment; a judgment for monetary damages or equitable relief; or the revocation, suspension, reduction, or denial of a license, privilege, right, grant, or benefit.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI,§5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 164; amended Pub. L. 104–106, div. E, title LVI, §5605(a), Feb. 10, 1996, 110 Stat. 700; Pub. L. 105–85, div. A, title X, §1073(h)(5)(A), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(<i>l</i>)(4), Aug. 21, 2002, 116 Stat. 1301.)
 
 #### Prior Provisions
 
@@ -75,6 +75,8 @@ A prior section 3502, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 Another prior section 3502, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1302; Pub. L. 93–153, title IV, §409(a), Nov. 16, 1973, 87 Stat. 593, defined “Federal agency”, “person”, and “information”, prior to the general amendment of this chapter by Pub. L. 96–511.
 
 #### Amendments
+
+2002—Par. (9). Pub. L. 107–217 substituted “section 11101 of title 40” for “section 5002 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401)” and “section 11103 of title 40” for “section 5142 of that Act (40 U.S.C. 1452)”.
 
 2000—Pub. L. 106–398 substituted “subchapter” for “chapter” in introductory provisions.
 
@@ -88,7 +90,7 @@ Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see sectio
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
 #### Abolition of Interstate Commerce Commission and Transfer of Functions
 
@@ -96,5 +98,5 @@ Interstate Commerce Commission abolished and functions of Commission transferred
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3532 of this title; title 10 section 1782; title 15 section 278g–3; title 31 sections 1344, 3811; title 40 section 1401; title 41 section 421; title 42 section 1320b–9.
+This section is referred to in sections 3532, 3542, 3601 of this title; title 10 section 1782; title 15 section 278g–3; title 31 sections 1344, 3811; title 40 section 11101; title 41 section 421; title 42 section 1320b–9.
 

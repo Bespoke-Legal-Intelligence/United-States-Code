@@ -16,9 +16,11 @@ A plan submitted under this section shall—
 
 &emsp;(4) provide for the employment of a full-time emergency preparedness director, or deputy director, by the State;
 
-&emsp;(5) provide that the State shall make such reports in such form and content as the Director may require; and
+&emsp;(5) provide that the State shall make such reports in such form and content as the Director may require;
 
-&emsp;(6) make available to duly authorized representatives of the Director and the Comptroller General, books, records, and papers necessary to conduct audits for the purposes of this section.
+&emsp;(6) make available to duly authorized representatives of the Director and the Comptroller General, books, records, and papers necessary to conduct audits for the purposes of this section; and
+
+&emsp;(7) include a plan for providing information to the public in a coordinated manner.
 
 #### (c) Terms and conditions
 
@@ -40,11 +42,19 @@ If a State fails to submit a plan for approval as required by this section withi
 
 The Director shall report annually to the Congress all contributions made pursuant to this section.
 
-(Pub. L. 93–288, title VI, §613, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3106.)
+(Pub. L. 93–288, title VI, §613, as added Pub. L. 103–337, div. C, title XXXIV, §3411(a)(3), Oct. 5, 1994, 108 Stat. 3106; amended Pub. L. 107–188, title I, §151, June 12, 2002, 116 Stat. 630.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 2286 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
+
+#### Amendments
+
+2002—Subsec. (b)(7). Pub. L. 107–188 added par. (7).
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d),552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of panel
 
-Not later than 180 days after October 11, 1996, the Secretary shall establish an advisory panelunder this chapter to develop recommendations to expand the application of ecosystem principles in fishery conservation and management activities.
+Not later than 180 days after October 11, 1996, the Secretary shall establish an advisory panel under this chapter to develop recommendations to expand the application of ecosystem principles in fishery conservation and management activities.
 
 #### (b) Panel membership
 
@@ -14,7 +14,7 @@ The advisory panel shall consist of not more than 20 individuals and include—
 
 #### (c) Recommendations
 
-Prior to selecting advisory panel members, the Secretary shall, with respect to panel members described in subsection (b)(1) of this section, solicit recommendations from the National Academy of Sciences.
+Prior to selecting advisory panel members, the Secretary shall, with respect to panel membersdescribed in subsection (b)(1) of this section, solicit recommendations from the National Academy of Sciences.
 
 #### (d) Report
 

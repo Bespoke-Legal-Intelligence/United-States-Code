@@ -2,7 +2,7 @@
 
 #### (a) Research on burns, burn injuries, and rehabilitation
 
-The Secretary of Health and Human Services shall establish, within the National Institutes ofHealth and in cooperation with the Director, an expanded program of research on burns, treatment of burn injuries, and rehabilitation of victims of fires. The National Institutes of Health shall—
+The Secretary of Health and Human Services shall establish, within the National Institutes of Health and in cooperation with the Director, an expanded program of research on burns, treatment of burn injuries, and rehabilitation of victims of fires. The National Institutes of Health shall—
 
 &emsp;(1) sponsor and encourage the establishment throughout the Nation of twenty-five additional burn centers, which shall comprise separate hospital facilities providing specialized burn treatment and including research and teaching programs and twenty-five additional burn units, which shall comprise specialized facilities in general hospitals used only for burn victims;
 
@@ -35,4 +35,12 @@ Section was enacted as part of the Federal Fire Prevention and Control Act of 19
 #### Change of Name
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (a) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Definitions
+
+For definition of terms used in this section, see section 2203 of Title 15, Commerce and Trade.
 

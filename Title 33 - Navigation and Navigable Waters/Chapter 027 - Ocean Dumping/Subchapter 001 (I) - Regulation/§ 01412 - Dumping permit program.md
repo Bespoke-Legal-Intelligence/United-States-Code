@@ -46,7 +46,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 #### (3) Dredged material disposal sites
 
-&emsp;In the case of dredged material disposal sites, the Administrator, in conjunction with the Secretary, shall develop a site management plan for each site designated pursuant tothis section. In developing such plans, the Administrator and the Secretary shall provide opportunity for public comment. Such plans shall include, but not be limited to—
+&emsp;In the case of dredged material disposal sites, the Administrator, in conjunction with the Secretary, shall develop a site management plan for each site designated pursuant to this section. In developing such plans, the Administrator and the Secretary shall provide opportunity for public comment. Such plans shall include, but not be limited to—
 
 &emsp;&emsp;(A) a baseline assessment of conditions at the site;
 
@@ -54,7 +54,7 @@ The Administrator may establish and issue various categories of permits, includi
 
 &emsp;&emsp;(C) special management conditions or practices to be implemented at each site that are necessary for protection of the environment;
 
-&emsp;&emsp;(D) consideration of the quantity of the material to be disposed of at the site, and the presence, nature, and bioavailability of the contaminants in the material;
+&emsp;&emsp;(D) consideration of the quantity of the material to be disposed of at the site, andthe presence, nature, and bioavailability of the contaminants in the material;
 
 &emsp;&emsp;(E) consideration of the anticipated use of the site over the long term, including the anticipated closure date for the site, if applicable, and any need for management of the site after the closure of the site; and
 

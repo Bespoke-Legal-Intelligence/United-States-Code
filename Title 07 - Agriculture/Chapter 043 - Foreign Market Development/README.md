@@ -36,7 +36,7 @@
 | 1765b–1. | Omitted. |
 | [1765c.](Subchapter%20002%20%28II%29%20-%20United%20States%20Agricultural%20Trade%20Offices/%C2%A7%2001765c%20-%20Performance%20of%20functions%20in%20foreign%20localities.md) | Performance of functions in foreign localities. |
 | [1765d.](Subchapter%20002%20%28II%29%20-%20United%20States%20Agricultural%20Trade%20Offices/%C2%A7%2001765d%20-%20Acquisition%20of%20property.md) | Acquisition of property. |
-| 1765d–1. | Sale or disposal of residences. |
+| 1765d–1. | Repealed. |
 | [1765e.](Subchapter%20002%20%28II%29%20-%20United%20States%20Agricultural%20Trade%20Offices/%C2%A7%2001765e%20-%20Location%20of%20offices.md) | Location of offices. |
 | [1765f.](Subchapter%20002%20%28II%29%20-%20United%20States%20Agricultural%20Trade%20Offices/%C2%A7%2001765f%20-%20Availability%20of%20agency%20services%2C%20personnel%2C%20and%20facilities.md) | Availability of agency services, personnel, and facilities. |
 | [1765g.](Subchapter%20002%20%28II%29%20-%20United%20States%20Agricultural%20Trade%20Offices/%C2%A7%2001765g%20-%20Availability%20of%20reports%20and%20dispatches.md) | Availability of reports and dispatches. |

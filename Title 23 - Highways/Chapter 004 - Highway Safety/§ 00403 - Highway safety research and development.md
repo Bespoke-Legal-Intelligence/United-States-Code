@@ -110,7 +110,7 @@ Pub. L. 105–178, title II, §2007, June 9, 1998, 112 Stat. 336, provided that:
 
 “(a)
 
-Blowout Resistant Tires Study.—The Secretary shall conduct a study on the benefit to public safety of the use of blowout resistant tires on commercial motor vehicles and the potential to decrease theincidence of accidents and fatalities from accidents occurring as a result of blown out tires.
+Blowout Resistant Tires Study.—The Secretary shall conduct a study on the benefit to public safety of the use of blowout resistant tires on commercial motor vehicles and the potential to decrease the incidence of accidents and fatalities from accidents occurring as a result of blown out tires.
 
 “(b)
 
@@ -306,7 +306,7 @@ Pub. L. 95–599, title II, §212, Nov. 6, 1978, 92 Stat. 2734, directed Secreta
 
 #### Form and Use of Reports of Highway Traffic Accidents or Research Projects in Court; Availability to Public
 
-Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9, 1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
+Pub. L. 89–564, title I, §106, Sept. 9, 1966, 80 Stat. 735, as amended by Pub. L. 105–178, title V, §5119(f), June 9,1998, 112 Stat. 452, provided that: “All facts contained in any report of any Federal department or agency or any officer, employee, or agent thereof, relating to any highway traffic accident or the investigation thereof conducted pursuant to chapter 4 of title 23 of the United States Code shall be available for use in any civil, criminal, or other judicial proceeding arising out of such accident, and any such officer, employee, or agent may be required to testify in such proceedings as to the facts developed in such investigation. Any such report shall be made available to the public in a manner which does not identify individuals. All completed reports on research projects, demonstration projects, and other related activities conducted under section 403 and chapter 5 of title 23, United States Code, shall be made available to the public in a manner which does not identify individuals.”
 
 #### Appropriations Authorizations
 

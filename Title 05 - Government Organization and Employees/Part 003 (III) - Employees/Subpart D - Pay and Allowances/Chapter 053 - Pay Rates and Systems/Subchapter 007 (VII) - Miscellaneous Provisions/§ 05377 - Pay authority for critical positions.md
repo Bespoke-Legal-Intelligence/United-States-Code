@@ -40,7 +40,7 @@
 
 &emsp;(2) as of such date as such Office may otherwise specify, except that termination under this paragraph may not take effect before the authority has been available for such position for at least 1 calendar year.
 
-(f) The Office of Management and Budget may not authorize the exercise of authority underthis section with respect to more than 800 positions at any time, of which not more than 30 may, at any such time, be positions the rate of basic pay for which would otherwise be determined under subchapter II.
+(f) The Office of Management and Budget may not authorize the exercise of authority under this section with respect to more than 800 positions at any time, of which not more than 30 may, at any such time, be positions the rate of basic pay for which would otherwise be determined under subchapter II.
 
 (g) The Office of Management and Budget shall consult with the Office of Personnel Management before prescribing regulations under this section or making any decision to grant or terminate any authority under this section.
 
@@ -80,5 +80,5 @@ Authority of President under subsec. (i)(2) of this section delegated to Directo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5304, 5948, 9502 of this title; title 42 section 237.
+This section is referred to in sections 5304, 5948, 9502 of this title; title 7 section 7657; title 42 section 237.
 

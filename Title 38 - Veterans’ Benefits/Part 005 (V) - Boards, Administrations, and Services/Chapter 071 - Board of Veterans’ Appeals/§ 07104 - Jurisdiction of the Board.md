@@ -46,7 +46,7 @@ Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for “Veterans�
 
 1988—Subsec. (a). Pub. L. 100–687, §101(b), as amended by Pub. L. 102–54, substituted “All questions in a matter which under section 211(a) of this title is subject to decision by the Administrator” for “All questions on claims involving benefits under the laws administered by the Veterans’ Administration”.
 
-Pub. L. 100–687, §203(a), inserted at end “The Board shall decide any such appeal only after affording theclaimant an opportunity for a hearing. Decisions of the Board shall be based on the entire record in the proceeding and upon consideration of all evidence and material of record and applicable provisions of law and regulation.”
+Pub. L. 100–687, §203(a), inserted at end “The Board shall decide any such appeal only after affording the claimant an opportunity for a hearing. Decisions of the Board shall be based on the entire record in the proceeding and upon consideration of all evidence and material of record and applicable provisions of law and regulation.”
 
 Subsec. (b). Pub. L. 100–687, §204, amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “When a claim is disallowed by the Board, it may not thereafter be reopened and allowed, and no claim based upon the same factual basis shall be considered; however, where subsequent to disallowance of a claim, new and material evidence in the form of official reports from the proper service department is secured, the Board may authorize the reopening of the claim and review of the former decision.”
 

@@ -42,11 +42,13 @@ Act Oct. 28, 1949, ch. 782, cited as a credit to this section, was repealed (sub
 
 #### Transfer of Functions
 
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Bureau of Industrial Alcohol and office of Commissioner of Industrial Alcohol abolished and Commissioner's functions transferred to Commissioner of Internal Revenue by Ex. Ord. No. 6639.
 
 #### Deputy Commissioner of Customs
 
-Act June 17, 1930, authorized the appointment of an additional deputy commissioner in the Bureau of Customs \[now the United States Customs Service\] in addition to the two deputy commissioners then authorized by law.
+Act June 17, 1930, authorized the appointment of an additional deputy commissioner in the Bureau of Customs in addition to the two deputy commissioners then authorized by law.
 

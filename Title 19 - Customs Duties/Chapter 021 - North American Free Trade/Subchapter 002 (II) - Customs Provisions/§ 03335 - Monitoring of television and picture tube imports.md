@@ -2,7 +2,7 @@
 
 #### (a) Monitoring
 
-Beginning on the date the Agreement enters into force with respect to the United States, the United States Customs Service shall, for a period of 5 years, monitor imports into the United States of articles described in subheading 8528.10 of the HTS from NAFTA countries and shall take action to exercise all rights of the United States under chapter 5 of the Agreement with respect to such imports. The United States Customs Service shall take appropriate action under chapter 5 of the Agreement with respect to such imports, including verifications to ensure that the rules of origin under the Agreement are fully complied with and that the duty drawback obligations contained in article 303 and Annex 303.8 of the Agreement are fully implemented and duties are correctly assessed.
+Beginning on the date the Agreement enters into force with respect to the United States, the United States Customs Service shall, for a period of 5 years, monitor imports into the United States of articles described in subheading 8528.10 of the HTS from NAFTA countries and shalltake action to exercise all rights of the United States under chapter 5 of the Agreement with respect to such imports. The United States Customs Service shall take appropriate action under chapter 5 of the Agreement with respect to such imports, including verifications to ensure that the rules of origin under the Agreement are fully complied with and that the duty drawback obligations contained in article 303 and Annex 303.8 of the Agreement are fully implemented and duties are correctly assessed.
 
 #### (b) Report to Trade Representative
 
@@ -13,6 +13,10 @@ The United States Customs Service shall make the results of the monitoring and v
 #### Effective Date
 
 Section effective on the date the North American Free Trade Agreement enters into force with respect to the United States \[Jan. 1, 1994\], see section 213(b) of Pub. L. 103–182, set out as a note under section 3331 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### North American Free Trade Agreement: Entry Into Force
 

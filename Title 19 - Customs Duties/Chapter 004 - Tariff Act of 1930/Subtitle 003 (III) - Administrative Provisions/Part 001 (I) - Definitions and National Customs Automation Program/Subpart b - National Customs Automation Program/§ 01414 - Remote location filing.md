@@ -6,7 +6,7 @@
 
 &emsp;A Program participant may file electronically an entry of merchandise with the Customs Service from a location other than the district designated in the entry for examination (hereafter in this section referred to as a “remote location”) if—
 
-&emsp;&emsp;(A) the Customs Service is satisfied that the participant has the capabilities referred to in paragraph (2)(A) regarding such method of filing; and
+&emsp;&emsp;(A) the Customs Service is satisfied that the participant has the capabilities referredto in paragraph (2)(A) regarding such method of filing; and
 
 &emsp;&emsp;(B) the participant elects to file from the remote location.
 
@@ -91,6 +91,10 @@ As used in this section:
 &emsp;(2) The term “Program participant” means, with respect to an entry of merchandise, any party entitled to make the entry under section 1484(a)(2)(B) of this title.
 
 (June 17, 1930, ch. 497, title IV, §414, as added Pub. L. 103–182, title VI, §631(2), Dec. 8, 1993, 107 Stat. 2191.)
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

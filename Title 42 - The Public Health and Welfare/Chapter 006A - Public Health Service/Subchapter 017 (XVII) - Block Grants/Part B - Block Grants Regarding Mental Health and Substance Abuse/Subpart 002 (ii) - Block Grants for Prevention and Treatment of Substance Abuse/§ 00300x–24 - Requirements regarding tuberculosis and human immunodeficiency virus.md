@@ -26,7 +26,7 @@
 
 &emsp;In the case of a State described in paragraph (2), a funding agreement for a grant under section 300x–21 of this title is that—
 
-&emsp;&emsp;(A) with respect to individuals undergoing treatment for substance abuse, the Statewill, subject to paragraph (3), carry out 1 or more projects to make available to the individuals early intervention services for HIV disease at the sites at which the individuals are undergoing such treatment;
+&emsp;&emsp;(A) with respect to individuals undergoing treatment for substance abuse, the State will, subject to paragraph (3), carry out 1 or more projects to make available to the individuals early intervention services for HIV disease at the sites at which the individuals are undergoing such treatment;
 
 &emsp;&emsp;(B) for the purpose of providing such early intervention services through such projects, the State will make available from the grant the percentage that is applicable for the State under paragraph (4); and
 
@@ -44,7 +44,7 @@
 
 &emsp;(A)(i) For purposes of paragraph (1)(B), the percentage that is applicable under this paragraph for a designated State is, subject to subparagraph (B), the percentage by which the amount of the grant under section 300x–21 of this title for the State for the fiscal year involved is an increase over the amount specified in clause (ii).
 
-&emsp;(ii) The amount specified in this clause is the amount that was reserved by the designated State involved from the allotment of the State under section 300x–1a <sup>1</sup> of this title for fiscal year 1991 in compliance with section 300x–4(c)(6)(A)(ii) <sup>1</sup> of this title (as such sections were in effect for such fiscal year).
+&emsp;(ii) The amount specified in this clause is the amount that was reserved by the designated State involved from the allotment of the State under section 300x–1a <sup>1</sup> of this title for fiscal year 1991 in compliance with section300x–4(c)(6)(A)(ii) <sup>1</sup> of this title (as such sections were in effect for such fiscal year).
 
 &emsp;(B) If the percentage determined under subparagraph (A) for a designated State for a fiscal year is less than 2 percent (including a negative percentage, in the case of a State for which there is no increase for purposes of such subparagraph), the percentage applicable under this paragraph for the State is 2 percent. If the percentage so determined is 2 percent or more, the percentage applicable under this paragraph for the State is the percentage determined under subparagraph (A), subject to not exceeding 5 percent.
 

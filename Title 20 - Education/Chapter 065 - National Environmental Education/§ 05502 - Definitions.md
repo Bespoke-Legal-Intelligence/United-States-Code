@@ -6,7 +6,7 @@ For the purposes of this chapter, the term—
 
 &emsp;(2) “Agency” means the United States Environmental Protection Agency;
 
-&emsp;(3) “Federal agency” or “agency of the United States” means any department, agencyor other instrumentality of the Federal Government, any independent agency or establishment of the Federal Government including any Government corporation;
+&emsp;(3) “Federal agency” or “agency of the United States” means any department, agency or other instrumentality of the Federal Government, any independent agency or establishment of the Federal Government including any Government corporation;
 
 &emsp;(4) “Secretary” means the Secretary of the Department of Education;
 

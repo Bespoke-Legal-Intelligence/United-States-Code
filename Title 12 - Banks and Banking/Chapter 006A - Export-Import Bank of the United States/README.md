@@ -10,6 +10,7 @@
 | (c) | Guarantees, insurance, coinsurance, and reinsurance functions; fractional charge; aggregate outstanding amount; fees and premiums; issuance, service and adjustments by agents; transferability of guarantees. |
 | (d) | Equal and nondiscriminatory opportunities for domestic companies to bid for insurance. |
 | (e) | Limitation on assistance which adversely affects the United States. |
+| (f) | Authority to deny application for assistance based on fraud or corruption by party involved in the transaction. |
 | [635a.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000635a%20-%20Management%20of%20Bank.md) | Management of Bank. |
 | (a) | Establishment as independent agency. |
 | (b) | President and First Vice President of the Bank; appointment; duties. |
@@ -33,6 +34,9 @@
 | [635g.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000635g%20-%20Report%20to%20Congress%3B%20time%20for%20submission%3B%20contents.md) | Report to Congress; time for submission; contents. |
 | (a) | Annual submission of report. |
 | (b) | Report on allocation of sums set aside for small business exports. |
+| (c) | Technology to assist small businesses. |
+| (d) | Number of small business suppliers of Bank users. |
+| (e) | Outreach to certain small businesses. |
 | [635h.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2000635h%20-%20Exemption%20from%20prohibition%20of%20section%20955%20of%20title%2018.md) | Exemption from prohibition of section 955 of title 18. |
 | 635i to 635i–2. Repealed. |  |
 | 635i–3. | Tied Aid Credit Fund and program. |
@@ -64,6 +68,10 @@
 | (b) | Limitations. |
 | (c) | Conditions. |
 | (d) | Appropriations. |
+| 635i–9. | Market windows. |
+| (a) | Enhanced transparency. |
+| (b) | Authorization. |
+| (c) | Definition. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

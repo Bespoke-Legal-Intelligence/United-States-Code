@@ -154,5 +154,5 @@ Responsibility for the Secretary of the Treasury to assure compliance with requi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1953, 1957, 1958, 1959 of this title; title 31 sections 5313, 5318.
+This section is referred to in sections 1957, 1958, 1959 of this title; title 31 sections 310, 5313, 5318, 5321, 5322, 5324.
 

@@ -52,7 +52,7 @@ If a concurrent resolution containing directives to one or more committees to de
 
 &emsp;(B) if the total amount of the changes recommended by such committee is not less than the total of the amounts of the changes such committee was directed to make under paragraphs (1) and (2) of such subsection.
 
-(2)(A) Upon the reporting to the Committee on the Budget of the Senate of a recommendation that shall be deemed to have complied with such directions solely by virtue of this subsection, the chairman of that committee may file with the Senate appropriately revised allocations under section 633(a) of this title and revised functional levels and aggregates to carry out this subsection.
+(2)(A) Upon the reporting to the Committee on the Budget of the Senate of a recommendationthat shall be deemed to have complied with such directions solely by virtue of this subsection, the chairman of that committee may file with the Senate appropriately revised allocations under section 633(a) of this title and revised functional levels and aggregates to carry out this subsection.
 
 (B) Upon the submission to the Senate of a conference report recommending a reconciliation bill or resolution in which a committee shall be deemed to have complied with such directions solely by virtue of this subsection, the chairman of the Committee on the Budget of the Senate may file with the Senate appropriately revised allocations under section 633(a) of this title and revised functional levels and aggregates to carry out this subsection.
 
@@ -90,7 +90,7 @@ Notwithstanding any other provision of law, it shall not be in order in the Sena
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+The Social Security Act, referred to in subsec. (g), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classificationof this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Codification
 
@@ -128,7 +128,7 @@ Subsec. (g). Pub. L. 99–177, in amending section generally, added subsec. (g).
 
 #### Effective Date of 1985 Amendment
 
-Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginningafter Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (d), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
+Amendment by Pub. L. 99–177 effective Dec. 12, 1985, and applicable with respect to fiscal years beginning after Sept. 30, 1985, except that such amendment, insofar as it relates to subsecs. (c), (d), and (g) of this section, to become effective Apr. 15, 1986, see section 275(a)(1), (2)(A) of Pub. L. 99–177, set out as an Effective and Termination Dates note under section 900 of this title.
 
 #### Section Referred to in Other Sections
 

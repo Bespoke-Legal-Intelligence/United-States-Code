@@ -24,7 +24,7 @@ As used in this section:
 
 #### (4) Inspection
 
-&emsp;The term “inspection” means an onsite evaluation of the facility by the Secretary, orState or local agency on behalf of the Secretary.
+&emsp;The term “inspection” means an onsite evaluation of the facility by the Secretary, or State or local agency on behalf of the Secretary.
 
 #### (5) Mammogram
 
@@ -284,7 +284,7 @@ As used in this section:
 
 &emsp;&emsp;&emsp;(III) if such a physician is not available or if there is no such physician, the written report shall be sent directly to the patient; and
 
-&emsp;&emsp;&emsp;(IV) whether or not such a physician is available or there is no such physician, a summary of the written report shall be sent directly to the patient in terms easily understood by a lay person; and
+&emsp;&emsp;&emsp;(IV) whether or not such a physician is available or there is no such physician, asummary of the written report shall be sent directly to the patient in terms easily understood by a lay person; and
 
 &emsp;&emsp;(H) standards relating to special techniques for mammography of patients with breast implants.
 
@@ -428,7 +428,7 @@ As used in this section:
 
 #### (B) Hearing
 
-&emsp;&emsp;If the Secretary suspends a certificate under subparagraph (A), the Secretary shall provide an opportunity for a hearing to the owner or operator of the facility not later than 60 days from the effective date of the suspension. The suspension shall remain in effect until the decision of the Secretary made after the hearing.
+&emsp;&emsp;If the Secretary suspends a certificate under subparagraph (A), the Secretary shallprovide an opportunity for a hearing to the owner or operator of the facility not later than 60 days from the effective date of the suspension. The suspension shall remain in effect until the decision of the Secretary made after the hearing.
 
 #### (3) Ineligibility to own or operate facilities after revocation
 
@@ -654,7 +654,7 @@ In carrying out this section, the Secretary shall consult with appropriate Feder
 
 #### (ii) Appropriations
 
-&emsp;&emsp;&emsp;Fees collected under subparagraph (A) shall be collected and available only to the extent provided in advance in appropriation Acts.
+&emsp;&emsp;&emsp;Fees collected under subparagraph (A) shall be collected and available only to theextent provided in advance in appropriation Acts.
 
 #### (2) Authorization of appropriations
 
@@ -736,7 +736,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the PublicHealth Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
+Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 
 #### Regulations
 

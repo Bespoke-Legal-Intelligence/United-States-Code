@@ -6,7 +6,7 @@ For purposes of this subchapter, the term:
 
 &emsp;(2) “Anticipated value” means the projected value of wood residues as fuel or other merchantable wood products, as determined by the Secretary at the time of advertisement of the timber sales contract in accordance with appropriate appraisal and sale procedures.
 
-&emsp;(3) “Points of prospective use” means the locations where the wood residues are sold or otherwise put to use, as determined by the Secretary in accordance with appropriate appraisal and sale procedures.
+&emsp;(3) “Points of prospective use” means the locations where the wood residues are sold orotherwise put to use, as determined by the Secretary in accordance with appropriate appraisal and sale procedures.
 
 &emsp;(4) “Person” means an individual, partnership, joint-stock company, corporation, association, trust, estate, or any other legal entity, or any agency of Federal or State government or of a political subdivision of a State.
 

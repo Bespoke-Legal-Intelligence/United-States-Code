@@ -158,7 +158,7 @@ Subsec. (f). Pub. L. 105–244, §423(f), struck out heading and text of subsec.
 
 Subsec. (d). Pub. L. 103–66, §4047(a)(2), amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “The annual and aggregate limits for loans under this section shall be the same as those established under section 1078(b)(1) of this title, less any amount received by such student pursuant to the subsidized loan program established under section 1078 of this title.”
 
-Subsec. (d)(2)(B). Pub. L. 103–208, §2(c)(42), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “in the case of such a student attending an eligible institution who has completed the first 2 years of undergraduate study but who has not completed the remainder of a program of undergraduate study—
+Subsec. (d)(2)(B). Pub. L. 103–208, §2(c)(42), amended subpar. (B) generally. Prior to amendment, subpar. (B)read as follows: “in the case of such a student attending an eligible institution who has completed the first 2 years of undergraduate study but who has not completed the remainder of a program of undergraduate study—
 
 &emsp;“(i) $5,000, if such student is enrolled in a program whose length is at least one academic year in length (as determined under section 1088 of this section);
 

@@ -12,7 +12,7 @@ A person who, outside the United States, engages in the act of—
 
 #### Amendments
 
-2001—Pub. L. 107–56, §374(a)(2), in concluding provisions, substituted “shall be punished as is provided for the like offense within the United States” for “shall befined under this title, imprisoned not more than 20 years, or both”.
+2001—Pub. L. 107–56, §374(a)(2), in concluding provisions, substituted “shall be punished as is provided for the like offense within the United States” for “shall be fined under this title, imprisoned not more than 20 years, or both”.
 
 Par. (2). Pub. L. 107–56, §374(a)(1), inserted “analog, digital, or electronic image,” after “plate, stone,”.
 
@@ -26,7 +26,7 @@ Pub. L. 104–132, title VIII, §807, Apr. 24, 1996, 110 Stat. 1308, provided th
 
 “(a)
 
-In General.—The Secretary of the Treasury (hereafter in this section referred to as the ‘Secretary’), in consultation with the advanced counterfeit deterrence steering committee, shall—
+In General.—The Secretary of the Treasury (hereafter in this section referred to as the ‘Secretary’),in consultation with the advanced counterfeit deterrence steering committee, shall—
 
 &emsp;“(1) study the use and holding of United States currency in foreign countries; and
 
@@ -129,4 +129,6 @@ Reports required.—The Secretary of the Treasury and the Secretary of State sha
 “(h)
 
 Enhanced Penalties for International Counterfeiting of United States Currency.—Pursuant to the authority of the United States Sentencing Commission under section 994 of title 28, United States Code, the Commission shall amend the sentencing guidelines prescribed by the Commission to provide an appropriate enhancement of the punishment for a defendant convicted under section 470 of title 18 of such Code.”
+
+\[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

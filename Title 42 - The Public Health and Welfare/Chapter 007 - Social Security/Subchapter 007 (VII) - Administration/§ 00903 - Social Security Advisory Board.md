@@ -34,7 +34,7 @@ On and after the date the Commissioner takes office, the Board shall advise the 
 
 &emsp;(B) 2 members (each member from a different political party) shall be appointed by the President pro tempore of the Senate with the advice of the Chairman and the Ranking Minority Member of the Senate Committee on Finance.
 
-&emsp;(C) 2 members (each member from a different political party) shall be appointed by the Speaker of the House of Representatives, with the advice of the Chairman and the Ranking Minority Member of the House Committee on Ways and Means.
+&emsp;(C) 2 members (each member from a different political party) shall be appointed by the Speaker of the House of Representatives, with the advice of the Chairman and theRanking Minority Member of the House Committee on Ways and Means.
 
 (2) The members shall be chosen on the basis of their integrity, impartiality, and good judgment, and shall be individuals who are, by reason of their education, experience, and attainments, exceptionally qualified to perform the duties of members of the Board.
 

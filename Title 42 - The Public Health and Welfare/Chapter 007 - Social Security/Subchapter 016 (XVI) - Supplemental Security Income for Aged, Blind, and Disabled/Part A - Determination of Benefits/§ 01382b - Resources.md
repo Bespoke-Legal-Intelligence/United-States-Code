@@ -10,7 +10,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(B) the value of any burial space or agreement (including any interest accumulated thereon) representing the purchase of a burial space (subject to such limits as to size or value as the Commissioner of Social Security may by regulation prescribe) held for the purpose of providing a place for the burial of the individual, his spouse, or any other member of his immediate family;
 
-&emsp;(3) other property which is so essential to the means of self-support of such individual (and such spouse) as to warrant its exclusion, as determined in accordance with and subjectto limitations prescribed by the Commissioner of Social Security, except that the Commissioner of Social Security shall not establish a limitation on property (including the tools of a tradesperson and the machinery and livestock of a farmer) that is used in a trade or business or by such individual as an employee;
+&emsp;(3) other property which is so essential to the means of self-support of such individual (and such spouse) as to warrant its exclusion, as determined in accordance with and subject to limitations prescribed by the Commissioner of Social Security, except that the Commissioner of Social Security shall not establish a limitation on property (including the tools of a tradesperson and the machinery and livestock of a farmer) that is used in a trade or business or by such individual as an employee;
 
 &emsp;(4) such resources of an individual who is blind or disabled and who has a plan for achieving self-support approved by the Commissioner of Social Security, as may be necessary for the fulfillment of such plan;
 
@@ -22,7 +22,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(8) the value of assistance referred to in section 1382a(b)(14) of this title, paid with respect to the dwelling unit occupied by such individual (or such individual and spouse);
 
-&emsp;(9) for the 9-month period beginning after the month in which received, any amount received by such individual (or such spouse) from a fund established by a State to aid victims of crime, to the extent that such individual (or such spouse) demonstrates that such amount was paid as compensation for expenses incurred or losses suffered as a result of a crime;
+&emsp;(9) for the 9-month period beginning after the month in which received, any amount received by such individual (or such spouse)from a fund established by a State to aid victims of crime, to the extent that such individual (or such spouse) demonstrates that such amount was paid as compensation for expenses incurred or losses suffered as a result of a crime;
 
 &emsp;(10) for the 9-month period beginning after the month in which received, relocation assistance provided by a State or local government to such individual (or such spouse), comparable to assistance provided under title II of the Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970 which is subject to the treatment required by section 216 of such Act \[42 U.S.C. 4636\];
 
@@ -128,7 +128,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 (1) In determining the resources of an individual, there shall be excluded an amount, not in excess of $1,500 each with respect to such individual and his spouse (if any), that is separately identifiable and has been set aside to meet the burial and related expenses of such individual or spouse.
 
-(2) The amount of $1,500, referred to in paragraph (1), with respect to an individual shall be reduced by an amount equal to (A) the total face value of all insurance policies on his life which are owned by him or his spouse and the cash surrender value of which has been excluded in determining the resources of such individual or of such individual and his spouse, and (B) the total of any amounts in an irrevocable trust (or other irrevocable arrangement) available to meet the burial and related expenses of such individual or his spouse.
+(2) The amount of $1,500, referred to in paragraph (1), with respect to an individual shall bereduced by an amount equal to (A) the total face value of all insurance policies on his life which are owned by him or his spouse and the cash surrender value of which has been excluded in determining the resources of such individual or of such individual and his spouse, and (B) the total of any amounts in an irrevocable trust (or other irrevocable arrangement) available to meet the burial and related expenses of such individual or his spouse.
 
 (3) If the Commissioner of Social Security finds that any part of the amount excluded under paragraph (1) was used for purposes other than those for which it was set aside in cases where the inclusion of any portion of the amount would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title, the Commissioner shall reduce any future benefits payable to the eligible individual (or to such individual and his spouse) by an amount equal to such part.
 
@@ -164,7 +164,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 &emsp;(A) the term “trust” includes any legal instrument or device that is similar to a trust;
 
-&emsp;(B) the term “corpus” means, with respect to a trust, all property and other interestsheld by the trust, including accumulated earnings and any other addition to the trust after its establishment (except that such term does not include any such earnings or addition in the month in which the earnings or addition is credited or otherwise transferred to the trust); and
+&emsp;(B) the term “corpus” means, with respect to a trust, all property and other interests held by the trust, including accumulated earnings and any other addition to the trust after its establishment (except that such term does not include any such earnings or addition in the month in which the earnings or addition is credited or otherwise transferred to the trust); and
 
 &emsp;(C) the term “asset” includes any income or resource of the individual (or of the individual's spouse), including—
 
@@ -184,7 +184,7 @@ In determining the resources of an individual (and his eligible spouse, if any) 
 
 #### References in Text
 
-The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970, referred to in subsec. (a)(10), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
+The Uniform Relocation Assistance and Real Property Acquisitions Policies Act of 1970, referred to insubsec. (a)(10), is Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, as amended. Title II of the Act enacted subchapter II (§4621 et seq.) of chapter 61 of this title, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, Transportation, repealed sections 1465 and 3074 of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and enacted provisions set out as notes under sections 4601 and 4621 of this title and under sections 501 to 512 of Title 23. For complete classification of title II to the Code, see Tables.
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(11), (13), is classified generally to Title 26, Internal Revenue Code.
 
@@ -238,7 +238,7 @@ Subsec. (c)(1). Pub. L. 100–203, §9104(a)(1), inserted “, and subject to p
 
 Subsec. (c)(4). Pub. L. 100–203, §9104(a)(2), added par. (4).
 
-Subsec. (d)(1). Pub. L. 100–203, §9105(a)(1), struck out “if the inclusion of any portion of such amount oramounts would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title” after “individual or spouse”.
+Subsec. (d)(1). Pub. L. 100–203, §9105(a)(1), struck out “if the inclusion of any portion of such amount or amounts would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title” after “individual or spouse”.
 
 Subsec. (d)(3). Pub. L. 100–203, §9105(a)(2), substituted “aside in cases where the inclusion of any portion of the amount would cause the resources of such individual, or of such individual and spouse, to exceed the limits specified in paragraph (1) or (2) (whichever may be applicable) of section 1382(a) of this title” for “aside”.
 

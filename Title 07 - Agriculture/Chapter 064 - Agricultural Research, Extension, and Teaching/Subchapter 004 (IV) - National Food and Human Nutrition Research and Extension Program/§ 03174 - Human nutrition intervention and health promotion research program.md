@@ -16,13 +16,13 @@ In administering human nutrition research projects under this section, the Secre
 
 #### (c) Administration of funds
 
-The Administrator of the Agricultural Research Service shall administer funds madeavailable to carry out this section to ensure a coordinated approach to health and nutrition research efforts.
+The Administrator of the Agricultural Research Service shall administer funds made available to carry out this section to ensure a coordinated approach to health and nutrition research efforts.
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2002.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2007.
 
-(Pub. L. 95–113, title XIV, §1424, as added Pub. L. 104–127, title VIII, §808, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title III, §301(a)(4), June 23, 1998, 112 Stat. 562.)
+(Pub. L. 95–113, title XIV, §1424, as added Pub. L. 104–127, title VIII, §808, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title III, §301(a)(4), June 23, 1998, 112 Stat. 562; Pub. L. 107–171, title VII, §7104, May 13, 2002, 116 Stat. 432.)
 
 #### Prior Provisions
 
@@ -31,6 +31,8 @@ A prior section 3174, Pub. L. 95–113, title XIV, §1424, as added Pub. L. 101�
 Another prior section 3174, Pub. L. 95–113, title XIV, §1424, Sept. 29, 1977, 91 Stat. 1000, provided for a study assessing potential value and cost of establishing regional food and human nutrition research centers and a report thereon, with findings and recommendations, to be submitted to the Congress not later than one year after Oct. 1, 1977, prior to repeal by Pub. L. 99–198, title XIV, §1413, Dec. 23, 1985, 99 Stat. 1549.
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1998—Subsec. (d). Pub. L. 105–185 substituted “each of fiscal years 1996 through 2002” for “fiscal years 1996 and 1997”.
 

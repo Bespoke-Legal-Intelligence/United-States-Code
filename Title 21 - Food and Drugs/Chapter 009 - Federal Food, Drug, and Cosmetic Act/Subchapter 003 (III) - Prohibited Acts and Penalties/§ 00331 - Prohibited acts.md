@@ -10,7 +10,7 @@ The following acts and the causing thereof are prohibited:
 
 (d) The introduction or delivery for introduction into interstate commerce of any article in violation of section 344 or 355 of this title.
 
-(e) The refusal to permit access to or copying of any record as required by section 350a, 354, or 373 of this title; or the failure to establish or maintain any record, or make any report, required under section 350a, 354, 355(i) or (k), 360b(a)(4)(C), 360b(j), (<i>l</i>), or (m), 360e(f), or 360i of this title, or the refusal to permit access to or verification or copying of any such required record.
+(e) The refusal to permit access to or copying of any record as required by section 350a, 350c, 354, 373, or 374(a) of this title; or the failure to establish or maintain any record, or make any report, required under section 350a, 350c(b), 354, 355(i) or (k), 360b(a)(4)(C), 360b(j), (<i>l</i>), or (m), 360e(f), or 360i of this title, or the refusal to permit access to or verification or copying of any such required record.
 
 (f) The refusal to permit entry or inspection as authorized by section 374 of this title.
 
@@ -24,7 +24,7 @@ The following acts and the causing thereof are prohibited:
 
 (3) The doing of any act which causes a drug to be a counterfeit drug, or the sale or dispensing, or the holding for sale or dispensing, of a counterfeit drug.
 
-(j) The using by any person to his own advantage, or revealing, other than to the Secretary or officers or employees of the Department, or to the courts when relevant in any judicial proceeding under this chapter, any information acquired under authority of section 344, 348, 350a, 355, 360, 360b, 360c, 360d, 360e, 360f, 360h, 360i, 360j, 374, 379, or 379e of this title concerning any method or process which as a trade secret is entitled to protection; or the violating of section 346a(i)(2) of this title or any regulation issued under that section..<sup>1</sup> This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of such committee or any joint committee of Congress or any subcommittee of such joint committee.
+(j) The using by any person to his own advantage, or revealing, other than to the Secretary or officers or employees of the Department, or to the courts when relevant in any judicial proceeding under this chapter, any information acquired under authority of section 344, 348, 350a, 350c, 355, 360, 360b, 360c, 360d, 360e, 360f, 360h, 360i, 360j, 374, 379, or 379e of this title concerning any method or process which as a trade secret is entitled to protection; or the violating of section 346a(i)(2) of this title or any regulation issued under that section..<sup>1</sup> This paragraph does not authorize the withholding of information from either House of Congress or from, to the extent of matter within its jurisdiction, any committee or subcommittee of such committee or any joint committee of Congress or any subcommittee of such joint committee.
 
 (k) The alteration, mutilation, destruction, obliteration, or removal of the whole or any part of the labeling of, or the doing of any other act with respect to, a food, drug, device, or cosmetic, if such act is done while such article is held for sale (whether or not the first sale) after shipment in interstate commerce and results in such article being adulterated or misbranded.
 
@@ -46,13 +46,13 @@ The following acts and the causing thereof are prohibited:
 
 (s) The failure to provide the notice required by section 350a(c) or 350a(e) of this title, the failure to make the reports required by section 350a(f)(1)(B) of this title, the failure to retain the records required by section 350a(b)(4) of this title, or the failure to meet the requirements prescribed under section 350a(f)(3) of this title.
 
-(t) The importation of a drug in violation of section 381(d)(1) of this title, the sale, purchase, or trade of a drug or drug sample or the offer tosell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title, or the distribution of drugs in violation of section 353(e) of this title or the failure to otherwise comply with the requirements of section 353(e) of this title.
+(t) The importation of a drug in violation of section 381(d)(1) of this title, the sale, purchase, or trade of a drug or drug sample or the offer to sell, purchase, or trade a drug or drug sample in violation of section 353(c) of this title, the sale, purchase, or trade of a coupon, the offer to sell, purchase, or trade such a coupon, or the counterfeiting of such a coupon in violation of section 353(c)(2) of this title, the distribution of a drug sample in violation of section 353(d) of this title or the failure to otherwise comply with the requirements of section 353(d) of this title, or the distribution of drugs in violation of section 353(e) of this title or the failure to otherwise comply with the requirements of section 353(e) of this title.
 
 (u) The failure to comply with any requirements of the provisions of, or any regulations or orders of the Secretary, under section 360b(a)(4)(A), 360b(a)(4)(D), or 360b(a)(5) of this title.
 
 (v) The introduction or delivery for introduction into interstate commerce of a dietary supplement that is unsafe under section 350b of this title.
 
-(w) The making of a knowingly false statement in any record or report required or requested under subparagraph (A) or (B) of section 381(d)(3) of this title, the failure to submit or maintain records as required by sections 381(d)(3)(A) and 381(d)(3)(B) of this title, the release into interstate commerce of any article imported into the United States under section 381(d)(3) of this title or any finished product made from such article (except for export in accordance with section 381(e) or 382 of this title or section 262(h) of title 42), or the failure to export or destroy any component, part or accessory not incorporated into a drug, biological product or device that will be exported in accordance with section 381(e) or 382 of this title or section 262(h) of title 42.
+(w) The making of a knowingly false statement in any statement, certificate of analysis, record, or report required or requested under section 381(d)(3) of this title; the failure to submit a certificate of analysis as required under such section; the failure to maintain records or to submit records or reports as required by such section; the release into interstate commerce of any article or portion thereof imported into the United States under such section or any finished product made from such article or portion, except for export in accordance with section 381(e) or 382 of this title, or with section 262(h) of title 42; or the failure to so export or to destroy such an article or portions thereof, or such a finished product.
 
 (x) The falsification of a declaration of conformity submitted under section 360d(c) of this title or the failure or refusal to provide data or information requested by the Secretary under paragraph (3) of such section.
 
@@ -68,13 +68,43 @@ The following acts and the causing thereof are prohibited:
 
 (aa) The importation of a covered product in violation of section 384 of this title, the falsification of any record required to be maintained or provided to the Secretary under such section, or any other violation of regulations under such section.
 
-(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380; Pub. L. 106–387, §1(a) \[title VII, §745(d)(1)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–39.)
+(bb) The transfer of an article of food in violation of an order under section 334(h) of this title, or the removal or alteration of any mark or label required by the order to identify the article as detained.
+
+(cc) The importing or offering for import into the United States of an article of food by, with the assistance of, or at the direction of, a person debarred under section 335a(b)(3) of this title.
+
+(dd) The failure to register in accordance with section 350d of this title.
+
+(ee) The importing or offering for import into the United States of an article of food in violation of the requirements under section 381(m) of this title.
+
+(ff) The importing or offering for import into the United States of a drug or device with respect to which there is a failure to comply with a request of the Secretary to submit to the Secretary a statement under section 381(<i>o</i>) of this title.
+
+(gg) The knowing failure of a person accredited under paragraph (2) of section 374(g) of this title to comply with paragraph (7)(E) of such section; the knowing inclusion by such a person of false information in an inspection report under paragraph (7)(A) of such section; or the knowing failure of such a person to include material facts in such a report.
+
+(June 25, 1938, ch. 675, §301, 52 Stat. 1042; Dec. 22, 1941, ch. 613, §1, 55 Stat. 851; July 6, 1945, ch. 281, §1, 59 Stat. 463; Mar. 10, 1947, ch. 16, §1, 61 Stat. 11; June 24, 1948, ch. 613, §1, 62 Stat. 582; Mar. 16, 1950, ch. 61, §3(b), 64 Stat. 20; Aug. 7, 1953, ch. 350, §2, 67 Stat. 477; Pub. L. 85–929, §5, Sept. 6, 1958, 72 Stat. 1788; Pub. L. 86–618, title I, §§104, 105(a), July 12, 1960, 74 Stat. 403; Pub. L. 87–781, title I, §§103(c), 104(e)(1), 106(c), 114(a), title III, §304, Oct. 10, 1962, 76 Stat. 784, 785, 788, 791, 795; Pub. L. 89–74, §§5, 9(c), July 15, 1965, 79 Stat. 232, 235; Pub. L. 90–399, §103, July 13, 1968, 82 Stat. 352; Pub. L. 90–639, §2(b), Oct. 24, 1968, 82 Stat. 1361; Pub. L. 91–513, title II, §701(a), Oct. 27, 1970, 84 Stat. 1281; Pub. L. 92–387, §4(e), Aug. 16, 1972, 86 Stat. 562; Pub. L. 94–295, §§3(b), 4(b)(1), 7(b), May 28, 1976, 90 Stat. 576, 580, 582; Pub. L. 96–359, §5, Sept. 26, 1980, 94 Stat. 1193; Pub. L. 99–570, title IV, §4014(b)(2), Oct. 27, 1986, 100 Stat. 3207–120; Pub. L. 100–293, §7(a), Apr. 22, 1988, 102 Stat. 99; Pub. L. 101–502, §5(j), Nov. 3, 1990, 104 Stat. 1289; Pub. L. 101–508, title IV, §4755(c)(2), Nov. 5, 1990, 104 Stat. 1388–210; Pub. L. 102–300, §3(a)(1), June 16, 1992, 106 Stat. 238; Pub. L. 102–571, title I, §107(2), (3), Oct. 29, 1992, 106 Stat. 4499; Pub. L. 103–80, §3(c), Aug. 13, 1993, 107 Stat. 775; Pub. L. 103–396, §2(b)(1), Oct. 22, 1994, 108 Stat. 4154; Pub. L. 103–417, §10(b), Oct. 25, 1994, 108 Stat. 4332; Pub. L. 104–134, title II, §2103, Apr. 26, 1996, 110 Stat. 1321–319; Pub. L. 104–170, title IV, §403, Aug. 3, 1996, 110 Stat. 1514; Pub. L. 104–250, §5(d), Oct. 9, 1996, 110 Stat. 3156; Pub. L. 105–115, title I, §125(a)(2)(A), (C), (b)(2)(B), title II, §§204(b), 210(c), title IV, §§401(b), 421, Nov. 21, 1997, 111 Stat. 2325, 2336, 2345, 2364, 2380; Pub. L. 106–387, §1(a) \[title VII, §745(d)(1)\], Oct. 28, 2000, 114 Stat. 1549, 1549A–39; Pub. L. 107–188, title III, §§303(b), 304(d), 305(b), 306(c), 307(b), 321(b)(2), 322(b), June 12, 2002, 116 Stat. 664, 666, 668, 670, 672, 676, 677; Pub. L. 107–250, title II, §201(d), Oct. 26, 2002, 116 Stat. 1609.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 401(e) of Pub. L. 105–115, see Effective and Termination Dates of 1997 Amendment note below.</i>
 
 #### Amendments
+
+2002—Par. (e). Pub. L. 107–188, §306(c)(1), substituted “by section 350a, 350c, 354, 373, or 374(a) of this title” for “by section 350a, 354, or 373 of this title” and “under section 350a, 350c(b)” for “under section 350a”.
+
+Par. (j). Pub. L. 107–188, §306(c)(2), inserted “350c,” after “350a,”.
+
+Par. (w). Pub. L. 107–188, §322(b), amended par. (w) generally. Prior to amendment, par. (w) read as follows: “The making of a knowingly false statement in any record or report required or requested under subparagraph (A) or (B) of section 381(d)(3) of this title, the failure to submit or maintain records as required by sections 381(d)(3)(A) and 381(d)(3)(B) of this title, the release into interstate commerce of any article imported into the United States under section 381(d)(3) of this title or any finished product made from such article (except for export in accordance with section 381(e) or 382 of this title or section 262(h) of title 42), or the failure to export or destroy any component, part or accessory not incorporated into a drug, biological product or device that will be exported in accordance with section 381(e) or 382 of this title or section 262(h) of title 42.”
+
+Par. (bb). Pub. L. 107–188, §303(b), added par. (bb).
+
+Par. (cc). Pub. L. 107–188, §304(d), added par. (cc).
+
+Par. (dd). Pub. L. 107–188, §305(b), added par. (dd).
+
+Par. (ee). Pub. L. 107–188, §307(b), added par. (ee).
+
+Par. (ff). Pub. L. 107–188, §321(b)(2), added par. (ff).
+
+Par. (gg). Pub. L. 107–250 added par. (gg).
 
 2000—Par. (aa). Pub. L. 106–387 added par. (aa).
 
@@ -178,6 +208,12 @@ Par. (j). Pub. L. 86–618, §104, inserted reference to section 376 of this tit
 
 1941—Par. (i). Act Dec. 22, 1941, inserted reference to section 356 of this title.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–188, title III, §321(c), June 12, 2002, 116 Stat. 676, provided that: “The amendments made by this section \[amending this section and sections 360 and 381 of this title\] take effect upon the expiration of the 180-day period beginning on the date of the enactment of this Act \[June 12, 2002\].”
+
+Pub. L. 107–188, title III, §322(c), June 12, 2002, 116 Stat. 678, provided that: “The amendments made by this section \[amending this section and section 381 of this title\] take effect upon the expiration of the 90-day period beginning on the date of the enactment of this Act \[June 12, 2002\].”
+
 #### Effective and Termination Dates of 1997 Amendment
 
 Amendment by sections 204, 210, and 421 of Pub. L. 105–115 effective 90 days after Nov. 21, 1997, except as otherwise provided, see section 501 of Pub. L. 105–115, set out as a note under section 321 of this title.
@@ -240,13 +276,17 @@ Secretary of Health and Human Services to promulgate regulations to implement am
 
 Amendment by Pub. L. 91–513 not to affect or abate any prosecutions for violation of law or any civil seizures or forfeitures and injunctive proceedings commenced prior to the effective date of such amendment, and all administrative proceedings pending before the Bureau of Narcotics and Dangerous Drugs \[now the Drug Enforcement Administration\] on Oct. 27, 1970, to be continued and brought to final determination in accord with laws and regulations in effect prior to Oct. 27, 1970, see section 702 of Pub. L. 91–513, set out as a note under section 321 of this title.
 
+#### Construction of Amendments by Pub. L. 107–188
+
+Pub. L. 107–188, title III, §315, June 12, 2002, 116 Stat. 675, provided that: “Nothing in this title \[enacting sections 350c, 350d, 398, 399, and 679c of this title, sections 3353, 3354, 8319, and 8320 of Title 7, Agriculture, and section 247b–20 of Title 42, The Public Health and Welfare, amending this section, sections 334, 335a, 342, 343, 360, 372, 374, and 381 of this title, and section 43 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section and sections 341, 350c, 350d, and 381 of this title\], or an amendment made by this title, shall be construed to alter the jurisdiction between the Secretaries of Agriculture and of Health and Human Services, under applicable statutes and regulations.”
+
 #### Transfer of Functions
 
 For transfer of functions of Federal Security Administrator to Secretary of Health, Education, and Welfare \[now Health and Human Services\], and of Food and Drug Administration in the Department of Agriculture to Federal Security Agency, see note set out under section 41 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 321, 332, 333, 347b, 355a, 360i, 360j, 360aaa of this title; title 42 section 1396r–8.
+This section is referred to in sections 321, 332, 333, 335a, 347b, 355a, 360, 360i, 360j, 360aaa of this title; title 42 section 1396r–8.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -12,7 +12,7 @@ The President of the United States is authorized and empowered to enter into neg
 
 (1) Whenever the President of the United States shall find that any properties in the Philippines, owned by the Philippine Government or by private persons, would be suitable for diplomatic or consular establishments of the United States after the inauguration of the independent Government, he may, with the approval of the Philippine Government, and in exchange for the conveyance of title to the United States, transfer to the said Government or private persons any properties of the United States in the Philippines. Title to any properties so transferred to private persons, and title to any properties so acquired by the United States, shall be vested in fee simple in such persons and the United States, respectively, notwithstanding the provisions contained in subsection (a) of this section.
 
-(2) Whenever, prior to July 4, 1946, the President of the United States shall find that anyproperties of the United States in the Philippines would be suitable for diplomatic and consular establishments of the United States after the inauguration of the independent Government, he shall designate the same by the issuance of a proclamation or proclamations, and title to any properties so designated shall continue to be vested in fee simple in the United States notwithstanding the provisions contained in subsection (a) of this section.
+(2) Whenever, prior to July 4, 1946, the President of the United States shall find that any properties of the United States in the Philippines would be suitable for diplomatic and consular establishments of the United States after the inauguration of the independent Government, he shall designate the same by the issuance of a proclamation or proclamations, and title to any properties so designated shall continue to be vested in fee simple in the United States notwithstanding the provisions contained in subsection (a) of this section.
 
 (3) Title to the lands and buildings pertaining to the official residences of the United States High Commissioner to the Philippine Islands in the cities of Manila and Baguio, together with all fixtures and movable objects, shall continue to be vested in the United States after July 4, 1946, notwithstanding the provisions contained in subsection (a) of this section.
 
@@ -22,7 +22,7 @@ The President of the United States is authorized and empowered to enter into neg
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is act Mar. 24, 1934, ch. 84, 48 Stat. 456, as amended, which enacted sections 1281a, 1391, 1393 to 1395 of this title, and section 1248 of Title 48, Territories and Insular Possessions, amended sections 1231 to 1234, 1237, 1238, 1239, 1241 to 1243, 1245, and 1247 of Title 48, and enacted a provision set out as a note under section 1391 of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in subsec. (a), is act Mar. 24, 1934, ch. 84, 48 Stat. 456, as amended, which enacted sections 1281a, 1391, 1393 to 1395 of this title, and section 1248 of Title 48, Territories and Insular Possessions, amended sections 1231 to 1234, 1237, 1238, 1239, 1241 to1243, 1245, and 1247 of Title 48, and enacted a provision set out as a note under section 1391 of this title. For complete classification of this Act to the Code, see Tables.
 
 #### Prior Provisions
 

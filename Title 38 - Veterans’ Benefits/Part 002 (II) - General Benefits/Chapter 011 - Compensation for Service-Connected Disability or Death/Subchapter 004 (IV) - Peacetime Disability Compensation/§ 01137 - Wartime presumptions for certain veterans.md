@@ -2,7 +2,7 @@
 
 For the purposes of this subchapter and subchapter V of this chapter and notwithstanding the provisions of sections 1132 and 1133 of this subchapter, the provisions of sections 1111, 1112, and 1113 of this chapter shall be applicable in the case of any veteran who served in the active military, naval, or air service after December 31, 1946.
 
-(Added Pub. L. 89–358, §7(a), Mar. 3, 1966, 80 Stat. 27, §337; amended Pub. L. 93–295, title II, §205, May 31, 1974, 88 Stat. 183; renumbered §1137 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
+(Added Pub. L. 89–358, §7(a), Mar. 3, 1966, 80 Stat. 27, §337; amended Pub. L. 93–295, title II, §205,May 31, 1974, 88 Stat. 183; renumbered §1137 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406.)
 
 #### Amendments
 

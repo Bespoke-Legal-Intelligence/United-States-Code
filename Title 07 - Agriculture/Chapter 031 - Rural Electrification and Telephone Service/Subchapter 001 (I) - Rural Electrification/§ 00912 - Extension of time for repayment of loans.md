@@ -1,6 +1,6 @@
 ### §912. Extension of time for repayment of loans
 
-(a) The Secretary is authorized and empowered to extend the time of payment of interest or principal of any loans made by the Secretary pursuant to this chapter, except that, with respect to any loan made under section 904 or 922of this title, the payment of interest or principal shall not be extended more than five years after such payment shall have become due.
+(a) The Secretary is authorized and empowered to extend the time of payment of interest or principal of any loans made by the Secretary pursuant to this chapter, except that, with respect to any loan made under section 904 or 922 of this title, the payment of interest or principal shall not be extended more than five years after such payment shall have become due.
 
 (b)(1) Subject to limitations established in appropriations Acts, the Secretary shall permit any borrower to defer the payment of principal and interest on any insured or direct loan made under this chapter under circumstances described in this subsection, notwithstanding any limitation contained in subsection (a) of this section, except that such deferment shall not be permitted based on the determination of the Secretary of the financial hardship of the borrower.
 

@@ -12,7 +12,7 @@ Except as provided in subsection (b) of this section, all assets of an employee 
 
 The requirements of subsection (a) of this section shall not apply—
 
-&emsp;(1) to any assets of a plan which consist of insurance contracts or policies issued by an insurance company qualified to do business in a State;
+&emsp;(1) to any assets of a plan which consist of insurance contracts or policies issued by aninsurance company qualified to do business in a State;
 
 &emsp;(2) to any assets of such an insurance company or any assets of a plan which are held by such an insurance company;
 
@@ -54,7 +54,7 @@ The requirements of subsection (a) of this section shall not apply—
 
 #### (d) Termination of plan
 
-(1) Upon termination of a pension plan to which section 1321 of this title does not apply atthe time of termination and to which this part applies (other than a plan to which no employer contributions have been made) the assets of the plan shall be allocated in accordance with the provisions of section 1344 of this title, except as otherwise provided in regulations of the Secretary.
+(1) Upon termination of a pension plan to which section 1321 of this title does not apply at the time of termination and to which this part applies (other than a plan to which no employer contributions have been made) the assets of the plan shall be allocated in accordance with the provisions of section 1344 of this title, except as otherwise provided in regulations of the Secretary.
 
 (2) The assets of a welfare plan which terminates shall be distributed in accordance with the terms of the plan, except as otherwise provided in regulations of the Secretary.
 

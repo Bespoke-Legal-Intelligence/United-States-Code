@@ -220,7 +220,7 @@
 
 #### (4) Grievance procedures
 
-&emsp;Each medicaid managed care organization shall establish an internal grievance procedure under which an enrollee who is eligible for medical assistance under the State plan under this subchapter, or a provider on behalf of such an enrollee, may challenge the denial of coverage of or payment for such assistance.
+&emsp;Each medicaid managed care organization shall establish an internal grievance procedure under which an enrollee who is eligible for medical assistance under the State plan under this subchapter, or a provider on behalf ofsuch an enrollee, may challenge the denial of coverage of or payment for such assistance.
 
 #### (5) Demonstration of adequate capacity and services
 
@@ -294,7 +294,7 @@
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Each contract under section 1396b(m) of this title with a medicaid managed care organization shall provide for an annual (as appropriate) external independent review conducted by a qualified independent entity of the quality outcomes and timeliness of, and access to, the items and services for which the organization is responsible under the contract. The requirement for such a review shall not apply until after the date that the Secretary establishes the identification method described in clause (ii).
+&emsp;&emsp;&emsp;Each contract under section 1396b(m) of this title with a medicaid managed careorganization shall provide for an annual (as appropriate) external independent review conducted by a qualified independent entity of the quality outcomes and timeliness of, and access to, the items and services for which the organization is responsible under the contract. The requirement for such a review shall not apply until after the date that the Secretary establishes the identification method described in clause (ii).
 
 #### (ii) Qualifications of reviewer
 
@@ -362,11 +362,11 @@
 
 #### (ii) Consultation in review of market materials
 
-&emsp;&emsp;&emsp;In the process of reviewing and approving such materials, the State shall providefor consultation with a medical care advisory committee.
+&emsp;&emsp;&emsp;In the process of reviewing and approving such materials, the State shall provide for consultation with a medical care advisory committee.
 
 #### (B) Service market
 
-&emsp;&emsp;A managed care entity shall distribute marketing materials to the entire service area of such entity covered under the contract under section 1396b(m) of this title or section 1396d(t)(3) of this title.
+&emsp;&emsp;A managed care entity shall distribute marketing materials to the entire servicearea of such entity covered under the contract under section 1396b(m) of this title or section 1396d(t)(3) of this title.
 
 #### (C) Prohibition of tie-ins
 
@@ -428,7 +428,7 @@
 
 &emsp;&emsp;&emsp;(iii) With respect to a determination under paragraph (1)(A)(ii), double the excess amount charged in violation of such subsection (and the excess amount charged shall be deducted from the penalty and returned to the individual concerned).
 
-&emsp;&emsp;&emsp;(iv) Subject to clause (ii), with respect to a determination under paragraph (1)(A)(iii), $15,000 for each individual notenrolled as a result of a practice described in such subsection.
+&emsp;&emsp;&emsp;(iv) Subject to clause (ii), with respect to a determination under paragraph (1)(A)(iii), $15,000 for each individual not enrolled as a result of a practice described in such subsection.
 
 &emsp;&emsp;(B) The appointment of temporary management—
 
@@ -494,7 +494,7 @@ Part E of subchapter IV of this chapter, referred to in subsec. (a)(2)(A)(iv), i
 
 The Indian Self-Determination Act, referred to in subsec. (a)(2)(C)(ii), is title I of Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2206, as amended, which is classified principally to part A (§450f et seq.) of subchapter II of chapter 14 of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 450 of Title 25 and Tables.
 
-The Indian Health Care Improvement Act, referred to in subsec. (a)(2)(C)(iii), is Pub. L. 94–437, Sept. 30, 1976, 90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
+The Indian Health Care Improvement Act, referred to in subsec. (a)(2)(C)(iii), is Pub. L. 94–437, Sept. 30, 1976,90 Stat. 1400, as amended. Title V of the Act is classified generally to subchapter IV (§1651 et seq.) of chapter 18 of Title 25. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 25 and Tables.
 
 Section 9517(c)(3) of the Omnibus Budget Reconciliation Act of 1985, referred to in subsec. (a)(3)(C)(i)(II), is section 9517(c)(3) of Pub. L. 99–272, which is set out as a note under section 1396b of this title.
 

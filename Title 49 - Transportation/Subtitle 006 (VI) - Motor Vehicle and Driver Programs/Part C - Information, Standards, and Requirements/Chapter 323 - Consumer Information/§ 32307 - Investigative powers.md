@@ -20,7 +20,7 @@ Civil Actions To Enforce.—A civil action to enforce a subpena or order of the 
 
 (d)
 
-Confidentiality of Information.—Information obtained by the Secretary under this section related to a confidential matter referred to in section 1905 of title 18 may be disclosed only to another officer or employee of the United States Government for use in carrying out this chapter. This subsection does not authorize information to be withheld from a committee of Congress authorized to have the information.
+Confidentiality of Information.—Information obtained by the Secretary under this section related to a confidential matter referred to in section 1905 of title 18 may be disclosed only to another officer or employee of the United States Government for use in carryingout this chapter. This subsection does not authorize information to be withheld from a committee of Congress authorized to have the information.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1040.)
 

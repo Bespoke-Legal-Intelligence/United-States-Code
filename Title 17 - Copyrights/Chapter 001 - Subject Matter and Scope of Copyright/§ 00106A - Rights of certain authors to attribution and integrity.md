@@ -102,7 +102,7 @@ Nature of study.—The Register of Copyrights, in consultation with the Chair of
 
 &emsp;“(2)
 
-Groups to be consulted.—The study under paragraph (1) shall be conducted in consultation with other appropriate departments and agencies of the United States, foreign governments, and groups involved in the creation, exhibition, dissemination, and preservation of works of art, including artists, artdealers, collectors of fine art, and curators of art museums.
+Groups to be consulted.—The study under paragraph (1) shall be conducted in consultation with other appropriate departments and agencies of the United States, foreign governments, and groups involved in the creation, exhibition, dissemination, and preservation of works of art, including artists, art dealers, collectors of fine art, and curators of art museums.
 
 &emsp;“(3)
 

@@ -4,7 +4,7 @@
 
 (b) The Postal Service shall fine a carrier an amount it deems reasonable for failure or refusal by that carrier to transport mail as required by the Postal Service under section 5203 of this title.
 
-(c) The Board may make deductions from the compensation of a carrier for failure to perform mail transportation service as required under section 5203 of this title. If the failure to perform is due to the fault of the carrier, it may deduct a sum not exceeding twice the compensation applying to such service. Such deductions shall not be made prior to the expiration of 60 days following service upon the carrier by the Board of notice of intention to assess a fine or make a deduction and of the basis therefor.
+(c) The Board may make deductions from the compensation of a carrier for failure to perform mail transportation service as required under section 5203 of this title. If the failure to perform is due to the fault of the carrier, it may deduct a sum not exceeding twice the compensation applying to such service. Such deductionsshall not be made prior to the expiration of 60 days following service upon the carrier by the Board of notice of intention to assess a fine or make a deduction and of the basis therefor.
 
 (Pub. L. 91–375, Aug. 12, 1970, 84 Stat. 769.)
 

@@ -74,7 +74,7 @@ If a State elects to carry out a Program, within the State or a political subdiv
 
 #### (1) In general
 
-&emsp;In operating a Program, a State or political subdivision of a State may follow the rules and procedures established by the State or political subdivision under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) or under the food stamp program.
+&emsp;In operating a Program, a State or political subdivision of a State may follow the rulesand procedures established by the State or political subdivision under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.) or under the food stamp program.
 
 #### (2) Standardized deductions
 
@@ -100,7 +100,7 @@ If a State elects to carry out a Program, within the State or a political subdiv
 
 #### (4) Limitation on eligibility
 
-&emsp;Notwithstanding any other provision of this section, a household may not receive benefits under this section as a result of the eligibilityof the household under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), unless the Secretary determines that any household with income above 130 percent of the poverty guidelines is not eligible for the program.
+&emsp;Notwithstanding any other provision of this section, a household may not receive benefits under this section as a result of the eligibility of the household under a State program funded under part A of title IV of the Social Security Act (42 U.S.C. 601 et seq.), unless the Secretary determines that any household with income above 130 percent of the poverty guidelines is not eligible for the program.
 
 (Pub. L. 88–525, §26, as added Pub. L. 104–193, title VIII, §854(a), Aug. 22, 1996, 110 Stat. 2340.)
 

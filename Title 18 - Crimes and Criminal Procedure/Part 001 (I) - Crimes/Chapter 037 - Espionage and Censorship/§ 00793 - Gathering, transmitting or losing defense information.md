@@ -16,7 +16,7 @@ Shall be fined under this title or imprisoned not more than ten years, or both.
 
 (g) If two or more persons conspire to violate any of the foregoing provisions of this section, and one or more of such persons do any act to effect the object of the conspiracy, each of the parties to such conspiracy shall be subject to the punishment provided for the offense which is the object of such conspiracy.
 
-(h)(1) Any person convicted of a violation of this section shall forfeit to the United States, irrespective of any provision of State law, anyproperty constituting, or derived from, any proceeds the person obtained, directly or indirectly, from any foreign government, or any faction or party or military or naval force within a foreign country, whether recognized or unrecognized by the United States, as the result of such violation. For the purposes of this subsection, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
+(h)(1) Any person convicted of a violation of this section shall forfeit to the United States, irrespective of any provision of State law, any property constituting, or derived from, any proceeds the person obtained, directly or indirectly, from any foreign government, or any faction or party or military or naval force within a foreign country, whether recognized or unrecognized by the United States, as the result of such violation. For the purposes of this subsection, the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
 (2) The court, in imposing sentence on a defendant for a conviction of a violation of this section, shall order that the defendant forfeit to the United States all property described in paragraph (1) of this subsection.
 
@@ -66,5 +66,5 @@ Limitation period in connection with indictments for violating this section, see
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 792, 951, 1717, 1956, 3077, 3239 of this title; title 5 section 8312; title 8 section 1101; title 22 section 2778; title 38 section 6105; title 42 section 2000aa; title 50 App. sections 19, 34, 2410.
+This section is referred to in sections 792, 951, 1717, 1956, 3077, 3239 of this title; title 5 section 8312; title 8 section 1101; title 19 section 1583; title 22 section 2778; title 38 section 6105; title 42 section 2000aa; title 50 App. sections 19, 34, 2410.
 

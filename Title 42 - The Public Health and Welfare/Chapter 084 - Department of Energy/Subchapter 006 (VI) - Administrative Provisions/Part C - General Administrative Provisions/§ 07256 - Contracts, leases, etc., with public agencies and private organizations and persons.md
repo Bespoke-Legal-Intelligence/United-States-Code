@@ -20,7 +20,7 @@ The Secretary may lease, upon terms and conditions the Secretary considers appro
 
 #### (d) Terms of lease
 
-(1) A lease entered into under subsection (c) of this section may not be for a term of more than 10 years, except that the Secretary may enter into a lease that includes an option to renew fora term of more than 10 years if the Secretary determines that entering into such a lease will promote the national security or be in the public interest.
+(1) A lease entered into under subsection (c) of this section may not be for a term of more than 10 years, except that the Secretary may enter into a lease that includes an option to renew for a term of more than 10 years if the Secretary determines that entering into such a lease will promote the national security or be in the public interest.
 
 (2) A lease entered into under subsection (c) of this section may provide for the payment (in cash or in kind) by the lessee of consideration in an amount that is less than the fair market rental value of the leasehold interest. Services relating to the protection and maintenance of the leased property may constitute all or part of such consideration.
 
@@ -78,7 +78,7 @@ Covered Transactions.—Subsection (b) applies to the following transactions:
 
 “(d)
 
-Applicability of Disposal Authority.—Nothing in this section shall be construed to limit the application of sections 202 and 203(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483 and 484(j)) to the disposal of equipment and other personal property covered by this section.
+Applicability of Disposal Authority.—Nothing in this section shall be construed to limit the application of sections 202 and 203(j) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483 and 484(j)) \[now 40 U.S.C. 521–527, 529, 549(a)–(e)\] to the disposal of equipment and other personal property covered by this section.
 
 “(e)
 
@@ -94,7 +94,7 @@ Goal.—Except as provided in subsection (c), a goal of 5 percent of the amount 
 
 &emsp;“(1) small business concerns, including mass media and advertising firms, owned and controlled by socially and economically disadvantaged individuals (as such term is used in section 8(d) of the Small Business Act (15 U.S.C. 637(d)) and regulations issued under that section), the majority of the earnings of which directly accrue to such individuals;
 
-&emsp;“(2) historically Black colleges and universities, including any nonprofit research institution that wasan integral part of such a college or university before November 14, 1986; and
+&emsp;“(2) historically Black colleges and universities, including any nonprofit research institution that was an integral part of such a college or university before November 14, 1986; and
 
 &emsp;“(3) minority institutions (as defined in section 1046(3) of the Higher Education Act of 1965 (20 U.S.C. 1135d-5(3))), which, for the purposes of this section, shall include Hispanic-serving institutions (as defined in section 316(b)(1) of such Act (20 U.S.C. 1059c(b)(1))).
 

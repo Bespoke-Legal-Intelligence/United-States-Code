@@ -1,6 +1,6 @@
 ### §8162. Enhanced-use leases
 
-(a)(1) The Secretary may in accordance with this subchapter enter into leases with respect to real property that is under the jurisdiction or control of the Secretary. Any such lease under this subchapter may be referred to as an ‘enhanced-use lease’. The Secretary may dispose of any such property that is leased to another party under this subchapter in accordance with section 8164 of this title. The Secretary may exercise the authority provided by this subchapter notwithstanding section 8122 of this title, section 321 of the Act of June 30, 1932 (40 U.S.C. 303b), sections 202 and 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484), or any other provision of law (other than Federal laws relating to environmental and historic preservation) inconsistent with this section. The applicability of this subchapter to section 421(b) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) is covered by subsection (c).
+(a)(1) The Secretary may in accordance with this subchapter enter into leases with respect to real property that is under the jurisdiction or control of the Secretary. Any such lease under this subchapter may be referred to as an “enhanced-use lease”. The Secretary may dispose of any such property that is leased to another party under this subchapter in accordance with section 8164 of this title. The Secretary may exercise the authority provided by this subchapter notwithstanding section 8122 of this title, subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40, or any other provision of law (other than Federal laws relating to environmental and historic preservation) inconsistent with this section. The applicability of this subchapter to section 421(b) of the Veterans’ Benefits and Services Act of 1988 (Public Law 100–322; 102 Stat. 553) is covered by subsection (c).
 
 (2) The Secretary may enter into an enhanced-use lease only if—
 
@@ -14,7 +14,7 @@
 
 &emsp;(B) the Secretary determines that the implementation of a business plan proposed by the Under Secretary for Health for applying the consideration under such a lease to the provision of medical care and services would result in a demonstrable improvement of services to eligible veterans in the geographic service-delivery area within which the property is located.
 
-(3) The provisions of the Act of March 3, 1931 (40 U.S.C. 276a et seq.), shall not, by reason of this section, become inapplicable to property that is leased to another party under an enhanced-use lease.
+(3) The provisions of sections 3141–3144, 3146, and 3147 of title 40, shall not, by reason of thissection, become inapplicable to property that is leased to another party under an enhanced-use lease.
 
 (4) A property that is leased to another party under an enhanced-use lease may not be considered to be unutilized or underutilized for purposes of section 501 of the McKinney-Vento Homeless Assistance Act (42 U.S.C. 11411).
 
@@ -52,15 +52,17 @@
 
 &emsp;(D) over one-half of the children to whom child-care services are provided are required to be children of employees of the Department.
 
-(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, §10(b), Dec. 21, 2001, 115 Stat. 920.)
+(Added Pub. L. 102–86, title IV, §401(a), Aug. 14, 1991, 105 Stat. 417; amended Pub. L. 106–117, title II, §208(a), (b), Nov. 30, 1999, 113 Stat. 1567; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675; Pub. L. 107–95, §10(b), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–217, §3(j)(5), Aug. 21, 2002, 116 Stat. 1300.)
 
 #### References in Text
 
 Section 421(b) of the Veterans’ Benefits and Services Act of 1988, referred to in subsecs. (a)(1) and (c), is section 421(b) of Pub. L. 100–322, title IV, May 20, 1988, 102 Stat. 553, which is not classified to the Code.
 
-Act of March 3, 1931, referred to in subsec. (a)(3), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, known as the Davis-Bacon Act, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
-
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–217, §3(j)(5)(A), substituted “subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40” for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b), sections 202 and 203 of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483, 484)”.
+
+Subsec. (a)(3). Pub. L. 107–217, §3(j)(5)(B), substituted “sections 3141–3144, 3146, and 3147 of title 40” for “the Act of March 3, 1931 (40 U.S.C. 276a et seq.)”.
 
 2001—Subsec. (b)(1). Pub. L. 107–95 designated existing provisions as subpar. (A) and added subpar. (B).
 

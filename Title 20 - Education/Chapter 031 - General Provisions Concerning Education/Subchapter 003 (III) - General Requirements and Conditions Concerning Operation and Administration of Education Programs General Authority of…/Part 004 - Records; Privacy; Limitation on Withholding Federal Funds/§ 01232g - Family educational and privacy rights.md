@@ -40,7 +40,7 @@
 
 &emsp;(iii) in the case of persons who are employed by an educational agency or institution but who are not in attendance at such agency or institution, records made and maintained in the normal course of business which relate exclusively to such person in that person's capacity as an employee and are not available for use for any other purpose; or
 
-&emsp;(iv) records on a student who is eighteen years of age or older, or is attending an institution of postsecondary education, which are made or maintained by a physician, psychiatrist, psychologist, or other recognized professional or paraprofessional acting in his professional or paraprofessional capacity, or assisting in that capacity, and which are made, maintained, or used only in connection with the provision of treatment to the student, and are not available to anyone other than persons providing such treatment, except that such records can be personally reviewed by a physician or other appropriate professional of the student's choice.
+&emsp;(iv) records on a student who is eighteen years of age or older, or is attending an institution of postsecondary education, which are made or maintained by a physician, psychiatrist, psychologist, or other recognized professional or paraprofessional acting in his professional or paraprofessional capacity, or assisting in that capacity, and which are made, maintained, or used only in connection with the provision of treatment to the student, and are not available to anyone other than persons providing such treatment, except that suchrecords can be personally reviewed by a physician or other appropriate professional of the student's choice.
 
 (5)(A) For the purposes of this section the term “directory information” relating to a student includes the following: the student's name, address, telephone listing, date and place of birth, major field of study, participation in officially recognized activities and sports, weight and height of members of athletic teams, dates of attendance, degrees and awards received, and the most recent previous educational agency or institution attended by the student.
 
@@ -180,7 +180,7 @@ In general.—An application under paragraph (1) shall certify that there are sp
 
 &emsp;Subsection (b)(4) of this section does not apply to education records subject to a court order under this subsection.
 
-(Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, title II, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836; Pub. L. 106–386, div. B, title VI, §1601(d), Oct. 28, 2000, 114 Stat. 1538; Pub. L. 107–56, title V, §507, Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–110, title X, §1062(3), Jan. 8, 2002, 115 Stat. 2088.)
+(Pub. L. 90–247, title IV, §444, formerly §438, as added Pub. L. 93–380, title V, §513(a), Aug. 21, 1974, 88 Stat. 571; amended Pub. L. 93–568, §2(a), Dec. 31, 1974, 88 Stat. 1858; Pub. L. 96–46, §4(c), Aug. 6, 1979, 93 Stat. 342; Pub. L. 101–542, title II, §203, Nov. 8, 1990, 104 Stat. 2385; Pub. L. 102–325, title XV, §1555(a), July 23, 1992, 106 Stat. 840; renumbered §444 and amended Pub. L. 103–382, titleII, §§212(b)(1), 249, 261(h), Oct. 20, 1994, 108 Stat. 3913, 3924, 3928; Pub. L. 105–244, title IX, §§951, 952, Oct. 7, 1998, 112 Stat. 1835, 1836; Pub. L. 106–386, div. B, title VI, §1601(d), Oct. 28, 2000, 114 Stat. 1538; Pub. L. 107–56, title V, §507, Oct. 26, 2001, 115 Stat. 367; Pub. L. 107–110, title X, §1062(3), Jan. 8, 2002, 115 Stat. 2088.)
 
 #### References in Text
 
@@ -226,7 +226,7 @@ Subsec. (b)(1)(A). Pub. L. 103–382, §249(2)(A)(i), inserted before semicolon 
 
 Subsec. (b)(1)(C). Pub. L. 103–382, §261(h)(2)(A), substituted “or (iii)” for “(iii) an administrative head of an education agency (as defined in section 1221e–3(c) of this title), or (iv)”.
 
-Subsec. (b)(1)(E). Pub. L. 103–382, §249(2)(A)(ii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “State and local officials orauthorities to whom such information is specifically required to be reported or disclosed pursuant to State statute adopted prior to November 19, 1974;”.
+Subsec. (b)(1)(E). Pub. L. 103–382, §249(2)(A)(ii), amended subpar. (E) generally. Prior to amendment, subpar. (E) read as follows: “State and local officials or authorities to whom such information is specifically required to be reported or disclosed pursuant to State statute adopted prior to November 19, 1974;”.
 
 Subsec. (b)(1)(H). Pub. L. 103–382, §261(h)(2)(B), substituted “the Internal Revenue Code of 1986” for “the Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
@@ -260,7 +260,7 @@ Subsec. (h). Pub. L. 103–382, §249(5), added subsec. (h).
 
 1974—Subsec. (a)(1). Pub. L. 93–568, §2(a)(1)(A)–(C), (2)(A)–(C), (3), designated existing par. (1) as subpar. (A), substituted reference to educational agencies and institutions for reference to state or local educational agencies, institutions of higher education, community colleges, schools, agencies offering preschool programs, and other educational institutions, substituted the generic term education records for the enumeration of such records, and extended the right to inspect and review such records to parents of children who have been in attendance, and added subpars. (B) and (C).
 
-Subsec. (a)(2). Pub. L. 93–568, §2(a)(4), substituted provisions making the availability of funds to educational agencies and institutions conditional on the granting of an opportunity for a hearing to parents of students who are or have been in attendance at such institution or agency to challenge the contents of the student's education records for provisions granting the parents an opportunity for such hearing, and inserted provisions authorizing insertion into the records a written explanation of the parents respecting the content of such records.
+Subsec. (a)(2). Pub. L. 93–568, §2(a)(4), substituted provisions making the availability of funds to educational agencies and institutions conditional on the granting of an opportunity for a hearing to parents of students who are or have been in attendance at such institutionor agency to challenge the contents of the student's education records for provisions granting the parents an opportunity for such hearing, and inserted provisions authorizing insertion into the records a written explanation of the parents respecting the content of such records.
 
 Subsec. (a)(3) to (6). Pub. L. 93–568, §2(a)(1)(G), (2)(F), (5), added pars. (3) to (6).
 
@@ -302,7 +302,7 @@ Section 513(b)(1) of Pub. L. 93–380 provided that: “The provisions of this s
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1092, 1232h, 1232i, 1417, 2304, 7115, 7165, 7903, 7908, 9274 of this title; title 8 section 1372; title 10 section 503; title 25 section 3205; title 29 section 2871; title 42 section 11432.
+This section is referred to in sections 1092, 1232h, 1232i, 1417, 2304, 7115, 7165, 7903, 7908, 9274, 9514, 9573 of this title; title 8 section 1372; title 10 section 503; title 25 section 3205; title 29 section 2871; title 42 section 11432.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

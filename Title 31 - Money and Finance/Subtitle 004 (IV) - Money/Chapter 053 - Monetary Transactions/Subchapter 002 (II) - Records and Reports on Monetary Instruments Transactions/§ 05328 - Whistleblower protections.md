@@ -28,7 +28,7 @@ Limitation.—The protections of this section shall not apply to any employee wh
 
 (e)
 
-Coordination With Other Provisions of Law.—This section shall not apply with respect to any financial institution or nonfinancial trade or business which is subject to section 33 of the Federal Deposit Insurance Act, section 213 of the Federal Credit Union Act, or section 21A(q) of the Home Owners’ Loan Act <sup>1</sup> (as addedby section 251(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991).
+Coordination With Other Provisions of Law.—This section shall not apply with respect to any financial institution or nonfinancial trade or business which is subject to section 33 of the Federal Deposit Insurance Act, section 213 of the Federal Credit Union Act, or section 21A(q) of the Home Owners’ Loan Act <sup>1</sup> (as added by section 251(c) of the Federal Deposit Insurance Corporation Improvement Act of 1991).
 
 (Added Pub. L. 102–550, title XV, §1563(a), Oct. 28, 1992, 106 Stat. 4072; amended Pub. L. 107–56, title III, §365(c)(2)(B)(i), Oct. 26, 2001, 115 Stat. 335.)
 

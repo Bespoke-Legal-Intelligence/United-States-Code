@@ -10,7 +10,7 @@
 
 &emsp;(3) no tax revenues of the United States shall be made available for obligations and expenditure after October 1, 1979, for purposes of implementing the Panama Canal Treaty of 1977 and related agreements, unless hereafter specifically approved by the Congress through the authorization and appropriation process;
 
-&emsp;(4) the total amount expended by the Commission from funds available for the use of the Commission shall not exceed the total amount deposited in the Panama Canal Revolving Fund; and
+&emsp;(4) the total amount expended by the Commission from funds available for the use of theCommission shall not exceed the total amount deposited in the Panama Canal Revolving Fund; and
 
 &emsp;(5) the foregoing paragraphs of this subsection do not apply to expenditures made by the United States in fulfilling United States obligations to transfer the remains of our honored dead from Mount Hope Cemetery in the former Canal Zone to an appropriate and dignified resting place in accordance with Reservation 3 to the Treaty Concerning the Permanent Neutrality and Operation of the Panama Canal.
 

@@ -28,7 +28,7 @@
 
 &emsp;(B) Federal policy therefore should encourage the development of appropriate health, educational, and social services where such services are now lacking or inadequate, and the better coordination of existing services where they are available; and
 
-&emsp;(C) services encouraged by the Federal Government should promote the involvement of parents with their adolescent children, and should emphasize the provision of support by other family members, religious and charitable organizations, voluntary associations, and other groups in the private sector in order to help adolescents and their families deal with complex issues of adolescent premaritalsexual relations and the consequences of such relations; and
+&emsp;(C) services encouraged by the Federal Government should promote the involvement of parents with their adolescent children, and should emphasize the provision of support by other family members, religious and charitable organizations, voluntary associations, and other groups in the private sector in order to help adolescents and their families deal with complex issues of adolescent premarital sexual relations and the consequences of such relations; and
 
 &emsp;(11)(A) there has been limited research concerning the societal causes and consequences of adolescent pregnancy;
 
@@ -42,7 +42,7 @@
 
 &emsp;(2) to promote adoption as an alternative for adolescent parents;
 
-&emsp;(3) to establish innovative, comprehensive, and integrated approaches to the delivery of care services both for pregnant adolescents, with primary emphasis on unmarried adolescents who are seventeen years of age or under, and for adolescent parents, which shall be based upon an assessment of existing programs and, where appropriate, upon efforts to establish better coordination, integration, and linkages among such existing programs in order to—
+&emsp;(3) to establish innovative, comprehensive, and integrated approaches to the delivery of care services both for pregnant adolescents, with primary emphasis on unmarried adolescents who are seventeen years of age or under, and for adolescent parents, which shall be based upon an assessment of existing programs and, where appropriate, upon efforts toestablish better coordination, integration, and linkages among such existing programs in order to—
 
 &emsp;&emsp;(A) enable pregnant adolescents to obtain proper care and assist pregnant adolescents and adolescent parents to become productive independent contributors to family and community life; and
 

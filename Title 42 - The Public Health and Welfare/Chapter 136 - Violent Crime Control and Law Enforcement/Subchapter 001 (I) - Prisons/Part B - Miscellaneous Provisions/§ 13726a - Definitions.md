@@ -12,7 +12,7 @@ In sections 13726 to 13726c of this title:
 
 #### (3) Violent prisoner
 
-&emsp;The term “violent prisoner” means any individual in the custody of a State or an inferior political subdivision of a State who has previously been convicted of or is currently charged with a crime of violence or any similar statute of a State or the inferior political subdivisions of a State, or any attempt thereof.
+&emsp;The term “violent prisoner” means any individual in the custody of a State or an inferior political subdivision of a State who has previously been convicted of or is currentlycharged with a crime of violence or any similar statute of a State or the inferior political subdivisions of a State, or any attempt thereof.
 
 (Pub. L. 106–560, §3, Dec. 21, 2000, 114 Stat. 2784.)
 

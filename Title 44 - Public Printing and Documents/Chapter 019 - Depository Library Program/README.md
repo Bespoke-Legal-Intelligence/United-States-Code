@@ -33,7 +33,7 @@ Authority and responsibilities under chapter not limited or repealed by Federal 
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 3317 of this title.
+This chapter is referred to in section 3317 of this title; title 42 sections 15326, 15385.
 
 
 ---

@@ -2,7 +2,7 @@
 
 #### (a) Establishment; function
 
-There is established a Joint Commission on Research and Development of Critical Agricultural Materials, hereinafter referred to as the Joint Commission. The function of the JointCommission shall be to assist the Secretaries in carrying out the purposes of this subchapter.
+There is established a Joint Commission on Research and Development of Critical Agricultural Materials, hereinafter referred to as the Joint Commission. The function of the Joint Commission shall be to assist the Secretaries in carrying out the purposes of this subchapter.
 
 #### (b) Membership
 
@@ -34,7 +34,7 @@ The Secretaries are authorized to provide without reimbursement such administrat
 
 #### (g) Advice of scientific, engineering and business communities
 
-To the maximum extent possible, the Secretaries and the Joint Commission shall seek the advice of the scientific, engineering and business communities with respect to the activities carried out under this subchapter. The Secretaries and the Commission shall specifically seek the advice of persons with expertise in appropriate fields of agricultural research in land grant colleges and other universities, in State agricultural experiment stations, and in other appropriate organizations; and, persons with expertise in manufacturing and commerce involving rubber and other critical agricultural materials in private enterprise and other appropriate organizations.
+To the maximum extent possible, the Secretaries and the Joint Commission shall seekthe advice of the scientific, engineering and business communities with respect to the activities carried out under this subchapter. The Secretaries and the Commission shall specifically seek the advice of persons with expertise in appropriate fields of agricultural research in land grant colleges and other universities, in State agricultural experiment stations, and in other appropriate organizations; and, persons with expertise in manufacturing and commerce involving rubber and other critical agricultural materials in private enterprise and other appropriate organizations.
 
 (Pub. L. 95–592, §4, Nov. 4, 1978, 92 Stat. 2530; Pub. L. 98–284, §4, May 16, 1984, 98 Stat. 181; Pub. L. 104–127, title VIII, §881(a), Apr. 4, 1996, 110 Stat. 1175.)
 
@@ -49,4 +49,8 @@ Subsec. (b). Pub. L. 98–284, §4(b), struck out provision mandating that two o
 Subsec. (c). Pub. L. 98–284, §4(c), substituted “The Joint Commission shall be headed by a Chairman who shall be selected by the Secretary of Agriculture from among the three individuals designated by the Secretary as members under subsection (b) of this section” for “The Joint Commission shall be headed by a Chairman. The Secretary of Agriculture shall designate one of the two members from his Department to serve as Joint Commission Chairman during the first two-year period following November 4, 1978, and the Secretary of Commerce shall designate one of the two members from his Department as Joint Commission Chairman during the second two-year period following November 4, 1978. And the same process of designating Joint Commission Chairmen shall be followed in ensuing years”.
 
 Subsec. (h). Pub. L. 98–284, §4(d), substituted “manufacturing and commerce involving rubber and other critical agricultural materials” for “rubber manufacturing and commerce”.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

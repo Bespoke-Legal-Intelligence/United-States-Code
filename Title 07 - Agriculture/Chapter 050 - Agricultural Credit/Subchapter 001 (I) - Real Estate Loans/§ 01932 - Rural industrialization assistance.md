@@ -2,7 +2,7 @@
 
 #### (a) Loans for private business enterprises; pollution abatement and control; aquaculture; solar energy; loan guarantees
 
-The Secretary may also make and insure loans to public, private, or cooperative organizations organized for profit or nonprofit, to Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups, or to individuals for the purposes of (1) improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural communities, including pollution abatement and control, (2) the conservation, development, and use of water for aquaculture purposes in rural areas, (3) reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas, and (4) to facilitate economic opportunity for industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade. For the purposes of this subsection, the term “solar energy” means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended \[42 U.S.C. 5901 et seq.\]. Such loans, when originated, held, and serviced by other lenders, may be guaranteed by the Secretary under this section without regard to paragraphs (1) and (4) of section 1983 of this title. As used in this subsection, the term “aquaculture” means the culture or husbandry of aquatic animals or plants by private industry for commercial purposes including the culture and growing of fish by private industry for the purpose of creating or augmenting publicly owned and regulated stocks of fish. No loan may be made, insured, or guaranteed under this subsection that exceeds $25,000,000 in principal amount.
+The Secretary may also make and insure loans to public, private, or cooperative organizations organized for profit or nonprofit, to Indian tribes on Federal and State reservations or other federally recognized Indian tribal groups, or to individuals for the purposes of (1) improving, developing, or financing business, industry, and employment and improving the economic and environmental climate in rural communities, including pollution abatement and control, (2) the conservation, development, and use of water for aquaculture purposes in rural areas, (3) reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems and other renewable energy systems (including wind energy systems and anaerobic digestors for the purpose of energy generation), including the modification of existing systems, in rural areas, and (4) to facilitate economic opportunity for industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade. For the purposes of this subsection, the term “solar energy” means energy derived from sources (other than fossil fuels) and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended \[42 U.S.C. 5901 et seq.\]. Such loans, when originated, held, and serviced by other lenders, may be guaranteed by the Secretary under this section without regard to paragraphs (1) and (4) of section 1983 of this title. As used in this subsection, the term “aquaculture” means the culture or husbandry of aquatic animals or plants by private industry for commercial purposes including the culture and growing of fish by private industry for the purpose of creating or augmenting publicly owned and regulated stocks of fish. No loan may be made, insured, or guaranteed under this subsection that exceeds $25,000,000 in principal amount.
 
 #### (b) Solid waste management grants
 
@@ -10,9 +10,29 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (c) Rural business enterprise grants
 
-#### (1) In general
+#### (1) Grants
 
-&emsp;The Secretary may also make grants, not to exceed $50,000,000 annually, to public bodies and private nonprofit corporations for measures designed to finance and facilitate development of small and emerging private business enterprises (including nonprofit entities) or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancementto adult students, including the development, construction or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refinancing, services and fees.
+#### (A) In general
+
+&emsp;&emsp;The Secretary may also make grants, not to exceed $50,000,000 annually, to public bodies and private nonprofit corporations for measures designed to finance and facilitate development of small and emerging private business enterprises (including nonprofit entities) or the creation, expansion, and operation of rural distance learning networks or rural learning programs that provide educational instruction or job training instruction related to potential employment or job advancement to adult students, including the development, construction or acquisition of land, buildings, plants, equipment, access streets and roads, parking areas, utility extensions, necessary water supply and waste disposal facilities, refinancing, services and fees.
+
+#### (B) Small and emerging private business enterprises
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;For the purpose of subparagraph (A), a small and emerging private business enterprise shall include (regardless of the number of employees or operating capital of the enterprise) an eligible nonprofit entity, or other tax-exempt organization,with a principal office in an area that is located—
+
+&emsp;&emsp;&emsp;&emsp;(I) on land of an existing or former Native American reservation; and
+
+&emsp;&emsp;&emsp;&emsp;(II) in a city, town, or unincorporated area that has a population of not more than 5,000 inhabitants.
+
+#### (ii) Use of grant
+
+&emsp;&emsp;&emsp;An eligible nonprofit entity, or other tax exempt organization, described in clause (i) may use assistance provided under this paragraph to create, expand, or operate value-added processing in an area described in clause (i) in connection with production agriculture.
+
+#### (iii) Priority
+
+&emsp;&emsp;&emsp;In making grants under this paragraph, the Secretary shall give priority to grants that will be used to provide assistance to eligible nonprofit entities and other tax exempt organizations described in clause (i).
 
 #### (2) Passenger transportation services or facilities
 
@@ -34,7 +54,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 (5) No grant or loan authorized to be made under this chapter shall require or be subject to the prior approval of any officer, employee, or agency of any State.
 
-(6) No loan commitment issued under this section shall be conditioned upon the applicant investing in excess of 10 per centum in the business or industrial enterprise for which purpose the loan is to be made unless the Secretary determines there are special circumstances which necessitate an equity investment by the applicant greater than 10 per centum.
+(6) No loan commitment issued under this section shall be conditioned upon the applicant investing in excess of 10 per centum in the business or industrial enterprise for which purpose the loan is to be made unless the Secretary determines there are special circumstances whichnecessitate an equity investment by the applicant greater than 10 per centum.
 
 (7) No provision of law shall prohibit issuance by the Secretary of certificates evidencing beneficial ownership in a block of notes insured or guaranteed under this chapter or Title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\]; any sale by the Secretary of such certificates shall be treated as a sale of assets for the purposes of chapter 11 of title 31. Any security representing beneficial ownership in a block of notes guaranteed or insured under this chapter or Title V of the Housing Act of 1949 issued by a private entity shall be exempt from laws administered by the Securities and Exchange Commission, except sections 77q, 77v, and 77x of title 15; however, the Secretary shall require (i) that the issuer place such notes in the custody of an institution chartered by a Federal or State agency to act as trustee and (ii) that the issuer provide such periodic reports of sales as the Secretary deems necessary.
 
@@ -102,13 +122,13 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 &emsp;&emsp;(B) demonstrate previous expertise in providing technical assistance in rural areas;
 
-&emsp;&emsp;(C) demonstrate the ability to assist in the retention of businesses, facilitate the establishment of cooperatives and new cooperative approaches, and generate employment opportunities that will improve the economic conditions of rural areas;
+&emsp;&emsp;(C) demonstrate the ability to assist in the retention of businesses, facilitate the establishment of cooperatives and new cooperative approaches, and generate employmentopportunities that will improve the economic conditions of rural areas;
 
 &emsp;&emsp;(D) demonstrate the ability to create horizontal linkages among businesses within and among various sectors in rural areas of the United States and vertical linkages to domestic and international markets;
 
 &emsp;&emsp;(E) commit to providing technical assistance and other services to underserved and economically distressed areas in rural areas of the United States; and
 
-&emsp;&emsp;(F) commit to providing greater than a 25 percent matching contribution with private funds and in-kind contributions.
+&emsp;&emsp;(F) commit to providing greater than a 25 percent matching contribution with private funds and in-kind contributions, except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382)).
 
 #### (6) 1-year grants; authority to approve grant for 1 additional year without application
 
@@ -124,7 +144,7 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 #### (9) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 1996 through 2002.
+&emsp;There are authorized to be appropriated to carry out this subsection $50,000,000 for each of fiscal years 1996 through 2007.
 
 #### (f) Grants to broadcasting systems
 
@@ -136,21 +156,109 @@ The Secretary may make grants to nonprofit organizations for the provision of re
 
 &emsp;The Secretary may make grants to statewide private nonprofit public television systems, whose coverage area is predominately rural, for the purpose of demonstrating the effectiveness of such systems in providing information on agriculture and other issues of importance to farmers and other rural residents. Grants available under this paragraph may be used for capital equipment expenditures, start-up and program costs, and other costs necessary to the operation of such demonstrations.
 
-#### (g) Loan guarantees for purchase of cooperative stock
+#### (3) Authorization of appropriations
 
-#### (1) “Farmer” defined
+&emsp;There is authorized to be appropriated to carry out this subsection $5,000,000 for each of fiscal years 2002 through 2007.
 
-&emsp;In this subsection, the term “farmer” means any farmer that the Secretary determines is a family farmer.
+#### (g) Business and industry direct and guaranteed loans
 
-#### (2) Loan guarantees
+#### (1) Definition of business and industry loan
 
-&emsp;The Secretary may guarantee loans under this section to individual farmers for the purpose of purchasing start-up capital stock of a farmer cooperative established for the purpose of processing an agricultural commodity.
+&emsp;In this subsection, the term “business and industry loan” means a business and industry direct or guaranteed loan that is made or guaranteed by the Secretary under subsection (a)(1) of this section.
 
-#### (3) Eligibility
+#### (2) Loan guarantees for the purchase of cooperative stock
 
-&emsp;To be eligible for a loan guarantee under this subsection, a farmer must produce the agricultural commodity that will be processed by the cooperative.
+#### (A) In general
 
-(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600.)
+&emsp;&emsp;The Secretary may guarantee a business and industry loan to individual farmers or ranchers for the purpose of purchasing capital stock of a farmer or rancher cooperative established for the purpose of processing an agricultural commodity.
+
+#### (B) Processing contracts during initial period
+
+&emsp;&emsp;A cooperative described in subparagraph (A) for which a farmer or rancher receives a guarantee to purchase stock under subparagraph (A) may contract for services to process agricultural commodities, or otherwise process value-added agricultural products, during the 5-year period beginning on the date of the startup of the cooperative in order to provide adequate time for the planning and construction of the processing facility of the cooperative.
+
+#### (C) Financial information
+
+&emsp;&emsp;Financial information required by the Secretary from a farmer or rancher as a condition of making a business and industry loan guarantee under this paragraph shall be provided in the manner generally required by commercial agricultural lenders in the area.
+
+#### (3) Loans to cooperatives
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may make or guarantee a business and industry loan to a cooperative organization that is headquartered in a metropolitan area if the loan is used for a project or venture described in subsection (a) of this section that is located in a rural area or a loan guarantee that meets the requirements of paragraph (6).
+
+#### (B) Refinancing
+
+&emsp;&emsp;A cooperative organization that is eligible for a business and industry loan shall be eligible to refinance an existing business and industry loan with a lender if—
+
+&emsp;&emsp;&emsp;(i) the cooperative organization—
+
+&emsp;&emsp;&emsp;&emsp;(I) is current and performing with respect to the existing loan; and
+
+&emsp;&emsp;&emsp;&emsp;(II) is not, and has not been, in payment default, or the collateral of which has not been converted, with respect to the existing loan; and
+
+&emsp;&emsp;&emsp;(ii) there is adequate security or full collateral for the refinanced loan.
+
+#### (4) Loan appraisals
+
+&emsp;The Secretary may require that any appraisal made in connection with a business and industry loan be conducted by a specialized appraiser that uses standards that are similar to standards used for similar purposes in the private sector, as determined by the Secretary.
+
+#### (5) Fees
+
+&emsp;The Secretary may assess a 1-time fee for any guaranteed business and industry loan in an amount that does not exceed 2 percent of the guaranteed principal portion of the loan.
+
+#### (6) Loan guarantees in nonrural areas
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may guarantee a business and industry loan to a cooperative organization for a facility that is not located in a rural area if—
+
+&emsp;&emsp;&emsp;(i) the primary purpose of the loan guarantee is for a facility to provide value-added processing for agricultural producers that are located within 80 miles of the facility;
+
+&emsp;&emsp;&emsp;(ii) the applicant demonstrates to the Secretary that the primary benefit of the loan guarantee will be to provide employment for residents of a rural area; and
+
+&emsp;&emsp;&emsp;(iii) the total amount of business and industry loans guaranteed for a fiscal year under this paragraph does not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(1) of this section.
+
+#### (B) Principal amounts
+
+&emsp;&emsp;The principal amount of a business and industry loan guaranteed under this paragraph may not exceed $25,000,000.
+
+#### (7) Intangible assets
+
+&emsp;In determining whether a cooperative organization is eligible for a guaranteed business and industry loan, the Secretary may consider the market value of a properly appraised brand name, patent, or trademark of the cooperative.
+
+#### (8) Limitations on loan guarantees for cooperative organizations
+
+#### (A) Principal amount
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;Subject to clause (ii), the principal amount of a business and industry loan made to a cooperative organization and guaranteed under this subsection shall not exceed $40,000,000.
+
+#### (ii) Use
+
+&emsp;&emsp;&emsp;To be eligible for a guarantee under this subsection for a business and industry loan made to a cooperative organization, the principal amount of the any such loan in excess of $25,000,000 shall be used to carry out a project—
+
+&emsp;&emsp;&emsp;&emsp;(I) in a rural area; and
+
+&emsp;&emsp;&emsp;&emsp;(II) that provides for the value-added processing of agricultural commodities.
+
+#### (B) Applications
+
+&emsp;&emsp;If a cooperative organization submits an application for a guarantee under this subsection of a business and industry loan with a principal amount that is in excess of $25,000,000, the Secretary—
+
+&emsp;&emsp;&emsp;(i) shall review and, if appropriate, approve the application; and
+
+&emsp;&emsp;&emsp;(ii) may not delegate the approval authority.
+
+#### (C) Maximum amount
+
+&emsp;&emsp;The total amount of business and industry loans made to cooperative organizations and guaranteed for a fiscal year under this subsection with principal amounts that are in excess of $25,000,000 may not exceed 10 percent of the business and industry loans guaranteed for the fiscal year under subsection (a)(1) of this section.
+
+#### (h) Loan guarantees for certain loans
+
+The Secretary may guarantee loans made under subsection (a) of this section to finance the issuance of bonds for the projects described in section 1926(a)(24) of this title.
+
+(Pub. L. 87–128, title III, §310B, as added Pub. L. 92–419, title I, §118(a), Aug. 30, 1972, 86 Stat. 663; amended Pub. L. 91–524, title VIII, §817, as added Pub. L. 93–86, §1(27)(B), Aug. 10, 1973, 87 Stat. 241; Pub. L. 95–113, title XV, §1503(b), Sept. 29, 1977, 91 Stat. 1021; Pub. L. 95–334, title I, §112, Aug. 4, 1978, 92 Stat. 424; Pub. L. 96–358, §5, Sept. 25, 1980, 94 Stat. 1187; Pub. L. 96–438, §1(2), Oct. 13, 1980, 94 Stat. 1871; Pub. L. 99–409, §2, Aug. 28, 1986, 100 Stat. 923; Pub. L. 100–203, title I, §1504, Dec. 22, 1987, 101 Stat. 1330–28; Pub. L. 101–624, title XXIII, §§2325, 2337, 2347, formerly 2347(a), 2386, 2388(b), (c), Nov. 28, 1990, 104 Stat. 4013, 4022, 4034, 4051, 4052; Pub. L. 102–237, title VII, §701(c), (h)(1)(C), (D), Dec. 13, 1991, 105 Stat. 1879, 1880; Pub. L. 102–552, title V, §516(d), Oct. 28, 1992, 106 Stat. 4137; Pub. L. 102–554, §6, Oct. 28, 1992, 106 Stat. 4144; Pub. L. 104–127, title VI, §§635(b), 661(d), title VII, §§705(1), 747(a), 759B, Apr. 4, 1996, 110 Stat. 1093, 1107, 1112, 1125, 1138; Pub. L. 104–180, title VII, §731, Aug. 6, 1996, 110 Stat. 1600; Pub. L. 107–171, title VI, §§6007(b), 6013–6017, May 13, 2002, 116 Stat. 355, 358, 359.)
 
 #### References in Text
 
@@ -165,6 +273,32 @@ Title V of the Housing Act of 1949, referred to in subsec. (d)(7), is title V of
 In subsec. (d)(7), “chapter 11 of title 31” substituted for “the Budget and Accounting Act of 1921 \[31 U.S.C. 1 et seq.\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Amendments
+
+2002—Subsec. (a)(3). Pub. L. 107–171, §6013, inserted “and other renewable energy systems (including wind energy systems and anaerobic digestors for the purpose of energy generation)” after “solar energy systems”.
+
+Subsec. (c)(1). Pub. L. 107–171, §6014, substituted “Grants” for “In general” in heading, designated existing provisions as subpar. (A) and inserted heading, and added subpar. (B).
+
+Subsec. (e)(5)(F). Pub. L. 107–171, §6015(1), inserted “, except that the Secretary shall not require non-Federal financial support in an amount that is greater than 5 percent in the case of a 1994 institution (as defined in section 532 of the Equity in Educational Land-Grant Status Act of 1994 (7 U.S.C. 301 note; Public Law 103–382))” before period at end.
+
+Subsec. (e)(9). Pub. L. 107–171, §6015(2), substituted “2007” for “2002”.
+
+Subsec. (f)(3). Pub. L. 107–171, §6016, added par. (3).
+
+Subsec. (g). Pub. L. 107–171, §6017, added subsec. (g) and struck out heading and text of former subsec. (g). Text read as follows:
+
+“(1)
+
+Definition of farmer.—In this subsection, the term ‘farmer’ means any farmer that the Secretary determines is a family farmer.
+
+“(2)
+
+Loan guarantees.—The Secretary may guarantee loans under this section to individual farmers for the purpose of purchasing start-up capital stock of a farmer cooperative established for the purpose of processing an agricultural commodity.
+
+“(3)
+
+Eligibility.—To be eligible for a loan guarantee under this subsection, a farmer must produce the agricultural commodity that will be processed by the cooperative.”
+
+Subsec. (h). Pub. L. 107–171, §6007(b), added subsec. (h).
 
 1996—Subsec. (a). Pub. L. 104–127, §747(a)(1), in first sentence, struck out “and” before “(3)” and inserted before period at end “, and (4) to facilitate economic opportunity for industries undergoing adjustment from terminated Federal agricultural price and income support programs or increased competition from foreign trade”.
 
@@ -240,7 +374,7 @@ Subsec. (i). Pub. L. 101–624, §2337, added subsec. (i).
 
 Subsec. (f). Pub. L. 99–409, §2(2), added subsec. (f).
 
-1980—Subsec. (a). Pub. L. 96–438 authorized the Secretary to make and insure loans for the purpose of reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas and defined term “solarenergy”, for purposes of subsection (a) of this section, as meaning energy derived from sources, other than fossil fuels, and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended.
+1980—Subsec. (a). Pub. L. 96–438 authorized the Secretary to make and insure loans for the purpose of reducing the reliance on nonrenewable energy resources by encouraging the development and construction of solar energy systems, including the modification of existing systems, in rural areas and defined term “solar energy”, for purposes of subsection (a) of this section, as meaning energy derived from sources, other than fossil fuels, and technologies included in the Federal Nonnuclear Energy Research and Development Act of 1974, as amended.
 
 Subsec. (e). Pub. L. 96–358 added subsec. (e).
 

@@ -30,6 +30,10 @@ Subsec. (b). Pub. L. 91–217, §1(6), substituted “Executive Protective Servi
 
 1950—Subsec. (a). Act Aug. 15, 1950, increased force from 110 to 133 members.
 
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Temporary Exceptions to Limitation
 
 Acts Aug. 11, 1951, ch. 301, title I, 65 Stat. 185; June 30, 1952, ch. 523, title I, 66 Stat. 290, made appropriations for salaries and expenses of the White House Police force for fiscal years 1952 and 1953, and provided that the appropriations should be available for additional personnel without regard for the limitation contained in this section. The provisions were not repeated in the Treasury Department Appropriation Act, 1954, act June 18, 1953, ch. 132, title I, 67 Stat. 67.

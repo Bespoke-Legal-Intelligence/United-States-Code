@@ -2,7 +2,7 @@
 
 (a)
 
-General.—Except as provided in subsections (b) and (c) of this section, the Secretary of the Treasury—
+General.—Except as provided in subsections (b), (c), and (d) of this section, the Secretary of the Treasury—
 
 &emsp;(1) may designate officers, employees, agents, or other persons to carry out this chapter; and
 
@@ -30,9 +30,13 @@ In Northern Mariana Islands.—The Governor of the Northern Mariana Islands—
 
 (d)
 
-Customs Laws on Seizure and Forfeiture.—The Secretary, or the Governor of Guam or of the Northern Mariana Islands as provided in subsections (b) and (c) of this section, shall carry out the customs laws on the seizure and forfeiture of aircraft, vehicles, and vessels under this chapter.
+Attorney General.—The Attorney General, or officers, employees, or agents of the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice <sup>1</sup> designated by the Attorney General, shall carry out the laws referred to in section 80306(b) of this title to the extent that the violation of this chapter involves contraband described in section 80302(a)(2) or (a)(5).
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1354.)
+(e)
+
+Customs Laws on Seizure and Forfeiture.—The Secretary, or the Governor of Guam or of the Northern Mariana Islands as providedin subsections (b) and (c) of this section, shall carry out the customs laws on the seizure and forfeiture of aircraft, vehicles, and vessels under this chapter.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1354; Pub. L. 107–296, title XI, §1112(r), Nov. 25, 2002, 116 Stat. 2278.)
 
 Historical and Revision Notes
 
@@ -80,9 +84,21 @@ In subsection (d), the word “Secretary” is substituted for “by such office
 
 #### References in Text
 
-The customs laws, referred to in subsec. (d), are classified generally to Title 19, Customs Duties.
+The customs laws, referred to in subsec. (e), are classified generally to Title 19, Customs Duties.
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–296, §1112(r)(1), substituted “(b), (c), and (d)” for “(b) and (c)” in introductory provisions.
+
+Subsecs. (d), (e). Pub. L. 107–296, §1112(r)(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 80303 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

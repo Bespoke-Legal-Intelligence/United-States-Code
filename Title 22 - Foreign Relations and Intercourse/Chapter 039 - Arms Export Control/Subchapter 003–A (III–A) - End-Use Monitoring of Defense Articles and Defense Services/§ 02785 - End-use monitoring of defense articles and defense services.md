@@ -28,13 +28,13 @@ In carrying out the program established under subsection (a) of this section, th
 
 #### (c) Report to Congress
 
-Not later than 6 months after July 21, 1996, and annually thereafter as a part of the annual congressional presentation documents submitted under section 634 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394\], the President shall transmit to the Congress a report describing the actions taken to implement this section, including a detailed accounting of the costs and number of personnel associated with the monitoring program.
+Not later than 6 months after July 21, 1996, and annually thereafter as a part of the annual congressional presentation documents submitted under section 634 of the Foreign Assistance Act of 1961 \[22 U.S.C. 2394\], the President shall transmit to the Congress a report describing the actions taken to implement this section, including a detailed accounting of the costs and number of personnel associated with the monitoring program and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons.
 
 #### (d) Third country transfers
 
 For purposes of this section, defense articles and defense services sold, leased, or exported under this chapter or the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.) includes defense articles and defense services that are transferred to a third country or other third party.
 
-(Pub. L. 90–629, ch. 3A, §40A, as added Pub. L. 104–164, title I, §150(a), July 21, 1996, 110 Stat. 1436.)
+(Pub. L. 90–629, ch. 3A, §40A, as added Pub. L. 104–164, title I, §150(a), July 21, 1996, 110 Stat. 1436; amended Pub. L. 107–228, div. B, title XII, §1205(b), Sept. 30, 2002, 116 Stat. 1428.)
 
 #### References in Text
 
@@ -43,6 +43,10 @@ The Foreign Assistance Act of 1961, referred to in subsecs. (a)(1) and (d), is P
 #### Codification
 
 Another section 40A of Pub. L. 90–629 is classified to section 2781 of this title.
+
+#### Amendments
+
+2002—Subsec. (c). Pub. L. 107–228 inserted “and the numbers, range, and findings of end-use monitoring of United States transfers of small arms and light weapons” before period at end.
 
 #### Effective Date
 

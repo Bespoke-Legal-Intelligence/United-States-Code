@@ -40,6 +40,10 @@ The Social Security Act, referred to in subsec. (b)(1), is act Aug. 14, 1935, ch
 
 1999—Pub. L. 106–113 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4013 of this title.

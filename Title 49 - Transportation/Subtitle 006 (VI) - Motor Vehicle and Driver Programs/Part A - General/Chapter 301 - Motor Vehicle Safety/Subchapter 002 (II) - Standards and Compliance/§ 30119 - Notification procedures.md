@@ -132,7 +132,7 @@ In subsection (d), the text of 15:1413(c) (1st sentence words before cl. (1)) is
 
 In subsection (d)(1)(A), the words “who is” and “of such vehicle” are omitted as surplus.
 
-In subsection (d)(1)(B), the words “if a registered owner is not notified” are substituted for “unless the registered owner (if any) of such vehicle was notified”for clarity. The words “most recent purchaser” are substituted for “first purchaser (or if a more recent purchaser is” for clarity and to eliminate unnecessary words. The words “of each such vehicle containing such defect or failure to comply” are omitted as surplus.
+In subsection (d)(1)(B), the words “if a registered owner is not notified” are substituted for “unless the registered owner (if any) of such vehicle was notified” for clarity. The words “most recent purchaser” are substituted for “first purchaser (or if a more recent purchaser is” for clarity and to eliminate unnecessary words. The words “of each such vehicle containing such defect or failure to comply” are omitted as surplus.
 
 In subsection (d)(3), the words “(or, if the manufacturer prefers, by certified mail)” are substituted for 15:1413(c) (last sentence) to eliminate unnecessary words.
 

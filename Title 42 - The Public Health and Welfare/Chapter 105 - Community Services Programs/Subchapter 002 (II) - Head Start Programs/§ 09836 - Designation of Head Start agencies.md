@@ -56,7 +56,7 @@ If no entity in a community is entitled to the priority specified in subsection 
 
 &emsp;(6) other factors related to the requirements of this subchapter;
 
-&emsp;(7) the plan of such applicant to meet the needs of non-English background children and their families, including needs related to the acquisition of the English language;
+&emsp;(7) the plan of such applicant to meet the needs of non-English background children andtheir families, including needs related to the acquisition of the English language;
 
 &emsp;(8) the plan of such applicant to meet the needs of children with disabilities;
 
@@ -124,7 +124,7 @@ Subsec. (g). Pub. L. 105–285, §107(6), added subsec. (g).
 
 1994—Subsec. (b). Pub. L. 103–252, §107(a), inserted “(including Indians in any area designated by the Bureau of Indian Affairs as near-reservation)” after “Indian reservation”.
 
-Subsec. (c)(1). Pub. L. 103–252, §107(b)(2), (3), (5), inserted “(subject to paragraph (2))” after “the provisions of this section”, struck out subpar. (A), inserted“the Secretary makes a finding that the agency involved fails to meet program, financial management, and other requirements established by the Secretary.” after “unless”, and redesignated subpar. (B) as par. (2) and concluding provisions as par. (3).
+Subsec. (c)(1). Pub. L. 103–252, §107(b)(2), (3), (5), inserted “(subject to paragraph (2))” after “the provisions of this section”, struck out subpar. (A), inserted “the Secretary makes a finding that the agency involved fails to meet program, financial management, and other requirements established by the Secretary.” after “unless”, and redesignated subpar. (B) as par. (2) and concluding provisions as par. (3).
 
 Subsec. (c)(2). Pub. L. 103–252, §107(b)(1), (3), (4), (6), redesignated par. (1)(B) as (2) and realigned margins, substituted “If” for “except that, if” and “paragraph (1)” for “subparagraph (A)”, and struck out former par. (2) which read as follows:
 

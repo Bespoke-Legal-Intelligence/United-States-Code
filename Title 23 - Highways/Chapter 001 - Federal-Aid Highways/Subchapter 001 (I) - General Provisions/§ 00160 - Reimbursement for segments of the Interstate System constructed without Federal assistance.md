@@ -6,7 +6,7 @@ General Authority.—The Secretary shall allocate to the States in each of fisca
 
 (b)
 
-Determination of Reimbursement Amount.—The amount to be reimbursed to aState in each of fiscal years 1996 and 1997 under this section shall be determined by multiplying the amount made available for carrying out this section for such fiscal year by the reimbursement percentage set forth in the table contained in subsection (c).
+Determination of Reimbursement Amount.—The amount to be reimbursed to a State in each of fiscal years 1996 and 1997 under this section shall be determined by multiplying the amount made available for carrying out this section for such fiscal year by the reimbursement percentage set forth in the table contained in subsection (c).
 
 (c)
 

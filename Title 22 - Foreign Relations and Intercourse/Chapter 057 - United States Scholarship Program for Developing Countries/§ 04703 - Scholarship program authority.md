@@ -10,7 +10,7 @@ To encourage students to use their training in their countries of origin, each s
 
 #### (c) Consultation
 
-Before allocating any of the funds made available to carry out this chapter, the Presidentshall consult with United States institutions of higher education, educational exchange organizations, United States missions in developing countries, and the governments of participating countries on how to implement the guidelines specified in section 4704 of this title.
+Before allocating any of the funds made available to carry out this chapter, the President shall consult with United States institutions of higher education, educational exchange organizations, United States missions in developing countries, and the governments of participating countries on how to implement the guidelines specified in section 4704 of this title.
 
 #### (d) “Institution of higher education” defined
 

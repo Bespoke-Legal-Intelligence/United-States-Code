@@ -158,7 +158,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 &emsp;&emsp;(ii) such spouse is ordered or required in such judgment, order, decree, or settlement to pay an amount to the plan in connection with a violation of part 4 of this subtitle, or
 
-&emsp;&emsp;(iii) in such judgment, order, decree, or settlement, such spouse retains the right to receive the survivor annuity under a qualified joint and survivor annuity provided pursuant to section 1055(a)(1) of this title and under a qualified preretirement survivor annuity provided pursuant to section 1055(a)(2) of this title, determined in accordance with paragraph (5).
+&emsp;&emsp;(iii) in such judgment, order, decree, or settlement, such spouse retains the right to receive the survivor annuity under a qualified joint and survivor annuity provided pursuant to section 1055(a)(1) of this title and under a qualified preretirement survivor annuity provided pursuant to section 1055(a)(2)of this title, determined in accordance with paragraph (5).
 
 > A plan shall not be treated as failing to meet the requirements of section 1055 of this title solely by reason of an offset under this paragraph.
 
@@ -180,7 +180,7 @@ No pension plan may provide that any part of a participant's accrued benefit der
 
 #### (1) In general
 
-&emsp;Notwithstanding any other provision of this part, the fiduciary of a pension plan that issubject to the additional funding requirements of section 1082(d) of this title shall not permit a prohibited payment to be made from a plan during a period in which such plan has a liquidity shortfall (as defined in section 1082(e)(5) of this title).
+&emsp;Notwithstanding any other provision of this part, the fiduciary of a pension plan that is subject to the additional funding requirements of section 1082(d) of this title shall not permit a prohibited payment to be made from a plan during a period in which such plan has a liquidity shortfall (as defined in section 1082(e)(5) of this title).
 
 #### (2) Prohibited payment
 
@@ -232,7 +232,7 @@ Subsec. (d)(3)(I). Pub. L. 101–239, §7894(c)(9)(A), substituted “such Act�
 
 Subsec. (d)(3)(E)(ii). Pub. L. 99–514, §1898(c)(7)(B)(iv), amended cl. (ii) generally. Prior to amendment, cl. (ii) read as follows: “For purposes of this subparagraph, the term ‘earliest retirement age’ has the meaning given such term by section 1055(h)(3) of this section, except that in the case of any individual account plan, the earliest retirement age shall be the date which is 10 years before the normal retirement age.”
 
-Subsec. (d)(3)(F)(i). Pub. L. 99–514, §1898(c)(6)(B), inserted “(and any spouse of the participant shall not be treated as a spouse of the participant for such purposes)”.
+Subsec. (d)(3)(F)(i). Pub. L. 99–514, §1898(c)(6)(B), inserted “(and any spouse of the participant shall not betreated as a spouse of the participant for such purposes)”.
 
 Subsec. (d)(3)(F)(ii). Pub. L. 99–514, §1898(c)(7)(B)(i), inserted “surviving” before “former spouse”.
 
@@ -264,7 +264,7 @@ Section 761(b) of Pub. L. 103–465 provided that:
 
 “(1)
 
-In general.—Except as provided in paragraph (2), the amendments made by this section \[amending thissection and sections 1082, 1132, and 1301 of this title\] shall apply to plan years beginning after December 31, 1994.
+In general.—Except as provided in paragraph (2), the amendments made by this section \[amending this section and sections 1082, 1132, and 1301 of this title\] shall apply to plan years beginning after December 31, 1994.
 
 “(2)
 

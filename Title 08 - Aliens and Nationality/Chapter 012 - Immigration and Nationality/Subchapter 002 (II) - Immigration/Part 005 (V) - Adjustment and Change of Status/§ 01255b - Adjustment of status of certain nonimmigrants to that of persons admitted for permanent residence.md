@@ -12,7 +12,7 @@ If, after consultation with the Secretary of State, it shall appear to the satis
 
 #### (c) Report to the Congress; resolution not favoring adjustment of status; reduction of quota
 
-A complete and detailed statement of the facts and pertinent provisions of law in the case shall be reported to the Congress with the reasons for such adjustment of status. Such reports shall be submitted on the first day of each calendarmonth in which Congress is in session. The Secretary of State shall, if the alien was classifiable as a quota immigrant at the time of his entry, reduce by one the quota of the quota area to which the alien is chargeable under section 202 of the Immigration and Nationality Act \[8 U.S.C. 1152\] for the fiscal year then current or the next following year in which a quota is available. No quota shall be so reduced by more than 50 per centum in any fiscal year.
+A complete and detailed statement of the facts and pertinent provisions of law in the case shall be reported to the Congress with the reasons for such adjustment of status. Such reports shall be submitted on the first day of each calendar month in which Congress is in session. The Secretary of State shall, if the alien was classifiable as a quota immigrant at the time of his entry, reduce by one the quota of the quota area to which the alien is chargeable under section 202 of the Immigration and Nationality Act \[8 U.S.C. 1152\] for the fiscal year then current or the next following year in which a quota is available. No quota shall be so reduced by more than 50 per centum in any fiscal year.
 
 #### (d) Limitations
 
@@ -42,11 +42,15 @@ Pub. L. 103–416, §207(2), as amended by Pub. L. 104–208, substituted “The
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–208 effective as if included in the enactment of the Immigration and Nationality Technical Corrections Act of 1994, Pub. L. 103–416, see section 671(b)(14) of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 104–208 effective as if included in the enactment of the Immigration and Nationality Technical Corrections Act of 1994, Pub. L. 103–416, seesection 671(b)(14) of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Definitions; Applicability of Section 1101(a) and (b) of This Title
 

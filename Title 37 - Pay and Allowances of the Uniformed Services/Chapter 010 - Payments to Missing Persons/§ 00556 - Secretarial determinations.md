@@ -30,7 +30,7 @@
 
 (g) The Secretary concerned, or his designee, may waive the recovery of an erroneous payment or overpayment of an allotment to a dependent if he considers recovery is against equity and good conscience.
 
-(h) For the sole purpose of determining pay under this section, a dependent of a member of a uniformed service on active duty is treated as if he were a member. Any determination made by the Secretary concerned, or his designee, under this section in a case to which section 555 of this title applies is conclusive on all other departments and agencies of the United States. This subsection does not entitle a dependent to pay, allowances, or other compensation to which he is not otherwise entitled.
+(h) For the sole purpose of determining pay under this section, a dependent of a member ofa uniformed service on active duty is treated as if he were a member. Any determination made by the Secretary concerned, or his designee, under this section in a case to which section 555 of this title applies is conclusive on all other departments and agencies of the United States. This subsection does not entitle a dependent to pay, allowances, or other compensation to which he is not otherwise entitled.
 
 (Added Pub. L. 89–554, §5(b), Sept. 6, 1966, 80 Stat. 629; amended Pub. L. 104–106, div. A, title V, §569(c)(4), Feb. 10, 1996, 110 Stat. 351.)
 
@@ -118,5 +118,5 @@ Subsec. (h). Pub. L. 104–106, §569(c)(4)(C), substituted “determining pay�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 559 of this title; title 10 section 701; title 26 sections 2, 692; title 38 sections 3501, 3701, 4101.
+This section is referred to in section 559 of this title; title 10 section 701; title 26 sections 2, 692; title 38 sections 3501, 3701, 4101, 4215.
 

@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(7) on December 17, 1970, the United States supported (by affirmative vote) the United Nations General Assembly Resolution 2749 (XXV) declaring inter alia the principle that the mineral resources of the deep seabed are the common heritage of mankind, with the expectation that this principle would be legally defined under the terms of a comprehensive international Law of the Sea Treaty yet to be agreed upon;
 
-&emsp;(8) it is in the national interest of the United States and other nations to encourage a widely acceptable Law of the Sea Treaty, which will provide a new legal order for the oceans covering a broad range of ocean interests, including exploration for and commercial recovery of hard mineral resources of the deep seabed;
+&emsp;(8) it is in the national interest of the United States and other nations to encourage a widely acceptable Law of the Sea Treaty, whichwill provide a new legal order for the oceans covering a broad range of ocean interests, including exploration for and commercial recovery of hard mineral resources of the deep seabed;
 
 &emsp;(9) the negotiations to conclude such a Treaty and establish the international regime governing the exercise of rights over, and exploration of, the resources of the deep seabed, referred to in General Assembly Resolution 2749 (XXV) are in progress but may not be concluded in the near future;
 
@@ -42,7 +42,7 @@ The Congress declares that the purposes of this chapter are—
 
 &emsp;(1) to encourage the successful conclusion of a comprehensive Law of the Sea Treaty, which will give legal definition to the principle that the hard mineral resources of the deep seabed are the common heritage of mankind and which will assure, among other things, nondiscriminatory access to such resources for all nations;
 
-&emsp;(2) pending the ratification by, and entering into force with respect to, the United States ofsuch a Treaty, to provide for the establishment of an international revenue-sharing fund the proceeds of which shall be used for sharing with the international community pursuant to such Treaty;
+&emsp;(2) pending the ratification by, and entering into force with respect to, the United States of such a Treaty, to provide for the establishment of an international revenue-sharing fund the proceeds of which shall be used for sharing with the international community pursuant to such Treaty;
 
 &emsp;(3) to establish, pending the ratification by, and entering into force with respect to, the United States of such a Treaty, an interim program to regulate the exploration for and commercial recovery of hard mineral resources of the deep seabed by United States citizens;
 

@@ -42,7 +42,7 @@ The Attorney General at any time may revoke a bond or parole authorized under su
 
 (1) The Attorney General shall devise and implement a system—
 
-&emsp;(A) to make available, daily (on a 24-hour basis), to Federal, State, and local authorities the investigative resources of the Service todetermine whether individuals arrested by such authorities for aggravated felonies are aliens;
+&emsp;(A) to make available, daily (on a 24-hour basis), to Federal, State, and local authorities the investigative resources of the Service to determine whether individuals arrested by such authorities for aggravated felonies are aliens;
 
 &emsp;(B) to designate and train officers and employees of the Service to serve as a liaison to Federal, State, and local law enforcement and correctional agencies and courts with respect to the arrest, conviction, and release of any alien charged with an aggravated felony; and
 
@@ -54,7 +54,7 @@ The Attorney General at any time may revoke a bond or parole authorized under su
 
 &emsp;(B) to officials of the Department of State for use in its automated visa lookout system.
 
-(3) Upon the request of the governor or chief executive officer of any State, the Service shall provide assistance to State courts in the identification of aliens unlawfully present in the United States pending criminal prosecution.
+(3) Upon the request of the governor or chief executive officer of any State, the Service shallprovide assistance to State courts in the identification of aliens unlawfully present in the United States pending criminal prosecution.
 
 #### (e) Judicial review
 
@@ -116,11 +116,15 @@ Amendment by section 371(b)(5) of Pub. L. 104–208 effective Sept. 30, 1996, se
 
 #### Effective Date of 1991 Amendment
 
-Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub.L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
+Amendment by Pub. L. 102–232 effective as if included in the enactment of the Immigration Act of 1990, Pub. L. 101–649, see section 310(1) of Pub. L. 102–232, set out as a note under section 1101 of this title.
 
 #### Effective Date of 1990 Amendment
 
 Amendment by section 603(a)(12) of Pub. L. 101–649 applicable to individuals entering United States on or after June 1, 1991, see section 601(e)(1) of Pub. L. 101–649, set out as a note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Identification of Certain Deportable Aliens Awaiting Arraignment
 
@@ -130,7 +134,7 @@ Pub. L. 105–141, Dec. 5, 1997, 111 Stat. 2647, provided that:
 
 “(a)
 
-Establishment of Program.—Not later than 6 months after the date of the enactment of this Act \[Dec. 5, 1997\], and subject to such amounts as are provided in appropriations Acts, the Attorney General shall establish and implement a program to identify, from among the individuals who are incarcerated in local governmental incarceration facilities prior to arraignment on criminal charges, those individuals who are within 1 or more of the following classes of deportable aliens:
+Establishment of Program.—Not later than 6 months after the date of the enactment of this Act\[Dec. 5, 1997\], and subject to such amounts as are provided in appropriations Acts, the Attorney General shall establish and implement a program to identify, from among the individuals who are incarcerated in local governmental incarceration facilities prior to arraignment on criminal charges, those individuals who are within 1 or more of the following classes of deportable aliens:
 
 &emsp;“(1) Aliens unlawfully present in the United States.
 

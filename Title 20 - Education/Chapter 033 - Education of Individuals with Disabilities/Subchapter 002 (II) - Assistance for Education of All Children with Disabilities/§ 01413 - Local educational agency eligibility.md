@@ -42,7 +42,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 &emsp;&emsp;(i) Notwithstanding clauses (ii) and (iii) of subparagraph (A), for any fiscal year for which amounts appropriated to carry out section 1411 of this title exceeds $4,100,000,000, a local educational agency may treat as local funds, for the purpose of such clauses, up to 20 percent of the amount of funds it receives under this subchapter that exceeds the amount it received under this subchapter for the previous fiscal year.
 
-&emsp;&emsp;(ii) Notwithstanding clause (i), if a State educational agency determines that a local educational agency is not meeting the requirements of this subchapter, the State educational agency may prohibit the local educational agency from treating funds received under this subchapter as local funds under clause (i) for any fiscal year, only if it is authorized to do so by the State constitution or a State statute.
+&emsp;&emsp;(ii) Notwithstanding clause (i), if a State educational agency determines that a local educational agency is not meeting the requirements of this subchapter, the State educational agency may prohibit the localeducational agency from treating funds received under this subchapter as local funds under clause (i) for any fiscal year, only if it is authorized to do so by the State constitution or a State statute.
 
 #### (D) Schoolwide programs under title I of the ESEA
 
@@ -106,7 +106,7 @@ A local educational agency is eligible for assistance under this subchapter for 
 
 #### (c) Notification of local educational agency or State agency in case of ineligibility
 
-If the State educational agency determines that a local educational agency or State agency is not eligible under this section, the State educational agency shall notify the local educational agency or State agency, as the case may be, of that determination and shall provide such local educational agency or State agency with reasonable notice and an opportunity for a hearing.
+If the State educational agency determines that a local educational agency or State agency is not eligible under this section, the State educational agency shall notify the local educational agency or State agency, as the casemay be, of that determination and shall provide such local educational agency or State agency with reasonable notice and an opportunity for a hearing.
 
 #### (d) Local educational agency compliance
 
@@ -218,7 +218,7 @@ If the State educational agency determines that a local educational agency or St
 
 &emsp;&emsp;&emsp;(i) criteria that shall be used by such local educational agency in the selection of an eligible school under subparagraph (A);
 
-&emsp;&emsp;&emsp;(ii) criteria that shall be used by a public school selected under subparagraph (A) inthe establishment of a school-based standing panel to carry out the duties described in paragraph (3)(B) and that shall ensure that the membership of such panel reflects the diversity of the community in which the public school is located and includes, at a minimum—
+&emsp;&emsp;&emsp;(ii) criteria that shall be used by a public school selected under subparagraph (A) in the establishment of a school-based standing panel to carry out the duties described in paragraph (3)(B) and that shall ensure that the membership of such panel reflects the diversity of the community in which the public school is located and includes, at a minimum—
 
 &emsp;&emsp;&emsp;&emsp;(I) parents of children with disabilities who attend such public school, including parents of children with disabilities from unserved and underserved populations, as appropriate;
 
@@ -244,7 +244,7 @@ If the State educational agency determines that a local educational agency or St
 
 #### (A) Parental involvement
 
-&emsp;&emsp;In carrying out the requirements of this subsection, a local educational agency shall ensure that the parents of children with disabilities are involved in the design, evaluation, and, where appropriate, implementation of school-based improvement plans in accordance with this subsection.
+&emsp;&emsp;In carrying out the requirements of this subsection, a local educational agency shallensure that the parents of children with disabilities are involved in the design, evaluation, and, where appropriate, implementation of school-based improvement plans in accordance with this subsection.
 
 #### (B) Plan approval
 
@@ -300,7 +300,7 @@ The Social Security Act, referred to in subsec. (f)(2)(B), is act Aug. 14, 1935,
 
 #### Prior Provisions
 
-A prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§614(c), (d), 615(b), (c), title VIII, §843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, §203(b), title IV, §405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, §102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, title II, §202, title IX, §901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, §391(f)(2), Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
+A prior section 1413, Pub. L. 91–230, title VI, §613, Apr. 13, 1970, 84 Stat. 179; Pub. L. 93–380, title VI, §§614(c), (d), 615(b), (c), title VIII, §843(b)(2), Aug. 21, 1974, 88 Stat. 581, 583, 611; Pub. L. 94–142, §5(a), Nov. 29, 1975, 89 Stat. 782; Pub. L. 98–199, §§3(b), 7, Dec. 2, 1983, 97 Stat. 1358, 1359; Pub. L. 99–457, title II, §203(b), title IV, §405, Oct. 8, 1986, 100 Stat. 1159, 1174; Pub. L. 100–630, title I, §102(c), Nov. 7, 1988, 102 Stat. 3291; Pub. L. 101–476, titleII, §202, title IX, §901(b)(47)–(58), Oct. 30, 1990, 104 Stat. 1111, 1144; Pub. L. 102–119, §§5, 25(a)(6), (b), Oct. 7, 1991, 105 Stat. 591, 606, 607; Pub. L. 103–382, title III, §391(f)(2), Oct. 20, 1994, 108 Stat. 4023, related to requisite features of a State plan, approval of State plan by Secretary, and participation of children with disabilities enrolled in private schools, prior to the general amendment of subchapters I to IV of this chapter by Pub. L. 105–17.
 
 #### Amendments
 

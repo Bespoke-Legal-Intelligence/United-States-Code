@@ -2,7 +2,7 @@
 
 #### (a) Wildlife resources
 
-The Secretary shall work closely with the State of Alaska and Native Village and RegionalCorporations in evaluating the impact of oil and gas exploration, development, production, and transportation and other human activities on the wildlife resources of these lands, including impacts on the Arctic and Porcupine caribou herds, polar bear, muskox, grizzly bear, wolf, wolverine, seabirds, shore birds, and migratory waterfowl. In addition the Secretary shall consult with the appropriate agencies of the Government of Canada in evaluating such impacts particularly with respect to the Porcupine caribou herd.
+The Secretary shall work closely with the State of Alaska and Native Village and Regional Corporations in evaluating the impact of oil and gas exploration, development, production, and transportation and other human activities on the wildlife resources of these lands, including impacts on the Arctic and Porcupine caribou herds, polar bear, muskox, grizzly bear, wolf, wolverine, seabirds, shore birds, and migratory waterfowl. In addition the Secretary shall consult with the appropriate agencies of the Government of Canada in evaluating such impacts particularly with respect to the Porcupine caribou herd.
 
 #### (b) Oil spills
 
@@ -16,7 +16,7 @@ The Secretary shall work closely with the State of Alaska and Native Village and
 
 &emsp;(D) the tankers would traverse the American Exclusive Economic Zone through the Beaufort Sea into the Chuckchi Sea and then through the Bering Straits;
 
-&emsp;(E) the Beaufort and Chuckchi Seas are vital to Alaska's Native people, providing them with subsistence in the form of walrus, seals, fish, and whales;
+&emsp;(E) the Beaufort and Chuckchi Seas are vital to Alaska's Native people, providing themwith subsistence in the form of walrus, seals, fish, and whales;
 
 &emsp;(F) the Secretary of the Interior has conducted Outer Continental Shelf lease sales in the Beaufort and Chuckchi Seas and oil and gas exploration is ongoing;
 

@@ -8,7 +8,7 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 #### (1) In general
 
-&emsp;The Director of NIH shall provide for the coordination of the program established under subsection (a) of this section among all of the national research institutes conducting Parkinson's disease research.
+&emsp;The Director of NIH shall provide for the coordination of the program established under subsection (a) of this section among all of thenational research institutes conducting Parkinson's disease research.
 
 #### (2) Conference
 
@@ -52,7 +52,7 @@ The Director of NIH shall establish a program for the conduct and support of res
 
 #### (4) Duration of support
 
-&emsp;Support of a center under this subsection may be for a period not exceeding five years.Such period may be extended by the Director of NIH for one or more additional periods of not more than five years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+&emsp;Support of a center under this subsection may be for a period not exceeding five years. Such period may be extended by the Director of NIH for one or more additional periods of not more than five years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
 #### (d) Morris K. Udall Awards for Excellence in Parkinson's Disease Research
 

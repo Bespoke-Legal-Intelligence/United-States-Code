@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(7) the Department of Health and Human Services and the Environmental Protection Agency, as well as several States, have attempted to publicize the potential hazards to school children and employees from exposure to asbestos fibers, but there is no systematic program for remedying hazardous conditions in schools;
 
-&emsp;(8) because there is no Federal health standard regulating the concentration of asbestos fibers in noncommercial workplace environments such as schools, school employees and students may be exposed to hazardous concentrations of asbestos fibers in the school buildings which they use each day;
+&emsp;(8) because there is no Federal health standard regulating the concentration of asbestos fibers in noncommercial workplace environments such as schools, school employees andstudents may be exposed to hazardous concentrations of asbestos fibers in the school buildings which they use each day;
 
 &emsp;(9) without a program of information distribution, technical and scientific assistance, and financial support, many local educational agencies and States will not be able to mitigate the potential asbestos hazards in their schools; and
 

@@ -39,10 +39,10 @@
 | (b) | Existing designees. |
 | (c) | Suspension or termination of designation. |
 | (d) | Duties. |
+| (e) | Annual report on progress. |
 | [1127\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001127%20-%20Fellowships.md) | Fellowships. |
 | (a) | In general. |
 | (b) | Dean John A. Knauss Marine Policy Fellowship. |
-| (c) | Postdoctoral fellowships. |
 | [1128\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001128%20-%20Sea%20grant%20review%20panel.md) | Sea grant review panel. |
 | (a) | Establishment. |
 | (b) | Duties. |
@@ -51,8 +51,8 @@
 | [1130\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001130%20-%20Repealed.%20Pub.%20L.%20102%E2%80%93186%2C%20%C2%A75%28a%29%2C%20Dec.%204%2C%201991%2C%20105%20Stat.%201283.md) | Repealed. |
 | [1131\.](Subchapter%20002%20%28II%29%20-%20National%20Sea%20Grant%20College%20Program/%C2%A7%2001131%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | Authorization. |
-| (b) | Program elements. |
-| (c) | Priority oyster disease research. |
+| (b) | Limitations. |
+| (c) | Distribution of funds. |
 | (d) | Availability of sums. |
 | (e) | Reversion of unobligated amounts. |
 

@@ -90,7 +90,7 @@ No person shall become ineligible under section 3821 of this title for program l
 
 &emsp;&emsp;&emsp;(iii) the proposed conversion action is approved by the Natural Resources Conservation Service prior to implementation; and
 
-&emsp;&emsp;&emsp;(iv) the extent of the proposed conversion is limited so that the conditions will be at least equivalent to the wetland functions and values that existed prior to implementation of the voluntary wetland restoration, enhancement, or creation action.
+&emsp;&emsp;&emsp;(iv) the extent of the proposed conversion is limited so that the conditions willbe at least equivalent to the wetland functions and values that existed prior to implementation of the voluntary wetland restoration, enhancement, or creation action.
 
 #### (c) On-site inspection requirement
 
@@ -158,7 +158,7 @@ A person shall be afforded the right to appeal, under section 3843 <sup>1</sup>
 
 #### (i) Restoration
 
-Any person who is determined to be ineligible for program benefits under section 3821 of this title for any crop year shall not be ineligible for such program benefits under such section for any subsequent crop year if, prior to the beginning of such subsequent crop year, the person has fully restored the characteristics of the converted wetland to its prior wetland state or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland.
+Any person who is determined to be ineligible for program benefits under section 3821 of thistitle for any crop year shall not be ineligible for such program benefits under such section for any subsequent crop year if, prior to the beginning of such subsequent crop year, the person has fully restored the characteristics of the converted wetland to its prior wetland state or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland.
 
 #### (j) Determinations; restoration and mitigation plans; monitoring activities
 
@@ -190,7 +190,7 @@ Subsec. (h). Pub. L. 104–127, §322(f), added subsec. (h) and struck out headi
 
 Subsec. (i). Pub. L. 104–127, §322(g), inserted before period at end “or has otherwise mitigated for the loss of wetland values, as determined by the Secretary, through the restoration, enhancement, or creation of wetland values in the same general area of the local watershed as the converted wetland”.
 
-Subsec. (j). Pub. L. 104–127, §322(h), added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fishand Wildlife Service and required reporting of determinations and monitoring.
+Subsec. (j). Pub. L. 104–127, §322(h), added subsec. (j) and struck out heading and text of former subsec. (j). Text provided that technical determinations and the development of restoration and mitigation plans be made through agreement of local representative of Soil Conservation Service and representative of the Fish and Wildlife Service and required reporting of determinations and monitoring.
 
 Subsec. (k). Pub. L. 104–127, §322(i), added subsec. (k).
 

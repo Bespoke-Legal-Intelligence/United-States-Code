@@ -36,11 +36,11 @@ The Secretary may utilize the Insurance Fund—
 
 &emsp;(4) to make payments in compliance with the Secretary's obligations under contracts of guarantee entered into by him;
 
-&emsp;(5) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, expenses for necessary services, including construction inspections, commercial appraisals, loan servicing, consulting business advisory or other commercial and technical services, andother program services, and other expenses and advances authorized in section 1985(a) of this title in connection with insured loans. Such items may be paid in connection with guaranteed loans after or in connection with acquisition by the Secretary of such loans or security therefor after default, to an extent determined by the Secretary to be necessary to protect the interest of the Government, or in connection with grants and any other activity authorized in this chapter;
+&emsp;(5) to pay taxes, insurance, prior liens, expenses necessary to make fiscal adjustments in connection with the application and transmittal of collections or necessary to obtain credit reports on applicants or borrowers, expenses for necessary services, including construction inspections, commercial appraisals, loan servicing, consulting business advisory or other commercial and technical services, and other program services, and other expenses and advances authorized in section 1985(a) of this title in connection with insured loans. Such items may be paid in connection with guaranteed loans after or in connection with acquisition by the Secretary of such loans or security therefor after default, to an extent determined by the Secretary to be necessary to protect the interest of the Government, or in connection with grants and any other activity authorized in this chapter;
 
 &emsp;(6) to pay the difference between interest payments by borrowers and interest to which holders of insured notes are entitled under contracts of insurance heretofore or hereafter entered into by the Secretary; and
 
-&emsp;(7) to pay the Secretary's costs of administration necessary to insure loans under the programs referred to in subsection (a) of this section, make grants under sections 1926(a) and 1932 of this title, service, and otherwise carry out such programs, including costs of the Secretary incidental to guaranteeing rural development loans under this chapter, either directly from the Insurance Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
+&emsp;(7) to pay the Secretary's costs of administration necessary to insure loans under theprograms referred to in subsection (a) of this section, make grants under sections 1926(a) and 1932 of this title, service, and otherwise carry out such programs, including costs of the Secretary incidental to guaranteeing rural development loans under this chapter, either directly from the Insurance Fund or by transfers from the Fund to, and merger with, any appropriations for administrative expenses.
 
 #### (h) Gross income; interest or other income on insured loans
 
@@ -130,7 +130,7 @@ Pub. L. 100–387, title III, §331, Aug. 11, 1988, 102 Stat. 951.
 
 #### Sale of Rural Development Notes and Other Obligations
 
-Section 1001 of Pub. L. 99–509, as amended by Pub. L. 100–233, title VIII, §803, Jan. 6, 1988, 101 Stat. 1714; Pub. L. 101–220, §12, Dec. 12, 1989, 103 Stat. 1883, provided that:
+Section 1001 of Pub. L. 99–509, as amended by Pub. L. 100–233, title VIII, §803, Jan. 6, 1988, 101 Stat. 1714; Pub.L. 101–220, §12, Dec. 12, 1989, 103 Stat. 1883, provided that:
 
 “(a)
 

@@ -18,7 +18,15 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(8) “control” means the power, directly or indirectly, to determine the policy, business practices, or decisionmaking process of another person, whether by stock or other ownership interest, by representation on a board of directors or similar body, by contract or other agreement with stockholders or others, or otherwise;
 
-&emsp;(9) “deepwater port” means any fixed or floating manmade structures other than a vessel, or any group of structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf.<sup>2</sup> The term includes all associated components and equipment, including pipelines, pumping stations, service platforms, mooring buoys, and similar appurtenances to the extent they are located seaward of the high water mark. A deepwater port shall be considered a “new source” for purposes of the Clean Air Act, as amended \[42 U.S.C. 7401 et seq.\], and the Federal Water Pollution Control Act, as amended \[33 U.S.C. 1251 et seq.\];
+&emsp;(9) “deepwater port”—
+
+&emsp;&emsp;(A) means any fixed or floating manmade structure other than a vessel, or any group of such structures, that are located beyond State seaward boundaries and that are used or intended for use as a port or terminal for the transportation, storage, or further handling of oil or natural gas for transportation to any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil or natural gas from the United States outer continental shelf;
+
+&emsp;&emsp;(B) includes all components and equipment, including pipelines, pumping stations, service platforms, buoys, mooring lines, and similar facilities to the extent they are located seaward of the high water mark;
+
+&emsp;&emsp;(C) in the case of a structure used or intended for such use with respect to natural gas, includes all components and equipment, including pipelines, pumping or compressor stations, service platforms, buoys, mooring lines, and similar facilities that are proposed or approved for construction and operation as part of a deepwater port, to the extent that they are located seaward of the high water mark and do not include interconnecting facilities; and
+
+&emsp;&emsp;(D) shall be considered a “new source” for purposes of the Clean Air Act (42 U.S.C. 7401 et seq.), and the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.);
 
 &emsp;(10) “Governor” means the Governor of a State or the person designated by State law to exercise the powers granted to the Governor pursuant to this chapter;
 
@@ -26,29 +34,33 @@ As used in this chapter, unless the context otherwise requires, the term—
 
 &emsp;(12) “marine environment” includes the coastal environment, waters of the contiguous zone, and waters of the high seas; the fish, wildlife, and other living resources of such waters; and the recreational and scenic values of such waters and resources;
 
-&emsp;(13) “oil” means petroleum, crude oil, and any substance refined from petroleum or crude oil;
+&emsp;(13) “natural gas” means either natural gas unmixed, or any mixture of natural or artificial gas, including compressed or liquefied natural gas;
 
-&emsp;(14) “person” includes an individual, a public or private corporation, a partnership or other association, or a government entity;
+&emsp;(14) “oil” means petroleum, crude oil, and any substance refined from petroleum or crude oil;
 
-&emsp;(15) “safety zone” means the safety zone established around a deepwater port as determined by the Secretary in accordance with section 1509(d) of this title;
+&emsp;(15) “person” includes an individual, a public or private corporation, a partnership or other association, or a government entity;
 
-&emsp;(16) “Secretary” means the Secretary of Transportation;
+&emsp;(16) “safety zone” means the safety zone established around a deepwater port as determined by the Secretary in accordance with section 1509(d) of this title;
 
-&emsp;(17) “State” includes each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
+&emsp;(17) “Secretary” means the Secretary of Transportation;
 
-&emsp;(18) “vessel” means every description of watercraft or other artificial contrivance used as a means of transportation on or through the water.
+&emsp;(18) “State” includes each of the States of the United States, the District of Columbia, the Commonwealth of Puerto Rico, and the territories and possessions of the United States; and
 
-(Pub. L. 93–627, §3, Jan. 3, 1975, 88 Stat. 2127; Pub. L. 98–419, §2(a), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §503, Oct. 19, 1996, 110 Stat. 3926.)
+&emsp;(19) “vessel” means every description of watercraft or other artificial contrivance used as a means of transportation on or through the water.
+
+(Pub. L. 93–627, §3, Jan. 3, 1975, 88 Stat. 2127; Pub. L. 98–419, §2(a), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §503, Oct. 19, 1996, 110 Stat. 3926; Pub. L. 107–295, title I, §106(b), Nov. 25, 2002, 116 Stat. 2086.)
 
 #### References in Text
 
-This chapter, referred to in par. (9), was in the original “this title” and was translated as reading “this Act”, meaning Pub. L. 93–627, which is classified generally to this chapter, to reflect the probable intent of Congress, because Pub. L. 93–627 does not contain titles.
+The Clean Air Act, referred to in par. (9)(D), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
-The Clean Air Act, referred to in par. (9), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
-
-The Federal Water Pollution Control Act, as amended, referred to in par. (9), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
+The Federal Water Pollution Control Act, as amended, referred to in par. (9)(D), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, which is classified generally to chapter 26 (§1251 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of this title and Tables.
 
 #### Amendments
+
+2002—Par. (9). Pub. L. 107–295, §106(b)(2), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “ ‘deepwater port’ means any fixed or floating manmade structures other than a vessel, or any group of structures, located beyond the territorial sea and off the coast of the United States and which are used or intended for use as a port or terminal for the transportation, storage, and further handling of oil for transportation to any State, except as otherwise provided in section 1522 of this title, and for other uses not inconsistent with the purposes of this chapter, including transportation of oil from the United States outer continental shelf. The term includes all associated components and equipment, including pipelines, pumping stations, service platforms, mooring buoys, and similar appurtenances to the extent they are located seaward of the high water mark. A deepwater port shall be considered a ‘new source’ for purposes of the Clean Air Act, as amended, and the Federal Water Pollution Control Act, as amended;”.
+
+Pars. (13) to (19). Pub. L. 107–295, §106(b)(1), (3), added par. (13) and redesignated former pars. (13) to (18) as (14) to (19), respectively.
 
 1996—Pars. (3) to (8). Pub. L. 104–324, §503(a), redesignated pars. (4) to (9) as (3) to (8), respectively, and struck out former par. (3) which read as follows: “ ‘antitrust laws’ includes the Act of July 2, 1890, as amended, the Act of October 15, 1914, as amended, the Federal Trade Commission Act (15 U.S.C. 41 et seq.), and sections 73 and 74 of the Act of August 27, 1894, as amended;”.
 
@@ -56,7 +68,7 @@ Par. (9). Pub. L. 104–324, §503(a)(2), (b), redesignated par. (10) as (9) and
 
 Pars. (10) to (19). Pub. L. 104–324, §503(a)(2), redesignated pars. (11) to (19) as (10) to (18), respectively. Former par. (10) redesignated (9).
 
-1984—Par. (4). Pub. L. 98–419 substituted “means an application” for “means any application”, struck outdesignation “(A)” before “for a license”, and struck out cls. (B) and (C) which provided that “application” meant any application submitted under this chapter for transfer of any license referred to in this paragraph, or for any substantial change in any of the conditions and provisions of any such license.
+1984—Par. (4). Pub. L. 98–419 substituted “means an application” for “means any application”, struck out designation “(A)” before “for a license”, and struck out cls. (B) and (C) which provided that “application” meant any application submitted under this chapter for transfer of any license referred to in this paragraph, or for any substantial change in any of the conditions and provisions of any such license.
 
 #### Territorial Sea and Contiguous Zone of United States
 
@@ -67,6 +79,4 @@ For extension of territorial sea and contiguous zone of United States, see Proc.
 This section is referred to in section 2704 of this title; title 16 section 1453.
 
 <i><sup>1</sup></i><i> So in original. Probably should be preceded by an opening parenthesis.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

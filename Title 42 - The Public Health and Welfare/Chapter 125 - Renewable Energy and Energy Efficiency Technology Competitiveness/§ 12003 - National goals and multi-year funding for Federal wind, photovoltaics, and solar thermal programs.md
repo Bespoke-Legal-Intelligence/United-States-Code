@@ -6,7 +6,7 @@ The following are declared to be the national goals for the wind, photovoltaics,
 
 #### (1) Wind
 
-&emsp;(A) In general, the goals for the Wind Energy Research Program include improving designmethodologies and developing more reliable and efficient wind turbines to increase the cost competitiveness of wind energy. Research efforts shall emphasize—
+&emsp;(A) In general, the goals for the Wind Energy Research Program include improving design methodologies and developing more reliable and efficient wind turbines to increase the cost competitiveness of wind energy. Research efforts shall emphasize—
 
 &emsp;&emsp;(i) activities that address near-term technical problems and assist private sector exploitation of market opportunities of the wind energy industry;
 

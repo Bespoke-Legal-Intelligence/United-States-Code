@@ -52,7 +52,7 @@ June 6, 1900, ch. 806, §4 (1st–3d sentences, 4th sentence less adopting and a
 
 &nbsp;
 
-In subsection (a)(1), the words “The board of trustees is the governing body of the corporation” are substituted for “The government of said association shall be vested in a board of trustees” for consistency in the revised title. The words “The board shall exercise thepowers granted to the corporation” are substituted for “Said board of trustees shall have perpetual succession, and in them and their successors shall be vested the power hereinbefore granted to this association” to eliminate unnecessary words.
+In subsection (a)(1), the words “The board of trustees is the governing body of the corporation” are substituted for “The government of said association shall be vested in a board of trustees” for consistency in the revised title. The words “The board shall exercise the powers granted to the corporation” are substituted for “Said board of trustees shall have perpetual succession, and in them and their successors shall be vested the power hereinbefore granted to this association” to eliminate unnecessary words.
 
 In subsection (a)(2), the words “who shall be elected by the corporators at their first meeting or at such time thereafter as the said corporators may at the said first meeting appoint for that purpose” are omitted as obsolete. The words “A vacancy on the board shall be filled by decision of the remaining members of the board” are substituted for “In case of a vacancy or vacancies occurring in said board of trustees by death, resignation, or otherwise, the same shall be filled by the remaining members thereof” for clarity and to eliminate unnecessary words.
 

@@ -6,7 +6,7 @@ There is in the Administration a Deputy Administrator for Defense Programs, who 
 
 #### (b) Duties
 
-Subject to the authority, direction, and control of the Administrator, the Deputy Administrator for Defense Programs shall perform suchduties and exercise such powers as the Administrator may prescribe, including the following:
+Subject to the authority, direction, and control of the Administrator, the Deputy Administrator for Defense Programs shall perform such duties and exercise such powers as the Administrator may prescribe, including the following:
 
 &emsp;(1) Maintaining and enhancing the safety, reliability, and performance of the United States nuclear weapons stockpile, including the ability to design, produce, and test, in order to meet national security requirements.
 

@@ -52,7 +52,7 @@ Historical and Revision Notes
 
 6:11.
 
-In subsection (a), before clause (1), the words “Before becoming a surety under section 9304 of this title, a surety corporation must file” are substituted for “Every company, before transacting any business under sections 6 to 13 of this title, shall deposit” for consistency and as being more precise. In clause (1), thewords “charter or” are omitted as being included in “articles of incorporation”.
+In subsection (a), before clause (1), the words “Before becoming a surety under section 9304 of this title, a surety corporation must file” are substituted for “Every company, before transacting any business under sections 6 to 13 of this title, shall deposit” for consistency and as being more precise. In clause (1), the words “charter or” are omitted as being included in “articles of incorporation”.
 
 Subsection (b) is substituted for 6:8(2d sentence) for clarity and consistency and because of the restatement.
 

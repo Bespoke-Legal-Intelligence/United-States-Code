@@ -74,7 +74,7 @@ A drug may be compounded under subsection (a) of this section only if the pharma
 
 #### (1) In general
 
-&emsp;The Secretary shall issue regulations to implement this section. Before issuing regulations to implement subsections (b)(1)(A)(i)(III), (b)(1)(C), or (b)(3)(A) of this section, the Secretary shall convene and consult an advisory committee on compounding unless the Secretary determines that the issuance of such regulations before consultation is necessary to protect the public health. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopoeia, pharmacy, physician, and consumer organizations, and other experts selected by the Secretary.
+&emsp;The Secretary shall issue regulations to implement this section. Before issuing regulations to implement subsections (b)(1)(A)(i)(III), (b)(1)(C), or (b)(3)(A) of this section, the Secretary shall convene and consult an advisory committee on compounding unless the Secretary determines that the issuance of such regulations before consultation is necessary to protect the public health. The advisory committee shall include representatives from the National Association of Boards of Pharmacy, the United States Pharmacopoeia, pharmacy, physician, and consumerorganizations, and other experts selected by the Secretary.
 
 #### (2) Limiting compounding
 

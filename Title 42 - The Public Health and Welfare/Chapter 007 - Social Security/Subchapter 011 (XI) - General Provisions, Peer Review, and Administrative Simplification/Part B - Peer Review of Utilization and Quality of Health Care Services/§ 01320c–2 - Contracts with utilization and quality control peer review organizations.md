@@ -2,7 +2,7 @@
 
 #### (a) Establishment and consolidation of geographic areas
 
-(1) The Secretary shall establish throughout the United States geographic areas with respect to which contracts under this part will be made. In establishing such areas, the Secretary shall use the same areas as established under section 1320c–1 of this title as in effect immediately prior to September 3, 1982, but subject to the provisions of paragraph (2).
+(1) The Secretary shall establish throughout the United States geographic areas with respectto which contracts under this part will be made. In establishing such areas, the Secretary shall use the same areas as established under section 1320c–1 of this title as in effect immediately prior to September 3, 1982, but subject to the provisions of paragraph (2).
 
 (2) As soon as practicable after September 3, 1982, the Secretary shall consolidate such geographic areas, taking into account the following criteria:
 
@@ -20,7 +20,7 @@
 
 (B) If, after November 14, 1984, the Secretary determines that there is no other entity available for an area with which the Secretary can enter into a contract under this part, the Secretary may then enter into a contract under this part with an entity described in subparagraph (A) for such area if such entity otherwise meets the requirements of this part.
 
-(3)(A) The Secretary shall not enter into a contract under this part with any entity whichis, or is affiliated with (through management, ownership, or common control), a health care facility, or association of such facilities, within the area served by such entity or which would be served by such entity if it entered into a contract with the Secretary under this part.
+(3)(A) The Secretary shall not enter into a contract under this part with any entity which is, or is affiliated with (through management, ownership, or common control), a health care facility, or association of such facilities, within the area served by such entity or which would be served by such entity if it entered into a contract with the Secretary under this part.
 
 (B) For purposes of subparagraph (A), an entity shall not be considered to be affiliated with a health care facility or association of facilities by reason of management, ownership, or common control if the management, ownership, or common control consists only of not more than 20 percent of the members of the governing board of the entity being affiliated (through management, ownership, or common control) with one or more of such facilities or associations.
 
@@ -80,7 +80,7 @@ The Secretary shall provide that fiscal intermediaries furnish to peer review or
 
 (2) The Secretary shall publish in the Federal Register the general criteria and standards used for evaluating the efficient and effective performance of contract obligations under this section and shall provide opportunity for public comment with respect to such criteria and standards.
 
-(3) The Secretary shall regularly furnish each peer review organization with a contract under this section with a report that documents the performance of the organization in relation to the performance of other such organizations.
+(3) The Secretary shall regularly furnish each peer review organization with a contract underthis section with a report that documents the performance of the organization in relation to the performance of other such organizations.
 
 #### (i) Preference in contracting with in-State organizations
 
@@ -124,7 +124,7 @@ Subsec. (g). Pub. L. 99–509 added subsec. (g).
 
 1984—Subsec. (b)(2)(A). Pub. L. 98–369, §2347(c)(1), substituted “Prior to November 15, 1984” for “During the first twelve months in which the Secretary is entering into contracts under this section”.
 
-Pub. L. 98–369, §2334(b), inserted “(other than a self-insured employer)” and provision that for purposes of this paragraph an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common controlconsists only of one individual member of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an “eligible organization” as defined in section 1395mm(b) of this title.
+Pub. L. 98–369, §2334(b), inserted “(other than a self-insured employer)” and provision that for purposes of this paragraph an entity shall not be considered to be affiliated with another entity which makes payments (directly or indirectly) to any practitioner or provider, by reason of management, ownership, or common control, if the management, ownership, or common control consists only of one individual member of the governing board being affiliated (through management, ownership, or common control) with a health maintenance organization or competitive medical plan which is an “eligible organization” as defined in section 1395mm(b) of this title.
 
 Subsec. (b)(2)(B). Pub. L. 98–369, §2347(c)(2), substituted “after November 14, 1984” for “after the expiration of the twelve-month period referred to in subparagraph (A)”.
 

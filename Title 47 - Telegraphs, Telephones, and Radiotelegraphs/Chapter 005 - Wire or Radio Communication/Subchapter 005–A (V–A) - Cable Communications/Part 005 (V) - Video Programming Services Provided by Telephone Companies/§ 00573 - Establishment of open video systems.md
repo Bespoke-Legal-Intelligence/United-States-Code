@@ -46,7 +46,7 @@
 
 &emsp;&emsp;(B) sections 531, 534, and 535 of this title, and section 325 of this title, shall apply in accordance with the regulations prescribed under paragraph (2), and
 
-&emsp;&emsp;(C) sections 532 and 537 of this title, and parts III and IV of this subchapter (other than sections 543(f), 548, 551, and 554 of this title), shall not apply,
+&emsp;&emsp;(C) sections 532 and 537 of this title, and parts III and IV of this subchapter (otherthan sections 543(f), 548, 551, and 554 of this title), shall not apply,
 
 > &emsp;to any operator of an open video system for which the Commission has approved a certification under this section.
 

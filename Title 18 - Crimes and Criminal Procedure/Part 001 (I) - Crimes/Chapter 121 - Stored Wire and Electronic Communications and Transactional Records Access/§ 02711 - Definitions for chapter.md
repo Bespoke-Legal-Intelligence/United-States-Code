@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;(3) the term “court of competent jurisdiction” has the meaning assigned by section 3127, and includes any Federal court within that definition, without geographic limitation.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1868, §2710; renumbered §2711, Pub. L. 100–618, §2(a)(1), Nov. 5, 1988, 102 Stat. 3195;amended Pub. L. 107–56, title II, §220(a)(2), Oct. 26, 2001, 115 Stat. 292.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1868, §2710; renumbered §2711, Pub. L. 100–618, §2(a)(1), Nov. 5, 1988, 102 Stat. 3195; amended Pub. L. 107–56, title II, §220(a)(2), Oct. 26, 2001, 115 Stat. 292.)
 
 #### Amendment of Section
 

@@ -32,6 +32,8 @@ For short title of subtitle D of title XXXI of div. C of Pub. L. 106–65, which
 
 For short title of section 1 \[div. C, title XXXVI\] of Pub. L. 106–398, which enacted subchapter XVI of this chapter, as the “Energy Employees Occupational Illness Compensation Program Act of 2000”, see section 1 \[div. C, title XXXVI, §3601\] of Pub. L. 106–398, set out as a note under section 7384 of this title.
 
+Pub. L. 107–314, div. C, title XXXVI, §3601, Dec. 2, 2002, 116 Stat. 2756, provided that: “This title \[enacting subchapter XVII of this chapter\] may be cited as the ‘Atomic Energy Defense Act’.”
+
 #### Executive Order No. 12083
 
 Ex. Ord. No. 12083, Sept. 27, 1978, 43 F.R. 44813, as amended by Ex. Ord. No. 12121, Feb. 26, 1979, 44 F.R. 11195; Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, which established the Energy Coordinating Committee and provided for its membership, functions, etc., was revoked by Ex. Ord. No. 12379, §20, Aug. 17, 1982, 47 F.R. 36100, set out as a note under section 14 of the Federal Advisory Committee Act in the Appendix to Title 5, Government Organization and Employees.

@@ -1,6 +1,6 @@
 ### §§3, 4. Repealed. July 1, 1944, ch. 373, title XIII, §1313, 58 Stat. 714
 
-Section 3, acts July 1, 1902, ch. 1370, §9, 32 Stat. 714; Aug. 14, 1912, ch. 288, §1, 37 Stat. 309, provided for rulesand regulations of service by the President. See section 216 of this title.
+Section 3, acts July 1, 1902, ch. 1370, §9, 32 Stat. 714; Aug. 14, 1912, ch. 288, §1, 37 Stat. 309, provided for rules and regulations of service by the President. See section 216 of this title.
 
 Section 4, R.S. §4802; acts July 1, 1902, ch. 1370, §9, 32 Stat. 714; Aug. 14, 1912, ch. 288, §1, 37 Stat. 309, provided for an annual report by Surgeon General to Federal Security Administrator. See section 229 of this title.
 

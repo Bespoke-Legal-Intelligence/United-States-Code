@@ -22,7 +22,7 @@
 
 (3) A civil action to review any decision or order of the Customs Service to deny, suspend, or revoke accreditation of a private laboratory under section 499(b) of the Tariff Act of 1930 may be commenced in the Court of International Trade by the person whose accreditation was denied, suspended, or revoked.
 
-(h) A civil action described in section 1581(h) of this title may be commenced in the Court of International Trade by the person who would have standing to bring a civil action under section 1581(a) of this title if he imported the goods involved and filed a protest which was denied, in whole or in part, under section 515 of the Tariff Act of 1930.
+(h) A civil action described in section 1581(h) of this title may be commenced in the Court of International Trade by the person who wouldhave standing to bring a civil action under section 1581(a) of this title if he imported the goods involved and filed a protest which was denied, in whole or in part, under section 515 of the Tariff Act of 1930.
 
 (i) Any civil action of which the Court of International Trade has jurisdiction, other than an action specified in subsections (a)–(h) of this section, may be commenced in the court by any person adversely affected or aggrieved by agency action within the meaning of section 702 of title 5.
 
@@ -82,9 +82,9 @@ A prior section 2631, acts June 25, 1948, ch. 646, 62 Stat. 980; May 24, 1949, c
 
 #### Amendments
 
-<b>1993</b>—Subsec. (g)(3). Pub. L. 103–182 added par. (3).
+1993—Subsec. (g)(3). Pub. L. 103–182 added par. (3).
 
-<b>1984</b>—Subsec. (g). Pub. L. 98–573, §212(b)(3), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
+1984—Subsec. (g). Pub. L. 98–573, §212(b)(3), amended subsec. (g) generally. Prior to amendment, subsec. (g) read as follows:
 
 “(1) A civil action to review any decision of the Secretary of the Treasury to deny or revoke a customhouse broker's license under section 641(a) of the Tariff Act of 1930 may be commenced in the Court of International Trade by the person whose license was denied or revoked.
 
@@ -106,7 +106,11 @@ Subsecs. (d) and (g) to (j) of this section applicable with respect to civil act
 
 #### Application of 1993 Amendment
 
-For purposes of applying amendment by Pub. L. 103–182, any decision or order of Customs Service denying, suspending, or revoking accreditation of a private laboratory on or after Dec. 8, 1993, and before regulations to implement 19 U.S.C. 1499(b) are issued to be treated as having been denied, suspended, or revokedunder such section 1499(b), see section 684(b) of Pub. L. 103–182, set out as a note under section 1581 of this title.
+For purposes of applying amendment by Pub. L. 103–182, any decision or order of Customs Service denying, suspending, or revoking accreditation of a private laboratory on or after Dec. 8, 1993, and before regulations to implement 19 U.S.C. 1499(b) are issued to be treated as having been denied, suspended, or revoked under such section 1499(b), see section 684(b) of Pub. L. 103–182, set out as a note under section 1581 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 

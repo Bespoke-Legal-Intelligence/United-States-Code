@@ -44,7 +44,7 @@ The Institute, acting through the Board, may—
 
 #### (d) Description of extension and outreach activities
 
-The Institute may undertake extension and outreach activities under this chapter by making grants and entering into contracts with institutions of postsecondary, community, secondary, and elementary education (including combinations of such institutions), with public and private educational, training, or research institutions (including the American Federation of Labor-the Congress of Industrial Organizations) and libraries, and with public departments and agencies (including State and territorial departments of education and of commerce). No grant may be made to an institution unless it is a nonprofit or official public institution, and at least one-fourth of the Institute's annual appropriations shall be paid to such nonprofit and official public institutions. A grant or contract may be made to—
+The Institute may undertake extension and outreach activities under this chapter by making grants and entering into contracts with institutions of postsecondary, community, secondary, and elementary education (including combinations of such institutions), with public andprivate educational, training, or research institutions (including the American Federation of Labor-the Congress of Industrial Organizations) and libraries, and with public departments and agencies (including State and territorial departments of education and of commerce). No grant may be made to an institution unless it is a nonprofit or official public institution, and at least one-fourth of the Institute's annual appropriations shall be paid to such nonprofit and official public institutions. A grant or contract may be made to—
 
 &emsp;(1) initiate, strengthen, and support basic and applied research on international peace and conflict resolution;
 
@@ -78,7 +78,7 @@ The Institute may fix the duties of its officers, employees, and agents, and est
 
 (3) Notwithstanding any other provision of this chapter, the Institute and the legal entity described in section 4603(c) of this title may not obtain any grant or contract or receive any gift or contribution from any private agency, organization, corporation or other legal entity, institution, or individual, except such Institute or legal entity may accept such a gift or contribution to—
 
-&emsp;(A) purchase, lease for purchase, or otherwise acquire, construct, improve, furnish, or maintain a suitable permanent headquarters,any related facility, or any site or sites for such facilities for the Institute and the legal entity described in section 4603(c) of this title; or
+&emsp;(A) purchase, lease for purchase, or otherwise acquire, construct, improve, furnish, or maintain a suitable permanent headquarters, any related facility, or any site or sites for such facilities for the Institute and the legal entity described in section 4603(c) of this title; or
 
 &emsp;(B) provide program-related hospitality, including such hospitality connected with the presentation of the Spark M. Matsunaga Medal of Peace.
 
@@ -158,7 +158,7 @@ Amendment by Pub. L. 102–325 effective Oct. 1, 1992, see section 2 of Pub. L. 
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986,Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of Title 20, Education.
+Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of Title 20, Education.
 
 #### Transfer of Functions
 

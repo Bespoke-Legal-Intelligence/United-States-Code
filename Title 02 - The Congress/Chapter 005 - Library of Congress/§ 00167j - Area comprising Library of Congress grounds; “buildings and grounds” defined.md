@@ -32,5 +32,5 @@ Amendment by Pub. L. 101–520 and Pub. L. 101–562 effective on date \[Nov. 6,
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 141 of this title; title 40 section 136.
+This section is referred to in section 141 of this title; title 40 sections 8501, 8502.
 

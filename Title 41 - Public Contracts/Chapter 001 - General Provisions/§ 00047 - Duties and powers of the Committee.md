@@ -46,5 +46,5 @@ Amendment by Pub. L. 92–28 effective Aug. 1, 1971, see section 2 of Pub. L. 92
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 48a of this title; title 10 sections 2410d, 2461; title 15 section 644; title 40 section 481.
+This section is referred to in section 48a of this title; title 10 sections 2410d, 2461; title 15 section 644; title 40 section 502.
 

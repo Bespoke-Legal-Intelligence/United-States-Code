@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 3002, 3035, 3232 of this title; title 10 section 2006.
+This subchapter is referred to in sections 3002, 3035, 3232 of this title; title 10 sections 510, 2006.
 
 
 ---
@@ -13,7 +13,7 @@ This subchapter is referred to in sections 3002, 3035, 3232 of this title; title
 - [&sect; 03012 - Basic educational assistance entitlement for service in the Selected Reserve](%C2%A7%2003012%20-%20Basic%20educational%20assistance%20entitlement%20for%20service%20in%20the%20Selected%20Reserve.md)
 - [&sect; 03013 - Duration of basic educational assistance](%C2%A7%2003013%20-%20Duration%20of%20basic%20educational%20assistance.md)
 - [&sect; 03014 - Payment of basic educational assistance](%C2%A7%2003014%20-%20Payment%20of%20basic%20educational%20assistance.md)
-- [&sect; 03014A - Accelerated payment of basic educational assistance for education leading to employment in high technology industry](%C2%A7%2003014A%20-%20Accelerated%20payment%20of%20basic%20educational%20assistance%20for%20education%20leading%20to%20employment%20in%20high%20technology%20industry.md)
+- [&sect; 03014A - Accelerated payment of basic educational assistance for education leading to employment in high technology occupation in high technology&#8230;](%C2%A7%2003014A%20-%20Accelerated%20payment%20of%20basic%20educational%20assistance%20for%20education%20leading%20to%20employment%20in%20high%20technology%20occupation%20in%20high%20technology%E2%80%A6.md)
 - [&sect; 03015 - Amount of basic educational assistance](%C2%A7%2003015%20-%20Amount%20of%20basic%20educational%20assistance.md)
 - [&sect; 03016 - Inservice enrollment in a program of education](%C2%A7%2003016%20-%20Inservice%20enrollment%20in%20a%20program%20of%20education.md)
 - [&sect; 03017 - Death benefit](%C2%A7%2003017%20-%20Death%20benefit.md)

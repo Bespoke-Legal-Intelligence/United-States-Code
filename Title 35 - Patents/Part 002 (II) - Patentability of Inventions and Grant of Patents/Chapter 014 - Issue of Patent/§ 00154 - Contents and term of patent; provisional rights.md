@@ -6,7 +6,7 @@ In General.—
 
 &emsp;(1)
 
-Contents.—Every patent shall contain a short title of the invention and a grant to the patentee, his heirs or assigns, of the right toexclude others from making, using, offering for sale, or selling the invention throughout the United States or importing the invention into the United States, and, if the invention is a process, of the right to exclude others from using, offering for sale or selling throughout the United States, or importing into the United States, products made by that process, referring to the specification for the particulars thereof.
+Contents.—Every patent shall contain a short title of the invention and a grant to the patentee, his heirs or assigns, of the right to exclude others from making, using, offering for sale, or selling the invention throughout the United States or importing the invention into the United States, and, if the invention is a process, of the right to exclude others from using, offering for sale or selling throughout the United States, or importing into the United States, products made by that process, referring to the specification for the particulars thereof.
 
 &emsp;(2)
 
@@ -38,7 +38,7 @@ Guarantee of prompt patent and trademark office responses.—Subject to the limi
 
 &emsp;&emsp;&emsp;&emsp;(II) the date on which an international application fulfilled the requirements of section 371 of this title;
 
-&emsp;&emsp;&emsp;(ii) respond to a reply under section 132, or to an appeal taken under section 134, within 4 months after the date on which the reply was filed or the appeal was taken;
+&emsp;&emsp;&emsp;(ii) respond to a reply under section 132, or to an appeal taken under section 134, within 4 months after the date on whichthe reply was filed or the appeal was taken;
 
 &emsp;&emsp;&emsp;(iii) act on an application within 4 months after the date of a decision by the Board of Patent Appeals and Interferences under section 134 or 135 or a decision by a Federal court under section 141, 145, or 146 in a case in which allowable claims remain in the application; or
 
@@ -88,7 +88,7 @@ Reduction of period of adjustment.—
 
 &emsp;&emsp;&emsp;(i) The period of adjustment of the term of a patent under paragraph (1) shall be reduced by a period equal to the period of time during which the applicant failed to engage in reasonable efforts to conclude prosecution of the application.
 
-&emsp;&emsp;&emsp;(ii) With respect to adjustments to patent term made under the authority of paragraph (1)(B), an applicant shall be deemed to have failed to engage in reasonable efforts to conclude processing or examination of an application for the cumulative total of any periods of time in excess of 3 months that are taken to respond to a notice from the Office making any rejection, objection, argument, or other request, measuring such 3-month periodfrom the date the notice was given or mailed to the applicant.
+&emsp;&emsp;&emsp;(ii) With respect to adjustments to patent term made under the authority of paragraph (1)(B), an applicant shall be deemed to have failed to engage in reasonable efforts to conclude processing or examination of an application for the cumulative total of any periods of time in excess of 3 months that are taken to respond to a notice from the Office making any rejection, objection, argument, or other request, measuring such 3-month period from the date the notice was given or mailed to the applicant.
 
 &emsp;&emsp;&emsp;(iii) The Director shall prescribe regulations establishing the circumstances that constitute a failure of an applicant to engage in reasonable efforts to conclude processing or examination of an application.
 
@@ -112,7 +112,7 @@ Procedures for patent term adjustment determination.—
 
 Appeal of patent term adjustment determination.—
 
-&emsp;&emsp;(A) An applicant dissatisfied with a determination made by the Director under paragraph (3) shall have remedy by a civil action against the Director filed in the United States District Court for the District of Columbia within 180 days after the grant of the patent. Chapter 7 of title 5, United States Code, shall apply to such action. Any final judgment resulting in a change to the period of adjustment of the patent term shall be served on the Director, and the Director shall thereafter alter the term of the patent to reflect such change.
+&emsp;&emsp;(A) An applicant dissatisfied with a determination made by the Director under paragraph (3) shall have remedy by a civil action against the Director filed in the United States District Court for the District of Columbia within 180 days after the grant of the patent. Chapter 7 of title 5 shall apply to such action. Any final judgment resulting in a change to the period of adjustment of the patent term shall be served on the Director, and the Director shall thereafter alter the term of the patent to reflect such change.
 
 &emsp;&emsp;(B) The determination of a patent term adjustment under this subsection shall not be subject to appeal or challenge by a third party prior to the grant of the patent.
 
@@ -164,13 +164,13 @@ Requirements for international applications.—
 
 &emsp;&emsp;(A)
 
-Effective date.—The right under paragraph (1) to obtain a reasonable royalty based upon the publication under the treaty defined in section 351(a) of an internationalapplication designating the United States shall commence on the date on which the Patent and Trademark Office receives a copy of the publication under the treaty of the international application, or, if the publication under the treaty of the international application is in a language other than English, on the date on which the Patent and Trademark Office receives a translation of the international application in the English language.
+Effective date.—The right under paragraph (1) to obtain a reasonable royalty based upon the publication under the treaty defined in section 351(a) of an international application designating the United States shall commence on the date of publication under the treaty of the international application, or, if the publication under the treaty of the international application is in a language other than English, on the date on which the Patent and Trademark Office receives a translation of the publication in the English language.
 
 &emsp;&emsp;(B)
 
 Copies.—The Director may require the applicant to provide a copy of the international application and a translation thereof.
 
-(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 89–83, §5, July 24, 1965, 79 Stat. 261; Pub. L. 96–517, §4, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 100–418, title IX, §9002, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 103–465, title V, §532(a)(1), Dec. 8, 1994, 108 Stat. 4983; Pub. L. 104–295, §20(e)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(a), 4504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, 1501A–564.)
+(July 19, 1952, ch. 950, 66 Stat. 804; Pub. L. 89–83, §5, July 24, 1965, 79 Stat. 261; Pub. L. 96–517, §4, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 100–418, title IX, §9002, Aug. 23, 1988, 102 Stat. 1563; Pub. L. 103–465, title V, §532(a)(1), Dec. 8, 1994, 108 Stat. 4983; Pub. L. 104–295, §20(e)(1), Oct. 11, 1996, 110 Stat. 3529; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4402(a), 4504\], Nov. 29, 1999, 113 Stat. 1536, 1501A–557, 1501A–564; Pub. L. 107–273, div. C, title III, §§13204, 13206(a)(8), Nov. 2, 2002, 116 Stat. 1902, 1904.)
 
 #### Historical and Revision Notes
 
@@ -187,6 +187,10 @@ The wording of the granting clause is changed to “the right to exclude others 
 The date of the enactment of the Uruguay Round Agreements Act, referred to in subsec. (c)(1), (2)(A), is the date of enactment of Pub. L. 103–465, which was approved Dec. 8, 1994.
 
 #### Amendments
+
+2002—Subsec. (b)(4)(A). Pub. L. 107–273, §13206(a)(8), struck out “, United States Code,” after “title 5”.
+
+Subsec. (d)(4)(A). Pub. L. 107–273, §13204, amended subsec. (d)(4)(A) as in effect on Nov. 29, 2000, by substituting “the date of” for “the date on which the Patent andTrademark Office receives a copy of the” and “publication in the English language” for “international application in the English language”.
 
 1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4504(1)\], inserted “; provisional rights” after “patent” in section catchline.
 
@@ -208,7 +212,7 @@ Subsec. (d). Pub. L. 106–113, §1000(a)(9) \[title IV, §4504(2)\], added subs
 
 Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4405(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–560, provided that: “The amendments made by sections 4402 and 4404 \[amending this section, sections 156 and 282 of this title, and section 1295 of Title 28, Judiciary and Judicial Procedure\] shall take effect on the date that is 6 months after the date of the enactment of this Act \[Nov. 29, 1999\] and, except for a design patent application filed under chapter 16 of title 35, United States Code, shall apply to any application filed on or after the date that is 6 months after the date of the enactment of this Act.”
 
-Amendment by section 1000(a)(9) \[title IV, §4504\] of Pub. L. 106–113 effective on date that is 1 year after Nov. 29, 1999, and applicable to all applications filed under section 111 of this title on or after that date, all applications complying with section 371 of this title that resulted from international applications filed on or after that date, to any such application voluntarily published by the applicant under procedures established under Pub. L. 106–113, §1000(a)(9) \[title IV, subtitle E (§§4501–4508)\] that is pending 1 year after Nov. 29, 1999, and to international applications designating the United States that are filed on or after date that is 1 year after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, set out as a note under section 10 of this title.
+Amendment by section 1000(a)(9) \[title IV, §4504\] of Pub. L. 106–113 effective Nov. 29, 2000, applicable only to applications (including international applications designating the United States) filed on or after that date, and additionally applicable to any pending application filed before Nov. 29, 2000, if such pending application is published pursuant to a request of the applicant under such procedures as may be established by the Director, see section 1000(a)(9) \[title IV, §4508\] of Pub. L. 106–113, as amended, set out as a note under section 10 of this title.
 
 #### Effective Date of 1994 Amendment
 

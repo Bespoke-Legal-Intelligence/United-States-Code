@@ -100,7 +100,7 @@ Pub. L. 107–82, §1(a), Dec. 14, 2001, 115 Stat. 814, provided that: “Congre
 
 &emsp;&emsp;“(F) $1,500,000,000 in public safety (26 percent of public safety spending) and $400,000,000 for the state workforce.
 
-&emsp;“(8) Intergovernmental cooperation and coordination through national, State, and local or tribal leadership and partnerships are critical to facilitate thereduction of substance abuse among youth in communities across the United States.
+&emsp;“(8) Intergovernmental cooperation and coordination through national, State, and local or tribal leadership and partnerships are critical to facilitate the reduction of substance abuse among youth in communities across the United States.
 
 &emsp;“(9) Substance abuse is perceived as a much greater problem nationally than at the community level. According to a 2001 study sponsored by The Pew Charitable Trusts, between 1994 and 2000—
 

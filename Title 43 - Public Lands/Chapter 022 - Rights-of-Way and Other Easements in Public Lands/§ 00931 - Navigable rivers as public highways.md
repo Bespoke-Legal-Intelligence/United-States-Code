@@ -1,6 +1,6 @@
 ### §931. Navigable rivers as public highways
 
-All navigable rivers, within the territory occupied by the public lands, shall remain and be deemed public highways; and, in all cases where the opposite banks of any streams not navigable belong to different persons, the stream and the bed thereof shall become common to both.
+All navigable rivers, within the territory occupied by the public lands, shall remain and be deemed public highways; and, in all cases wherethe opposite banks of any streams not navigable belong to different persons, the stream and the bed thereof shall become common to both.
 
 (R.S. §2476.)
 

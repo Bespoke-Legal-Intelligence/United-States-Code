@@ -2,7 +2,7 @@
 
 (a) The Foundation may—
 
-&emsp;(1) appoint and fix the compensation of such personnel as may be necessary to carry outthe provisions of this chapter, except that in no case shall employees (other than the Executive Secretary) be compensated at a rate in excess of the rate of basic pay payable for GS–15 of the General Schedule;
+&emsp;(1) appoint and fix the compensation of such personnel as may be necessary to carry out the provisions of this chapter, except that in no case shall employees (other than the Executive Secretary) be compensated at a rate in excess of the rate of basic pay payable for GS–15 of the General Schedule;
 
 &emsp;(2) procure temporary and intermittent services of such experts and consultants as are necessary to the extent authorized by section 3109 of title 5, but at rates not in excess of the rate of basic pay payable for Executive Level V;
 
@@ -36,7 +36,7 @@ Executive Level V, referred to in subsec. (a)(2), probably means level V of the 
 
 #### Codification
 
-In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for reference to section 529 of title 31, United States Code, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+In subsec. (a)(7), “section 3324(a) and (b) of title 31” substituted for reference to section 529 of title 31, United States Code, on authority of Pub. L. 97–258,§4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
 #### Termination of Reporting Requirements
 

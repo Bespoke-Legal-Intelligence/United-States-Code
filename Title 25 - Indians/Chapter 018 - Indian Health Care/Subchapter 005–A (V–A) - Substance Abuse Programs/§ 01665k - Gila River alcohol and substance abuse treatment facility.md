@@ -2,7 +2,7 @@
 
 #### (a) Regional center
 
-The Secretary, acting through the Service, shall establish a regional youth alcohol and substance abuse prevention and treatment center in Sacaton, Arizona, on the Gila River Indian Reservation. The center shall be established within facilities leased, with the consent of the GilaRiver Indian Community, by the Service from such Community.
+The Secretary, acting through the Service, shall establish a regional youth alcohol and substance abuse prevention and treatment center in Sacaton, Arizona, on the Gila River Indian Reservation. The center shall be established within facilities leased, with the consent of the Gila River Indian Community, by the Service from such Community.
 
 #### (b) Name of regional center
 

@@ -24,7 +24,7 @@ Aircraft Taking Off or Landing in State.—A State or political subdivision of a
 
 Unreasonable Burdens and Discrimination Against Interstate Commerce.—(1) In this subsection—
 
-&emsp;(A) “air carrier transportation property” means property (as defined by the Secretary of Transportation) that an air carrier providing air transportation owns or uses.
+&emsp;(A) “air carrier transportation property” means property (as defined by the Secretary ofTransportation) that an air carrier providing air transportation owns or uses.
 
 &emsp;(B) “assessment” means valuation for a property tax levied by a taxing district.
 

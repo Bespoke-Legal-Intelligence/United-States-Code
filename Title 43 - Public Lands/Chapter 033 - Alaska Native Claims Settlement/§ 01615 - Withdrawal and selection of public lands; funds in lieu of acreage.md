@@ -2,7 +2,7 @@
 
 #### (a) Withdrawal of public lands; list of Native villages
 
-All public lands in each township that encloses all or any part of a Native village listed below, and in each township that is contiguousto or corners on such township, except lands withdrawn or reserved for national defense purposes, are hereby withdrawn, subject to valid existing rights, from all forms of appropriation under the public land laws, including the mining and mineral leasing laws, and from selection under the Alaska Statehood Act, as amended:
+All public lands in each township that encloses all or any part of a Native village listed below, and in each township that is contiguous to or corners on such township, except lands withdrawn or reserved for national defense purposes, are hereby withdrawn, subject to valid existing rights, from all forms of appropriation under the public land laws, including the mining and mineral leasing laws, and from selection under the Alaska Statehood Act, as amended:
 
 &emsp;Angoon, Southeast.
 
@@ -36,7 +36,7 @@ The funds appropriated by the Act of July 9, 1968 (82 Stat. 307), to pay the jud
 
 (2) The lands withdrawn by the Secretary pursuant to paragraph (1) of this subsection shall be located in the southeastern Alaska region and shall be of similar character and comparable value, to the extent possible, to those of the Chilkat Valley surrounding the village of Klukwan. Such withdrawal shall be made within six months of October 4, 1976, and the Village Corporation for the village of Klukwan shall select, within one year from the time that the withdrawal is made, and be conveyed, twenty-three thousand and forty acres. None of the lands withdrawn by the Secretary for selection by the Village Corporation for the village of Klukwan shall have been selected by, or be subject to an outstanding nomination for selection by, any other Native Corporation organized pursuant to this chapter, or located on Admiralty Island.
 
-(Pub. L. 92–203, §16, Dec. 18, 1971, 85 Stat. 705; Pub. L. 94–204, §§9, 10, Jan. 2, 1976, 89 Stat. 1150; Pub. L. 94–456, §1, Oct. 4, 1976, 90 Stat. 1934; Pub. L. 95–178, §1, Nov. 15, 1977, 91 Stat. 1369.)
+(Pub. L. 92–203, §16, Dec. 18, 1971, 85 Stat. 705; Pub. L. 94–204, §§9, 10, Jan. 2, 1976, 89 Stat. 1150;Pub. L. 94–456, §1, Oct. 4, 1976, 90 Stat. 1934; Pub. L. 95–178, §1, Nov. 15, 1977, 91 Stat. 1369.)
 
 #### References in Text
 
@@ -48,7 +48,7 @@ The Alaska Statehood Act, as amended, referred to in subsec. (a), is Pub. L. 85�
 
 Act of July 9, 1968 (82 Stat. 307), referred to in subsec. (c), is Pub. L. 90–392, July 9, 1968, 82 Stat. 307, known as the Second Supplemental Appropriation Act, 1968, which is not classified to the Code.
 
-The United States Court of Claims, referred to in subsec. (c), and the United States Court of Customs and Patent Appeals were merged effective Oct. 1, 1982, into a new United States Court of Appeals for the Federal Circuit by Pub. L. 97–164, Apr. 2, 1982, 96 Stat. 25, which also created a United States Claims Court \[now United States Court of Federal Claims\] that inherited the trial jurisdiction of the Court of Claims. See sections 48, 171et seq., 791 et seq., and 1491 et seq. of Title 28, Judiciary and Judicial Procedure.
+The United States Court of Claims, referred to in subsec. (c), and the United States Court of Customs and Patent Appeals were merged effective Oct. 1, 1982, into a new United States Court of Appeals for the Federal Circuit by Pub. L. 97–164, Apr. 2, 1982, 96 Stat. 25, which also created a United States Claims Court \[now United States Court of Federal Claims\] that inherited the trial jurisdiction of the Court of Claims. See sections 48, 171 et seq., 791 et seq., and 1491 et seq. of Title 28, Judiciary and Judicial Procedure.
 
 Act of July 13, 1970 (84 Stat. 431), referred to in subsec. (c), is Pub. L. 91–335, July 13, 1970, 84 Stat. 431, which enacted section 1211 of Title 25, Indians. For complete classification of this Act to the Code, see Tables.
 

@@ -2,7 +2,7 @@ subpart b—program benefits
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in sections 2312, 2331 of this title.
+This subpart is referred to in sections 2312, 2401e of this title.
 
 
 ---

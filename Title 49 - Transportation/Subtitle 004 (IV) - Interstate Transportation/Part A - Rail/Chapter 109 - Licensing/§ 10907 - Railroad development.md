@@ -36,9 +36,9 @@
 
 (d) In the case of any railroad line subject to sale under subsection (a) of this section, the Board shall, upon the request of the acquiring carrier, require the selling carrier to provide to the acquiring carrier trackage rights to allow a reasonable interchange with the selling carrier or to move power equipment or empty rolling stock between noncontiguous feeder lines operated by the acquiring carrier. The Board shall require the acquiring carrier to provide the selling carrier reasonable compensation for any such trackage rights.
 
-(e) The Board shall require, to the maximum extent practicable, the use of the employees who would normally have performed work in connection with a railroad line subject to a sale under this section.
+(e) The Board shall require, to the maximum extent practicable, the use of the employees whowould normally have performed work in connection with a railroad line subject to a sale under this section.
 
-(f) In the case of a railroad line which carried less than 3,000,000 gross ton miles of traffic per mile in the preceding calendar year, whenever a purchasing carrier under this section petitions the Board for joint rates applicable to traffic moving over through routes in which the purchasing carrier may practicably participate, the Board shall, within 30 days after the date suchpetition is filed and pursuant to section 10705(a) of this title, require the establishment of reasonable joint rates and divisions over such route.
+(f) In the case of a railroad line which carried less than 3,000,000 gross ton miles of traffic per mile in the preceding calendar year, whenever a purchasing carrier under this section petitions the Board for joint rates applicable to traffic moving over through routes in which the purchasing carrier may practicably participate, the Board shall, within 30 days after the date such petition is filed and pursuant to section 10705(a) of this title, require the establishment of reasonable joint rates and divisions over such route.
 
 (g)(1) Any person operating a railroad line acquired under this section may elect to be exempt from any of the provisions of this part, except that such a person may not be exempt from the provisions of chapter 107 of this title with respect to transportation under a joint rate.
 

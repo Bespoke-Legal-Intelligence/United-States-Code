@@ -2,7 +2,7 @@
 
 #### (a) Types of fees
 
-Beginning in fiscal year 1998, the Secretary shall assess and collect fees in accordance with this section as follows:
+Beginning in fiscal year 2003, the Secretary shall assess and collect fees in accordance with this section as follows:
 
 #### (1) Human drug application and supplement fee
 
@@ -10,9 +10,9 @@ Beginning in fiscal year 1998, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;Each person that submits, on or after September 1, 1992, a human drug application or a supplement shall be subject to a fee as follows:
 
-&emsp;&emsp;&emsp;(i) A fee established in subsection (b) of this section for a human drug application for which clinical data (other than bioavailability or bioequivalence studies) with respect to safety or effectiveness are required for approval.
+&emsp;&emsp;&emsp;(i) A fee established under subsection (c)(4) of this section for a human drug application for which clinical data (other than bioavailability or bioequivalence studies) with respect to safety or effectiveness are required for approval.
 
-&emsp;&emsp;&emsp;(ii) A fee established in subsection (b) of this section for a human drug application for which clinical data with respect to safety or effectiveness are not required or a supplement for which clinical data (other than bioavailability or bioequivalence studies) with respect to safety or effectiveness are required.
+&emsp;&emsp;&emsp;(ii) A fee established under subsection (c)(4) of this section for a human drug application for which clinical data with respect to safety or effectiveness are not required or a supplement for which clinical data (other than bioavailability or bioequivalence studies) with respect to safety or effectiveness are required. Such feeshall be half of the amount of the fee established under clause (i).
 
 #### (B) Payment
 
@@ -44,7 +44,7 @@ Beginning in fiscal year 1998, the Secretary shall assess and collect fees in ac
 
 &emsp;&emsp;&emsp;(ii) after September 1, 1992, had pending before the Secretary a human drug application or supplement,
 
-> &emsp;&emsp;shall be assessed an annual fee established in subsection (b) of this section for each prescription drug establishment listed in its approved human drug application as an establishment that manufactures the prescription drug product named in the application. The annual establishment fee shall be assessed in each fiscal year in which the prescription drug product named in the application is assessed a fee under paragraph (3) unless theprescription drug establishment listed in the application does not engage in the manufacture of the prescription drug product during the fiscal year. The establishment fee shall be payable on or before January 31 of each year. Each such establishment shall be assessed only one fee per establishment, notwithstanding the number of prescription drug products manufactured at the establishment. In the event an establishment is listed in a human drug application by more than one applicant, the establishment fee for the fiscal year shall be divided equally and assessed among the applicants whose prescription drug products are manufactured by the establishment during the fiscal year and assessed product fees under paragraph (3).
+> &emsp;&emsp;shall be assessed an annual fee established under subsection (c)(4) of this section for each prescription drug establishment listed in its approved human drug application as an establishment that manufactures the prescription drug product named in the application. The annual establishment fee shall be assessed in each fiscal year in which the prescription drug product named in the application is assessed a fee under paragraph (3) unless the prescription drug establishment listed in the application does not engage in the manufacture of the prescription drug product during the fiscal year. The establishment fee shall be payable on or before October 1 of each year. Each such establishment shall be assessed only one fee per establishment, notwithstanding the number of prescription drug products manufactured at the establishment. In the event an establishment is listed in a human drug application by more than one applicant, the establishment fee for the fiscal year shall be divided equally and assessed among the applicants whose prescription drug products are manufactured by the establishment during the fiscal year and assessed product fees under paragraph (3).
 
 #### (B) Exception
 
@@ -60,57 +60,56 @@ Beginning in fiscal year 1998, the Secretary shall assess and collect fees in ac
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), each person—
-
-&emsp;&emsp;&emsp;(i) who is named as the applicant in a human drug application for a prescription drug product which has been submitted for listing under section 360 of this title, and
-
-&emsp;&emsp;&emsp;(ii) who, after September 1, 1992, had pending before the Secretary a human drug application or supplement,
-
-> &emsp;&emsp;shall pay for each such prescription drug product the annual fee established in subsection (b) of this section. Such fee shall be payable for the fiscal year in which the product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable.
+&emsp;&emsp;Except as provided in subparagraph (B), each person who is named as the applicant in a human drug application, and who, after September 1, 1992, had pending before the Secretary a human drug application or supplement, shall pay for each such prescription drug product the annual fee established under subsection (c)(4) of this section. Such fee shall be payable on or before October 1 of each year. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable.
 
 #### (B) Exception
 
-&emsp;&emsp;The listing of a prescription drug product under section 360 of this title shall not require the person who listed such product to pay the fee prescribed by subparagraph (A) if such product is the same product as a product approved under an application filed under section 355(b)(2) or 355(j) of this title, under an abbreviated application filed under section 357 of this title (as in effect on the day before November 21, 1997), or under an abbreviated new drug application pursuant to regulations in effect prior to the implementation of the Drug Price Competition and Patent Term Restoration Act of 1984.
+&emsp;&emsp;A prescription drug product shall not be assessed a fee under subparagraph (A) if such product is identified on the list compiled under section 355(j)(7)(A) of this title with a potency described in terms of per 100 mL, or if such product is the same product as another product approved under an application filed under section 355(b) or 355(j) of this title, under an abbreviated application filed under section 357 of this title (as in effect on the day before November 21, 1997), or under an abbreviated new drug application pursuant to regulations in effect prior to the implementation of the Drug Price Competition and Patent Term Restoration Act of 1984.
 
-#### (b) Fee amounts
+#### (b) Fee revenue amounts
 
-Except as provided in subsections (c), (d), (f), and (g) of this section, the fees required under subsection (a) of this section shall be determined and assessed as follows:
+Except as provided in subsections (c), (d), (f), and (g) of this section, fees under subsection (a) of this section shall be established to generate the following revenue amounts:
 
-#### (1) Application and supplement fees
+&nbsp;
 
-#### (A) Full fees
+| Type of Fee Revenue | Fiscal Year 2003 | Fiscal Year 2004 | Fiscal Year 2005 | Fiscal Year 2006 | Fiscal Year 2007 |
+| :--- | :---: | :---: | :---: | :---: | ---: |
+| Application/Supplement | $74,300,000 | $77,000,000 | $84,000,000 | $86,434,000 | $86,434,000 |
+| Establishment | $74,300,000 | $77,000,000 | $84,000,000 | $86,433,000 | $86,433,000 |
+| Product | $74,300,000 | $77,000,000 | $84,000,000 | $86,433,000 | $86,433,000 |
+| Total Fee Revenue | $222,900,000 | $231,000,000 | $252,000,000 | $259,300,000 | $259,300,000 |
 
-&emsp;&emsp;The application fee under subsection (a)(1)(A)(i) of this section shall be $250,704 in fiscal year 1998, $256,338 in each of fiscal years 1999 and 2000, $267,606 in fiscal year 2001, and $258,451 in fiscal year 2002.
-
-#### (B) Other fees
-
-&emsp;&emsp;The fee under subsection (a)(1)(A)(ii) of this section shall be $125,352 in fiscal year 1998, $128,169 in each of fiscal years 1999 and 2000, $133,803 in fiscal year 2001, and $129,226 in fiscal year 2002.
-
-#### (2) Total fee revenues for establishment fees
-
-&emsp;The total fee revenues to be collected in establishment fees under subsection (a)(2) of this section shall be $35,600,000 in fiscal year 1998, $36,400,000 in each of fiscal years 1999 and 2000, $38,000,000 in fiscal year 2001, and $36,700,000 in fiscal year 2002.
-
-#### (3) Total fee revenues for product fees
-
-&emsp;The total fee revenues to be collected in product fees under subsection (a)(3) of this section in a fiscal year shall be equal to the total fee revenues collected in establishment fees under subsection (a)(2) of this section in that fiscal year.
+> If, after June 12, 2002, legislation is enacted requiring the Secretary to fund additional costs of the retirement of Federal personnel, fee revenue amounts shall be increased in each year by the amount necessary to fully fund the portion of such additional costs that are attributable to the process for the review of human drug applications.
 
 #### (c) Adjustments
 
 #### (1) Inflation adjustment
 
-&emsp;The fees and total fee revenues established in subsection (b) of this section shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year to reflect the greater of—
+&emsp;The revenues established in subsection (b) of this section shall be adjusted by the Secretary by notice, published in the Federal Register, for a fiscal year to reflect the greater of—
 
-&emsp;&emsp;(A) the total percentage change that occurred during the preceding fiscal year in the Consumer Price Index for all urban consumers (all items; U.S. city average), or
+&emsp;&emsp;(A) the total percentage change that occurred in the Consumer Price Index for all urban consumers (all items; U.S. city average) for the 12 month period ending June 30 preceding the fiscal year for which fees are being established, or
 
-&emsp;&emsp;(B) the total percentage change for such fiscal year in basic pay under the General Schedule in accordance with section 5332 of title 5, as adjusted by any locality-based comparability payment pursuant to section 5304 of such title for Federal employees stationed in the District of Columbia.
+&emsp;&emsp;(B) the total percentage change for the previous fiscal year in basic pay under the General Schedule in accordance with section 5332 of title 5, as adjusted by any locality-based comparability payment pursuant to section 5304 of such title for Federal employees stationed in the District of Columbia.
 
-> &emsp;The adjustment made each fiscal year by this subsection will be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 1997 under this subsection.
+> &emsp;The adjustment made each fiscal year by this subsection will be added on a compounded basis to the sum of all adjustments made each fiscal year after fiscal year 2003 under this subsection.
 
-#### (2) Annual fee adjustment
+#### (2) Workload adjustment
 
-&emsp;Subject to the amount appropriated for a fiscal year under subsection (g) of this section, the Secretary shall, within 60 days after the end of each fiscal year beginning after September 30, 1997, adjust the establishment and product fees described in subsection (b) of thissection for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) of this section shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b) of this section.
+&emsp;Beginning with fiscal year 2004, after the fee revenues established in subsection (b) of this section are adjusted for a fiscal year for inflation in accordance with paragraph (1), the fee revenues shall be adjusted further for such fiscal year to reflect changes in the workload of the Secretary for the process for the review of human drug applications. With respect to such adjustment:
 
-#### (3) Limit
+&emsp;&emsp;(A) The adjustment shall be determined by the Secretary based on a weighted average of the change in the total number of human drug applications, commercial investigational new drug applications, efficacy supplements, and manufacturing supplements submitted to the Secretary. The Secretary shall publish in the Federal Register the fee revenues and fees resulting from the adjustment and the supporting methodologies.
+
+&emsp;&emsp;(B) Under no circumstances shall the adjustment result in fee revenues for a fiscal year that are less than the fee revenues for the fiscal year established in subsection (b) of this section, as adjusted for inflation under paragraph (1).
+
+#### (3) Final year adjustment
+
+&emsp;For fiscal year 2007, the Secretary may, in addition to adjustments under paragraphs (1) and (2), further increase the fee revenues and fees established in subsection (b) of this section if such an adjustment is necessary to provide for not more than three months of operating reserves of carryover user fees for the process for the review of human drug applications for the first three months of fiscal year 2008. If such an adjustment is necessary, the rationale for the amount of the increase shall be contained in the annual notice establishing fee revenues and fees for fiscal year 2007. If the Secretary has carryover balances for such process in excess of three months of such operating reserves, the adjustment under this paragraph shall not be made.
+
+#### (4) Annual fee setting
+
+&emsp;The Secretary shall, 60 days before the start of each fiscal year that begins after September 30, 2002, establish, for the next fiscal year, application, product, and establishment fees under subsection (a) of this section, based on the revenue amounts established under subsection (b) of this section and the adjustments provided under this subsection.
+
+#### (5) Limit
 
 &emsp;The total amount of fees charged, as adjusted under this subsection, for a fiscal year may not exceed the total costs for such fiscal year for the resources allocated for the process for the review of human drug applications.
 
@@ -124,11 +123,9 @@ Except as provided in subsections (c), (d), (f), and (g) of this section, the fe
 
 &emsp;&emsp;(B) the assessment of the fee would present a significant barrier to innovation because of limited resources available to such person or other circumstances,
 
-&emsp;&emsp;(C) the fees to be paid by such person will exceed the anticipated present and future costs incurred by the Secretary in conducting the process for the review of human drug applications for such person,
+&emsp;&emsp;(C) the fees to be paid by such person will exceed the anticipated present and future costs incurred by the Secretary in conducting the process for the review of human drug applications for such person, or
 
-&emsp;&emsp;(D) assessment of the fee for an application or a supplement filed under section 355(b)(1) of this title pertaining to a drug containing an active ingredient would be inequitable because an application for a product containing the same active ingredient filed by another person under section 355(b)(2) of this title could not be assessed fees under subsection (a)(1) of this section, or
-
-&emsp;&emsp;(E) the applicant involved is a small business submitting its first human drug application to the Secretary for review.
+&emsp;&emsp;(D) the applicant involved is a small business submitting its first human drug application to the Secretary for review.
 
 #### (2) Use of standard costs
 
@@ -138,11 +135,11 @@ Except as provided in subsections (c), (d), (f), and (g) of this section, the fe
 
 #### (A) “Small business” defined
 
-&emsp;&emsp;In paragraph (1)(E), the term “small business” means an entity that has fewer than 500 employees, including employees of affiliates.
+&emsp;&emsp;In paragraph (1)(D), the term “small business” means an entity that has fewer than 500 employees, including employees of affiliates.
 
 #### (B) Waiver of application fee
 
-&emsp;&emsp;The Secretary shall waive under paragraph (1)(E) the application fee for the first human drug application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay—
+&emsp;&emsp;The Secretary shall waive under paragraph (1)(D) the application fee for the first human drug application that a small business or its affiliate submits to the Secretary for review. After a small business or its affiliate is granted such a waiver, the small business or its affiliate shall pay—
 
 &emsp;&emsp;&emsp;(i) application fees for all subsequent human drug applications submitted to the Secretary for review in the same manner as an entity that does not qualify as a small business; and
 
@@ -152,11 +149,11 @@ Except as provided in subsections (c), (d), (f), and (g) of this section, the fe
 
 A human drug application or supplement submitted by a person subject to fees under subsection (a) of this section shall be considered incomplete and shall not be accepted for filing by the Secretary until all fees owed by such person have been paid.
 
-#### (f) Assessment of fees
+#### (f) Limitations
 
-#### (1) Limitation
+#### (1) In general
 
-&emsp;Fees may not be assessed under subsection (a) of this section for a fiscal year beginning after fiscal year 1997 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 1997 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
+&emsp;Fees under subsection (a) of this section shall be refunded for a fiscal year beginning after fiscal year 1997 unless appropriations for salaries and expenses of the Food and Drug Administration for such fiscal year (excluding the amount of fees appropriated for such fiscal year) are equal to or greater than the amount of appropriations for the salaries and expenses of the Food and Drug Administration for the fiscal year 1997 (excluding the amount of fees appropriated for such fiscal year) multiplied by the adjustment factor applicable to the fiscal year involved.
 
 #### (2) Authority
 
@@ -166,29 +163,41 @@ A human drug application or supplement submitted by a person subject to fees und
 
 #### (1) In general
 
-&emsp;Fees collected for a fiscal year pursuant to subsection (a) of this section shall be credited to the appropriation account for salaries and expenses of the Food and Drug Administration and shall be available in accordance with appropriation Acts until expended without fiscal year limitation. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of human drug applications.
+&emsp;Fees authorized under subsection (a) of this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended. Such sums as may be necessary may be transferred from the Food and Drug Administration salaries and expenses appropriation account without fiscal year limitation to such appropriation account for salaries and expenses with such fiscal year limitation. The sums transferred shall be available solely for the process for the review of human drug applications.
 
 #### (2) Collections and appropriation acts
 
-&emsp;The fees authorized by this section—
+#### (A) In general
 
-&emsp;&emsp;(A) shall be collected in each fiscal year in an amount equal to the amount specified in appropriation Acts, or otherwise made available for obligation, for such fiscal year, and
+&emsp;&emsp;The fees authorized by this section—
 
-&emsp;&emsp;(B) shall only be collected and available to defray increases in the costs of the resources allocated for the process for the review of human drug applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 1997 multiplied by the adjustment factor.
+&emsp;&emsp;&emsp;(i) shall be retained in each fiscal year in an amount not to exceed the amount specified in appropriation Acts, or otherwise made available for obligation, for such fiscal year, and
+
+&emsp;&emsp;&emsp;(ii) shall only be collected and available to defray increases in the costs of the resources allocated for the process for the review of human drug applications (including increases in such costs for an additional number of full-time equivalent positions in the Department of Health and Human Services to be engaged in such process) over such costs, excluding costs paid from fees collected under this section, for fiscal year 1997 multiplied by the adjustment factor.
+
+#### (B) Compliance
+
+&emsp;&emsp;The Secretary shall be considered to have met the requirements of subparagraph (A)(ii) in any fiscal year if the costs funded by appropriations and allocated for the process for the review of human drug applications—
+
+&emsp;&emsp;&emsp;(i) are not more than 3 percent below the level specified in subparagraph (A)(ii); or
+
+&emsp;&emsp;&emsp;(ii)(I) are more than 3 percent below the level specified in subparagraph (A)(ii), and fees assessed for the fiscal year following the subsequent fiscal year are decreased by the amount in excess of 3 percent by which such costs fell below the level specified in such subparagraph; and
+
+&emsp;&emsp;&emsp;(II) such costs are not more than 5 percent below the level specified in such subparagraph.
 
 #### (3) Authorization of appropriations
 
 &emsp;There are authorized to be appropriated for fees under this section—
 
-&emsp;&emsp;(A) $106,800,000 for fiscal year 1998;
+&emsp;&emsp;(A) $222,900,000 for fiscal year 2003;
 
-&emsp;&emsp;(B) $109,200,000 for fiscal year 1999;
+&emsp;&emsp;(B) $231,000,000 for fiscal year 2004;
 
-&emsp;&emsp;(C) $109,200,000 for fiscal year 2000;
+&emsp;&emsp;(C) $252,000,000 for fiscal year 2005;
 
-&emsp;&emsp;(D) $114,000,000 for fiscal year 2001; and
+&emsp;&emsp;(D) $259,300,000 for fiscal year 2006; and
 
-&emsp;&emsp;(E) $110,100,000 for fiscal year 2002,
+&emsp;&emsp;(E) $259,300,000 for fiscal year 2007;
 
 > &emsp;as adjusted to reflect adjustments in the total fee revenues made under this section and changes in the total amounts collected by application, supplement, establishment, and product fees.
 
@@ -208,9 +217,11 @@ To qualify for consideration for a waiver or reduction under subsection (d) of t
 
 This section may not be construed to require that the number of full-time equivalent positions in the Department of Health and Human Services, for officers, employers, and advisory committees not engaged in the process of the review of human drug applications, be reduced to offset the number of officers, employees, and advisory committees so engaged.
 
-(June 25, 1938, ch. 675, §736, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4494; amended Pub. L. 105–115, title I, §103(a)–(g), Nov. 21, 1997, 111 Stat. 2299–2304; Pub. L. 107–109, §5(a), Jan. 4, 2002, 115 Stat. 1413.)
+(June 25, 1938, ch. 675, §736, as added Pub. L. 102–571, title I, §103, Oct. 29, 1992, 106 Stat. 4494; amended Pub. L. 105–115, title I, §103(a)–(g), Nov. 21, 1997, 111 Stat. 2299–2304; Pub. L. 107–109, §5(a), Jan. 4, 2002, 115 Stat. 1413; Pub. L. 107–188, title V, §504, June 12, 2002, 116 Stat. 689.)
 
 #### Amendment of Section
+
+<i>For termination of amendment by section 509 of Pub. L. 107–188, see Effective and Termination Dates of 2002 Amendments note below.</i>
 
 <i>For termination of amendment by section 107 of Pub. L. 105–115, see Effective and Termination Dates of 1997 Amendment note below.</i>
 
@@ -226,7 +237,61 @@ The Drug Price Competition and Patent Term Restoration Act of 1984, referred to 
 
 #### Amendments
 
-2002—Subsec. (a)(1)(F), (G). Pub. L. 107–109 redesignated subpar. (G) as (F) and struck out heading and text of former subpar. (F). Text read as follows: “A supplement to a human drug application proposing to include a new indication for use in pediatric populations shall not be assessed a fee under subparagraph (A).”
+2002—Subsec. (a). Pub. L. 107–188, §§504(a)(1), 509, temporarily substituted “fiscal year 2003” for “fiscal year 1998” in introductory provisions. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (a)(1)(A)(i). Pub. L. 107–188, §§504(a)(2)(A), 509, temporarily substituted “under subsection (c)(4)” for “in subsection (b)”. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (a)(1)(A)(ii). Pub. L. 107–188, §§504(a)(2), 509, temporarily substituted “under subsection (c)(4)” for “in subsection (b)” and inserted “Such fee shall be half of the amount of the fee established under clause (i).” at end. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (a)(1)(F), (G). Pub. L. 107–109 redesignated subpar. (G) as (F) and struck out heading and text of former subpar. (F). Text read as follows: “A supplement to a human drug application proposing to include a new indication for use in pediatric populations shall not be assessed a fee under subparagraph (A).”
+
+Subsec. (a)(2)(A). Pub. L. 107–188, §§504(a)(3), 509, in concluding provisions, temporarily substituted “under subsection (c)(4)” for “in subsection (b)” and “payable on or before October 1” for “payable on or before January 31”. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (a)(3)(A). Pub. L. 107–188, §§504(a)(4)(A), 509, temporarily amended heading and text of subpar. (A) generally. Prior to amendment, text read as follows: “Except as provided in subparagraph (B), each person—
+
+&emsp;“(i) who is named as the applicant in a human drug application for a prescription drug product which has been submitted for listing under section 360 of this title, and
+
+&emsp;“(ii) who, after September 1, 1992, had pending before the Secretary a human drug application or supplement,
+
+> shall pay for each such prescription drug product the annual fee established in subsection (b) of this section. Such fee shall be payable for the fiscal year in which the product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable.” See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (a)(3)(B). Pub. L. 107–188, §§504(a)(4)(B), 509, temporarily substituted “A prescription drug product shall not be assessed a fee under subparagraph (A) if such product is identified on the list compiled under section 355(j)(7)(A) of this title with a potency described in terms of per 100 mL, or if such product is the same product as another product approved under an application filed under section 355(b)” for “The listing of a prescription drug product under section 360 of this title shall not require the person who listed such product to pay the fee prescribed by subparagraph (A) if such product is the same product as a product approved under an application filed under section 355(b)(2)”. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (b). Pub. L. 107–188, §§504(b), 509, temporarily amended heading and text of subsec. (b) generally, substituting “Fee revenue amounts” for “Fee amounts” in heading and substituting fee schedules for fiscal years 2003 to 2007 for fee provisions relating to fiscal years 1998 to 2002. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (c)(1). Pub. L. 107–188, §§504(c)(1)(A), (D), 509, temporarily substituted “revenues” for “fees and total fee revenues” in introductory provisions and “fiscal year 2003” for “fiscal year 1997” in concluding provisions. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (c)(1)(A). Pub. L. 107–188, §§504(c)(1)(B), 509, temporarily struck out “during the preceding fiscal year” before “in the Consumer Price Index” and substituted “for the 12 month period ending June 30 preceding the fiscal year for which fees are being established, or” for “, or”. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (c)(1)(B). Pub. L. 107–188, §§504(c)(1)(C), 509, temporarily substituted “for the previous fiscal year” for “for such fiscal year”. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (c)(2) to (5). Pub. L. 107–188, §§504(c)(2)–(4), 509, temporarily added pars. (2) and (3), redesignated former pars. (2) and (3) as (4) and (5), respectively, and amended heading and text of par. (4) generally. Prior to amendment, text of par. (4) read as follows: “Subject to the amount appropriated for a fiscal year under subsection (g) of this section, the Secretary shall, within 60 days after the end of each fiscal year beginning after September 30, 1997, adjust the establishment and product fees described in subsection (b) of this section for the fiscal year in which the adjustment occurs so that the revenues collected from each of the categories of fees described in paragraphs (2) and (3) of subsection (b) of this section shall be set to be equal to the revenues collected from the category of application and supplement fees described in paragraph (1) of subsection (b) of this section.” See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (d)(1)(C) to (E). Pub. L. 107–188, §§504(d)(1), 509, temporarily inserted “or” at end of subpar. (C), redesignated subpar. (E) as (D), and struck out former subpar. (D) which read as follows: “assessment of the fee for an application or a supplement filed under section 355(b)(1) of this title pertaining to a drug containing an active ingredient would be inequitable because an application for a product containing the same active ingredient filed by another person under section 355(b)(2) of this title could not be assessed fees under subsection (a)(1) of this section, or”. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (d)(3)(A), (B). Pub. L. 107–188, §§504(d)(2), 509, temporarily substituted “paragraph (1)(D)” for “paragraph (1)(E)”. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (f). Pub. L. 107–188, §§504(e)(1), 509, temporarily substituted “Limitations” for “Assessment of fees” in heading. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (f)(1). Pub. L. 107–188, §§504(e)(2), 509, temporarily substituted “In general” for “Limitation” in heading and “Fees under subsection (a) of this section shall be refunded for a fiscal year beginning” for “Fees may not be assessed under subsection (a) of this section for a fiscal year beginning” in text. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (g)(1). Pub. L. 107–188, §§504(f)(1), 509, which directed the temporary amendment of par. (1) by striking “Fees collected for a fiscal year” and all that follows through “fiscal year limitation.” and inserting “Fees authorized under subsection (a) of this section shall be collected and available for obligation only to the extent and in the amount provided in advance in appropriations Acts. Such fees are authorized to remain available until expended.”, was executed by striking language ending with “fiscal year limitation.” the first time appearing, thereby making the substitution for “Fees collected for a fiscal year pursuant to subsection (a) of this section shall be credited to the appropriation account for salaries and expenses of the Food and Drug Administration and shall be available in accordance with appropriation Acts until expended without fiscal year limitation.”, to reflect the probable intent of Congress. See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (g)(2). Pub. L. 107–188, §§504(f)(2), 509, temporarily amended par. (2) by designating existing provisions as subpar. (A), inserting subpar. (A) heading, adding subpar. (B), redesignating former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), substituting “shall be retained in each fiscal year in an amount not to exceed the amount specified” for “shall be collected in each fiscal year in an amount equal to the amount specified” in cl. (i), and realigning margin of cl. (ii). See Effective and Termination Dates of 2002 Amendment note below.
+
+Subsec. (g)(3)(A) to (E). Pub. L. 107–188, §§504(f)(3), 509, temporarily added subpars. (A) to (E) and struck out former subpars. (A) to (E) which read as follows:
+
+“(A) $106,800,000 for fiscal year 1998;
+
+“(B) $109,200,000 for fiscal year 1999;
+
+“(C) $109,200,000 for fiscal year 2000;
+
+“(D) $114,000,000 for fiscal year 2001; and
+
+“(E) $110,100,000 for fiscal year 2002,”.
+
+> See Effective and Termination Dates of 2002 Amendment note below.
 
 1997—Subsec. (a). Pub. L. 105–115, §§103(a)(1), 107, temporarily substituted “Beginning in fiscal year 1998” for “Beginning in fiscal year 1993” in introductory provisions. See Effective and Termination Dates of 1997 Amendment note below.
 
@@ -260,7 +325,7 @@ Subsec. (a)(2). Pub. L. 105–115, §§103(a)(3), 107, temporarily reenacted hea
 
 Subsec. (a)(3)(A). Pub. L. 105–115, §§103(a)(4)(A), 107, temporarily substituted, in cl. (i), “has been submitted for listing” for “is listed” and, in closing provisions, “Such fee shall be payable for the fiscal year in which the product is first submitted for listing under section 360 of this title, or is submitted for relisting under section 360 of this title if the product has been withdrawn from listing and relisted. After such fee is paid for that fiscal year, such fee shall be payable on or before January 31 of each year. Such fee shall be paid only once for each product for a fiscal year in which the fee is payable.” for “Such fee shall be payable at the time of the first such listing of such product in each calendar year. Such fee shall be paid only once each year for each listed prescription drug product irrespective of the number of times such product is listed under section 360 of this title.” See Effective and Termination Dates of 1997 Amendment note below.
 
-Subsec. (a)(3)(B). Pub. L. 105–115, §§103(a)(4)(B), 107, temporarily substituted “355(j) of this title, under an abbreviated application filed under section 357 of this title (as in effect on the day before November 21, 1997), or under an abbreviated new drug application pursuant to regulations in effect prior to the implementation of the Drug Price Competition and Patent Term Restoration Act of 1984.” for “355(j) of this title.”. See Effective and Termination Dates of 1997 Amendment note below.
+Subsec. (a)(3)(B). Pub. L. 105–115, §§103(a)(4)(B), 107, temporarily substituted “355(j) of this title, under an abbreviated application filed under section 357 of this title (as in effect on the day before November 21, 1997), or under an abbreviated new drug application pursuantto regulations in effect prior to the implementation of the Drug Price Competition and Patent Term Restoration Act of 1984.” for “355(j) of this title.”. See Effective and Termination Dates of 1997 Amendment note below.
 
 Subsec. (b). Pub. L. 105–115, §§103(b), 107, temporarily amended subsec. (b) generally. Prior to amendment, subsec. (b) related to fee amounts, including a schedule of fees in par. (1) and fee exceptions for certain small businesses in par. (2). See Effective and Termination Dates of 1997 Amendment note below.
 
@@ -297,6 +362,12 @@ Subsec. (g)(3), (4). Pub. L. 105–115, §§103(f)(3), 107, temporarily added pa
 > as adjusted to reflect increases in the total fee revenues made under subsection (c)(1) of this section.” See Effective and Termination Dates of 1997 Amendment note below.
 
 Subsecs. (i), (j). Pub. L. 105–115, §§103(g), 107, temporarily added subsec. (i) and redesignated former subsec. (i) as (j). See Effective and Termination Dates of 1997 Amendment note below.
+
+#### Effective and Termination Dates of 2002 Amendment
+
+Amendment by Pub. L. 107–188 effective Oct. 1, 2002, see section 508 of Pub. L. 107–188, set out as an Effective Date of 2002 Amendment note under section 356b of this title.
+
+Amendment by Pub. L. 107–188 to cease to be effective Oct. 1, 2007, see section 509 of Pub. L. 107–188, set out as a note under section 379g of this title.
 
 #### Effective and Termination Dates of 1997 Amendment
 

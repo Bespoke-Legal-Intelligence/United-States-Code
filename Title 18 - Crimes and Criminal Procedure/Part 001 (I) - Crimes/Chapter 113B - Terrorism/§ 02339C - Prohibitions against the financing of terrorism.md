@@ -1,0 +1,176 @@
+### §2339C. Prohibitions against the financing of terrorism
+
+(a)
+
+Offenses.—
+
+&emsp;(1)
+
+In general.—Whoever, in a circumstance described in subsection (b), by any means, directly or indirectly, unlawfully and willfully provides or collects funds with the intention that such funds be used, or with the knowledge that such funds are to be used, in full or in part, in order to carry out—
+
+&emsp;&emsp;(A) an act which constitutes an offense within the scope of a treaty specified in subsection (e)(7), as implemented by the United States, or
+
+&emsp;&emsp;(B) any other act intended to cause death or serious bodily injury to a civilian, or to any other person not taking an active part in the hostilities in a situation of armed conflict, when the purpose of such act, by its nature or context, is to intimidate a population, or to compel a government or an international organization to do or to abstain from doing any act,
+
+> &emsp;shall be punished as prescribed in subsection (d)(1).
+
+&emsp;(2)
+
+Attempts and conspiracies.—Whoever attempts or conspires to commit an offense under paragraph (1) shall be punished as prescribed in subsection (d)(1).
+
+&emsp;(3)
+
+Relationship to predicate act.—For an act to constitute an offense set forth in this subsection, it shall not be necessary that the funds were actually used to carry out a predicate act.
+
+(b)
+
+Jurisdiction.—There is jurisdiction over the offenses in subsection (a) in the following circumstances—
+
+&emsp;(1) the offense takes place in the United States and—
+
+&emsp;&emsp;(A) a perpetrator was a national of another state or a stateless person;
+
+&emsp;&emsp;(B) on board a vessel flying the flag of another state or an aircraft which is registered under the laws of another state at the time the offense is committed;
+
+&emsp;&emsp;(C) on board an aircraft which is operated by the government of another state;
+
+&emsp;&emsp;(D) a perpetrator is found outside the United States;
+
+&emsp;&emsp;(E) was directed toward or resulted in the carrying out of a predicate act against—
+
+&emsp;&emsp;&emsp;(i) a national of another state; or
+
+&emsp;&emsp;&emsp;(ii) another state or a government facility of such state, including its embassy or other diplomatic or consular premises of that state;
+
+&emsp;&emsp;(F) was directed toward or resulted in the carrying out of a predicate act committed in an attempt to compel another state or international organization to do or abstain from doing any act; or
+
+&emsp;&emsp;(G) was directed toward or resulted in the carrying out of a predicate act—
+
+&emsp;&emsp;&emsp;(i) outside the United States; or
+
+&emsp;&emsp;&emsp;(ii) within the United States, and either the offense or the predicate act was conducted in, or the results thereof affected, interstate or foreign commerce;
+
+&emsp;(2) the offense takes place outside the United States and—
+
+&emsp;&emsp;(A) a perpetrator is a national of the United States or is a stateless person whose habitual residence is in the United States;
+
+&emsp;&emsp;(B) a perpetrator is found in the United States; or
+
+&emsp;&emsp;(C) was directed toward or resulted in the carrying out of a predicate act against—
+
+&emsp;&emsp;&emsp;(i) any property that is owned, leased, or used by the United States or by any department or agency of the United States, including an embassy or other diplomatic or consular premises of the United States;
+
+&emsp;&emsp;&emsp;(ii) any person or property within the United States;
+
+&emsp;&emsp;&emsp;(iii) any national of the United States or the property of such national; or
+
+&emsp;&emsp;&emsp;(iv) any property of any legal entity organized under the laws of the United States, including any of its States, districts, commonwealths, territories, or possessions;
+
+&emsp;(3) the offense is committed on board a vessel flying the flag of the United States or an aircraft which is registered under the laws of the United States at the time the offense is committed;
+
+&emsp;(4) the offense is committed on board an aircraft which is operated by the United States; or
+
+&emsp;(5) the offense was directed toward or resulted in the carrying out of a predicate act committed in an attempt to compel the United States to do or abstain from doing any act.
+
+(c)
+
+Concealment.—Whoever—
+
+&emsp;(1)(A) is in the United States; or
+
+&emsp;(B) is outside the United States and is a national of the United States or a legal entity organized under the laws of the United States (including any of its States, districts, commonwealths, territories, or possessions); and
+
+&emsp;(2) knowingly conceals or disguises the nature, location, source, ownership, or control of any material support, resources, or funds—
+
+&emsp;&emsp;(A) knowing or intending that the support or resources were provided in violation of section 2339B of this title; or
+
+&emsp;&emsp;(B) knowing or intending that any such funds or any proceeds of such funds were provided or collected in violation of subsection (a),
+
+> shall be punished as prescribed in subsection (d)(2).
+
+(d)
+
+Penalties.—
+
+&emsp;(1)
+
+Subsection (a).—Whoever violates subsection (a) shall be fined under this title, imprisoned for not more than 20 years, or both.
+
+&emsp;(2)
+
+Subsection (c).—Whoever violates subsection (c) shall be fined under this title, imprisoned for not more than 10 years, or both.
+
+(e)
+
+Definitions.—In this section—
+
+&emsp;(1) the term “funds” means assets of every kind, whether tangible or intangible, movable or immovable, however acquired, and legal documents or instruments in any form, including electronic or digital, evidencing title to, or interest in, such assets, including coin, currency, bank credits, travelers checks, bank checks, money orders, shares, securities, bonds, drafts, and letters of credit;
+
+&emsp;(2) the term “government facility” means any permanent or temporary facility or conveyance that is used or occupied by representatives of a state, members of a government, the legislature, or the judiciary, or by officials or employees of a state or any other public authority or entity or by employees or officials of an intergovernmental organization in connection with their official duties;
+
+&emsp;(3) the term “proceeds” means any funds derived from or obtained, directly or indirectly, through the commission of an offense set forth in subsection (a);
+
+&emsp;(4) the term “provides” includes giving, donating, and transmitting;
+
+&emsp;(5) the term “collects” includes raising and receiving;
+
+&emsp;(6) the term “predicate act” means any act referred to in subparagraph (A) or (B) of subsection (a)(1);
+
+&emsp;(7) the term “treaty” means—
+
+&emsp;&emsp;(A) the Convention for the Suppression of Unlawful Seizure of Aircraft, done at The Hague on December 16, 1970;
+
+&emsp;&emsp;(B) the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on September 23, 1971;
+
+&emsp;&emsp;(C) the Convention on the Prevention and Punishment of Crimes against Internationally Protected Persons, including Diplomatic Agents, adopted by the General Assembly of the United Nations on December 14, 1973;
+
+&emsp;&emsp;(D) the International Convention against the Taking of Hostages, adopted by the General Assembly of the United Nations on December 17, 1979;
+
+&emsp;&emsp;(E) the Convention on the Physical Protection of Nuclear Material, adopted at Vienna on March 3, 1980;
+
+&emsp;&emsp;(F) the Protocol for the Suppression of Unlawful Acts of Violence at Airports Serving International Civil Aviation, supplementary to the Convention for the Suppression of Unlawful Acts against the Safety of Civil Aviation, done at Montreal on February 24, 1988;
+
+&emsp;&emsp;(G) the Convention for the Suppression of Unlawful Acts against the Safety of Maritime Navigation, done at Rome on March 10, 1988;
+
+&emsp;&emsp;(H) the Protocol for the Suppression of Unlawful Acts against the Safety of Fixed Platforms located on the Continental Shelf, done at Rome on March 10, 1988; or
+
+&emsp;&emsp;(I) the International Convention for the Suppression of Terrorist Bombings, adopted by the General Assembly of the United Nations on December 15, 1997;
+
+&emsp;(8) the term “intergovernmental organization” includes international organizations;
+
+&emsp;(9) the term “international organization” has the same meaning as in section 1116(b)(5) of this title;
+
+&emsp;(10) the term “armed conflict” does not include internal disturbances and tensions, such as riots, isolated and sporadic acts of violence, and other acts of a similar nature;
+
+&emsp;(11) the term “serious bodily injury” has the same meaning as in section 1365(g)(3) of this title; <sup>1</sup>
+
+&emsp;(12) the term “national of the United States” has the meaning given that term in section 101(a)(22) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(22)); and
+
+&emsp;(13) the term “state” has the same meaning as that term has under international law, and includes all political subdivisions thereof.
+
+(f)
+
+Civil Penalty.—In addition to any other criminal, civil, or administrative liability or penalty, any legal entity located within the United States or organized under the laws of the United States, including any of the laws of its States, districts, commonwealths, territories, or possessions, shall be liable to the United States for the sum of at least $10,000, if a person responsible for the management or control of that legal entity has, in that capacity, committed an offense set forth in subsection (a).
+
+(Added Pub. L. 107–197, title II, §202(a), June 25, 2002, 116 Stat. 724; amended Pub. L. 107–273, div. B, title IV, §4006, Nov. 2, 2002, 116 Stat. 1813.)
+
+#### References in Text
+
+Section 1365(g)(3), referred to in subsec. (e)(11), was redesignated section 1365(h)(3) by Pub. L. 107–307, §2(1), Dec. 2, 2002, 116 Stat. 2445.
+
+#### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–273 substituted “described in subsection (b)” for “described in subsection (c)”.
+
+#### Effective Date
+
+Pub. L. 107–197, title II, §203, June 25, 2002, 116 Stat. 727, provided that: “Except for paragraphs (1)(D) and (2)(B) of section 2339C(b) of title 18, United States Code, which shall become effective on the date that the International Convention for the Suppression of the Financing of Terrorism enters into force for the United States \[July 26, 2002\], and for the provisions of section 2339C(e)(7)(I) of title 18, United States Code, which shall become effective on the date that the International Convention for the Suppression of Terrorist Bombing enters into force for the United States \[July 26, 2002\], section 202 \[enacting this section and provisions set out as a note below\] shall take effect on the date of enactment of this Act \[June 25, 2002\].”
+
+#### Disclaimer
+
+Pub. L. 107–197, title II, §202(c), June 25, 2002, 116 Stat. 727, provided that: “Nothing contained in this section \[enacting this section\] is intended to affect the scope or applicability of any other Federal or State law.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 981, 2332b, 2516 of this title.
+

@@ -60,7 +60,7 @@ Within three years after the date the Commission is established, it shall adopt 
 
 &emsp;(5) include guidelines for the adoption of land use ordinances for lands within the scenic area. The guidelines—
 
-&emsp;&emsp;(A) shall incorporate without change the guidelines for the development of specialmanagement area land use ordinances developed by the Secretary pursuant to section 544f of this title; and
+&emsp;&emsp;(A) shall incorporate without change the guidelines for the development of special management area land use ordinances developed by the Secretary pursuant to section 544f of this title; and
 
 &emsp;&emsp;(B) shall not apply to urban areas designated in section 544b(e) of this title.
 
@@ -88,7 +88,7 @@ The management plan and all land use ordinances and interim guidelines adopted p
 
 #### (e) Agency consultation and public involvement
 
-The Secretary and the Commission shall exercise their responsibilities pursuant to sections 544 to 544p of this title in consultation with Federal, State, and local governments having jurisdiction within the scenic area or expertise pertaining to its administration and with Indian tribes. The Secretary and the Commission shall conduct public hearings and solicit public comment prior to final adoption of the management plan and the Commission shall conduct public hearings and solicit public comment prior to final adoption of land use ordinances. The Commission and the appropriate county shall promptly notify the Secretary, the States, local governments and Indian tribes of all proposed major development actions and residential development in the scenic area.
+The Secretary and the Commission shall exercise their responsibilities pursuant to sections 544 to 544p of this title in consultation with Federal, State, and local governments having jurisdiction within the scenic area or expertise pertaining to its administration and with Indian tribes. The Secretary and the Commission shall conduct public hearings and solicit public comment prior to final adoption of the management plan and the Commission shall conduct public hearings and solicit public comment prior to final adoption of land use ordinances. The Commission and the appropriate county shall promptly notify the Secretary, the States, local governments and Indian tribes of all proposedmajor development actions and residential development in the scenic area.
 
 #### (f) Concurrence of management plan
 

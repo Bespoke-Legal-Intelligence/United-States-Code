@@ -70,7 +70,7 @@
 
 #### (3) Consultation with Congress on trade policy priorities
 
-&emsp;The Trade Representative shall keep the committees described in paragraph (1) currently informed with respect to trade policy priorities for the purposes of expanding market opportunities. After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.
+&emsp;The Trade Representative shall keep the committees described in paragraph (1) currently informed with respect to trade policypriorities for the purposes of expanding market opportunities. After the submission of the report required by paragraph (1), the Trade Representative shall also consult periodically with, and take into account the views of, the committees described in that paragraph regarding means to address the foreign trade barriers identified in the report, including the possible initiation of investigations under section 2412 of this title or other trade actions.
 
 #### (c) Assistance of other agencies
 
@@ -176,7 +176,7 @@ Electronic Commerce.—For purposes of this section, the term ‘electronic comm
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2114a, 2171, 2242, 2420, 2901, 3106 of this title; title 15 section 4711; title 22 sections 2200b, 5732; title 49 section 50104.
+This section is referred to in sections 2114a, 2171, 2242, 2420, 2901, 3106 of this title; title 22 sections 2200b, 5732; title 49 section 50104.
 
 <i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

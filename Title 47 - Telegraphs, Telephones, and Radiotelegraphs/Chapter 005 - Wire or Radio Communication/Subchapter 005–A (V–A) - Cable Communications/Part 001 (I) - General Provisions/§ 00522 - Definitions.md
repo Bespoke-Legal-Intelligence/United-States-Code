@@ -30,7 +30,7 @@ For purposes of this subchapter—
 
 &emsp;(12) the term “interactive on-demand services” means a service providing video programming to subscribers over switched networks on an on-demand, point-to-point basis, but does not include services providing video programming prescheduled by the programming provider;
 
-&emsp;(13) the term “multichannel video programming distributor” means a person such as, but not limited to, a cable operator, a multichannel multipoint distribution service, a direct broadcast satellite service, or a television receive-only satellite program distributor,who makes available for purchase, by subscribers or customers, multiple channels of video programming;
+&emsp;(13) the term “multichannel video programming distributor” means a person such as, but not limited to, a cable operator, a multichannel multipoint distribution service, a direct broadcast satellite service, or a television receive-only satellite program distributor, who makes available for purchase, by subscribers or customers, multiple channels of video programming;
 
 &emsp;(14) the term “other programming service” means information that a cable operator makes available to all subscribers generally;
 
@@ -46,7 +46,7 @@ For purposes of this subchapter—
 
 &emsp;(18) the term “State” means any State, or political subdivision, or agency thereof;
 
-&emsp;(19) the term “usable activated channels” means activated channels of a cable system, except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
+&emsp;(19) the term “usable activated channels” means activated channels of a cable system,except those channels whose use for the distribution of broadcast signals would conflict with technical and safety regulations as determined by the Commission; and
 
 &emsp;(20) the term “video programming” means programming provided by, or generally considered comparable to programming provided by, a television broadcast station.
 

@@ -8,7 +8,7 @@ A producer or handler seeking certification under this chapter shall submit an o
 
 #### (1) Soil fertility
 
-&emsp;An organic plan shall contain provisions designed to foster soil fertility, primarilythrough the management of the organic content of the soil through proper tillage, crop rotation, and manuring.
+&emsp;An organic plan shall contain provisions designed to foster soil fertility, primarily through the management of the organic content of the soil through proper tillage, crop rotation, and manuring.
 
 #### (2) Manuring
 

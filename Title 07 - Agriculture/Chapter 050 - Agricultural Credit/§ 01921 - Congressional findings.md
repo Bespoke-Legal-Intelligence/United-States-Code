@@ -26,7 +26,7 @@ Pub. L. 103–248, §1, May 11, 1994, 108 Stat. 619, provided that: “This Act 
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–554, §1(a), Oct. 28, 1992, 106 Stat. 4142, provided that: “This Act \[enacting sections 1935, 1936, 1948, 1949, and 2008d of this title, amending sections 1925,1926c, 1929, 1932, 1981d, 1982, 1983, 1983a, 1985, 1989, 1991, 1994, 2003, and 5102 of this title, and enacting provisions set out as notes under sections 1929 and 1989 of this title\] may be cited as the ‘Agricultural Credit Improvement Act of 1992’.”
+Pub. L. 102–554, §1(a), Oct. 28, 1992, 106 Stat. 4142, provided that: “This Act \[enacting sections 1935, 1936, 1948, 1949, and 2008d of this title, amending sections 1925, 1926c, 1929, 1932, 1981d, 1982, 1983, 1983a, 1985, 1989, 1991, 1994, 2003, and 5102 of this title, and enacting provisions set out as notes under sections 1929 and 1989 of this title\] may be cited as the ‘Agricultural Credit Improvement Act of 1992’.”
 
 #### Short Title of 1990 Amendment
 

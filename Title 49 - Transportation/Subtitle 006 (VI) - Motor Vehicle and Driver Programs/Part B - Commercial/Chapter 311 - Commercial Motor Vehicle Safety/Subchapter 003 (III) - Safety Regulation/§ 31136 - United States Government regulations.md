@@ -158,7 +158,7 @@ Transportation of agricultural commodities and farm supplies.—Regulations pres
 
 &emsp;“(2)
 
-Transportation and operation of ground water well drilling rigs.—Such regulations shall,in the case of a driver of a commercial motor vehicle who is used primarily in the transportation and operation of a ground water well drilling rig, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time.
+Transportation and operation of ground water well drilling rigs.—Such regulations shall, in the case of a driver of a commercial motor vehicle who is used primarily in the transportation and operation of a ground water well drilling rig, permit any period of 7 or 8 consecutive days to end with the beginning of an off-duty period of 24 or more consecutive hours for the purposes of determining maximum driving and on-duty time.
 
 &emsp;“(3)
 
@@ -178,7 +178,7 @@ Preemption.—Nothing contained in this section shall require the preemption of 
 
 “(c)
 
-Review by the Secretary.—The Secretary may conduct a rulemaking proceeding to determine whether granting any exemption provided by subsection (a) (other than paragraph (2)) is not in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles. If, at any time as a result of such a proceeding, the Secretary determines that granting such exemption would not be in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles, the Secretary may prevent the exemption from going into effect, modify the exemption, or revoke the exemption. The Secretary may develop a program to monitor the exemption, including agreements with carriers to permit the Secretary to examine insurance information maintained by an insurer on a carrier.
+Review by the Secretary.—The Secretary may conduct a rulemaking proceeding to determine whethergranting any exemption provided by subsection (a) (other than paragraph (2)) is not in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles. If, at any time as a result of such a proceeding, the Secretary determines that granting such exemption would not be in the public interest and would have a significant adverse impact on the safety of commercial motor vehicles, the Secretary may prevent the exemption from going into effect, modify the exemption, or revoke the exemption. The Secretary may develop a program to monitor the exemption, including agreements with carriers to permit the Secretary to examine insurance information maintained by an insurer on a carrier.
 
 “(d)
 

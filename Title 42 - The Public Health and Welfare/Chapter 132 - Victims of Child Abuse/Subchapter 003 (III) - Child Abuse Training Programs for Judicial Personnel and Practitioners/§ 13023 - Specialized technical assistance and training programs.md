@@ -24,19 +24,19 @@
 
 #### (c) Grant criteria
 
-The Administrator shall make grants under subsections (a) and (b) of this section consistent with section <sup>1</sup> 5665a, 5673,<sup>2</sup> and 5676 <sup>2</sup> of this title.
+The Administrator shall make grants under subsections (a) and (b) of this section consistent with sections 5666, 5673, and 5676 of this title.
 
-(Pub. L. 101–647, title II, §223, Nov. 29, 1990, 104 Stat. 4797.)
+(Pub. L. 101–647, title II, §223, Nov. 29, 1990, 104 Stat. 4797; Pub. L. 107–273, div. C, title II, §12221(b)(1)(D), Nov. 2, 2002, 116 Stat. 1894.)
 
-#### References in Text
+#### Amendments
 
-Sections 5673 and 5676 of this title, referred to in subsec. (c), was in the original a reference to sections 293 and 296 of the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415. Sections 293 and 296 of the Act were renumbered sections 299B and 299E, respectively, by Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006.
+2002—Subsec. (c). Pub. L. 107–273 substituted “sections 5666, 5673, and 5676 of this title” for “section 5665a, 5673, and 5676 of this title”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
 
 #### Section Referred to in Other Sections
 
 This section is referred to in section 13024 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “sections”.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
 

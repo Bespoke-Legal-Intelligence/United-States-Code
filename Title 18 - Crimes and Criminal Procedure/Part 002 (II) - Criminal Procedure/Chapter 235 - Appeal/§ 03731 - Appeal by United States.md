@@ -1,6 +1,6 @@
 ### §3731. Appeal by United States
 
-In a criminal case an appeal by the United States shall lie to a court of appeals from a decision, judgment, or order of a district court dismissing an indictment or information or granting a new trial after verdict or judgment, as to any one or more counts, except that no appeal shall lie where the double jeopardy clause of the United States Constitution prohibits further prosecution.
+In a criminal case an appeal by the United States shall lie to a court of appeals from a decision, judgment, or order of a district court dismissing an indictment or information or granting a new trial after verdict or judgment, as to any one or more counts, or any part thereof, except that no appeal shall lie where the double jeopardy clause of the United States Constitution prohibits further prosecution.
 
 An appeal by the United States shall lie to a court of appeals from a decision or order of a district court suppressing or excluding evidence or requiring the return of seized property in a criminal proceeding, not made after the defendant has been put in jeopardy and before the verdict or finding on an indictment or information, if the United States attorney certifies to the district court that the appeal is not taken for purpose of delay and that the evidence is a substantial proof of a fact material in the proceeding.
 
@@ -10,7 +10,7 @@ The appeal in all such cases shall be taken within thirty days after the decisio
 
 The provisions of this section shall be liberally construed to effectuate its purposes.
 
-(June 25, 1948, ch. 645, 62 Stat. 844; May 24, 1949, ch. 139, §58, 63 Stat. 97; Pub. L. 90–351, title VIII, §1301, June 19, 1968, 82 Stat. 237; Pub. L. 91–644, title III, §14(a), Jan. 2, 1971, 84 Stat. 1890; Pub. L. 98–473, title II, §§205, 1206, Oct. 12, 1984, 98 Stat. 1986, 2153; Pub. L. 99–646, §32, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 103–322, title XXXIII, §330008(4), Sept. 13, 1994, 108 Stat. 2142.)
+(June 25, 1948, ch. 645, 62 Stat. 844; May 24, 1949, ch. 139, §58, 63 Stat. 97; Pub. L. 90–351, title VIII, §1301, June 19, 1968, 82 Stat. 237; Pub. L. 91–644, title III, §14(a), Jan. 2, 1971, 84 Stat. 1890; Pub. L. 98–473, title II, §§205, 1206, Oct. 12, 1984, 98 Stat. 1986, 2153; Pub. L. 99–646, §32, Nov. 10, 1986, 100 Stat. 3598; Pub. L. 103–322, title XXXIII, §330008(4), Sept. 13, 1994, 108 Stat. 2142; Pub. L. 107–273, div. B, title III, §3004, Nov. 2, 2002, 116 Stat. 1805.)
 
 #### Historical and Revision Notes
 
@@ -28,6 +28,8 @@ This section \[section 58\] corrects a typographical error in the second paragra
 
 #### Amendments
 
+2002—First par. Pub. L. 107–273 inserted “, or any part thereof” after “as to any one or more counts”.
+
 1994—Second par. Pub. L. 103–322 substituted “order of a district court” for “order of a district courts”.
 
 1986—Fifth par. Pub. L. 99–646 struck out fifth par. which read as follows: “Pending the prosecution and determination of the appeal in the foregoing instances, the defendant shall be released in accordance with chapter 207 of this title.”
@@ -40,7 +42,7 @@ Third par. Pub. L. 98–473, §205, inserted third par. relating to appeals from
 
 Second par. Pub. L. 91–644, §14(a)(1), enacted provision for appeal to a court of appeals from decision or order of district court suppressing or excluding evidence or requiring the return of seized property in a criminal proceeding, not made after the defendant has been put in jeopardy and before the verdict or finding on an indictment or information, if the United States attorney certifies to the district court that the appeal is not taken for purpose of delay and that the evidence is a substantial proof of a fact material in the proceeding.
 
-Such first and second pars. superseded former first eight pars. Pars. one through four had provided for appeal from district courts to Supreme Court from decision or judgment setting aside, or dismissing any indictment or information, or any count thereof and from decision arresting judgment of conviction for insufficiency of indictment or information, where such decision or judgment was based upon invalidity or construction of the statute upon which the indictment or information was founded and for an appeal from decision or judgment sustaining a motion in bar, where defendant had not been put in jeopardy. Pars. five through eight provided for appeal from district courts to a court of appeals where there were no provisions for direct appeal to Supreme Court from decision or judgment setting aside, or dismissing any indictment or information, or any count thereof and from decision arresting a judgment of conviction, and from an order,granting a motion for return of seized property or a motion to suppress evidence, made before trial of a person charged with violation of a Federal law, if the United States attorney certified to the judge who granted the motion that the appeal was not taken for purpose of delay and that the evidence was a substantial proof of the charge pending against the defendant.
+Such first and second pars. superseded former first eight pars. Pars. one through four had provided for appeal from district courts to Supreme Court from decision or judgment setting aside, or dismissing any indictment or information, or any count thereof and from decision arresting judgment of conviction for insufficiency of indictment or information, where such decision or judgment was based upon invalidity or construction of the statute upon which the indictment or information was founded and for an appeal from decision or judgment sustaining a motion in bar, where defendant had not been put in jeopardy. Pars. five through eight provided for appeal from district courts to a court of appeals where there were no provisions for direct appeal to Supreme Court from decision or judgment setting aside, or dismissing any indictment or information, or any count thereof and from decision arresting a judgment of conviction, and from an order, granting a motion for return of seized property or a motion to suppress evidence, made before trial of a person charged with violation of a Federal law, if the United States attorney certified to the judge who granted the motion that the appeal was not taken for purpose of delay and that the evidence was a substantial proof of the charge pending against the defendant.
 
 Third par. Pub. L. 91–644, §14(a)(2), authorized within third par., formerly ninth, an appeal within thirty days after order has been rendered.
 

@@ -130,7 +130,7 @@ In clause (5), the words “head of a Federal agency” are omitted as unnecessa
 
 In clause (6), the words “local government” are substituted for “ ‘political subdivision’ or ‘local government’ ” for consistency in the revised title and to have only one defined term in the chapter. The words “unit of general local government” are substituted for “local unit of government, including specifically a county, municipality, city, town, township” to incorporate the definition in clause (9).
 
-In clause (7), the words “public-purpose local government” are substituted for “public-purpose corporation or other strictly limited purpose political subdivision” to eliminate unnecessary words.
+In clause (7), the words “public-purpose local government” are substituted for “public-purpose corporationor other strictly limited purpose political subdivision” to eliminate unnecessary words.
 
 In clause (8), the words “the Commonwealth of Puerto Rico” are omitted as being included in “territory or possession of the United States” and as necessary because of 48:734.
 
@@ -176,7 +176,7 @@ Amendment effective Sept. 13, 1982, see section 2(i) of Pub. L. 97–452, set ou
 
 #### Short Title of 1992 Amendment
 
-Pub. L. 102–589, §1, Nov. 10, 1992, 106 Stat. 5133, provided that: “This Act \[amending sections 3718 and 3720Aof this title, enacting provisions set out as notes under section 3718 of this title, and amending provisions set out as notes under sections 3335, 3718, and 6503 of this title\] may be cited as the ‘Cash Management Improvement Act Amendments of 1992’.”
+Pub. L. 102–589, §1, Nov. 10, 1992, 106 Stat. 5133, provided that: “This Act \[amending sections 3718 and 3720A of this title, enacting provisions set out as notes under section 3718 of this title, and amending provisions set out as notes under sections 3335, 3718, and 6503 of this title\] may be cited as the ‘Cash Management Improvement Act Amendments of 1992’.”
 
 #### Short Title of 1990 Amendment
 

@@ -24,7 +24,7 @@ The civil-service laws, referred to in text, are set forth in Title 5, Governmen
 
 #### Amendments
 
-1988—Pub. L. 100–459 inserted “serving abroad” after “use of the representatives provided for in section 287 of this title”, inserted “abroad” after “such living quarters” and struck out at end “Any payments made by United States Government personnel for occupancy by them of living quarters leased or rented under this section shall be credited to the appropriation, fund, or account utilized by the Secretary of State for such lease or rental or to the appropriation, fund, or account currently available for such purpose.”
+1988—Pub. L. 100–459 inserted “serving abroad” after “use of the representatives provided for in section 287of this title”, inserted “abroad” after “such living quarters” and struck out at end “Any payments made by United States Government personnel for occupancy by them of living quarters leased or rented under this section shall be credited to the appropriation, fund, or account utilized by the Secretary of State for such lease or rental or to the appropriation, fund, or account currently available for such purpose.”
 
 1982—Pub. L. 97–241 substituted “use of the representatives provided for in section 287 of this title and of their appropriate staffs” for “use of the representative of the United States to the United Nations referred to in subsection (a) of section 287 of this title” and inserted provision that payments made by United States Government personnel for occupancy of living quarters leased or rented be credited to the appropriation, fund, or account utilized for such lease or rental or to the appropriation, fund, or account currently available for such purpose.
 
@@ -34,7 +34,7 @@ The civil-service laws, referred to in text, are set forth in Title 5, Governmen
 
 1949—Act Oct. 28, 1949, substituted “Classification Act of 1949” for “Classification Act of 1923”.
 
-Act Oct. 10, 1949, which renumbered section as section 8 of act Dec. 20, 1945, from section 7, authorized lease orrental, for periods not to exceed 10 years, of a residence for our representative to the United Nations, and clarified references to the civil service and classification laws, subsistence allowances, and travel expense.
+Act Oct. 10, 1949, which renumbered section as section 8 of act Dec. 20, 1945, from section 7, authorized lease or rental, for periods not to exceed 10 years, of a residence for our representative to the United Nations, and clarified references to the civil service and classification laws, subsistence allowances, and travel expense.
 
 #### Effective Date of 1988 Amendment
 
@@ -64,7 +64,11 @@ Pub. L. 106–113, div. B, §1000(a)(1) \[title IV, §406\], Nov. 29, 1999, 113 
 
 #### Refund of Excess Contributions
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title I, §106(g)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–416, provided that: “The United States shall continue to insist that the United Nations and its specialized and affiliated agencies shall credit or refund to each member of the agency concerned its proportionate share of the amount by which the total contributions to the agency exceed the expenditures of the regular assessed budgets of these agencies.”
+Pub. L. 107–228, div. A, title I, §113(e), Sept. 30, 2002, 116 Stat. 1359, provided that: “The United States shall continue to insist that the United Nations and its specialized and affiliated agencies shall credit or refund to each member of the organization or agency concerned its proportionate share of the amount by which the total contributions to the organization or agency exceed the expenditures of the regular assessed budget of the organization or agency.”
+
+Similar provisions were contained in the following prior authorization act:
+
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title I, §106(g)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–416.
 
 #### Reduction in Appropriations for Contributions to International Organizations If Official Status, Accreditation, or Recognition Is Granted to Organization Seeking Legalization of Pedophilia
 
@@ -96,7 +100,7 @@ Findings.—The Congress makes the following findings:
 
 &emsp;“(2) The conditions of the freeze were such that, as the terms of office for the personnel expired, replacements would not be recruited or hired to fill the vacant positions, with minor exceptions.
 
-&emsp;“(3) The freeze was designed to reduce United Nations personnel by 15 percent over three years, as recommended by the Group of High-Level Intergovernmental Experts to Review the Efficiency of the Administrative and Financial Functioning of the United Nations (commonly referred to as the ‘Group of 18 Experts’).
+&emsp;“(3) The freeze was designed to reduce United Nations personnel by 15 percent over three years, as recommended by the Group of High-Level Intergovernmental Experts to Review the Efficiency of the Administrative and Financial Functioning of the UnitedNations (commonly referred to as the ‘Group of 18 Experts’).
 
 &emsp;“(4) On May 5, 1987, the Secretary-General reported to the Department of State that he was considering granting 156 exceptions to the hiring freeze.
 
@@ -166,11 +170,11 @@ United States Ambassador to the United Nations.—The United States Ambassador t
 
 #### Reform in Budget Decision-Making Procedures of United Nations and its Specialized Agencies
 
-Pub. L. 103–236, title IV, §409(a)–(d), Apr. 30, 1994, 108 Stat. 454, provided that:
+Pub. L. 103–236, title IV, §409(a)–(d), Apr. 30, 1994, 108 Stat. 454, as amended by Pub. L. 107–228, div. A, title IV, §405(b)(2), Sept. 30, 2002, 116 Stat. 1391, provided that:
 
 “(a)
 
-Assessed Contributions.—For assessed contributions authorized to be appropriated for ‘Assessed Contributions to International Organizations’ by this Act \[108 Stat. 382, 388\], the President may withhold 20 percent of the funds appropriated for the United States assessed contribution to the United Nations or to any of its specialized agencies for any calendar year if the United Nations or any such agency has failed to implement or to continue to implement consensus-based decisionmaking procedures on budgetary matters which assure that sufficient attention is paid to the views of the United States and other member states that are the major financial contributors to such assessed budgets.
+Assessed Contributions.—For assessed contributions authorized to be appropriated for ‘Assessed Contributions to International Organizations’ by this Act \[108 Stat. 382, 388\], the President may withhold 20 percent of the funds appropriated for the United States assessed contribution to the United Nations or to any of its specialized agencies for any calendar year if the United Nations or any such agency has failed to implement or to continue to implement consensus-based decisionmaking procedures on budgetary matters which assure that sufficient attention is paid to the views ofthe United States and other member states that are the major financial contributors to such assessed budgets.
 
 “(b)
 
@@ -180,9 +184,7 @@ Notice to Congress.—The President shall notify the Congress when a decision is
 
 Contributions for Prior Years.—Subject to the availability of appropriations, payment of assessed contributions for prior years may be made to the United Nations or any of its specialized agencies notwithstanding subsection (a) if such payment would further United States interests in that organization.
 
-“(d)
-
-Report to Congress.—Not later than February 1 of each year, the President shall submit to the Congress a report concerning the amount of United States assessed contributions paid to the United Nations and each of its specialized agencies during the preceding calendar year.”
+“\[(d) Repealed. Pub. L. 107–228, div. A, title IV, §405(b)(2), Sept. 30, 2002, 116 Stat. 1391.\]”
 
 \[Functions of President under section 409 of Pub. L. 103–236, set out above, delegated to Secretary of State by Memorandum of President of the United States, July 26, 1994, 59 F.R. 40205, set out as a note under section 2370a of this title.\]
 
@@ -250,15 +252,31 @@ Section 104(c) of Pub. L. 97–241 provided that: “The President shall annuall
 
 #### Limit on Payments to United Nations and Affiliated Agencies
 
-Pub. L. 103–236, title IV, §404(b)(1), (2), Apr. 30, 1994, 108 Stat. 447, provided that:
+Pub. L. 103–236, title IV, §404(b)(1), (2), Apr. 30, 1994, 108 Stat. 447, as amended by Pub. L. 107–228, div. A, title IV, §402(a), Sept. 30, 2002, 116 Stat. 1388, provided that:
 
 “(1)
 
-Fiscal years 1994 and 1995.—Funds authorized to be appropriated for ‘Contributions for International Peacekeeping Activities’ for fiscal years 1994 and 1995 shall not be available for the payment of the United States assessed contribution for a United Nationspeacekeeping operation in an amount which is greater than 30.4 percent of the total of all assessed contributions for that operation, notwithstanding the last sentence of the paragraph headed ‘Contributions to International Organizations’ in Public Law 92–544, as amended by section 203 of the Foreign Relations Authorization Act, Fiscal Year 1976 (22 U.S.C. 287e note).
+Fiscal years 1994 and 1995.—Funds authorized to be appropriated for ‘Contributions for International Peacekeeping Activities’ for fiscal years 1994 and 1995 shall not be available for the payment of the United States assessed contribution for a United Nations peacekeeping operation in an amount which is greater than 30.4 percent of the total of all assessed contributions for that operation, notwithstanding the last sentence of the paragraph headed ‘Contributions to International Organizations’ in Public Law 92–544, as amended by section 203 of the Foreign Relations Authorization Act, Fiscal Year 1976 (22 U.S.C. 287e note).
 
 “(2)
 
-Subsequent fiscal years.—Funds authorized to be appropriated for ‘Contributions for International Peacekeeping Activities’ for any fiscal year after fiscal year 1995 shall not be available for the payment of the United States assessed contribution for a United Nations peacekeeping operation in an amount which is greater than 25 percent of the total of all assessed contributions for that operation.”
+Subsequent fiscal years.—
+
+&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), funds authorized to be appropriated for ‘Contributions for International Peacekeeping Activities’ for any fiscal year after fiscal year 1995 shall not be available for the payment of the United States assessed contribution for a United Nations peacekeeping operation in an amount which is greater than 25 percent of the total of all assessed contributions for that operation.
+
+&emsp;“(B)
+
+Reduction in united states share of assessed contributions.—Notwithstanding the percentage limitation contained in subparagraph (A), the United States share of assessed contributions for each United Nations peacekeeping operation during the following periods is authorized to be as follows:
+
+&emsp;&emsp;“(i) For assessments made during calendar year 2001, 28.15 percent.
+
+&emsp;&emsp;“(ii) For assessments made during calendar year 2002, 27.90 percent.
+
+&emsp;&emsp;“(iii) For assessments made during calendar year 2003, 27.40 percent.
+
+&emsp;&emsp;“(iv) For assessments made during calendar year 2004, 27.40 percent.”
 
 Pub. L. 103–236, title IV, §410, Apr. 30, 1994, 108 Stat. 454, provided that: “The United States shall not make any voluntary or assessed contribution—
 
@@ -268,7 +286,7 @@ Pub. L. 103–236, title IV, §410, Apr. 30, 1994, 108 Stat. 454, provided that:
 
 > during any period in which such membership is effective.”
 
-Pub. L. 92–544, title I, §101, Oct. 25, 1972, 86 Stat. 1110, as amended by Pub. L. 94–141, title II, §203, Nov. 29, 1975, 89 Stat. 762; Pub. L. 103–236, title IV, §404(b)(3), Apr. 30, 1994, 108 Stat. 447, provided that: “After December 31, 1973, no appropriation is authorized and no payment shall be made to the United Nations or any affiliated agency in excess of 25 per centum of the total annual assessment of such organization. Appropriations are authorized and contributions and payments may be made to the following organizations and activities notwithstanding that such contributions and payments are in excess of 25 per centum of the total annual assessment of the respective organization or 331/3 per centum of the budget for the respective activity: the International Atomic Energy Agency, the joint financing program of the International Civil Aviation Organization, and contributions for international peacekeeping activities (other than United Nations peacekeeping operations) conducted through multilateral agreements.”
+Pub. L. 92–544, title I, §101, Oct. 25, 1972, 86 Stat. 1110, as amended by Pub. L. 94–141, title II, §203, Nov. 29, 1975, 89 Stat. 762; Pub. L. 103–236, title IV, §404(b)(3), Apr. 30, 1994, 108 Stat. 447; Pub. L. 107–228, div. A, title IV, §402(b), Sept. 30, 2002, 116 Stat. 1389, provided that: “Subject to section 404(b)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 \[Pub. L. 103–236\] (22 U.S.C. 287e note), after December 31, 1973, no appropriation is authorized and no payment shall be made to the United Nations or any affiliated agency in excess of 25 per centum of the total annual assessment of such organization. Subject to section 404(b)(2) of the Foreign Relations Authorization Act, Fiscal Years 1994 and 1995 (22 U.S.C. 287e note), appropriations are authorized and contributions and payments may be made to the following organizations and activities notwithstanding that such contributions and payments are in excess of 25 per centum of the total annual assessment of the respective organization or 331/3 per centum of the budget for the respective activity: the International Atomic Energy Agency, the joint financing program of the International Civil Aviation Organization, and contributions for international peacekeeping activities conducted by or under the auspices of the United Nations or through multilateral agreements.”
 
 #### United States Assessed Contribution to the United Nations
 

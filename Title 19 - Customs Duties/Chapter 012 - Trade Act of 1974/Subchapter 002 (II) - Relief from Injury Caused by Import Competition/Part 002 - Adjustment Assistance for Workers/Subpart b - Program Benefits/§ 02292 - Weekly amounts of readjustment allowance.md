@@ -44,11 +44,11 @@ Amendment by section 1423(b)(1) effective Aug. 23, 1988, and amendment by sectio
 
 #### Effective Date of 1981 Amendment and Transition Provisions
 
-Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemployment which begin afterSept. 30, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
+Amendment by Pub. L. 97–35 applicable to allowances payable for weeks of unemployment which begin after Sept. 30, 1981, with transition provisions applicable, see section 2514 of Pub. L. 97–35, set out as a note under section 2291 of this title.
 
 #### Termination Date
 
-No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Reference to Subsection (d) Deemed Reference to (c)
 
@@ -56,5 +56,5 @@ Section 2504(b) of Pub. L. 97–35 provided that: “Any reference in any law to
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2291, 2293, 2311, 2318, 2396, 2331 of this title; title 26 section 62.
+This section is referred to in sections 2291, 2293, 2311, 2396 of this title; title 26 section 62.
 

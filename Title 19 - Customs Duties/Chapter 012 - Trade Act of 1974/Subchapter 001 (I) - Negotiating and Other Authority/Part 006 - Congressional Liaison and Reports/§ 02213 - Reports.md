@@ -252,7 +252,7 @@ Issues to be addressed.—The Commission shall examine and report to the Preside
 
 &emsp;&emsp;&emsp;“(v) any effect that international trade, labor, environmental, or other agreements may have on United States competitiveness.
 
-&emsp;&emsp;“(F) The extent to which differences in the growth rates of the United States and its trading partners may impact on United States merchandise trade and current account deficits.
+&emsp;&emsp;“(F) The extent to which differences in the growth rates of the United States and its tradingpartners may impact on United States merchandise trade and current account deficits.
 
 &emsp;&emsp;“(G) The impact that currency exchange rate fluctuations and any manipulation of exchange rates may have on United States merchandise trade and current account deficits.
 

@@ -10,3 +10,7 @@ Based on 44 U.S. Code, 1964 ed., §213 (Jan. 12, 1895, ch. 23, §89, 28 Stat. 62
 
 This section incorporates only so much of the third sentence of the second paragraph of former section 213 as relates to the annual report of the Commandant of the Coast Guard. The balance will be found in sections 1102, 1116, 1302, 1309, 1310, 1336 of the revision.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

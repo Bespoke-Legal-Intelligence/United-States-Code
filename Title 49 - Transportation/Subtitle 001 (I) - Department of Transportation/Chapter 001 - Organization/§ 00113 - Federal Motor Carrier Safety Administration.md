@@ -126,7 +126,7 @@ Remanded cases.—If the court in a suit described in paragraph (1) remands a ca
 
 “(e)
 
-Continuance of Actions Against Officers.—No suit, action, or other proceeding commenced by or against any officer in his official capacity as an officer of the Office shall abate by reason of the enactment of this Act. No cause of action by or against the Office, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act.
+Continuance of Actions Against Officers.—No suit, action, or other proceeding commenced by oragainst any officer in his official capacity as an officer of the Office shall abate by reason of the enactment of this Act. No cause of action by or against the Office, or by or against any officer thereof in his official capacity, shall abate by reason of the enactment of this Act.
 
 “(f)
 

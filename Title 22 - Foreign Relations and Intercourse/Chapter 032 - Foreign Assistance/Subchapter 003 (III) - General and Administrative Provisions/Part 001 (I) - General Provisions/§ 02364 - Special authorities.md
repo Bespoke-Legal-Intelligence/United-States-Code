@@ -16,7 +16,7 @@
 
 &emsp;(iii) the use of more than $100,000,000 of foreign currencies accruing under this chapter or any other law.
 
-(B) If the authority of this subsection is used both to authorize a sale under the Arms Export Control Act and to authorize funds to be used under the Arms Export Control Act or under this chapter with respect to the financing of that sale, then the use of the funds shall be counted against the limitation in subparagraph (A)(ii) and the portion, if any, of the sale which is not so financed shall be counted against the limitation in subparagraph (A)(i).
+(B) If the authority of this subsection is used both to authorize a sale under the Arms Export Control Act and to authorize funds to be usedunder the Arms Export Control Act or under this chapter with respect to the financing of that sale, then the use of the funds shall be counted against the limitation in subparagraph (A)(ii) and the portion, if any, of the sale which is not so financed shall be counted against the limitation in subparagraph (A)(i).
 
 (C) Not more than $50,000,000 of the $250,000,000 limitation provided in subparagraph (A)(ii) may be allocated to any one country in any fiscal year unless that country is a victim of active aggression, and not more than $500,000,000 of the aggregate limitation of $1,000,000,000 provided in subparagraphs (A)(i) and (A)(ii) may be allocated to any one country in any fiscal year.
 
@@ -50,7 +50,7 @@ Part IV of subchapter I (§2241 et seq.) of this chapter has been repealed. Refe
 
 1985—Subsec. (a)(4). Pub. L. 99–83 designated existing provisions as subpar. (A), added cl. (i) and designations “(ii)” and “(iii)”, struck out fiscal year limitation for any one country, and added subpars. (B) and (C).
 
-1980—Subsec. (a). Pub. L. 96–533, in revising subsec. (a), incorporated part of existing first sentence in provisions designated par. (1), inserted reference to Arms Export Control Act, struck out reference to Mutual Defense Assistance Control Act of 1951, required notification of the Speaker of the House and chairman of the Senate Committee on Foreign Relations, and substituted “security interests” for “security”; insertedpars. (2) and (3); incorporated part of existing first sentence, second sentence, and substance of third sentence in provisions designated par. (4) and inserted reference to the Arms Export Control Act; and designated fourth sentence as par. (5) and substituted therein “may not” for “shall not”.
+1980—Subsec. (a). Pub. L. 96–533, in revising subsec. (a), incorporated part of existing first sentence in provisions designated par. (1), inserted reference to Arms Export Control Act, struck out reference to Mutual Defense Assistance Control Act of 1951, required notification of the Speaker of the House and chairman of the Senate Committee on Foreign Relations, and substituted “security interests” for “security”; inserted pars. (2) and (3); incorporated part of existing first sentence, second sentence, and substance of third sentence in provisions designated par. (4) and inserted reference to the Arms Export Control Act; and designated fourth sentence as par. (5) and substituted therein “may not” for “shall not”.
 
 1974—Subsec. (a). Pub. L. 93–559 provided that the authority of the section shall not be used to waive the limitations on transfers contained in section 2360(a) of this title.
 

@@ -8,7 +8,7 @@ The Assistant Secretary may make grants to public and private nonprofit agencies
 
 #### (1) In general
 
-&emsp;The centers described in subsection (a) of this section shall conduct research and policy analysis and function as a technical resource for the Assistant Secretary, policymakers, service providers, and Congress.
+&emsp;The centers described in subsection (a) of this section shall conduct research and policyanalysis and function as a technical resource for the Assistant Secretary, policymakers, service providers, and Congress.
 
 #### (2) Multidisciplinary centers
 

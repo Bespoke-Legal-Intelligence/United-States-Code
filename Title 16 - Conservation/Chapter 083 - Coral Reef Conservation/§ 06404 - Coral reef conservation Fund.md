@@ -6,7 +6,7 @@ The Administrator may enter into an agreement with a nonprofit organization that
 
 #### (b) Authorization to solicit donations
 
-Pursuant to an agreement entered into under subsection (a) of this section, an organization may accept, receive, solicit, hold, administer, and use any gift to further the purposes of this chapter. Any moneys received as a gift shall be deposited and maintained in the Fund established by the organization under subsection (a) of this section.
+Pursuant to an agreement entered into under subsection (a) of this section, an organization may accept, receive, solicit, hold, administer, and use any gift to further the purposes of thischapter. Any moneys received as a gift shall be deposited and maintained in the Fund established by the organization under subsection (a) of this section.
 
 #### (c) Review of performance
 

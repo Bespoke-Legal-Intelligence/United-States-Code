@@ -28,7 +28,7 @@ An organization having a contract with the Secretary under this part shall provi
 
 &emsp;&emsp;(D) to provide notice in accordance with section 1320c–3(a)(9)(B) of this title;
 
-&emsp;(2) to assist the Secretary, and such Federal and State agencies recognized by the Secretary as having health planning or related responsibilities under Federal or State law (including health systems agencies and State health planning and development agencies), in carrying out appropriate health care planning and related activities, which data and information shall be provided in such format and manner as may be prescribed by the Secretary or agreed upon by the responsible Federal and State agencies and such organization, and shall be in the form of aggregate statisticaldata (without explicitly identifying any individual) on a geographic, institutional, or other basis reflecting the volume and frequency of services furnished, as well as the demographic characteristics of the population subject to review by such organization.
+&emsp;(2) to assist the Secretary, and such Federal and State agencies recognized by the Secretary as having health planning or related responsibilities under Federal or State law (including health systems agencies and State health planning and development agencies), in carrying out appropriate health care planning and related activities, which data and information shall be provided in such format and manner as may be prescribed by the Secretary or agreed upon by the responsible Federal and State agencies and such organization, and shall be in the form of aggregate statistical data (without explicitly identifying any individual) on a geographic, institutional, or other basis reflecting the volume and frequency of services furnished, as well as the demographic characteristics of the population subject to review by such organization.
 
 > The penalty provided in subsection (c) of this section shall not apply to the disclosure of any information received under this subsection, except that such penalty shall apply to the disclosure (by the agency receiving such information) of any such information described in paragraph (1) unless such disclosure is made in a judicial, administrative, or other formal legal proceeding resulting from an investigation conducted by the agency receiving the information. An organization may require payment of a reasonable fee for providing information under this subsection in response to a request for such information.
 
@@ -38,7 +38,7 @@ It shall be unlawful for any person to disclose any such information described i
 
 #### (d) Subpoena and discovery proceedings regarding patient records
 
-No patient record in the possession of an organization having a contract with the Secretary under this part shall be subject to subpoena or discovery proceedings in a civil action. No document or other information produced by such an organization in connection with its deliberations in making determinations under section 1320c–3(a)(1)(B) or 1320c–5(a)(2) of this title shall be subject to subpoena or discovery in any administrative or civil proceeding; except that such an organization shall provide, upon request of a practitioner or other person adversely affected by such a determination, a summary of the organization's findings and conclusions in making the determination.
+No patient record in the possession of an organization having a contract with the Secretary under this part shall be subject to subpoena or discovery proceedings in a civil action. No document or other information produced by such an organization in connection with its deliberations in making determinations under section 1320c–3(a)(1)(B) or 1320c–5(a)(2) of this title shall be subject to subpoena or discovery in any administrative or civil proceeding; except that such an organization shall provide, upon request of a practitioner or other person adversely affected by such a determination, a summary ofthe organization's findings and conclusions in making the determination.
 
 #### (e) Organizations with contracts
 
@@ -82,7 +82,7 @@ Section 4205(e)(2) of Pub. L. 101–508, as amended by Pub. L. 103–432, title 
 
 #### Effective Date of 1988 Amendment
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relatesto a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 #### Effective Date of 1986 Amendment
 

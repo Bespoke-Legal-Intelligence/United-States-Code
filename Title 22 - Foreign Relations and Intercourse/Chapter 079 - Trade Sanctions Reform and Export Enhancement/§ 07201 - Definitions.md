@@ -28,7 +28,7 @@ In this chapter:
 
 &emsp;&emsp;(A) in the case of section 7202(a)(1) of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7202(a)(1) of this title is received by Congress, the matter after the resolving clause of which is as follows: “That Congress approves the report of the President pursuant to section 903(a)(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.”, with the blank completed with the appropriate date; and
 
-&emsp;&emsp;(B) in the case of section 7205(1) <sup>1</sup> of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the Presidentunder section 7205(2) <sup>1</sup> of this title is received by Congress, the matter after the resolving clause of which is as follows: “That Congress approves the report of the President pursuant to section 906(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.”, with the blank completed with the appropriate date.
+&emsp;&emsp;(B) in the case of section 7205(1) <sup>1</sup> of this title, only a joint resolution introduced within 10 session days of Congress after the date on which the report of the President under section 7205(2) <sup>1</sup> of this title is received by Congress, the matter after the resolving clause of which is as follows: “That Congress approves the report of the President pursuant to section 906(1) of the Trade Sanctions Reform and Export Enhancement Act of 2000, transmitted on \_\_\_\_\_\_\_\_\_\_\_\_\_\_.”, with the blank completed with the appropriate date.
 
 #### (4) Medical device
 
@@ -80,7 +80,7 @@ Existing Sanctions.—In the case of any unilateral agricultural sanction or uni
 
 #### Short Title
 
-Pub. L. 106–387, §1(a) \[title IX, §901\], Oct. 28, 2000, 114 Stat. 1549, 1549A–67, provided that: “This title \[enacting this chapter\] may be cited as the ‘Trade Sanctions Reform and Export Enhancement Act of 2000’.”
+Pub. L. 106–387, §1(a) \[title IX, §901\], Oct. 28, 2000, 114 Stat. 1549, 1549A–67, provided that: “This title \[enactingthis chapter\] may be cited as the ‘Trade Sanctions Reform and Export Enhancement Act of 2000’.”
 
 #### Definitions
 

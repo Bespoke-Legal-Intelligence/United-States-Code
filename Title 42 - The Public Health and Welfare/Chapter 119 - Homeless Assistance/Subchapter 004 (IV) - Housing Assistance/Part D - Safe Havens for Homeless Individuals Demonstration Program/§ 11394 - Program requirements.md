@@ -2,7 +2,7 @@
 
 #### (a) Applications
 
-Applications for assistance under this part shall be submitted by an applicant in such formand in accordance with such procedures as the Secretary shall establish, and such applications shall contain at a minimum—
+Applications for assistance under this part shall be submitted by an applicant in such form and in accordance with such procedures as the Secretary shall establish, and such applications shall contain at a minimum—
 
 &emsp;(1) a description of the proposed facility;
 

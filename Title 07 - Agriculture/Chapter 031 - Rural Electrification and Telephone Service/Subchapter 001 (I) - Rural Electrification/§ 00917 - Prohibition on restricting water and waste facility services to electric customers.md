@@ -14,7 +14,7 @@ In this section, the term “rural development program” means the following:
 
 &emsp;(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 \[7 U.S.C. 2008j\] and subtitle E \[7 U.S.C. 2009 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1924(b), 1926, 1926a, 1926c, 1926d, and 1932).
 
-&emsp;(2) Subtitle G \[7 U.S.C. 5901\] of title XVI and sections 2281 \[42 U.S.C. 5177a\], 2333, and 2381 \[7 U.S.C. 950aaa–2, 3125b\] of the Food, Agriculture, Conservation, and Trade Act of 1990.
+&emsp;(2) Subtitle G <sup>1</sup> of title XVI and sections 2281 \[42 U.S.C. 5177a\], 2333, and 2381 \[7 U.S.C. 950aaa–2, 3125b\] of the Food, Agriculture, Conservation, and Trade Act of 1990.
 
 &emsp;(3) Subtitle C of title IX of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237; 7 U.S.C. 5930 note).
 
@@ -32,9 +32,9 @@ Not later than 60 days after April 4, 1996, the Secretary shall issue final regu
 
 #### References in Text
 
-The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), is Pub. L. 87–128, title III,Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle E of the Act is classified generally to subchapter V (§2009 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
+The Consolidated Farm and Rural Development Act, referred to in subsec. (c)(1), is Pub. L. 87–128, title III, Aug. 8, 1961, 75 Stat. 307, as amended. Subtitle E of the Act is classified generally to subchapter V (§2009 et seq.) of chapter 50 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 
-The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, is classified generally to subchapter VI (§5901 et seq.) of chapter 88 of this title. For complete classification of this Act to the Code, see Short Title of 1990 Amendments note set out under section 1421 of this title and Tables.
+The Food, Agriculture, Conservation, and Trade Act of 1990, referred to in subsec. (c)(2), is Pub. L. 101–624, Nov. 28, 1990, 104 Stat. 3359, as amended. Subtitle G of title XVI of the Act, known as the Alternative Agricultural Research and Commercialization Act of 1990, was classified generally to subchapter VI (§5901 et seq.) of chapter 88 of this title prior to repeal by Pub. L. 107–171, title VI, §6201(a), May 13, 2002, 116 Stat. 418. For complete classification of this Act to the Code, seeShort Title of 1990 Amendments note set out under section 1421 of this title and Tables.
 
 The Rural Development Act of 1972, referred to in subsec. (c)(5), is Pub. L. 92–419, Aug. 30, 1972, 86 Stat. 657, as amended. Title V of the Act is classified generally to subchapter II (§2661 et seq.) of chapter 59 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of this title and Tables.
 

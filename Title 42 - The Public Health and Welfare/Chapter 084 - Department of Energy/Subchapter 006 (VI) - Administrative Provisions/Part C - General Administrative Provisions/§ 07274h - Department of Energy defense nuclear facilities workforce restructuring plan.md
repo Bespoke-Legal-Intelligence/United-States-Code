@@ -70,7 +70,7 @@ Section 3152 of the National Defense Authorization Act for Fiscal Years 1990 and
 
 The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Title II of the Act is classified generally to subchapter II (§3141 et seq.) of chapter 38 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of this title and Tables.
 
-The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136,Aug. 26, 1965, 79 Stat. 552, as amended. Title IX of the Act was classified generally to subchapter IX (§3241 et seq.) of chapter 38 of this title, prior to repeal by Pub. L. 105–393, title I, §102(c), Nov. 13, 1998, 112 Stat. 3617. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of this title and Tables.
+The Public Works and Economic Development Act of 1965, referred to in subsec. (c)(6)(C), is Pub. L. 89–136, Aug. 26, 1965, 79 Stat. 552, as amended. Title IX of the Act was classified generally to subchapter IX (§3241 et seq.) of chapter 38 of this title, prior to repeal by Pub. L. 105–393, title I, §102(c), Nov. 13, 1998, 112 Stat. 3617. For complete classification of this Act to the Code, see Short Title note set out under section 3121 of this title and Tables.
 
 #### Codification
 

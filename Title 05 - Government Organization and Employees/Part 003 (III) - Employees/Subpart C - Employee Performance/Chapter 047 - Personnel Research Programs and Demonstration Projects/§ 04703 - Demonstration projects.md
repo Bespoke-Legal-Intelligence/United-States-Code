@@ -1,6 +1,6 @@
 ### §4703. Demonstration projects
 
-(a) Except as provided in this section, the Office of Personnel Management may, directly or through agreement or contract with one or more agencies and other public and private organizations, conduct and evaluate demonstration projects. Subject to the provisions of this section, the conducting of demonstration projects shall not be limited by any lack of specific authority under this title to take the action contemplated, or by any provision of this title or any rule or regulation prescribed under this title which is inconsistent with the action, including any law or regulation relating to—
+(a) Except as provided in this section, the Office of Personnel Management may, directly orthrough agreement or contract with one or more agencies and other public and private organizations, conduct and evaluate demonstration projects. Subject to the provisions of this section, the conducting of demonstration projects shall not be limited by any lack of specific authority under this title to take the action contemplated, or by any provision of this title or any rule or regulation prescribed under this title which is inconsistent with the action, including any law or regulation relating to—
 
 &emsp;(1) the methods of establishing qualification requirements for, recruitment for, and appointment to positions;
 

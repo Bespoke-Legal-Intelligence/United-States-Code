@@ -4,9 +4,9 @@
 
 (b) Whoever, whether for himself or another person not entitled thereto, knowingly issues, procures or obtains or applies for or otherwise attempts to procure or obtain naturalization, or citizenship, or a declaration of intention to become a citizen, or a certificate of arrival or any certificate or evidence of nationalization or citizenship, documentary or otherwise, or duplicates or copies of any of the foregoing—
 
-Shall be fined under this title or imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility <sup>1</sup> such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
+Shall be fined under this title or imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facilitate such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense), or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 766; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 104–208, div. C, title II, §211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569.)
+(June 25, 1948, ch. 645, 62 Stat. 766; Pub. L. 103–322, title XXXIII, §330016(1)(K), Sept. 13, 1994,108 Stat. 2147; Pub. L. 104–208, div. C, title II, §211(a)(2), Sept. 30, 1996, 110 Stat. 3009–569; Pub. L. 107–273, div. B, title IV, §4002(a)(3), Nov. 2, 2002, 116 Stat. 1806.)
 
 #### Historical and Revision Notes
 
@@ -17,6 +17,8 @@ Section consolidates five similar paragraphs, and the punishment provisions of s
 Words “a certificate of arrival or” were inserted before “any certificate” in subsection (b), so as to remove any doubt as to scope of section.
 
 #### Amendments
+
+2002—Pub. L. 107–273 substituted “to facilitate” for “to facility” in last par.
 
 1996—Pub. L. 104–208 substituted “imprisoned not more than 25 years (if the offense was committed to facilitate an act of international terrorism (as defined in section 2331 of this title)), 20 years (if the offense was committed to facilitate a drug trafficking crime (as defined in section 929(a) of this title)), 10 years (in the case of the first or second such offense, if the offense was not committed to facility such an act of international terrorism or a drug trafficking crime), or 15 years (in the case of any other offense)” for “imprisoned not more than five years” in last par.
 
@@ -29,6 +31,4 @@ Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 982, 1961, 2516, 3291 of this title; title 8 section 1451.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “facilitate”.</i>
 

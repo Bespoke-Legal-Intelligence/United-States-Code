@@ -10,7 +10,7 @@ All money paid a State under this section shall be used solely for the purposes 
 
 #### (c) Surety bonds
 
-Any agreement under this subpart may require any officer or employee of the State certifying payments or disbursing funds under the agreement or otherwise participating in the performance of the agreement, to give a surety bond to the United States in such amount as the Secretary may deem necessary, and may provide for the payment of the cost of such bond from funds for carrying out the purposes of this part.
+Any agreement under this subpart may require any officer or employee of the State certifying payments or disbursing funds under the agreement or otherwise participating in the performance of the agreement, to give a suretybond to the United States in such amount as the Secretary may deem necessary, and may provide for the payment of the cost of such bond from funds for carrying out the purposes of this part.
 
 (Pub. L. 93–618, title II, §241, Jan. 3, 1975, 88 Stat. 2025; Pub. L. 97–35, title XXV, §2513(b), Aug. 13, 1981, 95 Stat. 889.)
 
@@ -26,5 +26,9 @@ Amendment by Pub. L. 97–35 effective Aug. 1981, with transition provisions app
 
 #### Termination Date
 
-No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2318 of this title.
 

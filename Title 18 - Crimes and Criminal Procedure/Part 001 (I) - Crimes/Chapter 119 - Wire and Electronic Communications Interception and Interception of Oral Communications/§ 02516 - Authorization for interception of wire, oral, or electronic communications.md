@@ -2,7 +2,7 @@
 
 (1) The Attorney General, Deputy Attorney General, Associate Attorney General,<sup>1</sup> or any Assistant Attorney General, any acting Assistant Attorney General, or any Deputy Assistant Attorney General or acting Deputy Assistant Attorney General in the Criminal Division specially designated by the Attorney General, may authorize an application to a Federal judge of competent jurisdiction for, and such judge may grant in conformity with section 2518 of this chapter an order authorizing or approving the interception of wire or oral communications by the Federal Bureau of Investigation, or a Federal agency having responsibility for the investigation of the offense as to which the application is made, when such interception may provide or has provided evidence of—
 
-&emsp;(a) any offense punishable by death or by imprisonment for more than one year under sections 2274 through 2277 of title 42 of the UnitedStates Code (relating to the enforcement of the Atomic Energy Act of 1954), section 2284 of title 42 of the United States Code (relating to sabotage of nuclear facilities or fuel), or under the following chapters of this title: chapter 37 (relating to espionage), chapter 90 (relating to protection of trade secrets), chapter 105 (relating to sabotage), chapter 115 (relating to treason), chapter 102 (relating to riots), chapter 65 (relating to malicious mischief), chapter 111 (relating to destruction of vessels), or chapter 81 (relating to piracy);
+&emsp;(a) any offense punishable by death or by imprisonment for more than one year under sections 2274 through 2277 of title 42 of the United States Code (relating to the enforcement of the Atomic Energy Act of 1954), section 2284 of title 42 of the United States Code (relating tosabotage of nuclear facilities or fuel), or under the following chapters of this title: chapter 37 (relating to espionage), chapter 90 (relating to protection of trade secrets), chapter 105 (relating to sabotage), chapter 115 (relating to treason), chapter 102 (relating to riots), chapter 65 (relating to malicious mischief), chapter 111 (relating to destruction of vessels), or chapter 81 (relating to piracy);
 
 &emsp;(b) a violation of section 186 or section 501(c) of title 29, United States Code (dealing with restrictions on payments and loans to labor organizations), or any offense which involves murder, kidnapping, robbery, or extortion, and which is punishable under this title;
 
@@ -32,9 +32,9 @@
 
 &emsp;(<i>o</i>) any violation of section 5861 of the Internal Revenue Code of 1986 (relating to firearms);
 
-&emsp;(p) a felony violation of section 1028 (relating to production of false identification documents), section 1542 (relating to false statements in passport applications), section 1546 (relating to fraud and misuse of visas, permits,and other documents) of this title or a violation of section 274, 277, or 278 of the Immigration and Nationality Act (relating to the smuggling of aliens); or <sup>2</sup>
+&emsp;(p) a felony violation of section 1028 (relating to production of false identification documents), section 1542 (relating to false statements in passport applications), section 1546 (relating to fraud and misuse of visas, permits, and other documents) of this title or a violation of section 274, 277, or 278 of the Immigration and Nationality Act (relating to the smuggling of aliens); or <sup>2</sup>
 
-&emsp;(q) any criminal violation of section 229 (relating to chemical weapons); or sections <sup>3</sup> 2332, 2332a, 2332b, 2332d, 2339A, or 2339B of this title (relating to terrorism); or
+&emsp;(q) any criminal violation of section 229 (relating to chemical weapons); or sections <sup>3</sup> 2332, 2332a, 2332b, 2332d, 2332f, 2339A, 2339B, or 2339C of this title (relating to terrorism); or
 
 &emsp;(r) any conspiracy to commit any offense described in any subparagraph of this paragraph.
 
@@ -42,7 +42,7 @@
 
 (3) Any attorney for the Government (as such term is defined for the purposes of the Federal Rules of Criminal Procedure) may authorize an application to a Federal judge of competent jurisdiction for, and such judge may grant, in conformity with section 2518 of this title, an order authorizing or approving the interception of electronic communications by an investigative or law enforcement officer having responsibility for the investigation of the offense as to which the application is made, when such interception may provide or has provided evidence of any Federal felony.
 
-(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 216; amended Pub. L. 91–452, title VIII, §810, title IX, §902(a), title XI, §1103, Oct. 15, 1970, 84 Stat. 940, 947, 959; Pub. L. 91–644, title IV, §16, Jan. 2, 1971, 84 Stat. 1891; Pub. L. 95–598, title III, §314(h), Nov. 6, 1978, 92 Stat. 2677; Pub. L. 97–285, §§2(e), 4(e), Oct. 6, 1982, 96 Stat. 1220, 1221; Pub. L. 98–292, §8, May 21, 1984, 98 Stat. 206; Pub. L. 98–473, title II, §1203(c), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–508, title I, §§101(c)(1)(A), 104, 105, Oct. 21, 1986, 100 Stat. 1851, 1855; Pub. L. 99–570, title I, §1365(c), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 100–690, title VI, §6461, title VII, §§7036, 7053(d), 7525, Nov. 18, 1988, 102 Stat. 4374, 4399, 4402, 4502; Pub. L. 101–298, §3(b), May 22, 1990, 104 Stat. 203; Pub. L. 101–647, title XXV, §2531, title XXXV, §3568, Nov. 29, 1990, 104 Stat. 4879, 4928; Pub. L. 103–272, §5(e)(11), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §§330011(c)(1), (q)(1), (r), 330021(1), Sept. 13, 1994, 108 Stat. 2144, 2145, 2150; Pub. L. 103–414, title II, §208, Oct. 25, 1994, 108 Stat. 4292; Pub. L. 103–429, §7(a)(4)(A), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–132, title IV, §434, Apr. 24, 1996, 110 Stat. 1274; Pub. L. 104–208, div. C, title II, §201, Sept. 30, 1996, 110 Stat. 3009–564; Pub. L. 104–287, §6(a)(2), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–294, title I, §102, title VI, §601(d), Oct. 11, 1996, 110 Stat. 3491, 3499; Pub. L. 105–318, §6(b), Oct. 30, 1998, 112 Stat. 3011; Pub. L. 106–181, title V, §506(c)(2)(B), Apr. 5, 2000, 114 Stat. 139; Pub. L. 107–56, title II, §§201, 202, Oct. 26, 2001, 115 Stat. 278.)
+(Added Pub. L. 90–351, title III, §802, June 19, 1968, 82 Stat. 216; amended Pub. L. 91–452, title VIII, §810, title IX, §902(a), title XI, §1103, Oct. 15, 1970, 84 Stat. 940, 947, 959; Pub. L. 91–644, title IV, §16, Jan. 2, 1971, 84 Stat. 1891; Pub. L. 95–598, title III, §314(h), Nov. 6, 1978, 92 Stat. 2677; Pub. L. 97–285, §§2(e), 4(e), Oct. 6, 1982, 96 Stat. 1220, 1221; Pub. L. 98–292, §8, May 21, 1984, 98 Stat. 206; Pub. L. 98–473, title II, §1203(c), Oct. 12, 1984, 98 Stat. 2152; Pub. L. 99–508, title I, §§101(c)(1)(A), 104, 105, Oct. 21, 1986, 100 Stat. 1851, 1855; Pub. L. 99–570, title I, §1365(c), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 100–690, title VI, §6461, title VII, §§7036, 7053(d), 7525, Nov. 18, 1988, 102 Stat. 4374, 4399, 4402, 4502; Pub. L. 101–298, §3(b), May 22, 1990, 104 Stat. 203; Pub. L. 101–647, title XXV, §2531, title XXXV, §3568, Nov. 29, 1990, 104 Stat. 4879, 4928; Pub. L. 103–272, §5(e)(11), July 5, 1994, 108 Stat. 1374; Pub. L. 103–322, title XXXIII, §§330011(c)(1), (q)(1), (r), 330021(1), Sept. 13, 1994, 108 Stat. 2144, 2145, 2150; Pub. L. 103–414, title II, §208, Oct. 25, 1994, 108 Stat. 4292; Pub. L. 103–429, §7(a)(4)(A), Oct. 31, 1994, 108 Stat. 4389; Pub. L. 104–132, title IV, §434, Apr. 24, 1996, 110 Stat. 1274; Pub. L. 104–208, div. C, title II, §201, Sept. 30, 1996, 110 Stat. 3009–564; Pub. L. 104–287, §6(a)(2), Oct. 11, 1996, 110 Stat. 3398; Pub. L. 104–294, title I, §102, title VI, §601(d), Oct. 11, 1996, 110 Stat. 3491, 3499; Pub. L. 105–318, §6(b), Oct. 30, 1998, 112 Stat. 3011; Pub. L. 106–181, title V, §506(c)(2)(B), Apr. 5, 2000, 114 Stat. 139; Pub. L. 107–56, title II, §§201, 202, Oct. 26, 2001, 115 Stat. 278; Pub. L. 107–197, title III, §301(a), June 25, 2002, 116 Stat. 728; Pub. L. 107–273, div. B, title IV, §§4002(c)(1), 4005(a)(1), Nov. 2, 2002, 116 Stat. 1808, 1812.)
 
 #### Amendment of Section
 
@@ -59,6 +59,12 @@ Section 5861 of the Internal Revenue Code of 1986, referred to in par. (1)(<i>o<
 The Federal Rules of Criminal Procedure, referred to in par. (3), are set out in the Appendix to this title.
 
 #### Amendments
+
+2002—Par. (1)(n). Pub. L. 107–273, §4002(c)(1), repealed Pub. L. 104–294, §601(d)(2). See 1996 Amendment note below.
+
+Par. (1)(q). Pub. L. 107–273, §4005(a)(1), realigned margins.
+
+Pub. L. 107–197 inserted “2332f,” after “2332d,” and substituted “2339B, or 2339C” for “or 2339B”.
 
 2001—Par. (1)(c). Pub. L. 107–56, §§202, 224, temporarily substituted “section 1341 (relating to mail fraud), a felony violation of section 1030 (relating to computer fraud and abuse),” for “and section 1341 (relating to mail fraud),”. See Termination Date of 2001 Amendment note below.
 
@@ -82,7 +88,7 @@ Par. (1)(<i>l</i>). Pub. L. 104–208, §201(2), and Pub. L. 104–294, §601(d)
 
 Par. (1)(m). Pub. L. 104–208, §201(3), (4), added subpar. (m). Former subpar. (m) redesignated (n).
 
-Par. (1)(n). Pub. L. 104–294, §601(d)(2), which directed substitution of “or” for “and” after semicolon at end, could not be executed because of prior amendments by Pub. L. 104–132, §434(1) and Pub. L. 104–208, §201(3). See below.
+Par. (1)(n). Pub. L. 104–294, §601(d)(2), which could not be executed because of prior amendments by Pub. L. 104–132, §434(1) and Pub. L. 104–208, §201(3), was repealed by Pub. L. 107–273, §4002(c)(1). See below.
 
 Pub. L. 104–208, §201(3), redesignated subpar. (m) as (n). Former subpar. (n) redesignated (<i>o</i>).
 
@@ -181,6 +187,10 @@ Par. (1)(g), (h). Pub. L. 98–473, §1203(c)(3), added par. (g) and redesignate
 1971—Par. (1)(c). Pub. L. 91–644 inserted reference to section 351 offense (violations with respect to congressional assassination, kidnaping, and assault).
 
 1970—Par. (1)(c). Pub. L. 91–452 inserted reference to sections 844(d), (e), (f), (g), (h), or (i), 1511, 1955, and 1963 of this title.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
 
 #### Termination Date of 2001 Amendment
 

@@ -6,7 +6,7 @@ The Secretary shall provide for the conduct of a study of facilities available f
 
 &emsp;(1) on which structurally sound buildings suitable for use as educational facilities are located, and
 
-&emsp;(2) which is available for use by tribally controlled colleges or universities under section 483(a)(2) of title 40 and section 443a of this title.
+&emsp;(2) which is available for use by tribally controlled colleges or universities under section 523 of title 40 and section 443a of this title.
 
 #### (b) Renovation program
 
@@ -14,7 +14,7 @@ The Secretary, in consultation with the Bureau of Indian Affairs, shall initiate
 
 #### (c) Determination and prioritization of construction and renovation needs
 
-(1) The Secretary shall enter into a contract with an organization described in paragraph (2)to establish and provide on an annual basis criteria for the determination and prioritization in a consistent and equitable manner of the facilities construction and renovation needs of colleges or universities that receive funding under this chapter or the Navajo Community College Act \[25 U.S.C. 640a et seq.\].
+(1) The Secretary shall enter into a contract with an organization described in paragraph (2) to establish and provide on an annual basis criteria for the determination and prioritization in a consistent and equitable manner of the facilities construction and renovation needs of colleges or universities that receive funding under this chapter or the Navajo Community College Act \[25 U.S.C. 640a et seq.\].
 
 (2) An organization described in this section is any organization that—
 
@@ -37,6 +37,10 @@ The Navajo Community College Act, referred to in subsec. (c)(1), is Pub. L. 92�
 The Indian Self-Determination and Education Assistance Act, referred to in subsec. (c)(2)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
 
 Section 1132e–1 of title 20, referred to in subsec. (d), was omitted in the general revision of subchapter VII (§1132a et seq.) of chapter 28 of Title 20, Education, by Pub. L. 99–498, title VII, §701, Oct. 17, 1986, 100 Stat. 1520. See section 1132i–1 of Title 20.
+
+#### Codification
+
+“Section 523 of title 40” substituted in subsec. (a)(2) for “section 202(a)(2) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 483(a)(2))” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

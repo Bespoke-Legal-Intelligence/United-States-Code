@@ -1,6 +1,0 @@
-### §166e. Funds out of Contingent Expenses, Architect of Capitol
-
-Any expenditures required to implement the provisions of section 166d of this title shall be paid from the appropriation “Contingent Expenses, Architect of the Capitol” and any funds appropriated under this head shall hereafter be available for such purpose.
-
-(Pub. L. 93–180, §2, Dec. 13, 1973, 87 Stat. 705.)
-

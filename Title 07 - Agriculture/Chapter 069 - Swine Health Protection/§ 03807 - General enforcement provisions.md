@@ -6,7 +6,7 @@ The Attorney General, upon the request of the Secretary, shall bring an action t
 
 #### (b) Access to premises or facility and books and records; examination; samples
 
-Any person subject to the provisions of this chapter shall, at all reasonable times, upon notice by a duly authorized representative of the Secretary, afford such representative access to his premises or facility and opportunity to examine the premises or facility, the garbage there at, and books and records thereof, to copy all such books and records and to take reasonable sample of such garbage.
+Any person subject to the provisions of this chapter shall, at all reasonable times, upon notice by a duly authorized representative of theSecretary, afford such representative access to his premises or facility and opportunity to examine the premises or facility, the garbage there at, and books and records thereof, to copy all such books and records and to take reasonable sample of such garbage.
 
 #### (c) Additional powers
 

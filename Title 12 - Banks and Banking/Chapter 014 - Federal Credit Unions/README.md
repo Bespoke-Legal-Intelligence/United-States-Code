@@ -156,7 +156,7 @@
 | (t) | Regulation of certain forms of benefits to institution-affiliated parties. |
 | (u) | Foreign investigations. |
 | (v) | Termination of insurance for money laundering or cash transaction reporting offenses. |
-| [1786a.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001786a%20-%20Regulation%20and%20examination%20of%20credit%20union%20organizations%20and%20service%20providers.md) | Regulation and examination of credit union organizations and service providers. |
+| [1786a.](Subchapter%20002%20%28II%29%20-%20Share%20Insurance/%C2%A7%2001786a%20-%20Omitted.md) | Regulation and examination of credit union organizations and service providers. |
 | (a) | Regulation and examination of credit union organizations. |
 | (b) | Applicability of section 1786. |
 | (c) | Service performed by contract or otherwise. |

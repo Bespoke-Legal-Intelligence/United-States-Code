@@ -12,7 +12,7 @@ The General Accounting Office, the Government Printing Office, and the Library o
 
 #### (3) Report to Congress
 
-&emsp;The chief official of each instrumentality of the Congress shall, after establishing remediesand procedures for purposes of paragraph (2), submit to the Congress a report describing the remedies and procedures.
+&emsp;The chief official of each instrumentality of the Congress shall, after establishing remedies and procedures for purposes of paragraph (2), submit to the Congress a report describing the remedies and procedures.
 
 #### (4) Definition of instrumentalities
 

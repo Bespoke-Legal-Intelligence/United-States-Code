@@ -106,7 +106,7 @@ Notification prohibited.—
 
 &emsp;&emsp;(A)
 
-In general.—If a financial institution or any director, officer, employee, or agent of any financial institution, voluntarily or pursuant to this section or any other authority, reports a suspicious transaction to a government agency—
+In general.—If a financial institution or any director, officer, employee, or agentof any financial institution, voluntarily or pursuant to this section or any other authority, reports a suspicious transaction to a government agency—
 
 &emsp;&emsp;&emsp;(i) the financial institution, director, officer, employee, or agent may not notify any person involved in the transaction that the transaction has been reported; and
 
@@ -258,7 +258,7 @@ Prohibition on United States Correspondent Accounts With Foreign Shell Banks.—
 
 &emsp;(1)
 
-In general.—A financial institution described in subparagraphs (A) through (G) of section 5312(a)(2) (in this subsection referred to as a “covered financial institution”) shall not establish, maintain, administer, or manage a correspondent account in the United States for, or on behalf of, a foreign bank that does not have a physical presence in any country.
+In general.—A financial institution described in subparagraphs (A) through (G) of section 5312(a)(2) (in this subsection referred to as a “covered financial institution”) shall not establish, maintain, administer, or manage a correspondent account in the UnitedStates for, or on behalf of, a foreign bank that does not have a physical presence in any country.
 
 &emsp;(2)
 
@@ -282,7 +282,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;&emsp;(i) is maintained by a foreign bank;
 
-&emsp;&emsp;&emsp;(ii) is located at a fixed address (other than solely an electronic address) in acountry in which the foreign bank is authorized to conduct banking activities, at which location the foreign bank—
+&emsp;&emsp;&emsp;(ii) is located at a fixed address (other than solely an electronic address) in a country in which the foreign bank is authorized to conduct banking activities, at which location the foreign bank—
 
 &emsp;&emsp;&emsp;&emsp;(I) employs 1 or more individuals on a full-time basis; and
 
@@ -378,7 +378,7 @@ Minimum requirements.—The regulations shall, at a minimum, require financial i
 
 &emsp;(3)
 
-Factors to be considered.—In prescribing regulations under this subsection, the Secretary shall take into consideration the various types of accounts maintained by varioustypes of financial institutions, the various methods of opening accounts, and the various types of identifying information available.
+Factors to be considered.—In prescribing regulations under this subsection, the Secretary shall take into consideration the various types of accounts maintained by various types of financial institutions, the various methods of opening accounts, and the various types of identifying information available.
 
 &emsp;(4)
 
@@ -522,7 +522,7 @@ Amendments by title III of Pub. L. 107–56 to terminate effective on and after 
 
 Pub. L. 107–56, title III, §312(b)(2), Oct. 26, 2001, 115 Stat. 306, provided that: “Section 5318(i) of title 31, United States Code, as added by this section, shall take effect 270 days after the date of enactment of this Act \[Oct. 26, 2001\], whether or not final regulations are issued under paragraph (1) \[set out below\], and the failure to issue such regulations shall in no way affect the enforceability of this section \[amending this section and enacting provisions set out as a note below\] or the amendments made by this section. Section 5318(i) of title 31, United States Code, as added by this section, shall apply with respect to accounts covered by that section 5318(i), that are opened before, on, or after the date of enactment of this Act.”
 
-Pub. L. 107–56, title III, §313(b), Oct. 26, 2001, 115 Stat. 307, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 60-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\].”
+Pub. L. 107–56, title III, §313(b), Oct. 26, 2001, 115 Stat. 307, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect atthe end of the 60-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\].”
 
 Pub. L. 107–56, title III, §352(b), Oct. 26, 2001, 115 Stat. 322, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect at the end of the 180-day period beginning on the date of enactment of this Act \[Oct. 26, 2001\].”
 
@@ -540,7 +540,7 @@ Pub. L. 107–56, title III, §352(c), Oct. 26, 2001, 115 Stat. 322, provided th
 
 #### Grace Period
 
-Pub. L. 107–56, title III, §319(c), Oct. 26, 2001, 115 Stat. 314, provided that: “Financial institutions shall have 60 days from the date of enactment of this Act \[Oct. 26,2001\] to comply with the provisions of section 5318(k) of title 31, United States Code, as added by this section.”
+Pub. L. 107–56, title III, §319(c), Oct. 26, 2001, 115 Stat. 314, provided that: “Financial institutions shall have 60 days from the date of enactment of this Act \[Oct. 26, 2001\] to comply with the provisions of section 5318(k) of title 31, United States Code, as added by this section.”
 
 #### “Federal Functional Regulator” Includes Commodity Futures Trading Commission
 

@@ -2,7 +2,7 @@
 
 #### (a) Issuance and form
 
-Certificates of registration of marks registered upon the principal register shall be issued in the name of the United States of America, under the seal of the Patent and Trademark Office, and shall be signed by the Director or have his signature placed thereon, and a record thereof shall be kept in the Patent and Trademark Office. The registration shall reproduce the mark, and state that the mark is registered on the principal register under this chapter, the date of the first use of the mark, the date of the first use of the mark in commerce, the particular goods or services for which it is registered, the number and date of the registration, the term thereof, the date on which the application for registration was received in the Patent and Trademark Office, and any conditions and limitations that may be imposed in the registration.
+Certificates of registration of marks registered upon the principal register shall be issued in the name of the United States of America, under the seal of the Patent and Trademark Office, and shall be signed by the Director or have his signature placed thereon, and a record thereof shall be kept in the Patent and Trademark Office. The registration shall reproduce the mark, and state that the mark is registeredon the principal register under this chapter, the date of the first use of the mark, the date of the first use of the mark in commerce, the particular goods or services for which it is registered, the number and date of the registration, the term thereof, the date on which the application for registration was received in the Patent and Trademark Office, and any conditions and limitations that may be imposed in the registration.
 
 #### (b) Certificate as prima facie evidence
 
@@ -20,7 +20,7 @@ Contingent on the registration of a mark on the principal register provided by t
 
 #### (d) Issuance to assignee
 
-A certificate of registration of a mark may be issued to the assignee of the applicant, but theassignment must first be recorded in the Patent and Trademark Office. In case of change of ownership the Director shall, at the request of the owner and upon a proper showing and the payment of the prescribed fee, issue to such assignee a new certificate of registration of the said mark in the name of such assignee, and for the unexpired part of the original period.
+A certificate of registration of a mark may be issued to the assignee of the applicant, but the assignment must first be recorded in the Patent and Trademark Office. In case of change of ownership the Director shall, at the request of the owner and upon a proper showing and the payment of the prescribed fee, issue to such assignee a new certificate of registration of the said mark in the name of such assignee, and for the unexpired part of the original period.
 
 #### (e) Surrender, cancellation, or amendment by registrant
 
@@ -82,7 +82,7 @@ Subsec. (f). Pub. L. 87–772, among other changes, struck out “, signed by t
 
 #### Effective Date of 1999 Amendment
 
-Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\]of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
+Amendment by Pub. L. 106–113 effective 4 months after Nov. 29, 1999, see section 1000(a)(9) \[title IV, §4731\] of Pub. L. 106–113, set out as a note under section 1 of Title 35, Patents.
 
 #### Effective Date of 1998 Amendment
 
@@ -106,5 +106,5 @@ For transfer of functions of other officers, employees, and agencies of Departme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1068, 1071, 1092, 1094, 1115 of this title.
+This section is referred to in sections 1068, 1071, 1092, 1094, 1115, 1141f of this title.
 

@@ -25,12 +25,14 @@
 | [118\.](%C2%A7%2000118%20-%20Scope%20of%20exclusive%20rights%20Use%20of%20certain%20works%20in%20connection%20with%20noncommercial%20broadcasting.md) | Scope of exclusive rights: Use of certain works in connection with noncommercial broadcasting. |
 | [119\.](%C2%A7%2000119%20-%20Limitations%20on%20exclusive%20rights%20Secondary%20transmissions%20of%20superstations%20and%20network%20stations%20for%20private%20home%20viewing.md) | Limitations on exclusive rights: Secondary transmissions of superstations and network stations for private home viewing. |
 | [120\.](%C2%A7%2000120%20-%20Scope%20of%20exclusive%20rights%20in%20architectural%20works.md) | Scope of exclusive rights in architectural works. |
-| [121\.](%C2%A7%2000121%20-%20Limitations%20on%20exclusive%20rights%20reproduction%20for%20blind%20or%20other%20people%20with%20disabilities.md) | Limitations on exclusive rights: reproduction for blind or other people with disabilities. |
-| [122\.](%C2%A7%2000122%20-%20Limitations%20on%20exclusive%20rights%3B%20secondary%20transmissions%20by%20satellite%20carriers%20within%20local%20markets.md) | Limitations on exclusive rights; secondary transmissions by satellite carriers within local market.<sup>1</sup> |
+| [121\.](%C2%A7%2000121%20-%20Limitations%20on%20exclusive%20rights%20Reproduction%20for%20blind%20or%20other%20people%20with%20disabilities.md) | Limitations on exclusive rights: Reproduction for blind or other people with disabilities. |
+| [122\.](%C2%A7%2000122%20-%20Limitations%20on%20exclusive%20rights%20Secondary%20transmissions%20by%20satellite%20carriers%20within%20local%20markets.md) | Limitations on exclusive rights: Secondary transmissions by satellite carriers within local markets. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–273, div. C, title III, §13210(2)(B), (3)(B), Nov. 2, 2002, 116 Stat. 1909, substituted “Reproduction” for “reproduction” in item 121 and “Limitations on exclusive rights: Secondary transmissions by satellite carriers within local markets” for “Limitations on exclusive rights; secondary transmissions by satellite carriers within local market” in item 122.
 
 1999—Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1002(c)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–527, added item 122.
 
@@ -53,8 +55,6 @@ Pub. L. 100–568, §4(b)(2), Oct. 31, 1988, 102 Stat. 2857, substituted “Comp
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 912 of this title.
-
-<i><sup>1</sup></i><i> So in original. Does not conform to section catchline.</i>
 
 
 ---
@@ -84,5 +84,5 @@ This chapter is referred to in section 912 of this title.
 - [&sect; 00118 - Scope of exclusive rights Use of certain works in connection with noncommercial broadcasting](%C2%A7%2000118%20-%20Scope%20of%20exclusive%20rights%20Use%20of%20certain%20works%20in%20connection%20with%20noncommercial%20broadcasting.md)
 - [&sect; 00119 - Limitations on exclusive rights Secondary transmissions of superstations and network stations for private home viewing](%C2%A7%2000119%20-%20Limitations%20on%20exclusive%20rights%20Secondary%20transmissions%20of%20superstations%20and%20network%20stations%20for%20private%20home%20viewing.md)
 - [&sect; 00120 - Scope of exclusive rights in architectural works](%C2%A7%2000120%20-%20Scope%20of%20exclusive%20rights%20in%20architectural%20works.md)
-- [&sect; 00121 - Limitations on exclusive rights reproduction for blind or other people with disabilities](%C2%A7%2000121%20-%20Limitations%20on%20exclusive%20rights%20reproduction%20for%20blind%20or%20other%20people%20with%20disabilities.md)
-- [&sect; 00122 - Limitations on exclusive rights; secondary transmissions by satellite carriers within local markets](%C2%A7%2000122%20-%20Limitations%20on%20exclusive%20rights%3B%20secondary%20transmissions%20by%20satellite%20carriers%20within%20local%20markets.md)
+- [&sect; 00121 - Limitations on exclusive rights Reproduction for blind or other people with disabilities](%C2%A7%2000121%20-%20Limitations%20on%20exclusive%20rights%20Reproduction%20for%20blind%20or%20other%20people%20with%20disabilities.md)
+- [&sect; 00122 - Limitations on exclusive rights Secondary transmissions by satellite carriers within local markets](%C2%A7%2000122%20-%20Limitations%20on%20exclusive%20rights%20Secondary%20transmissions%20by%20satellite%20carriers%20within%20local%20markets.md)

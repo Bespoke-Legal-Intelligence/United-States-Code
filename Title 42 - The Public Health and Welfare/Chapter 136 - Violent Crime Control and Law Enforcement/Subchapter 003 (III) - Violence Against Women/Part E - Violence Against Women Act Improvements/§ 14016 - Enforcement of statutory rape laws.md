@@ -14,7 +14,7 @@ Not later than January 1, 1997, the Attorney General shall establish and impleme
 
 #### (c) Violence against women initiative
 
-The Attorney General shall ensure that the Department of Justice's Violence AgainstWomen initiative addresses the issue of statutory rape, particularly the commission of statutory rape by predatory older men committing repeat offenses.
+The Attorney General shall ensure that the Department of Justice's Violence Against Women initiative addresses the issue of statutory rape, particularly the commission of statutory rape by predatory older men committing repeat offenses.
 
 (Pub. L. 104–193, title IX, §906, Aug. 22, 1996, 110 Stat. 2349.)
 

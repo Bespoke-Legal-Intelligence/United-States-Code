@@ -14,7 +14,7 @@ The Congress finds and declares—
 
 #### (b) Uniform legal and other forms for use by agencies in housing programs
 
-(1) Not later than October 1, 1980, the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Secretary of Veterans Affairs shall, consistent with provisions of law governing the conduct of housing programs, employ in their respective programs—
+(1) Not later than October 1, 1980, the Secretary of Housing and Urban Development, the Secretary of Agriculture, and the Secretary ofVeterans Affairs shall, consistent with provisions of law governing the conduct of housing programs, employ in their respective programs—
 
 &emsp;(A) uniform single-family and multi-family note and mortgage forms;
 

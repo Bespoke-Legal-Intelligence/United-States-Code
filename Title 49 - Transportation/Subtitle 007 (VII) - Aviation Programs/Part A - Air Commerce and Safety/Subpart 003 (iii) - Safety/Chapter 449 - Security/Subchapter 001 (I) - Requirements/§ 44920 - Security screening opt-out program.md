@@ -34,6 +34,10 @@ Termination of Contracts.—The Under Secretary may terminate any contract enter
 
 Section 110(c) of the Aviation and Transportation Security Act, referred to in subsec. (a), is section 110(c) of Pub. L. 107–71, which is set out as a note under section 44901 of this title.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 44901, 44919 of this title.

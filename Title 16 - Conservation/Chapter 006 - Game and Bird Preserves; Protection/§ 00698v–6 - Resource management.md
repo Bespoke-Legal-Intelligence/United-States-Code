@@ -26,7 +26,7 @@ Upon assumption of management of the Preserve under subsection (a) of this secti
 
 #### (1) In general
 
-&emsp;The Trust shall develop programs and activities at the Preserve, and shall have the authority to negotiate directly and enter into such agreements, leases, contracts and other arrangements with any person, firm, association, organization, corporation or governmental entity, including without limitation, entities of Federal, State, and local governments, and consultation with Indian tribes and Pueblos, as are necessary and appropriate to carry out its authorized activities or fulfill the purposes of sections 698v to 698v–10 of this title. Any such agreements may be entered into without regard to section 303b of title 40.
+&emsp;The Trust shall develop programs and activities at the Preserve, and shall have the authority to negotiate directly and enter into such agreements, leases, contracts and other arrangements with any person, firm, association, organization, corporation or governmental entity, including without limitation, entities of Federal, State, and local governments, and consultation with Indian tribes and Pueblos, as are necessary and appropriate to carry out its authorized activities or fulfill the purposes of sections 698v to 698v–10 of this title. Any such agreements may be entered into without regard to section 1302 of title 40.
 
 #### (2) Procedures
 
@@ -119,6 +119,10 @@ The Secretary shall provide law enforcement services under a cooperative agreeme
 The Forest and Rangeland Renewable Resources Planning Act of 1974, referred to in subsec. (f)(1), is Pub. L. 93–378, Aug. 17, 1974, 88 Stat. 476, as amended, which is classified generally to subchapter I (§1600 et seq.) of chapter 36 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1600 of this title and Tables.
 
 The American Indian Religious Freedom Act, referred to in subsec. (f)(5), is Pub. L. 95–341, Aug. 11, 1978, 92 Stat. 469, as amended, which is classified to sections 1996 and 1996a of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1996 of Title 42 and Tables.
+
+#### Codification
+
+“Section 1302 of title 40” substituted in subsec. (c)(1) for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Section Referred to in Other Sections
 

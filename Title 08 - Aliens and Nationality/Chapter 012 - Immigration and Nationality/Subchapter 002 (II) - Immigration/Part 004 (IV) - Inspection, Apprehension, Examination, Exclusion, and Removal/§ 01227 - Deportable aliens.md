@@ -2,7 +2,7 @@
 
 #### (a) Classes of deportable aliens
 
-Any alien (including an alien crewman) in and admitted to the United States shall, upon the order of the Attorney General, be removed if the alien is within one or more of the following classes of deportable aliens:
+Any alien (including an alien crewman) in and admitted to the United States shall, upon the order of the Attorney General, be removed if thealien is within one or more of the following classes of deportable aliens:
 
 #### (1) Inadmissible at time of entry or of adjustment of status or violates status
 
@@ -60,7 +60,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (H) Waiver authorized for certain misrepresentations
 
-&emsp;&emsp;The provisions of this paragraph relating to the removal of aliens within the United States on the ground that they were inadmissible at the time of admission as aliens described in section 1182(a)(6)(C)(i) of thistitle, whether willful or innocent, may, in the discretion of the Attorney General, be waived for any alien (other than an alien described in paragraph (4)(D)) who—
+&emsp;&emsp;The provisions of this paragraph relating to the removal of aliens within the United States on the ground that they were inadmissible at the time of admission as aliens described in section 1182(a)(6)(C)(i) of this title, whether willful or innocent, may, in the discretion of the Attorney General, be waived for any alien (other than an alien described in paragraph (4)(D)) who—
 
 &emsp;&emsp;&emsp;(i)(I) is the spouse, parent, son, or daughter of a citizen of the United States or of an alien lawfully admitted to the United States for permanent residence; and
 
@@ -210,7 +210,7 @@ Any alien (including an alien crewman) in and admitted to the United States shal
 
 #### (5) Public charge
 
-&emsp;Any alien who, within five years after the date of entry, has become a public charge from causes not affirmatively shown to have arisen since entry is deportable.
+&emsp;Any alien who, within five years after the date of entry, has become a public charge fromcauses not affirmatively shown to have arisen since entry is deportable.
 
 #### (6) Unlawful voters
 
@@ -262,7 +262,7 @@ Section 112 of the Immigration Act of 1990, referred to in subsec. (a)(1)(E)(ii)
 
 The Military Selective Service Act, referred to in subsec. (a)(2)(D)(iii), is act June 24, 1948, ch. 625, 62 Stat. 604, as amended, which is classified principally to section 451 et seq. of Title 50, Appendix, War and National Defense. For complete classification of this Act to the Code, see References in Text note set out under section 451 of Title 50, Appendix, and Tables.
 
-The Trading With the Enemy Act, referred to in subsec. (a)(2)(D)(iii), is act Oct. 6, 1917, ch. 106, 40 Stat. 411,as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix. For complete classification of this Act to the Code, see Tables.
+The Trading With the Enemy Act, referred to in subsec. (a)(2)(D)(iii), is act Oct. 6, 1917, ch. 106, 40 Stat. 411, as amended, which is classified to sections 1 to 6, 7 to 39 and 41 to 44 of Title 50, Appendix. For complete classification of this Act to the Code, see Tables.
 
 The Alien Registration Act, 1940, referred to in subsec. (a)(3)(B)(i), is act June 28, 1940, ch. 439, 54 Stat. 670, as amended. Section 36(a) of that act was classified to section 457(c) of this title and was repealed by section 403(a)(39) of act June 27, 1952.
 
@@ -430,7 +430,7 @@ Subsec. (g). Pub. L. 99–639, §2(b)(2), added subsec. (g).
 
 1978—Subsec. (a)(19). Pub. L. 95–549 added par. (19).
 
-1976—Subsec. (a)(10). Pub. L. 94–571 substituted “(other than an alien described in section 1101(a)(27)(A) of this title and aliens born in the Western Hemisphere)” for “(other than an alien who is a native-born citizen of any of the countries enumerated in section 1101(a)(27)(A) of this title and an alien described in section 1101(a)(27)(B) of this title)”.
+1976—Subsec. (a)(10). Pub. L. 94–571 substituted “(other than an alien described in section 1101(a)(27)(A)of this title and aliens born in the Western Hemisphere)” for “(other than an alien who is a native-born citizen of any of the countries enumerated in section 1101(a)(27)(A) of this title and an alien described in section 1101(a)(27)(B) of this title)”.
 
 1965—Subsec. (a)(10). Pub. L. 89–236 substituted “section 1101(a)(27)(A) of this title” for “section 1101(a)(27)(C) of this title”.
 
@@ -498,7 +498,7 @@ Section 602(d) of Pub. L. 101–649 provided that: “The amendments made by thi
 
 #### Effective Date of 1988 Amendments
 
-Section 7344(b) of Pub. L. 100–690 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to any alien who has been convicted, on or after the date of the enactment of this Act \[Nov. 18, 1988\], of an aggravated felony.”
+Section 7344(b) of Pub. L. 100–690 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply to any alien who has been convicted, on or after the date of the enactment of this Act \[Nov. 18, 1988\], of an aggravated felony.”
 
 Section 7348(b) of Pub. L. 100–690 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply to any alien convicted, on or after the date of the enactment of this Act \[Nov. 18, 1988\], of possessing any firearm or destructive device referred to in such subsection.”
 
@@ -530,13 +530,17 @@ Amendment by act July 18, 1956, effective July 19, 1956, see section 401 of act 
 
 Section 602(c) of Pub. L. 101–649 provided that: “Notwithstanding the amendments made by this section \[amending this section\], any alien who was deportable because of a conviction (before the date of the enactment of this Act \[Nov. 29, 1990\]) of an offense referred to in paragraph (15), (16), (17), or (18) of section 241(a) \[now 237\] of the Immigration and Nationality Act \[8 U.S.C. 1227\], as in effect before the date of the enactment of this Act, shall be considered to remain so deportable. Except as otherwise specifically provided in such section and subsection (d) \[set out as a note above\], the provisions of such section, as amended by this section, shall apply to all aliens described in subsection (a) thereof notwithstanding that (1) any such alien entered the United States before the date of the enactment of this Act, or (2) the facts, by reason of which an alien is described in such subsection, occurred before the date of the enactment of this Act.”
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Report on Criminal Aliens
 
 Section 510 of Pub. L. 101–649, as amended by Pub. L. 102–232, title III, §306(a)(8), (9), Dec. 12, 1991, 105 Stat. 1751, provided that the Attorney General was to submit to appropriate Committees of Congress, by not later than Dec. 1, 1991, a report describing efforts of Immigration and Naturalization Service to identify, apprehend, detain, and remove from the United States aliens who have been convicted of crimes in the United States and including a criminal alien census and removal plan.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1154, 1158, 1226, 1226a, 1228, 1229a, 1229b, 1229c, 1231, 1252, 1253, 1255, 1259, 1364, 1367, 1371, 1531 of this title; title 42 sections 402, 1004.
+This section is referred to in sections 1154, 1158, 1226, 1226a, 1228, 1229a, 1229b, 1229c, 1231, 1252, 1253, 1255, 1259, 1364, 1367, 1371, 1531 of this title; title 6 section 236; title 42 sections 402, 1004.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “in”.</i>
 

@@ -14,7 +14,7 @@ The full faith and credit of the United States is pledged to the payment of all 
 
 #### (d) Collection of fees
 
-The Administration shall not collect any fee for any guarantee under this section: <i>Provided</i>, That nothing herein shall preclude any agent of the Administration from collecting a fee approved by the Administration for the functions described in subsection (f)(2) of this section.
+The Administration shall not collect any fee for any guarantee under this section: <i>Provided</i>, That nothing herein shall preclude any agent ofthe Administration from collecting a fee approved by the Administration for the functions described in subsection (f)(2) of this section.
 
 #### (e) Subrogation rights; ownership rights in debentures
 
@@ -60,7 +60,7 @@ Section 18008(d) of Pub. L. 99–272 provided that:
 
 “(1) Notwithstanding any law, rule, or regulation, within 60 days after the date of enactment of this Act \[Apr. 7, 1986\], the Small Business Administration shall develop and promulgate final rules and regulations to implement the central registration provisions provided for in section 505(f)(1) of the Small Business Investment Act \[15 U.S.C. 697b(f)(1)\], and shall contract with an agent for an initial period of not to exceed two years to carry out the functions provided for in section 505(f)(2) of such Act.
 
-“(2) Notwithstanding any law, rule or regulation, within 60 days after the date of enactment of this Act \[Apr. 7, 1986\], the Small Business Administration alsoshall consult with representatives of appropriate Federal and State agencies and officials, the securities industry, financial institutions and lenders, and small business persons, and shall develop and promulgate final rules and regulations to implement sections 504 and 505 of the Small Business Investment Act \[15 U.S.C. 697a, 697b\].”
+“(2) Notwithstanding any law, rule or regulation, within 60 days after the date of enactment of this Act \[Apr. 7, 1986\], the Small Business Administration also shall consult with representatives of appropriate Federal and State agencies and officials, the securities industry, financial institutions and lenders, and small business persons, and shall develop and promulgate final rules and regulations to implement sections 504 and 505 of the Small Business Investment Act \[15 U.S.C. 697a, 697b\].”
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ The head of the lead agency shall—
 
 &emsp;(3) ensure that displacing agencies implement section 4605 of this title fairly and without discrimination in accordance with section 4605(b)(2)(B) of this title;
 
-&emsp;(4) ensure that relocation assistance activities under this chapter are coordinated withlow-income housing assistance programs or projects by a Federal agency or a State or State agency with Federal financial assistance;
+&emsp;(4) ensure that relocation assistance activities under this chapter are coordinated with low-income housing assistance programs or projects by a Federal agency or a State or State agency with Federal financial assistance;
 
 &emsp;(5) monitor, in coordination with other Federal agencies, the implementation and enforcement of this chapter and report to the Congress, as appropriate, on any major issues or problems with respect to any policy or other provision of this chapter; and
 
@@ -20,7 +20,7 @@ The head of the lead agency shall—
 
 The head of the lead agency is authorized to issue such regulations and establish such procedures as he may determine to be necessary to assure—
 
-&emsp;(1) that the payments and assistance authorized by this chapter shall be administered in a manner which is fair and reasonable and as uniform as practicable;
+&emsp;(1) that the payments and assistance authorized by this chapter shall be administered in amanner which is fair and reasonable and as uniform as practicable;
 
 &emsp;(2) that a displaced person who makes proper application for a payment authorized for such person by this subchapter shall be paid promptly after a move or, in hardship cases, be paid in advance; and
 
@@ -59,6 +59,10 @@ Amendment by Pub. L. 102–240 effective Dec. 18, 1991, and applicable to funds 
 #### Effective Date of 1987 Amendment
 
 Amendment by Pub. L. 100–17 effective Apr. 2, 1987, to the extent such amendment prescribes authority to develop, publish, and issue regulations, and otherwise to take effect on effective date provided in such regulations but not later than 2 years after Apr. 2, 1987, see section 418 of Pub. L. 100–17, set out as a note under section 4601 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Improvement of Administration and Implementation of This Chapter
 

@@ -16,7 +16,7 @@
 
 &emsp;(2) to assist States to establish and operate a protection and advocacy system for individuals with mental illness which will—
 
-&emsp;&emsp;(A) protect and advocate the rights of such individuals through activities to ensure the enforcement of the Constitution and Federal and State statutes; and
+&emsp;&emsp;(A) protect and advocate the rights of such individuals through activities to ensure theenforcement of the Constitution and Federal and State statutes; and
 
 &emsp;&emsp;(B) investigate incidents of abuse and neglect of individuals with mental illness if the incidents are reported to the system or if there is probable cause to believe that the incidents occurred.
 

@@ -14,9 +14,9 @@ Department of War designated Department of the Army and title of Secretary of Wa
 
 #### Transfer of Functions
 
-Contract Settlement Advisory Board and all its property, records, etc., transferred to General Services Administration by section 102(b) of act June 20, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works, but was to retain and perform its functions.
+Contract Settlement Advisory Board and all its property, records, etc., transferred to General Services Administration, but with the functions of the Board to be performed by the Board under conditions and limitations prescribed by law, by section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
-Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, which is classified to section 752(b) of Title 40.
+Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) of former Title 40, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 Contract Settlement Advisory Board transferred to Department of the Treasury by section 8 of Ex. Ord. No. 9809 and section 201 of Reorg. Plan No. 1 of 1947. Reorg. Plan No. 1 of 1947 is set out in the Appendix to Title 5, Government Organization and Employees.
 
@@ -28,7 +28,7 @@ Administrator of Foreign Economic Administration changed to Secretary of State i
 
 #### Effective Date of Transfer of Functions
 
-Transfer of functions by act June 30, 1949, as effective July 1, 1949, see section 605 of act June 30, 1949, set out as an Effective Date note under section 471 of Title 40, Public Buildings, Property, and Works.
+Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Secretary of the Air Force
 
@@ -41,8 +41,4 @@ Reorg. Plan No. 1 of 1957, §6(a), eff. June 30, 1957, 22 F.R. 4633, 71 Stat. 64
 #### Termination of Advisory Boards
 
 Advisory boards in existence on Jan. 5, 1973, to terminate not later than the expiration of the 2-year period following Jan. 5, 1973, unless, in the case of a board established by the President or an officer of the Federal Government, such board is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a board established by the Congress, its duration is otherwise provided by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 section 752.
 

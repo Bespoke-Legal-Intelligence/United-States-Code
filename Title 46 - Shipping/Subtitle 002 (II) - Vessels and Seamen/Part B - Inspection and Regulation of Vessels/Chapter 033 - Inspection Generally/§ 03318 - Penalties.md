@@ -36,7 +36,7 @@
 
 &emsp;(4) is an officer or member of the board of directors of a school, organization, association, partnership, or corporation owning a nautical school vessel operated in violation of a regulation prescribed for a nautical school vessel.
 
-(h) An owner, charterer, managing operator, agent, master, or individual in charge of a vessel that fails to give the notice required by section 3304(b) of this title is liable to the Government for a civil penalty of not more than $1,000. The vessel also is liable in rem for the penalty.
+(h) An owner, charterer, managing operator, agent, master, or individual in charge of a vesselthat fails to give the notice required by section 3304(b) of this title is liable to the Government for a civil penalty of not more than $1,000. The vessel also is liable in rem for the penalty.
 
 (i) A person violating section 3309(c) of this title is liable to the Government for a civil penalty of not more than $1,000.
 

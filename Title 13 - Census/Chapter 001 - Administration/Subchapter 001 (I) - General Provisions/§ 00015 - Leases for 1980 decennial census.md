@@ -6,7 +6,7 @@ The 15 percent limitation contained in section 322 <sup>1</sup> of the Act of J
 
 #### References in Text
 
-Section 322 of the Act of June 30, 1932 (47 Stat. 412; 40 U.S.C. 278a), referred to in text, was repealed by Pub. L. 100–678, §7, Nov. 17, 1988, 102 Stat. 4052.
+Section 322 of the Act of June 30, 1932 (47 Stat. 412; \[former\] 40 U.S.C. 278a), referred to in text, was repealed by Pub. L. 100–678, §7, Nov. 17, 1988, 102 Stat. 4052.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -58,7 +58,7 @@ Temporary Exemptions.—(1) On application of a manufacturer, the Secretary of T
 
 (f)
 
-Application.—(1) This section revises, but does not replace, Standard 208 as in effect on December 18, 1991, including the amendment of March 26, 1991 (56 Fed. Reg. 12472), to Standard 208, extending the requirements for automatic crash protection, with incentives for more innovative automatic crash protection, to trucks, buses, and multipurpose passenger vehicles. This section may not be construed as—
+Application.—(1) This section revises, but does not replace, Standard 208 as in effect on December 18, 1991, including the amendment of March 26, 1991 (56 Fed. Reg. 12472), to Standard 208, extending the requirements for automaticcrash protection, with incentives for more innovative automatic crash protection, to trucks, buses, and multipurpose passenger vehicles. This section may not be construed as—
 
 &emsp;(A) affecting another provision of law carried out by the Secretary of Transportation applicable to passenger cars, buses, multipurpose passenger vehicles, or trucks; or
 
@@ -176,13 +176,129 @@ In subsection (h)(2), the words “for both front outboard seating positions” 
 
 #### References in Text
 
-The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed by Pub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
+The National Traffic and Motor Vehicle Safety Act of 1966, referred to in subsec. (b)(1), is Pub. L. 89–563, Sept. 9, 1966, 80 Stat. 718, as amended, which was classified generally to chapter 38 (§1381 et seq.) of Title 15, Commerce and Trade, and was substantially repealed byPub. L. 103–272, §7(b), July 5, 1994, 108 Stat. 1379, and reenacted by the first section thereof as this chapter.
 
 #### Amendments
 
 1998—Subsec. (g)(1). Pub. L. 105–178 substituted “annually” for “every 6 months” in introductory provisions.
 
 #### Improving the Safety of Child Restraints
+
+Pub. L. 107–318, Dec. 4, 2002, 116 Stat. 2772, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as ‘Anton's Law’.
+
+#### “SEC. 2. FINDINGS.
+
+“Congress finds the following:
+
+&emsp;“(1) It is the policy of the Department of Transportation that all child occupants of motor vehicles, regardless of seating position, be appropriately restrained in order to reduce the incidence of injuries and fatalities resulting from motor vehicle crashes on the streets, roads, and highways.
+
+&emsp;“(2) Research has shown that very few children between the ages of 4 to 8 years old are in the appropriate restraint for their age when riding in passenger motor vehicles.
+
+&emsp;“(3) Children who have outgrown their child safety seats should ride in a belt-positioning booster seat until an adult seat belt fits properly.
+
+&emsp;“(4) Children who were properly restrained when riding in passenger motor vehicles suffered less severe injuries from accidents than children not properly restrained.
+
+#### “SEC. 3. IMPROVEMENT OF SAFETY OF CHILD RESTRAINTS IN PASSENGER MOTOR VEHICLES.
+
+“(a)
+
+In General.—The Secretary of Transportation (hereafter referred to as the ‘Secretary’) shall initiate a rulemaking proceeding to establish performance requirements for child restraints, including booster seats, for the restraint of children weighing more than 50 pounds.
+
+“(b)
+
+Elements for Consideration.—In the rulemaking proceeding required by subsection (a), the Secretary shall—
+
+&emsp;“(1) consider whether to include injury performance criteria for child restraints, including booster seats and other products for use in passenger motor vehicles for the restraint of children weighing more than 50 pounds, under the requirements established in the rulemaking proceeding;
+
+&emsp;“(2) consider whether to establish performance requirements for seat belt fit when used with booster seats and other belt guidance devices;
+
+&emsp;“(3) consider whether to address situations where children weighing more than 50 pounds only have access to seating positions with lap belts, such as allowing tethered child restraints for such children; and
+
+&emsp;“(4) review the definition of the term ‘booster seat’ in Federal motor vehicle safety standard No. 213 under section 571.213 of title 49, Code of Federal Regulations, to determine if it is sufficiently comprehensive.
+
+“(c)
+
+Completion.—The Secretary shall complete the rulemaking proceeding required by subsection (a) not later than 30 months after the date of the enactment of this Act \[Dec. 4, 2002\].
+
+#### “SEC. 4. DEVELOPMENT OF ANTHROPOMORPHIC TEST DEVICE SIMULATING A 10-YEAR OLD CHILD.
+
+“(a)
+
+Development and Evaluation.—Not later than 24 months after the date of the enactment of this Act \[Dec. 4, 2002\], the Secretary shall develop and evaluate an anthropomorphic test device that simulates a 10-year old child for use in testing child restraints used in passenger motor vehicles.
+
+“(b)
+
+Adoption by Rulemaking.—Within 1 year following the development and evaluation carried out under subsection (a), the Secretary shall initiate a rulemaking proceeding for the adoption of an anthropomorphic test device as developed under subsection (a).
+
+#### “SEC. 5. REQUIREMENTS FOR INSTALLATION OF LAP AND SHOULDER BELTS.
+
+“(a)
+
+In General.—Not later than 24 months after the date of the enactment of this Act \[Dec. 4, 2002\], the Secretary shall complete a rulemaking proceeding to amend Federal motor vehicle safety standard No. 208 under section 571.208 of title 49, Code of Federal Regulations, relating to occupant crash protection, in order to—
+
+&emsp;“(1) require a lap and shoulder belt assembly for each rear designated seating position in a passenger motor vehicle with a gross vehicle weight rating of 10,000 pounds or less, except that if the Secretary determines that installation of a lap and shoulder belt assembly is not practicable for a particular designated seating position in a particular type of passenger motor vehicle, the Secretary may exclude the designated seating position from the requirement; and
+
+&emsp;“(2) apply that requirement to passenger motor vehicles in phases in accordance with subsection (b).
+
+“(b)
+
+Implementation Schedule.—The requirement prescribed under subsection (a)(1) shall be implemented in phases on a production year basis beginning with the production year that begins not later than 12 months after the end of the year in which the regulations are prescribed under subsection (a). The final rule shall apply to all passenger motor vehicles with a gross vehicle weight rating of 10,000 pounds or less that are manufactured in the third production year of the implementation phase-in under the schedule.
+
+#### “SEC. 6. EVALUATION OF INTEGRATED CHILD SAFETY SYSTEMS.
+
+“(a)
+
+Evaluation.—Not later than 180 days after the date of enactment of this Act \[Dec. 4, 2002\], the Secretary shall initiate an evaluation of integrated or built-in child restraints and booster seats. The evaluation should include—
+
+&emsp;“(1) the safety of the child restraint and correctness of fit for the child;
+
+&emsp;“(2) the availability of testing data on the system and vehicle in which the child restraint will be used;
+
+&emsp;“(3) the compatibility of the child restraint with different makes and models;
+
+&emsp;“(4) the cost-effectiveness of mass production of the child restraint for consumers;
+
+&emsp;“(5) the ease of use and relative availability of the child restraint to children riding in motor vehicles; and
+
+&emsp;“(6) the benefits of built-in seats for improving compliance with State child occupant restraint laws.
+
+“(b)
+
+Report.—Not later than 12 months after the date of enactment of this Act \[Dec. 4, 2002\], the Secretary shall transmit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate a report of this evaluation.
+
+#### “SEC. 7. DEFINITIONS.
+
+“As used in this Act, the following definitions apply:
+
+&emsp;“(1)
+
+Child restraint.—The term ‘child restraint’ means any product designed to provide restraint to a child (including booster seats and other products used with a lap and shoulder belt assembly) that meets applicable Federal motor vehicle safety standards prescribed by the National Highway Traffic Safety Administration.
+
+&emsp;“(2)
+
+Production year.—The term ‘production year’ means the 12-month period between September 1 of a year and August 31 of the following year.
+
+&emsp;“(3)
+
+Passenger motor vehicle.—The term ‘passenger motor vehicle’ has the meaning given that term in section 405(f)(5) of title 23, United States Code.
+
+#### “SEC. 8. AUTHORIZATION OF APPROPRIATIONS.
+
+“(a)
+
+In General.—There are authorized to be appropriated $5,000,000 to the Secretary of Transportation for—
+
+&emsp;“(1) the evaluation required by section 6 of this Act; and
+
+&emsp;“(2) research of the nature and causes of injury to children involved in motor vehicle crashes.
+
+“(b)
+
+Limitation.—Funds appropriated under subsection (a) shall not be available for the general administrative expenses of the Secretary.”
 
 Pub. L. 106–414, §14, Nov. 1, 2000, 114 Stat. 1806, provided that:
 
@@ -274,7 +390,7 @@ Coordination of effective dates.—The requirements of S13 of Standard No. 208 s
 
 &emsp;“(5)
 
-Credit for early compliance.—To encourage early compliance, the Secretary is directed to include in the notice of proposed rulemaking required by paragraph (1) means by which manufacturers may earn credits for future compliance. Credits, on a one-vehicle for one-vehicle basis, may be earned for vehicles certified as being in full compliance under section 30115 of title 49, United States Code, with the rule required by paragraph (2) which are either—
+Credit for early compliance.—To encourage early compliance, the Secretary is directed to include in the notice of proposed rulemaking required by paragraph (1) means by which manufacturers mayearn credits for future compliance. Credits, on a one-vehicle for one-vehicle basis, may be earned for vehicles certified as being in full compliance under section 30115 of title 49, United States Code, with the rule required by paragraph (2) which are either—
 
 &emsp;&emsp;“(A) so certified in advance of the phase-in period; or
 

@@ -42,7 +42,7 @@ The Commission shall establish such regulations as are necessary to ensure reaso
 
 &emsp;(A) the term “essential telephones” means only coin-operated telephones, telephones provided for emergency use, and other telephones frequently needed for use by persons using such hearing aids;
 
-&emsp;(B) the term “public mobile services” means air-to-ground radiotelephone services, cellular radio telecommunications services, offshore radio, rural radio service, public land mobile telephone service, and other common carrier radio communication services covered by part 22 of title 47 of the Code of Federal Regulations;
+&emsp;(B) the term “public mobile services” means air-to-ground radiotelephone services, cellular radio telecommunications services, offshoreradio, rural radio service, public land mobile telephone service, and other common carrier radio communication services covered by part 22 of title 47 of the Code of Federal Regulations;
 
 &emsp;(C) the term “private radio services” means private land mobile radio services and other communications services characterized by the Commission in its rules as private radio services; and
 

@@ -54,7 +54,7 @@ In the event the Secretary and a participating Indian tribe are unable to agree,
 
 #### (1) In general
 
-&emsp;If the Secretary rejects an offer made under subsection (b) of this section (or one or moreprovisions or funding levels in such offer), the Secretary shall provide—
+&emsp;If the Secretary rejects an offer made under subsection (b) of this section (or one or more provisions or funding levels in such offer), the Secretary shall provide—
 
 &emsp;&emsp;(A) a timely written notification to the Indian tribe that contains a specific finding that clearly demonstrates, or that is supported by a controlling legal authority, that—
 

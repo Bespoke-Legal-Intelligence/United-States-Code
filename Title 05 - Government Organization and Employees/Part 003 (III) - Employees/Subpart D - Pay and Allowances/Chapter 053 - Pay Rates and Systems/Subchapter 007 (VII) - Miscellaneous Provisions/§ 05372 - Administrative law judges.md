@@ -77,7 +77,7 @@ Pub. L. 95–251 substituted “Administrative law judges” for “Hearing exam
 
 #### Effective Date of 1990 Amendment
 
-Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 101–509 effective on such date as the President shall determine, but not earlier than 90 days, and not later than 180 days, after Nov. 5, 1990, see section 529 \[title III, §305\] of Pub. L. 101–509, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -89,45 +89,49 @@ Section 529 \[title I, §104(e)\] of Pub. L. 101–509 provided that: “In maki
 
 #### Pay Increases
 
-2001—The President, under Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of this title, adjusted the rates of basic pay for administrative law judges effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2001, as follows:
+2003—The President, under Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of this title, adjusted the rates of basic pay for administrative law judges effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2003, as follows:
 
 AL–3/A
 
-$82,100
+$89,200
 
 AL–3/B
 
-88,300
+96,000
 
 AL–3/C
 
-94,700
+102,900
 
 AL–3/D
 
-101,000
+109,800
 
 AL–3/E
 
-107,300
+116,600
 
 AL–3/F
 
-113,600
+123,400
 
 AL–2
 
-120,000
+130,400
 
 AL–1
 
-125,700
+134,000
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-2000—Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for adjustment of pay rates effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of this title.
+2002—The President, under Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, which provided for adjustment of pay rates effective Jan. 1, 2002, was superseded by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of this title.
+
+2001—Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided for adjustment of pay rates effective Jan. 1, 2001, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639.
+
+2000—Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for adjustment of pay rates effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 559, 1305, 5304, 5372b, 5377, 5380, 7323 of this title; title 15 section 1715; title 29 section 661; title 30 section 938; title 38 section 7101A; title 42 sections 2000e–4, 3608.
+This section is referred to in sections 559, 1305, 5304, 5372b, 5377, 5380, 7323 of this title; title 15 section 1715;title 29 section 661; title 30 section 938; title 38 section 7101A; title 42 sections 2000e–4, 3608.
 

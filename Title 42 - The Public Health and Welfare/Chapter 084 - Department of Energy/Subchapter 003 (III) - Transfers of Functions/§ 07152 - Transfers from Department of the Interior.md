@@ -34,7 +34,7 @@ There are transferred to, and vested in, the Secretary those functions of the Se
 
 #### References in Text
 
-The Bonneville Project Act of 1937, referred to in subsec. (a)(1)(C), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, as amended, which is classified generally to chapter 12B (§832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
+The Bonneville Project Act of 1937, referred to in subsec. (a)(1)(C), is act Aug. 20, 1937, ch. 720, 50 Stat. 731, asamended, which is classified generally to chapter 12B (§832 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 832 of Title 16 and Tables.
 
 The Federal Columbia River Transmission System Act, referred to in subsec. (a)(1)(C), is Pub. L. 93–454, Oct. 18, 1974, 88 Stat. 1376, as amended, which is classified generally to chapter 12G (§838 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 838 of Title 16 and Tables.
 
@@ -54,7 +54,7 @@ Subsec. (a)(2). Pub. L. 104–58, §104(h)(2), inserted “and” after “South
 
 #### Change of Name
 
-Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out asa note under section 1 of Title 30, Mineral Lands and Mining.
+Bureau of Mines redesignated United States Bureau of Mines by section 10(b) of Pub. L. 102–285, set out as a note under section 1 of Title 30, Mineral Lands and Mining.
 
 #### Effective Date of 1995 Amendment
 
@@ -126,7 +126,7 @@ Subsequent Transfers.—Except for subsequent assignment of interest in Eklutna 
 
 “(c)
 
-Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to review decisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
+Review.—(1) The United States District Court for the District of Alaska shall have jurisdiction to reviewdecisions made under the Memorandum of Agreement and to enforce the provisions of the Memorandum of Agreement, including the remedy of specific performance.
 
 “(2) An action seeking review of a Fish and Wildlife Program (‘Program’) of the Governor of Alaska under the Memorandum of Agreement or challenging actions of any of the parties to the Memorandum of Agreement prior to the adoption of the Program shall be brought not later than 90 days after the date on which the Program is adopted by the Governor of Alaska, or be barred.
 
@@ -184,7 +184,7 @@ DOE Organization Act.—As of the later of the two dates determined in paragraph
 
 “(i)
 
-Disposal.—The sales of Eklutna and Snettisham under this title are not considered disposal of Federal surplus property under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 484) \[see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works\] or the Act of October 3, 1944, popularly referred to as the ‘Surplus Property Act of 1944’ (50 U.S.C. App. 1622).
+Disposal.—The sales of Eklutna and Snettisham under this title are not considered disposal of Federal surplus property under the Federal Property and Administrative Services Act of 1949 \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\] (40 U.S.C. 484) \[now 40 U.S.C. 541–555\] or the Act of October 3, 1944, popularly referred to as the ‘Surplus Property Act of 1944’ (50 U.S.C. App. 1622).
 
 #### “SEC. 105. OTHER FEDERAL HYDROELECTRIC PROJECTS.
 

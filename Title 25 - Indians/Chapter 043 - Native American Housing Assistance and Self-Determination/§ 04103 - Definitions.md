@@ -98,7 +98,7 @@ For purposes of this chapter, the following definitions shall apply:
 
 #### (B) Federally recognized tribe
 
-&emsp;&emsp;The term “federally recognized tribe” means any Indian tribe, band, nation, or other organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
+&emsp;&emsp;The term “federally recognized tribe” means any Indian tribe, band, nation, orother organized group or community of Indians, including any Alaska Native village or regional or village corporation as defined in or established pursuant to the Alaska Native Claims Settlement Act \[43 U.S.C. 1601 et seq.\], that is recognized as eligible for the special programs and services provided by the United States to Indians because of their status as Indians pursuant to the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.).
 
 #### (C) State recognized tribe
 
@@ -198,7 +198,21 @@ For purposes of this chapter, the following definitions shall apply:
 
 &emsp;&emsp;A tribally designated housing entity may be authorized or established by one or more Indian tribes to act on behalf of each such tribe authorizing or establishing the housing entity.
 
-(Pub. L. 104–330, §4, Oct. 26, 1996, 110 Stat. 4018; Pub. L. 105–256, §13(b), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 105–276, title V, §595(e)(1), (2), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–402, title IV, §401(b)(2), Oct. 30, 2000, 114 Stat. 1737.)
+#### (22) Housing related community development
+
+#### (A) In general
+
+&emsp;&emsp;The term “housing related community development” means any tribally-owned and operated facility, business, activity, or infrastructure that—
+
+&emsp;&emsp;&emsp;(i) is necessary to the direct construction of reservation housing; and
+
+&emsp;&emsp;&emsp;(ii) would help an Indian tribe or its tribally-designated housing authority reduce the cost of construction of Indian housing or otherwise promote the findings of this chapter.
+
+#### (B) Exclusion
+
+&emsp;&emsp;The term “housing and community development” does not include any activity conducted by any Indian tribe under the Indian Gaming Regulatory Act \[25 U.S.C. 2701 et seq.\].
+
+(Pub. L. 104–330, §4, Oct. 26, 1996, 110 Stat. 4018; Pub. L. 105–256, §13(b), Oct. 14, 1998, 112 Stat. 1900; Pub. L. 105–276, title V, §595(e)(1), (2), Oct. 21, 1998, 112 Stat. 2656; Pub. L. 106–402, title IV, §401(b)(2), Oct. 30, 2000, 114 Stat. 1737; Pub. L. 107–292, §3, Nov. 13, 2002, 116 Stat. 2053.)
 
 #### References in Text
 
@@ -210,7 +224,11 @@ For the effective date under section 705, referred to in par. (12)(C)(i)(II), as
 
 The United States Housing Act of 1937, referred to in pars. (12)(C)(i)(II) and (21)(A)(i), is act Sept. 1, 1937, ch. 896, as revised generally by Pub. L. 93–383, title II, §201(a), Aug. 22, 1974, 88 Stat. 653, which is classified generally to chapter 8 (§1437 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1437 of Title 42 and Tables.
 
+The Indian Gaming Regulatory Act, referred to in par. (22)(B), is Pub. L. 100–497, Oct. 17, 1988, 102 Stat. 2467, as amended, which is classified principally to chapter 29 (§2701 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 2701 of this title and Tables.
+
 #### Amendments
+
+2002—Par. (22). Pub. L. 107–292 added par. (22).
 
 2000—Par. (17)(C). Pub. L. 106–402 substituted “as defined in section 15002 of title 42” for “as defined in section 6001 of title 42”.
 

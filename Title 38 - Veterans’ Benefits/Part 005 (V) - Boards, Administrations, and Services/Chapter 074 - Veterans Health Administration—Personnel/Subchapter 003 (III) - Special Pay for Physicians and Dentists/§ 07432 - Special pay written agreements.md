@@ -16,7 +16,7 @@
 
 (B) The Secretary may suspend a special pay agreement entered into under this section in the case of a physician or dentist who, having entered into the special pay agreement, enters a residency training program. Any such suspension shall terminate when the physician or dentist completes, withdraws from, or is no longer a participant in the program. During the period of such a suspension, the physician or dentist is not subject to the provisions of paragraph (1).
 
-(3) Any such agreement shall specify the terms under which the Department and the physicianor dentist may elect to terminate the agreement.
+(3) Any such agreement shall specify the terms under which the Department and the physician or dentist may elect to terminate the agreement.
 
 (c)(1) If a proposed agreement under this subchapter will provide a total annual amount of special pay to be provided to a physician or dentist who has previously entered into an agreement under this subchapter (or under section 4118 of this title as in effect before the effective date of the Department of Veterans Affairs Physician and Dentist Recruitment and Retention Act of 1991) that will exceed the previous annual amount of special pay provided for the physician or dentist by more than 50 percent (other than in the case of a physician or dentist employed in an executive position in the Central Office of the Department), or that will be less than the previous annual amount of special pay provided for the physician or dentist by more than 25 percent, the proposed agreement shall be promptly submitted to the Secretary. The proposed agreement shall not take effect if it is disapproved by the Secretary within 60 days after the date on which the physician or dentist entered into the proposed agreement.
 

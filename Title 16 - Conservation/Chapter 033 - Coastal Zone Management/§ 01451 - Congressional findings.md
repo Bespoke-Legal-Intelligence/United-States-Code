@@ -50,7 +50,7 @@ Pub. L. 104–150, §1, June 3, 1996, 110 Stat. 1380, provided that: “This Act
 
 #### Short Title of 1990 Amendment
 
-Section 6201 of title VI of Pub. L. 101–508 provided that: “This subtitle \[subtitle C (§§6201–6217) of title VI of Pub. L. 101–508, enacting sections 1455b, 1456c, and 1460 of this title, amending this section and sections 1452 to 1456b, 1458, 1461, and 1464 of this title, and enacting provisions set out as notes under this section and section 1455 of this title\] may be cited as the ‘Coastal Zone Act Reauthorization Amendments of 1990’.”
+Section 6201 of title VI of Pub. L. 101–508 provided that: “This subtitle \[subtitle C (§§6201–6217) of title VI of Pub. L. 101–508, enacting sections 1455b, 1456c, and 1460 of this title, amending this section and sections 1452 to 1456b, 1458, 1461, and 1464 of this title, and enacting provisions set out as notes under this section andsection 1455 of this title\] may be cited as the ‘Coastal Zone Act Reauthorization Amendments of 1990’.”
 
 #### Short Title of 1986 Amendment
 
@@ -144,7 +144,7 @@ Assessment of Harmful Algal Blooms.—
 
 &emsp;&emsp;“(A) identify alternatives for preventing unnecessary duplication of effort among Federal agencies and departments with respect to harmful algal blooms; and
 
-&emsp;&emsp;“(B) provide for Federal cooperation and coordination with and assistance to the coastal States, Indian tribes, and local governments in the prevention, reduction, management, mitigation, and control of harmful algal blooms and their environmental and public health impacts.
+&emsp;&emsp;“(B) provide for Federal cooperation and coordination with and assistance to the coastal States,Indian tribes, and local governments in the prevention, reduction, management, mitigation, and control of harmful algal blooms and their environmental and public health impacts.
 
 “(c)
 
@@ -212,7 +212,7 @@ Findings.—Congress finds and declares the following:
 
 &emsp;“(5) Nonpoint source pollution is increasingly recognized as a significant factor in coastal water degradation. In urban areas, storm water and combined sewer overflow are linked to major coastal problems, and in rural areas, run-off from agricultural activities may add to coastal pollution.
 
-&emsp;“(6) Coastal planning and development control measures are essential to protect coastal water quality, which is subject to continued ongoing stresses. Currently, not enough is being done to manage and protect our coastal resources.
+&emsp;“(6) Coastal planning and development control measures are essential to protect coastal water quality, which is subject to continued ongoing stresses.Currently, not enough is being done to manage and protect our coastal resources.
 
 &emsp;“(7) Global warming results from the accumulation of man-made gases, released into the atmosphere from such activities as the burning of fossil fuels, deforestation, and the production of chlorofluorocarbons, which trap solar heat in the atmosphere and raise temperatures worldwide. Global warming could result in significant global sea level rise by 2050 resulting from ocean expansion, the melting of snow and ice, and the gradual melting of the polar ice cap. Sea level rise will result in the loss of natural resources such as beaches, dunes, estuaries, and wetlands, and will contribute to the salinization of drinking water supplies. Sea level rise will also result in damage to properties, infrastructures, and public works. There is a growing need to plan for sea level rise.
 

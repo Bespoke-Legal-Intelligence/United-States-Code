@@ -6,7 +6,7 @@ Such fees and expenses as are payable by the United States if earned or incurred
 
 #### Codification
 
-“United States District Court for the District of Puerto Rico” substituted in text for “District Court of the United States for Puerto Rico” in view of section 132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district” and section 119 of Title 28 which states that “Puerto Rico constitutes one judicial district”.
+“United States District Court for the District of Puerto Rico” substituted in text for “District Court of the United States for Puerto Rico” in view of section132(a) of Title 28, Judiciary and Judicial Procedure, which states that “There shall be in each judicial district a district court which shall be a court of record known as the United States District Court for the district” and section 119 of Title 28 which states that “Puerto Rico constitutes one judicial district”.
 
 Section was not enacted as part of the Puerto Rican Federal Relations Act which comprises this chapter.
 

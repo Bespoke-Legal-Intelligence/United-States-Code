@@ -36,7 +36,7 @@ For the purpose of this chapter—
 
 &emsp;&emsp;(C) an employee described in section 2105(c) who has made an election under section 8461(n)(1) to remain covered under this chapter;
 
-> &emsp;whose civilian service after December 31, 1983, is employment for the purposes of title II ofthe Social Security Act and chapter 21 of the Internal Revenue Code of 1986, except that such term does not include—
+> &emsp;whose civilian service after December 31, 1983, is employment for the purposes of title II of the Social Security Act and chapter 21 of the Internal Revenue Code of 1986, except that such term does not include—
 
 &emsp;&emsp;(i) any individual referred to in—
 
@@ -246,7 +246,7 @@ Amendment by Pub. L. 104–208 effective Sept. 30, 1996, and withdrawals and ele
 
 Amendment by Pub. L. 103–353 effective with respect to reemployments initiated on or after the first day after the 60-day period beginning Oct. 13, 1994, with transition rules, see section 8 of Pub. L. 103–353, set out as an Effective Date note under section 4301 of Title 38, Veterans’ Benefits.
 
-Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L. 103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
+Amendment by Pub. L. 103–337 effective Dec. 1, 1994, except as otherwise provided, see section 1691 of Pub. L.103–337, set out as an Effective Date note under section 10001 of Title 10, Armed Forces.
 
 #### Effective Date of 1990 Amendments
 
@@ -272,7 +272,7 @@ In General.—Except as provided in subsection (b), this Act and the amendments 
 
 Exceptions.—(1) Subchapter VII of chapter 84 of title 5, United States Code, as added by section 101 of this Act, shall take effect on the date of the enactment of this Act \[June 6, 1986\].
 
-“(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisionsset out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
+“(2) Except as provided in section 305 of this Act \[enacting and amending provisions set out as notes under section 8331 of this title\], title III of this Act, and the amendments made by such title \[amending sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8432, and 8472 of this title and section 6103 of Title 26, and amending provisions set out as a note under section 8331 of this title\], shall take effect on the date of the enactment of this Act.
 
 “(3) The amendments made by sections 204 and 205 of this Act \[enacting sections 8343a and 8350 of this title and amending section 8342 of this title\] shall take effect on the date of the enactment of this Act.
 
@@ -288,7 +288,7 @@ Pub. L. 106–168, title II, §201, Dec. 12, 1999, 113 Stat. 1817, provided that
 
 #### Short Title of 1998 Amendment
 
-Pub. L. 105–274, §1, Oct. 20, 1998, 112 Stat. 2419, provided that: “This Act \[amending section 8402 of this title and enacting provisions set out as a note under section 8402 of this title\] may be cited as the ‘District of Columbia Courts and Justice Technical Corrections Act of 1998’.”
+Pub. L. 105–274, §1, Oct. 21, 1998, 112 Stat. 2419, provided that: “This Act \[amending section 8402 of this title and enacting provisions set out as a note under section 8402 of this title\] may be cited as the ‘District of Columbia Courts and Justice Technical Corrections Act of 1998’.”
 
 #### Short Title of 1996 Amendment
 
@@ -310,7 +310,11 @@ Section 1 of Pub. L. 99–556 provided that: “This Act \[enacting section 8478
 
 #### Short Title
 
-Section 100(a) of Pub. L. 99–335 provided that: “This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331, 8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
+Section 100(a) of Pub. L. 99–335 provided that: “This Act \[enacting this chapter, sections 8343a, 8349, 8350, and 8351 of this title, and sections 4068 and 4071 to 4071k of Title 22, Foreign Relations and Intercourse, amending sections 2105, 2109, 5102, 5314, 6301, 6303, 8116, 8331,8332, 8334, 8342, 8347, 8348, 8701, 8706, 8714, 8714b, 8714c, 8901, and 8905 of this title, section 1605 of Title 10, Armed Forces, sections 4041 to 4049, 4054 to 4056, 4058, 4060, 4061, 4063, 4064, 4066, and 4067 of Title 22, sections 3121 and 6103 of Title 26, Internal Revenue Code, section 1005 of Title 39, Postal Service, and section 410 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under this section and sections 8331, 8351, 8432, and 8472 of this title, sections 3901 and 4046 of Title 22, and section 6103 of Title 26, and amending provisions set out as notes under section 8331 of this title and sections 402 and 403 of Title 50, War and National Defense\] may be cited as the ‘Federal Employees’ Retirement System Act of 1986’.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Service as Law Enforcement Officer
 
@@ -338,7 +342,7 @@ Section 100A of Pub. L. 99–335 provided that: “The purposes of this Act \[se
 
 #### Use of Normal-Cost Percentage
 
-Section 307 of Pub. L. 99–335, as amended by Pub. L. 100–366, §1, July 13, 1988, 102 Stat. 826, provided that: “Notwithstanding any other provision of law, the normal-cost percentage (as defined by section 8401(23) of title 5, United States Code, as added by this Act) of the Federal Employees’ Retirement System shall be usedto value the cost of such System to the Civil Service Retirement and Disability Fund for all purposes in which the cost of the System is required to be determined by the Federal Government. For any comparisons between the cost of performing commercial activities under the contract with commercial sources and the cost of performing such activities using Government facilities and personnel, the cost of the System shall include the cost of such System to the Civil Service Retirement and Disability Fund as specified in the preceding sentence, the cost of the thrift savings plan under subchapter III of chapter 84 of title 5, United States Code, and the cost of social security.”
+Section 307 of Pub. L. 99–335, as amended by Pub. L. 100–366, §1, July 13, 1988, 102 Stat. 826, provided that: “Notwithstanding any other provision of law, the normal-cost percentage (as defined by section 8401(23) of title 5, United States Code, as added by this Act) of the Federal Employees’ Retirement System shall be used to value the cost of such System to the Civil Service Retirement and Disability Fund for all purposes in which the cost of the System is required to be determined by the Federal Government. For any comparisons between the cost of performing commercial activities under the contract with commercial sources and the cost of performing such activities using Government facilities and personnel, the cost of the System shall include the cost of such System to the Civil Service Retirement and Disability Fund as specified in the preceding sentence, the cost of the thrift savings plan under subchapter III of chapter 84 of title 5, United States Code, and the cost of social security.”
 
 #### First Cost-of-Living Adjustment
 

@@ -24,13 +24,17 @@ Rule 41 of the Federal Rules of Criminal Procedure, referred to in subsec. (b), 
 
 #### Amendments
 
-1988—Subsec. (b). Pub. L. 100–653 substituted “may, when enforcing this chapter, make an arrest without awarrant, in accordance with any guidelines which may be issued by the Attorney General, for any offense under the laws of the United States committed in the person's presence, or for the commission of any felony under the laws of the United States, if the person has reasonable grounds to believe that the person to be arrested has committed or is committing a felony; may search and seize, with or without a warrant, in accordance with any guidelines which may be issued by the Attorney General;” for “may make an arrest without a warrant for any felony violation of this chapter if he has reasonable grounds to believe that the person to be arrested has committed or is committing such violation:”.
+1988—Subsec. (b). Pub. L. 100–653 substituted “may, when enforcing this chapter, make an arrest without a warrant, in accordance with any guidelines which may be issued by the Attorney General, for any offense under the laws of the United States committed in the person's presence, or for the commission of any felony under the laws of the United States, if the person has reasonable grounds to believe that the person to be arrested has committed or is committing a felony; may search and seize, with or without a warrant, in accordance with any guidelines which may be issued by the Attorney General;” for “may make an arrest without a warrant for any felony violation of this chapter if he has reasonable grounds to believe that the person to be arrested has committed or is committing such violation:”.
 
 1984—Subsec. (d). Pub. L. 98–327 substituted a comma for “a reward” after “shall pay” in first sentence, inserted “(1) a reward” before “to any person”, and added cl. (2).
 
 #### Change of Name
 
 “United States magistrate judges” substituted for “United States magistrates” in subsec. (c) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

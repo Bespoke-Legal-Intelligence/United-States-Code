@@ -2,7 +2,7 @@
 
 (a)
 
-General Requirements.—The Secretary of Transportation shall prescribe regulations to carry out a State block grant program. The regulations shall provide that the Secretary may designate not more than 9 qualified States forfiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter to assume administrative responsibility for all airport grant amounts available under this subchapter, except for amounts designated for use at primary airports.
+General Requirements.—The Secretary of Transportation shall prescribe regulations to carry out a State block grant program. The regulations shall provide that the Secretary may designate not more than 9 qualified States for fiscal years 2000 and 2001 and 10 qualified States for each fiscal year thereafter to assume administrative responsibility for all airport grant amounts available under this subchapter, except for amounts designated for use at primary airports.
 
 (b)
 

@@ -36,7 +36,7 @@ Oct. 30, 1986, Pub. L. 99–591, title VI, §6007(i), as added Oct. 9, 1996, Pub
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of this title.
 
 #### Section Referred to in Other Sections
 

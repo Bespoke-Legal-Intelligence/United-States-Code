@@ -26,7 +26,7 @@ Notwithstanding section 1395x(v) of this title, the Secretary shall provide, for
 
 &emsp;&emsp;&emsp;&emsp;(II) For the 12-month period beginning after the period described in subclause (I), such amount (or amounts) shall be equal to the amount (or amounts) determined under subclause (I), updated under subparagraph (B).
 
-&emsp;&emsp;&emsp;&emsp;(III) For periods beginning after the period described in subclause (II), such amount (or amounts) shall be equal to the amount (or amounts) that would have been determined under subclause (I) that would have been made for fiscal year 2001 if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted but if the reduction in limits described in clause (ii) had been in effect, updated under subparagraph (B).
+&emsp;&emsp;&emsp;&emsp;(III) For periods beginning after the period described in subclause (II), such amount (or amounts) shall be equal to the amount (or amounts) that would have been determined under subclause (I) that would have been made for fiscal year 2001 if the system had not been in effect and if section 1395x(v)(1)(L)(ix) of this title had not been enacted but if the reduction in limits described in clause\(ii) had been in effect, updated under subparagraph (B).
 
 &emsp;&emsp;&nbsp;Each such amount shall be standardized in a manner that eliminates the effect of variations in relative case mix and area wage adjustments among different home health agencies in a budget neutral manner consistent with the case mix and wage level adjustments provided under paragraph (4)(A). Under the system, the Secretary may recognize regional differences or differences based upon whether or not the services or agency are in an urbanized area.
 
@@ -96,7 +96,7 @@ With respect to home health services furnished on or after October 1, 1998, no c
 
 &emsp;(1) the claim has the unique identifier (provided under section 1395u(r) of this title) for the physician who prescribed the services or made the certification described in section 1395f(a)(2) or 1395n(a)(2)(A) of this title; and
 
-&emsp;(2) in the case of a service visit described in paragraph (1), (2), (3), or (4) of section 1395x(m) of this title, the claim contains a code (orcodes) specified by the Secretary that identifies the length of time of the service visit, as measured in 15 minute increments.
+&emsp;(2) in the case of a service visit described in paragraph (1), (2), (3), or (4) of section 1395x(m) of this title, the claim contains a code (or codes) specified by the Secretary that identifies the length of time of the service visit, as measured in 15 minute increments.
 
 #### (d) Limitation on review
 
@@ -250,7 +250,7 @@ Adjustment To Reflect Administrative Costs
 
 &emsp;“(1)
 
-In general.—In the case of a home health agency that furnishes home health services to a medicare beneficiary, for each such beneficiary to whom the agency furnished such services during the agency's cost reporting period beginning in fiscal year 2000, the Secretary of Health and Human Services shall pay the agency, in addition to any amount of payment made under section 1861(v)(1)(L) of the Social Security Act (42 U.S.C. 1395x(v)(1)(L)) for the beneficiary and only for such cost reporting period, an aggregate amount of $10 to defray costs incurred by the agency attributable to data collection and reporting requirements under the Outcome and Assessment Information Set (OASIS) required by reason of section 4602(e) of BBA \[the Balanced Budget Act of 1997, Pub. L. 105–33\] (42 U.S.C. 1395fff note).
+In general.—In the case of a home health agency that furnishes home health services to a medicare beneficiary, for each such beneficiary to whom the agency furnished such services during the agency's cost reporting period beginning in fiscal year 2000, the Secretary of Health and Human Services shall pay the agency, in addition to any amount of payment made under section 1861(v)(1)(L) of the Social Security Act (42 U.S.C. 1395x(v)(1)(L)) for the beneficiary and only for such cost reporting period,an aggregate amount of $10 to defray costs incurred by the agency attributable to data collection and reporting requirements under the Outcome and Assessment Information Set (OASIS) required by reason of section 4602(e) of BBA \[the Balanced Budget Act of 1997, Pub. L. 105–33\] (42 U.S.C. 1395fff note).
 
 &emsp;“(2)
 

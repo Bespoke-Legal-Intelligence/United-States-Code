@@ -1,4 +1,0 @@
-### §3005. Repealed. Pub. L. 105–362, title I, §101(d)(1), Nov. 10, 1998, 112 Stat. 3281
-
-Section, Pub. L. 94–463, §6, Oct. 8, 1976, 90 Stat. 1983; Pub. L. 103–437, §4(a)(8), Nov. 2, 1994, 108 Stat. 4582, related to review of activities by Secretary and annual report to Congress.
-

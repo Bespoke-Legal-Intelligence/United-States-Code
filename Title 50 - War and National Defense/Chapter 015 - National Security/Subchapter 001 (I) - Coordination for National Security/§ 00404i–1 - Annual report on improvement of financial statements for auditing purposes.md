@@ -1,0 +1,10 @@
+### §404i–1. Annual report on improvement of financial statements for auditing purposes
+
+Not later each year than the date provided in section 415b of this title, the Director of Central Intelligence, the Director of the National Security Agency, the Director of the Defense Intelligence Agency, and the Director of the National Imagery and Mapping Agency shall each submit to the congressional intelligence committees a report describing the activities being undertaken by such official to ensure that the financial statements of such agency can be audited in accordance with applicable law and requirements of the Office of Management and Budget.
+
+(July 26, 1947, ch. 343, title I, §114A, as added Pub. L. 107–306, title VIII, §823(a), Nov. 27, 2002, 116 Stat. 2427.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 415b of this title.
+

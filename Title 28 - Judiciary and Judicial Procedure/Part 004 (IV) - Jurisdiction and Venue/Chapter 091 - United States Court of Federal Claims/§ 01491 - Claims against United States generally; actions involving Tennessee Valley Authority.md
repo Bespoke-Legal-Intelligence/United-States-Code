@@ -22,7 +22,7 @@ Based on title 28, U.S.C., 1940 ed., §250(1) (Mar. 3, 1911, ch. 231; §145, 36 
 
 District courts are given concurrent jurisdiction of certain claims against the United States under section 1346 of this title. (See also reviser's note under that section and section 1621 of this title relating to jurisdiction of the Tax Court.)
 
-The proviso in section 250(1) of title 28, U.S.C., 1940 ed., relating to claims growing out of the Civil War, commonly known as “war claims,” and other claims which had been reported adversely before March 3, 1887 by any court, department, or commission authorized to determine them, were omitted as obsolete.
+The proviso in section 250(1) of title 28, U.S.C., 1940 ed., relating to claims growing out of the Civil War,commonly known as “war claims,” and other claims which had been reported adversely before March 3, 1887 by any court, department, or commission authorized to determine them, were omitted as obsolete.
 
 The exception in section 250(1) of title 28, U.S.C., 1940 ed., as to pension claims appears in section 1501 of this title.
 
@@ -40,11 +40,11 @@ The Tennessee Valley Authority Act of 1933, referred to in subsec. (c), is act M
 
 #### Amendments
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–320, §12(a)(2), struck out par. (3) which read as follows: “To afford complete relief on any contract claim brought before the contract is awarded, the court shall have exclusive jurisdiction to grant declaratory judgments and such equitable and extraordinary relief as it deems proper, including but not limited to injunctive relief. In exercising this jurisdiction, the court shall give due regard to the interests of national defense and national security.”
+1996—Subsec. (a)(3). Pub. L. 104–320, §12(a)(2), struck out par. (3) which read as follows: “To afford complete relief on any contract claim brought before the contract is awarded, the court shall have exclusive jurisdiction to grant declaratory judgments and such equitable and extraordinary relief as it deems proper, including but not limited to injunctive relief. In exercising this jurisdiction, the court shall give due regard to the interests of national defense and national security.”
 
 Subsecs. (b), (c). Pub. L. 104–320, §12(a)(1), (3), added subsec. (b) and redesignated former subsec. (b) as (c).
 
-<b>1992</b>—Subsec. (a)(1). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a)(1). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsec. (a)(2). Pub. L. 102–572, §907(b)(1), inserted before period at end “, including a dispute concerning termination of a contract, rights in tangible or intangible property, compliance with cost accounting standards, and other nonmonetary disputes on which a decision of the contracting officer has been issued under section 6 of that Act”.
 
@@ -52,7 +52,7 @@ Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for �
 
 Subsec. (b). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
-<b>1982</b>—Subsec. (a)(1). Pub. L. 97–164 designated first two sentences of existing first undesignated paragraph as subsec. (a)(1) and substituted “United States Claims Court” for “Court of Claims”.
+1982—Subsec. (a)(1). Pub. L. 97–164 designated first two sentences of existing first undesignated paragraph as subsec. (a)(1) and substituted “United States Claims Court” for “Court of Claims”.
 
 Subsec. (a)(2). Pub. L. 97–164 designated third, fourth, and fifth sentences of existing first undesignated paragraph as par. (2) and substituted “The Claims Court” for “The Court of Claims” and “arising under section 10(a)(1) of the Contract Disputes Act of 1978” for “arising under the Contract Disputes Act of 1978”.
 
@@ -60,17 +60,17 @@ Subsec. (a)(3). Pub. L. 97–164 added par. (3).
 
 Subsec. (b). Pub. L. 97–164 designated existing second undesignated paragraph as subsec. (b) and substituted “United States Claims Court” for “Court of Claims”, “conduct of, the Tennessee Valley Authority, or” for “actions of, the Tennessee Valley Authority, nor”, “Tennessee Valley Authority Act of 1933” for “Tennessee Valley Authority Act of 1933, as amended,”, and “actions by or against the Authority” for “suits by or against the Authority”.
 
-<b>1980</b>—Pub. L. 96–417 substituted “Court of Claims of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action” for “in suits” in second par.
+1980—Pub. L. 96–417 substituted “Court of Claims of any civil action within the exclusive jurisdiction of the Court of International Trade, or of any action” for “in suits” in second par.
 
-<b>1978</b>—Pub. L. 95–563 provided that the Court of Claims would have jurisdiction to render judgment upon any claim by or against, or dispute with, a contractor arising under the Contract Disputes Act of 1978.
+1978—Pub. L. 95–563 provided that the Court of Claims would have jurisdiction to render judgment upon any claim by or against, or dispute with, a contractor arising under the Contract Disputes Act of 1978.
 
-<b>1972</b>—Pub. L. 92–415 inserted provisions authorizing the court to issue orders directing restoration to office or position, placement in appropriate duty or retirement status and correction of applicable records and to issue such orders to any United States official and to remand appropriate matters to administrative and executive bodies with proper directions.
+1972—Pub. L. 92–415 inserted provisions authorizing the court to issue orders directing restoration to office or position, placement in appropriate duty or retirement status and correction of applicable records and to issue such orders to any United States official and to remand appropriate matters to administrative and executive bodies with proper directions.
 
-<b>1970</b>—Pub. L. 91–350 specified that the term “express or implied contracts with the United States” includes express or implied contracts with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration.
+1970—Pub. L. 91–350 specified that the term “express or implied contracts with the United States” includes express or implied contracts with the Army and Air Force Exchange Service, Navy Exchanges, Marine Corps Exchanges, Coast Guard Exchanges, or Exchange Councils of the National Aeronautics and Space Administration.
 
-<b>1954</b>—Act Sept. 3, 1954, inserted “; actions involving Tennessee Valley Authority” in section catchline and altered the form of first par. to spell out the general jurisdiction of the Court in paragraph form rather than as clauses of the par.
+1954—Act Sept. 3, 1954, inserted “; actions involving Tennessee Valley Authority” in section catchline and altered the form of first par. to spell out the general jurisdiction of the Court in paragraph form rather than as clauses of the par.
 
-<b>1953</b>—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims” near beginning of section, and inserted last par.
+1953—Act July 28, 1953, substituted “United States Court of Claims” for “Court of Claims” near beginning of section, and inserted last par.
 
 #### Effective Date of 1996 Amendment
 
@@ -96,7 +96,7 @@ Amendment by Pub. L. 96–417 effective Nov. 1, 1980, and applicable with respec
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect to any claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, set out as an Effective Date note under section 601 of Title 41, Public Contracts.
+Amendment by Pub. L. 95–563 effective with respect to contracts entered into 120 days after Nov. 1, 1978, and, at the election of the contractor, with respect toany claim pending at such time before the contracting officer or initiated thereafter, see section 16 of Pub. L. 95–563, set out as an Effective Date note under section 601 of Title 41, Public Contracts.
 
 #### Effective Date of 1972 Amendment
 
@@ -120,11 +120,15 @@ Proceedings and applications.—(A) a termination under subsection (d) shall not
 
 “(B) Orders may be issued in any such proceeding, appeals may be taken therefrom, and payments may be made pursuant to such orders, as if such termination had not occurred. An order issued in any such proceeding shall continue in effect until modified, terminated, superseded, set aside, or revoked by a court of competent jurisdiction or by operation of law.
 
-“(C) Nothing in this paragraph prohibits the discontinuance or modification of any such proceedingunder the same terms and conditions and to the same extent that proceeding could have been discontinued or modified absent such termination.”
+“(C) Nothing in this paragraph prohibits the discontinuance or modification of any such proceeding under the same terms and conditions and to the same extent that proceeding could have been discontinued or modified absent such termination.”
 
 #### Sunset Provision
 
 Section 12(d) of Pub. L. 104–320 provided that: “The jurisdiction of the district courts of the United States over the actions described in section 1491(b)(1) of title 28, United States Code (as amended by subsection (a) of this section) shall terminate on January 1, 2001 unless extended by Congress. The savings provisions in subsection (e) \[set out above\] shall apply if the bid protest jurisdiction of the district courts of the United States terminates under this subsection.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Study on Concurrent Jurisdiction
 
@@ -132,7 +136,7 @@ Section 12(c) of Pub. L. 104–320 provided that: “No earlier than 2 years aft
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2409a of this title; title 12 section 216b; title 16 section 460jjj–2; title 20 section 1155; title 22 section 3862; title 25 sections 1300i–11, 3001; title 41 sections 114, 602; title 42 sections 2297h–3, 4654; title 45 section 1018; title 46 App. section 1242; title 47 section 606.
+This section is referred to in section 2409a of this title; title 12 section 216b; title 16 section 460jjj–2; title 20 section 1155; title 22 section 3862; title 25 sections 1300i–11, 1779c, 3001; title 41 sections 114, 602; title 42 sections 2297h–3, 4654; title 45 section 1018; title 46 App. section 1242; title 47 section 606.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “United”.</i>
 

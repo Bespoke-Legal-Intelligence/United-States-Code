@@ -30,7 +30,7 @@
 
 1994—Subsec. (f)(1). Pub. L. 103–322, §330020, and Pub. L. 103–325, §413(c)(2), amended par. (1) identically, striking out second comma after “(as defined in section 1956 of this title)”.
 
-1992—Subsec. (f)(1). Pub. L. 102–550 substituted “section 1956 of this title” for “section 5312 of title 31” andinserted “, including any transaction that would be a financial transaction under section 1956(c)(4)(B) of this title,” before “but such term does not include”.
+1992—Subsec. (f)(1). Pub. L. 102–550 substituted “section 1956 of this title” for “section 5312 of title 31” and inserted “, including any transaction that would be a financial transaction under section 1956(c)(4)(B) of this title,” before “but such term does not include”.
 
 1988—Subsec. (e). Pub. L. 100–690, §6469(a)(2), substituted “and, with respect to offenses over which the United States Postal Service has jurisdiction, by the Postal Service. Such authority of the Secretary of the Treasury and the Postal Service shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury, the Postal Service, and the Attorney General.” for “. Such authority of the Secretary of the Treasury shall be exercised in accordance with an agreement which shall be entered into by the Secretary of the Treasury and the Attorney General.”
 
@@ -38,5 +38,5 @@ Subsec. (f)(1). Pub. L. 100–690, §§6182, 6184, substituted “in section 195
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 981, 982, 986, 1510, 1952, 1956, 1961, 2516 of this title; title 8 sections 1101, 1182; title 12 sections 93, 1464, 1772d, 1785, 1786, 1818, 1821, 1829, 3105, 3413, 3420; title 22 section 2714; title 26 section 6050I; title 28 section 524; title 31 sections 5328, 9703.
+This section is referred to in sections 981, 982, 986, 1510, 1952, 1956, 1961, 2516, 3322 of this title; title 8 sections 1101, 1182; title 12 sections 93, 1464, 1772d, 1785, 1786, 1818, 1821, 1829, 3105, 3413, 3420; title 22 section 2714; title 26 section 6050I; title 28 section 524; title 31 sections 5328, 9703.
 

@@ -50,7 +50,7 @@ As used in this subchapter:
 
 (17) The term “narcotic drug” means any of the following whether produced directly or indirectly by extraction from substances of vegetable origin, or independently by means of chemical synthesis, or by a combination of extraction and chemical synthesis:
 
-&emsp;(A) Opium, opiates, derivatives of opium and opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation. Suchterm does not include the isoquinoline alkaloids of opium.
+&emsp;(A) Opium, opiates, derivatives of opium and opiates, including their isomers, esters, ethers, salts, and salts of isomers, esters, and ethers, whenever the existence of such isomers, esters, ethers, and salts is possible within the specific chemical designation. Such term does not include the isoquinoline alkaloids of opium.
 
 &emsp;(B) Poppy straw and concentrate of poppy straw.
 
@@ -322,7 +322,7 @@ As used in this subchapter:
 
 &emsp;(iii) A drug store is an entity within SIC code 5912.
 
-(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b), title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231.)
+(Pub. L. 91–513, title II, §102, Oct. 27, 1970, 84 Stat. 1242; Pub. L. 93–281, §2, May 14, 1974, 88 Stat. 124; Pub. L. 95–633, title I, §102(b), Nov. 10, 1978, 92 Stat. 3772; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–132, §16(a), Nov. 30, 1979, 93 Stat. 1049; Pub. L. 98–473, title II, §507(a), (b), Oct. 12, 1984, 98 Stat. 2071; Pub. L. 98–509, title III, §301(a), Oct. 19, 1984, 98 Stat. 2364; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §§1003(b), 1203, 1870, Oct. 27, 1986, 100 Stat. 3207–6, 3207–13, 3207–56; Pub. L. 99–646, §83, Nov. 10, 1986, 100 Stat. 3619; Pub. L. 100–690, title VI, §6054, Nov. 18, 1988, 102 Stat. 4316; Pub. L. 101–647, title XIX, §1902(b),title XXIII, §2301, title XXXV, §3599I, Nov. 29, 1990, 104 Stat. 4852, 4858, 4932; Pub. L. 103–200, §§2(a), 7–9(a), Dec. 17, 1993, 107 Stat. 2333, 2340; Pub. L. 103–322, title IX, §90105(d), title XXXIII, §330024(a), (b), (d)(1), Sept. 13, 1994, 108 Stat. 1988, 2150; Pub. L. 104–237, title II, §§204(a), 209, title IV, §401(a), (b), Oct. 3, 1996, 110 Stat. 3102, 3104, 3106, 3107; Pub. L. 104–294, title VI, §§604(b)(4), 607(j), Oct. 11, 1996, 110 Stat. 3506, 3512; Pub. L. 105–115, title I, §126(c)(3), Nov. 21, 1997, 111 Stat. 2328; Pub. L. 106–172, §§3(c), 5(a), Feb. 18, 2000, 114 Stat. 9, 10; Pub. L. 106–310, div. B, title XXXVI, §3622(a), Oct. 17, 2000, 114 Stat. 1231; Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808.)
 
 #### References in Text
 
@@ -337,6 +337,8 @@ The Federal Food, Drug, and Cosmetic Act, referred to in par. (39)(A)(iv), is ac
 Section 401(d) of the Comprehensive Methamphetamine Control Act of 1996, referred to in par. (39)(A)(iv)(I)(aa), is section 401(d) of Pub. L. 104–237, which is set out below.
 
 #### Amendments
+
+2002—Pars. (43), (44). Pub. L. 107–273 repealed Pub. L. 104–294, §§604(b)(4), 607(j)(2). See 1996 Amendment note below.
 
 2000—Par. (32)(A). Pub. L. 106–172, §5(a)(1), substituted “subparagraph (C)” for “subparagraph (B)” in introductory provisions.
 
@@ -360,7 +362,9 @@ Par. (39)(A)(iv)(I)(aa). Pub. L. 104–237, §401(a)(1), (b)(1), substituted “
 
 Par. (39)(A)(iv)(II). Pub. L. 104–237, §401(a)(2), (b)(2), inserted “, pseudoephedrine, phenylpropanolamine,” after “ephedrine” and inserted before semicolon “, except that the threshold for any sale of products containing pseudoephedrine or phenylpropanolamine products by retail distributors or by distributors required to submit reports by section 830(b)(3) of this title shall be 24 grams of pseudoephedrine or 24 grams of phenylpropanolamine in a single transaction”.
 
-Pars. (43), (44). Pub. L. 104–237, §401(b)(3), and Pub. L. 104–294, §§604(b)(4), 607(j)(2), amended section identically, redesignating par. (43), relating to felony drug offense, as (44).
+Pars. (43), (44). Pub. L. 104–294, §§604(b)(4), 607(j)(2), which provided for amendment to section identical to Pub. L. 104–237, §401(b)(3), below, were repealed by Pub. L. 107–273, §4002(c)(1).
+
+Pub. L. 104–237, §401(b)(3), redesignated par. (43), relating to felony drug offense, as (44).
 
 Pars. (45), (46). Pub. L. 104–237, §401(b)(4), added pars. (45) and (46).
 
@@ -460,6 +464,10 @@ Par. (30). Pub. L. 98–473, §507(a), redesignated former par. (29) as (30).
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in par. (24) pursuant to section 509(b) of Pub. L. 96–88, which is classified to section 3508(b) of Title 20, Education.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–273, div. B, title IV, §4002(c)(1), Nov. 2, 2002, 116 Stat. 1808, provided that the amendment made by section 4002(c)(1) is effective Oct. 11, 1996.
+
 #### Effective Date of 2000 Amendment
 
 Pub. L. 106–310, div. B, title XXXVI, §3622(b), Oct. 17, 2000, 114 Stat. 1231, provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect 1 year after the date of the enactment of this Act \[Oct. 17, 2000\].”
@@ -476,7 +484,7 @@ Section 401(g) of Pub. L. 104–237 provided that: “Notwithstanding any other 
 
 #### Effective Date of 1994 Amendment
 
-Section 330024(f) of Pub. L. 103–322 provided that: “The amendments made by this section \[amending this section and sections 824, 960, and 971 of this title\] shall take effect as of the date that is 120 days after the dateof enactment of the Domestic Chemical Diversion Control Act of 1993 \[Dec. 17, 1993\].”
+Section 330024(f) of Pub. L. 103–322 provided that: “The amendments made by this section \[amending this section and sections 824, 960, and 971 of this title\] shall take effect as of the date that is 120 days after the date of enactment of the Domestic Chemical Diversion Control Act of 1993 \[Dec. 17, 1993\].”
 
 #### Effective Date of 1993 Amendment
 
@@ -572,7 +580,7 @@ Conditions.—In order to establish a single-transaction limit of 24 grams of ps
 
 &emsp;&emsp;“(B)
 
-Violation.—Any individual or business that violates the thresholds established in this paragraph shall, with respect to the first such violation, receive a warning letter from the Attorney General and, if a business, the business shall be required to conduct mandatory education of the sales employees of the firm with regard to the legal sales of pseudoephedrine. For a second violation occurring within 2 years of the first violation, the business or individual shall be subject to a civil penalty of not more than $5,000. For any subsequent violation occurring within 2 years of the previous violation, the business or individual shall be subject to a civil penalty not to exceed the amount of the previous civil penalty plus $5,000.
+Violation.—Any individual or business that violates the thresholds established in this paragraph shall, with respect to the first such violation, receive a warning letter from the Attorney General and, if a business, the business shall be required to conduct mandatory education of the sales employees of the firm with regard to the legal sales of pseudoephedrine. For a second violation occurring within 2 years of the first violation, the business or individual shall be subject to a civil penalty of not more than $5,000. For any subsequent violation occurring within 2 years of the previous violation, thebusiness or individual shall be subject to a civil penalty not to exceed the amount of the previous civil penalty plus $5,000.
 
 &emsp;“(2)
 
@@ -666,5 +674,5 @@ Date of Issuance of Regulations.—The Attorney General shall issue regulations 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 814, 822, 823, 830, 862a, 889, 951, 956, 957, 958, 967, 1115, 1701, 1907 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1227; title 10 section 986; title 16 section 559b; title 18 sections 175b, 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 20 section 1091; title 22 sections 2291, 2708, 2714; title 23 section 410; title 25 section 4103; title 29 sections 1111, 1854, 2892; title 42 sections 201, 1437a, 1437d, 1437f, 1786, 2000e–2, 2473c, 3411, 3602, 3607, 5667, 5667a, 9601, 9919, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 80302; title 50 section 404i.
+This section is referred to in sections 814, 822, 823, 830, 862a, 889, 951, 956, 957, 958, 967, 1115, 1701, 1907 of this title; title 7 sections 2015, 2021; title 8 sections 1101, 1182, 1227; title 10 section 986; title 16 section 559b; title 18 sections 175b, 342, 521, 842, 922, 924, 1791, 1952, 1961, 2118, 3142, 3563, 3592; title 19 sections 1401, 1584, 1607; title 20 section 1091; title 22 sections 2291, 2708, 2714; title 23 section 410; title 25 section 4103; title 29 sections 1111, 1854, 2892; title 42 sections 201, 1437a, 1437d, 1437f, 1786, 2000e–2, 2473c, 3602, 3607, 5667, 5667a, 9601, 9919, 11851, 11905, 11924, 12602; title 46 section 2101; title 46 App. section 1903; title 48 sections 1902, 1903; title 49 sections 5331, 20140, 30301, 31102, 31301, 31306, 44106, 44111, 44703, 44710, 44713, 45101, 46306, 46317, 80302; title 50 section 404i.
 

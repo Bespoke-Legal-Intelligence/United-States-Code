@@ -6,11 +6,11 @@ The banks for cooperatives are authorized to make loans and commitments to eligi
 
 #### (b) Additional authorities
 
-(1) A bank for cooperatives is authorized to make or participate in loans and commitments to, and to extend other technical and financial assistance to a domestic or foreign party with respect to its transactions with an association that is a voting stockholder of the bank for the import of agricultural commodities or products thereof, farm supplies, or aquatic products through purchases, sales or exchanges, if the bank for cooperatives determines, under regulations of the Farm Credit Administration, that the voting stockholder will benefit substantially as a result of such loan, commitment, or assistance.
+(1) A bank for cooperatives is authorized to make or participate in loans and commitments to, and to extend other technical and financial assistance to a domestic or foreign party with respect to its transactions with an association that is a voting stockholder of the bank for the import of agricultural commodities or products thereof, agricultural supplies, or aquatic products through purchases, sales or exchanges, if the bank for cooperatives determines, under regulations of the Farm Credit Administration, that the voting stockholder will benefit substantially as a result of such loan, commitment, or assistance.
 
 (2)(A) A bank for cooperatives may make or participate in loans and commitments to, and extend other technical and financial assistance to—
 
-&emsp;(i) any domestic or foreign party for the export, including (where applicable) the cost of freight, of agricultural commodities or products thereof, farm supplies, or aquatic products from the United States under policies and procedures established by the bank to ensure that the commodities, products, or supplies are originally sourced, where reasonably available, from one or more eligible cooperative associations described in section 2129(a) of this title on a priority basis, except that if the total amount of the balances outstanding on loans made by a bank under this clause that—
+&emsp;(i) any domestic or foreign party for the export, including (where applicable) the cost of freight, of agricultural commodities or products thereof, agricultural supplies, or aquatic products from the United States under policies and procedures established by the bank to ensure that the commodities, products, or supplies are originally sourced, where reasonably available, from one or more eligible cooperative associations described in section 2129(a) of this title on a priority basis, except that if the total amount of the balances outstanding on loans made by a bank under this clause that—
 
 &emsp;&emsp;(I) are made to finance the export of commodities, products, or supplies that are not originally sourced from a cooperative, and
 
@@ -24,9 +24,21 @@ The banks for cooperatives are authorized to make loans and commitments to eligi
 
 (3) A bank for cooperatives is authorized to provide such services as may be customary and normal in maintaining relationships with domestic or foreign entities to facilitate the activities specified in paragraphs (1) and (2), consistent with this chapter.
 
+(4)
+
+Definition of agricultural supply.—In this subsection, the term “agricultural supply” includes—
+
+&emsp;(A) a farm supply; and
+
+&emsp;(B)(i) agriculture-related processing equipment;
+
+&emsp;(ii) agriculture-related machinery; and
+
+&emsp;(iii) other capital goods related to the storage or handling of agricultural commodities or products.
+
 #### (c) Applicable policies
 
-Loans, commitments, and assistance authorized by subsection (b) of this section shall be extended in accordance with policies adopted by the board of directors of the bank under regulations of the Farm Credit Administration.
+Loans, commitments, and assistance authorized by subsection (b) of this section shall be extended in accordance with policies adopted bythe board of directors of the bank under regulations of the Farm Credit Administration.
 
 #### (d) Regulatory limitations
 
@@ -42,13 +54,17 @@ The banks for cooperatives may, for the purpose of installing, maintaining, expa
 
 &emsp;(1) cooperatives formed specifically for the purpose of establishing or operating such facilities; and
 
-&emsp;(2) public and quasi-public agencies and bodies, and other public and private entities that,under authority of State or local law, establish or operate such facilities.
+&emsp;(2) public and quasi-public agencies and bodies, and other public and private entities that, under authority of State or local law, establish or operate such facilities.
 
 > For purposes of this subsection, the term “rural area” means all territory of a State that is not within the outer boundary of any city or town having a population of more than 20,000 based on the latest decennial census of the United States.
 
-(Pub. L. 92–181, title III, §3.7, Dec. 10, 1971, 85 Stat. 605; Pub. L. 96–592, title III, §304, Dec. 24, 1980, 94 Stat. 3444; Pub. L. 101–624, title XXIII, §2323(a), Nov. 28, 1990, 104 Stat. 4013; Pub. L. 102–237, title V, §502(e)(1), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 102–552, title V, §§504, 505, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 103–376, §3, Oct. 19, 1994, 108 Stat. 3497.)
+(Pub. L. 92–181, title III, §3.7, Dec. 10, 1971, 85 Stat. 605; Pub. L. 96–592, title III, §304, Dec. 24, 1980, 94 Stat. 3444; Pub. L. 101–624, title XXIII, §2323(a), Nov. 28, 1990, 104 Stat. 4013; Pub. L. 102–237, title V, §502(e)(1), Dec. 13, 1991, 105 Stat. 1868; Pub. L. 102–552, title V, §§504, 505, Oct. 28, 1992, 106 Stat. 4131; Pub. L. 103–376, §3, Oct. 19, 1994, 108 Stat. 3497; Pub. L. 107–171, title V, §5402, May 13, 2002, 116 Stat. 350.)
 
 #### Amendments
+
+2002—Subsec. (b)(1), (2)(A)(i). Pub. L. 107–171, §5402(1), substituted “agricultural supplies” for “farm supplies”.
+
+Subsec. (b)(4). Pub. L. 107–171, §5402(2), added par. (4).
 
 1994—Subsec. (b)(1). Pub. L. 103–376, §3(A), substituted “assistance to” for “assistance to (A)”, “bank for the import” for “bank for the export or import”, and “if the bank for cooperatives” for “and (B) a domestic or foreign party in which such an association has at least the minimum ownership interest approved under regulations of the Farm Credit Administration for the purpose of facilitating the association's export or import operations of the type described in subparagraph (A): <i>Provided</i>, That a” bank for cooperatives”.
 

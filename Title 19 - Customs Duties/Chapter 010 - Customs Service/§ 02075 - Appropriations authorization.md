@@ -10,23 +10,25 @@
 
 &emsp;(B) the amount authorized for the fiscal year for the salaries and expenses of the Service for other than commercial operations.
 
+(3) By not later than the date on which the President submits to Congress the budget of the United States Government for a fiscal year, the Commissioner of Customs shall submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate the projected amount of funds for the succeeding fiscal year that will be necessary for the operations of the Customs Service as provided for in subsection (b) of this section.
+
 #### (b) Authorization of appropriations
 
 #### (1) For noncommercial operations
 
 &emsp;There are authorized to be appropriated for the salaries and expenses of the Customs Service that are incurred in noncommercial operations not to exceed the following:
 
-&emsp;&emsp;(A) $516,217,000 for fiscal year 1991.
+&emsp;&emsp;(A) $1,365,456,000 for fiscal year 2003.
 
-&emsp;&emsp;(B) $542,091,000 for fiscal year 1992.
+&emsp;&emsp;(B) $1,399,592,400 for fiscal year 2004.
 
 #### (2) For commercial operations
 
 &emsp;(A) There are authorized to be appropriated for the salaries and expenses of the Customs Service that are incurred in commercial operations not less than the following:
 
-&emsp;&emsp;(i) $672,021,000 for fiscal year 1991.
+&emsp;&emsp;(i) $1,642,602,000 for fiscal year 2003.
 
-&emsp;&emsp;(ii) $705,793,000 for fiscal year 1992.
+&emsp;&emsp;(ii) $1,683,667,050 for fiscal year 2004.
 
 &emsp;(B) The monies authorized to be appropriated under subparagraph (A) for any fiscal year, except for such sums as may be necessary for the salaries and expenses of the Customs Service that are incurred in connection with the processing of merchandise that is exempt from the fees imposed under section 58c(a)(9) and (10) of this title, shall be appropriated from the Customs User Fee Account.
 
@@ -34,9 +36,9 @@
 
 &emsp;There are authorized to be appropriated for the operation (including salaries and expenses) and maintenance of the air interdiction program of the Customs Service not to exceed the following:
 
-&emsp;&emsp;(A) $143,047,000 for fiscal year 1991.
+&emsp;&emsp;(A) $170,829,000 for fiscal year 2003.
 
-&emsp;&emsp;(B) $150,199,000 for fiscal year 1992.
+&emsp;&emsp;(B) $175,099,725 for fiscal year 2004.
 
 #### (c) Mandatory 10-day deferment
 
@@ -52,7 +54,7 @@ For the fiscal year beginning October 1, 1982, and for each fiscal year thereaft
 
 #### (f) Use of savings resulting from administrative consolidations
 
-If savings in salaries and expenses result from the consolidation of administrative functions within the Customs Service, the Commissioner of Customs shall apply those savings, to the extent they are not needed to meet emergency requirements of the Service, to strengthening the commercial operations of the Service by increasing the number of inspector, import specialist, patrol officer, and other line operational positions.
+If savings in salaries and expenses result from the consolidation of administrative functionswithin the Customs Service, the Commissioner of Customs shall apply those savings, to the extent they are not needed to meet emergency requirements of the Service, to strengthening the commercial operations of the Service by increasing the number of inspector, import specialist, patrol officer, and other line operational positions.
 
 #### (g) Allocation of resources; notice to Congressional committees
 
@@ -72,13 +74,27 @@ If savings in salaries and expenses result from the consolidation of administrat
 
 (3) The total number of employees of the United States Customs Service shall be equivalent to at least 17,174 full-time employees.
 
-(Pub. L. 95–410, title III, §301, Oct. 3, 1978, 92 Stat. 905; Pub. L. 97–456, §2, Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title VII, §702, Oct. 30, 1984, 98 Stat. 3043; Pub. L. 99–272, title XIII, §13022(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 99–509, title VIII, §8102, Oct. 21, 1986, 100 Stat. 1967; Pub. L. 100–203, title IX, §9503(a), (b), Dec. 22, 1987, 101 Stat. 1330–380, 1330–381; Pub. L. 100–690, title VII, §7361(a), (b), Nov. 18, 1988, 102 Stat. 4474; Pub. L. 101–207, §3(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §102, Aug. 20, 1990, 104 Stat. 634.)
+(Pub. L. 95–410, title III, §301, Oct. 3, 1978, 92 Stat. 905; Pub. L. 97–456, §2, Jan. 12, 1983, 96 Stat. 2503; Pub. L. 98–573, title VII, §702, Oct. 30, 1984, 98 Stat. 3043; Pub. L. 99–272, title XIII, §13022(a), Apr. 7, 1986, 100 Stat. 305; Pub. L. 99–509, title VIII, §8102, Oct. 21, 1986, 100 Stat. 1967; Pub. L. 100–203, title IX, §9503(a), (b), Dec. 22, 1987, 101 Stat. 1330–380, 1330–381; Pub. L. 100–690, title VII, §7361(a), (b), Nov. 18, 1988, 102 Stat. 4474; Pub. L. 101–207, §3(a), Dec. 7, 1989, 103 Stat. 1833; Pub. L. 101–382, title I, §102, Aug. 20, 1990, 104 Stat. 634; Pub. L. 107–210, div. A, title III, §311(a), (b)(1), (c), (d), Aug. 6, 2002, 116 Stat. 973.)
 
 #### References in Text
 
 The Federal Pay Comparability Act of 1970, referred to in subsec. (e), is Pub. L. 91–656, Jan. 8, 1971, 84 Stat. 1946, as amended, which enacted sections 5305 to 5308 and 5947 of Title 5, Government Organization and Employees, amended sections 5108, 5301, and 5942 of Title 5 and section 410 of Title 39, Postal Service, repealed section 5302 of Title 5, and enacted provisions set out as notes under sections 5303 and 5942 of Title 5, section 60a of Title 2, The Congress, and section 410 of Title 39. For complete classification of the Act to the Code see Short Title note set out under section 5301 of Title 5 and Tables.
 
 #### Amendments
+
+2002—Subsec. (a)(3). Pub. L. 107–210, §311(d), added par. (3).
+
+Subsec. (b)(1)(A). Pub. L. 107–210, §311(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “$516,217,000 for fiscal year 1991.”
+
+Subsec. (b)(1)(B). Pub. L. 107–210, §311(a)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “$542,091,000 for fiscal year 1992.”
+
+Subsec. (b)(2)(A)(i). Pub. L. 107–210, §311(b)(1)(A), added cl. (i) and struck out former cl. (i) which read as follows: “$672,021,000 for fiscal year 1991.”
+
+Subsec. (b)(2)(A)(ii). Pub. L. 107–210, §311(b)(1)(B), added cl. (ii) and struck out former cl. (ii) which read as follows: “$705,793,000 for fiscal year 1992.”
+
+Subsec. (b)(3)(A). Pub. L. 107–210, §311(c)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “$143,047,000 for fiscal year 1991.”
+
+Subsec. (b)(3)(B). Pub. L. 107–210, §311(c)(2), added subpar. (B) and struck out former subpar. (B) which read as follows: “$150,199,000 for fiscal year 1992.”
 
 1990—Subsec. (b). Pub. L. 101–382, amended subsec. (b) generally, in par. (1), substituting provisions authorizing $516,217,000 and $542,091,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $418,822,000 for fiscal year 1990, of which at least $26,240,000 was to be used to hire at least 435 additional inspectors and other drug interdiction personnel, in par. (2), designating existing provisions as subpar. (A) and substituting provisions authorizing $672,021,000 and $705,793,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $656,468,000 for fiscal year 1990, striking out provisions relating to Customs User Fee Account, and adding subpar. (B), and in par. (3), substituting provisions authorizing $143,047,000 and $150,199,000 for fiscal years 1991 and 1992, respectively, for provisions authorizing $128,128,000 for fiscal year 1990.
 
@@ -147,4 +163,18 @@ Subsecs. (f), (g). Pub. L. 99–272, §13022(a)(2), added subsecs. (f) and (g).
 Subsecs. (d), (e). Pub. L. 98–573, §702(2), (3), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1983—Pub. L. 97–456 designated existing provisions as subsec. (a) and added subsecs. (b) to (d).
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Automated Commercial Environment Computer System
+
+Pub. L. 107–210, div. A, title III, §311(b)(2), (3), Aug. 6, 2002, 116 Stat. 973, as amended by Pub. L. 107–296, title IV, §419(b), Nov. 25, 2002, 116 Stat. 2182, provided that:
+
+“\[(2) Repealed. Pub. L. 107–296, title IV, §419(b), Nov. 25, 2002, 116 Stat. 2182.\]
+
+“(3)
+
+Reports.—Not later than 90 days after the date of the enactment of this Act \[Aug. 6, 2002\], and not later than the end of each subsequent 90-day period, the Commissioner of Customs shall prepare and submit to the Committee on Ways and Means of the House of Representatives and the Committee on Finance of the Senate a report demonstrating that the development and establishment of the Automated Commercial Environment computer system is being carried out in a cost-effective manner and meets the modernization requirements of title VI of the North American Free Trade Agreement Implementation Act \[Pub. L. 103–182, see Tables for classification\].”
 

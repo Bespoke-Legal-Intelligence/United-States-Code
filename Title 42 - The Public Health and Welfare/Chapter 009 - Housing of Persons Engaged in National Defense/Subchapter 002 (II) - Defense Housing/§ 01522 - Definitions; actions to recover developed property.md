@@ -6,7 +6,7 @@ As used in subchapters II to VII of this chapter, (a) the term “persons engage
 
 #### References in Text
 
-Subchapter III of this chapter, referred to in text, was comprised of sections 1531 to 1536 of this title. Section 1532 was omitted from the Code pursuant to the time limitation set out in act July 3, 1952, ch. 570, §1(a)(12), 66 Stat. 332, as amended by act Mar. 31, 1953, ch. 13, §1, 67 Stat. 18. Sections 1531, 1533, and 1534 were omitted from the Code upon the termination of section 1532. Section 1535 was omitted from the Code as executed. Section 1536 was omitted from the Code as not having been repeated in subsequent appropriation acts.
+Subchapter III of this chapter, referred to in text, was comprised of sections 1531 to 1536 of this title. Section 1532 was omitted from the Code pursuant to the time limitation set out in act July 3, 1952, ch. 570, §1(a)(12), 66 Stat. 332, as amended by act Mar. 31, 1953, ch. 13, §1, 67 Stat. 18. Sections 1531, 1533, and 1534 were omitted from the Code upon the termination of section1532. Section 1535 was omitted from the Code as executed. Section 1536 was omitted from the Code as not having been repeated in subsequent appropriation acts.
 
 Subchapter VI of this chapter, referred to in text, was comprised of sections 1571 to 1576 of this title. Sections 1571 and 1573 have been omitted from the Code pursuant to the time limitation set out in act July 3, 1952, ch. 570, §1(a)(12), (21), 66 Stat. 332, as amended by act Mar. 31, 1953, ch. 13, §1, 67 Stat. 18. Sections 1572 and 1575 were omitted upon the termination of sections 1571 and 1573. Section 1574 was repealed by act Oct. 31, 1951, ch. 654, §1(113), 65 Stat. 706. Section 1576 was omitted from the Code as not having been repeated in subsequent appropriation acts.
 
@@ -21,6 +21,8 @@ Department of the Air Force inserted on authority of section 207(a), (f) of act 
 1942—Act Jan. 21, 1942, inserted cl. (a)(4) and proviso.
 
 #### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of Housing and Home Finance Agency transferred to Secretary of Housing and Urban Development by Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669, which is classified to section 3534(a) of this title. Section 9(c) of such act, set out as a note under section 3531 of this title, provided that references to Housing and Home Finance Agency or to any agency or officer therein are to be deemed to mean Secretary of Housing and Urban Development and that Housing and Home Finance Agency has lapsed.
 

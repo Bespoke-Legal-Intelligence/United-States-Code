@@ -12,7 +12,7 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 (1) Any person making an application under this chapter shall submit detailed plans to the Secretary. Within 21 days after the receipt of an application, the Secretary shall determine whether the application appears to contain all of the information required by paragraph (2) hereof. If the Secretary determines that such information appears to be contained in the application, the Secretary shall, no later than 5 days after making such a determination, publish notice of the application and a summary of the plans in the Federal Register. If the Secretary determines that all of the required information does not appear to be contained in the application, the Secretary shall notify the applicant and take no further action with respect to the application until such deficiencies have been remedied.
 
-(2) Each application shall include such financial, technical, and other information as theSecretary deems necessary or appropriate. Such information shall include, but need not be limited to—
+(2) Each application shall include such financial, technical, and other information as the Secretary deems necessary or appropriate. Such information shall include, but need not be limited to—
 
 &emsp;(A) the name, address, citizenship, telephone number, and the ownership interest in the applicant, of each person having any ownership interest in the applicant of greater than 3 per centum;
 
@@ -48,15 +48,17 @@ The Secretary, in consultation with the Secretary of the Interior and the Admini
 
 (3) The Secretary shall accompany such publication with a call for submission of any other applications for licenses for the ownership, construction, and operation of a deepwater port within the designated application area. Persons intending to file applications for such license shall submit a notice of intent to file an application with the Secretary not later than 60 days after the publication of notice pursuant to subsection (c) of this section and shall submit the completed application no later than 90 days after publication of such notice. The Secretary shall publish notice of any such application received in accordance with subsection (c) of this section. No application for a license for the ownership, construction, and operation of a deepwater port within the designated application area for which a notice of intent to file was received after such 60-day period, or which is received after such 90-day period has elapsed, shall be considered until the application pending with respect to such application area have been denied pursuant to this chapter.
 
+(4) This subsection shall not apply to deepwater ports for natural gas.
+
 #### (e) Recommendations to Secretary of Transportation; application for all Federal authorizations; copies of application to Federal agencies and departments with jurisdiction; recommendation of approval or disapproval and of manner of amendment to comply with laws or regulations
 
 (1) Not later than 30 days after January 3, 1975, the Secretary of the Interior, the Administrator of the Environmental Protection Agency, the Chief of Engineers of the United States Army Corps of Engineers, the Administrator of the National Oceanic and Atmospheric Administration, and the heads of any other Federal department or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports shall transmit to the Secretary written comments as to their expertise or statutory responsibilities pursuant to this chapter or any other Federal law.
 
 (2) An application filed with the Secretary shall constitute an application for all Federal authorizations required for ownership, construction, and operation of a deepwater port. At the time notice of any application is published pursuant to subsection (c) of this section, the Secretary shall forward a copy of such application to those Federal agencies and departments with jurisdiction over any aspect of such ownership, construction, or operation for comment, review, or recommendation as to conditions and for such other action as may be required by law. Each agency or department involved shall review the application and, based upon legal considerations within its area of responsibility, recommend to the Secretary, the approval or disapproval of the application not later than 45 days after the last public hearing on a proposed license for a designated application area. In any case in which the agency or department recommends disapproval, it shall set forth in detail the manner in which the application does not comply with any law or regulation within its area of responsibility and shall notify the Secretary how the application may be amended so as to bring it into compliance with the law or regulation involved.
 
-#### (f) Environmental impact statement for single application area; criteria
+#### (f) NEPA compliance
 
-For all timely applications covering a single application area, the Secretary, in cooperation with other involved Federal agencies and departments, shall, pursuant to section 4332(2)(C) of title 42, prepare a single, detailed environmental impact statement, which shall fulfill the requirement of all Federal agencies in carrying out their responsibilities pursuant to this chapter to prepare an environmental impact statement. In preparing such statement the Secretary shall consider the criteria established under section 1505 of this title.
+For all applications, the Secretary, in cooperation with other involved Federal agencies and departments, shall comply with the National Environmental Policy Act of 1969 (42 U.S.C. 4332) \[42 U.S.C. 4321 et seq.\]. Such compliance shall fulfill the requirement of all Federal agencies in carrying out their responsibilities under the National Environmental Policy Act of 1969 pursuant to this chapter.
 
 #### (g) Public notice and hearings; evidentiary hearing in District of Columbia; decision of Secretary based on evidentiary record; consolidation of hearings
 
@@ -66,7 +68,7 @@ A license may be issued only after public notice and public hearings in accordan
 
 (1) Each person applying for a license pursuant to this chapter shall remit to the Secretary at the time the application is filed a nonrefundable application fee established by regulation by the Secretary. In addition, an applicant shall also reimburse the United States and the appropriate adjacent coastal State for any additional costs incurred in processing an application.
 
-(2) Notwithstanding any other provision of this chapter, an adjacent coastal State may fix reasonable fees for the use of a deepwater port facility, and such State and any other State in which land-based facilities directly related to a deepwater port facility are located may set reasonable fees for the use of such land-based facilities. Fees may be fixed under authority of this paragraph as compensation for any economic cost attributable to the construction and operation of such deepwater port and such land-based facilities, which cannot be recovered under other authority of such State or political subdivision thereof, including, but not limited to, ad valorem taxes, and for environmental and administrative costs attributable to the construction and operation of such deepwater port and such land-based facilities. Fees under this paragraph shall not exceed such economic, environmental, and administrative costs of such State. Such fees shall be subject to the approval of the Secretary. As used in this paragraph, the term “land-based facilities directly related to a deepwater port facility” means the onshore tank farm and pipelines connecting such tank farm to the deepwater port facility.
+(2) Notwithstanding any other provision of this chapter, and unless prohibited by law, an adjacent coastal State may fix reasonable fees for the use of a deepwater port facility, and such State and any other State in which land-based facilities directly related to a deepwater port facility are located may set reasonable fees for the use of such land-based facilities. Fees may be fixed under authority of this paragraph as compensation for any economic cost attributable to the construction and operation of such deepwater port and such land-based facilities, which cannot be recovered under other authority of such State or political subdivision thereof, including, but not limited to, ad valorem taxes, and for environmental and administrative costs attributable to the construction and operation of such deepwater port and such land-based facilities. Fees under this paragraph shall not exceed such economic, environmental, and administrative costs of such State. Such fees shall be subject to the approval of the Secretary. As used in this paragraph, the term “land-based facilities directly related to a deepwater port facility” means the onshore tank farm and pipelines connecting such tank farm to the deepwater port facility.
 
 (3) A licensee shall pay annually in advance the fair market rental value (as determined by the Secretary of the Interior) of the subsoil and seabed of the Outer Continental Shelf of the United States to be utilized by the deepwater port, including the fair market rental value of the right-of-way necessary for the pipeline segment of the port located on such subsoil and seabed.
 
@@ -78,7 +80,7 @@ A license may be issued only after public notice and public hearings in accordan
 
 &emsp;(A) to an adjacent coastal State (or combination of States), any political subdivision thereof, or agency or instrumentality, including a wholly owned corporation of any such government;
 
-&emsp;(B) to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii) an affiliate of any person who is engaged inproducing, refining, or marketing oil or an affiliate of any such affiliate;
+&emsp;(B) to a person who is neither (i) engaged in producing, refining, or marketing oil, nor (ii) an affiliate of any person who is engaged in producing, refining, or marketing oil or an affiliate of any such affiliate;
 
 &emsp;(C) to any other person.
 
@@ -90,13 +92,43 @@ A license may be issued only after public notice and public hearings in accordan
 
 &emsp;(C) any differences in costs of construction and operation of the proposed deepwater ports, to the extent that such differential may significantly affect the ultimate cost of oil to the consumer.
 
-(Pub. L. 93–627, §5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, §2(f), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §505, Oct. 19, 1996, 110 Stat. 3927.)
+(4) The Secretary shall approve or deny any application for a deepwater port for natural gas submitted pursuant to this chapter not later than 90 days after the last public hearing on a proposed license. Paragraphs (1), (2), and (3) of this subsection shall not apply to an application for a deepwater port for natural gas.
+
+(Pub. L. 93–627, §5, Jan. 3, 1975, 88 Stat. 2131; Pub. L. 98–419, §2(f), Sept. 25, 1984, 98 Stat. 1607; Pub. L. 104–324, title V, §505, Oct. 19, 1996, 110 Stat. 3927; Pub. L. 107–295, title I, §106(c), (f), (g), Nov. 25, 2002, 116 Stat. 2086–2088.)
+
+#### References in Text
+
+The National Environmental Policy Act of 1969, referred to in subsec. (f), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
+
+2002—Subsec. (d)(4). Pub. L. 107–295, §106(c)(1), added par. (4).
+
+Subsec. (f). Pub. L. 107–295, §106(f), substituted “NEPA compliance” for “Environmental impact statement for single application area; criteria” in heading and amended text generally. Prior to amendment, text read as follows: “For all timely applications covering a single application area, the Secretary, in cooperation with other involved Federal agencies and departments, shall, pursuant to section 4332(2)(C) of title 42, prepare a single, detailed environmental impact statement, which shall fulfill the requirement of all Federal agencies in carrying out their responsibilities pursuant to this chapter to prepare an environmental impact statement. In preparing such statement the Secretary shall consider the criteria established under section 1505 of this title.”
+
+Subsec. (h)(2). Pub. L. 107–295, §106(g), inserted “and unless prohibited by law,” after “Notwithstanding any other provision of this chapter,”.
+
+Subsec. (i)(4). Pub. L. 107–295, §106(c)(2), added par. (4).
 
 1996—Subsec. (c)(3). Pub. L. 104–324 added par. (3).
 
 1984—Subsec. (g). Pub. L. 98–419 substituted “issued” for “issued, transferred, or renewed”.
+
+#### Regulations
+
+Pub. L. 107–295, title I, §106(e), Nov. 25, 2002, 116 Stat. 2087, provided that:
+
+“(1)
+
+Agency and department expertise and responsibilities.—Not later than 30 days after the date of the enactment of this Act \[Nov. 25, 2002\], the heads of Federal departments or agencies having expertise concerning, or jurisdiction over, any aspect of the construction or operation of deepwater ports for natural gas shall transmit to the Secretary of Transportation written comments as to such expertise or statutory responsibilities pursuant to the Deepwater Port Act of 1974 (33 U.S.C. 1501 et seq.) or any other Federal law.
+
+“(2)
+
+Interim final rule.—The Secretary may issue an interim final rule as a temporary regulation implementing this section \[amending this section and sections 1501 to 1503, 1507, and 1520 of this title\] (including the amendments made by this section) as soon as practicable after the date of enactment of this section, without regard to the provisions of chapter 5 of title 5, United States Code.
+
+“(3)
+
+Final rules.—As soon as practicable after the date of the enactment of this Act, the Secretary of Transportation shall issue additional final rules that, in the discretion of the Secretary, are determined to be necessary under the Deepwater Port Act of 1974 (33 U.S.C. 1501 et seq.) for the application and issuance of licenses for a deepwater port for natural gas.”
 
 #### Section Referred to in Other Sections
 

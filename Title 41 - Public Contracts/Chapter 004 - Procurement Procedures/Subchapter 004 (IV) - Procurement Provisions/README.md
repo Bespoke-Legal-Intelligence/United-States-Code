@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 405, 414a, 418a, 421 of this title; title 5 section 595; title 7 section 1736a; title 15 sections 205f, 205<i>l</i>, 637; title 16 sections 670<i>o</i>, 793; title 22 section 277d–44; title 25 section 450j; title 28 section 524; title 31 sections 3718, 9703; title 38 section 3720; title 40 sections 356a, 474, 602a, 604, 752, 758; title 42 sections 1592d, 12651, 13556; title 43 section 1736; title 44 section 311; title 49 section 40110.
+This subchapter is referred to in sections 405, 414a, 418a, 421 of this title; title 5 sections 595, 7342; title 6section 426; title 7 section 1736a; title 10 sections 2562, 2576, 2667, 2676, 2691, 2696, 2854a, 2878, 7305, 9444, 9781; title 14 sections 92, 93, 641; title 15 sections 205f, 205<i>l</i>, 637; title 16 sections 670<i>o</i>, 793; title 22 section 277d–44; title 25 section 450j; title 28 section 524; title 31 sections 3718, 9703; title 38 section 3720; title 40 sections 102, 111, 311, 1308, 3304, 3305; title 42 sections 1592d, 12651, 13556; title 43 section 1736; title 44 section 311; title 49 sections 103, 40110.
 
 
 ---
@@ -20,7 +20,7 @@ This subchapter is referred to in sections 405, 414a, 418a, 421 of this title; t
 - [&sect; 00253c - Encouragement of new competition](%C2%A7%2000253c%20-%20Encouragement%20of%20new%20competition.md)
 - [&sect; 00253d - Validation of proprietary data restrictions](%C2%A7%2000253d%20-%20Validation%20of%20proprietary%20data%20restrictions.md)
 - [&sect; 00253e - Repealed. Pub. L. 103&#8211;355, title I, &sect;1252, Oct. 13, 1994, 108 Stat. 3284](%C2%A7%2000253e%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93355%2C%20title%20I%2C%20%C2%A71252%2C%20Oct.%2013%2C%201994%2C%20108%20Stat.%203284.md)
-- [&sect; 00253f - Economic order qualities](%C2%A7%2000253f%20-%20Economic%20order%20qualities.md)
+- [&sect; 00253f - Economic order quantities](%C2%A7%2000253f%20-%20Economic%20order%20quantities.md)
 - [&sect; 00253g - Prohibition of contractors limiting subcontractor sales directly to United States](%C2%A7%2000253g%20-%20Prohibition%20of%20contractors%20limiting%20subcontractor%20sales%20directly%20to%20United%20States.md)
 - [&sect; 00253h - Task and delivery order contracts general authority](%C2%A7%2000253h%20-%20Task%20and%20delivery%20order%20contracts%20general%20authority.md)
 - [&sect; 00253i - Task order contracts advisory and assistance services](%C2%A7%2000253i%20-%20Task%20order%20contracts%20advisory%20and%20assistance%20services.md)
@@ -52,3 +52,4 @@ This subchapter is referred to in sections 405, 414a, 418a, 421 of this title; t
 - [&sect; 00264b - Preference for acquisition of commercial items](%C2%A7%2000264b%20-%20Preference%20for%20acquisition%20of%20commercial%20items.md)
 - [&sect; 00265 - Contractor employees protection from reprisal for disclosure of certain information](%C2%A7%2000265%20-%20Contractor%20employees%20protection%20from%20reprisal%20for%20disclosure%20of%20certain%20information.md)
 - [&sect; 00266 - Merit-based award of grants for research and development](%C2%A7%2000266%20-%20Merit-based%20award%20of%20grants%20for%20research%20and%20development.md)
+- [&sect; 00266a - Share-in-savings contracts](%C2%A7%2000266a%20-%20Share-in-savings%20contracts.md)

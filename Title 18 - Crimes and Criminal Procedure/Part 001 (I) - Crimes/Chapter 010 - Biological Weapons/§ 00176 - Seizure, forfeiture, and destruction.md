@@ -4,7 +4,7 @@
 
 In General.—(1) Except as provided in paragraph (2), the Attorney General may request the issuance, in the same manner as provided for a search warrant, of a warrant authorizing the seizure of any biological agent, toxin, or delivery system that—
 
-&emsp;(A) exists by reason of conduct prohibited under section 175 of this title; or
+&emsp;(A) pertains to conduct prohibited under section 175 of this title; or
 
 &emsp;(B) is of a type or in a quantity that under the circumstances has no apparent justification for prophylactic, protective, or other peaceful purposes.
 
@@ -22,13 +22,15 @@ Affirmative Defense.—It is an affirmative defense against a forfeiture under s
 
 &emsp;(2) such biological agent, toxin, or delivery system, is of a type and quantity reasonable for that purpose.
 
-(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 103–322, title XXXIII, §330010(16), Sept. 13, 1994, 108 Stat. 2144.)
+(Added Pub. L. 101–298, §3(a), May 22, 1990, 104 Stat. 202; amended Pub. L. 103–322, title XXXIII, §330010(16), Sept. 13, 1994, 108 Stat. 2144; Pub. L. 107–188, title II, §231(c)(3), June 12, 2002, 116 Stat. 661.)
 
 #### References in Text
 
 The customs laws, referred to in subsec. (b), are classified generally to Title 19, Customs Duties.
 
 #### Amendments
+
+2002—Subsec. (a)(1)(A). Pub. L. 107–188 substituted “pertains to” for “exists by reason of”.
 
 1994—Subsec. (b). Pub. L. 103–322 substituted “the Government” for “the government”.
 

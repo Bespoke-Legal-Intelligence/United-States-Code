@@ -64,7 +64,11 @@ Withholding Information From Congress.—This section does not authorize informa
 
 Authority for Cooperative Agreements.—To carry out this chapter, the Secretary may enter into grants, cooperative agreements, and other transactions with any person, agency, or instrumentality of the United States, any unit of State or local government, any educational institution, or any other entity to further the objectives of this chapter. The objectives of this chapter include the development, improvement, and promotion of one-call damage prevention programs, research, risk assessment, and mapping.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1321; Pub. L. 103–429, §6(77), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§12, 19, Oct. 12, 1996, 110 Stat. 3802, 3804.)
+(<i>l</i>)
+
+Safety Orders.—If the Secretary decides that a pipeline facility has a potential safety-related condition, the Secretary may order the operator of the facility to take necessary corrective action, including physical inspection, testing, repair, replacement, or other appropriate action to remedy the safety-related condition.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1321; Pub. L. 103–429, §6(77), Oct. 31, 1994, 108 Stat. 4388; Pub. L. 104–304, §§12, 19, Oct. 12, 1996, 110 Stat. 3802, 3804; Pub. L. 107–355, §7, Dec. 17, 2002, 116 Stat. 2993.)
 
 Historical and Revision Notes
 
@@ -253,6 +257,8 @@ This amends 49:60117(i) by restating section 304(c) of the Pipeline Safety Act o
 | 60117(i)(2) | 49 App.:1682 (note). | Oct. 24, 1992, Pub. L. 102–508, §304(c), 106 Stat. 3308. |
 
 #### Amendments
+
+2002—Subsec. (<i>l</i>). Pub. L. 107–355 added subsec. (<i>l</i>).
 
 1996—Subsec. (a). Pub. L. 104–304, §19, inserted “and promotional activities relating to prevention of damage to pipeline facilities” after “and training activities”.
 

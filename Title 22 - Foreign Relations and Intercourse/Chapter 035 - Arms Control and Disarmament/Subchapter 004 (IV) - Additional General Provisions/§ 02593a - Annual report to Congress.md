@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Not later than January 31 of each year, the President shall submit to the Speaker of theHouse of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report prepared by the Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with the Secretary of Defense, the Secretary of Energy, and the Chairman of the Joint Chiefs of Staff on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
+Not later than April 15 of each year, the President shall submit to the Speaker of the House of Representatives and to the chairman of the Committee on Foreign Relations of the Senate a report prepared by the Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with the Secretary of Defense, the Secretary of Energy, and the Chairman of the Joint Chiefs of Staff on the status of United States policy and actions with respect to arms control, nonproliferation, and disarmament. Such report shall include—
 
 &emsp;(1) a detailed statement concerning the arms control, nonproliferation, and disarmament objectives of the executive branch of Government for the forthcoming year;
 
@@ -40,13 +40,15 @@ If the President in consecutive reports submitted to the Congress under this sec
 
 Each report required by this section shall include a discussion of each significant issue described in subsection (a)(6) of this section that was contained in a previous report issued under this section during 1995, or after December 31, 1995, until the question or concern has been resolved and such resolution has been reported in detail to the appropriate committees of Congress (as defined in section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999).
 
-(Pub. L. 87–297, title IV, §403, formerly §51, as added and amended Pub. L. 103–236, title VII, §717(a)(3), title VIII, §828(a), Apr. 30, 1994, 108 Stat. 498, 520; renumbered §403 and amended, Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(15), (21), Oct. 21, 1998, 112 Stat. 2681–771, 2681–772; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1113\], Nov. 29, 1999, 113 Stat. 1536, 1501A–487.)
+(Pub. L. 87–297, title IV, §403, formerly §51, as added and amended Pub. L. 103–236, title VII, §717(a)(3), title VIII, §828(a), Apr. 30, 1994, 108 Stat. 498, 520; renumbered §403 and amended, Pub. L. 105–277, div. G, subdiv. A, title XII, §1223(15), (21), Oct. 21, 1998, 112 Stat. 2681–771, 2681–772; Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XI, §1113\], Nov. 29, 1999, 113 Stat. 1536, 1501A–487; Pub. L. 107–228, div. B, title XI, §1103, Sept. 30, 2002, 116 Stat. 1426.)
 
 #### References in Text
 
 Section 1102(1) of the Arms Control, Non-Proliferation, and Security Assistance Act of 1999, referred to in subsec. (d), is section 1000(a)(7) \[div. B, title XI, §1102(1)\] of Pub. L. 106–113, which is set out as a note under section 2652c of this title.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–228 substituted “April 15” for “January 31” in introductory provisions.
 
 1999—Subsec. (a)(4). Pub. L. 106–113, §1000(a)(7) \[title XI, §1113(a)(1)(A)–(C)\], in introductory provisions, inserted “or commitments, including the Missile Technology Control Regime,” before “to which”, “or commitments” before “, and shall”, and “or commitment” before “about which”.
 
@@ -56,13 +58,13 @@ Subsec. (d). Pub. L. 106–113, §1000(a)(7) \[title XI, §1113(b)\], added subs
 
 1998—Subsec. (a). Pub. L. 105–277, §1223(15)(A)(ii), (iii), in introductory provisions, substituted “Secretary of State with the concurrence of the Director of Central Intelligence and in consultation with” for “Director, in consultation with the Secretary of State,” and “and the Chairman of the Joint Chiefs of Staff” for “the Chairman of the Joint Chiefs of Staff, and the Director of Central Intelligence”.
 
-Subsec. (a)(1). Pub. L. 105–277, §1223(15)(A)(i), inserted “, nonproliferation,” after “arms control”.
+Subsec. (a)(1). Pub. L. 105–277, §1223(15)(A)(i), inserted “, nonproliferation,” after “arms control”.
 
 Subsec. (a)(2). Pub. L. 105–277, §1223(15)(A)(iv), (v), redesignated par. (3) as (2) and struck out former par. (2) which read as follows: “a detailed statement concerning the nonproliferation objectives of the executive branch of Government for the forthcoming year;”.
 
 Subsec. (a)(3). Pub. L. 105–277, §1223(15)(A)(v), redesignated par. (5) as (3). Former par. (3) redesignated (2).
 
-Pub. L. 105–277, §1223(15)(A)(i), inserted “, nonproliferation,” after “arms control”.
+Pub. L. 105–277, §1223(15)(A)(i), inserted “, nonproliferation,” after “arms control”.
 
 Subsec. (a)(4). Pub. L. 105–277, §1223(15)(A)(iv), (v), redesignated par. (6) as (4) and struck out former par. (4) which read as follows: “a detailed assessment of the status of any ongoing nonproliferation negotiations or other activities, including a comprehensive description of the negotiations or other activities during the preceding year and an appraisal of the status and prospects for the forthcoming year;”.
 

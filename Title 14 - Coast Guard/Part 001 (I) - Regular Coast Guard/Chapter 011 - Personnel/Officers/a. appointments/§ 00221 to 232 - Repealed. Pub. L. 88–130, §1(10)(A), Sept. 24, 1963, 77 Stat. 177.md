@@ -12,7 +12,7 @@ Section 225, act Aug. 4, 1949, ch. 393, 63 Stat. 513, authorized President to ma
 
 Section 226, act Aug. 4, 1949, ch. 393, 63 Stat. 513, authorized appointment of temporary commissioned officers. See section 214 of this title.
 
-Section 227, acts Aug. 4, 1949, ch. 393, 63 Stat. 514; May 5, 1950, ch. 169, §15, 64 Stat. 148, related to promotionand discharge of temporary commissioned officers. See sections 275, 284 of this title.
+Section 227, acts Aug. 4, 1949, ch. 393, 63 Stat. 514; May 5, 1950, ch. 169, §15, 64 Stat. 148, related to promotion and discharge of temporary commissioned officers. See sections 275, 284 of this title.
 
 Section 228, act Aug. 4, 1949, ch. 393, 63 Stat. 514, authorized appointment of commissioned warrant officers. See section 571 et seq. of Title 10, Armed Forces.
 

@@ -10,7 +10,7 @@ In the case of a Convention adoption involving the emigration of a child residin
 
 &emsp;&emsp;(B) the accredited agency or approved person—
 
-&emsp;&emsp;&emsp;(i) has made reasonable efforts to actively recruit and make a diligent search for prospective adoptive parents to adopt the child in the United States; and
+&emsp;&emsp;&emsp;(i) has made reasonable efforts to actively recruit and make a diligent searchfor prospective adoptive parents to adopt the child in the United States; and
 
 &emsp;&emsp;&emsp;(ii) despite such efforts, has not been able to place the child for adoption in the United States in a timely manner; and
 

@@ -58,7 +58,7 @@ Notwithstanding any other provision of law or of this chapter, any Village Corpo
 
 &emsp;With respect to conveyances authorized in paragraph (3), the following rights are retained by the United States:
 
-&emsp;&emsp;(A) To enter upon the conveyance lands, after providing reasonable advance notice in writing to Elim and after providing Elim with an opportunity to have a representative present upon such entry, in order to achieve the purpose and enforce the terms of this paragraph and paragraphs (4) and (6).
+&emsp;&emsp;(A) To enter upon the conveyance lands, after providing reasonable advance notice in writing to Elim and after providing Elimwith an opportunity to have a representative present upon such entry, in order to achieve the purpose and enforce the terms of this paragraph and paragraphs (4) and (6).
 
 &emsp;&emsp;(B) To have, in addition to such rights held by Elim, all rights and remedies available against persons, jointly or severally, who cut or remove Merchantable Timber for sale.
 
@@ -120,7 +120,7 @@ Section 1616(b) of this title, referred to in subsec. (c)(5)(D), (6)(C) was omit
 
 #### Grants to Native Group Corporations for Planning, Development, and Other Purposes
 
-Pub. L. 96–487, title XIV, §1413, Dec. 2, 1980, 94 Stat. 2498, provided that: “The Secretary shall pay by grantto each of the Native Group Corporations established pursuant to section 14(h)(2) of the Alaska Native Claims Settlement Act \[section 1613(h)(2) of this title\] and finally certified as a Native Group, an amount not more than $100,000 or less than $50,000 adjusted according to population of each Group. Funds authorized under this section may be used only for planning, development, and other purposes for which the Native Group Corporations are organized under the Settlement Act \[this chapter\].”
+Pub. L. 96–487, title XIV, §1413, Dec. 2, 1980, 94 Stat. 2498, provided that: “The Secretary shall pay by grant to each of the Native Group Corporations established pursuant to section 14(h)(2) of the Alaska Native Claims Settlement Act \[section 1613(h)(2) of this title\] and finally certified as a Native Group, an amount not more than $100,000 or less than $50,000 adjusted according to population of each Group. Funds authorized under this section may be used only for planning, development, and other purposes for which the Native Group Corporations are organized under the Settlement Act \[this chapter\].”
 
 #### Grants to Village Corporations for Planning, Development and Other Purposes
 

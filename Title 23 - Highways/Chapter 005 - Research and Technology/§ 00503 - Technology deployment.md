@@ -26,7 +26,7 @@ Design.—Each of the goals and the program developed to achieve the goals shall
 
 &emsp;&emsp;(C)
 
-Strategies for achievement.—For each goal, the Secretary, in cooperation with representatives of the transportation community such as States, local governments, the private sector, and academia, shall use domestic and international technology to develop strategies and initiatives to achieve the goal, including technical assistance in deploying technology and mechanisms for sharing information among program participants.
+Strategies for achievement.—For each goal, the Secretary, in cooperation with representatives of the transportation community such as States, local governments, the private sector, and academia, shall use domestic and international technology to develop strategies and initiativesto achieve the goal, including technical assistance in deploying technology and mechanisms for sharing information among program participants.
 
 &emsp;(4)
 

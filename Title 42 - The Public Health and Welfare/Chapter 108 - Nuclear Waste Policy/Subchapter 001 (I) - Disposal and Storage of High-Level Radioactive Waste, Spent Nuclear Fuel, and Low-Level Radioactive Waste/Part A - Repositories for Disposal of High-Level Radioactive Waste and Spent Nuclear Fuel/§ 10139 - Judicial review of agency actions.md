@@ -2,7 +2,7 @@
 
 #### (a) Jurisdiction of United States courts of appeals
 
-(1) Except for review in the Supreme Court of the United States, the United States courts ofappeals shall have original and exclusive jurisdiction over any civil action—
+(1) Except for review in the Supreme Court of the United States, the United States courts of appeals shall have original and exclusive jurisdiction over any civil action—
 
 &emsp;(A) for review of any final decision or action of the Secretary, the President, or the Commission under this part;
 

@@ -12,11 +12,11 @@ Functions of Administrator of General Services transferred to Secretary of Comme
 
 Functions, powers, and duties of Secretary of Commerce and other officers and offices of Department of Commerce relating generally to highways under Reorg. Plan No. 7 of 1949 transferred to and vested in Secretary of Transportation by Pub. L. 89–670, §6(a)(1)(M), Oct. 15, 1966, 80 Stat. 938. Reorg. Plan No. 7 of 1949 was amended by section 2(b) of Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2439, to reflect such transfer.
 
-Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal Works Administrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949, ch. 288, title I, 63 Stat. 380. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. Section 103 is classified to section 753 of Title 40, Public Buildings, Property, and Works.
+Functions of Federal Works Agency and of all agencies thereof, together with functions of Federal WorksAdministrator transferred to Administrator of General Services by section 103(a) of act June 30, 1949, ch. 288, title I, 63 Stat. 380. Both Federal Works Agency and office of Federal Works Administrator abolished by section 103(b) of that act. See text of, and Historical and Revision Notes under, section 303(b) of Title 40, Public Buildings, Property, and Works.
 
 #### Effective Date of Transfer of Functions
 
-Transfer of functions by act June 30, 1949, as effective July 1, 1949, see note set out under section 471 of Title 40, Public Buildings, Property, and Works.
+Transfer of functions by act June 30, 1949, as effective July 1, 1949, see section 605, formerly §505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Adjustment of Boundary of Parkway
 
@@ -58,7 +58,7 @@ Administration.—Land acquired under this section shall be administered by the 
 
 #### “SEC. 3. AUTHORIZATION OF LEASING.
 
-“The Secretary, acting through the Superintendent of the Parkway, may lease land within the boundary ofthe Parkway to the city of Natchez, Mississippi, for any purpose compatible with the Parkway.
+“The Secretary, acting through the Superintendent of the Parkway, may lease land within the boundary of the Parkway to the city of Natchez, Mississippi, for any purpose compatible with the Parkway.
 
 #### “SEC. 4. AUTHORIZATION OF APPROPRIATIONS.
 

@@ -14,9 +14,9 @@ The purpose and duties of DTS-PO shall be to carry out a program for the establi
 
 Public Law 102–140, referred to in subsec. (a), is Pub. L. 102–140, Oct. 28, 1991, 105 Stat. 782, as amended. Title V of the Act is not classified to the Code. For complete classification of this Act to the Code, see Tables.
 
-#### One-Year Suspension of Reorganization of Diplomatic Telecommunications Service Program Office
+#### Two-Year Suspension of Reorganization of Diplomatic Telecommunications Service Program Office
 
-Pub. L. 107–108, title III, §311, Dec. 28, 2001, 115 Stat. 1401, provided that: “Notwithstanding any provision of subtitle B \[§321 et seq.\] of title III of the Intelligence Authorization Act for Fiscal Year 2001 (Public Law 106–567; 114 Stat. 2843; 22 U.S.C. 7301 et seq.), relating to the reorganization of the Diplomatic Telecommunications Service Program Office, no provision of that subtitle shall be effective during the period beginning on the date of the enactment of this Act \[Dec. 28, 2001\] and ending on October 1, 2002.”
+Pub. L. 107–108, title III, §311, Dec. 28, 2001, 115 Stat. 1401, as amended by Pub. L. 107–306, title III, §351, Nov. 27, 2002, 116 Stat. 2401, provided that: “Notwithstanding any provision of subtitle B \[§321 et seq.\] of title III of the Intelligence Authorization Act for Fiscal Year 2001 (Public Law 106–567; 114 Stat. 2843; 22 U.S.C. 7301 et seq.), relating to the reorganization of the Diplomatic Telecommunications Service Program Office, no provision of that subtitle shall be effective during the period beginning on the date of the enactment of this Act \[Dec. 28, 2001\] and ending on October 1, 2003.”
 
 #### Reform of the Diplomatic Telecommunications Service Program Office
 

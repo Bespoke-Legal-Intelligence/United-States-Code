@@ -63,7 +63,7 @@
 | (g) | Reallotment of unpaid allotments. |
 | [1257\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001257%20-%20Mine%20water%20pollution%20control%20demonstrations.md) | Mine water pollution control demonstrations. |
 | (a) | Comprehensive approaches to elimination or control of mine water pollution. |
-| (b) | Consistency of projects with objectives of Appalachian Regional Development Act of 1965. |
+| (b) | Consistency of projects with objectives of subtitle IV of title 40. |
 | (c) | Watershed selection. |
 | (d) | Conditions upon Federal participation. |
 | (e) | Authorization of appropriations. |
@@ -122,19 +122,22 @@
 | (d) | Grants. |
 | (e) | Assistance to distressed communities. |
 | (f) | Authorizations. |
-| [1270\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001270%20-%20Lake%20Champlain%20Management%20Conference.md) | Lake Champlain Management Conference. |
+| [1270\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001270%20-%20Lake%20Champlain%20Basin%20Program.md) | Lake Champlain Basin Program. |
 | (a) | Establishment. |
 | (b) | Membership. |
 | (c) | Technical Advisory Committee. |
 | (d) | Research program. |
 | (e) | Pollution prevention, control, and restoration plan. |
 | (f) | Grant assistance. |
-| (g) | “Lake Champlain drainage basin” defined. |
-| (h) | Statutory interpretation. |
+| (g) | Definitions. |
+| (h) | No effect on certain authority. |
 | (i) | Authorization. |
 | [1271\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001271%20-%20Sediment%20survey%20and%20monitoring.md) | Sediment survey and monitoring. |
 | (a) | Survey. |
 | (b) | Monitoring. |
+| [1271a.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001271a%20-%20Research%20and%20development%20program.md) | Research and development program. |
+| (a) | In general. |
+| (b) | Authorization of appropriations. |
 | [1272\.](Subchapter%20001%20%28I%29%20-%20Research%20and%20Related%20Programs/%C2%A7%2001272%20-%20Environmental%20dredging.md) | Environmental dredging. |
 | (a) | Operation and maintenance of navigation projects. |
 | (b) | Nonproject specific. |
@@ -232,7 +235,7 @@
 | (j) | Agricultural cost sharing. |
 | [1289\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001289%20-%20Basin%20planning.md) | Basin planning. |
 | (a) | Preparation of Level B plans. |
-| (b) | Omitted. |
+| (b) | Reporting requirements. |
 | (c) | Authorization of appropriations. |
 | [1290\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001290%20-%20Annual%20survey.md) | Annual survey. |
 | [1291\.](Subchapter%20002%20%28II%29%20-%20Grants%20for%20Construction%20of%20Treatment%20Works/%C2%A7%2001291%20-%20Sewage%20collection%20systems.md) | Sewage collection systems. |
@@ -446,7 +449,8 @@
 | (j) | Authorization of appropriations. |
 | (k) | Consistency of other programs and projects with management programs. |
 | (<i>l</i>) | Collection of information. |
-| (m) | Set aside for administrative personnel. |
+| (m) | Reports of Administrator. |
+| (n) | Set aside for administrative personnel. |
 | [1330\.](Subchapter%20003%20%28III%29%20-%20Standards%20and%20Enforcement/%C2%A7%2001330%20-%20National%20estuary%20program.md) | National estuary program. |
 | (a) | Management conference. |
 | (b) | Purposes of conference. |
@@ -575,7 +579,7 @@
 | (b) | Notification of agencies. |
 | (c) | Omitted. |
 | (d) | Exemptions. |
-| (e) | Omitted. |
+| (e) | Annual report to Congress. |
 | (f) | Contractor certification or contract clause in acquisition of commercial items. |
 | [1369\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001369%20-%20Administrative%20procedure%20and%20judicial%20review.md) | Administrative procedure and judicial review. |
 | (a) | Subpenas. |
@@ -596,6 +600,11 @@
 | (d) | Quorum; special panel. |
 | (e) | Rules. |
 | [1375\.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001375%20-%20Reports%20to%20Congress%3B%20detailed%20estimates%20and%20comprehensive%20study%20on%20costs%3B%20State%20estimates.md) | Reports to Congress; detailed estimates and comprehensive study on costs; State estimates. |
+| (a) | Implementation of chapter objectives; status and progress of programs. |
+| (b) | Detailed estimates and comprehensive study on costs; State estimates, survey form. |
+| (c) | Status of combined sewer overflows in municipal treatment works operations. |
+| (d) | Legislative recommendations on program requiring coordination between water supply and wastewater control plans as condition for construction grants; public hearing. |
+| (e) | State revolving fund report. |
 | [1375a.](Subchapter%20005%20%28V%29%20-%20General%20Provisions/%C2%A7%2001375a%20-%20Report%20on%20coastal%20recreation%20waters.md) | Report on coastal recreation waters. |
 | (a) | In general. |
 | (b) | Coordination. |
@@ -656,7 +665,7 @@ The Federal Water Pollution Control Act, comprising this chapter, was originally
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 59n–1, 1272, 1293a, 1375a, 1402, 1414b, 1502, 1503, 2317, 2601, 2602, 2801 of this title; title 7 section 1926a; title 10 section 2704; title 16 sections 460zz–2, 460<i>lll</i>, 471i, 1456, 3830, 4711; title 18 section 1956; title 22 section 277d–43; title 26 section 169; title 30 sections 201, 1242, 1251, 1253, 1292, 1303, 1419; title 40 App. section 214; title 42 sections 300h–6, 300h–7, 300j–13, 300j–14, 2022, 4363a, 4365, 4370c, 4905, 5153, 6901, 6905, 6907, 6949, 7412, 8302, 9601, 9603, 9604, 9621, 10341; title 43 sections 421h, 1474b–1, 1577, 1595, 1597; title 49 section 47102.
+This chapter is referred to in sections 59n–1, 1272, 1293a, 1375a, 1402, 1414b, 1502, 1503, 2317, 2601, 2602, 2801 of this title; title 7 section 1926a; title 10 section 2704; title16 sections 460zz–2, 460<i>lll</i>, 471i, 1456, 4711; title 18 section 1956; title 22 section 277d–43; title 26 section 169; title 30 sections 201, 1242, 1251, 1253, 1292, 1303, 1419; title 40 section 14507; title 42 sections 300h–6, 300h–7, 300j–13, 300j–14, 2022, 4363a, 4365, 4370c, 4905, 5153, 6901, 6905, 6907, 6949, 7412, 8302, 9601, 9603, 9604, 9621, 10341; title 43 sections 421h, 1474b–1, 1577, 1595, 1597; title 49 section 47102.
 
 
 ---

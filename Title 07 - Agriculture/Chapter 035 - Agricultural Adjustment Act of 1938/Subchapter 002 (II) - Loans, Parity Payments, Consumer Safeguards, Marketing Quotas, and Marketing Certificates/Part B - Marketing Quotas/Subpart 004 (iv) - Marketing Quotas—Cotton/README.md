@@ -2,7 +2,7 @@ subpart iv—marketing quotas—cotton
 
 #### Subpart Referred to in Other Sections
 
-This subpart is referred to in section 7301 of this title.
+This subpart is referred to in sections 7301, 7992 of this title.
 
 
 ---

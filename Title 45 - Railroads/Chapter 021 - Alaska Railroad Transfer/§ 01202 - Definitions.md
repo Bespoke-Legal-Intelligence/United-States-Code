@@ -34,7 +34,7 @@ As used in this chapter, the term—
 
 &emsp;&emsp;(B) the right of the United States to exercise the power of eminent domain;
 
-&emsp;&emsp;(C) any moneys in the Alaska Railroad Revolving Fund which the Secretary demonstrates, in consultation with the State, are unobligated funds appropriated from general tax revenues or are needed to satisfyobligations incurred by the United States in connection with the operation of the Alaska Railroad which would have been paid from such Fund but for this chapter and which are not assumed by the State pursuant to this chapter;
+&emsp;&emsp;(C) any moneys in the Alaska Railroad Revolving Fund which the Secretary demonstrates, in consultation with the State, are unobligated funds appropriated from general tax revenues or are needed to satisfy obligations incurred by the United States in connection with the operation of the Alaska Railroad which would have been paid from such Fund but for this chapter and which are not assumed by the State pursuant to this chapter;
 
 &emsp;&emsp;(D) any personal property which the Secretary demonstrates, in consultation with the State, prior to the date of transfer under section 1203 of this title, to be necessary to carry out functions of the United States after the date of transfer; and
 

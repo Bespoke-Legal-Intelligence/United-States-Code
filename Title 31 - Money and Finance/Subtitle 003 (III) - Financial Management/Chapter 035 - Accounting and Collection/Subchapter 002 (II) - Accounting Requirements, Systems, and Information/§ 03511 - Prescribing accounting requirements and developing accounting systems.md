@@ -18,13 +18,13 @@
 
 (c) Consistent with subsections (a) and (b) of this section—
 
-&emsp;(1) the authority of the Comptroller General continues under section 205(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486(b)); and
+&emsp;(1) the authority of the Comptroller General continues under section 121(b) of title 40; and
 
 &emsp;(2) the Comptroller General may prescribe the forms, systems, and procedures that the judicial branch of the Government (except the Supreme Court) shall observe.
 
 (d) The Comptroller General, the Secretary, and the President shall conduct a continuous program for improving accounting and financial reporting in the Government.
 
-(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959.)
+(Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 959; Pub. L. 107–217, §3(h)(5), Aug. 21, 2002, 116 Stat. 1299.)
 
 Historical and Revision Notes
 
@@ -65,6 +65,10 @@ In subsection (a), the words “of the United States” are omitted as surplus. 
 In subsection (b)(3), the words “as a whole” and “respective” are omitted as surplus.
 
 Subsection (c)(2) is substituted for 31:49 and the words “and, to the extent he deems necessary, the authority vested in him by section 49 of this title” in 31:66(a) for clarity and consistency. H. Rept. 2556, 81st Cong. (1950), states that the Comptroller General will be able to prescribe appropriation and fund accounting systems under 31:49 “in terms of principles, standards and related requirements rather than in terms of detailed forms and procedures”. The reference to the judicial branch covers authority that the Comptroller General was given under 31:49 that applies to departments and establishments except the Supreme Court that was not superseded by the source provisions restated in subsection (a) of this section.
+
+#### Amendments
+
+2002—Subsec. (c)(1). Pub. L. 107–217 substituted “section 121(b) of title 40” for “section 205(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486(b))”.
 
 #### Adoption of Capital Accounting Standards
 

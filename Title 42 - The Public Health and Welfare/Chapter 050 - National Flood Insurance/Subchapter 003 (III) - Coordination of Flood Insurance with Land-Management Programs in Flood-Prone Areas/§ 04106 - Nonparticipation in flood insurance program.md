@@ -16,7 +16,7 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–325 substituted “Federal entity for lending regulation shall by regulation require the regulated lending institutions described in such section, and each Federal agency lender shallissue regulations requiring the Federal agency lender,” for “Federal instrumentality described in such section shall by regulation require the institutions”.
+1994—Subsec. (b). Pub. L. 103–325 substituted “Federal entity for lending regulation shall by regulation require the regulated lending institutions described in such section, and each Federal agency lender shall issue regulations requiring the Federal agency lender,” for “Federal instrumentality described in such section shall by regulation require the institutions”.
 
 1983—Subsec. (a). Pub. L. 98–181 substituted “Director” for “Secretary”.
 
@@ -27,6 +27,10 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 1975—Subsec. (b). Pub. L. 94–198 substituted “March 1, 1976” for “January 1, 1976”.
 
 Pub. L. 94–50 inserted provision excepting from the prohibition of this section any loan made prior to January 1, 1976, to finance the acquisition of a previously occupied residential dwelling.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Floodplain Management
 

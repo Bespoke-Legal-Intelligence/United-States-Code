@@ -46,9 +46,15 @@ Any sums made available by the Congress in addition to those provided for in sub
 
 &emsp;&emsp;Any reapportionment of funds under this paragraph shall be subject to the matching requirement specified in paragraph (1).
 
-#### (4) Territories
+#### (4) Exception for insular areas
 
-&emsp;In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title.
+#### (A) In general
+
+&emsp;&emsp;Effective beginning for fiscal year 2003, in lieu of the matching funds requirement of paragraph (1), the insular areas of the Commonwealth of Puerto Rico, Guam, and the Virgin Islands of the United States shall provide matching funds from non-Federal sources in an amount equal to not less than 50 percent of the formula funds distributed by the Secretary to each of the insular areas, respectively, under this section.
+
+#### (B) Waivers
+
+&emsp;&emsp;The Secretary may waive the matching fund requirement of subparagraph (A) for any fiscal year if the Secretary determines that the government of the insular area will be unlikely to meet the matching requirement for the fiscal year.
 
 #### (e) “Administration” defined
 
@@ -112,9 +118,9 @@ If in any year the amount made available by a State from its own funds (includin
 
 #### (4) Relationship to other requirements
 
-&emsp;Federal formula funds described in paragraph (1) that are used by a State for a fiscal year for integrated activities in accordance with paragraph (2)(B) may also be used to satisfy the multistate activities requirements of subsection (c)(3) of this section and section 343(h) of this title for the same fiscal year.
+&emsp;Federal formula funds described in paragraph (1) that are used by a State for a fiscalyear for integrated activities in accordance with paragraph (2)(B) may also be used to satisfy the multistate activities requirements of subsection (c)(3) of this section and section 343(h) of this title for the same fiscal year.
 
-(Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(<i>l</i>), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(d)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33.)
+(Mar. 2, 1887, ch. 314, §3, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 671; Pub. L. 92–318, title V, §506(<i>l</i>), June 23, 1972, 86 Stat. 351; Pub. L. 95–113, title XIV, §1466, Sept. 29, 1977, 91 Stat. 1018; Pub. L. 97–98, title XIV, §1442(a), Dec. 22, 1981, 95 Stat. 1321; Pub. L. 101–624, title XVI, §1618(a), Nov. 28, 1990, 104 Stat. 3733; Pub. L. 104–127, title VIII, §869, Apr. 4, 1996, 110 Stat. 1175; Pub. L. 105–185, title I, §104, title II, §§203(a), 204(a), June 23, 1998, 112 Stat. 529, 533, 535; Pub. L. 105–277, div. A, §101(a) \[title VII, §753(d)\], Oct. 21, 1998, 112 Stat. 2681, 2681–33; Pub. L. 107–171, title VII, §7213(a), May 13, 2002, 116 Stat. 448.)
 
 #### References in Text
 
@@ -125,6 +131,8 @@ Act of July 2, 1862, referred to in subsec. (i)(1), is act July 2, 1862, ch. 130
 Section is based on first sentence of section 3 of act Mar. 2, 1887, which was formerly classified to section 368 of this title. See section 361g of this title. The second sentence of said section 3 was reenacted in act Feb. 24, 1925, ch. 308, §3, 43 Stat. 971, and was classified to former section 366 of this title which was repealed by act Aug. 11, 1955, ch. 790, §2, 69 Stat. 674.
 
 #### Amendments
+
+2002—Subsec. (d)(4). Pub. L. 107–171 added par. (4) and struck out heading and text of former par. (4). Text read as follows: “In lieu of the matching funds requirement of paragraph (1), the Commonwealth of Puerto Rico, the Virgin Islands, and Guam shall be subject to the same matching funds requirements as those applicable to an eligible institution under section 3222d of this title.”
 
 1998—Subsec. (b)(1). Pub. L. 105–185, §104(b)(1), made technical amendment to reference in original act which appears in text as reference to subsection (c)(3) of this section.
 
@@ -180,5 +188,5 @@ Amendment by Pub. L. 92–318 effective after June 30, 1970, see section 506(n) 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 343, 3222 of this title.
+This section is referred to in sections 343, 361g, 3222 of this title.
 

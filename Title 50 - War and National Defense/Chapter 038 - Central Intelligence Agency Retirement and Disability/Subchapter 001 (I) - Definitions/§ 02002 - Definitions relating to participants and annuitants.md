@@ -40,7 +40,7 @@ When used in subchapter II of this chapter:
 
 #### (A) Divorces on or before December 4, 1991
 
-&emsp;&emsp;In the case of a divorce that became final on or before December 4, 1991, such term means a former wife or husband of a participant, former participant, or retired participant who was married to such participantfor not less than 10 years during periods of the participant's creditable service, at least 5 years of which were spent outside the United States by both such participant and former wife or husband during the participant's service as an employee of the Agency.
+&emsp;&emsp;In the case of a divorce that became final on or before December 4, 1991, such term means a former wife or husband of a participant, former participant, or retired participant who was married to such participant for not less than 10 years during periods of the participant's creditable service, at least 5 years of which were spent outside the United States by both such participant and former wife or husband during the participant's service as an employee of the Agency.
 
 #### (B) Divorces after December 4, 1991
 
@@ -102,7 +102,7 @@ For purposes of sections 2031 and 2052 of this title:
 
 #### (C) Students
 
-&emsp;&emsp;An unmarried dependent child between 18 and 22 years of age who is a student regularly pursuing a full-time course of study or training in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution.
+&emsp;&emsp;An unmarried dependent child between 18 and 22 years of age who is a student regularly pursuing a full-time course of study ortraining in residence in a high school, trade school, technical or vocational institute, junior college, college, university, or comparable recognized educational institution.
 
 #### (2) Special rules for students
 

@@ -150,7 +150,7 @@ Subsec. (h). Pub. L. 105–318, §3(g), added subsec. (h).
 
 Subsec. (b). Pub. L. 104–294, §601(a)(3), substituted “fine under this title” for “fine of under this title” wherever appearing.
 
-Subsec. (b)(1). Pub. L. 104–208, §211(a)(1)(A), in introductory provisions inserted “except as provided inparagraphs (3) and (4),” after “(1)” and substituted “15 years” for “five years”.
+Subsec. (b)(1). Pub. L. 104–208, §211(a)(1)(A), in introductory provisions inserted “except as provided in paragraphs (3) and (4),” after “(1)” and substituted “15 years” for “five years”.
 
 Subsec. (b)(2). Pub. L. 104–208, §211(a)(1)(B), inserted “except as provided in paragraphs (3) and (4),” after “(2)” in introductory provisions and struck out “and” at end.
 
@@ -216,6 +216,10 @@ Contents.—The report referred to in paragraph (1) shall include—
 
 &emsp;&emsp;“(F) recommendations, if any, for legislative changes that could facilitate more effective investigation and prosecution of the creation and distribution of false identification documents.”
 
+\[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
+\[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.\]
+
 #### Constitutional Authority
 
 Pub. L. 105–318, §2, Oct. 30, 1998, 112 Stat. 3007, provided that: “The constitutional authority upon which this Act \[see Short Title of 1998 Amendments note set out under section 1001 of this title\] rests is the power of Congress to regulate commerce with foreign nations and among the several States, and the authority to make all laws which shall be necessary and proper for carrying into execution the powers vested by the Constitution in the Government of the United States or in any department or officer thereof, as set forth in article I, section 8 of the United States Constitution.”
@@ -262,5 +266,5 @@ Pub. L. 98–473, title II, §609L, Oct. 12, 1984, 98 Stat. 2103, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 922, 981, 982, 2257, 2326, 2516 of this title; title 8 section 1324a; title 22 section 2709; title 31 section 9703; title 42 section 5119a.
+This section is referred to in sections 922, 981, 982, 2257, 2326, 2516 of this title; title 8 section 1324a; title 31 section 9703; title 42 section 5119a.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Authority may approve grants to States and public and nonprofit entities for projects, approved in accordance with section 2009aa–8 of this title—
+The Authority may approve grants to States and public and nonprofit entities for projects,approved in accordance with section 2009aa–8 of this title—
 
 &emsp;(1) to develop the transportation infrastructure of the region for the purpose of facilitating economic development in the region (except that grants for this purpose may only be made to a State or local government);
 
@@ -38,11 +38,11 @@ The Authority may approve grants to States and public and nonprofit entities for
 
 &emsp;&emsp;(D) Job training or employment-related education, with emphasis on use of existing public educational institutions located in the region.
 
-#### (3) Federal share in grant programs
+(Pub. L. 87–128, title III, §382C, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–274; amended Pub. L. 107–171, title VI, §6027(c), May 13, 2002, 116 Stat. 373.)
 
-&emsp;Notwithstanding any provision of law limiting the Federal share in any grant program, funds appropriated to carry out this section may be used to increase a Federal share in a grant program, as the Authority determines appropriate.
+#### Amendments
 
-(Pub. L. 87–128, title III, §382C, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–274.)
+2002—Subsec. (b)(3). Pub. L. 107–171 struck out heading and text of par. (3). Text read as follows: “Notwithstanding any provision of law limiting the Federal share in any grant program, funds appropriated to carry out this section may be used to increase a Federal share in a grant program, as the Authority determines appropriate.”
 
 #### Section Referred to in Other Sections
 

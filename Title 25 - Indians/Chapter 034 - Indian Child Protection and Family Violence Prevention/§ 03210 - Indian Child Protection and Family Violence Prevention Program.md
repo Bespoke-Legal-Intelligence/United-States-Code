@@ -108,7 +108,7 @@ Services provided under contracts made under this section shall supplement, not 
 
 &emsp;(2) social services and case management;
 
-&emsp;(3) training available to Indian tribes, tribal agencies, and Indian organizations regarding the identification, investigation, prevention, and treatment of family violence, child abuse, and child neglect; and
+&emsp;(3) training available to Indian tribes, tribal agencies, and Indian organizations regarding the identification, investigation, prevention,and treatment of family violence, child abuse, and child neglect; and
 
 &emsp;(4) law enforcement services, including investigations and prosecutions.
 

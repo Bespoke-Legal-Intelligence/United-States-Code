@@ -36,5 +36,5 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 922 of this title; title 39 section 3001.
+This section is referred to in section 922 of this title; title 19 section 1583; title 39 section 3001.
 

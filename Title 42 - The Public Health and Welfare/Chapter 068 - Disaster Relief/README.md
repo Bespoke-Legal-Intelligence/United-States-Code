@@ -154,13 +154,16 @@
 | (b) | Authorization by State or local government; indemnification agreement. |
 | (c) | Rules relating to large lots. |
 | (d) | Federal share. |
-| [5174\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005174%20-%20Temporary%20housing%20assistance.md) | Temporary housing assistance. |
-| (a) | Provision of temporary housing. |
-| (b) | Temporary mortgage and rental payments. |
-| (c) | In lieu expenditures. |
-| (d) | Transfer of temporary housing. |
-| (e) | Notification. |
-| (f) | Location. |
+| [5174\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005174%20-%20Federal%20assistance%20to%20individuals%20and%20households.md) | Federal assistance to individuals and households. |
+| (a) | In general. |
+| (b) | Housing assistance. |
+| (c) | Types of housing assistance. |
+| (d) | Terms and conditions relating to housing assistance. |
+| (e) | Financial assistance to address other needs. |
+| (f) | State role. |
+| (g) | Cost sharing. |
+| (h) | Maximum amount of assistance. |
+| (i) | Rules and regulations. |
 | 5175, 5176. Repealed. |  |
 | [5177\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005177%20-%20Unemployment%20assistance.md) | Unemployment assistance. |
 | (a) | Benefit assistance. |
@@ -169,13 +172,7 @@
 | (a) | In general. |
 | (b) | “Low-income migrant or seasonal farmworker” defined. |
 | (c) | Authorization of appropriations. |
-| [5178\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005178%20-%20Individual%20and%20family%20grant%20programs.md) | Individual and family grant programs. |
-| (a) | In general. |
-| (b) | Cost sharing. |
-| (c) | Regulations. |
-| (d) | Administrative expenses. |
-| (e) | Administration through Governor. |
-| (f) | Limit on grants to individual. |
+| [5178\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005178%20-%20Repealed.%20Pub.%20L.%20106%E2%80%93390%2C%20title%20II%2C%20%C2%A7206%28c%29%2C%20Oct.%2030%2C%202000%2C%20114%20Stat.%201571.md) | Repealed. |
 | [5179\.](Subchapter%20004%20%28IV%29%20-%20Major%20Disaster%20Assistance%20Programs/%C2%A7%2005179%20-%20Food%20coupons%20and%20distribution.md) | Food coupons and distribution. |
 | (a) | Persons eligible; terms and conditions. |
 | (b) | Duration of assistance; factors considered. |
@@ -337,7 +334,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1382a, 1490q, 3030, 3149, 3796b, 4003, 4104c, 5154a, 5203, 5206, 5306, 5665a, 8623, 9601, 12750 of this title; title 2 section 59–1; title 7 sections 1421, 1427, 1427a, 1942, 1961, 1964, 1981e, 7285; title 10 section 2662; title 12 sections 1709, 1715<i>l</i>; title 15 section 636; title 16 sections 1536, 1723; title 23 section 125; title 26 sections 143, 165, 1033, 5064, 5708; title 33 section 701n; title 38 section 3720; title 43 section 1600e.
+This chapter is referred to in sections 1320b–5, 1382a, 1490q, 3030, 3149, 3796b, 4003, 4104c, 5154a, 5203, 5206, 5306, 8623, 9601, 12750 of this title; title 2 section 59–1; title 6 sections 317, 466; title 7 sections 1421, 1427, 1427a, 1942, 1961, 1964, 1981e, 2008h, 7285; title 10 section 2662; title 12 sections 1709, 1715<i>l</i>; title 15 section 636; title 16 sections 1536, 1723; title 23 section 125; title 26 sections 143, 165, 1033, 5064, 5708; title 33 section 701n; title 38 sections 1785, 3720, 8111A; title 43 section 1600e.
 
 
 ---

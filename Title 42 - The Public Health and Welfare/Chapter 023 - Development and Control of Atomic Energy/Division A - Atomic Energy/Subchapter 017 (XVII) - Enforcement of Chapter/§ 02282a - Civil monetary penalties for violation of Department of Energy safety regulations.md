@@ -56,7 +56,7 @@ Section effective Aug. 20, 1988, but inapplicable to any violation occurring bef
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2282b of this title.
+This section is referred to in sections 2282b, 2282c of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “and”.</i>
 

@@ -54,15 +54,15 @@ Changes were made in arrangement and phraseology.
 
 #### Amendments
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–113 amended last sentence generally. Prior to amendment, last sentence read as follows: “Court for the Eastern District shall be held at Brooklyn, Hauppauge, and Hempstead (including the village of Uniondale).”
+1999—Subsec. (c). Pub. L. 106–113 amended last sentence generally. Prior to amendment, last sentence read as follows: “Court for the Eastern District shall be held at Brooklyn, Hauppauge, and Hempstead (including the village of Uniondale).”
 
-<b>1996</b>—Subsec. (b). Pub. L. 104–317 amended last sentence generally, substituting “Court for the Southern District shall be held at New York, White Plains, and in the Middletown-Wallkill area of Orange County or such nearby location as may be deemed appropriate.” for “Court for the Southern District shall be held at New York and White Plains.”
+1996—Subsec. (b). Pub. L. 104–317 amended last sentence generally, substituting “Court for the Southern District shall be held at New York, White Plains, and in the Middletown-Wallkill area of Orange County or such nearby location as may be deemed appropriate.” for “Court for the Southern District shall be held at New York and White Plains.”
 
-<b>1990</b>—Subsec. (a). Pub. L. 101–650 substituted “Utica, and Watertown” for “and Utica”.
+1990—Subsec. (a). Pub. L. 101–650 substituted “Utica, and Watertown” for “and Utica”.
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–620 provided for holding court at Hauppauge.
+1984—Subsec. (c). Pub. L. 98–620 provided for holding court at Hauppauge.
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–408, §4(c)(1), added counties of Columbia, Greene, and Ulster to those counties comprising the Northern District of New York.
+1978—Subsec. (a). Pub. L. 95–408, §4(c)(1), added counties of Columbia, Greene, and Ulster to those counties comprising the Northern District of New York.
 
 Subsec. (b). Pub. L. 95–573 provided for holding court at White Plains.
 
@@ -70,9 +70,9 @@ Pub. L. 95–408, §4(c)(2), struck out Columbia, Greene, and Ulster from those 
 
 Subsec. (c). Pub. L. 95–271 substituted “and Hempstead (including the village of Uniondale)” for “Mineola, and Westbury”.
 
-<b>1970</b>—Subsec. (c). Pub. L. 91–546 provided for holding court at Westbury.
+1970—Subsec. (c). Pub. L. 91–546 provided for holding court at Westbury.
 
-<b>1967</b>—Subsec. (c). Pub. L. 90–217 provided for holding court at Mineola.
+1967—Subsec. (c). Pub. L. 90–217 provided for holding court at Mineola.
 
 #### Effective Date of 1984 Amendment
 
@@ -88,7 +88,7 @@ Sections 2 to 5 of Pub. L. 95–271 provided that:
 
 “Sec. 2. The United States District Court for the Eastern District of New York, by order made anywhere within its district, may pretermit the regular session of court at Hempstead until Federal quarters and accommodations are available and ready for occupancy, except that for the entire period and such pretermission, a special session of the court shall be held at Westbury. Pretermission may be ordered without regard to the provisions of section 140(a) of title 28, United States Code.
 
-“Sec. 3. Notwithstanding the provisions of section 142 of title 28, United States Code, the Administrator of General Services, at the request of the Director of the Administrative Office of the United States Courts, shall continue to provide existing quarters and accommodations at Westbury for the duration of the special session held pursuant to section 2 of this Act. Appropriations to the judicial branch of Government shall be available to the Director to make necessary disbursements for such quarters and accommodations, and to pay user charges as required by section 210 of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 490), at rates otherwise authorized by law.
+“Sec. 3. Notwithstanding the provisions of section 142 of title 28, United States Code, the Administrator of General Services, at the request of the Director of the Administrative Office of the United States Courts, shall continue to provide existing quarters and accommodations at Westbury for the duration of the special session held pursuant to section 2 of this Act. Appropriations to the judicial branch of Government shall be available to the Director to make necessary disbursements for such quarters and accommodations, and to pay user charges as required by section 210 of the Federal Property and Administrative Services Act of 1949, as amended (40 U.S.C. 490) \[see now 40 U.S.C. 586, 587\], at rates otherwise authorized by law.
 
 “Sec. 4. Notwithstanding the provisions of section 456 of title 28, United States Code, any judge, and any officer or employee of the judicial branch, whose official station is, on the day before the date of enactment of this Act \[Apr. 28, 1978\], Westbury, may maintain that official station for the duration of the special session held pursuant to section 2 of this Act.
 

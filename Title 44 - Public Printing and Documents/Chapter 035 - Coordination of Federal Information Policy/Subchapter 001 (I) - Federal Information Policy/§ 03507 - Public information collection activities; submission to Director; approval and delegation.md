@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(B) evaluated the public comments received under section 3506(c)(2);
 
-&emsp;&emsp;(C) submitted to the Director the certification required under section 3506(c)(3), the proposed collection of information, copies of pertinent statutory authority, regulations,and other related materials as the Director may specify; and
+&emsp;&emsp;(C) submitted to the Director the certification required under section 3506(c)(3), the proposed collection of information, copies of pertinent statutory authority, regulations, and other related materials as the Director may specify; and
 
 &emsp;&emsp;(D) published a notice in the Federal Register—
 
@@ -50,7 +50,7 @@
 
 &emsp;(A) as soon as practicable, but no later than the date of publication of a notice of proposed rulemaking in the Federal Register, each agency shall forward to the Director a copy of any proposed rule which contains a collection of information and any information requested by the Director necessary to make the determination required under this subsection; and
 
-&emsp;(B) within 60 days after the notice of proposed rulemaking is published in the Federal Register, the Director may file public comments pursuant to the standards set forth in section 3508 on the collection of information contained in the proposed rule;
+&emsp;(B) within 60 days after the notice of proposed rulemaking is published in the Federal Register, the Director may file public comments pursuant to the standards set forth insection 3508 on the collection of information contained in the proposed rule;
 
 (2) When a final rule is published in the Federal Register, the agency shall explain—
 
@@ -86,7 +86,7 @@
 
 &emsp;(A) any information which is protected at all times by procedures established for information which has been specifically authorized under criteria established by an Executive order or an Act of Congress to be kept secret in the interest of national defense or foreign policy; or
 
-&emsp;(B) any communication relating to a collection of information which is not approvedunder this subchapter, the disclosure of which could lead to retaliation or discrimination against the communicator.
+&emsp;(B) any communication relating to a collection of information which is not approved under this subchapter, the disclosure of which could lead to retaliation or discrimination against the communicator.
 
 (f)(1) An independent regulatory agency which is administered by 2 or more members of a commission, board, or similar body, may by majority vote void—
 
@@ -112,7 +112,7 @@
 
 (3) An agency may not make a substantive or material modification to a collection of information after such collection has been approved by the Director, unless the modification has been submitted to the Director for review and approval under this subchapter.
 
-(i)(1) If the Director finds that a senior official of an agency designated under section 3506(a) is sufficiently independent of program responsibility to evaluate fairly whether proposed collections of information should be approved and has sufficient resources to carry out this responsibility effectively, the Director may, by rule in accordance with the notice and comment provisions of chapter 5 of title 5, United States Code, delegate to such official the authority to approve proposed collections of information in specific program areas, for specific purposes, or for all agency purposes.
+(i)(1) If the Director finds that a senior official of an agency designated under section 3506(a) issufficiently independent of program responsibility to evaluate fairly whether proposed collections of information should be approved and has sufficient resources to carry out this responsibility effectively, the Director may, by rule in accordance with the notice and comment provisions of chapter 5 of title 5, United States Code, delegate to such official the authority to approve proposed collections of information in specific program areas, for specific purposes, or for all agency purposes.
 
 (2) A delegation by the Director under this section shall not preclude the Director from reviewing individual collections of information if the Director determines that circumstances warrant such a review. The Director shall retain authority to revoke such delegations, both in general and with regard to any specific matter. In acting for the Director, any official to whom approval authority has been delegated under this section shall comply fully with the rules and regulations promulgated by the Director.
 
@@ -154,7 +154,7 @@ Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see sectio
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
 #### Section Referred to in Other Sections
 

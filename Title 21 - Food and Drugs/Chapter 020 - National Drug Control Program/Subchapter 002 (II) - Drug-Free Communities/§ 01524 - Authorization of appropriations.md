@@ -26,7 +26,7 @@ There are authorized to be appropriated to the Office of National Drug Control P
 
 #### (b) Administrative costs
 
-Not more than the following percentages of the amounts authorized under subsection (a) of this section may be used to pay administrative costs:
+Not more than the following percentages of the amounts authorized under subsection (a) ofthis section may be used to pay administrative costs:
 
 &emsp;(1) 10 percent for fiscal year 1998.
 

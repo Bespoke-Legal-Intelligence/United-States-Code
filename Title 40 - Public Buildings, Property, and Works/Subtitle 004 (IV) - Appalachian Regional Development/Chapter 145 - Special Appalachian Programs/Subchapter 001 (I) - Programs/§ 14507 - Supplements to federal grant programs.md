@@ -1,0 +1,148 @@
+### §14507. Supplements to federal grant programs
+
+(a)
+
+Definition.—
+
+&emsp;(1)
+
+Federal grant programs.—In this section, the term “federal grant programs”—
+
+&emsp;&emsp;(A) means any federal grant program that provides assistance for the acquisition or development of land, the construction or equipment of facilities, or other community or economic development or economic adjustment activities, including a federal grant program authorized by—
+
+&emsp;&emsp;&emsp;(i) the Consolidated Farm and Rural Development Act (7 U.S.C. 1921 et seq.);
+
+&emsp;&emsp;&emsp;(ii) the Land and Water Conservation Fund Act of 1965 (16 U.S.C. 460<i>l</i>–4 et seq.);
+
+&emsp;&emsp;&emsp;(iii) the Watershed Protection and Flood Prevention Act (16 U.S.C. 1001 et seq.);
+
+&emsp;&emsp;&emsp;(iv) the Carl D. Perkins Vocational and Technical Education Act of 1998 (20 U.S.C. 2301 et seq.);
+
+&emsp;&emsp;&emsp;(v) the Federal Water Pollution Control Act (33 U.S.C. 1251 et seq.) (known as the Clean Water Act);
+
+&emsp;&emsp;&emsp;(vi) title VI of the Public Health Services Act (42 U.S.C. 291 et seq.);
+
+&emsp;&emsp;&emsp;(vii) sections 201 and 209 of the Public Works and Economic Development Act of 1965 (42 U.S.C. 3141, 3149);
+
+&emsp;&emsp;&emsp;(viii) title I of the Housing and Community Development Act of 1974 (42 U.S.C. 5301 et seq.); and
+
+&emsp;&emsp;&emsp;(ix) part IV of title III of the Communications Act of 1934 (47 U.S.C. 390 et seq.); but
+
+&emsp;&emsp;(B) does not include—
+
+&emsp;&emsp;&emsp;(i) the program for the construction of the development highway system authorized by section 14501 of this title or any other program relating to highway or road construction authorized by title 23; or
+
+&emsp;&emsp;&emsp;(ii) any other program to the extent that financial assistance other than a grant is authorized.
+
+&emsp;(2)
+
+Certain sewage treatment works deemed constructed with federal grant assistance.—For the purpose of this section, any sewage treatment works constructed pursuant to title II of the Federal Water Pollution Control Act (33 U.S.C. 1281 et seq.) (known as the Clean Water Act) without federal grant assistance under that title is deemed to be constructed with that assistance.
+
+(b)
+
+Purpose.—To enable the people, States, and local communities of the Appalachian region, including local development districts, to take maximum advantage of federal grant programs for which they are eligible but for which, because of their economic situation, they cannot supply the required matching share, or for which there are insufficient amounts available under the federal law authorizing the programs to meet pressing needs of the region, the Federal Cochairman may use amounts made available to carry out this section—
+
+&emsp;(1) for any part of the basic federal contribution to projects or activities under the federal grant programs authorized by federal laws; and
+
+&emsp;(2) to increase the federal contribution to projects and activities under the programs above the fixed maximum part of the cost of the projects or activities otherwise authorized by the applicable law.
+
+(c)
+
+Certification Required.—For a program, project, or activity for which any part of the basic federal contribution to the project or activity under a federal grant program is proposed to be made under subsection (b), the contribution shall not be made until the responsible federal official administering the federal law authorizing the contribution certifies that the program, project, or activity meets the applicable requirements of the federal law and could be approved for federal contribution under that law if amounts were available under the law for the program, project, or activity.
+
+(d)
+
+Limitations in Other Laws Inapplicable.—Amounts provided pursuant to this subtitle are available without regard to any limitations on areas eligible for assistance or authorizations for appropriation in any other law.
+
+(e)
+
+Acceptance of Certain Material.—For a supplemental grant for a project or activity under a federal grant program, the Federal Cochairman shall accept any finding, report, certification, or documentation required to be submitted to the head of the department, agency, or instrumentality of the Federal Government responsible for the administration of the program.
+
+(f)
+
+Federal Share.—The federal portion of the cost of a project or activity shall not—
+
+&emsp;(1) be increased to more than the percentages the Commission establishes; nor
+
+&emsp;(2) be more than 80 percent of the cost.
+
+(g)
+
+Maximum Commission Contribution.—
+
+&emsp;(1)
+
+In general.—Subject to paragraph (2), the Commission may contribute not more than 50 percent of a project or activity cost eligible for financial assistance under this section from amounts appropriated to carry out this subtitle.
+
+&emsp;(2)
+
+Distressed counties.—The maximum Commission contribution for a project or activity to be carried out in a county for which a distressed county designation is in effect under section 14526 of this title may be increased to 80 percent.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1272.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+14507(a)
+
+40 App.:214(c).
+
+Pub. L. 89–4, title II, §214, Mar. 9, 1965, 79 Stat. 17; Pub. L. 90–103, title I, §116, Oct. 11, 1967, 81 Stat. 263; Pub. L. 91–123, title I, §107, Nov. 25, 1969, 83 Stat. 215; Pub. L. 91–258, title I, §52(b)(5), May 21, 1970, 84 Stat. 235; Pub. L. 92–65, title II, §210, Aug. 5, 1971, 85 Stat. 171; Pub. L. 94–188, title I, §115, Dec. 31, 1975, 89 Stat. 1083; Pub. L. 96–506, §3(4), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 98–524, §4(e)(2), Oct. 19, 1984, 98 Stat. 2489; Pub. L. 104–208, div. A, title I, §101(e) \[title VII, §709(a)(5)\], Sept. 30, 1996, 110 Stat. 3009–312; Pub. L. 105–332, §3(g), Oct. 31, 1998, 112 Stat. 3126, Pub. L. 105–393, title II, §217, Nov. 13, 1998, 112 Stat. 3622; Pub. L. 107–149, §13(c), (f), Mar. 12, 2002, 116 Stat. 71.
+
+14507(b)
+
+40 App.:214(a) (1st sentence).
+
+14507(c)
+
+40 App.:214(a) (2d sentence).
+
+14507(d)
+
+40 App.:214(a) (3d sentence).
+
+14507(e)
+
+40 App.:214(a) (last sentence).
+
+14507(f)
+
+40 App.:214(b)(1).
+
+14507(g)
+
+40 App.:214(b)(2).
+
+In subsection (a)(1)(A), before subclause (i), the words “authorized by this Act or any other Act” are omitted as unnecessary.
+
+In subsection (a)(1)(B)(ii), the words “under this Act or any other Act” and “a form of” are omitted as unnecessary.
+
+In subsection (a)(2), the words “title II” are substituted for “section 8(c)” because of the general amendment and revision of the Federal Water Pollution Control Act by section 2 of the Federal Water Pollution Control Act Amendments of 1972 (Public Law 92–500, 86 Stat. 816).
+
+In subsection (g)(1), the words “after September 30, 1998” are omitted as obsolete.
+
+#### References in Text
+
+The Consolidated Farm and Rural Development Act, referred to in subsec. (a)(1)(A)(i), is title III of Pub. L. 87–128, Aug. 8, 1961, 75 Stat. 307, as amended, which is classified principally to chapter 50 (§1921 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 1921 of Title 7 and Tables.
+
+The Land and Water Conservation Fund Act of 1965, referred to in subsec. (a)(1)(A)(ii), is Pub. L. 88–578, Sept. 3, 1964, 78 Stat. 897, as amended, which is classified generally to part B (§460<i>l</i>–4 et seq.) of subchapter LXIX of chapter 1 of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 460<i>l</i>–4 of Title 16 and Tables.
+
+The Watershed Protection and Flood Prevention Act, referred to in subsec. (a)(1)(A)(iii), is act Aug. 4, 1954, ch. 656, 68 Stat. 666, as amended, which is classifiedprincipally to chapter 18 (§1001 et seq.) of Title 16, Conservation. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of Title 16 and Tables.
+
+The Carl D. Perkins Vocational and Technical Education Act of 1998, referred to in subsec. (a)(1)(A)(iv), is Pub. L. 88–210, Dec. 18, 1963, 77 Stat. 403, as amended, which is classified generally to chapter 44 (§2301 et seq.) of Title 20, Education. For complete classification of this Act to the Code, see Short Title note set out under section 2301 of Title 20 and Tables.
+
+The Federal Water Pollution Control Act, referred to in subsec. (a)(1)(A)(v), (2), is act June 30, 1948, ch. 758, as amended generally by Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 816, also known as the Clean Water Act, which is classified generally to chapter 26 (§1251 et seq.) of Title 33, Navigation and Navigable Waters. Title II of the Act is classified generally to subchapter II (§1281 et seq.) of chapter 26 of Title 33. For complete classification of this Act to the Code, see Short Title note set out under section 1251 of Title 33 and Tables.
+
+The Public Health Service Act, referred to in subsec. (a)(1)(A)(vi), is act July 1, 1944, ch. 373, 58 Stat. 682, as amended. Title VI of the Act is classified generally to subchapter IV (§291 et seq.) of chapter 6A of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 201 of Title 42 and Tables.
+
+The Housing and Community Development Act of 1974, referred to in subsec. (a)(1)(A)(viii), is Pub. L. 93–383, Aug. 22, 1974, 88 Stat. 633, as amended. Title I of the Act is classified principally to chapter 69 (§5301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5301 of Title 42 and Tables.
+
+The Communications Act of 1934, referred to in subsec. (a)(1)(A)(ix), is act June 19, 1934, ch. 652, 48 Stat. 1064, as amended. Part IV of title III of the Act is classified generally to part IV (§390 et seq.) of subchapter III of chapter 5 of Title 47, Telegraphs, Telephones, and Radiotelegraphs. For complete classification of this Act to the Code, see section 609 of Title 47 and Tables.
+

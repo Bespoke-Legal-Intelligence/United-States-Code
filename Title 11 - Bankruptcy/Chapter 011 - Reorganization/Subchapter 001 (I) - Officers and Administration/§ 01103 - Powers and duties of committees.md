@@ -32,7 +32,7 @@ Under subsections (c) and (d) the committee, like any party in interest, may con
 
 #### house report no. 95–595
 
-Subsection (a) of this section authorizes a committee appointed under section 1102 to select and authorize the employment of counsel, accountants, or other agents, to represent or perform services for the committee. The committee's selection and authorization is subject to the court's approval, and may only be done at a meeting of the committee at which a majority of its members are present. The subsection provides for the employment of more than one attorney. However, this will be the exception, and not the rule; cause must be shown to depart from the normal standard.
+Subsection (a) of this section authorizes a committee appointed under section 1102 to select and authorize theemployment of counsel, accountants, or other agents, to represent or perform services for the committee. The committee's selection and authorization is subject to the court's approval, and may only be done at a meeting of the committee at which a majority of its members are present. The subsection provides for the employment of more than one attorney. However, this will be the exception, and not the rule; cause must be shown to depart from the normal standard.
 
 Subsection (b) requires a committee's counsel to cease representation of any other entity in connection with the case after he begins to represent the committee. This will prevent the potential of severe conflicts of interest.
 

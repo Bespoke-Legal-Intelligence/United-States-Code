@@ -46,7 +46,7 @@ Status and Compensation.—
 
 Liability.—Members of the board are not personally liable, except for gross negligence.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 105–354, §1(8), Nov. 3, 1998, 112 Stat. 3244; Pub.L. 106–503, title I, §113(b), Nov. 13, 2000, 114 Stat. 2304.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1399; Pub. L. 105–354, §1(8), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 106–503, title I, §113(b), Nov. 13, 2000, 114 Stat. 2304.)
 
 Historical and Revision Notes
 
@@ -139,6 +139,10 @@ Liability of Directors.—Members of the board are not personally liable, except
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–354, §3, Nov. 3, 1998, 112 Stat. 3245, provided that: “The amendment made by section 1(8) of this Act \[amending this section\] shall take effect as if included in the provisions of Public Law 105–225, as of the date of enactment of Public Law 105–225 \[Aug. 12, 1998\].”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should not be capitalized.</i>
 

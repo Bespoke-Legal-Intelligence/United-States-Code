@@ -2,7 +2,7 @@
 
 (a) Except as provided in subsection (b) of this section, all decisions of the Court of Appeals for Veterans Claims and all briefs, motions, documents, and exhibits received by the Court (including a transcript of the stenographic report of the hearings) shall be public records open to the inspection of the public.
 
-(b)(1) The Court may make any provision which is necessary to prevent the disclosure ofconfidential information, including a provision that any such document or information be placed under seal to be opened only as directed by the Court.
+(b)(1) The Court may make any provision which is necessary to prevent the disclosure of confidential information, including a provision that any such document or information be placed under seal to be opened only as directed by the Court.
 
 (2) After the decision of the Court in a proceeding becomes final, the Court may, upon motion of the appellant or the Secretary, permit the withdrawal by the party entitled thereto of originals of books, documents, and records, and of models, diagrams, and other exhibits, submitted to the Court or the Court may, on its own motion, make such other disposition thereof as it considers advisable.
 
@@ -18,5 +18,5 @@ Subsec. (b)(2). Pub. L. 102–82 substituted “may, upon motion of the appellan
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov. 11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
+Amendment by Pub. L. 105–368 effective on first day of first month beginning more than 90 days after Nov.11, 1998, see section 513 of Pub. L. 105–368, set out as a note under section 7251 of this title.
 

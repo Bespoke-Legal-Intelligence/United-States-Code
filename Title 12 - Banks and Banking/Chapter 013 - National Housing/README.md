@@ -888,7 +888,7 @@ Contract of insurance as evidence of eligibility.
 
 (f)
 
-Repealed.
+Disclosure of other mortgage products.
 
 (g)
 
@@ -1058,6 +1058,20 @@ Adjustment of premiums.
 |  |  |
 | :--- | ---: |
 | [1712\.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001712%20-%20Investment%20of%20funds.md) | Investment of funds. |
+| [1712a.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001712a%20-%20Indexing%20of%20FHA%20multifamily%20housing%20loan%20limits.md) | Indexing of FHA multifamily housing loan limits. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Method of indexing.
+
+(b)
+
+Notification.
+
+|  |  |
+| :--- | ---: |
 | [1713\.](Subchapter%20002%20%28II%29%20-%20Mortgage%20Insurance/%C2%A7%2001713%20-%20Rental%20housing%20insurance.md) | Rental housing insurance. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -3773,7 +3787,7 @@ Preferences.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1441a, 1454, 1464, 1701r–1, 1701z–7, 1701z–11, 1709a, 1715z–1a, 1715z–1c, 1715z–4a, 1715z–13b, 1715z–22, 1735f–7a, 1735g, 1786, 1831q, 2710, 3802, 4901 of this title; title 7 section 1933; title 11 section 362; title 15 sections 77ddd, 2227; title 38 section 3704; title 40 section 474; title 40 App. section 213; title 42 sections 1382a, 1437f, 1490a, 1490p–2, 2322, 3012, 3535, 5407, 12709, 12852, 13632; title 48 section 1425.
+This chapter is referred to in sections 1441a, 1454, 1464, 1701r–1, 1701z–7, 1701z–11, 1709a, 1715z–1a, 1715z–1c, 1715z–4a, 1715z–13b, 1715z–22, 1735f–7a, 1735g, 1786, 1831q, 2710, 3802, 4901 of this title; title 7 section 1933; title 11 section 362; title 15 sections 77ddd, 2227; title 38 section 3704; title 40 section 113; title 42 sections 1382a, 1437f, 1490a, 1490p–2, 2322, 3012, 3535, 5407, 12709, 12852, 13632; title 48 section 1425.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

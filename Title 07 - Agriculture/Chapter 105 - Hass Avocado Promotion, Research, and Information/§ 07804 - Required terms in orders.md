@@ -40,7 +40,7 @@ An order shall contain the terms and provisions specified in this section.
 
 #### (B) Adjustment in Board representation
 
-&emsp;&emsp;Three years after the assessment of Hass avocados commences pursuant to an order, and at the end of each 3-year period thereafter, the Avocado Board shall adjust the proportion of producer representatives to importer representatives on the Board under subparagraph (A)(iii) on the basis of the amount of assessments collected from producers and importers over the immediately preceding 3-year period. Any adjustment under this subparagraph shall be subject to the review and approval of the Secretary.
+&emsp;&emsp;Three years after the assessment of Hass avocados commences pursuant to an order, and at the end of each 3-year period thereafter, the Avocado Board shall adjust the proportion of producer representatives to importer representatives on the Board under subparagraph (A)(iii) on the basis of the amount of assessments collected from producers and importers over the immediately preceding 3-year period. Any adjustmentunder this subparagraph shall be subject to the review and approval of the Secretary.
 
 #### (3) Nomination process
 
@@ -140,7 +140,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (B) Industry information
 
-&emsp;&emsp;The order shall provide for the establishment, implementation, administration, and evaluation of appropriate plans and projectsthat will lead to the development of new markets, maintain and expand existing markets, lead to the development of new marketing strategies, or increase the efficiency of the Hass avocado industry, and activities to enhance the image of the Hass avocado industry, and for the disbursement of necessary funds for the purposes described in this subparagraph.
+&emsp;&emsp;The order shall provide for the establishment, implementation, administration, and evaluation of appropriate plans and projects that will lead to the development of new markets, maintain and expand existing markets, lead to the development of new marketing strategies, or increase the efficiency of the Hass avocado industry, and activities to enhance the image of the Hass avocado industry, and for the disbursement of necessary funds for the purposes described in this subparagraph.
 
 #### (C) Research
 
@@ -218,7 +218,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (2) Use of existing personnel and facilities
 
-&emsp;The Board shall use, to the extent possible, the resources, staffs, and facilities of existingorganizations, as provided in subsection (e)(1)(A) of this section.
+&emsp;The Board shall use, to the extent possible, the resources, staffs, and facilities of existing organizations, as provided in subsection (e)(1)(A) of this section.
 
 #### (h) Assessments
 
@@ -276,7 +276,7 @@ The order shall define the general responsibilities of the Avocado Board, which 
 
 #### (4) Timing of submitting assessments
 
-&emsp;The order shall provide that each person required to remit assessments under this subsection shall remit to the Board the assessment due from each sale of Hass avocados that is subject to an assessment within such time period after the sale (not to exceed 60 days after the end of the month in which the sale took place) as is specified in the order.
+&emsp;The order shall provide that each person required to remit assessments under this subsection shall remit to the Board the assessment due from each sale of Hass avocados thatis subject to an assessment within such time period after the sale (not to exceed 60 days after the end of the month in which the sale took place) as is specified in the order.
 
 #### (5) Claiming an exemption from collecting assessments
 
@@ -372,7 +372,7 @@ The Board may not engage in, and shall prohibit the employees and agents of the 
 
 #### (A) In general
 
-&emsp;&emsp;Information obtained from books, records, or reports under paragraph (1) shall be keptconfidential by all officers and employees of the Department of Agriculture and by the staff and agents of the Board.
+&emsp;&emsp;Information obtained from books, records, or reports under paragraph (1) shall be kept confidential by all officers and employees of the Department of Agriculture and by the staff and agents of the Board.
 
 #### (B) Suits and hearings
 
@@ -425,6 +425,10 @@ The order shall contain such other terms and provisions, consistent with this ch
 #### References in Text
 
 The Commodity Promotion, Research, and Information Act of 1996, referred to in subsec. (c)(7), is subtitle B of title V of Pub. L. 104–127, Apr. 4, 1996, 110 Stat. 1032, which is classified generally to subchapter II (§7411 et seq.) of chapter 101 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

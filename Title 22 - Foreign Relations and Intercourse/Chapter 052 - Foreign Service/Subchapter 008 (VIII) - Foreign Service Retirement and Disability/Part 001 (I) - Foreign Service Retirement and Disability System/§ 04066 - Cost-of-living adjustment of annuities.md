@@ -24,7 +24,7 @@ Eligibility for an annuity increase under this section shall be governed by the 
 
 &emsp;(2) Effective from its commencing date, an annuity payable from the Fund under this part to the survivor of an annuitant, except a child entitled to an annuity under section 4046(c) of this title or section 4049(c) or (d) of this title, shall be increased by the total percentage increase the annuitant was receiving under this section at death.
 
-&emsp;(3) For purposes of computing or recomputing an annuity to a child under section 4046(c) or (d) of this title or section 4049(c) or (d) of this title, the items $900, $1,080, $2,700, and$3,240 appearing in section 4046(c) of this title shall be increased by the total percentage increases by which corresponding amounts are being increased under section 8340 of title 5 on the date the annuity of the child becomes effective.
+&emsp;(3) For purposes of computing or recomputing an annuity to a child under section 4046(c) or (d) of this title or section 4049(c) or (d) of this title, the items $900, $1,080, $2,700, and $3,240 appearing in section 4046(c) of this title shall be increased by the total percentage increases by which corresponding amounts are being increased under section 8340 of title 5 on the date the annuity of the child becomes effective.
 
 #### (d) Exclusion of additional annuity purchased after retirement by voluntary contribution
 
@@ -44,7 +44,7 @@ Effective from its commencing date, there shall be an increase of 10 percent in 
 
 &emsp;(A) the maximum pay rate payable for class FS–1 under section 3963 of this title, 30 days before the effective date of the adjustment under this section; or
 
-&emsp;(B) the final pay (or average pay, if higher) of the former participant with respect to whom the annuity is paid, increased by the overall annual average percentage adjustments (compounded) in rates of pay of the Foreign Service Schedule under such section 3963 of this title during the period—
+&emsp;(B) the final pay (or average pay, if higher) of the former participant with respect to whom the annuity is paid, increased by theoverall annual average percentage adjustments (compounded) in rates of pay of the Foreign Service Schedule under such section 3963 of this title during the period—
 
 &emsp;&emsp;(i) beginning on the date the annuity commenced (or, in the case of a survivor of the retired participant, the date the participant's annuity commenced), and
 

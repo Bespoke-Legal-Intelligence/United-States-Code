@@ -11,6 +11,7 @@
 | [2013\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002013%20-%20Purpose%20of%20chapter.md) | Purpose of chapter. |
 | [2014\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002014%20-%20Definitions.md) | Definitions. |
 | [2015\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002015%20-%20Transfer%20of%20property.md) | Transfer of property. |
+| [2015a.](Division%20A%20-%20Atomic%20Energy/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002015a%20-%20Cold%20standby.md) | Cold standby. |
 | [2016\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002016%20-%20Repealed.%20Pub.%20L.%20105%E2%80%9385%2C%20div.%20C%2C%20title%20XXXI%2C%20%C2%A73152%28a%29%281%29%2C%20Nov.%2018%2C%201997%2C%20111%20Stat.%202042.md) | Repealed. |
 | [2017\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2002017%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
@@ -1801,6 +1802,28 @@ Application to certain entities.
 
 |  |  |
 | :--- | ---: |
+| [2282c.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%20%28XVII%29%20-%20Enforcement%20of%20Chapter/%C2%A7%2002282c%20-%20Worker%20health%20and%20safety%20rules%20for%20Department%20of%20Energy%20nuclear%20facilities.md) | Worker health and safety rules for Department of Energy nuclear facilities. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+(a)
+
+Regulations required.
+
+(b)
+
+Civil penalties.
+
+(c)
+
+Contract penalties.
+
+(d)
+
+Coordination of penalties.
+
+|  |  |
+| :--- | ---: |
 | [2283\.](Division%20A%20-%20Atomic%20Energy/Subchapter%20017%20%28XVII%29%20-%20Enforcement%20of%20Chapter/%C2%A7%2002283%20-%20Protection%20of%20nuclear%20inspectors.md) | Protection of nuclear inspectors. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -2562,7 +2585,7 @@ Energy Reorganization Act requirements.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1437f, 1874, 2291, 2296a–3, 2297h–5, 2297–h12, 2301, 2305, 5196e, 5197f, 5812, 5817, 5841, 5842, 5843, 5844, 5846, 5848, 5851, 5876, 5902, 5908, 6903, 6905, 7135a, 7259a, 7412, 7911, 7918, 7920, 7925, 7941, 9601, 9620, 10134, 10141, 10154, 10155, 10197, 10243, 13541 of this title; title 5 sections 7533, 8312; title 10 sections 2344, 2710; title 15 sections 2080, 2602; title 18 section 2516; title 21 section 360jj; title 22 sections 2022, 2024, 2403, 2778a, 2793, 2794, 3203, 3303, 6445; title 30 sections 541b, 541c, 541d; title 50 sections 47f, 438.
+This chapter is referred to in sections 1437f, 1874, 2291, 2296a–3, 2297h–5, 2297–h12, 2301, 2305, 5196e, 5197f, 5812, 5817, 5841, 5842, 5843, 5844, 5846, 5848, 5851, 5876, 5902, 5908, 6903, 6905, 7135a, 7259a, 7412, 7911, 7918, 7920, 7925, 7941, 9601, 9620, 10134, 10141, 10154, 10155, 10197, 10243, 13541 of this title; title 5 sections 7533, 8312; title 6 section 511; title 10 sections 2344, 2710; title 15 sections 2080, 2602; title 18 section 2516; title 21 section 360jj; title 22 sections 2022, 2024, 2403, 2778a, 2793, 2794, 3203, 3303, 6445; title 30 sections 541b, 541c, 541d; title 50 sections 47f, 438.
 
 
 ---

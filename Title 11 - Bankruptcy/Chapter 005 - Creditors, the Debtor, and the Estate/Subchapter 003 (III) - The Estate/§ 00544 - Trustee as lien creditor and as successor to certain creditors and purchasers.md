@@ -1,6 +1,6 @@
 ### §544. Trustee as lien creditor and as successor to certain creditors and purchasers
 
-(a) The trustee shall have, as of the commencement of the case, and without regard to any knowledge of the trustee or of any creditor, the rights and powers of, or may avoid anytransfer of property of the debtor or any obligation incurred by the debtor that is voidable by—
+(a) The trustee shall have, as of the commencement of the case, and without regard to any knowledge of the trustee or of any creditor, the rights and powers of, or may avoid any transfer of property of the debtor or any obligation incurred by the debtor that is voidable by—
 
 &emsp;(1) a creditor that extends credit to the debtor at the time of the commencement of the case, and that obtains, at such time and with respect to such credit, a judicial lien on all property on which a creditor on a simple contract could have obtained such a judicial lien, whether or not such a creditor exists;
 

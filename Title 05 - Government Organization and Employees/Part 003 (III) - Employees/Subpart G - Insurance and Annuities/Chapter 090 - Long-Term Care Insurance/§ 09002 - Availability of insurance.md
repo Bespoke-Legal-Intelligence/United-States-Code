@@ -6,17 +6,21 @@ In General.—The Office of Personnel Management shall establish and, in consult
 
 (b)
 
+Discretionary Authority Regarding Nonappropriated Fund Instrumentalities.—The Secretary of Defense may determine that a nonappropriated fund instrumentality of the Department of Defense is covered under this chapter or is covered under an alternative long-term care insurance program.
+
+(c)
+
 General Requirements.—Long-term care insurance may not be offered under this chapter unless—
 
 &emsp;(1) the only coverage provided is under qualified long-term care insurance contracts; and
 
 &emsp;(2) each insurance contract under which any such coverage is provided is issued by a qualified carrier.
 
-(c)
+(d)
 
 Documentation Requirement.—As a condition for obtaining long-term care insurance coverage under this chapter based on one's status as a qualified relative, an applicant shall provide documentation to demonstrate the relationship, as prescribed by the Office.
 
-(d)
+(e)
 
 Underwriting Standards.—
 
@@ -30,7 +34,7 @@ Spousal parity.—For the purpose of underwriting standards, a spouse of an indi
 
 &emsp;(3)
 
-Guaranteed issue.—Nothing in this chapter shall be considered to require thatlong-term care insurance coverage be guaranteed to an eligible individual.
+Guaranteed issue.—Nothing in this chapter shall be considered to require that long-term care insurance coverage be guaranteed to an eligible individual.
 
 &emsp;(4)
 
@@ -40,13 +44,17 @@ Requirement that contract be fully insured.—In addition to the requirements ot
 
 Higher standards allowable.—Nothing in this chapter shall, in the case of an individual applying for long-term care insurance coverage under this chapter after the expiration of such individual's first opportunity to enroll, preclude the application of underwriting standards more stringent than those that would have applied if that opportunity had not yet expired.
 
-(e)
+(f)
 
 Guaranteed Renewability.—The benefits and coverage made available to eligible individuals under any insurance contract under this chapter shall be guaranteed renewable (as defined by section 7A(2) of the model regulations described in section 7702B(g)(2) of the Internal Revenue Code of 1986), including the right to have insurance remain in effect so long as premiums continue to be timely made. However, the authority to revise premiums under this chapter shall be available only on a class basis and only to the extent otherwise allowable under section 9003(b).
 
-(Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 764.)
+(Added Pub. L. 106–265, title I, §1002(a), Sept. 19, 2000, 114 Stat. 764; amended Pub. L. 107–314, div. A, title XI, §1101(b), Dec. 2, 2002, 116 Stat. 2660.)
 
 #### References in Text
 
-Section 7702B(g)(2) of the Internal Revenue Code of 1986, referred to in subsec. (e), is classified to section 7702B(g)(2) of Title 26, Internal Revenue Code.
+Section 7702B(g)(2) of the Internal Revenue Code of 1986, referred to in subsec. (f), is classified to section 7702B(g)(2) of Title 26, Internal Revenue Code.
+
+#### Amendments
+
+2002—Subsecs. (b) to (f). Pub. L. 107–314 added subsec. (b) and redesignated former subsecs. (b) to (e) as (c) to (f), respectively.
 

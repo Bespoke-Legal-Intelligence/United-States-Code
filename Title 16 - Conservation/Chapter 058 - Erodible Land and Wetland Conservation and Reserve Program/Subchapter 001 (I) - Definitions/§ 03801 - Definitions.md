@@ -62,7 +62,7 @@ Field.—The term “field” means a part of a farm that is separated from the 
 
 &emsp;(C)
 
-Equations.—Not later than 60 days after the date of enactment of this subparagraph, the Secretary shall publish in the Federal Register the universal soil loss equation and wind erosion equation used by the Department of Agriculture as of that date. The Secretary may not change the equations after that dateexcept following notice and comment in a manner consistent with section 553 of title 5.
+Equations.—Not later than 60 days after the date of enactment of this subparagraph, the Secretary shall publish in the Federal Register the universal soil loss equation and wind erosion equation used by the Department of Agriculture as of that date. The Secretary may not change the equations after that date except following notice and comment in a manner consistent with section 553 of title 5.
 
 &emsp;(10) The term “hydric soil” means soil that, in its undrained condition, is saturated, flooded, or ponded long enough during a growing season to develop an anaerobic condition that supports the growth and regeneration of hydrophytic vegetation.
 
@@ -144,9 +144,249 @@ Section 1401 of title XIV of Pub. L. 101–624 provided that: “This title \[en
 
 Title XII of Pub. L. 99–198, which is classified principally to this chapter, is popularly known as the “Sodbuster Law”.
 
+#### Regulations
+
+Pub. L. 107–171, title II, §2702, May 13, 2002, 116 Stat. 279, provided that:
+
+“(a)
+
+In General.—Except as otherwise provided in this title \[see Tables for classification\] or an amendment made by this title, not later than 90 days after the date of enactment of this Act \[May 13, 2002\], the Secretary of Agriculture, in consultation with the Commodity Credit Corporation, shall promulgate such regulations as are necessary to implement this title.
+
+“(b)
+
+Applicable Authority.—The promulgation of regulations under subsection (a) and administration of this title—
+
+&emsp;“(1) shall—
+
+&emsp;&emsp;“(A) be carried out without regard to chapter 35 of title 44, United States Code (commonly known as the Paperwork Reduction Act); and
+
+&emsp;&emsp;“(B) the Statement of Policy of the Secretary of Agriculture effective July 24, 1971 (36 Fed. Reg. 13804) relating to notices of proposed rulemaking and public participation in rulemaking; and
+
+&emsp;“(2) may—
+
+&emsp;&emsp;“(A) be promulgated with an opportunity for notice and comment; or
+
+&emsp;&emsp;“(B) if determined to be appropriate by the Secretary of Agriculture or the Commodity Credit Corporation, as an interim rule effective on publication with an opportunity for notice and comment.
+
+“(c)
+
+Congressional Review of Agency Rulemaking.—In carrying out this section, the Secretaryshall use the authority provided under section 808(2) of title 5, United States Code.”
+
 #### Termination of Trust Territory of the Pacific Islands
 
 For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
+
+#### Reform and Assessment of Conservation Programs
+
+Pub. L. 107–171, title II, §2005, May 13, 2002, 116 Stat. 237, provided that:
+
+“(a)
+
+In General.—The Secretary of Agriculture shall develop a plan to coordinate land retirement and agricultural working land conservation programs that are administered by the Secretary to achieve the goals of—
+
+&emsp;“(1) eliminating redundancy;
+
+&emsp;“(2) streamlining program delivery; and
+
+&emsp;“(3) improving services provided to agricultural producers (including the reevaluation of the provision of technical assistance).
+
+“(b)
+
+Report.—Not later than December 31, 2005, the Secretary of Agriculture shall submit to the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, a report that describes—
+
+&emsp;“(1) the plan developed under subsection (a); and
+
+&emsp;“(2) the means by which the Secretary intends to achieve the goals described in subsection (a).”
+
+#### Conservation Corridor Demonstration Program
+
+Pub. L. 107–171, title II, subtitle G, May 13, 2002, 116 Stat. 275, provided that:
+
+#### “SEC. 2601. DEFINITIONS.
+
+“In this subtitle:
+
+&emsp;“(1)
+
+Delmarva peninsula.—The term ‘Delmarva Peninsula’ means land in the States of Delaware, Maryland, and Virginia located on the east side of the Chesapeake Bay.
+
+&emsp;“(2)
+
+Demonstration program.—The term ‘demonstration program’ means the Conservation Corridor Demonstration Program established under this subtitle.
+
+&emsp;“(3)
+
+Conservation corridor plan; plan.—The terms ‘conservation corridor plan’ and ‘plan’ mean a conservation corridor plan required to be submitted and approved as a condition for participation in the demonstration program.
+
+&emsp;“(4)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Agriculture.
+
+#### “SEC. 2602. CONSERVATION CORRIDOR DEMONSTRATION PROGRAM.
+
+“(a)
+
+Establishment.—The Secretary shall carry out a demonstration program, to be known as the ‘Conservation Corridor Demonstration Program’, under which any of the States of Delaware, Maryland, and Virginia, a local government of any 1 of those States with jurisdiction over land on the Delmarva Peninsula, or a combination of those States, may submit a conservation corridor plan to integrate agriculture and forestry conservation programs of the Department of Agriculture with State and local efforts to address farm conservation needs.
+
+“(b)
+
+Submission of Conservation Corridor Plan.—
+
+&emsp;“(1)
+
+Submission and proposal.—To be eligible to participate in the demonstration program, a State, local government, or combination of States referred to in subsection (a) shall—
+
+&emsp;&emsp;“(A) submit to the Secretary a conservation corridor plan that—
+
+&emsp;&emsp;&emsp;“(i) proposes specific criteria and commitment of resources in the geographic region designated in the plan; and
+
+&emsp;&emsp;&emsp;“(ii) describes how the linkage of Federal, State, and local resources will improve—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) the economic viability of agriculture; and
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) the environmental integrity of the watersheds in the Delmarva Peninsula; and
+
+&emsp;&emsp;“(B) demonstrate to the Secretary that, in developing the plan, the State, local government, or combination of States has solicited and taken into account the views of local residents.
+
+&emsp;“(2)
+
+Draft memorandum of agreement.—If the conservation corridor plan is submitted by more than 1 State, the plan shall provide a draft memorandum of agreement among entities in each submitting State.
+
+“(c)
+
+Review of Plan.—Not later than 90 days after the date of receipt of a conservation corridor plan, the Secretary—
+
+&emsp;“(1) shall review the plan; and
+
+&emsp;“(2) may approve the plan for implementation under this subtitle if the Secretary determines that the plan meets the requirements specified in subsection (d).
+
+“(d)
+
+Criteria for Approval.—The Secretary may approve a conservation corridor plan only if, as determined by the Secretary, the plan provides for each of the following:
+
+&emsp;“(1)
+
+Voluntary actions.—Actions taken under the plan—
+
+&emsp;&emsp;“(A) are voluntary;
+
+&emsp;&emsp;“(B) require the consent of willing landowners; and
+
+&emsp;&emsp;“(C) provide a mechanism by which the landowner may withdraw such consent without adverse consequences other than the loss of any payments to the landowner conditioned on continued enrollment of the land.
+
+&emsp;“(2)
+
+Land of high conservation value.—Criteria specified in the plan ensure that land enrolled in each conservation program incorporated through the plan are of exceptionally high conservation value, as determined by the Secretary.
+
+&emsp;“(3)
+
+No effect on unenrolled land.—The enrollment of land in a conservation program incorporated through the plan will neither—
+
+&emsp;&emsp;“(A) adversely affect any adjacent land not so enrolled; nor
+
+&emsp;&emsp;“(B) create any buffer zone on such unenrolled land.
+
+&emsp;“(4)
+
+Greater benefits.—The conservation programs incorporated through the plan provide benefits greater than the benefits that would likely be achieved through individual application of the conservation programs.
+
+&emsp;“(5)
+
+Sufficient staffing.—Staffing, considering both Federal and non-Federal resources, is sufficient to ensure success of the plan.
+
+#### “SEC. 2603. IMPLEMENTATION OF CONSERVATION CORRIDOR PLAN.
+
+“(a)
+
+Memorandum of Agreement.—On approval of a conservation corridor plan, the Secretary may enter into a memorandum of agreement with the State, local government, or combination of States that submitted the plan to—
+
+&emsp;“(1) guarantee specific program resources for implementation of the plan;
+
+&emsp;“(2) establish various compensation rates to the extent that the parties to the agreement consider justified; and
+
+&emsp;“(3) provide streamlined and integrated paperwork requirements.
+
+“(b)
+
+Continued Compliance With Plan Approval Criteria.—The Secretary shall terminate the memorandum of agreement entered into under subsection (a) with respect to an approved conservation corridor plan and cease the provision of resources for implementation of the plan if the Secretary determines that, in the implementation of the plan—
+
+&emsp;“(1) the State, local government, or combination of States that submitted the plan has deviated from—
+
+&emsp;&emsp;“(A) the plan;
+
+&emsp;&emsp;“(B) the criteria specified in section 2602(d) on which approval of the plan was conditioned; or
+
+&emsp;&emsp;“(C) the cost-sharing requirements of section 2604(a) or any other condition of the plan; or
+
+&emsp;“(2) the economic viability of agriculture in the geographic region designated in the plan is being hindered.
+
+“(c)
+
+Progress Report.—At the end of the 3-year period that begins on the date on which funds are first provided with respect to a conservation corridor plan under the demonstration program, the State, local government, or combination of States that submitted the plan shall submit to the Secretary—
+
+&emsp;“(1) a report on the effectiveness of the activities carried out under the plan; and
+
+&emsp;“(2) an evaluation of the economic viability of agriculture in the geographic region designated in the plan.
+
+“(d)
+
+Duration.—The demonstration program shall be carried out for not less than 3 nor more than 5 years beginning on the date on which funds are first provided under the demonstration program.
+
+#### “SEC. 2604. FUNDING REQUIREMENTS.
+
+“(a)
+
+Cost Sharing.—
+
+&emsp;“(1)
+
+Required non-federal share.—Subject to paragraph (2), as a condition on the approval of a conservation corridor plan, the Secretary shall require the State and local participants to contribute financial resources sufficient to cover at least 50 percent of the total cost of the activities carried out under the plan.
+
+&emsp;“(2)
+
+Exception.—The Secretary may reduce the cost-sharing requirement in the case of a specific project or activity under the demonstration program on good cause and on demonstration that the project or activity is likely to achieve extraordinary natural resource benefits.
+
+“(b)
+
+Reservation of Funds.—The Secretary may consider directing funds on a priority basis to the demonstration program and to projects in areas identified by the plan.
+
+“(c)
+
+Authorization of Appropriations.—There are authorized to be appropriated such sums as are necessary to carry out this subtitle for each of fiscal years 2002 through 2007.”
+
+#### Cranberry Acreage Reserve Program
+
+Pub. L. 107–171, title X, §10608, May 13, 2002, 116 Stat. 515, provided that:
+
+“(a)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Eligible area.—The term ‘eligible area’ means a wetland or buffer strip adjacent to a wetland that, as determined by the Secretary—
+
+&emsp;&emsp;“(A)(i) is used, and has a history of being used, for the cultivation of cranberries; or
+
+&emsp;&emsp;“(ii) is an integral component of a cranberry-growing operation;
+
+&emsp;&emsp;“(B) is located in an environmentally sensitive area.
+
+&emsp;“(2)
+
+Secretary.—The term ‘Secretary’ means the Secretary of Agriculture.
+
+“(b)
+
+Program.—The Secretary shall establish a program to purchase permanent easements in eligible areas from willing sellers.
+
+“(c)
+
+Purchase Price.—The Secretary shall ensure, to the maximum extent practicable, that each easement purchased under this section is for an amount that appropriately reflects the range of values for agricultural and nonagricultural land in the region in which the eligible area subject to the easement is located (including whether that land is located in 1 or more environmentally sensitive areas, as determined by the Secretary).
+
+“(d)
+
+Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $10,000,000.”
 
 #### Section Referred to in Other Sections
 

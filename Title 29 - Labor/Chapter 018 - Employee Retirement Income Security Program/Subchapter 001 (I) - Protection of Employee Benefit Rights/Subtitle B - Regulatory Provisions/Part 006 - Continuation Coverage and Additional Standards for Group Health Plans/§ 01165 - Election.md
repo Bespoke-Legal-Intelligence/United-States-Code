@@ -1,5 +1,7 @@
 ### §1165. Election
 
+#### (a) In general
+
 For purposes of this part—
 
 #### (1) Election period
@@ -20,19 +22,73 @@ For purposes of this part—
 
 &emsp;Except as otherwise specified in an election, any election of continuation coverage by a qualified beneficiary described in subparagraph (A)(i) or (B) of section 1167(3) of this title shall be deemed to include an election of continuation coverage on behalf of any other qualified beneficiary who would lose coverage under the plan by reason of the qualifying event. If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.
 
-(Pub. L. 93–406, title I, §605, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 230; amended Pub. L. 99–514, title XVIII, §1895(d)(5)(B), Oct. 22, 1986, 100 Stat. 2939.)
+#### (b) Temporary extension of COBRA election period for certain individuals
+
+#### (1) In general
+
+&emsp;In the case of a nonelecting TAA-eligible individual and notwithstanding subsection (a) of this section, such individual may elect continuation coverage under this part during the 60-day period that begins on the first day of the month in which the individual becomes a TAA-eligible individual, but only if such election is made not later than 6 months after the date of the TAA-related loss of coverage.
+
+#### (2) Commencement of coverage; no reach-back
+
+&emsp;Any continuation coverage elected by a TAA-eligible individual under paragraph (1) shall commence at the beginning of the 60-day election period described in such paragraph and shall not include any period prior to such 60-day election period.
+
+#### (3) Preexisting conditions
+
+&emsp;With respect to an individual who elects continuation coverage pursuant to paragraph (1), the period—
+
+&emsp;&emsp;(A) beginning on the date of the TAA-related loss of coverage, and
+
+&emsp;&emsp;(B) ending on the first day of the 60-day election period described in paragraph (1),
+
+> &emsp;shall be disregarded for purposes of determining the 63-day periods referred to in section 1181(c)(2) of this title, section 300gg(c)(2) of title 42, and section 9801(c)(2) of title 26.
+
+#### (4) Definitions
+
+&emsp;For purposes of this subsection:
+
+#### (A) Nonelecting taa-eligible individual
+
+&emsp;&emsp;The term “nonelecting TAA-eligible individual” means a TAA-eligible individual who—
+
+&emsp;&emsp;&emsp;(i) has a TAA-related loss of coverage; and
+
+&emsp;&emsp;&emsp;(ii) did not elect continuation coverage under this part during the TAA-related election period.
+
+#### (B) TAA-eligible individual
+
+&emsp;&emsp;The term “TAA-eligible individual” means—
+
+&emsp;&emsp;&emsp;(i) an eligible TAA recipient (as defined in paragraph (2) of section 35(c) of title 26), and
+
+&emsp;&emsp;&emsp;(ii) an eligible alternative TAA recipient (as defined in paragraph (3) of such section).
+
+#### (C) TAA-related election period
+
+&emsp;&emsp;The term “TAA-related election period” means, with respect to a TAA-related loss of coverage, the 60-day election period under this part which is a direct consequence of such loss.
+
+#### (D) TAA-related loss of coverage
+
+&emsp;&emsp;The term “TAA-related loss of coverage” means, with respect to an individual whose separation from employment gives rise to being an TAA-eligible individual, the loss of health benefits coverage associated with such separation.
+
+(Pub. L. 93–406, title I, §605, as added Pub. L. 99–272, title X, §10002(a), Apr. 7, 1986, 100 Stat. 230; amended Pub. L. 99–514, title XVIII, §1895(d)(5)(B), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 107–210, div. A, title II, §203(e)(1), Aug. 6, 2002, 116 Stat. 969.)
 
 #### References in Text
 
-Section 1166(4) of this title, referred to in par. (1)(C)(ii), was redesignated as section 1166(a)(4) of this title by Pub. L. 101–239, title VII, §7891(d)(1)(A)(ii)(I), Dec. 19, 1989, 103 Stat. 2445.
+Section 1166(4) of this title, referred to in subsec. (a)(1)(C)(ii), was redesignated as section 1166(a)(4) of this title by Pub. L. 101–239, title VII, §7891(d)(1)(A)(ii)(I), Dec. 19, 1989, 103 Stat. 2445.
 
 #### Amendments
+
+2002—Pub. L. 107–210 designated existing provisions as subsec. (a), inserted heading, and added subsec. (b).
 
 1986—Par. (2). Pub. L. 99–514 inserted “of continuation coverage” after “any election” and inserted at end “If there is a choice among types of coverage under the plan, each qualified beneficiary is entitled to make a separate selection among such types of coverage.”
 
 #### Effective Date of 1986 Amendment
 
 Amendment by Pub. L. 99–514 effective, except as otherwise provided, as if included in enactment of the Consolidated Omnibus Budget Reconciliation Act of 1985, Pub. L. 99–272, see section 1895(e) of Pub. L. 99–514, set out as a note under section 162 of Title 26, Internal Revenue Code.
+
+#### Construction of 2002 Amendment
+
+Nothing in amendment by Pub. L. 107–210, other than provisions relating to COBRA continuation coverage and reporting requirements, to be construed as creating new mandate on any party regarding health insurance coverage, see section 203(f) of Pub. L. 107–210, set out as a note under section 2918 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

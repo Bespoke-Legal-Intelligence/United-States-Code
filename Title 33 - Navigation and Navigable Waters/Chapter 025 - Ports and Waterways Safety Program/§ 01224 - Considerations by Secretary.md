@@ -2,7 +2,7 @@
 
 In carrying out his duties and responsibilities under section 1223 of this title, the Secretary shall—
 
-&emsp;(a) take into account all relevant factors concerning navigation and vessel safety and protection of the marine environment, including but not limited to—
+&emsp;(a) take into account all relevant factors concerning navigation and vessel safety, protection of the marine environment, and the safety and security of United States ports and waterways, including but not limited to—
 
 &emsp;&emsp;(1) the scope and degree of the risk or hazard involved;
 
@@ -24,9 +24,11 @@ In carrying out his duties and responsibilities under section 1223 of this title
 
 &emsp;(b) at the earliest possible time, consult with and receive and consider the views of representatives of the maritime community, ports and harbor authorities or associations, environmental groups, and other parties who may be affected by the proposed actions.
 
-(Pub. L. 92–340, §5, formerly title I, §104, July 10, 1972, 86 Stat. 427; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1474.)
+(Pub. L. 92–340, §5, formerly title I, §104, July 10, 1972, 86 Stat. 427; renumbered and amended Pub. L. 95–474, §2, Oct. 17, 1978, 92 Stat. 1474; Pub. L. 107–295, title IV, §443(2), Nov. 25, 2002, 116 Stat. 2132.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–295 substituted “safety, protection of the marine environment, and the safetyand security of United States ports and waterways,” for “safety and protection of the marine environment,” in introductory provisions.
 
 1978—Pub. L. 95–474 substituted provision relating to factors to be considered by the Secretary and to consultation by the Secretary with affected groups for provision relating to the issuance of rules and regulations by the Secretary.
 

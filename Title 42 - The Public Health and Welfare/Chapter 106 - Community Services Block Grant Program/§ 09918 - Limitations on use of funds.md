@@ -34,7 +34,7 @@
 
 #### (1) In general
 
-&emsp;No person shall, on the basis of race, color, national origin, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity funded in whole or in part with funds made available under this chapter. Any prohibition against discrimination on the basis of age under the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.) or with respectto an otherwise qualified individual with a disability as provided in section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), or title II of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq.) shall also apply to any such program or activity.
+&emsp;No person shall, on the basis of race, color, national origin, or sex be excluded from participation in, be denied the benefits of, or be subjected to discrimination under, any program or activity funded in whole or in part with funds made available under this chapter. Any prohibition against discrimination on the basis of age under the Age Discrimination Act of 1975 (42 U.S.C. 6101 et seq.) or with respect to an otherwise qualified individual with a disability as provided in section 504 of the Rehabilitation Act of 1973 (29 U.S.C. 794), or title II of the Americans with Disabilities Act of 1990 (42 U.S.C. 12131 et seq.) shall also apply to any such program or activity.
 
 #### (2) Action of Secretary
 

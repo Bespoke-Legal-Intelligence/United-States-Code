@@ -108,7 +108,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (2) The hazardous wastes to which the prohibition under paragraph (1) applies are as follows—
 
-&emsp;(A) dioxin-containing hazardous wastes numbered F020, F021, F022, and F023 (as referred to in the proposed rule published by the Administrator in the Federal Register for April 4, 1983), and
+&emsp;(A) dioxin-containing hazardous wastes numbered F020, F021, F022, and F023 (as referred to in the proposed rule published by theAdministrator in the Federal Register for April 4, 1983), and
 
 &emsp;(B) those hazardous wastes numbered F001, F002, F003, F004, and F005 in regulations promulgated by the Administrator under section 6921 of this title (40 C.F.R. 261.31 (July 1, 1983)), as those regulations are in effect on July 1, 1983.
 
@@ -168,7 +168,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (7) Solid waste identified as hazardous based solely on one or more characteristics shall not be subject to this subsection, any prohibitions under subsection (d), (e), or (f) of this section, or any requirement promulgated under subsection (m) of this section (other than any applicable specific methods of treatment, as provided in paragraph (8)) if the waste—
 
-&emsp;(A) is treated in a treatment system that subsequently discharges to waters of the United States pursuant to a permit issued under section 1342 of title 33, treated for the purposes of the pretreatment requirements of section 1317 of title 33, or treated in a zero discharge system that, prior to any permanent land disposal, engages in treatment that isequivalent to treatment required under section 1342 of title 33 for discharges to waters of the United States, as determined by the Administrator; and
+&emsp;(A) is treated in a treatment system that subsequently discharges to waters of the United States pursuant to a permit issued under section 1342 of title 33, treated for the purposes of the pretreatment requirements of section 1317 of title 33, or treated in a zero discharge system that, prior to any permanent land disposal, engages in treatment that is equivalent to treatment required under section 1342 of title 33 for discharges to waters of the United States, as determined by the Administrator; and
 
 &emsp;(B) no longer exhibits a hazardous characteristic prior to management in any land-based solid waste management unit.
 
@@ -184,7 +184,7 @@ Not later than eighteen months after October 21, 1976, and after opportunity for
 
 (1) A prohibition in regulations under subsection (d), (e), (f), or (g) of this section shall be effective immediately upon promulgation.
 
-(2) The Administrator may establish an effective date different from the effective date which would otherwise apply under subsection (d), (e), (f), or (g) of this section with respect to a specific hazardous waste which is subject to a prohibition under subsection (d), (e), (f), or (g) of this section or under regulations under subsection (d), (e), (f), or (g) of this section. Any such other effective date shall be established on the basis of the earliest date on which adequate alternative treatment, recovery, or disposal capacity which protects human health and the environment will be available. Any such other effective date shall in no event be later than 2 years after the effective date of the prohibition which would otherwise apply under subsection (d), (e), (f), or (g) of this section.
+(2) The Administrator may establish an effective date different from the effective date which would otherwise apply under subsection (d), (e), (f), or (g) of this section with respect to a specific hazardous waste which is subject to a prohibition under subsection (d), (e), (f), or (g) of this section or under regulations under subsection (d), (e), (f), or (g) of this section. Anysuch other effective date shall be established on the basis of the earliest date on which adequate alternative treatment, recovery, or disposal capacity which protects human health and the environment will be available. Any such other effective date shall in no event be later than 2 years after the effective date of the prohibition which would otherwise apply under subsection (d), (e), (f), or (g) of this section.
 
 (3) The Administrator, after notice and opportunity for comment and after consultation with appropriate State agencies in all affected States, may on a case-by-case basis grant an extension of the effective date which would otherwise apply under subsection (d), (e), (f), or (g) of this section or under paragraph (2) for up to one year, where the applicant demonstrates that there is a binding contractual commitment to construct or otherwise provide such alternative capacity but due to circumstances beyond the control of such applicant such alternative capacity cannot reasonably be made available by such effective date. Such extension shall be renewable once for no more than one additional year.
 
@@ -204,7 +204,7 @@ For the purposes of this section, the term “land disposal”, when used with r
 
 #### (<i>l</i>) Ban on dust suppression
 
-The use of waste or used oil or other material, which is contaminated or mixed with dioxin or any other hazardous waste identified or listed under section 6921 of this title (other than awaste identified solely on the basis of ignitability), for dust suppression or road treatment is prohibited.
+The use of waste or used oil or other material, which is contaminated or mixed with dioxin or any other hazardous waste identified or listed under section 6921 of this title (other than a waste identified solely on the basis of ignitability), for dust suppression or road treatment is prohibited.
 
 #### (m) Treatment standards for wastes subject to land disposal prohibition
 
@@ -250,7 +250,7 @@ Not later than thirty months after November 8, 1984, the Administrator shall pro
 
 (5)(A) The Administrator shall promulgate regulations or issue guidance documents implementing the requirements of paragraph (1)(A) within two years after November 8, 1984.
 
-(B) Until the effective date of such regulations or guidance documents, the requirement for the installation of two or more liners may be satisfied by the installation of a top liner designed, operated, and constructed of materials to prevent the migration of any constituent into such liner during the period such facility remains in operation (including any post-closure monitoring period), and a lower liner designed, operated <sup>3</sup> and constructed to prevent the migration of any constituent through such liner during such period. For the purpose of the preceding sentence, a lower liner shall be deemed to satisfy such requirement if it is constructed of at least a 3-foot thick layer of recompacted clay orother natural material with a permeability of no more than 1×10G5^7 centimeter per second.
+(B) Until the effective date of such regulations or guidance documents, the requirement for the installation of two or more liners may be satisfied by the installation of a top liner designed, operated, and constructed of materials to prevent the migration of any constituent into such liner during the period such facility remains in operation (including any post-closure monitoring period), and a lower liner designed, operated <sup>3</sup> and constructed to prevent the migration of any constituent through such liner during such period. For the purpose of the preceding sentence, a lower liner shall be deemed to satisfy such requirement if it is constructed of at least a 3-foot thick layer of recompacted clay or other natural material with a permeability of no more than 1×10G5^7 centimeter per second.
 
 (6) Any permit under section 6925 of this title which is issued for a landfill located within the State of Alabama shall require the installation of two or more liners and a leachate collection system above and between such liners, notwithstanding any other provision of this chapter.
 
@@ -278,7 +278,7 @@ The standards under this section concerning ground water monitoring which are ap
 
 &emsp;&emsp;(ii) from any hazardous waste identified or listed under section 6921 of this title and any other material;
 
-&emsp;(B) standards applicable to the owners and operators of facilities which burn, for purposes of energy recovery, any fuel produced as provided in subparagraph (A) or any fuel which otherwise contains any hazardous waste identified or listed under section 6921 of this title; and
+&emsp;(B) standards applicable to the owners and operators of facilities which burn, for purposesof energy recovery, any fuel produced as provided in subparagraph (A) or any fuel which otherwise contains any hazardous waste identified or listed under section 6921 of this title; and
 
 &emsp;(C) standards applicable to any person who distributes or markets any fuel which is produced as provided in subparagraph (A) or any fuel which otherwise contains any hazardous waste identified or listed under section 6921 of this title;
 
@@ -318,7 +318,7 @@ Not later than fifteen months after November 8, 1984, the Administrator shall pr
 
 #### (t) Financial responsibility provisions
 
-(1) Financial responsibility required by subsection (a) of this section may be established in accordance with regulations promulgated by the Administrator by any one, or any combination, of the following: insurance, guarantee, surety bond, letter of credit, or qualification as a self-insurer. In promulgating requirements under this section, the Administrator is authorized to specify policy or other contractual terms, conditions, or defenses which are necessary or are unacceptable in establishing such evidence of financial responsibility in order to effectuate the purposes of this chapter.
+(1) Financial responsibility required by subsection (a) of this section may be established in accordance with regulations promulgated by the Administrator by any one, or any combination, of the following: insurance, guarantee, suretybond, letter of credit, or qualification as a self-insurer. In promulgating requirements under this section, the Administrator is authorized to specify policy or other contractual terms, conditions, or defenses which are necessary or are unacceptable in establishing such evidence of financial responsibility in order to effectuate the purposes of this chapter.
 
 (2) In any case where the owner or operator is in bankruptcy, reorganization, or arrangement pursuant to the Federal Bankruptcy Code or where (with reasonable diligence) jurisdiction in any State court or any Federal Court cannot be obtained over an owner or operator likely to be solvent at the time of judgment, any claim arising from conduct for which evidence of financial responsibility must be provided under this section may be asserted directly against the guarantor providing such evidence of financial responsibility. In the case of any action pursuant to this subsection, such guarantor shall be entitled to invoke all rights and defenses which would have been available to the owner or operator if any action had been brought against the owner or operator by the claimant and which would have been available to the guarantor if an action had been brought against the guarantor by the owner or operator.
 
@@ -332,7 +332,7 @@ Standards promulgated under this section shall require, and a permit issued afte
 
 #### (v) Corrective action beyond facility boundary
 
-As promptly as practicable after November 8, 1984, the Administrator shall amend the standards under this section regarding corrective action required at facilities for the treatment, storage, or disposal, of hazardous waste listed oridentified under section 6921 of this title to require that corrective action be taken beyond the facility boundary where necessary to protect human health and the environment unless the owner or operator of the facility concerned demonstrates to the satisfaction of the Administrator that, despite the owner or operator's best efforts, the owner or operator was unable to obtain the necessary permission to undertake such action. Such regulations shall take effect immediately upon promulgation, notwithstanding section 6930(b) of this title, and shall apply to—
+As promptly as practicable after November 8, 1984, the Administrator shall amend the standards under this section regarding corrective action required at facilities for the treatment, storage, or disposal, of hazardous waste listed or identified under section 6921 of this title to require that corrective action be taken beyond the facility boundary where necessary to protect human health and the environment unless the owner or operator of the facility concerned demonstrates to the satisfaction of the Administrator that, despite the owner or operator's best efforts, the owner or operator was unable to obtain the necessary permission to undertake such action. Such regulations shall take effect immediately upon promulgation, notwithstanding section 6930(b) of this title, and shall apply to—
 
 &emsp;(1) all facilities operating under permits issued under subsection (c) of this section, and
 

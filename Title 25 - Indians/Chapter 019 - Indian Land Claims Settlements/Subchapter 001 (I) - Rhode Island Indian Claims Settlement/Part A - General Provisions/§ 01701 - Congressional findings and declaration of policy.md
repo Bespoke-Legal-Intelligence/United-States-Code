@@ -16,13 +16,15 @@ Congress finds and declares that—
 
 Section 1 of Pub. L. 95–395 provided: “That this Act \[enacting this subchapter\] may be cited as the ‘Rhode Island Indian Claims Settlement Act’.”
 
-For short title of Pub. L. 96–420, which enacted subchapter II of this chapter as the “Maine Indian Claims Settlement Act of 1980”, see section 1 of Pub. L. 96–420, set out as a Short Title note under section 1721 of this title.
+For short title of Pub. L. 96–420, which enacted subchapter II of this chapter, as the “Maine Indian Claims Settlement Act of 1980”, see section 1 of Pub. L. 96–420, set out as a Short Title note under section 1721 of this title.
 
-For short title of Pub. L. 97–399, which enacted subchapter III of this chapter as the “Florida Indian Land Claims Settlement Act of 1982”, see section 1 of Pub. L. 97–399, set out as a note under section 1741 of this title.
+For short title of Pub. L. 97–399, which enacted subchapter III of this chapter, as the “Florida Indian Land Claims Settlement Act of 1982”, see section 1 of Pub. L. 97–399, set out as a note under section 1741 of this title.
 
-For short title of Pub. L. 98–134, which enacted subchapter IV of this chapter as the “Mashantucket Pequot Indian Claims Settlement Act”, see section 1 of Pub. L. 98–134, set out as a note under section 1751 of this title.
+For short title of Pub. L. 98–134, which enacted subchapter IV of this chapter, as the “Mashantucket Pequot Indian Claims Settlement Act”, see section 1 of Pub. L. 98–134, set out as a note under section 1751 of this title.
 
-For short title of Pub. L. 100–95, which enacted subchapter V of this chapter as the ”Wampanoag Tribal Council of Gay Head, Inc., Indian Claims Settlement Act of 1987”, see section 1 of Pub. L. 100–95, set out as a note under section 1771 of this title.
+For short title of Pub. L. 100–95, which enacted subchapter V of this chapter, as the “Wampanoag Tribal Council of Gay Head, Inc., Indian Claims Settlement Act of 1987”, see section 1 of Pub. L. 100–95, set out as a note under section 1771 of this title.
 
-For short title of Pub. L. 100–228, which enacted subchapter VI of this chapter as the “Seminole Indian Land Claims Settlement Act of 1987”, see section 1 of Pub. L. 100–228, set out as a note under section 1772 of this title.
+For short title of Pub. L. 100–228, which enacted subchapter VI of this chapter, as the “Seminole Indian Land Claims Settlement Act of 1987”, see section 1 of Pub. L. 100–228, set out as a note under section 1772 of this title.
+
+For short title of title VI of Pub. L. 107–331, which enacted subchapter XIII of this chapter, as the “Cherokee, Choctaw, and Chickasaw Nations Claims Settlement Act”, see section 601 of Pub. L. 107–331, set out as a note under section 1779 of this title.
 

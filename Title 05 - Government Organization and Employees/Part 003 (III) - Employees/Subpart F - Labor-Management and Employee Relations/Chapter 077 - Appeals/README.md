@@ -14,7 +14,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 29 section 783.
+This chapter is referred to in section 9701 of this title; title 6 section 293; title 29 section 783.
 
 
 ---

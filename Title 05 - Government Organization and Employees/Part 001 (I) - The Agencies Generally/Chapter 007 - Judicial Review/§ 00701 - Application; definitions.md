@@ -8,7 +8,7 @@
 
 (b) For the purpose of this chapter—
 
-&emsp;(1) “agency” means each authority of the Government of the United States, whether or not it is within or subject to review by another agency, but does not include—
+&emsp;(1) “agency” means each authority of the Government of the United States, whether ornot it is within or subject to review by another agency, but does not include—
 
 &emsp;&emsp;(A) the Congress;
 
@@ -66,5 +66,5 @@ Sections 1891–1902 of title 50, appendix, referred to in subsec. (b)(1)(H), we
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 2 sections 501, 502; title 7 sections 1508, 2143; title 16 section 839f; title 18 sections 843, 3625; title 20 section 1683; title 25 section 954; title 30 section 956; title 41 section 422; title 42 sections 5405, 6105, 6976; title 50 App. section 2412.
+This section is referred to in title 2 sections 501, 502; title 7 sections 1508, 2143; title 16 section 839f; title 18 sections 843, 3625; title 20 section 1683; title 25 section 954; title 30 section 956; title 41 section 422; title 42 sections 247d–6, 5405, 6105, 6976, 14922; title 50 App. section 2412.
 

@@ -4,8 +4,8 @@
 
 | Sec. |  |
 | :--- | ---: |
-| [5601\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2005601%20-%20Congressional%20statement%20of%20findings.md) | Congressional statement of findings. |
-| [5602\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2005602%20-%20Congressional%20declaration%20of%20purpose%20and%20policy.md) | Congressional declaration of purpose and policy. |
+| [5601\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2005601%20-%20Findings.md) | Findings. |
+| [5602\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2005602%20-%20Purposes.md) | Purposes. |
 | [5603\.](Subchapter%20001%20%28I%29%20-%20Generally/%C2%A7%2005603%20-%20Definitions.md) | Definitions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -32,9 +32,7 @@
 | (c) | Information, reports, studies, and surveys from other agencies. |
 | (d) | Delegation of functions. |
 | (e) | Utilization of services and facilities of other agencies; reimbursement. |
-| (f), | (g) Repealed. |
-| (h) | Coordination of functions of Administrator and Secretary of Health and Human Services. |
-| (i) | Annual juvenile delinquency development statements of other agencies; procedure; contents; review by Administrator. |
+| (f) | Coordination of functions of Administrator and Secretary of Health and Human Services. |
 | [5615\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20A%20-%20Juvenile%20Justice%20and%20Delinquency%20Prevention%20Office/%C2%A7%2005615%20-%20Joint%20funding%3B%20non-Federal%20share%20requirements.md) | Joint funding; non-Federal share requirements. |
 | [5616\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20A%20-%20Juvenile%20Justice%20and%20Delinquency%20Prevention%20Office/%C2%A7%2005616%20-%20Coordinating%20Council%20on%20Juvenile%20Justice%20and%20Delinquency%20Prevention.md) | Coordinating Council on Juvenile Justice and Delinquency Prevention. |
 | (a) | Establishment; membership. |
@@ -62,209 +60,102 @@
 | [5633\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20B%20-%20Federal%20Assistance%20for%20State%20and%20Local%20Programs/%C2%A7%2005633%20-%20State%20plans.md) | State plans. |
 | (a) | Requirements. |
 | (b) | Approval by State agency. |
-| (c) | Approval by Administrator; compliance with statutory requirements. |
+| (c) | Compliance with statutory requirements. |
 | (d) | Nonsubmission or nonqualification of plan; expenditure of allotted funds; availability of reallocated funds. |
+| (e) | Administrative and supervisory board membership requirements. |
+| (f) | Technical assistance. |
 | 5634 to 5639. Repealed. |  |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part C—National Programs
-
-I74subpart i—national institute for juvenile justice and delinquency prevention
+#### Part C—Juvenile Delinquency Prevention Block Grant Program
 
 |  |  |
 | :--- | ---: |
-| [5651\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20National%20Programs/Subpart%20001%20%28i%29%20-%20National%20Institute%20for%20Juvenile%20Justice%20and%20Delinquency%20Prevention/%C2%A7%2005651%20-%20Establishment%20of%20National%20Institute%20for%20Juvenile%20Justice%20and%20Delinquency%20Prevention.md) | Establishment of National Institute for Juvenile Justice and Delinquency Prevention. |
-| (a) | Establishment. |
-| (b) | Deputy Administrator as head; Administrator to supervise and direct. |
-| (c) | Coordination of activities with National Institute of Justice. |
-| (d) | Purpose of Institute. |
-| (e) | Additional powers. |
-| (f) | National conference of member representatives from State advisory groups. |
-| (g) | Cooperation of other Federal agencies. |
-| [5652\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20National%20Programs/Subpart%20001%20%28i%29%20-%20National%20Institute%20for%20Juvenile%20Justice%20and%20Delinquency%20Prevention/%C2%A7%2005652%20-%20Information%20function%20of%20Institute.md) | Information function of Institute. |
-| [5653\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20National%20Programs/Subpart%20001%20%28i%29%20-%20National%20Institute%20for%20Juvenile%20Justice%20and%20Delinquency%20Prevention/%C2%A7%2005653%20-%20Research%2C%20demonstration%2C%20and%20evaluation%20functions%20of%20Institute.md) | Research, demonstration, and evaluation functions of Institute. |
-| [5654\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20National%20Programs/Subpart%20001%20%28i%29%20-%20National%20Institute%20for%20Juvenile%20Justice%20and%20Delinquency%20Prevention/%C2%A7%2005654%20-%20Technical%20assistance%20and%20training%20functions.md) | Technical assistance and training functions. |
-| 5655 to 5658. Repealed. |  |
-| [5659\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20National%20Programs/Subpart%20001%20%28i%29%20-%20National%20Institute%20for%20Juvenile%20Justice%20and%20Delinquency%20Prevention/%C2%A7%2005659%20-%20Training%20program%3B%20establishment%3B%20purpose%3B%20utilization%20of%20State%20and%20local%20facilities%2C%20personnel%2C%20etc.%3B%20enrollees.md) | Training program; establishment; purpose; utilization of State and local facilities, personnel, etc.; enrollees. |
-| [5660\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20National%20Programs/Subpart%20001%20%28i%29%20-%20National%20Institute%20for%20Juvenile%20Justice%20and%20Delinquency%20Prevention/%C2%A7%2005660%20-%20Curriculum%20for%20training%20program.md) | Curriculum for training program. |
-| [5661\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20National%20Programs/Subpart%20001%20%28i%29%20-%20National%20Institute%20for%20Juvenile%20Justice%20and%20Delinquency%20Prevention/%C2%A7%2005661%20-%20Participation%20in%20training%20program%20and%20State%20advisory%20group%20conferences.md) | Participation in training program and State advisory group conferences. |
+| [5651\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2005651%20-%20Authority%20to%20make%20grants.md) | Authority to make grants. |
+| (a) | Grants to eligible States. |
+| (b) | Grants to eligible Indian tribes. |
+| [5652\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2005652%20-%20Allocation.md) | Allocation. |
+| (a) | Allocation among eligible States. |
+| (b) | Allocation among Indian tribes collectively. |
+| [5653\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2005653%20-%20Eligibility%20of%20States.md) | Eligibility of States. |
 | (a) | Application. |
-| (b) | Admittance; determination by Secretary. |
-| (c) | Travel expenses and per diem allowance. |
-| [5662\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20National%20Programs/Subpart%20001%20%28i%29%20-%20National%20Institute%20for%20Juvenile%20Justice%20and%20Delinquency%20Prevention/%C2%A7%2005662%20-%20Special%20studies%20and%20reports.md) | Special studies and reports. |
-| (a) | Pursuant to 1988 amendments. |
-| (b) | Pursuant to 1992 amendments. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### subpart ii—special emphasis prevention and treatment programs
-
-|  |  |
-| :--- | ---: |
-| [5665\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20National%20Programs/Subpart%20002%20%28ii%29%20-%20Special%20Emphasis%20Prevention%20and%20Treatment%20Programs/%C2%A7%2005665%20-%20Authority%20to%20make%20grants%20and%20contracts.md) | Authority to make grants and contracts. |
-| (a) | Purposes of grants and contracts. |
-| (b) | Development and implementation of new approaches, techniques, and methods. |
-| (c) | Private nonprofit agencies, organizations, and institutions with experience in dealing with juveniles. |
-| (d) | Female, minority, and disadvantaged juveniles. |
-| (e) | Special needs and problems of juvenile delinquency in certain areas. |
-| (f) | Grants or contracts to Department of Justice. |
-| [5665a.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20National%20Programs/Subpart%20002%20%28ii%29%20-%20Special%20Emphasis%20Prevention%20and%20Treatment%20Programs/%C2%A7%2005665a%20-%20Considerations%20for%20approval%20of%20applications.md) | Considerations for approval of applications. |
-| (a) | In general. |
-| (b) | Contents of application. |
-| (c) | Factors considered. |
-| (d) | Competitive selection process; review of proposed programs; expedited consideration of proposed programs. |
-| (e) | City population not basis for denial. |
-| (f) | Transmission of notification to Committee chairmen. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part D—Gang-Free Schools and Communities; Community-Based Gang Intervention
-
-I74subpart i—gang-free schools and communities
-
-|  |  |
-| :--- | ---: |
-| [5667\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20D%20-%20Gang-Free%20Schools%20and%20Communities%3B%20Community-Based%20Gang%20Intervention/Subpart%20001%20%28i%29%20-%20Gang-Free%20Schools%20and%20Communities/%C2%A7%2005667%20-%20Authority%20to%20make%20grants%20and%20contracts.md) | Authority to make grants and contracts. |
-| 5667–1. | Approval of applications. |
-| (a) | Submission of applications. |
-| (b) | Contents of application. |
-| (c) | Priority. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### subpart ii—community-based gang intervention
-
-|  |  |
-| :--- | ---: |
-| [5667a.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20D%20-%20Gang-Free%20Schools%20and%20Communities%3B%20Community-Based%20Gang%20Intervention/Subpart%20002%20%28ii%29%20-%20Community-Based%20Gang%20Intervention/%C2%A7%2005667a%20-%20Authority%20to%20make%20grants%20and%20contracts.md) | Authority to make grants and contracts. |
-| 5667a–1. | Approval of applications. |
-| (a) | Submission of applications. |
-| (b) | Contents of application. |
-| (c) | Priority. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### subpart iii—general provisions
-
-|  |  |
-| :--- | ---: |
-| [5667b.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20D%20-%20Gang-Free%20Schools%20and%20Communities%3B%20Community-Based%20Gang%20Intervention/Subpart%20003%20%28iii%29%20-%20General%20Provisions/%C2%A7%2005667b%20-%20%E2%80%9CJuvenile%E2%80%9D%20defined.md) | “Juvenile” defined. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part E—State Challenge Activities
-
-|  |  |
-| :--- | ---: |
-| [5667c.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20E%20-%20State%20Challenge%20Activities/%C2%A7%2005667c%20-%20Establishment%20of%20program.md) | Establishment of program. |
-| (a) | In general. |
-| (b) | Definitions. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part F—Treatment for Juvenile Offenders Who Are Victims of Child Abuse or Neglect
-
-|  |  |
-| :--- | ---: |
-| [5667d.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20Treatment%20for%20Juvenile%20Offenders%20Who%20Are%20Victims%20of%20Child%20Abuse%20or%20Neglect/%C2%A7%2005667d%20-%20%E2%80%9CJuvenile%E2%80%9D%20defined.md) | “Juvenile” defined. |
-| 5667d–1. | Authority to make grants. |
-| 5667d–2. | Administrative requirements. |
-| 5667d–3. | Priority. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part G—Mentoring
-
-|  |  |
-| :--- | ---: |
-| [5667e.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20G%20-%20Mentoring/%C2%A7%2005667e%20-%20Purposes.md) | Purposes. |
-| 5667e–1. | Definitions. |
-| 5667e–2. | Grants. |
-| 5667e–3. | Regulations and guidelines. |
-| (a) | Program guidelines. |
-| (b) | Model screening guidelines. |
-| 5667e–4. | Use of grants. |
-| (a) | Permitted uses. |
-| (b) | Prohibited uses. |
-| 5667e–5. | Priority. |
-| (a) | In general. |
-| (b) | Other considerations. |
-| 5667e–6. | Applications. |
-| 5667e–7. | Grant cycles. |
-| 5667e–8. | Reports. |
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-#### Part H—Boot Camps
-
-|  |  |
-| :--- | ---: |
-| [5667f.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20H%20-%20Boot%20Camps/%C2%A7%2005667f%20-%20Establishment%20of%20program.md) | Establishment of program. |
-| (a) | In general. |
-| (b) | Location. |
-| (c) | Regimen. |
-| 5667f–1. | Capacity. |
-| 5667f–2. | Eligibility and placement. |
+| (b) | Approval of applications. |
+| [5654\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2005654%20-%20Grants%20for%20local%20projects.md) | Grants for local projects. |
+| (a) | Grants by States. |
+| (b) | Special consideration. |
+| [5655\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2005655%20-%20Eligibility%20of%20entities.md) | Eligibility of entities. |
 | (a) | Eligibility. |
-| (b) | Placement. |
-| 5667f–3. | Post-release supervision. |
+| (b) | Limitation. |
+| [5656\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20C%20-%20Juvenile%20Delinquency%20Prevention%20Block%20Grant%20Program/%C2%A7%2005656%20-%20Grants%20to%20Indian%20tribes.md) | Grants to Indian tribes. |
+| (a) | Eligibility. |
+| (b) | Factors for consideration. |
+| (c) | Grant process. |
+| (d) | Reporting requirement. |
+| (e) | Matching requirement. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part I—White House Conference on Juvenile Justice
+#### Part D—Research; Evaluation; Technical Assistance; Training
 
 |  |  |
 | :--- | ---: |
-| [5667g.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20I%20-%20White%20House%20Conference%20on%20Juvenile%20Justice/%C2%A7%2005667g%20-%20National%20White%20House%20Conference%20on%20Juvenile%20Justice.md) | National White House Conference on Juvenile Justice. |
-| (a) | In general. |
-| (b) | Purposes of Conference. |
-| (c) | Schedule of conferences. |
-| (d) | Prior State and regional conferences. |
-| 5667g–1. | Conference participants. |
-| (a) | In general. |
-| (b) | Selection. |
-| (c) | Participant expenses. |
-| (d) | No fees. |
-| 5667g–2. | Staff and executive branch. |
-| (a) | In general. |
-| (b) | Detailees. |
-| 5667g–3. | Planning and administration of Conference. |
-| (a) | Federal agency support. |
-| (b) | Duties of executive director. |
-| 5667g–4. | Reports. |
-| (a) | In general. |
-| (b) | Contents. |
-| 5667g–5. | Oversight. |
+| [5661\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20D%20-%20Research%3B%20Evaluation%3B%20Technical%20Assistance%3B%20Training/%C2%A7%2005661%20-%20Research%20and%20evaluation%3B%20statistical%20analyses%3B%20information%20dissemination.md) | Research and evaluation; statistical analyses; information dissemination. |
+| (a) | Research and evaluation. |
+| (b) | Statistical analyses. |
+| (c) | Grant authority and competitive selection process. |
+| (d) | Implementation of agreements. |
+| (e) | Information dissemination. |
+| [5662\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20D%20-%20Research%3B%20Evaluation%3B%20Technical%20Assistance%3B%20Training/%C2%A7%2005662%20-%20Training%20and%20technical%20assistance.md) | Training and technical assistance. |
+| (a) | Training. |
+| (b) | Technical assistance. |
+| (c) | Training and technical assistance to mental health professionals and law enforcement personnel. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part J—General and Administrative Provisions
+#### Part E—Developing, Testing, and Demonstrating Promising New Initiatives and Programs
 
 |  |  |
 | :--- | ---: |
-| [5671\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20J%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005671%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | Amounts; availability of funds. |
-| (b) | Percentages available for programs. |
-| (c) | Approval of State agency; supervisory board membership requirements. |
+| [5665\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20E%20-%20Developing%2C%20Testing%2C%20and%20Demonstrating%20Promising%20New%20Initiatives%20and%20Programs/%C2%A7%2005665%20-%20Grants%20and%20projects.md) | Grants and projects. |
+| (a) | Authority to make grants. |
+| (b) | Use of grants. |
+| [5666\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20E%20-%20Developing%2C%20Testing%2C%20and%20Demonstrating%20Promising%20New%20Initiatives%20and%20Programs/%C2%A7%2005666%20-%20Grants%20for%20technical%20assistance.md) | Grants for technical assistance. |
+| [5667\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20E%20-%20Developing%2C%20Testing%2C%20and%20Demonstrating%20Promising%20New%20Initiatives%20and%20Programs/%C2%A7%2005667%20-%20Eligibility.md) | Eligibility. |
+| [5668\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20E%20-%20Developing%2C%20Testing%2C%20and%20Demonstrating%20Promising%20New%20Initiatives%20and%20Programs/%C2%A7%2005668%20-%20Reports.md) | Reports. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part F—General and Administrative Provisions
+
+|  |  |
+| :--- | ---: |
+| [5671\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005671%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | Authorization of appropriations for this subchapter (excluding parts C and E). |
+| (b) | Authorization of appropriations for part C. |
+| (c) | Authorization of appropriations for part E. |
 | (d) | Experimentation on individuals; prohibition; “behavior control” defined. |
-| (e) | Reservation for previously unfunded special emphasis prevention and treatment programs. |
-| [5672\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20J%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005672%20-%20Administrative%20authority.md) | Administrative authority. |
+| [5672\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005672%20-%20Administrative%20authority.md) | Administrative authority. |
 | (a) | Authority of Administrator. |
 | (b) | Certain crime control provisions applicable. |
 | (c) | Certain other crime control provisions applicable. |
 | (d) | Rules, regulations, and procedures. |
-| [5673\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20J%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005673%20-%20Withholding.md) | Withholding. |
-| [5674\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20J%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005674%20-%20Use%20of%20funds.md) | Use of funds. |
+| (e) | Presumption of State compliance. |
+| [5673\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005673%20-%20Withholding.md) | Withholding. |
+| [5674\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005674%20-%20Use%20of%20funds.md) | Use of funds. |
 | (a) | In general. |
 | (b) | Prohibition against use of funds in construction. |
-| (c) | Funds paid pursuant to sections 5633(a)(10)(D) and 5665(a)(3) of this title. |
-| [5675\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20J%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005675%20-%20Payments.md) | Payments. |
+| (c) | Funds paid to residential programs. |
+| [5675\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005675%20-%20Payments.md) | Payments. |
 | (a) | In general. |
 | (b) | Percentage of approved costs. |
 | (c) | Increase of grants to Indian tribes; waiver of liability. |
-| (d) | Reallocation of unrequired or statutorily available funds. |
-| [5676\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20J%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005676%20-%20Confidentiality%20of%20program%20records.md) | Confidentiality of program records. |
+| [5676\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005676%20-%20Confidentiality%20of%20program%20records.md) | Confidentiality of program records. |
+| [5677\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005677%20-%20Limitations%20on%20use%20of%20funds.md) | Limitations on use of funds. |
+| [5678\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005678%20-%20Rules%20of%20construction.md) | Rules of construction. |
+| [5679\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005679%20-%20Leasing%20surplus%20Federal%20property.md) | Leasing surplus Federal property. |
+| [5680\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005680%20-%20Issuance%20of%20rules.md) | Issuance of rules. |
+| [5681\.](Subchapter%20002%20%28II%29%20-%20Programs%20and%20Offices/Part%20F%20-%20General%20and%20Administrative%20Provisions/%C2%A7%2005681%20-%20Content%20of%20materials.md) | Content of materials. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -408,14 +299,13 @@ I74subpart i—gang-free schools and communities
 
 |  |  |
 | :--- | ---: |
-| [5781\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2005781%20-%20Findings.md) | Findings. |
-| [5782\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2005782%20-%20%E2%80%9CState%20advisory%20group%E2%80%9D%20defined.md) | “State advisory group” defined. |
-| [5783\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2005783%20-%20Duties%20and%20functions%20of%20Administrator.md) | Duties and functions of Administrator. |
-| [5784\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2005784%20-%20Grants%20for%20prevention%20programs.md) | Grants for prevention programs. |
+| [5781\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2005781%20-%20Definition.md) | Definition. |
+| [5782\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2005782%20-%20Duties%20and%20functions%20of%20the%20Administrator.md) | Duties and functions of the Administrator. |
+| [5783\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2005783%20-%20Grants%20for%20delinquency%20prevention%20programs.md) | Grants for delinquency prevention programs. |
 | (a) | Purposes. |
 | (b) | Eligibility. |
 | (c) | Priority. |
-| [5785\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2005785%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| [5784\.](Subchapter%20005%20%28V%29%20-%20Incentive%20Grants%20for%20Local%20Delinquency%20Prevention%20Programs/%C2%A7%2005784%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

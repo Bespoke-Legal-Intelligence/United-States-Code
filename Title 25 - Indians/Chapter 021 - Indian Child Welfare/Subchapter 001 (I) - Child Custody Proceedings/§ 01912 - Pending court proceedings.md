@@ -2,7 +2,7 @@
 
 #### (a) Notice; time for commencement of proceedings; additional time for preparation
 
-In any involuntary proceeding in a State court, where the court knows or has reason to know that an Indian child is involved, the partyseeking the foster care placement of, or termination of parental rights to, an Indian child shall notify the parent or Indian custodian and the Indian child's tribe, by registered mail with return receipt requested, of the pending proceedings and of their right of intervention. If the identity or location of the parent or Indian custodian and the tribe cannot be determined, such notice shall be given to the Secretary in like manner, who shall have fifteen days after receipt to provide the requisite notice to the parent or Indian custodian and the tribe. No foster care placement or termination of parental rights proceeding shall be held until at least ten days after receipt of notice by the parent or Indian custodian and the tribe or the Secretary: <i>Provided</i>, That the parent or Indian custodian or the tribe shall, upon request, be granted up to twenty additional days to prepare for such proceeding.
+In any involuntary proceeding in a State court, where the court knows or has reason to know that an Indian child is involved, the party seeking the foster care placement of, or termination of parental rights to, an Indian child shall notify the parent or Indian custodian and the Indian child's tribe, by registered mail with return receipt requested, of the pending proceedings and of their right of intervention. If the identity or location of the parent or Indian custodian and the tribe cannot be determined, such notice shall be given to the Secretary in like manner, who shall have fifteen days after receipt to provide the requisite notice to the parent or Indian custodian and the tribe. No foster care placement or termination of parental rights proceeding shall be held until at least ten days after receipt of notice by the parent or Indian custodian and the tribe or the Secretary: <i>Provided</i>, That the parent or Indian custodian or the tribe shall, upon request, be granted up to twenty additional days to prepare for such proceeding.
 
 #### (b) Appointment of counsel
 
@@ -22,7 +22,7 @@ No foster care placement may be ordered in such proceeding in the absence of a d
 
 #### (f) Parental rights termination orders; evidence; determination of damage to child
 
-No termination of parental rights may be ordered in such proceeding in the absence of a determination, supported by evidence beyond a reasonable doubt, including testimony of qualified expert witnesses, that the continued custody of the child by the parent or Indian custodian is likely to result in serious emotional or physical damage to the child.
+No termination of parental rights may be ordered in such proceeding in the absence of a determination, supported by evidence beyond areasonable doubt, including testimony of qualified expert witnesses, that the continued custody of the child by the parent or Indian custodian is likely to result in serious emotional or physical damage to the child.
 
 (Pub. L. 95–608, title I, §102, Nov. 8, 1978, 92 Stat. 3071.)
 

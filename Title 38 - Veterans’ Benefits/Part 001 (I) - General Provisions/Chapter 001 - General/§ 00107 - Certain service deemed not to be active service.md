@@ -8,7 +8,7 @@
 
 &emsp;(3) chapters 11, 13 (except section 1312(a)), 23, and 24 (to the extent provided for in section 2402(8)) of this title.
 
-> Except as provided in subsection (c) or (d), payments under such chapters shall be made at a rate of $0.50 for each dollar authorized, and where annual income is a factor in entitlement to benefits, the dollar limitations in the law specifying such annual income shall apply at a rate of $0.50 for each dollar. Any payments made before February 18, 1946, to any such memberunder such laws conferring rights, benefits, or privileges shall not be deemed to have been invalid by reason of the circumstance that such member's service was not service in the Armed Forces or any component thereof within the meaning of any such law.
+> Except as provided in subsection (c) or (d), payments under such chapters shall be made at a rate of $0.50 for each dollar authorized, and where annual income is a factor in entitlement to benefits, the dollar limitations in the law specifying such annual income shall apply at a rate of $0.50 for each dollar. Any payments made before February 18, 1946, to any such member under such laws conferring rights, benefits, or privileges shall not be deemed to have been invalid by reason of the circumstance that such member's service was not service in the Armed Forces or any component thereof within the meaning of any such law.
 
 (b) Service in the Philippine Scouts under section 14 of the Armed Forces Voluntary Recruitment Act of 1945 shall not be deemed to have been active military, naval, or air service for the purposes of any of the laws administered by the Secretary except—
 
@@ -22,7 +22,7 @@
 
 (d)(1) With respect to benefits under chapter 23 of this title, in the case of an individual described in paragraph (2), the second sentence of subsection (a) shall not apply.
 
-(2) Paragraph (1) applies to any individual whose service is described in subsection (a) and who dies after the date of the enactment of this subsection if the individual, on the individual's date of death—
+(2) Paragraph (1) applies to any individual whose service is described in subsection (a) and who dies after November 1, 2000, if the individual, on the individual's date of death—
 
 &emsp;(A) is a citizen of, or an alien lawfully admitted for permanent residence in, the United States;
 
@@ -34,7 +34,7 @@
 
 &emsp;&emsp;(ii) if the individual's service had been deemed to be active military, naval, or air service, would have been paid pension under section 1521 of this title without denial or discontinuance by reason of section 1522 of this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1111; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 89–641, §2(a), Oct. 11, 1966, 80 Stat. 885; Pub. L. 97–295, §4(4), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(6), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 103–446, title V, §507(a), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–57; Pub. L. 106–419, title III, §§331(b), 332(a), Nov. 1, 2000, 114 Stat. 1856; Pub. L. 107–14, §8(a)(1), June 5, 2001, 115 Stat. 34.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1111; Pub. L. 87–268, §1(b), Sept. 21, 1961, 75 Stat. 566; Pub. L. 89–641, §2(a), Oct. 11, 1966, 80 Stat. 885; Pub. L. 97–295, §4(4), Oct. 12, 1982, 96 Stat. 1305; Pub. L. 99–576, title VII, §701(6), Oct. 28, 1986, 100 Stat. 3291; Pub. L. 102–83, §§4(a)(1), 5(c)(1), Aug. 6, 1991, 105 Stat. 403, 406; Pub. L. 103–446, title V, §507(a), Nov. 2, 1994, 108 Stat. 4664; Pub. L. 106–377, §1(a)(1) \[title V, §501(a)(1)\], Oct. 27, 2000, 114 Stat. 1441, 1441A–57; Pub. L. 106–419, title III, §§331(b), 332(a), Nov. 1, 2000, 114 Stat. 1856; Pub. L. 107–14, §8(a)(1), June 5, 2001, 115 Stat. 34; Pub. L. 107–330, title III, §308(g)(2), Dec. 6, 2002, 116 Stat. 2828.)
 
 #### References in Text
 
@@ -42,9 +42,9 @@ Section 14 of the Armed Forces Voluntary Recruitment Act of 1945, referred to in
 
 Sections 620 and 621 of the National Service Life Insurance Act of 1940, referred to in subsec. (b)(1), are sections 620 and 621 of act Oct. 8, 1940, ch. 757, title VI, pt. I, as added Apr. 25, 1951, ch. 39, pt. II, §10, 65 Stat. 36, which enacted sections 820 and 821 of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which were repealed and the provisions thereof reenacted as sections 722(a) and 723 \[now 1922(a) and 1923\] of this title by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105.
 
-The date of the enactment of this subsection, referred to in subsec. (d)(2), is the date of enactment of Pub. L. 106–419, which was approved Nov. 1, 2000.
-
 #### Amendments
+
+2002—Subsec. (d)(2). Pub. L. 107–330 substituted “November 1, 2000,” for “the date of the enactment of this subsection” in introductory provisions.
 
 2001—Subsec. (a). Pub. L. 107–14, §8(a)(1)(A), inserted “or (d)” after “subsection (c)” in concluding provisions.
 
@@ -82,7 +82,7 @@ Pub. L. 107–14, §8(a)(1), June 5, 2001, 115 Stat. 34, provided that the amend
 
 #### Effective Date of 2000 Amendments
 
-Pub. L. 106–419, title III, §331(c), Nov. 1, 2000, 114 Stat. 1856, provided that: “The amendments made by thissection \[amending this section and section 2402 of this title\] shall apply with respect to deaths occurring on or after the date of the enactment of this Act \[Nov. 1, 2000\].”
+Pub. L. 106–419, title III, §331(c), Nov. 1, 2000, 114 Stat. 1856, provided that: “The amendments made by this section \[amending this section and section 2402 of this title\] shall apply with respect to deaths occurring on or after the date of the enactment of this Act \[Nov. 1, 2000\].”
 
 Pub. L. 106–419, title III, §332(b), Nov. 1, 2000, 114 Stat. 1856, provided that: “No benefits shall accrue to any person for any period before the date of the enactment of this Act \[Nov. 1, 2000\] by reason of the amendments made by subsection (a) \[amending this section\].”
 

@@ -26,7 +26,7 @@
 
 (d)(1) Under regulations prescribed under section 5738, an agency shall pay to or on behalf of an employee who transfers in the interest of the Government, expenses of the sale of the residence (or the settlement of an unexpired lease) of the employee at the old official station and purchase of a residence at the new official station that are required to be paid by the employee, when the old and new official stations are located within the United States.
 
-(2) Under regulations prescribed under section 5738, an agency shall pay to or on behalf of an employee who transfers in the interest of the Government from a post of duty located outside the United States to an official station within the United States (other than the official station within the United States from which the employee was transferred when assigned to the foreign tour of duty)—
+(2) Under regulations prescribed under section 5738, an agency shall pay to or on behalf of an employee who transfers in the interest of the Government from a post of duty located outside the United States to an official station within the United States (other than the official station within the United States from which theemployee was transferred when assigned to the foreign tour of duty)—
 
 &emsp;(A) expenses required to be paid by the employee of the sale of the residence (or the settlement of an unexpired lease) of the employee at the old official station from which the employee was transferred when the employee was assigned to the post of duty located outside the United States; and
 
@@ -96,7 +96,7 @@ July 21, 1966, Pub. L. 89–516, §2 “Sec. 27”, 80 Stat. 325.
 
 In subsection (a), the word “agency” is substituted for “department” to conform to the definition in 5 U.S.C. 5721(1). The word “employee” is substituted for “officers or employees” and “officer or employee” to conform to the definitions in 5 U.S.C. 5721(2) and 2105. The words “section 5724(a) of this title” and “section 5702 of this title” are substituted for “subsection (a) of section 1 of this Act” and “section 3 of the Travel Expense Act of 1949 (63 Stat. 166, as amended; 5 U.S.C. 836)” to reflect the codification of the cited acts in 5 U.S.C. In subsection (a)(2), the words “within the continental United States” are coextensive with and substituted for “within the continental United States, excluding Alaska” on authority of the definition of “continental United States” in 5 U.S.C. 5721(3).
 
-In subsection (b), the words “this subchapter” and “subsection (a) of this section or section 5724(a) of this title” are substituted for “this Act” and “section 1(a) or section 23 of this Act”, respectively, to reflect the codification of the act in 5 U.S.C. The word “officer” is omitted as included in “employee”. The words “in the General Schedule of the Classification Act of 1949, as amended” are omitted as unnecessary.
+In subsection (b), the words “this subchapter” and “subsection (a) of this section or section 5724(a) of this title” are substituted for “this Act” and “section 1(a) or section 23 of this Act”, respectively, to reflect thecodification of the act in 5 U.S.C. The word “officer” is omitted as included in “employee”. The words “in the General Schedule of the Classification Act of 1949, as amended” are omitted as unnecessary.
 
 In subsection (c), the word “officer” is omitted as included in “employee”. The words “sections 5724, 5725, 5726(b), and 5727 of this title” and “subsections (a) and (b) of this section” are substituted for “section 1 of this Act” and “sections 23 and 24 of this Act”, respectively, to reflect the codification of the act in title 5, United States Code.
 
@@ -190,7 +190,7 @@ Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L.
 
 #### Extension of Payment of Relocation Expenses to Puerto Rico, Northern Mariana Islands, and Territories and Possessions of the United States
 
-Pub. L. 105–277, div. A, §101(b) \[title I, §125\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Effective with the enactment of this Act \[Oct. 21, 1998\], and in any fiscal year hereafter, the Attorney General and the Secretary of the Treasury may, for their respectiveagencies, extend the payment of relocation expenses listed in section 5724a(b)(1) of Title 5 of the United States Code to include the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.”
+Pub. L. 105–277, div. A, §101(b) \[title I, §125\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–74, provided that: “Effective with the enactment of this Act \[Oct. 21, 1998\], and in any fiscal year hereafter, the Attorney General and the Secretary of the Treasury may, for their respective agencies, extend the payment of relocation expenses listed in section 5724a(b)(1) of Title 5 of the United States Code to include the Commonwealth of Puerto Rico, the Commonwealth of the Northern Mariana Islands, and the territories and possessions of the United States.”
 
 #### Funding of Amendments by Pub. L. 98–151
 

@@ -32,7 +32,7 @@ Incentive Payments for At-Grade Crossing Closures.—
 
 &emsp;(1)
 
-In general.—Notwithstanding any other provision of this section and subject to paragraphs (2) and (3), a State may, from sumsavailable to the State under this section, make incentive payments to local governments in the State upon the permanent closure by such governments of public at-grade railway-highway crossings under the jurisdiction of such governments.
+In general.—Notwithstanding any other provision of this section and subject to paragraphs (2) and (3), a State may, from sums available to the State under this section, make incentive payments to local governments in the State upon the permanent closure by such governments of public at-grade railway-highway crossings under the jurisdiction of such governments.
 
 &emsp;(2)
 
@@ -128,11 +128,11 @@ Partnership and oversight.—The Secretary shall encourage each State to make pr
 
 #### Vehicle Proximity Alert System
 
-Pub. L. 102–240, title I, §1072, Dec. 18, 1991, 105 Stat. 2012, provided that: “The Secretary shall coordinate the field testing of the vehicle proximity alert system and comparable systems to determine their feasibility for use by priority vehicles as an effective railroad-highway grade crossing safety device. In the event the vehicle proximity alert or a comparable system proves to be technologically and economically feasible, the Secretary shall develop and implement appropriate programs under section 130 of title 23, United States Code, to provide for installation of such devices where appropriate.”
+Pub. L. 102–240, title I, §1072, Dec. 18, 1991, 105 Stat. 2012, provided that: “The Secretary shall coordinatethe field testing of the vehicle proximity alert system and comparable systems to determine their feasibility for use by priority vehicles as an effective railroad-highway grade crossing safety device. In the event the vehicle proximity alert or a comparable system proves to be technologically and economically feasible, the Secretary shall develop and implement appropriate programs under section 130 of title 23, United States Code, to provide for installation of such devices where appropriate.”
 
 #### Railway-Highway Crossing Hazards; National Highway Information Program Funding
 
-Pub. L. 100–457, title III, §324, Sept. 30, 1988, 102 Stat. 2150, provided that: “Notwithstanding any other provision of law, the Secretary shall make available $250,000 per year for a national public information program to educate the public of the inherent hazard at railway-highway crossings. Such funds shall be made availableout of funds authorized to be appropriated out of the Highway Trust Fund, pursuant to section 130 of title 23, United States Code.”
+Pub. L. 100–457, title III, §324, Sept. 30, 1988, 102 Stat. 2150, provided that: “Notwithstanding any other provision of law, the Secretary shall make available $250,000 per year for a national public information program to educate the public of the inherent hazard at railway-highway crossings. Such funds shall be made available out of funds authorized to be appropriated out of the Highway Trust Fund, pursuant to section 130 of title 23, United States Code.”
 
 Similar provisions were contained in the following prior appropriation act:
 
@@ -172,13 +172,13 @@ Pub. L. 93–87, title I, §163, Aug. 13, 1973, 87 Stat. 280, as amended by Pub.
 
 “(j) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in Augusta, Georgia, for the relocation of railroad lines and for the purpose of eliminating highway railroad grade crossings.
 
-“(k) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in Pine Bluff, Arkansas, for the relocation of railroad lines for the purpose of eliminating highway railroad grade crossings.
+“(k) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out ademonstration project in Pine Bluff, Arkansas, for the relocation of railroad lines for the purpose of eliminating highway railroad grade crossings.
 
 “(<i>l</i>) The Secretary of Transportation shall carry out a demonstration project in Sherman, Texas, for the relocation of rail lines in order to eliminate the ground level railroad crossing at the crossing of the Southern Pacific and Frisco Railroads with Grand Avenue-Roberts Road.
 
 “(m) The Secretary of Transportation shall enter into such arrangements as may be necessary to carry out a demonstration project in Hammond, Indiana, for the relocation of railroad lines for the purposes of eliminating highway railroad grade crossings.
 
-“(n) The Federal share payable on account of such projects shall be the Federal share provided in section 120(a) of title 23, United States Code. \[sic\] except those railroad-highway crossings segments which are already engaged in or have completed the preparation of theplans, specifications and estimates (PS\&E) for the construction of the segment involved shall retain the Federal share as specified in subsection \[sic\] 163(n) \[this subsection\] as amended by section 134 of the Surface Transportation Assistance Act of 1978 \[section 134 of Pub. L. 95–599\].
+“(n) The Federal share payable on account of such projects shall be the Federal share provided in section 120(a) of title 23, United States Code. \[sic\] except those railroad-highway crossings segments which are already engaged in or have completed the preparation of the plans, specifications and estimates (PS\&E) for the construction of the segment involved shall retain the Federal share as specified in subsection \[sic\] 163(n) \[this subsection\] as amended by section 134 of the Surface Transportation Assistance Act of 1978 \[section 134 of Pub. L. 95–599\].
 
 “\[(<i>o</i>) Repealed. Pub. L. 104–66, title I, §1121(e), Dec. 21, 1995, 109 Stat. 724.\]
 

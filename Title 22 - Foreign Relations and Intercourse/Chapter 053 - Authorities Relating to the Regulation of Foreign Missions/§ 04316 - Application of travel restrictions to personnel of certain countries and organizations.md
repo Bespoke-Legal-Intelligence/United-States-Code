@@ -8,7 +8,7 @@ The Secretary shall apply the same generally applicable restrictions to the trav
 
 The restrictions required by subsection (a) of this section shall be applied with respect to those individuals who (as determined by the Secretary) are—
 
-&emsp;(1) the personnel of an international organization, if the individual is a national of any foreign country whose government engages inintelligence activities in the United States that are harmful to the national security of the United States;
+&emsp;(1) the personnel of an international organization, if the individual is a national of any foreign country whose government engages in intelligence activities in the United States that are harmful to the national security of the United States;
 
 &emsp;(2) the personnel of a mission to an international organization, if that mission is the mission of a foreign government that engages in intelligence activities in the United States that are harmful to the national security of the United States; or
 

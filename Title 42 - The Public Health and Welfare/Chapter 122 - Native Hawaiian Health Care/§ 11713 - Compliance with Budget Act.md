@@ -1,6 +1,6 @@
 ### §11713. Compliance with Budget Act
 
-Any new spending authority (described in subsection (c)(2)(A) or (B) of section 651 <sup>1</sup> of title 2) which is provided under this chapter shall be effective for any fiscal year only to such extent or in such amounts as are provided in appropriation Acts.
+Any new spending authority (described in subsection (c)(2)(A) or (B) of section 651 <sup>1</sup> of title 2) which is provided under this chapter shall be effective for any fiscal year only to such extent orin such amounts as are provided in appropriation Acts.
 
 (Pub. L. 100–579, §15, as added Pub. L. 102–396, title IX, §9168, Oct. 6, 1992, 106 Stat. 1948.)
 

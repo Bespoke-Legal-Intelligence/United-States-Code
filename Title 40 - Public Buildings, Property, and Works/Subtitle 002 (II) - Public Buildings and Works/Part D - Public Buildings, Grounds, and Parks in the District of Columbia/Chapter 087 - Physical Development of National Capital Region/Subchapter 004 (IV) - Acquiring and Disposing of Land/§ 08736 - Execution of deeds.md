@@ -1,0 +1,28 @@
+### §8736. Execution of deeds
+
+The Mayor of the District of Columbia may execute deeds of conveyance for real estate sold under this subchapter. The deeds shall contain a full description of the land sold as required by law.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1227.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8736
+
+40:72e.
+
+Aug. 5, 1939, ch. 449, §3, 53 Stat. 1211.
+
+The word “proper” is omitted as unnecessary. The words “as required by” are substituted for “either by metes and bounds, or otherwise according to” to eliminate unnecessary words.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 8701, 8711 of this title.
+

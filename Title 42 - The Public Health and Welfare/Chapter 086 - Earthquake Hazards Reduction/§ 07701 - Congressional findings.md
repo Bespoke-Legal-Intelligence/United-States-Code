@@ -48,7 +48,7 @@ Section 1 of Pub. L. 95–124 provided: “That this Act \[enacting this chapter
 
 #### Delegation of Functions
 
-Functions of President under Earthquake Hazards Reduction Act of 1977 delegated, transferred, or reassigned to Director of Federal Emergency Management Agency pursuant to sections 1–104 and 4–204 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, set out as a note under section 5195 of this title.
+Functions of President under Earthquake Hazards Reduction Act of 1977 delegated, transferred, or reassigned to Secretary of Homeland Security pursuant to sections 1–104 and 4–204 of Ex. Ord. No. 12148, July 20, 1979, 44 F.R. 43239, as amended, set out as a note under section 5195 of this title.
 
 #### Report on At-Risk Populations
 

@@ -50,7 +50,7 @@ When used in this subchapter—
 
 &emsp;(5) the Act of June 19, 1936, chapter 592 (15 U.S.C. 13, 13a, 13b, and 21a);
 
-(<i>o</i>) The term “fair market value” means the value of any mineral (1) computed at a unitprice equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if there were no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during such period, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary;
+(<i>o</i>) The term “fair market value” means the value of any mineral (1) computed at a unit price equivalent to the average unit price at which such mineral was sold pursuant to a lease during the period for which any royalty or net profit share is accrued or reserved to the United States pursuant to such lease, or (2) if there were no such sales, or if the Secretary finds that there were an insufficient number of such sales to equitably determine such value, computed at the average unit price at which such mineral was sold pursuant to other leases in the same region of the outer Continental Shelf during such period, or (3) if there were no sales of such mineral from such region during such period, or if the Secretary finds that there are an insufficient number of such sales to equitably determine such value, at an appropriate price determined by the Secretary;
 
 (p) The term “major Federal action” means any action or proposal by the Secretary which is subject to the provisions of section 4332(2)(C) of title 42; and
 
@@ -164,7 +164,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 155, 168 of this title; title 15 section 3301; title 16 section 1453; title 30 section 1702; title 33 section 1205; title 42 sections 6202, 7627; title 46 section 8103; title 50 App. section 2415.
+This section is referred to in sections 155, 168 of this title; title 15 section 3301; title 16 section 1453; title 30section 1702; title 33 section 1205; title 42 sections 6202, 7627; title 46 section 8103; title 50 App. section 2415.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -18,7 +18,7 @@
 
 #### (1) Review
 
-&emsp;The Administrator shall initiate, not later than 30 days after October 17, 1986, a review of emergency systems for monitoring, detecting, and preventing releases of extremely hazardous substances at representative domestic facilities that produce, use, or store extremely hazardous substances. The Administrator may select representative extremely hazardous substances from the substances on the list referred to in section 11002(a) of this title for the purposes of this review. The Administrator shall report interim findings to the Congress not later than seven months after October 17, 1986, and issue a final report of findings andrecommendations to the Congress not later than 18 months after October 17, 1986. Such report shall be prepared in consultation with the States and appropriate Federal agencies.
+&emsp;The Administrator shall initiate, not later than 30 days after October 17, 1986, a review of emergency systems for monitoring, detecting, and preventing releases of extremely hazardous substances at representative domestic facilities that produce, use, or store extremely hazardous substances. The Administrator may select representative extremely hazardous substances from the substances on the list referred to in section 11002(a) of this title for the purposes of this review. The Administrator shall report interim findings to the Congress not later than seven months after October 17, 1986, and issue a final report of findings and recommendations to the Congress not later than 18 months after October 17, 1986. Such report shall be prepared in consultation with the States and appropriate Federal agencies.
 
 #### (2) Report
 
@@ -39,4 +39,8 @@
 &emsp;&emsp;(B) improving devices or systems for effectively alerting the public in a timely manner, in the event of an accidental release of such extremely hazardous substances.
 
 (Pub. L. 99–499, title III, §305, Oct. 17, 1986, 100 Stat. 1735.)
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

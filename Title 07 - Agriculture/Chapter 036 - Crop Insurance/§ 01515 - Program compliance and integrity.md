@@ -22,7 +22,7 @@
 
 #### (3) Effect of failure to timely notify
 
-&emsp;Except as provided in paragraph (2), the failure to timely provide the notice requiredunder this subsection shall relieve the approved insurance provider from the debt owed the Corporation.
+&emsp;Except as provided in paragraph (2), the failure to timely provide the notice required under this subsection shall relieve the approved insurance provider from the debt owed the Corporation.
 
 #### (c) Reconciling producer information
 
@@ -36,7 +36,7 @@ The Secretary shall develop and implement a coordinated plan for the Corporation
 
 &emsp;&emsp;(A) at the request of the Corporation or, subject to paragraph (2), on its own initiative if the Farm Service Agency has reason to suspect the existence of program fraud, waste, or abuse, conducting fact finding relative to allegations of program fraud, waste, or abuse;
 
-&emsp;&emsp;(B) reporting to the Corporation, in writing in a timely manner, the results of any fact finding conducted pursuant to subparagraph (A), any allegation of fraud, waste, or abuse, and any identified program vulnerabilities; and
+&emsp;&emsp;(B) reporting to the Corporation, in writing in a timely manner, the results of anyfact finding conducted pursuant to subparagraph (A), any allegation of fraud, waste, or abuse, and any identified program vulnerabilities; and
 
 &emsp;&emsp;(C) assisting the Corporation and approved insurance providers in auditing a statistically appropriate number of claims made under any policy or plan of insurance under this chapter.
 
@@ -86,7 +86,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 &emsp;The Secretary shall establish procedures under which the Corporation will be able to identify the following:
 
-&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this chapter where theloss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
+&emsp;&emsp;(A) Any agent engaged in the sale of coverage offered under this chapter where the loss claims associated with such sales by the agent are equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for all loss claims associated with such sales by all other agents operating in the same area, as determined by the Corporation.
 
 &emsp;&emsp;(B) Any person performing loss adjustment services relative to coverage offered under this chapter where such loss adjustments performed by the person result in accepted or denied claims equal to or greater than 150 percent (or an appropriate percentage specified by the Corporation) of the mean for accepted or denied claims (as applicable) for all other persons performing loss adjustment services in the same area, as determined by the Corporation.
 
@@ -164,7 +164,7 @@ The Secretary shall establish procedures under which the Corporation shall consu
 
 #### (C) Disqualification of other persons
 
-&emsp;&emsp;In the case of a violation committed by an agent, loss adjuster, approved insurance provider, or other person (other than a producer), the violator may be disqualified for aperiod of up to 5 years from participating in any program, or receiving any benefit, under this chapter.
+&emsp;&emsp;In the case of a violation committed by an agent, loss adjuster, approved insurance provider, or other person (other than a producer), the violator may be disqualified for a period of up to 5 years from participating in any program, or receiving any benefit, under this chapter.
 
 #### (4) Assessment of sanction
 
@@ -250,5 +250,5 @@ Section effective Oct. 13, 1994, and applicable to provision of crop insurance u
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1516 of this title.
+This section is referred to in sections 1516, 8002 of this title.
 

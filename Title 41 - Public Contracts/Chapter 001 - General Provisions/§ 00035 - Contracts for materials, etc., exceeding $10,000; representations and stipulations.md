@@ -28,7 +28,7 @@ For effective date and applicability of amendment by Pub. L. 103–355, see sect
 
 #### Effective Date of 1985 Amendment
 
-Section 1241(c) of Pub. L. 99–145 provided that: “The amendments made by this section \[amending this section and section 328 of Title 40, Public Buildings, Property, and Works\] shall take effect on January 1, 1986.”
+Section 1241(c) of Pub. L. 99–145 provided that: “The amendments made by this section \[amending this section and section 328 of former Title 40, Public Buildings, Property, and Works\] shall take effect on January 1, 1986.”
 
 #### Short Title
 
@@ -40,7 +40,7 @@ Provisions of this section creating exemptions to Federal regulations on marketa
 
 #### Exceptions and Exemptions
 
-7 F.R. 9399 (amending Exemption Order Apr. 21, 1942, 7 F.R. 3003), which exempted female persons under 18years of age from the provisions of subsec. (d) of this section, was superseded by 10 F.R. 10438.
+7 F.R. 9399 (amending Exemption Order Apr. 21, 1942, 7 F.R. 3003), which exempted female persons under 18 years of age from the provisions of subsec. (d) of this section, was superseded by 10 F.R. 10438.
 
 #### Contracting Authority of Government Agencies in Connection With National Defense Functions
 
@@ -106,7 +106,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Act Referred to in Other Sections
 
-The Walsh-Healey Act is referred to in section 356 of this title; title 10 sections 2304, 7299; title 15 section 637; title 29 sections 251 to 256, 258, 259, 262, 653; title 30 section 846; title 39 section 410; title 40 section 329.
+The Walsh-Healey Act is referred to in section 356 of this title; title 10 sections 2304, 7299; title 15 section 637; title 29 sections 251 to 256, 258, 259, 262, 653; title 30 section 846; title 39 section 410; title 40 section 3701.
 
 #### Section Referred to in Other Sections
 

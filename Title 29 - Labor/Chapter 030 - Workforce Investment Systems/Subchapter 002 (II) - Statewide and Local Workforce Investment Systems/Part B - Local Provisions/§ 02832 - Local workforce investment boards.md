@@ -24,7 +24,7 @@ There shall be established in each local area of a State, and certified by the G
 
 &emsp;&emsp;&emsp;&emsp;(III) are appointed from among individuals nominated by local business organizations and business trade associations;
 
-&emsp;&emsp;&emsp;(ii) representatives of local educational entities, including representatives of localeducational agencies, local school boards, entities providing adult education and literacy activities, and postsecondary educational institutions (including representatives of community colleges, where such entities exist), selected from among individuals nominated by regional or local educational agencies, institutions, or organizations representing such local educational entities;
+&emsp;&emsp;&emsp;(ii) representatives of local educational entities, including representatives of local educational agencies, local school boards, entities providing adult education and literacy activities, and postsecondary educational institutions (including representatives of community colleges, where such entities exist), selected from among individuals nominated by regional or local educational agencies, institutions, or organizations representing such local educational entities;
 
 &emsp;&emsp;&emsp;(iii) representatives of labor organizations (for a local area in which employees are represented by labor organizations), nominated by local labor federations, or (for a local area in which no employees are represented by such organizations), other representatives of employees;
 
@@ -104,7 +104,7 @@ There shall be established in each local area of a State, and certified by the G
 
 #### (C) Plan
 
-&emsp;&emsp;If the Governor decertifies a local board for a local area under subparagraph (A) or\(B), the Governor may require that a new local board be appointed and certified for the local area pursuant to a reorganization plan developed by the Governor, in consultation with the chief elected official in the local area, and in accordance with the criteria established under subsection (b) of this section.
+&emsp;&emsp;If the Governor decertifies a local board for a local area under subparagraph (A) or (B), the Governor may require that a new local board be appointed and certified for the local area pursuant to a reorganization plan developed by the Governor, in consultation with the chief elected official in the local area, and in accordance with the criteria established under subsection (b) of this section.
 
 #### (4) Single State area
 
@@ -184,7 +184,7 @@ The functions of the local board shall include the following:
 
 #### (7) Employer linkages
 
-&emsp;The local board shall coordinate the workforce investment activities authorized under this subchapter and carried out in the localarea with economic development strategies and develop other employer linkages with such activities.
+&emsp;The local board shall coordinate the workforce investment activities authorized under this subchapter and carried out in the local area with economic development strategies and develop other employer linkages with such activities.
 
 #### (8) Connecting, brokering, and coaching
 
@@ -204,7 +204,7 @@ The local board shall make available to the public, on a regular basis through o
 
 #### (B) Waivers of training prohibition
 
-&emsp;&emsp;The Governor of the State in which a local board is located may, pursuant to a request from the local board, grant a written waiver of the prohibition set forth in subparagraph (A) (relating to the provision of training services) for a program of training services, if the local board—
+&emsp;&emsp;The Governor of the State in which a local board is located may, pursuant to a requestfrom the local board, grant a written waiver of the prohibition set forth in subparagraph (A) (relating to the provision of training services) for a program of training services, if the local board—
 
 &emsp;&emsp;&emsp;(i) submits to the Governor a proposed request for the waiver that includes—
 
@@ -296,7 +296,7 @@ A member of a local board may not—
 
 #### (1) In general
 
-&emsp;For purposes of complying with subsections (a), (b), and (c) of this section, and paragraphs (1) and (2) of subsection (h) of this section, a State may use any local entity (including a local council, regional workforce development board, or similar entity) that—
+&emsp;For purposes of complying with subsections (a), (b), and (c) of this section, and paragraphs\(1) and (2) of subsection (h) of this section, a State may use any local entity (including a local council, regional workforce development board, or similar entity) that—
 
 &emsp;&emsp;(A) is established to serve the local area (or the service delivery area that most closely corresponds to the local area);
 

@@ -26,7 +26,7 @@ The words “the Secretary concerned” are substituted for “officers and agen
 
 1996—Pub. L. 104–106 substituted “section 402(b)(3)” for “the last sentence of section 402(b)” and substituted “Secretary of Defense” for “Secretary concerned” in two places.
 
-1985—Pub. L. 99–145 inserted “: pay of enlisted members of the National Guard” in section catchline, andsubstituted “for the pay, under subsections (a), (b), and (d) of section 206, section 301(f), the last sentence of section 402(b), and section 1002 of this title,” for “under sections 206(a), (b), and (d), 301(f), 309, 402(b) (last sentence), and 1002 of this title for pay”, “All such disbursements” for “Disbursements”, and “as prescribed in those” for “under the”.
+1985—Pub. L. 99–145 inserted “: pay of enlisted members of the National Guard” in section catchline, and substituted “for the pay, under subsections (a), (b), and (d) of section 206, section 301(f), the last sentence of section 402(b), and section 1002 of this title,” for “under sections 206(a), (b), and (d), 301(f), 309, 402(b) (last sentence), and 1002 of this title for pay”, “All such disbursements” for “Disbursements”, and “as prescribed in those” for “under the”.
 
 #### Effective Date of 1985 Amendment
 

@@ -12,17 +12,18 @@
 | (b) | State forestry assistance. |
 | (c) | Implementation. |
 | (d) | Authorization of appropriations. |
-| [2103\.](%C2%A7%2002103%20-%20Forestry%20incentives%20program.md) | Forestry incentives program. |
-| (a) | Development and implementation; statement of purposes. |
-| (b) | “Private forest land” defined. |
-| (c) | Eligibility of landowners for cost sharing; exception; limitation on approval of cost sharing. |
-| (d) | Administration. |
-| (e) | Individual forest management plans as basis for agreements between landowners and Secretary; preparation of plans. |
-| (f) | Cost sharing for implementation of appropriate forestry practices and measures set forth in agreement; apportionment; maximum amount. |
-| (g) | Prerequisites for distribution of funds available for cost sharing. |
-| (h) | Use of advertising and bid procedure in determining lands to be covered by agreements; prerequisites. |
-| (i) | Applicability of other Federal authorities in implementation of provisions. |
-| (j) | Authorization of appropriations. |
+| [2103\.](%C2%A7%2002103%20-%20Forest%20land%20enhancement%20program.md) | Forest land enhancement program. |
+| (a) | Establishment. |
+| (b) | Program objectives. |
+| (c) | State priority plan. |
+| (d) | Owner eligibility for assistance. |
+| (e) | Management plan. |
+| (f) | Approved activities. |
+| (g) | Reimbursement of eligible activities. |
+| (h) | Recapture. |
+| (i) | Distribution of cost-share funds. |
+| (j) | Availability of funds. |
+| (k) | Definitions. |
 | [2103a.](%C2%A7%2002103a%20-%20Forest%20Stewardship%20Program.md) | Forest Stewardship Program. |
 | (a) | Establishment. |
 | (b) | Goal. |
@@ -32,13 +33,7 @@
 | (f) | Duties of owners. |
 | (g) | Stewardship recognition. |
 | (h) | Authorization of appropriations. |
-| [2103b.](%C2%A7%2002103b%20-%20Stewardship%20Incentive%20Program.md) | Stewardship Incentive Program. |
-| (a) | Establishment. |
-| (b) | Eligibility. |
-| (c) | Reimbursement of eligible activities. |
-| (d) | Recapture. |
-| (e) | Distribution. |
-| (f) | Authorization of appropriations. |
+| [2103b.](%C2%A7%2002103b%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VIII%2C%20%C2%A78001%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20468.md) | Repealed. |
 | [2103c.](%C2%A7%2002103c%20-%20Forest%20Legacy%20Program.md) | Forest Legacy Program. |
 | (a) | Establishment and purpose. |
 | (b) | State and regional forest legacy programs. |
@@ -88,6 +83,11 @@
 | (d) | Definitions. |
 | (e) | Retroactive assistance. |
 | [2106b.](%C2%A7%2002106b%20-%20Use%20of%20money%20collected%20from%20States%20for%20fire%20suppression%20assistance.md) | Use of money collected from States for fire suppression assistance. |
+| [2106c.](%C2%A7%2002106c%20-%20Enhanced%20community%20fire%20protection.md) | Enhanced community fire protection. |
+| (a) | Cooperative management related to wildfire threats. |
+| (b) | Community and Private Land Fire Assistance Program. |
+| (c) | Consultation. |
+| (d) | Authorization of appropriations. |
 | [2107\.](%C2%A7%2002107%20-%20Financial%2C%20technical%2C%20and%20related%20assistance%20to%20States.md) | Financial, technical, and related assistance to States. |
 | (a) | Development of State organizations for protection and management of non-Federal forest lands; scope of assistance; request by officials. |
 | (b) | Assembly, analysis, display, and reporting of State forest resources data, resources planning, etc.; scope of assistance; other statutory provisions unaffected. |
@@ -142,15 +142,16 @@ This chapter is referred to in sections 1606, 1650, 2106a of this title; title 7
 
 - [&sect; 02101 - Findings, purpose, and policy](%C2%A7%2002101%20-%20Findings%2C%20purpose%2C%20and%20policy.md)
 - [&sect; 02102 - Rural forestry assistance](%C2%A7%2002102%20-%20Rural%20forestry%20assistance.md)
-- [&sect; 02103 - Forestry incentives program](%C2%A7%2002103%20-%20Forestry%20incentives%20program.md)
+- [&sect; 02103 - Forest land enhancement program](%C2%A7%2002103%20-%20Forest%20land%20enhancement%20program.md)
 - [&sect; 02103a - Forest Stewardship Program](%C2%A7%2002103a%20-%20Forest%20Stewardship%20Program.md)
-- [&sect; 02103b - Stewardship Incentive Program](%C2%A7%2002103b%20-%20Stewardship%20Incentive%20Program.md)
+- [&sect; 02103b - Repealed. Pub. L. 107&#8211;171, title VIII, &sect;8001(a), May 13, 2002, 116 Stat. 468](%C2%A7%2002103b%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VIII%2C%20%C2%A78001%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20468.md)
 - [&sect; 02103c - Forest Legacy Program](%C2%A7%2002103c%20-%20Forest%20Legacy%20Program.md)
 - [&sect; 02104 - Forest health protection](%C2%A7%2002104%20-%20Forest%20health%20protection.md)
 - [&sect; 02105 - Urban and community forestry assistance](%C2%A7%2002105%20-%20Urban%20and%20community%20forestry%20assistance.md)
 - [&sect; 02106 - Rural fire prevention and control](%C2%A7%2002106%20-%20Rural%20fire%20prevention%20and%20control.md)
 - [&sect; 02106a - Emergency reforestation assistance](%C2%A7%2002106a%20-%20Emergency%20reforestation%20assistance.md)
 - [&sect; 02106b - Use of money collected from States for fire suppression assistance](%C2%A7%2002106b%20-%20Use%20of%20money%20collected%20from%20States%20for%20fire%20suppression%20assistance.md)
+- [&sect; 02106c - Enhanced community fire protection](%C2%A7%2002106c%20-%20Enhanced%20community%20fire%20protection.md)
 - [&sect; 02107 - Financial, technical, and related assistance to States](%C2%A7%2002107%20-%20Financial%2C%20technical%2C%20and%20related%20assistance%20to%20States.md)
 - [&sect; 02108 - Consolidation of payments](%C2%A7%2002108%20-%20Consolidation%20of%20payments.md)
 - [&sect; 02109 - General provisions](%C2%A7%2002109%20-%20General%20provisions.md)

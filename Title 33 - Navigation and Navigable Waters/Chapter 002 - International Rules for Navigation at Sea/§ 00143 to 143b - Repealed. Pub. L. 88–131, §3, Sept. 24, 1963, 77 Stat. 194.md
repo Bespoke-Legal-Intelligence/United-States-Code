@@ -1,6 +1,6 @@
 ### §§143 to 143b. Repealed. Pub. L. 88–131, §3, Sept. 24, 1963, 77 Stat. 194
 
-Section 143, act Oct. 11, 1951, ch. 495, §1, 65 Stat. 406, related to adoption of rules for prevention of collisionson the high seas, and to their geographical applicability.
+Section 143, act Oct. 11, 1951, ch. 495, §1, 65 Stat. 406, related to adoption of rules for prevention of collisions on the high seas, and to their geographical applicability.
 
 Section 143a, act Oct. 11, 1951, ch. 495, §2, 65 Stat. 407, provided that Navy and Coast Guard be exempt from the requirements of the rules.
 

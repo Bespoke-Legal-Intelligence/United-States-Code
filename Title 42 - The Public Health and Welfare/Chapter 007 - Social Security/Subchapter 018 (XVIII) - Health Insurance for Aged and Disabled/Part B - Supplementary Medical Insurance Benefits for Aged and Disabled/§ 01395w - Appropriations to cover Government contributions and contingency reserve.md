@@ -6,7 +6,7 @@ There are authorized to be appropriated from time to time, out of any moneys in 
 
 &emsp;(1)(A) a Government contribution equal to the aggregate premiums payable for a month for enrollees age 65 and over under this part and deposited in the Trust Fund, multiplied by the ratio of—
 
-&emsp;&emsp;(i) twice the dollar amount of the actuarially adequate rate per enrollee age 65 and over as determined under section 1395r(a)(1) of this title for such month minus the dollar amount of the premium per enrollee for such month, as determined under section 1395r(a)(3) of this title, to
+&emsp;&emsp;(i) twice the dollar amount of the actuarially adequate rate per enrollee age 65 andover as determined under section 1395r(a)(1) of this title for such month minus the dollar amount of the premium per enrollee for such month, as determined under section 1395r(a)(3) of this title, to
 
 &emsp;&emsp;(ii) the dollar amount of the premium per enrollee for such month, plus
 
@@ -26,7 +26,7 @@ In order to assure prompt payment of benefits provided under this part and the a
 
 The Secretary shall determine the Government contribution under subparagraphs (A) and (B) of subsection (a)(1) of this section without regard to any premium reduction resulting from an election under section 1395w–24(f)(1)(E) of this title.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1844, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 313; amended Pub. L. 90–248, title I, §167, Jan. 2, 1968, 81 Stat. 874; Pub. L. 92–603, title II, §203(e), Oct. 30, 1972, 86 Stat. 1377; Pub. L. 97–248, title I, §124(c), Sept. 3, 1982, 96 Stat. 364; Pub. L. 98–21, title VI, §606(a)(3)(F), (G), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(16), July 18, 1984, 98 Stat. 1101; Pub. L.100–360, title II, §211(c)(2), July 1, 1988, 102 Stat. 738; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 105–33, title IV, §4571(b)(2), Aug. 5, 1997, 111 Stat. 464; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(D)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1844, as added Pub. L. 89–97, title I, §102(a), July 30, 1965, 79 Stat. 313; amended Pub. L. 90–248, title I, §167, Jan. 2, 1968, 81 Stat. 874; Pub. L. 92–603, title II, §203(e), Oct. 30, 1972, 86 Stat. 1377; Pub. L. 97–248, title I, §124(c), Sept. 3, 1982, 96 Stat. 364; Pub. L. 98–21, title VI, §606(a)(3)(F), (G), Apr. 20, 1983, 97 Stat. 171; Pub. L. 98–369, div. B, title III, §2354(b)(16), July 18, 1984, 98 Stat. 1101; Pub. L. 100–360, title II, §211(c)(2), July 1, 1988, 102 Stat. 738; Pub. L. 101–234, title II, §202(a), Dec. 13, 1989, 103 Stat. 1981; Pub. L. 105–33, title IV, §4571(b)(2), Aug. 5, 1997, 111 Stat. 464; Pub. L. 106–554, §1(a)(6) \[title VI, §606(a)(2)(D)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–558.)
 
 #### Amendments
 
@@ -75,4 +75,8 @@ Amendment by Pub. L. 98–21 applicable to premiums for months beginning with Ja
 #### Effective Date of 1972 Amendment
 
 Section 203(e) of Pub. L. 92–603 provided that the amendment made by that section is effective with respect to enrollee premiums payable for months after June 1973.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1320b–5 of this title.
 

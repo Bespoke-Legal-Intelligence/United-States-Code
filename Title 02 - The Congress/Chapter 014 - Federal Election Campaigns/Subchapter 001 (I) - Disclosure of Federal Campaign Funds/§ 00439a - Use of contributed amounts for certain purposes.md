@@ -1,30 +1,56 @@
 ### §439a. Use of contributed amounts for certain purposes
 
-Amounts received by a candidate as contributions that are in excess of any amount necessary to defray his expenditures, and any other amounts contributed to an individual for the purpose of supporting his or her activities as a holder of Federal office, may be used by such candidate or individual, as the case may be, to defray any ordinary and necessary expenses incurred in connection with his or her duties as a holder of Federal office, may be contributed to any organization described in section 170(c) of title 26, or may be used for any other lawful purpose, including transfers without limitation to any national, State, or local committee of any political party; except that no such amounts may be converted by any person to any personal use, other than to defray any ordinary and necessary expenses incurred in connection with his or her duties as a holder of Federal office.
+#### (a) Permitted uses
 
-(Pub. L. 92–225, title III, §313, formerly §318, as added Pub. L. 93–443, title II, §210, Oct. 15, 1974, 88 Stat. 1288; renumbered §317, Pub. L. 94–283, title I, §105, May 11, 1976, 90 Stat. 481; renumbered §313 and amended Pub. L. 96–187, title I, §§105(4), 113, Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–194, title V, §504(a), Nov. 30, 1989, 103 Stat. 1755.)
+A contribution accepted by a candidate, and any other donation received by an individual as support for activities of the individual as a holder of Federal office, may be used by the candidate or individual—
 
-#### Amendments
+&emsp;(1) for otherwise authorized expenditures in connection with the campaign for Federal office of the candidate or individual;
 
-1989—Pub. L. 101–194 struck out “, with respect to any individual who is not a Senator or Representative in, or Delegate or Resident Commissioner to, the Congress on January 8, 1980,” after “except that”.
+&emsp;(2) for ordinary and necessary expenses incurred in connection with duties of the individual as a holder of Federal office;
 
-1986—Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+&emsp;(3) for contributions to an organization described in section 170(c) of title 26; or
 
-1980—Pub. L. 96–187, §113, substituted “his or her activities”, “incurred in connection with his or her duties,” and “may be contributed to any organization” for “his activities”, “incurred by him in connection with his duties”, and “may be contributed by him to any organization”, respectively; authorized use of contributions for transfers without limitation to any national, State, or local committee of any political party but prohibited with respect to any individual who is not a Senator or Representative in, or Delegate or Resident Commissioner to the Congress on Jan. 8, 1980, conversion to any personal use, other than to defray any ordinary and necessary expenses incurred in connection with his or her duties as a holder of Federal office; and struck out requirement for disclosure of contributions and expenditures under Commission rules when such disclosure is not otherwise required under this subchapter and authorization for Commission to prescribe rules to carry out this section.
+&emsp;(4) for transfers, without limitation, to a national, State, or local committee of a political party.
 
-#### Effective Date of 1989 Amendment
+#### (b) Prohibited use
 
-Section 504(b) of Pub. L. 101–194 provided that: “The amendment made by subsection (a) \[amending this section\]—
+#### (1) In general
 
-&emsp;“(1) in the case of an individual who serves as a Senator or Representative in, or Delegate or Resident Commissioner to, the Congress in the 102nd Congress or an earlier Congress, shall apply, except as provided in paragraph (2), to the use of excess amounts totaling more than the amount equal to the unobligated balance on hand on the date of the enactment of this Act \[Nov. 30, 1989\]; and
+&emsp;A contribution or donation described in subsection (a) of this section shall not be converted by any person to personal use.
 
-&emsp;“(2) in the case of an individual who serves as a Senator or Representative in, or Delegate or Resident Commissioner to, the Congress after the 102nd Congress (including an individual referred to in paragraph (1) who so serves), shall apply to the use of any excess amount on or after the first day of such service.”
+#### (2) Conversion
 
-#### Effective Date of 1980 Amendment
+&emsp;For the purposes of paragraph (1), a contribution or donation shall be considered to be converted to personal use if the contribution or amount is used to fulfill any commitment, obligation, or expense of a person that would exist irrespective of the candidate's election campaign or individual's duties as a holder of Federal office, including—
 
-Amendment by Pub. L. 96–187 effective Jan. 8, 1980, see section 301(a) of Pub. L. 96–187, set out as a note under section 431 of this title.
+&emsp;&emsp;(A) a home mortgage, rent, or utility payment;
+
+&emsp;&emsp;(B) a clothing purchase;
+
+&emsp;&emsp;(C) a noncampaign-related automobile expense;
+
+&emsp;&emsp;(D) a country club membership;
+
+&emsp;&emsp;(E) a vacation or other noncampaign-related trip;
+
+&emsp;&emsp;(F) a household food item;
+
+&emsp;&emsp;(G) a tuition payment;
+
+&emsp;&emsp;(H) admission to a sporting event, concert, theater, or other form of entertainment not associated with an election campaign; and
+
+&emsp;&emsp;(I) dues, fees, and other payments to a health club or recreational facility.
+
+(Pub. L. 92–225, title III, §313, as added Pub. L. 107–155, title III, §301, Mar. 27, 2002, 116 Stat. 95.)
+
+#### Prior Provisions
+
+A prior section 439a, Pub. L. 92–225, title III, §313, formerly §318, as added Pub. L. 93–443, title II, §210, Oct. 15, 1974, 88 Stat. 1288; renumbered §317, Pub. L. 94–283, title I, §105, May 11, 1976, 90 Stat. 481; renumbered §313 and amended Pub. L. 96–187, title I, §§105(4), 113, Jan. 8, 1980, 93 Stat. 1354, 1366; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 101–194, title V, §504(a), Nov. 30, 1989, 103 Stat. 1755, also related to use of contributed amounts for certain purposes, prior to repeal by Pub. L. 107–155, title III, §301, Mar. 27, 2002, 116 Stat. 95.
+
+A prior section 313 of Pub. L. 92–225 was renumbered section 309, and is classified to section 437g of this title.
+
+Another prior section 313 of Pub. L. 92–225 was renumbered section 308, and is classified to section 437f of this title.
 
 #### Effective Date
 
-Section effective Jan. 1, 1975, see section 410(a) of Pub. L. 93–443, set out as an Effective Date of 1974 Amendment note under section 431 of this title.
+Section effective Nov. 6, 2002, see section 402 of Pub. L. 107–155, set out as an Effective Date of 2002 Amendment; Regulations note under section 431 of this title.
 

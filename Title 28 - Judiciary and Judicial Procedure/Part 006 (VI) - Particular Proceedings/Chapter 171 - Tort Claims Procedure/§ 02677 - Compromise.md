@@ -16,7 +16,7 @@ This section was renumbered “2676” by Senate amendment. See 80th Congress Se
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–506 struck out provision requiring that approval of court be obtained before Attorney General could arbitrate, compromise, or settle a claim after commencement of an action thereon.
+1966—Pub. L. 89–506 struck out provision requiring that approval of court be obtained before Attorney General could arbitrate, compromise, or settle a claim after commencement of an action thereon.
 
 #### Effective Date of 1966 Amendment
 
@@ -24,5 +24,5 @@ Amendment by Pub. L. 89–506 applicable to claims accruing six months or more a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2672, 2678 of this title; title 5 section 8477; title 8 section 1357; title 10 sections 1054, 1089; title 22 section 2702; title 31 section 1304; title 38 sections 1151, 7316; title 42 sections 233, 2458a, 5055.
+This section is referred to in sections 2672, 2678 of this title; title 5 section 8477; title 8 section 1357; title 10sections 1054, 1089; title 22 section 2702; title 31 section 1304; title 38 sections 1151, 7316; title 42 sections 233, 2458a, 5055.
 

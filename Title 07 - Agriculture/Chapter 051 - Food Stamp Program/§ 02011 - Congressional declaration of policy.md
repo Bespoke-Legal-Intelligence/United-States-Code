@@ -14,6 +14,10 @@ It is declared to be the policy of Congress, in order to promote the general wel
 
 Section 1301 of Pub. L. 95–113 provided that the amendment made by that section is effective Oct. 1, 1977.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–171, title IV, §4001, May 13, 2002, 116 Stat. 305, provided that: “This title \[enacting section 3007 of this title and section 1161 of Title 2, The Congress, amending sections 1431e, 2012, 2014 to 2017, 2019, 2020, 2022, 2023, 2025 to 2028, 2031, 2034, 2036, and 7508 of this title, sections 1612, 1613, and 1631 of Title 8, Aliens and Nationality, and sections 1755, 1758, 1760, 1769, and 1786 of Title 42, The Public Health and Welfare, repealing section 2033 of this title, enacting provisions set out as notes under sections 612c, 2014 to 2016, 2019, 2020, 2022, 2023, 2025, 2026, 2028, 2034, 2036, and 3171 of this title, section 1161 of Title 2, section 1612 of Title 8, and sections 1755, 1758, 1769, and 1786 of Title 42, and amending provisions set out as a note under section 612c of this title\] may be cited as the ‘Food Stamp Reauthorization Act of 2002’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–171, §1, Feb. 11, 2000, 114 Stat. 3, provided that: “This Act \[amending section 2016 of this title and enacting provisions set out as notes under section 2016 of this title\] may be cited as the ‘Electronic Benefit Transfer Interoperability and Portability Act of 2000’.”
@@ -32,7 +36,7 @@ Pub. L. 101–624, title XVII, §1701, Nov. 28, 1990, 104 Stat. 3783, provided t
 
 #### Short Title of 1988 Amendments
 
-Pub. L. 100–435, §1(a), Sept. 19, 1988, 102 Stat. 1645, provided that: “This Act \[amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, section 713a–14 of Title 15, Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, The Public Health and Welfare, enacting provisions set out as notes under sections 612c and 2012 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title\] may be cited as the ‘Hunger Prevention Act of 1988’.”
+Pub. L. 100–435, §1(a), Sept. 19, 1988, 102 Stat. 1645, provided that: “This Act \[amending sections 2012, 2014 to 2017, 2020 to 2023, 2025, and 2026 of this title, section 713a–14 of Title 15, Commerce and Trade, and sections 1761, 1766, 1773, and 1786 of Title 42, The Public Healthand Welfare, enacting provisions set out as notes under sections 612c and 2012 of this title and sections 1766 and 1786 of Title 42, and amending provisions set out as notes under sections 612c, 1731, and 2012 of this title\] may be cited as the ‘Hunger Prevention Act of 1988’.”
 
 Pub. L. 100–232, §1, Jan. 5, 1988, 101 Stat. 1566, provided that: “This Act \[amending section 2014 of this title and enacting provisions set out as a note under section 612c of this title\] may be cited as the ‘Charitable Assistance and Food Bank Act of 1987’.”
 

@@ -4,15 +4,15 @@
 
 (1) Subject to paragraph (2) and in accordance with regulations promulgated under this part, funds shall be allocated annually among the States on the basis of relative population of people under age eighteen.
 
-(2)(A) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter (other than parts D and E) is less than $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $325,000, or such greater amount, up to $400,000, as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 1992 <sup>1</sup> except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands shall be not less than $75,000, or such greater amount, up to $100,000, as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 1992, each.
+(2)(A) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter is less than $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $325,000, or such greater amount up to $400,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the NorthernMariana Islands shall be not less than $75,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
 
-(B) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter (other than part D) equals or exceeds $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $400,000, or such greater amount, up to $600,000, as is available to be allocated if appropriations have been enacted and made available to carry out parts D and E of this subchapter in the full amounts authorized by section 5671(a)(1) and (3) of this title <sup>1</sup> except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands shall be not less than $100,000, or such greater amount, up to $100,000, as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 1992 <sup>1</sup> each.
+(B) Subject to paragraph (3), if the aggregate amount appropriated for a fiscal year to carry out this subchapter equals or exceeds $75,000,000, then the amount allocated to each State for such fiscal year shall be not less than $600,000, except that the amount allocated to the Virgin Islands of the United States, Guam, American Samoa, and the Commonwealth of the Northern Mariana Islands shall be not less than $100,000, or such greater amount up to $100,000 as is available to be allocated without reducing the amount of any State or territory's allocation below the amount allocated for fiscal year 2000, each.
 
-(3) If, as a result of paragraph (2), the amount allocated to a State for a fiscal year would be less than the amount allocated to such State for fiscal year 1992, then the amounts allocated to satisfy the requirements of such paragraph shall be reduced pro rata to the extent necessary to allot <sup>2</sup> to such State for the fiscal year the amount allocated to such State for fiscal year 1992.
+(3) If, as a result of paragraph (2), the amount allocated to a State for a fiscal year would be less than the amount allocated to such State for fiscal year 2000, then the amounts allocated to satisfy the requirements of such paragraph shall be reduced pro rata to the extent necessary to allocate to such State for the fiscal year the amount allocated to such State for fiscal year 2000.
 
 #### (b) Reallocation of unobligated funds
 
-If any amount so allocated remains unobligated at the end of the fiscal year, such funds shall be reallocated in a manner equitable and consistent with the purpose of this part. Any amount so reallocated shall be in addition to the amounts already allocated and available to the State, the Virgin Islands, American Samoa, Guam, the Trust Territory of the Pacific Islands, and the Commonwealth of the Northern Mariana Islands for the same period.
+If any amount so allocated remains unobligated at the end of the fiscal year, such funds shall be reallocated in a manner equitable and consistent with the purpose of this part. Any amount so reallocated shall be in addition to the amounts already allocated and available to the State, the Virgin Islands, American Samoa, Guam, and the Commonwealth of the Northern Mariana Islands for the same period.
 
 #### (c) Use of allocated funds for development, etc., of State plans; limitations; matching requirements
 
@@ -22,9 +22,17 @@ In accordance with regulations promulgated under this part, a portion of any all
 
 In accordance with regulations promulgated under this part, 5 per centum of the minimum annual allocation to any State under this part shall be available to assist the advisory group established under section 5633(a)(3) of this title.
 
-(Pub. L. 93–415, title II, §222, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(b)(1), (2)(A)–(C), (3), (4), Oct. 3, 1977, 91 Stat. 1051; Pub. L. 96–509, §10, Dec. 8, 1980, 94 Stat. 2755; Pub. L. 98–473, title II, §625(b), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7257, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(2), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75.)
+(Pub. L. 93–415, title II, §222, Sept. 7, 1974, 88 Stat. 1118; Pub. L. 95–115, §4(b)(1), (2)(A)–(C), (3), (4), Oct. 3, 1977, 91 Stat. 1051; Pub. L. 96–509, §10, Dec. 8, 1980, 94 Stat. 2755; Pub. L. 98–473, title II, §625(b), Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §7257, Nov. 18, 1988, 102 Stat. 4438; Pub. L. 102–586, §2(f)(2), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(B)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–75; Pub. L. 107–273, div. C, title II, §12208, Nov. 2, 2002, 116 Stat. 1873.)
 
 #### Amendments
+
+2002—Subsec. (a)(2)(A). Pub. L. 107–273, §12208(1)(A)(i), struck out “(other than parts D and E)” after “carry out this subchapter”, substituted “amount up to $400,000” for “amount, up to $400,000,”, “fiscal year 2000, except” for “fiscal year 1992 except”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000, each” for “fiscal year 1992, each”, and struck out “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
+
+Subsec. (a)(2)(B). Pub. L. 107–273, §12208(1)(A)(ii), struck out “(other than part D)” after “carry out this subchapter”, substituted “less than $600,000” for “less than $400,000”, “amount up to $100,000” for “amount, up to $100,000,”, and “fiscal year 2000,” for “fiscal year 1992”, and struck out “or such greater amount, up to $600,000, as is available to be allocated if appropriations have been enacted and made available to carry out parts D and E of this subchapter in the full amounts authorized by section 5671(a)(1) and (3) of this title” before “except that” and “the Trust Territory of the Pacific Islands,” after “American Samoa,”.
+
+Subsec. (a)(3). Pub. L. 107–273, §12208(1)(B), substituted “fiscal year 2000” for “fiscal year 1992” in two places and “allocate” for “allot”.
+
+Subsec. (b). Pub. L. 107–273, §12208(2), struck out “the Trust Territory of the Pacific Islands,” after “Guam,”.
 
 1998—Subsec. (c). Pub. L. 105–277 substituted “units of local government” for “units of general local government” in two places.
 
@@ -58,6 +66,10 @@ Subsec. (d). Pub. L. 95–115, §4(b)(2)(C), (4)(B), redesignated subsec. (e) as
 
 Subsec. (e). Pub. L. 95–115, §4(b)(4)(A), (B), added subsec. (e) and redesignated former subsec. (e) as (d).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, see section 7296(a) of Pub. L. 100–690, set out as a note under section 5601 of this title.
@@ -74,15 +86,7 @@ Section 4(b)(2)(D) of Pub. L. 95–115 provided that: “The amendments made by 
 
 Section 4(b)(4)(B) of Pub. L. 95–115 provided that the amendment made by such section 4(b)(4)(B) is effective Oct. 1, 1978.
 
-#### Termination of Trust Territory of the Pacific Islands
-
-For termination of Trust Territory of the Pacific Islands, see note set out preceding section 1681 of Title 48, Territories and Insular Possessions.
-
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5633, 5667c, 5675 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “allocate”.</i>
+This section is referred to in sections 5633, 5656, 5675 of this title.
 

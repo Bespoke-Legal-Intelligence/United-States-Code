@@ -24,17 +24,21 @@ Under this section, funding may be provided for disciplinary and interdisciplina
 
 &emsp;(2) develop theoretical and research methods;
 
-&emsp;(3) collect and analyze data for policymakers, analysts, and individuals; and
+&emsp;(3) collect, analyze, and disseminate data for policymakers, analysts, and individuals; and
 
 &emsp;(4) develop programs to train analysts.
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2002.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1996 through 2007.
 
-(Pub. L. 95–113, title XIV, §1419A, as added Pub. L. 104–127, title VIII, §807, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title II, §224, title III, §301(a)(3), June 23, 1998, 112 Stat. 540, 562.)
+(Pub. L. 95–113, title XIV, §1419A, as added Pub. L. 104–127, title VIII, §807, Apr. 4, 1996, 110 Stat. 1162; amended Pub. L. 105–185, title II, §224, title III, §301(a)(3), June 23, 1998, 112 Stat. 540, 562; Pub. L. 107–171, title VII, §§7103, 7216, May 13, 2002, 116 Stat. 432, 449.)
 
 #### Amendments
+
+2002—Subsec. (c)(3). Pub. L. 107–171, §7216, substituted “collect, analyze, and disseminate data” for “collect and analyze data”.
+
+Subsec. (d). Pub. L. 107–171, §7103, substituted “2007” for “2002”.
 
 1998—Subsec. (a). Pub. L. 105–185, §224, inserted “and trade agreements” after “public policies” in introductory provisions.
 

@@ -1,6 +1,6 @@
 ### §3719. Reports on debt collection activities
 
-(a) In consultation with the Comptroller General of the United States, the Secretary of the Treasury shall prescribe regulations requiringthe head of each agency with outstanding nontax claims to prepare and submit to the Secretary at least once each year a report summarizing the status of loans and accounts receivable that are managed by the head of the agency. The report shall contain—
+(a) In consultation with the Comptroller General of the United States, the Secretary of the Treasury shall prescribe regulations requiring the head of each agency with outstanding nontax claims to prepare and submit to the Secretary at least once each year a report summarizing the status of loans and accounts receivable that are managed by the head of the agency. The report shall contain—
 
 &emsp;(1) information on—
 

@@ -267,9 +267,12 @@ I74subpart a—petitions and determinations
 |  |  |
 | :--- | ---: |
 | [2271\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20a%20-%20Petitions%20and%20Determinations/%C2%A7%2002271%20-%20Petitions.md) | Petitions. |
-| (a) | Filing of petition; publication of notice. |
+| (a) | Filing of petitions; assistance; publication of notice. |
 | (b) | Hearing. |
 | [2272\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20a%20-%20Petitions%20and%20Determinations/%C2%A7%2002272%20-%20Group%20eligibility%20requirements%3B%20agricultural%20workers%3B%20oil%20and%20natural%20gas%20industry.md) | Group eligibility requirements; agricultural workers; oil and natural gas industry. |
+| (a) | In general. |
+| (b) | Adversely affected secondary workers. |
+| (c) | Definitions. |
 | [2273\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20a%20-%20Petitions%20and%20Determinations/%C2%A7%2002273%20-%20Determinations%20by%20Secretary%20of%20Labor.md) | Determinations by Secretary of Labor. |
 | (a) | Certification of eligibility. |
 | (b) | Workers covered by certification. |
@@ -289,7 +292,7 @@ I74subpart a—petitions and determinations
 | [2291\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/%C2%A7%2002291%20-%20Qualifying%20requirements%20for%20workers.md) | Qualifying requirements for workers. |
 | (a) | Trade readjustment allowance conditions. |
 | (b) | Withholding of trade readjustment allowance pending beginning or resumption of participation in training program; period of applicability. |
-| (c) | Approval of training programs; written certifications; revocation of certification; annual report. |
+| (c) | Waivers of training requirements. |
 | [2292\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/%C2%A7%2002292%20-%20Weekly%20amounts%20of%20readjustment%20allowance.md) | Weekly amounts of readjustment allowance. |
 | (a) | Formula. |
 | (b) | Adversely affected workers who are undergoing training. |
@@ -301,6 +304,7 @@ I74subpart a—petitions and determinations
 | (d) | Special adjustments for benefit years ending with extended benefit periods. |
 | (e) | Week during which worker received on-the-job training. |
 | (f) | Workers treated as participating in training. |
+| (g) | Additional weeks to complete training. |
 | [2294\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/%C2%A7%2002294%20-%20Application%20of%20State%20laws.md) | Application of State laws. |
 | [2295\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/%C2%A7%2002295%20-%20Employment%20services.md) | Employment services. |
 | [2296\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/%C2%A7%2002296%20-%20Training.md) | Training. |
@@ -309,15 +313,15 @@ I74subpart a—petitions and determinations
 | (c) | Payment of costs of on-the-job training. |
 | (d) | Eligibility for unemployment insurance. |
 | (e) | “Suitable employment” defined. |
+| (f) | “Customized training” defined. |
 | [2297\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/%C2%A7%2002297%20-%20Job%20search%20allowances.md) | Job search allowances. |
-| (a) | Terms. |
-| (b) | Conditions. |
-| (c) | Reimbursement for necessary expenses. |
+| (a) | Job search allowance authorized. |
+| (b) | Amount of allowance. |
+| (c) | Exception. |
 | [2298\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20b%20-%20Program%20Benefits/%C2%A7%2002298%20-%20Relocation%20allowances.md) | Relocation allowances. |
-| (a) | Filing of application. |
-| (b) | Suitable employment; bona fide offer; total separation when relocation commences. |
-| (c) | Time of relocation. |
-| (d) | “Relocation allowance” defined. |
+| (a) | Relocation allowance authorized. |
+| (b) | Amount of allowance. |
+| (c) | Limitations. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -351,18 +355,16 @@ I74subpart a—petitions and determinations
 | [2316\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002316%20-%20Penalties.md) | Penalties. |
 | [2317\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002317%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
 | (a) | In general. |
-| (b) | Subpart D. |
-| [2318\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002318%20-%20Supplemental%20wage%20allowance%20demonstration%20projects.md) | Supplemental wage allowance demonstration projects. |
-| (a) | Establishment of projects; purpose. |
-| (b) | Supplemental wage allowances. |
-| (c) | Evaluation of projects. |
-| (d) | Report to Congress; evaluation and recommendation. |
+| (b) | Period of expenditure. |
+| [2318\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002318%20-%20Demonstration%20project%20for%20alternative%20trade%20adjustment%20assistance%20for%20older%20workers.md) | Demonstration project for alternative trade adjustment assistance for older workers. |
+| (a) | In general. |
+| (b) | Termination. |
 | [2319\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002319%20-%20Definitions.md) | Definitions. |
 | [2320\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002320%20-%20Regulations.md) | Regulations. |
 | [2321\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002321%20-%20Subpena%20power.md) | Subpena power. |
 | (a) | Subpena by Secretary. |
 | (b) | Court order. |
-| [2322\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002322%20-%20Nonduplication%20of%20assistance.md) | Nonduplication of assistance. |
+| [2322\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20c%20-%20General%20Provisions/%C2%A7%2002322%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93210%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7123%28b%29%282%29%2C%20Aug.%206%2C%202002%2C%20116%20Stat.%20944.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -370,12 +372,7 @@ I74subpart a—petitions and determinations
 
 |  |  |
 | :--- | ---: |
-| [2331\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20d%20-%20NAFTA%20Transitional%20Adjustment%20Assistance%20Program/%C2%A7%2002331%20-%20Establishment%20of%20transitional%20program.md) | Establishment of transitional program. |
-| (a) | Group eligibility requirements. |
-| (b) | Preliminary findings and basic assistance. |
-| (c) | Review of petitions by Secretary; certifications. |
-| (d) | Comprehensive assistance. |
-| (e) | Administration. |
+| [2331\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20002%20-%20Adjustment%20Assistance%20for%20Workers/Subpart%20d%20-%20NAFTA%20Transitional%20Adjustment%20Assistance%20Program/%C2%A7%2002331%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93210%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7123%28a%29%2C%20Aug.%206%2C%202002%2C%20116%20Stat.%20944.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -463,6 +460,44 @@ I74subpart a—petitions and determinations
 | (b) | Findings of fact by Secretary; conclusiveness; new or modified findings. |
 | (c) | Determination; review by Supreme Court. |
 | 2396, 2397. Omitted. |  |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Part 6—Adjustment Assistance for Farmers
+
+|  |  |
+| :--- | ---: |
+| [2401\.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401%20-%20Definitions.md) | Definitions. |
+| [2401a.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401a%20-%20Petitions%3B%20group%20eligibility.md) | Petitions; group eligibility. |
+| (a) | In general. |
+| (b) | Hearings. |
+| (c) | Group eligibility requirements. |
+| (d) | Special rule for qualified subsequent years. |
+| (e) | Determination of qualified year and commodity. |
+| [2401b.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401b%20-%20Determinations%20by%20Secretary%20of%20Agriculture.md) | Determinations by Secretary of Agriculture. |
+| (a) | In general. |
+| (b) | Notice. |
+| (c) | Termination of certification. |
+| [2401c.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401c%20-%20Study%20by%20Secretary%20of%20Agriculture%20when%20International%20Trade%20Commission%20begins%20investigation.md) | Study by Secretary of Agriculture when International Trade Commission begins investigation. |
+| (a) | In general. |
+| (b) | Report. |
+| [2401d.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401d%20-%20Benefit%20information%20to%20agricultural%20commodity%20producers.md) | Benefit information to agricultural commodity producers. |
+| (a) | In general. |
+| (b) | Notice of benefits. |
+| [2401e.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401e%20-%20Qualifying%20requirements%20for%20agricultural%20commodity%20producers.md) | Qualifying requirements for agricultural commodity producers. |
+| (a) | In general. |
+| (b) | Amount of cash benefits. |
+| (c) | Maximum amount of cash assistance. |
+| (d) | Limitations on other assistance. |
+| [2401f.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401f%20-%20Fraud%20and%20recovery%20of%20overpayments.md) | Fraud and recovery of overpayments. |
+| (a) | In general. |
+| (b) | False statement. |
+| (c) | Notice and determination. |
+| (d) | Payment to Treasury. |
+| (e) | Penalties. |
+| [2401g.](Subchapter%20002%20%28II%29%20-%20Relief%20from%20Injury%20Caused%20by%20Import%20Competition/Part%20006%20-%20Adjustment%20Assistance%20for%20Farmers/%C2%A7%2002401g%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
+| (a) | In general. |
+| (b) | Proportionate reduction. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -663,7 +698,7 @@ I74subpart a—petitions and determinations
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1352, 2502, 2804, 2805, 3004, 3105 of this title; title 28 sections 1581, 2631.
+This chapter is referred to in sections 1352, 2502, 2804, 2805, 3004, 3105 of this title; title 6 section 212; title 28 sections 1581, 2631; title 29 section 2919.
 
 
 ---

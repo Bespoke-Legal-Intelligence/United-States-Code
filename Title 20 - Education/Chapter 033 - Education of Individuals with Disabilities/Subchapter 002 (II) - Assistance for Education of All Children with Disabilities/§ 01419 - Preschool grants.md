@@ -24,7 +24,7 @@ A State shall be eligible for a grant under this section if such State—
 
 #### (2) Increase in funds
 
-&emsp;If the amount available for allocations to States under paragraph (1) is equal to or greater than the amount allocated to the States under this section for the preceding fiscal year, those allocations shall be calculated as follows:
+&emsp;If the amount available for allocations to States under paragraph (1) is equal to or greater than the amount allocated to the States under this section for the preceding fiscalyear, those allocations shall be calculated as follows:
 
 &emsp;&emsp;(A)(i) Except as provided in subparagraph (B), the Secretary shall—
 
@@ -110,7 +110,7 @@ A State shall be eligible for a grant under this section if such State—
 
 #### (f) Other State-level activities
 
-Each State shall use any funds it retains under subsection (d) of this section and does not use for administration under subsection (e) of this section—
+Each State shall use any funds it retains under subsection (d) of this section and does notuse for administration under subsection (e) of this section—
 
 &emsp;(1) for support services (including establishing and implementing the mediation process required by section 1415(e) of this title), which may benefit children with disabilities younger than 3 or older than 5 as long as those services also benefit children with disabilities aged 3 through 5;
 

@@ -42,6 +42,10 @@ Any contract entered into under this section shall be for a term of one year, an
 
 1983—Subsecs. (a), (b), (d), (e)(1), (f). Pub. L. 98–181 substituted “Director” for “Secretary” wherever appearing.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4056 of this title.

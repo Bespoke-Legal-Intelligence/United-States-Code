@@ -44,7 +44,7 @@
 
 &emsp;&emsp;(iii) permit receipt of unsolicited proposals for energy savings performance contracting services from a firm that such agency has determined is qualified to provide such services under the procedures established pursuant to paragraph (1)(A), and require agency facility managers to place a notice in the Commerce Business Daily announcing they have received such a proposal and invite other similarly qualified firms to submit competing proposals; and
 
-&emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified underclause (iii), consistent with the procedures and methods established pursuant to paragraph (1)(A).
+&emsp;&emsp;(iv) enter into an energy savings performance contract with a firm qualified under clause (iii), consistent with the procedures and methods established pursuant to paragraph (1)(A).
 
 (3) A firm not designated as qualified to provide energy savings services under paragraph (2)(A)(i) or paragraph (2)(B) may request a review of such decision to be conducted in accordance with procedures to be developed by the board of contract appeals of the General Services Administration.
 
@@ -68,7 +68,7 @@ Subsec. (c). Pub. L. 104–316 struck out par. (1) designation before “The aut
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
 #### Architect of the Capitol as Agency Electing To Develop List of Firms Qualified To Provide Energy Saving Services and as Agency Head Selecting From List
 
@@ -93,4 +93,8 @@ Authorized Uses of Savings.—The energy cost savings realized by the United Sta
 “(c)
 
 Determination of Amount of Savings.—Not more than 90 days after the end of each of the first five years during which energy savings measures have been in operation under a contract entered into by the Secretary of a military department under title VIII of the National Energy Conservation Policy Act, the Secretary of the military department concerned shall determine the amount of energy cost savings realized by the United States under the terms of the contract during that year by reason of the energy savings measures acquired and installed at that installation pursuant to that contract.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 40 section 591.
 

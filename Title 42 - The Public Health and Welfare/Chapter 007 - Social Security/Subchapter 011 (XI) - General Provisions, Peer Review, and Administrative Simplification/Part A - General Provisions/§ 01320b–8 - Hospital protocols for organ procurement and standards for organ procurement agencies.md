@@ -18,7 +18,7 @@
 
 &emsp;(i) the waiver is expected to increase organ donation; and
 
-&emsp;(ii) the waiver will assure equitable treatment of patients referred for transplants within the service area served by such hospital's designated organ procurement agency and within the service area served by the organ procurement agency with which the hospitalseeks to enter into an agreement under the waiver.
+&emsp;(ii) the waiver will assure equitable treatment of patients referred for transplants within the service area served by such hospital's designated organ procurement agency and within the service area served by the organ procurement agency with which the hospital seeks to enter into an agreement under the waiver.
 
 (B) In making a determination under subparagraph (A), the Secretary may consider factors that would include, but not be limited to—
 
@@ -94,7 +94,7 @@ Pub. L. 103–432, §155(a)(1)(C)(i), redesignated par. (2) as (3).
 
 #### Effective Date of 1997 Amendment
 
-Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997,see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
+Amendment by section 4201(c)(1) of Pub. L. 105–33 applicable to services furnished on or after Oct. 1, 1997, see section 4201(d) of Pub. L. 105–33, set out as a note under section 1395f of this title.
 
 #### Effective Date of 1994 Amendment
 

@@ -26,5 +26,5 @@ Functions of Farm Credit Administration or any agency, officer, or entity of, un
 
 #### Insurance Agreements
 
-Insurance agreements, referred to in the text, were authorized to be made by section 11 of act June 15, 1929, which section was repealed by act June 16, 1933, ch. 98, title V, §50(a), 48 Stat. 265. Section 11 authorized the former Federal Farm Board, upon application of cooperative associations, to enter into agreements subject to specified conditions, for the insurance of the associations against loss through price decline in the agricultural commodity handled by the associations and produced by the members thereof.
+Insurance agreements, referred to in the text, were authorized to be made by section 11 of act June 15, 1929, which section was repealed by act June 16, 1933, ch. 98, title V, §50(a), 48 Stat. 265. Section 11 authorized theformer Federal Farm Board, upon application of cooperative associations, to enter into agreements subject to specified conditions, for the insurance of the associations against loss through price decline in the agricultural commodity handled by the associations and produced by the members thereof.
 

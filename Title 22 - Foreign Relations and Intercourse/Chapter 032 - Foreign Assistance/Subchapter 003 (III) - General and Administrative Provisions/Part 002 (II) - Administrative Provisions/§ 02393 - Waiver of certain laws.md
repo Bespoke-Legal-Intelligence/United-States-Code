@@ -6,7 +6,7 @@ Whenever the President determines it to be in furtherance of the purposes of thi
 
 #### (b) Neutrality laws
 
-The functions authorized under subchapter II of this chapter may be performed without regard to such provisions as the President may specify of subchapter II of chapter 9 of this title.
+The functions authorized under subchapter II of this chapter may be performed without regardto such provisions as the President may specify of subchapter II of chapter 9 of this title.
 
 #### (c) Assignment of personnel
 
@@ -76,7 +76,7 @@ Sec. 2. With respect to purchases authorized to be made outside the limits of th
 
 (5) Section 3(b) of the Act of August 28, 1958, 72 Stat. 972 (50 U.S.C. 1433(b)), but only with respect to contracts in which the inclusion of the clause required by Section 3(b), or the compliance with that clause, if included in a contract, is deemed by the executive or military department concerned to be impracticable.
 
-Sec. 3. With respect to cost-type contracts heretofore or hereafter made with non-profit institutions underwhich no fee is charged or paid, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof.
+Sec. 3. With respect to cost-type contracts heretofore or hereafter made with non-profit institutions under which no fee is charged or paid, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof.
 
 Sec. 4. With respect to contracts heretofore or hereafter made, other than those described in Section 3 of this order, amendments and modifications of such contracts may be made with or without consideration and may be utilized to accomplish the same things as any original contract could have accomplished, irrespective of the time or circumstances of the making, or the form of the contract amended or modified, or of the amending or modifying contract, and irrespective of rights which may have accrued under the contract or the amendments or modifications thereof, if the Secretary of State or the Administrator of the United States Agency for International Development (with respect to functions vested in or delegated to the Administrator) determines in each case that such action is necessary to protect the foreign policy interests of the United States.
 
@@ -84,7 +84,7 @@ Sec. 5. Executive Order No. 10784 of October 1, 1958, and Executive Order No. 10
 
 Sec. 6. I determine it to be in furtherance of the purposes of the Foreign Assistance Act of 1961, as amended \[22 U.S.C. 2151 et seq.\], and in the national security interest of the United States that the functions authorized by chapter 7 of Part II of that Act \[22 U.S.C. 2349 et seq.\], relating to air base construction in Israel, be performed without regard to the following additional specified provisions of law:
 
-(1) Title IX of the Federal Property and Administration Services Act of 1949, as amended (40 U.S.C. 541–544);
+(1) Title IX of the Federal Property and Administration Services Act of 1949, as amended (40 U.S.C. 541–544) \[now 40 U.S.C. 1101–1104\];
 
 (2) Section 612 of the Military Construction Authorization Act, 1967, as amended (31 U.S.C. 723a) \[10 U.S.C. 2661a(b)\];
 

@@ -56,7 +56,7 @@ Another section 624 of Pub. L. 90–321 was renumbered section 625 and is classi
 
 #### Amendments
 
-1996—Subsec. (a). Pub. L. 104–208, §2419(1), designated existing provisions as subsec. (a), inserted heading, and substituted “Except as provided in subsections (b) and (c) of this section, this subchapter” for “This subchapter”.
+1996—Subsec. (a). Pub. L. 104–208, §2419(1), designated existing provisions as subsec. (a), inserted heading, andsubstituted “Except as provided in subsections (b) and (c) of this section, this subchapter” for “This subchapter”.
 
 Subsecs. (b) to (d). Pub. L. 104–208, §2419(2), added subsecs. (b) to (d).
 

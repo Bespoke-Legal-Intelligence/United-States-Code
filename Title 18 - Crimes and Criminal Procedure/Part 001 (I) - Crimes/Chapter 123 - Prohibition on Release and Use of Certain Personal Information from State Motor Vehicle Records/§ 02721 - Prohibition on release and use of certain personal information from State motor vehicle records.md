@@ -14,7 +14,7 @@ Permissible Uses.—Personal information referred to in subsection (a) shall be 
 
 &emsp;(1) For use by any government agency, including any court or law enforcement agency, in carrying out its functions, or any private person or entity acting on behalf of a Federal, State, or local agency in carrying out its functions.
 
-&emsp;(2) For use in connection with matters of motor vehicle or driver safety and theft; motor vehicle emissions; motor vehicle product alterations, recalls, or advisories; performance monitoring of motor vehicles, motor vehicle parts and dealers; motor vehicle market research activities, including survey research; and removal of non-owner records from the original owner records of motor vehicle manufacturers.
+&emsp;(2) For use in connection with matters of motor vehicle or driver safety and theft;motor vehicle emissions; motor vehicle product alterations, recalls, or advisories; performance monitoring of motor vehicles, motor vehicle parts and dealers; motor vehicle market research activities, including survey research; and removal of non-owner records from the original owner records of motor vehicle manufacturers.
 
 &emsp;(3) For use in the normal course of business by a legitimate business or its agents, employees, or contractors, but only—
 
@@ -42,7 +42,7 @@ Permissible Uses.—Personal information referred to in subsection (a) shall be 
 
 &emsp;(13) For use by any requester, if the requester demonstrates it has obtained the written consent of the individual to whom the information pertains.
 
-&emsp;(14) For any other use specifically authorized under the law of the State that holds therecord, if such use is related to the operation of a motor vehicle or public safety.
+&emsp;(14) For any other use specifically authorized under the law of the State that holds the record, if such use is related to the operation of a motor vehicle or public safety.
 
 (c)
 
@@ -68,7 +68,7 @@ The Clean Air Act, referred to in subsec. (b), is act July 14, 1955, ch. 360, 69
 
 #### Amendments
 
-2000—Subsec. (a). Pub. L. 106–346, §101(a) \[title III, §309(c)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtained by the department in connection with a motor vehicle record.”
+2000—Subsec. (a). Pub. L. 106–346, §101(a) \[title III, §309(c)\], reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “Except as provided in subsection (b), a State department of motor vehicles, and any officer, employee, or contractor, thereof, shall not knowingly disclose or otherwise make available to any person or entity personal information about any individual obtained by thedepartment in connection with a motor vehicle record.”
 
 Subsec. (b). Pub. L. 106–346, §101(a) \[title III, §309(d)\], inserted “, subject to subsection (a)(2),” before “may be disclosed” in introductory provisions.
 
@@ -98,7 +98,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Effective Date
 
-Section 300003 of Pub. L. 103–322 provided that: “The amendments made by section 300002 \[enacting this chapter\] shall become effective on the date that is 3years after the date of enactment of this Act \[Sept. 13, 1994\]. After the effective date, if a State has implemented a procedure under section 2721(b)(11) and (12) of title 18, United States Code, as added by section 2902 \[probably should be section “300002(a)”\], for prohibiting disclosures or uses of personal information, and the procedure otherwise meets the requirements of subsection (b)(11) and (12), the State shall be in compliance with subsection (b)(11) and (12) even if the procedure is not available to individuals until they renew their license, title, registration or identification card, so long as the State provides some other procedure for individuals to contact the State on their own initiative to prohibit such uses or disclosures. Prior to the effective date, personal information covered by the amendment made by section 300002 may be released consistent with State law or practice.”
+Section 300003 of Pub. L. 103–322 provided that: “The amendments made by section 300002 \[enacting this chapter\] shall become effective on the date that is 3 years after the date of enactment of this Act \[Sept. 13, 1994\]. After the effective date, if a State has implemented a procedure under section 2721(b)(11) and (12) of title 18, United States Code, as added by section 2902 \[probably should be section “300002(a)”\], for prohibiting disclosures or uses of personal information, and the procedure otherwise meets the requirements of subsection (b)(11) and (12), the State shall be in compliance with subsection (b)(11) and (12) even if the procedure is not available to individuals until they renew their license, title, registration or identification card, so long as the State provides some other procedure for individuals to contact the State on their own initiative to prohibit such uses or disclosures. Prior to the effective date, personal information covered by the amendment made by section 300002 may be released consistent with State law or practice.”
 
 #### Short Title
 

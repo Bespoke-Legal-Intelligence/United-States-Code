@@ -12,7 +12,7 @@ For the purpose of carrying out section 2223a of this title, the Administrator s
 
 &emsp;&emsp;(D) the Occupational Safety and Health Administration; and
 
-&emsp;&emsp;(E) the Bureau of Alcohol, Tobacco, and Firearms,
+&emsp;&emsp;(E) the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice,
 
 > &emsp;who develop and disseminate hazardous materials identification and response data, and who collect, collate, analyze, and disseminate hazardous materials incident data;
 
@@ -20,11 +20,19 @@ For the purpose of carrying out section 2223a of this title, the Administrator s
 
 &emsp;(3) representatives of companies engaged in the manufacture and processing of chemicals.
 
-(Pub. L. 101–446, §3, Oct. 22, 1990, 104 Stat. 1045.)
+(Pub. L. 101–446, §3, Oct. 22, 1990, 104 Stat. 1045; Pub. L. 107–296, title XI, §1112(d), Nov. 25, 2002, 116 Stat. 2276.)
 
 #### Codification
 
 Section was enacted as part of the Firefighters’ Safety Study Act, and not as part of the Federal Fire Prevention and Control Act of 1974 which comprises this chapter.
+
+#### Amendments
+
+2002—Par. (1)(E). Pub. L. 107–296 substituted “the Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice,” for “the Bureau of Alcohol, Tobacco, and Firearms,”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Section Referred to in Other Sections
 

@@ -44,7 +44,7 @@ A manufacturer may disseminate information under subsection (a) of this section 
 
 &emsp;&emsp;&emsp;(ii) if applicable, that the information is being disseminated at the expense of the manufacturer;
 
-&emsp;&emsp;&emsp;(iii) if applicable, the name of any authors of the information who are employees of, consultants to, or have received compensation from, the manufacturer, or who have a significant financial interest in the manufacturer;
+&emsp;&emsp;&emsp;(iii) if applicable, the name of any authors of the information who are employees of, consultants to, or have receivedcompensation from, the manufacturer, or who have a significant financial interest in the manufacturer;
 
 &emsp;&emsp;&emsp;(iv) the official labeling for the drug or device and all updates with respect to the labeling;
 
@@ -58,7 +58,7 @@ A manufacturer may disseminate information under subsection (a) of this section 
 
 If the Secretary determines, after providing notice of such determination and an opportunity for a meeting with respect to such determination, that the information submitted by a manufacturer under subsection (b)(3)(B) of this section, with respect to the use of a drug or device for which the manufacturer intends to disseminate information, fails to provide data, analyses, or other written matter that is objective and balanced, the Secretary may require the manufacturer to disseminate—
 
-&emsp;(1) additional objective and scientifically sound information that pertains to the safetyor effectiveness of the use and is necessary to provide objectivity and balance, including any information that the manufacturer has submitted to the Secretary or, where appropriate, a summary of such information or any other information that the Secretary has authority to make available to the public; and
+&emsp;(1) additional objective and scientifically sound information that pertains to the safety or effectiveness of the use and is necessary to provide objectivity and balance, including any information that the manufacturer has submitted to the Secretary or, where appropriate, a summary of such information or any other information that the Secretary has authority to make available to the public; and
 
 &emsp;(2) an objective statement of the Secretary, based on data or other scientifically sound information available to the Secretary, that bears on the safety or effectiveness of the new use of the drug or device.
 

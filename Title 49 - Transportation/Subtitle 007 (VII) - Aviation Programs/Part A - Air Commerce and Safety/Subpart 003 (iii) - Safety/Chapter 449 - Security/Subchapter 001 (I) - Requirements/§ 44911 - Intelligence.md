@@ -30,7 +30,7 @@ Policies and Procedures on Report Availability.—The head of each unit in the i
 
 (c)
 
-Unit for Strategic Planning on Terrorism.—The heads of the units in the intelligence community shall place greater emphasis on strategic intelligence efforts by establishing a unit for strategic planning on terrorism.
+Unit for Strategic Planning on Terrorism.—The heads of the units in the intelligencecommunity shall place greater emphasis on strategic intelligence efforts by establishing a unit for strategic planning on terrorism.
 
 (d)
 
@@ -101,6 +101,10 @@ Pub. L. 107–71, §101(f)(7), (9), substituted “Under Secretary of Transporta
 Subsec. (c). Pub. L. 107–71, §102(c), substituted “place” for “consider placing”.
 
 Subsec. (e). Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administrator” in two places.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

@@ -58,7 +58,7 @@ For purposes of this section:
 
 &emsp;&emsp;(B) in the case of participation certificates and other equities and interests not described in subparagraph (C), face or equivalent value; or
 
-&emsp;&emsp;(C) in the case of participation certificates and allocated equities subject to retirement under a revolving cycle but that a System institution elects to retire out of order for application against a loan in default orotherwise as provided in this chapter, par or face value discounted, at a rate determined by the institution, to reflect the present value of the equity or interest as of the date of such retirement.
+&emsp;&emsp;(C) in the case of participation certificates and allocated equities subject to retirement under a revolving cycle but that a System institution elects to retire out of order for application against a loan in default or otherwise as provided in this chapter, par or face value discounted, at a rate determined by the institution, to reflect the present value of the equity or interest as of the date of such retirement.
 
 (Pub. L. 92–181, title IV, §4.9A, as added Pub. L. 100–233, title I, §101, Jan. 6, 1988, 101 Stat. 1572; amended Pub. L. 100–399, title I, §101(b)–(d), Aug. 17, 1988, 102 Stat. 989.)
 

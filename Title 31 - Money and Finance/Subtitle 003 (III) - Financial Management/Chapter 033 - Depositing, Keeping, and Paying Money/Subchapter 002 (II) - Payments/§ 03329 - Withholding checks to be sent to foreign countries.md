@@ -88,7 +88,7 @@ In subsection (b)(3)(A), the words “in accordance with the provisions of secti
 
 In subsection (b)(3)(B), before subclause (i), the word “Secretary” is substituted for “Bureau of Accounts of the Treasury Department” because of the source provisions restated in section 321 of the revised title. The word “fully” is omitted as surplus.
 
-In subsection (b)(4), the word “withheld” is substituted for “undelivered” for clarity. The words “with the Treasurer of the United States” and the words “of the United States” after “Comptroller General” are omitted as unnecessary.
+In subsection (b)(4), the word “withheld” is substituted for “undelivered” for clarity. The words “withthe Treasurer of the United States” and the words “of the United States” after “Comptroller General” are omitted as unnecessary.
 
 In subsection (d)(1), the words “is now being, or . . . hereafter” and “as well as to all checks or warrants the delivery of which is now being withheld pursuant to administrative action, which administrative action is ratified and confirmed” in 31:126 are omitted as executed.
 

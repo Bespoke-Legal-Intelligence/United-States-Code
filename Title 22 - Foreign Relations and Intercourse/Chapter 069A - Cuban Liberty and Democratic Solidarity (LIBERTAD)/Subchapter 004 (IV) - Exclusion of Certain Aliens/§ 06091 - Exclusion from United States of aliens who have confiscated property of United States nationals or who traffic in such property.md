@@ -82,11 +82,11 @@ Subchapter III of this chapter, referred to in subsec. (c), was in the original 
 
 #### Reports on Determinations Under Title IV of the LIBERTAD Act
 
-Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2802, Oct. 21, 1998, 112 Stat. 2681–845, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423, provided that:
+Pub. L. 105–277, div. G, subdiv. B, title XXVIII, §2802, Oct. 21, 1998, 112 Stat. 2681–845, as amended by Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §209(b)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–423; Pub. L. 107–228, div. A, title II, §216(b), Sept. 30, 2002, 116 Stat. 1366, provided that:
 
 “(a)
 
-Reports Required.—Not later than 30 days after the date of the enactment of this Act \[Oct. 21, 1998\] and every 3 months thereafter during the period ending September 30, 2001, the Secretary of State shall submit to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] a report on the implementation of section 401 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 (22 U.S.C. 6091). Each report shall include—
+Reports Required.—Not later than 30 days after the date of the enactment of this Act \[Oct. 21, 1998\] and every 3 months thereafter during the period ending September 30, 2003, the Secretary of State shall submit to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] a report on the implementation of section 401 of the Cuban Liberty and Democratic Solidarity (LIBERTAD) Act of 1996 (22 U.S.C. 6091). Each report shall include—
 
 &emsp;“(1) an unclassified list, by economic sector, of the number of entities then under review pursuant to that section;
 
@@ -108,5 +108,5 @@ Protection of Identity of Concerned Entities.—In preparing the report under su
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 8 section 1182d.
+This section is referred to in title 6 section 236; title 8 section 1182d.
 

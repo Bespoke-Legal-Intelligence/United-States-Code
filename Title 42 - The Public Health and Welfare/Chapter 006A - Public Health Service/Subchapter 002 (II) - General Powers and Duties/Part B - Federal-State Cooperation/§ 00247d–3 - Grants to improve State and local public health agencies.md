@@ -28,13 +28,17 @@ No later than January 1, 2005, the Secretary shall prepare and submit to the Com
 
 Funds appropriated under this section shall be used to supplement and not supplant other Federal, State, and local public funds provided for activities under this section.
 
-#### (f) Authorization of appropriations
+(July 1, 1944, ch. 373, title III, §319C, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2317; amended Pub. L. 107–188, title I, §131(b), June 12, 2002, 116 Stat. 626.)
 
-There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year 2001, and such sums as may be necessary for each subsequent fiscal year through 2006.
+#### Amendments
 
-(July 1, 1944, ch. 373, title III, §319C, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2317.)
+2002—Subsec. (f). Pub. L. 107–188 struck out heading and text of subsec. (f). Text read as follows: “There are authorized to be appropriated to carry out this section $50,000,000 for fiscal year 2001, and such sums as may be necessary for each subsequent fiscal year through 2006.”
 
 #### Change of Name
 
 Committee on Commerce of House of Representatives changed to Committee on Energy and Commerce of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred to Committee on Financial Services of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 247d–3a, 247d–7c of this title.
 

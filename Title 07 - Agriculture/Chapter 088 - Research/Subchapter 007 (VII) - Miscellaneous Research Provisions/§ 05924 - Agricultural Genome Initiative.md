@@ -26,15 +26,17 @@ The Secretary of Agriculture (referred to in this section as the “Secretary”
 
 &emsp;(2) ensuring that current gaps in existing agricultural genetics knowledge are filled;
 
-&emsp;(3) identifying and developing a functional understanding of genes responsible for economically important traits in agriculturally important species, including emerging plant and animal diseases causing economic hardship;
+&emsp;(3) identifying and developing a functional understanding of genes responsible for economically important traits in agriculturally important species, including emerging plant and animal pathogens and diseases causing economic hardship;
 
 &emsp;(4) ensuring future genetic improvement of agriculturally important species;
 
 &emsp;(5) supporting preservation of diverse germplasm;
 
-&emsp;(6) ensuring preservation of biodiversity to maintain access to genes that may be of importance in the future; and
+&emsp;(6) ensuring preservation of biodiversity to maintain access to genes that may be of importance in the future;
 
-&emsp;(7) otherwise carrying out this section.
+&emsp;(7) reducing the economic impact of plant pathogens on commercially important crop plants; and
+
+&emsp;(8) otherwise carrying out this section.
 
 #### (c) Grants and cooperative agreements
 
@@ -68,17 +70,17 @@ Paragraphs (1), (6), (7), and (11) of subsection (b) of section 450i of this tit
 
 The Secretary may use funds made available under this section to consult with the National Academy of Sciences regarding the administration of the Agricultural Genome Initiative.
 
-(Pub. L. 101–624, title XVI, §1671, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 104–66, title I, §1011(s), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title VIII, §835, Apr. 4, 1996, 110 Stat. 1169; Pub. L. 105–185, title II, §241, June 23, 1998, 112 Stat. 547.)
+(Pub. L. 101–624, title XVI, §1671, Nov. 28, 1990, 104 Stat. 3769; Pub. L. 104–66, title I, §1011(s), Dec. 21, 1995, 109 Stat. 710; Pub. L. 104–127, title VIII, §835, Apr. 4, 1996, 110 Stat. 1169; Pub. L. 105–185, title II, §241, June 23, 1998, 112 Stat. 547; Pub. L. 107–171, title VII, §7208(a), May 13, 2002, 116 Stat. 442.)
 
 #### Amendments
+
+2002—Subsec. (b)(3). Pub. L. 107–171, §7208(a)(1), inserted “pathogens and” before “diseases causing economic hardship”.
+
+Subsec. (b)(7), (8). Pub. L. 107–171, §7208(a)(2)–(4), added par. (7) and redesignated former par. (7) as (8).
 
 1998—Pub. L. 105–185 amended section catchline and text generally, substituting present provisions for provisions which in subsec. (a) required plant genome mapping program, in subsec. (b) authorized competitive grants for research projects, in subsec. (c) described research areas for projects, in subsec. (d) set forth deadline for submission of plan for awarding grants, in subsec. (e) directed coordination of section activities with certain related activities, in subsec. (f) required protection of proprietary interests when considered to be appropriate, and in subsec. (g) authorized appropriations for fiscal years 1996 and 1997 to carry out this section.
 
 1996—Subsec. (g). Pub. L. 104–127 inserted “for fiscal years 1996 and 1997” after “appropriated”.
 
 1995—Subsecs. (g), (h). Pub. L. 104–66 redesignated subsec. (h) as (g) and struck out former subsec. (g) which required Secretary to submit annual reports to Congress describing operations of grant program for plant genome mapping.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 450i of this title.
 

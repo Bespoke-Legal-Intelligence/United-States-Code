@@ -8,5 +8,9 @@ In carrying out the provisions of this subchapter, the Secretaries and the Joint
 
 1991—Pub. L. 102–237 substituted “ensure” for “insure” in two places.
 
-1984—Pub. L. 98–284 substituted “shall cooperate with each other in the conduct of their activities under this subchapter, and shall insure that their activities under this subchapter are closely coordinated with the activities of other Federal agencies” for “shall insure that their activities are closely coordinated with the activities of other Federal agencies” and “Federal Emergency Management Agency, and others,” for “FederalPreparedness Agency, and others”, and inserted “Department of State,”.
+1984—Pub. L. 98–284 substituted “shall cooperate with each other in the conduct of their activities under this subchapter, and shall insure that their activities under this subchapter are closely coordinated with the activities of other Federal agencies” for “shall insure that their activities are closely coordinated with the activities of other Federal agencies” and “Federal Emergency Management Agency, and others,” for “Federal Preparedness Agency, and others”, and inserted “Department of State,”.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

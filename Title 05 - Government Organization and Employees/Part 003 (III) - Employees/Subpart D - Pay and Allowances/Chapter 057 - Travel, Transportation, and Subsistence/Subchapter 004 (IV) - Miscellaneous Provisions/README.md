@@ -15,3 +15,5 @@
 - [&sect; 05754 - Retention allowances](%C2%A7%2005754%20-%20Retention%20allowances.md)
 - [&sect; 05755 - Supervisory differentials](%C2%A7%2005755%20-%20Supervisory%20differentials.md)
 - [&sect; 05756 - Home marketing incentive payment](%C2%A7%2005756%20-%20Home%20marketing%20incentive%20payment.md)
+- [&sect; 05757 - 1 Payment of expenses to obtain professional credentials](%C2%A7%2005757%20-%201%20Payment%20of%20expenses%20to%20obtain%20professional%20credentials.md)
+- [&sect; 05757 - 1 Extended assignment incentive](%C2%A7%2005757%20-%201%20Extended%20assignment%20incentive.md)

@@ -6,7 +6,7 @@ The Board shall perform the following functions:
 
 #### (1) Review and evaluation of standards
 
-&emsp;The Board shall review and evaluate the content and implementation of the standards relating to the design, construction, operation, and decommissioning of defense nuclear facilities of the Department of Energy (including all applicable Department of Energy orders, regulations, and requirements) at each Department of Energy defense nuclear facility. The Board shall recommend to the Secretary of Energy those specific measures that should be adopted to ensure that public health and safety are adequately protected. The Board shall include in its recommendations necessary changes in the content and implementation of such standards, as well as matters on which additional data or additional research is needed.
+&emsp;The Board shall review and evaluate the content and implementation of the standardsrelating to the design, construction, operation, and decommissioning of defense nuclear facilities of the Department of Energy (including all applicable Department of Energy orders, regulations, and requirements) at each Department of Energy defense nuclear facility. The Board shall recommend to the Secretary of Energy those specific measures that should be adopted to ensure that public health and safety are adequately protected. The Board shall include in its recommendations necessary changes in the content and implementation of such standards, as well as matters on which additional data or additional research is needed.
 
 #### (2) Investigations
 

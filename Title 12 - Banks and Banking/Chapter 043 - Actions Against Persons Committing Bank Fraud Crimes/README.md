@@ -21,7 +21,7 @@
 | (b) | Civil action. |
 | (c) | Criminal conviction. |
 | (d) | Share of funds and assets. |
-| (e) | Prohibition of double awards. |
+| (e) | Repealed. |
 | (f) | Appropriate Federal banking agency exception. |
 | [4206\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004206%20-%20Rights%20of%20declarants%3B%20notifications%3B%20Government%20accountability.md) | Rights of declarants; notifications; Government accountability. |
 | (a) | In general. |
@@ -35,9 +35,7 @@
 | (b) | Contents of response. |
 | (c) | Grant of contract. |
 | [4208\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004208%20-%20Nonreviewability%20of%20action%20by%20Attorney%20General.md) | Nonreviewability of action by Attorney General. |
-| [4209\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004209%20-%20Financial%20Institution%20Information%20Award%20Fund.md) | Financial Institution Information Award Fund. |
-| (a) | Establishment. |
-| (b) | Authorization of appropriations. |
+| [4209\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004209%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93273%2C%20div.%20A%2C%20title%20III%2C%20%C2%A7301%28c%29%283%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201781.md) | Repealed. |
 | [4210\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004210%20-%20Sources%20of%20payments%20to%20declarants.md) | Sources of payments to declarants. |
 | [4211\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004211%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93362%2C%20title%20X%2C%20%C2%A71001%28e%29%2C%20Nov.%2010%2C%201998%2C%20112%20Stat.%203291.md) | Repealed. |
 | [4212\.](Subchapter%20001%20%28I%29%20-%20Declarations%20Providing%20New%20Claims%20to%20United%20States/%C2%A7%2004212%20-%20Protection%20for%20declarants.md) | Protection for declarants. |

@@ -28,7 +28,11 @@ A State, Indian tribal government, or unit of local government shall be deemed t
 
 &emsp;&emsp;(D) the State, Indian tribal government, unit of local government, or reimbursing governmental entity provides information at the time of the exam to all victims, including victims with limited or no English proficiency, regarding how to obtain reimbursement.
 
-(Pub. L. 90–351, title I, §2005, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1914.)
+(Pub. L. 90–351, title I, §2010, formerly §2005, as added Pub. L. 103–322, title IV, §40121(a)(3), Sept. 13, 1994, 108 Stat. 1914; renumbered §2010, Pub. L. 107–273, div. A, title IV, §402(2), Nov. 2, 2002, 116 Stat. 1789.)
+
+#### Codification
+
+Amendment by section 402(2) of Pub. L. 107–273, which directed the renumbering of sections 2002 to 2006 of Pub. L. 90–351 as sections 2006 to 2011 of that act, was executed by renumbering sections 2002 to 2006 as sections 2007 to 2011 of that act, respectively, to reflect the probable intent of Congress.
 
 #### Section Referred to in Other Sections
 

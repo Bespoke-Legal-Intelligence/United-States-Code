@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Bureau shall make a grant under section 3796cc(a) of this title to carry out the projectsdescribed in the application submitted by an applicant under section 3796cc–1 of this title upon determining that—
+The Bureau shall make a grant under section 3796cc(a) of this title to carry out the projects described in the application submitted by an applicant under section 3796cc–1 of this title upon determining that—
 
 &emsp;(1) the application is consistent with the requirements of this subchapter; and
 

@@ -52,7 +52,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 &emsp;(18) include the number of families to whom the jurisdiction will provide affordable housing as defined in section 12745 of this title using funds made available;
 
-&emsp;(19) for any housing strategy submitted for fiscal year 1994 or any fiscal year thereafter and taking into consideration factors over which the jurisdiction has control, describe the jurisdiction's goals, programs, and policies for reducing the number of households with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually), and, in consultation with other appropriate public and private agencies, state how the jurisdiction's goals, programs, and policies for producing and preserving affordable housing set forth in the housing strategy will be coordinated with other programs and services for which the jurisdiction is responsible and the extent to which they will reduce (or assist in reducing) the number of households with incomes below the poverty line; and
+&emsp;(19) for any housing strategy submitted for fiscal year 1994 or any fiscal year thereafter and taking into consideration factors over which the jurisdiction has control, describe the jurisdiction's goals, programs, and policiesfor reducing the number of households with incomes below the poverty line (as defined by the Office of Management and Budget and revised annually), and, in consultation with other appropriate public and private agencies, state how the jurisdiction's goals, programs, and policies for producing and preserving affordable housing set forth in the housing strategy will be coordinated with other programs and services for which the jurisdiction is responsible and the extent to which they will reduce (or assist in reducing) the number of households with incomes below the poverty line; and
 
 &emsp;(20) describe the jurisdictions activities to enhance coordination between public and assisted housing providers and private and governmental health, mental health, and service agencies.
 
@@ -62,7 +62,7 @@ A housing strategy submitted under this section shall be in a form that the Secr
 
 #### (1) In general
 
-&emsp;The Secretary shall review the housing strategy upon receipt. Not later than 60 days after receipt by the Secretary, the housing strategy shall be approved unless the Secretary determines before that date that (A) the housing strategy is inconsistent with the purposes of this Act, or (B) the information described in subsection (b) of this section has not been provided in a substantially completemanner. For the purpose of the preceding sentence, the adoption or continuation of a public policy identified pursuant to subsection (b)(4) of this section shall not be a basis for the Secretary's disapproval of a housing strategy. During the 18-month period following November 28, 1990, the Secretary may extend the review period to not longer than 90 days.
+&emsp;The Secretary shall review the housing strategy upon receipt. Not later than 60 days after receipt by the Secretary, the housing strategy shall be approved unless the Secretary determines before that date that (A) the housing strategy is inconsistent with the purposes of this Act, or (B) the information described in subsection (b) of this section has not been provided in a substantially complete manner. For the purpose of the preceding sentence, the adoption or continuation of a public policy identified pursuant to subsection (b)(4) of this section shall not be a basis for the Secretary's disapproval of a housing strategy. During the 18-month period following November 28, 1990, the Secretary may extend the review period to not longer than 90 days.
 
 #### (2) Actions in case of disapproval
 
@@ -98,7 +98,7 @@ Not later than 4 months after completion of the final report of the Secretary's 
 
 #### (2) Definition
 
-&emsp;For purposes of this subsection, the term “troubled public housing agency” means a public housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937 \[42 U.S.C. 1437d(j)(2)\] as a troubled public housing agency.
+&emsp;For purposes of this subsection, the term “troubled public housing agency” means a public housing agency that, upon the effective date of the Quality Housing and Work Responsibility Act of 1998, is designated under section 6(j)(2) of the United States Housing Act of 1937\[42 U.S.C. 1437d(j)(2)\] as a troubled public housing agency.
 
 (Pub. L. 101–625, title I, §105, Nov. 28, 1990, 104 Stat. 4088; Pub. L. 102–550, title II, §220, title VI, §681, title X, §1014, title XII, §1206, Oct. 28, 1992, 106 Stat. 3761, 3830, 3908, 3940; Pub. L. 105–276, title V, §§568, 583, Oct. 21, 1998, 112 Stat. 2634, 2644; Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675.)
 

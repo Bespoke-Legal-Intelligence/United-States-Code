@@ -1,6 +1,6 @@
 ### §2422. Coercion and enticement
 
-(a) Whoever knowingly persuades, induces, entices, or coerces any individual to travel in interstate or foreign commerce, or in any Territory or Possession of the United States, to engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, or attempts to do so, shall befined under this title or imprisoned not more than 10 years, or both.
+(a) Whoever knowingly persuades, induces, entices, or coerces any individual to travel in interstate or foreign commerce, or in any Territory or Possession of the United States, to engage in prostitution, or in any sexual activity for which any person can be charged with a criminal offense, or attempts to do so, shall be fined under this title or imprisoned not more than 10 years, or both.
 
 (b) Whoever, using the mail or any facility or means of interstate or foreign commerce, or within the special maritime and territorial jurisdiction of the United States knowingly persuades, induces, entices, or coerces any individual who has not attained the age of 18 years, to engage in prostitution or any sexual activity for which any person can be charged with a criminal offense, or attempts to do so, shall be fined under this title, imprisoned not more than 15 years, or both.
 
@@ -34,5 +34,5 @@ Subsec. (b). Pub. L. 105–314, §102(2), added subsec. (b) and struck out forme
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1961, 2253, 2254, 2255, 3486, 3559 of this title; title 8 section 1101; title 42 section 14135a.
+This section is referred to in sections 1961, 2253, 2254, 2255, 3486, 3559 of this title; title 8 section 1101; title 42 section 14135a.
 

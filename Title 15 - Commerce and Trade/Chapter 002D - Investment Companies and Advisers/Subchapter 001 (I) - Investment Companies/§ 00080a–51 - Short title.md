@@ -6,7 +6,7 @@ This subchapter may be cited as the “Investment Company Act of 1940”.
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–290, title II, §201, Oct. 11, 1996, 110 Stat. 3426, provided that: “This title \[amending sections 80a–2, 80a–3, 80a–12, 80a–24, 80a–26, 80a–27, 80a–29, 80a–30,80a–34, and 80b–5 of this title and enacting provisions set out as notes under sections 80a–2, 80a–3, and 80a–24 of this title\] may be cited as the ‘Investment Company Act Amendments of 1996’.”
+Pub. L. 104–290, title II, §201, Oct. 11, 1996, 110 Stat. 3426, provided that: “This title \[amending sections 80a–2, 80a–3, 80a–12, 80a–24, 80a–26, 80a–27, 80a–29, 80a–30, 80a–34, and 80b–5 of this title and enacting provisions set out as notes under sections 80a–2, 80a–3, and 80a–24 of this title\] may be cited as the ‘Investment Company Act Amendments of 1996’.”
 
 #### Short Title of 1995 Amendment
 

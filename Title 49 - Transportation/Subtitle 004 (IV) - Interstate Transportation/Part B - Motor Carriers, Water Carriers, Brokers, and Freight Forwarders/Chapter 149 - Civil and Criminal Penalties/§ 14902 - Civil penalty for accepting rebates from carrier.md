@@ -2,7 +2,7 @@
 
 A person—
 
-&emsp;(1) delivering property to a carrier providing transportation or service subject to jurisdiction under chapter 135 for transportation under this part or for whom that carrier will transport the property as consignor or consignee for that person from a State or territory or possession of the United States to another State or possession, territory, or to a foreign country; and
+&emsp;(1) delivering property to a carrier providing transportation or service subject to jurisdiction under chapter 135 for transportationunder this part or for whom that carrier will transport the property as consignor or consignee for that person from a State or territory or possession of the United States to another State or possession, territory, or to a foreign country; and
 
 &emsp;(2) knowingly accepting or receiving by any means a rebate or offset against the rate for transportation for, or service of, that property contained in a tariff required under section 13702;
 

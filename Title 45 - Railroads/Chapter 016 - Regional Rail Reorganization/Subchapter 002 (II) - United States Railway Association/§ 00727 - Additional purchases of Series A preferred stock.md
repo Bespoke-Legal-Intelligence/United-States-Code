@@ -26,7 +26,7 @@ The Corporation shall retain the right to collect any accounts receivable attrib
 
 (1) There is authorized to be appropriated not to exceed $262,000,000—
 
-&emsp;(A) of which not to exceed $137,000,000 shall be appropriated to the Association for purposes of purchasing securities and accounts receivable of the Corporation under this section,such sums to remain available until the Secretary transfers the Corporation under subchapter IV <sup>1</sup> of this chapter;
+&emsp;(A) of which not to exceed $137,000,000 shall be appropriated to the Association for purposes of purchasing securities and accounts receivable of the Corporation under this section, such sums to remain available until the Secretary transfers the Corporation under subchapter IV <sup>1</sup> of this chapter;
 
 &emsp;(B) of which not to exceed $75,000,000 shall be appropriated to the Secretary, to facilitate the transfer of rail commuter services from the Corporation to other operators, for distribution under the statutory provisions of section 1139(b) of the Northeast Rail Service Act of 1981;
 

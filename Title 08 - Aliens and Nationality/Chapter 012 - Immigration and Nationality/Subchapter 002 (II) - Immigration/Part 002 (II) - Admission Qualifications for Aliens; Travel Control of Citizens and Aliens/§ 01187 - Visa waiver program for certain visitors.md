@@ -12,7 +12,7 @@ The Attorney General and the Secretary of State are authorized to establish a pr
 
 &emsp;The alien is a national of, and presents a passport issued by, a country which—
 
-&emsp;&emsp;(A) extends (or agrees to extend), either on its own or in conjunction with one or more other countries that are described in subparagraph (B) and that have established with it a common area for immigration admissions, reciprocal privileges to citizens and nationals of the United States, and
+&emsp;&emsp;(A) extends (or agrees to extend), either on its own or in conjunction with one or moreother countries that are described in subparagraph (B) and that have established with it a common area for immigration admissions, reciprocal privileges to citizens and nationals of the United States, and
 
 &emsp;&emsp;(B) is designated as a pilot program country under subsection (c) of this section.
 
@@ -52,7 +52,7 @@ The Attorney General and the Secretary of State are authorized to establish a pr
 
 #### (9) Automated system check
 
-&emsp;The identity of the alien has been checked using an automated electronic database containing information about the inadmissibility of aliens to uncover any grounds on which thealien may be inadmissible to the United States, and no such ground has been found.
+&emsp;The identity of the alien has been checked using an automated electronic database containing information about the inadmissibility of aliens to uncover any grounds on which the alien may be inadmissible to the United States, and no such ground has been found.
 
 > Operators of aircraft under part 135 of title 14, Code of Federal Regulations, or operators of noncommercial aircraft that are owned or operated by a domestic corporation conducting operations under part 91 of title 14, Code of Federal Regulations, carrying any alien passenger who will apply for admission under this section shall furnish such information as the Attorney General by regulation shall prescribe as necessary for the identification of any alien passenger being transported and for the enforcement of the immigration laws. Such information shall be electronically transmitted not less than one hour prior to arrival at the port of entry for purposes of checking for inadmissibility using the automated electronic database.
 
@@ -80,7 +80,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 &emsp;&emsp;&emsp;(i) the average number of refusals of nonimmigrant visitor visas for nationals of that country during—
 
-&emsp;&emsp;&emsp;&emsp;(I) the two previous full fiscal years was less than 2.0 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during those years; and
+&emsp;&emsp;&emsp;&emsp;(I) the two previous full fiscal years was less than 2.0 percent of the total number of nonimmigrant visitor visasfor nationals of that country which were granted or refused during those years; and
 
 &emsp;&emsp;&emsp;&emsp;(II) either of such two previous full fiscal years was less than 2.5 percent of the total number of nonimmigrant visitor visas for nationals of that country which were granted or refused during that year; or
 
@@ -109,6 +109,10 @@ An alien may not be provided a waiver under the program unless the alien has wai
 &emsp;&emsp;&emsp;(ii) determines that such interests would not be compromised by the designation of the country; and
 
 &emsp;&emsp;&emsp;(iii) submits a written report to the Committee on the Judiciary and the Committee on International Relations of the House of Representatives and the Committee on the Judiciary and the Committee on Foreign Relations of the Senate regarding the country's qualification for designation that includes an explanation of such determination.
+
+#### (D) Reporting passport thefts
+
+&emsp;&emsp;The government of the country certifies that it reports to the United States Government on a timely basis the theft of blank passports issued by that country.
 
 #### (3) Continuing and subsequent qualifications
 
@@ -146,7 +150,7 @@ An alien may not be provided a waiver under the program unless the alien has wai
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The Attorney General, in consultation with the Secretary of State, periodically (but not less than once every 5 years)—
+&emsp;&emsp;&emsp;The Attorney General, in consultation with the Secretary of State, periodically (but not less than once every 2 years)—
 
 &emsp;&emsp;&emsp;&emsp;(I) shall evaluate the effect of each program country's continued designation on the law enforcement and security interests of the United States (including the interest in enforcement of the immigration laws of the United States and the existence and effectiveness of its agreements and procedures for extraditing to the United States individuals, including its own nationals, who commit crimes that violate United States law);
 
@@ -256,7 +260,7 @@ Notwithstanding any other provision of this section, the Attorney General, in co
 
 #### (2) Termination of agreements
 
-&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days’notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
+&emsp;The Attorney General may terminate an agreement under paragraph (1) with five days’ notice to the carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title for the failure by a carrier (including any carrier conducting operations under part 135 of title 14, Code of Federal Regulations) or a domestic corporation conducting operations under part 91 of that title to meet the terms of such agreement.
 
 #### (3) Business aircraft requirements
 
@@ -310,9 +314,13 @@ Notwithstanding any other provision of this section, the Attorney General, in co
 
 &emsp;&emsp;(B) the total number of nationals of such country who applied for admission as nonimmigrant visitors during such fiscal year.
 
+#### (5) Failure to report passport thefts
+
+&emsp;If the Attorney General and the Secretary of State jointly determine that the program country is not reporting the theft of blank passports, as required by subsection (c)(2)(D) of this section, the Attorney General shall terminate the designation of the country as a program country.
+
 #### (g) Visa application sole method to dispute denial of waiver based on a ground of inadmissibility
 
-In the case of an alien denied a waiver under the program by reason of a ground of inadmissibility described in section 1182(a) of this title that is discovered at the time of the alien's application for the waiver or through the use of an automated electronic database required under subsection (a)(9) of this section, the alien may apply for a visa at an appropriate consular office outside the United States. There shall be no other means of administrative or judicial reviewof such a denial, and no court or person otherwise shall have jurisdiction to consider any claim attacking the validity of such a denial.
+In the case of an alien denied a waiver under the program by reason of a ground of inadmissibility described in section 1182(a) of this title that is discovered at the time of the alien's application for the waiver or through the use of an automated electronic database required under subsection (a)(9) of this section, the alien may apply for a visa at an appropriate consular office outside the United States. There shall be no other means of administrative or judicial review of such a denial, and no court or person otherwise shall have jurisdiction to consider any claim attacking the validity of such a denial.
 
 #### (h) Use of information technology systems
 
@@ -386,9 +394,15 @@ In the case of an alien denied a waiver under the program by reason of a ground 
 
 &emsp;&emsp;&emsp;&emsp;(III) The results of the application.
 
-(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(<i>l</i>)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355.)
+(June 27, 1952, ch. 477, title II, ch. 2, §217, as added Pub. L. 99–603, title III, §313(a), Nov. 6, 1986, 100 Stat. 3435; amended Pub. L. 100–525, §2(p)(1), (2), Oct. 24, 1988, 102 Stat. 2613; Pub. L. 101–649, title II, §201(a), Nov. 29, 1990, 104 Stat. 5012; Pub. L. 102–232, title III, §§303(a)(1), (2), 307(<i>l</i>)(3), Dec. 12, 1991, 105 Stat. 1746, 1756; Pub. L. 103–415, §1(m), Oct. 25, 1994, 108 Stat. 4301; Pub. L. 103–416, title II, §§210, 211, Oct. 25, 1994, 108 Stat. 4312, 4313; Pub. L. 104–208, div. C, title III, §308(d)(4)(F), (e)(9), title VI, §635(a)–(c)(1), (3), Sept. 30, 1996, 110 Stat. 3009–618, 3009–620, 3009–702, 3009–703; Pub. L. 105–119, title I, §125, Nov. 26, 1997, 111 Stat. 2471; Pub. L. 105–173, §§1, 3, Apr. 27, 1998, 112 Stat. 56; Pub. L. 106–396, title I, §101(a), title II, §§201–207, title IV, §403(a)–(d), Oct. 30, 2000, 114 Stat. 1637–1644, 1647, 1648; Pub. L. 107–56, title IV, §417(c), (d), Oct. 26, 2001, 115 Stat. 355; Pub. L. 107–173, title III, §307(a), May 14, 2002, 116 Stat. 556.)
 
 #### Amendments
+
+2002—Subsec. (c)(2)(D). Pub. L. 107–173, §307(a)(1), added subpar. (D).
+
+Subsec. (c)(5)(A)(i). Pub. L. 107–173, §307(a)(2), substituted “2 years” for “5 years” in introductory provisions.
+
+Subsec. (f)(5). Pub. L. 107–173, §307(a)(3), added par. (5).
 
 2001—Subsec. (a)(3). Pub. L. 107–56, §417(d), which directed the substitution of “(A)
 
@@ -464,7 +478,7 @@ Subsec. (g). Pub. L. 106–396, §203(b), added subsec. (g). Former subsec. (g) 
 
 Subsec. (h). Pub. L. 106–396, §205(a), added subsec. (h).
 
-1998—Subsec. (c)(2). Pub. L. 105–173, §3, reenacted heading without change and amended text generally. Prior to amendment, text consisted of introductory provisions and subpars. (A) to (D) relating to low nonimmigrant visa refusal rate for previous 2-year period,low nonimmigrant visa refusal rate for each of 2 previous years, machine readable passport program, and law enforcement interests.
+1998—Subsec. (c)(2). Pub. L. 105–173, §3, reenacted heading without change and amended text generally. Prior to amendment, text consisted of introductory provisions and subpars. (A) to (D) relating to low nonimmigrant visa refusal rate for previous 2-year period, low nonimmigrant visa refusal rate for each of 2 previous years, machine readable passport program, and law enforcement interests.
 
 Subsec. (f). Pub. L. 105–173, §1, substituted “2000” for “1998”.
 
@@ -552,6 +566,10 @@ Section 201(d) of Pub. L. 101–649 provided that: “The amendments made by thi
 
 Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Machine Readable Passports
 
 Pub. L. 107–56, title IV, §417(a), (b), Oct. 26, 2001, 115 Stat. 355, provided that:
@@ -610,7 +628,7 @@ Details in Report.—The report shall include—
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1182, 1184, 1229c, 1255, 1258, 1365a of this title.
+This section is referred to in sections 1182, 1184, 1229c, 1255, 1258, 1365a, 1732, 1736, 1772 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

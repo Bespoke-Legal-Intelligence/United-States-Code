@@ -16,7 +16,7 @@
 
 #### Codification
 
-Section was enacted as part of the International Trade and Investment Act, and also as part of the Trade and Tariff Act of 1984, and not as part of the Trade Act of 1974 which comprises this chapter.
+Section was enacted as part of the International Trade and Investment Act, and also as part of theTrade and Tariff Act of 1984, and not as part of the Trade Act of 1974 which comprises this chapter.
 
 Section is comprised of subsec. (b) of section 307 of Pub. L. 98–573. Subsec. (a) of such section amended section 2112(g)(3) of this title.
 

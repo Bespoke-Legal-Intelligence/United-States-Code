@@ -36,7 +36,7 @@ This chapter provides for the measurement of vessels for the purpose of the appl
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 3703a, 14104, 14305 of this title.
+This chapter is referred to in sections 3703a, 12102, 14104, 14305 of this title.
 
 
 ---

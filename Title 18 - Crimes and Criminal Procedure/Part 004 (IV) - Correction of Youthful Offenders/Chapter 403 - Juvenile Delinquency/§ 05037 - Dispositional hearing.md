@@ -1,6 +1,6 @@
 ### §5037. Dispositional hearing
 
-(a) If the court finds a juvenile to be a juvenile delinquent, the court shall hold a dispositionhearing concerning the appropriate disposition no later than twenty court days after the juvenile delinquency hearing unless the court has ordered further study pursuant to subsection (d). After the disposition hearing, and after considering any pertinent policy statements promulgated by the Sentencing Commission pursuant to 28 U.S.C. 994, the court may suspend the findings of juvenile delinquency, enter an order of restitution pursuant to section 3556, place him on probation, or commit him to official detention. With respect to release or detention pending an appeal or a petition for a writ of certiorari after disposition, the court shall proceed pursuant to the provisions of chapter 207.
+(a) If the court finds a juvenile to be a juvenile delinquent, the court shall hold a disposition hearing concerning the appropriate disposition no later than twenty court days after the juvenile delinquency hearing unless the court has ordered further study pursuant to subsection (d). After the disposition hearing, and after considering any pertinent policy statements promulgated by the Sentencing Commission pursuant to 28 U.S.C. 994, the court may suspend the findings of juvenile delinquency, place him on probation, or commit him to official detention which may include a term of juvenile delinquent supervision to follow detention. In addition, the court may enter an order of restitution pursuant to section 3556. With respect to release or detention pending an appeal or a petition for a writ of certiorari after disposition, the court shall proceed pursuant to the provisions of chapter 207.
 
 (b) The term for which probation may be ordered for a juvenile found to be a juvenile delinquent may not extend—
 
@@ -16,31 +16,55 @@
 
 &emsp;&emsp;(B) the maximum term that would be authorized by section 3561(c) if the juvenile had been tried and convicted as an adult.
 
-> The provisions dealing with probation set forth in sections 3563, 3564, and 3565 are applicable to an order placing a juvenile on probation.
+> The provisions dealing with probation set forth in sections 3563 and 3564 are applicable to an order placing a juvenile on probation. If the juvenile violates a condition of probation at any time prior to the expiration or termination of the term of probation, the court may, after a dispositional hearing and after considering any pertinent policy statements promulgated by the Sentencing Commission pursuant to section 994 of title 28, revoke the term of probation and order a term of official detention. The term of official detention authorized upon revocation of probation shall not exceed the terms authorized in section 5037(c)(2)(A) and (B). The applicationof sections 5037(c)(2)(A) and (B) shall be determined based upon the age of the juvenile at the time of the disposition of the revocation proceeding. If a juvenile is over the age of 21 years old at the time of the revocation proceeding, the mandatory revocation provisions of section 3565(b) are applicable. A disposition of a juvenile who is over the age of 21 years shall be in accordance with the provisions of section 5037(c)(2), except that in the case of a juvenile who if convicted as an adult would be convicted of a Class A, B, or C felony, no term of official detention may continue beyond the juvenile's 26th birthday, and in any other case, no term of official detention may continue beyond the juvenile's 24th birthday. A term of official detention may include a term of juvenile delinquent supervision.
 
 (c) The term for which official detention may be ordered for a juvenile found to be a juvenile delinquent may not extend—
 
 &emsp;(1) in the case of a juvenile who is less than eighteen years old, beyond the lesser of—
 
-&emsp;&emsp;(A) the date when the juvenile becomes twenty-one years old; or
+&emsp;&emsp;(A) the date when the juvenile becomes twenty-one years old;
 
-&emsp;&emsp;(B) the maximum term of imprisonment that would be authorized if the juvenile had been tried and convicted as an adult; or
+&emsp;&emsp;(B) the maximum of the guideline range, pursuant to section 994 of title 28, applicable to an otherwise similarly situated adult defendant unless the court finds an aggravating factor to warrant an upward departure from the otherwise applicable guideline range; or
+
+&emsp;&emsp;(C) the maximum term of imprisonment that would be authorized if the juvenile had been tried and convicted as an adult; or
 
 &emsp;(2) in the case of a juvenile who is between eighteen and twenty-one years old—
 
-&emsp;&emsp;(A) who if convicted as an adult would be convicted of a Class A, B, or C felony, beyond five years; or
+&emsp;&emsp;(A) who if convicted as an adult would be convicted of a Class A, B, or C felony, beyond the lesser of—
+
+&emsp;&emsp;&emsp;(i) five years; or
+
+&emsp;&emsp;&emsp;(ii) the maximum of the guideline range, pursuant to section 994 of title 28, applicable to an otherwise similarly situated adult defendant unless the court finds an aggravating factor to warrant an upward departure from the otherwise applicable guideline range; or
 
 &emsp;&emsp;(B) in any other case beyond the lesser of—
 
-&emsp;&emsp;&emsp;(i) three years; or
+&emsp;&emsp;&emsp;(i) three years;
 
-&emsp;&emsp;&emsp;(ii) the maximum term of imprisonment that would be authorized if the juvenile had been tried and convicted as an adult.
+&emsp;&emsp;&emsp;(ii) the maximum of the guideline range, pursuant to section 994 of title 28, applicable to an otherwise similarly situated adult defendant unless the court finds an aggravating factor to warrant an upward departure from the otherwise applicable guideline range; or
+
+&emsp;&emsp;&emsp;(iii) the maximum term of imprisonment that would be authorized if the juvenile had been tried and convicted as an adult.
 
 > Section 3624 is applicable to an order placing a juvenile under detention.
 
-(d) If the court desires more detailed information concerning an alleged or adjudicated delinquent, it may commit him, after notice and hearing at which the juvenile is represented by counsel, to the custody of the Attorney General for observation and study by an appropriate agency. Such observation and study shall be conducted on an out-patient basis, unless the court determines that inpatient observation and study are necessary to obtain the desired information. In the case of an alleged juvenile delinquent, inpatient study may be ordered only with the consent of the juvenile and his attorney. The agency shall make a complete study of the alleged or adjudicated delinquent to ascertain his personal traits, his capabilities, his background, any previous delinquency or criminal experience, any mental or physical defect, and any other relevant factors. The Attorney General shall submit to the court and the attorneys for the juvenile and the Government the results of the study within thirty days after the commitment of the juvenile, unless the court grants additional time.
+(d)(1) The court, in ordering a term of official detention, may include the requirement that the juvenile be placed on a term of juvenile delinquent supervision after official detention.
 
-(June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 93–415, title V, §507, Sept. 7, 1974, 88 Stat. 1136; Pub. L. 98–473, title II, §214(a), Oct. 12, 1984, 98 Stat. 2013; Pub. L. 99–646, §21(a), Nov. 10, 1986, 100 Stat. 3596; Pub. L. 104–294, title VI, §604(b)(40), Oct. 11, 1996, 110 Stat. 3509.)
+(2) The term of juvenile delinquent supervision that may be ordered for a juvenile found to be a juvenile delinquent may not extend—
+
+&emsp;(A) in the case of a juvenile who is less than 18 years old, a term that extends beyond the date when the juvenile becomes 21 years old; or
+
+&emsp;(B) in the case of a juvenile who is between 18 and 21 years old, a term that extends beyond the maximum term of official detention set forth in section 5037(c)(2)(A) and (B), less the term of official detention ordered.
+
+(3) The provisions dealing with probation set forth in sections 3563 and 3564 are applicable to an order placing a juvenile on juvenile delinquent supervision.
+
+(4) The court may modify, reduce, or enlarge the conditions of juvenile delinquent supervision at any time prior to the expiration or termination of the term of supervision after a dispositional hearing and after consideration of the provisions of section 3563 regarding the initial setting of the conditions of probation.
+
+(5) If the juvenile violates a condition of juvenile delinquent supervision at any time prior to the expiration or termination of the term of supervision, the court may, after a dispositional hearing and after considering any pertinent policy statements promulgated by the Sentencing Commission pursuant to section 994 of title 18,<sup>1</sup> revoke the term of supervision and order a term of official detention. The term of official detention which is authorized upon revocation of juvenile delinquent supervision shall not exceed the term authorized in section 5037(c)(2)(A) and (B), less any term of official detention previously ordered. The application of sections 5037(c)(2)(A) and (B) shall be determined based upon the age of the juvenile at the time of the disposition of the revocation proceeding. If a juvenile is over the age of 21 years old at the time of the revocation proceeding, the mandatory revocation provisions of section 3565(b) are applicable. A disposition of a juvenile who is over the age of 21 years old shall be in accordance with the provisions of section 5037(c)(2), except that in the case of a juvenile who if convicted as an adult would be convicted of a Class A, B, or C felony, no term of official detention may continue beyond the juvenile's 26th birthday, and in any other case, no term of official detention may continue beyond the juvenile's 24th birthday.
+
+(6) When a term of juvenile delinquent supervision is revoked and the juvenile is committed to official detention, the court may include a requirement that the juvenile be placed on a term of juvenile delinquent supervision. Any term of juvenile delinquent supervision ordered following revocation for a juvenile who is over the age of 21 years old at the time of the revocation proceeding shall be in accordance with the provisions of section 5037(d)(1), except that in the case of a juvenile who if convicted as an adult would be convicted of a Class A, B, or C felony, no term of juvenile delinquent supervision may continue beyond the juvenile's 26th birthday, and in any other case, no term of juvenile delinquent supervision may continue beyond the juvenile's 24th birthday.
+
+(e) If the court desires more detailed information concerning an alleged or adjudicated delinquent, it may commit him, after notice andhearing at which the juvenile is represented by counsel, to the custody of the Attorney General for observation and study by an appropriate agency. Such observation and study shall be conducted on an out-patient basis, unless the court determines that inpatient observation and study are necessary to obtain the desired information. In the case of an alleged juvenile delinquent, inpatient study may be ordered only with the consent of the juvenile and his attorney. The agency shall make a complete study of the alleged or adjudicated delinquent to ascertain his personal traits, his capabilities, his background, any previous delinquency or criminal experience, any mental or physical defect, and any other relevant factors. The Attorney General shall submit to the court and the attorneys for the juvenile and the Government the results of the study within thirty days after the commitment of the juvenile, unless the court grants additional time.
+
+(June 25, 1948, ch. 645, 62 Stat. 858; Pub. L. 93–415, title V, §507, Sept. 7, 1974, 88 Stat. 1136; Pub. L. 98–473, title II, §214(a), Oct. 12, 1984, 98 Stat. 2013; Pub. L. 99–646, §21(a), Nov. 10, 1986, 100 Stat. 3596; Pub. L. 104–294, title VI, §604(b)(40), Oct. 11, 1996, 110 Stat. 3509; Pub. L. 107–273, div. C, title II, §12301, Nov. 2, 2002, 116 Stat. 1896.)
 
 #### Historical and Revision Notes
 
@@ -51,6 +75,24 @@ Reference to section establishing the Board of Parole was omitted as unnecessary
 Minor changes were made in phraseology.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–273, §12301(1), in second sentence, struck out “enter an order of restitution pursuant to section 3556,” after “findings of juvenile delinquency,” and inserted “which may include a term of juvenile delinquent supervision to follow detention” after “official detention”, and inserted after second sentence “In addition, the court may enter an order of restitution pursuant to section 3556.”
+
+Subsec. (b). Pub. L. 107–273, §12301(2), added concluding provisions and struck out former concluding provisions which read as follows: “The provisions dealing with probation set forth in sections 3563, 3564, and 3565 are applicable to an order placing a juvenile on probation.”
+
+Subsec. (c)(1)(B), (C). Pub. L. 107–273, §12301(3), added subpar. (B) and redesignated former subpar. (B) as (C).
+
+Subsec. (c)(2)(A). Pub. L. 107–273, §12301(4), substituted “the lesser of—
+
+&emsp;“(i) five years; or
+
+&emsp;“(ii) the maximum of the guideline range, pursuant to section 994 of title 28, applicable to an otherwise similarly situated adult defendant unless the court finds an aggravating factor to warrant an upward departure from the otherwise applicable guideline range; or”
+
+> for “five years; or”.
+
+Subsec. (c)(2)(B)(ii), (iii). Pub. L. 107–273, §12301(5), added cl. (ii) and redesignated former cl. (ii) as (iii).
+
+Subsecs. (d), (e). Pub. L. 107–273, §12301(6), (7), added subsec. (d) and redesignated former subsec. (d) as (e).
 
 1996—Subsec. (b)(1)(B), (2)(B). Pub. L. 104–294 substituted “section 3561(c)” for “section 3561(b)”.
 
@@ -72,7 +114,7 @@ Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of P
 
 #### Effective Date of 1986 Amendment
 
-Section 21(b) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date the amendmentsmade by such section 214 \[of Pub. L. 98–473\] take effect \[Nov. 1, 1987\].”
+Section 21(b) of Pub. L. 99–646 provided that: “The amendments made by this section \[amending this section\] shall take effect on the date the amendments made by such section 214 \[of Pub. L. 98–473\] take effect \[Nov. 1, 1987\].”
 
 #### Effective Date of 1984 Amendment
 
@@ -81,4 +123,6 @@ Amendment by Pub. L. 98–473 effective Nov. 1, 1987, and applicable only to off
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5032, 5038 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “title 28,”.</i>
 

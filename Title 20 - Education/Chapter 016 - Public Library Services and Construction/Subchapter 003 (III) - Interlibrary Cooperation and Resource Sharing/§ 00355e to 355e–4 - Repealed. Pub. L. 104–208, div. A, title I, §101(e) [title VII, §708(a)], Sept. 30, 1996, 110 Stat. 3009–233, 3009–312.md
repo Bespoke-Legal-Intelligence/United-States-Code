@@ -2,7 +2,7 @@
 
 Section 355e, act June 19, 1956, ch. 407, title III, §301, as added July 19, 1966, Pub. L. 89–511, §9, 80 Stat. 314; amended Dec. 30, 1970, Pub. L. 91–600, §2(b), 84 Stat. 1668; Oct. 17, 1984, Pub. L. 98–480, title I, §§103(b)(1), 113(b), 98 Stat. 2237, 2242; Mar. 15, 1990, Pub. L. 101–254, §18(a), 104 Stat. 106, authorized Secretary to make grants to States for interlibrary cooperation and resource sharing.
 
-Section 355e–1, act June 19, 1956, ch. 407, title III, §302, as added and amended July 19, 1966, Pub. L. 89–511, §§9, 12(a), 80 Stat. 314, 318; Dec. 30, 1970, Pub. L. 91–600, §2(b),84 Stat. 1669; Mar. 15, 1990, Pub. L. 101–254, §16(d), 104 Stat. 106, related to payment and amount of Federal share of cost of carrying out State plans submitted and approved under section 355e–2 of this title.
+Section 355e–1, act June 19, 1956, ch. 407, title III, §302, as added and amended July 19, 1966, Pub. L. 89–511, §§9, 12(a), 80 Stat. 314, 318; Dec. 30, 1970, Pub. L. 91–600, §2(b), 84 Stat. 1669; Mar. 15, 1990, Pub. L. 101–254, §16(d), 104 Stat. 106, related to payment and amount of Federal share of cost of carrying out State plans submitted and approved under section 355e–2 of this title.
 
 Section 355e–2, act June 19, 1956, ch. 407, title III, §303, as added July 19, 1966, Pub. L. 89–511, §9, 80 Stat. 314; amended Nov. 24, 1967, Pub. L. 90–154, §1, 81 Stat. 509; Dec. 30, 1970, Pub. L. 91–600, §2(b), 84 Stat. 1669; Oct. 17, 1984, Pub. L. 98–480, title I, §§103(b)(1), 113(c), 98 Stat. 2237, 2242, required submission of annual program for interlibrary cooperation by any State desiring to receive grant from its allotment and specified contents of such program.
 

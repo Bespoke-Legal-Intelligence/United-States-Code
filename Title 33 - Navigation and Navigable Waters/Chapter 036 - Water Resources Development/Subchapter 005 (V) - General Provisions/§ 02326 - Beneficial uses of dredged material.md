@@ -34,7 +34,7 @@ There is authorized to be appropriated not to exceed $15,000,000 annually to car
 
 #### (g) Nonprofit entities
 
-Notwithstanding section 1962d–5b of title 42, for any project carried out under this section, anon-Federal interest may include a nonprofit entity, with the consent of the affected local government.
+Notwithstanding section 1962d–5b of title 42, for any project carried out under this section, a non-Federal interest may include a nonprofit entity, with the consent of the affected local government.
 
 (Pub. L. 102–580, title II, §204, Oct. 31, 1992, 106 Stat. 4826; Pub. L. 104–303, title II, §207, Oct. 12, 1996, 110 Stat. 3680; Pub. L. 106–53, title II, §209, Aug. 17, 1999, 113 Stat. 287.)
 

@@ -70,7 +70,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;In providing for a council for purposes of paragraph (1), a chief elected official receiving a grant under section 300ff–11(a) of thistitle may establish the council directly or designate an existing entity to serve as the council, subject to subparagraph (B).
+&emsp;&emsp;In providing for a council for purposes of paragraph (1), a chief elected official receiving a grant under section 300ff–11(a) of this title may establish the council directly or designate an existing entity to serve as the council, subject to subparagraph (B).
 
 #### (B) Consideration regarding designation of council
 
@@ -134,7 +134,7 @@
 
 &emsp;&emsp;&emsp;(i) Not less than 33 percent of the council shall be individuals who are receiving HIV-related services pursuant to a grant under section 300ff–11(a) of this title, are not officers, employees, or consultants to any entity that receives amounts from such a grant, and do not represent any such entity, and reflect the demographics of the population of individuals with HIV disease as determined under paragraph (4)(A). For purposes of the preceding sentence, an individual shall be considered to be receiving such services if the individual is a parent of, or a caregiver for, a minor child who is receiving such services.
 
-&emsp;&emsp;&emsp;(ii) With respect to membership on the planning council, clause (i) may not be construed as having any effect on entities that receive funds from grants under any of parts B through F of this subchapter but do not receive funds from grants under section 300ff–11(a) of this title, on officers or employees of such entities, or on individuals who represent such entities.
+&emsp;&emsp;&emsp;(ii) With respect to membership on the planning council, clause (i) may not beconstrued as having any effect on entities that receive funds from grants under any of parts B through F of this subchapter but do not receive funds from grants under section 300ff–11(a) of this title, on officers or employees of such entities, or on individuals who represent such entities.
 
 #### (6) Grievance procedures
 

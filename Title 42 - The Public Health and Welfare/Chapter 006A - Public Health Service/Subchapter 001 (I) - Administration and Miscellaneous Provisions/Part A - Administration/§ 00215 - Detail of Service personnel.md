@@ -34,9 +34,11 @@ Subsec. (d). Pub. L. 96–76, §309(b), inserted provisions relating to agreemen
 
 #### Effective Date of 1949 Amendment
 
-Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949.
+Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a note under section 854a of Title 33, Navigation and Navigable Waters.
 
 #### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of Public Health Service, Surgeon General of Public Health Service, and all other officers and employees of Public Health Service, and functions of all agencies of or in Public Health Service transferred to Secretary of Health, Education, and Welfare by Reorg. Plan No. 3 of 1966, eff. June 25, 1966, 31 F.R. 8855, 80 Stat. 1610, set out as a note under section 202 of this title. Secretary of Health, Education, and Welfare redesignated Secretary of Health and Human Services by section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
@@ -50,7 +52,7 @@ Pub. L. 91–604, §15(b)(1)–(8)(A), Dec. 31, 1970, 84 Stat. 1710–1712, prov
 
 “(2) An election pursuant to paragraph (1) shall be effective only if made in accordance with such procedures as may be prescribed by the Civil Service Commission (A) before the close of the 24th month after the effective date of the plan \[Dec. 2, 1970\], or (B) in the case of a commissioned officer who would be liable for training and service under the Military Selective Service Act of 1967 \[section 451 et seq. of Title 50, App., War and National Defense\] but for the operation of section 6(b)(3) thereof (50 U.S.C. App. 456(b)(3)), before (if it occurs later than the close of such 24th month) the close of the 90th day after the day upon which he has completed his 24th month of service as such officer.
 
-“(3)(A) Except as provided in subparagraph (B), any commissioned officer of the Public Health Service who, pursuant to paragraphs (1) and (2), elects to transfer to a position in the Agency which is subject to chapter 51and subchapter III of chapter 53 of title 5, United States Code (hereinafter in this subsection referred to as the ‘transferring officer’), shall receive a pay rate of the General Schedule grade of such position which is not less than the sum of the following amounts computed as of the day preceding the date of such election:
+“(3)(A) Except as provided in subparagraph (B), any commissioned officer of the Public Health Service who, pursuant to paragraphs (1) and (2), elects to transfer to a position in the Agency which is subject to chapter 51 and subchapter III of chapter 53 of title 5, United States Code (hereinafter in this subsection referred to as the ‘transferring officer’), shall receive a pay rate of the General Schedule grade of such position which is not less than the sum of the following amounts computed as of the day preceding the date of such election:
 
 &emsp;“(i) the basic pay, the special pay, the continuation pay, and the subsistence and quarters allowances, to which he is annually entitled as a commissioned officer of the Public Health Service pursuant to title 37, United States Code;
 

@@ -54,5 +54,5 @@ Each State technical committee established under subsection (a) of this section 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3836a, 3862 of this title.
+This section is referred to in section 3862 of this title.
 

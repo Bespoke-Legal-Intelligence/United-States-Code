@@ -34,7 +34,7 @@ Subsec. (a). Pub. L. 102–83, §4(a)(3), (4), substituted “Department” for 
 
 1989—Subsec. (b)(3). Pub. L. 101–237 substituted “Secretary” for “Administrator”.
 
-1988—Subsec. (a). Pub. L. 100–527 substituted “Such system shall be headed by the Director of the National Cemetery System, who shall perform such functions as may be assigned by the Secretary” for “The Administrator may appoint a Director, National Cemetery System, who shall perform such functions as may be assigned by the Administrator”.
+1988—Subsec. (a). Pub. L. 100–527 substituted “Such system shall be headed by the Director of the National Cemetery System, who shall perform such functions asmay be assigned by the Secretary” for “The Administrator may appoint a Director, National Cemetery System, who shall perform such functions as may be assigned by the Administrator”.
 
 1986—Subsec. (a). Pub. L. 99–576 substituted “servicemembers” for “servicemen” and “The Administrator” for “To assist him in carrying out his responsibilities in administering the cemeteries within the System, the Administrator”.
 
@@ -92,7 +92,7 @@ Pub. L. 105–276, title I, Oct. 21, 1998, 112 Stat. 2466, provided in part: “
 
 #### Transfer of Pershing Hall to Department of Veterans Affairs
 
-Pub. L. 102–86, title IV, §403, Aug. 14, 1991, 105 Stat. 422, as amended by Pub. L. 103–79, §4, Aug. 13, 1993, 107 Stat. 772; Pub. L. 103–446, title XII, §1202(c), Nov. 2, 1994, 108 Stat. 4689, provided that:
+Pub. L. 102–86, title IV, §403, Aug. 14, 1991, 105 Stat. 422, as amended by Pub. L. 103–79, §4, Aug. 13, 1993, 107 Stat. 772; Pub. L. 103–446, title XII, §1202(c), Nov. 2, 1994, 108 Stat. 4689; Pub. L. 107–217, §3(<i>o</i>), Aug. 21, 2002, 116 Stat. 1303; Pub. L. 107–330, title III, §308(i), Dec. 6, 2002, 116 Stat. 2829, provided that:
 
 “(a)
 
@@ -138,7 +138,9 @@ Fund.—(1) There is hereby established the Pershing Hall Revolving Fund to be a
 
 “(e)
 
-Waiver.—The Secretary may carry out the provisions of this section without regard to section 8122 of title 38, United States Code, section 321 of the Act of June 30, 1932 (40 U.S.C. 303b; 47 Stat. 412), sections 202 and 203 of the Federal Property and Administrative Services Act (40 U.S.C. 483 and 484), or any other provision of law inconsistent with this section.”
+Waiver.—The Secretary may carry out the provisions of this section without regard to section 8122 of title 38, United States Code, subchapter II of chapter 5 of title 40, United States Code, sections 541 through 555 and 1302 of title 40, United States Code, or any other provision of law inconsistent with this section.”
+
+\[Section 3(<i>o</i>) of Pub. L. 107–217, which directed amendment of section 403(e) of Pub. L. 102–86, set out above, by substituting “subchapter II of chapter 5 of title 40, sections 541–555 and 1302 of title 40” for “section 303b of title 40, sections 483 and 484 of title 40”, could not be executed.\]
 
 \[Section 403 of Pub. L. 102–86, set out above, was classified to section 493 of former Title 36 prior to the general revision and enactment of Title 36, Patriotic and National Observances, Ceremonies, and Organizations, by Pub. L. 105–225, §1, Aug. 12, 1998, 112 Stat. 1253.\]
 

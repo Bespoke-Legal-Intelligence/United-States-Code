@@ -4,6 +4,8 @@
 
 This subchapter is referred to in sections 1437d, 1437f of this title; title 12 section 1701q.
 
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
 
 ---
 

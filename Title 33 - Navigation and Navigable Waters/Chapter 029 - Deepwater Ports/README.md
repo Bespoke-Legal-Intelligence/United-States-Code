@@ -19,7 +19,7 @@
 | (c) | Plans; submittal to Secretary of Transportation; publication in Federal Register; application contents; exemption. |
 | (d) | Application area; publication in Federal Register; “application area” defined; submission of other applications; notice of intent and submission of completed applications; denial of pending application prior to consideration of other untimely applications. |
 | (e) | Recommendations to Secretary of Transportation; application for all Federal authorizations; copies of application to Federal agencies and departments with jurisdiction; recommendation of approval or disapproval and of manner of amendment to comply with laws or regulations. |
-| (f) | Environmental impact statement for single application area; criteria. |
+| (f) | NEPA compliance. |
 | (g) | Public notice and hearings; evidentiary hearing in District of Columbia; decision of Secretary based on evidentiary record; consolidation of hearings. |
 | (h) | Nonrefundable application fee; processing costs; State fees; “land-based facilities directly related to a deepwater port facility” defined; fair market rental value, advance payment. |
 | (i) | Application approval; period for determination; priorities; criteria for determination of application best serving national interest. |
@@ -32,6 +32,8 @@
 | (a) | Status of deepwater ports and storage facilities. |
 | (b) | Discrimination prohibition; exceptions. |
 | (c) | Enforcement, suspension, or termination proceedings. |
+| (d) | Managed access. |
+| (e) | Jurisdiction. |
 | [1508\.](%C2%A7%2001508%20-%20Adjacent%20coastal%20States.md) | Adjacent coastal States. |
 | (a) | Designation; direct pipeline connections; mileage; risk of damage to coastal environment, time for designation. |
 | (b) | Applications; submittal to Governors for approval or disapproval; consistency of Federal licenses and State programs; views of other interested States. |

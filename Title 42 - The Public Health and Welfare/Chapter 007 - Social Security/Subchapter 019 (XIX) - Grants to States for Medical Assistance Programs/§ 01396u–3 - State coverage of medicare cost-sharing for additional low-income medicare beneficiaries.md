@@ -20,7 +20,7 @@ A State shall select qualifying individuals, and provide such individuals with a
 
 #### (B) Carryover
 
-&emsp;&emsp;For calendar years after 1998, the State shall give preference to individuals who were provided such assistance (or other assistance described in section 1396a(a)(10)(E) of this title) in the last month of the previous year and who continue to be (or become) qualifying individuals.
+&emsp;&emsp;For calendar years after 1998, the State shall give preference to individuals who wereprovided such assistance (or other assistance described in section 1396a(a)(10)(E) of this title) in the last month of the previous year and who continue to be (or become) qualifying individuals.
 
 #### (3) Limit on number of individuals based on allocation
 

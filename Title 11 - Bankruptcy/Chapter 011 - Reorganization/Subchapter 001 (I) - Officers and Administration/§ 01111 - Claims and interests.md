@@ -12,7 +12,7 @@
 
 &emsp;(i) the interest on account of such claims of the holders of such claims in such property is of inconsequential value; or
 
-&emsp;(ii) the holder of a claim of such class has recourse against the debtor on account of such claim and such property is sold under section 363 of this title or is to be sold under the plan.
+&emsp;(ii) the holder of a claim of such class has recourse against the debtor on account of suchclaim and such property is sold under section 363 of this title or is to be sold under the plan.
 
 (2) If such an election is made, then notwithstanding section 506(a) of this title, such claim is a secured claim to the extent that such claim is allowed.
 
@@ -26,7 +26,7 @@ A discussion of section 1111(b) of the House amendment is best considered in the
 
 #### senate report no. 95–989
 
-This section dispenses with the need for every creditor and equity security holder to file a proof of claim or interest in a reorganization case. Usually the debtor's schedules are accurate enough that they will suffice to determine the claims or interests allowable in the case. Thus, the section specifies that any claim orinterest included on the debtor's schedules is deemed filed under section 501. This does not apply to claims or interests that are scheduled as disputed, contingent, or unliquidated.
+This section dispenses with the need for every creditor and equity security holder to file a proof of claim or interest in a reorganization case. Usually the debtor's schedules are accurate enough that they will suffice to determine the claims or interests allowable in the case. Thus, the section specifies that any claim or interest included on the debtor's schedules is deemed filed under section 501. This does not apply to claims or interests that are scheduled as disputed, contingent, or unliquidated.
 
 #### Section Referred to in Other Sections
 

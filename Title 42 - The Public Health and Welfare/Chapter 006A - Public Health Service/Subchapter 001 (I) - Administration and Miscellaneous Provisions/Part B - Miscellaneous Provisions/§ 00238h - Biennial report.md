@@ -10,7 +10,7 @@ Section was formerly classified to section 300aaa–8 of this title prior to ren
 
 #### Amendments
 
-1995—Pub. L. 104–66 amended section catchline and text generally. Prior to amendment, text read as follows: “The Surgeon General shall transmit to the Secretary, for submission to the Congress at the beginningof each regular session, a full report of the administration of the functions of the Service under this chapter, including a detailed statement of receipts and disbursements.”
+1995—Pub. L. 104–66 amended section catchline and text generally. Prior to amendment, text read as follows: “The Surgeon General shall transmit to the Secretary, for submission to the Congress at the beginning of each regular session, a full report of the administration of the functions of the Service under this chapter, including a detailed statement of receipts and disbursements.”
 
 #### Termination of Reporting Requirements
 
@@ -24,5 +24,5 @@ Functions of Federal Security Administrator transferred to Secretary of Health, 
 
 #### Agency Reporting Requirements; Report by Secretary of Health, Education, and Welfare to Congressional Committees Relating to Requirements, Termination, etc.
 
-Pub. L. 93–641, §7, Jan. 4, 1975, 88 Stat. 2275, provided that by Jan. 4, 1976, the Secretary of Health, Education, and Welfare report to specific committees of the Senate and the House of Representatives on the identity, due date, etc., of certain reports required under the Public Health Service Act, the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment and Rehabilitation Act of 1970.
+Pub. L. 93–641, §7, Jan. 4, 1975, 88 Stat. 2275, provided that by Jan. 4, 1976, the Secretary of Health, Education, and Welfare report to specific committees of the Senate and the House of Representatives on the identity, duedate, etc., of certain reports required under the Public Health Service Act, the Mental Retardation Facilities and Community Mental Health Centers Construction Act of 1963, or the Comprehensive Alcohol Abuse and Alcoholism Prevention, Treatment and Rehabilitation Act of 1970.
 

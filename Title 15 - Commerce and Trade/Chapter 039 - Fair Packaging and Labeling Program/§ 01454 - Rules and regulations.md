@@ -6,11 +6,11 @@ The authority to promulgate regulations under this chapter is vested in (A) the 
 
 #### (b) Exemption of commodities from regulations
 
-If the promulgating authority specified in this section finds that, because of the nature, form, or quantity of a particular consumer commodity, or for other good and sufficient reasons, full compliance with all the requirements otherwise applicable under section 1453 of this title is impracticable or is not necessary for the adequate protection of consumers, the Secretary or the Commission (whichever the case may be) shall promulgate regulations exempting such commodity from those requirements to the extent and under such conditions as the promulgating authority determines to be consistent with section 1451 of this title.
+If the promulgating authority specified in this section finds that, because of the nature, form, or quantity of a particular consumer commodity, or for other good and sufficient reasons, full compliance with all the requirements otherwise applicable under section 1453 of this title is impracticable or is not necessary for the adequate protection of consumers, the Secretary or the Commission (whichever the case may be) shall promulgate regulations exempting such commodity from those requirements to the extent and under such conditions as the promulgatingauthority determines to be consistent with section 1451 of this title.
 
 #### (c) Scope of additional regulations
 
-Whenever the promulgating authority determines that regulations containing prohibitions or requirements other than those prescribed by section 1453 of this title are necessary to preventthe deception of consumers or to facilitate value comparisons as to any consumer commodity, such authority shall promulgate with respect to that commodity regulations effective to—
+Whenever the promulgating authority determines that regulations containing prohibitions or requirements other than those prescribed by section 1453 of this title are necessary to prevent the deception of consumers or to facilitate value comparisons as to any consumer commodity, such authority shall promulgate with respect to that commodity regulations effective to—
 
 &emsp;(1) establish and define standards for characterization of the size of a package enclosing any consumer commodity, which may be used to supplement the label statement of net quantity of contents of packages containing such commodity, but this paragraph shall not be construed as authorizing any limitation on the size, shape, weight or mass, dimensions, or number of packages which may be used to enclose any commodity;
 

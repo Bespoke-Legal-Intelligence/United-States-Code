@@ -12,7 +12,7 @@ It is the policy of the United States—
 
 &emsp;&emsp;(C) consistent with the objectives of this subchapter, to vest in public housing agencies that perform well, the maximum amount of responsibility and flexibility in program administration, with appropriate accountability to public housing residents, localities, and the general public;
 
-&emsp;(2) that the Federal Government cannot through its direct action alone provide for the housing of every American citizen, or even a majority of its citizens, but it is the responsibility of the Government to promote and protect the independent and collective actions of private citizens to develop housing and strengthen their own neighborhoods;
+&emsp;(2) that the Federal Government cannot through its direct action alone provide for the housing of every American citizen, or even a majority of its citizens, but it is the responsibility of the Government to promote and protect the independent and collective actionsof private citizens to develop housing and strengthen their own neighborhoods;
 
 &emsp;(3) that the Federal Government should act where there is a serious need that private citizens or groups cannot or are not addressing responsibly; and
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 97–35 effective Oct. 1, 1981, see section 371 of Pub. L. 
 
 #### Effective Date
 
-Section 201(b) of Pub. L. 93–383 provided that: “The provisions of subsection (a) of this section \[enactingsections 1437 to 1437j of this title\] shall be effective on such date or dates as the Secretary of Housing and Urban Development shall prescribe, but not later than eighteen months after the date of the enactment of this Act \[Aug. 22, 1974\]; except that (1) all of the provisions of section 3(1) of the United States Housing Act of 1937, as amended by subsection (a) of this section \[section 1437a(1) of this title\], shall become effective on the same date, (2) all of the provisions of sections 5 and 9(c) of such Act as so amended \[sections 1437c and 1437g(c) of this title\] shall become effective on the same date, and (3) section 8 of such Act \[section 1437f of this title\] as so amended shall be effective not later than January 1, 1975.”
+Section 201(b) of Pub. L. 93–383 provided that: “The provisions of subsection (a) of this section \[enacting sections 1437 to 1437j of this title\] shall be effective on such date or dates as the Secretary of Housing and Urban Development shall prescribe, but not later than eighteen months after the date of the enactment of this Act \[Aug. 22, 1974\]; except that (1) all of the provisions of section 3(1) of the United States Housing Act of 1937, as amended by subsection (a) of this section \[section 1437a(1) of this title\], shall become effective on the same date, (2) all of the provisions of sections 5 and 9(c) of such Act as so amended \[sections 1437c and 1437g(c) of this title\] shall become effective on the same date, and (3) section 8 of such Act \[section 1437f of this title\] as so amended shall be effective not later than January 1, 1975.”
 
 Section 3(1) of the United States Housing Act of 1937, as amended, effective Sept. 26, 1975, see Effective Date note set out under section 1437a of this title.
 
@@ -148,7 +148,7 @@ Section 527 of Pub. L. 101–625 provided that: “In accordance with section 20
 
 #### Applicability of 1989 Amendments; Indian Housing
 
-Pub. L. 101–235, title I, §101(d), Dec. 15, 1989, 103 Stat. 1990, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by subsections (a), (b), and (c) of this section \[amending section 1439 of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
+Pub. L. 101–235, title I, §101(d), Dec. 15, 1989, 103 Stat. 1990, provided that: “In accordance with section201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendments made by subsections (a), (b), and (c) of this section \[amending section 1439 of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 
 Pub. L. 101–235, title I, §104(c), Dec. 15, 1989, 103 Stat. 1998, provided that: “In accordance with section 201(b)(2) of the United States Housing Act of 1937 \[former 42 U.S.C. 1437aa(b)(2)\], the amendment made by subsection (a) \[amending section 1439 of this title\] and the provisions of subsection (b) of this section \[set out as an Effective Date of 1989 Amendment note under section 1439 of this title\] shall also apply to public housing developed or operated pursuant to a contract between the Secretary of Housing and Urban Development and an Indian housing authority.”
 
@@ -250,7 +250,7 @@ Pub. L. 105–276, title V, §585, Oct. 21, 1998, 112 Stat. 2645, provided that:
 
 “(a)
 
-Study.—The Comptroller General of the United States shall conduct a study that provides an objective and independent accounting and analysis of the fullcost to the Federal Government, public housing agencies, State and local governments, and other entities, per assisted household, of the Federal assisted housing programs, taking into account the qualitative differences among Federal assisted housing programs in accordance with applicable standards of the Department of Housing and Urban Development.
+Study.—The Comptroller General of the United States shall conduct a study that provides an objective and independent accounting and analysis of the full cost to the Federal Government, public housing agencies, State and local governments, and other entities, per assisted household, of the Federal assisted housing programs, taking into account the qualitative differences among Federal assisted housing programs in accordance with applicable standards of the Department of Housing and Urban Development.
 
 “(b)
 

@@ -28,7 +28,7 @@
 
 #### Amendments
 
-1996—Pub. L. 104–153, §4(b)(1), substituted “Trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” for “Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works” in section catchline.
+1996—Pub. L. 104–153, §4(b)(1), substituted “Trafficking in counterfeit labels for phonorecords, copies ofcomputer programs or computer program documentation or packaging, and copies of motion pictures or other audio visual works, and trafficking in counterfeit computer program documentation or packaging” for “Trafficking in counterfeit labels for phonorecords and copies of motion pictures or other audiovisual works” in section catchline.
 
 Subsec. (a). Pub. L. 104–153, §4(a)(1), substituted “a computer program or documentation or packaging for a computer program, or a copy of a motion picture or other audiovisual work, and whoever, in any of the circumstances described in subsection (c) of this section, knowingly traffics in counterfeit documentation or packaging for a computer program,” for “a motion picture or other audiovisual work,”.
 

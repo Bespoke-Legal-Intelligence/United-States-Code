@@ -2,13 +2,13 @@
 
 #### (a) Recordkeeping; audit and examination
 
-(1) Each recipient of a loan or loan guarantee under this subchapter shall keep such records as the Secretary shall prescribe, including records which fully disclose the amount and disposition by such recipient of the proceeds of the loan (directly made or guaranteed), the total cost of the undertaking in connection with which the loan was given or used, the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
+(1) Each recipient of a loan or loan guarantee under this subchapter shall keep such records as the Secretary shall prescribe, including recordswhich fully disclose the amount and disposition by such recipient of the proceeds of the loan (directly made or guaranteed), the total cost of the undertaking in connection with which the loan was given or used, the amount of that portion of the cost of the undertaking supplied by other sources, and such other records as will facilitate an effective audit.
 
 (2) The Secretary, or any of his duly authorized representatives, shall have access for the purpose of audit and examination to any books, documents, papers, and records of the recipients of a loan or loan guarantee under this subchapter which relate to such assistance.
 
 #### (b) Report upon expiration of period
 
-Upon expiration of the period for which a loan or loan guarantee was provided an entity under this subchapter, such entity shall make a full and complete report to the Secretary in such manner as he may by regulation prescribe. Each such report shall contain, among such other matters as the Secretary may by regulation require, descriptions of plans, developments, andoperations relating to the matters referred to in section 300e–5(b)(3) of this title.
+Upon expiration of the period for which a loan or loan guarantee was provided an entity under this subchapter, such entity shall make a full and complete report to the Secretary in such manner as he may by regulation prescribe. Each such report shall contain, among such other matters as the Secretary may by regulation require, descriptions of plans, developments, and operations relating to the matters referred to in section 300e–5(b)(3) of this title.
 
 #### (c) Repealed. Pub. L. 99–660, title VIII, §803(a), Nov. 14, 1986, 100 Stat. 3799
 

@@ -44,7 +44,7 @@ Beginning on October 1 of the year following the date on which amounts are first
 
 #### (g) Authorization of appropriations
 
-There are authorized to be appropriated for the purpose of carrying out this section$20,000,000 for fiscal year 1999 and such sums as may be necessary for each of the fiscal years 2000 through 2009.
+There are authorized to be appropriated for the purpose of carrying out this section $20,000,000 for fiscal year 1999 and such sums as may be necessary for each of the fiscal years 2000 through 2009.
 
 (July 1, 1944, ch. 373, title IV, §417C, as added Pub. L. 106–245, §4, July 10, 2000, 114 Stat. 508.)
 

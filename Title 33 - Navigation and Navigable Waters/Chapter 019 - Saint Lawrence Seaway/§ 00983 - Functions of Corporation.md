@@ -10,7 +10,7 @@ The Corporation is authorized and directed to construct, in United States territ
 
 #### (b) Coordination of activities regarding power projects
 
-The Corporation shall make necessary arrangements to assure the coordination of its activities with those of the Saint Lawrence Seaway Authority of Canada and the entity designated by the State of New York, or other licensee of the Federal Energy Regulatory Commission, authorized to construct and operate the dams and power works authorized by the International Joint Commission in its order of October 29, 1952 (docket 68) or any amendment or modification thereof.
+The Corporation shall make necessary arrangements to assure the coordination of its activities with those of the Saint Lawrence Seaway Authority of Canada and the entity designated by the State of New York, or other licensee of the Federal Energy Regulatory Commission, authorized to construct and operate thedams and power works authorized by the International Joint Commission in its order of October 29, 1952 (docket 68) or any amendment or modification thereof.
 
 (May 13, 1954, ch. 201, §3, 68 Stat. 93; Pub. L. 95–91, title IV, §402(a)(1)(A), Aug. 4, 1977, 91 Stat. 583.)
 

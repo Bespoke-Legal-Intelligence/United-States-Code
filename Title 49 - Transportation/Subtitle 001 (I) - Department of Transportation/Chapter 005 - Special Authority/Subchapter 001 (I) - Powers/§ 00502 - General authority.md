@@ -6,7 +6,7 @@
 
 &emsp;(1) inquire into and report on the management of the business of rail carriers and motor carriers;
 
-&emsp;(2) inquire into and report on the management of the business of a person controlling, controlled by, or under common control withthose carriers to the extent that the business of the person is related to the management of the business of that carrier; and
+&emsp;(2) inquire into and report on the management of the business of a person controlling, controlled by, or under common control with those carriers to the extent that the business of the person is related to the management of the business of that carrier; and
 
 &emsp;(3) obtain from those carriers and persons information the Secretary determines to be necessary.
 

@@ -30,21 +30,29 @@ For purposes of this chapter, the term—
 
 &emsp;(7) “defense articles and defense services” means, with respect to commercial exports subject to the provisions of section 2778 of this title, those items designated by the President pursuant to subsection (a)(1) of such section;
 
-&emsp;(8) “design and construction services” means, with respect to sales under section 2769 of this title, the design and construction of real property facilities, including necessary construction equipment and materials, engineering services, construction contract management services relating thereto, and technical advisory assistance in the operation and maintenance of real property facilities provided or performed by any department or agency of the Department of Defense or by a contractor pursuant to a contract with such department or agency; and
+&emsp;(8) “design and construction services” means, with respect to sales under section 2769 of this title, the design and construction of real property facilities, including necessary construction equipment and materials, engineering services, construction contract management services relating thereto, and technical advisory assistance in the operation and maintenance of real property facilities provided or performed by any department or agency of the Department of Defense or by a contractor pursuant to a contract with such department or agency;
 
 &emsp;(9) “significant military equipment” means articles—
 
 &emsp;&emsp;(A) for which special export controls are warranted because of the capacity of such articles for substantial military utility or capability; and
 
-&emsp;&emsp;(B) identified on the United States Munitions List.
+&emsp;&emsp;(B) identified on the United States Munitions List;
 
-(Pub. L. 90–629, ch. 4, §47, as added Pub. L. 93–189, §25(12), Dec. 17, 1973, 87 Stat. 731; amended Pub. L. 94–329, title II, §215, June 30, 1976, 90 Stat. 746; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §105(f), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 99–83, title I, §107(b), title XII, §1211(b)(3), Aug. 8, 1985, 99 Stat. 197, 279; Pub. L. 104–164, title I, §144, July 21, 1996, 110 Stat. 1434.)
+&emsp;(10) “weapons of mass destruction” has the meaning provided by section 2302(1) of title 50; and
+
+&emsp;(11) “Sales territory” means a country or group of countries to which a defense article or defense service is authorized to be reexported.
+
+(Pub. L. 90–629, ch. 4, §47, as added Pub. L. 93–189, §25(12), Dec. 17, 1973, 87 Stat. 731; amended Pub. L. 94–329, title II, §215, June 30, 1976, 90 Stat. 746; Pub. L. 96–92, §22, Oct. 29, 1979, 93 Stat. 710; Pub. L. 96–533, title I, §105(f), Dec. 16, 1980, 94 Stat. 3135; Pub. L. 99–83, title I, §107(b), title XII, §1211(b)(3), Aug. 8, 1985, 99 Stat. 197, 279; Pub. L. 104–164, title I, §144, July 21, 1996, 110 Stat. 1434; Pub. L. 107–228, div. B, title XII, §1202(b), title XIV, §1405(a)(4), Sept. 30, 2002, 116 Stat. 1427, 1458.)
 
 #### References in Text
 
 The Atomic Energy Act of 1954, as amended, referred to in par. (3), is act Aug. 1, 1946, ch. 724, as added by act Aug. 30, 1954, ch. 1073, §1, 68 Stat. 921, and amended, which is classified principally to chapter 23 (§2011 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 42 and Tables.
 
 #### Amendments
+
+2002—Par. (10). Pub. L. 107–228, §1202(b), added par. (10).
+
+Par. (11). Pub. L. 107–228, §1405(a)(4), added par. (11).
 
 1996—Par. (9). Pub. L. 104–164 added par. (9).
 
@@ -66,5 +74,5 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2321j, 2753, 2761, 2770 of this title; title 10 sections 2350i, 2540d; title 12 section 635.
+This section is referred to in sections 2321j, 2753, 2761, 2765, 2770 of this title; title 10 sections 2350i, 2540d; title 12 section 635.
 

@@ -98,7 +98,7 @@
 
 &emsp;&emsp;(B) makes a determination that the members of such tribe or tribal organization would be better served by means of grants made directly by the Secretary under this; <sup>2</sup>
 
-> &emsp;the Secretary shall reserve from the allotment under section 300x–21 of this title for the State for the fiscal year involved an amount that bears the same ratio to the allotment as the amount provided under this subpart to the tribe or tribal organization for fiscal year 1991 for activities relating to the prevention and treatment of the abuse of alcohol and other drugs bore to the amount of the portion of the allotment under this subpart for the State for such fiscal year that was expended for such activities.
+> &emsp;the Secretary shall reserve from the allotment under section 300x–21 of this title for the State for the fiscal year involved an amount that bears the same ratio to the allotment as the amount provided under this subpart to the tribe or tribal organization for fiscal year 1991for activities relating to the prevention and treatment of the abuse of alcohol and other drugs bore to the amount of the portion of the allotment under this subpart for the State for such fiscal year that was expended for such activities.
 
 #### (2) Tribe or tribal organization as grantee
 

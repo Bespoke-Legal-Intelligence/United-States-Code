@@ -84,7 +84,7 @@ In this section:
 
 #### (2) Local council
 
-&emsp;The term “local council” means a council that is established or designated by a localgovernment entity, Indian tribe, regional corporation, or native Hawaiian entity, as appropriate, which is composed of representatives of local agencies directly affected by early learning programs, parents, key community leaders, and other individuals concerned with early learning issues in the locality, such as elementary education, child care resource and referral services, early learning opportunities, child care, and health services.
+&emsp;The term “local council” means a council that is established or designated by a local government entity, Indian tribe, regional corporation, or native Hawaiian entity, as appropriate, which is composed of representatives of local agencies directly affected by early learning programs, parents, key community leaders, and other individuals concerned with early learning issues in the locality, such as elementary education, child care resource and referral services, early learning opportunities, child care, and health services.
 
 #### (3) Provider of early childhood services
 

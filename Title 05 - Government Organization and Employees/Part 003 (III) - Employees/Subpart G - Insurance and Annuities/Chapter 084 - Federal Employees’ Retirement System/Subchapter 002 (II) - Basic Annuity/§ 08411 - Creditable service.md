@@ -12,9 +12,11 @@
 
 &emsp;(3) except as provided in subsection (f) or (h), any civilian service (performed before January 1, 1989, other than any service under paragraph (1) or (2)) which, but for the amendments made by subsections (a)(4) and (b) of section 202 of the Federal Employees’ Retirement System Act of 1986, would be creditable under subchapter III of chapter 83 of this title (determined without regard to any deposit or redeposit requirement under such subchapter, any requirement that the individual become subject to such subchapter after performing the service involved, or any requirement that the individual give notice in writing to the official by whom such individual is paid of such individual's desire to become subject to such subchapter);
 
-&emsp;(4) a period of service (other than any service under any other paragraph of this subsection and other than any military service) that was creditable under the Foreign Service Pension System described in subchapter II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980, if the employee or Member waives credit for such service under the Foreign Service Pension System and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together with interest on such amount computed under paragraphs (2) and (3) of section 8334(e)); and
+&emsp;(4) a period of service (other than any service under any other paragraph of this subsection and other than any military service) that was creditable under the Foreign Service Pension System described in subchapter II of chapter 8 <sup>1</sup> of the Foreign Service Act of 1980, if the employee or Member waives credit for such service under the Foreign Service Pension System and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together with interest on such amount computed under paragraphs (2) and (3) of section 8334(e));
 
-&emsp;(5) a period of service (other than any service under any other paragraph of this subsection, any military service, and any service performed in the employ of a Federal Reserve Bank) that was creditable under the Bank Plan (as defined in subsection (i)), if the employee waives credit for such service under the Bank Plan and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together with interest on such amount computed under paragraphs (2) and (3) of section 8334(e)).
+&emsp;(5) a period of service (other than any service under any other paragraph of this subsection, any military service, and any service performed in the employ of a Federal Reserve Bank) that was creditable under the Bank Plan (as defined in subsection (i)), if the employee waives credit for such service under the Bank Plan and makes a payment to the Fund equal to the amount that would have been deducted from pay under section 8422(a) had the employee been subject to this chapter during such period of service (together with interest on such amount computed under paragraphs (2) and (3) of section 8334(e)); and
+
+&emsp;(6) service performed by any individual as an employee paid from nonappropriated funds of an instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) that is not otherwise creditable, if the individual elects (in accordance with regulations prescribed by the Office) to have such service credited under this paragraph.
 
 > Paragraph (5) shall not apply in the case of any employee as to whom subsection (g) (or, to the extent subchapter III of chapter 83 is involved, section 8332(n)) otherwise applies.
 
@@ -88,7 +90,7 @@
 
 (h) An employee or Member shall be allowed credit for service as a volunteer or volunteer leader under part A of title VIII of the Economic Opportunity Act of 1964, as a full-time volunteer enrolled in a program of at least 1 year's duration under part A, B, or C of title I of the Domestic Volunteer Service Act of 1973, or as a volunteer or volunteer leader under the Peace Corps Act performed at any time prior to the separation on which the entitlement to any annuity under this subchapter is based if the employee or Member has made a deposit with interest, if any, with respect to such service under section 8422(f).
 
-(i) <sup>2</sup> For purposes of subsection (b)(5), the term “Bank Plan” means the benefit structure inwhich employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of such benefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of this chapter).
+(i) <sup>2</sup> For purposes of subsection (b)(5), the term “Bank Plan” means the benefit structure in which employees of the Board of Governors of the Federal Reserve System appointed on or after January 1, 1984, participate, which benefit structure is a component of the Retirement Plan for Employees of the Federal Reserve System, established under section 10 of the Federal Reserve Act (and any redesignated or successor version of such benefit structure, if so identified in writing by the Board of Governors of the Federal Reserve System for purposes of this chapter).
 
 (i)(1) <sup>2</sup> Upon application to the Office of Personnel Management, any individual who was an employee on the date of enactment of this paragraph, and who has on such date or thereafter acquired 5 years or more of creditable civilian service under this section (exclusive of service for which credit is allowed under this subsection) shall be allowed credit (as service as a congressional employee) for service before December 31, 1990, while employed by the Democratic Senatorial Campaign Committee, the Republican Senatorial Campaign Committee, the Democratic National Congressional Committee, or the Republican National Congressional Committee, if—
 
@@ -100,7 +102,11 @@
 
 (3) An individual shall not be granted credit for such service under this subsection if eligible for credit under section 8332(m) for such service.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, §202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, §1(a)(4) \[div. A, §901(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–196.)
+(k)(1) <sup>3</sup> The Office of Personnel Management shall accept, for the purposes of this chapter, the certification of the head of a nonappropriated fund instrumentality of the United States concerning service of the type described in subsection (b)(6) that was performed for such nonappropriated fund instrumentality.
+
+(2) Service credited under subsection (b)(6) may not also be credited under any other retirement system provided for employees paid from nonappropriated funds of a nonappropriated fund instrumentality.
+
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 522; amended Pub. L. 99–556, title I, §103, title V, §502(b), Oct. 27, 1986, 100 Stat. 3131, 3140; Pub. L. 100–238, title I, §§104(b), 105(a), Jan. 8, 1988, 101 Stat. 1746; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–242, title IV, §466(b), Dec. 19, 1991, 105 Stat. 2385; Pub. L. 103–82, title III, §371(b)(1), Sept. 21, 1993, 107 Stat. 910; Pub. L. 103–337, div. A, title XVI, §1677(a)(3), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–201, div. A, title VI, §637(b), Sept. 23, 1996, 110 Stat. 2580; Pub. L. 106–168, title II, §202(a), Dec. 12, 1999, 113 Stat. 1817; Pub. L. 106–554, §1(a)(4) \[div. A,§901(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–196; Pub. L. 107–107, div. A, title XI, §1132(b)(1), Dec. 28, 2001, 115 Stat. 1243.)
 
 #### References in Text
 
@@ -123,6 +129,10 @@ The Peace Corps Act, referred to in subsec. (h), is Pub. L. 87–293, Sept. 22, 
 The date of enactment of this paragraph, referred to in subsec. (i)(1), is the date of enactment of Pub. L. 106–554, which was approved Dec. 21, 2000.
 
 #### Amendments
+
+2001—Subsec. (b)(6). Pub. L. 107–107, §1132(b)(1)(A), added par. (6).
+
+Subsec. (k). Pub. L. 107–107, §1132(b)(1)(B), added subsec. (k).
 
 2000—Subsec. (i). Pub. L. 106–554 added subsec. (i) relating to credit for service as congressional employee for certain service before Dec. 31, 1990.
 
@@ -154,6 +164,10 @@ Subsec. (c)(4). Pub. L. 99–556, §502(b), added par. (4).
 
 Subsec. (f)(1). Pub. L. 99–556, §103(2), inserted “(b)(2) or”.
 
+#### Effective Date of 2001 Amendment
+
+Amendment by Pub. L. 107–107 applicable only to separations from service as an employee of the United States on or after Dec. 28, 2001, see section 1132(c) of Pub. L. 107–107, set out as a note under section 8332 of this title.
+
 #### Effective Date of 1999 Amendment
 
 Amendment by Pub. L. 106–168 effective Dec. 12, 1999, and applicable only to individuals who separate from service subject to chapter 84 of this title on or after Dec. 12, 1999, see section 202(d) of Pub. L. 106–168, set out as a note under section 8402 of this title.
@@ -176,13 +190,185 @@ Amendment by Pub. L. 102–242 applicable with respect to any individual who tra
 
 #### Effective Date of 1986 Amendment
 
-Amendment by section 502(b) of Pub. L. 99–556 applicable to a survivor of an employee or member who dies on or after the 180th day after Oct. 27, 1986, and to other survivors upon application, see section 502(c) of Pub. L. 99–556, set out as a note under section 8332 of this title.
+Amendment by section 502(b) of Pub. L. 99–556 applicable to a survivor of an employee or member who dieson or after the 180th day after Oct. 27, 1986, and to other survivors upon application, see section 502(c) of Pub. L. 99–556, set out as a note under section 8332 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Retirement Credit for Certain Government Service Performed Abroad
+
+Pub. L. 107–228, div. A, title III, §321, Sept. 30, 2002, 116 Stat. 1380, provided that:
+
+“(a)
+
+Retirement Credit for Certain Government Service Performed Abroad.—Subject to subsection (b)(1), credit under chapter 84 of title 5, United States Code, shall be allowed for any service performed by an individual if or to the extent that—
+
+&emsp;“(1) it was performed by such individual—
+
+&emsp;&emsp;“(A) after December 31, 1988, and before May 24, 1998;
+
+&emsp;&emsp;“(B) at a United States diplomatic mission, consular post (other than a consular agency), or other Foreign Service post abroad; and
+
+&emsp;&emsp;“(C) under a temporary appointment pursuant to sections 309 and 311 of the Foreign Service Act of 1980 (22 U.S.C. 3949 and 3951);
+
+&emsp;“(2) at the time of performing such service, such individual would have satisfied all eligibility requirements under regulations of the Department (as in effect on the date of the enactment of this Act \[Sept. 30, 2002\]) for a family member limited noncareer appointment (within the meaning of such regulations, as in effect on such date of enactment), except that, in applying this paragraph, an individual not employed by the Department while performing such service shall be treated as if then so employed;
+
+&emsp;“(3) such service would have been creditable under section 8411(b)(3) of such title 5 if—
+
+&emsp;&emsp;“(A) the service had been performed before January 1, 1989; and
+
+&emsp;&emsp;“(B) the deposit requirements of section 8411(f) of such title 5 had been met with respect to such service;
+
+&emsp;“(4) such service would not otherwise be creditable under the Federal Employees’ Retirement System or any other retirement system for employees of the United States Government (disregarding title II of the Social Security Act \[42 U.S.C. 401 et seq.\]); and
+
+&emsp;“(5) the total amount of service performed by such individual (satisfying paragraphs (1) through (4)) is not less than 90 days.
+
+“(b)
+
+Requirements.—
+
+&emsp;“(1)
+
+Requirements of the individual.—In order to receive credit under chapter 84 of title 5, United States Code, for any service described in subsection (a), the individual who performed such service (or, if deceased, any person who is or would be eligible for a survivor annuity under the Federal Employees’ Retirement System based on the service of such individual)—
+
+&emsp;&emsp;“(A) shall file a written application with the Office of Personnel Management not later than 36 months after the effective date of the regulations prescribed to carry out this section (as specified in those regulations); and
+
+&emsp;&emsp;“(B) shall remit to the Office (for deposit in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund) the total amount that, under section 8422 of such title 5, should have been deducted from the basic pay of such individual for such service if such service had then been creditable under such chapter 84.
+
+&emsp;“(2)
+
+Government contributions.—
+
+&emsp;&emsp;“(A)
+
+In general.—In addition to any other payment that it is required to make under chapter 84 of title 5, United States Code, a department, agency, or other instrumentality of the United States shall remit to the Office of Personnel Management (for deposit in the Treasury of the United States to the credit of the Fund) the amount described in subparagraph (B).
+
+&emsp;&emsp;“(B)
+
+Amount described.—The amount described in this subparagraph is, with respect to a remittance under paragraph (1), the total amount of Government contributions that would, under section 8423 of title 5, United States Code, have been required of the instrumentality involved (to the extent that it was the employing entity during the period of service to which such remittance relates) in connection with such service.
+
+&emsp;&emsp;“(C)
+
+Special rule.—If an amount cannot be remitted under this paragraph because an instrumentality has ceased to exist, such amount shall instead be treated as part of the supplemental liability referred to in section 8423(b)(1)(A) or (B) of title 5, United States Code (whichever would be appropriate).
+
+&emsp;“(3)
+
+Related requirements.—Any remittance under paragraph (1) or (2)—
+
+&emsp;&emsp;“(A) shall be made in such time, form, and manner as the Office of Personnel Management may by regulation require; and
+
+&emsp;&emsp;“(B) shall be computed with interest (in accordance with section 8334(e) of title 5, United States Code, and such requirements as the Office may by regulation prescribe).
+
+&emsp;“(4)
+
+Notification and assistance requirements.—
+
+&emsp;&emsp;“(A)
+
+In general.—The Office of Personnel Management shall take such action as may be necessary and appropriate to inform individuals entitled to have any service credited under this section, or to have any annuity computed or recomputed under this section, of their entitlement to such credit, computation, or recomputation.
+
+&emsp;&emsp;“(B)
+
+Assistance to individuals.—The Office shall, on request, assist any individual referred to in subparagraph (A) in obtaining from any department, agency, or other instrumentality of the United States such information in the possession of such instrumentality as may be necessary to verify the entitlement of such individual to have any service credited, or to have any annuity computed or recomputed, pursuant to this section.
+
+&emsp;&emsp;“(C)
+
+Assistance from instrumentalities.—Any department, agency, or other instrumentality of the United States that possesses any information with respect to any service described in subsection (a) shall, at the request of the Office, furnish such information to the Office.
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Abroad.—The term ‘abroad’ has the meaning given such term under section 102 of the Foreign Service Act of 1980 (22 U.S.C. 3902).
+
+&emsp;“(2)
+
+Basic pay.—The term ‘basic pay’ has the meaning given such term under section 8401 of title 5, United States Code.
+
+&emsp;“(3)
+
+Civil service retirement and disability fund.—The term ‘Civil Service Retirement and Disability Fund’ or ‘Fund’ means the Civil Service Retirement and Disability Fund under section 8348 of title 5, United States Code.
+
+&emsp;“(4)
+
+Temporary appointment.—The term ‘temporary appointment’ means an appointment that is limited by its terms to a period of one year or less.
+
+“(d)
+
+Rule of Construction.—Nothing in this section shall be considered to permit or require the making of any contributions to the Thrift Savings Fund that would not otherwise have been permitted or required had this section not been enacted.
+
+“(e)
+
+Applicability.—
+
+&emsp;“(1)
+
+Annuities commencing on or after effective date of implementing regulations.—An annuity or survivor annuity—
+
+&emsp;&emsp;“(A) which is based on the service of an individual who performed service described in subsection (a), and
+
+&emsp;&emsp;“(B) which commences on or after the effective date of the regulations prescribed to carry out this section (as determined under subsection (b)(1)(A)),
+
+> &emsp;shall (subject to subsection (b)(1)) be computed taking into account all service described in subsection (a) that was performed by such individual.
+
+&emsp;“(2)
+
+Annuities with commencement date preceding effective date of implementing regulations.—
+
+&emsp;&emsp;“(A)
+
+Recomputation cases.—An annuity or survivor annuity—
+
+&emsp;&emsp;&emsp;“(i) which is based on the service of an individual who performed service described in subsection (a), and
+
+&emsp;&emsp;&emsp;“(ii) which commences before the effective date referred to in paragraph (1)(B),
+
+&nbsp;&nbsp;shall (subject to subsection (b)(1)) be recomputed taking into account all service described in subsection (a) that was performed by such individual.
+
+&emsp;&emsp;“(B)
+
+Other cases.—An annuity or survivor annuity—
+
+&emsp;&emsp;&emsp;“(i) which is based on the service of an individual who performed service described in subsection (a),
+
+&emsp;&emsp;&emsp;“(ii) the requirements for entitlement which could not be met without taking into account service described in subsection (a), and
+
+&emsp;&emsp;&emsp;“(iii) which (if service described in subsection (a) had been taken into account, and an appropriate application been submitted) would have commenced before the effective date referred to in paragraph (1)(B),
+
+&nbsp;&nbsp;shall (subject to subsection (b)(1)) be computed taking into account all service described in subsection (a) that was performed by such individual.
+
+&emsp;&emsp;“(C)
+
+Retroactive effect.—Any computation or recomputation of an annuity or survivor annuity pursuant to this paragraph shall—
+
+&emsp;&emsp;&emsp;“(i) if pursuant to subparagraph (A), be effective as of the commencement date of the annuity or survivor annuity involved; and
+
+&emsp;&emsp;&emsp;“(ii) if pursuant to subparagraph (B), be effective as of the commencement date that would have applied if application for the annuity or survivor annuity involved had been submitted on the earliest date possible in order for it to have been approved.
+
+&emsp;&emsp;“(D)
+
+Lump-sum payment.—Any amounts which by virtue of subparagraph (C) are payable for any months preceding the first month (on or after the effective date referred to in paragraph (1)(B)) as of which annuity or survivor annuity payments become payable fully reflecting the computation or recomputation under subparagraph (A) or (B) (as the case may be) shall be payable in the form of a lump-sum payment.
+
+&emsp;&emsp;“(E)
+
+Order of precedence.—Section 8424(d) of title 5, United States Code, shall apply in the case of any payment under subparagraph (D) payable to an individual who has died.
+
+“(f)
+
+Implementation.—The Office of Personnel Management, in consultation with the Secretary, shall prescribe such regulations and take such action as may be necessary and appropriate to implement this section.”
+
+\[For definitions of “Department” and “Secretary” as used in section 321 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of Title 22, Foreign Relations and Intercourse.\]
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8401, 8410, 8432, 8442, 8443, 8451 of this title; title 2 sections 121b, 162b; title 16 section 460<i>lll</i>–47; title 38 section 7426; title 40 section 214d; title 50 section 2154.
+This section is referred to in sections 8401, 8410, 8415, 8422, 8432, 8442, 8443, 8451 of this title; title 2 sections 121b, 162b, 2064; title 16 section 460<i>lll</i>–47; title 38 section 7426; title 50 section 2154.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Two subsecs. (i) have been enacted.</i>
+
+<i><sup>3</sup></i><i> So in original. No subsec. (j) has been enacted.</i>
 

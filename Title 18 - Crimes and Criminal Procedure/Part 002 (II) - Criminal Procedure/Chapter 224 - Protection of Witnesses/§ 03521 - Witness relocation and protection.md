@@ -54,7 +54,7 @@
 
 &emsp;(I) the agreement of the person to regularly inform the appropriate program official of the activities and current address of such person.
 
-> Each such memorandum of understanding shall also set forth the protection which the AttorneyGeneral has determined will be provided to the person under this chapter, and the procedures to be followed in the case of a breach of the memorandum of understanding, as such procedures are established by the Attorney General. Such procedures shall include a procedure for filing and resolution of grievances of persons provided protection under this chapter regarding the administration of the program. This procedure shall include the opportunity for resolution of a grievance by a person who was not involved in the case.
+> Each such memorandum of understanding shall also set forth the protection which the Attorney General has determined will be provided to the person under this chapter, and the procedures to be followed in the case of a breach of the memorandum of understanding, as such procedures are established by the Attorney General. Such procedures shall include a procedure for filing and resolution of grievances of persons provided protection under this chapter regarding the administration of the program. This procedure shall include the opportunity for resolution of a grievance by a person who was not involved in the case.
 
 (2) The Attorney General shall enter into a separate memorandum of understanding pursuant to this subsection with each person protected under this chapter who is eighteen years of age or older. The memorandum of understanding shall be signed by the Attorney General and the person protected.
 

@@ -52,5 +52,5 @@ Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2302 of this title; title 22 section 1438; title 40 section 42.
+This section is referred to in section 2302 of this title; title 22 section 1438; title 40 section 8165.
 

@@ -8,7 +8,7 @@ For the purposes of this part—
 
 &emsp;(3) the term “cogeneration facilities” has the same meaning given such term in section 796(18)(A) of title 16;
 
-&emsp;(4) the term “energy conservation measures” means measures that are applied to a Federal building that improve energy efficiency and are life cycle cost effective and that involve energy conservation, cogeneration facilities, renewable energy sources, improvements in operations and maintenance efficiencies, or retrofit activities;
+&emsp;(4) the term “energy conservation measures” means measures that are applied to a Federal building that improve energy efficiency and are life cycle cost effective andthat involve energy conservation, cogeneration facilities, renewable energy sources, improvements in operations and maintenance efficiencies, or retrofit activities;
 
 &emsp;(5) the term “energy survey” means a procedure used to determine energy and cost savings likely to result from the use of appropriate energy related maintenance and operating procedures and modifications, including the purchase and installation of particular energy-related equipment and the use of renewable energy sources;
 

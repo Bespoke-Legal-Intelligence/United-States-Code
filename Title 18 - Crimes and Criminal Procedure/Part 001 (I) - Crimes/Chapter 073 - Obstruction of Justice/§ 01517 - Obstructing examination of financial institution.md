@@ -6,5 +6,5 @@ Whoever corruptly obstructs or attempts to obstruct any examination of a financi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 3059A of this title; title 12 sections 1785, 1829, 4204, 4224.
+This section is referred to in title 12 sections 1785, 1829, 4204, 4224.
 

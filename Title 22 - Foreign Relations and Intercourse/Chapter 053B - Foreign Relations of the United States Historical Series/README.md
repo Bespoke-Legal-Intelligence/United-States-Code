@@ -16,8 +16,8 @@
 | (a) | Deadline for declassification. |
 | (b) | Exempted records. |
 | (c) | Review. |
-| (d) | Reporting requirement. |
-| (e) | Report to Congress. |
+| (d) | Annual reports by the Advisory Committee. |
+| (e) | Annual reports by the Secretary. |
 | [4355\.](%C2%A7%2004355%20-%20Relationship%20to%20Privacy%20Act%20and%20Freedom%20of%20Information%20Act.md) | Relationship to Privacy Act and Freedom of Information Act. |
 | (a) | Privacy Act. |
 | (b) | Freedom of Information Act. |

@@ -6,5 +6,5 @@ The tract of land in Acadia National Park, State of Maine, comprising approximat
 
 #### References in Text
 
-The laws relating to the disposition of Federal property, referred to in text, are generally classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works.
+For laws relating to the disposition of Federal property, referred to in text, see, generally, subtitle I of Title 40, Public Buildings, Property, and Works.
 

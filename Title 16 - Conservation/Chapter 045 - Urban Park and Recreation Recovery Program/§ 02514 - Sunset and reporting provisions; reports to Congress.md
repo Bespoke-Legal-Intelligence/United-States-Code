@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1996—Subsec. (b). Pub. L. 104–333 struck out subsec. (b) which read as follows: “On December 31, 1979, and onthe same date in each year that the recovery program is funded, the Secretary shall report to the Congress on the annual achievements of the innovation grant program, with emphasis on the nationwide implications of successful innovation projects.”
+1996—Subsec. (b). Pub. L. 104–333 struck out subsec. (b) which read as follows: “On December 31, 1979, and on the same date in each year that the recovery program is funded, the Secretary shall report to the Congress on the annual achievements of the innovation grant program, with emphasis on the nationwide implications of successful innovation projects.”
 
 #### “Secretary” Defined
 

@@ -6,7 +6,7 @@ Congress recognizes that the Indian Self-Determination and Education Assistance 
 
 #### (b) Commitment
 
-Congress declares its commitment to the maintenance of the Federal Government'sunique and continuing trust relationship with and responsibility to the Indian people for the education of Indian children through the establishment of a meaningful Indian self-determination policy for education that will deter further perpetuation of Federal bureaucratic domination of programs.
+Congress declares its commitment to the maintenance of the Federal Government's unique and continuing trust relationship with and responsibility to the Indian people for the education of Indian children through the establishment of a meaningful Indian self-determination policy for education that will deter further perpetuation of Federal bureaucratic domination of programs.
 
 #### (c) National goal
 

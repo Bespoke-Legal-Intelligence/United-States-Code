@@ -24,7 +24,7 @@ Pub. L. 101–167, title V, §562, Nov. 21, 1989, 103 Stat. 1241, provided that:
 
 “(a)
 
-In General.—Notwithstanding any other provision of law, no sugars, sirups, or molasses that are products of Panama may be imported into the United States after the date of enactment of this Act \[Nov. 21, 1989\] during any period for which a limitation is imposed by authorities provided under any other law onthe total quantity of sugars, sirups, and molasses that may be imported into the United States: <i>Provided</i>, That such products may be imported after the beginning of the last week of any quota year if the President certifies that for the entire duration of the quota year, freedom of the press and other constitutional guarantees, including due process of law, have been restored to the Panamanian people.
+In General.—Notwithstanding any other provision of law, no sugars, sirups, or molasses that are products of Panama may be imported into the United States after the date of enactment of this Act \[Nov. 21, 1989\] during any period for which a limitation is imposed by authorities provided under any other law on the total quantity of sugars, sirups, and molasses that may be imported into the United States: <i>Provided</i>, That such products may be imported after the beginning of the last week of any quota year if the President certifies that for the entire duration of the quota year, freedom of the press and other constitutional guarantees, including due process of law, have been restored to the Panamanian people.
 
 “(b)
 
@@ -48,7 +48,7 @@ By the authority vested in me as President of the United States of America by an
 
 1–101. The functions vested in the President by Public Law 96–236 (94 Stat. 336) are delegated to the United States Trade Representative.
 
-1–102. In carrying out the functions delegated to him, the United States Trade Representative shall consult with the Secretary of Agriculture and the Secretary of State. The United States Trade Representative may, with the consent of the head of another Executive agency, redelegate some or all of those functions to the head of such agency.
+1–102. In carrying out the functions delegated to him, the United States Trade Representative shall consult with the Secretary of Agriculture and the Secretary ofState. The United States Trade Representative may, with the consent of the head of another Executive agency, redelegate some or all of those functions to the head of such agency.
 
 1–103. This Order is effective July 1, 1980.
 

@@ -1,5 +1,5 @@
 
-50 U.S.C.<br>United States Code, 2001 Edition<br>Title 50 - WAR AND NATIONAL DEFENSE<br>From the U.S. Government Publishing Office, www.gpo.gov
+50 U.S.C.<br>United States Code, 2002 Edition<br>Title 50 - WAR AND NATIONAL DEFENSE<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 50—WAR AND NATIONAL DEFENSE
 

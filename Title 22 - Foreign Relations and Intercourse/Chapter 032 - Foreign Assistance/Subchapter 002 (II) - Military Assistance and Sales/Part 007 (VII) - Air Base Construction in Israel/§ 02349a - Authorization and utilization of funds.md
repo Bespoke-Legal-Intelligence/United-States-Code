@@ -2,11 +2,11 @@
 
 #### (a) Authorization of appropriation
 
-There is authorized to be appropriated to the President to carry out this part not to exceed$800,000,000, which may be made available until expended.
+There is authorized to be appropriated to the President to carry out this part not to exceed $800,000,000, which may be made available until expended.
 
 #### (b) Presidential authority to incur obligations and enter into contracts
 
-Upon agreement by the Government of Israel to provide to the Government of the United States funds equal to the difference between the amount required to complete the agreed construction work and the amount appropriated pursuant to subsection (a) of this section, and to make those funds available, in advance of the time when payments are due, in such amounts and at such times as may be required by the Government of the United States to meet those additional costs of construction, the President may incur obligations and enter into contracts to the extent necessary to complete the agreed construction work, except that this authority shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
+Upon agreement by the Government of Israel to provide to the Government of the United States funds equal to the difference between the amount required to complete the agreed construction work and the amount appropriated pursuant to subsection (a) of this section, and to make those funds available, in advance of the time when payments are due, in such amountsand at such times as may be required by the Government of the United States to meet those additional costs of construction, the President may incur obligations and enter into contracts to the extent necessary to complete the agreed construction work, except that this authority shall be effective only to such extent or in such amounts as are provided in advance in appropriation Acts.
 
 #### (c) Crediting of funds to proper appropriation account
 

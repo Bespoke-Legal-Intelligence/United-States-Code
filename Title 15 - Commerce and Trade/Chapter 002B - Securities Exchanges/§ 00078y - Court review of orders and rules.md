@@ -20,7 +20,7 @@
 
 (3) On the filing of the petition, the court has jurisdiction, which becomes exclusive on the filing of the materials set forth in paragraph (2) of this subsection, to affirm and enforce or to set aside the rule.
 
-(4) The findings of the Commission as to the facts identified by the Commission as the basis, in whole or in part, of the rule, if supported by substantial evidence, are conclusive. The court shall affirm and enforce the rule unless the Commission's action in promulgating the rule is found to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law; contrary to constitutional right, power, privilege, or immunity; in excess of statutory jurisdiction, authority, or limitations, or short of statutory right; or without observance of procedure required by law.
+(4) The findings of the Commission as to the facts identified by the Commission as the basis, in whole or in part, of the rule, if supported by substantial evidence, are conclusive. The court shall affirm and enforce the rule unless the Commission's action in promulgating the rule isfound to be arbitrary, capricious, an abuse of discretion, or otherwise not in accordance with law; contrary to constitutional right, power, privilege, or immunity; in excess of statutory jurisdiction, authority, or limitations, or short of statutory right; or without observance of procedure required by law.
 
 (5) If proceedings have been instituted under this subsection in two or more courts of appeals with respect to the same rule, the Commission shall file the materials set forth in paragraph (2) of this subsection in that court in which a proceeding was first instituted. The other courts shall thereupon transfer all such proceedings to the court in which the materials have been filed. For the convenience of the parties in the interest of justice that court may thereafter transfer all the proceedings to any other court of appeals.
 
@@ -80,5 +80,5 @@ For transfer of functions of Securities and Exchange Commission, with certain ex
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 78f, 78<i>l</i>, 78<i>o</i>, 78s, 78u–3, 78ccc of this title.
+This section is referred to in sections 78f, 78<i>l</i>, 78<i>o</i>, 78s, 78u–3, 78ccc, 7214 of this title.
 

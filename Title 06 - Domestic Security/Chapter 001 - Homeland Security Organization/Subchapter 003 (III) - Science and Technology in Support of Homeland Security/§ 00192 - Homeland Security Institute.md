@@ -1,0 +1,52 @@
+### §192. Homeland Security Institute
+
+#### (a) Establishment
+
+The Secretary shall establish a federally funded research and development center to be known as the “Homeland Security Institute” (in this section referred to as the “Institute”).
+
+#### (b) Administration
+
+The Institute shall be administered as a separate entity by the Secretary.
+
+#### (c) Duties
+
+The duties of the Institute shall be determined by the Secretary, and may include the following:
+
+&emsp;(1) Systems analysis, risk analysis, and simulation and modeling to determine the vulnerabilities of the Nation's critical infrastructures and the effectiveness of the systems deployed to reduce those vulnerabilities.
+
+&emsp;(2) Economic and policy analysis to assess the distributed costs and benefits of alternative approaches to enhancing security.
+
+&emsp;(3) Evaluation of the effectiveness of measures deployed to enhance the security of institutions, facilities, and infrastructure that may be terrorist targets.
+
+&emsp;(4) Identification of instances when common standards and protocols could improve the interoperability and effective utilization of tools developed for field operators and first responders.
+
+&emsp;(5) Assistance for Federal agencies and departments in establishing testbeds to evaluate the effectiveness of technologies under development and to assess the appropriateness of such technologies for deployment.
+
+&emsp;(6) Design of metrics and use of those metrics to evaluate the effectiveness of homeland security programs throughout the Federal Government, including all national laboratories.
+
+&emsp;(7) Design of and support for the conduct of homeland security-related exercises and simulations.
+
+&emsp;(8) Creation of strategic technology development plans to reduce vulnerabilities in the Nation's critical infrastructure and key resources.
+
+#### (d) Consultation on Institute activities
+
+In carrying out the duties described in subsection (c) of this section, the Institute shall consult widely with representatives from private industry, institutions of higher education, nonprofit institutions, other Government agencies, and federally funded research and development centers.
+
+#### (e) Use of centers
+
+The Institute shall utilize the capabilities of the National Infrastructure Simulation and Analysis Center.
+
+#### (f) Annual reports
+
+The Institute shall transmit to the Secretary and Congress an annual report on the activities of the Institute under this section.
+
+#### (g) Termination
+
+The Homeland Security Institute shall terminate 3 years after the effective date of this chapter.
+
+(Pub. L. 107–296, title III, §312, Nov. 25, 2002, 116 Stat. 2176.)
+
+#### References in Text
+
+The effective date of this chapter, referred to in subsec. (g), is 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of this title.
+

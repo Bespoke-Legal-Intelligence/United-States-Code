@@ -12,7 +12,7 @@ The Secretary shall establish, pursuant to the Mineral Leasing Act of 1920, as a
 
 (2) The Secretary shall consult with the Secretary of Energy regarding the national interest involved in exploring for and developing oil and gas from such lands and shall seek the views of the Governor of the State of Alaska, Alaskan local governments, Native Regional and Village Corporations, the Alaska Land Use Council, representatives of the oil and gas industry, conservation groups, and other interested groups and individuals in determining which land should be studied and/or leased for the exploration and development of oil and gas.
 
-(3) The Secretary shall encourage the State to undertake similar studies on lands associated,either through geological or other land values or because of possible transportation needs, with Federal lands. The Secretary shall integrate these studies, to the maximum extent practicable, with studies on Federal lands so that needs for cooperation between the Federal Government and the State of Alaska in managing energy and other natural resources, including fish and wildlife, can be established early in the program.
+(3) The Secretary shall encourage the State to undertake similar studies on lands associated, either through geological or other land values or because of possible transportation needs, with Federal lands. The Secretary shall integrate these studies, to the maximum extent practicable, with studies on Federal lands so that needs for cooperation between the Federal Government and the State of Alaska in managing energy and other natural resources, including fish and wildlife, can be established early in the program.
 
 #### (c) Repealed. Pub. L. 100–203, title V, §5105(1), Dec. 22, 1987, 101 Stat. 1330–259
 

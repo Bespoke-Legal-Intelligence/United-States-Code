@@ -8,7 +8,7 @@ Any person authorized to enforce the provisions of this chapter who has reasonab
 
 If, after boarding and searching such vessel, such person continues to have reasonable cause to believe that such vessel, or any person onboard, is violating said article, he may seize such vessel or arrest such person, or both. The Secretary of State shall, as soon as practicable, notify the party having jurisdiction over the vessel or person of such seizure or arrest.
 
-The Secretary or the Secretary of the department in which the Coast Guard is operating, upon request of the Secretary of State, shall deliver the seized vessel or arrested person, or both, as promptly as practicable to the authorized officials of said party: <i>Provided</i>, That whenever said party cannot immediately accept such delivery, the Secretary or the Secretary of the department in which the Coast Guard is operating may, upon the request of the Secretary of State, keep the vessel or person in custody within the United States.
+The Secretary or the Secretary of the department in which the Coast Guard is operating, upon request of the Secretary of State, shall deliver the seized vessel or arrested person, or both, as promptly as practicable to the authorized officials of said party: <i>Provided</i>, That whenever said party cannot immediately accept such delivery, the Secretary or the Secretary of thedepartment in which the Coast Guard is operating may, upon the request of the Secretary of State, keep the vessel or person in custody within the United States.
 
 #### (c) Testimony of enforcement agents
 
@@ -19,4 +19,8 @@ At the request of said party, the Secretary or the Secretary of the department i
 #### Amendments
 
 1983—Pub. L. 98–129 amended section generally, substituting provisions setting out enforcement steps, which were previously contained in section 1155 of this title, for provisions establishing the North Pacific Fur Seal Commission. See section 1157 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

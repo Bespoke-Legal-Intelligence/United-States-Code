@@ -32,5 +32,5 @@ In this section, the text of 36:721(b)(3)–(5) is omitted because the complete 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 2553; title 40 section 490.
+This section is referred to in title 10 section 2553; title 40 section 581.
 

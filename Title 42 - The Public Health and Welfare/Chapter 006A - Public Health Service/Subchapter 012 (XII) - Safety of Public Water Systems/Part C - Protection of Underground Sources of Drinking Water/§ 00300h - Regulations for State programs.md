@@ -18,7 +18,7 @@
 
 &emsp;(D) shall apply (i) as prescribed by section 300j–6(b) <sup>1</sup> of this title, to underground injections by Federal agencies, and (ii) to underground injections by any other person whether or not occurring on property owned or leased by the United States.
 
-(2) Regulations of the Administrator under this section for State underground injection control programs may not prescribe requirements which interfere with or impede—
+(2) Regulations of the Administrator under this section for State underground injectioncontrol programs may not prescribe requirements which interfere with or impede—
 
 &emsp;(A) the underground injection of brine or other fluids which are brought to the surface in connection with oil or natural gas production or natural gas storage operations, or
 

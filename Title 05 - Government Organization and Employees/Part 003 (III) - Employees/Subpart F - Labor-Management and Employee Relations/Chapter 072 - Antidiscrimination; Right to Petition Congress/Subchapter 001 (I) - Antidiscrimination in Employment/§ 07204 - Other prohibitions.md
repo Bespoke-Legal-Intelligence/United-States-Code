@@ -62,5 +62,5 @@ Amendment by Pub. L. 92–392 effective on first day of first applicable pay per
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2105 of this title; title 10 sections 4540, 7212, 9540.
+This section is referred to in section 2105 of this title; title 10 sections 4540, 7212, 9540; title 49 section 40122.
 

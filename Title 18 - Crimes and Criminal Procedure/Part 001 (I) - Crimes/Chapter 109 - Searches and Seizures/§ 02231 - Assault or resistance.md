@@ -32,7 +32,3 @@ Minor changes were made in translation and phraseology.
 
 Subsec. (b). Pub. L. 103–322, §330016(1)(L), substituted “fined under this title” for “fined not more than $10,000”.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
-

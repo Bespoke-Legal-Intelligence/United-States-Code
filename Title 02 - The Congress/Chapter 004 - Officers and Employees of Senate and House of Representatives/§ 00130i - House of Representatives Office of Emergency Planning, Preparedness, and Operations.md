@@ -12,7 +12,7 @@ The Speaker, in consultation with the minority leader—
 
 &emsp;(2) shall appoint and set the annual rate of pay for employees of the Office, including a Director, who shall be the head of the Office;
 
-&emsp;(3) shall exercise, with respect to any employee of the Office, the authority referred toin section 8344(k)(2)(B) of title 5 and the authority referred to in section 8468(h)(2)(B) of title 5;
+&emsp;(3) shall exercise, with respect to any employee of the Office, the authority referred to in section 8344(k)(2)(B) of title 5 and the authority referred to in section 8468(h)(2)(B) of title 5;
 
 &emsp;(4) shall approve procurement of services of experts and consultants by the Office or by committees or other entities of the House of Representatives for assignment to the Office; and
 

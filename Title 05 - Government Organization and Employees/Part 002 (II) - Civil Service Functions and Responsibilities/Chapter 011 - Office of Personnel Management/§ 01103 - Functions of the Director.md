@@ -36,9 +36,27 @@
 
 (3) Paragraphs (1) and (2) of this subsection shall not apply to any proposed rule or regulation which is temporary in nature and which is necessary to be implemented expeditiously as a result of an emergency.
 
-(4) Paragraphs (1) and (2) of this subsection and section 1105 of this title shall not apply to the establishment of any schedules or rates of basic pay or allowances under subpart D of part III of this title. The preceding sentence does not apply to the establishment of the procedures, methodology, or criteria used to establish such schedules, rates, or allowances.
+(4) Paragraphs (1) and (2) of this subsection and section 1105 of this title shall not apply tothe establishment of any schedules or rates of basic pay or allowances under subpart D of part III of this title. The preceding sentence does not apply to the establishment of the procedures, methodology, or criteria used to establish such schedules, rates, or allowances.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 95–454, title II, §201(a), Oct. 13, 1978, 92 Stat. 1119; Pub. L. 99–251, title III, §§301, 302, Feb. 27, 1986, 100 Stat. 26.)
+(c)(1) The Office of Personnel Management shall design a set of systems, including appropriate metrics, for assessing the management of human capital by Federal agencies.
+
+(2) The systems referred to under paragraph (1) shall be defined in regulations of the Office of Personnel Management and include standards for—
+
+&emsp;(A)(i) aligning human capital strategies of agencies with the missions, goals, and organizational objectives of those agencies; and
+
+&emsp;(ii) integrating those strategies into the budget and strategic plans of those agencies;
+
+&emsp;(B) closing skill gaps in mission critical occupations;
+
+&emsp;(C) ensuring continuity of effective leadership through implementation of recruitment, development, and succession plans;
+
+&emsp;(D) sustaining a culture that cultivates and develops a high performing workforce;
+
+&emsp;(E) developing and implementing a knowledge management strategy supported by appropriate investment in training and technology; and
+
+&emsp;(F) holding managers and human resources officers accountable for efficient and effective human resources management in support of agency missions in accordance with merit system principles.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 399; Pub. L. 95–454, title II, §201(a), Oct. 13, 1978, 92 Stat. 1119; Pub. L. 99–251, title III, §§301, 302, Feb. 27, 1986, 100 Stat. 26; Pub. L. 107–296, title XIII, §1304, Nov. 25, 2002, 116 Stat. 2289.)
 
 Historical and Revision Notes
 
@@ -62,11 +80,17 @@ Standard changes are made to conform with the definitions applicable and the sty
 
 #### Amendments
 
+2002—Subsec. (c). Pub. L. 107–296 added subsec. (c).
+
 1986—Subsec. (a)(9). Pub. L. 99–251, §301, added par. (9).
 
 Subsec. (b)(4). Pub. L. 99–251, §302, added par. (4).
 
 1978—Pub. L. 95–454 substituted “Functions of the Director” for “Chairman; Vice Chairman; Executive Director” in section catchline, and in text provisions relating to the functions of the Director of the Office of Personnel Management for provisions relating to the Chairman, Vice Chairman, and Executive Director of the United States Civil Service Commission.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–296, title XIII, §1305, Nov. 25, 2002, 116 Stat. 2289, provided that: “This subtitle \[subtitle A (§§1301–1305) of title XIII of Pub. L. 107–296, enacting chapter 14 of this title, amending this section, and enacting provisions set out as a note under section 1401 of this title\] shall take effect 180 days after the date of enactment of this Act \[Nov. 25, 2002\].”
 
 #### Effective Date of 1978 Amendment
 

@@ -126,7 +126,7 @@ Pub. L. 97–269, title VI, §613, Sept. 27, 1982, 96 Stat. 1154, provided that:
 
 “(a) Except as provided in subsections (b) and (c) of this section, this title \[enacting section 403n of this title and sections 222 and 223 of Pub. L. 88–643 and amending sections 204, 211, 221, 234, and 263 of Pub. L. 88–643\] shall take effect on November 15, 1982.
 
-“(b) The provisions of section 222(a) of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\], as added by this title, regarding the rights of former spouses to an annuity shall apply in the case of any individual who after the effective date of this title \[Nov. 15, 1982\] becomes a former spouse of an individual who separates from service with the Agency after such date.
+“(b) The provisions of section 222(a) of the Central Intelligence Agency Retirement Act of 1964 for CertainEmployees \[Pub. L. 88–643\], as added by this title, regarding the rights of former spouses to an annuity shall apply in the case of any individual who after the effective date of this title \[Nov. 15, 1982\] becomes a former spouse of an individual who separates from service with the Agency after such date.
 
 “(c) Except to the extent provided in section 223 of the Central Intelligence Agency Retirement Act of 1964 for Certain Employees \[Pub. L. 88–643\], the provisions of section 221(b) (as amended by this title) and the provisions of subsections (b) and (c) of section 222 of such Act, as added by this title, regarding the rights of former spouses to receive survivor annuities shall apply in the case of any individual who after the effective date of this title \[Nov. 15, 1982\] becomes a former spouse of a participant or former participant in the Central Intelligence Agency Retirement and Disability System.”
 
@@ -138,7 +138,7 @@ Pub. L. 94–522, title II, §215, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
 “(c) The amendment made by section 203 \[enacting section 221(f)(2) of Pub. L. 88–643\] shall apply to a participant who married prior to enactment \[Oct. 17, 1976\] but only if the election is made within one year after enactment \[Oct. 17, 1976\].
 
-“(d) The amendment made by section 210 \[amending section 251 of Pub. L. 88–643\] is effective only with respect to annuity accruing for full months beginning after January 8, 1971; but any part of a period of separation referred to in such amendment in which the participant or former participant was receiving benefits under chapter 81 of title 5, United States Code or any earlier statute on which such chapter is based shall be counted whether the person returns to duty before, on, or after January 8, 1971. With respect to any person retired before such date of enactment, any such part of aperiod of separation shall be counted only upon application of the retired person.
+“(d) The amendment made by section 210 \[amending section 251 of Pub. L. 88–643\] is effective only with respect to annuity accruing for full months beginning after January 8, 1971; but any part of a period of separation referred to in such amendment in which the participant or former participant was receiving benefits under chapter 81 of title 5, United States Code or any earlier statute on which such chapter is based shall be counted whether the person returns to duty before, on, or after January 8, 1971. With respect to any person retired before such date of enactment, any such part of a period of separation shall be counted only upon application of the retired person.
 
 “(e) The amendment in section 211 \[amending section 252(a)(2) of Pub. L. 88–643\] to credit certain service in the Public Health Service is effective as of April 8, 1960, and the amendment to credit certain service in the National Oceanic and Atmospheric Administration is effective as of September 14, 1961.
 
@@ -206,7 +206,7 @@ Pub. L. 94–522, title II, §214, Oct. 17, 1976, 90 Stat. 2472, provided that:
 
 #### Temporary Retirement Contributions and Procedures for Certain Participants
 
-For temporary provisions providing modified contributions and procedures for officers and employees participating in the Central Intelligence Agency Retirement and Disability System who are also requiredto pay employment taxes relating to benefits under title II of the Social Security Act, 42 U.S.C. 401 et seq., until they are covered by a new Government retirement system or Jan. 1, 1986, whichever is earlier, see title II of Pub. L. 98–168, set out as a note under section 8331 of Title 5, Government Organization and Employees.
+For temporary provisions providing modified contributions and procedures for officers and employees participating in the Central Intelligence Agency Retirement and Disability System who are also required to pay employment taxes relating to benefits under title II of the Social Security Act, 42 U.S.C. 401 et seq., until they are covered by a new Government retirement system or Jan. 1, 1986, whichever is earlier, see title II of Pub. L. 98–168, set out as a note under section 8331 of Title 5, Government Organization and Employees.
 
 #### Contingent Once-a-Year Adjustment in Annuities
 

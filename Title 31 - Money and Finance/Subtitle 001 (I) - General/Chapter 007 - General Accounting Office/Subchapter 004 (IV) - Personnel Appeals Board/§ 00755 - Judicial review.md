@@ -8,7 +8,7 @@
 
 &emsp;(3) unsupported by substantial evidence.
 
-(b) If an officer, employee, applicant for employment, or employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants is the prevailing party in a proceeding under this section, and the decision is based on a finding of discrimination prohibited under section 732(f) of this title or under section 312(e)(2) <sup>2</sup> of the Architect of the Capitol Human Resources Act, attorney's fees may be allowed by the court in accordance with the standards prescribed under section 706(k) of the Civil Rights Act of 1964.
+(b) If an officer, employee, applicant for employment, or employee of the Architect of the Capitol, the Botanic Garden, or the Senate Restaurants is the prevailing party in a proceeding under this section, and the decision is based on a finding of discrimination prohibited under section 732(f) of this title or under section 312(e)(2) <sup>2</sup> of the Architect of the Capitol Human Resources Act, attorney's fees may be allowed by the court in accordance with the standards prescribedunder section 706(k) of the Civil Rights Act of 1964.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 902; Pub. L. 98–216, §1(1), Feb. 14, 1984, 98 Stat. 3; Pub. L. 100–426, title I, §103(a), (b), Sept. 9, 1988, 102 Stat. 1599; Pub. L. 103–283, title III, §312(e)(4)(C), July 22, 1994, 108 Stat. 1446.)
 
@@ -36,7 +36,7 @@ This clarifies section 755 by conforming it more closely to the language of the 
 
 #### References in Text
 
-Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred to in subsec. (b), was classified to section 166b–7(e)(2) of Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 104–1, title V, §504(c)(1), Jan. 23, 1995, 109 Stat. 41, except as provided in section 1435 of Title 2, The Congress.
+Section 312(e)(2) of the Architect of the Capitol Human Resources Act, referred to in subsec. (b), was classified to section 1831(e)(2) of Title 2, The Congress, and was repealed by Pub. L. 104–1, title V, §504(c)(1), Jan. 23, 1995, 109 Stat. 41, except as provided in section 1435 of Title 2.
 
 Section 706(k) of the Civil Rights Act of 1964, referred to in subsec. (b), is classified to section 2000e–5(k) of Title 42, The Public Health and Welfare.
 

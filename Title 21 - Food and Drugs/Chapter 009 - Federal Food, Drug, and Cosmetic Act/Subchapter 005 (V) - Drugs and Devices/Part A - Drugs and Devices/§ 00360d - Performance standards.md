@@ -154,5 +154,5 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 331, 351, 352, 360, 360c, 360e, 360g, 360j, 381, 382 of this title.
+This section is referred to in sections 331, 351, 352, 360, 360c, 360e, 360g, 360j, 379i, 381, 382 of this title.
 

@@ -8,7 +8,7 @@ The Administrator shall, after careful investigation, and in cooperation with ot
 
 (1) In the survey or planning of any reservoir by the Corps of Engineers, Bureau of Reclamation, or other Federal agency, consideration shall be given to inclusion of storage for regulation of streamflow, except that any such storage and water releases shall not be provided as a substitute for adequate treatment or other methods of controlling waste at the source.
 
-(2) The need for and the value of storage for regulation of streamflow (other than for water quality) including but not limited to navigation, salt water intrusion, recreation, esthetics, and fish and wildlife, shall be determined by theCorps of Engineers, Bureau of Reclamation, or other Federal agencies.
+(2) The need for and the value of storage for regulation of streamflow (other than for water quality) including but not limited to navigation, salt water intrusion, recreation, esthetics, and fish and wildlife, shall be determined by the Corps of Engineers, Bureau of Reclamation, or other Federal agencies.
 
 (3) The need for, the value of, and the impact of, storage for water quality control shall be determined by the Administrator, and his views on these matters shall be set forth in any report or presentation to Congress proposing authorization or construction of any reservoir including such storage.
 
@@ -52,5 +52,5 @@ Ex. Ord. No. 10014, Nov. 3, 1948, 13 F.R. 6601, which related to the cooperation
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1252a of this title.
+This section is referred to in sections 1252a, 1375 of this title.
 

@@ -46,11 +46,11 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 #### Ex. Ord. No. 12789. Delegation of Reporting Functions Under the Immigration Reform and Control Act of 1986
 
-Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, provided:
+Ex. Ord. No. 12789, Feb. 10, 1992, 57 F.R. 5225, as amended by Ex. Ord. No. 13286, §32, Feb. 28, 2003, 68 F.R. 10625, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including section 301 of title 3, United States Code, and title IV of the Immigration Reform and Control Act of 1986, Public Law 99–603 (“Reform Act”) \[title IV of Pub. L. 99–603, Nov. 6, 1986, 100 Stat. 3440, which enacted section 1364 of this title and provisions set out as notes under sections 1101, 1187, 1188, 1255a, and 1324a of this title\], it is hereby ordered as follows:
 
-Section 1. The Attorney General shall: (a) perform, in coordination with the Secretary of Labor, the functions vested in the President by section 401 of the Reform Act (8 U.S.C. 1364);
+Section 1. The Secretary of Homeland Security shall: (a) perform, in coordination with the Secretary of Labor, the functions vested in the President by section 401 of the Reform Act (8 U.S.C. 1364);
 
 (b) perform, except for the functions in section 402(3)(A), the functions vested in the President by section 402 of the Reform Act (8 U.S.C. 1324a note); and
 

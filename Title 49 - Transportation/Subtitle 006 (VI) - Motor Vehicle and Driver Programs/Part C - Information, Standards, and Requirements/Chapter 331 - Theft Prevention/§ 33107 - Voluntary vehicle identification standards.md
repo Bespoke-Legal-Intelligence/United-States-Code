@@ -14,7 +14,7 @@ Voluntary Compliance.—Compliance with the standard under this section is volun
 
 (d)
 
-Compliance With Other Standards.—Compliance with the standard under this sectiondoes not relieve a manufacturer from a requirement of a standard prescribed under section 33102 or 33103 of this title.
+Compliance With Other Standards.—Compliance with the standard under this section does not relieve a manufacturer from a requirement of a standard prescribed under section 33102 or 33103 of this title.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1083.)
 

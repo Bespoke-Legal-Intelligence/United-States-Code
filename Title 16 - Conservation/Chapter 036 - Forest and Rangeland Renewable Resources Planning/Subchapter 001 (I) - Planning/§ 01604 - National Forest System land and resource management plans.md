@@ -34,7 +34,7 @@ Plans developed in accordance with this section shall—
 
 &emsp;(3) be prepared by an interdisciplinary team. Each team shall prepare its plan based on inventories of the applicable resources of the forest;
 
-&emsp;(4) be amended in any manner whatsoever after final adoption after public notice, and, if such amendment would result in a significant change in such plan, in accordance with theprovisions of subsections (e) and (f) of this section and public involvement comparable to that required by subsection (d) of this section; and
+&emsp;(4) be amended in any manner whatsoever after final adoption after public notice, and, if such amendment would result in a significant change in such plan, in accordance with the provisions of subsections (e) and (f) of this section and public involvement comparable to that required by subsection (d) of this section; and
 
 &emsp;(5) be revised (A) from time to time when the Secretary finds conditions in a unit have significantly changed, but at least every fifteen years, and (B) in accordance with the provisions of subsections (e) and (f) of this section and public involvement comparable to that required by subsection (d) of this section.
 
@@ -140,7 +140,7 @@ For transfer of certain enforcement functions of Secretary or other official in 
 
 #### Revision of Forest Plans
 
-Pub. L. 107–63, title III, §327, Nov. 5, 2001, 115 Stat. 470, provided that: “Prior to October 1, 2002, the Secretary of Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
+Pub. L. 107–63, title III, §327, Nov. 5, 2001, 115 Stat. 470, provided that: “Prior to October 1, 2002, the Secretaryof Agriculture shall not be considered to be in violation of subparagraph 6(f)(5)(A) of the Forest and Rangeland Renewable Resources Planning Act of 1974 (16 U.S.C. 1604(f)(5)(A)) solely because more than 15 years have passed without revision of the plan for a unit of the National Forest System. Nothing in this section exempts the Secretary from any other requirement of the Forest and Rangeland Renewable Resources Planning Act (16 U.S.C. 1600 et seq.) or any other law: <i>Provided</i>, That if the Secretary is not acting expeditiously and in good faith, within the funding available, to revise a plan for a unit of the National Forest System, this section shall be void with respect to such plan and a court of proper jurisdiction may order completion of the plan on an accelerated basis.”
 
 #### Expeditious Completion of Management Plans of Forest Service and Bureau of Land Management; Continuation of Existing Plans; Judicial Review
 

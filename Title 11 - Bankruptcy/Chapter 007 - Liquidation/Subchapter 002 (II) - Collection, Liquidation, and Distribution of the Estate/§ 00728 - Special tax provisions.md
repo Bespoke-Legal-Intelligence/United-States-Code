@@ -1,6 +1,6 @@
 ### §728. Special tax provisions
 
-(a) For the purposes of any State or local law imposing a tax on or measured by income, the taxable period of a debtor that is an individual shall terminate on the date of the order for relief under this chapter, unless the case was converted under section 1112 or 1208 of this title.
+(a) For the purposes of any State or local law imposing a tax on or measured by income, thetaxable period of a debtor that is an individual shall terminate on the date of the order for relief under this chapter, unless the case was converted under section 1112 or 1208 of this title.
 
 (b) Notwithstanding any State or local law imposing a tax on or measured by income, the trustee shall make tax returns of income for the estate of an individual debtor in a case under this chapter or for a debtor that is a corporation in a case under this chapter only if such estate or corporation has net taxable income for the entire period after the order for relief under this chapter during which the case is pending. If such entity has such income, or if the debtor is a partnership, then the trustee shall make and file a return of income for each taxable period during which the case was pending after the order for relief under this chapter.
 

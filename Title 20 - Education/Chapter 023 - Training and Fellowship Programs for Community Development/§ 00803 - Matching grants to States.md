@@ -28,7 +28,7 @@ No grants may be made to a State under this section unless the Secretary has app
 
 #### (d) Matching funds from non-Federal sources
 
-No grant may be made under this section for any use unless an amount at least equal to suchgrant is made available from non-Federal sources for the same purpose and for concurrent use.
+No grant may be made under this section for any use unless an amount at least equal to such grant is made available from non-Federal sources for the same purpose and for concurrent use.
 
 (Pub. L. 88–560, title VIII, §803, Sept. 2, 1964, 78 Stat. 803; Pub. L. 89–117, title XI, §1103(b), Aug. 10, 1965, 79 Stat. 503; Pub. L. 91–152, title III, §307, Dec. 24, 1969, 83 Stat. 393; Pub. L. 91–609, title IX, §904, Dec. 31, 1970, 84 Stat. 1809.)
 

@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) laws and regulations of the United States Government and State governments related to debt collection practices.
 
-(b)(1)(A) The Attorney General may make contracts retaining private counsel to furnish legalservices, including representation in negotiation, compromise, settlement, and litigation, in the case of any claim of indebtedness owed the United States. Each such contract shall include such terms and conditions as the Attorney General considers necessary and appropriate, including a provision specifying the amount of the fee to be paid to the private counsel under such contract or the method for calculating that fee. The amount of the fee payable for legal services furnished under any such contract may not exceed the fee that counsel engaged in the private practice of law in the area or areas where the legal services are furnished typically charge clients for furnishing legal services in the collection of claims of indebtedness, as determined by the Attorney General, considering the amount, age, and nature of the indebtedness and whether the debtor is an individual or a business entity. Nothing in this subparagraph shall relieve the Attorney General of the competition requirements set forth in title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 and following).
+(b)(1)(A) The Attorney General may make contracts retaining private counsel to furnish legal services, including representation in negotiation, compromise, settlement, and litigation, in the case of any claim of indebtedness owed the United States. Each such contract shall include such terms and conditions as the Attorney General considers necessary and appropriate, including a provision specifying the amount of the fee to be paid to the private counsel under such contract or the method for calculating that fee. The amount of the fee payable for legal services furnished under any such contract may not exceed the fee that counsel engaged in the private practice of law in the area or areas where the legal services are furnished typically charge clients for furnishing legal services in the collection of claims of indebtedness, as determined by the Attorney General, considering the amount, age, and nature of the indebtedness and whether the debtor is an individual or a business entity. Nothing in this subparagraph shall relieve the Attorney General of the competition requirements set forth in title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 and following).
 
 (B) The Attorney General shall use his best efforts to enter into contracts under this paragraph with law firms owned and controlled by socially and economically disadvantaged individuals and law firms that are qualified HUBZone small business concerns (as defined in section 3(p) of the Small Business Act), so as to enable each agency to comply with paragraph (3).
 
@@ -50,7 +50,7 @@
 
 &emsp;&emsp;(B) which were not collected or otherwise resolved under a contract terminated by the Attorney General during the 1-year period covered by the report; and
 
-&emsp;&emsp;(C) on which the Attorney General terminated the private counsel's representationduring the 1-year period covered by the report without terminating the contract with the private counsel under which the claims were referred.
+&emsp;&emsp;(C) on which the Attorney General terminated the private counsel's representation during the 1-year period covered by the report without terminating the contract with the private counsel under which the claims were referred.
 
 (d) Notwithstanding section 3302(b) of this title, a contract under subsection (a) or (b) of this section may provide that a fee a person charges to recover indebtedness owed, or to locate or recover assets of, the United States Government is payable from the amount recovered.
 
@@ -100,7 +100,7 @@ In subsection (d), the words “Notwithstanding the provisions of any other law 
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(1)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(1)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 Section 3(p) of the Small Business Act, referred to in subsec. (b)(1)(B), (3)(C), is classified to section 632(p) of Title 15, Commerce and Trade.
 
@@ -126,15 +126,15 @@ Subsec. (d). Pub. L. 104–134, §31001(<i>l</i>)(2), inserted “, or to locat
 
 1992—Subsec. (g). Pub. L. 102–589 added subsec. (g).
 
-1986—Subsecs. (b), (c). Pub. L. 99–578, §1(1), (4), temporarily added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively. See Effective and Termination Dates of 1986 Amendment note below.
+1986—Subsecs. (b), (c). Pub. L. 99–578, §1(1), (4), added subsecs. (b) and (c) and redesignated former subsecs. (b) and (c) as (d) and (e), respectively.
 
-Subsec. (d). Pub. L. 99–578, §1(1), (2), temporarily redesignated former subsec. (b) as (d) and inserted “or (b)” after “subsection (a)”. Former subsec. (d) redesignated (f). See Effective and Termination Dates of 1986 Amendment note below.
+Subsec. (d). Pub. L. 99–578, §1(1), (2), redesignated former subsec. (b) as (d) and inserted “or (b)” after “subsection (a)”. Former subsec. (d) redesignated (f).
 
 Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Subsec. (e). Pub. L. 99–578, §1(1), (3), temporarily redesignated former subsec. (c) as (e), inserted “or (b)” after “(a)”, and substituted “subsection (d)” for “subsection (b)”. See Effective and Termination Dates of 1986 Amendment note below.
+Subsec. (e). Pub. L. 99–578, §1(1), (3), redesignated former subsec. (c) as (e), inserted “or (b)” after “(a)”, and substituted “subsection (d)” for “subsection (b)”.
 
-Subsec. (f). Pub. L. 99–578, §1(1), temporarily redesignated former subsec. (d) as (f). See Effective and Termination Dates of 1986 Amendment note below.
+Subsec. (f). Pub. L. 99–578, §1(1), redesignated former subsec. (d) as (f).
 
 1983—Subsec. (c). Pub. L. 98–167 inserted “This limitation does not apply in the case of a contract that authorizes a person to collect a fee as provided in subsection (b) of this section.”
 

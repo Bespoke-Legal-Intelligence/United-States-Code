@@ -6,7 +6,7 @@ Except as provided in section 254n of this title, each individual who has entere
 
 #### (b) Notice to individual; information for informed decision; eligibility; notice to Secretary; qualification and appointment as commissioned officer; appointment as civilian member; designation of non-United States employee as member; deferment of obligated service
 
-(1) If an individual is required under subsection (a) of this section to provide service as specified in section 254<i>l</i>(f)(1)(B)(iv) or 254<i>l</i>–1(f)(1)(B)(iv) of this title (hereinafter in this subsection referred to as “obligated service”), the Secretary shall, not later than ninety days before the date described in paragraph (5), determine if the individual shall provide such service—
+(1) If an individual is required under subsection (a) of this section to provide service as specified in section 254<i>l</i>(f)(1)(B)(v) or 254<i>l</i>–1(f)(1)(B)(iv) of this title (hereinafter in this subsection referred to as “obligated service”), the Secretary shall, not later than ninety days before the date described in paragraph (5), determine if the individual shall provide such service—
 
 &emsp;(A) as a member of the Corps who is a commissioned officer in the Regular or Reserve Corps of the Service or who is a civilian employee of the United States, or
 
@@ -14,29 +14,23 @@ Except as provided in section 254n of this title, each individual who has entere
 
 > and shall notify such individual of such determination.
 
-(2) If the Secretary determines that an individual shall provide obligated service as a member of the Corps who is a commissioned officer in the Service or a civilian employee of the United States, the Secretary shall, not later than sixty days before the date described in paragraph (5), provide such individual with sufficient information regarding the advantages and disadvantages of service as such a commissioned officer or civilian employee to enable the individual to make a decision on an informed basis.To be eligible to provide obligated service as a commissioned officer in the Service, an individual shall notify the Secretary, not later than thirty days before the date described in paragraph (5), of the individual's desire to provide such service as such an officer. If an individual qualifies for an appointment as such an officer, the Secretary shall, as soon as possible after the date described in paragraph (5), appoint the individual as a commissioned officer of the Regular or Reserve Corps of the Service and shall designate the individual as a member of the Corps.
+(2) If the Secretary determines that an individual shall provide obligated service as a member of the Corps who is a commissioned officer in the Service or a civilian employee of the United States, the Secretary shall, not later than sixty days before the date described in paragraph (5), provide such individual with sufficient information regarding the advantages and disadvantages of service as such a commissioned officer or civilian employee to enable the individual to make a decision on an informed basis. To be eligible to provide obligated service as a commissioned officer in the Service, an individual shall notify the Secretary, not later than thirty days before the date described in paragraph (5), of the individual's desire to provide such service as such an officer. If an individual qualifies for an appointment as such an officer, the Secretary shall, as soon as possible after the date described in paragraph (5), appoint the individual as a commissioned officer of the Regular or Reserve Corps of the Service and shall designate the individual as a member of the Corps.
 
 (3) If an individual provided notice by the Secretary under paragraph (2) does not qualify for appointment as a commissioned officer in the Service, the Secretary shall, as soon as possible after the date described in paragraph (5), appoint such individual as a civilian employee of the United States and designate the individual as a member of the Corps.
 
 (4) If the Secretary determines that an individual shall provide obligated service as a member of the Corps who is not an employee of the United States, the Secretary shall, as soon as possible after the date described in paragraph (5), designate such individual as a member of the Corps to provide such service.
 
-(5)(A) In the case of the Scholarship Program, with respect to an individual receiving a degree from a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatry, or pharmacy, the date referred to in paragraphs (1) through (4) shall be the date on which the individual completes the training required for such degree, except that—
+(5)(A) In the case of the Scholarship Program, the date referred to in paragraphs (1) through (4) shall be the date on which the individual completes the training required for the degree for which the individual receives the scholarship, except that—
 
-&emsp;(i) at the request of such an individual with whom the Secretary has entered into a contract under section 254<i>l</i> of this title prior to October 1, 1985, the Secretary shall defer such date until the end of the period of time (not to exceed the number of years specified in subparagraph (B) or such greater period as the Secretary, consistent with the needs of the Corps, may authorize) required for the individual to complete an internship, residency, or other advanced clinical training; and
+&emsp;(i) for an individual receiving such a degree after September 30, 2000, from a school of medicine or osteopathic medicine, such date shall be the date the individual completes a residency in a specialty that the Secretary determines is consistent with the needs of the Corps; and
 
-&emsp;(ii) at the request of such an individual with whom the Secretary has entered into a contract under section 254<i>l</i> of this title on or after October 1, 1985, the Secretary may defer such date in accordance with clause (i).
+&emsp;(ii) at the request of an individual, the Secretary may, consistent with the needs of the Corps, defer such date until the end of a period of time required for the individual to complete advanced training (including an internship or residency).
 
-(B)(i) In the case of the Scholarship Program, with respect to an individual receiving a degree from a school of medicine, osteopathic medicine, or dentistry, the number of years referred to in subparagraph (A)(i) shall be 3 years.
+(B) No period of internship, residency, or other advanced clinical training shall be counted toward satisfying a period of obligated service under this subpart.
 
-(ii) In the case of the Scholarship Program, with respect to an individual receiving a degree from a school of veterinary medicine, optometry, podiatry, or pharmacy, the number of years referred to in subparagraph (A)(i) shall be 1 year.
+(C) In the case of the Loan Repayment Program, if an individual is required to provide obligated service under such Program, the date referred to in paragraphs (1) through (4)—
 
-(C) No period of internship, residency, or other advanced clinical training shall be counted toward satisfying a period of obligated service under this subpart.
-
-(D) In the case of the Scholarship Program, with respect to an individual receiving a degree from an institution other than a school referred to in subparagraph (A), the date referred to in paragraphs (1) through (4) shall be the date on which the individual completes the academic training of the individual leading to such degree.
-
-(E) In the case of the Loan Repayment Program, if an individual is required to provide obligated service under such Program, the date referred to in paragraphs (1) through (4)—
-
-&emsp;(i) shall be the date determined under subparagraph (A), (B), or (D) in the case of an individual who is enrolled in the final year of a course of study;
+&emsp;(i) shall be the date determined under subparagraph (A) in the case of an individual who is enrolled in the final year of a course of study;
 
 &emsp;(ii) shall, in the case of an individual who is enrolled in an approved graduate training program in medicine, osteopathic medicine, dentistry, or other health profession, be the date the individual completes such training program; and
 
@@ -56,27 +50,41 @@ An individual shall be considered to have begun serving a period of obligated se
 
 The Secretary shall assign individuals performing obligated service in accordance with a written contract under the Scholarship Program to health professional shortage areas in accordance with sections 254d through 254h and sections 254j and 254k of this title. If the Secretary determines that there is no need in a health professional shortage area (designated under section 254e of this title) for a member of the profession in which an individual is obligated to provide service under a written contract and if such individual is an officer in the Service or a civilian employee of the United States, the Secretary may detail such individual to serve his period of obligated service as a full-time member of such profession in such unit of the Department as the Secretary may determine.
 
-#### (e) Service under National Research Service Award program; credits against obligated service time
-
-Notwithstanding any other provision of this subchapter, service of an individual under a National Research Service Award awarded under subparagraph (A) or (B) of section 288(a)(1) <sup>1</sup> of this title shall be counted against the period of obligated service which the individual is required to perform under the Scholarship Program or under section 234 <sup>2</sup> of this title as in effect on September 30, 1977.
-
-(July 1, 1944, ch. 373, title III, §338C, formerly title VII, §752, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2284; amended Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–76, title II, §202(a), (b), Sept. 29, 1979, 93 Stat. 582; renumbered §338B and amended Pub. L. 97–35, title XXVII, §2709(a), (c), Aug. 13, 1981, 95 Stat. 908, 909; Pub. L. 97–414, §8(g)(1), Jan. 4, 1983, 96 Stat. 2061; renumbered §338C and amended Pub. L. 100–177, title II, §201(2), title III, §306, Dec. 1, 1987, 101 Stat. 992, 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3035.)
-
-#### References in Text
-
-Section 234 of this title, referred to in subsec. (e), was repealed by Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281, effective Oct. 1, 1977.
+(July 1, 1944, ch. 373, title III, §338C, formerly title VII, §752, as added Pub. L. 94–484, title IV,§408(b)(1), Oct. 12, 1976, 90 Stat. 2284; amended Pub. L. 95–626, title I, §113(b), Nov. 10, 1978, 92 Stat. 3563; Pub. L. 96–76, title II, §202(a), (b), Sept. 29, 1979, 93 Stat. 582; renumbered §338B and amended Pub. L. 97–35, title XXVII, §2709(a), (c), Aug. 13, 1981, 95 Stat. 908, 909; Pub. L. 97–414, §8(g)(1), Jan. 4, 1983, 96 Stat. 2061; renumbered §338C and amended Pub. L. 100–177, title II, §201(2), title III, §306, Dec. 1, 1987, 101 Stat. 992, 1004; Pub. L. 100–607, title VI, §629(a)(2), Nov. 4, 1988, 102 Stat. 3146; Pub. L. 101–597, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3035; Pub. L. 107–251, title III, §311, Oct. 26, 2002, 116 Stat. 1650.)
 
 #### Codification
 
 Section was formerly classified to section 294u of this title prior to its renumbering by Pub. L. 97–35.
-
-Section 288(a)(1) of this title, referred to in subsec. (e), in the original referred to section 472(a)(1), meaning section 472(a)(1) of the Public Health Service Act, which was classified to section 289<i>l</i>–1(a)(1) of this title. Title IV of the Public Health Service Act was amended generally by section 2 of Pub. L. 99–158, Nov. 20, 1985, 99 Stat. 822, and provisions formerly contained in section 472(a)(1) were restated in section 487(a)(1) of the Public Health Service Act, which is classified to section 288(a)(1) of this title.
 
 #### Prior Provisions
 
 A prior section 338C of act July 1, 1944, was renumbered section 338D by section 201(2) of Pub. L. 100–177 and is classified to section 254n of this title.
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–251, §311(1)(A), substituted “section 254<i>l</i>(f)(1)(B)(v)” for “254<i>l</i>(f)(1)(B)(iv)” in introductory provisions.
+
+Subsec. (b)(5)(A). Pub. L. 107–251, §311(1)(B)(i), added subpar. (A) and struck out former subpar. (A) which read as follows: “In the case of the Scholarship Program, with respect to an individual receiving a degree from a school of medicine, osteopathic medicine, dentistry, veterinary medicine, optometry, podiatry, or pharmacy, the date referred to in paragraphs (1) through (4) shall be the date on which the individual completes the training required for such degree, except that—
+
+&emsp;“(i) at the request of such an individual with whom the Secretary has entered into a contract under section 254<i>l</i> of this title prior to October 1, 1985, the Secretary shall defer such date until the end of the period of time (not to exceed the number of years specified in subparagraph (B) or such greater period as the Secretary, consistent with the needs of the Corps, may authorize) required for the individual to complete an internship, residency, or other advanced clinical training; and
+
+&emsp;“(ii) at the request of such an individual with whom the Secretary has entered into a contract under section 254<i>l</i> of this title on or after October 1, 1985, the Secretary may defer such date in accordance with clause (i).”
+
+Subsec. (b)(5)(B). Pub. L. 107–251, §311(1)(B)(i), (iii), redesignated subpar. (C) as (B) and struck out former subpar. (B) which read as follows:
+
+“(B)(i) In the case of the Scholarship Program, with respect to an individual receiving a degree from a school of medicine, osteopathic medicine, or dentistry, the number of years referred to in subparagraph (A)(i) shall be 3 years.
+
+“(ii) In the case of the Scholarship Program, with respect to an individual receiving a degree from a school of veterinary medicine, optometry, podiatry, or pharmacy, the number of years referred to in subparagraph (A)(i) shall be 1 year.”
+
+Subsec. (b)(5)(C). Pub. L. 107–251, §311(1)(B)(iii), redesignated subpar. (E) as (C). Former subpar. (C) redesignated (B).
+
+Subsec. (b)(5)(C)(i). Pub. L. 107–251, §311(1)(B)(iv), substituted “subparagraph (A)” for “subparagraph (A), (B), or (D)”.
+
+Subsec. (b)(5)(D). Pub. L. 107–251, §311(1)(B)(ii), struck out subpar. (D) which read as follows: “In the case of the Scholarship Program, with respect to an individual receiving a degree from an institution other than a school referred to in subparagraph (A), the date referred to in paragraphs (1) through (4) shall be the date on which the individual completes the academic training of the individual leading to such degree.”
+
+Subsec. (b)(5)(E). Pub. L. 107–251, §311(1)(B)(iii), redesignated subpar. (E) as (C).
+
+Subsec. (e). Pub. L. 107–251, §311(2), struck out subsec. (e) which related to service under National Research Service Award program as credit against obligated service time.
 
 1990—Subsec. (d). Pub. L. 101–597 substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing.
 
@@ -110,7 +118,7 @@ Subsec. (b)(5)(B). Pub. L. 96–76, §202(b)(3), substituted “referred to in s
 
 #### Effective Date of 1981 Amendment
 
-Section 2709(h) of Pub. L. 97–35 provided that: “The amendments made by paragraphs (2), (3), and (5)(B) of subsection (c) \[amending this section\] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act \[section 294r et seq. of this title\] after the date of the enactment of this Act \[Aug. 13, 1981\]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given the opportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States.”
+Section 2709(h) of Pub. L. 97–35 provided that: “The amendments made by paragraphs (2), (3), and (5)(B) of subsection (c) \[amending this section\] shall apply with respect to contracts entered into under the National Health Service Corps scholarship program under subpart III of part C of title VII of the Public Health Service Act \[section 294r et seq. of this title\] after the date of the enactment of this Act \[Aug. 13, 1981\]. An individual who before such date has entered into such a contract and who has not begun the period of obligated service required under such contract shall be given theopportunity to revise such contract to permit the individual to serve such period as a member of the National Health Service Corps who is not an employee of the United States.”
 
 #### Effective Date
 
@@ -134,9 +142,5 @@ Pub. L. 99–500, §101(h) \[title II\], Oct. 18, 1986, 100 Stat. 1783–242, 17
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254n, 254<i>o</i>, 287c–33, 288–2, 288–5, 288–5a, 288–6, 293b, 11709 of this title; title 25 sections 1613a, 1616e, 1621p.
-
-<i><sup>1</sup></i><i> See Codification note below.</i>
-
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 254d, 254f–1, 254n, 254<i>o</i>, 254t, 287c–33, 288–2, 288–5, 288–5a, 288–6, 293b, 11709 of this title; title 25 sections 1613a, 1616e, 1621p.
 

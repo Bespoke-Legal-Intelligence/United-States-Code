@@ -26,7 +26,7 @@ For a State to be eligible to receive a grant under this section, the chief exec
 
 #### (c) Crimes without suspects
 
-A State that proposes to allocate grant amounts under paragraph (4) or (5) of subsection (b) of this section for the purposes specified in paragraph (2) or (3) of subsection (a) of this section shall use such allocated amounts to conduct or facilitate DNA analyses of those samples that relate to crimes in connection with which there are no suspects.
+A State that proposes to allocate grant amounts under paragraph (4) or (5) of subsection\(b) of this section for the purposes specified in paragraph (2) or (3) of subsection (a) of this section shall use such allocated amounts to conduct or facilitate DNA analyses of those samples that relate to crimes in connection with which there are no suspects.
 
 #### (d) Analysis of samples
 
@@ -128,7 +128,7 @@ Pub. L. 106–561, §4, Dec. 21, 2000, 114 Stat. 2791, provided that:
 
 Findings.—Congress finds that—
 
-&emsp;“(1) over the past decade, deoxyribonucleic acid testing (referred to in this section as ‘DNA testing’) has emerged as the most reliable forensic technique for identifying criminals when biological material is left at a crime scene;
+&emsp;“(1) over the past decade, deoxyribonucleic acid testing (referred to in this section as ‘DNA testing’)has emerged as the most reliable forensic technique for identifying criminals when biological material is left at a crime scene;
 
 &emsp;“(2) because of its scientific precision, DNA testing can, in some cases, conclusively establish the guilt or innocence of a criminal defendant;
 

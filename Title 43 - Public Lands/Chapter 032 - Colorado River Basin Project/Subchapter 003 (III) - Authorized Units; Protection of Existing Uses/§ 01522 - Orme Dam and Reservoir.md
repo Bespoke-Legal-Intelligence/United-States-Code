@@ -2,7 +2,7 @@
 
 #### (a) Acquisition of lands of Salt River Pima-Maricopa Indian Community and Fort McDowell-Apache Indian Community; relocation; eminent domain
 
-The Secretary shall designate the lands of the Salt River Pima-Maricopa Indian Community, Arizona, and the Fort McDowell-Apache Indian Community, Arizona, or interests therein, and any allotted lands or interests therein within said communities which he determines are necessary for use and occupancy by the United States for the construction, operation, and maintenance of Orme Dam and Reservoir, or alternative. The Secretary shall offer to pay the fair market value of the lands and interests designated, inclusive of improvements. In addition, the Secretary shall offer to pay toward the cost of relocating or replacing such improvements not to exceed $500,000 in the aggregate, and the amount offered for the actual relocation or replacement of a residence shall not exceed the difference between the fair market value of the residence and $8,000. Each community and each affected allottee shall have six months in which to accept or reject the Secretary's offer. If the Secretary's offer is rejected, the United States may proceed to acquire the property interests involved through eminent domain proceedings in the United States District Court for the District of Arizona under 40 U.S.C., Sections 257 and 258a. Upon acceptance in writing of the Secretary's offer, or upon the filing of a declaration of taking in eminent domain proceedings, title to the lands or interests involved, and the right to possession thereof, shall vest in the United States. Upon a determination by the Secretary that all or any part of such lands or interests are no longer necessary for the purpose for which acquired, title to such lands or interests shall be restored to the appropriate community upon repayment to the Federal Government of the amounts paid by it for such lands.
+The Secretary shall designate the lands of the Salt River Pima-Maricopa Indian Community, Arizona, and the Fort McDowell-Apache Indian Community, Arizona, or interests therein, and any allotted lands or interests therein within said communities which he determines are necessary for use and occupancy by the United States for the construction, operation, and maintenance of Orme Dam and Reservoir, or alternative. The Secretary shall offer to pay the fair market value of the lands and interests designated, inclusive of improvements. In addition, the Secretary shall offer to pay toward the cost of relocating or replacing such improvements not to exceed $500,000 in the aggregate, and the amount offered for the actual relocation or replacement of a residence shall not exceed the difference between the fair market value of the residence and $8,000. Each community and each affected allottee shall have six months in which to accept or reject the Secretary's offer. If the Secretary's offer is rejected, the United States may proceed to acquire the property interests involved through eminent domain proceedings in the United States District Court for the District of Arizona under sections 3113 and 3114(a) to (d) of title 40. Upon acceptance in writing of the Secretary's offer, or upon the filing of a declaration of taking in eminent domain proceedings, title to the lands or interests involved, and the right to possession thereof, shall vest in the United States. Upon a determination by the Secretary that all or any part of such lands or interests are no longer necessary for the purpose for which acquired, title to such lands or interests shall be restored to the appropriate community upon repayment to the Federal Government of the amounts paid by it for such lands.
 
 #### (b) Rights of former owners to use or lease land
 
@@ -22,13 +22,17 @@ All funds paid pursuant to this section, and any per capita distribution thereof
 
 (Pub. L. 90–537, title III, §302, Sept. 30, 1968, 82 Stat. 888.)
 
+#### Codification
+
+In subsec. (a), “sections 3113 and 3114(a) to (d) of title 40” substituted for “40 U.S.C., sections 257 and 258a” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
 #### Inapplicability of Subsection (a) to Fort McDowell Indian Community
 
 Pub. L. 101–628, title IV, §411(e), Nov. 28, 1990, 104 Stat. 4491, provided that: “As of the date the authorizations contained in section 409(b) of this Act become effective \[see section 412 of Pub. L. 101–628, 104 Stat. 4491\], section 302(a) of the Colorado River Basin Project Act (43 U.S.C. 1522(a)) shall no longer apply to the Community \[Fort McDowell Indian Community\].”
 
 #### Inapplicability to Salt River Pima-Maricopa Indian Community
 
-Pub. L. 100–512, §11(c), Oct. 20, 1988, 102 Stat. 2558, provided that: “Upon the effective date of this Act as set forth in section 12 \[102 Stat. 2559\], section 302 of the Colorado River Basin Project Act (43 U.S.C. 1522) shall no longer apply to the Community \[Salt River Pima-Maricopa Indian Community\].”
+Pub. L. 100–512, §11(c), Oct. 20, 1988, 102 Stat. 2558, provided that: “Upon the effective date of this Act as setforth in section 12 \[102 Stat. 2559\], section 302 of the Colorado River Basin Project Act (43 U.S.C. 1522) shall no longer apply to the Community \[Salt River Pima-Maricopa Indian Community\].”
 
 #### Section Referred to in Other Sections
 

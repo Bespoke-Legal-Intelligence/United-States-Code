@@ -10,7 +10,7 @@ The President is authorized—
 
 &emsp;(1) to barter stocks of agricultural commodities acquired by the Government for petroleum and petroleum products, and for other materials vital to the national interest, which are produced abroad, in situations in which sales would otherwise not occur; and
 
-&emsp;(2) to purchase petroleum and petroleum products, and other materials vital to the national interest, which are produced abroad and acquired by persons in the United States through barter for agricultural commodities produced in and exported from the United States through normal commercial trade channels.
+&emsp;(2) to purchase petroleum and petroleum products, and other materials vital to the national interest, which are produced abroad and acquired by persons in the United States through barter for agricultural commodities produced in and exported from the UnitedStates through normal commercial trade channels.
 
 #### (c) Other provisions of law not affected
 

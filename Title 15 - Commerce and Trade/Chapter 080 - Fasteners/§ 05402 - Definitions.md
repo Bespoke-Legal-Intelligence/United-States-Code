@@ -2,7 +2,7 @@
 
 As used in this chapter, the term—
 
-&emsp;(1) “accredited laboratory” means a fastener testing facility used to perform end-of-line testing required by a consensus standard or standards to verify that a lot of fasteners conforms to the grade identification marking called for in the consensus standard or standards to which the lot of fasteners has been manufactured, and which—
+&emsp;(1) “accredited laboratory” means a fastener testing facility used to perform end-of-line testing required by a consensus standard or standards to verify that a lot of fasteners conforms to the grade identification markingcalled for in the consensus standard or standards to which the lot of fasteners has been manufactured, and which—
 
 &emsp;&emsp;(A) meets the requirements of ISO/IEC Guide 25 (or another document approved by the Director under section 5411a(c) of this title), including revisions from time-to-time; and
 
@@ -126,7 +126,7 @@ Par. (8). Pub. L. 104–113, §11(b)(5), substituted “Standards” for “Stan
 
 Pars. (11), (12). Pub. L. 104–113, §11(b)(6), redesignated pars. (12) and (13) as (11) and (12), respectively, and struck out former par. (11) which read as follows: “ ‘original equipment manufacturer’ means a person who uses fasteners in the manufacture or assembly of its products and sells fasteners to authorized dealers as replacement or service parts for its products;”.
 
-Par. (13). Pub. L. 104–113, §11(b)(7), substituted “or a government agency” for “, a government agency, or a major end-user of fasteners which defines or describesdimensional characteristics, limits of size, acceptable materials, processing, functional behavior, plating, baking, inspecting, testing, packaging, and required markings of any fastener”.
+Par. (13). Pub. L. 104–113, §11(b)(7), substituted “or a government agency” for “, a government agency, or a major end-user of fasteners which defines or describes dimensional characteristics, limits of size, acceptable materials, processing, functional behavior, plating, baking, inspecting, testing, packaging, and required markings of any fastener”.
 
 Pub. L. 104–113, §11(b)(6), redesignated par. (14) as (13). Former par. (13) redesignated (12).
 

@@ -10,7 +10,7 @@
 
 (e) A waiver shall be in effect for one or two years as specified by the Director of the Office of Management and Budget in approving the waiver. A waiver may be renewed for a subsequent year. After a waiver has been in effect for three consecutive years, the performance plan prepared under section 1115 may propose that a waiver, other than a waiver of limitations on compensation or remuneration, be made permanent.
 
-(f) For purposes of this section, the definitions under section 1115(f) shall apply.
+(f) For purposes of this section, the definitions under section 1115(f) <sup>2</sup> shall apply.
 
 (Added Pub. L. 103–62, §5(a), Aug. 3, 1993, 107 Stat. 289.)
 
@@ -18,13 +18,15 @@
 
 Section 1105(a)(29), referred to in subsec. (a), was redesignated section 1105(a)(28) of this title by Pub. L. 104–287, §4(1), Oct. 11, 1996, 110 Stat. 3388.
 
+Section 1115(f), referred to in subsec. (f), was redesignated section 1115(g) of this title by Pub. L. 107–296, title XIII, §1311(a)(2), Nov. 25, 2002, 116 Stat. 2290.
+
 #### Construction
 
 No provision or amendment made by Pub. L. 103–62 to be construed as creating any right, privilege, benefit, or entitlement for any person who is not an officer or employee of the United States acting in such capacity, and no person not an officer or employee of the United States acting in such capacity to have standing to file any civil action in any court of the United States to enforce any provision or amendment made by Pub. L. 103–62, or to be construed as superseding any statutory requirement, see section 10 of Pub. L. 103–62, set out as a note under section 1115 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1115, 1116, 1118, 1119, 5340, 9704 of this title; title 40 section 1425.
+This section is referred to in sections 1115, 1116, 1118, 1119, 5340, 9704 of this title; title 40 section 11315.
 
 <i><sup>1</sup></i><i> Another section 9703 is set out after section 9704 of this title.</i>
 

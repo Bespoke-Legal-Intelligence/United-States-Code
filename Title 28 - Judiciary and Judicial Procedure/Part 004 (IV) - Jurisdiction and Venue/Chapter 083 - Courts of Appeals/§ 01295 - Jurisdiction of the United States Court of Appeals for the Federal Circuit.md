@@ -10,7 +10,7 @@
 
 &emsp;(4) of an appeal from a decision of—
 
-&emsp;&emsp;(A) the Board of Patent Appeals and Interferences of the United States Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appealshall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;
+&emsp;&emsp;(A) the Board of Patent Appeals and Interferences of the United States Patent and Trademark Office with respect to patent applications and interferences, at the instance of an applicant for a patent or any party to a patent interference, and any such appeal shall waive the right of such applicant or party to proceed under section 145 or 146 of title 35;
 
 &emsp;&emsp;(B) the Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office or the Trademark Trial and Appeal Board with respect to applications for registration of marks and other proceedings as provided in section 21 of the Trademark Act of 1946 (15 U.S.C. 1071); or
 
@@ -56,21 +56,21 @@ Section 523 of the Energy Policy and Conservation Act, referred to in subsec. (a
 
 #### Amendments
 
-<b>1999</b>—Subsec. (a)(4)(A). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(14)(A)\], inserted “United States” before “Patent and Trademark”.
+1999—Subsec. (a)(4)(A). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(14)(A)\], inserted “United States” before “Patent and Trademark”.
 
 Subsec. (a)(4)(B). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(14)(B)\], substituted “Under Secretary of Commerce for Intellectual Property and Director of the United States Patent and Trademark Office” for “Commissioner of Patents and Trademarks”.
 
 Subsec. (a)(4)(C). Pub. L. 106–113, §1000(a)(9) \[title IV, §4402(b)(2)\], substituted “145, 146, or 154(b)” for “145 or 146”.
 
-<b>1992</b>—Subsec. (a)(3). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a)(3). Pub. L. 102–572, §902(b)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsec. (a)(11) to (14). Pub. L. 102–572, §102(c), added pars. (11) to (14).
 
-<b>1988</b>—Subsec. (a)(1). Pub. L. 100–702 inserted “, exclusive rights in mask works,” after “copyrights”.
+1988—Subsec. (a)(1). Pub. L. 100–702 inserted “, exclusive rights in mask works,” after “copyrights”.
 
 Subsec. (a)(7). Pub. L. 100–418 substituted “U.S. note 6 to subchapter X of chapter 98 of the Harmonized Tariff Schedule of the United States” for “headnote 6 to schedule 8, part 4, of the Tariff Schedules of the United States”.
 
-<b>1984</b>—Subsec. (a)(4)(A). Pub. L. 98–622 substituted “Patent Appeals and” for “Appeals or the Board of Patent”.
+1984—Subsec. (a)(4)(A). Pub. L. 98–622 substituted “Patent Appeals and” for “Appeals or the Board of Patent”.
 
 #### Effective Date of 1999 Amendment
 
@@ -86,7 +86,7 @@ Amendment by section 902(b)(1) of Pub. L. 102–572 effective Oct. 29, 1992, see
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on or after such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
+Amendment by Pub. L. 100–418 effective Jan. 1, 1989, and applicable with respect to articles entered on orafter such date, see section 1217(b)(1) of Pub. L. 100–418, set out as an Effective Date note under section 3001 of Title 19, Customs Duties.
 
 #### Effective Date of 1984 Amendment
 

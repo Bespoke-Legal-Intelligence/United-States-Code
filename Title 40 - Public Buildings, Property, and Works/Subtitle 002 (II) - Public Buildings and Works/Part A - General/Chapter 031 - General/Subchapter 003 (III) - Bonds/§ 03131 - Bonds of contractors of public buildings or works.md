@@ -1,0 +1,106 @@
+### §3131. Bonds of contractors of public buildings or works
+
+(a)
+
+Definition.—In this subchapter, the term “contractor” means a person awarded a contract described in subsection (b).
+
+(b)
+
+Type of Bonds Required.—Before any contract of more than $100,000 is awarded for the construction, alteration, or repair of any public building or public work of the Federal Government, a person must furnish to the Government the following bonds, which become binding when the contract is awarded:
+
+&emsp;(1)
+
+Performance bond.—A performance bond with a surety satisfactory to the officer awarding the contract, and in an amount the officer considers adequate, for the protection of the Government.
+
+&emsp;(2)
+
+Payment bond.—A payment bond with a surety satisfactory to the officer for the protection of all persons supplying labor and material in carrying out the work provided for in the contract for the use of each person. The amount of the payment bond shall equal the total amount payable by the terms of the contract unless the officer awarding the contract determines, in a writing supported by specificfindings, that a payment bond in that amount is impractical, in which case the contracting officer shall set the amount of the payment bond. The amount of the payment bond shall not be less than the amount of the performance bond.
+
+(c)
+
+Coverage for Taxes in Performance Bond.—
+
+&emsp;(1)
+
+In general.—Every performance bond required under this section specifically shall provide coverage for taxes the Government imposes which are collected, deducted, or withheld from wages the contractor pays in carrying out the contract with respect to which the bond is furnished.
+
+&emsp;(2)
+
+Notice.—The Government shall give the surety on the bond written notice, with respect to any unpaid taxes attributable to any period, within 90 days after the date when the contractor files a return for the period, except that notice must be given no later than 180 days from the date when a return for the period was required to be filed under the Internal Revenue Code of 1986 (26 U.S.C. 1 et seq.).
+
+&emsp;(3)
+
+Civil action.—The Government may not bring a civil action on the bond for the taxes—
+
+&emsp;&emsp;(A) unless notice is given as provided in this subsection; and
+
+&emsp;&emsp;(B) more than one year after the day on which notice is given.
+
+(d)
+
+Waiver of Bonds for Contracts Performed in Foreign Countries.—A contracting officer may waive the requirement of a performance bond and payment bond for work under a contract that is to be performed in a foreign country if the officer finds that it is impracticable for the contractor to furnish the bonds.
+
+(e)
+
+Authority to Require Additional Bonds.—This section does not limit the authority of a contracting officer to require a performance bond or other security in addition to those, or in cases other than the cases, specified in subsection (b).
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1147.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3131(a)
+
+40:270a(a) (words before cl. (1) related to definition).
+
+Aug. 24, 1935, ch. 642, §1(a)–(c), 49 Stat. 793; Pub. L. 95–585, Nov. 2, 1978, 92 Stat. 2484; Pub. L. 103–355, title IV, §4104(b)(1)(B), Oct. 13, 1994, 108 Stat. 3342; Pub. L. 106–49, §2(a), Aug. 17, 1999, 113 Stat. 231.
+
+&nbsp;
+
+40:270d.
+
+Aug. 24, 1935, ch. 642, §4, 49 Stat. 794.
+
+3131(b)
+
+40:270a(a) (words before cl. (1) related to furnishing bond), (1), (2).
+
+&nbsp;
+
+40:270d–1.
+
+Aug. 24, 1935, ch. 642, §5, as added Pub. L. 103–355, title IV, §4104(b)(1)(A), Oct. 13, 1994, 108 Stat. 3341.
+
+3131(c)
+
+40:270a(d).
+
+Aug. 24, 1935, ch. 642, §1(d), as added Pub. L. 89–719, title I, §105(b), Nov. 2, 1966, 80 Stat. 1139.
+
+3131(d)
+
+40:270a(b).
+
+3131(e)
+
+40:270a(c).
+
+In subsection (a), the text of 40:270d is omitted because of 1:1.
+
+In subsections (b) and (c), the words “or sureties” are omitted because of 1:1.
+
+#### References in Text
+
+The Internal Revenue Code of 1986, referred to in subsec. (c)(2), is classified to Title 26, Internal Revenue Code.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3132, 3133 of this title; title 10 section 2701; title 15 section 636; title 25 sections 47a, 1656; title 31 section 9303; title 39 section 410; title 42 sections 1594, 9619, 11707.
+

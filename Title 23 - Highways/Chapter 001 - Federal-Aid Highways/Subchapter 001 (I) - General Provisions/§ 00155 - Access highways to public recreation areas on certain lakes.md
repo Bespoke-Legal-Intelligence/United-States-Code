@@ -12,7 +12,7 @@
 
 (d) For the purpose of this section the term “lake” means any lake, reservoir, pool, or other body of water resulting from the construction of any lock, dam, or similar structure by the Corps of Engineers, Department of the Army, or the Bureau of Reclamation, Department of the Interior, or the Tennessee Valley Authority, and any multipurpose lake resulting from construction assistance of the Soil Conservation Service, Department of Agriculture. This section shall apply to lakes heretofore or hereafter constructed or authorized for construction.
 
-(e) There is authorized to be appropriated not to exceed $25,000,000 for the fiscal year 1976 to carry out this section. Amounts authorized by this subsection for a fiscal year shall be available for that fiscal year and for the two succeeding fiscal years.
+(e) There is authorized to be appropriated not to exceed $25,000,000 for the fiscal year 1976 tocarry out this section. Amounts authorized by this subsection for a fiscal year shall be available for that fiscal year and for the two succeeding fiscal years.
 
 (Added Pub. L. 93–643, §115(a), Jan. 4, 1975, 88 Stat. 2287; amended Pub. L. 95–599, title I, §129(e), Nov. 6, 1978, 92 Stat. 2708.)
 
@@ -22,7 +22,7 @@
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–599 effective with respect to obligations incurred after Nov. 6, 1978, see section129(h) of Pub. L. 95–599, set out as a note under section 120 of this title.
+Amendment by Pub. L. 95–599 effective with respect to obligations incurred after Nov. 6, 1978, see section 129(h) of Pub. L. 95–599, set out as a note under section 120 of this title.
 
 #### Appropriations; Rescission of Appropriations Authorization
 

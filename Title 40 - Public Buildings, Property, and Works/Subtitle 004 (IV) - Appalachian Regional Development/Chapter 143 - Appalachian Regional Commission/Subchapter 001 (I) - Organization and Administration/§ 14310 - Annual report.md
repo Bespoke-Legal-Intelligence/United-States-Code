@@ -1,0 +1,22 @@
+### §14310. Annual report
+
+Not later than six months after the close of each fiscal year, the Appalachian Regional Commission shall prepare and submit to the Governor of each State in the Appalachian region and to the President, for transmittal to Congress, a report on the activities carried out under this subtitle during the fiscal year.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1262.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+14310
+
+40 App.:304.
+
+Pub. L. 89–4, title III, §304, Mar. 9, 1965, 79 Stat. 20.
+

@@ -42,7 +42,7 @@ Amount of Bonus; Payment.—(1) A bonus under this section shall be equal to $30
 
 &emsp;(B) January 15 of each succeeding calendar year.
 
-(4) The lump sum payment of the bonus, and the first installment payment in the case of members who elect to receive the bonus in installments, shall be paid to an eligible career bonus member not later than the first month that begins on or after the date that is 60 days after the date on which the Secretary concernedreceives from the member the election required under subsection (a)(1) and the written agreement required under subsection (a)(2), if applicable.
+(4) The lump sum payment of the bonus, and the first installment payment in the case of members who elect to receive the bonus in installments, shall be paid to an eligible career bonus member not later than the first month that begins on or after the date that is 60 days after the date on which the Secretary concerned receives from the member the election required under subsection (a)(1) and the written agreement required under subsection (a)(2), if applicable.
 
 (e)
 
@@ -64,7 +64,7 @@ Repayment of Bonus.—(1) If a person paid a bonus under this section fails to c
 
 (4) A discharge in bankruptcy under title 11 that is entered less than five years after the termination of an agreement under this section does not discharge the member signing such agreement from a debt arising under the agreement or this subsection.
 
-(Added Pub. L. 106–65, div. A, title VI, §642(a), Oct. 5, 1999, 113 Stat. 662; Pub. L. 107–107, div. A, title VI, §620(a), Dec. 28, 2001, 115 Stat. 1138.)
+(Added Pub. L. 106–65, div. A, title VI, §642(a), Oct. 5, 1999, 113 Stat. 662; amended Pub. L. 107–107, div. A, title VI, §620(a), Dec. 28, 2001, 115 Stat. 1138.)
 
 #### Amendments
 

@@ -48,9 +48,9 @@ Section 408(c) of Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2687, as amended by P
 
 #### Amendments
 
-<b>1978</b>—Subsec. (b). Pub. L. 95–598 inserted “and United States trustees” after “United States attorneys”.
+1978—Subsec. (b). Pub. L. 95–598 inserted “and United States trustees” after “United States attorneys”.
 
-<b>1954</b>—Subsec. (a). Act June 18, 1954, inserted in first item “including a default judgment whether entered by the court or by the clerk” after “final hearing”.
+1954—Subsec. (a). Act June 18, 1954, inserted in first item “including a default judgment whether entered by the court or by the clerk” after “final hearing”.
 
 #### Effective Date of 1978 Amendment
 

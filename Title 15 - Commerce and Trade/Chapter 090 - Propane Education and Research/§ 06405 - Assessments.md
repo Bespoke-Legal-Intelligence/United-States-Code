@@ -6,7 +6,7 @@ The Council shall set the initial assessment at no greater than one tenth of 1 c
 
 #### (b) Ownership
 
-The owner of odorized propane at the time of odorization, or the time of import of odorized propane, shall make the assessment based on the volume of odorized propane sold and placed into commerce. Assessments collected are payable to the Council on a monthly basis by the25th of the month following the month of such collection. Propane exported from the United States to another country is not subject to the assessment.
+The owner of odorized propane at the time of odorization, or the time of import of odorized propane, shall make the assessment based on the volume of odorized propane sold and placed into commerce. Assessments collected are payable to the Council on a monthly basis by the 25th of the month following the month of such collection. Propane exported from the United States to another country is not subject to the assessment.
 
 #### (c) Alternative collection rules
 
@@ -14,7 +14,7 @@ The Council may establish an alternative means of collecting the assessment if a
 
 #### (d) Investment of funds
 
-Pending disbursement pursuant to a program, plan, or project, the Council may invest funds collected through assessments, and any other funds received by the Council, only in obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States.
+Pending disbursement pursuant to a program, plan, or project, the Council may invest fundscollected through assessments, and any other funds received by the Council, only in obligations of the United States or any agency thereof, in general obligations of any State or any political subdivision thereof, in any interest-bearing account or certificate of deposit of a bank that is a member of the Federal Reserve System, or in obligations fully guaranteed as to principal and interest by the United States.
 
 #### (e) State programs
 

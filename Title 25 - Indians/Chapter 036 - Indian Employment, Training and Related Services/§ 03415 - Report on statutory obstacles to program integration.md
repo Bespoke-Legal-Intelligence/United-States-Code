@@ -2,7 +2,7 @@
 
 #### (a) Preliminary report
 
-Not later than two years after October 23, 1992, the Secretary shall submit a preliminary report to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives on the status ofthe implementation of the demonstration program authorized under this chapter.
+Not later than two years after October 23, 1992, the Secretary shall submit a preliminary report to the Committee on Indian Affairs of the Senate and the Committee on Natural Resources of the House of Representatives on the status of the implementation of the demonstration program authorized under this chapter.
 
 #### (b) Final report
 

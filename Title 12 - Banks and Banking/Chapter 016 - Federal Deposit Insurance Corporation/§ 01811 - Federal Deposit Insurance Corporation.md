@@ -64,7 +64,7 @@ Pub. L. 104–208, div. A, title II, §2701, Sept. 30, 1996, 110 Stat. 3009–47
 
 #### Short Title of 1994 Amendment
 
-Pub. L. 103–328, §1(a), Sept. 29, 1994, 108 Stat. 2338, provided that: “This Act \[enacting sections 43, 215a–1, 1831u, and 1835a of this title, amending sections 30, 36, 215, 215a, 215b, 1441a, 1462a, 1820, 1821, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacting provisions set out as notes under this section, sections 215, 1828, 3104, 3105, and 3107 of this title, section 1927 of Title 7, and section 5112 of Title 31, Money and Finance, and amending provisions set out as notes under this section and sections 5111 and 5112 of Title 31\] may be cited as the ‘Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994’.”
+Pub. L. 103–328, §1(a), Sept. 29, 1994, 108 Stat. 2338, provided that: “This Act \[enacting sections 43, 215a–1, 1831u, and 1835a of this title, amending sections 30, 36, 215, 215a, 215b, 1441a, 1462a, 1820, 1821, 1828, 1831a, 1831r–1, 1841, 1842, 1846, 2906, 3103 to 3105, and 3106a of this title and section 1927 of Title 7, Agriculture, enacting provisions set out as notes under this section, sections 215,1828, 3104, 3105, and 3107 of this title, section 1927 of Title 7, and section 5112 of Title 31, Money and Finance, and amending provisions set out as notes under this section and sections 5111 and 5112 of Title 31\] may be cited as the ‘Riegle-Neal Interstate Banking and Branching Efficiency Act of 1994’.”
 
 #### Short Title of 1993 Amendment
 
@@ -498,7 +498,7 @@ Report.—Not later than the close of the 18-month period beginning on the date 
 
 “(a)
 
-In General.—The Comptroller General of the United States shall conduct a study of the risks undertaken by all government-sponsored enterprises and the appropriate level of capital for such enterprises consistent with—
+In General.—The Comptroller General of the United States shall conduct a study of the risks undertaken by all government-sponsored enterprises and theappropriate level of capital for such enterprises consistent with—
 
 &emsp;“(1) the financial soundness and stability of the government-sponsored enterprises;
 
@@ -508,7 +508,7 @@ In General.—The Comptroller General of the United States shall conduct a study
 
 “(b)
 
-Consultation and Cooperation With Other Agencies.—The Comptroller General shall determine the structure and methodology of the study under thissection in consultation with and with the cooperation of the Secretary of Agriculture and the Farm Credit Administration (with respect to the Farm Credit Banks, the Banks for Cooperatives, and the Federal Agricultural Mortgage Corporation), the Secretary of Education (with respect to the Student Loan Marketing Association and the College Construction Loan Corporation), the Secretary of Housing and Urban Development (with respect to the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation), and the government-sponsored enterprises.
+Consultation and Cooperation With Other Agencies.—The Comptroller General shall determine the structure and methodology of the study under this section in consultation with and with the cooperation of the Secretary of Agriculture and the Farm Credit Administration (with respect to the Farm Credit Banks, the Banks for Cooperatives, and the Federal Agricultural Mortgage Corporation), the Secretary of Education (with respect to the Student Loan Marketing Association and the College Construction Loan Corporation), the Secretary of Housing and Urban Development (with respect to the Federal National Mortgage Association and the Federal Home Loan Mortgage Corporation), and the government-sponsored enterprises.
 
 “(c)
 
@@ -594,7 +594,7 @@ Low-income credit union.—The term ‘low-income credit union’ means any depo
 
 &emsp;“(5)
 
-Women's bank.—The term ‘women's bank’ means any depository institution described in clause (i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act—
+Women's bank.—The term ‘women's bank’ means any depository institution described in clause\(i), (ii), or (iii) of section 19(b)(1)(A) of the Federal Reserve Act—
 
 &emsp;&emsp;“(A) more than 50 percent of the outstanding shares of which are held by 1 or more women;
 

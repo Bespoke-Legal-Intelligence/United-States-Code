@@ -14,7 +14,7 @@ For the purpose of this chapter—
 
 &emsp;(4) the term “cost effective” means costing no more than the available alternatives, determined by a comparison of all related direct and indirect costs including, in the case of Government costs, applicable Government labor and overhead costs as well as contractor charges, and taking into account the ability of each alternative to accommodate mission requirements as well as the related factors of risk, reliability, schedule, and technical performance;
 
-&emsp;(5) the term “launch” means to place, or attempt to place, a launch vehicle and its payload, if any, in a suborbital trajectory, inEarth orbit in outer space, or otherwise in outer space;
+&emsp;(5) the term “launch” means to place, or attempt to place, a launch vehicle and its payload, if any, in a suborbital trajectory, in Earth orbit in outer space, or otherwise in outer space;
 
 &emsp;(6) the term “launch services” means activities involved in the preparation of a launch vehicle and its payload for launch and the conduct of a launch;
 
@@ -28,7 +28,7 @@ For the purpose of this chapter—
 
 &emsp;(11) the term “space recovery support facilities” means facilities required to support activities related to the recovery of payloads returned from space to a space recovery site, including operations and control, communications, flight safety functions, and payload processing;
 
-&emsp;(12) the term “space transportation infrastructure” means facilities, associated equipment, and real property, including launch sites, launch support facilities, space recovery sites, and space recovery support facilities, required to perform launch or space recovery activities;
+&emsp;(12) the term “space transportation infrastructure” means facilities, associated equipment, and real property, including launch sites, launch support facilities, space recoverysites, and space recovery support facilities, required to perform launch or space recovery activities;
 
 &emsp;(13) the term “State” means the several States, the District of Columbia, Puerto Rico, American Samoa, the United States Virgin Islands, Guam, the Northern Mariana Islands, and any other commonwealth, territory, or possession of the United States; and
 

@@ -2,7 +2,7 @@
 
 (a)(1) Regulations prescribed under section 7451(a) of this title shall provide that whenever an employee in a covered position is given a new duty assignment which is a promotion, the rate of basic pay of that employee shall be increased at least one step increment in that employee's grade.
 
-(2) A nurse serving in a head nurse position shall while so serving receive basic pay at a rate two step increments above the rate that would otherwise be applicable to the nurse. If such a nurse is in the highest or next-to-highest step for that nurse's grade, the preceding sentence shall be applied by extrapolation to create additional steps only for the purposes of this paragraph. The limitation in section 7451(c)(1) of this title shall not apply with respect to increased basic pay under this paragraph.
+(2) A nurse serving in a head nurse position shall while so serving receive basic pay at a ratetwo step increments above the rate that would otherwise be applicable to the nurse. If such a nurse is in the highest or next-to-highest step for that nurse's grade, the preceding sentence shall be applied by extrapolation to create additional steps only for the purposes of this paragraph. The limitation in section 7451(c)(1) of this title shall not apply with respect to increased basic pay under this paragraph.
 
 (3) An employee in a covered position who is promoted to the next higher grade shall be paid in that grade at a step having a rate of basic pay that is greater than the rate of basic pay applicable to the employee in a covered position on the day before the effective date of the promotion.
 
@@ -30,7 +30,7 @@
 
 (f) In this section, the term “covered position” has the meaning given that term in section 7451 of this title.
 
-(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 435, §4142; renumbered §7452 and amended Pub. L. 102–40, title III, §301(d), title IV, §401(c)(1)(A), (3), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–585, title III, §304(a), Nov. 4, 1992, 106 Stat. 4952.)
+(Added Pub. L. 101–366, title I, §102(b), Aug. 15, 1990, 104 Stat. 435, §4142; renumbered §7452 and amended Pub. L. 102–40, title III, §301(d), titleIV, §401(c)(1)(A), (3), May 7, 1991, 105 Stat. 208, 238; Pub. L. 102–585, title III, §304(a), Nov. 4, 1992, 106 Stat. 4952.)
 
 #### References in Text
 
@@ -38,7 +38,7 @@ Section 7451(g) of this title, referred to in subsecs. (b)(2) and (e), was repea
 
 #### Amendments
 
-1992—Subsec. (e). Pub. L. 102–585 inserted before period at end “, except that in the case of an employeewhose transfer (other than pursuant to a disciplinary action otherwise authorized by law) to another health-care facility is at the request of the Secretary, the Secretary may provide that for at least the first year following such transfer the employee shall be paid at a rate of basic pay up to the rate applicable to such employee before the transfer, if the Secretary determines that such rate of pay is necessary to fill the position. Whenever the Secretary exercises the authority under the preceding sentence relating to the rate of basic pay of a transferred employee, the Secretary shall, in the next annual report required under section 7451(g) of this title, provide justification for doing so”.
+1992—Subsec. (e). Pub. L. 102–585 inserted before period at end “, except that in the case of an employee whose transfer (other than pursuant to a disciplinary action otherwise authorized by law) to another health-care facility is at the request of the Secretary, the Secretary may provide that for at least the first year following such transfer the employee shall be paid at a rate of basic pay up to the rate applicable to such employee before the transfer, if the Secretary determines that such rate of pay is necessary to fill the position. Whenever the Secretary exercises the authority under the preceding sentence relating to the rate of basic pay of a transferred employee, the Secretary shall, in the next annual report required under section 7451(g) of this title, provide justification for doing so”.
 
 1991—Pub. L. 102–40, §401(c)(1)(A), renumbered section 4142 of this title as this section.
 

@@ -10,7 +10,7 @@ The Administrator may establish a pilot program to make grants to State, interst
 
 #### (c) Eligible entity
 
-The Administrator may make grants under this section to an entity only if the entity has authority under State law to develop or provide water for municipal, industrial, and agricultural uses in an area of the State that is experiencing critical water supply needs.
+The Administrator may make grants under this section to an entity only if the entity hasauthority under State law to develop or provide water for municipal, industrial, and agricultural uses in an area of the State that is experiencing critical water supply needs.
 
 #### (d) Selection of projects
 
@@ -46,7 +46,7 @@ The Federal share of the eligible costs of an alternative water source project c
 
 #### (h) Reports
 
-On or before September 30, 2004, the Administrator shall transmit to Congress a report on the results of the pilot program established under this section, including progress made towardmeeting the critical water supply needs of the participants in the pilot program.
+On or before September 30, 2004, the Administrator shall transmit to Congress a report on the results of the pilot program established under this section, including progress made toward meeting the critical water supply needs of the participants in the pilot program.
 
 #### (i) Definitions
 

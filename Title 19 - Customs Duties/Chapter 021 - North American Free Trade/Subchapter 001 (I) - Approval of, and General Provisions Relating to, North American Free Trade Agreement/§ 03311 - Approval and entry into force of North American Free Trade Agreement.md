@@ -14,7 +14,7 @@ The President is authorized to exchange notes with the Government of Canada or M
 
 &emsp;(1) the President—
 
-&emsp;&emsp;(A) determines that such country has implemented the statutory changes necessary to bring that country into compliance with its obligations under the Agreement and has made provision to implement the Uniform Regulations provided for under article 511 of the Agreement regarding the interpretation, application, and administration of the rules of origin, and
+&emsp;&emsp;(A) determines that such country has implemented the statutory changes necessary to bring that country into compliance with its obligations under the Agreement and has made provision to implement the Uniform Regulations provided for under article 511 ofthe Agreement regarding the interpretation, application, and administration of the rules of origin, and
 
 &emsp;&emsp;(B) transmits a report to the House of Representatives and the Senate setting forth the determination under subparagraph (A) and including, in the case of Mexico, a description of the specific measures taken by that country to—
 

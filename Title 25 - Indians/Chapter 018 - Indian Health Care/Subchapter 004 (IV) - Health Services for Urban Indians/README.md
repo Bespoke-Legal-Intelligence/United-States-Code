@@ -6,7 +6,7 @@ This subchapter was in the original title V of Pub. L. 94–437. Title IV of Pub
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 1603, 1613a, 1616a, 1616e, 1621p, 1665b, 1665g of this title; title 42 sections 254c–3, 256b, 1395x, 1396d, 1396r–1, 1396s, 1396u–2.
+This subchapter is referred to in sections 1603, 1613a, 1616a, 1616e, 1621p, 1665b, 1665g of this title; title 42 sections 247d–8, 254c–3, 256b, 1395x, 1396d, 1396r–1, 1396s, 1396u–2.
 
 
 ---

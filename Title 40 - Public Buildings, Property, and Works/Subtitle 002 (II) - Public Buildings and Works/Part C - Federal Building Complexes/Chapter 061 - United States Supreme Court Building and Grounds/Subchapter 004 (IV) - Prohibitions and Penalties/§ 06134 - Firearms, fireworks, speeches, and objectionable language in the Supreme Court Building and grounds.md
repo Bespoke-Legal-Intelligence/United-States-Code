@@ -1,0 +1,22 @@
+### §6134. Firearms, fireworks, speeches, and objectionable language in the Supreme Court Building and grounds
+
+It is unlawful to discharge a firearm, firework or explosive, set fire to a combustible, make a harangue or oration, or utter loud, threatening, or abusive language in the Supreme Court Building or grounds.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1183.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+6134
+
+40:13j.
+
+Aug. 18, 1949, ch. 479, §5, 63 Stat. 617.
+

@@ -66,7 +66,7 @@ Section 529 \[title III, §305\] of Pub. L. 101–509 provided that:
 
 “(a)
 
-Generally.—Except as otherwise provided in this Act, this Act and the amendments made by this Act \[this Act means section 529 \[titles I–III, §§1–306\] of Pub. L. 101–509, but does not include section 529 \[title IV, §§401–412\] of Pub. L. 101–509, see Short Title of 1990 Amendment; Rules of Construction note below, and see Tables for classification\] shall take effect on such date as the President shall determine \[see Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, set out below\], but not earlier than 90 days, and not later than 180 days, after the date of enactment of this Act \[Nov. 5, 1990\].
+Generally.—Except as otherwise provided in this Act, this Act and the amendments made by thisAct \[this Act means section 529 \[titles I–III, §§1–306\] of Pub. L. 101–509, but does not include section 529 \[title IV, §§401–412\] of Pub. L. 101–509, see Short Title of 1990 Amendment; Rules of Construction note below, and see Tables for classification\] shall take effect on such date as the President shall determine \[see Ex. Ord. No. 12748, Feb. 1, 1991, 56 F.R. 4521, set out below\], but not earlier than 90 days, and not later than 180 days, after the date of enactment of this Act \[Nov. 5, 1990\].
 
 “(b)
 
@@ -136,11 +136,11 @@ Membership.—The members of the Committee shall be—
 
 &emsp;“(4) 3 individuals, each of whom shall be an employee designated by the head of each of 3 other departments or agencies selected by the Director of the Office of Personnel Management from among departments and agencies having substantial numbers of General Schedule employees; and
 
-&emsp;“(5) 6 individuals appointed by the Director of the Office of Personnel Management to serve as representatives of employee organizations which represent substantial numbers of General Schedule employees, and who shall be selected with due consideration to such factors as the relative numbers of General Schedule employees represented by the variousorganizations, except that not more than 3 members of the Committee at any one time shall be from a single employee organization, council, federation, alliance, association, or affiliation of employee organizations.
+&emsp;“(5) 6 individuals appointed by the Director of the Office of Personnel Management to serve as representatives of employee organizations which represent substantial numbers of General Schedule employees, and who shall be selected with due consideration to such factors as the relative numbers of General Schedule employees represented by the various organizations, except that not more than 3 members of the Committee at any one time shall be from a single employee organization, council, federation, alliance, association, or affiliation of employee organizations.
 
 “(d)
 
-Pay for Members.—The Chairman shall be paid at a rate of basic pay for the Senior Executive Service, to be determined by the Director of the Office of Personnel Management. The members of the Committee who are otherwise employees of the Federal Government shall not receive any additional pay by reason of their service on the Committee. The members of the Committee who are not otherwise employees of the Federal Government shall not be paid for their service on the Committee and shall not be considered employees of the Federal Government for any purpose by reason of their service on the Committee.
+Pay for Members.—The Chairman shall be paid at a rate of basic pay for the Senior Executive Service,to be determined by the Director of the Office of Personnel Management. The members of the Committee who are otherwise employees of the Federal Government shall not receive any additional pay by reason of their service on the Committee. The members of the Committee who are not otherwise employees of the Federal Government shall not be paid for their service on the Committee and shall not be considered employees of the Federal Government for any purpose by reason of their service on the Committee.
 
 “(e)
 
@@ -214,7 +214,7 @@ Sec. 6. <i>Extension of Cash Awards, Recruitment and Relocation Bonuses, and Ret
 
 Sec. 7. <i>Staffing Differentials</i>. The Office of Personnel Management is hereby designated and empowered to exercise the authority of the President under section 209 of FEPCA \[5 U.S.C. 5305 note\] to establish staffing differentials.
 
-Sec. 8. <i>Executive Assignment System</i>. (a) Civil Service Rule 9 (5 CFR Part 9), as established by Executive Order No. 11315, as amended \[5 U.S.C. 3301 note\], is revoked.
+Sec. 8. <i>Executive Assignment System</i>. (a) Civil Service Rule 9 (5 CFR Part 9), as established by ExecutiveOrder No. 11315, as amended \[5 U.S.C. 3301 note\], is revoked.
 
 (b) The Office of Personnel Management shall take such actions as the Office may determine to be necessary to provide for the orderly termination of the Executive Assignment System.
 

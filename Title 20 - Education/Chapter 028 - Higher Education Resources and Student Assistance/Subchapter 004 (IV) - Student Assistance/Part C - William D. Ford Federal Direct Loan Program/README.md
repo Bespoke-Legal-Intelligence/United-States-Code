@@ -6,7 +6,7 @@ This part was, in the original, part D of title IV of Pub. L. 89–329, the High
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 1070a, 1078, 1078–3, 1078–11, 1082, 1085, 1087tt, 1090, 1091, 1091a, 1091b, 1092, 1092b, 1094, 1098c, 1099c of this title; title 2 sections 60c–5, 906; title 5 section 5379; title 10 sections 2171, 16301, 16302; title 11 section 525; title 26 section 6103.
+This part is referred to in sections 1070a, 1078, 1078–3, 1078–11, 1082, 1085, 1087tt, 1090, 1091, 1091a, 1091b, 1092, 1092b, 1094, 1098c, 1099c of this title; title 2 sections 60c–5, 906; title 5 section 5379; title 10 sections 2171, 2174, 16301, 16302; title 11 section 525; title 26 section 6103.
 
 
 ---

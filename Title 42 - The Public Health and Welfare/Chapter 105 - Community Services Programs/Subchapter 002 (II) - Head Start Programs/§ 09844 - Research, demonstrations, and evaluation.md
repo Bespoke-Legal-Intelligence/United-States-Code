@@ -60,7 +60,7 @@ The research, demonstration, and evaluation activities under this subchapter sha
 
 &emsp;(5) permit comparisons of children and families participating in Head Start programs with children and families receiving other child care, early childhood education, or child development services and with other appropriate control groups;
 
-&emsp;(6) contribute to understanding the characteristics and needs of population groups eligible for services provided under this subchapter and the impact of such services on the individuals served and the communities in which such services are provided;
+&emsp;(6) contribute to understanding the characteristics and needs of population groups eligible for services provided under this subchapterand the impact of such services on the individuals served and the communities in which such services are provided;
 
 &emsp;(7) provide for disseminating and promoting the use of the findings from such research, demonstration, and evaluation activities;
 
@@ -124,7 +124,7 @@ The Secretary shall take necessary steps to ensure that all studies, reports, pr
 
 #### (3) Designs and techniques
 
-&emsp;The Secretary shall ensure that the research uses rigorous methodological designs and techniques (based on the recommendations of the expert panel), including longitudinal designs, control groups, nationally recognized standardized measures, and random selection and assignment, as appropriate. The Secretary may provide that the research shall be conducted as a single comprehensive assessment or as a group of coordinated assessments designed to provide, when taken together, a national analysis of the impact of Head Start programs.
+&emsp;The Secretary shall ensure that the research uses rigorous methodological designs andtechniques (based on the recommendations of the expert panel), including longitudinal designs, control groups, nationally recognized standardized measures, and random selection and assignment, as appropriate. The Secretary may provide that the research shall be conducted as a single comprehensive assessment or as a group of coordinated assessments designed to provide, when taken together, a national analysis of the impact of Head Start programs.
 
 #### (4) Programs
 

@@ -1,54 +1,26 @@
 ### §4103A. Disabled veterans’ outreach program
 
-(a)(1) The amount of funds made available for use in a State under section 4102A(b)(5)(A)(i) of this title shall be sufficient to support the appointment of one disabled veterans’ outreach program specialist for each 7,400 veterans who are between the ages of 20 and 64 residing in such State. Each such specialist shall be a qualified veteran. Preference shall be given in the appointment of such specialists to qualified disabled veterans. If the Secretary finds that no qualified disabled veteran is available for such appointment, such appointment may be given to any qualified veteran. Each such specialist shall be compensated at rates comparable to those paid other professionals performing essentially similar duties in the State government of the State concerned.
+(a)
 
-(2) Specialists appointed pursuant to this subsection shall be in addition to and shall not supplant employees assigned to local employment service offices pursuant to section 4104 of this title.
+Requirement for Employment by States of a Sufficient Number of Specialists.—(1)Subject to approval by the Secretary, a State shall employ such full- or part-time disabled veterans’ outreach program specialists as the State determines appropriate and efficient to carry out intensive services under this chapter to meet the employment needs of eligible veterans with the following priority in the provision of services:
 
-(b)(1) Pursuant to regulations prescribed by the Secretary of Labor, disabled veterans’ outreach program specialists shall be assigned only those duties directly related to meeting the employment needs of eligible veterans, with priority for the provision of services in the following order:
+&emsp;(A) Special disabled veterans.
 
-&emsp;(A) Services to special disabled veterans.
+&emsp;(B) Other disabled veterans.
 
-&emsp;(B) Services to other disabled veterans.
+&emsp;(C) Other eligible veterans in accordance with priorities determined by the Secretary taking into account applicable rates of unemployment and the employment emphases set forth in chapter 42 of this title.
 
-&emsp;(C) Services to other eligible veterans in accordance with priorities determined by the Secretary taking into account applicable rates of unemployment and the employment emphases set forth in chapter 42 of this title.
+(2) In the provision of services in accordance with this subsection, maximum emphasis in meeting the employment needs of veterans shall be placed on assisting economically or educationally disadvantaged veterans.
 
-> In the provision of services in accordance with this paragraph, maximum emphasis in meeting the employment needs of veterans shall be placed on assisting economically or educationally disadvantaged veterans.
+(b)
 
-(2) Not more than three-fourths of the disabled veterans’ outreach program specialists in each State shall be stationed at local employment service offices in such State. The Secretary, after consulting the Secretary of Veterans Affairs and the Director for Veterans’ Employment and Training assigned to a State under section 4103 of this title, may waive the limitation in the preceding sentence for that State so long as the percentage of all disabled veterans’ outreach program specialists that are stationed at local employment service offices in all States does not exceed 80 percent. Specialists not so stationed shall be stationed at centers established by the Department of Veterans Affairs to provide a program of readjustment counseling pursuant to section 1712A of this title, veterans assistance offices established by the Department of Veterans Affairs pursuant to section 7723 of this title, and such other sites as may be determined to be appropriate in accordance with regulations prescribed by the Secretary after consultation with the Secretary of Veterans Affairs.
+Requirement for Qualified Veterans.—A State shall, to the maximum extent practicable, employ qualified veterans to carry out the services referred to in subsection (a). Preference shall be given in the appointment of such specialists to qualified disabled veterans.
 
-(c) Each disabled veterans’ outreach program specialist shall carry out the following functions for the purpose of providing services to eligible veterans in accordance with the priorities set forth in subsection (b) of this section:
-
-&emsp;(1) Development of job and job training opportunities for such veterans through contacts with employers, especially small- and medium-size private sector employers.
-
-&emsp;(2) Pursuant to regulations prescribed by the Secretary after consultation with the Secretary of Veterans Affairs, promotion and development of apprenticeship and other on-job training positions pursuant to section 3687 of this title.
-
-&emsp;(3) The carrying out of outreach activities to locate such veterans through contacts with local veterans organizations, the Department of Veterans Affairs, the State employment service agency and local employment service offices, and community-based organizations.
-
-&emsp;(4) Provision of appropriate assistance to community-based groups and organizations and appropriate grantees under other Federal and federally funded employment and training programs including title I of the Workforce Investment Act of 1998 in providing services to such veterans.
-
-&emsp;(5) Provision of appropriate assistance to local employment service office employees with responsibility for veterans in carrying out their responsibilities pursuant to this chapter.
-
-&emsp;(6) Consultation and coordination with other appropriate representatives of Federal, State, and local programs (including the program conducted under the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note)) <sup>1</sup> for the purpose of developing maximum linkages to promote employment opportunities for and provide maximum employment assistance to such veterans.
-
-&emsp;(7) The carrying out of such other duties as will promote the development of entry-level and career job opportunities for such veterans.
-
-&emsp;(8) Development of outreach programs in cooperation with appropriate Department of Veterans Affairs personnel engaged in providing counseling or rehabilitation services under chapter 31 of this title, with educational institutions, and with employers in order to ensure maximum assistance to disabled veterans who have completed or are participating in a vocational rehabilitation program under such chapter.
-
-&emsp;(9) Provision of vocational guidance or vocational counseling services, or both, to veterans with respect to veterans’ selection of and changes in vocations and veterans’ vocational adjustment.
-
-&emsp;(10) Provision of services as a case manager under section 14(b)(1)(A) of the Veterans’ Job Training Act (Public Law 98–77; 29 U.S.C. 1721 note).<sup>1</sup>
-
-&emsp;(11) Coordination of employment services with training assistance provided to veterans by entities receiving funds under section 2021 of this title.
-
-(Added Pub. L. 96–466, title V, §506(a), Oct. 17, 1980, 94 Stat. 2204, §2003A; amended Pub. L.97–306, title III, §305, Oct. 14, 1982, 96 Stat. 1439; Pub. L. 100–323, §§2(e)(1), 7(b), 15(c)(1), May 20, 1988, 102 Stat. 559, 565, 574; Pub. L. 101–237, title IV, §423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered §4103A and amended Pub. L. 102–83, §§2(c)(4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title V, §§501, 503, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title VII, §701(b), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(B), (f)(21)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1004(a), Nov. 11, 1998, 112 Stat. 3364; Pub. L. 107–95, §9(a), Dec. 21, 2001, 115 Stat. 920.)
-
-#### References in Text
-
-The Workforce Investment Act of 1998, referred to in subsec. (c)(4), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
-
-The Veterans’ Job Training Act, referred to in subsec. (c)(6), (10), is Pub. L. 98–77, Aug. 15, 1983, 97 Stat. 443, as amended, which is set out as a note under section 2913 of Title 29, Labor. For complete classification of this Act to the Code, see Tables.
+(Added Pub. L. 96–466, title V, §506(a), Oct. 17, 1980, 94 Stat. 2204, §2003A; amended Pub. L. 97–306, title III, §305, Oct. 14, 1982, 96 Stat. 1439; Pub. L. 100–323, §§2(e)(1), 7(b), 15(c)(1), May 20, 1988, 102 Stat. 559, 565, 574; Pub. L. 101–237, title IV, §423(b)(8), Dec. 18, 1989, 103 Stat. 2093; renumbered §4103A and amended Pub. L. 102–83, §§2(c)(4), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 402, 406; Pub. L. 102–568, title V, §§501, 503, Oct. 29, 1992, 106 Stat. 4340; Pub. L. 103–446, title VII, §701(b), Nov. 2, 1994, 108 Stat. 4674; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(29)(B), (f)(21)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–424, 2681–432; Pub. L. 105–368, title X, §1004(a), Nov. 11, 1998, 112 Stat. 3364; Pub. L. 107–95, §9(a), Dec. 21, 2001, 115 Stat. 920; Pub. L. 107–288, §4(b)(1), Nov. 7, 2002, 116 Stat. 2043.)
 
 #### Amendments
+
+2002—Pub. L. 107–288 amended section generally, substituting subsecs. (a) and (b) for former subsecs. (a) to (c) relating to appointment, services and stationing, and functions of disabled veterans’ outreach program specialists.
 
 2001—Subsec. (c)(11). Pub. L. 107–95 added par. (11).
 
@@ -112,6 +84,10 @@ Subsec. (c)(8). Pub. L. 97–306, §305(c)(2), added par. (8).
 
 Subsecs. (d), (e). Pub. L. 97–306, §305(d), redesignated subsec. (e) as (d) and inserted provision that the Secretary shall monitor the appointment of disabled veterans’ outreach program specialists to ensure compliance with the provisions of subsec. (a)(2) of this section with respect to the employment of such specialists. Former subsec. (d), which provided that persons serving as staff in the disabled veterans outreach program conducted under title III of the Comprehensive Employment and Training Act on the date of enactment of this section would be appointed as disabled veterans’ outreach program specialists in the State in which such individual was so serving, unless the Secretary for good cause shown determined that such individual was not qualified for such appointment, was struck out.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–288, §4(b)(3), Nov. 7, 2002, 116 Stat. 2044, provided that: “The amendments made by this subsection \[amending this section and section 4104 of this title\] shall take effect on the date of the enactment of this Act \[Nov. 7, 2002\], and apply for program years under chapter 41 of title 38, United States Code, beginning on or after such date.”
+
 #### Effective Date of 1998 Amendments
 
 Pub. L. 105–368, title X, §1004(b), Nov. 11, 1998, 112 Stat. 3364, provided that: “The amendments made by this section \[amending this section\] shall apply with respect to appointments of disabled veterans’ outreach program specialists under section 4103A of title 38, United States Code, on or after the date of the enactment of this Act \[Nov. 11, 1998\].”
@@ -128,7 +104,5 @@ Section effective Oct. 1, 1980, see section 802(e) of Pub. L. 96–466, set out 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3117, 3672, 4102A, 4104A, 4106, 4107 of this title; title 29 section 2913.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 3672, 4102A of this title; title 29 section 2913.
 

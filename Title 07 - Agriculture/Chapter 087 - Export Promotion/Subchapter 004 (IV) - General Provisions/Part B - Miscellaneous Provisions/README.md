@@ -13,3 +13,5 @@ Part B—Miscellaneous Provisions
 - [&sect; 05676 - Limitation on use of certain export promotion programs](%C2%A7%2005676%20-%20Limitation%20on%20use%20of%20certain%20export%20promotion%20programs.md)
 - [&sect; 05677 - Trade compensation and assistance programs](%C2%A7%2005677%20-%20Trade%20compensation%20and%20assistance%20programs.md)
 - [&sect; 05678 - Edward R. Madigan United States Agricultural Export Excellence Award](%C2%A7%2005678%20-%20Edward%20R.%20Madigan%20United%20States%20Agricultural%20Export%20Excellence%20Award.md)
+- [&sect; 05679 - Biotechnology and agricultural trade program](%C2%A7%2005679%20-%20Biotechnology%20and%20agricultural%20trade%20program.md)
+- [&sect; 05680 - Technical assistance for specialty crops](%C2%A7%2005680%20-%20Technical%20assistance%20for%20specialty%20crops.md)

@@ -4,7 +4,7 @@
 
 &emsp;(1) postage on, and fees and charges in connection with, mail matter sent through the mails—
 
-&emsp;&emsp;(A) under the franking privilege (other than under section 3219 of this title), by the Vice President, Members of and Members-elect to Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, each of the elected officers of the House of Representatives (other than a Member of the House), the Legislative Counsels of the House of Representatives and the Senate, the Law Revision Counsel of the House of Representatives, and the Senate Legal Counsel; and
+&emsp;&emsp;(A) under the franking privilege (other than under section 3219 of this title), by the Vice President, Members of and Members-elect to Congress, the Secretary of the Senate, the Sergeant at Arms of the Senate, each of the elected officers of the House of Representatives (other than a Member of the House), the Legislative Counsels of theHouse of Representatives and the Senate, the Law Revision Counsel of the House of Representatives, and the Senate Legal Counsel; and
 
 &emsp;&emsp;(B) by the survivors of a Member of Congress under section 3218 of this title; and
 
@@ -44,7 +44,7 @@ Subsec. (e). Pub. L. 101–163, §317, added subsec. (e).
 
 1974—Subsec. (a). Pub. L. 93–255 struck out “, and the printed words ‘Postage paid by Congress’ ” at end of last sentence.
 
-1973—Subsec. (a). Pub. L. 93–191 incorporated existing text in provisions designated as par. (1)(A) and (B), substituted in subpar. (a) reference to elected officers of House of Representatives (other than a Member ofHouse) for former references to Clerk of House of Representatives and Sergeant at Arms of House of Representatives, included in subpar. (A) reference to Legislative Counsel of Senate, added par. (2) and provision for the sender's signature, or facsimile thereof, and printed words “Postage paid by Congress” in upper right-hand corner on transmitted franked mail.
+1973—Subsec. (a). Pub. L. 93–191 incorporated existing text in provisions designated as par. (1)(A) and (B), substituted in subpar. (a) reference to elected officers of House of Representatives (other than a Member of House) for former references to Clerk of House of Representatives and Sergeant at Arms of House of Representatives, included in subpar. (A) reference to Legislative Counsel of Senate, added par. (2) and provision for the sender's signature, or facsimile thereof, and printed words “Postage paid by Congress” in upper right-hand corner on transmitted franked mail.
 
 Subsec. (b). Pub. L. 93–191 added subsec. (b). Former subsec. (b), which provided that the postage on mail matter sent through the mails under the franking privilege by former Presidents shall be paid by reimbursement of the postal revenues each fiscal year out of the general funds of the Treasury in an amount equivalent to the postage which would otherwise be payable on the mail matter, was struck out.
 

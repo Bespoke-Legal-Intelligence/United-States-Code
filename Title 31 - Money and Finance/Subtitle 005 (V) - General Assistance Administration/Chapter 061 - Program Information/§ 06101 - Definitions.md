@@ -316,7 +316,7 @@ Authority To Grant Exception.—The regulations issued pursuant to subsection (a
 
 Definitions.—In this section:
 
-&emsp;“(1) The term ‘procurement activities’ means all acquisition programs and activities of the Federal Government, as defined in the Federal Acquisition Regulation.
+&emsp;“(1) The term ‘procurement activities’ means all acquisition programs and activities of the FederalGovernment, as defined in the Federal Acquisition Regulation.
 
 &emsp;“(2) The term ‘nonprocurement activities’ means all programs and activities involving Federal financial and nonfinancial assistance and benefits, as covered by Executive Order No. 12549 and the Office of Management and Budget guidelines implementing that order.
 

@@ -1,6 +1,6 @@
 ### §1259. Training grants and contracts
 
-(a) The Administrator is authorized to make grants to or contracts with institutions of higher education, or combinations of such institutions, to assist them in planning, developing, strengthening, improving, or carrying out programs or projects for the preparation of undergraduate students to enter an occupation which involves the design, operation, and maintenance of treatment works, and other facilities whose purpose is water quality control. Such grants or contracts may include payment of all or part of the cost of programs or projects such as—
+(a) The Administrator is authorized to make grants to or contracts with institutions of higher education, or combinations of such institutions, to assist them in planning, developing,strengthening, improving, or carrying out programs or projects for the preparation of undergraduate students to enter an occupation which involves the design, operation, and maintenance of treatment works, and other facilities whose purpose is water quality control. Such grants or contracts may include payment of all or part of the cost of programs or projects such as—
 
 &emsp;(A) planning for the development or expansion of programs or projects for training persons in the operation and maintenance of treatment works;
 
@@ -40,5 +40,5 @@ Subsec. (b)(4). Pub. L. 95–217, §10(b), added par. (4).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1260, 1262 of this title.
+This section is referred to in sections 1260, 1262, 1375 of this title.
 

@@ -20,15 +20,15 @@
 
 #### Amendments
 
-<b>1992</b>—Subsec. (b)(6). Pub. L. 102–572 added par. (6).
+1992—Subsec. (b)(6). Pub. L. 102–572 added par. (6).
 
-<b>1988</b>—Subsec. (b)(3). Pub. L. 100–702 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government, including, but not limited to, judges, clerks of court, probation officers, and United States magistrates;”.
+1988—Subsec. (b)(3). Pub. L. 100–702 amended par. (3) generally. Prior to amendment, par. (3) read as follows: “to stimulate, create, develop, and conduct programs of continuing education and training for personnel of the judicial branch of the Government, including, but not limited to, judges, clerks of court, probation officers, and United States magistrates;”.
 
-<b>1986</b>—Subsec. (b)(3). Pub. L. 99–336 struck out “referees,” after “judges,” and substituted “magistrates” for “commissioners”.
+1986—Subsec. (b)(3). Pub. L. 99–336 struck out “referees,” after “judges,” and substituted “magistrates” for “commissioners”.
 
-<b>1984</b>—Subsec. (b)(5). Pub. L. 98–620 added par. (5).
+1984—Subsec. (b)(5). Pub. L. 98–620 added par. (5).
 
-<b>1978</b>—Subsec. (b)(3). Pub. L. 95–598 directed the amendment of par. (3) by striking out “referees,” and by substituting “magistrates” for “commissioners”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Subsec. (b)(3). Pub. L. 95–598 directed the amendment of par. (3) by striking out “referees,” and by substituting “magistrates” for “commissioners”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 #### Change of Name
 
@@ -48,7 +48,7 @@ Amendment by Pub. L. 98–620 effective Oct. 1, 1985, see section 216 of Pub. L.
 
 #### Study of Intercircuit Conflicts and Structural Alternatives for Courts of Appeals by Federal Judicial Center
 
-Pub. L. 101–650, title III, §302, Dec. 1, 1990, 104 Stat. 5104, as amended by Pub. L. 102–572, title V, §502(c), Oct. 29, 1992, 106 Stat. 4513, directed Board of the Federal Judicial Center to conduct study and submit report to Congress by Jan. 1, 1992, on number and frequency of conflicts among judicial circuits in interpreting law that remain unresolved because they are not heard by the Supreme Court, and further directed Board to study full range of structural alternatives for Federal Courts of Appeals and submit report on the study to Congress and Judicial Conference of the United States, no later than 2 years and 9 months after Dec. 1, 1990.
+Pub. L. 101–650, title III, §302, Dec. 1, 1990, 104 Stat. 5104, as amended by Pub. L. 102–572, title V, §502(c), Oct.29, 1992, 106 Stat. 4513, directed Board of the Federal Judicial Center to conduct study and submit report to Congress by Jan. 1, 1992, on number and frequency of conflicts among judicial circuits in interpreting law that remain unresolved because they are not heard by the Supreme Court, and further directed Board to study full range of structural alternatives for Federal Courts of Appeals and submit report on the study to Congress and Judicial Conference of the United States, no later than 2 years and 9 months after Dec. 1, 1990.
 
 #### Section Referred to in Other Sections
 

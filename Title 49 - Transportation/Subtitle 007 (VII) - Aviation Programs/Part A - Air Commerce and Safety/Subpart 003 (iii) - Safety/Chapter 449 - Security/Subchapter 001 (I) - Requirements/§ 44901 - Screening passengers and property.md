@@ -16,7 +16,7 @@ Checked Baggage.—A system must be in operation to screen all checked baggage a
 
 Explosive Detection Systems.—
 
-&emsp;(1) <sup>1</sup>
+&emsp;(1)
 
 In general.—The Under Secretary of Transportation for Security shall take all necessary action to ensure that—
 
@@ -25,6 +25,44 @@ In general.—The Under Secretary of Transportation for Security shall take all 
 &emsp;&emsp;(B) all systems deployed under subparagraph (A) are fully utilized; and
 
 &emsp;&emsp;(C) if explosive detection equipment at an airport is unavailable, all checked baggage is screened by an alternative means.
+
+&emsp;(2)
+
+Deadline.—
+
+&emsp;&emsp;(A)
+
+In general.—If, in his discretion or at the request of an airport, the Under Secretary of Transportation for Security determines that the Transportation Security Administration is not able to deploy explosive detection systems required to be deployed under paragraph (1) at all airports where explosive detection systems are required by December 31, 2002, then with respect to each airport for which the Under Secretary makes that determination—
+
+&emsp;&emsp;&emsp;(i) the Under Secretary shall submit to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure a detailed plan (which may be submitted in classified form) for the deployment of the number of explosive detection systems at that airport necessary to meet the requirements of paragraph (1) as soon as practicable at that airport but in no event later than December 31, 2003; and
+
+&emsp;&emsp;&emsp;(ii) the Under Secretary shall take all necessary action to ensure that alternative means of screening all checked baggage is implemented until the requirements of paragraph (1) have been met.
+
+&emsp;&emsp;(B)
+
+Criteria for determination.—In making a determination under subparagraph (A), the Under Secretary shall take into account—
+
+&emsp;&emsp;&emsp;(i) the nature and extent of the required modifications to the airport's terminal buildings, and the technical, engineering, design and construction issues;
+
+&emsp;&emsp;&emsp;(ii) the need to ensure that such installations and modifications are effective; and
+
+&emsp;&emsp;&emsp;(iii) the feasibility and cost-effectiveness of deploying explosive detection systems in the baggage sorting area or other non-public area rather than the lobby of an airport terminal building.
+
+&emsp;&emsp;(C)
+
+Response.—The Under Secretary shall respond to the request of an airport under subparagraph (A) within 14 days of receiving the request. A denial of request shall create no right of appeal or judicial review.
+
+&emsp;&emsp;(D)
+
+Airport effort required.—Each airport with respect to which the Under Secretary makes a determination under subparagraph (A) shall—
+
+&emsp;&emsp;&emsp;(i) cooperate fully with the Transportation Security Administration with respect to screening checked baggage and changes to accommodate explosive detection systems; and
+
+&emsp;&emsp;&emsp;(ii) make security projects a priority for the obligation or expenditure of funds made available under chapter 417 or 471 until explosive detection systems required to be deployed under paragraph (1) have been deployed at that airport.
+
+&emsp;(3)
+
+Reports.—Until the Transportation Security Administration has met the requirements of paragraph (1), the Under Secretary shall submit a classified report every 30 days after the date of enactment of this Act to the Senate Committee on Commerce, Science, and Transportation and the House of Representatives Committee on Transportation and Infrastructure describing the progress made toward meeting such requirements at each airport.
 
 (e)
 
@@ -52,7 +90,7 @@ In general.—The Under Secretary shall order the deployment of law enforcement 
 
 &emsp;(2)
 
-Minimum requirements.—Except at airports required to enter into agreements under subsection (c), the Under Secretary shall order the deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Under Secretary shall order the deployment of additional law enforcement personnel at airport security screening locations if the Under Secretary determines that the additional deployment is necessary to ensure passenger safety and national security.
+Minimum requirements.—Except at airports required to enter into agreements undersubsection (c), the Under Secretary shall order the deployment of at least 1 law enforcement officer at each airport security screening location. At the 100 largest airports in the United States, in terms of annual passenger enplanements for the most recent calendar year for which data are available, the Under Secretary shall order the deployment of additional law enforcement personnel at airport security screening locations if the Under Secretary determines that the additional deployment is necessary to ensure passenger safety and national security.
 
 (h)
 
@@ -60,9 +98,9 @@ Exemptions and Advising Congress on Regulations.—The Under Secretary—
 
 &emsp;(1) may exempt from this section air transportation operations, except scheduled passenger operations of an air carrier providing air transportation under a certificate issued under section 41102 of this title or a permit issued under section 41302 of this title; and
 
-&emsp;(2) shall advise Congress of a regulation to be prescribed under this section at least 30days before the effective date of the regulation, unless the Under Secretary decides an emergency exists requiring the regulation to become effective in fewer than 30 days and notifies Congress of that decision.
+&emsp;(2) shall advise Congress of a regulation to be prescribed under this section at least 30 days before the effective date of the regulation, unless the Under Secretary decides an emergency exists requiring the regulation to become effective in fewer than 30 days and notifies Congress of that decision.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1204; Pub. L. 107–71, title I, §§101(f)(7), 110(b), Nov. 19, 2001, 115 Stat. 603, 614.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1204; Pub. L. 107–71, title I, §§101(f)(7), 110(b), Nov. 19, 2001, 115 Stat. 603, 614; Pub. L. 107–296, title IV, §425, Nov. 25, 2002, 116 Stat. 2185.)
 
 Historical and Revision Notes
 
@@ -106,7 +144,11 @@ In subsection (c)(2), the words “or amendments thereto” and “or amendments
 
 The date of enactment of the Aviation and Transportation Security Act, referred to in subsecs. (c), (e), and (f), is the date of enactment of Pub. L. 107–71, which was approved Nov. 19, 2001.
 
+The date of enactment of this Act, referred to in subsec. (d)(3), probably means the date of enactment of Pub. L. 107–296, which enacted subsec. (d)(2), (3) of this section and was approved Nov. 25, 2002.
+
 #### Amendments
+
+2002—Subsec. (d)(2), (3). Pub. L. 107–296 added pars. (2) and (3).
 
 2001—Subsec. (a). Pub. L. 107–71, §110(b)(2), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “The Administrator of the Federal Aviation Administration shall prescribe regulations requiring screening of all passengers and property that will be carried in a cabin of an aircraft in air transportation or intrastate air transportation. The screening must take place before boarding and be carried out by a weapon-detecting facility or procedure used or operated by an employee or agent of an air carrier, intrastate air carrier, or foreign air carrier.”
 
@@ -119,6 +161,10 @@ Pub. L. 107–71, §101(f)(7), substituted “Under Secretary” for “Administ
 Subsec. (d) to (g). Pub. L. 107–71, §110(b)(2), added subsecs. (d) to (g).
 
 Subsec. (h). Pub. L. 107–71, §110(b)(1), redesignated subsec. (c) as (h).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Savings Provision
 
@@ -134,7 +180,7 @@ Legal Documents.—All orders, determinations, rules, regulations, permits, gran
 
 &emsp;“(1) that have been issued, made, granted, or allowed to become effective by the Federal Aviation Administration, any officer or employee thereof, or any other Government official, or by a court of competent jurisdiction, in the performance of any function that is transferred by this Act; and
 
-&emsp;“(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date), shall continue in effect according to their terms until modified, terminated, superseded, set aside, or revoked in accordance with law by the Under Secretary of Transportation for Security, any other authorized official, a court of competent jurisdiction, or operation of law.
+&emsp;“(2) that are in effect on the effective date of such transfer (or become effective after such date pursuant to their terms as in effect on such effective date), shall continue in effect according to their terms untilmodified, terminated, superseded, set aside, or revoked in accordance with law by the Under Secretary of Transportation for Security, any other authorized official, a court of competent jurisdiction, or operation of law.
 
 “(c)
 
@@ -162,7 +208,7 @@ In general.—This Act shall not affect suits commenced before the date of the e
 
 &emsp;“(2)
 
-Suits by or against faa.—Any suit by or against the Federal Aviation Administration begunbefore the date of the enactment of this Act shall be continued, insofar as it involves a function retained and transferred under this Act, with the Transportation Security Administration (to the extent the suit involves functions transferred to the Transportation Security Administration under this Act) substituted for the Federal Aviation Administration.
+Suits by or against faa.—Any suit by or against the Federal Aviation Administration begun before the date of the enactment of this Act shall be continued, insofar as it involves a function retained and transferred under this Act, with the Transportation Security Administration (to the extent the suit involves functions transferred to the Transportation Security Administration under this Act) substituted for the Federal Aviation Administration.
 
 &emsp;“(3)
 
@@ -179,6 +225,10 @@ Exercise of Authorities.—Except as otherwise provided by law, an officer or em
 “(g)
 
 Act Defined.—In this section, the term ‘Act’ includes the amendments made by this Act.”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Transition Provisions
 
@@ -222,7 +272,7 @@ In general.—Not later than 1 year after the date of enactment of this Act \[No
 
 “(2)
 
-Certification to Congress.—Not later than 1 year after the date of enactment of this Act, the Under Secretary shall transmit to Congress a certification that the requirement of paragraph (1) has been met.”
+Certification to congress.—Not later than 1 year after the date of enactment of this Act, the Under Secretary shall transmit to Congress a certification that the requirement of paragraph (1) has been met.”
 
 #### Reports
 
@@ -280,7 +330,5 @@ For definitions of terms used in sections 101(g) and 110(c), (d), of Pub. L. 107
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 114, 40109, 40119, 44902, 44915, 44919, 44920, 44935, 44936, 44938, 44940, 46314 of this title.
-
-<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+This section is referred to in sections 106, 114, 40109, 44902, 44915, 44919, 44920, 44935, 44936, 44938, 44940, 46314 of this title; title 6 section 233.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The United States Government shall seek the consent of the owner or the operator, occupant, or agent in charge of the premises to be inspected prior to any inspection referred to in section 6724(a) of this title. If consent is obtained, a warrant is not required for the inspection. The owner or the operator, occupant, or agent in charge of the premises to be inspected may withhold consent for any reason or no reason. After providing notification pursuant tosubsection (b) of this section, the United States Government may seek a search warrant from a United States magistrate judge. Proceedings regarding the issuance of a search warrant shall be conducted ex parte, unless otherwise requested by the United States Government.
+The United States Government shall seek the consent of the owner or the operator, occupant, or agent in charge of the premises to be inspected prior to any inspection referred to in section 6724(a) of this title. If consent is obtained, a warrant is not required for the inspection. The owner or the operator, occupant, or agent in charge of the premises to be inspected may withhold consent for any reason or no reason. After providing notification pursuant to subsection (b) of this section, the United States Government may seek a search warrant from a United States magistrate judge. Proceedings regarding the issuance of a search warrant shall be conducted ex parte, unless otherwise requested by the United States Government.
 
 #### (b) Routine inspections
 
@@ -20,7 +20,7 @@ The United States Government shall seek the consent of the owner or the operator
 
 &emsp;&emsp;(C) the purpose of the inspection is—
 
-&emsp;&emsp;&emsp;(i) in the case of any facility owned or operated by a non-Government entity related to Schedule 1 chemical agents, to verify that the facility is not used to produce any Schedule 1 chemical agent except for declared chemicals; quantities of Schedule 1 chemicals produced, processed, or consumed are correctly declared and consistent with needs for the declared purpose; and Schedule 1 chemicals are not diverted or used for other purposes;
+&emsp;&emsp;&emsp;(i) in the case of any facility owned or operated by a non-Government entity related to Schedule 1 chemical agents, to verify that the facility is not used toproduce any Schedule 1 chemical agent except for declared chemicals; quantities of Schedule 1 chemicals produced, processed, or consumed are correctly declared and consistent with needs for the declared purpose; and Schedule 1 chemicals are not diverted or used for other purposes;
 
 &emsp;&emsp;&emsp;(ii) in the case of any facility related to Schedule 2 chemical agents, to verify that activities are in accordance with obligations under the Convention and consistent with the information provided in data declarations; and
 

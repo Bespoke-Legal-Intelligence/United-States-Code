@@ -40,7 +40,7 @@ The Commission, by such rules, regulations, and orders as it considers necessary
 
 #### (1) Payment of penalty to Treasury
 
-&emsp;A penalty imposed under this section shall (subject to subsection (e) of this section) be payable into the Treasury of the United States.
+&emsp;A penalty imposed under this section shall (subject to subsection (e) of this section) be payable into the Treasury of the United States, except as otherwise provided in section 7246 of this title.
 
 #### (2) Collection of penalties
 
@@ -60,7 +60,7 @@ The Commission, by such rules, regulations, and orders as it considers necessary
 
 #### (e) Authority to award bounties to informants
 
-Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid from amounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatory agency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review.
+Notwithstanding the provisions of subsection (d)(1) of this section, there shall be paid fromamounts imposed as a penalty under this section and recovered by the Commission or the Attorney General, such sums, not to exceed 10 percent of such amounts, as the Commission deems appropriate, to the person or persons who provide information leading to the imposition of such penalty. Any determinations under this subsection, including whether, to whom, or in what amount to make payments, shall be in the sole discretion of the Commission, except that no such payment shall be made to any member, officer, or employee of any appropriate regulatory agency, the Department of Justice, or a self-regulatory organization. Any such determination shall be final and not subject to judicial review.
 
 #### (f) Definition
 
@@ -70,7 +70,7 @@ For purposes of this section, “profit gained” or “loss avoided” is the d
 
 The authority of the Commission under this section with respect to security-based swap agreements (as defined in section 206B of the Gramm-Leach-Bliley Act) shall be subject to the restrictions and limitations of section 78c–1(b) of this title.
 
-(June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4), title III, §303(k), (<i>l</i>)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456, 2763A–457.)
+(June 6, 1934, ch. 404, title I, §21A, as added Pub. L. 100–704, §3(a)(2), Nov. 19, 1988, 102 Stat. 4677; amended Pub. L. 101–429, title II, §202(b), Oct. 15, 1990, 104 Stat. 938; Pub. L. 106–554, §1(a)(5) \[title II, §205(a)(4), title III, §303(k), (<i>l</i>)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–426, 2763A–456, 2763A–457; Pub. L. 107–204, title III, §308(d)(2), July 30, 2002, 116 Stat. 785.)
 
 #### References in Text
 
@@ -79,6 +79,8 @@ This chapter, referred to in subsecs. (a) and (d)(4), (5), was in the original �
 Section 206B of the Gramm-Leach-Bliley Act, referred to in subsecs. (a)(1) and (g), is section 206B of Pub. L. 106–102, which is set out in a note under section 78c of this title.
 
 #### Amendments
+
+2002—Subsec. (d)(1). Pub. L. 107–204 inserted “, except as otherwise provided in section 7246 of this title” before period at end.
 
 2000—Subsec. (a)(1). Pub. L. 106–554, §1(a)(5) \[title III, §303(k)\], inserted “or security-based swap agreement (as defined in section 206B of the Gramm-Leach-Bliley Act)” after “purchasing or selling a security” in introductory provisions.
 

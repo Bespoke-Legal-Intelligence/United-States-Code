@@ -74,7 +74,7 @@ Deadline.—The letter of credit, or surety bond, or other suitable credit facil
 
 &emsp;(2)
 
-Guarantee of air carrier access.—Contingent upon an air carrier's compliance with the requirements of paragraph (1) and pending the issuance of a final order by the Secretary determining the reasonableness of a fee that is the subject of a complaint filed under subsection (a)(1)(B), an owner or operator of an airport may not deny an air carrier currently providing air service at the airport reasonable access to airport facilities or service, or otherwise interfere with an air carrier's prices,routes, or services, as a means of enforcing the fee.
+Guarantee of air carrier access.—Contingent upon an air carrier's compliance with the requirements of paragraph (1) and pending the issuance of a final order by the Secretary determining the reasonableness of a fee that is the subject of a complaint filed under subsection (a)(1)(B), an owner or operator of an airport may not deny an air carrier currently providing air service at the airport reasonable access to airport facilities or service, or otherwise interfere with an air carrier's prices, routes, or services, as a means of enforcing the fee.
 
 (e)
 

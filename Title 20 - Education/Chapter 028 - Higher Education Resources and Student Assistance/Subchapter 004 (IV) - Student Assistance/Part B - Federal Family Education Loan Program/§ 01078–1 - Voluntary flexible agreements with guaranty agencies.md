@@ -12,7 +12,7 @@
 
 #### (2) Special rule
 
-&emsp;If the Secretary grants a waiver pursuant to paragraph (1)(B), any guaranty agency doingbusiness within the affected State or States may request, and the Secretary shall grant, an identical waiver to such guaranty agency under the same terms and conditions (including service area limitations) as govern the original waiver.
+&emsp;If the Secretary grants a waiver pursuant to paragraph (1)(B), any guaranty agency doing business within the affected State or States may request, and the Secretary shall grant, an identical waiver to such guaranty agency under the same terms and conditions (including service area limitations) as govern the original waiver.
 
 #### (3) Eligibility
 
@@ -20,7 +20,7 @@
 
 #### (4) Report required
 
-&emsp;Not later than September 30, 2001, the Secretary shall report to the Committee on Labor and Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives regarding the impact that the voluntary flexible agreements have had upon program integrity, program and cost efficiencies, and the availability and delivery of student financial aid. Such report shall include—
+&emsp;Not later than September 30, 2001, the Secretary shall report to the Committee on Laborand Human Resources of the Senate and the Committee on Education and the Workforce of the House of Representatives regarding the impact that the voluntary flexible agreements have had upon program integrity, program and cost efficiencies, and the availability and delivery of student financial aid. Such report shall include—
 
 &emsp;&emsp;(A) a description of each voluntary flexible agreement and the performance goals established by the Secretary for each agreement;
 

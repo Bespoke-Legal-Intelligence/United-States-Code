@@ -18,7 +18,7 @@
 
 #### (B) Crops specifically included
 
-&emsp;&emsp;The term “eligible crop” shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seed crops, aquaculture (including ornamental fish), and industrial crops.
+&emsp;&emsp;The term “eligible crop” shall include floricultural, ornamental nursery, and Christmas tree crops, turfgrass sod, seedcrops, aquaculture (including ornamental fish), sea grass and sea oats, and industrial crops.
 
 #### (C) Combination of similar types or varieties
 
@@ -26,7 +26,7 @@
 
 #### (3) Cause of loss
 
-&emsp;To qualify for assistance under this section, the losses of the noninsured commodity shallbe due to drought, flood, or other natural disaster, as determined by the Secretary.
+&emsp;To qualify for assistance under this section, the losses of the noninsured commodity shall be due to drought, flood, or other natural disaster, as determined by the Secretary.
 
 #### (b) Application for noninsured crop disaster assistance
 
@@ -102,7 +102,7 @@ The Secretary shall make available to a producer eligible for noninsured assista
 
 #### (i) Documentation
 
-&emsp;&emsp;&emsp;If sufficient data are available to demonstrate that the acreage of a crop in a county for the crop year has increased by more than 100 percent over any year in the preceding 7 crop years or, if data are not available, if the acreage of the crop in the county has increased significantly from the previous crop years, a producer must provide such detailed documentation of production costs, acres planted, and yield for the crop year for which benefits are being claimed as is required by the Secretary. If the Secretary determines that the documentation provided is not sufficient, the Secretary may require documenting proof that the crop, had the crop been harvested, could have been marketed at a reasonable price.
+&emsp;&emsp;&emsp;If sufficient data are available to demonstrate that the acreage of a crop in a county for the crop year has increased by more than 100 percent over any year in the preceding 7 crop years or, if data are not available, if the acreage of the crop in thecounty has increased significantly from the previous crop years, a producer must provide such detailed documentation of production costs, acres planted, and yield for the crop year for which benefits are being claimed as is required by the Secretary. If the Secretary determines that the documentation provided is not sufficient, the Secretary may require documenting proof that the crop, had the crop been harvested, could have been marketed at a reasonable price.
 
 #### (ii) Prohibition
 
@@ -204,7 +204,7 @@ Noninsured crop disaster assistance under this section shall not cover losses du
 
 &emsp;The Secretary shall deposit service fees collected under this subsection in the Commodity Credit Corporation Fund.
 
-(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371.)
+(Pub. L. 104–127, title I, §196, Apr. 4, 1996, 110 Stat. 947; Pub. L. 105–277, div. A, §101(a) \[title VIII, §803(b)\], Oct. 21, 1998, 112 Stat. 2681, 2681–38; Pub. L. 106–224, title I, §109, June 20, 2000, 114 Stat. 371; Pub. L. 107–171, title X, §10101, May 13, 2002, 116 Stat. 488.)
 
 #### References in Text
 
@@ -217,6 +217,8 @@ Section 2266(a) of the Food, Agriculture, Conservation, and Trade Act of 1990, r
 Section is comprised of section 196 of Pub. L. 104–127. Subsec. (j) of section 196 of Pub. L. 104–127 repealed section 1519 of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(2)(B). Pub. L. 107–171 inserted “sea grass and sea oats,” after “fish),”.
 
 2000—Subsec. (a)(2)(C). Pub. L. 106–224, §109(a), added subpar. (C).
 
@@ -242,5 +244,5 @@ Section as in effect on day before June 20, 2000, to continue to apply with resp
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1506, 1508a, 1515, 1522 of this title.
+This section is referred to in sections 1506, 1508a, 1515, 1522, 7936 of this title.
 

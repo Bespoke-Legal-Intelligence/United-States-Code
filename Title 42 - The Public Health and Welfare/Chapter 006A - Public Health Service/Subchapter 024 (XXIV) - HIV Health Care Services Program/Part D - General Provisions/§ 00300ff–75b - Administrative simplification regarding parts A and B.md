@@ -2,7 +2,7 @@
 
 #### (a) Coordinated disbursement
 
-After consultation with the States, with eligible areas under part A of this subchapter, and with entities that receive amounts from grants under part A or B of this subchapter, the Secretary shall develop a plan for coordinating the disbursement of appropriations for grants under part A of this subchapter with the disbursement of appropriations for grants under part B of this subchapter in order to assist grantees and other recipients of amounts from such grants in complying with the requirements of such parts. The Secretary shall submit the plan to the Congress not later than 18 months after October 20, 2000. Not later than 2 years after the date on which the plan is so submitted, the Secretary shall complete the implementation of the plan, notwithstanding any provision of this subchapter that is inconsistent with the plan.
+After consultation with the States, with eligible areas under part A of this subchapter, andwith entities that receive amounts from grants under part A or B of this subchapter, the Secretary shall develop a plan for coordinating the disbursement of appropriations for grants under part A of this subchapter with the disbursement of appropriations for grants under part B of this subchapter in order to assist grantees and other recipients of amounts from such grants in complying with the requirements of such parts. The Secretary shall submit the plan to the Congress not later than 18 months after October 20, 2000. Not later than 2 years after the date on which the plan is so submitted, the Secretary shall complete the implementation of the plan, notwithstanding any provision of this subchapter that is inconsistent with the plan.
 
 #### (b) Biennial applications
 

@@ -1,6 +1,6 @@
 ### §4103. Establishment of training programs
 
-(a) In order to assist in achieving an agency's mission and performance goals by improvingemployee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate a program or programs, and a plan or plans thereunder, for the training of employees in or under the agency by, in, and through Government facilities and non-Government facilities. Each program, and plan thereunder, shall—
+(a) In order to assist in achieving an agency's mission and performance goals by improving employee and organizational performance, the head of each agency, in conformity with this chapter, shall establish, operate, maintain, and evaluate a program or programs, and a plan or plans thereunder, for the training of employees in or under the agency by, in, and through Government facilities and non-Government facilities. Each program, and plan thereunder, shall—
 
 &emsp;(1) conform to the principles, standards, and related requirements contained in the regulations prescribed under section 4118 of this title;
 
@@ -80,15 +80,19 @@ Pub. L. 101–416, §1, Oct. 12, 1990, 104 Stat. 902, authorized a 90-day extens
 
 Pub. L. 99–424, Sept. 30, 1986, 100 Stat. 964, as amended by Pub. L. 101–87, Aug. 16, 1989, 103 Stat. 595, authorized President to establish an experimental program, to be conducted during fiscal years 1987 through 1990, under which voluntary services could be accepted by the Government, without regard to 31 U.S.C. 1342.
 
+#### Department of Homeland Security
+
+Exception from provisions of subsec. (a)(1) of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, §86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+
 #### Central Intelligence Agency
 
-Exception of Central Intelligence Agency from provisions of cl. (1) of this section and certain other provisions of this chapter, and section 1308 of this title, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
+Exception of Central Intelligence Agency from certain provisions of subsec. (a)(1) of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 
 #### Ex. Ord. No. 11348. Further Training of Government Employees
 
 Ex. Ord. No. 11348, Apr. 20, 1967, 32 F.R. 6335, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, provided:
 
-By virtue of the authority vested in me by section 301 of Title 3 of the United States Code and by section 2 ofthe Act of July 7, 1958 (72 Stat. 327), it is ordered as follows:
+By virtue of the authority vested in me by section 301 of Title 3 of the United States Code and by section 2 of the Act of July 7, 1958 (72 Stat. 327), it is ordered as follows:
 
 #### Part I—General
 
@@ -178,7 +182,7 @@ Sec. 501. Executive Order No. 10800 of January 15, 1959, is hereby revoked.
 
 #### Executive Order No. 11451
 
-Ex. Ord. No. 11451, Jan. 19, 1969, 34 F.R. 921, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055,which established the President's Commission on Personnel Interchange, was superseded by Ex. Ord. No. 12136, May 15, 1979, 44 F.R. 28771, formerly set out below.
+Ex. Ord. No. 11451, Jan. 19, 1969, 34 F.R. 921, as amended by Ex. Ord. No. 12107, Dec. 28, 1978, 44 F.R. 1055, which established the President's Commission on Personnel Interchange, was superseded by Ex. Ord. No. 12136, May 15, 1979, 44 F.R. 28771, formerly set out below.
 
 #### Executive Order No. 12136
 
@@ -216,7 +220,7 @@ George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13111. Using Technology To Improve Training Opportunities for Federal Government Employees
 
-Ex. Ord. No. 13111, Jan. 12, 1999, 64 F.R. 2793, as amended by Ex. Ord. No. 13188, Jan. 12, 2001, 66 F.R. 5419, provided:
+Ex. Ord. No. 13111, Jan. 12, 1999, 64 F.R. 2793, as amended by Ex. Ord. No. 13188, Jan. 12, 2001, 66 F.R. 5419; Ex. Ord. No. 13218, §3(a), June 20, 2001, 66 F.R. 33628, provided:
 
 Advances in technology and increased skills needs are changing the workplace at an ever increasing rate. These advances can make Federal employees more productive and provide improved service to our customers, the American taxpayers. We need to ensure that we continue to train Federal employees to take full advantage of these technological advances and to acquire the skills and learning needed to succeed in a changing workplace. A coordinated Federal effort is needed to provide flexible training opportunities to employees and to explore how Federal training programs, initiatives, and policies can better support lifelong learning through the use of learning technology.
 
@@ -224,7 +228,7 @@ To help us meet these goals, I am creating a task force on Federal training tech
 
 Therefore, by the authority vested in me as President by the Constitution and the laws of the United States of America, including the Federal Advisory Committee Act, as amended (5 U.S.C. App.), and in furtherance of the purposes of Chapter 41 of title 5, United States Code, the Government Employees Training Act of 1958 (Public Law 85–507 \[see Tables for classification\]), as amended, and Executive Order 11348, “Providing for the Further Training of Government Employees,” \[set out above\] and in order to make effective use of technology to improve training opportunities for Federal Government employees, it is ordered as follows:
 
-Section 1. <i>Establishment of the President's Task Force on Federal Training Technology</i>. (a) The “President's Task Force on Federal Training Technology” (Task Force) is established. The Task Force shall provide leadership regarding the effective use of technology in training and education; make training opportunities an integral part of continuing employment in the Federal Government; and facilitate the ongoing coordination of Federal activities concerning the use of technology in training. The Task Force shall consist of the heads of the following departments and agencies or their representatives: the Departments of State, the Treasury, Defense, Justice, Interior, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, Energy, and Education; the Office of Personnel Management, General Services Administration, Environmental Protection Agency, National Aeronautics and Space and Administration, Small Business Administration, and Social Security Administration; a representative from the Small Agency Council; and representatives from other relevant agencies and related Federal councils, as determined by the Chair and Vice Chair of the Task Force.
+Section 1. <i>Establishment of the President's Task Force on Federal Training Technology</i>. (a) The “President'sTask Force on Federal Training Technology” (Task Force) is established. The Task Force shall provide leadership regarding the effective use of technology in training and education; make training opportunities an integral part of continuing employment in the Federal Government; and facilitate the ongoing coordination of Federal activities concerning the use of technology in training. The Task Force shall consist of the heads of the following departments and agencies or their representatives: the Departments of State, the Treasury, Defense, Justice, Interior, Agriculture, Commerce, Labor, Health and Human Services, Housing and Urban Development, Transportation, Energy, and Education; the Office of Personnel Management, General Services Administration, Environmental Protection Agency, National Aeronautics and Space and Administration, Small Business Administration, and Social Security Administration; a representative from the Small Agency Council; and representatives from other relevant agencies and related Federal councils, as determined by the Chair and Vice Chair of the Task Force.
 
 (b) Within 30 days of the date of this order, the head of each agency or council shall designate a senior official to serve as a representative to the Task Force. The representative shall report directly to the agency head or the President's Management Council member on the agency's or council's activities under this order.
 
@@ -234,7 +238,7 @@ Section 1. <i>Establishment of the President's Task Force on Federal Training Te
 
 (e) The Task Force member agencies shall provide any required staffing and funding, as appropriate.
 
-Sec. 2. <i>Duties of the Task Force</i>. (a) Within 18 months of the date of this order, the Task Force shall develop and recommend to the President, through the Assistant to the President for Economic Policy and the Assistant to the President for Science and Technology, a policy to make effective use of technology to improve training opportunities for Federal Government employees. The policy should promote and integrate the effective use of training technologies to create affordable and convenient training opportunities to improve Federal employee performance. The Task Force shall seek the views of experts from industry, academia, and Stateand local governments as the Task Force proceeds, as appropriate. Specifically, the Task Force shall:
+Sec. 2. <i>Duties of the Task Force</i>. (a) Within 18 months of the date of this order, the Task Force shall develop and recommend to the President, through the Assistant to the President for Economic Policy and the Assistant to the President for Science and Technology, a policy to make effective use of technology to improve training opportunities for Federal Government employees. The policy should promote and integrate the effective use of training technologies to create affordable and convenient training opportunities to improve Federal employee performance. The Task Force shall seek the views of experts from industry, academia, and State and local governments as the Task Force proceeds, as appropriate. Specifically, the Task Force shall:
 
 &emsp;(1) develop strategies to improve the efficiency and availability of training opportunities for Federal Government employees;
 
@@ -292,19 +296,17 @@ Sec. 5. <i>Establishment of Advisory Committee on Expanding Training Opportuniti
 
 The Advisory Committee on Expanding Training Opportunities (Committee) is established. The Committee shall consist of not more that 20 members appointed by the President from outside the Federal Government, including representatives of the research, education, labor, and training communities, information technology sector, and representatives from other critical sectors. The President shall designate Co-Chairs from among the members of the Committee.
 
-Sec. 6. <i>Functions of the Advisory Committee</i>. The Committee shall provide the President, through the Assistant to the President for Economic Policy and the Assistant to the President for Science and Technology (Assistants to the President), with: (a) an independent assessment of:
+Sec. 6. <i>Functions of the Advisory Committee</i>. The Committee shall provide the President, through the Secretary of Labor (who shall ensure the coordination of the activities of the Committee with the activities undertaken pursuant to sections 1 and 2 of the Executive Order on the 21st Century Workforce Initiative \[Ex. Ord. No. 13218, 29 U.S.C. 2801 note\]), an independent assessment of:
 
-&emsp;(1) progress made by the Federal Government in its use and integration of technology in training programs, particularly in the use of voluntary industry consensus-based commercial standards for training software and associated services;
+&emsp;(1) progress made by the Federal Government in its use and integration of technology in adult training programs, particularly in addressing the problems of adult illiteracy;
 
 &emsp;(2) how Federal Government programs, initiatives, and policies can encourage or accelerate training technology to provide more accessible, more timely, and more cost-effective training opportunities for all Americans;
 
-&emsp;(3) mechanisms for the Federal Government to encourage private sector investment in the development of high-quality instructional software and wider deployment and utilization of technology-mediated instruction so that all Americans may take advantage of the opportunities provided by learning technology; and
+&emsp;(3) mechanisms for the Federal Government to widely deploy and utilize technology-mediated instruction so all Americans may take advantage of opportunities provided by learning technology;
 
-&emsp;(4) the appropriate Federal Government role in research and development for learning technologies and their applications in order to develop high-quality training and education opportunities for all Americans;
+&emsp;(4) the appropriate Federal Government role in research and development for learning technologies and their applications in order to develop high-quality training and education opportunities for all Americans; and
 
-(b) an analysis of options for helping adult Americans finance the training and post-secondary education needed to upgrade skills and gain new knowledge. Options for financial mechanisms may include grants, tax incentives, low-interest loans, or other vehicles to make training and post-secondary education accessible to adults throughout their lifetimes; and
-
-(c) advice on other issues regarding emerging technologies in government training and financing training and post-secondary education for adult Americans as specified by the Assistants to the President.
+&emsp;(5) such other issues regarding emerging technologies in government training as specified by the Secretary of Labor.
 
 Sec. 7. <i>Administration of the Advisory Committee</i>. (a) To the extent permitted by law and subject to the availability of appropriations, the Office of Personnel Management shall provide the financial and administrative support for the Committee.
 
@@ -323,6 +325,4 @@ Sec. 8. <i>Definitions</i>. (a) As used in this order, the terms “agency,” �
 (b) The term “technology,” means any equipment or interconnected system or subsystem of equipment that is used in the automatic acquisition, storage, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information, including computers, ancillary equipment, software, firmware and similar procedures, services (including support services), and related resources. For purposes of the preceding sentence, equipment is used by an Executive agency if the equipment is used by the Executive agency directly or is used by a contractor under a contract with the Executive agency that requires the use of such equipment. The term “technology” does not include any equipment that is acquired by a Federal contractor incidental to a Federal contract.
 
 Sec. 9. <i>Judicial Review</i>. This order does not create any enforceable rights against the United States, its agencies, its officers, or any person.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

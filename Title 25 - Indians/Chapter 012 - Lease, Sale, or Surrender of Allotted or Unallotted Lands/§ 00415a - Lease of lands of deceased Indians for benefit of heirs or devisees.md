@@ -4,3 +4,7 @@ Restricted lands of deceased Indians may be leased under sections 415 to 415d of
 
 (Aug. 9, 1955, ch. 615, §2, 69 Stat. 539.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 415, 415b, 415c, 415d of this title.
+

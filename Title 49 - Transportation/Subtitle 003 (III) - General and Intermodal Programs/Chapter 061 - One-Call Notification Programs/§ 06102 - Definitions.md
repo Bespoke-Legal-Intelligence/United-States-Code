@@ -8,7 +8,7 @@ One-call notification system.—The term “one-call notification system” mean
 
 &emsp;(2)
 
-State one-call notification program.—The term “State one-call notification program” means the State statutes, regulations, orders, judicial decisions, and other elements of law and policy in effect in a State that establish the requirements for the operation of one-call notification systems in such State.
+State one-call notification program.—The term “State one-call notification program” means the State statutes, regulations, orders, judicial decisions, and other elementsof law and policy in effect in a State that establish the requirements for the operation of one-call notification systems in such State.
 
 &emsp;(3)
 

@@ -6,7 +6,7 @@
 
 &emsp;(A) for the purpose of determining such individual's average pay, as defined by section 8331(4) or 8401(3) of title 5, whichever is applicable, the annual rate of basic pay for full-time service shall be deemed to be such individual's rate of basic pay; and
 
-&emsp;(B) the amount of such individual's annuity as computed under section 8339 or 8415 of title 5 (before application of any reduction required by subsection (i) of section 8339) shall be multiplied by the fraction equal to the ratio thatthat individual's total full-time equivalent service bears to that individual's creditable service as determined under section 8332 or 8411 of title 5, whichever is applicable.
+&emsp;(B) the amount of such individual's annuity as computed under section 8339 or 8415 of title 5 (before application of any reduction required by subsection (i) of section 8339) shall be multiplied by the fraction equal to the ratio that that individual's total full-time equivalent service bears to that individual's creditable service as determined under section 8332 or 8411 of title 5, whichever is applicable.
 
 (2) For the purposes of paragraph (1)(B), an individual's full-time equivalent service is the individual's creditable service as determined under section 8332 or 8411 of title 5, whichever is applicable, except that any period of service of such individual served on a less-than-full-time basis shall be prorated based on the fraction such service bears to full-time service. For the purposes of the preceding sentence, full-time service shall be considered to be 80 hours of service per biweekly pay period.
 

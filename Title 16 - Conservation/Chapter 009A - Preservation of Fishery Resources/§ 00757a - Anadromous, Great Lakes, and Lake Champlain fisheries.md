@@ -4,9 +4,11 @@
 
 For the purpose of conserving, developing, and enhancing within the several States the anadromous fishery resources of the Nation that are subject to depletion from water resources developments and other causes, or with respect to which the United States has made conservation commitments by international agreements, and for the purpose of conserving, developing, and enhancing the fish in the Great Lakes and Lake Champlain that ascend streams to spawn, the Secretary of the Interior is authorized to enter into cooperative agreements with one or more States, acting jointly or severally, that are concerned with the development, conservation, and enhancement of such fish, and, whenever he deems it appropriate, with other non-Federal interests. Such agreements shall describe (1) the actions to be taken by the Secretary and the cooperating parties, (2) the benefits that are expected to be derived by the States and other non-Federal interests, (3) the estimated cost of these actions, (4) the share of such costs to be borne by the Federal Government and by the States and other non-Federal interests: <i>Provided</i>, That, except as provided in subsection (c) of this section, the Federal share, including the operation and maintenance costs of any facilities constructed by the Secretary pursuant to sections 757a to 757f of this title, which he annually determines to be a proper Federal cost, shall not exceed 50 per centum of such costs exclusive of the value of any Federal land involved: <i>Provided further</i>, That the non-Federal share may be in the form of real or personal property, the value of which will be determined by the Secretary, as well as money, (5) the term of the agreement, (6) the terms and conditions for disposing of any real or personal property acquired by the Secretary during or at the end of the term of the agreement, and (7) such other terms and conditions as he deems desirable.
 
-#### (b) Operation, management, and administration of property
+#### (b) Operation, management, and administration of property; research
 
-The Secretary may also enter into agreements with the States for the operation of any facilities and management and administration of any lands or interests therein acquired or facilities constructed pursuant to sections 757a to 757f of this title.
+(1) The Secretary may also enter into agreements with the States for the operation of any facilities and management and administration of any lands or interests therein acquired or facilities constructed pursuant to sections 757a to 757f of this title.
+
+(2) In carrying out responsibilities under this section, the Secretary shall conduct, promote, and encourage research in preparation for the implementation of the use of ecosystems and interspecies approaches to the conservation and management of anadromous and Great Lakes fishery resources.
 
 #### (c) Increase of Federal share
 
@@ -20,7 +22,7 @@ The Secretary may also enter into agreements with the States for the operation o
 
 &emsp;(C) the commission established by the Gulf States Marine Fisheries Compact (as consented to and approved by Public Law 81–66), approved May 19, 1949 (63 Stat. 70).
 
-(Pub. L. 89–304, §1, Oct. 30, 1965, 79 Stat. 1125; Pub. L. 91–249, §1, May 14, 1970, 84 Stat. 214; Pub. L. 93–362, §3(a), July 30, 1974, 88 Stat. 398; Pub. L. 95–464, Oct. 17, 1978, 92 Stat. 1278; Pub. L. 96–118, §1, Nov. 16, 1979, 93 Stat. 859; Pub. L. 97–453, §14(b)(1), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 98–44, title I, §104, July 12, 1983, 97 Stat. 216.)
+(Pub. L. 89–304, §1, Oct. 30, 1965, 79 Stat. 1125; Pub. L. 91–249, §1, May 14, 1970, 84 Stat. 214; Pub. L. 93–362, §3(a), July 30, 1974, 88 Stat. 398; Pub. L. 95–464, Oct. 17, 1978, 92 Stat. 1278; Pub. L. 96–118, §1, Nov. 16, 1979, 93 Stat. 859; Pub. L. 97–453, §14(b)(1), Jan. 12, 1983, 96 Stat. 2492; Pub. L. 98–44, title I, §104, July 12, 1983, 97 Stat. 216; Pub. L. 107–372, title III, §303(b), Dec. 19, 2002, 116 Stat. 3095.)
 
 #### References in Text
 
@@ -32,9 +34,11 @@ Public Law 81–66, May 19, 1949, 63 Stat. 70, referred to in subsec. (c)(2)(C),
 
 #### Amendments
 
+2002—Subsec. (b). Pub. L. 107–372 designated existing provisions as par. (1) and added par. (2).
+
 1983—Subsec. (c)(2). Pub. L. 98–44 substituted “resources, prepared by an interstate commission” for “resources”, substituted “up to 90 percent” for “90 percent”, and inserted provision defining interstate commission for purposes of this paragraph.
 
-Subsec. (c). Pub. L. 97–453 designated existing provisions as par. (1) and added par. 2.
+Subsec. (c). Pub. L. 97–453 designated existing provisions as par. (1) and added par. (2).
 
 1979—Subsec. (c). Pub. L. 96–118 struck out provisions respecting cost to Federal government of operation and maintenance of structures, devices, etc., constructed by States under cooperative agreements.
 
@@ -45,6 +49,10 @@ Subsec. (c). Pub. L. 97–453 designated existing provisions as par. (1) and add
 1970—Subsec. (a). Pub. L. 91–249, §1(a), made the Federal share of the cost of conservation, development and enhancement of the anadromous fishery resources subject to the provisions of subsec. (c) of this section.
 
 Subsec. (c). Pub. L. 91–249, §1(b), added subsec. (c).
+
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–372, title III, §301, Dec. 19, 2002, 116 Stat. 3094, provided that: “This title \[amending this section, sections 757d, 971h, 4101, 4107, and 5610 of this title, and provisions set out as a note under section 857–19 of Title 33, Navigation and Navigable Waters\] may be cited as the ‘Fisheries Conservation Act of 2002’.”
 
 #### Short Title of 1991 Amendment
 

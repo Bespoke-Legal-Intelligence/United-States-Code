@@ -36,7 +36,7 @@ Jury Trial Demand.—In a trial for criminal contempt for violating an injunctio
 
 (e)
 
-Venue.—A civil action under subsection (a) or (c) of this section may be brought in the judicial district in which the violation occurred or the defendant is found, resides, or does business. Process in the action may be served in any otherjudicial district in which the defendant resides or is found. A subpena for a witness in the action may be served in any judicial district.
+Venue.—A civil action under subsection (a) or (c) of this section may be brought in the judicial district in which the violation occurred or the defendant is found, resides, or does business. Process in the action may be served in any other judicial district in which the defendant resides or is found. A subpena for a witness in the action may be served in any judicial district.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1046.)
 

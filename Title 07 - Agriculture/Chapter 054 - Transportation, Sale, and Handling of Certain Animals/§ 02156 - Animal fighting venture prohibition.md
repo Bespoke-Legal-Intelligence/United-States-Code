@@ -1,12 +1,18 @@
 ### §2156. Animal fighting venture prohibition
 
-#### (a) Sponsoring or exhibiting animal in any fighting venture
+#### (a) Sponsoring or exhibiting an animal in an animal fighting venture
 
-It shall be unlawful for any person to knowingly sponsor or exhibit an animal in any animal fighting venture to which any animal was moved in interstate or foreign commerce.
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), it shall be unlawful for any person to knowingly sponsor or exhibit an animal in an animal fighting venture, if any animal in the venture was moved in interstate or foreign commerce.
+
+#### (2) Special rule for certain states
+
+&emsp;With respect to fighting ventures involving live birds in a State where it would not be in violation of the law, it shall be unlawful under this subsection for a person to sponsor or exhibit a bird in the fighting venture only if the person knew that any bird in the fighting venture was knowingly bought, sold, delivered, transported, or received in interstate or foreign commerce for the purpose of participation in the fighting venture.
 
 #### (b) Buying, selling, delivering, or transporting animals for participation in animal fighting venture
 
-It shall be unlawful for any person to knowingly sell, buy, transport, or deliver to another person or receive from another person for purposes of transportation, in interstate or foreign commerce, any dog or other animal for purposes of having the dog or other animal participate in an animal fighting venture.
+It shall be unlawful for any person to knowingly sell, buy, transport, deliver, or receive for purposes of transportation, in interstate or foreign commerce, any dog or other animal for purposes of having the dog or other animal participate in an animal fighting venture.
 
 #### (c) Use of Postal Service or other interstate instrumentality for promoting or furthering animal fighting venture
 
@@ -14,11 +20,11 @@ It shall be unlawful for any person to knowingly use the mail service of the Uni
 
 #### (d) Violation of State law
 
-Notwithstanding the provisions of subsections (a), (b), or (c) of this section, the activities prohibited by such subsections shall be unlawful with respect to fighting ventures involving live birds only if the fight is to take place in a State where it would be in violation of the laws thereof.
+Notwithstanding the provisions of subsection (c) of this section, the activities prohibited by such subsections shall be unlawful with respect to fighting ventures involving live birds only if the fight is to take place in a State where it would be in violation of the laws thereof.
 
 #### (e) Penalties
 
-Any person who violates subsection (a), (b), or (c) of this section shall be fined not more than $5,000 or imprisoned for not more than 1 year, or both, for each such violation.
+Any person who violates subsection (a), (b), or (c) of this section shall be fined not more than $15,000 or imprisoned for not more than 1 year, or both, for each such violation.
 
 #### (f) Investigation of violations by Secretary; assistance by other Federal agencies; issuance of search warrant; forfeiture; costs recoverable in forfeiture or civil action
 
@@ -34,7 +40,7 @@ For purposes of this section—
 
 &emsp;&emsp;(A) any movement between any place in a State to any place in another State or between places in the same State through another State; or
 
-&emsp;&emsp;(B) any movement from a foreign country into any State;
+&emsp;&emsp;(B) any movement from a foreign country into any State or from any State into any foreign country;
 
 &emsp;(3) the term “interstate instrumentality” means telegraph, telephone, radio, or television operating in interstate or foreign commerce;
 
@@ -48,15 +54,33 @@ For purposes of this section—
 
 The provisions of this chapter shall not supersede or otherwise invalidate any such State, local, or municipal legislation or ordinance relating to animal fighting ventures except in case of a direct and irreconcilable conflict between any requirements thereunder and this chapter or any rule, regulation, or standard hereunder.
 
-(Pub. L. 89–544, §26(a)–(h)(1), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117.)
+(Pub. L. 89–544, §26(a)–(h)(1), as added Pub. L. 94–279, §17, Apr. 22, 1976, 90 Stat. 421; amended Pub. L. 101–650, title III, §321, Dec. 1, 1990, 104 Stat. 5117; Pub. L. 107–171, title X, §§10302(a), 10303(a), May 13, 2002, 116 Stat. 491, 492.)
 
 #### Codification
 
 Section consists of subsecs. (a) to (h)(1) of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279. Subsec. (h)(2) of section 26 of Pub. L. 89–544, as added by Pub. L. 94–279, amended section 3001(a) of Title 39, Postal Service.
 
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171, §10302(a)(1), added subsec. (a) and struck out former subsec. (a) which read as follows: “It shall be unlawful for any person to knowingly sponsor or exhibit an animal in any animal fighting venture to which any animal was moved in interstate or foreign commerce.”
+
+Subsec. (b). Pub. L. 107–171, §10302(a)(2), substituted “deliver, or receive” for “or deliver to another person or receive from another person”.
+
+Subsec. (d). Pub. L. 107–171, §10302(a)(3), substituted “subsection (c) of this section” for “subsections (a), (b), or (c) of this section”.
+
+Subsec. (e). Pub. L. 107–171, §10303(a)(1), inserted heading and substituted “$15,000” for “$5,000” in text.
+
+Subsec. (g)(2)(B). Pub. L. 107–171, §10303(a)(2), inserted “or from any State into any foreign country” before semicolon.
+
 #### Change of Name
 
 “United States magistrate judge” substituted for “United States magistrate” in subsec. (f) pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of Title 28, Judiciary and Judicial Procedure.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–171, title X, §10302(b), May 13, 2002, 116 Stat. 492, provided that: “The amendments made by this section \[amending this section\] take effect 1 year after the date of enactment of this Act \[May 13, 2002\].”
+
+Pub. L. 107–171, title X, §10303(b), May 13, 2002, 116 Stat. 492, provided that: “The amendment made by this section \[amending this section\] takes effect 1 year after the date of enactment of this Act \[May 13, 2002\].”
 
 #### Section Referred to in Other Sections
 

@@ -278,7 +278,7 @@ Pub. L. 100–220, title IV, Dec. 29, 1987, 101 Stat. 1477, as amended by Pub. L
 
 “The Congress finds that—
 
-&emsp;“(1) the use of long plastic driftnets is a fishing technique that may result in the entanglement and death of enormous numbers of target and nontarget marine resources in the waters of the North Pacific Ocean, including the Bering Sea;
+&emsp;“(1) the use of long plastic driftnets is a fishing technique that may result in the entanglement and death of enormous numbers of target and nontargetmarine resources in the waters of the North Pacific Ocean, including the Bering Sea;
 
 &emsp;“(2) there is a pressing need for detailed and reliable information on the number of marine resources that become entangled and die in actively fished driftnets and in driftnets that are lost, abandoned, or discarded; and
 
@@ -294,7 +294,7 @@ Driftnet.—The term ‘driftnet’ means a gillnet composed of a panel of plast
 
 &emsp;“(2)
 
-Driftnet fishing.—The term ‘driftnet fishing’ means a fish-harvesting method in which a driftnet isplaced in water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
+Driftnet fishing.—The term ‘driftnet fishing’ means a fish-harvesting method in which a driftnet is placed in water and allowed to drift with the currents and winds for the purpose of entangling fish in the webbing.
 
 &emsp;“(3)
 
@@ -411,6 +411,8 @@ Report.—The Secretary shall transmit to the Congress not later than 18 months 
 #### “SEC. 4009. AUTHORIZATION OF APPROPRIATIONS.
 
 “There are authorized to be appropriated to the Department of Commerce and the Department of State, such sums as may be necessary to carry out the purposes of this title.”
+
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Section Referred to in Other Sections
 

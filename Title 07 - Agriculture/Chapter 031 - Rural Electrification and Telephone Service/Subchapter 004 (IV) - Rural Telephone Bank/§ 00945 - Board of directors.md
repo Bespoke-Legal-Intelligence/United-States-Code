@@ -62,7 +62,7 @@ The Telephone Bank Board shall prescribe bylaws, not inconsistent with law, regu
 
 #### (h) Meetings
 
-The Telephone Bank Board shall meet at such times and places as it may fix and determine,but shall hold at least four regularly scheduled meetings a year, and special meetings may be held on call in the manner specified in the bylaws of the telephone bank.
+The Telephone Bank Board shall meet at such times and places as it may fix and determine, but shall hold at least four regularly scheduled meetings a year, and special meetings may be held on call in the manner specified in the bylaws of the telephone bank.
 
 #### (i) Annual report
 

@@ -2,7 +2,7 @@
 
 Upon failure of the applicant to prosecute the application within six months after any action therein, of which notice has been given or mailed to the applicant, or within such shorter time, not less than thirty days, as fixed by the Director in such action, the application shall be regarded as abandoned by the parties thereto, unless it be shown to the satisfaction of the Director that such delay was unavoidable.
 
-(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 801; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,9 @@ The opening clause of the corresponding section of existing statute is omitted a
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+
+1999—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in two places.
 
 #### Effective Date of 1999 Amendment
 

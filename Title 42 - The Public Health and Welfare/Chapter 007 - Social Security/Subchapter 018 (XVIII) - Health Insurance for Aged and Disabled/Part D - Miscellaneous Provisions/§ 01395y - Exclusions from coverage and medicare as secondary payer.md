@@ -14,7 +14,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 &emsp;(E) in the case of research conducted pursuant to section 1320b–12 of this title, which is not reasonable and necessary to carry out the purposes of that section,
 
-&emsp;(F) in the case of screening mammography, which is performed more frequently than is covered under section 1395m(c)(2) of this title or which is not conducted by a facility described in section 1395m(c)(1)(B) of this title, in the case of screening pap smear and screening pelvic exam, which is performed more frequently than is provided under section1395x(nn) of this title, and, in the case of screening for glaucoma, which is performed more frequently than is provided under section 1395x(uu) of this title,
+&emsp;(F) in the case of screening mammography, which is performed more frequently than is covered under section 1395m(c)(2) of this title or which is not conducted by a facility described in section 1395m(c)(1)(B) of this title, in the case of screening pap smear and screening pelvic exam, which is performed more frequently than is provided under section 1395x(nn) of this title, and, in the case of screening for glaucoma, which is performed more frequently than is provided under section 1395x(uu) of this title,
 
 &emsp;(G) in the case of prostate cancer screening tests (as defined in section 1395x(<i>oo</i>) of this title), which are performed more frequently than is covered under such section,
 
@@ -54,13 +54,13 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 &emsp;(14) which are other than physicians’ services (as defined in regulations promulgated specifically for purposes of this paragraph), services described by section 1395x(s)(2)(K) of this title, certified nurse-midwife services, qualified psychologist services, and services of a certified registered nurse anesthetist, and which are furnished to an individual who is a patient of a hospital or critical access hospital by an entity other than the hospital or critical access hospital, unless the services are furnished under arrangements (as defined in section 1395x(w)(1) of this title) with the entity made by the hospital or critical access hospital;
 
-&emsp;(15)(A) which are for services of an assistant at surgery in a cataract operation (including subsequent insertion of an intraocular lens) unless, before the surgery is performed, the appropriate utilization and quality control peer review organization (under part B of subchapter XI of this chapter) or a carrier under section 1395u of this title has approved of the use of such an assistant in the surgical procedure based on the existence of a complicating medical condition, or
+&emsp;(15)(A) which are for services of an assistant at surgery in a cataract operation (including subsequent insertion of an intraocular lens) unless, before the surgery is performed, theappropriate utilization and quality control peer review organization (under part B of subchapter XI of this chapter) or a carrier under section 1395u of this title has approved of the use of such an assistant in the surgical procedure based on the existence of a complicating medical condition, or
 
 &emsp;(B) which are for services of an assistant at surgery to which section 1395w–4(i)(2)(B) of this title applies;
 
 &emsp;(16) in the case in which funds may not be used for such items and services under the Assisted Suicide Funding Restriction Act of 1997 \[42 U.S.C. 14401 et seq.\];
 
-&emsp;(17) where the expenses are for an item or service furnished in a competitive acquisition area (as established by the Secretary under section 1395w–3(a) of this title) by an entity other than an entity with which the Secretaryhas entered into a contract under section 1395w–3(b) of this title for the furnishing of such an item or service in that area, unless the Secretary finds that the expenses were incurred in a case of urgent need, or in other circumstances specified by the Secretary;
+&emsp;(17) where the expenses are for an item or service furnished in a competitive acquisition area (as established by the Secretary under section 1395w–3(a) of this title) by an entity other than an entity with which the Secretary has entered into a contract under section 1395w–3(b) of this title for the furnishing of such an item or service in that area, unless the Secretary finds that the expenses were incurred in a case of urgent need, or in other circumstances specified by the Secretary;
 
 &emsp;(18) which are covered skilled nursing facility services described in section 1395yy(e)(2)(A)(i) of this title and which are furnished to an individual who is a resident of a skilled nursing facility during a period in which the resident is provided covered post-hospital extended care services (or, for services described in section 1395x(s)(2)(D) of this title, which are furnished to such an individual without regard to such period), by an entity other than the skilled nursing facility, unless the services are furnished under arrangements (as defined in section 1395x(w)(1) of this title) with the entity made by the skilled nursing facility;
 
@@ -108,7 +108,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;A large group health plan (as defined in clause (iii)) may not take into accountthat an individual (or a member of the individual's family) who is covered under the plan by virtue of the individual's current employment status with an employer is entitled to benefits under this subchapter under section 426(b) of this title.
+&emsp;&emsp;&emsp;A large group health plan (as defined in clause (iii)) may not take into account that an individual (or a member of the individual's family) who is covered under the plan by virtue of the individual's current employment status with an employer is entitled to benefits under this subchapter under section 426(b) of this title.
 
 #### (ii) Exception for individuals with end stage renal disease
 
@@ -156,7 +156,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 #### (F) Limitation on beneficiary liability
 
-&emsp;&emsp;An individual who is entitled to benefits under this subchapter and is furnished an item or service for which such benefits are incorrectly paid is not liable for repayment of such benefits under this paragraph unless payment of such benefits was made to the individual.
+&emsp;&emsp;An individual who is entitled to benefits under this subchapter and is furnished anitem or service for which such benefits are incorrectly paid is not liable for repayment of such benefits under this paragraph unless payment of such benefits was made to the individual.
 
 #### (2) Medicare secondary payer
 
@@ -166,7 +166,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 &emsp;&emsp;&emsp;(i) payment has been made, or can reasonably be expected to be made, with respect to the item or service as required under paragraph (1), or
 
-&emsp;&emsp;&emsp;(ii) payment has been made, or can reasonably be expected to be made promptly (as determined in accordance with regulations) under a workmen's compensationlaw or plan of the United States or a State or under an automobile or liability insurance policy or plan (including a self-insured plan) or under no fault insurance.
+&emsp;&emsp;&emsp;(ii) payment has been made, or can reasonably be expected to be made promptly (as determined in accordance with regulations) under a workmen's compensation law or plan of the United States or a State or under an automobile or liability insurance policy or plan (including a self-insured plan) or under no fault insurance.
 
 > &emsp;&emsp;In this subsection, the term “primary plan” means a group health plan or large group health plan, to the extent that clause (i) applies, and a workmen's compensation law or plan, an automobile or liability insurance policy or plan (including a self-insured plan) or no fault insurance, to the extent that clause (ii) applies.
 
@@ -266,7 +266,7 @@ Notwithstanding any other provision of this subchapter, no payment may be made u
 
 #### (B) Penalties
 
-&emsp;&emsp;An entity that knowingly, willfully, and repeatedly fails to complete a claim form in accordance with subparagraph (A) or provides inaccurate information relating to the availability of other health benefit plans ona claim form under such subparagraph shall be subject to a civil money penalty of not to exceed $2,000 for each such incident. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
+&emsp;&emsp;An entity that knowingly, willfully, and repeatedly fails to complete a claim form in accordance with subparagraph (A) or provides inaccurate information relating to the availability of other health benefit plans on a claim form under such subparagraph shall be subject to a civil money penalty of not to exceed $2,000 for each such incident. The provisions of section 1320a–7a of this title (other than subsections (a) and (b)) shall apply to a civil money penalty under the previous sentence in the same manner as such provisions apply to a penalty or proceeding under section 1320a–7a(a) of this title.
 
 #### (c) Drug products
 
@@ -444,13 +444,13 @@ Subsec. (b)(1)(A)(i)(II). Pub. L. 103–432, §151(c)(1)(A), substituted “olde
 
 Subsec. (b)(1)(A)(ii). Pub. L. 103–432, §151(c)(1)(B), substituted “employer that has 20 or more employees” for “employer or employee organization that has 20 or more individuals in current employment status”.
 
-Subsec. (b)(1)(A)(v). Pub. L. 103–432, §151(c)(9)(B), made technical amendment to directory language of Pub. L. 103–66, §13561(e)(1)(D). See 1993 Amendment note below.
+Subsec. (b)(1)(A)(v). Pub. L. 103–432, §151(c)(9)(B), made technical amendment to directory language ofPub. L. 103–66, §13561(e)(1)(D). See 1993 Amendment note below.
 
 Subsec. (b)(1)(C). Pub. L. 103–432, §151(c)(5), substituted “paying benefits secondary to this subchapter when” for “taking into account that” in closing provisions.
 
 Pub. L. 103–432, §151(c)(4), substituted “this subparagraph” for “clauses (i) and (ii)” after “February 1, 1990),” in last sentence.
 
-Subsec. (b)(2)(B)(i). Pub. L. 103–432, §151(b)(3)(A), (B), substituted “Repayment required” for “Primary plans” in heading and inserted at end “If reimbursement is not made to the appropriate Trust Fund before the expiration of the 60-day period that begins on the date such notice or other information is received, the Secretary may charge interest (beginning with the date on which the notice or other information is received) on theamount of the reimbursement until reimbursement is made (at a rate determined by the Secretary in accordance with regulations of the Secretary of the Treasury applicable to charges for late payments).”
+Subsec. (b)(2)(B)(i). Pub. L. 103–432, §151(b)(3)(A), (B), substituted “Repayment required” for “Primary plans” in heading and inserted at end “If reimbursement is not made to the appropriate Trust Fund before the expiration of the 60-day period that begins on the date such notice or other information is received, the Secretary may charge interest (beginning with the date on which the notice or other information is received) on the amount of the reimbursement until reimbursement is made (at a rate determined by the Secretary in accordance with regulations of the Secretary of the Treasury applicable to charges for late payments).”
 
 Subsec. (b)(2)(C). Pub. L. 103–432, §151(a)(1)(C), added subpar. (C).
 
@@ -598,7 +598,7 @@ Subsec. (h)(2)(C). Pub. L. 100–203, §4039(c)(1)(C), added subpar. (C).
 
 Subsec. (h)(4). Pub. L. 100–93, §8(c)(3), substituted “subsections (c), (f), and (g) of section 1320a–7 of this title” for “paragraphs (2) and (3) of subsection (d) of this section”.
 
-Subsec. (h)(4)(B). Pub. L. 100–203, §4039(c)(1)(D), substituted “, has improperly” for “or has improperly” and inserted “or has failed to make repayment to the Secretary as required under paragraph (2)(C),” after “(2)(B),”.
+Subsec. (h)(4)(B). Pub. L. 100–203, §4039(c)(1)(D), substituted “, has improperly” for “or has improperly” and inserted “or has failed to make repayment to theSecretary as required under paragraph (2)(C),” after “(2)(B),”.
 
 1986—Subsec. (a)(1)(E). Pub. L. 99–509, §9316(b), added subpar. (E).
 
@@ -612,7 +612,7 @@ Subsec. (a)(16). Pub. L. 99–272, §9401(c)(1), added par. (16).
 
 Subsec. (b)(2)(A). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”.
 
-Subsec. (b)(3)(A)(i). Pub. L. 99–272, §9201(a)(1), substituted “(or to the spouse of such individual)” for“who is under 70 years of age during any part of such month (or to the spouse of such individual, if the spouse is under 70 years of age during any part of such month)”.
+Subsec. (b)(3)(A)(i). Pub. L. 99–272, §9201(a)(1), substituted “(or to the spouse of such individual)” for “who is under 70 years of age during any part of such month (or to the spouse of such individual, if the spouse is under 70 years of age during any part of such month)”.
 
 Subsec. (b)(3)(A)(iii). Pub. L. 99–272, §9201(a)(2), struck out “and ending with the month before the month in which such individual attains the age of 70” after “section 426(a) of this title”.
 
@@ -682,7 +682,7 @@ Subsec. (a)(12). Pub. L. 96–499, §936(c), inserted “or because of the sever
 
 Subsec. (a)(13)(C). Pub. L. 96–499, §939(a), struck out “, warts,” after “corns”.
 
-Subsec. (b). Pub. L. 96–499, §953, inserted “or under an automobile or liability insurance policy or plan (including a self-insured plan) or under no fault insurance” and “, policy, plan, or insurance” after “or a State” and “, policy, plan, or insurance” after “law or plan” and inserted provision authorizing the Secretary to waive the provisions of this subsection in the case of an individual claim if he determined that the probability of recovery or amount involved did not warrant the pursuit of the claim.
+Subsec. (b). Pub. L. 96–499, §953, inserted “or under an automobile or liability insurance policy or plan (including a self-insured plan) or under no fault insurance” and “, policy, plan, or insurance” after “or a State” and “, policy, plan, or insurance” after “law or plan” and inserted provision authorizing the Secretary to waive the provisions of this subsection in the case ofan individual claim if he determined that the probability of recovery or amount involved did not warrant the pursuit of the claim.
 
 Subsec. (d)(4). Pub. L. 96–272 added par. (4).
 
@@ -754,7 +754,7 @@ Amendment by section 4432(b)(1) of Pub. L. 105–33 applicable to items and serv
 
 Amendment by section 4507(a)(2)(B) of Pub. L. 105–33 applicable with respect to contracts entered into on and after Jan. 1, 1998, see section 4507(c) of Pub. L. 105–33, set out as a note under section 1395a of this title.
 
-Amendment by section 4511(a)(2)(C) of Pub. L. 105–33 applicable with respect to services furnished and supplies provided on and after Jan. 1, 1998, see section 4511(e) of Pub. L. 105–33, set out as a note under section 1395k of this title.
+Amendment by section 4511(a)(2)(C) of Pub. L. 105–33 applicable with respect to services furnished and supplies provided on and after Jan. 1, 1998, see section4511(e) of Pub. L. 105–33, set out as a note under section 1395k of this title.
 
 Amendment by section 4541(b) of Pub. L. 105–33 applicable to services furnished on or after Jan. 1, 1998, including portions of cost reporting periods occurring on or after such date, see section 4541(e) of Pub. L. 105–33, set out as a note under section 1395<i>l</i> of this title.
 
@@ -830,7 +830,7 @@ Amendment by section 204(d)(2) of Pub. L. 100–360 applicable to screening mamm
 
 Amendment by section 205(e)(1) of Pub. L. 100–360 applicable to items and services furnished on or after Jan. 1, 1990, see section 205(f) of Pub. L. 100–360, set out as a note under section 1395k of this title.
 
-Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(i)(4)(D) of Pub. L. 100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
+Except as specifically provided in section 411 of Pub. L. 100–360, amendment by section 411(i)(4)(D) of Pub. L.100–360, as it relates to a provision in the Omnibus Budget Reconciliation Act of 1987, Pub. L. 100–203, effective as if included in the enactment of that provision in Pub. L. 100–203, see section 411(a) of Pub. L. 100–360, set out as a Reference to OBRA; Effective Date note under section 106 of Title 1, General Provisions.
 
 Section 411(f)(4)(D)(ii) of Pub. L. 100–360 provided that: “The amendment made by clause (i) \[amending this section\] shall apply to operations performed on or after 60 days after the date of the enactment of this Act \[July 1, 1988\].”
 
@@ -838,7 +838,7 @@ Section 411(f)(4)(D)(ii) of Pub. L. 100–360 provided that: “The amendment ma
 
 Section 4009(j)(6) of Pub. L. 100–203, provided that the amendment made by that section is effective as if included in the enactment of Pub. L. 99–509.
 
-Section 4034(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactmentof section 9319(a) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
+Section 4034(b) of Pub. L. 100–203 provided that: “The amendment made by subsection (a) \[amending this section\] shall be effective as if included in the enactment of section 9319(a) of the Omnibus Budget Reconciliation Act of 1986 \[Pub. L. 99–509\].”
 
 Section 4036(a)(2) of Pub. L. 100–203 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply with respect to items and services furnished on or after 30 days after the date of the enactment of this Act \[Dec. 22, 1987\].”
 
@@ -982,7 +982,7 @@ Effective date.—Paragraph (1) shall apply to hospice care furnished on or afte
 
 #### Study of Impact on Disabled Beneficiaries and Family of Amendments Relating to Large Group Health Plans and Medicare as Secondary Payer
 
-Section 9319(e) of Pub. L. 99–509 directed Comptroller General to study and report to Congress, not later than Mar. 1, 1990, the impact of the amendments made by this section (enacting section 5000 of Title 26, Internal Revenue Code, and amending this section and sections 1395p and 1395r of this title) on access of disabled individuals and members of their family to employment and health insurance, such report to include information relating to number of disabled medicare beneficiaries for whom medicare has become secondary, either through their employment or the employment of a family member, amount of savings to the medicareprogram achieved annually through this provision, and effect on employment, and employment-based health coverage, of disabled individuals and family members.
+Section 9319(e) of Pub. L. 99–509 directed Comptroller General to study and report to Congress, not later than Mar. 1, 1990, the impact of the amendments made by this section (enacting section 5000 of Title 26, Internal Revenue Code, and amending this section and sections 1395p and 1395r of this title) on access of disabled individuals and members of their family to employment and health insurance, such report to include information relating to number of disabled medicare beneficiaries for whom medicare has become secondary, either through their employment or the employment of a family member, amount of savings to the medicare program achieved annually through this provision, and effect on employment, and employment-based health coverage, of disabled individuals and family members.
 
 #### Reinstatement of Waiver of Liability Presumption
 
@@ -1028,11 +1028,11 @@ Section 602(k) of Pub. L. 98–21, as amended by Pub. L. 99–272, title IX, §9
 
 #### Prohibition of Payment for Ineffective Drugs
 
-Section 115(b) of Pub. L. 97–248 provided that: “No provision of law limiting the use of funds for purposes of enforcing or implementing section 1862(c) \[subsec. (c) of this section\] or section 1903(i)(5) \[section 1396b(i)(5) of this title\] of the Social Security Act, section 2103 of the Omnibus Budget Reconciliation Act of 1981 \[section 2103 of Pub. L. 97–35, amending sections 1395y and 1396b of this title and enacting provisions set out as notes under sections 1395y and 1396b of this title\], or any rule or regulation issued pursuant to any such section (including any provision contained in, or incorporated by reference into, any appropriation Act or resolution making continuing appropriations) shall apply to any period after September 30, 1982, unless such provision of law is enacted after the date of the enactment of this Act \[Sept. 3, 1982\] and specifically states that such provision is to supersede this section.”
+Section 115(b) of Pub. L. 97–248 provided that: “No provision of law limiting the use of funds for purposesof enforcing or implementing section 1862(c) \[subsec. (c) of this section\] or section 1903(i)(5) \[section 1396b(i)(5) of this title\] of the Social Security Act, section 2103 of the Omnibus Budget Reconciliation Act of 1981 \[section 2103 of Pub. L. 97–35, amending sections 1395y and 1396b of this title and enacting provisions set out as notes under sections 1395y and 1396b of this title\], or any rule or regulation issued pursuant to any such section (including any provision contained in, or incorporated by reference into, any appropriation Act or resolution making continuing appropriations) shall apply to any period after September 30, 1982, unless such provision of law is enacted after the date of the enactment of this Act \[Sept. 3, 1982\] and specifically states that such provision is to supersede this section.”
 
 #### Establishment and Implementation of Guidelines
 
-Section 2152(b) of Pub. L. 97–35 directed the Secretary of Health and Human Services to establish, and providefor the implementation of, the guidelines described in subsec. (f) of this section not later than Oct. 1, 1981.
+Section 2152(b) of Pub. L. 97–35 directed the Secretary of Health and Human Services to establish, and provide for the implementation of, the guidelines described in subsec. (f) of this section not later than Oct. 1, 1981.
 
 #### Report to Congressional Committees on Implementation of Certification Requirements Relating to Modification of Health Benefits Plan or Program; Failure To Submit Report
 

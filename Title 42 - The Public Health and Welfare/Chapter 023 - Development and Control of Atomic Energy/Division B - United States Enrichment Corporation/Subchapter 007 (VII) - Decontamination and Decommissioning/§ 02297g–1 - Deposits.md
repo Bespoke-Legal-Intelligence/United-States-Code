@@ -2,7 +2,7 @@
 
 #### (a) Amount
 
-The Fund shall consist of deposits in the amount of $488,333,333 per fiscal year (to be annually adjusted for inflation using the Consumer Price Index for all-urban consumers published by the Department of Labor) as provided in this section.
+The Fund shall consist of deposits in the amount of $518,233,333 per fiscal year (to be annually adjusted for inflation beginning on October 24, 1992, using the Consumer Price Index for all-urban consumers published by the Department of Labor) as provided in this section.
 
 #### (b) Source
 
@@ -40,9 +40,11 @@ Except as provided in subsection (e) of this section, deposits shall continue to
 
 Any special assessment levied under this section on domestic utilities for the decontamination and decommissioning of the Department's gaseous diffusion enrichment facilities shall be deemed a necessary and reasonable current cost of fuel and shall be fully recoverable in rates in all jurisdictions in the same manner as the utility's other fuel cost.
 
-(Aug. 1, 1946, ch. 724, title II, §1802, as added Pub. L. 102–486, title XI, §1101, Oct. 24, 1992, 106 Stat. 2953; amended Pub. L. 105–388, §11(c), Nov. 13, 1998, 112 Stat. 3485.)
+(Aug. 1, 1946, ch. 724, title II, §1802, as added Pub. L. 102–486, title XI, §1101, Oct. 24, 1992, 106 Stat. 2953; amended Pub. L. 105–388, §11(c), Nov. 13, 1998, 112 Stat. 3485; Pub. L. 107–222, §1(c), Aug. 21, 2002, 116 Stat. 1336.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–222 substituted “$518,233,333” for “$488,333,333” and inserted “beginning on October 24, 1992,” after “inflation”.
 
 1998—Subsec. (a). Pub. L. 105–388 substituted “$488,333,333” for “$480,000,000”.
 

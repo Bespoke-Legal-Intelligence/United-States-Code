@@ -20,7 +20,7 @@ Pub. L. 98–557 and Pub. L. 98–623 enacted identical section 3102 of this tit
 
 #### Repeal of Duplicate Section 3102; References Thereto and Regulations and Actions Thereunder
 
-Section 2 of Pub. L. 99–36 provided that: “Section 22 of the Coast Guard Authorization Act of 1984 (Public Law 98–557; 98 Stat. 2871), and the amendments made by such section \[enacting first identical section 3102 of this title and provisions set out as a note under this section and amending the analysis of chapter 31 of this title\], are repealed as of November 8, 1984. Regulations prescribed and actions taken under, and references to, such section and the amendments made by such section are deemed to be regulations prescribed and actions taken under, and references to, section 701 of the Act of November 8, 1984 (Public Law 98–623; 98 Stat. 3413), and the amendments made by such section 701 \[enacting second identical section 3102 of this title and provisions set out as a note under this section and amending the analysis of chapter 31 of this title\].”
+Section 2 of Pub. L. 99–36 provided that: “Section 22 of the Coast Guard Authorization Act of 1984 (Public Law 98–557; 98 Stat. 2871), and the amendments made by such section \[enacting first identical section 3102 of this title and provisions set out as a note under this section and amending the analysis of chapter 31 of this title\], are repealed as of November 8, 1984. Regulations prescribed and actions taken under, and references to,such section and the amendments made by such section are deemed to be regulations prescribed and actions taken under, and references to, section 701 of the Act of November 8, 1984 (Public Law 98–623; 98 Stat. 3413), and the amendments made by such section 701 \[enacting second identical section 3102 of this title and provisions set out as a note under this section and amending the analysis of chapter 31 of this title\].”
 
 #### Regulations
 
@@ -29,6 +29,8 @@ Section 701(b), (c) of title VII of Pub. L. 98–623 provided:
 “(b) Section 3102 of title 46, United States Code (as added by subsection (a) of this section), does not limit the authority of the Secretary of the department in which the Coast Guard is operating to prescribe regulations requiring exposure suits on vessels not required by section 3102 to have exposure suits.
 
 “(c) The regulations prescribed under section 3102 of title 46, United States Code (as added by subsection (a) of this section), shall be effective not later than 60 days after the date of enactment of this title \[Nov. 8, 1984\].” \[Regulations effective Dec. 30, 1984, see 49 F.R. 50722, Dec. 31, 1984.\]
+
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 Similar provisions were contained in section 22(b), (c) of Pub. L. 98–557, which was repealed by section 2 of Pub. L. 99–36, set out above as a Repeal of Duplicate Section note.
 

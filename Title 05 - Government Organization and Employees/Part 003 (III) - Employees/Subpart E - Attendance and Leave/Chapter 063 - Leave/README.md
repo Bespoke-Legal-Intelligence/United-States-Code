@@ -125,7 +125,7 @@ Pub. L. 90–367, §2(b), June 29, 1968, 82 Stat. 277, added item 6312.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 4703 of this title; title 24 section 225e; title 25 section 2012.
+This chapter is referred to in section 4703 of this title; title 22 section 7002; title 24 section 225e; title 25 section 2012; title 28 section 996.
 
 
 ---

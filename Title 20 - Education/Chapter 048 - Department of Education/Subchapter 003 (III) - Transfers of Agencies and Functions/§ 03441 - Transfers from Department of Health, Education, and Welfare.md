@@ -38,7 +38,7 @@ There are transferred to the Secretary—
 
 &emsp;&emsp;(O) subpart A\[C\] of part IV of title III of the Communications Act of 1934 \[47 U.S.C. 395 et seq.\] with respect to the telecommunications demonstration program;
 
-&emsp;&emsp;(P) section 203(k) of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 484(k)\] with respect to donations of surplus property for educational purposes; and
+&emsp;&emsp;(P) section 550 of title 40 with respect to donations of surplus property for educational purposes; and
 
 &emsp;&emsp;(Q) the Alcohol and Drug Abuse Education Act \[21 U.S.C. 1001 et seq.\];
 
@@ -90,7 +90,7 @@ Nothing in the provisions of this section or in the provisions of this chapter s
 
 The General Education Provisions Act, referred to in subsec. (a)(2)(A), is title IV of Pub. L. 90–247, Jan. 2, 1968, 81 Stat. 814, as amended, which is classified generally to chapter 31 (§1221 et seq.) of this title. For complete classification of this Act to the Code, see section 1221 of this title and Tables.
 
-The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, seeShort Title note set out under section 6301 of this title and Tables.
+The Elementary and Secondary Education Act of 1965, referred to in subsec. (a)(2)(B), is Pub. L. 89–10, Apr. 11, 1965, 79 Stat. 27, as amended, which is classified generally to chapter 70 (§6301 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6301 of this title and Tables.
 
 The Higher Education Act of 1965, referred to in subsec. (a)(2)(C), is Pub. L. 89–329, Nov. 8, 1965, 79 Stat. 1219, as amended, which is classified principally to chapter 28 (§1001 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
@@ -122,11 +122,15 @@ The Rehabilitation Act of 1973, referred to in subsecs. (a)(4)(A), (C), and (b)(
 
 Act of June 20, 1936, commonly referred to as the Randolph-Sheppard Act, referred to in subsec. (a)(4)(B), is act June 20, 1936, ch. 638, 49 Stat. 1559, as amended, which is classified generally to chapter 6A (§107 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 107 of this title and Tables.
 
+#### Codification
+
+“Section 550 of title 40” substituted in subsec. (a)(2)(P) for “section 203(k) of the Federal Property and Administrative Services Act of 1949” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
 #### Amendments
 
 1996—Subsec. (a)(5) to (7). Pub. L. 104–208, §101(e) \[title VII, §709(b)(2)(A)\], redesignated pars. (6) and (7) as (5) and (6), respectively, and struck out former par. (5) which transferred all functions of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Secretary of Education.
 
-Subsec. (b)(4) to (7). Pub. L. 104–208, §101(e) \[title VII, §709(b)(2)(B)\], redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which transferred the offices, etc., of the Institute of Museum Services of the Department of Health, Education, and Welfare to the Department of Education.
+Subsec. (b)(4) to (7). Pub. L. 104–208, §101(e) \[title VII, §709(b)(2)(B)\], redesignated pars. (5) to (7) as (4) to (6), respectively, and struck out former par. (4) which transferred the offices, etc., of the Institute of MuseumServices of the Department of Health, Education, and Welfare to the Department of Education.
 
 1990—Subsec. (a)(2)(H). Pub. L. 101–476 substituted “Individuals with Disabilities Education Act” for “Education of the Handicapped Act”.
 

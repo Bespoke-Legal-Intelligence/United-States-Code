@@ -1,6 +1,6 @@
 ### §7233. Experts and consultants
 
-The Secretary may obtain services as authorized by section 3109 of title 5, at rates not to exceed the daily rate prescribed for grade GS–18 of the General Schedule under section 5332 of title 5 for persons in Government service employed intermittently.
+The Secretary may obtain services as authorized by section 3109 of title 5, at rates not to exceed the daily rate prescribed for grade GS–18 ofthe General Schedule under section 5332 of title 5 for persons in Government service employed intermittently.
 
 (Pub. L. 95–91, title VI, §623, Aug. 4, 1977, 91 Stat. 598.)
 

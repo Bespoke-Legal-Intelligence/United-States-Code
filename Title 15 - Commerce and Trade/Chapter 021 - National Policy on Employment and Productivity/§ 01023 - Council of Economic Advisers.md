@@ -6,7 +6,7 @@ There is created in the Executive Office of the President a Council of Economic 
 
 #### (b) Employment of specialists, experts, and other personnel
 
-The Council is authorized to employ, and fix the compensation of, such specialists and otherexperts as may be necessary for the carrying out of its functions under this chapter, without regard to the civil-service laws, and is authorized, subject to the civil-service laws, to employ such other officers and employees as may be necessary for carrying out its functions under this chapter, and fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
+The Council is authorized to employ, and fix the compensation of, such specialists and other experts as may be necessary for the carrying out of its functions under this chapter, without regard to the civil-service laws, and is authorized, subject to the civil-service laws, to employ such other officers and employees as may be necessary for carrying out its functions under this chapter, and fix their compensation in accordance with chapter 51 and subchapter III of chapter 53 of title 5.
 
 #### (c) Duties
 
@@ -18,7 +18,7 @@ It shall be the duty and function of the Council—
 
 &emsp;(3) to appraise the various programs and activities of the Federal Government in the light of the policy declared in section 1021 of this title for the purpose of determining the extent to which such programs and activities are contributing, and the extent to which they are not contributing, to the achievement of such policy, and to make recommendations to the President with respect thereto;
 
-&emsp;(4) to develop and recommend to the President national economic policies to foster and promote free competitive enterprise including small and larger business, to avoid economic fluctuations or to diminish the effects thereof, and to maintain full employment, production, and purchasing power;
+&emsp;(4) to develop and recommend to the President national economic policies to foster andpromote free competitive enterprise including small and larger business, to avoid economic fluctuations or to diminish the effects thereof, and to maintain full employment, production, and purchasing power;
 
 &emsp;(5) to make and furnish such studies, reports thereon, and recommendations with respect to matters of Federal economic policy and legislation as the President may request.
 
@@ -84,7 +84,7 @@ Advisory committees in existence on Jan. 5, 1973, to terminate not later than th
 
 #### Eff. Aug. 1, 1953, 18 F.R. 4543, 67 Stat. 644
 
-Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, June 1, 1953, pursuant to the provisions of the Reorganization Act of 1949, approved June 20, 1949, as amended \[see 5 U.S.C. 901 et seq.\].
+Prepared by the President and transmitted to the Senate and the House of Representatives in Congress assembled, June 1, 1953, pursuant to the provisions ofthe Reorganization Act of 1949, approved June 20, 1949, as amended \[see 5 U.S.C. 901 et seq.\].
 
 #### COUNCIL OF ECONOMIC ADVISERS
 
@@ -112,7 +112,7 @@ Term of the President's Economic Policy Advisory Board extended until Sept. 30, 
 
 #### Ex. Ord. No. 12835. Establishment of National Economic Council
 
-Ex. Ord. No. 12835, Jan. 25, 1993, 58 F.R. 6189, provided:
+Ex. Ord. No. 12835, Jan. 25, 1993, 58 F.R. 6189, as amended by Ex. Ord. No. 13286, §27, Feb. 28, 2003, 68 F.R. 10625, provided:
 
 By the authority vested in me as President of the United States by the Constitution and the laws of the United States of America, including sections 105, 107, and 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -140,23 +140,25 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 &emsp;(j) Secretary of Energy;
 
-&emsp;(k) Administrator of the Environmental Protection Agency;
+&emsp;(k) Secretary of Homeland Security;
 
-&emsp;(<i>l</i>) Chair of the Council of Economic Advisers;
+&emsp;(<i>l</i>) Administrator of the Environmental Protection Agency;
 
-&emsp;(m) Director of the Office of Management and Budget;
+&emsp;(m) Chair of the Council of Economic Advisers;
 
-&emsp;(n) United States Trade Representative;
+&emsp;(n) Director of the Office of Management and Budget;
 
-&emsp;(<i>o</i>) Assistant to the President for Economic Policy;
+&emsp;(<i>o</i>) United States Trade Representative;
 
-&emsp;(p) Assistant to the President for Domestic Policy;
+&emsp;(p) Assistant to the President for Economic Policy;
 
-&emsp;(q) National Security Adviser;
+&emsp;(q) Assistant to the President for Domestic Policy;
 
-&emsp;(r) Assistant to the President for Science and Technology Policy; and
+&emsp;(r) National Security Adviser;
 
-&emsp;(s) Such other officials of executive departments and agencies as the President may, from time to time, designate.
+&emsp;(s) Assistant to the President for Science and Technology Policy; and
+
+&emsp;(t) Such other officials of executive departments and agencies as the President may, from time to time, designate.
 
 Sec. 3. <i>Meetings of the Council</i>. The President, or upon his direction, the Assistant to the President for Economic Policy (“the Assistant”), may convene meetings of the Council. The President shall preside over the meetings of the Council, provided that in his absence the Vice President, and in his absence the Assistant, will preside.
 
@@ -173,8 +175,6 @@ Sec. 5. <i>Administration</i>. (a) The Council may function through established 
 (b) The Council shall have a staff to be headed by the Assistant to the President for Economic Policy. The Council shall have such staff and other assistance as may be necessary to carry out the provisions of this order.
 
 (c) All executive departments and agencies shall cooperate with the Council and provide such assistance, information, and advice to the Council as the Council may request, to the extent permitted by law.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

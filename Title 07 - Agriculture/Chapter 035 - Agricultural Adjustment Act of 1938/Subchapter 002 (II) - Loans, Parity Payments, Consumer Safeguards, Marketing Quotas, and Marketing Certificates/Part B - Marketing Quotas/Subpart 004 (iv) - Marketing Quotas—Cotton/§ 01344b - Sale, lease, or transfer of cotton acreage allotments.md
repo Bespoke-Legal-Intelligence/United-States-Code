@@ -22,7 +22,7 @@ The transfer of a portion of a farm allotment which was established under minimu
 
 #### (f) Rules and regulations
 
-The Secretary shall prescribe regulations for the administration of this section, which shall include provisions for adjusting the size of the allotment transferred if the farm to which theallotment is transferred has a substantially higher yield per acre and such other terms and conditions as he deems necessary.
+The Secretary shall prescribe regulations for the administration of this section, which shall include provisions for adjusting the size of the allotment transferred if the farm to which the allotment is transferred has a substantially higher yield per acre and such other terms and conditions as he deems necessary.
 
 #### (g) Adjustment upon transfer of land covered by conservation reserve contract
 
@@ -36,7 +36,7 @@ The Secretary shall by regulations authorize the exchange between farms in the s
 
 The provisions of this section relating to cotton shall apply only to upland cotton.
 
-(Feb. 16, 1938, ch. 30, title III, §344a, as added Pub. L. 89–321, title IV, §405, Nov. 3, 1965, 79 Stat. 1197; amended Pub. L. 90–559, §1(2), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VI, §601(3)(1), Nov. 30, 1970, 84 Stat. 1372; Pub. L. 93–86, §1(19)(C), (D), Aug. 10, 1973, 87 Stat. 233.)
+(Feb. 16, 1938, ch. 30, title III, §344a, as added Pub. L. 89–321, title IV, §405, Nov. 3, 1965, 79 Stat. 1197; amended Pub. L. 90–559, §1(2), Oct. 11, 1968, 82 Stat. 996; Pub. L. 91–524, title VI, §601(3)(1),Nov. 30, 1970, 84 Stat. 1372; Pub. L. 93–86, §1(19)(C), (D), Aug. 10, 1973, 87 Stat. 233.)
 
 #### Amendments
 
@@ -58,7 +58,9 @@ Section 601(3) of Pub. L. 91–524, as amended by section 1(19)(A) of Pub. L. 93
 
 Section inapplicable to 1984 and subsequent crops of extra long staple cotton, see section 3 of Pub. L. 98–88, set out as a note under section 1342 of this title.
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(1) of this title.
+
+Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(A) of this title.
 
 Section 601(3)(2) of Pub. L. 91–524, as amended by section 1(19)(A) of Pub. L. 93–86, provided that: “Subdivisions (ii), (iv), (v), and (vi) of subsection (b) \[of this section\], the last sentence of subsection (b) \[of this section\] and subsections (e) and (h) \[of this section\] shall not be applicable to the 1971 through 1977 crops: <i>Provided</i>, That no farm allotment may be sold or leased for transfer to a farm in another county unless the Agricultural Stabilization and Conservation Committee established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act, as amended \[16 U.S.C. 590h(b)\], for the county from which such transfers are being made (1) finds that a demand for such acreage allotments no longer exists in such county and (2) approves any transfers of allotments to farms outside such county.”
 

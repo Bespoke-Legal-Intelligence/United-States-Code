@@ -22,7 +22,7 @@ Subject to the availability of appropriations, the Attorney General shall provid
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;The first report submitted under paragraph (1) shall include an estimate of the number of criminal aliens who, in each of the 3 fiscal years concluded prior to the date of the report—
+&emsp;&emsp;&emsp;The first report submitted under paragraph (1) shall include an estimate of thenumber of criminal aliens who, in each of the 3 fiscal years concluded prior to the date of the report—
 
 &emsp;&emsp;&emsp;&emsp;(I) were released from detention facilities of the Immigration and Naturalization Service (whether operated directly by the Service or through contract with other persons or agencies); or
 
@@ -53,4 +53,8 @@ Section was enacted as part of the Illegal Immigration Reform and Immigrant Resp
 #### Effective Date of 1996 Amendment
 
 Amendment by section 308(g)(10)(G) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 

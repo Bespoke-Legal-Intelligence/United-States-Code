@@ -126,7 +126,7 @@ The term “current balance of checking and savings accounts” does not include
 
 #### (j) Other financial assistance; tuition prepayment plans
 
-(1) For purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, estimated financial assistance not received underthis subchapter and part C of subchapter I of chapter 34 of title 42 shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student's need is made, including veterans’ education benefits as defined in subsection (c) of this section, and national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990 \[42 U.S.C. 12511 et seq.\].
+(1) For purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, estimated financial assistance not received under this subchapter and part C of subchapter I of chapter 34 of title 42 shall include all scholarships, grants, loans, or other assistance known to the institution at the time the determination of the student's need is made, including veterans’ education benefits as defined in subsection (c) of this section, and national service educational awards or post-service benefits under title I of the National and Community Service Act of 1990 \[42 U.S.C. 12511 et seq.\].
 
 (2)(A) Except as provided in subparagraph (B), for purposes of determining a student's eligibility for funds under this subchapter and part C of subchapter I of chapter 34 of title 42, tuition prepayment plans shall reduce the cost of attendance (as determined under section 1087<i>ll</i> of this title) by the amount of the prepayment, and shall not be considered estimated financial assistance.
 
@@ -160,7 +160,7 @@ The term “current balance of checking and savings accounts” does not include
 
 The term “business assets” means property that is used in the operation of a trade or business, including real estate, inventories, buildings, machinery, and other equipment, patents, franchise rights, and copyrights.
 
-(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111 Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431.)
+(Pub. L. 89–329, title IV, §480, as added Pub. L. 99–498, title IV, §406(a), Oct. 17, 1986, 100 Stat. 1472; amended Pub. L. 100–50, §14(28), June 3, 1987, 101 Stat. 353; Pub. L. 100–369, §7(b), July 18, 1988, 102 Stat. 837; Pub. L. 101–610, title I, §185(3), (4), Nov. 16, 1990, 104 Stat. 3168; Pub. L. 102–325, title IV, §471(a), July 23, 1992, 106 Stat. 606; Pub. L. 103–82, title I, §102(c)(4), (5), Sept. 21, 1993, 107 Stat. 824; Pub. L. 103–208, §2(g)(17)–(20), Dec. 20, 1993, 107 Stat. 2474; Pub. L. 104–193, title I, §110(h)(2), Aug. 22, 1996, 110 Stat. 2172; Pub. L. 105–78, title VI, §609(j), (k), Nov. 13, 1997, 111Stat. 1524; Pub. L. 105–244, title IV, §479, Oct. 7, 1998, 112 Stat. 1732; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(15)(B), (f)(12)(B)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–421, 2681–431.)
 
 #### References in Text
 
@@ -238,7 +238,7 @@ Subsecs. (f) to (h). Pub. L. 100–50, §14(28)(G), added subsecs. (f) to (h).
 
 Amendment by Pub. L. 105–244 effective Oct. 7, 1998, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
 
-Amendment by section 101(f) \[title VIII, §405(d)(15)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998, and amendment by section 101(f) \[title VIII, §405(f)(12)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
+Amendment by section 101(f) \[title VIII, §405(d)(15)(B)\] of Pub. L. 105–277 effective Oct. 21, 1998,and amendment by section 101(f) \[title VIII, §405(f)(12)(B)\] of Pub. L. 105–277 effective July 1, 2000, see section 101(f) \[title VIII, §405(g)(1), (2)(B)\] of Pub. L. 105–277, set out as a note under section 3502 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1996 Amendment
 
@@ -258,9 +258,13 @@ Amendment by Pub. L. 102–325 applicable with respect to determinations of need
 
 Amendment by Pub. L. 100–50 effective as if enacted as part of the Higher Education Amendments of 1986, Pub. L. 99–498, see section 27 of Pub. L. 100–50, set out as a note under section 1001 of this title.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Definition of “Independent Student”; Application to Specified Periods of Enrollment
 
-Section 406(b)(5), formerly section 406(b)(4), of Pub. L. 99–498, renumbered Pub. L. 100–50, §22(e)(2), June 3, 1987, 101 Stat. 361, provided that: “The definition of independent student contained in section 480(d) of the Act\[20 U.S.C. 1087vv(d)\] as amended by subsection (a) of this section shall apply with respect to the determination of such need for periods of enrollment beginning on or after January 1, 1987, in the case of programs operated under part B of title IV of the Act \[part B of this subchapter\], or for periods of enrollment beginning on or after July 1, 1987, in the case of programs operated under subpart 2 of part A and parts C and E of such title \[subpart 2 of part A of this subchapter and part C of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, and part D of this subchapter\].”
+Section 406(b)(5), formerly section 406(b)(4), of Pub. L. 99–498, renumbered Pub. L. 100–50, §22(e)(2), June 3, 1987, 101 Stat. 361, provided that: “The definition of independent student contained in section 480(d) of the Act \[20 U.S.C. 1087vv(d)\] as amended by subsection (a) of this section shall apply with respect to the determination of such need for periods of enrollment beginning on or after January 1, 1987, in the case of programs operated under part B of title IV of the Act \[part B of this subchapter\], or for periods of enrollment beginning on or after July 1, 1987, in the case of programs operated under subpart 2 of part A and parts C and E of such title \[subpart 2 of part A of this subchapter and part C of subchapter I of chapter 34 of Title 42, The Public Health and Welfare, and part D of this subchapter\].”
 
 \[References to subpart 2 of part A of title IV of Pub. L. 89–329 deemed, after July 23, 1992, to refer to subpart 3 of such part, see section 402(b) of Pub. L. 102–325, set out as a note under section 1070a–11 of this title.\]
 

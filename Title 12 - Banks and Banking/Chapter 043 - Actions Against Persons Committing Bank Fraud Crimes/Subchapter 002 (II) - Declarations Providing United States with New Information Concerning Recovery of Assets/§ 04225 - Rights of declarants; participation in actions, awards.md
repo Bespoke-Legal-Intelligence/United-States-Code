@@ -24,11 +24,15 @@ For purposes of this section, funds or assets acquired by the United States shal
 
 (Pub. L. 101–647, title XXV, §2580, Nov. 29, 1990, 104 Stat. 4901.)
 
+#### References in Text
+
+Section 3509A of title 18, referred to in subsec. (d)(1), probably is a reference to former section 3059A of title18, which was repealed by Pub. L. 107–273, div. A, title III, §301(c)(2), Nov. 2, 2002, 116 Stat. 1781.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 4223, 4224, 4226, 4241 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be section “3059A”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. Probably should be “judgment,”.</i>
 

@@ -2,7 +2,7 @@
 
 For the purposes of this subchapter—
 
-&emsp;(1) The term “health-care resource” includes hospital care and medical services (as thoseterms are defined in section 1701 of this title), services under sections 1782 and 1783 of this title, any other health-care service, and any health-care support or administrative resource.
+&emsp;(1) The term “health-care resource” includes hospital care and medical services (as those terms are defined in section 1701 of this title), services under sections 1782 and 1783 of this title, any other health-care service, and any health-care support or administrative resource.
 
 &emsp;(2) The term “health-care providers” includes health-care plans and insurers and any organizations, institutions, or other entities or individuals who furnish health-care resources.
 

@@ -1,10 +1,14 @@
 ### §1368. Harming animals used in law enforcement
 
-(a) Whoever willfully and maliciously harms any police animal, or attempts or conspires to do so, shall be fined under this title and imprisoned not more than 1 year. If the offense permanently disables or disfigures the animal, or causes serious bodily injury or the death of the animal, the maximum term of imprisonment shall be 10 years.
+(a) Whoever willfully and maliciously harms any police animal, or attempts or conspires to do so, shall be fined under this title and imprisoned not more than 1 year. If the offense permanently disables or disfigures the animal, or causes serious bodily injury to or the death of the animal, the maximum term of imprisonment shall be 10 years.
 
 (b) In this section, the term “police animal” means a dog or horse employed by a Federal agency (whether in the executive, legislative, or judicial branch) for the principal purpose of aiding in the detection of criminal activity, enforcement of laws, or apprehension of criminal offenders.
 
-(Added Pub. L. 106–254, §2(a), Aug. 2, 2000, 114 Stat. 638.)
+(Added Pub. L. 106–254, §2(a), Aug. 2, 2000, 114 Stat. 638; amended Pub. L. 107–273, div. B, title IV, §4003(a)(4), Nov. 2, 2002, 116 Stat. 1811.)
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–273 inserted “to” after “serious bodily injury”.
 
 #### Short Title of 2000 Amendment
 

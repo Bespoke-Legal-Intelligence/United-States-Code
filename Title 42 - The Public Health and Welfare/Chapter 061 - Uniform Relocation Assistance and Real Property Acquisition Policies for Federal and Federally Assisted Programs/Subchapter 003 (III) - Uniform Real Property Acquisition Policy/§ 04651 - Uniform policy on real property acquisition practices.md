@@ -8,7 +8,7 @@ In order to encourage and expedite the acquisition of real property by agreement
 
 (3) Before the initiation of negotiations for real property, the head of the Federal agency concerned shall establish an amount which he believes to be just compensation therefor and shall make a prompt offer to acquire the property for the full amount so established. In no event shall such amount be less than the agency's approved appraisal of the fair market value of such property. Any decrease or increase in the fair market value of real property prior to the date of valuation caused by the public improvement for which such property is acquired, or by the likelihood that the property would be acquired for such improvement, other than that due to physical deterioration within the reasonable control of the owner, will be disregarded in determining the compensation for the property. The head of the Federal agency concerned shall provide the owner of real property to be acquired with a written statement of, and summary of the basis for, the amount he established as just compensation. Where appropriate the just compensation for the real property acquired and for damages to remaining real property shall be separately stated.
 
-(4) No owner shall be required to surrender possession of real property before the head of the Federal agency concerned pays the agreed purchase price, or deposits with the court in accordance with section 258a of title 40, for the benefit of the owner, an amount not less than the agency's approved appraisal of the fair market value of such property, or the amount of the award of compensation in the condemnation proceeding for such property.
+(4) No owner shall be required to surrender possession of real property before the head of the Federal agency concerned pays the agreed purchase price, or deposits with the court in accordance with section 3114(a) to (d) of title 40, for the benefit of the owner, an amount not less than the agency's approved appraisal of the fair market value of such property, or the amount of the award of compensation in the condemnation proceeding for such property.
 
 (5) The construction or development of a public improvement shall be so scheduled that, to the greatest extent practicable, no person lawfully occupying real property shall be required to move from a dwelling (assuming a replacement dwelling as required by subchapter II of this chapter will be available), or to move his business or farm operation, without at least ninety days’ written notice from the head of the Federal agency concerned, of the date by which such move is required.
 
@@ -20,7 +20,7 @@ In order to encourage and expedite the acquisition of real property by agreement
 
 (9) If the acquisition of only a portion of a property would leave the owner with an uneconomic remnant, the head of the Federal agency concerned shall offer to acquire that remnant. For the purposes of this chapter, an uneconomic remnant is a parcel of real property in which the owner is left with an interest after the partial acquisition of the owner's property and which the head of the Federal agency concerned has determined has little or no value or utility to the owner.
 
-(10) A person whose real property is being acquired in accordance with this subchapter may,after the person has been fully informed of his right to receive just compensation for such property, donate such property, and part thereof, any interest therein, or any compensation paid therefor to a Federal agency, as such person shall determine.
+(10) A person whose real property is being acquired in accordance with this subchapter may, after the person has been fully informed of his right to receive just compensation for such property, donate such property, and part thereof, any interest therein, or any compensation paid therefor to a Federal agency, as such person shall determine.
 
 (Pub. L. 91–646, title III, §301, Jan. 2, 1971, 84 Stat. 1904; Pub. L. 100–17, title IV, §416, Apr. 2, 1987, 101 Stat. 255.)
 
@@ -31,6 +31,10 @@ Subchapter II of this chapter, referred to in par. (5), was in the original “t
 This chapter, referred to in par. (9), was in the original “this Act”, meaning Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1894, known as the Uniform Relocation Assistance and Real Property Acquisition Policies Act of 1970, which enacted this chapter, amended sections 1415, 2473, and 3307 of this title and section 1606 of former Title 49, repealed sections 1465 and 3071 to 3074 of this title, section 2680 of Title 10, sections 141 and 501 to 512 of Title 23, section 596 of Title 33, Navigation and Navigable Waters, sections 1231 to 1234 of Title 43, and enacted provisions set out as notes under sections 4601, 4621, and 4651 of this title and under section 501 of Title 23. For complete classification of this Act to the Code, see Short Title note set out under section 4601 of this title and Tables.
 
 This subchapter, referred to in par. (10), was in the original “this title”, meaning title III of Pub. L. 91–646, Jan. 2, 1971, 84 Stat. 1904, which enacted this subchapter, repealed sections 3071 to 3073 of this title, section 141 of Title 23, and section 596 of Title 33, and enacted provisions set out as a note under section 4651 of this title. For complete classification of title III to the Code, see Tables.
+
+#### Codification
+
+In par. (4), “section 3114(a) to (d) of title 40” substituted for “section 1 of the Act of February 26, 1931 (46 Stat. 1421; 40 U.S.C. 258a)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -50,5 +54,5 @@ Section 306 of Pub. L. 91–646 provided in part that: “Any rights or liabilit
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4602, 4655 of this title; title 16 section 698f.
+This section is referred to in sections 4602, 4655 of this title; title 10 section 2684a; title 16 section 698f.
 

@@ -22,7 +22,7 @@
 
 #### (c) Scientific and ethical guidelines
 
-(1) The Secretary shall establish appropriate scientific and ethical guidelines for the conduct of evaluations carried out pursuant to this section. The Secretary may not provide financial assistance under subsection (b)(1) of this sectionunless the applicant for such assistance agrees to comply with such guidelines.
+(1) The Secretary shall establish appropriate scientific and ethical guidelines for the conduct of evaluations carried out pursuant to this section. The Secretary may not provide financial assistance under subsection (b)(1) of this section unless the applicant for such assistance agrees to comply with such guidelines.
 
 (2) The Secretary may establish the guidelines described in paragraph (1) only after consulting with—
 

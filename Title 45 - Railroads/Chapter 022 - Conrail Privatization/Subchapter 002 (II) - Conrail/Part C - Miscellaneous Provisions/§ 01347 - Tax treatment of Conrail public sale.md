@@ -12,7 +12,7 @@
 
 #### (3) Deemed purchase price
 
-&emsp;For purposes of this subsection, the deemed purchase price is an amount equal to the gross amount received pursuant to the public sale, multiplied by a fraction—
+&emsp;For purposes of this subsection, the deemed purchase price is an amount equal to the grossamount received pursuant to the public sale, multiplied by a fraction—
 
 &emsp;&emsp;(A) the numerator of which is 100 percent, and
 

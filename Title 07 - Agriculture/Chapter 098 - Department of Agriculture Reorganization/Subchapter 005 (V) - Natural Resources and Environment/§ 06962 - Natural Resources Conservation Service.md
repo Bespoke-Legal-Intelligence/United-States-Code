@@ -10,7 +10,7 @@ If the Secretary establishes the Natural Resources Conservation Service under su
 
 &emsp;(1) The Water Bank Act (16 U.S.C. 1301 et seq.).
 
-&emsp;(2) The forestry incentive program under section 2103 of title 16.
+&emsp;(2) The forest land enhancement program under section 2103 of title 16.
 
 &emsp;(3) Title XII of the Food Security Act of 1985 (16 U.S.C. 3801 et seq.), except subchapter B of chapter 1 of subtitle D of such title \[16 U.S.C. 3831 et seq.\].
 
@@ -18,7 +18,7 @@ If the Secretary establishes the Natural Resources Conservation Service under su
 
 &emsp;(5) The Farms for the Future Act of 1990 (7 U.S.C. 4201 note).
 
-&emsp;(6) Such other functions as the Secretary considers appropriate, except functions under subchapter B of chapter 1 of subtitle D of titleXII of the Food Security Act of 1985 (16 U.S.C. 3831–3836).
+&emsp;(6) Such other functions as the Secretary considers appropriate, except functions under subchapter B of chapter 1 of subtitle D of title XII of the Food Security Act of 1985 \[16 U.S.C. 3831 et seq.\].
 
 #### (c) Special concurrence requirements for certain functions
 
@@ -52,7 +52,7 @@ For purposes of subsections (c) and (d) of this section:
 
 &emsp;(2) A reference to the “Consolidated Farm Service Agency” includes any other office, agency, or administrative unit of the Department assigned the functions authorized for the Consolidated Farm Service Agency under section 6932 of this title.
 
-(Pub. L. 103–354, title II, §246, Oct. 13, 1994, 108 Stat. 3223; Pub. L. 104–127, title III, §336(a)(2)(D), (b)(2)(B), (c)(3), (d)(2), Apr. 4, 1996, 110 Stat. 1005, 1006.)
+(Pub. L. 103–354, title II, §246, Oct. 13, 1994, 108 Stat. 3223; Pub. L. 104–127, title III, §336(a)(2)(D), (b)(2)(B), (c)(3), (d)(2), Apr. 4, 1996, 110 Stat. 1005, 1006; Pub. L. 107–171, title VIII, §8002(c), May 13, 2002, 116 Stat. 473.)
 
 #### References in Text
 
@@ -67,6 +67,8 @@ The Farms for the Future Act of 1990, referred to in subsec. (b)(5), is Pub. L. 
 Section is comprised of section 246 of Pub. L. 103–354. Subsec. (f) of section 246 of Pub. L. 103–354 amended sections 2001, 2002, 2005, and 3862 of Title 16, Conservation, and repealed section 590e of Title 16.
 
 #### Amendments
+
+2002—Subsec. (b)(2). Pub. L. 107–171 substituted “forest land enhancement program” for “forestry incentive program”.
 
 1996—Subsec. (b)(1). Pub. L. 104–127, §336(d)(2)(A), redesignated par. (3) as (1) and struck out former par. (1) which read as follows: “The rural environmental conservation program under title X of the Agricultural Act of 1970 (16 U.S.C. 1501 et seq.).”
 

@@ -28,7 +28,7 @@ The Commissioner of Social Security may enter into an agreement with any State w
 
 If any individual who has attained the age of 18 and is receiving benefits under this subchapter on the basis of blindness or a disability which began before he or she attained the age of 22—
 
-&emsp;(1) becomes entitled, on or after the effective date of this subsection, to child's insurance benefits which are payable under section 402(d)of this title on the basis of such disability or to an increase in the amount of the child's insurance benefits which are so payable, and
+&emsp;(1) becomes entitled, on or after the effective date of this subsection, to child's insurance benefits which are payable under section 402(d) of this title on the basis of such disability or to an increase in the amount of the child's insurance benefits which are so payable, and
 
 &emsp;(2) ceases to be eligible for benefits under this subchapter because of such child's insurance benefits or because of the increase in such child's insurance benefits,
 
@@ -100,7 +100,7 @@ Amendment by Pub. L. 101–508 applicable with respect to medical assistance pro
 
 Section 9108 of Pub. L. 100–203 provided that the amendment made by that section is effective July 1, 1987.
 
-Section 9116(e) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to any individual without regard to whether the determination of his or her ineligibility for supplemental security income benefits by reason of the receipt of benefits under section 202 of the Social Security Act \[section 402 of this title\] (as described in section 1634(d)(2) of such Act \[subsec. (d)(2) of this section\]) occurred before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\]; but no individual shall be eligible for assistance under title XIX of such Act \[subchapter XIX of this chapter\] by reason of such amendments for any period before July 1, 1988.”
+Section 9116(e) of Pub. L. 100–203 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to any individual without regard to whether the determination of his or her ineligibility for supplemental security income benefits by reason of the receipt of benefits under section 202 of the Social Security Act \[section 402 of this title\]\(as described in section 1634(d)(2) of such Act \[subsec. (d)(2) of this section\]) occurred before, on, or after the date of the enactment of this Act \[Dec. 22, 1987\]; but no individual shall be eligible for assistance under title XIX of such Act \[subchapter XIX of this chapter\] by reason of such amendments for any period before July 1, 1988.”
 
 #### Effective Date of 1986 Amendments
 

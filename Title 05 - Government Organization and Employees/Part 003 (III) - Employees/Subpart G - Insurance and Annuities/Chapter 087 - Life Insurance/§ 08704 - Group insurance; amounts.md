@@ -13,7 +13,7 @@
 | 35 or under | 2\.0&nbsp;&nbsp;&nbsp; |
 | 36 | 1\.9&nbsp;&nbsp;&nbsp; |
 | 37 | 1\.8&nbsp;&nbsp;&nbsp; |
-| 38 | 1\.7&nbsp;&nbsp;&nbsp; |
+| 38 | 1\.7    |
 | 39 | 1\.6&nbsp;&nbsp;&nbsp; |
 | 40 | 1\.5&nbsp;&nbsp;&nbsp; |
 | 41 | 1\.4&nbsp;&nbsp;&nbsp; |
@@ -34,7 +34,7 @@
 
 > For any one accident the aggregate amount of group accidental death and dismemberment insurance that may be paid may not exceed an amount equal to the employee's basic insurance amount.
 
-(c) The Office shall prescribe regulations providing for the conversion of other than annual rates of pay to annual rates of pay and shallspecify the types of pay included in annual pay. For the purpose of this chapter, “annual pay” includes—
+(c) The Office shall prescribe regulations providing for the conversion of other than annual rates of pay to annual rates of pay and shall specify the types of pay included in annual pay. For the purpose of this chapter, “annual pay” includes—
 
 &emsp;(1) premium pay under section 5545(c)(1) of this title; and
 

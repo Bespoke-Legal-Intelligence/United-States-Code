@@ -12,11 +12,13 @@
 
 &emsp;(4) section 4 of the Internal Security Act of 1950 (50 U.S.C. 783).
 
-(c) The Secretary of Defense or the Secretary of Transportation, as appropriate, shall notify the Secretary in each case in which an individual is convicted of an offense listed in paragraph (1) of subsection (b). The Attorney General shall notify the Secretary in each case in which an individual is indicted or convicted of an offense listed in paragraph (2), (3), or (4) of subsection (b).
+(c) The Secretary of Defense or the Secretary of Homeland Security, as appropriate, shall notify the Secretary in each case in which an individual is convicted of an offense listed in paragraph (1) of subsection (b). The Attorney General shall notify the Secretary in each case in which an individual is indicted or convicted of an offense listed in paragraph (2), (3), or (4) of subsection (b).
 
-(Added Pub. L. 86–222, §3(a), Sept. 1, 1959, 73 Stat. 453, §3505; amended Pub. L. 92–128, §2(c), Sept. 25, 1971, 85 Stat. 348; Pub. L. 93–43, §8, June 18, 1973, 87 Stat. 88; Pub. L. 97–295, §4(79), Oct. 12, 1982, 96 Stat. 1311; renumbered §6105, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(d)(9), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(a)(1), (2)(A)(xiv), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 103–446, title XII, §1201(e)(19), Nov. 2, 1994, 108 Stat. 4686.)
+(Added Pub. L. 86–222, §3(a), Sept. 1, 1959, 73 Stat. 453, §3505; amended Pub. L. 92–128, §2(c), Sept. 25, 1971, 85 Stat. 348; Pub. L. 93–43, §8, June 18, 1973, 87 Stat. 88; Pub. L. 97–295, §4(79), Oct. 12, 1982, 96 Stat. 1311; renumbered §6105, Pub. L. 102–40, title IV, §402(b)(1), May 7, 1991, 105 Stat. 238; Pub. L. 102–54, §14(d)(9), June 13, 1991, 105 Stat. 287; Pub. L. 102–83, §4(a)(1), (2)(A)(xiv), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 403–405; Pub. L. 103–446, title XII, §1201(e)(19), Nov. 2, 1994, 108 Stat. 4686; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1994—Subsec. (c). Pub. L. 103–446 substituted “paragraph (2), (3), or (4) of subsection (b)” for “clauses (2), (3), or (4) of subsection (b) of this section” and “paragraph (1) of subsection (b)” for “clause (1) of that subsection” and transposed the first and second sentences.
 
@@ -37,6 +39,10 @@ Subsec. (b). Pub. L. 97–295, §4(79)(B), substituted pars. (1), (2), and (3) f
 1973—Subsec. (a). Pub. L. 93–43 inserted “(including the right to burial in a national cemetery)” after “gratuitous benefits” in first sentence.
 
 1971—Subsec. (b)(4). Pub. L. 92–128 substituted “in section 4 of the Internal Security Act of 1950” for “in the following sections of the Internal Security Act of 1950; sections 4, 112, and 113”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1973 Amendment
 

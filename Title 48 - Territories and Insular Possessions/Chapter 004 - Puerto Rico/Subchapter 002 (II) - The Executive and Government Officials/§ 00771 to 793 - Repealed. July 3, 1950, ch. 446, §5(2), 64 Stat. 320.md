@@ -18,7 +18,7 @@ Section 777, acts Mar. 2, 1917, ch. 145, §13, 39 Stat. 956; Feb. 18, 1931, ch. 
 
 Section 778, acts Mar. 2, 1917, ch. 145, §14, 39 Stat. 956; May 17, 1932, ch. 190, 47 Stat. 158, related to duties of Attorney General.
 
-Section 779, acts Mar. 2, 1917, ch. 145, §22, 39 Stat. 958; June 27, 1924, ch. 322, §2, 43 Stat. 631; May 17, 1932, ch. 190, 47 Stat. 158; June 24, 1948, ch. 610, §6, 62 Stat. 580, related to powers and duties of executive secretary.
+Section 779, acts Mar. 2, 1917, ch. 145, §22, 39 Stat. 958; June 27, 1924, ch. 322, §2, 43 Stat. 631; May 17, 1932, ch.190, 47 Stat. 158; June 24, 1948, ch. 610, §6, 62 Stat. 580, related to powers and duties of executive secretary.
 
 Section 780, acts Mar. 2, 1917, ch. 145, §15, 39 Stat. 956; May 17, 1932, ch. 190, 47 Stat. 158, related to powers and duties of Treasurer, including designation of depositaries.
 

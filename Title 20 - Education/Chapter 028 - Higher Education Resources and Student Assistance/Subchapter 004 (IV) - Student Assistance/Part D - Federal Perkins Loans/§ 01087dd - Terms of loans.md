@@ -32,11 +32,11 @@
 
 (1) Any agreement between an institution and a student for a loan from a student loan fund assisted under this part—
 
-&emsp;(A) shall be evidenced by note or other written instrument which, except as provided in paragraph (2), provides for repayment of the principal amount of the loan, together with interest thereon, in equal installments (or, if the borrower so requests, in graduated periodic installments determined in accordance with such schedules as may be approved by theSecretary) payable quarterly, bimonthly, or monthly, at the option of the institution, over a period beginning nine months after the date on which the student ceases to carry, at an institution of higher education or a comparable institution outside the United States approved for this purpose by the Secretary, at least one-half the normal full-time academic workload, and ending 10 years and 9 months after such date except that such period may begin earlier than 9 months after such date upon the request of the borrower;
+&emsp;(A) shall be evidenced by note or other written instrument which, except as provided in paragraph (2), provides for repayment of the principal amount of the loan, together with interest thereon, in equal installments (or, if the borrower so requests, in graduated periodic installments determined in accordance with such schedules as may be approved by the Secretary) payable quarterly, bimonthly, or monthly, at the option of the institution, over a period beginning nine months after the date on which the student ceases to carry, at an institution of higher education or a comparable institution outside the United States approved for this purpose by the Secretary, at least one-half the normal full-time academic workload, and ending 10 years and 9 months after such date except that such period may begin earlier than 9 months after such date upon the request of the borrower;
 
 &emsp;(B) shall include provision for acceleration of repayment of the whole, or any part, of such loan, at the option of the borrower;
 
-&emsp;(C)(i) may provide, at the option of the institution, in accordance with regulations of the Secretary, that during the repayment period of the loan, payments of principal and interest by the borrower with respect to all outstanding loans made to the student from a student loan fund assisted under this part shall be at a rate equal to not less than $40 per month, except that the institution may, subject to such regulations, permit a borrower to pay less than $40 per month for a period of not more than one year where necessary to avoid hardship to the borrower, but without extending the 10-year maximum repayment period provided for in subparagraph (A) of this paragraph; and
+&emsp;(C)(i) may provide, at the option of the institution, in accordance with regulations of the Secretary, that during the repayment period of the loan, payments of principal and interest by the borrower with respect to all outstanding loans made to the student from a student loan fund assisted under this part shall be at a rate equal to not less than $40 per month, except that the institution may, subject to suchregulations, permit a borrower to pay less than $40 per month for a period of not more than one year where necessary to avoid hardship to the borrower, but without extending the 10-year maximum repayment period provided for in subparagraph (A) of this paragraph; and
 
 &emsp;(ii) may provide that the total payments by a borrower for a monthly or similar payment period with respect to the aggregate of all loans held by the institution may, when the amount of a monthly or other similar payment is not a multiple of $5, be rounded to the next highest whole dollar amount that is a multiple of $5;
 
@@ -86,7 +86,7 @@
 
 &emsp;(B) to make the amount of the charge payable to the institution not later than the due date of the next installment.
 
-(6) Requests for deferment of repayment of loans under this part by students engaged in graduate or post-graduate fellowship-supported study (such as pursuant to a Fulbright grant) outside the United States shall be approved until completion of the period of the fellowship.
+(6) Requests for deferment of repayment of loans under this part by students engaged in graduate or post-graduate fellowship-supported study (such as pursuant to a Fulbright grant)outside the United States shall be approved until completion of the period of the fellowship.
 
 (7) There shall be excluded from the 9-month period that begins on the date on which a student ceases to carry at least one-half the normal full-time academic workload (as described in paragraph (1)(A)) any period not to exceed 3 years during which a borrower who is a member of a reserve component of the Armed Forces named in section 10101 of title 10 is called or ordered to active duty for a period of more than 30 days (as defined in section 101(d)(2) of such title). Such period of exclusion shall include the period necessary to resume enrollment at the borrower's next available regular enrollment period.
 
@@ -98,9 +98,11 @@ An agreement under this part for payment of Federal capital contributions shall 
 
 The Secretary shall ensure that, upon written request, an institution of higher education shall grant a borrower forbearance of principal and interest or principal only, renewable at 12-month intervals for a period not to exceed 3 years, on such terms as are otherwise consistent with the regulations issued by the Secretary and agreed upon in writing by the parties to the loan, if—
 
-&emsp;(1) the borrower's debt burden equals or exceeds 20 percent of such borrower's gross income; or
+&emsp;(1) the borrower's debt burden equals or exceeds 20 percent of such borrower's gross income;
 
-&emsp;(2) the institution determines that the borrower should qualify for forbearance for other reasons.
+&emsp;(2) the institution determines that the borrower should qualify for forbearance for other reasons; or
+
+&emsp;(3) the borrower is eligible for interest payments to be made on such loan for service in the Armed Forces under section 2174 of title 10 and, pursuant to that eligibility, the interest on such loan is being paid under subsection (j) of this section, except that the form of a forbearance under this paragraph shall be a temporary cessation of all payments on the loan other than payments of interest on the loan that are made under subsection (j) of this section.
 
 #### (f) Special repayment rule authority
 
@@ -144,7 +146,7 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 #### (A) In general
 
-&emsp;&emsp;If the borrower of a loan made under this part who has defaulted on the loan makes 12 ontime, consecutive, monthly payments of amounts owed on the loan, as determined by the institution, or by the Secretary in the case of a loan held by the Secretary, the loan shall be considered rehabilitated, and the institution that made that loan (or the Secretary, in the case of a loan held by the Secretary) shall request that any credit bureau organization or credit reporting agency to which the default was reported remove the default from the borrower's credit history.
+&emsp;&emsp;If the borrower of a loan made under this part who has defaulted on the loan makes 12 ontime, consecutive, monthly payments of amounts owed on the loan, as determined by the institution, or by the Secretary in the case of a loan held by the Secretary, the loan shall be considered rehabilitated, and the institution that made that loan (or the Secretary, in the case of a loan held by the Secretary) shall request that any credit bureau organization or credit reporting agencyto which the default was reported remove the default from the borrower's credit history.
 
 #### (B) Comparable conditions
 
@@ -178,7 +180,17 @@ The Secretary shall ensure that, upon written request, an institution of higher 
 
 &emsp;No incentive repayment option under an incentive repayment program authorized by this subsection may be paid for with Federal funds, including any Federal funds from the student loan fund, or with institutional funds from the student loan fund.
 
-(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725.)
+#### (j) Armed Forces student loan interest payment program
+
+#### (1) Authority
+
+&emsp;Using funds received by transfer to the Secretary under section 2174 of title 10 for the payment of interest on a loan made under this part to a member of the Armed Forces, the Secretary shall pay the interest on the loan as due for a period not in excess of 36 consecutive months. The Secretary may not pay interest on such a loan out of any funds other than funds that have been so transferred.
+
+#### (2) Forbearance
+
+&emsp;During the period in which the Secretary is making payments on a loan under paragraph (1), the institution of higher education shall grant the borrower forbearance in accordance with subsection (e)(3) of this section.
+
+(Pub. L. 89–329, title IV, §464, as added Pub. L. 99–498, title IV, §405(a), Oct. 17, 1986, 100 Stat. 1448; amended Pub. L. 100–50, §13(i), June 3, 1987, 101 Stat. 349; Pub. L. 100–369, §7(c), July 18, 1988, 102 Stat. 837; Pub. L. 101–239, title II, §2002(a)(3), Dec. 19, 1989, 103 Stat. 2111; Pub. L. 102–325, title IV, §464, July 23, 1992, 106 Stat. 580; Pub. L. 103–208, §2(f)(9)–(11), Dec. 20, 1993, 107 Stat. 2471; Pub. L. 105–244, title IV, §464, Oct. 7, 1998, 112 Stat. 1725; Pub. L. 107–314, div. A, title VI, §651(d), Dec. 2, 2002, 116 Stat. 2580.)
 
 #### References in Text
 
@@ -190,11 +202,15 @@ A prior section 1087dd, Pub. L. 89–329, title IV, §464, as added Pub. L. 92�
 
 #### Amendments
 
+2002—Subsec. (e)(3). Pub. L. 107–314, §651(d)(1), added par. (3).
+
+Subsec. (j). Pub. L. 107–314, §651(d)(2), added subsec. (j).
+
 1998—Subsec. (a)(2). Pub. L. 105–244, §464(a), amended par. (2) generally. Prior to amendment, par. (2) related to limitations on the total of loans that could be made to a student by an institution of higher education from a loan fund established pursuant to an agreement under this part.
 
 Subsec. (b)(1). Pub. L. 105–244, §464(b)(1), inserted at end “A student who is in default on a loan under this part shall not be eligible for an additional loan under this part unless such loan meets one of the conditions for exclusion under section 1087bb(g)(1)(E) of this title.”
 
-Subsec. (b)(2). Pub. L. 105–244, §464(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the institution's capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution less than full time, or (B) independent students, and if the total financial need of all such less than full-time and independent students at the institution exceeds 5 percent of the total financial need of all students at such institution, then at least 5 percent of such loans shall be made available to such less than full-time and independent students.”
+Subsec. (b)(2). Pub. L. 105–244, §464(b)(2), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “If the institution's capital contribution under section 1087bb of this title is directly or indirectly based in part on the financial need demonstrated by students who are (A) attending the institution less than full time, or (B) independent students, and if the total financial need of all such less than full-time andindependent students at the institution exceeds 5 percent of the total financial need of all students at such institution, then at least 5 percent of such loans shall be made available to such less than full-time and independent students.”
 
 Subsec. (c)(1)(D). Pub. L. 105–244, §464(c)(1), struck out “(i) 3 percent per year, (ii) 4 percent per year in the case of any loan made on or after July 1, 1981, or (iii)” after “at the rate of” and substituted “paragraph (2)(A)(i)” for “subparagraph (A)(i)”.
 
@@ -248,6 +264,10 @@ Subsecs. (e), (f). Pub. L. 102–325, §464(h), added subsecs. (e) and (f).
 
 1987—Subsec. (c)(2)(A)(vi). Pub. L. 100–50 inserted “or serving in an internship or residency program leading to a degree or certificate awarded by an institution of higher education, a hospital, or a health care facility that offers postgraduate training” before semicolon at end.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–314 applicable with respect to interest, and any special allowance under section 1087–1 of this title, that accrue for months beginning on or after Oct. 1, 2003, on student loans described in section 2174(c) of Title 10, Armed Forces, that were made before, on, or after such date to members of the Armed Forces who are on active duty (as defined in section 101(d) of Title 10) on or after that date, see section 651(e) of Pub. L. 107–314, set out as an Effective Date note under section 2174 of Title 10.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
@@ -266,7 +286,7 @@ Section 468 of Pub. L. 102–325, as amended by Pub. L. 102–394, title III, §
 
 &emsp;“(3) the changes made in section 464(c)(2)(A), relating to deferments, shall apply with respect to loans for which the first disbursement is made on or after July 1, 1993;
 
-&emsp;“(4) the changes made in section 467 \[20 U.S.C. 1087gg\], relating to the creation of a Perkins Loan Revolving Fund, shall take effect on September 15, 1997; and
+&emsp;“(4) the changes made in section 467 \[20 U.S.C. 1087gg\], relating to the creation of a Perkins LoanRevolving Fund, shall take effect on September 15, 1997; and
 
 &emsp;“(5) the changes in section 464(a)(2)(A), (B) and (C) shall not apply to any loan made for the award year beginning July 1, 1992 provided that the loan does not result in a violation of section 464(a)(2)(A), (B) and (C) as in effect prior to such date of enactment.”
 
@@ -274,7 +294,7 @@ Section 468 of Pub. L. 102–325, as amended by Pub. L. 102–394, title III, §
 
 #### Effective Date of 1989 Amendment
 
-Amendment by Pub. L. 101–239 applicable to any loan made, insured, or guaranteed under this part or part B of this subchapter, including a loan made before Dec. 19, 1989, and amendment effective Jan. 1, 1990, but inapplicable with respect to any portion of a period of deferment granted to a borrower under section 1077(a)(2)(C)(i), 1078(b)(1)(M)(i), or 1087dd(c)(2)(A)(i) ofthis title for service in a medical internship or residency program completed prior to Dec. 19, 1989, see section 2002(a)(4) of Pub. L. 101–239, set out as a note under section 1077 of this title.
+Amendment by Pub. L. 101–239 applicable to any loan made, insured, or guaranteed under this part or part B of this subchapter, including a loan made before Dec. 19, 1989, and amendment effective Jan. 1, 1990, but inapplicable with respect to any portion of a period of deferment granted to a borrower under section 1077(a)(2)(C)(i), 1078(b)(1)(M)(i), or 1087dd(c)(2)(A)(i) of this title for service in a medical internship or residency program completed prior to Dec. 19, 1989, see section 2002(a)(4) of Pub. L. 101–239, set out as a note under section 1077 of this title.
 
 #### Effective Date of 1987 Amendment
 
@@ -296,7 +316,7 @@ Section 405(b) of Pub. L. 99–498, as amended by Pub. L. 100–50, §22(d), Jun
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1087cc, 1092 of this title.
+This section is referred to in sections 1087cc, 1092 of this title; title 10 section 2174.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

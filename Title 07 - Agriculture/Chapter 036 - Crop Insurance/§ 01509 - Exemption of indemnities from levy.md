@@ -1,6 +1,6 @@
 ### §1509. Exemption of indemnities from levy
 
-Claims for indemnities under this chapter shall not be liable to attachment, levy, garnishment, or any other legal process before payment to the insured or to deduction on account of the indebtedness of the insured or the estate of the insured to the United States except claims of the United States or the Corporation arising under this chapter.
+Claims for indemnities under this chapter shall not be liable to attachment, levy, garnishment, or any other legal process before paymentto the insured or to deduction on account of the indebtedness of the insured or the estate of the insured to the United States except claims of the United States or the Corporation arising under this chapter.
 
 (Feb. 16, 1938, ch. 30, title V, §509, 52 Stat. 75; Pub. L. 103–354, title I, §115(c), Oct. 13, 1994, 108 Stat. 3204.)
 

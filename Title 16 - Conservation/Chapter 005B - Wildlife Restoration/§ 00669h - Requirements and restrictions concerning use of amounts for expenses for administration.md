@@ -8,7 +8,7 @@ Except as provided in subsection (b) of this section, the Secretary of the Inter
 
 &emsp;(2) personnel costs of employees who directly administer this chapter on a part-time basis for at least 20 hours each week, not to exceed the portion of those costs incurred with respect to the work hours of the employee during which the employee directly administers this chapter, as those hours are certified by the supervisor of the employee;
 
-&emsp;(3) support costs directly associated with personnel costs authorized under paragraphs (1) and (2), excluding costs associated with staffing and operation of regional offices of the United States Fish and Wildlife Service and the Department of the Interior other than for the purposes of this chapter;
+&emsp;(3) support costs directly associated with personnel costs authorized under paragraphs (1) and (2), excluding costs associated with staffing and operation of regional offices ofthe United States Fish and Wildlife Service and the Department of the Interior other than for the purposes of this chapter;
 
 &emsp;(4) costs of determining under section 669e(a) of this title whether State comprehensive plans and projects are substantial in character and design;
 
@@ -64,7 +64,7 @@ The Secretary of the Interior shall not use available amounts under subsection (
 
 #### (A) In general
 
-&emsp;&emsp;An audit under this subsection shall be performed under a contract that is awarded under competitive procedures (as defined insection 403 of title 41) by a person or entity that is not associated in any way with the Department of the Interior (except by way of a contract for the performance of an audit or other review).
+&emsp;&emsp;An audit under this subsection shall be performed under a contract that is awarded under competitive procedures (as defined in section 403 of title 41) by a person or entity that is not associated in any way with the Department of the Interior (except by way of a contract for the performance of an audit or other review).
 
 #### (B) Supervision of auditor
 

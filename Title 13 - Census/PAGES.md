@@ -1,6 +1,6 @@
 # Printed pages - Title 13 - Census
 
-GPO's 2001 edition (laws in effect as of 2002-01-22), from its printed page marks. The exact position of
+GPO's 2002 edition (laws in effect as of 2003-01-06), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title13.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -91,9 +91,10 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00301 - Collection and publication](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000301%20-%20Collection%20and%20publication.md) | 33–35 |
 | [&sect; 00302 - Rules, regulations, and orders](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000302%20-%20Rules%2C%20regulations%2C%20and%20orders.md) | 35 |
 | [&sect; 00303 - Secretary of Treasury functions](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000303%20-%20Secretary%20of%20Treasury%20functions.md) | 35 |
-| [&sect; 00304 - Filing export information, delayed filings, penalties for failure to file](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000304%20-%20Filing%20export%20information%2C%20delayed%20filings%2C%20penalties%20for%20failure%20to%20file.md) | 35 |
-| [&sect; 00305 - Violations, penalties](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000305%20-%20Violations%2C%20penalties.md) | 35 |
-| [&sect; 00306 - Delegation of functions](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000306%20-%20Delegation%20of%20functions.md) | 35–36 |
-| [&sect; 00307 - Relationship to general census law](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000307%20-%20Relationship%20to%20general%20census%20law.md) | 36 |
-| [Chapter 010 - Exchange of Census Information](Chapter%20010%20-%20Exchange%20of%20Census%20Information/README.md) | 36 |
-| [&sect; 00401 - Exchange of census information with Bureau of Economic Analysis](Chapter%20010%20-%20Exchange%20of%20Census%20Information/%C2%A7%2000401%20-%20Exchange%20of%20census%20information%20with%20Bureau%20of%20Economic%20Analysis.md) | 36 |
+| [&sect; 00304 - Filing export information, delayed filings, penalties for failure to file](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000304%20-%20Filing%20export%20information%2C%20delayed%20filings%2C%20penalties%20for%20failure%20to%20file.md) | 35–36 |
+| [&sect; 00305 - Penalties for unlawful export information activities](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000305%20-%20Penalties%20for%20unlawful%20export%20information%20activities.md) | 36–37 |
+| [&sect; 00306 - Delegation of functions](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000306%20-%20Delegation%20of%20functions.md) | 37 |
+| [&sect; 00307 - Relationship to general census law](Chapter%20009%20-%20Collection%20and%20Publication%20of%20Foreign%20Commerce%20and%20Trade%20Statistics/%C2%A7%2000307%20-%20Relationship%20to%20general%20census%20law.md) | 37 |
+| [Chapter 010 - Exchange of Census Information](Chapter%20010%20-%20Exchange%20of%20Census%20Information/README.md) | 37 |
+| [&sect; 00401 - Exchange of census information with Bureau of Economic Analysis](Chapter%20010%20-%20Exchange%20of%20Census%20Information/%C2%A7%2000401%20-%20Exchange%20of%20census%20information%20with%20Bureau%20of%20Economic%20Analysis.md) | 37–38 |
+| [&sect; 00402 - Providing business data to Designated Statistical Agencies](Chapter%20010%20-%20Exchange%20of%20Census%20Information/%C2%A7%2000402%20-%20Providing%20business%20data%20to%20Designated%20Statistical%20Agencies.md) | 38 |

@@ -1,6 +1,6 @@
 ### §5702. Per diem; employees traveling on official business
 
-(a)(1) Under regulations prescribed pursuant to section 5707 of this title, an employee, whentraveling on official business away from the employee's designated post of duty, or away from the employee's home or regular place of business (if the employee is described in section 5703 of this title), is entitled to any one of the following:
+(a)(1) Under regulations prescribed pursuant to section 5707 of this title, an employee, when traveling on official business away from the employee's designated post of duty, or away from the employee's home or regular place of business\(if the employee is described in section 5703 of this title), is entitled to any one of the following:
 
 &emsp;(A) a per diem allowance at a rate not to exceed that established by the Administrator of General Services for travel within the continental United States, and by the President or his designee for travel outside the continental United States;
 
@@ -114,21 +114,45 @@ Authority of President under subsec. (a) of this section to establish maximum ra
 
 Authority of President under subsec. (a) of this section to establish maximum rates of per diem allowances and reimbursements for actual and necessary expenses of official travel for employees of Government to extent that such authority pertains to travel status in localities in Alaska, Hawaii, the Commonwealth of Puerto Rico, and possessions of United States delegated to Secretary of Defense, see section 1(h) of Ex. Ord. No. 10621, set out as a note under section 301 of Title 3.
 
-#### Cost Savings for Official Travel
+#### Retention of Travel Promotional Items
 
-Pub. L. 103–355, title VI, §6008, Oct. 13, 1994, 108 Stat. 3367, provided that:
+Pub. L. 107–107, div. A, title XI, §1116, Dec. 28, 2001, 115 Stat. 1241, provided that:
 
 “(a)
 
-Guidelines.—The Administrator of the General Services Administration shall issue guidelines to ensure that agencies promote, encourage, and facilitate the use of frequent traveler programs offered by airlines, hotels, and car rental vendors by Federal employees who engage in official air travel, for the purpose of realizing to the maximum extent practicable cost savings for official travel.
+Definition.—In this section, the term ‘agency’ has the meaning given that term under section 5701 of title 5, United States Code.
 
 “(b)
 
-Requirement.—Any awards granted under such a frequent traveler program accrued through official travel shall be used only for official travel.
+Retention of Travel Promotional Items.—To the extent provided under subsection (c), a Federal employee, member of the Foreign Service, member of auniformed service, any family member or dependent of such an employee or member, or other individual who receives a promotional item (including frequent flyer miles, upgrade, or access to carrier clubs or facilities) as a result of using travel or transportation services obtained at Federal Government expense or accepted under section 1353 of title 31, United States Code, may retain the promotional item for personal use if the promotional item is obtained under the same terms as those offered to the general public and at no additional cost to the Federal Government.
 
 “(c)
 
-Report.—Not later than one year after the date of the enactment of this Act \[Oct. 13, 1994\], the Administrator shall report to Congress on efforts to promote the use of frequent traveler programs by Federal employees.”
+Limitation.—Subsection (b)—
+
+&emsp;“(1) applies only to travel that—
+
+&emsp;&emsp;“(A) is at the expense of an agency; or
+
+&emsp;&emsp;“(B) is accepted by an agency under section 1353 of title 31, United States Code; and
+
+&emsp;“(2) does not apply to travel by any officer, employee, or other official of the Government who is not in or under any agency.
+
+“(d)
+
+Regulatory Authority.—Any agency with authority to prescribe regulations governing the acquisition, acceptance, use, or disposal of any travel or transportation services obtained at Government expense or accepted under section 1353 of title 31, United States Code, may prescribe regulations to carry out subsection (b) with respect to those travel or transportation services.
+
+“(e)
+
+Repeal of Superseded Law.—\[Repealed section 6008 of Pub. L. 103–355, formerly set out as a note below.\]
+
+“(f)
+
+Applicability.—This section shall apply with respect to promotional items received before, on, or after the date of enactment of this Act \[Dec. 28, 2001\].”
+
+#### Cost Savings for Official Travel
+
+Pub. L. 103–355, title VI, §6008, Oct. 13, 1994, 108 Stat. 3367, related to maximizing practicable cost savings for official travel through use of frequent traveler programs, prior to repeal by Pub. L. 107–107, div. A, title XI, §1116(e), Dec. 28, 2001, 115 Stat. 1241.
 
 #### Reports to Congress of Per Diem and Mileage Allowance Payments for Fiscal Years 1979
 
@@ -156,5 +180,5 @@ Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5569, 5707, 5724a, 8474 of this title; title 2 sections 476, 1723; title 7 sections 3128, 5843; title 12 section 1834a; title 15 sections 1341, 4603; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709; title 18 section 4285; title 21 section 1544; title 22 sections 1474, 2396, 2704; title 24 section 415; title 25 sections 3006, 3505; title 26 section 4941; title 28 sections 456, 604, 1821; title 31 section 326; title 33 section 2732; title 36 sections 2101, 152403; title 38 section 111; title 42 sections 1873, 2210, 2477, 7238, 10163, 10265, 11221, 13458, 14195.
+This section is referred to in sections 5569, 5707, 5724a, 8474 of this title; title 2 sections 476, 1723; title 7 sections 2009dd–3, 3128, 5843; title 10 section 2784a; title 12 section 1834a; title 15 sections 1341, 4603; title 16 sections 971a, 971b, 2443, 3608, 3641, 5608, 5709, 5727; title 18 section 4285; title 21 section 1544; title 22 sections 1474, 2396, 2704; title 24 section 416; title 25 sections 3006, 3505; title 26 section 4941; title 28 sections 456, 604, 1821; title 31 section 326; title 33 section 2732; title 36 sections 2101, 152403, 152603; title 38 section 111; title 42 sections 1862n–9, 1873, 2210, 2477, 7238, 10163, 10265, 11221, 13458, 14195.
 

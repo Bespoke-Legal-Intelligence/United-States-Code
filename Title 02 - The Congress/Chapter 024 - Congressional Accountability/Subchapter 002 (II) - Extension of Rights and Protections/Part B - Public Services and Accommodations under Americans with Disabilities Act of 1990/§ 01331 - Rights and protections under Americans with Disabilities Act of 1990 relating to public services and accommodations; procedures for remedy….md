@@ -50,7 +50,7 @@ The remedy for a violation of subsection (b) of this section shall be such remed
 
 #### (3) Complaint, hearing, Board review
 
-&emsp;If mediation under paragraph (2) has not succeeded in resolving the dispute, and if the General Counsel believes that a violation of subsection (b) of this section may have occurred, the General Counsel may file with the Office a complaint against any entity responsible for correcting the violation. The complaint shall be submitted to a hearing officer for decisionpursuant to subsections (b) through (h) of section 1405 of this title and any person who has filed a charge under paragraph (1) may intervene as of right, with the full rights of a party. The decision of the hearing officer shall be subject to review by the Board pursuant to section 1406 of this title.
+&emsp;If mediation under paragraph (2) has not succeeded in resolving the dispute, and if the General Counsel believes that a violation of subsection (b) of this section may have occurred, the General Counsel may file with the Office a complaint against any entity responsible for correcting the violation. The complaint shall be submitted to a hearing officer for decision pursuant to subsections (b) through (h) of section 1405 of this title and any person who has filed a charge under paragraph (1) may intervene as of right, with the full rights of a party. The decision of the hearing officer shall be subject to review by the Board pursuant to section 1406 of this title.
 
 #### (4) Judicial review
 

@@ -28,7 +28,7 @@ It is the sense of Congress that the Secretary of Agriculture carry out a progra
 
 &emsp;&emsp;(B) obtain multiperil crop insurance, if available, to protect the crop that serves as security for the loan.
 
-> &emsp;If a producer does not have multiperil crop insurance and is located in a county in whichthe signup period for multiperil crop insurance has expired, the producer shall be required to obtain other crop insurance, if available.
+> &emsp;If a producer does not have multiperil crop insurance and is located in a county in which the signup period for multiperil crop insurance has expired, the producer shall be required to obtain other crop insurance, if available.
 
 &emsp;(7) The total amount in advance recourse loans that may be made to a producer under section 424 \[7 U.S.C. 1433c\] may not exceed $50,000.
 

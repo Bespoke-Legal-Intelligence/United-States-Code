@@ -1,0 +1,90 @@
+### §1701. Definitions
+
+In this chapter:
+
+#### (1) Alien
+
+&emsp;The term “alien” has the meaning given the term in section 1101(a)(3) of this title.
+
+#### (2) Appropriate committees of Congress
+
+&emsp;The term “appropriate committees of Congress” means the following:
+
+&emsp;&emsp;(A) The Committee on the Judiciary, the Select Committee on Intelligence, and the Committee on Foreign Relations of the Senate.
+
+&emsp;&emsp;(B) The Committee on the Judiciary, the Permanent Select Committee on Intelligence, and the Committee on International Relations of the House of Representatives.
+
+#### (3) Chimera system
+
+&emsp;The term “Chimera system” means the interoperable electronic data system required to be developed and implemented by section 1722(a)(2) of this title.
+
+#### (4) Federal law enforcement agencies
+
+&emsp;The term “Federal law enforcement agencies” means the following:
+
+&emsp;&emsp;(A) The United States Secret Service.
+
+&emsp;&emsp;(B) The Drug Enforcement Administration.
+
+&emsp;&emsp;(C) The Federal Bureau of Investigation.
+
+&emsp;&emsp;(D) The Immigration and Naturalization Service.
+
+&emsp;&emsp;(E) The United States Marshall Service.
+
+&emsp;&emsp;(F) The Naval Criminal Investigative Service.
+
+&emsp;&emsp;(G) The Coastal Security Service.
+
+&emsp;&emsp;(H) The Diplomatic Security Service.
+
+&emsp;&emsp;(I) The United States Postal Inspection Service.
+
+&emsp;&emsp;(J) The Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice.
+
+&emsp;&emsp;(K) The United States Customs Service.
+
+&emsp;&emsp;(L) The National Park Service.
+
+#### (5) Intelligence community
+
+&emsp;The term “intelligence community” has the meaning given that term in section 401a(4) of title 50.
+
+#### (6) President
+
+&emsp;The term “President” means the President of the United States, acting through the Assistant to the President for Homeland Security, in coordination with the Secretary of State, the Commissioner of Immigration and Naturalization, the Attorney General, the Director of Central Intelligence, the Director of the Federal Bureau of Investigation, the Secretary of Transportation, the Commissioner of Customs, and the Secretary of the Treasury.
+
+#### (7) USA PATRIOT Act
+
+&emsp;The term “USA PATRIOT Act” means the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001 (Public Law 107–56).
+
+(Pub. L. 107–173, §2, May 14, 2002, 116 Stat. 544; Pub. L. 107–296, title XI, §1112(c), Nov. 25, 2002, 116 Stat. 2276.)
+
+#### References in Text
+
+This chapter, referred to in introductory provisions, was in the original “this Act”, meaning Pub. L. 107–173, May 14, 2002, 116 Stat. 543, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, referred to in par. (7), is Pub. L. 107–56, Oct. 26, 2001, 115 Stat. 272, as amended. For complete classification of this Act to the Code, see Short Title of 2001 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
+
+#### Amendments
+
+2002—Par. (4)(J). Pub. L. 107–296 substituted “Bureau of Alcohol, Tobacco, Firearms, and Explosives, Department of Justice” for “Bureau of Alcohol, Tobacco, and Firearms”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+#### Short Title
+
+Pub. L. 107–173, §1(a), May 14, 2002, 116 Stat. 543, provided that: “This Act \[enacting this chapter, amending sections 1187, 1201, 1221, 1356, 1372, and 1379 of this title, enacting provisions set out as notes under section 1221 of this title, and amending provisions set out as notes under sections 1101, 1351, and 1365a of this title\] may be cited as the ‘Enhanced Border Security and Visa Entry Reform Act of 2002’.”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+

@@ -2,7 +2,7 @@ Part VI—Peacekeeping Operations
 
 #### Part Referred to in Other Sections
 
-This part is referred to in sections 2304, 2371, 2375, 2776, 2799aa, 2799aa–1, 3423 of this title.
+This part is referred to in sections 2304, 2371, 2375, 2799aa, 2799aa–1, 3423 of this title.
 
 
 ---

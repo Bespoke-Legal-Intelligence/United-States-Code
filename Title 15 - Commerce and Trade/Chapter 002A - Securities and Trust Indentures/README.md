@@ -39,6 +39,7 @@
 | (c) | Temporary order. |
 | (d) | Review of temporary orders. |
 | (e) | Authority to enter order requiring accounting and disgorgement. |
+| (f) | Authority of the Commission to prohibit persons from serving as officers or directors. |
 | [77i.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077i%20-%20Court%20review%20of%20orders.md) | Court review of orders. |
 | [77j.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077j%20-%20Information%20required%20in%20prospectus.md) | Information required in prospectus. |
 | (a) | Information in registration statement; documents not required. |
@@ -84,6 +85,10 @@
 | (c) | Registration and qualification requirements; exemption; subsequent enactment by State. |
 | (d) | Implementation. |
 | [77s.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077s%20-%20Special%20powers%20of%20Commission.md) | Special powers of Commission. |
+| (a) | Rules and regulations. |
+| (b) | Recognition of accounting standards. |
+| (c) | Production of evidence. |
+| (d) | Federal and State cooperation. |
 | [77t.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077t%20-%20Injunctions%20and%20prosecution%20of%20offenses.md) | Injunctions and prosecution of offenses. |
 | (a) | Investigation of violations. |
 | (b) | Action for injunction or criminal prosecution in district court. |
@@ -91,6 +96,7 @@
 | (d) | Money penalties in civil actions. |
 | (e) | Authority of court to prohibit persons from serving as officers and directors. |
 | (f) | Prohibition of attorneys’ fees paid from Commission disgorgement funds. |
+| (g) | Authority of a court to prohibit persons from participating in an offering of penny stock. |
 | [77u.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077u%20-%20Hearings%20by%20Commission.md) | Hearings by Commission. |
 | [77v.](Subchapter%20001%20%28I%29%20-%20Domestic%20Securities/%C2%A7%2000077v%20-%20Jurisdiction%20of%20offenses%20and%20suits.md) | Jurisdiction of offenses and suits. |
 | (a) | Federal and State courts; venue; service of process; review; removal; costs. |

@@ -32,7 +32,7 @@
 
 &emsp;(2) within 120 days before the date of the filing of the petition, a custodian, other than a trustee, receiver, or agent appointed or authorized to take charge of less than substantially all of the property of the debtor for the purpose of enforcing a lien against such property, was appointed or took possession.
 
-(i) If the court dismisses a petition under this section other than on consent of all petitioners and the debtor, and if the debtor does not waive the right to judgment under this subsection, the court may grant judgment—
+(i) If the court dismisses a petition under this section other than on consent of all petitionersand the debtor, and if the debtor does not waive the right to judgment under this subsection, the court may grant judgment—
 
 &emsp;(1) against the petitioners and in favor of the debtor for—
 
@@ -84,7 +84,7 @@ Subsection (c) permits creditors other than the original petitioning creditors t
 
 Subsection (d) permits the debtor to file an answer to an involuntary petition. The subsection also permits a general partner in a partnership debtor to answer an involuntary petition against the partnership if he did not join in the petition. Thus, a partnership petition by less than all of the general partners is treated as an involuntary, not a voluntary, petition.
 
-The court may, under subsection (e), require the petitioners to file a bond to indemnify the debtor for such amounts as the court may later allow under subsection (i). Subsection (i) provides for costs, attorneys fees, and damages in certain circumstances. The bonding requirement will discourage frivolous petitions as well as spiteful petitions based on a desire to embarrass the debtor (who may be a competitor of a petitioning creditor) or to put the debtor out of business without good cause. An involuntary petition may put a debtor out of business even if it is without foundation and is later dismissed.
+The court may, under subsection (e), require the petitioners to file a bond to indemnify the debtor for such amounts as the court may later allow under subsection\(i). Subsection (i) provides for costs, attorneys fees, and damages in certain circumstances. The bonding requirement will discourage frivolous petitions as well as spiteful petitions based on a desire to embarrass the debtor (who may be a competitor of a petitioning creditor) or to put the debtor out of business without good cause. An involuntary petition may put a debtor out of business even if it is without foundation and is later dismissed.
 
 Subsection (f) is both a clarification and a change from existing law. It permits the debtor to continue to operate any business of the debtor and to dispose of property as if the case had not been commenced. The court is permitted, however, to control the debtor's powers under this subsection by appropriate orders, such as where there is a fear that the debtor may attempt to abscond with assets, dispose of them at less than their fair value, or dismantle his business, all to the detriment of the debtor's creditors.
 
@@ -136,11 +136,11 @@ Amendment by section 283 of Pub. L. 99–554 effective 30 days after Oct. 27, 19
 
 #### Effective Date of 1984 Amendment
 
-Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect to cases filed 90 days after July 10, 1984, and amendment by section 426(b) of Pub. L. 98–353 effective July 10, 1984, see section 552(a), (b) of Pub. L. 98–353, set out as a note under section 101 of this title.
+Amendment by sections 426(a) and 427 of Pub. L. 98–353 effective with respect to cases filed 90 days afterJuly 10, 1984, and amendment by section 426(b) of Pub. L. 98–353 effective July 10, 1984, see section 552(a), (b) of Pub. L. 98–353, set out as a note under section 101 of this title.
 
 #### Adjustment of Dollar Amounts
 
-For adjustment of dollar amounts specified in subsec. (b)(1), (2) of this section by the Judicial Conference ofthe United States, effective Apr. 1, 2001, see note set out under section 104 of this title.
+For adjustment of dollar amounts specified in subsec. (b)(1), (2) of this section by the Judicial Conference of the United States, effective Apr. 1, 2001, see note set out under section 104 of this title.
 
 #### Section Referred to in Other Sections
 

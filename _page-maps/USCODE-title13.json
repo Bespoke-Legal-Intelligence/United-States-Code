@@ -1,7 +1,7 @@
 {
  "built_by": "uscode_git_v0.1.12",
  "eid": "USCODE-title13",
- "package": "USCODE-2001-title13",
+ "package": "USCODE-2002-title13",
  "pieces": [
   {
    "id": "13_",
@@ -258,7 +258,7 @@
      8,
      [
       [
-       180,
+       122,
        "[Page 9]"
       ]
      ]
@@ -287,7 +287,7 @@
      20,
      [
       [
-       758,
+       706,
        "[Page 10]"
       ]
      ]
@@ -1038,14 +1038,18 @@
    "id": "13_301",
    "marks": [
     [
-     "L",
-     50,
-     "[Page 34]",
-     true
+     "I",
+     48,
+     [
+      [
+       113,
+       "[Page 34]"
+      ]
+     ]
     ],
     [
      "L",
-     120,
+     118,
      "[Page 35]",
      true
     ]
@@ -1076,40 +1080,51 @@
   },
   {
    "id": "13_304",
-   "marks": [],
-   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00304 - Filing export information, delayed filings, penalties for failure to file.md",
-   "printed_pages": [
-    35,
-    35
-   ]
-  },
-  {
-   "id": "13_305",
-   "marks": [],
-   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00305 - Violations, penalties.md",
-   "printed_pages": [
-    35,
-    35
-   ]
-  },
-  {
-   "id": "13_306",
    "marks": [
     [
      "I",
      2,
      [
       [
-       181,
+       517,
        "[Page 36]"
       ]
      ]
     ]
    ],
-   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00306 - Delegation of functions.md",
+   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00304 - Filing export information, delayed filings, penalties for failure to file.md",
    "printed_pages": [
     35,
     36
+   ]
+  },
+  {
+   "id": "13_305",
+   "marks": [
+    [
+     "I",
+     54,
+     [
+      [
+       126,
+       "[Page 37]"
+      ]
+     ]
+    ]
+   ],
+   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00305 - Penalties for unlawful export information activities.md",
+   "printed_pages": [
+    36,
+    37
+   ]
+  },
+  {
+   "id": "13_306",
+   "marks": [],
+   "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00306 - Delegation of functions.md",
+   "printed_pages": [
+    37,
+    37
    ]
   },
   {
@@ -1117,8 +1132,8 @@
    "marks": [],
    "path": "Chapter 009 - Collection and Publication of Foreign Commerce and Trade Statistics/§ 00307 - Relationship to general census law.md",
    "printed_pages": [
-    36,
-    36
+    37,
+    37
    ]
   },
   {
@@ -1126,20 +1141,36 @@
    "marks": [],
    "path": "Chapter 010 - Exchange of Census Information/README.md",
    "printed_pages": [
-    36,
-    36
+    37,
+    37
    ]
   },
   {
    "id": "13_401",
-   "marks": [],
+   "marks": [
+    [
+     "L",
+     20,
+     "[Page 38]",
+     true
+    ]
+   ],
    "path": "Chapter 010 - Exchange of Census Information/§ 00401 - Exchange of census information with Bureau of Economic Analysis.md",
    "printed_pages": [
-    36,
-    36
+    37,
+    38
+   ]
+  },
+  {
+   "id": "13_402",
+   "marks": [],
+   "path": "Chapter 010 - Exchange of Census Information/§ 00402 - Providing business data to Designated Statistical Agencies.md",
+   "printed_pages": [
+    38,
+    38
    ]
   }
  ],
- "provenance_line": "<!-- USCODE-2001-title13 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
+ "provenance_line": "<!-- USCODE-2002-title13 | converted by govinfo_md_v0.1.2 from GPO's HTML; text unchanged -->",
  "title_folder": "Title 13 - Census"
 }

@@ -2,7 +2,7 @@
 
 #### (a) Election to register with the Commission
 
-A board of trade that meets the requirements of subsection (b) of this section may operate as an exempt board of trade on receipt from the board of trade of a notice, provided in such manner as the Commission may by rule or regulation prescribe, that the board of trade elects to operate as an exempt board of trade. Except as otherwise provided in this section, no provision of this chapter (other than subparagraphs (C) and (D) of sections 2(a)(1) and 16(e)(2)(B) of this title) shall apply with respect to a contract of sale of a commodity for future delivery (or option on such a contract) traded on or through the facilities of an exempt board of trade.
+A board of trade that meets the requirements of subsection (b) of this section may operate asan exempt board of trade on receipt from the board of trade of a notice, provided in such manner as the Commission may by rule or regulation prescribe, that the board of trade elects to operate as an exempt board of trade. Except as otherwise provided in this section, no provision of this chapter (other than subparagraphs (C) and (D) of sections 2(a)(1) and 16(e)(2)(B) of this title) shall apply with respect to a contract of sale of a commodity for future delivery (or option on such a contract) traded on or through the facilities of an exempt board of trade.
 
 #### (b) Criteria for exemption
 
@@ -22,7 +22,7 @@ To qualify for an exemption under subsection (a) of this section, a board of tra
 
 #### (c) Antimanipulation requirements
 
-A party to a contract of sale of a commodity for future delivery (or option on such a contractor on a commodity) that is traded on an exempt board of trade shall be subject to sections 6b, 6c(b), 6<i>o</i>, 9, 15, and 13(a)(2) of this title, and the Commission shall enforce those provisions with respect to any such trading.
+A party to a contract of sale of a commodity for future delivery (or option on such a contract or on a commodity) that is traded on an exempt board of trade shall be subject to sections 6b, 6c(b), 6<i>o</i>, 9, 15, and 13(a)(2) of this title, and the Commission shall enforce those provisions with respect to any such trading.
 
 #### (d) Price discovery
 

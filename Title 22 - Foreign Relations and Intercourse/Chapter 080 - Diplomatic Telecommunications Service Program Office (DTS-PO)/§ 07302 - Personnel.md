@@ -68,11 +68,15 @@
 
 #### (i) Semiannual reports
 
-&emsp;&emsp;&emsp;Beginning on August 1, 2001, and every 6 months thereafter, the CEO shall submit to the appropriate congressional committees of jurisdiction a report regarding the activities of DTS-PO during the preceding 6 months, the current capabilities of DTS-PO, and the priorities of DTS-PO for the subsequent 6-month period. Each report shall include a discussion about any administrative, budgetary, or management issues that hinder the ability of DTS-PO to fulfill its mandate.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), beginning on August 1, 2001, and every 6 monthsthereafter, the CEO shall submit to the appropriate congressional committees of jurisdiction a report regarding the activities of DTS-PO during the preceding 6 months, the current capabilities of DTS-PO, and the priorities of DTS-PO for the subsequent 6-month period. Each report shall include a discussion about any administrative, budgetary, or management issues that hinder the ability of DTS-PO to fulfill its mandate.
 
-#### (ii) Other reports
+#### (ii) Submittal date of reports to congressional intelligence committees
 
-&emsp;&emsp;&emsp;In addition to the report required by clause (i), the CEO shall keep the appropriate congressional committees of jurisdiction fully and currently informed with regard to DTS-PO activities, particularly with regard to any significant security infractions or major outages in the DTS.
+&emsp;&emsp;&emsp;In the case of reports required to be submitted under clause (i) to the congressional intelligence committees (as defined in section 401a of title 50), the submittal dates for such reports shall be as provided in section 415b of title 50.
+
+#### (iii) Other reports
+
+&emsp;&emsp;&emsp;In addition to the reports required by clause (i), the CEO shall keep the appropriate congressional committees of jurisdiction fully and currently informed with regard to DTS-PO activities, particularly with regard to any significant security infractions or major outages in the DTS.
 
 #### (b) Establishment of positions of Deputy Executive Officer
 
@@ -92,7 +96,7 @@ Effective upon the first appointment of a CEO pursuant to subsection (a) of this
 
 #### (1) In general
 
-&emsp;DTS-PO is authorized to have the following employees: a CEO established under subsection (a) of this section, two Deputy Executive Officers established under subsection (b)of this section, and not more than four other employees.
+&emsp;DTS-PO is authorized to have the following employees: a CEO established under subsection (a) of this section, two Deputy Executive Officers established under subsection (b) of this section, and not more than four other employees.
 
 #### (2) Applicability of certain civil service laws
 
@@ -112,11 +116,23 @@ Effective upon the first appointment of a CEO pursuant to subsection (a) of this
 
 &emsp;An employee of a Federal department or agency who was performing services on behalf of DTS-PO prior to the effective date of the reorganization under this chapter shall continue to be detailed to DTS-PO after that date, upon request.
 
-(Pub. L. 106–567, title III, §322, Dec. 27, 2000, 114 Stat. 2843.)
+(Pub. L. 106–567, title III, §322, Dec. 27, 2000, 114 Stat. 2843; Pub. L. 107–306, title VIII, §811(b)(5)(E), Nov. 27, 2002, 116 Stat. 2425.)
 
 #### References in Text
 
 The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (d)(2), are classified to section 3301 et seq. of Title 5, Government Organization and Employees.
+
+#### Amendments
+
+2002—Subsec. (a)(6)(D)(i). Pub. L. 107–306, §811(b)(5)(E)(i), substituted “Except as provided in clause (ii), beginning on” for “Beginning on”.
+
+Subsec. (a)(6)(D)(ii). Pub. L. 107–306, §811(b)(5)(E)(ii), (iii), added cl. (ii). Former cl. (ii) redesignated (iii).
+
+Subsec. (a)(6)(D)(iii). Pub. L. 107–306, §811(b)(5)(E)(iii), (iv), redesignated cl. (ii) as (iii) and substituted “reports required” for “report required”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 50 section 415b.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

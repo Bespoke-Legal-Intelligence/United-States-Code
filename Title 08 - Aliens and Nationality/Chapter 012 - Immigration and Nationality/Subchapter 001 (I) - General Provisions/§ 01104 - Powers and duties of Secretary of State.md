@@ -38,7 +38,7 @@ Subsec. (d). Pub. L. 103–236, §162(h)(2)(E), struck out before period at end 
 
 1977—Subsec. (a)(2). Pub. L. 95–105, §109(b)(1)(A), struck out “Security and” after “Bureau of”.
 
-Subsec. (b). Pub. L. 95–105, §109(b)(1)(B), substituted “Consular Affairs, to be headed by an Assistant Secretary of State for Consular Affairs” for “Security and Consular Affairs, to be headed by an administrator (with an appropriate title to be designated by the Secretary of State), with rank equal to that of an Assistant Secretary of State” and “Assistant Secretary of State for Consular Affairs” for “administrator” and struck out provision that the administrator shall be appointed by the President by and with the advice and consent of the Senate.
+Subsec. (b). Pub. L. 95–105, §109(b)(1)(B), substituted “Consular Affairs, to be headed by an Assistant Secretary of State for Consular Affairs” for “Security and Consular Affairs, to be headed by an administrator\(with an appropriate title to be designated by the Secretary of State), with rank equal to that of an Assistant Secretary of State” and “Assistant Secretary of State for Consular Affairs” for “administrator” and struck out provision that the administrator shall be appointed by the President by and with the advice and consent of the Senate.
 
 Subsec. (d). Pub. L. 95–105, §109(b)(1)(C), struck out “Security and” after “Bureau of”.
 
@@ -56,6 +56,10 @@ Amendment by Pub. L. 103–236 applicable with respect to officials, offices, an
 
 Amendment by Pub. L. 88–426 effective on first day of first pay period which begins on or after July 1, 1964, except to extent provided in section 501(c) of Pub. L. 88–426, see section 501 of Pub. L. 88–426.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Authority of Secretary of State
 
 Except as otherwise provided, Secretary of State to have and exercise any authority vested by law in any official or office of Department of State and references to such officials or offices deemed to refer to Secretary of State or Department of State, as appropriate, see section 2651a of Title 22, Foreign Relations and Intercourse, and section 161(d) of Pub. L. 103–236, set out as a note under section 2651a of Title 22.
@@ -70,5 +74,5 @@ Section 109(b)(5) of Pub. L. 95–105 provided that: “Any reference in any law
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1101 of this title.
+This section is referred to in section 1101 of this title; title 6 section 236.
 

@@ -42,7 +42,7 @@ The Secretary, acting through the Administrator of the Health Resources and Serv
 
 #### (3) State early detection, diagnosis, and intervention programs and systems; data collection
 
-&emsp;The Administrator of the Health Resources and Services Administration and the Director of the Centers for Disease Control and Prevention shall coordinate and collaborate in assisting States to establish newborn and infanthearing screening, evaluation and intervention programs and systems under subsection (a) of this section and to develop a data collection system under subsection (b) of this section.
+&emsp;The Administrator of the Health Resources and Services Administration and the Director of the Centers for Disease Control and Prevention shall coordinate and collaborate in assisting States to establish newborn and infant hearing screening, evaluation and intervention programs and systems under subsection (a) of this section and to develop a data collection system under subsection (b) of this section.
 
 #### (d) Rule of construction; religious accommodation
 
@@ -90,7 +90,7 @@ The Social Security Act, referred to in subsec. (c)(1), is act Aug. 14, 1935, ch
 
 Pub. L. 106–310, div. A, title VII, §701, Oct. 17, 2000, 114 Stat. 1120, provided that: “The purposes of this title \[enacting this section\] are to clarify the authority within the Public Health Service Act \[this chapter\] to authorize statewide newborn and infant hearing screening, evaluation and intervention programs and systems, technical assistance, a national applied research program, and interagency and private sector collaboration for policy development, in order to assist the States in making progress toward the following goals:
 
-&emsp;“(1) All babies born in hospitals in the United States and its territories should have a hearing screening before leaving the birthing facility. Babies born in other countries and residing in the United States via immigration or adoption should have a hearing screening as early as possible.
+&emsp;“(1) All babies born in hospitals in the United States and its territories should have a hearing screening before leaving the birthing facility. Babiesborn in other countries and residing in the United States via immigration or adoption should have a hearing screening as early as possible.
 
 &emsp;“(2) All babies who are not born in hospitals in the United States and its territories should have a hearing screening within the first 3 months of life.
 

@@ -50,7 +50,7 @@ The initial board of directors of a consolidated bank shall include the members 
 
 #### (B) Timing of elections
 
-&emsp;&emsp;Procedures for electing members of the board of directors of the consolidated bank under this subsection shall ensure that the beginning of the terms of such members coincide with the expiration of the terms of members of the interim board of directors of the bank under subsection (a) of this section.
+&emsp;&emsp;Procedures for electing members of the board of directors of the consolidated bank under this subsection shall ensure that thebeginning of the terms of such members coincide with the expiration of the terms of members of the interim board of directors of the bank under subsection (a) of this section.
 
 #### (4) FCA regulations
 

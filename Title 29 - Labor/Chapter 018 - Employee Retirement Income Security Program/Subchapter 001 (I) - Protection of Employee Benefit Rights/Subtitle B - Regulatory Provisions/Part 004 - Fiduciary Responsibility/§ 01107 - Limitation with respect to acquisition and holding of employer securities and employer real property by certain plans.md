@@ -18,7 +18,7 @@ Except as otherwise provided in this section and section 1114 of this title:
 
 &emsp;&emsp;(ii) the fair market value of the assets of the plan determined on January 1, 1975.
 
-&emsp;(B) Subparagraph (A) of this paragraph shall not apply to any plan which on any date after December 31, 1974; and before January 1, 1985, did not hold employer securities or employer real property (or both) the aggregate fair market value of which determined on such date exceeded 10 percent of the greater of
+&emsp;(B) Subparagraph (A) of this paragraph shall not apply to any plan which on any date afterDecember 31, 1974; and before January 1, 1985, did not hold employer securities or employer real property (or both) the aggregate fair market value of which determined on such date exceeded 10 percent of the greater of
 
 &emsp;&emsp;(i) the fair market value of the assets of the plan, determined on such date, or
 
@@ -70,7 +70,7 @@ Cross References.—
 
 &emsp;(B) an amount equal to the sum of (i) the total amount of the contributions to the plan received after December 31, 1974, and prior to such date, plus (ii) the fair market value of the assets of the plan, determined on January 1, 1975.
 
-(2) For purposes of this subsection, in the case of an employer security held by a plan after January 1, 1975, the ownership of which is derived from ownership of employer securities heldby the plan on January 1, 1975, or from the exercise of rights derived from such ownership, the value of such security held after January 1, 1975, shall be based on the value as of January 1, 1975, of the security from which ownership was derived. The Secretary shall prescribe regulations to carry out this paragraph.
+(2) For purposes of this subsection, in the case of an employer security held by a plan after January 1, 1975, the ownership of which is derived from ownership of employer securities held by the plan on January 1, 1975, or from the exercise of rights derived from such ownership, the value of such security held after January 1, 1975, shall be based on the value as of January 1, 1975, of the security from which ownership was derived. The Secretary shall prescribe regulations to carry out this paragraph.
 
 (3) An election under this paragraph may not be made after December 31, 1975. Such an election shall be made in accordance with regulations prescribed by the Secretary, and shall be irrevocable. A plan may make an election under this paragraph only if on January 1, 1975, the plan holds no employer real property. After such election and before January 1, 1985 the plan may not acquire any employer real property.
 
@@ -78,7 +78,7 @@ Cross References.—
 
 For purposes of this section—
 
-&emsp;(1) The term “employer security” means a security issued by an employer of employees covered by the plan, or by an affiliate of such employer. A contract to which section 1108(b)(5) of this title applies shall not be treated as a security for purposes of this section.
+&emsp;(1) The term “employer security” means a security issued by an employer of employees covered by the plan, or by an affiliate of suchemployer. A contract to which section 1108(b)(5) of this title applies shall not be treated as a security for purposes of this section.
 
 &emsp;(2) The term “employer real property” means real property (and related personal property) which is leased to an employer of employees covered by the plan, or to an affiliate of such employer. For purposes of determining the time at which a plan acquires employer real property for purposes of this section, such property shall be deemed to be acquired by the plan on the date on which the plan acquires the property or on the date on which the lease to the employer (or affiliate) is entered into, whichever is later.
 
@@ -208,7 +208,7 @@ Section 2 of Pub. L. 101–540 provided that: “The amendment made by section 1
 
 Amendment by section 7881(<i>l</i>)(1)–(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
-Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L. 99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
+Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Tax Reform Act of 1986, Pub. L.99–514, to which such amendment relates, see section 7891(f) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 
 Amendment by section 7894(e)(2) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

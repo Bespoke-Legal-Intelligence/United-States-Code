@@ -20,7 +20,7 @@ The purpose of a closure-acceleration project shall be, within a fixed period of
 
 &emsp;(A) define a clear, delineated scope of work for completion of the project;
 
-&emsp;(B) demonstrate that, with respect to the site of the proposed project, there is a regulatory agreement between the Department of Energy and other appropriate authorities forthe implementation of environmental remediation requirements that would allow for successful completion of the project;
+&emsp;(B) demonstrate that, with respect to the site of the proposed project, there is a regulatory agreement between the Department of Energy and other appropriate authorities for the implementation of environmental remediation requirements that would allow for successful completion of the project;
 
 &emsp;(C) demonstrate, to the maximum extent possible, the support of State and local elected officials and the public for the project;
 
@@ -58,7 +58,7 @@ Notwithstanding section 254c(d) of title 41, the Secretary of Energy may enter i
 
 #### (g) Funding
 
-(1) In the budget submitted to Congress under section 1105(a) of title 31 each year, the President shall set forth funds for carrying out closure-acceleration projects under this section as a separate item in the environmental restoration and waste management account of the Department of Energy budget.
+(1) In the budget submitted to Congress under section 1105(a) of title 31 each year, the President shall set forth funds for carrying out closure-acceleration projects under this section asa separate item in the environmental restoration and waste management account of the Department of Energy budget.
 
 (2) Funds appropriated for purposes of carrying out projects under this section shall remain available until expended.
 
@@ -142,7 +142,7 @@ Violation of Agreement.—(1) Except as provided under paragraph (3), an eligibl
 
 “(g)
 
-Report.—The Secretary shall include in each report on a closure project under section 3143(h) of the National Defense Authorization Act for Fiscal Year 1997 \[42 U.S.C. 7274n(h)\] a report on the incentives, if any, provided under this section with respect to the project for the period covered by such report.
+Report.—The Secretary shall include in each report on a closure project under section 3143(h) of theNational Defense Authorization Act for Fiscal Year 1997 \[42 U.S.C. 7274n(h)\] a report on the incentives, if any, provided under this section with respect to the project for the period covered by such report.
 
 “(h)
 

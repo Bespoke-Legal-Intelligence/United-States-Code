@@ -2,7 +2,7 @@
 
 (a)
 
-Accession Bonus Authorized.—A person who is a graduate of an accredited pharmacy school and who, during the period beginning on the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 and ending on September 30, 2004, executes a written agreement described in subsection (c) <sup>1</sup> to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
+Accession Bonus Authorized.—A person who is a graduate of an accredited pharmacy school and who, during the period beginning on the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 and ending on September 30, 2004, executes a written agreement described in subsection (d) to accept a commission as an officer of a uniformed service and remain on active duty for a period of not less than 4 years may, upon acceptance of the agreement by the Secretary concerned, be paid an accession bonus in an amount determined by the Secretary concerned.
 
 (b)
 
@@ -30,15 +30,17 @@ Repayment.—(1) An officer who receives a payment under subsection (a) and who 
 
 (4) A discharge in bankruptcy under title 11 that is entered less than 5 years after the termination of an agreement under this section does not discharge the person signing such agreement from a debt arising under such agreement or this subsection. This paragraph applies to any case commenced under title 11 after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001.
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §628(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–154.)
+(Added Pub. L. 106–398, §1 \[\[div. A\], title VI, §628(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–154; amended Pub. L. 107–314, div. A, title X, §1062(c)(1), Dec. 2, 2002, 116 Stat. 2650.)
 
 #### References in Text
 
 The date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001, referred to in subsecs. (a) and (e)(4), is the date of enactment of Pub. L. 106–398, which was approved Oct. 30, 2000.
 
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–314 substituted “subsection (d)” for “subsection (c)”.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 303a, 324 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be subsection “(d)”.</i>
 

@@ -26,7 +26,7 @@ the Federal Communications Commission, in its administration of the provisions o
 
 &emsp;(1) omitted;
 
-&emsp;(2) insure that all present and future authorized carriers shall have nondiscriminatory use of, and equitable access to, the communications satellite system and satellite terminal stations under just and reasonable charges, classifications, practices, regulations, and other terms and conditions and regulate the manner in which available facilities of the system and stations are allocated among such users thereof;
+&emsp;(2) insure that all present and future authorized carriers shall have nondiscriminatory use of, and equitable access to, the communications satellite system and satellite terminalstations under just and reasonable charges, classifications, practices, regulations, and other terms and conditions and regulate the manner in which available facilities of the system and stations are allocated among such users thereof;
 
 &emsp;(3) to (5) omitted;
 

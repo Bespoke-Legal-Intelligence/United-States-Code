@@ -134,7 +134,7 @@ Section 24705 of this title, referred to in par. (2), was repealed by Pub. L. 10
 
 1997—Pars. (2) to (6). Pub. L. 105–134, §407(1), (2), redesignated pars. (3) to (7) as (2) to (6), respectively, and struck out former par. (2) which read as follows: “ ‘avoidable loss’ means the avoidable costs of providing rail passenger transportation, less revenue attributable to the transportation, as determined by the Interstate Commerce Commission under section 553 of title 5.”
 
-Par. (7). Pub. L. 105–134, §407(2), (3), redesignated par. (8) as (7) and inserted “, including a unit of State or local government,” after “means a person”. Former par. (7) redesignated (6).
+Par. (7). Pub. L. 105–134, §407(2), (3), redesignated par. (8) as (7) and inserted “, including a unit of State orlocal government,” after “means a person”. Former par. (7) redesignated (6).
 
 Pars. (8) to (10). Pub. L. 105–134, §407(2), redesignated pars. (8) to (10) as (7) to (9), respectively.
 

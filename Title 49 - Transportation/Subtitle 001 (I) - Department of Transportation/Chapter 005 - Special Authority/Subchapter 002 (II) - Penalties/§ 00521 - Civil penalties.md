@@ -34,11 +34,11 @@ Recordkeeping and reporting violations.—A person required to make a report to 
 
 &emsp;(C)
 
-Violations pertaining to cdls.—Any person who is determined by the Secretary, after notice and opportunity for a hearing, to have committed an act which is a violation of section 31302, 31303, 31304, 31305(b), or 31310(g)(1)(A) of this title shall be liable to the United States for a civil penalty not to exceed $2,500 for each offense.
+Violations pertaining to cdls.—Any person who is determined by the Secretary, after notice and opportunity for a hearing, tohave committed an act which is a violation of section 31302, 31303, 31304, 31305(b), or 31310(g)(1)(A) of this title shall be liable to the United States for a civil penalty not to exceed $2,500 for each offense.
 
 &emsp;(D)
 
-Determination of amount.—The amount of any civil penalty, and a reasonable time for abatement of the violation, shall by written order be determined by the Secretary, taking into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, ability to pay, effect on ability to continue to do business, and such other matters as justice andpublic safety may require. In each case, the assessment shall be calculated to induce further compliance.
+Determination of amount.—The amount of any civil penalty, and a reasonable time for abatement of the violation, shall by written order be determined by the Secretary, taking into account the nature, circumstances, extent, and gravity of the violation committed and, with respect to the violator, the degree of culpability, history of prior offenses, ability to pay, effect on ability to continue to do business, and such other matters as justice and public safety may require. In each case, the assessment shall be calculated to induce further compliance.
 
 (3) The Secretary may require any violator served with a notice of violation to post a copy of such notice or statement of such notice in such place or places and for such duration as the Secretary may determine appropriate to aid in the enforcement of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), or 31502 of this title, as the case may be.
 
@@ -153,7 +153,7 @@ Subsec. (b)(2)(B) to (D). Pub. L. 105–178, §4015(b)(2), (3), added subpar. (B
 
 1996—Subsec. (b)(1)(B). Pub. L. 104–287 substituted “November 3, 1990” for “the date of enactment of this subparagraph” in introductory provisions.
 
-1994—Subsec. (b)(1)(A). Pub. L. 103–272, §5(m)(11)(A), substituted “a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title” for “section 3102 of this title or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, 12005(b), or 12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” and “any of those provisions” for “such sections or Act”.
+1994—Subsec. (b)(1)(A). Pub. L. 103–272, §5(m)(11)(A), substituted “a provision of subchapter III of chapter 311 (except sections 31138 and 31139) or section 31302, 31303, 31304, 31305(b), 31310(g)(1)(A), or 31502 of this title” for “section 3102 of this title or the Motor Carrier Safety Act of 1984 or section 12002, 12003, 12004, 12005(b), or12008(d)(2) of the Commercial Motor Vehicle Safety Act of 1986” and “any of those provisions” for “such sections or Act”.
 
 Subsec. (b)(2)(A). Pub. L. 103–272, §5(m)(11)(B), substituted “under subchapter III of chapter 311 (except sections 31138 and 31139) or section 31502 of this title” for “pursuant to section 3102 of this title or the Motor Carrier Safety Act of 1984”.
 
@@ -231,7 +231,7 @@ Submission to congress.—The Secretary shall transmit the results of such study
 
 #### Report; Penalties; Effectiveness
 
-Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to conduct a study of effectiveness of civil and criminal penalties established by amendments made by section 213 of Pub. L. 98–554 in deterring violations of commercial motor vehicle safety regulations issued under title II of Pub. L. 98–554 and in effectively prosecuting such violations when they occur, which study was to examine the effectiveness of penalties in effect before Oct. 30, 1984, in comparison to the penalties established by the amendments made by title II of Pub. L. 98–554, and was to further investigate the need for, and make recommendations concerning, increased fine levels for civil and criminal penalties, and the need for additional categories of civil and criminal penalties to deter further, and prosecute effectively, violations of such commercial motor vehicle safety regulations, and further directed Secretary to submit to Congress a report on the findings of this study, together with legislative recommendations, not later than 2 years after Oct. 30, 1984.
+Section 213(d) of Pub. L. 98–554 directed Secretary of Transportation to conduct a study of effectiveness of civil and criminal penalties established by amendments made by section 213 of Pub. L. 98–554 in deterring violations of commercial motor vehicle safety regulations issued under title II of Pub. L. 98–554 and in effectively prosecuting such violations when they occur, which study was to examine the effectiveness of penalties in effect before Oct. 30, 1984, in comparison to the penalties established by the amendments made by title II of Pub. L. 98–554, and was to further investigate the need for, and make recommendations concerning, increased fine levels for civil and criminal penalties, and the need for additional categories of civil and criminal penalties to deter further, and prosecute effectively,violations of such commercial motor vehicle safety regulations, and further directed Secretary to submit to Congress a report on the findings of this study, together with legislative recommendations, not later than 2 years after Oct. 30, 1984.
 
 #### Section Referred to in Other Sections
 

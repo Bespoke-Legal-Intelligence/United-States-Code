@@ -16,9 +16,7 @@
 | (c) | Removal of sanctions. |
 | (d) | Waiver. |
 | (e) | Contract sanctity. |
-| [5606\.](%C2%A7%2005606%20-%20Presidential%20reporting%20requirements.md) | Presidential reporting requirements. |
-| (a) | Omitted. |
-| (b) | Protection of classified information. |
+| [5606\.](%C2%A7%2005606%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93228%2C%20div.%20B%2C%20title%20XIII%2C%20%C2%A71308%28g%29%281%29%28B%29%2C%20Sept.%2030%2C%202002%2C%20116%20Stat.%201441.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -40,4 +38,4 @@ This chapter is referred to in title 50 section 441c; title 50 App. section 2405
 - [&sect; 05603 - United States export controls](%C2%A7%2005603%20-%20United%20States%20export%20controls.md)
 - [&sect; 05604 - Determinations regarding use of chemical or biological weapons](%C2%A7%2005604%20-%20Determinations%20regarding%20use%20of%20chemical%20or%20biological%20weapons.md)
 - [&sect; 05605 - Sanctions against use of chemical or biological weapons](%C2%A7%2005605%20-%20Sanctions%20against%20use%20of%20chemical%20or%20biological%20weapons.md)
-- [&sect; 05606 - Presidential reporting requirements](%C2%A7%2005606%20-%20Presidential%20reporting%20requirements.md)
+- [&sect; 05606 - Repealed. Pub. L. 107&#8211;228, div. B, title XIII, &sect;1308(g)(1)(B), Sept. 30, 2002, 116 Stat. 1441](%C2%A7%2005606%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93228%2C%20div.%20B%2C%20title%20XIII%2C%20%C2%A71308%28g%29%281%29%28B%29%2C%20Sept.%2030%2C%202002%2C%20116%20Stat.%201441.md)

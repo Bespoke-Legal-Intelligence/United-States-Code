@@ -2,11 +2,11 @@
 
 #### (a) National advanced scientific and technical education program
 
-The Director of the National Science Foundation (hereafter in sections 1862h to 1862j of this title referred to as the “Director”) shall award grants to associate-degree-granting colleges, and consortia thereof, to assist them in providing education in advanced-technology fields. The grant program shall place emphasis on the needs of students who have been in the workforce (including work in the home), and shall be designed to strengthen and expand the scientific and technical education and training capabilities of associate-degree-granting colleges through such methods as—
+The Director of the National Science Foundation (hereafter in sections 1862h to 1862j of this title referred to as the “Director”) shall award grants to associate-degree-granting colleges, and consortia thereof, to assist them in providing education in advanced-technology fields, and to improve the quality of their core education courses in science and mathematics. The grant program shall place emphasis on the needs of students who have been in the workforce (including work in the home), and shall be designed to strengthen and expand the scientific and technical education and training capabilities of associate-degree-granting colleges through such methods as—
 
-&emsp;(1) the development of model instructional programs in advanced-technology fields;
+&emsp;(1) the development of model instructional programs in advanced-technology fields and in core science and mathematics courses;
 
-&emsp;(2) the professional development of faculty and instructors, both full- and part-time, in advanced-technology fields;
+&emsp;(2) the professional development of faculty and instructors, both full- and part-time, who provide instruction in science, mathematics, and advanced-technology fields;
 
 &emsp;(3) the establishment of innovative partnership arrangements that—
 
@@ -42,9 +42,13 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 &emsp;(B) Each eligible partnership receiving a grant under this paragraph shall, at a minimum—
 
-&emsp;&emsp;(i) counsel students, including students who have been in the workforce (including work in the home), about the requirements and course offerings of the bachelor-degree-granting institution; and
+&emsp;&emsp;(i) counsel students, including students who have been in the workforce (including work in the home), about the requirements and course offerings of the bachelor-degree-granting institution;
 
-&emsp;&emsp;(ii) conduct workshops and orientation sessions to ensure that students are familiar with programs, including laboratories and financial aid programs, at the bachelor-degree-granting institution.
+&emsp;&emsp;(ii) conduct workshops and orientation sessions to ensure that students are familiar with programs, including laboratories and financial aid programs, at the bachelor-degree-granting institution;
+
+&emsp;&emsp;(iii) provide students with research experiences at bachelor's-degree-granting institutions participating in the partnership, including stipend support for students participating in summer programs; and
+
+&emsp;&emsp;(iv) provide faculty mentors for students participating in activities under clause (iii), including summer salary support for faculty mentors.
 
 > &emsp;Funds used by eligible partnerships to carry out clauses (i) and (ii) shall be from non-Federal sources. In-cash and in-kind resources used by eligible partnerships to carry out clauses (i) and (ii) shall not be considered to be contributions for purposes of applying subsection (f)(3) of this section.
 
@@ -52,7 +56,7 @@ The Director shall award grants for the establishment of centers of excellence, 
 
 #### (2) Outreach grants
 
-&emsp;The Director shall make grants to associate-degree-granting colleges with outstanding mathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and scienceeducation and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
+&emsp;The Director shall make grants to associate-degree-granting colleges with outstandingmathematics and science programs to strengthen relationships with secondary schools in the community served by the college by improving mathematics and science education and encouraging the interest and aptitude of secondary school students for careers in science and advanced-technology fields through such means as developing agreements with local educational agencies to enable students to satisfy entrance and course requirements at the associate-degree-granting college.
 
 #### (d) Coordination with other Federal departments
 
@@ -94,7 +98,7 @@ As used in this section—
 
 &emsp;(5) the term “local educational agency” has the meaning given such term in section 2891(12) <sup>1</sup> of title 20.
 
-(Pub. L. 102–476, §3, Oct. 23, 1992, 106 Stat. 2297; Pub. L. 105–244, title I, §102(a)(13)(B), Oct. 7, 1998, 112 Stat. 1620.)
+(Pub. L. 102–476, §3, Oct. 23, 1992, 106 Stat. 2297; Pub. L. 105–244, title I, §102(a)(13)(B), Oct. 7, 1998, 112 Stat. 1620; Pub. L. 107–368, §21(a), (b), Dec. 19, 2002, 116 Stat. 3064.)
 
 #### References in Text
 
@@ -110,6 +114,14 @@ Section was enacted as part of the Scientific and Advanced-Technology Act of 199
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–368, §21(a)(1), inserted “, and to improve the quality of their core education courses in science and mathematics” after “education in advanced-technology fields” in introductory provisions.
+
+Subsec. (a)(1). Pub. L. 107–368, §21(a)(2), inserted “and in core science and mathematics courses” after “advanced-technology fields”.
+
+Subsec. (a)(2). Pub. L. 107–368, §21(a)(3), substituted “who provide instruction in science, mathematics, and advanced-technology fields” for “in advanced-technology fields”.
+
+Subsec. (c)(1)(B)(iii), (iv). Pub. L. 107–368, §21(b), added cls. (iii) and (iv).
+
 1998—Subsec. (g)(2), (3). Pub. L. 105–244 substituted “section 101 of the Higher Education Act of 1965” for “section 1201(a) of the Higher Education Act of 1965 (20 U.S.C. 1141(a))”.
 
 #### Effective Date of 1998 Amendment
@@ -118,7 +130,7 @@ Amendment by Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1862h, 1862j of this title.
+This section is referred to in sections 1862h, 1862j of this title; title 15 section 7404.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

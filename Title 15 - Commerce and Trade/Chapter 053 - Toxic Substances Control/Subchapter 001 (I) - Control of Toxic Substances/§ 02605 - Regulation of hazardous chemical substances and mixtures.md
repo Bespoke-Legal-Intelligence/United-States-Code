@@ -28,7 +28,7 @@ If the Administrator finds that there is a reasonable basis to conclude that the
 
 #### (b) Quality control
 
-If the Administrator has a reasonable basis to conclude that a particular manufacturer or processor is manufacturing or processing a chemical substance or mixture in a manner which unintentionally causes the chemical substance or mixture to present or which will cause it to present an unreasonable risk of injury to health or the environment—
+If the Administrator has a reasonable basis to conclude that a particular manufacturer orprocessor is manufacturing or processing a chemical substance or mixture in a manner which unintentionally causes the chemical substance or mixture to present or which will cause it to present an unreasonable risk of injury to health or the environment—
 
 &emsp;(1) the Administrator may by order require such manufacturer or processor to submit a description of the relevant quality control procedures followed in the manufacturing or processing of such chemical substance or mixture; and
 
@@ -42,7 +42,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 #### (c) Promulgation of subsection (a) rules
 
-(1) In promulgating any rule under subsection (a) of this section with respect to a chemical substance or mixture, the Administrator shallconsider and publish a statement with respect to—
+(1) In promulgating any rule under subsection (a) of this section with respect to a chemical substance or mixture, the Administrator shall consider and publish a statement with respect to—
 
 &emsp;(A) the effects of such substance or mixture on health and the magnitude of the exposure of human beings to such substance or mixture,
 
@@ -66,7 +66,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 &emsp;(B) The Administrator may prescribe such rules and make such rulings concerning procedures in such hearings to avoid unnecessary costs or delay. Such rules or rulings may include (i) the imposition of reasonable time limits on each interested person's oral presentations, and (ii) requirements that any cross-examination to which a person may be entitled under subparagraph (A) be conducted by the Administrator on behalf of that person in such manner as the Administrator determines (I) to be appropriate, and (II) to be required for a full and true disclosure with respect to disputed issues of material fact.
 
-&emsp;(C)(i) Except as provided in clause (ii), if a group of persons each of whom under subparagraphs (A) and (B) would be entitled to conduct (or have conducted) cross-examination and who are determined by the Administrator to have the same or similar interests in the proceeding cannot agree upon a single representative of such interests for purposes of cross-examination, the Administrator may make rules and rulings (I) limiting the representation of such interest for such purposes, and (II) governing the manner in which such cross-examination shall be limited.
+&emsp;(C)(i) Except as provided in clause (ii), if a group of persons each of whom under subparagraphs (A) and (B) would be entitled to conduct (or have conducted) cross-examination and who are determined by the Administratorto have the same or similar interests in the proceeding cannot agree upon a single representative of such interests for purposes of cross-examination, the Administrator may make rules and rulings (I) limiting the representation of such interest for such purposes, and (II) governing the manner in which such cross-examination shall be limited.
 
 &emsp;(ii) When any person who is a member of a group with respect to which the Administrator has made a determination under clause (i) is unable to agree upon group representation with the other members of the group, then such person shall not be denied under the authority of clause (i) the opportunity to conduct (or have conducted) cross-examination as to issues affecting the person's particular interests if (I) the person satisfies the Administrator that the person has made a reasonable and good faith effort to reach agreement upon group representation with the other members of the group and (II) the Administrator determines that there are substantial and relevant issues which are not adequately presented by the group representative.
 
@@ -138,7 +138,7 @@ If the Administrator has a reasonable basis to conclude that a particular manufa
 
 &emsp;(i) an unreasonable risk of injury to health or environment would not result, and
 
-&emsp;(ii) good faith efforts have been made to develop a chemical substance which does notpresent an unreasonable risk of injury to health or the environment and which may be substituted for such polychlorinated biphenyl.
+&emsp;(ii) good faith efforts have been made to develop a chemical substance which does not present an unreasonable risk of injury to health or the environment and which may be substituted for such polychlorinated biphenyl.
 
 > An exemption granted under this subparagraph shall be subject to such terms and conditions as the Administrator may prescribe and shall be in effect for such period (but not more than one year from the date it is granted) as the Administrator may prescribe.
 

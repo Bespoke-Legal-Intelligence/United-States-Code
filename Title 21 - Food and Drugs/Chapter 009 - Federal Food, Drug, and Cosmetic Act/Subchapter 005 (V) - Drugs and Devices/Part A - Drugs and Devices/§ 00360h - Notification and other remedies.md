@@ -32,7 +32,7 @@ If the Secretary determines that—
 
 &emsp;(B) To replace the device with a like or equivalent device which is in conformity with all applicable requirements of this chapter.
 
-&emsp;(C) To refund the purchase price of the device (less a reasonable allowance for use if such device has been in the possession of the device user for one year or more—
+&emsp;(C) To refund the purchase price of the device (less a reasonable allowance for use ifsuch device has been in the possession of the device user for one year or more—
 
 &emsp;&emsp;(i) at the time of notification ordered under subsection (a) of this section, or
 

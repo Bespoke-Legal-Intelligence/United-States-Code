@@ -30,7 +30,7 @@ Nothing contained in this part shall be deemed (1) to amend any other provision 
 
 #### (c) Control over content or distribution of programs
 
-Nothing in this section shall be construed to authorize any department, agency, officer, or employee of the United States to exercise any direction, supervision, or control over the content or distribution of public telecommunications programs and services, or over the curriculum or program of instruction of any educational institution or school system.
+Nothing in this section shall be construed to authorize any department, agency, officer, oremployee of the United States to exercise any direction, supervision, or control over the content or distribution of public telecommunications programs and services, or over the curriculum or program of instruction of any educational institution or school system.
 
 (June 19, 1934, ch. 652, title III, §398, formerly §397, as added Pub. L. 87–447, May 1, 1962, 76 Stat. 67; renumbered §398 and amended Pub. L. 90–129, title I, §103(g), title II, §201(3), (5), Nov. 7, 1967, 81 Stat. 367, 368; Pub. L. 95–567, title III, §309, Nov. 2, 1978, 92 Stat. 2420; Pub. L. 100–626, §9(b), Nov. 7, 1988, 102 Stat. 3211.)
 

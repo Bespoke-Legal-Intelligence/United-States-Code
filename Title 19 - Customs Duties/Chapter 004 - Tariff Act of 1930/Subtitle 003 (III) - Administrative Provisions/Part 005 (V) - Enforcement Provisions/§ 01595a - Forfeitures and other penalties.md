@@ -24,7 +24,7 @@ Merchandise which is introduced or attempted to be introduced into the United St
 
 &emsp;(2) The merchandise may be seized and forfeited if—
 
-&emsp;&emsp;(A) its importation or entry is subject to any restriction or prohibition which is imposed by law relating to health, safety, or conservation and the merchandise is not in compliance with the applicable rule, regulation, or statute;
+&emsp;&emsp;(A) its importation or entry is subject to any restriction or prohibition which is imposed by law relating to health, safety, orconservation and the merchandise is not in compliance with the applicable rule, regulation, or statute;
 
 &emsp;&emsp;(B) its importation or entry requires a license, permit or other authorization of an agency of the United States Government and the merchandise is not accompanied by such license, permit, or authorization;
 
@@ -54,7 +54,7 @@ The Controlled Substances Act, referred to in subsec. (c)(1)(B), is title II of 
 
 #### Codification
 
-In subsec. (c)(1)(C), “section 80302 of title 49” substituted for “section 1 of the Act of August 9, 1939 (49U.S.C. App. 781)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
+In subsec. (c)(1)(C), “section 80302 of title 49” substituted for “section 1 of the Act of August 9, 1939 (49 U.S.C. App. 781)” on authority of Pub. L. 103–272, §6(b), July 5, 1994, 108 Stat. 1378, the first section of which enacted subtitles II, III, and V to X of Title 49, Transportation.
 
 #### Amendments
 
@@ -69,6 +69,10 @@ Subsec. (c). Pub. L. 99–570, §3123(3), added subsec. (c).
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–132 effective 1 year after Apr. 24, 1996, see section 607 of Pub. L. 104–132, set out as a note under section 841 of Title 18, Crimes and Criminal Procedure.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

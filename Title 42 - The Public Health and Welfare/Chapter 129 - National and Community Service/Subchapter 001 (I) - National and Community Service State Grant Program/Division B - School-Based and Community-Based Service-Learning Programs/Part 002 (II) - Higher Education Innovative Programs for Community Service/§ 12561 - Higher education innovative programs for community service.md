@@ -70,7 +70,7 @@ The Corporation, in consultation with the Secretary of Education, is authorized 
 
 &emsp;In making grants and entering into contracts under subsection (b) of this section, the Corporation shall give priority to applicants that submit applications containing proposals that—
 
-&emsp;&emsp;(A) demonstrate the commitment of the institution of higher education, other thanby demonstrating the commitment of the students, to supporting the community service projects carried out under the program;
+&emsp;&emsp;(A) demonstrate the commitment of the institution of higher education, other than by demonstrating the commitment of the students, to supporting the community service projects carried out under the program;
 
 &emsp;&emsp;(B) specify the manner in which the institution will promote faculty, administration, and staff participation in the community service projects;
 

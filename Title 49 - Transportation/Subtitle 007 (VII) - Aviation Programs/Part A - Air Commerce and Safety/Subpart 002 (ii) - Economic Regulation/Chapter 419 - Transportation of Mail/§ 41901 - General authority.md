@@ -2,7 +2,7 @@
 
 (a)
 
-Title 39.—The United States Postal Service may provide for the transportation of mail by aircraft in interstate air transportation under section 5402(d) and (f) of title 39.
+Title 39.—The United States Postal Service may provide for the transportation of mail by aircraft in interstate air transportation under section 5402(e) and (f) of title 39.
 
 (b)
 
@@ -34,7 +34,7 @@ Statements on Prices.—A petition for prescribing a reasonable price under this
 
 Statements on Required Services.—The Postal Service shall introduce as part of the record in every proceeding under this section a comprehensive statement of the services to be required of the air carrier and other information the Postal Service has that the Secretary considers material to the proceeding.
 
-(Pub. L. 103–272, §§1(e), 4(k)(1), (2), July 5, 1994, 108 Stat. 1153, 1370; Pub. L. 104–52, title VI, §631(c), Nov. 19, 1995, 109 Stat. 505; Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113.)
+(Pub. L. 103–272, §§1(e), 4(k)(1), (2), July 5, 1994, 108 Stat. 1153, 1370; Pub. L. 104–52, title VI, §631(c), Nov. 19, 1995, 109 Stat. 505; Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113; Pub. L. 107–206, title III, §3002(e)(2), Aug. 2, 2002, 116 Stat. 924.)
 
 Historical and Revision Notes
 
@@ -159,6 +159,8 @@ Aug. 23, 1958, Pub. L. 85–726, 72 Stat. 731, §1601(b)(3); added Oct. 4, 1984,
 Section 4(k) reflects amendments to the restatement required by section 1601(a)(8) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(c) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704), and section 1601(b)(3) of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 731), as added by section 3(f) of the Civil Aeronautics Board Sunset Act of 1984 (Public Law 98–443, 98 Stat. 1704). Section 1601(a)(8) provides that the authority under 49 App.:1371(<i>l</i>) and (m) and 1375(b)–(d) as those sections relate to transportation of mail by aircraft between places in Alaska (restated in sections 41107 and 41901–41903 of the revised title) ceases on January 1, 1999. Section 1601(b)(3) transfers the authority for prescribing rates for transportation of mail between places in Alaska from the Secretary of Transportation to the Postal Service effective January 1, 1999.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–206 substituted “5402(e)” for “5402(d)”.
 
 1999—Subsecs. (b)(1), (g). Pub. L. 106–31 repealed Pub. L. 103–272, §4(k). See 1994 Amendment notes below.
 

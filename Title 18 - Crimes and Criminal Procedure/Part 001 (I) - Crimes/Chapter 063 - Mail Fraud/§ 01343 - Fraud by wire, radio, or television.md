@@ -1,10 +1,12 @@
 ### §1343. Fraud by wire, radio, or television
 
-Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, transmits or causes to be transmitted by means of wire, radio, or television communication in interstate or foreign commerce, any writings, signs, signals, pictures, or sounds for the purpose of executing such scheme or artifice, shall be fined under this title or imprisoned not more than five years, or both. If the violation affects a financial institution, such person shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
+Whoever, having devised or intending to devise any scheme or artifice to defraud, or for obtaining money or property by means of false or fraudulent pretenses, representations, or promises, transmits or causes to be transmitted by means of wire, radio, or television communication in interstate or foreign commerce, any writings, signs, signals, pictures, or sounds for the purpose of executing such scheme or artifice, shall be fined under this title or imprisoned not more than 20 years, or both. If the violation affects a financial institution, such person shall be fined not more than $1,000,000 or imprisoned not more than 30 years, or both.
 
-(Added July 16, 1952, ch. 879, §18(a), 66 Stat. 722; amended July 11, 1956, ch. 561, 70 Stat. 523; Pub. L. 101–73, title IX, §961(j), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, §2504(i), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147.)
+(Added July 16, 1952, ch. 879, §18(a), 66 Stat. 722; amended July 11, 1956, ch. 561, 70 Stat. 523; Pub. L. 101–73, title IX, §961(j), Aug. 9, 1989, 103 Stat. 500; Pub. L. 101–647, title XXV, §2504(i), Nov. 29, 1990, 104 Stat. 4861; Pub. L. 103–322, title XXXIII, §330016(1)(H), Sept. 13, 1994, 108 Stat. 2147; Pub. L. 107–204, title IX, §903(b), July 30, 2002, 116 Stat. 805.)
 
 #### Amendments
+
+2002—Pub. L. 107–204 substituted “20 years” for “five years”.
 
 1994—Pub. L. 103–322 substituted “fined under this title” for “fined not more than $1,000”.
 
@@ -16,5 +18,5 @@ Whoever, having devised or intending to devise any scheme or artifice to defraud
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 24, 225, 981, 982, 1510, 1961, 2326, 2516, 3059A, 3293, 3322 of this title; title 7 section 12a; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b; title 15 sections 78<i>o</i>, 80b–3; title 47 sections 312, 503.
+This section is referred to in sections 24, 225, 981, 982, 1510, 1514A, 1961, 2326, 2516, 3293, 3322 of this title; title 7 section 12a; title 12 sections 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b; title 15 sections 78<i>o</i>, 80b–3; title 47 sections 312, 503.
 

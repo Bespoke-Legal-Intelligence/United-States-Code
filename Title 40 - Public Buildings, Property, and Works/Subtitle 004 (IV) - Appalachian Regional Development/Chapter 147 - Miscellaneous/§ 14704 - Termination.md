@@ -1,0 +1,22 @@
+### §14704. Termination
+
+This subtitle, except sections 14102(a)(1) and (b) and 14501, ceases to be in effect on October 1, 2006.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1278.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+14704
+
+40 App.:405.
+
+Pub. L. 89–4, title IV, §405, Mar. 9, 1965, 79 Stat. 23; Pub. L. 91–123, title I, §111, Nov. 25, 1969, 83 Stat. 216; Pub. L. 92–65, title II, §213, Aug. 5, 1971, 85 Stat. 173; Pub. L. 94–188, title I, §122(a), Dec. 31, 1975, 89 Stat. 1086; Pub. L. 96–506, §3(6), Dec. 8, 1980, 94 Stat. 2746; Pub. L. 105–178, title I, §1222(b) (1st sentence), June 9, 1998, 112 Stat. 224; Pub. L. 105–393, title II, §222, Nov. 13, 1998, 112 Stat. 3625; Pub. L. 107–149, §12, Mar. 12, 2002, 116 Stat. 71.
+

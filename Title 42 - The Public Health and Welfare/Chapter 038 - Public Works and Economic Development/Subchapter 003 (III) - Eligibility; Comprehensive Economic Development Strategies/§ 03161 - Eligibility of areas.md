@@ -24,7 +24,7 @@ An area that meets 1 or more of the criteria of subsection (a) of this section, 
 
 #### (1) In general
 
-&emsp;A determination of eligibility under subsection (a) of this section shall be supportedby the most recent Federal data available, or, if no recent Federal data is available, by the most recent data available through the government of the State in which the area is located.
+&emsp;A determination of eligibility under subsection (a) of this section shall be supported by the most recent Federal data available, or, if no recent Federal data is available, by the most recent data available through the government of the State in which the area is located.
 
 #### (2) Acceptance by Secretary
 

@@ -1,6 +1,6 @@
 ### §1139c. Allowable activities
 
-Funds made available under this part shall be used to support planning, applied research, training, resource exchanges or technology transfers, the delivery of services, or other activities the purpose of which is to design and implement programs to assist urban communities to meet and address their pressing and severe problems, such as the following:
+Funds made available under this part shall be used to support planning, applied research,training, resource exchanges or technology transfers, the delivery of services, or other activities the purpose of which is to design and implement programs to assist urban communities to meet and address their pressing and severe problems, such as the following:
 
 &emsp;(1) Work force preparation.
 

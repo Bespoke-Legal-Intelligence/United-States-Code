@@ -102,5 +102,5 @@ For purposes of this chapter, the terms “sub-Saharan Africa”, “sub-Saharan
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2466a of this title.
+This section is referred to in section 2466a of this title; title 7 section 1737.
 

@@ -1,6 +1,6 @@
 ### §524. Availability of appropriations
 
-(a) Appropriations for the Department of Justice are available for payment of—
+(a) Appropriations for the Department of Justice are available to the Attorney General for payment of—
 
 &emsp;(1) notarial fees, including such additional stenographic services as are required in connection therewith in the taking of depositions, and compensation and expenses of witnesses and informants, all at the rates authorized or approved by the Attorney General or the Assistant Attorney General for Administration; and
 
@@ -8,7 +8,7 @@
 
 (b) Except as provided in subsection (a) of this section, a claim of not more than $500 for expenses related to litigation that is beyond the control of the Department may be paid out of appropriations currently available to the Department for expenses related to litigation when the Comptroller General settles the payment.
 
-(c)(1) There is established in the United States Treasury a special fund to be known as the Department of Justice Assets Forfeiture Fund (hereafter in this subsection referred to as the“Fund”) which shall be available to the Attorney General without fiscal year limitation for the following law enforcement purposes—
+(c)(1) There is established in the United States Treasury a special fund to be known as the Department of Justice Assets Forfeiture Fund (hereafter in this subsection referred to as the “Fund”) which shall be available to the Attorney General without fiscal year limitation for the following law enforcement purposes—
 
 &emsp;(A) the payment, at the discretion of the Attorney General, of any expenses necessary to seize, detain, inventory, safeguard, maintain, advertise, sell, or dispose of property under seizure, detention, or forfeited pursuant to any law enforced or administered by the Department of Justice, or of any other necessary expense incident to the seizure, detention, forfeiture, or disposal of such property including—
 
@@ -58,17 +58,15 @@
 
 &emsp;(G) for purchase of evidence of any violation of the Controlled Substances Act, the Controlled Substances Import and Export Act, chapter 96 of title 18, or sections 1956 and 1957 of title 18;
 
-&emsp;(H) the payment of State and local property taxes on forfeited real property that accrued between the date of the violation giving rise to the forfeiture and the date of the forfeiture order; and <sup>1</sup>
+&emsp;(H) the payment of State and local property taxes on forfeited real property that accrued between the date of the violation giving rise to the forfeiture and the date of the forfeiture order; and
 
-&emsp;(I) payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in a joint law enforcement operation with a Federal law enforcement agency participating in the Fund; <sup>2</sup>
+&emsp;(I) payment of overtime salaries, travel, fuel, training, equipment, and other similar costs of State or local law enforcement officers that are incurred in a joint law enforcement operation with a Federal law enforcement agency participating in the Fund.
 
-&emsp;(I) <sup>3</sup> after all reimbursements and program-related expenses have been met at the end of fiscal year 1989, the Attorney General may transfer deposits from the Fund to the building and facilities account of the Federal prison system for the construction of correctional institutions.
+> Amounts for paying the expenses authorized by subparagraphs (B), (F), and (G) shall be specified in appropriations Acts and may be used under authorities available to the organization receiving the funds. Amounts for other authorized expenditures and payments from the Fund, including equitable sharing payments, are not required to be specified in appropriations acts. The Attorney General may exempt the procurement of contract services under subparagraph (A) under the Fund from section 3709 of the Revised Statutes of the United States (41 U.S.C. 5), title III of the Federal Property and Administrative Services Act of 1949 <sup>1</sup> (41 U.S.C. 251 and following), and other provisions of law as may be necessary to maintain the security and confidentiality of related criminal investigations.
 
-> Amounts for paying the expenses authorized by subparagraphs (A)(iv), (B), (F), (G), and (H) <sup>4</sup>shall be specified in appropriations Acts and may be used under authorities available to the organization receiving the funds. Amounts for other authorized expenditures and payments from the Fund, including equitable sharing payments, are not required to be specified in appropriations acts. The Attorney General may exempt the procurement of contract services under subparagraph (A) under the fund <sup>5</sup> from section 3709 of the Revised Statutes of the United States (41 U.S.C. 5), title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 and following), and other provisions of law as may be necessary to maintain the security and confidentiality of related criminal investigations.
+(2) Any award paid from the Fund, as provided in paragraph (1)(B) or (C), shall be paid at the discretion of the Attorney General or his delegate, under existing departmental delegation policies for the payment of awards, except that the authority to pay an award of $250,000 or more shall not be delegated to any person other than the Deputy Attorney General, the Associate Attorney General, the Director of the Federal Bureau of Investigation, or the Administrator of the Drug Enforcement Administration. Any award pursuant to paragraph (1)(B) shall not exceed $500,000. Any award pursuant to paragraph (1)(C) shall not exceed the lesser of $500,000 or one-fourth of the amount realized by the United States from the property forfeited, without both the personal approval of the Attorney General and written notice within 30 days thereof to the Chairmen and ranking minority members of the Committees on Appropriations and the Judiciary of the Senate and of the House of Representatives.
 
-(2) Any award paid from the Fund for information, as provided in paragraph (1)(B) or (C), shall be paid at the discretion of the Attorney General or his delegate, under existing departmental delegation policies for the payment of awards, except that the authority to pay an award of $250,000 or more shall not be delegated to any person other than the Deputy Attorney General, the Associate Attorney General, the Director of the Federal Bureau of Investigation, or the Administrator of the Drug Enforcement Administration. Any award for information pursuant to paragraph (1)(B) shall not exceed $250,000. Any award for information pursuant to paragraph (1)(C) shall not exceed the lesser of $250,000 or one-fourth of the amount realized by the United States from the property forfeited.
-
-(3) Any amount under subparagraph (F) of paragraph (1) shall be paid at the discretion of the Attorney General or his delegate, except that the authority to pay $100,000 or more may be delegated only to the respective head of the agency involved.
+(3) Any amount under subparagraph (G) of paragraph (1) shall be paid at the discretion of the Attorney General or his delegate, except that the authority to pay $100,000 or more may be delegated only to the respective head of the agency involved.
 
 (4) There shall be deposited in the Fund—
 
@@ -76,7 +74,7 @@
 
 &emsp;(B) all amounts representing the Federal equitable share from the forfeiture of property under any Federal, State, local or foreign law, for any Federal agency participating in the Fund;
 
-&emsp;(C) all amounts transferred by the Secretary of the Treasury pursuant to section 9703(g)(4)(A)(ii) <sup>4</sup> of title 31; and
+&emsp;(C) all amounts transferred by the Secretary of the Treasury pursuant to section 9703(g)(4)(A)(ii) <sup>1</sup> of title 31; and
 
 &emsp;(D) all amounts collected—
 
@@ -84,7 +82,7 @@
 
 &emsp;&emsp;(ii) pursuant to a restitution order under paragraph (1) or (3) of section 413(q) of the Controlled Substances Act for injuries to the United States.
 
-(5) Amounts in the Fund, and in any holding accounts associated with the Fund <sup>6</sup> which are not currently needed for the purpose of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States and all earnings on such investments shall be deposited in the Fund.
+(5) Amounts in the Fund, and in any holding accounts associated with the Fund, that are not currently needed for the purpose of this section shall be kept on deposit or invested in obligations of, or guaranteed by, the United States and all earnings on such investments shall be deposited in the Fund.
 
 (6)(A) The Attorney General shall transmit to Congress and make available to the public, not later than 4 months after the end of each fiscal year, detailed reports for the prior fiscal year as follows:
 
@@ -114,7 +112,7 @@
 
 (7) The provisions of this subsection relating to deposits in the Fund shall apply to all property in the custody of the Department of Justice on or after the effective date of the Comprehensive Forfeiture Act of 1983.
 
-(8)(A) There are authorized to be appropriated such sums as necessary for the purposes described in subparagraphs (A)(iv), (B), (F), (G), and (H) <sup>7</sup> of paragraph (1).
+(8)(A) There are authorized to be appropriated such sums as necessary for the purposes described in subparagraphs (B), (F), and (G) of paragraph (1).
 
 (B) Subject to subparagraphs (C) and (D), at the end of each of fiscal years 1994, 1995, and 1996, the Attorney General shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.
 
@@ -126,11 +124,11 @@
 
 (9)(A) Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department, the Attorney General is authorized, in her discretion, to warrant clear title to any subsequent purchaser or transferee of such property.
 
-(B) For fiscal year 1997, the Attorney General is authorized to transfer, under such terms and conditions as the Attorney General shall specify, real or personal property of limited or marginal value, to a State or local government agency, or its designated contractor or transferee, for use to support drug abuse treatment, drug and crime prevention and education, housing, job skills, and other community-based public health and safety programs. Such transfer shall not create or confer any private right of action in any person against the United States.
+(B) For fiscal years 2002 and 2003, the Attorney General is authorized to transfer, under such terms and conditions as the Attorney General shall specify, real or personal property of limited or marginal value, to a State or local government agency, or its designated contractor or transferee, for use to support drug abuse treatment, drug and crime prevention and education, housing, job skills, and other community-based public health and safety programs. Each such transfer shall be subject to satisfaction by the recipient involved of any outstanding lien against the property transferred, but no such transfer shall create or confer any private right of action in any person against the United States.
 
-(10) The Attorney General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of the Department of the Treasury law enforcement organizations (described in section 9703(p) <sup>7</sup> of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Department of Justice.
+(10) The Attorney General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of the Department of the Treasury law enforcement organizations (described in section 9703(p) <sup>1</sup> of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Department of Justice.
 
-(11) For purposes of this subsection and notwithstanding section 9703 <sup>7</sup> of title 31 or any other law, property is forfeited pursuant to a law enforced or administered by the Department of Justice if it is forfeited pursuant to—
+(11) For purposes of this subsection and notwithstanding section 9703 <sup>1</sup> of title 31 or any other law, property is forfeited pursuant to a law enforced or administered by the Department of Justice if it is forfeited pursuant to—
 
 &emsp;(A) a judicial forfeiture proceeding when the underlying seizure was made by an officer of a Federal law enforcement agency participating in the Department of Justice Assets Forfeiture Fund or the property was maintained by the United States Marshals Service; or
 
@@ -148,9 +146,9 @@
 
 (4) Evidences of any intangible personal property (other than money) accepted hereunder shall be deposited with the Secretary of the Treasury, who may hold or liquidate them, except that they shall be liquidated upon the request of the Attorney General.
 
-(5) For purposes of federal <sup>8</sup> income, estate, and gift taxes, property accepted hereunder shall be considered a gift, devise, or bequest to, or for the use of, the United States.
+(5) For purposes of federal <sup>2</sup> income, estate, and gift taxes, property accepted hereunder shall be considered a gift, devise, or bequest to, or for the use of, the United States.
 
-(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 97–258, §2(g)(1)(B)–(D), Sept. 13, 1982, 96 Stat. 1060; Pub. L. 98–473, title II, §§310, 2303, Oct. 12, 1984, 98 Stat. 2052, 2193; Pub. L. 99–570, title I, §1152(a), Oct. 27, 1986, 100 Stat. 3207–12; Pub. L. 99–646, §27, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 100–202, §101(a) \[title II, §210(a)\], Dec. 22, 1987, 101 Stat. 1329, 1329–18; Pub. L. 100–690, title VI, §6072, Nov. 18, 1988, 102 Stat. 4320; Pub. L. 101–509, title III, §1, Nov. 5, 1990, 104 Stat. 1403; Pub. L. 101–647, title XVI, §1601, title XX, §§2001(a), 2002, 2005, 2006, Nov. 29, 1990, 104 Stat. 4842, 4854, 4855; Pub. L. 102–27, title II, §101, Apr. 10, 1991, 105 Stat. 135; Pub. L. 102–140, title I, §112, Oct. 28, 1991, 105 Stat. 795; Pub. L. 102–393, title VI, §638(f), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–395, title I, §114(b), (c), Oct. 6, 1992, 106 Stat. 1845; Pub. L. 102–550, title XV, §1529, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–121, title I, §109, Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–317, title I, §110, Aug. 26, 1994, 108 Stat. 1735; Pub. L. 103–322, title IX, §90205(b), title XXXII, §§320301, 320302, 320913(a), Sept. 13, 1994, 108 Stat. 1994, 2114, 2128; Pub. L. 104–66, title I, §1091(h), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99,title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L. 104–134, title I, §101\[(a)\] \[title I, §122\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §§108, 114, 116, 117\], Sept. 30, 1996, 110 Stat. 3009, 3009–18, 3009–22, 3009–23; Pub. L. 105–119, title I, §§108, 124, title II, §211(b), Nov. 26, 1997, 111 Stat. 2457, 2471, 2487; Pub. L. 105–272, title VI, §605, Oct. 20, 1998, 112 Stat. 2413; Pub. L. 106–185, §19, Apr. 25, 2000, 114 Stat. 223; Pub. L. 106–310, div. B, title XXXVI, §§3613(b), 3621(a), Oct. 17, 2000, 114 Stat. 1230.)
+(Added Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 615; amended Pub. L. 97–258, §2(g)(1)(B)–(D), Sept. 13, 1982, 96 Stat. 1060; Pub. L. 98–473, title II, §§310, 2303, Oct. 12, 1984, 98 Stat. 2052, 2193; Pub. L. 99–570, title I, §1152(a), Oct. 27, 1986, 100 Stat. 3207–12; Pub. L. 99–646, §27, Nov. 10, 1986, 100 Stat. 3597; Pub. L. 100–202, §101(a) \[title II, §210(a)\], Dec. 22, 1987, 101 Stat. 1329, 1329–18; Pub. L. 100–690, title VI, §6072, Nov. 18, 1988, 102 Stat. 4320; Pub. L. 101–509, title III, §1, Nov. 5, 1990, 104 Stat. 1403; Pub. L. 101–647, title XVI, §1601, title XX, §§2001(a), 2002, 2005, 2006, Nov. 29, 1990, 104 Stat. 4842, 4854, 4855; Pub. L. 102–27, title II, §101, Apr. 10, 1991, 105 Stat. 135; Pub. L. 102–140, title I, §112, Oct. 28, 1991, 105 Stat. 795; Pub. L. 102–393, title VI, §638(f), Oct. 6, 1992, 106 Stat. 1788; Pub. L. 102–395, title I, §114(b), (c), Oct. 6, 1992, 106 Stat. 1845; Pub. L. 102–550, title XV, §1529, Oct. 28, 1992, 106 Stat. 4065; Pub. L. 103–121, title I, §109, Oct. 27, 1993, 107 Stat. 1164; Pub. L. 103–317, title I, §110, Aug. 26, 1994, 108 Stat. 1735; Pub. L. 103–322, title IX, §90205(b), title XXXII, §§320301, 320302, 320913(a), Sept. 13, 1994, 108 Stat. 1994, 2114, 2128; Pub. L. 104–66, title I, §1091(h), Dec. 21, 1995, 109 Stat. 722; Pub. L. 104–91, title I, §101(a), Jan. 6, 1996, 110 Stat. 11, amended Pub. L. 104–99, title II, §211, Jan. 26, 1996, 110 Stat. 37; Pub. L.104–134, title I, §101\[(a)\] \[title I, §122\], Apr. 26, 1996, 110 Stat. 1321, 1321–22; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–208, div. A, title I, §101(a) \[title I, §§108, 114, 116, 117\], Sept. 30, 1996, 110 Stat. 3009, 3009–18, 3009–22, 3009–23; Pub. L. 105–119, title I, §§108, 124, title II, §211(b), Nov. 26, 1997, 111 Stat. 2457, 2471, 2487; Pub. L. 105–272, title VI, §605, Oct. 20, 1998, 112 Stat. 2413; Pub. L. 106–185, §19, Apr. 25, 2000, 114 Stat. 223; Pub. L. 106–310, div. B, title XXXVI, §§3613(b), 3621(a), Oct. 17, 2000, 114 Stat. 1230; Pub. L. 107–273, div. A, title II, §204(a), Nov. 2, 2002, 116 Stat. 1775.)
 
 Historical and Revision Notes<br>1966
 
@@ -190,9 +188,7 @@ The words “After October 10, 1949” are omitted as executed. The words “Exc
 
 #### References in Text
 
-Subparagraph (H), referred to in subsec. (c)(1), (8)(A), was redesignated subpar. (I) relating to payment of overtime salaries, travel, etc., and a new subpar. (H) was added by Pub. L. 103–322, title XXXII, §320913(a), Sept. 13, 1994, 108 Stat. 2128.
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 393, as amended. Title III of the Federal Property and Administrative Services Act of 1949 is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (c)(1), is act June 30, 1949, ch. 288, 63 Stat. 393, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 Section 6050I of the Internal Revenue Code of 1986, referred to in subsec. (c)(1)(B), is classified to section 6050I of Title 26, Internal Revenue Code.
 
@@ -214,21 +210,39 @@ Amendment by Pub. L. 104–91 is based on section 109 of H.R. 2076, One Hundred 
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c)(1)(E). Pub. L. 106–310, §3621(a), designated existing provisions as cl. (i), inserted “and” after semicolon at end, and added cl. (ii).
+2002—Subsec. (a). Pub. L. 107–273, §204(a)(1), inserted “to the Attorney General” after “available” in introductory provisions.
+
+Subsec. (c)(1). Pub. L. 107–273, §204(a)(2)(C), (D), in concluding provisions, substituted “(B), (F), and (G)” for “(A)(iv), (B), (F), (G), and (H)” and “under the Fund” for “under the fund”.
+
+Subsec. (c)(1)(I). Pub. L. 107–273, §204(a)(2)(B), struck out subpar. (I) which read as follows: “after all reimbursements and program-related expenses have been met at the end of fiscal year 1989, the Attorney General may transfer deposits from the Fund to the building and facilities account of the Federal prison system for the construction of correctional institutions.”
+
+Pub. L. 107–273, §204(a)(2)(A), substituted period for semicolon at end.
+
+Subsec. (c)(2). Pub. L. 107–273, §204(a)(3), substituted “shall not exceed $500,000” for “shall not exceed $250,000” and “the lesser of $500,000” for “the lesser of $250,000”, struck out “for information” after “Any award paid from the Fund” and after “Any award” in two places, and inserted before period at end “, without both the personal approval of the Attorney General and written notice within 30 days thereof to the Chairmen and ranking minority members of the Committees on Appropriations and the Judiciary of the Senate and of the House of Representatives”.
+
+Subsec. (c)(3). Pub. L. 107–273, §204(a)(4), substituted “(G)” for “(F)”.
+
+Subsec. (c)(5). Pub. L. 107–273, §204(a)(5), substituted “Fund, that” for “Fund which”.
+
+Subsec. (c)(8)(A). Pub. L. 107–273, §204(a)(6), substituted “(B), (F), and (G)” for “(A)(iv), (B), (F), (G), and (H)”.
+
+Subsec. (c)(9)(B). Pub. L. 107–273, §204(a)(7), substituted “years 2002 and 2003” for “year 1997” and “Each such transfer shall be subject to satisfaction by the recipient involved of any outstanding lien against the property transferred, but no such transfer shall” for “Such transfer shall not”.
+
+2000—Subsec. (c)(1)(E). Pub. L. 106–310, §3621(a), designated existing provisions as cl. (i), inserted “and” after semicolon at end, and added cl. (ii).
 
 Subsec. (c)(4)(D). Pub. L. 106–310, §3613(b), added subpar. (D).
 
 Subsec. (c)(6). Pub. L. 106–185 amended par. (6) generally. Prior to amendment, par. (6) required the Attorney General to transmit to Congress, not later than 4 months after the end of each fiscal year, detailed reports on the value of property forfeited under a law enforced or administered by the Department of Justice with respect to which funds were not deposited in the Fund and on the value of such property transferred to a State or local law enforcement agency, on the Fund's balances, receipts, payments, assets, and on certain property not forfeited, on profits and losses with respect to forfeited property, on forfeited property transactions, on audits reports from State and local law enforcement agencies, and on administrative and contracting expenses paid from the Fund.
 
-<b>1998</b>—Subsec. (d)(1). Pub. L. 105–272 inserted “or services” after “property”.
+1998—Subsec. (d)(1). Pub. L. 105–272 inserted “or services” after “property”.
 
-<b>1997</b>—Subsec. (c)(8)(B). Pub. L. 105–119, §124, substituted “and 1996,” for “1996, and 1997,”.
+1997—Subsec. (c)(8)(B). Pub. L. 105–119, §124, substituted “and 1996,” for “1996, and 1997,”.
 
 Subsec. (c)(8)(E). Pub. L. 105–119, §108, substituted “1997 and thereafter” for “1996”.
 
 Subsec. (c)(11)(B). Pub. L. 105–119, §211(b), which directed the amendment of subpar. (B) by inserting at end thereof “or pursuant to the authority of the Secretary of Commerce”, was executed by inserting the material before the period to reflect the probable intent of Congress.
 
-<b>1996</b>—Subsec. (c)(1). Pub. L. 104–208, §101(a) \[title I, §114(a)\], struck out “(C),” after “(B),” in concluding provisions.
+1996—Subsec. (c)(1). Pub. L. 104–208, §101(a) \[title I, §114(a)\], struck out “(C),” after “(B),” in concluding provisions.
 
 Subsec. (c)(8)(A). Pub. L. 104–208, §101(a) \[title I, §114(b)\], struck out “(C),” after “(B),”.
 
@@ -236,23 +250,23 @@ Subsec. (c)(8)(E). Pub. L. 104–208, §101(a) \[title I, §108\], substituted �
 
 Pub. L. 104–134 struck out subpar. (E), as added by Pub. L. 103–317, which read as follows: “Subject to the notification procedures contained in section 605 of Public Law 103–121, and after satisfying the transfer requirement in subparagraph (B) above, any excess unobligated balance remaining in the Fund on September 30, 1994 shall be available to the Attorney General, without fiscal year limitation, for any Federal law enforcement, litigative/prosecutive, and correctional activities, or any other authorized purpose of the Department of Justice. Any amounts provided pursuant to this section may be used under authorities available to the organization receiving the funds.”
 
-Pub. L. 104–91, as amended by Pub. L. 104–99, which directed amendment of subsec. (c)(9) of this section byadding subpar. (E) relating to excess unobligated balance remaining in the Fund on Sept. 30, 1995, was executed by adding subpar. (E) at the end of subsec. (c)(8), to reflect the redesignation of subsec. (c)(9) as (c)(8) by Pub. L. 104–66. See below.
+Pub. L. 104–91, as amended by Pub. L. 104–99, which directed amendment of subsec. (c)(9) of this section by adding subpar. (E) relating to excess unobligated balance remaining in the Fund on Sept. 30, 1995, was executed by adding subpar. (E) at the end of subsec. (c)(8), to reflect the redesignation of subsec. (c)(9) as (c)(8) by Pub. L. 104–66. See below.
 
 Subsec. (c)(9). Pub. L. 104–208, §101(a) \[title I, §117\], amended par. (9) generally. Prior to amendment, par. (9) read as follows: “Following the completion of procedures for the forfeiture of property pursuant to any law enforced or administered by the Department, the Attorney General is authorized, at his discretion, to warrant clear title to any subsequent purchaser or transferee of such forfeited property.”
 
 Subsec. (d). Pub. L. 104–208, §101(a) \[title I, §116\], added subsec. (d).
 
-<b>1995</b>—Subsec. (c)(7) to (12). Pub. L. 104–66 redesignated pars. (8) to (12) as (7) to (11), respectively, and struck out former par. (7) which read as follows:
+1995—Subsec. (c)(7) to (12). Pub. L. 104–66 redesignated pars. (8) to (12) as (7) to (11), respectively, and struck out former par. (7) which read as follows:
 
 “(7)(A) The Fund shall be subject to annual audit by the Comptroller General.
 
 “(B) The Attorney General shall require that any State or local law enforcement agency receiving funds conduct an annual audit detailing the uses and expenses to which the funds were dedicated and the amount used for each use or expense and report the results of the audit to the Attorney General.”
 
-<b>1994</b>—Subsec. (c)(1)(H), (I). Pub. L. 103–322, §320913(a), added subpar. (H) and redesignated former subpar. (H) relating to payment of overtime salaries, travel, etc. as (I).
+1994—Subsec. (c)(1)(H), (I). Pub. L. 103–322, §320913(a), added subpar. (H) and redesignated former subpar. (H) relating to payment of overtime salaries, travel, etc. as (I).
 
 Subsec. (c)(6)(B). Pub. L. 103–322, §320302(1), struck out “and” at end.
 
-Subsec. (c)(6)(C). Pub. L. 103–322, §320302(2), substituted “;  and” for period at end.
+Subsec. (c)(6)(C). Pub. L. 103–322, §320302(2), substituted “; and” for period at end.
 
 Pub. L. 103–322, §320301(b), inserted as flush sentence at end “The report should also contain all annual audit reports from State and local law enforcement agencies required to be reported to the Attorney General under subparagraph (B) of paragraph (7).”
 
@@ -270,9 +284,9 @@ Subsec. (c)(9)(B) to (D). Pub. L. 103–322, §90205(b), amended subpars. (B) to
 
 Subsec. (c)(9)(E). Pub. L. 103–317 added subpar. (E).
 
-<b>1993</b>—Subsec. (c)(9)(E). Pub. L. 103–121, which directed the striking of “subsection (E)”, was executed by striking subpar. (E) which read as follows: “Subject to the notification procedures contained in section 606 of Public Law 101–515, and after reserving the amounts authorized in subparagraph (D) above, any unobligated balances remaining in the Fund on September 30, 1991, and on September 30 of each fiscal year thereafter, shall be available to the Attorney General, without fiscal year limitation, for law enforcement, prosecution and correctional activities, and related training requirements of Federal agencies. Any amounts provided pursuant to this section may be used under authorities available to the organization receiving the funds.”
+1993—Subsec. (c)(9)(E). Pub. L. 103–121, which directed the striking of “subsection (E)”, was executed by striking subpar. (E) which read as follows: “Subject to the notification procedures contained in section 606 of Public Law 101–515, and after reserving the amounts authorized in subparagraph (D) above, any unobligated balances remaining in the Fund on September 30, 1991, and on September 30 of each fiscal year thereafter, shall be available to the Attorney General, without fiscal year limitation, for law enforcement, prosecution and correctional activities, and related training requirements of Federal agencies. Any amounts provided pursuant to this section may be used under authorities available to the organization receiving the funds.”
 
-<b>1992</b>—Subsec. (c)(1). Pub. L. 102–393, §638(f)(1)(C)–(F), which directed amendment of par. (1) by adding subpar. (H), redesignating former subpar. (H) as (I), and substituting “(A)(iv)” for “(A)(ii)” and “(G), and (H)” for “and (G)” in the first sentence of par. following subpar. (I), was executed to par. (1) as amended by Pub. L. 102–395, §114(c), to reflect the probable intent of Congress and the approval of Pub. L. 102–393 and Pub. L. 102–395 on the same day.
+1992—Subsec. (c)(1). Pub. L. 102–393, §638(f)(1)(C)–(F), which directed amendment of par. (1) by adding subpar. (H), redesignating former subpar. (H) as (I), and substituting “(A)(iv)” for “(A)(ii)” and “(G), and (H)” for “and (G)” in the first sentence of par. following subpar. (I), was executed to par. (1) as amended by Pub. L. 102–395, §114(c), to reflect the probable intent of Congress and the approval of Pub. L. 102–393 and Pub. L. 102–395 on the same day.
 
 Pub. L. 102–395, §114(c), amended generally the first sentence of par. following subpar. (H). Prior to amendment, that sentence read as follows: “Amounts for paying the expenses authorized by subparagraphs (A)(ii), (B), (C), (F), and (G) shall be specified in appropriations acts.”
 
@@ -308,7 +322,7 @@ Subsec. (c)(11), (12). Pub. L. 102–393, §638(f)(6), added pars. (11) and (12)
 
 > except to the extent that the seizure was effected by a Customs officer or that custody was maintained by the United States Customs Service in which case the provisions of section 613A of the Tariff Act of 1930 (19 U.S.C. 1613a) shall apply.”
 
-<b>1991</b>—Subsec. (c)(1). Pub. L. 102–140, §112(1), substituted “law enforcement purposes” for “purposes of the Department of Justice” in introductory provisions.
+1991—Subsec. (c)(1). Pub. L. 102–140, §112(1), substituted “law enforcement purposes” for “purposes of the Department of Justice” in introductory provisions.
 
 Subsec. (c)(1)(C). Pub. L. 102–140, §112(2), added subpar. (C) and struck out former subpar. (C) which read as follows: “at the discretion of the Attorney General, the payment of awards for information or assistance leading to—
 
@@ -334,7 +348,7 @@ Pub. L. 102–140, §112(8)(A), substituted “of each fiscal year thereafter”
 
 Pub. L. 102–27 added subpar. (E).
 
-<b>1990</b>—Subsec. (c)(1)(C). Pub. L. 101–647, §2005, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “the payment of awards for information or assistance leading to a civil or criminal forfeiture under any law enforced or administered by the Department of Justice., at the discretion of the Attorney General;”.
+1990—Subsec. (c)(1)(C). Pub. L. 101–647, §2005, amended subpar. (C) generally. Prior to amendment, subpar. (C) read as follows: “the payment of awards for information or assistance leading to a civil or criminal forfeiture under any law enforced or administered by the Department of Justice., at the discretion of the Attorney General;”.
 
 Pub. L. 101–647, §1601, which directed substitution of “the payment of awards for information or assistance leading to a civil or criminal forfeiture under any law enforced or administered by the Department of Justice.” for “the payment of awards for information or assistance leading to civil or criminal forfeiture under the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 800 et seq.) or a criminal forfeiture under the Racketeer Influenced and Corrupt Organizations statute (18 U.S.C. 1961 et seq.)”, was executed by making the substitution for “the payment of awards for information or assistance leading to a civil or criminal forfeiture under the Comprehensive Drug Abuse Prevention and Control Act of 1970 (21 U.S.C. 800 et seq.) or a criminal forfeiture under the Racketeer Influenced and Corrupt Organizations statute (18 U.S.C. 1961 et seq.)” to reflect the probable intent of Congress.
 
@@ -342,15 +356,15 @@ Subsec. (c)(6). Pub. L. 101–647, §2006, struck out “two” after “fiscal 
 
 Subsec. (c)(9). Pub. L. 101–647, §2001(a), inserted “(A)” before “There” and substituted subpars. (B) to (D) for “For each of fiscal years 1991, 1992, and 1993, the Attorney General shall transfer not to exceed $150,000,000 in unobligated amounts available in the Fund to the Special Forfeiture Fund: <i>Provided</i>, That such amounts will be transferred on a quarterly basis: <i>Provided further</i>, That, upon each transfer, not to exceed $15,000,000, or, if determined by the Attorney General to be necessary to meet forfeiture program expenses, an amount not to exceed one-tenth of the previous year's obligations shall be retained in the Fund and remain available for payment of authorized expenses: <i>Provided further</i>, That, any unobligated amounts in excess of $150,000,000 shall remain on deposit in the Fund.”
 
-Pub. L. 101–509 amended second sentence generally, substituting sentence providing for transfers to Special Forfeiture Fund in fiscal years 1991, 1992, and 1993 for sentence that read as follows: “At the end of each of fiscal years 1990, 1991, and 1992, unobligated amounts not to exceed $150,000,000 remaining in the Fund shall be deposited in the Special Forfeiture Fund, except that an amount not to exceed $15,000,000 or, if determined necessary by the Attorney General to meet asset specific expenses, an amount equal to one-twelfth of the previous year's expenditures may be carried forward and remain available for appropriation in the next fiscal year.”
+Pub. L. 101–509 amended second sentence generally, substituting sentence providing for transfers to Special Forfeiture Fund in fiscal years 1991, 1992, and 1993 for sentence that read as follows: “At the end of each of fiscal years 1990, 1991, and 1992, unobligated amounts not to exceed $150,000,000 remaining in the Fund shall be deposited in the Special Forfeiture Fund, except that an amount not to exceed $15,000,000 or, if determined necessary by the Attorney General to meet assetspecific expenses, an amount equal to one-twelfth of the previous year's expenditures may be carried forward and remain available for appropriation in the next fiscal year.”
 
 Subsec. (c)(10), (11). Pub. L. 101–647, §2002, added par. (10) and redesignated former par. (10) as (11).
 
-<b>1988</b>—Subsec. (c). Pub. L. 100–690 amended subsec. (c) generally, revising and restating as pars. (1) to (10) provisions of former pars. (1) to (8).
+1988—Subsec. (c). Pub. L. 100–690 amended subsec. (c) generally, revising and restating as pars. (1) to (10) provisions of former pars. (1) to (8).
 
-<b>1987</b>—Subsec. (c)(1)(H). Pub. L. 100–202 added subpar. (H).
+1987—Subsec. (c)(1)(H). Pub. L. 100–202 added subpar. (H).
 
-<b>1986</b>—Subsec. (c)(1)(A). Pub. L. 99–570, §1152(a)(1)(2), inserted provisions allowing payments that are necessary and direct program-related expenses for the purchase or lease of automatic data processing equipment, training, printing, contracting for services directly related to the processing of and accounting for forfeitures, and the storage, protection, and destruction of controlled substances.
+1986—Subsec. (c)(1)(A). Pub. L. 99–570, §1152(a)(1)(2), inserted provisions allowing payments that are necessary and direct program-related expenses for the purchase or lease of automatic data processing equipment, training, printing, contracting for services directly related to the processing of and accounting for forfeitures, and the storage, protection, and destruction of controlled substances.
 
 Subsec. (c)(1)(B) to (E). Pub. L. 99–570, §1152(a)(1)(3), added subpar. (B) and redesignated former subpars. (B) to (E) as (C) to (F), respectively.
 
@@ -364,13 +378,13 @@ Subsec. (c)(4). Pub. L. 99–570, §1152(a)(1)(5), and Pub. L. 99–646, §27(b)
 
 Subsec. (c)(8), (9). Pub. L. 99–570, §1152(a)(1)(6), redesignated par. (9) as (8), and struck out former par. (8) which provided for an authorization of appropriations for fiscal years 1984 to 1987 and deposit of excess amounts in the general fund of the Treasury of the United States.
 
-<b>1984</b>—Subsec. (c). Pub. L. 98–473, §310, added subsec. (c).
+1984—Subsec. (c). Pub. L. 98–473, §310, added subsec. (c).
 
 Subsec. (c)(1)(E), (F). Pub. L. 98–473, §2303(a), added subpars. (E) and (F).
 
 Subsec. (c)(3) to (9). Pub. L. 98–473, §2303(b), added par. (3) and redesignated existing pars. (3) to (8) as (4) to (9), respectively.
 
-<b>1982</b>—Pub. L. 97–258, §2(g)(1)(B), substituted “Availability of appropriations” for “Appropriations for administrative expenses; notarial fees; meals and lodging of bailiffs” in section catchline.
+1982—Pub. L. 97–258, §2(g)(1)(B), substituted “Availability of appropriations” for “Appropriations for administrative expenses; notarial fees; meals and lodging of bailiffs” in section catchline.
 
 Subsecs. (a), (b). Pub. L. 97–258, §2(g)(1)(C), (D), designated existing provisions as subsec. (a) and added subsec. (b).
 
@@ -408,7 +422,7 @@ Pub. L. 105–277, div. A, §101(b) \[title I, §115\], Oct. 21, 1998, 112 Stat.
 
 &emsp;&emsp;“(ii) adversely affect an ongoing counterterrorism, national security, or computer-crime investigation or prosecution.
 
-“(2) In this subsection, the term ‘Federal acquisition rule’ means any provision of title II or IX of the Federal Property and Administrative Services Act of 1949 \[40 U.S.C. 481 et seq., 541 et seq.\], the Office of Federal Procurement Policy Act \[41 U.S.C. 401 et seq.\], the Small Business Act \[15 U.S.C. 631 et seq.\], the Federal Acquisition Regulation, or any other provision of law or regulation that establishes policies, procedures, requirements, conditions, or restrictions for procurements by the head of a department or agency or the Federal Government.
+“(2) In this subsection, the term ‘Federal acquisition rule’ means any provision of title II or IX of the Federal Property and Administrative Services Act of 1949 \[former 40 U.S.C. 481 et seq., 541 et seq., for distribution of sections of former Title 40 to Title 40, Public Buildings, Property, and Works, see Table preceding section 101 of Title 40\], the Office of Federal Procurement Policy Act \[41 U.S.C. 401 et seq.\], the Small Business Act \[15 U.S.C. 631 et seq.\], the Federal Acquisition Regulation, or any other provision of law or regulation that establishes policies, procedures, requirements, conditions, or restrictions for procurements by the head of a department or agency or the Federal Government.
 
 “(b) The Attorney General shall immediately notify the Committees on Appropriations of the House of Representatives and the Senate in writing of each expenditure under subsection (a), which notification shall include sufficient information to explain the circumstances necessitating the exercise of the authority under that subsection.”
 
@@ -456,6 +470,8 @@ Pub. L. 103–317, title I, §113, Aug. 26, 1994, 108 Stat. 1736.
 
 Section 106 of Pub. L. 103–121 provided that: “For fiscal year 1994 and thereafter, deposits transferred from the Assets Forfeiture Fund to the Buildings and Facilities account of the Federal Prison System may be used for the construction of correctional institutions, and the construction and renovation of Immigration and Naturalization Service and United States Marshals Service detention facilities, and for the authorized purposes of the Cooperative Agreement Program.”
 
+\[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.\]
+
 Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 102–395, title I, §107, Oct. 6, 1992, 106 Stat. 1841.
@@ -468,25 +484,13 @@ Pub. L. 101–162, title II, as added Pub. L. 101–302, title II, May 25, 1990,
 
 #### Notice and Approval of Transfer of Subsection (c)(1)(H) Deposits
 
-Section 101(a) \[title II, §210(b)\] of Pub. L. 100–202 provided that: “Amounts proposed for transfer pursuant to subsection (a) \[amending this section\] shall be transferred only upon notification by the Attorney General to the Committees on Appropriations of the House of Representatives and the Senate and approval under said Committees’ policies concerning the reprogramming of funds.”
+Section 101(a) \[title II, §210(b)\] of Pub. L. 100–202 provided that: “Amounts proposed for transfer pursuant to subsection (a) \[amending this section\] shall be transferred only upon notification by the Attorney General to the Committees on Appropriations of the House ofRepresentatives and the Senate and approval under said Committees’ policies concerning the reprogramming of funds.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 18 sections 793, 794, 798, 2254; title 21 sections 881, 1509; title 31 section 9703; title 50 section 783.
+This section is referred to in section 530C of this title; title 18 sections 793, 794, 798, 2254; title 21 sections 881, 1509; title 31 section 9703; title 50 section 783.
 
-<i><sup>1</sup></i><i> So in original. The word “and” probably should not appear.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “and”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be “(J)”.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
-
-<i><sup>5</sup></i><i> So in original. Probably should be capitalized.</i>
-
-<i><sup>6</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>7</sup></i><i> See References in Text note below.</i>
-
-<i><sup>8</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

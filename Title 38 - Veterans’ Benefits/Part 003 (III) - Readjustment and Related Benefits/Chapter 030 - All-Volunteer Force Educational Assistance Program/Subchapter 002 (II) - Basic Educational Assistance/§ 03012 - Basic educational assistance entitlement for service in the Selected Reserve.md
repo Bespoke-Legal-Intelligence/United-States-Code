@@ -32,19 +32,19 @@
 
 &emsp;(3) who, after completion of the service described in clause (1) of this subsection—
 
-&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retired list, or is transferred to the Standby Reserveor an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service; or
+&emsp;&emsp;(A) is discharged from service with an honorable discharge, is placed on the retired list, or is transferred to the Standby Reserve or an element of the Ready Reserve other than the Selected Reserve after service in the Selected Reserve characterized by the Secretary concerned as honorable service; or
 
 &emsp;&emsp;(B) continues on active duty or in the Selected Reserve;
 
 > is entitled to basic educational assistance under this chapter.
 
-(b)(1)(A) The requirement of two years of service under clauses (1)(A)(i) and (1)(B)(i) of subsection (a) of this section is not applicable to an individual who is discharged or released, during such two years, from active duty in the Armed Forces (i) for a service-connected disability, (ii) for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, (iii) for hardship, (iv) in the case of an individual discharged or released after 20 months of such service, for the convenience of the Government, (v) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, or (vi) for a physical or mental condition that was not characterized as a disability, as described in section 3011(a)(1)(A)(ii)(I) of this title.
+(b)(1)(A) The requirement of two years of service under clauses (1)(A)(i) and (1)(B)(i) of subsection (a) of this section is not applicable to an individual who is discharged or released, during such two years, from active duty in the Armed Forces (i) for a service-connected disability, (ii) for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, (iii) for hardship, (iv) in the case of an individual discharged or released after 20 months of such service, for the convenience of the Government, (v) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, or (vi) for a physical or mental condition that was not characterized as a disability, as described in section 3011(a)(1)(A)(ii)(I) of this title.
 
 (B) The requirement of four years of service under clauses (1)(A)(ii) and (1)(B)(ii) of subsection (a) of this section is not applicable to an individual—
 
 &emsp;(i) who, during the two years of service described in clauses (1)(A)(i) and (1)(B)(i) of subsection (a) of this section, was discharged or released from active duty in the Armed Forces for a service-connected disability, for a medical condition which preexisted such service on active duty and which the Secretary determines is not service connected, or for a physical or mental condition not characterized as a disability, as described in section 3011(a)(1)(A)(ii)(I) of this title, if the individual was obligated, at the beginning of such two years of service, to serve such four years of service;
 
-&emsp;(ii) who, during the four years of service described in clauses (1)(A)(ii) and (1)(B)(ii) of subsection (a) of this section, is discharged or released from service in the Selected Reserve (I) for a service-connected disability, (II) for a medical condition which preexisted the individual's becoming a member of the Selected Reserve and which the Secretary determines is not service connected, (III) for hardship, (IV) in the case of an individual discharged or released after 30 months of such service, for the convenience of the Government, (V) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Transportation with respect to the Coast Guard when it is not operating as a service in the Navy, or (VI) for a physical or mental condition not characterized as a disability, as described in section 3011(a)(1)(A)(ii)(I) of this title; or
+&emsp;(ii) who, during the four years of service described in clauses (1)(A)(ii) and (1)(B)(ii) of subsection (a) of this section, is discharged or released from service in the Selected Reserve (I) for a service-connected disability, (II) for a medical condition which preexisted the individual's becoming a member of the Selected Reserve and which the Secretary determines is not service connected, (III) for hardship, (IV) in the case of an individual discharged or released after 30 months of such service, for the convenience of the Government, (V) involuntarily for the convenience of the Government as a result of a reduction in force, as determined by the Secretary of the military department concerned in accordance with regulations prescribed by the Secretary of Defense or by the Secretary of Homeland Security with respect to the Coast Guard when it is not operating as a service in the Navy, or (VI) for a physical or mental condition not characterized as a disability, as described in section 3011(a)(1)(A)(ii)(I) of this title; or
 
 &emsp;(iii) who, before completing the four years of service described in clauses (1)(A)(ii) and (1)(B)(ii) of subsection (a) of this section, ceases to be a member of the Selected Reserve during the period beginning on October 1, 1991, and ending on September 30, 1999, by reason of the inactivation of the person's unit of assignment or by reason of involuntarily ceasing to be designated as a member of the Selected Reserve pursuant to section 10143(a) of title 10.
 
@@ -70,7 +70,7 @@
 
 (2) An individual who makes the election described in paragraph (1) of this subsection shall, for all purposes of this chapter, be considered entitled to educational assistance under section 3011 of this title and not under this section. Such an election is irrevocable.
 
-(f)(1) Any individual eligible for educational assistance under this section who does not make an election under subsection (d)(1) may contribute amounts for purposes of receiving an increased amount of basic educational assistance as provided for under section 3015(g) of this title. Such contributions shall be in addition to any reductions in the basic pay of such individual under subsection (c).
+(f)(1) Any individual eligible for educational assistance under this section who does not make an election under subsection (d)(1) may contribute amounts for purposes of receiving an increased amount of basic educational assistance as provided for under section 3015(g) of this title.Such contributions shall be in addition to any reductions in the basic pay of such individual under subsection (c).
 
 (2) An individual covered by paragraph (1) may make the contributions authorized by that paragraph at any time while on active duty, but not more frequently than monthly.
 
@@ -82,13 +82,15 @@
 
 (2) The initial service referred to in paragraph (1) is the initial obligated period of active duty (described in subparagraph (A)(i) or (B)(i) of subsection (a)(1)) or the period of service in the Selected Reserve (described in subparagraphs (A)(ii) or (B)(ii) of subsection (a)(1)).
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2555, §1412; amended Pub. L. 99–145, title VI, §674(2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(2), 307(a)(2), 321(2), Oct. 28, 1986, 100 Stat. 3269, 3277; Pub. L. 100–48, §3(b), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(b)(1), 103(b)(1), 104(b), 105, 111(a)(2)(B), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4171; Pub. L. 101–237, title IV, §§409, 423(a)(1), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2090, 2092; Pub. L. 101–510, div. A, title V, §562(a)(3), Nov. 5, 1990, 104 Stat. 1574; renumbered §3012 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–484, div. D, title XLIV, §4419(b), Oct. 23, 1992, 106 Stat. 2718; Pub. L. 102–568, title III, §§302(a)(2), 303(a)(2), Oct. 29, 1992, 106 Stat. 4326, 4327; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–446, title XII, §1201(f)(2), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(b), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(b), Nov. 11, 1998, 112 Stat. 3326, 3328; Pub. L. 106–117, title VII, §704, Nov. 30, 1999, 113 Stat. 1584; Pub. L. 106–419, title I, §§102(b), 103(b), 105(a)(2), title IV, §404(a)(6), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829, 1865; Pub. L. 107–14, §7(c)(2), June 5, 2001, 115 Stat. 32; Pub. L. 107–103, title I, §§105(b), 106(a), Dec. 27, 2001, 115 Stat. 982, 983.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2555, §1412; amended Pub. L. 99–145, title VI, §674(2), Nov. 8, 1985, 99 Stat. 665; Pub. L. 99–576, title III, §§303(a)(2), 307(a)(2), 321(2), Oct. 28, 1986, 100 Stat. 3269, 3277; Pub. L. 100–48, §3(b), June 1, 1987, 101 Stat. 331; Pub. L. 100–689, title I, §§102(b)(1), 103(b)(1), 104(b), 105, 111(a)(2)(B), Nov. 18, 1988, 102 Stat. 4162, 4165, 4166, 4171; Pub. L. 101–237, title IV, §§409, 423(a)(1), (b)(1)(A), Dec. 18, 1989, 103 Stat. 2084, 2090, 2092; Pub. L. 101–510, div. A, title V, §562(a)(3), Nov. 5, 1990, 104 Stat. 1574; renumbered §3012 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–484, div. D, title XLIV, §4419(b), Oct. 23, 1992, 106 Stat. 2718; Pub. L. 102–568, title III, §§302(a)(2), 303(a)(2), Oct. 29, 1992, 106 Stat. 4326, 4327; Pub. L. 103–160, div. A, title V, §561(m), Nov. 30, 1993, 107 Stat. 1668; Pub. L. 103–446, title XII, §1201(f)(2), Nov. 2, 1994, 108 Stat. 4687; Pub. L. 104–106, div. A, title XV, §1501(e)(2)(B), Feb. 10, 1996, 110 Stat. 501; Pub. L. 104–201, div. A, title V, §556(b), Sept. 23, 1996, 110 Stat. 2528; Pub. L. 105–368, title II, §§203(a), 207(b), Nov. 11, 1998, 112 Stat. 3326, 3328; Pub. L. 106–117, title VII, §704, Nov. 30, 1999, 113 Stat. 1584; Pub. L. 106–419, title I, §§102(b), 103(b), 105(a)(2), title IV, §404(a)(6), Nov. 1, 2000, 114 Stat. 1824, 1826, 1829, 1865; Pub. L. 107–14, §7(c)(2), June 5, 2001, 115 Stat. 32; Pub. L. 107–103, title I, §§105(b), 106(a), Dec. 27, 2001, 115 Stat. 982, 983; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
 
 #### Prior Provisions
 
 Prior section 3012 was renumbered section 5112 of this title.
 
 #### Amendments
+
+2002—Subsec. (b)(1)(A)(v), (B)(ii)(V). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2001—Subsec. (a)(1)(C). Pub. L. 107–103, §105(b), added subpar. (C).
 
@@ -128,7 +130,7 @@ Subsec. (d)(3). Pub. L. 104–201, §556(b)(2), added par. (3).
 
 1993—Subsec. (b)(1)(B)(iii). Pub. L. 103–160 substituted “September 30, 1999” for “September 30, 1995”.
 
-1992—Subsec. (a)(1)(B). Pub. L. 102–568, §302(a)(2), substituted “at any time during the period beginning on October 19, 1984, and ending on July 1, 1985, continued on active duty without a break in service” for “on October 19, 1984, and without a break in service since October 19, 1984,”.
+1992—Subsec. (a)(1)(B). Pub. L. 102–568, §302(a)(2), substituted “at any time during the period beginning on October 19, 1984, and ending on July 1, 1985, continuedon active duty without a break in service” for “on October 19, 1984, and without a break in service since October 19, 1984,”.
 
 Subsec. (a)(2). Pub. L. 102–568, §303(a)(2)(A), inserted “except as provided in subsection (f) of this section,” after “who,”.
 
@@ -182,6 +184,10 @@ Subsec. (c). Pub. L. 99–576, §303(a)(2), substituted “Any amount by which t
 
 1985—Subsec. (a)(1)(B). Pub. L. 99–145 struck out “and without a break in service on active duty since December 31, 1976,” after “chapter 34 of this title”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+
 #### Effective Date of 2001 Amendments
 
 Amendment by section 106(a) of Pub. L. 107–103 applicable with respect to educational assistance allowances paid under this chapter for months beginning after Dec. 27, 2001, see section 106(b) of Pub. L. 107–103, set out as a note under section 3011 of this title.
@@ -217,6 +223,10 @@ Amendment by section 102(b)(1) of Pub. L. 100–689 effective July 1, 1985, with
 #### Effective Date of 1986 Amendment
 
 Amendment by section 303(a)(2) of Pub. L. 99–576 applicable to any reduction in basic pay made under subsec. (c) of this section after Dec. 31, 1985, see section 303(b) of Pub. L. 99–576, set out as a note under section 3011 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Notification Requirement
 

@@ -2,7 +2,7 @@
 
 (a) Notwithstanding any other provision of law, a veteran's disability or death shall not be considered to have resulted from personal injury suffered or disease contracted in the line of duty in the active military, naval, or air service for purposes of this title on the basis that it resulted from injury or disease attributable to the use of tobacco products by the veteran during the veteran's service.
 
-(b) Nothing in subsection (a) shall be construed as precluding the establishment of service connection for disability or death from a disease or injury which is otherwise shown to have been incurred or aggravated in active military, naval, or air service or which became manifest to the requisite degree of disability during any applicable presumptive period specified in section 1112 or 1116 of this title.
+(b) Nothing in subsection (a) shall be construed as precluding the establishment of service connection for disability or death from a disease or injury which is otherwise shown to have been incurred or aggravated in active military, naval, or air service or which became manifest to the requisite degree of disability during anyapplicable presumptive period specified in section 1112 or 1116 of this title.
 
 (Added Pub. L. 105–178, title VIII, §8202(a)(1), as added Pub. L. 105–206, title IX, §9014(a), July 22, 1998, 112 Stat. 865.)
 

@@ -28,7 +28,7 @@ The Congress hereby finds and declares that—
 
 (3) Notwithstanding any other provision of law—
 
-&emsp;(A) the Secretary of Housing and Urban Affairs is authorized to transfer funds appropriated under the Housing and Community Development Act of 1974 (42 U.S.C. 5301, et seq.)to the Secretary of Health and Human Services, and
+&emsp;(A) the Secretary of Housing and Urban Affairs is authorized to transfer funds appropriated under the Housing and Community Development Act of 1974 (42 U.S.C. 5301, et seq.) to the Secretary of Health and Human Services, and
 
 &emsp;(B) the Secretary of Health and Human Services is authorized to accept and use such funds for the purpose of providing sanitation facilities and services for Indians under section 2004a of title 42.
 

@@ -36,7 +36,7 @@
 
 (4) The Secretary shall commence carrying out the pilot program under this subsection not later than October 1, 1999, and shall terminate the pilot program on September 30, 2003.
 
-(5) Not later than January 31, 2003, the Secretary shall submit to Congress an interim report on the results of the pilot program underthis subsection. The report shall include any recommendations for the extension or expansion of the pilot program, including the establishment of multiple rates of overhead charges for various categories of persons and entities seeking research and other activities in contractor-operated facilities of the Department.
+(5) Not later than January 31, 2003, the Secretary shall submit to Congress an interim report on the results of the pilot program under this subsection. The report shall include any recommendations for the extension or expansion of the pilot program, including the establishment of multiple rates of overhead charges for various categories of persons and entities seeking research and other activities in contractor-operated facilities of the Department.
 
 #### (d) Applicability with respect to user fee practice
 
@@ -54,5 +54,5 @@ The Federal Nonnuclear Energy Research and Development Act of 1974, referred to 
 
 #### Codification
 
-Section was enacted as part of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999, and not as part of the Department of Energy Organization Act which comprises this chapter.
+Section was enacted as part of the Strom Thurmond National Defense Authorization Act for Fiscal Year1999, and not as part of the Department of Energy Organization Act which comprises this chapter.
 

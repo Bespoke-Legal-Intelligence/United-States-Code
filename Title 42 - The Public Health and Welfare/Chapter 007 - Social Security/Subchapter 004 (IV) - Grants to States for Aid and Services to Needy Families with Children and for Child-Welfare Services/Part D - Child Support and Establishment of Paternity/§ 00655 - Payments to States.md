@@ -10,7 +10,7 @@
 
 &emsp;(C) equal to 90 percent (rather than the percentage specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to laboratory costs incurred in determining paternity, and
 
-&emsp;(D) equal to 66 percent of the sums expended by the State during the quarter for an alternative statewide system for which a waiver has been granted under section 652(d)(3) of this title, but only to the extent that the total of the sums so expended by the State on or after July 16, 1998, does not exceed the least totalcost estimate submitted by the State pursuant to section 652(d)(3)(C) of this title in the request for the waiver;
+&emsp;(D) equal to 66 percent of the sums expended by the State during the quarter for an alternative statewide system for which a waiver has been granted under section 652(d)(3) of this title, but only to the extent that the total of the sums so expended by the State on or after July 16, 1998, does not exceed the least total cost estimate submitted by the State pursuant to section 652(d)(3)(C) of this title in the request for the waiver;
 
 > except that no amount shall be paid to any State on account of amounts expended to carry out an agreement which it has entered into pursuant to section 663 of this title. In determining the total amounts expended by any State during a quarter, for purposes of this subsection, there shall be excluded an amount equal to the total of any fees collected or other income resulting from services provided under the plan approved under this part.
 
@@ -36,7 +36,7 @@
 
 &emsp;(II) the State has submitted to the Secretary a corrective compliance plan that describes how, by when, and at what cost the State will achieve such compliance, which has been approved by the Secretary,
 
-> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwise payable to the State under paragraph (1)(A) of this subsection for the fiscal year by the penalty amount.
+> then the Secretary shall not disapprove the State plan under section 654 of this title, and the Secretary shall reduce the amount otherwise payable to the State under paragraph (1)(A) ofthis subsection for the fiscal year by the penalty amount.
 
 (ii) All failures of a State during a fiscal year to comply with any of the requirements referred to in the same subparagraph of section 654(24) of this title shall be considered a single failure of the State to comply with that subparagraph during the fiscal year for purposes of this paragraph.
 
@@ -118,7 +118,7 @@ Notwithstanding any other provision of law, no amount shall be paid to any State
 
 #### (e) Special project grants for interstate enforcement; appropriations
 
-(1) In order to encourage and promote the development and use of more effective methods ofenforcing support obligations under this part in cases where either the children on whose behalf the support is sought or their noncustodial parents do not reside in the State where such cases are filed, the Secretary is authorized to make grants, in such amounts and on such terms and conditions as the Secretary determines to be appropriate, to States which propose to undertake new or innovative methods of support collection in such cases and which will use the proceeds of such grants to carry out special projects designed to demonstrate and test such methods.
+(1) In order to encourage and promote the development and use of more effective methods of enforcing support obligations under this part in cases where either the children on whose behalf the support is sought or their noncustodial parents do not reside in the State where such cases are filed, the Secretary is authorized to make grants, in such amounts and on such terms and conditions as the Secretary determines to be appropriate, to States which propose to undertake new or innovative methods of support collection in such cases and which will use the proceeds of such grants to carry out special projects designed to demonstrate and test such methods.
 
 (2) A grant under this subsection shall be made only upon a finding by the Secretary that the project involved is likely to be of significant assistance in carrying out the purpose of this subsection; and with respect to such project the Secretary may waive any of the requirements of this part which would otherwise be applicable, to such extent and for such period as the Secretary determines is necessary or desirable in order to enable the State to carry out the project.
 
@@ -132,7 +132,7 @@ Notwithstanding any other provision of law, no amount shall be paid to any State
 
 The Secretary may make direct payments under this part to an Indian tribe or tribal organization that demonstrates to the satisfaction of the Secretary that it has the capacity to operate a child support enforcement program meeting the objectives of this part, including establishment of paternity, establishment, modification, and enforcement of support orders, and location of absent parents. The Secretary shall promulgate regulations establishing the requirements which must be met by an Indian tribe or tribal organization to be eligible for a grant under this subsection.
 
-(Aug. 14, 1935, ch. 531, title IV, §455, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2355; amended Pub. L. 94–88, title II, §§201(c), 205, Aug. 9, 1975, 89 Stat. 433, 435; Pub. L. 94–365, §3, July 14, 1976, 90 Stat. 990; Pub. L. 95–59, §4, June 30, 1977, 91 Stat. 255; Pub. L. 96–178, §2(a), Jan. 2, 1980, 93 Stat. 1295; Pub. L. 96–265, title IV, §§404(a), 405(a), 407(a), (b), June 9, 1980, 94 Stat. 463, 467; Pub. L. 96–611, §§9(c), 11(c), Dec. 28, 1980, 94 Stat. 3573, 3574; Pub. L. 97–35, title XXIII, §2333(c), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(2), 174(a), (b), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–378, §§4(a), 6(b), 8, Aug. 16, 1984, 98 Stat. 1311, 1314, 1315; Pub. L. 100–485, title I, §§112(a), 123(c), Oct. 13, 1988, 102 Stat. 2350, 2352; Pub. L. 104–193, title III, §§344(b)(1), (c), 375(b), 395(d)(1)(E), Aug. 22, 1996, 110 Stat. 2236, 2237, 2256, 2259; Pub. L. 105–33, title V, §§5546(b), (c), 5555(a), Aug. 5, 1997, 111 Stat. 631, 632, 636; Pub. L. 105–200, title I, §§101(a), 102(b), title II, §201(f)(2)(B), July 16, 1998, 112 Stat. 646, 648, 658; Pub. L. 105–306, §4(a)(1), Oct. 28, 1998, 112 Stat. 2926; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–286; Pub. L. 106–169, title IV, §401(i), Dec. 14, 1999, 113 Stat. 1858.)
+(Aug. 14, 1935, ch. 531, title IV, §455, as added Pub. L. 93–647, §101(a), Jan. 4, 1975, 88 Stat. 2355; amended Pub. L. 94–88, title II, §§201(c), 205, Aug. 9, 1975, 89 Stat. 433, 435; Pub. L. 94–365, §3, July 14, 1976, 90 Stat. 990; Pub. L. 95–59, §4, June 30, 1977, 91 Stat. 255; Pub. L. 96–178, §2(a), Jan. 2, 1980, 93 Stat. 1295; Pub. L. 96–265, title IV, §§404(a), 405(a), 407(a), (b), June 9, 1980, 94 Stat. 463, 467; Pub. L. 96–611, §§9(c), 11(c), Dec. 28, 1980,94 Stat. 3573, 3574; Pub. L. 97–35, title XXIII, §2333(c), Aug. 13, 1981, 95 Stat. 863; Pub. L. 97–248, title I, §§171(b)(2), 174(a), (b), Sept. 3, 1982, 96 Stat. 401, 403; Pub. L. 98–378, §§4(a), 6(b), 8, Aug. 16, 1984, 98 Stat. 1311, 1314, 1315; Pub. L. 100–485, title I, §§112(a), 123(c), Oct. 13, 1988, 102 Stat. 2350, 2352; Pub. L. 104–193, title III, §§344(b)(1), (c), 375(b), 395(d)(1)(E), Aug. 22, 1996, 110 Stat. 2236, 2237, 2256, 2259; Pub. L. 105–33, title V, §§5546(b), (c), 5555(a), Aug. 5, 1997, 111 Stat. 631, 632, 636; Pub. L. 105–200, title I, §§101(a), 102(b), title II, §201(f)(2)(B), July 16, 1998, 112 Stat. 646, 648, 658; Pub. L. 105–306, §4(a)(1), Oct. 28, 1998, 112 Stat. 2926; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(a)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–286; Pub. L. 106–169, title IV, §401(i), Dec. 14, 1999, 113 Stat. 1858.)
 
 #### References in Text
 
@@ -166,7 +166,7 @@ Pub. L. 105–33, §5546(b), redesignated subsec. (b), relating to direct Federa
 
 1996—Subsec. (a)(1). Pub. L. 104–193, §344(c), which directed repeal of Pub. L. 100–485, §123(c), was executed by restoring the provisions of this section amended by §123(c) to read as if §123(c) had not been enacted, to reflect the probable intent of Congress. See 1988 Amendment note below.
 
-Subsec. (a)(1)(B). Pub. L. 104–193, §344(b)(1)(A), as amended by Pub. L. 106–169, added subpar. (B) andstruck out former subpar. (B) which read as follows: “equal to 90 percent (rather than the percent specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to the planning, design, development, installation or enhancement of an automatic data processing and information retrieval system (including in such sums the full cost of the hardware components of such system) which the Secretary finds meets the requirements specified in section 654(16) of this title, or meets such requirements without regard to clause (D) thereof, and”.
+Subsec. (a)(1)(B). Pub. L. 104–193, §344(b)(1)(A), as amended by Pub. L. 106–169, added subpar. (B) and struck out former subpar. (B) which read as follows: “equal to 90 percent (rather than the percent specified in subparagraph (A)) of so much of the sums expended during such quarter as are attributable to the planning, design, development, installation or enhancement of an automatic data processing and information retrieval system (including in such sums the full cost of the hardware components of such system) which the Secretary finds meets the requirements specified in section 654(16) of this title, or meets such requirements without regard to clause (D) thereof, and”.
 
 Subsec. (a)(3). Pub. L. 104–193, §344(b)(1)(B), added par. (3).
 
@@ -192,7 +192,7 @@ Subsec. (c). Pub. L. 97–248, §174(b), struck out subsec. (c) which had provid
 
 1981—Subsec. (a). Pub. L. 97–35, as amended by Pub. L. 97–248, §171(b)(2), inserted provision that in determining the total amounts expended by any State during a quarter, for purposes of this subsection, there be excluded an amount equal to the total of any fees collected or other income resulting from services provided under the plan approved under this part.
 
-1980—Subsec. (a). Pub. L. 96–611, §9(c), inserted provision following par. (3) that no amount shall be paid to any State on account of amounts expended to carry out an agreement which it has entered into pursuant to section 663 of this title.
+1980—Subsec. (a). Pub. L. 96–611, §9(c), inserted provision following par. (3) that no amount shall be paid toany State on account of amounts expended to carry out an agreement which it has entered into pursuant to section 663 of this title.
 
 Pub. L. 96–611, §11(c), which was intended to make a technical correction in par. (3) by substituting a period for the semicolon at the end thereof, was not executed in view of the amendment by section 9(c) of Pub. L. 96–611 inserting provision following par. (3).
 
@@ -234,7 +234,7 @@ For effective date of amendment by Pub. L. 104–193, see section 395(a)–(c) o
 
 #### Effective Date of 1988 Amendment
 
-Section 112(b) of Pub. L. 100–485 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to laboratory costs incurred on or after October 1, 1988.”
+Section 112(b) of Pub. L. 100–485 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to laboratory costs incurred on or after October 1, 1988.”
 
 Section 123(c) of Pub. L. 100–485 which provided that the amendment made by that section was effective Sept. 30, 1995, was repealed by Pub. L. 104–193, title III, §344(c), Aug. 22, 1996, 110 Stat. 2237.
 
@@ -278,7 +278,7 @@ In general.—The Secretary of Health and Human Services may not pay more than $
 
 “(B)
 
-Allocation of limitation among states.—The total amount payable to a State or a system described in subparagraph (C) under section 455(a)(3)(B) of such Act for fiscal years 1996 through 2001 shall not exceed the limitation determined for the State or system by the Secretary of Health and Human Services in regulations.
+Allocation of limitation among states.—The total amount payable to a State or a system describedin subparagraph (C) under section 455(a)(3)(B) of such Act for fiscal years 1996 through 2001 shall not exceed the limitation determined for the State or system by the Secretary of Health and Human Services in regulations.
 
 “(C)
 

@@ -14,7 +14,9 @@ The Administrator shall establish procedures to provide all Federal agencies wit
 
 The President may exempt any contract, loan, or grant from all or part of the provisions of this section where he determines such exemption is necessary in the paramount interest of the United States and he shall notify the Congress of such exemption.
 
-#### (e) Omitted
+#### (e) Annual report to Congress
+
+The President shall annually report to the Congress on measures taken in compliance with the purpose and intent of this section, including, but not limited to, the progress and problems associated with such compliance.
 
 #### (f) Contractor certification or contract clause in acquisition of commercial items
 
@@ -27,8 +29,6 @@ The President may exempt any contract, loan, or grant from all or part of the pr
 #### Codification
 
 Subsec. (c) of this section authorized the President to cause to be issued, not more than 180 days after October 18, 1972, an order (1) requiring each Federal agency authorized to enter into contracts or to extend Federal assistance by way of grant, loan, or contract, to effectuate the purpose and policy of this chapter, and (2) setting forth procedures, sanctions and penalties as the President determines necessary to carry out such requirement.
-
-Subsec. (e) of this section, which required the President to annually report to Congress on measures taken in compliance with the purpose and intent of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 20 of House Document No. 103–7.
 
 #### Amendments
 

@@ -2,15 +2,15 @@
 
 #### (a) Rates and sources; deposits in Fund
 
-(1) Except as otherwise provided in this section, 7 percent of the basic salary received by each participant shall be deducted from the salary and contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the Department from the appropriations or fund used for payment of the salary of the participant. The Department shall deposit in the Fund the amounts deducted and withheld from basic salary and the amounts contributed by the Department.
+(1) Except as otherwise provided in this section, 7.25 percent of the basic salary received by each participant shall be deducted from the salary and contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amounts deducted and withheld from basic salary and the amounts contributed by the employing agency.
 
 (2) Notwithstanding the percentage limitation contained in paragraph (1) of this subsection—
 
-&emsp;(A) the Department shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed in the same manner as that of a law enforcement officer pursuant to section 8339(d) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8334(a)(1) of title 5. The amounts so deducted shall be contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the Department from the appropriations or fund used for payment of the salary of the participant. The Department shall deposit in the Fund the amount deducted and withheld from basic salary and amounts contributed by the Department.
+&emsp;(A) the employing agency shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed in the same manner as that of a law enforcement officer pursuant to section 8339(d) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8334(a)(1) of title 5, plus an amount equal to .25 percent of basic pay. The amounts so deducted shall be contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the employing agency from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amount deducted and withheld from basic salary and amounts contributed by the employing agency.
 
-&emsp;(B) The Department shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed pursuant to section 8415(d) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8422(a)(2)(B) <sup>1</sup> of title 5. The amounts so deducted shall be contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the Department from the appropriations or fund used for payment of the salary of the participant. The Department shall deposit in the Fund the amounts deducted and withheld from basic salary and amounts contributed by the Department.
+&emsp;(B) The employing agency shall deduct and withhold from the basic pay of a Foreign Service criminal investigator/inspector of the Office of the Inspector General, Agency for International Development, who is qualified to have his annuity computed pursuant to section 8415(d) of title 5, an amount equal to that to be withheld from a law enforcement officer pursuant to section 8422(a)(2)(B) <sup>1</sup> of title 5, plus an amount equal to .25 percent of basic pay. The amounts so deducted shall be contributed to the Fund for the payment of annuities, cash benefits, refunds, and allowances. An equal amount shall be contributed by the employing agency from the appropriations or fund used for payment of the salary of the participant. The employing agency shall deposit in the Fund the amounts deducted and withheld from basic salary and amounts contributed by the employing agency.
 
-(3) For service as a special agent, paragraph (1) shall be applied by substituting for “7 percent” the percentage that applies to law enforcement officers under section 8334(a)(1) of title 5.
+(3) For service as a special agent, paragraph (1) shall be applied by substituting for “7 percent” the percentage that applies to law enforcement officers under section 8334(a)(1) of title 5, plus .25 percent.
 
 #### (b) Consent to deduction; discharge and acquittance of claims and demands
 
@@ -76,7 +76,7 @@ Each participant shall be deemed to consent and agree to such deductions from ba
 
 #### (f) Exemption for certain military or naval service
 
-Contributions shall only be required to obtain credit for periods of military or naval service to the extent provided under subsection (e) of this section and section 4056(a) of this title, exceptthat credit shall be allowed in the absence of contributions to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.
+Contributions shall only be required to obtain credit for periods of military or naval service to the extent provided under subsection (e) of this section and section 4056(a) of this title, except that credit shall be allowed in the absence of contributions to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.
 
 #### (g) Time of payment; offset against initial annuity accruals
 
@@ -86,13 +86,15 @@ A participant or survivor may make a special contribution at any time before rec
 
 Effective with respect to pay periods beginning after December 31, 1986, in administering this section with respect to a participant described in section 4071b(c) of this title whose service is employment for the purposes of title II of the Social Security Act \[42 U.S.C. 401 et seq.\] and chapter 21 of title 26, contributions to the Fund and interest thereon shall be computed as if section 8334(k) of title 5 were applicable.
 
-(Pub. L. 96–465, title I, §805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, §4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§402(a)(2), 405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, §212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, §4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, §7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, §2(b), (c), Nov. 13, 1998, 112 Stat. 3407; Pub. L. 106–346, §101(a) \[title V, §505(d)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53.)
+(Pub. L. 96–465, title I, §805, Oct. 17, 1980, 94 Stat. 2104; Ex. Ord. No. 12446, §4(a), Oct. 17, 1983, 48 F.R. 48444; Pub. L. 99–335, title IV, §§402(a)(2), 405, June 6, 1986, 100 Stat. 609, 610; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–238, title II, §212, Jan. 8, 1988, 101 Stat. 1773; Pub. L. 102–499, §4(a), (b), Oct. 24, 1992, 106 Stat. 3265; Pub. L. 105–33, title VII, §7001(d)(2)(C), (D), Aug. 5, 1997, 111 Stat. 660, 661; Pub. L. 105–382, §2(b), (c), Nov. 13, 1998, 112 Stat. 3407; Pub. L. 106–346, §101(a) \[title V, §505(d)(2)\], Oct. 23, 2000, 114 Stat. 1356, 1356A–53; Pub. L. 107–228, div. A, title III, §322(a)(2), Sept. 30, 2002, 116 Stat. 1384.)
 
 #### Amendment of Section
 
 <i>Section 1(a) and (c) of Ex. Ord. No. 12446, Oct. 17, 1983, 48 F.R. 48443, set out as a note under section 4067 of this title, provided that the second sentence of subsec. (d)(3) of this section, applicable (i) to contributions for civilian service performed on or after the first day of Nov. 1983, (ii) to contributions for prior refunds to participants for which application is received by the employing agency on and after such first day of Nov. 1983, and (iii) to excess contributions under section 4055(h) of this title and voluntary contributions under section 4065(a) of this title from the first day of Nov. 1983, is deemed to be amended to provide that interest shall be compounded at the annual rate of 3 percent per annum through December 31, 1984, and thereafter at a rate equal to the overall average yield to the Fund during the preceding fiscal year from all obligations purchased by the Secretary of the Treasury during such fiscal year under section 4059 of this title, as determined by the Secretary of the Treasury.</i>
 
 #### References in Text
+
+Section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001, referred to in subsec. (a)(1), is section 101(a) \[title V, §505(h)\] of Pub. L. 106–346, which is set out as a note below.
 
 Section 8422(a)(2) of title 5, referred to in subsec. (a)(2)(B), was amended by Pub. L. 105–33, title VII, §7001(b)(1)(A), Aug. 5, 1997, 111 Stat. 657, by striking out par. (2) and adding a new par. (2). As so amended, section 8422(a)(2)(B) of Title 5, Government Organization and Employees, no longer specifies the amount to be withheld from the basic pay of a law enforcement officer. However, provisions relating to the amount to be withheld from the basic pay of a law enforcement officer are contained elsewhere in section 8422.
 
@@ -101,6 +103,16 @@ Sections 206(b)(3) and 203(a)(3) of the Federal Employees’ Retirement Contribu
 The Social Security Act, referred to in subsec. (h), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Social Security Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–228, §322(a)(2)(C), which directed amendment of par. (1) by substituting “employing agency” for “Department” wherever appearing, was executed by making the substitution in two places in the last sentence but not in the second sentence where “Department” appears before “of Transportation and Related Agencies Appropriations Act, 2001”, to reflect the probable intent of Congress.
+
+Pub. L. 107–228, §322(a)(2)(A), substituted “7.25 percent” for “7 percent” and “The contribution by the employing agency shall be a percentage of basic salary equal to the percentage in effect under section 7001(d)(1) of the Balanced Budget Act of 1997 (Public Law 105–33; 22 U.S.C. 4045 note), and section 505(h) of the Department of Transportation and Related Agencies Appropriations Act, 2001 (as enacted by Public Law 106–346; 114 Stat. 1356A–54), plus .25 percent of basic salary, and shall be made” for “An equal amount shall be contributed by the Department”.
+
+Subsec. (a)(2)(A), (B). Pub. L. 107–228, §322(a)(2)(C), substituted “employing agency” for “Department” wherever appearing.
+
+Pub. L. 107–228, §322(a)(2)(B), which directed amendment of subpars. (A) and (B) by inserting “, plus an amount equal to .25 percent of basic pay” at end of first sentence, was executed by making the insertion before the period at end of first sentence to reflect the probable intent of Congress.
+
+Subsec. (a)(3). Pub. L. 107–228, §322(a)(2)(D), which directed amendment of par. (3) by inserting “, plus .25 percent” at the end of the first sentence, was executed by making the insertion before the period at end of first sentence, to reflect the probable intent of Congress.
 
 2000—Subsec. (d)(1). Pub. L. 106–346, in table in concluding provisions, substituted item relating to service period after December 31, 2000, for items relating to service periods January 1, 2001, through December 31, 2002; and after December 31, 2002.
 
@@ -134,6 +146,10 @@ Pub. L. 99–335, §405(a)(2), added subsec. (h).
 
 1983—Subsecs. (e) to (g). Ex. Ord. No. 12446 added subsecs. (e) and (f), struck out former subsec. (e), and redesignated former subsec. (f) as (g). Prior to amendment, subsec. (e) read as follows: “Contributions shall not be required for any period of military and naval service or for any period for which credit is allowed to individuals of Japanese ancestry under section 4056 of this title for periods of internment during World War II.”
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–228, div. A, title III, §322(c)(2), Sept. 30, 2002, 116 Stat. 1385, provided that: “The amendments made by subsections (a)(2) \[amending this section\] and (b)(2) \[amending section 4071e of this title\] shall take effect with the first pay period beginning on or after the date that is 90 days after the date of enactment of this Act \[Sept. 30, 2002\].”
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–346 effective upon the close of calendar year 2000 and applicable thereafter, see section 101(a) \[title V, §505(i)\] of Pub. L. 106–346, set out as a note under section 8334 of Title 5, Government Organization and Employees.
@@ -144,7 +160,7 @@ Amendment by Pub. L. 105–382 effective Nov. 13, 1998, with provisions relating
 
 #### Effective Date of 1997 Amendment
 
-Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a noteunder section 8334 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 105–33 effective Oct. 1, 1997, see section 7001(f) of Pub. L. 105–33, set out as a note under section 8334 of Title 5, Government Organization and Employees.
 
 #### Effective Date of 1988 Amendment
 
@@ -186,7 +202,7 @@ Individual deductions, withholdings, and deposits.—
 
 &emsp;“(A)
 
-In general.—Notwithstanding section 805(a)(1) of the Foreign Service Act of 1980 (22 U.S.C. 4045(a)(1)), beginning on January 1, 1999, through December 31, 2000, the amount withheld and deducted from the basic pay of a participant in the Foreign Service Retirement and Disability System shall be as follows:
+In general.—Notwithstanding section 805(a)(1) of the Foreign Service Act of 1980 (22 U.S.C.4045(a)(1)), beginning on January 1, 1999, through December 31, 2000, the amount withheld and deducted from the basic pay of a participant in the Foreign Service Retirement and Disability System shall be as follows:
 
 &nbsp;
 

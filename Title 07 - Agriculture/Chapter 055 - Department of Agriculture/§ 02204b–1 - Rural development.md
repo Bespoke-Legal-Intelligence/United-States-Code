@@ -12,7 +12,7 @@ Congress hereby directs the heads of all executive departments and agencies of t
 
 #### References in Text
 
-Section 1926(a)(7) of this title, referred to in subsec. (b), was repealed and a new section 1926(a)(7) was added by Pub. L. 104–127, title VII, §741(a)(2), Apr. 4, 1996, 110 Stat. 1123. As added, section 1926(a)(7) of this title defines “rural areas” but no longer contains provisions relating to a private business enterprise exception.
+Section 1926(a)(7) of this title, referred to in subsec. (b), was repealed and a new section 1926(a)(7) was added by Pub. L. 104–127, title VII, §741(a)(2), Apr. 4, 1996, 110 Stat. 1123. As added, section 1926(a)(7) of this title defined “rural areas” but no longer contained provisions relating to a private business enterprise exception. Subsequently, section 1926(a)(7) was repealed by Pub. L. 107–171, title VI, §6020(b)(1), May 13, 2002, 116 Stat. 363.
 
 #### Codification
 

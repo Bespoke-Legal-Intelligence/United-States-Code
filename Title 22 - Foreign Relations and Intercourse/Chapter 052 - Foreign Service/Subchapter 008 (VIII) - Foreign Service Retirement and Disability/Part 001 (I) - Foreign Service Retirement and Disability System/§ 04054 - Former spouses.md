@@ -2,7 +2,7 @@
 
 #### (a) Living Service members
 
-(1) Unless otherwise expressly provided by any spousal agreement or court order under section4060(b)(1) of this title, a former spouse of a participant or former participant is entitled to an annuity if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and—
+(1) Unless otherwise expressly provided by any spousal agreement or court order under section 4060(b)(1) of this title, a former spouse of a participant or former participant is entitled to an annuity if such former spouse was married to the participant for at least 10 years during service of the participant which is creditable under this subchapter with at least 5 of such years occurring while the participant was a member of the Foreign Service and—
 
 &emsp;(A) if married to the participant throughout the creditable service of the participant, equal to 50 percent of the annuity of the participant; or
 
@@ -48,7 +48,7 @@
 
 (4)(A) The maximum survivor annuity or combination of survivor annuities under this section (and section 4046(b)(3) of this title) with respect to any participant or former participant may not exceed 55 percent of the full amount of the participant's annuity, as calculated under section 4046(a) of this title.
 
-(B) Once a survivor annuity has been provided for under this subsection for any former spouse, a survivor annuity may thereafter be provided for under this subsection (or section 4046(b)(3) of this title) with respect to a participant or former participant only for that portion (if any) of the maximum available which is not committed for survivor benefits for any former spousewhose prospective right to such annuity has not terminated by reason of death or remarriage.
+(B) Once a survivor annuity has been provided for under this subsection for any former spouse, a survivor annuity may thereafter be provided for under this subsection (or section 4046(b)(3) of this title) with respect to a participant or former participant only for that portion (if any) of the maximum available which is not committed for survivor benefits for any former spouse whose prospective right to such annuity has not terminated by reason of death or remarriage.
 
 (C) After the death of a participant or former participant, a court order under section 4060(b)(1) of this title may not adjust the amount of the annuity of any former spouse under this section.
 
@@ -64,7 +64,7 @@
 
 &emsp;(B) a spousal agreement or court order under section 4060(b)(1) of this title may provide for,
 
-> an additional survivor annuity under this subsection for any other former spouse or spouse surviving the participant, if the participant satisfactorily passes a physical examination as prescribed by the Secretary of State.
+> an additional survivor annuity under this subsection for any other former spouse or spousesurviving the participant, if the participant satisfactorily passes a physical examination as prescribed by the Secretary of State.
 
 (2) Neither the total amount of survivor annuity or annuities under this subsection with respect to any participant or former participant, nor the survivor annuity or annuities for any one surviving spouse or former spouse of such participant under this section and section 4046 of this title, shall exceed 55 percent of the full amount of the participant's annuity, as computed under section 4046(a) of this title.
 
@@ -138,7 +138,7 @@ Exceptions.—
 
 “(c)
 
-Definitions.—For the purpose of this section, the terms ‘participant’ and ‘former participant’ have the same meaning as such terms in chapter 8 of the Foreign Service Act of 1980 \[this subchapter\].”
+Definitions.—For the purpose of this section, the terms ‘participant’ and ‘former participant’ havethe same meaning as such terms in chapter 8 of the Foreign Service Act of 1980 \[this subchapter\].”
 
 #### Effective Date of 1986 Amendment
 

@@ -2,7 +2,7 @@
 
 (a) In managing the provision of hospital care and medical services under section 1710(a) of this title, the Secretary shall, to the extent feasible, design, establish and manage health care programs in such a manner as to promote cost-effective delivery of health care services in the most clinically appropriate setting.
 
-(b)(1) In managing the provision of hospital care and medical services under such section, the Secretary shall ensure that the Department (and each geographic service area of the Veterans Health Administration) maintains its capacity to provide for the specialized treatment and rehabilitative needs of disabled veterans (including veterans with spinal cord dysfunction, blindness, amputations, and mental illness) within distinct programs or facilities of the Department that are dedicated to the specialized needs of those veterans in a manner that (A) affords those veterans reasonable access to care and services for those specialized needs, and (B) ensures that overall capacity of the Department (and each geographic service area of the Veterans Health Administration) to provide such services is not reduced below the capacity of the Department, nationwide, to provide those services, as of October 9, 1996. The Secretary shallcarry out this paragraph in consultation with the Advisory Committee on Prosthetics and Special Disabilities Programs and the Committee on Care of Severely Chronically Mentally Ill Veterans.
+(b)(1) In managing the provision of hospital care and medical services under such section, the Secretary shall ensure that the Department (and each geographic service area of the Veterans Health Administration) maintains its capacity to provide for the specialized treatment and rehabilitative needs of disabled veterans (including veterans with spinal cord dysfunction, blindness, amputations, and mental illness) within distinct programs or facilities of the Department that are dedicated to the specialized needs of those veterans in a manner that (A) affords those veterans reasonable access to care and services for those specialized needs, and (B) ensures that overall capacity of the Department (and each geographic service area of the Veterans Health Administration) to provide such services is not reduced below the capacity of the Department, nationwide, to provide those services, as of October 9, 1996. The Secretary shall carry out this paragraph in consultation with the Advisory Committee on Prosthetics and Special Disabilities Programs and the Committee on Care of Severely Chronically Mentally Ill Veterans.
 
 (2) For purposes of paragraph (1), the capacity of the Department (and each geographic service area of the Veterans Health Administration) to provide for the specialized treatment and rehabilitative needs of disabled veterans (including veterans with spinal cord dysfunction, traumatic brain injury, blindness, prosthetics and sensory aids, and mental illness) within distinct programs or facilities shall be measured for seriously mentally ill veterans as follows (with all such data to be provided by geographic service area and totaled nationally):
 
@@ -54,7 +54,7 @@
 
 (c) The Secretary shall ensure that each primary care health care facility of the Department develops and carries out a plan to provide mental health services, either through referral or direct provision of services, to veterans who require such services.
 
-(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3183; amended Pub. L. 105–368, titleIX, §903(a), title X, §1005(b)(2), Nov. 11, 1998, 112 Stat. 3360, 3365; Pub. L. 107–95, §8(a), Dec. 21, 2001, 115 Stat. 919; Pub. L. 107–135, title II, §203, Jan. 23, 2002, 115 Stat. 2458.)
+(Added Pub. L. 104–262, title I, §104(a)(1), Oct. 9, 1996, 110 Stat. 3183; amended Pub. L. 105–368, title IX, §903(a), title X, §1005(b)(2), Nov. 11, 1998, 112 Stat. 3360, 3365; Pub. L. 107–95, §8(a), Dec. 21, 2001, 115 Stat. 919; Pub. L. 107–135, title II, §203, Jan. 23, 2002, 115 Stat. 2458.)
 
 #### Amendments
 
@@ -77,4 +77,8 @@ Subsec. (b)(3). Pub. L. 105–368, §903(a)(2), added par. (3).
 #### Deadline for Prescribing Standards
 
 Pub. L. 105–368, title IX, §903(b), Nov. 11, 1998, 112 Stat. 3361, provided that: “The standards of job performance required by paragraph (3) of section 1706(b) of title 38, United States Code, as added by subsection (a), shall be prescribed not later than January 1, 1999.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8111 of this title.
 

@@ -20,7 +20,7 @@ The mission of the United States Information Agency shall be to further the nati
 
 #### Codification
 
-Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Year 1979, and not as part ofthe United States Information and Educational Exchange Act of 1948 which comprises this chapter.
+Section was enacted as part of the Foreign Relations Authorization Act, Fiscal Year 1979, and not as part of the United States Information and Educational Exchange Act of 1948 which comprises this chapter.
 
 #### Transfer of Functions
 

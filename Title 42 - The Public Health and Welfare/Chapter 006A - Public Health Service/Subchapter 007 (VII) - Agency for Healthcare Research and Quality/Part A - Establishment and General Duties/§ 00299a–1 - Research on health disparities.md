@@ -24,7 +24,7 @@ The Director shall—
 
 &emsp;&emsp;(A) identify the clinical, cultural, socioeconomic, geographic, and organizational factors that contribute to health disparities, including minority health disparity populations, which research shall include behavioral research, such as examination of patterns of clinical decisionmaking, and research on access, outreach, and the availability of related support services (such as cultural and linguistic services);
 
-&emsp;&emsp;(B) identify and evaluate clinical and organizational strategies to improve the quality,outcomes, and access to care for health disparity populations, including minority health disparity populations;
+&emsp;&emsp;(B) identify and evaluate clinical and organizational strategies to improve the quality, outcomes, and access to care for health disparity populations, including minority health disparity populations;
 
 &emsp;&emsp;(C) test such strategies and widely disseminate those strategies for which there is scientific evidence of effectiveness; and
 
@@ -68,7 +68,7 @@ For purposes of this section:
 
 #### Prior Provisions
 
-A prior section 299a–1, act July 1, 1944, ch. 373, title IX, §903, as added Pub. L. 101–239, title VI, §6103(a), Dec. 19, 1989, 103 Stat. 2190; amended Pub. L. 102–410, §3, Oct. 13, 1992, 106 Stat. 2094; Pub. L. 103–43, title XIV, §1422(a), June 10, 1993, 107 Stat. 172, related to public dissemination of information about studies and projects prior to the general amendment of this subchapter by Pub. L. 106–129. See section 299c–3 of this title.
+A prior section 299a–1, act July 1, 1944, ch. 373, title IX, §903, as added Pub. L. 101–239, title VI, §6103(a), Dec.19, 1989, 103 Stat. 2190; amended Pub. L. 102–410, §3, Oct. 13, 1992, 106 Stat. 2094; Pub. L. 103–43, title XIV, §1422(a), June 10, 1993, 107 Stat. 172, related to public dissemination of information about studies and projects prior to the general amendment of this subchapter by Pub. L. 106–129. See section 299c–3 of this title.
 
 A prior section 903 of act July 1, 1944, was classified to section 299c of this title prior to repeal by Pub. L. 99–117.
 

@@ -8,7 +8,7 @@
 
 > Disciplinary Appeals Boards shall not have jurisdiction to review such matters, other than as part of a mixed case (as defined in section 7462(a)(3) of this title).
 
-(b) In the case of an employee who is a member of a collective bargaining unit under chapter 71 of title 5, the employee may seek review of an adverse action described in subsection (a) either under the grievance procedures provided through regulations prescribed under subsection (a) or through grievance procedures determined through collective bargaining, but not under both. The employee shall elect which grievance procedure to follow. Any such election may not be revoked.
+(b) In the case of an employee who is a member of a collective bargaining unit under chapter 71 of title 5, the employee may seek review of an adverse action described in subsection (a) either under the grievance procedures provided through regulations prescribed under subsection (a) or through grievance procedures determined through collective bargaining, but not under both. The employee shall elect which grievanceprocedure to follow. Any such election may not be revoked.
 
 (c)(1) In any case in which charges are brought against a section 7401(1) employee which could result in a major adverse action and which do not involve professional conduct or competence, the employee is entitled to the same notice and opportunity to answer with respect to those charges as provided in subparagraphs (A) and (B) of section 7462(b)(1) of this title.
 
@@ -16,7 +16,7 @@
 
 &emsp;(A) an advance written notice stating the specific reason for the proposed action, and
 
-&emsp;(B) a reasonable time to answer orally and in writing and to furnish affidavits and otherdocumentary evidence in support of the answer.
+&emsp;(B) a reasonable time to answer orally and in writing and to furnish affidavits and other documentary evidence in support of the answer.
 
 (d) Grievance procedures prescribed under subsection (a) shall include the following:
 

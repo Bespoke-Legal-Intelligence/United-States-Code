@@ -2,7 +2,7 @@
 
 #### (a) Research, development, and demonstration
 
-The Secretary of Energy shall provide funds, by contract, to initiate, continue, supplement, and maintain research, development, and demonstration activities which are necessary to carry out the purposes of the project. The Secretary of Energy may enter into such contracts with any Federal agency, laboratory, university, nonprofit organization, industrial organization,public or private agency, institution, organization, corporation, partnership, or individual.
+The Secretary of Energy shall provide funds, by contract, to initiate, continue, supplement, and maintain research, development, and demonstration activities which are necessary to carry out the purposes of the project. The Secretary of Energy may enter into such contracts with any Federal agency, laboratory, university, nonprofit organization, industrial organization, public or private agency, institution, organization, corporation, partnership, or individual.
 
 #### (b) Consultation
 
@@ -32,7 +32,7 @@ Title III of the Act of March 3, 1933 (47 Stat. 1520; 41 U.S.C. 10a–10c), refe
 
 #### Codification
 
-In subsec. (b), the words “the Federal Energy Administration,” which followed “Environmental Protection Agency,” have been omitted from the Code in view of the termination of the Federal Energy Administration and the transfer of the functions of the Administration to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. This transfer would result in this phrase being redundant in that it would provide for the Secretary of Energy to consult with the Secretary of Energy.
+In subsec. (b), the words “the Federal Energy Administration,” which followed “Environmental Protection Agency,” have been omitted from the Code in view of the termination of the Federal Energy Administrationand the transfer of the functions of the Administration to the Secretary of Energy pursuant to sections 301(a) and 703 of Pub. L. 95–91 which are classified to sections 7151(a) and 7293 of Title 42, The Public Health and Welfare. This transfer would result in this phrase being redundant in that it would provide for the Secretary of Energy to consult with the Secretary of Energy.
 
 #### Amendments
 

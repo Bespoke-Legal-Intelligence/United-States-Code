@@ -16,7 +16,7 @@
 
 &emsp;&emsp;(E) sell, after reasonable public notice and notice to such next of kin as can be ascertained with reasonable diligence, such additional items of property as necessary to provide funds sufficient to pay the decedent's debts and property taxes in the country of death, funeral expenses, and other expenses incident to the disposition of the estate;
 
-&emsp;&emsp;(F) upon the expiration of the one-year period beginning on the date of death (or after such additional period as may be required for final settlement of the estate), if no claimant shall have appeared, after reasonable public notice and notice to such next of kin as can be ascertained with reasonable diligence, sell or dispose of the residue of the personal estate, except as provided in subparagraph (G), in the same manner as United States Government-owned foreign excess property;
+&emsp;&emsp;(F) upon the expiration of the one-year period beginning on the date of death (or after such additional period as may be required for final settlement of the estate), if no claimant shall have appeared, after reasonable public notice and notice to such next ofkin as can be ascertained with reasonable diligence, sell or dispose of the residue of the personal estate, except as provided in subparagraph (G), in the same manner as United States Government-owned foreign excess property;
 
 &emsp;&emsp;(G) transmit to the custody of the Secretary of State in Washington, D.C. the proceeds of any sales, together with all financial instruments (including bonds, shares of stock, and notes of indebtedness), jewelry, heirlooms, and other articles of obvious sentimental value, to be held in trust for the legal claimant; and
 
@@ -52,7 +52,7 @@
 
 #### (B) Disposition as surplus United States property
 
-&emsp;&emsp;If, upon the expiration of a period of 5 fiscal years beginning on October 1 after a consular officer takes possession of a personal estate under subsection (a) of this section, no legal claimant for such estate has appeared, title to the estate shall be conveyed to the United States, the property in the estate shall be under the custody of the Department of State, and the Secretary shalldispose of the estate in the same manner as surplus United States Government-owned property is disposed or by such means as may be appropriate in light of the nature and value of the property involved. The expenses of sales shall be paid from the estate, and any lawful claim received thereafter shall be payable to the extent of the value of the net proceeds of the estate as a refund from the appropriate Treasury appropriations account.
+&emsp;&emsp;If, upon the expiration of a period of 5 fiscal years beginning on October 1 after a consular officer takes possession of a personal estate under subsection (a) of this section, no legal claimant for such estate has appeared, title to the estate shall be conveyed to the United States, the property in the estate shall be under the custody of the Department of State, and the Secretary shall dispose of the estate in the same manner as surplus United States Government-owned property is disposed or by such means as may be appropriate in light of the nature and value of the property involved. The expenses of sales shall be paid from the estate, and any lawful claim received thereafter shall be payable to the extent of the value of the net proceeds of the estate as a refund from the appropriate Treasury appropriations account.
 
 #### (C) Transfer of proceeds
 
@@ -62,7 +62,7 @@
 
 #### (A) Designation as excess property
 
-&emsp;&emsp;In the event that title to real property is conveyed to the Government of the United States pursuant to subsection (a)(1)(H) of this section and is not required by the Department of State, such property shall be considered foreign excess property under title IV of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 511 et seq.).
+&emsp;&emsp;In the event that title to real property is conveyed to the Government of the United States pursuant to subsection (a)(1)(H) of this section and is not required by the Department of State, such property shall be considered foreign excess property under title IV of the Federal Property and Administrative Services Act of 1949.<sup>1</sup>
 
 #### (B) Treatment as gift
 
@@ -100,7 +100,7 @@ The Secretary of State may prescribe such regulations as may be necessary to car
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IV of the Act is classified generally to subchapter III (§511 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IV of the Act, which was classified generally to subchapter III (§511 et seq.) of chapter 10 of former Title 40, Public Buildings, Property, and Works, was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapter 7 (§701 et seq.) of Title 40, Public Buildings, Property, and Works.
 
 #### Effective Date
 
@@ -109,4 +109,6 @@ Section effective six months after Nov. 29, 1999, see section 1000(a)(7) \[title
 #### Section Referred to in Other Sections
 
 This section is referred to in section 2715 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -10,7 +10,7 @@ In carrying out its functions, the Center is authorized—
 
 &emsp;(4) to implement a program and secure necessary facilities for the collection, collation, analysis, and interpretation of data and information as required in order to carry out the public information functions under this chapter; and
 
-&emsp;(5) to undertake such other studies, reviews, activities, and to make such recommendations and reports as may be required to carry out the functions of the Center.
+&emsp;(5) to undertake such other studies, reviews, activities, and to make such recommendationsand reports as may be required to carry out the functions of the Center.
 
 (Pub. L. 94–136, title II, §205, Nov. 28, 1975, 89 Stat. 739.)
 

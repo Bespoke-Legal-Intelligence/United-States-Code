@@ -54,7 +54,7 @@
 
 #### (5) In-kind contributions
 
-&emsp;In addition to cash outlays and payments, in-kind contributions of property or personnelservices by non-Federal interests for activities under this section may be used for the non-Federal share of the cost of those activities.
+&emsp;In addition to cash outlays and payments, in-kind contributions of property or personnel services by non-Federal interests for activities under this section may be used for the non-Federal share of the cost of those activities.
 
 #### (c) Enforcement assistance
 

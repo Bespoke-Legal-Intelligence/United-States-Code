@@ -6,7 +6,7 @@
 
 &emsp;(A) real property that is the subject of a civil forfeiture action shall not be seized before entry of an order of forfeiture; and
 
-&emsp;(B) the owners or occupants of the real property shall not be evicted from, or otherwise deprived of the use and enjoyment of, real property that is the subject of a pending forfeiture action.
+&emsp;(B) the owners or occupants of the real property shall not be evicted from, or otherwisedeprived of the use and enjoyment of, real property that is the subject of a pending forfeiture action.
 
 (2) The filing of a lis pendens and the execution of a writ of entry for the purpose of conducting an inspection and inventory of the property shall not be considered a seizure under this subsection.
 

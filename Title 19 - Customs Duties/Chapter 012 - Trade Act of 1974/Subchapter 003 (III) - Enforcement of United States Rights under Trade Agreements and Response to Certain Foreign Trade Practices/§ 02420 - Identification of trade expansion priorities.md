@@ -36,7 +36,7 @@ In the consultations with a foreign country that the Trade Representative is req
 
 #### (d) Reports
 
-The Trade Representative shall include in the semiannual report required by section 2419 of this title a report on the status of any investigations initiated pursuant to subsection (b) of this section and, where appropriate, the extent to which such investigations have led to increased opportunities for the export of products and services of the United States.
+The Trade Representative shall include in the semiannual report required by section 2419 ofthis title a report on the status of any investigations initiated pursuant to subsection (b) of this section and, where appropriate, the extent to which such investigations have led to increased opportunities for the export of products and services of the United States.
 
 (Pub. L. 93–618, title III, §310, as added Pub. L. 100–418, title I, §1302(a), Aug. 23, 1988, 102 Stat. 1176; amended Pub. L. 103–465, title III, §314(f), Dec. 8, 1994, 108 Stat. 4941.)
 
@@ -94,7 +94,7 @@ Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the su
 
 &emsp;(4) the international competitive position and export potential of United States products and services.
 
-(c) The Trade Representative may include in the report, if appropriate, a description of the foreign country practices that may in the future warrant identification as priority foreign country practices. The Trade Representative also may include a statement about other foreign country practices that were not identified because they are already being addressed by provisions of United States trade law, existing bilateral trade agreements, or in trade negotiations with other countries and progress is being made toward their elimination.
+(c) The Trade Representative may include in the report, if appropriate, a description of the foreign country practices that may in the future warrant identification as priority foreign country practices. The Trade Representative also may include a statement aboutother foreign country practices that were not identified because they are already being addressed by provisions of United States trade law, existing bilateral trade agreements, or in trade negotiations with other countries and progress is being made toward their elimination.
 
 Sec. 2. <i>Resolution</i>. Upon submission of the report required by paragraph (a) of section 1 of this part, the Trade Representative shall, with respect to any priority foreign country practice identified therein, engage the country concerned for the purpose of seeking a satisfactory resolution, for example, by obtaining compliance with a trade agreement or the elimination of the practice as quickly as possible, or, if this is not feasible, by providing for compensatory trade benefits.
 
@@ -112,7 +112,7 @@ Section 1. <i>Identification and Annual Report</i>. (a) Within 30 days of the su
 
 Sec. 2. <i>Considerations in Making Identifications</i>. In making the identifications required by section 1 of this part, the Trade Representative shall: (a) consider the requirements of the GPA, NAFTA, or other procurement agreements, government procurement practices, and the effects of such practices on U.S. businesses as a basis for evaluating whether the procurement practices of foreign governments do not provide fair market opportunities for U.S. products or services;
 
-(b) take into account, among other factors, whether and to what extent countries that are parties to theGPA, NAFTA, or other procurement agreements, and other countries described in section 1 of this part:
+(b) take into account, among other factors, whether and to what extent countries that are parties to the GPA, NAFTA, or other procurement agreements, and other countries described in section 1 of this part:
 
 &emsp;(1) use sole-sourcing or otherwise noncompetitive procedures for procurement that could have been conducted using competitive procedures;
 

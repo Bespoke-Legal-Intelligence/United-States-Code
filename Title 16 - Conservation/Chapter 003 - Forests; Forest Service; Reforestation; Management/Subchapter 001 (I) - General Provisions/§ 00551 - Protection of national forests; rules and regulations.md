@@ -18,7 +18,7 @@ Section 471 of this title, referred to in text, was in the original a reference 
 
 #### Amendments
 
-1964—Pub. L. 88–537 provided that persons charged with violation of such rules and regulations may be tried and sentenced by any United States commissionerspecially designated for that purpose by the court by which he was appointed, in the same manner as in section 3401(b) to (e) of title 18.
+1964—Pub. L. 88–537 provided that persons charged with violation of such rules and regulations may be tried and sentenced by any United States commissioner specially designated for that purpose by the court by which he was appointed, in the same manner as in section 3401(b) to (e) of title 18.
 
 1962—Pub. L. 87–869 substituted “by a fine of not more than $500 or imprisonment for not more than six months, or both” for “as is provided for in section 104 of title 18”.
 

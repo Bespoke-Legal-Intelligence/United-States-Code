@@ -6,7 +6,7 @@ Any person who willfully and knowingly does or causes or suffers to be done any 
 
 #### (b) Rules violations
 
-Any person who willfully and knowingly violates any rule, regulation, restriction, condition, or order made or imposed by the Commission under authority of this chapter, or any rule or regulation imposed by the Secretary of the Army under authority of subchapter I of this chapter shall, in addition to any other penalties provided by law, be punished upon conviction thereof by a fine of not exceeding $500 for each and every day during which such offense occurs.
+Any person who willfully and knowingly violates any rule, regulation, restriction, condition, or order made or imposed by the Commission under authority of this chapter, or any rule or regulation imposed by the Secretary of the Army under authority of subchapter I of this chapter shall, in addition to any other penaltiesprovided by law, be punished upon conviction thereof by a fine of not exceeding $500 for each and every day during which such offense occurs.
 
 #### (c) Applicability
 

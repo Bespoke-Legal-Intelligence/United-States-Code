@@ -24,7 +24,7 @@ For purposes of this part—
 
 #### (1) Health insurance coverage
 
-&emsp;The term “health insurance coverage” means benefits consisting of medical care\(provided directly, through insurance or reimbursement, or otherwise and including items and services paid for as medical care) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or health maintenance organization contract offered by a health insurance issuer.
+&emsp;The term “health insurance coverage” means benefits consisting of medical care (provided directly, through insurance or reimbursement, or otherwise and including items and services paid for as medical care) under any hospital or medical service policy or certificate, hospital or medical service plan contract, or health maintenance organization contract offered by a health insurance issuer.
 
 #### (2) Health insurance issuer
 
@@ -42,7 +42,7 @@ For purposes of this part—
 
 #### (4) Group health insurance coverage
 
-&emsp;The term “group health insurance coverage” means, in connection with a group health plan, health insurance coverage offered in connection with such plan.
+&emsp;The term “group health insurance coverage” means, in connection with a group healthplan, health insurance coverage offered in connection with such plan.
 
 #### (c) Excepted benefits
 
@@ -122,5 +122,5 @@ Section applicable with respect to group health plans for plan years beginning a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1003, 1021, 1022, 1024, 1132, 1136, 1181, 1191a of this title.
+This section is referred to in sections 1003, 1021, 1022, 1024, 1132, 1136, 1181, 1191a, 2918 of this title.
 

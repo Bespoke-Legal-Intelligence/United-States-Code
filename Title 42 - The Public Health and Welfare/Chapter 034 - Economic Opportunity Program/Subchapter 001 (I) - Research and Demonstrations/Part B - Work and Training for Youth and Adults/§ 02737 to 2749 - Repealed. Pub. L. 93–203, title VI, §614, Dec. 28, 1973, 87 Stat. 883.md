@@ -4,7 +4,7 @@ Section 2737, Pub. L. 88–452, title I, §120, as added Pub. L. 90–222, title
 
 Section 2738, Pub. L. 88–452, title I, §121, as added Pub. L. 90–222, title I, §102, Dec. 23, 1967, 81 Stat. 683, covered community program areas and comprehensive work and training programs.
 
-Section 2739, Pub. L. 88–452, title I, §122, as added Pub. L. 90–222, title I, §102, Dec. 23, 1967, 81 Stat. 683, set out provisions covering prime sponsors and delegate agencies. See section 812 of Title 29, Labor.
+Section 2739, Pub. L. 88–452, title I, §122, as added Pub. L. 90–222, title I, §102, Dec. 23, 1967, 81 Stat. 683, setout provisions covering prime sponsors and delegate agencies. See section 812 of Title 29, Labor.
 
 Section 2740, Pub. L. 88–452, title I, §123, as added Pub. L. 90–222, title I, §102, Dec. 23, 1967, 81 Stat. 684, set out the eligible activities for work and training programs.
 

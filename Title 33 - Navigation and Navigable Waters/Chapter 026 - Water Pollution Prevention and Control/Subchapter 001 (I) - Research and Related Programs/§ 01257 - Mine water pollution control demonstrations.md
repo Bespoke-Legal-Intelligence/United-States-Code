@@ -4,9 +4,9 @@
 
 The Administrator in cooperation with the Appalachian Regional Commission and other Federal agencies is authorized to conduct, to make grants for, or to contract for, projects to demonstrate comprehensive approaches to the elimination or control of acid or other mine water pollution resulting from active or abandoned mining operations and other environmental pollution affecting water quality within all or part of a watershed or river basin, including siltation from surface mining. Such projects shall demonstrate the engineering and economic feasibility and practicality of various abatement techniques which will contribute substantially to effective and practical methods of acid or other mine water pollution elimination or control, and other pollution affecting water quality, including techniques that demonstrate the engineering and economic feasibility and practicality of using sewage sludge materials and other municipal wastes to diminish or prevent pollution affecting water quality from acid, sedimentation, or other pollutants and in such projects to restore affected lands to usefulness for forestry, agriculture, recreation, or other beneficial purposes.
 
-#### (b) Consistency of projects with objectives of Appalachian Regional Development Act of 1965
+#### (b) Consistency of projects with objectives of subtitle IV of title 40
 
-Prior to undertaking any demonstration project under this section in the Appalachian region (as defined in section 403 of the Appalachian Regional Development Act of 1965, as amended \[40 App. U.S.C. 403\]), the Appalachian Regional Commission shall determine that such demonstration project is consistent with the objectives of the Appalachian Regional Development Act of 1965, as amended \[40 App. U.S.C. 1 et seq\].
+Prior to undertaking any demonstration project under this section in the Appalachian region (as defined in section 14102(a)(1) and (b) of title 40), the Appalachian Regional Commission shall determine that such demonstration project is consistent with the objectives of subtitle IV of title 40.
 
 #### (c) Watershed selection
 
@@ -26,9 +26,9 @@ There is authorized to be appropriated $30,000,000 to carry out the provisions o
 
 (June 30, 1948, ch. 758, title I, §107, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 828.)
 
-#### References in Text
+#### Codification
 
-The Appalachian Regional Development Act of 1965, as amended, referred to in subsec. (b), is Pub. L. 89–4, Mar. 9, 1965, 79 Stat. 5, as amended, which is classified generally to §1 et seq. of the Appendix to Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see section 1 of the Appendix to Title 40 and Tables.
+In subsec. (b), “section 14102(a)(1) and (b) of title 40” substituted for “section 403 of the Appalachian Regional Development Act of 1965, as amended” and “subtitle IV of title 40” substituted for “the Appalachian Regional Development Act of 1965, as amended” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Section Referred to in Other Sections
 

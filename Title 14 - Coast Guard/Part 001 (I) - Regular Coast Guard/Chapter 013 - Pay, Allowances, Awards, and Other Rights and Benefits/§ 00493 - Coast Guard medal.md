@@ -1,6 +1,6 @@
 ### §493. Coast Guard medal
 
-The President may present, but not in the name of Congress, a medal to be known as theCoast Guard medal, of appropriate design, with accompanying ribbon, together with a rosette or other device to be worn in lieu thereof, to any person who, while serving in any capacity with the Coast Guard, distinguishes himself by heroism not involving actual conflict with an enemy.
+The President may present, but not in the name of Congress, a medal to be known as the Coast Guard medal, of appropriate design, with accompanying ribbon, together with a rosette or other device to be worn in lieu thereof, to any person who, while serving in any capacity with the Coast Guard, distinguishes himself by heroism not involving actual conflict with an enemy.
 
 (Aug. 4, 1949, ch. 393, 63 Stat. 535.)
 

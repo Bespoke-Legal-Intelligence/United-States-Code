@@ -24,7 +24,7 @@ Authority and Purpose.—
 
 &emsp;“(1)
 
-Authority.—This agreement, denoted a Self-Determination Contract (referred to in this agreement as the ‘Contract’), is enteredinto by the Secretary of the Interior or the Secretary of Health and Human Services (referred to in this agreement as the ‘Secretary’), for and on behalf of the United States pursuant to title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) and by the authority of the \_\_\_\_\_\_\_\_\_\_\_\_ tribal government or tribal organization (referred to in this agreement as the ‘Contractor’). The provisions of title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) are incorporated in this agreement.
+Authority.—This agreement, denoted a Self-Determination Contract (referred to in this agreement as the ‘Contract’), is entered into by the Secretary of the Interior or the Secretary of Health and Human Services (referred to in this agreement as the ‘Secretary’), for and on behalf of the United States pursuant to title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) and by the authority of the \_\_\_\_\_\_\_\_\_\_\_\_ tribal government or tribal organization (referred to in this agreement as the ‘Contractor’). The provisions of title I of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.) are incorporated in this agreement.
 
 &emsp;“(2)
 
@@ -72,7 +72,7 @@ Quarterly, semiannual, lump-sum, and other methods of payment.—
 
 &emsp;&emsp;&emsp;“(i)
 
-In general.—Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual funding agreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in the annual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordance with such method as may be requested by the Contractor and specified in the annual funding agreement.
+In general.—Pursuant to section 108(b) of the Indian Self-Determination and Education Assistance Act, and notwithstanding any other provision of law, for each fiscal year covered by this Contract, the Secretary shall make available to the Contractor the funds specified for the fiscal year under the annual funding agreement incorporated by reference pursuant to subsection (f)(2) by paying to the Contractor, on a quarterly basis, one-quarter of the total amount provided for in theannual funding agreement for that fiscal year, in a lump-sum payment or as semiannual payments, or any other method of payment authorized by law, in accordance with such method as may be requested by the Contractor and specified in the annual funding agreement.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -272,7 +272,7 @@ Good faith.—To the extent that health programs are included in this Contract, 
 
 &emsp;“(3)
 
-Programs retained.—As specified in the annual funding agreement, the United States hereby retains the programs, services, functions, and activities with respect to thetribe(s) that are not specifically assumed by the Contractor in the annual funding agreement under subsection (f)(2).
+Programs retained.—As specified in the annual funding agreement, the United States hereby retains the programs, services, functions, and activities with respect to the tribe(s) that are not specifically assumed by the Contractor in the annual funding agreement under subsection (f)(2).
 
 “(e)
 

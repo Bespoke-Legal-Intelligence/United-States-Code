@@ -40,7 +40,7 @@ Eleventh. To make investments designed primarily to promote the public welfare, 
 
 #### References in Text
 
-Title 62 of the Revised Statutes, referred to in par. Seventh, was in the original “this Title” meaning title 62 of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to sections 21, 22 to 24a, 25a, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 56, 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
+Title 62 of the Revised Statutes, referred to in par. Seventh, was in the original “this Title” meaning title LXII of the Revised Statutes, consisting of R.S. §§5133 to 5244, which are classified to sections 21, 22 to 24a, 25a, 26, 27, 29, 35 to 37, 39, 43, 52, 53, 55 to 57, 59 to 62, 66, 71, 72 to 76, 81, 83 to 86, 90, 91, 93, 93a, 94, 141 to 144, 161, 164, 181, 182, 192 to 194, 196, 215c, 481 to 485, 501, 541, 548, and 582 of this title. See, also, sections 8, 333, 334, 475, 656, 709, 1004, and 1005 of Title 18, Crimes and Criminal Procedure. For complete classification of R.S. §§5133 to 5244 to the Code, see Tables.
 
 Section 9 of the National Capital Transportation Act of 1969, referred to in par. Seventh, is section 9 of Pub. L. 91–143, as added by section 101 of title I of Pub. L. 92–349, July 13, 1972, 86 Stat. 464, which is not classified to the Code.
 

@@ -14,7 +14,7 @@
 
 #### (1) Generally not immunized
 
-&emsp;Notwithstanding any other law or executive agreement, COMSAT shall not be entitled toany privileges or immunities under the laws of the United States or any State on the basis of its status as a signatory of INTELSAT or Inmarsat.
+&emsp;Notwithstanding any other law or executive agreement, COMSAT shall not be entitled to any privileges or immunities under the laws of the United States or any State on the basis of its status as a signatory of INTELSAT or Inmarsat.
 
 #### (2) Limited immunity
 

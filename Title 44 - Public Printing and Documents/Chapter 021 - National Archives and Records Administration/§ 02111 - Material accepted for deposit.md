@@ -8,7 +8,7 @@ When the Archivist considers it to be in the public interest he may accept for d
 
 > This section shall not apply in the case of any Presidential records which are subject to the provisions of chapter 22 of this title.
 
-(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1288, §2107; Pub. L. 95–591, §2(b)(2), Nov. 4, 1978, 92 Stat. 2528; renumbered §2111 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(5), Oct. 19, 1984, 98 Stat. 2280, 2286.)
+(Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1288, §2107; Pub. L. 95–591, §2(b)(2), Nov. 4, 1978, 92 Stat. 2528;renumbered §2111 and amended Pub. L. 98–497, title I, §§102(a)(1), 107(a)(5), Oct. 19, 1984, 98 Stat. 2280, 2286.)
 
 #### Historical and Revision Notes
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 8340 of this title; title 22 sections 3963, 4606; title 31 section 325; title 42 section 7211; title 50 section 2131.
+This subchapter is referred to in section 8340 of this title; title 2 section 1848; title 22 sections 3963, 4606; title 31 section 325; title 42 section 7211; title 50 section 2131.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -48,7 +48,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 839c, 839e, 837f of this title; title 40 section 474; title 42 section 7152.
+This chapter is referred to in sections 839c, 839e, 837f of this title; title 40 section 113; title 42 section 7152.
 
 
 ---

@@ -20,7 +20,7 @@ Section is comprised of subsec. (b) of section 14 of act Dec. 23, 1913. For clas
 
 1980—Par. (1). Pub. L. 96–221 inserted provisions relating to obligations of a foreign government or agency thereof.
 
-1979—Par. (1). Pub. L. 96–18, §1(a), struck out proviso under which Federal Reserve banks had been allowed, until May 1, 1979, to buy and sell either in the open market or directly from or to the United States bonds, notes, or other obligations which were direct obligations of the United States or which were fully guaranteed by the United States and, after Apr. 30, 1979, had allowed such obligations to be purchased but only in the open market.
+1979—Par. (1). Pub. L. 96–18, §1(a), struck out proviso under which Federal Reserve banks had been allowed, until May 1, 1979, to buy and sell either in the open market or directly from or to the United States bonds, notes, or other obligations which were direct obligations of the United States or which were fully guaranteed by the United States and, after Apr. 30, 1979, hadallowed such obligations to be purchased but only in the open market.
 
 Pub. L. 96–18, §3(b), inserted provision that notwithstanding any other provision of this chapter, any bonds, notes, or other obligations which are direct obligations of the United States or which are fully guaranteed by the United States as to principal and interest may be bought and sold without regard to maturities but only in the open market.
 
@@ -70,7 +70,7 @@ Pub. L. 89–484 substituted “July 1, 1968” for “July 1, 1966” and “Ju
 
 1950—Act June 30, 1950, substituted “July 1, 1952” for “July 1, 1950” and “June 30, 1952” for “June 30, 1950”.
 
-1947—Act Apr. 28, 1947, substituted proviso which allows the Federal Reserve banks to buy and sell either in the open market or directly from or to the United States any bonds, notes, or other obligations which are direct obligations of the United States or are fullyguaranteed by the United States but limits the aggregate amount to be held at any one time to $5,000,000,000, and after June 30, 1950 allows such obligation to be purchased, but only in the open market for former proviso.
+1947—Act Apr. 28, 1947, substituted proviso which allows the Federal Reserve banks to buy and sell either in the open market or directly from or to the United States any bonds, notes, or other obligations which are direct obligations of the United States or are fully guaranteed by the United States but limits the aggregate amount to be held at any one time to $5,000,000,000, and after June 30, 1950 allows such obligation to be purchased, but only in the open market for former proviso.
 
 1942—Act Mar. 27, 1942, amended proviso generally.
 

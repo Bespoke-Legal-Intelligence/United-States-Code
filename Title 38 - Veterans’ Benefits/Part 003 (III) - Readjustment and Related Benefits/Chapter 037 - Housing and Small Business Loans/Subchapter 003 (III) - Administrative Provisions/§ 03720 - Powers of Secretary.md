@@ -12,7 +12,7 @@
 
 &emsp;(5) purchase at any sale, public or private, upon such terms and for such prices as the Secretary determines to be reasonable, and take title to, property, real, personal or mixed; and similarly sell, at public or private sale, exchange, assign, convey, or otherwise dispose of any such property; and
 
-&emsp;(6) complete, administer, operate, obtain and pay for insurance on, and maintain, renovate, repair, modernize, lease, or otherwise deal with any property acquired or held pursuant to this chapter. The acquisition of any such property shall not deprive any State or political subdivision thereof of its civil or criminal jurisdiction of, on, or over such property (including power to tax) or impair the rights under the State or local law of any persons on such property. Without regard to section 3302(b) of title 31 or any other provision of law not expressly in limitation of this paragraph, the Secretary may permit brokers utilized by the Secretary in connection with such properties to deduct from rental collections amounts covering authorized fees, costs, and expenses incurred in connection with the management, repair, sale, or lease of any such properties and remit the net balances to the Secretary.
+&emsp;(6) complete, administer, operate, obtain and pay for insurance on, and maintain, renovate, repair, modernize, lease, or otherwise deal with any property acquired or held pursuant to this chapter. The acquisition of any such property shall not deprive any State or political subdivision thereof of its civil or criminal jurisdiction of, on, or over such property (including power to tax) or impair the rights under the State or local law of any persons on such property. Without regard to section3302(b) of title 31 or any other provision of law not expressly in limitation of this paragraph, the Secretary may permit brokers utilized by the Secretary in connection with such properties to deduct from rental collections amounts covering authorized fees, costs, and expenses incurred in connection with the management, repair, sale, or lease of any such properties and remit the net balances to the Secretary.
 
 (b) The powers granted by this section may be exercised by the Secretary without regard to any other provision of law not enacted expressly in limitation of this section, which otherwise would govern the expenditure of public funds, except that title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) shall apply to any contract for services or supplies on account of any property acquired pursuant to this section.
 
@@ -34,7 +34,7 @@
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 The Disaster Relief and Emergency Assistance Act (42 U.S.C. 5121 et seq.), referred to in subsec. (f), is Pub. L. 93–288, May 22, 1974, 88 Stat. 143, as amended, known as the Robert T. Stafford Disaster Relief and Emergency Assistance Act, which is classified principally to chapter 68 (§5121 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 5121 of Title 42 and Tables.
 
@@ -86,7 +86,7 @@ Subsec. (a)(5). Pub. L. 94–324, §7(24), substituted “the Administrator” f
 
 Subsec. (a)(6). Pub. L. 94–324, §7(25), substituted “utilized by the Administrator” for “utilized by him”.
 
-Subsec. (e)(1). Pub. L. 94–324, §7(26), substituted “the Administrator determines” for “he determines”, “by the Administrator” for “by him”, “the Administratorshall periodically” for “he shall periodically”, “set aside by the Administrator” for “set aside by him”, “the Administrator's commitment” for “his commitment”, and “to pay the Administrator's” for “to pay his”.
+Subsec. (e)(1). Pub. L. 94–324, §7(26), substituted “the Administrator determines” for “he determines”, “by the Administrator” for “by him”, “the Administrator shall periodically” for “he shall periodically”, “set aside by the Administrator” for “set aside by him”, “the Administrator's commitment” for “his commitment”, and “to pay the Administrator's” for “to pay his”.
 
 Subsec. (e)(2). Pub. L. 94–324, §7(26), substituted “as the Administrator determines” for “as he determines”.
 
@@ -148,7 +148,7 @@ Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under pr
 
 #### Property Management
 
-Pub. L. 100–198, §9, Dec. 21, 1987, 101 Stat. 1320, as amended by Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–83, §6(i), Aug. 6, 1991, 105 Stat. 408, provided for programs under which the Secretary could (1) convey to nonprofit entities or to States or political subdivisions of States real property or improvements to real property acquired by the Secretary as the result of a default of a loan made under this chapter to use the properties to provide shelter for homeless veterans and their families, or (2) convey such properties to entities for use in job training programs for property rehabilitation and later sale to homeless veterans. Authority to carry out the programs terminated on Oct. 1, 1990.
+Pub. L. 100–198, §9, Dec. 21, 1987, 101 Stat. 1320, as amended by Pub. L. 102–40, title IV, §402(d)(2), May 7,1991, 105 Stat. 239; Pub. L. 102–83, §6(i), Aug. 6, 1991, 105 Stat. 408, provided for programs under which the Secretary could (1) convey to nonprofit entities or to States or political subdivisions of States real property or improvements to real property acquired by the Secretary as the result of a default of a loan made under this chapter to use the properties to provide shelter for homeless veterans and their families, or (2) convey such properties to entities for use in job training programs for property rehabilitation and later sale to homeless veterans. Authority to carry out the programs terminated on Oct. 1, 1990.
 
 #### Housing Solar Energy and Weatherization Study; Report Not Later Than March 1, 1978
 

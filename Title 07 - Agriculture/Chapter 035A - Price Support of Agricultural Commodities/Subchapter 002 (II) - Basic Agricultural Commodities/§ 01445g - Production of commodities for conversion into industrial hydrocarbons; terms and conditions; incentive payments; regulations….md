@@ -18,13 +18,15 @@ Notwithstanding any other provision of this Act—
 
 #### References in Text
 
-This Act, referred to in provision preceding subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). Forcomplete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+This Act, referred to in provision preceding subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 1051, as amended, known as the Agricultural Act of 1949, which is classified principally to this chapter (§1421 et seq.). For complete classification of this Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Inapplicability of Section
+
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(6) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(F) of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7301 of this title.
+This section is referred to in sections 7301, 7992 of this title.
 

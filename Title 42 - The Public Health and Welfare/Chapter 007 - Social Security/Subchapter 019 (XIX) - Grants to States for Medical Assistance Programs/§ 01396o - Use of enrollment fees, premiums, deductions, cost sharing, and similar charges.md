@@ -32,7 +32,7 @@ The State plan shall provide that in the case of individuals other than those de
 
 &emsp;&emsp;(B) services furnished to pregnant women, if such services relate to the pregnancy or to any other medical condition which may complicate the pregnancy (or, at the option of the State, any services furnished to pregnant women),
 
-&emsp;&emsp;(C) services furnished to any individual who is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costs of medical care all but a minimal amount of his income required for personal needs,
+&emsp;&emsp;(C) services furnished to any individual who is an inpatient in a hospital, nursing facility, intermediate care facility for the mentally retarded, or other medical institution, if such individual is required, as a condition of receiving services in such institution under the State plan, to spend for costsof medical care all but a minimal amount of his income required for personal needs,
 
 &emsp;&emsp;(D) emergency services (as defined by the Secretary), family planning services and supplies described in section 1396d(a)(4)(C) of this title, or
 
@@ -70,7 +70,7 @@ No deduction, cost sharing, or similar charge may be imposed under any waiver au
 
 &emsp;(4) is based on a reasonable hypothesis which the demonstration is designed to test in a methodologically sound manner, including the use of control groups of similar recipients of medical assistance in the area, and
 
-&emsp;(5) is voluntary, or makes provision for assumption of liability for preventable damageto the health of recipients of medical assistance resulting from involuntary participation.
+&emsp;(5) is voluntary, or makes provision for assumption of liability for preventable damage to the health of recipients of medical assistance resulting from involuntary participation.
 
 #### (g) Individuals provided medical assistance under section 1396a(a)(10)(A)(ii)(XV) or (XVI)
 
@@ -78,7 +78,7 @@ With respect to individuals provided medical assistance only under subclause (XV
 
 &emsp;(1) a State may (in a uniform manner for individuals described in either such subclause)—
 
-&emsp;&emsp;(A) require such individuals to pay premiums or other cost-sharing charges set on a sliding scale based on income that the State may determine; and
+&emsp;&emsp;(A) require such individuals to pay premiums or other cost-sharing charges set ona sliding scale based on income that the State may determine; and
 
 &emsp;&emsp;(B) require payment of 100 percent of such premiums for such year in the case of such an individual who has income for a year that exceeds 250 percent of the income official poverty line (referred to in subsection (c)(1) of this section) applicable to a family of the size involved, except that in the case of such an individual who has income for a year that does not exceed 450 percent of such poverty line, such requirement may only apply to the extent such premiums do not exceed 7.5 percent of such income; and
 
@@ -146,7 +146,7 @@ Except as specifically provided in section 411 of Pub. L. 100–360, amendment b
 
 Section 4101(d)(2) of Pub. L. 100–203 provided that: “The amendments made by paragraph (1) \[amending this section\] shall become effective on July 1, 1988.”
 
-Amendment by section 4211(h)(11) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated bysuch date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
+Amendment by section 4211(h)(11) of Pub. L. 100–203 applicable to nursing facility services furnished on or after Oct. 1, 1990, without regard to whether regulations implementing such amendment are promulgated by such date, except as otherwise specifically provided in section 1396r of this title, with transitional rule, see section 4214(a), (b)(2) of Pub. L. 100–203, as amended, set out as an Effective Date note under section 1396r of this title.
 
 #### Effective Date of 1986 Amendments
 

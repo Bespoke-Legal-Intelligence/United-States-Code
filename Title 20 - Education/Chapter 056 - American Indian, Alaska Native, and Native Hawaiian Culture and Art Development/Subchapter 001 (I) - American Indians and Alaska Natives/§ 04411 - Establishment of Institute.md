@@ -16,7 +16,7 @@ Pub. L. 100–202, §101(g) \[title I, §100\], Dec. 22, 1987, 101 Stat. 1329–
 
 #### Availability of Appropriations; Implementation of Chapter; Interim Authority of Secretary
 
-Pub. L. 99–500, §101(h) \[title I, §100\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–255, and Pub. L. 99–591, §101(h) \[title I, §100\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–255, provided: “That notwithstanding any provision of the American Indian, Alaska Native, and Native HawaiianCulture and Art Development Act \[this chapter\], the amounts appropriated for fiscal year 1987 for the Bureau of Indian Affairs for the Institute of American Indian Arts shall be available for use under part A of that Act \[this subchapter\] and—
+Pub. L. 99–500, §101(h) \[title I, §100\], Oct. 18, 1986, 100 Stat. 1783–242, 1783–255, and Pub. L. 99–591, §101(h) \[title I, §100\], Oct. 30, 1986, 100 Stat. 3341–242, 3341–255, provided: “That notwithstanding any provision of the American Indian, Alaska Native, and Native Hawaiian Culture and Art Development Act \[this chapter\], the amounts appropriated for fiscal year 1987 for the Bureau of Indian Affairs for the Institute of American Indian Arts shall be available for use under part A of that Act \[this subchapter\] and—
 
 &emsp;“(1) that Act shall be implemented in a reasonable period of time and shall be fully implemented by no later than October 1, 1987,
 

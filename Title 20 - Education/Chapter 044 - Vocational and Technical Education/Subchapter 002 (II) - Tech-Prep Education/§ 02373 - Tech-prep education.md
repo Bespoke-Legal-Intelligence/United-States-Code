@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B)(i) a nonprofit institution of higher education that offers—
 
-&emsp;&emsp;&emsp;(I) a 2-year associate degree program, or a 2-year certificate program, and is qualified as institutions of higher educationpursuant to section 102 of the Higher Education Act of 1965 \[20 U.S.C. 1002\], including an institution receiving assistance under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) and a tribally controlled postsecondary vocational and technical institution; or
+&emsp;&emsp;&emsp;(I) a 2-year associate degree program, or a 2-year certificate program, and is qualified as institutions of higher education pursuant to section 102 of the Higher Education Act of 1965 \[20 U.S.C. 1002\], including an institution receiving assistance under the Tribally Controlled College or University Assistance Act of 1978 (25 U.S.C. 1801 et seq.) and a tribally controlled postsecondary vocational and technical institution; or
 
 &emsp;&emsp;&emsp;(II) a 2-year apprenticeship program that follows secondary instruction,
 

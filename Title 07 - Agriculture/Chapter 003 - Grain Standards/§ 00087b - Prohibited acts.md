@@ -70,7 +70,7 @@
 
 &emsp;&emsp;(iii) the separation and recombination are conducted in accordance with regulations issued by the Secretary; or
 
-&emsp;(F) the addition to grain of a dust suppressant, or the addition of confetti or any other similar material that serves the same purpose in a quantity necessary to facilitate identification of ownership or origin of a particular lot of grain.
+&emsp;(F) the addition to grain of a dust suppressant, or the addition of confetti or any other similar material that serves the same purposein a quantity necessary to facilitate identification of ownership or origin of a particular lot of grain.
 
 (3)(A) The Secretary may, by regulation, exempt from paragraph (1) the last handling of grain in the final sale and shipment of such grain to a domestic user or processor if such exemption is determined by the Secretary to be in the best economic interest of producers, grain merchants, the industry involved, and the public.
 

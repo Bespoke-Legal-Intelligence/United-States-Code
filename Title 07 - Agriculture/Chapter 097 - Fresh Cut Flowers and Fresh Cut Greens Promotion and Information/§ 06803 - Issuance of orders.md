@@ -24,7 +24,7 @@
 
 #### (B) Other persons
 
-&emsp;&emsp;An industry group that represents a substantial number of the industry memberswho are to be assessed under the order, or any other person who will be affected by this chapter, may request the issuance of, and submit a proposal for, an order.
+&emsp;&emsp;An industry group that represents a substantial number of the industry members who are to be assessed under the order, or any other person who will be affected by this chapter, may request the issuance of, and submit a proposal for, an order.
 
 #### (2) Publication of proposal
 

@@ -2,7 +2,7 @@
 
 #### (a) Conclusiveness; delegation of powers
 
-Determinations and decisions provided in this Act to be made by the Administrator or other agency head shall be final. Such determinations or decisions may be made with respect to individual purchases or contracts or, except for determinations or decisions under sections 253, 253a, and 253b of this title, with respect to classes of purchases or contracts. Except as provided in section 253(d)(2) of this title, and except as provided in section 486(d) of title 40 with respect to the Administrator, the agency head is authorized to delegate his powers provided by this Act, including the making of such determinations and decisions, in his discretion and subject to his direction, to any other officer or officers or officials of the agency.
+Determinations and decisions provided in this Act to be made by the Administrator or other agency head shall be final. Such determinations or decisions may be made with respect to individual purchases or contracts or, except for determinations or decisions under sections 253, 253a, and 253b of this title, with respect to classes of purchases or contracts. Except as provided in section 253(d)(2) of this title, and except as provided in section 121(d)(1) and (2) of title 40 with respect to the Administrator, the agency head is authorized to delegate his powers provided by this Act, including the making of such determinations and decisions, in his discretion and subject to his direction, to any other officer or officers or officials of the agency.
 
 #### (b) Basis of determinations; finding conclusive; preservation of findings; copy
 
@@ -12,7 +12,11 @@ Each determination or decision required by section 254 or by section 255(d) of t
 
 #### References in Text
 
-This Act, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of 1949. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+This Act, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended, known as the Federal Property and Administrative Services Act of 1949. Except for title III of the Act, which is classified generally to this subchapter, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+
+#### Codification
+
+“Section 121(d)(1) and (2) of title 40” substituted in subsec. (a) for “section 205(d)”, meaning section 205(d) of the Federal Property and Administrative Services Act of 1949, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -44,9 +48,9 @@ Amendment by Pub. L. 98–369 applicable with respect to any solicitation for bi
 
 #### Effective Date
 
-Section effective July 1, 1949, see section 605 of act June 30, 1949, set out as a note under section 471 of Title 40, Public Buildings, Property, and Works.
+Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Definitions
 
-The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
+The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 

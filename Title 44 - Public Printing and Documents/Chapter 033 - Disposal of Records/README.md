@@ -40,11 +40,11 @@
 
 1974—Pub. L. 93–526, title II, §203, Dec. 19, 1974, 88 Stat. 1702, added items 3315 to 3324.
 
-1970—Pub. L. 91–287, §3, June 23, 1970, 84 Stat. 322, inserted item 3303a and struck out items 3304 “Lists and schedules of records lacking preservation value; submission to Congress by Administrator of General Services”, 3305 “Examination of lists and schedules by joint congressional committee and report to Congress”, 3306 “Disposal of records by head of Government agency upon notification by Administrator of General Services of action by joint congressional committee”, and 3307 “Disposal of records upon failure of joint congressional committee to act”.
+1970—Pub. L. 91–287, §3, June 23, 1970, 84 Stat. 322, inserted item 3303a and struck out items 3304 “Lists and schedules of records lacking preservation value; submission to Congress by Administrator of General Services”, 3305 “Examination of lists and schedules by joint congressional committee and report to Congress”, 3306 “Disposal of records by head of Government agency upon notification by Administrator of General Services of action by joint congressional committee”, and 3307“Disposal of records upon failure of joint congressional committee to act”.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1503, 2115, 2116, 2901, 2902, 3504 of this title; title 5 section 552b; title 28 section 594; title 49 section 30302.
+This chapter is referred to in sections 1503, 2115, 2116, 2901, 2902, 3504, 3505, 3538, 3549 of this title; title 5 section 552b; title 28 section 594; title 49 section 30302.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

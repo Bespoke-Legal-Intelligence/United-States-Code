@@ -12,7 +12,7 @@ Notwithstanding any other provision of law, in any case pending under section 77
 
 (3)(A) If a person has made or makes an offer to acquire from a carrier subject to liquidation a rail line or lines over which no service is provided by that carrier, and that offer has been or is rejected by the trustee in bankruptcy of such carrier, such person may submit an application to the Commission seeking approval of such person's acquisition of such line or lines. A copy of any such application shall be filed simultaneously with the court.
 
-(B) The Commission shall, within 15 days after the filing of an application under subparagraph (A) of this paragraph, determine whether the applicant—
+(B) The Commission shall, within 15 days after the filing of an application under subparagraph\(A) of this paragraph, determine whether the applicant—
 
 &emsp;(i) is a financially responsible person; and
 

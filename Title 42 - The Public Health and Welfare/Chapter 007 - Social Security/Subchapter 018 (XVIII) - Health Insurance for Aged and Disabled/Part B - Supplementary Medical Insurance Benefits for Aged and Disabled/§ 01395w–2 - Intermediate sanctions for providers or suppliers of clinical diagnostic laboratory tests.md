@@ -40,7 +40,7 @@ Pub. L. 100–360, §411(g)(3)(G)(i)(II), inserted “or for coverage” after �
 
 Pub. L. 100–360, §411(g)(3)(G)(i)(III), which directed amendment of subsec. (a) by substituting “terminating immediately the provider agreement or cancelling immediately approval of the clinical laboratory” for “cancelling immediately the certification of the provider or clinical laboratory”, was executed by making the substitution for “canceling immediately the certification of the provider or clinical laboratory” to reflect the probable intent of Congress.
 
-Pub. L. 100–360, §203(e)(4)(B), inserted “or that a qualified home intravenous drug therapy provider that is certified for participation under this subchapter no longer substantially meets the requirements of section 1395x(jj)(3) of this title” after “under this part”.
+Pub. L. 100–360, §203(e)(4)(B), inserted “or that a qualified home intravenous drug therapy provider that is certified for participation under this subchapter nolonger substantially meets the requirements of section 1395x(jj)(3) of this title” after “under this part”.
 
 Subsec. (b)(1)(A). Pub. L. 100–360, §411(g)(3)(G)(ii), struck out “certified” before “clinical laboratories”.
 

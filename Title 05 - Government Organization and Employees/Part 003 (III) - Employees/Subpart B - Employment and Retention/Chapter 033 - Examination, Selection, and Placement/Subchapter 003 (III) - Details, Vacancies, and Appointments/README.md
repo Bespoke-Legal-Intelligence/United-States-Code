@@ -24,7 +24,7 @@ Pub. L. 100–202, §101(m) \[title VI, §621\], Dec. 22, 1987, 101 Stat. 1329�
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 42 section 6635.
+This subchapter is referred to in title 6 section 113; title 42 section 6635.
 
 
 ---

@@ -36,7 +36,7 @@ A State is an incentive-eligible State for a fiscal year if—
 
 #### (B) Alternative data sources permitted for fiscal years 1995 through 1997
 
-&emsp;&emsp;For purposes of the determination described in subparagraph (A) for fiscal years 1995 through 1997, the Secretary may use data from a source or sources other than that specified in subparagraph (A) that theSecretary finds to be of equivalent completeness and reliability, as reported by a State by April 30, 1998, and approved by the Secretary by July 1, 1998.
+&emsp;&emsp;For purposes of the determination described in subparagraph (A) for fiscal years 1995 through 1997, the Secretary may use data from a source or sources other than that specified in subparagraph (A) that the Secretary finds to be of equivalent completeness and reliability, as reported by a State by April 30, 1998, and approved by the Secretary by July 1, 1998.
 
 #### (3) No waiver of AFCARS requirements
 
@@ -74,7 +74,7 @@ As used in this section:
 
 #### (1) Foster child adoption
 
-&emsp;The term “foster child adoption” means the final adoption of a child who, at the time of adoptive placement, was in foster care under the supervision of the State.
+&emsp;The term “foster child adoption” means the final adoption of a child who, at the time ofadoptive placement, was in foster care under the supervision of the State.
 
 #### (2) Special needs adoption
 

@@ -70,7 +70,7 @@ For the purposes of this chapter:
 
 #### (4) Assistive technology service
 
-&emsp;The term “assistive technology service” has the meaning given such term in section 3002 of this title, except that the reference in such section—
+&emsp;The term “assistive technology service” has the meaning given such term in section 3002 ofthis title, except that the reference in such section—
 
 &emsp;&emsp;(A) to the term “individual with a disability” shall be deemed to mean an individual with a disability, as defined in paragraph (20)(A); and
 
@@ -188,7 +188,7 @@ For the purposes of this chapter:
 
 &emsp;&emsp;(B) are based on a determination of the needs of an eligible individual, as specified in an individualized plan for employment; and
 
-&emsp;&emsp;(C) are provided by a State agency, a nonprofit private organization, employer, or anyother appropriate resource, after an individual has made the transition from support provided by the designated State unit.
+&emsp;&emsp;(C) are provided by a State agency, a nonprofit private organization, employer, or any other appropriate resource, after an individual has made the transition from support provided by the designated State unit.
 
 #### (14) Federal share
 
@@ -418,7 +418,7 @@ For the purposes of this chapter:
 
 #### (24) Local agency
 
-&emsp;The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of this paragraph or in section 721 of this title shall be construed to prevent the local agency fromarranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
+&emsp;The term “local agency” means an agency of a unit of general local government or of an Indian tribe (or combination of such units or tribes) which has an agreement with the designated State agency to conduct a vocational rehabilitation program under the supervision of such State agency in accordance with the State plan approved under section 721 of this title. Nothing in the preceding sentence of this paragraph or in section 721 of this title shall be construed to prevent the local agency from arranging to utilize another local public or nonprofit agency to provide vocational rehabilitation services if such an arrangement is made part of the agreement specified in this paragraph.
 
 #### (25) Local workforce investment board
 
@@ -554,7 +554,7 @@ Par. (2)(B). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(A)\], substit
 
 Par. (3). Pub. L. 105–394, §402(a)(1), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting “3002” for “2202(2)”, was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, §101(f) \[title VIII, §402(a)(1)\].
 
-Par. (4). Pub. L. 105–394, §402(a)(2), which directed the amendment of section 6 of the Rehabilitation Act of 1973 by substituting “3002” for “2202(3)”, was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, §101(f) \[title VIII, §402(a)(1)\].
+Par. (4). Pub. L. 105–394, §402(a)(2), which directed the amendment of section 6 of the Rehabilitation Act of1973 by substituting “3002” for “2202(3)”, was executed to this section, which is section 7 of that act, to reflect the probable intent of Congress and the renumbering of section 6 as 7 by Pub. L. 105–277, §101(f) \[title VIII, §402(a)(1)\].
 
 Par. (7). Pub. L. 105–277, §101(f) \[title VIII, §402(c)(1)(B)\], struck out heading and text of par. (7). Text read as follows: “The term ‘criminal act’ means any crime, including an act, omission, or possession under the laws of the United States or a State or unit of general local government, which poses a substantial threat of personal injury, notwithstanding that by reason of age, insanity, or intoxication or otherwise the person engaging in the act, omission, or possession was legally incapable of committing a crime.”
 

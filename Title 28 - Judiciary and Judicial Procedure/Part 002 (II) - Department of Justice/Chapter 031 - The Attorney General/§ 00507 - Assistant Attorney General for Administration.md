@@ -1,6 +1,6 @@
 ### §507. Assistant Attorney General for Administration
 
-(a) The Attorney General shall appoint, with the approval of the President, an Assistant Attorney General for Administration, who shall perform such duties as the Attorney General may prescribe.
+(a) The Attorney General shall appoint, with the approval of the President, an Assistant Attorney General for Administration, who shallperform such duties as the Attorney General may prescribe.
 
 (b) The position of Assistant Attorney General for Administration is in the competitive service.
 
@@ -36,7 +36,7 @@ A prior section 507, acts June 25, 1948, ch. 646, 62 Stat. 910; May 24, 1949, ch
 
 #### Amendments
 
-<b>1999</b>—Subsec. (c). Pub. L. 106–113 added subsec. (c).
+1999—Subsec. (c). Pub. L. 106–113 added subsec. (c).
 
 #### Section Referred to in Other Sections
 

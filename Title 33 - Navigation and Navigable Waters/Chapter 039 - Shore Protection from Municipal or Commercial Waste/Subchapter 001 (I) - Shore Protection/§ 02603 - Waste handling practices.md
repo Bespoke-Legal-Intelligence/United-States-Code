@@ -12,7 +12,7 @@
 
 #### (3) Offloading
 
-&emsp;The owner or operator of the receiving facility shall take all reasonable steps to assurethat any municipal or commercial waste is offloaded from a vessel in a manner that assures that waste deposited into coastal waters is minimized.
+&emsp;The owner or operator of the receiving facility shall take all reasonable steps to assure that any municipal or commercial waste is offloaded from a vessel in a manner that assures that waste deposited into coastal waters is minimized.
 
 #### (4) Cleaning up
 

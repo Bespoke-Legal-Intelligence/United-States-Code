@@ -26,7 +26,7 @@ The Office shall promote sales opportunities for small business goods and servic
 
 &emsp;(4) work closely with the Department of Commerce and other relevant Federal agencies to—
 
-&emsp;&emsp;(A) collect, analyze and periodically update relevant data regarding the small business share of United States exports and the nature of State exports (including the production of Gross State Produce figures) and disseminate that data to the public and to Congress;
+&emsp;&emsp;(A) collect, analyze and periodically update relevant data regarding the small business share of United States exports and the nature of State exports (including the production of Gross State Produce figures) anddisseminate that data to the public and to Congress;
 
 &emsp;&emsp;(B) make recommendations to the Secretary of Commerce and to Congress regarding revision of the SIC codes to encompass industries currently overlooked and to create SIC codes for export trading companies and export management companies;
 
@@ -62,7 +62,7 @@ The Office shall promote sales opportunities for small business goods and servic
 
 #### (d) Access to export and pre-export financing programs
 
-The Office shall work in cooperation with the Export-Import Bank of the United States, the Department of Commerce, other relevant Federal agencies, and the States to develop a program through which export specialists in the regional offices of the Administration, regional and local loan officers, and Small Business Development Center personnel can facilitate the access of small businesses to relevant export financing programs of the Export-Import Bank of the United States and to export and pre-exportfinancing programs available from the Administration and the private sector. To accomplish this goal, the Office shall work in cooperation with the Export-Import Bank and the small business community, including small business trade associations, to—
+The Office shall work in cooperation with the Export-Import Bank of the United States, the Department of Commerce, other relevant Federal agencies, and the States to develop a program through which export specialists in the regional offices of the Administration, regional and local loan officers, and Small Business Development Center personnel can facilitate the access of small businesses to relevant export financing programs of the Export-Import Bank of the United States and to export and pre-export financing programs available from the Administration and the private sector. To accomplish this goal, the Office shall work in cooperation with the Export-Import Bank and the small business community, including small business trade associations, to—
 
 &emsp;(1) aggressively market existing Administration export financing and pre-export financing programs;
 
@@ -138,7 +138,7 @@ Section 111 of title I of Pub. L. 96–481 provided that:
 
 &emsp;“(7) it is in the national interest to systematically and consistently promote and encourage small business participation in international markets.
 
-“(b) It is therefore the purpose of this part \[enacting this section, amending section 636 of this title, and enacting provisions set out as notes under sections 631and 649 of this title\] to encourage and promote small business exporting by—
+“(b) It is therefore the purpose of this part \[enacting this section, amending section 636 of this title, and enacting provisions set out as notes under sections 631 and 649 of this title\] to encourage and promote small business exporting by—
 
 &emsp;“(1) providing educational and marketing assistance to small businesses;
 

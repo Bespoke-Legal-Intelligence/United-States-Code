@@ -34,7 +34,7 @@ The Commission shall during fiscal year 1998 establish an office to close out th
 
 (4)(A) The Secretary of the Treasury shall invest excess amounts in the Fund in public debt securities with maturities suitable to the needs of the Fund, as determined by the manager of the Fund.
 
-(B) Securities invested under subparagraph (A) shall bear interest at rates determined by the Secretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturity.
+(B) Securities invested under subparagraph (A) shall bear interest at rates determined by theSecretary of the Treasury, taking into consideration current market yields on outstanding marketable obligations of the United States of comparable maturity.
 
 (C) Interest earned on securities invested under subparagraph (A) shall be credited to and form part of the Fund.
 

@@ -2,7 +2,7 @@
 
 #### (a) Statement of ownership of securities; duty to file
 
-Every person who is an officer or director of a registered holding company shall file with the Commission in such form as the Commission shall prescribe (1) at the time of the registration of such holding company, or within ten days after such person becomes an officer or director, a statement of the securities of such registered holding company or any subsidiary company thereof of which he is, directly or indirectly, the beneficial owner, and (2) within ten days after the close of each calendar month thereafter, if there has been any change in such ownership during such month, a statement of such ownership as of the close of such calendar month and of the changes in such ownership that have occurred during such calendar month.
+Every person who is an officer or director of a registered holding company shall file with the Commission in such form as the Commission shall prescribe (1) at the time of the registration of such holding company, or within ten days after such person becomes an officer or director, a statement of the securities of such registered holding company or any subsidiary company thereof of which he is, directly or indirectly, the beneficial owner, and (2) within ten days after the close of each calendar month thereafter, if there has been any change in such ownership during such month, a statement of such ownership as of the close of such calendar month andof the changes in such ownership that have occurred during such calendar month.
 
 #### (b) Limitation on profits in purchase and sale of securities
 
@@ -10,7 +10,7 @@ For the purpose of preventing the unfair use of information which may have been 
 
 #### (c) Officers or representatives of banking institutions disqualified to serve as officers or directors
 
-After one year from August 26, 1935, no registered holding company or any subsidiary company thereof shall have, as an officer or director thereof, any executive officer, director, partner, appointee, or representative of any bank, trust company, investment banker, or banking association or firm, or any executive officer, director, partner, appointee, or representative of any corporation a majority of whose stock, having the unrestricted right to vote for the election ofdirectors, is owned by any bank, trust company, investment banker, or banking association or firm, except in such cases as rules and regulations prescribed by the Commission may permit as not adversely affecting the public interest or the interest of investors or consumers.
+After one year from August 26, 1935, no registered holding company or any subsidiary company thereof shall have, as an officer or director thereof, any executive officer, director, partner, appointee, or representative of any bank, trust company, investment banker, or banking association or firm, or any executive officer, director, partner, appointee, or representative of any corporation a majority of whose stock, having the unrestricted right to vote for the election of directors, is owned by any bank, trust company, investment banker, or banking association or firm, except in such cases as rules and regulations prescribed by the Commission may permit as not adversely affecting the public interest or the interest of investors or consumers.
 
 (Aug. 26, 1935, ch. 687, title I, §17, 49 Stat. 830.)
 

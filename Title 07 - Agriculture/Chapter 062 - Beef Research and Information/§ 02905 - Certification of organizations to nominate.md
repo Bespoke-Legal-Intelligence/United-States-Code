@@ -18,7 +18,7 @@ A State cattle association or State general farm organization may be certified a
 
 #### (c) Factual report basis for certification of State cattle association and State general farm association
 
-Certification of State cattle associations and State general farm organizations shall be basedon a factual report submitted by the association or organization involved.
+Certification of State cattle associations and State general farm organizations shall be based on a factual report submitted by the association or organization involved.
 
 #### (d) Certification of more than one State organization; caucus
 

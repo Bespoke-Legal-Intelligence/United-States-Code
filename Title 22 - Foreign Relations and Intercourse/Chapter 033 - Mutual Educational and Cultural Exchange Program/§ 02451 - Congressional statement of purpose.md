@@ -14,7 +14,63 @@ Section 1 of Pub. L. 87–256 provided: “That this Act \[enacting this chapter
 
 #### Transfer of Functions
 
-Functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof under this chapter transferred to Director of International Communication Agency by Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, except (A) for such functions as are vested by sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of 1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to extent that any such function therein is vested in President or Secretary of State. International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L.97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. References to United States Information Agency or International Communication Agency deemed to refer to Department of State, see section 6551 of this title.
+Functions vested in President, Secretary of State, Department of State, United States Information Agency or Director thereof under this chapter transferred to Director of International Communication Agency by Reorg. Plan No. 2 of 1977, §7(a)(2), 42 F.R. 62461, 91 Stat. 1637, set out under section 1461 of this title, effective on or before July 1, 1978, at such time as specified by President, except (A) for such functions as are vested by sections 2452(b)(6), (10), 2454(a), (e)(1), (2), (f), (g), 2455(a), (b), (c), 2456(a) and 2458 of this title, (B) for such functions as are vested by sections 2454(b), 2455(d)(2), (f), and 2456(d), (f) of this title, to extent that such functions were assigned to Secretary of Health, Education, and Welfare \[now Secretary of Education\] immediately prior to effective date of Reorg. Plan No. 2 of1977, and (C) for such functions as are vested by section 2456(b), (c) of this title to extent that any such function therein is vested in President or Secretary of State. International Communication Agency, and Director thereof, redesignated United States Information Agency, and Director thereof, by section 303 of Pub. L. 97–241, title III, Aug. 24, 1982, 96 Stat. 291, set out as a note under section 1461 of this title. United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau) abolished and functions transferred to Secretary of State, see sections 6531 and 6532 of this title. References to United States Information Agency or International Communication Agency deemed to refer to Department of State, see section 6551 of this title.
+
+#### Advisory Committee on Cultural Diplomacy
+
+Pub. L. 107–228, div. A, title II, §224, Sept. 30, 2002, 116 Stat. 1368, provided that:
+
+“(a)
+
+Establishment.—There is established an Advisory Committee on Cultural Diplomacy (in this section referred to as the ‘Advisory Committee’), which shall be composed of nine members, as follows:
+
+&emsp;“(1) The Under Secretary of State for Public Diplomacy, who shall serve as Chair.
+
+&emsp;“(2) The Assistant Secretary of State for Educational and Cultural Affairs.
+
+&emsp;“(3) Seven members appointed pursuant to subsection (c).
+
+“(b)
+
+Duties.—The Advisory Committee shall advise the Secretary on programs and policies to advance the use of cultural diplomacy in United States foreign policy. The Advisory Committee shall, in particular, provide advice to the Secretary on—
+
+&emsp;“(1) increasing the presentation abroad of the finest of the creative, visual, and performing arts of the United States; and
+
+&emsp;“(2) strategies for increasing public-private partnerships to sponsor cultural exchange programs that promote the national interests of the United States.
+
+“(c)
+
+Appointments.—The members of the Advisory Committee shall be appointed by the Secretary, not more than four of whom shall be from the same political party, from among distinguished Americans with a demonstrated record of achievement in the creative, visual, and performing arts, or international affairs. No officer or employee of the United States shall be appointed to the Advisory Committee.
+
+“(d)
+
+Vacancies.—A vacancy in the membership of the Advisory Committee shall be filled in the same manner as provided under this subsection to make the original appointment.
+
+“(e)
+
+Meetings.—A majority of the members of the Advisory Committee shall constitute a quorum. The Advisory Committee shall meet at least twice each year or as frequently as may be necessary to carry out its duties.
+
+“(f)
+
+Administrative Support.—The Secretary is authorized to provide the Advisory Committee with necessary administrative support from among the staff of the Bureau of Educational and Cultural Affairs of the Department.
+
+“(g)
+
+Compensation.—Members of the Advisory Committee shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services of the Advisory Committee.
+
+“(h)
+
+Exemption From Federal Advisory Committee Act.—The Federal Advisory Committee Act \[5 App. U.S.C.\] shall not apply to the Advisory Committee to the extent that the provisions of this section are inconsistent with that Act.
+
+“(i)
+
+Authorization of Appropriations.—There are authorized to be appropriated to the Department such sums as may be necessary to carry out this section.
+
+“(j)
+
+Termination.—The Advisory Committee shall terminate September 30, 2005.”
+
+\[For definitions of “Secretary” and “Department” as used in section 224 of Pub. L. 107–228, set out above, see section 3 of Pub. L. 107–228, set out as a note under section 2651 of this title.\]
 
 #### Continuation of Certain Executive Orders, Agreements, Determinations, Regulations, Contracts, Appointments, and Other Actions
 

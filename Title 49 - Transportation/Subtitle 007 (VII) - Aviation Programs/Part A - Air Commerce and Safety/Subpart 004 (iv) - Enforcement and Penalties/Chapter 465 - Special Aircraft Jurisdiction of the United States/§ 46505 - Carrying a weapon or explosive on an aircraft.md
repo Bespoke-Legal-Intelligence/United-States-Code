@@ -94,6 +94,10 @@ Subsec. (e). Pub. L. 107–56, §811(j), added subsec. (e).
 
 Subsec. (c). Pub. L. 104–132, §705(b)(2), substituted “15 years” for “5 years”.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 46302, 46507 of this title; title 18 sections 2332b, 2333, 3286.

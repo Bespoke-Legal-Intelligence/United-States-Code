@@ -36,3 +36,7 @@ In subsection (a), the words “who extends his enlistment” are substituted fo
 
 1968—Pub. L. 90–235 struck out provisions formerly set out as subsec. (a) which provided that a member of the Army or Air Force who had extended his enlistment was entitled to the same pay as though he had reenlisted, redesignated as entire section provisions formerly set out as subsec. (b) and substituted “Army, Navy, Air Force, Marine Corps, or Coast Guard” for “Regular Navy or the Regular Marine Corps” and “section 509 of title 10” for “section 5539 of title 10”.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

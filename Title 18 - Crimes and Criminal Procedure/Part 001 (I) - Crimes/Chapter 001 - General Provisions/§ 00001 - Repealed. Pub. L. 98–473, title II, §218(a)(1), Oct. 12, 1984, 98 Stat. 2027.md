@@ -6,6 +6,10 @@ Section, acts June 25, 1948, ch. 645, 62 Stat. 684; Oct. 30, 1984, Pub. L. 98–
 
 Repeal of section effective Nov. 1, 1987, and applicable only to offenses committed after the taking effect of such repeal, see section 235(a)(1) of Pub. L. 98–473, set out as an Effective Date note under section 3551 of this title.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–273, div. B, title IV, §4001, Nov. 2, 2002, 116 Stat. 1806, provided that: “This title \[see Tables for classification\] may be cited as the ‘Criminal Law Technical Amendments Act of 2002’.”
+
 #### Short Title of 2001 Amendment
 
 Pub. L. 107–56, §1(a), Oct. 26, 2001, 115 Stat. 272, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001’.”

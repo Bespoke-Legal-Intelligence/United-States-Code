@@ -6,7 +6,7 @@
 
 &emsp;(2) in which the action is based upon a commercial activity carried on in the United States by the foreign state; or upon an act performed in the United States in connection with a commercial activity of the foreign state elsewhere; or upon an act outside the territory of the United States in connection with a commercial activity of the foreign state elsewhere and that act causes a direct effect in the United States;
 
-&emsp;(3) in which rights in property taken in violation of international law are in issue andthat property or any property exchanged for such property is present in the United States in connection with a commercial activity carried on in the United States by the foreign state; or that property or any property exchanged for such property is owned or operated by an agency or instrumentality of the foreign state and that agency or instrumentality is engaged in a commercial activity in the United States;
+&emsp;(3) in which rights in property taken in violation of international law are in issue and that property or any property exchanged for such property is present in the United States in connection with a commercial activity carried on in the United States by the foreign state; or that property or any property exchanged for such property is owned or operated by an agency or instrumentality of the foreign state and that agency or instrumentality is engaged in a commercial activity in the United States;
 
 &emsp;(4) in which rights in property in the United States acquired by succession or gift or rights in immovable property situated in the United States are in issue;
 
@@ -20,7 +20,7 @@
 
 &emsp;(7) not otherwise covered by paragraph (2), in which money damages are sought against a foreign state for personal injury or death that was caused by an act of torture, extrajudicial killing, aircraft sabotage, hostage taking, or the provision of material support or resources (as defined in section 2339A of title 18) for such an act if such act or provision of material support is engaged in by an official, employee, or agent of such foreign state while acting within the scope of his or her office, employment, or agency, except that the court shall decline to hear a claim under this paragraph—
 
-&emsp;&emsp;(A) if the foreign state was not designated as a state sponsor of terrorism under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) or section 620A of the Foreign Assistance Act of 1961 (22 U.S.C. 2371) at the time the act occurred, unless later so designated as a result of such act or the act is related to Case Number 1:00CV03110(EGS) in the United States District Court for the District of Columbia; and
+&emsp;&emsp;(A) if the foreign state was not designated as a state sponsor of terrorism under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405(j)) or section 620A of theForeign Assistance Act of 1961 (22 U.S.C. 2371) at the time the act occurred, unless later so designated as a result of such act or the act is related to Case Number 1:00CV03110(EGS) in the United States District Court for the District of Columbia; and
 
 &emsp;&emsp;(B) even if the foreign state is or was so designated, if—
 
@@ -34,7 +34,7 @@
 
 &emsp;(2) notice to the foreign state of the commencement of suit as provided in section 1608 of this title is initiated within ten days either of the delivery of notice as provided in paragraph (1) of this subsection or, in the case of a party who was unaware that the vessel or cargo of a foreign state was involved, of the date such party determined the existence of the foreign state's interest.
 
-(c) Whenever notice is delivered under subsection (b)(1), the suit to enforce a maritime lien shall thereafter proceed and shall be heard and determined according to the principles of law and rules of practice of suits in rem whenever it appears that, had the vessel been privately owned and possessed, a suit in rem might have been maintained. A decree against the foreign state may include costs of the suit and, if the decree is for a money judgment, interest as ordered by the court, except that the court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose. Such value shall be determined as of the time notice is served under subsection (b)(1). Decrees shall be subject to appeal and revision as provided in other cases of admiralty and maritimejurisdiction. Nothing shall preclude the plaintiff in any proper case from seeking relief in personam in the same action brought to enforce a maritime lien as provided in this section.
+(c) Whenever notice is delivered under subsection (b)(1), the suit to enforce a maritime lien shall thereafter proceed and shall be heard and determined according to the principles of law and rules of practice of suits in rem whenever it appears that, had the vessel been privately owned and possessed, a suit in rem might have been maintained. A decree against the foreign state may include costs of the suit and, if the decree is for a money judgment, interest as ordered by the court, except that the court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose. Such value shall be determined as of the time notice is served under subsection (b)(1). Decrees shall be subject to appeal and revision as provided in other cases of admiralty and maritime jurisdiction. Nothing shall preclude the plaintiff in any proper case from seeking relief in personam in the same action brought to enforce a maritime lien as provided in this section.
 
 (d) A foreign state shall not be immune from the jurisdiction of the courts of the United States in any action brought to foreclose a preferred mortgage, as defined in the Ship Mortgage Act, 1920 (46 U.S.C. 911 and following). Such action shall be brought, heard, and determined in accordance with the provisions of that Act and in accordance with the principles of law and rules of practice of suits in rem, whenever it appears that had the vessel been privately owned and possessed a suit in rem might have been maintained.
 
@@ -96,19 +96,19 @@ Rules 12(b)(6) and 56 of the Federal Rules of Civil Procedure, referred to in su
 
 #### Amendments
 
-<b>2002</b>—Subsec. (a)(7)(A). Pub. L. 107–117 amended Pub. L. 107–77. See 2001 Amendment note below.
+2002—Subsec. (a)(7)(A). Pub. L. 107–117 amended Pub. L. 107–77. See 2001 Amendment note below.
 
-<b>2001</b>—Subsec. (a)(7)(A). Pub. L. 107–77, as amended by Pub. L. 107–117, inserted before semicolon “or the act is related to Case Number 1:00CV03110(EGS) in the United States District Court for the District of Columbia”.
+2001—Subsec. (a)(7)(A). Pub. L. 107–77, as amended by Pub. L. 107–117, inserted before semicolon “or the act is related to Case Number 1:00CV03110(EGS) in the United States District Court for the District of Columbia”.
 
-<b>1997</b>—Subsec. (a)(7)(B)(ii). Pub. L. 105–11 substituted “neither the claimant nor the victim was” for “the claimant or victim was not”.
+1997—Subsec. (a)(7)(B)(ii). Pub. L. 105–11 substituted “neither the claimant nor the victim was” for “the claimant or victim was not”.
 
-<b>1996</b>—Subsec. (a)(7). Pub. L. 104–132, §221(a)(1), added par. (7).
+1996—Subsec. (a)(7). Pub. L. 104–132, §221(a)(1), added par. (7).
 
 Subsecs. (e) to (g). Pub. L. 104–132, §221(a)(2), added subsecs. (e) to (g).
 
-<b>1990</b>—Subsec. (a)(6). Pub. L. 101–650 substituted “state” for “State” after “foreign”.
+1990—Subsec. (a)(6). Pub. L. 101–650 substituted “state” for “State” after “foreign”.
 
-<b>1988</b>—Subsec. (a)(6). Pub. L. 100–669 added par. (6).
+1988—Subsec. (a)(6). Pub. L. 100–669 added par. (6).
 
 Subsec. (b). Pub. L. 100–702, §1(3), struck out at end “Whenever notice is delivered under subsection (b)(1) of this section, the maritime lien shall thereafter be deemed to be an in personam claim against the foreign state which at that time owns the vessel or cargo involved: <i>Provided</i>, That a court may not award judgment against the foreign state in an amount greater than the value of the vessel or cargo upon which the maritime lien arose, such value to be determined as of the time notice is served under subsection (b)(1) of this section.”
 
@@ -136,7 +136,7 @@ Pub. L. 104–208, div. A, title I, §101(c) \[title V, §589\], Sept. 30, 1996,
 
 “(a) an \[sic\] official, employee, or agent of a foreign state designated as a state sponsor of terrorism designated \[sic\] under section 6(j) of the Export Administration Act of 1979 \[50 App. U.S.C. 2405(j)\] while acting within the scope of his or her office, employment, or agency shall be liable to a United States national or the national's legal representative for personal injury or death caused by acts of that official, employee, or agent for which the courts of the United States may maintain jurisdiction under section 1605(a)(7) of title 28, United States Code, for money damages which may include economic damages, solatium, pain, and suffering, and punitive damages if the acts were among those described in section 1605(a)(7).
 
-“(b) Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, or agency would not be liable for such acts if carried out within the United States.”
+“(b) Provisions related to statute of limitations and limitations on discovery that would apply to an action brought under 28 U.S.C. 1605(f) and (g) shall also apply to actions brought under this section. No action shall be maintained under this action \[sic\] if an official, employee, or agent of the United States, while acting within the scope of his or her office, employment, oragency would not be liable for such acts if carried out within the United States.”
 
 #### Section Referred to in Other Sections
 

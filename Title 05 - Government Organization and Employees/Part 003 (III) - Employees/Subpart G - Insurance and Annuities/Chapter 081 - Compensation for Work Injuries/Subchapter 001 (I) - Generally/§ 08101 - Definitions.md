@@ -30,7 +30,7 @@ For the purpose of this subchapter—
 
 &emsp;(3) “medical, surgical, and hospital services and supplies” includes services and supplies by podiatrists, dentists, clinical psychologists, optometrists, chiropractors, osteopathic practitioners and hospitals within the scope of their practice as defined by State law. Reimbursable chiropractic services are limited to treatment consisting of manual manipulation of the spine to correct a subluxation as demonstrated by X-ray to exist, and subject to regulation by the Secretary;
 
-&emsp;(4) “monthly pay” means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwisedetermined under section 8113 of this title with respect to any period;
+&emsp;(4) “monthly pay” means the monthly pay at the time of injury, or the monthly pay at the time disability begins, or the monthly pay at the time compensable disability recurs, if the recurrence begins more than 6 months after the injured employee resumes regular full-time employment with the United States, whichever is greater, except when otherwise determined under section 8113 of this title with respect to any period;
 
 &emsp;(5) “injury” includes, in addition to injury by accident, a disease proximately caused by the employment, and damage to or destruction of medical braces, artificial limbs, and other prosthetic devices which shall be replaced or repaired, and such time lost while such device or appliance is being replaced or repaired; except that eyeglasses and hearing aids would not be replaced, repaired, or otherwise compensated for, unless the damages or destruction is incident to a personal injury requiring medical services;
 
@@ -42,7 +42,7 @@ For the purpose of this subchapter—
 
 &emsp;(9) “child” means one who at the time of the death of the employee is under 18 years of age or over that age and incapable of self-support, and includes stepchildren, adopted children, and posthumous children, but does not include married children;
 
-&emsp;(10) “grandchild” means one who at the time of the death of the employee is under 18 years of age or over that age and incapable of self-support;
+&emsp;(10) “grandchild” means one who at the time of the death of the employee is under 18 yearsof age or over that age and incapable of self-support;
 
 &emsp;(11) “widower” means the husband living with or dependent for support on the decedent at the time of her death, or living apart for reasonable cause or because of her desertion;
 
@@ -260,7 +260,7 @@ Section 422 of Pub. L. 96–499 provided that: “The amendments made by section
 
 #### Effective Date of 1974 Amendment
 
-Section 28(a) of Pub. L. 93–416 provided that: “Except as otherwise provided by this section this Act \[enacting section 8151 of this title, amending this section and sections 8103, 8104, 8107, 8110, 8111, 8113, 8116, 8117, 8118, 8119, 8121, 8122, 8132, 8135, 8142, 8143, 8146a of this title, repealing section 3315a of this title, and enacting provisions set out as notes under this section and section 8116 of this title\] shall take effect on the date of enactment \[Sept. 7, 1974\] and be applicable to any injury or death occurring on or after such effective date \[Sept. 7, 1974\]. The amendments made by sections 1(b) and (c) \[amending this section\], 2 \[amending section 8103 of this title\], 3 \[amending section 8104 of this title\], 7(a) and (b) \[amending section 8111 of this title\], 8(a) \[amending section 8113 of this title\], 8(b) \[amending section 8143 of this title\], 9 \[amending section 8116 of this title\], 16(a) \[amending section 8133 of this title\], 16(b) \[amending section 8135 of this title\], 17 \[amending section 8133 of this title\], 19 \[amending section 8135 of this title\], 20 \[amending section 8135 of this title\], 21 \[amending section 8146a of this title\], 22 \[enacting section 8151 of this title\], 24 \[amending section 8146a of this title\], and 25 \[amending section 8147 of this title\], shall be applicable to cases where the injury or death occurred prior to the date of enactment \[Sept. 7, 1974\] but the provisions of these sections shall be applicable only to a period beginning on or after the date of enactment \[Sept. 7, 1974\].”
+Section 28(a) of Pub. L. 93–416 provided that: “Except as otherwise provided by this section this Act \[enacting section 8151 of this title, amending this section and sections 8103, 8104, 8107, 8110, 8111, 8113, 8116, 8117, 8118, 8119, 8121, 8122, 8132, 8135, 8142, 8143, 8146a of this title, repealing section 3315a of this title, and enacting provisions set out as notes under this section and section 8116 of this title\] shall take effect on the date of enactment \[Sept. 7, 1974\] and be applicable to any injury or death occurring on or after such effective date \[Sept. 7, 1974\]. The amendments made by sections 1(b) and (c) \[amending this section\], 2 \[amending section 8103 of this title\], 3 \[amending section 8104 of this title\], 7(a) and (b) \[amending section 8111 of this title\], 8(a) \[amending section 8113 of this title\], 8(b) \[amending section 8143 of this title\], 9 \[amending section 8116 of this title\], 16(a) \[amending section 8133 of this title\], 16(b) \[amending section 8135 of this title\], 17 \[amending section 8133 of this title\], 19 \[amending section 8135 of this title\], 20 \[amending section 8135 of this title\], 21 \[amending section 8146a of this title\], 22 \[enacting section 8151 of this title\], 24 \[amending section 8146a of this title\], and 25\[amending section 8147 of this title\], shall be applicable to cases where the injury or death occurred prior to the date of enactment \[Sept. 7, 1974\] but the provisions of these sections shall be applicable only to a period beginning on or after the date of enactment \[Sept. 7, 1974\].”
 
 #### Short Title of 1990 Amendment
 
@@ -282,7 +282,7 @@ Section 27 of Pub. L. 93–416 directed Secretary of Labor to conduct a study of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3373, 3374, 7902, 8110, 8118, 8133, 8191, 8192 of this title; title 16 sections 1a–6, 18i, 558c, 670c, 742f, 773a, 4604; title 20 section 76<i>l</i>; title 22 section 3973; title 29 section 2897; title 30 section 902; title 42 sections 3796b, 5055, 12620, 12651g, 12655n.
+This section is referred to in sections 3373, 3374, 3704, 7902, 8110, 8118, 8133, 8191, 8192 of this title; title 16 sections 1a–6, 18i, 558c, 670c, 742f, 773a, 4604; title 20 section 76<i>l</i>; title 22 section 3973; title 29 section 2897; title 30 section 902; title 42 sections 3796b, 5055, 7142c, 7384<i>l</i>, 12620, 12651g, 12655n; title 43 section 373b.
 
 <i><sup>1</sup></i><i> So in original. Pub. L. 93–416 added par. (F) immediately after par. (iv), rather than after par. (E).</i>
 

@@ -30,7 +30,7 @@ Subsec. (b)(3). Pub. L. 106–462, §103(2)(C), added par. (3) and struck out fo
 
 1984—Pub. L. 98–608 amended section generally, substituting “the owners of such interests. The tribe may purchase all of the interests in such tract with the consent of the owners of over 50 per centum of the undivided interests in such tract” for “of over 50 per centum of the owners or with the consent of the owners of over 50 per centum of undivided interests in such tract” before proviso.
 
-Par. (1). Pub. L. 98–608 redesignated par. (2) as (1) and inserted “for at least three years preceding the tribal initiative,” before “may purchase such tract”. Former par. (1), which provided that no such tract shall be acquired by any Indian or tribe over the objections of three or less owners owning 50 per centum or more of the total interest in such tract, was struck out.
+Par. (1). Pub. L. 98–608 redesignated par. (2) as (1) and inserted “for at least three years preceding the tribal initiative,” before “may purchase such tract”. Former par. (1), which provided that no such tract shall be acquired by any Indian or tribe over the objections ofthree or less owners owning 50 per centum or more of the total interest in such tract, was struck out.
 
 Par. (2). Pub. L. 98–608 added par. (2). Former par. (2) redesignated (1).
 

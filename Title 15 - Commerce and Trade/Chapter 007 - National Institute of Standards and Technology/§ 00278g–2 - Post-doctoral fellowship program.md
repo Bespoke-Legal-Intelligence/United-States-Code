@@ -6,7 +6,7 @@ The Institute, in conjunction with the National Academy of Sciences, shall estab
 
 #### Prior Provisions
 
-A prior section 19 of act Mar. 3, 1901, ch. 872, was renumbered section 22 and is classified to section 278h of this title.
+A prior section 19 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to section 278q of this title.
 
 #### Amendments
 

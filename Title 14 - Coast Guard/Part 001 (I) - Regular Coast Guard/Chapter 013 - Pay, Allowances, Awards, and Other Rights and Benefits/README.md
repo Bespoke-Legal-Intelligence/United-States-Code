@@ -40,12 +40,13 @@
 | [502\.](%C2%A7%2000502%20-%20Award%20of%20other%20medals.md) | Award of other medals. |
 | [503\.](%C2%A7%2000503%20-%20Awards%20and%20insignia%20for%20excellence%20in%20service%20or%20conduct.md) | Awards and insignia for excellence in service or conduct. |
 | [504\.](%C2%A7%2000504%20-%20Medal%20of%20honor%20duplicate%20medal.md) | Medal of honor: duplicate medal. |
-| \[505, 506. | Repealed.\] |
+| [505\.](%C2%A7%2000505%20-%20Medal%20of%20honor%20presentation%20of%20Medal%20of%20Honor%20Flag.md) | Medal of honor: presentation of Medal of Honor Flag. |
+| \[506. | Repealed.\] |
 | [507\.](%C2%A7%2000507%20-%20Disposition%20of%20effects%20of%20decedents.md) | Disposition of effects of decedents. |
 | [508\.](%C2%A7%2000508%20-%20Deserters%3B%20payment%20of%20expenses%20incident%20to%20apprehension%20and%20delivery%3B%20penalties.md) | Deserters; payment of expenses incident to apprehension and delivery; penalties. |
 | [509\.](%C2%A7%2000509%20-%20Persons%20discharged%20as%20result%20of%20court-martial%3B%20allowances%20to.md) | Persons discharged as result of court-martial; allowances to. |
 | [510\.](%C2%A7%2000510%20-%20Shore%20patrol%20duty%3B%20payment%20of%20expenses.md) | Shore patrol duty; payment of expenses. |
-| [511\.](%C2%A7%2000511%20-%20Compensatory%20absence%20of%20military%20personnel%20at%20isolated%20aids%20to%20navigation.md) | Compensatory absence of military personnel at isolated aids to navigation. |
+| [511\.](%C2%A7%2000511%20-%20Compensatory%20absence%20from%20duty%20for%20military%20personnel%20at%20isolated%20duty%20stations.md) | Compensatory absence from duty for military personnel at isolated duty stations. |
 | [512\.](%C2%A7%2000512%20-%20Monetary%20allowance%20for%20transportation%20of%20household%20effects.md) | Monetary allowance for transportation of household effects. |
 | [513\.](%C2%A7%2000513%20-%20Retroactive%20payment%20of%20pay%20and%20allowances%20delayed%20by%20administrative%20error%20or%20oversight.md) | Retroactive payment of pay and allowances delayed by administrative error or oversight. |
 | [514\.](%C2%A7%2000514%20-%20Reimbursement%20for%20adoption%20expenses.md) | Reimbursement for adoption expenses. |
@@ -59,6 +60,10 @@
 Chapter 13 of this title deals with pay, allowances, awards, and other rights and benefits for personnel of the Coast Guard. Some of these sections are new as applied to the Coast Guard, some clarify and consolidate existing law, and others merely restate existing law. There is no intention to amend, enlarge or curtail the Pay Readjustment Act of 1942, as amended. 81st Congress, House Report No. 557.
 
 #### Amendments
+
+2002—Pub. L. 107–295, title III, §312(b), Nov. 25, 2002, 116 Stat. 2102, added item 511 and struck out former item 511 “Compensatory absence of military personnel at isolated aids to navigation.”
+
+Pub. L. 107–248, title VIII, §8143(c)(4)(B), Oct. 23, 2002, 116 Stat. 1571, added item 505.
 
 2001—Pub. L. 107–107, div. A, title V, §553(d)(1)(B), Dec. 28, 2001, 115 Stat. 1117, added item 504.
 
@@ -78,7 +83,7 @@ Chapter 13 of this title deals with pay, allowances, awards, and other rights an
 
 1970—Pub. L. 91–278, §1(12), June 12, 1970, 84 Stat. 306, substituted “Leasing and hiring of quarters; rental of inadequate housing” for “Hiring of quarters for personnel” as item 475.
 
-1968—Pub. L. 90–377, §7, July 5, 1968, 82 Stat. 288, substituted “Persons discharged as result of court-martial; allowances to” for “Prisoners; allowances to; transportation” in item 509.
+1968—Pub. L. 90–377, §7, July 5, 1968, 82 Stat. 288, substituted “Persons discharged as result of court-martial;allowances to” for “Prisoners; allowances to; transportation” in item 509.
 
 1966—Pub. L. 89–718, §73(c)(2), Nov. 2, 1966, 80 Stat. 1124, struck out reference to pay and allowances and to pay of officers indebted to the United States and inserted reference to discharge in item 461.
 
@@ -161,12 +166,13 @@ This chapter is referred to in section 705 of this title.
 - [&sect; 00502 - Award of other medals](%C2%A7%2000502%20-%20Award%20of%20other%20medals.md)
 - [&sect; 00503 - Awards and insignia for excellence in service or conduct](%C2%A7%2000503%20-%20Awards%20and%20insignia%20for%20excellence%20in%20service%20or%20conduct.md)
 - [&sect; 00504 - Medal of honor duplicate medal](%C2%A7%2000504%20-%20Medal%20of%20honor%20duplicate%20medal.md)
-- [&sect; 00505, 506 - Repealed. July 15, 1954, ch. 507, &sect;14(c)(5), 68 Stat. 481](%C2%A7%2000505%2C%20506%20-%20Repealed.%20July%2015%2C%201954%2C%20ch.%20507%2C%20%C2%A714%28c%29%285%29%2C%2068%20Stat.%20481.md)
+- [&sect; 00505 - Medal of honor presentation of Medal of Honor Flag](%C2%A7%2000505%20-%20Medal%20of%20honor%20presentation%20of%20Medal%20of%20Honor%20Flag.md)
+- [&sect; 00506 - Repealed. July 15, 1954, ch. 507, &sect;14(c)(5), 68 Stat. 481](%C2%A7%2000506%20-%20Repealed.%20July%2015%2C%201954%2C%20ch.%20507%2C%20%C2%A714%28c%29%285%29%2C%2068%20Stat.%20481.md)
 - [&sect; 00507 - Disposition of effects of decedents](%C2%A7%2000507%20-%20Disposition%20of%20effects%20of%20decedents.md)
 - [&sect; 00508 - Deserters; payment of expenses incident to apprehension and delivery; penalties](%C2%A7%2000508%20-%20Deserters%3B%20payment%20of%20expenses%20incident%20to%20apprehension%20and%20delivery%3B%20penalties.md)
 - [&sect; 00509 - Persons discharged as result of court-martial; allowances to](%C2%A7%2000509%20-%20Persons%20discharged%20as%20result%20of%20court-martial%3B%20allowances%20to.md)
 - [&sect; 00510 - Shore patrol duty; payment of expenses](%C2%A7%2000510%20-%20Shore%20patrol%20duty%3B%20payment%20of%20expenses.md)
-- [&sect; 00511 - Compensatory absence of military personnel at isolated aids to navigation](%C2%A7%2000511%20-%20Compensatory%20absence%20of%20military%20personnel%20at%20isolated%20aids%20to%20navigation.md)
+- [&sect; 00511 - Compensatory absence from duty for military personnel at isolated duty stations](%C2%A7%2000511%20-%20Compensatory%20absence%20from%20duty%20for%20military%20personnel%20at%20isolated%20duty%20stations.md)
 - [&sect; 00512 - Monetary allowance for transportation of household effects](%C2%A7%2000512%20-%20Monetary%20allowance%20for%20transportation%20of%20household%20effects.md)
 - [&sect; 00513 - Retroactive payment of pay and allowances delayed by administrative error or oversight](%C2%A7%2000513%20-%20Retroactive%20payment%20of%20pay%20and%20allowances%20delayed%20by%20administrative%20error%20or%20oversight.md)
 - [&sect; 00514 - Reimbursement for adoption expenses](%C2%A7%2000514%20-%20Reimbursement%20for%20adoption%20expenses.md)

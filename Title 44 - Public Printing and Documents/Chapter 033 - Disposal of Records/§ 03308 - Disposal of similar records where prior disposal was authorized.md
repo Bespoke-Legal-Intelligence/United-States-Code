@@ -1,6 +1,6 @@
 ### §3308. Disposal of similar records where prior disposal was authorized
 
-When it appears to the Archivist that an agency has in its custody, or is accumulating, records of the same form or character as those of the same agency previously authorized to be disposed of, he may empower the head of the agency to dispose of the records, after they have been in existence a specified period of time, in accordance with regulations promulgated under section 3302 of this title and without listing or scheduling them.
+When it appears to the Archivist that an agency has in its custody, or is accumulating,records of the same form or character as those of the same agency previously authorized to be disposed of, he may empower the head of the agency to dispose of the records, after they have been in existence a specified period of time, in accordance with regulations promulgated under section 3302 of this title and without listing or scheduling them.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1301; Pub. L. 91–287, §2(a), June 23, 1970, 84 Stat. 321; Pub. L. 98–497, title I, §107(b)(23), Oct. 19, 1984, 98 Stat. 2290.)
 

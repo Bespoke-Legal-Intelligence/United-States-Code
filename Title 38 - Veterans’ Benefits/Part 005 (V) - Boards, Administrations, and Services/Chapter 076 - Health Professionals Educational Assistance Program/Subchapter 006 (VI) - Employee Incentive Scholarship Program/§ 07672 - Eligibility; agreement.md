@@ -20,7 +20,7 @@ Award of Scholarships.—Notwithstanding section 7603(d) of this title, the Secr
 
 Agreement.—(1) An agreement between the Secretary and a participant in the Program shall (in addition to the requirements set forth in section 7604 of this title) include the following:
 
-&emsp;(A) The Secretary's agreement to provide the participant with a scholarship under theProgram for a specified number (from one to three) of school years during which the participant pursues a course of education or training described in subsection (c) that meets the requirements set forth in section 7602(a) of this title.
+&emsp;(A) The Secretary's agreement to provide the participant with a scholarship under the Program for a specified number (from one to three) of school years during which the participant pursues a course of education or training described in subsection (c) that meets the requirements set forth in section 7602(a) of this title.
 
 &emsp;(B) The participant's agreement to serve as a full-time employee in the Veterans Health Administration for a period of time (hereinafter in this subchapter referred to as the “period of obligated service”) determined in accordance with regulations prescribed by the Secretary of up to three calendar years for each school year or part thereof for which the participant was provided a scholarship under the Program, but for not less than 3 years.
 

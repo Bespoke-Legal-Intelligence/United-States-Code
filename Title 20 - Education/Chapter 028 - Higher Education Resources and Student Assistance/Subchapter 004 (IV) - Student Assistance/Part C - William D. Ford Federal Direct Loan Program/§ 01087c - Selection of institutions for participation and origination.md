@@ -38,7 +38,7 @@ The Secretary shall enter into agreements pursuant to section 1087d(a) of this t
 
 &emsp;&emsp;(D) in the opinion of the Secretary, has not had severe performance deficiencies for any of the programs under this subchapter, including such deficiencies demonstrated by audits or program reviews submitted or conducted during the 5 calendar years immediately preceding the date of application;
 
-&emsp;&emsp;(E) provides an assurance that such institution has no delinquent outstanding debts to the Federal Government, unless such debts are being repaid under or in accordance with a repayment arrangement satisfactory to the Federal Government, or the Secretary in the Secretary's discretion determines that the existence or amount of such debts has not been finally determined by the cognizant Federal agency; and
+&emsp;&emsp;(E) provides an assurance that such institution has no delinquent outstanding debts to the Federal Government, unless suchdebts are being repaid under or in accordance with a repayment arrangement satisfactory to the Federal Government, or the Secretary in the Secretary's discretion determines that the existence or amount of such debts has not been finally determined by the cognizant Federal agency; and
 
 &emsp;&emsp;(F) meets such other criteria as the Secretary may establish to protect the financial interest of the United States and to promote the purposes of this part.
 
@@ -54,7 +54,7 @@ The Secretary may not select an institution of higher education for participatio
 
 Subject to such requirements as the Secretary may prescribe, eligible institutions of higher education (as determined under subsection (d) of this section) with agreements under section 1087d(a) of this title may apply to the Secretary as consortia to originate loans under this part for students in attendance at such institutions. Each such institution shall be required to meet the requirements of subsection (c) of this section with respect to loan origination.
 
-(Pub. L. 89–329, title IV, §453, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1438; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021,Aug. 10, 1993, 107 Stat. 342; Pub. L. 103–208, §2(e), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §451, Oct. 7, 1998, 112 Stat. 1715.)
+(Pub. L. 89–329, title IV, §453, as added Pub. L. 99–498, title IV, §404, Oct. 17, 1986, 100 Stat. 1438; amended Pub. L. 102–325, title IV, §451, July 23, 1992, 106 Stat. 569; Pub. L. 103–66, title IV, §4021, Aug. 10, 1993, 107 Stat. 342; Pub. L. 103–208, §2(e), Dec. 20, 1993, 107 Stat. 2470; Pub. L. 105–244, title IV, §451, Oct. 7, 1998, 112 Stat. 1715.)
 
 #### Codification
 

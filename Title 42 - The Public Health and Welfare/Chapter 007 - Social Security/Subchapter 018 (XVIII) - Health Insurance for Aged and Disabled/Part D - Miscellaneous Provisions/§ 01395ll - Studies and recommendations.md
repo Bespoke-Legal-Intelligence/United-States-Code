@@ -42,7 +42,7 @@ Subsec. (c)(7). Pub. L. 101–234, §301(b)(5), (d)(2), amended par. (7) identic
 
 Subsec. (b). Pub. L. 92–603, §§222(c), 226(d)(1), 244(d), substituted “(including a validation of the accreditation process of the Joint Commission on the Accreditation of Hospitals, the operation and administration of health maintenance organizations authorized by section 226 of the Social Security Amendments of 1972, the experiments and demonstration projects authorized by section 402 of the Social Security Amendments of 1967 and the experiments and demonstration projects authorized by section 222(a) of the Social Security Amendments of 1972)” for “(including the experimentation authorized by section 402 of the Social Security Amendments of 1967)”. Pub. L. 92–603, §226(d)(2), which directed the substitution of “1972” for “1971”, could not be executed because “1971” did not appear.
 
-1968—Subsec. (b). Pub. L. 90–248 inserted “(including the experimentation authorized by section 402 of the Social Security Amendments of 1967” after “under parts A and B of this subchapter”.
+1968—Subsec. (b). Pub. L. 90–248 inserted “(including the experimentation authorized by section 402 of theSocial Security Amendments of 1967” after “under parts A and B of this subchapter”.
 
 #### Effective Date of 1989 Amendment
 
@@ -170,7 +170,7 @@ Pub. L. 96–499, title IX, §931(f), Dec. 5, 1980, 94 Stat. 2634, which related
 
 #### Legislative Recommendations Regarding Reimbursement for Optometrists’ Services
 
-Pub. L. 96–499, title IX, §937(b), Dec. 5, 1980, 94 Stat. 2640, provided that the Secretary of Health and Human Services submit to the Congress by Jan. 1, 1982, legislative recommendations with respect to reimbursementunder title XVIII of the Social Security Act \[this subchapter\] for services furnished by optometrists in connection with cataracts and such other services which they are legally authorized to perform.
+Pub. L. 96–499, title IX, §937(b), Dec. 5, 1980, 94 Stat. 2640, provided that the Secretary of Health and Human Services submit to the Congress by Jan. 1, 1982, legislative recommendations with respect to reimbursement under title XVIII of the Social Security Act \[this subchapter\] for services furnished by optometrists in connection with cataracts and such other services which they are legally authorized to perform.
 
 #### Demonstration Projects, Studies, and Reports: Nutritional Therapy, Second Opinion Cost-Sharing, Services of Registered Dietitians, Services of Clinical Social Workers, Orthopedic Shoes, Respiratory Therapy Services, and Foot Conditions; Grants, Payments, and Expenditures
 

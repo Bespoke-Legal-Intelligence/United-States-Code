@@ -56,7 +56,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(A) making existing facilities used by employees readily accessible to and usable by individuals with disabilities; and
 
-&emsp;&emsp;(B) job restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, appropriate adjustment or modifications of examinations,training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.
+&emsp;&emsp;(B) job restructuring, part-time or modified work schedules, reassignment to a vacant position, acquisition or modification of equipment or devices, appropriate adjustment or modifications of examinations, training materials or policies, the provision of qualified readers or interpreters, and other similar accommodations for individuals with disabilities.
 
 #### (10) Undue hardship
 
@@ -88,7 +88,7 @@ This chapter, referred to in par. (10)(B)(i), was in the original “this Act”
 
 #### Amendments
 
-1991—Par. (4). Pub. L. 102–166 inserted at end “With respect to employment in a foreign country, such term includes an individual who is a citizen of the United States.”
+1991—Par. (4). Pub. L. 102–166 inserted at end “With respect to employment in a foreign country, such termincludes an individual who is a citizen of the United States.”
 
 #### Effective Date of 1991 Amendment
 

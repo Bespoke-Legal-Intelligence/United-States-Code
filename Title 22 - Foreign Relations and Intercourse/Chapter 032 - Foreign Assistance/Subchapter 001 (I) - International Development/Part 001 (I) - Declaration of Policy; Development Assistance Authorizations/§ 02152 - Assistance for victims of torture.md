@@ -6,7 +6,7 @@ The President is authorized to provide assistance for the rehabilitation of vict
 
 #### (b) Eligibility for grants
 
-Such assistance shall be provided in the form of grants to treatment centers and programs inforeign countries that are carrying out projects or activities specifically designed to treat victims of torture for the physical and psychological effects of the torture.
+Such assistance shall be provided in the form of grants to treatment centers and programs in foreign countries that are carrying out projects or activities specifically designed to treat victims of torture for the physical and psychological effects of the torture.
 
 #### (c) Use of funds
 
@@ -16,7 +16,7 @@ Such assistance shall be available—
 
 &emsp;(2) to provide research and training to health care providers outside of treatment centers or programs described in subsection (b) of this section, for the purpose of enabling such providers to provide the services described in paragraph (1).
 
-(Pub. L. 87–195, pt. I, §130, formerly §129, as added Pub. L. 105–320, §4(a), Oct. 30, 1998, 112 Stat. 3017; renumbered §130, Pub. L. 106–87, §6(a), Nov. 3, 1999, 113 Stat. 1302.)
+(Pub. L. 87–195, pt. I, §130, formerly §129, as added Pub. L. 105–320, §4(a), Oct. 30, 1998, 112Stat. 3017; renumbered §130, Pub. L. 106–87, §6(a), Nov. 3, 1999, 113 Stat. 1302.)
 
 #### Delegation of Functions
 

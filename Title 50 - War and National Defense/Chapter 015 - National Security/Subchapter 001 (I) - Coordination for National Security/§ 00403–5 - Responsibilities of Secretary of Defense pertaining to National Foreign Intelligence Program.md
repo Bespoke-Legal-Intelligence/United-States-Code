@@ -40,7 +40,7 @@ Consistent with sections 403–3 and 403–4 of this title, the Secretary of Def
 
 &emsp;(4) through the Defense Intelligence Agency (except as otherwise directed by the President or the National Security Council), the continued operation of an effective unified system within the Department of Defense for the production of timely, objective military and military-related intelligence, based upon all sources available to the intelligence community, and shall ensure the appropriate dissemination of such intelligence to authorized recipients;
 
-&emsp;(5) through the Defense Intelligence Agency (except as otherwise directed by the President or the National Security Council), effective management of Department of Defense human intelligence activities, including defense attaches; and
+&emsp;(5) through the Defense Intelligence Agency (except as otherwise directed by the Presidentor the National Security Council), effective management of Department of Defense human intelligence activities, including defense attaches; and
 
 &emsp;(6) that the military departments maintain sufficient capabilities to collect and produce intelligence to meet—
 
@@ -56,13 +56,21 @@ Consistent with sections 403–3 and 403–4 of this title, the Secretary of Def
 
 The Secretary of Defense, in carrying out the functions described in this section, may use such elements of the Department of Defense as may be appropriate for the execution of those functions, in addition to, or in lieu of, the elements identified in this section.
 
-#### (d) Annual evaluation of Director of Central Intelligence
+#### (d) Annual evaluation of performance and responsiveness of certain elements of intelligence community
 
-The Director of Central Intelligence, in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, shall submit each year to the Committee on Foreign Intelligence of the National Security Council and the appropriate congressional committees (as defined in section 404d(c) of this title) an evaluation of the performance and the responsiveness of the National Security Agency, the National Reconnaissance Office, and the National Imagery and Mapping Agency in meeting their national missions.
+(1) Not later each year than the date provided in section 415b of this title, the Director shall submit to the congressional intelligence committees the evaluation described in paragraph (3).
 
-(July 26, 1947, ch. 343, title I, §105, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106 Stat. 3194; amended Pub. L. 103–359, title V, §501(a)(2), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–201, div. A, title XI, §1114(a), Sept. 23, 1996, 110 Stat. 2684; Pub. L. 104–293, title VIII, §808, Oct. 11, 1996, 110 Stat. 3481.)
+(2) The Director shall submit each year to the Committee on Foreign Intelligence of the National Security Council, and to the Committees on Armed Services and Appropriations of the Senate and House of Representatives, the evaluation described in paragraph (3).
+
+(3) An evaluation described in this paragraph is an evaluation of the performance and responsiveness of the National Security Agency, the National Reconnaissance Office, and the National Imagery and Mapping Agency in meeting their respective national missions.
+
+(4) The Director shall submit each evaluation under this subsection in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff.
+
+(July 26, 1947, ch. 343, title I, §105, as added Pub. L. 102–496, title VII, §706(a), Oct. 24, 1992, 106 Stat. 3194; amended Pub. L. 103–359, title V, §501(a)(2), Oct. 14, 1994, 108 Stat. 3428; Pub. L. 104–201, div. A, title XI, §1114(a), Sept. 23, 1996, 110 Stat. 2684; Pub. L. 104–293, title VIII, §808, Oct. 11, 1996, 110 Stat. 3481; Pub. L. 107–306, title VIII, §811(b)(1)(A), Nov. 27, 2002, 116 Stat. 2421.)
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–306 amended heading and text of subsec. (d) generally. Prior to amendment, text read as follows: “The Director of Central Intelligence, in consultation with the Secretary of Defense and the Chairman of the Joint Chiefs of Staff, shall submit each year to the Committee on Foreign Intelligence of the National Security Council and the appropriate congressional committees (as defined in section 404d(c) of this title) an evaluation of the performance and the responsiveness of the National Security Agency, the National Reconnaissance Office, and the National Imagery and Mapping Agency in meeting their national missions.”
 
 1996—Subsec. (a). Pub. L. 104–293, §808(1), inserted “, in consultation with the Director of Central Intelligence,” after “Secretary of Defense” in introductory provisions.
 
@@ -82,7 +90,7 @@ Pub. L. 106–567, title V, §501, Dec. 27, 2000, 114 Stat. 2850, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 411 of this title.
+This section is referred to in sections 411, 415b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
 

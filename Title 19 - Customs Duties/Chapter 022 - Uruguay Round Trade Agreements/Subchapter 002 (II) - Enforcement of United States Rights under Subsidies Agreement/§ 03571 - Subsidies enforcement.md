@@ -2,7 +2,7 @@
 
 #### (a) Assistance regarding multilateral subsidy remedies
 
-The administering authority shall provide information to the public upon request, and, tothe extent feasible, assistance and advice to interested parties concerning—
+The administering authority shall provide information to the public upon request, and, to the extent feasible, assistance and advice to interested parties concerning—
 
 &emsp;(1) remedies and benefits available under relevant provisions of the Subsidies Agreement, and
 
@@ -12,7 +12,7 @@ The administering authority shall provide information to the public upon request
 
 #### (1) Notification of Trade Representative
 
-&emsp;If the administering authority determines pursuant to title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] that a class or kind of merchandise is benefiting from a subsidy which is prohibited under Article 3 of the Subsidies Agreement, the administering authority shall notify the Trade Representative and shall provide the Trade Representative with the information upon which the administering authority based its determination.
+&emsp;If the administering authority determines pursuant to title VII of the Tariff Act of 1930 \[19 U.S.C. 1671 et seq.\] that a class or kind ofmerchandise is benefiting from a subsidy which is prohibited under Article 3 of the Subsidies Agreement, the administering authority shall notify the Trade Representative and shall provide the Trade Representative with the information upon which the administering authority based its determination.
 
 #### (2) Request by interested party regarding prohibited subsidy
 
@@ -170,7 +170,7 @@ For purposes of this section:
 
 #### (i) Treatment of proprietary information
 
-Notwithstanding any other provision of law, the administering authority may provide the Trade Representative with a copy of proprietary information submitted to, or obtained by, the administering authority that the Trade Representative considers relevant in carrying out its responsibilities under this subchapter. The Trade Representative shall protect from public disclosure proprietary information obtained from the administering authority under this subchapter.
+Notwithstanding any other provision of law, the administering authority may provide the Trade Representative with a copy of proprietaryinformation submitted to, or obtained by, the administering authority that the Trade Representative considers relevant in carrying out its responsibilities under this subchapter. The Trade Representative shall protect from public disclosure proprietary information obtained from the administering authority under this subchapter.
 
 (Pub. L. 103–465, title II, §281, Dec. 8, 1994, 108 Stat. 4922; Pub. L. 104–295, §20(b)(13), Oct. 11, 1996, 110 Stat. 3527.)
 

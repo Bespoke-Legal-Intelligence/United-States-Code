@@ -22,7 +22,7 @@ No person subject to the prohibition contained in section 1452 of this title sha
 
 &emsp;&emsp;(C) shall contain letters or numerals in a type size which shall be (i) established in relationship to the area of the principal display panel of the package, and (ii) uniform for all packages of substantially the same size; and
 
-&emsp;&emsp;(D) shall be so placed that the lines of printed matter included in that statement are generally parallel to the base on which the package rests as it is designed to be displayed; and
+&emsp;&emsp;(D) shall be so placed that the lines of printed matter included in that statementare generally parallel to the base on which the package rests as it is designed to be displayed; and
 
 &emsp;(4) The label of any package of a consumer commodity which bears a representation as to the number of servings of such commodity contained in such package shall bear a statement of the net quantity (in terms of weight or mass, measure, or numerical count) of each such serving.
 

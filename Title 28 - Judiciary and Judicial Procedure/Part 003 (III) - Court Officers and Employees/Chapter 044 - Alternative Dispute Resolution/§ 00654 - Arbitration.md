@@ -20,7 +20,7 @@ Safeguards in Consent Cases.—Until such time as rules are adopted under chapte
 
 (c)
 
-Presumptions.—For purposes of subsection (a)(3), a district court may presume damages arenot in excess of $150,000 unless counsel certifies that damages exceed such amount.
+Presumptions.—For purposes of subsection (a)(3), a district court may presume damages are not in excess of $150,000 unless counsel certifies that damages exceed such amount.
 
 (d)
 
@@ -30,11 +30,11 @@ Existing Programs.—Nothing in this chapter is deemed to affect any program in 
 
 #### References in Text
 
-Title IX of the Judicial Improvements and Access to Justice Act (Public Law 100–702), as amended by section 1 of Public Law 105–53, referred to in subsec. (d), is title IX of Pub. L. 100–702, Nov. 19, 1988, 102 Stat. 4659, which enacted this chapter and provisions set out as notes under sections 651 and 652 of this title. Section 1 of Pub. L. 105–53, Oct. 6, 1997, 111 Stat. 1173, amended section 905 of title IX of Pub. L. 100–702, which is set out as a note under section 651 of this title.
+Title IX of the Judicial Improvements and Access to Justice Act (Public Law 100–702), as amended by section 1 of Public Law 105–53, referred to in subsec. (d), is title IX of Pub. L. 100–702, Nov. 19, 1988, 102 Stat. 4659, which enacted this chapter and provisions set out as notes under sections 651 and 652 of this title. Section 1 of Pub.L. 105–53, Oct. 6, 1997, 111 Stat. 1173, amended section 905 of title IX of Pub. L. 100–702, which is set out as a note under section 651 of this title.
 
 #### Amendments
 
-<b>1998</b>—Pub. L. 105–315 amended section generally, substituting provisions relating to arbitration for provisions relating to arbitration award and judgment.
+1998—Pub. L. 105–315 amended section generally, substituting provisions relating to arbitration for provisions relating to arbitration award and judgment.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@ Requirements.—Each project selected under this section shall include at least 
 
 #### (4) Advisory Committee
 
-&emsp;(A) The Secretary shall establish an Advisory Committee on Demonstration and Commercial Application of Renewable Energy and Energy Efficiency Technologies (in this chapter referred to as the “Advisory Committee”) to advise the Secretary on the development of the solicitation and evaluation criteria for projects under this section, and on otherwise carrying out his responsibilities under thissection. The Secretary shall appoint members to the Advisory Committee, including at least one member representing—
+&emsp;(A) The Secretary shall establish an Advisory Committee on Demonstration and Commercial Application of Renewable Energy and Energy Efficiency Technologies (in this chapter referred to as the “Advisory Committee”) to advise the Secretary on the development of the solicitation and evaluation criteria for projects under this section, and on otherwise carrying out his responsibilities under this section. The Secretary shall appoint members to the Advisory Committee, including at least one member representing—
 
 &emsp;&emsp;(i) the Secretary of Commerce;
 

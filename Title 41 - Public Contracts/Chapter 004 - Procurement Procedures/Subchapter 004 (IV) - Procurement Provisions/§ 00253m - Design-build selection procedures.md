@@ -2,7 +2,7 @@
 
 #### (a) Authorization
 
-Unless the traditional acquisition approach of design-bid-build established under the Brooks Architect-Engineers Act (title IX of this Act) \[40 U.S.C. 541 et seq.\] is used or another acquisition procedure authorized by law is used, the head of an executive agency shall use the two-phase selection procedures authorized in this section for entering into a contract for the design and construction of a public building, facility, or work when a determination is made under subsection (b) of this section that the procedures are appropriate for use.
+Unless the traditional acquisition approach of design-bid-build established under sections 1101 to 1104 of title 40 is used or another acquisition procedure authorized by law is used, the head of an executive agency shall use the two-phase selection procedures authorized in this section for entering into a contract for the design and construction of a public building, facility, or work when a determination is made under subsection (b) of this section that the procedures are appropriate for use.
 
 #### (b) Criteria for use
 
@@ -24,7 +24,7 @@ A contracting officer shall make a determination whether two-phase selection pro
 
 Two-phase selection procedures consist of the following:
 
-&emsp;(1) The agency develops, either in-house or by contract, a scope of work statement for inclusion in the solicitation that defines the project and provides prospective offerors with sufficient information regarding the Government's requirements (which may include criteria and preliminary design, budget parameters, and schedule or delivery requirements) to enable the offerors to submit proposals which meet the Government's needs. If the agency contracts for development of the scope of work statement, the agency shall contract for architectural and engineering services as defined by and in accordance with the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.).
+&emsp;(1) The agency develops, either in-house or by contract, a scope of work statement for inclusion in the solicitation that defines the project and provides prospective offerors with sufficient information regarding the Government's requirements (which may include criteria and preliminary design, budget parameters, and schedule or delivery requirements) to enable the offerors to submit proposals which meet the Government's needs. If the agency contracts for development of the scope of work statement, the agency shall contract for architectural and engineering services as defined by and in accordance with sections 1101 to 1104 of title 40.
 
 &emsp;(2) The contracting officer solicits phase-one proposals that—
 
@@ -68,9 +68,9 @@ The Federal Acquisition Regulation shall include guidance—
 
 (June 30, 1949, ch. 288, title III, §303M, as added Pub. L. 104–106, div. D, title XLI, §4105(b)(1), Feb. 10, 1996, 110 Stat. 647.)
 
-#### References in Text
+#### Codification
 
-The Brooks Architect-Engineers Act, referred to in subsecs. (a) and (c)(1), is title IX of act June 30, 1949, ch. 288, as added by act Oct. 27, 1972, Pub. L. 92–582, 86 Stat. 1278, as amended, which is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 541 of Title 40 and Tables.
+“Sections 1101 to 1104 of title 40” substituted in subsec. (a) for “the Brooks Architect-Engineers Act (title IX of this Act)” and in subsec. (c)(1) for “the Brooks Architect-Engineers Act (40 U.S.C. 541 et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Effective Date
 

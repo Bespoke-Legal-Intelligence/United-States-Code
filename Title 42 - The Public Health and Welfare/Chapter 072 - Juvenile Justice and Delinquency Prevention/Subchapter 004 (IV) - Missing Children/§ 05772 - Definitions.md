@@ -14,11 +14,15 @@ For the purpose of this subchapter—
 
 (Pub. L. 93–415, title IV, §403, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 106–71, §2(b), Oct. 12, 1999, 113 Stat. 1034.)
 
+#### Prior Provisions
+
+A prior section 403 of Pub. L. 93–415 amended section 3883 of this title, and was repealed by Pub. L. 95–115, §10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, §12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
+
 #### Amendments
 
 1999—Par. (3). Pub. L. 106–71 added par. (3).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 5775 of this title; title 39 section 3201.
+This section is referred to in section 5775 of this title.
 

@@ -34,7 +34,7 @@
 
 &emsp;(B) the employee, Member, former employee, or former Member separates from Government employment.
 
-(g)(1) At any time before separation, an employee or Member may apply to the Board for permission to borrow from the employee's or Member's account an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member under section 8432(a) of this title. Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance.
+(g)(1) At any time before separation, an employee or Member may apply to the Board for permission to borrow from the employee's or Member's account an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member. Before a loan is issued, the Executive Director shall provide in writing the employee or Member with appropriate information concerning the cost of the loan relative to other sources of financing, as well as the lifetime cost of the loan, including the difference in interest rates between the funds offered by the Thrift Savings Fund, and any other effect of such loan on the employee's or Member's final account balance.
 
 (2) Loans under this subsection shall be available to all employees and Members on a reasonably equivalent basis, and shall be subject to such other conditions as the Board may by regulation prescribe. The restrictions of section 8477(c)(1) of this title shall not apply to loans made under this subsection.
 
@@ -50,7 +50,7 @@
 
 (2) A withdrawal under paragraph (1)(A) shall be available to each eligible participant one time only.
 
-(3) A withdrawal under paragraph (1)(B) shall be available only for an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member under section 8432(a) of this title.
+(3) A withdrawal under paragraph (1)(B) shall be available only for an amount not exceeding the value of that portion of such account which is attributable to contributions made by the employee or Member.
 
 (4) Withdrawals under paragraph (1) shall be subject to such other conditions as the Executive Director may prescribe by regulation.
 
@@ -58,15 +58,13 @@
 
 (Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 544; amended Pub. L. 100–238, title I, §132, Jan. 8, 1988, 101 Stat. 1760; Pub. L. 101–335, §§5(a), 6(a)(2), July 17, 1990, 104 Stat. 321, 322; Pub. L. 102–484, div. D, title XLIV, §4437(a), Oct. 23, 1992, 106 Stat. 2724; Pub. L. 103–226, §9(b), (i)(3)–(7), Mar. 30, 1994, 108 Stat. 119, 121, 122; Pub. L. 103–353, §§4(b), 5(e)(4), Oct. 13, 1994, 108 Stat. 3172, 3174; Pub. L. 104–208, div. A, title I, §101(f) \[title VI, §659 \[title II, §203(a)\]\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–372, 3009–374; Pub. L. 106–65, div. A, title VI, §661(a)(4), Oct. 5, 1999, 113 Stat. 672.)
 
-#### Amendment of Subsections (g)(1) and (h)(3)
-
-<i>Pub. L. 106–65, div. A, title VI, §§661(a)(4), 663, Oct. 5, 1999, 113 Stat. 672, 673, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that effective 180 days after Oct. 30, 2000, unless postponed, subsections (g)(1) and (h)(3) of this section are amended by striking “under section 8432(a) of this title”.</i>
-
 #### References in Text
 
 Sections 72(p) and 402(c)(8) of the Internal Revenue Code of 1986, referred to in subsecs. (c)(3) and (g)(3), are classified to sections 72(p) and 402(c)(8), respectively, of Title 26, Internal Revenue Code.
 
 #### Amendments
+
+1999—Subsecs. (g)(1), (h)(3). Pub. L. 106–65 struck out “under section 8432(a) of this title” after “by the employee or Member”.
 
 1996—Subsec. (b). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(1)\]\], added subsec. (b) and struck out former subsec. (b) which read as follows: “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—
 
@@ -110,7 +108,7 @@ Subsec. (g)(2) to (5). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II,
 
 Subsec. (h). Pub. L. 104–208, §101(f) \[title VI, §659 \[title II, §203(a)(6)\]\], added subsec. (h).
 
-1994—Subsec. (b). Pub. L. 103–226, §9(b)(1), amended introductory provisions generally, substituting “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—” for “Subject to section 8435 of this title, any employee or Member who separates from Government employment entitled to an immediate annuity under subchapter II of this chapter, any employee or Member who separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title, any employee who separates from Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, and any employee or Member who is entitled to receive disability benefits under subchapter V of this chapter is entitled and may elect—”.
+1994—Subsec. (b). Pub. L. 103–226, §9(b)(1), amended introductory provisions generally, substituting “Subject to section 8435 of this title, any employee or Member who separates from Government employment is entitled and may elect—” for “Subject to section 8435 of this title, any employee or Member who separates from Government employment entitled to an immediate annuity under subchapter II of this chapter, any employee or Member who separates from Government employment entitled to benefits under subchapter I of chapter 81 of this title, any employee who separatesfrom Government employment pursuant to regulations under section 3502(a) of this title or procedures under section 3595(a) of this title in a reduction in force, and any employee or Member who is entitled to receive disability benefits under subchapter V of this chapter is entitled and may elect—”.
 
 Subsec. (b)(4). Pub. L. 103–226, §9(i)(3), substituted “subsection (c)” for “subsection (e)”.
 

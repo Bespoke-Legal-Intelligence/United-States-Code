@@ -14,6 +14,8 @@ Level II of the Executive Schedule applies to the following positions, for which
 
 &emsp;Deputy Secretary of Veterans Affairs.
 
+&emsp;Deputy Secretary of Homeland Security.
+
 &emsp;Deputy Secretary of the Treasury.
 
 &emsp;Deputy Secretary of Transportation.
@@ -76,7 +78,11 @@ Level II of the Executive Schedule applies to the following positions, for which
 
 &emsp;Members, Board of Governors of the Federal Reserve System.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(2), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, §1(13), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–407, §15(a)(1), July 18, 1968, 82 Stat. 366; Pub. L. 91–644, title I, §8(b), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 92–255, title II, §212(a), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–302, §2(a), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(1), July 13, 1972, 86 Stat. 490; Pub. L. 92–596, §6, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 93–438, title III, §310(1), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–496, §16(c), Oct. 28, 1974, 88 Stat. 1533; Pub. L. 94–82, title II, §202(b)(2), Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–561, §1(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, §710(d), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–140, §3(d)(1), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–454, title II, §201(b)(1), Oct. 13, 1978, 92 Stat. 1121; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2302, Oct. 17, 1980, 94 Stat. 2164; Pub. L. 97–449, §§3(1), 7(b), Jan. 12, 1983, 96 Stat. 2441, 2444; Pub. L. 98–80, §2(a)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–216, §3(a)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 99–348, title V, §501(d)(1), July 1, 1986, 100 Stat. 708; Pub. L. 99–619, §2(a)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 100–204, title I, §178(a)(1), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–527, §13(d), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(b), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 101–73, title V, §501(c), Aug. 9, 1989, 103 Stat. 394; Pub. L. 101–509, title V, §529 \[title I, §112(b)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 101–576, title II, §207(a), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–233, title III, §315(b), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–550, title XIII, §1351(a), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–160, div. A, title IX, §904(e)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–296, title I, §108(e)(2), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–325, title I, §104(i), Sept. 23, 1994, 108 Stat. 2169; Pub. L. 105–277, div. C, title VII, §713(a)(2), div. G, subdiv. A, title XII, §1224(1), title XIII, §1332(1), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–785; Pub. L. 106–65, div. A, title IX, §911(e), Oct. 5, 1999, 113 Stat. 719; Pub. L. 106–553, §1(a)(2) \[title IV, §404(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 106–569, title X, §1002(a)(2), Dec. 27, 2000, 114 Stat. 3028.)
+&emsp;The Under Secretary of Transportation for Security.
+
+&emsp;Under Secretary of Transportation for Policy.
+
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 460; Pub. L. 89–670, §10(d)(2), Oct. 15, 1966, 80 Stat. 948; Pub. L. 90–83, §1(13), Sept. 11, 1967, 81 Stat. 198; Pub. L. 90–407, §15(a)(1), July 18, 1968, 82 Stat. 366; Pub. L. 91–644, title I, §8(b), Jan. 2, 1971, 84 Stat. 1888; Pub. L. 92–255, title II, §212(a), Mar. 21, 1972, 86 Stat. 69; Pub. L. 92–302, §2(a), May 18, 1972, 86 Stat. 149; Pub. L. 92–352, title I, §104(1), July 13, 1972, 86 Stat. 490; Pub. L. 92–596, §6, Oct. 27, 1972, 86 Stat. 1318; Pub. L. 93–438, title III, §310(1), Oct. 11, 1974, 88 Stat. 1252; Pub. L. 93–496, §16(c), Oct. 28, 1974, 88 Stat. 1533; Pub. L. 94–82, title II, §202(b)(2), Aug. 9, 1975, 89 Stat. 419; Pub. L. 94–237, §4(c)(6), Mar. 19, 1976, 90 Stat. 244; Pub. L. 94–561, §1(a), Oct. 19, 1976, 90 Stat. 2643; Pub. L. 95–91, title VII, §710(d), Aug. 4, 1977, 91 Stat. 609; Pub. L. 95–140, §3(d)(1), Oct. 21, 1977, 91 Stat. 1173; Pub. L. 95–454, title II, §201(b)(1), Oct. 13, 1978, 92 Stat. 1121; Pub. L. 96–54, §2(a)(25)(A), Aug. 14, 1979, 93 Stat. 382; Pub. L. 96–465, title II, §2302, Oct. 17, 1980, 94 Stat. 2164; Pub. L. 97–449, §§3(1), 7(b), Jan. 12, 1983, 96 Stat. 2441, 2444; Pub. L. 98–80, §2(a)(1), Aug. 23, 1983, 97 Stat. 485; Pub. L. 98–216, §3(a)(1), Feb. 14, 1984, 98 Stat. 6; Pub. L. 99–348, title V, §501(d)(1), July 1, 1986, 100 Stat. 708; Pub. L. 99–619, §2(a)(2), Nov. 6, 1986, 100 Stat. 3491; Pub. L. 100–204, title I, §178(a)(1), Dec. 22, 1987, 101 Stat. 1362; Pub. L. 100–527, §13(d), Oct. 25, 1988, 102 Stat. 2643; Pub. L. 100–679, §11(b), Nov. 17, 1988, 102 Stat. 4070; Pub. L. 101–73, title V, §501(c), Aug. 9, 1989, 103 Stat. 394; Pub. L. 101–509, title V, §529 \[title I, §112(b)\], Nov. 5, 1990, 104 Stat. 1427, 1454; Pub. L. 101–576, title II, §207(a), Nov. 15, 1990, 104 Stat. 2846; Pub. L. 102–233, title III, §315(b), Dec. 12, 1991, 105 Stat. 1772; Pub. L. 102–550, title XIII, §1351(a), Oct. 28, 1992, 106 Stat. 3969; Pub. L. 103–160, div. A, title IX, §904(e)(1), Nov. 30, 1993, 107 Stat. 1728; Pub. L. 103–296, title I, §108(e)(2), Aug. 15, 1994, 108 Stat. 1486; Pub. L. 103–325, title I, §104(i), Sept. 23, 1994, 108 Stat. 2169; Pub. L. 105–277, div. C, title VII, §713(a)(2), div. G, subdiv. A, title XII, §1224(1), title XIII, §1332(1), Oct. 21, 1998, 112 Stat. 2681–693, 2681–772, 2681–785; Pub. L. 106–65, div. A, title IX, §911(e), Oct. 5, 1999, 113 Stat. 719; Pub. L. 106–553, §1(a)(2) \[title IV, §404(b)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–96; Pub. L. 106–569, title X, §1002(a)(2), Dec. 27, 2000, 114 Stat. 3028; Pub. L. 107–71, title I, §101(c)(1), Nov. 19, 2001, 115 Stat. 602; Pub. L. 107–295, title II, §215(b), Nov. 25, 2002, 116 Stat. 2102; Pub. L. 107–296, title XVII, §1702(a)(2), Nov. 25, 2002, 116 Stat. 2313.)
 
 Historical and Revision Notes<br>1966
 
@@ -103,6 +109,12 @@ Standard changes are made to conform with the definitions applicable and the sty
 The deletion of paragraph (6) of 5 U.S.C. 5313 reflects the abolition of the position of “Administrator of the Housing and Home Finance Agency” by the act of September 9, 1965, Public Law 89–174, sections 5(a), 9(c), 79 Stat. 669, 671.
 
 #### Amendments
+
+2002—Pub. L. 107–296 inserted item relating to Deputy Secretary of Homeland Security.
+
+Pub. L. 107–295 inserted item relating to Under Secretary of Transportation for Policy.
+
+2001—Pub. L. 107–71 inserted item relating to Under Secretary of Transportation for Security.
 
 2000—Pub. L. 106–569 struck out item relating to Chairman, Board of Governors of the Federal Reserve System and inserted item relating to Members, Board of Governors of the Federal Reserve System.
 
@@ -184,6 +196,10 @@ Par. (21). Pub. L. 92–255 added par. (21) relating to Director of Special Acti
 
 1966—Pub. L. 89–670 substituted “Under Secretary of Transportation” for “Administrator of the Federal Aviation Agency” in item (7), and inserted item (19) relating to Administrator, Federal Aviation Administration.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–569 effective on the first day of the first pay period for the Chairman and Members of the Board of Governors of the Federal Reserve System beginning on or after Dec. 27, 2000, see section 1002(b) of Pub. L. 106–569, set out as a note under section 5312 of this title.
@@ -210,7 +226,7 @@ Amendment by Pub. L. 100–527 effective Mar. 15, 1989, see section 18(a) of Pub
 
 #### Effective Date of 1987 Amendment
 
-Section 178(b) of Pub. L. 100–204 provided that: “The amendments made by subsection (a) \[amending sections 5313 and 5315 of this title\] shall take effect 30 days after the date of enactment of this Act \[Dec. 22, 1987\] and shall not affect the salary of any individual holding the rank of Ambassador at Large immediately before the date of enactment of this Act during the period such individual continues to serve in such position.”
+Section 178(b) of Pub. L. 100–204 provided that: “The amendments made by subsection (a) \[amending sections 5313 and 5315 of this title\] shall take effect 30 days after the date of enactment of this Act \[Dec. 22, 1987\] and shall not affect the salary of any individual holdingthe rank of Ambassador at Large immediately before the date of enactment of this Act during the period such individual continues to serve in such position.”
 
 #### Effective Date of 1986 Amendment
 
@@ -254,11 +270,21 @@ Amendment by Pub. L. 89–670 effective April 1, 1967, see section 16(a), former
 
 #### Transfer of Functions
 
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 Office of Director of Office of Science and Technology abolished and functions vested by law in such office transferred to Director of the National Science Foundation by sections 2 and 3(a)(5) of 1973 Reorg. Plan No. 1, effective July 1, 1973, set out in the Appendix to this title.
+
+#### Bonus Eligibility of Under Secretary of Transportation for Security
+
+Pub. L. 107–71, title I, §101(c)(2), Nov. 19, 2001, 115 Stat. 602, provided that: “In addition to the annual rate of pay authorized by section 5313 of title 5, United States Code, the Under Secretary may receive a bonus for any calendar year not to exceed 30 percent of the annual rate of pay, based on the Secretary's evaluation of the Under Secretary's performance.”
 
 #### Salary Increases
 
-2001—Salaries of positions at level II increased to $145,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2001, as provided by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of this title.
+2003—Salaries of positions at level II increased to $154,700 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2003, as provided by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of this title.
+
+2002—Salaries of positions at level II increased to $150,000 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2002, as provided by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639.
+
+2001—Salaries of positions at level II increased to $145,100 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2001, as provided by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057.
 
 2000—Salaries of positions at level II increased to $141,300 per annum, effective on the first day of the first pay period beginning on or after Jan. 1, 2000, as provided by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237.
 

@@ -14,27 +14,27 @@ The President may not authorize the conduct of a covert action by departments, a
 
 &emsp;(5) A finding may not authorize any action that would violate the Constitution or any statute of the United States.
 
-#### (b) Reports to intelligence committees; production of information
+#### (b) Reports to congressional intelligence committees; production of information
 
 To the extent consistent with due regard for the protection from unauthorized disclosure of classified information relating to sensitive intelligence sources and methods or other exceptionally sensitive matters, the Director of Central Intelligence and the heads of all departments, agencies, and entities of the United States Government involved in a covert action—
 
-&emsp;(1) shall keep the intelligence committees fully and currently informed of all covert actions which are the responsibility of, are engaged in by, or are carried out for or on behalf of, any department, agency, or entity of the United States Government, including significant failures; and
+&emsp;(1) shall keep the congressional intelligence committees fully and currently informed of all covert actions which are the responsibility of, are engaged in by, or are carried out for or on behalf of, any department, agency, or entity of the United States Government, including significant failures; and
 
-&emsp;(2) shall furnish to the intelligence committees any information or material concerning covert actions which is in the possession, custody, or control of any department, agency, or entity of the United States Government and which is requested by either of the intelligence committees in order to carry out its authorized responsibilities.
+&emsp;(2) shall furnish to the congressional intelligence committees any information or material concerning covert actions which is in the possession, custody, or control of any department, agency, or entity of the United States Government and which is requested by either of the congressional intelligence committees in order to carry out its authorized responsibilities.
 
 #### (c) Timing of reports; access to finding
 
-(1) The President shall ensure that any finding approved pursuant to subsection (a) of this section shall be reported to the intelligence committees as soon as possible after such approval and before the initiation of the covert action authorized by the finding, except as otherwise provided in paragraph (2) and paragraph (3).
+(1) The President shall ensure that any finding approved pursuant to subsection (a) of this section shall be reported to the congressional intelligence committees as soon as possible after such approval and before the initiation of the covert action authorized by the finding, except as otherwise provided in paragraph (2) and paragraph (3).
 
-(2) If the President determines that it is essential to limit access to the finding to meet extraordinary circumstances affecting vital interests of the United States, the finding may be reported to the chairmen and ranking minority members of the intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.
+(2) If the President determines that it is essential to limit access to the finding to meet extraordinary circumstances affecting vital interests of the United States, the finding may be reported to the chairmen and ranking minority members of the congressional intelligence committees, the Speaker and minority leader of the House of Representatives, the majority and minority leaders of the Senate, and such other member or members of the congressional leadership as may be included by the President.
 
-(3) Whenever a finding is not reported pursuant to paragraph (1) or (2) of this section,<sup>1</sup> the President shall fully inform the intelligence committees in a timely fashion and shall provide a statement of the reasons for not giving prior notice.
+(3) Whenever a finding is not reported pursuant to paragraph (1) or (2) of this section,<sup>1</sup> the President shall fully inform the congressional intelligence committees in a timely fashion and shall provide a statement of the reasons for not giving prior notice.
 
-(4) In a case under paragraph (1), (2), or (3), a copy of the finding, signed by the President, shall be provided to the chairman of each intelligence committee. When access to a finding is limited to the Members of Congress specified in paragraph (2), a statement of the reasons for limiting such access shall also be provided.
+(4) In a case under paragraph (1), (2), or (3), a copy of the finding, signed by the President, shall be provided to the chairman of each congressional intelligence committee. When access to a finding is limited to the Members of Congress specified in paragraph (2), a statement of the reasons for limiting such access shall also be provided.
 
 #### (d) Changes in previously approved actions
 
-The President shall ensure that the intelligence committees, or, if applicable, the Members of Congress specified in subsection (c)(2) of this section, are notified of any significant change in a previously approved covert action, or any significant undertaking pursuant to a previously approved finding, in the same manner as findings are reported pursuant to subsection (c) of this section.
+The President shall ensure that the congressional intelligence committees, or, if applicable, the Members of Congress specified in subsection (c)(2) of this section, are notified of any significant change in a previously approved covert action, or any significant undertaking pursuant to a previously approved finding, in the same manner as findings are reported pursuant to subsection (c) of this section.
 
 #### (e) “Covert action” defined
 
@@ -52,11 +52,19 @@ As used in this subchapter, the term “covert action” means an activity or ac
 
 No covert action may be conducted which is intended to influence United States political processes, public opinion, policies, or media.
 
-(July 26, 1947, ch. 343, title V, §503, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442.)
+(July 26, 1947, ch. 343, title V, §503, as added Pub. L. 102–88, title VI, §602(a)(2), Aug. 14, 1991, 105 Stat. 442; amended Pub. L. 107–306, title III, §353(b)(3)(C), (8), Nov. 27, 2002, 116 Stat. 2402.)
 
 #### Prior Provisions
 
 A prior section 503 of act July 26, 1947, ch. 343, was renumbered section 505 and is classified to section 415 of this title.
+
+#### Amendments
+
+2002—Subsecs. (b), (c)(1) to (3). Pub. L. 107–306, §353(b)(3)(C), substituted “congressional intelligence committees” for “intelligence committees” wherever appearing.
+
+Subsec. (c)(4). Pub. L. 107–306, §353(b)(8), substituted “congressional intelligence committee” for “intelligence committee”.
+
+Subsec. (d). Pub. L. 107–306, §353(b)(3)(C), substituted “congressional intelligence committees” for “intelligence committees”.
 
 #### Section Referred to in Other Sections
 

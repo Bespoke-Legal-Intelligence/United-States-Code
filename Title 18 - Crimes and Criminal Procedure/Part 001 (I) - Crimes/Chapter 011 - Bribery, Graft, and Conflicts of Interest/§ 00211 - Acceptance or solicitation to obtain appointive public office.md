@@ -22,7 +22,3 @@ A prior section 211, act June 25, 1948, ch. 645, 62 Stat. 693, related to an off
 
 1951—Act Sept. 13, 1951, inserted second paragraph.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
-

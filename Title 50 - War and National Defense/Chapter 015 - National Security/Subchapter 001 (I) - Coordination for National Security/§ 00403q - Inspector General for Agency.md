@@ -16,7 +16,7 @@ In order to—
 
 #### (b) Appointment; supervision; removal
 
-(1) There shall be at the head of the Office an Inspector General who shall be appointed by thePresident, by and with the advice and consent of the Senate. This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or auditing.
+(1) There shall be at the head of the Office an Inspector General who shall be appointed by the President, by and with the advice and consent of the Senate. This appointment shall be made without regard to political affiliation and shall be solely on the basis of integrity, compliance with the security standards of the Agency, and prior experience in the field of foreign intelligence. Such appointment shall also be made on the basis of demonstrated ability in accounting, financial analysis, law, management analysis, public administration, or auditing.
 
 (2) The Inspector General shall report directly to and be under the general supervision of the Director.
 
@@ -42,7 +42,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 #### (d) Semiannual reports; immediate reports of serious or flagrant problems; reports of functional problems; reports to Congress on urgent concerns
 
-(1) The Inspector General shall, not later than January 31 and July 31 of each year, prepare and submit to the Director of Central Intelligence a classified semiannual report summarizing the activities of the Office during the immediately preceding six-month periods ending December 31 (of the preceding year) and June 30, respectively. Within thirty days of receipt of such reports, the Director shall transmit such reports to the intelligence committees with any comments he may deem appropriate. Such reports shall, at a minimum, include a list of the title or subject of each inspection, investigation, or audit conducted during the reporting period and—
+(1) The Inspector General shall, not later than January 31 and July 31 of each year, prepare and submit to the Director of Central Intelligence a classified semiannual report summarizing the activities of the Office during the immediately preceding six-month periods ending December 31 (of the preceding year) and June 30, respectively. Not later than the dates each year provided for the transmittal of such reports in section 507 of the National Security Act of 1947 \[50 U.S.C. 415b\], the Director shall transmit such reports to the intelligence committees with any comments he may deem appropriate. Such reports shall, at a minimum, include a list of the title or subject of each inspection, investigation, or audit conducted during the reporting period and—
 
 &emsp;(A) a description of significant problems, abuses, and deficiencies relating to the administration of programs and operations of the Agency identified by the Office during the reporting period;
 
@@ -80,7 +80,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 &emsp;(C) a matter requires a report by the Inspector General to the Department of Justice on possible criminal conduct by a current or former Agency official described or referred to in subparagraph (B);
 
-&emsp;(D) the Inspector General receives notice from the Department of Justice declining or approving prosecution of possible criminal conduct of any of the officials described in subparagraph (B); or
+&emsp;(D) the Inspector General receives notice from the Department of Justice declining orapproving prosecution of possible criminal conduct of any of the officials described in subparagraph (B); or
 
 &emsp;(E) the Inspector General, after exhausting all possible alternatives, is unable to obtain significant documentary information in the course of an investigation, inspection, or audit,
 
@@ -128,7 +128,7 @@ It shall be the duty and responsibility of the Inspector General appointed under
 
 (3) The Inspector General is authorized to receive and investigate complaints or information from any person concerning the existence of an activity constituting a violation of laws, rules, or regulations, or mismanagement, gross waste of funds, abuse of authority, or a substantial and specific danger to the public health and safety. Once such complaint or information has been received from an employee of the Agency—
 
-&emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official of the Department of Justice responsible for determining whether a prosecution should be undertaken; and
+&emsp;(A) the Inspector General shall not disclose the identity of the employee without the consent of the employee, unless the Inspector General determines that such disclosure is unavoidable during the course of the investigation or the disclosure is made to an official ofthe Department of Justice responsible for determining whether a prosecution should be undertaken; and
 
 &emsp;(B) no action constituting a reprisal, or threat of reprisal, for making such complaint may be taken by any employee of the Agency in a position to take such actions, unless the complaint was made or the information was disclosed with the knowledge that it was false or with willful disregard for its truth or falsity.
 
@@ -156,7 +156,7 @@ Beginning with fiscal year 1991, and in accordance with procedures to be issued 
 
 There shall be transferred to the Office the office of the Agency referred to as the “Office of Inspector General.” The personnel, assets, liabilities, contracts, property, records, and unexpended balances of appropriations, authorizations, allocations, and other funds employed, held, used, arising from, or available to such “Office of Inspector General” are hereby transferred to the Office established pursuant to this section.
 
-(June 20, 1949, ch. 227, §17, as added Pub. L. 100–453, title V, §504, Sept. 29, 1988, 102 Stat. 1910; amended Pub. L. 101–193, title VIII, §801, Nov. 30, 1989, 103 Stat. 1711; Pub. L. 102–496, title VI, §601, Oct. 24, 1992, 106 Stat. 3187; Pub. L. 103–359, title IV, §402, Oct. 14, 1994, 108 Stat. 3427; Pub. L. 104–93, title IV, §403, Jan. 6, 1996, 109 Stat. 969; Pub. L. 105–107, title IV, §402, Nov. 20, 1997, 111 Stat. 2257; Pub. L. 105–272, title VII, §702(a), Oct. 20, 1998, 112 Stat. 2414; Pub. L. 106–567, title IV, §§402, 403, Dec. 27, 2000, 114 Stat. 2847, 2848; Pub. L. 107–108, title III, §309(a), Dec. 28, 2001, 115 Stat. 1399.)
+(June 20, 1949, ch. 227, §17, as added Pub. L. 100–453, title V, §504, Sept. 29, 1988, 102 Stat. 1910; amended Pub. L. 101–193, title VIII, §801, Nov. 30, 1989, 103 Stat. 1711; Pub. L. 102–496, title VI, §601, Oct. 24, 1992, 106 Stat. 3187; Pub. L. 103–359, title IV, §402, Oct. 14, 1994, 108 Stat. 3427; Pub. L. 104–93, title IV, §403, Jan. 6, 1996, 109 Stat. 969; Pub. L. 105–107, title IV, §402, Nov. 20, 1997, 111 Stat. 2257; Pub. L. 105–272, title VII, §702(a), Oct. 20, 1998, 112 Stat. 2414; Pub. L. 106–567, title IV, §§402, 403, Dec. 27, 2000, 114 Stat. 2847, 2848; Pub. L. 107–108, title III, §309(a), Dec. 28, 2001, 115 Stat. 1399; Pub. L. 107–306, title VIII, §811(b)(2), Nov. 27, 2002, 116 Stat. 2422.)
 
 #### References in Text
 
@@ -168,9 +168,11 @@ Section was enacted as part of the Central Intelligence Agency Act of 1949, and 
 
 #### Amendments
 
+2002—Subsec. (d)(1). Pub. L. 107–306 substituted “Not later than the dates each year provided for the transmittal of such reports in section 507 of the National Security Act of 1947,” for “Within thirty days of receipt of such reports,” in introductory provisions.
+
 2001—Subsec. (d)(5)(B). Pub. L. 107–108, §309(a)(1), substituted “Upon making such a determination, the Inspector General shall transmit to the Director notice of that determination, together with the complaint or information.” for “If the Inspector General determines that the complaint or information appears credible, the Inspector General shall, before the end of such period, transmit the complaint or information to the Director.”
 
-Subsec. (d)(5)(D)(i). Pub. L. 107–108, §309(a)(2), substituted “does not find credible under subparagraph (B) a complaint or information submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B),” for “does not transmit, or does not transmit in an accurate form, the complaint or information described in subparagraph (B),”.
+Subsec. (d)(5)(D)(i). Pub. L. 107–108, §309(a)(2), substituted “does not find credible under subparagraph (B)a complaint or information submitted under subparagraph (A), or does not transmit the complaint or information to the Director in accurate form under subparagraph (B),” for “does not transmit, or does not transmit in an accurate form, the complaint or information described in subparagraph (B),”.
 
 2000—Subsec. (d)(1)(E). Pub. L. 106–567, §402(a)(1), added subpar. (E) and struck out former subpar. (E) which read as follows: “a description of all cases occurring during the reporting period where the Inspector General could not obtain documentary evidence relevant to any inspection, audit, or investigation due to his lack of authority to subpoena such information; and”.
 
@@ -216,7 +218,7 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 403a, 403e, 403f of this title.
+This section is referred to in sections 403a, 403e, 403f, 415b of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “advice”.</i>
 

@@ -212,7 +212,7 @@ Any party to a hearing conducted pursuant to subsection (f) or (k) of this secti
 
 #### (C) Determination of amount of attorneys’ fees
 
-&emsp;&emsp;Fees awarded under this paragraph shall be based on rates prevailing in the community in which the action or proceeding arosefor the kind and quality of services furnished. No bonus or multiplier may be used in calculating the fees awarded under this subsection.
+&emsp;&emsp;Fees awarded under this paragraph shall be based on rates prevailing in the community in which the action or proceeding arose for the kind and quality of services furnished. No bonus or multiplier may be used in calculating the fees awarded under this subsection.
 
 #### (D) Prohibition of attorneys’ fees and related costs for certain services
 
@@ -376,7 +376,7 @@ Except as provided in subsection (k)(7) of this section, during the pendency of 
 
 #### (A) In general
 
-&emsp;&emsp;A child who has not been determined to be eligible for special education and related services under this subchapter and who has engaged in behavior that violated any rule or code of conduct of the local educational agency, including any behavior described in paragraph (1), may assert any of the protections provided for in this subchapter if the local educational agency had knowledge (as determined in accordance with this paragraph) that the child was a child with a disability before the behavior that precipitated the disciplinary action occurred.
+&emsp;&emsp;A child who has not been determined to be eligible for special education and related services under this subchapter and who has engaged in behavior that violated any rule or code of conduct of the local educational agency, including any behavior described inparagraph (1), may assert any of the protections provided for in this subchapter if the local educational agency had knowledge (as determined in accordance with this paragraph) that the child was a child with a disability before the behavior that precipitated the disciplinary action occurred.
 
 #### (B) Basis of knowledge
 

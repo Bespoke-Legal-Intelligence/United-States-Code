@@ -10,5 +10,5 @@ Pub. L. 92–342, §101, July 10, 1972, 86 Stat. 447, provided that: “Hereafte
 
 #### Written Requests for Documents
 
-Copies of District of Columbia Code and Supplements not available to Senators or Representatives unless specifically requested by them, in writing, see Pub. L. 94–59, title VIII, §801, July 25, 1975, 89 Stat. 296, set out as a note under section 1317 of Title 44, Public Printing and Documents.
+Copies of District of Columbia Code and Supplements not available to Senators or Representatives unlessspecifically requested by them, in writing, see Pub. L. 94–59, title VIII, §801, July 25, 1975, 89 Stat. 296, set out as a note under section 1317 of Title 44, Public Printing and Documents.
 

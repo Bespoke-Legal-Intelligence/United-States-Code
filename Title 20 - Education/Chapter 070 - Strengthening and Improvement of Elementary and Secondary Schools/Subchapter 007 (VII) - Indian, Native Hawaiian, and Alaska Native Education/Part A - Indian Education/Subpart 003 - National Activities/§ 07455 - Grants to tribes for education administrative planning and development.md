@@ -38,7 +38,7 @@ Each grant awarded under this section may be awarded for a period of not more th
 
 &emsp;The Secretary may approve an application submitted by a tribe or tribal organization pursuant to this section only if the Secretary is satisfied that such application, including any documentation submitted with the application—
 
-&emsp;&emsp;(A) demonstrates that the applicant has consulted with other education entities, ifany, within the territorial jurisdiction of the applicant who will be affected by the activities to be conducted under the grant;
+&emsp;&emsp;(A) demonstrates that the applicant has consulted with other education entities, if any, within the territorial jurisdiction of the applicant who will be affected by the activities to be conducted under the grant;
 
 &emsp;&emsp;(B) provides for consultation with such other education entities in the operation and evaluation of the activities conducted under the grant; and
 

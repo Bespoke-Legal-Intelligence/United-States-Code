@@ -30,7 +30,7 @@
 
 &emsp;(ii) such person has been granted an exemption under section 2603(c) of this title from the requirements of a rule promulgated under section 2603 of this title before the submission of such notice,
 
-> such person may not, before the expiration of the 90 day period which begins on the date of the submission in accordance with such rule of the test data the submission or development of which was the basis for the exemption, manufacture such substance if such person is subject to subsection (a)(1)(A) of this section or manufacture or process such substance for a significantnew use if the person is subject to subsection (a)(1)(B) of this section.
+> such person may not, before the expiration of the 90 day period which begins on the date of the submission in accordance with such rule of the test data the submission or development of which was the basis for the exemption, manufacture such substance if such person is subject to subsection (a)(1)(A) of this section or manufacture or process such substance for a significant new use if the person is subject to subsection (a)(1)(B) of this section.
 
 (2)(A) If a person—
 
@@ -112,7 +112,7 @@ The Administrator may for good cause extend for additional periods (not to excee
 
 > the Administrator, through attorneys of the Environmental Protection Agency, shall apply to the United States District Court for the District of Columbia or the United States district court for the judicial district in which the manufacturer or processor, as the case may be, of such substance is found, resides, or transacts business for an injunction to prohibit or limit the manufacture, processing, distribution in commerce, use, or disposal of such substance (or to prohibit or limit any combination of such activities).
 
-(ii) If the Administrator issues a proposed order under paragraph (1)(A) respecting a chemical substance but such order does not take effect because objections have been filed under paragraph (1)(C) with respect to it, the Administrator is not required to apply for an injunction under clause (i) respecting such substance if the Administrator determines, on the basis of such objections, that the determinations under paragraph (1)(A) may not be made.
+(ii) If the Administrator issues a proposed order under paragraph (1)(A) respecting a chemical substance but such order does not take effectbecause objections have been filed under paragraph (1)(C) with respect to it, the Administrator is not required to apply for an injunction under clause (i) respecting such substance if the Administrator determines, on the basis of such objections, that the determinations under paragraph (1)(A) may not be made.
 
 (B) A district court of the United States which receives an application under subparagraph (A)(i) for an injunction respecting a chemical substance shall issue such injunction if the court finds that—
 

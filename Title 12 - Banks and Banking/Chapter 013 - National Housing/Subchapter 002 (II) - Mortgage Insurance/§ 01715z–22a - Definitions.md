@@ -16,7 +16,7 @@ For purposes of this subtitle:
 
 &emsp;(4) The term “Secretary” means the Secretary of Housing and Urban Development.
 
-&emsp;(5) The term “qualified participating entity” means an entity approved by the Secretary for participation in the pilot program under this subsection, which may include—
+&emsp;(5) The term “qualified participating entity” means an entity approved by the Secretary forparticipation in the pilot program under this subsection, which may include—
 
 &emsp;&emsp;(A) the Federal National Mortgage Association;
 
@@ -30,7 +30,7 @@ For purposes of this subtitle:
 
 #### References in Text
 
-This subtitle, referred to in text, means subtitle C (§§541–544) of Pub. L. 102–550, title V, Oct. 28, 1992, 106Stat. 3794, as amended, known as the Multifamily Housing Finance Improvement Act, which enacted this section and section 1715z–22 of this title and provisions set out as a note under section 1701 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1701 of this title and Tables.
+This subtitle, referred to in text, means subtitle C (§§541–544) of Pub. L. 102–550, title V, Oct. 28, 1992, 106 Stat. 3794, as amended, known as the Multifamily Housing Finance Improvement Act, which enacted this section and section 1715z–22 of this title and provisions set out as a note under section 1701 of this title. For complete classification of this Act to the Code, see Short Title of 1992 Amendment note set out under section 1701 of this title and Tables.
 
 #### Codification
 

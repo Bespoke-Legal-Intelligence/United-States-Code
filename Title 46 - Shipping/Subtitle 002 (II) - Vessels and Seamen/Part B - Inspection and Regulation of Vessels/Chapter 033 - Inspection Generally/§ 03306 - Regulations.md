@@ -1,6 +1,6 @@
 ### §3306. Regulations
 
-(a) To carry out this part and to secure the safety of individuals and property on board vessels subject to inspection, the Secretary shall prescribe necessary regulations to ensure the proper execution of, and to carry out, this part in the most effective manner for—
+(a) To carry out this part and to secure the safety of individuals and property on board vessels subject to inspection, the Secretary shall prescribe necessary regulations to ensure theproper execution of, and to carry out, this part in the most effective manner for—
 
 &emsp;(1) the design, construction, alteration, repair, and operation of those vessels, including superstructures, hulls, fittings, equipment, appliances, propulsion machinery, auxiliary machinery, boilers, unfired pressure vessels, piping, electric installations, and accommodations for passengers and crew, sailing school instructors, and sailing school students;
 

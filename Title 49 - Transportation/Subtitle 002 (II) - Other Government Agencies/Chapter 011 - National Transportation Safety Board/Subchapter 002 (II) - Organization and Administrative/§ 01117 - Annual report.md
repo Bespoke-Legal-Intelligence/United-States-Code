@@ -26,7 +26,7 @@ Historical and Revision Notes
 
 Jan. 3, 1975, Pub. L. 93–633, §305, 88 Stat. 2171.
 
-In this section, before clause (1), the words “but need not be limited to” are omitted as surplus. In clause (2),the words “in such detail as the Board deems advisable” are omitted as surplus. In clause (3), the words “departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities” are substituted for “other government agencies” for clarity and consistency in the revised title and with other titles of the United States Code. The words “for those activities” are substituted for “in this field” for clarity. In clause (4), the word “evaluation” is substituted for “appraisal and evaluation and review” because it is inclusive.
+In this section, before clause (1), the words “but need not be limited to” are omitted as surplus. In clause (2), the words “in such detail as the Board deems advisable” are omitted as surplus. In clause (3), the words “departments, agencies, and instrumentalities of the United States Government and State and local governmental authorities” are substituted for “other government agencies” for clarity and consistency in the revised title and with other titles of the United States Code. The words “for those activities” are substituted for “in this field” for clarity. In clause (4), the word “evaluation” is substituted for “appraisal and evaluation and review” because it is inclusive.
 
 #### Amendments
 

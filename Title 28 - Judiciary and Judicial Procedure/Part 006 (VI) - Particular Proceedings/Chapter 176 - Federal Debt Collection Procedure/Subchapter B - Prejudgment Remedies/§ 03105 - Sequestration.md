@@ -12,7 +12,7 @@ Property Subject to Sequestration.—(1) Any income from property in which the d
 
 (b)
 
-Availability of Sequestration.—If the requirements of section 3101 are satisfied, a court shall issue a writ authorizing the United States to sequester income from property in which the debtor has a substantial nonexempt interest, as security for such judgment (and interest and costs) as the United States may recover on a claim for a debt—
+Availability of Sequestration.—If the requirements of section 3101 are satisfied, a court shall issue a writ authorizing the United States to sequester income from property in which the debtor has a substantial nonexempt interest, assecurity for such judgment (and interest and costs) as the United States may recover on a claim for a debt—
 
 &emsp;(1) in an action on a contract, express or implied, against the debtor for payment of money, only if the United States shows reasonable cause to believe that—
 
@@ -62,7 +62,7 @@ Deposit of Sequestered Income.—A person who has possession of the income subje
 
 (f)
 
-Return of Writ; Duties of Marshal; Further Return.—(1) A United States marshal executing a writ of sequestration shall return the writ with the marshal's action endorsed thereonor attached thereto and signed by the marshal, to the court from which it was issued, within 5 days after the date of the execution.
+Return of Writ; Duties of Marshal; Further Return.—(1) A United States marshal executing a writ of sequestration shall return the writ with the marshal's action endorsed thereon or attached thereto and signed by the marshal, to the court from which it was issued, within 5 days after the date of the execution.
 
 (2) The return shall describe the income sequestered with sufficient certainty to identify it and shall state the location where it was sequestered, and the date and time it was sequestered. If no income was sequestered, the return shall so state.
 

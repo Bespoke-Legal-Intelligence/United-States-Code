@@ -2,7 +2,7 @@
 
 #### (a) Establishment; appointment of members
 
-There is established a council to be known as the National Advisory Council on the National Health Service Corps (hereinafter in this sectionreferred to as the “Council”). The Council shall be composed of not more than 15 members appointed by the Secretary. The Council shall consult with, advise, and make recommendations to, the Secretary with respect to his responsibilities in carrying out this subpart (other than section 254r <sup>1</sup> of this title), and shall review and comment upon regulations promulgated by the Secretary under this subpart.
+There is established a council to be known as the National Advisory Council on the National Health Service Corps (hereinafter in this section referred to as the “Council”). The Council shall be composed of not more than 15 members appointed by the Secretary. The Council shall consult with, advise, and make recommendations to, the Secretary with respect to his responsibilities in carrying out this subpart (other than section 254r <sup>1</sup> of this title), and shall review and comment upon regulations promulgated by the Secretary under this subpart.
 
 #### (b) Term of members; compensation; expenses
 
@@ -44,7 +44,7 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254g, 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 11709 of this title.
+This section is referred to in sections 254k, 254<i>l</i>, 254<i>l</i>–1, 254m, 254q–1, 11709 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ The Secretary of Agriculture may, when in his judgment such action will be in th
 
 #### Amendments
 
-1976—Pub. L. 94–588 struck out “or” before “(3)” and substituted “, or (4) protecting and improving the future productivity of the renewable resources of the forest land on such sale area, including sale area improvement operations, maintenance and construction, reforestation and wildlife habitat management” for “: <i>Provided</i>, That the total amount so required to be deposited by any purchaser shall not exceed, on an acreage basis, the average cost of planting (including the production or purchase of young trees) other comparable national-forest lands during the previous three years”.
+1976—Pub. L. 94–588 struck out “or” before “(3)” and substituted “, or (4) protecting and improving the future productivity of the renewable resources of the forest land on such sale area, including sale area improvement operations, maintenance and construction, reforestation and wildlife habitat management” for “: <i>Provided</i>, That the total amount so required to be deposited by any purchaser shall not exceed, on an acreage basis, the average cost of planting (including theproduction or purchase of young trees) other comparable national-forest lands during the previous three years”.
 
 #### Section Referred to in Other Sections
 

@@ -54,7 +54,7 @@ In the case of a System institution that requests certification under section 22
 
 #### (c) Undated letters of resignation
 
-The Assistance Board shall not, for any reason, request or require any member of the board of directors of any System institution to submit to the Assistance Board an undated letter of resignation. Immediately after January 6, 1988, the Assistance Board shall destroy all such letters over which it has control.
+The Assistance Board shall not, for any reason, request or require any member of the boardof directors of any System institution to submit to the Assistance Board an undated letter of resignation. Immediately after January 6, 1988, the Assistance Board shall destroy all such letters over which it has control.
 
 #### (d) Reports
 

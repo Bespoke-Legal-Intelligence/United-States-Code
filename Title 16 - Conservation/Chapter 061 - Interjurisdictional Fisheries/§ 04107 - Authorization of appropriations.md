@@ -4,11 +4,9 @@
 
 There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter—
 
-&emsp;(1) $3,400,000 for fiscal year 1996;
+&emsp;(1) $5,400,000 for each of fiscal years 2003 and 2004; and
 
-&emsp;(2) $3,900,000 for fiscal year 1997;
-
-&emsp;(3) $4,400,000 for each of the fiscal years 1998, 1999, and 2000.
+&emsp;(2) $5,900,000 for each of fiscal years 2005 and 2006.
 
 #### (b) Additional appropriations
 
@@ -24,9 +22,9 @@ In addition to the amounts authorized in subsection (a) of this section, there a
 
 #### (c) Development of management plans
 
-In addition to the amounts authorized under subsections (a) and (b) of this section, there are authorized to be appropriated to the Department of Commerce $700,000 for fiscal year 1997, and $750,000 for each of the fiscal years 1998, 1999, and 2000, to support the efforts of the following interstate commissions to develop interstate fishery management plans for interjurisdictional fishery resources:
+In addition to the amounts authorized under subsections (a) and (b) of this section, there are authorized to be appropriated to the Department of Commerce $850,000 for each of fiscal years 2003 and 2004, and $900,000 for each of fiscal years 2005 and 2006, to support the efforts of the following interstate commissions to develop interstate fishery management plans for interjurisdictional fishery resources:
 
-&emsp;(1) The commission established by the Atlantic States Marine Fisheries Compact, asconsented to and approved by Public Law 77–539 (56 Stat. 267), approved May 4, 1942.
+&emsp;(1) The commission established by the Atlantic States Marine Fisheries Compact, as consented to and approved by Public Law 77–539 (56 Stat. 267), approved May 4, 1942.
 
 &emsp;(2) The commission established by the Pacific Marine Fisheries Compact, as consented to and approved by Public Law 80–232 (61 Stat. 419), approved July 24, 1947.
 
@@ -70,7 +68,7 @@ In addition to the amounts authorized under subsections (a) and (b) of this sect
 
 &emsp;(D) an estimate of conservation benefits (such as reduction in fishing mortality) directly attributable to the fishing capacity reduction program.
 
-(Pub. L. 99–659, title III, §308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, §9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, §811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, §21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, §101\[(a)\] \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, §402, Oct. 11, 1996, 110 Stat. 3618.)
+(Pub. L. 99–659, title III, §308, Nov. 14, 1986, 100 Stat. 3736; Pub. L. 101–627, title V, §§502, 503, Nov. 28, 1990, 104 Stat. 4463; Pub. L. 102–396, title IX, §9135, Oct. 6, 1992, 106 Stat. 1937; Pub. L. 103–206, title VIII, §811, Dec. 20, 1993, 107 Stat. 2454; Pub. L. 103–238, §21, Apr. 30, 1994, 108 Stat. 561; Pub. L. 104–134, title I, §101\[(a)\] \[title II, §211\], Apr. 26, 1996, 110 Stat. 1321, 1321–31; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–297, title IV, §402, Oct. 11, 1996, 110 Stat. 3618; Pub. L. 107–372, title III, §302(a), Dec. 19, 2002, 116 Stat. 3094.)
 
 #### References in Text
 
@@ -81,6 +79,16 @@ Public Law 80–232, referred to in subsec. (c)(2), is act July 24, 1947, ch. 31
 Public Law 81–66, referred to in subsec. (c)(3), is act May 19, 1949, ch. 128, 63 Stat. 70, which is not classified to the Code.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–372, §302(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter—
+
+&emsp;“(1) $3,400,000 for fiscal year 1996;
+
+&emsp;“(2) $3,900,000 for fiscal year 1997;
+
+&emsp;“(3) $4,400,000 for each of the fiscal years 1998, 1999, and 2000.”
+
+Subsec. (c). Pub. L. 107–372, §302(a)(2), substituted “$850,000 for each of fiscal years 2003 and 2004, and $900,000 for each of fiscal years 2005 and 2006” for “$700,000 for fiscal year 1997, and $750,000 for each of the fiscal years 1998, 1999, and 2000” in introductory provisions.
 
 1996—Subsec. (a). Pub. L. 104–297, §402(a)(1), amended heading and text of subsec. (a) generally. Prior to amendment, text read as follows: “There are authorized to be appropriated to the Department of Commerce for apportionment to carry out the purposes of this chapter $5,000,000 for each of the fiscal years 1989, 1990, 1991, 1992, 1993, 1994, and 1995.”
 
@@ -94,7 +102,7 @@ Subsec. (d)(3). Pub. L. 104–134, §101\[(a)\] \[title II, §211(3), (4)\], sub
 
 Subsec. (d)(4). Pub. L. 104–134, §101\[(a)\] \[title II, §211(5)\], added par. (4) and struck former par. (4) which read as follows: “A person may receive a grant under this subsection for up to 75 percent of any uninsured commercial fishery loss resulting from such a fishery resource disaster (to the extent that such losses have not been compensated by other Federal and State programs), but shall receive no more than $100,000 in the aggregate for all such losses suffered as a result of any particular fishery resource disaster.”
 
-Subsec. (d)(5). Pub. L. 104–134, §101\[(a)\] \[title II, §211(6)\], substituted “for receiving assistance under this subsection” for “for awarding grants under this subsection, including provisions specifying the means by which applicants must demonstrate claimed losses and limiting the aggregate amounts that may be paid to persons that are affiliated with each other or under common ownership.”
+Subsec. (d)(5). Pub. L. 104–134, §101\[(a)\] \[title II, §211(6)\], substituted “for receiving assistance underthis subsection” for “for awarding grants under this subsection, including provisions specifying the means by which applicants must demonstrate claimed losses and limiting the aggregate amounts that may be paid to persons that are affiliated with each other or under common ownership.”
 
 Subsec. (d)(7). Pub. L. 104–297, §402(b), added par. (7).
 

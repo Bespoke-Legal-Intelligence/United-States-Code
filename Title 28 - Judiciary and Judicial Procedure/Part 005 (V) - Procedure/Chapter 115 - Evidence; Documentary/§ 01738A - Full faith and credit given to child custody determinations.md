@@ -56,9 +56,9 @@
 
 #### Amendments
 
-<b>2000</b>—Subsec. (c)(2)(C)(ii). Pub. L. 106–386 substituted “the child, a sibling, or parent of the child” for “he”.
+2000—Subsec. (c)(2)(C)(ii). Pub. L. 106–386 substituted “the child, a sibling, or parent of the child” for “he”.
 
-<b>1998</b>—Subsec. (a). Pub. L. 105–374, §1(a), substituted “subsections (f), (g), and (h) of this section, any custody determination or visitation determination” for “subsection (f) of this section, any child custody determination”.
+1998—Subsec. (a). Pub. L. 105–374, §1(a), substituted “subsections (f), (g), and (h) of this section, any custody determination or visitation determination” for “subsection (f) of this section, any child custody determination”.
 
 Subsec. (b)(2). Pub. L. 105–374, §1(b), inserted “or grandparent” after “parent”.
 
@@ -98,7 +98,7 @@ Sufficiency of Defenses.—In carrying out subsection (a) with respect to the Pa
 
 Authorization of Appropriations.—There is authorized to be appropriated to carry out this section $200,000 for fiscal year 2001.”
 
-\[For definitions of “domestic violence” and “sexual assault” as used in section 1303(a)–(c) of Pub. L. 106–386, set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of Title 42.\]
+\[For definitions of “domestic violence” and “sexual assault” as used in section 1303(a)–(c) of Pub. L. 106–386,set out above, see section 1002 of Pub. L. 106–386, set out as a note under section 3796gg–2 of Title 42.\]
 
 #### Congressional Findings and Declaration of Purpose
 

@@ -18,6 +18,10 @@ The Executive Office of Immigration Review of the Department of Justice shall in
 
 2002—Subsec. (b). Pub. L. 107–132 substituted “George P. Shultz National Foreign Affairs Training Center” for “National Foreign Affairs Training Center”.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 6412 of this title.

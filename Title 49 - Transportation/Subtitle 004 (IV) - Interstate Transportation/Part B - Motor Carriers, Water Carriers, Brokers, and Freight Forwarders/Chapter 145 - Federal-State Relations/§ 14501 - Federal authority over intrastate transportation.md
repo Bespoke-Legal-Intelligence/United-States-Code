@@ -86,7 +86,39 @@ Election.—Notwithstanding any other provision of law, a carrier affiliated wit
 
 Nonapplicability to hawaii.—This subsection shall not apply with respect to the State of Hawaii.
 
-(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 899; amended Pub. L. 105–178, title IV, §4016, June 9, 1998, 112 Stat. 412; Pub. L. 105–277, div. C, title I, §106, Oct. 21, 1998, 112 Stat. 2681–586.)
+(d)
+
+Pre-Arranged Ground Transportation.—
+
+&emsp;(1)
+
+In general.—No State or political subdivision thereof and no interstate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard or other provision having the force and effect of law requiring a license or fee on account of the fact that a motor vehicle is providing pre-arranged ground transportation service if the motor carrier providing such service—
+
+&emsp;&emsp;(A) meets all applicable registration requirements under chapter 139 for the interstate transportation of passengers;
+
+&emsp;&emsp;(B) meets all applicable vehicle and intrastate passenger licensing requirements of the State or States in which the motor carrier is domiciled or registered to do business; and
+
+&emsp;&emsp;(C) is providing such service pursuant to a contract for—
+
+&emsp;&emsp;&emsp;(i) transportation by the motor carrier from one State, including intermediate stops, to a destination in another State; or
+
+&emsp;&emsp;&emsp;(ii) transportation by the motor carrier from one State, including intermediate stops in another State, to a destination in the original State.
+
+&emsp;(2)
+
+Intermediate stop defined.—In this section, the term “intermediate stop”, with respect to transportation by a motor carrier, means a pause in the transportation in order for one or more passengers to engage in personal or business activity, but only if the driver providing the transportation to such passenger or passengers does not, before resuming the transportation of such passenger (or at least 1 of such passengers), provide transportation to any other person not included among the passengers being transported when the pause began.
+
+&emsp;(3)
+
+Matters not covered.—Nothing in this subsection shall be construed—
+
+&emsp;&emsp;(A) as subjecting taxicab service to regulation under chapter 135 or section 31138;
+
+&emsp;&emsp;(B) as prohibiting or restricting an airport, train, or bus terminal operator from contracting to provide preferential access or facilities to one or more providers of pre-arranged ground transportation service; and
+
+&emsp;&emsp;(C) as restricting the right of any State or political subdivision of a State to require, in a nondiscriminatory manner, that any individual operating a vehicle providing prearranged ground transportation service originating in the State or political subdivision have submitted to pre-licensing drug testing or a criminal background investigation of the records of the State in which the operator is domiciled, by the State or political subdivision by which the operator is licensed to provide such service, or by the motor carrier providing such service, as a condition of providing such service.
+
+(Added Pub. L. 104–88, title I, §103, Dec. 29, 1995, 109 Stat. 899; amended Pub. L. 105–178, title IV, §4016, June 9, 1998, 112 Stat. 412; Pub. L. 105–277, div. C, title I, §106, Oct. 21, 1998, 112 Stat. 2681–586; Pub. L. 107–298, §2, Nov. 26, 2002, 116 Stat. 2342.)
 
 #### References in Text
 
@@ -97,6 +129,8 @@ The Surface Freight Forwarder Deregulation Act of 1986, referred to in subsec. (
 Provisions similar to those in this section were contained in section 11501 of this title prior to the general amendment of this subtitle by Pub. L. 104–88, §102(a).
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–298 added subsec. (d).
 
 1998—Subsec. (a). Pub. L. 105–178 reenacted heading without change and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “No State or political subdivision thereof and no interstate agency or other political agency of 2 or more States shall enact or enforce any law, rule, regulation, standard, or other provision having the force and effect of law relating to scheduling of interstate or intrastate transportation (including discontinuance or reduction in the level of service) provided by motor carrier of passengers subject to jurisdiction under subchapter I of chapter 135 of this title on an interstate route or relating to the implementation of any change in the rates for such transportation or for any charter transportation except to the extent that notice, not in excess of 30 days, of changes in schedules may be required. This subsection shall not apply to intrastate commuter bus operations.”
 

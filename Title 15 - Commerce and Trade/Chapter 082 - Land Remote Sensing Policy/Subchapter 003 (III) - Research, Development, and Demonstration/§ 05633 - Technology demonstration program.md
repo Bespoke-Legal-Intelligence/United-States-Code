@@ -16,7 +16,7 @@ In executing the technology demonstration program, the President shall seek to a
 
 #### (c) Broad application
 
-To the greatest extent practicable, the technology demonstration program established under subsection (a) of this section shall be designed to be responsive to the broad civilian, national security, commercial, and foreign policy needs of the United States.
+To the greatest extent practicable, the technology demonstration program establishedunder subsection (a) of this section shall be designed to be responsive to the broad civilian, national security, commercial, and foreign policy needs of the United States.
 
 #### (d) Private sector funding
 

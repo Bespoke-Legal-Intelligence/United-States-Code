@@ -16,7 +16,7 @@ The Congress finds and declares the following:
 
 &emsp;(7) Despite the success and importance of the Landsat system, funding and organizational uncertainties over the past several years have placed its future in doubt and have jeopardized United States leadership in land remote sensing.
 
-&emsp;(8) Recognizing the importance of the Landsat program in helping to meet national andcommercial objectives, the President approved, on February 11, 1992, a National Space Policy Directive which was developed by the National Space Council and commits the United States to ensuring the continuity of Landsat coverage into the 21st century.
+&emsp;(8) Recognizing the importance of the Landsat program in helping to meet national and commercial objectives, the President approved, on February 11, 1992, a National Space Policy Directive which was developed by the National Space Council and commits the United States to ensuring the continuity of Landsat coverage into the 21st century.
 
 &emsp;(9) Because Landsat data are particularly important for national security purposes and global environmental change research, management responsibilities for the program should be transferred from the Department of Commerce to an integrated program management involving the Department of Defense and the National Aeronautics and Space Administration.
 

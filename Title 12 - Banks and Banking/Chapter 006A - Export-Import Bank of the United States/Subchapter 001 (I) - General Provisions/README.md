@@ -29,3 +29,4 @@ This subchapter is referred to in sections 635a–3, 635m of this title; title 2
 - [&sect; 00635i&#8211;6 - Debt reduction; Enterprise for the Americas Initiative](%C2%A7%2000635i%E2%80%936%20-%20Debt%20reduction%3B%20Enterprise%20for%20the%20Americas%20Initiative.md)
 - [&sect; 00635i&#8211;7 - Cooperation on export financing programs](%C2%A7%2000635i%E2%80%937%20-%20Cooperation%20on%20export%20financing%20programs.md)
 - [&sect; 00635i&#8211;8 - Special debt relief for poorest, most heavily indebted countries](%C2%A7%2000635i%E2%80%938%20-%20Special%20debt%20relief%20for%20poorest%2C%20most%20heavily%20indebted%20countries.md)
+- [&sect; 00635i&#8211;9 - Market windows](%C2%A7%2000635i%E2%80%939%20-%20Market%20windows.md)

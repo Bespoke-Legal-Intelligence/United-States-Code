@@ -24,6 +24,8 @@ Composition and Appointment.—(1) The Technical Pipeline Safety Standards Commi
 
 (C) Two of the individuals selected for each committee under paragraph (3)(C) of this subsection must have education, background, or experience in environmental protection or public safety. At least 1 of the individuals selected for each committee under paragraph (3)(C) shall have education, background, or experience in risk assessment and cost-benefit analysis. At least one individual selected for each committee under paragraph (3)(C) may not have a financial interest in the pipeline, petroleum, or natural gas industries.
 
+(D) None of the individuals selected for a committee under paragraph (3)(C) may have a significant financial interest in the pipeline, petroleum, or gas industry.
+
 (c)
 
 Committee Reports on Proposed Standards.—(1) The Secretary shall give to—
@@ -50,7 +52,7 @@ Meetings.—Each committee shall meet with the Secretary at least up to 4 times 
 
 Expenses.—A member of a committee under this section is entitled to expenses under section 5703 of title 5. A payment under this subsection does not make a member an officer or employee of the Government. This subsection does not apply to members regularly employed by the Government.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1319; Pub. L. 104–88, title III, §308(m), Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–304, §10, Oct. 12, 1996, 110 Stat. 3801.)
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1319; Pub. L. 104–88, title III, §308(m), Dec. 29, 1995, 109 Stat. 948; Pub. L. 104–304, §10, Oct. 12, 1996, 110 Stat. 3801; Pub. L. 107–355, §20(b), Dec. 17, 2002, 116 Stat. 3010.)
 
 Historical and Revision Notes
 
@@ -160,7 +162,7 @@ In subsection (c)(3), the words “final . . . or a final amendment to a stand
 
 In subsection (d), the words “for his consideration” are omitted as surplus.
 
-In subsection (e), the words “(or his designee)” are omitted as surplus because of 49:322(b). The words “at least” are substituted for “not less frequently than” toeliminate unnecessary words. The word “calendar” is omitted as surplus.
+In subsection (e), the words “(or his designee)” are omitted as surplus because of 49:322(b). The words “at least” are substituted for “not less frequently than” to eliminate unnecessary words. The word “calendar” is omitted as surplus.
 
 In subsection (f), the words “The Secretary may establish the pay” are substituted for “may be compensated at a rate to be fixed by the Secretary” for consistency and to eliminate unnecessary words. The words “of the Committee” after “Members”, “actual”, and “then currently” are omitted as surplus. The reference to section 5376 of title 5 is substituted for the reference to section 5332 of title 5 because of section 529 of the Treasury, Postal Service and General Government Appropriations Act, 1991 (Public Law 101–509, 104 Stat. 1442). The words “A member is entitled to expenses under section 5703 of title 5” are substituted for 49 App.:1673(c) (2d sentence) and 2003(c) (2d sentence) to eliminate unnecessary words. The words “for any purpose” are omitted as surplus. The words “This subsection does not apply to members regularly employed by the Government” are substituted for “other than Federal employees” for clarity.
 
@@ -169,6 +171,8 @@ In subsection (f), the words “The Secretary may establish the pay” are subst
 The date of the enactment of the Accountable Pipeline Safety and Partnership Act of 1996, referred to in subsec. (a), is the date of enactment of Pub. L. 104–304, which was approved Oct. 12, 1996.
 
 #### Amendments
+
+2002—Subsec. (b)(4)(D). Pub. L. 107–355 added subpar. (D).
 
 1996—Subsec. (a). Pub. L. 104–304, §10(a), inserted at end “The committees referred to in the preceding sentence shall serve as peer review committees for carrying out this chapter. Peer reviews conducted by the committees shall be treated for purposes of all Federal laws relating to risk assessment and peer review (including laws that take effect after the date of the enactment of the Accountable Pipeline Safety and Partnership Act of 1996) as meeting any peer review requirements of such laws.”
 
@@ -194,7 +198,7 @@ Subsec. (f). Pub. L. 104–304, §10(e), substituted “
 
 Expenses” for “
 
-Pay and Expenses” in heading, struck out “The Secretary may establish the pay for each member of a committee for each day (including travel time) when performing duties of the committee. However, a member may not be paid more than the daily equivalent of the maximum annual rate of basic pay payable under section 5376 of title 5.” after heading, and inserted “of a committee under this section” after “A member”.
+Pay and Expenses” in heading, struck out “The Secretary may establish the pay for each member of a committee for each day (including traveltime) when performing duties of the committee. However, a member may not be paid more than the daily equivalent of the maximum annual rate of basic pay payable under section 5376 of title 5.” after heading, and inserted “of a committee under this section” after “A member”.
 
 1995—Subsec. (b)(4)(A). Pub. L. 104–88 struck out “(referred to in section 10344(f) of this title)” after “commissions”.
 

@@ -44,7 +44,7 @@
 
 #### (2) Special rule
 
-&emsp;If the school has a parental involvement policy that applies to all parents, such school may amend that policy, if necessary, to meet the requirements of this subsection.
+&emsp;If the school has a parental involvement policy that applies to all parents, such schoolmay amend that policy, if necessary, to meet the requirements of this subsection.
 
 #### (3) Amendment
 

@@ -12,7 +12,7 @@ Subject to subsection (b) of this section, the term of office of a member of the
 
 #### (b) Vacancies
 
-Any member appointed to fill a vacancy for an unexpired term of a member shall serve for theremainder of the unexpired term. A member of the Advisory Commission may serve after the expiration of such member's term until a successor has been appointed and taken office.
+Any member appointed to fill a vacancy for an unexpired term of a member shall serve for the remainder of the unexpired term. A member of the Advisory Commission may serve after the expiration of such member's term until a successor has been appointed and taken office.
 
 (Pub. L. 100–690, title I, §1045, as added Pub. L. 105–20, §2(a)(2), June 27, 1997, 111 Stat. 233.)
 

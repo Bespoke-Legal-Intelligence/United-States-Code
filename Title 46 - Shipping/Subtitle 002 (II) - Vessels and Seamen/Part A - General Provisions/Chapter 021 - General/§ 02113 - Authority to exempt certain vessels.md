@@ -12,7 +12,7 @@ If the Secretary decides that the application of a provision of part B, C, F, or
 
 &emsp;&emsp;(A) makes application for inspection to the Coast Guard within 6 months of the date of enactment of the Passenger Vessel Safety Act of 1993; and
 
-&emsp;&emsp;(B) provides satisfactory documentation that the vessel was chartered at least oncewithin the previous 12 months prior to the date of enactment of that Act; and
+&emsp;&emsp;(B) provides satisfactory documentation that the vessel was chartered at least once within the previous 12 months prior to the date of enactment of that Act; and
 
 &emsp;(5) establish different structural fire protection, manning, operating, and equipment requirements for former public vessels of the United States of at least 100 gross tons but less than 500 gross tons as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title, carrying not more than 150 passengers on domestic voyages, if the owner of the vessel—
 
@@ -46,11 +46,15 @@ The date of enactment of the Passenger Vessel Safety Act of 1993, referred to in
 
 Par. (5). Pub. L. 104–324, §710(2), inserted “as measured under section 14502 of this title, or an alternate tonnage measured under section 14302 of this title as prescribed by the Secretary under section 14104 of this title” after “less than 500 gross tons”.
 
-1993—Pub. L. 103–206 amended section catchline and text generally. Prior to amendment, text read as follows: “If the Secretary decides that the application of a provision of part B or F of this subtitle is not necessary in performing the mission of a vessel engaged in excursions or an oceanographic research vessel, the Secretary by regulation may—
+1993—Pub. L. 103–206 amended section catchline and text generally. Prior to amendment, text read as follows: “If the Secretary decides that the application of a provision of part B or F of this subtitle is not necessary in performing the mission of a vessel engaged inexcursions or an oceanographic research vessel, the Secretary by regulation may—
 
 &emsp;“(1) for an excursion vessel, issue a special permit specifying the conditions of operation and equipment; and
 
 &emsp;“(2) exempt the oceanographic research vessel from that provision under conditions the Secretary may specify.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

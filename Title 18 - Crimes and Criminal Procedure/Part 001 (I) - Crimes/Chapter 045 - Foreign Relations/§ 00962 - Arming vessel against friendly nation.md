@@ -28,5 +28,5 @@ Minor change was made in phraseology.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14 of this title; title 22 section 461.
+This section is referred to in title 22 section 461.
 

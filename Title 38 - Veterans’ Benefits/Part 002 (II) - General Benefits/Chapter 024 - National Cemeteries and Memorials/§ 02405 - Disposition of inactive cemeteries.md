@@ -6,7 +6,7 @@
 
 (c) If a cemetery not under the control of the National Cemetery Administration has been or is to be discontinued, the Secretary may provide for the removal of remains from that cemetery to any cemetery under the control of such Administration. The Secretary may also provide for the removal of the remains of any veteran from a place of temporary interment, or from an abandoned grave or cemetery, to a national cemetery.
 
-(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 77, §1005; amended Pub. L. 99–576, title VII,§701(56), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), (4), Dec. 18, 1989, 103 Stat. 2077; renumbered §2405, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title IV, §403(c)(7), Nov. 11, 1998, 112 Stat. 3339.)
+(Added Pub. L. 93–43, §2(a), June 18, 1973, 87 Stat. 77, §1005; amended Pub. L. 99–576, title VII, §701(56), Oct. 28, 1986, 100 Stat. 3295; Pub. L. 101–237, title III, §313(b)(1), (4), Dec. 18, 1989, 103 Stat. 2077; renumbered §2405, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 105–368, title IV, §403(c)(7), Nov. 11, 1998, 112 Stat. 3339.)
 
 #### Amendments
 

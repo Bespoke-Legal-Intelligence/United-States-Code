@@ -1126,7 +1126,7 @@ Section 2 of Pub. L. 89–356 provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 215a–3, 215c, 371, 1464, 1467a, 1468, 1815, 1817, 1818, 1820, 1821, 1828b, 1831p–1, 1831u, 1843, 2902, 3103, 4803 of this title; title 15 section 18a.
+This section is referred to in sections 215a–3, 215c, 371, 1464, 1467a, 1468, 1815, 1817, 1818, 1820, 1821, 1828b, 1831p–1, 1831u, 1843, 2902, 3103, 4803 of this title; title 15 section 18a; title 31 section 5318.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

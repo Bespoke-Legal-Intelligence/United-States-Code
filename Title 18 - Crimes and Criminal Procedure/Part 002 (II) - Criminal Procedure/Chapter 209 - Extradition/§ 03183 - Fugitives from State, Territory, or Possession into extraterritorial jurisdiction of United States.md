@@ -1,12 +1,12 @@
 ### §3183. Fugitives from State, Territory, or Possession into extraterritorial jurisdiction of United States
 
-Whenever the executive authority of any State, Territory, District, or possession of the United States or the Panama Canal Zone, demands any American citizen or national as a fugitive from justice who has fled to a country in which the United States exercises extraterritorial jurisdiction, and produces a copy of an indictment found or an affidavit made before a magistrate of the demanding jurisdiction, charging the fugitive so demanded with having committed treason, felony, or other offense, certified as authentic by the Governor or chief magistrate of such demanding jurisdiction, or other person authorized to act, the officer or representative of the United States vested with judicial authority to whom the demand has been made shall cause such fugitive to be arrested and secured, and notify the executive authorities making such demand, or the agent of such authority appointed to receive the fugitive, and shall cause the fugitive to be delivered to such agent when he shall appear.
+Whenever the executive authority of any State, Territory, District, or possession of the United States demands any American citizen or national as a fugitive from justice who has fled to a country in which the United States exercises extraterritorial jurisdiction, and produces a copy of an indictment found or an affidavit made before a magistrate of the demanding jurisdiction, charging the fugitive so demanded with having committed treason, felony, or other offense, certified as authentic by the Governor or chief magistrate of such demanding jurisdiction, or other person authorized to act, the officer or representative of the United States vested with judicial authority to whom the demand has been made shall cause such fugitive to be arrested and secured, and notify the executive authorities making such demand, or the agent of such authority appointed to receive the fugitive, and shall cause the fugitive to be delivered to such agent when he shall appear.
 
 If no such agent shall appear within three months from the time of the arrest, the prisoner may be discharged.
 
 The agent who receives the fugitive into his custody shall be empowered to transport him to the jurisdiction from which he has fled.
 
-(June 25, 1948, ch. 645, 62 Stat. 822.)
+(June 25, 1948, ch. 645, 62 Stat. 822; Pub. L. 107–273, div. B, title IV, §4004(d), Nov. 2, 2002, 116 Stat. 1812.)
 
 #### Historical and Revision Notes
 
@@ -22,9 +22,9 @@ The attention of Congress is directed to the probability that this section may b
 
 Minor changes were made in phraseology.
 
-#### References in Text
+#### Amendments
 
-For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
+2002—Pub. L. 107–273 struck out “or the Panama Canal Zone,” after “possession of the United States” in first par.
 
 #### Section Referred to in Other Sections
 

@@ -26,7 +26,7 @@ The several charges against such bond may be canceled in whole or in part—
 
 &emsp;(5) upon the transfer to another bonded smelting or refining warehouse without physical shipment of metal of bond charges representing a quantity of dutiable metal contained in imported metal-bearing materials less wastage provided for in subsection (c) of this section of the plant of initial treatment of such materials provided there is on hand at the warehouse to which the transfer is made sufficient like metal in any form to satisfy the transferred bond charges.
 
-> If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no charges against such bond may be canceled in whole or part upon an exportation to Canada under paragraph (1) or (4) during the period such Agreement is in operationexcept to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
+> If Canada ceases to be a NAFTA country and the suspension of the operation of the United States-Canada Free-Trade Agreement thereafter terminates, no charges against such bond may be canceled in whole or part upon an exportation to Canada under paragraph (1) or (4) during the period such Agreement is in operation except to the extent that the metal-bearing materials were of Canadian origin as determined in accordance with section 202 of the United States-Canada Free-Trade Agreement Implementation Act of 1988.
 
 #### (c) Allowance on bond for wastage of metals
 
@@ -50,7 +50,7 @@ Two or more smelting or refining warehouses may be included under one general bo
 
 For purposes of this section—
 
-&emsp;(1) the term “metal-bearing materials” means metal-bearing ores and other metal-bearing materials provided for in chapter 26 of the Harmonized Tariff Schedule of the United States, metal waste and scrap and unwrought metal to be smelted or refined provided for in chapters 71 through 83 of the Harmonized Tariff Schedule of the United States, and metal compounds to be processed for the recovery of their metal content;
+&emsp;(1) the term “metal-bearing materials” means metal-bearing ores and other metal-bearing materials provided for in chapter 26 of the Harmonized Tariff Schedule of the United States, metal waste and scrap and unwrought metal to be smelted or refined provided for in chapters 71 through 83 of the Harmonized Tariff Schedule of the United States, and metalcompounds to be processed for the recovery of their metal content;
 
 &emsp;(2) the term “smelting or refining” embraces only pyrometallurgical, hydrometallurgical, electrometallurgical, chemical, or other processes—
 
@@ -78,7 +78,7 @@ Provisions similar to those in this section were contained in act Oct. 3, 1913, 
 
 Provisions more or less similar were contained in the Payne-Aldrich Tariff Act of Aug. 5, 1909, ch. 6, §24, 36 Stat. 89, the Dingley Tariff Act of July 24, 1897, ch. 11, §29, 30 Stat. 210, the McKinley Tariff Act of Oct. 1, 1890, ch. 1244, §24, 26 Stat. 617, and the Wilson Tariff Act of Aug. 27, 1894, ch. 349, §21, 28 Stat. 551.
 
-Previous provisions for sampling lead ores were contained in act Mar. 2, 1895, ch. 189, §1, 28 Stat. 933, priorto repeal by act Sept. 21, 1922, ch. 356, title III, §321, 42 Stat. 947.
+Previous provisions for sampling lead ores were contained in act Mar. 2, 1895, ch. 189, §1, 28 Stat. 933, prior to repeal by act Sept. 21, 1922, ch. 356, title III, §321, 42 Stat. 947.
 
 #### Amendments
 

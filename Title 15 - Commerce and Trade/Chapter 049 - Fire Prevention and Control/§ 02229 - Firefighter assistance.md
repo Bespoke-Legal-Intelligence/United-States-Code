@@ -118,7 +118,7 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 #### (7) Maintenance of expenditures
 
-&emsp;The Director may provide assistance under this subsection only if the applicant for the assistance agrees to maintain in the fiscal year for which the assistance will be received the applicant's aggregate expenditures for the uses described in paragraph (3) or (4) at or above the average level of such expenditures in the two fiscal years preceding the fiscal year for which the assistance will be received.
+&emsp;The Director may provide assistance under this subsection only if the applicant for the assistance agrees to maintain in the fiscal year for which the assistance will be receivedthe applicant's aggregate expenditures for the uses described in paragraph (3) or (4) at or above the average level of such expenditures in the two fiscal years preceding the fiscal year for which the assistance will be received.
 
 #### (8) Report to the Director
 
@@ -146,7 +146,7 @@ In this section, the term “firefighting personnel” means individuals, includ
 
 #### (11) Reservation of grant funds for volunteer departments
 
-&emsp;In making grants to firefighting departments, the Director shall ensure that thosefirefighting departments that have either all-volunteer forces of firefighting personnel or combined forces of volunteer and professional firefighting personnel receive a proportion of the total grant funding that is not less than the proportion of the United States population that those firefighting departments protect.
+&emsp;In making grants to firefighting departments, the Director shall ensure that those firefighting departments that have either all-volunteer forces of firefighting personnel or combined forces of volunteer and professional firefighting personnel receive a proportion of the total grant funding that is not less than the proportion of the United States population that those firefighting departments protect.
 
 #### (c) Audits
 
@@ -181,4 +181,8 @@ Subsec. (e). Pub. L. 107–107, §1061(a), reenacted heading without change and 
 &emsp;“(1) $100,000,000 for fiscal year 2001.
 
 &emsp;“(2) $300,000,000 for fiscal year 2002.”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

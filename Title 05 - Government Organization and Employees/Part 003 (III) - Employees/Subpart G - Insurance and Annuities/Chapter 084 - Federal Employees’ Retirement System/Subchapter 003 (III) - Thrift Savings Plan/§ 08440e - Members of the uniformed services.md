@@ -66,7 +66,7 @@ Postponement Authority.—(1) The Secretary of Defense may postpone by up to 180
 
 #### Regulations
 
-Pub. L. 106–65, div. A, title VI, §661(b), Oct. 5, 1999, 113 Stat. 672, as amended by Pub. L. 106–398, §1 \[\[div. A\],title VI, §661(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that: “Not later than the 180th day after the date of the enactment of the Floyd D. Spence National Defense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\], the Executive Director (appointed by the Federal Retirement Thrift Investment Board) shall issue regulations to implement the amendments made by this subtitle \[subtitle F (§§661–663) of title VI of div. A of Pub. L. 106–65, enacting this section and section 211 of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 8351, 8432b, 8433, 8439, and 8473 of this title and section 211 of Title 37\].”
+Pub. L. 106–65, div. A, title VI, §661(b), Oct. 5, 1999, 113 Stat. 672, as amended by Pub. L. 106–398, §1 \[\[div. A\], title VI, §661(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–167, provided that: “Not later than the 180th day after the date of the enactment of the Floyd D. Spence NationalDefense Authorization Act for Fiscal Year 2001 \[Oct. 30, 2000\], the Executive Director (appointed by the Federal Retirement Thrift Investment Board) shall issue regulations to implement the amendments made by this subtitle \[subtitle F (§§661–663) of title VI of div. A of Pub. L. 106–65, enacting this section and section 211 of Title 37, Pay and Allowances of the Uniformed Services, and amending sections 8351, 8432b, 8433, 8439, and 8473 of this title and section 211 of Title 37\].”
 
 #### Section Referred to in Other Sections
 

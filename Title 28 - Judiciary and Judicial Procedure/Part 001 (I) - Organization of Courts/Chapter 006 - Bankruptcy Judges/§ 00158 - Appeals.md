@@ -54,7 +54,7 @@ The Bankruptcy Rules, referred to in subsec. (c)(2), are set out in the Appendix
 
 #### Amendments
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–394, §102, which directed the amendment of subsec. (a) by striking “from” the first place it appears and all that follows through “decrees,” and inserting pars. (1) to (3), was executed by making the insertion and striking after “appeals” “from final judgments, orders, and decrees,”, which is through “decrees,” the first place appearing, to reflect the probable intent of Congress.
+1994—Subsec. (a). Pub. L. 103–394, §102, which directed the amendment of subsec. (a) by striking “from” the first place it appears and all that follows through “decrees,” and inserting pars. (1) to (3), was executed by making the insertion and striking after “appeals” “from final judgments, orders, and decrees,”, which is through “decrees,” the first place appearing, to reflect the probable intent of Congress.
 
 Subsec. (b)(1). Pub. L. 103–394, §104(c)(3), added par. (1) and struck out former par. (1) which read as follows: “The judicial council of a circuit may establish a bankruptcy appellate panel, comprised of bankruptcy judges from districts within the circuit, to hear and determine, upon the consent of all the parties, appeals under subsection (a) of this section.”
 
@@ -68,7 +68,7 @@ Subsec. (b)(5), (6). Pub. L. 103–394, §104(c)(4), added pars. (5) and (6).
 
 Subsec. (c). Pub. L. 103–394, §104(d), designated existing provisions as par. (2) and added par. (1).
 
-<b>1990</b>—Subsec. (b)(2) to (4). Pub. L. 101–650 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
+1990—Subsec. (b)(2) to (4). Pub. L. 101–650 added par. (2) and redesignated former pars. (2) and (3) as (3) and (4), respectively.
 
 #### Effective Date of 1994 Amendment
 
@@ -77,6 +77,4 @@ Amendment by Pub. L. 103–394 effective Oct. 22, 1994, and not applicable with 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 157, 1334, 1452 of this title; title 11 section 305.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by a dash.</i>
 

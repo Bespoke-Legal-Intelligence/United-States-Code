@@ -1,6 +1,6 @@
 ### §1117. Compensation for disabilities occurring in Persian Gulf War veterans
 
-(a)(1) The Secretary may pay compensation under this subchapter to a Persian Gulf veteran with a qualifying chronic disability that became manifest—
+(a)(1) The Secretary may pay compensation under this subchapter to a Persian Gulf veteranwith a qualifying chronic disability that became manifest—
 
 &emsp;(A) during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
 
@@ -80,7 +80,7 @@
 
 #### Amendments
 
-2001—Subsec. (a). Pub. L. 107–103, §202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from an undiagnosed illness (or combination of undiagnosed illnesses) that—
+2001—Subsec. (a). Pub. L. 107–103, §202(a)(1), amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The Secretary may pay compensation under this subchapter to any Persian Gulf veteran suffering from a chronic disability resulting from anundiagnosed illness (or combination of undiagnosed illnesses) that—
 
 &emsp;“(1) became manifest during service on active duty in the Armed Forces in the Southwest Asia theater of operations during the Persian Gulf War; or
 

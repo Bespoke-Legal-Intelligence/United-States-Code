@@ -8,7 +8,7 @@ The Congress, therefore, further finds and declares that it is in the national p
 
 The Congress further finds that the varying and extended periods of time for which, under the laws of the several States, potential retroactive liability may be imposed upon employers, have given and will give rise to great difficulties in the sound and orderly conduct of business and industry.
 
-The Congress further finds and declares that all of the results which have arisen or may arise under the Fair Labor Standards Act of 1938, as amended, as aforesaid, may (except as to liability for liquidated damages) arise with respect to the Walsh-Healey \[41 U.S.C. 35 et seq.\] and Bacon-Davis \[40 U.S.C. 276a et seq.\] Acts and that it is, therefore, in the national public interest and for the general welfare, essential to national defense, and necessary to aid, protect, and foster commerce, that this chapter shall apply to the Walsh-Healey Act and the Bacon-Davis Act.
+The Congress further finds and declares that all of the results which have arisen or may arise under the Fair Labor Standards Act of 1938, as amended, as aforesaid, may (except as to liability for liquidated damages) arise with respect to the Walsh-Healey \[41 U.S.C. 35 et seq.\] and Bacon-Davis <sup>1</sup> Acts and that it is, therefore, in the national public interest and for the general welfare, essential to national defense, and necessary to aid, protect, and foster commerce, that this chapter shall apply to the Walsh-Healey Act and the Bacon-Davis Act. <sup>1</sup>
 
 (b) It is declared to be the policy of the Congress in order to meet the existing emergency and to correct existing evils (1) to relieve and protect interstate commerce from practices which burden and obstruct it; (2) to protect the right of collective bargaining; and (3) to define and limit the jurisdiction of the courts.
 
@@ -18,7 +18,7 @@ The Congress further finds and declares that all of the results which have arise
 
 The Fair Labor Standards Act of 1938, as amended, referred to in subsec. (a), is act June 25, 1938, ch. 676, 52 Stat. 1060, as amended, which is classified generally to chapter 8 (§201 et seq.) of this title. For complete classification of this Act to the Code, see section 201 of this title and Tables.
 
-This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act May 14, 1947, ch. 52, 61Stat. 84, as amended, known as the Portal-to-Portal Act of 1947, which enacted this chapter and amended section 216 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This chapter, referred to in subsec. (a), was in the original “this Act”, meaning act May 14, 1947, ch. 52, 61 Stat. 84, as amended, known as the Portal-to-Portal Act of 1947, which enacted this chapter and amended section 216 of this title. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 The Walsh-Healey and Bacon-Davis Acts, referred to in subsec. (a), are defined for purposes of this chapter in section 262 of this title.
 
@@ -33,4 +33,6 @@ Section 15 of act May 14, 1947, provided that: “This Act \[enacting this chapt
 #### Separability
 
 Section 14 of act May 14, 1947, provided: “If any provision of this Act \[see Short Title note above\] or the application of such provision to any person or circumstance is held invalid, the remainder of this Act and the application of such provision to other persons or circumstances shall not be affected thereby.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -38,5 +38,5 @@ Amendment by Pub. L. 104–208 applicable with respect to offenses occurring on 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1592, 1594, 1961 of this title; title 8 section 1101; title 22 section 7101.
+This section is referred to in sections 1592, 1594, 1961 of this title; title 8 section 1101; title 22 section 7101.
 

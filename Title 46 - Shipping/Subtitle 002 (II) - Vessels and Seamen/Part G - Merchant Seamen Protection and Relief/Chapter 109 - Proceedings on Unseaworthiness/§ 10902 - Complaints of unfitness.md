@@ -6,7 +6,7 @@
 
 (b)(1) Any 3 seamen of a vessel may complain that the provisions of food or water for the crew are, at any time, of bad quality, unfit for use, or deficient in quantity. The complaint may be made to the Secretary, commanding officer of a United States naval vessel, consular officer, or chief official of the Customs Service.
 
-(2) The Secretary, officer, or official shall examine, or have examined, the provisions of food or water. If the provisions are found to be of bad quality, unfit for use, or deficient in quantity, the person making the findings shall certify to the master of the vessel which provisions are of bad quality, unfit for use, or deficient.
+(2) The Secretary, officer, or official shall examine, or have examined, the provisions of foodor water. If the provisions are found to be of bad quality, unfit for use, or deficient in quantity, the person making the findings shall certify to the master of the vessel which provisions are of bad quality, unfit for use, or deficient.
 
 (3) The Secretary, officer, or official to whom the complaint was made shall—
 
@@ -45,6 +45,10 @@ Section 10902 instructs the crew on making complaints of unfitness of vessel wit
 1993—Subsec. (b)(1). Pub. L. 103–206, §422(b)(1), inserted “Secretary,” after “The complaint may be made to the” and struck out “Coast Guard shipping commissioner,” after “consular officer,”.
 
 Subsec. (b)(2), (3). Pub. L. 103–206, §422(b)(2), substituted “The Secretary, officer,” for “The officer, commissioner,”.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

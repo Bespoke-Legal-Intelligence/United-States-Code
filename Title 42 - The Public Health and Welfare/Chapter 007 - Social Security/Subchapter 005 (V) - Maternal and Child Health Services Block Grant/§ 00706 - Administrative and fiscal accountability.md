@@ -2,7 +2,7 @@
 
 #### (a) Annual reporting requirements; form, etc.
 
-(1) Each State shall prepare and submit to the Secretary annual reports on its activities under this subchapter. Each such report shall be prepared by, or in consultation with, the State maternal and child health agency. In order properly to evaluate and to compare the performance of different States assisted under this subchapter and to assure the proper expenditure of funds under this subchapter, such reports shall be in such standardized form and contain such information (including information described in paragraph (2)) as the Secretary determines (after consultation with the States) to be necessary (A) to secure an accurate description of those activities, (B) to secure a complete record of the purposes for which funds were spent, of the recipients of such funds, (C) to describe the extent to which the State has met the goals and objectives it set forth under section 705(a)(2)(B)(i) of this title and the national health objectives referred to in section 701(a) of this title, and (D) to determine the extent to which funds were expended consistent with the State's application transmitted under section 705(a) of this title. Copies of the report shall be provided, upon request, to any interested public agency, and each such agency may provide its views on these reports to the Congress.
+(1) Each State shall prepare and submit to the Secretary annual reports on its activities under this subchapter. Each such report shall be prepared by, or in consultation with, the State maternal and child health agency. In order properly to evaluate and to compare the performance of different States assisted under this subchapter and to assure the proper expenditure of funds under this subchapter, such reports shall be in such standardized form and contain such information (including information described in paragraph (2)) as the Secretary determines (after consultation with the States) to be necessary (A) to secure an accurate description of those activities, (B) to secure a complete record of the purposes for which funds were spent, of the recipients of such funds, (C) to describe the extent to which the State has met the goals andobjectives it set forth under section 705(a)(2)(B)(i) of this title and the national health objectives referred to in section 701(a) of this title, and (D) to determine the extent to which funds were expended consistent with the State's application transmitted under section 705(a) of this title. Copies of the report shall be provided, upon request, to any interested public agency, and each such agency may provide its views on these reports to the Congress.
 
 (2) Each annual report under paragraph (1) shall include the following information:
 
@@ -52,7 +52,7 @@
 
 &emsp;&emsp;(i) the number of infants under one year of age who were in the State in the year, and
 
-&emsp;&emsp;(ii) the number of such infants who were provided services under this subchapter or were entitled to benefits under the Stateplan under subchapter XIX of this chapter or the State plan under subchapter XXI of this chapter at any time during the year.
+&emsp;&emsp;(ii) the number of such infants who were provided services under this subchapter or were entitled to benefits under the State plan under subchapter XIX of this chapter or the State plan under subchapter XXI of this chapter at any time during the year.
 
 &emsp;(E) Information on the number of—
 
@@ -154,7 +154,7 @@
 
 (2) Each State shall repay to the United States amounts found by the Secretary, after notice and opportunity for a hearing to the State, not to have been expended in accordance with this subchapter and, if such repayment is not made, the Secretary may offset such amounts against the amount of any allotment to which the State is or may become entitled under this subchapter or may otherwise recover such amounts.
 
-(3) The Secretary may, after notice and opportunity for a hearing, withhold payment of fundsto any State which is not using its allotment under this subchapter in accordance with this subchapter. The Secretary may withhold such funds until the Secretary finds that the reason for the withholding has been removed and there is reasonable assurance that it will not recur.
+(3) The Secretary may, after notice and opportunity for a hearing, withhold payment of funds to any State which is not using its allotment under this subchapter in accordance with this subchapter. The Secretary may withhold such funds until the Secretary finds that the reason for the withholding has been removed and there is reasonable assurance that it will not recur.
 
 #### (c) Public inspection of reports and audits
 
@@ -216,7 +216,7 @@ Section 2192(b) of Pub. L. 97–35 provided that:
 
 “(1) The Secretary of Health and Human Services shall, no later than October 1, 1984, report to the Congress on the activities of States receiving allotments under title V of the Social Security Act \[this subchapter\] (as amended by this section) and include in such report any recommendations for appropriate changes in legislation.
 
-“(2) The Secretary of Health and Human Services, in consultation with the Comptroller General, shall examine alternative formulas, for the allotment of funds to States under section 502(b) of the Social Security Act\[section 702(b) of this title\] (as amended by this section) which might be used as a substitute for the method of allotting funds described in such section, which provide for the equitable distribution of such funds to States (as defined for purposes of such section), and which take into account—
+“(2) The Secretary of Health and Human Services, in consultation with the Comptroller General, shall examine alternative formulas, for the allotment of funds to States under section 502(b) of the Social Security Act \[section 702(b) of this title\] (as amended by this section) which might be used as a substitute for the method of allotting funds described in such section, which provide for the equitable distribution of such funds to States (as defined for purposes of such section), and which take into account—
 
 &emsp;“(A) the populations of the States,
 

@@ -1,6 +1,6 @@
 ### §10902. Short line purchases by Class II and Class III rail carriers
 
-(a) A Class II or Class III rail carrier providing transportation subject to the jurisdiction of theBoard under this part may acquire or operate an extended or additional rail line under this section only if the Board issues a certificate authorizing such activity under subsection (c).
+(a) A Class II or Class III rail carrier providing transportation subject to the jurisdiction of the Board under this part may acquire or operate an extended or additional rail line under this section only if the Board issues a certificate authorizing such activity under subsection (c).
 
 (b) A proceeding to grant authority under subsection (a) of this section begins when an application is filed. On receiving the application, the Board shall give reasonable public notice of the beginning of such proceeding.
 

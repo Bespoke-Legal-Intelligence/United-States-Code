@@ -18,5 +18,5 @@ Slight verbal changes were also made.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1717 of this title.
+This section is referred to in section 1717 of this title.
 

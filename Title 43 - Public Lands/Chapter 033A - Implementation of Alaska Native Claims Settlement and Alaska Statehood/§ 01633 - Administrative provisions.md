@@ -2,7 +2,7 @@
 
 #### (a) Limitations concerning easements
 
-With respect to lands conveyed to Native Corporations or Native Groups the Secretary shall reserve only those easements which are described in section 17(b)(1) of the Alaska Native Claims Settlement Act and shall be guided by the following principles:
+With respect to lands conveyed to Native Corporations or Native Groups the Secretary shallreserve only those easements which are described in section 17(b)(1) of the Alaska Native Claims Settlement Act and shall be guided by the following principles:
 
 &emsp;(1) all easements should be designed so as to minimize their impact on Native life styles, and on subsistence uses; and
 

@@ -62,7 +62,7 @@ Definitions.—In this subsection, the following definitions apply:
 
 &emsp;&emsp;(A)
 
-Driver of a utility service vehicle.—The term “driver of a utility service vehicle” means any driver who is considered to be a driver of a utility service vehicle for purposes of section 345(a)(4) of the National Highway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat. 613).
+Driver of a utility service vehicle.—The term “driver of a utility service vehicle” means any driver who is considered to be a driver of a utility service vehicle for purposes of section 345(a)(4) of the NationalHighway System Designation Act of 1995 (49 U.S.C. 31136 note; 109 Stat. 613).
 
 &emsp;&emsp;(B)
 
@@ -142,7 +142,7 @@ Amendment by Pub. L. 104–88 effective Jan. 1, 1996, see section 2 of Pub. L. 1
 
 #### Savings Provision
 
-Pub. L. 100–690, title IX, §9102(c), Nov. 18, 1988, 102 Stat. 4529, provided that: “The amendment made by subsection (a) \[amending section 2505 of former Title 49,Transportation\] shall not be construed as having any effect on the enactment of subsection (d) of section 3102 \[now 31502\] of title 49, United States Code, which subsection (d) was added to such section by section 206(h) of the Motor Carrier Safety Act of 1984 \[Pub. L. 98–554\] on October 30, 1984.”
+Pub. L. 100–690, title IX, §9102(c), Nov. 18, 1988, 102 Stat. 4529, provided that: “The amendment made by subsection (a) \[amending section 2505 of former Title 49, Transportation\] shall not be construed as having any effect on the enactment of subsection (d) of section 3102 \[now 31502\] of title 49, United States Code, which subsection (d) was added to such section by section 206(h) of the Motor Carrier Safety Act of 1984 \[Pub. L. 98–554\] on October 30, 1984.”
 
 #### Continued Application of Safety and Maintenance Requirements
 
@@ -182,7 +182,7 @@ Pub. L. 105–178, title IV, §4027, June 9, 1998, 112 Stat. 417, provided that:
 
 “(a)
 
-Study.—The Secretary \[of Transportation\] shall conduct a study to determine the location and quantity of parking facilities at commercial truck stops and travel plazas and public rest areas that could be used by motor carriers to comply with Federal hours of service rules. The study shall include an inventory of current facilities serving the National Highway System, analyze where shortages exist or are projected to exist, and propose a plan to reduce the shortages. The study may be carried out in cooperation with research entities representing motor carriers, the travel plaza industry, and commercial motor vehicle drivers.
+Study.—The Secretary \[of Transportation\] shall conduct a study to determine the location and quantity of parking facilities at commercial truck stops and travel plazas and public rest areas that could be used by motor carriers to comply with Federal hours of service rules. The study shall include an inventory of current facilities serving the National Highway System,analyze where shortages exist or are projected to exist, and propose a plan to reduce the shortages. The study may be carried out in cooperation with research entities representing motor carriers, the travel plaza industry, and commercial motor vehicle drivers.
 
 “(b)
 

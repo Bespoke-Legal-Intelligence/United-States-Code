@@ -18,7 +18,7 @@ The corporation shall be under the direction of a board of directors made up of 
 
 #### (b) Election of chairman
 
-The Board shall elect from among its members a chairman who shall serve for a term of two years, except that the Chairman of the Federal Home Loan Bank Board shall serve as Chairman of the Board of Directors for the first such two-year term.
+The Board shall elect from among its members a chairman who shall serve for a term of twoyears, except that the Chairman of the Federal Home Loan Bank Board shall serve as Chairman of the Board of Directors for the first such two-year term.
 
 #### (c) Terms of office
 
@@ -66,5 +66,5 @@ Pub. L. 100–242, §520(a)(4), substituted “Chairman” for “Administrator�
 
 #### Transfer of Functions
 
-Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L.101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
+Federal Home Loan Bank Board abolished and functions transferred, see sections 401 to 406 of Pub. L. 101–73, set out as a note under section 1437 of Title 12, Banks and Banking.
 

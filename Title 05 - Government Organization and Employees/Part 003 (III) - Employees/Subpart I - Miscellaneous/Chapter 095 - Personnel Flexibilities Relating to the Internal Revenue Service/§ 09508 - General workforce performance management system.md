@@ -18,7 +18,7 @@
 
 &emsp;(2) except as provided under section 1204 of the Internal Revenue Service Restructuring and Reform Act of 1998, strengthens the system's effectiveness by—
 
-&emsp;&emsp;(A) establishing goals or objectives for individual, group, or organizational performance (or any combination thereof), consistent with the Internal Revenue Service's performance planning procedures, including those established under the Government Performance and Results Act of 1993, division E of the Clinger-Cohen Act of 1996 (Public Law 104–106; 110 Stat. 679), Revenue Procedure 64–22 (as in effect on July 30, 1997), and taxpayer service surveys, and communicating such goals or objectives to employees;
+&emsp;&emsp;(A) establishing goals or objectives for individual, group, or organizational performance (or any combination thereof), consistent with the Internal Revenue Service's performance planning procedures, including those established under the Government Performance and Results Act of 1993, subtitle III of title 40, Revenue Procedure 64–22 (as in effect on July 30, 1997), and taxpayer service surveys, and communicating such goals or objectives to employees;
 
 &emsp;&emsp;(B) using such goals and objectives to make performance distinctions among employees or groups of employees; and
 
@@ -34,9 +34,9 @@
 
 (d)(1) In applying sections 4303(b)(1)(A) and 7513(b)(1) to employees of the Internal Revenue Service, “30 days” may be deemed to be “15 days”.
 
-(2) Notwithstanding the second sentence of section 5335(c), an employee of the Internal Revenue Service shall not have a right to appeal thedenial of a periodic step increase under section 5335 to the Merit Systems Protection Board.
+(2) Notwithstanding the second sentence of section 5335(c), an employee of the Internal Revenue Service shall not have a right to appeal the denial of a periodic step increase under section 5335 to the Merit Systems Protection Board.
 
-(Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 715.)
+(Added Pub. L. 105–206, title I, §1201(a), July 22, 1998, 112 Stat. 715; amended Pub. L. 107–217, §3(a)(3), Aug. 21, 2002, 116 Stat. 1295.)
 
 #### References in Text
 
@@ -44,9 +44,11 @@ The date of enactment of this section, referred to in subsec. (a), is the date o
 
 Section 1204 of the Internal Revenue Service Restructuring and Reform Act of 1998, referred to in subsec. (a)(2), is section 1204 of Pub. L. 105–206, which is set out as a note under section 7804 of Title 26, Internal Revenue Code.
 
-The Government Performance and Results Act of 1993, referred to in subsec. (a)(2)(A), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of this title, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of this Act to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
+The Government Performance and Results Act of 1993, referred to in subsec. (a)(2)(A), is Pub. L. 103–62, Aug. 3, 1993, 107 Stat. 285, which enacted section 306 of this title, sections 1115 to 1119, 9703, and 9704 of Title 31, Money and Finance, and sections 2801 to 2805 of Title 39, Postal Service, amended section 1105 of Title 31, and enacted provisions set out as notes under sections 1101 and 1115 of Title 31. For complete classification of thisAct to the Code, see Short Title of 1993 Amendment note set out under section 1101 of Title 31 and Tables.
 
-The Clinger-Cohen Act of 1996, referred to in subsec. (a)(2)(A), is div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 642, 679. Div. E of Pub. L. 104–106 is classified principally to chapter 25 (§1401 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 40, Short Title of 1996 Amendment note set out under section 251 of Title 41, Public Contracts, and Tables.
+#### Amendments
+
+2002—Subsec. (a)(2)(A). Pub. L. 107–217 substituted “subtitle III of title 40” for “division E of the Clinger-Cohen Act of 1996 (Public Law 104–106; 110 Stat. 679)”.
 
 #### Section Referred to in Other Sections
 

@@ -18,9 +18,9 @@ To further achieve effective, efficient, and economic administration of the Fede
 
 #### Amendments
 
-1984—Par. (1). Pub. L. 98–369 substituted “increase the use of full and open competition in the procurement of property or services by the executive agency by establishing policies, procedures, and practices that assure that the executive agency receives a sufficient number of sealed bids or competitive proposals from responsible sources to fulfill the Government's requirements (including performance and delivery schedules) at the lowest reasonable cost considering the nature of the property or service procured;” for “increase the use of effective competition in procurement by the executive agency;”.
+1984—Par. (1). Pub. L. 98–369 substituted “increase the use of full and open competition in the procurement ofproperty or services by the executive agency by establishing policies, procedures, and practices that assure that the executive agency receives a sufficient number of sealed bids or competitive proposals from responsible sources to fulfill the Government's requirements (including performance and delivery schedules) at the lowest reasonable cost considering the nature of the property or service procured;” for “increase the use of effective competition in procurement by the executive agency;”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 252c, 253, 418, 421 of this title; title 10 sections 133, 2225, 2302c, 2304, 2435; title 15 section 637; title 49 section 40110; title 50 section 2402.
+This section is referred to in sections 252c, 253, 418, 421 of this title; title 10 sections 133, 2225, 2302c, 2304, 2359a, 2435; title 15 section 637; title 49 section 40110; title 50 section 2402.
 

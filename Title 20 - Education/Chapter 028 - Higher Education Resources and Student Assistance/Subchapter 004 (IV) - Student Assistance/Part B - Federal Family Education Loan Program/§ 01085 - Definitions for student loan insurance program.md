@@ -54,7 +54,7 @@ As used in this part:
 
 &emsp;&emsp;(C) is an institution whose cohort default rate equals or exceeds 20 percent for the most recent year for which data are available;
 
-> &emsp;may include in its appeal of such loss or rate a defense based on improper loan servicing (in addition to other defenses). In any such appeal, the Secretary shall take whatever stepsare necessary to ensure that such institution has access for a reasonable period of time, not to exceed 30 days, to a representative sample (as determined by the Secretary) of the relevant loan servicing and collection records used by a guaranty agency in determining whether to pay a claim on a defaulted loan or by the Department in determining an institution's default rate in the loan program under part C of this subchapter. The Secretary shall reduce the institution's cohort default rate to reflect the percentage of defaulted loans in the representative sample that are required to be excluded pursuant to subsection (m)(1)(B) of this section.
+> &emsp;may include in its appeal of such loss or rate a defense based on improper loan servicing (in addition to other defenses). In any such appeal, the Secretary shall take whatever steps are necessary to ensure that such institution has access for a reasonable period of time, not to exceed 30 days, to a representative sample (as determined by the Secretary) of the relevant loan servicing and collection records used by a guaranty agency in determining whether to pay a claim on a defaulted loan or by the Department in determining an institution's default rate in the loan program under part C of this subchapter. The Secretary shall reduce the institution's cohort default rate to reflect the percentage of defaulted loans in the representative sample that are required to be excluded pursuant to subsection (m)(1)(B) of this section.
 
 #### (4) Definition of mitigating circumstances
 
@@ -104,7 +104,7 @@ As used in this part:
 
 &emsp;&emsp;After July 1, 1999, any institution that has a cohort default rate that equals or exceeds 25 percent for each of the three most recent fiscal years for which data are available and that relies on the exception in subparagraph (B) to continue to be an eligible institution shall—
 
-&emsp;&emsp;&emsp;(i) submit to the Secretary a default management plan which the Secretary, in the Secretary's discretion, after consideration of the institution's history, resources, dollars in default, and targets for default reduction, determines is acceptable and provides reasonable assurance that theinstitution will, by July 1, 2004, have a cohort default rate that is less than 25 percent;
+&emsp;&emsp;&emsp;(i) submit to the Secretary a default management plan which the Secretary, in the Secretary's discretion, after consideration of the institution's history, resources, dollars in default, and targets for default reduction, determines is acceptable and provides reasonable assurance that the institution will, by July 1, 2004, have a cohort default rate that is less than 25 percent;
 
 &emsp;&emsp;&emsp;(ii) engage an independent third party (which may be paid with funds received under section 1059d of this title or part B of subchapter III of this chapter) to provide technical assistance in implementing such default management plan; and
 
@@ -112,7 +112,7 @@ As used in this part:
 
 #### (B) Discretionary eligibility conditioned on improvement
 
-&emsp;&emsp;Notwithstanding the expiration of the exception in paragraph (2)(C), the Secretary may, in the Secretary's discretion, continue to treat an institution described in subparagraph (A) of this paragraph as an eligible institution for each of the 1-year periods beginning on July 1 of 1999 through 2003, only if the institution submits by the beginning of such period evidence satisfactory to the Secretary that—
+&emsp;&emsp;Notwithstanding the expiration of the exception in paragraph (2)(C), the Secretarymay, in the Secretary's discretion, continue to treat an institution described in subparagraph (A) of this paragraph as an eligible institution for each of the 1-year periods beginning on July 1 of 1999 through 2003, only if the institution submits by the beginning of such period evidence satisfactory to the Secretary that—
 
 &emsp;&emsp;&emsp;(i) such institution has complied and is continuing to comply with the requirements of subparagraph (A); and
 
@@ -164,7 +164,7 @@ As used in this part:
 
 &emsp;&emsp;(J) for purpose of making loans under section 1078–3 of this title, any nonprofit private agency functioning in any State as a secondary market; and
 
-&emsp;&emsp;(K) a consumer finance company subsidiary of a national bank which, as of October 7, 1998, through one or more subsidiaries: (i) acts as a small business lending company, as determined under regulations of the Small Business Administration under section 120.470 of title 13, Code of Federal Regulations (as such section is in effect on October 7, 1998); and (ii) participates in the program authorized by this part pursuant to subparagraph (C), provided the national bank and all of the bank's direct and indirect subsidiaries taken together as a whole, do not have, as their primary consumer credit function, the making or holding of loans made to students under this part.
+&emsp;&emsp;(K) a consumer finance company subsidiary of a national bank which, as of October 7, 1998, through one or more subsidiaries: (i) acts as a small business lending company, as determined under regulations of the Small Business Administration under section 120.470 of title 13, Code of Federal Regulations (as such section is in effect on October7, 1998); and (ii) participates in the program authorized by this part pursuant to subparagraph (C), provided the national bank and all of the bank's direct and indirect subsidiaries taken together as a whole, do not have, as their primary consumer credit function, the making or holding of loans made to students under this part.
 
 #### (2) Additional requirements of eligible institutions
 
@@ -314,13 +314,13 @@ The Employee Retirement Income Security Act, referred to in subsec. (d)(1)(B), p
 
 Section 1078–1 of this title, referred to in subsecs. (a)(3)(B), (d)(1)(G), and (m)(1)(A), (2)(D), was repealed by Pub. L. 103–66, title IV, §4047(b)–(d), Aug. 10, 1993, 107 Stat. 364, eff. July 1, 1994, except with respect to loans provided under that section as it existed prior to Aug. 10, 1993. Subsequently, a new section 1078–1, relating to voluntary flexible agreements with guaranty agencies, was enacted by Pub. L. 105–244, title IV, §418, Oct. 7, 1998, 112 Stat. 1691.
 
-Public Law 499, Eighty-first Congress (64 Stat. 98 (1950)), referred to in subsec. (d)(1)(I), is act May 3, 1950, ch. 152, 64 Stat. 98, known as the Rural Rehabilitation Corporation Trust Liquidation Act, which was classified to sections 440 to 444 of Title 40, Public Buildings, Property, and Works and as notes set out under section 1001 of Title 7, Agriculture, and section 440 of Title 40, and was omitted from the Code.
+Public Law 499, Eighty-first Congress (64 Stat. 98 (1950)), referred to in subsec. (d)(1)(I), is act May 3, 1950, ch. 152, 64 Stat. 98, known as the Rural Rehabilitation Corporation Trust Liquidation Act, which was classified to sections 440 to 444 of former Title 40, Public Buildings, Property, and Works, and as notes set out under section 1001 of Title 7, Agriculture, and section 440 of former Title 40, and was omitted from the Code.
 
 Title IV, referred to in subsec. (m)(2)(C), means title IV of the Higher Education Act of 1965, Pub. L. 89–329, which is classified generally to this subchapter and part C (§2751 et seq.) of subchapter I of chapter 34 of Title 42, The Public Health and Welfare. For complete classification of title IV to the Code, see Tables.
 
 #### Prior Provisions
 
-A prior section 1085, Pub. L. 89–329, title IV, §435, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 89–698, title II, §204, Oct. 29, 1966, 80 Stat. 1072; Pub. L. 90–575, title I, §§116(a), 118(a), Oct. 16, 1968, 82 Stat. 1023, 1026; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2130; Pub. L. 95–43,§1(a)(35), (36), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§413(e), 421(e)(2), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1418, 1432, 1503; Pub. L. 99–272, title XVI, §§16017(b)(2), 16020, Apr. 7, 1986, 100 Stat. 347, 349, defined terms used in this part, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1085, Pub. L. 89–329, title IV, §435, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 89–698, title II, §204, Oct. 29, 1966, 80 Stat. 1072; Pub. L. 90–575, title I, §§116(a), 118(a), Oct. 16, 1968, 82 Stat. 1023, 1026; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2130; Pub. L. 95–43, §1(a)(35), (36), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title IV, §§413(e), 421(e)(2), title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1418, 1432, 1503; Pub. L. 99–272, title XVI, §§16017(b)(2), 16020, Apr. 7, 1986, 100 Stat. 347, 349, defined terms used in this part, prior to the general revision of this part by Pub. L. 99–498.
 
 #### Amendments
 
@@ -334,7 +334,7 @@ Subsec. (a)(5)(B). Pub. L. 106–554, §1(a)(1) \[title III, §312(2)\], substit
 
 Subsec. (a)(2)(A). Pub. L. 105–244, §429(a)(1)(A)(i), (ii), struck out “or” at end of cl. (i), added cls. (ii) and (iii), and struck out former cl. (ii) which read as follows: “there are, in the judgment of the Secretary, exceptional mitigating circumstances that would make the application of this paragraph inequitable.”
 
-Pub. L. 105–244, §429(a)(1)(A)(iii), inserted at end of concluding provisions “If an institution continues to participate in a program under this part, and the institution's appeal of the loss of eligibility is unsuccessful, the institution shall be required to pay to the Secretary an amount equal to the amount of interest, special allowance, reinsurance, and any related payments made by the Secretary (or which the Secretary is obligated to make) with respect to loans made under this part to students attending, or planning to attend, that institution during the pendency of such appeal.”
+Pub. L. 105–244, §429(a)(1)(A)(iii), inserted at end of concluding provisions “If an institution continues toparticipate in a program under this part, and the institution's appeal of the loss of eligibility is unsuccessful, the institution shall be required to pay to the Secretary an amount equal to the amount of interest, special allowance, reinsurance, and any related payments made by the Secretary (or which the Secretary is obligated to make) with respect to loans made under this part to students attending, or planning to attend, that institution during the pendency of such appeal.”
 
 Subsec. (a)(2)(C). Pub. L. 105–244, §429(a)(1)(B), substituted “July 1, 1999,” for “July 1, 1998,” in introductory provisions.
 

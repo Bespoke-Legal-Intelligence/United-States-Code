@@ -10,7 +10,7 @@ If the Secretary finds that the program or the administration thereof is no long
 
 #### (c) Disposition of certain moneys
 
-If the Secretary finds that any money provided to the State or obtained by the State from the resale of any fishing or charter vessel purchased under the program is not being used in accordance with the provisions of this subchapter, the Secretary shall recover from thefund, and place in the United States Treasury, such moneys.
+If the Secretary finds that any money provided to the State or obtained by the State from the resale of any fishing or charter vessel purchased under the program is not being used in accordance with the provisions of this subchapter, the Secretary shall recover from the fund, and place in the United States Treasury, such moneys.
 
 (Pub. L. 96–561, title I, §133, Dec. 22, 1980, 94 Stat. 3285.)
 

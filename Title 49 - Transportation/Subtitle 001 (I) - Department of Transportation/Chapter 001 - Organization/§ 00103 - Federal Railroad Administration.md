@@ -12,9 +12,9 @@
 
 (d) A duty or power specified by subsection (c)(1) of this section may be transferred to another part of the Department only when specifically provided by law or a reorganization plan submitted under chapter 9 of title 5. A decision of the Administrator in carrying out those duties or powers and involving notice and hearing required by law is administratively final.
 
-(e) Subject to the provisions of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.), the Secretary of Transportation may make, enter into, and perform such contracts, grants, leases, cooperative agreements, and other similar transactions with Federal or other public agencies (including State and local governments) and private organizations and persons, and make such payments, by way of advance or reimbursement, as the Secretary may determine to be necessary or appropriate to carry out functions of the Federal Railroad Administration. The authority of the Secretary granted by this subsection shall be carried out by the Administrator. Notwithstanding any other provision of this chapter, no authority to enter into contracts or to make payments under this subsection shall be effective, except as provided for in appropriations Acts.
+(e) Subject to the provisions of subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.), the Secretary of Transportation may make, enter into, and perform such contracts, grants, leases, cooperative agreements, and other similar transactions with Federal or other public agencies (including State and local governments) and private organizations and persons, and make such payments, by way of advance or reimbursement, as the Secretary may determine to be necessary or appropriate to carry out functions of the Federal Railroad Administration. The authority of the Secretary granted by this subsection shall be carried out by the Administrator. Notwithstanding any other provision of this chapter, no authority to enter into contracts or to make payments under this subsection shall be effective, except as provided for in appropriations Acts.
 
-(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 103–440, title II, §216, Nov. 2, 1994, 108 Stat. 4624.)
+(Pub. L. 97–449, Jan. 12, 1983, 96 Stat. 2414; Pub. L. 98–216, §2(2), Feb. 14, 1984, 98 Stat. 5; Pub. L. 103–272, §5(m)(1), July 5, 1994, 108 Stat. 1375; Pub. L. 103–440, title II, §216, Nov. 2, 1994, 108 Stat. 4624; Pub. L. 107–217, §3(n)(1), Aug. 21, 2002, 116 Stat. 1302.)
 
 Historical and Revision Notes
 
@@ -76,9 +76,11 @@ Section 5(m)(1) amends 49:103(c)(1) to include a reference to section 20134(c) o
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (e), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (e), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
 1994—Subsec. (c)(1). Pub. L. 103–272 substituted “section 20134(c) and chapters 203–211 of this title, and chapter 213 of this title in carrying out chapters 203–211” for “section 6(e)(1), (2), and (6)(A) of the Department of Transportation Act (49 App. U.S.C. 1655(e)(1), (2), and (6)(A))”.
 

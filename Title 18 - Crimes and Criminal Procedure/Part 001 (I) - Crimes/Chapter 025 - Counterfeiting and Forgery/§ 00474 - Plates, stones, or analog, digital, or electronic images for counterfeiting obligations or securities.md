@@ -6,7 +6,7 @@ Whoever makes or executes any plate, stone, or other thing in the likeness of an
 
 Whoever, with intent to defraud, makes, executes, acquires, scans, captures, records, receives, transmits, reproduces, sells, or has in such person's control, custody, or possession, an analog, digital, or electronic image of any obligation or other security of the United States; or
 
-Whoever sells any such plate, stone, or other thing, or brings into the United States any suchplate, stone, or other thing, except under the direction of the Secretary of the Treasury or other proper officer, or with any other intent, in either case, than that such plate, stone, or other thing be used for the printing of the obligations or other securities of the United States; or
+Whoever sells any such plate, stone, or other thing, or brings into the United States any such plate, stone, or other thing, except under the direction of the Secretary of the Treasury or other proper officer, or with any other intent, in either case, than that such plate, stone, or other thing be used for the printing of the obligations or other securities of the United States; or
 
 Whoever has in his control, custody, or possession any plate, stone, or other thing in any manner made after or in the similitude of any plate, stone, or other thing, from which any such obligation or other security has been printed, with intent to use such plate, stone, or other thing, or to suffer the same to be used in forging or counterfeiting any such obligation or other security, or any part thereof; or
 
@@ -52,5 +52,5 @@ Section 101(f) \[title VI, §648(c)\] of div. A of Pub. L. 104–208 provided th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 470, 981, 982 of this title; title 16 section 718e.
+This section is referred to in sections 470, 981, 982 of this title; title 16 section 718e.
 

@@ -2,7 +2,7 @@
 
 #### (a) Issuance
 
-During the period beginning 61 days after January 6, 1988, and ending September 30, 1992, the Financial Assistance Corporation, subject to the approval of the Assistance Board, may issue uncollateralized bonds, notes, debentures, and similar obligations, guaranteed as to the timely payment of principal and interest by the Secretary of the Treasury as set forth in subsection (d) of this section, with semiannual interest coupon payments and a maturity period of 15 years—
+During the period beginning 61 days after January 6, 1988, and ending September 30, 1992, the Financial Assistance Corporation, subject to the approval of the Assistance Board, may issue uncollateralized bonds, notes, debentures, and similar obligations, guaranteed as to the timelypayment of principal and interest by the Secretary of the Treasury as set forth in subsection (d) of this section, with semiannual interest coupon payments and a maturity period of 15 years—
 
 &emsp;(1) in an aggregate amount not to exceed $2,800,000,000; and
 
@@ -60,7 +60,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 &emsp;&emsp;In order to provide for the orderly funding by the banks of the System of the repayment by the Financial Assistance Corporation to the Secretary of the Treasury, the Financial Assistance Corporation shall assess each System bank, on or about December 31 of each year beginning in 1992, and each System bank shall promptly pay to the Financial Assistance Corporation, an annual annuity type payment in an amount designed to accumulate, in total, including earnings thereon, the amount of the bank's ultimate obligation (as determined by the Corporation on a fair and equitable basis), and no greater than .0006 nor less than .0004 times the bank's and its affiliated associations’ average accruing retail loan volume for the preceding year, subject to—
 
-&emsp;&emsp;&emsp;(i) upward or downward adjustment, as appropriate, by the Financial Assistance Corporation during each of the last 5 years prior to the date the Financial Assistance Corporation is obligated to make the repayment, in order to ensure that the Financial Assistance Corporation will have the amount of funds needed to make the repayment on the due date; and
+&emsp;&emsp;&emsp;(i) upward or downward adjustment, as appropriate, by the Financial Assistance Corporation during each of the last 5 yearsprior to the date the Financial Assistance Corporation is obligated to make the repayment, in order to ensure that the Financial Assistance Corporation will have the amount of funds needed to make the repayment on the due date; and
 
 &emsp;&emsp;&emsp;(ii) reduction or termination in any year when the funds paid to the Financial Assistance Corporation, including any anticipated future earnings on the funds, are sufficient to make the repayment on the due date.
 
@@ -94,7 +94,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Until the date that is 5 years prior to the date on which the Financial Assistance Corporation is required to repay the Secretary of the Treasury pursuant to subparagraph (A), all assessments paid by banks to the Financial Assistance Corporation pursuant to subparagraph (B),and any part of the obligation to pay future assessments to the Financial Assistance Corporation under subparagraph (B) that is recognized as an expense on the books of any System bank or association, shall nonetheless be included in the capital of the bank or association for purposes of determining its compliance with regulatory capital requirements.
+&emsp;&emsp;&emsp;Until the date that is 5 years prior to the date on which the Financial Assistance Corporation is required to repay the Secretary of the Treasury pursuant to subparagraph (A), all assessments paid by banks to the Financial Assistance Corporation pursuant to subparagraph (B), and any part of the obligation to pay future assessments to the Financial Assistance Corporation under subparagraph (B) that is recognized as an expense on the books of any System bank or association, shall nonetheless be included in the capital of the bank or association for purposes of determining its compliance with regulatory capital requirements.
 
 #### (ii) During the final 5 years prior to repayment
 
@@ -166,7 +166,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (iv) Banks leaving System
 
-&emsp;&emsp;&emsp;Any bank leaving the Farm Credit System pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to the Financial Assistance Corporation the estimated present value of the payment required under this subparagraph had the bank remained in the System. A liability to the Financial Assistance Corporation in this amount (calculated as if the bank had left the System on the date it was placed in liquidation) shall be recognized as a claim in favor of the Financial Assistance Corporation against the estate of any bank undergoing liquidation. The obligations of other banks shall not be reduced in anticipation of any such recoveries from banks leaving the System or in liquidation, but the Financial Assistance Corporation shall apply the recoveries, when received, and all earnings on the recoveries, to reduce the other banks’ payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to the other banks in proportion to the other banks’ payments.
+&emsp;&emsp;&emsp;Any bank leaving the Farm Credit System pursuant to section 2279d of this title shall be required, under regulations of the Farm Credit Administration, to pay to the Financial Assistance Corporation the estimated present value of the payment required under this subparagraph had the bank remained in the System. A liability to the Financial Assistance Corporation in this amount (calculated as if the bank had left the System on the date it was placedin liquidation) shall be recognized as a claim in favor of the Financial Assistance Corporation against the estate of any bank undergoing liquidation. The obligations of other banks shall not be reduced in anticipation of any such recoveries from banks leaving the System or in liquidation, but the Financial Assistance Corporation shall apply the recoveries, when received, and all earnings on the recoveries, to reduce the other banks’ payment obligations, or, to the extent the recoveries are received after the other banks have met their entire payment obligation, shall refund the recoveries, when received, to the other banks in proportion to the other banks’ payments.
 
 #### (v) Associations terminating System status or in liquidation
 
@@ -224,7 +224,7 @@ The debt obligations shall be in such forms and denominations, bear such rates o
 
 #### (i) Certain principal and interest obligations
 
-&emsp;&emsp;&emsp;In each instance in which the Secretary of the Treasury is required to make a payment under subparagraph (A) to the Financial Assistance Corporation as a result of a default made by a System bank on interest due from such System bank under subsection (c) of this section, on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section, the Secretary of the Treasury shall recover the amount of the payments the Secretary made, with respect to each defaulting bank, from such defaulting bank. If the Secretary has not recovered the full amount due from the defaulting bank by the end of the 12-month period beginning on the date of payment by the Secretary,the uncollected amount shall be paid to the Secretary from the Insurance Fund established under section 2277a–9 of this title.
+&emsp;&emsp;&emsp;In each instance in which the Secretary of the Treasury is required to make a payment under subparagraph (A) to the Financial Assistance Corporation as a result of a default made by a System bank on interest due from such System bank under subsection (c) of this section, on the payment of principal or interest due under subparagraphs (B) and (C) of section 2278a–9(e)(3) of this title, on the payment of principal due under paragraph (1)(C), or on the payment of an assessment due under subsection (c)(5)(B) of this section, the Secretary of the Treasury shall recover the amount of the payments the Secretary made, with respect to each defaulting bank, from such defaulting bank. If the Secretary has not recovered the full amount due from the defaulting bank by the end of the 12-month period beginning on the date of payment by the Secretary, the uncollected amount shall be paid to the Secretary from the Insurance Fund established under section 2277a–9 of this title.
 
 #### (ii) Principal of bonds issued to fund purchase of preferred stock
 
@@ -292,7 +292,7 @@ Subsec. (d)(3)(A). Pub. L. 102–552, §306(1)(A), inserted heading and struck o
 
 Subsec. (d)(3)(B). Pub. L. 102–552, §306(1)(B), inserted heading and struck out former heading “Principal”.
 
-Subsec. (d)(3)(C). Pub. L. 102–552, §306(1)(C), substituted “banks” for “institutions” wherever appearingin heading and text, “bank” for “institution”, and “any amounts” for “the amount of any interest”.
+Subsec. (d)(3)(C). Pub. L. 102–552, §306(1)(C), substituted “banks” for “institutions” wherever appearing in heading and text, “bank” for “institution”, and “any amounts” for “the amount of any interest”.
 
 Subsec. (d)(4)(A). Pub. L. 102–552, §306(2)(A), inserted “or section 2278a–9(e)(3)(A) of this title”.
 

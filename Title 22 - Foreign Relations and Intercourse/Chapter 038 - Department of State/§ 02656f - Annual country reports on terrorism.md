@@ -30,7 +30,7 @@ The report required under subsection (a) of this section should to the extent fe
 
 &emsp;&emsp;(A) a review of major counterterrorism efforts undertaken by countries which are the subject of such report, including, as appropriate, steps taken in international fora;
 
-&emsp;&emsp;(B) the response of the judicial system of each country which is the subject of such report with respect to matters relating to terrorism affecting American citizens or facilities, or which have, in the opinion of theSecretary, a significant impact on United States counterterrorism efforts, including responses to extradition requests; and
+&emsp;&emsp;(B) the response of the judicial system of each country which is the subject of such report with respect to matters relating to terrorism affecting American citizens or facilities, or which have, in the opinion of the Secretary, a significant impact on United States counterterrorism efforts, including responses to extradition requests; and
 
 &emsp;&emsp;(C) significant support, if any, for international terrorism by each country which is the subject of such report, including (but not limited to)—
 
@@ -58,7 +58,7 @@ The report required under subsection (a) of this section should to the extent fe
 
 (1) Except as provided in paragraph (2), the report required under subsection (a) of this section shall, to the extent practicable, be submitted in an unclassified form and may be accompanied by a classified appendix.
 
-(2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) of this section in classified form would make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
+(2) If the Secretary of State determines that the transmittal of the information with respect to a foreign country under paragraph (3) or (4) of subsection (a) of this section in classified formwould make more likely the cooperation of the government of the foreign country as specified in such paragraph, the Secretary may transmit the information under such paragraph in classified form.
 
 #### (d) Definitions
 
@@ -90,11 +90,11 @@ Subsec. (c). Pub. L. 104–208, §101(c) \[title V, §578(2)\], designated exist
 
 #### Report on Terrorist Activity in Which United States Citizens Were Killed and Related Matters
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VIII, §805\], Nov. 29, 1999, 113 Stat. 1536, 1501A–470, provided that:
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VIII, §805\], Nov. 29, 1999, 113 Stat. 1536, 1501A–470, as amended by Pub. L. 107–228, div. A, title II, §216(c), Sept. 30, 2002, 116 Stat. 1367, provided that:
 
 “(a)
 
-In General.—Not later than 6 months after the date of enactment of this Act \[Nov. 29, 1999\] and every 6 months thereafter until October 1, 2001, the Secretary of State shall prepare and submit a report, with a classified annex as necessary, to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] regarding terrorist attacks in Israel, in territory administered by Israel, and in territory administered by the Palestinian Authority. The report shall contain the following information:
+In General.—Not later than May 1, 2003, and not later than May 1, 2004, the Secretary of State shall prepare and submit a report, with a classified annex as necessary, to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] regarding terrorist attacks in Israel, in territory administered by Israel, and in territory administered by the Palestinian Authority. The report shall contain the following information:
 
 &emsp;“(1) A list of formal commitments the Palestinian Authority has made to combat terrorism.
 

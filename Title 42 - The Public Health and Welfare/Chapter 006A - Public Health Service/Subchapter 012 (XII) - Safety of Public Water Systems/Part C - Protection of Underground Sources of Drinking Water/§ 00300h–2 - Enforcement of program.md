@@ -36,7 +36,7 @@ Civil actions referred to in paragraphs (1) and (2) of subsection (a) of this se
 
 (B) The Administrator shall provide public notice of, and reasonable opportunity to comment on, any proposed order.
 
-(C) Any citizen who comments on any proposed order under subparagraph (B) shall be given notice of any hearing under this subsection and of any order. In any hearing held under subparagraph (A), such citizen shall have a reasonable opportunity to be heard and to present evidence.
+(C) Any citizen who comments on any proposed order under subparagraph (B) shall be given notice of any hearing under this subsection and of any order. In any hearing heldunder subparagraph (A), such citizen shall have a reasonable opportunity to be heard and to present evidence.
 
 (D) Any order issued under this subsection shall become effective 30 days following its issuance unless an appeal is taken pursuant to paragraph (6).
 

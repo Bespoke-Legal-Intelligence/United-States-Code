@@ -127,14 +127,7 @@
 | (b) | Authority. |
 | (c) | Competitive grants program. |
 | (d) | Priority. |
-| [5853\.](Subchapter%20003%20%28III%29%20-%20National%20Agricultural%20Weather%20Information%20System/%C2%A7%2005853%20-%20National%20Advisory%20Board%20on%20Agricultural%20Weather.md) | National Advisory Board on Agricultural Weather. |
-| (a) | Establishment. |
-| (b) | Composition. |
-| (c) | Chairperson. |
-| (d) | Term. |
-| (e) | Meetings. |
-| (f) | Compensation. |
-| (g) | Federal Advisory Committee Act. |
+| [5853\.](Subchapter%20003%20%28III%29%20-%20National%20Agricultural%20Weather%20Information%20System/%C2%A7%2005853%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20VII%2C%20%C2%A77304%28a%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20455.md) | Repealed. |
 | [5854\.](Subchapter%20003%20%28III%29%20-%20National%20Agricultural%20Weather%20Information%20System/%C2%A7%2005854%20-%20State%20agricultural%20weather%20information%20systems.md) | State agricultural weather information systems. |
 | (a) | Advisory program grants. |
 | (b) | Consultation. |
@@ -164,78 +157,9 @@
 
 #### SUBCHAPTER VI—ALTERNATIVE AGRICULTURAL RESEARCH AND COMMERCIALIZATION
 
-|  |  |
-| :--- | ---: |
-| [5901\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005901%20-%20Short%20title%2C%20purposes%2C%20and%20definitions.md) | Short title, purposes, and definitions. |
-| (a) | Short title. |
-| (b) | Purpose. |
-| (c) | Definitions. |
-| [5902\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005902%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization%20Corporation.md) | Alternative Agricultural Research and Commercialization Corporation. |
-| (a) | Establishment. |
-| (b) | Purpose. |
-| (c) | Place of incorporation. |
-| (d) | Central office. |
-| (e) | Wholly-owned Government corporation. |
-| (f) | General powers. |
-| (g) | Specific powers. |
-| [5903\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005903%20-%20Board%20of%20directors%2C%20employees%2C%20and%20facilities.md) | Board of directors, employees, and facilities. |
-| (a) | In general. |
-| (b) | Members of Corporate Board. |
-| (c) | Responsibilities of Corporate Board. |
-| (d) | Chairperson. |
-| (e) | Executive Director. |
-| (f) | Officers. |
-| (g) | Meetings. |
-| (h) | Term; vacancies. |
-| (i) | Compensation. |
-| (j) | Conflict of interest; financial disclosure. |
-| (k) | Delegation of authority. |
-| (<i>l</i>) | Bylaws. |
-| (m) | Organization. |
-| (n) | Personnel and facilities of Corporation. |
-| [5904\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005904%20-%20Research%20and%20development%20grants%2C%20contracts%2C%20and%20agreements.md) | Research and development grants, contracts, and agreements. |
-| (a) | Eligibility. |
-| (b) | Competitive basis for awards. |
-| (c) | Selection criteria. |
-| (d) | Set-aside of funds for certain projects. |
-| (e) | Limitation on funds provided. |
-| (f) | Preference. |
-| [5905\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005905%20-%20Commercialization%20assistance.md) | Commercialization assistance. |
-| (a) | Assistance authorized. |
-| (b) | Eligible entities. |
-| (c) | Application requirements. |
-| (d) | Priorities. |
-| (e) | Additional criteria. |
-| [5906\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005906%20-%20General%20rules%20regarding%20provision%20of%20assistance.md) | General rules regarding provision of assistance. |
-| (a) | Notice of receipt of applications. |
-| (b) | Monitoring. |
-| (c) | Auditing and accountability. |
-| (d) | Information exempt from disclosure. |
-| (e) | Overhead and administrative costs. |
-| (f) | Prohibition on certain uses of assistance. |
-| (g) | Reports. |
-| [5907\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005907%20-%20Regional%20Centers.md) | Regional Centers. |
-| (a) | Establishment. |
-| (b) | Method of establishment. |
-| (c) | Matching of funds. |
-| (d) | Director. |
-| (e) | Activities. |
-| (f) | Review of proposals for assistance. |
-| [5908\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005908%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization%20Revolving%20Fund.md) | Alternative Agricultural Research and Commercialization Revolving Fund. |
-| (a) | Establishment. |
-| (b) | Contents of Fund. |
-| (c) | Funding allocations. |
-| (d) | Authorized administrative expenses. |
-| (e) | Project monitoring. |
-| (f) | Termination of Fund. |
-| (g) | Authorization of appropriations; capitalization. |
-| [5909\.](Subchapter%20006%20%28VI%29%20-%20Alternative%20Agricultural%20Research%20and%20Commercialization/%C2%A7%2005909%20-%20Procurement%20of%20alternative%20agricultural%20research%20and%20commercialization%20products.md) | Procurement of alternative agricultural research and commercialization products. |
-| (a) | “Executive agency” defined. |
-| (b) | Procurement. |
-| (c) | Set-asides. |
-| (d) | Preferences. |
-| (e) | Notice. |
-| (f) | Eligibility. |
+|  |
+| :--- |
+| 5901 to 5909. Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -246,17 +170,21 @@
 | [5921\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005921%20-%20Biotechnology%20risk%20assessment%20research.md) | Biotechnology risk assessment research. |
 | (a) | Purpose. |
 | (b) | Grant program. |
-| (c) | Types of research. |
+| (c) | Research priorities. |
 | (d) | Eligibility requirements. |
 | (e) | Consultation. |
 | (f) | Program coordination. |
 | (g) | Authorization of appropriations. |
-| [5922\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005922%20-%20Graduate%20School%20of%20Department%20of%20Agriculture.md) | Graduate School of Department of Agriculture. |
-| (a) | Training services. |
-| (b) | Goods or services. |
-| (c) | Audits of records. |
-| (d) | Definitions. |
-| [5923\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005923%20-%20Repealed.%20Pub.%20L.%20105%E2%80%93185%2C%20title%20III%2C%20%C2%A7302%28c%29%2C%20June%2023%2C%201998%2C%20112%20Stat.%20563.md) | Repealed. |
+| [5921a.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005921a%20-%20Program%20of%20public%20education%20regarding%20use%20of%20biotechnology%20in%20producing%20food%20for%20human%20consumption.md) | Program of public education regarding use of biotechnology in producing food for human consumption. |
+| (a) | Public information campaign. |
+| (b) | Authorization of appropriations. |
+| [5922\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005922%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20X%2C%20%C2%A710705%28b%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20519.md) | Repealed. |
+| [5923\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005923%20-%20Rural%20electronic%20commerce%20extension%20program.md) | Rural electronic commerce extension program. |
+| (a) | Definitions. |
+| (b) | Establishment. |
+| (c) | Grants. |
+| (d) | Report. |
+| (e) | Authorization of appropriations. |
 | [5924\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005924%20-%20Agricultural%20Genome%20Initiative.md) | Agricultural Genome Initiative. |
 | (a) | Goals. |
 | (b) | Duties of Secretary. |
@@ -285,7 +213,9 @@
 | (b) | Grant types and process, prohibition on construction. |
 | (c) | Matching funds required. |
 | (d) | Partnerships encouraged. |
-| (e) | Authorization of appropriations. |
+| (e) | Funding. |
+| [5925c.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925c%20-%20Organic%20production%20and%20market%20data%20initiatives.md) | Organic production and market data initiatives. |
+| [5925d.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005925d%20-%20International%20organic%20research%20collaboration.md) | International organic research collaboration. |
 | [5926\.](Subchapter%20007%20%28VII%29%20-%20Miscellaneous%20Research%20Provisions/%C2%A7%2005926%20-%20Agricultural%20telecommunications%20program.md) | Agricultural telecommunications program. |
 | (a) | Purpose. |
 | (b) | Objectives. |

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in sections 403q, 404g, 411, 1526 of this title; title 10 sections 167, 421, 437, 2557; title 22 sections 287b, 2415, 2776, 2780, 2799aa–1.
+This subchapter is referred to in sections 403q, 404g, 411, 1526, 2357f of this title; title 10 sections 167, 421, 437, 2557; title 22 sections 287b, 2415, 2776, 2780, 2799aa–1.
 
 
 ---
@@ -14,3 +14,5 @@ This subchapter is referred to in sections 403q, 404g, 411, 1526 of this title; 
 - [&sect; 00413b - Presidential approval and reporting of covert actions](%C2%A7%2000413b%20-%20Presidential%20approval%20and%20reporting%20of%20covert%20actions.md)
 - [&sect; 00414 - Funding of intelligence activities](%C2%A7%2000414%20-%20Funding%20of%20intelligence%20activities.md)
 - [&sect; 00415 - Notice to Congress of certain transfers of defense articles and defense services](%C2%A7%2000415%20-%20Notice%20to%20Congress%20of%20certain%20transfers%20of%20defense%20articles%20and%20defense%20services.md)
+- [&sect; 00415a - Specificity of National Foreign Intelligence Program budget amounts for counterterrorism, counterproliferation, counternarcotics, and&#8230;](%C2%A7%2000415a%20-%20Specificity%20of%20National%20Foreign%20Intelligence%20Program%20budget%20amounts%20for%20counterterrorism%2C%20counterproliferation%2C%20counternarcotics%2C%20and%E2%80%A6.md)
+- [&sect; 00415b - Dates for submittal of various annual and semiannual reports to the congressional intelligence committees](%C2%A7%2000415b%20-%20Dates%20for%20submittal%20of%20various%20annual%20and%20semiannual%20reports%20to%20the%20congressional%20intelligence%20committees.md)

@@ -36,11 +36,11 @@ The Tribe, in consultation with the Secretary, shall take such actions as are re
 
 (1) The power of eminent domain shall not be used by the Secretary or any governmental authority in acquiring parcels of land for the benefit of the Tribe, whether or not the parcels are to be part of the Reservation. All such purchases shall be made only from willing sellers by voluntary conveyances subject to the terms of the Settlement Agreement.
 
-(2) Notwithstanding any other provision of this section and the provisions of sections 257 and 258a of title 40, the Secretary or the Tribe may acquire a fractional interest in land otherwise qualifying under section 14 of the Settlement Agreement for treatment as Reservation land for the benefit of the Tribe from the ostensible owner of the land if the Secretary or the Tribe and the ostensible owner have agreed upon the identity of the land to be sold and upon the purchase price and other terms of sale. If the ostensible owner agrees to the sale, the Secretary may use condemnation proceedings to perfect or clear title and to acquire any interests of putative co-tenants whose address is unknown or the interests of unknown or unborn heirs or persons subject to mental disability.
+(2) Notwithstanding any other provision of this section and the provisions of sections 3113 and 3114(a) to (d) of title 40, the Secretary or the Tribe may acquire a fractional interest in land otherwise qualifying under section 14 of the Settlement Agreement for treatment as Reservation land for the benefit of the Tribe from the ostensible owner of the land if the Secretary or the Tribe and the ostensible owner have agreed upon the identity of the land to be sold and upon the purchase price and other terms of sale. If the ostensible owner agrees to the sale, the Secretary may use condemnation proceedings to perfect or clear title and to acquire any interests of putative co-tenants whose address is unknown or the interests of unknown or unborn heirs or persons subject to mental disability.
 
 #### (f) Terms and conditions of acquisition
 
-All properties acquired by the Tribe shall be acquired subject to the terms and conditions set forth in the Settlement Agreement. The Tribeand the Secretary, acting on behalf of the Tribe and with its consent, are also authorized to acquire Reservation and non-Reservation lands using the methods of financing described in the Settlement Agreement.
+All properties acquired by the Tribe shall be acquired subject to the terms and conditions set forth in the Settlement Agreement. The Tribe and the Secretary, acting on behalf of the Tribe and with its consent, are also authorized to acquire Reservation and non-Reservation lands using the methods of financing described in the Settlement Agreement.
 
 #### (g) Authority to erect permanent improvements on Existing and Expanded Reservation land and non-Reservation land held in trust
 
@@ -77,6 +77,10 @@ The provisions of section 415 of this title shall not apply to the Tribe and its
 The general land acquisition regulations of the Bureau of Indian Affairs, contained in part 151 of title 25, Code of Federal Regulations, shall not apply to the acquisition of lands authorized by this section.
 
 (Pub. L. 103–116, §12, Oct. 27, 1993, 107 Stat. 1133.)
+
+#### Codification
+
+“Sections 3113 and 3114(a) to (d) of title 40” substituted in subsec. (e)(2) for “the first section of the Act of August 1, 1888 (ch. 728, 25 Stat. 357; 40 U.S.C. 257), and the first section of the Act of February 26, 1931 (ch. 307, 46 Stat. 1421; 40 U.S.C. 258a)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Section Referred to in Other Sections
 

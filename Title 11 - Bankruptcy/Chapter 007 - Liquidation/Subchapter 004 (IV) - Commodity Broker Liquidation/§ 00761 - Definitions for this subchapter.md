@@ -36,7 +36,7 @@ In this subchapter—
 
 &emsp;&emsp;&emsp;(ii) entity that holds a claim against such futures commission merchant arising out of—
 
-&emsp;&emsp;&emsp;&emsp;(I) the making, liquidation, or change in the value of a commodity contract of a kind specified in clause (i) of this subparagraph;
+&emsp;&emsp;&emsp;&emsp;(I) the making, liquidation, or change in the value of a commodity contract ofa kind specified in clause (i) of this subparagraph;
 
 &emsp;&emsp;&emsp;&emsp;(II) a deposit or payment of cash, a security, or other property with such futures commission merchant for the purpose of making or margining such a commodity contract; or
 
@@ -156,7 +156,7 @@ Paragraph (10) \[enacted as (9)\] defines the term “customer” to mean with r
 
 The definition of “customer” serves to isolate that class of persons entitled to the protection subchapter IV provides to customers. In addition, section 101(5) defines “commodity broker” to mean a futures commission merchant, foreign futures commission merchant, clearing organization, leverage transaction merchant, or commodity options dealer, with respect to which there is a customer. Accordingly, the definition of customer also serves to designate those entities which must utilize chapter 7 and are precluded from reorganizing under chapter 11.
 
-Paragraph (11) \[enacted as (10)\] defines “customer property” to mean virtually all property or proceedsthereof, received, acquired, or held by or for the account of the debtor for a customer arising out of or in connection with a transaction involving a commodity contract.
+Paragraph (11) \[enacted as (10)\] defines “customer property” to mean virtually all property or proceeds thereof, received, acquired, or held by or for the account of the debtor for a customer arising out of or in connection with a transaction involving a commodity contract.
 
 Paragraph (12) defines “distribution share” to mean the amount to which a customer is entitled under section 765(a).
 

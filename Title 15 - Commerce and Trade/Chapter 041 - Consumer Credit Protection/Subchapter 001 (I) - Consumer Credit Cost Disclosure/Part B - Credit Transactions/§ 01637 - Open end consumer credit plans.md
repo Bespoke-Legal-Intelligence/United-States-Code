@@ -388,7 +388,7 @@ Section 8 of Pub. L. 100–583 provided that: “Not later than 1 year after the
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1602, 1610, 1632, 1640, 1643, 1646, 1666 of this title.
+This section is referred to in sections 78m, 1602, 1610, 1632, 1640, 1643, 1646, 1666 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “conspicuously”.</i>
 

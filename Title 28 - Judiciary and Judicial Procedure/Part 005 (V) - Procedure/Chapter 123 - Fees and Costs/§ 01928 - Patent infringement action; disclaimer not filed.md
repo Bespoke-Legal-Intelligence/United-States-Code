@@ -16,7 +16,7 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent Office”.
+1999—Pub. L. 106–113 substituted “United States Patent and Trademark Office” for “Patent Office”.
 
 #### Effective Date of 1999 Amendment
 

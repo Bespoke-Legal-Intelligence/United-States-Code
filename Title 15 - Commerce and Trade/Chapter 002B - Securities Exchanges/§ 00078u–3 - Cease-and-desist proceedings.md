@@ -16,7 +16,43 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 #### (2) Applicability
 
-&emsp;This subsection shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, or transfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
+&emsp;paragraph (1) subsection <sup>1</sup> shall apply only to a respondent that acts, or, at the time of the alleged misconduct acted, as a broker, dealer, investment adviser, investment company, municipal securities dealer, government securities broker, government securities dealer, registered public accounting firm (as defined in section 7201 of this title), or transfer agent, or is, or was at the time of the alleged misconduct, an associated person of, or a person seeking to become associated with, any of the foregoing.
+
+#### (3) Temporary freeze
+
+#### (A) In general
+
+#### (i) Issuance of temporary order
+
+&emsp;&emsp;&emsp;Whenever, during the course of a lawful investigation involving possible violations of the Federal securities laws by an issuer of publicly traded securities or any of its directors, officers, partners, controlling persons, agents, or employees, it shall appear to the Commission that it is likely that the issuer will make extraordinary payments (whether compensation or otherwise) to any of the foregoing persons, the Commission may petition a Federal district court for a temporary order requiring the issuer to escrow, subject to court supervision, those payments in an interest-bearing account for 45 days.
+
+#### (ii) Standard
+
+&emsp;&emsp;&emsp;A temporary order shall be entered under clause (i), only after notice and opportunity for a hearing, unless the court determines that notice and hearing prior to entry of the order would be impracticable or contrary to the public interest.
+
+#### (iii) Effective period
+
+&emsp;&emsp;&emsp;A temporary order issued under clause (i) shall—
+
+&emsp;&emsp;&emsp;&emsp;(I) become effective immediately;
+
+&emsp;&emsp;&emsp;&emsp;(II) be served upon the parties subject to it; and
+
+&emsp;&emsp;&emsp;&emsp;(III) unless set aside, limited or suspended by a court of competent jurisdiction, shall remain effective and enforceable for 45 days.
+
+#### (iv) Extensions authorized
+
+&emsp;&emsp;&emsp;The effective period of an order under this subparagraph may be extended by the court upon good cause shown for not longer than 45 additional days, provided that the combined period of the order shall not exceed 90 days.
+
+#### (B) Process on determination of violations
+
+#### (i) Violations charged
+
+&emsp;&emsp;&emsp;If the issuer or other person described in subparagraph (A) is charged with any violation of the Federal securities laws before the expiration of the effective period of a temporary order under subparagraph (A) (including any applicable extension period), the order shall remain in effect, subject to court approval, until the conclusion of any legal proceedings related thereto, and the affected issuer or other person, shall have the right to petition the court for review of the order.
+
+#### (ii) Violations not charged
+
+&emsp;&emsp;&emsp;If the issuer or other person described in subparagraph (A) is not charged with anyviolation of the Federal securities laws before the expiration of the effective period of a temporary order under subparagraph (A) (including any applicable extension period), the escrow shall terminate at the expiration of the 45-day effective period (or the expiration of any extension period, as applicable), and the disputed payments (with accrued interest) shall be returned to the issuer or other affected person.
 
 #### (d) Review of temporary orders
 
@@ -46,11 +82,27 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 In any cease-and-desist proceeding under subsection (a) of this section, the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
-(June 6, 1934, ch. 404, title I, §21C, as added Pub. L. 101–429, title II, §203, Oct. 15, 1990, 104 Stat. 939.)
+#### (f) Authority of the Commission to prohibit persons from serving as officers or directors
+
+In any cease-and-desist proceeding under subsection (a) of this section, the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 78j(b) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78<i>l</i> of this title, or that is required to file reports pursuant to section 78<i>o</i>(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
+
+(June 6, 1934, ch. 404, title I, §21C, as added Pub. L. 101–429, title II, §203, Oct. 15, 1990, 104 Stat. 939; amended Pub. L. 107–204, §3(b)(3), title XI, §§1103, 1105(a), July 30, 2002, 116 Stat. 749, 807, 809.)
 
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this title”. See References in Text note set out under section 78a of this title.
+
+Section 7201 of this title, referred to in subsec. (c)(2), was in the original “section 2 of the Sarbanes-Oxley Act of 2002”, Pub. L. 107–204, which enacted section 7201 of this title and amended section 78c of this title.
+
+#### Amendments
+
+2002—Subsec. (c)(2). Pub. L. 107–204, §1103(b), substituted “paragraph (1)” for “This”.
+
+Pub. L. 107–204, §3(b)(3), inserted “registered public accounting firm (as defined in section 7201 of this title),” after “government securities dealer,”.
+
+Subsec. (c)(3). Pub. L. 107–204, §1103(a), added par. (3).
+
+Subsec. (f). Pub. L. 107–204, §1105(a), added subsec. (f).
 
 #### Effective Date
 
@@ -59,4 +111,6 @@ Section effective Oct. 15, 1990, with provisions relating to civil penalties and
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 78j–1, 78u, 78w of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

@@ -6,7 +6,7 @@
 
 #### (b) Interim acquisition authority and injunctive relief
 
-Prior to the concurrence by the Secretary of land use ordinances prescribed by section 544f of this title and the approval by the Commission of land use ordinances prescribed by section 544e of this title, the following authorities are granted:
+Prior to the concurrence by the Secretary of land use ordinances prescribed by section 544f ofthis title and the approval by the Commission of land use ordinances prescribed by section 544e of this title, the following authorities are granted:
 
 &emsp;(1) The Secretary may acquire by condemnation any land or interest which is being used or threatened to be used in a manner inconsistent with the purposes for which the scenic area was established and which will cause or is likely to cause impacts adversely affecting the scenic, cultural, recreation, and natural resources of the scenic area: <i>Provided</i>, That no lands or interests therein can be acquired by condemnation pursuant to this section if used in the same manner and for the same purposes as used on November 17, 1986, unless such land is used for or interest is in the development of sand, gravel, or crushed rock, or the disposal of refuse: <i>Provided further</i>, That within thirty days of the filing by the Secretary of a complaint for condemnation of any land or interest in the scenic area, outside of the special management areas and urban areas, the Commission, by a vote of two-thirds of its membership including a majority of the members appointed from each State, or if the Commission is not in existence the Governor of the State in which the land or interest is located, may disapprove such proposed complaint.
 

@@ -30,7 +30,7 @@ This Act, referred to in text, means Pub. L. 91–601 which enacted this chapter
 
 #### Amendments
 
-1976—Par. (2). Pub. L. 94–284 struck out subpar. (B) which included pesticide as defined in section 136(u) of Title 7 within meaning of “household substance”, and redesignated subpars. (C) and (D) as (B) and (C), respectively.
+1976—Par. (2). Pub. L. 94–284 struck out subpar. (B) which included pesticide as defined in section 136(u) ofTitle 7 within meaning of “household substance”, and redesignated subpars. (C) and (D) as (B) and (C), respectively.
 
 1972—Par. (2)(B). Pub. L. 92–516 substituted “a pesticide” for “an economic poison”.
 

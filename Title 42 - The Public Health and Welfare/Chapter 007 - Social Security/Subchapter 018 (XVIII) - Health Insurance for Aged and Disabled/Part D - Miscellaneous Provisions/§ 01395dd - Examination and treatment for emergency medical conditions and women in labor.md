@@ -50,7 +50,7 @@ In the case of a hospital that has a hospital emergency department, if any indiv
 
 &emsp;&emsp;&emsp;(ii) has agreed to accept transfer of the individual and to provide appropriate medical treatment;
 
-&emsp;&emsp;(C) in which the transferring hospital sends to the receiving facility all medical records (or copies thereof), related to the emergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(1)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment;
+&emsp;&emsp;(C) in which the transferring hospital sends to the receiving facility all medical records (or copies thereof), related to theemergency condition for which the individual has presented, available at the time of the transfer, including records related to the individual's emergency medical condition, observations of signs or symptoms, preliminary diagnosis, treatment provided, results of any tests and the informed written consent or certification (or copy thereof) provided under paragraph (1)(A), and the name and address of any on-call physician (described in subsection (d)(1)(C) of this section) who has refused or failed to appear within a reasonable time to provide necessary stabilizing treatment;
 
 &emsp;&emsp;(D) in which the transfer is effected through qualified personnel and transportation equipment, as required including the use of necessary and medically appropriate life support measures during the transfer; and
 
@@ -96,7 +96,7 @@ In this section:
 
 &emsp;(1) The term “emergency medical condition” means—
 
-&emsp;&emsp;(A) a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that the absence of immediate medical attention could reasonably be expected to result in—
+&emsp;&emsp;(A) a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that the absence ofimmediate medical attention could reasonably be expected to result in—
 
 &emsp;&emsp;&emsp;(i) placing the health of the individual (or, with respect to a pregnant woman, the health of the woman or her unborn child) in serious jeopardy,
 
@@ -112,7 +112,7 @@ In this section:
 
 &emsp;(2) The term “participating hospital” means hospital that has entered into a provider agreement under section 1395cc of this title.
 
-&emsp;(3)(A) The term “to stabilize” means, with respect to an emergency medical condition described in paragraph (1)(A), to provide such medical treatment of the condition as may be necessary to assure, within reasonable medical probability, that no material deterioration of the condition is likely to result from or occurduring the transfer of the individual from a facility, or, with respect to an emergency medical condition described in paragraph (1)(B), to deliver (including the placenta).
+&emsp;(3)(A) The term “to stabilize” means, with respect to an emergency medical condition described in paragraph (1)(A), to provide such medical treatment of the condition as may be necessary to assure, within reasonable medical probability, that no material deterioration of the condition is likely to result from or occur during the transfer of the individual from a facility, or, with respect to an emergency medical condition described in paragraph (1)(B), to deliver (including the placenta).
 
 &emsp;(B) The term “stabilized” means, with respect to an emergency medical condition described in paragraph (1)(A), that no material deterioration of the condition is likely, within reasonable medical probability, to result from or occur during the transfer of the individual from a facility, or, with respect to an emergency medical condition described in paragraph (1)(B), that the woman has delivered (including the placenta).
 
@@ -154,7 +154,7 @@ A prior section 1395dd, act Aug. 14, 1935, ch. 531, title XVIII, §1867, as adde
 
 1990—Subsec. (c)(2)(C). Pub. L. 101–508, §4008(b)(3)(A)(iii), substituted “subsection (d)(1)(C)” for “subsection (d)(2)(C)”.
 
-Subsec. (d)(1). Pub. L. 101–508, §4008(b)(3)(A)(i), (ii), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “If a hospital knowingly and willfully, or negligently, fails to meet the requirements of this section, such hospital is subject to—
+Subsec. (d)(1). Pub. L. 101–508, §4008(b)(3)(A)(i), (ii), redesignated par. (2) as (1) and struck out former par. (1) which read as follows: “If a hospital knowingly andwillfully, or negligently, fails to meet the requirements of this section, such hospital is subject to—
 
 &emsp;“(A) termination of its provider agreement under this subchapter in accordance with section 1395cc(b) of this title, or
 
@@ -214,7 +214,7 @@ Subsec. (d)(2)(C). Pub. L. 101–239, §6211(e)(2), added subpar. (C) and struck
 
 &emsp;“(ii) acting as such an employee or under such a contract, has professional responsibility for the provision of examinations or treatments for the individual, or transfers of the individual, with respect to which the violation occurred.”
 
-Subsec. (e)(1). Pub. L. 101–239, §6211(h)(1)(A), substituted “means—” and subpars. (A) and (B) for “means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) such that the absence of immediate medical attention could reasonably be expected to result in—
+Subsec. (e)(1). Pub. L. 101–239, §6211(h)(1)(A), substituted “means—” and subpars. (A) and (B) for “means a medical condition manifesting itself by acute symptoms of sufficient severity (including severe pain) suchthat the absence of immediate medical attention could reasonably be expected to result in—
 
 &emsp;“(A) placing the patient's health in serious jeopardy,
 
@@ -290,11 +290,11 @@ Section 9121(c) of Pub. L. 99–272 provided that: “The amendments made by thi
 
 #### Inspector General Study of Prohibition on Hospital Employment of Physicians
 
-Section 4008(c) of Pub. L. 101–508 directed Secretary of Health and Human Services (acting through Inspector General of Department of Health and Human Services) to conduct a study of the effect of State laws prohibiting the employment of physicians by hospitals on the availability and accessibility of trauma and emergency care services, and include in such study an analysis of the effect of such laws on the ability of hospitals to meet the requirements of section 1867 of the Social Security Act (this section) relating to the examination and treatment of individuals with an emergency medical condition and women in labor, with Secretary to submit a report to Congress on the study not later than 1 year after Nov. 5, 1990.
+Section 4008(c) of Pub. L. 101–508 directed Secretary of Health and Human Services (acting through Inspector General of Department of Health and Human Services) to conduct a study of the effect of State laws prohibiting the employment of physicians by hospitals on the availability and accessibility of trauma and emergency care services, and include in such study an analysis of the effect of such laws on the ability of hospitals to meet the requirements of section 1867 of the Social Security Act (this section) relating to the examinationand treatment of individuals with an emergency medical condition and women in labor, with Secretary to submit a report to Congress on the study not later than 1 year after Nov. 5, 1990.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 300d–13, 1320c–3, 1395w–22, 1395cc of this title.
+This section is referred to in sections 300d–13, 1320b–5, 1320c–3, 1395w–22, 1395cc of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a comma.</i>
 

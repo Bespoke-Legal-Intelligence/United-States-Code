@@ -14,6 +14,10 @@ It shall be unlawful for any person or vessel subject to the jurisdiction of the
 
 Transfer of functions to Secretary of Commerce from Secretary of the Interior by Reorg. Plan No. 4 of 1970, see note set out under section 916 of this title.
 
+#### Emergency Assistance for Subsistence Whale Hunters
+
+Pub. L. 107–372, title IV, §403, Dec. 19, 2002, 116 Stat. 3102, provided that: “Notwithstanding any provision of law, the use of a vessel to tow a whale taken in a traditional subsistence whale hunt permitted by Federal law and conducted in waters off the coast of Alaska is authorized, if such towing is performed upon a request for emergency assistance made by a subsistence whale hunting organization formally recognized by an agency of the United States Government, or made by a member of such an organization, to prevent the loss of a whale.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 916f of this title.

@@ -4,7 +4,7 @@
 
 #### (1) Adoption
 
-&emsp;Not later than 24 months after September 21, 1994, the Secretary shall conduct, by secret ballot, elections for the purposes of adopting new constitutions for the Bands. The elections shall be held according to the procedures applicable to elections under section 476 of this title.
+&emsp;Not later than 24 months after September 21, 1994, the Secretary shall conduct, by secret ballot, elections for the purposes of adoptingnew constitutions for the Bands. The elections shall be held according to the procedures applicable to elections under section 476 of this title.
 
 #### (2) Interim governing documents
 

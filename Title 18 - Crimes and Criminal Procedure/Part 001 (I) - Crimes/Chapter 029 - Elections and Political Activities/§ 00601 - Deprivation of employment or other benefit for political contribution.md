@@ -34,7 +34,3 @@ Changes were made in phraseology.
 
 1976—Pub. L. 94–453 struck out provisions relating to deprivations based upon race, creed, and color which are now set out in section 246 of this title, replaced term “political activity” with more precise terms and definitions, and raised the amount of maximum fine from $1,000 to $10,000.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
-

@@ -1,6 +1,6 @@
 ### §1338. Patents, plant variety protection, copyrights, mask works, designs, trademarks, and unfair competition
 
-(a) The district courts shall have original jurisdiction of any civil action arising under any Act of Congress relating to patents, plant variety protection, copyrights and trademarks. Such jurisdiction shall be exclusive of the courts of the states in patent, plant variety protection and copyright cases.
+(a) The district courts shall have original jurisdiction of any civil action arising under anyAct of Congress relating to patents, plant variety protection, copyrights and trademarks. Such jurisdiction shall be exclusive of the courts of the states in patent, plant variety protection and copyright cases.
 
 (b) The district courts shall have original jurisdiction of any civil action asserting a claim of unfair competition when joined with a substantial and related claim under the copyright, patent, plant variety protection or trademark laws.
 
@@ -24,17 +24,17 @@ Subsection (b) is added and is intended to avoid “piecemeal” litigation to e
 
 #### Amendments
 
-<b>1999</b>—Pub. L. 106–113 substituted “trademarks” for “trade-marks” in section catchline and subsec. (a) and substituted “trademark” for “trade-mark” in subsec. (b).
+1999—Pub. L. 106–113 substituted “trademarks” for “trade-marks” in section catchline and subsec. (a) and substituted “trademark” for “trade-mark” in subsec. (b).
 
-<b>1998</b>—Pub. L. 105–304, §503(b)(2)(A), inserted “designs,” after “mask works,” in section catchline.
+1998—Pub. L. 105–304, §503(b)(2)(A), inserted “designs,” after “mask works,” in section catchline.
 
 Subsec. (c). Pub. L. 105–304, §503(b)(1), inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”.
 
-<b>1988</b>—Pub. L. 100–702, §1020(a)(4)(B), amended section catchline generally, inserting “mask works,” after “copyrights,”.
+1988—Pub. L. 100–702, §1020(a)(4)(B), amended section catchline generally, inserting “mask works,” after “copyrights,”.
 
 Subsec. (c). Pub. L. 100–702, §1020(a)(4)(A), added subsec. (c).
 
-<b>1970</b>—Pub. L. 91–577 inserted references to “plant variety protection” in section catchline and in subsecs. (a) and (b).
+1970—Pub. L. 91–577 inserted references to “plant variety protection” in section catchline and in subsecs. (a) and (b).
 
 #### Effective Date of 1970 Amendment
 

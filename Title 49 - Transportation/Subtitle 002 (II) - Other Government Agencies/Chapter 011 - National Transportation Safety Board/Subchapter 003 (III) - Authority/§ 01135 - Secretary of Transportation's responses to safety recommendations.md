@@ -20,7 +20,7 @@ Public Availability.—The Board shall make a copy of each recommendation and re
 
 (d)
 
-Reports to Congress.—The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board tothe Secretary during the prior year and a copy of the Secretary's response to each recommendation.
+Reports to Congress.—The Secretary shall submit to Congress on January 1 of each year a report containing each recommendation on transportation safety made by the Board to the Secretary during the prior year and a copy of the Secretary's response to each recommendation.
 
 (Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 755.)
 
@@ -57,4 +57,20 @@ In subsection (a)(1), the word “complete” is substituted for “in full” f
 #### Termination of Reporting Requirements
 
 For termination, effective May 15, 2000, of reporting provisions in subsec. (d) of this section, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 4th item on page 138 of House Document No. 103–7.
+
+#### NTSB Safety Recommendations
+
+Pub. L. 107–355, §19, Dec. 17, 2002, 116 Stat. 3009, provided that:
+
+“(a)
+
+In General.—The Secretary of Transportation, the Administrator of Research and Special Program Administration, and the Director of the Office of Pipeline Safety shall fully comply with section 1135 of title 49, United States Code, to ensure timely responsiveness to National Transportation Safety Board recommendations about pipeline safety.
+
+“(b)
+
+Public Availability.—The Secretary, Administrator, or Director, respectively, shall make a copy of each recommendation on pipeline safety and response, as described in subsections (a) and (b) of section 1135, title 49, United States Code.
+
+“(c)
+
+Reports to Congress.—The Secretary, Administrator, or Director, respectively, shall submit to Congress by January 1 of each year a report containing each recommendation on pipeline safety made by the Board during the prior year and a copy of the response to each such recommendation.”
 

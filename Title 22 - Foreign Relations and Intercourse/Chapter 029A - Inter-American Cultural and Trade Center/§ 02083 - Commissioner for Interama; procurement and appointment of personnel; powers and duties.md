@@ -10,7 +10,7 @@
 
 &emsp;(3) to enter into contracts;
 
-&emsp;(4) to select, purchase, rent, construct, or otherwise acquire exhibits, including materials and equipment therefor, and to provide for the transportation, insurance, display, maintenance, and dismantling thereof;
+&emsp;(4) to select, purchase, rent, construct, or otherwise acquire exhibits, including materials and equipment therefor, and to providefor the transportation, insurance, display, maintenance, and dismantling thereof;
 
 &emsp;(5) to incur such other expenses as may be necessary; and
 

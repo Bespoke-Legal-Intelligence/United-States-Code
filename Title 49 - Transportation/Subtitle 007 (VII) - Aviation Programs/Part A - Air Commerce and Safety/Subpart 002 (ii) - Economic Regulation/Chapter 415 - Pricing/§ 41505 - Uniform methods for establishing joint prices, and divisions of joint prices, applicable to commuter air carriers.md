@@ -6,7 +6,7 @@ Definition.—In this section, “commuter air carrier” means an air carrier p
 
 (b)
 
-General.—Except as provided in subsection (c) of this section, when the Secretary of Transportation prescribes under section 41508 or 41509 of this title a uniform method generallyapplicable to establishing joint prices and divisions of joint prices for and between air carriers holding certificates issued under section 41102 of this title, the Secretary shall make that uniform method apply to establishing joint prices and divisions of joint prices for and between air carriers and commuter air carriers.
+General.—Except as provided in subsection (c) of this section, when the Secretary of Transportation prescribes under section 41508 or 41509 of this title a uniform method generally applicable to establishing joint prices and divisions of joint prices for and between air carriers holding certificates issued under section 41102 of this title, the Secretary shall make that uniform method apply to establishing joint prices and divisions of joint prices for and between air carriers and commuter air carriers.
 
 (c)
 
@@ -52,7 +52,7 @@ In subsection (a), the text of 49 App.:1482a(2)(A) is omitted as unnecessary bec
 
 In subsection (b), the words “Except as provided in subsection (c) of this section” are added for clarity. The words “pursuant to its authority” are omitted as surplus.
 
-In subsection (c), the word “passengers” is substituted for “persons” for consistency in the revised title and with other titles of the Code. The words “through service by the commuter air carrier over the commuter air carrier's routes” are substituted for “transportation over its routes” for clarity. The words “between air carriers and commuter air carriers” are omitted as surplus.
+In subsection (c), the word “passengers” is substituted for “persons” for consistency in the revisedtitle and with other titles of the Code. The words “through service by the commuter air carrier over the commuter air carrier's routes” are substituted for “transportation over its routes” for clarity. The words “between air carriers and commuter air carriers” are omitted as surplus.
 
 #### Section Referred to in Other Sections
 

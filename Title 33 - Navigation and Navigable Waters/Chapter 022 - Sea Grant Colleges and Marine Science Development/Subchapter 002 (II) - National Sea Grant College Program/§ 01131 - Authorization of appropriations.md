@@ -4,53 +4,57 @@
 
 #### (1) In general
 
-&emsp;There is authorized to be appropriated to carry out this subchapter—
+&emsp;There are authorized to be appropriated to the Secretary to carry out this subchapter—
 
-&emsp;&emsp;(A) $56,000,000 for fiscal year 1999;
+&emsp;&emsp;(A) $60,000,000 for fiscal year 2003;
 
-&emsp;&emsp;(B) $57,000,000 for fiscal year 2000;
+&emsp;&emsp;(B) $75,000,000 for fiscal year 2004;
 
-&emsp;&emsp;(C) $58,000,000 for fiscal year 2001;
+&emsp;&emsp;(C) $77,500,000 for fiscal year 2005;
 
-&emsp;&emsp;(D) $59,000,000 for fiscal year 2002; and
+&emsp;&emsp;(D) $80,000,000 for fiscal year 2006;
 
-&emsp;&emsp;(E) $60,000,000 for fiscal year 2003.
+&emsp;&emsp;(E) $82,500,000 for fiscal year 2007; and
 
-#### (2) Zebra mussel and oyster research
+&emsp;&emsp;(F) $85,000,000 for fiscal year 2008.
 
-&emsp;In addition to the amount authorized for each fiscal year under paragraph (1)—
+#### (2) Priority activities
 
-&emsp;&emsp;(A) up to $2,800,000 may be made available as provided in section 4741(b)(4)(A) of title 16 for competitive grants for university research on the zebra mussel;
+&emsp;In addition to the amounts authorized under paragraph (1), there are authorized to be appropriated for each of fiscal years 2003 through 2008—
 
-&emsp;&emsp;(B) up to $3,000,000 may be made available for competitive grants for university research on oyster diseases and oyster-related human health risks; and
+&emsp;&emsp;(A) $5,000,000 for competitive grants for university research on the biology and control of zebra mussels and other important aquatic nonnative species;
 
-&emsp;&emsp;(C) up to $3,000,000 may be made available for competitive grants for university research on Pfiesteria piscicida and other harmful algal blooms.
+&emsp;&emsp;(B) $5,000,000 for competitive grants for university research on oyster diseases, oyster restoration, and oyster-related human health risks;
 
-#### (b) Program elements
+&emsp;&emsp;(C) $5,000,000 for competitive grants for university research on the biology, prevention, and forecasting of harmful algal blooms, including Pfiesteria piscicida; and
 
-(1)
+&emsp;&emsp;(D) $3,000,000 for competitive grants for fishery extension activities conducted by sea grant colleges or sea grant institutes to enhance, and not supplant, existing core program funding.
 
-Limitation.—No more than 5 percent of the lesser of—
+#### (b) Limitations
 
-&emsp;(A) the amount authorized to be appropriated; or
+#### (1) Administration
 
-&emsp;(B) the amount appropriated,
+&emsp;There may not be used for administration of programs under this subchapter in a fiscal year more than 5 percent of the lesser of—
 
-> for each fiscal year under subsection (a) of this section may be used to fund the program element contained in section 1123(b)(2) of this title.
+&emsp;&emsp;(A) the amount authorized to be appropriated under this subchapter for the fiscal year; or
 
-(2) Sums appropriated under the authority of subsections (a) and (c) of this section shall not be available for administration of this subchapter by the National Sea Grant Office, or for Administration program or administrative expenses.
+&emsp;&emsp;(B) the amount appropriated under this subchapter for the fiscal year.
 
-#### (c) Priority oyster disease research
+#### (2) Use for other offices or programs
 
-In addition to sums authorized under subsection (a) of this section, there is authorized to be appropriated for priority oyster disease research under section 1124 of this title, an amount—
+&emsp;Sums appropriated under the authority of subsection (a)(2) of this section shall not be available for administration of this subchapter by the National Sea Grant Office, for any other Administration or department program, or for any other administrative expenses.
 
-&emsp;(1) for fiscal year 1992, not to exceed $1,400,000;
+#### (c) Distribution of funds
 
-&emsp;(2) for fiscal year 1993, not to exceed $3,000,000;
+In any fiscal year in which the appropriations made under subsection (a)(1) of this section exceed the amounts appropriated for fiscal year 2003 for the purposes described in such subsection, the Secretary shall distribute any excess amounts (except amounts used for the administration of the sea grant program) to any combination of the following:
 
-&emsp;(3) for fiscal year 1994, not to exceed $3,000,000; and
+&emsp;(1) sea grant programs, according to their rating under section 1123(d)(3)(A) of this title;
 
-&emsp;(4) for fiscal year 1995, not to exceed $3,000,000.
+&emsp;(2) national strategic investments authorized under section 1123(b)(4) of this title;
+
+&emsp;(3) a college, university, institution, association, or alliance for activities that are necessary for it to be designated as a sea grant college or sea grant institute; and
+
+&emsp;(4) a sea grant college or sea grant institute designated after November 26, 2002, but not yet evaluated under section 1123(d)(3)(A) of this title.
 
 #### (d) Availability of sums
 
@@ -60,13 +64,15 @@ Sums appropriated pursuant to this section shall remain available until expended
 
 The amount of any grant, or portion of a grant, made to a person under any section of this subchapter that is not obligated by that person during the first fiscal year for which it was authorized to be obligated or during the next fiscal year thereafter shall revert to the Secretary. The Secretary shall add that reverted amount to the funds available for grants under the section for which the reverted amount was originally made available.
 
-(Pub. L. 89–454, title II, §212, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–58, §1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, §3(5), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, §1(6), June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, §501(a), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, §3110, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–186, §3, Dec. 4, 1991, 105 Stat. 1282; Pub. L. 105–160, §9(a), (b), Mar. 6, 1998, 112 Stat. 26.)
+(Pub. L. 89–454, title II, §212, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1968; amended Pub. L. 95–58, §1, June 29, 1977, 91 Stat. 254; Pub. L. 95–428, §3(5), Oct. 7, 1978, 92 Stat. 1000; Pub. L. 96–289, §1(6), June 28, 1980, 94 Stat. 605; Pub. L. 98–623, title V, §501(a), Nov. 8, 1984, 98 Stat. 3410; Pub. L. 100–220, title III, §3110, Dec. 29, 1987, 101 Stat. 1474; Pub. L. 102–186, §3, Dec. 4, 1991, 105Stat. 1282; Pub. L. 105–160, §9(a), (b), Mar. 6, 1998, 112 Stat. 26; Pub. L. 107–299, §7, Nov. 26, 2002, 116 Stat. 2347.)
 
 #### References in Text
 
-This subchapter, referred to in subsecs. (a)(1), (b)(2), and (e), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
+This subchapter, referred to in subsec. (e), was in the original “this Act” and was translated as reading “this title” meaning title II of Pub. L. 89–454, which enacted this subchapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2002—Subsecs. (a) to (c). Pub. L. 107–299 amended subsecs. (a) to (c) generally, substituting provisions relating to authorization, limitations, and distribution of funds for provisions relating to authorization, program elements, and priority oyster disease research.
 
 1998—Subsec. (a). Pub. L. 105–160, §9(a), inserted heading and amended text of subsec. (a) generally. Prior to amendment, text read as follows: “There is authorized to be appropriated to carry out the provisions of sections 1124 and 1127 of this title, and section 1124a of this title, an amount—
 
@@ -130,7 +136,7 @@ Subsec. (b). Pub. L. 105–160, §9(b), inserted subsec. heading and amended par
 
 #### Notice of Reprogramming
 
-Pub. L. 105–160, §9(c), Mar. 6, 1998, 112 Stat. 26, provided that: “If any funds authorized by this section aresubject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science and Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
+Pub. L. 105–160, §9(c), Mar. 6, 1998, 112 Stat. 26, provided that: “If any funds authorized by this section are subject to a reprogramming action that requires notice to be provided to the Appropriations Committees of the House of Representatives and the Senate, notice of such action shall concurrently be provided to the Committees on Science and Resources of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.”
 
 #### Section Referred to in Other Sections
 

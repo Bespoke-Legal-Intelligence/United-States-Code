@@ -2,7 +2,7 @@
 
 #### (a) Right of recovery
 
-Except as provided in subsection (f) of this section, the United States, an Indian tribe, or a tribal organization shall have the right to recover the reasonable expenses incurred by the Secretary, an Indian tribe, or a tribal organization in providing health services, through theService, an Indian tribe, or a tribal organization, to any individual to the same extent that such individual, or any nongovernmental provider of such services, would be eligible to receive reimbursement or indemnification for such expenses if—
+Except as provided in subsection (f) of this section, the United States, an Indian tribe, or a tribal organization shall have the right to recover the reasonable expenses incurred by the Secretary, an Indian tribe, or a tribal organization in providing health services, through the Service, an Indian tribe, or a tribal organization, to any individual to the same extent that such individual, or any nongovernmental provider of such services, would be eligible to receive reimbursement or indemnification for such expenses if—
 
 &emsp;(1) such services had been provided by a nongovernmental provider, and
 

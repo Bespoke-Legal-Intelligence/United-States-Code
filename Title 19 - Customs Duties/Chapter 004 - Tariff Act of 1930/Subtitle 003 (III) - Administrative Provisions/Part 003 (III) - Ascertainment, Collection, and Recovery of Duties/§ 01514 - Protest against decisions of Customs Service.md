@@ -18,7 +18,7 @@ Except as provided in subsection (b) of this section, section 1501 of this title
 
 &emsp;(7) the refusal to reliquidate an entry under subsection (c) or (d) of section 1520 of this title;
 
-> shall be final and conclusive upon all persons (including the United States and any officer thereof) unless a protest is filed in accordance with this section, or unless a civil action contesting the denial of a protest, in whole or in part, is commenced in the United States Court of International Trade in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title. When a judgment or order of the United States Court of International Trade has become final, the papers transmitted shall be returned, together with a copy of the judgment or order to the Customs Service, which shall take action accordingly.
+> shall be final and conclusive upon all persons (including the United States and any officer thereof) unless a protest is filed in accordance with this section, or unless a civil action contesting the denial of a protest, in whole or in part, is commenced in the United States Court of International Trade in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title. When a judgment or order of the United States Court of International Trade has become final, the papers transmitted shall be returned, together with acopy of the judgment or order to the Customs Service, which shall take action accordingly.
 
 #### (b) Finality of determinations
 
@@ -78,7 +78,7 @@ If the Customs Service finds indications of a pattern of conduct by an exporter 
 
 > until the person establishes to the satisfaction of the Customs Service that its representations are in conformity with section 3332 of this title.
 
-(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26, 1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171.)
+(June 17, 1930, ch. 497, title IV, §514, 46 Stat. 734; Pub. L. 91–271, title II, §207, June 2, 1970, 84 Stat. 284; Pub. L. 96–39, title X, §1001(b)(3), July 26,1979, 93 Stat. 305; Pub. L. 96–417, title VI, §§601(5), 605, Oct. 10, 1980, 94 Stat. 1744; Pub. L. 98–573, title VI, §612(b)(1), Oct. 30, 1984, 98 Stat. 3034; Pub. L. 99–514, title XVIII, §1888(4), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–449, title IV, §403(b), Sept. 28, 1988, 102 Stat. 1884; Pub. L. 103–182, title II, §208, title IV, §412(a), title VI, §645, Dec. 8, 1993, 107 Stat. 2097, 2146, 2206; Pub. L. 104–295, §21(e)(7), Oct. 11, 1996, 110 Stat. 3531; Pub. L. 106–36, title II, §2408(b), June 25, 1999, 113 Stat. 171.)
 
 #### References in Text
 
@@ -132,7 +132,7 @@ Subsecs. (e), (f). Pub. L. 103–182, §208(3), added subsecs. (e) and (f).
 
 1984—Subsec. (a). Pub. L. 98–573 substituted “section 1677(9)(C), (D), (E), and (F) of this title” for “section 1677(9)(C), (D), and (E) of this title” in provisions preceding par. (1).
 
-1980—Subsec. (a). Pub. L. 96–417, §§601(5), 605, redesignated the United States Customs Court as the United States Court of International Trade, inserted in item (4) provision for decisions as to a demand for redelivery to customs custody and the phrase “, except a determination appealable under section 1337 of this title” and substituted provision for contesting denial of a protest in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title for provision for such contest in accordance with section 2632 of title 28 within the time prescribed by section 2631 of that title.
+1980—Subsec. (a). Pub. L. 96–417, §§601(5), 605, redesignated the United States Customs Court as the United States Court of International Trade, inserted in item (4) provision for decisions as to a demand for redelivery to customs custody and the phrase “, except a determination appealable under section 1337 of this title” and substituted provision for contesting denial of a protest in accordance with chapter 169 of title 28 within the time prescribed by section 2636 of that title for provision for such contest in accordance with section 2632 of title 28 within the time prescribed by section 2631 of that title.
 
 Subsec. (b). Pub. L. 96–417, §601(5), redesignated the United States Customs Court as the United States Court of International Trade.
 
@@ -140,7 +140,7 @@ Subsec. (b). Pub. L. 96–417, §601(5), redesignated the United States Customs 
 
 Subsec. (b). Pub. L. 96–39, §1001(b)(3)(D), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c)(1). Pub. L. 96–39, §1001(b)(3)(C), (E), redesignated former subsec. (b)(1) as (c)(1) and substituted provisions that, except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed by importers or consignees or their sureties, persons paying a charge or exaction, persons seeking entry or delivery, persons filing a claim for drawback, and authorized agents of such persons for provisions that, except as otherwise provided in section 1557(b) of this title, protests could be filed only by importers, consignees, or the authorized agents of persons paying any charges, or exactions, persons filing claims for drawback, or persons seeking entry or delivery.
+Subsec. (c)(1). Pub. L. 96–39, §1001(b)(3)(C), (E), redesignated former subsec. (b)(1) as (c)(1) and substituted provisions that, except as provided in sections 1485(d) and 1557(b) of this title, protests may be filed by importers or consignees or their sureties, persons paying a charge or exaction, persons seeking entry or delivery, persons filing a claim for drawback, and authorized agents of such persons for provisions that, except as otherwise provided in section 1557(b) of this title, protests could be filed only by importers, consignees, orthe authorized agents of persons paying any charges, or exactions, persons filing claims for drawback, or persons seeking entry or delivery.
 
 Subsec. (c)(2). Pub. L. 96–39, §1001(b)(3)(C), (F), redesignated former subsec. (b)(2) as (c)(2) and inserted provision that a protest by a surety which has an unsatisfied legal claim under its bond may be filed within 90 days from the date of mailing of notice of demand for payment against its bond and that, if another party has not filed a timely protest, the surety's protest shall certify that it is not being filed collusively to extend another authorized person's time to protest as specified in this subsection.
 
@@ -183,6 +183,8 @@ For effective date of amendment by Pub. L. 91–271, see section 203 of Pub. L. 
 Amendment by section 208 of Pub. L. 103–182 to be made after amendment by section 645 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
 
 #### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of Secretary of the Treasury under this section insofar as they relate to any protest, petition, or notice of desire to contest described in section 1002(b)(1) of the Trade Agreements Act of 1979, set out as a note under section 1516a of this title, transferred to Secretary of Commerce pursuant to Reorg. Plan No. 3 of 1979, §5(a)(1)(D), 44 F.R. 69275, 93 Stat. 1381, eff. Jan. 2, 1980, as provided by section 1–107(a) of Ex. Ord. No. 12188, Jan. 2, 1980, 45 F.R. 993, set out as notes under section 2171 of this title.
 

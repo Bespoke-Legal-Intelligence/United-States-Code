@@ -48,6 +48,69 @@
 | (a) | Facilities plan. |
 | (b) | Status of facilities under construction. |
 | [1862m.](%C2%A7%2001862m%20-%20Financial%20disclosure.md) | Financial disclosure. |
+| [1862n.](%C2%A7%2001862n%20-%20Mathematics%20and%20science%20education%20partnerships.md) | Mathematics and science education partnerships. |
+| (a) | Program authorized. |
+| (b) | Selection process. |
+| (c) | Accountability and dissemination. |
+| 1862n–1. | Robert Noyce Scholarship Program. |
+| (a) | Scholarship program. |
+| (b) | Selection process. |
+| (c) | Scholarship requirements. |
+| (d) | Stipends. |
+| (e) | Conditions of support. |
+| (f) | Collection for noncompliance. |
+| (g) | Failure to complete service obligation. |
+| (h) | Data collection. |
+| (i) | Definitions. |
+| 1862n–2. | Establishment of centers for research on mathematics and science learning and education improvement. |
+| (a) | Establishment. |
+| (b) | Selection process. |
+| (c) | Annual conference. |
+| (d) | Coordination. |
+| 1862n–3. | Duplication of programs. |
+| (a) | In general. |
+| (b) | Implementation. |
+| (c) | Report. |
+| 1862n–4. | Major research equipment and facilities construction plan. |
+| (a) | Prioritization of proposed major research equipment and facilities construction. |
+| (b) | Omitted. |
+| (c) | Project management. |
+| (d) | Board approval of major research equipment and facilities projects. |
+| (e) | National Academy of Sciences study on major research equipment and facilities construction. |
+| 1862n–5. | Board meetings; audits; reports; scholarship eligibility. |
+| (a) | Board meetings. |
+| (b), (c) | Omitted. |
+| (d) | Scholarship eligibility. |
+| 1862n–6. | Undergraduate education reform. |
+| (a) | In general. |
+| (b) | Uses of funds. |
+| (c) | Selection process. |
+| 1862n–7. | Reports. |
+| (a) | Grant size and duration. |
+| (b) | Faculty. |
+| (c) | Grant funding. |
+| (d) | Study of broadband network access for schools and libraries. |
+| (e) | Minority-serving institution funding. |
+| 1862n–8. | Evaluations. |
+| (a) | Education. |
+| (b) | Awards. |
+| (c) | Dissemination. |
+| 1862n–9. | Astronomy and Astrophysics Advisory Committee. |
+| (a) | Establishment. |
+| (b) | Duties. |
+| (c) | Membership. |
+| (d) | Selection process. |
+| (e) | Chairperson. |
+| (f) | Coordination. |
+| (g) | Compensation. |
+| (h) | Meetings. |
+| (i) | Quorum. |
+| (j) | Duration. |
+| 1862n–10. | Minority-serving institutions undergraduate program. |
+| (a) | In general. |
+| (b) | Program components. |
+| (c) | Program coordination. |
+| (d) | Instrumentation. |
 | [1863\.](%C2%A7%2001863%20-%20National%20Science%20Board.md) | National Science Board. |
 | (a) | Composition; appointment; establishment of policies of the Foundation. |
 | (b) | Executive Committee; delegation of powers and functions. |
@@ -162,6 +225,17 @@ This chapter is referred to in title 15 section 3707; title 20 section 3444.
 - [&sect; 01862k - Findings; core strategies](%C2%A7%2001862k%20-%20Findings%3B%20core%20strategies.md)
 - [&sect; 01862l - National research facilities](%C2%A7%2001862l%20-%20National%20research%20facilities.md)
 - [&sect; 01862m - Financial disclosure](%C2%A7%2001862m%20-%20Financial%20disclosure.md)
+- [&sect; 01862n - Mathematics and science education partnerships](%C2%A7%2001862n%20-%20Mathematics%20and%20science%20education%20partnerships.md)
+- [&sect; 01862n&#8211;1 - Robert Noyce Scholarship Program](%C2%A7%2001862n%E2%80%931%20-%20Robert%20Noyce%20Scholarship%20Program.md)
+- [&sect; 01862n&#8211;2 - Establishment of centers for research on mathematics and science learning and education improvement](%C2%A7%2001862n%E2%80%932%20-%20Establishment%20of%20centers%20for%20research%20on%20mathematics%20and%20science%20learning%20and%20education%20improvement.md)
+- [&sect; 01862n&#8211;3 - Duplication of programs](%C2%A7%2001862n%E2%80%933%20-%20Duplication%20of%20programs.md)
+- [&sect; 01862n&#8211;4 - Major research equipment and facilities construction plan](%C2%A7%2001862n%E2%80%934%20-%20Major%20research%20equipment%20and%20facilities%20construction%20plan.md)
+- [&sect; 01862n&#8211;5 - Board meetings; audits; reports; scholarship eligibility](%C2%A7%2001862n%E2%80%935%20-%20Board%20meetings%3B%20audits%3B%20reports%3B%20scholarship%20eligibility.md)
+- [&sect; 01862n&#8211;6 - Undergraduate education reform](%C2%A7%2001862n%E2%80%936%20-%20Undergraduate%20education%20reform.md)
+- [&sect; 01862n&#8211;7 - Reports](%C2%A7%2001862n%E2%80%937%20-%20Reports.md)
+- [&sect; 01862n&#8211;8 - Evaluations](%C2%A7%2001862n%E2%80%938%20-%20Evaluations.md)
+- [&sect; 01862n&#8211;9 - Astronomy and Astrophysics Advisory Committee](%C2%A7%2001862n%E2%80%939%20-%20Astronomy%20and%20Astrophysics%20Advisory%20Committee.md)
+- [&sect; 01862n&#8211;10 - Minority-serving institutions undergraduate program](%C2%A7%2001862n%E2%80%9310%20-%20Minority-serving%20institutions%20undergraduate%20program.md)
 - [&sect; 01863 - National Science Board](%C2%A7%2001863%20-%20National%20Science%20Board.md)
 - [&sect; 01864 - Director of Foundation](%C2%A7%2001864%20-%20Director%20of%20Foundation.md)
 - [&sect; 01864a - Deputy Director of the Foundation](%C2%A7%2001864a%20-%20Deputy%20Director%20of%20the%20Foundation.md)

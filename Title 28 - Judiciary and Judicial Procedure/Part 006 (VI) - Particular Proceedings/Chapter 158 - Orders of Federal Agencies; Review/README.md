@@ -19,15 +19,13 @@
 
 #### Amendments
 
-<b>1982</b>—Pub. L. 97–164, title I, §138, Apr. 2, 1982, 96 Stat. 42, struck out item 2353 “Decision of the Plant Variety Protection Office”.
+1982—Pub. L. 97–164, title I, §138, Apr. 2, 1982, 96 Stat. 42, struck out item 2353 “Decision of the Plant Variety Protection Office”.
 
-<b>1966</b>—Pub. L. 89–773, §4, Nov. 6, 1966, 80 Stat. 1323, struck out item 2352 “Rules”.
-
-Pub. L. 89–554, §4(e), Sept. 6, 1966, 80 Stat. 621, added chapter 158 and items 2341 to 2352.
+1966—Pub. L. 89–773, §4, Nov. 6, 1966, 80 Stat. 1323, struck out item 2352 “Rules”.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 2321 of this title; title 2 section 1407; title 7 sections 2279e, 7734; title 8 section 1252; title 21 sections 104, 117, 122, 127, 134e, 135a; title 31 section 755; title 39 section 3628; title 42 sections 2000e–16c, 2239, 2242, 3612; title 45 section 431; title 46 App. section 1712; title 47 section 402; title 49 sections 13907, 20114; title 50 section 167h.
+This chapter is referred to in section 2321 of this title; title 2 section 1407; title 7 sections 2279e, 7734, 8309, 8313; title 8 section 1252; title 31 section 755; title 39 section 3628; title 42 sections 2000e–16c, 2239, 2242, 3612; title 45 section 431; title 46 App. section 1712; title 47 section 402; title 49 sections 13907, 20114; title 50 section 167h.
 
 
 ---

@@ -58,7 +58,7 @@ Each State desiring to administer its own permit program for disposal of sewage 
 
 #### (3) Alternative standards
 
-&emsp;For purposes of this subsection, if, in the judgment of the Administrator, it is not feasible to prescribe or enforce a numerical limitation for a pollutant identified under paragraph (2), the Administrator may instead promulgate a design, equipment, management practice, or operational standard, or combination thereof, which in the Administrator's judgment is adequate to protect public health and the environment from any reasonably anticipated adverse effects of such pollutant. Inthe event the Administrator promulgates a design or equipment standard under this subsection, the Administrator shall include as part of such standard such requirements as will assure the proper operation and maintenance of any such element of design or equipment.
+&emsp;For purposes of this subsection, if, in the judgment of the Administrator, it is not feasible to prescribe or enforce a numerical limitation for a pollutant identified under paragraph (2), the Administrator may instead promulgate a design, equipment, management practice, or operational standard, or combination thereof, which in the Administrator's judgment is adequate to protect public health and the environment from any reasonably anticipated adverse effects of such pollutant. In the event the Administrator promulgates a design or equipment standard under this subsection, the Administrator shall include as part of such standard such requirements as will assure the proper operation and maintenance of any such element of design or equipment.
 
 #### (4) Conditions on permits
 
@@ -102,7 +102,7 @@ The Safe Drinking Water Act, referred to in subsec. (f)(1), is title XIV of act 
 
 The Marine Protection, Research, and Sanctuaries Act of 1972, referred to in subsec. (f)(1), is Pub. L. 92–532, Oct. 23, 1972, 86 Stat. 1052, as amended, which is classified generally to chapters 32 (§1431 et seq.) and 32A (§1447 et seq.) of Title 16, Conservation, and chapters 27 (§1401 et seq.) and 41 (§2801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of this title and Tables.
 
-The Clean Air Act, referred to in subsec. (f)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
+The Clean Air Act, referred to in subsec. (f)(1), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of Title 42 and Tables.
 
 #### Amendments
 

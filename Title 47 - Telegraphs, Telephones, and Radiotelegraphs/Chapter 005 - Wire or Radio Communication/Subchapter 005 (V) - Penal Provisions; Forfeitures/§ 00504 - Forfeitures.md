@@ -42,7 +42,7 @@ Subsec. (c). Pub. L. 86–752, §7(d), added subsec. (c).
 
 #### Change of Name
 
-Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys”. Seesection 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
+Act June 25, 1948, eff. Sept. 1, 1948, substituted “United States attorneys” for “district attorneys”. See section 541 of Title 28, Judiciary and Judicial Procedure, and Historical and Revision Notes thereunder.
 
 #### Effective Date of 1978 Amendment
 

@@ -1,0 +1,36 @@
+### §3706. Reporting requirement
+
+(a)
+
+In General.—The Office of Personnel Management shall, not later than April 30 and October 31 of each year, prepare and submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate a semiannual report summarizing the operation of this chapter during the immediately preceding 6-month period ending on March 31 and September 30, respectively.
+
+(b)
+
+Content.—Each report shall include, with respect to the 6-month period to which such report relates—
+
+&emsp;(1) the total number of individuals assigned to, and the total number of individuals assigned from, each agency during such period;
+
+&emsp;(2) a brief description of each assignment included under paragraph (1), including—
+
+&emsp;&emsp;(A) the name of the assigned individual, as well as the private sector organization and the agency (including the specific bureau or other agency component) to or from which such individual was assigned;
+
+&emsp;&emsp;(B) the respective positions to and from which the individual was assigned, including the duties and responsibilities and the pay grade or level associated with each; and
+
+&emsp;&emsp;(C) the duration and objectives of the individual's assignment; and
+
+&emsp;(3) such other information as the Office considers appropriate.
+
+(c)
+
+Publication.—A copy of each report submitted under subsection (a)—
+
+&emsp;(1) shall be published in the Federal Register; and
+
+&emsp;(2) shall be made publicly available on the Internet.
+
+(d)
+
+Agency Cooperation.—On request of the Office, agencies shall furnish such information and reports as the Office may require in order to carry out this section.
+
+(Added Pub. L. 107–347, title II, §209(c)(1), Dec. 17, 2002, 116 Stat. 2929.)
+

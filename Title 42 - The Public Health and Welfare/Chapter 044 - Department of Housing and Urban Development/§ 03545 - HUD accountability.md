@@ -58,7 +58,7 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 #### (2) Interested parties
 
-&emsp;The name and pecuniary interest of any person who has a pecuniary interest in theproject or activities for which the applicant is seeking assistance. Persons with a pecuniary interest in the project or activity shall include but not be limited to any developers, contractors, and consultants involved in the application for assistance or the planning, development, or implementation of the project or activity. For purposes of this paragraph, residency of an individual in housing for which assistance is being sought shall not, by itself, be considered a pecuniary interest.
+&emsp;The name and pecuniary interest of any person who has a pecuniary interest in the project or activities for which the applicant is seeking assistance. Persons with a pecuniary interest in the project or activity shall include but not be limited to any developers, contractors, and consultants involved in the application for assistance or the planning, development, or implementation of the project or activity. For purposes of this paragraph, residency of an individual in housing for which assistance is being sought shall not, by itself, be considered a pecuniary interest.
 
 #### (3) Expected sources and uses
 
@@ -66,7 +66,7 @@ The Secretary shall require the disclosure of information with respect to any ap
 
 #### (c) Updating of disclosure
 
-During the period when an application is pending or assistance is being provided, the applicant shall update the disclosure required under the previous subsection within 30 days of any substantial change.
+During the period when an application is pending or assistance is being provided, the applicantshall update the disclosure required under the previous subsection within 30 days of any substantial change.
 
 #### (d) Limitation of assistance
 
@@ -208,7 +208,7 @@ Revocation by Secretary.—If the Secretary determines that a housing credit age
 
 “(d)
 
-Applicability.—Section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 (42 U.S.C. 3545(d)) shall apply only to projects for which an application for assistance or insurance was filed after the date of enactment of the Housing andUrban Development Reform Act \[probably should be Department of Housing and Urban Development Reform Act of 1989, enacted Dec. 15, 1989\].”
+Applicability.—Section 102(d) of the Department of Housing and Urban Development Reform Act of 1989 (42 U.S.C. 3545(d)) shall apply only to projects for which an application for assistance or insurance was filed after the date of enactment of the Housing and Urban Development Reform Act \[probably should be Department of Housing and Urban Development Reform Act of 1989, enacted Dec. 15, 1989\].”
 
 #### Section Referred to in Other Sections
 

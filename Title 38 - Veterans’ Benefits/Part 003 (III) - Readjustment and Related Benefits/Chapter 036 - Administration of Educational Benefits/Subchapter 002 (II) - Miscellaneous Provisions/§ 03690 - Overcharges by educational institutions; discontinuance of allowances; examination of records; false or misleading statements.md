@@ -34,7 +34,7 @@
 
 (d) Whenever the Secretary finds that an educational institution has willfully submitted a false or misleading claim, or that a veteran or person, with the complicity of an educational institution, has submitted such a claim, the Secretary shall make a complete report of the facts of the case to the appropriate State approving agency and, where deemed advisable, to the Attorney General of the United States for appropriate action.
 
-(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1088, §1790; amended Pub. L. 94–502,title V, §§510, 513(a)(19), Oct. 15, 1976, 90 Stat. 2401, 2403; Pub. L. 95–202, title III, §306, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 96–466, title VIII, §801(f), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(59), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, §207, Oct. 14, 1982, 96 Stat. 1435; Pub. L. 101–237, title IV, §423(a)(9), (b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3690, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §506(b)(1), Aug. 14, 1991, 105 Stat. 426.)
+(Added Pub. L. 92–540, title III, §316(2), Oct. 24, 1972, 86 Stat. 1088, §1790; amended Pub. L. 94–502, title V, §§510, 513(a)(19), Oct. 15, 1976, 90 Stat. 2401, 2403; Pub. L. 95–202, title III, §306, Nov. 23, 1977, 91 Stat. 1445; Pub. L. 96–466, title VIII, §801(f), Oct. 17, 1980, 94 Stat. 2216; Pub. L. 97–295, §4(59), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title II, §207, Oct. 14, 1982, 96 Stat. 1435; Pub. L. 101–237, title IV, §423(a)(9), (b)(1)(A), (2), Dec. 18, 1989, 103 Stat. 2092; renumbered §3690, Pub. L. 102–83, §5(a), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–86, title V, §506(b)(1), Aug. 14, 1991, 105 Stat. 426.)
 
 #### Prior Provisions
 

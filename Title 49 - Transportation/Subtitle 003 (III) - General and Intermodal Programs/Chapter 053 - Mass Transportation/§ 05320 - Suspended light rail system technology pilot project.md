@@ -32,7 +32,7 @@ Competition.—(1) The Secretary of Transportation shall conduct a national comp
 
 (d)
 
-Environmental Impact.—Not later than 270 days after a public entity is selected under subsection (c) of this section, the Secretary shall approve and publish in the Federal Register a notice announcing either a finding of no significant impact or a draft environmental impact statement for the project. The alternatives analysis for the project shall include a decision on whether to construct the project. If a draft statement is published, the Secretary, not later than 180 days after publication, shall approve and publish in the Federal Register a notice of completion of a final environmental impact statement.
+Environmental Impact.—Not later than 270 days after a public entity is selected undersubsection (c) of this section, the Secretary shall approve and publish in the Federal Register a notice announcing either a finding of no significant impact or a draft environmental impact statement for the project. The alternatives analysis for the project shall include a decision on whether to construct the project. If a draft statement is published, the Secretary, not later than 180 days after publication, shall approve and publish in the Federal Register a notice of completion of a final environmental impact statement.
 
 (e)
 

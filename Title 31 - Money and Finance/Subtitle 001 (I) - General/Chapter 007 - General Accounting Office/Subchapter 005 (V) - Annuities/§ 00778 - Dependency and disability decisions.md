@@ -1,6 +1,6 @@
 ### §778. Dependency and disability decisions
 
-The General Counsel of the General Accounting Office shall decide a question of dependency, disability, or dependency and disability undersections 773–776 of this title. A decision under this section is final.
+The General Counsel of the General Accounting Office shall decide a question of dependency, disability, or dependency and disability under sections 773–776 of this title. A decision under this section is final.
 
 (Pub. L. 97–258, Sept. 13, 1982, 96 Stat. 907.)
 

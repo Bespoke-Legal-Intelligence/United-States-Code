@@ -54,7 +54,7 @@ To be eligible to receive financial assistance under this section for mitigation
 
 #### (2) Determination of eligible plans
 
-&emsp;The Director may approve only mitigation plans that specify mitigation activities that the Director determines are technically feasible and cost-effective and only such plansthat propose activities that are cost-beneficial to the National Flood Mitigation Fund.
+&emsp;The Director may approve only mitigation plans that specify mitigation activities that the Director determines are technically feasible and cost-effective and only such plans that propose activities that are cost-beneficial to the National Flood Mitigation Fund.
 
 #### (3) Standard for approval
 
@@ -124,7 +124,7 @@ The Director shall conduct oversight of recipients of mitigation assistance unde
 
 #### (2) Failure to provide matching funds
 
-&emsp;If the Director determines that a State or community that has received mitigation assistance under this section has not providedmatching funds in the amount certified under subsection (g) of this section, the Director shall recapture any unexpended amounts of mitigation assistance exceeding 3 times the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
+&emsp;If the Director determines that a State or community that has received mitigation assistance under this section has not provided matching funds in the amount certified under subsection (g) of this section, the Director shall recapture any unexpended amounts of mitigation assistance exceeding 3 times the amount of such matching funds actually provided and deposit the amounts in the National Flood Mitigation Fund under section 4104d of this title.
 
 #### (j) Reports
 
@@ -147,6 +147,10 @@ The Robert T. Stafford Disaster Relief and Emergency Assistance Act, referred to
 #### Regulations
 
 Section 553(b) of Pub. L. 103–325 provided that: “Not later than 6 months after the date of enactment of this Act \[Sept. 23, 1994\], the Director of the Federal Emergency Management Agency shall issue regulations to carry out section 1366 of the National Flood Insurance Act of 1968 \[42 U.S.C. 4104c\], as added by subsection (a).”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

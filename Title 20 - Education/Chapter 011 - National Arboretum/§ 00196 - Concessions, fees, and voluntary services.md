@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Notwithstanding the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) and section 303b of title 40, the Secretary of Agriculture, in furtherance of the mission of the National Arboretum, may—
+Notwithstanding the Federal Property and Administrative Services Act of 1949 <sup>1</sup> and section 1302 of title 40, the Secretary of Agriculture, in furtherance of the mission of the National Arboretum, may—
 
 &emsp;(1) negotiate agreements granting concessions at the National Arboretum to nonprofit scientific or educational organizations the interests of which are complementary to the mission of the National Arboretum, except that the net proceeds of the organizations from the concessions shall be used exclusively for research and educational work for the benefit of the National Arboretum;
 
@@ -30,9 +30,13 @@ The Secretary of Agriculture may accept the voluntary services of organizations 
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
+
+#### Codification
+
+“Section 1302 of title 40” substituted in subsec. (a) for “section 321 of the Act of June 30, 1932 (40 U.S.C. 303b)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–185 substituted “Treasury. Amounts in the special fund shall be available tothe Secretary of Agriculture, without further appropriation,” for “Treasury”.
+1998—Subsec. (b). Pub. L. 105–185 substituted “Treasury. Amounts in the special fund shall be available to the Secretary of Agriculture, without further appropriation,” for “Treasury”.
 

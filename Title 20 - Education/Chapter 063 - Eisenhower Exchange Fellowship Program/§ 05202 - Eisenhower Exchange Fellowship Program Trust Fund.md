@@ -10,7 +10,7 @@ It shall be the duty of the Secretary of the Treasury to invest in full amounts 
 
 #### (c) Sale and redemption of obligations
 
-Any obligation acquired by the fund (except special obligations issued exclusively to the fund) may be sold by the Secretary of the Treasury at the market price, and such special obligations may be redeemed at par plus accrued interest.
+Any obligation acquired by the fund (except special obligations issued exclusively to thefund) may be sold by the Secretary of the Treasury at the market price, and such special obligations may be redeemed at par plus accrued interest.
 
 #### (d) Credit to fund of interest and proceeds of sale or redemption
 

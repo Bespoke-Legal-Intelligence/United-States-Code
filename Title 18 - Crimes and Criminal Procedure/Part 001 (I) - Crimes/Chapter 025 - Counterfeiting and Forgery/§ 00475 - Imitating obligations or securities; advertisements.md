@@ -18,7 +18,3 @@ Changes in phraseology were also made.
 
 1951—Act July 16, 1951, prohibited use of notices or advertising prints or labels on United States coins.
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
-

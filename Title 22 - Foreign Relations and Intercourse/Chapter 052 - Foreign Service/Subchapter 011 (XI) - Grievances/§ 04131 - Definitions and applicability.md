@@ -44,7 +44,7 @@
 
 (c) This subchapter applies only with respect to the Department of State, Broadcasting <sup>1</sup> Board of Governors, the Agency for International Development, the Department of Agriculture, and the Department of Commerce.
 
-(Pub. L. 96–465, title I, §1101, Oct. 17, 1980, 94 Stat. 2142; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 102–138, title I, §153(a), Oct. 28, 1991, 105 Stat. 673; Pub. L. 103–236, title I, §§180(a)(10), 181(a)(4)(A), Apr. 30, 1994, 108 Stat. 416, 417; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(4), title XIV, §1422(b)(4)(D), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
+(Pub. L. 96–465, title I, §1101, Oct. 17, 1980, 94 Stat. 2142; Pub. L. 97–241, title III, §303(b), Aug. 24, 1982, 96 Stat. 291; Pub. L. 102–138, title I, §153(a), Oct. 28, 1991, 105 Stat. 673; Pub. L.103–236, title I, §§180(a)(10), 181(a)(4)(A), Apr. 30, 1994, 108 Stat. 416, 417; Pub. L. 105–277, div. G, subdiv. A, title XIII, §1335(k)(4), title XIV, §1422(b)(4)(D), Oct. 21, 1998, 112 Stat. 2681–789, 2681–793.)
 
 #### Amendments
 
@@ -66,7 +66,7 @@ Subsec. (b). Pub. L. 102–138, §153(a)(2), in par. (4), substituted “section
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 1335(k)(4) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277,set out as an Effective Date note under section 6531 of this title.
+Amendment by section 1335(k)(4) of Pub. L. 105–277 effective Oct. 1, 1999, see section 1301 of Pub. L. 105–277, set out as an Effective Date note under section 6531 of this title.
 
 Amendment by section 1422(b)(4)(D) of Pub. L. 105–277 effective Apr. 1, 1999, see section 1401 of Pub. L. 105–277, set out as an Effective Date note under section 6561 of this title.
 

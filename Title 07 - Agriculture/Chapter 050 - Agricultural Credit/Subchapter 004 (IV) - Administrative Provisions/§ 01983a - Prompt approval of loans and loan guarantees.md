@@ -18,7 +18,7 @@
 
 (vi) The district office shall report to the State office of the Farmers Home Administration on each application for an operating loan or loan guarantee under subchapter II of this chapter that is pending more than 45 days after receipt by the county committee, and the reasons the application is pending.
 
-(vii) Each month, the Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate,on a State-by-State basis, as to each application for an operating loan or loan guarantee under subchapter II of this chapter on which final action had not been taken within 60 calendar days after receipt by the Secretary, and the reasons final action had not been taken.
+(vii) Each month, the Secretary shall notify the Committee on Agriculture of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate, on a State-by-State basis, as to each application for an operating loan or loan guarantee under subchapter II of this chapter on which final action had not been taken within 60 calendar days after receipt by the Secretary, and the reasons final action had not been taken.
 
 (3) If an application for a loan or loan guarantee under this chapter is disapproved by the Secretary, the Secretary shall state the reasons for the disapproval in the notice required under paragraph (1).
 
@@ -56,7 +56,7 @@ In carrying out the approved lender program established by exhibit A to subpart 
 
 (1) As used in this subsection:
 
-&emsp;(A) The term “approved lender” means a lender approved prior to October 28, 1992, by the Secretary under the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations (as in effect on January 1, 1991), or a lender certified under section 1989 <sup>1</sup> of this title.
+&emsp;(A) The term “approved lender” means a lender approved prior to October 28, 1992, by the Secretary under the approved lender program established by exhibit A to subpart B of part 1980 of title 7, Code of Federal Regulations (as in effect on January 1, 1991), or alender certified under section 1989 <sup>1</sup> of this title.
 
 &emsp;(B) The term “seasoned direct loan borrower” means a borrower receiving a direct loan under this chapter who has been classified as “commercial” or “standard” under subpart W of part 2006 of the Instruction Manual (as in effect on January 1, 1991).
 
@@ -74,7 +74,7 @@ In general.—The Secretary shall provide a prospectus of a seasoned direct loan
 
 &emsp;(B)
 
-Notification.—The Secretary shall notify each borrower of a loan that a prospectushas been provided to a lender under subparagraph (A).
+Notification.—The Secretary shall notify each borrower of a loan that a prospectus has been provided to a lender under subparagraph (A).
 
 &emsp;(C)
 
@@ -84,25 +84,45 @@ Credit extended.—If the Secretary receives an offer from an approved lender to
 
 (6) To the extent necessary for the borrower to obtain a loan, guaranteed by the Secretary, from a commercial or cooperative lender, the Secretary shall provide interest rate reductions as provided for under section 1999 of this title.
 
-#### (g) Simplified application for guaranteed loans of $50,000 or less
+#### (g) Simplified application forms for loan guarantees
 
-(1) The Secretary shall provide to lenders a short, simplified application form for guarantees under this chapter of loans the principal amount of which is $50,000 or less.
+#### (1) In general
 
-(2) In developing the application, the Secretary shall—
+&emsp;The Secretary shall provide to lenders a short, simplified application form for guarantees under this chapter of—
 
-&emsp;(A) consult with commercial and cooperative lenders; and
+&emsp;&emsp;(A) farmer program loans the principal amount of which is $125,000 or less; and
 
-&emsp;(B) ensure that—
+&emsp;&emsp;(B) business and industry guaranteed loans under section 1932(a)(1) of this title the principal amount of which is—
 
-&emsp;&emsp;(i) the form can be completed manually or electronically, at the option of the lender;
+&emsp;&emsp;&emsp;(i) in the case of a loan guarantee made during fiscal year 2002 or 2003, $400,000 or less; and
 
-&emsp;&emsp;(ii) the form minimizes the documentation required to accompany the form;
+&emsp;&emsp;&emsp;(ii) in the case of a loan guarantee made during any subsequent fiscal year—
 
-&emsp;&emsp;(iii) the cost of completing and processing the form is minimal; and
+&emsp;&emsp;&emsp;&emsp;(I) $400,000 or less; or
 
-&emsp;&emsp;(iv) the form can be completed and processed in an expeditious manner.
+&emsp;&emsp;&emsp;&emsp;(II) if the Secretary determines that there is not a significant increased risk of a default on the loan, $600,000 or less.
 
-(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093.)
+#### (2) Water and waste disposal grants and loans
+
+&emsp;The Secretary shall develop an application process that accelerates, to the maximum extent practicable, the processing of applications for water and waste disposal grants or direct or guaranteed loans under paragraph (1) or (2) of section 1926(a) of this title the grant award amount or principal loan amount, respectively, of which is $300,000 or less.
+
+#### (3) Administration
+
+&emsp;In developing an application under this subsection, the Secretary shall—
+
+&emsp;&emsp;(A) consult with commercial and cooperative lenders; and
+
+&emsp;&emsp;(B) ensure that—
+
+&emsp;&emsp;&emsp;(i) the form can be completed manually or electronically, at the option of the lender;
+
+&emsp;&emsp;&emsp;(ii) the form minimizes the documentation required to accompany the form;
+
+&emsp;&emsp;&emsp;(iii) the cost of completing and processing the form is minimal; and
+
+&emsp;&emsp;&emsp;(iv) the form can be completed and processed in an expeditious manner.
+
+(Pub. L. 87–128, title III, §333A, as added Pub. L. 99–198, title XIII, §1312(a), Dec. 23, 1985, 99 Stat. 1524; amended Pub. L. 101–624, title XVIII, §1811, title XXIII, §2388(f), Nov. 28, 1990, 104 Stat. 3821, 4053; Pub. L. 102–554, §§13–15, Oct. 28, 1992, 106 Stat. 4152, 4153; Pub. L. 104–127, title VI, §637, Apr. 4, 1996, 110 Stat. 1093; Pub. L. 107–171, title V, §5307, title VI, §6019, May 13, 2002, 116 Stat. 345, 362.)
 
 #### References in Text
 
@@ -111,6 +131,26 @@ For definition of “this chapter”, referred to in subsecs. (a), (b)(1), (c), 
 Section 1989 of this title, referred to in subsec. (f)(1)(A), was in the original “section 114”, and was translated as meaning section 339 of Pub. L. 87–128, which is classified to section 1989 of this title, to reflect the probable intent of Congress, because Pub. L. 87–128 does not contain a section 114 and section 1989 provides for a lender certification program.
 
 #### Amendments
+
+2002—Subsec. (g). Pub. L. 107–171, §6019, added subsec. (g) and struck out former subsec. (g) which read as follows:
+
+“(1) The Secretary shall provide to lenders a short, simplified application form for guarantees under this chapter of loans the principal amount of which is $125,000 or less.
+
+“(2) In developing the application, the Secretary shall—
+
+&emsp;“(A) consult with commercial and cooperative lenders; and
+
+&emsp;“(B) ensure that—
+
+&emsp;&emsp;“(i) the form can be completed manually or electronically, at the option of the lender;
+
+&emsp;&emsp;“(ii) the form minimizes the documentation required to accompany the form;
+
+&emsp;&emsp;“(iii) the cost of completing and processing the form is minimal; and
+
+&emsp;&emsp;“(iv) the form can be completed and processed in an expeditious manner.”
+
+Subsec. (g)(1). Pub. L. 107–171, §5307, substituted “$125,000” for “$50,000”.
 
 1996—Subsec. (f)(4). Pub. L. 104–127, §637(1), inserted heading.
 

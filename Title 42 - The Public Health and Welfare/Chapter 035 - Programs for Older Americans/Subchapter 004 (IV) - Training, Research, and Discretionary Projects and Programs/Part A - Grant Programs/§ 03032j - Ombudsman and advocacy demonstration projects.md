@@ -12,7 +12,7 @@ The Assistant Secretary shall prepare and submit to Congress a report containing
 
 #### References in Text
 
-The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (a), is title I of Pub. L. 88–164, Oct. 31, 1963, 77 Stat. 282, as amended generally by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, as further amended, which was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. Part C of the Act was classified generally to subchapter III (§6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
+The Developmental Disabilities Assistance and Bill of Rights Act, referred to in subsec. (a), is title I of Pub. L. 88–164, Oct. 31, 1963, 77 Stat. 282, as amended generally by Pub. L. 98–527, §2, Oct. 19, 1984, 98 Stat. 2662, as further amended, which was repealed by Pub. L. 106–402, title IV, §401(a), Oct. 30, 2000, 114 Stat. 1737. Part C ofthe Act was classified generally to subchapter III (§6041 et seq.) of chapter 75 of this title. For complete classification of this Act to the Code, see Tables.
 
 The Protection and Advocacy for Mentally Ill Individuals Act of 1986, referred to in subsec. (a), was Pub. L. 99–319, May 23, 1986, 100 Stat. 478, as amended. Pub. L. 99–319 was renamed the Protection and Advocacy for Individuals with Mental Illness Act by Pub. L. 106–310, div. B, title XXXII, §3206(a), Oct. 17, 2000, 114 Stat. 1193, and is classified generally to chapter 114 (§10801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 10801 of this title and Tables.
 

@@ -4,7 +4,7 @@ Section 1003, act Aug. 13, 1946, ch. 957, title VI, §633, as added Apr. 5, 1955
 
 A prior section 633 of act Aug. 13, 1946, ch. 957, title VI, 60 Stat. 1015, which provided that Secretary prescribe maximum period during which Foreign Service officers in classes 2 or 3 remain in force without promotion and for retirement from Service for any officer who did not receive a promotion within such period, was repealed by act Apr. 5, 1955, ch. 23, §7, 69 Stat. 25.
 
-Section 1004, act Aug. 13, 1946, ch. 957, title VI, §634, as added Apr. 5, 1955, ch. 23, §7, 69 Stat. 25; amended July 28, 1956, ch. 770, §7, 70 Stat. 704; Sept. 8, 1960, Pub. L. 86–723, §22, 74 Stat. 835; July 12, 1976, Pub. L. 94–350, title V, §520, 90 Stat. 846, related to selection-out benefits.
+Section 1004, act Aug. 13, 1946, ch. 957, title VI, §634, as added Apr. 5, 1955, ch. 23, §7, 69 Stat. 25; amended July 28, 1956, ch. 770, §7, 70 Stat. 704; Sept. 8, 1960, Pub.L. 86–723, §22, 74 Stat. 835; July 12, 1976, Pub. L. 94–350, title V, §520, 90 Stat. 846, related to selection-out benefits.
 
 A prior section 634 of act Aug. 13, 1946, ch. 957, title VI, 60 Stat. 1015, which provided selection-out benefits to officers in classes 4 and 5 was repealed by act Apr. 5, 1955, ch. 23, §7, 69 Stat. 25.
 

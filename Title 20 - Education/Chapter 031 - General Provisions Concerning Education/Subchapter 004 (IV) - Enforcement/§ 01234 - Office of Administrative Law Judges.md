@@ -36,7 +36,7 @@ The judge shall review and may require that evidence be taken on the sufficiency
 
 #### (g) Discovery; scope, time, etc.; issue and enforcement of subpoenas
 
-(1) In order to secure a fair, expeditious, and economical resolution of cases and where the judge determines that the discovered information is likely to elicit relevant information with respect to an issue in the case, is not sought primarily for the purposes of delay or harassment, and would serve the ends of justice, the judge may order a party to—
+(1) In order to secure a fair, expeditious, and economical resolution of cases and where the judge determines that the discovered information is likely to elicit relevant information with respect to an issue in the case, is not sought primarily for the purposes of delay or harassment,and would serve the ends of justice, the judge may order a party to—
 
 &emsp;(A) produce relevant documents;
 

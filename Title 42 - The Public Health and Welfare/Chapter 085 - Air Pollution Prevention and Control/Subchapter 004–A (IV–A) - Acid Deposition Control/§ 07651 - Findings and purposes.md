@@ -64,7 +64,7 @@ Reports to Congress.—The Administrator of the Environmental Protection Agency,
 
 “(b)
 
-Contents.—The report to Congress shall analyze the current emission levels of sulfur dioxide and nitrogen oxides in each of the provinces participating in Canada's acid rain control program, the amount of emission reductions of sulfur dioxide and oxides of nitrogen achieved by each province, the methods utilized by each province in making those reductions, the coststo each province and the employment impacts in each province of making and maintaining those reductions.
+Contents.—The report to Congress shall analyze the current emission levels of sulfur dioxide and nitrogen oxides in each of the provinces participating in Canada's acid rain control program, the amount of emission reductions of sulfur dioxide and oxides of nitrogen achieved by each province, the methods utilized by each province in making those reductions, the costs to each province and the employment impacts in each province of making and maintaining those reductions.
 
 “(c)
 

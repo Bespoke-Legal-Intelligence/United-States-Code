@@ -40,7 +40,7 @@
 
 &emsp;&emsp;&emsp;(II) the agreement applies to or affects purchases and sales by such enterprises.
 
-(3) To ensure that a foreign country which receives benefits under a trade agreement entered into under section 2902(b) or (c) of this title is subject to the obligations imposed by suchagreement, the President shall recommend to Congress in the implementing bill and statement of administrative action submitted with respect to such agreement that the benefits and obligations of such agreement apply solely to the parties to such agreement, if such application is consistent with the terms of such agreement. The President may also recommend with respect to any such agreement that the benefits and obligations of such agreement not apply uniformly to all parties to such agreement, if such application is consistent with the terms of such agreement.
+(3) To ensure that a foreign country which receives benefits under a trade agreement entered into under section 2902(b) or (c) of this title is subject to the obligations imposed by such agreement, the President shall recommend to Congress in the implementing bill and statement of administrative action submitted with respect to such agreement that the benefits and obligations of such agreement apply solely to the parties to such agreement, if such application is consistent with the terms of such agreement. The President may also recommend with respect to any such agreement that the benefitsand obligations of such agreement not apply uniformly to all parties to such agreement, if such application is consistent with the terms of such agreement.
 
 #### (b) Application of Congressional “fast track” procedures to implementing bills
 
@@ -108,7 +108,7 @@
 
 (D) It is not in order for the House of Representatives to consider any procedural disapproval resolution not reported by the Committee on Ways and Means and the Committee on Rules.
 
-(E) For purposes of this subsection, the term “procedural disapproval resolution” means a resolution of either House of the Congress, the sole matter after the resolving clause of which is as follows: “That the President has failed or refused to consult with Congress on trade negotiations and trade agreements in accordance with the provisions of the Omnibus Trade and Competitiveness Act of 1988, and, therefore, the provisions of section 151 of the Trade Act of 1974 shall not apply to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act of 1988, if, during the 60-day period beginning on the date on which this resolution is agreed to by the           , the            agrees to a procedural disapproval resolution (within the meaning of section 1103(c)(1)(E) of such Act of 1988).”, with the first blank space being filled with the name of the resolving House of the Congress and the second blank space being filled with the name of the other House of the Congress.
+(E) For purposes of this subsection, the term “procedural disapproval resolution” means a resolution of either House of the Congress, the sole matter after the resolving clause of whichis as follows: “That the President has failed or refused to consult with Congress on trade negotiations and trade agreements in accordance with the provisions of the Omnibus Trade and Competitiveness Act of 1988, and, therefore, the provisions of section 151 of the Trade Act of 1974 shall not apply to any implementing bill submitted with respect to any trade agreement entered into under section 1102(b) or (c) of such Act of 1988, if, during the 60-day period beginning on the date on which this resolution is agreed to by the           , the            agrees to a procedural disapproval resolution (within the meaning of section 1103(c)(1)(E) of such Act of 1988).”, with the first blank space being filled with the name of the resolving House of the Congress and the second blank space being filled with the name of the other House of the Congress.
 
 (2) The fast track procedures shall not apply to any implementing bill that contains a provision approving of any trade agreement which is entered into under section 2902(c) of this title with any foreign country if either—
 
@@ -144,5 +144,5 @@ Section 151 of the Trade Act of 1974, referred to in subsecs. (b)(5)(A) and (c)(
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2155, 2191, 2902, 3511 of this title.
+This section is referred to in sections 2902, 3511 of this title.
 

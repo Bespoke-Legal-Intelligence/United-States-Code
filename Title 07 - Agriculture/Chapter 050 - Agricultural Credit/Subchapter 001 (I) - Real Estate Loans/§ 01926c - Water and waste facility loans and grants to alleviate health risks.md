@@ -16,7 +16,7 @@
 
 &emsp;&emsp;Loans and grants under paragraph (1) shall be made only if the loan or grant funds will be used primarily to provide water or waste services, or both, to residents of a county—
 
-&emsp;&emsp;&emsp;(i) the per capita income of the residents of which is not more than 70 percent of thenational average per capita income, as determined by the Department of Commerce; and
+&emsp;&emsp;&emsp;(i) the per capita income of the residents of which is not more than 70 percent of the national average per capita income, as determined by the Department of Commerce; and
 
 &emsp;&emsp;&emsp;(ii) the unemployment rate of the residents of which is not less than 125 percent of the national average unemployment rate, as determined by the Bureau of Labor Statistics.
 
@@ -50,27 +50,41 @@ The Secretary shall give preference in the awarding of loans and grants—
 
 For purposes of this section, the term “cooperative” means a cooperative formed specifically for the purpose of the installation, expansion, improvement, or operation of water supply or waste disposal facilities or systems.
 
-#### (e) Limitations on authorization of appropriations
+#### (e) Authorization of appropriations
 
-There are authorized to be appropriated—
+#### (1) In general
 
-&emsp;(1) for grants under this section, $30,000,000 for each fiscal year; and
+&emsp;Subject to paragraph (2), there are authorized to be appropriated—
 
-&emsp;(2) for loans under this section, $30,000,000 for each fiscal year.
+&emsp;&emsp;(A) for grants under this section, $30,000,000 for each fiscal year;
+
+&emsp;&emsp;(B) for loans under this section, $30,000,000 for each fiscal year; and
+
+&emsp;&emsp;(C) in addition to grants provided under subparagraph (A), for grants under this section to benefit Indian tribes (as defined in section 450b of title 25), $20,000,000 for each fiscal year.
+
+#### (2) Exception
+
+&emsp;An entity eligible to receive funding through a grant made under section 1926d of this title shall not be eligible for a grant from funds made available under paragraph (1)(C).
 
 #### (f) Regulations
 
 Not later than 30 days after October 28, 1992, the Secretary shall issue interim final regulations, with a request for public comments, implementing this section.
 
-(Pub. L. 87–128, title III, §306C, as added Pub. L. 101–624, title XXIII, §2327, Nov. 28, 1990, 104 Stat. 4015; amended Pub. L. 102–237, title VII, §701(b), Dec. 13, 1991, 105 Stat. 1879; Pub. L. 102–552, title V, §516(<i>l</i>), (m), Oct. 28, 1992, 106 Stat. 4139; Pub. L. 102–554, §24, Oct. 28, 1992, 106 Stat. 4161.)
+(Pub. L. 87–128, title III, §306C, as added Pub. L. 101–624, title XXIII, §2327, Nov. 28, 1990, 104 Stat. 4015; amended Pub. L. 102–237, title VII, §701(b), Dec. 13, 1991, 105 Stat. 1879; Pub. L. 102–552, title V, §516(<i>l</i>), (m), Oct. 28, 1992, 106 Stat. 4139; Pub. L. 102–554, §24, Oct. 28, 1992, 106 Stat. 4161; Pub. L. 107–171, title VI, §6010, May 13, 2002, 116 Stat. 357.)
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–171 added subsec. (e) and struck out heading and text of former subsec. (e). Text read as follows: “There are authorized to be appropriated—
+
+&emsp;“(1) for grants under this section, $30,000,000 for each fiscal year; and
+
+&emsp;“(2) for loans under this section, $30,000,000 for each fiscal year.”
 
 1992—Subsec. (a)(2). Pub. L. 102–554 amended par. (2) generally. Prior to amendment, par. (2) read as follows: “(2)
 
 Certain counties targeted.—Loans and grants under paragraph (1) shall be made only if the loan or grant funds will be used primarily to provide water or waste services, or both, to residents of a county—
 
-&emsp;“(A) the per capita income of the residents of which is not more than 70 percent of the national average per capita income, as determined by the Department of Commerce; and
+&emsp;“(A) the per capita income of the residents of which is not more than 70 percent of the national averageper capita income, as determined by the Department of Commerce; and
 
 &emsp;“(B) the unemployment rate of the residents of which is not less than 125 percent of the national average unemployment rate, as determined by the Bureau of Labor Statistics.”
 

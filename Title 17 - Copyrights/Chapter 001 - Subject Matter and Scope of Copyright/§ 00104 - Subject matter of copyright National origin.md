@@ -20,7 +20,7 @@ Published Works.—The works specified by sections 102 and 103, when published, 
 
 &emsp;(6) the work comes within the scope of a Presidential proclamation. Whenever the President finds that a particular foreign nation extends, to works by authors who are nationals or domiciliaries of the United States or to works that are first published in the United States, copyright protection on substantially the same basis as that on which the foreign nation extends protection to works of its own nationals and domiciliaries and works first published in that nation, the President may by proclamation extend protection under this title to works of which one or more of the authors is, on the date of first publication, a national, domiciliary, or sovereign authority of that nation, or which was first published in that nation. The President may revise, suspend, or revoke any such proclamation or impose any conditions or limitations on protection under a proclamation.
 
-> For purposes of paragraph (2), a work that is published in the United States or a treaty partywithin 30 days after publication in a foreign nation that is not a treaty party shall be considered to be first published in the United States or such treaty party, as the case may be.
+> For purposes of paragraph (2), a work that is published in the United States or a treaty party within 30 days after publication in a foreign nation that is not a treaty party shall be considered to be first published in the United States or such treaty party, as the case may be.
 
 (c)
 
@@ -70,7 +70,7 @@ Subsec. (c). Pub. L. 100–568, §4(a)(3), added subsec. (c).
 
 #### Effective Date of 1998 Amendment
 
-Amendment by section 102(b)(1) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, and amendment by section 102(b)(2) of Pub. L. 105–304 effective upon entry into force of WIPO Performances and Phonograms Treaty with respect to United States, see section 105(a), (b)(2)(C) of Pub. L. 105–304, set out as a note under section 101 of this title.
+Amendment by section 102(b)(1) of Pub. L. 105–304 effective Oct. 28, 1998, except as otherwise provided, and amendment by section 102(b)(2) of Pub. L. 105–304 effective May 20, 2002, see section 105(a), (b)(2)(C) of Pub. L. 105–304, set out as a note under section 101 of this title.
 
 #### Effective Date of 1988 Amendment
 
@@ -744,7 +744,7 @@ Done at Geneva, the sixth day of September 1952, in the English, French and the 
 
 #### Particular Proclamations, Treaties and Conventions Establishing Copyright Relations Between the United States of America and Other Countries
 
-The following is based on <i>Treaties in Force</i>, as of January 1, 2002, published by the Department of State:
+The following is based on <i>Treaties in Force</i>, as of January 1, 2003, published by the Department of State:
 
 By virtue of Presidential proclamations, treaties, and conventions, the United States has established copyright relations with various other countries. This note is an attempt to present a complete and annotated list of those countries.
 
@@ -832,6 +832,14 @@ WTO
 
 Member of the World Trade Organization, established pursuant to the Marrakesh Agreement of April 15, 1994, to implement the Uruguay Round Agreements. These Agreements affect, among other things, intangible property rights, including copyright and other intellectual property rights. The effective date of United States membership in the WTO is January 1, 1995. A country's membership in the World Trade Organization is effective as of the date indicated.
 
+WCT
+
+WIPO Copyright Treaty. Adopted at Geneva December 20, 1996. Entered into force March 6, 2002. United States became a party, effective on that same date.
+
+WPPT
+
+WIPO Performances and Phonograms Treaty. Adopted at Geneva December 20, 1996. Entered into force May 20, 2002. United States became a party, effective on that same date.
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Proclamations, Treaties, and Conventions Establishing Copyright Relations Between the United States and Other Countries
@@ -848,15 +856,27 @@ Proclamations, Treaties, and Conventions Establishing Copyright Relations Betwee
 
 <i>Reference</i>
 
-Albania
+Albania DBerne (Paris) DJuly 24, 1971 DMar. 6, 1994 DT. Doc. 99–27.
 
-Berne (Paris)
+&nbsp;
 
-July 24, 1971
+WTO
 
-Mar. 6, 1994
+Apr. 15, 1994
 
-T. Doc. 99–27.
+Sept. 8, 2000
+
+33 ILM 15.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
 
 Algeria DUCC DSept. 6, 1952 DAug. 28, 1973 D6 UST 2731.
 
@@ -940,7 +960,7 @@ Berne (Paris)
 
 July 24, 1971
 
-Oct. 8, 2000
+Feb. 19, 2000
 
 T. Doc. 99–27.
 
@@ -964,7 +984,37 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Armenia DPcss DMay 21, 1974 DDec. 13, 1993 DT. Doc. 98–31.
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
+Armenia DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
+
+&nbsp;
+
+Pcss
+
+May 21, 1974
+
+Dec. 13, 1993
+
+T. Doc. 98–31.
 
 &nbsp;
 
@@ -1292,6 +1342,26 @@ Dec. 12, 1997
 
 T. Doc. 99–27.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
 Belgium DP DJuly 1, 1891 DJuly 1, 1891 D27 Stat. 981.
 
 &nbsp;
@@ -1316,13 +1386,13 @@ July 1, 1909
 
 &nbsp;
 
-Berne (Brussels)
+Berne (Paris)
 
-June 26, 1948
+July 24, 1971
 
-Aug. 1, 1951
+Sept. 29, 1999
 
-331 UNTS 217.
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -1416,7 +1486,7 @@ WTO
 
 Apr. 15, 1994
 
-Sept. 13, 1995
+Sept. 12, 1995
 
 33 ILM 15.
 
@@ -1438,7 +1508,7 @@ Berne (Paris)
 
 July 24, 1971
 
-Mar. 6, 1992
+Mar. 1, 1992
 
 T. Doc. 99–27.
 
@@ -1578,6 +1648,26 @@ Dec. 1, 1996
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
 Burkina Faso DBerne (Paris) DJuly 24, 1971 DJan. 24, 1976 DT. Doc. 99–27.
 
 &nbsp;
@@ -1599,6 +1689,26 @@ Apr. 15, 1994
 June 3, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
 
 Burma
 
@@ -1663,16 +1773,6 @@ Dec. 13, 1995
 33 ILM 15.
 
 Canada <sup>1</sup> DPm DDec. 27, 1923 DJan. 1, 1924 D43 Stat. 1932.
-
-&nbsp;
-
-Berne (Rome)
-
-June 2, 1928
-
-Apr. 10, 1928
-
-123 LNTS 232.
 
 &nbsp;
 
@@ -1810,6 +1910,26 @@ Jan. 1, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
 China DT DOct. 8, 1903 DJan. 13, 1904 D33 Stat. 2208.
 
 &nbsp;
@@ -1934,6 +2054,26 @@ Apr. 30, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
 Congo DBerne (Paris) DJuly 24, 1971 DDec. 5, 1975 DT. Doc. 99–27.
 
 &nbsp;
@@ -1966,9 +2106,9 @@ Nov. 29, 1977
 
 Jan. 1, 1997
 
-T. Doc. 99–27
+T. Doc. 99–27.
 
-25 UST 309
+25 UST 309.
 
 33 ILM 15.
 
@@ -2064,6 +2204,26 @@ June 25, 1999
 
 T. Doc. 98–31.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
 Cote d'Ivoire DBerne (Paris) DJuly 24, 1971 DOct. 10, 1974 DT. Doc. 99–27.
 
 &nbsp;
@@ -2117,6 +2277,36 @@ Oct. 29, 1971
 Apr. 20, 2000
 
 25 UST 309.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Nov. 30, 2000
+
+33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
 
 Cuba DP DNov. 17, 1903 DNov. 17, 1903 D33 Stat. 2324.
 
@@ -2254,6 +2444,26 @@ Jan. 1, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
 Czechoslovakia<sup> 34, 35</sup>
 
 Pm
@@ -2356,15 +2566,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Djibouti
+Djibouti DWTO DApr. 15, 1994 DMay 31, 1995 D33 ILM 15.
 
-WTO
+&nbsp;
 
-Apr. 15, 1994
+Berne (Paris)
 
-May 31, 1995
+July 24, 1971
 
-33 ILM 15.
+May 13, 2002
+
+T. Doc. 99–27.
 
 Dominica DWTO DApr. 15, 1994 DJan. 1, 1995 D33 ILM 15.
 
@@ -2482,6 +2694,26 @@ Jan. 21, 1996
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
 Egypt DBerne (Paris) DJuly 24, 1971 DJune 7, 1977 DT. Doc. 99–27.
 
 &nbsp;
@@ -2555,6 +2787,26 @@ Apr. 15, 1994
 May 7, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
 
 Equatorial Guinea
 
@@ -2838,6 +3090,26 @@ Jan. 1, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
 Gambia, The DBerne (Paris) DJuly 24, 1971 DMar. 7, 1993 DT. Doc. 99–27.
 
 &nbsp;
@@ -2850,7 +3122,17 @@ Oct. 23, 1996
 
 33 ILM 15.
 
-Georgia DBerne (Paris) DJuly 24, 1971 DMay 16, 1995 DT. Doc. 99–27.
+Georgia DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+May 16, 1995
+
+T. Doc. 99–27.
 
 &nbsp;
 
@@ -2861,6 +3143,26 @@ Apr. 15, 1994
 June 14, 2000
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
 
 Germany <sup>3,</sup> \\29\\<sup>,</sup> \\36\\ DP DApr. 15, 1892 DApr. 15, 1892 D27 Stat. 1021.
 
@@ -3134,6 +3436,26 @@ Oct. 25, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+May 25, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 25, 2002
+
+T. Doc. 105–17.
+
 Guinea-Bissau DBerne (Paris) DJuly 24, 1971 DJuly 22, 1991 DT. Doc. 99–27.
 
 &nbsp;
@@ -3234,7 +3556,29 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Hong Kong
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
+Hong Kong DPg DOct. 29, 1971 DJuly 1, 1997 D25 UST 309.
+
+&nbsp;
 
 WTO
 
@@ -3243,6 +3587,16 @@ Apr. 15, 1994
 Jan. 1, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+Berne (Paris)
+
+July 24, 1971
+
+July 1, 1997
+
+T. Doc. 99–27.
 
 Hungary <sup>3</sup> DCm <sup>7</sup> DJan. 30, 1912 DOct. 16, 1912 D37 Stat. 1631.
 
@@ -3316,7 +3670,27 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Iceland DBerne (Rome) DJune 2, 1928 DSept. 7, 1947 D123 LNTS 232.
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
+Iceland DBerne (Paris) DJuly 24, 1971 DAug. 25, 1999 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -3411,6 +3785,16 @@ July 24, 1971
 Sept. 5, 1997
 
 T. Doc. 99–27.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
 
 Ireland <sup>1</sup> DPm \\11\\ DSept. 28, 1929 DOct. 1, 1929 D46 Stat. 3005.
 
@@ -3630,6 +4014,26 @@ Jan. 12, 2000
 
 T. Doc. 98–31.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+June 12, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+June 12, 2002
+
+T. Doc. 105–17.
+
 Japan DC \\15\\ DNov. 10, 1905 DMay 10, 1906 D34 Stat. 2890.
 
 &nbsp;
@@ -3712,6 +4116,26 @@ Jan. 1, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Oct. 9, 2002
+
+T. Doc. 105–17.
+
 Jordan DBerne (Paris) DJuly 24, 1971 DJuly 28, 1999 DT. Doc. 99–27.
 
 &nbsp;
@@ -3723,6 +4147,16 @@ Apr. 15, 1994
 Apr. 11, 2000
 
 33 ILM 15.
+
+&nbsp;
+
+C
+
+Oct. 24, 2000
+
+Dec. 17, 2001
+
+H. Doc. 107–15.
 
 Kazakhstan DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
@@ -3856,7 +4290,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Kyrgyz Rep. DWTO DApr. 15, 1994 DDec. 20, 1998 D33 ILM 15.
+Kyrgyz Rep. DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
+
+&nbsp;
+
+WTO
+
+Apr. 15, 1994
+
+Dec. 20, 1998
+
+33 ILM 15.
 
 &nbsp;
 
@@ -3867,6 +4311,36 @@ July 24, 1971
 July 8, 1999
 
 T. Doc. 99–27.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Oct. 12, 2002
+
+25 UST 309.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Aug. 15, 2002
+
+T. Doc. 105–17.
 
 Laos <sup>6</sup>
 
@@ -3899,6 +4373,26 @@ Apr. 15, 1994
 Feb. 10, 1999
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
 
 Lebanon DBerne (Rome) DJune 2, 1928 DSept. 30, 1947 D123 LNTS 232.
 
@@ -3946,7 +4440,7 @@ Sept. 28, 1976
 
 T. Doc. 99–27.
 
-Liechtenstein DBerne (Brussels) DJune 26, 1948 DAug. 1, 1951 D331 UNTS 217.
+Liechtenstein DBerne (Paris) DJuly 24, 1971 DSept. 23, 1999 DT. Doc. 99–27.
 
 &nbsp;
 
@@ -4000,6 +4494,36 @@ May 31, 2001
 
 33 ILM 15.
 
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Jan. 27, 2000
+
+25 UST 309.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
 Luxembourg DP DJune 29, 1910 DJune 29, 1910 D36 Stat. 2716.
 
 &nbsp;
@@ -4052,15 +4576,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Macao
+Macao DWTO DApr. 15, 1994 DJan. 1, 1995 D33 ILM 15.
 
-WTO
+&nbsp;
 
-Apr. 15, 1994
+Berne (Paris)
 
-Jan. 1, 1995
+July 24, 1971
 
-33 ILM 15.
+Dec. 20, 1999
+
+T. Doc. 99–27.
 
 Madagascar DBerne (Brussels) DJune 26, 1948 DJan. 1, 1966 D331 UNTS 217.
 
@@ -4129,6 +4655,26 @@ Apr. 15, 1994
 May 31, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Apr. 24, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
 
 Malta DBerne (Rome) DJune 2, 1928 DSept. 21, 1964 D123 LNTS 232.
 
@@ -4268,6 +4814,26 @@ Jan. 1, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
 Moldova DBerne (Paris) DJuly 24, 1971 DNov. 2, 1995 DT. Doc. 99–27.
 
 &nbsp;
@@ -4299,6 +4865,26 @@ Apr. 15, 1994
 July 26, 2001
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
 
 Monaco DPm DOct. 15, 1952 DOct. 15, 1952 D67 Stat. C16.
 
@@ -4363,6 +4949,26 @@ Apr. 15, 1994
 Jan. 29, 1997
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Oct. 25, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Oct. 25, 2002
+
+T. Doc. 105–17.
 
 Morocco DUCC DSept. 6, 1952 DMay 8, 1972 D6 UST 2731.
 
@@ -4624,6 +5230,16 @@ Aug. 23, 2000
 
 T. Doc. 99–27.
 
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Aug. 10, 2000
+
+25 UST 309.
+
 Niger DBerne (Paris) DJuly 24, 1971 DMay 21, 1975 DT. Doc. 99–27.
 
 &nbsp;
@@ -4750,15 +5366,17 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Oman
+Oman DBerne (Paris) DJuly 24, 1971 DJuly 14, 1999 DT. Doc. 99–27.
 
-Berne (Paris)
+&nbsp;
 
-July 24, 1971
+WTO
 
-July 14, 1999
+Apr. 15, 1994
 
-T. Doc. 99–27.
+Nov. 9, 2000
+
+33 ILM 15.
 
 Pakistan <sup>1</sup> DBerne (Rome) DJune 2, 1928 DJuly 5, 1948 D123 LNTS 232.
 
@@ -4866,6 +5484,26 @@ Sept. 6, 1997
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
 Papua New Guinea DWTO DApr. 15, 1994 DJune 9, 1996 D33 ILM 15.
 
 Paraguay DBAC DAug. 11, 1910 DSept. 20, 1917 D38 Stat. 1785.
@@ -4909,6 +5547,26 @@ Apr. 15, 1994
 Jan. 1, 1995
 
 33 ILM 15.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
 
 Peru DBAC DAug. 11, 1910 DApr. 30, 1920 D38 Stat. 1785.
 
@@ -4972,17 +5630,27 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Philippines DPm DOct. 21, 1948 DOct. 21, 1948 D62 Stat. 1568.
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
 
 &nbsp;
 
-UCC \\21\\
+WPPT
 
-Sept. 6, 1952
+Dec. 20, 1996
 
-Nov. 19, 1955
+July 18, 2002
 
-6 UST 2731.
+T. Doc. 105–17.
+
+Philippines DPm DOct. 21, 1948 DOct. 21, 1948 D62 Stat. 1568.
 
 &nbsp;
 
@@ -5003,6 +5671,26 @@ July 24, 1971
 June 18, 1997
 
 T. Doc. 99–27.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Oct. 4, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+Oct. 4, 2002
+
+T. Doc. 105–17.
 
 Poland DPm DFeb. 14, 1927 DFeb. 16, 1927 D44 Stat. 2634.
 
@@ -5124,7 +5812,7 @@ Romania DPm \\22\\ DMay 14, 1928 DMay 14, 1928 D45 Stat. 2949.
 
 &nbsp;
 
-T <sup>9, </sup>\\23\\
+T <sup>9,</sup> \\23\\
 
 Feb. 10, 1947
 
@@ -5161,6 +5849,26 @@ Oct. 29, 1971
 Oct. 1, 1998
 
 25 UST 309.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
 
 Russian Federation DUCC DSept. 6, 1952 DMay 27, 1973 D6 UST 2731.
 
@@ -5236,16 +5944,6 @@ May 22, 1996
 
 33 ILM 15.
 
-&nbsp;
-
-Pcss
-
-May 21, 1974
-
-July 25, 2001
-
-T. Doc. 98–31.
-
 St. Kitts and Nevis DBerne (Paris) DJuly 24, 1971 DApr. 9, 1995 DT. Doc. 99–27.
 
 &nbsp;
@@ -5279,6 +5977,26 @@ Oct. 29, 1971
 Apr. 2, 2001
 
 25 UST 309.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
 
 Saint Vincent and the Grenadines DUCC DSept. 6, 1952 DApr. 22, 1985 D6 UST 2731.
 
@@ -5356,6 +6074,26 @@ Jan. 1, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+May 18, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
 Sierra Leone
 
 WTO
@@ -5430,6 +6168,26 @@ Jan. 1, 1995
 
 33 ILM 15.
 
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
+
 Slovenia DUCC DSept. 6, 1952 DMay 11, 1966 D6 UST 2731.
 
 &nbsp;
@@ -5481,6 +6239,26 @@ Oct. 29, 1971
 Oct. 15, 1996
 
 25 UST 309.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
 
 Solomon Islands
 
@@ -5586,7 +6364,7 @@ Jan. 1, 1995
 
 33 ILM 15.
 
-Sri Lanka (formerly Ceylon) DBerne (Rome) DJune 2, 1928 DJuly 20, 1959 D123 LNTS 232.
+Sri Lanka DBerne (Rome) DJune 2, 1928 DJuly 20, 1959 D123 LNTS 232.
 
 &nbsp;
 
@@ -5990,6 +6768,16 @@ Mar. 26, 1995
 
 33 ILM 15.
 
+Turkmenistan
+
+UCC
+
+Sept. 6, 1952
+
+May 27, 1973
+
+6 UST 2731.
+
 Uganda
 
 WTO
@@ -6011,6 +6799,36 @@ July 24, 1971
 Oct. 25, 1995
 
 T. Doc. 99–27.
+
+&nbsp;
+
+Pg
+
+Oct. 29, 1971
+
+Feb. 18, 2000
+
+25 UST 309.
+
+&nbsp;
+
+WCT
+
+Dec. 20, 1996
+
+Mar. 6, 2002
+
+T. Doc. 105–17.
+
+&nbsp;
+
+WPPT
+
+Dec. 20, 1996
+
+May 20, 2002
+
+T. Doc. 105–17.
 
 United Arab Emirates
 
@@ -6164,6 +6982,16 @@ Jan. 1, 1995
 
 33 ILM 15.
 
+Uzbekistan
+
+UCC
+
+Sept. 6, 1952
+
+May 27, 1973
+
+6 UST 2731.
+
 Vatican City (Holy See) DUCC DSept. 6, 1952 DOct. 5, 1955 D6 UST 2731.
 
 &nbsp;
@@ -6238,15 +7066,17 @@ Feb. 11, 1997
 
 25 UST 1341.
 
-Vietnam
+Vietnam DP \\38\\ DDec. 23, 1998 DDec. 23, 1998 D63 F. Reg. 71571.
 
-P\\38\\
+&nbsp;
 
-Dec. 23, 1998
+C
 
-Dec. 23, 1998
+July 13, 2000
 
-63 F. Reg. 71571.
+Dec. 10, 2001
+
+H. Doc. 107–85.
 
 Yugoslavia \\39\\ DUCC DSept. 6, 1952 DMay 11, 1966 D6 UST 2731.
 
@@ -6310,7 +7140,7 @@ WTO
 
 Apr. 15, 1994
 
-Mar. 3, 1995
+Mar. 5, 1995
 
 33 ILM 15.
 
@@ -6340,7 +7170,7 @@ The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, Apr
 
 <sup>12</sup> The proclamations of March 10, 1944 and May 26, 1950, regarding Great Britain and possessions, also specifically refer to Palestine (excluding Trans-Jordan). See also footnote 1.
 
-<sup>13</sup> The exchanges of notes between the United States and Italy, on the basis of which the proclamations of October 31, 1892 and May 1, 1915, were issued, were the subject of a note delivered on March 12, 1948, to the Italian Foreign Office by the American Embassy at Rome with respect to pre-war bilateral treaties and other international agreements which the United States desired to keep in force or revive pursuant to Article 44 of the Treaty of Peace with Italy. The note stated in part “that the Government of the United States of America wishes to include the reciprocal copyright arrangement between the United States and Italy effected pursuant to the exchange of notes signed at Washington October 28, 1892, and the exchanges of notes signed at Washington September 2, 1914, February 12, March 4, and March 11, 1915, among the pre-war bilateral treaties and other international agreements with Italy which the United States desires to keep in force or revive. Accordingly, it is understood that the aforementioned arrangement will continue in force and that the Government of each country will extend to the nationals of the other country treatment as favorable with respect to copyrights as was contemplated at the time the arrangement was entered into by the two countries.” (Department of State Bulletin, April 4, 1948, p. 455).
+<sup>13</sup> The exchanges of notes between the United States and Italy, on the basis of which the proclamations of October 31, 1892 and May 1, 1915, were issued, were the subject of a note delivered on March 12, 1948, to the Italian Foreign Office by the American Embassy at Rome with respect to pre-war bilateral treaties and other international agreements which the United States desired to keep in force or revive pursuant to Article 44 of the Treaty of Peace with Italy. The note stated in part “that the Government of the United States of America wishes to include the reciprocal copyright arrangement between the United States and Italy effected pursuant to the exchange of notes signed at Washington October 28, 1892, and the exchanges of notes signed at Washington September 2, 1914, February 12, March 4, and March 11, 1915, among the pre-war bilateral treaties and other international agreements with Italy which the United States desires to keep in force or revive. Accordingly, it is understood that the aforementioned arrangement will continue in force and that the Government of each country will extend to the nationals of the other country treatment as favorable with respect to copyrightsas was contemplated at the time the arrangement was entered into by the two countries.” (Department of State Bulletin, April 4, 1948, p. 455).
 
 <sup>14</sup> Treaty of Peace with Italy (Annex XV A) dated at Paris, January 10, 1947 (TIAS 1648).
 
@@ -6398,7 +7228,7 @@ The copyright proclamations of July 1, 1891, April 9, 1910, January 1, 1915, Apr
 
 Proc. No. 3792, July 12, 1967, 32 F.R. 10341, provided:
 
-WHEREAS the President is authorized, in accordance with the conditions prescribed in Section 9 of Title 17 of the United States Code which includes the provisions of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended by the act of September 25, 1941, 55 Stat. 732, to grant an extension of time for fulfillment of the conditions and formalities prescribed by the copyright laws of the United States of America, with respect to works first produced or published outside theUnited States of America and subject to copyright or to renewal of copyright under the laws of the United States of America, by nationals of countries which accord substantially equal treatment to citizens of the United States of America; and
+WHEREAS the President is authorized, in accordance with the conditions prescribed in Section 9 of Title 17 of the United States Code which includes the provisions of the act of Congress approved March 4, 1909, 35 Stat. 1075, as amended by the act of September 25, 1941, 55 Stat. 732, to grant an extension of time for fulfillment of the conditions and formalities prescribed by thecopyright laws of the United States of America, with respect to works first produced or published outside the United States of America and subject to copyright or to renewal of copyright under the laws of the United States of America, by nationals of countries which accord substantially equal treatment to citizens of the United States of America; and
 
 WHEREAS satisfactory official assurances have been received that, since April 15, 1892, citizens of the United States have been entitled to obtain copyright in Germany for their works on substantially the same basis as German citizens without the need of complying with any formalities, provided such works secured protection in the United States; and
 

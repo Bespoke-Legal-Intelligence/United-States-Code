@@ -1,0 +1,24 @@
+### §8204. Limitations on assistance
+
+#### (a) Amount
+
+The total amount of payments that a person shall be entitled to receive under this chapter may not exceed $75,000, or an equivalent value in tree seedlings.
+
+#### (b) Acres
+
+The total quantity of acres planted to trees or tree seedlings for which a person shall be entitled to receive payments under this chapter may not exceed 500 acres.
+
+#### (c) Regulations
+
+The Secretary shall promulgate regulations—
+
+&emsp;(1) defining the term “person” for the purposes of this chapter, which shall conform, to the maximum extent practicable, to the regulations defining the term “person” promulgated under section 1308 of this title; and
+
+&emsp;(2) promulgating such regulations as the Secretary determines necessary to ensure a fair and reasonable application of the limitation established under this section.
+
+(Pub. L. 107–171, title X, §10204, May 13, 2002, 116 Stat. 491.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8203 of this title.
+

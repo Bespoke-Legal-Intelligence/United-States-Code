@@ -60,5 +60,5 @@ Pub. L. 95–624, §19, Nov. 9, 1978, 92 Stat. 3466, provided that: “The Feder
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 209, 1956, 2332b, 2339A, 2516, 3286, 3592 of this title; title 5 section 8112; title 22 section 2709.
+This section is referred to in sections 209, 1956, 2332b, 2339A, 2516, 3286, 3592 of this title; title 5 section 8112.
 

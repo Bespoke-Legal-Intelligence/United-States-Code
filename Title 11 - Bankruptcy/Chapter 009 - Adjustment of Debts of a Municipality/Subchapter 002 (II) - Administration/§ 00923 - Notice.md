@@ -12,5 +12,5 @@ Section 923 of the House amendment represents a compromise with respect to the n
 
 #### house report no. 95–595
 
-The notice provisions in section 923 are significantly more sparse than those provided under section 85(d) of chapter IX \[section 405(d) of former title 11\]. The exact contours of the notice to be given under chapter 9 are left to the Rules. Because the Rules deal with notice in a municipal case (Rule 9–14), and because section 405(d) of title IV of the bill continues those Rules in effect to the extent not inconsistent with the bill, the notice provisions of current law and Rules would continue to apply.
+The notice provisions in section 923 are significantly more sparse than those provided under section 85(d) of chapter IX \[section 405(d) of former title 11\]. The exact contours of the notice to be given under chapter 9 are left to the Rules. Because the Rules deal with notice ina municipal case (Rule 9–14), and because section 405(d) of title IV of the bill continues those Rules in effect to the extent not inconsistent with the bill, the notice provisions of current law and Rules would continue to apply.
 

@@ -10,7 +10,7 @@ If a Council determines that additional information (other than information that
 
 &emsp;(A) to Federal employees and Council employees who are responsible for fishery management plan development and monitoring;
 
-&emsp;(B) to State or Marine Fisheries Commission employees pursuant to an agreement with theSecretary that prevents public disclosure of the identity or business of any person;
+&emsp;(B) to State or Marine Fisheries Commission employees pursuant to an agreement with the Secretary that prevents public disclosure of the identity or business of any person;
 
 &emsp;(C) when required by court order;
 
@@ -18,7 +18,7 @@ If a Council determines that additional information (other than information that
 
 &emsp;(E) that observer information collected in fisheries under the authority of the North Pacific Council may be released to the public as specified in a fishery management plan or regulation for weekly summary bycatch information identified by vessel, and for haul-specific bycatch information without vessel identification; or
 
-&emsp;(F) when the Secretary has obtained written authorization from the person submitting such information to release such information to persons for reasons not otherwise provided for in this subsection, and such release does not violate other requirements of this chapter.
+&emsp;(F) when the Secretary has obtained written authorization from the person submitting suchinformation to release such information to persons for reasons not otherwise provided for in this subsection, and such release does not violate other requirements of this chapter.
 
 (2) The Secretary shall, by regulation, prescribe such procedures as may be necessary to preserve the confidentiality of information submitted in compliance with any requirement or regulation under this chapter, except that the Secretary may release or make public any such information in any aggregate or summary form which does not directly or indirectly disclose the identity or business of any person who submits such information. Nothing in this subsection shall be interpreted or construed to prevent the use for conservation and management purposes by the Secretary, or with the approval of the Secretary, the Council, of any information submitted in compliance with any requirement or regulation under this chapter or the use, release, or publication of bycatch information pursuant to paragraph (1)(E).
 

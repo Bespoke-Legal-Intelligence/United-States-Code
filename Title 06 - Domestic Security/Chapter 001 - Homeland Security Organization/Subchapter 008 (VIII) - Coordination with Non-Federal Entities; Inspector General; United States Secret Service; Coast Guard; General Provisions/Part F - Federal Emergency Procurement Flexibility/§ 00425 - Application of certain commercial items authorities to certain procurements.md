@@ -1,0 +1,38 @@
+### §425. Application of certain commercial items authorities to certain procurements
+
+#### (a) Authority
+
+#### (1) In general
+
+&emsp;The head of an executive agency may apply the provisions of law listed in paragraph (2) to a procurement referred to in section 422 of this title without regard to whether the property or services are commercial items.
+
+#### (2) Commercial item laws
+
+&emsp;The provisions of law referred to in paragraph (1) are as follows:
+
+&emsp;&emsp;(A) Sections 427 and 430 of title 41.
+
+&emsp;&emsp;(B) Section 2304(g) of title 10.
+
+&emsp;&emsp;(C) Section 253(g) of title 41.
+
+#### (b) Inapplicability of limitation on use of simplified acquisition procedures
+
+#### (1) In general
+
+&emsp;The $5,000,000 limitation provided in section 427(a)(2) of title 41, section 2304(g)(1)(B) of title 10, and section 253(g)(1)(B) of title 41 shall not apply to purchases of property or services to which any of the provisions of law referred to in subsection (a) of this section are applied under the authority of this section.
+
+#### (2) OMB guidance
+
+&emsp;The Director of the Office of Management and Budget shall issue guidance and procedures for the use of simplified acquisition procedures for a purchase of property or services in excess of $5,000,000 under the authority of this section.
+
+#### (c) Continuation of authority for simplified purchase procedures
+
+Authority under a provision of law referred to in subsection (a)(2) of this section that expires under section 4202(e) of the Clinger-Cohen Act of 1996 (divisions D and E of Public Law 104–106; 10 U.S.C. 2304 note) shall, notwithstanding such section, continue to apply for use by the head of an executive agency as provided in subsections (a) and (b) of this section.
+
+(Pub. L. 107–296, title VIII, §855, Nov. 25, 2002, 116 Stat. 2236.)
+
+#### References in Text
+
+Section 4202(e) of the Clinger-Cohen Act of 1996, referred to in subsec. (c), is section 4202(e) of Pub. L. 104–106, which is set out as a note under section 2304 of Title 10, Armed Forces.
+

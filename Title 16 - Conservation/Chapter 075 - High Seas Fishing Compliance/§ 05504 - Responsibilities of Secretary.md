@@ -16,7 +16,7 @@ The Secretary, in cooperation with the Secretary of State and the Secretary of t
 
 &emsp;(4) convey to FAO information relating to any permit granted under section 5503(b)(3) of this title, including the vessel's identity, owner or operator, and factors relevant to the Secretary's determination to issue the permit;
 
-&emsp;(5) report promptly to FAO all relevant information regarding any activities of highseas fishing vessels that undermine the effectiveness of international conservation and management measures, including the identity of the vessels and any sanctions imposed; and
+&emsp;(5) report promptly to FAO all relevant information regarding any activities of high seas fishing vessels that undermine the effectiveness of international conservation and management measures, including the identity of the vessels and any sanctions imposed; and
 
 &emsp;(6) provide the FAO a summary of evidence regarding any activities of foreign vessels that undermine the effectiveness of international conservation and management measures.
 
@@ -49,6 +49,10 @@ The Magnuson-Stevens Fishery Conservation and Management Act, referred to in sub
 #### Effective Date of 1996 Amendment
 
 Section 101(a) \[title II, §211(b)\] of div. A of Pub. L. 104–208 provided that the amendment made by that section is effective 15 days after Oct. 11, 1996.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

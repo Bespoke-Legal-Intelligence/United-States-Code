@@ -24,7 +24,7 @@ Par. (6). Pub. L. 106–181, §605(a)(1), redesignated par. (6) as (4).
 
 #### Effective Date of 2000 Amendment
 
-Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of Title 49, Transportation.
+Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 ofPub. L. 106–181, set out as a note under section 106 of Title 49, Transportation.
 
 #### Transfer of Functions
 

@@ -36,5 +36,5 @@ Section 6 of Joint Res. July 3, 1952, repealed Joint Res. Apr. 14, 1952, ch. 204
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 1717 of this title; title 5 section 8312; title 38 section 6105; title 50 App. sections 19, 34.
+This section is referred to in section 1717 of this title; title 5 section 8312; title 38 section 6105; title 50 App. sections 19, 34.
 

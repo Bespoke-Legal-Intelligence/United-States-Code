@@ -14,5 +14,5 @@ Section was not enacted as part of the Internal Security Act of 1950 which compr
 
 #### Effective Date
 
-Section effective Jan. 2, 1963, see section 25 of Pub. L. 87–845, set out as an Effective Date of 1962 Amendment note under section 14 of Title 18, Crimes and Criminal Procedure.
+Section effective Jan. 2, 1963, see section 25 of Pub. L. 87–845, set out as an Effective Date of 1962 Amendment note under section 414 of Title 28, Judiciary and Judicial Procedure.
 

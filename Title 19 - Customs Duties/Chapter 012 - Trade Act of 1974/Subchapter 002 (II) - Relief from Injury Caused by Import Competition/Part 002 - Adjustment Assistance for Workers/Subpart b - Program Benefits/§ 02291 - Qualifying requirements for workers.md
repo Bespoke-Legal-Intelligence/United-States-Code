@@ -28,19 +28,29 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;&emsp;(A) was entitled to (or would be entitled to if he applied therefor) unemployment insurance for a week within the benefit period (i) in which such total or partial separation took place, or (ii) which began (or would have begun) by reason of the filing of a claim for unemployment insurance by such worker after such total or partial separation;
 
-&emsp;&emsp;(B) has exhausted all rights to any unemployment insurance to which he was entitled (or would be entitled if he applied therefor); and
+&emsp;&emsp;(B) has exhausted all rights to any unemployment insurance, except additional compensation that is funded by a State and is not reimbursed from any Federal funds, to which he was entitled (or would be entitled if he applied therefor); and
 
 &emsp;&emsp;(C) does not have an unexpired waiting period applicable to him for any such unemployment insurance.
 
-&emsp;(4) Such worker, with respect to such week of unemployment, would not be disqualifiedfor extended compensation payable under the Federal-State Extended Unemployment Compensation Act of 1970 by reason of the work acceptance and job search requirements in section 202(a)(3) of such Act.
+&emsp;(4) Such worker, with respect to such week of unemployment, would not be disqualified for extended compensation payable under the Federal-State Extended Unemployment Compensation Act of 1970 by reason of the work acceptance and job search requirements in section 202(a)(3) of such Act.
 
 &emsp;(5) Such worker—
 
-&emsp;&emsp;(A) is enrolled in a training program approved by the Secretary under section 2296(a) of this title,
+&emsp;&emsp;(A)(i) is enrolled in a training program approved by the Secretary under section 2296(a) of this title, and
+
+&emsp;&emsp;(ii) the enrollment required under clause (i) occurs no later than the latest of—
+
+&emsp;&emsp;&emsp;(I) the last day of the 16th week after the worker's most recent total separation from adversely affected employment which meets the requirements of paragraphs (1) and (2),
+
+&emsp;&emsp;&emsp;(II) the last day of the 8th week after the week in which the Secretary issues a certification covering the worker,
+
+&emsp;&emsp;&emsp;(III) 45 days after the later of the dates specified in subclause (I) or (II), if the Secretary determines there are extenuating circumstances that justify an extension in the enrollment period, or
+
+&emsp;&emsp;&emsp;(IV) the last day of a period determined by the Secretary to be approved for enrollment after the termination of a waiver issued pursuant to subsection (c) of this section,
 
 &emsp;&emsp;(B) has, after the date on which the worker became totally separated, or partially separated, from the adversely affected employment, completed a training program approved by the Secretary under section 2296(a) of this title, or
 
-&emsp;&emsp;(C) has received a written statement certified under subsection (c)(1) of this section after the date described in subparagraph (B).
+&emsp;&emsp;(C) has received a written statement under subsection (c)(1) of this section after the date described in subparagraph (B).
 
 #### (b) Withholding of trade readjustment allowance pending beginning or resumption of participation in training program; period of applicability
 
@@ -66,29 +76,79 @@ Payment of a trade readjustment allowance shall be made to an adversely affected
 
 &emsp;(B) before the first week following the week in which such certification is made under subpart A of this part.
 
-#### (c) Approval of training programs; written certifications; revocation of certification; annual report
+#### (c) Waivers of training requirements
 
-(1)(A) If the Secretary finds that it is not feasible or appropriate to approve a training program for a worker under section 2296(a) of this title, the Secretary shall submit to such worker a written statement certifying such finding.
+#### (1) Issuance of waivers
 
-(B) If a State or State agency has an agreement with the Secretary under section 2311 of this title and the State or State agency finds that it is not feasible or appropriate to approve a training program for a worker pursuant to the requirements of section 2296(a) of this title, the State or State agency shall—
+&emsp;The Secretary may issue a written statement to an adversely affected worker waiving the requirement to be enrolled in training described in subsection (a)(5)(A) of this section if the Secretary determines that it is not feasible or appropriate for the worker, because of 1 or more of the following reasons:
 
-&emsp;(i) submit to such worker a written statement certifying such finding, and
+#### (A) Recall
 
-&emsp;(ii) submit to the Secretary a written statement certifying such finding and the reasons for such finding.
+&emsp;&emsp;The worker has been notified that the worker will be recalled by the firm from which the separation occurred.
 
-(2)(A) If, after submitting to a worker a written statement certified under paragraph (1)(A), the Secretary finds that it is feasible or appropriate to approve a training program for such worker under section 2296(a) of this title, the Secretary shall submit to such worker a written statement that revokes the certification made under paragraph (1)(A) with respect to such worker.
+#### (B) Marketable skills
 
-(B) If, after submitting to a worker a written statement certified under paragraph (1)(B), a State or State agency finds that it is feasible or appropriate to approve a training program for such worker pursuant to the requirements of section 2296(a) of this title, the State or State agency shall submit to such worker, and to the Secretary, a written statement that revokes the certification made under paragraph (1)(B) with respect to such worker.
+&emsp;&emsp;The worker possesses marketable skills for suitable employment (as determined pursuant to an assessment of the worker, which may include the profiling system under section 303(j) of the Social Security Act (42 U.S.C. 503(j)), carried out in accordance with guidelines issued by the Secretary) and there is a reasonable expectation of employment at equivalent wages in the foreseeable future.
 
-(3) The Secretary shall submit to the Finance Committee of the Senate and to the Ways and Means Committee of the House of Representatives an annual report on the number of workers who received certifications under paragraph (1) during the preceding year and the number of certifications made under paragraph (1) that were revoked during the preceding year.
+#### (C) Retirement
 
-(Pub. L. 93–618, title II, §231, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2503, Aug. 13, 1981, 95 Stat. 881; Pub. L. 99–272, title XIII, §13003(a)(1), (2), (b), Apr. 7, 1986, 100 Stat. 300, 301; Pub. L. 100–418, title I, §1423(a)(1)–(3), Aug. 23, 1988, 102 Stat. 1244, 1245; Pub. L. 102–318, title I, §106(a), July 3, 1992, 106 Stat. 294.)
+&emsp;&emsp;The worker is within 2 years of meeting all requirements for entitlement to either—
+
+&emsp;&emsp;&emsp;(i) old-age insurance benefits under title II of the Social Security Act (42 U.S.C. 401 et seq.) (except for application therefor); or
+
+&emsp;&emsp;&emsp;(ii) a private pension sponsored by an employer or labor organization.
+
+#### (D) Health
+
+&emsp;&emsp;The worker is unable to participate in training due to the health of the worker, except that a waiver under this subparagraph shall not be construed to exempt a worker from requirements relating to the availability for work, active search for work, or refusal to accept work under Federal or State unemployment compensation laws.
+
+#### (E) Enrollment unavailable
+
+&emsp;&emsp;The first available enrollment date for the approved training of the worker is within 60 days after the date of the determination made under this paragraph, or, if later, there are extenuating circumstances for the delay in enrollment, as determined pursuant to guidelines issued by the Secretary.
+
+#### (F) Training not available
+
+&emsp;&emsp;Training approved by the Secretary is not reasonably available to the worker from either governmental agencies or private sources (which may include area vocational education schools, as defined in section 2302 <sup>1</sup> of title 20, and employers), no training that is suitable for the worker is available at a reasonable cost, or no training funds are available.
+
+#### (2) Duration of waivers
+
+#### (A) In general
+
+&emsp;&emsp;A waiver issued under paragraph (1) shall be effective for not more than 6 months after the date on which the waiver is issued, unless the Secretary determines otherwise.
+
+#### (B) Revocation
+
+&emsp;&emsp;The Secretary shall revoke a waiver issued under paragraph (1) if the Secretary determines that the basis of a waiver is no longer applicable to the worker and shall notify the worker in writing of the revocation.
+
+#### (3) Agreements under section 2311
+
+#### (A) Issuance by cooperating States
+
+&emsp;&emsp;Pursuant to an agreement under section 2311 of this title, the Secretary may authorize a cooperating State to issue waivers as described in paragraph (1).
+
+#### (B) Submission of statements
+
+&emsp;&emsp;An agreement under section 2311 of this title shall include a requirement that the cooperating State submit to the Secretary the written statements provided under paragraph (1) and a statement of the reasons for the waiver.
+
+(Pub. L. 93–618, title II, §231, Jan. 3, 1975, 88 Stat. 2020; Pub. L. 97–35, title XXV, §2503, Aug. 13, 1981, 95 Stat. 881; Pub. L. 99–272, title XIII, §13003(a)(1), (2), (b), Apr. 7, 1986, 100 Stat. 300, 301; Pub. L. 100–418, title I, §1423(a)(1)–(3), Aug. 23, 1988, 102 Stat. 1244, 1245; Pub. L. 102–318, title I, §106(a), July 3, 1992, 106 Stat. 294; Pub. L. 107–210, div. A, title I, §§114, 115, Aug. 6, 2002, 116 Stat. 939.)
 
 #### References in Text
 
 The Federal-State Extended Unemployment Compensation Act of 1970, referred to in subsec. (a)(4), is title II of Pub. L. 91–373, Aug. 10, 1970, 84 Stat. 708, as amended, which is classified generally as a note under section 3304 of Title 26, Internal Revenue Code. Section 202(a)(3) of such Act, referred to in subsec. (a)(4), is set out in the note under section 3304 of Title 26. For complete classification of this Act to the Code, see Tables.
 
+The Social Security Act, referred to in subsec. (c)(1)(C)(i), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally tosubchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
+
+Section 2302 of title 20, referred to in subsec. (c)(1)(F), defines the term “area vocational and technical education school” but not the term “area vocational education school”.
+
 #### Amendments
+
+2002—Subsec. (a)(3)(B). Pub. L. 107–210, §114(a), inserted “, except additional compensation that is funded by a State and is not reimbursed from any Federal funds,” after “any unemployment insurance”.
+
+Subsec. (a)(5)(A). Pub. L. 107–210, §114(b), designated existing provisions as cl. (i) and added cl. (ii).
+
+Subsec. (a)(5)(C). Pub. L. 107–210, §115(b), struck out “certified” after “statement”.
+
+Subsec. (c). Pub. L. 107–210, §115(a), inserted heading and amended text generally, substituting provisions relating to issuance and duration of waivers of training requirements for provisions relating to approval of training programs, written certifications, revocation, and reports.
 
 1992—Subsec. (a)(2). Pub. L. 102–318 added subpar. (D) and substituted “subparagraph (A) or (C), or both (and not more than 26 weeks, in the case of weeks described in subparagraph (B) or (D))” for “paragraph (A) or (C), or both” in closing provisions.
 
@@ -98,7 +158,7 @@ The Federal-State Extended Unemployment Compensation Act of 1970, referred to in
 
 &emsp;“(B) has, after the date on which the worker became totally separated, or partially separated, from the adversely affected employment, completed a job search program approved by the Secretary under section 2297(c) of this title.”
 
-Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, substituting provisions relating towithholding of trade readjustment allowance pending beginning or resumption of participation in training program, and period of applicability, for provisions relating to mandatory training or job-search.
+Subsec. (b). Pub. L. 100–418, §1423(a)(2), amended subsec. (b) generally, substituting provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in training program, and period of applicability, for provisions relating to mandatory training or job-search.
 
 Subsec. (c). Pub. L. 100–418, §1423(a)(3), amended subsec. (c) generally, substituting provisions relating to approval of training programs, written certifications, revocation of certification, and annual report, for provisions relating to withholding of trade readjustment allowance pending beginning or resumption of participation in job search program.
 
@@ -109,6 +169,10 @@ Subsec. (a)(5). Pub. L. 99–272, §13003(a)(1), added par. (5).
 Subsec. (c). Pub. L. 99–272, §13003(a)(2), added subsec. (c).
 
 1981—Pub. L. 97–35 designated existing provisions as subsec. (a), substituted provisions respecting applicability of date upon which petition was filed for provisions respecting applicability of date specified in certification under section 2273(a) of this title, substantially revised and reorganized conditions by, among other changes, adding pars. (3) and (4), and added subsec. (b).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–210 applicable to petitions for certification filed under this part or part 3 of this subchapter on or after the date that is 90 days after Aug. 6, 2002, except as otherwise provided, see section 151 of Pub. L. 107–210, set out as a note preceding section 2271 of this title.
 
 #### Effective Date of 1992 Amendment
 
@@ -166,7 +230,7 @@ Section 2514 of Pub. L. 97–35, as amended by Pub. L. 97–362, title II, §204
 
 &emsp;“(2) with respect to weeks of unemployment beginning after September 30, 1981, payments of trade readjustment allowances as determined under such chapter 2 as amended by this subtitle, except that the maximum amount of trade readjustment allowances payable to such an individual for such weeks of unemployment shall be an amount equal to the product of the trade readjustment allowance payable to the individual for a week of total unemployment (as determined under section 232(a) as so amended \[section 2292(a) of this title\]) multiplied by a factor determined by subtracting from fifty-two the sum of—
 
-&emsp;&emsp;“(A) the number of weeks preceding the first week which begins after September 30, 1981, and which are within the period covered by the samecertification under such chapter 2 as such week of unemployment, for which the individual was entitled to a trade readjustment allowance or unemployment insurance, or would have been entitled to such allowance or unemployment insurance if he had applied therefor, and
+&emsp;&emsp;“(A) the number of weeks preceding the first week which begins after September 30, 1981, and which are within the period covered by the same certification under such chapter 2 as such week of unemployment, for which the individual was entitled to a trade readjustment allowance or unemployment insurance, or would have been entitled to such allowance or unemployment insurance if he had applied therefor, and
 
 &emsp;&emsp;“(B) the number of weeks preceding such first week that are deductible under section 232(d) (as in effect before the amendments made by section 2504) \[section 2392(d) of this title\];
 
@@ -174,9 +238,11 @@ Section 2514 of Pub. L. 97–35, as amended by Pub. L. 97–362, title II, §204
 
 #### Termination Date
 
-No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2273, 2292, 2293, 2311, 2318, 2331, 2396 of this title; title 26 section 62.
+This section is referred to in sections 2273, 2292, 2293, 2297, 2298, 2311, 2396 of this title; title 26 sections 35, 62.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

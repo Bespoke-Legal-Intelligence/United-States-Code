@@ -12,7 +12,7 @@
 
 #### (3) Definition
 
-&emsp;The term “autoimmune disease” includes, for purposes of this section such diseases or disorders with evidence of autoimmunepathogensis <sup>1</sup> as the Secretary determines to be appropriate.
+&emsp;The term “autoimmune disease” includes, for purposes of this section such diseases or disorders with evidence of autoimmune pathogensis <sup>1</sup> as the Secretary determines to be appropriate.
 
 #### (b) Coordinating Committee
 

@@ -20,7 +20,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 &emsp;(6) Ensure that the National Center for Health Statistics collects data on the health status of each minority group.
 
-&emsp;(7) With respect to individuals who lack proficiency in speaking the English language, enter into contracts with public and nonprofit private providers of primary health services for the purpose of increasing the access of the individuals to such services by developing and carrying out programs to provide bilingual or interpretive services.
+&emsp;(7) With respect to individuals who lack proficiency in speaking the English language, enter into contracts with public and nonprofit private providers of primary health services for the purpose of increasing the access of theindividuals to such services by developing and carrying out programs to provide bilingual or interpretive services.
 
 &emsp;(8) Support a national minority health resource center to carry out the following:
 
@@ -64,7 +64,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (6) Vacancies
 
-&emsp;If a vacancy occurs on the Committee, a new member shall be appointed by the Secretary within 90 days from the date that the vacancyoccurs, and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Committee.
+&emsp;If a vacancy occurs on the Committee, a new member shall be appointed by the Secretary within 90 days from the date that the vacancy occurs, and serve for the remainder of the term for which the predecessor of such member was appointed. The vacancy shall not affect the power of the remaining members to execute the duties of the Committee.
 
 #### (7) Compensation
 
@@ -94,7 +94,7 @@ With respect to improving the health of racial and ethnic minority groups, the S
 
 #### (1) In general
 
-&emsp;In carrying out subsection (b) of this section, the Secretary acting through the Deputy Assistant Secretary may make awards of grants, cooperative agreements, and contracts to public and nonprofit private entities.
+&emsp;In carrying out subsection (b) of this section, the Secretary acting through the DeputyAssistant Secretary may make awards of grants, cooperative agreements, and contracts to public and nonprofit private entities.
 
 #### (2) Process for making awards
 
@@ -166,7 +166,7 @@ Committee on Energy and Commerce of House of Representatives treated as referrin
 
 #### Effective Date of 1990 Amendment
 
-Section 401(a)(2) of Pub. L. 101–557 provided that: “The amendments made by paragraph (1) \[amending this section\] shall take effect on the date of the enactment of the Disadvantaged Minority Health Improvement Act of 1990 \[Nov. 6, 1990\].”
+Section 401(a)(2) of Pub. L. 101–557 provided that: “The amendments made by paragraph (1) \[amendingthis section\] shall take effect on the date of the enactment of the Disadvantaged Minority Health Improvement Act of 1990 \[Nov. 6, 1990\].”
 
 #### Termination of Advisory Committees
 
@@ -204,7 +204,7 @@ Section 1(b) of Pub. L. 101–527 provided that: “The Congress finds that—
 
 &emsp;“(13) the Report of the Secretary's Task Force on Black and Minority Health (prepared for the Secretary of Health and Human Services and issued in 1985) described the health status problems of minorities, and made recommendations concerning measures that should be implemented by the Secretary with respect to improving the health status of minorities through programs for providing health information and education; and
 
-&emsp;“(14) the Office of Minority Health, created in 1985 by the Secretary of Health and Human Services,should be authorized pursuant to statute and should receive increased funding to support efforts to improve the health of individuals from disadvantaged backgrounds, including minorities, including the implementation of the recommendations made by the Secretary's Task Force on Black and Minority Health.”
+&emsp;“(14) the Office of Minority Health, created in 1985 by the Secretary of Health and Human Services, should be authorized pursuant to statute and should receive increased funding to support efforts to improve the health of individuals from disadvantaged backgrounds, including minorities, including the implementation of the recommendations made by the Secretary's Task Force on Black and Minority Health.”
 
 #### Section Referred to in Other Sections
 

@@ -8,7 +8,7 @@
 
 &emsp;&emsp;(A) bears rents not greater than the lesser of (i) the existing fair market rent for comparable units in the area as established by the Secretary under section 1437f of this title, or (ii) a rent that does not exceed 30 percent of the adjusted income of a family whose income equals 65 percent of the median income for the area, as determined by the Secretary, with adjustment for number of bedrooms in the unit, except that the Secretary may establish income ceilings higher or lower than 65 percent of the median for the area on the basis of the Secretary's findings that such variations are necessary because of prevailing levels of construction costs or fair market rents, or unusually high or low family incomes;
 
-&emsp;&emsp;(B) has not less than 20 percent of the units (i) occupied by very low-income families who pay as a contribution toward rent (excluding any Federal or State rental subsidy provided on behalf of the family) not more than 30 percent of the family's monthly adjusted income as determined by the Secretary, or (ii) occupied by very low-income families and bearing rents not greaterthan the gross rent for rent-restricted residential units as determined under section 42(g)(2) of title 26;
+&emsp;&emsp;(B) has not less than 20 percent of the units (i) occupied by very low-income families who pay as a contribution toward rent (excluding any Federal or State rental subsidy provided on behalf of the family) not more than 30 percent of the family's monthly adjusted income as determined by the Secretary, or (ii) occupied by very low-income families and bearing rents not greater than the gross rent for rent-restricted residential units as determined under section 42(g)(2) of title 26;
 
 &emsp;&emsp;(C) is occupied only by households that qualify as low-income families;
 
@@ -44,7 +44,7 @@
 
 &emsp;&emsp;&emsp;(ii) the rent for the unit is not greater than the existing fair market rent for comparable units in the area, as established by the Secretary under section 1437f of this title; and
 
-&emsp;&emsp;&emsp;(iii) the Secretary determines that the waiver, together with waivers under this paragraph for other dwelling units in the project, will result in the use of amounts described in clause (iii) <sup>1</sup> in an effective manner that will improve the provision of affordable housing for such families.
+&emsp;&emsp;&emsp;(iii) the Secretary determines that the waiver, together with waivers under thisparagraph for other dwelling units in the project, will result in the use of amounts described in clause (iii) <sup>1</sup> in an effective manner that will improve the provision of affordable housing for such families.
 
 #### (B) Eligible families
 
@@ -116,7 +116,7 @@ Amendment by Pub. L. 105–276 made on, and applicable beginning upon, Oct. 21, 
 
 #### Effective Date of 1994 Amendment
 
-Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out this subchapter after Apr. 11, 1994, and any amounts made available to carry out this subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
+Amendment by Pub. L. 103–233 applicable with respect to any amounts made available to carry out thissubchapter after Apr. 11, 1994, and any amounts made available to carry out this subchapter before that date that remain uncommitted on that date, with Secretary to issue any regulations necessary to carry out such amendment not later than end of 45-day period beginning on that date, see section 209 of Pub. L. 103–233, set out as a note under section 5301 of this title.
 
 #### Effective Date of 1992 Amendment
 

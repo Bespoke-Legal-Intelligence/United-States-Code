@@ -6,9 +6,11 @@ General Requirements.—A person owning or operating a pipeline facility shall�
 
 &emsp;(1) comply with applicable safety standards prescribed under this chapter, except as provided in this section or in section 60126;
 
-&emsp;(2) prepare and carry out a plan for inspection and maintenance required under section 60108(a) and (b) of this title; and
+&emsp;(2) prepare and carry out a plan for inspection and maintenance required under section 60108(a) and (b) of this title;
 
-&emsp;(3) allow access to or copying of records, make reports and provide information, and allow entry or inspection required under section 60117(a)–(d) of this title.
+&emsp;(3) allow access to or copying of records, make reports and provide information, and allow entry or inspection required under section 60117(a)–(d) of this title; and
+
+&emsp;(4) conduct a risk analysis, and adopt and implement an integrity management program, for pipeline facilities as required under section 60109(c).
 
 (b)
 
@@ -20,9 +22,17 @@ Waivers by Secretary.—On application of a person owning or operating a pipelin
 
 (d)
 
-Waivers by State Authorities.—If a certification under section 60105 of this title or an agreement under section 60106 of this title is in effect, the State authority may waive compliance with a safety standard to which the certification or agreement applies in the same way and to the same extent the Secretary may waive compliance under subsection (c) of this section. However, the authority must give the Secretary written notice of the waiver at least 60 days before its effective date. If the Secretary makes a written objection before the effective date of the waiver, the waiver is stayed. After notifying the authority of the objection, the Secretary shall provide a prompt opportunity for a hearing. The Secretary shall make the final decision on granting the waiver.
+Waivers by State Authorities.—If a certification under section 60105 of this title or an agreement under section 60106 of this title is in effect, the State authority may waive compliance with a safety standard to which the certification or agreement applies in the same way and to the same extent the Secretary may waivecompliance under subsection (c) of this section. However, the authority must give the Secretary written notice of the waiver at least 60 days before its effective date. If the Secretary makes a written objection before the effective date of the waiver, the waiver is stayed. After notifying the authority of the objection, the Secretary shall provide a prompt opportunity for a hearing. The Secretary shall make the final decision on granting the waiver.
 
-(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1322; Pub. L. 104–304, §13, Oct. 12, 1996, 110 Stat. 3802.)
+(e)
+
+Operator Assistance in Investigations.—If the Secretary or the National Transportation Safety Board investigate <sup>1</sup> an accident involving a pipeline facility, the operator of the facility shall make available to the Secretary or the Board all records and information that in any way pertain to the accident (including integrity management plans and test results), and shall afford all reasonable assistance in the investigation of the accident.
+
+(f)
+
+Limitation on Statutory Construction.—Nothing in this section may be construed to infringe upon the constitutional rights of an operator or its employees.
+
+(Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1322; Pub. L. 104–304, §13, Oct. 12, 1996, 110 Stat. 3802; Pub. L. 107–355, §§10(a), (c), 14(c), Dec. 17, 2002, 116 Stat. 2995, 2996, 3005.)
 
 Historical and Revision Notes
 
@@ -86,6 +96,12 @@ In subsection (d), the words “to which the certification or agreement applies�
 
 #### Amendments
 
+2002—Subsec. (a)(4). Pub. L. 107–355, §14(c), added par. (4).
+
+Subsec. (e). Pub. L. 107–355, §10(a), added subsec. (e).
+
+Subsec. (f). Pub. L. 107–355, §10(c), added subsec. (f).
+
 1996—Subsec. (a). Pub. L. 104–304, §13(a)(1), struck out “transporting gas or hazardous liquid or” after “person” in introductory provisions.
 
 Subsec. (a)(1). Pub. L. 104–304, §13(a)(2), added par. (1) and struck out former par. (1) which read as follows: “comply with applicable safety standards prescribed under this chapter, except as provided in this section;”.
@@ -96,5 +112,7 @@ Subsec. (c). Pub. L. 104–304, §13(c), substituted “owning” for “transpo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 60119, 60122, 60123, 60124 of this title.
+This section is referred to in sections 60106, 60109, 60119, 60122, 60123, 60124, 60131 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “investigates”.</i>
 

@@ -22,3 +22,5 @@ Applicability of Certain Benefits.—The Secretary of Transportation shall presc
 
 Regulations.—Regulations prescribed for the purposes of this section shall to the extent practicable be identical to the regulations prescribed by the Secretary of Defense under those provisions.”
 
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+

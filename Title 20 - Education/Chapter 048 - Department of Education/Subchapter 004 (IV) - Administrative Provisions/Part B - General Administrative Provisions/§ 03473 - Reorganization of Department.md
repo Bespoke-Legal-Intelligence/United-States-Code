@@ -2,7 +2,7 @@
 
 #### (a) Authorization; limitations
 
-The Secretary is authorized, subject to the requirements of section 3412(f) of this title, to allocate or reallocate functions among the officers of the Department, and to establish, consolidate, alter, or discontinue such organizationalentities within the Department as may be necessary or appropriate, but the authority of the Secretary under this subsection does not extend to—
+The Secretary is authorized, subject to the requirements of section 3412(f) of this title, to allocate or reallocate functions among the officers of the Department, and to establish, consolidate, alter, or discontinue such organizational entities within the Department as may be necessary or appropriate, but the authority of the Secretary under this subsection does not extend to—
 
 &emsp;(1) any office, bureau, unit, or other entity transferred to the Department and established by statute or any function vested by statute in such an entity or officer of such an entity, except as provided in subsection (b) of this section;
 

@@ -2,7 +2,7 @@
 
 #### (a) Civil forfeiture proceeding
 
-Any fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo)used, and any fish taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by section 773e of this title shall be subject to forfeiture to the United States. All or part of such vessel may, and all such fish shall, be forfeited to the United States pursuant to a civil proceeding under this section.
+Any fishing vessel (including its fishing gear, furniture, appurtenances, stores, and cargo) used, and any fish taken or retained, in any manner, in connection with or as a result of the commission of any act prohibited by section 773e of this title shall be subject to forfeiture to the United States. All or part of such vessel may, and all such fish shall, be forfeited to the United States pursuant to a civil proceeding under this section.
 
 #### (b) United States district court jurisdiction
 
@@ -39,4 +39,10 @@ If a judgment is entered for the United States in a civil forfeiture proceeding 
 For purposes of this section, it shall be a rebuttable presumption that all fish found on board a fishing vessel which is seized in connection with an act prohibited by section 773e of this title were taken or retained in violation of the Convention and this subchapter.
 
 (Pub. L. 97–176, §10, May 17, 1982, 96 Stat. 81.)
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

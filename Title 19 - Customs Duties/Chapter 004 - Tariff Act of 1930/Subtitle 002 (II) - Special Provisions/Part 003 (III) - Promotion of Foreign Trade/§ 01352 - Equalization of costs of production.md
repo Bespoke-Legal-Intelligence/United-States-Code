@@ -18,7 +18,7 @@ The authority of the President to enter into foreign trade agreements under sect
 
 The Trade Expansion Act of 1962, referred to in subsec. (a), is Pub. L. 87–794, Oct. 11, 1962, 76 Stat. 872, as amended, which is classified generally to chapter 7 (§1801 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of this title and Tables.
 
-The Trade Act of 1974, referred to in subsec. (a), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended,which is classified principally to chapter 12 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
+The Trade Act of 1974, referred to in subsec. (a), is Pub. L. 93–618, Jan. 3, 1975, 88 Stat. 1978, as amended, which is classified principally to chapter 12 (§2101 et seq.) of this title. For complete classification of this Act to the Code, see References in Text note set out under section 2101 of this title and Tables.
 
 #### Amendments
 

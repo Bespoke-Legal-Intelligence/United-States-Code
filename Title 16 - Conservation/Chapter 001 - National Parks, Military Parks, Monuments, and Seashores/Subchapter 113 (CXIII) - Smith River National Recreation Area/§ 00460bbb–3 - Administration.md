@@ -46,7 +46,7 @@ The Secretary shall administer the recreation area in accordance with this subch
 
 &emsp;(D) The management emphasis for the Upper South Fork management area shall be on wild river and roadless back-country recreation.
 
-&emsp;(E) The management emphasis for the Lower South Fork management area shall be on maintaining and protecting natural scenic values in the river canyon while providing for traditional and compatible river sports, including white water rafting, angling, sightseeing, and developed and dispersed recreation. Timber harvests based on uneven-aged management with extended rotations shall be allowed where consistent with protection of the scenic values of the recreation area.
+&emsp;(E) The management emphasis for the Lower South Fork management area shall be on maintaining and protecting natural scenic values in the river canyon while providing for traditional and compatible river sports, including white water rafting, angling, sightseeing, and developed and dispersed recreation.Timber harvests based on uneven-aged management with extended rotations shall be allowed where consistent with protection of the scenic values of the recreation area.
 
 &emsp;(F) The management emphasis for the Lower Hurdygurdy Creek management area shall be on maintenance of wildlife values while providing rustic family and group recreation facilities for fishing, swimming, hunting, and camping. Timber harvests based on uneven-aged management with extended rotations shall be allowed where consistent with protection of scenic and wildlife values.
 

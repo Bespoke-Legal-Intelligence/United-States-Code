@@ -42,7 +42,7 @@ As used in this section—
 
 &emsp;&emsp;(A) a United States citizen;
 
-&emsp;&emsp;(B) a corporation, partnership, or other association created under the laws of theUnited States or of any State (including the District of Columbia or any commonwealth, territory, or possession of the United States); or
+&emsp;&emsp;(B) a corporation, partnership, or other association created under the laws of the United States or of any State (including the District of Columbia or any commonwealth, territory, or possession of the United States); or
 
 &emsp;&emsp;(C) a foreign corporation, partnership, or other association, more than 95 percent of which is owned by persons described in subparagraphs (A) and (B); and
 

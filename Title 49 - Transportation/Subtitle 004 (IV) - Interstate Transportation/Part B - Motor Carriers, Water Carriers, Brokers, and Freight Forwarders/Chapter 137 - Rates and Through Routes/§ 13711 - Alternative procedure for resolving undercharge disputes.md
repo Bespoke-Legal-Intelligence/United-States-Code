@@ -10,7 +10,7 @@ Jurisdiction of Board.—
 
 &emsp;(1)
 
-Determination.—The Board shall have jurisdiction to make a determination of whether or not attempting to charge or the charging of a rate by a motor carrier or freight forwarder or party representing a motor carrier or freight forwarder is an unreasonable practice under subsection (a). If the Board determines that attempting to charge or the charging of the rate is an unreasonable practice under subsection (a), the carrier, freight forwarder, or party may not collect the difference described in subsection (a) between the applicable rate and the negotiated rate for the transportation service.
+Determination.—The Board shall have jurisdiction to make a determination ofwhether or not attempting to charge or the charging of a rate by a motor carrier or freight forwarder or party representing a motor carrier or freight forwarder is an unreasonable practice under subsection (a). If the Board determines that attempting to charge or the charging of the rate is an unreasonable practice under subsection (a), the carrier, freight forwarder, or party may not collect the difference described in subsection (a) between the applicable rate and the negotiated rate for the transportation service.
 
 &emsp;(2)
 
@@ -28,7 +28,7 @@ Factors to consider.—In making a determination under paragraph (1), the Board 
 
 (c)
 
-Stay of Additional Compensation.—When a person proceeds under this section to challenge the reasonableness of the practice of a motor carrier, freight forwarder, or party described in subsection (a) to attempt to charge or to charge the difference described in subsection (a) between the applicable rate and the negotiated rate for the transportation service in addition to those charges already billed and collected for the transportation service, the personshall not have to pay any additional compensation to the carrier, freight forwarder, or party until the Board has made a determination as to the reasonableness of the practice as applied to the freight of the person against whom the claim is made.
+Stay of Additional Compensation.—When a person proceeds under this section to challenge the reasonableness of the practice of a motor carrier, freight forwarder, or party described in subsection (a) to attempt to charge or to charge the difference described in subsection (a) between the applicable rate and the negotiated rate for the transportation service in addition to those charges already billed and collected for the transportation service, the person shall not have to pay any additional compensation to the carrier, freight forwarder, or party until the Board has made a determination as to the reasonableness of the practice as applied to the freight of the person against whom the claim is made.
 
 (d)
 

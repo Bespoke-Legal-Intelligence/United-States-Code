@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Association shall be established without NAIC oversight and the provisions set forth in section 6754 of this title, subsections (a), (b), (c), and (e) of section 6758 of this title, and sections 6759(b) and 6760 of this title shall cease to be effective if, at the end of the 2-year period beginning on the date on which the provisions of this subchapter take effect pursuant to section 6751 of this title—
+The Association shall be established without NAIC oversight and the provisions set forth in section 6754 of this title, subsections (a), (b), (c), and (e) of section 6758 of this title, and sections 6759(b) and 6760 of this title shall cease to be effective if, at the end of the 2-year period beginning on the date on which the provisions of thissubchapter take effect pursuant to section 6751 of this title—
 
 &emsp;(1) at least a majority of the States representing at least 50 percent of the total United States commercial-lines insurance premiums have not satisfied the uniformity or reciprocity requirements of subsections (a), (b), and (c) of section 6751 of this title; and
 
@@ -38,7 +38,7 @@ If the repeals required by subsection (a) of this section are implemented, the f
 
 #### (c) Annual report
 
-As soon as practicable after the close of each fiscal year, the Association shall submit to the President and to the Congress a written report relative to the conduct of its business, and the exercise of the other rights and powers granted by this subchapter, during such fiscal year. Such report shall include financial statements settingforth the financial position of the Association at the end of such fiscal year and the results of its operations (including the source and application of its funds) for such fiscal year.
+As soon as practicable after the close of each fiscal year, the Association shall submit to the President and to the Congress a written report relative to the conduct of its business, and the exercise of the other rights and powers granted by this subchapter, during such fiscal year. Such report shall include financial statements setting forth the financial position of the Association at the end of such fiscal year and the results of its operations (including the source and application of its funds) for such fiscal year.
 
 (Pub. L. 106–102, title III, §332, Nov. 12, 1999, 113 Stat. 1431.)
 

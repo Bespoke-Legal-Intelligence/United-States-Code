@@ -36,3 +36,7 @@ Amendment by Pub. L. 102–232 effective 30 days after Dec. 12, 1991, see sectio
 
 Amendment by Pub. L. 101–649 not applicable to functions and duties respecting petitions filed before Oct. 1, 1991, see section 408(c) of Pub. L. 101–649, set out as a note under section 1421 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of relatedreferences, see note set out under section 1551 of this title.
+

@@ -68,7 +68,7 @@ Subject to approval by shareholders under subsection (c)(2) of this section, eac
 
 #### (2) Effective date
 
-&emsp;The bylaws adopted by the board of directors of a System institution under subsection (b) ofthis section shall take effect only on approval of a majority of the stockholders of such institution present and voting, or voting by written proxy, at a duly authorized stockholders’ meeting.
+&emsp;The bylaws adopted by the board of directors of a System institution under subsection (b) of this section shall take effect only on approval of a majority of the stockholders of such institution present and voting, or voting by written proxy, at a duly authorized stockholders’ meeting.
 
 #### (d) Reduction of capital
 
@@ -142,7 +142,7 @@ Subsec. (d)(1). Pub. L. 100–399, §301(f), struck out “and in section 2162 o
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, whichwas approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
+Amendment by Pub. L. 100–399 effective as if enacted immediately after enactment of Pub. L. 100–233, which was approved Jan. 6, 1988, see section 1001(a) of Pub. L. 100–399, set out as a note under section 2002 of this title.
 
 #### Section Referred to in Other Sections
 

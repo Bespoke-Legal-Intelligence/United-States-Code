@@ -46,7 +46,7 @@ Grant funds awarded under this section may be used for the following purposes:
 
 #### (1) In general
 
-&emsp;In order to be eligible to be awarded a grant under this section for any fiscal year, an institution of higher education shall submit an application to the Attorney General at such time and in such manner as the Attorney General shall prescribe.
+&emsp;In order to be eligible to be awarded a grant under this section for any fiscal year, an institution of higher education shall submit an application to the Attorney General at such timeand in such manner as the Attorney General shall prescribe.
 
 #### (2) Contents
 
@@ -118,7 +118,7 @@ In this section—
 
 &emsp;(2) the term “domestic violence” includes acts or threats of violence, not including acts of self defense, committed by a current or former spouse of the victim, by a person with whom the victim shares a child in common, by a person who is cohabitating with or has cohabitated with the victim, by a person similarly situated to a spouse of the victim under the domestic, dating or family violence laws of the jurisdiction, or by any other person against a victim who is protected from that person's acts under the domestic, dating or family violence laws of the jurisdiction;
 
-&emsp;(3) the term “sexual assault” means any conduct proscribed by chapter 109A of title 18, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States or in a Federal prison, including both assaults committed by offenders who are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim; and
+&emsp;(3) the term “sexual assault” means any conduct proscribed by chapter 109A of title 18, whether or not the conduct occurs in the special maritime and territorial jurisdiction of the United States or in a Federal prison, including both assaults committed by offenderswho are strangers to the victim and assaults committed by offenders who are known or related by blood or marriage to the victim; and
 
 &emsp;(4) the term “victim services” means a nonprofit, nongovernmental organization or a public, nonprofit organization acting in a nongovernmental capacity that assists domestic violence, dating violence or sexual assault victims, including campus women's centers, rape crisis centers, battered women's shelters, and other sexual assault, domestic violence or dating violence programs, including campus counseling support and victim advocate organizations with domestic violence, dating violence, stalking, and sexual assault programs, whether or not organized and staffed by students.
 

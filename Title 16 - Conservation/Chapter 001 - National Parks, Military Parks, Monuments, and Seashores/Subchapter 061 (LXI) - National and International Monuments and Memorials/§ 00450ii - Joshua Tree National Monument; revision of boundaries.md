@@ -8,7 +8,7 @@ Township 1 south, range 5 east, sections 22 to 27, inclusive, and sections 34 to
 
 &emsp;Beginning at the United States Government Land Office monument marked as the east quarter corner of said section 33, thence proceeding on a true bearing south 89 degrees 02 minutes 10 seconds west a distance of 50.01 feet to the true point of beginning of the hereinafter described parcel of land;
 
-&emsp;Thence north 0 degrees 02 minutes 55 seconds west a distance of 250.08 feet to a point of curve; thence along the arc of a curve to the left having a radius of 20.00 feet a distance of 31.73 feet to a point of tangency; thence south 89 degrees 02 minutes 40 seconds west a distance of 2,559.24 feet; thence south 0 degrees 19 minutes 50 seconds east a distance of 270.76 feet;
+&emsp;Thence north 0 degrees 02 minutes 55 seconds west a distance of 250.08 feet to a point of curve; thence along the arc of a curve to the left having a radius of 20.00 feet a distance of 31.73 feet to a point of tangency; thence south89 degrees 02 minutes 40 seconds west a distance of 2,559.24 feet; thence south 0 degrees 19 minutes 50 seconds east a distance of 270.76 feet;
 
 &emsp;Thence south 0 degrees 21 minutes 02 seconds east a distance of 409.32 feet to the beginning of a curve; thence along the arc of a curve to the left having a radius of 280.98 feet a distance of 275.93 feet to a point of compound curvature; thence along the arc of a curve to the left having a radius of 800.00 feet a distance of 753.98 feet to a point of tangency; thence north 69 degrees 22 minutes 58 seconds east a distance of 125.31 feet to the beginning of a curve;
 

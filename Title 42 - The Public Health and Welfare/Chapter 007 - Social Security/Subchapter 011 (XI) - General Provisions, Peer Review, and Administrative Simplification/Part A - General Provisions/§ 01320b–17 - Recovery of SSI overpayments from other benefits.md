@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) Whenever the Commissioner of Social Security determines that more than the correct amount of any payment has been made under the supplemental security income program under subchapter XVI of this chapter (including,for purposes of this section, under section 1382e(a) of this title or section 212(b) of Public Law 93–66) to a person who is not currently eligible for cash benefits under the program, the Commissioner, notwithstanding section 407 of this title but subject to paragraph (2) of this subsection, may recover the amount incorrectly paid by decreasing any amount which is payable to the person under subchapter II or VIII of this chapter in any month by not more than 10 percent of the amount payable under such subchapter.
+(1) Whenever the Commissioner of Social Security determines that more than the correct amount of any payment has been made under the supplemental security income program under subchapter XVI of this chapter (including, for purposes of this section, under section 1382e(a) of this title or section 212(b) of Public Law 93–66) to a person who is not currently eligible for cash benefits under the program, the Commissioner, notwithstanding section 407 of this title but subject to paragraph (2) of this subsection, may recover the amount incorrectly paid by decreasing any amount which is payable to the person under subchapter II or VIII of this chapter in any month by not more than 10 percent of the amount payable under such subchapter.
 
 (2) The 10 percent limitation set forth in paragraph (1) shall not apply to an overpayment made to a person if—
 

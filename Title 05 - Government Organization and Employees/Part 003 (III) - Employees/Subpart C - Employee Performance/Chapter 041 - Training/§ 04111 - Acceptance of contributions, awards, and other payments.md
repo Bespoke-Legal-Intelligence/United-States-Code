@@ -48,7 +48,7 @@ Functions vested by law (including reorganization plan) in Bureau of the Budget 
 
 Functions of President under subsec. (a) of this section delegated to Office of Personnel Management, see section 401(b) of Ex. Ord. No. 11348, Apr. 20, 1967, 32 F.R. 6335, set out as a note under section 4103 of this title.
 
-Functions of President under subsec. (b) of this section delegated to Director of Office of Management and Budget, see Ex. Ord. No. 12152, Aug. 14, 1979, 44 F.R. 48143, set out as a note under section 301 of Title 3, The President.
+Functions of President under subsec. (b) of this section delegated to Director of Office of Management andBudget, see Ex. Ord. No. 12152, Aug. 14, 1979, 44 F.R. 48143, set out as a note under section 301 of Title 3, The President.
 
 #### Section Referred to in Other Sections
 

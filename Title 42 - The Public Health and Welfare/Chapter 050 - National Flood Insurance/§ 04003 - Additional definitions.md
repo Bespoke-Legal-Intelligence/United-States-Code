@@ -52,3 +52,7 @@ Subsec. (b). Pub. L. 98–181, §451(e)(1), substituted “Director” for “Se
 
 1977—Subsec. (a)(4). Pub. L. 95–128 substituted “assistance pursuant to the Disaster Relief Act of 1974 (other than assistance under such Act in connection with a flood)” for “assistance for emergency work essential for the protection and preservation of life and property performed pursuant to the Disaster Relief Act of 1970 or any subsequent Act of Congress which supersedes or modifies the Disaster Relief Act of 1970”.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

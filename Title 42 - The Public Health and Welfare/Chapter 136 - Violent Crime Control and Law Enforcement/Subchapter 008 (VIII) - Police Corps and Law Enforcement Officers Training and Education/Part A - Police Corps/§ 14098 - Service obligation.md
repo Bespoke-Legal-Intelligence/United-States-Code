@@ -20,5 +20,5 @@ If the police force of which the participant is a member lays off the participan
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14096, 14100 of this title.
+This section is referred to in section 14096 of this title.
 

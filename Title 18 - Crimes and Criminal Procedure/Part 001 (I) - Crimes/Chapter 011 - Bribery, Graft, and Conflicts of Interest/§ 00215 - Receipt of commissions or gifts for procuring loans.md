@@ -10,7 +10,7 @@
 
 \[(b) Transferred\]
 
-(c) This section shall not apply to bona fide salary, wages, fees, or other compensation paid, or expenses paid or reimbursed, in the usual course of business.
+(c) This section shall not apply to bona fide salary, wages, fees, or other compensation paid,or expenses paid or reimbursed, in the usual course of business.
 
 (d) Federal agencies with responsibility for regulating a financial institution shall jointly establish such guidelines as are appropriate to assist an officer, director, employee, agent, or attorney of a financial institution to comply with this section. Such agencies shall make such guidelines available to the public.
 
@@ -56,5 +56,5 @@ Section 3 of Pub. L. 99–370 provided that: “This Act and the amendments made
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 225, 981, 982, 1510, 1956, 3059A, 3293, 3322 of this title; title 12 sections 503, 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b.
+This section is referred to in sections 225, 981, 982, 1510, 1956, 3293, 3322 of this title; title 12 sections 503, 1785, 1786, 1787, 1821, 1828, 1829, 1831k, 1833a, 2277a–10b.
 

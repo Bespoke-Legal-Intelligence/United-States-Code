@@ -44,13 +44,13 @@
 
 (k) A United States magistrate judge appointed under this chapter shall be exempt from the provisions of subchapter I of chapter 63 of title 5.
 
-(June 25, 1948, ch. 646, 62 Stat. 915; May 24, 1949, ch. 139, §73, 63 Stat. 100; July 9, 1952, ch. 609, §1,66 Stat. 509; July 25, 1956, ch. 722, 70 Stat. 642; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1108; Pub. L. 94–520, §2, Oct. 17, 1976, 90 Stat. 2458; Pub. L. 95–598, title II, §231, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 96–82, §3(a)–(d), Oct. 10, 1979, 93 Stat. 644, 645; Pub. L. 97–230, Aug. 6, 1982, 96 Stat. 255; Pub. L. 99–651, title II, §201(a)(1), Nov. 14, 1986, 100 Stat. 3646; Pub. L. 100–659, §5, Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title X, §1003(a)(2), Nov. 19, 1988, 102 Stat. 4665; Pub. L. 101–45, title II, §104, June 30, 1989, 103 Stat. 122; Pub. L. 101–650, title III, §§308(b), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 103–353, §2(c), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 106–518, title II, §201, Nov. 13, 2000, 114 Stat. 2412.)
+(June 25, 1948, ch. 646, 62 Stat. 915; May 24, 1949, ch. 139, §73, 63 Stat. 100; July 9, 1952, ch. 609, §1, 66 Stat. 509; July 25, 1956, ch. 722, 70 Stat. 642; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1108; Pub. L. 94–520, §2, Oct. 17, 1976, 90 Stat. 2458; Pub. L. 95–598, title II, §231, Nov. 6, 1978, 92 Stat. 2665; Pub. L. 96–82, §3(a)–(d), Oct. 10, 1979, 93 Stat. 644, 645; Pub. L. 97–230, Aug. 6, 1982, 96 Stat. 255; Pub. L. 99–651, title II, §201(a)(1), Nov. 14, 1986, 100 Stat. 3646; Pub. L. 100–659, §5, Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–702, title X, §1003(a)(2), Nov. 19, 1988, 102 Stat. 4665; Pub. L. 101–45, title II, §104, June 30, 1989, 103 Stat. 122; Pub. L. 101–650, title III, §§308(b), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 103–353, §2(c), Oct. 13, 1994, 108 Stat. 3169; Pub. L. 106–518, title II, §201, Nov. 13, 2000, 114 Stat. 2412.)
 
 #### Historical and Revision Notes
 
 #### 1948 Act
 
-Based on title 28, U.S.C., 1940 ed., §§526 and 527, sections 27, 66, 80e, 100, 117e, 129, 172, 198e, 204e, 256d, 395e, 403c–5, 403h–5, 404c–5, and 408m of title 16, U.S.C., 1940 ed., Conservation, and section 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (May 27, 1894, ch. 72, §5, 28 Stat. 74; May 28, 1896, ch. 252, §§19, 20, 29 Stat. 184; Apr. 12, 1900, ch. 191, §34, 31 Stat. 84; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Jan. 7, 1913, ch. 6, 37 Stat. 648; Aug. 22, 1914, ch. 264, §6, 38 Stat. 700; June 30, 1916, ch. 197, §6, 39 Stat. 245; Aug. 21, 1916, ch. 368, §6, 39 Stat. 523; Mar. 2, 1917, ch. 145, §41, 39 Stat. 965; June 2, 1920, ch. 218, §§7, 8, 41 Stat. 733; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; Apr. 25, 1928, ch. 434, §6, 45 Stat. 460; Apr. 26, 1928, ch. 438, §6, 45 Stat. 464; Mar. 2, 1929, ch. 583, §6, 45 Stat. 1538; Apr. 19, 1930, ch. 200, §6, 46 Stat. 228; June 25, 1935, ch. 309, §1, 49 Stat. 422; Aug. 19, 1937, ch. 703, §5, 50 Stat. 702; Mar. 26, 1938, ch. 51, §2, 52 Stat. 118; June 25, 1938, ch. 684, §1, 52 Stat. 1164; June 28, 1938, ch. 778, §1, 52 Stat. 1213; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; Mar. 6, 1942, ch. 150, §5, 56 Stat. 134; Mar. 6, 1942, ch. 151, §5, 56 Stat. 137; Apr. 29, 1942, ch. 264, §5, 56 Stat. 260; June 5, 1942, ch. 341, §5, 56 Stat. 318; Dec. 28, 1945, ch. 592, 59 Stat. 659, 660; Apr. 23, 1946, ch. 202, §1, 60 Stat. 119, 120).
+Based on title 28, U.S.C., 1940 ed., §§526 and 527, sections 27, 66, 80e, 100, 117e, 129, 172, 198e, 204e, 256d, 395e, 403c–5, 403h–5, 404c–5, and 408m of title 16, U.S.C., 1940 ed., Conservation, and section 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions (May 27, 1894, ch. 72, §5, 28 Stat. 74; May 28, 1896, ch. 252, §§19, 20, 29 Stat. 184; Apr. 12, 1900, ch. 191, §34, 31 Stat. 84; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; Jan. 7, 1913, ch. 6, 37 Stat. 648; Aug. 22, 1914, ch. 264, §6, 38 Stat. 700; June 30, 1916, ch. 197, §6, 39 Stat. 245; Aug. 21, 1916, ch. 368, §6, 39 Stat. 523; Mar. 2, 1917, ch. 145, §41, 39 Stat. 965; June 2, 1920, ch. 218, §§7, 8, 41 Stat. 733; Mar. 4, 1921, ch. 161, §1, 41 Stat. 1412; Dec. 13, 1926, ch. 6, §1, 44 Stat. 919; Apr. 25, 1928, ch. 434, §6, 45 Stat. 460; Apr. 26, 1928, ch. 438, §6, 45 Stat. 464; Mar. 2, 1929, ch. 583, §6, 45 Stat. 1538; Apr. 19, 1930, ch. 200, §6, 46 Stat. 228; June 25, 1935, ch. 309, §1, 49 Stat. 422; Aug. 19, 1937, ch. 703, §5, 50 Stat. 702; Mar. 26, 1938, ch. 51, §2, 52 Stat. 118; June 25, 1938, ch. 684, §1, 52 Stat. 1164; June 28, 1938, ch. 778, §1, 52 Stat. 1213; Mar. 4, 1940, ch. 40, §2, 54 Stat. 43; Mar. 6, 1942, ch. 150, §5, 56 Stat. 134; Mar. 6, 1942, ch. 151, §5, 56 Stat. 137; Apr. 29, 1942, ch. 264, §5, 56Stat. 260; June 5, 1942, ch. 341, §5, 56 Stat. 318; Dec. 28, 1945, ch. 592, 59 Stat. 659, 660; Apr. 23, 1946, ch. 202, §1, 60 Stat. 119, 120).
 
 Section consolidates section 526 and a portion of 527, both of title 28, U.S.C., 1940 ed., with provisions of sections 27, 66, 80e, 100, 117e, 129, 172, 198e, 204e, 256d, 395e, 403c–5, 403h–5, 404c–5 and 408m of title 16, U.S.C., 1940 ed., and provisions of section 863 of title 48, U.S.C., 1940 ed., Territories and Insular Possessions, relating to appointment of United States commissioners. For other provisions of said sections see Distribution Table.
 
@@ -100,31 +100,31 @@ Subsections (j) and (k) of this section, referred to in subsec. (e), probably me
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–518, §201(1), substituted “The judges of each United States district court and the district courts of the Virgin Islands, Guam, and the Northern Mariana Islands shall appoint United Statesmagistrate judges in such numbers and to serve at such locations within the judicial districts as the Judicial Conference may determine under this chapter. In the case of a magistrate judge appointed by the district court of the Virgin Islands, Guam, or the Northern Mariana Islands, this chapter shall apply as though the court appointing such a magistrate judge were a United States district court.” for “The judges of each United States district court and the district court of the Virgin Islands shall appoint United States magistrate judges in such numbers and to serve at such locations within the judicial district as the conference may determine under this chapter. In the case of a magistrate appointed by the district court of the Virgin Islands, this chapter shall apply as though the court appointing such magistrate judge were a United States district court.”
+2000—Subsec. (a). Pub. L. 106–518, §201(1), substituted “The judges of each United States district court and the district courts of the Virgin Islands, Guam, and the Northern Mariana Islands shall appoint United States magistrate judges in such numbers and to serve at such locations within the judicial districts as the Judicial Conference may determine under this chapter. In the case of a magistrate judge appointed by the district court of the Virgin Islands, Guam, or the Northern Mariana Islands, this chapter shall apply as though the court appointing such a magistrate judge were a United States district court.” for “The judges of each United States district court and the district court of the Virgin Islands shall appoint United States magistrate judges in such numbers and to serve at such locations within the judicial district as the conference may determine under this chapter. In the case of a magistrate appointed by the district court of the Virgin Islands, this chapter shall apply as though the court appointing such magistrate judge were a United States district court.”
 
 Subsec. (b)(1). Pub. L. 106–518, §201(2), inserted “the Territory of Guam, the Commonwealth of the Northern Mariana Islands,” after “Commonwealth of Puerto Rico,”.
 
-<b>1994</b>—Subsec. (j). Pub. L. 103–353, §2(c), redesignated subsec. (k) as (j), substituted “chapter 43 of title 38” for “the terms of subsection (i) of this section”, and struck out former subsec. (j) which related to uncompensated leave of absence for magistrate inducted into the Armed Forces and reinstatement as magistrate in regular service.
+1994—Subsec. (j). Pub. L. 103–353, §2(c), redesignated subsec. (k) as (j), substituted “chapter 43 of title 38” for “the terms of subsection (i) of this section”, and struck out former subsec. (j) which related to uncompensated leave of absence for magistrate inducted into the Armed Forces and reinstatement as magistrate in regular service.
 
 Subsecs. (k), (<i>l</i>). Pub. L. 103–353, §2(c)(2), redesignated subsecs. (k) and (<i>l</i>) as (j) and (k), respectively.
 
-<b>1990</b>—Subsec. (f). Pub. L. 101–650 substituted “180” for “60”.
+1990—Subsec. (f). Pub. L. 101–650 substituted “180” for “60”.
 
-<b>1989</b>—Subsec. (b)(1). Pub. L. 101–45 struck out “and he is a member in good standing of the bar of the highest court of the State in which he is to serve, or, in the case of an individual appointed to serve—
+1989—Subsec. (b)(1). Pub. L. 101–45 struck out “and he is a member in good standing of the bar of the highest court of the State in which he is to serve, or, in the case of an individual appointed to serve—
 
 &emsp;“(A) in the District of Columbia, a member in good standing of the bar of the United States district court for the District of Columbia; or
 
-&emsp;“(B) in the Commonwealth of Puerto Rico, a member in good standing of the bar of the Supreme Court of Puerto Rico, and in the Virgin Islands of the United States, a member in good standing of the bar of the district court of the Virgin Islands;” after “Virgin Islands of the United States,” and struck out “the first sentence of” before “this paragraph”.
+&emsp;“(B) in the Commonwealth of Puerto Rico, a member in good standing of the bar of the Supreme Court of Puerto Rico, and in the Virgin Islands of theUnited States, a member in good standing of the bar of the district court of the Virgin Islands;” after “Virgin Islands of the United States,” and struck out “the first sentence of” before “this paragraph”.
 
-<b>1988</b>—Subsec. (e). Pub. L. 100–659 substituted “(k)” for “(j)” in introductory text, “(j)” for “(i)” in par. (3), and “(i)” for “(h)” in par. (5).
+1988—Subsec. (e). Pub. L. 100–659 substituted “(k)” for “(j)” in introductory text, “(j)” for “(i)” in par. (3), and “(i)” for “(h)” in par. (5).
 
 Subsec. (<i>l</i>). Pub. L. 100–702 added subsec. (<i>l</i>).
 
-<b>1986</b>—Subsec. (d). Pub. L. 99–651 substituted “Except as otherwise provided in sections 375 and 636(h) of this title, no” for “No”, and “a majority” for “the unanimous”, and inserted “which is taken upon the magistrate's attaining age seventy and upon each subsequent anniversary thereof,” after “courts,”.
+1986—Subsec. (d). Pub. L. 99–651 substituted “Except as otherwise provided in sections 375 and 636(h) of this title, no” for “No”, and “a majority” for “the unanimous”, and inserted “which is taken upon the magistrate's attaining age seventy and upon each subsequent anniversary thereof,” after “courts,”.
 
-<b>1982</b>—Subsec. (b)(1). Pub. L. 97–230 substituted “He has been for at least five years a member in good standing of the bar of the highest court of a State, the District of Columbia, the Commonwealth of Puerto Rico, or the Virgin Islands of the United States, and he is a member” for “He is, and has been for at least five years, a member”.
+1982—Subsec. (b)(1). Pub. L. 97–230 substituted “He has been for at least five years a member in good standing of the bar of the highest court of a State, the District of Columbia, the Commonwealth of Puerto Rico, or the Virgin Islands of the United States, and he is a member” for “He is, and has been for at least five years, a member”.
 
-<b>1979</b>—Subsec. (a). Pub. L. 96–82, §3(a), substituted “Where the conference deems it desirable, a magistrate may be designated to serve in one or more districts adjoining the district for which he is appointed” and “Such a designation shall be made by the concurrence of a majority of the judges of each of the district courts involved and shall specify the duties to be performed by the magistrate in the adjoining district or districts” for “Where an area under the administration of the National Park Service, or the United States Fish and Wildlife Service, or any other Federal agency, extends into two or more judicial districts and it is deemed desirable by the conference that the territorial jurisdiction of a magistrate's appointment include the entirety of such area, the appointment or reappointment shall be made by the concurrence of a majority of all judges of the district courts of the judicial districts involved, and where there is no such concurrence by the concurrence of the chief judges of such district courts”.
+1979—Subsec. (a). Pub. L. 96–82, §3(a), substituted “Where the conference deems it desirable, a magistrate may be designated to serve in one or more districts adjoining the district for which he is appointed” and “Such a designation shall be made by the concurrence of a majority of the judges of each of the district courts involved and shall specify the duties to be performed by the magistrate in the adjoining district or districts” for “Where an area under the administration of the National Park Service, or the United States Fish and Wildlife Service, or any other Federal agency, extends into two or more judicial districts and it is deemed desirable by the conference that the territorial jurisdiction of a magistrate's appointment include the entirety of such area, the appointment or reappointment shall be made by the concurrence of a majority of all judges of the district courts of the judicial districts involved, and where there is no such concurrence by the concurrence of the chief judges of such district courts”.
 
 Subsec. (b). Pub. L. 96–82, §3(b), substituted “appointed or reappointed to serve” for “appointed or serve” in provisions preceding par. (1), inserted “, and has been for at least 5 years,” after “He is” in provisions of par. (1) preceding subpar. (A), struck out subpar. (C) relating to service by members an good standing of the bar of the highest court of one of the two or more States where the area involved is under the administration of the National Park Service, the United States Fish and Wildlife Service, or any other Federal agency that extends to two or more States.
 
@@ -134,13 +134,13 @@ Subsec. (f). Pub. L. 96–82, §3(d)(2), added subsec. (f). Former subsec. (f) r
 
 Subsecs. (g) to (k). Pub. L. 96–82, §3(d)(1), redesignated former subsecs. (f) to (j) as (g) to (k), respectively.
 
-<b>1978</b>—Subsec. (c). Pub. L. 95–598 directed the amendment of subsec. (c) by substituting “of the conference,” for “of the conference, a part-time referee in bankruptcy or” and “magistrate and” for “magistrate and part-time referee in bankruptcy,”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Subsec. (c). Pub. L. 95–598 directed the amendment of subsec. (c) by substituting “of the conference,” for “of the conference, a part-time referee in bankruptcy or” and “magistrate and” for “magistrate and part-time referee in bankruptcy,”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
-<b>1976</b>—Subsec. (a). Pub. L. 94–520, §2(1), (2), inserted “and the district court of the Virgin Islands” after “United States district court”, and provided that in the case of a magistrate appointed by the district court of the Virgin Islands, this chapter was to apply as though the appointing court were a United States District Court.
+1976—Subsec. (a). Pub. L. 94–520, §2(1), (2), inserted “and the district court of the Virgin Islands” after “United States district court”, and provided that in the case of a magistrate appointed by the district court of the Virgin Islands, this chapter was to apply as though the appointing court were a United States District Court.
 
 Subsec. (b). Pub. L. 94–520, §2(3), provided that a magistrate appointed under this chapter to serve in the Virgin Islands, must be a member in good standing of the bar of the district court of the Virgin Islands.
 
-<b>1968</b>—Pub. L. 90–578 revised provisions of this section generally as described for subsecs. (a) to (j) hereunder, substituting provisions for appointment and tenure of magistrates for appointment and tenure of commissioners.
+1968—Pub. L. 90–578 revised provisions of this section generally as described for subsecs. (a) to (j) hereunder, substituting provisions for appointment and tenure of magistrates for appointment and tenure of commissioners.
 
 Subsec. (a). Pub. L. 90–578 provided for determination of number of appointees by the conference, rather than by the district court, authorized the determination of location of service, omitted as superseded by existing provisions prior provisions for appointments for certain specified national parks, required appointments in a district court with more than one judge to be concurred in by majority of all the judges, and by the chief judge in absence of such concurrence, required such concurrence of judges of district courts or concurrence of chief judges in absence of such concurrence by the judges where appointments are for an area under administration of the National Park Service, or the United States Fish and Wildlife Service, or any other Federal agency, which extends into more than one judicial district which should be served in its entirety by one magistrate, and omitted last par. prescribing appointment record and notice. See subsec. (g) of this section.
 
@@ -158,15 +158,15 @@ Subsec. (g). Pub. L. 90–578 incorporated provisions of last par. of former sub
 
 Subsecs. (h) to (j). Pub. L. 90–578 added subsecs. (h) to (j).
 
-<b>1956</b>—Subsec. (a). Act July 25, 1956, provided for two United States Commissioners for the Cumberland Gap National Historical Park.
+1956—Subsec. (a). Act July 25, 1956, provided for two United States Commissioners for the Cumberland Gap National Historical Park.
 
-<b>1952</b>—Subsec. (a). Act July 9, 1952, provided for two United States Commissioners for the Great Smoky Mountains National Park, in place of one.
+1952—Subsec. (a). Act July 9, 1952, provided for two United States Commissioners for the Great Smoky Mountains National Park, in place of one.
 
-<b>1949</b>—Subsec. (b). Act May 24, 1949, amended second sentence generally. Prior to amendment, second sentence read as follows: “This subsection shall not apply to a referee in bankruptcy nor shall it apply to a clerk or deputy clerk of a court of the United States whose appointment as commissioner is approved by the Director of the Administrative Office of the United States Courts.”
+1949—Subsec. (b). Act May 24, 1949, amended second sentence generally. Prior to amendment, second sentence read as follows: “This subsection shall not apply to a referee in bankruptcy nor shall it apply to a clerk or deputy clerk of a court of the United States whose appointment as commissioner is approved by the Director of the Administrative Office of the United States Courts.”
 
 #### Change of Name
 
-“United States magistrate judges”, “magistrate judge”, and “magistrate judge's” substituted for “United States magistrates”, “magistrate”, and “magistrate's”, respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note below.
+“United States magistrate judges”, “magistrate judge”, and “magistrate judge's” substituted for“United States magistrates”, “magistrate”, and “magistrate's”, respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note below.
 
 Section 321 of Pub. L. 101–650 provided that: “After the enactment of this Act \[Dec. 1, 1990\], each United States magistrate appointed under section 631 of title 28, United States Code, shall be known as a United States magistrate judge, and any reference to any United States magistrate or magistrate that is contained in title 28, United States Code, in any other Federal statute, or in any regulation of any department or agency of the United States in the executive branch that was issued before the enactment of this Act, shall be deemed to refer to a United States magistrate judge appointed under section 631 of title 28, United States Code.”
 
@@ -202,6 +202,10 @@ Section 1 of Pub. L. 90–578 provided: “That this Act \[amending this chapter
 
 Section 501 of Pub. L. 90–578 provided that: “If any provision of this Act \[amending this chapter and sections 202, 3006A, 3041, 3043, 3045, 3060, 3102, 3116, 3184, 3191, 3195, 3401, 3402, 3569, and 3771 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as notes under this section\] or the application thereof to any person or circumstances is held invalid, the validity of the remainder of the Act and of its application to other persons and circumstances shall not be affected.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Due Consideration by Merit Selection Panels of Women, Blacks, Hispanics, and Other Minorities
 
 Section 3(e) of Pub. L. 96–82 provided that: “The merit selection panels established under section 631(b)(5) of title 28, United States Code, in recommending persons to the district court, shall give due consideration to all qualified individuals, especially such groups as women, blacks, Hispanics, and other minorities.”
@@ -224,7 +228,7 @@ Section 401 of Pub. L. 90–578 provided that:
 
 “(a) No individual may serve as a United States commissioner within any judicial district after the date on which a United States magistrate \[now United States magistrate judge\] assumes office in such judicial district.
 
-“(b) An individual serving as a United States commissioner within any judicial district on the date of enactment of this Act \[Oct. 17, 1968\] who is a member in good standing of the bar of the highest court of any State may be appointed to the office of United States magistrate for an initial term, and may be reappointed to such office for successive terms, notwithstanding his failure to meet the bar membership qualification imposed by section 631(b)(1) of chapter 43, title 28, United States Code: <i>Provided, however</i>, That any appointment or reappointment of such an individual must be by unanimous vote of all the judges of the appointing district court or courts.”
+“(b) An individual serving as a United States commissioner within any judicial district on the date of enactment of this Act \[Oct. 17, 1968\] who is a member in good standing of the bar of the highest court of any State may be appointed to the office of United States magistrate for an initial term, and may be reappointed to such office for successive terms, notwithstanding his failure to meet the bar membership qualification imposed by section 631(b)(1) of chapter 43, title 28, United States Code: <i>Provided, however</i>, That any appointment or reappointment of such an individual must be byunanimous vote of all the judges of the appointing district court or courts.”
 
 #### Applicable Law
 
@@ -250,7 +254,7 @@ Section 2 of act July 9, 1952, provided that the jurisdiction of the United Stat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 372, 377, 604, 636, 751 of this title; title 5 section 8331.
+This section is referred to in sections 354, 372, 377, 604, 636, 751 of this title; title 5 section 8331.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

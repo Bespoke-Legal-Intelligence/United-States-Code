@@ -80,7 +80,7 @@ Domestic Buying Preferences.—(1) In this subsection, “United States” means
 
 &emsp;&emsp;(ii) the cost of imposing those requirements is unreasonable; or
 
-&emsp;&emsp;(iii) the articles, material, or supplies, or the articles, material, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonablyavailable commercial quantities and are not of a satisfactory quality; or
+&emsp;&emsp;(iii) the articles, material, or supplies, or the articles, material, or supplies from which they are manufactured, are not mined, produced, or manufactured in the United States in sufficient and reasonably available commercial quantities and are not of a satisfactory quality; or
 
 &emsp;(B) rolling stock or power train equipment cannot be bought and delivered in the United States within a reasonable time.
 
@@ -212,7 +212,7 @@ Subsec. (d)(3). Pub. L. 105–134, §107(b), added par. (3).
 
 #### General Services Administration Services
 
-Pub. L. 106–554, §1(a)(4) \[div. A, §1110\], Dec. 21, 2000, 114 Stat. 2763, 2763A–202, provided that: “Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b) and 211(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(b) and 491(b)) for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and 24104(a) of title 49, United States Code.”
+Pub. L. 106–554, §1(a)(4) \[div. A, §1110\], Dec. 21, 2000, 114 Stat. 2763, 2763A–202, provided that: “Amtrak is authorized to obtain services from the Administrator of General Services, and the Administrator is authorized to provide services to Amtrak, under sections 201(b) and 211(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(b) and 491(b)) \[now 40 U.S.C. 502, 602, 603(a)(1)\] for fiscal year 2001 and each fiscal year thereafter until the fiscal year that Amtrak operates without Federal operating grant funds appropriated for its benefit, as required by sections 24101(d) and 24104(a) of title 49, United States Code.”
 
 #### Rail and Motor Carrier Passenger Service
 

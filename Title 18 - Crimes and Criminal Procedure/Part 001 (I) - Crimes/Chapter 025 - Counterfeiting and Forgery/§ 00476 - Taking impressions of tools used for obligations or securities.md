@@ -26,5 +26,5 @@ Amendments by title III of Pub. L. 107–56 to terminate effective on and after 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 477, 981, 982 of this title.
+This section is referred to in sections 477, 981, 982 of this title.
 

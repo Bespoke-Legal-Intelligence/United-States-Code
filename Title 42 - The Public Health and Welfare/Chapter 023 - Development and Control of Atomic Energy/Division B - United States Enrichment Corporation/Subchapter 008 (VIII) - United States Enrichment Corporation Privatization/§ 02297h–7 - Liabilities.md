@@ -16,7 +16,7 @@
 
 #### (b) Liability of Corporation
 
-Notwithstanding any provision of any agreement to which the Corporation is a party, the Corporation shall not be considered in breach, default, or violation of any agreement because of the transfer of such agreement to the private corporation under section 2297h–6 of this title or any other action the Corporation is required to take under this subchapter.
+Notwithstanding any provision of any agreement to which the Corporation is a party, the Corporation shall not be considered in breach,default, or violation of any agreement because of the transfer of such agreement to the private corporation under section 2297h–6 of this title or any other action the Corporation is required to take under this subchapter.
 
 #### (c) Liability of private corporation
 
@@ -32,7 +32,7 @@ Except as provided in this subchapter, the private corporation shall be liable f
 
 #### References in Text
 
-The Securities Act of 1933, referred to in subsec. (d)(2), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, asamended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
+The Securities Act of 1933, referred to in subsec. (d)(2), is act May 27, 1933, ch. 38, title I, 48 Stat. 74, as amended, which is classified generally to subchapter I (§77a et seq.) of chapter 2A of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see section 77a of Title 15 and Tables.
 
 The Securities Exchange Act of 1934, referred to in subsec. (d)(2), is act June 6, 1934, ch. 404, 48 Stat. 881, as amended, which is classified principally to chapter 2B (§78a et seq.) of Title 15. For complete classification of this Act to the Code, see section 78a of Title 15 and Tables.
 

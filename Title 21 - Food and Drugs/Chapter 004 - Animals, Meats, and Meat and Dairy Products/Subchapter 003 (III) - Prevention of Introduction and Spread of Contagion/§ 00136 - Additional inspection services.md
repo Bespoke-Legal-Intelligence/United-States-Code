@@ -4,3 +4,7 @@ The Secretary of Agriculture, in carrying out regulations prohibiting or restric
 
 (Pub. L. 101–624, title XXV, §2508, Nov. 28, 1990, 104 Stat. 4069.)
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 6 section 231.
+

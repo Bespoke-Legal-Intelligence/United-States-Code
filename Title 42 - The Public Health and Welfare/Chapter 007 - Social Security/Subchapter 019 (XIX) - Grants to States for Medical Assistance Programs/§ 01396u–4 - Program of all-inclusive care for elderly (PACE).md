@@ -10,7 +10,7 @@
 
 &emsp;&emsp;(B) the PACE provider shall receive payment in accordance with the PACE program agreement for provision of such benefits.
 
-> &emsp;A State may establish a numerical limit on the number of individuals who may be enrolledin a PACE program under a PACE program agreement.
+> &emsp;A State may establish a numerical limit on the number of individuals who may be enrolled in a PACE program under a PACE program agreement.
 
 #### (2) “PACE program” defined
 
@@ -98,7 +98,7 @@
 
 &emsp;Under a PACE program agreement, a PACE provider shall—
 
-&emsp;&emsp;(A) provide to PACE program eligible individuals, regardless of source of payment and directly or under contracts with other entities, at a minimum—
+&emsp;&emsp;(A) provide to PACE program eligible individuals, regardless of source of payment anddirectly or under contracts with other entities, at a minimum—
 
 &emsp;&emsp;&emsp;(i) all items and services covered under subchapter XVIII of this chapter (for individuals enrolled under section 1395eee of this title) and all items and services covered under this subchapter, but without any limitation or condition as to amount, duration, or scope and without application of deductibles, copayments, coinsurance, or other cost-sharing that would otherwise apply under such subchapter or this subchapter, respectively; and
 
@@ -164,7 +164,7 @@
 
 #### (ii) No disenrollment for noncompliant behavior
 
-&emsp;&emsp;&emsp;Except as allowed under regulations promulgated to carry out clause (i)(II), aPACE program may not disenroll a PACE program eligible individual on the ground that the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term “noncompliant behavior” includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
+&emsp;&emsp;&emsp;Except as allowed under regulations promulgated to carry out clause (i)(II), a PACE program may not disenroll a PACE program eligible individual on the ground that the individual has engaged in noncompliant behavior if such behavior is related to a mental or physical condition of the individual. For purposes of the preceding sentence, the term “noncompliant behavior” includes repeated noncompliance with medical advice and repeated failure to appear for appointments.
 
 #### (iii) Timely review of proposed nonvoluntary disenrollment
 
@@ -240,11 +240,11 @@
 
 &emsp;&emsp;&emsp;&emsp;(II) maintain, and afford the Secretary and the State administering agency access to, the records relating to the program, including pertinent financial, medical, and personnel records; and
 
-&emsp;&emsp;&emsp;&emsp;(III) submit to the Secretary and the State administering agency such reportsas the Secretary finds (in consultation with State administering agencies) necessary to monitor the operation, cost, and effectiveness of the PACE program.
+&emsp;&emsp;&emsp;&emsp;(III) submit to the Secretary and the State administering agency such reports as the Secretary finds (in consultation with State administering agencies) necessary to monitor the operation, cost, and effectiveness of the PACE program.
 
 #### (ii) Requirements during trial period
 
-&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this section or under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
+&emsp;&emsp;&emsp;During the first 3 years of operation of a PACE program (either under this sectionor under a PACE demonstration waiver program), the PACE provider shall provide such additional data as the Secretary specifies in regulations in order to perform the oversight required under paragraph (4)(A).
 
 #### (B) Development of outcome measures
 
@@ -318,7 +318,7 @@
 
 #### (7) Procedures for termination or imposition of sanctions
 
-&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods before January 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
+&emsp;Under regulations, the provisions of section 1395w–27(h) of this title (or for periods beforeJanuary 1, 1999, section 1395mm(i)(9) of this title) shall apply to termination and sanctions respecting a PACE program agreement and PACE provider under this subsection in the same manner as they apply to a termination and sanctions with respect to a contract and a Medicare+Choice organization under part C of subchapter XVIII of this chapter (or for such periods an eligible organization under section 1395mm of this title).
 
 #### (8) Timely consideration of applications for PACE program provider status
 
@@ -378,7 +378,7 @@
 
 With respect to carrying out a PACE program under this section, the following requirements of this subchapter (and regulations relating to such requirements) shall not apply:
 
-&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs or PACE program services be provided in all areas of a State.
+&emsp;(1) Section 1396a(a)(1) of this title, relating to any requirement that PACE programs orPACE program services be provided in all areas of a State.
 
 &emsp;(2) Section 1396a(a)(10) of this title, insofar as such section relates to comparability of services among different population groups.
 

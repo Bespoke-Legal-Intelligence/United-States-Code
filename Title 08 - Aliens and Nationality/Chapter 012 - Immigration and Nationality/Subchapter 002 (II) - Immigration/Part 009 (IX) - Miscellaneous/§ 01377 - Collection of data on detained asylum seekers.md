@@ -38,6 +38,10 @@ Copies of the data collected under subsection (a) of this section shall be made 
 
 Section was enacted as part of the Haitian Refugee Immigration Fairness Act of 1998, and also as part of the Treasury and General Government Appropriations Act, 1999, and the Omnibus Consolidated and Emergency Supplemental Appropriations Act, 1999, and not as part of the Immigration and Nationality Act which comprises this chapter.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 1378 of this title.

@@ -36,13 +36,13 @@ Pub. L. 100–220, title III, subtitle B, Dec. 29, 1987, 101 Stat. 1475, as amen
 
 “(a)
 
-Preparation of Plan.—Not later than nine months after the date of the enactment of this subtitle \[Dec. 29, 1987\], the Director, in consultation with the Director of the United States Geological Survey, shall submit to the Congress a plan for preparing maps of the shoreline of the Great Lakes under section 3203.
+Preparation of Plan.—Not later than nine months after the date of the enactment of this subtitle\[Dec. 29, 1987\], the Director, in consultation with the Director of the United States Geological Survey, shall submit to the Congress a plan for preparing maps of the shoreline of the Great Lakes under section 3203.
 
 “(b)
 
 Content of Plan.—A plan prepared under paragraph (1) shall include—
 
-&emsp;“(1) a work proposal and a division of responsibilities between the National Oceanic and AtmosphericAdministration and the United States Geological Survey;
+&emsp;“(1) a work proposal and a division of responsibilities between the National Oceanic and Atmospheric Administration and the United States Geological Survey;
 
 &emsp;“(2) a time schedule for completion of maps;
 
@@ -127,6 +127,8 @@ Recovery of Costs.—The costs of reproducing and distributing maps prepared und
 #### “SEC. 3206. AUTHORIZATION OF APPROPRIATIONS.
 
 “There are authorized to be appropriated to carry out section 3202 not more than $100,000 for fiscal year 1989. Amounts appropriated pursuant to this section shall remain available until expended.”
+
+\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Section Referred to in Other Sections
 

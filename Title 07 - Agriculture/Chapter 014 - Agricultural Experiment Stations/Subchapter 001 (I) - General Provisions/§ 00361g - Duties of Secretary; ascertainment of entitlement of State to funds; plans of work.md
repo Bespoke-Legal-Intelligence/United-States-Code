@@ -2,15 +2,27 @@
 
 #### (a) Duties of Secretary
 
-The Secretary of Agriculture is charged with the responsibility for the proper administrationof sections 361a to 361i of this title, and is authorized and directed to prescribe such rules and regulations as may be necessary to carry out its provisions. It shall be the duty of the Secretary to furnish such advice and assistance as will best promote the purposes of said sections, including participation in coordination of research initiated under said sections by the State agricultural experiment stations, from time to time to indicate such lines of inquiry as to him seem most important, and to encourage and assist in the establishment and maintenance of cooperation by and between the several State agricultural experiment stations, and between the stations and the United States Department of Agriculture.
+The Secretary of Agriculture is charged with the responsibility for the proper administration of sections 361a to 361i of this title, and is authorized and directed to prescribe such rules and regulations as may be necessary to carry out its provisions. It shall be the duty of the Secretary to furnish such advice and assistance as will best promote the purposes of said sections, including participation in coordination of research initiated under said sections by the State agricultural experiment stations, from time to time to indicate such lines of inquiry as to him seem most important, and to encourage and assist in the establishment and maintenance of cooperation by and between the several State agricultural experiment stations, and between the stations and the United States Department of Agriculture.
 
 #### (b) Ascertainment of entitlement
 
 On or before the first day of October in each year after the passage of sections 361a to 361i of this title, the Secretary of Agriculture shall ascertain as to each State whether it is entitled to receive its share of the annual appropriations for agricultural experiment stations under said sections and the amount which thereupon each is entitled, respectively, to receive.
 
-#### (c) Effect of failure to expend full allotment
+#### (c) Carryover
 
-Whenever it shall appear to the Secretary of Agriculture from the annual statement of receipts and expenditures of funds by any State agricultural experiment station that any portion of the preceding annual appropriation allotted to that station under sections 361a to 361i of this title remains unexpended, such amount shall be deducted from the next succeeding annual allotment to the State concerned.
+#### (1) In general
+
+&emsp;The balance of any annual funds provided under sections 361a to 361i of this title to a State agricultural experiment station for a fiscal year that remains unexpended at the end of the fiscal year may be carried over for use during the following fiscal year.
+
+#### (2) Failure to expend full allotment
+
+#### (A) In general
+
+&emsp;&emsp;If any unexpended balance carried over by a State is not expended by the end of the second fiscal year, an amount equal to the unexpended balance shall be deducted from the next succeeding annual allotment to the State.
+
+#### (B) Redistribution
+
+&emsp;&emsp;Federal funds that are deducted under subparagraph (A) for a fiscal year shall be redistributed by the Secretary in accordance with the formula set forth in section 361c(c) of this title to those States for which no deduction under subparagraph (A) has been taken for that fiscal year.
 
 #### (d) Plan of work required
 
@@ -42,13 +54,15 @@ Each plan of work for a State required under subsection (d) of this section shal
 
 To the maximum extent practicable, the Secretary shall consider a plan of work submitted under subsection (d) of this section to satisfy other appropriate Federal reporting requirements.
 
-(Mar. 2, 1887, ch. 314, §7, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 673; Pub. L. 86–533, §1(22), June 29, 1960, 74 Stat. 249; Pub. L. 94–273, §3(2), Apr. 21, 1976, 90 Stat. 376; Pub. L. 105–185, title I, §103(f)(2), title II, §202(b), June 23, 1998, 112 Stat. 528, 532.)
+(Mar. 2, 1887, ch. 314, §7, 24 Stat. 441; Aug. 11, 1955, ch. 790, §1, 69 Stat. 673; Pub. L. 86–533, §1(22), June 29, 1960, 74 Stat. 249; Pub. L. 94–273, §3(2), Apr. 21, 1976, 90 Stat. 376; Pub. L. 105–185, title I, §103(f)(2), title II, §202(b), June 23, 1998, 112 Stat. 528, 532; Pub. L. 107–171, title VII, §7202, May 13, 2002, 116 Stat. 437.)
 
 #### Codification
 
 Section was formerly classified to section 379 of this title. See section 361h of this title.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–171 added subsec. (c) and struck out heading and text of former subsec. (c). Text read as follows: “Whenever it shall appear to the Secretary of Agriculture from the annual statement of receipts and expenditures of funds by any State agricultural experiment station that any portion of the preceding annual appropriation allotted to that station under sections 361a to 361i of this title remains unexpended, such amount shall be deducted from the next succeeding annual allotment to the State concerned.”
 
 1998—Pub. L. 105–185, §202(b), inserted section catchline, designated existing provisions as subsecs. (a) to (c), inserted subsec. headings, and added subsecs. (d) to (g).
 

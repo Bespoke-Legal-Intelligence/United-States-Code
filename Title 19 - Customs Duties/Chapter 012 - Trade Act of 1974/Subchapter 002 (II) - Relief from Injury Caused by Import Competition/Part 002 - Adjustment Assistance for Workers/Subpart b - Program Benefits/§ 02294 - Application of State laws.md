@@ -12,9 +12,9 @@ Except where inconsistent with the provisions of this part and subject to such r
 
 #### Termination Date
 
-No assistance, vouchers, allowances, or other payments may be provided under subparts A to C of this part after Sept. 30, 2001, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
+No trade adjustment assistance, vouchers, allowances, or other payments or benefits may be provided under this part after Sept. 30, 2007, except as otherwise provided, see section 285 of Pub. L. 93–618, as amended, set out as a note preceding section 2271 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2291, 2293, 2311, 2318, 2331, 2396 of this title.
+This section is referred to in sections 2291, 2293, 2311, 2396 of this title.
 

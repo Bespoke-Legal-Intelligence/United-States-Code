@@ -272,6 +272,9 @@
 | 698v–10. | General Accounting Office study. |
 | (a) | Initial study. |
 | (b) | Second study. |
+| [698w.](%C2%A7%2000698w%20-%20Special%20management%20requirements%20for%20Federal%20lands%20recently%20added%20to%20Craters%20of%20the%20Moon%20National%20Monument%2C%20Idaho.md) | Special management requirements for Federal lands recently added to Craters of the Moon National Monument, Idaho. |
+| (a) | Redesignation. |
+| (b) | Administration. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -409,3 +412,4 @@
 - [&sect; 00698v&#8211;8 - Termination of the Trust](%C2%A7%2000698v%E2%80%938%20-%20Termination%20of%20the%20Trust.md)
 - [&sect; 00698v&#8211;9 - Limitations on funding](%C2%A7%2000698v%E2%80%939%20-%20Limitations%20on%20funding.md)
 - [&sect; 00698v&#8211;10 - General Accounting Office study](%C2%A7%2000698v%E2%80%9310%20-%20General%20Accounting%20Office%20study.md)
+- [&sect; 00698w - Special management requirements for Federal lands recently added to Craters of the Moon National Monument, Idaho](%C2%A7%2000698w%20-%20Special%20management%20requirements%20for%20Federal%20lands%20recently%20added%20to%20Craters%20of%20the%20Moon%20National%20Monument%2C%20Idaho.md)

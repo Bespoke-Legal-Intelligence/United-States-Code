@@ -76,7 +76,7 @@ Subsec. (a)(2). Pub. L. 103–182, §662(2), substituted “such amounts as the 
 
 “(C) parts 2 and 3 of the Appendix,”.
 
-1984—Subsec. (a)(1). Pub. L. 98–573 substituted “$1,250” for “$250” and inserted provision that this paragraph does not apply to articles valued in excess of$250 classified in schedule 3, parts 1, 4A, 7B, 12A, 12D, and 13B of schedule 7, and parts 2 and 3 of the Appendix, of the Tariff Schedules, or to any other article for which formal entry is required without regard to value.
+1984—Subsec. (a)(1). Pub. L. 98–573 substituted “$1,250” for “$250” and inserted provision that this paragraph does not apply to articles valued in excess of $250 classified in schedule 3, parts 1, 4A, 7B, 12A, 12D, and 13B of schedule 7, and parts 2 and 3 of the Appendix, of the Tariff Schedules, or to any other article for which formal entry is required without regard to value.
 
 1980—Subsec. (a). Pub. L. 96–609 added par. (2) and redesignated former pars. (2) to (11) as (3) to (12), respectively.
 
@@ -98,7 +98,7 @@ Amendment by act Aug. 8, 1953, effective on and after thirtieth day following Au
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1484 of this title.
+This section is referred to in sections 58c, 1484 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -24,15 +24,19 @@ The determination of the hearing officer and the Director shall be based on info
 
 #### (d) Equitable relief
 
-Subject to regulations issued by the Secretary, the Director shall have the authority to grant equitable relief under this section in the same manner and to the same extent as such authority is provided to the Secretary under section 1339a of this title and other laws. Notwithstanding the administrative finality of a final determination of an appeal by the Division, the Secretary shall have the authority to grant equitable or other types of relief to the appellant after an administratively final determination is issued by the Division.
+Subject to regulations issued by the Secretary, the Director shall have the authority to grant equitable relief under this section in the same manner and to the same extent as such authority is provided to the Secretary under section 7996 of this title and other laws. Notwithstanding the administrative finality of a final determination of an appeal by the Division, the Secretary shall have the authority to grant equitable or other types of relief to the appellant after an administratively final determination is issued by the Division.
 
 #### (e) Effective date
 
 A final determination issued by the Director shall be effective as of the date of filing of an application, the date of the transaction or event in question, or the date of the original adverse decision, whichever is applicable.
 
-(Pub. L. 103–354, title II, §278, Oct. 13, 1994, 108 Stat. 3232.)
+(Pub. L. 103–354, title II, §278, Oct. 13, 1994, 108 Stat. 3232; Pub. L. 107–171, title I, §1613(j)(2), May 13, 2002, 116 Stat. 221.)
+
+#### Amendments
+
+2002—Subsec. (d). Pub. L. 107–171 substituted “section 7996 of this title” for “section 1339a of this title”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 6997 of this title.
+This section is referred to in sections 6997, 7996 of this title.
 

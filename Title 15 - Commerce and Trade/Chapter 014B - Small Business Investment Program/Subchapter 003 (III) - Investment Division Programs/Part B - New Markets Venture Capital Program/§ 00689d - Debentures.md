@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-The Administrator may guarantee the timely payment of principal and interest, as scheduled,on debentures issued by any New Markets Venture Capital company.
+The Administrator may guarantee the timely payment of principal and interest, as scheduled, on debentures issued by any New Markets Venture Capital company.
 
 #### (b) Terms and conditions
 

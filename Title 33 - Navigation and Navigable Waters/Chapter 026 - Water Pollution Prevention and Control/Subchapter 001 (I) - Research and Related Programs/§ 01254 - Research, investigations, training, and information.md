@@ -12,7 +12,7 @@ The Administrator shall establish national programs for the prevention, reductio
 
 &emsp;(4) establish advisory committees composed of recognized experts in various aspects of pollution and representatives of the public to assist in the examination and evaluation of research progress and proposals and to avoid duplication of research;
 
-&emsp;(5) in cooperation with the States, and their political subdivisions, and other Federal agencies establish, equip, and maintain a water quality surveillance system for the purpose of monitoring the quality of the navigable waters and ground waters and the contiguous zone and the oceans and the Administrator shall, to the extent practicable, conduct such surveillance by utilizing the resources of the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the United States Geological Survey, and the Coast Guard, and shall report on such quality not later than 90 days after the date of convening of each session of Congress; and
+&emsp;(5) in cooperation with the States, and their political subdivisions, and other Federal agencies establish, equip, and maintain a water quality surveillance system for the purpose of monitoring the quality of the navigable waters and ground waters and the contiguous zone and the oceans and the Administrator shall, to the extent practicable, conduct such surveillance by utilizing the resources of the National Aeronautics and Space Administration, the National Oceanic and Atmospheric Administration, the United States Geological Survey, and the Coast Guard, and shall report on such quality in the report required under subsection (a) of section 1375 of this title; and
 
 &emsp;(6) initiate and promote the coordination and acceleration of research designed to develop the most effective practicable tools and techniques for measuring the social and economic costs and benefits of activities which are subject to regulation under this chapter; and shall transmit a report on the results of such research to the Congress not later than January 1, 1974.
 
@@ -106,7 +106,7 @@ In carrying out the provisions of this section relating to the conduct by the Ad
 
 (1) The Administrator shall, in an effort to prevent degradation of the environment from the disposal of waste oil, conduct a study of (A) the generation of used engine, machine, cooling, and similar waste oil, including quantities generated, the nature and quality of such oil, present collecting methods and disposal practices, and alternate uses of such oil; (B) the long-term, chronic biological effects of the disposal of such waste oil; and (C) the potential market for such oils, including the economic and legal factors relating to the sale of products made from such oils, the level of subsidy, if any, needed to encourage the purchase by public and private nonprofit agencies of products from such oil, and the practicability of Federal procurement, on a priority basis, of products made from such oil. In conducting such study, the Administrator shall consult with affected industries and other persons.
 
-(2) The Administrator shall report the preliminary results of such study to Congress within six months after October 18, 1972, and shall submita final report to Congress within 18 months after such date.
+(2) The Administrator shall report the preliminary results of such study to Congress within six months after October 18, 1972, and shall submit a final report to Congress within 18 months after such date.
 
 #### (n) Comprehensive studies of effects of pollution on estuaries and estuarine zones
 
@@ -114,13 +114,15 @@ In carrying out the provisions of this section relating to the conduct by the Ad
 
 (2) In conducting such studies, the Administrator shall assemble, coordinate, and organize all existing pertinent information on the Nation's estuaries and estuarine zones; carry out a program of investigations and surveys to supplement existing information in representative estuaries and estuarine zones; and identify the problems and areas where further research and study are required.
 
-(3) For the purpose of this subsection, the term “estuarine zones” means an environmental system consisting of an estuary and those transitional areas which are consistently influenced or affected by water from an estuary such as, but not limited to, salt marshes, coastal and intertidal areas, bays, harbors, lagoons, inshore waters, and channels, and the term “estuary” means all or part of the mouth of a river or stream or other body of water having unimpaired natural connection with open sea and within which the sea water is measurably diluted with fresh water derived from land drainage.
+(3) The Administrator shall submit to Congress, from time to time, reports of the studies authorized by this subsection but at least onesuch report during any six-year period. Copies of each such report shall be made available to all interested parties, public and private.
+
+(4) For the purpose of this subsection, the term “estuarine zones” means an environmental system consisting of an estuary and those transitional areas which are consistently influenced or affected by water from an estuary such as, but not limited to, salt marshes, coastal and intertidal areas, bays, harbors, lagoons, inshore waters, and channels, and the term “estuary” means all or part of the mouth of a river or stream or other body of water having unimpaired natural connection with open sea and within which the sea water is measurably diluted with fresh water derived from land drainage.
 
 #### (<i>o</i>) Methods of reducing total flow of sewage and unnecessary water consumption; reports
 
 (1) The Administrator shall conduct research and investigations on devices, systems, incentives, pricing policy, and other methods of reducing the total flow of sewage, including, but not limited to, unnecessary water consumption in order to reduce the requirements for, and the costs of, sewage and waste treatment services. Such research and investigations shall be directed to develop devices, systems, policies, and methods capable of achieving the maximum reduction of unnecessary water consumption.
 
-(2) The Administrator shall report the preliminary results of such studies and investigations to the Congress within one year after October 18, 1972, and annually thereafter not later than 90 days after the date of convening of each session of Congress. Such report shall include recommendations for any legislation that may be required to provide for the adoption and use of devices, systems, policies, or other methods of reducing water consumption and reducing the total flow of sewage. Such report shall include an estimate of the benefits to be derived from adoption and use of such devices, systems, policies, or other methods and also shall reflect estimates of any increase in private, public, or other cost that would be occasioned thereby.
+(2) The Administrator shall report the preliminary results of such studies and investigations to the Congress within one year after October 18, 1972, and annually thereafter in the report required under subsection (a) of section 1375 of this title. Such report shall include recommendations for any legislation that may be required to provide for the adoption and use of devices, systems, policies, or other methods of reducing water consumption and reducing the total flow of sewage. Such report shall include an estimate of the benefits to be derived from adoption and use of such devices, systems, policies, or other methods and also shall reflect estimates of any increase in private, public, or other cost that would be occasioned thereby.
 
 #### (p) Agricultural pollution
 
@@ -136,7 +138,7 @@ In carrying out the provisions of subsection (a) of this section the Administrat
 
 (4)
 
-Small flows clearinghouse.—Notwithstanding section 1285(d) of this title, from amounts that are set aside for a fiscal year under section 1285(i) of this title and are not obligated by the end of the 24-month period of availability for such amounts under section 1285(d) of this title, the Administrator shall make available $1,000,000 or such unobligated amount, whichever is less, to support a national clearinghouse within the Environmental Protection Agency to collect and disseminate information on small flows of sewage and innovative oralternative wastewater treatment processes and techniques, consistent with paragraph (3). This paragraph shall apply with respect to amounts set aside under section 1285(i) of this title for which the 24-month period of availability referred to in the preceding sentence ends on or after September 30, 1986.
+Small flows clearinghouse.—Notwithstanding section 1285(d) of this title, from amounts that are set aside for a fiscal year under section 1285(i) of this title and are not obligated by the end of the 24-month period of availability for such amounts under section 1285(d) of this title, the Administrator shall make available $1,000,000 or such unobligated amount, whichever is less, to support a national clearinghouse within the Environmental Protection Agency to collect and disseminate information on small flows of sewage and innovative or alternative wastewater treatment processes and techniques, consistent with paragraph (3). This paragraph shall apply with respect to amounts set aside under section 1285(i) of this title for which the 24-month period of availability referred to in the preceding sentence ends on or after September 30, 1986.
 
 #### (r) Research grants to colleges and universities
 
@@ -166,7 +168,7 @@ Not later than 18 months after October 10, 2000, after consultation and in coope
 
 &emsp;(4) guidance for State application of the criteria for pathogens and pathogen indicators to be published under section 1314(a)(9) of this title to account for the diversity of geographic and aquatic conditions.
 
-(June 30, 1948, ch. 758, title I, §104, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 819; amended Pub. L. 93–207, §1(1), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, §1, Jan. 2, 1975, 88 Stat. 1924; Pub. L. 95–217, §§4(a), (b), 6, 7, Dec. 27, 1977, 91 Stat. 1566, 1567; Pub. L. 95–576, §1(a), Nov. 2, 1978, 92Stat. 2467; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–483, §1(a), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §§101(a), 102, Feb. 4, 1987, 101 Stat. 8, 9; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 105–362, title V, §501(a)(1), (d)(2)(A), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–284, §3(a), Oct. 10, 2000, 114 Stat. 871.)
+(June 30, 1948, ch. 758, title I, §104, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 819; amended Pub. L. 93–207, §1(1), Dec. 28, 1973, 87 Stat. 906; Pub. L. 93–592, §1, Jan. 2, 1975, 88 Stat. 1924; Pub. L. 95–217, §§4(a), (b), 6, 7, Dec. 27, 1977, 91 Stat. 1566, 1567; Pub. L. 95–576, §1(a), Nov. 2, 1978, 92 Stat. 2467; Pub. L. 96–88, title V, §509(b), Oct. 17, 1979, 93 Stat. 695; Pub. L. 96–483, §1(a), Oct. 21, 1980, 94 Stat. 2360; Pub. L. 100–4, title I, §§101(a), 102, Feb. 4, 1987, 101 Stat. 8, 9; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000; Pub. L. 105–362, title V, §501(a)(1), (d)(2)(A), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–284, §3(a), Oct. 10, 2000, 114 Stat. 871; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
 #### Codification
 
@@ -174,13 +176,15 @@ In subsecs. (b)(4) and (g)(3)(A), “section 3324(a) and (b) of title 31” subs
 
 #### Amendments
 
+2002—Subsecs. (a)(5), (n)(3), (4), (<i>o</i>)(2). Pub. L. 107–303 repealed Pub. L. 105–362, §501(a), (d). See 1998 Amendment notes below.
+
 2000—Subsec. (v). Pub. L. 106–284 added subsec. (v).
 
-1998—Subsec. (a)(5). Pub. L. 105–362, §501(d)(2)(A)(i), substituted “not later than 90 days after the date of convening of each session of Congress” for “in the report required under subsection (a) of section 1375 of this title”.
+1998—Subsec. (a)(5). Pub. L. 105–362, §501(d)(2)(A)(i), which directed the substitution of “not later than 90 days after the date of convening of each session of Congress” for “in the report required under subsection (a) of section 1375 of this title”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
-Subsec. (n)(3), (4). Pub. L. 105–362, §501(a)(1), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Administrator shall submit to Congress, from time to time, reports of the studies authorized by this subsection but at least one such report during any six-year period. Copies of each such report shall be made available to all interested parties, public and private.”
+Subsec. (n)(3), (4). Pub. L. 105–362, §501(a)(1), which directed the redesignation of par. (4) as (3) and striking out of former par. (3), was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
-Subsec. (<i>o</i>)(2). Pub. L. 105–362, §501(d)(2)(A)(ii), substituted “not later than 90 days after the date of convening of each session of Congress” for “in the report required under subsection (a) of section 1375 of this title”.
+Subsec. (<i>o</i>)(2). Pub. L. 105–362, §501(d)(2)(A)(ii), which directed the substitution of “not later than 90 days after the date of convening of each session of Congress” for “in the report required under subsection (a) of section 1375 of this title”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 1987—Subsec. (q)(4). Pub. L. 100–4, §102, added par. (4).
 
@@ -214,7 +218,21 @@ Subsec. (u)(4), (5), (6). Pub. L. 93–592, §1(d)–(f), substituted “June 30
 
 “Secretary of Health and Human Services” substituted for “Secretary of Health, Education, and Welfare” in subsec. (c) pursuant to section 509(b) of Pub. L. 96–88 which is classified to section 3508(b) of Title 20, Education.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–303, title III, §302(b), Nov. 27, 2002, 116 Stat. 2361, provided that:
+
+“(1)
+
+In general.—Effective November 10, 1998, section 501 of the Federal Reports Elimination Act of 1998 (Public Law 105–362; 112 Stat. 3283) is amended by striking subsections (a) \[amending this section and section 1330 of this title\], (b) \[amending section 1324 of this title\], (c) \[amending section 1329 of this title\], and (d) \[amending this section and sections 1266, 1285, 1290, and 1375 of this title\].
+
+“(2)
+
+Applicability.—The Federal Water Pollution Control Act (33 U.S.C. 1254(n)(3)) \[33 U.S.C. 1251 et seq.\] shall be applied and administered on and after the date of enactment of this Act \[Nov. 27, 2002\] as if the amendments made by subsections (a), (b), (c), and (d) of section 501 of the Federal Reports Elimination Act of 1998 (Public Law 105–362; 112 Stat. 3283) had not been enacted.”
+
 #### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Enforcement functions of Secretary or other official in Department of Agriculture, insofar as they involve lands and programs under jurisdiction of that Department, related to compliance with this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(f), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
 

@@ -14,7 +14,7 @@
 
 ### Correction of Discharge
 
-(b) In the case of any eligible veteran who has been prevented, as determined by the Secretary, from completing a program of education under this chapter within the period prescribed by subsection (a), because the veteran had not met the nature of discharge requirements of this chapter before a change, correction, or modification of a discharge or dismissal made pursuant to section 1553 of title 10, the correction of the military records of the proper service department under section 1552 of title 10, or other corrective action by competent authority, then the 10-year delimiting period shall run from the date the veteran's discharge or dismissal was changed, corrected, or modified.
+(b) In the case of any eligible veteran who has been prevented, as determined by the Secretary, from completing a program of education under this chapter within the period prescribed by subsection (a), because the veteran had not met the nature of discharge requirements of this chapter before a change, correction, or modification of a discharge or dismissal made pursuant to section 1553 of title 10, the correction of the military records of the proper service department under section 1552 of title 10, or other corrective actionby competent authority, then the 10-year delimiting period shall run from the date the veteran's discharge or dismissal was changed, corrected, or modified.
 
 ### Savings Clause
 
@@ -24,7 +24,7 @@
 
 (e) No educational assistance shall be afforded any eligible veteran under this chapter or chapter 36 of this title after December 31, 1989.
 
-(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 14, §1662; amended Pub. L. 90–77, title III, §305, Aug. 31, 1967, 81 Stat. 188; Pub. L. 93–337, §1, July 10, 1974, 88 Stat. 292; Pub. L. 94–502, title II, §211(3), title IV, §403(b), Oct. 15, 1976, 90 Stat. 2388, 2393; Pub. L. 95–202, title II, §203(a)(1), (b)(1), Nov. 23, 1977, 91 Stat. 1439; Pub. L. 96–466, title III, §301,Oct. 17, 1980, 94 Stat. 2191; Pub. L. 97–35, title XX, §2003(b)(1), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–72, title II, §201(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(39), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 97–306, title II, §206(a), Oct. 14, 1982, 96 Stat. 1435; Pub. L. 98–160, title VII, §702(10), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §§420(a)(3), 423(b)(1), Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered §3462 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–14, §8(a)(5), June 5, 2001, 115 Stat. 34.)
+(Added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 14, §1662; amended Pub. L. 90–77, title III, §305, Aug. 31, 1967, 81 Stat. 188; Pub. L. 93–337, §1, July 10, 1974, 88 Stat. 292; Pub. L. 94–502, title II, §211(3), title IV, §403(b), Oct. 15, 1976, 90 Stat. 2388, 2393; Pub. L. 95–202, title II, §203(a)(1), (b)(1), Nov. 23, 1977, 91 Stat. 1439; Pub. L. 96–466, title III, §301, Oct. 17, 1980, 94 Stat. 2191; Pub. L. 97–35, title XX, §2003(b)(1), Aug. 13, 1981, 95 Stat. 782; Pub. L. 97–72, title II, §201(a), Nov. 3, 1981, 95 Stat. 1054; Pub. L. 97–295, §4(39), Oct. 12, 1982, 96 Stat. 1307; Pub. L. 97–306, title II, §206(a), Oct. 14, 1982, 96 Stat. 1435; Pub. L. 98–160, title VII, §702(10), Nov. 21, 1983, 97 Stat. 1009; Pub. L. 101–237, title IV, §§420(a)(3), 423(b)(1), Dec. 18, 1989, 103 Stat. 2087, 2092; renumbered §3462 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 107–14, §8(a)(5), June 5, 2001, 115 Stat. 34.)
 
 #### Prior Provisions
 
@@ -114,7 +114,7 @@ Amendment by section 403(b) of Pub. L. 94–502 effective Jan. 1, 1977, see sect
 
 #### Effective Date of 1967 Amendment
 
-Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten daysafter Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
+Amendment by Pub. L. 90–77 effective first day of first calendar month which begins more than ten days after Aug. 31, 1967, see section 405 of Pub. L. 90–77, set out as a note under section 101 of this title.
 
 #### Proposal of Regulations
 

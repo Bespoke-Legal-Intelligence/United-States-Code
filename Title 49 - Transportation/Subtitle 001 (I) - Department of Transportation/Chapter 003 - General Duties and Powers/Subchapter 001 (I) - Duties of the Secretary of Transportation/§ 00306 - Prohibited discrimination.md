@@ -56,7 +56,7 @@ In subsection (c), the word “decides” is substituted for “determines” fo
 
 In subsection (d), the words “at least one of the following actions” are substituted for “and/or” for clarity and consistency.
 
-In subsection (e), the text of 45:803(d) is omitted as unnecessary because section 322 of the revised titlegives the Secretary of Transportation general authority to prescribe regulations and other provisions of the revised title give the Secretary general authority to carry out his duties and powers. The text of 45:803(e) is omitted as unnecessary.
+In subsection (e), the text of 45:803(d) is omitted as unnecessary because section 322 of the revised title gives the Secretary of Transportation general authority to prescribe regulations and other provisions of the revised title give the Secretary general authority to carry out his duties and powers. The text of 45:803(e) is omitted as unnecessary.
 
 #### Pub. L. 98–216
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(ii) the loan is made from—
 
-&emsp;&emsp;&emsp;(I) a Federal capital contribution under section 292q of this title that is made from amounts appropriated under section 292t(f) of this title (in this section referred to as an “exempt Federal capital contribution”); or
+&emsp;&emsp;&emsp;(I) a Federal capital contribution under section 292q of this title that is made from amounts appropriated under section 292t(f) <sup>1</sup> of this title (in this section referred to as an “exempt Federal capital contribution”); or
 
 &emsp;&emsp;&emsp;(II) a school contribution made under section 292q of this title pursuant to such a Federal capital contribution (in this section referred to as an “exempt school contribution”).
 
@@ -30,7 +30,7 @@
 
 #### (4) Waivers
 
-&emsp;(A) With respect to the obligation of an individual under an agreement made under paragraph (1) as a student, the Secretary shall provide for the partial or total waiver or suspension of the obligation whenever compliance by the individual is impossible, or would involve extreme hardship to the individual, and if enforcement of the obligation with respect to the individual would be unconscionable.
+&emsp;(A) With respect to the obligation of an individual under an agreement made under paragraph (1) as a student, the Secretary shall provide for the partial or total waiver or suspension of the obligation whenever compliance bythe individual is impossible, or would involve extreme hardship to the individual, and if enforcement of the obligation with respect to the individual would be unconscionable.
 
 &emsp;(B) For purposes of subparagraph (A), the obligation of an individual shall be waived if—
 
@@ -46,7 +46,7 @@
 
 #### (1) In general
 
-&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to the provisions required in subsection (b) of such section) that, for the 1-year period ending on June 30, 1997; <sup>1</sup> and for the 1-year period ending on June 30 of each subsequent fiscal year, the school will meet not less than 1 of the conditions described in paragraph (2) with respect to graduates of the school whose date of graduation from the school occurred approximately 4 years before the end of the 1-year period involved.
+&emsp;Subject to the provisions of this subsection, in the case of student loan funds established under section 292q of this title by schools of medicine or osteopathic medicine, each agreement entered into under such section with such a school shall provide (in addition to the provisions required in subsection (b) of such section) that, for the 1-year period ending on June 30, 1997; <sup>2</sup> and for the 1-year period ending on June 30 of each subsequent fiscal year, the school will meet not less than 1 of the conditions described in paragraph (2) with respect to graduates of the school whose date of graduation from the school occurred approximately 4 years before the end of the 1-year period involved.
 
 #### (2) Description of conditions
 
@@ -90,7 +90,7 @@
 
 #### (6) Reports by schools
 
-&emsp;Each agreement under section 292q of this title with a school of medicine or osteopathicmedicine shall provide that the school will submit to the Secretary a report for each 1-year period under paragraph (1) that provides such information as the Secretary determines to be necessary for carrying out this subsection. Each such report shall include statistics concerning the current training or practice status of all graduates of such school whose date of graduation from the school occurred approximately 4 years before the end of the 1-year period involved.
+&emsp;Each agreement under section 292q of this title with a school of medicine or osteopathic medicine shall provide that the school will submit to the Secretary a report for each 1-year period under paragraph (1) that provides such information as the Secretary determines to be necessary for carrying out this subsection. Each such report shall include statistics concerning the current training or practice status of all graduates of such school whose date of graduation from the school occurred approximately 4 years before the end of the 1-year period involved.
 
 #### (c) Definitions
 
@@ -107,6 +107,10 @@ For purposes of this section:
 &emsp;(5) The term “primary health care” means family medicine, general internal medicine, general pediatrics, preventive medicine, or osteopathic general practice.
 
 (July 1, 1944, ch. 373, title VII, §723, as added Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 2015; amended Pub. L. 103–43, title XX, §2014(c), June 10, 1993, 107 Stat. 216; Pub. L. 105–392, title I, §131, Nov. 13, 1998, 112 Stat. 3574.)
+
+#### References in Text
+
+Section 292t(f) of this title, referred to in subsec. (a)(2)(A)(ii)(I), contained provisions in par. (1) relating to appropriation of funds for Federal capital contributions to student loan funds, prior to repeal by Pub. L. 105–392, title I, §132(b), Nov. 13, 1998, 112 Stat. 3575, eff. Oct. 1, 2002.
 
 #### Prior Provisions
 
@@ -136,5 +140,7 @@ Subsec. (b)(4)(B). Pub. L. 103–43, §2014(c)(2)(C), substituted “1997” for
 
 This section is referred to in sections 292r, 292t, 292y, 295<i>o</i>–1 of this title.
 
-<i><sup>1</sup></i><i> So in original. The semicolon probably should be a comma.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+
+<i><sup>2</sup></i><i> So in original. The semicolon probably should be a comma.</i>
 

@@ -2,7 +2,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in title 40 section 474; title 50 App. section 39.
+This subchapter is referred to in title 40 section 113; title 50 App. section 39.
 
 
 ---

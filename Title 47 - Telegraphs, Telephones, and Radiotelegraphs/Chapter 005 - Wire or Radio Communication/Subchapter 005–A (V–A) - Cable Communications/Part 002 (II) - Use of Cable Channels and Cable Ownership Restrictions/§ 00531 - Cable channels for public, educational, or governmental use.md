@@ -26,7 +26,7 @@ Subject to section 544(d) of this title, a cable operator shall not exercise any
 
 #### (f) “Institutional network” defined
 
-For purposes of this section, the term “institutional network” means a communication network which is constructed or operated by the cable operator and which is generally availableonly to subscribers who are not residential subscribers.
+For purposes of this section, the term “institutional network” means a communication network which is constructed or operated by the cable operator and which is generally available only to subscribers who are not residential subscribers.
 
 (June 19, 1934, ch. 652, title VI, §611, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2782; Pub. L. 104–104, title V, §506(a), Feb. 8, 1996, 110 Stat. 136.)
 
@@ -40,7 +40,7 @@ Section effective 60 days after Oct. 30, 1984, except where otherwise expressly 
 
 #### Regulations
 
-Pub. L. 102–385, §10(c), Oct. 5, 1992, 106 Stat. 1486, provided that: “Within 180 days following the date of the enactment of this Act \[Oct. 5, 1992\], the Federal Communications Commission shall promulgate such regulations as may be necessary to enable a cable operator of a cable system to prohibit the use, on such system, of any channel capacity of any public, educational, or governmental access facility for any programming which contains obscene material, sexually explicit conduct, or material soliciting or promoting unlawful conduct.”
+Pub. L. 102–385, §10(c), Oct. 5, 1992, 106 Stat. 1486, provided that: “Within 180 days following the date of theenactment of this Act \[Oct. 5, 1992\], the Federal Communications Commission shall promulgate such regulations as may be necessary to enable a cable operator of a cable system to prohibit the use, on such system, of any channel capacity of any public, educational, or governmental access facility for any programming which contains obscene material, sexually explicit conduct, or material soliciting or promoting unlawful conduct.”
 
 #### Section Referred to in Other Sections
 

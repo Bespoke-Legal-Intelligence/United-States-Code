@@ -44,6 +44,10 @@ In any investigation or inquiry conducted for the purpose of ascertaining the co
 
 (5) Paragraphs (3) and (4) shall not apply after the Customs Service commences a formal investigation with respect to the issue involved.
 
+(6)(A) If during the course of any audit concluded under this subsection, the Customs Service identifies overpayments of duties or fees or over-declarations of quantities or values that are within the time period and scope of the audit that the Customs Service has defined, then in calculating the loss of revenue or monetary penalties under section 1592 of this title, the Customs Service shall treat the overpayments or over-declarations on finally liquidated entries as an offset to any underpayments or underdeclarations also identified on finally liquidated entries, if such overpayments or over-declarations were not made by the person being audited for the purpose of violating any provision of law.
+
+(B) Nothing in this paragraph shall be construed to authorize a refund not otherwise authorized under section 1520 of this title.
+
 #### (c) Service of summons
 
 A summons issued pursuant to this section may be served by any person designated in the summons to serve it. Service upon a natural person may be made by personal delivery of the summons to him. Service may be made upon a domestic or foreign corporation or upon a partnership or other unincorporated association which is subject to suit under a common name, by delivering the summons to an officer, or managing or general agent, or to any other agent authorized by appointment or by law to receive service of process. The certificate of service signed by the person serving the summons is prima facie evidence of the facts it states on the hearing of an application for the enforcement of the summons. When the summons requires the production of records, such records shall be described in the summons with reasonable specificity.
@@ -58,7 +62,7 @@ A summons issued pursuant to this section may be served by any person designated
 
 &emsp;&emsp;(ii) regarding which there is probable cause to believe that they pertain to merchandise the importation of which into the United States is prohibited.
 
-&emsp;(B) The term “summons” means any summons issued under subsection (a) of this section which requires the production of records or the giving of testimony relating to records. Such term does not mean any summons issuedto aid in the collection of the liability of any person against whom an assessment has been made or judgment rendered.
+&emsp;(B) The term “summons” means any summons issued under subsection (a) of this section which requires the production of records or the giving of testimony relating to records. Such term does not mean any summons issued to aid in the collection of the liability of any person against whom an assessment has been made or judgment rendered.
 
 &emsp;(C) The term “third-party recordkeeper” means—
 
@@ -204,9 +208,9 @@ The Customs Service shall identify and publish a list of the records or entry in
 
 #### (D) Regulations
 
-&emsp;&emsp;The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeatedviolations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper's cooperation.
+&emsp;&emsp;The Secretary shall promulgate regulations to implement this paragraph. Such regulations may specify the time periods for compliance with a demand for information and provide guidelines which define repeated violations for purposes of this paragraph. Any penalty issued for a recordkeeping violation shall take into account the degree of compliance compared to the total number of importations, the nature of the demanded records and the recordkeeper's cooperation.
 
-(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175; Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516.)
+(June 17, 1930, ch. 497, title IV, §509, 46 Stat. 733; June 25, 1948, ch. 646, §26, 62 Stat. 990; Pub. L. 91–271, title III, §301(n), June 2, 1970, 84 Stat. 289; Pub. L. 95–410, title I, §105, Oct. 3, 1978, 92 Stat. 889; Pub. L. 99–570, title III, §3117, Oct. 27, 1986, 100 Stat. 3207–84; Pub. L. 103–182, title II, §205(b), title VI, §615, Dec. 8, 1993, 107 Stat. 2094, 2175; Pub. L. 104–295, §3(a)(1), (10), Oct. 11, 1996, 110 Stat. 3515, 3516; Pub. L. 107–210, div. A, title III, §382, Aug. 6, 2002, 116 Stat. 992.)
 
 #### References in Text
 
@@ -219,6 +223,8 @@ Provisions substantially the same, in most respects, as those in this section, w
 Prior provisions similar to those in this section and section 1510 of this title were made by R.S. §§2922–2924, repealed by section 29 of the Customs Administrative Act of 1890, 26 Stat. 141.
 
 #### Amendments
+
+2002—Subsec. (b)(6). Pub. L. 107–210 added par. (6).
 
 1996—Subsec. (a)(2). Pub. L. 104–295, §3(a)(1), substituted “(d)(1)(A)” for “(c)(1)(A)” in concluding provisions.
 
@@ -284,7 +290,11 @@ Section 38 of act June 25, 1948, provided that the amendment made by that act is
 
 #### Construction of 1993 Amendment
 
-Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by section 615 of Pub. L. 103–182is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
+Amendment by section 205(b) of Pub. L. 103–182 to be made after amendment by section 615 of Pub. L. 103–182 is executed, see section 212 of Pub. L. 103–182, set out as a note under section 58c of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

@@ -6,7 +6,7 @@ The Secretary may make grants to the State of Alaska for the benefit of rural or
 
 #### (b) Matching funds
 
-To be eligible to receive a grant under subsection (a) of this section, the State of Alaskashall provide 25 percent in matching funds from non-Federal sources.
+To be eligible to receive a grant under subsection (a) of this section, the State of Alaska shall provide 25 percent in matching funds from non-Federal sources.
 
 #### (c) Consultation with State of Alaska
 
@@ -16,7 +16,7 @@ The Secretary shall consult with the State of Alaska on a method of prioritizing
 
 #### (1) In general
 
-&emsp;There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2001 and 2002.
+&emsp;There are authorized to be appropriated to carry out this section $30,000,000 for each of fiscal years 2001 through 2007.
 
 #### (2) Training and technical assistance
 
@@ -26,9 +26,11 @@ The Secretary shall consult with the State of Alaska on a method of prioritizing
 
 &emsp;Funds appropriated pursuant to the authorization of appropriations in paragraph (1) shall be available until expended.
 
-(Pub. L. 87–128, title III, §306D, as added Pub. L. 104–127, title VII, §757, Apr. 4, 1996, 110 Stat. 1131; amended Pub. L. 105–277, div. A, §101(a) \[title VII, §745\], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 106–224, title II, §256, June 20, 2000, 114 Stat. 424.)
+(Pub. L. 87–128, title III, §306D, as added Pub. L. 104–127, title VII, §757, Apr. 4, 1996, 110 Stat. 1131; amended Pub. L. 105–277, div. A, §101(a) \[title VII, §745\], Oct. 21, 1998, 112 Stat. 2681, 2681–32; Pub. L. 106–224, title II, §256, June 20, 2000, 114 Stat. 424; Pub. L. 107–171, title VI, §6011, May 13, 2002, 116 Stat. 357.)
 
 #### Amendments
+
+2002—Subsec. (d)(1). Pub. L. 107–171 substituted “through 2007” for “and 2002”.
 
 2000—Subsec. (d). Pub. L. 106–224 added subsec. (d) and struck out heading and text of former subsec. (d). Text read as follows: “There are authorized to be appropriated to carry out this section $20,000,000 for each of fiscal years 1996 through 2002.”
 
@@ -38,5 +40,5 @@ Subsec. (d). Pub. L. 105–277 substituted “$20,000,000” for “$15,000,000�
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 917 of this title.
+This section is referred to in sections 917, 1926c of this title.
 

@@ -18,7 +18,7 @@
 
 #### (3) Regional centers
 
-&emsp;Such a statewide system shall, to the extent practicable, work with and receive support and assistance from the comprehensive regional technical assistance centers and the regional educational laboratories under section 6041(h) of this title, or other providers of technical assistance.
+&emsp;Such a statewide system shall, to the extent practicable, work with and receive support and assistance from regional educational laboratories established under part E of the Education Sciences Reform Act of 2002 \[20 U.S.C. 9571 et seq.\] and comprehensive centers established under the Educational Technical Assistance Act of 2002 \[20 U.S.C. 9601 et seq.\] and the comprehensive regional technical assistance centers and the regional educational laboratories under section 6041(h) of this title (as such section existed on the day before November 5, 2002), or other providers of technical assistance.
 
 #### (4) Statewide system
 
@@ -64,7 +64,7 @@ Priority.—The State educational agency shall give priority to the approach des
 
 &emsp;&emsp;&emsp;(ii) collaborate with parents and school staff and the local educational agency serving the school in the design, implementation, and monitoring of a plan that, if fully implemented, can reasonably be expected to improve student performance and help the school meet its goals for improvement, including adequate yearly progress under section 6311(b)(2)(B) of this title;
 
-&emsp;&emsp;&emsp;(iii) evaluate, at least semiannually, the effectiveness of school personnel assigned to the school, including identifying outstanding teachers and principals, and make findings and recommendations to the school, the local educational agency, and, where appropriate, the State educational agency; and
+&emsp;&emsp;&emsp;(iii) evaluate, at least semiannually, the effectiveness of school personnel assigned to the school, including identifying outstanding teachers and principals, andmake findings and recommendations to the school, the local educational agency, and, where appropriate, the State educational agency; and
 
 &emsp;&emsp;&emsp;(iv) make additional recommendations as the school implements the plan described in clause (ii) to the local educational agency and the State educational agency concerning additional assistance that is needed by the school or the school support team.
 
@@ -134,13 +134,25 @@ Priority.—The State educational agency shall give priority to the approach des
 
 &emsp;&emsp;A school described in subparagraph (A) is a school whose student population is in the highest quartile of schools statewide in terms of the percentage of children from low income families.
 
-(Pub. L. 89–10, title I, §1117, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1498.)
+(Pub. L. 89–10, title I, §1117, as added Pub. L. 107–110, title I, §101, Jan. 8, 2002, 115 Stat. 1498; amended Pub. L. 107–279, title IV, §404(d)(3), Nov. 5, 2002, 116 Stat. 1985.)
+
+#### References in Text
+
+The Education Sciences Reform Act of 2002, referred to in subsec. (a)(3), is title I of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1941. Part E of the Act is classified generally to part E (§9571 et seq.) of subchapter I of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+
+The Educational Technical Assistance Act of 2002, referred to in subsec. (a)(3), is title II of Pub. L. 107–279, Nov. 5, 2002, 116 Stat. 1975, which is classified generally to subchapter II (§9601 et seq.) of chapter 76 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9501 of this title and Tables.
+
+Section 6041(h) of this title, referred to in subsec. (a)(3), was repealed by Pub. L. 107–279, title IV, §403(2), Nov. 5, 2002, 116 Stat. 1985.
 
 #### Prior Provisions
 
 A prior section 6317, Pub. L. 89–10, title I, §1116, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3542; amended Pub. L. 104–134, title I, §101(d) \[title VII, §703(b)(2)\], Apr. 26, 1996, 110 Stat. 1321–211, 1321–255; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327, related to assessment and local educational agency and school improvement, prior to the general amendment of this subchapter by Pub. L. 107–110. See section 6316 of this title.
 
 A prior section 1117 of Pub. L. 89–10 was classified to section 6318 of this title prior to the general amendment of this subchapter by Pub. L. 107–110.
+
+#### Amendments
+
+2002—Subsec. (a)(3). Pub. L. 107–279 inserted “regional educational laboratories established under part E of the Education Sciences Reform Act of 2002 and comprehensive centers established under the Educational Technical Assistance Act of 2002 and” after “assistance from” and “(as such section existed on the day before November 5, 2002)” after “section 6041(h) of this title”.
 
 #### Section Referred to in Other Sections
 

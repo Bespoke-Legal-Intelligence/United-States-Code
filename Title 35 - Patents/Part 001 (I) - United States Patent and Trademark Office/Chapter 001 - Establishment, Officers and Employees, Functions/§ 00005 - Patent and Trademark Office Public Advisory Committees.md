@@ -48,7 +48,7 @@ Duties.—Each Advisory Committee shall—
 
 (e)
 
-Compensation.—Each member of each Advisory Committee shall be compensated for each day (including travel time) during which such member is attending meetings or conferences of that Advisory Committee or otherwise engaged in the business of that Advisory Committee, at the rate which is the daily equivalent of the annual rate of basic pay in effect for level III of the Executive Schedule under section 5314 of title 5, United States Code. While away from such member's home or regular place of business such member shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5, United States Code.
+Compensation.—Each member of each Advisory Committee shall be compensated for each day (including travel time) during which such member is attending meetings or conferences of that Advisory Committee or otherwise engaged in the business of that Advisory Committee, at the rate which is the daily equivalent of the annual rate of basic pay in effect for level III of the Executive Schedule under section 5314 of title 5. While away from such member's home or regular place of business such member shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5.
 
 (f)
 
@@ -56,7 +56,7 @@ Access to Information.—Members of each Advisory Committee shall be provided ac
 
 (g)
 
-Applicability of Certain Ethics Laws.—Members of each Advisory Committee shall be special Government employees within the meaning of section 202 of title 18, United States Code.
+Applicability of Certain Ethics Laws.—Members of each Advisory Committee shall be special Government employees within the meaning of section 202 of title 18.
 
 (h)
 
@@ -64,9 +64,13 @@ Inapplicability of Federal Advisory Committee Act.—The Federal Advisory Commit
 
 (i)
 
-Open Meetings.—The meetings of each Advisory Committee shall be open to the public, except that each Advisory Committee may by majority vote meet in executive session when considering personnel or other confidential information.
+Open Meetings.—The meetings of each Advisory Committee shall be open to the public, except that each Advisory Committee may by majority vote meet in executive session when considering personnel, privileged, or other confidential information.
 
-(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4714\], Nov. 29, 1999, 113 Stat. 1536, 1501A–578.)
+(j)
+
+Inapplicability of Patent Prohibition.—Section 4 shall not apply to voting members of the Advisory Committees.
+
+(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4714\], Nov. 29, 1999, 113 Stat. 1536, 1501A–578; amended Pub. L. 107–273, div. C, title III, §§13203(b), 13206(a)(3), Nov. 2, 2002, 116 Stat. 1902, 1904.)
 
 #### References in Text
 
@@ -77,6 +81,16 @@ The Federal Advisory Committee Act, referred to in subsec. (h), is Pub. L. 92–
 #### Prior Provisions
 
 A prior section 5, act July 19, 1952, ch. 950, 66 Stat. 793, related to bond of Commissioner and other officers, prior to repeal by Pub. L. 92–310, title II, §208(a), June 6, 1972, 86 Stat. 203.
+
+#### Amendments
+
+2002—Subsec. (e). Pub. L. 107–273, §13206(a)(3), struck out “, United States Code” after “title 5” in two places.
+
+Subsec. (g). Pub. L. 107–273, §13206(a)(3), struck out “, United States Code” after “title 18”.
+
+Subsec. (i). Pub. L. 107–273, §13203(b)(1), inserted “, privileged,” after “personnel”.
+
+Subsec. (j). Pub. L. 107–273, §13203(b)(2), added subsec. (j).
 
 #### Effective Date
 

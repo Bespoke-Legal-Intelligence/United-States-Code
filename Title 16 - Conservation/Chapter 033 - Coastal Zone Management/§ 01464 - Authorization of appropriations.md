@@ -42,7 +42,7 @@ Subsecs. (b) to (d). Pub. L. 104–150, §4(2), (3), redesignated subsecs. (c) a
 
 1990—Subsec. (a)(1) to (4). Pub. L. 101–508 substituted pars. (1) to (4) for former pars. (1) to (5) which read as follows:
 
-“(1) such sums, not to exceed $35,000,000 for the fiscal year ending September 30, 1986, not to exceed $36,600,000 for the fiscal year ending September 30, 1987, $37,900,000 for the fiscal year ending September 30, 1988, $38,800,000 for the fiscal year ending September 30, 1989, and $40,600,000 for the fiscal year ending September 30, 1990, as may be necessary for grants under sections 1455 and 1455a of this title, to remain available until expended;
+“(1) such sums, not to exceed $35,000,000 for the fiscal year ending September 30, 1986, not to exceed $36,600,000 for the fiscal year ending September 30, 1987, $37,900,000for the fiscal year ending September 30, 1988, $38,800,000 for the fiscal year ending September 30, 1989, and $40,600,000 for the fiscal year ending September 30, 1990, as may be necessary for grants under sections 1455 and 1455a of this title, to remain available until expended;
 
 “(2) such sums, not to exceed $75,000,000 for each of the fiscal years occurring during the period beginning October 1, 1980, and ending September 30, 1988, as may be necessary for grants under section 1456a(b) of this title;
 

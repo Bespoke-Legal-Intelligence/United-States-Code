@@ -44,7 +44,7 @@
 
 &emsp;&emsp;Cannonsburg, Pennsylvania
 
-> Subject to the provisions of this subchapter, the Secretary shall complete remedial action at theabove listed sites before his authority terminates under this subchapter. The Secretary shall within one year of November 8, 1978, also designate all other processing sites within the United States which he determines requires remedial action to carry out the purposes of this subchapter. In making such designation, the Secretary shall consult with the Administrator, the Commission, and the affected States, and in the case of Indian lands, the appropriate Indian tribe and the Secretary of the Interior.
+> Subject to the provisions of this subchapter, the Secretary shall complete remedial action at the above listed sites before his authority terminates under this subchapter. The Secretary shall within one year of November 8, 1978, also designate all other processing sites within the United States which he determines requires remedial action to carry out the purposes of this subchapter. In making such designation, the Secretary shall consult with the Administrator, the Commission, and the affected States, and in the case of Indian lands, the appropriate Indian tribe and the Secretary of the Interior.
 
 (2) As part of his designation under this subsection, the Secretary, in consultation with the Commission, shall determine the boundaries of each such site.
 

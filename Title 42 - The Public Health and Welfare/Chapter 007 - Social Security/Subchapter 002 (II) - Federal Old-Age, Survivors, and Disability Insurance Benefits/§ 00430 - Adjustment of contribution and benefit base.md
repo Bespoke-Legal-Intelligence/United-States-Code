@@ -50,7 +50,7 @@ Subsec. (b)(1), (2). Pub. L. 103–296, §321(g)(1)(A), added pars. (1) and (2) 
 
 “(1) the contribution and benefit base which is in effect with respect to remuneration paid in (and taxable years beginning in) the calendar year in which the determination under subsection (a) of this section is made, and
 
-“(2) the ratio of (A) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the calendar year in which the determination under subsection (a) of this section is made to (B) the deemed average total wages (as so defined) forthe calendar year before the most recent calendar year in which an increase in the contribution and benefit base was enacted or a determination resulting in such an increase was made under subsection (a) of this section,”.
+“(2) the ratio of (A) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the calendar year in which the determination under subsection (a) of this section is made to (B) the deemed average total wages (as so defined) for the calendar year before the most recent calendar year in which an increase in the contribution and benefit base was enacted or a determination resulting in such an increase was made under subsection (a) of this section,”.
 
 Subsec. (b)(2)(A), (B). Pub. L. 103–296, §321(b)(2), made technical correction to directory language of Pub. L. 101–239, §10208(b)(1). See 1989 Amendment note below.
 
@@ -106,7 +106,7 @@ Amendment by section 107(a)(4) of Pub. L. 103–296 effective Mar. 31, 1995, see
 
 Section 321(b)(2) of Pub. L. 103–296 provided that the amendment made by that section is effective as if included in section 10208(b)(1) of Pub. L. 101–239.
 
-Amendment by section 321(g)(1)(A), (B) of Pub. L. 103–296 effective with respect to the determination of the contribution and benefit base for years after 1994,see section 321(g)(3)(A) of Pub. L. 103–296, set out as a note under section 415 of this title.
+Amendment by section 321(g)(1)(A), (B) of Pub. L. 103–296 effective with respect to the determination of the contribution and benefit base for years after 1994, see section 321(g)(3)(A) of Pub. L. 103–296, set out as a note under section 415 of this title.
 
 #### Effective Date of 1989 Amendment
 
@@ -178,9 +178,11 @@ Amendment by Pub. L. 92–603 effective in like manner as if such amendment had 
 
 #### Social Security Contribution and Benefit Base
 
+2003—By notice of the Commissioner of Social Security, Oct. 18, 2002, 67 F.R. 65620, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2003 is $87,000.
+
 2002—By notice of the Commissioner of Social Security, Oct. 19, 2001, 66 F.R. 54047, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2002 is $84,900.
 
-2001—By notice of the Commissioner of Social Security, Oct. 18, 2000, 65 F.R. 63663, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2001 is $80,400.
+2001—By notice of the Commissioner of Social Security, Oct. 18, 2000, 65 F.R. 63663, it was determined and announced that, pursuant to authority contained inthis section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2001 is $80,400.
 
 2000—By notice of the Commissioner of Social Security, Oct. 20, 1999, 64 F.R. 57506, it was determined and announced that, pursuant to authority contained in this section, the contribution and benefit base for remuneration paid in, and for self-employment income earned in taxable years beginning in, 2000 is $76,200.
 

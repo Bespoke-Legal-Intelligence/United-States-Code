@@ -14,7 +14,7 @@ The Secretaries of Agriculture and Interior are authorized to arrange and effect
 
 #### (d) Pre-existing claim, location, or entry
 
-Nothing herein contained shall affect any valid claim, location, or entry existing underthe land laws of the United States, or the rights of any such claimant, locator, or entryman to the full use and enjoyment of his land.
+Nothing herein contained shall affect any valid claim, location, or entry existing under the land laws of the United States, or the rights of any such claimant, locator, or entryman to the full use and enjoyment of his land.
 
 #### (e) Status of acquired land
 

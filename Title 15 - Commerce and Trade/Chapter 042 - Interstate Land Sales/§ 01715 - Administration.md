@@ -30,5 +30,5 @@ Amendment by Pub. L. 96–153 effective on effective date of regulations impleme
 
 #### Effective Date of 1978 Amendment
 
-Amendment by Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L.95–454, set out as a note under section 5361 of Title 5, Government Organization and Employees.
+Amendment by Pub. L. 95–454 effective on first day of first applicable pay period beginning on or after 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as a note under section 5361 of Title 5, Government Organization and Employees.
 

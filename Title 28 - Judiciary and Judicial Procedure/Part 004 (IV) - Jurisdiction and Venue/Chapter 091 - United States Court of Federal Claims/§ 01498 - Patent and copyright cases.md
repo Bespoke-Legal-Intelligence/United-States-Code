@@ -8,7 +8,7 @@ The court shall not award compensation under this section if the claim is based 
 
 A Government employee shall have the right to bring suit against the Government under this section except where he was in a position to order, influence, or induce use of the invention by the Government. This section shall not confer a right of action on any patentee or any assignee of such patentee with respect to any invention discovered or invented by a person while in the employment or service of the United States, where the invention was related to the official functions of the employee, in cases in which such functions included research and development, or in the making of which Government time, materials or facilities were used.
 
-(b) Hereafter, whenever the copyright in any work protected under the copyright laws of the United States shall be infringed by the United States, by a corporation owned or controlled by the United States, or by a contractor, subcontractor, or any person, firm, or corporation acting for the Government and with the authorization or consent of the Government, the exclusive action which may be brought for such infringement shall be an action by the copyright owner against the United States in the Court of Federal Claims for the recovery of his reasonable and entire compensation as damages for such infringement, including the minimum statutory damages as set forth in section 504(c) of title 17, United States Code: <i>Provided</i>, That a Government employee shall have a right of action against the Government under this subsection except where he was in a position to order, influence, or induce use of the copyrighted work by the Government: <i>Provided, however</i>, That this subsection shall not confer a right of action on any copyright owner or any assignee of such owner with respect to any copyrighted work prepared by a person while in the employment or service of the United States, where the copyrighted work was prepared as a part of the official functions of the employee, or in the preparation of which Government time, material, or facilities were used: <i>And provided further</i>, That before such action against the United States has been instituted the appropriate corporation owned or controlled by the United States or the head of the appropriate department or agency of the Government, as the case may be, is authorized to enter into an agreement with the copyright owner in full settlement and compromise for the damages accruing to him by reason of such infringement and to settle the claim administratively out of available appropriations.
+(b) Hereafter, whenever the copyright in any work protected under the copyright laws of the United States shall be infringed by the United States, by a corporation owned or controlled by the United States, or by a contractor, subcontractor, or any person, firm, or corporation acting for the Government and with the authorization or consent of the Government, the exclusive action which may be brought for such infringement shall be an action by the copyright owner against the United States in the Court of Federal Claims for the recovery of his reasonable and entire compensation as damages for such infringement, including the minimum statutory damages as set forth in section 504(c) of title 17, United States Code: <i>Provided</i>, That a Government employee shall have a right of action against the Government under this subsection except where he was in a position to order, influence, or induce use of the copyrighted work by the Government: <i>Provided, however</i>, That this subsection shall not confer a right of action on any copyright owner or any assignee of such owner with respect to any copyrighted work prepared by a person while in the employment or service of the United States, where the copyrighted work was prepared as a part of the official functions of the employee, or in the preparation of which Government time, material, or facilities were used: <i>And provided further</i>, That before such action against the United States has been instituted the appropriate corporation owned or controlled by the United States or the head of the appropriate department or agency of the Government, as the case may be, is authorized to enter into anagreement with the copyright owner in full settlement and compromise for the damages accruing to him by reason of such infringement and to settle the claim administratively out of available appropriations.
 
 Except as otherwise provided by law, no recovery shall be had for any infringement of a copyright covered by this subsection committed more than three years prior to the filing of the complaint or counterclaim for infringement in the action, except that the period between the date of receipt of a written claim for compensation by the Department or agency of the Government or corporation owned or controlled by the United States, as the case may be, having authority to settle such claim and the date of mailing by the Government of a notice to the claimant that his claim has been denied shall not be counted as a part of the three years, unless suit is brought before the last-mentioned date.
 
@@ -44,35 +44,35 @@ Hereafter, referred to in subsec. (d), probably means after the date of enactmen
 
 #### Amendments
 
-<b>1998</b>—Subsec. (e). Pub. L. 105–304 inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”.
+1998—Subsec. (e). Pub. L. 105–304 inserted “, and to exclusive rights in designs under chapter 13 of title 17,” after “title 17”.
 
-<b>1997</b>—Subsec. (b). Pub. L. 105–147, §3, substituted “action which may be brought for such infringement shall be an action by the copyright owner” for “remedy of the owner of such copyright shall be by action”.
+1997—Subsec. (b). Pub. L. 105–147, §3, substituted “action which may be brought for such infringement shall be an action by the copyright owner” for “remedy of the owner of such copyright shall be by action”.
 
-<b>1996</b>—Subsec. (a). Pub. L. 104–308 inserted at end of first par. “Reasonable and entire compensation shall include the owner's reasonable costs, including reasonable fees for expert witnesses and attorneys, in pursuing the action if the owner is an independent inventor, a nonprofit organization, or an entity that had no more than 500 employees at any time during the 5-year period preceding the use or manufacture of the patented invention by or for the United States. Nothwithstanding the preceding sentences, unless the action has been pending for more than 10 years from the time of filing to the time that the owner applies for such costs and fees, reasonable and entire compensation shall not include such costs and fees if the court finds that the position of the United States was substantially justified or that special circumstances make an award unjust.”
+1996—Subsec. (a). Pub. L. 104–308 inserted at end of first par. “Reasonable and entire compensation shall include the owner's reasonable costs, including reasonable fees for expert witnesses and attorneys, in pursuing the action if the owner is an independent inventor, a nonprofit organization, or an entity that had no more than 500 employees at any time during the 5-year period preceding the use or manufacture of the patented invention by or for the United States. Nothwithstanding the preceding sentences, unless the action has been pending for more than 10 years from the time of filing to the time that the owner applies for such costs and fees, reasonable and entire compensation shall not include such costs and fees if the court finds that the position of the United States was substantially justified or that special circumstances make an award unjust.”
 
-<b>1992</b>—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
+1992—Subsec. (a). Pub. L. 102–572, §902(a)(1), substituted “United States Court of Federal Claims” for “United States Claims Court”.
 
 Subsecs. (b), (d). Pub. L. 102–572, §902(a)(2), substituted “Court of Federal Claims” for “Claims Court”.
 
-<b>1988</b>—Subsec. (e). Pub. L. 100–702 added subsec. (e).
+1988—Subsec. (e). Pub. L. 100–702 added subsec. (e).
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–168, §133(d)(1), substituted “United States Claims Court” for “Court of Claims”.
+1982—Subsec. (a). Pub. L. 97–168, §133(d)(1), substituted “United States Claims Court” for “Court of Claims”.
 
 Subsecs. (b), (d). Pub. L. 97–164, §133(d)(2), substituted “Claims Court” for “Court of Claims”.
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–553 substituted “section 504(c) of title 17” for “section 101(b) of title 17”.
+1976—Subsec. (b). Pub. L. 94–553 substituted “section 504(c) of title 17” for “section 101(b) of title 17”.
 
-<b>1970</b>—Subsec. (d). Pub. L. 91–577 added subsec. (d).
+1970—Subsec. (d). Pub. L. 91–577 added subsec. (d).
 
-<b>1960</b>—Pub. L. 86–726, §4, substituted “Patent and copyright cases” for “Patent cases” in section catchline.
+1960—Pub. L. 86–726, §4, substituted “Patent and copyright cases” for “Patent cases” in section catchline.
 
 Pub. L. 86–726, §1, designated existing provisions as subsec. (a) and added subsecs. (b) and (c).
 
-<b>1952</b>—Act July 17, 1952, allowed Government employees to maintain patent suits against the United States in certain instances.
+1952—Act July 17, 1952, allowed Government employees to maintain patent suits against the United States in certain instances.
 
-<b>1951</b>—Act Oct. 31, 1951, inserted second par.
+1951—Act Oct. 31, 1951, inserted second par.
 
-<b>1949</b>—Act May 29, 1949, conformed first par. of section to original law.
+1949—Act May 29, 1949, conformed first par. of section to original law.
 
 #### Effective Date of 1996 Amendment
 

@@ -30,7 +30,7 @@ The following categories of vessels are subject to inspection under this part:
 
 &emsp;(14) oil spill response vessels.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(2), July 17, 1984, 98 Stat. 445; Pub. L. 102–587, title V, §5208(b), Nov. 4, 1992, 106 Stat. 5076; Pub. L. 104–324, title XI, §1104(g), Oct. 19, 1996, 110 Stat. 3967.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 510; Pub. L. 98–364, title IV, §402(2), July 17, 1984, 98 Stat. 445; Pub. L. 102–587, title V, §5208(b), Nov. 4, 1992, 106Stat. 5076; Pub. L. 104–324, title XI, §1104(g), Oct. 19, 1996, 110 Stat. 3967.)
 
 Historical and Revision Notes
 
@@ -165,6 +165,8 @@ State.—The term ‘State’ means the State of Minnesota.
 &emsp;“(3)
 
 Small passenger vessel.—The term ‘small passenger vessel’ means a small passenger vessel (as defined in section 2101(35) of title 46, United States Code) of not more than 40 feet overall in length.”
+
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Section Referred to in Other Sections
 

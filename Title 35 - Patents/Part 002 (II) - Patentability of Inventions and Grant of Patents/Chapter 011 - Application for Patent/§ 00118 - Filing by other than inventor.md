@@ -2,7 +2,7 @@
 
 Whenever an inventor refuses to execute an application for patent, or cannot be found or reached after diligent effort, a person to whom the inventor has assigned or agreed in writing to assign the invention or who otherwise shows sufficient proprietary interest in the matter justifying such action, may make application for patent on behalf of and as agent for the inventor on proof of the pertinent facts and a showing that such action is necessary to preserve the rights of the parties or to prevent irreparable damage; and the Director may grant a patent to such inventor upon such notice to him as the Director deems sufficient, and on compliance with such regulations as he prescribes.
 
-(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 799; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -10,7 +10,9 @@ This section is new and provides for the filing of an application by another on 
 
 #### Amendments
 
-1999—Pub. L. 106–113 substituted “Director” for “Commissioner” in two places.
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113. See 1999 Amendment note below.
+
+1999—Pub. L. 106–113, as amended by Pub. L. 107–273, substituted “Director” for “Commissioner” in two places.
 
 #### Effective Date of 1999 Amendment
 

@@ -36,11 +36,11 @@ The Secretary shall, with respect to the financial operations arising by reason 
 
 &emsp;(A) The Secretary shall collect data under this subsection from all insurers under this part and shall publish not less often than once every fiscal year a report showing loan volume guaranteed and default data for each category specified in subparagraph (B) of paragraph (1) of this subsection and for the total of all lenders.
 
-&emsp;(B) The reports specified in subparagraph (A) of this paragraph shall include a separate report for each insurer under this part including the Secretary, and where an insurer insuresloans for lenders in more than one State, such insurer's report shall list all data separately for each State.
+&emsp;(B) The reports specified in subparagraph (A) of this paragraph shall include a separate report for each insurer under this part including the Secretary, and where an insurer insures loans for lenders in more than one State, such insurer's report shall list all data separately for each State.
 
 #### (3) Institutional, public, or nonprofit lenders
 
-&emsp;For purposes of clarity in communications, the Secretary shall separately identify loans made by the lenders referred to in clause (i) and loans made by the lenders referred to in clause (ii) of paragraph (1)(B) of this subsection.
+&emsp;For purposes of clarity in communications, the Secretary shall separately identify loans made by the lenders referred to in clause (i) and loans made by the lenders referred to inclause (ii) of paragraph (1)(B) of this subsection.
 
 #### (d) Delegation
 
@@ -104,11 +104,11 @@ Notwithstanding any other provision of law, the Secretary may provide to eligibl
 
 &emsp;&emsp;(A) the violation, failure, or substantial misrepresentation referred to in that paragraph resulted from a violation, failure, or misrepresentation that is material; and
 
-&emsp;&emsp;(B) the lender or guaranty agency knew or should have known that its actions violatedor failed to carry out the provisions of this part or the regulations thereunder.
+&emsp;&emsp;(B) the lender or guaranty agency knew or should have known that its actions violated or failed to carry out the provisions of this part or the regulations thereunder.
 
 #### (3) Correction of failure
 
-&emsp;A lender or guaranty agency has no liability under paragraph (1) of this subsection if, prior to notification by the Secretary under that paragraph, the lender or guaranty agency cures or corrects the violation or failure or notifies the person who received the substantial misrepresentation of the actual nature of the financial charges involved.
+&emsp;A lender or guaranty agency has no liability under paragraph (1) of this subsection if, prior to notification by the Secretary under that paragraph, the lender or guaranty agency cures or corrects the violation or failure or notifies the person who received the substantialmisrepresentation of the actual nature of the financial charges involved.
 
 #### (4) Consideration as single violation
 
@@ -230,7 +230,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (1) In general
 
-&emsp;The Secretary shall, by regulation developed in consultation with guaranty agencies, lenders, institutions of higher education, secondary markets, students, third party servicersand other organizations involved in providing loans under this part, prescribe standardized forms and procedures regarding—
+&emsp;The Secretary shall, by regulation developed in consultation with guaranty agencies, lenders, institutions of higher education, secondary markets, students, third party servicers and other organizations involved in providing loans under this part, prescribe standardized forms and procedures regarding—
 
 &emsp;&emsp;(A) origination of loans;
 
@@ -310,7 +310,7 @@ In the event that all other collection efforts have failed, the Secretary is aut
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part, on behalf of any eligible lender (as defined in section 1085(d) of this title) shall attach, be perfected, and be assigned priority in the manner provided by the applicable State's law for perfection of security interests in accounts, as such law may be amended from time to time (including applicable transition provisions). If any such State's law provides for a statutory lien to be created in such loans, such statutory lien may be created by the entity or entities governed by such State law in accordance with the applicable statutory provisions that created such a statutory lien.
+&emsp;&emsp;&emsp;Notwithstanding the provisions of any State law to the contrary, including the Uniform Commercial Code as in effect in any State, a security interest in loans made under this part, on behalf of any eligible lender (as defined in section 1085(d) of this title) shall attach, be perfected, and be assigned priority in the manner provided by the applicable State's law for perfection of security interests in accounts, as such law may be amended from time totime (including applicable transition provisions). If any such State's law provides for a statutory lien to be created in such loans, such statutory lien may be created by the entity or entities governed by such State law in accordance with the applicable statutory provisions that created such a statutory lien.
 
 #### (ii) Collateral description
 
@@ -430,7 +430,7 @@ Subsec. (g)(2). Pub. L. 102–325, §425(c)(1), amended par. (2) generally. Prio
 
 &emsp;“(B) the violation, failure, or substantial misrepresentation is material.”
 
-Subsec. (g)(3). Pub. L. 102–325, §425(c)(2), substituted “notification by the Secretary under that paragraph” for “the institution of an action under that paragraph”.
+Subsec. (g)(3). Pub. L. 102–325, §425(c)(2), substituted “notification by the Secretary under that paragraph”for “the institution of an action under that paragraph”.
 
 Subsec. (g)(4). Pub. L. 102–325, §425(c)(3), inserted “, and occurring prior to notification by the Secretary under that paragraph,” after “guaranty agency” and substituted “or both. The” for “or both, and the”.
 

@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Native Hawaiian Education Council
 
-In order to better effectuate the purposes of this part through the coordination of educational and related services and programs available to Native Hawaiians, including thoseprograms receiving funding under this part, the Secretary is authorized to establish a Native Hawaiian Education Council (hereafter in this part referred to as the “Education Council”).
+In order to better effectuate the purposes of this part through the coordination of educational and related services and programs available to Native Hawaiians, including those programs receiving funding under this part, the Secretary is authorized to establish a Native Hawaiian Education Council (hereafter in this part referred to as the “Education Council”).
 
 #### (b) Composition of Education Council
 
@@ -24,7 +24,7 @@ The Education Council shall consist of not more than 21 members, unless otherwis
 
 #### (4) Council determinations
 
-&emsp;Additional conditions and terms relating to membership on the Education Council, including term lengths and term renewals, shall be determined by a majority of the Education Council.
+&emsp;Additional conditions and terms relating to membership on the Education Council, including term lengths and term renewals, shall bedetermined by a majority of the Education Council.
 
 #### (d) Native Hawaiian Education Council grant
 

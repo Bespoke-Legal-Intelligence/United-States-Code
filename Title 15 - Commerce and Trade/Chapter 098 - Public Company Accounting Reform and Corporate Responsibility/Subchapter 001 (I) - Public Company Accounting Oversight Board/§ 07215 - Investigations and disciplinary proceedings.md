@@ -1,0 +1,220 @@
+### §7215. Investigations and disciplinary proceedings
+
+#### (a) In general
+
+The Board shall establish, by rule, subject to the requirements of this section, fair procedures for the investigation and disciplining of registered public accounting firms and associated persons of such firms.
+
+#### (b) Investigations
+
+#### (1) Authority
+
+&emsp;In accordance with the rules of the Board, the Board may conduct an investigation of any act or practice, or omission to act, by a registered public accounting firm, any associated person of such firm, or both, that may violate any provision of this Act, the rules of the Board, the provisions of the securities laws relating to the preparation and issuance of audit reports and the obligations and liabilities of accountants with respect thereto, including the rules of the Commission issued under this Act, or professional standards, regardless of how the act, practice, or omission is brought to the attention of the Board.
+
+#### (2) Testimony and document production
+
+&emsp;In addition to such other actions as the Board determines to be necessary or appropriate, the rules of the Board may—
+
+&emsp;&emsp;(A) require the testimony of the firm or of any person associated with a registered public accounting firm, with respect to any matter that the Board considers relevant or material to an investigation;
+
+&emsp;&emsp;(B) require the production of audit work papers and any other document or information in the possession of a registered public accounting firm or any associated person thereof, wherever domiciled, that the Board considers relevant or material to the investigation, and may inspect the books and records of such firm or associated person to verify the accuracy of any documents or information supplied;
+
+&emsp;&emsp;(C) request the testimony of, and production of any document in the possession of, any other person, including any client of a registered public accounting firm that the Board considers relevant or material to an investigation under this section, with appropriate notice, subject to the needs of the investigation, as permitted under the rules of the Board; and
+
+&emsp;&emsp;(D) provide for procedures to seek issuance by the Commission, in a manner established by the Commission, of a subpoena to require the testimony of, and production of any document in the possession of, any person, including any client of a registered public accounting firm, that the Board considers relevant or material to an investigation under this section.
+
+#### (3) Noncooperation with investigations
+
+#### (A) In general
+
+&emsp;&emsp;If a registered public accounting firm or any associated person thereof refuses to testify, produce documents, or otherwise cooperate with the Board in connection with an investigation under this section, the Board may—
+
+&emsp;&emsp;&emsp;(i) suspend or bar such person from being associated with a registered public accounting firm, or require the registered public accounting firm to end such association;
+
+&emsp;&emsp;&emsp;(ii) suspend or revoke the registration of the public accounting firm; and
+
+&emsp;&emsp;&emsp;(iii) invoke such other lesser sanctions as the Board considers appropriate, and as specified by rule of the Board.
+
+#### (B) Procedure
+
+&emsp;&emsp;Any action taken by the Board under this paragraph shall be subject to the terms of section 7217(c) of this title.
+
+#### (4) Coordination and referral of investigations
+
+#### (A) Coordination
+
+&emsp;&emsp;The Board shall notify the Commission of any pending Board investigation involving a potential violation of the securities laws, and thereafter coordinate its work with the work of the Commission's Division of Enforcement, as necessary to protect an ongoing Commission investigation.
+
+#### (B) Referral
+
+&emsp;&emsp;The Board may refer an investigation under this section—
+
+&emsp;&emsp;&emsp;(i) to the Commission;
+
+&emsp;&emsp;&emsp;(ii) to any other Federal functional regulator (as defined in section 6809 of this title), in the case of an investigation that concerns an audit report for an institution that is subject to the jurisdiction of such regulator; and
+
+&emsp;&emsp;&emsp;(iii) at the direction of the Commission, to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Attorney General of the United States;
+
+&emsp;&emsp;&emsp;&emsp;(II) the attorney general of 1 or more States; and
+
+&emsp;&emsp;&emsp;&emsp;(III) the appropriate State regulatory authority.
+
+#### (5) Use of documents
+
+#### (A) Confidentiality
+
+&emsp;&emsp;Except as provided in subparagraph (B), all documents and information prepared or received by or specifically for the Board, and deliberations of the Board and its employees and agents, in connection with an inspection under section 7214 of this title or with an investigation under this section, shall be confidential and privileged as an evidentiary matter (and shall not be subject to civil discovery or other legal process) in any proceeding in any Federal or State court or administrative agency, and shall be exempt from disclosure, in the hands of an agency or establishment of the Federal Government, under the Freedom of Information Act (5 U.S.C. 552a),<sup>1</sup> or otherwise, unless and until presented in connection with a public proceeding or released in accordance with subsection (c) of this section.
+
+#### (B) Availability to Government agencies
+
+&emsp;&emsp;Without the loss of its status as confidential and privileged in the hands of the Board, all information referred to in subparagraph (A) may—
+
+&emsp;&emsp;&emsp;(i) be made available to the Commission; and
+
+&emsp;&emsp;&emsp;(ii) in the discretion of the Board, when determined by the Board to be necessary to accomplish the purposes of this Act or to protect investors, be made available to—
+
+&emsp;&emsp;&emsp;&emsp;(I) the Attorney General of the United States;
+
+&emsp;&emsp;&emsp;&emsp;(II) the appropriate Federal functional regulator (as defined in section 6809 of this title), other than the Commission, with respect to an audit report for an institution subject to the jurisdiction of such regulator;
+
+&emsp;&emsp;&emsp;&emsp;(III) State attorneys general in connection with any criminal investigation; and
+
+&emsp;&emsp;&emsp;&emsp;(IV) any appropriate State regulatory authority,
+
+> &emsp;&emsp;each of which shall maintain such information as confidential and privileged.
+
+#### (6) Immunity
+
+&emsp;Any employee of the Board engaged in carrying out an investigation under this Act shall be immune from any civil liability arising out of such investigation in the same manner and to the same extent as an employee of the Federal Government in similar circumstances.
+
+#### (c) Disciplinary procedures
+
+#### (1) Notification; recordkeeping
+
+&emsp;The rules of the Board shall provide that in any proceeding by the Board to determine whether a registered public accounting firm, or an associated person thereof, should be disciplined, the Board shall—
+
+&emsp;&emsp;(A) bring specific charges with respect to the firm or associated person;
+
+&emsp;&emsp;(B) notify such firm or associated person of, and provide to the firm or associated person an opportunity to defend against, such charges; and
+
+&emsp;&emsp;(C) keep a record of the proceedings.
+
+#### (2) Public hearings
+
+&emsp;Hearings under this section shall not be public, unless otherwise ordered by the Board for good cause shown, with the consent of the parties to such hearing.
+
+#### (3) Supporting statement
+
+&emsp;A determination by the Board to impose a sanction under this subsection shall be supported by a statement setting forth—
+
+&emsp;&emsp;(A) each act or practice in which the registered public accounting firm, or associated person, has engaged (or omitted to engage), or that forms a basis for all or a part of such sanction;
+
+&emsp;&emsp;(B) the specific provision of this Act, the securities laws, the rules of the Board, or professional standards which the Board determines has been violated; and
+
+&emsp;&emsp;(C) the sanction imposed, including a justification for that sanction.
+
+#### (4) Sanctions
+
+&emsp;If the Board finds, based on all of the facts and circumstances, that a registered public accounting firm or associated person thereof has engaged in any act or practice, or omitted to act, in violation of this Act, the rules of the Board, the provisions of the securities laws relating to the preparation and issuance of audit reports and the obligations and liabilities of accountants with respect thereto, including the rules of the Commission issued under this Act, or professional standards, the Board may impose such disciplinary or remedial sanctions as it determines appropriate, subject to applicable limitations under paragraph (5), including—
+
+&emsp;&emsp;(A) temporary suspension or permanent revocation of registration under this subchapter;
+
+&emsp;&emsp;(B) temporary or permanent suspension or bar of a person from further association with any registered public accounting firm;
+
+&emsp;&emsp;(C) temporary or permanent limitation on the activities, functions, or operations of such firm or person (other than in connection with required additional professional education or training);
+
+&emsp;&emsp;(D) a civil money penalty for each such violation, in an amount equal to—
+
+&emsp;&emsp;&emsp;(i) not more than $100,000 for a natural person or $2,000,000 for any other person; and
+
+&emsp;&emsp;&emsp;(ii) in any case to which paragraph (5) applies, not more than $750,000 for a natural person or $15,000,000 for any other person;
+
+&emsp;&emsp;(E) censure;
+
+&emsp;&emsp;(F) required additional professional education or training; or
+
+&emsp;&emsp;(G) any other appropriate sanction provided for in the rules of the Board.
+
+#### (5) Intentional or other knowing conduct
+
+&emsp;The sanctions and penalties described in subparagraphs (A) through (C) and (D)(ii) of paragraph (4) shall only apply to—
+
+&emsp;&emsp;(A) intentional or knowing conduct, including reckless conduct, that results in violation of the applicable statutory, regulatory, or professional standard; or
+
+&emsp;&emsp;(B) repeated instances of negligent conduct, each resulting in a violation of the applicable statutory, regulatory, or professional standard.
+
+#### (6) Failure to supervise
+
+#### (A) In general
+
+&emsp;&emsp;The Board may impose sanctions under this section on a registered accounting firm or upon the supervisory personnel of such firm, if the Board finds that—
+
+&emsp;&emsp;&emsp;(i) the firm has failed reasonably to supervise an associated person, either as required by the rules of the Board relating to auditing or quality control standards, or otherwise, with a view to preventing violations of this Act, the rules of the Board, the provisions of the securities laws relating to the preparation and issuance of audit reports and the obligations and liabilities of accountants with respect thereto, including the rules of the Commission under this Act, or professional standards; and
+
+&emsp;&emsp;&emsp;(ii) such associated person commits a violation of this Act, or any of such rules, laws, or standards.
+
+#### (B) Rule of construction
+
+&emsp;&emsp;No associated person of a registered public accounting firm shall be deemed to have failed reasonably to supervise any other person for purposes of subparagraph (A), if—
+
+&emsp;&emsp;&emsp;(i) there have been established in and for that firm procedures, and a system for applying such procedures, that comply with applicable rules of the Board and that would reasonably be expected to prevent and detect any such violation by such associated person; and
+
+&emsp;&emsp;&emsp;(ii) such person has reasonably discharged the duties and obligations incumbent upon that person by reason of such procedures and system, and had no reasonable cause to believe that such procedures and system were not being complied with.
+
+#### (7) Effect of suspension
+
+#### (A) Association with a public accounting firm
+
+&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with a registered public accounting firm under this subsection willfully to become or remain associated with any registered public accounting firm, or for any registered public accounting firm that knew, or, in the exercise of reasonable care should have known, of the suspension or bar, to permit such an association, without the consent of the Board or the Commission.
+
+#### (B) Association with an issuer
+
+&emsp;&emsp;It shall be unlawful for any person that is suspended or barred from being associated with an issuer under this subsection willfully to become or remain associated with any issuer in an accountancy or a financial management capacity, and for any issuer that knew, or in the exercise of reasonable care should have known, of such suspension or bar, to permit such an association, without the consent of the Board or the Commission.
+
+#### (d) Reporting of sanctions
+
+#### (1) Recipients
+
+&emsp;If the Board imposes a disciplinary sanction, in accordance with this section, the Board shall report the sanction to—
+
+&emsp;&emsp;(A) the Commission;
+
+&emsp;&emsp;(B) any appropriate State regulatory authority or any foreign accountancy licensing board with which such firm or person is licensed or certified; and
+
+&emsp;&emsp;(C) the public (once any stay on the imposition of such sanction has been lifted).
+
+#### (2) Contents
+
+&emsp;The information reported under paragraph (1) shall include—
+
+&emsp;&emsp;(A) the name of the sanctioned person;
+
+&emsp;&emsp;(B) a description of the sanction and the basis for its imposition; and
+
+&emsp;&emsp;(C) such other information as the Board deems appropriate.
+
+#### (e) Stay of sanctions
+
+#### (1) In general
+
+&emsp;Application to the Commission for review, or the institution by the Commission of review, of any disciplinary action of the Board shall operate as a stay of any such disciplinary action, unless and until the Commission orders (summarily or after notice and opportunity for hearing on the question of a stay, which hearing may consist solely of the submission of affidavits or presentation of oral arguments) that no such stay shall continue to operate.
+
+#### (2) Expedited procedures
+
+&emsp;The Commission shall establish for appropriate cases an expedited procedure for consideration and determination of the question of the duration of a stay pending review of any disciplinary action of the Board under this subsection.
+
+(Pub. L. 107–204, title I, §105, July 30, 2002, 116 Stat. 759.)
+
+#### References in Text
+
+This Act, referred to in subsecs. (b)(1), (5)(B)(ii), (6) and (c)(3)(B), (4), (6)(A), is Pub. L. 107–204, July 30, 2002, 116 Stat. 745, known as the Sarbanes-Oxley Act of 2002. For complete classification of this Act to the Code, see Tables.
+
+The Freedom of Information Act, referred to in subsec. (b)(5)(A), is section 552 of Title 5, Government Organization and Employees. Section 552a of Title 5 is commonly known as the “Privacy Act”.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 7211, 7212, 7214, 7217 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
+

@@ -94,6 +94,10 @@ Amendment by Pub. L. 106–58 effective at noon on Jan. 20, 2001, see section 63
 
 Amendment by Pub. L. 103–296 effective Mar. 31, 1995, see section 110(a) of Pub. L. 103–296, set out as a note under section 401 of Title 42, The Public Health and Welfare.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto,to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Chief Financial Officer Within Executive Office of the President
 
 Pub. L. 106–58, title VI, §638(b)–(e), Sept. 29, 1999, 113 Stat. 475, provided that:
@@ -166,5 +170,5 @@ Functions.—The Chief Financial Officers Council shall meet periodically to adv
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 503, 903, 3515 of this title; title 28 section 507; title 40 section 1425; title 42 section 902.
+This section is referred to in sections 503, 903, 3515 of this title; title 5 section 1401; title 28 section 507; title 40 section 11315; title 42 section 902; title 44 section 3603.
 

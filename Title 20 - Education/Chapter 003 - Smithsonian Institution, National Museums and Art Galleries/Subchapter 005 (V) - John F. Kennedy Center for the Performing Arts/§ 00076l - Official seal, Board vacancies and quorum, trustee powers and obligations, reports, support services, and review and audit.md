@@ -20,7 +20,7 @@ The functions of the Board funded by funds appropriated pursuant to section 76r 
 
 #### (1) In general
 
-&emsp;The Board may procure insurance against any loss in connection with the property of the Board and other assets administered by the Board. Each employee and volunteer of the Board shall be considered to be a civil employee of the United States (within the meaning of the term “employee” as defined in section 8101(1) of title 5), except that the Board shall continue to provide benefits with respect to any disability or death resulting from a personal injury to a nonappropriated fund employee of the Board sustained while in the performance of the duties of the employee for the Board pursuant to the workers compensation statute of the jurisdiction in which the John F. Kennedy Center for the Performing Arts is located. The disability or death benefits referred to in the preceding sentence, whetherunder the workers compensation statute referred to in the preceding sentence or under chapter 81 of title 5, shall continue to be the exclusive liability of the Board and the United States with respect to all employees and volunteers of the Board.
+&emsp;The Board may procure insurance against any loss in connection with the property of the Board and other assets administered by the Board. Each employee and volunteer of the Board shall be considered to be a civil employee of the United States (within the meaning of the term “employee” as defined in section 8101(1) of title 5), except that the Board shall continue to provide benefits with respect to any disability or death resulting from a personal injury to a nonappropriated fund employee of the Board sustained while in the performance of the duties of the employee for the Board pursuant to the workers compensation statute of the jurisdiction in which the John F. Kennedy Center for the Performing Arts is located. The disability or death benefits referred to in the preceding sentence, whether under the workers compensation statute referred to in the preceding sentence or under chapter 81 of title 5, shall continue to be the exclusive liability of the Board and the United States with respect to all employees and volunteers of the Board.
 
 #### (2) Federal tort claims
 
@@ -30,7 +30,7 @@ The functions of the Board funded by funds appropriated pursuant to section 76r 
 
 #### References in Text
 
-The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, as amended, which is set out in the Appendix to Title 5, Government Organization and Employees.
+The Inspector General Act of 1978, referred to in subsec. (d), is Pub. L. 95–452, Oct. 12, 1978, 92 Stat. 1101, asamended, which is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Amendments
 

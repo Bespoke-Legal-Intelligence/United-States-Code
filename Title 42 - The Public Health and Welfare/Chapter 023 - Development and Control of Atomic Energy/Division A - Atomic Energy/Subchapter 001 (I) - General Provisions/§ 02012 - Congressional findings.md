@@ -24,7 +24,7 @@ The Congress of the United States makes the following findings concerning the de
 
 #### Prior Provisions
 
-Provisions similar to those comprising this section were contained in section 1 of act Aug. 1, 1946, ch. 724,60 Stat. 755, which was classified to section 1801 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
+Provisions similar to those comprising this section were contained in section 1 of act Aug. 1, 1946, ch. 724, 60 Stat. 755, which was classified to section 1801 of this title, prior to the general amendment and renumbering of act Aug. 1, 1946, by act Aug. 30, 1954.
 
 #### Amendments
 

@@ -31,6 +31,8 @@ Pub. L. 99–508, title III, §303(b), Oct. 21, 1986, 100 Stat. 1873, added item
 
 This chapter is referred to in section 2516 of this title.
 
+<i><sup>1</sup></i><i> So in original. Probably should be “of”.</i>
+
 
 ---
 

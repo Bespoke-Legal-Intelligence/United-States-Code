@@ -12,7 +12,7 @@ The Congress finds the following:
 
 &emsp;(4) It is appropriate for Federal agencies and departments to use the funds authorized for the Program in a manner which most effectively fosters the maintenance and development of United States leadership in high-performance computers and associated technologies in and for the benefit of the United States.
 
-&emsp;(5) It is appropriate for Federal agencies and departments to use the funds authorized for the Program in a manner, consistent with theTrade Agreements Act of 1979 (19 U.S.C. 2501 et seq.), which most effectively fosters reciprocal competitive procurement treatment by foreign governments for United States high-performance computing and associated technology products and suppliers.
+&emsp;(5) It is appropriate for Federal agencies and departments to use the funds authorized for the Program in a manner, consistent with the Trade Agreements Act of 1979 (19 U.S.C. 2501 et seq.), which most effectively fosters reciprocal competitive procurement treatment by foreign governments for United States high-performance computing and associated technology products and suppliers.
 
 #### (b) Annual report
 

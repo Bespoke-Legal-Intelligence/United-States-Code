@@ -13,7 +13,7 @@
 - [&sect; 03416 - Office of Vocational and Adult Education](%C2%A7%2003416%20-%20Office%20of%20Vocational%20and%20Adult%20Education.md)
 - [&sect; 03417 - Office of Special Education and Rehabilitative Services](%C2%A7%2003417%20-%20Office%20of%20Special%20Education%20and%20Rehabilitative%20Services.md)
 - [&sect; 03418 - Repealed. Pub. L. 99&#8211;145, title XII, &sect;1204(a)(1), Nov. 8, 1985, 99 Stat. 720](%C2%A7%2003418%20-%20Repealed.%20Pub.%20L.%2099%E2%80%93145%2C%20title%20XII%2C%20%C2%A71204%28a%29%281%29%2C%20Nov.%208%2C%201985%2C%2099%20Stat.%20720.md)
-- [&sect; 03419 - Office of Educational Research and Improvement](%C2%A7%2003419%20-%20Office%20of%20Educational%20Research%20and%20Improvement.md)
+- [&sect; 03419 - Institute of Education Sciences](%C2%A7%2003419%20-%20Institute%20of%20Education%20Sciences.md)
 - [&sect; 03420 - Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students](%C2%A7%2003420%20-%20Office%20of%20English%20Language%20Acquisition%2C%20Language%20Enhancement%2C%20and%20Academic%20Achievement%20for%20Limited%20English%20Proficient%20Students.md)
 - [&sect; 03421 - Office of General Counsel](%C2%A7%2003421%20-%20Office%20of%20General%20Counsel.md)
 - [&sect; 03422 - Office of Inspector General](%C2%A7%2003422%20-%20Office%20of%20Inspector%20General.md)

@@ -16,7 +16,7 @@ A person filing an application under subsection (a) of this section shall comply
 
 #### (c) Periods when not in service
 
-In the case such applicant's service was not continuous, the applicant's residence in the United States and State or district of the Service in the United States, good moral character,attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during any period within five years immediately preceding the date of filing such application between the periods of applicant's service in the Armed Forces, shall be alleged in the application filed under the provisions of subsection (a) of this section, and proved at any hearing thereon. Such allegation and proof shall also be made as to any period between the termination of applicant's service and the filing of the application for naturalization.
+In the case such applicant's service was not continuous, the applicant's residence in the United States and State or district of the Service in the United States, good moral character, attachment to the principles of the Constitution of the United States, and favorable disposition toward the good order and happiness of the United States, during any period within five years immediately preceding the date of filing such application between the periods of applicant's service in the Armed Forces, shall be alleged in the application filed under the provisions of subsection (a) of this section, and proved at any hearing thereon. Such allegation and proof shall also be made as to any period between the termination of applicant's service and the filing of the application for naturalization.
 
 #### (d) Residence requirements
 
@@ -34,7 +34,7 @@ Any such period or periods of service under honorable conditions, and good moral
 
 1990—Subsec. (a). Pub. L. 101–649, §407(b)(4)(A), (c)(10), substituted “State or district of the Service in the United States” for “State”, “for at least three months” for “for at least six months”, and references to applicant and application for references to petitioner and petition wherever appearing.
 
-Subsec. (b). Pub. L. 101–649, §407(b)(4)(B), (c)(10), (d)(8), as amended by Pub. L. 102–232, substituted “within a State or district of the Service in the United States” for “within the jurisdiction of the court” in par. (1), “any hearing” for “the final hearing” in par. (3), and references to applicant and application for references to petitioner and petition wherever appearing.
+Subsec. (b). Pub. L. 101–649, §407(b)(4)(B), (c)(10), (d)(8), as amended by Pub. L. 102–232, substituted “within a State or district of the Service in the United States” for “within the jurisdiction of the court” inpar. (1), “any hearing” for “the final hearing” in par. (3), and references to applicant and application for references to petitioner and petition wherever appearing.
 
 Subsec. (c). Pub. L. 101–649, §407(b)(4)(C), (c)(10), (d)(8), as amended by Pub. L. 102–232, substituted “State or district of the Service in the United States” for “State”, “any hearing” for “the final hearing”, and references to applicant's and application for references to petitioner's and petition wherever appearing.
 
@@ -51,6 +51,10 @@ Amendment by Pub. L. 102–232 effective as if included in the enactment of the 
 #### Effective Date of 1981 Amendment
 
 Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub. L. 97–116, set out as a note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

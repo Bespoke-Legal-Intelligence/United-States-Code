@@ -2,7 +2,13 @@
 
 #### (a) Annual report
 
-Not later than January 31 of each year, the Secretary of Defense and the Secretary of State shall jointly prepare and submit to the appropriate congressional committees a report on all military training provided to foreign military personnel by the Department of Defense and the Department of State during the previous fiscal year and all such training proposed for the current fiscal year.
+#### (1) In general
+
+&emsp;Not later than January 31 of each year, the Secretary of Defense and the Secretary of State shall jointly prepare and submit to the appropriate congressional committees a report on all military training provided to foreign military personnel by the Department of Defense and the Department of State during the previous fiscal year and all such training proposed for the current fiscal year.
+
+#### (2) Exception for certain countries
+
+&emsp;Paragraph (1) does not apply to any NATO member, Australia, Japan, or New Zealand, unless one of the appropriate congressional committees has specifically requested, in writing, inclusion of such country in the report. Such request shall be made not later than 90 calendar days prior to the date on which the report is required to be transmitted.
 
 #### (b) Contents
 
@@ -30,9 +36,13 @@ In this section, the term “appropriate congressional committees” means—
 
 &emsp;(2) the Committee on Appropriations and the Committee on Foreign Relations of the Senate.
 
-(Pub. L. 87–195, pt. III, §656, as added Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1307\], Nov. 29, 1999, 113 Stat. 1536, 1501A–512.)
+(Pub. L. 87–195, pt. III, §656, as added Pub. L. 106–113, div. B, §1000(a)(7) \[div. B, title XIII, §1307\], Nov. 29, 1999, 113 Stat. 1536, 1501A–512; amended Pub. L. 107–228, div. B, title XII, §1262(a), Sept. 30, 2002, 116 Stat. 1434.)
 
 #### Prior Provisions
 
 A prior section 2416, Pub. L. 87–195, pt. III, §656, as added Pub. L. 92–226, pt. III, §304(b), Feb. 7, 1972, 86 Stat. 30; amended Pub. L. 93–559, §39(b), Dec. 30, 1974, 88 Stat. 1810; Pub. L. 94–329, title IV, §413(a), June 30, 1976, 90 Stat. 761, related to limitation on number of United States personnel in Cambodia, prior to repeal by Pub. L. 95–424, title VI, §§604, 605, Oct. 6, 1978, 92 Stat. 961, effective Oct. 1, 1978.
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–228 designated existing provisions as par. (1), inserted par. (1) heading, and added par. (2).
 

@@ -36,7 +36,7 @@ For purposes of this section—
 
 #### (1) Definition
 
-&emsp;For purposes of this section, the only markets which shall be considered bona fide spot markets shall be those which the Secretary shall, from time to time, after investigation, determine and designate to be such, and of which he shall give public notice.
+&emsp;For purposes of this section, the only markets which shall be considered bona fide spotmarkets shall be those which the Secretary shall, from time to time, after investigation, determine and designate to be such, and of which he shall give public notice.
 
 #### (2) Determination
 
@@ -74,7 +74,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (E) Prohibition of delivery of inferior cotton
 
-&emsp;&emsp;Provide that cotton that, because of the presence of extraneous matter of any character, or irregularities or defects, is reduced in value below that of low middling, or cotton that is below the grade of low middling, or, if tinged, cotton that is below the grade of strict middling, or, if yellow stained, cotton that is below the grade of good middling, the grades mentioned being of the official cotton standards of the United States, or cotton that is less than seven-eighths of an inch in length of staple, or cotton of perished staple, or of immature staple, or cotton that is “gin cut” or reginned, or cotton that is “repacked” or “false packed” or “mixed packed” or “water packed”, shall not be delivered on, under, or in settlement of such contract.
+&emsp;&emsp;Provide that cotton that, because of the presence of extraneous matter of any character, or irregularities or defects, is reduced in value below that of low middling, or cotton that is below the grade of low middling, or, if tinged, cotton that is below the grade of strict middling, or, if yellow stained, cotton that is below the grade of good middling, the grades mentioned being of the official cotton standards of the United States, or cotton that is less than seven-eighths of an inch in length of staple, or cotton of perished staple, or of immature staple, or cotton that is “gin cut” or reginned, or cottonthat is “repacked” or “false packed” or “mixed packed” or “water packed”, shall not be delivered on, under, or in settlement of such contract.
 
 #### (F) Provisions for tender in full, notice of delivery date, and certificate of grade
 
@@ -82,7 +82,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (G) Provision for tender and settlement in accordance with Government classification
 
-&emsp;&emsp;Provide that all tenders of cotton and settlements therefor under such contract shall be in accordance with the classification thereof made under the regulations of the Secretary by such officer or officers of the Government as shall be designated for the purpose, and the costs of such classification shall be fixed, assessed, collected, and paid as provided in such regulations and shall be credited to the account referred to in section 55 of this title. The Secretary may provide by regulation conditions under which cotton samples submitted or used in the performance of services authorized by this act shall become the property of the United States and may be sold and the proceeds credited to the foregoing account: <i>Provided</i>, That such cotton samples shall not be subject to the provisions of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.). The Secretary is authorized toprescribe regulations for carrying out the purposes of this subparagraph and the certificates of the officers of the Government as to the classification of any cotton for the purposes of this subparagraph shall be accepted in the courts of the United States in all suits between the parties to such contract, or their privies, as prima facie evidence of the true classification of the cotton involved.
+&emsp;&emsp;Provide that all tenders of cotton and settlements therefor under such contract shall be in accordance with the classification thereof made under the regulations of the Secretary by such officer or officers of the Government as shall be designated for the purpose, and the costs of such classification shall be fixed, assessed, collected, and paid as provided in such regulations and shall be credited to the account referred to in section 55 of this title. The Secretary may provide by regulation conditions under which cotton samples submitted or used in the performance of services authorized by this act shall become the property of the United States and may be sold and the proceeds credited to the foregoing account: <i>Provided</i>, That such cotton samples shall not be subject to the provisions of the Federal Property and Administrative Services Act of 1949.<sup>1</sup> The Secretary is authorized to prescribe regulations for carrying out the purposes of this subparagraph and the certificates of the officers of the Government as to the classification of any cotton for the purposes of this subparagraph shall be accepted in the courts of the United States in all suits between the parties to such contract, or their privies, as prima facie evidence of the true classification of the cotton involved.
 
 #### (2) Incorporation of conditions in contracts
 
@@ -90,7 +90,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (3) Delivery allowances
 
-&emsp;For the purpose of this subsection, the differences above or below the contract price which the receiver shall pay for cotton of grades above or below the basic <sup>1</sup> grade in the settlement of a contract of sale for the future delivery of cotton shall be determined by the actual commercial differences in value thereof upon the sixth business day prior to the day fixed, in accordance with paragraph (1)(F), for the delivery of cotton on the contract, established by the sale of spot cotton in the spot markets of not less than five places designated for the purpose from time to time by the Secretary, as such values were established by the sales of spot cotton, in such designated five or more markets. For purposes of this paragraph, such values in the such spot markets shall be based upon the standards for grades of cotton established by the Secretary. Whenever the value of one grade is to be determined from the sale or sales of spot cotton of another grade or grades, such value shall be fixed in accordance with rules and regulations which shall be prescribed for the purpose by the Secretary.
+&emsp;For the purpose of this subsection, the differences above or below the contract price which the receiver shall pay for cotton of grades above or below the basic <sup>2</sup> grade in the settlement of a contract of sale for the future delivery of cotton shall be determined by the actual commercial differences in value thereof upon the sixth business day prior to the day fixed, in accordance with paragraph (1)(F), for the delivery of cotton on the contract, established by the sale of spot cotton in the spot markets of not less than five places designated for the purpose from time to time by the Secretary, as such values were established by the sales of spot cotton, in such designated five or more markets. For purposes of this paragraph, such values in the such spot markets shall be based upon the standards for grades of cotton established by the Secretary. Whenever the value of one grade is to be determined from the sale or sales of spot cotton of another grade or grades, such value shall be fixed in accordance with rules and regulations which shall be prescribed for the purpose by the Secretary.
 
 #### (g) Tendered grade contracts
 
@@ -112,7 +112,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (3) Application of subsection
 
-&emsp;Nothing in this subsection shall be so construed as to authorize any contract in which, or in the settlement of or in respect to which, any device or arrangement whatever is resorted to, or any agreement is made, for the determination or adjustment of the price of the grade or grades tendered other than the basis grade specified in the contract by any “fixed difference” system, or by arbitration, or by any other method not provided for by this section.
+&emsp;Nothing in this subsection shall be so construed as to authorize any contract in which, or in the settlement of or in respect to which,any device or arrangement whatever is resorted to, or any agreement is made, for the determination or adjustment of the price of the grade or grades tendered other than the basis grade specified in the contract by any “fixed difference” system, or by arbitration, or by any other method not provided for by this section.
 
 #### (h) Specific grade contracts
 
@@ -138,7 +138,7 @@ Each cotton futures contract shall be a basis grade contract, or a tendered grad
 
 #### (2) Incorporation of conditions in contract
 
-&emsp;The provisions of paragraphs (1)(A), (C), and (D) shall be deemed fully incorporated into any such contract if there be written or printed thereon, or on the document or memorandum evidencing the same, at or prior to thetime the same is entered into, the words “Subject to United States Cotton Futures Act, subsection (h)”.
+&emsp;The provisions of paragraphs (1)(A), (C), and (D) shall be deemed fully incorporated into any such contract if there be written or printed thereon, or on the document or memorandum evidencing the same, at or prior to the time the same is entered into, the words “Subject to United States Cotton Futures Act, subsection (h)”.
 
 #### (3) Application of subsection
 
@@ -158,7 +158,7 @@ Any person who knowingly violates any regulation made in pursuance of this secti
 
 #### (<i>l</i>) Applicability to contracts prior to effective date
 
-The provisions of this section shall not apply to any cotton futures contract entered into prior to the effective date of this section or to any act or failure to act by any person prior to such effective date and all such prior contracts, acts or failure to act shall continue to be governed by the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> as in effect prior to the enactment of this section. All designations of bona fide spot markets and all rules and regulations issued by the Secretary pursuant to the applicable provisions of the Internal Revenue Code of 1954 <sup>2</sup> which were in effect on the effective date of this section, shall remain fully effective as designations and regulations under this section until superseded, amended, or terminated by the Secretary.
+The provisions of this section shall not apply to any cotton futures contract entered into prior to the effective date of this section or to any act or failure to act by any person prior to such effective date and all such prior contracts, acts or failure to act shall continue to be governed by the applicable provisions of the Internal Revenue Code of 1954 <sup>1</sup> as in effect prior to the enactment of this section. All designations of bona fide spot markets and all rules and regulations issued by the Secretary pursuant to the applicable provisions of the Internal Revenue Code of 1954 <sup>1</sup> which were in effect on the effective date of this section, shall remain fully effective as designations and regulations under this section until superseded, amended, or terminated by the Secretary.
 
 #### (m) Authorization
 
@@ -172,7 +172,7 @@ The Commodity Exchange Act, referred to in subsec. (c)(1), is act Sept. 21, 1922
 
 The United States Cotton Standards Act, as amended, referred to in subsec. (c)(5), is act Mar. 4, 1923, ch. 288, 42 Stat. 1517, as amended, which is classified generally to chapter 2 (§51 et seq.) of this title. For complete classification of this Act to the Code, see section 51 of this title and Tables.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f)(1)(G), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. The provisions of that Act relating to management and disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (f)(1)(G), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 The Internal Revenue Code of 1954, referred to in subsec. (<i>l</i>), was redesignated the Internal Revenue Code of 1986 by Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095, and is classified to Title 26, Internal Revenue Code.
 
@@ -202,7 +202,7 @@ Section 1952(<i>o</i>) of Pub. L. 94–455 provided that: “The provisions of t
 
 This section is referred to in section 55 of this title.
 
-<i><sup>1</sup></i><i> So in original. Probably should be “basis”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be “basis”.</i>
 

@@ -16,7 +16,7 @@
 
 #### (b) Law of nearest adjacent coastal State as applicable Federal law; Federal administration and enforcement of such law; nearest adjacent coastal State defined
 
-The law of the nearest adjacent coastal State, now in effect or hereafter adopted, amended, or repealed, is declared to be the law of the United States, and shall apply to any deepwater port licensed pursuant to this chapter, to the extent applicable and not inconsistent with any provision or regulation under this chapter or other Federal laws and regulations now in effect orhereafter adopted, amended, or repealed. All such applicable laws shall be administered and enforced by the appropriate officers and courts of the United States. For purposes of this subsection, the nearest adjacent coastal State shall be that State whose seaward boundaries, if extended beyond 3 miles, would encompass the site of the deepwater port.
+The law of the nearest adjacent coastal State, now in effect or hereafter adopted, amended, or repealed, is declared to be the law of the United States, and shall apply to any deepwater port licensed pursuant to this chapter, to the extent applicable and not inconsistent with any provision or regulation under this chapter or other Federal laws and regulations now in effect or hereafter adopted, amended, or repealed. All such applicable laws shall be administered and enforced by the appropriate officers and courts of the United States. For purposes of this subsection, the nearest adjacent coastal State shall be that State whose seaward boundaries, if extended beyond 3 miles, would encompass the site of the deepwater port.
 
 #### (c) Vessels of United States and foreign states subject to Federal jurisdiction; objections to jurisdiction; designation of agent for service of process; duty of licensee
 
@@ -72,5 +72,5 @@ Section 5(c) of Pub. L. 98–419 provided that: “The amendment made by subsect
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 19 section 1644.
+This section is referred to section 1507 of this title; title 19 section 1644.
 

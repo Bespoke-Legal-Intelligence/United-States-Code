@@ -10,7 +10,7 @@ Section 434, Pub. L. 91–458, title II, §205, Oct. 16, 1970, 84 Stat. 972, dec
 
 Section 435, Pub. L. 91–458, title II, §206, Oct. 16, 1970, 84 Stat. 972; Pub. L. 96–423, §4, Oct. 10, 1980, 94 Stat. 1812; Pub. L. 101–615, §28(a)–(d), Nov. 16, 1990, 104 Stat. 3276, 3277, related to investigative and surveillance activities by State in connection with any rule, regulation, order, or standard related to railroad safety prescribed by Secretary of Transportation. See sections 20105, 20111, and 20117 of Title 49.
 
-Section 436, Pub. L. 91–458, title II, §207, Oct. 16, 1970, 84 Stat. 974; Pub. L. 95–574, §8, Nov. 2, 1978, 92 Stat. 2461; Pub. L. 96–423, §5, Oct. 10, 1980, 94 Stat. 1812; Pub. L.101–615, §28(e), Nov. 16, 1990, 104 Stat. 3277, related to actions by State agencies to enforce compliance with Federal railroad safety rules, regulations, orders, and standards. See section 20113 of Title 49.
+Section 436, Pub. L. 91–458, title II, §207, Oct. 16, 1970, 84 Stat. 974; Pub. L. 95–574, §8, Nov. 2, 1978, 92 Stat. 2461; Pub. L. 96–423, §5, Oct. 10, 1980, 94 Stat. 1812; Pub. L. 101–615, §28(e), Nov. 16, 1990, 104 Stat. 3277, related to actions by State agencies to enforce compliance with Federal railroad safety rules, regulations, orders, and standards. See section 20113 of Title 49.
 
 Section 437, Pub. L. 91–458, title II, §208, Oct. 16, 1970, 84 Stat. 974; Pub. L. 93–633, title II, §206, Jan. 3, 1975, 88 Stat. 2166; Pub. L. 95–574, §9, Nov. 2, 1978, 92 Stat. 2462; Pub. L. 96–423, §6, Oct. 10, 1980, 94 Stat. 1813; Pub. L. 100–342, §8, June 22, 1988, 102 Stat. 628, related to general powers of Secretary of Transportation. See section 54a of this title and sections 20107, 20108, 20111, and 20112 of Title 49.
 
@@ -20,7 +20,7 @@ Section 439, Pub. L. 91–458, title II, §210, Oct. 16, 1970, 84 Stat. 975; Pub
 
 Section 440, Pub. L. 91–458, title II, §211, Oct. 16, 1970, 84 Stat. 976; Pub. L. 93–633, title II, §203, Jan. 3, 1975, 88 Stat. 2164; Pub. L. 94–56, §2, July 19, 1975, 89 Stat. 263; Pub. L. 96–470, title II, §209(a), Oct. 19, 1980, 94 Stat. 2245; Pub. L. 100–342, §12, June 22, 1988, 102 Stat. 630, related to annual report by Secretary of Transportation on administration of this subchapter. See section 20116 of Title 49.
 
-Section 441, Pub. L. 91–458, title II, §212, as added Pub. L. 96–423, §10, Oct. 10, 1980, 94 Stat. 1815; amended Pub. L. 100–342, §5, June 22, 1988, 102 Stat. 627; Pub. L. 102–365, §5(b), Sept. 3, 1992, 106 Stat. 975, related to protection and rights of railroad employees. See section 20109 of Title 49.
+Section 441, Pub. L. 91–458, title II, §212, as added Pub. L. 96–423, §10, Oct. 10, 1980, 94 Stat. 1815; amended Pub. L. 100–342, §5, June 22, 1988, 102 Stat. 627; Pub. L. 102–365,§5(b), Sept. 3, 1992, 106 Stat. 975, related to protection and rights of railroad employees. See section 20109 of Title 49.
 
 A prior section 441, Pub. L. 91–458, title II, §212, Oct. 16, 1970, 84 Stat. 977; Pub. L. 93–90, §2, Aug. 14, 1973, 87 Stat. 305; Pub. L. 93–633, title II, §205, Jan. 3, 1975, 88 Stat. 2166; Pub. L. 94–56, §3, July 19, 1975, 89 Stat. 263; Pub. L. 94–348, §2(a), July 8, 1976, 90 Stat. 817; Pub. L. 95–574, §2, Nov. 2, 1978, 92 Stat. 2459, authorized appropriations to carry out this chapter, prior to repeal by Pub. L. 96–423, §2, Oct. 10, 1980, 94 Stat. 1811.
 

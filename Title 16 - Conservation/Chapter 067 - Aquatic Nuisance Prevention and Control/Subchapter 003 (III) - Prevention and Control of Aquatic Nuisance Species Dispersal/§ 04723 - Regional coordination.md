@@ -28,7 +28,7 @@
 
 #### (b) Western regional panel
 
-Not later than 30 days after October 26, 1996, the Task Force shall request a Western regional panel, comprised of Western region representatives from Federal, State, and local agencies and from private environmental and commercial interests, to—
+Not later than 30 days after October 26, 1996, the Task Force shall request a Western regional panel, comprised of Western region representatives from Federal, State, and local agencies andfrom private environmental and commercial interests, to—
 
 &emsp;(1) identify priorities for the Western region with respect to aquatic nuisance species;
 

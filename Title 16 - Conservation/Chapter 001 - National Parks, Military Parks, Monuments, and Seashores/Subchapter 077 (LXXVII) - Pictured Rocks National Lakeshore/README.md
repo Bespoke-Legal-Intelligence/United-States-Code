@@ -20,3 +20,4 @@
 - [&sect; 00460s&#8211;12 - Certificate of prohibition of authority for acquisition by condemnation](%C2%A7%2000460s%E2%80%9312%20-%20Certificate%20of%20prohibition%20of%20authority%20for%20acquisition%20by%20condemnation.md)
 - [&sect; 00460s&#8211;13 - Authorization of appropriations](%C2%A7%2000460s%E2%80%9313%20-%20Authorization%20of%20appropriations.md)
 - [&sect; 00460s&#8211;14 - Pictured Rocks National Lakeshore boundary adjustment](%C2%A7%2000460s%E2%80%9314%20-%20Pictured%20Rocks%20National%20Lakeshore%20boundary%20adjustment.md)
+- [&sect; 00460s&#8211;15 - Pictured Rocks National Lakeshore boundary revision](%C2%A7%2000460s%E2%80%9315%20-%20Pictured%20Rocks%20National%20Lakeshore%20boundary%20revision.md)

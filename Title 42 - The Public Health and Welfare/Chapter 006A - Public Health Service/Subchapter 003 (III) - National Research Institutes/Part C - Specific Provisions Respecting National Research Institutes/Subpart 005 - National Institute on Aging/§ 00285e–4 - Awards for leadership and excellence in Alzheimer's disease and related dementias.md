@@ -10,7 +10,7 @@ The Director of the Institute may make awards under this section to researchers 
 
 #### (c) Required recommendation
 
-The Director of the Institute shall make awards under this section only to researchers who have been recommended for such awards by the National Advisory Council on Aging.
+The Director of the Institute shall make awards under this section only to researcherswho have been recommended for such awards by the National Advisory Council on Aging.
 
 #### (d) Selection procedures
 

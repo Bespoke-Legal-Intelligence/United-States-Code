@@ -6,7 +6,7 @@ In furtherance of the purposes of this subchapter, the Secretary is authorized t
 
 #### (b) Establishment of hunting and fishing zones and periods
 
-The Secretary shall permit hunting and fishing on lands and waters under his jurisdiction within the Ozark National Scenic Riverways area in accordance with applicable Federal and State laws. The Secretary may designate zones where, and establish periods when, no hunting shall be permitted, for reasons of public safety, administration, or public use and enjoyment and shall issue regulations after consultation with the Conservation Commission of the State of Missouri.
+The Secretary shall permit hunting and fishing on lands and waters under his jurisdiction within the Ozark National Scenic Riverways area in accordance with applicable Federal and State laws. The Secretary may designate zoneswhere, and establish periods when, no hunting shall be permitted, for reasons of public safety, administration, or public use and enjoyment and shall issue regulations after consultation with the Conservation Commission of the State of Missouri.
 
 (Pub. L. 88–492, §5, Aug. 27, 1964, 78 Stat. 609.)
 

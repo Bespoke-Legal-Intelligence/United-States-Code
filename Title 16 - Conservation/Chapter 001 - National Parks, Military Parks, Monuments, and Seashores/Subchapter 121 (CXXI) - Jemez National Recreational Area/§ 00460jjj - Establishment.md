@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to conserve, protect, and restore the recreational, ecological, cultural, religious, and wildlife resource values of the Jemez Mountains, there is hereby established the Jemez NationalRecreational Area (hereinafter in this subchapter referred to as the “recreation area”), to be administered by the Secretary of Agriculture (hereinafter in this subchapter referred to as the “Secretary”).
+In order to conserve, protect, and restore the recreational, ecological, cultural, religious, and wildlife resource values of the Jemez Mountains, there is hereby established the Jemez National Recreational Area (hereinafter in this subchapter referred to as the “recreation area”), to be administered by the Secretary of Agriculture (hereinafter in this subchapter referred to as the “Secretary”).
 
 #### (b) Area included
 

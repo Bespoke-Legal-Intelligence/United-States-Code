@@ -1,0 +1,76 @@
+### §9605. Regional advisory committees
+
+#### (a) Establishment
+
+Beginning in 2004, the Secretary shall establish a regional advisory committee for each region described in section 9564(b) of this title.
+
+#### (b) Membership
+
+#### (1) Composition
+
+&emsp;The membership of each regional advisory committee shall—
+
+&emsp;&emsp;(A) not exceed 25 members;
+
+&emsp;&emsp;(B) contain a balanced representation of States in the region; and
+
+&emsp;&emsp;(C) include not more than one representative of each State educational agency geographically located in the region.
+
+#### (2) Eligibility
+
+&emsp;The membership of each regional advisory committee may include the following:
+
+&emsp;&emsp;(A) Representatives of local educational agencies, including rural and urban local educational agencies.
+
+&emsp;&emsp;(B) Representatives of institutions of higher education, including individuals representing university-based education research and university-based research on subjects other than education.
+
+&emsp;&emsp;(C) Parents.
+
+&emsp;&emsp;(D) Practicing educators, including classroom teachers, principals, administrators, school board members, and other local school officials.
+
+&emsp;&emsp;(E) Representatives of business.
+
+&emsp;&emsp;(F) Researchers.
+
+#### (3) Recommendations
+
+&emsp;In choosing individuals for membership on a regional advisory committee, the Secretary shall consult with, and solicit recommendations from, the chief executive officers of States, chief State school officers, and education stakeholders within the applicable region.
+
+#### (4) Special rule
+
+#### (A) Total number
+
+&emsp;&emsp;The total number of members on each committee who are selected under subparagraphs (A), (C), and (D) of paragraph (2), collectively, shall exceed the total number of members who are selected under paragraph (1)(C) and subparagraphs (B), (E), and (F) of paragraph (2), collectively.
+
+#### (B) Dissolution
+
+&emsp;&emsp;Each regional advisory committee shall be dissolved by the Secretary after submission of such committee's report described in subsection (c)(2) of this section to the Secretary, but each such committee may be reconvened at the discretion of the Secretary.
+
+#### (c) Duties
+
+Each regional advisory committee shall advise the Secretary on the following:
+
+&emsp;(1) An educational needs assessment of its region (using the results of the assessment conducted under subsection (d) of this section), in order to assist in making decisions regarding the regional educational priorities.
+
+&emsp;(2) Not later than 6 months after the committee is first convened, a report based on the assessment conducted under subsection (d) of this section.
+
+#### (d) Regional assessments
+
+Each regional advisory committee shall—
+
+&emsp;(1) assess the educational needs within the region to be served;
+
+&emsp;(2) in conducting the assessment under paragraph (1), seek input from chief executive officers of States, chief State school officers, educators, and parents (including through a process of open hearings to solicit the views and needs of schools (including public charter schools), teachers, administrators, members of the regional educational laboratory governing board, parents, local educational agencies, librarians, businesses, State educational agencies, and other customers (such as adult education programs) within the region) regarding the need for the activities described in section 9564 of this title and section 9602 of this title and how those needs would be most effectively addressed; and
+
+&emsp;(3) submit the assessment to the Secretary and to the Director of the Academy of Education Sciences, at such time, in such manner, and containing such information as the Secretary may require.
+
+(Pub. L. 107–279, title II, §206, Nov. 5, 2002, 116 Stat. 1979.)
+
+#### Termination of Advisory Committees
+
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided for by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 9602, 9606 of this title.
+

@@ -12,9 +12,17 @@
 
 > unless such percentage is a number less than one, in which case the board may recommend one such officer for promotion.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 180; amended Pub. L. 97–417, §2(4), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629.)
+(c)(1) After selecting the officers to be recommended for promotion, a selection board may recommend officers of particular merit, from among those officers chosen for promotion, to be placed at the top of the list of selectees promulgated by the Secretary under section 271(a) of this title. The number of officers that a board may recommend to be placed at the top of the list of selectees may not exceed the percentages set forth in subsection (b) unless such a percentage is a number less than one, in which case the board may recommend one officer for such placement. No officer may be recommended to be placed at the top of the list of selectees unless he or she receives the recommendation of at least a majority of the members of a board composed of five members, or at least two-thirds of the members of a board composed of more than five members.
+
+(2) The Secretary shall conduct a survey of the Coast Guard officer corps to determine if implementation of this subsection will improve Coast Guard officer retention. A selection board may not make any recommendation under this subsection before the date on which the Secretary publishes a finding, based upon the results of the survey, that implementation of this subsection will improve Coast Guard officer retention.
+
+(3) The Secretary shall submit any finding made by the Secretary pursuant to paragraph (2) to the Committee on Transportation and Infrastructure of the House of Representatives and the Committee on Commerce, Science, and Transportation of the Senate.
+
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 180; amended Pub. L. 97–417, §2(4), Jan. 4, 1983, 96 Stat. 2085; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 107–295, title III, §313(1), Nov. 25, 2002, 116 Stat. 2102.)
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–295 added subsec. (c).
 
 1985—Subsec. (b). Pub. L. 99–145 substituted “rear admiral (lower half)” for “commodore”.
 

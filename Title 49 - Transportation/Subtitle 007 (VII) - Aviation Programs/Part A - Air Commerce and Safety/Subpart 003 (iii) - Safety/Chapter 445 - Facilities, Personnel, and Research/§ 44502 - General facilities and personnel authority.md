@@ -22,7 +22,7 @@ Establishment of program.—The Secretary shall purchase precision approach inst
 
 &emsp;(B)
 
-Authorization.—No less than $30,000,000 of the amounts appropriated under section 48101(a) for each of fiscal years 2000 through 2002 shall be used for the purpose of carrying out this paragraph, including acquisition under new or existing contracts, site preparation work, installation, and related expenditures.
+Authorization.—No less than $30,000,000 of the amounts appropriated under section 48101(a) for each of fiscal years 2000 through 2002 shall be used for the purpose of carrying out this paragraph, including acquisitionunder new or existing contracts, site preparation work, installation, and related expenditures.
 
 (5)
 
@@ -40,7 +40,7 @@ Certification of Necessity.—Except for Government money expended under this pa
 
 (c)
 
-Ensuring Conformity With Plans and Policies.—(1) To ensure conformity with plansand policies for, and allocation of, airspace by the Administrator of the Federal Aviation Administration under section 40103(b)(1) of this title, a military airport, military landing area, or missile or rocket site may be acquired, established, or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator of the Federal Aviation Administration may advise the appropriate committees of Congress and interested departments, agencies, and instrumentalities of the Government on the effect of the acquisition, establishment, construction, or alteration on the use of airspace by aircraft. A disagreement between the Administrator of the Federal Aviation Administration and the Secretary of Defense or the Administrator of the National Aeronautics and Space Administration may be appealed to the President for a final decision.
+Ensuring Conformity With Plans and Policies.—(1) To ensure conformity with plans and policies for, and allocation of, airspace by the Administrator of the Federal Aviation Administration under section 40103(b)(1) of this title, a military airport, military landing area, or missile or rocket site may be acquired, established, or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator of the Federal Aviation Administration may advise the appropriate committees of Congress and interested departments, agencies, and instrumentalities of the Government on the effect of the acquisition, establishment, construction, or alteration on the use of airspace by aircraft. A disagreement between the Administrator of the Federal Aviation Administration and the Secretary of Defense or the Administrator of the National Aeronautics and Space Administration may be appealed to the President for a final decision.
 
 (2) To ensure conformity, an airport or landing area not involving the expenditure of Government money may be established or constructed, or a runway may be altered substantially, only if the Administrator of the Federal Aviation Administration is given reasonable prior notice so that the Administrator may provide advice on the effects of the establishment, construction, or alteration on the use of airspace by aircraft.
 
@@ -144,7 +144,7 @@ Oct. 28, 1991, Pub. L. 102–143, §324, 105 Stat. 943.
 
 Oct. 6, 1992, Pub. L. 102–388, §324, 106 Stat. 1547.
 
-In this section, the words “department, agency, or instrumentality of the United States Government” are substituted for “Federal department or agency” in 49 App.:1348(b), “agencies” in 49 App.:1349(b), and “department or other agency” and “Government department or other agency” in 49 App.:1507 for consistency in the revised title and with other titles of the United States Code.
+In this section, the words “department, agency, or instrumentality of the United States Government” aresubstituted for “Federal department or agency” in 49 App.:1348(b), “agencies” in 49 App.:1349(b), and “department or other agency” and “Government department or other agency” in 49 App.:1507 for consistency in the revised title and with other titles of the United States Code.
 
 In subsections (a)(1), (b), and (c), the word “Administrator” in sections 303(c) (1st sentence), 307(b), 308(a) (1st and 2d sentences) and (b), and 309 of the Federal Aviation Act of 1958 (Public Law 85–726, 72 Stat. 750, 751) is retained on authority of 49:106(g).
 
@@ -154,7 +154,7 @@ In subsection (a)(2), the words “by the Secretary” and “to the Secretary�
 
 In subsection (a)(3), the words “subject to such regulations, supervision, and review as he may prescribe” are omitted because of 49:322(a). The words “from time to time make such provision as he shall deem appropriate” are omitted as surplus. The words “duty or power” are substituted for “function” for consistency in the revised title and with other titles of the Code. The words “the head of” are added for clarity and consistency.
 
-In subsection (b), the words “(whether or not in cooperation with State or other local governmental agencies)” and “thereon” are omitted as surplus. The words “landing area” are omitted as being included in the definition of “air navigation facility” in section 40102(a) of the revised title. The words “recommendation and” are omitted as surplus. The words “underregulations prescribed by him” are omitted because of 49:322(a). The word “proposed” is omitted as surplus. The word “acquired” is added for consistency in this subsection.
+In subsection (b), the words “(whether or not in cooperation with State or other local governmental agencies)” and “thereon” are omitted as surplus. The words “landing area” are omitted as being included in the definition of “air navigation facility” in section 40102(a) of the revised title. The words “recommendation and” are omitted as surplus. The words “under regulations prescribed by him” are omitted because of 49:322(a). The word “proposed” is omitted as surplus. The word “acquired” is added for consistency in this subsection.
 
 In subsection (c)(1), the words “In order”, “layout”, and “In case of . . . the matter” are omitted as surplus. The words “Secretary of Defense” are substituted for “Department of Defense” because of 10:133(a). The words “the Administrator of” are added because of 42:2472(a).
 
@@ -224,7 +224,7 @@ Certification.—Not later than 180 days after the conclusion of work under the 
 
 #### Transfer by Airports of Instrument Landing Systems and Associated Equipment to Federal Aviation Administration
 
-Pub. L. 107–87, title III, §313, Dec. 18, 2001, 115 Stat. 858, provided that: “Notwithstanding any other provision of law, airports may transfer, without consideration, to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assisted by a Federal airport-aid program, airport development aid program or airport improvement program grant: <i>Provided</i>, That, the Federal Aviation Administration shall accept such equipment, which shall thereafter be operated and maintained by FAA in accordance with agency criteria.”
+Pub. L. 107–87, title III, §313, Dec. 18, 2001, 115 Stat. 858, provided that: “Notwithstanding any other provision of law, airports may transfer, without consideration, to the Federal Aviation Administration (FAA) instrument landing systems (along with associated approach lighting equipment and runway visual range equipment) which conform to FAA design and performance specifications, the purchase of which was assistedby a Federal airport-aid program, airport development aid program or airport improvement program grant: <i>Provided</i>, That, the Federal Aviation Administration shall accept such equipment, which shall thereafter be operated and maintained by FAA in accordance with agency criteria.”
 
 Similar provisions were contained in the following prior appropriation acts:
 
@@ -244,7 +244,7 @@ Pub. L. 103–331, title III, §317, Sept. 30, 1994, 108 Stat. 2491, repealed by
 
 #### Cost Savings Associated With Purchase
 
-Section 120(b) of Pub. L. 103–305 provided that: “Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shall establish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrativecosts) of the Administrator by an airport sponsor using grants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted.”
+Section 120(b) of Pub. L. 103–305 provided that: “Notwithstanding other provisions of law or regulations to the contrary, the Administrator \[of the Federal Aviation Administration\] shall establish, within 120 days after the date of the enactment of this Act \[Aug. 23, 1994\], a process through which airport sponsors may take advantage of cost savings associated with the purchase and installation of instrument landing systems, along with associated equipment, under existing or future Federal Aviation Administration contracts. The process established by the Administrator may provide for the direct reimbursement (including administrative costs) of the Administrator by an airport sponsor using grants funds under subchapter I of chapter 471 of subtitle VII of title 49, United States Code, relating to airport improvement, for the ordering of such equipment and installation or for the direct ordering of such equipment and installation by an airport sponsor, using such grant funds, from the suppliers with which the Administrator has contracted.”
 
 #### Grandfather Provision for FAA Demonstration Project
 
@@ -300,5 +300,5 @@ Study of Recruitment and Retention Incentives.—The Administrator of the Federa
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40119, 46301, 48101, 48104, 50101, 50102, 50105 of this title.
+This section is referred to in sections 106, 46301, 48101, 48104, 50101, 50102, 50105 of this title.
 

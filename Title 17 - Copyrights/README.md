@@ -1,5 +1,5 @@
 
-17 U.S.C.<br>United States Code, 2001 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
+17 U.S.C.<br>United States Code, 2002 Edition<br>Title 17 - COPYRIGHTS<br>From the U.S. Government Publishing Office, www.gpo.gov
 
 # TITLE 17—COPYRIGHTS
 
@@ -591,7 +591,7 @@ Section 103 of Pub. L. 94–553, Oct. 19, 1976, 90 Stat. 2599, provided that: �
 
 #### Title Referred to in Other Sections
 
-This title is referred to in title 2 sections 179p, 1704, 1711; title 11 section 101; title 15 section 1129; title 18 sections 2319, 2319A; title 19 section 1337; title 20 section 6055b; title 26 section 543; title 47 sections 542, 544, 605.
+This title is referred to in title 2 sections 179p, 1704, 1711; title 11 section 101; title 15 section 1129; title 18 sections 2319, 2319A; title 19 section 1337; title 20 section 9582; title 26 section 543; title 47 sections 542, 544, 605.
 
 
 ---

@@ -14,28 +14,6 @@
 
 &emsp;&emsp;(ii) the total amount of wages subject to such tax during such year.
 
-(3)(A) Notwithstanding any other provision of this section, for purposes of carrying out this subsection with respect to any excess amount (referred to in paragraph (1)) remaining in the employment security administration account as of the close of fiscal year 1999, 2000, or 2001, such amount shall—
-
-&emsp;(i) to the extent of any amounts not in excess of $100,000,000, be subject to subparagraph (B), and
-
-&emsp;(ii) to the extent of any amounts in excess of $100,000,000, be subject to subparagraph (C).
-
-(B) Paragraphs (1) and (2) shall apply with respect to any amounts described in subparagraph (A)(i), except that—
-
-&emsp;(i) in carrying out the provisions of paragraph (2)(B) with respect to such amounts (to determine the portion of such amounts which is to be allocated to a State for a succeeding fiscal year), the ratio to be applied under such provisions shall be the same as the ratio that—
-
-&emsp;&emsp;(I) the amount of funds to be allocated to such State for such fiscal year pursuant to the base allocation formula under subchapter III of this chapter, bears to
-
-&emsp;&emsp;(II) the total amount of funds to be allocated to all States for such fiscal year pursuant to the base allocation formula under subchapter III of this chapter,
-
-> &emsp;as determined by the Secretary of Labor, and
-
-&emsp;(ii) the amounts allocated to a State pursuant to this subparagraph shall be available to such State, subject to the last sentence of subsection (c)(2) of this section.
-
-> Nothing in this paragraph shall preclude the application of subsection (b) of this section with respect to any allocation determined under this subparagraph.
-
-(C) Any amounts described in clause (ii) of subparagraph (A) (remaining in the employment security administration account as of the close of any fiscal year specified in such subparagraph) shall, as of the beginning of the succeeding fiscal year, accrue to the Federal unemployment account, without regard to the limit provided in section 1102(a) of this title.
-
 #### (b) Transfer of funds where State is ineligible
 
 (1) If the Secretary of Labor finds that on October 1 of any fiscal year—
@@ -78,8 +56,6 @@
 
 &emsp;(E) the use of the money is accounted for in accordance with standards established by the Secretary of Labor.
 
-> Any amount allocated to a State under this section for fiscal year 2000, 2001, or 2002 may be used by such State only to pay expenses incurred by it for the administration of its unemployment compensation law, and may be so used by it without regard to any of the conditions prescribed in any of the preceding provisions of this paragraph.
-
 (3)(A) If—
 
 &emsp;(i) amounts transferred to the account of a State pursuant to subsections (a) and (b) of this section were used in payment of unemployment benefits to individuals; and
@@ -94,17 +70,79 @@
 
 (D) If the Secretary of Labor determines that the requirements of this paragraph are met with respect to any request, the Secretary shall notify the Governor of the State that such requirements are met with respect to such request and the amount restored under this paragraph. Such restoration shall be as of the first day of the first month following the month in which the notification is made.
 
-(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 974; Pub. L. 88–31, §3, May 29, 1963, 77 Stat. 51; Pub. L. 90–430, July 26, 1968, 82 Stat. 447; Pub. L. 91–373, title III, §305(b), Aug. 10, 1970, 84 Stat. 717; Pub. L. 92–224, §1, title II, §204(c), Dec. 29, 1971, 85 Stat. 810, 814; Pub. L. 92–329, §2(d), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, §4(b), Aug. 7, 1974, 88 Stat. 420; Pub. L. 94–273, §§2(20), 3(23), 23, 41, Apr. 21, 1976, 90 Stat. 375, 377, 379, 381; Pub. L. 97–248, title I, §192, Sept. 3, 1982, 96 Stat. 408; Pub. L. 100–203, title IX, §9155(c), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 101–508, title V, §5021(a), (b), Nov. 5, 1990, 104 Stat. 1388–223; Pub. L. 105–33, title V, §5403, Aug. 5, 1997, 111 Stat. 603.)
+#### (d) Special transfer in fiscal year 2002
+
+(1) The Secretary of the Treasury shall transfer (as of the date determined under paragraph (5)) from the Federal unemployment account to the account of each State in the Unemployment Trust Fund the amount determined with respect to such State under paragraph (2).
+
+(2)(A) The amount to be transferred under this subsection to a State account shall (as determined by the Secretary of Labor and certified by such Secretary to the Secretary of the Treasury) be equal to—
+
+&emsp;(i) the amount which would have been required to have been transferred under this section to such account at the beginning of fiscal year 2002 if—
+
+&emsp;&emsp;(I) section 209(a)(1) of the Temporary Extended Unemployment Compensation Act of 2002 had been enacted before the close of fiscal year 2001, and
+
+&emsp;&emsp;(II) section 5402 of Public Law 105–33 (relating to increase in Federal unemployment account ceiling) had not been enacted,
+
+> &emsp;minus
+
+&emsp;(ii) the amount which was in fact transferred under this section to such account at the beginning of fiscal year 2002.
+
+(B) Notwithstanding the provisions of subparagraph (A)—
+
+&emsp;(i) the aggregate amount transferred to the States under this subsection may not exceed a total of $8,000,000,000; and
+
+&emsp;(ii) all amounts determined under subparagraph (A) shall be reduced ratably, if and to the extent necessary in order to comply with the limitation under clause (i).
+
+(3)(A) Except as provided in paragraph (4), amounts transferred to a State account pursuant to this subsection may be used only in the payment of cash benefits—
+
+&emsp;(i) to individuals with respect to their unemployment, and
+
+&emsp;(ii) which are allowable under subparagraph (B) or (C).
+
+(B)(i) At the option of the State, cash benefits under this paragraph may include amounts which shall be payable as—
+
+&emsp;(I) regular compensation, or
+
+&emsp;(II) additional compensation, upon the exhaustion of any temporary extended unemployment compensation (if such State has entered into an agreement under the Temporary Extended Unemployment Compensation Act of 2002), for individuals eligible for regular compensation under the unemployment compensation law of such State.
+
+(ii) Any additional compensation under clause (i) may not be taken into account for purposes of any determination relating to the amount of any extended compensation for which an individual might be eligible.
+
+(C)(i) At the option of the State, cash benefits under this paragraph may include amountswhich shall be payable to 1 or more categories of individuals not otherwise eligible for regular compensation under the unemployment compensation law of such State, including those described in clause (iii).
+
+(ii) The benefits paid under this subparagraph to any individual may not, for any period of unemployment, exceed the maximum amount of regular compensation authorized under the unemployment compensation law of such State for that same period, plus any additional compensation (described in subparagraph (B)(i)) which could have been paid with respect to that amount.
+
+(iii) The categories of individuals described in this clause include the following:
+
+&emsp;(I) Individuals who are seeking, or available for, only part-time (and not full-time) work.
+
+&emsp;(II) Individuals who would be eligible for regular compensation under the unemployment compensation law of such State under an alternative base period.
+
+(D) Amounts transferred to a State account under this subsection may be used in the payment of cash benefits to individuals only for weeks of unemployment beginning after March 9, 2002.
+
+(4) Amounts transferred to a State account under this subsection may be used for the administration of its unemployment compensation law and public employment offices (including in connection with benefits described in paragraph (3) and any recipients thereof), subject to the same conditions as set forth in subsection (c)(2) of this section (excluding subparagraph (B) thereof, and deeming the reference to “subsections (a) and (b)” in subparagraph (D) thereof to include this subsection).
+
+(5) Transfers under this subsection shall be made within 10 days after March 9, 2002.
+
+(Aug. 14, 1935, ch. 531, title IX, §903, as added Aug. 5, 1954, ch. 657, §2, 68 Stat. 670; amended Pub. L. 86–778, title V, §521, Sept. 13, 1960, 74 Stat. 974; Pub. L. 88–31, §3, May 29, 1963, 77 Stat. 51; Pub. L. 90–430, July 26, 1968, 82 Stat. 447; Pub. L. 91–373, title III, §305(b), Aug. 10, 1970, 84 Stat. 717; Pub. L. 92–224, §1, title II, §204(c), Dec. 29, 1971, 85 Stat. 810, 814; Pub. L. 92–329, §2(d), June 30, 1972, 86 Stat. 398; Pub. L. 93–368, §4(b), Aug. 7, 1974, 88 Stat. 420; Pub. L. 94–273, §§2(20), 3(23), 23, 41, Apr. 21, 1976, 90 Stat. 375, 377, 379, 381; Pub. L. 97–248, title I, §192, Sept. 3, 1982, 96 Stat. 408; Pub. L. 100–203, title IX, §9155(c), Dec. 22, 1987, 101 Stat. 1330–327; Pub. L. 101–508, title V, §5021(a), (b), Nov. 5, 1990, 104 Stat. 1388–223; Pub. L. 105–33, title V, §5403, Aug. 5, 1997, 111 Stat. 603; Pub. L. 107–147, title II, §209(a)(1), (b), Mar. 9, 2002, 116 Stat. 31.)
 
 #### References in Text
 
 The Internal Revenue Code of 1986, referred to in subsec. (a)(2)(B)(i), is classified generally to Title 26, Internal Revenue Code.
+
+The Temporary Extended Unemployment Compensation Act of 2002, referred to in subsec. (d)(2)(A)(i)(I), (3)(B)(i)(II), is title II of Pub. L. 107–147, Mar. 9, 2002, 116 Stat. 26, which is set out as a note under section 3304 of Title 26, Internal Revenue Code. Section 209(a)(1) of the Act amended this section. For complete classification of this Act to the Code, see Tables.
+
+Section 5402 of Public Law 105–33, referred to in subsec. (d)(2)(A)(i)(II), is section 5402 of Pub. L. 105–33, title V, Aug. 5, 1997, 111 Stat. 603, which amended section 1102 of this title and enacted provisions set out as a note under section 1102 of this title.
 
 #### Prior Provisions
 
 A prior section 1103, act Aug. 14, 1935, ch. 531, title IX, §903, 49 Stat. 640, related to approval and certification of State laws. For further details, see Prior Law note set out preceding section 1101 of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(3). Pub. L. 107–147, §209(a)(1)(A), struck out par. (3) which related to disposition of excess amounts remaining in the employment security administration account as of the close of fiscal year 1999, 2000, or 2001.
+
+Subsec. (c)(2). Pub. L. 107–147, §209(a)(1)(B), struck out concluding provisions which read as follows: “Any amount allocated to a State under this section for fiscal year 2000, 2001, or 2002 may be used by such State only to pay expenses incurred by it for the administration of its unemployment compensation law, and may be so used by it without regard to any of the conditions prescribed in any of the preceding provisions of this paragraph.”
+
+Subsec. (d). Pub. L. 107–147, §209(b), added subsec. (d).
 
 1997—Subsec. (a)(3). Pub. L. 105–33, §5403(a), added par. (3).
 
@@ -134,9 +172,9 @@ Subsec. (b)(1). Pub. L. 94–273, §3(23), substituted “October” for “July
 
 Subsec. (c)(2). Pub. L. 94–273, §41, in subpar. (D) and provisions following subpar. (D) substituted provisions relating to determination based on a twelve-month period (as prescribed in the law of the State), or during a transitional period of less than twelve months caused by a change in the twelve-month period (as prescribed in the law of the State), for provisions relating to determination based on a fiscal year period.
 
-1974—Subsec. (b)(3). Pub. L. 93–368 struck out par. (3) which related to reductions in the amount transferable to the account of any State by reason of emergency compensation paid to any individual for a week of unemployment ending after June 30, 1972.
+1974—Subsec. (b)(3). Pub. L. 93–368 struck out par. (3) which related to reductions in the amount transferable to the account of any State by reason of emergencycompensation paid to any individual for a week of unemployment ending after June 30, 1972.
 
-1972—Subsec. (b)(3). Pub. L. 92–329 inserted provisions relating to reductions in the amount transferable tothe account of any State by reason of emergency compensation paid to any individual for a week of unemployment ending after June 30, 1972.
+1972—Subsec. (b)(3). Pub. L. 92–329 inserted provisions relating to reductions in the amount transferable to the account of any State by reason of emergency compensation paid to any individual for a week of unemployment ending after June 30, 1972.
 
 1971—Subsec. (b)(3). Pub. L. 92–224, §204(c), added par. (3).
 
@@ -164,5 +202,5 @@ Section 9155(d) of Pub. L. 100–203 provided that: “The amendments made by th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 503, 1321 of this title; title 26 sections 3304, 3306; title 29 section 2943.
+This section is referred to in sections 503, 1321 of this title; title 26 sections 3304, 3306; title 29 section 2943; title 45 section 363.
 

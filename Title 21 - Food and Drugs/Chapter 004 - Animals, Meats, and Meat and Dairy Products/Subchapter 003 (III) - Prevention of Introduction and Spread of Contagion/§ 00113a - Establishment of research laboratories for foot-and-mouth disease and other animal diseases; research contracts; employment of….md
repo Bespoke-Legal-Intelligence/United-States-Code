@@ -6,7 +6,7 @@ The Secretary of Agriculture is authorized to establish research laboratories, i
 
 #### Codification
 
-Provisions that authorized the Secretary to employ technical experts and scientists “without regard to the Classification Act”, meaning the Classification Act of 1923, were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Act should be held and considered to mean the 1949 Act, it did not have the effect of continuing the exception contained in this section because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632 (the first section of which revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
+Provisions that authorized the Secretary to employ technical experts and scientists “without regard to the Classification Act”, meaning the Classification Act of 1923, were omitted as obsolete. Sections 1202 and 1204 of the Classification Act of 1949, 63 Stat. 972, 973, repealed the 1923 Act and all laws or parts of laws inconsistent with the 1949 Act. While section 1106(a) of the 1949 Act provided that references in other laws to the 1923 Actshould be held and considered to mean the 1949 Act, it did not have the effect of continuing the exception contained in this section because of section 1106(b) which provided that the application of the 1949 Act to any position, officer, or employee shall not be affected by section 1106(a). The Classification Act of 1949 was repealed by Pub. L. 89–554, Sept. 6, 1966, §8(a), 80 Stat. 632 (the first section of which revised and enacted Title 5, Government Organization and Employees, into law). Section 5102 of Title 5 contains the applicability provisions of the 1949 Act, and section 5103 of Title 5 authorizes the Office of Personnel Management to determine the applicability to specific positions and employees.
 
 #### Amendments
 
@@ -30,5 +30,5 @@ References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rat
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 113, 114, 118, 119, 136a of this title; title 16 section 1540.
+This section is referred to in sections 113, 114, 118, 119, 136a of this title.
 

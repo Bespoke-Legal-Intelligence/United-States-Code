@@ -16,7 +16,7 @@ It is the policy of the United States not to provide nonhumanitarian, nontrade-r
 
 &emsp;&emsp;(A) a list of those countries, if any, to which the minimum standards for the elimination of trafficking are applicable and whose governments fully comply with such standards;
 
-&emsp;&emsp;(B) a list of those countries, if any, to which the minimum standards for the elimination of trafficking are applicable andwhose governments do not yet fully comply with such standards but are making significant efforts to bring themselves into compliance; and
+&emsp;&emsp;(B) a list of those countries, if any, to which the minimum standards for the elimination of trafficking are applicable and whose governments do not yet fully comply with such standards but are making significant efforts to bring themselves into compliance; and
 
 &emsp;&emsp;(C) a list of those countries, if any, to which the minimum standards for the elimination of trafficking are applicable and whose governments do not fully comply with such standards and are not making significant efforts to bring themselves into compliance.
 
@@ -72,7 +72,7 @@ The determinations referred to in subsection (c) of this section are the followi
 
 #### (4) Continuation of assistance in the national interest
 
-&emsp;Notwithstanding the failure of the government of the country to comply with minimum standards for the elimination of trafficking and to make significant efforts to bring itself into compliance, the President has determined that the provision to the country of nonhumanitarian, nontrade-related foreign assistance, or the multilateral assistance described in paragraph (1)(B), or both, would promotethe purposes of this chapter or is otherwise in the national interest of the United States.
+&emsp;Notwithstanding the failure of the government of the country to comply with minimum standards for the elimination of trafficking and to make significant efforts to bring itself into compliance, the President has determined that the provision to the country of nonhumanitarian, nontrade-related foreign assistance, or the multilateral assistance described in paragraph (1)(B), or both, would promote the purposes of this chapter or is otherwise in the national interest of the United States.
 
 #### (5) Exercise of waiver authority
 

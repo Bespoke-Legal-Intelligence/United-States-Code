@@ -16,5 +16,5 @@
 
 #### References in Text
 
-Sections 702, 703, and 704(a)(1) of the Ethics Reform Act of 1989, referred to in par. (3)(B), (C), are sections 702, 703, and 704(a)(1) of Pub. L. 101–194 which are set out as notes under sections 5303 and 5318 of Title 5, Government Organization and Employees.
+Sections 702, 703, and 704(a)(1) of the Ethics Reform Act of 1989, referred to in par. (3)(B), (C), are sections702, 703, and 704(a)(1) of Pub. L. 101–194 which are set out as notes under sections 5303 and 5318 of Title 5, Government Organization and Employees.
 

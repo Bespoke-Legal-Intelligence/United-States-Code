@@ -92,7 +92,7 @@ In carrying out the functions set forth in subsection (d) of this section, the A
 
 #### (f) Oversight of regulations promulgated by other agencies relating to procurement
 
-The Administrator, with the concurrence of the Director of the Office of Management and Budget, and with consultation with the head of the agency or agencies concerned, may deny the promulgation of or rescind any Government-wide regulation or final rule or regulation of any executive agency relating to procurement if the Administrator determines that such rule or regulation is inconsistent with any policies, regulations, or procedures issued pursuant to subsection (a) of this section.
+The Administrator, with the concurrence of the Director of the Office of Management andBudget, and with consultation with the head of the agency or agencies concerned, may deny the promulgation of or rescind any Government-wide regulation or final rule or regulation of any executive agency relating to procurement if the Administrator determines that such rule or regulation is inconsistent with any policies, regulations, or procedures issued pursuant to subsection (a) of this section.
 
 #### (g) Assignment, delegation, or transfer of functions prohibited
 
@@ -102,7 +102,7 @@ Except as otherwise provided by law, no duties, functions, or responsibilities, 
 
 Nothing in this chapter shall be construed to—
 
-&emsp;(1) impair or affect the authorities or responsibilities conferred by the Federal Property and Administrative Services Act of 1949 \[41 U.S.C. 251 et seq.\] with respect to the procurement of real property; or
+&emsp;(1) impair or affect the authorities or responsibilities conferred by the Federal Property and Administrative Services Act of 1949 <sup>1</sup> with respect to the procurement of real property; or
 
 &emsp;(2) limit the current authorities and responsibilities of the Director of the Office of Management and Budget.
 
@@ -142,7 +142,7 @@ The Administrator shall submit to Congress, on an annual basis, an assessment of
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to contracts are classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (h)(1), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of this title, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 
@@ -198,7 +198,7 @@ Subsec. (k). Pub. L. 103–355, §5051(b), added subsec. (k).
 
 1988—Subsec. (a). Pub. L. 100–679, §3(a)(1), substituted “procurement policies. These policies shall be implemented in a single Government-wide procurement regulation called the Federal Acquisition Regulation and shall be” for “procurement policies which shall be implemented in the single system of Government-wide procurement regulations and shall be”.
 
-Subsec. (b). Pub. L. 100–679, §3(a)(2), inserted “, including any such regulations, procedures, andforms as are necessary to implement prescribed policy initiated by the Administrator under subsection (a) of this section,” after “timely manner” and substituted “Administrator shall” for “Administrator may”.
+Subsec. (b). Pub. L. 100–679, §3(a)(2), inserted “, including any such regulations, procedures, and forms as are necessary to implement prescribed policy initiated by the Administrator under subsection (a) of this section,” after “timely manner” and substituted “Administrator shall” for “Administrator may”.
 
 Subsec. (d)(4). Pub. L. 100–679, §3(a)(3), added par. (4) and struck out former par. (4) which read as follows: “providing for a computer-based Federal Procurement Data System which shall be located in the General Services Administration (acting as executive agent for the Administrator) and shall collect, develop, and disseminate procurement data;”.
 
@@ -232,7 +232,7 @@ Amendment by Pub. L. 105–135 effective Oct. 1, 1997, see section 3 of Pub. L. 
 
 For effective date and applicability of amendment by sections 4307(b), 4321(h)(1), (2), and 4322(a)(1) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
-Amendment by section 5607(d) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by section 5607(d) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
 #### Effective Date of 1994 Amendment
 
@@ -344,7 +344,7 @@ Procedures and Schedule.—(1) The Administrator for Federal Procurement Policy 
 
 “(d)
 
-Report.—Not later than May 1, 1996, the Administrator for Federal Procurement Policy shall submit to the Committees on Small Business of the Senate and the House of Representatives a report on the results of the review carried out under subsection (a) and the actions taken under subsection (b). The report shall include a discussion of the results of the review, a description of the consultations conducted and public comments received, and the Administrator's recommendations with regard to the matters identified under subsection (b).”
+Report.—Not later than May 1, 1996, the Administrator for Federal Procurement Policy shall submitto the Committees on Small Business of the Senate and the House of Representatives a report on the results of the review carried out under subsection (a) and the actions taken under subsection (b). The report shall include a discussion of the results of the review, a description of the consultations conducted and public comments received, and the Administrator's recommendations with regard to the matters identified under subsection (b).”
 
 #### Data Collection Through Federal Procurement Data System
 
@@ -383,4 +383,6 @@ Contractors’ Financial Data.—The methodology developed under subsection (a) 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 408, 417, 421, 422 of this title; title 18 section 4124; title 31 section 6202; title 50 App. section 2154.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ The Secretary of the Army, acting through the Chief of Engineers, is authorized 
 
 #### (b) Local cooperation requirements based on certain estimated Federal first cost of construction
 
-Any water resource development project authorized to be constructed by this section shallbe subject to the same requirements of local cooperation as it would be if the estimated Federal first cost of such project were $15,000,000 or more.
+Any water resource development project authorized to be constructed by this section shall be subject to the same requirements of local cooperation as it would be if the estimated Federal first cost of such project were $15,000,000 or more.
 
 (Pub. L. 89–298, title II, §201, Oct. 27, 1965, 79 Stat. 1073; Pub. L. 94–587, §131, Oct. 22, 1976, 90 Stat. 2928; Pub. L. 103–437, §15(d), Nov. 2, 1994, 108 Stat. 4592.)
 

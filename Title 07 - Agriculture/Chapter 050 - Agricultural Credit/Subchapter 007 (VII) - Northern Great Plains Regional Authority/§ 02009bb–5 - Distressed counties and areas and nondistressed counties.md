@@ -1,0 +1,62 @@
+### §2009bb–5. Distressed counties and areas and nondistressed counties
+
+#### (a) Designations
+
+Not later than 90 days after May 13, 2002, and annually thereafter, the Authority, in accordance with such criteria as the Authority may establish, shall designate—
+
+&emsp;(1) as distressed counties, counties in the region that are the most severely and persistently distressed and underdeveloped and have high rates of poverty, unemployment, or outmigration;
+
+&emsp;(2) as nondistressed counties, counties in the region that are not designated as distressed counties under paragraph (1); and
+
+&emsp;(3) as isolated areas of distress, areas located in nondistressed counties (as designated under paragraph (2)) that have high rates of poverty, unemployment, or outmigration.
+
+#### (b) Distressed counties
+
+#### (1) In general
+
+&emsp;The Authority shall allocate at least 75 percent of the appropriations made available under section 2009bb–12 of this title for programs and projects designed to serve the needs of distressed counties and isolated areas of distress in the region.
+
+#### (2) Funding limitations
+
+&emsp;The funding limitations under section 2009bb–3(b) of this title shall not apply to a project to provide transportation or telecommunication or basic public services to residents of 1 or more distressed counties or isolated areas of distress in the region.
+
+#### (c) Nondistressed counties
+
+#### (1) In general
+
+&emsp;Except as provided in paragraph (2), no funds shall be provided under this subchapter for a project located in a county designated as a nondistressed county under subsection (a)(2) of this section.
+
+#### (2) Exceptions
+
+#### (A) In general
+
+&emsp;&emsp;The funding prohibition under paragraph (1) shall not apply to grants to fund the administrative expenses of local development districts under section 2009bb–4(b) of this title.
+
+#### (B) Multicounty projects
+
+&emsp;&emsp;The Authority may waive the application of the funding prohibition under paragraph (1) to—
+
+&emsp;&emsp;&emsp;(i) a multicounty project that includes participation by a nondistressed county; or
+
+&emsp;&emsp;&emsp;(ii) any other type of project;
+
+> &emsp;&emsp;if the Authority determines that the project could bring significant benefits to areas of the region outside a nondistressed county.
+
+#### (C) Isolated areas of distress
+
+&emsp;&emsp;For a designation of an isolated area of distress for assistance to be effective, the designation shall be supported—
+
+&emsp;&emsp;&emsp;(i) by the most recent Federal data available; or
+
+&emsp;&emsp;&emsp;(ii) if no recent Federal data are available, by the most recent data available through the government of the State in which the isolated area of distress is located.
+
+#### (d) Transportation, telecommunication, and basic public infrastructure
+
+The Authority shall allocate at least 50 percent of any funds made available under section 2009bb–12 of this title for transportation, telecommunication, and basic public infrastructure projects authorized under paragraphs (1) and (3) of section 2009bb–2(a) of this title.
+
+(Pub. L. 87–128, title III, §383F, as added Pub. L. 107–171, title VI, §6028, May 13, 2002, 116 Stat. 384.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2009bb–3 of this title.
+

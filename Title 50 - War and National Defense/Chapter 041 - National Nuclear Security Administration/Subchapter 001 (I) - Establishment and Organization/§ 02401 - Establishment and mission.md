@@ -80,7 +80,7 @@ Definitions.—In this section:
 
 &emsp;“(1) The terms ‘Secretary’ and ‘Secretary of Energy’ mean the Secretary of Energy, acting after consideration of the recommendations of the Administrator for Nuclear Security.
 
-&emsp;“(2) The term ‘nuclear weapons complex’ means the national security laboratories and nuclear weapons production facilities (as such terms are defined in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471)) and the facilities of the Naval Nuclear Propulsion Program provided for under the Naval Nuclear Propulsion Executive Order (as such term is defined in section 3216 of such Act (50 U.S.C. 2406)).”
+&emsp;“(2) The term ‘nuclear weapons complex’ means the national security laboratories and nuclear weaponsproduction facilities (as such terms are defined in section 3281 of the National Nuclear Security Administration Act (50 U.S.C. 2471)) and the facilities of the Naval Nuclear Propulsion Program provided for under the Naval Nuclear Propulsion Executive Order (as such term is defined in section 3216 of such Act (50 U.S.C. 2406)).”
 
 #### Study and Report Related to Improving Mission Effectiveness, Partnerships, and Technology Transfer at National Security Laboratories and Nuclear Weapons Production Facilities
 

@@ -2,7 +2,7 @@
 
 #### (a) Vocational rehabilitation services for individuals
 
-Vocational rehabilitation services provided under this subchapter are any services described in an individualized plan for employment necessary to assist an individual with a disability in preparing for, securing, retaining, or regaining an employment outcome that is consistent with the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individual, including—
+Vocational rehabilitation services provided under this subchapter are any services describedin an individualized plan for employment necessary to assist an individual with a disability in preparing for, securing, retaining, or regaining an employment outcome that is consistent with the strengths, resources, priorities, concerns, abilities, capabilities, interests, and informed choice of the individual, including—
 
 &emsp;(1) an assessment for determining eligibility and vocational rehabilitation needs by qualified personnel, including, if appropriate, an assessment by personnel skilled in rehabilitation technology;
 

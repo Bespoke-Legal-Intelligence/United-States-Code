@@ -53,7 +53,14 @@
 | [1305\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20A%20-%20Definitions%2C%20Loans%2C%20Parity%20Payments%2C%20and%20Consumer%20Safeguards/%C2%A7%2001305%20-%20Transfer%20of%20acreage%20allotments%20or%20feed%20grain%20bases%20on%20public%20lands%20upon%20request%20of%20State%20agencies.md) | Transfer of acreage allotments or feed grain bases on public lands upon request of State agencies. |
 | [1306\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20A%20-%20Definitions%2C%20Loans%2C%20Parity%20Payments%2C%20and%20Consumer%20Safeguards/%C2%A7%2001306%20-%20Projected%20yields%3B%20determination%3B%20base%20period.md) | Projected yields; determination; base period. |
 | [1307\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20A%20-%20Definitions%2C%20Loans%2C%20Parity%20Payments%2C%20and%20Consumer%20Safeguards/%C2%A7%2001307%20-%20Limitation%20on%20payments%20under%20wheat%2C%20feed%20grains%2C%20and%20cotton%20programs%20for%201974%20through%201977%20crops.md) | Limitation on payments under wheat, feed grains, and cotton programs for 1974 through 1977 crops. |
-| [1308\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20A%20-%20Definitions%2C%20Loans%2C%20Parity%20Payments%2C%20and%20Consumer%20Safeguards/%C2%A7%2001308%20-%20Payment%20limitations%20production%20flexibility%20contracts%2C%20marketing%20loan%20gains%20and%20deficiencies%2C%20contract%20commodities%20and%20oilseeds%3B%20regulations.md) | Payment limitations: production flexibility contracts, marketing loan gains and deficiencies, contract commodities and oilseeds; regulations. |
+| [1308\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20A%20-%20Definitions%2C%20Loans%2C%20Parity%20Payments%2C%20and%20Consumer%20Safeguards/%C2%A7%2001308%20-%20Payment%20limitations.md) | Payment limitations. |
+| (a) | Definitions. |
+| (b) | Limitation on direct payments. |
+| (c) | Limitation on counter-cyclical payments. |
+| (d) | Limitation on marketing loan gains and loan deficiency payments. |
+| (e) | Definition of person. |
+| (f) | Public schools. |
+| (g) | Time limits; reliance. |
 | 1308–1. | Prevention of creation of entities to qualify as separate persons; payments limited to active farmers. |
 | (a) | Prevention of creation of entities to qualify as separate persons. |
 | (b) | Payments limited to active farmers. |
@@ -62,6 +69,12 @@
 | (a) | In general. |
 | (b) | Corporations or other entities. |
 | (c) | Prospective application. |
+| 1308–3a. | Adjusted gross income limitation. |
+| (a) | Definition of average adjusted gross income. |
+| (b) | Limitation. |
+| (c) | Certification. |
+| (d) | Commensurate reduction. |
+| (e) | Effective period. |
 | 1308–4. | Education program. |
 | (a) | In general. |
 | (b) | Training. |
@@ -263,7 +276,7 @@ I74subpart i—marketing quotas—tobacco
 | (f) | Additional terms and conditions. |
 | (g) | Regulations. |
 | (h) | Commodity Credit Corporation funds and authorization of appropriations for payments and administrative expenses. |
-| [1339a.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20003%20%28iii%29%20-%20Marketing%20Quotas%E2%80%94Wheat/%C2%A7%2001339a%20-%20Good%20faith%20reliance.md) | Good faith reliance. |
+| [1339a.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20003%20%28iii%29%20-%20Marketing%20Quotas%E2%80%94Wheat/%C2%A7%2001339a%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20I%2C%20%C2%A71613%28j%29%281%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20221.md) | Repealed. |
 | [1339b.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20003%20%28iii%29%20-%20Marketing%20Quotas%E2%80%94Wheat/%C2%A7%2001339b%20-%20Wheat%20diversion%20programs%3B%20credits%20in%20establishment%20of%20State%2C%20county%20and%20farm%20acreage%20allotments%20for%20wheat.md) | Wheat diversion programs; credits in establishment of State, county and farm acreage allotments for wheat. |
 | [1339c.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20003%20%28iii%29%20-%20Marketing%20Quotas%E2%80%94Wheat/%C2%A7%2001339c%20-%20Feed%20grains%20diversion%20programs%20for%201964%20and%20subsequent%20years%3B%20feed%20grain%20acreage%20considered%20wheat%20acreage%20and%20wheat%20acreage%20considered%E2%80%A6.md) | Feed grains diversion programs for 1964 and subsequent years; feed grain acreage considered wheat acreage and wheat acreage considered feed grain acreage. |
 | [1339d.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20003%20%28iii%29%20-%20Marketing%20Quotas%E2%80%94Wheat/%C2%A7%2001339d%20-%20Hay%20production%20on%20set-aside%20or%20diverted%20acreage%3B%20storage%3B%20emergency%20use%3B%20loans.md) | Hay production on set-aside or diverted acreage; storage; emergency use; loans. |
@@ -337,106 +350,59 @@ I74subpart i—marketing quotas—tobacco
 
 |  |  |
 | :--- | ---: |
-| [1357\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20006%20%28vi%29%20-%20Marketing%20Quotas%E2%80%94Peanuts/%C2%A7%2001357%20-%20Legislative%20findings.md) | Legislative findings. |
-| [1358\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20006%20%28vi%29%20-%20Marketing%20Quotas%E2%80%94Peanuts/%C2%A7%2001358%20-%20National%20marketing%20quota.md) | National marketing quota. |
-| (a) | Proclamation; amount. |
-| (b) | Referendum. |
-| (c) | Apportionment of national acreage allotment. |
-| (d) | Farm acreage allotments. |
-| (e) | County acreage allotments. |
-| (f) | New farm allotments. |
-| (g) | Release and reapportionment of farm-acreage allotments. |
-| (h) | Repealed. |
-| (i) | Production on farms with no allotments. |
-| (j) | Transfer of acreage allotment. |
-| 1358–1. | National poundage quotas and acreage allotments for peanuts. |
-| (a) | National poundage quotas. |
-| (b) | Farm poundage quotas. |
-| (c) | Farm yields. |
-| (d) | Referendum respecting poundage quotas. |
-| (e) | Definitions. |
-| (f) | Crops. |
-| [1358a.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20006%20%28vi%29%20-%20Marketing%20Quotas%E2%80%94Peanuts/%C2%A7%2001358a%20-%20Transfer%20of%20peanut%20acreage%20allotments.md) | Transfer of peanut acreage allotments. |
-| (a) | Authority to permit transfers. |
-| (b) | Conditions upon transfer; adjustment of allotment. |
-| (c) | Transfer of acreage history and marketing quota; transfer by lease. |
-| (d) | Eligibility of transferred land for new allotment. |
-| (e) | Duration of lease; terms and conditions. |
-| (f) | Lease of part of acreage allotment; determination of future allotments; eligibility for referendum. |
-| (g) | Regulations; limitations on transfers. |
-| (h) | Adjustment of rates for land utilization agreements. |
-| [1358b.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20006%20%28vi%29%20-%20Marketing%20Quotas%E2%80%94Peanuts/%C2%A7%2001358b%20-%20Sale%2C%20lease%2C%20or%20transfer%20of%20farm%20poundage%20quota%20for%20peanuts.md) | Sale, lease, or transfer of farm poundage quota for peanuts. |
-| (a) | In general. |
-| (b) | Conditions. |
-| (c) | Crops. |
-| [1358c.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20006%20%28vi%29%20-%20Marketing%20Quotas%E2%80%94Peanuts/%C2%A7%2001358c%20-%20Experimental%20and%20research%20programs%20for%20peanuts.md) | Experimental and research programs for peanuts. |
-| (a) | In general. |
-| (b) | Quantity. |
-| (c) | Limitation. |
-| (d) | Crops. |
-| [1359\.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20006%20%28vi%29%20-%20Marketing%20Quotas%E2%80%94Peanuts/%C2%A7%2001359%20-%20Marketing%20penalties.md) | Marketing penalties. |
-| [1359a.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20006%20%28vi%29%20-%20Marketing%20Quotas%E2%80%94Peanuts/%C2%A7%2001359a%20-%20Marketing%20penalties%20and%20disposition%20of%20additional%20peanuts.md) | Marketing penalties and disposition of additional peanuts. |
-| (a) | Marketing penalties. |
-| (b) | Use of quota and additional peanuts. |
-| (c) | Marketing peanuts with excess quantity, grade, or quality. |
-| (d) | Handling and disposal of additional peanuts. |
-| (e) | Special export credits. |
-| (f) | Contracts for purchase of additional peanuts. |
-| (g) | Marketing of peanuts owned or controlled by Commodity Credit Corporation. |
-| (h) | Administration. |
-| (i) | Crops. |
+| 1357 to 1359a. | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### subpart vii—marketing quotas—sugar and crystalline fructose
+#### subpart vii—flexible marketing allotments for sugar
 
 |  |  |
 | :--- | ---: |
-| [1359aa.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Marketing%20Quotas%E2%80%94Sugar%20and%20Crystalline%20Fructose/%C2%A7%2001359aa%20-%20Information%20reporting.md) | Information reporting. |
-| (a) | Duty of processors, refiners and manufacturers to report. |
-| (b) | Duty of producers to report. |
-| (c) | Penalty. |
-| (d) | Monthly reports. |
-| [1359bb.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Marketing%20Quotas%E2%80%94Sugar%20and%20Crystalline%20Fructose/%C2%A7%2001359bb%20-%20Marketing%20allotments%20for%20sugar%20and%20crystalline%20fructose.md) | Marketing allotments for sugar and crystalline fructose. |
+| [1359aa.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359aa%20-%20Definitions.md) | Definitions. |
+| [1359bb.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359bb%20-%20Flexible%20marketing%20allotments%20for%20sugar.md) | Flexible marketing allotments for sugar. |
 | (a) | Sugar estimates. |
 | (b) | Sugar allotments. |
-| (c) | Crystalline fructose allotments. |
-| (d) | Prohibitions. |
-| [1359cc.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Marketing%20Quotas%E2%80%94Sugar%20and%20Crystalline%20Fructose/%C2%A7%2001359cc%20-%20Establishment%20of%20marketing%20allotments.md) | Establishment of marketing allotments. |
+| (c) | Prohibitions. |
+| [1359cc.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359cc%20-%20Establishment%20of%20flexible%20marketing%20allotments.md) | Establishment of flexible marketing allotments. |
 | (a) | In general. |
 | (b) | Overall allotment quantity. |
-| (c) | Allotment. |
-| (d) | Percentage factors. |
-| (e) | Marketing allotment. |
-| (f) | State cane sugar allotments. |
+| (c) | Marketing allotment for sugar derived from sugar beets and sugar derived from sugarcane. |
+| (d) | Filling cane sugar and beet sugar allotments. |
+| (e) | State cane sugar allotments. |
+| (f) | Filling cane sugar allotments. |
 | (g) | Adjustment of marketing allotments. |
-| (h) | Filling cane sugar and beet sugar allotments. |
-| [1359dd.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Marketing%20Quotas%E2%80%94Sugar%20and%20Crystalline%20Fructose/%C2%A7%2001359dd%20-%20Allocation%20of%20marketing%20allotments.md) | Allocation of marketing allotments. |
-| (a) | In general. |
-| (b) | Filling cane sugar allotments. |
-| [1359ee.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Marketing%20Quotas%E2%80%94Sugar%20and%20Crystalline%20Fructose/%C2%A7%2001359ee%20-%20Reassignment%20of%20deficits.md) | Reassignment of deficits. |
+| (h) | Suspension of allotments. |
+| [1359dd.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359dd%20-%20Allocation%20of%20marketing%20allotments.md) | Allocation of marketing allotments. |
+| (a) | Allocation to processors. |
+| (b) | Hearing and notice. |
+| [1359ee.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359ee%20-%20Reassignment%20of%20deficits.md) | Reassignment of deficits. |
 | (a) | Estimates of deficits. |
 | (b) | Reassignment of deficits. |
-| [1359ff.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Marketing%20Quotas%E2%80%94Sugar%20and%20Crystalline%20Fructose/%C2%A7%2001359ff%20-%20Provisions%20applicable%20to%20producers.md) | Provisions applicable to producers. |
+| [1359ff.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359ff%20-%20Provisions%20applicable%20to%20producers.md) | Provisions applicable to producers. |
 | (a) | Processor assurances. |
-| (b) | Proportionate shares of certain allotments. |
-| [1359gg.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Marketing%20Quotas%E2%80%94Sugar%20and%20Crystalline%20Fructose/%C2%A7%2001359gg%20-%20Special%20rules.md) | Special rules. |
+| (b) | Sugar beet processing facility closures. |
+| (c) | Proportionate shares of certain allotments. |
+| [1359gg.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359gg%20-%20Special%20rules.md) | Special rules. |
 | (a) | Transfer of acreage base history. |
 | (b) | Preservation of acreage base history. |
 | (c) | Revisions of allocations and proportionate shares. |
-| [1359hh.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Marketing%20Quotas%E2%80%94Sugar%20and%20Crystalline%20Fructose/%C2%A7%2001359hh%20-%20Regulations%3B%20violations%3B%20publication%20of%20Secretary%27s%20determinations%3B%20jurisdiction%20of%20courts%3B%20United%20States%20attorneys.md) | Regulations; violations; publication of Secretary's determinations; jurisdiction of courts; United States attorneys. |
+| (d) | Transfers of mill allocations. |
+| [1359hh.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359hh%20-%20Regulations%3B%20violations%3B%20publication%20of%20Secretary%27s%20determinations%3B%20jurisdiction%20of%20the%20courts%3B%20United%20States%20attorneys.md) | Regulations; violations; publication of Secretary's determinations; jurisdiction of the courts; United States attorneys. |
 | (a) | Regulations. |
 | (b) | Violation. |
 | (c) | Publication in Federal Register. |
 | (d) | Jurisdiction of courts; United States attorneys. |
 | (e) | Nonexclusivity of remedies. |
-| [1359ii.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Marketing%20Quotas%E2%80%94Sugar%20and%20Crystalline%20Fructose/%C2%A7%2001359ii%20-%20Appeals.md) | Appeals. |
+| [1359ii.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359ii%20-%20Appeals.md) | Appeals. |
 | (a) | In general. |
 | (b) | Procedure. |
-| [1359jj.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Marketing%20Quotas%E2%80%94Sugar%20and%20Crystalline%20Fructose/%C2%A7%2001359jj%20-%20Administration.md) | Administration. |
+| (c) | Special appeal process regarding beet sugar allocations. |
+| [1359jj.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359jj%20-%20Administration.md) | Administration. |
 | (a) | Use of certain agencies. |
 | (b) | Use of Commodity Credit Corporation. |
-| (c) | “United States” and “State” defined. |
+| [1359kk.](Subchapter%20002%20%28II%29%20-%20Loans%2C%20Parity%20Payments%2C%20Consumer%20Safeguards%2C%20Marketing%20Quotas%2C%20and%20Marketing%20Certificates/Part%20B%20-%20Marketing%20Quotas/Subpart%20007%20%28vii%29%20-%20Flexible%20Marketing%20Allotments%20for%20Sugar/%C2%A7%2001359kk%20-%20Reallocating%20sugar%20quota%20import%20shortfalls.md) | Reallocating sugar quota import shortfalls. |
+| (a) | In general. |
+| (b) | Qualified supplying country defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -567,7 +533,7 @@ I74subpart i—miscellaneous
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 511r, 1428, 1442, 1444a, 1446c, 1515, 1745, 2279, 7301, 7502 of this title.
+This chapter is referred to in sections 511r, 1428, 1442, 1444a, 1446c, 1515, 1745, 2279, 7301, 7502, 7992 of this title.
 
 
 ---

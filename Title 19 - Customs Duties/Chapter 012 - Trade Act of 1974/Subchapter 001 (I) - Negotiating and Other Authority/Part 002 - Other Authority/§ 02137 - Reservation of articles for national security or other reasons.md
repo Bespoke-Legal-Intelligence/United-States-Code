@@ -28,5 +28,5 @@ Section is comprised of subsecs. (a) and (b) of section 127 of act Jan. 3, 1975.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2904 of this title.
+This section is referred to in sections 2904, 3810 of this title.
 

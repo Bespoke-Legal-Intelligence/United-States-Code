@@ -30,7 +30,21 @@ Except as provided in subsection (b) of this section, the costs of decontaminati
 
 #### (C) To thorium licensees
 
-&emsp;&emsp;Payments made under paragraph (1) to the licensee of the active thorium site shall not exceed $140,000,000, and may only be made for off-site disposal.
+&emsp;&emsp;Payments made under paragraph (1) to the licensee of the active thorium site shall not exceed $365,000,000, and may only be made for off-site disposal. Such payments shall not exceed the following amounts:
+
+&emsp;&emsp;&emsp;(i) $90,000,000 in fiscal year 2002.
+
+&emsp;&emsp;&emsp;(ii) $55,000,000 in fiscal year 2003.
+
+&emsp;&emsp;&emsp;(iii) $20,000,000 in fiscal year 2004.
+
+&emsp;&emsp;&emsp;(iv) $20,000,000 in fiscal year 2005.
+
+&emsp;&emsp;&emsp;(v) $20,000,000 in fiscal year 2006.
+
+&emsp;&emsp;&emsp;(vi) $20,000,000 in fiscal year 2007.
+
+> &emsp;Any amounts authorized to be paid in a fiscal year under this subparagraph that are not paid in that fiscal year may be paid in subsequent fiscal years.
 
 #### (D) Inflation escalation index
 
@@ -50,13 +64,29 @@ Except as provided in subsection (b) of this section, the costs of decontaminati
 
 &emsp;Notwithstanding the requirement of paragraph (2)(A) that byproduct material be located at the site on October 24, 1992, byproduct material moved from the site of the Edgemont Mill to a disposal site as the result of the decontamination, decommissioning, reclamation, and other remedial action of such mill shall be eligible for reimbursement to the extent eligible under paragraph (1).
 
-(Pub. L. 102–486, title X, §1001, Oct. 24, 1992, 106 Stat. 2946; Pub. L. 104–259, §3(a), Oct. 9, 1996, 110 Stat. 3173; Pub. L. 105–388, §11(a), Nov. 13, 1998, 112 Stat. 3484; Pub. L. 106–317, §1, Oct. 19, 2000, 114 Stat. 1277.)
+(Pub. L. 102–486, title X, §1001, Oct. 24, 1992, 106 Stat. 2946; Pub. L. 104–259, §3(a), Oct. 9, 1996, 110 Stat. 3173; Pub. L. 105–388, §11(a), Nov. 13, 1998, 112 Stat. 3484; Pub. L. 106–317, §1, Oct. 19, 2000, 114 Stat. 1277; Pub. L. 107–222, §1(a), Aug. 21, 2002, 116 Stat. 1336.)
 
 #### Codification
 
 Section was enacted as part of the Energy Policy Act of 1992, and not as part of the Atomic Energy Act of 1954 which comprises this chapter.
 
 #### Amendments
+
+2002—Subsec. (b)(2)(C). Pub. L. 107–222 substituted “$365,000,000” for “$140,000,000” and inserted at end “Such payments shall not exceed the following amounts:
+
+&emsp;“(i) $90,000,000 in fiscal year 2002.
+
+&emsp;“(ii) $55,000,000 in fiscal year 2003.
+
+&emsp;“(iii) $20,000,000 in fiscal year 2004.
+
+&emsp;“(iv) $20,000,000 in fiscal year 2005.
+
+&emsp;“(v) $20,000,000 in fiscal year 2006.
+
+&emsp;“(vi) $20,000,000 in fiscal year 2007.
+
+> Any amounts authorized to be paid in a fiscal year under this subparagraph that are not paid in that fiscal year may be paid in subsequent fiscal years.”
 
 2000—Subsec. (b)(1)(B)(i). Pub. L. 106–317, §1(1), substituted “2007” for “2002”.
 

@@ -40,7 +40,7 @@ For purposes of this subchapter, the term “lead-based paint activities” mean
 
 &emsp;(2) in the case of any public building constructed before 1978, commercial building, bridge, or other structure or superstructure, identification of lead-based paint and materials containing lead-based paint, deleading, removal of lead from bridges, and demolition.
 
-> For purposes of paragraph (2), the term “deleading” means activities conducted by a personwho offers to eliminate lead-based paint or lead-based paint hazards or to plan such activities.
+> For purposes of paragraph (2), the term “deleading” means activities conducted by a person who offers to eliminate lead-based paint or lead-based paint hazards or to plan such activities.
 
 #### (c) Renovation and remodeling
 

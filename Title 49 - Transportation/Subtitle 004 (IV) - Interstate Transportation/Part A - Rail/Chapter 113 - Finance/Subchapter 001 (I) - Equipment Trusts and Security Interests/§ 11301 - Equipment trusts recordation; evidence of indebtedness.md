@@ -10,11 +10,11 @@
 
 &emsp;(1) is duly constituted under the laws of a country other than the United States; and
 
-&emsp;(2) relates to property that bears the reporting marks and identification numbers of any person domiciled in or corporation organized under the laws of such country,
+&emsp;(2) relates to property that bears the reporting marks and identification numbers of anyperson domiciled in or corporation organized under the laws of such country,
 
 > shall be recognized with the same effect as having been filed under this section.
 
-(e) Interests with respect to which documents are filed or recognized under this section are deemed perfected in all jurisdictions, and shallbe governed by applicable State or foreign law in all matters not specifically governed by this section.
+(e) Interests with respect to which documents are filed or recognized under this section are deemed perfected in all jurisdictions, and shall be governed by applicable State or foreign law in all matters not specifically governed by this section.
 
 (f) The Board shall collect, maintain, and keep open for public inspection a railway equipment register consistent with the manner and format maintained by the Interstate Commerce Commission as of January 1, 1996.
 

@@ -1,6 +1,6 @@
 ### §2236. Searches without warrant
 
-Whoever, being an officer, agent, or employee of the United States or any department or agency thereof, engaged in the enforcement of any law of the United States, searches any private dwelling used and occupied as such dwelling without a warrant directing such search, or maliciously and without reasonable cause searches any other building or property without a search warrant, shall be fined for a first offense not more than $1,000; and, for a subsequent offense, shall be fined under this title or imprisoned not more than one year, or both.
+Whoever, being an officer, agent, or employee of the United States or any department or agency thereof, engaged in the enforcement of any law of the United States, searches any private dwelling used and occupied as such dwelling without a warrant directing such search, or maliciously and without reasonable cause searches any other building or property without a search warrant, shall be fined under this title for a first offense; and, for a subsequent offense, shall be fined under this title or imprisoned not more than one year, or both.
 
 &emsp;This section shall not apply to any person—
 
@@ -10,7 +10,7 @@ Whoever, being an officer, agent, or employee of the United States or any depart
 
 &emsp;&emsp;(c) making a search at the request or invitation or with the consent of the occupant of the premises.
 
-(June 25, 1948, ch. 645, 62 Stat. 803; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 803; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(C)(iii), Nov. 2, 2002, 116 Stat. 1809.)
 
 #### Historical and Revision Notes
 
@@ -27,6 +27,8 @@ Words “upon conviction thereof shall be” were omitted as surplusage, since p
 Minor changes were made in phraseology.
 
 #### Amendments
+
+2002—Pub. L. 107–273 inserted “under this title” after “warrant, shall be fined” and struck out “not more than $1,000” after “for a first offense”.
 
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000”.
 

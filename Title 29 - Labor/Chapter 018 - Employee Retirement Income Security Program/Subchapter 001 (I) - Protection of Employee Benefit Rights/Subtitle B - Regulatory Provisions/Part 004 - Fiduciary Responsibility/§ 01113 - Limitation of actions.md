@@ -2,7 +2,7 @@
 
 No action may be commenced under this subchapter with respect to a fiduciary's breach of any responsibility, duty, or obligation under this part, or with respect to a violation of this part, after the earlier of—
 
-&emsp;(1) six years after (A) the date of the last action which constituted a part of the breach orviolation, or (B) in the case of an omission the latest date on which the fiduciary could have cured the breach or violation, or
+&emsp;(1) six years after (A) the date of the last action which constituted a part of the breach or violation, or (B) in the case of an omission the latest date on which the fiduciary could have cured the breach or violation, or
 
 &emsp;(2) three years after the earliest date on which the plaintiff had actual knowledge of the breach or violation;
 
@@ -20,7 +20,7 @@ Par. (2). Pub. L. 101–239, §7881(j)(4), struck out comma after “violation�
 
 #### Effective Date of 1989 Amendment
 
-Amendment by section 7881(j)(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included in the provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
+Amendment by section 7881(j)(4) of Pub. L. 101–239 effective, except as otherwise provided, as if included inthe provision of the Pension Protection Act, Pub. L. 100–203, §§9302–9346, to which such amendment relates, see section 7882 of Pub. L. 101–239, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 Amendment by section 7894(e)(5) of Pub. L. 101–239 effective, except as otherwise provided, as if originally included in the provision of the Employee Retirement Income Security Act of 1974, Pub. L. 93–406, to which such amendment relates, see section 7894(i) of Pub. L. 101–239, set out as a note under section 1002 of this title.
 

@@ -8,7 +8,7 @@ Subject to the provisions of this section and consistent with the purpose of thi
 
 #### (1) Requirements
 
-&emsp;The Administrator (as defined in section 1104 <sup>1</sup> of this title), under the direction of and for approval by the Board, shall prescribe regulations to implement the provisions of this chapter and shall do so not later than 120 days after funds authorized to be appropriated under section 1109 <sup>1</sup> of this title have been appropriated in a bill signed into law.
+&emsp;The Administrator (as defined in section 1104 of this title), under the direction of and for approval by the Board, shall prescribe regulations to implement the provisions of this chapter and shall do so not later than 120 days after funds authorized to be appropriated under section 1109 of this title have been appropriated in a bill signed into law.
 
 #### (2) Elements
 
@@ -20,7 +20,7 @@ Subject to the provisions of this section and consistent with the purpose of thi
 
 &emsp;&emsp;(C) provide appropriate safeguards against the evasion of the provisions of this chapter;
 
-&emsp;&emsp;(D) set forth the circumstances in which an applicant, together with any affiliate of an applicant, shall be treated as an applicant for a loan guarantee under this chapter;
+&emsp;&emsp;(D) set forth the circumstances in which an applicant, together with any affiliate ofan applicant, shall be treated as an applicant for a loan guarantee under this chapter;
 
 &emsp;&emsp;(E) include requirements that appropriate parties submit to the Board any documents and assurances that are required for the administration of the provisions of this chapter; and
 
@@ -32,7 +32,7 @@ Subject to the provisions of this section and consistent with the purpose of thi
 
 &emsp;(B) If any provision of this chapter or the application of such provision to any person or entity or circumstance is held to be invalid by a court of competent jurisdiction, the remainder of this chapter, or the application of such provision to such person or entity or circumstance other than those as to which it is held invalid, shall not be affected thereby.
 
-#### (c) Authority limited by appropriations Acts
+#### (c) Authority limited by appropriations acts
 
 The Board may approve loan guarantees under this chapter only to the extent provided for in advance in appropriations Acts, and the Board may accept credit risk premiums from a non-Federal source in order to cover the cost of a loan guarantee under this chapter, to the extent that appropriations of budget authority are insufficient to cover such costs.
 
@@ -40,7 +40,7 @@ The Board may approve loan guarantees under this chapter only to the extent prov
 
 #### (1) In general
 
-&emsp;The Board shall utilize the underwriting criteria developed under subsection (g) of this section, and any relevant information provided by the departments and agencies with which the Board consults under section 1102 <sup>1</sup> of this title, to determine which loans may be eligible for a loan guarantee under this chapter.
+&emsp;The Board shall utilize the underwriting criteria developed under subsection (g) of this section, and any relevant information provided by the departments and agencies with which the Board consults under section 1102 of this title, to determine which loans may be eligible for a loan guarantee under this chapter.
 
 #### (2) Prerequisites
 
@@ -190,11 +190,11 @@ Within the period provided for under subsection (b)(1) of this section, the Boar
 
 #### (D) Deductions from Escrow Account
 
-&emsp;&emsp;If a default occurs with respect to any loan guaranteed under this chapter and the default is not cured in accordance with the terms of the underlying loan or loan guarantee agreement, the Administrator, in accordance with subsections (i) and (j) of section 1104 <sup>1</sup> of this title, shall liquidate, or shall cause to be liquidated, all assets collateralizing such loan as to which it has a lien or security interest. Any shortfall between the proceeds of the liquidation net of costs and expenses relating to the liquidation, and the guarantee amount paid pursuant to this chapter shall be deducted from funds in the Escrow Account and credited to the Administrator for payment of such shortfall. At such time as determined under subsection (d)(2)(E) of this section when all loans guaranteed under this chapter have been repaid or otherwise satisfied in accordance with this chapter and the regulations promulgated hereunder, remaining funds in the Escrow Account, if any, shall be refunded, on a pro rata basis, to applicants whose loans guaranteed under this chapter were not in default, or where any default was cured in accordance with the terms of the underlying loan or loan guarantee agreement.
+&emsp;&emsp;If a default occurs with respect to any loan guaranteed under this chapter and the default is not cured in accordance with the terms of the underlying loan or loan guarantee agreement, the Administrator, in accordance with subsections (i) and (j) of section 1104 of this title, shall liquidate, or shall cause to be liquidated, all assets collateralizing such loan as to which it has a lien or security interest. Any shortfall between the proceeds of the liquidation net of costs and expenses relating to the liquidation, and the guarantee amount paid pursuant to this chapter shall be deducted from funds in the Escrow Account and credited to the Administrator for payment of such shortfall. At such time as determined under subsection (d)(2)(E) of this section when all loans guaranteed under this chapter have been repaid or otherwise satisfied in accordance with this chapter and the regulations promulgated hereunder, remaining funds in the Escrow Account, if any, shall be refunded, on a pro rata basis, to applicants whose loans guaranteed under this chapter were not in default, or where any default was cured in accordance with the terms of the underlying loan or loan guarantee agreement.
 
 #### (i) Limitations on guarantees for certain cable operators
 
-Notwithstanding any other provision of this chapter, no loan guarantee under this chapter may be granted or used to provide funds for a project that extends, upgrades, or enhances the services provided over any cable system to an area that, as of December 21, 2000, is covered bya cable franchise agreement that expressly obligates a cable system operator to serve such area.
+Notwithstanding any other provision of this chapter, no loan guarantee under this chapter may be granted or used to provide funds for a project that extends, upgrades, or enhances the services provided over any cable system to an area that, as of December 21, 2000, is covered by a cable franchise agreement that expressly obligates a cable system operator to serve such area.
 
 #### (j) Judicial review
 
@@ -204,21 +204,21 @@ The decision of the Board to approve or disapprove the making of a loan guarante
 
 Except as otherwise provided in subsection (j) of this section, the provisions of subchapter II of chapter 5 and chapter 7 of title 5 (commonly referred to as the Administrative Procedure Act), shall apply to actions taken under this chapter.
 
-(Pub. L. 106–553, §1(a)(2) \[title X, §1004\], Dec. 21, 2000, 114 Stat. 2762, 2762A–129.)
+(Pub. L. 106–553, §1(a)(2) \[title X, §1004\], Dec. 21, 2000, 114 Stat. 2762, 2762A–129; Pub. L. 107–171, title VI, §6404(b)(1), May 13, 2002, 116 Stat. 430.)
 
 #### References in Text
 
 This chapter, referred to in text, was in the original “this Act”, and was translated as reading “this title”. See References in Text note set out under section 1101 of this title.
 
-Section 1104 of this title, referred to in subsecs. (b)(1) and (h)(2)(D), was in the original “section 5”, and was translated as reading “section 1005”, meaning section 1005 of title X of H.R. 5548, as enacted by Pub. L. 106–553, §1(a)(2), to reflect the probable intent of Congress. Pub. L. 106–553 does not contain a section 5, and section 1005 defines “Administrator” and contains provisions relating to defaults and recovery of payments.
+#### Amendments
 
-Section 1109 of this title, referred to in subsec. (b)(1), was in the original “section 11”, and was translated as reading “section 1011”, meaning section 1011 of title X of H.R. 5548, as enacted by Pub. L. 106–553, §1(a)(2), to reflect the probable intent of Congress. Pub. L. 106–553 does not contain a section 11 and section 1011 relates to authorizations of appropriations.
+2002—Subsec. (b)(1). Pub. L. 107–171, §6404(b)(1)(A), made technical amendments to references in original Act which appear in text as references to sections 1104 and 1109 of this title.
 
-Section 1102 of this title, referred to in subsec. (d)(1), was in the original “section 3”, and was translated as reading “section 1003”, meaning section 1003 of title X of H.R. 5548, as enacted by Pub. L. 106–553, §1(a)(2), to reflect the probable intent of Congress. Pub. L. 106–553 does not contain a section 3 and section 1003 relates to the LOCAL Television Loan Guarantee Board.
+Subsec. (d)(1). Pub. L. 107–171, §6404(b)(1)(B), made technical amendment to reference in original Act which appears in text as a reference to section 1102 of this title.
+
+Subsec. (h)(2)(D). Pub. L. 107–171, §6404(b)(1)(C), made technical amendment to reference in original Act which appears in text as a reference to section 1104 of this title.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1102, 1104 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 1102, 1104, 1109 of this title.
 

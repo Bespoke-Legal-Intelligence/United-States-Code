@@ -93,7 +93,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 3726 of this title; title 22 section 2421; title 38 section 7807; title 40 section 756; title 48 sections 1469b, 1683; title 49 sections 5334, 44308.
+This chapter is referred to in section 3726 of this title; title 22 section 2421; title 38 section 7807; title 40 section 321; title 48 sections 1469b, 1683; title 49 sections 5334, 44308.
 
 
 ---

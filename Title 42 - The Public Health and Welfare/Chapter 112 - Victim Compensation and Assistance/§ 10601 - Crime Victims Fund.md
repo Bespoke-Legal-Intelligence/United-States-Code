@@ -46,7 +46,7 @@ The Fund shall be available as follows:
 
 &emsp;(2)(A) Except as provided in subparagraph (B), the first $10,000,000 deposited in the Fund shall be available for grants under section 10603a of this title.
 
-&emsp;(B)(i) For any fiscal year for which the amount deposited in the Fund is greater than the amount deposited in the Fund for fiscal year 1998, the $10,000,000 referred to in subparagraph (A) plus an amount equal to 50 percent of the increase in the amount from fiscal year 1998 shall be available for grants under section 10603a of this title.
+&emsp;(B)(i) For any fiscal year for which the amount deposited in the Fund is greater thanthe amount deposited in the Fund for fiscal year 1998, the $10,000,000 referred to in subparagraph (A) plus an amount equal to 50 percent of the increase in the amount from fiscal year 1998 shall be available for grants under section 10603a of this title.
 
 &emsp;(ii) Amounts available under this subparagraph for any fiscal year shall not exceed $20,000,000.
 
@@ -64,7 +64,7 @@ The Fund shall be available as follows:
 
 &emsp;(B) The antiterrorism emergency reserve referred to in subparagraph (A) may be used for supplemental grants under section 10603b of this title and to provide compensation to victims of international terrorism under section 10603c of this title.
 
-&emsp;(C) Amounts in the antiterrorism emergency reserve established pursuant to subparagraph (A) may be carried over from fiscal year to fiscal year. Notwithstanding subsection (c) ofthis section and section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (and any similar limitation on Fund obligations in any future Act, unless the same should expressly refer to this section), any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
+&emsp;(C) Amounts in the antiterrorism emergency reserve established pursuant to subparagraph (A) may be carried over from fiscal year to fiscal year. Notwithstanding subsection (c) of this section and section 619 of the Departments of Commerce, Justice, and State, the Judiciary, and Related Agencies Appropriations Act, 2001 (and any similar limitation on Fund obligations in any future Act, unless the same should expressly refer to this section), any such amounts carried over shall not be subject to any limitation on obligations from amounts deposited to or available in the Fund.
 
 #### (e) Amounts awarded and unspent
 
@@ -96,7 +96,7 @@ As used in this section, the term “offenses against the United States” does 
 
 The Railroad Unemployment Insurance Act, referred to in subsec. (b)(1)(B)(i), is act June 25, 1938, ch. 680, 52 Stat. 1094, as amended, which is classified principally to chapter 11 (§351 et seq.) of Title 45, Railroads. For complete classification of this Act to the Code, see section 367 of Title 45 and Tables.
 
-Section 3613 of title 18, referred to in subsec. (b)(1)(B)(iv), was repealed effective on the first day of the first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), by Pub. L. 98–473, title II, §§212(a)(2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended.
+Section 3613 of title 18, referred to in subsec. (b)(1)(B)(iv), was repealed effective on the first day ofthe first calendar month beginning 36 months after Oct. 12, 1984 (Nov. 1, 1987), by Pub. L. 98–473, title II, §§212(a)(2), 235(a)(1), Oct. 12, 1984, 98 Stat. 1987, 2031, as amended.
 
 Section 3671(c)(2) of title 18, referred to in subsec. (b)(4), was renumbered section 3681(c)(2) by Pub. L. 99–646, §41(a), Nov. 10, 1986, 100 Stat. 3600.
 
@@ -272,7 +272,7 @@ Section 1409 of chapter XIV of title II of Pub. L. 98–473 provided that:
 
 #### Short Title of 1996 Amendment
 
-Section 231 of title II of Pub. L. 104–132 provided that: “This subtitle \[subtitle C (§§231–236) of title II of Pub. L. 104–132, enacting sections 10603b and 10608 of this title, amending this section and sections 10602 and 10603 of this title, and enacting provisions set out as notes under section 10602 of this title\] may be cited as the ‘Justice for Victims of Terrorism Act of 1996’.”
+Section 231 of title II of Pub. L. 104–132 provided that: “This subtitle \[subtitle C (§§231–236) of title II of Pub.L. 104–132, enacting sections 10603b and 10608 of this title, amending this section and sections 10602 and 10603 of this title, and enacting provisions set out as notes under section 10602 of this title\] may be cited as the ‘Justice for Victims of Terrorism Act of 1996’.”
 
 #### Short Title of 1990 Amendment
 
@@ -292,7 +292,7 @@ Pub. L. 107–56, title VI, §621(e), Oct. 26, 2001, 115 Stat. 371, provided tha
 
 #### Limitation on Amounts Available for Obligation
 
-Pub. L. 107–77, title VI, §619, Nov. 28, 2001, 115 Stat. 802, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established under 42 U.S.C. 10601 in any fiscal year in excess of $550,000,000 shall not be available for obligation until the following fiscal year, with the exceptionof emergency appropriations made available by Public Law 107–38 \[115 Stat. 220\] and transferred to the Fund.”
+Pub. L. 107–77, title VI, §619, Nov. 28, 2001, 115 Stat. 802, provided that: “Notwithstanding any other provision of law, amounts deposited or available in the Fund established under 42 U.S.C. 10601 in any fiscal year in excess of $550,000,000 shall not be available for obligation until the following fiscal year, with the exception of emergency appropriations made available by Public Law 107–38 \[115 Stat. 220\] and transferred to the Fund.”
 
 Similar provisions were contained in the following prior appropriation acts:
 

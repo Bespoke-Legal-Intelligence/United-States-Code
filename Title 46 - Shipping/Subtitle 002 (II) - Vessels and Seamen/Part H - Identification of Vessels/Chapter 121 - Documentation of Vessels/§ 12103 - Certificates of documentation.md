@@ -1,6 +1,6 @@
 ### §12103. Certificates of documentation
 
-(a) Except as provided in section 12123 of this title, on application by the owner of a vessel eligible for documentation, the Secretary of Transportation shall issue a certificate of documentation endorsed with one or more of the endorsements specified in sections 12105–12109 of this title.
+(a) Except as provided in section 12123 of this title, on application by the owner of a vessel eligible for documentation, the Secretary of Transportation shall issue a certificate of documentation, or a temporary certificate of documentation, endorsed with one or more of the endorsements specified in sections 12105–12109 of this title.
 
 (b)(1) The Secretary may prescribe the form of, the manner of filing, and the information to be contained in, applications for certificates of documentation.
 
@@ -26,7 +26,7 @@
 
 (e) The owner and master of a documented vessel shall make the vessel's certificate of documentation available for examination as the law or Secretary may require.
 
-(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 100–710, title I, §104(a)(4), (6), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(3), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 102–388, title III, §348(c)(1), Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–587, title V, §5213(a)(1), Nov. 4, 1992, 106 Stat. 5077.)
+(Pub. L. 98–89, Aug. 26, 1983, 97 Stat. 585; Pub. L. 100–710, title I, §104(a)(4), (6), Nov. 23, 1988, 102 Stat. 4750; Pub. L. 101–225, title III, §301(a)(3), Dec. 12, 1989, 103 Stat. 1920; Pub. L. 102–388, title III, §348(c)(1), Oct. 6, 1992, 106 Stat. 1554; Pub. L. 102–587, title V, §5213(a)(1), Nov. 4, 1992, 106 Stat. 5077; Pub. L. 107–295, title IV, §422(a), Nov. 25, 2002, 116 Stat. 2125.)
 
 Historical and Revision Notes
 
@@ -41,6 +41,8 @@ Historical and Revision Notes
 Section 12103 provides that a certificate of documentation shall be issued upon application by the owner of any vessel eligible for documentation on the form and in the manner prescribed by the Secretary and that it shall be available for examination. This section also provides that each certificate of documentation shall contain the name, the home port, the description of the vessel, identity of its owner, and be in the form and contain the additional information that the Secretary prescribes. The Secretary shall, by regulation, prescribe procedures to ensure the integrity of, and the accuracy of, information contained in, certificates of documentation.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–295 inserted “, or a temporary certificate of documentation,” after “certificate of documentation”.
 
 1992—Subsec. (a). Pub. L. 102–388 and Pub. L. 102–587 amended subsec. (a) identically, substituting “Except as provided in section 12123 of this title, on” for “On”.
 
@@ -59,4 +61,8 @@ Amendment by Pub. L. 101–225 effective on the 180th day after Dec. 12, 1989, s
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–710 effective Jan. 1, 1989, with certain exceptions and qualifications, see section 107 of Pub. L. 100–710, set out as an Effective Date note under section 30101 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 12103a of this title.
 

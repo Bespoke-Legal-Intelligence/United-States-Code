@@ -6,7 +6,7 @@ The Secretary of the Interior is authorized to cooperate with the Secretary of A
 
 #### Amendments
 
-1984—Pub. L. 98–369 inserted “the Mayor of the District of Columbia,” after “the Secretary of Agricultureof Puerto Rico,”, “for the District of Columbia one-third of 1 per centum,” after “for Puerto Rico 1 per centum,” and “the District of Columbia,” after “Puerto Rico,” in two places.
+1984—Pub. L. 98–369 inserted “the Mayor of the District of Columbia,” after “the Secretary of Agriculture of Puerto Rico,”, “for the District of Columbia one-third of 1 per centum,” after “for Puerto Rico 1 per centum,” and “the District of Columbia,” after “Puerto Rico,” in two places.
 
 1980—Pub. L. 96–597 inserted references to the Governor and the Commonwealth of the Northern Mariana Islands.
 

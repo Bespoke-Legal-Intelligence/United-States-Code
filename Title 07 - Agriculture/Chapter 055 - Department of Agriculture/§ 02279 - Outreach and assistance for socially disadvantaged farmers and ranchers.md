@@ -2,27 +2,55 @@
 
 #### (a) Outreach and assistance
 
-#### (1) In general
+#### (1) Program
 
-&emsp;The Secretary of Agriculture (hereafter referred to in this section as the “Secretary”) shall provide outreach and technical assistance to encourage and assist socially disadvantaged farmers and ranchers to own and operate farms and ranches and to participate in agricultural programs. This assistance should include information on application and bidding procedures, farm management, and other essential information to participate in agricultural programs.
+&emsp;The Secretary of Agriculture shall carry out an outreach and technical assistance program to encourage and assist socially disadvantaged farmers and ranchers—
 
-#### (2) Grants and contracts
+&emsp;&emsp;(A) in owning and operating farms and ranches; and
 
-&emsp;The Secretary may make grants and enter into contracts and other agreements in the furtherance of this section with the following entities—
+&emsp;&emsp;(B) in participating equitably in the full range of agricultural programs offered by the Department.
 
-&emsp;&emsp;(A) any community based organization that—
+#### (2) Requirements
 
-&emsp;&emsp;&emsp;(i) has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers;
+&emsp;The outreach and technical assistance program under paragraph (1) shall—
 
-&emsp;&emsp;&emsp;(ii) provides documentary evidence of its past experience of working with socially disadvantaged farmers and ranchers during the two years preceding its application for assistance under this section; and
+&emsp;&emsp;(A) enhance coordination of the outreach, technical assistance, and education efforts authorized under various agriculture programs; and
 
-&emsp;&emsp;&emsp;(iii) does not engage in activities prohibited under section 501(c)(3) of title 26; and
+&emsp;&emsp;(B) include information on, and assistance with—
 
-&emsp;&emsp;(B) 1890 Land-Grant Colleges including Tuskegee Institute, Indian tribal community colleges and Alaska native cooperative colleges, Hispanic serving post-secondary educational institutions, and other post-secondary educational institutions with demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged family farmers and ranchers in their region.
+&emsp;&emsp;&emsp;(i) commodity, conservation, credit, rural, and business development programs;
 
-#### (3) Funding
+&emsp;&emsp;&emsp;(ii) application and bidding procedures;
 
-&emsp;There are authorized to be appropriated $10,000,000 for each fiscal year to carry out this subsection.
+&emsp;&emsp;&emsp;(iii) farm and risk management;
+
+&emsp;&emsp;&emsp;(iv) marketing; and
+
+&emsp;&emsp;&emsp;(v) other activities essential to participation in agricultural and other programs of the Department.
+
+#### (3) Grants and contracts
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may make grants to, and enter into contracts and other agreements with, an eligible entity to provide information and technical assistance under this subsection.
+
+#### (B) Relationship to other law
+
+&emsp;&emsp;The authority to carry out this section shall be in addition to any other authority provided in this or any other Act.
+
+#### (C) Other projects
+
+&emsp;&emsp;Notwithstanding paragraph (1), the Secretary may make grants to, and enter into contracts and other agreements with, an organization or institution that received funding under this section before January 1, 1996, to carry out a project that is similar to a project for which the organization or institution received such funding.
+
+#### (4) Funding
+
+#### (A) Authorization of appropriations
+
+&emsp;&emsp;There is authorized to be appropriated to carry out this subsection $25,000,000 for each of fiscal years 2002 through 2007.
+
+#### (B) Interagency funding
+
+&emsp;&emsp;In addition to funds authorized to be appropriated under subparagraph (A), any agency of the Department may participate in any grant, contract, or agreement entered into under this subsection by contributing funds, if the agency determined that the objectives of the grant, contract, or agreement will further the authorized programs of the contributing agency.
 
 #### (b) Designation of Federal personnel
 
@@ -70,7 +98,7 @@
 
 #### (1) Purpose
 
-&emsp;It is the purpose of this subsection to direct the Secretary to analyze within the Department of Agriculture the design and implementation of affirmative action programs and policies, the appeals process for complaints of discrimination, and contracting and purchasing practices employed by the Department.
+&emsp;It is the purpose of this subsection to direct the Secretary to analyze within the Department the design and implementation of affirmative action programs and policies, the appeals process for complaints of discrimination, and contracting and purchasing practices employed by the Department.
 
 #### (2) Scope
 
@@ -124,19 +152,51 @@
 
 &emsp;&emsp;(G) other such Acts as the Secretary deems appropriate.
 
+#### (4) Department
+
+&emsp;The term “Department” means the Department of Agriculture.
+
+#### (5) Eligible entity
+
+&emsp;The term “eligible entity” means any of the following:
+
+&emsp;&emsp;(A) Any community-based organization, network, or coalition of community-based organizations that—
+
+&emsp;&emsp;&emsp;(i) has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers;
+
+&emsp;&emsp;&emsp;(ii) has provided to the Secretary documentary evidence of work with socially disadvantaged farmers and ranchers during the 2-year period preceding the submission of an application for assistance under subsection (a) of this section; and
+
+&emsp;&emsp;&emsp;(iii) does not engage in activities prohibited under section 501(c)(3) of title 26.
+
+&emsp;&emsp;(B) An 1890 institution or 1994 institution (as defined in section 7601 of this title), including West Virginia State College.
+
+&emsp;&emsp;(C) An Indian tribal community college or an Alaska Native cooperative college.
+
+&emsp;&emsp;(D) An Hispanic-serving institution (as defined in section 3103 of this title).
+
+&emsp;&emsp;(E) Any other institution of higher education (as defined in section 1001 of title 20) that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
+
+&emsp;&emsp;(F) An Indian tribe (as defined in section 450b of title 25) or a national tribal organization that has demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged farmers and ranchers in a region.
+
+&emsp;&emsp;(G) An organization or institution that received funding under subsection (a) of this section before January 1, 1996, but only with respect to projects that the Secretary considers are similar to projects previously carried out by the organization or institution under such subsection.
+
+#### (6) Secretary
+
+&emsp;The term “Secretary” means the Secretary of Agriculture.
+
 #### (f) Omitted
 
 #### (g) Reservations
 
 #### (1) Consolidated suboffice
 
-&emsp;The Secretary shall require the Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices, and such other offices and functions the Secretary may choose to include, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservation and to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department of Agriculture offices. The tribe shall be required to provide the necessary office space if it wishes to participate in this program.
+&emsp;The Secretary shall require the Agricultural Stabilization and Conservation Service, Soil Conservation Service, and Farmers Home Administration offices, and such other offices and functions the Secretary may choose to include, in each county that has a reservation within its borders, to establish a consolidated suboffice at the tribal headquarters of said reservation and to staff said suboffice as needed, using existing staff, but no less than one day a week or under such other arrangement agreed to by the tribe and the Department offices. The tribe shall be required to provide the necessary office space if it wishes to participate in this program.
 
 #### (2) Cooperative agreements
 
 &emsp;For those reservations that are located in more than one county, the Secretary, the relevant county offices and the tribe shall enter into a cooperative agreement to provide the services required by paragraph (1) that avoids duplication of effort.
 
-(Pub. L. 101–624, title XXV, §2501, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 102–237, title X, §1003, Dec. 13, 1991, 105 Stat. 1894.)
+(Pub. L. 101–624, title XXV, §2501, Nov. 28, 1990, 104 Stat. 4062; Pub. L. 102–237, title X, §1003, Dec. 13, 1991, 105 Stat. 1894; Pub. L. 107–171, title X, §10707, May 13, 2002, 116 Stat. 520.)
 
 #### References in Text
 
@@ -155,6 +215,36 @@ The Food Security Act of 1985, referred to in subsec. (e)(3)(F), is Pub. L. 99�
 Section is comprised of section 2501 of Pub. L. 101–624. Subsec. (f) of section 2501 of Pub. L. 101–624 amended section 2003 of this title.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171, §10707(b), added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows:
+
+“(1)
+
+In general.—The Secretary of Agriculture (hereafter referred to in this section as the ‘Secretary’) shall provide outreach and technical assistance to encourage and assist socially disadvantaged farmers and ranchers to own and operate farms and ranches and to participate in agricultural programs. This assistance should include information on application and bidding procedures, farm management, and other essential information to participate in agricultural programs.
+
+“(2)
+
+Grants and Contracts.—The Secretary may make grants and enter into contracts and other agreements in the furtherance of this section with the following entities—
+
+&emsp;“(A) any community based organization that—
+
+&emsp;&emsp;“(i) has demonstrated experience in providing agricultural education or other agriculturally related services to socially disadvantaged farmers and ranchers;
+
+&emsp;&emsp;“(ii) provides documentary evidence of its past experience of working with socially disadvantaged farmers and ranchers during the two years preceding its application for assistance under this section; and
+
+&emsp;&emsp;“(iii) does not engage in activities prohibited under section 501(c)(3) of title 26; and
+
+&emsp;“(B) 1890 Land-Grant Colleges including Tuskegee Institute, Indian tribal community colleges and Alaska native cooperative colleges, Hispanic serving post-secondary educational institutions, and other post-secondary educational institutions with demonstrated experience in providing agriculture education or other agriculturally related services to socially disadvantaged family farmers and ranchers in their region.
+
+“(3)
+
+Funding.—There are authorized to be appropriated $10,000,000 for each fiscal year to carry out this subsection.”
+
+Subsec. (d)(1). Pub. L. 107–171, §10707(c)(1), struck out “of Agriculture” after “analyze within the Department”.
+
+Subsec. (e)(4) to (6). Pub. L. 107–171, §10707(a), added pars. (4) to (6).
+
+Subsec. (g)(1). Pub. L. 107–171, §10707(c)(2), struck out “of Agriculture” after “Department”.
 
 1991—Subsec. (a)(3). Pub. L. 102–237, §1003(1), substituted “subsection” for “section”.
 

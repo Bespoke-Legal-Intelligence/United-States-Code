@@ -12,7 +12,7 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 #### (c) Grant criteria
 
-(1) The Administrator shall establish criteria to be used in evaluating applications for grants under this section, consistent with sections 5665a, 5673,<sup>1</sup> and 5676 <sup>1</sup> of this title.
+(1) The Administrator shall establish criteria to be used in evaluating applications for grants under this section, consistent with sections 5673 and 5676 of this title.
 
 (2) In general, the grant criteria established pursuant to paragraph (1) shall require that a court-appointed special advocate program provide screening, training, and supervision of court-appointed special advocates in accordance with standards developed by the National Court-Appointed Special Advocate Association. Such criteria may include the requirements that—
 
@@ -36,11 +36,13 @@ The Administrator of the Office of Juvenile Justice and Delinquency Prevention s
 
 (3) In awarding grants under this section, the Administrator shall ensure that grants are distributed to localities that have no existing court-appointed special advocate program and to programs in need of expansion.
 
-(Pub. L. 101–647, title II, §217, Nov. 29, 1990, 104 Stat. 4794.)
+(Pub. L. 101–647, title II, §217, Nov. 29, 1990, 104 Stat. 4794; Pub. L. 107–273, div. C, title II, §12221(b)(1)(C), Nov. 2, 2002, 116 Stat. 1894.)
 
-#### References in Text
+#### Amendments
 
-Sections 5673 and 5676 of this title, referred to in subsec. (c)(1), was in the original a reference to sections 293 and 296 of the Juvenile Justice and Delinquency Prevention Act of 1974, Pub. L. 93–415. Sections 293 and 296 of the Act were renumbered sections 299B and 299E, respectively, by Pub. L. 102–586, §2(i)(1)(B), Nov. 4, 1992, 106 Stat. 5006.
+2002—Subsec. (c)(1). Pub. L. 107–273 substituted “sections 5673 and 5676 of this title” for “sections 5665a, 5673, and 5676 of this title”.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
 

@@ -104,7 +104,7 @@ To be eligible to receive a supplemental grant under section 15061(b) of this ti
 
 #### (3) Grant expenditures
 
-&emsp;For the purpose of determining the Federal share with respect to the project, expenditureson that project by a political subdivision of a State or by a public or private entity shall, subject to such limitations and conditions as the Secretary may by regulation prescribe under section 15004(b) of this title, be considered to be expenditures made by a Center under this part.
+&emsp;For the purpose of determining the Federal share with respect to the project, expenditures on that project by a political subdivision of a State or by a public or private entity shall, subject to such limitations and conditions as the Secretary may by regulation prescribe under section 15004(b) of this title, be considered to be expenditures made by a Center under this part.
 
 #### (e) Annual report
 

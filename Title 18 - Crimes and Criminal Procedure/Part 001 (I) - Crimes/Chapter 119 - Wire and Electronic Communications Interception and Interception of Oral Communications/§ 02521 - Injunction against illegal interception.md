@@ -12,5 +12,5 @@ The Federal Rules of Criminal Procedure, referred to in text, are set out in the
 
 #### Effective Date
 
-Section effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension, applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as an Effective Date of 1986 Amendment note under section 2510 of this title.
+Section effective 90 days after Oct. 21, 1986, and, in case of conduct pursuant to court order or extension,applicable only with respect to court orders and extensions made after such date, with special rule for State authorizations of interceptions, see section 111 of Pub. L. 99–508, set out as an Effective Date of 1986 Amendment note under section 2510 of this title.
 

@@ -20,7 +20,7 @@
 
 #### (b) Indicia of ownership of assets outside jurisdiction of district courts
 
-Except as authorized by the Secretary by regulations, no fiduciary may maintain the indicia of ownership of any assets of a plan outside the jurisdiction of the district courts of the United States.
+Except as authorized by the Secretary by regulations, no fiduciary may maintain the indiciaof ownership of any assets of a plan outside the jurisdiction of the district courts of the United States.
 
 #### (c) Control over assets by participant or beneficiary
 
@@ -42,13 +42,13 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 (3) In the case of a pension plan which makes a transfer to an individual retirement account or annuity of a designated trustee or issuer under section 401(a)(31)(B) of title 26, the participant or beneficiary shall, for purposes of paragraph (1), be treated as exercising control over the assets in the account or annuity upon—
 
-&emsp;(A) the earlier of the earlier of—
+&emsp;(A) the earlier of—
 
 &emsp;&emsp;(i) a rollover of all or a portion of the amount to another individual retirement account or annuity; or
 
 &emsp;&emsp;(ii) one year after the transfer is made; or
 
-&emsp;(B) if the transfer is made in a manner consistent with guidance provided by the Secretary.
+&emsp;(B) a transfer that is made in a manner consistent with guidance provided by the Secretary.
 
 #### (d) Plan terminations
 
@@ -74,7 +74,7 @@ Except as authorized by the Secretary by regulations, no fiduciary may maintain 
 
 &emsp;(B) any reference in this subsection to title 26 shall be a reference to title 26 as in effect immediately after the enactment of the Omnibus Budget Reconciliation Act of 1990.
 
-(Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII,§12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 107–16, title VI, §657(c)(1), June 7, 2001, 115 Stat. 136.)
+(Pub. L. 93–406, title I, §404, Sept. 2, 1974, 88 Stat. 877; Pub. L. 96–364, title III, §309, Sept. 26, 1980, 94 Stat. 1296; Pub. L. 101–508, title XII, §12002(b)(1), (2)(A), Nov. 5, 1990, 104 Stat. 1388–565, 1388–566; Pub. L. 104–188, title I, §1421(d)(2), Aug. 20, 1996, 110 Stat. 1799; Pub. L. 107–16, title VI, §657(c)(1), June 7, 2001, 115 Stat. 136; Pub. L. 107–147, title IV, §411(t), Mar. 9, 2002, 116 Stat. 51.)
 
 #### Amendment of Section
 
@@ -86,6 +86,10 @@ The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in s
 
 #### Amendments
 
+2002—Subsec. (c)(3)(A). Pub. L. 107–147, §411(t)(1), struck out “the earlier of” after “the earlier of” in introductory provisions.
+
+Subsec. (c)(3)(B). Pub. L. 107–147, §411(t)(2), substituted “a transfer that” for “if the transfer”.
+
 2001—Subsec. (c)(3). Pub. L. 107–16, §§657(c)(1), 901, temporarily added par. (3). See Effective and Termination Dates of 2001 Amendment note below.
 
 1996—Subsec. (c). Pub. L. 104–188 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, and added par. (2).
@@ -95,6 +99,10 @@ The enactment of the Omnibus Budget Reconciliation Act of 1990, referred to in s
 Subsec. (d). Pub. L. 101–508, §12002(b)(1), added subsec. (d).
 
 1980—Subsec. (a)(1)(D). Pub. L. 96–364 inserted reference to subchapter III of this chapter.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to whichsuch amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of Title 26, Internal Revenue Code.
 
 #### Effective and Termination Dates of 2001 Amendment
 
@@ -124,5 +132,5 @@ For provisions directing that if any amendments made by subtitle D \[§§1401–
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1003, 1101, 1105, 1107, 1344, 1403 of this title.
+This section is referred to in sections 1003, 1021, 1101, 1105, 1107, 1344, 1403 of this title.
 

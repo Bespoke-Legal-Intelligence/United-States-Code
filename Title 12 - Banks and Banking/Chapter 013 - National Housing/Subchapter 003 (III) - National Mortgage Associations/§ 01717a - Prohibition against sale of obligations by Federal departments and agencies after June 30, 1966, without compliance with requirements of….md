@@ -1,6 +1,6 @@
 ### §1717a. Prohibition against sale of obligations by Federal departments and agencies after June 30, 1966, without compliance with requirements of section 1717(c) of this title or without approval by Secretary of the Treasury; exemption
 
-After June 30, 1966, no department or agency listed in section 1717(c)(2) of this title may sell any obligation held by it except as provided in section 1717(c) of this title, or as approved by the Secretary of the Treasury, except that this prohibition shall not apply to the Government National Mortgage Association.
+After June 30, 1966, no department or agency listed in section 1717(c)(2) of this title may sell any obligation held by it except as provided in section 1717(c) of this title, or as approved bythe Secretary of the Treasury, except that this prohibition shall not apply to the Government National Mortgage Association.
 
 (Pub. L. 89–429, §6(b), May 24, 1966, 80 Stat. 167; Pub. L. 90–448, title VIII, §807(g), Aug. 1, 1968, 82 Stat. 545.)
 
@@ -10,7 +10,7 @@ Section was enacted as a part of the Participation Sales Act of 1966, and not as
 
 #### Amendments
 
-1968—Pub. L. 90–448 substituted “the Government National Mortgage Association” for “secondary marketoperations carried on by the Federal National Mortgage Association”.
+1968—Pub. L. 90–448 substituted “the Government National Mortgage Association” for “secondary market operations carried on by the Federal National Mortgage Association”.
 
 #### Effective Date of 1968 Amendment
 

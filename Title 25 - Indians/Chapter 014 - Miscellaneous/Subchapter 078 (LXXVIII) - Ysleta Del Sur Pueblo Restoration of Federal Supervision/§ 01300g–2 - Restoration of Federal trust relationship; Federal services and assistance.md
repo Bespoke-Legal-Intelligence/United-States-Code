@@ -6,7 +6,7 @@ The Federal trust relationship between the United States and the tribe is hereby
 
 #### (b) Restoration of rights and privileges
 
-All rights and privileges of the tribe and members of the tribe under any Federal treaty, statute, Executive order, agreement, or under any other authority of the United States which may have been diminished or lost under the Tiwa Indians Act are hereby restored.
+All rights and privileges of the tribe and members of the tribe under any Federal treaty, statute, Executive order, agreement, or under any other authority of the United States which mayhave been diminished or lost under the Tiwa Indians Act are hereby restored.
 
 #### (c) Federal services and benefits
 

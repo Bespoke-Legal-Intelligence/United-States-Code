@@ -50,7 +50,7 @@ The Administrator may issue a license to a citizen of the United States in accor
 
 (2) No license shall be issued, transferred, or renewed under this chapter unless the applicant, licensee or transferee first agrees in writing that (A) there will be no substantial change from the plans, operational systems, and methods, procedures, and safeguards set forth in his application, as approved, without prior approval in writing from the Administrator, and (B) he will comply with conditions the Administrator may prescribe in accordance with the provisions of this chapter.
 
-(3) The Administrator shall establish such bonding requirements or other assurances as he deems necessary to assure that, upon the revocation, termination, relinquishment, or surrender of a license, the licensee will dispose of or remove all components of the ocean thermal energy conversion facility or plantship as directed by the Administrator. In the case of components which another applicant or licensee desires to use, the Administrator may waive the disposal or removal requirements until he has reached a decision on the application. In the case of components lying on or below the seabed, the Administrator may waive the disposal or removal requirements if he finds that such removal is not otherwise necessary and that the remaining components do not constitute any threat to the environment, navigation, fishing, or other uses of the seabed.
+(3) The Administrator shall establish such bonding requirements or other assurances as he deems necessary to assure that, upon the revocation, termination, relinquishment, or surrender of a license, the licensee will dispose of or remove all components of the ocean thermal energy conversion facility or plantship as directedby the Administrator. In the case of components which another applicant or licensee desires to use, the Administrator may waive the disposal or removal requirements until he has reached a decision on the application. In the case of components lying on or below the seabed, the Administrator may waive the disposal or removal requirements if he finds that such removal is not otherwise necessary and that the remaining components do not constitute any threat to the environment, navigation, fishing, or other uses of the seabed.
 
 #### (e) License transfer
 
@@ -91,6 +91,10 @@ Subsec. (c)(13). Pub. L. 98–623, §602(b)(4), substituted “or” for “and�
 Subsec. (c)(14). Pub. L. 98–623, §602(e)(10), substituted “if a regulation” for “when a regulation”.
 
 Subsec. (d)(2). Pub. L. 98–623, §602(e)(11), substituted “applicant, licensee” for “licensee”.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Territorial Sea of United States
 

@@ -16,15 +16,17 @@
 
 (b) As used in this section (i) “unlawful activity” means (1) any business enterprise involving gambling, liquor on which the Federal excise tax has not been paid, narcotics or controlled substances (as defined in section 102(6) of the Controlled Substances Act), or prostitution offenses in violation of the laws of the State in which they are committed or of the United States, (2) extortion, bribery, or arson in violation of the laws of the State in which committed or of the United States, or (3) any act which is indictable under subchapter II of chapter 53 of title 31, United States Code, or under section 1956 or 1957 of this title and (ii) the term “State” includes a State of the United States, the District of Columbia, and any commonwealth, territory, or possession of the United States.
 
-(c) Investigations of violations under this section involving liquor shall be conducted under the supervision of the Secretary of the Treasury.
+(c) Investigations of violations under this section involving liquor shall be conducted under the supervision of the Attorney General.
 
-(Added Pub. L. 87–228, §1(a), Sept. 13, 1961, 75 Stat. 498; amended Pub. L. 89–68, July 7, 1965, 79 Stat. 212; Pub. L. 91–513, title II, §701(i)(2), Oct. 27, 1970, 84 Stat. 1282; Pub. L. 99–570, title I, §1365(a), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 101–647, title XII, §1205(i), title XVI, §1604, Nov. 29, 1990, 104 Stat. 4831, 4843; Pub. L. 103–322, title XIV, §140007(a), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2033, 2147.)
+(Added Pub. L. 87–228, §1(a), Sept. 13, 1961, 75 Stat. 498; amended Pub. L. 89–68, July 7, 1965, 79 Stat. 212; Pub. L. 91–513, title II, §701(i)(2), Oct.27, 1970, 84 Stat. 1282; Pub. L. 99–570, title I, §1365(a), Oct. 27, 1986, 100 Stat. 3207–35; Pub. L. 101–647, title XII, §1205(i), title XVI, §1604, Nov. 29, 1990, 104 Stat. 4831, 4843; Pub. L. 103–322, title XIV, §140007(a), title XXXIII, §330016(1)(L), Sept. 13, 1994, 108 Stat. 2033, 2147; Pub. L. 107–296, title XI, §1112(h), Nov. 25, 2002, 116 Stat. 2277.)
 
 #### References in Text
 
 Section 102(6) of the Controlled Substances Act, referred to in subsec. (b)(i)(1), is classified to section 802(6) of Title 21, Food and Drugs.
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–296 substituted “Attorney General” for “Secretary of the Treasury”.
 
 1994—Pub. L. 103–322, §330016(1)(L), which directed the amendment of this section by substituting “under this title” for “not more than $10,000”, could not be executed because the phrase “not more than $10,000” did not appear in text subsequent to amendment of subsec. (a) by Pub. L. 103–322, §140007(a). See below.
 
@@ -41,6 +43,10 @@ Subsec. (b). Pub. L. 101–647, §1205(i), inserted “(i)” after “As used i
 Subsec. (c). Pub. L. 91–513, §701(i)(2)(B), struck out reference to investigations involving narcotics.
 
 1965—Subsec. (b)(2). Pub. L. 89–68 made section applicable to travel in aid of arson.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1970 Amendment
 

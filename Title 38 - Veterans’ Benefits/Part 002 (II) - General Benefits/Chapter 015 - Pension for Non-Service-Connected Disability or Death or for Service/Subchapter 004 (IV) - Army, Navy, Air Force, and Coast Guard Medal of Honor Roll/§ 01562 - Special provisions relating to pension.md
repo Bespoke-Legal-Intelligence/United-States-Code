@@ -1,6 +1,6 @@
 ### §1562. Special provisions relating to pension
 
-(a) The Secretary shall pay monthly to each person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor roll, and a copy of whose certificate has been delivered to the Secretary under subsection (c) of section 1561 of this title, a special pension at the rate of $600, beginning as of the date of application therefor under section 1560 of this title.
+(a) The Secretary shall pay monthly to each person whose name has been entered on the Army, Navy, Air Force, and Coast Guard Medal of Honor roll, and a copy of whose certificate has been delivered to the Secretary under subsection (c) of section 1561 of this title, a special pension at the rate of $1,000, as adjusted from time to time under subsection (e), beginning as of the date of application therefor under section 1560 of this title.
 
 (b) The receipt of special pension shall not deprive any person of any other pension or other benefit, right, or privilege to which such person is or may hereafter be entitled under any existing or subsequent law. Special pension shall be paid in addition to all other payments under laws of the United States.
 
@@ -8,7 +8,17 @@
 
 (d) If any person has been awarded more than one medal of honor, such person shall not receive more than one special pension.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1140, §562; Pub. L. 87–138, §3, Aug. 14, 1961, 75 Stat. 339; Pub. L. 88–77, §5(2), July 25, 1963, 77 Stat. 95; Pub. L. 94–169, title I, §106(44), (45), Dec. 23, 1975, 89 Stat. 1019; Pub. L. 95–479, title III, §302, Oct. 18, 1978, 92 Stat. 1565; renumbered §1562 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–161, §1(a), Nov. 30, 1993, 107 Stat. 1967; Pub. L. 105–368, title III, §301(a), Nov. 11, 1998, 112 Stat. 3332.)
+(e) Effective as of December 1 each year, the Secretary shall increase the amount of monthly special pension payable under subsection (a) as of November 30 of such year by the same percentage as the percentage by which benefit amounts payable under title II of the Social Security Act (42 U.S.C. 401 et seq.) are increased effective December 1 of such year as a result of a determination under section 215(i) of that Act (42 U.S.C. 415(i)).
+
+(f)(1) The Secretary shall pay, in a lump sum, to each person who is in receipt of special pension payable under this section an amount equal to the total amount of special pension that the person would have received during the period beginning on the first day of the first month beginning after the date of the act for which the person was awarded the Medal of Honor and ending on the last day of the month preceding the month in which the person's special pension in fact commenced.
+
+(2) For each month of a period referred to in paragraph (1), the amount of special pension payable to a person shall be determined using the rate of special pension that was in effect for such month, and shall be payable only if the person would have been entitled to payment of special pension for such month under laws for eligibility for special pension (with the exception of the eligibility law requiring a person to have been awarded a Medal of Honor) in effect at the beginning of such month.
+
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1140, §562; Pub. L. 87–138, §3, Aug. 14, 1961, 75 Stat. 339; Pub. L. 88–77, §5(2), July 25, 1963, 77 Stat. 95; Pub. L. 94–169, title I, §106(44), (45), Dec. 23, 1975, 89 Stat. 1019; Pub. L. 95–479, title III, §302, Oct. 18, 1978, 92 Stat. 1565; renumbered §1562 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), (c)(1), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 103–161, §1(a), Nov. 30, 1993, 107 Stat. 1967; Pub. L. 105–368, title III, §301(a), Nov. 11, 1998, 112 Stat. 3332; Pub. L. 107–330, title III, §304(a)–(c), Dec. 6, 2002, 116 Stat. 2826.)
+
+#### References in Text
+
+The Social Security Act, referred to in subsec. (e), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title II of the Act is classified generally to subchapter II (§401 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
 #### Prior Provisions
 
@@ -96,7 +106,7 @@ Prior section 1672, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 15, rela
 
 Prior section 1675, added Pub. L. 89–358, §2, Mar. 3, 1966, 80 Stat. 16, related to period of operation for approval by Administrator, prior to repeal by Pub. L. 92–540, title IV, §401(6), Oct. 24, 1972, 86 Stat. 1090. See section 3689 of this title.
 
-Prior section 1677, added Pub. L. 90–77, title III, §302(b), Aug. 31, 1967, 81 Stat. 185; amended Pub. L. 90–631, §5, Oct. 23, 1968, 82 Stat. 1335; Pub. L. 91–219, title I, §102, title II, §203, Mar. 26, 1970, 84 Stat. 76, 78; Pub. L. 92–540, title I, §102(1), title IV, §401(3), Oct. 24, 1972, 86 Stat. 1075, 1090; Pub. L. 93–508, title I, §102(1), Dec. 3, 1974, 88 Stat. 1579; Pub. L. 93–602, title II, §203(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 95–202, title I, §102(1), Nov. 23, 1977, 91 Stat. 1433; Pub. L. 96–466, title II, §§201(1), 211(1), title VI, §603(a), Oct. 17, 1980, 94 Stat. 2187, 2189, 2209, set forth provisions respecting eligibility, approval, etc., for flight training, prior to repeal by Pub. L. 97–35, title XX, §§2003(b)(3)(A), 2006, Aug. 13, 1981, 95 Stat. 782, 783, effective Oct. 1, 1981, except as otherwise provided for persons receiving educational assistance.
+Prior section 1677, added Pub. L. 90–77, title III, §302(b), Aug. 31, 1967, 81 Stat. 185; amended Pub. L. 90–631, §5, Oct. 23, 1968, 82 Stat. 1335; Pub. L. 91–219, title I, §102, title II, §203, Mar. 26, 1970, 84 Stat. 76, 78; Pub. L. 92–540, title I, §102(1), title IV, §401(3), Oct. 24, 1972, 86 Stat. 1075, 1090; Pub. L. 93–508, title I, §102(1), Dec. 3, 1974, 88 Stat. 1579; Pub. L. 93–602, title II, §203(a), Jan. 2, 1975, 88 Stat. 1958; Pub. L. 95–202, title I, §102(1), Nov.23, 1977, 91 Stat. 1433; Pub. L. 96–466, title II, §§201(1), 211(1), title VI, §603(a), Oct. 17, 1980, 94 Stat. 2187, 2189, 2209, set forth provisions respecting eligibility, approval, etc., for flight training, prior to repeal by Pub. L. 97–35, title XX, §§2003(b)(3)(A), 2006, Aug. 13, 1981, 95 Stat. 782, 783, effective Oct. 1, 1981, except as otherwise provided for persons receiving educational assistance.
 
 Prior section 1678, added Pub. L. 90–77, title III, §306(a), Aug. 31, 1967, 81 Stat. 188, related to special training for educationally disadvantaged, prior to repeal by Pub. L. 91–219, title II, §204(a)(2), Mar. 26, 1970, 84 Stat. 79. See subchapter V of chapter 34 of this title.
 
@@ -136,6 +146,12 @@ Prior section 1700, which comprised the first section of chapter 35, was renumbe
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–330, §304(a), substituted “$1,000, as adjusted from time to time under subsection (e)” for “$600”.
+
+Subsec. (e). Pub. L. 107–330, §304(b), added subsec. (e).
+
+Subsec. (f). Pub. L. 107–330, §304(c), added subsec. (f).
+
 1998—Subsec. (a). Pub. L. 105–368 substituted “$600” for “$400”.
 
 1993—Subsec. (a). Pub. L. 103–161 substituted “$400” for “$200”.
@@ -156,13 +172,21 @@ Subsecs. (b), (d). Pub. L. 94–169, §106(45), substituted “such person” fo
 
 1961—Subsec. (a). Pub. L. 87–138 inserted “, and a copy of whose certificate has been delivered to him under subsection (c) of section 561 of this title,” after “Medal of Honor roll”, and increased pension from $10 to $100.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–330, title III, §304(d), Dec. 6, 2002, 116 Stat. 2826, provided that:
+
+“(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section\] shall take effect on September 1, 2003. No payment may be made pursuant to subsection (f) of section 1562 of title 38, United States Code, as added by subsection (c) of this section, before October 1, 2003.
+
+“(2) The Secretary of Veterans Affairs shall not make any adjustment under subsection (e) of section 1562 of title 38, United States Code, as added by subsection (b) of this section, in 2003.”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–368, title III, §301(b), Nov. 11, 1998, 112 Stat. 3332, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect on the first day of the first month beginning on or after the date of the enactment of this Act \[Nov. 11, 1998\].”
 
 #### Effective Date of 1993 Amendment
 
-Section 1(b) of Pub. L. 103–161 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to months beginning after the date of the enactment of this Act \[Nov. 30, 1993\].”
+Section 1(b) of Pub. L. 103–161 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply with respect to months beginningafter the date of the enactment of this Act \[Nov. 30, 1993\].”
 
 #### Effective Date of 1978 Amendment
 
@@ -171,6 +195,10 @@ Amendment by Pub. L. 95–479 effective Jan. 1, 1979, see section 401(b) of Pub.
 #### Effective Date of 1975 Amendment
 
 Section 106 of Pub. L. 94–169 provided that the amendment made by that section is effective Jan. 1, 1976.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

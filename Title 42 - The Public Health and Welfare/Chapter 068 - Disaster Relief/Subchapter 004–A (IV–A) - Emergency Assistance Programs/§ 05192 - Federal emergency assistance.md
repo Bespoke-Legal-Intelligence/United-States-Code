@@ -24,7 +24,7 @@ In any emergency, the President may—
 
 &emsp;(5) remove debris in accordance with the terms and conditions of section 5173 of this title;
 
-&emsp;(6) provide temporary housing assistance in accordance with section 5174 of this title; and
+&emsp;(6) provide assistance in accordance with section 5174 of this title; and
 
 &emsp;(7) assist State and local governments in the distribution of medicine, food, and other consumable supplies, and emergency assistance.
 
@@ -34,9 +34,9 @@ Whenever the Federal assistance provided under subsection (a) of this section wi
 
 (Pub. L. 93–288, title V, §502, as added Pub. L. 100–707, title I, §107(a), Nov. 23, 1988, 102 Stat. 4706; amended Pub. L. 106–390, title II, §206(b), Oct. 30, 2000, 114 Stat. 1570.)
 
-#### Amendment of Subsection (a)(6)
+#### Amendments
 
-<i>Pub. L. 106–390, title II, §206(b), (d), Oct. 30, 2000, 114 Stat. 1570, 1571, provided that, effective 18 months after Oct. 30, 2000, subsection (a)(6) of this section is amended by striking “temporary housing”.</i>
+2000—Subsec. (a)(6). Pub. L. 106–390 struck out “temporary housing” after “provide”.
 
 #### Effective Date of 2000 Amendment
 

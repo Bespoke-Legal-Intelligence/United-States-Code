@@ -1,0 +1,22 @@
+### §3606. E-Government report
+
+(a) Not later than March 1 of each year, the Director shall submit an E-Government status report to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives.
+
+(b) The report under subsection (a) shall contain—
+
+&emsp;(1) a summary of the information reported by agencies under section 202(f) of the E-Government Act of 2002;
+
+&emsp;(2) the information required to be reported by section 3604(f); and
+
+&emsp;(3) a description of compliance by the Federal Government with other goals and provisions of the E-Government Act of 2002.
+
+(Added Pub. L. 107–347, title I, §101(a), Dec. 17, 2002, 116 Stat. 2909.)
+
+#### References in Text
+
+The E-Government Act of 2002, referred to in subsec. (b)(3), is Pub. L. 107–347, Dec. 17, 2002, 116 Stat. 2899. Section 202(f) of the Act is set out in a note under section 3501 of this title. For complete classification of this Act to the Code, see Tables.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3602, 3604 of this title.
+

@@ -205,7 +205,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 300a–7, 3013, 14404 of this title; title 20 section 1444; title 29 section 762, 781, 794e, 3012.
+This chapter is referred to in sections 300a–7, 3013, 14404 of this title; title 20 section 1444; title 29 section 762, 781, 794e, 3012; title 40 section 14502.
 
 
 ---

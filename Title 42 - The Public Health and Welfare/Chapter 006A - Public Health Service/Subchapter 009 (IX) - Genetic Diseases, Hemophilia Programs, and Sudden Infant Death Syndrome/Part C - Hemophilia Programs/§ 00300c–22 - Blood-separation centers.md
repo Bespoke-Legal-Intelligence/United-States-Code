@@ -90,7 +90,7 @@ In General.—If the conditions described in subsection (b) are met and if there
 
 &emsp;&emsp;“(A) is the lawful spouse of an individual described in paragraph (1); or
 
-&emsp;&emsp;“(B) is the former lawful spouse of an individual described in paragraph (1) and was the lawful spouse of the individual at any time after a date, within the period described in such subparagraph, on which the individual was treated as described in such paragraph and through medical documentation can assert reasonable certainty of transmission of HIV from individual described in paragraph (1).
+&emsp;&emsp;“(B) is the former lawful spouse of an individual described in paragraph (1) and was the lawful spouse of the individual at any time after a date, within the period described in such subparagraph,on which the individual was treated as described in such paragraph and through medical documentation can assert reasonable certainty of transmission of HIV from individual described in paragraph (1).
 
 &emsp;“(3) The individual acquired the HIV infection through perinatal transmission from a parent who is an individual described in paragraph (1) or (2).
 
@@ -114,7 +114,7 @@ Determination.—The Secretary determines, in accordance with section 103(b), th
 
 “(a)
 
-Establishment of Filing Procedures.—The Secretary of Health and Human Services shall establishprocedures under which individuals may submit petitions for payment under this title. The procedures shall include a requirement that each petition filed under this Act include written medical documentation that the relevant individual described in section 102(a)(1) has (or had) a blood-clotting disorder, such as hemophilia, and was treated as described in such section.
+Establishment of Filing Procedures.—The Secretary of Health and Human Services shall establish procedures under which individuals may submit petitions for payment under this title. The procedures shall include a requirement that each petition filed under this Act include written medical documentation that the relevant individual described in section 102(a)(1) has (or had) a blood-clotting disorder, such as hemophilia, and was treated as described in such section.
 
 “(b)
 
@@ -212,7 +212,7 @@ One Petition With Respect to Each Victim.—With respect to each individual desc
 
 #### “SEC. 106. CERTAIN CLAIMS NOT AFFECTED BY PAYMENT.
 
-“A payment made under section 103(c)(1) shall not be considered as any form of compensation, or reimbursement for a loss, for purposes of imposing liability on the individual receiving the payment, on the basis of such receipt, to repay any insurance carrier for insurance payments or to repay any person on account of worker's compensation payments. A payment under this title shall not affect any claim against an insurance carrier with respect to insurance or against any person with respect to worker's compensation.
+“A payment made under section 103(c)(1) shall not be considered as any form of compensation, or reimbursement for a loss, for purposes of imposing liability onthe individual receiving the payment, on the basis of such receipt, to repay any insurance carrier for insurance payments or to repay any person on account of worker's compensation payments. A payment under this title shall not affect any claim against an insurance carrier with respect to insurance or against any person with respect to worker's compensation.
 
 #### “SEC. 107. LIMITATION ON AGENT AND ATTORNEY FEES.
 

@@ -18,7 +18,7 @@ Officers of the Regular Corps, found pursuant to subsection (c) of this section 
 
 &emsp;(1) Officers in the warrant officer (W–1) grade, chief warrant officer (W–2) grade, chief warrant officer (W–3) grade, chief warrant officer (W–4) grade, and junior assistant grade shall be promoted at such times as may be prescribed in regulations of the President.
 
-&emsp;(2) Officers with permanent rank in the assistant grade, the senior assistant grade, and the full grade shall (except as provided in regulations under subsection (b) of this section) be promoted after completion of three, ten, and seventeen years, respectively, of service in grades above the junior assistant grade; and such promotions, when made, shall be effective, for purposes of pay and seniority in grade, as of the day following the completion of such years of service. An officer with permanent rank in the assistant, senior assistant, or full grade who has not completed such years of service shall be promoted at the same time, and his promotion shall be effective as of the same day, as any officer junior to him in the same grade in the same professional category who is promoted under this paragraph.
+&emsp;(2) Officers with permanent rank in the assistant grade, the senior assistant grade, and the full grade shall (except as provided in regulations under subsection (b) of this section) be promoted after completion of three, ten, and seventeen years, respectively, of service in grades above the junior assistant grade; and such promotions, when made, shall be effective, for purposes of pay and seniority in grade, as of the day following the completion of such years of service. An officer with permanent rank in the assistant, senior assistant, or full grade who has not completed such yearsof service shall be promoted at the same time, and his promotion shall be effective as of the same day, as any officer junior to him in the same grade in the same professional category who is promoted under this paragraph.
 
 #### (e) Promotion of professional category officers to fill certain vacancies
 
@@ -62,7 +62,7 @@ At the end of his first three years of service, the record of each officer of th
 
 #### (k) Temporary promotions; fill vacancy in higher grade; war or national emergency; selection of officers; termination of appointment
 
-Any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for temporary promotion to fill a vacancy in any higher grade in such category, up to and including the director grade. In time of war, or of national emergency proclaimed by the President, any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for promotion to any higher grade in such category, up to and including the director grade, whether or not a vacancy exists in such grade. The selection of officers to be recommended for temporary promotions shall be made in accordance with regulations of the President. Promotion of an officer recommended pursuant to this subsection may be made without regard to length of service, without examination, and without vacating his permanent appointment, and shall carry with it the pay and allowances of the grade to which promoted. Such promotions may be terminated at any time, as may be directed by the President.
+Any commissioned officer of the Regular Corps in any grade in any professional categorymay be recommended to the President for temporary promotion to fill a vacancy in any higher grade in such category, up to and including the director grade. In time of war, or of national emergency proclaimed by the President, any commissioned officer of the Regular Corps in any grade in any professional category may be recommended to the President for promotion to any higher grade in such category, up to and including the director grade, whether or not a vacancy exists in such grade. The selection of officers to be recommended for temporary promotions shall be made in accordance with regulations of the President. Promotion of an officer recommended pursuant to this subsection may be made without regard to length of service, without examination, and without vacating his permanent appointment, and shall carry with it the pay and allowances of the grade to which promoted. Such promotions may be terminated at any time, as may be directed by the President.
 
 #### (<i>l</i>) Determination of requirements of Service by Secretary; assignment of Reserve Officers to professional categories; temporary promotions; termination of temporary promotions
 
@@ -112,7 +112,7 @@ Amendment by Pub. L. 87–649 effective Nov. 1, 1962, see section 15 of Pub. L. 
 
 #### Effective Date of 1949 Amendment
 
-Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949.
+Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a note under section 854a of Title 33, Navigation and Navigable Waters.
 
 #### Transfer of Functions
 

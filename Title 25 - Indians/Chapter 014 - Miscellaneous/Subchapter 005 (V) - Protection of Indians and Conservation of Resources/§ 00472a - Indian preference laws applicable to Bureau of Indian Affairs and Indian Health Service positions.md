@@ -12,7 +12,7 @@ For purposes of applying reduction-in-force procedures under subsection (a) of s
 
 &emsp;(B) in the course of a reduction in force; or
 
-&emsp;(C) because the employee's working relationship with a tribe has so deteriorated that the employee cannot provide effective service for such tribe or the Federal Government.
+&emsp;(C) because the employee's working relationship with a tribe has so deteriorated that theemployee cannot provide effective service for such tribe or the Federal Government.
 
 (2) The authority to make any determination under subparagraph (A), (B), or (C) of paragraph (1) is vested in the Secretary of the Interior with respect to the Bureau of Indian Affairs and the Secretary of Health and Human Services with respect to the Indian Health Service, and, notwithstanding any other provision of law, the Secretary involved may not delegate such authority to any individual other than a Deputy Secretary or Assistant Secretary of the respective department.
 

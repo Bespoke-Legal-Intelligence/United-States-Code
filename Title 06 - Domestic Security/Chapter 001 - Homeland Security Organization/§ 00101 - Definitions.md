@@ -1,0 +1,376 @@
+### §101. Definitions
+
+In this chapter, the following definitions apply:
+
+&emsp;(1) Each of the terms “American homeland” and “homeland” means the United States.
+
+&emsp;(2) The term “appropriate congressional committee” means any committee of the House of Representatives or the Senate having legislative or oversight jurisdiction under the Rules of the House of Representatives or the Senate, respectively, over the matter concerned.
+
+&emsp;(3) The term “assets” includes contracts, facilities, property, records, unobligated or unexpended balances of appropriations, and other funds or resources (other than personnel).
+
+&emsp;(4) The term “critical infrastructure” has the meaning given that term in section 5195c(e) of title 42.
+
+&emsp;(5) The term “Department” means the Department of Homeland Security.
+
+&emsp;(6) The term “emergency response providers” includes Federal, State, and local emergency public safety, law enforcement, emergency response, emergency medical (including hospital emergency facilities), and related personnel, agencies, and authorities.
+
+&emsp;(7) The term “executive agency” means an executive agency and a military department, as defined, respectively, in sections 105 and 102 of title 5.
+
+&emsp;(8) The term “functions” includes authorities, powers, rights, privileges, immunities, programs, projects, activities, duties, and responsibilities.
+
+&emsp;(9) The term “key resources” means publicly or privately controlled resources essential to the minimal operations of the economy and government.
+
+&emsp;(10) The term “local government” means—
+
+&emsp;&emsp;(A) a county, municipality, city, town, township, local public authority, school district, special district, intrastate district, council of governments (regardless of whether the council of governments is incorporated as a nonprofit corporation under State law), regional or interstate government entity, or agency or instrumentality of a local government;
+
+&emsp;&emsp;(B) an Indian tribe or authorized tribal organization, or in Alaska a Native village or Alaska Regional Native Corporation; and
+
+&emsp;&emsp;(C) a rural community, unincorporated town or village, or other public entity.
+
+&emsp;(11) The term “major disaster” has the meaning given in section 5122(2) of title 42.
+
+&emsp;(12) The term “personnel” means officers and employees.
+
+&emsp;(13) The term “Secretary” means the Secretary of Homeland Security.
+
+&emsp;(14) The term “State” means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, and any possession of the United States.
+
+&emsp;(15) The term “terrorism” means any activity that—
+
+&emsp;&emsp;(A) involves an act that—
+
+&emsp;&emsp;&emsp;(i) is dangerous to human life or potentially destructive of critical infrastructure or key resources; and
+
+&emsp;&emsp;&emsp;(ii) is a violation of the criminal laws of the United States or of any State or other subdivision of the United States; and
+
+&emsp;&emsp;(B) appears to be intended—
+
+&emsp;&emsp;&emsp;(i) to intimidate or coerce a civilian population;
+
+&emsp;&emsp;&emsp;(ii) to influence the policy of a government by intimidation or coercion; or
+
+&emsp;&emsp;&emsp;(iii) to affect the conduct of a government by mass destruction, assassination, or kidnapping.
+
+&emsp;(16)(A) The term “United States”, when used in a geographic sense, means any State of the United States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands, Guam, American Samoa, the Commonwealth of the Northern Mariana Islands, any possession of the United States, and any waters within the jurisdiction of the United States.
+
+&emsp;(B) Nothing in this paragraph or any other provision of this chapter shall be construed to modify the definition of “United States” for the purposes of the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] or any other immigration or nationality law.
+
+(Pub. L. 107–296, §2, Nov. 25, 2002, 116 Stat. 2140.)
+
+#### References in Text
+
+This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 107–296, Nov. 25, 2002, 116 Stat. 2135, known as the Homeland Security Act of 2002, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+
+The Immigration and Nationality Act, referred to in par. (16)(B), is act June 27, 1952, ch. 477, 66 Stat. 163, as amended, which is classified principally to chapter 12 (§1101 et seq.) of Title 8, Aliens and Nationality. For complete classification of this Act to the Code, see Short Title note set out under section 1101 of Title 8 and Tables.
+
+#### Effective Date
+
+Pub. L. 107–296, §4, Nov. 25, 2002, 116 Stat. 2142, provided that: “This Act \[see Tables for classification\] shall take effect 60 days after the date of enactment \[Nov. 25, 2002\].”
+
+#### Short Title
+
+Pub. L. 107–296, §1(a), Nov. 25, 2002, 116 Stat. 2135, provided that: “This Act \[see Tables for classification\] may be cited as the ‘Homeland Security Act of 2002’.”
+
+Pub. L. 107–296, title II, §211, Nov. 25, 2002, 116 Stat. 2150, provided that: “This subtitle \[subtitle B (§§211–215) of title II of Pub. L. 107–296, enacting part B of subchapter II of this chapter\] may be cited as the ‘Critical Infrastructure Information Act of 2002’.”
+
+Pub. L. 107–296, title VIII, §861, Nov. 25, 2002, 116 Stat. 2238, provided that: “This subtitle \[subtitle G (§§861–865) of title VIII of Pub. L. 107–296, enacting part G of subchapter VIII of this chapter\] may be cited as the ‘Support Anti-terrorism by Fostering Effective Technologies Act of 2002’ or the ‘SAFETY Act’.”
+
+For short title of part I of subchapter VIII of this chapter as the “Homeland Security Information Sharing Act”, see section 481(a) of this title.
+
+Pub. L. 107–296, title X, §1001(a), Nov. 25, 2002, 116 Stat. 2259, provided that: “This title \[enacting subchapter X of this chapter and sections 3531 to 3537 and 3538 of Title 44, Public Printing and Documents, amending section 2224 of Title 10, Armed Forces, sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, section 11331 of Title 40, Public Buildings, Property, and Works, and sections 3504 to 3506 of Title 44, and repealing section 11332 of Title 40 and provisions set out as notes under section 3531 of Title 44\] may be cited as the ‘Federal Information Security Management Act of 2002’.”
+
+#### National Commission on Terrorist Attacks Upon the United States
+
+Pub. L. 107–306, title VI, Nov. 27, 2002, 116 Stat. 2408, provided that:
+
+#### “SEC. 601. ESTABLISHMENT OF COMMISSION.
+
+“There is established in the legislative branch the National Commission on Terrorist Attacks Upon the United States (in this title referred to as the ‘Commission’).
+
+#### “SEC. 602. PURPOSES.
+
+“The purposes of the Commission are to—
+
+&emsp;“(1) examine and report upon the facts and causes relating to the terrorist attacks of September 11, 2001, occurring at the World Trade Center in New York, New York, in Somerset County, Pennsylvania, and at the Pentagon in Virginia;
+
+&emsp;“(2) ascertain, evaluate, and report on the evidence developed by all relevant governmental agencies regarding the facts and circumstances surrounding the attacks;
+
+&emsp;“(3) build upon the investigations of other entities, and avoid unnecessary duplication, by reviewing the findings, conclusions, and recommendations of—
+
+&emsp;&emsp;“(A) the Joint Inquiry of the Select Committee on Intelligence of the Senate and the Permanent Select Committee on Intelligence of the House of Representatives regarding the terrorist attacks of September 11, 2001, (hereinafter in this title referred to as the ‘Joint Inquiry’); and
+
+&emsp;&emsp;“(B) other executive branch, congressional, or independent commission investigations into the terrorist attacks of September 11, 2001, other terrorist attacks, and terrorism generally;
+
+&emsp;“(4) make a full and complete accounting of the circumstances surrounding the attacks, and the extent of the United States’ preparedness for, and immediate response to, the attacks; and
+
+&emsp;“(5) investigate and report to the President and Congress on its findings, conclusions, and recommendations for corrective measures that can be taken to prevent acts of terrorism.
+
+#### “SEC. 603. COMPOSITION OF COMMISSION.
+
+“(a)
+
+Members.—The Commission shall be composed of 10 members, of whom—
+
+&emsp;“(1) 1 member shall be appointed by the President, who shall serve as chairman of the Commission;
+
+&emsp;“(2) 1 member shall be appointed by the leader of the Senate (majority or minority leader, as the case may be) of the Democratic Party, in consultation with the leader of the House of Representatives (majority or minority leader, as the case may be) of the Democratic Party, who shall serve as vice chairman of the Commission;
+
+&emsp;“(3) 2 members shall be appointed by the senior member of the Senate leadership of the Democratic Party;
+
+&emsp;“(4) 2 members shall be appointed by the senior member of the leadership of the House of Representatives of the Republican Party;
+
+&emsp;“(5) 2 members shall be appointed by the senior member of the Senate leadership of the Republican Party; and
+
+&emsp;“(6) 2 members shall be appointed by the senior member of the leadership of the House of Representatives of the Democratic Party.
+
+“(b)
+
+Qualifications; Initial Meeting.—
+
+&emsp;“(1)
+
+Political party affiliation.—Not more than 5 members of the Commission shall be from the same political party.
+
+&emsp;“(2)
+
+Nongovernmental appointees.—An individual appointed to the Commission may not be an officer or employee of the Federal Government or any State or local government.
+
+&emsp;“(3)
+
+Other qualifications.—It is the sense of Congress that individuals appointed to the Commission should be prominent United States citizens, with national recognition and significant depth of experience in such professions as governmental service, law enforcement, the armed services, law, public administration, intelligence gathering, commerce (including aviation matters), and foreign affairs.
+
+&emsp;“(4)
+
+Deadline for appointment.—All members of the Commission shall be appointed on or before December 15, 2002.
+
+&emsp;“(5)
+
+Initial meeting.—The Commission shall meet and begin the operations of the Commission as soon as practicable.
+
+“(c)
+
+Quorum; Vacancies.—After its initial meeting, the Commission shall meet upon the call of the chairman or a majority of its members. Six members of the Commission shall constitute a quorum. Any vacancy in the Commission shall not affect its powers, but shall be filled in the same manner in which the original appointment was made.
+
+#### “SEC. 604. FUNCTIONS OF COMMISSION.
+
+“(a)
+
+In General.—The functions of the Commission are to—
+
+&emsp;“(1) conduct an investigation that—
+
+&emsp;&emsp;“(A) investigates relevant facts and circumstances relating to the terrorist attacks of September 11, 2001, including any relevant legislation, Executive order, regulation, plan, policy, practice, or procedure; and
+
+&emsp;&emsp;“(B) may include relevant facts and circumstances relating to—
+
+&emsp;&emsp;&emsp;“(i) intelligence agencies;
+
+&emsp;&emsp;&emsp;“(ii) law enforcement agencies;
+
+&emsp;&emsp;&emsp;“(iii) diplomacy;
+
+&emsp;&emsp;&emsp;“(iv) immigration, nonimmigrant visas, and border control;
+
+&emsp;&emsp;&emsp;“(v) the flow of assets to terrorist organizations;
+
+&emsp;&emsp;&emsp;“(vi) commercial aviation;
+
+&emsp;&emsp;&emsp;“(vii) the role of congressional oversight and resource allocation; and
+
+&emsp;&emsp;&emsp;“(viii) other areas of the public and private sectors determined relevant by the Commission for its inquiry;
+
+&emsp;“(2) identify, review, and evaluate the lessons learned from the terrorist attacks of September 11, 2001, regarding the structure, coordination, management policies, and procedures of the Federal Government, and, if appropriate, State and local governments and nongovernmental entities, relative to detecting, preventing, and responding to such terrorist attacks; and
+
+&emsp;“(3) submit to the President and Congress such reports as are required by this title containing such findings, conclusions, and recommendations as the Commission shall determine, including proposing organization, coordination, planning, management arrangements, procedures, rules, and regulations.
+
+“(b)
+
+Relationship to Intelligence Committees’ Inquiry.—When investigating facts and circumstances relating to the intelligence community, the Commission shall—
+
+&emsp;“(1) first review the information compiled by, and the findings, conclusions, and recommendations of, the Joint Inquiry; and
+
+&emsp;“(2) after that review pursue any appropriate area of inquiry if the Commission determines that—
+
+&emsp;&emsp;“(A) the Joint Inquiry had not investigated that area;
+
+&emsp;&emsp;“(B) the Joint Inquiry's investigation of that area had not been complete; or
+
+&emsp;&emsp;“(C) new information not reviewed by the Joint Inquiry had become available with respect to that area.
+
+#### “SEC. 605. POWERS OF COMMISSION.
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Hearings and evidence.—The Commission or, on the authority of the Commission, any subcommittee or member thereof, may, for the purpose of carrying out this title—
+
+&emsp;&emsp;“(A) hold such hearings and sit and act at such times and places, take such testimony, receive such evidence, administer such oaths; and
+
+&emsp;&emsp;“(B) subject to paragraph (2)(A), require, by subpoena or otherwise, the attendance and testimony of such witnesses and the production of such books, records, correspondence, memoranda, papers, and documents, as the Commission or such designated subcommittee or designated member may determine advisable.
+
+&emsp;“(2)
+
+Subpoenas.—
+
+&emsp;&emsp;“(A)
+
+Issuance.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—A subpoena may be issued under this subsection only—
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(I) by the agreement of the chairman and the vice chairman; or
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;“(II) by the affirmative vote of 6 members of the Commission.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Signature.—Subject to clause (i), subpoenas issued under this subsection may be issued under the signature of the chairman or any member designated by a majority of the Commission, and may be served by any person designated by the chairman or by a member designated by a majority of the Commission.
+
+&emsp;&emsp;“(B)
+
+Enforcement.—
+
+&emsp;&emsp;&emsp;“(i)
+
+In general.—In the case of contumacy or failure to obey a subpoena issued under subsection (a), the United States district court for the judicial district in which the subpoenaed person resides, is served, or may be found, or where the subpoena is returnable, may issue an order requiring such person to appear at any designated place to testify or to produce documentary or other evidence. Any failure to obey the order of the court may be punished by the court as a contempt of that court.
+
+&emsp;&emsp;&emsp;“(ii)
+
+Additional enforcement.—In the case of any failure of any witness to comply with any subpoena or to testify when summoned under authority of this section, the Commission may, by majority vote, certify a statement of fact constituting such failure to the appropriate United States attorney, who may bring the matter before the grand jury for its action, under the same statutory authority and procedures as if the United States attorney had received a certification under sections 102 through 104 of the Revised Statutes of the United States (2 U.S.C. 192 through 194).
+
+“(b)
+
+Contracting.—The Commission may, to such extent and in such amounts as are provided in appropriation Acts, enter into contracts to enable the Commission to discharge its duties under this title.
+
+“(c)
+
+Information From Federal Agencies.—
+
+&emsp;“(1)
+
+In general.—The Commission is authorized to secure directly from any executive department, bureau, agency, board, commission, office, independent establishment, or instrumentality of the Government, information, suggestions, estimates, and statistics for the purposes of this title. Each department, bureau, agency, board, commission, office, independent establishment, or instrumentality shall, to the extent authorized by law, furnish such information, suggestions, estimates, and statistics directly to the Commission, upon request made by the chairman, the chairman of any subcommittee created by a majority of the Commission, or any member designated by a majority of the Commission.
+
+&emsp;“(2)
+
+Receipt, handling, storage, and dissemination.—Information shall only be received, handled, stored, and disseminated by members of the Commission and its staff consistent with all applicable statutes, regulations, and Executive orders.
+
+“(d)
+
+Assistance From Federal Agencies.—
+
+&emsp;“(1)
+
+General services administration.—The Administrator of General Services shall provide to the Commission on a reimbursable basis administrative support and other services for the performance of the Commission's functions.
+
+&emsp;“(2)
+
+Other departments and agencies.—In addition to the assistance prescribed in paragraph (1), departments and agencies of the United States may provide to the Commission such services, funds, facilities, staff, and other support services as they may determine advisable and as may be authorized by law.
+
+“(e)
+
+Gifts.—The Commission may accept, use, and dispose of gifts or donations of services or property.
+
+“(f)
+
+Postal Services.—The Commission may use the United States mails in the same manner and under the same conditions as departments and agencies of the United States.
+
+#### “SEC. 606. NONAPPLICABILITY OF FEDERAL ADVISORY COMMITTEE ACT.
+
+“(a)
+
+In General.—The Federal Advisory Committee Act (5 U.S.C. App.) shall not apply to the Commission.
+
+“(b)
+
+Public Meetings and Release of Public Versions of Reports.—The Commission shall—
+
+&emsp;“(1) hold public hearings and meetings to the extent appropriate; and
+
+&emsp;“(2) release public versions of the reports required under section 610(a) and (b).
+
+“(c)
+
+Public Hearings.—Any public hearings of the Commission shall be conducted in a manner consistent with the protection of information provided to or developed for or by the Commission as required by any applicable statute, regulation, or Executive order.
+
+#### “SEC. 607. STAFF OF COMMISSION.
+
+“(a)
+
+In General.—
+
+&emsp;“(1)
+
+Appointment and compensation.—The chairman, in consultation with vice chairman, in accordance with rules agreed upon by the Commission, may appoint and fix the compensation of a staff director and such other personnel as may be necessary to enable the Commission to carry out its functions, without regard to the provisions of title 5, United States Code, governing appointments in the competitive service, and without regard to the provisions of chapter 51 and subchapter III of chapter 53 of such title relating to classification and General Schedule pay rates, except that no rate of pay fixed under this subsection may exceed the equivalent of that payable for a position at level V of the Executive Schedule under section 5316 of title 5, United States Code.
+
+&emsp;“(2)
+
+Personnel as federal employees.—
+
+&emsp;&emsp;“(A)
+
+In general.—The executive director and any personnel of the Commission who are employees shall be employees under section 2105 of title 5, United States Code, for purposes of chapters 63, 81, 83, 84, 85, 87, 89, and 90 of that title.
+
+&emsp;&emsp;“(B)
+
+Members of commission.—Subparagraph (A) shall not be construed to apply to members of the Commission.
+
+“(b)
+
+Detailees.—Any Federal Government employee may be detailed to the Commission without reimbursement from the Commission, and such detailee shall retain the rights, status, and privileges of his or her regular employment without interruption.
+
+“(c)
+
+Consultant Services.—The Commission is authorized to procure the services of experts and consultants in accordance with section 3109 of title 5, United States Code, but at rates not to exceed the daily rate paid a person occupying a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code.
+
+#### “SEC. 608. COMPENSATION AND TRAVEL EXPENSES.
+
+“(a)
+
+Compensation.—Each member of the Commission may be compensated at not to exceed the daily equivalent of the annual rate of basic pay in effect for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day during which that member is engaged in the actual performance of the duties of the Commission.
+
+“(b)
+
+Travel Expenses.—While away from their homes or regular places of business in the performance of services for the Commission, members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, in the same manner as persons employed intermittently in the Government service are allowed expenses under section 5703(b) \[5703\] of title 5, United States Code.
+
+#### “SEC. 609. SECURITY CLEARANCES FOR COMMISSION MEMBERS AND STAFF.
+
+“The appropriate Federal agencies or departments shall cooperate with the Commission in expeditiously providing to the Commission members and staff appropriate security clearances to the extent possible pursuant to existing procedures and requirements, except that no person shall be provided with access to classified information under this title without the appropriate security clearances.
+
+#### “SEC. 610. REPORTS OF COMMISSION; TERMINATION.
+
+“(a)
+
+Interim Reports.—The Commission may submit to the President and Congress interim reports containing such findings, conclusions, and recommendations for corrective measures as have been agreed to by a majority of Commission members.
+
+“(b)
+
+Final Report.—Not later than 18 months after the date of the enactment of this Act \[Nov. 27, 2002\], the Commission shall submit to the President and Congress a final report containing such findings, conclusions, and recommendations for corrective measures as have been agreed to by a majority of Commission members.
+
+“(c)
+
+Termination.—
+
+&emsp;“(1)
+
+In general.—The Commission, and all the authorities of this title, shall terminate 60 days after the date on which the final report is submitted under subsection (b).
+
+&emsp;“(2)
+
+Administrative activities before termination.—The Commission may use the 60-day period referred to in paragraph (1) for the purpose of concluding its activities, including providing testimony to committees of Congress concerning its reports and disseminating the final report.
+
+#### “SEC. 611. FUNDING.
+
+“(a)
+
+Transfer From the National Foreign Intelligence Program.—Of the amounts authorized to be appropriated by this Act \[see Tables for classification\] and made available in public law 107–248 \[see Tables for classification\] (Department of Defense Appropriations Act, 2003) for the National Foreign Intelligence Program, not to exceed $3,000,000 shall be available for transfer to the Commission for purposes of the activities of the Commission under this title.
+
+“(b)
+
+Duration of Availability.—Amounts made available to the Commission under subsection (a) shall remain available until the termination of the Commission.”
+

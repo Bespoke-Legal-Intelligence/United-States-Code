@@ -18,7 +18,7 @@ Notwithstanding any other provision of law, it shall not be unlawful for authori
 
 #### (c) Annual report
 
-(1) Not later than February 1 each year, the President shall submit to Congress a report on the assistance provided under subsection (b) of this section during the preceding calendar year. Each report shall include for the calendar year covered by such report the following:
+(1) Except as provided in paragraph (2), not later than February 1 each year, the President shall submit to Congress a report on the assistance provided under subsection (b) of this section during the preceding calendar year. Each report shall include for the calendar year covered by such report the following:
 
 &emsp;(A) A list specifying each country for which a certification referred to in subsection (a)(2) of this section was in effect for purposes of that subsection during any portion of such calendar year, including the nature of the illicit drug trafficking threat to each such country.
 
@@ -28,7 +28,9 @@ Notwithstanding any other provision of law, it shall not be unlawful for authori
 
 &emsp;(D) A summary description of the aircraft interception activity for which the United States Government provided any form of assistance under subsection (b) of this section.
 
-(2) Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
+(2) In the case of a report required to be submitted under paragraph (1) to the congressional intelligence committees (as defined in section 401a of title 50), the submittal date for such report shall be as provided in section 415b of title 50.
+
+(3) Each report under paragraph (1) shall be submitted in unclassified form, but may include a classified annex.
 
 #### (d) Definitions
 
@@ -40,13 +42,17 @@ For purposes of this section:
 
 &emsp;(3) The term “assistance” includes operational, training, intelligence, logistical, technical, and administrative assistance.
 
-(Pub. L. 103–337, div. A, title X, §1012, Oct. 5, 1994, 108 Stat. 2837; Pub. L. 107–108, title V, §503, Dec. 28, 2001, 115 Stat. 1405.)
+(Pub. L. 103–337, div. A, title X, §1012, Oct. 5, 1994, 108 Stat. 2837; Pub. L. 107–108, title V, §503, Dec. 28, 2001, 115 Stat. 1405; Pub. L. 107–306, title VIII, §811(b)(6), Nov. 27, 2002, 116 Stat. 2425.)
 
 #### Codification
 
 Section was enacted as part of the National Defense Authorization Act for Fiscal Year 1995, and not as part of the Foreign Assistance Act of 1961 which comprises this chapter.
 
 #### Amendments
+
+2002—Subsec. (c)(1). Pub. L. 107–306, §811(b)(6)(A), substituted “Except as provided in paragraph (2), not later than” for “Not later than”.
+
+Subsec. (c)(2), (3). Pub. L. 107–306, §811(b)(6)(B), (C), added par. (2) and redesignated former par. (2) as (3).
 
 2001—Subsec. (a)(2). Pub. L. 107–108, §503(a), substituted “has, during the 12-month period ending on the date of the interdiction, certified to Congress” for “, before the interdiction occurs, has determined” in introductory provisions.
 
@@ -56,7 +62,11 @@ Subsecs. (c), (d). Pub. L. 107–108, §503(b), added subsec. (c) and redesignat
 
 The President made the determination required by subsec. (a)(2) of this section for the following countries:
 
-Columbia, Determination No. 95–7, Dec. 1, 1994, 59 F.R. 64835.
+Colombia, Determination No. 95–7, Dec. 1, 1994, 59 F.R. 64835.
 
 Peru, Determination No. 95–9, Dec. 8, 1994, 59 F.R. 65231.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 50 section 415b.
 

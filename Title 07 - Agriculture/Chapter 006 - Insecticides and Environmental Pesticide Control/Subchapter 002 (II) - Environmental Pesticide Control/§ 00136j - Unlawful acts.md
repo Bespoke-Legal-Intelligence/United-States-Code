@@ -56,7 +56,7 @@
 
 &emsp;(P) to use any pesticide in tests on human beings unless such human beings (i) are fully informed of the nature and purposes of the test and of any physical and mental health consequences which are reasonably foreseeable therefrom, and (ii) freely volunteer to participate in the test;
 
-&emsp;(Q) to falsify all or part of any information relating to the testing of any pesticide (or any ingredient, metabolite, or degradation product thereof), including the nature of any protocol, procedure, substance, organism, or equipment used, observation made, or conclusion or opinion formed, submitted to the Administrator, or that the person knows will be furnished to the Administrator or will become a part of any records required to be maintained by this subchapter;
+&emsp;(Q) to falsify all or part of any information relating to the testing of any pesticide (or any ingredient, metabolite, or degradation product thereof), including the nature of any protocol, procedure, substance, organism, or equipment used, observation made, or conclusion or opinion formed, submitted to the Administrator,or that the person knows will be furnished to the Administrator or will become a part of any records required to be maintained by this subchapter;
 
 &emsp;(R) to submit to the Administrator data known to be false in support of a registration; or
 

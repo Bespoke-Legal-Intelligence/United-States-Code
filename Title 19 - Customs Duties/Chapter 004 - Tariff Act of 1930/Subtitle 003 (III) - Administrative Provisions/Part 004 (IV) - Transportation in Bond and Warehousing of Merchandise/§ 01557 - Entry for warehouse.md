@@ -20,7 +20,7 @@ Merchandise entered under bond, under any provision of law, may, upon payment of
 
 #### (d) Withdrawal before payment
 
-Merchandise may be withdrawn for consumption without the payment of the duty thereon if the importer of record or transferee is permittedto pay duty at a later time pursuant to regulations prescribed by the Secretary under section 1505 of this title.
+Merchandise may be withdrawn for consumption without the payment of the duty thereon if the importer of record or transferee is permitted to pay duty at a later time pursuant to regulations prescribed by the Secretary under section 1505 of this title.
 
 (June 17, 1930, ch. 497, title IV, §557, 46 Stat. 744; June 25, 1938, ch. 679, §§2, 22(a), 23(a), 52 Stat. 1077, 1087, 1088; Aug. 8, 1953, ch. 397, §21(a), 67 Stat. 519; June 30, 1955, ch. 258, §2(a) (4), 69 Stat. 242; Pub. L. 91–271, title III, §301(t), June 2, 1970, 84 Stat. 290; Pub. L. 91–685, §1, Jan. 12, 1971, 84 Stat. 2069; Pub. L. 95–410, title I, §108(a), (b)(1), Oct. 3, 1978, 92 Stat. 892; Pub. L. 97–446, title II, §201(f), Jan. 12, 1983, 96 Stat. 2350; Pub. L. 103–182, title VI, §665, Dec. 8, 1993, 107 Stat. 2215; Pub. L. 106–36, title II, §2409, June 25, 1999, 113 Stat. 171.)
 
@@ -30,7 +30,7 @@ Provisions similar to those in this section were contained in act Sept. 21, 1922
 
 Prior provisions dealing with the subject matter of this section were contained in the following statutes, all of which were repealed by act Sept. 21, 1922, ch. 356, title IV, §§642, 643, 42 Stat. 989:
 
-Act Oct. 3, 1913, ch. 16, §III, S, 38 Stat. 189, reenacting the provisions of Customs Administrative Act of June 10, 1890, ch. 407, §20, 26 Stat. 140, as amended by act Oct. 1, 1890, ch. 1244, §54, 26 Stat. 624, and act Dec. 15, 1902, ch. 1, 32 Stat. 753, and as reenacted by Payne-Aldrich Tariff Act, Aug. 5, 1909, ch. 6, §28, 36 Stat. 101, and authorizing the withdrawal for consumption of merchandise deposited in any public or private bonded warehouse within three years from date of importation, on payment of duties and charges to which it might be subject at the time of such withdrawal;
+Act Oct. 3, 1913, ch. 16, §III, S, 38 Stat. 189, reenacting the provisions of Customs Administrative Act of June 10, 1890, ch. 407, §20, 26 Stat. 140, as amended by act Oct. 1, 1890, ch. 1244, §54, 26 Stat. 624, and act Dec. 15, 1902, ch. 1, 32 Stat. 753, and as reenacted by Payne-Aldrich Tariff Act, Aug. 5, 1909, ch. 6, §28, 36 Stat. 101, and authorizing the withdrawal for consumption of merchandise deposited in any public or private bonded warehouse within three years from date of importation, onpayment of duties and charges to which it might be subject at the time of such withdrawal;
 
 Res. Sept. 5, 1916, ch. 441, 39 Stat. 725, extending the time for which merchandise for exportation to Mexico might remain in bonded warehouse;
 
@@ -84,7 +84,7 @@ Amendment by act June 30, 1955, effective July 1, 1955, see note set out under s
 
 #### Effective Date of 1953 Amendment
 
-Section 21(b) of act Aug. 8, 1953, provided that: “Notwithstanding any other provision of this Act \[amending this section and sections 258, 1001, 1201, 1304, 1308, 1309, 1313, 1315, 1317, 1321, 1431, 1439, 1440, 1482, 1484, 1486, 1487, 1489, 1498, 1501, 1503, 1508, 1520, 1523, and 1562 of this title, enacting sections 1322 and 1646a of this title, and repealing sections 33 to 35, 39, 42 to 45, 273, 274, 472 to 475, 1320, and 1503a of this title\], the foregoing subsection (a) shall be effective with respect to merchandise entered after the date of the enactment of this Act \[Aug. 8, 1953\] and to merchandise which has been entered before that date and is the subject of a transfer within the purview of section 557(b) of the Tariff Act \[subsec. (b) of this section\], as amended by this Act, and made after the date of the enactment of this Act.”
+Section 21(b) of act Aug. 8, 1953, provided that: “Notwithstanding any other provision of this Act \[amendingthis section and sections 258, 1001, 1201, 1304, 1308, 1309, 1313, 1315, 1317, 1321, 1431, 1439, 1440, 1482, 1484, 1486, 1487, 1489, 1498, 1501, 1503, 1508, 1520, 1523, and 1562 of this title, enacting sections 1322 and 1646a of this title, and repealing sections 33 to 35, 39, 42 to 45, 273, 274, 472 to 475, 1320, and 1503a of this title\], the foregoing subsection (a) shall be effective with respect to merchandise entered after the date of the enactment of this Act \[Aug. 8, 1953\] and to merchandise which has been entered before that date and is the subject of a transfer within the purview of section 557(b) of the Tariff Act \[subsec. (b) of this section\], as amended by this Act, and made after the date of the enactment of this Act.”
 
 #### Effective Date of 1938 Amendment
 

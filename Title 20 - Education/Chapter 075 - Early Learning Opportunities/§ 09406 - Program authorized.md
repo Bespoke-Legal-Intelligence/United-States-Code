@@ -2,7 +2,7 @@
 
 #### (a) Grants
 
-From amounts appropriated under section 9404 of this title the Secretary shall award grants toStates to enable the States to award grants to Local Councils to pay the Federal share of the cost of carrying out early learning programs in the locality served by the Local Council.
+From amounts appropriated under section 9404 of this title the Secretary shall award grants to States to enable the States to award grants to Local Councils to pay the Federal share of the cost of carrying out early learning programs in the locality served by the Local Council.
 
 #### (b) Federal share
 
@@ -16,7 +16,7 @@ From amounts appropriated under section 9404 of this title the Secretary shall a
 
 #### (c) Maintenance of effort
 
-The Secretary shall not award a grant under this chapter to any State unless the Secretary first determines that the total expenditures by the State and its political subdivisions to support early learning programs (other than funds used to pay the non-Federal share under subsection (b)(2) of this section) for the fiscal year for which the determination is made is equal to or greater than such expenditures for the preceding fiscal year.
+The Secretary shall not award a grant under this chapter to any State unless the Secretaryfirst determines that the total expenditures by the State and its political subdivisions to support early learning programs (other than funds used to pay the non-Federal share under subsection (b)(2) of this section) for the fiscal year for which the determination is made is equal to or greater than such expenditures for the preceding fiscal year.
 
 #### (d) Supplement not supplant
 

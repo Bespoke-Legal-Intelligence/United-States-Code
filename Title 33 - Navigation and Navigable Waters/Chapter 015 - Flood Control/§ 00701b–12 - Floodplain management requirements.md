@@ -6,7 +6,7 @@ Before construction of any project for local flood protection, or any project fo
 
 #### (b) Floodplain management plans
 
-Within 1 year after the date of signing a project cooperation agreement for construction of a project to which subsection (a) of this section applies, the non-Federal interest shall prepare a floodplain management plan designed to reduce the impacts of future flood events in the project area. Such plan shall be implemented bythe non-Federal interest not later than 1 year after completion of construction of the project.
+Within 1 year after the date of signing a project cooperation agreement for construction of a project to which subsection (a) of this section applies, the non-Federal interest shall prepare a floodplain management plan designed to reduce the impacts of future flood events in the project area. Such plan shall be implemented by the non-Federal interest not later than 1 year after completion of construction of the project.
 
 #### (c) Guidelines
 
@@ -49,6 +49,10 @@ Pub. L. 106–541, title II, §209(b), Dec. 11, 2000, 114 Stat. 2591, provided t
 #### Effective Date of 1996 Amendment
 
 Section 202(c)(2) of Pub. L. 104–303 provided that: “The amendment made by paragraph (1) \[amending this section\] shall apply to any project or separable element thereof with respect to which the Secretary and the non-Federal interest have not entered into a project cooperation agreement on or before the date of the enactment of this Act \[Oct. 12, 1996\].”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

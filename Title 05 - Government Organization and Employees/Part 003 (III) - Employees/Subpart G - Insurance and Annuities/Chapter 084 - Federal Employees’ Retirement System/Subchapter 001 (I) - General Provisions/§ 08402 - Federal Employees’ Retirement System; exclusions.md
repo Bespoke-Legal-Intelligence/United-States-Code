@@ -46,7 +46,7 @@
 
 (6) The Director of the Office of Technology Assessment may exclude from the operation of this chapter an employee under the Office of Technology Assessment whose employment is temporary or intermittent.
 
-(7) The Director of the Congressional Budget Office may exclude from the operation of this chapter an employee under the CongressionalBudget Office whose employment is temporary or intermittent.
+(7) The Director of the Congressional Budget Office may exclude from the operation of this chapter an employee under the Congressional Budget Office whose employment is temporary or intermittent.
 
 (8) The Director of the Administrative Office of the United States Courts may exclude from the operation of this chapter an employee of the Administrative Office of the United States Courts, the Federal Judicial Center, or a court named by section 610 of title 28, whose employment is temporary or of uncertain duration.
 
@@ -68,7 +68,7 @@
 
 (g) A judge of the United States Court of Federal Claims who is covered by section 178 of title 28 shall be excluded from the operation of this chapter, other than subchapters III and VII of such chapter, if the judge notifies the Director of the Administrative Office of the United States Courts of an election of a retirement annuity under those provisions. Upon such election, the judge shall be entitled to a lump-sum credit under section 8424 of this title.
 
-(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 521; amended Pub. L. 99–556, title I, §116, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §130, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 100–659, §6(c), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(b), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–474, §5(p), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–650, title III, §§306(e)(3), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, §7(d), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516; Pub. L. 104–53, title I, §115, Nov. 19, 1995, 109 Stat. 527; Pub. L. 104–186, title II, §215(13), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–274, §6(a), Oct. 20, 1998, 112 Stat. 2424; Pub. L. 106–168, title II, §202(b), Dec. 12, 1999, 113 Stat. 1818.)
+(Added Pub. L. 99–335, title I, §101(a), June 6, 1986, 100 Stat. 521; amended Pub. L. 99–556, title I, §116, Oct. 27, 1986, 100 Stat. 3134; Pub. L. 100–238, title I, §130, Jan. 8, 1988, 101 Stat. 1759; Pub. L. 100–659, §6(c), Nov. 15, 1988, 102 Stat. 3919; Pub. L. 101–94, title I, §102(b), Aug. 16, 1989, 103 Stat. 626; Pub. L. 101–474, §5(p), Oct. 30, 1990, 104 Stat. 1100; Pub. L. 101–650, title III, §§306(e)(3), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 102–40, title IV, §402(d)(2), May 7, 1991, 105 Stat. 239; Pub. L. 102–198, §7(d), Dec. 9, 1991, 105 Stat. 1625; Pub. L. 102–572, title IX, §902(b)(1), Oct. 29,1992, 106 Stat. 4516; Pub. L. 104–53, title I, §115, Nov. 19, 1995, 109 Stat. 527; Pub. L. 104–186, title II, §215(13), Aug. 20, 1996, 110 Stat. 1746; Pub. L. 105–274, §6(a), Oct. 20, 1998, 112 Stat. 2424; Pub. L. 106–168, title II, §202(b), Dec. 12, 1999, 113 Stat. 1818.)
 
 #### References in Text
 
@@ -152,7 +152,7 @@ Amendment by Pub. L. 101–650 applicable to judges of, and senior judges in act
 
 #### Effective Date of 1988 Amendment
 
-Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrate judges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on or after July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as an Effective Date note under section 377 of Title 28, Judiciary and Judicial Procedure.
+Amendment by Pub. L. 100–659 effective Nov. 15, 1988, and applicable to bankruptcy judges and magistrate judges who retire on or after Nov. 15, 1988, with exception for judges and magistrate judges retiring on orafter July 31, 1987, see section 9 of Pub. L. 100–659, as amended, set out as an Effective Date note under section 377 of Title 28, Judiciary and Judicial Procedure.
 
 #### Provisions Relating to Certain Former Employees
 

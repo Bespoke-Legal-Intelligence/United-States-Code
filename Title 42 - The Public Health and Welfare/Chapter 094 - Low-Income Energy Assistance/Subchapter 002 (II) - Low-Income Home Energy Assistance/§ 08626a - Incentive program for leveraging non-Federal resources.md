@@ -42,7 +42,7 @@ The Secretary shall determine the share of each State of the amounts made availa
 
 1994—Subsec. (c)(2). Pub. L. 103–252, §311(c)(6), substituted “0.08 percent” for “.0008 percent”.
 
-Subsec. (e). Pub. L. 103–252, §311(a)(2), substituted “2 months after the close of the fiscal year during which the State provided leveraged resources to eligiblehouseholds, as described in subsection (b) of this section” for “July 31, of each year”.
+Subsec. (e). Pub. L. 103–252, §311(a)(2), substituted “2 months after the close of the fiscal year during which the State provided leveraged resources to eligible households, as described in subsection (b) of this section” for “July 31, of each year”.
 
 #### Effective Date of 1994 Amendment
 

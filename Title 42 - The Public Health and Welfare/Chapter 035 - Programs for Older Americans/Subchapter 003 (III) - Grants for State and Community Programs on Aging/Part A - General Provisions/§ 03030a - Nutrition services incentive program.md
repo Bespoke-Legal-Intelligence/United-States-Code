@@ -6,7 +6,7 @@ The purpose of this section is to provide incentives to encourage and reward eff
 
 #### (b) Allotment and provision of cash or commodities
 
-(1) The Secretary of Agriculture shall allot and provide in the form of cash or commodities or a combination thereof (at the discretion of the State) to each State agency with a plan approved under this subchapter for a fiscal year, and to each grantee with an application approved under subchapter X of this chapter for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) of this section as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the subchapter X grantee, under such application approved for such preceding fiscal year), bears to the total number of such meals served in all States and by all subchapter X grantees under all such plans and applications approved for such preceding fiscal year.
+(1) The Secretary of Agriculture shall allot and provide in the form of cash or commodities or a combination thereof (at the discretion of the State) to each State agency with a plan approved under this subchapter for a fiscal year, and to each grantee with an application approved under subchapter X of this chapter for such fiscal year, an amount bearing the same ratio to the total amount appropriated for such fiscal year under subsection (e) of this section as the number of meals served in the State under such plan approved for the preceding fiscal year (or the number of meals served by the subchapter X grantee, under such application approved for such preceding fiscal year), bears tothe total number of such meals served in all States and by all subchapter X grantees under all such plans and applications approved for such preceding fiscal year.
 
 (2) For purposes of paragraph (1), in the case of a grantee that has an application approved under subchapter X of this chapter for a fiscal year but that did not receive assistance under this section for the preceding fiscal year, the number of meals served by the subchapter X grantee for the preceding fiscal year shall be deemed to equal the number of meals that the Assistant Secretary estimates will be served by the subchapter X grantee in the fiscal year for which the application was approved.
 
@@ -66,7 +66,7 @@ Subsec. (f). Pub. L. 106–501, §309(2), redesignated subsec. (d) as (f).
 
 1992—Subsec. (a)(4). Pub. L. 102–375, §310(1), designated existing provisions as subpars. (A) and (B) and, in subpar. (A), substituted “shall maintain—” for “shall maintain an annually programmed level of assistance of not less than 56.76 cents per meal during fiscal years 1986 through 1991.” and added cls. (i) and (ii).
 
-Subsec. (c)(1)(A). Pub. L. 102–375, §310(2)(A), substituted “$250,000,000 for fiscal year 1992, $310,000,000 for fiscal year 1993, $380,000,000 for fiscal year 1994, and $460,000,000 for fiscal year 1995” for “$151,000,000 for the fiscal year 1988, $166,000,000 for the fiscal year 1989, $183,000,000 for the fiscal year 1990, and $201,000,000 for the fiscal year 1991”.
+Subsec. (c)(1)(A). Pub. L. 102–375, §310(2)(A), substituted “$250,000,000 for fiscal year 1992, $310,000,000 for fiscal year 1993, $380,000,000 for fiscal year 1994, and $460,000,000 for fiscal year 1995” for “$151,000,000 for the fiscal year 1988, $166,000,000 for the fiscal year 1989,$183,000,000 for the fiscal year 1990, and $201,000,000 for the fiscal year 1991”.
 
 Subsec. (c)(2). Pub. L. 102–375, §310(2)(B), designated existing provisions as subpar. (A), substituted “Except as provided in subparagraph (B), in” for “In”, and added subpar. (B).
 
@@ -120,7 +120,7 @@ Section effective at close of Sept. 30, 1978, see section 504 of Pub. L. 95–47
 
 #### Establishment of Maximum Rate of Reimbursement to States for Meals; Availability of Funds
 
-Pub. L. 104–37, title IV, Oct. 21, 1995, 109 Stat. 324, provided in part: “That hereafter notwithstanding anyother provision of law, for meals provided pursuant to the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], a maximum rate of reimbursement to States will be established by the Secretary, subject to reduction if obligations would exceed the amount of available funds, with any unobligated funds to remain available only for obligation in the fiscal year beginning October 1, 1996.”
+Pub. L. 104–37, title IV, Oct. 21, 1995, 109 Stat. 324, provided in part: “That hereafter notwithstanding any other provision of law, for meals provided pursuant to the Older Americans Act of 1965 \[42 U.S.C. 3001 et seq.\], a maximum rate of reimbursement to States will be established by the Secretary, subject to reduction if obligations would exceed the amount of available funds, with any unobligated funds to remain available only for obligation in the fiscal year beginning October 1, 1996.”
 
 #### Authorization of Appropriations
 

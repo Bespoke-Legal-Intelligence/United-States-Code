@@ -6,7 +6,7 @@
 
 &emsp;(A) one shall be the Director of the United States Fish and Wildlife Service, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.);
 
-&emsp;(B) one shall be the Secretary of the Board of the National Fish and Wildlife Foundation appointed pursuant to section 3702(2)(B) <sup>1</sup> of this title;
+&emsp;(B) one shall be the Secretary of the Board of the National Fish and Wildlife Foundation appointed pursuant to section 3702(g)(2)(B) of this title;
 
 &emsp;(C) four shall be individuals who shall be appointed by the Secretary, who shall reside in different flyways and who shall each be a Director of the State fish and wildlife agency; and
 
@@ -14,7 +14,7 @@
 
 > The provisions of Public Law 92–463, as amended, shall not apply to the Council.
 
-(2) The Secretary shall appoint an alternate member of the Council who shall be knowledgeable and experienced in matters relating to fish, wildlife, and wetlands conservation and whoshall perform the duties of a Council member appointed under subsection (a)(1)(C) or subsection (a)(1)(D) of this section—
+(2) The Secretary shall appoint an alternate member of the Council who shall be knowledgeable and experienced in matters relating to fish, wildlife, and wetlands conservation and who shall perform the duties of a Council member appointed under subsection (a)(1)(C) or subsection (a)(1)(D) of this section—
 
 &emsp;(A) until a vacancy referred to in subsection (b)(4) of this section is filled; or
 
@@ -26,13 +26,13 @@
 
 (2) Of the Council members first appointed under subsection (a)(1)(C) of this section after December 13, 1989, one shall be appointed for a term of one year, one shall be appointed for a term of two years, and two shall be appointed for a term of three years.
 
-(3) Of the Council members first appointed under subsection (a)(1)(D) of this section after December 13, 1989, one shall be appointed for a term of one year, one shall be appointed for a term of two years, and one shall be appointed for a term of three years.
+(3) Of the Council members first appointed under subsection (a)(1)(D) of this section afterDecember 13, 1989, one shall be appointed for a term of one year, one shall be appointed for a term of two years, and one shall be appointed for a term of three years.
 
 (4) Whenever a vacancy occurs among members of the Council appointed under subsection (a)(1)(C) or subsection (a)(1)(D) of this section, the Secretary shall appoint an individual in accordance with either such subsection to fill that vacancy for the remainder of the applicable term.
 
 #### (c) Ex officio Council members
 
-The Secretary is authorized and encouraged to include as ex officio nonvoting members of the Commission <sup>2</sup> representatives of—
+The Secretary is authorized and encouraged to include as ex officio nonvoting members of the Council representatives of—
 
 &emsp;(1) the Federal, provincial, territorial, or State government agencies of Canada and Mexico, which are participating actively in carrying out one or more wetlands conservation projects under this chapter, the Plan, or the Agreement;
 
@@ -62,7 +62,7 @@ The Director of the United States Fish and Wildlife Service shall appoint an ind
 
 &emsp;(3) who shall be compensated with the funds available under section 4407(a)(1) of this title for administering this chapter.
 
-(Pub. L. 101–233, §4, Dec. 13, 1989, 103 Stat. 1970; Pub. L. 101–593, title I, §112(1)–(3), Nov. 16, 1990, 104 Stat. 2962.)
+(Pub. L. 101–233, §4, Dec. 13, 1989, 103 Stat. 1970; Pub. L. 101–593, title I, §112(1)–(3), Nov. 16, 1990, 104 Stat. 2962; Pub. L. 107–308, §8(a)(6), (7), (b)(1), Dec. 2, 2002, 116 Stat. 2447, 2448.)
 
 #### References in Text
 
@@ -72,11 +72,21 @@ Public Law 92–463, referred to in subsec. (a)(1), is Pub. L. 92–463, Oct. 6,
 
 #### Amendments
 
+2002—Subsec. (a)(1)(A). Pub. L. 107–308, §8(b)(1), amended directory language of Pub. L. 101–593, §112(1). See 1990 Amendment note below.
+
+Subsec. (a)(1)(B). Pub. L. 107–308, §8(a)(6), substituted “section 3702(g)(2)(B)” for “section 3702(2)(B)”.
+
+Subsec. (c). Pub. L. 107–308, §8(a)(7), substituted “Council” for “Commission” in introductory provisions.
+
 1990—Subsec. (a)(1). Pub. L. 101–593, §112(2), inserted sentence at end relating to Public Law 92–463.
 
-Subsec. (a)(1)(A). Pub. L. 101–593, §112(1), which directed that “, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)” be inserted after “Service” and before the period, was executed by making the insertion after “Service” and before the semicolon as the probable intent of Congress.
+Subsec. (a)(1)(A). Pub. L. 101–593, §112(1), as amended by Pub. L. 107–308, §8(b)(1), inserted “, who shall be the responsible Federal official for ensuring Council compliance with the National Environmental Policy Act of 1969 (42 U.S.C. 4321 et seq.)” after “Service”.
 
 Subsec. (f). Pub. L. 101–593, §112(3), inserted before period at end of first sentence “, and the Chairman shall take appropriate steps to provide adequate notice to the public of the time and place of such meetings”.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–308, §8(b)(2), Dec. 2, 2002, 116 Stat. 2448, provided that: “Paragraph (1) of this subsection \[amending this section\] shall be effective on and after the effective date of section 112(1) of Public Law 101–593 (104 Stat. 2962) \[Nov. 16, 1990\].”
 
 #### Membership of North American Wetlands Conservation Council
 
@@ -88,13 +98,9 @@ In General.—Notwithstanding section 4(a)(1)(D) of the North American Wetlands 
 
 &emsp;“(1) 1 individual who shall be the Group Manager for Conservation Programs of Ducks Unlimited, Inc. and who shall serve for 1 term of 3 years beginning in 1999; and
 
-&emsp;“(2) 2 individuals who shall be appointed by the Secretary of the Interior in accordance with section4 of that Act and who shall each represent a different organization described in section 4(a)(1)(D) of that Act.
+&emsp;“(2) 2 individuals who shall be appointed by the Secretary of the Interior in accordance with section 4 of that Act and who shall each represent a different organization described in section 4(a)(1)(D) of that Act.
 
 “(b)
 
 Publication of Policy.—Not later than June 30, 1999, the Secretary of the Interior shall publish in the Federal Register, after notice and opportunity for public comment, a policy for making appointments under section 4(a)(1)(D) of the North American Wetlands Conservation Act (16 U.S.C. 4403(a)(1)(D)).”
-
-<i><sup>1</sup></i><i> So in original. Probably should be section “3702(g)(2)(B)”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “Council”.</i>
 

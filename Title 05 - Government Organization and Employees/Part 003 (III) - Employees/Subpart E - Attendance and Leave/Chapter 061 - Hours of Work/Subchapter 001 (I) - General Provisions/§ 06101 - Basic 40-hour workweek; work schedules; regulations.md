@@ -62,7 +62,7 @@ June 30, 1945, ch. 212, §604(e) (less last 27 words), 59 Stat. 304.
 
 In subsection (a), the words “in the departmental and the field services” are omitted as unnecessary.
 
-In subsections (a) and (b), the words “an Executive agency, a military department” are coextensive with and substituted for “the several departments and independent establishments and agencies in the executive branch, including Government-owned or controlled corporations” and “such department, establishment, or agency” in view of the definitions in sections 105 and 102. The words “a military department” are included to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser's note for section 301.
+In subsections (a) and (b), the words “an Executive agency, a military department” are coextensive with and substituted for “the several departments and independent establishments and agencies in the executive branch, including Government-owned or controlled corporations” and “such department, establishment, oragency” in view of the definitions in sections 105 and 102. The words “a military department” are included to preserve the application of the source law. Before enactment of the National Security Act Amendments of 1949 (63 Stat. 578), the Department of the Army, the Department of the Navy, and the Department of the Air Force were Executive departments. The National Security Act Amendments of 1949 established the Department of Defense as an Executive Department including the Department of the Army, the Department of the Navy, and the Department of the Air Force as military departments, not as Executive departments. However, the source law for this section which was in effect in 1949, remained applicable to the Secretaries of the military departments by virtue of section 12(g) of the National Security Act Amendments of 1949 (63 Stat. 591), which is set out in the reviser's note for section 301.
 
 Subsection (d) is added on authority of former sections 901(d) and 2358(a) (as applicable to the Federal Employees Pay Act of 1945, as amended) which are carried into section 5541, and to include individuals employed by the government of the District of Columbia as they are not included in the definition of “employee” in section 2105.
 
@@ -158,7 +158,7 @@ Section 1. This Act \[enacting section 5550a of this title and this note\] may b
 
 Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
-&emsp;“(1) the term ‘agency’ means an Executive agency and a military department (as such terms are defined in sections 105 and 102, respectively, of title 5, United States Code);
+&emsp;“(1) the term ‘agency’ means an Executive agency and a military department (as such terms are definedin sections 105 and 102, respectively, of title 5, United States Code);
 
 &emsp;“(2) the term ‘employ’ has the meaning given it by section 2105 of title 5, United States Code;
 
@@ -228,7 +228,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “Sec. 103. (a) For purposes of determining compensation for overtime hours in the case of an employee participating in an experiment under section 102—
 
-&emsp;“(1) the head of an agency may, on request of the employee, grant the employee compensatory time off in lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1),5544(a), and 5550 of title 5, United States Code, section 4107(e)(5) of title 38, United States Code section 7 of the Fair Labor Standards Act, as amended \[section 207 of Title 29, Labor\], or any other provision of law; or
+&emsp;“(1) the head of an agency may, on request of the employee, grant the employee compensatory time off in lieu of payment for such overtime hours, whether or not irregular or occasional in nature and notwithstanding the provisions of sections 5542(a), 5543(a)(1), 5544(a), and 5550 of title 5, United States Code, section 4107(e)(5) of title 38, United States Code section 7 of the Fair Labor Standards Act, as amended \[section 207 of Title 29, Labor\], or any other provision of law; or
 
 &emsp;“(2) the employee shall be compensated for such overtime hours in accordance with such provisions, as applicable.
 
@@ -318,7 +318,7 @@ Sec. 3. For purposes of this Act (other than title IV) \[this note\]—
 
 “(c) Notwithstanding section 5544(a), 5546(a), or 5550(1) of title 5, United States Code, or any other applicable provision of law, in the case of any full-time employee on a compressed schedule who performs work (other than overtime work) on a tour of duty for any workday a part of which is performed on a Sunday, such employee is entitled to pay for work performed during the entire tour of duty at the rate of such employee's basic pay, plus premium pay at a rate equal to 25 percent of such basic pay rate.
 
-“(d) Notwithstanding section 5546(b) of title 5, United States Code, an employee on a compressed schedule who performs work on a holiday designated by Federal statute or Executive order is entitled to pay at the rate of such employee's basic pay, plus premium pay at a rate equal to such basic pay rate, for such work which is not in excess of the basic work requirement of such employee for such day. For hours worked on such a holiday in excess of the basic work requirement for such day, the employee is entitled to premium pay in accordance with the provisions of section 5542(a) or 5544(a) of title 5, United States Code, as applicable, or the provisions of section 7 of the Fair Labor Standards Act, as amended \[section 207 of Title 29, Labor\], whichever provisions are more beneficial to the employee.
+“(d) Notwithstanding section 5546(b) of title 5, United States Code, an employee on a compressed schedulewho performs work on a holiday designated by Federal statute or Executive order is entitled to pay at the rate of such employee's basic pay, plus premium pay at a rate equal to such basic pay rate, for such work which is not in excess of the basic work requirement of such employee for such day. For hours worked on such a holiday in excess of the basic work requirement for such day, the employee is entitled to premium pay in accordance with the provisions of section 5542(a) or 5544(a) of title 5, United States Code, as applicable, or the provisions of section 7 of the Fair Labor Standards Act, as amended \[section 207 of Title 29, Labor\], whichever provisions are more beneficial to the employee.
 
 #### “TITLE III—ADMINISTRATIVE PROVISIONS
 
@@ -394,5 +394,5 @@ Pub. L. 97–221, §4, July 23, 1982, 96 Stat. 234, provided that:
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5504, 6122, 6127 of this title; title 10 sections 4338, 6952, 9338; title 32 section 709; title 40 sections 166b–1d, 166b–1e.
+This section is referred to in sections 5504, 6122, 6127 of this title; title 2 sections 1844, 1845; title 10 sections 4338, 6952, 9338; title 32 section 709.
 

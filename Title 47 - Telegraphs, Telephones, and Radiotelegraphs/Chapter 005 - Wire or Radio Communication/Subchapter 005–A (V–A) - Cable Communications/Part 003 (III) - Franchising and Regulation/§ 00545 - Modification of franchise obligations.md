@@ -36,7 +36,7 @@ Notwithstanding subsections (a) and (b) of this section, a cable operator may, u
 
 #### (d) Rearrangement of particular services from one service tier to another or other offering of service
 
-Notwithstanding subsections (a) and (b) of this section, a cable operator may take such actions to rearrange a particular service from one service tier to another, or otherwise offer the service, if the rates for all of the service tiers involved in such actions are not subject to regulation under section 543 of this title.
+Notwithstanding subsections (a) and (b) of this section, a cable operator may take such actionsto rearrange a particular service from one service tier to another, or otherwise offer the service, if the rates for all of the service tiers involved in such actions are not subject to regulation under section 543 of this title.
 
 #### (e) Requirements for services relating to public, educational, or governmental access
 

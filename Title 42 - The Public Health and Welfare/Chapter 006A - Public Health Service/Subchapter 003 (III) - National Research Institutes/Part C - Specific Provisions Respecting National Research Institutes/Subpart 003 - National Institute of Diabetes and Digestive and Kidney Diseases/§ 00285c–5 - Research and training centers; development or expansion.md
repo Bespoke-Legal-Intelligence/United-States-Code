@@ -2,7 +2,7 @@
 
 #### (a) Diabetes mellitus and related endocrine and metabolic diseases
 
-(1) Consistent with applicable recommendations of the National Commission on Diabetes, the Director of the Institute shall provide for the development or substantial expansion ofcenters for research and training in diabetes mellitus and related endocrine and metabolic diseases. Each center developed or expanded under this subsection shall—
+(1) Consistent with applicable recommendations of the National Commission on Diabetes, the Director of the Institute shall provide for the development or substantial expansion of centers for research and training in diabetes mellitus and related endocrine and metabolic diseases. Each center developed or expanded under this subsection shall—
 
 &emsp;(A) utilize the facilities of a single institution, or be formed from a consortium of cooperating institutions, meeting such research and training qualifications as may be prescribed by the Secretary; and
 

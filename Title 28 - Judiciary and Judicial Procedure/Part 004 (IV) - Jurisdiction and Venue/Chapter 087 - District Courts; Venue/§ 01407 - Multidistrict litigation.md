@@ -32,7 +32,7 @@ Section 4C of the Clayton Act, referred to in subsec. (h), is section 4C of act 
 
 #### Amendments
 
-<b>1976</b>—Pub. L. 94–435 added subsec. (h).
+1976—Pub. L. 94–435 added subsec. (h).
 
 #### Section Referred to in Other Sections
 
@@ -160,7 +160,7 @@ Service of Panel Consolidation Order.
 
 ### Rule 1.1: Definitions
 
-As used in these Rules “Panel” means the members of the Judicial Panel on Multidistrict Litigation appointed by the Chief Justice of the United States pursuant to Section 1407, Title 28, United States Code.
+As used in these Rules “Panel” means the members of the Judicial Panel on Multidistrict Litigation appointed by the Chief Justice of theUnited States pursuant to Section 1407, Title 28, United States Code.
 
 “Clerk of the Panel” means the official appointed by the Panel to act as Clerk of the Panel and shall include those deputized by the Clerk of the Panel to perform or assist in the performance of the duties of the Clerk of the Panel.
 
@@ -200,7 +200,7 @@ The pendency of a motion, order to show cause, conditional transfer order or con
 
 (b) If an appeal is pending, or a notice of appeal has been filed, or leave to appeal has been sought under 28 U.S.C. §1292(b) or a petition for an extraordinary writ is pending, in any action included in an order of transfer under 28 U.S.C. §1407, and the original file or parts thereof have been forwarded to the court of appeals, the clerk of the transferor district court shall notify the clerk of the court of appeals of the order of transfer and secure the original file long enough to prepare and transmit to the clerk of the transferee district court a certified copy of all papers contained in the original file and a certified copy of the docket sheet.
 
-(c) If the transfer order provides for the separation and simultaneous remand of any claim,cross-claim, counterclaim, or third-party claim, the clerk of the transferor district court shall retain the original file and shall prepare and transmit to the clerk of the transferee district court a certified copy of the docket sheet and copies of all papers except those relating exclusively to separated and remanded claims.
+(c) If the transfer order provides for the separation and simultaneous remand of any claim, cross-claim, counterclaim, or third-party claim, the clerk of the transferor district court shall retain the original file and shall prepare and transmit to the clerk of the transferee district court a certified copy of the docket sheet and copies of all papers except those relating exclusively to separated and remanded claims.
 
 (d) Upon receipt of an order to remand from the Clerk of the Panel, the transferee district court shall prepare and send to the clerk of the transferor district court the following:
 
@@ -270,7 +270,7 @@ Washington, D.C. 20002–8004
 
 ### Rule 5.2: Service of Papers Filed
 
-(a) All papers filed with the Clerk of the Panel shall be accompanied by proof of previous or simultaneous service on all other parties in all actions involved in the litigation. Service and proof of service shall be made as provided in Rules 5 and 6 of the Federal Rules of Civil Procedure. The proof of service shall indicate the name and complete address of each person served and shall indicate the party represented by each. If a party is not represented by counsel, the proof of service shall indicate the name of the party and the party's last known address. The proof of service shall indicate why any person named as a party in a constituent complaint was not served with the Section 1407 pleading. The original proof of service shall be filed with the Clerk of the Panel and copies thereof shall be sent to each person included within the proof of service. After the “Panel Service List” described in subsection (d) of this Rule has been received from the Clerk of the Panel, the “Panel Service List” shall be utilized for service of responses to motions and all other filings. In such instances, the “Panel Service List” shall be attached to the proof of service and shall be supplemented in the proof of service in the event of the presence of additional parties or subsequent corrections relating to any party, counsel or address already on the “Panel Service List.”
+(a) All papers filed with the Clerk of the Panel shall be accompanied by proof of previous or simultaneous service on all other parties in all actions involved in the litigation. Service and proof of service shall be made as provided in Rules 5 and 6 of the Federal Rules of Civil Procedure. The proof of service shall indicate the name and complete address of each person served and shall indicate the party represented by each. If a party is not represented by counsel, the proof of service shall indicate the name of the party and the party's last known address. The proof of service shall indicate why any person named as a party in a constituent complaintwas not served with the Section 1407 pleading. The original proof of service shall be filed with the Clerk of the Panel and copies thereof shall be sent to each person included within the proof of service. After the “Panel Service List” described in subsection (d) of this Rule has been received from the Clerk of the Panel, the “Panel Service List” shall be utilized for service of responses to motions and all other filings. In such instances, the “Panel Service List” shall be attached to the proof of service and shall be supplemented in the proof of service in the event of the presence of additional parties or subsequent corrections relating to any party, counsel or address already on the “Panel Service List.”
 
 (b) The proof of service pertaining to motions for transfer of actions pursuant to 28 U.S.C. §1407 shall certify that copies of the motions have been mailed or otherwise delivered for filing to the clerk of each district court in which an action is pending that will be affected by the motion. The proof of service pertaining to a motion for remand pursuant to 28 U.S.C. §1407 shall certify that a copy of the motion has been mailed or otherwise delivered for filing to the clerk of the Section 1407 transferee district court in which any action affected by the motion is pending.
 
@@ -294,7 +294,7 @@ Washington, D.C. 20002–8004
 
 ### Rule 6.2: Applications for Extensions of Time
 
-Any application for an extension of time to file a pleading or perform an act required by these Rules must be in writing, must request a specific number of additional days and may beacted upon by the Clerk of the Panel. Such an application will be evaluated in relation to the impact on the Panel's calendar as well as on the basis of the reasons set forth in support of the application. Any party aggrieved by the Clerk of the Panel's action on such application may submit its objections to the Panel for consideration. Absent exceptional circumstances, no extensions of time shall be granted to file a notice of opposition to either a conditional transfer order or a conditional remand order. All applications for extensions of time shall be filed and served in conformity with Rules 5.12, 5.2 and 7.1 of these Rules.
+Any application for an extension of time to file a pleading or perform an act required by these Rules must be in writing, must request a specific number of additional days and may be acted upon by the Clerk of the Panel. Such an application will be evaluated in relation to the impact on the Panel's calendar as well as on the basis of the reasons set forth in support of the application. Any party aggrieved by the Clerk of the Panel's action on such application may submit its objections to the Panel for consideration. Absent exceptional circumstances, no extensions of time shall be granted to file a notice of opposition to either a conditional transfer order or a conditional remand order. All applications for extensions of time shall be filed and served in conformity with Rules 5.12, 5.2 and 7.1 of these Rules.
 
 (As amended June 14, 1988, eff. July 6, 1988; May 3, 1993, eff. July 1, 1993; Sept. 1, 1998, eff. Nov. 2, 1998.)
 
@@ -458,7 +458,7 @@ Motions to remand and responses thereto shall be governed by Rules 5.12, 5.2, 7.
 
 (a) Hearing sessions of the Panel for the presentation of oral argument and consideration of matters taken under submission without oral argument shall be held as ordered by the Panel. The Panel shall convene whenever and wherever desirable or necessary in the judgment of the Chairman. The Chairman shall determine which matters shall be considered at each hearing session and the Clerk of the Panel shall give notice to counsel for all parties involved in the litigation to be so considered of the time, place and subject matter of such hearing session.
 
-(b) Each party filing a motion or a response to a motion or order of the Panel under Rules 7.2,7.3, 7.4 or 7.6 of these Rules may file simultaneously therewith a separate statement limited to one page setting forth reasons why oral argument should, or need not, be heard. Such statements shall be captioned “Reasons Why Oral Argument Should \[Need Not\] Be Heard,” and shall be filed and served in conformity with Rules 5.12 and 5.2 of these Rules.
+(b) Each party filing a motion or a response to a motion or order of the Panel under Rules 7.2, 7.3, 7.4 or 7.6 of these Rules may file simultaneously therewith a separate statement limited to one page setting forth reasons why oral argument should, or need not, be heard. Such statements shall be captioned “Reasons Why Oral Argument Should \[Need Not\] Be Heard,” and shall be filed and served in conformity with Rules 5.12 and 5.2 of these Rules.
 
 (c) No transfer or remand determination regarding any action pending in the district court shall be made by the Panel when any party timely opposes such transfer or remand unless a hearing session has been held for the presentation of oral argument except that the Panel may dispense with oral argument if it determines that:
 
@@ -468,7 +468,7 @@ Motions to remand and responses thereto shall be governed by Rules 5.12, 5.2, 7.
 
 > Unless otherwise ordered by the Panel, all other matters before the Panel, such as a motion for reconsideration, shall be considered and determined upon the basis of the papers filed.
 
-(d) In those matters in which oral argument is not scheduled by the Panel, counsel shall be promptly advised. If oral argument is scheduled in a matter the Clerk of the Panel may require counsel for all parties who wish to make or to waive oral argument to file and serve notice to that effect within a stated time in conformity with Rules 5.12 and 5.2 of these Rules. Failure to do so shall be deemed a waiver of oral argument by that party. If oral argument is scheduled but not attended by a party, the matter shall not be rescheduled and that party's position shall be treated as submitted for decision by the Panel on the basis of the papers filed.
+(d) In those matters in which oral argument is not scheduled by the Panel, counsel shall be promptly advised. If oral argument is scheduled in a matter the Clerk of the Panel may require counsel for all parties who wish to make or to waive oral argument to file and serve notice to that effect within a stated time in conformity with Rules 5.12 and 5.2 of these Rules. Failure todo so shall be deemed a waiver of oral argument by that party. If oral argument is scheduled but not attended by a party, the matter shall not be rescheduled and that party's position shall be treated as submitted for decision by the Panel on the basis of the papers filed.
 
 (e) Except for leave of the Panel on a showing of good cause, only those parties to actions scheduled for oral argument who have filed a motion or written response to a motion or order shall be permitted to appear before the Panel and present oral argument.
 
@@ -554,7 +554,7 @@ Motions to remand and responses thereto shall be governed by Rules 5.12, 5.2, 7.
 
 &emsp;(v) fastened at the top-left corner without side binding or front or back covers.
 
-(b) The heading on the first page of each notice of multicircuit petitions for review shall commence not less that three inches from the top of the page. Each notice shall bear the heading Notice to the Judicial Panel on Multidistrict Litigation of Multicircuit Petitions for Review,” followed by a brief caption identifying the involved agency, the relevant agency order, and the date of the order.
+(b) The heading on the first page of each notice of multicircuit petitions for review shall commence not less that three inches from the top of the page. Each notice shall bear the heading \[“\]Notice to the Judicial Panel on Multidistrict Litigation of Multicircuit Petitions for Review,” followed by a brief caption identifying the involved agency, the relevant agency order, and the date of the order.
 
 (c) The final page of each notice of multicircuit petitions for review shall contain the name, address and telephone number of the individual or individuals who submitted the notice on behalf of the agency.
 
@@ -569,4 +569,8 @@ Motions to remand and responses thereto shall be governed by Rules 5.12, 5.2, 7.
 (c) The Clerk of the Panel shall serve the Panel's consolidation order on the clerks of all circuit courts of appeals that were among the candidates for the Panel's random selection.
 
 (Added June 14, 1988, eff. July 6, 1988; amended Sept. 1, 1998, eff. Nov. 2, 1998.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1441 of this title.
 

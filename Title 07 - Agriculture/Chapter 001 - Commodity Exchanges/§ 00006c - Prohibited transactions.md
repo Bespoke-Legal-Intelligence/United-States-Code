@@ -24,7 +24,7 @@
 
 #### (b) Regulated option trading
 
-No person shall offer to enter into, enter into or confirm the execution of, any transaction involving any commodity regulated under this chapter which is of the character of, or is commonly known to the trade as, an “option”, “privilege”, “indemnity”, “bid”, “offer”, “put”, “call”, “advance guaranty”, or “decline guaranty”, contrary to any rule, regulation, or order of the Commission prohibiting any such transaction or allowing any such transaction under such terms and conditions as the Commissionshall prescribe. Any such order, rule, or regulation may be made only after notice and opportunity for hearing, and the Commission may set different terms and conditions for different markets.
+No person shall offer to enter into, enter into or confirm the execution of, any transaction involving any commodity regulated under this chapter which is of the character of, or is commonly known to the trade as, an “option”, “privilege”, “indemnity”, “bid”, “offer”, “put”, “call”, “advance guaranty”, or “decline guaranty”, contrary to any rule, regulation, or order of the Commission prohibiting any such transaction or allowing any such transaction under such terms and conditions as the Commission shall prescribe. Any such order, rule, or regulation may be made only after notice and opportunity for hearing, and the Commission may set different terms and conditions for different markets.
 
 #### (c) Regulations for elimination of pilot status of commodity option transactions; terms and conditions of options trading
 
@@ -60,7 +60,7 @@ Notwithstanding the provisions of subsection (c) of this section—
 
 &emsp;&emsp;&emsp;(i) has evidence that the grantor meets the requirements specified in subclause (A) of this clause;
 
-&emsp;&emsp;&emsp;(ii) treats and deals with all money, securities, or property received from its customers as payment of the purchase price in connection with such transactions, as belonging to such customers until the expiration of the term of the option, or, if the customer exercises the option, until all rights of the customer under the commodity option transaction have been fulfilled;
+&emsp;&emsp;&emsp;(ii) treats and deals with all money, securities, or property received from its customers as payment of the purchase price in connection with such transactions, as belonging to such customers until the expiration of the term of the option, or, if the customer exercises the option, until allrights of the customer under the commodity option transaction have been fulfilled;
 
 &emsp;&emsp;&emsp;(iii) records each transaction in its customer's name by the transaction identification number provided by the grantor;
 
@@ -108,7 +108,7 @@ Subsec. (g). Pub. L. 102–546, §203(a), added subsec. (g).
 
 Subsec. (b). Pub. L. 97–444, §206(2), in revising section generally, struck out references to any transaction subject to provisions of subsection (a) of this section and to any commodity not specifically set forth in section 2(a) of this title, prior to October 23, 1974, and struck out “within one year after the effective date of the Commodity Futures Trading Commission Act of 1974 unless the Commission determines and notifies the Senate Committee on Agriculture, Nutrition, and Forestry and the House Committee on Agriculture that it is unable to prescribe such terms and conditions within such period of time:” after “such terms and conditions as the Commission shall prescribe”.
 
-Subsec. (c). Pub. L. 97–444, §206(3), inserted “With respect to any commodity regulated under this chapter and specifically set forth in section 2(a) of this title prior to October 23, 1974, the Commission may, pursuant to the procedures set forth in this subsection, establish a pilot program for a period not to exceed three years to permit such commodity option transactions. The Commission may authorize commodity option transactions during the pilot program in as many commodities as will provide an adequate test of the trading of such option transactions. After completion of the pilot program, the Commission may authorize commodity option transactions without regard to the restrictions in the pilot program after the Commission transmits to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry the documentation required under clause (1) of the first sentence of this subsection and the expiration of thirty calendar days of continuous session of Congress after the date of such transmittal.”
+Subsec. (c). Pub. L. 97–444, §206(3), inserted “With respect to any commodity regulated under this chapter and specifically set forth in section 2(a) of this title prior to October 23, 1974, the Commission may, pursuant to the procedures set forth in this subsection, establish a pilot program for a period not to exceed three years to permit such commodity option transactions. The Commission may authorize commodity option transactions during the pilot program in as many commodities as will provide an adequate test of the tradingof such option transactions. After completion of the pilot program, the Commission may authorize commodity option transactions without regard to the restrictions in the pilot program after the Commission transmits to the House Committee on Agriculture and the Senate Committee on Agriculture, Nutrition, and Forestry the documentation required under clause (1) of the first sentence of this subsection and the expiration of thirty calendar days of continuous session of Congress after the date of such transmittal.”
 
 Subsec. (d)(1). Pub. L. 97–444, §206(4)(A), inserted “, other than a commodity specifically set forth in section 2(a) of this title prior to October 23, 1974,” after “physical commodity”.
 
@@ -130,7 +130,7 @@ Subsec. (b). Pub. L. 93–463, §402(c), added subsec. (b).
 
 #### Effective Date of 1992 Amendment
 
-Section 203(b) of Pub. L. 102–546 provided that: “The Commission shall adopt the rules required by theamendment made under subsection (a) \[amending this section\] within two hundred and seventy days after the date of enactment of this Act \[Oct. 28, 1992\].”
+Section 203(b) of Pub. L. 102–546 provided that: “The Commission shall adopt the rules required by the amendment made under subsection (a) \[amending this section\] within two hundred and seventy days after the date of enactment of this Act \[Oct. 28, 1992\].”
 
 #### Effective Date of 1983 Amendment
 

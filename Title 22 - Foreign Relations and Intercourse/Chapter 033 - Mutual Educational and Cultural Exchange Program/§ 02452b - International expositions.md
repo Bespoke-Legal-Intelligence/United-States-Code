@@ -10,7 +10,7 @@ Except as provided in subsection (b) of this section and notwithstanding any oth
 
 &emsp;The Department of State is authorized to utilize its personnel and resources to carry out the responsibilities of the Department for the following:
 
-&emsp;&emsp;(A) Administrative services, including legal and other advice and contract administration, under section 2452(a)(3) of this title related to United States participation in international fairs and expositions abroad. Such administrative services may not include capital expenses, operating expenses, or travel or related expenses (other than such expenses as are associated with the provision of administrative services by employees of the Department of State).
+&emsp;&emsp;(A) Administrative services, including legal and other advice and contract administration, under section 2452(a)(3) of this title related to United States participation in international fairs and expositions abroad. Such administrative services may not include capital expenses, operating expenses,or travel or related expenses (other than such expenses as are associated with the provision of administrative services by employees of the Department of State).
 
 &emsp;&emsp;(B) Activities under section 2455(f) of this title with respect to encouraging foreign governments, international organizations, and private individuals, firms, associations, agencies and other groups to participate in international fairs and expositions and to make contributions to be utilized for United States participation in international fairs and expositions.
 

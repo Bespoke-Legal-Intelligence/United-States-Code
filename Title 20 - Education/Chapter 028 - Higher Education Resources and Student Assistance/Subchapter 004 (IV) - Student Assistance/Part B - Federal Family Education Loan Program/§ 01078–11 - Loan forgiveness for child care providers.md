@@ -40,7 +40,7 @@ In this section:
 
 #### (1) In general
 
-&emsp;The Secretary may carry out a demonstration program of assuming the obligation torepay, pursuant to subsection (d) of this section, a loan made, insured, or guaranteed under this part or part C of this subchapter (excluding loans made under sections 1078–2 and 1078–3 of this title or comparable loans made under part C of this subchapter) for any new borrower after October 7, 1998, who—
+&emsp;The Secretary may carry out a demonstration program of assuming the obligation to repay, pursuant to subsection (d) of this section, a loan made, insured, or guaranteed under this part or part C of this subchapter (excluding loans made under sections 1078–2 and 1078–3 of this title or comparable loans made under part C of this subchapter) for any new borrower after October 7, 1998, who—
 
 &emsp;&emsp;(A) completes a degree in early childhood education;
 
@@ -136,7 +136,7 @@ The Secretary shall pay to each eligible lender or holder for each fiscal year a
 
 &emsp;&emsp;(E) identify the reasons why participants in the program have chosen to take part in the program;
 
-&emsp;&emsp;(F) identify the number of individuals participating in the program who received an associate's degree and the number of such individuals who received a bachelor's degree; and
+&emsp;&emsp;(F) identify the number of individuals participating in the program who received anassociate's degree and the number of such individuals who received a bachelor's degree; and
 
 &emsp;&emsp;(G) identify the number of years each individual participates in the program.
 

@@ -6,7 +6,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;(1) For each country that received assistance under this part for either of the 2 preceding fiscal years, a report on the extent to which the country has—
 
-&emsp;&emsp;(A) met the goals and objectives of the United Nations Convention Against IllicitTraffic in Narcotic Drugs and Psychotropic Substances, including action on such issues as illicit cultivation, production, distribution, sale, transport, and financing, and money laundering, asset seizure, extradition, mutual legal assistance, law enforcement and transit cooperation, precursor chemical control, and demand reduction;
+&emsp;&emsp;(A) met the goals and objectives of the United Nations Convention Against Illicit Traffic in Narcotic Drugs and Psychotropic Substances, including action on such issues as illicit cultivation, production, distribution, sale, transport, and financing, and money laundering, asset seizure, extradition, mutual legal assistance, law enforcement and transit cooperation, precursor chemical control, and demand reduction;
 
 &emsp;&emsp;(B) accomplished the goals described in an applicable bilateral narcotics agreement with the United States or a multilateral agreement; and
 
@@ -50,7 +50,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 &emsp;&emsp;&emsp;(I) are negotiating in good faith with the United States to establish such a record-exchange mechanism, or
 
-&emsp;&emsp;&emsp;(II) have adopted laws or regulations that ensure the availability to appropriate United States Government personnel andthose of other governments of adequate records in connection with narcotics investigations and proceedings.
+&emsp;&emsp;&emsp;(II) have adopted laws or regulations that ensure the availability to appropriate United States Government personnel and those of other governments of adequate records in connection with narcotics investigations and proceedings.
 
 &emsp;&emsp;(B) Which countries—
 
@@ -98,7 +98,7 @@ Not later than March 1 of each year, the President shall transmit to the Speaker
 
 > &emsp;&emsp;with respect to narcotic control efforts during the preceding fiscal year, the current fiscal year, and the next fiscal year; and
 
-&emsp;&emsp;(C) list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign country for narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connection with narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
+&emsp;&emsp;(C) list all transfers, which were made by the United States Government during the preceding fiscal year, to a foreign country for narcotics control purposes of any property seized by or otherwise forfeited to the United States Government in connectionwith narcotics-related activity, including an estimate of the fair market value and physical condition of each item of property transferred.
 
 (Pub. L. 87–195, pt. I, §489, as added Pub. L. 102–583, §5(a), Nov. 2, 1992, 106 Stat. 4917; amended Pub. L. 103–447, title I, §101(f)(1), Nov. 2, 1994, 108 Stat. 4692; Pub. L. 104–66, title I, §1112(c), Dec. 21, 1995, 109 Stat. 724.)
 
@@ -132,6 +132,12 @@ Pub. L. 103–447, §101(f)(1)(C), struck out heading and text of subsec. (c). T
 
 Subsec. (d). Pub. L. 103–447, §101(f)(1)(D), redesignated subsec. (d) as (c).
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Delegation of Functions
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
@@ -142,5 +148,5 @@ Section 6(a) of Pub. L. 102–583 provided that after Sept. 30, 1994, any refere
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2291, 2291c, 2291j of this title; title 19 sections 2492, 2494.
+This section is referred to in sections 2291, 2291c, 2291j, 2291j–1 of this title; title 19 sections 2492, 2494.
 

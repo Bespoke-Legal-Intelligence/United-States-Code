@@ -10,7 +10,7 @@ The Council shall have a General Counsel, who shall be appointed by the Executiv
 
 #### (c) Appointment and compensation of officers and employees
 
-The Executive Director of the Council may appoint and fix the compensation of such officersand employees in the competitive service as are necessary to perform the functions of the Council at rates not to exceed that now or hereafter prescribed for the highest rate for grade 15 of the General Schedule under section 5332 of title 5: <i>Provided, however</i>, That the Executive Director, with the concurrence of the Chairman, may appoint and fix the compensation of not to exceed five employees in the competitive service at rates not to exceed that now or hereafter prescribed for the highest rate of grade 17 of the General Schedule under section 5332 of title 5.
+The Executive Director of the Council may appoint and fix the compensation of such officers and employees in the competitive service as are necessary to perform the functions of the Council at rates not to exceed that now or hereafter prescribed for the highest rate for grade 15 of the General Schedule under section 5332 of title 5: <i>Provided, however</i>, That the Executive Director, with the concurrence of the Chairman, may appoint and fix the compensation of not to exceed five employees in the competitive service at rates not to exceed that now or hereafter prescribed for the highest rate of grade 17 of the General Schedule under section 5332 of title 5.
 
 #### (d) Appointment and compensation of additional personnel
 
@@ -69,4 +69,8 @@ Subsec. (g). Pub. L. 94–422 added subsec. (g).
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
 References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 40 section 3303.
 

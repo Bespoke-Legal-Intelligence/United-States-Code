@@ -6,13 +6,17 @@
 
 (2) Construction shall not be initiated for facilities for treatment of wastewater at any Federal property or facility after September 30, 1979, if alternative methods for wastewater treatment at such property or facility utilizing innovative treatment processes and techniques, including but not limited to methods utilizing recycle and reuse techniques and land treatment are not utilized, unless the life cycle cost of the alternative treatment works exceeds the life cycle cost of the most cost effective alternative by more than 15 per centum. The Administrator may waive the application of this paragraph in any case where the Administrator determines it to be in the public interest, or that compliance with this paragraph would interfere with the orderly compliance with conditions of a permit issued pursuant to section 1342 of this title.
 
-(June 30, 1948, ch. 758, title III, §313, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875; amended Pub. L. 95–217, §§60, 61(a), Dec. 27, 1977, 91 Stat. 1597, 1598.)
+(June 30, 1948, ch. 758, title III, §313, as added Pub. L. 92–500, §2, Oct. 18, 1972, 86 Stat. 875;amended Pub. L. 95–217, §§60, 61(a), Dec. 27, 1977, 91 Stat. 1597, 1598.)
 
 #### Amendments
 
 1977—Subsec. (a). Pub. L. 95–217, §§60, 61(a), designated existing provisions as subsec. (a) and inserted provisions making officers, agents, or employees of Federal departments, agencies, or instrumentalities subject to Federal, State, interstate, and local requirements, administrative authority, process, and sanctions respecting the control and abatement of water pollution in the same manner and to the same extent as non-governmental entities, including the payment of reasonable service charges, inserted provisions covering Federal employee liability, and inserted provisions relating to military source exemptions and the issuance of regulations covering those exemptions.
 
 Subsec. (b). Pub. L. 95–217, §60, added subsec. (b).
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Marine Guidance Systems
 

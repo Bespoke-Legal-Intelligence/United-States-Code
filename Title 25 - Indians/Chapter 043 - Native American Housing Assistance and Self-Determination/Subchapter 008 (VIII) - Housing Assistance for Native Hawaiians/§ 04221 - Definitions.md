@@ -38,7 +38,7 @@ In this subchapter:
 
 #### (5) Housing area
 
-&emsp;The term “housing area” means an area of Hawaiian Home Lands with respect to whichthe Department of Hawaiian Home Lands is authorized to provide assistance for affordable housing under this chapter.
+&emsp;The term “housing area” means an area of Hawaiian Home Lands with respect to which the Department of Hawaiian Home Lands is authorized to provide assistance for affordable housing under this chapter.
 
 #### (6) Housing entity
 
@@ -128,7 +128,7 @@ Pub. L. 106–569, title V, §512, Dec. 27, 2000, 114 Stat. 2966, provided that:
 
 &emsp;&emsp;“(B) 50 percent of Native Hawaiians who either reside or who are eligible to reside on the Hawaiian Home Lands have incomes below 30 percent of the median family income;
 
-&emsp;“(9) one-third of those Native Hawaiians who are eligible to reside on the Hawaiian Home Lands pay more than 30 percent of their income for shelter, andone-half of those Native Hawaiians face overcrowding;
+&emsp;“(9) one-third of those Native Hawaiians who are eligible to reside on the Hawaiian Home Lands pay more than 30 percent of their income for shelter, and one-half of those Native Hawaiians face overcrowding;
 
 &emsp;“(10) the extraordinarily severe housing needs of Native Hawaiians demonstrate that Native Hawaiians who either reside on, or are eligible to reside on, Hawaiian Home Lands have been denied equal access to Federal low-income housing assistance programs available to other qualified residents of the United States, and that a more effective means of addressing their housing needs must be authorized;
 

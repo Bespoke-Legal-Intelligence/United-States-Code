@@ -1,6 +1,6 @@
 ### §1007. Deductions from pay
 
-(a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Transportation, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
+(a) The pay of an officer of an armed force may be withheld, under section 5512 of title 5, only for an indebtedness to the United States admitted by the officer or shown by the judgment of a court, or upon a special order issued in the discretion of the Secretary of Defense (or the Secretary of Homeland Security, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy), or upon the denial of relief of an officer pursuant to section 3527 of title 31.
 
 (b) An amount due to the United States from an enlisted member of the Army or the Air Force for articles sold to him on credit under section 4621(a)(1) or 9621(a)(1) of title 10, as the case may be, shall be deducted from the next pay due him after the sale is reported.
 
@@ -8,7 +8,7 @@
 
 (d) Subject to subsection (c), an amount due the United States from an enlisted member of the Army or the Air Force may be deducted from his pay on final statement, or from his savings on his clothing allowance.
 
-(e) The amount of any damage, or cost of repairs, to arms or equipment caused by the abuse or negligence of a member of the Army or the Air Force, as the case may be, who had the care of, or was using, the property when it was damaged, shall be deducted from his pay.
+(e) The amount of any damage, or cost of repairs, to arms or equipment caused by the abuse or negligence of a member of the Army, Navy, Air Force, or Marine Corps, as the case may be, who had the care of, or was using, the property when it was damaged, shall be deducted from his pay.
 
 (f) If, upon final settlement of the accounts of an officer of the Army or the Air Force charged with the issue of an article of military supply, there is a deficiency of that article, or if an article of military supply with whose issue an officer is charged is damaged, the value of the lost article or the amount of the damage shall be charged against the officer and deducted from his monthly pay, unless he shows to the satisfaction of the Secretary of the Army or the Secretary of the Air Force, as the case may be, by one or more affidavits setting forth the circumstances, that he was not at fault.
 
@@ -26,13 +26,13 @@
 
 (2) Amounts deducted under paragraph (1) shall be deposited in the Armed Forces Retirement Home Trust Fund.
 
-(3) The Secretary of Defense, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixed at different amounts on the basis of grade or length of service, or both.
+(3) The Secretary of Defense, after consultation with the Armed Forces Retirement Home Board, shall determine from time to time the amount to be deducted under paragraph (1) from the pay of enlisted members, warrant officers, and limited duty officers on the basis of the financial needs of the Armed Forces Retirement Home. The amount to be deducted may be fixedat different amounts on the basis of grade or length of service, or both.
 
 (4) In this subsection, the term “armed forces” does not include the Coast Guard when it is not operating as a service in the Navy.
 
 (5) This subsection does not apply to an enlisted member, warrant officer, or limited duty officer of a reserve component.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 104–106, div. A, title IX, §913(c)(2), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(1), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title X, §1066(d)(5), Oct. 5, 1999, 113 Stat. 773.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 491; Pub. L. 89–718, §§71, 72, Nov. 2, 1966, 80 Stat. 1124; Pub. L. 90–83, §5(3), Sept. 11, 1967, 81 Stat. 221; Pub. L. 98–525, title XIII, §1305, Oct. 19, 1984, 98 Stat. 2613; Pub. L. 99–145, title VI, §684, Nov. 8, 1985, 99 Stat. 666; Pub. L. 100–180, div. A, title VI, §633(a), Dec. 4, 1987, 101 Stat. 1105; Pub. L. 101–189, div. A, title III, §343(a), Nov. 29, 1989, 103 Stat. 1420; Pub. L. 101–510, div. A, title XV, §1533(b), Nov. 5, 1990, 104 Stat. 1735; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title X, §1054(a)(7), Oct. 23, 1992, 106 Stat. 2502; Pub. L. 103–337, div. A, title III, §371(a), Oct. 5, 1994, 108 Stat. 2735; Pub. L. 104–106, div. A, title IX, §913(c)(2), Feb. 10, 1996, 110 Stat. 411; Pub. L. 104–201, div. A, title X, §1009(c)(1), Sept. 23, 1996, 110 Stat. 2635; Pub. L. 106–65, div. A, title X, §1066(d)(5), Oct. 5, 1999, 113 Stat. 773; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title X, §1006(b), Dec. 2, 2002, 116 Stat. 2633.)
 
 Historical and Revision Notes
 
@@ -132,6 +132,10 @@ Provisions similar to those in subsec. (i) of this section were contained in sec
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+Subsec. (e). Pub. L. 107–314 substituted “Army, Navy, Air Force, or Marine Corps” for “Army or the Air Force”.
+
 1999—Subsec. (b). Pub. L. 106–65 struck out at end “An amount due the United States from an enlisted member of the Army or the Air Force for tobacco sold to him by the United States under section 4623 or 9623 of title 10 shall be deducted from his pay in the manner provided for the settlement of clothing accounts.”
 
 1996—Subsec. (a). Pub. L. 104–201 inserted “(or the Secretary of Transportation, in the case of an officer of the Coast Guard when the Coast Guard is not operating as a service in the Navy)” after “Secretary of Defense”.
@@ -174,6 +178,12 @@ Subsec. (i)(5). Pub. L. 101–510, §1533(b)(4), substituted “, warrant offic
 
 Subsec. (c). Pub. L. 89–718, §72, substituted “pay” for “basic pay” as the amount which cannot be reduced below one-third through deductions from enlisted men of the Army or Air Force who have been administratively determined to owe the United States, payable by deductions in monthly installments.
 
+#### Effective Date of 2002 Amendments
+
+Amendment by Pub. L. 107–314 applicable with respect to loss, spoilage, unserviceability, unsuitability, or destruction of, or damage to, property of United States under control of Department of Defense occurring on or after effective date of regulations prescribed pursuant to section 2787 of Title 10, Armed Forces, see section 1006(d) of Pub. L. 107–314, set out as an Effective Date note under section 2787 of Title 10.
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+
 #### Effective Date of 1994 Amendment
 
 Section 371(d)(1) of Pub. L. 103–337 provided that: “(1) The amendment made by subsection (a) \[amending this section\] shall take effect on January 1, 1995, and apply to years that begin on or after that date.”
@@ -193,6 +203,10 @@ Section 343(b) of Pub. L. 101–189 provided that:
 #### Effective Date of 1987 Amendment
 
 Section 633(b) of Pub. L. 100–180 provided that: “Subsection (h) of section 1007 of title 37, United States Code (as added by subsection (a)), shall apply with respect to debts incurred by members of the uniformed services after the date of the enactment of this Act \[Dec. 4, 1987\].”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;Except as provided in subparagraph (B), the Board shall reimburse the Secretary for any expenses incurred by the Secretary in connection with the conduct of any referendum under this section.
+&emsp;&emsp;Except as provided in subparagraph (B), the Board shall reimburse the Secretary forany expenses incurred by the Secretary in connection with the conduct of any referendum under this section.
 
 #### (B) Federal employee salaries
 

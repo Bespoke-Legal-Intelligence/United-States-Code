@@ -1,0 +1,32 @@
+### §8712. Mayor of the District of Columbia
+
+(a)
+
+Planning Responsibilities.—The Mayor of the District of Columbia is the central planning agency for the government of the District of Columbia in the National Capital and is responsible for coordinating the planning activities of the District government and for preparing and implementing the District elements of the comprehensive plan for the National Capital, which may include land use elements, urban renewal and redevelopment elements, a multiyear program of public works for the District, and physical, social, economic, transportation, and population elements. The Mayor's planning responsibility shall not extend to—
+
+&emsp;(1) federal or international projects and developments in the District, as determined by the National Capital Planning Commission; or
+
+&emsp;(2) the United States Capitol Buildings and Grounds as defined and described in sections 5101 and 5102, any extension of, or additions to, those Buildings and Grounds, and buildings and grounds under the care of the Architect of the Capitol.
+
+(b)
+
+Participation and Consultation.—In carrying out the responsibilities under this section and section 8721 of this title, the Mayor shall establish procedures for citizen participation in the planning process and for appropriate meaningful consultation with any state or local government or planning agency in the National Capital region affected by any aspect of a comprehensive plan, including amendments, affecting or relating to the District.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1218.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+8712
+
+40:71a(a)(2).
+
+June 6, 1924, ch. 270, §2(a)(2), as added July 19, 1952, ch. 949, §1, 66 Stat. 782; Pub. L. 93–198, title II, §203(a), Dec. 24, 1973, 87 Stat. 779.
+

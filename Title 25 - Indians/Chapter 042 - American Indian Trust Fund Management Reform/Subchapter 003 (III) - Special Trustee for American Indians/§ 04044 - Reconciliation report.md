@@ -18,3 +18,15 @@ The Secretary shall transmit to the Committee on Natural Resources of the House 
 
 Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
+#### Settlement of Tribal Claims
+
+Pub. L. 107–153, §1, Mar. 19, 2002, 116 Stat. 79, provided that:
+
+“(a)
+
+In General.—Notwithstanding any other provision of law, for purposes of determining the date on which an Indian tribe received a reconciliation report for purposes of applying a statute of limitations, any such report provided to or received by an Indian tribe in response to section 304 of the American Indian Trust Fund Management Reform Act of 1994 (25 U.S.C. 4044) shall be deemed to have been received by the Indian tribe on December 31, 1999.
+
+“(b)
+
+Statement of Purpose.—Subsection (a) is solely intended to provide recipients of reconciliation reports with the opportunity to postpone the filing of claims, or to facilitate the voluntary dismissal of claims, to encourage settlement negotiations with the United States.”
+

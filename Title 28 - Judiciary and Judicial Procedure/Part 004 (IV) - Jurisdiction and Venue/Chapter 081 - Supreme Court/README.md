@@ -15,15 +15,15 @@
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–337, div. A, title IX, §924(d)(2)(B), Oct. 5, 1994, 108 Stat. 2832, substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item 1259.
+1994—Pub. L. 103–337, div. A, title IX, §924(d)(2)(B), Oct. 5, 1994, 108 Stat. 2832, substituted “Court of Appeals for the Armed Forces” for “Court of Military Appeals” in item 1259.
 
-<b>1988</b>—Pub. L. 100–352, §§1, 2(c), 5(a), June 27, 1988, 102 Stat. 662, 663, struck out item 1252 “Direct appeals from decisions invalidating Acts of Congress”, struck out “appeal;” after “certiorari;” in item 1254, and struck out “appeal;” after “State courts;” in item 1257 and after “of Puerto Rico;” in item 1258.
+1988—Pub. L. 100–352, §§1, 2(c), 5(a), June 27, 1988, 102 Stat. 662, 663, struck out item 1252 “Direct appeals from decisions invalidating Acts of Congress”, struck out “appeal;” after “certiorari;” in item 1254, and struck out “appeal;” after “State courts;” in item 1257 and after “of Puerto Rico;” in item 1258.
 
-<b>1983</b>—Pub. L. 98–209, §10(a)(2), Dec. 6, 1983, 97 Stat. 1406, added item 1259.
+1983—Pub. L. 98–209, §10(a)(2), Dec. 6, 1983, 97 Stat. 1406, added item 1259.
 
-<b>1982</b>—Pub. L. 97–164, title I, §123, Apr. 2, 1982, 96 Stat. 36, struck out item 1255 “Court of Claims; certiorari; certified questions” and item 1256 “Court of Customs and Patent Appeals; certiorari”.
+1982—Pub. L. 97–164, title I, §123, Apr. 2, 1982, 96 Stat. 36, struck out item 1255 “Court of Claims; certiorari; certified questions” and item 1256 “Court of Customs and Patent Appeals; certiorari”.
 
-<b>1961</b>—Pub. L. 87–189, §2, Aug. 30, 1961, 75 Stat. 417, added item 1258.
+1961—Pub. L. 87–189, §2, Aug. 30, 1961, 75 Stat. 417, added item 1258.
 
 #### Definitions of Courts and Judges
 
@@ -40,6 +40,8 @@ Section 32 of act June 25, 1948, as amended by act May 24, 1949, ch. 139, §127,
 #### Rules of the Supreme Court
 
 Procedure generally, on appeal to or in Supreme Court, see Appendix to this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “1330”.</i>
 
 
 ---

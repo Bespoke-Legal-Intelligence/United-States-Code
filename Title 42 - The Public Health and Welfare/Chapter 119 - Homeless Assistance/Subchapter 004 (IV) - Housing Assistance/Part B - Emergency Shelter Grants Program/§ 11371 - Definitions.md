@@ -36,7 +36,7 @@ For purposes of this part:
 
 Amendment by Pub. L. 104–330 effective Oct. 1, 1997, except as otherwise expressly provided, see section 107 of Pub. L. 104–330, set out as an Effective Date note under section 4101 of Title 25, Indians.
 
-Section 506(c) of Pub. L. 104–330, as amended by Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: “The amendments under subsections (a) \[amending this section and sections 11372 to 11376, 11382, 11401, 11403g, and 11408 of this title\] and (b) \[amending provisions formerly set out as a note under section 11301 of this title\] shall apply with respect to amounts made available forassistance under title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11361 et seq.\] and section 2 of the HUD Demonstration Act of 1993 \[Pub. L. 103–120, former 42 U.S.C. 11301 note\], respectively, for fiscal year 1998 and fiscal years thereafter.”
+Section 506(c) of Pub. L. 104–330, as amended by Pub. L. 106–400, §2, Oct. 30, 2000, 114 Stat. 1675, provided that: “The amendments under subsections (a) \[amending this section and sections 11372 to 11376, 11382, 11401, 11403g, and 11408 of this title\] and (b) \[amending provisions formerly set out as a note under section 11301 of this title\] shall apply with respect to amounts made available for assistance under title IV of the McKinney-Vento Homeless Assistance Act \[42 U.S.C. 11361 et seq.\] and section 2 of the HUD Demonstration Act of 1993 \[Pub. L. 103–120, former 42 U.S.C. 11301 note\], respectively, for fiscal year 1998 and fiscal years thereafter.”
 
 #### Termination of Trust Territory of the Pacific Islands
 

@@ -222,7 +222,7 @@ Amendment by section 827 of Pub. L. 103–236 effective 60 days after Apr. 30, 1
 
 #### Rewards for Information Concerning Individuals Sought for Serious Violations of International Humanitarian Law Relating to Former Yugoslavia or Rwanda
 
-Pub. L. 105–323, title I, §102, Oct. 30, 1998, 112 Stat. 3032, as amended by Pub. L. 106–277, §1, Oct. 2, 2000, 114 Stat. 813, provided that:
+Pub. L. 105–323, title I, §102, Oct. 30, 1998, 112 Stat. 3032, as amended by Pub. L. 106–277, §1, Oct. 2, 2000, 114 Stat. 813; Pub. L. 107–228, div. A, title VI, §697(d), Sept. 30, 2002, 116 Stat. 1418, provided that:
 
 “(a)
 
@@ -230,7 +230,7 @@ Authority.—In the sole discretion of the Secretary of State (except as provide
 
 &emsp;“(1) the arrest or conviction in any country; or
 
-&emsp;“(2) the transfer to, or conviction by, the International Criminal Tribunal for the Former Yugoslavia or the International Criminal Tribunal for Rwanda,
+&emsp;“(2) the transfer to, or conviction by, the Special Court of Sierra Leone\[,\] the International Criminal Tribunal for the Former Yugoslavia or the International Criminal Tribunal for Rwanda,
 
 > of any individual who is the subject of an indictment confirmed by a judge of such tribunal for serious violations of international humanitarian law as defined under the statute of such tribunal.
 
@@ -261,6 +261,8 @@ Procedures.—
 Reference.—(1) For the purposes of subsection (a), the statute of the International Criminal Tribunal for the Former Yugoslavia means the Annex to the Report of the Secretary General of the United Nations pursuant to paragraph 2 of Security Council Resolution 827 (1993) (S/25704).
 
 “(2) For the purposes of subsection (a), the statute of the International Criminal Tribunal for Rwanda means the statute contained in the annex to Security Council Resolution 955 of November 8, 1994.
+
+“(3) For the purposes of subsection (a), the Statute of the Special Court for Sierra Leone means the Statute contained in the Annex to the Agreement Between the United Nations and the Government of Sierra Leone on the Establishment of a Special Court for Sierra Leone.
 
 “(d)
 

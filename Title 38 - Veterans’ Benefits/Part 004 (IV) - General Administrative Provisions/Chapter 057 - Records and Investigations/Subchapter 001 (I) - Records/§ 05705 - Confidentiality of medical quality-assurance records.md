@@ -4,7 +4,7 @@
 
 (b)(1) Subject to paragraph (2) of this subsection, a record or document described in subsection (a) of this section shall, upon request, be disclosed as follows:
 
-&emsp;(A) To a Federal agency or private organization, if such record or document is needed by such agency or organization to perform licensing or accreditation functions related to Department health-care facilities or to perform monitoring, required by statute, of Department health-care facilities.
+&emsp;(A) To a Federal agency or private organization, if such record or document is needed bysuch agency or organization to perform licensing or accreditation functions related to Department health-care facilities or to perform monitoring, required by statute, of Department health-care facilities.
 
 &emsp;(B) To a Federal executive agency or provider of health-care services, if such record or document is required by such agency or provider for participation by the Department in a health-care program with such agency or provider.
 
@@ -20,7 +20,7 @@
 
 (5) Nothing in this section shall be construed as limiting the use of records and documents described in subsection (a) of this section within the Department (including contractors and consultants of the Department).
 
-(6) Nothing in this section shall be construed as authorizing or requiring withholding from any person or entity the disclosure of statistical information regarding Department health-care programs (including such information as aggregate morbidity and mortality rates associatedwith specific activities at individual Department health-care facilities) that does not implicitly or explicitly identify individual patients or employees of the Department, or individuals who participated in the conduct of a medical quality-assurance review.
+(6) Nothing in this section shall be construed as authorizing or requiring withholding from any person or entity the disclosure of statistical information regarding Department health-care programs (including such information as aggregate morbidity and mortality rates associated with specific activities at individual Department health-care facilities) that does not implicitly or explicitly identify individual patients or employees of the Department, or individuals who participated in the conduct of a medical quality-assurance review.
 
 (c) For the purpose of this section, the term “medical quality-assurance program” means—
 

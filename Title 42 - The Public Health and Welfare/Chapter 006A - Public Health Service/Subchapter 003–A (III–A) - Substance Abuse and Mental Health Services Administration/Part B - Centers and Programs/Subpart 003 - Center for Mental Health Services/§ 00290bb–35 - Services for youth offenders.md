@@ -22,7 +22,7 @@ A State or local juvenile justice agency that desires a grant under subsection (
 
 #### (d) Report
 
-Not later than 3 years after October 17, 2000, and annually thereafter, the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Commerce of the House of Representatives, a report that describes the services provided pursuant to this section.
+Not later than 3 years after October 17, 2000, and annually thereafter, the Secretary shall prepare and submit, to the Committee on Health, Education, Labor, and Pensions of the Senate and the Committee on Commerce of the Houseof Representatives, a report that describes the services provided pursuant to this section.
 
 #### (e) Definitions
 

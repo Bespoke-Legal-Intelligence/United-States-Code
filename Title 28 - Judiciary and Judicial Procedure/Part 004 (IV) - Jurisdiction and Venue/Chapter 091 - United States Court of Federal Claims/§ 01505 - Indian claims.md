@@ -10,7 +10,7 @@ The United States Court of Federal Claims shall have jurisdiction of any claim a
 
 Section 1505 is added to title 28, U.S.C., by this amendment to incorporate the act of August 13, 1946 (ch. 959, §24, 60 Stat. 1055), which was originally classified to title 28, U.S.C., but was later transferred to title 25 of such code. Since such section 24 deals with jurisdiction of the Court of Claims it should be in title 28.
 
-This amendatory section omits as surplusage all provisions of said section 24 except the first sentence, asbeing fully covered by the express provisions of sections 1503 and 2501 and other provisions of chapter 165 of title 28, U.S.C., relating to Court of Claims procedure.
+This amendatory section omits as surplusage all provisions of said section 24 except the first sentence, as being fully covered by the express provisions of sections 1503 and 2501 and other provisions of chapter 165 of title 28, U.S.C., relating to Court of Claims procedure.
 
 The proviso of such section 24 is omitted as unnecessary since the provision conferring jurisdiction cannot in any view alter the relationship of the Government with its Indians.
 
@@ -18,9 +18,9 @@ The omitted language is as follows: “In any suit brought under the jurisdictio
 
 #### Amendments
 
-<b>1992</b>—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court”.
+1992—Pub. L. 102–572 substituted “United States Court of Federal Claims” for “United States Claims Court” and “Court of Federal Claims” for “Claims Court”.
 
-<b>1982</b>—Pub. L. 97–164 substituted “The United States Claims Court shall have jurisdiction” for “The Court of Claims shall have jurisdiction” and “cognizable in the Claims Court” for “cognizable in the Court of Claims”.
+1982—Pub. L. 97–164 substituted “The United States Claims Court shall have jurisdiction” for “The Court of Claims shall have jurisdiction” and “cognizable in the Claims Court” for “cognizable in the Court of Claims”.
 
 #### Effective Date of 1992 Amendment
 
@@ -32,5 +32,5 @@ Amendment by Pub. L. 97–164 effective Oct. 1, 1982, see section 402 of Pub. L.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 25 sections 640d–17, 1300i–11, 1776b.
+This section is referred to in title 25 sections 640d–17, 1300i–11, 1776b, 1779c.
 

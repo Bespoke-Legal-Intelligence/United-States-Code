@@ -10,7 +10,7 @@
 
 (e) Any vacancy in such division of the court shall be filled only for the remainder of the two-year period in which such vacancy occurs and in the same manner as initial assignments to such division were made.
 
-(f) Except as otherwise provided in chapter 40 of this title, no member of such division of the court who participated in a function conferred on the division under chapter 40 of this title involving an independent counsel shall be eligibleto participate in any judicial proceeding concerning a matter which involves such independent counsel while such independent counsel is serving in that office or which involves the exercise of such independent counsel's official duties, regardless of whether such independent counsel is still serving in that office.
+(f) Except as otherwise provided in chapter 40 of this title, no member of such division of the court who participated in a function conferred on the division under chapter 40 of this title involving an independent counsel shall be eligible to participate in any judicial proceeding concerning a matter which involves such independent counsel while such independent counsel is serving in that office or which involves the exercise of such independent counsel's official duties, regardless of whether such independent counsel is still serving in that office.
 
 (Added Pub. L. 95–521, title VI, §602(a), Oct. 26, 1978, 92 Stat. 1873; amended Pub. L. 97–409, §2(b)(1), Jan. 3, 1983, 96 Stat. 2039; Pub. L. 99–554, title I, §144(g)(3), Oct. 27, 1986, 100 Stat. 3097; Pub. L. 100–191, §§4, 5(a), Dec. 15, 1987, 101 Stat. 1307.)
 
@@ -20,13 +20,13 @@ The date of enactment of this section, referred to in subsec. (a), is Oct. 26, 1
 
 #### Amendments
 
-<b>1987</b>—Subsec. (a). Pub. L. 100–191, §4, inserted at end: “The Clerk of the United States Court of Appeals for the District of Columbia Circuit shall serve as the clerk of such division of the court and shall provide such services as are needed by such division of the court.”
+1987—Subsec. (a). Pub. L. 100–191, §4, inserted at end: “The Clerk of the United States Court of Appeals for the District of Columbia Circuit shall serve as the clerk of such division of the court and shall provide such services as are needed by such division of the court.”
 
 Subsec. (f). Pub. L. 100–191, §5(a), substituted “involving an independent counsel” for “involving a independent counsel”.
 
-<b>1986</b>—Subsec. (f). Pub. L. 99–554 substituted “chapter 40” for “chapter 39” in two places.
+1986—Subsec. (f). Pub. L. 99–554 substituted “chapter 40” for “chapter 39” in two places.
 
-<b>1983</b>—Pub. L. 97–409, §2(b)(1)(B), substituted “independent counsels” for “special prosecutors” in section catchline.
+1983—Pub. L. 97–409, §2(b)(1)(B), substituted “independent counsels” for “special prosecutors” in section catchline.
 
 Subsec. (a). Pub. L. 97–409, §2(b)(1)(B), substituted “independent counsels” for “special prosecutors”.
 

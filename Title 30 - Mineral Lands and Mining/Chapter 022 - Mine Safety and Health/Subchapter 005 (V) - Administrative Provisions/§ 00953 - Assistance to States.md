@@ -42,7 +42,7 @@ Any State aggrieved by a decision of the Secretary under subsection (b) or (c) o
 
 #### (e) Programs to train State inspectors
 
-Any State application or modification thereof submitted to the Secretary under this sectionmay include a program to train State inspectors.
+Any State application or modification thereof submitted to the Secretary under this section may include a program to train State inspectors.
 
 #### (f) Cooperation in implementation of programs; exchange of reports between States
 

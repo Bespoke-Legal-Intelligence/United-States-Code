@@ -50,6 +50,7 @@
 | (<i>o</i>) | Authority to appoint conservator or receiver. |
 | (p) | Authority. |
 | (q) | Uniform protection authority for Federal reserve facilities. |
+| (r) | Voting; documentation of determinations. |
 | 248–1. | Rules and regulations for transfer of funds and charges therefor among banks; clearing houses. |
 | [248a.](Subchapter%20002%20%28II%29%20-%20Board%20of%20Governors%20of%20the%20Federal%20Reserve%20System/%C2%A7%2000248a%20-%20Pricing%20of%20services.md) | Pricing of services. |
 | (a) | Publication of pricing principles and proposed schedule of fees; effective date of schedule of fees. |

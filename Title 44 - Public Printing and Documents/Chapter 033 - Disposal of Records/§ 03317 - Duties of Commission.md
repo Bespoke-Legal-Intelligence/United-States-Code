@@ -10,7 +10,7 @@ It shall be the duty of the Commission to study problems and questions with resp
 
 &emsp;(4) the recordkeeping procedures of the White House Office, with a view toward establishing means to determine which records and documents are produced by or on behalf of the President;
 
-&emsp;(5) the nature of rules and procedures which should apply to the control, disposition, and preservation of records and documents produced by Presidential task forces, commissions, and boards;
+&emsp;(5) the nature of rules and procedures which should apply to the control, disposition, andpreservation of records and documents produced by Presidential task forces, commissions, and boards;
 
 &emsp;(6) criteria which may be used generally in determining the scope of materials which should be considered to be the records and documents of Members of the Congress;
 

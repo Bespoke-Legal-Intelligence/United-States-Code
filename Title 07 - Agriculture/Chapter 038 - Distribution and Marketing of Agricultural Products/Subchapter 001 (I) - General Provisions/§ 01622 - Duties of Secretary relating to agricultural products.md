@@ -60,7 +60,7 @@ To determine the needs and develop or assist in the development of plans for eff
 
 #### (j) Improvement of transportation facilities and rates
 
-To assist in improving transportation services and facilities and in obtaining equitable and reasonable transportation rates and services and adequate transportation facilities for agricultural products and farm supplies by making complaint or petition to the Interstate Commerce Commission, the Maritime Commission,,<sup>1</sup> or other Federal or State transportation regulatory body, or the Secretary of Transportation, with respect to rates, charges, tariffs, practices, and services, or by working directly with individual carriers or groups of carriers.
+To assist in improving transportation services and facilities and in obtaining equitable and reasonable transportation rates and services and adequate transportation facilities for agricultural products and farm supplies by making complaint or petition to the Interstate Commerce Commission, the Maritime Commission,,<sup>1</sup> or other Federal or State transportation regulatory body, or the Secretary of Transportation, with respect to rates, charges, tariffs, practices,and services, or by working directly with individual carriers or groups of carriers.
 
 #### (k) Collection and dissemination of marketing statistics
 
@@ -72,7 +72,7 @@ To develop and promulgate, for the use and at the request of any Federal agency 
 
 #### (m) Promotion of research for handling, storing, preserving, etc.
 
-To conduct, assist, encourage, and promote research, investigation, and experimentation todetermine the most efficient and practical means, methods, and processes for the handling, storing, preserving, protecting, processing, and distributing of agricultural commodities to the end that such commodities may be marketed in an orderly manner and to the best interest of the producers thereof.
+To conduct, assist, encourage, and promote research, investigation, and experimentation to determine the most efficient and practical means, methods, and processes for the handling, storing, preserving, protecting, processing, and distributing of agricultural commodities to the end that such commodities may be marketed in an orderly manner and to the best interest of the producers thereof.
 
 #### (n) General research, services, and activities
 
@@ -242,7 +242,7 @@ Scope of field research.—Research under paragraph (1) shall be conducted to ev
 
 “(d)
 
-Dissemination of Results.—The Secretary of Agriculture shall disseminate to concerned parties the results obtained from prior scientifically valid research concerning Federal marketing policies and practices described in this section to avoid any duplication of effort and to ensure that current knowledge concerning such policies and practices is enhanced.
+Dissemination of Results.—The Secretary of Agriculture shall disseminate to concerned parties theresults obtained from prior scientifically valid research concerning Federal marketing policies and practices described in this section to avoid any duplication of effort and to ensure that current knowledge concerning such policies and practices is enhanced.
 
 “(e)
 
@@ -278,7 +278,7 @@ Report.—The Secretary of Agriculture shall report to Congress on the research 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2276 of this title; title 40 section 474.
+This section is referred to in section 2276 of this title; title 40 section 113.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

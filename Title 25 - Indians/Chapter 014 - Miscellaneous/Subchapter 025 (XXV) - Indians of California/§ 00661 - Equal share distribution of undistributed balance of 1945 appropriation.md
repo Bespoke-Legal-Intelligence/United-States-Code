@@ -12,7 +12,7 @@ The Secretary of the Treasury is authorized and directed to credit to the judgme
 
 #### References in Text
 
-The moneys appropriated in satisfaction of the judgment of the Court of Claims in the case of The Indians of California against United States (102 Court of Claims 837; 59 Stat. 94), referred to in subsec. (a), are the moneys appropriated by act Apr. 25, 1945, ch. 95, 59 Stat. 77, known as the First Deficiency Appropriations Act, 1945. That portion of the act which appropriated the moneys referred to was not classified to the Code.
+The moneys appropriated in satisfaction of the judgment of the Court of Claims in the case of The Indiansof California against United States (102 Court of Claims 837; 59 Stat. 94), referred to in subsec. (a), are the moneys appropriated by act Apr. 25, 1945, ch. 95, 59 Stat. 77, known as the First Deficiency Appropriations Act, 1945. That portion of the act which appropriated the moneys referred to was not classified to the Code.
 
 The Court of Claims, referred to in text, and the Court of Customs and Patent Appeals were merged effective Oct. 1, 1982, into a new United States Court of Appeals for the Federal Circuit by Pub. L. 97–164, Apr. 2, 1982, 96 Stat. 25, which also created a United States Claims Court \[now United States Court of Federal Claims\] that inherited the trial jurisdiction of the Court of Claims. See sections 48, 171 et seq., 791 et seq., and 1491 et seq. of Title 28, Judiciary and Judicial Procedure.
 

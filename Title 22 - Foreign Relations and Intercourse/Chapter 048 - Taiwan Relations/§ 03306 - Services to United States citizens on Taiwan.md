@@ -4,7 +4,7 @@
 
 The Institute may authorize any of its employees on Taiwan—
 
-&emsp;(1) to administer to or take from any person an oath, affirmation, affidavit, or deposition, and to perform any notarial act which any notary public is required or authorized by law to perform within the United States;
+&emsp;(1) to administer to or take from any person an oath, affirmation, affidavit, or deposition,and to perform any notarial act which any notary public is required or authorized by law to perform within the United States;
 
 &emsp;(2) To <sup>1</sup> act as provisional conservator of the personal estates of deceased United States citizens; and
 

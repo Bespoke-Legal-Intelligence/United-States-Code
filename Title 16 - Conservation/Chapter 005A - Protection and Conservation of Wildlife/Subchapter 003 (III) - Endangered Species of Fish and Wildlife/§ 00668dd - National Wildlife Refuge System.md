@@ -88,7 +88,7 @@ In administering the System, the Secretary is authorized to take the following a
 
 #### (c) Prohibited and permitted activities; application of mining and mineral leasing laws, hunting or fishing regulations, and State laws or regulations
 
-No person shall disturb, injure, cut, burn, remove, destroy, or possess any real or personal property of the United States, including natural growth, in any area of the System; or take or possess any fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof within any such area; or enter, use, or otherwise occupy any such area for any purpose; unless such activities are performed by persons authorized to manage such area, or unless such activities are permitted either under subsection (d) of this section or by express provision of the law, proclamation, Executive order, or public land order establishing the area, or amendment thereof: <i>Provided</i>, That the United States mining and mineral leasing laws shall continue to apply to any lands within the System to the same extent they apply prior to October 15, 1966, unless subsequently withdrawn under other authority of law. With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title, nothing in this Act shall be construed to authorize the Secretary to control or regulate hunting or fishing of resident fish and wildlife on lands not within the system. The regulations permitting hunting and fishing of resident fish and wildlife within the System shall be, to the extent practicable, consistent with State fish and wildlife laws and regulations.
+No person shall disturb, injure, cut, burn, remove, destroy, or possess any real or personal property of the United States, including natural growth, in any area of the System; or take or possess any fish, bird, mammal, or other wild vertebrate or invertebrate animals or part or nest or egg thereof within any such area; or enter, use, or otherwise occupy any such area for any purpose; unless such activities are performed by persons authorized to manage such area, or unless such activities are permitted either under subsection (d) of this section or by express provision of the law, proclamation, Executive order, or public land order establishing the area, or amendment thereof: <i>Provided</i>, That the United States mining and mineral leasing laws shall continue to apply to any lands within the System to the same extent they apply priorto October 15, 1966, unless subsequently withdrawn under other authority of law. With the exception of endangered species and threatened species listed by the Secretary pursuant to section 1533 of this title in States wherein a cooperative agreement does not exist pursuant to section 1535(c) of this title, nothing in this Act shall be construed to authorize the Secretary to control or regulate hunting or fishing of resident fish and wildlife on lands not within the system. The regulations permitting hunting and fishing of resident fish and wildlife within the System shall be, to the extent practicable, consistent with State fish and wildlife laws and regulations.
 
 #### (d) Use of areas; administration of migratory bird sanctuaries as game taking areas; rights of way, easements, and reservations; payment of fair market value
 
@@ -236,7 +236,7 @@ Coordination with State fish and wildlife agency personnel or with personnel of 
 
 #### References in Text
 
-This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, which enacted sections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715<i>l</i>, 715m of this title. For complete classification of this Act to the Code, see Tables.
+This Act, referred to in text, means Pub. L. 89–669, Oct. 15, 1966, 80 Stat. 927, as amended, which enactedsections 668aa to 668ee, amended sections 460k, 696, 696b, 715c, 715i to 715k, 718d, and repealed sections 715d–1, 715d–2, 715<i>l</i>, 715m of this title. For complete classification of this Act to the Code, see Tables.
 
 The United States mining laws and mineral leasing laws, referred to in subsec. (c), are classified generally to Title 30, Mineral Lands and Mining.
 
@@ -314,7 +314,7 @@ Subsec. (f). Pub. L. 95–616, §3(f), substituted “disposed of by the Secreta
 
 1976—Subsec. (a). Pub. L. 94–223 designated existing first sentence as par. (1), provided for administration of the System by the Secretary of the Interior through the United States Fish and Wildlife Service and inserted provision respecting continuance of programs relating to management of resources in refuge lands in Alaska, subject to direct supervision of the United States Fish and Wildlife Service; struck out second sentence providing that “Nothing in this Act shall restrict the authority of the Secretary to modify or revoke public land withdrawals affecting lands in the System as presently constituted, or as it may be constituted, whenever he determines that such action is consistent with the public interest.”; designated existing third sentence as par. (2), redesignated as subpars. (A) and (B) former clauses (1) and (2), redesignated as subpar. (B)(i) and (ii) former cl. (2)(A) and (B), substituted in subpar. (A) “with the approval of” for “after consultation with”, inserted in subpar. (B)(i) “or fair market value, whichever is greater;” and reenacted as second sentence of par. (2) former last sentence of subsec. (a); and added par. (3).
 
-Subsec. (b)(3). Pub. L. 94–215 substituted designations “(A)” and “(B)” for “(a)” and “(b)”, inserted in cl. (A) “, or for interests in acquired or public lands,” before “under his jurisdiction” and substituted in cl. (B) “he may prescribe” for “the Secretary may prescribe”.
+Subsec. (b)(3). Pub. L. 94–215 substituted designations “(A)” and “(B)” for “(a)” and “(b)”, inserted in cl. (A) “, or for interests in acquired or public lands,” before “under his jurisdiction” and substituted in cl. (B) “he may prescribe” for “the Secretary may prescribe”.
 
 1974—Subsec. (d). Pub. L. 93–509 designated existing provisions as par. (1)(A) and (B) and added par. (2).
 
@@ -382,7 +382,7 @@ Findings.—Congress finds that—
 
 &emsp;“(B) it is essential that visitor centers and public use facilities be properly constructed, operated, and maintained;
 
-&emsp;“(7) the National Wildlife Refuge System Volunteer and Community Partnership Enhancement Act of 1998 (16 U.S.C. 742f note; Public Law 105–242) \[see Short Title of 1998 Amendments note under section 742a of this title\], and the amendments made by that Act, significantly enhance the ability of the UnitedStates Fish and Wildlife Service to incorporate volunteers and partnerships in refuge management;
+&emsp;“(7) the National Wildlife Refuge System Volunteer and Community Partnership Enhancement Act of 1998 (16 U.S.C. 742f note; Public Law 105–242) \[see Short Title of 1998 Amendments note under section 742a of this title\], and the amendments made by that Act, significantly enhance the ability of the United States Fish and Wildlife Service to incorporate volunteers and partnerships in refuge management;
 
 &emsp;“(8) as of the date of the enactment of this Act \[Nov. 1, 2000\], the System has an unacceptable backlog of critical operation and maintenance needs; and
 
@@ -652,7 +652,7 @@ Pub. L. 102–154, title III, §319, Nov. 13, 1991, 105 Stat. 1036, provided tha
 
 “(a)
 
-Transfer by the Air Force.—Notwithstanding any other provision of law, the Secretary of the AirForce shall transfer to the Department of the Interior a parcel of real property located west of McIntyre Road at the site of former Pease Air Force Base, New Hampshire: <i>Provided</i>, That the Secretary of the Air Force shall retain responsibility for any hazardous substances which may be found on the property so transferred.
+Transfer by the Air Force.—Notwithstanding any other provision of law, the Secretary of the Air Force shall transfer to the Department of the Interior a parcel of real property located west of McIntyre Road at the site of former Pease Air Force Base, New Hampshire: <i>Provided</i>, That the Secretary of the Air Force shall retain responsibility for any hazardous substances which may be found on the property so transferred.
 
 “(b)
 
@@ -672,7 +672,7 @@ Condition of conveyance.—The conveyance under paragraph (1) shall be subject t
 
 &emsp;“(3)
 
-Reversion.—If the Secretary determines at any time that the State of New Hampshire is not complying with the condition specified in paragraph (2), all right, title, and interest in and to the property conveyed pursuant to paragraph (1), including any improvements thereon, shall revert to the United States and the United States shall have the right of immediate entry thereon.
+Reversion.—If the Secretary determines at any time that the State of New Hampshire is not complying with the condition specified in paragraph\(2), all right, title, and interest in and to the property conveyed pursuant to paragraph (1), including any improvements thereon, shall revert to the United States and the United States shall have the right of immediate entry thereon.
 
 &emsp;“(4)
 
@@ -698,7 +698,7 @@ National Wildlife Refuges
 
 Provisions relating to national wildlife refuges were contained in the following acts and executive documents:
 
-Alaska Maritime National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, §303(1), Dec. 2, 1980, 94 Stat. 2389; Pub. L. 101–622, Nov. 21, 1990, 104 Stat. 3347; Pub. L. 102–489, Oct. 24, 1992, 106 Stat. 3138; Pub. L. 106–554, §1(a)(4) \[div. A, §302\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180.
+Alaska Maritime National Wildlife Refuge, Alaska.—Pub. L. 96–487, title III, §303(1), Dec. 2, 1980, 94 Stat. 2389; Pub. L. 101–622, Nov. 21, 1990, 104 Stat. 3347; Pub. L. 102–489, Oct. 24, 1992, 106 Stat. 3138; Pub. L. 106–554, §1(a)(4) \[div. A, §302\], Dec. 21, 2000, 114 Stat. 2763, 2763A–180; Pub. L. 107–239, Oct. 11, 2002, 116 Stat. 1488; Pub. L. 107–314, div. B, title XXVIII, §2853, Dec. 2, 2002, 116 Stat. 2727.
 
 Alaska Peninsula National Wildlife Refuge, Alaska.—Pub. L. 96–498, title III, §302(1), Dec. 2, 1980, 94 Stat. 2385.
 
@@ -742,6 +742,8 @@ Columbia National Wildlife Refuge, Washington.—Pub. L. 106–291, title I, §1
 
 Cossatot National Wildlife Refuge, Arkansas.—Pub. L. 104–333, div. I, title III, §305(h), Nov. 12, 1996, 110 Stat. 4130.
 
+Desert National Wildlife Range, Nevada.—Pub. L. 107–282, title III, §301, Nov. 6, 2002, 116 Stat. 2006.
+
 Detroit River International Wildlife Refuge (former Wyandotte National Wildlife Refuge), Michigan.—Pub. L. 87–119, Aug. 3, 1961, 75 Stat. 243; Pub. L. 107–91, Dec. 21, 2001, 115 Stat. 894.
 
 Don Edwards San Francisco Bay National Wildlife Refuge, California.—Pub. L. 92–326, June 30, 1972, 86 Stat. 391; Pub. L. 96–290, §1, June 28, 1980, 94 Stat. 607; Pub. L. 100–556, title II, Oct. 28, 1988, 102 Stat. 2780; Pub. L. 104–78, §1, Dec. 28, 1995, 109 Stat. 790.
@@ -782,9 +784,11 @@ Mason Neck National Wildlife Refuge, Virginia.—Pub. L. 106–291, title I, §1
 
 McNary National Wildlife Refuge, Washington.—Pub. L. 106–53, title V, §563(<i>l</i>), Aug. 17, 1999, 113 Stat. 365.
 
-Midway Atoll National Wildlife Refuge, Midway Islands.—Ex. Ord. No. 13022, §3(a), Oct. 31, 1996, 61 F.R. 56875.
+Midway Atoll National Wildlife Refuge, Midway Islands.—Ex. Ord. No. 13022, §3(a), Oct. 31, 1996, 61 F.R. 56875; Pub. L. 107–206, title I, §703, Aug. 2, 2002, 116 Stat. 864.
 
 Minnesota Valley National Wildlife Refuge, Minnesota.—Pub. L. 94–466, Oct. 8, 1976, 90 Stat. 1992.
+
+Mountain Longleaf National Wildlife Refuge, Alabama.—Pub. L. 107–314, div. B, title XXVIII, §2821, Dec. 2, 2002, 116 Stat. 2710.
 
 Neal Smith National Wildlife Refuge, Iowa.—Pub. L. 105–83, title III, §341, Nov. 14, 1997, 111 Stat. 1604.
 
@@ -874,7 +878,7 @@ By the authority vested in me as President by the Constitution and the laws of t
 
 Section 1. <i>The Mission of the National Wildlife Refuge System</i>. The mission of the National Wildlife Refuge System (“Refuge System”) is to preserve a national network of lands and waters for the conservation and management of fish, wildlife, and plant resources of the United States for the benefit of present and future generations.
 
-Sec. 2. <i>Guiding Principles</i>. To help ensure a bright future for its treasured national heritage, I hereby affirm the following four guiding principles for the management and general public use of the Refuge System:
+Sec. 2. <i>Guiding Principles</i>. To help ensure a bright future for its treasured national heritage, I hereby affirmthe following four guiding principles for the management and general public use of the Refuge System:
 
 (a) <i>Public Use</i>. The Refuge System provides important opportunities for compatible wildlife-dependent recreational activities involving hunting, fishing, wildlife observation and photography, and environmental education and interpretation.
 

@@ -192,7 +192,7 @@ I74“(rescissions)
 
 Sec. 102. (a) Of the funds available in the nondefense category to the agencies of the Federal Government, $145,000,000 are hereby rescinded: <i>Provided</i>, That rescissions pursuant to this subsection shall be taken only from administrative and travel accounts: <i>Provided further</i>, That rescissions shall be taken on a pro rata basis from funds available to every Federal agency, department, and office in the executive branch, including the Office of the President.
 
-“(b) Within 30 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Director of the Office ofManagement and Budget shall submit to the Committees on Appropriations of the House of Representatives and the Senate a listing of the amounts by account of the reductions made pursuant to the provisions of subsection (a) of this section.
+“(b) Within 30 days after the date of the enactment of this Act \[Aug. 17, 1999\], the Director of the Office of Management and Budget shall submit to the Committees on Appropriations of the House of Representatives and the Senate a listing of the amounts by account of the reductions made pursuant to the provisions of subsection (a) of this section.
 
 #### “CHAPTER 2
 
@@ -296,7 +296,7 @@ Additional costs.—For the additional cost of the loans guaranteed under this s
 
 “(f)
 
-Requirements for Loan Guarantees.—The Board may issue a loan guarantee on application by a qualified oil and gas company under an agreement by a private bank or investment company to provide a loan to the qualified oil and gas company, if the Board determines that—
+Requirements for Loan Guarantees.—The Board may issue a loan guarantee on application by aqualified oil and gas company under an agreement by a private bank or investment company to provide a loan to the qualified oil and gas company, if the Board determines that—
 
 &emsp;“(1) credit is not otherwise available to the company under reasonable terms or conditions sufficient to meet its financing needs, as reflected in the financial and business plans of the company;
 
@@ -320,7 +320,7 @@ Loan security.—A commitment to issue a loan guarantee under this section shall
 
 &emsp;“(3)
 
-Fees.—A qualified oil and gas company receiving a loan guarantee under this section shall pay a fee to the Department of the Treasury to cover costs of the program, but in no event shall such fee exceedan amount equal to 0.5 percent of the outstanding principal balance of the guaranteed loan.
+Fees.—A qualified oil and gas company receiving a loan guarantee under this section shall pay a fee to the Department of the Treasury to cover costs of the program, but in no event shall such fee exceed an amount equal to 0.5 percent of the outstanding principal balance of the guaranteed loan.
 
 &emsp;“(4)
 

@@ -124,7 +124,7 @@ A person described in subsection (b) of this section who is required to register
 
 #### (2) State registration systems
 
-&emsp;In a State that has a minimally sufficient sexual offender registration program, including a program established under section 14071 of this title, fingerprints required to be registered with the FBI under this section shall be obtained and verified in accordance with State requirements. The State agency responsible for registration shall ensure that the fingerprints and all other information required to be registered is registered with the FBI.
+&emsp;In a State that has a minimally sufficient sexual offender registration program, including a program established under section 14071of this title, fingerprints required to be registered with the FBI under this section shall be obtained and verified in accordance with State requirements. The State agency responsible for registration shall ensure that the fingerprints and all other information required to be registered is registered with the FBI.
 
 #### (i) Penalty
 

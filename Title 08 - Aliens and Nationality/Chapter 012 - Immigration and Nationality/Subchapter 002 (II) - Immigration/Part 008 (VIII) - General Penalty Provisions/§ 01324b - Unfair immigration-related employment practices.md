@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(B) a person's or entity's discrimination because of an individual's national origin if the discrimination with respect to that person or entity and that individual is covered under section 703 of the Civil Rights Act of 1964 \[42 U.S.C. 2000e–2\], or
 
-&emsp;&emsp;(C) discrimination because of citizenship status which is otherwise required in order to comply with law, regulation, or executive order, or required by Federal, State, or local government contract, or which the Attorney General determines to be essential for an employer to do business with an agency or department of the Federal, State, or local government.
+&emsp;&emsp;(C) discrimination because of citizenship status which is otherwise required in order to comply with law, regulation, or executive order, or required by Federal, State, or local government contract, or which the AttorneyGeneral determines to be essential for an employer to do business with an agency or department of the Federal, State, or local government.
 
 #### (3) “Protected individual” defined
 
@@ -44,7 +44,7 @@
 
 #### (1) In general
 
-&emsp;Except as provided in paragraph (2), any person alleging that the person is adversely affected directly by an unfair immigration-related employment practice (or a person on that person's behalf) or an officer of the Service alleging that an unfair immigration-related employment practice has occurred or is occurring may file a charge respecting such practice or violation with the Special Counsel\(appointed under subsection (c) of this section). Charges shall be in writing under oath or affirmation and shall contain such information as the Attorney General requires. The Special Counsel by certified mail shall serve a notice of the charge (including the date, place, and circumstances of the alleged unfair immigration-related employment practice) on the person or entity involved within 10 days.
+&emsp;Except as provided in paragraph (2), any person alleging that the person is adversely affected directly by an unfair immigration-related employment practice (or a person on that person's behalf) or an officer of the Service alleging that an unfair immigration-related employment practice has occurred or is occurring may file a charge respecting such practice or violation with the Special Counsel (appointed under subsection (c) of this section). Charges shall be in writing under oath or affirmation and shall contain such information as the Attorney General requires. The Special Counsel by certified mail shall serve a notice of the charge (including the date, place, and circumstances of the alleged unfair immigration-related employment practice) on the person or entity involved within 10 days.
 
 #### (2) No overlap with EEOC complaints
 
@@ -116,7 +116,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;If, upon the preponderance of the evidence, an administrative law judge determines that any person or entity named in the complaint has engaged in or is engaging in any such unfair immigration-related employment practice, then the judge shall state his findings of fact and shall issue and cause to be served on such person or entity an order which requires such person or entity to cease and desist from such unfair immigration-related employment practice.
+&emsp;&emsp;If, upon the preponderance of the evidence, an administrative law judge determines that any person or entity named in the complaint has engaged in or is engaging in any such unfair immigration-related employment practice, then the judge shall state his findings of fact and shall issue and cause to be served on such person or entity an order which requires such person or entity tocease and desist from such unfair immigration-related employment practice.
 
 #### (B) Contents of order
 
@@ -150,7 +150,7 @@
 
 #### (D) Treatment of distinct entities
 
-&emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, withoutreference to the practices of, and not under the control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
+&emsp;&emsp;In applying this subsection in the case of a person or entity composed of distinct, physically separate subdivisions each of which provides separately for the hiring, recruiting, or referring for employment, without reference to the practices of, and not under the control of or common control with, another subdivision, each such subdivision shall be considered a separate person or entity.
 
 #### (3) Orders not finding violations
 
@@ -178,7 +178,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 #### (2) Court enforcement order
 
-&emsp;Upon the filing of such petition, the court shall have jurisdiction to make and enter a decree enforcing the order of the administrative law judge. In such a proceeding, the order of the administrative law judge shall not be subject to review.
+&emsp;Upon the filing of such petition, the court shall have jurisdiction to make and enter a decree enforcing the order of the administrativelaw judge. In such a proceeding, the order of the administrative law judge shall not be subject to review.
 
 #### (3) Enforcement decree in original review
 
@@ -212,7 +212,7 @@ In any complaint respecting an unfair immigration-related employment practice, a
 
 &emsp;(A) may, to the extent deemed appropriate and subject to the availability of appropriations, contract with public and private organizations for outreach activities under the campaign, and
 
-&emsp;(B) shall consult with the Secretary of Labor, the chairman of the Equal EmploymentOpportunity Commission, and the heads of such other agencies as may be appropriate.
+&emsp;(B) shall consult with the Secretary of Labor, the chairman of the Equal Employment Opportunity Commission, and the heads of such other agencies as may be appropriate.
 
 (3) There are authorized to be appropriated to carry out this subsection $10,000,000 for each fiscal year (beginning with fiscal year 1991).
 
@@ -321,6 +321,10 @@ Section 539(b) of Pub. L. 101–649 provided that: “The amendments made by sub
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–525 effective as if included in enactment of Immigration Reform and Control Act of 1986, Pub. L. 99–603, see section 2(s) of Pub. L. 100–525, set out as a note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 

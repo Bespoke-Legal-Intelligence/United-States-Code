@@ -22,7 +22,7 @@ The Director of the Institute in carrying out the National Cancer Program—
 
 &emsp;(1) shall establish or support the large-scale production or distribution of specialized biological materials and other therapeutic substances for cancer research and set standards of safety and care for persons using such materials;
 
-&emsp;(2) shall, in consultation with the advisory council for the Institute, support (A) research in the cancer field outside the United States by highly qualified foreign nationals which can be expected to benefit the American people, (B) collaborative research involving American and foreign participants, and (C) the training of American scientists abroad and foreign scientists in the United States;
+&emsp;(2) shall, in consultation with the advisory council for the Institute, support (A) researchin the cancer field outside the United States by highly qualified foreign nationals which can be expected to benefit the American people, (B) collaborative research involving American and foreign participants, and (C) the training of American scientists abroad and foreign scientists in the United States;
 
 &emsp;(3) shall, in consultation with the advisory council for the Institute, support appropriate programs of education and training (including continuing education and laboratory and clinical research training);
 
@@ -34,7 +34,7 @@ The Director of the Institute in carrying out the National Cancer Program—
 
 &emsp;(B) may, in consultation with the advisory council for the Institute, make grants for construction or renovation of facilities; and
 
-&emsp;(C) may, in consultation with the advisory council for the Institute, acquire, without regard to section 34 of title 40, by lease or otherwise through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia for the use of the Institute for a period not to exceed ten years;
+&emsp;(C) may, in consultation with the advisory council for the Institute, acquire, without regard to section 8141 of title 40, by lease or otherwise through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia for the use of the Institute for a period not to exceed ten years;
 
 &emsp;(7) may, in consultation with the advisory council for the Institute, appoint one or more advisory committees composed of such private citizens and officials of Federal, State, and local governments to advise the Director with respect to the Director's functions;
 
@@ -60,6 +60,10 @@ The Director of the Institute in carrying out the National Cancer Program—
 
 The provisions of title 5 relating to reimbursement for travel expenses, referred to in subsec. (b), are classified generally to section 5701 et seq. of Title 5, Government Organization and Employees.
 
+#### Codification
+
+In subsec. (b)(6)(C), “section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
 #### Amendments
 
 2002—Subsec. (c). Pub. L. 107–109 added subsec. (c).
@@ -72,7 +76,7 @@ The provisions of title 5 relating to reimbursement for travel expenses, referre
 
 Subsec. (b)(5). Pub. L. 100–607, §122(2)(A), substituted “after consultation with” for “with the approval of”.
 
-Subsec. (b)(8) to (10). Pub. L. 100–607, §122(2)(B), inserted “and” after “or educational institution;” in par. (8), redesignated par. (10) as (9), and struck out former par. (9) which related to International Cancer Research Data Bank.
+Subsec. (b)(8) to (10). Pub. L. 100–607, §122(2)(B), inserted “and” after “or educational institution;” in par.\(8), redesignated par. (10) as (9), and struck out former par. (9) which related to International Cancer Research Data Bank.
 
 #### Section Referred to in Other Sections
 

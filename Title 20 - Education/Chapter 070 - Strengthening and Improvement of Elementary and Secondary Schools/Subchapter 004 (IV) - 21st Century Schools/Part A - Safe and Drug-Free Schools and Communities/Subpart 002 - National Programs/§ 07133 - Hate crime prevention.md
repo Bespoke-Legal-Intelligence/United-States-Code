@@ -50,7 +50,7 @@ From funds made available to carry out this subpart under section 7103(2) of thi
 
 #### (1) Selection of recipients
 
-&emsp;The Secretary shall consider the incidence of crimes and conflicts motivated by bias inthe targeted schools and communities in awarding grants under this section.
+&emsp;The Secretary shall consider the incidence of crimes and conflicts motivated by bias in the targeted schools and communities in awarding grants under this section.
 
 #### (2) Geographic distribution
 

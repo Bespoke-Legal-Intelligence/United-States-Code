@@ -68,3 +68,11 @@ There is hereby authorized for the Department of Defense for fiscal year 2002, $
 
 Section was enacted as the Critical Infrastructures Protection Act of 2001 and also as part of the Uniting and Strengthening America by Providing Appropriate Tools Required to Intercept and Obstruct Terrorism (USA PATRIOT ACT) Act of 2001, and not as part of the Robert T. Stafford Disaster Relief and Emergency Assistance Act which comprises this chapter.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the National Infrastructure Simulation and Analysis Center of the Department of Energy, including the functions of the Secretary of Energy relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 121(g)(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 6 section 101.
+

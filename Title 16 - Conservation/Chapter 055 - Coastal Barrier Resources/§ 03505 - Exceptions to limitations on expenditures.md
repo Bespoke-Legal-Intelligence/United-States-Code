@@ -62,7 +62,7 @@ The limitations on the use of Federal expenditures or financial assistance withi
 
 &emsp;&emsp;For purposes of this paragraph, the term “financial assistance” includes any contract, loan, grant, cooperative agreement, or other form of assistance, including the insurance or guarantee of a loan, mortgage, or pool of mortgages.
 
-(Pub. L. 97–348, §6, Oct. 18, 1982, 96 Stat. 1656; Pub. L. 100–707, title I, §109(h), Nov. 23, 1988, 102Stat. 4709; Pub. L. 101–591, §5(a), Nov. 16, 1990, 104 Stat. 2934.)
+(Pub. L. 97–348, §6, Oct. 18, 1982, 96 Stat. 1656; Pub. L. 100–707, title I, §109(h), Nov. 23, 1988, 102 Stat. 4709; Pub. L. 101–591, §5(a), Nov. 16, 1990, 104 Stat. 2934.)
 
 #### References in Text
 
@@ -79,6 +79,10 @@ The National Flood Insurance Act of 1968, referred to in subsec. (d)(2), is titl
 1990—Pub. L. 101–591 amended section generally, substituting substantially similar provisions in subsec. (a), substituting “a Federal navigation channel or a related structure is an existing channel or structure, respectively, if it was authorized before the date on which the relevant System unit or portion of the System unit was included within the System” for “a channel improvement or a related structure shall be treated as an existing improvement or an existing related structure only if all, or a portion, of the moneys for such improvement or structure was appropriated before October 18, 1982” in subsec. (b), and adding subsecs. (c) and (d).
 
 1988—Subsec. (a)(6)(E). Pub. L. 100–707 substituted reference to sections 5170a, 5170b, and 5192 of title 42 for reference to sections 5145 and 5146 of title 42.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Expansion of Highways in Michigan
 

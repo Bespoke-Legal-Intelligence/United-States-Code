@@ -14,7 +14,7 @@ Findings.—The Congress finds the following:
 
 &emsp;(2)
 
-Purpose and objective.—It is the purpose of this section to provide a mechanismfor designating any area where money laundering or a related financial crime appears to be occurring at a higher than average rate such that—
+Purpose and objective.—It is the purpose of this section to provide a mechanism for designating any area where money laundering or a related financial crime appears to be occurring at a higher than average rate such that—
 
 &emsp;&emsp;(A) a comprehensive approach to the problem of such crime in such area can be developed, in cooperation with State and local law enforcement agencies, which utilizes the authority of the Secretary to prevent such activity; or
 
@@ -88,7 +88,7 @@ Factors.—In considering the designation of any area as a high-risk money laund
 
 #### Report and Recommendations
 
-Pub. L. 105–310, §2(c), Oct. 30, 1998, 112 Stat. 2949, provided that: “Before the end of the 5-year period beginning on the date the first national strategy for combating money laundering and related financial crimes is submitted to the Congress pursuant to section 5341(a)(1) of title 31, United States Code (as added by section 2(a) of this Act), the Secretary of the Treasury, in consultation with the Attorney General, shall submit a report to the Committee on Banking and Financial Services \[now Committee on Financial Services\] and the Committee on the Judiciary of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on the Judiciary of the Senate on the effectiveness of and the need for the designation of areas, under section 5342 of title 31, United States Code (as added by such section 2(a)), as high-risk money laundering and related financial crime areas, together with recommendations for such legislation as the Secretary and the Attorney General maydetermine to be appropriate to carry out the purposes of such section.”
+Pub. L. 105–310, §2(c), Oct. 30, 1998, 112 Stat. 2949, provided that: “Before the end of the 5-year period beginning on the date the first national strategy for combating money laundering and related financial crimes is submitted to the Congress pursuant to section 5341(a)(1) of title 31, United States Code (as added by section 2(a) of this Act), the Secretary of the Treasury, in consultation with the Attorney General, shall submit a report to the Committee on Banking and Financial Services \[now Committee on Financial Services\] and the Committee on the Judiciary of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs and the Committee on the Judiciary of the Senate on the effectiveness of and the need for the designation of areas, under section 5342 of title 31, United States Code (as added by such section 2(a)), as high-risk money laundering and related financial crime areas, together with recommendations for such legislation as the Secretary and the Attorney General may determine to be appropriate to carry out the purposes of such section.”
 
 #### Section Referred to in Other Sections
 

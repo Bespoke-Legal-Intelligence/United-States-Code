@@ -8,7 +8,7 @@
 
 #### Historical and Revision Notes
 
-A Coast Guard supply fund was established by the Naval Appropriation Act for fiscal year 1943 approvedFebruary 7, 1942, 56 Stat. 73. Experience has clearly shown that it is advantageous to the Government to have permanent authorization for such a fund. 81st Congress, House Report No. 557.
+A Coast Guard supply fund was established by the Naval Appropriation Act for fiscal year 1943 approved February 7, 1942, 56 Stat. 73. Experience has clearly shown that it is advantageous to the Government to have permanent authorization for such a fund. 81st Congress, House Report No. 557.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) Activities not compensable
 
-Except as provided in subsection (b) of this section, no employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], the Walsh-Healey Act \[41 U.S.C. 35 et seq.\], or the Bacon-Davis Act \[40 U.S.C. 276a et seq.\], on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any of the following activities of such employee engaged in on or after May 14, 1947—
+Except as provided in subsection (b) of this section, no employer shall be subject to any liability or punishment under the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], the Walsh-Healey Act \[41 U.S.C. 35 et seq.\], or the Bacon-Davis Act,<sup>1</sup> on account of the failure of such employer to pay an employee minimum wages, or to pay an employee overtime compensation, for or on account of any of the following activities of such employee engaged in on or after May 14, 1947—
 
 &emsp;(1) walking, riding, or traveling to and from the actual place of performance of the principal activity or activities which such employee is employed to perform, and
 
@@ -24,7 +24,7 @@ For the purposes of subsection (b) of this section, an activity shall be conside
 
 #### (d) Determination of time employed with respect to activities
 
-In the application of the minimum wage and overtime compensation provisions of the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], of the Walsh-Healey Act \[41 U.S.C. 35 et seq.\], or of the Bacon-Davis Act \[40 U.S.C. 276a et seq.\], in determining the time for which an employer employs an employee with respect to walking, riding, traveling, or other preliminary or postliminary activities described in subsection (a) of this section, there shall be counted all that time, but only that time, during which the employee engages in any such activity which is compensable within the meaning of subsections (b) and (c) of this section.
+In the application of the minimum wage and overtime compensation provisions of the Fair Labor Standards Act of 1938, as amended \[29 U.S.C. 201 et seq.\], of the Walsh-Healey Act \[41 U.S.C. 35 et seq.\], or of the Bacon-Davis Act,<sup>1</sup> in determining the time for which an employer employs an employee with respect to walking, riding, traveling, or other preliminary or postliminary activities described in subsection (a) of this section, there shall be counted all that time, but only that time, during which the employee engages in any such activity which is compensable within the meaning of subsections (b) and (c) of this section.
 
 (May 14, 1947, ch. 52, §4, 61 Stat. 86; Pub. L. 104–188, \[title II\], §2102, Aug. 20, 1996, 110 Stat. 1928.)
 
@@ -41,4 +41,6 @@ The Walsh-Healey and Bacon-Davis Acts, referred to in subsecs. (a) and (d), are 
 #### Effective Date of 1996 Amendment
 
 Section 2103 of Pub. L. 104–188 provided that: “The amendment made by section 2101 \[probably means section 2102 of Pub. L. 104–188, amending this section\] shall take effect on the date of the enactment of this Act \[Aug. 20, 1996\] and shall apply in determining the application of section 4 of the Portal-to-Portal Act of 1947 \[this section\] to an employee in any civil action brought before such date of enactment but pending on such date.”
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,7 @@ For purposes of this section, the following are covered securities:
 
 &emsp;&emsp;(A) listed, or authorized for listing, on the New York Stock Exchange or the American Stock Exchange, or listed, or authorized for listing, on the National Market System of the Nasdaq Stock Market (or any successor to such entities);
 
-&emsp;&emsp;(B) listed, or authorized for listing, on a national securities exchange (or tier or segment thereof) that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listingstandards applicable to securities described in subparagraph (A); or
+&emsp;&emsp;(B) listed, or authorized for listing, on a national securities exchange (or tier or segment thereof) that has listing standards that the Commission determines by rule (on its own initiative or on the basis of a petition) are substantially similar to the listing standards applicable to securities described in subparagraph (A); or
 
 &emsp;&emsp;(C) is a security of the same issuer that is equal in seniority or that is a senior security to a security described in subparagraph (A) or (B).
 

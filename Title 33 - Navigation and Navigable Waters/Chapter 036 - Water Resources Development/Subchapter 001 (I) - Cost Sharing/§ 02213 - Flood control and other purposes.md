@@ -256,7 +256,7 @@ Section 210(b) of Pub. L. 104–303 provided that: “The amendments made by sub
 
 #### Continuation of Existing Regulations
 
-Section 305(b) of Pub. L. 101–640 provided that: “Regulations issued to carry out section 103(m) of the Water Resources Development Act of 1986 \[33 U.S.C. 2213(m)\] before the date of the enactment of this Act \[Nov. 28, 1990\] and in effect on such date shall continue in effect until regulations are issued pursuant to paragraph (2)(C) of such section, as added by subsection (a) of this section.”
+Section 305(b) of Pub. L. 101–640 provided that: “Regulations issued to carry out section 103(m) of the WaterResources Development Act of 1986 \[33 U.S.C. 2213(m)\] before the date of the enactment of this Act \[Nov. 28, 1990\] and in effect on such date shall continue in effect until regulations are issued pursuant to paragraph (2)(C) of such section, as added by subsection (a) of this section.”
 
 #### Reports to Congress
 

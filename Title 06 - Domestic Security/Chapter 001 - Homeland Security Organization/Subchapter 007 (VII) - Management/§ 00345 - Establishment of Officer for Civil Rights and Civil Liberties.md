@@ -1,0 +1,16 @@
+### §345. Establishment of Officer for Civil Rights and Civil Liberties
+
+#### (a) In general
+
+The Secretary shall appoint in the Department an Officer for Civil Rights and Civil Liberties, who shall—
+
+&emsp;(1) review and assess information alleging abuses of civil rights, civil liberties, and racial and ethnic profiling by employees and officials of the Department; and
+
+&emsp;(2) make public through the Internet, radio, television, or newspaper advertisements information on the responsibilities and functions of, and how to contact, the Officer.
+
+#### (b) Report
+
+The Secretary shall submit to the President of the Senate, the Speaker of the House of Representatives, and the appropriate committees and subcommittees of Congress on an annual basis a report on the implementation of this section, including the use of funds appropriated to carry out this section, and detailing any allegations of abuses described under subsection (a)(1) of this section and any actions taken by the Department in response to such allegations.
+
+(Pub. L. 107–296, title VII, §705, Nov. 25, 2002, 116 Stat. 2219.)
+

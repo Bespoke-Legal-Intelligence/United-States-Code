@@ -10,7 +10,7 @@ The Energy Policy and Conservation Act, referred to in text, is Pub. L. 94–163
 
 #### Codification
 
-Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1985,as enacted by Pub. L. 98–473, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
+Section was enacted as part of the Department of the Interior and Related Agencies Appropriations Act, 1985, as enacted by Pub. L. 98–473, and not as part of the Energy Policy and Conservation Act which comprises this chapter.
 
 #### Prior Provisions
 

@@ -40,7 +40,7 @@ Within 1 year after October 24, 1992, the Secretary shall solicit proposals for 
 
 #### (e) Authorization of appropriations
 
-There are authorized to be appropriated to the Secretary for carrying out this part, including all building, industry, and utility sectors energy conservation research and development, and inventions and innovation under energy conservation technical and financial assistance, $178,250,000 for fiscal year 1993 and $275,000,000 for fiscal year 1994.
+There are authorized to be appropriated to the Secretary for carrying out this part, includingall building, industry, and utility sectors energy conservation research and development, and inventions and innovation under energy conservation technical and financial assistance, $178,250,000 for fiscal year 1993 and $275,000,000 for fiscal year 1994.
 
 (Pub. L. 102–486, title XXI, §2101, Oct. 24, 1992, 106 Stat. 3067.)
 

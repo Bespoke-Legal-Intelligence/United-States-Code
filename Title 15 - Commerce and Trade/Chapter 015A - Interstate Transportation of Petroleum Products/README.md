@@ -41,7 +41,7 @@ Construction of a national defense pipe line from South Portland, Maine, through
 
 Construction of a national defense pipe line from Port Saint Joe, Florida, to Chattanooga, Tennessee, by the Southeastern Pipe Line Company was authorized by Proc. No. 2508, Sept. 3, 1941, 6 F.R. 4583, 55 Stat. 1672.
 
-Construction of one or more national defense pipe lines from Port Saint Joe, and other points on the Gulf Coast of Florida to the Saint Johns River, Florida, and a crude-oil pipe line from Yazoo, Mississippi, toCharleston, South Carolina and/or Savannah, Georgia, was authorized by act July 23, 1942, ch. 520, §1, 56 Stat. 703, as amended June 17, 1943, ch. 127, 57 Stat. 156.
+Construction of one or more national defense pipe lines from Port Saint Joe, and other points on the Gulf Coast of Florida to the Saint Johns River, Florida, and a crude-oil pipe line from Yazoo, Mississippi, to Charleston, South Carolina and/or Savannah, Georgia, was authorized by act July 23, 1942, ch. 520, §1, 56 Stat. 703, as amended June 17, 1943, ch. 127, 57 Stat. 156.
 
 Construction of a national defense pipe line from El Dorado, Arkansas, to Helena, Arkansas, by the Project Five Pipe Line Corporation, was authorized by Proc. No. 2567, Aug. 28, 1942, 7 F.R. 6839, 56 Stat. 1975.
 

@@ -1,0 +1,26 @@
+### §404n. National Virtual Translation Center
+
+#### (a) Establishment
+
+The Director of Central Intelligence, acting as the head of the intelligence community, shall establish in the intelligence community an element with the function of connecting the elements of the intelligence community engaged in the acquisition, storage, translation, or analysis of voice or data in digital form.
+
+#### (b) Designation
+
+The element established under subsection (a) of this section shall be known as the National Virtual Translation Center.
+
+#### (c) Administrative matters
+
+(1) The Director shall retain direct supervision and control over the element established under subsection (a) of this section.
+
+(2) The element established under subsection (a) of this section shall connect elements of the intelligence community utilizing the most current available information technology that is applicable to the function of the element.
+
+#### (d) Deadline for establishment
+
+The element required by subsection (a) of this section shall be established as soon as practicable after November 27, 2002, but not later than 90 days after November 27, 2002.
+
+(Pub. L. 107–306, title III, §313, Nov. 27, 2002, 116 Stat. 2391.)
+
+#### Codification
+
+Section was enacted as part of the Intelligence Authorization Act for Fiscal Year 2003, and not as part of the National Security Act of 1947 which comprises this chapter.
+

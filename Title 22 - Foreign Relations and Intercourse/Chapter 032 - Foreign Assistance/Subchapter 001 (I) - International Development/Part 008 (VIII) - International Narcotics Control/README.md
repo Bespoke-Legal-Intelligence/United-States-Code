@@ -27,4 +27,5 @@ This part is referred to in sections 2318, 2321j, 2357, 2375, 2392, 2394–1, 71
 - [&sect; 02291h - Reporting requirements](%C2%A7%2002291h%20-%20Reporting%20requirements.md)
 - [&sect; 02291i - Repealed. Pub. L. 104&#8211;66, title I, &sect;1112(a), Dec. 21, 1995, 109 Stat. 723](%C2%A7%2002291i%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71112%28a%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20723.md)
 - [&sect; 02291j - Annual certification procedures](%C2%A7%2002291j%20-%20Annual%20certification%20procedures.md)
+- [&sect; 02291j&#8211;1 - International drug control certification procedures](%C2%A7%2002291j%E2%80%931%20-%20International%20drug%20control%20certification%20procedures.md)
 - [&sect; 02291k - Repealed. Pub. L. 104&#8211;66, title I, &sect;1112(b), Dec. 21, 1995, 109 Stat. 724](%C2%A7%2002291k%20-%20Repealed.%20Pub.%20L.%20104%E2%80%9366%2C%20title%20I%2C%20%C2%A71112%28b%29%2C%20Dec.%2021%2C%201995%2C%20109%20Stat.%20724.md)

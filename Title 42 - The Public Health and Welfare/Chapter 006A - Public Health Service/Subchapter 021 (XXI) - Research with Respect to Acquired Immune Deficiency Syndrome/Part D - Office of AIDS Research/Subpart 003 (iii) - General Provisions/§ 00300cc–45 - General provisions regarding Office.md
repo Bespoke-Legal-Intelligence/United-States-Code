@@ -10,7 +10,7 @@ The Secretary, acting through the Director of the National Institutes of Health,
 
 &emsp;Not later than 5 years after June 10, 1993, the Secretary shall conduct an evaluation to—
 
-&emsp;&emsp;(A) determine the effect of this section on the planning and coordination of the AIDS research programs at the institutes, centers and divisions of the National Institutes of Health;
+&emsp;&emsp;(A) determine the effect of this section on the planning and coordination of the AIDS research programs at the institutes, centersand divisions of the National Institutes of Health;
 
 &emsp;&emsp;(B) evaluate the extent to which this part has eliminated the duplication of administrative resources among such Institutes, centers and divisions; and
 

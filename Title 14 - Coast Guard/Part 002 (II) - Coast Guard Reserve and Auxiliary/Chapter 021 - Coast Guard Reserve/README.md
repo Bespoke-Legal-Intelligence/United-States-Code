@@ -20,6 +20,7 @@
 
 |  |  |
 | :--- | ---: |
+| [709a.](Subchapter%20A%20-%20General/%C2%A7%2000709a%20-%20Reserve%20student%20pre-commissioning%20assistance%20program.md) | Reserve student pre-commissioning assistance program. |
 | [710\.](Subchapter%20A%20-%20General/%C2%A7%2000710%20-%20Appointment%20or%20wartime%20promotion%3B%20retention%20of%20grade%20upon%20release%20from%20active%20duty.md) | Appointment or wartime promotion; retention of grade upon release from active duty. |
 | [711\.](Subchapter%20A%20-%20General/%C2%A7%2000711%20-%20Exclusiveness%20of%20service.md) | Exclusiveness of service. |
 | [712\.](Subchapter%20A%20-%20General/%C2%A7%2000712%20-%20Active%20duty%20for%20emergency%20augmentation%20of%20regular%20forces.md) | Active duty for emergency augmentation of regular forces. |
@@ -69,6 +70,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–295, title IV, §413(b), Nov. 25, 2002, 116 Stat. 2120, added item 709a.
 
 2000—Pub. L. 106–398, §1 \[\[div. A\], title V, §502(b)(2)(B)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–100, substituted “Establishment of promotion zones under running mate system” for “Placement in promotion zone; consideration for promotion” in item 731.
 

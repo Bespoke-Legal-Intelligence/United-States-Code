@@ -6,11 +6,11 @@
 
 #### (A) Development, procurement, maintenance, or use of electronic and information technology
 
-&emsp;&emsp;When developing, procuring, maintaining, or using electronic and information technology, each Federal department or agency, including the United States Postal Service, shall ensure, unless an undue burden would be imposed on the department or agency, that the electronic and information technology allows, regardless of the type of medium of the technology—
+&emsp;&emsp;When developing, procuring, maintaining, or using electronic and information technology, each Federal department or agency,including the United States Postal Service, shall ensure, unless an undue burden would be imposed on the department or agency, that the electronic and information technology allows, regardless of the type of medium of the technology—
 
 &emsp;&emsp;&emsp;(i) individuals with disabilities who are Federal employees to have access to and use of information and data that is comparable to the access to and use of the information and data by Federal employees who are not individuals with disabilities; and
 
-&emsp;&emsp;&emsp;(ii) individuals with disabilities who are members of the public seeking information or services from a Federal department oragency to have access to and use of information and data that is comparable to the access to and use of the information and data by such members of the public who are not individuals with disabilities.
+&emsp;&emsp;&emsp;(ii) individuals with disabilities who are members of the public seeking information or services from a Federal department or agency to have access to and use of information and data that is comparable to the access to and use of the information and data by such members of the public who are not individuals with disabilities.
 
 #### (B) Alternative means efforts
 
@@ -22,7 +22,7 @@
 
 &emsp;&emsp;Not later than 18 months after August 7, 1998, the Architectural and Transportation Barriers Compliance Board (referred to in this section as the “Access Board”), after consultation with the Secretary of Education, the Administrator of General Services, the Secretary of Commerce, the Chairman of the Federal Communications Commission, the Secretary of Defense, and the head of any other Federal department or agency that the Access Board determines to be appropriate, including consultation on relevant research findings, and after consultation with the electronic and information technology industry and appropriate public or nonprofit agencies or organizations, including organizations representing individuals with disabilities, shall issue and publish standards setting forth—
 
-&emsp;&emsp;&emsp;(i) for purposes of this section, a definition of electronic and information technology that is consistent with the definition of information technology specified in section 1401(3) of title 40; and
+&emsp;&emsp;&emsp;(i) for purposes of this section, a definition of electronic and information technology that is consistent with the definition of information technology specified in section 11101(6) of title 40; and
 
 &emsp;&emsp;&emsp;(ii) the technical and functional performance criteria necessary to implement the requirements set forth in paragraph (1).
 
@@ -40,7 +40,7 @@
 
 #### (5) Exemption for national security systems
 
-&emsp;This section shall not apply to national security systems, as that term is defined in section 1452 of title 40.
+&emsp;This section shall not apply to national security systems, as that term is defined in section 11103(a) of title 40.
 
 #### (6) Construction
 
@@ -62,13 +62,13 @@ The Administrator of General Services and the Access Board shall provide technic
 
 #### (c) Agency evaluations
 
-Not later than 6 months after August 7, 1998, the head of each Federal department or agency shall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section, compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
+Not later than 6 months after August 7, 1998, the head of each Federal department or agencyshall evaluate the extent to which the electronic and information technology of the department or agency is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section, compared to the access to and use of the technology by individuals described in such subsection who are not individuals with disabilities, and submit a report containing the evaluation to the Attorney General.
 
 #### (d) Reports
 
 #### (1) Interim report
 
-&emsp;Not later than 18 months after August 7, 1998, the Attorney General shall prepare and submit to the President a report containinginformation on and recommendations regarding the extent to which the electronic and information technology of the Federal Government is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section.
+&emsp;Not later than 18 months after August 7, 1998, the Attorney General shall prepare and submit to the President a report containing information on and recommendations regarding the extent to which the electronic and information technology of the Federal Government is accessible to and usable by individuals with disabilities described in subsection (a)(1) of this section.
 
 #### (2) Biennial reports
 
@@ -104,6 +104,10 @@ This section shall not be construed to limit any right, remedy, or procedure oth
 
 (Pub. L. 93–112, title V, §508, as added Pub. L. 99–506, title VI, §603(a), Oct. 21, 1986, 100 Stat. 1830; amended Pub. L. 100–630, title II, §206(f), Nov. 7, 1988, 102 Stat. 3312; Pub. L. 102–569, title V, §509(a), Oct. 29, 1992, 106 Stat. 4430; Pub. L. 105–220, title IV, §408(b), Aug. 7, 1998, 112 Stat. 1203; Pub. L. 106–246, div. B, title II, §2405, July 13, 2000, 114 Stat. 555.)
 
+#### Codification
+
+“Section 11101(6) of title 40” substituted in subsec. (a)(2)(A)(i) for “section 5002(3) of the Clinger-Cohen Act of 1996 (40 U.S.C. 1401(3))” and “section 11103(a) of title 40” substituted in subsec. (a)(5) for “section 5142 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1452)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
 #### Amendments
 
 2000—Subsec. (f)(1)(A). Pub. L. 106–246, §2405(1), substituted “Effective 6 months after the date of publication by the Access Board of final standards described in subsection (a)(2) of this section,” for “Effective 2 years after August 7, 1998,”.
@@ -122,5 +126,5 @@ Subsec. (c). Pub. L. 100–630, §206(f)(3), substituted “an individual with h
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 792 of this title; title 42 section 15024.
+This section is referred to in section 792 of this title; title 42 section 15024; title 44 section 3602.
 

@@ -10,7 +10,7 @@ The Chief Justice shall publicly designate three judges, one of whom shall be pu
 
 #### (c) Expeditious conduct of proceedings; security measures for maintenance of records
 
-Proceedings under this chapter shall be conducted as expeditiously as possible. The recordof proceedings under this chapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice in consultation with the Attorney General and the Director of Central Intelligence.
+Proceedings under this chapter shall be conducted as expeditiously as possible. The record of proceedings under this chapter, including applications made and orders granted, shall be maintained under security measures established by the Chief Justice in consultation with the Attorney General and the Director of Central Intelligence.
 
 #### (d) Tenure
 

@@ -46,7 +46,7 @@
 
 #### (c) Violation of Convention
 
-(1) It is unlawful for any person subject to the jurisdiction of the United States to engage in any trade in any specimens contrary to the provisions of the Convention, or to possess any specimens traded contrary to the provisions of the Convention, including the definitions of terms in article I thereof.
+(1) It is unlawful for any person subject to the jurisdiction of the United States to engage inany trade in any specimens contrary to the provisions of the Convention, or to possess any specimens traded contrary to the provisions of the Convention, including the definitions of terms in article I thereof.
 
 (2) Any importation into the United States of fish or wildlife shall, if—
 

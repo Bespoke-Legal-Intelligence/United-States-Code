@@ -18,7 +18,7 @@ When the head of a Federal agency or other public official has determined that i
 
 When the information in question has been developed in the course of an agency's compliance with section 470f or 470h–2(f) of this title, the Secretary shall consult with the Council in reaching determinations under subsections (a) and (b) of this section.
 
-(Pub. L. 89–665, title III, §304, as added Pub. L. 96–515, title V, §501, Dec. 12, 1980, 94 Stat. 3002; amended Pub. L. 102–575, title XL, §4020, Oct. 30, 1992, 106 Stat. 4765.)
+(Pub. L. 89–665, title III, §304, as added Pub. L. 96–515, title V, §501, Dec. 12, 1980, 94 Stat. 3002;amended Pub. L. 102–575, title XL, §4020, Oct. 30, 1992, 106 Stat. 4765.)
 
 #### Amendments
 

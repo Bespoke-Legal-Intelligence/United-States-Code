@@ -56,7 +56,7 @@ The Fund shall maintain its accounts at a financial institution designated for p
 
 All moneys deposited into the accounts of the Fund shall be used solely for—
 
-&emsp;(1) the making of loans, investments, or other extensions of credits to eligible small businesses in accordance with subsection (f) of this section;
+&emsp;(1) the making of loans, investments, or other extensions of credits to eligible smallbusinesses in accordance with subsection (f) of this section;
 
 &emsp;(2) the provision of financial advice to eligible small businesses;
 
@@ -132,7 +132,7 @@ As used in this section:
 
 #### References in Text
 
-The Federal Credit Reform Act of 1990, referred to in subsec. (f), is title V of Pub. L. 93–344 as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress. For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
+The Federal Credit Reform Act of 1990, referred to in subsec. (f), is title V of Pub. L. 93–344 as added by Pub. L. 101–508, title XIII, §13201(a), Nov. 5, 1990, 104 Stat. 1388–609, which is classified generally to subchapter III (§661 et seq.) of chapter 17A of Title 2, The Congress.For complete classification of this Act to the Code, see Short Title note set out under section 621 of Title 2 and Tables.
 
 #### Section Referred to in Other Sections
 

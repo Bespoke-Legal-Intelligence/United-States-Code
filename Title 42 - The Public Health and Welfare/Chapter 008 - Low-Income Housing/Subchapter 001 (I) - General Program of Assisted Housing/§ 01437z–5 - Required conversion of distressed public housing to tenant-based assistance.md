@@ -2,7 +2,7 @@
 
 #### (a) Identification of units
 
-Each public housing agency shall identify all public housing projects of the public housing agency that meet all of the following requirements:
+Each public housing agency shall identify all public housing projects of the public housingagency that meet all of the following requirements:
 
 &emsp;(1) The project is on the same or contiguous sites.
 

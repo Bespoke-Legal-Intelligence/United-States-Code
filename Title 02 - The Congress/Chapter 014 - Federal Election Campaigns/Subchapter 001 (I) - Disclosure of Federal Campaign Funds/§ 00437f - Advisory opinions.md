@@ -30,6 +30,14 @@ The Commission shall make public any request made under subsection (a) of this s
 
 This Act, referred to in subsecs. (a)(1), (b), and (c)(2), means the Federal Election Campaign Act of 1971, as amended, as defined by section 431 of this title.
 
+#### Prior Provisions
+
+A prior section 308 of Pub. L. 92–225 was classified to section 437b of this title, prior to repeal by Pub. L. 96–187.
+
+Another prior section 308 of Pub. L. 92–225 was classified to section 437a of this title, prior to repeal by Pub. L. 94–283.
+
+Another prior section 308 of Pub. L. 92–225 was renumbered section 311, and is classified to section 438 of this title.
+
 #### Amendments
 
 1986—Subsecs. (a)(1), (b), (c)(2). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
@@ -38,7 +46,7 @@ This Act, referred to in subsecs. (a)(1), (b), and (c)(2), means the Federal Ele
 
 Subsec. (b). Pub. L. 96–187, §107, struck out the par. (1) and (2) designations and substituted provisions requiring any rule of law not stated in this Act or chapter 95 or 96 of title 26 be initially proposed as a rule or regulation pursuant to the procedures of section 438(d) of this title, and provisions prohibiting issuance of an advisory opinion except in accordance with the provisions of this section for provisions holding any person relying upon an advisory opinion free from any sanction provided by this Act or chapter 95 or 96 of title 26, and provisions allowing reliance on an advisory opinion by any person involved in the specific transaction and any person involved in a transaction indistinguishable from the transaction with respect to which such opinion was rendered.
 
-Subsec. (c). Pub. L. 96–187, §107, redesignated existing provisions as par. (1), substituted provisions allowingreliance on any advisory opinion by any person involved in the specific transaction or activity to which such opinion was rendered and any person involved in a transaction or activity indistinguishable from the transaction with respect to which such opinion was rendered for provisions mandating that any request for an advisory opinion be made public and allowing any interested party to transmit written comments to the Commission prior to the rendering of its opinion, and added par. (2).
+Subsec. (c). Pub. L. 96–187, §107, redesignated existing provisions as par. (1), substituted provisions allowing reliance on any advisory opinion by any person involved in the specific transaction or activity to which such opinion was rendered and any person involved in a transaction or activity indistinguishable from the transaction with respect to which such opinion was rendered for provisions mandating that any request for an advisory opinion be made public and allowing any interested party to transmit written comments to the Commission prior to the rendering of its opinion, and added par. (2).
 
 Subsec. (d). Pub. L. 96–187, §107, added subsec. (d).
 

@@ -18,7 +18,7 @@
 
 #### (1) Collection of information at reasonable cost
 
-&emsp;The Secretary shall take such action as may be necessary to secure at reasonable cost the information required by this subchapter. To ensure reasonable cost, the Secretary, in consultation with the National Center for Education Statistics, the Office of Vocational and Adult Education, and an entity assisted undersection 2328 of this title shall determine the methodology to be used and the frequency with which information is to be collected.
+&emsp;The Secretary shall take such action as may be necessary to secure at reasonable cost the information required by this subchapter. To ensure reasonable cost, the Secretary, in consultation with the National Center for Education Statistics, the Office of Vocational and Adult Education, and an entity assisted under section 2328 of this title shall determine the methodology to be used and the frequency with which information is to be collected.
 
 #### (2) Cooperation of States
 
@@ -30,7 +30,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;The Secretary may, directly or through grants, contracts, or cooperative agreements, carry out research, development, dissemination, evaluation and assessment, capacity building, and technical assistance with regard to the vocational and technical education programs under this chapter. The Secretary shall develop a single plan for such activities.
+&emsp;&emsp;The Secretary may, directly or through grants, contracts, or cooperative agreements, carry out research, development, dissemination, evaluation and assessment, capacity building, and technical assistance with regard to the vocational and technical education programs under this chapter. TheSecretary shall develop a single plan for such activities.
 
 #### (B) Plan
 
@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;&emsp;(I) an interim report regarding the assessment on or before January 1, 2002; and
 
-&emsp;&emsp;&emsp;&emsp;(II) a final report, summarizing all studies and analyses that relate to theassessment and that are completed after the assessment, on or before July 1, 2002.
+&emsp;&emsp;&emsp;&emsp;(II) a final report, summarizing all studies and analyses that relate to the assessment and that are completed after the assessment, on or before July 1, 2002.
 
 #### (ii) Prohibition
 

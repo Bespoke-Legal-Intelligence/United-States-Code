@@ -28,7 +28,7 @@ Use of Personnel Performing Full-Time National Guard Duty.—(1) Under regulatio
 
 &emsp;(iv) In the case of drug interdiction and counter-drug activities performed by a unit organized to serve as a unit, the activities will support valid unit training requirements.
 
-(3) A unit or member of the National Guard of a State may be used, pursuant to a State drug interdiction and counter-drug activities plan approved by the Secretary of Defense under this section, to provide services or other assistance (other than air transportation) to an organization eligible to receive services under section 508 of this title if—
+(3) A unit or member of the National Guard of a State may be used, pursuant to a State drug interdiction and counter-drug activities plan approved by the Secretary of Defense under this section, to provide services or other assistance\(other than air transportation) to an organization eligible to receive services under section 508 of this title if—
 
 &emsp;(A) the State drug interdiction and counter-drug activities plan specifically recognizes the organization as being eligible to receive the services or assistance;
 
@@ -54,7 +54,7 @@ Plan Requirements.—A State drug interdiction and counter-drug activities plan 
 
 (d)
 
-Examination of Plan.—(1) Before funds are provided to the Governor of a State under thissection and before members of the National Guard of that State are ordered to full-time National Guard duty as authorized in subsection (b), the Secretary of Defense shall examine the adequacy of the plan submitted by the Governor under subsection (c). The plan as approved by the Secretary may provide for the use of personnel and equipment of the National Guard of that State to assist the Immigration and Naturalization Service in the transportation of aliens who have violated a Federal or State law prohibiting or regulating the possession, use, or distribution of a controlled substance.
+Examination of Plan.—(1) Before funds are provided to the Governor of a State under this section and before members of the National Guard of that State are ordered to full-time National Guard duty as authorized in subsection (b), the Secretary of Defense shall examine the adequacy of the plan submitted by the Governor under subsection (c). The plan as approved by the Secretary may provide for the use of personnel and equipment of the National Guard of that State to assist the Immigration and Naturalization Service in the transportation of aliens who have violated a Federal or State law prohibiting or regulating the possession, use, or distribution of a controlled substance.
 
 (2) Except as provided in paragraph (3), the Secretary shall carry out paragraph (1) in consultation with the Director of National Drug Control Policy.
 
@@ -98,7 +98,7 @@ Statutory Construction.—Nothing in this section shall be construed as a limita
 
 Definitions.—For purposes of this section:
 
-&emsp;(1) The term “drug interdiction and counter-drug activities”, with respect to the National Guard of a State, means the use of National Guard personnel in drug interdiction and counter-drug law enforcement activities, including drug demand reduction activities, authorized by the law of the State and requested by the Governor of the State.
+&emsp;(1) The term “drug interdiction and counter-drug activities”, with respect to the National Guard of a State, means the use of National Guard personnel in drug interdiction andcounter-drug law enforcement activities, including drug demand reduction activities, authorized by the law of the State and requested by the Governor of the State.
 
 &emsp;(2) The term “Governor of a State” means, in the case of the District of Columbia, the Commanding General of the National Guard of the District of Columbia.
 
@@ -120,7 +120,7 @@ Subsec. (a)(1). Pub. L. 105–261, §1022(e)(2), (3), substituted “The pay” 
 
 Subsec. (a)(2). Pub. L. 105–261, §1022(e)(2), (4), substituted “The operation” for “the operation” and “activities.” for “activities; and”.
 
-Subsec. (a)(3). Pub. L. 105–261, §1022(a), (e)(2), substituted “The procurement” for “the procurement” and “and equipment, and the leasing of equipment,” for “and leasing of equipment” and inserted at end “However, the use of such funds for the procurement of equipment may not exceed $5,000 per purchase order, unless approval for procurement of equipment in excessof that amount is granted in advance by the Secretary of Defense.”
+Subsec. (a)(3). Pub. L. 105–261, §1022(a), (e)(2), substituted “The procurement” for “the procurement” and “and equipment, and the leasing of equipment,” for “and leasing of equipment” and inserted at end “However, the use of such funds for the procurement of equipment may not exceed $5,000 per purchase order, unless approval for procurement of equipment in excess of that amount is granted in advance by the Secretary of Defense.”
 
 Subsec. (b)(2). Pub. L. 105–261, §1022(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “To ensure that the use of units and personnel of the National Guard of a State pursuant to a State drug interdiction and counter-drug activities plan is not detrimental to the training and readiness of such units and personnel, the requirements of section 2012(d) of title 10 shall apply in determining the drug interdiction and counter-drug activities that units and personnel of the National Guard of a State may perform.”
 
@@ -181,6 +181,10 @@ Subsec. (h)(1). Pub. L. 104–106, §1021(g), amended par. (1) generally. Prior 
 &emsp;“(A) the Attorney General of the United States in the case of a plan submitted for fiscal year 1990; and
 
 &emsp;“(B) the Director of National Drug Control Policy in the case of a plan submitted for subsequent fiscal years.”
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Section Referred to in Other Sections
 

@@ -6,3 +6,4 @@
 **In this folder** (links to each part and section; generated, not part of GPO's text)
 
 - [Chapter 095 - Personnel Flexibilities Relating to the Internal Revenue Service](Chapter%20095%20-%20Personnel%20Flexibilities%20Relating%20to%20the%20Internal%20Revenue%20Service/README.md)
+- [Chapter 097 - Department of Homeland Security](Chapter%20097%20-%20Department%20of%20Homeland%20Security/README.md)

@@ -32,7 +32,7 @@ As used in this chapter, the term—
 
 &emsp;(7) “response costs” means the costs of actions taken or authorized by the Secretary to minimize destruction or loss of, or injury to, sanctuary resources, or to minimize the imminent risks of such destruction, loss, or injury, including costs related to seizure, forfeiture, storage, or disposal arising from liability under section 1443 of this title;
 
-&emsp;(8) “sanctuary resource” means any living or nonliving resource of a national marine sanctuary that contributes to the conservation, recreational, ecological, historical, educational, cultural, archeological, scientific, or aesthetic value of the sanctuary; and
+&emsp;(8) “sanctuary resource” means any living or nonliving resource of a national marine sanctuary that contributes to the conservation,recreational, ecological, historical, educational, cultural, archeological, scientific, or aesthetic value of the sanctuary; and
 
 &emsp;(9) “exclusive economic zone” means the exclusive economic zone as defined in the Magnuson-Stevens Act; and
 

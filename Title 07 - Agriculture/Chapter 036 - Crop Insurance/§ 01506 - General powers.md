@@ -26,7 +26,7 @@ The Corporation shall be entitled to the use of the United States mails in the s
 
 #### (g) Assistance
 
-The Corporation, with the consent of any board, commission, independent establishment,or executive department of the Government, including any field service thereof, may avail itself of the use of information, services, facilities, officials, and employees thereof in carrying out the provisions of this chapter.
+The Corporation, with the consent of any board, commission, independent establishment, or executive department of the Government, including any field service thereof, may avail itself of the use of information, services, facilities, officials, and employees thereof in carrying out the provisions of this chapter.
 
 #### (h) Collection and sharing of information
 
@@ -62,7 +62,7 @@ The Corporation may enter into and carry out contracts or agreements, and issue 
 
 #### (1) Social security account and employer identification numbers
 
-&emsp;The Corporation shall require, as a condition of eligibility for participation in the multiple peril crop insurance program, submission of social security account numbers, subject to the requirements of section 405(c)(2)(C)(iii) <sup>1</sup> of title 42, and employer identification numbers, subject to the requirements of section 6109(f) of title 26.
+&emsp;The Corporation shall require, as a condition of eligibility for participation in the multiple peril crop insurance program, submission of social security account numbers, subject to the requirements of section 405(c)(2)(C)(iii) <sup>1</sup> of title 42, and employer identification numbers,subject to the requirements of section 6109(f) of title 26.
 
 #### (2) Notification by policyholders
 
@@ -98,7 +98,7 @@ The Corporation may enter into and carry out contracts or agreements, and issue 
 
 &emsp;&emsp;(A) instituting appropriate requirements for documentation of the actual production history of insured producers to establish recorded or appraised yields for Federal crop insurance coverage that more accurately reflect the associated actuarial risk, except that the Corporation may not carry out this paragraph in a manner that would prevent beginning farmers (as defined by the Secretary) from obtaining Federal crop insurance;
 
-&emsp;&emsp;(B) establishing in counties, to the extent practicable, a crop insurance option based on area yields in a manner that allows an insured producer to qualify for an indemnity ifa loss has occurred in a specified area in which the farm of the insured producer is located;
+&emsp;&emsp;(B) establishing in counties, to the extent practicable, a crop insurance option based on area yields in a manner that allows an insured producer to qualify for an indemnity if a loss has occurred in a specified area in which the farm of the insured producer is located;
 
 &emsp;&emsp;(C) establishing a database that contains the social security account and employee identification numbers of participating producers, agents, and loss adjusters and using the numbers to identify insured producers, agents, and loss adjusters who are high risk for actuarial purposes and insured producers who have not documented at least 4 years of production history, to assess the performance of insurance providers, and for other purposes permitted by law; and
 
@@ -266,7 +266,7 @@ Wartime consolidation of Federal Crop Insurance Corporation into Agricultural Co
 
 #### Required Terms and Conditions of Standard Reinsurance Agreements
 
-Pub. L. 106–224, title I, §148, June 20, 2000, 114 Stat. 394, provided that: “Notwithstanding section 536 of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 1506 note; Public Law 105–185),the Federal Crop Insurance Corporation may renegotiate the Standard Reinsurance Agreement once during the 2001 through 2005 reinsurance years.”
+Pub. L. 106–224, title I, §148, June 20, 2000, 114 Stat. 394, provided that: “Notwithstanding section 536 of the Agricultural Research, Extension, and Education Reform Act of 1998 (7 U.S.C. 1506 note; Public Law 105–185), the Federal Crop Insurance Corporation may renegotiate the Standard Reinsurance Agreement once during the 2001 through 2005 reinsurance years.”
 
 Pub. L. 105–185, title V, §536, June 23, 1998, 112 Stat. 584, provided that:
 

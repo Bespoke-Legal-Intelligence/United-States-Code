@@ -36,9 +36,11 @@ Chapter 21 contains definitions that are general in nature and applicable to all
 
 This chapter is referred to in title 16 section 1862.
 
-<i><sup>1</sup></i><i> Chapter heading amended by Pub. L. 100–424 without corresponding amendment of subtitle analysis.</i>
+<i><sup>1</sup></i><i> Chapter repealed by Pub. L. 107–171 without corresponding amendment of subtitle analysis.</i>
 
-<i><sup>2</sup></i><i> So in original. Only first word should be capitalized.</i>
+<i><sup>2</sup></i><i> Chapter heading amended by Pub. L. 100–424 without corresponding amendment of subtitle analysis.</i>
+
+<i><sup>3</sup></i><i> So in original. Only first word should be capitalized.</i>
 
 
 ---

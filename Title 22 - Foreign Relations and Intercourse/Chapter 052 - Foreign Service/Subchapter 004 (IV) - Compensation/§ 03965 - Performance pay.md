@@ -18,7 +18,7 @@ Awards of performance pay shall take into account the criteria established by th
 
 &emsp;(2) Except as provided in paragraph (3), performance pay for a member of the Senior Foreign Service may not exceed 20 percent of the annual rate of basic salary for that member.
 
-&emsp;(3) Not more than 6 percent of the members of the Senior Foreign Service may receive performance pay in any fiscal year in an amountwhich exceeds the percentage limitation specified in paragraph (2). Payments under this paragraph to a member of the Senior Foreign Service may not exceed $10,000 in any fiscal year, except that payments of up to $20,000 in any fiscal year may be made under this paragraph to up to 1 percent of the members of the Senior Foreign Service.
+&emsp;(3) Not more than 6 percent of the members of the Senior Foreign Service may receive performance pay in any fiscal year in an amount which exceeds the percentage limitation specified in paragraph (2). Payments under this paragraph to a member of the Senior Foreign Service may not exceed, in any fiscal year, the percentage of basic pay established under section 4507(e)(1) of title 5 for a Meritorious Executive, except that payments of the percentage of the basic pay established under section 4507(e)(2) of such title for Distinguished Executives may be made in any fiscal year to up to 1 percent of the members of the Senior Foreign Service.
 
 &emsp;(4) Any award under this section shall be subject to the limitation on certain payments under section 5307 of title 5.
 
@@ -36,9 +36,11 @@ The President may grant awards of performance pay under subsection (b)(3) of thi
 
 Notwithstanding any other provision of law, the Secretary of State may provide for recognition of the meritorious or distinguished service of any member of the Foreign Service described in subsection (a) of this section (including any member of the Senior Foreign Service) by means other than an award of performance pay in lieu of making such an award under this section.
 
-(Pub. L. 96–465, title I, §405, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 100–204, title I, §175(b), Dec. 22, 1987, 101 Stat. 1361; Pub. L. 103–236, title I, §173(d), Apr. 30, 1994, 108 Stat. 412; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2311(a), Oct. 21, 1998, 112 Stat. 2681–826; Pub. L. 105–292, title V, §504(a), Oct. 27, 1998, 112 Stat. 2811; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §323\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437.)
+(Pub. L. 96–465, title I, §405, Oct. 17, 1980, 94 Stat. 2088; Pub. L. 100–204, title I, §175(b), Dec. 22, 1987,101 Stat. 1361; Pub. L. 103–236, title I, §173(d), Apr. 30, 1994, 108 Stat. 412; Pub. L. 105–277, div. G, subdiv. B, title XXIII, §2311(a), Oct. 21, 1998, 112 Stat. 2681–826; Pub. L. 105–292, title V, §504(a), Oct. 27, 1998, 112 Stat. 2811; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title III, §323\], Nov. 29, 1999, 113 Stat. 1536, 1501A–437; Pub. L. 107–228, div. A, title III, §312(a), Sept. 30, 2002, 116 Stat. 1378.)
 
 #### Amendments
+
+2002—Subsec. (b)(3). Pub. L. 107–228 inserted second sentence and struck out former second sentence which read as follows: “Payments under this paragraph to a member of the Senior Foreign Service may not exceed $10,000 in any fiscal year, except that payments of up to $20,000 in any fiscal year may be made under this paragraph to up to 1 percent of the members of the Senior Foreign Service.”
 
 1999—Subsec. (b)(1). Pub. L. 106–113 substituted “33” for “50”.
 
@@ -51,6 +53,10 @@ Subsec. (e). Pub. L. 105–277, §2311(a)(2), added subsec. (e).
 1994—Subsec. (b)(4). Pub. L. 103–236 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The total amount of basic salary plus performance pay received in any fiscal year by any member of the Senior Foreign Service may not exceed the salary payable for level I of the Executive Schedule under section 5312 of title 5 as in effect at the end of that fiscal year. Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year.”
 
 1987—Subsec. (b)(4), (5). Pub. L. 100–204 inserted at end of par. (4) “Any amount which is not paid to a member of the Senior Foreign Service during a fiscal year because of this limitation shall be paid to that individual in a lump sum at the beginning of the following fiscal year. Any amount paid under this authority during a fiscal year shall be taken into account for purposes of applying the limitation in the first sentence of this subparagraph with respect to such fiscal year.” and added par. (5).
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–228, div. A, title III, §312(b), Sept. 30, 2002, 116 Stat. 1378, provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect October 1, 2002.”
 
 #### Senior Foreign Service Performance Pay
 

@@ -34,7 +34,7 @@ Except as provided in this section, the PBO shall abide by all applicable Federa
 
 #### (A) Publication of notice
 
-&emsp;&emsp;The contracting officer for the procurement shall publish a notice of the procurement in accordance with section 416 of title41 and subsections (e), (f), and (g) of section 637 of title 15, except that the notice shall include only the following:
+&emsp;&emsp;The contracting officer for the procurement shall publish a notice of the procurement in accordance with section 416 of title 41 and subsections (e), (f), and (g) of section 637 of title 15, except that the notice shall include only the following:
 
 &emsp;&emsp;&emsp;(i) A general description of the scope or purpose of the procurement that provides sufficient information on the scope or purpose for sources to make informed business decisions regarding whether to participate in the procurement.
 
@@ -202,7 +202,7 @@ No department or agency of the Federal Government may purchase property or servi
 
 #### (k) Laws not affected
 
-Nothing in this section shall be construed to waive laws for the enforcement of civil rights orfor the establishment and enforcement of labor standards that are applicable to contracts of the Federal Government.
+Nothing in this section shall be construed to waive laws for the enforcement of civil rights or for the establishment and enforcement of labor standards that are applicable to contracts of the Federal Government.
 
 #### (<i>l</i>) Definitions
 

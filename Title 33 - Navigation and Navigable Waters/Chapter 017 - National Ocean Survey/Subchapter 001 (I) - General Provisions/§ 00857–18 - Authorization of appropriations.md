@@ -10,7 +10,7 @@ Provisions similar to those contained in this section, which authorized appropri
 
 #### Amendments
 
-1981—Pub. L. 97–87 inserted provisions authorizing appropriations of not to exceed $555,000 for fiscal yearending Sept. 30, 1982, and provided that such sums as might be appropriated under authority of this section remain available until expended.
+1981—Pub. L. 97–87 inserted provisions authorizing appropriations of not to exceed $555,000 for fiscal year ending Sept. 30, 1982, and provided that such sums as might be appropriated under authority of this section remain available until expended.
 
 1979—Pub. L. 96–26 substituted provisions authorizing appropriations of $565,000 for fiscal year ending Sept. 30, 1980, and $600,000 for fiscal year ending Sept. 30, 1981, for provisions directing that sums appropriated under this section remain available until expended.
 

@@ -24,7 +24,7 @@ Section 252(c)(13) of title 41, referred to in subd. (e), was renumbered section
 
 #### Nonapplicability of National Emergencies Act
 
-The provisions of the National Emergencies Act \[see Short Title note set out under section 1601 of this title\] shall not apply to the powers and authorities conferred by this section and actions taken hereunder, see section 1651(a)(6) of this title.
+The provisions of the National Emergencies Act \[see Short Title note set out under section 1601 of this title\] shall not apply to the powers and authorities conferred by this section and actions taken hereunder, see section 1651(a)(4) of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

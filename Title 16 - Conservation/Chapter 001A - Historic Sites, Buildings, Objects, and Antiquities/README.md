@@ -84,7 +84,7 @@
 | (a) | Short title. |
 | (b) | Purpose. |
 | (c) | Preservation assistance. |
-| (d) | Authorization of appropriations. |
+| (d) | Battlefield acquisition grant program. |
 | (e) | Repeal. |
 | 469<i>l.</i> | Findings and purposes. |
 | (a) | Findings. |

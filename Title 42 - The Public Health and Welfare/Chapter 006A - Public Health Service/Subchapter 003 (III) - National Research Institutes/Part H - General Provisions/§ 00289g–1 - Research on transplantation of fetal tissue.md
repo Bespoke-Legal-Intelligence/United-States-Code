@@ -74,7 +74,7 @@ In research carried out under subsection (a) of this section, human fetal tissue
 
 &emsp;&emsp;(B) not disclose or publish such material or information, except where required by Federal law, in which case such material or information shall be coded in a manner such that the identities of such individuals and entities are protected; and
 
-&emsp;&emsp;(C) not maintain such material or information after completion of such audit, except where necessary for the purposes of such audit.
+&emsp;&emsp;(C) not maintain such material or information after completion of such audit, exceptwhere necessary for the purposes of such audit.
 
 #### (e) Applicability of State and local law
 

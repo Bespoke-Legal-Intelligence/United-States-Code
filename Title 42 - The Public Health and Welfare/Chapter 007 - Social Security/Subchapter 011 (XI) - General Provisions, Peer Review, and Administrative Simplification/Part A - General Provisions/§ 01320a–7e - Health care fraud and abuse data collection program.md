@@ -132,7 +132,7 @@ For purposes of this section:
 
 #### (5) Determination of conviction
 
-&emsp;For purposes of paragraph (1), the existence of a conviction shall be determined underparagraphs (1) through (4) of section 1320a–7(i) of this title.
+&emsp;For purposes of paragraph (1), the existence of a conviction shall be determined under paragraphs (1) through (4) of section 1320a–7(i) of this title.
 
 (Aug. 14, 1935, ch. 531, title XI, §1128E, as added Pub. L. 104–191, title II, §221(a), Aug. 21, 1996, 110 Stat. 2009; amended Pub. L. 105–33, title IV, §4331(a)(2), (b), (d), Aug. 5, 1997, 111 Stat. 395, 396.)
 

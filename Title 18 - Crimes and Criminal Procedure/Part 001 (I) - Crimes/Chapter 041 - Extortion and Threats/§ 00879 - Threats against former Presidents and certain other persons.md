@@ -42,6 +42,10 @@ Subsec. (b)(1)(B). Pub. L. 106–544, §2(a)(5), in introductory provisions, ins
 
 1984—Subsec. (b)(2). Pub. L. 98–587 substituted “subsection (a)(7) of section 3056 of this title” for “the first section of the joint resolution entitled ‘Joint resolution to authorize the United States Secret Service to furnish protection to major Presidential or Vice Presidential candidates’, approved June 6, 1968 (18 U.S.C. 3056 note)”.
 
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 115, 3056, 3486, 4247 of this title.

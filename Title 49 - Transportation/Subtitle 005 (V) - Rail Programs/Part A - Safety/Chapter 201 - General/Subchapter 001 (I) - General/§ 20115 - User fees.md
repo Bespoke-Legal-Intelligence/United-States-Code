@@ -16,7 +16,7 @@ Collection Procedures.—The Secretary shall prescribe procedures to collect the
 
 (c)
 
-Collection, Deposit, and Use.—(1) The Secretary shall impose and collect fees underthis section for each fiscal year before the end of the fiscal year.
+Collection, Deposit, and Use.—(1) The Secretary shall impose and collect fees under this section for each fiscal year before the end of the fiscal year.
 
 (2) Fees collected under this section shall be deposited in the general fund of the Treasury as offsetting receipts. The fees may be used, to the extent provided in advance in an appropriation law, only to carry out this chapter.
 

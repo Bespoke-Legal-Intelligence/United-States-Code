@@ -2,7 +2,7 @@
 
 #### (a) Purchase of retirement equity; individuals entitled to participate
 
-(1) Subject to subsection (b) of this section, and under such regulations as the President mayprescribe, the Secretary of the Treasury shall pay to the Social Security System of the Republic of Panama, out of funds deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund under section 8334(a)(2) of title 5, such sums of money as may be necessary to aid in the purchase of a retirement equity in such System for each individual who—
+(1) Subject to subsection (b) of this section, and under such regulations as the President may prescribe, the Secretary of the Treasury shall pay to the Social Security System of the Republic of Panama, out of funds deposited in the Treasury of the United States to the credit of the Civil Service Retirement and Disability Fund under section 8334(a)(2) of title 5, such sums of money as may be necessary to aid in the purchase of a retirement equity in such System for each individual who—
 
 &emsp;(A) meets the requirements of paragraph (2) of this subsection;
 

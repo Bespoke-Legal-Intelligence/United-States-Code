@@ -30,11 +30,13 @@
 
 (3) This subsection does not apply to a member who is entitled to basic pay under section 204 of this title.
 
-(d) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdictionof the Secretary, by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration.
+(d) This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary, by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration.
 
-(Added Pub. L. 99–661, div. A, title VI, §634(a)(1), Nov. 14, 1986, 100 Stat. 3884; amended Pub. L. 104–201, div. A, title VI, §616(a), (b), Sept. 23, 1996, 110 Stat. 2547; Pub. L. 106–65, div. A, title VI, §625(a), Oct. 5, 1999, 113 Stat. 654.)
+(Added Pub. L. 99–661, div. A, title VI, §634(a)(1), Nov. 14, 1986, 100 Stat. 3884; amended Pub. L. 104–201, div. A, title VI, §616(a), (b), Sept. 23, 1996, 110 Stat. 2547; Pub. L. 106–65, div. A, title VI, §625(a), Oct. 5, 1999, 113 Stat. 654; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 1999—Subsec. (b). Pub. L. 106–65 substituted “$300” for “$100”.
 
@@ -49,6 +51,10 @@ Subsec. (a)(3)(C). Pub. L. 104–201, §616(a)(3)(B), struck out “military” 
 Subsec. (a)(3)(D). Pub. L. 104–201, §616(a)(3)(C), substituted “uniformed service” for “Department of Defense” and “Secretary concerned” for “Secretary of Defense”.
 
 Subsec. (d). Pub. L. 104–201, §616(b), substituted “the jurisdiction of the Secretary,” for “his jurisdiction and” and inserted before period at end “, by the Secretary of Health and Human Services for the Commissioned Corps of the Public Health Service, and by the Secretary of Commerce for the National Oceanic and Atmospheric Administration”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1999 Amendment
 

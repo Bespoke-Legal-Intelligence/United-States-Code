@@ -24,7 +24,7 @@ If any revenue or reconciliation bill or joint resolution is signed into law pur
 
 #### (d) Congressional identifications of limited tax benefits
 
-There shall be no judicial review of the congressional identification under subsections (a)and (b) of this section of a limited tax benefit in a conference report.
+There shall be no judicial review of the congressional identification under subsections (a) and (b) of this section of a limited tax benefit in a conference report.
 
 (Pub. L. 93–344, title X, §1027, as added Pub. L. 104–130, §2(a), Apr. 9, 1996, 110 Stat. 1210.)
 

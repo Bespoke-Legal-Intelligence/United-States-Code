@@ -2,19 +2,23 @@
 
 #### (a) Investigation and adjustment to maintain normal supply
 
-If at any time the Secretary has reason to believe that in the case of cotton, rice, peanuts, or tobacco the operation of farm marketing quotas in effect will cause the amount of such commodity which is free of marketing restrictions to be less than the normal supply for the marketing year for the commodity then current, he shall cause an immediate investigation to be made with respect thereto. In the course of such investigation due notice and opportunity for hearing shall be given to interested persons. If upon the basis of such investigation the Secretary finds the existence of such fact, he shall proclaim the same forthwith. He shall also in such proclamation specify such increase in, or termination of, existing quotas as he finds, on the basis of such investigation, is necessary to make the amount of such commodity which is free of marketing restrictions equal the normal supply.
+If at any time the Secretary has reason to believe that in the case of cotton, rice, or tobacco the operation of farm marketing quotas in effectwill cause the amount of such commodity which is free of marketing restrictions to be less than the normal supply for the marketing year for the commodity then current, he shall cause an immediate investigation to be made with respect thereto. In the course of such investigation due notice and opportunity for hearing shall be given to interested persons. If upon the basis of such investigation the Secretary finds the existence of such fact, he shall proclaim the same forthwith. He shall also in such proclamation specify such increase in, or termination of, existing quotas as he finds, on the basis of such investigation, is necessary to make the amount of such commodity which is free of marketing restrictions equal the normal supply.
 
 #### (b) Adjustment because of emergency or export demand
 
-If the Secretary has reason to believe that, because of a national emergency or because of a material increase in export demand, any national marketing quota or acreage allotment for cotton, rice, peanuts, or tobacco should be increased or terminated, he shall cause an immediate investigation to be made to determine whether the increase or termination is necessary to meet such emergency or increase in export demand. If, on the basis of such investigation, the Secretary finds that such increase or termination is necessary, he shall immediately proclaim such finding (and if he finds an increase is necessary, the amount of the increase found by him to be necessary) and thereupon such quota or allotment shall be increased, or shall terminate, as the case may be.
+If the Secretary has reason to believe that, because of a national emergency or because of a material increase in export demand, any national marketing quota or acreage allotment for cotton, rice,, <sup>1</sup> or tobacco should be increased or terminated, he shall cause an immediate investigation to be made to determine whether the increase or termination is necessary to meet such emergency or increase in export demand. If, on the basis of such investigation, the Secretary finds that such increase or termination is necessary, he shall immediately proclaim such finding (and if he finds an increase is necessary, the amount of the increase found by him to be necessary) and thereupon such quota or allotment shall be increased, or shall terminate, as the case may be.
 
 #### (c) Increase of farm quota on increase of national quota
 
 In case any national marketing quota or acreage allotment for any commodity is increased under this section, each farm marketing quota for the commodity shall be increased in the same ratio.
 
-(Feb. 16, 1938, ch. 30, title III, §371, 52 Stat. 64; Apr. 3, 1941, ch. 39, §5, 55 Stat. 92; Aug. 28, 1954, ch. 1041, title III, §312, 68 Stat. 904; Pub. L. 87–703, title III, §321, Sept. 27, 1962, 76 Stat. 626.)
+(Feb. 16, 1938, ch. 30, title III, §371, 52 Stat. 64; Apr. 3, 1941, ch. 39, §5, 55 Stat. 92; Aug. 28, 1954, ch. 1041, title III, §312, 68 Stat. 904; Pub. L. 87–703, title III, §321, Sept. 27, 1962, 76 Stat. 626; Pub. L. 107–171, title I, §1309(h)(2), May 13, 2002, 116 Stat. 182.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171, §1309(h)(2)(A), struck out “peanuts,” before “or tobacco” in first sentence.
+
+Subsec. (b). Pub. L. 107–171, §1309(h)(2)(B), struck out “peanuts” before “or tobacco” in first sentence.
 
 1962—Subsec. (a). Pub. L. 87–703, §321(1), struck out “corn, wheat,” before “cotton”.
 
@@ -43,4 +47,6 @@ Pub. L. 99–198, title VII, §701(5), Dec. 23, 1985, 99 Stat. 1430, provided th
 #### Inapplicability to 1982 Through 1985 Crops of Peanuts
 
 Pub. L. 97–98, title VII, §701(5), Dec. 22, 1981, 95 Stat. 1248, provided that this section is inapplicable to 1982 through 1985 crops of peanuts.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

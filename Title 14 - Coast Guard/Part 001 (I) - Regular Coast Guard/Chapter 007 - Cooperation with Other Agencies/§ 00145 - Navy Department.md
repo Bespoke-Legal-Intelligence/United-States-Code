@@ -10,9 +10,9 @@
 
 (b) Officers and enlisted men of the Coast Guard shall be permitted to purchase quartermaster supplies from the Navy and the Marine Corps at the same price as is charged the officers and enlisted men of the Navy and Marine Corps.
 
-(c) When the Coast Guard is operating in the Department of Transportation, the Secretary shall provide for such peacetime training and planning of reserve strength and facilities as is necessary to insure an organized, manned, and equipped Coast Guard when it is required for wartime operation in the Navy. To this end, the Secretary of the Navy for the Navy, and the Secretary of Transportation, for the Coast Guard, may from time to time exchange such information, make available to each other such personnel, vessels, facilities, and equipment, and agree to undertake such assignments and functions for each other as they may agree are necessary and advisable.
+(c) When the Coast Guard is operating in the Department of Homeland Security, the Secretary shall provide for such peacetime training and planning of reserve strength and facilities as is necessary to insure an organized, manned, and equipped Coast Guard when it is required for wartime operation in the Navy. To this end, the Secretary of the Navy for the Navy, and the Secretary of Homeland Security, for the Coast Guard, may from time to time exchange such information, make available to each other such personnel, vessels, facilities, and equipment, and agree to undertake such assignments and functions for each other as they may agree are necessary and advisable.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 506; Aug. 3, 1950, ch. 536, §3, 64 Stat. 406; Pub. L. 94–546, §1(11), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 98–557, §15(a)(3)(D), Oct. 30, 1984, 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 506; Aug. 3, 1950, ch. 536, §3, 64 Stat. 406; Pub. L. 94–546, §1(11), Oct. 18, 1976, 90 Stat. 2519; Pub. L. 98–557, §15(a)(3)(D), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 107–296, title XVII, §1704(a), Nov. 25, 2002, 116 Stat. 2314.)
 
 #### Historical and Revision Notes
 
@@ -28,6 +28,8 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### Amendments
 
+2002—Subsec. (c). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation” in two places.
+
 1984—Subsec. (a)(2). Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men in two places.
 
 1976—Subsec. (a). Pub. L. 94–546, §1(11)(a), substituted “at the request of the Secretary” for “at the request of the Secretary of the Treasury”.
@@ -35,4 +37,8 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 Subsec. (c). Pub. L. 94–546, §1(11)(b), substituted in first sentence “Department of Transportation” for “Treasury Department” and in second sentence “Secretary of Transportation” for “Secretary of the Treasury”.
 
 1950—Subsec. (a)(3). Act Aug. 3, 1950, added par. (3).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 

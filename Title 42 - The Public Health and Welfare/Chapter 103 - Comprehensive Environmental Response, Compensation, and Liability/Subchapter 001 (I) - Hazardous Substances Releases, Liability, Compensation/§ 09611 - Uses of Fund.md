@@ -44,7 +44,7 @@ Uses of the Fund under subsection (a) of this section include—
 
 &emsp;(1) The costs of assessing both short-term and long-term injury to, destruction of, or loss of any natural resources resulting from a release of a hazardous substance.
 
-&emsp;(2) The costs of Federal or State or Indian tribe efforts in the restoration, rehabilitation, or replacement or acquiring the equivalent of any natural resources injured, destroyed, or lost as a result of a release of a hazardous substance.
+&emsp;(2) The costs of Federal or State or Indian tribe efforts in the restoration, rehabilitation, or replacement or acquiring the equivalent ofany natural resources injured, destroyed, or lost as a result of a release of a hazardous substance.
 
 &emsp;(3) Subject to such amounts as are provided in appropriation Acts, the costs of a program to identify, investigate, and take enforcement and abatement action against releases of hazardous substances.
 
@@ -96,9 +96,9 @@ Lead poisoning study.—The cost of carrying out the study under subsection (f) 
 
 (1) Claims against or presented to the Fund shall not be valid or paid in excess of the total money in the Fund at any one time. Such claims become valid only when additional money is collected, appropriated, or otherwise added to the Fund. Should the total claims outstanding at any time exceed the current balance of the Fund, the President shall pay such claims, to the extent authorized under this section, in full in the order in which they were finally determined.
 
-(2) In any fiscal year, 85 percent of the money credited to the Fund under subchapter II <sup>2</sup> of this chapter shall be available only for the purposes specified in paragraphs (1), (2), and (4) of subsection (a) of this section. No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for response to threats to public health from releases or threatened releases of hazardous substances.
+(2) In any fiscal year, 85 percent of the money credited to the Fund under subchapter II <sup>2</sup> of this chapter shall be available only for the purposes specified in paragraphs (1), (2), and (4) of subsection (a) of this section. No money in the Fund may be used for the payment of any claim under subsection (a)(3) or subsection (b) of this section in any fiscal year for which the President determines that all of the Fund is needed for responseto threats to public health from releases or threatened releases of hazardous substances.
 
-(3) No money in the Fund shall be available for remedial action, other than actions specified insubsection (c) of this section, with respect to federally owned facilities; except that money in the Fund shall be available for the provision of alternative water supplies (including the reimbursement of costs incurred by a municipality) in any case involving groundwater contamination outside the boundaries of a federally owned facility in which the federally owned facility is not the only potentially responsible party.
+(3) No money in the Fund shall be available for remedial action, other than actions specified in subsection (c) of this section, with respect to federally owned facilities; except that money in the Fund shall be available for the provision of alternative water supplies (including the reimbursement of costs incurred by a municipality) in any case involving groundwater contamination outside the boundaries of a federally owned facility in which the federally owned facility is not the only potentially responsible party.
 
 (4) Paragraphs (1) and (4) of subsection (a) of this section shall in the aggregate be subject to such amounts as are provided in appropriation Acts.
 
@@ -132,9 +132,9 @@ To the extent that the provisions of this chapter permit, a foreign claimant may
 
 &emsp;(2) the claimant is not otherwise compensated for his loss;
 
-&emsp;(3) the hazardous substance was released from a facility or from a vessel located adjacent to or within the navigable waters or was discharged in connection with activities conducted under the Outer Continental Shelf Lands Act, as amended (43 U.S.C. 1331 et seq.) or the Deepwater Port Act of 1974, as amended (33 U.S.C. 1501 et seq.); and
+&emsp;(3) the hazardous substance was released from a facility or from a vessel located adjacent to or within the navigable waters or was discharged in connection with activities conducted under the Outer Continental Shelf Lands Act, as amended (43 U.S.C. 1331 et seq.)or the Deepwater Port Act of 1974, as amended (33 U.S.C. 1501 et seq.); and
 
-&emsp;(4) recovery is authorized by a treaty or an executive agreement between the UnitedStates and foreign country involved, or if the Secretary of State, in consultation with the Attorney General and other appropriate officials, certifies that such country provides a comparable remedy for United States claimants.
+&emsp;(4) recovery is authorized by a treaty or an executive agreement between the United States and foreign country involved, or if the Secretary of State, in consultation with the Attorney General and other appropriate officials, certifies that such country provides a comparable remedy for United States claimants.
 
 #### (m) Agency for Toxic Substances and Disease Registry
 
@@ -210,7 +210,7 @@ Section 1321(c) of title 33, referred to in subsec. (a)(2), was amended generall
 
 Section 304 of this Act, referred to in subsec. (b), is section 304 of Pub. L. 96–510, title III, Dec. 11, 1980, 94 Stat. 2809, which enacted section 9654 of this title and amended section 1364 of Title 33.
 
-Fishery conservation zone, referred to in subsec. (b), probably means the fishery conservation zone established by section 1811 of Title 16, Conservation, which as amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authorityover fish within the exclusive economic zone as defined in section 1802 of Title 16.
+Fishery conservation zone, referred to in subsec. (b), probably means the fishery conservation zone established by section 1811 of Title 16, Conservation, which as amended generally by Pub. L. 99–659, title I, §101(b), Nov. 14, 1986, 100 Stat. 3706, relates to United States sovereign rights and fishery management authority over fish within the exclusive economic zone as defined in section 1802 of Title 16.
 
 Subsection (f) of section 118 of the Superfund Amendments and Reauthorization Act of 1986, referred to in subsec. (c)(14), is section 118(f) of Pub. L. 99–499, title I, Oct. 17, 1986, 100 Stat. 1657, which is not classified to the Code.
 

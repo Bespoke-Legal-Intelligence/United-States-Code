@@ -12,7 +12,7 @@ The Congress finds and declares that:
 
 &emsp;&emsp;(B) after construction of these railroads, Allegany Reservation lands were leased to railroad employees, persons associated with the railroads, residents of the city and farmers without Federal authorization or approval and on terms which did not adequately protect the interests of the Seneca Nation;
 
-&emsp;&emsp;(C) none of these leases had Federal authorization or approval and, after the courts ruled these leases invalid, Congress enacted the Act of February 19, 1875 (18 Stat. 330), confirming existing leases of Allegany Reservation lands, authorizing further leasingby the Seneca Nation, and making the confirmed leases renewable for a twelve year period;
+&emsp;&emsp;(C) none of these leases had Federal authorization or approval and, after the courts ruled these leases invalid, Congress enacted the Act of February 19, 1875 (18 Stat. 330), confirming existing leases of Allegany Reservation lands, authorizing further leasing by the Seneca Nation, and making the confirmed leases renewable for a twelve year period;
 
 &emsp;&emsp;(D) the Act of September 30, 1890 (26 Stat. 558), amended the 1875 Act by substituting a renewal term of “not exceeding ninety-nine years” for the original renewal term of twelve years; and
 

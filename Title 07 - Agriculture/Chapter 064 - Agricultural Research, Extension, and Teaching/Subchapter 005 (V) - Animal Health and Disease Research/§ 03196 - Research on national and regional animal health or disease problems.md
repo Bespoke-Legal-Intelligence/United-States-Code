@@ -2,7 +2,7 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated such funds as Congress may determine necessary to support research on specific national or regional animal health or disease problems, or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being, but not to exceed $35,000,000 for each of the fiscal years 1991 through 2002, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year.
+There are authorized to be appropriated such funds as Congress may determine necessary to support research on specific national or regional animal health or disease problems, or national or regional problems relating to pre-harvest, on-farm food safety, or animal well-being, but not to exceed $35,000,000 for each of the fiscal years 1991 through 2007, and not in excess of such sums as may after September 29, 1977, be authorized by law for any subsequent fiscal year.
 
 #### (b) Duration of grants
 
@@ -34,7 +34,7 @@ In the case of multiyear grants, the Secretary shall distribute funds to grant r
 
 The Federal Advisory Committee Act (5 U.S.C. App.) and title XVIII of this Act \[7 U.S.C. 2281 et seq.\] shall not apply to a panel or board created solely for the purpose of reviewing applications or proposals submitted under this subchapter.
 
-(Pub. L. 95–113, title XIV, §1434, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 97–98, title XIV, §1430, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(c), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(2), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §§812, 852(b)(5), Apr. 4, 1996, 110 Stat. 1165, 1171; Pub. L. 105–185, title III, §301(a)(8), title VI, §606(d)(3), June 23, 1998, 112 Stat. 562, 604.)
+(Pub. L. 95–113, title XIV, §1434, Sept. 29, 1977, 91 Stat. 1004; Pub. L. 97–98, title XIV, §1430, Dec. 22, 1981, 95 Stat. 1309; Pub. L. 99–198, title XIV, §1414(c), Dec. 23, 1985, 99 Stat. 1549; Pub. L. 101–624, title XVI, §1601(b)(2), Nov. 28, 1990, 104 Stat. 3703; Pub. L. 104–127, title VIII, §§812, 852(b)(5), Apr. 4, 1996, 110 Stat. 1165, 1171; Pub. L. 105–185, title III, §301(a)(8), title VI, §606(d)(3), June 23, 1998, 112 Stat. 562, 604; Pub. L. 107–171, title VII, §7108, May 13, 2002, 116 Stat. 432.)
 
 #### References in Text
 
@@ -43,6 +43,8 @@ The Federal Advisory Committee Act, referred to in subsec. (f), is Pub. L. 92–
 Title XVIII of this Act, referred to in subsec. (f), is title XVIII of the Food and Agriculture Act of 1977, Pub. L. 95–113, Sept. 29, 1977, 91 Stat. 1041, as amended, which is classified generally to chapter 55A (§2281 et seq.) of this title. For complete classification of this Act to the Code, see Short Title of 1977 Amendment note set out under section 1281 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1998—Subsec. (a). Pub. L. 105–185, §301(a)(8), substituted “2002” for “1997”.
 

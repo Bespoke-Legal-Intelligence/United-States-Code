@@ -34,9 +34,77 @@ Section 7 of act Mar. 3, 1927, provided that: “This Act shall take effect Apri
 
 #### Transfer of Functions
 
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency ofthat Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+
 Functions of all officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees.
 
-Functions vested by law in Attorney General, Department of Justice, or any other officer or any agency of that Department, with respect to the inspection at regular inspection locations at ports of entry of persons, and documents of persons, entering or leaving the United States, were to have been transferred to Secretary of the Treasury by 1973 Reorg. Plan No. 2, §2, eff. July 1, 1973, 38 F.R. 15932, 87 Stat. 1091, set out in the Appendix to Title 5. The transfer was negated by section 1(a)(1), (b) of Pub. L. 93–253, Mar. 16, 1974, 88 Stat. 50, which repealed section 2 of 1973 Reorg. Plan No. 2, eff. July 1, 1973.
+#### Mandatory Advanced Electronic Information for Cargo and Other Improved Customs Reporting Procedures
+
+Pub. L. 107–210, div. A, title III, §343(a), (c), Aug. 6, 2002, 116 Stat. 981, 985, as amended by Pub. L. 107–295, title I, §108(b), Nov. 25, 2002, 116 Stat. 2089, provided that:
+
+“(a)
+
+Cargo Information.—
+
+&emsp;“(1)
+
+In general.—(A) Subject to paragraphs (2) and (3), the Secretary is authorized to promulgate regulations providing for the transmission to the Customs Service, through an electronic data interchange system, of information pertaining to cargo to be brought into the United States or to be sent from the United States, prior to the arrival or departure of the cargo.
+
+&emsp;“(B) The Secretary shall endeavor to promulgate an initial set of regulations under subparagraph (A) not later than October 1, 2003.
+
+&emsp;“(2)
+
+Information required.—The cargo information required by the regulations promulgated pursuant to paragraph (1) under the parameters set forth in paragraph (3) shall be such information on cargo as the Secretary determines to be reasonably necessary to ensure cargo safety and security pursuant to those laws enforced and administered by the Customs Service. The Secretary shall provide to appropriate Federal departments and agencies cargo information obtained pursuant to paragraph (1).
+
+&emsp;“(3)
+
+Parameters.—In developing regulations pursuant to paragraph (1), the Secretary shall adhere to the following parameters:
+
+&emsp;&emsp;“(A) The Secretary shall solicit comments from and consult with a broad range of parties likely to be affected by the regulations, including importers, exporters, carriers, customs brokers, and freight forwarders, among other interested parties.
+
+&emsp;&emsp;“(B) In general, the requirement to provide particular information shall be imposed on the party most likely to have direct knowledge of that information. Where requiring information from the party with direct knowledge of that information is not practicable, the regulations shall take into account how, under ordinary commercial practices, information is acquired by the party on which the requirement is imposed, and whether and how such party is able to verify the information. Where information is not reasonably verifiable by the party on which a requirement is imposed, the regulations shall permit that party to transmit information on the basis of what it reasonably believes to be true.
+
+&emsp;&emsp;“(C) The Secretary shall take into account the existence of competitive relationships among the parties on which requirements to provide particular information are imposed.
+
+&emsp;&emsp;“(D) Where the regulations impose requirements on carriers of cargo, they shall take into account differences among different modes of transportation, including differences in commercial practices, operational characteristics, and technological capacity to collect and transmit information electronically.
+
+&emsp;&emsp;“(E) The regulations shall take into account the extent to which the technology necessary for parties to transmit and the Customs Service to receive and analyze data in a timely fashion is available. To the extent that the Secretary determines that the necessary technology will not be widely available to particular modes of transportation or other affected parties until after promulgation of the regulations, the regulations shall provide interim requirements appropriate for the technology that is available at the time of promulgation.
+
+&emsp;&emsp;“(F) The information collected pursuant to the regulations shall be used exclusively for ensuring cargo safety and security and preventing smuggling, and shall not be used for determining merchandise entry or for any other commercial enforcement purposes. Notwithstanding the preceding sentence, nothing in this section \[enacting section 1431a of this title and this note\] shall be treated as amending, repealing, or otherwise modifying title IV of the Tariff Act of 1930 \[19 U.S.C. 1401 et seq.\] or regulations promulgated thereunder.
+
+&emsp;&emsp;“(G) The regulations shall protect the privacy of business proprietary and any other confidential cargo information provided to the Customs Service pursuant to such regulations, except for the manifest information collected pursuant to section 431 of the Tariff Act of 1930 \[19 U.S.C. 1431\] and required to be available for public disclosure pursuant to section 431(c) of such Act.. \[sic\]
+
+&emsp;&emsp;“(H) In determining the timing for transmittal of any information, the Secretary shall balance likely impact on flow of commerce with impact on cargo safety and security. With respect to requirements that may be imposed on carriers of cargo, the timing for transmittal of information shall take into account differences among different modes of transportation, as described in subparagraph (D).
+
+&emsp;&emsp;“(I) Where practicable, the regulations shall avoid imposing requirements that are redundant with one another or that are redundant with requirements in other provisions of law.
+
+&emsp;&emsp;“(J) The Secretary shall determine whether it is appropriate to provide transition periods between promulgation of the regulations and the effective date of the regulations and shall prescribe such transition periods in the regulations, as appropriate. The Secretary may determine that different transition periods are appropriate for different classes of affected parties.
+
+&emsp;&emsp;“(K) With respect to requirements imposed on carriers, the Secretary, in consultation with the Postmaster General, shall determine whether it is appropriate to impose the same or similar requirements on shipments by the United States Postal Service. If the Secretary determines that such requirements are appropriate, then they shall be set forth in the regulations.
+
+&emsp;&emsp;“(L) Not later than 15 days prior to publication of a final rule pursuant to this section, the Secretary shall transmit to the Committees on Finance and Commerce, Science, and Transportation of the Senate and the Committees on Ways and Means and Transportation and Infrastructure of the House of Representatives a report setting forth—
+
+&emsp;&emsp;&emsp;“(i) the proposed regulations;
+
+&emsp;&emsp;&emsp;“(ii) an explanation of how particular requirements in the proposed regulations meet the needs of cargo safety and security;
+
+&emsp;&emsp;&emsp;“(iii) an explanation of how the Secretary expects the proposed regulations to affect the commercial practices of affected parties;
+
+&emsp;&emsp;&emsp;“(iv) an explanation of how the proposed regulations address particular comments received from interested parties; and
+
+&emsp;&emsp;&emsp;“(v) if the Secretary determines to amend the proposed regulations after they have been transmitted to the Committees pursuant to this subparagraph, the Secretary shall transmit the amended regulations to such Committees no later than 5 days prior to the publication of the final rule.
+
+“(c)
+
+Secretary.—For purposes of this section \[enacting section 1431a of this title and this note\], the term ‘Secretary’ means the Secretary of the Treasury. If, at the time the regulations required by subsection (a)(1) are promulgated, the Customs Service is no longer located in the Department of the Treasury, then the Secretary of the Treasury shall exercise the authority under subsection (a) jointly with the Secretary of the Department in which the Customs Service is located.”
+
+\[Pub. L. 107–295, title I, §108(b)(3)(D)(i)(II), Nov. 25, 2002, 116 Stat. 2090, which directed the amendment of section 343(a)(3)(L) of Pub. L 107–210, set out above, by substituting “publication of a final rule pursuant to this section” for “promulgation of regulations” in the matter preceding cl. (i), was executed by making the substitution for “promulgation of the regulations” to reflect the probable intent of Congress.\]
+
+#### Secure Systems of Transportation
+
+Pub. L. 107–210, div. A, title III, §343A, Aug. 6, 2002, 116 Stat. 985, required the Secretary of the Treasury to establish a joint task force to evaluate, prototype, and certify secure systems of transportation, required the joint task force to establish a program to evaluate and certify secure systems of international intermodal transport, provided minimum standards for the program, and mandated that the Secretary recognize certified systems of intermodal transport and report to Congress within one year of the program's implementation, prior to repeal by Pub. L. 107–295, title I, §108(c), Nov. 25, 2002, 116 Stat. 2090.
 
 #### Extension of Pre-Clearance Program in Aruba
 
@@ -64,47 +132,7 @@ Merchandise Damage Statistics.—The Commissioner of Customs shall keep accurate
 
 #### Pilot Preclearance Program
 
-Pub. L. 101–382, title II, §233, Aug. 20, 1990, 104 Stat. 663, provided that:
-
-“(a)
-
-Establishment of Program.—Subject to subsection (b), the Commissioner of Customs shall carry out, during fiscal years 1991 and 1992, preclearance operations at a facility of the United States Customs Service in a country within the Caribbean Basin which the Commissioner of Customs considers appropriate for testing the extent to which the availability of preclearance operations can assist in the development of tourism.
-
-“(b)
-
-Restrictions Regarding Program.—
-
-&emsp;“(1) The Commissioner of Customs may not consider a country within the Caribbean Basin to be appropriate for the testing referred to in subsection (a) if preclearance operations are currently carried out by the United States Customs Service in that country.
-
-&emsp;“(2) Preclearance operations may not be commenced in the country selected for testing under subsection (a) unless the Commissioner of Customs and the Commissioner of Immigration and Naturalization jointly certify that—
-
-&emsp;&emsp;“(A) there exists a bilateral agreement between the United States Government and the government of such country which protects the interests of the United States and affords diplomatic protection to United States employees working at the preclearance location;
-
-&emsp;&emsp;“(B) the facilities at the preclearance location conform to Federal Inspection Services standards and are suitable for the duties to be performed therein;
-
-&emsp;&emsp;“(C) there is adequate security around the structure used for the reception of international arrivals;
-
-&emsp;&emsp;“(D) the government of such country grants the United States Customs Service and the United States Immigration and Naturalization Service appropriate search, seizure, and arrest authority; and
-
-&emsp;&emsp;“(E) United States employees and their families will not be subject to fear of reprisal, acts of terrorism, and threats of intimidation.
-
-&emsp;“(3) In determining the country in which to establish the operation described in paragraph (1), the Commissioner of Customs and the Commissioner of Immigration and Naturalization shall first determine the viability of establishing such operations in either Aruba or Jamaica. If the Commissioners determine, after full consultation with the governments of such countries, that it is not viable to establish pre-clearance operations in either Aruba or Jamaica, they shall so report to the Committee on Finance of the Senate and the Committee on Ways and Means of the House of Representatives, including an explanation of how this determination was reached. Such report shall be submitted to those Committees within six months after the date of the enactment of this Act \[Aug. 20, 1990\]. Following the submission of such a report, the Commissioners shall take all necessary steps, consistent with the requirements of this section, to establish such operations in another country.
-
-“(c)
-
-Report.—As soon as practicable after September 30, 1992, the Commissioner of Customs shall submit to the Congress a report regarding the preclearance operations program carried out under subsection (a). The report shall include—
-
-&emsp;“(1) a summary of the preclearance operations, including the number of individuals processed, any administrative problems encountered, and cost of the operations;
-
-&emsp;“(2) an evaluation of the extent to which the preclearance operations contributed to—
-
-&emsp;&emsp;“(A) the stimulation of the tourism industry of the country concerned, and
-
-&emsp;&emsp;“(B) expedited customs processing at United States ports of entry;
-
-&emsp;“(3) the opinion of the Commissioner of Customs regarding the efficacy of extending preclearance operations to other countries within the Caribbean Basin that are developing tourism industries, and if the opinion is affirmative, the identity of those countriesto which such operations should be extended and the estimated costs and results of such extensions; and
-
-&emsp;“(4) such other matters that the Commissioner of Customs considers relevant.”
+Pub. L. 101–382, title II, §233, Aug. 20, 1990, 104 Stat. 663, required the Commissioner of Customs to carry out, during fiscal years 1991 and 1992, preclearance operations at a facility of the United States Customs Service in a country within the Caribbean Basin which the Commissioner considered appropriate for testing the extent to which the availability of preclearance operations could assist in the development of tourism and to submit to Congress, as soon as practicable after Sept. 30, 1992, a report regarding those preclearance operations.
 
 #### Incumbent Commissioner on December 6, 1989
 

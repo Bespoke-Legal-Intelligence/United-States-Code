@@ -24,7 +24,7 @@
 
 &emsp;(C) in the case of employees of the legislative branch paid by the Chief Administrative Officer of the House of Representatives, from the applicable accounts of the House of Representatives.
 
-(4) A contribution to the Fund under this subsection shall be deposited under such proceduresas the Comptroller General of the United States may prescribe.
+(4) A contribution to the Fund under this subsection shall be deposited under such procedures as the Comptroller General of the United States may prescribe.
 
 (b)(1) The Office shall compute—
 
@@ -86,5 +86,5 @@ Amendment by Pub. L. 102–496 effective first day of fourth month beginning aft
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 8401, 8411, 8468 of this title; title 2 section 162b; title 22 section 4071f; title 40 section 214d; title 42 section 2297h–8.
+This section is referred to in sections 8401, 8411, 8468 of this title; title 2 sections 162b, 2064; title 22 section 4071f; title 42 section 2297h–8.
 

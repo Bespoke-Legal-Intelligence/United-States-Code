@@ -10,7 +10,7 @@ The funds provided by appropriation or transfer from other accounts for any fisc
 
 &emsp;(3) not to exceed 1 per centum of the funds provided for carrying out the programs under this chapter and the programs under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\], other than section 3 \[42 U.S.C. 1772\], which per centum is hereby made available to the Secretary to supplement the nutritional benefits of these programs through grants to States and other means for nutritional training and education for workers, cooperators, and participants in these programs, for pilot projects and the cash-in-lieu of commodities study required to be carried out under section 1769 of this title, and for necessary surveys and studies of requirements for food service programs in furtherance of the purposes expressed in section 1751 of this title, and section 2 of the Child Nutrition Act of 1966 \[42 U.S.C. 1771\],
 
-> shall be available to the Secretary during such year for direct expenditure by the Secretary for agricultural commodities and other foods to be distributed among the States and schools and service institutions participating in the food service programs under this chapter and under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\] in accordance with the needs as determined by the local school and service institution authorities. Except as provided in the next 2 sentences, any school participating in food service programs under this chapter may refuse to accept delivery of not more than 20 percent of the total value of agricultural commodities and other foods tendered to it in any school year; and if a school so refuses, that school may receive, in lieu of the refused commodities, other commodities to the extent that other commodities are available to the State during that year. Any school food authority may refuse some or all of the fresh fruits and vegetables offered to the school food authority in any school year and shall receive, in lieu of the offered fruits and vegetables, other more desirable fresh fruits and vegetables that are at least equal in value to the fresh fruits and vegetables refused by the school food authority. The value of any fresh fruits and vegetables refused by a school under the preceding sentence for a school year shall not be used to determine the 20 percent of the total value of agricultural commodities and other foods tendered to the school food authority in the school year under the second sentence. The provisions of law contained in the proviso of section 713c of title 15, facilitating operations with respect to the purchase and disposition of surplus agricultural commodities under section 612c of title 7, shall, to the extent not inconsistent with the provision of this chapter, also be applicable to expenditures of funds by the Secretary under this chapter. In making purchases of such agricultural commodities and other foods, the Secretary shall not issue specifications which restrict participation of local producers unless such specifications will result in significant advantages to the food service programs authorized by this chapter and the Child Nutrition Act of 1966.
+> shall be available to the Secretary during such year for direct expenditure by the Secretary for agricultural commodities and other foods to be distributed among the States and schools and service institutions participating in the food service programs under this chapter and under the Child Nutrition Act of 1966 \[42 U.S.C. 1771 et seq.\] in accordance with the needs as determined by the local school and service institution authorities. Except as provided in the next 2 sentences, any school participating in food service programs under this chapter may refuse to accept delivery of not more than 20 percent of thetotal value of agricultural commodities and other foods tendered to it in any school year; and if a school so refuses, that school may receive, in lieu of the refused commodities, other commodities to the extent that other commodities are available to the State during that year. Any school food authority may refuse some or all of the fresh fruits and vegetables offered to the school food authority in any school year and shall receive, in lieu of the offered fruits and vegetables, other more desirable fresh fruits and vegetables that are at least equal in value to the fresh fruits and vegetables refused by the school food authority. The value of any fresh fruits and vegetables refused by a school under the preceding sentence for a school year shall not be used to determine the 20 percent of the total value of agricultural commodities and other foods tendered to the school food authority in the school year under the second sentence. The provisions of law contained in the proviso of section 713c of title 15, facilitating operations with respect to the purchase and disposition of surplus agricultural commodities under section 612c of title 7, shall, to the extent not inconsistent with the provision of this chapter, also be applicable to expenditures of funds by the Secretary under this chapter. In making purchases of such agricultural commodities and other foods, the Secretary shall not issue specifications which restrict participation of local producers unless such specifications will result in significant advantages to the food service programs authorized by this chapter and the Child Nutrition Act of 1966.
 
 #### (b) Delivery of commodities
 
@@ -28,7 +28,7 @@ The Secretary shall deliver, to each State participating in the school lunch pro
 
 (E) Notwithstanding any other provision of this section, not less than 75 percent of the assistance provided under this subsection shall be in the form of donated foods for the school lunch program.
 
-(2) To the maximum extent feasible, each State agency shall offer to each school food authority under its jurisdiction that participates in the school lunch program and receives commodities, agricultural commodities and theirproducts, the per meal value of which is not less than the national average value of donated foods established under paragraph (1). Each such offer shall include the full range of such commodities and products that are available from the Secretary to the extent that quantities requested are sufficient to allow efficient delivery to and within the State.
+(2) To the maximum extent feasible, each State agency shall offer to each school food authority under its jurisdiction that participates in the school lunch program and receives commodities, agricultural commodities and their products, the per meal value of which is not less than the national average value of donated foods established under paragraph (1). Each such offer shall include the full range of such commodities and products that are available from the Secretary to the extent that quantities requested are sufficient to allow efficient delivery to and within the State.
 
 #### (d) Termination of commodity assistance based upon school breakfast program
 
@@ -40,11 +40,11 @@ Beginning with the school year ending June 30, 1981, the Secretary shall not off
 
 &emsp;(A) commodity assistance provided under this section, including cash in lieu of commodities and administrative costs for procurement of commodities under this section; or
 
-&emsp;(B) during the period beginning October 1, 2001, and ending September 30, 2009, commodities provided by the Secretary under any provision of law.
+&emsp;(B) during the period beginning October 1, 2003, and ending September 30, 2009, commodities provided by the Secretary under any provision of law.
 
 (2) If amounts available to carry out the requirements of the sections described in paragraph (1) are insufficient to meet the requirement contained in paragraph (1) for a school year, the Secretary shall, to the extent necessary, use the authority provided under section 1762a(a) of this title to meet the requirement for the school year.
 
-(June 4, 1946, ch. 281, §6, 60 Stat. 231; Pub. L. 87–823, §3(b), Oct. 15, 1962, 76 Stat. 945; Pub. L. 90–302, §2(a), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §3, May 14, 1970, 84 Stat. 209; Pub. L. 93–13, §2, Mar. 30, 1973, 87 Stat. 10; Pub. L. 93–150, §5, Nov. 7, 1973, 87 Stat. 562; Pub. L. 93–326, §3, June 30, 1974, 88 Stat. 286; Pub. L. 94–105, §§4, 11, Oct. 7, 1975, 89 Stat. 511, 515; Pub. L. 95–166, §§5, 7, 10(1), 19(a), Nov. 10, 1977, 91 Stat. 1334–1336, 1345; Pub. L. 95–627, §§5(b), 12(a), Nov. 10, 1978, 92 Stat. 3619, 3625; Pub. L. 96–499, title II, §202(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§802, 819(h), Aug. 13, 1981, 95 Stat. 524, 533; Pub. L. 99–500, title III, §§321, 371(c)(2), Oct. 18, 1986, 100 Stat. 1783–360, 1783–369, and Pub. L. 99–591, title III, §§321, 371(c)(2), Oct. 30, 1986, 100 Stat. 3341–364, 3341–372; Pub. L. 99–661, div. D, title II, §4201, title V, §4501(c)(2), Nov. 14, 1986, 100 Stat. 4071, 4080; Pub. L. 100–237, §3(j), Jan. 8, 1988, 101 Stat. 1738; Pub. L. 101–147, title I, §131(a), title III, §302, Nov. 10, 1989, 103 Stat. 906, 913; Pub. L. 103–448, title I, §§101–103, Nov. 2, 1994, 108 Stat. 4700, 4701; Pub. L. 105–336, title I, §101(a), Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–170, title IV, §411, Dec. 17, 1999, 113 Stat. 1917; Pub. L. 106–224, title II, §241(b), June 20, 2000, 114 Stat. 410.)
+(June 4, 1946, ch. 281, §6, 60 Stat. 231; Pub. L. 87–823, §3(b), Oct. 15, 1962, 76 Stat. 945; Pub. L. 90–302, §2(a), May 8, 1968, 82 Stat. 117; Pub. L. 91–248, §3, May 14, 1970, 84 Stat. 209; Pub. L.93–13, §2, Mar. 30, 1973, 87 Stat. 10; Pub. L. 93–150, §5, Nov. 7, 1973, 87 Stat. 562; Pub. L. 93–326, §3, June 30, 1974, 88 Stat. 286; Pub. L. 94–105, §§4, 11, Oct. 7, 1975, 89 Stat. 511, 515; Pub. L. 95–166, §§5, 7, 10(1), 19(a), Nov. 10, 1977, 91 Stat. 1334–1336, 1345; Pub. L. 95–627, §§5(b), 12(a), Nov. 10, 1978, 92 Stat. 3619, 3625; Pub. L. 96–499, title II, §202(b), Dec. 5, 1980, 94 Stat. 2600; Pub. L. 97–35, title VIII, §§802, 819(h), Aug. 13, 1981, 95 Stat. 524, 533; Pub. L. 99–500, title III, §§321, 371(c)(2), Oct. 18, 1986, 100 Stat. 1783–360, 1783–369, and Pub. L. 99–591, title III, §§321, 371(c)(2), Oct. 30, 1986, 100 Stat. 3341–364, 3341–372; Pub. L. 99–661, div. D, title II, §4201, title V, §4501(c)(2), Nov. 14, 1986, 100 Stat. 4071, 4080; Pub. L. 100–237, §3(j), Jan. 8, 1988, 101 Stat. 1738; Pub. L. 101–147, title I, §131(a), title III, §302, Nov. 10, 1989, 103 Stat. 906, 913; Pub. L. 103–448, title I, §§101–103, Nov. 2, 1994, 108 Stat. 4700, 4701; Pub. L. 105–336, title I, §101(a), Oct. 31, 1998, 112 Stat. 3144; Pub. L. 106–170, title IV, §411, Dec. 17, 1999, 113 Stat. 1917; Pub. L. 106–224, title II, §241(b), June 20, 2000, 114 Stat. 410; Pub. L. 107–171, title IV, §4301(a), May 13, 2002, 116 Stat. 330.)
 
 #### References in Text
 
@@ -57,6 +57,8 @@ Subsection (c) of this section, referred to in subsec. (b), was repealed and sub
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2002—Subsec. (e)(1)(B). Pub. L. 107–171 substituted “2003” for “2001”.
 
 2000—Subsec. (e)(1)(B). Pub. L. 106–224 substituted “2001” for “2000”.
 
@@ -92,7 +94,7 @@ Subsec. (e). Pub. L. 97–35, §802, substituted provisions requiring value to b
 
 1978—Subsec. (e). Pub. L. 95–627, §5(b), substituted provision relating to Price Index for Food Used in Schools and Institutions for provision relating to Consumer Price Index.
 
-Pub. L. 95–627, §12(a), which provided for inserting “(which may include domestic seafood commodities and their products)” after “alternatives” was executed by inserting that parenthetical after “alternates” as the probable intent of Congress.
+Pub. L. 95–627, §12(a), which provided for inserting “(which may include domestic seafood commodities and their products)” after “alternatives” was executedby inserting that parenthetical after “alternates” as the probable intent of Congress.
 
 1977—Subsec. (a). Pub. L. 95–166, §§7, 10(1), inserted provision which authorized refusal of commodities and receipt of other commodities available to State, in lieu of refused commodities, and in cl. (3) authorized grants for pilot projects and cash-in-lieu of commodities study required to be carried out under section 1769 of this title.
 
@@ -128,6 +130,10 @@ Pub. L. 93–13 added subsec. (d).
 
 1962—Pub. L. 87–823 substituted “, less the amount apportioned by him pursuant to sections 1753, 1754, and 1759 of this title, and less the amount appropriated pursuant to section 1759a of this title” for “and less the amount apportioned to him pursuant to sections 1753, 1754, and 1759 of this title”.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–171, title IV, §4301(b), May 13, 2002, 116 Stat. 330, provided that: “The amendment made by this section \[amending this section\] takes effect on the date of enactment of this Act \[May 13, 2002\].”
+
 #### Effective Date of 1998 Amendment
 
 Pub. L. 105–336, title IV, §401, Oct. 31, 1998, 112 Stat. 3170, provided that: “Except as otherwise provided in this Act \[see Short Title of 1998 Amendment note set out under section 1751 of this title\], this Act and the amendments made by this Act shall take effect on October 1, 1998.”
@@ -142,7 +148,7 @@ Section 131(c) of Pub. L. 101–147 provided that: “The amendments made by thi
 
 #### Effective Date of 1981 Amendment
 
-Amendment by sections 802 and 819(h) of Pub. L. 97–35 effective July 1, 1981, and Oct. 1, 1981, respectively, seesection 820(a)(2), (4) of Pub. L. 97–35, set out as a note under section 1753 of this title.
+Amendment by sections 802 and 819(h) of Pub. L. 97–35 effective July 1, 1981, and Oct. 1, 1981, respectively, see section 820(a)(2), (4) of Pub. L. 97–35, set out as a note under section 1753 of this title.
 
 #### Effective Date of 1978 Amendment
 
@@ -158,11 +164,11 @@ Section 202(a) of Pub. L. 96–499 provided that for the fiscal year ending Sept
 
 #### Congressional Findings and Declaration of Purpose
 
-Section 1 of Pub. L. 93–13 provided that: “The Congress finds that the volume and variety of Federal food donations to the school lunch and child nutrition programs are significantly below the amounts programed and budgeted for the fiscal year ending June 30, 1973, and that schools participating in these programs are confronted with serious financial problems in obtaining sufficient supplies of the foods required to meet the nutritional standards established by law for these programs. It is, therefore, the purpose of this Act \[amending this section\] to provide an effective and immediate solution to this nutritional crisis.”
+Section 1 of Pub. L. 93–13 provided that: “The Congress finds that the volume and variety of Federal fooddonations to the school lunch and child nutrition programs are significantly below the amounts programed and budgeted for the fiscal year ending June 30, 1973, and that schools participating in these programs are confronted with serious financial problems in obtaining sufficient supplies of the foods required to meet the nutritional standards established by law for these programs. It is, therefore, the purpose of this Act \[amending this section\] to provide an effective and immediate solution to this nutritional crisis.”
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1762a, 1765, 1766 of this title; title 7 section 1424.
+This section is referred to in sections 1762a, 1765, 1766 of this title; title 7 sections 612c–4, 1424.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

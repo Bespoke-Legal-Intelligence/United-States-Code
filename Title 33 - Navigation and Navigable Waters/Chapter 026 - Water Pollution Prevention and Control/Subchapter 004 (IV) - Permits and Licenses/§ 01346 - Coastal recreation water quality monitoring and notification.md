@@ -38,7 +38,7 @@
 
 #### (B) Grants to local governments
 
-&emsp;&emsp;The Administrator may make a grant to a local government under this subsection forimplementation of a monitoring and notification program only if, after the 1-year period beginning on the date of publication of performance criteria under subsection (a)(1) of this section, the Administrator determines that the State is not implementing a program that meets the requirements of this subsection, regardless of whether the State has received a grant under this subsection.
+&emsp;&emsp;The Administrator may make a grant to a local government under this subsection for implementation of a monitoring and notification program only if, after the 1-year period beginning on the date of publication of performance criteria under subsection (a)(1) of this section, the Administrator determines that the State is not implementing a program that meets the requirements of this subsection, regardless of whether the State has received a grant under this subsection.
 
 #### (3) Other requirements
 

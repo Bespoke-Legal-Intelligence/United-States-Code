@@ -4,9 +4,13 @@ It is hereby declared to be the policy of Congress to provide capital on a reimb
 
 (Pub. L. 93–262, §2, Apr. 12, 1974, 88 Stat. 77.)
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–331, title I, §101, Dec. 13, 2002, 116 Stat. 2835, provided that: “This Act \[enacting subchapter XIII of chapter 19 of this title, amending sections 415, 1484, and 1485 of this title, and enacting provisions set out as notes under sections 415 and 1485 of this title\] may be cited as the ‘Indian Financing Amendments Act of 2002’.”
+
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–449, §1, Oct. 4, 1984, 98 Stat. 1725, provided: “That this Act \[enacting section 47a of this title and amending sections 1461, 1465, 1481, 1484, 1491, 1497, 1512,1522, 1523, 1541, and 1543 of this title\] may be cited as the ‘Indian Financing Act Amendments of 1984’.”
+Pub. L. 98–449, §1, Oct. 4, 1984, 98 Stat. 1725, provided: “That this Act \[enacting section 47a of this title and amending sections 1461, 1465, 1481, 1484, 1491, 1497, 1512, 1522, 1523, 1541, and 1543 of this title\] may be cited as the ‘Indian Financing Act Amendments of 1984’.”
 
 #### Short Title
 

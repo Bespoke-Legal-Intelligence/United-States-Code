@@ -54,7 +54,7 @@ As used in this section, the term “prisoner” means any person incarcerated o
 
 #### References in Text
 
-Section 1988 of this title, referred to in subsec. (d)(1), (4), was in the original a reference to section 2 of the Revised Statutes of the United States (42 U.S.C. 1988), and has been translated as reading section 722 of the Revised Statutes of the United States to reflect the probable intent of Congress. Section 2 of the Revised Statutes, which defined the term “county”, was repealed and reenacted as section 2 of Title 1, General Provisions, by act July 30, 1947, ch. 388, 61 Stat. 633, 640.
+Section 1988 of this title, referred to in subsec. (d)(1), (4), was in the original a reference to section 2 of the Revised Statutes of the United States (42 U.S.C. 1988), and has been translated as reading section 722 of theRevised Statutes of the United States to reflect the probable intent of Congress. Section 2 of the Revised Statutes, which defined the term “county”, was repealed and reenacted as section 2 of Title 1, General Provisions, by act July 30, 1947, ch. 388, 61 Stat. 633, 640.
 
 #### Amendments
 

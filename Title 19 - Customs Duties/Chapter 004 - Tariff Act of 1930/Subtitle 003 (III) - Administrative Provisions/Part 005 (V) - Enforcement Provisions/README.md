@@ -7,7 +7,7 @@ Part V—Enforcement Provisions
 
 - [&sect; 01581 - Boarding vessels](%C2%A7%2001581%20-%20Boarding%20vessels.md)
 - [&sect; 01582 - Search of persons and baggage; regulations](%C2%A7%2001582%20-%20Search%20of%20persons%20and%20baggage%3B%20regulations.md)
-- [&sect; 01583 - Repealed. Pub. L. 103&#8211;182, title VI, &sect;690(b)(9), Dec. 8, 1993, 107 Stat. 2223](%C2%A7%2001583%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93182%2C%20title%20VI%2C%20%C2%A7690%28b%29%289%29%2C%20Dec.%208%2C%201993%2C%20107%20Stat.%202223.md)
+- [&sect; 01583 - Examination of outbound mail](%C2%A7%2001583%20-%20Examination%20of%20outbound%20mail.md)
 - [&sect; 01584 - Falsity or lack of manifest; penalties](%C2%A7%2001584%20-%20Falsity%20or%20lack%20of%20manifest%3B%20penalties.md)
 - [&sect; 01585 - Repealed. Pub. L. 103&#8211;182, title VI, &sect;690(b)(10), Dec. 8, 1993, 107 Stat. 2223](%C2%A7%2001585%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93182%2C%20title%20VI%2C%20%C2%A7690%28b%29%2810%29%2C%20Dec.%208%2C%201993%2C%20107%20Stat.%202223.md)
 - [&sect; 01586 - Unlawful unlading or transshipment](%C2%A7%2001586%20-%20Unlawful%20unlading%20or%20transshipment.md)

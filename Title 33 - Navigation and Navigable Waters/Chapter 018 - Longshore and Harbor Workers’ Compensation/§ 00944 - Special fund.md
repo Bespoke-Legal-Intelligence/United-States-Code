@@ -12,7 +12,7 @@ The Treasurer is authorized to disburse moneys from such fund only upon order of
 
 Payments into such fund shall be made as follows:
 
-&emsp;(1) Whenever the Secretary determines that there is no person entitled under this chapterto compensation for the death of an employee which would otherwise be compensable under this chapter, the appropriate employer shall pay $5,000 as compensation for the death of such an employee.
+&emsp;(1) Whenever the Secretary determines that there is no person entitled under this chapter to compensation for the death of an employee which would otherwise be compensable under this chapter, the appropriate employer shall pay $5,000 as compensation for the death of such an employee.
 
 &emsp;(2) At the beginning of each calendar year the Secretary shall estimate the probable expenses of the fund during that calendar year and the amount of payments required (and the schedule therefor) to maintain adequate reserves in the fund. Each carrier and self-insurer shall make payments into the fund on a prorated assessment by the Secretary determined by—
 
@@ -36,7 +36,7 @@ Payments into such fund shall be made as follows:
 
 #### (e) Depositories; investments
 
-The Treasurer of the United States shall deposit any moneys paid into such fund into such depository banks as the Secretary may designate and may invest any portion of the funds which, in the opinion of the Secretary, is not needed for current requirements, in bonds or notes of the United States or of any Federal land bank.
+The Treasurer of the United States shall deposit any moneys paid into such fund into suchdepository banks as the Secretary may designate and may invest any portion of the funds which, in the opinion of the Secretary, is not needed for current requirements, in bonds or notes of the United States or of any Federal land bank.
 
 #### (f) Limitation of liability
 

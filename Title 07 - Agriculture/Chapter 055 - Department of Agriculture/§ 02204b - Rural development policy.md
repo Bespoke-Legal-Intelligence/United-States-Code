@@ -86,7 +86,7 @@ The Federal Advisory Committee Act, referred to in subsec. (b)(3), is Pub. L. 92
 
 #### Effective Date
 
-Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
+Section 10 of Pub. L. 96–355 provided that: “The provisions of this Act \[enacting this section and section 2211b of this title, amending sections 1926, 2204, 2204a, 2204b–1, 2663, and 2667 of this title and section 5314 of Title 5, Government Organization and Employees, and enacting provisions set out as a note under section 2201 of this title\] shall become effective October 1, 1980.”
 
 #### Termination of Reporting Requirements
 
@@ -102,7 +102,7 @@ Section 762 of Pub. L. 104–127 provided that: “Not later than 1 year after t
 
 &emsp;“(1) Sections 304(b), 306, 306A, 306C, 306D, 310B, and 375 \[7 U.S.C. 2008j\] and subtitle E \[7 U.S.C. 2009 et seq.\] of the Consolidated Farm and Rural Development Act (7 U.S.C. 1924(b), 1926, 1926a, 1926c, 1926d, and 1932).
 
-&emsp;“(2) Subtitle G of title XVI and sections 2281 \[42 U.S.C. 5177a\], 2333, and 2381 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. 5901–5908, 5177a, 950aaa–2, and 3125b).
+&emsp;“(2) Subtitle G of title XVI and sections 2281 \[42 U.S.C. 5177a\], 2333, and 2381 of the Food, Agriculture, Conservation, and Trade Act of 1990 (7 U.S.C. \[former\] 5901–5908, 5177a, 950aaa–2, and 3125b).
 
 &emsp;“(3) Subtitle C of title IX of the Food, Agriculture, Conservation, and Trade Act Amendments of 1991 (Public Law 102–237:\[;\] 7 U.S.C. \[former\] 5930 note).
 

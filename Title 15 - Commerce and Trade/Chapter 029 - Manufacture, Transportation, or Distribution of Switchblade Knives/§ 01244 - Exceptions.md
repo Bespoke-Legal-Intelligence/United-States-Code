@@ -8,7 +8,7 @@ Sections 1242 and 1243 of this title shall not apply to—
 
 &emsp;(3) the Armed Forces or any member or employee thereof acting in the performance of his duty; or
 
-&emsp;(4) the possession, and transportation upon his person, of any switchblade knife with a blade three inches or less in length by any individual who has only one arm.
+&emsp;(4) the possession, and transportation upon his person, of any switchblade knife with ablade three inches or less in length by any individual who has only one arm.
 
 (Pub. L. 85–623, §4, Aug. 12, 1958, 72 Stat. 562.)
 

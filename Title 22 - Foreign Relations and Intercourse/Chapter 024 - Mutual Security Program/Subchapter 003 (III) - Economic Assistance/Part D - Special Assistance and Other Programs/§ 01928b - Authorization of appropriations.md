@@ -26,7 +26,7 @@ Pub. L. 100–202 substituted “annually (1)” for “annually,”, “(2) $10
 
 #### Change of Name
 
-Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §701(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–459, provided that: “In the case of any provision of law having application on or after May 31, 1999 (other than a provision of law specified in subparagraphs (A) or (B) \[probably should be “paragraphs (1) or (2)”, which amended this section and sections 276c–1, 1928c, and 1928d of this title\]), any reference contained in that provision to the North Atlantic Assembly shall, on and after that date, be considered to be a reference to the NATO Parliamentary Assembly.”
+Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title VII, §701(b)(3)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–459, provided that: “In the case of any provision of law having application on or after May 31, 1999 (other than a provision of law specified in subparagraphs (A) or (B) \[probably should be “paragraphs (1) or (2)”, which amendedthis section and sections 276c–1, 1928c, and 1928d of this title\]), any reference contained in that provision to the North Atlantic Assembly shall, on and after that date, be considered to be a reference to the NATO Parliamentary Assembly.”
 
 #### Permanent Appropriation for Delegation Expenses
 
@@ -38,7 +38,7 @@ Annual appropriations to meet the obligations of membership in various internati
 
 #### Authorization of Appropriations for Expenses of 1959 Annual Meeting of North Atlantic Treaty Parliamentary Conference
 
-Section 702 of Pub. L. 86–108, ch. VII, July 24, 1959, 73 Stat. 258, authorized appropriations for expenses of 1959annual meeting of North Atlantic Treaty Parliamentary Conference, prior to repeal by Pub. L. 87–195, pt. III, §642(a)(7), Sept. 4, 1961, 75 Stat. 460.
+Section 702 of Pub. L. 86–108, ch. VII, July 24, 1959, 73 Stat. 258, authorized appropriations for expenses of 1959 annual meeting of North Atlantic Treaty Parliamentary Conference, prior to repeal by Pub. L. 87–195, pt. III, §642(a)(7), Sept. 4, 1961, 75 Stat. 460.
 
 #### Section Referred to in Other Sections
 

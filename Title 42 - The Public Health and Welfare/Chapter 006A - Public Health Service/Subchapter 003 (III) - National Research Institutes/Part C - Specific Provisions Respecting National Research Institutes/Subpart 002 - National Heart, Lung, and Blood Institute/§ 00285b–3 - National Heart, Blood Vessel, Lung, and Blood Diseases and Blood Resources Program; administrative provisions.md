@@ -32,7 +32,7 @@
 
 &emsp;(B) may, in consultation with the advisory council for the Institute, make grants for construction or renovation of facilities; and
 
-&emsp;(C) may, in consultation with the advisory council for the Institute, acquire, without regard to section 34 of title 40, by lease or otherwise, through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia for the use of the Institute for a period not to exceed ten years;
+&emsp;(C) may, in consultation with the advisory council for the Institute, acquire, without regard to section 8141 of title 40, by lease or otherwise, through the Administrator of General Services, buildings or parts of buildings in the District of Columbia or communities located adjacent to the District of Columbia for the use of the Institute for a period not to exceed ten years;
 
 &emsp;(3) subject to section 284(b)(2) of this title and without regard to section 3324 of title 31 and section 5 of title 41, may enter into such contracts, leases, cooperative agreements, or other transactions, as may be necessary in the conduct of the Director's functions, with any public agency, or with any person, firm, association, corporation, or educational institutions;
 
@@ -40,13 +40,17 @@
 
 &emsp;(5) shall, in consultation with the advisory council for the Institute, conduct appropriate intramural training and education programs, including continuing education and laboratory and clinical research training programs.
 
-> Except as otherwise provided, experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed, in accordance with title 5, for their travel to and from their place of service and for other expenses associated with their assignment. Such expenses shall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasons which are beyond the control of the expert or consultant and which are acceptable to the Director of the Institute. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt duethe United States. The Secretary may waive in whole or in part a right of recovery under the preceding sentence.
+> Except as otherwise provided, experts and consultants whose services are obtained under paragraph (1) shall be paid or reimbursed, in accordance with title 5, for their travel to and from their place of service and for other expenses associated with their assignment. Such expenses shall not be allowed in connection with the assignment of an expert or consultant whose services are obtained under paragraph (1) unless the expert or consultant has agreed in writing to complete the entire period of the assignment or one year of the assignment, whichever is shorter, unless separated or reassigned for reasons which are beyond the control of the expert or consultant and which are acceptable to the Director of the Institute. If the expert or consultant violates the agreement, the money spent by the United States for such expenses is recoverable from the expert or consultant as a debt due the United States. The Secretary may waive in whole or in part a right of recovery under the preceding sentence.
 
 (July 1, 1944, ch. 373, title IV, §421, as added Pub. L. 99–158, §2, Nov. 20, 1985, 99 Stat. 837; amended Pub. L. 100–607, title I, §127, Nov. 4, 1988, 102 Stat. 3055; Pub. L. 103–43, title V, §501, title XX, §2008(b)(3), June 10, 1993, 107 Stat. 158, 211.)
 
 #### References in Text
 
 The provisions of title 5 relating to reimbursement for travel expenses, referred to in subsec. (b), are classified generally to section 5701 et seq. of Title 5, Government Organization and Employees.
+
+#### Codification
+
+In subsec. (b)(2)(C), “section 8141 of title 40” substituted for “the Act of March 3, 1877 (40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Amendments
 

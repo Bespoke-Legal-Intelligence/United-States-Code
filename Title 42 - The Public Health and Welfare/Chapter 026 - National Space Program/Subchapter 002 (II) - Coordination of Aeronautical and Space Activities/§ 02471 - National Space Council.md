@@ -52,7 +52,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(5) international manned missions beyond Earth orbit could save the individual nations involved tens of billions of dollars over national missions; and
 
-&emsp;“(6) a multilateral effort for manned missions to establish a lunar colony, a Mars mission, and any other missions that have the goal of establishing human presence beyond Earth's orbit and possibly landing a human on Mars would lead to greater understanding of our universe and greater sensitivity to our own planet.
+&emsp;“(6) a multilateral effort for manned missions to establish a lunar colony, a Mars mission, and any other missions that have the goal of establishing human presence beyond Earth's orbit and possibly landing a human on Mars would lead to greater understandingof our universe and greater sensitivity to our own planet.
 
 “(b)
 

@@ -42,7 +42,7 @@
 
 (c) Its board of directors may provide for the vocational training of qualified inmates without regard to their industrial or other assignments.
 
-(d)(1) The provisions of this chapter shall apply to the industrial employment and training of prisoners convicted by general courts-martial and confined in any institution under the jurisdiction of any department or agency comprising the Department of Defense, to the extent and under terms and conditions agreed upon by the Secretary of Defense, the Attorney General and the Board of Directors of Federal Prison Industries.
+(d)(1) The provisions of this chapter shall apply to the industrial employment and training of prisoners convicted by general courts-martial and confined in any institution under the jurisdiction of any department or agency comprising the Department of Defense, to the extent and under terms and conditions agreed upon by theSecretary of Defense, the Attorney General and the Board of Directors of Federal Prison Industries.
 
 (2) Any department or agency of the Department of Defense may, without exchange of funds, transfer to Federal Prison Industries any property or equipment suitable for use in performing the functions and duties covered by agreement entered into under paragraph (1) of this subsection.
 
@@ -70,7 +70,7 @@ Changes were made in phraseology.
 
 #### 1949 Act
 
-Subsection (c) of section 4122 of title 18, U.S.C., as added by this amendment \[see section 63\], incorporatesprovisions of act of May 11, 1948 (ch. 276, 62 Stat. 230), which was not incorporated in title 18 when the revision was enacted. The remainder of such act is incorporated in section 4126 of such title by another section of this bill.
+Subsection (c) of section 4122 of title 18, U.S.C., as added by this amendment \[see section 63\], incorporates provisions of act of May 11, 1948 (ch. 276, 62 Stat. 230), which was not incorporated in title 18 when the revision was enacted. The remainder of such act is incorporated in section 4126 of such title by another section of this bill.
 
 Subsections (d) and (e) of such section 4122, added by this amendment \[see section 63\], incorporate, with changes in phraseology, the provisions of sections 1 and 2 of act of June 29, 1948 (ch. 719, 62 Stat. 1100), extending the functions and duties of Federal Prisons Industries, Incorporated, to military disciplinary barracks. Section 3 of such act is incorporated in section 4121 of such title by another section of this bill, and section 4 of such act is classified to section 1621a of title 50, U.S.C., Appendix, War and National Defense.
 

@@ -2,11 +2,11 @@
 
 #### (a) Applicability of sanctions
 
-A significant foreign narcotics trafficker publicly identified in the report required under subsection (b) or (h)(1) of section 1903 of this title and foreign persons designated by the Secretary of the Treasury pursuant to subsection (b) of this section shall be subject to any and all sanctions as authorized by this chapter. The application of sanctions on any foreign person pursuant to subsection (b) or (h)(1) of section 1903 of this title or subsection (b) of this section shall remain in effect until revoked pursuant to section 1903(h)(2) of this title or subsection (e)(1)(A) of this section or waived pursuant to section 1903(g)(1) of this title.
+A significant foreign narcotics trafficker publicly identified in the report required under subsection (b) or (h)(1) of section 1903 of this title and foreign persons designated by the Secretary of the Treasury pursuant to subsection (b) ofthis section shall be subject to any and all sanctions as authorized by this chapter. The application of sanctions on any foreign person pursuant to subsection (b) or (h)(1) of section 1903 of this title or subsection (b) of this section shall remain in effect until revoked pursuant to section 1903(h)(2) of this title or subsection (e)(1)(A) of this section or waived pursuant to section 1903(g)(1) of this title.
 
 #### (b) Blocking of assets
 
-Except to the extent provided in regulations, orders, instructions, licenses, or directives issued pursuant to this chapter, and notwithstanding any contract entered into or any license or permit granted prior to the date on which the President submits the report required under subsection (b) or (h)(1) of section 1903 ofthis title, there are blocked as of such date, and any date thereafter, all such property and interests in property within the United States, or within the possession or control of any United States person, which are owned or controlled by—
+Except to the extent provided in regulations, orders, instructions, licenses, or directives issued pursuant to this chapter, and notwithstanding any contract entered into or any license or permit granted prior to the date on which the President submits the report required under subsection (b) or (h)(1) of section 1903 of this title, there are blocked as of such date, and any date thereafter, all such property and interests in property within the United States, or within the possession or control of any United States person, which are owned or controlled by—
 
 &emsp;(1) any significant foreign narcotics trafficker publicly identified by the President in the report required under subsection (b) or (h)(1) of section 1903 of this title;
 

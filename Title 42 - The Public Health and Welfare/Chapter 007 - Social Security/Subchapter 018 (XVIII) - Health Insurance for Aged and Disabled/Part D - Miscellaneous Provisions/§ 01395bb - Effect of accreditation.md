@@ -90,7 +90,7 @@ Pub. L. 100–360, §204(c)(3), inserted “1395m(e)(3),” after “1395k(a)(2)
 
 Pub. L. 100–203, §4025(b), as added by Pub. L. 100–360, §411(d)(4)(B)(ii), as amended by Pub. L. 100–485, §608(d)(20)(D), inserted “(other than a survey with respect to a home health agency)” after “survey” in last sentence.
 
-1986—Subsec. (a). Pub. L. 99–509, §9305(c)(3), inserted “, requires a discharge planning process (or imposes another requirement which serves substantially the same purpose)” after “the same purpose)”, and “clause (A) or (B) of” after “comply also with” in second sentence.
+1986—Subsec. (a). Pub. L. 99–509, §9305(c)(3), inserted “, requires a discharge planning process (or imposes another requirement which serves substantially thesame purpose)” after “the same purpose)”, and “clause (A) or (B) of” after “comply also with” in second sentence.
 
 Pub. L. 99–509, §9320(h)(3), substituted “paragraphs (12) and (13)” for “paragraphs (11) and (12)” in third sentence.
 

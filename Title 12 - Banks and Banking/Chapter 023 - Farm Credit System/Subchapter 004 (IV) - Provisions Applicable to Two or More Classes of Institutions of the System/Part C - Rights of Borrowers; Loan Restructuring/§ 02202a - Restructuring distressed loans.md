@@ -214,7 +214,7 @@ Amendment by section 102(b), (f) of Pub. L. 100–399 effective immediately afte
 
 #### Sense of Congress
 
-Section 102(b) of Pub. L. 100–233 provided that: “It is the sense of Congress that the banks and associations (except banks for cooperatives) operating under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) should administer distressed loans to farmers with the objective of using the loan guarantee programs of the Farmers Home Administration and other loan restructuring measures, including participation in interest rate buy-down programs that are Federally or State funded, and other Federal and State sponsored financial assistance programs that offer relief to financially distressed farmers, as alternatives to foreclosure, considering the availability and appropriateness of such programs on a case-by-case basis.”
+Section 102(b) of Pub. L. 100–233 provided that: “It is the sense of Congress that the banks and associations\(except banks for cooperatives) operating under the Farm Credit Act of 1971 (12 U.S.C. 2001 et seq.) should administer distressed loans to farmers with the objective of using the loan guarantee programs of the Farmers Home Administration and other loan restructuring measures, including participation in interest rate buy-down programs that are Federally or State funded, and other Federal and State sponsored financial assistance programs that offer relief to financially distressed farmers, as alternatives to foreclosure, considering the availability and appropriateness of such programs on a case-by-case basis.”
 
 #### Section Referred to in Other Sections
 

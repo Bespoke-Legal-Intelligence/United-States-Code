@@ -8,3 +8,7 @@ If any provision of this Act, or the application thereof to any person or circum
 
 This Act, referred to in text, means the Federal Election Campaign Act of 1971, as amended, as defined by, section 431 of this title.
 
+#### Severability
+
+Pub. L. 107–155, title IV, §401, Mar. 27, 2002, 116 Stat. 112, provided that: “If any provision of this Act \[see Short Title of 2002 Amendment note set out under section 431 of this title\] or amendment made by this Act, or the application of a provision or amendment to any person or circumstance, is held to be unconstitutional, the remainder of this Act and amendments made by this Act, and the application of the provisions and amendment to any person or circumstance, shall not be affected by the holding.”
+

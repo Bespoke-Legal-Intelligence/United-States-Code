@@ -10,7 +10,7 @@ The Advisory Board shall be composed of eighteen appointed members and nonvoting
 
 &emsp;(1) The Secretary shall appoint—
 
-&emsp;&emsp;(A) twelve members from individuals who are scientists, physicians, and other health and rehabilitation professionals, who are not officers or employees of the United States, and who represent the specialties and disciplines relevant to deafness and other communication disorders, including not less than two persons with a communication disorder; and
+&emsp;&emsp;(A) twelve members from individuals who are scientists, physicians, and other health and rehabilitation professionals, who are not officers or employees of the United States,and who represent the specialties and disciplines relevant to deafness and other communication disorders, including not less than two persons with a communication disorder; and
 
 &emsp;&emsp;(B) six members from the general public who are knowledgeable with respect to such disorders, including not less than one person with a communication disorder and not less than one person who is a parent of an individual with such a disorder.
 
@@ -28,7 +28,7 @@ Members of an Advisory Board who are officers or employees of the Federal Govern
 
 #### (d) Term of office; vacancies
 
-The term of office of an appointed member of the Advisory Board is four years, except that no term of office may extend beyond the expiration of the Advisory Board. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in the Advisory Board, the Secretary shall make an appointment to fillthe vacancy not later than 90 days from the date the vacancy occurred.
+The term of office of an appointed member of the Advisory Board is four years, except that no term of office may extend beyond the expiration of the Advisory Board. Any member appointed to fill a vacancy for an unexpired term shall be appointed for the remainder of such term. A member may serve after the expiration of the member's term until a successor has taken office. If a vacancy occurs in the Advisory Board, the Secretary shall make an appointment to fill the vacancy not later than 90 days from the date the vacancy occurred.
 
 #### (e) Chairman
 
@@ -102,5 +102,5 @@ Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under sect
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

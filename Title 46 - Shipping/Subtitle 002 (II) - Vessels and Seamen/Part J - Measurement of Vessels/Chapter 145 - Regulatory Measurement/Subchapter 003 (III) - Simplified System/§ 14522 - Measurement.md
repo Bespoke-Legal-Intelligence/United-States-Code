@@ -22,5 +22,5 @@ Section 14522(a) defines the term “length” as it is used in the simplified m
 
 Section 14522(b) requires the Secretary to assign gross and net tonnages under the simplified system, based on a vessel's length, breadth, depth, other dimensions and appropriate coefficients, as the Secretary deems appropriate.
 
-Section 14522(c) provides that the gross tonnages as measured under this section shall reflect the relative internal volumes of vessels. It provides further that the net tonnages measured under this section shall be in approximately the same ratio to corresponding grosstonnages as are the net and gross tonnages of comparable vessels measured under the standard regulatory measurement system.
+Section 14522(c) provides that the gross tonnages as measured under this section shall reflect the relative internal volumes of vessels. It provides further that the net tonnages measured under this section shall be in approximately the same ratio to corresponding gross tonnages as are the net and gross tonnages of comparable vessels measured under the standard regulatory measurement system.
 

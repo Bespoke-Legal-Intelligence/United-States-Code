@@ -26,7 +26,7 @@ The Congress makes the following findings and declarations:
 
 #### References in Text
 
-This subchapter, referred to in par. (1), was in the original “this title”, meaning title II of Pub. L. 91–513,Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out below and Tables.
+This subchapter, referred to in par. (1), was in the original “this title”, meaning title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, and is popularly known as the “Controlled Substances Act”. For complete classification of title II to the Code, see second paragraph of Short Title note set out below and Tables.
 
 #### Effective Date
 
@@ -102,7 +102,7 @@ Pub. L. 99–570, title I, §1991, Oct. 27, 1986, 100 Stat. 3207–59, provided 
 
 #### Short Title of 1984 Amendment
 
-Pub. L. 98–473, title II, §501, Oct. 12, 1984, 98 Stat. 2068, provided that: “This chapter \[chapter V (§§501–525) of title II of Pub. L. 98–473, enacting section 845a of this title, amending sections 802, 811, 812, 822–824, 827, 841, 843, 845, 873, 881, 952, 953, 957, 958, 960, and 962 of this title, and enacting provisions set out as a note under this section\] may be cited as the ‘Controlled Substances Penalties Amendments Act of 1984’.”
+Pub. L. 98–473, title II, §501, Oct. 12, 1984, 98 Stat. 2068, provided that: “This chapter \[chapter V (§§501–525) of title II of Pub. L. 98–473, enacting section 845a of this title, amending sections 802, 811, 812, 822–824, 827, 841, 843, 845, 873, 881, 952, 953, 957, 958, 960, and 962 of this title, and enacting provisions set out as a note underthis section\] may be cited as the ‘Controlled Substances Penalties Amendments Act of 1984’.”
 
 Pub. L. 98–473, title II, §506(a), Oct. 12, 1984, 98 Stat. 2070, provided that: “This part \[part B of chapter V (§§506–525) of title II of Pub. L. 98–473, amending sections 802, 811, 812, 822–824, 827, 843, 873, 881, 952, 953, 957, and 958 of this title\] may be cited as the ‘Dangerous Drug Diversion Control Act of 1984’.”
 
@@ -116,7 +116,7 @@ Pub. L. 93–281, §1, May 14, 1974, 88 Stat. 124, provided: “That this Act \[
 
 #### Short Title
 
-Pub. L. 91–513, in the provisions preceding section 1 immediately following the enacting clause, provided: “That this Act \[enacting this chapter and sections 257a, 2688<i>l</i>–1, 2688n–1, and 3509 of Title 42, The Public Health and Welfare, amending sections 162, 198a, 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, section 304m of Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246, 257, 258, 259, 260, 261, 261a, 2688k, 2688<i>l</i>, 2688m, 2688n, 2688<i>o</i>, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of Title 49, Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title\] may be cited as the ‘Comprehensive Drug Abuse Prevention and Control Act of 1970’.”
+Pub. L. 91–513, in the provisions preceding section 1 immediately following the enacting clause, provided: “That this Act \[enacting this chapter and sections 257a, 2688<i>l</i>–1, 2688n–1, and 3509 of Title 42, The Public Health and Welfare, amending sections 162, 198a, 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114, 1952, and 4251 of Title 18, Crimes and Criminal Procedure, sections 1584, 2078, 2079, and 2080 of Title 19, Customs Duties, sections 4901, 4905, 6808, 7012, 7103, 7326, 7607, 7609, 7641, 7651, and 7655 of Title 26, Internal Revenue Code, section 2901 of Title 28, Judiciary and Judicial Procedure, section 304m of former Title 40, Public Buildings, Property, and Works, sections 201, 225a, 242, 242a, 246, 257, 258, 259, 260, 261, 261a, 2688k, 2688<i>l</i>, 2688m, 2688n, 2688<i>o</i>, 2688r, and 3411 of Title 42, The Public Health and Welfare, section 239a of former Title 46, Shipping, and section 787 of Title 49, Appendix, Transportation, repealing sections 171 to 174, 176 to 185, 188 to 188n, 191 to 193, 197, 198, 199, 360a, and 501 to 517 of this title, sections 1401 to 1407 and 3616 of Title 18, sections 4701 to 4707, 4711 to 4716, 4721 to 4726, 4731 to 4736, 4741 to 4746, 4751 to 4757, 4761, 4762, 4771 to 4776, 7237, 7238, and 7491 of Title 26, sections 529a and 529g of former Title 31, Money and Finance, and section 1421m of Title 48, Territories and Insular Possessions, and enacting provisions set out as notes under this section and sections 171, 321, 822, 951, and 957 of this title\] may be cited as the ‘Comprehensive Drug Abuse Prevention and Control Act of 1970’.”
 
 Section 100 of title II of Pub. L. 91–513 provided that: “This title \[enacting this subchapter, repealing section 360a of this title, amending sections 321, 331, 333, 334, 360, 372, and 381 of this title, sections 1114 and 1952 of Title 18, Crimes and Criminal Procedure, and section 242 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under this section and sections 321 and 822 of this title\] may be cited as the ‘Controlled Substances Act’.”
 
@@ -352,7 +352,7 @@ Demonstration Projects.—
 
 &emsp;“(2) The Attorney General may not under this subsection make a grant or enter into a contract unless the applicant for such assistance agrees to comply with the guidelines issued pursuant to subsection (d).
 
-&emsp;“(3) The Attorney General shall, through grant or contract, provide for independent evaluations of theactivities carried out pursuant to this subsection and shall recommend appropriate legislation to the Congress.
+&emsp;“(3) The Attorney General shall, through grant or contract, provide for independent evaluations of the activities carried out pursuant to this subsection and shall recommend appropriate legislation to the Congress.
 
 “(f)
 
@@ -379,6 +379,10 @@ Interagency Agreement.—The Secretary of Transportation and the Secretary of th
 “(b)
 
 Negotiations With Canada on Drug Enforcement Cooperation.—The Secretary of State is encouraged to enter into negotiations with appropriate officials of the Government of Canada for the purpose of establishing an agreement between the United States and Canada which provides for increased cooperation and sharing of information between United States and Canadian law enforcement officials with respect to law enforcement efforts conducted on the Great Lakes between the United States and Canada.”
+
+\[For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authoritiesand functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
+\[For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### GAO Study of Capabilities of United States To Control Drug Smuggling Into United States
 
@@ -516,7 +520,7 @@ Section 601 of Pub. L. 91–513, as amended by Pub. L. 92–13, May 14, 1971, 85
 
 “(a)
 
-\[Establishment; composition\] There is established a commission to be known as the Commission onMarihuana and Drug Abuse (hereafter in this section referred to as the ‘Commission’). The Commission shall be composed of—
+\[Establishment; composition\] There is established a commission to be known as the Commission on Marihuana and Drug Abuse (hereafter in this section referred to as the ‘Commission’). The Commission shall be composed of—
 
 &emsp;“(1) two Members of the Senate appointed by the President of the Senate;
 
@@ -530,7 +534,7 @@ Section 601 of Pub. L. 91–513, as amended by Pub. L. 92–13, May 14, 1971, 85
 
 \[Chairman; Vice Chairman; compensation of members; meetings\] (1) The President shall designate one of the members of the Commission as Chairman and one as Vice Chairman. Seven members of the Commission shall constitute a quorum, but a lesser number may conduct hearings.
 
-“(2) Members of the Commission who are Members of Congress or full-time officers or employees of the United States shall serve without additional compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of the duties vested in the Commission. Members of the Commission from private life shall receive $100 per diem while engaged in the actual performance of the duties vested in the Commission, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties.
+“(2) Members of the Commission who are Members of Congress or full-time officers or employees of the United States shall serve without additional compensation but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of the duties vested in the Commission. Members of the Commission from private life shall receive $100 perdiem while engaged in the actual performance of the duties vested in the Commission, plus reimbursement for travel, subsistence, and other necessary expenses incurred in the performance of such duties.
 
 “(3) The Commission shall meet at the call of the Chairman or at the call of a majority of the members thereof.
 
@@ -590,7 +594,7 @@ NOW, THEREFORE, by virtue of the authority vested in me by the Constitution and 
 
 Section 1. The Attorney General, to the extent permitted by law, is authorized to coordinate all activities of executive branch departments and agencies which are directly related to the enforcement of laws respecting narcotics and dangerous drugs. Each department and agency of the Federal Government shall, upon request and to the extent permitted by law, assist the Attorney General in the performance of functions assigned to him pursuant to this order, and the Attorney General may, in carrying out those functions, utilize the services of any other agencies, Federal and State, as may be available and appropriate.
 
-Sec. 2. Executive Order No. 11641 of January 28, 1972, is revoked and the Attorney General shall provide forthe reassignment of the functions of the Office for Drug Abuse Law Enforcement and for the abolishment of that Office.
+Sec. 2. Executive Order No. 11641 of January 28, 1972, is revoked and the Attorney General shall provide for the reassignment of the functions of the Office for Drug Abuse Law Enforcement and for the abolishment of that Office.
 
 Sec. 3. Executive Order No. 11676 of July 27, 1972, is hereby revoked and the Attorney General shall provide for the reassignment of the functions of the Office of National Narcotics Intelligence and for the abolishment of that Office.
 

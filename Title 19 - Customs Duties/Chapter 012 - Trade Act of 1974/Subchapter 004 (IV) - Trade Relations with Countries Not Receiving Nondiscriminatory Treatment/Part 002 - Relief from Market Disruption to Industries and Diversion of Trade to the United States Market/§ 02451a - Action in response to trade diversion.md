@@ -98,9 +98,13 @@ Action taken under subsection (h) of this section shall be terminated not later 
 
 #### (j) Review of circumstances
 
-(1) <sup>1</sup> The Commission shall review the continued need for action taken under subsection (h) of this section if the WTO member or members involved notify the Committee on Safeguards of the WTO of any modification in the action taken by them against the People's Republic of China pursuant to consultation referred to in subsection (a) of this section. The Commission shall, not later than 60 days after such notification, determine whether a significant diversion of trade continues to exist and report its determination to the President. The President shall determine, within 15 days after receiving the Commission's report, whether to modify, withdraw, or keep in place the action taken under subsection (h) of this section.
+(1) <sup>2</sup> The Commission shall review the continued need for action taken under subsection (h) of this section if the WTO member or members involved notify the Committee on Safeguards of the WTO of any modification in the action taken by them against the People's Republic of China pursuant to consultation referred to in subsection (a) of this section. The Commission shall, not later than 60 days after such notification, determine whether a significant diversion of trade continues to exist and report its determination to the President. The President shall determine, within 15 days after receiving the Commission's report, whether to modify, withdraw, or keep in place the action taken under subsection (h) of this section.
 
 (Pub. L. 93–618, title IV, §422, as added Pub. L. 106–286, div. A, title I, §103(a)(3), Oct. 10, 2000, 114 Stat. 887.)
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 
@@ -108,5 +112,5 @@ This section is referred to in section 2451b of this title.
 
 <i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 
-<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
+<i><sup>2</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

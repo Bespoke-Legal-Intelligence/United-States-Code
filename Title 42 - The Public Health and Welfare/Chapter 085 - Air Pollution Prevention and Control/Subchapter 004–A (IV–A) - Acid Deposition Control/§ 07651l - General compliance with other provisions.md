@@ -1,6 +1,6 @@
 ### §7651<i>l</i>. General compliance with other provisions
 
-Except as expressly provided, compliance with the requirements of this subchapter shall not exempt or exclude the owner or operator of any source subject to this subchapter from compliance with any other applicable requirements of this chapter.
+Except as expressly provided, compliance with the requirements of this subchapter shall notexempt or exclude the owner or operator of any source subject to this subchapter from compliance with any other applicable requirements of this chapter.
 
 (July 14, 1955, ch. 360, title IV, §413, as added Pub. L. 101–549, title IV, §401, Nov. 15, 1990, 104 Stat. 2625.)
 

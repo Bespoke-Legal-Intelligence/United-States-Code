@@ -1,6 +1,6 @@
 ### §8505. Sale or other disposition of property
 
-Any unclaimed personal property as described in section 8502 of this title of veterans who have heretofore died or who may hereafter die whilemaintained as such in a Department facility, and also any unclaimed property heretofore or hereafter found or situated in such facility, may be sold, used, destroyed, or otherwise disposed of in accordance with this subchapter, and subject to regulations promulgated by the Secretary pursuant hereto; and the net proceeds of sale thereof shall be credited and be subject to disbursement as provided in this subchapter.
+Any unclaimed personal property as described in section 8502 of this title of veterans who have heretofore died or who may hereafter die while maintained as such in a Department facility, and also any unclaimed property heretofore or hereafter found or situated in such facility, may be sold, used, destroyed, or otherwise disposed of in accordance with this subchapter, and subject to regulations promulgated by the Secretary pursuant hereto; and the net proceeds of sale thereof shall be credited and be subject to disbursement as provided in this subchapter.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1258, §5205; renumbered §8505 and amended Pub. L. 102–40, title IV, §402(b)(1), (d)(1), May 7, 1991, 105 Stat. 238, 239; Pub. L. 102–83, §4(a)(3), (4), (b)(1), (2)(E), Aug. 6, 1991, 105 Stat. 404, 405.)
 

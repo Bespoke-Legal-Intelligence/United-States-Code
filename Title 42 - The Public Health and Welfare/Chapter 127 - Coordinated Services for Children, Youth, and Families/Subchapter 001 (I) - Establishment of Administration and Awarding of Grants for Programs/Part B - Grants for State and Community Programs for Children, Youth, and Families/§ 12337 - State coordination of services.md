@@ -56,7 +56,7 @@ To be eligible to receive a grant under this section, the chief executive office
 
 #### (c) Use of grants to States
 
-Notwithstanding section 12340(g) of this title, the amounts made available to each State undersection 12340(a) of this title may be used to make grants to a State to enable such State to pay such percentages as the independent State body of such State determines to be appropriate, of the cost of administering the State plan of such State including—
+Notwithstanding section 12340(g) of this title, the amounts made available to each State under section 12340(a) of this title may be used to make grants to a State to enable such State to pay such percentages as the independent State body of such State determines to be appropriate, of the cost of administering the State plan of such State including—
 
 &emsp;(1) the costs of the preparation of such plan and the provision of technical assistance to local areas;
 

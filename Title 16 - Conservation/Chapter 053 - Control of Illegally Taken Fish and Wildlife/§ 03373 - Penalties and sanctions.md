@@ -32,7 +32,7 @@ Any person against whom a civil penalty is assessed under this section may obtai
 
 > knowing that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty or regulation, shall be fined not more than $20,000, or imprisoned for not more than five years, or both. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said fish or wildlife or plants.
 
-(2) Any person who knowingly engages in conduct prohibited by any provision of this chapter (other than subsections (b) and (d) of section 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty or regulation shall be fined not more than $10,000, or imprisoned for not more than one year, or both. Each violationshall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said fish or wildlife or plants.
+(2) Any person who knowingly engages in conduct prohibited by any provision of this chapter (other than subsections (b) and (d) of section 3372 of this title) and in the exercise of due care should know that the fish or wildlife or plants were taken, possessed, transported, or sold in violation of, or in a manner unlawful under, any underlying law, treaty or regulation shall be fined not more than $10,000, or imprisoned for not more than one year, or both. Each violation shall be a separate offense and the offense shall be deemed to have been committed not only in the district where the violation first occurred, but also in any district in which the defendant may have taken or been in possession of the said fish or wildlife or plants.
 
 (3) Any person who knowingly violates section 3372(d) of this title—
 
@@ -46,7 +46,7 @@ Any person against whom a civil penalty is assessed under this section may obtai
 
 #### (e) Permit sanctions
 
-The Secretary may also suspend, modify, or cancel any Federal hunting or fishing license, permit, or stamp, or any license or permit authorizing a person to import or export fish or wildlife or plants (other than a permit or license issued pursuant to the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), or to operate a quarantine station or rescue center for imported wildlife or plants, issued to any person who is convicted of a criminal violation of any provision of this chapter or any regulation issued hereunder. The Secretary shall not be liable for the payments of any compensation, reimbursement, or damages in connection with the modification, suspension, or revocation of any licenses, permits, stamps, or other agreements pursuant to this section.
+The Secretary may also suspend, modify, or cancel any Federal hunting or fishing license, permit, or stamp, or any license or permit authorizing a person to import or export fish or wildlife or plants (other than a permit or license issued pursuant to the Magnuson-Stevens Fishery Conservation and Management Act \[16 U.S.C. 1801 et seq.\]), or to operate a quarantine station or rescue center for imported wildlife or plants, issued to any person who is convicted of a criminal violation of any provision of thischapter or any regulation issued hereunder. The Secretary shall not be liable for the payments of any compensation, reimbursement, or damages in connection with the modification, suspension, or revocation of any licenses, permits, stamps, or other agreements pursuant to this section.
 
 (Pub. L. 97–79, §4, Nov. 16, 1981, 95 Stat. 1074; Pub. L. 100–653, title I, §§102, 103, Nov. 14, 1988, 102 Stat. 3825, 3826.)
 
@@ -67,6 +67,10 @@ Subsec. (c). Pub. L. 100–653, §103, amended first sentence generally. Prior t
 Subsec. (d)(1), (2). Pub. L. 100–653, §102(c), substituted “(other than subsections (b) and (d) of section 3372 of this title)” for “(other than section 3372(b) of this title)” in pars. (1)(A), (B), and (2).
 
 Subsec. (d)(3). Pub. L. 100–653, §102(b), added par. (3).
+
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

@@ -4,7 +4,7 @@
 
 There is established a council to be known as the National Security Council (hereinafter in this section referred to as the “Council”).
 
-The President of the United States shall preside over meetings of the Council: <i>Provided</i>, Thatin his absence he may designate a member of the Council to preside in his place.
+The President of the United States shall preside over meetings of the Council: <i>Provided</i>, That in his absence he may designate a member of the Council to preside in his place.
 
 The function of the Council shall be to advise the President with respect to the integration of domestic, foreign, and military policies relating to the national security so as to enable the military services and the other departments and agencies of the Government to cooperate more effectively in matters involving the national security.
 
@@ -208,7 +208,7 @@ Repeals by section 542(a) of Mutual Security Act of 1954 did not repeal amendmen
 
 #### National Security Agency Act of 1959
 
-Pub. L. 86–36, May 29, 1959, 73 Stat. 63, as amended by Pub. L. 87–367, title II, §§201, 204, Oct. 4, 1961, 75 Stat. 789, 791; Pub. L. 87–793, §1001(c), Oct. 11, 1962, 76 Stat. 864; Sept. 23, 1950, ch. 1024, title III, §306(a), as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170; Aug. 14, 1964, Pub. L. 88–426, title III, §306(h), 78 Stat. 430; Oct. 6, 1964, Pub. L. 88–631, §3(d), 78 Stat. 1008; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 660; Oct. 8, 1966, Pub. L. 89–632, §1(e), 80 Stat. 878; Pub. L. 91–187, §2, Dec. 30, 1969, 83 Stat. 850; Pub. L. 96–450, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1977; Pub. L. 97–89, title VI, §§601–603, Dec. 4, 1981, 95 Stat. 1154–1156, eff. Oct. 1, 1981; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 101–194, title V, §506(c)(2), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436; Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–496, title III, §304(a), title IV, §405, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3183, 3186, 3253; Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442; Pub. L. 104–106, div. A, title X, §1064(b), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–201, div. A, title XVI, §1633(b)(1), Sept. 23, 1996, 110 Stat. 2751; Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406, provided: “That this Act \[this note\] may be cited as the ‘National Security Agency Act of 1959’. \[Amended Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 96–450, title IV, §402(a)(2), Oct. 14, 1980, 94 Stat. 1978.\]
+Pub. L. 86–36, May 29, 1959, 73 Stat. 63, as amended by Pub. L. 87–367, title II, §§201, 204, Oct. 4, 1961, 75 Stat. 789, 791; Pub. L. 87–793, §1001(c), Oct. 11, 1962, 76 Stat. 864; Sept. 23, 1950, ch. 1024, title III, §306(a), as added Mar. 26, 1964, Pub. L. 88–290, 78 Stat. 170; Aug. 14, 1964, Pub. L. 88–426, title III, §306(h), 78 Stat. 430; Oct. 6, 1964, Pub. L. 88–631, §3(d), 78 Stat. 1008; Sept. 6, 1966, Pub. L. 89–554, §8(a), 80 Stat. 660; Oct. 8, 1966, Pub. L. 89–632, §1(e), 80 Stat. 878; Pub. L. 91–187, §2, Dec. 30, 1969, 83 Stat. 850; Pub. L. 96–450, title IV, §402(a), Oct. 14, 1980, 94 Stat. 1977; Pub. L. 97–89, title VI, §§601–603, Dec. 4, 1981, 95 Stat. 1154–1156, eff. Oct. 1, 1981; Pub. L. 99–335, title V, §507(a), June 6, 1986, 100 Stat. 628; Pub. L. 99–569, title V, §505, Oct. 27, 1986, 100 Stat. 3200; Pub. L. 101–193, title V, §505(b), Nov. 30, 1989, 103 Stat. 1709; Pub. L. 101–194, title V, §506(c)(2), Nov. 30, 1989, 103 Stat. 1759; Pub. L. 102–88, title V, §503, Aug. 14, 1991, 105 Stat. 436; Pub. L. 102–183, title IV, §405, Dec. 4, 1991, 105 Stat. 1267; Pub. L. 102–496, title III, §304(a), title IV, §405, title VIII, §803(b), Oct. 24, 1992, 106 Stat. 3183, 3186, 3253; Pub. L. 103–359, title VIII, §806(b)(2), Oct. 14, 1994, 108 Stat. 3442; Pub. L. 104–106, div. A, title X, §1064(b), Feb. 10, 1996, 110 Stat. 445; Pub. L. 104–201, div. A, title XVI,§1633(b)(1), Sept. 23, 1996, 110 Stat. 2751; Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406; Pub. L. 107–306, title VIII, §841(f), Nov. 27, 2002, 116 Stat. 2432, provided: “That this Act \[this note\] may be cited as the ‘National Security Agency Act of 1959’. \[Amended Pub. L. 89–554, §8(a), Sept. 6, 1966, 80 Stat. 660; Pub. L. 96–450, title IV, §402(a)(2), Oct. 14, 1980, 94 Stat. 1978.\]
 
 “\[
 
@@ -242,7 +242,7 @@ Sec. 8. The foregoing provisions of this Act shall take effect on the first day 
 
 “
 
-Sec. 9. (a) Notwithstanding section 322 of the Act of June 30, 1932 (40 U.S.C. 278a), section 5536 of title 5, United States Code, and section 2675 of title 10, United States Code, the Director of the National Security Agency, on behalf of the Secretary of Defense, may lease real property outside the United States, for periods not exceeding ten years, for the use of the National Security Agency for special cryptologic activities and for housing for personnel assigned to such activities.
+Sec. 9. (a) Notwithstanding section 322 of the Act of June 30, 1932 (\[former\] 40 U.S.C. 278a), section 5536 of title 5, United States Code, and section 2675 of title 10, United States Code, the Director of the National Security Agency, on behalf of the Secretary of Defense, may lease real property outside the United States, for periods not exceeding ten years, for the use of the National Security Agency for special cryptologic activities and for housing for personnel assigned to such activities.
 
 “(b) The Director of the National Security Agency, on behalf of the Secretary of Defense, may provide to certain civilian and military personnel of the Department of Defense who are assigned to special cryptologic activities outside the United States and who are designated by the Secretary of Defense for the purposes of this subsection—
 
@@ -294,7 +294,7 @@ Sec. 10. (a) The Director of the National Security Agency shall arrange for, and
 
 “(c)(1) To the extent not inconsistent, in the opinion of the Secretary of Defense, with the operation of military cryptologic reserve units and in order to maintain necessary capability in foreign language skills and related abilities needed by the National Security Agency, the Director may establish a cryptologic linguist reserve. The cryptologic linguist reserve may consist of former or retired civilian or military cryptologic personnel of the National Security Agency and of other qualified individuals, as determined by the Director of the Agency. Each member of the cryptologic linguist reserve shall agree that, during any period of emergency (as determined by the Director), the member shall return to active civilian status with the National Security Agency and shall perform such linguistic or linguistic-related duties as the Director may assign.
 
-“(2) In order to attract individuals to become members of the cryptologic linguist reserve, the Director, without regard to subchapter IV of chapter 55 of title 5, United States Code, may provide special monetary incentives to individuals eligible to become members ofthe reserve who agree to become members of the cryptologic linguist reserve and to acquire or retain proficiency in foreign languages or special related abilities.
+“(2) In order to attract individuals to become members of the cryptologic linguist reserve, the Director, without regard to subchapter IV of chapter 55 of title 5, United States Code, may provide special monetary incentives to individuals eligible to become members of the reserve who agree to become members of the cryptologic linguist reserve and to acquire or retain proficiency in foreign languages or special related abilities.
 
 “(3) In order to provide training and support for members of the cryptologic linguist reserve, the Director—
 
@@ -324,7 +324,7 @@ Sec. 10. (a) The Director of the National Security Agency shall arrange for, and
 
 “
 
-Sec. 11. (a)(1) The Director of the National Security Agency may authorize agency personnel within the United States to perform the same functions as special policemen of the General Services Administration perform under the first section of the Act entitled ‘An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policemen for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes’ (40 U.S.C. 318) with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
+Sec. 11. (a)(1) The Director of the National Security Agency may authorize agency personnel within the United States to perform the same functions as special policemen of the General Services Administration perform under the first section of the Act entitled ‘An Act to authorize the Federal Works Administrator or officials of the Federal Works Agency duly authorized by him to appoint special policemen for duty upon Federal property under the jurisdiction of the Federal Works Agency, and for other purposes’ (\[former\] 40 U.S.C. 318) with the powers set forth in that section, except that such personnel shall perform such functions and exercise such powers—
 
 &emsp;“(A) at the National Security Agency Headquarters complex and at any facilities and protected property which are solely under the administration and control of, or are used exclusively by, the National Security Agency; and
 
@@ -336,11 +336,11 @@ Sec. 11. (a)(1) The Director of the National Security Agency may authorize agenc
 
 “(4) The rules and regulations enforced by such personnel shall be the rules and regulations prescribed by the Director and shall only be applicable to the areas referred to in subparagraph (A) of paragraph (1).
 
-“(5) Not later than July 1 each year, the Director shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report that describes in detail the exercise of the authority granted by this subsection and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make each such report available to the Inspector General of the National Security Agency.
+“(5) Not later than July 1 each year through 2004, the Director shall submit to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate a report that describes in detail the exercise of the authority granted by this subsection and the underlying facts supporting the exercise of such authority, during the preceding fiscal year. The Director shall make each such report available to the Inspector General of the National Security Agency.
 
-“(b) The Director of the National Security Agency is authorized to establish penalties for violations of the rules or regulations prescribed by the Director under subsection (a). Such penalties shall not exceed those specified in the fourth section of the Act referred to in subsection (a) (40 U.S.C. 318c).
+“(b) The Director of the National Security Agency is authorized to establish penalties for violations of the rules or regulations prescribed by the Director under subsection (a). Such penalties shall not exceed those specified in the fourth section of the Act referred to in subsection (a) (\[former\] 40 U.S.C. 318c).
 
-“(c) Agency personnel designated by the Director of the National Security Agency under subsection (a) shall be clearly identifiable as United States Government security personnel while engaged in the performance of the functions to which subsection (a) refers. \[Added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1978; amended Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406.\]
+“(c) Agency personnel designated by the Director of the National Security Agency under subsection (a) shall be clearly identifiable as United States Government security personnel while engaged in the performance of the functions to which subsection (a) refers. \[Added Pub. L. 96–450, title IV, §402(a)(1), Oct. 14, 1980, 94 Stat. 1978; amended Pub. L. 107–108, title V, §506, Dec. 28, 2001, 115 Stat. 1406; Pub. L. 107–306, title VIII, §841(f), Nov. 27, 2002, 116 Stat. 2432.\]
 
 “
 
@@ -350,7 +350,7 @@ Sec. 12. (a)(1) The Secretary of Defense (or his designee) may by regulation est
 
 &emsp;“(B) provide that positions in the Senior Cryptologic Executive Service meet requirements that are consistent with the provisions of section 3132(a)(2) of such title;
 
-&emsp;“(C) provide, without regard to section 2, rates of pay for the Senior Cryptologic Executive Service that are not in excess of the maximum rate or less than the minimum rate of basic pay established for the Senior Executive Service under section 5382 of such title, and that are adjusted at the same timeand to the same extent as rates of basic pay for the Senior Executive Service are adjusted;
+&emsp;“(C) provide, without regard to section 2, rates of pay for the Senior Cryptologic Executive Service that are not in excess of the maximum rate or less than the minimum rate of basic pay established for the Senior Executive Service under section 5382 of such title, and that are adjusted at the same time and to the same extent as rates of basic pay for the Senior Executive Service are adjusted;
 
 &emsp;“(D) provide a performance appraisal system for the Senior Cryptologic Executive Service that conforms to the provisions of subchapter II of chapter 43 of such title;
 
@@ -448,7 +448,7 @@ Ex. Ord. No. 10700, Feb. 25, 1957, 22 F.R. 1111, as amended by Ex. Ord. No. 1077
 
 #### Ex. Ord. No. 13228. Establishing the Office of Homeland Security and the Homeland Security Council
 
-Ex. Ord. No. 13228, Oct. 8, 2001, 66 F.R. 51812, provided:
+Ex. Ord. No. 13228, Oct. 8, 2001, 66 F.R. 51812, as amended by Ex. Ord. No. 13284, §3, Jan. 23, 2003, 68 F.R. 4075; Ex. Ord. No. 13286, §8, Feb. 28, 2003, 68 F.R. 10622, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
 
@@ -526,7 +526,7 @@ Sec. 3. <i>Functions</i>. The functions of the Office shall be to coordinate the
 
 &emsp;(v) coordinate containment and removal of biological, chemical, radiological, explosive, or other hazardous materials in the event of a terrorist threat or attack involving such hazards and coordinate efforts to mitigate the effects of such an attack.
 
-(g) <i>Incident Management</i>. The Assistant to the President for Homeland Security shall be the individual primarily responsible for coordinating the domestic response efforts of all departments and agencies in the event of an imminent terrorist threat and during and in the immediate aftermath of a terrorist attack within the United States and shall be the principal point of contact for and to the President with respect to coordination of such efforts. The Assistant to the President for Homeland Security shall coordinate with the Assistant to the President for National Security Affairs, as appropriate.
+(g) <i>Incident Management</i>. Consistent with applicable law, including the statutory functions of the Secretary of Homeland Security, the Assistant to the President for Homeland Security shall be the official primarily responsible for advising and assisting the President in the coordination of domestic incident management activities of all departments and agencies in the event of a terrorist threat, and during and in the aftermath ofterrorist attacks, major disasters, or other emergencies, within the United States. Generally, the Assistant to the President for Homeland Security shall serve as the principal point of contact for and to the President with respect to the coordination of such activities. The Assistant to the President for Homeland Security shall coordinate with the Assistant to the President for National Security Affairs, as appropriate.
 
 (h) <i>Continuity of Government</i>. The Assistant to the President for Homeland Security, in coordination with the Assistant to the President for National Security Affairs, shall review plans and preparations for ensuring the continuity of the Federal Government in the event of a terrorist attack that threatens the safety and security of the United States Government or its leadership.
 
@@ -550,13 +550,13 @@ Sec. 5. <i>Establishment of Homeland Security Council.</i>
 
 (a) I hereby establish a Homeland Security Council (the “Council”), which shall be responsible for advising and assisting the President with respect to all aspects of homeland security. The Council shall serve as the mechanism for ensuring coordination of homeland security-related activities of executive departments and agencies and effective development and implementation of homeland security policies.
 
-(b) The Council shall have as its members the President, the Vice President, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of Health and Human Services, the Secretary of Transportation, the Director of the Federal Emergency Management Agency, the Director of the Federal Bureau of Investigation, the Director of Central Intelligence, the Assistant to the President for Homeland Security, and such other officers of the executive branch as the President may from time to time designate. The Chief of Staff, the Chief of Staff to the Vice President, the Assistant to the President for National Security Affairs, the Counsel to the President, and the Director of the Office of Management and Budget also are invited to attend any Council meeting. The Secretary of State, the Secretary of Agriculture, the Secretary of the Interior, the Secretary of Energy, the Secretary of Labor, the Secretary of Commerce, the Secretary of Veterans Affairs, the Administrator of the Environmental Protection Agency, the Assistant to the President for Economic Policy, and the Assistant to the President for Domestic Policy shall be invited to attend meetings pertaining to their responsibilities. The heads of other executive departments and agencies and other senior officials shall be invited to attend Council meetings when appropriate.
+(b) The Council shall have as its members the President, the Vice President, the Secretary of the Treasury, the Secretary of Defense, the Attorney General, the Secretary of Health and Human Services, the Secretary of Transportation, the Secretary of Homeland Security, the Director of the Federal Emergency Management Agency, the Director of the Federal Bureau of Investigation, the Director of Central Intelligence, the Assistant to the President for Homeland Security, and such other officers of the executive branch as the President may from time to time designate. The Chief of Staff, the Chief of Staff to the Vice President, the Assistant to the President for National Security Affairs, the Counsel to the President, and the Director of the Office of Management and Budget also are invited to attend any Council meeting. The Secretary of State, the Secretary of Agriculture, the Secretary of the Interior, the Secretary of Energy, the Secretary of Labor, the Secretary of Commerce, the Secretary of Veterans Affairs, the Administrator of the Environmental Protection Agency, the Assistant to the President for Economic Policy, and the Assistant to the President for Domestic Policy shall be invited to attend meetings pertaining to their responsibilities. The heads of other executive departments and agencies and other senior officials shall be invited to attend Council meetings when appropriate.
 
 (c) The Council shall meet at the President's direction. When the President is absent from a meeting of the Council, at the President's direction the Vice President may preside. The Assistant to the President for Homeland Security shall be responsible, at the President's direction, for determining the agenda, ensuring that necessary papers are prepared, and recording Council actions and Presidential decisions.
 
 Sec. 6. <i>Original Classification Authority</i>. I hereby delegate the authority to classify information originally as Top Secret, in accordance with Executive Order 12958 \[50 U.S.C. 435 note\] or any successor Executive Order, to the Assistant to the President for Homeland Security.
 
-Sec. 7. <i>Continuing Authorities</i>. This order does not alter the existing authorities of United States Government departments and agencies. All executive departments and agencies are directed to assist the Council and the Assistant to the President for Homeland Security in carrying out the purposes of this order.
+Sec. 7. <i>Continuing Authorities</i>. This order does not alter the existing authorities of United States Government departments and agencies, including the Department of Homeland Security. All executive departments and agencies are directed to assist the Council and the Assistant to the President for Homeland Security in carrying out the purposes of this order.
 
 Sec. 8. <i>General Provisions.</i>
 
@@ -574,7 +574,7 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13231, Oct. 16, 2001, 66 F.R. 53063, provided:
 
-By the authority vested in me as President by the Constitution and the laws of the United States of America, and in order to ensure protection of information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems, in the information age, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and the laws of the United States ofAmerica, and in order to ensure protection of information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems, in the information age, it is hereby ordered as follows:
 
 Section 1. <i>Policy.</i>
 
@@ -620,7 +620,7 @@ Sec. 5. <i>Board Responsibilities</i>. Consistent with the responsibilities note
 
 (d) <i>Recruitment, Retention, and Training Executive Branch Security Professionals</i>. In consultation with executive branch departments and agencies, coordinate programs to ensure that government employees with responsibilities for protecting information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems, are adequately trained and evaluated. In this function, the Office of Personnel Management shall work in coordination with the Board, as appropriate.
 
-(e) <i>Research and Development</i>. Coordinate with the Director of the Office of Science and Technology Policy (OSTP) on a program of Federal Government research and development for protection of information systemsfor critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems, and ensure coordination of government activities in this field with corporations, universities, Federally funded research centers, and national laboratories. In this function, the Board shall work in coordination with the National Science Foundation, the Defense Advanced Research Projects Agency, and with other departments and agencies, as appropriate.
+(e) <i>Research and Development</i>. Coordinate with the Director of the Office of Science and Technology Policy (OSTP) on a program of Federal Government research and development for protection of information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems, and ensure coordination of government activities in this field with corporations, universities, Federally funded research centers, and national laboratories. In this function, the Board shall work in coordination with the National Science Foundation, the Defense Advanced Research Projects Agency, and with other departments and agencies, as appropriate.
 
 (f) <i>Law Enforcement Coordination with National Security Components</i>. Promote programs against cyber crime and assist Federal law enforcement agencies in gaining necessary cooperation from executive branch departments and agencies. Support Federal law enforcement agencies’ investigation of illegal activities involving information systems for critical infrastructure, including emergency preparedness communications, and the physical assets that support such systems, and support coordination by these agencies with other departments and agencies with responsibilities to defend the Nation's security. In this function, the Board shall work in coordination with the Department of Justice, through the NIPC, and the Department of the Treasury, through the Secret Service, and with other departments and agencies, as appropriate.
 
@@ -702,7 +702,7 @@ Sec. 8. <i>Standing Committees</i>. (a) The Board may establish standing and ad 
 
 &emsp;(i) <i>Private Sector and State and Local Government Outreach</i>, chaired by the designee of the Secretary of Commerce, to work in coordination with the designee of the Chairman of the National Economic Council.
 
-&emsp;(ii) <i>Executive Branch Information Systems Security</i>, chaired by the designee of the Director of OMB. Thecommittee shall assist OMB in fulfilling its responsibilities under 44 U.S.C. Chapter 35 and other applicable law.
+&emsp;(ii) <i>Executive Branch Information Systems Security</i>, chaired by the designee of the Director of OMB. The committee shall assist OMB in fulfilling its responsibilities under 44 U.S.C. Chapter 35 and other applicable law.
 
 &emsp;(iii) <i>National Security Systems</i>. The National Security Telecommunications and Information Systems Security Committee, as established by and consistent with NSD–42 and chaired by the Department of Defense, shall serve as a Board standing committee, and be redesignated the Committee on National Security Systems.
 
@@ -783,6 +783,50 @@ Sec. 13. <i>Classification Authority</i>. I hereby delegate to the Chair the aut
 Sec. 14. <i>General Provisions</i>. (a) Nothing in this order shall supersede any requirement made by or under law.
 
 (b) This order does not create any right or benefit, substantive or procedural, enforceable at law or equity, against the United States, its departments, agencies or other entities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13260. Establishing the President's Homeland Security Advisory Council and Senior Advisory Committees for Homeland Security
+
+Ex. Ord. No. 13260, Mar. 19, 2002, 67 F.R. 13241, as amended by Ex. Ord. No. 13286, §4, Feb. 28, 2003, 68 F.R. 10619, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>President's Homeland Security Advisory Council.</i>
+
+(a) <i>Establishment and Membership</i>. I hereby establish the President's Homeland Security Advisory Council (PHSAC). The PHSAC shall be composed of not more than 21 members appointed by the President. In addition, the Chair and the Vice Chair of the National Infrastructure Advisory Council; the Chairman of the President's National Security Telecommunications Advisory Committee; and the Chair of the Panel on the Science and Technology of Combating Terrorism, President's Council of Advisors on Science and Technology, shall serve as ex officio members of the PHSAC. The appointed members of the PHSAC shall be selected from the private sector, academia, professional service associations, federally funded research and development centers, nongovernmental organizations, State and local governments, and other appropriate professions and communities.
+
+(b) <i>Chair and Vice Chair</i>. The President shall designate a Chair and Vice Chair from among the appointed members of the PHSAC.
+
+(c) <i>Senior Advisory Committees</i>. (i) <i>Establishment and Membership</i>. The following four Senior Advisory Committees for Homeland Security (SACs) are hereby established to advise the PHSAC: (1) State and Local Officials; (2) Academia and Policy Research; (3) Private Sector; and (4) Emergency Services, Law Enforcement, and Public Health and Hospitals. Each SAC shall generally be composed of not more than 17 members selected by the Secretary of Homeland Security (Secretary). The President may establish additional SACs as appropriate, consistent with this order.
+
+(ii) <i>Chairs and Vice Chairs</i>. The Assistant \[Secretary\] shall from time to time designate a Chair and Vice Chair for each of the SACs from among the PHSAC's members.
+
+(iii) <i>Subcommittees</i>. The Chair of each SAC, in consultation with the PHSAC, may as appropriate establish subcommittees to advise the SAC.
+
+Sec. 2. <i>Functions</i>. The PHSAC shall meet periodically at the Assistant's \[Secretary's\] request to:
+
+(a) provide advice to the President through the Secretary on developing and coordinating the implementation of a comprehensive national strategy to secure the United States from terrorist threats or attacks;
+
+(b) recommend to the President through the Secretary ways to improve coordination, cooperation, and communication among Federal, State, and local officials and private and other entities, and provide a means to collect scholarly research, technological advice, and information concerning processes and organizational management practices both inside and outside of the Federal Government;
+
+(c) provide advice to the President through the Secretary regarding the feasibility of implementing specific measures to detect, prepare for, prevent, protect against, respond to, and recover from terrorist threats or attacks within the United States;
+
+(d) examine, and advise the President through the Secretary on, the effectiveness of the implementation of specific strategies to detect, prepare for, prevent, protect against, respond to, and recover from terrorist threats or attacks within the United States; and
+
+(e) report periodically, as appropriate, to the President through the Secretary on matters within the scope of the PHSAC's functions as described in paragraphs (a) through (d) of this section.
+
+Sec. 3. <i>Administration</i>. (a) Upon the request of the Chair of the PHSAC, through the Secretary, and to the extent permitted by law, the heads of executive departments and agencies shall provide the PHSAC with such information relating to homeland security matters as the PHSAC may need for the purpose of carrying out its functions.
+
+(b) The PHSAC shall have an Executive Director selected by the Secretary.
+
+(c) Members shall serve without compensation for their work on the PHSAC, the SACs, and any subcommittees thereof. However, members shall be allowed travel expenses, including per diem in lieu of subsistence, as authorized by law for persons serving intermittently in Federal Government service (5 U.S.C. 5701–5707).
+
+(d) To the extent permitted by law, and subject to the availability of appropriations, the Department of Homeland Security shall provide the PHSAC with administrative support and with such funds as may be necessary for the performance of the PHSAC's functions.
+
+Sec. 4. <i>General Provisions</i>. (a) Insofar as the Federal Advisory Committee Act, as amended (5 U.S.C. App.) (Act), may apply to the administration of any portion of this order, any functions of the President under that Act, except that of reporting to the Congress, shall be performed by the Secretary of Homeland Security in accordance with the guidelines that have been issued by the Administrator of General Services.
+
+(b) The PHSAC, any SACs, and any SAC subcommittees shall terminate 2 years from the date of this order unless extended by the President.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -52,7 +52,7 @@ Limitation on statutory construction.—Nothing in this subsection shall be cons
 
 &emsp;(4)
 
-Continuing designation.—A designation of a metropolitan planning organization under this subsection or any other provision of law shall remain in effect until the metropolitan planning organization is redesignated under paragraph (5).
+Continuing designation.—A designation of a metropolitan planning organization under this subsection or any other provision of law shall remain in effect until the metropolitanplanning organization is redesignated under paragraph (5).
 
 &emsp;(5)
 
@@ -64,7 +64,7 @@ Procedures.—A metropolitan planning organization may be redesignated by agreem
 
 &emsp;&emsp;(B)
 
-Certain requests to redesignate.—A metropolitan planning organization shall be redesignated upon request of a unit or units of general purpose local government representing at least 25 percent of the affected population (including the central city or cities as defined by the Bureau of the Census) in any urbanized area (i) whose population is more than 5,000,000 but less than 10,000,000,or (ii) which is an extreme nonattainment area for ozone or carbon monoxide as defined under the Clean Air Act. Such redesignation shall be accomplished using procedures established by subparagraph (A).
+Certain requests to redesignate.—A metropolitan planning organization shall be redesignated upon request of a unit or units of general purpose local government representing at least 25 percent of the affected population (including the central city or cities as defined by the Bureau of the Census) in any urbanized area (i) whose population is more than 5,000,000 but less than 10,000,000, or (ii) which is an extreme nonattainment area for ozone or carbon monoxide as defined under the Clean Air Act. Such redesignation shall be accomplished using procedures established by subparagraph (A).
 
 &emsp;(6)
 
@@ -148,7 +148,7 @@ Involvement of federal land management agencies.—
 
 &emsp;&emsp;&emsp;&emsp;(I)
 
-Representation.—The policy board of a metropolitan planning organization designated under clause (i) shall include a representative of each Federal land management agency that has jurisdiction over land in the Lake Tahoe region.
+Representation.—The policy board of a metropolitan planning organization designated under clause (i) shall includea representative of each Federal land management agency that has jurisdiction over land in the Lake Tahoe region.
 
 &emsp;&emsp;&emsp;&emsp;(II)
 
@@ -226,7 +226,7 @@ Long-range transportation plan.—A long-range transportation plan under this se
 
 &emsp;&emsp;(C) Assess capital investment and other measures necessary to—
 
-&emsp;&emsp;&emsp;(i) ensure the preservation of the existing metropolitan transportation system, including requirements for operational improvements, resurfacing, restoration, and rehabilitation of existing and future major roadways, as well as operations, maintenance, modernization, and rehabilitation of existing and future transit facilities; and
+&emsp;&emsp;&emsp;(i) ensure the preservation of the existing metropolitan transportation system, including requirements for operational improvements, resurfacing, restoration, andrehabilitation of existing and future major roadways, as well as operations, maintenance, modernization, and rehabilitation of existing and future transit facilities; and
 
 &emsp;&emsp;&emsp;(ii) make the most efficient use of existing transportation facilities to relieve vehicular congestion and maximize the mobility of people and goods.
 
@@ -322,7 +322,7 @@ Requirement of anticipated full funding.—The program shall include a project, 
 
 &emsp;(4)
 
-Notice and comment.—Before approving a transportation improvement program, a metropolitan planning organization shall, in cooperation with the State and any affected public transit operator, provide citizens, affected public agencies, representatives of transportation agency employees, freight shippers, providers of freight transportation services, private providers of transportation, representatives of users of public transit, and other interested parties with reasonable notice of and an opportunity to comment on the proposed program.
+Notice and comment.—Before approving a transportation improvement program, ametropolitan planning organization shall, in cooperation with the State and any affected public transit operator, provide citizens, affected public agencies, representatives of transportation agency employees, freight shippers, providers of freight transportation services, private providers of transportation, representatives of users of public transit, and other interested parties with reasonable notice of and an opportunity to comment on the proposed program.
 
 &emsp;(5)
 
@@ -434,7 +434,7 @@ Withholding of funds.—If a metropolitan planning process is not certified, the
 
 &emsp;&emsp;&emsp;(ii)
 
-Restoration of withheld funds.—The withheld apportionments shall be restored to the metropolitan area at suchtime as the metropolitan planning organization is certified by the Secretary.
+Restoration of withheld funds.—The withheld apportionments shall be restored to the metropolitan area at such time as the metropolitan planning organization is certified by the Secretary.
 
 &emsp;&emsp;&emsp;(iii)
 
@@ -506,7 +506,7 @@ Public Law 96–551, referred to in subsec. (d)(3)(A), is Pub. L. 96–551, Dec.
 
 The Federal-Aid Highway Act of 1991, referred to in subsec. (k), was not enacted into law. However, provisions referred to as the Federal-Aid Highway Act of 1991 were contained in several bills and are similar to those appearing in part A of title I of Pub. L. 102–240, Dec. 18, 1991, 105 Stat. 1914, which Act is known as the Intermodal Surface Transportation Efficiency Act of 1991. For classification of that Act to the Code, see Short Title of 1991 Amendment note set out under section 101 of Title 49, Transportation, and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (<i>o</i>), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally tochapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (<i>o</i>), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 #### Amendments
 
@@ -552,7 +552,7 @@ Subsec. (g)(2). Pub. L. 105–178, §1203(g)(1), (7), (8), substituted “Long-r
 
 Subsec. (g)(2)(A). Pub. L. 105–178, §1203(g)(2), (8), substituted “An identification of” for “Identify” and “long-range transportation plan” for “long range plan”.
 
-Subsec. (g)(2)(B). Pub. L. 105–178, §1203(g)(3), added subpar. (B) and struck out former subpar. (B) which read as follows: “Include a financial plan that demonstrates how the long-range plan can be implemented, indicates resources from public and private sources that are reasonably expected to be made available to carry out the plan, and recommends any innovative financing techniques to finance needed projects and programs, including such techniques as value capture, tolls and congestion pricing.”
+Subsec. (g)(2)(B). Pub. L. 105–178, §1203(g)(3), added subpar. (B) and struck out former subpar. (B) whichread as follows: “Include a financial plan that demonstrates how the long-range plan can be implemented, indicates resources from public and private sources that are reasonably expected to be made available to carry out the plan, and recommends any innovative financing techniques to finance needed projects and programs, including such techniques as value capture, tolls and congestion pricing.”
 
 Subsec. (g)(3). Pub. L. 105–178, §1203(g)(8), substituted “long-range transportation plan” for “long range plan”.
 
@@ -592,7 +592,7 @@ Subsecs. (<i>l</i>), (m). Pub. L. 103–429, §3(5)(C), substituted “chapter 5
 
 1992—Subsec. (k). Pub. L. 102–388 inserted at end “The provisions of title 23, United States Code, regarding the non-Federal share shall apply to title 23 funds used for transit projects and the provisions of the Federal Transit Act regarding non-Federal share shall apply to Federal Transit Act funds used for highway projects.”
 
-1991—Pub. L. 102–240 substituted section catchline for one which read: “Transportation planning in certain urban areas” and amended text generally, substituting present provisions for provisions relating to transportation planning in certain urban areas, including provisions stating transportation objectives, requiring continuing comprehensive planning process by States and local communities, and relating to redesignation of metropolitan planning organizations, designation of contiguous interstate areas as critical transportation regions and corridors, establishment of planning bodies for such regions and corridors, and authorization of appropriations.
+1991—Pub. L. 102–240 substituted section catchline for one which read: “Transportation planning in certain urban areas” and amended text generally, substituting present provisions for provisions relating to transportation planning in certain urban areas, including provisions stating transportation objectives, requiring continuing comprehensive planning process by States and local communities, and relating to redesignation of metropolitan planning organizations, designation of contiguous interstate areas as critical transportationregions and corridors, establishment of planning bodies for such regions and corridors, and authorization of appropriations.
 
 1978—Subsec. (a). Pub. L. 95–599, §169(a), inserted provisions related to cooperation with local officials and specific considerations in the planning process.
 
@@ -602,7 +602,7 @@ Subsecs. (b), (c). Pub. L. 95–599, §169(b), added subsec. (b) and redesignate
 
 #### Effective Date of 1998 Amendment
 
-Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day beforeJuly 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
+Title IX of Pub. L. 105–206 effective simultaneously with enactment of Pub. L. 105–178 and to be treated as included in Pub. L. 105–178 at time of enactment, and provisions of Pub. L. 105–178, as in effect on day before July 22, 1998, that are amended by title IX of Pub. L. 105–206 to be treated as not enacted, see section 9016 of Pub. L. 105–206, set out as a note under section 101 of this title.
 
 #### Effective Date of 1991 Amendment
 

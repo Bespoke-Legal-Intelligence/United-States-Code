@@ -26,11 +26,11 @@ The Surgeon General, with the approval of the Federal Hospital Council and the S
 
 #### (c) Criteria for determining needs for beds, hospitals and other facilities; plans for distribution of beds and facilities
 
-&emsp;criteria for determining needs for general hospital and long-term care beds, and needs for hospitals and other facilities for which aid under this part is available, and for developing plans for the distribution of such beds and facilities;
+&emsp;criteria for determining needs for general hospital and long-term care beds, and needs for hospitals and other facilities for which aidunder this part is available, and for developing plans for the distribution of such beds and facilities;
 
 #### (d) Criteria for determining need for modernization
 
-&emsp;criteria for determining the extent to which existing facilities, for which aid under thispart is available, are in need of modernization; and
+&emsp;criteria for determining the extent to which existing facilities, for which aid under this part is available, are in need of modernization; and
 
 #### (e) State plan requirements; assurances necessary for approval of application
 

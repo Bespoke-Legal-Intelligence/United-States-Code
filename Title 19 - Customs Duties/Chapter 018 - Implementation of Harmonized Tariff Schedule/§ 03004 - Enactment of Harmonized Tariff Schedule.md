@@ -46,7 +46,7 @@ At the earliest practicable date after August 23, 1988, the President shall—
 
 (3) If a rate of duty established in column 1 by the President by proclamation or Executive order is higher than the existing rate of duty in column 2, the President may by proclamation or Executive order increase such existing rate to the higher rate.
 
-(4) If a rate of duty is suspended or terminated by the President by proclamation or Executive order and the proclamation or Executive order does not specify the rate that is to apply in lieu of the suspended or terminated rate, the lastrate of duty that applied prior to the suspended or terminated rate shall be the efffective <sup>2</sup> rate of duty.
+(4) If a rate of duty is suspended or terminated by the President by proclamation or Executive order and the proclamation or Executive order does not specify the rate that is to apply in lieu of the suspended or terminated rate, the last rate of duty that applied prior to the suspended or terminated rate shall be the efffective <sup>2</sup> rate of duty.
 
 #### (d) Interim informational use of Harmonized Tariff Schedule classifications
 

@@ -10,7 +10,7 @@ No compensation shall be payable in respect of the disability or death of an off
 
 #### (c) Intoxication; willful intention to kill
 
-No compensation shall be payable if the injury was occasioned solely by the intoxication of theemployee or by the willful intention of the employee to injure or kill himself or another.
+No compensation shall be payable if the injury was occasioned solely by the intoxication of the employee or by the willful intention of the employee to injure or kill himself or another.
 
 #### (d) Small vessels
 
@@ -50,7 +50,7 @@ Subsec. (a)(1). Pub. L. 92–576, §21, substituted “or” for “nor” befor
 
 #### Effective Date of 1984 Amendment
 
-Amendment by section 3(a) of Pub. L. 98–426 applicable with respect to any injury after Sept. 28, 1984, and amendment by section 3(b) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after Sept. 28, 1984, and to claims pending on that date, see section 28(a), (c) of Pub. L. 98–426, set out as a note under section 901 of this title.
+Amendment by section 3(a) of Pub. L. 98–426 applicable with respect to any injury after Sept. 28, 1984, and amendment by section 3(b) of Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect toclaims filed after Sept. 28, 1984, and to claims pending on that date, see section 28(a), (c) of Pub. L. 98–426, set out as a note under section 901 of this title.
 
 #### Effective Date of 1972 Amendment
 

@@ -20,5 +20,5 @@ The Secretary is authorized to provide for the incidental expenses of such volun
 
 #### References in Text
 
-The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a), are classified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
+The provisions of title 5 governing appointments in the competitive service, referred to in subsec. (a), areclassified generally to section 3301 et seq. of Title 5, Government Organization and Employees.
 

@@ -114,7 +114,7 @@ A derivatives clearing organization shall be deemed to be registered under this 
 
 #### (1) In general
 
-&emsp;If a proceeding under section 7b of this title results in the suspension or revocation of theregistration of a derivatives clearing organization, or if a derivatives clearing organization withdraws from registration, the Commission, on notice to the derivatives clearing organization, may apply to the appropriate United States district court where the derivatives clearing organization is located for the appointment of a trustee.
+&emsp;If a proceeding under section 7b of this title results in the suspension or revocation of the registration of a derivatives clearing organization, or if a derivatives clearing organization withdraws from registration, the Commission, on notice to the derivatives clearing organization, may apply to the appropriate United States district court where the derivatives clearing organization is located for the appointment of a trustee.
 
 #### (2) Assumption of jurisdiction
 

@@ -1,0 +1,64 @@
+### §5754. Restriction on importation of previously exported tobacco products
+
+#### (a) Export-labeled tobacco products
+
+#### (1) In general
+
+&emsp;Tobacco products and cigarette papers and tubes manufactured in the United States and labeled for exportation under this chapter—
+
+&emsp;&emsp;(A) may be transferred to or removed from the premises of a manufacturer or an export warehouse proprietor only if such articles are being transferred or removed without tax in accordance with section 5704;
+
+&emsp;&emsp;(B) may be imported or brought into the United States, after their exportation, only if such articles either are eligible to be released from customs custody with the partial duty exemption provided in section 5704(d) or are returned to the original manufacturer of such article as provided in section 5704(c); and
+
+&emsp;&emsp;(C) may not be sold or held for sale for domestic consumption in the United States unless such articles are removed from their export packaging and repackaged by the original manufacturer into new packaging that does not contain an export label.
+
+#### (2) Alterations by persons other than original manufacturer
+
+&emsp;This section shall apply to articles labeled for export even if the packaging or the appearance of such packaging to the consumer of such articles has been modified or altered by a person other than the original manufacturer so as to remove or conceal or attempt to remove or conceal (including by the placement of a sticker over) any export label.
+
+#### (3) Exports include shipments to Puerto Rico
+
+&emsp;For purposes of this section, section 5704(d), section 5761, and such other provisions as the Secretary may specify by regulations, references to exportation shall be treated as including a reference to shipment to the Commonwealth of Puerto Rico.
+
+#### (b) Export label
+
+For purposes of this section, an article is labeled for export or contains an export label if it bears the mark, label, or notice required under section 5704(b).
+
+#### (c) Cross references
+
+&emsp;&emsp;<b>(1) For exception to this section for personal use, see section 5761(c).</b>
+
+&emsp;&emsp;<b>(2) For civil penalties related to violations of this section, see section 5761(c).</b>
+
+&emsp;&emsp;<b>(3) For a criminal penalty applicable to any violation of this section, see section 5762(b).</b>
+
+&emsp;&emsp;<b>(4) For forfeiture provisions related to violations of this section, see section 5761(c).</b>
+
+(Added Pub. L. 105–33, title IX, §9302(h)(1)(E)(i), Aug. 5, 1997, 111 Stat. 673; amended Pub. L. 106–476, title IV, §4002(a), Nov. 9, 2000, 114 Stat. 2176.)
+
+#### Amendments
+
+2000—Pub. L. 106–476 reenacted section catchline without change and amended text generally. Prior to amendment, text read as follows:
+
+“(a)
+
+In General.—Tobacco products and cigarette papers and tubes previously exported from the United States may be imported or brought into the United States only as provided in section 5704(d). For purposes of this section, section 5704(d), section 5761, and such other provisions as the Secretary may specify by regulations, references to exportation shall be treated as including a reference to shipment to the Commonwealth of Puerto Rico.
+
+“(b)
+
+Cross Reference.—
+
+&emsp;<b>“For penalty for the sale of tobacco products and cigarette papers and tubes in the United States which are labeled for export, see section 5761(c).”</b>
+
+#### Effective Date of 2000 Amendment
+
+Amendment by Pub. L. 106–476 effective 90 days after Nov. 9, 2000, see section 4002(d) of Pub. L. 106–476, set out as a note under section 5704 of this title.
+
+#### Effective Date
+
+Section applicable to articles removed, as defined in section 5702(j) of this title, after Dec. 31, 1999, with transition rule, see section 9302(i) of Pub. L. 105–33, set out as an Effective Date of 1997 Amendment note under section 5701 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 5761 of this title; title 19 section 1681a.
+

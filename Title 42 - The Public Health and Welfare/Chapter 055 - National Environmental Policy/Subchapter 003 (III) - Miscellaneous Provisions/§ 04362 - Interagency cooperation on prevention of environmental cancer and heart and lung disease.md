@@ -8,7 +8,7 @@
 
 &emsp;(2) recommend comprehensive strategies to reduce or eliminate the risks of cancer or such other diseases associated with environmental pollution;
 
-&emsp;(3) recommend research and such other measures as may be appropriate to prevent orreduce the incidence of environmentally related cancer and heart and lung diseases;
+&emsp;(3) recommend research and such other measures as may be appropriate to prevent or reduce the incidence of environmentally related cancer and heart and lung diseases;
 
 &emsp;(4) coordinate research by, and stimulate cooperation between, the Environmental Protection Agency, the Department of Health and Human Services, and such other agencies as may be appropriate to prevent environmentally related cancer and heart and lung diseases; and
 

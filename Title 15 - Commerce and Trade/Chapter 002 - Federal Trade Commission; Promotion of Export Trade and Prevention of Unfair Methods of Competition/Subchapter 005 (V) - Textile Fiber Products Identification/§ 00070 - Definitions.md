@@ -30,7 +30,7 @@ As used in this subchapter—
 
 (j) The term “Commission” means the Federal Trade Commission.
 
-(k) The term “commerce” means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any suchTerritory and any State or foreign nation or between the District of Columbia and any State or Territory or foreign nation.
+(k) The term “commerce” means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation or between the District of Columbia and any State or Territory or foreign nation.
 
 (<i>l</i>) The term “Territory” includes the insular possessions of the United States, and also any Territory of the United States.
 

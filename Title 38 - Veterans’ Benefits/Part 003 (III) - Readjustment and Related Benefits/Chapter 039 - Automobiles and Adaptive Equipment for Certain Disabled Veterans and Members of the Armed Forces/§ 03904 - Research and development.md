@@ -28,7 +28,7 @@ Prior sections 4008 to 4010, 4051 to 4056, 4061 to 4069, 4081 to 4085, 4091, 409
 
 #### Amendments
 
-1998—Subsec. (b). Pub. L. 105–220 substituted “section 204(b)(3) of the Rehabilitation Act of 1973” for “section 204(b)(2) of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2))”.
+1998—Subsec. (b). Pub. L. 105–220 substituted “section 204(b)(3) of the Rehabilitation Act of 1973” for “section204(b)(2) of the Rehabilitation Act of 1973 (29 U.S.C. 762(b)(2))”.
 
 1992—Subsecs. (a), (b). Pub. L. 102–405 substituted “Under Secretary for Health” for “Chief Medical Director”.
 
@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 102–83, §4(b)(1), (2)(E), substituted “Secretary” fo
 
 1976—Pub. L. 94–581, §205(b)(2), struck out “; coordination with other Federal programs” in section catchline.
 
-Subsec. (a). Pub. L. 94–581, §205(b)(3), substituted “medical and prosthetic research” for “prosthetic andorthopedic appliance research under section 216 and medical research”.
+Subsec. (a). Pub. L. 94–581, §205(b)(3), substituted “medical and prosthetic research” for “prosthetic and orthopedic appliance research under section 216 and medical research”.
 
 #### Effective Date of 1976 Amendment
 

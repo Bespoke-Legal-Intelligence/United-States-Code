@@ -38,7 +38,7 @@ Section 9703(g) of title 31, referred to in subsec. (b), probably means the sect
 
 #### Codification
 
-Subsec. (g) of this section, which required the President to submit to both Houses of Congress, no laterthan 4 months after the end of each fiscal year, a detailed report on amounts deposited in the Fund and a description of expenditures, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 18 of House Document No. 103–7.
+Subsec. (g) of this section, which required the President to submit to both Houses of Congress, no later than 4 months after the end of each fiscal year, a detailed report on amounts deposited in the Fund and a description of expenditures, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 18 of House Document No. 103–7.
 
 Section was enacted as part of the Anti-Drug Abuse Act of 1988 and as part of the Asset Forfeiture Amendments Act of 1988, and not as part of the National Narcotics Leadership Act of 1988 which comprises this chapter.
 
@@ -58,7 +58,7 @@ Subsecs. (c) to (g). Pub. L. 103–322, §90205(d), added subsec. (c) and redesi
 
 1992—Subsec. (b). Pub. L. 102–393 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Deposits in the Fund shall be made by transfer from the Department of Justice Assets Forfeiture Fund in the manner provided in section 524(c)(9) of title 28.”
 
-1990—Subsec. (b). Pub. L. 101–647 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Beginning in fiscal year 1990, there shall be deposited in the Fund not to exceed $150,000,000 in unobligated amounts remaining at the end of each fiscal year from the Department of Justice Assets Forfeiture Fund (28 U.S.C. 524(c)) except that amounts specified in section 524(c)(9) of title 28 may be carried forward and remain available for appropriation in the next fiscal year.”
+1990—Subsec. (b). Pub. L. 101–647 amended subsec. (b) generally. Prior to amendment, subsec. (b) read as follows: “Beginning in fiscal year 1990, there shall be deposited in the Fund not to exceed $150,000,000 in unobligated amounts remaining at the end of each fiscal yearfrom the Department of Justice Assets Forfeiture Fund (28 U.S.C. 524(c)) except that amounts specified in section 524(c)(9) of title 28 may be carried forward and remain available for appropriation in the next fiscal year.”
 
 #### Termination Date of 1998 Amendment
 

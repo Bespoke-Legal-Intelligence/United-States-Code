@@ -4,7 +4,7 @@ Kentucky is divided into two judicial districts to be known as the Eastern and W
 
 ### Eastern District
 
-(a) The Eastern District comprises the counties of Anderson, Bath, Bell, Boone, Bourbon, Boyd, Boyle, Bracken, Breathitt, Campbell, Carroll, Carter, Clark, Clay, Elliott, Estill, Fayette, Fleming, Floyd, Franklin, Gallatin, Garrard, Grant, Greenup, Harlan, Harrison, Henry, Jackson, Jessamine, Johnson, Kenton, Knott, Knox, Laurel, Lawrence, Lee, Leslie, Letcher, Lewis, Lincoln, McCreary, Madison, Magoffin, Martin, Mason, Menifee, Mercer, Montgomery, Morgan, Nicholas, Owen, Owsley, Pendleton, Perry, Pike, Powell, Pulaski, Robertson, Rockcastle, Rowan, Scott, Shelby, Trimble, Wayne, Whitley, Wolfe, and Woodford.
+(a) The Eastern District comprises the counties of Anderson, Bath, Bell, Boone, Bourbon, Boyd, Boyle, Bracken, Breathitt, Campbell, Carroll, Carter, Clark, Clay, Elliott, Estill, Fayette, Fleming, Floyd, Franklin, Gallatin, Garrard, Grant, Greenup, Harlan, Harrison, Henry, Jackson, Jessamine, Johnson, Kenton, Knott, Knox,Laurel, Lawrence, Lee, Leslie, Letcher, Lewis, Lincoln, McCreary, Madison, Magoffin, Martin, Mason, Menifee, Mercer, Montgomery, Morgan, Nicholas, Owen, Owsley, Pendleton, Perry, Pike, Powell, Pulaski, Robertson, Rockcastle, Rowan, Scott, Shelby, Trimble, Wayne, Whitley, Wolfe, and Woodford.
 
 &emsp;&emsp;Court for the Eastern District shall be held at Ashland, Catlettsburg, Covington, Frankfort, Jackson, Lexington, London, Pikeville, and Richmond.
 
@@ -34,7 +34,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1978</b>—Subsec. (a). Pub. L. 95–408 provided for holding court at Ashland.
+1978—Subsec. (a). Pub. L. 95–408 provided for holding court at Ashland.
 
 #### Effective Date of 1978 Amendment; Savings Provision
 

@@ -252,5 +252,5 @@ Pub. L. 106–181, title IX, §905, Apr. 5, 2000, 114 Stat. 196, provided that: 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 40119, 44501, 44508, 48102 of this title.
+This section is referred to in sections 44501, 44508, 48102 of this title.
 

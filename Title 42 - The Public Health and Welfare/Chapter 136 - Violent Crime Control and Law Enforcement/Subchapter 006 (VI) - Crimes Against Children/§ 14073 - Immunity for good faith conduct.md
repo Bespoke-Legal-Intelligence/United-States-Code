@@ -6,7 +6,7 @@ State and Federal law enforcement agencies, employees of State and Federal law e
 
 #### References in Text
 
-Section 14072 of this title, referred to in text, was in the original “section 170102”, which was translated as meaning section 170102 of Pub. L. 103–322, as added by Pub. L. 104–236, to reflect the probable intent of Congress. Pub. L. 104–236, which enacted this section, contains no section 170102.
+Section 14072 of this title, referred to in text, was in the original “section 170102”, which was translated asmeaning section 170102 of Pub. L. 103–322, as added by Pub. L. 104–236, to reflect the probable intent of Congress. Pub. L. 104–236, which enacted this section, contains no section 170102.
 
 #### Codification
 

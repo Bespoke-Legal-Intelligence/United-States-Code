@@ -36,7 +36,7 @@ Section was formerly classified to section 1857f–9 of this title.
 
 1977—Subsec. (a)(2). Pub. L. 95–95, §401(f), substituted “The Administrator shall, from time to time, issue proposed emission standards applicable to the emission of any air pollutant from any class or classes of aircraft engines which in his judgment causes, or contributes to, air pollution which may reasonably be anticipated to endanger public health or welfare” for “Within 180 days after commencing such study and investigation, the Administrator shall publish a report of such study and investigation and shall issue proposed emission standards applicable to emissions of any air pollutant from any class or classes of aircraft or aircraft engines which in his judgment cause or contribute to or are likely to cause or contribute to air pollution which endangers the public health or welfare”.
 
-Subsec. (c). Pub. L. 95–95, §225, substituted “Any regulations in effect under this section on August 7, 1977, or proposed or promulgated thereafter, or amendments thereto, with respect to aircraft shall not apply if disapproved by the President, after notice and opportunity for public hearing, on the basis of a finding by the Secretary of Transportation that any such regulation would create a hazard to aircraft safety” for “Any regulations under this section, or amendments thereto,with respect to aircraft, shall be prescribed only after consultation with the Secretary of Transportation in order to assure appropriate consideration for aircraft safety” and inserted provision that findings include a reasonably specific statement of the basis upon which the finding was made.
+Subsec. (c). Pub. L. 95–95, §225, substituted “Any regulations in effect under this section on August 7, 1977, or proposed or promulgated thereafter, or amendments thereto, with respect to aircraft shall not apply if disapproved by the President, after notice and opportunity for public hearing, on the basis of a finding by the Secretary of Transportation that any such regulation would create a hazard to aircraft safety” for “Any regulations under this section, or amendments thereto, with respect to aircraft, shall be prescribed only after consultation with the Secretary of Transportation in order to assure appropriate consideration for aircraft safety” and inserted provision that findings include a reasonably specific statement of the basis upon which the finding was made.
 
 #### Effective Date of 1996 Amendment
 
@@ -44,7 +44,7 @@ Except as otherwise specifically provided, amendment by Pub. L. 104–264 applic
 
 #### Effective Date of 1977 Amendment
 
-Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d) of Pub. L. 95–95, set out as a note under section 7401 of this title.
+Amendment by Pub. L. 95–95 effective Aug. 7, 1977, except as otherwise expressly provided, see section 406(d)of Pub. L. 95–95, set out as a note under section 7401 of this title.
 
 #### Modification or Rescission of Rules, Regulations, Orders, Determinations, Contracts, Certifications, Authorizations, Delegations, and Other Actions
 

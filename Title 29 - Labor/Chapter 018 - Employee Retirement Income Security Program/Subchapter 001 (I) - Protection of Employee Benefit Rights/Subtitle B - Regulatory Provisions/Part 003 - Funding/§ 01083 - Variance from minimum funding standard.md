@@ -102,7 +102,7 @@ Amendment by section 7891(a)(1) of Pub. L. 101–239 effective, except as otherw
 
 #### Effective Date of 1987 Amendment
 
-Amendment by Pub. L. 100–203 applicable in the case of any application submitted after Dec. 17, 1987, and any waiver granted pursuant to such an application, except that the amendment by section 9306(a)(2)(A) of Pub. L. 100–203 applicable to plan years beginning after Dec. 31, 1987, amendment by section 9306(b)(2) of Pub. L. 100–203 applicable to waivers for plan years beginning after Dec. 31, 1987, and amendment by section 9306(d)(2) of Pub. L. 100–203 applicable to applications submitted more than 90 days after Dec. 22, 1987, with certain exceptions and transitional rules, see section 9306(f) of Pub. L. 100–203, as amended, set out as a note under section 412 of Title 26, Internal Revenue Code.
+Amendment by Pub. L. 100–203 applicable in the case of any application submitted after Dec. 17, 1987, and any waiver granted pursuant to such an application, except that the amendment by section 9306(a)(2)(A) of Pub. L. 100–203 applicable to plan years beginning after Dec. 31, 1987, amendment by section 9306(b)(2) of Pub. L.100–203 applicable to waivers for plan years beginning after Dec. 31, 1987, and amendment by section 9306(d)(2) of Pub. L. 100–203 applicable to applications submitted more than 90 days after Dec. 22, 1987, with certain exceptions and transitional rules, see section 9306(f) of Pub. L. 100–203, as amended, set out as a note under section 412 of Title 26, Internal Revenue Code.
 
 #### Effective Date of 1986 Amendment
 

@@ -70,15 +70,15 @@ Pub. L. 98–369, div. B, title VII, §2751, July 18, 1984, 98 Stat. 1203, provi
 
 “(a) Except as provided in subsection (b), the amendments made by this title \[see Short Title of 1984 Amendments note below\] shall apply with respect to any solicitation for bids or proposals issued after March 31, 1985.
 
-“(b) The amendments made by section 2713 \[amending section 759 of Title 40, Public Buildings, Property, and Works, and enacting provisions set out as a note under section 759 of Title 40\] and subtitle D \[enacting sections 3551 to 3556 of Title 31, Money and Finance\] shall apply with respect to any protest filed after January 14, 1985.”
+“(b) The amendments made by section 2713 \[amending section 759 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as a note under section 759 of former Title 40\] and subtitle D \[enacting sections 3551 to 3556 of Title 31, Money and Finance\] shall apply with respect to any protest filed after January 14, 1985.”
 
 #### Effective Date
 
-Section effective July 1, 1949, see section 605 of act June 30, 1949, set out as a note under section 471 of Title 40, Public Buildings, Property, and Works.
+Section effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–106, div. D, §4001, Feb. 10, 1996, 110 Stat. 642, as amended by Pub. L. 104–208, div. A, title I, §101(f)\[title VIII, §808(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393, provided that: “This division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\] and division E \[§§5001–5703 of Pub. L. 104–106, see Tables for classification\] may be cited as the ‘Clinger-Cohen Act of 1996’.”
+Pub. L. 104–106, div. D, §4001, Feb. 10, 1996, 110 Stat. 642, as amended by Pub. L. 104–208, div. A, title I, §101(f) \[title VIII, §808(a)\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–393, provided that: “This division \[div. D (§§4001–4402) of Pub. L. 104–106, see Tables for classification\] and division E \[§§5001–5703 of Pub. L. 104–106, repealed and reenacted, generally, as subtitle III (§11101 et seq.) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, see Tables for complete classification\] may be cited as the ‘Clinger-Cohen Act of 1996’.”
 
 #### Short Title of 1994 Amendment
 
@@ -88,7 +88,7 @@ Pub. L. 103–355, §1, Oct. 13, 1994, 108 Stat. 3243, provided that: “This Ac
 
 Pub. L. 98–577, §1, Oct. 30, 1984, 98 Stat. 3066, provided that this Act \[enacting sections 253c to 253h, 414a, 418a, and 418b of this title, repealing section 2303a of Title 10, Armed Forces, amending sections 253, 253b, 259, 403, and 416 of this title, sections 2302, 2304, 2311, and 2320 of Title 10, and sections 637 and 644 of Title 15, Commerce and Trade, and enacting provisions set out as notes under this section, section 416 of this title, and sections 637 and 644 of Title 15\] may be cited as the “Small Business and Federal Procurement Competition Enhancement Act of 1984”.
 
-Pub. L. 98–369, div. B, title VII, §2701, July 18, 1984, 98 Stat. 1175, provided that: “This title \[enacting sections 253a, 253b, 416 to 419 of this title and sections 3551 to 3556 of Title 31, Money and Finance, amending sections 252, 253, 254, 257, 258, 259, 260, 403, 405, and 414 of this title, sections 2301 to 2306, 2310, 2311, 2313, and 2356 of Title 10, Armed Forces, and section 759 of Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section, sections 253, 403, and 407 of this title, section 2304 of Title 10, and section 759 of Title 40\] may be cited as the ‘Competition in Contracting Act of 1984’.”
+Pub. L. 98–369, div. B, title VII, §2701, July 18, 1984, 98 Stat. 1175, provided that: “This title \[enacting sections253a, 253b, 416 to 419 of this title and sections 3551 to 3556 of Title 31, Money and Finance, amending sections 252, 253, 254, 257, 258, 259, 260, 403, 405, and 414 of this title, sections 2301 to 2306, 2310, 2311, 2313, and 2356 of Title 10, Armed Forces, and section 759 of former Title 40, Public Buildings, Property, and Works, and enacting provisions set out as notes under this section, sections 253, 403, and 407 of this title, section 2304 of Title 10, and section 759 of former Title 40\] may be cited as the ‘Competition in Contracting Act of 1984’.”
 
 #### Regulations
 
@@ -164,6 +164,10 @@ Savings Provisions.—(1) Nothing in this Act shall be construed to affect the v
 
 &emsp;“(B) if no such date is specified in regulations, October 1, 1995.”
 
+#### Separability
+
+Section 604, formerly §504, of act June 30, 1949, renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583, provided that: “If any provision of this Act \[see Tables for classification\], or the application thereof to any person or circumstances, is held invalid, the remainder of this Act, and the application of such provision to other persons or circumstances, shall not be affected thereby.”
+
 #### Evaluation by Comptroller General
 
 Pub. L. 103–355, title X, §10003, Oct. 13, 1994, 108 Stat. 3405, provided that:
@@ -190,7 +194,7 @@ Pub. L. 98–577, title I, §101, Oct. 30, 1984, 98 Stat. 3066, provided that: �
 
 &emsp;“(1) eliminate procurement procedures and practices that unnecessarily inhibit full and open competition for contracts;
 
-&emsp;“(2) promote the use of contracting opportunities as a means to expand the industrial base of the United States in order to ensure adequate responsive capability of the economy to the increased demands of the Government in times of national emergency; and
+&emsp;“(2) promote the use of contracting opportunities as a means to expand the industrial base of the United States in order to ensure adequate responsive capability of the economy to the increased demandsof the Government in times of national emergency; and
 
 &emsp;“(3) foster opportunities for the increased participation in the competitive procurement process of small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals.”
 
@@ -206,7 +210,7 @@ In order to promote economy and efficiency in Federal procurement, it is necessa
 
 Fostering growth of Federal contractors in economically distressed communities and ensuring that those contractors become viable businesses for the long term will promote economy and efficiency in Federal procurement and help to empower those communities. Fostering growth of long-term viable contractors will be promoted by offering appropriate incentives to qualified businesses.
 
-Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States, including section 486(a) of title 40, United States Code, and section 301 of title 3, United States Code, it is hereby ordered as follows:
+Accordingly, by the authority vested in me as President by the Constitution and the laws of the United States, including section 486(a) \[now 121(a)\] of title 40, United States Code, and section 301 of title 3, United States Code, it is hereby ordered as follows:
 
 Section 1. <i>Policy</i>. The purpose of this order is to strengthen the economy and to improve the efficiency of the Federal procurement system by encouraging business development that expands the industrial base and increases competition.
 
@@ -252,7 +256,7 @@ Sec. 5. <i>Definitions</i>. For purposes of this Executive order:
 
 Sec. 6. <i>Agency Authority</i>. Nothing in this Executive order shall be construed as displacing the agencies’ authority or responsibilities, as authorized by law, including specifically other programs designed to promote the development of small or disadvantaged businesses.
 
-Sec. 7. <i>Judicial Review</i>. This Executive order does not create any right or benefit, substantive or procedural,enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+Sec. 7. <i>Judicial Review</i>. This Executive order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -260,7 +264,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 Ex. Ord. No. 13202, Feb. 17, 2001, 66 F.R. 11225, as amended by Ex. Ord. No. 13208, Apr. 6, 2001, 66 F.R. 18717, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Property and Administrative Services Act, 40 U.S.C. 471 <i>et seq</i>., and in order to (1) promote and ensure open competition on Federal and federally funded or assisted construction projects; (2) maintain Government neutrality towards Government contractors’ labor relations on Federal and federally funded or assisted construction projects; (3) reduce construction costs to the Federal Government and to the taxpayers; (4) expand job opportunities, especially for small and disadvantaged businesses; and (5) prevent discrimination against Government contractors or their employees based upon labor affiliation or lack thereof; thereby promoting the economical, nondiscriminatory, and efficient administration and completion of Federal and federally funded or assisted construction projects, it is hereby ordered that:
+By the authority vested in me as President by the Constitution and laws of the United States of America, including the Federal Property and AdministrativeServices Act, 40 U.S.C. 471 <i>et seq</i>. \[now chapters 1 to 11 of Title 40, Public Buildings, Property, and Works, and title III of the Act of June 30, 1949 (41 U.S.C. 251 et seq.)\], and in order to (1) promote and ensure open competition on Federal and federally funded or assisted construction projects; (2) maintain Government neutrality towards Government contractors’ labor relations on Federal and federally funded or assisted construction projects; (3) reduce construction costs to the Federal Government and to the taxpayers; (4) expand job opportunities, especially for small and disadvantaged businesses; and (5) prevent discrimination against Government contractors or their employees based upon labor affiliation or lack thereof; thereby promoting the economical, nondiscriminatory, and efficient administration and completion of Federal and federally funded or assisted construction projects, it is hereby ordered that:
 
 Section 1. To the extent permitted by law, any executive agency awarding any construction contract after the date of this order, or obligating funds pursuant to such a contract, shall ensure that neither the awarding Government authority nor any construction manager acting on behalf of the Government shall, in its bid specifications, project agreements, or other controlling documents:
 
@@ -302,5 +306,5 @@ George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Definitions
 
-The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
+The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 

@@ -124,7 +124,7 @@ Amendment by Pub. L. 104–330 applicable with respect to amounts made available
 
 #### Effective Date of 1988 Amendment
 
-Section 481(d)(2) of Pub. L. 100–628 provided that: “The first increase under the amendment made byparagraph (1) \[amending this section\] shall be effective with respect to assistance provided on or after October 1, 1988.”
+Section 481(d)(2) of Pub. L. 100–628 provided that: “The first increase under the amendment made by paragraph (1) \[amending this section\] shall be effective with respect to assistance provided on or after October 1, 1988.”
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,3 +14,7 @@ Public Law 102–486, referred to in subsec. (b), is Pub. L. 102–486, Oct. 24,
 
 Pub. L. 105–264, §4(c), Oct. 19, 1998, 112 Stat. 2354, provided that: “This section \[enacting this section\] shall be effective as of January 1, 1993.”
 
+#### Section Referred to in Other Sections
+
+This section is referred to in title 16 sections 971a, 971b, 3608, 3641, 5608, 5709, 5727; title 24 section 416.
+

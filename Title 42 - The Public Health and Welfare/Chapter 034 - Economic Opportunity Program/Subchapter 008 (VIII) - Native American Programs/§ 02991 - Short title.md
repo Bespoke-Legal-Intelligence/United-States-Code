@@ -16,7 +16,7 @@ Pub. L. 105–361, §1, Nov. 10, 1998, 112 Stat. 3278, provided that: “This Ac
 
 Pub. L. 102–524, §1, Oct. 26, 1992, 106 Stat. 3434, provided that: “This Act \[enacting section 2991b–3 of this title and amending section 2992d of this title\], other than section 4 \[enacting provisions set out as a note under section 2001 of Title 25, Indians\], may be cited as the ‘Native American Languages Act of 1992’.”
 
-Pub. L. 102–375, title VIII, §821, Sept. 30, 1992, 106 Stat. 1295, provided that: “This subtitle \[subtitle C (§§821,822) of title VIII of Pub. L. 102–375, enacting sections 2991b–2, 2991c, 2992–1, 2992a–1, and 2992b of this title, amending sections 2991a to 2991b–1, 2991d to 2992, 2992c, and 2992d of this title, and repealing former sections 2991c and 2992b of this title\] may be cited as the ‘Native American Programs Act Amendments of 1992’.”
+Pub. L. 102–375, title VIII, §821, Sept. 30, 1992, 106 Stat. 1295, provided that: “This subtitle \[subtitle C (§§821, 822) of title VIII of Pub. L. 102–375, enacting sections 2991b–2, 2991c, 2992–1, 2992a–1, and 2992b of this title, amending sections 2991a to 2991b–1, 2991d to 2992, 2992c, and 2992d of this title, and repealing former sections 2991c and 2992b of this title\] may be cited as the ‘Native American Programs Act Amendments of 1992’.”
 
 #### Short Title of 1990 Amendment
 

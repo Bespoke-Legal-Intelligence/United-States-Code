@@ -10,7 +10,7 @@ For purposes of this section, the term “critical aquifer protection area” me
 
 &emsp;(1) All or part of an area located within an area for which an application or designation as a sole or principal source aquifer pursuant to section 300h–3(e) of this title, has been submitted and approved by the Administrator and which satisfies the criteria established by the Administrator under subsection (d) of this section.
 
-&emsp;(2) All or part of an area which is within an aquifer designated as a sole source aquifer asof June 19, 1986, and for which an areawide ground water quality protection plan has been approved under section 208 of the Clean Water Act \[33 U.S.C. 1288\] prior to June 19, 1986.
+&emsp;(2) All or part of an area which is within an aquifer designated as a sole source aquifer as of June 19, 1986, and for which an areawide ground water quality protection plan has been approved under section 208 of the Clean Water Act \[33 U.S.C. 1288\] prior to June 19, 1986.
 
 #### (c) Application
 
@@ -66,7 +66,7 @@ An application submitted to the Administrator by any applicant for a demonstrati
 
 &emsp;(C) Limits on Federal, State, and local government, financially assisted activities and projects which may contribute to degradation of such ground water or any loss of natural surface and subsurface infiltration of purification capability of the special protection watershed.
 
-&emsp;(D) A comprehensive statement of land use management including emergency contingency planning as it pertains to the maintenance of the quality of underground sources of drinking water or to the improvement of such sources if necessary to meet drinking water standards pursuant to this chapter and State law.
+&emsp;(D) A comprehensive statement of land use management including emergency contingency planning as it pertains to the maintenance of the quality of underground sources of drinking water or to the improvement of such sources if necessary to meet drinking waterstandards pursuant to this chapter and State law.
 
 &emsp;(E) Actions in the special protection area which would avoid adverse impacts on water quality, recharge capabilities, or both.
 
@@ -127,7 +127,7 @@ The Clean Water Act, referred to in subsec. (k), is act June 30, 1948, ch. 758, 
 
 The Solid Waste Disposal Act, referred to in subsec. (k), is title II of Pub. L. 89–272, Oct. 20, 1965, 79 Stat. 997, as amended generally by Pub. L. 94–580, §2, Oct. 21, 1976, 90 Stat. 2795, which is classified generally to chapter 82 (§6901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 6901 of this title and Tables.
 
-The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (k), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
+The Comprehensive Environmental Response, Compensation, and Liability Act of 1980, referred to in subsec. (k), is Pub. L. 96–510, Dec. 11, 1980, 94 Stat. 2767, as amended, which is classified principally to chapter 103 (§9601 et seq.) of this title. For complete classificationof this Act to the Code, see Short Title note set out under section 9601 of this title and Tables.
 
 #### Amendments
 
@@ -139,7 +139,7 @@ Subsec. (k). Pub. L. 104–182, §501(b)(2), substituted “this section” for 
 
 Subsec. (m). Pub. L. 104–182, §120(a)(2), inserted table item relating to fiscal years 1992 through 2003.
 
-1995—Subsecs. (<i>l</i>) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (<i>l</i>) and (m), respectively, andstruck out heading and text of former subsec. (<i>l</i>). Text read as follows: “Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary.”
+1995—Subsecs. (<i>l</i>) to (n). Pub. L. 104–66 redesignated subsecs. (m) and (n) as (<i>l</i>) and (m), respectively, and struck out heading and text of former subsec. (<i>l</i>). Text read as follows: “Not later than December 31, 1989, each State shall submit to the Administrator a report assessing the impact of the program on ground water quality and identifying those measures found to be effective in protecting ground water resources. No later than September 30, 1990, the Administrator shall submit to Congress a report summarizing the State reports, and assessing the accomplishments of the sole source aquifer demonstration program including an identification of protection methods found to be most effective and recommendations for their application to protect ground water resources from contamination whenever necessary.”
 
 1986—Subsec. (n). Pub. L. 99–339 added subsec. (n).
 

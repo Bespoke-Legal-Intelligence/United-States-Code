@@ -10,19 +10,17 @@ This section is new insofar as application to Coast Guard personnel in time of p
 
 The language is parallel to that found in title 34, U.S.C., 1946 ed., §355, providing for awards to personnel of the Navy. 81st Congress, House Report No. 557.
 
-#### Ex. Ord. No. 12824. Establishing the Transportation Distinguished Service Medal
+#### Ex. Ord. No. 12824. Establishing the Homeland Security Distinguished Service Medal
 
-Ex. Ord. No. 12824, Dec. 7, 1992, 57 F.R. 58121, provided:
+Ex. Ord. No. 12824, Dec. 7, 1992, 57 F.R. 58121, as amended by Ex. Ord. No. 13286, §29, Feb. 28, 2003, 68 F.R. 10625, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America and as Commander in Chief of the Armed Forces of the United States, it is ordered as follows:
 
-Section 1. There is hereby established a Transportation Distinguished Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Transportation to a member of the Coast Guard who has provided exceptionally meritorious service in a duty of great responsibility while assigned in the Department of Transportation, or in other activities under the responsibility of the Secretary of Transportation, either national or international, as may be assigned by the Secretary.
+Section 1. There is hereby established a Homeland Security Distinguished Service Medal, with accompanying ribbons and appurtenances, for award by the Secretary of Homeland Security to a member of the Coast Guard who has provided exceptionally meritorious service in a duty of great responsibility while assigned in the Department of Homeland Security, or in other activities under the responsibility of the Secretary of Homeland Security, either national or international, as may be assigned by the Secretary.
 
-Sec. 2. The Transportation Distinguished Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Transportation and shall be awarded under such regulations as the Secretary shall prescribe. These regulations shall place the Transportation Distinguished Service Medal in an order of precedence immediately before the Coast Guard Distinguished Service Medal.
+Sec. 2. The Homeland Security Distinguished Service Medal and appurtenances thereto shall be of appropriate design approved by the Secretary of Homeland Security and shall be awarded under such regulations as the Secretary shall prescribe. These regulations shall place the Homeland Security Distinguished Service Medal in an order of precedence immediately before the Coast Guard Distinguished Service Medal.
 
-Sec. 3. No more than one Transportation Distinguished Service Medal shall be awarded to any one person, but for each succeeding exceptionally meritorious period of service justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Transportation.
+Sec. 3. No more than one Homeland Security Distinguished Service Medal shall be awarded to any one person, but for each succeeding exceptionally meritorious period of service justifying such an award, a suitable device may be awarded to be worn with that Medal as prescribed by appropriate regulations of the Department of Homeland Security.
 
-Sec. 4. The Transportation Distinguished Service Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Transportation.
-
-George Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Sec. 4. The Homeland Security Distinguished Service Medal or device may be awarded posthumously and, when so awarded, may be presented to such representative of the deceased as may be deemed appropriate by the Secretary of Homeland Security.
 

@@ -4,7 +4,7 @@
 
 (b)(1) The control and management of Federal penal and correctional institutions, except military or naval institutions, shall be vested in the Attorney General, who shall promulgate rules for the government thereof, and appoint all necessary officers and employees in accordance with the civil-service laws, the Classification Act, as amended, and the applicable regulations.
 
-(2) The Attorney General may establish and conduct industries, farms, and other activitiesand classify the inmates; and provide for their proper government, discipline, treatment, care, rehabilitation, and reformation.
+(2) The Attorney General may establish and conduct industries, farms, and other activities and classify the inmates; and provide for their proper government, discipline, treatment, care, rehabilitation, and reformation.
 
 (June 25, 1948, ch. 645, 62 Stat. 847; Pub. L. 92–128, §1(a), (b), Sept. 25, 1971, 85 Stat. 347.)
 

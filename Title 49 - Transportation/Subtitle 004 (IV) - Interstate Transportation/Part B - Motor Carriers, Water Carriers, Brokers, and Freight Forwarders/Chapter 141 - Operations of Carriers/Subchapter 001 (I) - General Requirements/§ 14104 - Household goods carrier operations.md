@@ -34,7 +34,7 @@ Factors to consider.—In establishing performance standards under this paragrap
 
 &emsp;&emsp;(3)
 
-Limitations on statutory construction.—Nothing in this section shall be construed to limit the Secretary's authority to require reports from motor carriers providing transportation of household goods or torequire such carriers to provide specified information to consumers concerning their past performance.
+Limitations on statutory construction.—Nothing in this section shall be construed to limit the Secretary's authority to require reports from motor carriers providing transportation of household goods or to require such carriers to provide specified information to consumers concerning their past performance.
 
 (b)
 

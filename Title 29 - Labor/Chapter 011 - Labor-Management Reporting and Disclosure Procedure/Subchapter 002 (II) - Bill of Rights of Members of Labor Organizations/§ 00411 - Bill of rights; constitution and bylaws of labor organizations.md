@@ -26,7 +26,7 @@ No member of any labor organization may be fined, suspended, expelled, or otherw
 
 #### (b) Invalidity of constitution and bylaws
 
-Any provision of the constitution and bylaws of any labor organization which is inconsistent with the provisions of this section shall be of no force or effect.
+Any provision of the constitution and bylaws of any labor organization which is inconsistentwith the provisions of this section shall be of no force or effect.
 
 (Pub. L. 86–257, title I, §101, Sept. 14, 1959, 73 Stat. 522.)
 

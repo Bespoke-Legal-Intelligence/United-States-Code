@@ -12,7 +12,7 @@
 
 (b) In order to accomplish the purposes of subsection (a) of this section, the Secretary shall provide for medical care in the same or similar manner and subject to the same or similar limitations as medical care is furnished to certain dependents and survivors of active duty and retired members of the Armed Forces under chapter 55 of title 10 (CHAMPUS), by—
 
-&emsp;(1) entering into an agreement with the Secretary of Defense under which that Secretary shall include coverage for such medical care under the contract, or contracts, that Secretary enters into to carry out such chapter 55, and under which the Secretary of Veterans Affairs shall fully reimburse the Secretary of Defense for all costs and expenditures made for the purposes of affording the medical care authorized pursuant to this section; or
+&emsp;(1) entering into an agreement with the Secretary of Defense under which that Secretaryshall include coverage for such medical care under the contract, or contracts, that Secretary enters into to carry out such chapter 55, and under which the Secretary of Veterans Affairs shall fully reimburse the Secretary of Defense for all costs and expenditures made for the purposes of affording the medical care authorized pursuant to this section; or
 
 &emsp;(2) contracting in accordance with such regulations as the Secretary shall prescribe for such insurance, medical service, or health plans as the Secretary deems appropriate.
 
@@ -24,7 +24,7 @@
 
 (B) The limitation in subparagraph (A) does not apply to an individual who—
 
-&emsp;(i) has attained 65 years of age as of the date of the enactment of the Veterans’ Survivor Benefits Improvements Act of 2001; and
+&emsp;(i) has attained 65 years of age as of June 5, 2001; and
 
 &emsp;(ii) is not enrolled in the supplementary medical insurance program under part B of the medicare program as of that date.
 
@@ -36,17 +36,15 @@
 
 (3) The amount payable under this subsection for medical care may not exceed the total amount that would be paid under subsection (b) if payment for such medical care were made solely under subsection (b).
 
-(4) In this paragraph: <sup>1</sup>
+(4) In this subsection:
 
 &emsp;(A) The term “medicare program” means the program of health insurance administered by the Secretary of Health and Human Services under title XVIII of the Social Security Act (42 U.S.C. 1395 et seq.).
 
 &emsp;(B) The term “third party” has the meaning given that term in section 1729(i)(3) of this title.
 
-(Added Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181, §613; amended Pub. L. 94–581, title I, §104, title II, §210(a)(4), Oct. 21, 1976, 90 Stat. 2845, 2862; Pub. L. 96–151, title II, §205(a), Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–72, title I, §105, Nov. 3, 1981, 95 Stat. 1050; Pub. L. 97–251, §5(a), Sept. 8, 1982, 96 Stat. 716; renumbered §1713 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(B), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–190, div. A, title VII, §704(b)(2), Dec. 5, 1991, 105 Stat. 1402; Pub. L. 107–14, §3, June 5, 2001, 115 Stat. 25; renumbered §1781 and amended Pub. L. 107–135, title II, §208(c), Jan. 23, 2002, 115 Stat. 2463.)
+(Added Pub. L. 93–82, title I, §103(b), Aug. 2, 1973, 87 Stat. 181, §613; amended Pub. L. 94–581, title I, §104, title II, §210(a)(4), Oct. 21, 1976, 90 Stat. 2845, 2862; Pub. L. 96–151, title II, §205(a), Dec. 20, 1979, 93 Stat. 1094; Pub. L. 97–72, title I, §105, Nov. 3, 1981, 95 Stat. 1050; Pub. L. 97–251, §5(a), Sept. 8, 1982, 96 Stat. 716; renumbered §1713 and amended Pub. L. 102–83, §§4(a)(3), (4), (b)(1), (2)(B), (E), 5(a), Aug. 6, 1991, 105 Stat. 404–406; Pub. L. 102–190, div. A, title VII, §704(b)(2), Dec. 5, 1991, 105 Stat. 1402; Pub. L. 107–14, §3, June 5, 2001, 115 Stat. 25; renumbered §1781 and amended Pub. L. 107–135, title II, §208(c), Jan. 23, 2002, 115 Stat. 2463; Pub. L. 107–330, title III, §308(g)(8), Dec. 6, 2002, 116 Stat. 2829.)
 
 #### References in Text
-
-The date of the enactment of the Veterans’ Survivor Benefits Improvements Act of 2001, referred to in subsec. (d)(1)(B)(i), is the date of enactment of Pub. L. 107–14, which was approved June 5, 2001.
 
 The Social Security Act, referred to in subsec. (d)(4)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XVIII of the Act is classified generally to subchapter XVIII (§1395 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -59,6 +57,10 @@ A prior section 1781 was renumbered section 3681 of this title.
 2002—Pub. L. 107–135, §208(c)(1), (2), renumbered section 1713 of this title as this section.
 
 Subsec. (b). Pub. L. 107–135, §208(c)(3), inserted at end “A dependent or survivor receiving care under the preceding sentence shall be eligible for the same medical services as a veteran, including services under sections 1782 and 1783 of this title.”
+
+Subsec. (d)(1)(B)(i). Pub. L. 107–330, §308(g)(8)(A), substituted “as of June 5, 2001” for “as of the date of the enactment of the Veterans’ Survivor Benefits Improvements Act of 2001”.
+
+Subsec. (d)(4). Pub. L. 107–330, §308(g)(8)(B), substituted “subsection” for “paragraph” in introductory provisions.
 
 2001—Subsec. (d). Pub. L. 107–14 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows: “Notwithstanding section 1086(d)(1) of title 10 or any other provision of law, any spouse, surviving spouse, or child who, after losing eligibility for medical care under this section by virtue of becoming entitled to hospital insurance benefits under part A of title XVIII of the Social Security Act (42 U.S.C. 1395c et seq.), has exhausted any such benefits shall become eligible for medical care under this section and shall not thereafter lose such eligibility under this section by virtue of becoming again eligible for such hospital insurance benefits.”
 
@@ -94,7 +96,7 @@ Section 5(b) of Pub. L. 97–251 provided that: “The amendment made by subsect
 
 #### Effective Date of 1979 Amendment
 
-Section 205(b) of Pub. L. 96–151 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect with respect to fiscal year1980 only to such extent and for such amounts as may be specifically provided for such purpose in appropriation Acts.”
+Section 205(b) of Pub. L. 96–151 provided that: “The amendments made by subsection (a) \[amending this section\] shall take effect with respect to fiscal year 1980 only to such extent and for such amounts as may be specifically provided for such purpose in appropriation Acts.”
 
 #### Effective Date of 1976 Amendment
 
@@ -107,6 +109,4 @@ Section effective Sept. 1, 1973, see section 501 of Pub. L. 93–82, set out as 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 103, 1701, 8502, 8520, 8521 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “this section:”.</i>
 

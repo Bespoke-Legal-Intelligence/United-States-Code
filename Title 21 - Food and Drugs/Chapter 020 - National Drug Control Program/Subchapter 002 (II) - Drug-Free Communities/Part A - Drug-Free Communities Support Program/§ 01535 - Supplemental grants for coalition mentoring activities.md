@@ -12,7 +12,7 @@ As part of the program established under section 1531 of this title, the Directo
 
 #### (2) Requirement for basic grant
 
-&emsp;A coalition may not be awarded a grant under this section for a fiscal year unless the coalition was awarded a grant or renewal grant under section 1532(b) of this title for that fiscal year.
+&emsp;A coalition may not be awarded a grant under this section for a fiscal year unless thecoalition was awarded a grant or renewal grant under section 1532(b) of this title for that fiscal year.
 
 #### (c) Application
 

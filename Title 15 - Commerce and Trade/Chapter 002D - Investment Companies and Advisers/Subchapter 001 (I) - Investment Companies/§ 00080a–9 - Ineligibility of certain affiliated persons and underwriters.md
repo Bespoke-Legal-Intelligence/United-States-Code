@@ -18,7 +18,7 @@ The Commission may, after notice and opportunity for hearing, by order prohibit,
 
 &emsp;(1) has willfully made or caused to be made in any registration statement, application or report filed with the Commission under this subchapter any statement which was at the time and in the light of the circumstances under which it was made false or misleading with respect to any material fact, or has omitted to state in any such registration statement, application, or report any material fact which was required to be stated therein;
 
-&emsp;(2) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], or of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or of subchapter II of this chapter, or of this subchapter, or of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or of any rule or regulation under any of such statutes;
+&emsp;(2) has willfully violated any provision of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], orof the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or of subchapter II of this chapter, or of this subchapter, or of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or of any rule or regulation under any of such statutes;
 
 &emsp;(3) has willfully aided, abetted, counseled, commanded, induced, or procured the violation by any other person of the Securities Act of 1933 \[15 U.S.C. 77a et seq.\], or of the Securities Exchange Act of 1934 \[15 U.S.C. 78a et seq.\], or of subchapter II of this chapter, or of this subchapter, or of the Commodity Exchange Act \[7 U.S.C. 1 et seq.\], or of any rule or regulation under any of such statutes;
 
@@ -32,7 +32,7 @@ The Commission may, after notice and opportunity for hearing, by order prohibit,
 
 &emsp;(5) within 10 years has been convicted by a foreign court of competent jurisdiction of a crime, however denominated by the laws of the relevant foreign government, that is substantially equivalent to an offense set forth in paragraph (1) of subsection (a) of this section; or
 
-&emsp;(6) by reason of any misconduct, is temporarily or permanently enjoined by any foreign court of competent jurisdiction from acting in any of the capacities, set forth in paragraph (2) of subsection (a) of this section, or a substantially equivalent foreign capacity, or fromengaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security.
+&emsp;(6) by reason of any misconduct, is temporarily or permanently enjoined by any foreign court of competent jurisdiction from acting in any of the capacities, set forth in paragraph (2) of subsection (a) of this section, or a substantially equivalent foreign capacity, or from engaging in or continuing any conduct or practice in connection with any such activity or in connection with the purchase or sale of any security.
 
 #### (c) Application of ineligible person for exemption
 

@@ -6,7 +6,7 @@ There is hereby established an Office of Juvenile Justice and Delinquency Preven
 
 #### (b) Administrator; head, appointment, authorities, etc.
 
-The Office shall be headed by an Administrator (hereinafter in this subchapter referred to as the “Administrator”) appointed by the President, by and with the advice and consent of the Senate, from among individuals who have had experience in juvenile justice programs. The Administrator is authorized to prescribe regulations consistent with this chapter to award, administer, modify, extend, terminate, monitor, evaluate, reject, or deny all grants and contracts from, and applications for, funds made available under this subchapter. The Administrator shall have the same reporting relationship with the Attorney General as the directors of other offices and bureaus within the Office of Justice Programs have.
+The Office shall be headed by an Administrator (hereinafter in this subchapter referred to as the “Administrator”) appointed by the President, by and with the advice and consent of the Senate, from among individuals who have had experience in juvenile justice programs. The Administrator is authorized to prescribe regulations consistent with this chapter to award, administer, modify, extend, terminate, monitor, evaluate, reject, or deny all grants and contracts from, and applications for, funds made available under this subchapter. The Administrator shall have the same reporting relationship with the Attorney General as the directorsof other offices and bureaus within the Office of Justice Programs have.
 
 #### (c) Deputy Administrator; appointment, functions, etc.
 
@@ -24,7 +24,7 @@ This chapter, referred to in subsec. (b), was in the original “this Act”, me
 
 1992—Subsec. (b). Pub. L. 102–586 amended third sentence generally, substituting “The Administrator shall have the same reporting relationship with the Attorney General as the directors of other offices and bureaus within the Office of Justice Programs have” for “The Administrator shall report to the Attorney General through the Assistant Attorney General who heads the Office of Justice Programs under part A of title I of the Omnibus Crime Control and Safe Streets Act of 1968”.
 
-1988—Subsec. (c). Pub. L. 100–690 struck out “and whose function shall be to supervise and direct the National Institute for Juvenile Justice and Delinquency Prevention established by section 5651 of this title”after “Attorney General” in first sentence and “also” after “The Deputy Administrator shall” in second sentence.
+1988—Subsec. (c). Pub. L. 100–690 struck out “and whose function shall be to supervise and direct the National Institute for Juvenile Justice and Delinquency Prevention established by section 5651 of this title” after “Attorney General” in first sentence and “also” after “The Deputy Administrator shall” in second sentence.
 
 1984—Subsec. (a). Pub. L. 98–473, in amending subsec. (a) generally, substituted provisions relating to establishment of the Office of Juvenile Justice and Delinquency Prevention for former provisions which also provided for the establishment of the Office and its administration by an Administrator.
 
@@ -72,7 +72,7 @@ Amendment by Pub. L. 95–115 effective Oct. 1, 1977, see section 263(c) of Pub.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5603, 5651, 13001a of this title; title 39 section 3220.
+This section is referred to in sections 5603, 13001a of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

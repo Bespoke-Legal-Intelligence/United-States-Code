@@ -2,7 +2,7 @@
 
 (a)
 
-Method of Calculation.—(1) The Administrator of the Environmental Protection Agency shall calculate the average fuel economy of a manufacturer subject to—
+Method of Calculation.—(1) The Administrator of the Environmental Protection Agencyshall calculate the average fuel economy of a manufacturer subject to—
 
 &emsp;(A) section 32902(a) of this title in a way prescribed by the Administrator; and
 
@@ -54,7 +54,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 (4) In this subsection, the fuel economy of a passenger automobile that is not manufactured domestically is deemed to be equal to the average fuel economy of all passenger automobiles manufactured by the same manufacturer that are not manufactured domestically.
 
-(5)(A) A manufacturer may submit to the Secretary of Transportation for approval a plan, including supporting material, stating the actions and the deadlines for taking the actions, that will ensure that the model or models referred to in subparagraph (B) of this paragraph will be manufactured domestically before the end of the 4th model year covered by the plan. The Secretary promptly shall consider and act on the plan. The Secretary shall approve the plan unless—
+(5)(A) A manufacturer may submit to the Secretary of Transportation for approval a plan, including supporting material, stating the actions and the deadlines for taking the actions, that will ensure that the model or models referred to in subparagraph (B) of this paragraph will bemanufactured domestically before the end of the 4th model year covered by the plan. The Secretary promptly shall consider and act on the plan. The Secretary shall approve the plan unless—
 
 &emsp;(i) the Secretary finds that the plan is inadequate to meet the requirements of this paragraph; or
 
@@ -84,7 +84,7 @@ Separate Calculations for Passenger Automobiles Manufactured Domestically and No
 
 (B) A judgment of the court under this subparagraph may be reviewed by the Supreme Court under section 1254 of title 28. Application for review by the Supreme Court must be made not later than 30 days after entry of the court's judgment.
 
-(C) A decision of the Secretary of Transportation on a petition for an exemption under thisparagraph may be reviewed administratively or judicially only as provided in this paragraph.
+(C) A decision of the Secretary of Transportation on a petition for an exemption under this paragraph may be reviewed administratively or judicially only as provided in this paragraph.
 
 (8) Notwithstanding section 32903 of this title, during a model year when an exemption under this paragraph is effective for a manufacturer—
 

@@ -14,9 +14,9 @@ In this subchapter:
 
 &emsp;The terms “elementary school” and “secondary school” mean—
 
-&emsp;&emsp;(A) a public or private elementary school or secondary school (as the case may be), as defined in section 8801 of title 20; or
+&emsp;&emsp;(A) a public or private elementary school or secondary school (as the case may be), as defined in section 14101 of the Elementary and Secondary Education Act of 1965 (20 U.S.C. 8801); <sup>1</sup> or
 
-&emsp;&emsp;(B) a bureau <sup>1</sup> funded school as defined in section 2026 <sup>2</sup> of title 25.
+&emsp;&emsp;(B) a bureau <sup>2</sup> funded school as defined in section 2026 <sup>1</sup>of title 25.
 
 #### (4) State
 
@@ -26,9 +26,11 @@ In this subchapter:
 
 #### References in Text
 
+Section 14101 of the Elementary and Secondary Education Act of 1965, referred to in par. (3)(A), is section 14101 of Pub. L. 89–10, which was classified to section 8801 of Title 20, Education, prior to repeal by Pub. L. 107–110, title X, Sec. 1011(5)(C), Jan. 8, 2002, 115 Stat. 1986. For provisions relating to definitions, see section 7801 of Title 20.
+
 Section 2026 of title 25, referred to in par. (3)(B), was omitted in the general amendment of chapter 22 (§2000 et seq.) of Title 25, Indians, by Pub. L. 107–110, title X, §1042, Jan. 8, 2002, 115 Stat. 2007. For definition of “Bureau-funded school”, see section 2021 of Title 25.
 
-<i><sup>1</sup></i><i> So in original. Probably should be capitalized.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
-<i><sup>2</sup></i><i> See References in Text note below.</i>
+<i><sup>2</sup></i><i> So in original. Probably should be capitalized.</i>
 

@@ -98,7 +98,7 @@ Oct. 30, 1970, Pub. L. 91–518, 84 Stat. 1327, §102; added Sept. 29, 1979, Pub
 
 45:501a(14) (last sentence).
 
-In this part, the word “Amtrak” is substituted for “National Railroad Passenger Corporation”, and the words “Amtrak Commuter” are substituted for “Amtrak Commuter Services Corporation”, to reflect the more current and commonly used names of the entities. The words “rail transportation” are substituted for “rail service” and “rail services”, the word “transportation” is substituted for “service” where appropriate, and the word “authority” is substituted for “agency”, as being more appropriate and for consistency in the revised title and with other titles of the United StatesCode. The words “rail carrier” are substituted for “railroad” because of the definitions of “rail carrier” and “railroad” in 49:10102.
+In this part, the word “Amtrak” is substituted for “National Railroad Passenger Corporation”, and the words “Amtrak Commuter” are substituted for “Amtrak Commuter Services Corporation”, to reflect the more current and commonly used names of the entities. The words “rail transportation” are substituted for “rail service” and “rail services”, the word “transportation” is substituted for “service” where appropriate, and the word “authority” is substituted for “agency”, as being more appropriate and for consistency in the revised title and with other titles of the United States Code. The words “rail carrier” are substituted for “railroad” because of the definitions of “rail carrier” and “railroad” in 49:10102.
 
 In subsection (a), the words “The Congress finds that the” and “The Congress further finds that” are omitted as surplus.
 
@@ -114,7 +114,7 @@ The Amtrak Reform and Accountability Act of 1997, referred to in subsec. (d), is
 
 1997—Subsec. (c)(2). Pub. L. 105–134, §105(b), inserted “, separately or in combination,” after “and the private sector”.
 
-Subsec. (d). Pub. L. 105–134, §201, inserted at end “Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998 through 2002. Commencing no later than the fiscal year following the fifth anniversary of the Amtrak Reform and Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit.”
+Subsec. (d). Pub. L. 105–134, §201, inserted at end “Amtrak shall prepare a financial plan to operate within the funding levels authorized by section 24104 of this chapter, including budgetary goals for fiscal years 1998 through 2002. Commencing no later than the fiscal year following the fifth anniversary of the Amtrak Reformand Accountability Act of 1997, Amtrak shall operate without Federal operating grant funds appropriated for its benefit.”
 
 #### Amtrak Findings
 

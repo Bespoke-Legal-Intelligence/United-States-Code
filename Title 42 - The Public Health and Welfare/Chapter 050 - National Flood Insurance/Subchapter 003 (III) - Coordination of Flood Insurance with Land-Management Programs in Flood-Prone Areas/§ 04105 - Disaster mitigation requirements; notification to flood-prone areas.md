@@ -6,7 +6,7 @@ Not later than six months following December 31, 1973, the Director shall publis
 
 #### (b) Alternative actions of tentatively identified communities; public hearing; opportunity for submission of evidence; finality of administrative determination of existence or extent of flood hazard area
 
-After such notification, each tentatively identified community shall either (1) promptly make proper application to participate in the national flood insurance program or (2) within six months submit technical data sufficient to establish to the satisfaction of the Director that the community either is not seriously flood prone or that such flood hazards as may have existed have been corrected by flood-works or other flood control methods. The Director may, in his discretion, grant a public hearing to any community with respect to which conflictingdata exist as to the nature and extent of a flood hazard. If the Director decides not to hold a hearing, the community shall be given an opportunity to submit written and documentary evidence. Whether or not such hearing is granted, the Director's final determination as to the existence or extent of a flood hazard area in a particular community shall be deemed conclusive for the purposes of this Act if supported by substantial evidence in the record considered as a whole.
+After such notification, each tentatively identified community shall either (1) promptly make proper application to participate in the national flood insurance program or (2) within six months submit technical data sufficient to establish to the satisfaction of the Director that the community either is not seriously flood prone or that such flood hazards as may have existed have been corrected by flood-works or other flood control methods. The Director may, in his discretion, grant a public hearing to any community with respect to which conflicting data exist as to the nature and extent of a flood hazard. If the Director decides not to hold a hearing, the community shall be given an opportunity to submit written and documentary evidence. Whether or not such hearing is granted, the Director's final determination as to the existence or extent of a flood hazard area in a particular community shall be deemed conclusive for the purposes of this Act if supported by substantial evidence in the record considered as a whole.
 
 #### (c) Subsequent notification to additional communities known to be flood prone areas
 
@@ -37,4 +37,8 @@ Section was enacted as part of Flood Disaster Protection Act of 1973, and not as
 1983—Subsecs. (a) to (c), (e). Pub. L. 98–181 substituted “Director” for “Secretary” and “Director's” for “Secretary's” wherever appearing.
 
 1977—Subsec. (e). Pub. L. 95–128 added subsec. (e).
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

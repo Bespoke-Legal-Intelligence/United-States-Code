@@ -76,7 +76,7 @@ Modifications in System.—(1) The Administrator of the Federal Aviation Adminis
 
 &emsp;(E) the absence of information about physical characteristics of holders of those certificates.
 
-(2) The Administrator of the Federal Aviation Administration shall prescribe regulations to carry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
+(2) The Administrator of the Federal Aviation Administration shall prescribe regulations tocarry out paragraph (1) of this subsection and provide a written explanation of how the regulations address each of the deficiencies and abuses described in paragraph (1). In prescribing the regulations, the Administrator of the Federal Aviation Administration shall consult with the Administrator of Drug Enforcement, the Commissioner of Customs, other law enforcement officials of the United States Government, representatives of State and local law enforcement officials, representatives of the general aviation aircraft industry, representatives of users of general aviation aircraft, and other interested persons.
 
 (3) For purposes of this section, the term “acts of terrorism” means an activity that involves a violent act or an act dangerous to human life that is a violation of the criminal laws of the United States or of any State, or that would be a criminal violation if committed within the jurisdiction of the United States or of any State, and appears to be intended to intimidate or coerce a civilian population to influence the policy of a government by intimidation or coercion or to affect the conduct of a government by assassination or kidnaping.
 
@@ -144,7 +144,7 @@ Requirement to maintain records.—The Administrator and air carriers shall main
 
 &emsp;(5)
 
-Receipt of consent; provision of information.—A person shall not furnish a record in response to a request made under paragraph (1) without first obtaining a copy of the written consent of the individual who is the subject of the records requested; except that, for purposes of paragraph (15), the Administrator may allow an individual designated by the Administrator to accept and maintain written consent on behalf of the Administrator for records requested under paragraph (1)(A). A person who receives a request for records under this subsection shall furnish a copy of all of such requested records maintained by the person not later than 30 days after receiving the request.
+Receipt of consent; provision of information.—A person shall not furnish a record in response to a request made under paragraph (1) without first obtaining a copy of the written consent of the individual who is the subject of the records requested; except that, for purposes of paragraph (15), the Administrator may allow an individual designated by the Administrator to accept and maintain written consent on behalf of the Administrator for records requested under paragraph (1)(A). A person who receives a request for records under this subsection shall furnish a copy ofall of such requested records maintained by the person not later than 30 days after receiving the request.
 
 &emsp;(6)
 
@@ -222,7 +222,7 @@ Good faith exception.—Notwithstanding paragraph (1), an air carrier, without o
 
 &emsp;(15)
 
-Electronic access to faa records.—For the purpose of increasing timely and efficient access to Federal Aviation Administration records described in paragraph (1), the Administrator may allow, under terms established by the Administrator, an individual designated by the air carrier to have electronic access to a specified database containing information about such records. The terms shall limit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that information obtained using such access will not be used for any purpose other than making the hiring decision.
+Electronic access to faa records.—For the purpose of increasing timely and efficient access to Federal Aviation Administration records described in paragraph (1), the Administrator may allow, under terms established by the Administrator, an individual designated by the air carrier to have electronic access to a specified database containing information about such records. The terms shalllimit such access to instances in which information in the database is required by the designated individual in making a hiring decision concerning a pilot applicant and shall require that the designated individual provide assurances satisfactory to the Administrator that information obtained using such access will not be used for any purpose other than making the hiring decision.
 
 (i)
 
@@ -350,7 +350,7 @@ In subsection (d), before clause (1), the words “in his discretion” are omit
 
 In subsection (f)(1), before clause (A), the words “established under this chapter” and “to pilots” are omitted as surplus.
 
-In subsection (f)(2), the words “Not later than September 18, 1989” and “final” are omitted as obsolete. The words “Administrator of Drug Enforcement” are substituted for “Drug Enforcement Administration of the Department of Justice” because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092). The words “Commissioner of Customs” are substituted for “United States Customs Service” because of 19:2071.
+In subsection (f)(2), the words “Not later than September 18, 1989” and “final” are omitted as obsolete. The words “Administrator of Drug Enforcement” are substituted for “Drug Enforcement Administration ofthe Department of Justice” because of section 5(a) of Reorganization Plan No. 2 of 1973 (eff. July 1, 1973, 87 Stat. 1092). The words “Commissioner of Customs” are substituted for “United States Customs Service” because of 19:2071.
 
 #### References in Text
 
@@ -376,9 +376,13 @@ Subsecs. (h) to (j). Pub. L. 107–71, §§138(b), 140(a), amended section ident
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Crediting of Law Enforcement Flight Time
 
-Pub. L. 106–424, §14, Nov. 1, 2000, 114 Stat. 1888, provided that: “In determining whether an individual meets the aeronautical experience requirements imposed under section 44703 of title 49, United StatesCode, for an airman certificate or rating, the Secretary of Transportation shall take into account any time spent by that individual operating a public aircraft as defined in section 40102 of title 49, United States Code, if that aircraft is—
+Pub. L. 106–424, §14, Nov. 1, 2000, 114 Stat. 1888, provided that: “In determining whether an individual meets the aeronautical experience requirements imposed under section 44703 of title 49, United States Code, for an airman certificate or rating, the Secretary of Transportation shall take into account any time spent by that individual operating a public aircraft as defined in section 40102 of title 49, United States Code, if that aircraft is—
 
 &emsp;“(1) identifiable by category and class; and
 

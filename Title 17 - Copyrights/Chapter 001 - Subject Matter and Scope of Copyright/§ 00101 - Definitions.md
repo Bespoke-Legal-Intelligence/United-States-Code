@@ -18,6 +18,8 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;A “compilation” is a work formed by the collection and assembling of preexisting materials or of data that are selected, coordinated, or arranged in such a way that the resulting work as a whole constitutes an original work of authorship. The term “compilation” includes collective works.
 
+&emsp;A “computer program” is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result.
+
 &emsp;“Copies” are material objects, other than phonorecords, in which a work is fixed by any method now known or later developed, and from which the work can be perceived, reproduced, or otherwise communicated, either directly or with the aid of a machine or device. The term “copies” includes the material object, other than a phonorecord, in which the work is first fixed.
 
 &emsp;“Copyright owner”, with respect to any one of the exclusive rights comprised in a copyright, refers to the owner of that particular right.
@@ -38,7 +40,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;The term “financial gain” includes receipt, or expectation of receipt, of anything of value, including the receipt of other copyrighted works.
 
-&emsp;A work is “fixed” in a tangible medium of expression when its embodiment in a copy or phonorecord, by or under the authority of the author, is sufficiently permanent or stable topermit it to be perceived, reproduced, or otherwise communicated for a period of more than transitory duration. A work consisting of sounds, images, or both, that are being transmitted, is “fixed” for purposes of this title if a fixation of the work is being made simultaneously with its transmission.
+&emsp;A work is “fixed” in a tangible medium of expression when its embodiment in a copy or phonorecord, by or under the authority of the author, is sufficiently permanent or stable to permit it to be perceived, reproduced, or otherwise communicated for a period of more than transitory duration. A work consisting of sounds, images, or both, that are being transmitted, is “fixed” for purposes of this title if a fixation of the work is being made simultaneously with its transmission.
 
 &emsp;The “Geneva Phonograms Convention” is the Convention for the Protection of Producers of Phonograms Against Unauthorized Duplication of Their Phonograms, concluded at Geneva, Switzerland, on October 29, 1971.
 
@@ -82,15 +84,15 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;“Publication” is the distribution of copies or phonorecords of a work to the public by sale or other transfer of ownership, or by rental, lease, or lending. The offering to distribute copies or phonorecords to a group of persons for purposes of further distribution, public performance, or public display, constitutes publication. A public performance or display of a work does not of itself constitute publication.
 
-&emsp;“Registration”, for purposes of sections 205(c)(2), 405, 406, 410(d), 411, 412, and 506(e), means a registration of a claim in the original or the renewed and extended term of copyright.
-
 &emsp;To perform or display a work “publicly” means—
 
 &emsp;&emsp;(1) to perform or display it at a place open to the public or at any place where a substantial number of persons outside of a normal circle of a family and its social acquaintances is gathered; or
 
 &emsp;&emsp;(2) to transmit or otherwise communicate a performance or display of the work to a place specified by clause (1) or to the public, by means of any device or process, whether the members of the public capable of receiving the performance or display receive it in the same place or in separate places and at the same time or at different times.
 
-&emsp;“Sound recordings” are works that result from the fixation of a series of musical, spoken, or other sounds, but not including the sounds accompanying a motion picture or other audiovisual work, regardless of the nature of the material objects, such as disks,tapes, or other phonorecords, in which they are embodied.
+&emsp;“Registration”, for purposes of sections 205(c)(2), 405, 406, 410(d), 411, 412, and 506(e), means a registration of a claim in the originalor the renewed and extended term of copyright.
+
+&emsp;“Sound recordings” are works that result from the fixation of a series of musical, spoken, or other sounds, but not including the sounds accompanying a motion picture or other audiovisual work, regardless of the nature of the material objects, such as disks, tapes, or other phonorecords, in which they are embodied.
 
 &emsp;“State” includes the District of Columbia and the Commonwealth of Puerto Rico, and any territories to which this title is made applicable by an Act of Congress.
 
@@ -124,6 +126,10 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;The author's “widow” or “widower” is the author's surviving spouse under the law of the author's domicile at the time of his or her death, whether or not the spouse has later remarried.
 
+&emsp;The “WIPO Copyright Treaty” is the WIPO Copyright Treaty concluded at Geneva, Switzerland, on December 20, 1996.
+
+&emsp;The “WIPO Performances and Phonograms Treaty” is the WIPO Performances and Phonograms Treaty concluded at Geneva, Switzerland, on December 20, 1996.
+
 &emsp;A “work of visual art” is—
 
 &emsp;&emsp;(1) a painting, drawing, print, or sculpture, existing in a single copy, in a limited edition of 200 copies or fewer that are signed and consecutively numbered by the author, or, in the case of a sculpture, in multiple cast, carved, or fabricated sculptures of 200 or fewer that are consecutively numbered by the author and bear the signature or other identifying mark of the author; or
@@ -148,7 +154,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;&emsp;(1) a work prepared by an employee within the scope of his or her employment; or
 
-&emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture or other audiovisual work, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords, afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
+&emsp;&emsp;(2) a work specially ordered or commissioned for use as a contribution to a collective work, as a part of a motion picture or other audiovisual work, as a translation, as a supplementary work, as a compilation, as an instructional text, as a test, as answer material for a test, or as an atlas, if the parties expressly agree in a written instrument signed by them that the work shall be considered a work made for hire. For the purpose of the foregoing sentence, a “supplementary work” is a work prepared for publication as a secondary adjunct to a work by another author for the purpose of introducing, concluding, illustrating, explaining, revising, commenting upon, or assisting in the use of the other work, such as forewords,afterwords, pictorial illustrations, maps, charts, tables, editorial notes, musical arrangements, answer material for tests, bibliographies, appendixes, and indexes, and an “instructional text” is a literary, pictorial, or graphic work prepared for publication and with the purpose of use in systematic instructional activities.
 
 > &emsp;In determining whether any work is eligible to be considered a work made for hire under paragraph (2), neither the amendment contained in section 1011(d) of the Intellectual Property and Communications Omnibus Reform Act of 1999, as enacted by section 1000(a)(9) of Public Law 106–113, nor the deletion of the words added by that amendment—
 
@@ -160,19 +166,7 @@ Except as otherwise provided in this title, as used in this title, the following
 
 &emsp;The terms “WTO Agreement” and “WTO member country” have the meanings given those terms in paragraphs (9) and (10), respectively, of section 2 of the Uruguay Round Agreements Act.
 
-&emsp;A “computer program” is a set of statements or instructions to be used directly or indirectly in a computer in order to bring about a certain result.
-
-(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, §205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, §102(a), Oct. 28, 1998, 112 Stat. 2861; Pub. L. 106–44, §1(g)(1), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1011(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–544; Pub. L. 106–379, §2(a), Oct. 27, 2000, 114 Stat. 1444.)
-
-#### Amendment of Section
-
-<i>Pub. L. 105–304, title I, §§102(a)(6), 105(b)(1)(B), Oct. 28, 1998, 112 Stat. 2861, 2877, provided that, effective upon the entry into force of the WIPO Copyright Treaty with respect to the United States, this section is amended by inserting after the definition of “widow” the following:</i>
-
-The “WIPO Copyright Treaty” is the WIPO Copyright Treaty concluded at Geneva, Switzerland, on December 20, 1996.
-
-<i>Pub. L. 105–304, title I, §§102(a)(7), 105(b)(2)(B), Oct. 28, 1998, 112 Stat. 2862, 2877, provided that, effective upon the entry into force of the WIPO Performances and Phonograms Treaty with respect to the United States, this section is amended by inserting after the definition of “The ‘WIPO Copyright Treaty’ ” the following:</i>
-
-The “WIPO Performances and Phonograms Treaty” is the WIPO Performances and Phonograms Treaty concluded at Geneva, Switzerland, on December 20, 1996.
+(Pub. L. 94–553, title I, §101, Oct. 19, 1976, 90 Stat. 2541; Pub. L. 96–517, §10(a), Dec. 12, 1980, 94 Stat. 3028; Pub. L. 100–568, §4(a)(1), Oct. 31, 1988, 102 Stat. 2854; Pub. L. 101–650, title VI, §602, title VII, §702, Dec. 1, 1990, 104 Stat. 5128, 5133; Pub. L. 102–307, title I, §102(b)(2), June 26, 1992, 106 Stat. 266; Pub. L. 102–563, §3(b), Oct. 28, 1992, 106 Stat. 4248; Pub. L. 104–39, §5(a), Nov. 1, 1995, 109 Stat. 348; Pub. L. 105–80, §12(a)(3), Nov. 13, 1997, 111 Stat. 1534; Pub. L. 105–147, §2(a), Dec. 16, 1997, 111 Stat. 2678; Pub. L. 105–298, title II, §205, Oct. 27, 1998, 112 Stat. 2833; Pub. L. 105–304, title I, §102(a), Oct. 28, 1998, 112 Stat. 2861; Pub. L. 106–44, §1(g)(1), Aug. 5, 1999, 113 Stat. 222; Pub. L. 106–113, div. B, §1000(a)(9) \[title I, §1011(d)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–544; Pub. L. 106–379, §2(a), Oct. 27, 2000, 114 Stat. 1444; Pub. L. 107–273, div. C, title III, §13210(5), Nov. 2, 2002, 116 Stat. 1909.)
 
 #### Historical and Revision Notes
 
@@ -191,6 +185,10 @@ Section 2(a)(1) of the Work Made For Hire and Copyright Corrections Act of 2000,
 Section 2 of the Uruguay Round Agreements Act, referred to in definitions of “WTO Agreement” and “WTO member country”, is classified to section 3501 of Title 19, Customs Duties.
 
 #### Amendments
+
+2002—Pub. L. 107–273, §13210(5)(B), transferred definition of “Registration” to appear after definition of “publicly”.
+
+Pub. L. 107–273, §13210(5)(A), transferred definition of “computer program” to appear after definition of “compilation”.
 
 2000—Pub. L. 106–379, §2(a)(2), in definition of “work made for hire”, inserted after par. (2) provisions relating to considerations and interpretations to be used in determining whether any work is eligible to be considered a work made for hire under par. (2).
 
@@ -216,7 +214,13 @@ Pub. L. 105–304, §102(a)(4), inserted definition of “international agreemen
 
 Pub. L. 105–298, §205(3), (4), inserted definitions of “performing rights society” and “proprietor”.
 
-Pub. L. 105–304, §102(a)(5), (8), inserted definitions of “treaty party”, “WTO Agreement”, and “WTO member country”.
+Pub. L. 105–304, §102(a)(5), inserted definition of term “treaty party”.
+
+Pub. L. 105–304, §102(a)(6), inserted definition of term “WIPO Copyright Treaty”.
+
+Pub. L. 105–304, §102(a)(7), inserted definition of term “WIPO Performances and Phonograms Treaty”.
+
+Pub. L. 105–304, §102(a)(8), inserted definitions of terms “WTO Agreement” and “WTO member country”.
 
 1997—Pub. L. 105–147 inserted definition of “financial gain”.
 
@@ -260,7 +264,7 @@ In General.—Except as otherwise provided in this title \[see section 101 of Pu
 
 “(b)
 
-Amendments Relating to Certain International Agreements.—(1) The following shall take effect upon the entry into force of the WIPO Copyright Treaty with respect to the United States:
+Amendments Relating to Certain International Agreements.—(1) The following shall take effect upon the entry into force of the WIPO Copyright Treaty with respect to the United States \[Mar. 6, 2002\]:
 
 &emsp;“(A) Paragraph (5) of the definition of ‘international agreement’ contained in section 101 of title 17, United States Code, as amended by section 102(a)(4) of this Act.
 
@@ -270,7 +274,7 @@ Amendments Relating to Certain International Agreements.—(1) The following sha
 
 &emsp;“(D) Subparagraph (C) of section 104A(h)(3) of title 17, United States Code, as amended by section 102(c)(2) of this Act.
 
-“(2) The following shall take effect upon the entry into force of the WIPO Performances and Phonograms Treaty with respect to the United States:
+“(2) The following shall take effect upon the entry into force of the WIPO Performances and Phonograms Treaty with respect to the United States \[May 20, 2002\]:
 
 &emsp;“(A) Paragraph (6) of the definition of ‘international agreement’ contained in section 101 of title 17, United States Code, as amended by section 102(a)(4) of this Act.
 
@@ -316,11 +320,17 @@ Section 13 of Pub. L. 100–568 provided that:
 
 “(a)
 
-Effective Date.—This Act and the amendments made by this Act \[enacting section 116A of this title, amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section\] takeeffect on the date on which the Berne Convention (as defined in section 101 of title 17, United States Code) enters into force with respect to the United States \[Mar. 1, 1989\]. \[The Berne Convention entered into force with respect to the United States on Mar. 1, 1989.\]
+Effective Date.—This Act and the amendments made by this Act \[enacting section 116A of this title, amending this section and sections 104, 116, 205, 301, 401 to 408, 411, 501, 504, 801, and 804 of this title, and enacting provisions set out as notes under this section\] take effect on the date on which the Berne Convention (as defined in section 101 of title 17, United States Code) enters into force with respect to the United States \[Mar. 1, 1989\]. \[The Berne Convention entered into force with respect to the United States on Mar. 1, 1989.\]
 
 “(b)
 
 Effect on Pending Cases.—Any cause of action arising under title 17, United States Code, before the effective date of this Act shall be governed by the provisions of such title as in effect when the cause of action arose.”
+
+#### Short Title of 2002 Amendments
+
+Pub. L. 107–321, §1, Dec. 4, 2002, 116 Stat. 2780, provided that: “This Act \[amending section 114 of this title and enacting provisions set out as notes under section 114 of this title\] may be cited as the ‘Small Webcaster Settlement Act of 2002’.”
+
+Pub. L. 107–273, div. C, title III, §13301(a), Nov. 2, 2002, 116 Stat. 1910, provided that: “This subtitle \[subtitle C (§13301) of title III of div. C of Pub. L. 107–273, amending sections 110, 112, and 802 of this title\] may be cited as the ‘Technology, Education, and Copyright Harmonization Act of 2002’.”
 
 #### Short Title of 2000 Amendment
 
@@ -374,9 +384,9 @@ Pub. L. 102–64, §1, June 28, 1991, 105 Stat. 320, provided that: “This Act 
 
 #### Short Title of 1990 Amendments
 
-Section 601 of title VI of Pub. L. 101–650 provided that: “This title \[enacting section 106A of this title, amending this section and sections 107, 113, 301, 411, 412, 501, and 506 of this title, and enacting provisions set out as notes under this section and section 106A of this title\] may be cited as the ‘Visual Artists Rights Act of 1990’.”
+Section 601 of title VI of Pub. L. 101–650 provided that: “This title \[enacting section 106A of this title,amending this section and sections 107, 113, 301, 411, 412, 501, and 506 of this title, and enacting provisions set out as notes under this section and section 106A of this title\] may be cited as the ‘Visual Artists Rights Act of 1990’.”
 
-Section 701 of title VII of Pub. L. 101–650 provided that: “This title \[enacting section 120 of this title, amending this section and sections 102, 106, and 301 ofthis title, and enacting provisions set out as a note above\] may be cited as the ‘Architectural Works Copyright Protection Act’.”
+Section 701 of title VII of Pub. L. 101–650 provided that: “This title \[enacting section 120 of this title, amending this section and sections 102, 106, and 301 of this title, and enacting provisions set out as a note above\] may be cited as the ‘Architectural Works Copyright Protection Act’.”
 
 Section 801 of title VIII of Pub. L. 101–650 provided that: “This title \[amending section 109 of this title and enacting provisions set out as notes under sections 109 and 205 of this title\] may be cited as the ‘Computer Software Rental Amendments Act of 1990’.”
 

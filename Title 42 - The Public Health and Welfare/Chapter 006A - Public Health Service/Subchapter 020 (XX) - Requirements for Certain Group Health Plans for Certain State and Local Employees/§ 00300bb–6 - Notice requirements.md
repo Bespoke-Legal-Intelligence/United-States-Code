@@ -16,7 +16,7 @@ In accordance with regulations prescribed by the Secretary—
 
 > &emsp;of such beneficiary's rights under this subsection.<sup>1</sup>
 
-> For purposes of paragraph (4), any notification shall be made within 14 days of the date on which the plan administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
+> For purposes of paragraph (4), any notification shall be made within 14 days of the date onwhich the plan administrator is notified under paragraph (2) or (3), whichever is applicable, and any such notification to an individual who is a qualified beneficiary as the spouse of the covered employee shall be treated as notification to all other qualified beneficiaries residing with such spouse at the time such notification is made.
 
 (July 1, 1944, ch. 373, title XXII, §2206, as added Pub. L. 99–272, title X, §10003(a), Apr. 7, 1986, 100 Stat. 235; amended Pub. L. 99–514, title XVIII, §1895(d)(6)(C), Oct. 22, 1986, 100 Stat. 2939; Pub. L. 100–203, title IV, §4009(j)(8), Dec. 22, 1987, 101 Stat. 1330–59; Pub. L. 101–239, title VI, §6702(c), Dec. 19, 1989, 103 Stat. 2295; Pub. L. 104–191, title IV, §421(a)(2), Aug. 21, 1996, 110 Stat. 2088.)
 

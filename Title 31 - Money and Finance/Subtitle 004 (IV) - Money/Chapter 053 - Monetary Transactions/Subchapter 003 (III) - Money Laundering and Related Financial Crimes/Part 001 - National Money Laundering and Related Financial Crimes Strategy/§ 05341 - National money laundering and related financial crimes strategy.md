@@ -34,7 +34,7 @@ Prevention.—Coordination of regulatory and other efforts to prevent the exploi
 
 &emsp;(3)
 
-Detection and prosecution initiatives.—A description of operational initiatives to improve detection and prosecution ofmoney laundering and related financial crimes and the seizure and forfeiture of proceeds and instrumentalities derived from such crimes.
+Detection and prosecution initiatives.—A description of operational initiatives to improve detection and prosecution of money laundering and related financial crimes and the seizure and forfeiture of proceeds and instrumentalities derived from such crimes.
 
 &emsp;(4)
 

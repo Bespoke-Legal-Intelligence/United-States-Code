@@ -20,7 +20,7 @@ This Act, referred to in subsec. (a), is act Oct. 31, 1949, ch. 792, 63 Stat. 10
 
 #### Amendments
 
-1990—Pub. L. 101–624, §2011, inserted at end of subsec. (a) “Beginning with the 1991 crops of wheat, feed grains, and soybeans for which price support is provided under this Act, the Secretary shall establish premiums and discounts related to cleanliness factors inaddition to any other premiums or discounts related to quality.”
+1990—Pub. L. 101–624, §2011, inserted at end of subsec. (a) “Beginning with the 1991 crops of wheat, feed grains, and soybeans for which price support is provided under this Act, the Secretary shall establish premiums and discounts related to cleanliness factors in addition to any other premiums or discounts related to quality.”
 
 Pub. L. 101–624, §1128, in amending section generally, designated part of existing text as subsecs. (a), (b), and (c), and in subsec. (a) inserted provisions excluding cotton, in subsec. (b) substituted reference to 1991 crop for reference to 1982 crop, and substituted reference to quality factors for reference to grade, staple and micronaire, and in subsec. (c) substituted reference to 1990 through 1995 crops for reference to 1988 through 1990 crops, substituted reference to 3 percent for reference to 2 percent, and struck out provisions relating to establishment and duties of a study committee and authority of Secretary to review and revise procedures and criteria for establishing values of premiums and discounts for grade, staple and micronaire for upland cotton program.
 
@@ -45,6 +45,8 @@ Amendment by Pub. L. 97–98 effective Dec. 22, 1981, see section 1801 of Pub. L
 Functions of Corporations of Department of Agriculture, boards of directors and officers of such corporations; Advisory Board of Commodity Credit Corporation; and Farm Credit Administration or any agency, officer, or entity of, under, or subject to supervision of said Administration excepted from functions of officers, agencies, and employees transferred to Secretary of Agriculture by 1953 Reorg. Plan No. 2, §1, effective June 4, 1953, 18 F.R. 3219, 67 Stat. 633, set out as a note under section 2201 of this title.
 
 #### Inapplicability of Section
+
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(10) of this title.
 
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(J) of this title.
 

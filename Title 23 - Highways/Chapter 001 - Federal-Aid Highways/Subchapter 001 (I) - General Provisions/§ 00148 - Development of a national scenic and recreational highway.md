@@ -2,7 +2,7 @@
 
 (a) As soon as possible after the date of enactment of this section, the Secretary shall establish criteria for the location and construction or reconstruction of the Great River Road by the ten States bordering the Mississippi River. Such criteria shall include requirements that—
 
-&emsp;(1) priority be given in the location of the Great River Road near or easily accessible to the larger population centers of the State <sup>1</sup> and further priority be given to the construction and improvement of the Great River Road in the proximity of the confluence of the Mississippi River and the Wisconsin River;
+&emsp;(1) priority be given in the location of the Great River Road near or easily accessible to the larger population centers of the State <sup>1</sup> and further priority be given to the construction and improvement of the Great River Roadin the proximity of the confluence of the Mississippi River and the Wisconsin River;
 
 &emsp;(2) the Great River Road be connected with other Federal-aid highways and preferably with the Interstate System;
 
@@ -10,7 +10,7 @@
 
 &emsp;(4) effective control, as defined in section 131 of this title, of signs, displays, and devices will be provided along the Great River Road;
 
-&emsp;(5) the provisions of section 129(a) of this title shall not apply to any bridge or tunnel on the Great River Road and no fees shall be charged for the use of any facility constructed with assistance under this section, except for parks, recreational areas, and historical sites operated by State or local governments whereadmission fees may be charged to cover operational costs.
+&emsp;(5) the provisions of section 129(a) of this title shall not apply to any bridge or tunnel on the Great River Road and no fees shall be charged for the use of any facility constructed with assistance under this section, except for parks, recreational areas, and historical sites operated by State or local governments where admission fees may be charged to cover operational costs.
 
 (b) For the purpose of this section, the term “construction” includes the acquisition of areas of historical, archeological, or scientific interest, necessary easements for scenic purposes, and the construction or reconstruction of roadside rest areas (including appropriate recreational facilities), scenic viewing areas, and other appropriate facilities as determined by the Secretary.
 

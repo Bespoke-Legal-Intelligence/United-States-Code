@@ -180,7 +180,7 @@ Section 209 of Pub. L. 98–353 provided that:
 
 #### Effective Date of 1980 Amendment
 
-Amendment by Pub. L. 96–427 applicable only in case of an employee who retires or becomes entitled to receive compensation for work injury on or after 180th day following Oct. 10, 1980, or any earlier date that Office of Personnel Management may prescribe which isat least 60 days after Oct. 10, 1980, see section 10(c) of Pub. L. 96–427, set out as a note under section 8701 of this title.
+Amendment by Pub. L. 96–427 applicable only in case of an employee who retires or becomes entitled to receive compensation for work injury on or after 180th day following Oct. 10, 1980, or any earlier date that Office of Personnel Management may prescribe which is at least 60 days after Oct. 10, 1980, see section 10(c) of Pub. L. 96–427, set out as a note under section 8701 of this title.
 
 #### Effective Date of 1978 Amendments
 

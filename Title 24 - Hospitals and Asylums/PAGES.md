@@ -1,6 +1,6 @@
 # Printed pages - Title 24 - Hospitals and Asylums
 
-GPO's 2001 edition (laws in effect as of 2002-01-22), from its printed page marks. The exact position of
+GPO's 2002 edition (laws in effect as of 2003-01-06), from its printed page marks. The exact position of
 every mark is in `_page-maps/USCODE-title24.json`. Page numbers belong to the printed edition and change
 from edition to edition; the section files hold the text only.
 
@@ -181,8 +181,8 @@ from edition to edition; the section files hold the text only.
 | [&sect; 00418 - Inspection of Retirement Home](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000418%20-%20Inspection%20of%20Retirement%20Home.md) | 37–38 |
 | [&sect; 00419 - Armed Forces Retirement Home Trust Fund](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000419%20-%20Armed%20Forces%20Retirement%20Home%20Trust%20Fund.md) | 38 |
 | [&sect; 00420 - Disposition of effects of deceased persons; unclaimed property](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000420%20-%20Disposition%20of%20effects%20of%20deceased%20persons%3B%20unclaimed%20property.md) | 38–40 |
-| [&sect; 00421 - Payment of residents for services](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000421%20-%20Payment%20of%20residents%20for%20services.md) | 40 |
-| [&sect; 00422 - Authority to accept certain uncompensated services](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000422%20-%20Authority%20to%20accept%20certain%20uncompensated%20services.md) | 40–41 |
+| [&sect; 00421 - Payment of residents for services](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000421%20-%20Payment%20of%20residents%20for%20services.md) | 40–41 |
+| [&sect; 00422 - Authority to accept certain uncompensated services](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000422%20-%20Authority%20to%20accept%20certain%20uncompensated%20services.md) | 41 |
 | [&sect; 00423 - Preservation of historic buildings and grounds at the Armed Forces Retirement Home&#8212;Washington](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000423%20-%20Preservation%20of%20historic%20buildings%20and%20grounds%20at%20the%20Armed%20Forces%20Retirement%20Home%E2%80%94Washington.md) | 41–42 |
 | [&sect; 00424 - Repealed. Pub. L. 107&#8211;107, div. A, title XIV, &sect;1410(a)(5), Dec. 28, 2001, 115 Stat. 1266](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20001%20%28I%29%20-%20Establishment%20and%20Operation%20of%20Retirement%20Home/%C2%A7%2000424%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93107%2C%20div.%20A%2C%20title%20XIV%2C%20%C2%A71410%28a%29%285%29%2C%20Dec.%2028%2C%202001%2C%20115%20Stat.%201266.md) | 42 |
 | [Subchapter 002 (II) - Transitional Provisions](Chapter%20010%20-%20Armed%20Forces%20Retirement%20Home/Subchapter%20002%20%28II%29%20-%20Transitional%20Provisions/README.md) | 42 |

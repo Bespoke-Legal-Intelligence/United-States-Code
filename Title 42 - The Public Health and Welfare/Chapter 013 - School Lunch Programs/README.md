@@ -35,6 +35,7 @@
 | (g) | Justification of production records; paperwork reduction. |
 | (h) | Food safety inspections. |
 | (i) | Single permanent agreement between State agency and school food authority; common claims form. |
+| (j) | Purchases of locally produced foods. |
 | [1759\.](%C2%A7%2001759%20-%20Direct%20disbursement%20to%20schools%20by%20Secretary.md) | Direct disbursement to schools by Secretary. |
 | [1759a.](%C2%A7%2001759a%20-%20Special%20assistance%20funds.md) | Special assistance funds. |
 | (a) | Formula for computation of payments; computation for lunches to eligible children in schools funding service to ineligible children from non-Federal sources; special assistance factors; annual adjustments. |
@@ -123,6 +124,7 @@
 | (d) | Fortified fluid milk. |
 | (e) | Breakfast pilot projects. |
 | (f) | Summer food pilot projects. |
+| (g) | Fruit and vegetable pilot program. |
 | [1769a.](%C2%A7%2001769a%20-%20Repealed.%20Pub.%20L.%20104%E2%80%93193%2C%20title%20VII%2C%20%C2%A7710%2C%20Aug.%2022%2C%201996%2C%20110%20Stat.%202301.md) | Repealed. |
 | [1769b.](%C2%A7%2001769b%20-%20Department%20of%20Defense%20overseas%20dependents%E2%80%99%20schools.md) | Department of Defense overseas dependents’ schools. |
 | (a) | Purpose of program; availability of payments and commodities. |
@@ -164,7 +166,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1633, 1643, 1772, 1776, 1776a, 1776b, 1779, 1782, 1785, 9858m, 9859c of this title; title 7 sections 1431c, 4004; title 8 sections 1255a, 1613, 1615, 1632; title 20 sections 1070a–22, 1070a–24, 1070a–26, 6313, 6537; title 26 section 1397E; title 31 section 3803; title 40 section 474; title 48 section 1666.
+This chapter is referred to in sections 1633, 1643, 1772, 1776, 1776a, 1776b, 1779, 1782, 1785, 9858m, 9859c of this title; title 7 sections 1431c, 4004; title 8 sections 1255a, 1613, 1615, 1632; title 20 sections 1070a–22, 1070a–24, 1070a–26, 6313, 6537; title 26 section 1397E; title 31 section 3803; title 40 section 113; title 48 section 1666.
 
 
 ---

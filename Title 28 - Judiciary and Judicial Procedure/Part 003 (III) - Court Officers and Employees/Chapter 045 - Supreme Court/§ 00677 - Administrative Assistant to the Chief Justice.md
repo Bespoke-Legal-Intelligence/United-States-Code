@@ -20,5 +20,5 @@
 
 #### Amendments
 
-<b>1998</b>—Subsec. (c). Pub. L. 105–233 added subsec. (c).
+1998—Subsec. (c). Pub. L. 105–233 added subsec. (c).
 

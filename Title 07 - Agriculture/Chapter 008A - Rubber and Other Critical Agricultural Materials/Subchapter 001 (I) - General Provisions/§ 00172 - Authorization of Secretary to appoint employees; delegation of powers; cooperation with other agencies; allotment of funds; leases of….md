@@ -1,6 +1,6 @@
 ### §172. Authorization of Secretary to appoint employees; delegation of powers; cooperation with other agencies; allotment of funds; leases of facilities and disposal of water
 
-(a) The Secretary is authorized to appoint such employees, including citizens of other countries, as may be necessary for carrying out the provisions of sections 171 to 173 of this title. Such appointments may be made without regard to the provisions of the civil-service laws. (Sections 321, 322, 324, and 325a of title 40 shall not apply to any nursery, planting, cultivating or harvesting operations conducted pursuant to sections 171 to 173 of this title.) All appointments so made by the Secretary shall be made only on the basis of merit and efficiency.
+(a) The Secretary is authorized to appoint such employees, including citizens of other countries, as may be necessary for carrying out the provisions of sections 171 to 173 of this title. Such appointments may be made without regard to the provisions of the civil-service laws. (Sections 321, 322, 324, and 325a of title 40 <sup>1</sup> shall not apply to any nursery, planting, cultivating or harvesting operations conducted pursuant to sections 171 to 173 of this title.) All appointments so made by the Secretary shall be made only on the basis of merit and efficiency.
 
 (b) The Secretary may delegate any of the powers and duties conferred on him by sections 171 to 173 of this title to any agency or bureau of the Department of Agriculture.
 
@@ -18,7 +18,7 @@
 
 The civil service laws, referred to in subsec. (a), are set forth in Title 5, Government Organization and Employees. See, particularly, section 3301 et seq. of Title 5.
 
-Sections 321, 322, 324, and 325a of title 40, referred to in subsec. (a), were repealed by Pub. L. 87–581, title II, §203, Aug. 13, 1962, 76 Stat. 360. See sections 328, 330, and 332 of Title 40, Public Buildings, Property, and Works.
+Sections 321, 322, 324, and 325a of title 40, referred to in subsec. (a), mean sections 321, 322, 324, and 325a of former title 40 which were repealed by Pub. L. 87–581, title II, §203, Aug. 13, 1962, 76 Stat. 360. See sections 3702, 3703, and 3708 of Title 40, Public Buildings, Property, and Works.
 
 #### Codification
 
@@ -37,4 +37,6 @@ Functions of all officers, agencies, and employees of Department of Agriculture 
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 173, 175 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

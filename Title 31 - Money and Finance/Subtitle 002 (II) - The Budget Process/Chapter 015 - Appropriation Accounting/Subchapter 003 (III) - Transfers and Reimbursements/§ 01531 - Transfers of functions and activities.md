@@ -1,6 +1,6 @@
 ### §1531. Transfers of functions and activities
 
-(a) The balance of an appropriation available and necessary to finance or discharge a function or activity transferred or assigned under law within an executive agency or from one executive agency to another may be transferred to and used—
+(a) The balance of an appropriation available and necessary to finance or discharge a functionor activity transferred or assigned under law within an executive agency or from one executive agency to another may be transferred to and used—
 
 &emsp;(1) by the organizational unit or agency to which the function or activity was transferred or assigned; and
 
@@ -50,5 +50,5 @@ Pub. L. 101–189, div. A, title XVI, §1604, Nov. 29, 1989, 103 Stat. 1598, pro
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 6912; title 20 sections 76k, 3501; title 42 sections 5872, 7291; title 46 App. section 1605.
+This section is referred to in title 6 sections 275, 279, 551; title 7 section 6912; title 20 sections 76k, 3501; title 42 sections 5872, 7291; title 46 App. section 1605.
 

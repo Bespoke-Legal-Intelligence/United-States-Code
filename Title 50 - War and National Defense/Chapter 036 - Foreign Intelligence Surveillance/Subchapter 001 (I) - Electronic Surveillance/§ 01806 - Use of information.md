@@ -14,7 +14,7 @@ Whenever the Government intends to enter into evidence or otherwise use or discl
 
 #### (d) Notification by States or political subdivisions
 
-Whenever any State or political subdivision thereof intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of a State or a political subdivisionthereof, against an aggrieved person any information obtained or derived from an electronic surveillance of that aggrieved person pursuant to the authority of this subchapter, the State or political subdivision thereof shall notify the aggrieved person, the court or other authority in which the information is to be disclosed or used, and the Attorney General that the State or political subdivision thereof intends to so disclose or so use such information.
+Whenever any State or political subdivision thereof intends to enter into evidence or otherwise use or disclose in any trial, hearing, or other proceeding in or before any court, department, officer, agency, regulatory body, or other authority of a State or a political subdivision thereof, against an aggrieved person any information obtained or derived from an electronic surveillance of that aggrieved person pursuant to the authority of this subchapter, the State or political subdivision thereof shall notify the aggrieved person, the court or other authority in which the information is to be disclosed or used, and the Attorney General that the State or political subdivision thereof intends to so disclose or so use such information.
 
 #### (e) Motion to suppress
 
@@ -36,7 +36,7 @@ If the United States district court pursuant to subsection (f) of this section d
 
 #### (h) Finality of orders
 
-Orders granting motions or requests under subsection (g) of this section, decisions under this section that electronic surveillance was not lawfully authorized or conducted, and orders of the United States district court requiring review or granting disclosure of applications, orders, or other materials relating to a surveillance shall be final orders and binding upon all courts of the United States and the several States except a United States court of appeals and the Supreme Court.
+Orders granting motions or requests under subsection (g) of this section, decisions under this section that electronic surveillance was not lawfully authorized or conducted, and orders ofthe United States district court requiring review or granting disclosure of applications, orders, or other materials relating to a surveillance shall be final orders and binding upon all courts of the United States and the several States except a United States court of appeals and the Supreme Court.
 
 #### (i) Destruction of unintentionally acquired information
 
@@ -56,7 +56,7 @@ If an emergency employment of electronic surveillance is authorized under sectio
 
 #### (k) Coordination with law enforcement on national security matters
 
-(1) Federal officers who conduct electronic surveillance to acquire foreign intelligence information under this subchapter may consult with Federal law enforcement officers to coordinate efforts to investigate or protect against—
+(1) Federal officers who conduct electronic surveillance to acquire foreign intelligence information under this subchapter may consult with Federal law enforcement officers or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision) to coordinate efforts to investigate or protect against—
 
 &emsp;(A) actual or potential attack or other grave hostile acts of a foreign power or an agent of a foreign power;
 
@@ -66,7 +66,7 @@ If an emergency employment of electronic surveillance is authorized under sectio
 
 (2) Coordination authorized under paragraph (1) shall not preclude the certification required by section 1804(a)(7)(B) of this title or the entry of an order under section 1805 of this title.
 
-(Pub. L. 95–511, title I, §106, Oct. 25, 1978, 92 Stat. 1793; Pub. L. 107–56, title V, §504(a), Oct. 26, 2001, 115 Stat. 364.)
+(Pub. L. 95–511, title I, §106, Oct. 25, 1978, 92 Stat. 1793; Pub. L. 107–56, title V, §504(a), Oct. 26, 2001, 115 Stat. 364; Pub. L. 107–296, title VIII, §898, Nov. 25, 2002, 116 Stat. 2258.)
 
 #### References in Text
 
@@ -74,7 +74,13 @@ Section 1805(e) of this title, referred to in subsec. (j), was redesignated sect
 
 #### Amendments
 
+2002—Subsec. (k)(1). Pub. L. 107–296, in introductory provisions, inserted “or law enforcement personnel of a State or political subdivision of a State (including the chief executive officer of that State or political subdivision who has the authority to appoint or direct the chief law enforcement officer of that State or political subdivision)” after “law enforcement officers”.
+
 2001—Subsec. (k). Pub. L. 107–56 added subsec. (k).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Report on Mechanisms for Determinations of Disclosure of Information for Law Enforcement Purposes
 

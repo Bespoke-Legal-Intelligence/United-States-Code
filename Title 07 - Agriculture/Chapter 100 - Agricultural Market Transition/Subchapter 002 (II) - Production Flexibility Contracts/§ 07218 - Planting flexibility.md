@@ -20,7 +20,7 @@ Subject to subsection (b) of this section, any commodity or crop may be planted 
 
 &emsp;&emsp;(C) by a producer who the Secretary determines has an established planting history of a specific fruit or vegetable, except that—
 
-&emsp;&emsp;&emsp;(i) the quantity planted may not exceed the producer's average annual plantinghistory of the fruit or vegetable in the 1991 through 1995 crop years (excluding any crop year in which no plantings were made), as determined by the Secretary; and
+&emsp;&emsp;&emsp;(i) the quantity planted may not exceed the producer's average annual planting history of the fruit or vegetable in the 1991 through 1995 crop years (excluding any crop year in which no plantings were made), as determined by the Secretary; and
 
 &emsp;&emsp;&emsp;(ii) a contract payment shall be reduced by an acre for each acre planted to the fruit or vegetable.
 

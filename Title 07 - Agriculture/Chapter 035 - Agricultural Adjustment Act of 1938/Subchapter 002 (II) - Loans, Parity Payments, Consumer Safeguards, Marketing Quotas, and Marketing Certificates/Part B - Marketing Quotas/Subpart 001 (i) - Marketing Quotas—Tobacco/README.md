@@ -1,5 +1,9 @@
 subpart i—marketing quotas—tobacco
 
+#### Subpart Referred to in Other Sections
+
+This subpart is referred to in section 7994 of this title.
+
 
 ---
 

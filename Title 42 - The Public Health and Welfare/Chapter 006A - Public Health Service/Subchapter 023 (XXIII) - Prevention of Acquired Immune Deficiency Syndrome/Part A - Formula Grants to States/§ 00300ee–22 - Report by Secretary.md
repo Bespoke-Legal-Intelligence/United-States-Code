@@ -1,6 +1,6 @@
 ### §300ee–22. Report by Secretary
 
-The Secretary shall annually prepare a report on the activities of the States carried out pursuant to this part. Such report may include any recommendations of the Secretary for appropriate administrative and legislative initiatives. The report shall be submitted to the Congress through inclusion in the comprehensive report required in section 300cc(a) of this title.
+The Secretary shall annually prepare a report on the activities of the States carried out pursuant to this part. Such report may include any recommendations of the Secretary for appropriate administrative and legislative initiatives.The report shall be submitted to the Congress through inclusion in the comprehensive report required in section 300cc(a) of this title.
 
 (July 1, 1944, ch. 373, title XXV, formerly title XV, §2512, as added Pub. L. 100–607, title II, §221, Nov. 4, 1988, 102 Stat. 3101; amended Pub. L. 100–690, title II, §2619(h) \[(i)\], Nov. 18, 1988, 102 Stat. 4243; renumbered title XXV, Pub. L. 101–93, §5(e)(1), Aug. 16, 1989, 103 Stat. 612.)
 

@@ -84,7 +84,7 @@ Pub. L. 97–229, §1, Aug. 3, 1982, 96 Stat. 248, provided that: “This Act \[
 
 #### Short Title of 1981 Amendment
 
-Pub. L. 97–35, title X, §1031, Aug. 13, 1981, 95 Stat. 618, provided that: “This subtitle \[subtitle C (§§1031–1038) of title X of Pub. L. 97–35, enacting section 6247 of this title, amending sections 6240, 6245, and 6246 of this title, and enacting visions set out as notes under sections 6231, 6240, and 6247 of this title\] may be cited as the ‘Strategic Petroleum Reserve Amendments Act of 1981’.”
+Pub. L. 97–35, title X, §1031, Aug. 13, 1981, 95 Stat. 618, provided that: “This subtitle \[subtitle C (§§1031–1038) oftitle X of Pub. L. 97–35, enacting section 6247 of this title, amending sections 6240, 6245, and 6246 of this title, and enacting visions set out as notes under sections 6231, 6240, and 6247 of this title\] may be cited as the ‘Strategic Petroleum Reserve Amendments Act of 1981’.”
 
 #### Short Title
 
@@ -712,7 +712,7 @@ In general.—A public utility that is aggrieved by a violation described in sub
 
 &emsp;“(2)
 
-Transmittal to qualified state association.—A complaint shall be transmitted concurrently to any qualified State association undertaking the consumer education activity with respect to which the complaint is made.
+Transmittal to qualified state association.—A complaint shall be transmitted concurrently to any qualified State association undertaking theconsumer education activity with respect to which the complaint is made.
 
 &emsp;“(3)
 
@@ -794,7 +794,7 @@ Sec. 5. The Secretary of State is hereby delegated the authority vested in the P
 
 Sec. 6. The Secretary of Energy is designated and empowered to perform without approval, ratification, or other action by the President, the functions vested in the President by:
 
-(a) Section 251 of the Energy Policy and Conservation Act (89 Stat. 894, 42 U.S.C. 6271), except the making of the findings provided by subparagraph (b)(1)(B) thereof; however, in performing these functions, the Secretary shall consult with the Secretary of Commerce with respect to the international allocation of petroleum products which are within the territorial jurisdiction of the United States; and <i>provided that</i> the Secretary of Commerce shall promulgate rules, pursuant to the procedures established by the Export Administration Act of 1969, as amended \[50 App. U.S.C. former 2401 et seq.\], to authorize the export of petroleum and petroleum products, as may be necessary for implementation of the obligations of the United States under the International Energy Program, and in accordance with the rules promulgated under Section 251 of the Energy Policy and Conservation Act by the Secretary pursuant to this subsection.
+(a) Section 251 of the Energy Policy and Conservation Act (89 Stat. 894, 42 U.S.C. 6271), except the making of the findings provided by subparagraph (b)(1)(B) thereof; however, in performing these functions, the Secretaryshall consult with the Secretary of Commerce with respect to the international allocation of petroleum products which are within the territorial jurisdiction of the United States; and <i>provided that</i> the Secretary of Commerce shall promulgate rules, pursuant to the procedures established by the Export Administration Act of 1969, as amended \[50 App. U.S.C. former 2401 et seq.\], to authorize the export of petroleum and petroleum products, as may be necessary for implementation of the obligations of the United States under the International Energy Program, and in accordance with the rules promulgated under Section 251 of the Energy Policy and Conservation Act by the Secretary pursuant to this subsection.
 
 (b) Section 253(c) of the Energy Policy and Conservation Act (89 Stat. 898, 42 U.S.C. 6273);
 
@@ -808,7 +808,7 @@ Sec. 6. The Secretary of Energy is designated and empowered to perform without a
 
 Secs. 7 and 8. Revoked by Ex. Ord. No. 12919, §904(a)(7), June 3, 1994, 59 F.R. 29533.\]
 
-Sec. 9. All orders, regulations, circulars or other directives issued and all other action taken prior to thedate of this order that would be valid under the authority delegated by this Order, are hereby confirmed and ratified and shall be deemed to have been issued under this order.
+Sec. 9. All orders, regulations, circulars or other directives issued and all other action taken prior to the date of this order that would be valid under the authority delegated by this Order, are hereby confirmed and ratified and shall be deemed to have been issued under this order.
 
 Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretary, shall develop, with the concurrence of the Director of the Office of Management and Budget, and in consultation with the Secretary of Defense, the Secretary of Housing and Urban Development, the Administrator of Veterans’ Affairs, the Administrator of General Services, and the heads of such other Executive agencies as he deems appropriate, the ten-year plan for energy conservation with respect to Government buildings, as provided by section 381(a)(2) of the Energy Policy and Conservation Act (42 U.S.C. 6361(a)(2)).
 
@@ -844,7 +844,7 @@ Sec. 10. (a)(1) The Secretary of Energy, hereinafter referred to as the Secretar
 
 (i) Each agency shall program its proposed energy conservation improvements of buildings so as to give the highest priority to the most cost-effective projects.
 
-(j) No agency of the Federal government may enter into a lease or a commitment to lease a building the construction of which has not commenced by the effective date of this Order unless the building will likelymeet or exceed the general goal set forth in subsection (b)(2).
+(j) No agency of the Federal government may enter into a lease or a commitment to lease a building the construction of which has not commenced by the effective date of this Order unless the building will likely meet or exceed the general goal set forth in subsection (b)(2).
 
 (k) The provisions of this Section do not apply to housing units repossessed by the Federal Government.
 

@@ -238,7 +238,7 @@ Expenditures by the Federal Government for the purposes of the Commission of Fin
 
 #### Amendments
 
-The enumeration of the National Cemeteries and Parks of the War Department which were transferredto the Department of the Interior was added by Ex. Ord. No. 6228, §1, of July 28, 1933, and Ex. Ord. No. 8428 of June 3, 1940.
+The enumeration of the National Cemeteries and Parks of the War Department which were transferred to the Department of the Interior was added by Ex. Ord. No. 6228, §1, of July 28, 1933, and Ex. Ord. No. 8428 of June 3, 1940.
 
 A provision of this section transferring the administration of national cemeteries located in foreign countries to the State Department was revoked by Ex. Ord. No. 6614 of Feb. 26, 1934.
 
@@ -264,7 +264,7 @@ Disbursement
 
 #### Amendments
 
-The bracketed provisions in the first sentence of section 4 of Ex. Ord. No. 6166 reflect the changes effected by 1940 Reorg. Plan No. IV, §§3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, 1235, Ex. Ord. No. 6728, and 1940 Reorg. Plan No. III, §1(a)(1), 5 F.R. 2107, 54 Stat. 1231, respectively.
+The bracketed provisions in the first sentence of section 4 of Ex. Ord. No. 6166 reflect the changes effectedby 1940 Reorg. Plan No. IV, §§3, 4, eff. June 30, 1940, 5 F.R. 2421, 54 Stat. 1234, 1235, Ex. Ord. No. 6728, and 1940 Reorg. Plan No. III, §1(a)(1), 5 F.R. 2107, 54 Stat. 1231, respectively.
 
 #### Effective Date
 
@@ -378,7 +378,7 @@ The effective date of this section originally fixed by section 22 of this Ex. Or
 
 Functions Abolished
 
-Section 18 of Ex. Ord. No. 6166, which provided for the partial abolition of cooperative vocational education payments for agricultural experiment stations; cooperative agricultural extension work; and endowment and maintenance of colleges for the benefit of agriculture and the mechanical arts, was revoked by Ex. Ord. No. 6536 of Feb. 6, 1934.
+Section 18 of Ex. Ord. No. 6166, which provided for the partial abolition of cooperative vocational educationpayments for agricultural experiment stations; cooperative agricultural extension work; and endowment and maintenance of colleges for the benefit of agriculture and the mechanical arts, was revoked by Ex. Ord. No. 6536 of Feb. 6, 1934.
 
 #### §19.
 
@@ -426,7 +426,7 @@ In accordance with law, this order shall become effective 61 days from its date:
 
 \[Postponements of effective date of certain transfers, etc., see notes under the various sections of this Executive Order effecting those transfers, etc.\]
 
-Executive Order No. 7261, promulgated December 31, 1935, provided that “except as hereinafter provided, the transfers, consolidations, and eliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, which are not effected prior to December 31, 1935, pursuant to Executive Order No. 6224 of July 27, 1933, Executive Order No. 6540 of December 28, 1933, Executive Order No. 6727 of May 29, 1934, Executive Order No. 6927 of December 21, 1934, and Executive Order No. 7077 of June 15, 1935, together with the operation of all other provisions of Executive OrderNo. 6166 of June 10, 1933, as amended, in so far as they relate to said section 4, be further delayed until June 30, 1936: Provided, that any transfer, consolidation, or elimination, in whole or in part, under said section 4, including any other provisions of the said order of June 10, 1933, in so far as they relate to section 4 thereof, may be made operative and effective between December 31, 1935, and June 30, 1936, by order of the Secretary of the Treasury, approved by the President.”
+Executive Order No. 7261, promulgated December 31, 1935, provided that “except as hereinafter provided, the transfers, consolidations, and eliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, which are not effected prior to December 31, 1935, pursuant to Executive Order No. 6224 of July 27, 1933, Executive Order No. 6540 of December 28, 1933, Executive Order No. 6727 of May 29, 1934, Executive Order No. 6927 of December 21, 1934, and Executive Order No. 7077 of June 15, 1935, together with the operation of all other provisions of Executive Order No. 6166 of June 10, 1933, as amended, in so far as they relate to said section 4, be further delayed until June 30, 1936: Provided, that any transfer, consolidation, or elimination, in whole or in part, under said section 4, including any other provisions of the said order of June 10, 1933, in so far as they relate to section 4 thereof, may be made operative and effective between December 31, 1935, and June 30, 1936, by order of the Secretary of the Treasury, approved by the President.”
 
 Executive Order No. 7980, promulgated September 29, 1938, provided: “That the transfers, consolidations, and eliminations contemplated by section 4 of Executive Order No. 6166 of June 10, 1933, as amended, together with the operation of all other provisions of Executive Order No. 6166 of June 10, 1933, as amended, so far as they relate to the said section 4, be further delayed until December 31, 1938, with respect to the function of disbursement now exercised by United States Marshals under the Department of Justice.”
 

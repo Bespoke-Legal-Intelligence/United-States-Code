@@ -1,0 +1,26 @@
+### §607. Records
+
+The Administrator of General Services shall maintain an accurate record of the cost of establishing, maintaining, and operating each motor vehicle pool or system established under section 602 of this title.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1124.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+607
+
+40:491(f) (1st sentence).
+
+June 30, 1949, ch. 288, title II, §211(f) (1st sentence), as added Sept. 5, 1950, ch. 849, §5(c), 64 Stat. 583; Sept. 1, 1954, ch. 1211, §2, 68 Stat. 1127.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 42 section 7588.
+

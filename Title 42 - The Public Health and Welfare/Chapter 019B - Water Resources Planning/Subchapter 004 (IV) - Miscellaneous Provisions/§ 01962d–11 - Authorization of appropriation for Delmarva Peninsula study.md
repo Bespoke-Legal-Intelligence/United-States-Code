@@ -1,6 +1,6 @@
 ### §1962d–11. Authorization of appropriation for Delmarva Peninsula study
 
-There is hereby authorized to be appropriated the sum of $500,000 to carry out the provisions of sections 1962d–7 to 1962d–11 of this title: <i>Pro</i><i>vided</i>, That nothing in such sections shall prevent the expenditure of other funds appropriated to the United States Geological Survey for studies and activities performed under its general authority.
+There is hereby authorized to be appropriated the sum of $500,000 to carry out the provisions of sections 1962d–7 to 1962d–11 of this title: <i>Provided</i>, That nothing in such sections shall prevent the expenditure of other funds appropriated to the United States Geological Survey for studies and activities performed under its general authority.
 
 (Pub. L. 89–618, §5, Oct. 4, 1966, 80 Stat. 871; Pub. L. 102–154, title I, Nov. 13, 1991, 105 Stat. 1000.)
 

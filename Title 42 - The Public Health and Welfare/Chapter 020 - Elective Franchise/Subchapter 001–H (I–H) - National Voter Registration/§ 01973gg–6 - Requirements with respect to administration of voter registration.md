@@ -40,11 +40,15 @@ In the administration of voter registration for elections for Federal office, ea
 
 #### (b) Confirmation of voter registration
 
-Any State program or activity to protect the integrity of the electoral process by ensuringthe maintenance of an accurate and current voter registration roll for elections for Federal office—
+Any State program or activity to protect the integrity of the electoral process by ensuring the maintenance of an accurate and current voter registration roll for elections for Federal office—
 
 &emsp;(1) shall be uniform, nondiscriminatory, and in compliance with the Voting Rights Act of 1965 (42 U.S.C. 1973 et seq.); and
 
-&emsp;(2) shall not result in the removal of the name of any person from the official list of voters registered to vote in an election for Federal office by reason of the person's failure to vote.
+&emsp;(2) shall not result in the removal of the name of any person from the official list of voters registered to vote in an election for Federal office by reason of the person's failure to vote, except that nothing in this paragraph may be construed to prohibit a State from using the procedures described in subsections (c) and (d) of this section to remove an individual from the official list of eligible voters if the individual—
+
+&emsp;&emsp;(A) has not either notified the applicable registrar (in person or in writing) or responded during the period described in subparagraph (B) to the notice sent by the applicable registrar; and then
+
+&emsp;&emsp;(B) has not voted or appeared to vote in 2 or more consecutive general elections for Federal office.
 
 #### (c) Voter removal programs
 
@@ -92,9 +96,9 @@ Any State program or activity to protect the integrity of the electoral process 
 
 &emsp;(i) shall be permitted to correct the voting records and vote at the registrant's former polling place, upon oral or written affirmation by the registrant of the new address before an election official at that polling place; or
 
-&emsp;(ii)(I) shall be permitted to correct the voting records and vote at a central location within the same registrar's jurisdiction designated by the registrar where a list of eligible voters is maintained, upon written affirmation by the registrant of the new address on a standard form provided by the registrar at the central location; or
+&emsp;(ii)(I) shall be permitted to correct the voting records and vote at a central locationwithin the same registrar's jurisdiction designated by the registrar where a list of eligible voters is maintained, upon written affirmation by the registrant of the new address on a standard form provided by the registrar at the central location; or
 
-&emsp;(II) shall be permitted to correct the voting records for purposes of voting in future elections at the appropriate polling place for the current address and, if permitted by State law, shall be permitted to vote in the present election, upon confirmation by the registrant ofthe new address by such means as are required by law.
+&emsp;(II) shall be permitted to correct the voting records for purposes of voting in future elections at the appropriate polling place for the current address and, if permitted by State law, shall be permitted to vote in the present election, upon confirmation by the registrant of the new address by such means as are required by law.
 
 (B) If State law permits the registrant to vote in the current election upon oral or written affirmation by the registrant of the new address at a polling place described in subparagraph (A)(i) or (A)(ii)(II), voting at the other locations described in subparagraph (A) need not be provided as options.
 
@@ -144,7 +148,7 @@ For the purposes of this section, the term “registrar's jurisdiction” means�
 
 &emsp;(3) if voter registration is maintained on a consolidated basis for more than one municipality or other unit of government by an office that performs all of the functions of a voting registrar, the geographic area of the consolidated municipalities or other geographic units.
 
-(Pub. L. 103–31, §8, May 20, 1993, 107 Stat. 82.)
+(Pub. L. 103–31, §8, May 20, 1993, 107 Stat. 82; Pub. L. 107–252, title IX, §903, Oct. 29, 2002, 116 Stat. 1728.)
 
 #### References in Text
 
@@ -154,7 +158,15 @@ The Voting Rights Act of 1965, referred to in subsec. (b)(1), is Pub. L. 89–11
 
 Section is comprised of section 8 of Pub. L. 103–31. Subsec. (h) of section 8 of Pub. L. 103–31 enacted section 3629 of Title 39, Postal Service, and amended sections 2401 and 3627 of Title 39.
 
+#### Amendments
+
+2002—Subsec. (b)(2). Pub. L. 107–252 inserted before period at end “, except that nothing in this paragraph may be construed to prohibit a State from using the procedures described in subsections (c) and (d) of this section to remove an individual from the official list of eligible voters if the individual—
+
+&emsp;“(A) has not either notified the applicable registrar (in person or in writing) or responded during the period described in subparagraph (B) to the notice sent by the applicable registrar; and then
+
+&emsp;“(B) has not voted or appeared to vote in 2 or more consecutive general elections for Federal office”.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1973ff–3, 1973gg–3, 1973gg–4, 1973gg–7 of this title.
+This section is referred to in sections 1973ff–3, 1973gg–3, 1973gg–4, 1973gg–7, 15483 of this title.
 

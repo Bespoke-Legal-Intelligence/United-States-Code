@@ -22,13 +22,15 @@ To carry out the purposes of the Foundation under section 5802(b) of this title,
 
 &emsp;(3) unless otherwise required by instrument of transfer, to sell, donate, lease, invest, reinvest, retain, or otherwise dispose of any property or income from property;
 
-&emsp;(4) to borrow money from private sources and issue bonds, debentures, or other debt instruments, subject to section 5808 of this title, except that the aggregate amount of the borrowing and debt instruments outstanding at any time may not exceed $1,000,000;
+&emsp;(4) on the written approval of the Secretary, to use, license, or transfer symbols, slogans, and logos of the Foundation (exclusive of any symbol or logo of a governmental entity);
 
-&emsp;(5) to sue and be sued, and complain and defend itself, in any court of competent jurisdiction, except that a member of the Board shall not be personally liable for an action in the performance of services for the Board, except for gross negligence;
+&emsp;(5) to borrow money from private sources and issue bonds, debentures, or other debt instruments, subject to section 5808 of this title, except that the aggregate amount of the borrowing and debt instruments outstanding at any time may not exceed $1,000,000;
 
-&emsp;(6) to enter into a contract or other agreement with an agency of State or local government, educational institution, or other private organization or person and to make such payments as may be necessary to carry out the functions of the Foundation; and
+&emsp;(6) to sue and be sued, and complain and defend itself, in any court of competent jurisdiction, except that a member of the Board shall not be personally liable for an action in the performance of services for the Board, except for gross negligence;
 
-&emsp;(7) to do any and all acts that are necessary to carry out the purposes of the Foundation.
+&emsp;(7) to enter into a contract or other agreement with an agency of State or local government, educational institution, or other private organization or person and to make such payments as may be necessary to carry out the functions of the Foundation; and
+
+&emsp;(8) to do any and all acts that are necessary to carry out the purposes of the Foundation.
 
 #### (d) Interests in property
 
@@ -40,5 +42,27 @@ To carry out the purposes of the Foundation under section 5802(b) of this title,
 
 &emsp;A gift, devise, or bequest may be accepted by the Foundation even though the gift, devise, or bequest is encumbered, restricted, or subject to a beneficial interest of a private person if any current or future interest in the gift, devise, or bequest is for the benefit of the Foundation.
 
-(Pub. L. 104–127, title III, §356, Apr. 4, 1996, 110 Stat. 1013.)
+#### (3) Use of symbols, slogans, and logos of the Foundation
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary may authorize the Foundation to use, license, or transfer symbols, slogans, and logos of the Foundation.
+
+#### (B) Income
+
+#### (i) In general
+
+&emsp;&emsp;&emsp;All revenue received by the Foundation from the use, licensing, or transfer of symbols, slogans, and logos of the Foundation shall be transferred to the Secretary.
+
+#### (ii) Conservation operations
+
+&emsp;&emsp;&emsp;The Secretary shall transfer all revenue received under clause (i) to the account within the Natural Resources Conservation Service that is used to carry out conservation operations.
+
+(Pub. L. 104–127, title III, §356, Apr. 4, 1996, 110 Stat. 1013; Pub. L. 107–171, title II, §2506, May 13, 2002, 116 Stat. 274.)
+
+#### Amendments
+
+2002—Subsec. (c)(4) to (8). Pub. L. 107–171, §2506(1), which directed amendment of subsection (c) of section 356 of the Federal Agriculture Improvement Act of 1996 by adding par. (4) and redesignating former pars. (4) to (7) as (5) to (8), respectively, was executed to subsec. (c) of this section, which is section 356 of the Federal Agriculture Improvement and Reform Act of 1996, to reflect the probable intent of Congress.
+
+Subsec. (d)(3). Pub. L. 107–171, §2506(2), which directed amendment of subsection (d) of section 356 of the Federal Agriculture Improvement Act of 1996 by adding par. (3), was executed to subsec. (d) of this section, which is section 356 of the Federal Agriculture Improvement and Reform Act of 1996, to reflect the probable intent of Congress.
 

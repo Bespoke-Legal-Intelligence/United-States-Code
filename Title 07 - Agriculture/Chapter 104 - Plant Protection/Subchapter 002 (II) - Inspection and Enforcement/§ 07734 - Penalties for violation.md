@@ -2,7 +2,19 @@
 
 #### (a) Criminal penalties
 
-Any person that knowingly violates this chapter, or that knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided for in this chapter shall be guilty of a misdemeanor, and, upon conviction, shall be fined in accordance with title 18, imprisoned for a period not exceeding 1 year, or both.
+#### (1) Offenses
+
+#### (A) In general
+
+&emsp;&emsp;A person that knowingly violates this chapter, or knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided for in this chapter shall be fined under title 18, imprisoned not more than 1 year, or both.
+
+#### (B) Movement
+
+&emsp;&emsp;A person that knowingly imports, enters, exports, or moves any plant, plant product, biological control organism, plant pest, noxious weed, or article, for distribution or sale, in violation of this chapter, shall be fined under title 18, imprisoned not more than 5 years, or both.
+
+#### (2) Multiple violations
+
+&emsp;On the second and any subsequent conviction of a person of a violation of this chapter under paragraph (1), the person shall be fined under title 18, imprisoned not more than 10 years, or both.
 
 #### (b) Civil penalties
 
@@ -44,7 +56,15 @@ When construing and enforcing this chapter, the act, omission, or failure of any
 
 The Secretary shall coordinate with the Attorney General to establish guidelines to determine under what circumstances the Secretary may issue a civil penalty or suitable notice of warning in lieu of prosecution by the Attorney General of a violation of this chapter.
 
-(Pub. L. 106–224, title IV, §424, June 20, 2000, 114 Stat. 450.)
+(Pub. L. 106–224, title IV, §424, June 20, 2000, 114 Stat. 450; Pub. L. 107–171, title X, §10810, May 13, 2002, 116 Stat. 531.)
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–171 added subsec. (a) and struck out heading and text of former subsec. (a). Text read as follows: “Any person that knowingly violates this chapter, or that knowingly forges, counterfeits, or, without authority from the Secretary, uses, alters, defaces, or destroys any certificate, permit, or other document provided for in this chapter shall be guilty of a misdemeanor, and, upon conviction, shall be fined in accordance with title 18, imprisoned for a period not exceeding 1 year, or both.”
+
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

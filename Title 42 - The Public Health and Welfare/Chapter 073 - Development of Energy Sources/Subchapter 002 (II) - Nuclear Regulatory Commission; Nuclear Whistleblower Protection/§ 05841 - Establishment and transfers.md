@@ -2,7 +2,7 @@
 
 #### (a) Composition; Chairman; Acting Chairman; quorum; official spokesman; seal; functions of Chairman and Commission
 
-(1) There is established an independent regulatory commission to be known as the Nuclear Regulatory Commission which shall be composed of five members, each of whom shall be a citizen of the United States. The President shall designate one member of the Commission as Chairman thereof to serve as such during the pleasure of the President. The Chairman may from time to time designate any other member of the Commission as Acting Chairman to act in the place and stead of the Chairman during his absence. The Chairman (or the Acting Chairman in the absence of the Chairman) shall preside at all meetings of the Commission and a quorum for the transaction of business shall consist of at least three members present. Each member of the Commission, including the Chairman, shall have equal responsibility and authority in all decisions and actions of the Commission, shall have full access to all information relating to the performance of his duties or responsibilities, and shall have one vote. Action of the Commission shall be determined by a majority vote of the members present. The Chairman (or Acting Chairman in the absence of the Chairman) shall be the official spokesman of the Commission inits relations with the Congress, Government agencies, persons, or the public, and, on behalf of the Commission, shall see to the faithful execution of the policies and decisions of the Commission, and shall report thereon to the Commission from time to time or as the Commission may direct. The Commission shall have an official seal which shall be judicially noticed.
+(1) There is established an independent regulatory commission to be known as the Nuclear Regulatory Commission which shall be composed of five members, each of whom shall be a citizen of the United States. The President shall designate one member of the Commission as Chairman thereof to serve as such during the pleasure of the President. The Chairman may from time to time designate any other member of the Commission as Acting Chairman to act in the place and stead of the Chairman during his absence. The Chairman (or the Acting Chairman in the absence of the Chairman) shall preside at all meetings of the Commission and a quorum for the transaction of business shall consist of at least three members present. Each member of the Commission, including the Chairman, shall have equal responsibility and authority in all decisions and actions of the Commission, shall have full access to all information relating to the performance of his duties or responsibilities, and shall have one vote. Action of the Commission shall be determined by a majority vote of the members present. The Chairman (or Acting Chairman in the absence of the Chairman) shall be the official spokesman of the Commission in its relations with the Congress, Government agencies, persons, or the public, and, on behalf of the Commission, shall see to the faithful execution of the policies and decisions of the Commission, and shall report thereon to the Commission from time to time or as the Commission may direct. The Commission shall have an official seal which shall be judicially noticed.
 
 (2) The Chairman of the Commission shall be the principal executive officer of the Commission, and he shall exercise all of the executive and administrative functions of the Commission, including functions of the Commission with respect to (a) the appointment and supervision of personnel employed under the Commission (other than personnel employed regularly and full time in the immediate offices of commissioners other than the Chairman, and except as otherwise provided in this chapter), (b) the distribution of business among such personnel and among administrative units of the Commission, and (c) the use and expenditure of funds.
 
@@ -42,7 +42,7 @@ In addition to other functions and personnel transferred to the Commission, ther
 
 &emsp;(2) such personnel as the Director of the Office of Management and Budget determines are necessary for exercising responsibilities under section 5845 of this title, relating to, research, for the purpose of confirmatory assessment relating to licensing and other regulation under the provisions of the Atomic Energy Act of 1954, as amended \[42 U.S.C. 2011 et seq.\], and of this chapter.
 
-(Pub. L. 93–438, title II, §201, Oct. 11, 1974, 88 Stat. 1242; Pub. L. 94–79, title II, §§201–203, Aug. 9, 1975, 89 Stat. 413, 414; Pub. L. 95–209, §2, Dec. 13, 1977, 91 Stat. 1482; Pub. L. 99–386, title I, §109, Aug. 22, 1986, 100 Stat. 822.)
+(Pub. L. 93–438, title II, §201, Oct. 11, 1974, 88 Stat. 1242; Pub. L. 94–79, title II, §§201–203, Aug.9, 1975, 89 Stat. 413, 414; Pub. L. 95–209, §2, Dec. 13, 1977, 91 Stat. 1482; Pub. L. 99–386, title I, §109, Aug. 22, 1986, 100 Stat. 822.)
 
 #### References in Text
 
@@ -52,7 +52,7 @@ The Atomic Energy Act of 1954, as amended, referred to in subsec. (g), is act Au
 
 #### Amendments
 
-1986—Subsec. (h). Pub. L. 99–386 struck out subsec. (h) which related to quarterly reports on compliance withequal employment requirements for grades GS–11 or above.
+1986—Subsec. (h). Pub. L. 99–386 struck out subsec. (h) which related to quarterly reports on compliance with equal employment requirements for grades GS–11 or above.
 
 1977—Subsec. (h). Pub. L. 95–209 added subsec. (h).
 
@@ -254,7 +254,7 @@ Sec. 2. (a) All other functions of the Commission, not specified by Section 1 of
 
 Sec. 3. (a) Notwithstanding sections 1 and 2 of this Reorganization Plan, there are hereby transferred to the Chairman all the functions vested in the Commission pertaining to an emergency concerning a particular facility or materials licensed or regulated by the Commission, including the functions of declaring, responding, issuing orders, determining specific policies, advising the civil authorities and the public, directing, and coordinating actions relative to such emergency incident.
 
-(b) The Chairman may delegate the authority to perform such emergency functions, in whole or in part, to any of the other members of the Commission. Such authority may also be delegated or redelegated, in whole or in part, to the staff of the Commission.
+(b) The Chairman may delegate the authority to perform such emergency functions, in whole or in part, toany of the other members of the Commission. Such authority may also be delegated or redelegated, in whole or in part, to the staff of the Commission.
 
 (c) In acting under this section, the Chairman, or other member of the Commission delegated authority under subsection (b), shall conform to the policy guidelines of the Commission. To the maximum extent possible under the emergency conditions, the Chairman or other member of the Commission delegated authority under subsection (b), shall inform the Commission of actions taken relative to the emergency.
 
@@ -340,7 +340,7 @@ As a means to ensure that the flow of information to the Commission will not be 
 
 The second general purpose of the amendments is to provide for more effective management of the agency by making more explicit the responsibilities of the Chairman and the Executive Director for Operations acting under his direction. As amended, the Plan charges the Chairman with planning for the development of policy for consideration and approval by the Commission. In the past, this responsibility has not been clearly fixed and has consequently been neglected. The amended Plan continues to make clear that the Executive Director for Operations reports to the Chairman. An amendment, however, requires the Chairman to delegate to the Executive Director for Operations the authority to appoint the staff and the day-to-day administration of the agency. Under this arrangement, the Chairman retains responsibility for the delegated functions but will be better able to handle his other leadership tasks.
 
-In summary, the amendments I am transmitting to Reorganization Plan No. 1 of 1980, based on review and hearings conducted by the Congress and on continued consultations, will help establish a more accountable central management structure for the Nuclear Regulatory Commission as it pursues its statutory objective of ensuring safety in the use of nuclear power.
+In summary, the amendments I am transmitting to Reorganization Plan No. 1 of 1980, based on review andhearings conducted by the Congress and on continued consultations, will help establish a more accountable central management structure for the Nuclear Regulatory Commission as it pursues its statutory objective of ensuring safety in the use of nuclear power.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

@@ -1,6 +1,6 @@
 ### §6323. Military leave; Reserves and National Guardsmen
 
-(a)(1) Subject to paragraph (2) of this subsection, an employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, is entitled to leave without loss in pay, time, or performance or efficiency rating for active duty, inactive-duty training (as defined in section 101 of title 37), or engaging in field or coast defense training under sections 502–505 of title 32 as a Reserve of the armed forces or member of the National Guard. Leave under this subsection accrues for an employee or individual at the rate of 15 days per fiscal year and, to the extent that it is not used in a fiscal year, accumulates for use in the succeeding fiscal year until it totals 15 days at the beginning of a fiscal year.
+(a)(1) Subject to paragraph (2) of this subsection, an employee as defined by section 2105 of this title or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, is entitled to leave without loss in pay, time, or performance or efficiency rating for active duty, inactive-duty training (as defined in section 101 of title 37), funeral honors duty (as described in section 12503 of title 10 and section 115 of title 32), or engaging in field or coast defense training under sections 502–505 of title 32 as a Reserve of the armed forces or member of the National Guard. Leave under this subsection accrues for an employee or individual at the rate of 15 days per fiscal year and, to the extent that it is not used in a fiscal year, accumulates for use in the succeeding fiscal year until it totals 15 days at the beginning of a fiscal year.
 
 (2) In the case of an employee or individual employed on a part-time career employment basis (as defined in section 3401(2) of this title), the rate at which leave accrues under this subsection shall be a percentage of the rate prescribed under paragraph (1) which is determined by dividing 40 into the number of hours in the regularly scheduled workweek of that employee or individual during that fiscal year.
 
@@ -24,7 +24,7 @@
 
 (2) An employee who requests annual leave or compensatory time to which the employee is otherwise entitled, for a period during which the employee would have been entitled upon request to leave under this subsection, may be granted such annual leave or compensatory time without regard to this section or section 5519.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–588, §2(a), Oct. 17, 1968, 82 Stat. 1151; Pub. L. 90–623, §1(17), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–375, §6(c)(18), Aug. 12, 1970, 84 Stat. 776; Pub. L. 96–54, §2(a)(40), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, §3302(e)(5), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–431, §1, Oct. 10, 1980, 94 Stat. 1850; Pub. L. 102–190, div. A, title V, §528, Dec. 5, 1991, 105 Stat. 1364; Pub. L. 103–337, div. A, title XVI, §1677(a)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title V, §516(a), title X, §1039, Feb. 10, 1996, 110 Stat. 309, 432; Pub. L. 106–65, div. A, title VI, §672(b), title XI, §§1105(a), 1106(a), Oct. 5, 1999, 113 Stat. 674, 777; Pub. L. 106–554, §1(a)(3) \[title VI, §642\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 522; Pub. L. 90–588, §2(a), Oct. 17, 1968, 82 Stat. 1151; Pub. L. 90–623, §1(17), Oct. 22, 1968, 82 Stat. 1313; Pub. L. 91–375, §6(c)(18), Aug. 12, 1970, 84 Stat. 776; Pub. L. 96–54, §2(a)(40), Aug. 14, 1979, 93 Stat. 383; Pub. L. 96–70, title III, §3302(e)(5), Sept. 27, 1979, 93 Stat. 498; Pub. L. 96–431, §1, Oct. 10, 1980, 94 Stat. 1850; Pub. L. 102–190, div. A, title V, §528, Dec. 5, 1991, 105 Stat. 1364; Pub. L. 103–337, div. A, title XVI, §1677(a)(2), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title V, §516(a), title X, §1039, Feb. 10, 1996, 110 Stat. 309, 432; Pub. L. 106–65, div. A, title VI, §672(b), title XI, §§1105(a), 1106(a), Oct. 5, 1999, 113 Stat. 674, 777; Pub. L. 106–554, §1(a)(3) \[title VI, §642\], Dec. 21, 2000, 114 Stat. 2763, 2763A–169; Pub. L. 107–107, div. A, title V, §563, Dec. 28, 2001, 115 Stat. 1120.)
 
 Historical and Revision Notes
 
@@ -60,6 +60,8 @@ Section 8401(30) of this title, referred to in subsec. (d)(1), was amended gener
 
 #### Amendments
 
+2001—Subsec. (a)(1). Pub. L. 107–107 inserted “funeral honors duty (as described in section 12503 of title 10 and section 115 of title 32),” after “(as defined in section 101 of title 37),”.
+
 2000—Subsec. (a)(3). Pub. L. 106–554 added par. (3).
 
 1999—Subsec. (a)(1). Pub. L. 106–65, §1106(a), inserted “, inactive-duty training (as defined in section 101 of title 37),” after “active duty” in first sentence.
@@ -78,7 +80,7 @@ Subsec. (b)(2)(A). Pub. L. 103–337, §1677(a)(2)(B), substituted “or 12406 o
 
 1980—Subsec. (a). Pub. L. 96–431 designated existing provisions as par. (1), substituted “Subject to paragraph (2) of this subsection, an employee” for “An employee” and “for active duty or engaging in field or coast defense training” for “for each day, not in excess of 15 days in a calendar year, in which he is on active duty or is engaged in field or coast defense training”, inserted provision relating to accrual and accumulation of leave, and added par. (2).
 
-1979—Subsec. (b)(2)(B). Pub. L. 96–70 which directed the amendment of subsec. (c)(2)(B) by striking out “theCanal Zone,” was executed to subsec. (b)(2)(B) in view of the redesignation of subsec. (c) as (b) by Pub. L. 96–54. See 1979 Amendment note below.
+1979—Subsec. (b)(2)(B). Pub. L. 96–70 which directed the amendment of subsec. (c)(2)(B) by striking out “the Canal Zone,” was executed to subsec. (b)(2)(B) in view of the redesignation of subsec. (c) as (b) by Pub. L. 96–54. See 1979 Amendment note below.
 
 Subsec. (b). Pub. L. 96–54 redesignated subsec. (c), as added by Pub. L. 90–588, as (b). Former subsec. (b), relating to military leave, was repealed by Pub. L. 91–375, §6(c)(18)(B), Aug. 12, 1970, 84 Stat. 776.
 
@@ -128,9 +130,53 @@ Amendment by Pub. L. 91–375 effective within 1 year after Aug. 12, 1970, on da
 
 Amendment by Pub. L. 90–623 effective as of Sept. 6, 1966, for all purposes, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
 
+#### Authorization To Use Appropriations To Pay Military Leave or Annual Leave
+
+Pub. L. 107–117, div. A, title VIII, §8023, Jan. 10, 2002, 115 Stat. 2252, provided that: “During the current fiscal year and hereafter, funds appropriated or otherwise available for any Federal agency, the Congress, the judicial branch, or the District of Columbia may be used for the pay, allowances, and benefits of an employee as defined by section 2105 of title 5, United States Code, or an individual employed by the government of the District of Columbia, permanent or temporary indefinite, who—
+
+&emsp;“(1) is a member of a Reserve component of the Armed Forces, as described in section 10101 of title 10, United States Code, or the National Guard, as described in section 101 of title 32, United States Code;
+
+&emsp;“(2) performs, for the purpose of providing military aid to enforce the law or providing assistance to civil authorities in the protection or saving of life or property or prevention of injury—
+
+&emsp;&emsp;“(A) Federal service under sections 331, 332, 333, or 12406 of title 10, United States Code, or other provision of law, as applicable; or
+
+&emsp;&emsp;“(B) full-time military service for his or her State, the District of Columbia, the Commonwealth of Puerto Rico, or a territory of the United States; and
+
+&emsp;“(3) requests and is granted—
+
+&emsp;&emsp;“(A) leave under the authority of this section; or
+
+&emsp;&emsp;“(B) annual leave, which may be granted without regard to the provisions of sections 5519 and 6323(b) of title 5, United States Code, if such employee is otherwise entitled to such annual leave:
+
+> <i>Provided</i>, That any employee who requests leave under subsection (3)(A) for service described in subsection (2) of this section is entitled to such leave, subject to the provisions of this section and of the last sentence of section 6323(b) of title 5, United States Code, and such leave shall be considered leave under section 6323(b) of title 5, United States Code.”
+
+Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 106–259, title VIII, §8023, Aug. 9, 2000, 114 Stat. 679.
+
+Pub. L. 106–79, title VIII, §8025, Oct. 25, 1999, 113 Stat. 1236.
+
+Pub. L. 105–262, title VIII, §8025, Oct. 17, 1998, 112 Stat. 2302.
+
+Pub. L. 105–56, title VIII, §8026, Oct. 8, 1997, 111 Stat. 1226.
+
+Pub. L. 104–208, div. A, title I, §101(b) \[title VIII, §8028\], Sept. 30, 1996, 110 Stat. 3009–71, 3009–94.
+
+Pub. L. 104–61, title VIII, §8036, Dec. 1, 1995, 109 Stat. 659.
+
+Pub. L. 103–335, title VIII, §8042, Sept. 30, 1994, 108 Stat. 2627.
+
+Pub. L. 103–139, title VIII, §8047, Nov. 11, 1993, 107 Stat. 1450.
+
+Pub. L. 102–396, title IX, §9064, Oct. 6, 1992, 106 Stat. 1916.
+
+Pub. L. 102–172, title VIII, §8068, Nov. 26, 1991, 105 Stat. 1187.
+
+Pub. L. 101–511, title VIII, §8086, Nov. 5, 1990, 104 Stat. 1895.
+
 #### Definition of Officers and Employees
 
-Section 4 of act July 1, 1947, ch. 192, 61 Stat. 239, as amended by act June 22, 1956, ch. 428, 70 Stat. 331, provided that: “The words ‘officers and employees of the United States or of the District of Columbia’ as used in the third paragraph, subheading ‘Ordinance Stores and Equipment for Reserve Officers Training Corps’, of the Act of May 12, 1917 (40 Stat. 72; 10 U.S.C. Annotated 371) \[covered by this section\], as now or hereafter amended, as used in that part of section 80 of the Act of June 3, 1916 (39 Stat. 203; 32 U.S.C. 75) \[covered by this section\], as now or hereafter amended, which precedes the proviso, and as used in the first proviso of section 9 of the Naval Reserve Act of 1938 (52 Stat. 1177; 34 U.S.C. 853g) \[covered by this section\], as now or hereafter amended, shall be construed to mean all officers and employees of the United States or of the District of Columbia, permanent or temporary indefinite, without regard to classifications or terminology peculiar to the Federal Civil Service System. The words ‘officers and employees of the United States or of the District of Columbia’, as used in such provisions of law, as now or hereafter amended, also shall be construed to mean substitute employees in the postal field service; such substitute employees shall be entitled to military leave of absence on the basis of one hour of such leave for each period or periods aggregating twenty-six hours of work performed in the calendar year immediately preceding the year in which they are ordered to duty by proper authority: <i>Provided,</i> That the number of hours worked during the preceding calendar year shall not be less than one thousand forty hours before such substitute employee shall be entitled to military leave of absence, pay for such leave not to exceed eighty hours in each calendar year.”
+Section 4 of act July 1, 1947, ch. 192, 61 Stat. 239, as amended by act June 22, 1956, ch. 428, 70 Stat. 331, provided that: “The words ‘officers and employees of theUnited States or of the District of Columbia’ as used in the third paragraph, subheading ‘Ordinance Stores and Equipment for Reserve Officers Training Corps’, of the Act of May 12, 1917 (40 Stat. 72; 10 U.S.C. Annotated 371) \[covered by this section\], as now or hereafter amended, as used in that part of section 80 of the Act of June 3, 1916 (39 Stat. 203; 32 U.S.C. 75) \[covered by this section\], as now or hereafter amended, which precedes the proviso, and as used in the first proviso of section 9 of the Naval Reserve Act of 1938 (52 Stat. 1177; 34 U.S.C. 853g) \[covered by this section\], as now or hereafter amended, shall be construed to mean all officers and employees of the United States or of the District of Columbia, permanent or temporary indefinite, without regard to classifications or terminology peculiar to the Federal Civil Service System. The words ‘officers and employees of the United States or of the District of Columbia’, as used in such provisions of law, as now or hereafter amended, also shall be construed to mean substitute employees in the postal field service; such substitute employees shall be entitled to military leave of absence on the basis of one hour of such leave for each period or periods aggregating twenty-six hours of work performed in the calendar year immediately preceding the year in which they are ordered to duty by proper authority: <i>Provided,</i> That the number of hours worked during the preceding calendar year shall not be less than one thousand forty hours before such substitute employee shall be entitled to military leave of absence, pay for such leave not to exceed eighty hours in each calendar year.”
 
 #### Section Referred to in Other Sections
 

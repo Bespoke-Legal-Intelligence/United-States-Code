@@ -144,7 +144,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (2) Contents of protective order
 
-&emsp;Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure that regulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
+&emsp;Each protective order issued under this subsection shall be in such form and contain such requirements as the administering authority or the Commission may determine by regulation to be appropriate. The administering authority and the Commission shall ensure thatregulations issued pursuant to this paragraph shall be designed to provide an opportunity for participation in the binational panel proceeding, including any extraordinary challenge, equivalent to that available for judicial review of determinations by the administering authority or the Commission that are not subject to review by a binational panel.
 
 #### (3) Prohibited acts
 
@@ -168,7 +168,7 @@ Any party submitting written information, including business proprietary informa
 
 &emsp;&emsp;For the purpose of conducting any hearing and carrying out other functions and duties under this subsection, the administering authority and the Commission, or their duly authorized agents—
 
-&emsp;&emsp;&emsp;(i) shall have access to and the right to copy any pertinent document, paper, orrecord in the possession of any individual, partnership, corporation, association, organization, or other entity,
+&emsp;&emsp;&emsp;(i) shall have access to and the right to copy any pertinent document, paper, or record in the possession of any individual, partnership, corporation, association, organization, or other entity,
 
 &emsp;&emsp;&emsp;(ii) may summon witnesses, take testimony, and administer oaths,
 
@@ -178,7 +178,7 @@ Any party submitting written information, including business proprietary informa
 
 #### (B) Witnesses and evidence
 
-&emsp;&emsp;The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subparagraph (A) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena issued under subparagraph (A), an action may be filed in any district or territorial court of the United States to require the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization or other entity, issue any order requiring such individual or entity to appear before the administering authority or the Commission, or to produce documentary evidence if so ordered or to give evidence concerning the matter in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof.
+&emsp;&emsp;The attendance of witnesses who are authorized to be summoned, and the production of documentary evidence authorized to be ordered, under subparagraph (A) may be required from any place in the United States at any designated place of hearing. In the case of disobedience to a subpoena issued under subparagraph (A), an action may be filed in any district or territorial court of the United States to require the attendance and testimony of witnesses and the production of documentary evidence. Such court, within the jurisdiction of which such inquiry is carried on, may, in case of contumacy or refusal to obey a subpoena issued to any individual, partnership, corporation, association, organization or other entity, issue any order requiring such individual or entity to appear before the administering authority or the Commission, or to produce documentary evidence if so ordered or to give evidenceconcerning the matter in question. Any failure to obey such order of the court may be punished by the court as a contempt thereof.
 
 #### (C) Mandamus
 
@@ -216,7 +216,7 @@ The administering authority and the Commission shall provide an opportunity for 
 
 &emsp;&emsp;&emsp;(ii) a description of the subject merchandise that is sufficient to identify the subject merchandise for customs purposes,
 
-&emsp;&emsp;&emsp;(iii)(I) with respect to a determination in an investigation under part I of this subtitle or section 1675b of this title or in a review of a countervailing duty order, theamount of the countervailable subsidy established and a full explanation of the methodology used in establishing the amount, and
+&emsp;&emsp;&emsp;(iii)(I) with respect to a determination in an investigation under part I of this subtitle or section 1675b of this title or in a review of a countervailing duty order, the amount of the countervailable subsidy established and a full explanation of the methodology used in establishing the amount, and
 
 &emsp;&emsp;&emsp;(II) with respect to a determination in an investigation under part II of this subtitle or in a review of an antidumping duty order, the weighted average dumping margins established and a full explanation of the methodology used in establishing such margins, and
 
@@ -334,13 +334,17 @@ Amendment by Pub. L. 100–418 applicable with respect to investigations initiat
 
 Amendment by Pub. L. 98–573 effective Oct. 30, 1984, see section 626(a) of Pub. L. 98–573, set out as a note under section 1671 of this title.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Effect of Termination of NAFTA Country Status
 
 For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see section 3451 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

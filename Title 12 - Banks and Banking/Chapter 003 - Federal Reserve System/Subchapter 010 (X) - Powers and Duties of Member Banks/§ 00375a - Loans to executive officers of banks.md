@@ -46,7 +46,7 @@ Each day that any extension of credit in violation of this section exists is a c
 
 #### (9) Report of loan activity since previous report of condition
 
-Each member bank shall include with (but not as part of) each report of condition and copythereof filed under section 1817(a)(3) of this title a report of all loans under authority of this section made by the bank since its previous report of condition.
+Each member bank shall include with (but not as part of) each report of condition and copy thereof filed under section 1817(a)(3) of this title a report of all loans under authority of this section made by the bank since its previous report of condition.
 
 #### (10) Rules and regulations; definitions
 
@@ -82,7 +82,7 @@ Par. (4). Pub. L. 90–44 incorporated proviso of first sentence in provisions d
 
 Par. (5). Pub. L. 90–44 substituted provisions, designated as par. (5), for extension of credit to partnerships for former provisions of third sentence that “Borrowing by, or loaning to, a partnership in which one or more executive officers of a member bank are partners having either individually or together a majority interest in said partnership, shall be considered within the prohibition of this section”.
 
-Par. (6). Pub. L. 90–44 incorporated reporting requirement of second sentence in provisions designated as par. (6) but limited it to extensions of credit from other banks to the executive officers as exceeded amounts available to such officers from their member banks under pars. (2) to (4) of this section.
+Par. (6). Pub. L. 90–44 incorporated reporting requirement of second sentence in provisions designated aspar. (6) but limited it to extensions of credit from other banks to the executive officers as exceeded amounts available to such officers from their member banks under pars. (2) to (4) of this section.
 
 Par. (7). Pub. L. 90–44 designated provisions of fourth sentence as par. (7).
 

@@ -2,7 +2,7 @@
 
 (a) Not later than 150 days after the end of an agency's fiscal year, the head of each agency shall prepare and submit to the President and the Congress, a report on program performance for the previous fiscal year.
 
-(b)(1) Each program performance report shall set forth the performance indicators establishedin the agency performance plan under section 1115, along with the actual program performance achieved compared with the performance goals expressed in the plan for that fiscal year.
+(b)(1) Each program performance report shall set forth the performance indicators established in the agency performance plan under section 1115, along with the actual program performance achieved compared with the performance goals expressed in the plan for that fiscal year.
 
 (2) If performance goals are specified in an alternative form under section 1115(b), the results of such program shall be described in relation to such specifications, including whether the performance failed to meet the criteria of a minimally effective or successful program.
 
@@ -22,9 +22,11 @@
 
 &emsp;&emsp;(C) if the performance goal is impractical or infeasible, why that is the case and what action is recommended;
 
-&emsp;(4) describe the use and assess the effectiveness in achieving performance goals of any waiver under section 9703 <sup>1</sup> of this title; and
+&emsp;(4) describe the use and assess the effectiveness in achieving performance goals of any waiver under section 9703 <sup>1</sup> of this title;
 
-&emsp;(5) include the summary findings of those program evaluations completed during the fiscal year covered by the report.
+&emsp;(5) include a review of the performance goals and evaluation of the performance plan relative to the agency's strategic human capital management; and
+
+&emsp;(6) include the summary findings of those program evaluations completed during the fiscal year covered by the report.
 
 (e)(1) Except as provided in paragraph (2), each program performance report shall contain an assessment by the agency head of the completeness and reliability of the performance data included in the report. The assessment shall describe any material inadequacies in the completeness and reliability of the performance data, and the actions the agency can take and is taking to resolve such inadequacies.
 
@@ -32,7 +34,7 @@
 
 (f) The functions and activities of this section shall be considered to be inherently Governmental functions. The drafting of program performance reports under this section shall be performed only by Federal employees.
 
-(Added Pub. L. 103–62, §4(b), Aug. 3, 1993, 107 Stat. 288; amended Pub. L. 106–531, §5(a)(1), (b), Nov. 22, 2000, 114 Stat. 2539.)
+(Added Pub. L. 103–62, §4(b), Aug. 3, 1993, 107 Stat. 288; amended Pub. L. 106–531, §5(a)(1), (b), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 107–296, title XIII, §1311(b), Nov. 25, 2002, 116 Stat. 2290.)
 
 #### References in Text
 
@@ -40,9 +42,15 @@ Section 9703, referred to in subsec. (d)(4), probably means the section 9703 add
 
 #### Amendments
 
+2002—Subsec. (d)(5), (6). Pub. L. 107–296 added par. (5) and redesignated former par. (5) as (6).
+
 2000—Subsec. (a). Pub. L. 106–531, §5(a)(1), substituted “Not later than 150 days after the end of an agency's fiscal year,” for “No later than March 31, 2000, and no later than March 31 of each year thereafter,”.
 
 Subsec. (e). Pub. L. 106–531, §5(b), amended subsec. (e) generally. Prior to amendment, subsec. (e) read as follows: “An agency head may include all program performance information required annually under this section in an annual financial statement required under section 3515 if any such statement is submitted to the Congress no later than March 31 of the applicable fiscal year.”
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Construction
 
@@ -54,7 +62,7 @@ Pub. L. 106–531, §5(a)(2), Nov. 22, 2000, 114 Stat. 2539, provided that: “N
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1115, 1117, 1118, 1119, 3516 of this title; title 23 section 508; title 40 section 1425; title 44 section 3534; title 49 section 44501.
+This section is referred to in sections 1115, 1117, 1118, 1119, 3516 of this title; title 23 section 508; title 40 section 11315; title 44 sections 3534, 3544; title 49 section 44501.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

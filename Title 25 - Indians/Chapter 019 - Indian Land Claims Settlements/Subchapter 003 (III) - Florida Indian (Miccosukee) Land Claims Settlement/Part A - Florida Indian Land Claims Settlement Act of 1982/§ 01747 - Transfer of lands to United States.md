@@ -16,7 +16,7 @@ The Secretary is authorized and directed to accept the transfer to the United St
 
 (1) Any transfer of lands under this section shall be subject to all existing leases, easements, and rights-of-way, and all the rights, easements, and reservations in favor of the Central and Southern Florida Flood Control District (now the South Florida Water Management District) and shall not increase, diminish, modify, or otherwise affect the extent to which chapter 373, Florida Statutes, and its successor laws, have force and effect within such lands.
 
-(2) Any transfer of lands under this section shall not confer upon the Miccosukee Tribe, or upon the lands within the reservation, any additional water rights.
+(2) Any transfer of lands under this section shall not confer upon the Miccosukee Tribe, orupon the lands within the reservation, any additional water rights.
 
 (Pub. L. 97–399, §8, Dec. 31, 1982, 96 Stat. 2015.)
 

@@ -6,7 +6,7 @@ A declaration filed pursuant to section 4201 of this title shall—
 
 &emsp;(2) allege under oath or affirmation specific facts, relating to a particular transaction or transactions, which constitute a prima facie case of a violation giving rise to an action for civil penalties under section 1833a of this title affecting a depository institution insured by the Federal Deposit Insurance Corporation or any other agency or entity of the United States;
 
-&emsp;(3) contain at least 1 new factual element necessary to establish a prima facie case thatwas unknown to the Government at the time of filing; and
+&emsp;(3) contain at least 1 new factual element necessary to establish a prima facie case that was unknown to the Government at the time of filing; and
 
 &emsp;(4) set forth all facts supporting the allegation of a violation described in paragraph (2) known to the declarant, along with the names of material witnesses and the nature and location of documentary evidence known to the declarant.
 

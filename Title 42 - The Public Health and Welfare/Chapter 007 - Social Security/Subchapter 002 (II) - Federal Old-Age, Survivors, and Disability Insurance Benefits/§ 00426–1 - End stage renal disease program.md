@@ -18,13 +18,13 @@ Notwithstanding any provision to the contrary in section 426 of this title or su
 
 #### (b) Duration of period of entitlement
 
-Subject to subsection (c) of this section, entitlement of an individual to benefits under part A and eligibility to enroll under part B of subchapter XVIII of this chapter by reasons of this section on the basis of end stage renal disease—
+Subject to subsection (c) of this section, entitlement of an individual to benefits under partA and eligibility to enroll under part B of subchapter XVIII of this chapter by reasons of this section on the basis of end stage renal disease—
 
 &emsp;(1) shall begin with—
 
 &emsp;&emsp;(A) the third month after the month in which a regular course of renal dialysis is initiated, or
 
-&emsp;&emsp;(B) the month in which such individual receives a kidney transplant, or (if earlier) thefirst month in which such individual is admitted as an inpatient to an institution which is a hospital meeting the requirements of section 1395x(e) of this title (and such additional requirements as the Secretary may prescribe under section 1395rr(b) of this title for such institutions) in preparation for or anticipation of kidney transplantation, but only if such transplantation occurs in that month or in either of the next two months,
+&emsp;&emsp;(B) the month in which such individual receives a kidney transplant, or (if earlier) the first month in which such individual is admitted as an inpatient to an institution which is a hospital meeting the requirements of section 1395x(e) of this title (and such additional requirements as the Secretary may prescribe under section 1395rr(b) of this title for such institutions) in preparation for or anticipation of kidney transplantation, but only if such transplantation occurs in that month or in either of the next two months,
 
 > &emsp;whichever first occurs (but no earlier than one year preceding the month of the filing of an application for benefits under this section); and
 
@@ -78,7 +78,7 @@ Amendment by Pub. L. 99–272 effective after Mar. 31, 1986, with no individual 
 
 #### Effective Date of 1983 Amendment
 
-Section 309(c)(2) of Pub. L. 97–448 provided that: “Any amendment to the Social Security Act \[this chapter\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396<i>o</i>, and 1396p ofthis title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 324\].”
+Section 309(c)(2) of Pub. L. 97–448 provided that: “Any amendment to the Social Security Act \[this chapter\] made by this section \[amending this section and sections 410, 1320c–2, 1320c–3, 1395d, 1395f, 1395r, 1395y, 1395cc, 1395mm, 1395ww, 1396b, 1396n, 1396<i>o</i>, and 1396p of this title\] shall be effective as if it had been originally included as a part of that provision of the Social Security Act to which it relates, as such provision of such Act was amended or added by the Tax Equity and Fiscal Responsibility Act of 1982 \[Pub. L. 97–248, Sept. 3, 1982, 96 Stat. 324\].”
 
 #### Effective Date of 1982 Amendment
 

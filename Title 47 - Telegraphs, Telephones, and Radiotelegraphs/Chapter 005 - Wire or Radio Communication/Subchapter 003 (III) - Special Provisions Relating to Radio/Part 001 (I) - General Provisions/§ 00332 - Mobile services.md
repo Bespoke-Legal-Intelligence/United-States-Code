@@ -92,7 +92,7 @@ In taking actions to manage the spectrum to be made available for use by the pri
 
 &emsp;&emsp;(iv) No State or local government or instrumentality thereof may regulate the placement, construction, and modification of personal wireless service facilities on the basis of the environmental effects of radio frequency emissions to the extent that such facilities comply with the Commission's regulations concerning such emissions.
 
-&emsp;&emsp;(v) Any person adversely affected by any final action or failure to act by a State orlocal government or any instrumentality thereof that is inconsistent with this subparagraph may, within 30 days after such action or failure to act, commence an action in any court of competent jurisdiction. The court shall hear and decide such action on an expedited basis. Any person adversely affected by an act or failure to act by a State or local government or any instrumentality thereof that is inconsistent with clause (iv) may petition the Commission for relief.
+&emsp;&emsp;(v) Any person adversely affected by any final action or failure to act by a State or local government or any instrumentality thereof that is inconsistent with this subparagraph may, within 30 days after such action or failure to act, commence an action in any court of competent jurisdiction. The court shall hear and decide such action on an expedited basis. Any person adversely affected by an act or failure to act by a State or local government or any instrumentality thereof that is inconsistent with clause (iv) may petition the Commission for relief.
 
 #### (C) Definitions
 
@@ -158,7 +158,7 @@ Effective dates of mobile service amendments.—The amendments made by subsectio
 
 &emsp;“(A) section 332(c)(3)(A) of the Communications Act of 1934 \[subsec. (c)(3)(A) of this section\], as amended by such subsection, shall take effect 1 year after such date of enactment; and
 
-&emsp;“(B) any private land mobile service provided by any person before such date of enactment, and any paging service utilizing frequencies allocated as of January 1, 1993, for private land mobile services, shall, except for purposes of section 332(c)(6) of such Act \[subsec. (c)(6) of this section\], be treated as a private mobile service until 3 years after such date of enactment.”
+&emsp;“(B) any private land mobile service provided by any person before such date of enactment, and any paging service utilizing frequencies allocated as of January 1, 1993, for private land mobile services, shall, except for purposes of section 332(c)(6) of suchAct \[subsec. (c)(6) of this section\], be treated as a private mobile service until 3 years after such date of enactment.”
 
 #### Availability of Property
 

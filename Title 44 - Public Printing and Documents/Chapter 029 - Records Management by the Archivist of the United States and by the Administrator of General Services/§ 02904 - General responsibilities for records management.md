@@ -80,7 +80,7 @@ Section 5 of Pub. L. 96–511 provided: “This Act \[enacting chapter 35 of thi
 
 #### Termination of Reporting Requirements
 
-For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to appropriate oversight and appropriations committees of Congress under subsec. (c)(8) of this section is listed as the 9th item on page 173 and as the 5th item on page 180), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set out as notes under section 1113 of Title 31, Money and Finance.
+For termination, effective May 15, 2000, of provisions of law requiring submittal to Congress of any annual, semiannual, or other regular periodic report listed in House Document No. 103–7 (in which a report to appropriate oversight and appropriations committees of Congress under subsec. (c)(8) of this section is listed as the 9th item on page 173 and as the 5th item on page 180), see section 3003 of Pub. L. 104–66, as amended, and section 1(a)(4) \[div. A, §1402(1)\] of Pub. L. 106–554, set outas notes under section 1113 of Title 31, Money and Finance.
 
 #### Section Referred to in Other Sections
 

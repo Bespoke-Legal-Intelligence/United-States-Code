@@ -42,5 +42,5 @@ Section 116(b) of H.R. 2076, One Hundred Fourth Congress, as passed by the House
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 20 section 1094.
+This section is referred to in sections 15482, 15483 of this title; title 20 section 1094.
 

@@ -16,7 +16,7 @@ For purposes of applying sections 2135, 2136(a), and 2137 of this title—
 
 &emsp;(A) legislation providing for the termination or denial of the benefits of concessions of trade agreements entered into under section 2902(a) and (b) of this title that have been made with respect to rates of duty or other import restrictions imposed by the United States, and
 
-&emsp;(B) legislation providing that any law necessary to carry out any trade agreement undersection 2902(a) or (b) of this title not apply to such country.
+&emsp;(B) legislation providing that any law necessary to carry out any trade agreement under section 2902(a) or (b) of this title not apply to such country.
 
 (3) For purposes of this subsection, the term “major industrial country” means Canada, the European Communities, the individual member countries of the European Communities, Japan, and any other foreign country designated by the President for purposes of this subsection.
 

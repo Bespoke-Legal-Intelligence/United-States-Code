@@ -25,15 +25,15 @@
 
 #### Amendments
 
-<b>2000</b>—Pub. L. 106–518, title III, §304(b), Nov. 13, 2000, 114 Stat. 2418, added item 613.
+2000—Pub. L. 106–518, title III, §304(b), Nov. 13, 2000, 114 Stat. 2418, added item 613.
 
-<b>1989</b>—Pub. L. 101–162, title IV, §404(b)(2), Nov. 21, 1989, 103 Stat. 1015, added item 612.
+1989—Pub. L. 101–162, title IV, §404(b)(2), Nov. 21, 1989, 103 Stat. 1015, added item 612.
 
-<b>1967</b>—Pub. L. 90–219, title II, §201(b), Dec. 20, 1967, 81 Stat. 668, added item 611.
+1967—Pub. L. 90–219, title II, §201(b), Dec. 20, 1967, 81 Stat. 668, added item 611.
 
-<b>1959</b>—Pub. L. 86–370, §5(a)(2), Sept. 23, 1959, 73 Stat. 652, substituted “Deputy Director” for “Assistant Director” in items 601 and 606.
+1959—Pub. L. 86–370, §5(a)(2), Sept. 23, 1959, 73 Stat. 652, substituted “Deputy Director” for “Assistant Director” in items 601 and 606.
 
-<b>1949</b>—Act May 24, 1949, ch. 139, §72a, 63 Stat. 100, inserted an apostrophe after “Courts” and struck out comma after “Courts” in item 609.
+1949—Act May 24, 1949, ch. 139, §72a, 63 Stat. 100, inserted an apostrophe after “Courts” and struck out comma after “Courts” in item 609.
 
 <i><sup>1</sup></i><i> Section catchline amended by Pub. L. 104–106 without corresponding amendment of chapter analysis.</i>
 

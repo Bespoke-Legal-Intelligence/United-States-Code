@@ -60,7 +60,7 @@ An action of an executive agency under subsection (a) or (b) of this section—
 
 &emsp;(J) Costs for travel by commercial aircraft which exceed the amount of the standard commercial fare.
 
-&emsp;(K) Costs incurred in making any payment (commonly known as a ‘golden parachute payment’) which is—
+&emsp;(K) Costs incurred in making any payment (commonly known as a “golden parachute payment”) which is—
 
 &emsp;&emsp;(i) in an amount in excess of the normal severance pay paid by the contractor to an employee upon termination of employment; and
 

@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;After the reporting of a bill or joint resolution, the offering of an amendment thereto, or the submission of a conference report thereon, the chairman of the Committee on the Budget of the House of Representatives or the Senate shall make the adjustments set forth in paragraph (2) for the amount of new budget authority in that measure (if that measure meets the requirements set forth in subsection (b) of this section) and the outlays flowing from that budget authority.
+&emsp;After the reporting of a bill or joint resolution, the offering of an amendment thereto, or the submission of a conference report thereon, the chairman of the Committee on the Budgetof the House of Representatives or the Senate shall make the adjustments set forth in paragraph (2) for the amount of new budget authority in that measure (if that measure meets the requirements set forth in subsection (b) of this section) and the outlays flowing from that budget authority.
 
 #### (2) Matters to be adjusted
 

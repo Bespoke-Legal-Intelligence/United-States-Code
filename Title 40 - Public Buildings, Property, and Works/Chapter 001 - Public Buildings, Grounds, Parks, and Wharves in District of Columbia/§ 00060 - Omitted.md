@@ -1,6 +1,0 @@
-### §60. Omitted
-
-#### Codification
-
-Section, act July 1, 1898, ch. 543, §1, 30 Stat. 570, which related to street parking in the District of Columbia, was omitted as not having general applicability.
-

@@ -40,7 +40,7 @@ The Secretary shall furnish to each individual for whom payment has been made un
 
 #### (4) Findings of Secretary
 
-&emsp;The Secretary shall, with respect to each written request submitted under paragraph (3), determine whether the itemized statement identifies specific items or services that were not provided as claimed or any other billing irregularity (including duplicate billing) that has resulted in unnecessary payments under this subchapter.
+&emsp;The Secretary shall, with respect to each written request submitted under paragraph (3), determine whether the itemized statement identifies specific items or services that werenot provided as claimed or any other billing irregularity (including duplicate billing) that has resulted in unnecessary payments under this subchapter.
 
 #### (5) Recovery of amounts
 

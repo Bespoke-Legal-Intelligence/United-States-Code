@@ -6,7 +6,7 @@ In administering the Center, the Board shall have all necessary and proper power
 
 &emsp;(1) appoint scholars, from the United States and abroad, and, where appropriate, provide stipends, grants, and fellowships to such scholars, and to hire or accept the voluntary services of consultants, advisory boards, and panels to aid the Board in carrying out its responsibilities;
 
-&emsp;(2) solicit, accept, and dispose of gifts, bequests, and devises of money, securities, and other property of whatsoever character for the benefit of the Center; any such money, securities, or other property shall, upon receipt, bedeposited with the Smithsonian Institution, and unless otherwise restricted by the terms of the gift, expenditures shall be in the discretion of the Board for the purposes of the Center;
+&emsp;(2) solicit, accept, and dispose of gifts, bequests, and devises of money, securities, and other property of whatsoever character for the benefit of the Center; any such money, securities, or other property shall, upon receipt, be deposited with the Smithsonian Institution, and unless otherwise restricted by the terms of the gift, expenditures shall be in the discretion of the Board for the purposes of the Center;
 
 &emsp;(3) obtain grants from, and make contracts with, State, Federal, local, and private agencies, organizations, institutions, and individuals;
 

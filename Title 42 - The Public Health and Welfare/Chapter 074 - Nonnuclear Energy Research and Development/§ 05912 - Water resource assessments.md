@@ -8,7 +8,7 @@ The Water Resources Council shall undertake assessments of water resource requir
 
 &emsp;(2) collect and compile any additional data it deems necessary for complete and accurate assessments;
 
-&emsp;(3) give full consideration to the constraints upon availability imposed by treaty, compact,court decree, State water laws, and water rights granted pursuant to State and Federal law;
+&emsp;(3) give full consideration to the constraints upon availability imposed by treaty, compact, court decree, State water laws, and water rights granted pursuant to State and Federal law;
 
 &emsp;(4) assess the effects of development of such technology on water quality;
 

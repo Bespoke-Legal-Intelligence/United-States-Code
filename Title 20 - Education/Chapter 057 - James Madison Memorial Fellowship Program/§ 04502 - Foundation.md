@@ -18,7 +18,7 @@ In order to commemorate the bicentennial of the Constitution, there is establish
 
 &emsp;(E) The Secretary of Education or his designate shall serve ex officio as a member of the Board, but shall not be eligible to serve as Chairman.
 
-(2) The term of office of each member of the Board shall be six years; except that (A) the members first taking office shall serve as designated by the President, four for terms of two years, five for terms of four years, and four for terms of six years, and (B) any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessor was appointed, and shall be appointed in the same manner as the original appointment for that vacancy was made. This provision shall not apply to members ex officio.
+(2) The term of office of each member of the Board shall be six years; except that (A) the members first taking office shall serve as designated by the President, four for terms of two years, five for terms of four years, and four for terms of six years, and (B) any member appointed to fill a vacancy shall serve for the remainder of the term for which his predecessorwas appointed, and shall be appointed in the same manner as the original appointment for that vacancy was made. This provision shall not apply to members ex officio.
 
 (3) A member of the Board whose term has expired may continue to serve until the earlier of—
 

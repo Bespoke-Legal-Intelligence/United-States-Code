@@ -8,7 +8,7 @@ Subject to this section:
 
 #### (A) General penalty
 
-&emsp;&emsp;If an audit conducted under chapter 75 of title 31 finds that an amount paid to a State under section 603 of this title for a fiscalyear has been used in violation of this part, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter by the amount so used.
+&emsp;&emsp;If an audit conducted under chapter 75 of title 31 finds that an amount paid to a State under section 603 of this title for a fiscal year has been used in violation of this part, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter by the amount so used.
 
 #### (B) Enhanced penalty for intentional violations
 
@@ -48,7 +48,7 @@ Subject to this section:
 
 #### (C) Penalty based on severity of failure
 
-&emsp;&emsp;The Secretary shall impose reductions under subparagraph (A) with respect to a fiscal year based on the degree of noncompliance, and may reduce the penalty if the noncompliance is due to circumstances that caused the State to become a needy State (as defined in section 603(b)(6) of this title) during the fiscal year or if the noncompliance is due to extraordinary circumstances such as a natural disaster or regional recession. The Secretary shall provide a written report to Congress to justify any waiver or penalty reduction due to such extraordinary circumstances.
+&emsp;&emsp;The Secretary shall impose reductions under subparagraph (A) with respect to a fiscal year based on the degree of noncompliance, and may reduce the penalty if the noncompliance is due to circumstances that caused the State to become a needy State (as defined in section 603(b)(6) of this title) during the fiscal year or if the noncompliance is due to extraordinary circumstances such as a natural disaster or regional recession. The Secretary shall provide a written report to Congress to justify any waiver orpenalty reduction due to such extraordinary circumstances.
 
 #### (4) Failure to participate in the income and eligibility verification system
 
@@ -60,7 +60,7 @@ Subject to this section:
 
 #### (6) Failure to timely repay a Federal Loan Fund for State Welfare Programs
 
-&emsp;If the Secretary determines that a State has failed to repay any amount borrowed from the Federal Loan Fund for State Welfare Programs established under section 606 of this title within the period of maturity applicable to the loan, plus any interest owed on the loan, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter (without regard to this section)by the outstanding loan amount, plus the interest owed on the outstanding amount. The Secretary shall not forgive any outstanding loan amount or interest owed on the outstanding amount.
+&emsp;If the Secretary determines that a State has failed to repay any amount borrowed from the Federal Loan Fund for State Welfare Programs established under section 606 of this title within the period of maturity applicable to the loan, plus any interest owed on the loan, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year quarter (without regard to this section) by the outstanding loan amount, plus the interest owed on the outstanding amount. The Secretary shall not forgive any outstanding loan amount or interest owed on the outstanding amount.
 
 #### (7) Failure of any State to maintain certain level of historic effort
 
@@ -102,7 +102,7 @@ Subject to this section:
 
 #### (IV) Eligible families
 
-&emsp;&emsp;&emsp;&emsp;As used in subclause (I), the term “eligible families” means families eligible for assistance under the State program funded under this part, families that would be eligible for such assistance but for the application of section 608(a)(7) of this title, and families of aliens lawfully present in the United States that would be eligible for such assistance but for the application of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996.
+&emsp;&emsp;&emsp;&emsp;As used in subclause (I), the term “eligible families” means families eligible for assistance under the State program funded under this part, families that would be eligible for such assistance but for the application of section 608(a)(7) of this title, and families of aliens lawfullypresent in the United States that would be eligible for such assistance but for the application of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996.
 
 #### (ii) Applicable percentage
 
@@ -166,7 +166,7 @@ Subject to this section:
 
 &emsp;&emsp;&emsp;(i) not less than 1 nor more than 2 percent;
 
-&emsp;&emsp;&emsp;(ii) not less than 2 nor more than 3 percent, if the finding is the 2nd consecutive finding made pursuant to subparagraph (A); or
+&emsp;&emsp;&emsp;(ii) not less than 2 nor more than 3 percent, if the finding is the 2nd consecutivefinding made pursuant to subparagraph (A); or
 
 &emsp;&emsp;&emsp;(iii) not less than 3 nor more than 5 percent, if the finding is the 3rd or a subsequent consecutive such finding.
 
@@ -184,7 +184,7 @@ Subject to this section:
 
 #### (10) Failure of State receiving amounts from Contingency Fund to maintain 100 percent of historic effort
 
-&emsp;If, at the end of any fiscal year during which amounts from the Contingency Fund for State Welfare Programs have been paid to a State, the Secretary finds that the qualified State expenditures (as defined in paragraph (7)(B)(i)\(other than the expenditures described in subclause (I)(bb) of that paragraph)) under the State program funded under this part for the fiscal year are less than 100 percent of historic State expenditures (as defined in paragraph (7)(B)(iii) of this subsection), excluding any amount expended by the State for child care under subsection (g) or (i) of section 602 of this title (as in effect during fiscal year 1994) for fiscal year 1994, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by the total of the amounts so paid to the State that the State has not remitted under section 603(b)(6) of this title.
+&emsp;If, at the end of any fiscal year during which amounts from the Contingency Fund for State Welfare Programs have been paid to a State, the Secretary finds that the qualified State expenditures (as defined in paragraph (7)(B)(i) (other than the expenditures described in subclause (I)(bb) of that paragraph)) under the State program funded under this part for the fiscal year are less than 100 percent of historic State expenditures (as defined in paragraph (7)(B)(iii) of this subsection), excluding any amount expended by the State for child care under subsection (g) or (i) of section 602 of this title (as in effect during fiscal year 1994) for fiscal year 1994, the Secretary shall reduce the grant payable to the State under section 603(a)(1) of this title for the immediately succeeding fiscal year by the total of the amounts so paid to the State that the State has not remitted under section 603(b)(6) of this title.
 
 #### (11) Failure to maintain assistance to adult single custodial parent who cannot obtain child care for child under age 6
 
@@ -246,7 +246,7 @@ Subject to this section:
 
 #### (D) Acceptance of plan
 
-&emsp;&emsp;A corrective compliance plan submitted by a State in accordance with subparagraph (B)is deemed to be accepted by the Secretary if the Secretary does not accept or reject the plan during 60-day period that begins on the date the plan is submitted.
+&emsp;&emsp;A corrective compliance plan submitted by a State in accordance with subparagraph (B) is deemed to be accepted by the Secretary if the Secretary does not accept or reject the plan during 60-day period that begins on the date the plan is submitted.
 
 #### (2) Effect of correcting or discontinuing violation
 
@@ -284,7 +284,7 @@ Part F of this subchapter, referred to in subsec. (a)(7)(B)(iii)(I), (v), was cl
 
 A prior section 609, act Aug. 14, 1935, ch. 531, title IV, §409, as added Nov. 5, 1990, Pub. L. 101–508, title V, §5052(a), 104 Stat. 1388–228, related to exclusion from AFDC unit of child for whom Federal, State, or local foster care maintenance or adoption assistance payments were made, prior to repeal by Pub. L. 104–193, §103(a)(1), as amended by Pub. L. 105–33, title V, §5514(c), Aug. 5, 1997, 111 Stat. 620.
 
-Another prior section 609, act Aug. 14, 1935, ch. 531, title IV, §409, as added and amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(E), 105(a), 76 Stat. 180, 186; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2307(a), 95 Stat. 846; Sept. 3, 1982, Pub. L. 97–248, title I, §154(c), 96 Stat. 397; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2627, 2641(a), 2663(c)(5), 98 Stat. 1136, 1146, 1166, related to community work experience programs, prior to repeal by Pub. L. 100–485, title II, §§202(b)(12), 204(a), (b)(1)(A), Oct. 13, 1988, 102 Stat. 2378, 2381, effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485 at such earlier effective dates.
+Another prior section 609, act Aug. 14, 1935, ch. 531, title IV, §409, as added and amended July 25, 1962, Pub. L. 87–543, title I, §§101(b)(2)(E), 105(a), 76 Stat. 180, 186; Aug. 13, 1981, Pub. L. 97–35, title XXIII, §2307(a), 95 Stat. 846; Sept. 3, 1982, Pub. L. 97–248, title I, §154(c), 96 Stat. 397; July 18, 1984, Pub. L. 98–369, div. B, title VI, §§2627, 2641(a), 2663(c)(5), 98 Stat. 1136, 1146, 1166, related tocommunity work experience programs, prior to repeal by Pub. L. 100–485, title II, §§202(b)(12), 204(a), (b)(1)(A), Oct. 13, 1988, 102 Stat. 2378, 2381, effective Oct. 1, 1990, with provision for earlier effective dates in case of States making certain changes in their State plans and formally notifying the Secretary of Health and Human Services of their desire to become subject to the amendments by title II of Pub. L. 100–485 at such earlier effective dates.
 
 #### Amendments
 
@@ -314,7 +314,7 @@ Pub. L. 105–33, §5506(c), redesignated subcl. (III) as (IV).
 
 Subsec. (a)(7)(B)(ii). Pub. L. 105–33, §5506(e), struck out “reduced (if appropriate) in accordance with subparagraph (C)(ii)” after “75 percent)”.
 
-Subsec. (a)(7)(B)(iv). Pub. L. 105–33, §5001(a)(2), amended heading and text of cl. (iv) generally. Prior toamendment, text read as follows: “The term ‘expenditures by the State’ does not include—
+Subsec. (a)(7)(B)(iv). Pub. L. 105–33, §5001(a)(2), amended heading and text of cl. (iv) generally. Prior to amendment, text read as follows: “The term ‘expenditures by the State’ does not include—
 
 &emsp;“(I) any expenditures from amounts made available by the Federal Government;
 
@@ -362,7 +362,7 @@ Pub. L. 105–33, §5001(g)(1)(C), substituted “(12), or (13)” for “or (12
 
 Amendment by Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
 
-Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(c)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–287, provided that: “The amendments made by this section \[amending this section and section 655 of this title\] shall take effect on October 1, 1999.”
+Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §807(c)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–287, provided that: “The amendments made by this section \[amending thissection and section 655 of this title\] shall take effect on October 1, 1999.”
 
 #### Effective Date of 1997 Amendment
 

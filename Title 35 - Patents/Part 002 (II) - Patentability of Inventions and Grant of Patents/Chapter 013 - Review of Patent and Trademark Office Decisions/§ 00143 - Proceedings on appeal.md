@@ -1,8 +1,8 @@
 ### §143. Proceedings on appeal
 
-With respect to an appeal described in section 142 of this title, the Director shall transmit to the United States Court of Appeals for the Federal Circuit a certified list of the documents comprising the record in the Patent and Trademark Office. The court may request that the Director forward the original or certified copies of such documents during pendency of the appeal. In any reexamination case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal. The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Director and the parties in the appeal.
+With respect to an appeal described in section 142 of this title, the Director shall transmit to the United States Court of Appeals for the Federal Circuit a certified list of the documents comprising the record in the Patent and Trademark Office. The court may request that the Director forward the original or certified copies of such documents during pendency of the appeal. In an ex parte case or any reexamination case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal. The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Director and the parties in the appeal. The court shall, before hearing an appeal, give notice of the time and place of the hearing to the Director and the parties in the appeal.
 
-(July 19, 1952, ch. 950, 66 Stat. 802; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(a), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4605(d), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 802; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–164, title I, §163(a)(7), Apr. 2, 1982, 96 Stat. 49; Pub. L. 98–620, title IV, §414(a), Nov. 8, 1984, 98 Stat. 3363; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4605(d), 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–571, 1501A–582; Pub. L. 107–273, div. C, title III, §§13202(b)(2), 13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1901, 1906.)
 
 #### Historical and Revision Notes
 
@@ -12,7 +12,11 @@ Language is changed. The requirement that the Commissioner notify the parties is
 
 #### Amendments
 
-1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], substituted “Director” for “Commissioner” the first, second, and fourth places appearing.
+2002—Pub. L. 107–273, §13206(b)(1)(B), made technical correction to directory language of Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+
+Pub. L. 107–273, §13202(b)(2), amended third sentence generally and added fourth sentence. Prior to amendment, third sentence read as follows: “In any reexamination case, the Director shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal.”
+
+1999—Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, §13206(b)(1)(B), substituted “Director” for “Commissioner” the first, second, and fourth places appearing.
 
 Pub. L. 106–113, §1000(a)(9) \[title IV, §4605(d)\], amended third sentence generally. Prior to amendment, third sentence read as follows: “In an ex parte case, the Commissioner shall submit to the court in writing the grounds for the decision of the Patent and Trademark Office, addressing all the issues involved in the appeal.”
 
@@ -30,7 +34,7 @@ Amendment by section 1000(a)(9) \[title IV, §4732(a)(10)(A)\] of Pub. L. 106–
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–620 applicable to proceedings pending in the Patent and Trademark Office on Nov. 8, 1984, and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date, see section 414(c) of Pub. L. 98–620, set out as a note under section 142 of this title.
+Amendment by Pub. L. 98–620 applicable to proceedings pending in the Patent and Trademark Office onNov. 8, 1984, and to appeals pending in the United States Court of Appeals for the Federal Circuit on such date, see section 414(c) of Pub. L. 98–620, set out as a note under section 142 of this title.
 
 #### Effective Date of 1982 Amendment
 

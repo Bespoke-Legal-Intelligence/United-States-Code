@@ -50,6 +50,10 @@ In subsection (c), the words “duties and powers” are substituted for “resp
 
 Subsec. (a). Pub. L. 107–71, §101(f)(4), substituted “Under Secretary” for “Assistant Administrator for Civil Aviation Security”.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 106, 114, 44934 of this title.

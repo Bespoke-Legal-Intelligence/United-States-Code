@@ -1,6 +1,6 @@
 ### §10302. Shipping articles agreements
 
-(a) The owner, charterer, managing operator, master, or individual in charge shall make ashipping agreement in writing with each seaman before the seaman commences employment.
+(a) The owner, charterer, managing operator, master, or individual in charge shall make a shipping agreement in writing with each seaman before the seaman commences employment.
 
 (b) The agreement shall contain the following:
 

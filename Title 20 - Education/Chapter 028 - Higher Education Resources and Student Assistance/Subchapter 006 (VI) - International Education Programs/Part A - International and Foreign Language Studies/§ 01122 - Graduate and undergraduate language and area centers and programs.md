@@ -66,7 +66,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary is authorized to make grants to institutions of higher education or combinations of such institutions for the purpose of paying stipends to individuals undergoing advanced training in any center or program approved by the Secretary.
+&emsp;The Secretary is authorized to make grants to institutions of higher education or combinations of such institutions for the purpose ofpaying stipends to individuals undergoing advanced training in any center or program approved by the Secretary.
 
 #### (2) Eligible students
 

@@ -22,7 +22,7 @@ Any person who commits any act that is unlawful under subsection (a) of this sec
 
 #### (c) Criminal penalty
 
-Any person who commits an act that is unlawful under paragraph (2), (3), (4), or (6) of subsection (a) of this section shall be guilty of anoffense punishable as provided by section 309(b) of the Magnuson Act (16 U.S.C. 1859(b)).
+Any person who commits an act that is unlawful under paragraph (2), (3), (4), or (6) of subsection (a) of this section shall be guilty of an offense punishable as provided by section 309(b) of the Magnuson Act (16 U.S.C. 1859(b)).
 
 #### (d) Forfeiture
 
@@ -47,4 +47,8 @@ The district courts of the United States shall have exclusive jurisdiction over 
 &emsp;(4) take such other actions as are in the interest of justice.
 
 (Pub. L. 99–5, §8, Mar. 15, 1985, 99 Stat. 12.)
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -22,5 +22,5 @@ A prior section 8148, Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 555, provided fo
 
 #### Effective Date
 
-Section 101(c) of Pub. L. 103–333 provided that: “The amendments made by this section \[enacting this section and amending section 1920 of Title 18, Crimes and Criminal Procedure\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1994\]. The amendmentsmade by subsection (a) \[enacting this section\] shall apply to claims filed before, on, or after the date of enactment of this Act, and shall apply only to individuals convicted after such date of enactment.”
+Section 101(c) of Pub. L. 103–333 provided that: “The amendments made by this section \[enacting this section and amending section 1920 of Title 18, Crimes and Criminal Procedure\] shall take effect on the date of the enactment of this Act \[Sept. 30, 1994\]. The amendments made by subsection (a) \[enacting this section\] shall apply to claims filed before, on, or after the date of enactment of this Act, and shall apply only to individuals convicted after such date of enactment.”
 

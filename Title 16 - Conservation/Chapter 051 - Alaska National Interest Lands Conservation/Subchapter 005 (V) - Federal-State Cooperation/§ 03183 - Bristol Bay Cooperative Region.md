@@ -18,7 +18,7 @@ The purpose of this section is to provide for the preparation and implementation
 
 &emsp;(3) to provide for such exchanges of land among the Federal Government, the State, and other public or private owners as will facilitate the carrying out of paragraphs (1) and (2);
 
-&emsp;(4) to identify any further lands within the region which are appropriate for selections by the State under section 6 of the Alaska Statehood Act and this Act; and
+&emsp;(4) to identify any further lands within the region which are appropriate for selections bythe State under section 6 of the Alaska Statehood Act and this Act; and
 
 &emsp;(5) to identify any further lands within the region which may be appropriate for congressional designation as national conservation system units.
 
@@ -72,7 +72,7 @@ On December 2, 1980, and for a period of three years thereafter, all Federal lan
 
 Section 6 of the Alaska Statehood Act, referred to in subsec. (b)(4), is section 6 of Pub. L. 85–508, July 7, 1958, 72 Stat. 399, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions.
 
-This Act, referred to in subsecs. (b)(4) and (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, knownas the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amended provisions set out as notes under section 1611 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
+This Act, referred to in subsecs. (b)(4) and (f), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. Title IX of this Act enacted sections 1631 to 1638 of Title 43, Public Lands, amended sections 1614 and 1620 of Title 43, and amended provisions set out as notes under section 1611 of Title 43 and preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of this title and Tables.
 
 The public land laws, referred to in subsec. (f), are classified generally to Title 43.
 

@@ -52,9 +52,9 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 (4)(A) Congress confirms that Federal procurement programs for tribes and Alaska Native Corporations are enacted pursuant to its authority under Article I, Section 8 of the United States Constitution.
 
-(B) Contracting with an entity defined in subsection (e)(2) of this section or section 1452(c) of title 25 shall be credited towards the satisfaction of a contractor's obligations under section 7 of Public Law 87–305.
+(B) Contracting with an entity defined in subsections <sup>1</sup> (e)(1) or (e)(2) of this section or section 1452(c) of title 25 shall be credited towards the satisfaction of a contractor's small or small disadvantaged business subcontracting goals under section 502 of P.L. 100–656, provided that where lower tier subcontractors exist, the entity shall designate the appropriate contractor or contractors to receive such credit.
 
-(C) Any entity that satisfies subsection (e)(2) of this section that has been certified under section 637 of title 15 is a Disadvantaged Business Enterprise for the purposes of Public Law 105–178.
+(C) Any entity that satisfies subsection (e)(1) or (e)(2) of this section that has been certified under section 637 of title 15 is a Disadvantaged Business Enterprise for the purposes of Public Law 105–178.
 
 #### (f) Omitted
 
@@ -62,7 +62,7 @@ Notwithstanding any other provision of law, Alaska Natives shall remain eligible
 
 For the purposes of implementation of the Civil Rights Act of 1964 \[42 U.S.C. 2000a et seq.\], a Native Corporation and corporations, partnerships, joint ventures, trusts, or affiliates in which the Native Corporation owns not less than 25 per centum of the equity shall be within the class of entities excluded from the definition of “employer” by section 701(b)(1) of Public Law 88–352 (78 Stat. 253), as amended \[42 U.S.C. 2000e(b)(1)\], or successor statutes.
 
-(Pub. L. 92–203, §29, as added Pub. L. 94–204, §4, Jan. 2, 1976, 89 Stat. 1147; amended Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1812; Pub. L. 102–415, §§10, 11, Oct. 14, 1992, 106 Stat. 2115; Pub. L. 105–333, §5, Oct. 31, 1998, 112 Stat. 3131; Pub. L. 107–117, div. B, §702, Jan. 10, 2002, 115 Stat. 2312.)
+(Pub. L. 92–203, §29, as added Pub. L. 94–204, §4, Jan. 2, 1976, 89 Stat. 1147; amended Pub. L. 100–241, §15, Feb. 3, 1988, 101 Stat. 1812; Pub. L. 102–415, §§10, 11, Oct. 14, 1992, 106 Stat. 2115; Pub. L. 105–333, §5, Oct. 31, 1998, 112 Stat. 3131; Pub. L. 107–117, div. B, §702, Jan. 10, 2002, 115 Stat. 2312; Pub. L. 107–206, title III, §3003, Aug. 2, 2002, 116 Stat. 924.)
 
 #### References in Text
 
@@ -70,7 +70,7 @@ The Food Stamp Act of 1964 (78 Stat. 703), as amended, referred to in subsec. (b
 
 The Social Security Act, referred to in subsec. (c)(2), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended, which is classified generally to chapter 7 (§301 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
-Section 7 of Public Law 87–305, referred to in subsec. (e)(4)(B), is section 7 of Pub. L. 87–305, Sept. 26, 1961, 75 Stat. 667, which amended section 637 of Title 15, Commerce and Trade, by adding subsec. (d).
+Section 502 of P.L. 100–656, referred to in subsec. (e)(4)(B), is section 502 of title V of Pub. L. 100–656, Nov. 15, 1988, 102 Stat. 3881, which amended section 644(g) of Title 15, Commerce and Trade.
 
 Public Law 105–178, referred to in subsec. (e)(4)(C), is Pub. L. 105–178, June 9, 1998, 112 Stat. 107, as amended, known as the Transportation Equity Act for the 21st Century. The Disadvantaged Business Enterprise provisions of the Act are set out as a note under section 101 of Title 23, Highways. For complete classification of this Act to the Code, see Short Title of 1998 Amendment note set out under section 101 of Title 23 and Tables.
 
@@ -83,6 +83,10 @@ Subsec. (f) amended section 1702(3), (4) of Title 30, Mineral Lands and Mining, 
 #### Amendments
 
 2002—Subsec. (e)(4). Pub. L. 107–117 added par. (4).
+
+Subsec. (e)(4)(B). Pub. L. 107–206, §3003(1), substituted “subsections (e)(1) or (e)(2)” for “subsection (e)(2)” and directed the substitution of “small or small disadvantaged business subcontracting goals under section 502 of P.L. 100–656, provided that where lower tier subcontractors exist, the entity shall designate the appropriate contractor or contractors to receive such credit” for “obligations under section 7 of P.L. 87–305”, which was executed by making the substitution for “obligations under section 7 of Public Law 87–305”, to reflect the probable intent of Congress.
+
+Subsec. (e)(4)(C). Pub. L. 107–206, §3003(2), substituted “subsection (e)(1) or (e)(2)” for “subsection (e)(2)”.
 
 1998—Subsec. (c)(3)(A). Pub. L. 105–333, §5(1), inserted “and on bonds received from a Native Corporation”.
 
@@ -97,4 +101,6 @@ Subsec. (g). Pub. L. 102–415, §11, substituted “of entities excluded from t
 #### Section Referred to in Other Sections
 
 This section is referred to in title 15 section 632.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

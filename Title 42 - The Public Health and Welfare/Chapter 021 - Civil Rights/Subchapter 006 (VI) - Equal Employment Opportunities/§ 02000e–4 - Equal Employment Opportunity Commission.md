@@ -44,7 +44,7 @@ The Commission shall have power—
 
 #### (h) Cooperation with other departments and agencies in performance of educational or promotional activities; outreach activities
 
-(1) The Commission shall, in any of its educational or promotional activities, cooperate with other departments and agencies in the performance of such educational and promotional activities.
+(1) The Commission shall, in any of its educational or promotional activities, cooperatewith other departments and agencies in the performance of such educational and promotional activities.
 
 (2) In exercising its powers under this subchapter, the Commission shall carry out educational and outreach activities (including dissemination of information in languages other than English) targeted to—
 
@@ -68,7 +68,7 @@ All officers, agents, attorneys, and employees of the Commission shall be subjec
 
 #### (k) EEOC Education, Technical Assistance, and Training Revolving Fund
 
-(1) There is hereby established in the Treasury of the United States a revolving fund to be known as the “EEOC Education, Technical Assistance, and Training Revolving Fund” (hereinafter in this subsection referred to as the “Fund”) and to pay the cost (including administrative and personnel expenses) of providingeducation, technical assistance, and training relating to laws administered by the Commission. Monies in the Fund shall be available without fiscal year limitation to the Commission for such purposes.
+(1) There is hereby established in the Treasury of the United States a revolving fund to be known as the “EEOC Education, Technical Assistance, and Training Revolving Fund” (hereinafter in this subsection referred to as the “Fund”) and to pay the cost (including administrative and personnel expenses) of providing education, technical assistance, and training relating to laws administered by the Commission. Monies in the Fund shall be available without fiscal year limitation to the Commission for such purposes.
 
 (2)(A) The Commission shall charge fees in accordance with the provisions of this paragraph to offset the costs of education, technical assistance, and training provided with monies in the Fund. Such fees for any education, technical assistance, or training—
 
@@ -186,7 +186,7 @@ Administrative proceedings including administrative appeals from the acts of an 
 
 #### Sec. 8. Incidental Transfers
 
-So much of the personnel, property, records and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate department, agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall beused for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of the Council abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
+So much of the personnel, property, records and unexpended balances of appropriations, allocations and other funds employed, used, held, available, or to be made available in connection with the functions transferred under this Plan, as the Director of the Office of Management and Budget shall determine, shall be transferred to the appropriate department, agency, or component at such time or times as the Director of the Office of Management and Budget shall provide, except that no such unexpended balances transferred shall be used for purposes other than those for which the appropriation was originally made. The Director of the Office of Management and Budget shall provide for terminating the affairs of the Council abolished herein and for such further measures and dispositions as such Director deems necessary to effectuate the purposes of this Reorganization Plan.
 
 #### Sec. 9. Effective Date
 
@@ -222,7 +222,7 @@ In addition, the Labor Department enforces the Equal Pay Act of 1963 \[section 2
 
 <i>The Civil Service Commission (CSC)</i> enforces Title VII and all other nondiscrimination and affirmative action requirements for Federal employment. The CSC rules on complaints filed by individuals and monitors affirmative action plans submitted annually by other Federal agencies.
 
-<i>The Equal Employment Opportunity Coordinating Council</i> includes representatives from EEOC, Labor, Justice, CSC and the Civil Rights Commission. It is charged with coordinating the Federal equal employment opportunity enforcement effort and with eliminating overlap and inconsistent standards.
+<i>The Equal Employment Opportunity Coordinating Council</i> includes representatives from EEOC, Labor, Justice,CSC and the Civil Rights Commission. It is charged with coordinating the Federal equal employment opportunity enforcement effort and with eliminating overlap and inconsistent standards.
 
 In addition to these major government units, other agencies enforce various equal employment opportunity requirements which apply to specific grant programs. The Department of the Treasury, for example, administers the anti-discrimination prohibitions applicable to recipients of revenue sharing funds.
 
@@ -276,7 +276,7 @@ The transfer will strengthen efforts to combat sex discrimination. Such efforts 
 
 There is now virtually complete overlap in the employers, labor organizations, and employment agencies covered by Title VII and by the Age Discrimination in Employment Act. This overlap is burdensome to employers and confusing to victims of discrimination. The proposed transfer of the age discrimination program from the Labor Department to the EEOC will eliminate the duplication.
 
-The Plan I am proposing will not affect the Attorney General's responsibility to enforce Title VII against State or local governments or to represent the Federal government in suits against Federal contractors and grant recipients. In 1972, the Congress determined that the Attorney General should be involved in suits against State and local governments. This proposal reinforces that judgment and clarifies the Attorney General's authority to initiate litigation against State or local governments engaged in a “pattern or practice” of discrimination. This in no way diminishes the EEOC's existing authority to investigate complaints filed against State or local governments and, where appropriate, to refer them to the Attorney General. The Justice Department and the EEOC will cooperate so that the Department sues on valid referrals, as well as on its own “pattern or practice” cases.
+The Plan I am proposing will not affect the Attorney General's responsibility to enforce Title VII against State or local governments or to represent the Federal government in suits against Federal contractors and grant recipients. In 1972, the Congress determined that the Attorney General should be involved in suits against State and local governments. This proposal reinforces that judgment and clarifies the Attorney General's authority to initiate litigation against State or local governments engaged in a “pattern or practice” of discrimination. This in no way diminishes theEEOC's existing authority to investigate complaints filed against State or local governments and, where appropriate, to refer them to the Attorney General. The Justice Department and the EEOC will cooperate so that the Department sues on valid referrals, as well as on its own “pattern or practice” cases.
 
 A critical element of my proposals will be accomplished by Executive Order rather than by the Reorganization Plan. This involves consolidation in the Labor Department of the responsibility to ensure that Federal contractors comply with Executive Order 11246. Consolidation will achieve the following: promote consistent standards, procedures, and reporting requirements; remove contractors from the jurisdiction of multiple agencies; prevent an agency's equal employment objectives from being outweighed by its procurement and construction objectives; and produce more effective law enforcement through unification of planning, training and sanctions. By 1981, after I have had an opportunity to review the manner in which both the EEOC and the Labor Department are exercising their new responsibilities, I will determine whether further action is appropriate.
 

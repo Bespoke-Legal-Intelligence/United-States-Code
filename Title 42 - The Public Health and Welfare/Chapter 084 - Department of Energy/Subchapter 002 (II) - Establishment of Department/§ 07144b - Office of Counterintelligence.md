@@ -14,7 +14,7 @@ There is within the Department an Office of Counterintelligence.
 
 #### (c) Duties
 
-(1) The Director of the Office shall be responsible for establishing policy for counterintelligence programs and activities at Department facilities in order to reduce the threat ofdisclosure or loss of classified and other sensitive information at such facilities.
+(1) The Director of the Office shall be responsible for establishing policy for counterintelligence programs and activities at Department facilities in order to reduce the threat of disclosure or loss of classified and other sensitive information at such facilities.
 
 (2) The Director of the Office shall be responsible for establishing policy for the personnel assurance programs of the Department.
 

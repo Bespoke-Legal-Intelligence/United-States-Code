@@ -48,7 +48,7 @@
 
 (5) At the conclusion of fiscal year 1993 and again at the conclusion of fiscal year 1996, the Secretary shall submit reports to Congress regarding research and technology transfer activities conducted pursuant to the authorization contained in paragraph (1).
 
-(d)(1) Not later than June 1, 1995, the Secretary shall complete and submit to Congress a study of the commercial feasibility of constructing 1 or more high-speed ground transportationsystems in the United States. Such study shall consist of—
+(d)(1) Not later than June 1, 1995, the Secretary shall complete and submit to Congress a study of the commercial feasibility of constructing 1 or more high-speed ground transportation systems in the United States. Such study shall consist of—
 
 &emsp;(A) an economic and financial analysis;
 
@@ -190,7 +190,7 @@ Award of construction grant or contract.—Unless the Secretary and the Assistan
 
 Factors to be considered in selection.—Selection of the detailed design under this paragraph shall be based on consideration of the following factors, among others:
 
-&emsp;&emsp;“(i) The project shall be capable of utilizing Interstate highway rights-of-way along or above a significant portion of its route, and may also use railroad rights-of-way along or above any portion of the railroad route.
+&emsp;&emsp;“(i) The project shall be capable of utilizing Interstate highway rights-of-way along or above a significant portion of its route, and may also userailroad rights-of-way along or above any portion of the railroad route.
 
 &emsp;&emsp;“(ii) The total length of guideway shall be at least 19 miles and allow significant full-speed operations between stops.
 

@@ -30,7 +30,7 @@ It shall be unlawful for a business development company to acquire any assets (o
 
 &emsp;&emsp;(C) issued by an issuer that, immediately prior to the purchase of such issuer's securities by the business development company, was not in bankruptcy proceedings but was unable to meet its obligations as they came due without material assistance other than conventional lending or financing arrangements;
 
-&emsp;(4) securities of eligible portfolio companies purchased from any person in transactions not involving any public offering, if there is no ready market for such securities and if immediately prior to such purchase the business development company owns at least 60 per centum of the outstanding equity securities of such issuer (giving effect to all securities presently convertible into or exchangeable for equity securities of such issuer as if such securities were so converted or exchanged);
+&emsp;(4) securities of eligible portfolio companies purchased from any person in transactions not involving any public offering, if there is no ready market for such securities and if immediately prior to such purchase the business development company owns at least 60 per centum of the outstanding equity securities ofsuch issuer (giving effect to all securities presently convertible into or exchangeable for equity securities of such issuer as if such securities were so converted or exchanged);
 
 &emsp;(5) securities received in exchange for or distributed on or with respect to securities described in paragraphs (1) through (4) of this subsection, or pursuant to the exercise of options, warrants, or rights relating to securities described in such paragraphs;
 

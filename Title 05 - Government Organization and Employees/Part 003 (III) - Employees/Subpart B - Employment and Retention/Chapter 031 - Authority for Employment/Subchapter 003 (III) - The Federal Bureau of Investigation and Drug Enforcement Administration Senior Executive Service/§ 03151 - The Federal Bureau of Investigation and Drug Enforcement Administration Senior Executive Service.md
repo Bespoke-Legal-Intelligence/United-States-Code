@@ -20,7 +20,7 @@
 
 &emsp;&emsp;(D) removal or suspension consistent with subsections (a), (b), and (c) of section 7543 (except that any hearing or appeal to which a member of the FBI–DEA Senior Executive Service is entitled shall be held or decided pursuant to procedures established by regulations of the Attorney General); and
 
-&emsp;&emsp;(E) recertification consistent with section 3393a;
+&emsp;&emsp;(E) recertification consistent with section 3393a; <sup>1</sup>
 
 &emsp;(6) permit the payment of performance awards to members of the FBI–DEA Senior Executive Service consistent with the provisions applicable to performance awards under section 5384; and
 
@@ -34,7 +34,7 @@
 
 (2)(A) Notwithstanding any other provision of this section, an individual may not be selected for the FBI–DEA Senior Executive Service unless such individual is a career employee in the civil service.
 
-(B) For the purpose of subparagraph (A), “career employee in the civil service” shall havesuch meaning as the Attorney General, in consultation with the Director of the Office of Personnel Management, by regulation prescribes.
+(B) For the purpose of subparagraph (A), “career employee in the civil service” shall have such meaning as the Attorney General, in consultation with the Director of the Office of Personnel Management, by regulation prescribes.
 
 (c) The President, based on the recommendations of the Attorney General, may award ranks to members of the FBI–DEA Senior Executive Service in a manner consistent with the provisions of section 4507.
 
@@ -60,6 +60,8 @@
 
 #### References in Text
 
+Section 3393a, referred to in subsec. (a)(5)(E), was repealed by Pub. L. 107–296, title XIII, §1321(a)(1)(B), Nov. 25, 2002, 116 Stat. 2296.
+
 Provisions of this title governing appointments and other personnel actions in the competitive service, referred to in subsec. (b)(1)(B), are classified generally to section 3301 et seq. of this title.
 
 #### Amendments
@@ -73,4 +75,6 @@ Section 506(d) of Pub. L. 101–194 provided that: “The amendments made by thi
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 5304, 5376 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -28,7 +28,7 @@ Other exemptions.—(A) Any common carrier which would be a farm labor contracto
 
 &emsp;(ii) Any person to the extent he is supplied with students or other individuals for agricultural employment in accordance with clause (i) of this subparagraph by a person who is exempt under such clause.
 
-&emsp;(H)(i) Any person whose principal occupation or business is not agricultural employment, when supplying full-time students or other individuals whose principal occupation is not agricultural employment to string or harvest shade grown tobacco and to engage in relatedand incidental agricultural employment, unless there are individuals under eighteen years of age who are providing transportation on behalf of such person.
+&emsp;(H)(i) Any person whose principal occupation or business is not agricultural employment, when supplying full-time students or other individuals whose principal occupation is not agricultural employment to string or harvest shade grown tobacco and to engage in related and incidental agricultural employment, unless there are individuals under eighteen years of age who are providing transportation on behalf of such person.
 
 &emsp;(ii) Any person to the extent he is supplied with students or other individuals for agricultural employment in accordance with clause (i) of this subparagraph by a person who is exempt under such clause.
 

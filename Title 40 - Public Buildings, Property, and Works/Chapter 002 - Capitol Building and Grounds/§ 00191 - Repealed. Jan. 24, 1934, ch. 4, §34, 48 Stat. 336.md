@@ -1,4 +1,0 @@
-### §191. Repealed. Jan. 24, 1934, ch. 4, §34, 48 Stat. 336
-
-Section, act Mar. 3, 1903, ch. 1012, §34, 32 Stat. 1221, prohibited sale of intoxicating liquors within limits of the Capitol Building.
-

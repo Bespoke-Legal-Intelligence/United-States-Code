@@ -58,6 +58,8 @@ The limitation under subsection (a) of this section shall not apply to the follo
 
 &emsp;(K) Benefits under the <sup>3</sup> title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\].
 
+&emsp;(L) Assistance or benefits provided to individuals under the age of 18 under the Food Stamp Act of 1977 (7 U.S.C. 2011 et seq.).
+
 #### (d) Benefits for certain groups
 
 Notwithstanding any other provision of law, the limitations under section 1611(a) of this title and subsection (a) of this section shall not apply to—
@@ -66,7 +68,7 @@ Notwithstanding any other provision of law, the limitations under section 1611(a
 
 &emsp;(2) an individual, spouse, or dependent described in section 1612(a)(2)(K) of this title, but only with respect to the specified Federal program described in section 1612(a)(3)(B) of this title.
 
-(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, §509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(A), (f)(3)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169.)
+(Pub. L. 104–193, title IV, §403, Aug. 22, 1996, 110 Stat. 2265; Pub. L. 105–33, title V, §§5302(c)(1), 5303(c), 5306(c), 5562, 5563, Aug. 5, 1997, 111 Stat. 599, 600, 602, 638; Pub. L. 105–185, title V, §509, June 23, 1998, 112 Stat. 580; Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(3)(A), (f)(3)(A)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–419, 2681–429; Pub. L. 106–78, title VII, §752(b)(6), Oct. 22, 1999, 113 Stat. 1169; Pub. L. 107–171, title IV, §4401(b)(2)(A), May 13, 2002, 116 Stat. 333.)
 
 #### References in Text
 
@@ -92,7 +94,11 @@ The Head Start Act, referred to in subsec. (c)(2)(J), is subchapter B (§§635�
 
 The Workforce Investment Act of 1998, referred to in subsec. (c)(2)(K), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. Title I of the Act is classified principally to chapter 30 (§2801 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 
+The Food Stamp Act of 1977, referred to in subsec. (c)(2)(L), is Pub. L. 88–525, Aug. 31, 1964, 78 Stat. 703, as amended, which is classified generally to chapter 51 (§2011 et seq.) of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 2011 of Title 7 and Tables.
+
 #### Amendments
+
+2002—Subsec. (c)(2)(L). Pub. L. 107–171 added subpar. (L).
 
 1999—Subsec. (c)(2)(C). Pub. L. 106–78 substituted “Richard B. Russell National School Lunch Act” for “National School Lunch Act”.
 
@@ -117,6 +123,10 @@ Subsec. (b)(2)(C). Pub. L. 105–33, §5563(b), inserted before period at end �
 Subsec. (d). Pub. L. 105–33, §5303(c), added subsec. (d).
 
 Pub. L. 105–33, §5302(c)(1)(B), struck out heading and text of subsec. (d). Text read as follows: “The limitation under subsection (a) of this section shall not apply to refugee and entrant assistance activities, authorized by title IV of the Immigration and Nationality Act \[8 U.S.C. 1521 et seq.\] and section 501 of the Refugee Education Assistance Act of 1980, for Cuban and Haitian entrants as defined in section 501(e)(2) of the Refugee Education Assistance Act of 1980.”
+
+#### Effective Date of 2002 Amendment
+
+Amendment by section 4401(b)(2)(A) of Pub. L. 107–171 effective Oct. 1, 2003, see section 4401(b)(3) of Pub. L. 107–171, set out as a note under section 2014 of Title 7, Agriculture.
 
 #### Effective Date of 1998 Amendments
 

@@ -6,7 +6,7 @@
 
 &emsp;&emsp;(A) employees in the legislative, executive, and judicial branches of the Government of the United States (except employees whose pay is disbursed by the Secretary of the Senate or the Chief Administrative Officer of the House of Representatives) and of the government of the District of Columbia, whose rates of pay are fixed by administrative action under law and are not otherwise adjusted under this subchapter;
 
-&emsp;&emsp;(B) employees under the Architect of the Capitol, whose rates of pay are fixed under section 166b–3a of title 40, and the Superintendent of Garages, House office buildings; and
+&emsp;&emsp;(B) employees under the Architect of the Capitol, whose rates of pay are fixed under section 166b–3a <sup>1</sup> of title 40, and the Superintendent of Garages, House office buildings; and
 
 &emsp;&emsp;(C) persons employed by the county committees established under section 590h(b) of title 16; and
 
@@ -32,6 +32,8 @@
 
 #### References in Text
 
+Section 166b–3a of title 40, referred to in subsec. (a)(1)(B), means section 166b–3a of former Title 40, Public Buildings, Property, and Works, which was transferred to section 1848 of Title 2, The Congress.
+
 The General Schedule, referred to in subsec. (a)(2), is set out under section 5332 of this title.
 
 Level V of the Executive Schedule, referred to in subsec. (e), is set out in section 5316 of this title.
@@ -50,5 +52,7 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5376, 5382 of this title; title 10 section 1602; title 40 section 174j–8.
+This section is referred to in sections 5376, 5382 of this title; title 2 section 2048; title 10 section 1602.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

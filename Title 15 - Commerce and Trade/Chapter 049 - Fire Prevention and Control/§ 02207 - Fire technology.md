@@ -24,7 +24,7 @@ The Administrator shall conduct a continuing program of development, testing, an
 
 #### (b) Limitation on manufacture and sale of equipment
 
-The Administration shall not engage in the manufacture or sale of any equipment or devicedeveloped pursuant to this section, except to the extent that it deems it necessary to adequately develop, test, or evaluate such equipment or device.
+The Administration shall not engage in the manufacture or sale of any equipment or device developed pursuant to this section, except to the extent that it deems it necessary to adequately develop, test, or evaluate such equipment or device.
 
 #### (c) Management studies
 
@@ -47,6 +47,8 @@ In establishing and conducting programs under this section, the Administrator sh
 (Pub. L. 93–498, §8, Oct. 29, 1974, 88 Stat. 1540.)
 
 #### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 

@@ -100,7 +100,7 @@ Subsec. (a)(2)(F) to (H). Pub. L. 105–261 struck out subpars. (F) to (H) which
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment made by section 3507(a) striking out subsec. (a)(2)(A), (B), and (F) to (H) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a)(2)(A), (B), and (F) to (H) of this section is terminated.
+Pub. L. 105–261, div. C, title XXXV, §3507(a), Oct. 17, 1998, 112 Stat. 2269, provided that the amendment madeby section 3507(a) striking out subsec. (a)(2)(A), (B), and (F) to (H) of this section is effective 11:59 p.m. (Eastern Standard Time), Dec. 30, 1999, and any right or condition of employment provided for in, or arising from, subsec. (a)(2)(A), (B), and (F) to (H) of this section is terminated.
 
 #### Section Referred to in Other Sections
 

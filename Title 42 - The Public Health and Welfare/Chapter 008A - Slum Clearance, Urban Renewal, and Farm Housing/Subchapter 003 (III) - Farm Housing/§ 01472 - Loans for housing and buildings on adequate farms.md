@@ -552,7 +552,7 @@ Section 514(b) of Pub. L. 96–399 required Secretary of Agriculture to conduct 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1436a, 1473, 1477, 1479, 1480, 1483, 1484, 1485, 1487, 1490a, 1490c, 1490f, 1490m, 1490p–1, 4851b, 8011 of this title; title 7 sections 1933, 1991, 2204f; title 12 section 1701x; title 26 section 42.
+This section is referred to in sections 1436a, 1473, 1477, 1479, 1480, 1483, 1484, 1485, 1487, 1490a, 1490c, 1490f, 1490m, 1490p–1, 4851b, 8011 of this title; title 7 sections 1933, 1991; title 12 section 1701x; title 26 section 42.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

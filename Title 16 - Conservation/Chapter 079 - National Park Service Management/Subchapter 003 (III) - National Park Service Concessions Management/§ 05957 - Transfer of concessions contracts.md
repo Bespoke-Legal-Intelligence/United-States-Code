@@ -8,7 +8,7 @@ No concessions contract or leasehold surrender interest may be transferred, assi
 
 The Secretary shall approve a transfer or conveyance described in subsection (a) of this section unless the Secretary finds that—
 
-&emsp;(1) the individual, corporation or entity seeking to acquire a concessions contract isnot qualified or able to satisfy the terms and conditions of the concessions contract;
+&emsp;(1) the individual, corporation or entity seeking to acquire a concessions contract is not qualified or able to satisfy the terms and conditions of the concessions contract;
 
 &emsp;(2) such transfer or conveyance would have an adverse impact on (A) the protection, conservation, or preservation of the resources of the unit of the National Park System or (B) the provision of necessary and appropriate facilities and services to visitors at reasonable rates and charges; and
 

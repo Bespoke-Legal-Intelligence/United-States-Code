@@ -88,7 +88,7 @@ Each interrogatory in a demand served pursuant to this section shall be answered
 
 (1) The examination of any person pursuant to a demand for oral testimony served under this section shall be taken before an officer authorized to administer oaths and affirmations by the laws of the United States or of the place where the examination is held. The officer before whom the testimony is to be taken shall put the witness on oath or affirmation and shall personally, or by someone acting under his direction and in his presence, record the testimony of the witness. The testimony shall be taken stenographically and transcribed. When the testimony is fully transcribed, the officer before whom the testimony is taken shall promptly transmit a copy of the transcript of the testimony to the custodian.
 
-(2) The antitrust investigator or investigators conducting the examination shall exclude from the place where the examination is held all other persons except the person being examined, his counsel, the officer before whom the testimony is to be taken, and any stenographer taking such testimony. The provisions of section 30 of this title shall not apply to such examinations.
+(2) The antitrust investigator or investigators conducting the examination shall exclude from the place where the examination is held all other persons except the person being examined, his counsel, the officer before whom the testimony is to be taken, and any stenographer taking such testimony. The provisions of section 30 <sup>1</sup> of this title shall not apply to such examinations.
 
 (3) The oral testimony of any person taken pursuant to a demand served under this section shall be taken in the judicial district of the United States within which such person resides, is found, or transacts business, or in such other place as may be agreed upon by the antitrust investigator conducting the examination and such person.
 
@@ -112,6 +112,8 @@ The International Antitrust Enforcement Assistance Act of 1994, referred to in s
 
 This chapter, referred to in subsecs. (c)(1)(B), (2) and (d), was in the original “this Act”, meaning Pub. L. 87–664, which is classified generally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1311 of this title and Tables.
 
+Section 30 of this title, referred to in subsec. (i)(2), was repealed by Pub. L. 107–273, div. C, title IV, §14102(f), Nov. 2, 2002, 116 Stat. 1922.
+
 #### Amendments
 
 1994—Subsec. (a). Pub. L. 103–438 inserted “or, with respect to the International Antitrust Enforcement Assistance Act of 1994, an investigation authorized by section 3 of such Act” after “investigation” and “by the United States” after “proceeding”.
@@ -126,7 +128,7 @@ Subsec. (c). Pub. L. 96–349, §2(b)(3), designated existing provisions as par.
 
 Subsec. (b). Pub. L. 94–435 restructured subsec. (b) and as so restructured, in par. (1) inserted provisions of cl. (B), in par. (2), added cls. (B) and (C), in par. (3) substituted provisions relating to written interrogatories for provisions relating to prescription of a return date for demanded material, and in par. (4), substituted provisions relating to oral testimony for provisions requiring a demand to identify the custodian to whom demanded material shall be made available.
 
-Subsec. (c). Pub. L. 94–435 inserted provision relating to the submission of answers to written interrogatories and the giving of oral testimony, struck out provisions of par. (1) relating to the reasonableness requirement for demands for documentary material, redesignated par. (2) as (1) and provided that protected status of any information or material would be determined by standards applicable in the case of a subpena or subpena duces tecum issued by a court of the United States, and added par. (2).
+Subsec. (c). Pub. L. 94–435 inserted provision relating to the submission of answers to written interrogatories and the giving of oral testimony, struck out provisions of par. (1) relating to the reasonableness requirementfor demands for documentary material, redesignated par. (2) as (1) and provided that protected status of any information or material would be determined by standards applicable in the case of a subpena or subpena duces tecum issued by a court of the United States, and added par. (2).
 
 Subsec. (d). Pub. L. 94–435 redesignated existing provisions as par. (1) and added par. (2).
 
@@ -141,4 +143,6 @@ Amendment by Pub. L. 94–435 effective Sept. 30, 1976, except subsec. (i)(8) of
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1313, 1314, 4014 of this title.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -6,7 +6,7 @@ Transportation Provided at Rates Other Than Legal Tariff Rates.—
 
 &emsp;(1)
 
-In general.—When a claim is made by a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter II ofchapter 105 (as in effect on December 31, 1995) or subchapter I of chapter 135, by a freight forwarder (other than a household goods freight forwarder), or by a party representing such a carrier or freight forwarder regarding the collection of rates or charges for such transportation in addition to those originally billed and collected by the carrier or freight forwarder for such transportation, the person against whom the claim is made may elect to satisfy the claim under the provisions of subsection (b), (c), or (d), upon showing that—
+In general.—When a claim is made by a motor carrier of property (other than a household goods carrier) providing transportation subject to jurisdiction under subchapter II of chapter 105 (as in effect on December 31, 1995) or subchapter I of chapter 135, by a freight forwarder (other than a household goods freight forwarder), or by a party representing such a carrier or freight forwarder regarding the collection of rates or charges for such transportation in addition to those originally billed and collected by the carrier or freight forwarder for such transportation, the person against whom the claim is made may elect to satisfy the claim under the provisions of subsection (b), (c), or (d), upon showing that—
 
 &emsp;&emsp;(A) the carrier or freight forwarder is no longer transporting property or is transporting property for the purpose of avoiding the application of this section; and
 
@@ -48,7 +48,7 @@ Claims Involving Public Warehousemen.—Notwithstanding subsections (b) and (c),
 
 (e)
 
-Effects of Election.—When a person from whom additional legally applicable freight rates or charges are sought does not elect to use the provisions of subsection (b), (c) or (d), the person may pursue all rights and remedies existing under this part or, for transportation provided before January 1, 1996, all rights and remedies that existed under this title on December 31, 1995.
+Effects of Election.—When a person from whom additional legally applicable freight rates or charges are sought does not elect to use theprovisions of subsection (b), (c) or (d), the person may pursue all rights and remedies existing under this part or, for transportation provided before January 1, 1996, all rights and remedies that existed under this title on December 31, 1995.
 
 (f)
 
@@ -72,7 +72,7 @@ Demands for payment initially made after december 3, 1993.—If the carrier or f
 
 &emsp;(3)
 
-Pending suits for collection made before december 4, 1993.—If the carrier or freight forwarder or party representing such carrier or freight forwarder has filed, before December 4, 1993, a suit for the collection of additional freight charges and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the90th day following the date on which such notification is received.
+Pending suits for collection made before december 4, 1993.—If the carrier or freight forwarder or party representing such carrier or freight forwarder has filed, before December 4, 1993, a suit for the collection of additional freight charges and notifies the person from whom additional freight charges are sought of the provisions of subsections (a) through (f), the election must be made not later than the 90th day following the date on which such notification is received.
 
 &emsp;(4)
 

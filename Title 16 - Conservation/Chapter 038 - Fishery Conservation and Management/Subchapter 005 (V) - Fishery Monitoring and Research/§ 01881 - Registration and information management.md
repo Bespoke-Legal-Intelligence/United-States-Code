@@ -58,7 +58,7 @@ Any registration recommended under this section shall not be considered a permit
 
 #### (e) Public comment
 
-Within one year after October 11, 1996, the Secretary shall publish in the Federal Register for a 60-day public comment period a proposal that would provide for implementation of a standardized fishing vessel registration and information collection system that meets the requirements of subsections (a) through (c) of this section. The proposal shall include—
+Within one year after October 11, 1996, the Secretary shall publish in the Federal Register fora 60-day public comment period a proposal that would provide for implementation of a standardized fishing vessel registration and information collection system that meets the requirements of subsections (a) through (c) of this section. The proposal shall include—
 
 &emsp;(1) a description of the arrangements of the Secretary for consultation and cooperation with the department in which the Coast Guard is operating, the States, the Councils, Marine Fisheries Commissions, the fishing industry and other interested parties; and
 
@@ -89,6 +89,10 @@ The Marine Mammal Protection Act, referred to in subsec. (a)(1), probably means 
 #### Prior Provisions
 
 A prior section 1881, Pub. L. 94–265, title IV, §401, Apr. 13, 1976, 90 Stat. 359, related to authority to amend regulations to conform to Law of the Sea Treaty, prior to repeal by Pub. L. 99–659, title I, §110, Nov. 14, 1986, 100 Stat. 3715.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

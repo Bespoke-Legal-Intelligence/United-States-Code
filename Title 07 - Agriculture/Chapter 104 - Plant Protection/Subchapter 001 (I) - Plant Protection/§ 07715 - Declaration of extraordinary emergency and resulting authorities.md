@@ -40,9 +40,17 @@ No plant, biological control organism, plant product, plant pest, noxious weed, 
 
 #### (e) Payment of compensation
 
-The Secretary may pay compensation to any person for economic losses incurred by the person as a result of action taken by the Secretary under this section. The determination by the Secretary of the amount of any compensation to be paid under this subsection shall be final and shall not be subject to judicial review.
+The Secretary may pay compensation to any person for economic losses incurred by the person as a result of action taken by the Secretary under this section. The determination by the Secretary of the amount of any compensation to be paid under this subsection shall be final and shall not be subject to judicial review or a review of longer than 60 days by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary.
 
-(Pub. L. 106–224, title IV, §415, June 20, 2000, 114 Stat. 445.)
+(Pub. L. 106–224, title IV, §415, June 20, 2000, 114 Stat. 445; Pub. L. 107–171, title VII, §7504(a), May 13, 2002, 116 Stat. 465.)
+
+#### Amendments
+
+2002—Subsec. (e). Pub. L. 107–171 inserted before period at end “or a review of longer than 60 days by any officer or employee of the Federal Government other than the Secretary or the designee of the Secretary”.
+
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

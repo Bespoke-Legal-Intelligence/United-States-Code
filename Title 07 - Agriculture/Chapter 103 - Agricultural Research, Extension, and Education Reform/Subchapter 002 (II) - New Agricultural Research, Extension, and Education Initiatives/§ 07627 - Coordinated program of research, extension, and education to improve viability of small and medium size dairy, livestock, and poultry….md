@@ -12,7 +12,7 @@ To the extent the Secretary elects to carry out the program, the Secretary shall
 
 &emsp;(2) in the case of dairy and livestock operations, research and extension on management-intensive grazing systems for dairy and livestock production to realize the potential for reduced capital and feed costs through greater use of management skills, labor availability optimization, and the natural benefits of grazing pastures;
 
-&emsp;(3) research and extension on integrated crop and livestock or poultry systems that increase efficiencies, reduce costs, and prevent environmental pollution to strengthen the competitive position of the operations;
+&emsp;(3) research and extension on integrated crop and livestock or poultry systems that increase efficiencies (including improved use of energy inputs), reduce costs, and prevent environmental pollution to strengthen the competitive position of the operations;
 
 &emsp;(4) economic analyses and market feasibility studies to identify new and expanded opportunities for producers on the operations that provide tools and strategies to meet consumer demand in domestic and international markets, such as cooperative marketing and value-added strategies for milk, meat, and poultry production and processing; and
 
@@ -22,5 +22,9 @@ To the extent the Secretary elects to carry out the program, the Secretary shall
 
 The Secretary may use the funds, facilities, and technical expertise of the Agricultural Research Service and the Cooperative State Research, Education, and Extension Service and other funds available to the Secretary (other than funds of the Commodity Credit Corporation) to carry out this section.
 
-(Pub. L. 105–185, title IV, §407, June 23, 1998, 112 Stat. 573.)
+(Pub. L. 105–185, title IV, §407, June 23, 1998, 112 Stat. 573; Pub. L. 107–171, title VII, §7207(c), May 13, 2002, 116 Stat. 440.)
+
+#### Amendments
+
+2002—Subsec. (b)(3). Pub. L. 107–171 inserted “(including improved use of energy inputs)” after “poultry systems that increase efficiencies”.
 

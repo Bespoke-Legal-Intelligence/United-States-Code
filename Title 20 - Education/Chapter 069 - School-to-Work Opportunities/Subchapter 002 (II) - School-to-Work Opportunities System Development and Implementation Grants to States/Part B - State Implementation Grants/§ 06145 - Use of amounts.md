@@ -58,7 +58,7 @@ The Secretaries may not provide an implementation grant under section 6142 of th
 
 &emsp;&emsp;(E) providing training to work-based and school-based staff on new curricula, student assessments, student guidance, and feedback to the school regarding student performance;
 
-&emsp;&emsp;(F) establishing, in schools participating in the School-to-Work Opportunities program, a graduation assistance program to assist at-risk students, low-achieving students, and students with disabilities, in graduating from high school, enrolling in postsecondary education or training, and finding or advancing in jobs;
+&emsp;&emsp;(F) establishing, in schools participating in the School-to-Work Opportunities program, a graduation assistance program toassist at-risk students, low-achieving students, and students with disabilities, in graduating from high school, enrolling in postsecondary education or training, and finding or advancing in jobs;
 
 &emsp;&emsp;(G) providing career exploration and awareness services, counseling and mentoring services, college awareness and preparation services, and other services (beginning at the earliest possible age, but not later than the 7th grade) to prepare students for the transition from school to work;
 
@@ -124,7 +124,7 @@ In carrying out the statewide School-to-Work Opportunities system, the State may
 
 &emsp;(9) identify ways that local school-to-work programs in existence on or after May 4, 1994, could be integrated with the statewide School-to-Work Opportunities system;
 
-&emsp;(10) design career awareness and exploration activities (beginning at the earliest possible age, but not later than the 7th grade), such as job shadowing, job site visits, school visits by individuals in various occupations, and mentoring;
+&emsp;(10) design career awareness and exploration activities (beginning at the earliest possible age, but not later than the 7th grade), such as job shadowing, job site visits, school visits byindividuals in various occupations, and mentoring;
 
 &emsp;(11) design and implement school-sponsored work experiences, such as school-sponsored enterprises and community development projects;
 

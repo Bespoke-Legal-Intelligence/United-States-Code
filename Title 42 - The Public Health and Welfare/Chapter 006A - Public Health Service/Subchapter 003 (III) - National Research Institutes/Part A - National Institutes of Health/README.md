@@ -15,3 +15,5 @@ Part A—National Institutes of Health
 - [&sect; 00283e - Plan for use of animals in research](%C2%A7%2000283e%20-%20Plan%20for%20use%20of%20animals%20in%20research.md)
 - [&sect; 00283f - Requirements regarding surveys of sexual behavior](%C2%A7%2000283f%20-%20Requirements%20regarding%20surveys%20of%20sexual%20behavior.md)
 - [&sect; 00283g - Muscular dystrophy; initiative through Director of National Institutes of Health](%C2%A7%2000283g%20-%20Muscular%20dystrophy%3B%20initiative%20through%20Director%20of%20National%20Institutes%20of%20Health.md)
+- [&sect; 00283h - Office of Rare Diseases](%C2%A7%2000283h%20-%20Office%20of%20Rare%20Diseases.md)
+- [&sect; 00283i - Rare disease regional centers of excellence](%C2%A7%2000283i%20-%20Rare%20disease%20regional%20centers%20of%20excellence.md)

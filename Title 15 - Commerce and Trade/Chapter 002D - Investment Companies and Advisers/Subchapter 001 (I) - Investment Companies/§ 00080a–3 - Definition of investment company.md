@@ -18,7 +18,7 @@ Notwithstanding paragraph (1)(C) of subsection (a) of this section, none of the 
 
 &emsp;(1) Any issuer primarily engaged, directly or through a wholly-owned subsidiary or subsidiaries, in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities.
 
-&emsp;(2) Any issuer which the Commission, upon application by such issuer, finds and by order declares to be primarily engaged in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities either directly or (A) through majority-owned subsidiaries or (B) through controlled companies conducting similar types of businesses. The filing of an application under this paragraph in good faith by an issuer other than a registered investment company shall exempt the applicant for a period of sixty days from all provisions of this subchapter applicable to investment companies as such. For cause shown, the Commission by order may extend such period of exemption for an additional period or periods. Whenever the Commission, upon its own motion or upon application, finds that the circumstances which gave rise to the issuance of an order granting an application under this paragraph no longer exist, the Commission shall by order revoke such order.
+&emsp;(2) Any issuer which the Commission, upon application by such issuer, finds and by order declares to be primarily engaged in a business or businesses other than that of investing, reinvesting, owning, holding, or trading in securities either directly or (A) through majority-owned subsidiaries or (B) through controlled companies conducting similar types of businesses. The filing of an application under this paragraph in good faith by an issuer other than a registered investment company shall exempt the applicant for a period of sixty days from all provisions of this subchapter applicable to investment companies as such. Forcause shown, the Commission by order may extend such period of exemption for an additional period or periods. Whenever the Commission, upon its own motion or upon application, finds that the circumstances which gave rise to the issuance of an order granting an application under this paragraph no longer exist, the Commission shall by order revoke such order.
 
 &emsp;(3) Any issuer all the outstanding securities of which (other than short-term paper and directors’ qualifying shares) are directly or indirectly owned by a company excepted from the definition of investment company by paragraph (1) or (2) of this subsection.
 
@@ -30,7 +30,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;(A) Beneficial ownership by a company shall be deemed to be beneficial ownership by one person, except that, if the company owns 10 per centum or more of the outstanding voting securities of the issuer, and is or, but for the exception provided for in this paragraph or paragraph (7), would be an investment company, the beneficial ownership shall be deemed to be that of the holders of such company's outstanding securities (other than short-term paper).
 
-&emsp;&emsp;(B) Beneficial ownership by any person who acquires securities or interests in securities of an issuer described in the first sentence of this paragraph shall be deemed to be beneficial ownership by the person from whom such transfer was made, pursuant tosuch rules and regulations as the Commission shall prescribe as necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter, where the transfer was caused by legal separation, divorce, death, or other involuntary event.
+&emsp;&emsp;(B) Beneficial ownership by any person who acquires securities or interests in securities of an issuer described in the first sentence of this paragraph shall be deemed to be beneficial ownership by the person from whom such transfer was made, pursuant to such rules and regulations as the Commission shall prescribe as necessary or appropriate in the public interest and consistent with the protection of investors and the purposes fairly intended by the policy and provisions of this subchapter, where the transfer was caused by legal separation, divorce, death, or other involuntary event.
 
 &emsp;(2)(A) Any person primarily engaged in the business of underwriting and distributing securities issued by other persons, selling securities to customers, acting as broker, and acting as market intermediary, or any one or more of such activities, whose gross income normally is derived principally from such business and related activities.
 
@@ -136,7 +136,7 @@ Notwithstanding subsection (a) of this section, none of the following persons is
 
 &emsp;&emsp;(iv) the term “charitable lead trust” means a trust described in section 170(f)(2)(B), 2055(e)(2)(B), or 2522(c)(2)(B) of title 26;
 
-&emsp;&emsp;(v) the term “charitable remainder trust” means a charitable remainder annuity trustor a charitable remainder unitrust, as those terms are defined in section 664(d) of title 26; and
+&emsp;&emsp;(v) the term “charitable remainder trust” means a charitable remainder annuity trust or a charitable remainder unitrust, as those terms are defined in section 664(d) of title 26; and
 
 &emsp;&emsp;(vi) the term “charitable gift annuity” means an annuity issued by a charitable organization that is described in section 501(m)(5) of title 26.
 
@@ -172,7 +172,7 @@ The Public Utility Holding Company Act of 1935, referred to in subsec. (c)(8), i
 
 Subsec. (a)(2)(C). Pub. L. 104–290, §209(c)(6), substituted “which (i) are” for “which are” and added cl. (ii).
 
-Subsec. (c)(1). Pub. L. 104–290, §209(a)(1), inserted after first sentence “Such issuer shall be deemed to be an investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title governing the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer.”
+Subsec. (c)(1). Pub. L. 104–290, §209(a)(1), inserted after first sentence “Such issuer shall be deemed to bean investment company for purposes of the limitations set forth in subparagraphs (A)(i) and (B)(i) of section 80a–12(d)(1) of this title governing the purchase or other acquisition by such issuer of any security issued by any registered investment company and the sale of any security issued by any registered open-end investment company to any such issuer.”
 
 Subsec. (c)(1)(A). Pub. L. 104–290, §209(a)(2), inserted “and is or, but for the exception provided for in this paragraph or paragraph (7), would be an investment company,” after “voting securities of the issuer,” and struck out “unless, as of the date of the most recent acquisition by such company of securities of that issuer, the value of all securities owned by such company of all issuers which are or would, but for the exception set forth in this subparagraph, be excluded from the definition of investment company solely by this paragraph, does not exceed 10 per centum of the value of the company's total assets. Such issuer nonetheless is deemed to be an investment company for purposes of section 80a–12(d)(1) of this title” after “(other than short-term paper)”.
 
@@ -228,7 +228,7 @@ Amendment by Pub. L. 106–102 effective 18 months after Nov. 12, 1999, see sect
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 209 of Pub. L. 104–290 effective on earlier of 180 days after Oct. 11, 1996, or date on which required rulemaking is completed, see section 209(e) of Pub. L. 104–290 set out as a note under section 80a–2 of this title.
+Amendment by section 209 of Pub. L. 104–290 effective on earlier of 180 days after Oct. 11, 1996, or date onwhich required rulemaking is completed, see section 209(e) of Pub. L. 104–290 set out as a note under section 80a–2 of this title.
 
 #### Effective Date of 1995 Amendment
 
@@ -256,7 +256,7 @@ Taxable Years to Which Amendments Applicable.—The amendments made by this sect
 
 &emsp;“(A) such a plan shall not become subject to the requirements of section 165(a)(3), (4), (5), and (6) \[of Title 26, I.R.C. 1939\] until the beginning of the first taxable year beginning after December 31, 1942.
 
-&emsp;“(B) such a plan shall be considered as satisfying the requirements of section 165(a), (3), (4), and (5) and (6) \[of Title 26, I.R.C. 1939\] for the period beginning with the beginning of the first taxable year followingDecember 31, 1942, and ending December 31, 1944, if the provisions thereof satisfy such requirements by December 31, 1944, and if by that time such provisions are made effective for all purposes as of a date not later than January 1, 1944.
+&emsp;“(B) such a plan shall be considered as satisfying the requirements of section 165(a), (3), (4), and (5) and (6) \[of Title 26, I.R.C. 1939\] for the period beginning with the beginning of the first taxable year following December 31, 1942, and ending December 31, 1944, if the provisions thereof satisfy such requirements by December 31, 1944, and if by that time such provisions are made effective for all purposes as of a date not later than January 1, 1944.
 
 &emsp;“(C) if the contribution of an employer to such a plan in the employer's taxable year beginning in 1942 exceeds the maximum amount deductible for such year under section 23(p)(1), as amended by this section, the amount deductible in such year shall be not less than the sum of—
 

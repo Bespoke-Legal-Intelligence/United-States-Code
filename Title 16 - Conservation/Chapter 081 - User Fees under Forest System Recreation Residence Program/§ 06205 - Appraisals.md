@@ -38,7 +38,7 @@ In implementing and conducting an appraisal process for determining cabin user f
 
 &emsp;&emsp;(B) comply with the reporting guidelines established by the Uniform Appraisal Standards for Federal Land Acquisitions; and
 
-&emsp;(9) before accepting any appraisal, conduct a review of the appraisal to ensure that the guidelines made available to the appraiser have been followed and that the appraised values are properly supported.
+&emsp;(9) before accepting any appraisal, conduct a review of the appraisal to ensure that theguidelines made available to the appraiser have been followed and that the appraised values are properly supported.
 
 #### (b) Specific appraisal guidelines
 
@@ -150,7 +150,7 @@ In the development of specific appraisal guidelines in accordance with subsectio
 
 #### (I) In general
 
-&emsp;&emsp;&emsp;&emsp;In a case in which the price of a parcel sold is to be adjusted in accordance with subparagraph (B), the adjustment may be based on an analysis of market or cost information or both.
+&emsp;&emsp;&emsp;&emsp;In a case in which the price of a parcel sold is to be adjusted in accordance withsubparagraph (B), the adjustment may be based on an analysis of market or cost information or both.
 
 #### (II) Cost information
 

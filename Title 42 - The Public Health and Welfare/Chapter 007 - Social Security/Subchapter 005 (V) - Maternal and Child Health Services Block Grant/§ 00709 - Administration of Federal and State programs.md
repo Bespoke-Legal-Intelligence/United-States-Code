@@ -10,7 +10,7 @@
 
 &emsp;(4) providing technical assistance, upon request, to the States in such areas as program planning, establishment of goals and objectives, standards of care, and evaluation and in developing consistent and accurate data collection mechanisms in order to report the information required under section 706(a)(2) of this title;
 
-&emsp;(5) in cooperation with the National Center for Health Statistics and in a manner that avoids duplication of data collection, collection, maintenance, and dissemination of information relating to the health status and health service needs of mothers and children in the United States;
+&emsp;(5) in cooperation with the National Center for Health Statistics and in a manner thatavoids duplication of data collection, collection, maintenance, and dissemination of information relating to the health status and health service needs of mothers and children in the United States;
 
 &emsp;(6) assisting in the preparation of reports to the Congress on the activities funded and accomplishments achieved under this subchapter from the information required to be reported by the States under sections 705(a) and 706 of this title; and <sup>1</sup>
 

@@ -36,7 +36,7 @@ A State, political subdivision of a State, Indian tribe, tribal organization, or
 
 #### (d) Condition
 
-The Secretary shall ensure that a State, political subdivision of a State, Indian tribe, tribal organization, or private nonprofit organizationthat receives a grant, contract, or cooperative agreement under subsection (a) of this section maintains the level of effort necessary to sustain existing mental health and substance abuse programs for other populations served by mental health systems in the community.
+The Secretary shall ensure that a State, political subdivision of a State, Indian tribe, tribal organization, or private nonprofit organization that receives a grant, contract, or cooperative agreement under subsection (a) of this section maintains the level of effort necessary to sustain existing mental health and substance abuse programs for other populations served by mental health systems in the community.
 
 #### (e) Distribution of awards
 

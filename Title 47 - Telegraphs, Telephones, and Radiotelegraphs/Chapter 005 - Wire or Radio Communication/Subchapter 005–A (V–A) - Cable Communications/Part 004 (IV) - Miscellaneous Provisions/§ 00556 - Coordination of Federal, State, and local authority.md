@@ -6,7 +6,7 @@ Nothing in this subchapter shall be construed to affect any authority of any Sta
 
 #### (b) State jurisdiction with regard to cable services
 
-Nothing in this subchapter shall be construed to restrict a State from exercising jurisdictionwith regard to cable services consistent with this subchapter.
+Nothing in this subchapter shall be construed to restrict a State from exercising jurisdiction with regard to cable services consistent with this subchapter.
 
 #### (c) Preemption
 
@@ -16,7 +16,7 @@ Except as provided in section 557 of this title, any provision of law of any Sta
 
 For purposes of this section, the term “State” has the meaning given such term in section 153 of this title.
 
-(June 19, 1934, ch. 652, title VI, §636, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2800; amended Pub. L. 104–104, §3(d)(3), Feb. 8, 1996, 110 Stat. 61.)
+(June 19, 1934, ch. 652, title VI, §636, as added Pub. L. 98–549, §2, Oct. 30, 1984, 98 Stat. 2800;amended Pub. L. 104–104, §3(d)(3), Feb. 8, 1996, 110 Stat. 61.)
 
 #### Amendments
 

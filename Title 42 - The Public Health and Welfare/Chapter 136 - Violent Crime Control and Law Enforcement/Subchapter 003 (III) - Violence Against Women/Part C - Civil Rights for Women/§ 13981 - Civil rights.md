@@ -40,7 +40,7 @@ For purposes of this section—
 
 #### (4) Supplemental jurisdiction
 
-&emsp;Neither section 1367 of title 28 nor subsection (c) of this section shall be construed, by reason of a claim arising under such subsection, to confer on the courts of the United States jurisdiction over any State law claim seeking the establishment of a divorce, alimony, equitable distribution of marital property, or child custody decree.
+&emsp;Neither section 1367 of title 28 nor subsection (c) of this section shall be construed, by reason of a claim arising under such subsection, to confer on the courts of the United States jurisdiction over any State law claim seekingthe establishment of a divorce, alimony, equitable distribution of marital property, or child custody decree.
 
 (Pub. L. 103–322, title IV, §40302, Sept. 13, 1994, 108 Stat. 1941.)
 

@@ -7,17 +7,17 @@
 | [253\.](%C2%A7%2000253%20-%20Disclaimer.md) | Disclaimer. |
 | [254\.](%C2%A7%2000254%20-%20Certificate%20of%20correction%20of%20Patent%20and%20Trademark%20Office%20mistake.md) | Certificate of correction of Patent and Trademark Office mistake. |
 | [255\.](%C2%A7%2000255%20-%20Certificate%20of%20correction%20of%20applicant%27s%20mistake.md) | Certificate of correction of applicant's mistake. |
-| [256\.](%C2%A7%2000256%20-%20Correction%20of%20named%20inventor.md) | Misjoinder of inventor.<sup>1</sup> |
+| [256\.](%C2%A7%2000256%20-%20Correction%20of%20named%20inventor.md) | Correction of named inventor. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
+2002—Pub. L. 107–273, div. C, title III, §13206(a)(18), Nov. 2, 2002, 116 Stat. 1905, substituted “Correction of named inventor” for “Misjoinder of inventor” in item 256.
+
 1975—Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949, substituted “Patent and Trademark Office” for “Patent Office” in item 254.
 
 <i><sup>1</sup></i><i> So in original. Does not conform to chapter heading.</i>
-
-<i><sup>1</sup></i><i> Section catchline amended by Pub. L. 97–247 without corresponding amendment of chapter analysis.</i>
 
 
 ---

@@ -18,7 +18,7 @@ In addition to the grants authorized by section 7442(c) of this title, the Secre
 
 #### (1) In-service training
 
-&emsp;A consortium that receives a grant under subsection (a) of this section shall use thegrant funds only to provide high quality in-service training to teachers, including teachers who are not Indians, in schools of local educational agencies with substantial numbers of Indian children enrolled in their schools, in order to better meet the needs of those children.
+&emsp;A consortium that receives a grant under subsection (a) of this section shall use the grant funds only to provide high quality in-service training to teachers, including teachers who are not Indians, in schools of local educational agencies with substantial numbers of Indian children enrolled in their schools, in order to better meet the needs of those children.
 
 #### (2) Components
 

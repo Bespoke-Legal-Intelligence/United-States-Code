@@ -2,7 +2,7 @@
 
 (a)
 
-Offense.—Except as provided in regulations issued by the Secretary of the Treasury, in consultation with the Secretary of State, whoever, being a United States person, knowing or having reasonable cause to know that a country is designated under section 6(j) of the Export Administration Act (50 U.S.C. App. 2405) as a country supporting international terrorism, engages in a financial transaction with the government of that country, shall be fined under this title, imprisoned for not more than 10 years, or both.
+Offense.—Except as provided in regulations issued by the Secretary of the Treasury, in consultation with the Secretary of State, whoever, being a United States person, knowing or having reasonable cause to know that a country is designated under section 6(j) of the Export Administration Act of 1979 (50 U.S.C. App. 2405) as a country supporting international terrorism, engages in a financial transaction with the government of that country, shall be fined under this title, imprisoned for not more than 10 years, or both.
 
 (b)
 
@@ -20,11 +20,15 @@ Definitions.—As used in this section—
 
 &emsp;&emsp;(D) any person in the United States.
 
-(Added Pub. L. 104–132, title III, §321(a), Apr. 24, 1996, 110 Stat. 1254.)
+(Added Pub. L. 104–132, title III, §321(a), Apr. 24, 1996, 110 Stat. 1254; amended Pub. L. 107–273, div. B, title IV, §4002(a)(5), Nov. 2, 2002, 116 Stat. 1806.)
 
 #### Codification
 
 Another section 2332d was renumbered section 2332e of this title.
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–273 inserted “of 1979” after “Export Administration Act”.
 
 #### Effective Date
 

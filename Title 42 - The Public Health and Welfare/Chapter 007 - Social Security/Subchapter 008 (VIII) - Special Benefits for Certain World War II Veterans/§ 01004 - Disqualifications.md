@@ -6,7 +6,7 @@ Notwithstanding section 1002 of this title, an individual may not be a qualified
 
 &emsp;(1) that begins after the month in which the Commissioner of Social Security is notified by the Attorney General that the individual has been removed from the United States pursuant to section 1227(a) or 1182(a)(6)(A) of title 8 and before the month in which the individual is lawfully admitted to the United States for permanent residence;
 
-&emsp;(2) during any part of which the individual is fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the United States or the jurisdiction within the United States from which the person has fled, for a crime, or an attempt to commit a crime, that is a felony under the laws of the place from which the individual has fled, or which, in the case of the State of New Jersey, is a high misdemeanor under the laws of such State;
+&emsp;(2) during any part of which the individual is fleeing to avoid prosecution, or custody or confinement after conviction, under the laws of the United States or the jurisdiction within the United States from which the person has fled, for a crime, or an attempt to commit a crime, that is a felony under the laws of the place from which the individual has fled, or which, in the case of the State of New Jersey,is a high misdemeanor under the laws of such State;
 
 &emsp;(3) during any part of which the individual violates a condition of probation or parole imposed under Federal or State law; or
 

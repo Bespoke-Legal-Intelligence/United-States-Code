@@ -26,7 +26,7 @@ The Secretary may make grants, from allocations made under section 7423 of this 
 
 #### (2) Special rule
 
-&emsp;The Secretary shall treat each Indian tribe applying for a grant pursuant to paragraph (1) as if such Indian tribe were a local educational agency for purposes of this subpart, except that any such tribe is not subject to section7424(c)(4), section 7428(c), or section 7429 of this title.
+&emsp;The Secretary shall treat each Indian tribe applying for a grant pursuant to paragraph (1) as if such Indian tribe were a local educational agency for purposes of this subpart, except that any such tribe is not subject to section 7424(c)(4), section 7428(c), or section 7429 of this title.
 
 (Pub. L. 89–10, title VII, §7112, as added Pub. L. 107–110, title VII, §701, Jan. 8, 2002, 115 Stat. 1908.)
 

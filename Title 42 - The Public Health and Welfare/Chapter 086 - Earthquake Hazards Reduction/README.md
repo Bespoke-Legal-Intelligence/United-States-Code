@@ -44,7 +44,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 7704a of this title.
+This chapter is referred to in section 7704a of this title; title 15 section 7301.
 
 
 ---

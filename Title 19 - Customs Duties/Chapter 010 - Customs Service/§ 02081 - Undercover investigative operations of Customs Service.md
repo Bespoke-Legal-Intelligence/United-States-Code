@@ -14,7 +14,7 @@ With respect to any undercover investigative operation of the United States Cust
 
 &emsp;&emsp;&emsp;(iii) section 255 of title 41,
 
-&emsp;&emsp;&emsp;(iv) section 34 of title 40, and
+&emsp;&emsp;&emsp;(iv) section 8141 of title 40, and
 
 &emsp;&emsp;&emsp;(v) section 254(a) of title 41, and
 
@@ -32,7 +32,7 @@ If a corporation or business entity established or acquired as part of an underc
 
 #### (c) Deposit of proceeds
 
-As soon as the proceeds from an undercover investigative operation with respect to which an action is authorized and carried out under paragraphs (2) and (3) of subsection (a) of this section are no longer necessary for the conduct of suchoperation, such proceeds or the balance of such proceeds remaining at the time shall be deposited into the Treasury of the United States as miscellaneous receipts.
+As soon as the proceeds from an undercover investigative operation with respect to which an action is authorized and carried out under paragraphs (2) and (3) of subsection (a) of this section are no longer necessary for the conduct of such operation, such proceeds or the balance of such proceeds remaining at the time shall be deposited into the Treasury of the United States as miscellaneous receipts.
 
 #### (d) Audits
 
@@ -76,9 +76,17 @@ For purposes of subsection (d) of this section—
 
 (Pub. L. 99–570, title III, §3131, Oct. 27, 1986, 100 Stat. 3207–90; Pub. L. 104–201, div. A, title X, §1074(d)(3), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 104–316, title I, §110(b), Oct. 19, 1996, 110 Stat. 3832.)
 
+#### Codification
+
+“Section 8141 of title 40” substituted in subsec. (a)(1)(A)(iv) for “the third undesignated paragraph under the heading ‘Miscellaneous’ of the Act of March 3, 1877 (19 Stat. 370; 40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
 #### Amendments
 
 1996—Subsec. (a)(1)(A)(v). Pub. L. 104–201 struck out “and (c)” after “section 254(a)”.
 
 Subsec. (b). Pub. L. 104–316 struck out “and the Comptroller General” after “the Secretary of the Treasury”.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of theSecretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

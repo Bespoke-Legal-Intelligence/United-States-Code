@@ -28,7 +28,7 @@
 
 &emsp;&emsp;&emsp;(iii) the use of which is likely to cause confusion, to cause mistake, or to deceive; or
 
-&emsp;&emsp;(B) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of the Lanham Act are made available by reason of section 220706 <sup>1</sup> of title 36;
+&emsp;&emsp;(B) a spurious designation that is identical with, or substantially indistinguishable from, a designation as to which the remedies of the Lanham Act are made available by reason of section 220506 of title 36;
 
 > &emsp;but such term does not include any mark or designation used in connection with goods or services of which the manufacturer or producer was, at the time of the manufacture or production in question authorized to use the mark or designation for the type of goods or services so manufactured or produced, by the holder of the right to use such mark or designation;
 
@@ -36,17 +36,35 @@
 
 &emsp;(3) the term “Lanham Act” means the Act entitled “An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes”, approved July 5, 1946 (15 U.S.C. 1051 et seq.).
 
-(f) Beginning with the first year after the date of enactment of this subsection, the Attorney General shall include in the report of the Attorney General to Congress on the business of the Department of Justice prepared pursuant to section 522 of title 28, an accounting, on a district by district basis, of the following with respect to all actions taken by the Department of Justice that involve trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, copies of motion pictures or other audiovisual works (as defined in section 2318 of title 18), criminal infringement of copyrights (as defined in section 2319 of title 18), unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances (as defined in section 2319A of title 18), or trafficking in goods or services bearing counterfeit marks (as defined in section 2320 of title 18):
+(f)(1) Beginning with the first year after the date of enactment of this subsection, the Attorney General shall include in the report of the Attorney General to Congress on the business of the Department of Justice prepared pursuant to section 522 of title 28, an accounting, on a district by district basis, of the following with respect to all actions taken by the Department of Justice that involve trafficking in counterfeit labels for phonorecords, copies of computer programs or computer program documentation or packaging, copies of motion pictures or other audiovisual works (as defined in section 2318 of this title), criminal infringement of copyrights (as defined in section 2319 of this title), unauthorized fixation of and trafficking in sound recordings and music videos of live musical performances (as defined in section 2319A of this title), or trafficking in goods or services bearing counterfeit marks (as defined in section 2320 of this title):
 
-&emsp;(1) The number of open investigations.
+&emsp;(A) The number of open investigations.
 
-&emsp;(2) The number of cases referred by the United States Customs Service.
+&emsp;(B) The number of cases referred by the United States Customs Service.
 
-&emsp;(3) The number of cases referred by other agencies or sources.
+&emsp;(C) The number of cases referred by other agencies or sources.
 
-&emsp;(4) The number and outcome, including settlements, sentences, recoveries, and penalties, of all prosecutions brought under sections 2318, 2319, 2319A, and 2320 of title 18.
+&emsp;(D) The number and outcome, including settlements, sentences, recoveries, and penalties, of all prosecutions brought under sections 2318, 2319, 2319A, and 2320 of this title.
 
-(Added Pub. L. 98–473, title II, §1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, §320104(a), title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, §5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, §2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, §4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, §2(c)(1), Nov. 3, 1998, 112 Stat. 3244.)
+(2)(A) The report under paragraph (1), with respect to criminal infringement of copyright, shall include the following:
+
+&emsp;(i) The number of infringement cases in these categories: audiovisual (videos and films); audio (sound recordings); literary works (books and musical compositions); computer programs; video games; and, others.
+
+&emsp;(ii) The number of online infringement cases.
+
+&emsp;(iii) The number and dollar amounts of fines assessed in specific categories of dollar amounts. These categories shall be: no fines ordered; fines under $500; fines from $500 to $1,000; fines from $1,000 to $5,000; fines from $5,000 to $10,000; and fines over $10,000.
+
+&emsp;(iv) The total amount of restitution ordered in all copyright infringement cases.
+
+(B) In this paragraph, the term “online infringement cases” as used in paragraph (2) means those cases where the infringer—
+
+&emsp;(i) advertised or publicized the infringing work on the Internet; or
+
+&emsp;(ii) made the infringing work available on the Internet for download, reproduction, performance, or distribution by other persons.
+
+(C) The information required under subparagraph (A) shall be submitted in the report required in fiscal year 2005 and thereafter.
+
+(Added Pub. L. 98–473, title II, §1502(a), Oct. 12, 1984, 98 Stat. 2178; amended Pub. L. 103–322, title XXXII, §320104(a), title XXXIII, §330016(1)(U), Sept. 13, 1994, 108 Stat. 2110, 2148; Pub. L. 104–153, §5, July 2, 1996, 110 Stat. 1387; Pub. L. 105–147, §2(f), Dec. 16, 1997, 111 Stat. 2679; Pub. L. 105–225, §4(b), Aug. 12, 1998, 112 Stat. 1499; Pub. L. 105–354, §2(c)(1), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 107–140, §1, Feb. 8, 2002, 116 Stat. 12; Pub. L. 107–273, div. A, title II, §205(e), Nov. 2, 2002, 116 Stat. 1778.)
 
 #### References in Text
 
@@ -61,6 +79,10 @@ The date of enactment of this subsection, referred to in subsec. (f), is date of
 Another section 2320 was renumbered section 2321 of this title.
 
 #### Amendments
+
+2002—Subsec. (e)(1)(B). Pub. L. 107–140 substituted “section 220506 of title 36” for “section 220706 of title 36”.
+
+Subsec. (f)(1). Pub. L. 107–273, §205(e), designated existing provisions as par. (1), substituted “this title” for “title 18” wherever appearing, redesignated former pars. (1) to (4) as subpars. (A) to (D), respectively, of par. (1), and added par. (2).
 
 1998—Subsec. (e)(1)(B). Pub. L. 105–225, §4(b)(1), as amended by Pub. L. 105–354, §2(c)(1), substituted “section 220706 of title 36” for “section 110 of the Olympic Charter Act”.
 
@@ -82,9 +104,11 @@ Subsec. (a). Pub. L. 103–322, §320104(a), in first sentence, substituted “$
 
 Pub. L. 105–354, §2(c), Nov. 3, 1998, 112 Stat. 3244, provided that the amendment made by section 2(c) is effective Aug. 12, 1998.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1956, 1961 of this title; title 19 section 1595a; title 49 section 80302.
-
-<i><sup>1</sup></i><i> So in original. Probably should be section “220506”.</i>
 

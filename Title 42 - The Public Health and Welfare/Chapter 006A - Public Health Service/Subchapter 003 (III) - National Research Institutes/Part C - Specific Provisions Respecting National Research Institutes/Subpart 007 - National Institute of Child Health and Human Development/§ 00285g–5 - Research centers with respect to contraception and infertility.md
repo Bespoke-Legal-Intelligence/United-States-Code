@@ -6,7 +6,7 @@ The Director of the Institute, after consultation with the advisory council for 
 
 #### (b) Number of centers
 
-In carrying out subsection (a) of this section, the Director of the Institute shall, subject to the extent of amounts made available in appropriations Acts, provide for the establishment of three centers with respect to contraception and for two centers with respect to infertility.
+In carrying out subsection (a) of this section, the Director of the Institute shall, subject to theextent of amounts made available in appropriations Acts, provide for the establishment of three centers with respect to contraception and for two centers with respect to infertility.
 
 #### (c) Duties
 
@@ -38,7 +38,7 @@ Each center assisted under subsection (a) of this section shall use the faciliti
 
 #### (f) Period of support
 
-Support of a center under subsection (a) of this section may be for a period not exceeding 5years. Such period may be extended for one or more additional periods not exceeding 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
+Support of a center under subsection (a) of this section may be for a period not exceeding 5 years. Such period may be extended for one or more additional periods not exceeding 5 years if the operations of such center have been reviewed by an appropriate technical and scientific peer review group established by the Director and if such group has recommended to the Director that such period should be extended.
 
 #### (g) Authorization of appropriations
 

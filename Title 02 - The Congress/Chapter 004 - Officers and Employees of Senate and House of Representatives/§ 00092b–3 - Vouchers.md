@@ -1,6 +1,6 @@
 ### §92b–3. Vouchers
 
-Payments under sections 92b–1 to 92b–3 of this title shall be made on vouchers approved by theCommittee on House Oversight of the House of Representatives and signed by the chairman of such committee.
+Payments under sections 92b–1 to 92b–3 of this title shall be made on vouchers approved by the Committee on House Oversight of the House of Representatives and signed by the chairman of such committee.
 
 (Pub. L. 97–51, §101(c), Oct. 1, 1981, 95 Stat. 959; Pub. L. 104–186, title II, §204(44), Aug. 20, 1996, 110 Stat. 1736.)
 

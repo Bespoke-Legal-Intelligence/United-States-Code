@@ -10,6 +10,7 @@
 | [504\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000504%20-%20Office%20of%20Federal%20Financial%20Management.md) | Office of Federal Financial Management. |
 | [505\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000505%20-%20Office%20of%20Information%20and%20Regulatory%20Affairs.md) | Office of Information and Regulatory Affairs. |
 | [506\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000506%20-%20Office%20of%20Federal%20Procurement%20Policy.md) | Office of Federal Procurement Policy. |
+| [507\.](Subchapter%20001%20%28I%29%20-%20Organization/%C2%A7%2000507%20-%20Office%20of%20Electronic%20Government.md) | Office of Electronic Government. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -23,6 +24,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–347, title I, §102(c)(2), Dec. 17, 2002, 116 Stat. 2910, added item 507.
 
 1990—Pub. L. 101–576, title II, §203(c), Nov. 15, 1990, 104 Stat. 2841, added items 503 and 504 and redesignated former items 503 and 504 as 505 and 506, respectively.
 

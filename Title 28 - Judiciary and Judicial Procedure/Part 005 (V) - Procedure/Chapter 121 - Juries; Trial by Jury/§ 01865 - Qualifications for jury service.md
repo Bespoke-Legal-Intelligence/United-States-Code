@@ -30,17 +30,17 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a). Pub. L. 106–518, §305(1), inserted “or the clerk under supervision of the court if the court's jury selection plan so authorizes,” after “jury commission,”.
+2000—Subsec. (a). Pub. L. 106–518, §305(1), inserted “or the clerk under supervision of the court if the court's jury selection plan so authorizes,” after “jury commission,”.
 
 Subsec. (b). Pub. L. 106–518, §305(2), inserted “or the clerk if the court's jury selection plan so provides,” after “may provide,” in introductory provisions.
 
-<b>1988</b>—Subsec. (a). Pub. L. 100–702 substituted “in any alphabetical” for “the alphabetical”.
+1988—Subsec. (a). Pub. L. 100–702 substituted “in any alphabetical” for “the alphabetical”.
 
-<b>1978</b>—Subsec. (b)(5). Pub. L. 95–572 struck out “by pardon or amnesty” after “civil rights have not been restored”.
+1978—Subsec. (b)(5). Pub. L. 95–572 struck out “by pardon or amnesty” after “civil rights have not been restored”.
 
-<b>1972</b>—Subsec. (b)(1). Pub. L. 92–269 substituted “eighteen years old” for “twenty-one years old”.
+1972—Subsec. (b)(1). Pub. L. 92–269 substituted “eighteen years old” for “twenty-one years old”.
 
-<b>1968</b>—Subsec. (a). Pub. L. 90–274 substituted provisions for the excusing of persons from jury service by the chief judge of the district court or by other district court judge for provisions requiring the selection of jurors so as to be most favorable to an impartial trial and so as to minimize the expense and burden of jury service.
+1968—Subsec. (a). Pub. L. 90–274 substituted provisions for the excusing of persons from jury service by the chief judge of the district court or by other district court judge for provisions requiring the selection of jurors so as to be most favorable to an impartial trial and so as to minimize the expense and burden of jury service.
 
 Subsec. (b). Pub. L. 90–274 substituted provisions setting out the conditions of ineligibility for jury service for provisions authorizing the service of jurors in a place within the district other than the place for which the jurors were summoned.
 

@@ -78,7 +78,7 @@ As used in this subchapter:
 
 &emsp;&emsp;(B) the disclosure is required, or is one of the lawful or appropriate methods, to enforce the rights of the financial institution or of other persons engaged in carrying out the financial transaction, or providing the product or service;
 
-&emsp;&emsp;(C) the disclosure is required, or is a usual, appropriate, or acceptable method, for insurance underwriting at the consumer's request or for reinsurance purposes, or for any of the following purposes as they relate to a consumer's insurance: Account administration, reporting, investigating, or preventing fraud or material misrepresentation, processing premium payments, processing insurance claims, administering insurance benefits (including utilization review activities), participating in research projects, or as otherwise required or specifically permitted by Federal or State law; or
+&emsp;&emsp;(C) the disclosure is required, or is a usual, appropriate, or acceptable method, for insurance underwriting at the consumer's request or for reinsurance purposes, or for any of the following purposes as they relate to a consumer's insurance: Account administration, reporting, investigating, or preventing fraud or material misrepresentation, processingpremium payments, processing insurance claims, administering insurance benefits (including utilization review activities), participating in research projects, or as otherwise required or specifically permitted by Federal or State law; or
 
 &emsp;&emsp;(D) the disclosure is required, or is a usual, appropriate or acceptable method, in connection with—
 
@@ -114,5 +114,5 @@ The Farm Credit Act of 1971, referred to in par. (3)(C), is Pub. L. 92–181, De
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 7 section 7b–2; title 31 sections 5318, 5318A.
+This section is referred to in section 7215 of this title; title 7 section 7b–2; title 31 sections 5318, 5318A.
 

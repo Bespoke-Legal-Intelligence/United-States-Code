@@ -16,7 +16,7 @@ For the purposes of this chapter:
 
 (7) An extortionate means is any means which involves the use, or an express or implicit threat of use, of violence or other criminal means to cause harm to the person, reputation, or property of any person.
 
-(8) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico,and territories and possessions of the United States.
+(8) The term “State” includes the District of Columbia, the Commonwealth of Puerto Rico, and territories and possessions of the United States.
 
 (9) State law, including conflict of laws rules, governing the enforceability through civil judicial processes of repayment of any extension of credit or the performance of any promise given in consideration thereof shall be judicially noticed. This paragraph does not impair any authority which any court would otherwise have to take judicial notice of any matter of State law.
 

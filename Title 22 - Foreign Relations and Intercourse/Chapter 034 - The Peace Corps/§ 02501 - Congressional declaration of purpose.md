@@ -22,7 +22,7 @@ Amendment by Pub. L. 99–83 effective Oct. 1, 1985, see section 1301 of Pub. L.
 
 #### Effective Date
 
-Section 28, formerly section 27, of Pub. L. 87–293, as renumbered by Pub. L. 99–83, title XI, §1105(a)(1), Aug.8, 1985, 99 Stat. 276, provided that: “This Act \[see Short Title note below\] shall take effect on the date of its enactment \[Sept. 22, 1961\].”
+Section 28, formerly section 27, of Pub. L. 87–293, as renumbered by Pub. L. 99–83, title XI, §1105(a)(1), Aug. 8, 1985, 99 Stat. 276, provided that: “This Act \[see Short Title note below\] shall take effect on the date of its enactment \[Sept. 22, 1961\].”
 
 #### Short Title of 1978 Amendment
 
@@ -146,7 +146,7 @@ Director of ACTION
 
 1–603. The head of each Federal department or agency shall, when so requested by the Director of ACTION, designate a senior official to have primary and continuing responsibility for the participation and cooperation of that department or agency in matters concerning voluntary action.
 
-1–604. The head of each Federal department or agency, or a designated representative, shall keep the Director of ACTION informed of proposed budgets, plans, and programs of that department or agency affecting voluntary action programs.
+1–604. The head of each Federal department or agency, or a designated representative, shall keep the Director of ACTION informed of proposed budgets, plans,and programs of that department or agency affecting voluntary action programs.
 
 1–605. Under the direction of the President and subject to the responsibilities of the Secretary of State, the Director of ACTION shall be responsible for the general direction of those ACTION functions, which jointly serve ACTION domestic volunteer components and the Peace Corps, and for advising the Director of the Peace Corps to ensure that the functions delegated under this Order to the Director of the Peace Corps are carried out.
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-(1) To request a grant under this subchapter the chief executive of a State shall submit an application to the Attorney General in suchform and containing such information as the Attorney General may reasonably require.
+(1) To request a grant under this subchapter the chief executive of a State shall submit an application to the Attorney General in such form and containing such information as the Attorney General may reasonably require.
 
 (2) Such application shall include assurances that Federal funds received under this subchapter shall be used to supplement, not supplant, non-Federal funds that would otherwise be available for activities funded under this subchapter.
 
@@ -32,7 +32,15 @@ The Office designated under section 3757 of this title—
 
 &emsp;(2) shall administer grant funds received under this subchapter, including review of spending, processing, progress, financial reporting, technical assistance, grant adjustments, accounting, auditing, and fund disbursement.
 
-(Pub. L. 90–351, title I, §1902, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1898.)
+#### (f) Use of grant amounts for nonresidential aftercare services
+
+A State may use amounts received under this subchapter to provide nonresidential substance abuse treatment aftercare services for inmates or former inmates that meet the requirements of subsection (c) of this section, if the chief executive officer of the State certifies to the Attorney General that the State is providing, and will continue to provide, an adequate level of residential treatment services.
+
+(Pub. L. 90–351, title I, §1902, as added Pub. L. 103–322, title III, §32101(a)(3), Sept. 13, 1994, 108 Stat. 1898; amended Pub. L. 107–273, div. B, title II, §2102(2), Nov. 2, 2002, 116 Stat. 1792.)
+
+#### Amendments
+
+2002—Subsec. (f). Pub. L. 107–273 added subsec. (f).
 
 #### Section Referred to in Other Sections
 

@@ -200,5 +200,5 @@ Regulations.—Not later than 90 days after the date of enactment of this Act \[
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5641, 5662 of this title.
+This section is referred to in sections 1638a, 5641, 5662 of this title.
 

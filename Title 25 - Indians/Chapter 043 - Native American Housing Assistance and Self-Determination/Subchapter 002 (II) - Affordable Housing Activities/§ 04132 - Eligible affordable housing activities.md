@@ -26,7 +26,37 @@ Affordable housing activities under this subchapter are activities, in accordanc
 
 &emsp;Housing activities under model programs that are designed to carry out the purposes of this chapter and are specifically approved by the Secretary as appropriate for such purpose.
 
-(Pub. L. 104–330, title II, §202, Oct. 26, 1996, 110 Stat. 4032.)
+#### (7) Community development demonstration project
+
+#### (A) In general
+
+&emsp;&emsp;Consistent with principles of Indian self-determination and the findings of this chapter, the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes, tribal organizations, or tribal consortia are authorized to expend amounts received pursuant to the Native American Housing Assistance and Self-Determination Reauthorization Act of 2002 in order to design, implement, and operate community development demonstration projects.
+
+#### (B) Study
+
+&emsp;&emsp;Not later than 1 year after November 13, 2002, the Secretary shall submit the study conducted under subparagraph (A) to the Committee on Banking, Housing, and Urban Affairs and the Committee on Indian Affairs of the Senate, and the Committee on Financial Services and the Committee on Resources of the House of Representatives.
+
+#### (8) Self-Determination Act demonstration project
+
+#### (A) In general
+
+&emsp;&emsp;Consistent with the provisions of the Indian Self-Determination and Education Assistance Act (25 U.S.C. 450 et seq.), the Secretary shall conduct and submit to Congress a study of the feasibility of establishing a demonstration project in which Indian tribes and tribal organizations are authorized to receive assistance in a manner that maximizes tribal authority and decision-making in the design and implementation of Federal housing and related activity funding.
+
+#### (B) Study
+
+&emsp;&emsp;Not later than 1 year after November 13, 2002, the Secretary shall submit the study conducted under subparagraph (A) to the Committee on Banking, Housing, and Urban Affairs and the Committee on Indian Affairs of the Senate, and the Committee on Financial Services and the Committee on Resources of the House of Representatives.
+
+(Pub. L. 104–330, title II, §202, Oct. 26, 1996, 110 Stat. 4032; Pub. L. 107–292, §8, Nov. 13, 2002, 116 Stat. 2055.)
+
+#### References in Text
+
+The Native American Housing Assistance and Self-Determination Reauthorization Act of 2002, referred to in par. (7)(A), is Pub. L. 107–292, Nov. 13, 2002, 116 Stat. 2053. For complete classification of this Act to the Code, see Short Title of 2002 Amendment note set out under section 4101 of this title and Tables.
+
+The Indian Self-Determination and Education Assistance Act, referred to in par. (8)(A), is Pub. L. 93–638, Jan. 4, 1975, 88 Stat. 2203, as amended, which is classified principally to subchapter II (§450 et seq.) of chapter 14 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 450 of this title and Tables.
+
+#### Amendments
+
+2002—Pars. (7), (8). Pub. L. 107–292 added pars. (7) and (8).
 
 #### Effective Date
 

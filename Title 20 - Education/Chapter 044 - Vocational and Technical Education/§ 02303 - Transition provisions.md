@@ -1,6 +1,6 @@
 ### §2303. Transition provisions
 
-The Secretary shall take such steps as the Secretary determines to be appropriate to provide for the orderly transition to the authority of this chapter from any authority under provisions of the Carl D. Perkins Vocational and Applied Technology Education Act, as such Act was in effect on the day before October 31, 1998.
+The Secretary shall take such steps as the Secretary determines to be appropriate to provide for the orderly transition to the authorityof this chapter from any authority under provisions of the Carl D. Perkins Vocational and Applied Technology Education Act, as such Act was in effect on the day before October 31, 1998.
 
 (Pub. L. 88–210, §4, as added Pub. L. 105–332, §1(b), Oct. 31, 1998, 112 Stat. 3082.)
 

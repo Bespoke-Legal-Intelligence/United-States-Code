@@ -20,11 +20,11 @@ In establishing requirements to carry out the provisions of this part, and in co
 
 #### (2) Medicaid
 
-&emsp;A safe haven shall not be considered a hospital, nursing facility, institution for mental disease as defined under section 1905(i) of theSocial Security Act \[42 U.S.C. 1396d(i)\], or any other inpatient facility, for purposes of the program under title XIX of such Act \[42 U.S.C. 1396 et seq.\], and individuals shall not be denied eligibility for medicaid because of residency in such residence.
+&emsp;A safe haven shall not be considered a hospital, nursing facility, institution for mental disease as defined under section 1905(i) of the Social Security Act \[42 U.S.C. 1396d(i)\], or any other inpatient facility, for purposes of the program under title XIX of such Act \[42 U.S.C. 1396 et seq.\], and individuals shall not be denied eligibility for medicaid because of residency in such residence.
 
 (Pub. L. 100–77, title IV, §438, as added Pub. L. 102–550, title XIV, §1404, Oct. 28, 1992, 106 Stat. 4027.)
 
 #### References in Text
 
-The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Titles XVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
+The Social Security Act, referred to in subsec. (c), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. TitlesXVI and XIX of the Act are classified generally to subchapters XVI (§1381 et seq.) and XIX (§1396 et seq.), respectively, of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 

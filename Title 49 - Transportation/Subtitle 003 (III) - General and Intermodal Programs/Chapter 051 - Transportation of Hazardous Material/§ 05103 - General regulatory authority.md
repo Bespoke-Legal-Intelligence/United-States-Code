@@ -6,7 +6,7 @@ Designating Material as Hazardous.—The Secretary of Transportation shall desig
 
 (b)
 
-Regulations for Safe Transportation.—(1) The Secretary shall prescribe regulations for the safe transportation of hazardous material in intrastate, interstate, and foreign commerce. The regulations—
+Regulations for Safe Transportation.—(1) The Secretary shall prescribe regulations for the safe transportation, including security, of hazardous material in intrastate, interstate, and foreign commerce. The regulations—
 
 &emsp;(A) apply to a person—
 
@@ -16,11 +16,15 @@ Regulations for Safe Transportation.—(1) The Secretary shall prescribe regulat
 
 &emsp;&emsp;(iii) manufacturing, fabricating, marking, maintaining, reconditioning, repairing, or testing a packaging or a container that is represented, marked, certified, or sold by that person as qualified for use in transporting hazardous material in commerce; and
 
-&emsp;(B) shall govern safety aspects of the transportation of hazardous material the Secretary considers appropriate.
+&emsp;(B) shall govern safety aspects, including security, of the transportation of hazardous material the Secretary considers appropriate.
+
+&emsp;(C)
+
+Consultation.—When prescribing a security regulation or issuing a security order that affects the safety of the transportation of hazardous material, the Secretary of Homeland Security shall consult with the Secretary.
 
 (2) A proceeding to prescribe the regulations must be conducted under section 553 of title 5, including an opportunity for informal oral presentation.
 
-(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 103–429, §6(3), Oct. 31, 1994, 108 Stat. 4378.)
+(Pub. L. 103–272, §1(d), July 5, 1994, 108 Stat. 761; Pub. L. 103–311, title I, §117(a)(2), Aug. 26, 1994, 108 Stat. 1678; Pub. L. 103–429, §6(3), Oct. 31, 1994, 108 Stat. 4378; Pub. L. 107–296, title XVII, §1711(a), Nov. 25, 2002, 116 Stat. 2319.)
 
 Historical and Revision Notes
 
@@ -56,9 +60,19 @@ This amends 49:5103(b)(2) to clarify the restatement of 49 App.:1804(a)(2) by se
 
 #### Amendments
 
+2002—Subsec. (b)(1). Pub. L. 107–296, §1711(a)(1), substituted “transportation, including security,” for “transportation” in introductory provisions.
+
+Subsec. (b)(1)(B). Pub. L. 107–296, §1711(a)(2), substituted “aspects, including security,” for “aspects”.
+
+Subsec. (b)(1)(C). Pub. L. 107–296, §1711(a)(3), added subpar. (C).
+
 1994—Subsec. (b)(1)(A)(iii). Pub. L. 103–311 substituted “a packaging or a” for “a package or”.
 
 Subsec. (b)(2). Pub. L. 103–429 substituted “be conducted under section 553 of title 5, including” for “include” and “presentation” for “presentations”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1994 Amendment
 
@@ -112,7 +126,7 @@ Initiation of Rulemaking Proceeding.—Not later than the 60th day following the
 
 “(b)
 
-Issuance of Standards.—If the Secretary of Transportation determines, as a result of the rulemaking proceeding initiated under subsection (a), that a packaging standard other than the performance-oriented packaging standards referred to in subsection (a) will provide an equal or greater level of safety for the domestic transportation of liquid hazardous materials than would be provided if such performance-oriented packaging standards were in effect, the Secretary shall issue regulations which implement such other standard and which take effect before October 1, 1996.
+Issuance of Standards.—If the Secretary of Transportation determines, as a result of the rulemaking proceeding initiated under subsection (a), that a packaging standard other than the performance-oriented packaging standards referred to in subsection (a) will provide an equal or greater level of safety for the domestic transportation of liquid hazardous materials than would be provided if such performance-orientedpackaging standards were in effect, the Secretary shall issue regulations which implement such other standard and which take effect before October 1, 1996.
 
 “(c)
 

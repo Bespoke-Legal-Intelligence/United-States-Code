@@ -30,6 +30,12 @@ A prior section 2321k, Pub. L. 87–195, pt. II, §517, as added Pub. L. 101–2
 
 For delegation of functions of President under this section, see Ex. Ord. No. 12163, Sept. 29, 1979, 44 F.R. 56673, as amended, set out as a note under section 2381 of this title.
 
+#### Treatment of Taiwan Relating to Transfers of Defense Articles and Defense Services
+
+Pub. L. 107–228, div. B, title XII, §1206, Sept. 30, 2002, 116 Stat. 1428, provided that: “Notwithstanding any other provision of law, for purposes of the transfer or possible transfer of defense articles or defense services under the Arms Export Control Act (22 U.S.C. 2751 et seq.), the Foreign Assistance Act of 1961 (22 U.S.C. 2151 et seq.), or any other provision of law, Taiwan shall be treated as though it were designated a major non-NATO ally (as defined in section 644(q) of the Foreign Assistance Act of 1961 (22 U.S.C. 2403(q))\[)\].”
+
+\[For definitions of “defense article” and “defense service” as used in section 1206 of Pub. L. 107–228, set out above, see section 1002 of Pub. L. 107–228, set out as a note under section 2151 of this title.\]
+
 #### Designation of Jordan as Major Non-NATO Ally
 
 Determination of President of the United States, No. 97–4, Nov. 12, 1996, 61 F.R. 59809, provided:
@@ -40,7 +46,7 @@ You are authorized and directed to publish this determination in the Federal Reg
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Designation of Argentina as a Major Non-NATO Ally
+#### Designation of Argentina as Major Non-NATO Ally
 
 Determination of President of the United States, No. 98–9, Jan. 6, 1998, 63 F.R. 3635, provided:
 
@@ -50,7 +56,19 @@ You are authorized and directed to publish this determination in the Federal Reg
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### Designation of Bahrain as Major Non-NATO Ally
+
+Determination of President of the United States, No. 2002–10, Mar. 14, 2002, 67 F.R. 13247, provided:
+
+Memorandum for the Secretary of State
+
+Pursuant to the authority vested in me, by section 517 of the Foreign Assistance Act of 1961, as amended (the “Act”) \[22 U.S.C. 2321k\], I hereby designate the Kingdom of Bahrain as a major non-NATO ally of the United States for the purposes of the Act \[22 U.S.C. 2151 et seq.\] and the Arms Export Control Act \[22 U.S.C. 2751\].
+
+You are authorized and directed to publish this determination in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2403 of this title.
+This section is referred to in sections 2403, 7432 of this title.
 

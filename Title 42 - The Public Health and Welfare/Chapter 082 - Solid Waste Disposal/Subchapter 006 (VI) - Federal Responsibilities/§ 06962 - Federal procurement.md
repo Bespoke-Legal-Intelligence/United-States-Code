@@ -22,7 +22,7 @@ Any procurement, by any procuring agency, which is subject to regulations of the
 
 (3)(A) After the date specified in any applicable guidelines prepared pursuant to subsection (e) of this section, contracting officers shall require that vendors:
 
-&emsp;(i) certify that the percentage of recovered materials to be used in the performance of the contract will be at least the amount required by applicable specifications or other contractual requirements and
+&emsp;(i) certify that the percentage of recovered materials to be used in the performance of thecontract will be at least the amount required by applicable specifications or other contractual requirements and
 
 &emsp;(ii) estimate the percentage of the total material utilized for the performance of the contract which is recovered materials.
 
@@ -90,7 +90,7 @@ As used in this section, in the case of paper products, the term “recovered ma
 
 #### (i) Procurement program
 
-(1) Within one year after the date of publication of applicable guidelines under subsection (e) of this section, each procuring agency shall develop an affirmative procurement program which will assure that items composed of recovered materials will be purchased to the maximum extent practicable and which is consistent with applicable provisions of Federal procurement law.
+(1) Within one year after the date of publication of applicable guidelines under subsection\(e) of this section, each procuring agency shall develop an affirmative procurement program which will assure that items composed of recovered materials will be purchased to the maximum extent practicable and which is consistent with applicable provisions of Federal procurement law.
 
 (2) Each affirmative procurement program required under this subsection shall, at a minimum, contain—
 
@@ -170,5 +170,5 @@ Executive agency heads to develop and implement affirmative procurement programs
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 6905, 6941 of this title.
+This section is referred to in sections 6905, 6941, 8102 of this title.
 

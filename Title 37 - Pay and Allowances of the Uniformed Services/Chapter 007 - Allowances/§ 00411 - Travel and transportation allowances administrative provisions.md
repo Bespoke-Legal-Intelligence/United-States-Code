@@ -42,7 +42,7 @@ Historical and Revision Notes
 
 Oct. 12, 1949, ch. 681, §303(c) (10th sentence), (f), (g), (h), 63 Stat. 814.
 
-In subsection (a), section 253(h) (provisos) of existing title 37 is omitted, since the regulations to which reference is made have been issued. The exceptions to sections 404(c) and 406(g) are inserted, since the source text for those subsections require regulations prescribed thereunder to be uniform.
+In subsection (a), section 253(h) (provisos) of existing title 37 is omitted, since the regulations to which reference is made have been issued. The exceptions to sections 404(c) and 406(g) are inserted, since the sourcetext for those subsections require regulations prescribed thereunder to be uniform.
 
 In subsections (c) and (d), the words “for the purposes of the sections of this title designated by subsection (a) of this section” are inserted to clarify the coverage of the source statute.
 

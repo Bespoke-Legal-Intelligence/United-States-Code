@@ -66,7 +66,7 @@ The Attorney General shall pay each amount allocated under this part to a unit o
 
 #### (1) In general
 
-&emsp;Subject to paragraph (2), the Attorney General shall adjust a payment under this part to a unit of general local government to the extent that a prior payment to the government was more or less than the amount required to be paid.
+&emsp;Subject to paragraph (2), the Attorney General shall adjust a payment under this part toa unit of general local government to the extent that a prior payment to the government was more or less than the amount required to be paid.
 
 #### (2) Considerations
 
@@ -92,7 +92,7 @@ The Attorney General may reserve a percentage of not more than 2 percent of the 
 
 #### (3) Deposit of amounts repaid
 
-&emsp;Amounts received by the Attorney General as repayments under this subsection shall bedeposited in a designated fund for future payments to units of general local government.
+&emsp;Amounts received by the Attorney General as repayments under this subsection shall be deposited in a designated fund for future payments to units of general local government.
 
 #### (f) Nonsupplanting requirement
 
@@ -168,7 +168,7 @@ PAL chapter.—The term ‘PAL chapter’ means a chapter of a Police or Sheriff
 
 &emsp;“(4)
 
-Police athletic league.—The term ‘Police Athletic League’ means the private, nonprofit, national representative organization for 320 Police or Sheriff's Athletic/Activities Leagues throughout the United States (including the Virgin Islands and the Commonwealth of Puerto Rico).
+Police athletic league.—The term ‘Police Athletic League’ means the private, nonprofit, national representative organization for 320 Police orSheriff's Athletic/Activities Leagues throughout the United States (including the Virgin Islands and the Commonwealth of Puerto Rico).
 
 &emsp;“(5)
 
@@ -380,7 +380,7 @@ Continued availability.—Amounts made available under this subsection shall rem
 
 #### Establishment of Boys and Girls Clubs
 
-Pub. L. 104–294, title IV, §401, Oct. 11, 1996, 110 Stat. 3496, as amended by Pub. L. 105–133, §1, Dec. 2, 1997, 111 Stat. 2568, provided that:
+Pub. L. 104–294, title IV, §401, Oct. 11, 1996, 110 Stat. 3496, as amended by Pub. L. 105–133, §1, Dec. 2, 1997, 111 Stat. 2568; Pub. L. 107–273, div. B, title I, §1101, Nov. 2, 2002, 116 Stat. 1791, provided that:
 
 “(a)
 
@@ -408,7 +408,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(2)
 
-Purpose.—The purpose of this section is to provide adequate resources in the form of seed money for the Boys and Girls Clubs of America to establish 1,000 additional local clubs where needed, with particular emphasis placed on establishing clubs in public housing projects and distressed areas, and to ensure that there are a total of not less than 2,500 Boys and Girls Clubs of America facilities in operation not later than December 31, 1999.
+Purpose.—The purpose of this section is to provide adequate resources in the form of seed money for the Boys and Girls Clubs of America to establish 1,200 additional local clubs where needed, with particular emphasis placed on establishing clubs in public housing projects and distressed areas, and to ensure that there are a total of not less than 4,000 Boys and Girls Clubs of America facilities in operation not later than December 31, 2005, serving not less than 5,000,000 young people.
 
 “(b)
 
@@ -424,15 +424,15 @@ Establishment.—
 
 &emsp;“(1)
 
-In general.—For each of the fiscal years 1997, 1998, 1999, 2000, and 2001, the Director of the Bureau of Justice Assistance of the Department of Justice shall make a grant to the Boys and Girls Clubs of America for the purpose of establishing and extending Boys and Girls Clubs facilities where needed, with particular emphasis placed on establishing clubs in and extending services to public housing projects and distressed areas.
+In general.—For each of the fiscal years 2002, 2003, 2004, 2005, and 2006, the Director of the Bureau of Justice Assistance of the Department of Justice shall make a grant to the Boys and Girls Clubs of America for the purpose of establishing and extending Boys and Girls Clubs facilities where needed, with particular emphasis placed on establishing clubs in and extending services to public housing projects and distressed areas.
 
 &emsp;“(2)
 
 Applications.—The Attorney General shall accept an application for a grant under this subsection if submitted by the Boys and Girls Clubs of America, and approve or deny the grant not later than 90 days after the date on which the application is submitted, if the application—
 
-&emsp;&emsp;“(A) includes a long-term strategy to establish 1,000 additional Boys and Girls Clubs and detailed summary of those areas in which new facilities will be established, or in which existing facilities will be expanded to serve additional youths, during the next fiscal year;
+&emsp;&emsp;“(A) includes a long-term strategy to establish 1,200 additional Boys and Girls Clubs and detailedsummary of those areas in which new facilities will be established, or in which existing facilities will be expanded to serve additional youths, during the next fiscal year;
 
-&emsp;&emsp;“(B) includes a plan to ensure that there are a total of not less than 2,500 Boys and Girls Clubs of America facilities in operation before January 1, 2000;
+&emsp;&emsp;“(B) includes a plan to ensure that there are a total of not less than 4,000 Boys and Girls Clubs of America facilities in operation before January 1, 2007;
 
 &emsp;&emsp;“(C) certifies that there will be appropriate coordination with those communities where clubs will be located; and
 
@@ -450,19 +450,15 @@ Authorization of Appropriations.—
 
 In general.—There are authorized to be appropriated to carry out this section—
 
-&emsp;&emsp;“(A) $20,000,000 for fiscal year 1997;
+&emsp;&emsp;“(A) $70,000,000 for fiscal year 2002;
 
-&emsp;&emsp;“(B) $20,000,000 for fiscal year 1998;
+&emsp;&emsp;“(B) $80,000,000 for fiscal year 2003;
 
-&emsp;&emsp;“(C) $20,000,000 for fiscal year 1999;
+&emsp;&emsp;“(C) $80,000,000 for fiscal year 2004; and
 
-&emsp;&emsp;“(D) $20,000,000 for fiscal year 2000; and
+&emsp;&emsp;“(D) $80,000,000 for fiscal year 2005.
 
-&emsp;&emsp;“(E) $20,000,000 for fiscal year 2001.
-
-&emsp;“(2)
-
-Violent crime reduction trust fund.—The sums authorized to be appropriated by this subsection may be made from the Violent Crime Reduction Trust Fund.
+&emsp;“\[(2) Repealed. Pub. L. 107–273, div. B, title I, §1101(3), Nov. 2, 2002, 116 Stat. 1791.\]
 
 “(f)
 
@@ -472,7 +468,7 @@ Role Model Grants.—Of amounts made available under subsection (e) for any fisc
 
 &emsp;“(2) no amount may be used to compensate speakers other than to reimburse speakers for reasonable travel and accommodation costs associated with the program described in paragraph (1).”
 
-\[Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L.106–113, set out as a note under section 3741 of this title.\]
+\[Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.\]
 
 #### Section Referred to in Other Sections
 

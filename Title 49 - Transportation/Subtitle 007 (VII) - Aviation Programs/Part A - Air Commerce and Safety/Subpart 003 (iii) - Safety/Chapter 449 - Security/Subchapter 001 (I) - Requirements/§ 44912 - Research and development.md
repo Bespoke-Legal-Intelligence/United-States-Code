@@ -162,6 +162,10 @@ Subsec. (c). Pub. L. 107–71, §112(b)(3), amended heading and text of subsec. 
 
 &emsp;“(4) other scientific and technical areas the Administrator considers appropriate.”
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Research and Development of Aviation Security Technology
 
 Pub. L. 107–71, title I, §137, Nov. 19, 2001, 115 Stat. 637, provided that:
@@ -218,5 +222,5 @@ Advisory panels established after Jan. 5, 1973, to terminate not later than expi
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 106, 40119, 44501, 44508, 44937, 48107 of this title.
+This section is referred to in sections 106, 44501, 44508, 44937, 48107 of this title.
 

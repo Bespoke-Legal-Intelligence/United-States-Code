@@ -36,7 +36,7 @@ The following shall not be included as elements of cost:
 
 &emsp;(ii) The expense of conversion of the contractor's facilities to uses other than the performance of the contract.
 
-&emsp;(iii) Expenses due to the negligence or willful failure of the contractor to discontinue with reasonable promptness the incurring ofexpenses after the effective date of the termination notice.
+&emsp;(iii) Expenses due to the negligence or willful failure of the contractor to discontinue with reasonable promptness the incurring of expenses after the effective date of the termination notice.
 
 &emsp;(iv) Costs incurred in respect to facilities, materials, or services purchased or work done in excess of the reasonable quantitative requirements of the entire contract.
 
@@ -64,13 +64,13 @@ Section 1191 of the Appendix to title 50, referred to in subsec. (c), was omitte
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works.
+Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 “Secretary” substituted for “Director” by section 8 of Ex. Ord. No. 9809 and section 201 of Reorg. Plan No. 1 of 1947. Reorg. Plan No. 1 of 1947 is set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date of Transfer of Functions
 
-Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605 of act June 30, 1949, set out as an Effective Date note under section 471 of Title 40, Public Buildings, Property, and Works.
+Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Application to Terminated War Contracts
 
@@ -78,7 +78,7 @@ For application of this section to war contracts terminated at or before July 21
 
 #### Settlement of Claims for War Contract Losses Incurred Between September 16, 1940, and August 14, 1945
 
-Act Aug. 7, 1946, ch. 864, 60 Stat. 902, as amended by June 25, 1948, ch. 646, §37, 62 Stat. 992; Aug. 30, 1954, ch. 1076, §1(2), 68 Stat. 966, provided that if work, supplies, or services were provided for any department or agency of the Government, under a contract or subcontract, between Sept. 16, 1940, and Aug. 14, 1945, and a loss was incurred by the contractors or subcontractors without fault or negligence on their part, then those departments or agencies were authorized to adjust and settle these losses on a fair and equitable basis, if claims were filed within six months after Aug. 7, 1946, and granted claimants dissatisfied with the settlement the right of judicial review.
+Act Aug. 7, 1946, ch. 864, 60 Stat. 902, as amended by June 25, 1948, ch. 646, §37, 62 Stat. 992; Aug. 30, 1954, ch.1076, §1(2), 68 Stat. 966, provided that if work, supplies, or services were provided for any department or agency of the Government, under a contract or subcontract, between Sept. 16, 1940, and Aug. 14, 1945, and a loss was incurred by the contractors or subcontractors without fault or negligence on their part, then those departments or agencies were authorized to adjust and settle these losses on a fair and equitable basis, if claims were filed within six months after Aug. 7, 1946, and granted claimants dissatisfied with the settlement the right of judicial review.
 
 #### Section Referred to in Other Sections
 

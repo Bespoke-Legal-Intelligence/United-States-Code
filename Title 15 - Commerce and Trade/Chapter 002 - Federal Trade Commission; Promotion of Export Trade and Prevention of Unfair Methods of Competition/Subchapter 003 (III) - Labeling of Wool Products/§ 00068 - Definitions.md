@@ -12,7 +12,7 @@ As used in this subchapter—
 
 (e) The term “Commission” means the Federal Trade Commission.
 
-(f) The term “Federal Trade Commission Act” means the Act of Congress entitled “An Act to create a Federal Trade Commission, to define its powers and duties, and for other purposes”, approved September 26, 1914, as amended, and the Federal Trade Commission Act approved March 21, 1938 \[15 U.S.C. 41 et seq.\].
+(f) The term “Federal Trade Commission Act” means the Act of Congress entitled “An Act to create a Federal Trade Commission, to define its powers and duties, and for other purposes”, approved September 26, 1914, as amended, and the Federal Trade Commission Act approved March 21, 1938.
 
 (g) The term “commerce” means commerce among the several States or with foreign nations, or in any Territory of the United States or in the District of Columbia, or between any such Territory and another, or between any such Territory and any State or foreign nation, or between the District of Columbia and any State or Territory or foreign nation.
 
@@ -22,7 +22,9 @@ As used in this subchapter—
 
 #### References in Text
 
-The Federal Trade Commission Act, referred to in subsec. (f), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+The Act of September 26, 1914, referred to in subsec. (f), is act Sept. 26, 1914, ch. 311, 38 Stat. 717, as amended, which is classified generally to subchapter I (§41 et seq.) of this chapter. For complete classification of this Act to the Code, see section 58 of this title and Tables.
+
+The Federal Trade Commission Act approved March 21, 1938, referred to in subsec. (f), is act Mar. 21, 1938, ch. 49, 52 Stat. 111, as amended. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
 

@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal operation and service on board a vessel” does not include any activitythat is longshore work (as defined in subsection (b) of this section), except as provided under subsection (c), (d), or (e) of this section.
+For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal operation and service on board a vessel” does not include any activity that is longshore work (as defined in subsection (b) of this section), except as provided under subsection (c), (d), or (e) of this section.
 
 #### (b) “Longshore work” defined
 
@@ -52,11 +52,11 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 (4)(A) The Secretary of Labor shall compile and make available for public examination in a timely manner in Washington, D.C., a list identifying owners, agents, consignees, masters, or commanding officers which have filed lists for nonimmigrants described in section 1101(a)(15)(D)(i) of this title with respect to whom an attestation under paragraph (1) or subsection (d)(1) of this section is made and, for each such entity, a copy of the entity's attestation under paragraph (1) or subsection (d)(1) of this section (and accompanying documentation) and each such list filed by the entity.
 
-(B)(i) The Secretary of Labor shall establish a process for the receipt, investigation, and disposition of complaints respecting an entity's failure to meet conditions attested to, an entity's misrepresentation of a material fact in an attestation, or, in the case described in the last sentence of paragraph (1), whether the performance of the particular activity is or is not described in paragraph (1)(B)(i).
+(B)(i) The Secretary of Labor shall establish a process for the receipt, investigation, and disposition of complaints respecting an entity's failure to meet conditions attested to, an entity's misrepresentation of a material fact in an attestation, or, in the case described in the lastsentence of paragraph (1), whether the performance of the particular activity is or is not described in paragraph (1)(B)(i).
 
 (ii) Complaints may be filed by any aggrieved person or organization (including bargaining representatives, associations deemed appropriate by the Secretary, and other aggrieved parties as determined under regulations of the Secretary).
 
-(iii) The Secretary shall promptly conduct an investigation under this subparagraph if there is reasonable cause to believe that an entity fails to meet conditions attested to, an entity hasmisrepresented a material fact in the attestation, or, in the case described in the last sentence of paragraph (1), the performance of the particular activity is not described in paragraph (1)(B)(i).
+(iii) The Secretary shall promptly conduct an investigation under this subparagraph if there is reasonable cause to believe that an entity fails to meet conditions attested to, an entity has misrepresented a material fact in the attestation, or, in the case described in the last sentence of paragraph (1), the performance of the particular activity is not described in paragraph (1)(B)(i).
 
 (C)(i) If the Secretary determines that reasonable cause exists to conduct an investigation with respect to an attestation, a complaining party may request that the activities attested to by the employer cease during the hearing process described in subparagraph (D). If such a request is made, the attesting employer shall be issued notice of such request and shall respond within 14 days to the notice. If the Secretary makes an initial determination that the complaining party's position is supported by a preponderance of the evidence submitted, the Secretary shall require immediately that the employer cease and desist from such activities until completion of the process described in subparagraph (D).
 
@@ -152,7 +152,7 @@ For purposes of section 1101(a)(15)(D)(i) of this title, the term “normal oper
 
 &emsp;For purposes of this subsection, the term “in practice” refers to an activity normally performed in such country during the one-year period preceding the arrival of such vessel into the United States or coastal waters thereof.
 
-(June 27, 1952, ch. 477, title II, ch. 6, §258, as added Pub. L. 101–649, title II, §203(a)(1), Nov. 29, 1990, 104 Stat. 5015; amended Pub. L. 102–232, title III, §303(a)(4), Dec. 12, 1991, 105 Stat. 1747; Pub. L.103–198, §8(a), (b), Dec. 17, 1993, 107 Stat. 2313, 2315; Pub. L. 103–206, title III, §323(a), (b), Dec. 20, 1993, 107 Stat. 2428, 2430; Pub. L. 103–416, title II, §219(f), (gg), Oct. 25, 1994, 108 Stat. 4317, 4319; Pub. L. 104–208, div. C, title VI, §671(e)(4)(B), Sept. 30, 1996, 110 Stat. 3009–723.)
+(June 27, 1952, ch. 477, title II, ch. 6, §258, as added Pub. L. 101–649, title II, §203(a)(1), Nov. 29, 1990, 104 Stat. 5015; amended Pub. L. 102–232, title III, §303(a)(4), Dec. 12, 1991, 105 Stat. 1747; Pub. L. 103–198, §8(a), (b), Dec. 17, 1993, 107 Stat. 2313, 2315; Pub. L. 103–206, title III, §323(a), (b), Dec. 20, 1993, 107 Stat. 2428, 2430; Pub. L. 103–416, title II, §219(f), (gg), Oct. 25, 1994, 108 Stat. 4317, 4319; Pub. L. 104–208, div. C, title VI, §671(e)(4)(B), Sept. 30, 1996, 110 Stat. 3009–723.)
 
 #### References in Text
 
@@ -203,6 +203,10 @@ Section 323(c) of Pub. L. 103–206 provided that:
 “(2) Attestations filed pursuant to section 258(c) (8 U.S.C. 1288(c)) with the Secretary of Labor before the date of enactment of this Act \[Dec. 20, 1993\] shall remain valid until 60 days after the date of issuance of final regulations by the Secretary under this section.”
 
 Similar provisions were contained in Pub. L. 103–198, §8(c), Dec. 17, 1993, 107 Stat. 2315, prior to repeal by Pub. L. 103–416, title II, §219(gg), Oct. 25, 1994, 108 Stat. 4319.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Inapplicability of Amendment by Pub. L. 101–649
 

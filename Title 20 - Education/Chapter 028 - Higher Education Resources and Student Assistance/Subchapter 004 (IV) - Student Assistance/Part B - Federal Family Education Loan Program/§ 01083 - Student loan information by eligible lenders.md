@@ -24,7 +24,7 @@ Each eligible lender, at or prior to the time such lender disburses a loan that 
 
 &emsp;(10) an explanation of any special options the borrower may have for loan consolidation or other refinancing of the loan;
 
-&emsp;(11) a statement that the borrower has the right to prepay all or part of the loan, at any time, without penalty, a statement summarizing circumstances in which repayment of the loan or interest that accrues on the loan maybe deferred, and a brief notice of the program for repayment of loans, on the basis of military service, pursuant to section 902 of the Department of Defense Authorization Act, 1981 (10 U.S.C. 2141, note); <sup>1</sup>
+&emsp;(11) a statement that the borrower has the right to prepay all or part of the loan, at any time, without penalty, a statement summarizing circumstances in which repayment of the loan or interest that accrues on the loan may be deferred, and a brief notice of the program for repayment of loans, on the basis of military service, pursuant to section 902 of the Department of Defense Authorization Act, 1981 (10 U.S.C. 2141, note); <sup>1</sup>
 
 &emsp;(12) a definition of default and the consequences to the borrower if the borrower defaults, including a statement that the default will be reported to a credit bureau or credit reporting agency;
 
@@ -74,7 +74,7 @@ Loans made under sections 1078–1,<sup>2</sup> 1078–2, and 1078–8 of this t
 
 #### References in Text
 
-Section 902 of the Department of Defense Authorization Act, 1981, referred to in subsec. (a)(11), is section902 of Pub. L. 96–342, title IX, Sept. 8, 1980, 94 Stat. 1115, as amended, which was set out as a note under section 2141 of Title 10, Armed Forces, and was repealed by Pub. L. 99–145, title VI, §671(a)(3), Nov. 8, 1985, 99 Stat. 663. See section 16302 of Title 10.
+Section 902 of the Department of Defense Authorization Act, 1981, referred to in subsec. (a)(11), is section 902 of Pub. L. 96–342, title IX, Sept. 8, 1980, 94 Stat. 1115, as amended, which was set out as a note under section 2141 of Title 10, Armed Forces, and was repealed by Pub. L. 99–145, title VI, §671(a)(3), Nov. 8, 1985, 99 Stat. 663. See section 16302 of Title 10.
 
 Truth in Lending Act, referred to in subsec. (c), is title I of Pub. L. 90–321, May 29, 1968, 82 Stat. 146, as amended, which is classified generally to subchapter I (§1601 et seq.) of chapter 41 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of Title 15 and Tables.
 
@@ -82,7 +82,7 @@ Section 1078–1 of this title, referred to in subsec. (e), was repealed by Pub.
 
 #### Prior Provisions
 
-A prior section 1083, Pub. L. 89–329, title IV, §433, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 90–575, title I, §116(d), Oct. 16, 1968, 82 Stat. 1024; Pub. L. 92–318, title I, §132(c), June 23, 1972, 86 Stat. 261; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2129; Pub. L. 95–43, §1(a)(34), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to requirements for institutional lenders, prior to the general revision of this part by Pub. L. 99–498.
+A prior section 1083, Pub. L. 89–329, title IV, §433, Nov. 8, 1965, 79 Stat. 1247; Pub. L. 90–575, title I, §116(d), Oct.16, 1968, 82 Stat. 1024; Pub. L. 92–318, title I, §132(c), June 23, 1972, 86 Stat. 261; Pub. L. 94–482, title I, §127(a), Oct. 12, 1976, 90 Stat. 2129; Pub. L. 95–43, §1(a)(34), June 15, 1977, 91 Stat. 216; Pub. L. 96–374, title XIII, §1391(a)(1), Oct. 3, 1980, 94 Stat. 1503, related to requirements for institutional lenders, prior to the general revision of this part by Pub. L. 99–498.
 
 A prior section 1083a, Pub. L. 89–329, title IV, §433A, as added Pub. L. 96–374, title IV, §418, Oct. 3, 1980, 94 Stat. 1423; amended Pub. L. 97–301, §13(a), Oct. 13, 1982, 96 Stat. 1404; Pub. L. 98–79, §3(a), Aug. 15, 1983, 97 Stat. 476; Pub. L. 99–272, title XVI, §16012(c), Apr. 7, 1986, 100 Stat. 340, related to student loan information to be provided by eligible lenders, prior to the general revision of this part by Pub. L. 99–498. See section 1083 of this title.
 

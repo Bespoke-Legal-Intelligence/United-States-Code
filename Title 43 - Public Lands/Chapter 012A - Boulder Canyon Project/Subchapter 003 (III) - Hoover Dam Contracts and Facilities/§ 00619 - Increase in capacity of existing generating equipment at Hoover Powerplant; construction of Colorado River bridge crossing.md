@@ -16,7 +16,7 @@ This subchapter, was in the original “this Act”, meaning Pub. L. 98–381, A
 
 #### Short Title
 
-Section 1 of Pub. L. 98–381 provided that: “This Act \[enacting this subchapter, provisions set out as notes under sections 617 and 618 of this title and section 839b of Title 16, Conservation, sections 7274 and 7275 and provisions set out as a note under section 7133 of Title 42, The Public Health and Welfare, and amending sections 617a, 617b, 618, 618a, 618e, 618k, and 1543 of this title\] may be cited as the ‘Hoover Power Plant Act of 1984’.”
+Section 1 of Pub. L. 98–381 provided that: “This Act \[enacting this subchapter, provisions set out as notes under sections 617 and 618 of this title and section 839b of Title 16, Conservation, sections 7274 and 7275 and provisions set out as a note under section 7133 of Title 42,The Public Health and Welfare, and amending sections 617a, 617b, 618, 618a, 618e, 618k, and 1543 of this title\] may be cited as the ‘Hoover Power Plant Act of 1984’.”
 
 #### Hoover Dam Miscellaneous Sales
 

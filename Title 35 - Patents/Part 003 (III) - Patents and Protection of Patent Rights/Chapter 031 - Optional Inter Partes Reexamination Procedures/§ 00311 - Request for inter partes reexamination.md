@@ -2,7 +2,7 @@
 
 (a)
 
-In General.—Any person at any time may file a request for inter partes reexamination by the Office of a patent on the basis of any prior art cited under the provisions of section 301.
+In General.—Any third-party requester at any time may file a request for inter partes reexamination by the Office of a patent on the basis of any prior art cited under the provisions of section 301.
 
 (b)
 
@@ -14,9 +14,17 @@ Requirements.—The request shall—
 
 (c)
 
-Copy.—Unless the requesting person is the owner of the patent, the Director promptly shall send a copy of the request to the owner of record of the patent.
+Copy.—The Director promptly shall send a copy of the request to the owner of record of the patent.
 
-(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–567.)
+(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–567; amended Pub. L. 107–273, div. C, title III, §13202(a)(1), (c)(1), Nov. 2, 2002, 116 Stat. 1901, 1902.)
+
+#### Amendments
+
+2002—Pub. L. 107–273, §13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+
+Subsec. (a). Pub. L. 107–273, §13202(a)(1)(A), substituted “third-party requester” for “person”.
+
+Subsec. (c). Pub. L. 107–273, §13202(a)(1)(B), substituted “The” for “Unless the requesting person is the owner of the patent, the”.
 
 #### Effective Date
 

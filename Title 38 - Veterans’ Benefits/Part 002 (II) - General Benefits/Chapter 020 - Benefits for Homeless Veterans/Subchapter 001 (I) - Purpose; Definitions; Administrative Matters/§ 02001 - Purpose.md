@@ -28,7 +28,7 @@ National Goal.—Congress hereby declares it to be a national goal to end chroni
 
 “(b)
 
-Cooperative Efforts Encouraged.—Congress hereby encourages all departments and agencies of Federal, State, and local governments, quasi-governmental organizations, private and public sector entities, including community-based organizations, faith-based organizations, and individuals to work cooperatively to end chronic homelessness among veterans within a decade.”
+Cooperative Efforts Encouraged.—Congress hereby encourages all departments and agencies of Federal, State, and local governments, quasi-governmental organizations, private and public sector entities, including community-based organizations, faith-based organizations, and individuals to work cooperatively toend chronic homelessness among veterans within a decade.”
 
 #### Sense of the Congress Regarding the Needs of Homeless Veterans and the Responsibility of Federal Agencies
 
@@ -36,7 +36,7 @@ Pub. L. 107–95, §4, Dec. 21, 2001, 115 Stat. 904, provided that: “It is the
 
 &emsp;“(1) homelessness is a significant problem in the veterans community and veterans are disproportionately represented among homeless men;
 
-&emsp;“(2) while many effective programs assist homeless veterans to again become productive and self-sufficient members of society, current resources provided to such programs and other activities that assisthomeless veterans are inadequate to provide all needed essential services, assistance, and support to homeless veterans;
+&emsp;“(2) while many effective programs assist homeless veterans to again become productive and self-sufficient members of society, current resources provided to such programs and other activities that assist homeless veterans are inadequate to provide all needed essential services, assistance, and support to homeless veterans;
 
 &emsp;“(3) the most effective programs for the assistance of homeless veterans should be identified and expanded;
 

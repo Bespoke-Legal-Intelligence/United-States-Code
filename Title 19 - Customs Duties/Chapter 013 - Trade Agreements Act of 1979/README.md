@@ -194,10 +194,6 @@ I74subpart 1—sanitary and phytosanitary measures
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Chapter Referred to in Other Sections
-
-This chapter is referred to in title 15 section 5528.
-
 
 ---
 

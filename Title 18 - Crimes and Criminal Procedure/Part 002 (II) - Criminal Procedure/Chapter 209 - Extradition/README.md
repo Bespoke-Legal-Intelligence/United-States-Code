@@ -27,6 +27,10 @@
 
 1990—Pub. L. 101–623, §11(b), Nov. 21, 1990, 104 Stat. 3356, added item 3196.
 
+#### Chapter Referred to in Other Sections
+
+This chapter is referred to in title 22 section 7432.
+
 
 ---
 

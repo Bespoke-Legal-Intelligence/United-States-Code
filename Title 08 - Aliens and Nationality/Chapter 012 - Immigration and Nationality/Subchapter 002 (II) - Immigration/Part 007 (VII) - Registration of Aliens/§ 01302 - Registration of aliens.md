@@ -1,6 +1,6 @@
 ### §1302. Registration of aliens
 
-(a) It shall be the duty of every alien now or hereafter in the United States, who (1) is fourteen years of age or older, (2) has not been registered and fingerprinted under section 1201(b) of this title or section 30 or 31 of the Alien Registration Act, 1940, and (3) remains in the United States for thirty days or longer, to apply forregistration and to be fingerprinted before the expiration of such thirty days.
+(a) It shall be the duty of every alien now or hereafter in the United States, who (1) is fourteen years of age or older, (2) has not been registered and fingerprinted under section 1201(b) of this title or section 30 or 31 of the Alien Registration Act, 1940, and (3) remains in the United States for thirty days or longer, to apply for registration and to be fingerprinted before the expiration of such thirty days.
 
 (b) It shall be the duty of every parent or legal guardian of any alien now or hereafter in the United States, who (1) is less than fourteen years of age, (2) has not been registered under section 1201(b) of this title or section 30 or 31 of the Alien Registration Act, 1940, and (3) remains in the United States for thirty days or longer, to apply for the registration of such alien before the expiration of such thirty days. Whenever any alien attains his fourteenth birthday in the United States he shall, within thirty days thereafter, apply in person for registration and to be fingerprinted.
 
@@ -35,6 +35,10 @@ Amendment by Pub. L. 99–653 applicable to applications for immigrant visas mad
 #### Effective Date
 
 Section effective 180 days after June 27, 1952, see section 407 of act June 27, 1952, set out as a note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

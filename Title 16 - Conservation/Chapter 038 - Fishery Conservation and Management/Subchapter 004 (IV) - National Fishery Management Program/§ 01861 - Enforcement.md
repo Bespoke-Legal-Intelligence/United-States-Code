@@ -14,7 +14,7 @@ The provisions of this chapter shall be enforced by the Secretary and the Secret
 
 &emsp;&emsp;(ii) board, and search or inspect, any fishing vessel which is subject to the provisions of this chapter;
 
-&emsp;&emsp;(iii) seize any fishing vessel (together with its fishing gear, furniture, appurtenances, stores, and cargo) used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in, the violation of any provision of this chapter;
+&emsp;&emsp;(iii) seize any fishing vessel (together with its fishing gear, furniture, appurtenances, stores, and cargo) used or employed in, or with respect to which it reasonably appears that such vessel was used or employed in,the violation of any provision of this chapter;
 
 &emsp;&emsp;(iv) seize any fish (wherever found) taken or retained in violation of any provision of this chapter; and
 
@@ -50,7 +50,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 &emsp;(B) a reward of not less than 20 percent of the penalty collected or $20,000, whichever is the lesser amount, to any person who furnishes information which leads to an arrest, conviction, civil penalty assessment, or forfeiture of property for any violation of any provision of this chapter or any other marine resource law enforced by the Secretary;
 
-&emsp;(C) any expenses directly related to investigations and civil or criminal enforcement proceedings, including any necessary expenses for equipment, training, travel, witnesses, andcontracting services directly related to such investigations or proceedings;
+&emsp;(C) any expenses directly related to investigations and civil or criminal enforcement proceedings, including any necessary expenses for equipment, training, travel, witnesses, and contracting services directly related to such investigations or proceedings;
 
 &emsp;(D) any valid liens or mortgages against any property that has been forfeited;
 
@@ -64,7 +64,7 @@ The district courts of the United States shall have exclusive jurisdiction over 
 
 #### (1) Enforcement agreements
 
-&emsp;Beginning not later than October 1, 1993, the Secretary shall, if requested by the Governor of a State represented on the New England Fishery Management Council, enter into an agreement under subsection (a) of this section, with each of the States represented on such Council, that authorizes the marine law enforcement agency of such State to perform duties of the Secretary relating to enforcement of the Northeast Multispecies Fishery Management Plan.
+&emsp;Beginning not later than October 1, 1993, the Secretary shall, if requested by the Governor of a State represented on the New England Fishery Management Council, enter into an agreement under subsection (a) of this section, with each of the States represented on such Council, that authorizes the marine law enforcement agency of such State to perform duties of the Secretary relating to enforcementof the Northeast Multispecies Fishery Management Plan.
 
 #### (2) Reimbursement
 
@@ -120,8 +120,6 @@ For purposes of this section—
 
 The Lacey Act Amendments of 1981, referred to in subsec. (e), is Pub. L. 97–79, Nov. 16, 1981, 95 Stat. 1073, as amended, which enacted chapter 53 (§3371 et seq.) of this title, amended section 1540 of this title and section 42 of Title 18, Crimes and Criminal Procedure, repealed sections 667e and 851 to 856 of this title and sections 43, 44, 3054, and 3112 of Title 18, and enacted provisions set out as notes under sections 1540 and 3371 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3371 of this title and Tables.
 
-The customs laws, referred to in subsec. (e)(1)(E), are classified generally to Title 19, Customs Duties.
-
 #### Amendments
 
 1996—Subsec. (d). Pub. L. 104–297, §115(a)(2), inserted “, and except that in the case of the Northern Mariana Islands, the appropriate court is the United States District Court for the District of the Northern Mariana Islands” after “District of Hawaii”.
@@ -175,6 +173,10 @@ Amendment by Pub. L. 102–251 effective on date on which Agreement between Unit
 #### Effective Date
 
 Section effective Mar. 1, 1977, see section 312 of Pub. L. 94–265, formerly set out as a note under section 1857 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Agreement To Make More Effective Enforcement of Domestic Laws and International Agreements
 

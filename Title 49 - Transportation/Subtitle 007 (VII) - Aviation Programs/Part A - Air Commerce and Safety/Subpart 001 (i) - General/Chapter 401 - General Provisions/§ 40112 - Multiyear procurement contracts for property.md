@@ -20,7 +20,7 @@ Required Findings.—The Administrator may make a contract under this section if
 
 (c)
 
-Regulations.—The Administrator shall prescribe regulations for acquiring property under this section to promote the use of contracts under this section in a way that will allow the most efficient use of those contracts. The regulations may provide for a cancellation provision in the contract to the extent the provision is necessary and in the best interest of the United States. The provision may include consideration of recurring and nonrecurring costs of the contractor associated with producing the item to be delivered under the contract. The regulations shall provide that, to the extent practicable—
+Regulations.—The Administrator shall prescribe regulations for acquiring propertyunder this section to promote the use of contracts under this section in a way that will allow the most efficient use of those contracts. The regulations may provide for a cancellation provision in the contract to the extent the provision is necessary and in the best interest of the United States. The provision may include consideration of recurring and nonrecurring costs of the contractor associated with producing the item to be delivered under the contract. The regulations shall provide that, to the extent practicable—
 
 &emsp;(1) to broaden the aviation industrial base—
 
@@ -138,5 +138,5 @@ Subsec. (e)(2). Pub. L. 104–287 substituted “Transportation and Infrastructu
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 

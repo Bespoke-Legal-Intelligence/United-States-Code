@@ -58,7 +58,7 @@ The total value of all orders for items or services to be provided under the pro
 
 (1) The Director may permit a central service provider to impose and collect a fee with respect to the provision of an item or service under the program. The amount of the fee may not exceed an amount equal to four percent of the payment received by the provider for the item or service.
 
-(2)(A) Subject to subparagraph (B), the Director may obligate and expend amounts in the Fund that are attributable to the fees imposed and collected under paragraph (1) to acquire equipment or systems for, or to improve the equipment or systems of, central service providers and any elements of the Agency that are not designated for participation in the program inorder to facilitate the designation of such elements for future participation in the program.
+(2)(A) Subject to subparagraph (B), the Director may obligate and expend amounts in the Fund that are attributable to the fees imposed and collected under paragraph (1) to acquire equipment or systems for, or to improve the equipment or systems of, central service providers and any elements of the Agency that are not designated for participation in the program in order to facilitate the designation of such elements for future participation in the program.
 
 (B) The Director may not expend amounts in the Fund for purposes specified in subparagraph (A) in fiscal year 1998, 1999, or 2000 unless the Director—
 
@@ -66,23 +66,7 @@ The total value of all orders for items or services to be provided under the pro
 
 &emsp;(ii) submits notice of the proposed expenditure to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-#### (g) Audit
-
-(1) Not later than January 31 each year, the Inspector General of the Central Intelligence Agency shall complete an audit of the activities under the program during the preceding fiscal year.
-
-(2) The Director of the Office of Management and Budget shall determine the form and content of financial statements to be prepared with respect to the program. Office of Management and Budget guidance shall also determine the procedures for conducting annual audits under paragraph (1)..<sup>1</sup> Such audits shall include an itemized accounting of the items or services provided, the costs associated with the items or services provided, the payments and any fees received for the items or services provided, and the agencies provided items or services.
-
-(3) Not later than 30 days after the completion of an audit under paragraph (1), the Inspector General shall submit a copy of the audit to the following:
-
-&emsp;(A) The Director of the Office of Management and Budget.
-
-&emsp;(B) The Director of Central Intelligence.
-
-&emsp;(C) The Permanent Select Committee on Intelligence of the House of Representatives.
-
-&emsp;(D) The Select Committee on Intelligence of the Senate.
-
-#### (h) Termination
+#### (g) Termination
 
 (1) Subject to paragraph (2), the Director of Central Intelligence and the Director of the Office of Management and Budget, acting jointly—
 
@@ -92,13 +76,15 @@ The total value of all orders for items or services to be provided under the pro
 
 (2) The Director of Central Intelligence and the Director of the Office of Management and Budget may not undertake any action under paragraph (1) until 60 days after the date on which the Directors jointly submit notice of such action to the Permanent Select Committee on Intelligence of the House of Representatives and the Select Committee on Intelligence of the Senate.
 
-(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV, §401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403.)
+(June 20, 1949, ch. 227, §21, as added Pub. L. 105–107, title IV, §403(a), Nov. 20, 1997, 111 Stat. 2258; amended Pub. L. 106–120, title IV, §401, Dec. 3, 1999, 113 Stat. 1615; Pub. L. 106–567, title IV, §401, Dec. 27, 2000, 114 Stat. 2847; Pub. L. 107–108, title IV, §401, Dec. 28, 2001, 115 Stat. 1403; Pub. L. 107–306, title VIII, §841(e), Nov. 27, 2002, 116 Stat. 2432.)
 
 #### Codification
 
 Section was enacted as part of the Central Intelligence Agency Act of 1949, and not as part of the National Security Act of 1947 which comprises this chapter.
 
 #### Amendments
+
+2002—Subsecs. (g), (h). Pub. L. 107–306 redesignated subsec. (h) as (g) and struck out former subsec. (g), which required annual audit of program activities, set forth provisions relating to form, content, and procedures, and required submission of copies to the Director of the Office of Management and Budget, the Director of Central Intelligence, the Permanent Select Committee on Intelligence of the House of Representatives, and the Select Committee on Intelligence of the Senate.
 
 2001—Subsec. (g)(1). Pub. L. 107–108, §401(a), substituted “January 31” for “December 31” and “complete an audit” for “conduct an audit”.
 
@@ -122,15 +108,15 @@ Subsec. (h)(1). Pub. L. 106–120, §401(d), substituted “2002” for “2000�
 
 #### Availability of Funds Credited to Central Services Working Capital Fund
 
-Pub. L. 107–117, div. A, title VIII, §8045, Jan. 10, 2002, 115 Stat. 2257, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
+Pub. L. 107–248, title VIII, §8042, Oct. 23, 2002, 116 Stat. 1546, provided in part: “That funds appropriated, transferred, or otherwise credited to the Central Intelligence Agency Central Services Working Capital Fund during this or any prior or subsequent fiscal year shall remain available until expended”.
 
 Similar provisions were contained in the following prior appropriation acts:
+
+Pub. L. 107–117, div. A, title VIII, §8045, Jan. 10, 2002, 115 Stat. 2257.
 
 Pub. L. 106–259, title VIII, §8045, Aug. 9, 2000, 114 Stat. 684.
 
 Pub. L. 106–79, title VIII, §8048, Oct. 25, 1999, 113 Stat. 1241.
 
 Pub. L. 105–262, title VIII, §8048, Oct. 17, 1998, 112 Stat. 2307.
-
-<i><sup>1</sup></i><i> So in original.</i>
 

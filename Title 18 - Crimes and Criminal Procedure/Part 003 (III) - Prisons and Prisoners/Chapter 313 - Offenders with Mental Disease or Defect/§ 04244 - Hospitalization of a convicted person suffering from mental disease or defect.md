@@ -6,7 +6,7 @@ Motion To Determine Present Mental Condition of Convicted Defendant.—A defenda
 
 (b)
 
-Psychiatric or Psychological Examination and Report.—Prior to the date of the hearing, the court may order that a psychiatric or psychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c). In addition to the information required to be included in the psychiatric or psychological report pursuant to the provisions of section 4247(c), if the report includes an opinion by the examiners that the defendant is presently suffering from amental disease or defect but that it is not such as to require his custody for care or treatment in a suitable facility, the report shall also include an opinion by the examiner concerning the sentencing alternatives that could best accord the defendant the kind of treatment he does need.
+Psychiatric or Psychological Examination and Report.—Prior to the date of the hearing, the court may order that a psychiatric or psychological examination of the defendant be conducted, and that a psychiatric or psychological report be filed with the court, pursuant to the provisions of section 4247(b) and (c). In addition to the information required to be included in the psychiatric or psychological report pursuant to the provisions of section 4247(c), if the report includes an opinion by the examiners that the defendant is presently suffering from a mental disease or defect but that it is not such as to require his custody for care or treatment in a suitable facility, the report shall also include an opinion by the examiner concerning the sentencing alternatives that could best accord the defendant the kind of treatment he does need.
 
 (c)
 
@@ -28,7 +28,7 @@ Discharge.—When the director of the facility in which the defendant is hospita
 
 #### Separability
 
-Section 4 of act Sept. 7, 1949, provided that: “If any provision of Title 18, United States Code, sections 4244 to 4248, inclusive, or the application thereof to any person or circumstance shall be held invalid, the remainder of the said sections and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
+Section 4 of act Sept. 7, 1949, provided that: “If any provision of Title 18, United States Code, sections 4244to 4248, inclusive, or the application thereof to any person or circumstance shall be held invalid, the remainder of the said sections and the application of such provision to persons or circumstances other than those as to which it is held invalid shall not be affected thereby.”
 
 #### Use of Appropriations
 

@@ -52,7 +52,7 @@ Beginning 30 months after November 8, 1984, any State may, submit an underground
 
 #### (e) Withdrawal of authorization
 
-Whenever the Administrator determines after public hearing that a State is not administeringand enforcing a program authorized under this subchapter in accordance with the provisions of this section, he shall so notify the State. If appropriate action is not taken within a reasonable time, not to exceed one hundred and twenty days after such notification, the Administrator shall withdraw approval of such program and reestablish the Federal program pursuant to this subchapter.
+Whenever the Administrator determines after public hearing that a State is not administering and enforcing a program authorized under this subchapter in accordance with the provisions of this section, he shall so notify the State. If appropriate action is not taken within a reasonable time, not to exceed one hundred and twenty days after such notification, the Administrator shall withdraw approval of such program and reestablish the Federal program pursuant to this subchapter.
 
 (Pub. L. 89–272, title II, §9004, as added Pub. L. 98–616, title VI, §601(a), Nov. 8, 1984, 98 Stat. 3282; amended Pub. L. 99–499, title II, §205(e), Oct. 17, 1986, 100 Stat. 1702.)
 

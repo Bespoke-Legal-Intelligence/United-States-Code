@@ -10,7 +10,7 @@
 
 &emsp;(4) any independent study program except an accredited independent study program (including open circuit television) leading (A) to a standard college degree, or (B) to a certificate that reflects educational attainment offered by an institution of higher learning.
 
-(b) Except to the extent otherwise specifically provided in this title or chapter 106 of title 10, the Secretary shall not approve the enrollment of an eligible veteran in any course of flight training other than one given by an educational institution of higher learning for credit towarda standard college degree the eligible veteran is seeking.
+(b) Except to the extent otherwise specifically provided in this title or chapter 106 of title 10, the Secretary shall not approve the enrollment of an eligible veteran in any course of flight training other than one given by an educational institution of higher learning for credit toward a standard college degree the eligible veteran is seeking.
 
 (c) The Secretary shall not approve the enrollment of an eligible veteran in any course to be pursued by radio.
 
@@ -32,17 +32,19 @@
 
 &emsp;(3) following either a change in ownership or a complete move outside its original general locality, the educational institution does not retain substantially the same faculty, student body, and courses as before the change in ownership or the move outside the general locality (as determined in accordance with regulations the Secretary shall prescribe) unless the educational institution following such change or move has been in operation for at least two years.
 
-(f) The Secretary may not approve the enrollment of an eligible veteran in a course as a part of a program of education offered by an educational institution if the course is provided under contract by another educational institution or entity and—
+(f) The Secretary may not approve the enrollment of an eligible veteran in a course as a partof a program of education offered by an educational institution if the course is provided under contract by another educational institution or entity and—
 
 &emsp;(1) the Secretary would be barred under subsection (e) from approving the enrollment of an eligible veteran in the course of the educational institution or entity providing the course under contract; or
 
 &emsp;(2) the educational institution or entity providing the course under contract has not obtained approval for the course under this chapter.
 
-(g) Notwithstanding subsections (e) and (f)(1), the Secretary may approve the enrollment of an eligible veteran in a course approved under this chapter if the course is offered by an educational institution under contract with the Department of Defense or the Department of Transportation and is given on or immediately adjacent to a military base, Coast Guard station, National Guard facility, or facility of the Selected Reserve.
+(g) Notwithstanding subsections (e) and (f)(1), the Secretary may approve the enrollment of an eligible veteran in a course approved under this chapter if the course is offered by an educational institution under contract with the Department of Defense or the Department of Homeland Security and is given on or immediately adjacent to a military base, Coast Guard station, National Guard facility, or facility of the Selected Reserve.
 
-(Added Pub. L. 102–568, title III, §313(a)(2), Oct. 29, 1992, 106 Stat. 4331; amended Pub. L. 104–275, title I, §§103(a)(2), (b), 104(c), Oct. 9, 1996, 110 Stat. 3326, 3327; Pub. L. 105–114, title IV, §401(d), (e), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title X, §1005(b)(9), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title I, §111(a), Dec. 27, 2001, 115 Stat. 986.)
+(Added Pub. L. 102–568, title III, §313(a)(2), Oct. 29, 1992, 106 Stat. 4331; amended Pub. L. 104–275, title I, §§103(a)(2), (b), 104(c), Oct. 9, 1996, 110 Stat. 3326, 3327; Pub. L. 105–114, title IV, §401(d), (e), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title X, §1005(b)(9), Nov. 11, 1998, 112 Stat. 3365; Pub. L. 107–103, title I, §111(a), Dec. 27, 2001, 115 Stat. 986; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315.)
 
 #### Amendments
+
+2002—Subsec. (g). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
 
 2001—Subsec. (a)(4). Pub. L. 107–103 inserted “(A)” after “leading” and “, or (B) to a certificate that reflects educational attainment offered by an institution of higher learning” before period at end.
 
@@ -58,6 +60,10 @@ Subsec. (d)(2)(C). Pub. L. 104–275, §103(a)(2), substituted “subsection (g)
 
 Subsecs. (e) to (g). Pub. L. 104–275, §103(b), added subsecs. (e) to (g).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+
 #### Effective Date of 2001 Amendment
 
 Pub. L. 107–103, title I, §111(b), Dec. 27, 2001, 115 Stat. 987, provided that: “The amendments made by subsection (a) \[amending this section\] shall apply to enrollments in independent study courses beginning on or after the date of the enactment of this Act \[Dec. 27, 2001\].”
@@ -65,6 +71,10 @@ Pub. L. 107–103, title I, §111(b), Dec. 27, 2001, 115 Stat. 987, provided tha
 #### Savings Provision
 
 Section not applicable to any person receiving educational assistance for pursuit of an independent study program in which the person was enrolled on Oct. 29, 1992, for as long as such person is continuously thereafter so enrolled and meets requirements of eligibility for such assistance, see section 313(b) of Pub. L. 102–568, set out as a note under section 16136 of Title 10, Armed Forces.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

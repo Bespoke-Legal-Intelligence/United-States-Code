@@ -1,0 +1,82 @@
+### §554. Property for development or operation of a port facility
+
+(a)
+
+Definitions.—In this section, the following definitions apply:
+
+&emsp;(1)
+
+Base closure law.—The term “base closure law” means the following:
+
+&emsp;&emsp;(A) Title II of the Defense Authorization Amendments and Base Closure and Realignment Act (Public Law 100–526; 10 U.S.C. 2687 note).
+
+&emsp;&emsp;(B) The Defense Base Closure and Realignment Act of 1990 (part A of title XXIX of Public Law 101–510; 10 U.S.C. 2687 note).
+
+&emsp;&emsp;(C) Section 2687 of title 10.
+
+&emsp;(2)
+
+State.—The term “State” includes the District of Columbia, Puerto Rico, Guam, American Samoa, the Virgin Islands, the Federated States of Micronesia, the Marshall Islands, Palau, and the Northern Mariana Islands.
+
+(b)
+
+Authority for Assignment to the Secretary of Transportation.—Under regulations that the Administrator of General Services, after consultation with the Secretary of Defense, may prescribe, the Administrator, or the Secretary of Defense in the case of property located at a military installation closed or realigned pursuant to a base closure law, may assign to the Secretary of Transportation for disposal surplus real property, including buildings, fixtures, and equipment situated on the property, that the Secretary of Transportation recommends as needed for the development or operation of a port facility.
+
+(c)
+
+Authority for Conveyance by the Secretary of Transportation.
+
+&emsp;(1)
+
+In general.—Subject to disapproval by the Administrator or the Secretary of Defense within 30 days after notice of a proposed conveyance by the Secretary of Transportation, the Secretary of Transportation, for the development or operation of a port facility, may convey property assigned to the Secretary of Transportation under subsection (b) to a State or political subdivision, municipality, or instrumentality of a State.
+
+&emsp;(2)
+
+Conveyance requirements.—A transfer of property may be made under this section only after the Secretary of Transportation has—
+
+&emsp;&emsp;(A) determined, after consultation with the Secretary of Labor, that the property to be conveyed is located in an area of serious economic disruption;
+
+&emsp;&emsp;(B) received and, after consultation with the Secretary of Commerce, approved an economic development plan submitted by an eligible grantee and based on assured use of the property to be conveyed as part of a necessary economic development program; and
+
+&emsp;&emsp;(C) transmitted to Congress an explanatory statement that contains information substantially similar to the information contained in statements prepared under section 545(e) of this title.
+
+(d)
+
+No Monetary Consideration.—A conveyance under this section shall be made without monetary consideration to the Federal Government.
+
+(e)
+
+Deed of Conveyance.—The deed of conveyance of any surplus real and related personal property disposed of under this section shall—
+
+&emsp;(1) provide that all of the property be used and maintained for the purpose for which it was conveyed in perpetuity, and that if the property ceases to be used or maintained for that purpose, all or any portion of the property shall, in its then existing condition, at the option of the Government, revert to the Government; and
+
+&emsp;(2) contain additional terms, reservations, restrictions, and conditions that the Secretary of Transportation shall by regulation require to ensure use of the property for the purposes for which it was conveyed and to safeguard the interests of the Government.
+
+(f)
+
+Enforcement and Revision of Instruments Transferring Property Under This Section.—The Secretary of Transportation shall determine and enforce compliance with the terms, conditions, reservations, and restrictions contained in an instrument by which a transfer or conveyance under this section is made. The Secretary shall reform, correct, or amend the instrument if necessary to correct the instrument or to conform the transfer to the requirements of law. The Secretary shall grant a release from any term, condition, reservation or restriction contained in the instrument, and shall convey, quitclaim, or release to the grantee any right or interest reserved to the Government by the instrument, if the Secretary determines that the property no longer serves the purpose for which it was transferred or that a release, conveyance, or quitclaim deed will not prevent accomplishment of that purpose. The release, conveyance, or quitclaim deed may be made subject to terms and conditions that the Secretary considers necessary to protect or advance the interests of the Government.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1100.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+554
+
+40:484(q).
+
+June 30, 1949, ch. 288, title II, §203(q), as added Pub. L. 103–160, div. B, title XXIX, §2927(2), Nov. 30, 1993, 107 Stat. 1933.
+
+In subsection (a), the words “Trust Territory of the Pacific Islands” are omitted and the words “the Federated States of Micronesia, the Marshall Islands, Palau” are added because of the termination of the Trust Territory of the Pacific Islands. See 48:1681 note prec.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 10 sections 2577, 2814; title 14 section 641; title 28 section 604; title 38 section 8162; title 42 sections 3796<i>ll</i>–3, 11411.
+

@@ -56,6 +56,10 @@ In clause (4), the words “committee of Congress” are substituted for “comm
 
 In clause (5), the words “at the request of any such committee, direct assistants from his office” are omitted as surplus.
 
+#### Report on Tobacco Settlement Agreement
+
+Pub. L. 107–171, title X, §10908, May 13, 2002, 116 Stat. 538, provided that: “Not later than December 31, 2002, and annually thereafter through 2006, the Comptroller General shall submit to Congress a report that describes all programs and activities that States have carried out using funds received under all phases of the Master Settlement Agreement of 1997.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 719 of this title.

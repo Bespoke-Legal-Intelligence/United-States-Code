@@ -12,7 +12,7 @@
 
 &emsp;(1) deposited in the fund from which payment was made, if the repayment was to a State agency; or
 
-&emsp;(2) returned to the Treasury of the United States and credited to the current applicable appropriation, fund, or account from which payment was made, if the repayment was to the Secretary.
+&emsp;(2) returned to the Treasury of the United States and credited to the current applicableappropriation, fund, or account from which payment was made, if the repayment was to the Secretary.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 590.)
 

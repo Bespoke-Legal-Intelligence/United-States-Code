@@ -14,9 +14,7 @@ There are established in the Trust Fund the following accounts:
 
 &emsp;(3) The rural business and cooperative development account.
 
-&emsp;(4) The national reserve account.
-
-&emsp;(5) The federally recognized Indian tribe account.
+&emsp;(4) The federally recognized Indian tribe account.
 
 #### (c) Deposits into accounts
 
@@ -62,53 +60,7 @@ The function categories described in this subsection are the following:
 
 &emsp;&emsp;(C) rural business enterprise grants or rural educational network grants under section 1932(c) of this title.
 
-#### (e) National reserve account
-
-#### (1) Transfers into account
-
-#### (A) Initial transfer
-
-&emsp;&emsp;Each fiscal year, the Secretary shall transfer to the national reserve account of the Trust Fund from each account specified in subsection (c) of this section not more than the applicable percentage of the amount deposited in each such account for the fiscal year under subsection (c) of this section.
-
-#### (B) Repooling of unobligated funds allocated among the States
-
-&emsp;&emsp;Not earlier than July 15 of each fiscal year, the Secretary shall transfer to the national reserve account from each account specified in subsection (c) of this section any amount in the account that is allocated for any State, and has not been obligated by the State director or obligated for specific approved projects in the State.
-
-#### (2) Use
-
-&emsp;The Secretary may use amounts in the national reserve account of the Trust Fund, pursuant to any authority described in subsection (d) of this section—
-
-&emsp;&emsp;(A) in the case of a fiscal year other than fiscal year 2001 or 2002—
-
-&emsp;&emsp;&emsp;(i) to meet situations of exceptional need;
-
-&emsp;&emsp;&emsp;(ii) to meet emergency situations; or
-
-&emsp;&emsp;&emsp;(iii) to provide funds to entities whose applications for funds provided under this subchapter have been approved and who have not received funds sufficient to meet the needs of the projects described in the applications; or
-
-&emsp;&emsp;(B) in the case of fiscal years 2001 and 2002—
-
-&emsp;&emsp;&emsp;(i) to meet situations of exceptional need; or
-
-&emsp;&emsp;&emsp;(ii) to meet emergency situations.
-
-#### (3) “Applicable percentage” defined
-
-&emsp;In paragraph (1), the term “applicable percentage” means, with respect to a fiscal year—
-
-&emsp;&emsp;(A) 15 percent for fiscal year 1997;
-
-&emsp;&emsp;(B) 12.5 percent for fiscal year 1998;
-
-&emsp;&emsp;(C) 10 percent for fiscal year 1999;
-
-&emsp;&emsp;(D) 7.5 percent for fiscal year 2000;
-
-&emsp;&emsp;(E) 5 percent for fiscal year 2001; and
-
-&emsp;&emsp;(F) 5 percent for fiscal year 2002.
-
-#### (f) Federally recognized Indian tribe account
+#### (e) Federally recognized Indian tribe account
 
 #### (1) Transfers into account
 
@@ -116,19 +68,27 @@ The function categories described in this subsection are the following:
 
 #### (2) Use of funds
 
-&emsp;The Secretary shall make available to federally recognized Indian tribes the amounts inthe federally recognized Indian tribe account for use pursuant to any authority described in subsection (d) of this section.
+&emsp;The Secretary shall make available to federally recognized Indian tribes the amounts in the federally recognized Indian tribe account for use pursuant to any authority described in subsection (d) of this section.
 
-#### (g) Allocation among States
+#### (f) Allocation among States
 
-The Secretary shall allocate the amounts in each account specified in subsection (c) of this section among the States in a fair, reasonable, and appropriate manner that takes into consideration rural population, levels of income, unemployment, and other relevant factors, as determined by the Secretary.
+The Secretary shall allocate the amounts in each account specified in subsection (c) of this section among the States in a fair, reasonable,and appropriate manner that takes into consideration rural population, levels of income, unemployment, and other relevant factors, as determined by the Secretary.
 
-#### (h) Availability of funds allocated for States
+#### (g) Availability of funds allocated for States
 
-The Secretary shall make available to each State the total amount allocated for the State under subsection (g) of this section that remains after applying section 2009f of this title.
+The Secretary shall make available to each State the total amount allocated for the State under subsection (f) of this section that remains after applying section 2009f of this title.
 
-(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071.)
+(Pub. L. 87–128, title III, §381E, as added Pub. L. 104–127, title VII, §761, Apr. 4, 1996, 110 Stat. 1140; amended Pub. L. 105–86, title III, Nov. 18, 1997, 111 Stat. 2094; Pub. L. 106–472, title III, §§304(b), 305(b), Nov. 9, 2000, 114 Stat. 2071; Pub. L. 107–171, title VI, §6026(a), May 13, 2002, 116 Stat. 372.)
 
 #### Amendments
+
+2002—Subsec. (b)(4), (5). Pub. L. 107–171, §6026(a)(1), redesignated par. (5) as (4) and struck out former par. (4) which read as follows: “The national reserve account.”
+
+Subsec. (e). Pub. L. 107–171, §6026(a)(2), (3), redesignated subsec. (f) as (e) and struck out heading and text of former subsec. (e) which related to national reserve account.
+
+Subsec. (f). Pub. L. 107–171, §6026(a)(3), redesignated subsec. (g) as (f). Former subsec. (f) redesignated (e).
+
+Subsecs. (g), (h). Pub. L. 107–171, §6026(a)(3), (4), redesignated subsec. (h) as (g) and substituted “subsection (f) of this section” for “subsection (g) of this section”. Former subsec. (g) redesignated (f).
 
 2000—Subsec. (d)(1)(B). Pub. L. 106–472, §305(b), substituted “paragraph (19), (20), or (21)” for “paragraph (19) or (20)”.
 

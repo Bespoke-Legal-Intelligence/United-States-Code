@@ -44,7 +44,7 @@ From the remaining amounts appropriated under section 701(a) of this title for a
 
 #### (d) Re-allotment of unallotted funds
 
-(1) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States either because all the States have not qualified for such allotments under section 705(a) of this title for the fiscal year or because some States have indicated in their descriptions of activities under section 705(a) of this title that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
+(1) To the extent that all the funds appropriated under this subchapter for a fiscal yearare not otherwise allotted to States either because all the States have not qualified for such allotments under section 705(a) of this title for the fiscal year or because some States have indicated in their descriptions of activities under section 705(a) of this title that they do not intend to use the full amount of such allotments, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
 
 (2) To the extent that all the funds appropriated under this subchapter for a fiscal year are not otherwise allotted to States because some State allotments are offset under section 706(b)(2) of this title, such excess shall be allotted among the remaining States in proportion to the amount otherwise allotted to such States for the fiscal year without regard to this paragraph.
 
@@ -64,7 +64,7 @@ Subsec. (a)(3). Pub. L. 101–239, §6502(a)(2), inserted “or subsection (b) o
 
 Subsec. (b). Pub. L. 101–239, §6502(a)(3), added subsec. (b). Former subsec. (b) redesignated (c).
 
-Subsec. (c). Pub. L. 101–239, §6503(c)(4), which directed amendment of subsec. (b) by substituting “705(a)” for“705”, was executed to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of former subsec. (b) as (c) by Pub. L. 101–239, §6502(a)(3), see below.
+Subsec. (c). Pub. L. 101–239, §6503(c)(4), which directed amendment of subsec. (b) by substituting “705(a)” for “705”, was executed to subsec. (c) to reflect the probable intent of Congress and the intervening redesignation of former subsec. (b) as (c) by Pub. L. 101–239, §6502(a)(3), see below.
 
 Pub. L. 101–239, §6503(c)(1), substituted “an application” for “a description of intended activities and statement of assurances” in introductory provisions.
 

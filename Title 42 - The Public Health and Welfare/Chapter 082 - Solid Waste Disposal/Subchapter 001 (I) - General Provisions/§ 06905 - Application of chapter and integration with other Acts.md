@@ -2,7 +2,7 @@
 
 #### (a) Application of chapter
 
-Nothing in this chapter shall be construed to apply to (or to authorize any State, interstate, or local authority to regulate) any activity or substance which is subject to the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], the Marine Protection, Research and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] except to the extent that such application (or regulation) is not inconsistent with the requirements of such Acts.
+Nothing in this chapter shall be construed to apply to (or to authorize any State, interstate,or local authority to regulate) any activity or substance which is subject to the Federal Water Pollution Control Act \[33 U.S.C. 1251 et seq.\], the Safe Drinking Water Act \[42 U.S.C. 300f et seq.\], the Marine Protection, Research and Sanctuaries Act of 1972 \[16 U.S.C. 1431 et seq., 1447 et seq., 33 U.S.C. 1401 et seq., 2801 et seq.\], or the Atomic Energy Act of 1954 \[42 U.S.C. 2011 et seq.\] except to the extent that such application (or regulation) is not inconsistent with the requirements of such Acts.
 
 #### (b) Integration with other Acts
 
@@ -22,7 +22,7 @@ Nothing in this chapter shall be construed to apply to (or to authorize any Stat
 
 #### (c) Integration with the Surface Mining Control and Reclamation Act of 1977
 
-(1) No later than 90 days after October 21, 1980, the Administrator shall review any regulations applicable to the treatment, storage, or disposal of any coal mining wastes or overburden promulgated by the Secretary of the Interior underthe Surface Mining and Reclamation Act of 1977 \[30 U.S.C. 1201 et seq.\]. If the Administrator determines that any requirement of final regulations promulgated under any section of subchapter III of this chapter relating to mining wastes or overburden is not adequately addressed in such regulations promulgated by the Secretary, the Administrator shall promptly transmit such determination, together with suggested revisions and supporting documentation, to the Secretary.
+(1) No later than 90 days after October 21, 1980, the Administrator shall review any regulations applicable to the treatment, storage, or disposal of any coal mining wastes or overburden promulgated by the Secretary of the Interior under the Surface Mining and Reclamation Act of 1977 \[30 U.S.C. 1201 et seq.\]. If the Administrator determines that any requirement of final regulations promulgated under any section of subchapter III of this chapter relating to mining wastes or overburden is not adequately addressed in such regulations promulgated by the Secretary, the Administrator shall promptly transmit such determination, together with suggested revisions and supporting documentation, to the Secretary.
 
 (2) The Secretary of the Interior shall have exclusive responsibility for carrying out any requirement of subchapter III of this chapter with respect to coal mining wastes or overburden for which a surface coal mining and reclamation permit is issued or approved under the Surface Mining Control and Reclamation Act of 1977 \[30 U.S.C. 1201 et seq.\]. The Secretary shall, with the concurrence of the Administrator, promulgate such regulations as may be necessary to carry out the purposes of this subsection and shall integrate such regulations with regulations promulgated under the Surface Mining Control and Reclamation Act of 1977.
 
@@ -40,7 +40,7 @@ The Safe Drinking Water Act, referred to in subsecs. (a) and (b), is title XIV o
 
 The Clean Air Act, referred to in subsec. (b)(1), (2)(B), is act July 14, 1955, ch. 360, 69 Stat. 322, as amended, which is classified generally to chapter 85 (§7401 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 7401 of this title and Tables.
 
-The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to the Code, see Short Title note set out under section 136 of Title 7 and Tables.
+The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of Title 7, Agriculture. For complete classification of this Act to theCode, see Short Title note set out under section 136 of Title 7 and Tables.
 
 The Surface Mining Control and Reclamation Act of 1977, referred to in subsec. (c), is Pub. L. 95–87, Aug. 3, 1977, 91 Stat. 445, as amended, which is classified generally to chapter 25 (§1201 et seq.) of Title 30, Mineral Lands and Mining. For complete classification of this Act to the Code, see Short Title note set out under section 1201 of Title 30 and Tables.
 

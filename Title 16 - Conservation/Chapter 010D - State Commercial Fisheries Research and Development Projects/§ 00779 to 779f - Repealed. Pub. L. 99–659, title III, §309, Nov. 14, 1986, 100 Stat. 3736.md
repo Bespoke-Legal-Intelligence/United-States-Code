@@ -1,6 +1,6 @@
 ### §§779 to 779f. Repealed. Pub. L. 99–659, title III, §309, Nov. 14, 1986, 100 Stat. 3736
 
-Section 779, Pub. L. 88–309, §2, May 20, 1964, 78 Stat. 197; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090; Pub. L. 94–273, §4(3), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–485, §1(1), Oct. 12, 1976, 90 Stat. 2326, defined terms used in this chapter.
+Section 779, Pub. L. 88–309, §2, May 20, 1964, 78 Stat. 197; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627,84 Stat. 2090; Pub. L. 94–273, §4(3), Apr. 21, 1976, 90 Stat. 377; Pub. L. 94–485, §1(1), Oct. 12, 1976, 90 Stat. 2326, defined terms used in this chapter.
 
 Section 779a, Pub. L. 88–309, §3, May 20, 1964, 78 Stat. 197; 1970 Reorg. Plan No. 4, eff. Oct. 3, 1970, 35 F.R. 15627, 84 Stat. 2090, related to cooperation with States on projects for the research and development of commercial fisheries resources, joint projects between States, consent to interstate compacts, and reservation of right to alter, amend or repeal consent.
 

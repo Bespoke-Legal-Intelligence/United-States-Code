@@ -26,7 +26,7 @@ In the exercise of its powers under subsections (a), (b), or (c) of this section
 
 #### (e) Information in conspicuous part of prospectus
 
-The statements or information required to be included in a prospectus by or under authority of subsections (a), (b), (c), or (d) of this section,when written, shall be placed in a conspicuous part of the prospectus and, except as otherwise permitted by rules or regulations, in type as large as that used generally in the body of the prospectus.
+The statements or information required to be included in a prospectus by or under authority of subsections (a), (b), (c), or (d) of this section, when written, shall be placed in a conspicuous part of the prospectus and, except as otherwise permitted by rules or regulations, in type as large as that used generally in the body of the prospectus.
 
 #### (f) Prospectus consisting of radio or television broadcast
 
@@ -46,7 +46,7 @@ Amendment by act Aug. 10, 1954, effective 60 days after Aug. 10, 1954, see note 
 
 #### Transfer of Functions
 
-For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman of such Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
+For transfer of functions of Securities and Exchange Commission, with certain exceptions, to Chairman ofsuch Commission, see Reorg. Plan No. 10 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3175, 64 Stat. 1265, set out under section 78d of this title.
 
 #### Section Referred to in Other Sections
 

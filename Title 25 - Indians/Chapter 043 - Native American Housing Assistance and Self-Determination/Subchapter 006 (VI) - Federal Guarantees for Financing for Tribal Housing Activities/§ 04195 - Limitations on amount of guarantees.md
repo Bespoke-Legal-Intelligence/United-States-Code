@@ -2,15 +2,15 @@
 
 #### (a) Aggregate fiscal year limitation
 
-Notwithstanding any other provision of law and subject only to the absence of qualified applicants or proposed activities and to the authority provided in this subchapter, to the extent approved or provided in appropriations Acts, the Secretary may enter into commitments to guarantee notes and obligations under this subchapter with an aggregate principal amount not to exceed $400,000,000 for each of fiscal years 1997, 1998, 1999, 2000, and 2001.
+Notwithstanding any other provision of law and subject only to the absence of qualified applicants or proposed activities and to the authority provided in this subchapter, to the extent approved or provided in appropriations Acts, the Secretary may enter into commitments to guarantee notes and obligations under this subchapter with an aggregate principal amount not to exceed $400,000,000 for each of fiscal years 1997 through 2007.
 
 #### (b) Authorization of appropriations for credit subsidy
 
-There are authorized to be appropriated to cover the costs (as such term is defined in section 661a of title 2) of guarantees under this subchapter such sums as may be necessary for each of fiscal years 1997, 1998, 1999, 2000, and 2001.
+There are authorized to be appropriated to cover the costs (as such term is defined in section 661a of title 2) of guarantees under this subchapter such sums as may be necessary for each of fiscal years 1997 through 2007.
 
 #### (c) Aggregate outstanding limitation
 
-The total amount of outstanding obligations guaranteed on a cumulative basis by the Secretary pursuant to this subchapter shall not at any time exceed $2,000,000,000 or such higheramount as may be authorized to be appropriated for this subchapter for any fiscal year.
+The total amount of outstanding obligations guaranteed on a cumulative basis by the Secretary pursuant to this subchapter shall not at any time exceed $2,000,000,000 or such higher amount as may be authorized to be appropriated for this subchapter for any fiscal year.
 
 #### (d) Fiscal year limitations on tribes
 
@@ -20,7 +20,11 @@ The Secretary shall monitor the use of guarantees under this subchapter by India
 
 &emsp;(2) request the enactment of legislation increasing the aggregate outstanding limitation on guarantees under this subchapter.
 
-(Pub. L. 104–330, title VI, §605, Oct. 26, 1996, 110 Stat. 4047.)
+(Pub. L. 104–330, title VI, §605, Oct. 26, 1996, 110 Stat. 4047; Pub. L. 107–292, §2(b), Nov. 13, 2002, 116 Stat. 2053.)
+
+#### Amendments
+
+2002—Subsecs. (a), (b). Pub. L. 107–292 substituted “1997 through 2007” for “1997, 1998, 1999, 2000, and 2001”.
 
 #### Effective Date
 

@@ -30,7 +30,7 @@ The Tiwa Indians Act, referred to in par. (6), is Pub. L. 90–287, Apr. 12, 196
 
 #### Short Title
 
-For short title of Pub. L. 100–89, which enacted this subchapter, subchapter XXXI–A of this chapter, andprovisions set out as notes under section 731 of this title, as the “Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act”, see section 1 of Pub. L. 100–89, set out as a note under section 731 of this title.
+For short title of Pub. L. 100–89, which enacted this subchapter, subchapter XXXI–A of this chapter, and provisions set out as notes under section 731 of this title, as the “Ysleta del Sur Pueblo and Alabama and Coushatta Indian Tribes of Texas Restoration Act”, see section 1 of Pub. L. 100–89, set out as a note under section 731 of this title.
 
 #### Regulations
 

@@ -6,7 +6,7 @@ The Secretary of Agriculture is hereby authorized to use funds of the Commodity 
 
 #### Codification
 
-Section was enacted as part of the Food and Agriculture Act of 1965, and not as part of the AgriculturalAct of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
+Section was enacted as part of the Food and Agriculture Act of 1965, and not as part of the Agricultural Act of 1949 which is classified principally to this chapter. For complete classification of the 1949 Act to the Code, see Short Title note set out under section 1421 of this title and Tables.
 
 #### Amendments
 

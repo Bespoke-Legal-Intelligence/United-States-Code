@@ -12,7 +12,7 @@ Except as otherwise specially provided for, the rate or rates of duty imposed by
 
 #### (b) Articles removed from intended place of release
 
-Any article which has been entered for consumption but which, before release from custody of the Customs Service, is removed from the port or other place of intended release because of inaccessibility, overcarriage, strike, act of God, or unforeseen contingency, shall be subject to duty at the rate or rates in effect when the entry for consumption and any required duties were deposited in accordance with subsection (a) of this section, but only if the article is returned to such port or place within ninety days afterthe date of removal and the identity of the article as that covered by the entry is established in accordance with regulations prescribed by the Secretary of the Treasury.
+Any article which has been entered for consumption but which, before release from custody of the Customs Service, is removed from the port or other place of intended release because of inaccessibility, overcarriage, strike, act of God, or unforeseen contingency, shall be subject to duty at the rate or rates in effect when the entry for consumption and any required duties were deposited in accordance with subsection (a) of this section, but only if the article is returned to such port or place within ninety days after the date of removal and the identity of the article as that covered by the entry is established in accordance with regulations prescribed by the Secretary of the Treasury.
 
 #### (c) Quantity of merchandise at time of importation
 
@@ -86,5 +86,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 #### Transfer of Functions
 
-Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in text, are under Department of the Treasury.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by 1950 Reorg. Plan No. 26, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers, referred to in text, were under Department of the Treasury.
 

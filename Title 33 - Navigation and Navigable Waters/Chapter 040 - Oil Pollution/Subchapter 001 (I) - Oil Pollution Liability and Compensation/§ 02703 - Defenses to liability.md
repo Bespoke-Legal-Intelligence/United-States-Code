@@ -2,7 +2,7 @@
 
 #### (a) Complete defenses
 
-A responsible party is not liable for removal costs or damages under section 2702 of this titleif the responsible party establishes, by a preponderance of the evidence, that the discharge or substantial threat of a discharge of oil and the resulting damages or removal costs were caused solely by—
+A responsible party is not liable for removal costs or damages under section 2702 of this title if the responsible party establishes, by a preponderance of the evidence, that the discharge or substantial threat of a discharge of oil and the resulting damages or removal costs were caused solely by—
 
 &emsp;(1) an act of God;
 

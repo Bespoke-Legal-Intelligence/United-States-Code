@@ -12,7 +12,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 27a of this title.
+This chapter is referred to in section 26b of this title.
 
 
 ---

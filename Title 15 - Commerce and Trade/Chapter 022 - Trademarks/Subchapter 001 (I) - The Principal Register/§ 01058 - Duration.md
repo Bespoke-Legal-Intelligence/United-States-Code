@@ -26,7 +26,7 @@ During the 1-year period immediately preceding the end of the applicable time pe
 
 #### (d) Notice of affidavit requirement
 
-Special notice of the requirement for affidavits under this section shall be attached to each certificate of registration and notice of publication under section 1062(c) of this title.
+Special notice of the requirement for affidavits under this section shall be attached to eachcertificate of registration and notice of publication under section 1062(c) of this title.
 
 #### (e) Notification of acceptance or refusal of affidavits
 
@@ -34,15 +34,17 @@ The Director shall notify any owner who files 1 of the affidavits required by th
 
 #### (f) Designation of resident for service of process and notices
 
-If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.
+If the registrant is not domiciled in the United States, the registrant may designate, by a document filed in the United States Patent and Trademark Office, the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, or if the registrant does not designate by a document filed in the United States Patent and Trademark Office the name and address of a person resident in the United States on whom may be served notices or process in proceedings affecting the mark, such notices or process may be served on the Director.
 
-(July 5, 1946, ch. 540, title I, §8, 60 Stat. 431; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §8, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §110, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §105, Oct. 30, 1998, 112 Stat. 3066; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583.)
+(July 5, 1946, ch. 540, title I, §8, 60 Stat. 431; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 97–247, §8, Aug. 27, 1982, 96 Stat. 320; Pub. L. 100–667, title I, §110, Nov. 16, 1988, 102 Stat. 3939; Pub. L. 105–330, title I, §105, Oct. 30, 1998, 112 Stat. 3066; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4732(b)(1)(B), (C)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(3), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Prior Provisions
 
 Act Feb. 20, 1905, ch. 592, §12, 33 Stat. 727.
 
 #### Amendments
+
+2002—Subsec. (f). Pub. L. 107–273 amended subsec. (f) generally. Prior to amendment, text read as follows: “If the registrant is not domiciled in the United States, the registrant shall designate by a written document filed in the Patent and Trademark Office the name and address of some person resident in the United States on whom may be served notices or process in proceedings affecting the mark. Such notices or process may be served upon the person so designated by leaving with that person or mailing to that person a copy thereof at the address specified in the last designation so filed. If the person so designated cannot be found at the address given in the last designation, such notice or process may be served upon the Director.”
 
 1999—Subsecs. (a) to (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], substituted “Director” for “Commissioner” wherever appearing.
 
@@ -90,7 +92,7 @@ Repeal of inconsistent provisions, effect of this chapter on pending proceedings
 
 #### Transfer of Functions
 
-For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
+For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certainexceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### References to Trademark Act of 1946
 

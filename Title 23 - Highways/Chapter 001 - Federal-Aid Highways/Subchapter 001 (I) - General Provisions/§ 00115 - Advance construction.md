@@ -48,7 +48,7 @@ Subsec. (b). Pub. L. 105–178, §1226(a)(1), as added by Pub. L. 105–206, §9
 
 Subsec. (b)(1). Pub. L. 105–178, §1103(<i>l</i>)(3)(A), substituted “104(b)(4)” for “104(b)(5)”.
 
-Subsecs. (c), (d). Pub. L. 105–178, §1226(a)(2), (3), as added by Pub. L. 105–206, §9003(a), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “In determining the apportionment for any fiscal year under the provisions of section 103(e)(4), 104, 134, 144,, or 307 of this title, any such project constructed by a State without the aid of Federal funds shall not be considered completed until an application under the provisions of this section with respect to such project has been approved by the Secretary.”
+Subsecs. (c), (d). Pub. L. 105–178, §1226(a)(2), (3), as added by Pub. L. 105–206, §9003(a), redesignated subsec. (d) as (c) and struck out heading and text of former subsec. (c). Text read as follows: “In determining the apportionment for any fiscal year under the provisions of section 103(e)(4), 104, 134, 144,, or 307 of this title, anysuch project constructed by a State without the aid of Federal funds shall not be considered completed until an application under the provisions of this section with respect to such project has been approved by the Secretary.”
 
 1995—Subsec. (d). Pub. L. 104–59 amended subsec. (d) generally. Prior to amendment, subsec. (d) read as follows:
 
@@ -58,7 +58,7 @@ Limitation on Advanced Funding.—The Secretary may not approve an application u
 
 1992—Subsec. (a). Pub. L. 102–302, §103(1), in heading substituted “
 
-Substitute, Congestion Mitigation and Air Quality Improvement, Surface Transportation,Bridge, Planning, and Research Projects” for “
+Substitute, Congestion Mitigation and Air Quality Improvement, Surface Transportation, Bridge, Planning, and Research Projects” for “
 
 Substitute, Urban, Secondary, Bridge, Planning, Research, and Safety Construction Projects”.
 

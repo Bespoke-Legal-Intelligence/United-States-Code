@@ -44,9 +44,27 @@ Subject to any regulations prescribed or guidelines established by the Secretary
 
 &emsp;(2) to conduct a merit review of all proposals for grants and contracts to be awarded under section 1124 of this title.
 
-(Pub. L. 89–454, title II, §207, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–220, title III, §3104(b)(1)(E), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 105–160, §7, Mar. 6, 1998, 112 Stat. 24.)
+#### (e) Annual report on progress
+
+#### (1) Report requirement
+
+&emsp;The Secretary shall report annually to the Committee on Resources and the Committee on Science of the House of Representatives, and to the Committee on Commerce, Science, and Transportation of the Senate, on efforts and progress made by colleges, universities, institutions, associations, and alliances to become designated under this section as sea grant colleges or sea grant institutes, including efforts and progress made by sea grant institutes in being designated as sea grant colleges.
+
+#### (2) Territories and freely associated States
+
+&emsp;The report shall include description of—
+
+&emsp;&emsp;(A) efforts made by colleges, universities, associations, institutions, and alliances in United States territories and freely associated States to develop the expertise necessary to be designated as a sea grant institute or sea grant college;
+
+&emsp;&emsp;(B) the administrative, technical, and financial assistance provided by the Secretary to those entities seeking to be designated; and
+
+&emsp;&emsp;(C) the additional actions or activities necessary for those entities to meet the qualifications for such designation under subsection (a)(1) of this section.
+
+(Pub. L. 89–454, title II, §207, as added Pub. L. 94–461, §2, Oct. 8, 1976, 90 Stat. 1966; amended Pub. L. 100–220, title III, §3104(b)(1)(E), Dec. 29, 1987, 101 Stat. 1470; Pub. L. 105–160, §7, Mar. 6, 1998, 112 Stat. 24; Pub. L. 107–299, §8, Nov. 26, 2002, 116 Stat. 2348.)
 
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–299 added subsec. (e).
 
 1998—Pub. L. 105–160 amended section catchline and text generally. Prior to amendment text consisted of subsecs. (a) to (c) relating to authorization of the Secretary to designate sea grant college and sea grant regional consortia with certain prerequisites, requirement of regulations to prescribe qualifications and guidelines, and authorization of the Secretary to suspend or terminate any designation.
 

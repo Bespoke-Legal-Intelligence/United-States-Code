@@ -6,7 +6,7 @@ There is hereby established within the Department of the Interior the National M
 
 &emsp;(1) annual grants to the National Trust for Historic Preservation for subgrants administered by the National Trust for maritime heritage education projects under subsection (b) of this section;
 
-&emsp;(2) grants to State Historic Preservation Officers for maritime heritage preservation projects carried out or administered by those Officers under subsection (c) of this section; and
+&emsp;(2) grants to State Historic Preservation Officers for maritime heritage preservationprojects carried out or administered by those Officers under subsection (c) of this section; and
 
 &emsp;(3) grants for interim projects under subsection (j) of this section.
 
@@ -66,7 +66,7 @@ There is hereby established within the Department of the Interior the National M
 
 &emsp;&emsp;(C) repair, restoration, stabilization, maintenance, or other capital improvements to historic maritime resources, in accordance with standards prescribed by the Secretary; and
 
-&emsp;&emsp;(D) research, recording (through drawings, photographs, or otherwise), planning\(through feasibility studies, architectural and engineering services, or otherwise), and other services carried out as part of a preservation program for historic maritime resources.
+&emsp;&emsp;(D) research, recording (through drawings, photographs, or otherwise), planning (through feasibility studies, architectural and engineering services, or otherwise), and other services carried out as part of a preservation program for historic maritime resources.
 
 #### (d) Criteria for direct grant and subgrant eligibility
 

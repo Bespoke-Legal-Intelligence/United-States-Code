@@ -4,7 +4,7 @@
 
 &emsp;(1) a member of a uniformed service who is on active duty; and
 
-&emsp;(2) a member of a uniformed service, or a member of the National Guard who is not a Reserve of the Army or the Air Force, who is participating in full-time training, training duty with pay, or other full-time duty, provided by law, including participation in exercises or the performance of duty under section10302, 10305, 10502, or 12402 of title 10, or section 503, 504, 505, or 506 of title 32.
+&emsp;(2) a member of a uniformed service, or a member of the National Guard who is not a Reserve of the Army or the Air Force, who is participating in full-time training, training duty with pay, or other full-time duty, provided by law, including participation in exercises or the performance of duty under section 10302, 10305, 10502, or 12402 of title 10, or section 503, 504, 505, or 506 of title 32.
 
 (b) For the purposes of subsection (a), under regulations prescribed by the President, the time necessary for a member of a uniformed service who is called or ordered to active duty for a period of more than 30 days to travel from his home to his first duty station and from his last duty station to his home, by the mode of transportation authorized in his call or orders, is considered active duty.
 
@@ -36,7 +36,7 @@
 
 (2) In the case of a member who receives earned income from nonmilitary employment or self-employment performed in any month in which the member is otherwise entitled to pay and allowances under paragraph (1), the total pay and allowances shall be reduced by the amount of such income. In calculating earned income for the purpose of the preceding sentence, income from an income protection plan, vacation pay, or sick leave which the member elects to receive shall be considered.
 
-(h)(1) A member of a reserve component of a uniformed service who is physically able to perform his military duties, is entitled, upon request, to a portion of the monthly pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service for each month for which the member demonstrates a loss of earned income from nonmilitary employment or self-employment as a result of an injury, illness, or disease incurred or aggravated—
+(h)(1) A member of a reserve component of a uniformed service who is physically able to perform his military duties, is entitled, upon request, to a portion of the monthly pay and allowances provided by law or regulation for a member of a regular component of a uniformed service of corresponding grade and length of service for each month for which the memberdemonstrates a loss of earned income from nonmilitary employment or self-employment as a result of an injury, illness, or disease incurred or aggravated—
 
 &emsp;(A) in line of duty while performing active duty;
 
@@ -66,11 +66,11 @@
 
 &emsp;(A) by the Secretary of Defense for the armed forces under the jurisdiction of the Secretary; and
 
-&emsp;(B) by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+&emsp;(B) by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
 (j) A member of the uniformed services who is entitled to medical or dental care under section 1074a of title 10 is entitled to travel and transportation allowances, or a monetary allowance in place thereof, for necessary travel incident to such care, and return to his home upon discharge from treatment.
 
-(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 457; Pub. L. 96–513, title V, §506(4), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 98–94, title X, §1012(b), Sept. 24, 1983, 97 Stat. 665; Pub. L. 99–433, title V, §531(b), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 99–661, div. A, title VI, §604(b), Nov. 14, 1986, 100 Stat. 3875; Pub. L. 100–456, div. A, title VI, §631(a), (b), Sept. 29, 1988, 102 Stat. 1984, 1985; Pub. L. 102–25, title VII, §701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title XVI, §1676(b)(1), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title VII, §702(c), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(f), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–168; Pub. L. 107–107, div. A, title V, §513(d), Dec. 28, 2001, 115 Stat. 1093.)
+(Pub. L. 87–649, Sept. 7, 1962, 76 Stat. 457; Pub. L. 96–513, title V, §506(4), Dec. 12, 1980, 94 Stat. 2919; Pub. L. 98–94, title X, §1012(b), Sept. 24, 1983, 97 Stat. 665; Pub. L. 99–433, title V, §531(b), Oct. 1, 1986, 100 Stat. 1063; Pub. L. 99–661, div. A, title VI, §604(b), Nov. 14, 1986, 100 Stat. 3875; Pub. L. 100–456, div. A, title VI, §631(a), (b), Sept. 29, 1988, 102 Stat. 1984, 1985; Pub. L. 102–25, title VII, §701(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 103–337, div. A, title XVI, §1676(b)(1), Oct. 5, 1994, 108 Stat. 3019; Pub. L. 104–106, div. A, title VII, §702(c), Feb. 10, 1996, 110 Stat. 371; Pub. L. 105–85, div. A, title V, §513(f), Nov. 18, 1997, 111 Stat. 1732; Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(a)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–168; Pub. L. 107–107, div. A, title V, §513(d), Dec. 28, 2001, 115 Stat. 1093; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314.)
 
 Historical and Revision Notes
 
@@ -164,6 +164,8 @@ In subsection (i), the inclusion of the Coast Guard Reserve is based on the auth
 
 #### Amendments
 
+2002—Subsec. (i)(4)(B). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
 2001—Subsecs. (g)(1)(D), (h)(1)(D). Pub. L. 107–107 struck out “, if the site is outside reasonable commuting distance from the member's residence” before semicolon.
 
 2000—Subsec. (g)(1)(E). Pub. L. 106–398, §1 \[\[div. A\], title VI, §665(a)(1)\], added subpar. (E).
@@ -209,6 +211,10 @@ Subsecs. (i), (j). Pub. L. 99–661, §604(b)(2), (3), redesignated subsec. (j) 
 1983—Subsec. (j). Pub. L. 98–94 added subsec. (j).
 
 1980—Subsec. (a). Pub. L. 96–513 substituted “The following persons” for “Except for members covered by section 202(i) of this title, the following persons”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 2000 Amendment
 

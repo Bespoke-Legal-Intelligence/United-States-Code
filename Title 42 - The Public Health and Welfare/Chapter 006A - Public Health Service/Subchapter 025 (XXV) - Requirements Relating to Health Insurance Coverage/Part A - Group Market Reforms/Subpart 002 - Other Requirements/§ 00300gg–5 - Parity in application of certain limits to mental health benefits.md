@@ -86,9 +86,9 @@ For purposes of this section—
 
 #### (f) Sunset
 
-This section shall not apply to benefits for services furnished on or after December 31, 2002.
+This section shall not apply to benefits for services furnished on or after December 31, 2003.
 
-(July 1, 1944, ch. 373, title XXVII, §2705, as added Pub. L. 104–204, title VII, §703(a), Sept. 26, 1996, 110 Stat. 2947; amended Pub. L. 107–116, title VII, §701(b), Jan. 10, 2002, 115 Stat. 2228.)
+(July 1, 1944, ch. 373, title XXVII, §2705, as added Pub. L. 104–204, title VII, §703(a), Sept. 26, 1996, 110 Stat. 2947; amended Pub. L. 107–116, title VII, §701(b), Jan. 10, 2002, 115 Stat. 2228; Pub. L. 107–313, §2(b), Dec. 2, 2002, 116 Stat. 2457.)
 
 #### Prior Provisions
 
@@ -96,7 +96,9 @@ A prior section 2705 of act July 1, 1944, was successively renumbered by subsequ
 
 #### Amendments
 
-2002—Subsec. (f). Pub. L. 107–116 substituted “December 31, 2002” for “September 30, 2001”.
+2002—Subsec. (f). Pub. L. 107–313 substituted “December 31, 2003” for “December 31, 2002”.
+
+Pub. L. 107–116 substituted “December 31, 2002” for “September 30, 2001”.
 
 #### Effective Date
 

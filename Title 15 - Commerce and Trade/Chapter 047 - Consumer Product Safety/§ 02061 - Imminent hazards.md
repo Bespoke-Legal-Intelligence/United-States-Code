@@ -22,7 +22,7 @@ Where appropriate, concurrently with the filing of such action or as soon therea
 
 #### (e) Employment of attorneys by Commission
 
-Notwithstanding any other provision of law, in any action under this section, the Commission may direct attorneys employed by it to appear and represent it.
+Notwithstanding any other provision of law, in any action under this section, the Commissionmay direct attorneys employed by it to appear and represent it.
 
 #### (g) <sup>1</sup> Cost-benefit analysis of compliance with relief ordered in action for judicial review of consumer product safety rule not required
 

@@ -4,7 +4,7 @@
 
 #### (1) Requirement
 
-&emsp;During the period ending 30 months after the date on which an order is first issued under section 7443(b)(3) of this title, the Secretary shall conduct a referendum among producers who, during a representative period as determined by the Secretary, have been engaged in the production of canola or rapeseed for the purpose of ascertaining whether the order then in effect shall be continued.
+&emsp;During the period ending 30 months after the date on which an order is first issued under section 7443(b)(3) of this title, the Secretary shall conduct a referendum among producerswho, during a representative period as determined by the Secretary, have been engaged in the production of canola or rapeseed for the purpose of ascertaining whether the order then in effect shall be continued.
 
 #### (2) Advance notice
 
@@ -28,7 +28,7 @@
 
 #### (B) Representative group of producers
 
-&emsp;&emsp;An additional referendum on an order shall be conducted if requested by 10 percentor more of the producers who, during a representative period as determined by the Secretary, have been engaged in the production of canola or rapeseed.
+&emsp;&emsp;An additional referendum on an order shall be conducted if requested by 10 percent or more of the producers who, during a representative period as determined by the Secretary, have been engaged in the production of canola or rapeseed.
 
 #### (C) Eligible producers
 

@@ -12,7 +12,7 @@ The Commission shall by regulation exempt from the requirements of this subchapt
 
 #### References in Text
 
-This subchapter, referred to the last time in subsecs. (a) and (b), was in the original “this chapter” and wastranslated as reading “this title” meaning title III of Pub. L. 102–556, to reflect the probable intent of Congress because Pub. L. 102–556 does not contain chapters.
+This subchapter, referred to the last time in subsecs. (a) and (b), was in the original “this chapter” and was translated as reading “this title” meaning title III of Pub. L. 102–556, to reflect the probable intent of Congress because Pub. L. 102–556 does not contain chapters.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -90,7 +90,7 @@ Notwithstanding any other provision of law, the Secretary of Defense (hereinafte
 
 #### (g) Periodic reports
 
-(1) Except as provided by paragraph (3), the Secretary shall transmit, by December 15 of each year, a report to the Congress on the activities carried out under this section during the fiscal year ending on September 30 of the calendar year in which the report is to be made.
+(1) Except as provided by paragraph (3), the Secretary shall transmit, by December 15 ofeach year, a report to the Congress on the activities carried out under this section during the fiscal year ending on September 30 of the calendar year in which the report is to be made.
 
 (2) Each annual report shall include the following:
 
@@ -158,7 +158,7 @@ For purposes of this section:
 
 (3) If the Secretary determines at any time that there will be a delay in meeting the deadline of December 31, 1990, scheduled by the Department of Defense for completion of the operational verification at Johnston Atoll referred to in paragraph (1), the Secretary shall immediately notify the Committees of that projected delay.
 
-(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118, Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229.)
+(Pub. L. 99–145, title XIV, §1412, Nov. 8, 1985, 99 Stat. 747; Pub. L. 100–456, div. A, title I, §118,Sept. 29, 1988, 102 Stat. 1934; Pub. L. 101–510, div. A, title I, §§171, 172, Nov. 5, 1990, 104 Stat. 1507; Pub. L. 102–190, div. A, title I, §151, Dec. 5, 1991, 105 Stat. 1313; Pub. L. 102–484, div. A, title I, §§171, 179, Oct. 23, 1992, 106 Stat. 2341, 2347; Pub. L. 103–160, div. A, title I, §107(c), Nov. 30, 1993, 107 Stat. 1564; Pub. L. 103–337, div. A, title I, §142, Oct. 5, 1994, 108 Stat. 2689; Pub. L. 104–106, div. A, title I, §153(b), (c), title XV, §1502(c)(6), Feb. 10, 1996, 110 Stat. 216, 508; Pub. L. 104–201, div. A, title X, §1074(d)(2), Sept. 23, 1996, 110 Stat. 2661; Pub. L. 105–85, div. A, title X, §1041(d), Nov. 18, 1997, 111 Stat. 1885; Pub. L. 105–261, div. A, title I, §141, Oct. 17, 1998, 112 Stat. 1942; Pub. L. 106–65, div. A, title I, §141(b), title X, §1067(11), Oct. 5, 1999, 113 Stat. 537, 775; Pub. L. 107–107, div. A, title X, §1048(i)(4), Dec. 28, 2001, 115 Stat. 1229.)
 
 #### Codification
 
@@ -261,6 +261,22 @@ Subsec. (b)(3)(B). Pub. L. 100–456, §118(a)(2), substituted “not later than
 Subsec. (b)(4), (5). Pub. L. 100–456, §118(a)(3), added pars. (4) and (5).
 
 Subsec. (k). Pub. L. 100–456, §118(b), amended subsec. (k) generally. Prior to amendment, subsec. (k) read as follows: “The provisions of this section shall take effect on October 1, 1985.”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Management of Chemical Demilitarization Activities at Bluegrass Army Depot, Kentucky and Pueblo Army Depot, Colorado
+
+Pub. L. 107–248, title VIII, §8122, Oct. 23, 2002, 116 Stat. 1566, provided that:
+
+“(a)
+
+Management of Chemical Demilitarization Activities at Bluegrass Army Depot, Kentucky.—If a technology other than the baseline incineration program is selected for the destruction of lethal chemical munitions pursuant to section 142 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 (Public Law 105–261; 50 U.S.C. 1521 note), the program manager for the Assembled Chemical Weapons Assessment shall be responsible for management of the construction, operation, and closure, and any contracting relating thereto, of chemical demilitarization activities at Bluegrass Army Depot, Kentucky, including management of the pilot-scale facility phase of the alternative technology.
+
+“(b)
+
+Management of Chemical Demilitarization Activities at Pueblo Depot, Colorado.—The program manager for the Assembled Chemical Weapons Assessment shall be responsible for management of the construction, operation, and closure, and any contracting relating thereto, of chemical demilitarization activities at Pueblo Army Depot, Colorado, including management of the pilot-scale facility phase of the alternative technology selected for the destruction of lethal chemical munitions.”
 
 #### Alternative Technologies for Destruction of Assembled Chemical Weapons
 
@@ -444,7 +460,7 @@ Assessment of Alternative Technologies for Demilitarization of Assembled Chemica
 
 “(f)
 
-Pilot Program for Demilitarization of Chemical Agents for Assembled Munitions.—(1) If the Secretary of Defense makes a decision to continue the development of an alternative demilitarization technology or process (other than incineration) that could be used for the destruction of the lethal chemical agents that are associated with assembled chemical munitions, $25,000,000 shall be available from the funds authorized to be appropriated in section 107 of the National Defense Authorization Act for Fiscal Year 1997 \[Pub. L. 104–201, 110 Stat. 2440\] for the chemical agents and munitions destruction program, in order to initiate a pilot program using the selected alternative technology or process for the destruction of chemical agents that are stored at these sites.
+Pilot Program for Demilitarization of Chemical Agents for Assembled Munitions.—(1) If the Secretary of Defense makes a decision to continue the development of an alternative demilitarization technology or process (other than incineration) that could be used for the destruction of the lethal chemicalagents that are associated with assembled chemical munitions, $25,000,000 shall be available from the funds authorized to be appropriated in section 107 of the National Defense Authorization Act for Fiscal Year 1997 \[Pub. L. 104–201, 110 Stat. 2440\] for the chemical agents and munitions destruction program, in order to initiate a pilot program using the selected alternative technology or process for the destruction of chemical agents that are stored at these sites.
 
 “(2) Not less than 30 days before using funds to initiate the pilot program under paragraph (1), the Secretary shall submit notice in writing to Congress of the Secretary's intent to do so.
 
@@ -528,7 +544,7 @@ Applicability of Certain Provisions of Section 1412.—Subsection (c) of section
 
 “(d)
 
-Submission of Revised Plan.—If the Secretary is required to submit a revised concept plan under this section, the Secretary shall submit the revised concept plan during the 120-day period beginning at the end of the 60-day period following the submission of the report of the Secretary required under section 173 \[106 Stat. 2342\].
+Submission of Revised Plan.—If the Secretary is required to submit a revised concept plan under this section, the Secretary shall submit the revised concept plan during the 120-day period beginning at the end ofthe 60-day period following the submission of the report of the Secretary required under section 173 \[106 Stat. 2342\].
 
 “(e)
 
@@ -583,6 +599,10 @@ Surveillance and Assessment Program.—The Secretary of Defense shall conduct an
 &emsp;“(1) surveillance of the existing United States stockpile of chemical weapons; and
 
 &emsp;“(2) assessment of the condition of the stockpile.”
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1521a of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “agents”.</i>
 

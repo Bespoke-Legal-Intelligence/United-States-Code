@@ -1,6 +1,6 @@
 ### §736. Date of rank upon promotion; entitlement to pay
 
-(a) When a Reserve officer is promoted to the next higher grade under this subchapter, the same date of rank shall be assigned as that assigned to the officer's running mate. A Reserve officer so promoted shall be allowed the pay and allowances of the higher grade for duty performed from the date of the officer's appointment thereto.
+(a) When a Reserve officer is promoted to the next higher grade under this subchapter, the date of rank shall be the date of appointment in that grade, unless the promotion was determined in accordance with a running mate system, in which event the same date of rank shall be assigned as that assigned to the officer's running mate. A Reserve officer so promoted shall be allowed the pay and allowances of the higher grade for duty performed from the date of the officer's appointment thereto.
 
 (b) Notwithstanding any other law, when the running mate of a reserve officer serving in the grade of rear admiral (lower half) is promoted to the grade of rear admiral, the reserve officer shall also be promoted to that grade.
 
@@ -10,13 +10,15 @@
 
 &emsp;(2) for any other reason that equity requires.
 
-(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1012; amended Pub. L. 97–417, §2(14), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–225, title II, §203(4), Dec. 12, 1989, 103 Stat. 1911.)
+(Added Pub. L. 96–322, §1, Aug. 4, 1980, 94 Stat. 1012; amended Pub. L. 97–417, §2(14), Jan. 4, 1983, 96 Stat. 2086; Pub. L. 99–145, title V, §514(c)(1), Nov. 8, 1985, 99 Stat. 629; Pub. L. 101–225, title II, §203(4), Dec. 12, 1989, 103 Stat. 1911; Pub. L. 107–295, title IV, §411(c), Nov. 25, 2002, 116 Stat. 2118.)
 
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 784 of this title prior to the complete revision of this chapter by Pub. L. 96–322.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–295 inserted “the date of rank shall be the date of appointment in that grade, unless the promotion was determined in accordance with a running mate system, in which event” after “subchapter,”.
 
 1989—Subsec. (c). Pub. L. 101–225 inserted provision authorizing Secretary to adjust date of appointment.
 

@@ -2,7 +2,7 @@
 
 The Secretary shall utilize the Deputy Assistant Secretary for Population Affairs—
 
-&emsp;(1) to administer all Federal laws for which the Secretary has administrative responsibility and which provide for or authorize the making of grants or contracts related to population research and family planning programs;
+&emsp;(1) to administer all Federal laws for which the Secretary has administrative responsibility and which provide for or authorize themaking of grants or contracts related to population research and family planning programs;
 
 &emsp;(2) to administer and be responsible for all population and family planning research carried on directly by the Department of Health and Human Services or supported by the Department through grants to, or contracts with, entities and individuals;
 

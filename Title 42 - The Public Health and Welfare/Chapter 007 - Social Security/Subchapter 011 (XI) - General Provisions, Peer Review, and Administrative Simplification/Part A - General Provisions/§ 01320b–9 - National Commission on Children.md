@@ -142,7 +142,7 @@ The Commission shall submit to the President, and to the Committees on Finance a
 
 (5) Decisions of the Commission shall be according to the vote of a simple majority of those present and voting at a properly called meeting.
 
-(6) Members of the Commission shall serve without compensation, but shall be reimbursedfor travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the Commission.
+(6) Members of the Commission shall serve without compensation, but shall be reimbursed for travel, subsistence, and other necessary expenses incurred in the performance of their duties as members of the Commission.
 
 #### (f) Executive Director and additional personnel; appointment and compensation; consultants
 
@@ -166,7 +166,7 @@ The General Services Administration shall provide to the Commission, on a reimbu
 
 #### (j) Authorization of appropriations
 
-There are authorized to be appropriated through fiscal year 1991, such sums as may be necessary to carry out this section for each of fiscal years 1989 and 1990.
+There are authorized to be appropriated through fiscal year 1991, such sums as may benecessary to carry out this section for each of fiscal years 1989 and 1990.
 
 #### (k) Donations accepted and deposited in Treasury in separate fund; expenditures; gift or bequest to or for use of United States
 
@@ -228,7 +228,7 @@ Section 264(d) of Pub. L. 103–432 provided that: “Section 5057 of OBRA–199
 
 #### Termination of Advisory Commissions
 
-Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, such commission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory commissions established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a commission established by the President or an officer of the Federal Government, suchcommission is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a commission established by the Congress, its duration is otherwise provided for by law. See sections 3(2) and 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 770, 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 <i><sup>1</sup></i><i> So in original. No par. (2) has been enacted.</i>
 

@@ -56,7 +56,7 @@ In subsection (b), the words “real property” are substituted for “lands, t
 
 In subsection (b)(1), the words “by any delinquent officer”, “declared to be”, “of a levy in pursuance of”, and “against him” are omitted as surplus.
 
-In subsection (b)(2), the words “personal property” are substituted for “goods and chattels” for consistency. The words “issued pursuant to sections 506 to 510 of this title” are omitted because of the restatement. The words “or so much thereof as may be necessary for that purpose” and “of such district or his deputy” are omitted as unnecessary. The last sentence is substituted for 31:512 to eliminate unnecessary words.
+In subsection (b)(2), the words “personal property” are substituted for “goods and chattels” for consistency. The words “issued pursuant to sections 506 to 510 of this title” are omitted because of the restatement. The words “or so much thereof as may be necessary for that purpose” and “of such district or his deputy” areomitted as unnecessary. The last sentence is substituted for 31:512 to eliminate unnecessary words.
 
 In subsection (c), the words “that part” are substituted for “All moneys” for clarity.
 

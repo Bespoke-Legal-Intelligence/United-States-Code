@@ -10,7 +10,7 @@ The Secretary is authorized and directed to the maximum extent feasible to emplo
 
 #### (c) Payment requirements for acquisition of Hassel Island from United States
 
-Subject to continued protection and use of Hassel Island for park and recreation purposes, and such other conditions as the Secretary may deem appropriate, the Territory of the Virgin Islands may, within, but not after, five years after August 18, 1978, by duly enacted legislation acquire all interests of the United States in HasselIsland by reimbursing the United States in an amount equal to the amount actually expended by the United States for the acquisition of lands and interests in lands and for the costs of construction of permanent improvements, if any.
+Subject to continued protection and use of Hassel Island for park and recreation purposes, and such other conditions as the Secretary may deem appropriate, the Territory of the Virgin Islands may, within, but not after, five years after August 18, 1978, by duly enacted legislation acquire all interests of the United States in Hassel Island by reimbursing the United States in an amount equal to the amount actually expended by the United States for the acquisition of lands and interests in lands and for the costs of construction of permanent improvements, if any.
 
 #### (d) Rights of owners of improved property on Hassel Island to use and occupancy of property for noncommercial residential purposes; term; payment requirements; suspension of authority to condemn Royal Mail property; “improved property” defined; termination of rights of owners to use and occupancy
 
@@ -18,7 +18,7 @@ Subject to continued protection and use of Hassel Island for park and recreation
 
 (2) As used in subsection (d)(1) of this section, “improved property” means a single-family dwelling, the construction of which began before January 1, 1977, together with such lands as are in the same ownership and appurtenant buildings located thereon.
 
-(3) The Secretary may terminate a right of use and occupancy retained pursuant to subsection (d)(1) of this section upon his determination that such use and occupancy is being, or may be, exercised in a manner inconsistent with the purposes for which they were included within the park and upon tender to the holder of such right of the amount equal to the value of that portion of the right which remains unexpired on the date of termination.
+(3) The Secretary may terminate a right of use and occupancy retained pursuant to subsection (d)(1) of this section upon his determination that such use and occupancy is being, or may be, exercised in a manner inconsistent with the purposes for which they were included within thepark and upon tender to the holder of such right of the amount equal to the value of that portion of the right which remains unexpired on the date of termination.
 
 (Pub. L. 87–750, §2, Oct. 5, 1962, 76 Stat. 747; Pub. L. 95–348, §7(b)(1)–(3), Aug. 18, 1978, 92 Stat. 494.)
 

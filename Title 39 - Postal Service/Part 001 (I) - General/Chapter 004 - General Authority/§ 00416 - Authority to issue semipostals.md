@@ -4,7 +4,7 @@
 
 Definitions.—For purposes of this section—
 
-&emsp;(1) the term “semipostal” means a postage stamp which is issued and sold by the PostalService, at a premium, in order to help provide funding for a cause described in subsection (b); and
+&emsp;(1) the term “semipostal” means a postage stamp which is issued and sold by the Postal Service, at a premium, in order to help provide funding for a cause described in subsection (b); and
 
 &emsp;(2) the term “agency” means an Executive agency within the meaning of section 105 of title 5.
 
@@ -155,6 +155,8 @@ Definitions.—For purposes of this section—
 &emsp;“(1) the term ‘emergency relief personnel’ means firefighters, law enforcement officers, paramedics, emergency medical technicians, members of the clergy, and other individuals (including employees of legally organized and recognized volunteer organizations, whether compensated or not) who, in the course of professional duties, respond to fire, medical, hazardous material, or other similar emergencies; and
 
 &emsp;“(2) the term ‘semipostal’ has the meaning given such term by section 416 of title 39, United States Code.”
+
+\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 
 #### Domestic Violence Semipostal Stamp
 

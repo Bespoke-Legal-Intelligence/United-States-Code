@@ -2,7 +2,7 @@
 
 There are authorized to be appropriated to carry out this part $138,000,000 for fiscal year 1993 and $143,796,000 for fiscal year 1994.
 
-(Pub. L. 100–77, title IV, §417, July 22, 1987, 101 Stat. 498; Pub. L. 100–628, title IV, §425, Nov. 7, 1988, 102 Stat. 3232; Pub. L. 101–625, title VIII, §832(a), Nov. 28, 1990, 104 Stat. 4359; Pub. L. 102–550, title XIV, §1402(a), Oct. 28, 1992, 106 Stat. 4012.)
+(Pub. L. 100–77, title IV, §417, July 22, 1987, 101 Stat. 498; Pub. L. 100–628, title IV, §425, Nov. 7,1988, 102 Stat. 3232; Pub. L. 101–625, title VIII, §832(a), Nov. 28, 1990, 104 Stat. 4359; Pub. L. 102–550, title XIV, §1402(a), Oct. 28, 1992, 106 Stat. 4012.)
 
 #### Amendments
 

@@ -20,7 +20,7 @@ The Congress finds that—
 
 &emsp;(9) A national system for the collection, analysis, and dissemination of fire data is needed to help local fire services establish research and action priorities.
 
-&emsp;(10) The number of specialized medical centers which are properly equipped and staffedfor the treatment of burns and the rehabilitation of victims of fires is inadequate.
+&emsp;(10) The number of specialized medical centers which are properly equipped and staffed for the treatment of burns and the rehabilitation of victims of fires is inadequate.
 
 &emsp;(11) The unacceptably high rates of death, injury, and property loss from fire can be reduced if the Federal Government establishes a coordinated program to support and reinforce the fire prevention and control activities of State and local governments.
 
@@ -44,7 +44,7 @@ Pub. L. 103–254, §1, May 19, 1994, 108 Stat. 679, provided that: “This Act 
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: “This Act \[enacting sections 2224, 2225, 2225a and 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the ‘Hotel and Motel Fire Safety Act of 1990’.”
+Pub. L. 101–391, §1, Sept. 25, 1990, 104 Stat. 747, provided that: “This Act \[enacting sections 2224, 2225, 2225aand 2226 of this title and section 5707a of Title 5, Government Organization and Employees, amending section 2203 of this title and sections 5701 and 5707 of Title 5, and enacting provisions set out as notes under this section and sections 5707 and 5707a of Title 5\] may be cited as the ‘Hotel and Motel Fire Safety Act of 1990’.”
 
 #### Short Title
 
@@ -84,6 +84,8 @@ Grant Authorization.—The Attorney General, in consultation with the Director o
 
 Authorization of Appropriations.—There are authorized to be appropriated for fiscal year 1997, $5,000,000 to carry out this section.”
 
+\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
 #### Arson Prevention and Control; Congressional Findings
 
 Pub. L. 103–254, §2, May 19, 1994, 108 Stat. 679, provided that: “Congress finds that—
@@ -118,7 +120,7 @@ Findings.—Congress finds that—
 
 &emsp;“(3) automatic sprinklers and smoke detectors should supplement and not supplant other fire protection measures, including existing requirements for fire resistive walls and fire retardant furnishings;
 
-&emsp;“(4) some State and local governments and the hotel industry need to act more rapidly to require theinstallation and use of automatic sprinkler systems in hotels; and
+&emsp;“(4) some State and local governments and the hotel industry need to act more rapidly to require the installation and use of automatic sprinkler systems in hotels; and
 
 &emsp;“(5) through the United States Fire Administration and the Center for Fire Research, the Federal Government has helped to develop and promote the use of residential sprinkler systems and other means of fire prevention and control.
 
@@ -266,7 +268,7 @@ The White House, June 19, 1978
 
 Ex. Ord. No. 12127, Mar. 31, 1979, 44 F.R. 19367, provided:
 
-By the authority vested in me as President by the Constitution and laws of the United States of America, including Section 304 of Reorganization Plan No. 3 of 1978 \[set out as a note under this section\], and in order to provide for the orderly activation of the Federal Emergency Management Agency, it is hereby ordered as follows:
+By the authority vested in me as President by the Constitution and laws of the United States of America,including Section 304 of Reorganization Plan No. 3 of 1978 \[set out as a note under this section\], and in order to provide for the orderly activation of the Federal Emergency Management Agency, it is hereby ordered as follows:
 
 1–101. Reorganization Plan No. 3 of 1978 (43 FR 41943), which establishes the Federal Emergency Management Agency, provides for the transfer of functions, and the transfer and abolition of agencies and offices, is hereby effective.
 

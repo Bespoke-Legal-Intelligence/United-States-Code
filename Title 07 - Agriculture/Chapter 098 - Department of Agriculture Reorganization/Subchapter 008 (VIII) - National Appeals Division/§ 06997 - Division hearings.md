@@ -10,7 +10,7 @@
 
 &emsp;The Director and hearing officer shall have the authority to require the attendance of witnesses, and the production of evidence, by subpoena and to administer oaths and affirmations. Except to the extent required for the disposition of ex parte matters as authorized by law—
 
-&emsp;&emsp;(A) an interested person outside the Division shall not make or knowingly cause to be made to the Director or a hearing officer who is or may reasonably be expected to be involved in the evidentiary hearing or review of an adverse decision, an ex parte communication (as defined in section 551(14) of title 5) relevant to the merits of the proceeding;
+&emsp;&emsp;(A) an interested person outside the Division shall not make or knowingly cause to be made to the Director or a hearing officer who is or may reasonably be expected to be involved in the evidentiary hearing or review of an adverse decision, an ex parte communication (as defined in section 551(14) oftitle 5) relevant to the merits of the proceeding;
 
 &emsp;&emsp;(B) the Director and such hearing officer shall not make or knowingly cause to be made to any interested person outside the Division an ex parte communication relevant to the merits of the proceeding.
 

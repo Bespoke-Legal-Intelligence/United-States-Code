@@ -14,7 +14,7 @@ Allowances Authorized.—(1) The Secretary concerned may provide round trip trav
 
 Limitations.—(1) Except as provided in paragraphs (2) and (3), allowances under subsection (a) are limited to travel and transportation to a location in the United States, Puerto Rico, and the possessions of the United States and may not exceed the rates for two days and the time necessary for such travel.
 
-(2) If a deceased member was ordered or called to active duty from a place outside the United States, Puerto Rico, or the possessions of theUnited States, the allowances authorized under subsection (a) may be provided to and from such place and may not exceed the rates for two days and the time necessary for such travel.
+(2) If a deceased member was ordered or called to active duty from a place outside the United States, Puerto Rico, or the possessions of the United States, the allowances authorized under subsection (a) may be provided to and from such place and may not exceed the rates for two days and the time necessary for such travel.
 
 (3) If a deceased member is interred in a cemetery maintained by the American Battle Monuments Commission, the travel and transportation allowances authorized under subsection (a) may be provided to and from such cemetery and may not exceed the rates for two days and the time necessary for such travel.
 
@@ -36,7 +36,7 @@ Eligible Relatives.—(1) The following members of the family of a deceased memb
 
 (d)
 
-Expanded Allowances Related to Recovery of Remains From Vietnam Conflict.—(1) The Secretary of Defense may provide round trip travel and transportation allowances for the family of a deceased member of the armed forces who died while classified as a prisoner of war or as missing in action during the Vietnam conflict and whose remains are returned to the United States in order that the family members may attend the burial ceremony of the deceased member.
+Expanded Allowances Related to Recovery of Remains From Vietnam Conflict.—(1) The Secretary of Defense may provide round trip travel and transportation allowances for the family of a deceased member of the armed forces who died while classified as a prisoner of war or as missing in action during the Vietnam conflict and whose remains are returned to the United States in order that the family membersmay attend the burial ceremony of the deceased member.
 
 (2) The allowances under paragraph (1) shall include round trip transportation from the places of residence of such family members to the burial ceremony and such living expenses and other allowances as the Secretary of Defense considers appropriate.
 

@@ -8,13 +8,13 @@
 
 #### Amendments
 
-<b>2000</b>—Subsec. (b). Pub. L. 106–518 substituted “except the following: chapters 45 (Incentive Awards), 63 (Leave), 81 (Compensation for Work Injuries), 83 (Retirement), 85 (Unemployment Compensation), 87 (Life Insurance), and 89 (Health Insurance), and subchapter VI of chapter 55 (Payment for accumulated and accrued leave)” for “United States Code, except the following chapters: 45 (Incentive Awards), 81 (Compensation for Work Injuries), 83 (Retirement), 85 (Unemployment Compensation), 87 (Life Insurance), and 89 (Health Insurance)”.
+2000—Subsec. (b). Pub. L. 106–518 substituted “except the following: chapters 45 (Incentive Awards), 63 (Leave), 81 (Compensation for Work Injuries), 83 (Retirement), 85 (Unemployment Compensation), 87 (Life Insurance), and 89 (Health Insurance), and subchapter VI of chapter 55 (Payment for accumulated and accrued leave)” for “United States Code, except the following chapters: 45 (Incentive Awards), 81 (Compensation for Work Injuries), 83 (Retirement), 85 (Unemployment Compensation), 87 (Life Insurance), and 89 (Health Insurance)”.
 
-<b>1994</b>—Subsec. (a). Pub. L. 103–322 substituted “the Staff Director” for “him” after “assigned to”.
+1994—Subsec. (a). Pub. L. 103–322 substituted “the Staff Director” for “him” after “assigned to”.
 
-<b>1990</b>—Subsec. (b). Pub. L. 101–650 substituted “and 89 (Health Insurance)” for “89 (Health Insurance), and 91 (Conflicts of Interest)”.
+1990—Subsec. (b). Pub. L. 101–650 substituted “and 89 (Health Insurance)” for “89 (Health Insurance), and 91 (Conflicts of Interest)”.
 
-<b>1988</b>—Subsec. (b). Pub. L. 100–690 inserted reference to chapter 45 (Incentive Awards).
+1988—Subsec. (b). Pub. L. 100–690 inserted reference to chapter 45 (Incentive Awards).
 
 #### Savings Provision
 

@@ -6,7 +6,7 @@ The Secretary shall have power to subpoena the attendance and testimony of any w
 
 #### (b) Location of production
 
-The attendance of any witness and production of documentary evidence may be required from any place in the United States at any designated place of hearing.
+The attendance of any witness and production of documentary evidence relevant to the inquiry may be required from any place in the United States.
 
 #### (c) Enforcement of Subpoena
 
@@ -18,11 +18,23 @@ Witnesses summoned by the Secretary shall be paid the same fees and mileage that
 
 #### (e) Procedures
 
-The Secretary shall publish procedures for the issuance of subpoenas under this section. Such procedures shall include a requirement that subpoenas be reviewed for legal sufficiency and signed by the Secretary. If the authority to sign a subpoena is delegated, the agency receiving the delegation shall seek review for legal sufficiency outside that agency.
+The Secretary shall publish procedures for the issuance of subpoenas under this section. Such procedures shall include a requirement that subpoenas be reviewed for legal sufficiency and signed by the Secretary. If the authority to sign a subpoena is delegated to an agency other than the Office of Administrative Law Judges, the agency receiving the delegation shall seek review for legal sufficiency outside that agency.
 
-#### (f) Scope of subpoena
+(Pub. L. 106–224, title IV, §423, June 20, 2000, 114 Stat. 449; Pub. L. 107–171, title X, §10418(b)(2), May 13, 2002, 116 Stat. 508.)
 
-Subpoenas for witnesses to attend court in any judicial district or to testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under this chapter may run to any other judicial district.
+#### Amendments
 
-(Pub. L. 106–224, title IV, §423, June 20, 2000, 114 Stat. 449.)
+2002—Subsec. (b). Pub. L. 107–171, §10418(b)(2)(A), added subsec. (b) and struck out heading and text of former subsec. (b). Text read as follows: “The attendance of any witness and production of documentary evidence may be required from any place in the United States at any designated place of hearing.”
+
+Subsec. (e). Pub. L. 107–171, §10418(b)(2)(B), inserted “to an agency other than the Office of Administrative Law Judges” after “subpoena is delegated”.
+
+Subsec. (f). Pub. L. 107–171, §10418(b)(2)(C), struck out heading and text of subsec. (f). Text read as follows: “Subpoenas for witnesses to attend court in any judicial district or to testify or produce evidence at an administrative hearing in any judicial district in any action or proceeding arising under this chapter may run to any other judicial district.”
+
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 8401 of this title.
 

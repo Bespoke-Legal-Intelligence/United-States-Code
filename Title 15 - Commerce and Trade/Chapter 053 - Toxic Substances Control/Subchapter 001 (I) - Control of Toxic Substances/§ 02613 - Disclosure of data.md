@@ -30,7 +30,7 @@ Except as provided by subsection (b) of this section, any information reported t
 
 &emsp;(B) any data reported to, or otherwise obtained by, the Administrator from a health and safety study which relates to a chemical substance or mixture described in clause (i) or (ii) of subparagraph (A).
 
-> This paragraph does not authorize the release of any data which discloses processes used in the manufacturing or processing of a chemical substance or mixture or, in the case of a mixture, the release of data disclosing the portion of the mixture comprised by any of the chemical substances in the mixture.
+> This paragraph does not authorize the release of any data which discloses processes used in the manufacturing or processing of a chemical substance or mixture or, in the case of a mixture,the release of data disclosing the portion of the mixture comprised by any of the chemical substances in the mixture.
 
 (2) If a request is made to the Administrator under subsection (a) of section 552 of title 5 for information which is described in the first sentence of paragraph (1) and which is not information described in the second sentence of such paragraph, the Administrator may not deny such request on the basis of subsection (b)(4) of such section.
 
@@ -46,7 +46,7 @@ Except as provided by subsection (b) of this section, any information reported t
 
 #### (d) Criminal penalty for wrongful disclosure
 
-(1) Any officer or employee of the United States or former officer or employee of theUnited States, who by virtue of such employment or official position has obtained possession of, or has access to, material the disclosure of which is prohibited by subsection (a) of this section, and who knowing that disclosure of such material is prohibited by such subsection, willfully discloses the material in any manner to any person not entitled to receive it, shall be guilty of a misdemeanor and fined not more than $5,000 or imprisoned for not more than one year, or both. Section 1905 of title 18 does not apply with respect to the publishing, divulging, disclosure, or making known of, or making available, information reported or otherwise obtained under this chapter.
+(1) Any officer or employee of the United States or former officer or employee of the United States, who by virtue of such employment or official position has obtained possession of, or has access to, material the disclosure of which is prohibited by subsection (a) of this section, and who knowing that disclosure of such material is prohibited by such subsection, willfully discloses the material in any manner to any person not entitled to receive it, shall be guilty of a misdemeanor and fined not more than $5,000 or imprisoned for not more than one year, or both. Section 1905 of title 18 does not apply with respect to the publishing, divulging, disclosure, or making known of, or making available, information reported or otherwise obtained under this chapter.
 
 (2) For the purposes of paragraph (1), any contractor with the United States who is furnished information as authorized by subsection (a)(2) of this section, and any employee of any such contractor, shall be considered to be an employee of the United States.
 

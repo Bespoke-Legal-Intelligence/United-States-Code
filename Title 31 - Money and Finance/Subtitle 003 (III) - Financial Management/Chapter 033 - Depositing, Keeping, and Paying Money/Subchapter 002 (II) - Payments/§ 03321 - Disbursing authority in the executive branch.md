@@ -64,6 +64,80 @@ Subsec. (c)(3). Pub. L. 104–201 added par. (3).
 
 1994—Subsec. (c)(2). Pub. L. 103–355 substituted “The Department of Defense” for “military departments of the Department of Defense”.
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Improper Payments
+
+Pub. L. 107–300, Nov. 26, 2002, 116 Stat. 2350, provided that:
+
+#### “SECTION 1. SHORT TITLE.
+
+“This Act may be cited as the ‘Improper Payments Information Act of 2002’.
+
+#### “SEC. 2. ESTIMATES OF IMPROPER PAYMENTS AND REPORTS ON ACTIONS TO REDUCE THEM.
+
+“(a)
+
+Identification of Susceptible Programs and Activities.—The head of each agency shall, in accordance with guidance prescribed by the Director of the Office of Management and Budget, annually review all programs and activities that it administers and identify all such programs and activities that may be susceptible to significant improper payments.
+
+“(b)
+
+Estimation of Improper Payment.—With respect to each program and activity identified under subsection (a), the head of the agency concerned shall—
+
+&emsp;“(1) estimate the annual amount of improper payments; and
+
+&emsp;“(2) submit those estimates to Congress before March 31 of the following applicable year, with all agencies using the same method of reporting, as determined by the Director of the Office of Management and Budget.
+
+“(c)
+
+Reports on Actions To Reduce Improper Payments.—With respect to any program or activity of an agency with estimated improper payments under subsection (b) that exceed $10,000,000, the head of the agency shall provide with the estimate under subsection (b) a report on what actions the agency is taking to reduce the improper payments, including—
+
+&emsp;“(1) a discussion of the causes of the improper payments identified, actions taken to correct those causes, and results of the actions taken to address those causes;
+
+&emsp;“(2) a statement of whether the agency has the information systems and other infrastructure it needs in order to reduce improper payments to minimal cost-effective levels;
+
+&emsp;“(3) if the agency does not have such systems and infrastructure, a description of the resources the agency has requested in its budget submission to obtain the necessary information systems and infrastructure; and
+
+&emsp;“(4) a description of the steps the agency has taken to ensure that agency managers (including the agency head) are held accountable for reducing improper payments.
+
+“(d)
+
+Definitions.—For the purposes of this section:
+
+&emsp;“(1)
+
+Agency.—The term ‘agency’ means an executive agency, as that term is defined in section 102 of title 31, United States Code.
+
+&emsp;“(2)
+
+Improper payment.—The term ‘improper payment’—
+
+&emsp;&emsp;“(A) means any payment that should not have been made or that was made in an incorrect amount (including overpayments and underpayments) under statutory, contractual, administrative, or other legally applicable requirements; and
+
+&emsp;&emsp;“(B) includes any payment to an ineligible recipient, any payment for an ineligible service, any duplicate payment, payments for services not received, and any payment that does not account for credit for applicable discounts.
+
+&emsp;“(3)
+
+Payment.—The term ‘payment’ means any payment (including a commitment for future payment, such as a loan guarantee) that is—
+
+&emsp;&emsp;“(A) made by a Federal agency, a Federal contractor, or a governmental or other organization administering a Federal program or activity; and
+
+&emsp;&emsp;“(B) derived from Federal funds or other Federal resources or that will be reimbursed from Federal funds or other Federal resources.
+
+“(e)
+
+Application.—This section—
+
+&emsp;“(1) applies with respect to the administration of programs, and improper payments under programs, in fiscal years after fiscal year 2002; and
+
+&emsp;“(2) requires the inclusion of estimates under subsection (b)(2) only in annual budget submissions for fiscal years after fiscal year 2003.
+
+“(f)
+
+Guidance by the Office of Management and Budget.—Not later than 6 months after the date of enactment of this Act \[Nov. 26, 2002\], the Director of the Office of Management and Budget shall prescribe guidance to implement the requirements of this section.”
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 3716 of this title.

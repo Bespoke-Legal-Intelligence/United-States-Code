@@ -12,7 +12,7 @@ The respective tribal authorities are authorized to convey by exchange, purchase
 
 (1) The Secretary shall attempt to acquire private lands or interests therein by exchange prior to acquiring lands by any other method authorized pursuant to this section.
 
-(2) The Secretary shall seek to use a combination of land acquisition authority under this section and cooperative agreements (pursuant to section 410ii–4 of this title) to accomplish the purposes of archeological resource protection at those sites described in section 410ii–1(b) of this title that remain in private ownership.
+(2) The Secretary shall seek to use a combination of land acquisition authority under this section and cooperative agreements (pursuant to section 410ii–4 of this title) to accomplish thepurposes of archeological resource protection at those sites described in section 410ii–1(b) of this title that remain in private ownership.
 
 #### (d) Exchange of Federal property; pool, acreage designation
 

@@ -6,7 +6,7 @@ The Attorney General shall make a grant under section 3796ff of this title to ca
 
 &emsp;(1) the application is consistent with the requirements of this subchapter; and
 
-&emsp;(2) before the approval of the application the Attorney General has made an affirmative finding in writing that the proposed project has been reviewed in accordance with this subchapter.
+&emsp;(2) before the approval of the application the Attorney General has made an affirmativefinding in writing that the proposed project has been reviewed in accordance with this subchapter.
 
 #### (b) Approval
 

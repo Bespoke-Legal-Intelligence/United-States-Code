@@ -40,7 +40,7 @@ An applicant for a grant, contract, or cooperative agreement under subsection (a
 
 #### (f) Special populations
 
-In awarding grants, contracts, and cooperative agreements under subsection (a) of this section, the Secretary shall ensure that such awards are made in a manner that will focus on the needsof communities or groups that experience high or rapidly rising rates of suicide.
+In awarding grants, contracts, and cooperative agreements under subsection (a) of this section,the Secretary shall ensure that such awards are made in a manner that will focus on the needs of communities or groups that experience high or rapidly rising rates of suicide.
 
 #### (g) Application
 

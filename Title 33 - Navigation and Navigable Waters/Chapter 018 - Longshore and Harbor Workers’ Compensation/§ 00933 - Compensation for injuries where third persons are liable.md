@@ -34,7 +34,7 @@ Any amount recovered by such employer on account of such assignment, whether or 
 
 #### (f) Institution of proceedings by person entitled to compensation
 
-If the person entitled to compensation institutes proceedings within the period prescribed in subsection (b) of this section the employer shall be required to pay as compensation under this chapter a sum equal to the excess of the amount which the Secretary determines is payable on account of such injury or death over the net amount recovered against such third person. Such net amount shall be equal to the actual amount recovered less the expenses reasonablyincurred by such person in respect to such proceedings (including reasonable attorneys’ fees).
+If the person entitled to compensation institutes proceedings within the period prescribed in subsection (b) of this section the employer shall be required to pay as compensation under this chapter a sum equal to the excess of the amount which the Secretary determines is payable on account of such injury or death over the net amount recovered against such third person. Such net amount shall be equal to the actual amount recovered less the expenses reasonably incurred by such person in respect to such proceedings (including reasonable attorneys’ fees).
 
 #### (g) Compromise obtained by person entitled to compensation
 

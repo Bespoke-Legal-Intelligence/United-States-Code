@@ -20,7 +20,7 @@ Section 321 indicates that an examiner may not serve as a trustee in the case.
 
 #### senate report no. 95–989
 
-Section 321 is adapted from current Bankruptcy Act §45 \[section 73 of former title 11\] and Bankruptcy Rule 209. Subsection (a) specifies that an individual may serve as trustee in a bankruptcy case only if he is competent to perform the duties of trustee and resides or has an office in the judicial district within which the case is pending, or in an adjacent judicial district. A corporation must be authorized by its charter or bylaws to act as trustee, and, for chapter 7 or 13 cases, must have an office in any of the above mentioned judicial districts.
+Section 321 is adapted from current Bankruptcy Act §45 \[section 73 of former title 11\] and Bankruptcy Rule209. Subsection (a) specifies that an individual may serve as trustee in a bankruptcy case only if he is competent to perform the duties of trustee and resides or has an office in the judicial district within which the case is pending, or in an adjacent judicial district. A corporation must be authorized by its charter or bylaws to act as trustee, and, for chapter 7 or 13 cases, must have an office in any of the above mentioned judicial districts.
 
 #### Amendments
 

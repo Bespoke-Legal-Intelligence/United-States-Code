@@ -6,7 +6,7 @@
 
 &emsp;(1) furnish such reasonable reports as the Office determines to be necessary to enable it to carry out its functions under this chapter; and
 
-&emsp;(2) permit the Office and representatives of the General Accounting Office to examine records of the carriers as may be necessary to carry out the purposes of this chapter.
+&emsp;(2) permit the Office and representatives of the General Accounting Office to examinerecords of the carriers as may be necessary to carry out the purposes of this chapter.
 
 (c) Each Government agency shall keep such records, make such certifications, and furnish the Office with such information and reports as may be necessary to enable the Office to carry out its functions under this chapter.
 

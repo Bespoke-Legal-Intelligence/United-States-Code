@@ -91,7 +91,7 @@
 
 This chapter is referred to in title 15 sections 1459, 2311.
 
-<i><sup>1</sup></i><i> So in original. Two pars. (2) have been enacted.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 
 ---

@@ -42,7 +42,7 @@ Subsec. (a). Pub. L. 105–261, §617(a)(1), substituted “performing duty in t
 
 Subsec. (b). Pub. L. 105–261, §617(a)(4), redesignated subsec. (d) as (b).
 
-Pub. L. 105–261, §617(a)(2), struck out heading and text of subsec. (b). Text read as follows: “Appropriations of the Department of Defense may not be paid, as hardship duty location pay under subsection (a), to a member of a uniformed service who is a resident of a State, Puerto Rico, the Virgin Islands, a possession, or a foreign country and who is serving in that State, Puerto Rico, the Virgin Islands, that possession, or that foreign country, as the case may be.”
+Pub. L. 105–261, §617(a)(2), struck out heading and text of subsec. (b). Text read as follows: “Appropriations of the Department of Defense may not be paid, as hardship duty location pay under subsection (a), to a member of a uniformed service who is a resident of a State, Puerto Rico, the Virgin Islands, a possession, or a foreign country and who is serving in that State, PuertoRico, the Virgin Islands, that possession, or that foreign country, as the case may be.”
 
 Subsec. (c). Pub. L. 105–261, §617(a)(2), struck out heading and text of subsec. (c). Text read as follows: “A member receiving special pay under section 305a of this title may not be paid hardship duty location pay under subsection (a) for the same period of service.”
 

@@ -1,4 +1,4 @@
-### §6911. Financial assistance for language instruction educational programs.
+### §6911. Financial assistance for language instruction educational programs
 
 The purpose of this subpart is to assist local educational agencies, institutions of higher education, and community-based organizations, through the grants authorized under sections 6912 and 6913 of this title—
 

@@ -22,7 +22,7 @@
 
 &emsp;(B) increases any rate of duty above the rate that applies on August 23, 1988.
 
-(3)(A) Except as provided in subparagraph (B), the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if a reduction of 3 percent ad valorem or areduction of one-tenth of the total reduction, whichever is greater, had taken effect on the effective date of the first reduction proclaimed in paragraph (1) to carry out such agreement with respect to such article.
+(3)(A) Except as provided in subparagraph (B), the aggregate reduction in the rate of duty on any article which is in effect on any day pursuant to a trade agreement entered into under paragraph (1) shall not exceed the aggregate reduction which would have been in effect on such day if a reduction of 3 percent ad valorem or a reduction of one-tenth of the total reduction, whichever is greater, had taken effect on the effective date of the first reduction proclaimed in paragraph (1) to carry out such agreement with respect to such article.
 
 (B) No staging under subparagraph (A) is required with respect to a rate reduction that is proclaimed under paragraph (1) for an article of a kind that is not produced in the United States. The United States International Trade Commission shall advise the President of the identity of articles that may be exempted from staging under this subparagraph.
 
@@ -100,7 +100,7 @@
 
 #### (2) Application of tariff proclamation authority
 
-&emsp;No proclamation under subsection (a) of this section to carry out the provisions regarding tariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may take effect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
+&emsp;No proclamation under subsection (a) of this section to carry out the provisions regardingtariff barriers of a trade agreement that is entered into pursuant to paragraph (1) may take effect before the effective date of a bill that implements the provisions regarding nontariff barriers of a trade agreement that is entered into under such paragraph.
 
 #### (3) Application of implementing and “fast track” procedures
 
@@ -130,5 +130,5 @@ This Act, referred to in subsec. (c)(5), is Pub. L. 100–418, Aug. 23, 1988, 10
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2133, 2151, 2152, 2153, 2154, 2155, 2212, 2903, 2904, 3311, 3521 of this title; title 18 section 207.
+This section is referred to in sections 2133, 2903, 2904, 3311, 3521 of this title; title 18 section 207.
 

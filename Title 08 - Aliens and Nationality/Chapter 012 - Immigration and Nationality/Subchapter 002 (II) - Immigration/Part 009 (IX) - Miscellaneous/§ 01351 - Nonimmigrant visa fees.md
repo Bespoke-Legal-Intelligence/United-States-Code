@@ -70,13 +70,15 @@ Pub. L. 105–277, div. A, §101(b) \[title IV, §410(a)\], Oct. 21, 1998, 112 S
 
 \[Pub. L. 106–113, div. B, §1000(a)(1) \[title IV, §404\], Nov. 29, 1999, 113 Stat. 1535, 1501A–45, provided that: “Beginning in fiscal year 2000 and thereafter, section 410(a) of the Department of State and Related Agencies Appropriations Act, 1999, as included in Public Law 105–277 \[set out above\], shall be in effect.”\]
 
-Pub. L. 103–236, title I, §140(a), Apr. 30, 1994, 108 Stat. 399, as amended by Pub. L. 103–415, §1(bb), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §231\], Nov. 29, 1999, 113 Stat. 1536, 1501A–425, provided that:
+\[For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.\]
+
+Pub. L. 103–236, title I, §140(a), Apr. 30, 1994, 108 Stat. 399, as amended by Pub. L. 103–415, §1(bb), Oct. 25, 1994, 108 Stat. 4302; Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §231\], Nov. 29, 1999, 113 Stat. 1536, 1501A–425; Pub. L. 107–173, title I, §103(a), May 14, 2002, 116 Stat. 547; Pub. L. 107–228, div. A, title II, §234, Sept. 30, 2002, 116 Stat. 1373, provided that:
 
 “(1) Notwithstanding any other provision of law, the Secretary of State is authorized to charge a fee or surcharge for processing machine readable nonimmigrant visas and machine readable combined border crossing identification cards and nonimmigrant visas.
 
 “(2) Fees collected under the authority of paragraph (1) shall be deposited as an offsetting collection to any Department of State appropriation, to recover the costs of providing consular services. Such fees shall remain available for obligation until expended.
 
-“(3) For each of the fiscal years 2000, 2001, and 2002, any amount collected under paragraph (1) that exceeds $316,715,000 for fiscal year 2000, $316,715,000 for fiscal year 2001, and $316,715,000 for fiscal year 2002 may be made available only if a notification is submitted to Congress in accordance with the procedures applicable to reprogramming notifications under section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\]. For subsequent fiscal years, fees may be collected under the authority of paragraph (1) only in such amounts as shall be prescribed in subsequent authorization Acts.”
+“(3) For the fiscal year 2003, any amount that exceeds $460,000,000 may be made available only if a notification is submitted to Congress in accordance with the procedures applicable to reprogramming notifications under section 34 of the State Department Basic Authorities Act of 1956 \[22 U.S.C. 2706\].”
 
 Provisions directing the continuing effect for specific periods of authorities provided under section 140(a) of Pub. L. 103–236, set out above, were contained in the following appropriation acts:
 

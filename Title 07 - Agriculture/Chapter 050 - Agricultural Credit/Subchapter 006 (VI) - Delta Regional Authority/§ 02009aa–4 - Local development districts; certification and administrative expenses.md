@@ -38,7 +38,7 @@ In this section, the term “local development district” means an entity that�
 
 #### (1) In general
 
-&emsp;The Authority may make grants for administrative expenses under this section.
+&emsp;The Authority shall make grants for administrative expenses under this section.
 
 #### (2) Conditions for grants
 
@@ -68,7 +68,11 @@ A local development district shall—
 
 &emsp;&emsp;(C) provide leadership and civic development assistance.
 
-(Pub. L. 87–128, title III, §382E, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–276.)
+(Pub. L. 87–128, title III, §382E, as added Pub. L. 106–554, §1(a)(4) \[div. B, title V, §503\], Dec. 21, 2000, 114 Stat. 2763, 2763A–276; amended Pub. L. 107–171, title VI, §6027(e), May 13, 2002, 116 Stat. 374.)
+
+#### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–171 substituted “Authority shall” for “Authority may”.
 
 #### Section Referred to in Other Sections
 

@@ -14,7 +14,7 @@ Within sixty days after the submission of any such statement by a war contractor
 
 #### (d) Removal and storage by war contractor
 
-Upon the failure of the Government so to arrange for storage by the war contractor or to remove any termination inventory within the period specified under subsection (c) of this section, the war contractor, subject to regulations prescribed under this chapter, may remove some or all of such termination inventory from his plant or plants and may store it on his own premises or elsewhere for the account and at the risk and expense of the Government, using reasonable care for its transportation and preservation. If any war contractor intends so to remove any claimed termination inventory, he shall deliver to the Government agency concerned written notice of the date fixed for removal and a statement showing the quantities and condition of the materials so to be removed, certified on behalf of the war contractor to have been prepared in accordance with a concurrent physical inventory of such materials. Such notice and statement shall be delivered at least twenty days in advance of the date fixed for removal and may be delivered before or after the expiration of the period specified under subsection (c) of this section. If the Government agency failsto check such materials, at or before the time of their removal by the war contractor, a certificate of the war contractor specifying the materials shown on such statement which were so removed, and filed with the Government agency concerned within thirty days after the date fixed for removal, shall constitute prima facie evidence against the United States as to the quantities and condition of the materials so removed, and the fact of their removal.
+Upon the failure of the Government so to arrange for storage by the war contractor or to remove any termination inventory within the period specified under subsection (c) of this section, the war contractor, subject to regulations prescribed under this chapter, may remove some or all of such termination inventory from his plant or plants and may store it on his own premises or elsewhere for the account and at the risk and expense of the Government, using reasonable care for its transportation and preservation. If any war contractor intends so to remove any claimed termination inventory, he shall deliver to the Government agency concerned written notice of the date fixed for removal and a statement showing the quantities and condition of the materials so to be removed, certified on behalf of the war contractor to have been prepared in accordance with a concurrent physical inventory of such materials. Such notice and statement shall be delivered at least twenty days in advance of the date fixed for removal and may be delivered before or after the expiration of the period specified under subsection (c) of this section. If the Government agency fails to check such materials, at or before the time of their removal by the war contractor, a certificate of the war contractor specifying the materials shown on such statement which were so removed, and filed with the Government agency concerned within thirty days after the date fixed for removal, shall constitute prima facie evidence against the United States as to the quantities and condition of the materials so removed, and the fact of their removal.
 
 #### (e) Acquisition by Government agency of inventory material; liability
 
@@ -48,13 +48,13 @@ Department of the Air Force inserted under the authority of section 207(a), (f) 
 
 #### Transfer of Functions
 
-Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, which is classified to section 752(b) of Title 40, Public Buildings, Property, and Works.
+Functions of Secretary of the Treasury transferred to Administrator of General Services by section 102(b) of act June 30, 1949, ch. 288, 63 Stat. 380, which was classified to section 752(b) of former Title 40, Public Buildings, Property, and Works, and was repealed by Pub. L. 107–217, §6(b), Aug. 21, 2002, 116 Stat. 1304.
 
 “Secretary” substituted for “Director” by section 8 of Ex. Ord. No. 9809 and section 201 of Reorg. Plan No. 1 of 1947, set out in the Appendix to Title 5, Government Organization and Employees.
 
 #### Effective Date of Transfer of Functions
 
-Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605 of act June 30, 1949, set out as an Effective Date note under section 471 of Title 40, Public Buildings, Property, and Works.
+Transfer of functions by act June 30, 1949, effective July 1, 1949, see section 605, formerly section 505, of act June 30, 1949, ch. 288, 63 Stat. 403; renumbered by act Sept. 5, 1950, ch. 849, §6(a), (b), 64 Stat. 583.
 
 #### Application to Terminated War Contracts
 

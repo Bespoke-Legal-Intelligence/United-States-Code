@@ -26,7 +26,7 @@
 
 (5) Any person or local government may appeal to the Secretary a nomination of any historic property for inclusion on the National Register and may appeal to the Secretary the failure or refusal of a nominating authority to nominate a property in accordance with this subsection.
 
-(6) The Secretary shall promulgate regulations requiring that before any property or district may be included on the National Register or designated as a National Historic Landmark, the owner or owners of such property, or a majority of the owners of the properties within the district in the case of an historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, thenomination of the property or district for such inclusion or designation. If the owner or owners of any privately owned property, or a majority of the owners of such properties within the district in the case of an historic district, object to such inclusion or designation, such property shall not be included on the National Register or designated as a National Historic Landmark until such objection is withdrawn. The Secretary shall review the nomination of the property or district where any such objection has been made and shall determine whether or not the property or district is eligible for such inclusion or designation, and if the Secretary determines that such property or district is eligible for such inclusion or designation, he shall inform the Advisory Council on Historic Preservation, the appropriate State Historic Preservation Officer, the appropriate chief elected local official and the owner or owners of such property, of his determination. The regulations under this paragraph shall include provisions to carry out the purposes of this paragraph in the case of multiple ownership of a single property.
+(6) The Secretary shall promulgate regulations requiring that before any property or district may be included on the National Register or designated as a National Historic Landmark, the owner or owners of such property, or a majority of the owners of the properties within the district in the case of an historic district, shall be given the opportunity (including a reasonable period of time) to concur in, or object to, the nomination of the property or district for such inclusion or designation. If the owner or owners of any privately owned property, or a majority of the owners of such properties within the district in the case of an historic district, object to such inclusion or designation, such property shall not be included on the National Register or designated as a National Historic Landmark until such objection is withdrawn. The Secretary shall review the nomination of the property or district where any such objection has been made and shall determine whether or not the property or district is eligible for such inclusion or designation, and if the Secretary determines that such property or district is eligible for such inclusion or designation, he shall inform the Advisory Council on Historic Preservation, the appropriate State Historic Preservation Officer, the appropriate chief elected local official and the owner or owners of such property, of his determination. The regulations under this paragraph shall include provisions to carry out the purposes of this paragraph in the case of multiple ownership of a single property.
 
 (7) The Secretary shall promulgate, or revise, regulations—
 
@@ -182,7 +182,7 @@
 
 &emsp;&emsp;(ii) that the plan defines the remaining responsibilities of the Secretary and the State Historic Preservation Officer; and
 
-&emsp;&emsp;(iii) that the plan provides, with respect to properties neither owned by a member of the tribe nor held in trust by the Secretary for the benefit of the tribe, at the request of the owner thereof, the State Historic Preservation Officer, in addition to the tribal preservation official, may exercise the historic preservation responsibilities in accordance with subsections (b)(2) and (b)(3) of this section; and
+&emsp;&emsp;(iii) that the plan provides, with respect to properties neither owned by a member of thetribe nor held in trust by the Secretary for the benefit of the tribe, at the request of the owner thereof, the State Historic Preservation Officer, in addition to the tribal preservation official, may exercise the historic preservation responsibilities in accordance with subsections (b)(2) and (b)(3) of this section; and
 
 &emsp;(E) based on satisfaction of the conditions stated in subparagraphs (A), (B), (C), and (D), the Secretary approves the plan.
 
@@ -236,7 +236,7 @@
 
 (C) Grants may be made under subparagraph (A)(i) and (iv) only to the extent that the project cannot be carried out in as effective a manner through the use of an insured loan under section 470d of this title.
 
-(4) Grants may be made under this subsection for the preservation, stabilization, restoration, or rehabilitation of religious properties listed in the National Register of Historic Places, provided that the purpose of the grant is secular, does not promote religion, and seeks to protect those qualities that are historically significant.Nothing in this paragraph shall be construed to authorize the use of any funds made available under this section for the acquisition of any property referred to in the preceding sentence.
+(4) Grants may be made under this subsection for the preservation, stabilization, restoration, or rehabilitation of religious properties listed in the National Register of Historic Places, provided that the purpose of the grant is secular, does not promote religion, and seeks to protect those qualities that are historically significant. Nothing in this paragraph shall be construed to authorize the use of any funds made available under this section for the acquisition of any property referred to in the preceding sentence.
 
 (5) The Secretary shall administer a program of direct grants to Indian tribes and Native Hawaiian organizations for the purpose of carrying out this subchapter as it pertains to Indian tribes and Native Hawaiian organizations. Matching fund requirements may be modified. Federal funds available to a tribe or Native Hawaiian organization may be used as matching funds for the purposes of the tribe's or organization's conducting its responsibilities pursuant to this section.
 
@@ -280,7 +280,7 @@ The Secretary shall develop and make available to Federal agencies, State and lo
 
 &emsp;&emsp;(iii) support for research, analysis, conservation, curation, interpretation, and display related to preservation.
 
-(Pub. L. 89–665, title I, §101, Oct. 15, 1966, 80 Stat. 915; Pub. L. 93–54, §1(d), July 1, 1973, 87 Stat. 139; Pub. L. 91–383, §11, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 96–205, title VI, §608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, §201(a), Dec. 12, 1980, 94 Stat. 2988; Pub. L. 102–575, title XL, §§4003–4006(a), 4007, 4008, Oct. 30, 1992, 106 Stat. 4753–4755, 4758; Pub. L. 103–437, §6(d)(29), Nov. 2, 1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, §814(d)(2)(F), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3007\], Nov. 29, 1999, 113 Stat. 1536, 1501A–551; Pub. L. 106–208, §5(a)(1)–(4), May 26, 2000, 114 Stat. 318.)
+(Pub. L. 89–665, title I, §101, Oct. 15, 1966, 80 Stat. 915; Pub. L. 93–54, §1(d), July 1, 1973, 87 Stat. 139; Pub. L. 91–383, §11, as added Pub. L. 94–458, §2, Oct. 7, 1976, 90 Stat. 1942; amended Pub. L. 96–205, title VI, §608(a)(1), (2), Mar. 12, 1980, 94 Stat. 92; Pub. L. 96–515, title II, §201(a), Dec. 12, 1980, 94 Stat. 2988; Pub. L. 102–575, title XL, §§4003–4006(a), 4007, 4008, Oct. 30, 1992, 106 Stat. 4753–4755, 4758; Pub. L. 103–437, §6(d)(29), Nov. 2,1994, 108 Stat. 4584; Pub. L. 104–333, div. I, title VIII, §814(d)(2)(F), Nov. 12, 1996, 110 Stat. 4196; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3007\], Nov. 29, 1999, 113 Stat. 1536, 1501A–551; Pub. L. 106–208, §5(a)(1)–(4), May 26, 2000, 114 Stat. 318.)
 
 #### References in Text
 
@@ -470,7 +470,7 @@ Information From Federal Agencies.—The Commission may secure directly from any
 
 “(a)
 
-Compensation of Members.—A member of the Commission who is not otherwise an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (includingtravel time) during which the member is engaged in the performance of the duties of the Commission. A member of the Commission who is otherwise an officer or employee of the United States shall serve without compensation in addition to that received for services as an officer or employee of the United States.
+Compensation of Members.—A member of the Commission who is not otherwise an officer or employee of the Federal Government shall be compensated at a rate equal to the daily equivalent of the annual rate of basic pay prescribed for a position at level IV of the Executive Schedule under section 5315 of title 5, United States Code, for each day (including travel time) during which the member is engaged in the performance of the duties of the Commission. A member of the Commission who is otherwise an officer or employee of the United States shall serve without compensation in addition to that received for services as an officer or employee of the United States.
 
 “(b)
 
@@ -562,7 +562,7 @@ Section 4021 of Pub. L. 102–575 provided that: “The Secretary of the Interio
 
 #### Secretarial Report
 
-Section 4025 of Pub. L. 102–575 directed Secretary of the Interior, not later than one year after Oct. 30, 1992, to prepare and submit to Congress a report on the manner in which properties are listed or determined to be eligible for listing on the National Register, includingbut not limited to, the appropriateness of the criteria used in determining such eligibility, and the effect, if any, of such listing or finding of eligibility.
+Section 4025 of Pub. L. 102–575 directed Secretary of the Interior, not later than one year after Oct. 30, 1992, to prepare and submit to Congress a report on the manner in which properties are listed or determined to be eligible for listing on the National Register, including but not limited to, the appropriateness of the criteria used in determining such eligibility, and the effect, if any, of such listing or finding of eligibility.
 
 #### Preservation and Conservation of Intangible Aspects of American Cultural Heritage; Report to President and Congress
 
@@ -578,5 +578,5 @@ Section 507 of Pub. L. 96–515 directed Secretary, in cooperation with Secretar
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 410cc–22, 410cc–32, 430g–7, 470b, 470c, 470h–1, 470h–2, 470w, 698u, 5406 of this title; title 10 section 2684; title 24 section 423; title 40 section 612a; title 43 section 2102.
+This section is referred to in sections 410cc–22, 410cc–32, 430g–7, 470b, 470c, 470h–1, 470h–2, 470w, 698u, 5406 of this title; title 10 section 2684; title 24 section 423; title 40 section 3306; title 43 section 2102.
 

@@ -4,7 +4,7 @@
 
 Except as provided in subsection (b) of this section, in no case may the Attorney General, or any other official or employee of the Department of Justice (including any bureau or agency of such Department)—
 
-&emsp;(1) make an adverse determination of admissibility or deportability of an alien under theImmigration and Nationality Act \[8 U.S.C. 1101 et seq.\] using information furnished solely by—
+&emsp;(1) make an adverse determination of admissibility or deportability of an alien under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\] using information furnished solely by—
 
 &emsp;&emsp;(A) a spouse or parent who has battered the alien or subjected the alien to extreme cruelty,
 
@@ -18,7 +18,7 @@ Except as provided in subsection (b) of this section, in no case may the Attorne
 
 > &emsp;unless the alien has been convicted of a crime or crimes listed in section 241(a)(2) of the Immigration and Nationality Act \[8 U.S.C. 1227(a)(2)\]; or
 
-&emsp;(2) permit use by or disclosure to anyone (other than a sworn officer or employee of the Department, or bureau or agency thereof, for legitimate Department, bureau, or agency purposes) of any information which relates to an alien who is the beneficiary of an application for relief under clause (iii) or (iv) of section 204(a)(1)(A), clause (ii) or (iii) of section 204(a)(1)(B), section 216(c)(4)(C), section 101(a)(15)(U), or section 240A(a)(3) <sup>1</sup> of such Act \[8 U.S.C. 1154(a)(1)(A)(iii), (iv), (B)(ii), (iii), 1186a(c)(4)(C), 1101(a)(15)(U), 1229b(b)(2)\] as an alien (or the parent of a child) who has been battered or subjected to extreme cruelty.
+&emsp;(2) permit use by or disclosure to anyone (other than a sworn officer or employee of the Department, or bureau or agency thereof, for legitimate Department, bureau, or agency purposes) of any information which relates to an alien who is the beneficiary of an application for relief under clause (iii) or (iv) of section 204(a)(1)(A), clause (ii) or (iii) of section 204(a)(1)(B), section 216(c)(4)(C), section 101(a)(15)(U), or section 240A(a)(3) <sup>1</sup> of such Act\[8 U.S.C. 1154(a)(1)(A)(iii), (iv), (B)(ii), (iii), 1186a(c)(4)(C), 1101(a)(15)(U), 1229b(b)(2)\] as an alien (or the parent of a child) who has been battered or subjected to extreme cruelty.
 
 > The limitation under paragraph (2) ends when the application for relief is denied and all opportunities for appeal of the denial have been exhausted.
 
@@ -66,7 +66,11 @@ Section 5582 of title V of Pub. L. 105–33 provided that: “Except as otherwis
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 308(g)(8)(D) of Pub. L. 104–208 effective, with certain transitional provisions, on thefirst day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+Amendment by section 308(g)(8)(D) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be section “240A(b)(2)”.</i>
 

@@ -23,7 +23,7 @@ This subchapter is referred to in sections 5595, 8348, 8401, 8435, 8455, 8461, 8
 - [&sect; 08420a - Alternative forms of annuities](%C2%A7%2008420a%20-%20Alternative%20forms%20of%20annuities.md)
 - [&sect; 08421 - Annuity supplement](%C2%A7%2008421%20-%20Annuity%20supplement.md)
 - [&sect; 08421a - Reductions on account of earnings from work performed while entitled to an annuity supplement](%C2%A7%2008421a%20-%20Reductions%20on%20account%20of%20earnings%20from%20work%20performed%20while%20entitled%20to%20an%20annuity%20supplement.md)
-- [&sect; 08422 - Deductions from pay; contributions for military service](%C2%A7%2008422%20-%20Deductions%20from%20pay%3B%20contributions%20for%20military%20service.md)
+- [&sect; 08422 - Deductions from pay; contributions for other service](%C2%A7%2008422%20-%20Deductions%20from%20pay%3B%20contributions%20for%20other%20service.md)
 - [&sect; 08423 - Government contributions](%C2%A7%2008423%20-%20Government%20contributions.md)
 - [&sect; 08424 - Lump-sum benefits; designation of beneficiary; order of precedence](%C2%A7%2008424%20-%20Lump-sum%20benefits%3B%20designation%20of%20beneficiary%3B%20order%20of%20precedence.md)
 - [&sect; 08425 - Mandatory separation](%C2%A7%2008425%20-%20Mandatory%20separation.md)

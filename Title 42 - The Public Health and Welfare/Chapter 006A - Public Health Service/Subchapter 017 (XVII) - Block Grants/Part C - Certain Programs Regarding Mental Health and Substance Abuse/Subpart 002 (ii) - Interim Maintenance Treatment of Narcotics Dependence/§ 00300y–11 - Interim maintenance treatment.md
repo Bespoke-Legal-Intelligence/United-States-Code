@@ -70,7 +70,7 @@ Sections 300y–21 to 300y–27 terminated Jan. 1, 1991, pursuant to section 300
 
 Section 300y–21, act July 1, 1944, ch. 373, title XIX, §1931, as added Nov. 4, 1988, Pub. L. 100–607, title IV, §408(a), 102 Stat. 3117, provided definitions for this part.
 
-A prior section 1931 of act July 1, 1944, ch. 373, title XIX, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901,95 Stat. 559, provided criminal penalty for false statements and was classified to former section 300y–10 of this title, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
+A prior section 1931 of act July 1, 1944, ch. 373, title XIX, as added Aug. 13, 1981, Pub. L. 97–35, title IX, §901, 95 Stat. 559, provided criminal penalty for false statements and was classified to former section 300y–10 of this title, prior to repeal by Pub. L. 99–280, §5, Apr. 24, 1986, 100 Stat. 400.
 
 Section 300y–22, act July 1, 1944, ch. 373, title XIX, §1932, as added Nov. 4, 1988, Pub. L. 100–607, title IV, §408(a), 102 Stat. 3117, authorized appropriations for this part.
 
@@ -88,5 +88,5 @@ Section 300y–27, act July 1, 1944, ch. 373, title XIX, §1937, as added Nov. 4
 
 #### Effective Date
 
-Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on or after Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
+Section effective July 10, 1992, with programs making awards providing financial assistance in fiscal year 1993 and subsequent years effective for awards made on orafter Oct. 1, 1992, see section 801(b), (d)(1) of Pub. L. 102–321, set out as an Effective Date of 1992 Amendment note under section 236 of this title.
 

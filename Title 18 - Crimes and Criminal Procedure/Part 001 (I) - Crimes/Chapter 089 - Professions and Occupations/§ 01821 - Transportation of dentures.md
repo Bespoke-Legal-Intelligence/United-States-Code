@@ -1,6 +1,6 @@
 ### §1821. Transportation of dentures
 
-Whoever transports by mail or otherwise to or within the District of Columbia, the Canal Zone or any Possession of the United States or uses the mails or any instrumentality of interstate commerce for the purpose of sending or bringing into any State or Territory any set of artificial teeth or prosthetic dental appliance or other denture, constructed from any cast or impression made by any person other than, or without the authorization or prescription of, a person licensed to practice dentistry under the laws of the place into which such denture is sent or brought, where such laws prohibit;
+Whoever transports by mail or otherwise to or within the District of Columbia or any Possession of the United States or uses the mails or any instrumentality of interstate commerce for the purpose of sending or bringing into any State or Territory any set of artificial teeth or prosthetic dental appliance or other denture, constructed from any cast or impression made by any person other than, or without the authorization or prescription of, a person licensed to practice dentistry under the laws of the place into which such denture is sent or brought, where such laws prohibit;
 
 &emsp;(1) the taking of impressions or casts of the human mouth or teeth by a person not licensed under such laws to practice dentistry;
 
@@ -10,7 +10,7 @@ Whoever transports by mail or otherwise to or within the District of Columbia, t
 
 Shall be fined under this title or imprisoned not more than one year, or both.
 
-(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498.)
+(June 25, 1948, ch. 645, 62 Stat. 786; Pub. L. 104–294, title VI, §601(a)(8), Oct. 11, 1996, 110 Stat. 3498; Pub. L. 107–273, div. B, title IV, §4004(c), Nov. 2, 2002, 116 Stat. 1812.)
 
 #### Historical and Revision Notes
 
@@ -26,15 +26,9 @@ The definition of “Interstate Commerce” was likewise omitted as unnecessary 
 
 Changes of phraseology and arrangement were made, but without change of substance.
 
-#### References in Text
-
-For definition of Canal Zone, referred to in text, see section 3602(b) of Title 22, Foreign Relations and Intercourse.
-
 #### Amendments
 
+2002—Pub. L. 107–273 struck out “, the Canal Zone” after “the District of Columbia” in first par.
+
 1996—Pub. L. 104–294 substituted “fined under this title” for “fined not more than $1,000” in last par.
-
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
 

@@ -30,9 +30,9 @@ The Office of Pest Management Policy shall be under the direction of a Director 
 
 #### (f) Authorization of appropriations
 
-There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2002.
+There are authorized to be appropriated such sums as are necessary to carry out this section for each of fiscal years 1999 through 2007.
 
-(Pub. L. 105–185, title VI, §614, June 23, 1998, 112 Stat. 605.)
+(Pub. L. 105–185, title VI, §614, June 23, 1998, 112 Stat. 605; Pub. L. 107–171, title VII, §7132, May 13, 2002, 116 Stat. 435.)
 
 #### References in Text
 
@@ -41,4 +41,8 @@ The Food Quality Protection Act of 1996, referred to in subsec. (b)(3), is Pub. 
 The Federal Insecticide, Fungicide, and Rodenticide Act, referred to in subsec. (b)(3), is act June 25, 1947, ch. 125, as amended generally by Pub. L. 92–516, Oct. 21, 1972, 86 Stat. 973, which is classified generally to subchapter II (§136 et seq.) of chapter 6 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 136 of this title and Tables.
 
 The Federal Food, Drug, and Cosmetic Act, referred to in subsec. (b)(3), is act June 25, 1938, ch. 675, 52 Stat. 1040, as amended, which is classified generally to chapter 9 (§301 et seq.) of Title 21, Food and Drugs. For complete classification of this Act to the Code, see section 301 of Title 21 and Tables.
+
+#### Amendments
+
+2002—Subsec. (f). Pub. L. 107–171 substituted “2007” for “2002”.
 

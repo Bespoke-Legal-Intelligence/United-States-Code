@@ -6,7 +6,7 @@ There is created as an agency of the United States of America a body corporate t
 
 #### (b) Congressional declaration of purpose
 
-The future of freedom, security, and economic development in the Western Hemisphere rests on the realization that man is the foundation of allhuman progress. It is the purpose of this section to provide support for developmental activities designed to achieve conditions in the Western Hemisphere under which the dignity and the worth of each human person will be respected and under which all men will be afforded the opportunity to develop their potential, to seek through gainful and productive work the fulfillment of their aspirations for a better life, and to live in justice and peace. To this end, it shall be the purpose of the Foundation, primarily in cooperation with private, regional, and international organizations, to—
+The future of freedom, security, and economic development in the Western Hemisphere rests on the realization that man is the foundation of all human progress. It is the purpose of this section to provide support for developmental activities designed to achieve conditions in the Western Hemisphere under which the dignity and the worth of each human person will be respected and under which all men will be afforded the opportunity to develop their potential, to seek through gainful and productive work the fulfillment of their aspirations for a better life, and to live in justice and peace. To this end, it shall be the purpose of the Foundation, primarily in cooperation with private, regional, and international organizations, to—
 
 &emsp;(1) strengthen the bonds of friendship and understanding among the peoples of this hemisphere;
 
@@ -58,7 +58,7 @@ Upon termination of the corporate life of the Foundation all of its assets shall
 
 #### (g) Board of directors; number, term, and appointment
 
-The management of the Foundation shall be vested in a board of directors (hereafter in this section referred to as the “Board”) composed of nine members appointed by the President, by and with the advice and consent of the Senate, one of whom he shall designate to serve as Chairman of the Board and one of whom he shall designate to serve as Vice Chairman of the Board. Six members of the Board shall be appointed from private life. Three members of the Board shall be appointed from among officers or employees of agencies of the United States concerned with inter-American affairs. Members of the Board shall be appointed for terms of six years, except that of the members first appointed two shall be appointed for terms of twoyears and two shall be appointed for terms of four years, as designated by the President at the time of their appointment. A member of the Board appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term; but upon the expiration of his term of office a member shall continue to serve until his successor is appointed and shall have qualified. Members of the Board shall be eligible for reappointment. All individuals appointed to the Board shall possess an understanding of and sensitivity to community level development processes. No more than 5 members of the Board may be members of any one political party.
+The management of the Foundation shall be vested in a board of directors (hereafter in this section referred to as the “Board”) composed of nine members appointed by the President, by and with the advice and consent of the Senate, one of whom he shall designate to serve as Chairman of the Board and one of whom he shall designate to serve as Vice Chairman of the Board. Six members of the Board shall be appointed from private life. Three members of the Board shall be appointed from among officers or employees of agencies of the United States concerned with inter-American affairs. Members of the Board shall be appointed for terms of six years, except that of the members first appointed two shall be appointed for terms of two years and two shall be appointed for terms of four years, as designated by the President at the time of their appointment. A member of the Board appointed to fill a vacancy occurring prior to the expiration of the term for which his predecessor was appointed shall be appointed only for the remainder of such term; but upon the expiration of his term of office a member shall continue to serve until his successor is appointed and shall have qualified. Members of the Board shall be eligible for reappointment. All individuals appointed to the Board shall possess an understanding of and sensitivity to community level development processes. No more than 5 members of the Board may be members of any one political party.
 
 #### (h) Reimbursement of expenses
 
@@ -74,7 +74,7 @@ The Board may prescribe, amend, and repeal bylaws, rules, and regulations govern
 
 #### (k) Authority of the Board to appoint committees
 
-In furtherance and not in limitation of the powers conferred upon it, the Board may appoint such committees for the carrying out of the work of the Foundation as the Board finds to be for the best interests of the Foundation, each committee to consist of two or more members of the Board, which committees, together with officers and agents duly authorized by the Board and to the extent provided by the Board, shall have and may exercise the powers of the Board in the management of the business and affairs of the Foundation.
+In furtherance and not in limitation of the powers conferred upon it, the Board may appoint such committees for the carrying out of the work of the Foundation as the Board finds to be for the best interests of the Foundation, each committee to consist of two or more members of the Board, which committees, together with officers and agents duly authorized by the Boardand to the extent provided by the Board, shall have and may exercise the powers of the Board in the management of the business and affairs of the Foundation.
 
 #### (<i>l</i>) President of Foundation: appointment and compensation; employment of experts and consultants
 
@@ -108,7 +108,7 @@ The Foundation, including its franchise and income, shall be exempt from taxatio
 
 #### (s) Authorization of appropriations
 
-(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of $50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available tocarry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
+(1) Notwithstanding any other provision of law, not to exceed an aggregate amount of $50,000,000 of the funds made available for the fiscal years 1970 and 1971 to carry out part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2151 et seq.\] shall be available to carry out the purposes of this section. Funds made available to carry out the purposes of this section under the preceding sentence are authorized to remain available until expended.
 
 (2) There are authorized to be appropriated $28,800,000 for fiscal year 1992 and $31,000,000 for fiscal year 1993 to carry out this section. Amounts appropriated under this paragraph are authorized to remain available until expended.
 
@@ -132,7 +132,7 @@ Funds made available to the Foundation may be used for printing and binding with
 
 #### Repeal of Section
 
-<i>For repeal of section by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(c)(2), (j)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–118, 1501A–120, as amended by Pub. L. 106–429, §101(a) \[title V, §591(2)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59, see Abolition of the Inter-American Foundation note set out below.</i>
+<i>For repeal of section by Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §586(c)(2), (j)\], Nov. 29,</i><i>1999, 113 Stat. 1535, 1501A–118, 1501A–120, as amended by Pub. L. 106–429, §101(a) \[title V, §591(2)\], Nov. 6, 2000, 114 Stat. 1900, 1900A–59, see Abolition of the Inter-American Foundation note set out below.</i>
 
 #### References in Text
 
@@ -236,7 +236,7 @@ Responsibilities of the Director of the Office of Management and Budget.—
 
 In general.—The Director of the Office of Management and Budget shall be responsible for—
 
-&emsp;&emsp;“(A) the administration and wind-up of any outstanding obligation of the Federal Government under any contract or agreement entered into by the Foundation before the date of the enactment of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2000 \[Nov. 29, 1999\], except that the authority of this subparagraph does not include the renewal or extension of any such contract or agreement; and
+&emsp;&emsp;“(A) the administration and wind-up of any outstanding obligation of the Federal Governmentunder any contract or agreement entered into by the Foundation before the date of the enactment of the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2000 \[Nov. 29, 1999\], except that the authority of this subparagraph does not include the renewal or extension of any such contract or agreement; and
 
 &emsp;&emsp;“(B) taking such other actions as may be necessary to wind-up any outstanding affairs of the Foundation.
 
@@ -298,7 +298,7 @@ Continuation of proceeding with substitution of parties.—If, before the date o
 
 &emsp;“(5)
 
-Reviewability of orders and actions under transferred functions.—Orders and actions of the Director in the exercise of functions terminated or transferred under this section shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been taken bythe Foundation immediately preceding their termination or transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this section shall apply to the exercise of such function by the Director.
+Reviewability of orders and actions under transferred functions.—Orders and actions of the Director in the exercise of functions terminated or transferred under this section shall be subject to judicial review to the same extent and in the same manner as if such orders and actions had been taken by the Foundation immediately preceding their termination or transfer. Any statutory requirements relating to notice, hearings, action upon the record, or administrative review that apply to any function transferred by this section shall apply to the exercise of such function by the Director.
 
 “(h)
 

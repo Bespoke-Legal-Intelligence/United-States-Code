@@ -12,7 +12,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 &emsp;(2) may establish administrative procedures for reviewing management plans submitted under this section.
 
-> If the Governor establishes procedures under paragraph (2), the Governor shall designate to carry out the reviews those State officials whoare responsible for implementing environmental protection or other public health programs, or with authority over asbestos programs, in the State.
+> If the Governor establishes procedures under paragraph (2), the Governor shall designate to carry out the reviews those State officials who are responsible for implementing environmental protection or other public health programs, or with authority over asbestos programs, in the State.
 
 #### (c) Management plan review
 
@@ -66,7 +66,7 @@ Within 360 days after October 22, 1986, the Governor of each State—
 
 #### (3) Response by Governor
 
-&emsp;(A) Not later than 30 days after the date on which a Governor receives a deferral requestunder paragraph (1) from a local educational agency, the Governor shall respond to the local educational agency in writing by acknowledging whether the request is complete or incomplete. If the request is incomplete, the Governor shall identify in the response the items that are missing from the request.
+&emsp;(A) Not later than 30 days after the date on which a Governor receives a deferral request under paragraph (1) from a local educational agency, the Governor shall respond to the local educational agency in writing by acknowledging whether the request is complete or incomplete. If the request is incomplete, the Governor shall identify in the response the items that are missing from the request.
 
 &emsp;(B) A local educational agency may correct any deficiencies in an incomplete deferral request and refile the request with the Governor. In any case in which the local educational agency decides to refile the request, the agency shall refile the request, and the Governor shall respond to such refiled request in the manner described in subparagraph (A), no later than 15 days after the local educational agency has received a response from the Governor under subparagraph (A).
 

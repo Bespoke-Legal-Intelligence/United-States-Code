@@ -48,7 +48,7 @@ The Congress finds that—
 
 &emsp;&emsp;(A) to clarify the permissible bases of liability for suppliers of raw materials and component parts for medical devices; and
 
-&emsp;&emsp;(B) to provide expeditious procedures to dispose of unwarranted suits against the suppliers in such manner as to minimize litigation costs;
+&emsp;&emsp;(B) to provide expeditious procedures to dispose of unwarranted suits against thesuppliers in such manner as to minimize litigation costs;
 
 &emsp;(16) the several States and their courts are the primary architects and regulators of our tort system; Congress, however, must, in certain circumstances involving the national interest, address tort issues, and a threatened shortage of raw materials and component parts for lifesaving medical devices is one such circumstance; and
 

@@ -16,7 +16,7 @@ A report including the major findings and recommendations resulting from the stu
 
 &emsp;(3) what domestic resources should be made available to such a program;
 
-&emsp;(4) how the ongoing United States Government carbon dioxide assessment programshould be modified so as to be of increased utility in providing information and recommendations of the highest possible value to government policy makers; and
+&emsp;(4) how the ongoing United States Government carbon dioxide assessment program should be modified so as to be of increased utility in providing information and recommendations of the highest possible value to government policy makers; and
 
 &emsp;(5) the need for periodic reports to the Congress in conjunction with any long-term program the Office and the Academy may recommend under this section.
 

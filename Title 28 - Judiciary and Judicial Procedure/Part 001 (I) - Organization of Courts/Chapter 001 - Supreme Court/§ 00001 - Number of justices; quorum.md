@@ -10,9 +10,15 @@ Based on title 28, U.S.C., 1940 ed., §321 (Mar. 3, 1911, ch. 231, §215, 36 Sta
 
 Appointment of “judges of the Supreme Court” by the President by and with the advice and consent of the Senate is provided by U.S. Constitution art. 2, §2, cl. 2.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–273, div. C, title I, §11020(a), Nov. 2, 2002, 116 Stat. 1826, provided that: “This section \[enacting sections 1369, 1697, and 1785 of this title, amending sections 1391 and 1441 of this title, and enacting provisions set out as a note under section 1369 of this title\] may be cited as the ‘Multiparty, Multiforum Trial Jurisdiction Act of 2002’.”
+
+Pub. L. 107–273, div. C, title I, §11041, Nov. 2, 2002, 116 Stat. 1848, provided that: “This subtitle \[subtitle C (§§11041–11044) of title I of div. C of Pub. L. 107–273, enacting chapter 16 of this title, amending sections 331, 332, 372, 375, and 604 of this title, and section 7253 of Title 38, Veterans’ Benefits, and enacting provisions set out as a note under section 351 of this title\] may be cited as the ‘Judicial Improvements Act of 2002’.”
+
 #### Short Title of 2000 Amendment
 
-Pub. L. 106–518, §1(a), Nov. 13, 2000, 114 Stat. 2410, provided that: “This Act \[enacting sections 179 and 613 of this title, amending sections 117, 175, 332, 371, 376, 604, 611, 612, 627, 631, 636, 797, 996, 1865, 1930, and 2671 of this title, sections 3102 and 5551 of Title 5, Government Organization and Employees, section 1228 of Title 11, Bankruptcy, sections 3006A and 3401 of Title 18, Crimes and Criminal Procedure, and section 13n of Title 40, Public Buildings, Property, and Works, repealing section 2520 of this title, enacting provisions set out as notes under sections 613, 996, and 1931 of this title, and amending provisions set out as notes under sections 471, 581, and 1931 of this title\] may be cited as the ‘Federal Courts Improvement Act of 2000’.”
+Pub. L. 106–518, §1(a), Nov. 13, 2000, 114 Stat. 2410, provided that: “This Act \[enacting sections 179 and 613 of this title, amending sections 117, 175, 332, 371, 376, 604, 611, 612, 627, 631, 636, 797, 996, 1865, 1930, and 2671 of this title, sections 3102 and 5551 of Title 5, Government Organization and Employees, section 1228 of Title 11, Bankruptcy, sections 3006A and 3401 of Title 18, Crimes and Criminal Procedure, and section 13n of former Title 40, Public Buildings, Property, and Works, repealing section 2520 of this title, enacting provisions set out as notes under sections 613, 996, and 1931 of this title, and amending provisions set out as notes under sections 471, 581, and 1931 of this title\] may be cited as the ‘Federal Courts Improvement Act of 2000’.”
 
 #### Short Title of 1998 Amendment
 
@@ -20,7 +26,7 @@ Pub. L. 105–315, §1, Oct. 30, 1998, 112 Stat. 2993, provided that: “This Ac
 
 #### Short Title of 1996 Amendment
 
-Pub. L. 104–317, §1(a), Oct. 19, 1996, 110 Stat. 3847, provided that: “This Act \[enacting sections 258 and 1932 of this title, amending sections 112, 125, 134, 251, 253, 331, 332, 371, 376, 601, 621, 627, 636, 753, 954, 1332, 1404, 1406, 1442, 1446, 1827, 1914, 1931, and 1963 of this title, sections 3154, 3401, and 3603 of Title 18, Crimes and Criminal Procedure, sections 1983 and 1988 of Title 42, The Public Health and Welfare, and sections 719, 743, 745, 1104, and 1105 of Title 45, Railroads, enacting provisions set out as notes under sections 258, 1332, 1404, 1827, 1914, 1931, and 2412 of this title and section 719 of Title 45, and amending provisions set out as notes under sections 133, 152, 471, and 1913 of this title\] may be cited as the ‘Federal Courts Improvement Act of 1996’.”
+Pub. L. 104–317, §1(a), Oct. 19, 1996, 110 Stat. 3847, provided that: “This Act \[enacting sections 258 and 1932 ofthis title, amending sections 112, 125, 134, 251, 253, 331, 332, 371, 376, 601, 621, 627, 636, 753, 954, 1332, 1404, 1406, 1442, 1446, 1827, 1914, 1931, and 1963 of this title, sections 3154, 3401, and 3603 of Title 18, Crimes and Criminal Procedure, sections 1983 and 1988 of Title 42, The Public Health and Welfare, and sections 719, 743, 745, 1104, and 1105 of Title 45, Railroads, enacting provisions set out as notes under sections 258, 1332, 1404, 1827, 1914, 1931, and 2412 of this title and section 719 of Title 45, and amending provisions set out as notes under sections 133, 152, 471, and 1913 of this title\] may be cited as the ‘Federal Courts Improvement Act of 1996’.”
 
 #### Short Title of 1994 Amendments
 
@@ -82,7 +88,7 @@ Pub. L. 99–336, §1, June 19, 1986, 100 Stat. 633, provided that: “This Act 
 
 #### Short Title of 1984 Amendments
 
-Pub. L. 98–620, title IV, §404, Nov. 8, 1984, 98 Stat. 3361, provided that: “This subtitle \[subtitle B (§§404–411) oftitle IV of Pub. L. 98–620, amending sections 85, 90, 93, 112, 124, and 126 of this title and enacting provisions set out as notes under sections 85, 90, 93, and 124 of this title\] may be cited as the ‘Federal District Court Organization Act of 1984’.”
+Pub. L. 98–620, title IV, §404, Nov. 8, 1984, 98 Stat. 3361, provided that: “This subtitle \[subtitle B (§§404–411) of title IV of Pub. L. 98–620, amending sections 85, 90, 93, 112, 124, and 126 of this title and enacting provisions set out as notes under sections 85, 90, 93, and 124 of this title\] may be cited as the ‘Federal District Court Organization Act of 1984’.”
 
 Pub. L. 98–620, title IV, prec. §412, Nov. 8, 1984, 98 Stat. 3362, provided that: “This subtitle \[subtitle C (§§412–416) of title IV of Pub. L. 98–620, enacting section 798 of this title, amending section 1292 of this title, section 1071 of Title 15, Commerce and Trade, section 1337 of Title 19, Customs Duties, and sections 142 to 144 of Title 35, Patents, and enacting provisions set out as notes under section 713 of this title and section 142 of Title 35\] may be cited as the ‘Technical Amendments to the Federal Courts Improvement Act of 1982’.”
 

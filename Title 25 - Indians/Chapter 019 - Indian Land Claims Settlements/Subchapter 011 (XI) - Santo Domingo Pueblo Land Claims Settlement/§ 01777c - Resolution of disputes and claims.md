@@ -100,7 +100,7 @@
 
 On the date of the entry of the final compromise judgment in the case of Pueblo of Santo Domingo v. United States (Indian Claims Commission docket No. 355) in the United States Court of Federal Claims, and the dismissal with prejudice of the case of Pueblo of Santo Domingo v. Rael (No. CIV–83–1888) in the United States District Court for the District of New Mexico, whichever occurs later—
 
-&emsp;(1) the public lands administered by the Bureau of Land Management and described in section 6 of the Settlement Agreement, and consisting of approximately 4,577.10 acres of land, shall thereafter be held by the United States in trust for the benefit of the Pueblo,subject to valid existing rights and rights of public and private access, as provided for in the Settlement Agreement;
+&emsp;(1) the public lands administered by the Bureau of Land Management and described in section 6 of the Settlement Agreement, and consisting of approximately 4,577.10 acres of land, shall thereafter be held by the United States in trust for the benefit of the Pueblo, subject to valid existing rights and rights of public and private access, as provided for in the Settlement Agreement;
 
 &emsp;(2) the Secretary of Agriculture is authorized to sell and convey National Forest System lands and the Pueblo shall have the exclusive right to acquire these lands as provided for in section 7 of the Settlement Agreement, and the funds received by the Secretary of Agriculture for such sales shall be deposited in the fund established under section 484a of title 16 and shall be available to purchase non-Federal lands within or adjacent to the National Forests in the State of New Mexico;
 

@@ -4,7 +4,7 @@
 
 (b) The price of honey shall be supported through loans, purchases, or other operations at a level not in excess of 90 per centum nor less than 60 per centum of the parity price thereof; and the price of tung nuts for each crop of tung nuts through the 1976 crop shall be supported through loans, purchases, or other operations at a level not in excess of 90 per centum nor less than 60 per centum of the parity price therefor: <i>Provided</i>, That in any crop year through the 1976 crop year in which the Secretary determines that the domestic production of tung oil will be less than the anticipated domestic demand for such oil, the price of tung nuts shall be supported at not less than 65 per centum of the parity price therefor.
 
-(c) Except as provided in section 1446e <sup>1</sup> of this title, the price of milk shall be supported at such level not in excess of 90 per centum nor less than 75 per centum of the parity price therefor as the Secretary determines necessary in order to assure an adequate supply of pure and wholesome milk to meet current needs, reflect changes in the cost of production, and assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs. Such price support shall be provided through the purchase of milk and the products of milk.
+(c) Except as provided in section 1446e <sup>1</sup> of this title, the price of milk shall be supported atsuch level not in excess of 90 per centum nor less than 75 per centum of the parity price therefor as the Secretary determines necessary in order to assure an adequate supply of pure and wholesome milk to meet current needs, reflect changes in the cost of production, and assure a level of farm income adequate to maintain productive capacity sufficient to meet anticipated future needs. Such price support shall be provided through the purchase of milk and the products of milk.
 
 (d) Notwithstanding any other provision of law—
 
@@ -46,7 +46,7 @@
 
 &emsp;(F)(i) The Secretary—
 
-&emsp;&emsp;(I) notwithstanding the Balanced Budget and Emergency Deficit Control Act of 1985 and any order issued by the President under section 252 <sup>1</sup> of such Act \[2 U.S.C. 902\] for a fiscal year; and
+&emsp;&emsp;(I) notwithstanding the Balanced Budget and Emergency Deficit Control Act of 1985and any order issued by the President under section 252 <sup>1</sup> of such Act \[2 U.S.C. 902\] for a fiscal year; and
 
 &emsp;&emsp;(II) in lieu of making any reduction in payments for the purchase of milk or the products of milk under this subsection during such fiscal year under any such order;
 
@@ -84,7 +84,7 @@
 
 &emsp;(C) In setting the terms and conditions of any milk diversion or milk production termination under this paragraph and of each contract made under this subparagraph, the Secretary shall take into account any adverse effect of such program or contracts on beef, pork, and poultry producers in the United States and shall take all feasible steps to minimize such effect.
 
-&emsp;(D) A producer who commenced marketing milk after December 31, 1984, shall be eligible to enter into a contract for payments under this subparagraph if such producer's entire milk production facility and entire dairy herd were transferred to the producer by reason of a gift from, or the death of, a member or members of the family of the producer. The term “member of the family of the producer” means (i) an ancestor of the producer, (ii) the spouse of the producer, (iii) a lineal descendant of the producer, or the producer's spouse, or a parent of the producer, or (iv) the spouse of any such lineal descendant.
+&emsp;(D) A producer who commenced marketing milk after December 31, 1984, shall be eligibleto enter into a contract for payments under this subparagraph if such producer's entire milk production facility and entire dairy herd were transferred to the producer by reason of a gift from, or the death of, a member or members of the family of the producer. The term “member of the family of the producer” means (i) an ancestor of the producer, (ii) the spouse of the producer, (iii) a lineal descendant of the producer, or the producer's spouse, or a parent of the producer, or (iv) the spouse of any such lineal descendant.
 
 &emsp;(E) Application for payment shall be made by producers through the county committees established under section 590h(b) of title 16.
 
@@ -102,13 +102,13 @@
 
 &emsp;(5)(A) The district courts of the United States are vested with jurisdiction specifically to enforce, and to prevent and restrain any person from violating, any provision of this subsection or any regulation issued under this subsection. Any such civil action authorized to be brought under this subsection shall be referred to the Attorney General for appropriate action. The Secretary is not required, however, to refer to the Attorney General minor violations of this subsection whenever the Secretary believes that the administration and enforcement of this subsection would be adequately served by suitable written notice or warning to any person committing such violation.
 
-&emsp;(B)(i) Each person as to whom there is a failure to make a reduction in the price of milk received by such person as required by paragraph (2) or who fails to remit to the Corporation the funds required to be collected and remitted by paragraph (2)(B) shall be liable, in addition to any amount due, to a marketing penalty at a rate equal to the support price for milk in effect at the time the failure occurs on the quantity of milk as to which the failure applies. The Secretary may reduce any such marketing penalty in such amount as the Secretary determines equitable in any case inwhich the Secretary determines that the failure was unintentional or without knowledge on the part of the person concerned. Each person who knowingly violates any other provision of this subsection, or any regulation issued under this subsection, shall be liable for a civil penalty of not more than $1,000 for each such violation. Any penalty provided for under this subparagraph shall be assessed by the Secretary after notice and opportunity for a hearing.
+&emsp;(B)(i) Each person as to whom there is a failure to make a reduction in the price of milk received by such person as required by paragraph (2) or who fails to remit to the Corporation the funds required to be collected and remitted by paragraph (2)(B) shall be liable, in addition to any amount due, to a marketing penalty at a rate equal to the support price for milk in effect at the time the failure occurs on the quantity of milk as to which the failure applies. The Secretary may reduce any such marketing penalty in such amount as the Secretary determines equitable in any case in which the Secretary determines that the failure was unintentional or without knowledge on the part of the person concerned. Each person who knowingly violates any other provision of this subsection, or any regulation issued under this subsection, shall be liable for a civil penalty of not more than $1,000 for each such violation. Any penalty provided for under this subparagraph shall be assessed by the Secretary after notice and opportunity for a hearing.
 
 &emsp;(ii) Each person who buys, from a producer with respect to whom there is in effect at the time of such sale a contract entered into under paragraph (3), one or more dairy cattle sold for slaughter or export, who knows that such cattle are sold for slaughter or export, and who fails to cause the slaughter or export of such cattle within a reasonable time after receiving such cattle shall be liable for a civil penalty of not more than $5,000 with respect to each of such cattle.
 
 &emsp;(iii) Each person who retains or acquires an interest in dairy cattle or the production of milk in violation of a contract entered into under this paragraph shall be liable, in addition to any amount due under paragraph (3)(A)(iv), to a marketing penalty on the quantity of milk produced during the period in which such ownership is prohibited under the contract. Such penalty shall be computed at the rate or rates of the support price for milk in effect during the period in which the milk production occurred.
 
-&emsp;(iv) Each person who makes a false statement in a bid submitted under paragraph (3) as to (I) the marketings of milk for commercial use by the producer, or (II) the size or composition of the dairy herd that produced such marketings, or (III) the size or composition of the dairy herd at the time the bid is submitted shall be subject, in addition to any amount due under paragraph (3)(A)(iv) or clause (iii) of this subparagraph, to a civil penalty of $5,000 for each head of cattle to which such statement applied.
+&emsp;(iv) Each person who makes a false statement in a bid submitted under paragraph (3) asto (I) the marketings of milk for commercial use by the producer, or (II) the size or composition of the dairy herd that produced such marketings, or (III) the size or composition of the dairy herd at the time the bid is submitted shall be subject, in addition to any amount due under paragraph (3)(A)(iv) or clause (iii) of this subparagraph, to a civil penalty of $5,000 for each head of cattle to which such statement applied.
 
 &emsp;(v) Each person who makes a false statement as to the number of dairy cattle that was sold for slaughter or export under a contract under paragraph (3)(A) shall be subject, in addition to any amount due under paragraph (3)(A)(iv) or clause (iii) of this subparagraph, to a civil penalty of not more than $5,000 for each head of cattle to which such statement applied.
 
@@ -138,7 +138,7 @@ The Agricultural Adjustment Act, as reenacted with amendments by the Agricultura
 
 The order issued by the President on February 1, 1986, referred to in subsec. (d)(2)(E)(i), is set out as a note under section 902 of Title 2, The Congress.
 
-Section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec.\(d)(2)(E)(i), (F)(i)(I), is classified to section 902 of Title 2, The Congress, and was amended generally by Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–581. Provisions relating to Presidential orders are contained in section 904(f)(5) of Title 2.
+Section 252 of the Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d)(2)(E)(i), (F)(i)(I), is classified to section 902 of Title 2, The Congress, and was amended generally by Pub. L. 101–508, title XIII, §13101(a), Nov. 5, 1990, 104 Stat. 1388–581. Provisions relating to Presidential orders are contained in section 904(f)(5) of Title 2.
 
 The Balanced Budget and Emergency Deficit Control Act of 1985, referred to in subsec. (d)(2)(F)(i)(I), is title II of Pub. L. 99–177, Dec. 12, 1985, 99 Stat. 1038, as amended, which enacted chapter 20 (§900 et seq.) and sections 654 to 656 of Title 2, The Congress, amended sections 602, 622, 631 to 642, and 651 to 653 of Title 2, sections 1104 to 1106, and 1109 of Title 31, Money and Finance, and section 911 of Title 42, The Public Health and Welfare, repealed section 661 of Title 2, enacted provisions set out as notes under section 900 of Title 2 and section 911 of Title 42, and amended provisions set out as a note under section 621 of Title 2. For complete classification of this Act to the Code, see Short Title note set out under section 901 of Title 2 and Tables.
 
@@ -206,7 +206,7 @@ Subsec. (d)(3)(D). Pub. L. 99–198, §101(b)(1), in amending subpar. (D) genera
 
 Subsec. (d)(3)(E). Pub. L. 99–198, §101(b)(1), (3), struck out subpar. (E) which specified conditions under which Secretary could modify contracts entered into under this paragraph, and redesignated subpar. (K) as (E).
 
-Subsec. (d)(3)(F). Pub. L. 99–198, §101(b)(1), struck out subpar. (F) which required domestic producers of milk seeking to enter into contracts for diversion payments to provide Secretary with evidence of such producer's marketing history, as defined by this subparagraph, which Secretary could adjust to take into account natural disasters or other conditions and factors where necessary.
+Subsec. (d)(3)(F). Pub. L. 99–198, §101(b)(1), struck out subpar. (F) which required domestic producers of milkseeking to enter into contracts for diversion payments to provide Secretary with evidence of such producer's marketing history, as defined by this subparagraph, which Secretary could adjust to take into account natural disasters or other conditions and factors where necessary.
 
 Subsec. (d)(3)(G). Pub. L. 99–198, §101(b)(1), struck out subpar. (G) which provided that no marketing history could be assigned to any producer who commenced marketing milk after Dec. 31, 1982, except as provided in subpar. (H).
 
@@ -356,6 +356,8 @@ Section 709 of act Aug. 28, 1954, which provided that the amendment of this sect
 
 #### Inapplicability of Section
 
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(8) of this title.
+
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(H) of this title.
 
 #### Application of 1990 Amendments
@@ -364,7 +366,7 @@ Section 107 of title I of Pub. L. 101–624 provided that: “The amendments mad
 
 #### Modification of Milk Production Termination Program
 
-Section 128 of Pub. L. 102–237 provided that if, with respect to any natural disaster occurring during period beginning on Oct. 1, 1990, and ending on Feb. 1, 1991, the Secretary of Agriculture determines that natural disaster renders unusable land or milk production facilities of producers on a farm, the Secretary shall allow the producers to transfer the production unit (including dairy animals and equipment) to farm idled under milk production termination program established under subsec. (d)(3) of this section, without penalty, if the producers on the farm agree to comply with all terms and conditions of program contract for remainder of contract period.
+Section 128 of Pub. L. 102–237 provided that if, with respect to any natural disaster occurring during periodbeginning on Oct. 1, 1990, and ending on Feb. 1, 1991, the Secretary of Agriculture determines that natural disaster renders unusable land or milk production facilities of producers on a farm, the Secretary shall allow the producers to transfer the production unit (including dairy animals and equipment) to farm idled under milk production termination program established under subsec. (d)(3) of this section, without penalty, if the producers on the farm agree to comply with all terms and conditions of program contract for remainder of contract period.
 
 #### Triggered Marketing Loans and Export Enhancement
 
@@ -414,7 +416,7 @@ Pub. L. 98–213, §14, Dec. 8, 1983, 97 Stat. 1462, provided that effective wit
 
 #### Implementation of Subsection (d) Without Regard to Public Participation in Rulemaking
 
-Section 102 of Pub. L. 99–198 provided that 5 U.S.C. 553 was not to apply with respect to implementation of subsec. (d) of this section by the Secretary of Agriculture.
+Section 102 of Pub. L. 99–198 provided that 5 U.S.C. 553 was not to apply with respect to implementation ofsubsec. (d) of this section by the Secretary of Agriculture.
 
 Section 102(b) of Pub. L. 98–180 directed Secretary of Agriculture to implement provisions of subsec. (d) of this section, as amended by section 102(a) of Pub. L. 98–180, without regard to the provisions requiring notice and other procedures for public participation in rulemaking contained in 5 U.S.C. 553.
 
@@ -436,7 +438,7 @@ Section 204(f) of act Aug. 28, 1954, directed Secretary of Agriculture to make a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 612c, 1447, 4514, 7301 of this title; title 2 section 906.
+This section is referred to in sections 612c, 1447, 4514, 7301, 7992 of this title; title 2 section 906.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -52,5 +52,5 @@ Amendment by Pub. L. 100–17 effective on effective date provided in regulation
 
 #### Savings Provision
 
-Section 220(b) of Pub. L. 91–646 provided that: “Any rights or liabilities now existing under prior Acts orportions thereof shall not be affected by the repeal of such prior Acts or portions thereof under subsection (a) of this section \[repealing sections 1415(7)(b)(iii), (8) second sentence, 1465, 2473(b)(14), 3074, and 3307(b), (c) of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and section 1606(b) of former Title 49, Transportation, and provisions set out as notes under sections 501 and 511 of Title 23\].”
+Section 220(b) of Pub. L. 91–646 provided that: “Any rights or liabilities now existing under prior Acts or portions thereof shall not be affected by the repeal of such prior Acts or portions thereof under subsection (a) of this section \[repealing sections 1415(7)(b)(iii), (8) second sentence, 1465, 2473(b)(14), 3074, and 3307(b), (c) of this title, section 2680 of Title 10, Armed Forces, sections 501 to 512 of Title 23, Highways, sections 1231 to 1234 of Title 43, Public Lands, and section 1606(b) of former Title 49, Transportation, and provisions set out as notes under sections 501 and 511 of Title 23\].”
 

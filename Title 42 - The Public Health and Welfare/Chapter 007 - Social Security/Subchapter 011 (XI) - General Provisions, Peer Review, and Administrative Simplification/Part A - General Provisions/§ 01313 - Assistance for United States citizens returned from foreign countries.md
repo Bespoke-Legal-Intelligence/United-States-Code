@@ -26,7 +26,7 @@ The total amount of temporary assistance provided under this section shall not e
 
 (2) Gifts accepted under paragraph (1) shall be available for obligation or other use by the United States only to the extent and in the amounts provided in appropriation Acts.
 
-(Aug. 14, 1935, ch. 531, title XI, §1113, as added Pub. L. 87–64, title III, §302, June 30, 1961, 75 Stat. 142; amended Pub. L. 87–543, title I, §133, July 25, 1962, 76 Stat. 196; Pub. L. 88–347, June 30, 1964, 78 Stat. 236; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title V, §503, Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–41, §4, July 9, 1969, 83 Stat. 45; Pub. L. 92–40, July 1, 1971, 85 Stat. 96; Pub. L. 94–44, §§1, 2, June 28, 1975, 89 Stat. 235; Pub. L. 101–382, title I, §140, Aug. 20, 1990, 104 Stat. 654; Pub. L. 101–508, title V, §5056(a), Nov. 5, 1990, 104 Stat. 1388–229.)
+(Aug. 14, 1935, ch. 531, title XI, §1113, as added Pub. L. 87–64, title III, §302, June 30, 1961, 75 Stat. 142; amended Pub. L. 87–543, title I, §133,July 25, 1962, 76 Stat. 196; Pub. L. 88–347, June 30, 1964, 78 Stat. 236; Pub. L. 90–36, §2, June 29, 1967, 81 Stat. 94; Pub. L. 90–248, title V, §503, Jan. 2, 1968, 81 Stat. 934; Pub. L. 91–41, §4, July 9, 1969, 83 Stat. 45; Pub. L. 92–40, July 1, 1971, 85 Stat. 96; Pub. L. 94–44, §§1, 2, June 28, 1975, 89 Stat. 235; Pub. L. 101–382, title I, §140, Aug. 20, 1990, 104 Stat. 654; Pub. L. 101–508, title V, §5056(a), Nov. 5, 1990, 104 Stat. 1388–229.)
 
 #### Amendments
 

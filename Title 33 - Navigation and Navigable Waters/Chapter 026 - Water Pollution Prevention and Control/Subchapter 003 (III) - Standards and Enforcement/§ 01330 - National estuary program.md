@@ -70,7 +70,7 @@ A management conference convened under this section shall be convened for a peri
 
 #### (2) Implementation
 
-&emsp;Upon approval of a conservation and management plan under this section, such planshall be implemented. Funds authorized to be appropriated under subchapters II and VI of this chapter and section 1329 of this title may be used in accordance with the applicable requirements of this chapter to assist States with the implementation of such plan.
+&emsp;Upon approval of a conservation and management plan under this section, such plan shall be implemented. Funds authorized to be appropriated under subchapters II and VI of this chapter and section 1329 of this title may be used in accordance with the applicable requirements of this chapter to assist States with the implementation of such plan.
 
 #### (g) Grants
 
@@ -96,7 +96,7 @@ A management conference convened under this section shall be convened for a peri
 
 #### (h) Grant reporting
 
-Any person (including a State, interstate, or regional agency or entity) that receives a grant under subsection (g) of this section shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
+Any person (including a State, interstate, or regional agency or entity) that receives a grantunder subsection (g) of this section shall report to the Administrator not later than 18 months after receipt of such grant and biennially thereafter on the progress being made under this section.
 
 #### (i) Authorization of appropriations
 
@@ -124,23 +124,31 @@ There are authorized to be appropriated to the Administrator not to exceed $35,0
 
 &emsp;&emsp;(D) a program of research to identify the movements of nutrients, sediments and pollutants through estuarine zones and the impact of nutrients, sediments, and pollutants on water quality, the ecosystem, and designated or potential uses of the estuarine zones.
 
-#### (2) Omitted
+#### (2) Reports
+
+&emsp;The Administrator, in cooperation with the Administrator of the National Oceanic and Atmospheric Administration, shall submit to the Congress no less often than biennially a comprehensive report on the activities authorized under this subsection including—
+
+&emsp;&emsp;(A) a listing of priority monitoring and research needs;
+
+&emsp;&emsp;(B) an assessment of the state and health of the Nation's estuarine zones, to the extent evaluated under this subsection;
+
+&emsp;&emsp;(C) a discussion of pollution problems and trends in pollutant concentrations with a direct or indirect effect on water quality, the ecosystem, and designated or potential uses of each estuarine zone, to the extent evaluated under this subsection; and
+
+&emsp;&emsp;(D) an evaluation of pollution abatement activities and management measures so far implemented to determine the degree of improvement toward the objectives expressed in subsection (b)(4) of this section.
 
 #### (k) Definitions
 
-For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in section 1254(n)(3) of this title, except that the term “estuarine zone” shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
+For purposes of this section, the terms “estuary” and “estuarine zone” have the meanings such terms have in section 1254(n)(4) of this title, except that the term “estuarine zone” shall also include associated aquatic ecosystems and those portions of tributaries draining into the estuary up to the historic height of migration of anadromous fish or the historic head of tidal influence, whichever is higher.
 
-(June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§301—303, Nov. 7, 2000, 114 Stat. 1972.)
+(June 30, 1948, ch. 758, title III, §320, as added Pub. L. 100–4, title III, §317(b), Feb. 4, 1987, 101 Stat. 61; amended Pub. L. 100–202, §101(f) \[title II, 201\], Dec. 22, 1987, 101 Stat. 1329–187, 1329–197; Pub. L. 100–653, title X, §1004, Nov. 14, 1988, 102 Stat. 3836; Pub. L. 100–688, title II, §2001, Nov. 18, 1988, 102 Stat. 4151; Pub. L. 105–362, title V, §501(a)(2), Nov. 10, 1998, 112 Stat. 3283; Pub. L. 106–457, title III, §§301—303, Nov. 7, 2000, 114 Stat. 1972; Pub. L. 107–303, title III, §302(b)(1), Nov. 27, 2002, 116 Stat. 2361.)
 
 #### References in Text
 
 Executive Order 12372, referred to in subsec. (b), is Ex. Ord. No. 12372, July 14, 1982, 47 F.R. 30959, as amended, which is set out under section 6506 of Title 31, Money and Finance.
 
-#### Codification
-
-Subsec. (j)(2) of this section, which required the Administrator, in cooperation with the Administrator of the National Oceanic and Atmospheric Administration, to submit to Congress no less often than biennially a comprehensive report on activities authorized under subsec. (j) of this section, terminated, effective May 15, 2000, pursuant to section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance. See, also, page 162 of House Document No. 103–7.
-
 #### Amendments
+
+2002—Subsec. (k). Pub. L. 107–303 repealed Pub. L. 105–362, §501(a)(2). See 1998 Amendment note below.
 
 2000—Subsec. (a)(2)(B). Pub. L. 106–457, §301, inserted “Lake Pontchartrain Basin, Louisiana and Mississippi;” before “and Peconic Bay, New York.”
 
@@ -156,7 +164,7 @@ Federal share.—The amount of grants to any person (including a State, intersta
 
 Subsec. (i). Pub. L. 106–457, §303, substituted “$35,000,000 for each of fiscal years 2001 through 2005” for “$12,000,000 per fiscal year for each of fiscal years 1987, 1988, 1989, 1990, and 1991”.
 
-1998—Subsec. (k). Pub. L. 105–362 substituted “section 1254(n)(3)” for “section 1254(n)(4)”.
+1998—Subsec. (k). Pub. L. 105–362, §501(a)(2), which directed the substitution of “section 1254(n)(3)” for “section 1254(n)(4)”, was repealed by Pub. L. 107–303. See Effective Date of 2002 Amendment note below.
 
 1988—Subsec. (a)(2)(B). Pub. L. 100–653, §1004, and Pub. L. 100–688, §2001(1), made identical amendments, inserting “Massachusetts Bay, Massachusetts (including Cape Cod Bay and Boston Harbor);” after “Buzzards Bay, Massachusetts;”.
 
@@ -165,6 +173,10 @@ Pub. L. 100–688, §2001(2), substituted “California; Galveston” for “Cal
 Pub. L. 100–688, §2001(3), which directed insertion of “; Barataria-Terrebonne Bay estuary complex, Louisiana; Indian River Lagoon, Florida; and Peconic Bay, New York” after “Galveston Bay, Texas;” was executed by making insertion after “Galveston Bay, Texas” as probable intent of Congress.
 
 1987—Subsec. (a)(2)(B). Pub. L. 100–202 inserted “Santa Monica Bay, California;”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–303 effective Nov. 10, 1998, and Federal Water Pollution Act (33 U.S.C. 1251 et seq.) to be applied and administered on and after Nov. 27, 2002, as if amendments made by section 501(a)–(d) of Pub. L. 105–362 had not been enacted, see section 302(b) of Pub. L. 107–303, set out as a note under section 1254 of this title.
 
 #### Massachusetts Bay Protection; Definition; Findings and Purpose; Funding Sources
 

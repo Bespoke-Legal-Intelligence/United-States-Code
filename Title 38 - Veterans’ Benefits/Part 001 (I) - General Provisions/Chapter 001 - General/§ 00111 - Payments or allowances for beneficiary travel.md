@@ -20,7 +20,7 @@
 
 (3)(A) Except as provided in subparagraph (B) of this paragraph, the Secretary shall not make payments under this section for travel performed by a special mode of travel unless (i) the travel by such mode is medically required and is authorized by the Secretary before the travel begins, or (ii) the travel by such mode is in connection with a medical emergency of such a nature that the delay incident to obtaining authorization from the Secretary to use that mode of travel would have been hazardous to the person's life or health.
 
-(B) In the case of travel by a person to or from a Department facility by special mode of travel, the Secretary may provide payment under this section to the provider of the transportation by special mode before determining the eligibility of such person for such payment if the Secretary determines that providing such payment is in the best interest of furnishing care and services. Such a payment shall be made subject to subsequently recovering from such person the amount of the payment if such person is determined to have been ineligible for payment for such travel.
+(B) In the case of travel by a person to or from a Department facility by special mode of travel, the Secretary may provide payment under this section to the provider of the transportation by special mode before determining the eligibility of such person for such payment if the Secretary determines that providing such payment is in the best interest of furnishing care and services. Such a payment shall be made subject to subsequently recovering from such person the amountof the payment if such person is determined to have been ineligible for payment for such travel.
 
 (c)(1) Except as otherwise provided in this subsection, the Secretary, in making a payment under this section to or for a person described in subparagraph (A), (B), (C), or (D) of subsection (b)(1) of this section for travel for examination, treatment, or care, shall deduct from the amount otherwise payable an amount equal to $3 for each one-way trip.
 
@@ -70,7 +70,7 @@
 
 &emsp;(C) The per diem rates, mileage allowances, and expenses of travel authorized under sections 5702 and 5704 of title 5 for employees of the United States.
 
-(4) Before determining rates or adjusting amounts under this section and not later than sixty days after any alteration in the rates described in paragraph (3)(C) of this subsection, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report containing the rates and amounts the Secretary proposes to establish or continue with a full justification therefor in terms of each of the limitations and factors set forth in this section.
+(4) Before determining rates or adjusting amounts under this section and not later than sixty days after any alteration in the rates described in paragraph (3)(C) of this subsection, the Secretary shall submit to the Committees on Veterans’ Affairs of the House of Representatives and the Senate a report containing therates and amounts the Secretary proposes to establish or continue with a full justification therefor in terms of each of the limitations and factors set forth in this section.
 
 (h) The Secretary, in consultation and coordination with the Secretary of Transportation and appropriate representatives of veterans’ service organizations, shall take all appropriate steps to facilitate the establishment and maintenance of a program under which such organizations, or individuals who are volunteering their services to the Department, would take responsibility for the transportation, without reimbursement from the Department, to Department facilities of veterans (primarily those residing in areas which are geographically accessible to such facilities) who seek services or benefits from the Department under chapter 17 or other provisions of this title.
 
@@ -130,7 +130,7 @@ Subsec. (g). Pub. L. 100–322, §108(a)(1), (c), redesignated subsec. (e) as (g
 
 Subsec. (h). Pub. L. 100–322, §108(b)(1), added subsec. (h).
 
-1982—Subsec. (e)(4). Pub. L. 97–295 substituted “and” for “, and not later than sixty days after the effectivedate of this subsection, and thereafter” after “under this section”.
+1982—Subsec. (e)(4). Pub. L. 97–295 substituted “and” for “, and not later than sixty days after the effective date of this subsection, and thereafter” after “under this section”.
 
 1979—Subsec. (e)(2)(A). Pub. L. 96–151 substituted provisions respecting determinations pursuant to regulations prescribed by the Administrator, subject to applicable exceptions, for provisions respecting determinations based on annual declarations and certifications by persons claiming reimbursements, subject to applicable exceptions.
 

@@ -1,6 +1,6 @@
 ### §14701. Definitions
 
-For purposes of this chapter—
+For purposes of this Act—
 
 &emsp;(1) the term “Administrator” means the Administrator of the National Aeronautics and Space Administration;
 
@@ -30,7 +30,7 @@ For purposes of this chapter—
 
 &emsp;&emsp;&emsp;(ii) the country or countries in which such foreign company is incorporated or organized, and, if appropriate, in which it principally conducts its business, affords reciprocal treatment to companies described in subparagraph (A) comparable to that afforded to such foreign company's subsidiary in the United States, as evidenced by—
 
-&emsp;&emsp;&emsp;&emsp;(I) providing comparable opportunities for companies described in subparagraph (A) to participate in Government sponsored research and development similar to that authorized under this chapter;
+&emsp;&emsp;&emsp;&emsp;(I) providing comparable opportunities for companies described in subparagraph (A) to participate in Government sponsored research and development similar to that authorized under this Act;
 
 &emsp;&emsp;&emsp;&emsp;(II) providing no barriers, to companies described in subparagraph (A) with respect to local investment opportunities, that are not provided to foreign companies in the United States; and
 
@@ -40,9 +40,11 @@ For purposes of this chapter—
 
 #### References in Text
 
-This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 105–303, Oct. 28, 1998, 112 Stat. 2843, known as the Commercial Space Act of 1998. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
+This Act, referred to in text, is Pub. L. 105–303, Oct. 28, 1998, 112 Stat. 2843, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out below and Tables.
 
 #### Short Title
 
-Pub. L. 105–303, §1(a), Oct. 28, 1998, 112 Stat. 2843, provided that: “This Act \[enacting this chapter and sections 70120 and 70121 of Title 49, Transportation, amending sections 2465c and 2465f of this title, sections 5621, 5622, and 5803 of Title 15, Commerce and Trade, and sections 70101 to 70106, 70108 to 70113, 70115, 70117, and 70119 of Title 49, repealing sections 2465b, 2465d, and 2465e of this title, and enacting provisions set out as a note under section 70105 of Title 49\] may be cited as the ‘Commercial Space Act of 1998’.”
+Pub. L. 105–303, §1(a), Oct. 28, 1998, 112 Stat. 2843, provided that: “This Act \[enacting this section, subchapters I and II of this chapter, and sections 70120 and 70121 of Title 49, Transportation, amending sections 2465c and 2465f of this title, sections 5621, 5622, and 5803 of Title 15, Commerce and Trade, and sections 70101 to 70106, 70108 to 70113, 70115, 70117, and 70119 of Title 49, repealing sections 2465b, 2465d, and 2465e of this title, and enacting provisions set out as a note under section 70105 of Title 49\] may be cited as the ‘Commercial Space Act of 1998’.”
+
+Pub. L. 107–248, title IX, §901, Oct. 23, 2002, 116 Stat. 1573, provided that: “This title \[enacting subchapter III of this chapter\] may be cited as the ‘Commercial Reusable In-Space Transportation Act of 2002’.”
 

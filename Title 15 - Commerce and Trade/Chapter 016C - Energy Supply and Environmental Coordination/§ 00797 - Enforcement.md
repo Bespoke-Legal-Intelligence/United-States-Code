@@ -6,7 +6,7 @@ It shall be unlawful for any person to violate any provision of section 792 of t
 
 #### (b) Penalties; injunctions; declaratory judgments
 
-(1) Whoever violates any provision of subsection (a) of this section shall be subject to acivil penalty of not more than $2,500 for each violation.
+(1) Whoever violates any provision of subsection (a) of this section shall be subject to a civil penalty of not more than $2,500 for each violation.
 
 (2) Whoever willfully violates any provision of subsection (a) of this section shall be fined not more than $5,000 for each violation.
 

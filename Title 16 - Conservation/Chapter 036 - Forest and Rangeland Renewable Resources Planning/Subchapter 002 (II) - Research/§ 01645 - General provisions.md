@@ -10,7 +10,7 @@ To avoid duplication, the Secretary shall coordinate cooperative aid and grants 
 
 #### (c) Dissemination of knowledge and technology developed from research activities; cooperation with specified entities
 
-The Secretary shall use the authorities and means available to the Secretary to disseminate the knowledge and technology developed from research activities conducted under or supported by this subchapter. In meeting this responsibility, the Secretary shall cooperate, as the Secretary deems appropriate, with the entitiesidentified in subsection (d)(3) of this section and with others.
+The Secretary shall use the authorities and means available to the Secretary to disseminate the knowledge and technology developed from research activities conducted under or supported by this subchapter. In meeting this responsibility, the Secretary shall cooperate, as the Secretary deems appropriate, with the entities identified in subsection (d)(3) of this section and with others.
 
 #### (d) Additional implementative authorities
 
@@ -30,7 +30,7 @@ This subchapter shall be construed as supplementing all other laws relating to t
 
 #### (f) Definitions
 
-For the purposes of this subchapter, the terms “United States” and “State” shall include each of the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the territories and possessions of the United States.
+For the purposes of this subchapter, the terms “United States” and “State” shall include eachof the several States, the District of Columbia, the Commonwealth of Puerto Rico, the Virgin Islands of the United States, the Commonwealth of the Northern Mariana Islands, the Trust Territory of the Pacific Islands, and the territories and possessions of the United States.
 
 (Pub. L. 95–307, §6, June 30, 1978, 92 Stat. 355.)
 

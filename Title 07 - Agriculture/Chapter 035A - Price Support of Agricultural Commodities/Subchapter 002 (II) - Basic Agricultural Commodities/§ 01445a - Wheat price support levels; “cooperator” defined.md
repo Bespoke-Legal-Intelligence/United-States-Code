@@ -22,7 +22,7 @@ Notwithstanding the provisions of section 1441 of this title, beginning with the
 
 Subsec. (b). Pub. L. 93–86, §1(8)(B), temporarily substituted “payments” for “certificates”. See Effective and Termination Dates of 1970 and 1973 Amendment notes below.
 
-Subsec. (c). Pub. L. 93–228 substituted “(or of cotton, corn, grain sorghums, or barley planted in lieu ofwheat)” for “(or other nonconserving crop planted instead of wheat)”, in two places.
+Subsec. (c). Pub. L. 93–228 substituted “(or of cotton, corn, grain sorghums, or barley planted in lieu of wheat)” for “(or other nonconserving crop planted instead of wheat)”, in two places.
 
 Pub. L. 93–125 substituted “prevented from planting any portion” for “prevented from planting, any portion”.
 
@@ -60,6 +60,8 @@ Section 506 of Pub. L. 89–321, as amended by Pub. L. 90–559, §1(1), Oct. 11
 
 #### Inapplicability of Section
 
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(4) of this title.
+
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(D) of this title.
 
 Pub. L. 101–624, title III, §305, Nov. 28, 1990, 104 Stat. 3400, provided that: “Section 107 of the Agricultural Act of 1949 (7 U.S.C. 1445a) shall not be applicable to the 1991 through 1995 crops of wheat.”
@@ -74,5 +76,5 @@ Pub. L. 95–113, title IV, §410, Sept. 29, 1977, 91 Stat. 928, provided that: 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1379c, 7301 of this title.
+This section is referred to in sections 1379c, 7301, 7992 of this title.
 

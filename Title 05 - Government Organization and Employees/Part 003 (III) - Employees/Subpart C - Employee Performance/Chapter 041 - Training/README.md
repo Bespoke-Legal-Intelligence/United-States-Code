@@ -8,7 +8,7 @@
 | [4104\.](%C2%A7%2004104%20-%20Government%20facilities%3B%20use%20of.md) | Government facilities; use of. |
 | [4105\.](%C2%A7%2004105%20-%20Non-Government%20facilities%3B%20use%20of.md) | Non-Government facilities; use of. |
 | \[4106. | Repealed.\] |
-| [4107\.](%C2%A7%2004107%20-%20Restriction%20on%20degree%20training.md) | Restriction on degree training. |
+| [4107\.](%C2%A7%2004107%20-%20Academic%20degree%20training.md) | Academic degree training. |
 | [4108\.](%C2%A7%2004108%20-%20Employee%20agreements%3B%20service%20after%20training.md) | Employee agreements; service after training. |
 | [4109\.](%C2%A7%2004109%20-%20Expenses%20of%20training.md) | Expenses of training. |
 | [4110\.](%C2%A7%2004110%20-%20Expenses%20of%20attendance%20at%20meetings.md) | Expenses of attendance at meetings. |
@@ -26,6 +26,8 @@
 
 #### Amendments
 
+2002—Pub. L. 107–296, title XIII, §1331(b), Nov. 25, 2002, 116 Stat. 2299, substituted “Academic degree training” for “Restriction on degree training” in item 4107.
+
 1995—Pub. L. 104–66, title II, §2181(c)(2), Dec. 21, 1995, 109 Stat. 732, struck out item 4113 “Agency review of training needs; annual program reports”.
 
 1994—Pub. L. 103–226, §2(b)(2), Mar. 30, 1994, 108 Stat. 112, struck out item 4106 “Non-Government facilities; amount of training limited”, substituted “Restriction on degree training” for “Non-Government facilities; restrictions” in item 4107, and struck out item 4114 “Non-Government facilities; review of training programs”.
@@ -34,7 +36,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in section 3381 of this title; title 18 section 209; title 26 section 4941; title 38 section 3681.
+This chapter is referred to in sections 3381, 9701 of this title; title 2 section 609; title 18 section 209; title 26 section 4941; title 38 section 3681.
 
 
 ---
@@ -47,7 +49,7 @@ This chapter is referred to in section 3381 of this title; title 18 section 209;
 - [&sect; 04104 - Government facilities; use of](%C2%A7%2004104%20-%20Government%20facilities%3B%20use%20of.md)
 - [&sect; 04105 - Non-Government facilities; use of](%C2%A7%2004105%20-%20Non-Government%20facilities%3B%20use%20of.md)
 - [&sect; 04106 - Repealed. Pub. L. 103&#8211;226, &sect;2(a)(4), Mar. 30, 1994, 108 Stat. 112](%C2%A7%2004106%20-%20Repealed.%20Pub.%20L.%20103%E2%80%93226%2C%20%C2%A72%28a%29%284%29%2C%20Mar.%2030%2C%201994%2C%20108%20Stat.%20112.md)
-- [&sect; 04107 - Restriction on degree training](%C2%A7%2004107%20-%20Restriction%20on%20degree%20training.md)
+- [&sect; 04107 - Academic degree training](%C2%A7%2004107%20-%20Academic%20degree%20training.md)
 - [&sect; 04108 - Employee agreements; service after training](%C2%A7%2004108%20-%20Employee%20agreements%3B%20service%20after%20training.md)
 - [&sect; 04109 - Expenses of training](%C2%A7%2004109%20-%20Expenses%20of%20training.md)
 - [&sect; 04110 - Expenses of attendance at meetings](%C2%A7%2004110%20-%20Expenses%20of%20attendance%20at%20meetings.md)

@@ -78,7 +78,7 @@ Sept. 13, 1960, Pub. L. 86–778, §§531(e), 542(d), 74 Stat. 984, 986.
 
 Clause (4) of former section 1361(a) is omitted as obsolete.
 
-In paragraph (1)(A), the word “official” is substituted for “officer” because of the definition of “officer” insection 2104. The words “of the Government of the United States” are omitted as unnecessary.
+In paragraph (1)(A), the word “official” is substituted for “officer” because of the definition of “officer” in section 2104. The words “of the Government of the United States” are omitted as unnecessary.
 
 In paragraph (1)(E), the words “by regulations of the Civil Service Commission from the operation of subchapter III of chapter 83 of this title” are substituted for “by Executive order from the operation of the Civil Service Retirement Act of 1930” on authority of the Civil Service Retirement Act Amendments of 1956, which are carried into subchapter III of chapter 83.
 

@@ -14,7 +14,7 @@ The benefits of this subchapter are available as provided in this subchapter to 
 
 &emsp;(3) a law enforcement officer and to have been engaged on that occasion in the lawful prevention of, or lawful attempt to prevent, the commission of a crime against the United States;
 
-> and to have been on that occasion not an employee as defined in section 8101(1), and to have sustained on that occasion a personal injury forwhich the United States would be required under subchapter I of this chapter to pay compensation if he had been on that occasion such an employee engaged in the performance of his duty. No person otherwise eligible to receive a benefit under this subchapter because of the disability or death of an eligible officer shall be barred from the receipt of such benefit because the person apprehended or attempted to be apprehended by such officer was then sought for the commission of a crime against a sovereignty other than the United States.
+> and to have been on that occasion not an employee as defined in section 8101(1), and to have sustained on that occasion a personal injury for which the United States would be required under subchapter I of this chapter to pay compensation if he had been on that occasion such an employee engaged in the performance of his duty. No person otherwise eligible to receive a benefit under this subchapter because of the disability or death of an eligible officer shall be barred from the receipt of such benefit because the person apprehended or attempted to be apprehended by such officer was then sought for the commission of a crime against a sovereignty other than the United States.
 
 (Added Pub. L. 90–291, §1(a), Apr. 19, 1968, 82 Stat. 98; amended Pub. L. 90–623, §1(20), Oct. 22, 1968, 82 Stat. 1313.)
 

@@ -8,12 +8,15 @@
 | [1694\.](%C2%A7%2001694%20-%20Patent%20infringement%20action.md) | Patent infringement action. |
 | [1695\.](%C2%A7%2001695%20-%20Stockholder%27s%20derivative%20action.md) | Stockholder's derivative action. |
 | [1696\.](%C2%A7%2001696%20-%20Service%20in%20foreign%20and%20international%20litigation.md) | Service in foreign and international litigation. |
+| [1697\.](%C2%A7%2001697%20-%20Service%20in%20multiparty%2C%20multiforum%20actions.md) | Service in multiparty, multiforum actions. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
 
-<b>1964</b>—Pub. L. 88–619, §4(b), Oct. 3, 1964, 78 Stat. 996, added item 1696.
+2002—Pub. L. 107–273, div. C, title I, §11020(b)(4)(A)(ii), Nov. 2, 2002, 116 Stat. 1828, added item 1697.
+
+1964—Pub. L. 88–619, §4(b), Oct. 3, 1964, 78 Stat. 996, added item 1696.
 
 
 ---
@@ -26,3 +29,4 @@
 - [&sect; 01694 - Patent infringement action](%C2%A7%2001694%20-%20Patent%20infringement%20action.md)
 - [&sect; 01695 - Stockholder's derivative action](%C2%A7%2001695%20-%20Stockholder%27s%20derivative%20action.md)
 - [&sect; 01696 - Service in foreign and international litigation](%C2%A7%2001696%20-%20Service%20in%20foreign%20and%20international%20litigation.md)
+- [&sect; 01697 - Service in multiparty, multiforum actions](%C2%A7%2001697%20-%20Service%20in%20multiparty%2C%20multiforum%20actions.md)

@@ -20,5 +20,5 @@ This section establishes a time limit on the making of awards. It follows the es
 
 #### Amendments
 
-1962—Pub. L. 87–526 incorporated existing provisions in subsec. (a), included the distinguished flying cross and bar in lieu of any award in the enumeration of medals, and extended the time limit for recommending award of a medal after performance of the deed justifying the award from one to three years and added subsec. (b).
+1962—Pub. L. 87–526 incorporated existing provisions in subsec. (a), included the distinguished flying crossand bar in lieu of any award in the enumeration of medals, and extended the time limit for recommending award of a medal after performance of the deed justifying the award from one to three years and added subsec. (b).
 

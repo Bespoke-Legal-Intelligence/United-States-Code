@@ -16,7 +16,7 @@
 
 &emsp;(5) investigate and, where appropriate, bring actions concerning allegations of violations of other laws within the jurisdiction of the Office of Special Counsel (as referred to in section 1216).
 
-(b)(1) The Special Counsel and any employee of the Office of Special Counsel designated by the Special Counsel may administer oaths, examine witnesses, take depositions, and receive evidence.
+(b)(1) The Special Counsel and any employee of the Office of Special Counsel designated by the Special Counsel may administer oaths, examinewitnesses, take depositions, and receive evidence.
 
 (2) The Special Counsel may—
 
@@ -84,5 +84,5 @@ Report.—The results of the survey conducted under subsection (a) shall be publ
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2105 of this title.
+This section is referred to in section 2105 of this title; title 49 section 40122.
 

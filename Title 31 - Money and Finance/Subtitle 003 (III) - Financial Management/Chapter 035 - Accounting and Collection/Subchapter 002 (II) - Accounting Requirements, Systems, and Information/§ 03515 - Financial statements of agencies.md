@@ -1,20 +1,42 @@
 ### §3515. Financial statements of agencies
 
-(a) Not later than March 1 of 1997 and each year thereafter, the head of each executive agency identified in section 901(b) of this title shall prepare and submit to the Congress and the Director of the Office of Management and Budget an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency.
+(a)(1) <sup>1</sup> Except as provided in subsection (e), not later than March 1 of 2003 and each year thereafter, the head of each covered executive agency shall prepare and submit to the Congress and the Director of the Office of Management and Budget an audited financial statement for the preceding fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency.
 
-(b) Each audited financial statement of an executive agency under this section shall reflect—
+(b) Each audited financial statement of a covered executive agency under this section shall reflect—
 
 &emsp;(1) the overall financial position of the offices, bureaus, and activities covered by the statement, including assets and liabilities thereof; and
 
 &emsp;(2) results of operations of those offices, bureaus, and activities.
 
-(c) The Director of the Office of Management and Budget shall identify components of executive agencies that shall be required to have audited financial statements meeting the requirements of subsection (b).
+(c) The Director of the Office of Management and Budget shall identify components of covered executive agencies that shall be required to have audited financial statements meeting the requirements of subsection (b).
 
-(d) The Director of the Office of Management and Budget shall prescribe the form and content of the financial statements of executive agencies under this section, consistent with applicable accounting and financial reporting principles, standards, and requirements.
+(d) The Director of the Office of Management and Budget shall prescribe the form and content of the financial statements of covered executive agencies under this section, consistent with applicable accounting and financial reporting principles, standards, and requirements.
 
-(Added Pub. L. 101–576, title III, §303(a)(1), Nov. 15, 1990, 104 Stat. 2849; amended Pub. L. 103–356, title IV, §405(a), Oct. 13, 1994, 108 Stat. 3415; Pub. L. 106–531, §4(a), Nov. 22, 2000, 114 Stat. 2539.)
+(e)(1) The Director of the Office of Management and Budget may exempt a covered executive agency, except an agency described in section 901(b), from the requirements of this section with respect to a fiscal year if—
+
+&emsp;(A) the total amount of budget authority available to the agency for the fiscal year does not exceed $25,000,000; and
+
+&emsp;(B) the Director determines that requiring an annual audited financial statement for the agency with respect to the fiscal year is not warranted due to the absence of risks associated with the agency's operations, the agency's demonstrated performance, or other factors that the Director considers relevant.
+
+(2) The Director shall annually notify the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate of each agency the Director has exempted under this subsection and the reasons for each exemption.
+
+(f) The term “covered executive agency”—
+
+&emsp;(1) means an executive agency that is not required by another provision of Federal law toprepare and submit to the Congress and the Director of the Office of Management and Budget an audited financial statement for each fiscal year, covering all accounts and associated activities of each office, bureau, and activity of the agency; and
+
+&emsp;(2) does not include a corporation, agency, or instrumentality subject to chapter 91 of this title.
+
+(Added Pub. L. 101–576, title III, §303(a)(1), Nov. 15, 1990, 104 Stat. 2849; amended Pub. L. 103–356, title IV, §405(a), Oct. 13, 1994, 108 Stat. 3415; Pub. L. 106–531, §4(a), Nov. 22, 2000, 114 Stat. 2539; Pub. L. 107–289, §2(a), Nov. 7, 2002, 116 Stat. 2049.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–289, §2(a)(1), substituted “(1) Except as provided in subsection (e), not later” for “Not later”, “2003” for “1997”, and “each covered executive agency” for “each executive agency identified in section 901(b) of this title”.
+
+Subsec. (b). Pub. L. 107–289, §2(a)(2), substituted “a covered executive agency” for “an executive agency” in introductory provisions.
+
+Subsecs. (c), (d). Pub. L. 107–289, §2(a)(3), substituted “covered executive agencies” for “executive agencies”.
+
+Subsecs. (e), (f). Pub. L. 107–289, §2(a)(4), added subsecs. (e) and (f).
 
 2000—Subsec. (a). Pub. L. 106–531, §4(a)(1), inserted “Congress and the” before “Director”.
 
@@ -38,6 +60,18 @@ Subsecs. (e) to (h). Pub. L. 106–531, §4(a)(2), struck out subsecs. (e) to (h
 
 Section 303(a)(2), (3), (b) of Pub. L. 101–576 provided that section 3515(e) of this title, as added by section 303(a)(1) of Pub. L. 101–576, would take effect on date on which a resolution was passed by Congress and approved by the President, provided that Director of Office of Management and Budget could, for fiscal year 1991, waive application of section 3515(a) of this title with respect to any revolving fund, trust fund, or account of an executive agency, and described and specified procedures for passage of the resolution.
 
+#### Waiver Authority
+
+Pub. L. 107–289, §2(b), Nov. 7, 2002, 116 Stat. 2050, provided that:
+
+“(1)
+
+In general.—The Director of the Office of Management and Budget may waive the application of all or part of section 3515(a) of title 31, United States Code, as amended by this section, for financial statements required for the first 2 fiscal years beginning after the date of the enactment of this Act \[Nov. 7, 2002\] for an agency described in paragraph (2) of this subsection.
+
+“(2)
+
+Agencies described.—An agency referred to in paragraph (1) is any covered executive agency (as that term is defined by section 3515(f) of title 31, United States Code, as amended by subsection (a) of this section) that is not an executive agency identified in section 901(b) of title 31, United States Code.”
+
 #### Report on Substantial Commercial Functions
 
 Section 303(c) of Pub. L. 101–576 directed Director of Office of Management and Budget, not later than 180 days after Nov. 15, 1990, to determine and report to Congress on which executive agencies or parts thereof perform substantial commercial functions for which financial statements can be prepared practicably under 31 U.S.C. 3515.
@@ -49,4 +83,6 @@ Section 303(d), (e) of Pub. L. 101–576 directed specific departments, administ
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 902, 3512, 3521 of this title; title 7 section 136a–1; title 12 section 1709; title 36 section 2103; title 44 section 309.
+
+<i><sup>1</sup></i><i> So in original. No par. (2) has been enacted</i>
 

@@ -28,7 +28,7 @@ For purposes of subsection (a) of this section, the laws or regulations of a Sta
 
 &emsp;&emsp;(F) Notifications under subparagraph (A) are provided in person, unless doing so is an unreasonable burden on the State.
 
-&emsp;&emsp;(G) There is no criminal or civil penalty on, or civil liability for, an infected individual if the individual chooses not to identify the partners of the individual, or the individual does not otherwise cooperate with such program.
+&emsp;&emsp;(G) There is no criminal or civil penalty on, or civil liability for, an infected individual if the individual chooses not to identifythe partners of the individual, or the individual does not otherwise cooperate with such program.
 
 &emsp;&emsp;(H) The failure of the State to notify partners is not a basis for the civil liability of any health entity who under the program reported to the State the identity of the infected individual involved.
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;(C) in the case of a career appointee, may not be made within 120 days after the beginning of a new Presidential administration; and
 
-&emsp;&emsp;(D) are based on performance during a performance appraisal period the duration of which shall be determined under guidelinesestablished by the Office of Personnel Management, but which may be terminated in any case in which the agency making an appraisal determines that an adequate basis exists on which to appraise and rate the senior executive's performance;
+&emsp;&emsp;(D) are based on performance during a performance appraisal period the duration of which shall be determined under guidelines established by the Office of Personnel Management, but which may be terminated in any case in which the agency making an appraisal determines that an adequate basis exists on which to appraise and rate the senior executive's performance;
 
 &emsp;(2) any career appointee receiving a rating at any of the fully successful levels under subsection (a)(1) of this section may be given a performance award under section 5384 of this title;
 
@@ -44,5 +44,5 @@
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3393a, 3395, 3592, 4312, 5384 of this title.
+This section is referred to in sections 3395, 3592, 4312, 5384 of this title.
 

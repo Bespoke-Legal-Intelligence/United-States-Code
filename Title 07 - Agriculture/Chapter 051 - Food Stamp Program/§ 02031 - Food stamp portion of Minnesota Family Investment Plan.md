@@ -12,7 +12,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;(1) Only families may be eligible to receive assistance and services through the Project.
 
-&emsp;(2) Participating families, families eligible for or participating in the program authorized under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] or the food stamp program that are assigned to and found eligible for the Project, and families required to submit an application for the Project that arefound eligible for the Project shall be ineligible to receive benefits under the food stamp program.
+&emsp;(2) Participating families, families eligible for or participating in the program authorized under part A of title IV of the Social Security Act \[42 U.S.C. 601 et seq.\] or the food stamp program that are assigned to and found eligible for the Project, and families required to submit an application for the Project that are found eligible for the Project shall be ineligible to receive benefits under the food stamp program.
 
 &emsp;(3)(A) Subject to the provisions of this paragraph and any reduction imposed under subsection (c)(3) of this section, the value of assistance provided to participating families shall not be less than the aggregate value of the assistance such families could receive under the food stamp program and part A of title IV of the Social Security Act if such families did not participate in the Project.
 
@@ -42,7 +42,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;(iii) The State shall periodically allow participating families the option to receive such food assistance in the form of coupons.
 
-&emsp;(E)(i) Individuals ineligible for the Project who are members of a household including a participating family shall have their eligibility for the food stamp program determined and have their benefits calculated and issued following the standards established under the food stamp program, except as provided differently in this subparagraph.
+&emsp;(E)(i) Individuals ineligible for the Project who are members of a household including aparticipating family shall have their eligibility for the food stamp program determined and have their benefits calculated and issued following the standards established under the food stamp program, except as provided differently in this subparagraph.
 
 &emsp;(ii) The State agency shall determine such individuals’ eligibility for benefits under the food stamp program and the amount of such benefits without regard to the participating family.
 
@@ -86,7 +86,7 @@ The application submitted by the State under subsection (a) of this section shal
 
 &emsp;(10)(A) The State shall provide each family or family member whose participation in the Project ends and each family whose participation is terminated with notice of the existence of the food stamp program and the person or agency to contact for more information.
 
-&emsp;(B)(i) Following the standards specified in subparagraph (C), the State shall ensure that benefits under the food stamp program are provided to participating families in case the Project is terminated or to participating families or family members that are determined ineligible for the Project because of income, resources, or change in household composition, if such families or individuals are determined eligible for the food stamp program. Food coupons shall be issued to eligible families and individuals described in this clause retroactive to the date of termination from the Project; and
+&emsp;(B)(i) Following the standards specified in subparagraph (C), the State shall ensure that benefits under the food stamp program are provided to participating families in case the Project is terminated or to participating families or family members that are determined ineligible for the Project because of income, resources, or change in household composition, if such families or individuals are determined eligible for the food stamp program. Food coupons shall be issued to eligible families and individuals described in this clauseretroactive to the date of termination from the Project; and
 
 &emsp;(ii) If sections 256.031 through 256.036 of the Minnesota Statutes, 1989 Supplement, or Minnesota Laws 1989, chapter 282, article 5, section 130, are amended to reduce or eliminate benefits provided under those sections or restrict the rights of Project applicants or participating families, the State shall exclude from the Project applicants or participating families or individuals affected by such amendments and follow the standards specified in subparagraph (C), except that the State shall continue to pay from State funds an amount equal to the food assistance portion to such families and individuals until the State determines eligibility or ineligibility for the food stamp program or the family or individual has failed to supply the needed additional information within ten days. Food coupons shall be provided to families and individuals excluded from the Project under this clause who are determined eligible for the food stamp program retroactive to the date of the determination of eligibility. The Secretary shall pay to the State the value of the food coupons for which such families and individuals would have been eligible in the absence of food assistance payments under this clause from the date of termination from the Project to the date food coupons are provided.
 
@@ -130,7 +130,7 @@ The Project shall be subject to the following additional terms and conditions:
 
 &emsp;(2) The State shall not require any parent of a child under six years of age in a participating family with only one parent to be employed or participate in education or employment and training services for more than twenty hours a week.
 
-&emsp;(3) For any period during which an individual required to participate in education, employment, or training requirements fails to comply without good cause with a requirement imposed by the State under paragraph (1), the amount of assistance to the family under the Project may be reduced by an amount not more than 10 percent of the assistance the family would be eligible for with no income other than that from the Project.
+&emsp;(3) For any period during which an individual required to participate in education, employment, or training requirements fails to comply without good cause with a requirement imposed by the State under paragraph (1), the amount of assistance to the familyunder the Project may be reduced by an amount not more than 10 percent of the assistance the family would be eligible for with no income other than that from the Project.
 
 #### (d) Funding
 
@@ -180,11 +180,11 @@ The Comptroller General of the United States shall—
 
 #### (h) Quality control
 
-Participating families shall be excluded from any sample taken for purposes of making any determination under section 2025(c) of this title. For purposes of establishing the total value of allotments under section 2025(c)(1)(C) of this title, food coupons and the amount of federal liability for food assistance provided under the Project as limited by subsection (b)(12) of this section shall be treated as allotments issued under the food stamp program. Payments for administrative costs incurred by the State shall be included for purposes of establishing the adjustment under section 2025(c)(1)(A) of this title.
+Participating families shall be excluded from any sample taken for purposes of making any determination under section 2025(c) of this title. For purposes of establishing the total value of allotments under section 2025(c)(1) of this title, food coupons and the amount of federal liability for food assistance provided under the Project as limited by subsection (b)(12) of this section shall be treated as allotments issued under the food stamp program.
 
 #### (i) Evaluation
 
-(1) The State shall develop and implement a plan for an independent evaluation designed to provide reliable information on Project impacts and implementation. The evaluation will include treatment and control groups and will include random assignment of families to treatment and control groups in an urban setting. The evaluation plan shall satisfy the evaluation concerns of the Secretary of Agriculture such as effects on benefits to participants, costs of the Project, payment accuracy, administrative consequences, any reduction in welfare dependency, any reduction in total assistance payments, and the consequences of cash payments on household expenditures, and food consumption. The evaluation plan shall take into consideration the evaluation requirements and administrative obligations of the State. The evaluation will measure the effects of the Project in regard to goals of increasing family income, prevention of long-term dependency, movement toward self-support, and simplification of the welfare system.
+(1) The State shall develop and implement a plan for an independent evaluation designed to provide reliable information on Project impacts and implementation. The evaluation will include treatment and control groups and will include random assignment of families to treatment and control groups in an urban setting. The evaluation plan shall satisfy the evaluation concerns of the Secretary of Agriculture such as effects on benefits to participants, costs of the Project, payment accuracy, administrative consequences, any reduction in welfare dependency,any reduction in total assistance payments, and the consequences of cash payments on household expenditures, and food consumption. The evaluation plan shall take into consideration the evaluation requirements and administrative obligations of the State. The evaluation will measure the effects of the Project in regard to goals of increasing family income, prevention of long-term dependency, movement toward self-support, and simplification of the welfare system.
 
 (2) The State shall pay 50 percent of the cost of developing and implementing such plan and the Federal Government shall pay the remainder.
 
@@ -200,7 +200,7 @@ For purposes of this section, the following definitions apply:
 
 &emsp;(4) The term “State” means the State of Minnesota.
 
-(Pub. L. 88–525, §22, as added Pub. L. 101–202, Dec. 6, 1989, 103 Stat. 1796; amended Pub. L. 102–237, title IX, §941(11), Dec. 13, 1991, 105 Stat. 1893.)
+(Pub. L. 88–525, §22, as added Pub. L. 101–202, Dec. 6, 1989, 103 Stat. 1796; amended Pub. L. 102–237, title IX, §941(11), Dec. 13, 1991, 105 Stat. 1893; Pub. L. 107–171, title IV, §4118(d), May 13, 2002, 116 Stat. 321.)
 
 #### References in Text
 
@@ -210,11 +210,19 @@ Section 482 of the Social Security Act, referred to in subsec. (b)(11), was clas
 
 #### Amendments
 
+Subsec. (h). Pub. L. 107–171 substituted “section 2025(c)(1) of this title” for “section 2025(c)(1)(C) of this title” and struck out “Payments for administrative costs incurred by the State shall be included for purposes of establishing the adjustment under section 2025(c)(1)(A) of this title.” at end.
+
 1991—Pub. L. 102–237, §941(11)(A), inserted section catchline.
 
 Subsec. (d)(2)(B). Pub. L. 102–237, §941(11)(B), substituted “subsection (b)(3)(D)(iii)” for “paragraph (b)(3)(D)(iii)”.
 
 Subsec. (h). Pub. L. 102–237, §941(11)(C), substituted “subsection (b)(12)” for “subsection b(12)”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–171 not applicable with respect to any sanction, appeal, new investment agreement, or other action by the Secretary of Agriculture or a State agency that is based on a payment error rate calculated for any fiscal year before fiscal year 2003, see section 4118(e) of Pub. L. 107–171, set out as a note under section 2022 of this title.”
+
+Amendment by Pub. L. 107–171 effective Oct. 1, 2002, except as otherwise provided, see section 4405 of Pub. L. 107–171, set out as an Effective Date note under section 1161 of Title 2, The Congress.
 
 #### Effective Date of 1991 Amendment
 

@@ -8,3 +8,7 @@ There is established at the seat of government an executive department to be kno
 
 This chapter, referred to in text, was in the original “this Act”, meaning Pub. L. 95–91, Aug. 4, 1977, 91 Stat. 565, as amended, known as the Department of Energy Organization Act, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 7101 of this title and Tables.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Department of Energy, including the functions of the Secretary of Energy relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 121(g)(4), 183(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+

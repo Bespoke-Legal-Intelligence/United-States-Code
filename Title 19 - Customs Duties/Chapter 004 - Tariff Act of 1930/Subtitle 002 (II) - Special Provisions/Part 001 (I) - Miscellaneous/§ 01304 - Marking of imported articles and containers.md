@@ -62,13 +62,13 @@ The marking requirements of subsections (a) and (b) of this section shall not ap
 
 The marking requirements of subsections (a) and (b) of this section shall not apply either to—
 
-&emsp;(1) articles provided for in subheading 6214.10.10 of the Harmonized Tariff Schedule of the United States, as in effect on January 1, 1997; or
+&emsp;(1) articles provided for in subheading 6214.10.10 of the Harmonized Tariff Schedule ofthe United States, as in effect on January 1, 1997; or
 
 &emsp;(2) articles provided for in heading 5007 of the Harmonized Tariff Schedule of the United States as in effect on January 1, 1997.
 
 #### (i) Additional duties for failure to mark
 
-If at the time of importation any article (or its container, as provided in subsection (b) of this section) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) of this section) marked after importation in accordance with the requirements of this section (such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exemptfrom the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
+If at the time of importation any article (or its container, as provided in subsection (b) of this section) is not marked in accordance with the requirements of this section, and if such article is not exported or destroyed or the article (or its container, as provided in subsection (b) of this section) marked after importation in accordance with the requirements of this section (such exportation, destruction, or marking to be accomplished under customs supervision prior to the liquidation of the entry covering the article, and to be allowed whether or not the article has remained in continuous customs custody), there shall be levied, collected, and paid upon such article a duty of 10 per centum ad valorem, which shall be deemed to have accrued at the time of importation, shall not be construed to be penal, and shall not be remitted wholly or in part nor shall payment thereof be avoidable for any cause. Such duty shall be levied, collected, and paid in addition to any other duty imposed by law and whether or not the article is exempt from the payment of ordinary customs duties. The compensation and expenses of customs officers and employees assigned to supervise the exportation, destruction, or marking to exempt articles from the application of the duty provided for in this subsection shall be reimbursed to the Government by the importer.
 
 #### (j) Delivery withheld until marked
 
@@ -132,7 +132,7 @@ Any person who, with intent to conceal the information given thereby or containe
 
 &emsp;(2) upon conviction for the second or any subsequent violation of this subsection, be fined not more than $250,000, or imprisoned for not more than 1 year, or both.
 
-(June 17, 1930, ch. 497, title III, §304, 46 Stat. 687; June 25, 1938, ch. 679, §3, 52 Stat. 1077; Aug. 8, 1953, ch. 397, §4(c), 67 Stat. 509; Pub. L. 98–573, title II, §207, Oct. 30, 1984, 98 Stat. 2976; Pub. L.99–514, title XVIII, §1888(1), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–418, title I, §1907(a)(1), Aug. 23, 1988, 102 Stat. 1314; Pub. L. 103–182, title II, §207(a), Dec. 8, 1993, 107 Stat. 2096; Pub. L. 104–295, §14(a), (b), Oct. 11, 1996, 110 Stat. 3521, 3522; Pub. L. 106–36, title II, §2423(a), (b), June 25, 1999, 113 Stat. 180.)
+(June 17, 1930, ch. 497, title III, §304, 46 Stat. 687; June 25, 1938, ch. 679, §3, 52 Stat. 1077; Aug. 8, 1953, ch. 397, §4(c), 67 Stat. 509; Pub. L. 98–573, title II, §207, Oct. 30, 1984, 98 Stat. 2976; Pub. L. 99–514, title XVIII, §1888(1), Oct. 22, 1986, 100 Stat. 2924; Pub. L. 100–418, title I, §1907(a)(1), Aug. 23, 1988, 102 Stat. 1314; Pub. L. 103–182, title II, §207(a), Dec. 8, 1993, 107 Stat. 2096; Pub. L. 104–295, §14(a), (b), Oct. 11, 1996, 110 Stat. 3521, 3522; Pub. L. 106–36, title II, §2423(a), (b), June 25, 1999, 113 Stat. 180.)
 
 #### References in Text
 
@@ -218,7 +218,7 @@ Section 214 of title II of Pub. L. 98–573 provided that:
 
 > shall, notwithstanding the provisions of section 514 of the Tariff Act of 1930 (19 U.S.C. 1514) or any other provision of law, be liquidated or reliquidated as though such entry had been made on the 15th day.
 
-“(4) The amendments made by section 209 \[enacting section 1484a of this title and amending section 1202 ofthis title\] shall apply with respect to articles launched into space from the customs territory of the United States on or after January 1, 1985.
+“(4) The amendments made by section 209 \[enacting section 1484a of this title and amending section 1202 of this title\] shall apply with respect to articles launched into space from the customs territory of the United States on or after January 1, 1985.
 
 “(5)(A) The amendment made by section 210(a) \[amending section 1505 of this title\] shall take effect on the 30th day after the date of the enactment of this Act \[Oct. 30, 1984\].
 
@@ -254,7 +254,9 @@ Section 23 of act Aug. 8, 1953, provided: “Except as may be otherwise provided
 
 #### Transfer of Functions
 
-Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers and employees, referred to in text, are under Department of the Treasury.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs officers and employees, referred to in text, were under Department of the Treasury.
 
 #### Marking Requirements for Articles Qualifying as Goods of NAFTA Country
 
@@ -262,7 +264,7 @@ Section 207(b) of Pub. L. 103–182 provided that: “Articles that qualify as g
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, seesection 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
 
 #### Section Referred to in Other Sections
 

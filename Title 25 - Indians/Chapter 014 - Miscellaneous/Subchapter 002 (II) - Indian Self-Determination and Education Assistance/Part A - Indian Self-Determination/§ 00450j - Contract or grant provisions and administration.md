@@ -20,7 +20,7 @@
 
 (ii) The laws listed in this paragraph are as follows:
 
-&emsp;(I) The Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.).
+&emsp;(I) The Federal Property and Administrative Services Act of 1949.<sup>1</sup>
 
 &emsp;(II) Section 3709 of the Revised Statutes \[41 U.S.C. 5\].
 
@@ -32,7 +32,7 @@
 
 &emsp;(VI) Chapters 21, 25, 27, 29, and 31 of title 44.
 
-&emsp;(VII) Section 2 of the Act of June 13, 1934 (48 Stat 948, chapter 483 <sup>1</sup>) \[40 U.S.C. 276c\].
+&emsp;(VII) Section 3145 of title 40.
 
 &emsp;(VIII) Sections 1 through 12 of the Act of June 30, 1936 (49 Stat. 2036 et seq. chapter 881) \[41 U.S.C. 35–45\].
 
@@ -112,7 +112,7 @@ Upon providing notice to the Secretary, a tribal organization that carries out a
 
 #### (k) Access to Federal sources of supply
 
-For purposes of section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a)) (relating to Federal sources of supply, including lodging providers, airlines and other transportation providers), a tribal organization carrying out a contract, grant, or cooperative agreement under this subchapter shall be deemed an executive agency and part of the Indian Health Service when carrying out such contract, grant, or agreement and the employees of the tribal organization shall be eligible to have access to such sources of supply on the same basis as employees of an executive agency have such access. For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements.
+For purposes of section 501 of title 40 (relating to Federal sources of supply, including lodging providers, airlines and other transportation providers), a tribal organization carrying out a contract, grant, or cooperative agreement under this subchapter shall be deemed an executive agency and part of the Indian Health Service when carrying out such contract, grant, or agreement and the employees of the tribal organization shall be eligible to have access to such sources of supply on the same basis as employees of an executive agency have such access. For purposes of carrying out such contract, grant, or agreement, the Secretary shall, at the request of an Indian tribe, enter into an agreement for the acquisition, on behalf of the Indian tribe, of any goods, services, or supplies available to the Secretary from the General Services Administration or other Federal agencies that are not directly available to the Indian tribe under this section or under any other Federal law, including acquisitions from prime vendors. All such acquisitions shall be undertaken through the most efficient and speedy means practicable, including electronic ordering arrangements.
 
 #### (<i>l</i>) Lease of facility used for administration and delivery of services
 
@@ -140,7 +140,7 @@ For purposes of section 201(a) of the Federal Property and Administrative Servic
 
 &emsp;(D) A negotiation session during which the Secretary and the tribe or tribal organization shall seek to develop a mutually agreeable contract proposal.
 
-&emsp;(E) Upon the request of the tribe or tribal organization, the use of an alternative dispute resolution mechanism to seek resolution of all remaining areas of disagreement pursuant to the dispute resolution provisions under subchapter IV of chapter 5 of title 5.
+&emsp;(E) Upon the request of the tribe or tribal organization, the use of an alternative disputeresolution mechanism to seek resolution of all remaining areas of disagreement pursuant to the dispute resolution provisions under subchapter IV of chapter 5 of title 5.
 
 &emsp;(F) The submission to the Secretary by the tribe or tribal organization of a final contract proposal pursuant to section 450f(a) of this title.
 
@@ -190,13 +190,13 @@ Notwithstanding any other provision of law, the rental rates for housing provide
 
 The Office of Federal Procurement Policy Act, referred to in subsec. (a)(3)(A), is Pub. L. 93–400, Aug. 30, 1974, 88 Stat. 796, as amended, which is classified principally to chapter 7 (§401 et seq.) of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 401 of Title 41 and Tables.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(3)(C)(ii)(I), (IV), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of the Act relating to management and disposal of Government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (a)(3)(C)(ii)(I), (IV), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Except for title III of the Act, which is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts, the Act was repealed and reenacted by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304, as chapters 1 to 11 of Title 40, Public Buildings, Property, and Works.
 
 Section 9(c) of the Act of Aug. 2, 1946, referred to in subsec. (a)(3)(C)(ii)(III), is section 9(c) of act Aug. 2, 1946, ch. 744, 60 Stat. 809, which amended section 5 of Title 41.
 
 The Service Control Act of 1965, referred to in subsec. (a)(3)(C)(ii)(IX), probably means the Service Contract Act of 1965, or Pub. L. 89–286, Oct. 22, 1965, 79 Stat. 1034, as amended, which is classified generally to chapter 6 (§351 et seq.) of Title 41. For complete classification of this Act to the Code, see Short Title note set out under section 351 of Title 41 and Tables.
 
-The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
+The Small Business Act, referred to in subsec. (a)(3)(C)(ii)(X), is Pub. L. 85–536, July 18, 1958, 72 Stat. 384, as amended, which is classified generally to chapter 14A (§631 et seq.) of Title 15, Commerce and Trade.For complete classification of this Act to the Code, see Short Title note set out under section 631 of Title 15 and Tables.
 
 Executive Order Nos. 12138, 11246, 11701 and 11758, referred to in subsec. (a)(3)(C)(ii)(XI), are Ex. Ord. No. 12138, May 18, 1979, 44 F.R. 29637, as amended, which is set out as a note under section 631 of Title 15, Ex. Ord. No. 11246, Sept. 24, 1965, 30 F.R. 12319, as amended, which is set out as a note under section 2000e of Title 42, The Public Health and Welfare, Ex. Ord. No. 11701, Jan. 24, 1973, 38 F.R. 2675, which is set out as a note under section 4212 of Title 38, Veterans’ Benefits, and Ex. Ord. No. 11758, Jan. 15, 1974, 39 F.R. 2075, as amended, which is set out as a note under section 701 of Title 29, Labor.
 
@@ -207,6 +207,10 @@ Section 314 of the Department of the Interior and Related Agencies Appropriation
 Subsections (a)(2) and (b) of section 450f of this title, referred to in subsec. (m)(4)(C)(v), was in the original “sections 102(a)(2) and 102(b) of section 102”, and was translated as reading “subsections (a)(2) and (b) of section 102”, meaning section 102 of Pub. L. 93–638, to reflect the probable intent of Congress.
 
 The Federal Records Act of 1950, referred to in subsec. (<i>o</i>), was title V of act June 30, 1949, ch. 288, as added Sept. 5, 1950, ch. 849, §6(d), 64 Stat. 583, which was classified generally to sections 392 to 396 and 397 to 401 of former Title 44, Public Printing and Documents. Title V of act June 30, 1949, was repealed by Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1238, the first section of which enacted Title 44, Public Printing and Documents. For disposition of sections of former Title 44, see Table at the beginning of Title 44.
+
+#### Codification
+
+“Section 3145 of title 40” substituted in subsec. (a)(3)(C)(ii)(VII) for “Section 2 of the Act of June 13, 1934 (48 Stat 948, chapter 483 \[meaning chapter 482\])” and “section 501 of title 40” substituted in subsec. (k) for “section 201(a) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 481(a))” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 
@@ -246,7 +250,7 @@ Subsec. (f)(2), (3). Pub. L. 101–644, §203(e), inserted “or real” after �
 
 Subsec. (b). Pub. L. 100–472, §204(d), which directed the amendment of subsec. (b) by substituting “sections 450f and 450h” for “sections 450f, 450g, and 450h” was executed by substituting the new language for “section 450f, 450g, or 450h” as the probable intent of Congress.
 
-Subsec. (c). Pub. L. 100–472, §204(e), added subsec. (c) and struck out former subsec. (c) which read as follows: “Any contract requested by a tribe pursuant to sections 450f and 450g of this title shall be for a term not to exceed one year unless the appropriate Secretary determines that a longer term would be advisable: <i>Provided</i>, That such term may not exceed three years and shall be subject to the availability of appropriations: <i>Provided, further</i>, That the amounts of such contracts may be renegotiated annually to reflect factors, including but not limited to cost increases beyond the control of a tribal organization.”
+Subsec. (c). Pub. L. 100–472, §204(e), added subsec. (c) and struck out former subsec. (c) which read as follows: “Any contract requested by a tribe pursuant to sections 450f and 450g of this title shall be for a term notto exceed one year unless the appropriate Secretary determines that a longer term would be advisable: <i>Provided</i>, That such term may not exceed three years and shall be subject to the availability of appropriations: <i>Provided, further</i>, That the amounts of such contracts may be renegotiated annually to reflect factors, including but not limited to cost increases beyond the control of a tribal organization.”
 
 Subsec. (d). Pub. L. 100–472, §204(e), added subsec. (d) and struck out former subsec. (d) which related to revision or amendment of contracts or grants at request or with consent of tribal organization and effective date for retrocession of contracts.
 
@@ -266,7 +270,7 @@ Pub. L. 105–277, div. A, §101(e) \[title I\], Oct. 21, 1998, 105 Stat. 2681�
 
 This section is referred to in sections 450b, 450j–1, 450k, 450<i>l</i>, 458cc, 458ff, 458aaa–5, 458aaa–7, 458aaa–8, 458aaa–15, 458aaa–16, 2001, 2503, 2507, 3307 of this title.
 
-<i><sup>1</sup></i><i> So in original. probably should be “482”.</i>
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> See References in Text note below.</i>
 

@@ -64,5 +64,5 @@ Federal Technology Transfer Act of 1986.—Nothing in sections \[sic\] 25 or 26 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 272 of this title.
+This section is referred to in sections 272, 278g–5 of this title.
 

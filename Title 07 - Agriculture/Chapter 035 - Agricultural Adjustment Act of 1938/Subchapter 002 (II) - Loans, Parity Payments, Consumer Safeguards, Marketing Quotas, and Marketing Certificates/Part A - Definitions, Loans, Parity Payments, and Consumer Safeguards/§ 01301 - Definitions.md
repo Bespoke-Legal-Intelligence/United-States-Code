@@ -26,7 +26,7 @@ For the purposes of this subchapter and the declaration of policy—
 
 &emsp;(3) The term “interstate and foreign commerce” means sale, marketing, trade, and traffic between any State or Territory or the District of Columbia or Puerto Rico, and any place outside thereof; or between points within the same State or Territory or within the District of Columbia or Puerto Rico, through any place outside thereof; or within any Territory or within the District of Columbia or Puerto Rico.
 
-&emsp;(4) The term “affect interstate and foreign commerce” means, among other things, in such commerce, or to burden or obstruct such commerce or the free and orderly flow thereof;or to create or tend to create a surplus of any agricultural commodity which burdens or obstructs such commerce or the free and orderly flow thereof.
+&emsp;(4) The term “affect interstate and foreign commerce” means, among other things, insuch commerce, or to burden or obstruct such commerce or the free and orderly flow thereof; or to create or tend to create a surplus of any agricultural commodity which burdens or obstructs such commerce or the free and orderly flow thereof.
 
 &emsp;(5) The term “United States” means the several States and Territories and the District of Columbia and Puerto Rico.
 
@@ -62,7 +62,7 @@ For the purposes of this subchapter—
 
 &emsp;(5) “Farm consumption” of corn means consumption by the farmer's family, employees, or household, or by his work stock; or consumption by poultry or livestock on his farm if such poultry or livestock, or the products thereof, are consumed or to be consumed by the farmer's family, employees, or household.
 
-&emsp;(6)(A) “Market”, in the case of corn, cotton, rice, tobacco, and wheat, means to dispose of, in raw or processed form, by voluntary or involuntary sale, barter, or exchange, or by gift inter vivos, and, in the case of corn and wheat, by feeding (in any form) to poultry or livestock which, or the products of which, are sold, bartered, or exchanged, or to be so disposed of, but does not include disposing of any such commodities as premium to the Federal Crop Insurance Corporation under the Federal Crop Insurance Act \[7 U.S.C. 1501 et seq.\].
+&emsp;(6)(A) “Market”, in the case of corn, cotton, rice, tobacco, and wheat, means to dispose of,in raw or processed form, by voluntary or involuntary sale, barter, or exchange, or by gift inter vivos, and, in the case of corn and wheat, by feeding (in any form) to poultry or livestock which, or the products of which, are sold, bartered, or exchanged, or to be so disposed of, but does not include disposing of any such commodities as premium to the Federal Crop Insurance Corporation under the Federal Crop Insurance Act \[7 U.S.C. 1501 et seq.\].
 
 &emsp;(B) “Marketed”, “marketing”, and “for market” shall have corresponding meanings to the term “market” in the connection in which they are used.
 
@@ -104,7 +104,7 @@ For the purposes of this subchapter—
 
 &emsp;(13)(A) Repealed. Pub. L. 87–703, title III, §320(1), Sept. 26, 1962, 76 Stat. 625.
 
-&emsp;(B) “Normal yield” for any county, in the case of peanuts, shall be the average yield per acre of peanuts for the county adjusted for abnormal weather conditions, during the five calendar years immediately preceding the year in which such normal yield is determined. For 1942, the normal yield for any county, in the case of peanuts, shall be the average yield per acre for peanuts for the county, adjusted for abnormal conditions, duringthe years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining the normal yields for counties in the State.
+&emsp;(B) “Normal yield” for any county, in the case of peanuts, shall be the average yield per acre of peanuts for the county adjusted for abnormal weather conditions, during the five calendar years immediately preceding the year in which such normal yield is determined. For 1942, the normal yield for any county, in the case of peanuts, shall be the average yield per acre for peanuts for the county, adjusted for abnormal conditions, during the years 1936–1940, inclusive, except that for any county in which the years 1935–1939, inclusive, are equally as representative, such period may be used in determining the normal yields for counties in the State.
 
 &emsp;(C) In applying subparagraph (A) or (B) of this paragraph, if for any such year the data are not available, or there is no actual yield, an appraised yield for such year, determined in accordance with regulations issued by the Secretary, shall be used as the actual yield for such year. In applying such subparagraphs, if, on account of drought, flood, insect pests, plant disease, or other uncontrollable natural cause, the yield in any year of such ten-year period or five-year period, as the case may be, is less than 75 per centum of the average (computed without regard to such year) such year shall be eliminated in calculating the normal yield per acre.
 
@@ -122,7 +122,7 @@ For the purposes of this subchapter—
 
 &emsp;(J) “Projected county yield” for any crop of wheat shall be determined on the basis of the yield per harvested acre of such commodity on the county during each of the five calendar years immediately preceding the year in which such projected county yield is determined, adjusted for abnormal weather conditions affecting such yield, for trends in yields and for any significant changes in production practices.
 
-&emsp;(K) “Projected farm yield” for any crop of wheat shall be determined on the basis of the yield per harvested acre of such commodity in the farm during each of the three calendar years immediately preceding the year in which such projected farm yield is determined, adjusted for abnormal weather conditions affecting such yield, for trends in yields and for any significant changes in production practices, but in no event shall such projected farm yield be less than the normal yield forsuch farm as provided in subparagraph (E) of this paragraph.
+&emsp;(K) “Projected farm yield” for any crop of wheat shall be determined on the basis of the yield per harvested acre of such commodity in the farm during each of the three calendar years immediately preceding the year in which such projected farm yield is determined, adjusted for abnormal weather conditions affecting such yield, for trends in yields and for any significant changes in production practices, but in no event shall such projected farm yield be less than the normal yield for such farm as provided in subparagraph (E) of this paragraph.
 
 &emsp;(L) “Projected national, State, and county yields” for any crop of cotton shall be determined on the basis of the yield per harvested acre of such crop in the United States, the State and the county, respectively, during each of the five calendar years immediately preceding the year in which such projected yield for the United States, the State, and the county, respectively, is determined, adjusted for abnormal weather conditions affecting such yield, for trends in yields, and for any significant changes in production practices.
 
@@ -134,9 +134,9 @@ For the purposes of this subchapter—
 
 &emsp;(C) “Reserve stock level”, in the case of Flue-cured tobacco, shall be the greater of—
 
-&emsp;&emsp;(i) 100,000,000 pounds (farm sales weight); or
+&emsp;&emsp;(i) 60,000,000 pounds (farm sales weight); or
 
-&emsp;&emsp;(ii) 15 percent of the national marketing quota for Flue-cured tobacco for the marketing year immediately preceding the marketing year for which the level is being determined.
+&emsp;&emsp;(ii) 10 percent of the national marketing quota for Flue-cured tobacco for the marketing year immediately preceding the marketing year for which the level is being determined.
 
 &emsp;(D) “Reserve stock level”, in the case of Burley tobacco, shall be the greater of—
 
@@ -180,7 +180,7 @@ The latest available statistics of the Federal Government shall be used by the S
 
 In making any determination under this chapter or under the Agricultural Act of 1949 \[7 U.S.C. 1421 et seq.\] with respect to the carryover of any agricultural commodity, the Secretary shall exclude from such determination the stocks of any commodity acquired pursuant to, or under the authority of, the Strategic and Critical Materials Stock Piling Act (60 Stat. 596) \[50 U.S.C. 98 et seq.\].
 
-(Feb. 16, 1938, ch. 30, title III, §301, 52 Stat. 38; Apr. 7, 1938, ch. 107, §§2–4, 52 Stat. 202; June 13, 1940, ch. 360, §1, 54 Stat. 392; July 2, 1940, ch. 521, §§3–5, 54 Stat. 727, 728; Nov. 22, 1940, ch. 914, §§1, 3, 4, 54 Stat. 1209, 1210; Nov. 25, 1940, ch. 917, 54 Stat. 1211; Apr. 3, 1941, ch. 39, §§2, 3, 55 Stat. 91, 92; July 9, 1942, ch. 497, §1(4), (5), 56 Stat. 654; July 3, 1948, ch. 827, title II, §201(a), (b), (d), (e), 62 Stat. 1250; Aug. 29, 1949, ch. 518, §2(a), 63 Stat. 675; Oct. 31, 1949, ch. 792, title IV, §§409(a)–(d), 415(c)–(e), 418(b), (c), 63 Stat. 1056, 1057, 1958, 1062; July 8, 1952, ch. 587, 66 Stat. 442; July 17, 1952, ch. 933, §1, 66 Stat. 758; July 14, 1953, ch. 194, §6, 67 Stat. 152; Aug. 28, 1954, ch. 1041, title III, §§301, 302, 68 Stat. 902; May 28, 1956, ch. 327, title V, §502, title VI, §602, 70 Stat. 212, 213; Pub. L. 85–92, §1, July 10, 1957, 71 Stat. 284; Pub. L. 87–703, title III, §320, Sept. 27, 1962, 76 Stat. 625; Pub. L. 88–297, title I, §106(5)–(7), Apr. 11, 1964, 78 Stat. 177; Pub. L. 89–321, title IV, §403, title V, §§509, 511(a), Nov. 3, 1965, 79 Stat. 1197, 1204, 1205; Pub. L. 91–524, title IV, §405(b), Nov. 30, 1970, as added Pub. L. 93–86, §1(12), Aug. 10, 1973, 87 Stat. 229; Pub. L. 94–61, §1, July 25, 1975, 89 Stat. 302; Pub. L. 97–218, title III, §303(a), July 20, 1982, 96 Stat. 211; Pub. L. 99–198, title X, §1020, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 99–272, title I, §1103(a), Apr. 7, 1986, 100 Stat. 85.)
+(Feb. 16, 1938, ch. 30, title III, §301, 52 Stat. 38; Apr. 7, 1938, ch. 107, §§2–4, 52 Stat. 202; June 13, 1940, ch. 360, §1, 54 Stat. 392; July 2, 1940, ch. 521, §§3–5, 54 Stat. 727, 728; Nov. 22, 1940, ch. 914, §§1, 3, 4, 54 Stat. 1209, 1210; Nov. 25, 1940, ch. 917, 54 Stat. 1211; Apr. 3, 1941, ch. 39, §§2, 3, 55 Stat. 91, 92; July 9, 1942, ch. 497, §1(4), (5), 56 Stat. 654; July 3, 1948, ch. 827, title II, §201(a), (b), (d), (e), 62 Stat. 1250; Aug. 29, 1949, ch. 518, §2(a), 63 Stat. 675; Oct. 31, 1949, ch. 792, title IV, §§409(a)–(d), 415(c)–(e), 418(b), (c), 63 Stat. 1056, 1057, 1958, 1062; July 8, 1952, ch. 587, 66 Stat. 442; July 17, 1952, ch. 933, §1, 66 Stat. 758; July 14, 1953, ch. 194, §6, 67 Stat. 152; Aug. 28, 1954, ch. 1041, title III, §§301, 302, 68 Stat. 902; May 28, 1956, ch. 327, title V, §502, title VI, §602, 70 Stat. 212, 213; Pub. L. 85–92, §1, July 10, 1957, 71 Stat. 284; Pub. L. 87–703, title III, §320, Sept. 27, 1962, 76 Stat. 625; Pub. L. 88–297, title I, §106(5)–(7), Apr. 11, 1964, 78 Stat. 177; Pub. L. 89–321, title IV, §403, title V, §§509, 511(a), Nov. 3, 1965, 79 Stat. 1197, 1204, 1205; Pub. L. 91–524, title IV, §405(b), Nov. 30, 1970, as added Pub. L. 93–86, §1(12), Aug. 10, 1973, 87 Stat. 229; Pub. L. 94–61, §1, July 25, 1975, 89 Stat. 302; Pub. L. 97–218, title III, §303(a), July 20, 1982, 96 Stat. 211; Pub. L. 99–198, title X, §1020, Dec. 23, 1985, 99 Stat. 1459; Pub. L. 99–272, title I, §1103(a), Apr. 7, 1986, 100 Stat. 85; Pub. L. 107–171, title I, §1610, May 13, 2002, 116 Stat. 218.)
 
 #### References in Text
 
@@ -195,6 +195,8 @@ The Agricultural Act of 1949, referred to in subsec. (d), is act Oct. 31, 1949, 
 The Strategic and Critical Materials Stock Piling Act, referred to in subsec. (d), is act June 7, 1939, ch. 190, as revised generally by Pub. L. 96–41, §2, July 30, 1979, 93 Stat. 319, which is classified generally to subchapter III (§98 et seq.) of chapter 5 of Title 50, War and National Defense. For complete classification of this Act to the Code, see section 98 of Title 50 and Tables.
 
 #### Amendments
+
+2002—Subsec. (b)(14)(C). Pub. L. 107–171 substituted “60,000,000” for “100,000,000” in cl. (i) and “10 percent” for “15 percent” in cl. (ii).
 
 1986—Subsec. (b)(14)(C), (D). Pub. L. 99–272, §1103(a)(1), added subpars. (C) and (D).
 
@@ -232,7 +234,7 @@ Subsec. (b). Act Aug. 28, 1954, §302, increased carryover allowance from 10 per
 
 1952—Subsec. (a)(1)(G). Act July 17, 1952, extended dual parity provisions for two years.
 
-Subsec. (b)(3)(C), (16)(B). Act July 8, 1952, provided for computation of carry-over as of Jan. 1st, following the beginning of the marketing year instead of Oct. 1st the beginning of the marketing year.
+Subsec. (b)(3)(C), (16)(B). Act July 8, 1952, provided for computation of carry-over as of Jan. 1st, following thebeginning of the marketing year instead of Oct. 1st the beginning of the marketing year.
 
 1949—Subsec. (a)(1)(B). Act Oct. 31, 1949, §409(a), inserted last sentence.
 
@@ -344,7 +346,7 @@ Authority or responsibility of Secretary of Agriculture under subsec. (b)(15) of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 602, 1111, 1301a, 1340, 1359jj, 1445, 1445–2 of this title; title 43 section 620c.
+This section is referred to in sections 602, 1111, 1301a, 1340, 1359aa, 1445, 1445–2 of this title; title 43 section 620c.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “consumed”.</i>
 

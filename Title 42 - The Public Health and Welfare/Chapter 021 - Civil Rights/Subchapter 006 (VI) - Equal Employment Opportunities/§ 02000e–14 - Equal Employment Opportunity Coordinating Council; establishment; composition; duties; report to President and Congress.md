@@ -6,7 +6,7 @@ The Equal Employment Opportunity Commission shall have the responsibility for de
 
 #### Codification
 
-The first sentence of this section, which read “There shall be established an Equal Employment Opportunity Coordinating Council (hereinafter referred to in this section as the Council) composed of the Secretary of Labor, the Chairman of the Equal Employment Opportunity Commission, the Attorney General, the Chairman of the United States Civil Service Commission, and the Chairman of the United States Civil Rights Commission, or their respective delegates” was omitted pursuant to Reorg. Plan No. 1 of 1978, §6, 43 F.R. 19807, 92 Stat. 3781, set out as a note under section 2000e–4 of this title, which abolished the Equal Employment Opportunity Coordinating Council, effective July 1, 1978, as provided by section 1–101 of Ex. Ord. No. 12067, June 30, 1978, 43 F.R. 28967, set out as a note under section 2000e of this title. See Transfer of Functions note below.
+The first sentence of this section, which read “There shall be established an Equal Employment Opportunity Coordinating Council (hereinafter referred to in this section as the Council) composed of the Secretary of Labor, the Chairman of the Equal Employment Opportunity Commission, the Attorney General, the Chairman of the United States Civil Service Commission,and the Chairman of the United States Civil Rights Commission, or their respective delegates” was omitted pursuant to Reorg. Plan No. 1 of 1978, §6, 43 F.R. 19807, 92 Stat. 3781, set out as a note under section 2000e–4 of this title, which abolished the Equal Employment Opportunity Coordinating Council, effective July 1, 1978, as provided by section 1–101 of Ex. Ord. No. 12067, June 30, 1978, 43 F.R. 28967, set out as a note under section 2000e of this title. See Transfer of Functions note below.
 
 #### Amendments
 
@@ -24,5 +24,5 @@ For termination, effective May 15, 2000, of provisions in this section relating 
 
 #### Submission of Specific Legislative Recommendations to Congress by January 1, 1967, to Implement Report on Age Discrimination
 
-Pub. L. 89–601, title VI, §606, Sept. 23, 1966, 80 Stat. 845, directed the Secretary of Labor to submit to the Congress not later than Jan. 1, 1967 his specific legislative recommendations for implementing the conclusions and recommendations contained in his report onage discrimination in employment made pursuant to provisions of this section prior to its amendment in 1972.
+Pub. L. 89–601, title VI, §606, Sept. 23, 1966, 80 Stat. 845, directed the Secretary of Labor to submit to the Congress not later than Jan. 1, 1967 his specific legislative recommendations for implementing the conclusions and recommendations contained in his report on age discrimination in employment made pursuant to provisions of this section prior to its amendment in 1972.
 

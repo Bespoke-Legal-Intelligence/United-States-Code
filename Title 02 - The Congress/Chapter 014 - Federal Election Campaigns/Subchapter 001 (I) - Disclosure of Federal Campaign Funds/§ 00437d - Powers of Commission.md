@@ -46,6 +46,10 @@ Except as provided in section 437g(a)(8) of this title, the power of the Commiss
 
 This Act, referred to in subsecs. (a)(6), (8), and (e), means the Federal Election Campaign Act of 1971, as amended, as defined by section 431 of this title.
 
+#### Prior Provisions
+
+A prior section 307 of Pub. L. 92–225 was renumbered section 305, and is classified to section 437 of this title.
+
 #### Amendments
 
 1986—Subsec. (a)(6), (8). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.

@@ -40,7 +40,7 @@
 
 > Whenever adequate service by scheduled United States air carriers is not available to provide transportation of mail matter by air in accordance with this subsection, the transportation of such mail may be authorized by other than scheduled United States air carriers.
 
-(c) Any parcel, other than a parcel mailed at a rate of postage requiring priority of handling and delivery, not exceeding 30 pounds in weightand 60 inches in length and girth combined, which is mailed at or addressed to any Armed Forces post office established under section 406(a) of this title, shall be transported by air on a space available basis on scheduled United States air carriers at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49, upon payment of a fee for such air transportation in addition to the rate of postage otherwise applicable to such a parcel not transported by air. If adequate service by scheduled United States air carriers is not available, any such parcel may be transported by air carriers other than scheduled United States air carriers.
+(c) Any parcel, other than a parcel mailed at a rate of postage requiring priority of handling and delivery, not exceeding 30 pounds in weight and 60 inches in length and girth combined, which is mailed at or addressed to any Armed Forces post office established under section 406(a) of this title, shall be transported by air on a space available basis on scheduled United States air carriers at rates fixed and determined by the Secretary of Transportation in accordance with section 41901 of title 49, upon payment of a fee for such air transportation in addition to the rate of postage otherwise applicable to such a parcel not transported by air. If adequate service by scheduled United States air carriers is not available, any such parcel may be transported by air carriers other than scheduled United States air carriers.
 
 (d) The Department of Defense shall transfer to the Postal Service as postal revenues, out of any appropriations or funds available to the Department of Defense, as a necessary expense of the appropriations or funds and of the activities concerned, the equivalent amount of postage due, as determined by the Postal Service, for matter sent in the mails under authority of subsection (a) of this section.
 
@@ -88,7 +88,7 @@ Amendment by Pub. L. 98–443 effective Jan. 1, 1985, see section 9(v) of Pub. L
 
 #### Effective Date of 1979 Amendment
 
-Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an Effective Date note under section 3601 of Title 22, Foreign Relations and Intercourse.
+Amendment by Pub. L. 96–70 effective Oct. 1, 1979, see section 3304 of Pub. L. 96–70, set out as an EffectiveDate note under section 3601 of Title 22, Foreign Relations and Intercourse.
 
 #### Effective Date
 
@@ -100,7 +100,7 @@ Section 631(b) of Pub. L. 101–509 provided that: “This section \[amending th
 
 #### Executive Order No. 11255
 
-Ex. Ord. No. 11255, Nov. 1, 1965, 30 F.R. 14135, which designated Vietnam and certain waters adjacent thereto as an overseas combat area where the Armed Forces of the United States are engaged in military operations involving armed conflict with a hostile foreign force,for purposes of sections 4169 and 4303 of former Title 39, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11255, Nov. 1, 1965, 30 F.R. 14135, which designated Vietnam and certain waters adjacent thereto as an overseas combat area where the Armed Forces of the United States are engaged in military operations involving armed conflict with a hostile foreign force, for purposes of sections 4169 and 4303 of former Title 39, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 
 #### Ex. Ord. No. 12556. Delegation of Functions to Secretary of Defense
 

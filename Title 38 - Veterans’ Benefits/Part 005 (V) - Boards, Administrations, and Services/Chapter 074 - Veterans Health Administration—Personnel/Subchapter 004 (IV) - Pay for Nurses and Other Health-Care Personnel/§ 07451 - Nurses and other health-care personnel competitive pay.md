@@ -32,7 +32,7 @@
 
 &emsp;(B) at such additional times as the director of a Department health-care facility, with respect to employees in that grade at that facility, or the Under Secretary for Health, with respect to covered Regional and Central Office employees in that grade, determines.
 
-(2) An adjustment in rates of basic pay under this subsection for a grade shall be carried out by adjusting the amount of the minimum rate of basic pay for that grade in accordance with paragraph (3) and then adjusting the other rates for that grade to conform to the requirements of subsection (c). Except as provided in paragraph (1)(A), such an adjustment in the minimum rate of basic pay for a grade shall be made by the director of a Department health-care facility so as to achieve consistency with the beginning rate of compensation for corresponding health-care professionals in the Bureau of Labor Statistics (BLS) labor-market area of that facility.
+(2) An adjustment in rates of basic pay under this subsection for a grade shall be carried out by adjusting the amount of the minimum rate of basic pay for that grade in accordance with paragraph (3) and then adjusting the other rates for that grade to conform to the requirements ofsubsection (c). Except as provided in paragraph (1)(A), such an adjustment in the minimum rate of basic pay for a grade shall be made by the director of a Department health-care facility so as to achieve consistency with the beginning rate of compensation for corresponding health-care professionals in the Bureau of Labor Statistics (BLS) labor-market area of that facility.
 
 (3)(A) In the case of a Department health-care facility located in an area for which there is current information, based upon an industry-wage survey by the Bureau of Labor Statistics for that labor market, on compensation for corresponding health-care professionals for the BLS labor-market area of that facility, the director of the facility concerned shall use that information as the basis for making adjustments in rates of pay under this subsection. Whenever the Bureau of Labor Statistics releases the results of a new industry-wage survey for that labor market that includes information on compensation for corresponding health-care professionals, the director of that facility shall determine, not later than 30 days after the results of the survey are released, whether an adjustment in rates of pay for employees at that facility for any covered position is necessary in order to meet the purposes of this section. If the director determines that such an adjustment is necessary, the adjustment, based upon the information determined in the survey, shall take effect on the first day of the first pay period beginning after that determination.
 
@@ -66,7 +66,7 @@
 
 &emsp;(B) The term “corresponding”, with respect to health-care personnel positions in non-Department health-care facilities, means those positions for which the education, training, and experience requirements are equivalent or similar to the education, training, and experience requirements for health-care personnel positions in Department health-care facilities.
 
-(e)(1) An adjustment in a rate of basic pay under subsection (d) may not reduce the rate ofbasic pay applicable to any grade of a covered position.
+(e)(1) An adjustment in a rate of basic pay under subsection (d) may not reduce the rate of basic pay applicable to any grade of a covered position.
 
 (2) The director of a Department health-care facility, in determining whether to carry out a wage survey under subsection (d)(3) with respect to rates of basic pay for a grade of a covered position, may not consider as a factor in such determination the absence of a current recruitment or retention problem for personnel in that grade of that position. The director shall make such a determination based upon whether, in accordance with criteria established by the Secretary, there is a significant pay-related staffing problem at that facility in any grade for a position. If the director determines that there is such a problem, or that such a problem is likely to exist in the near future, the Director shall provide for a wage survey in accordance with subsection (d)(3).
 
@@ -310,7 +310,7 @@ Pay of Members.—Members of the Commission shall serve without pay by reason of
 
 “(b)
 
-Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from their homes or regular places of business in the performance of services for the Commission.
+Travel Expenses.—The members of the Commission shall be allowed travel expenses, including per diem in lieu of subsistence, at rates authorized for employees of agencies under subchapter I of chapter 57 of title 5, United States Code, while away from theirhomes or regular places of business in the performance of services for the Commission.
 
 “(c)
 

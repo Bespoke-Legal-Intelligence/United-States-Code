@@ -56,7 +56,7 @@ A professional corps program described in section 12572(a)(8) of this title that
 
 #### (2) Option
 
-&emsp;A State or other recipient of assistance under section 12571 of this title may elect to provide from its own funds a health care policy for participants that does not meet all of the standards established by the Corporation if the fair market value of such policy is equal to or greater than the fair market value of a plan that meets the minimum standards established by the Corporation, and is consistent with other applicable laws.
+&emsp;A State or other recipient of assistance under section 12571 of this title may elect toprovide from its own funds a health care policy for participants that does not meet all of the standards established by the Corporation if the fair market value of such policy is equal to or greater than the fair market value of a plan that meets the minimum standards established by the Corporation, and is consistent with other applicable laws.
 
 #### (e) Child care
 

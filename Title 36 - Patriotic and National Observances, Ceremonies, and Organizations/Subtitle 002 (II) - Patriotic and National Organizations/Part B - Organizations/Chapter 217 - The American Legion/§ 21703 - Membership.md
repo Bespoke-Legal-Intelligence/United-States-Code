@@ -22,9 +22,9 @@ An individual is eligible for membership in the corporation only if the individu
 
 &emsp;&emsp;(B) a government associated with the United States during a period referred to in subclause (A) of this clause and was a citizen of the United States when the individual entered that service; and
 
-&emsp;(2) was honorably discharged or separated from that service or continues to serve honorably after that period.
+&emsp;(2) was honorably discharged or separated from that service or continues to serve honorably during or after that period.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1297; Pub. L. 105–354, §1(6), Nov. 3, 1998, 112 Stat. 3244.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1297; Pub. L. 105–354, §1(6), Nov. 3, 1998, 112 Stat. 3244; Pub. L. 107–309, §1, Dec. 2, 2002, 116 Stat. 2449.)
 
 Historical and Revision Notes
 
@@ -53,6 +53,8 @@ In clause (2), the words “after that period” are substituted for “after an
 This amends section 21703(1)(A)(iv) of title 36 to reflect changes made by Public Law 105–110 (Nov. 20, 1997, 111 Stat. 2270).
 
 #### Amendments
+
+2002—Par. (2). Pub. L. 107–309 inserted “during or” after “continues to serve honorably”.
 
 1998—Par. (1)(A)(iv). Pub. L. 105–354 substituted “February 28, 1961” for “December 22, 1961”.
 

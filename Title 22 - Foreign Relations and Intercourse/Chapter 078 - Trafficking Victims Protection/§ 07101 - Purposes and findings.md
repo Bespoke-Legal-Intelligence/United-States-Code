@@ -26,11 +26,11 @@ Congress finds that:
 
 &emsp;(9) Trafficking includes all the elements of the crime of forcible rape when it involves the involuntary participation of another person in sex acts by means of fraud, force, or coercion.
 
-&emsp;(10) Trafficking also involves violations of other laws, including labor and immigrationcodes and laws against kidnapping, slavery, false imprisonment, assault, battery, pandering, fraud, and extortion.
+&emsp;(10) Trafficking also involves violations of other laws, including labor and immigration codes and laws against kidnapping, slavery, false imprisonment, assault, battery, pandering, fraud, and extortion.
 
 &emsp;(11) Trafficking exposes victims to serious health risks. Women and children trafficked in the sex industry are exposed to deadly diseases, including HIV and AIDS. Trafficking victims are sometimes worked or physically brutalized to death.
 
-&emsp;(12) Trafficking in persons substantially affects interstate and foreign commerce. Trafficking for such purposes as involuntary servitude, peonage, and other forms of forced labor has an impact on the nationwide employment network and labor market. Within the context of slavery, servitude, and labor or services which are obtained or maintained through coercive conduct that amounts to a condition of servitude, victims are subjected to a range of violations.
+&emsp;(12) Trafficking in persons substantially affects interstate and foreign commerce. Trafficking for such purposes as involuntary servitude, peonage, and other forms of forced labor has an impact on the nationwide employment network and labor market. Within the context of slavery, servitude, and labor orservices which are obtained or maintained through coercive conduct that amounts to a condition of servitude, victims are subjected to a range of violations.
 
 &emsp;(13) Involuntary servitude statutes are intended to reach cases in which persons are held in a condition of servitude through nonviolent coercion. In United States v. Kozminski, 487 U.S. 931 (1988), the Supreme Court found that section 1584 of title 18, should be narrowly interpreted, absent a definition of involuntary servitude by Congress. As a result, that section was interpreted to criminalize only servitude that is brought about through use or threatened use of physical or legal coercion, and to exclude other conduct that can have the same purpose and effect.
 
@@ -60,7 +60,7 @@ Congress finds that:
 
 #### References in Text
 
-This chapter, referred to in subsec. (a), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classification of division A to the Code, see section 101 of Pub. L. 106–386, set out as a Short Title note below, and Tables.
+This chapter, referred to in subsec. (a), was in the original “this division” meaning division A of Pub. L. 106–386, Oct. 28, 2000, 114 Stat. 1466, which is classified principally to this chapter. For complete classificationof division A to the Code, see section 101 of Pub. L. 106–386, set out as a Short Title note below, and Tables.
 
 #### Short Title
 

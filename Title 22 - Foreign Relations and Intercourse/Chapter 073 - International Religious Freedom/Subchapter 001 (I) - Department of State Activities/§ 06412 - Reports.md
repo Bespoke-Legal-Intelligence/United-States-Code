@@ -22,7 +22,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (B) Violations of religious freedom
 
-&emsp;&emsp;An assessment and description of the nature and extent of violations of religious freedom in each foreign country, including persecution of one religious group by another religious group, religious persecution by governmental and nongovernmental entities, persecution targeted at individuals or particular denominations or entire religions, the existence of government policies violating religious freedom, and the existence of government policies concerning—
+&emsp;&emsp;An assessment and description of the nature and extent of violations of religious freedom in each foreign country, including persecution of one religious group by another religious group, religious persecution by governmental and nongovernmental entities, persecution targeted at individuals or particular denominations or entire religions, the existence of government policies violating religious freedom, including policies that discriminate against particular religious groups or members of such groups, and the existence of government policies concerning—
 
 &emsp;&emsp;&emsp;(i) limitations or prohibitions on, or lack of availability of, openly conducted, organized religious services outside of the premises of foreign diplomatic missions or consular posts; and
 
@@ -30,7 +30,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 #### (C) United States policies
 
-&emsp;&emsp;A description of United States actions and policies in support of religious freedom in each foreign country engaging in or tolerating violations of religious freedom, including a description of the measures and policies implemented during the preceding 12 months by the United States under titles I, IV, and V of this Act in opposition to violations of religious freedom and in support of international religious freedom.
+&emsp;&emsp;A description of United States actions and policies in support of religious freedom in each foreign country engaging in or tolerating violations of religious freedom, including a description of the measures and policies implemented during the preceding 12 monthsby the United States under titles I, IV, and V of this Act in opposition to violations of religious freedom and in support of international religious freedom.
 
 #### (D) International agreements in effect
 
@@ -70,7 +70,7 @@ The Ambassador at Large shall assist the Secretary of State in preparing those p
 
 &emsp;In compiling data and assessing the respect of the right to religious freedom for the Human Rights Reports, the Annual Report on International Religious Freedom, and the Executive Summary, United States mission personnel shall, as appropriate, seek out and maintain contacts with religious and human rights nongovernmental organizations, with the consent of those organizations, including receiving reports and updates from such organizations and, when appropriate, investigating such reports.
 
-(Pub. L. 105–292, title I, §102, Oct. 27, 1998, 112 Stat. 2792.)
+(Pub. L. 105–292, title I, §102, Oct. 27, 1998, 112 Stat. 2792; Pub. L. 107–228, div. A, title VI, §681(a), Sept. 30, 2002, 116 Stat. 1408.)
 
 #### References in Text
 
@@ -81,6 +81,14 @@ This chapter, referred to in subsec. (b)(1)(F)(ii), (2), was in the original “
 #### Codification
 
 Section is comprised of section 102 of Pub. L. 105–292. Subsec. (d) of section 102 of Pub. L. 105–292 amended sections 2151n and 2304 of this title.
+
+#### Amendments
+
+2002—Subsec. (b)(1)(B). Pub. L. 107–228 inserted “including policies that discriminate against particular religious groups or members of such groups,” after “the existence of government policies violating religious freedom,”.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
 
 #### Section Referred to in Other Sections
 

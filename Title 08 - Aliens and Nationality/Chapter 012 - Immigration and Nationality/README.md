@@ -6,13 +6,14 @@
 | :--- | ---: |
 | [1101\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001101%20-%20Definitions.md) | Definitions. |
 | [1102\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001102%20-%20Diplomatic%20and%20semidiplomatic%20immunities.md) | Diplomatic and semidiplomatic immunities. |
-| [1103\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001103%20-%20Powers%20and%20duties.md) | Powers and duties. |
-| (a) | Attorney General. |
+| [1103\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001103%20-%20Powers%20and%20duties%20of%20the%20Secretary%2C%20the%20Under%20Secretary%2C%20and%20the%20Attorney%20General.md) | Powers and duties of the Secretary, the Under Secretary, and the Attorney General. |
+| (a) | Administration and enforcement. |
 | (b) | Land acquisition authority. |
 | (c) | Commissioner; appointment. |
 | (d) | Statistical information system. |
 | (e) | Annual report. |
 | (f) | Minimum number of agents in States. |
+| (g) | Attorney General. |
 | [1104\.](Subchapter%20001%20%28I%29%20-%20General%20Provisions/%C2%A7%2001104%20-%20Powers%20and%20duties%20of%20Secretary%20of%20State.md) | Powers and duties of Secretary of State. |
 | (a) | Powers and duties. |
 | (b) | Designation and duties of Administrator. |
@@ -40,6 +41,7 @@
 | (c) | Worldwide level of family-sponsored immigrants. |
 | (d) | Worldwide level of employment-based immigrants. |
 | (e) | Worldwide level of diversity immigrants. |
+| (f) | Rules for determining whether certain aliens are immediate relatives. |
 | [1151a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001151a%20-%20Repealed.%20Pub.%20L.%2094%E2%80%93571%2C%20%C2%A77%28g%29%2C%20Oct.%2020%2C%201976%2C%2090%20Stat.%202706.md) | Repealed. |
 | [1152\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001152%20-%20Numerical%20limitations%20on%20individual%20foreign%20states.md) | Numerical limitations on individual foreign states. |
 | (a) | Per country level. |
@@ -55,6 +57,7 @@
 | (e) | Order of consideration. |
 | (f) | Authorization for issuance. |
 | (g) | Lists. |
+| (h) | Rules for determining whether certain aliens are children. |
 | [1154\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001154%20-%20Procedure%20for%20granting%20immigrant%20status.md) | Procedure for granting immigrant status. |
 | (a) | Petitioning procedure. |
 | (b) | Investigation; consultation; approval; authorization to grant preference status. |
@@ -66,6 +69,7 @@
 | (h) | Survival of rights to petition. |
 | (i) | Professional athletes. |
 | (j) | Job flexibility for long delayed applicants for adjustment of status to permanent residence. |
+| (k) | Procedures for unmarried sons and daughters of citizens. |
 | [1155\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001155%20-%20Revocation%20of%20approval%20of%20petitions%3B%20notice%20of%20revocation%3B%20effective%20date.md) | Revocation of approval of petitions; notice of revocation; effective date. |
 | [1156\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001156%20-%20Unused%20immigrant%20visas.md) | Unused immigrant visas. |
 | [1157\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20001%20%28I%29%20-%20Selection%20System/%C2%A7%2001157%20-%20Annual%20admission%20of%20refugees%20and%20admission%20of%20emergency%20situation%20refugees.md) | Annual admission of refugees and admission of emergency situation refugees. |
@@ -133,6 +137,10 @@
 | [1182e.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001182e%20-%20Denial%20of%20entry%20into%20United%20States%20of%20foreign%20nationals%20engaged%20in%20establishment%20or%20enforcement%20of%20forced%20abortion%20or%20sterilization%20policy.md) | Denial of entry into United States of foreign nationals engaged in establishment or enforcement of forced abortion or sterilization policy. |
 | (a) | Denial of entry. |
 | (b) | Exceptions. |
+| (c) | Waiver. |
+| [1182f.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001182f%20-%20Denial%20of%20entry%20into%20United%20States%20of%20Chinese%20and%20other%20nationals%20engaged%20in%20coerced%20organ%20or%20bodily%20tissue%20transplantation.md) | Denial of entry into United States of Chinese and other nationals engaged in coerced organ or bodily tissue transplantation. |
+| (a) | Denial of entry. |
+| (b) | Exception. |
 | (c) | Waiver. |
 | [1183\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001183%20-%20Admission%20of%20aliens%20on%20giving%20bond%20or%20undertaking%3B%20return%20upon%20permanent%20departure.md) | Admission of aliens on giving bond or undertaking; return upon permanent departure. |
 | [1183a.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20002%20%28II%29%20-%20Admission%20Qualifications%20for%20Aliens%3B%20Travel%20Control%20of%20Citizens%20and%20Aliens/%C2%A7%2001183a%20-%20Requirements%20for%20sponsor%27s%20affidavit%20of%20support.md) | Requirements for sponsor's affidavit of support. |
@@ -252,11 +260,16 @@
 |  |  |
 | :--- | ---: |
 | [1221\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001221%20-%20Lists%20of%20alien%20and%20citizen%20passengers%20arriving%20and%20departing.md) | Lists of alien and citizen passengers arriving and departing. |
-| (a) | Arrival manifest; form and contents. |
-| (b) | Departure manifest; form and contents. |
-| (c) | Record of citizens and resident aliens leaving permanently for foreign countries. |
-| (d) | Penalties against noncomplying shipments, aircraft or carriers. |
-| (e) | Waiver of requirements. |
+| (a) | Arrival manifests. |
+| (b) | Departure manifests. |
+| (c) | Contents of manifest. |
+| (d) | Appropriate officials specified. |
+| (e) | Deadline for requirement of electronic transmission of manifest information. |
+| (f) | Prohibition. |
+| (g) | Penalties against noncomplying shipments, aircraft, or carriers. |
+| (h) | Waiver. |
+| (i) | United States border officer defined. |
+| (j) | Record of citizens and resident aliens leaving permanently for foreign countries. |
 | [1222\.](Subchapter%20002%20%28II%29%20-%20Immigration/Part%20004%20%28IV%29%20-%20Inspection%2C%20Apprehension%2C%20Examination%2C%20Exclusion%2C%20and%20Removal/%C2%A7%2001222%20-%20Detention%20of%20aliens%20for%20physical%20and%20mental%20examination.md) | Detention of aliens for physical and mental examination. |
 | (a) | Detention of aliens. |
 | (b) | Physical and mental examination. |
@@ -910,7 +923,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1184a, 1255b, 1367, 1572, 1611, 1612, 1621, 1622, 1641, 1642, 1643 of thistitle; title 7 sections 1308–3, 1996, 2020, 3508; title 10 sections 1060a, 3253, 8253, 12102, 12201; title 15 section 278g; title 18 sections 1203, 1961; title 19 section 3401; title 22 sections 2454, 2778, 3303, 5711; title 25 section 1300b–13; title 42 sections 1437a, 6705, 14941; title 46 section 8103; title 50 sections 47c, 47f.
+This chapter is referred to in sections 1184a, 1255b, 1367, 1572, 1611, 1612, 1621, 1622, 1641, 1642, 1643, 1721, 1772, 1775 of this title; title 6 sections 101, 236, 255, 278, 279, 297; title 7 sections 1308–3, 1996, 2020, 3508; title 10 sections 1060a, 3253, 8253, 12102, 12201; title 15 sections 278g, 7411; title 18 sections 1203, 1961; title 19 section 3401; title 22 sections 2454, 2778, 3303, 5711; title 25 section 1300b–13; title 42 sections 1437a, 6705, 14941; title 46 section 8103; title 50 sections 47c, 47f.
 
 
 ---

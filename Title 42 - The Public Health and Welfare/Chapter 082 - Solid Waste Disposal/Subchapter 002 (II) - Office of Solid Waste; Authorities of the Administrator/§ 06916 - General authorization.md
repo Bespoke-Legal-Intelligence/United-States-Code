@@ -2,7 +2,7 @@
 
 #### (a) General administration
 
-There are authorized to be appropriated to the Administrator for the purpose of carrying out the provisions of this chapter, $35,000,000 for the fiscal year ending September 30, 1977, $38,000,000 for the fiscal year ending September 30, 1978, $42,000,000 for the fiscal year ending September 30, 1979, $70,000,000 for the fiscal year ending September 30, 1980, $80,000,000 for the fiscal year ending September 30, 1981, $80,000,000 for the fiscal year ending September 30, 1982, $70,000,000 for the fiscal year ending September 30, 1985, $80,000,000 for the fiscal year ending September 30, 1986, $80,000,000 for the fiscal year ending September 30, 1987, and $80,000,000 for the fiscal year 1988.
+There are authorized to be appropriated to the Administrator for the purpose of carrying out the provisions of this chapter, $35,000,000 for the fiscal year ending September 30, 1977, $38,000,000 for the fiscal year ending September 30, 1978, $42,000,000 for the fiscal year ending September 30, 1979, $70,000,000 for the fiscal year ending September 30, 1980, $80,000,000 for the fiscal year ending September 30, 1981, $80,000,000 for the fiscal year ending September 30, 1982, $70,000,000 forthe fiscal year ending September 30, 1985, $80,000,000 for the fiscal year ending September 30, 1986, $80,000,000 for the fiscal year ending September 30, 1987, and $80,000,000 for the fiscal year 1988.
 
 #### (b) Resource Recovery and Conservation Panels
 
@@ -34,7 +34,7 @@ There is authorized to be appropriated to the Administrator $3,246,000 for the f
 
 #### Amendments
 
-1984—Subsec. (a). Pub. L. 98–616, §2(a), substituted “$80,000,000 for the fiscal year ending September 30,1982, $70,000,000 for the fiscal year ending September 30, 1985, $80,000,000 for the fiscal year ending September 30, 1986, $80,000,000 for the fiscal year ending September 30, 1987, and $80,000,000 for the fiscal year 1988” for “and $80,000,000 for the fiscal year ending September 30, 1982”.
+1984—Subsec. (a). Pub. L. 98–616, §2(a), substituted “$80,000,000 for the fiscal year ending September 30, 1982, $70,000,000 for the fiscal year ending September 30, 1985, $80,000,000 for the fiscal year ending September 30, 1986, $80,000,000 for the fiscal year ending September 30, 1987, and $80,000,000 for the fiscal year 1988” for “and $80,000,000 for the fiscal year ending September 30, 1982”.
 
 Subsecs. (e), (f). Pub. L. 98–616, §2(i), added subsecs. (e) and (f).
 

@@ -22,7 +22,7 @@
 
 (B) A request for any consultation under subparagraph (A) must be made to the Trade Representative. Upon receiving such a request, the Trade Representative shall confer with the petitioner and provide such assistance, including publication of appropriate notice in the Federal Register, as may be practicable in obtaining other participants in the consultation. No consultation may occur under subparagraph (A) unless the Trade Representative, or his delegate, is in attendance.
 
-(6)(A) In the course of any investigation under subsection (b) of this section, the Commission shall seek information (on a confidential basis, to the extent appropriate) on actions being taken, or planned to be taken, or both, by firms and workers in the industry to make a positive adjustment to import competition.
+(6)(A) In the course of any investigation under subsection (b) of this section, the Commissionshall seek information (on a confidential basis, to the extent appropriate) on actions being taken, or planned to be taken, or both, by firms and workers in the industry to make a positive adjustment to import competition.
 
 (B) Regardless whether an adjustment plan is submitted under paragraph (4) by the petitioner, if the Commission makes an affirmative determination under subsection (b) of this section, any—
 
@@ -80,7 +80,7 @@
 
 &emsp;(A) consider the condition of the domestic industry over the course of the relevant business cycle, but may not aggregate the causes of declining demand associated with a recession or economic downturn in the United States economy into a single cause of serious injury or threat of injury; and
 
-&emsp;(B) examine factors other than imports which may be a cause of serious injury, or threat of serious injury, to the domestic industry.
+&emsp;(B) examine factors other than imports which may be a cause of serious injury, orthreat of serious injury, to the domestic industry.
 
 > The Commission shall include the results of its examination under subparagraph (B) in the report submitted by the Commission to the President under subsection (e) of this section.
 
@@ -92,7 +92,7 @@
 
 &emsp;(B) may, in the case of a domestic producer which produces more than one article, treat as part of such domestic industry only that portion or subdivision of the producer which produces the like or directly competitive article; and
 
-&emsp;(C) may, in the case of one or more domestic producers which produce a like or directly competitive article in a major geographic area of the United States and whose production facilities in such area for such article constitute a substantial portion of the domestic industryin the United States and primarily serve the market in such area, and where the imports are concentrated in such area, treat as such domestic industry only that segment of the production located in such area.
+&emsp;(C) may, in the case of one or more domestic producers which produce a like or directly competitive article in a major geographic area of the United States and whose production facilities in such area for such article constitute a substantial portion of the domestic industry in the United States and primarily serve the market in such area, and where the imports are concentrated in such area, treat as such domestic industry only that segment of the production located in such area.
 
 (5) In the course of any proceeding under this subsection, the Commission shall investigate any factor which in its judgment may be contributing to increased imports of the article under investigation. Whenever in the course of its investigation the Commission has reason to believe that the increased imports are attributable in part to circumstances which come within the purview of subtitles A and B of title VII \[19 U.S.C. 1671 et seq., 1673 et seq.\] or section 337 \[19 U.S.C. 1337\] of the Tariff Act of 1930, or other remedial provisions of law, the Commission shall promptly notify the appropriate agency so that such action may be taken as is otherwise authorized by such provisions of law.
 
@@ -132,7 +132,7 @@
 
 (D) At the request of the Commission, the Secretary of Agriculture shall promptly provide to the Commission any relevant information that the Department of Agriculture may have for purposes of making determinations and findings under this subsection.
 
-(E) Whenever the Commission makes an affirmative preliminary determination under subparagraph (C), the Commission shall find the amount or extent of provisional relief that is necessary to prevent or remedy the serious injury. In carrying out this subparagraph, the Commission shall give preference to increasing or imposing a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
+(E) Whenever the Commission makes an affirmative preliminary determination under subparagraph (C), the Commission shall find theamount or extent of provisional relief that is necessary to prevent or remedy the serious injury. In carrying out this subparagraph, the Commission shall give preference to increasing or imposing a duty on imports, if such form of relief is feasible and would prevent or remedy the serious injury.
 
 (F) The Commission shall immediately report to the President its determination under subparagraph (C) and, if the determination is affirmative, the finding under subparagraph (E).
 
@@ -140,7 +140,7 @@
 
 (2)(A) When a petition filed under subsection (a) of this section alleges that critical circumstances exist and requests that provisional relief be provided under this subsection with respect to imports of the article identified in the petition, the Commission shall, not later than 60 days after the petition containing the request was filed, determine, on the basis of available information, whether—
 
-&emsp;(i) there is clear evidence that increased imports (either actual or relative to domestic production) of the article are a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an articlelike or directly competitive with the imported article; and
+&emsp;(i) there is clear evidence that increased imports (either actual or relative to domestic production) of the article are a substantial cause of serious injury, or the threat thereof, to the domestic industry producing an article like or directly competitive with the imported article; and
 
 &emsp;(ii) delay in taking action under this part would cause damage to that industry that would be difficult to repair.
 
@@ -262,7 +262,7 @@
 
 &emsp;&emsp;(ii) the short- and long-term effects of not taking the recommended action on the petitioning domestic industry, its workers and the communities where production facilities of such industry are located, and on other domestic industries.
 
-(3) The Commission, after submitting a report to the President under paragraph (1), shall promptly make it available to the public (with the exception of the confidential information obtained under subsection (a)(6)(B) of this section and any other information which the Commission determines to be confidential) and cause a summary thereof to be published in the Federal Register.
+(3) The Commission, after submitting a report to the President under paragraph (1), shall promptly make it available to the public (withthe exception of the confidential information obtained under subsection (a)(6)(B) of this section and any other information which the Commission determines to be confidential) and cause a summary thereof to be published in the Federal Register.
 
 #### (g) Expedited consideration of adjustment assistance petitions
 
@@ -274,7 +274,7 @@ If the Commission makes an affirmative determination under subsection (b)(1) of 
 
 #### (h) Limitations on investigations
 
-(1) Except for good cause determined by the Commission to exist, no investigation for the purposes of this section shall be made with respect to the same subject matter as a previous investigation under this part, unless 1 year has elapsed since the Commission made its report tothe President of the results of such previous investigation.
+(1) Except for good cause determined by the Commission to exist, no investigation for the purposes of this section shall be made with respect to the same subject matter as a previous investigation under this part, unless 1 year has elapsed since the Commission made its report to the President of the results of such previous investigation.
 
 (2) No new investigation shall be conducted with respect to an article that is or has been the subject of an action under section 2253(a)(3)(A), (B), (C), or (E) of this title if the last day on which the President could take action under section 2253 of this title in the new investigation is a date earlier than that permitted under section 2253(e)(7) of this title.
 
@@ -300,7 +300,7 @@ The Commission shall promulgate regulations to provide access to confidential bu
 
 The antitrust laws, referred to in subsec. (a)(7), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
-The North American Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057. Part 1 of title III of the Act probably means part 1 of subtitle A of title III of the Act, which is classified generally to subpart 1 (§3351 et seq.) of part A of subchapter III of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The North American Free Trade Agreement Implementation Act, referred to in subsec. (a)(8), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. Part 1 of title III of the Act probably means part 1 of subtitle A of title III of the Act, which is classified generally to subpart 1 (§3351 et seq.) of part A of subchapter III of chapter 21 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 Title II of the United States-Jordan Free Trade Area Implementation Act, referred to in subsec. (a)(8), is title II of Pub. L. 107–43, Sept. 28, 2001, 115 Stat. 243, which is set out in a note under section 2112 of this title.
 
@@ -396,7 +396,7 @@ The Uruguay Round Agreements, including the World Trade Organization Agreement a
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1330, 2251, 2253, 2254, 2274, 2354, 2436, 2451, 2451a, 2703, 3203, 3352, 3353, 3381, 3602 of this title.
+This section is referred to in sections 1330, 2251, 2253, 2254, 2274, 2354, 2401c, 2436, 2451, 2451a, 2703, 3203, 3352, 3353, 3381, 3602 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “subsection”.</i>
 

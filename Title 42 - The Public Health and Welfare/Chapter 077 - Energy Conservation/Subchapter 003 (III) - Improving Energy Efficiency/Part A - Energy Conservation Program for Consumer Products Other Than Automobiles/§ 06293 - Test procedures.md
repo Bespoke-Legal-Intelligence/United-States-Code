@@ -28,7 +28,7 @@ All test procedures and related determinations prescribed or made by the Secreta
 
 (8)(A) Test procedures for water closets and urinals to which standards are applicable under subsection (k) of section 6295 of this title shall be the test procedures specified in ASME A112.19.6–1990 for such products.
 
-(B) If the test procedure requirements of ASME A112.19.6–1990 are revised at any time and approved by ANSI, the Secretary shall amend the test procedures established by subparagraph (A) to conform to such revised ASME/ANSI requirements unless the Secretary determines, by rule, that to do so would not meet the requirements of paragraph (3).
+(B) If the test procedure requirements of ASME A112.19.6–1990 are revised at any time and approved by ANSI, the Secretary shall amendthe test procedures established by subparagraph (A) to conform to such revised ASME/ANSI requirements unless the Secretary determines, by rule, that to do so would not meet the requirements of paragraph (3).
 
 #### (c) Restriction on certain representations
 
@@ -82,7 +82,7 @@ Subsec. (c)(2). Pub. L. 102–486, §123(d)(3), in introductory provisions subst
 
 Pub. L. 102–486, §123(d)(2), in closing provisions inserted “or, in the case of showerheads, faucets, water closets, and urinals, water use” after “efficiency”.
 
-Subsec. (e)(1) to (3). Pub. L. 102–486, §123(d)(4), substituted “, measured energy use, or measured water use” for “or measured energy use” in par. (1) and “energy efficiency, energy use, or water use” for “energy efficiency or energy use” in two places in par. (2) and once in par. (3).
+Subsec. (e)(1) to (3). Pub. L. 102–486, §123(d)(4), substituted “, measured energy use, or measured water use” for “or measured energy use” in par. (1) and “energy efficiency, energy use, or water use” for “energyefficiency or energy use” in two places in par. (2) and once in par. (3).
 
 1988—Subsec. (b)(1)(C). Pub. L. 100–418 substituted “National Institute of Standards and Technology” for “National Bureau of Standards”.
 

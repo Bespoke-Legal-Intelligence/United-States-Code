@@ -4,131 +4,167 @@
 
 &emsp;(1) be responsible for—
 
-&emsp;&emsp;(A) adequately ensuring the integrity, confidentiality, authenticity, availability, and nonrepudiation of information and information systems supporting agency operations and assets;
+&emsp;&emsp;(A) providing information security protections commensurate with the risk and magnitude of the harm resulting from unauthorized access, use, disclosure, disruption, modification, or destruction of—
 
-&emsp;&emsp;(B) developing and implementing information security policies, procedures, and control techniques sufficient to afford security protections commensurate with the risk and magnitude of the harm resulting from unauthorized disclosure, disruption, modification, or destruction of information collected or maintained by or for the agency; and
+&emsp;&emsp;&emsp;(i) information collected or maintained by or on behalf of the agency; and
 
-&emsp;&emsp;(C) ensuring that the agency's information security plan is practiced throughout the life cycle of each agency system;
+&emsp;&emsp;&emsp;(ii) information systems used or operated by an agency or by a contractor of an agency or other organization on behalf of an agency;
 
-&emsp;(2) ensure that appropriate senior agency officials are responsible for—
+&emsp;&emsp;(B) complying with the requirements of this subchapter and related policies, procedures, standards, and guidelines, including—
 
-&emsp;&emsp;(A) assessing the information security risks associated with the operations and assets for programs and systems over which such officials have control;
+&emsp;&emsp;&emsp;(i) information security standards promulgated by the Director under section 11331 of title 40; and
 
-&emsp;&emsp;(B) determining the levels of information security appropriate to protect such operations and assets; and
+&emsp;&emsp;&emsp;(ii) information security standards and guidelines for national security systems issued in accordance with law and as directed by the President; and
 
-&emsp;&emsp;(C) periodically testing and evaluating information security controls and techniques;
+&emsp;&emsp;(C) ensuring that information security management processes are integrated with agency strategic and operational planning processes;
 
-&emsp;(3) delegate to the agency Chief Information Officer established under section 3506, or a comparable official in an agency not covered by such section, the authority to administer all functions under this subchapter including—
+&emsp;(2) ensure that senior agency officials provide information security for the information and information systems that support the operations and assets under their control, including through—
 
-&emsp;&emsp;(A) designating a senior agency information security official who shall report to the Chief Information Officer or a comparable official;
+&emsp;&emsp;(A) assessing the risk and magnitude of the harm that could result from the unauthorized access, use, disclosure, disruption, modification, or destruction of such information or information systems;
 
-&emsp;&emsp;(B) developing and maintaining an agencywide information security program as required under subsection (b);
+&emsp;&emsp;(B) determining the levels of information security appropriate to protect such information and information systems in accordance with standards promulgated under section 11331 of title 40 for information security classifications and related requirements;
 
-&emsp;&emsp;(C) ensuring that the agency effectively implements and maintains information security policies, procedures, and control techniques;
+&emsp;&emsp;(C) implementing policies and procedures to cost-effectively reduce risks to an acceptable level; and
+
+&emsp;&emsp;(D) periodically testing and evaluating information security controls and techniques to ensure that they are effectively implemented;
+
+&emsp;(3) delegate to the agency Chief Information Officer established under section 3506 (or comparable official in an agency not covered by such section) the authority to ensure compliance with the requirements imposed on the agency under this subchapter, including—
+
+&emsp;&emsp;(A) designating a senior agency information security officer who shall—
+
+&emsp;&emsp;&emsp;(i) carry out the Chief Information Officer's responsibilities under this section;
+
+&emsp;&emsp;&emsp;(ii) possess professional qualifications, including training and experience, required to administer the functions described under this section;
+
+&emsp;&emsp;&emsp;(iii) have information security duties as that official's primary duty; and
+
+&emsp;&emsp;&emsp;(iv) head an office with the mission and resources to assist in ensuring agency compliance with this section;
+
+&emsp;&emsp;(B) developing and maintaining an agencywide information security program as required by subsection (b);
+
+&emsp;&emsp;(C) developing and maintaining information security policies, procedures, and control techniques to address all applicable requirements, including those issued under section 3533 of this title, and section 11331 of title 40;
 
 &emsp;&emsp;(D) training and overseeing personnel with significant responsibilities for information security with respect to such responsibilities; and
 
-&emsp;&emsp;(E) assisting senior agency officials concerning responsibilities under paragraph (2);
+&emsp;&emsp;(E) assisting senior agency officials concerning their responsibilities under paragraph (2);
 
 &emsp;(4) ensure that the agency has trained personnel sufficient to assist the agency in complying with the requirements of this subchapter and related policies, procedures, standards, and guidelines; and
 
-&emsp;(5) ensure that the agency Chief Information Officer, in coordination with senior agency officials, periodically—
+&emsp;(5) ensure that the agency Chief Information Officer, in coordination with other senior agency officials, reports annually to the agency head on the effectiveness of the agency information security program, including progress of remedial actions.
 
-&emsp;&emsp;(A)(i) evaluates the effectiveness of the agency information security program, including testing control techniques; and
+(b) Each agency shall develop, document, and implement an agencywide information security program, approved by the Director under section 3533(a)(5), to provide information security for the information and information systems that support the operations and assets of the agency, including those provided or managed by another agency, contractor, or other source, that includes—
 
-&emsp;&emsp;(ii) implements appropriate remedial actions based on that evaluation; and
+&emsp;(1) periodic assessments of the risk and magnitude of the harm that could result from the unauthorized access, use, disclosure, disruption, modification, or destruction of information and information systems that support the operations and assets of the agency;
 
-&emsp;&emsp;(B) reports to the agency head on—
+&emsp;(2) policies and procedures that—
 
-&emsp;&emsp;&emsp;(i) the results of such tests and evaluations; and
+&emsp;&emsp;(A) are based on the risk assessments required by paragraph (1);
 
-&emsp;&emsp;&emsp;(ii) the progress of remedial actions.
+&emsp;&emsp;(B) cost-effectively reduce information security risks to an acceptable level;
 
-(b)(1) Each agency shall develop and implement an agencywide information security program to provide information security for the operations and assets of the agency, including operations and assets provided or managed by another agency.
+&emsp;&emsp;(C) ensure that information security is addressed throughout the life cycle of each agency information system; and
 
-(2) Each program under this subsection shall include—
+&emsp;&emsp;(D) ensure compliance with—
 
-&emsp;(A) periodic risk assessments that consider internal and external threats to—
+&emsp;&emsp;&emsp;(i) the requirements of this subchapter;
 
-&emsp;&emsp;(i) the integrity, confidentiality, and availability of systems; and
+&emsp;&emsp;&emsp;(ii) policies and procedures as may be prescribed by the Director, and information security standards promulgated under section 11331 of title 40;
 
-&emsp;&emsp;(ii) data supporting critical operations and assets;
+&emsp;&emsp;&emsp;(iii) minimally acceptable system configuration requirements, as determined by the agency; and
 
-&emsp;(B) policies and procedures that—
+&emsp;&emsp;&emsp;(iv) any other applicable requirements, including standards and guidelines for national security systems issued in accordance with law and as directed by the President;
 
-&emsp;&emsp;(i) are based on the risk assessments required under subparagraph (A) that cost-effectively reduce information security risks to an acceptable level; and
+&emsp;(3) subordinate plans for providing adequate information security for networks, facilities, and systems or groups of information systems, as appropriate;
 
-&emsp;&emsp;(ii) ensure compliance with—
+&emsp;(4) security awareness training to inform personnel, including contractors and other users of information systems that support the operations and assets of the agency, of—
 
-&emsp;&emsp;&emsp;(I) the requirements of this subchapter;
+&emsp;&emsp;(A) information security risks associated with their activities; and
 
-&emsp;&emsp;&emsp;(II) policies and procedures as may be prescribed by the Director; and
+&emsp;&emsp;(B) their responsibilities in complying with agency policies and procedures designed to reduce these risks;
 
-&emsp;&emsp;&emsp;(III) any other applicable requirements;
+&emsp;(5) periodic testing and evaluation of the effectiveness of information security policies, procedures, and practices, to be performed with a frequency depending on risk, but no less than annually, of which such testing—
 
-&emsp;(C) security awareness training to inform personnel of—
+&emsp;&emsp;(A) shall include testing of management, operational, and technical controls of every information system identified in the inventory required under section 3505(c); and
 
-&emsp;&emsp;(i) information security risks associated with the activities of personnel; and
+&emsp;&emsp;(B) may include testing relied on in a <sup>1</sup> evaluation under section 3535;
 
-&emsp;&emsp;(ii) responsibilities of personnel in complying with agency policies and procedures designed to reduce such risks;
+&emsp;(6) a process for planning, implementing, evaluating, and documenting remedial action to address any deficiencies in the information security policies, procedures, and practices of the agency;
 
-&emsp;(D) periodic management testing and evaluation of the effectiveness of information security policies and procedures;
+&emsp;(7) procedures for detecting, reporting, and responding to security incidents, including—
 
-&emsp;(E) a process for ensuring remedial action to address any significant deficiencies; and
+&emsp;&emsp;(A) mitigating risks associated with such incidents before substantial damage is done; and
 
-&emsp;(F) procedures for detecting, reporting, and responding to security incidents, including—
+&emsp;&emsp;(B) notifying and consulting with, as appropriate—
 
-&emsp;&emsp;(i) mitigating risks associated with such incidents before substantial damage occurs;
+&emsp;&emsp;&emsp;(i) law enforcement agencies and relevant Offices of Inspector General;
 
-&emsp;&emsp;(ii) notifying and consulting with law enforcement officials and other offices and authorities;
+&emsp;&emsp;&emsp;(ii) an office designated by the President for any incident involving a national security system; and
 
-&emsp;&emsp;(iii) notifying and consulting with an office designated by the Administrator of General Services within the General Services Administration; and
+&emsp;&emsp;&emsp;(iii) any other agency or office, in accordance with law or as directed by the President; and
 
-&emsp;&emsp;(iv) notifying and consulting with an office designated by the Secretary of Defense, the Director of Central Intelligence, and another agency head as designated by the President for incidents involving systems described under subparagraphs (A) and (B) of section 3532(b)(2).
+&emsp;(8) plans and procedures to ensure continuity of operations for information systems that support the operations and assets of the agency.
 
-(3) Each program under this subsection is subject to the approval of the Director and is required to be reviewed at least annually by agency program officials in consultation with the Chief Information Officer. In the case of systems described under subparagraphs (A) and (B) of section 3532(b)(2), the Director shall delegate approval authority under this paragraph to the Secretary of Defense, the Director of Central Intelligence, and another agency head as designated by the President.
+(c) Each agency shall—
 
-(c)(1) Each agency shall examine the adequacy and effectiveness of information security policies, procedures, and practices in plans and reports relating to—
+&emsp;(1) report annually to the Director, the Committees on Government Reform and Science of the House of Representatives, the Committees on Governmental Affairs and Commerce, Science, and Transportation of the Senate, the appropriate authorization and appropriations committees of Congress, and the Comptroller General on the adequacy and effectiveness of information security policies, procedures, and practices, and compliance with the requirements of this subchapter, including compliance with each requirement of subsection (b);
 
-&emsp;(A) annual agency budgets;
+&emsp;(2) address the adequacy and effectiveness of information security policies, procedures, and practices in plans and reports relating to—
 
-&emsp;(B) information resources management under subchapter I of this chapter;
+&emsp;&emsp;(A) annual agency budgets;
 
-&emsp;(C) performance and results based management under the Clinger-Cohen Act of 1996 (40 U.S.C. 1401 et seq.);
+&emsp;&emsp;(B) information resources management under subchapter 1 <sup>2</sup> of this chapter;
 
-&emsp;(D) program performance under sections 1105 and 1115 through 1119 of title 31, and sections 2801 through 2805 of title 39; and
+&emsp;&emsp;(C) information technology management under subtitle III of title 40;
 
-&emsp;(E) financial management under—
+&emsp;&emsp;(D) program performance under sections 1105 and 1115 through 1119 of title 31, and sections 2801 and 2805 of title 39;
 
-&emsp;&emsp;(i) chapter 9 of title 31, United States Code, and the Chief Financial Officers Act of 1990 (31 U.S.C. 501 note; Public Law 101–576) (and the amendments made by that Act);
+&emsp;&emsp;(E) financial management under chapter 9 of title 31, and the Chief Financial Officers Act of 1990 (31 U.S.C. 501 note; Public Law 101–576) (and the amendments made by that Act);
 
-&emsp;&emsp;(ii) the Federal Financial Management Improvement Act of 1996 (31 U.S.C. 3512 note) (and the amendments made by that Act); and
+&emsp;&emsp;(F) financial management systems under the Federal Financial Management Improvement Act (31 U.S.C. 3512 note); and
 
-&emsp;&emsp;(iii) the internal controls conducted under section 3512 of title 31.
+&emsp;&emsp;(G) internal accounting and administrative controls under section 3512 of title 31, United States Code,<sup>3</sup> (known as the “Federal Managers Financial Integrity Act”); and
 
-(2) Any significant deficiency in a policy, procedure, or practice identified under paragraph (1) shall be reported as a material weakness in reporting required under the applicable provision of law under paragraph (1).
+&emsp;(3) report any significant deficiency in a policy, procedure, or practice identified under paragraph (1) or (2)—
 
-(d)(1) In addition to the requirements of subsection (c), each agency, in consultation with the Chief Information Officer, shall include as part of the performance plan required under section 1115 of title 31 a description of—
+&emsp;&emsp;(A) as a material weakness in reporting under section 3512 of title 31; and
+
+&emsp;&emsp;(B) if relating to financial management systems, as an instance of a lack of substantial compliance under the Federal Financial Management Improvement Act (31 U.S.C. 3512 note).
+
+(d)(1) In addition to the requirements of subsection (c), each agency, in consultation with the Director, shall include as part of the performance plan required under section 1115 of title 31 a description of—
 
 &emsp;(A) the time periods; and
 
 &emsp;(B) the resources, including budget, staffing, and training,
 
-> which are necessary to implement the program required under subsection (b)(1).
+> that are necessary to implement the program required under subsection (b).
 
-(2) The description under paragraph (1) shall be based on the risk assessment required under subsection (b)(2)(A).
+(2) The description under paragraph (1) shall be based on the risk assessments required under subsection (b)(2)(1).
 
-(Added Pub. L. 106–398, §1 \[\[div. A\], title X, §1061\], Oct. 30, 2000, 114 Stat. 1654, 1654A–268.)
+(e) Each agency shall provide the public with timely notice and opportunities for comment on proposed information security policies and procedures to the extent that such policies and procedures affect communication with the public.
+
+(Added Pub. L. 107–296, title X, §1001(b)(1), Nov. 25, 2002, 116 Stat. 2262.)
+
+#### Applicability of Section
+
+<i>This section not to apply while subchapter III of this chapter is in effect, see section 3549 of this title.</i>
 
 #### References in Text
 
-The Clinger-Cohen Act of 1996, referred to in subsec. (c)(1)(C), is div. D (§§4001–4402) and div. E (§§5001–5703) of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 642, 679. Div. E of Pub. L. 104–106 is classified principally to chapter 25 (§1401 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 1401 of Title 40, Short Title of 1996 Amendment note set out under section 251 of Title 41, Public Contracts, and Tables.
+The Chief Financial Officers Act of 1990, referred to in subsec. (c)(2)(E), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
 
-The Chief Financial Officers Act of 1990, referred to in subsec. (c)(1)(E)(i), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of Title 31, Money and Finance, and Tables.
+The Federal Financial Management Improvement Act, referred to in subsec. (c)(2)(F), (3)(B), probably means the Federal Financial Management Improvement Act of 1996, Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under section 3512 of Title 31, Money and Finance. For complete classification of this Act to the Code, see Tables.
 
-The Federal Financial Management Improvement Act of 1996, referred to in subsec. (c)(1)(E)(ii), is Pub. L. 104–208, div. A, title I, §101(f) \[title VIII\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–389, which is set out as a note under section 3512 of Title 31, Money and Finance. For complete classification of this Act to the Code, see Tables.
+#### Prior Provisions
+
+A prior section 3534, added Pub. L. 106–398, §1 \[\[div. A\], title X, §1061\], Oct. 30, 2000, 114 Stat. 1654, 1654A–268, related to Federal agency responsibilities prior to the general amendment of this subchapter by Pub. L. 107–296.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 10 section 2224.
+This section is referred to in section 3533 of this title; title 10 section 2224; title 15 section 7406.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “an”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “I”.</i>
+
+<i><sup>3</sup></i><i> So in original. The comma probably should not appear.</i>
 

@@ -52,7 +52,7 @@ The Secretary is authorized to provide financial, technical, and related assista
 
 #### (d) Program of education and technical assistance
 
-The Secretary, in cooperation with State foresters and State extension directors or equivalent State officials and interested members of the public, including nonprofit private organizations, shall implement a program of education and technical assistance for urban and community forest resources. The program shall be designed to—
+The Secretary, in cooperation with State foresters and State extension directors or equivalent State officials and interested members ofthe public, including nonprofit private organizations, shall implement a program of education and technical assistance for urban and community forest resources. The program shall be designed to—
 
 &emsp;(1) assist urban areas and communities in conducting inventories of their forest resources, including inventories of the species, number, location, and health of trees in urban areas and communities, identifying opportunities for the establishment of plantings for the purposes of conserving energy, and determining the status of related resources (including fish and wildlife habitat, water resources, and trails);
 
@@ -70,7 +70,7 @@ The Secretary, in cooperation with State foresters and State extension directors
 
 &emsp;(4) assist in the development of State and local management plans for trees and associated resources in urban areas and communities; and
 
-&emsp;(5) increase public understanding of the energy conservation, economic, social, environmental, and psychological values of trees andopen space in urban and community environments and expand knowledge of the ecological relationships and benefits of trees and related resources in these environments.
+&emsp;(5) increase public understanding of the energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community environments and expand knowledge of the ecological relationships and benefits of trees and related resources in these environments.
 
 #### (e) Procurement of plant materials
 
@@ -156,7 +156,7 @@ The Secretary, in cooperation with State foresters or equivalent State officials
 
 #### (i) In general
 
-&emsp;&emsp;&emsp;Except as provided in clause (ii), members of the Council shall serve withoutpay, but may be reimbursed for reasonable costs incurred while in the actual performance of duties vested in the Council.
+&emsp;&emsp;&emsp;Except as provided in clause (ii), members of the Council shall serve without pay, but may be reimbursed for reasonable costs incurred while in the actual performance of duties vested in the Council.
 
 #### (ii) Federal officers and employees
 

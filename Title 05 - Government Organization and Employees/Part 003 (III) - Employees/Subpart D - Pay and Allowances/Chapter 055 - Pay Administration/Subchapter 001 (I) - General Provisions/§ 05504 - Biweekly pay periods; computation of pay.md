@@ -132,5 +132,5 @@ Pub. L. 97–253, title III, §310(b), Sept. 8, 1982, 96 Stat. 799, as amended b
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5332, 5505, 5545b of this title; title 2 sections 142e, 142f, 142g, 142<i>l</i>; title 38 section 7423; title 40 sections 166b–1d, 166b–1e.
+This section is referred to in sections 5332, 5505, 5545b of this title; title 2 sections 142e, 142f, 142g, 142<i>l</i>, 1844, 1845; title 38 section 7423.
 

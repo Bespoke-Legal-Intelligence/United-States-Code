@@ -50,7 +50,7 @@ Any amounts received from a grant under this section may be used only as follows
 
 #### (A) Physical improvements
 
-&emsp;&emsp;Construction, acquisition, rehabilitation, conversion, retrofitting, and other physicalimprovements necessary to make a structure suitable for use as a community residence.
+&emsp;&emsp;Construction, acquisition, rehabilitation, conversion, retrofitting, and other physical improvements necessary to make a structure suitable for use as a community residence.
 
 #### (B) Operating costs
 
@@ -120,7 +120,7 @@ Subsec. (c)(1)(C). Pub. L. 102–550, §606(i)(1), inserted before period at end
 
 Subsec. (c)(3). Pub. L. 102–550, §606(i)(2), added par. (3) and struck out former par. (3) which read as follows: “For administrative expenses related to the planning and execution of activities under this section, except that a jurisdiction that receives a grant under this section may expend not more than 10 percent of the amount received under the grant for such administrative expenses. Administrative expenses under this paragraph may include expenses relating to community outreach and educational activities regarding acquired immunodeficiency syndrome and related diseases, for staff carrying out activities assisted with a grant under this section and for individuals who reside in proximity of individuals assisted under this chapter.”
 
-Subsec. (d). Pub. L. 102–550, §606(j)(11)(E)(ii), which directed the substitution of “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” wherever appearing in subsec. (d), wasexecuted by making the substitution for “individuals with acquired immunodeficiency syndrome and related diseases” in pars. (1)(B) and (2) to reflect the probable intent of Congress.
+Subsec. (d). Pub. L. 102–550, §606(j)(11)(E)(ii), which directed the substitution of “eligible persons” for “individuals with acquired immunodeficiency syndrome or related diseases” wherever appearing in subsec. (d), was executed by making the substitution for “individuals with acquired immunodeficiency syndrome and related diseases” in pars. (1)(B) and (2) to reflect the probable intent of Congress.
 
 Subsec. (d)(1)(A). Pub. L. 102–550, §606(j)(10)(A), substituted “eligible persons” for “individuals”.
 

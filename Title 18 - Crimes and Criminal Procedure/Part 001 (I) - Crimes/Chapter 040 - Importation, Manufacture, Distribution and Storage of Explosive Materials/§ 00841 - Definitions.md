@@ -8,7 +8,7 @@ As used in this chapter—
 
 &emsp;(c) “Explosive materials” means explosives, blasting agents, and detonators.
 
-&emsp;(d) Except for the purposes of subsections (d), (e), (f), (g), (h), (i), and (j) of section 844 of this title, “explosives” means any chemical compound mixture, or device, the primary or common purpose of which is to function by explosion; the term includes, but is not limited to, dynamite and other high explosives, black powder, pellet powder, initiating explosives, detonators, safety fuses, squibs, detonating cord, igniter cord, and igniters. The Secretary shall publish and revise at least annually in the Federal Register a list of these and any additional explosives which he determines to be within the coverage of this chapter. For the purposes of subsections (d), (e), (f), (g), (h), and (i) of section 844 of this title, the term “explosive” is defined in subsection (j) of such section 844.
+&emsp;(d) Except for the purposes of subsections (d), (e), (f), (g), (h), (i), and (j) of section 844 of this title, “explosives” means any chemical compound mixture, or device, the primary or common purpose of which is to function by explosion; the term includes, but is not limited to, dynamite and other high explosives, black powder, pellet powder, initiating explosives, detonators, safety fuses, squibs, detonating cord, igniter cord, and igniters. The Attorney General shall publish and revise at least annually in the Federal Register a list of these and any additional explosives which he determines to be within the coverage of this chapter. For the purposes of subsections (d), (e), (f), (g), (h), and (i) of section 844 of this title, the term “explosive” is defined in subsection (j) of such section 844.
 
 &emsp;(e) “Blasting agent” means any material or mixture, consisting of fuel and oxidizer, intended for blasting, not otherwise defined as an explosive: <i>Provided</i>, That the finished product, as mixed for use or shipment, cannot be detonated by means of a numbered 8 test blasting cap when unconfined.
 
@@ -20,11 +20,11 @@ As used in this chapter—
 
 &emsp;(i) “Dealer” means any person engaged in the business of distributing explosive materials at wholesale or retail.
 
-&emsp;(j) “Permittee” means any user of explosives for a lawful purpose, who has obtained a user permit under the provisions of this chapter.
+&emsp;(j) “Permittee” means any user of explosives for a lawful purpose, who has obtained either a user permit or a limited permit under the provisions of this chapter.
 
-&emsp;(k) “Secretary” means the Secretary of the Treasury or his delegate.
+&emsp;(k) “Attorney General” means the Attorney General of the United States.
 
-&emsp;(<i>l</i>) “Crime punishable by imprisonment for a term exceeding one year” shall not mean (1) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices as the Secretary may by regulation designate, or (2) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.
+&emsp;(<i>l</i>) “Crime punishable by imprisonment for a term exceeding one year” shall not mean (1) any Federal or State offenses pertaining to antitrust violations, unfair trade practices, restraints of trade, or other similar offenses relating to the regulation of business practices as the Attorney General may by regulation designate, or (2) any State offense (other than one involving a firearm or explosive) classified by the laws of the State as a misdemeanor and punishable by a term of imprisonment of two years or less.
 
 &emsp;(m) “Licensee” means any importer, manufacturer, or dealer licensed under the provisions of this chapter.
 
@@ -42,11 +42,15 @@ As used in this chapter—
 
 &emsp;&emsp;(4) Ortho-Mononitrotoluene (o-MNT), C<sub>7</sub>H<sub>7</sub>NO<sub>2</sub>, molecular weight 137, when the minimum concentration in the finished explosive is 0.5 percent by mass; and
 
-&emsp;&emsp;(5) any other substance in the concentration specified by the Secretary, after consultation with the Secretary of State and the Secretary of Defense, that has been added to the table in part 2 of the Technical Annex to the Convention on the Marking of Plastic Explosives.
+&emsp;&emsp;(5) any other substance in the concentration specified by the Attorney General, after consultation with the Secretary of State and the Secretary of Defense, that has been added to the table in part 2 of the Technical Annex to the Convention on the Marking of Plastic Explosives.
 
 &emsp;(q) “Plastic explosive” means an explosive material in flexible or elastic sheet form formulated with one or more high explosives which in their pure form has a vapor pressure less than 10^<sup>4</sup> Pa at a temperature of 25°C., is formulated with a binder material, and is as a mixture malleable or flexible at normal room temperature.
 
-(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 952; amended Pub. L. 104–132, title VI, §602, Apr. 24, 1996, 110 Stat. 1288.)
+&emsp;(r) “Alien” means any person who is not a citizen or national of the United States.
+
+&emsp;(s) “Responsible person” means an individual who has the power to direct the management and policies of the applicant pertaining to explosive materials.
+
+(Added Pub. L. 91–452, title XI, §1102(a), Oct. 15, 1970, 84 Stat. 952; amended Pub. L. 104–132, title VI, §602, Apr. 24, 1996, 110 Stat. 1288; Pub. L. 107–296, title XI, §§1112(e)(1), (3), 1122(a), Nov. 25, 2002, 116 Stat. 2276, 2280.)
 
 #### References in Text
 
@@ -54,7 +58,25 @@ For definition of Canal Zone, referred to in subsec. (a), see section 3602(b) of
 
 #### Amendments
 
+2002—Subsec. (d). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary”.
+
+Subsec. (j). Pub. L. 107–296, §1122(a)(1), added subsec. (j) and struck out former subsec. (j) which read as follows: “ ‘Permittee’ means any user of explosives for a lawful purpose, who has obtained a user permit under the provisions of this chapter.”
+
+Subsec. (k). Pub. L. 107–296, §1112(e)(1), added subsec. (k) and struck out former subsec. (k) which read as follows: “ ‘Secretary’ means the Secretary of the Treasury or his delegate.”
+
+Subsec. (<i>l</i>). Pub. L. 107–296, §1112(e)(3), substituted “Attorney General” for “Secretary”.
+
+Subsec. (p)(5). Pub. L. 107–296, §1112(e)(3), which directed amendment of par. (5) by substituting “Attorney General” for “Secretary” wherever appearing, was executed by making the substitution the first place appearing to reflect the probable intent of Congress.
+
+Subsecs. (r), (s). Pub. L. 107–296, §1122(a)(2), added subsecs. (r) and (s).
+
 1996—Subsecs. (<i>o</i>) to (q). Pub. L. 104–132 added subsecs. (<i>o</i>) to (q).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by section 1112(e)(1), (3) of Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+Amendment by section 1122(a) of Pub. L. 107–296 effective 180 days after Nov. 25, 2002, see section 1122(i) of Pub. L. 107–296, set out as a note under section 843 of this title.
 
 #### Effective Date of 1996 Amendment
 
@@ -68,6 +90,10 @@ Section 1105(a), (b) of Pub. L. 91–452 provided that:
 
 “(b) The following sections of chapter 40 of title 18, United States Code, as enacted by section 1102 of this title shall take effect on the date of the enactment of this Act \[Oct. 15, 1970\]: sections 841, 844(d), (e), (f), (g), (h), (i), and (j), 845, 846, 847, 848 and 849 \[no section 849 was enacted\].”
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–296, title XI, §1121, Nov. 25, 2002, 116 Stat. 2280, provided that: “This subtitle \[subtitle C (§§1121–1128) of title XI of Pub. L. 107–296, amending this section and sections 842 to 845 of this title and enacting provisions set out as a note under section 843 of this title\] may be referred to as the ‘Safe Explosives Act’.”
+
 #### Short Title of 1982 Amendment
 
 Pub. L. 97–298, §1, Oct. 12, 1982, 96 Stat. 1319, provided: “That this Act \[amending section 844 of this title\] may be cited as the ‘Anti-Arson Act of 1982’.”
@@ -75,10 +101,6 @@ Pub. L. 97–298, §1, Oct. 12, 1982, 96 Stat. 1319, provided: “That this Act 
 #### Short Title of 1975 Amendment
 
 Pub. L. 93–639, §1, Jan. 4, 1975, 88 Stat. 2217, provided: “That this Act \[amending sections 845 and 921 of this title\] may be cited as ‘Amendments of 1973 to Federal Law Relating to Explosives’.”
-
-#### Transfer of Functions
-
-Enforcement functions of Secretary or other official of Department of the Treasury related to compliance with permits for interstate transport of explosives and compliance with regulations for storage of explosives under this chapter with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas transferred to Federal Inspector, Office of Federal Inspector for Alaska Natural Gas Transportation System, until first anniversary of date of initial operation of Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(g), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
 
 #### Findings and Purposes of Title VI of Pub. L. 104–132
 
@@ -90,7 +112,7 @@ Findings.—The Congress finds that—
 
 &emsp;“(1) plastic explosives were used by terrorists in the bombings of Pan American Airlines flight number 103 in December 1988 and UTA flight number 722 in September 1989;
 
-&emsp;“(2) plastic explosives can be used with little likelihood of detection for acts of unlawful interference with civil aviation, maritime navigation, and other modes of transportation;
+&emsp;“(2) plastic explosives can be used with little likelihood of detection for acts of unlawful interferencewith civil aviation, maritime navigation, and other modes of transportation;
 
 &emsp;“(3) the criminal use of plastic explosives places innocent lives in jeopardy, endangers national security, affects domestic tranquility, and gravely affects interstate and foreign commerce;
 
@@ -104,133 +126,7 @@ Purpose.—The purpose of this title \[amending this section, sections 842, 844,
 
 #### Marking, Rendering Inert, and Licensing of Explosive Materials
 
-Section 732 of Pub. L. 104–132, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, provided that:
-
-“(a)
-
-Study.—
-
-&emsp;“(1)
-
-In general.—Not later than 12 months after the date of enactment of this Act \[Apr. 24, 1996\], the Secretary of the Treasury (referred to in this section as the ‘Secretary’) shall conduct a study of—
-
-&emsp;&emsp;“(A) the tagging of explosive materials for purposes of detection and identification;
-
-&emsp;&emsp;“(B) the feasibility and practicability of rendering common chemicals used to manufacture explosive materials inert;
-
-&emsp;&emsp;“(C) the feasibility and practicability of imposing controls on certain precursor chemicals used to manufacture explosive materials; and
-
-&emsp;&emsp;“(D) State licensing requirements for the purchase and use of commercial high explosives, including—
-
-&emsp;&emsp;&emsp;“(i) detonators;
-
-&emsp;&emsp;&emsp;“(ii) detonating cords;
-
-&emsp;&emsp;&emsp;“(iii) dynamite;
-
-&emsp;&emsp;&emsp;“(iv) water gel;
-
-&emsp;&emsp;&emsp;“(v) emulsion;
-
-&emsp;&emsp;&emsp;“(vi) blasting agents; and
-
-&emsp;&emsp;&emsp;“(vii) boosters.
-
-&emsp;“(2)
-
-Exclusion.—No study conducted under this subsection or regulation proposed under subsection (e) shall include black or smokeless powder among the explosive materials considered.
-
-&emsp;“(3)
-
-New prevention technologies.—In addition to the study of taggants as provided herein, the Secretary, in consultation with the Attorney General, shall concurrently report to the Congress on the possible use, and exploitation of technologies such as vapor detection devices, computed tomography, nuclear quadropole resonance, thermal neutron analysis, pulsed fast-neutron analysis, and other technologies upon which recommendations to the Congress may be made for further study, funding, and use of the same in preventing and solving acts of terrorism involving explosive devices.
-
-“(b)
-
-Consultation.—
-
-&emsp;“(1)
-
-In general.—In conducting the study under subsection (a), the Secretary shall consult with—
-
-&emsp;&emsp;“(A) Federal, State, and local officials with expertise in the area of chemicals used to manufacture explosive materials; and
-
-&emsp;&emsp;“(B) such other individuals as the Secretary determines are necessary.
-
-&emsp;“(2)
-
-Fertilizer research centers.—In conducting any portion of the study under subsection (a) relating to the regulation and use of fertilizer as a pre-explosive material, the Secretary of the Treasury shall consult with and receive input from non-profit fertilizer research centers.
-
-“(c)
-
-Report.—Not later than 30 days after the completion of the study conducted under subsection (a), the Secretary shall submit a report to the Congress, which shall be made public, that contains—
-
-&emsp;“(1) the results of the study;
-
-&emsp;“(2) any recommendations for legislation; and
-
-&emsp;“(3) any opinions and findings of the fertilizer research centers.
-
-“(d)
-
-Hearings.—Congress shall have not less than 90 days after the submission of the report under subsection (c) to—
-
-&emsp;“(1) review the results of the study; and
-
-&emsp;“(2) hold hearings and receive testimony regarding the recommendations of the Secretary.
-
-“(e)
-
-Regulations.—
-
-&emsp;“(1)
-
-In general.—Not later than 6 months after the submission of the report required by subsection (c), the Secretary may submit to Congress and publish in the Federal Register draft regulations for the addition of tracer elements to explosive materials manufactured in or imported into the United States, of such character and in such quantity as the Secretary may authorize or require, if the results of the study conducted under subsection (a) indicate that the tracer elements—
-
-&emsp;&emsp;“(A) will not pose a risk to human life or safety;
-
-&emsp;&emsp;“(B) will substantially assist law enforcement officers in their investigative efforts;
-
-&emsp;&emsp;“(C) will not substantially impair the quality of the explosive materials for their intended lawful use;
-
-&emsp;&emsp;“(D) will not have a substantially adverse effect on the environment; and
-
-&emsp;&emsp;“(E) the costs associated with the addition of the tracers will not outweigh benefits of their inclusion.
-
-&emsp;“(2)
-
-Effective date.—The regulations under paragraph (1) shall take effect 270 days after the Secretary submits proposed regulations to Congress pursuant to paragraph (1), except to the extent that the effective date is revised or the regulation is otherwise modified or disapproved by an Act of Congress.
-
-“(f)
-
-Special Study.—
-
-&emsp;“(1)
-
-In general.—Notwithstanding subsection (a), the Secretary of the Treasury shall enter into a contract with the National Academy of Sciences (referred to in this section as the ‘Academy’) to conduct a study of the tagging of smokeless and black powder by any viable technology for purposes of detection and identification. The study shall be conducted by an independent panel of 5 experts appointed by the Academy.
-
-&emsp;“(2)
-
-Study elements.—The study conducted under this subsection shall—
-
-&emsp;&emsp;“(A) indicate whether the tracer elements, when added to smokeless and black powder—
-
-&emsp;&emsp;&emsp;“(i) will pose a risk to human life or safety;
-
-&emsp;&emsp;&emsp;“(ii) will substantially assist law enforcement officers in their investigative efforts;
-
-&emsp;&emsp;&emsp;“(iii) will impair the quality and performance of the powders (which shall include a broad and comprehensive sampling of all available powders) for their intended lawful use, including, but not limited to the sporting, defense, and handloading uses of the powders, as well as their use in display and lawful consumer pyrotechnics;
-
-&emsp;&emsp;&emsp;“(iv) will have a substantially adverse effect on the environment;
-
-&emsp;&emsp;&emsp;“(v) will incur costs which outweigh the benefits of their inclusion, including an evaluation of the probable production and regulatory cost of compliance to the industry, and the costs and effects on consumers, including the effect on the demand for ammunition; and
-
-&emsp;&emsp;&emsp;“(vi) can be evaded, and with what degree of difficulty, by terrorists or terrorist organizations, including evading tracer elements by the use of precursor chemicals to make black or other powders; and
-
-&emsp;&emsp;“(B) provide for consultation on the study with Federal, State, and local officials, non-governmental organizations, including all national police organizations, national sporting organizations, and national industry associations with expertise in this area and such other individuals as shall be deemed necessary.
-
-&emsp;“(3)
-
-Report and costs.—The study conducted under this subsection shall be presented to Congress 2 years after the enactment of this subsection \[enacted Sept. 30, 1996\] and be made available to the public, including any data tapes or data used to form such recommendations. There are authorized to be appropriated such sums as may be necessary to carry out the study.”
+Section 732 of Pub. L. 104–132, as amended by Pub. L. 104–208, div. A, title I, §101(a) \[title I, §113\], Sept. 30, 1996, 110 Stat. 3009, 3009–21; Pub. L. 105–61, title I, Oct. 10, 1997, 111 Stat. 1272, required study by the Secretary of the Treasury of the marking, rendering inert, and licensing of explosive materials not later than 12 months after Apr. 24, 1996, report to Congress on results and recommendations, hearings by Congress to review study results, promulgation of regulations, and special study on the tagging of smokeless and black powder and report two years after Sept. 30, 1996.
 
 #### Congressional Declaration of Purpose
 
@@ -260,5 +156,5 @@ Section 1107 of title XI of Pub. L. 91–452 provided that: “There are hereby 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 8 section 1101; title 19 section 1595a.
+This section is referred to in title 8 section 1101; title 19 section 1595a; title 40 section 5104.
 

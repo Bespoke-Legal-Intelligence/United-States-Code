@@ -28,5 +28,5 @@ This section is revised to conform to the style and terminology used in title 18
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 831 of this title.
+This section is referred to in section 831 of this title; title 6 section 466.
 

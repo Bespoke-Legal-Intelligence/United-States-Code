@@ -66,5 +66,5 @@ Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113, provided that t
 
 #### Effective Date of 1994 Amendment
 
-Section 4(k) of Pub. L. 103–272 which provided that the amendments made by that section (amending thissection and sections 41901, 41902, and 41903 of this title) were effective Jan. 1, 1999, was repealed by Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113, effective Dec. 31, 1998.
+Section 4(k) of Pub. L. 103–272 which provided that the amendments made by that section (amending this section and sections 41901, 41902, and 41903 of this title) were effective Jan. 1, 1999, was repealed by Pub. L. 106–31, title VI, §6003, May 21, 1999, 113 Stat. 113, effective Dec. 31, 1998.
 

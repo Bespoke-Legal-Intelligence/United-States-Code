@@ -138,6 +138,7 @@
 | [1674a.](Subchapter%20003%20%28III%29%20-%20Extension%20Programs/%C2%A7%2001674a%20-%20Expanded%20programs.md) | Expanded programs. |
 | (a) | In general. |
 | (b) | Activities. |
+| [1674b.](Subchapter%20003%20%28III%29%20-%20Extension%20Programs/%C2%A7%2001674b%20-%20Sustainable%20Forestry%20Outreach%20Initiative.md) | Sustainable Forestry Outreach Initiative. |
 | [1675\.](Subchapter%20003%20%28III%29%20-%20Extension%20Programs/%C2%A7%2001675%20-%20Authorization%20of%20appropriations%3B%20criteria%20for%20eligibility%20of%20States%20for%20funds.md) | Authorization of appropriations; criteria for eligibility of States for funds. |
 | [1676\.](Subchapter%20003%20%28III%29%20-%20Extension%20Programs/%C2%A7%2001676%20-%20Issuance%20of%20rules%20and%20regulations%20for%20implementation%20of%20provisions%20and%20coordination%20with%20agricultural%2C%20research%2C%20extension%2C%20and%20teaching%E2%80%A6.md) | Issuance of rules and regulations for implementation of provisions and coordination with agricultural, research, extension, and teaching provisions. |
 

@@ -154,9 +154,9 @@ Subsec. (d)(1). Pub. L. 103–355, §1061(c)(3)(A), added par. (1) and struck ou
 
 &emsp;“(A) after discussions conducted with the offerors at any time after receipt of the proposals and before the award of the contract; or
 
-&emsp;“(B) without discussions with the offerors (other than discussions conducted for the purpose of minor clarification) when it can be clearly demonstrated from the existence of full and open competition or accurate prior cost experience with the product or service that acceptance of an initial proposal without discussions would result in the lowest overall cost to the Government.”
+&emsp;“(B) without discussions with the offerors (other than discussions conducted for the purpose of minorclarification) when it can be clearly demonstrated from the existence of full and open competition or accurate prior cost experience with the product or service that acceptance of an initial proposal without discussions would result in the lowest overall cost to the Government.”
 
-Subsec. (d)(2). Pub. L. 103–355, §§1061(c)(3)(C), 1063(b), inserted “cost or” before “price” in first sentence, and,in second sentence, substituted “transmitting, in writing or by electronic means, notice” for “transmitting written notice” and “, within 3 days after the date of contract award, shall notify, in writing or by electronic means,” for “shall promptly notify”.
+Subsec. (d)(2). Pub. L. 103–355, §§1061(c)(3)(C), 1063(b), inserted “cost or” before “price” in first sentence, and, in second sentence, substituted “transmitting, in writing or by electronic means, notice” for “transmitting written notice” and “, within 3 days after the date of contract award, shall notify, in writing or by electronic means,” for “shall promptly notify”.
 
 Pub. L. 103–355, §1061(c)(3)(B), redesignated par. (4) as (2) and struck out former par. (2) which read as follows: “In the case of award of a contract under paragraph (1)(A), the executive agency shall conduct, before such award, written or oral discussions with all responsible sources who submit proposals within the competitive range, considering only price and the other factors included in the solicitation.”
 
@@ -178,7 +178,7 @@ Section 1074(b)(7) of Pub. L. 104–201 provided that the amendment made by that
 
 For effective date and applicability of amendment by sections 4103(b) and 4104(b) of Pub. L. 104–106, see section 4401 of Pub. L. 104–106, set out as a note under section 251 of this title.
 
-Amendment by section 5607(c) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by section 5607(c) of Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
 #### Effective Date of 1994 Amendment
 
@@ -222,7 +222,7 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Definitions
 
-The definitions in section 472 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
+The definitions in section 102 of Title 40, Public Buildings, Property, and Works, apply to this subchapter.
 
 #### Section Referred to in Other Sections
 

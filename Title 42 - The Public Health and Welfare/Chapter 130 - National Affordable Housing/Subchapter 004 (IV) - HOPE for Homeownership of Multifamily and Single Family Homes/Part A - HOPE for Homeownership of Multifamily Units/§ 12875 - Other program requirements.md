@@ -10,7 +10,7 @@ The Secretary may establish cost limitations on eligible activities under this p
 
 #### (c) Use of proceeds from sales to eligible families
 
-The entity that transfers ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, shall use the proceeds, if any, fromthe initial sale for costs of the homeownership program, including operating expenses, improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additional homeownership opportunities, and other activities approved by the Secretary.
+The entity that transfers ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, shall use the proceeds, if any, from the initial sale for costs of the homeownership program, including operating expenses, improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additional homeownership opportunities, and other activities approved by the Secretary.
 
 #### (d) Restrictions on resale by homeowners
 
@@ -46,7 +46,7 @@ The entity that transfers ownership interests in, or shares representing, units 
 
 #### (4) Use of recaptured funds
 
-&emsp;Fifty percent of any portion of the net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this subsection shall be paid to the entity that transferred ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, for use for improvements to the project, business opportunities for low-income families, supportive services related to the homeownership program, additional homeownership opportunities, and other activities approved by the Secretary. The remaining 50 percent shall be returned to the Secretary for use under this part, subject to limitations contained in appropriations Acts. Such entity shall keep and make available to the Secretary all records necessary to calculate accurately payments due the Secretary under this subsection.
+&emsp;Fifty percent of any portion of the net sales proceeds that may not be retained by the homeowner under the plan approved pursuant to this subsection shall be paid to the entity that transferred ownership interests in, or shares representing, units to eligible families, or another entity specified in the approved application, for use for improvements to the project, business opportunities for low-income families, supportive services related to thehomeownership program, additional homeownership opportunities, and other activities approved by the Secretary. The remaining 50 percent shall be returned to the Secretary for use under this part, subject to limitations contained in appropriations Acts. Such entity shall keep and make available to the Secretary all records necessary to calculate accurately payments due the Secretary under this subsection.
 
 #### (e) Third party rights
 
@@ -58,7 +58,7 @@ Not more than an aggregate of $250,000 from amounts made available under section
 
 #### (g) Timely homeownership
 
-Recipients shall transfer ownership of the property to tenants within a specified period of time that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are approved by the Secretary as consistentwith the purpose of improving housing opportunities for low-income families. The recipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
+Recipients shall transfer ownership of the property to tenants within a specified period of time that the Secretary determines to be reasonable. During the interim period when the property continues to be operated and managed as rental housing, the recipient shall utilize written tenant selection policies and criteria that are approved by the Secretary as consistent with the purpose of improving housing opportunities for low-income families. The recipient shall promptly notify in writing any rejected applicant of the grounds for any rejection.
 
 #### (h) Records and audit of recipients of assistance
 

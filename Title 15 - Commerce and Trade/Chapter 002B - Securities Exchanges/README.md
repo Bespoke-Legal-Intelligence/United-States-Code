@@ -27,6 +27,9 @@
 | (b) | Right of review; procedure. |
 | (c) | Finality of delegated action. |
 | 78d–2. | Transfer of functions with respect to assignment of personnel to chairman. |
+| 78d–3. | Appearance and practice before the Commission. |
+| (a) | Authority to censure. |
+| (b) | Definition. |
 | [78e.](%C2%A7%2000078e%20-%20Transactions%20on%20unregistered%20exchanges.md) | Transactions on unregistered exchanges. |
 | [78f.](%C2%A7%2000078f%20-%20National%20securities%20exchanges.md) | National securities exchanges. |
 | (a) | Registration; application. |
@@ -66,7 +69,14 @@
 | (c) | Auditor liability limitation. |
 | (d) | Civil penalties in cease-and-desist proceedings. |
 | (e) | Preservation of existing authority. |
-| (f) | “Illegal act” defined. |
+| (f) | Definitions. |
+| (g) | Prohibited activities. |
+| (h) | Preapproval required for non-audit services. |
+| (i) | Preapproval requirements. |
+| (j) | Audit partner rotation. |
+| (k) | Reports to audit committees. |
+| (<i>l</i>) | Conflicts of interest. |
+| (m) | Standards relating to audit committees. |
 | [78k.](%C2%A7%2000078k%20-%20Trading%20by%20members%20of%20exchanges%2C%20brokers%2C%20and%20dealers.md) | Trading by members of exchanges, brokers, and dealers. |
 | (a) | Trading for own account or account of associated person; exceptions. |
 | (b) | Registration of members as odd-lot dealers and specialists. |
@@ -101,6 +111,10 @@
 | (f) | Reports by institutional investment managers. |
 | (g) | Statement of equity security ownership. |
 | (h) | Large trader reporting. |
+| (i) | Accuracy of financial reports. |
+| (j) | Off-balance sheet transactions. |
+| (k) | Prohibition on personal loans to executives. |
+| (<i>l</i>) | Real time issuer disclosures. |
 | [78n.](%C2%A7%2000078n%20-%20Proxies.md) | Proxies. |
 | (a) | Solicitation of proxies in violation of rules and regulations. |
 | (b) | Giving or refraining from giving proxy in respect of any security carried for account of customer. |
@@ -150,8 +164,12 @@
 | (e) | Membership in national securities exchange; exemptions. |
 | (f) | Large position reporting. |
 | (g) | Effect on other laws; authority of Commission. |
+| 78<i>o</i>–6. | Securities analysts and research reports. |
+| (a) | Analyst protections. |
+| (b) | Disclosure. |
+| (c) | Definitions. |
 | [78p.](%C2%A7%2000078p%20-%20Directors%2C%20officers%2C%20and%20principal%20stockholders.md) | Directors, officers, and principal stockholders. |
-| (a) | Filing of statement of all ownership of securities of issuer by owner of more than ten per centum of any class of security. |
+| (a) | Disclosures required. |
 | (b) | Profits from purchase and sale of security within six months. |
 | (c) | Conditions for sale of security by beneficial owner, director, or officer. |
 | (d) | Securities held in investment account, transactions in ordinary course of business, and establishment of primary or secondary market. |
@@ -215,7 +233,7 @@
 | (c) | Judicial enforcement of investigative power of Commission; refusal to obey subpoena; criminal sanctions. |
 | (d) | Injunction proceedings; authority of court to prohibit persons from serving as officers and directors; money penalties in civil actions. |
 | (e) | Mandamus. |
-| (f) | Rules of self-regulatory organizations. |
+| (f) | Rules of self-regulatory organizations or Board. |
 | (g) | Consolidation of actions; consent of Commission. |
 | (h) | Access to records. |
 | (i) | Information to CFTC. |
@@ -239,6 +257,7 @@
 | (c) | Temporary order. |
 | (d) | Review of temporary orders. |
 | (e) | Authority to enter order requiring accounting and disgorgement. |
+| (f) | Authority of the Commission to prohibit persons from serving as officers or directors. |
 | 78u–4. | Private securities litigation. |
 | (a) | Private class actions. |
 | (b) | Requirements for securities fraud actions. |
@@ -337,8 +356,6 @@
 | 78hh–1. | Effective date of certain sections. |
 | 78ii, 78jj. | Omitted or Repealed. |
 | [78kk.](%C2%A7%2000078kk%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
-| (a) | In general. |
-| (b) | Miscellaneous expenses. |
 | 78<i>ll.</i> | Requirements for the EDGAR system. |
 | [78mm.](%C2%A7%2000078mm%20-%20General%20exemptive%20authority.md) | General exemptive authority. |
 | (a) | Authority. |
@@ -348,7 +365,7 @@
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee, 79p, 79t, 79u, 80a–2, 80a–8, 80a–9, 80a–12, 80a–17, 80a–29, 80a–34, 80a–37, 80a–49, 80a–56, 80b–2, 80b–3, 80b–4a, 80b–8, 631b, 1691c, 1693<i>o</i>, 6805 of this title; title 2 section 1602; title 7 sections 1a, 2, 6, 6m, 7a, 7a–1, 12a; title 11 section 741; title 12 sections 1831<i>o</i>, 1844, 2279aa–12, 3422, 4402, 4422; title 25 section 646; title 26 sections 162, 277; title 29 sections 432, 1343; title 31 section 5312; title 42 sections 2297h–2, 2297h–7; title 43 sections 1625, 1629b; title 45 section 1342; title 47 section 274.
+This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee, 79p, 79t, 79u, 80a–2, 80a–8, 80a–9, 80a–12, 80a–17, 80a–29, 80a–34, 80a–37, 80a–49, 80a–56, 80b–2, 80b–3, 80b–4a, 80b–8, 631b, 1691c, 1693<i>o</i>, 6805, 7202 of this title; title 2 section 1602; title 7 sections 1a, 2, 6, 6m, 7a, 7a–1, 12a; title 11 section 741; title 12 sections 1831<i>o</i>, 1844, 2279aa–12, 3422, 4402, 4422; title 25 section 646; title 26 sections 162, 277; title 29 sections 432, 1343; title 31 section 5312; title 42 sections 2297h–2, 2297h–7; title 43 sections 1625, 1629b; title 45 section 1342; title 47 section 274.
 
 
 ---
@@ -362,6 +379,7 @@ This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee
 - [&sect; 00078d - Securities and Exchange Commission](%C2%A7%2000078d%20-%20Securities%20and%20Exchange%20Commission.md)
 - [&sect; 00078d&#8211;1 - Delegation of functions by Commission](%C2%A7%2000078d%E2%80%931%20-%20Delegation%20of%20functions%20by%20Commission.md)
 - [&sect; 00078d&#8211;2 - Transfer of functions with respect to assignment of personnel to chairman](%C2%A7%2000078d%E2%80%932%20-%20Transfer%20of%20functions%20with%20respect%20to%20assignment%20of%20personnel%20to%20chairman.md)
+- [&sect; 00078d&#8211;3 - Appearance and practice before the Commission](%C2%A7%2000078d%E2%80%933%20-%20Appearance%20and%20practice%20before%20the%20Commission.md)
 - [&sect; 00078e - Transactions on unregistered exchanges](%C2%A7%2000078e%20-%20Transactions%20on%20unregistered%20exchanges.md)
 - [&sect; 00078f - National securities exchanges](%C2%A7%2000078f%20-%20National%20securities%20exchanges.md)
 - [&sect; 00078g - Margin requirements](%C2%A7%2000078g%20-%20Margin%20requirements.md)
@@ -381,6 +399,7 @@ This chapter is referred to in sections 77ccc, 77hhh, 77www, 77zzz, 78bbb, 78eee
 - [&sect; 00078o&#8211;3 - Registered securities associations](%C2%A7%2000078o%E2%80%933%20-%20Registered%20securities%20associations.md)
 - [&sect; 00078o&#8211;4 - Municipal securities](%C2%A7%2000078o%E2%80%934%20-%20Municipal%20securities.md)
 - [&sect; 00078o&#8211;5 - Government securities brokers and dealers](%C2%A7%2000078o%E2%80%935%20-%20Government%20securities%20brokers%20and%20dealers.md)
+- [&sect; 00078o&#8211;6 - Securities analysts and research reports](%C2%A7%2000078o%E2%80%936%20-%20Securities%20analysts%20and%20research%20reports.md)
 - [&sect; 00078p - Directors, officers, and principal stockholders](%C2%A7%2000078p%20-%20Directors%2C%20officers%2C%20and%20principal%20stockholders.md)
 - [&sect; 00078q - Records and reports](%C2%A7%2000078q%20-%20Records%20and%20reports.md)
 - [&sect; 00078q&#8211;1 - National system for clearance and settlement of securities transactions](%C2%A7%2000078q%E2%80%931%20-%20National%20system%20for%20clearance%20and%20settlement%20of%20securities%20transactions.md)

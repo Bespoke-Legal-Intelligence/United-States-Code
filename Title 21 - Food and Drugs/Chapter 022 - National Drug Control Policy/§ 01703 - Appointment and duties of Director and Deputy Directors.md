@@ -42,7 +42,7 @@ The Director—
 
 &emsp;(6) shall appear before duly constituted committees and subcommittees of the House of Representatives and of the Senate to represent the drug policies of the executive branch;
 
-&emsp;(7) shall notify any National Drug Control Program agency if its policies are not in compliance with the responsibilities of the agency under the National Drug Control Strategy, transmit a copy of each such notification tothe President, and maintain a copy of each such notification;
+&emsp;(7) shall notify any National Drug Control Program agency if its policies are not in compliance with the responsibilities of the agency under the National Drug Control Strategy, transmit a copy of each such notification to the President, and maintain a copy of each such notification;
 
 &emsp;(8) shall provide, by July 1 of each year, budget recommendations, including requests for specific initiatives that are consistent with the priorities of the President under the National Drug Control Strategy, to the heads of departments and agencies with responsibilities under the National Drug Control Program, which recommendations shall—
 
@@ -120,7 +120,7 @@ The Director—
 
 #### (i) Inadequate requests
 
-&emsp;&emsp;&emsp;If the Director concludes that a budget request submitted under paragraph (1) is inadequate, in whole or in part, to implement the objectives of the National Drug Control Strategy with respect to the department, agency, or program at issue for the year for which the request is submitted, the Director shall submit to the head of the applicable National Drug Control Program agency a written description of funding levels and specific initiatives that would, in the determination of the Director, make the request adequate to implement those objectives.
+&emsp;&emsp;&emsp;If the Director concludes that a budget request submitted under paragraph (1) isinadequate, in whole or in part, to implement the objectives of the National Drug Control Strategy with respect to the department, agency, or program at issue for the year for which the request is submitted, the Director shall submit to the head of the applicable National Drug Control Program agency a written description of funding levels and specific initiatives that would, in the determination of the Director, make the request adequate to implement those objectives.
 
 #### (ii) Adequate requests
 
@@ -192,7 +192,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 &emsp;(3) use for administrative purposes, on a reimbursable basis, the available services, equipment, personnel, and facilities of Federal, State, and local agencies;
 
-&emsp;(4) procure the services of experts and consultants in accordance with section 3109 of title 5, relating to appointments in the Federal Service, at rates of compensation for individuals not to exceed the daily equivalent of the rate of pay payable under level IV of the Executive Schedule under section 5311 of title 5;
+&emsp;(4) procure the services of experts and consultants in accordance with section 3109 of title 5, relating to appointments in the Federal Service, at rates of compensation for individuals not to exceed the daily equivalent ofthe rate of pay payable under level IV of the Executive Schedule under section 5311 of title 5;
 
 &emsp;(5) accept and use gifts and donations of property from Federal, State, and local government agencies, and from the private sector, as authorized in section 1702(d) of this title;
 
@@ -268,7 +268,7 @@ In carrying out subsection (b) of this section, the Director may—
 
 #### (2) Unauthorized obligation or expenditure prohibited
 
-&emsp;An officer or employee of a National Drug Control Program agency shall not make or authorize an expenditure or obligation contraryto a fund control notice issued by the Director.
+&emsp;An officer or employee of a National Drug Control Program agency shall not make or authorize an expenditure or obligation contrary to a fund control notice issued by the Director.
 
 #### (3) Disciplinary action for violation
 
@@ -330,7 +330,7 @@ Sec. 2.
 
 Goals, Direction, Duties and Responsibilities with Respect to the National Drug Control Program. (a) <i>Budget Matters</i>. (1) In addition to the budgetary authorities and responsibilities provided to the Director by statute, \[former\] 21 U.S.C. 1502, for those agency budget requests that are not certified as adequate to implement the objectives of the National Drug Control Strategy, the Director shall include in such certifications initiatives or funding levels that would make such requests adequate.
 
-(2) The Director shall provide, by July 1 of each year, budget recommendations to the heads of departmentsand agencies with responsibilities under the National Drug Control Program. The recommendations shall apply to the second following fiscal year and address funding priorities developed in the annual National Drug Control Strategy.
+(2) The Director shall provide, by July 1 of each year, budget recommendations to the heads of departments and agencies with responsibilities under the National Drug Control Program. The recommendations shall apply to the second following fiscal year and address funding priorities developed in the annual National Drug Control Strategy.
 
 (b) <i>Measurement of National Drug Control Strategy Outcomes</i>. (1) The National Drug Control Strategy shall include long-range goals for reducing drug use and the consequences of drug use in the United States, including burdens on hospital emergency rooms, drug use among arrestees, the extent of drug-related crime, high school dropout rates, the number of infants exposed annually to illicit drugs in utero, national drug abuse treatment capacity, and the annual national health care costs of drug use.
 

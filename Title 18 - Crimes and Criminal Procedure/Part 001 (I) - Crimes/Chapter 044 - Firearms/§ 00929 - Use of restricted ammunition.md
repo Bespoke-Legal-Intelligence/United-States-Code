@@ -4,9 +4,9 @@
 
 (2) For purposes of this subsection, the term “drug trafficking crime” means any felony punishable under the Controlled Substances Act (21 U.S.C. 801 et seq.), the Controlled Substances Import and Export Act (21 U.S.C. 951 et seq.), or the Maritime Drug Law Enforcement Act (46 U.S.C. App. 1901 et seq.).
 
-(b) Notwithstanding any other provision of law, the court shall not suspend the sentence of any person convicted of a violation of this section, nor place the person on probation, nor shall the terms of imprisonment run concurrently with any other terms of imprisonment, including that imposed for the crime in which the armor piercing ammunition was used or possessed. No person sentenced under this section shall be eligible for parole during the term of imprisonment imposed herein.
+(b) Notwithstanding any other provision of law, the court shall not suspend the sentence of any person convicted of a violation of this section, nor place the person on probation, nor shall the terms of imprisonment run concurrently with any other terms of imprisonment, including that imposed for the crime in which the armor piercing ammunition was used or possessed.
 
-(Added Pub. L. 98–473, title II, §1006(a), Oct. 12, 1984, 98 Stat. 2139; amended Pub. L. 99–308, §108, May 19, 1986, 100 Stat. 460; Pub. L. 99–408, §8, Aug. 28, 1986, 100 Stat. 921; Pub. L. 100–690, title VI, §6212, title VII, §7060(b), Nov. 18, 1988, 102 Stat. 4360, 4404.)
+(Added Pub. L. 98–473, title II, §1006(a), Oct. 12, 1984, 98 Stat. 2139; amended Pub. L. 99–308, §108, May 19, 1986, 100 Stat. 460; Pub. L. 99–408, §8, Aug. 28, 1986, 100 Stat. 921; Pub. L. 100–690, title VI, §6212, title VII, §7060(b), Nov. 18, 1988, 102 Stat. 4360, 4404; Pub. L. 107–273, div. B, title IV, §4002(c)(4), Nov. 2, 2002, 116 Stat. 1809.)
 
 #### References in Text
 
@@ -17,6 +17,8 @@ The Controlled Substances Import and Export Act, referred to in subsec. (a)(2), 
 The Maritime Drug Law Enforcement Act, referred to in subsec. (a)(2), is Pub. L. 96–350, Sept. 15, 1980, 94 Stat. 1159, as amended, which is classified generally to chapter 38 (§1901 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1901 of Title 46, Appendix, and Tables.
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–273 struck out at end “No person sentenced under this section shall be eligible for parole during the term of imprisonment imposed herein.”
 
 1988—Subsec. (a)(1). Pub. L. 100–690, §7060(b), substituted “trafficking crime” for “trafficking crime,” in three places.
 

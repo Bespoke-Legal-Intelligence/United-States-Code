@@ -56,7 +56,7 @@ Acquittal.—(1) The Administrator may not revoke, and the Board may not affirm 
 
 (f)
 
-Waivers.—The Administrator may waive the requirement of subsection (b) of this sectionthat an airman certificate of an individual be revoked if—
+Waivers.—The Administrator may waive the requirement of subsection (b) of this section that an airman certificate of an individual be revoked if—
 
 &emsp;(1) a law enforcement official of the United States Government or of a State requests a waiver; and
 

@@ -12,7 +12,7 @@ It is in the public interest for the United States Government to—
 
 #### (b) Archiving practices
 
-The Secretary of the Interior, in consultation with the Landsat Program Management, shall provide for long-term storage, maintenance, and upgrading of a basic, global, land remote sensing data set (hereinafter referred to as the “basic data set”) and shall follow reasonable archival practices to assure proper storage and preservation of the basic data set and timely access for parties requesting data.
+The Secretary of the Interior, in consultation with the Landsat Program Management, shallprovide for long-term storage, maintenance, and upgrading of a basic, global, land remote sensing data set (hereinafter referred to as the “basic data set”) and shall follow reasonable archival practices to assure proper storage and preservation of the basic data set and timely access for parties requesting data.
 
 #### (c) Determination of content of basic data set
 

@@ -24,7 +24,13 @@ If a teacher does not report for service at the beginning of the next school yea
 
 Quarters, quarters allowance, and storage provided under this section shall be in lieu of any quarters, quarters allowance, and storage to which he otherwise might be entitled by reason of employment in another position during any recess period between two school years.
 
-(Pub. L. 86–91, §7, July 17, 1959, 73 Stat. 216; Pub. L. 87–172, §1, Aug. 30, 1961, 75 Stat. 409.)
+#### (f) Lease of military family housing by teacher assigned to teach at Guantanamo Bay Naval Station, Cuba
+
+(1) A teacher assigned to teach at Guantanamo Bay Naval Station, Cuba, who is not accompanied at such station by any dependent shall be offered for lease any available military family housing at such station that is suitable for occupancy by the teacher and is not needed to house members of the armed forces and dependents accompanying them or other civilian personnel and any dependents accompanying them.
+
+(2) For any period for which military family housing is leased under paragraph (1) to a teacher described in such paragraph, the teacher shall receive a quarters allowance in the amount determined under subsection (b) of this section. The teacher is entitled to such quarters allowance without regard to whether other Government furnished quarters are available for occupancy by the teacher without charge to the teacher.
+
+(Pub. L. 86–91, §7, July 17, 1959, 73 Stat. 216; Pub. L. 87–172, §1, Aug. 30, 1961, 75 Stat. 409; Pub. L. 107–314, div. A, title III, §342, Dec. 2, 2002, 116 Stat. 2515.)
 
 #### Codification
 
@@ -33,6 +39,8 @@ In subsecs. (b) and (c)(1), “section 5912 of title 5” substituted for “the
 Section was formerly classified to section 2355 of Title 5 prior to the general revision and enactment of Title 5 by Pub. L. 89–554, §1, Sept. 6, 1966, 80 Stat. 378.
 
 #### Amendments
+
+2002—Subsec. (f). Pub. L. 107–314 added subsec. (f).
 
 1961—Subsec. (d). Pub. L. 87–172 inserted “except for reasons beyond his control and acceptable to the Department of Defense”.
 

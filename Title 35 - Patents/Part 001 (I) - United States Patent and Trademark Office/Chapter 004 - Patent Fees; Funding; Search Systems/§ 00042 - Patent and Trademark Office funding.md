@@ -20,7 +20,7 @@
 
 &emsp;(5) such other information as the committees consider necessary.
 
-(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 94–131, §4, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §3, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 97–247, §3(g), Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–258, §3(i), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 102–204, §§4, 5(e), Dec. 10, 1991, 105 Stat. 1637, 1640; Pub. L. 105–358, §4, Nov. 10, 1998, 112 Stat. 3274; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4205, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, 1501A–582.)
+(July 19, 1952, ch. 950, 66 Stat. 796; Pub. L. 94–131, §4, Nov. 14, 1975, 89 Stat. 690; Pub. L. 96–517, §3, Dec. 12, 1980, 94 Stat. 3018; Pub. L. 97–247, §3(g), Aug. 27, 1982, 96 Stat. 319; Pub. L. 97–258, §3(i), Sept. 13, 1982, 96 Stat. 1065; Pub. L. 102–204, §§4, 5(e), Dec. 10, 1991, 105 Stat. 1637, 1640; Pub. L. 105–358, §4, Nov. 10, 1998, 112 Stat. 3274; Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §§4205, 4732(a)(10)(A)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–555, 1501A–582; Pub. L. 107–273, div. C, title III, §13206(b)(1)(B), Nov. 2, 2002, 116 Stat. 1906.)
 
 #### Historical and Revision Notes
 
@@ -34,7 +34,9 @@ Section 31 of the Trademark Act of 1946, referred to in subsec. (c), is classifi
 
 #### Amendments
 
-1999—Subsecs. (a), (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], substituted “Director” for “Commissioner”.
+2002—Subsecs. (a), (b). Pub. L. 107–273 made technical correction to directory language of Pub. L. 106–113,§1000(a)(9) \[title IV, §4732(a)(10)(A)\]. See 1999 Amendment note below.
+
+1999—Subsecs. (a), (b). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(a)(10)(A)\], as amended by Pub. L. 107–273, substituted “Director” for “Commissioner”.
 
 Subsec. (c). Pub. L. 106–113 substituted “Director” for “Commissioner” wherever appearing and, in second sentence, substituted “All fees available” for “Fees available” and “shall be used” for “may be used”.
 
@@ -50,7 +52,7 @@ Subsec. (e). Pub. L. 102–204, §4, added subsec. (e).
 
 Subsec. (c). Pub. L. 97–247 inserted provision that fees available to the Commissioner under section 31 of the Trademark Act of 1946, as amended (15 U.S.C. 1113), be used exclusively for the processing of trademark registrations and for other services and materials related to trademarks.
 
-1980—Pub. L. 96–517 designated existing provision relating to payment of patent fees as subsec. (a) and struck out provision that, except as provided in sections 361(b) and 376(b) of this title, the Commissioner deposit fees paid in the Treasury of the United Statesin such manner as directed by the Secretary of the Treasury, designated existing provision relating to return of excess amounts paid as subsec. (d), and added subsecs. (b) and (c).
+1980—Pub. L. 96–517 designated existing provision relating to payment of patent fees as subsec. (a) and struck out provision that, except as provided in sections 361(b) and 376(b) of this title, the Commissioner deposit fees paid in the Treasury of the United States in such manner as directed by the Secretary of the Treasury, designated existing provision relating to return of excess amounts paid as subsec. (d), and added subsecs. (b) and (c).
 
 1975—Pub. L. 94–131 inserted “, except as provided in sections 361(b) and 376(b) of this title,”.
 
@@ -73,6 +75,26 @@ Amendment by Pub. L. 96–517 effective on first day of first fiscal year beginn
 #### Effective Date of 1975 Amendment
 
 Amendment by Pub. L. 94–131 effective Jan. 24, 1978, and applicable on and after that date to patent applications filed in the United States and to international applications, where applicable, see section 11 of Pub. L. 94–131, set out as an Effective Date note under section 351 of this title.
+
+#### Authorization of Amounts Available to the Patent and Trademark Office
+
+Pub. L. 107–273, div. C, title III, §13102, Nov. 2, 2002, 116 Stat. 1899, provided that:
+
+“(a)
+
+In General.—There are authorized to be appropriated to the United States Patent and Trademark Office for salaries and necessary expenses for each of the fiscal years 2003 through 2008 an amount equal to the fees estimated by the Secretary of Commerce to be collected in each such fiscal year, respectively, under—
+
+&emsp;“(1) title 35, United States Code; and
+
+&emsp;“(2) the Act entitled ‘An Act to provide for the registration and protection of trademarks used in commerce, to carry out the provisions of certain international conventions, and for other purposes’, approved July 5, 1946 (15 U.S.C. 1051 et seq.) (commonly referred to as the Trademark Act of 1946).
+
+“(b)
+
+Estimates.—Not later than February 15, of each fiscal year, the Undersecretary of Commerce for Intellectual Property and the Director of the Patent and Trademark Office (in this subtitle \[subtitle A (§§13101–13106) of title III of div. C of Pub. L. 107–273, amending sections 134, 141, 303, 312, and 315 of this title and enacting provisions set out as notes under sections 2, 134, and 303 of this title\] referred to as the Director) shall submit an estimate of all fees referred to under subsection (a) to be collected in the next fiscal year to the chairman and ranking member of—
+
+&emsp;“(1) the Committees on Appropriations and Judiciary of the Senate; and
+
+&emsp;“(2) the Committees on Appropriations and Judiciary of the House of Representatives.”
 
 #### Appropriations Authorized To Be Carried Over
 

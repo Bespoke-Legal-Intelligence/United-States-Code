@@ -36,7 +36,7 @@ Federal share.—The Federal share of full project costs under paragraph (1) sha
 
 &emsp;(3)
 
-Use of assistance.—Financial assistance provided under paragraph (1) shall be usedonly to pay eligible project costs of projects selected under this section.
+Use of assistance.—Financial assistance provided under paragraph (1) shall be used only to pay eligible project costs of projects selected under this section.
 
 (c)
 
@@ -102,7 +102,7 @@ Preconstruction planning activities.—Not later than 90 days after a deadline e
 
 &emsp;(2)
 
-Final design, engineering, and construction activities.—After completion of preconstruction planning activities for all projects assisted under paragraph (1), the Secretary shall select 1 of the projects to receive financial assistance for final design, engineering, and construction activities.
+Final design, engineering, and construction activities.—After completion ofpreconstruction planning activities for all projects assisted under paragraph (1), the Secretary shall select 1 of the projects to receive financial assistance for final design, engineering, and construction activities.
 
 (g)
 
@@ -138,7 +138,7 @@ Noncontract authority authorization of appropriations.—
 
 &emsp;&emsp;&emsp;(i)
 
-In general.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section (other than subsection (i)) $200,000,000 for each offiscal years 2000 and 2001, $250,000,000 for fiscal year 2002, and $300,000,000 for fiscal year 2003.
+In general.—There are authorized to be appropriated from the Highway Trust Fund (other than the Mass Transit Account) to carry out this section (other than subsection (i)) $200,000,000 for each of fiscal years 2000 and 2001, $250,000,000 for fiscal year 2002, and $300,000,000 for fiscal year 2003.
 
 &emsp;&emsp;&emsp;(ii)
 

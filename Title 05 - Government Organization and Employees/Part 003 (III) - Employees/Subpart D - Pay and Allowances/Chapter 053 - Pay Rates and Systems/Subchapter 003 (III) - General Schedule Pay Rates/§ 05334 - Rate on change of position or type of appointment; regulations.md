@@ -16,9 +16,9 @@
 
 &emsp;(7) his position is changed from one grade to another grade.
 
-> For the purpose of this subsection, an individual employed by the Appalachian Regional Commission under section 106(2) of the Appalachian Regional Development Act of 1965 (40 U.S.C. App.), who was a Federal employee immediately prior to such employment by a commission and within 6 months after separation from such employment is employed in a position to which this subchapter applies, shall be treated as if transferred from a position in the executive branch to which this subchapter does not apply.
+> For the purpose of this subsection, an individual employed by the Appalachian Regional Commission under section 106(2) of the Appalachian Regional Development Act of 1965 <sup>1</sup> (40 U.S.C. App.), who was a Federal employee immediately prior to such employment by a commission and within 6 months after separation from such employment is employed in a position to which this subchapter applies, shall be treated as if transferred from a position in the executive branch to which this subchapter does not apply.
 
-(b) An employee who is promoted or transferred to a position in a higher grade is entitled to basic pay at the lowest rate of the higher grade which exceeds his existing rate of basic pay by not less than two step-increases of the grade from which he is promoted or transferred. If, in the case of an employee so promoted or transferred who is receiving basic pay at a rate in excess of the maximum rate of his grade, there is no rate in the higher grade which is at least two step-increases above his existing rate of basic pay, he is entitled to—
+(b) An employee who is promoted or transferred to a position in a higher grade is entitled to basic pay at the lowest rate of the higher grade which exceeds his existing rate of basicpay by not less than two step-increases of the grade from which he is promoted or transferred. If, in the case of an employee so promoted or transferred who is receiving basic pay at a rate in excess of the maximum rate of his grade, there is no rate in the higher grade which is at least two step-increases above his existing rate of basic pay, he is entitled to—
 
 &emsp;(1) the maximum rate of the higher grade; or
 
@@ -38,11 +38,17 @@
 
 (d) The rate of pay established for a teaching position as defined by section 901 of title 20 held by an individual who becomes subject to subsection (a) of this section is deemed increased by an amount determined under regulations which the Secretary of Defense shall prescribe for the determination of the yearly rate of pay of the position. The amount by which a rate of pay is increased under the regulations may not exceed the amount equal to 20 percent of that rate of pay.
 
-(e) An employee of a county committee established pursuant to section 590h(b) of title 16 may, upon appointment to a position subject to this subchapter, have his initial rate of basic pay fixed at the minimum rate of the appropriate grade, or at any step of such grade that does not exceed the highest previous rate of basic pay received by him during service with such county committee.
+(e) An employee of a county committee established pursuant to section 8(b) of the Soil Conservation and Domestic Allotment Act (16 U.S.C. 590h(b)) may, on appointment to a position subject to this subchapter, have the initial rate of basic pay of the employee fixed at—
+
+&emsp;(1) the lowest rate of the higher grade that exceeds the rate of basic pay of the employee with the county committee by not less than 2 step-increases of the grade from which the employee was promoted, if the Federal Civil Service position under this subchapter is at a higher grade than the last grade the employee had while an employee of the county committee;
+
+&emsp;(2) the same step of the grade as the employee last held during service with the county committee, if the Federal Civil Service position under this subchapter is at the same grade as the last grade the employee had while an employee of the county committee; or
+
+&emsp;(3) the lowest step of the Federal grade for which the rate of basic pay is equal to or greater than the highest previous rate of pay of the employee, if the Federal Civil Service position under this subchapter is at a lower grade than the last grade the employee had while an employee of the county committee.
 
 (f) An employee of a nonappropriated fund instrumentality of the Department of Defense or the Coast Guard described in section 2105(c) who moves, without a break in service of more than 3 days, to a position in the Department of Defense or the Coast Guard, respectively, that is subject to this subchapter, may have such employee's initial rate of basic pay fixed at the minimum rate of the appropriate grade or at any step of such grade that does not exceed the highest previous rate of basic pay received by that employee during the employee's service described in section 2105(c). In the case of a nonappropriated fund employee who is moved involuntarily from such nonappropriated fund instrumentality without a break in service of more than 3 days and without substantial change in duties to a position that is subject to this subchapter, the employee's pay shall be set at a rate (not above the maximum for the grade, except as may be provided for under section 5365) that is not less than the employee's rate of basic pay under the nonappropriated fund instrumentality immediately prior to so moving.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, §223, Nov. 13, 1998, 112 Stat. 3626.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 468; Pub. L. 90–103, title I, §105, Oct. 11, 1967, 81 Stat. 257; Pub. L. 90–367, §1, June 29, 1968, 82 Stat. 277; Pub L. 90–623, §1(6), (24), Oct. 22, 1968, 82 Stat. 1312, 1314; Pub. L. 95–454, title V, §503(f), title VIII, §801(a)(2), (3)(F), (G), title IX, §906(a)(2), Oct. 13, 1978, 92 Stat. 1184, 1221, 1222, 1224; Pub. L. 96–54, §2(a)(27), Aug. 14, 1979, 93 Stat. 383; Pub. L. 98–615, title II, §204(a)(1), Nov. 8, 1984, 98 Stat. 3216; Pub. L. 99–251, title III, §306(b), Feb. 27, 1986, 100 Stat. 27; Pub. L. 101–508, title VII, §7202(d), Nov. 5, 1990, 104 Stat. 1388–335; Pub. L. 103–89, §3(b)(1)(G), Sept. 30, 1993, 107 Stat. 982; Pub. L. 104–186, title II, §215(4), Aug. 20, 1996, 110 Stat. 1745; Pub. L. 105–85, div. A, title XI, §1104(a), Nov. 18, 1997, 111 Stat. 1923; Pub. L. 105–393, title II, §223, Nov. 13, 1998, 112 Stat. 3626; Pub. L. 107–171, title X, §10701, May 13, 2002, 116 Stat. 515.)
 
 Historical and Revision Notes
 
@@ -88,7 +94,13 @@ In subsection (e), the words “as defined by section 901 of title 20” are add
 
 Standard changes are made to conform with the definitions applicable and the style of this title as outlined in the preface to the report.
 
+#### References in Text
+
+Section 106(2) of the Appalachian Regional Development Act of 1965, referred to in subsec. (a), is section 106(2) of Pub. L. 89–4, title I, Mar. 9, 1965, 79 Stat. 8, as amended, which was classified to the Appendix to former Title 40, Public Buildings, Property, and Works, and was repealed and reenacted as sections 14301(e), (f) and 14306(a)(2) of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304.
+
 #### Amendments
+
+2002—Subsec. (e). Pub. L. 107–171 added subsec. (e) and struck out former subsec. (e) which read as follows: “An employee of a county committee established pursuant to section 590h(b) of title 16 may, upon appointment to a position subject to this subchapter, have his initial rate of basic pay fixed at the minimum rate of the appropriate grade, or at any step of such grade that does not exceed the highest previous rate of basic pay received by him during service with such county committee.”
 
 1998—Subsec. (a). Pub. L. 105–393 substituted “the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)” for “title 40, appendix, or by a regional commission established pursuant to section 3182 of title 42, under section 3186(a)(2) of that title”.
 
@@ -172,7 +184,9 @@ Section 6 of Pub. L. 90–623 provided that:
 
 “(e) Sections 1(13)(B) and 1(17) of this Act \[amending sections 5546 and 6323 of this title\] are effective as of September 6, 1966, for all purposes.”
 
-#### Section Referred to in Other Sections
+#### Transfer of Functions
 
-This section is referred to in title 40 App. section 109.
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+<i><sup>1</sup></i><i> See References in Text note below.</i>
 

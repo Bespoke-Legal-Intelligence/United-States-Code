@@ -18,7 +18,7 @@ Except as exempted pursuant to subsection (c) of this section, no person shall a
 
 &emsp;&emsp;(III) any voting securities or assets of a person with annual net sales or total assets of $100,000,000 (as so adjusted and published) or more are being acquired by any person with total assets or annual net sales of $10,000,000 (as so adjusted and published) or more.
 
-> In the case of a tender offer, the person whose voting securities are sought to be acquired by aperson required to file notification under this subsection shall file notification pursuant to rules under subsection (d) of this section.
+> In the case of a tender offer, the person whose voting securities are sought to be acquired by a person required to file notification under this subsection shall file notification pursuant to rules under subsection (d) of this section.
 
 #### (b) Waiting period; publication; voting securities
 
@@ -28,7 +28,7 @@ Except as exempted pursuant to subsection (c) of this section, no person shall a
 
 &emsp;&emsp;(i) the completed notification required under subsection (a) of this section, or
 
-&emsp;&emsp;(ii) if such notification is not completed, the notification to the extent completed and a statement of the reasons for such noncompliance,
+&emsp;&emsp;(ii) if such notification is not completed, the notification to the extent completed anda statement of the reasons for such noncompliance,
 
 > &emsp;from both persons, or, in the case of a tender offer, the acquiring person; and
 
@@ -86,7 +86,7 @@ The Federal Trade Commission, with the concurrence of the Assistant Attorney Gen
 
 #### (e) Additional information; waiting period extensions
 
-(1)(A) The Federal Trade Commission or the Assistant Attorney General may, prior to theexpiration of the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section, require the submission of additional information or documentary material relevant to the proposed acquisition, from a person required to file notification with respect to such acquisition under subsection (a) of this section prior to the expiration of the waiting period specified in subsection (b)(1) of this section, or from any officer, director, partner, agent, or employee of such person.
+(1)(A) The Federal Trade Commission or the Assistant Attorney General may, prior to the expiration of the 30-day waiting period (or in the case of a cash tender offer, the 15-day waiting period) specified in subsection (b)(1) of this section, require the submission of additional information or documentary material relevant to the proposed acquisition, from a person required to file notification with respect to such acquisition under subsection (a) of this section prior to the expiration of the waiting period specified in subsection (b)(1) of this section, or from any officer, director, partner, agent, or employee of such person.
 
 (B)(i) The Assistant Attorney General and the Federal Trade Commission shall each designate a senior official who does not have direct responsibility for the review of any enforcement recommendation under this section concerning the transaction at issue, to hear any petition filed by such person to determine—
 

@@ -86,7 +86,7 @@
 
 &emsp;&emsp;(iv) minimize the burden of the collection of information on those who are to respond, including through the use of automated collection techniques or other forms of information technology; and
 
-&emsp;(B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposed rule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv); and
+&emsp;(B) for any proposed collection of information contained in a proposed rule (to be reviewed by the Director under section 3507(d)), provide notice and comment through the notice of proposed rulemaking for the proposed rule and such notice shall have the same purposes specified under subparagraph (A)(i) through (iv);
 
 &emsp;(3) certify (and provide a record supporting such certification, including public comments received by the agency) that each collection of information submitted to the Director for review under section 3507—
 
@@ -114,7 +114,9 @@
 
 &emsp;&emsp;(I) uses effective and efficient statistical survey methodology appropriate to the purpose for which the information is to be collected; and
 
-&emsp;&emsp;(J) to the maximum extent practicable, uses information technology to reduce burden and improve data quality, agency efficiency and responsiveness to the public.
+&emsp;&emsp;(J) to the maximum extent practicable, uses information technology to reduce burden and improve data quality, agency efficiency and responsiveness to the public; and
+
+&emsp;(4) in addition to the requirements of this chapter regarding the reduction of information collection burdens for small business concerns (as defined in section 3 of the Small Business Act (15 U.S.C. 632)), make efforts to further reduce the information collection burden for small business concerns with fewer than 25 employees.
 
 (d) With respect to information dissemination, each agency shall—
 
@@ -158,11 +160,9 @@
 
 (g) With respect to privacy and security, each agency shall—
 
-&emsp;(1) implement and enforce applicable policies, procedures, standards, and guidelines on privacy, confidentiality, security, disclosure and sharing of information collected or maintained by or for the agency;
+&emsp;(1) implement and enforce applicable policies, procedures, standards, and guidelines on privacy, confidentiality, security, disclosure and sharing of information collected or maintained by or for the agency; and
 
-&emsp;(2) assume responsibility and accountability for compliance with and coordinated management of sections 552 and 552a of title 5, the Computer Security Act of 1987 (40 U.S.C. 759 note),<sup>1</sup> and related information management laws; and
-
-&emsp;(3) consistent with the Computer Security Act of 1987 (40 U.S.C. 759 note),<sup>1</sup> identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.
+&emsp;(2) assume responsibility and accountability for compliance with and coordinated management of sections 552 and 552a of title 5, subchapter II of this chapter, and related information management laws.
 
 (h) With respect to Federal information technology, each agency shall—
 
@@ -180,11 +180,15 @@
 
 &emsp;&emsp;(B) used to select, control, and evaluate the results of major information systems initiatives.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 171; amended Pub. L. 104–106, div. E, title LI, §5125(a), Feb. 10, 1996, 110 Stat. 684; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275.)
+(i)(1) In addition to the requirements described in subsection (c), each agency shall, with respect to the collection of information and the control of paperwork, establish 1 point of contact in the agency to act as a liaison between the agency and small business concerns (as defined in section 3 of the Small Business Act (15 U.S.C. 632)).
+
+(2) Each point of contact described under paragraph (1) shall be established not later than 1 year after the date of enactment of the Small Business Paperwork Relief Act of 2002.
+
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 171; amended Pub. L. 104–106, div. E, title LI, §5125(a), Feb. 10, 1996, 110 Stat. 684; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–198, §2(b), (c), June 28, 2002, 116 Stat. 729; Pub. L. 107–217, §3(<i>l</i>)(6), Aug. 21, 2002, 116 Stat. 1302; Pub. L. 107–296, title X, §1005(c)(3), Nov. 25, 2002, 116 Stat. 2273; Pub. L. 107–347, title III, §305(c)(3), Dec. 17, 2002, 116 Stat. 2961.)
 
 #### References in Text
 
-The Computer Security Act of 1987, referred to in subsec. (g)(2), (3), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, amended section 272 of Title 15 and former section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of Title 15 and section 1441 of Title 40. For complete classification of this Act to the Code, see Tables.
+The date of enactment of the Small Business Paperwork Relief Act of 2002, referred to in subsec. (i)(2), is the date of enactment of Pub. L. 107–198, which was approved June 28, 2002.
 
 #### Prior Provisions
 
@@ -193,6 +197,20 @@ A prior section 3506, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 28
 Another prior section 3506, Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1303, provided for determination of necessity for information and hearing thereon, prior to the general amendment of this chapter by Pub. L. 96–511. See section 3508 of this title.
 
 #### Amendments
+
+2002—Subsec. (c)(4). Pub. L. 107–198, §2(c), added par. (4).
+
+Subsec. (g)(1). Pub. L. 107–296, §1005(c)(3)(A), and Pub. L. 107–347, §305(c)(3)(A), amended par. (1) identically, inserting “and” at end.
+
+Subsec. (g)(2). Pub. L. 107–296, §1005(c)(3)(B), and Pub. L. 107–347, §305(c)(3)(B), amended par. (2) identically, substituting “subchapter II of this chapter” for “section 11332 of title 40” and a period for “; and” at end.
+
+Pub. L. 107–217, §3(<i>l</i>)(6)(A), substituted “section 11332 of title 40” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+
+Subsec. (g)(3). Pub. L. 107–296, §1005(c)(3)(C), and Pub. L. 107–347, §305(c)(3)(C), amended subsec. (g) identically, striking out par. (3) which read as follows: “consistent with section 11332 of title 40, identify and afford security protections commensurate with the risk and magnitude of the harm resulting from the loss, misuse, or unauthorized access to or modification of information collected or maintained by or on behalf of an agency.”
+
+Pub. L. 107–217, §3(<i>l</i>)(6)(B), substituted “section 11332 of title 40” for “the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
+
+Subsec. (i). Pub. L. 107–198, §2(b), added subsec. (i).
 
 2000—Subsecs. (a)(1) to (3), (b)(4), (c)(1). Pub. L. 106–398 substituted “subchapter” for “chapter” wherever appearing.
 
@@ -204,13 +222,17 @@ Subsec. (a)(3), (4). Pub. L. 104–106, §5125(a)(1)(C), substituted “Chief In
 
 Subsec. (c)(1). Pub. L. 104–106, §5125(a)(2), substituted “Chief Information Officer” for “official” in introductory provisions.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see section 1 \[\[div. A\], title X, §1065\] of Pub. L. 106–398, set out as an Effective Date note under section 3531 of this title.
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
 #### Ex. Ord. No. 13073. Year 2000 Conversion
 
@@ -272,7 +294,5 @@ William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3505, 3507, 3534 of this title; title 10 section 2223; title 38 sections 308, 310; title 40 sections 1422, 1423, 1427, 1441; title 42 section 14953 of this title.
-
-<i><sup>1</sup></i><i> See References in Text note below.</i>
+This section is referred to in sections 3505, 3507, 3520, 3534, 3544, 3603 of this title; title 10 section 2223; title 38 sections 308, 310; title 40 sections 11312, 11313, 11317; title 42 section 14953 of this title.
 

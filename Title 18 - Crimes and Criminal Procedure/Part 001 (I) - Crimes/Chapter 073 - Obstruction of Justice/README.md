@@ -16,14 +16,19 @@
 | [1512\.](%C2%A7%2001512%20-%20Tampering%20with%20a%20witness%2C%20victim%2C%20or%20an%20informant.md) | Tampering with a witness, victim, or an informant. |
 | [1513\.](%C2%A7%2001513%20-%20Retaliating%20against%20a%20witness%2C%20victim%2C%20or%20an%20informant.md) | Retaliating against a witness, victim, or an informant. |
 | [1514\.](%C2%A7%2001514%20-%20Civil%20action%20to%20restrain%20harassment%20of%20a%20victim%20or%20witness.md) | Civil action to restrain harassment of a victim or witness. |
+| [1514A.](%C2%A7%2001514A%20-%20Civil%20action%20to%20protect%20against%20retaliation%20in%20fraud%20cases.md) | Civil action to protect against retaliation in fraud cases. |
 | [1515\.](%C2%A7%2001515%20-%20Definitions%20for%20certain%20provisions%3B%20general%20provision.md) | Definitions for certain provisions; general provision. |
 | [1516\.](%C2%A7%2001516%20-%20Obstruction%20of%20Federal%20audit.md) | Obstruction of Federal audit. |
 | [1517\.](%C2%A7%2001517%20-%20Obstructing%20examination%20of%20financial%20institution.md) | Obstructing examination of financial institution. |
 | [1518\.](%C2%A7%2001518%20-%20Obstruction%20of%20criminal%20investigations%20of%20health%20care%20offenses.md) | Obstruction of criminal investigations of health care offenses. |
+| [1519\.](%C2%A7%2001519%20-%20Destruction%2C%20alteration%2C%20or%20falsification%20of%20records%20in%20Federal%20investigations%20and%20bankruptcy.md) | Destruction, alteration, or falsification of records in Federal investigations and bankruptcy. |
+| [1520\.](%C2%A7%2001520%20-%20Destruction%20of%20corporate%20audit%20records.md) | Destruction of corporate audit records. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–204, title VIII, §§802(b), 806(b), July 30, 2002, 116 Stat. 801, 804, added items 1514A, 1519, and 1520.
 
 1996—Pub. L. 104–191, title II, §245(b), Aug. 21, 1996, 110 Stat. 2018, added item 1518.
 
@@ -68,7 +73,10 @@ This chapter is referred to in section 3521 of this title.
 - [&sect; 01512 - Tampering with a witness, victim, or an informant](%C2%A7%2001512%20-%20Tampering%20with%20a%20witness%2C%20victim%2C%20or%20an%20informant.md)
 - [&sect; 01513 - Retaliating against a witness, victim, or an informant](%C2%A7%2001513%20-%20Retaliating%20against%20a%20witness%2C%20victim%2C%20or%20an%20informant.md)
 - [&sect; 01514 - Civil action to restrain harassment of a victim or witness](%C2%A7%2001514%20-%20Civil%20action%20to%20restrain%20harassment%20of%20a%20victim%20or%20witness.md)
+- [&sect; 01514A - Civil action to protect against retaliation in fraud cases](%C2%A7%2001514A%20-%20Civil%20action%20to%20protect%20against%20retaliation%20in%20fraud%20cases.md)
 - [&sect; 01515 - Definitions for certain provisions; general provision](%C2%A7%2001515%20-%20Definitions%20for%20certain%20provisions%3B%20general%20provision.md)
 - [&sect; 01516 - Obstruction of Federal audit](%C2%A7%2001516%20-%20Obstruction%20of%20Federal%20audit.md)
 - [&sect; 01517 - Obstructing examination of financial institution](%C2%A7%2001517%20-%20Obstructing%20examination%20of%20financial%20institution.md)
 - [&sect; 01518 - Obstruction of criminal investigations of health care offenses](%C2%A7%2001518%20-%20Obstruction%20of%20criminal%20investigations%20of%20health%20care%20offenses.md)
+- [&sect; 01519 - Destruction, alteration, or falsification of records in Federal investigations and bankruptcy](%C2%A7%2001519%20-%20Destruction%2C%20alteration%2C%20or%20falsification%20of%20records%20in%20Federal%20investigations%20and%20bankruptcy.md)
+- [&sect; 01520 - Destruction of corporate audit records](%C2%A7%2001520%20-%20Destruction%20of%20corporate%20audit%20records.md)

@@ -6,7 +6,7 @@
 
 #### Subchapter Referred to in Other Sections
 
-This subchapter is referred to in section 3534 of this title; title 10 section 503.
+This subchapter is referred to in sections 3534, 3538, 3544, 3549 of this title; title 10 section 503.
 
 
 ---
@@ -32,4 +32,5 @@ This subchapter is referred to in section 3534 of this title; title 10 section 5
 - [&sect; 03517 - Consultation with other agencies and the public](%C2%A7%2003517%20-%20Consultation%20with%20other%20agencies%20and%20the%20public.md)
 - [&sect; 03518 - Effect on existing laws and regulations](%C2%A7%2003518%20-%20Effect%20on%20existing%20laws%20and%20regulations.md)
 - [&sect; 03519 - Access to information](%C2%A7%2003519%20-%20Access%20to%20information.md)
-- [&sect; 03520 - Authorization of appropriations](%C2%A7%2003520%20-%20Authorization%20of%20appropriations.md)
+- [&sect; 03520 - Establishment of task force on information collection and dissemination](%C2%A7%2003520%20-%20Establishment%20of%20task%20force%20on%20information%20collection%20and%20dissemination.md)
+- [&sect; 03521 - Authorization of appropriations](%C2%A7%2003521%20-%20Authorization%20of%20appropriations.md)

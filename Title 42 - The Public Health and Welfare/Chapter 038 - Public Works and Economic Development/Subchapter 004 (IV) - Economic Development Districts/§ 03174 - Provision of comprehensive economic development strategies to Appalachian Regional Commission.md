@@ -1,12 +1,12 @@
 ### §3174. Provision of comprehensive economic development strategies to Appalachian Regional Commission
 
-If any part of an economic development district is in the Appalachian region (as defined in section 403 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)), the economic development district shall ensure that a copy of the comprehensive economic development strategy of the district is provided to the Appalachian Regional Commission established under that Act.
+If any part of an economic development district is in the Appalachian region (as defined in section 14102(a)(1) and (b) of title 40), the economic development district shall ensure that a copy of the comprehensive economic development strategy of the district is provided to the Appalachian Regional Commission established under subtitle IV of title 40.
 
 (Pub. L. 89–136, title IV, §404, as added Pub. L. 105–393, title I, §102(a), Nov. 13, 1998, 112 Stat. 3609.)
 
-#### References in Text
+#### Codification
 
-The Appalachian Regional Development Act of 1965, referred to in text, is Pub. L. 89–4, Mar. 9, 1965, 79 Stat. 5, as amended, which is set out in the Appendix to Title 40, Public Buildings, Property, and Works. Section 403 of that Act is set out in section 403 of the Appendix to Title 40. For complete classification of this Act to the Code, see Tables.
+In text, “section 14102(a)(1) and (b) of title 40” substituted for “section 403 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App.)” and “subtitle IV of title 40” substituted for “that Act”, meaning the Appalachian Regional Development Act of 1965, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Prior Provisions
 

@@ -182,7 +182,7 @@ In this chapter:
 
 #### (28) Tribally controlled postsecondary vocational and technical institution
 
-&emsp;The term “tribally controlled postsecondary vocational and technical institution” means an institution of higher education (as defined in section 1001 of this title, except that paragraph (2) <sup>2</sup> of such section shall not be applicable and the reference to Secretary in paragraph (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior) that—
+&emsp;The term “tribally controlled postsecondary vocational and technical institution” meansan institution of higher education (as defined in section 1001 of this title, except that paragraph (2) <sup>2</sup> of such section shall not be applicable and the reference to Secretary in paragraph (5)(A) <sup>2</sup> of such section shall be deemed to refer to the Secretary of the Interior) that—
 
 &emsp;&emsp;(A) is formally controlled, or has been formally sanctioned or chartered, by the governing body of an Indian tribe or Indian tribes;
 
@@ -236,7 +236,7 @@ Section 1001 of this title, referred to in par. (28), contains a paragraph (2) i
 
 Provisions similar to this section were contained in section 2471 of this title, prior to the general amendment of this chapter by Pub. L. 105–332.
 
-A prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100–418, title VI, §§6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101–392, §3, Sept. 25, 1990, 104Stat. 756, authorized appropriations for fiscal years 1991 to 1995 to carry out former subchapters I to IV of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
+A prior section 2302, Pub. L. 88–210, §3, as added Pub. L. 98–524, §1, Oct. 19, 1984, 98 Stat. 2437; amended Pub. L. 100–418, title VI, §§6131(b), 6134(b), Aug. 23, 1988, 102 Stat. 1511, 1512; Pub. L. 101–392, §3, Sept. 25, 1990, 104 Stat. 756, authorized appropriations for fiscal years 1991 to 1995 to carry out former subchapters I to IV of this chapter, prior to the general amendment of this chapter by Pub. L. 105–332.
 
 #### Amendments
 
@@ -250,7 +250,7 @@ Amendment by Pub. L. 107–110 effective Jan. 8, 2002, except with respect to ce
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 29 section 2801.
+This section is referred to in title 19 section 2291; title 29 section 2801.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

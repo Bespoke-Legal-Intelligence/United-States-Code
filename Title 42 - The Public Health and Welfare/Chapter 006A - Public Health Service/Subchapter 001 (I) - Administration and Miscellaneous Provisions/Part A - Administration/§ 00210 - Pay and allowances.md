@@ -12,11 +12,11 @@ Commissioned officers on active duty and retired officers entitled to retired pa
 
 #### (c) Members of national advisory or review councils or committees
 
-Members of the National Advisory Health Council and members of other national advisoryor review councils or committees established under this chapter, including members of the Technical Electronic Product Radiation Safety Standards Committee and the Board of Regents of the National Library of Medicine, but excluding ex officio members, while attending conferences or meetings of their respective councils or committees or while otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, but at rates not exceeding the daily equivalent of the rate specified at the time of such service for grade GS–18 of the General Schedule, including traveltime; and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
+Members of the National Advisory Health Council and members of other national advisory or review councils or committees established under this chapter, including members of the Technical Electronic Product Radiation Safety Standards Committee and the Board of Regents of the National Library of Medicine, but excluding ex officio members, while attending conferences or meetings of their respective councils or committees or while otherwise serving at the request of the Secretary, shall be entitled to receive compensation at rates to be fixed by the Secretary, but at rates not exceeding the daily equivalent of the rate specified at the time of such service for grade GS–18 of the General Schedule, including traveltime; and while away from their homes or regular places of business they may be allowed travel expenses, including per diem in lieu of subsistence, as authorized by section 5703 of title 5 for persons in the Government service employed intermittently.
 
 #### (d) Field employees
 
-Field employees of the Service, except those employed on a per diem or fee basis, who render part-time duty and are also subject to call at any time for services not contemplated in their regular part-time employment, may be paid annual compensation for such part-time duty and, in addition, such fees for such other services as the Surgeon General may determine; but in no case shall the total paid to any such employee for any fiscal year exceed the amount of the minimum annual salary rate of the classification grade of the employee.
+Field employees of the Service, except those employed on a per diem or fee basis, who renderpart-time duty and are also subject to call at any time for services not contemplated in their regular part-time employment, may be paid annual compensation for such part-time duty and, in addition, such fees for such other services as the Surgeon General may determine; but in no case shall the total paid to any such employee for any fiscal year exceed the amount of the minimum annual salary rate of the classification grade of the employee.
 
 #### (e) Additional pay for service at Gillis W. Long Hansen's Disease Center
 
@@ -116,6 +116,10 @@ Subsec. (h). Act Feb. 28, 1948, substituted “section 209(f) of this title” f
 
 1946—Subsec. (e). Act July 3, 1946, inserted “members of the National Advisory Mental Health Council”.
 
+#### Change of Name
+
+Reference to the Gillis W. Long Hansen's Disease Center deemed to refer to the National Hansen's Disease Programs Center, pursuant to section 2 of Pub. L. 107–220, set out as a note under section 247e of this title.
+
 #### Effective Date of 1986 Amendment
 
 Section 17002(a)(2) of Pub. L. 99–272 provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as of October 7, 1985.”
@@ -150,7 +154,7 @@ Section 3(a) of act Aug. 9, 1950, provided that: “Sections 1 and 2 of this Act
 
 #### Effective Date of 1949 Amendment
 
-Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949.
+Amendment by act Oct. 12, 1949, effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as a note under section 854a of Title 33, Navigation and Navigable Waters.
 
 #### Repeals
 

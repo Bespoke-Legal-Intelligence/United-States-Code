@@ -2,15 +2,15 @@
 
 #### (a) Authorization of appropriations
 
-There are authorized to be appropriated to the President to carry out this part $129,000,000 for fiscal year 2001 and $142,000,000 for fiscal year 2002.
+There are authorized to be appropriated to the President to carry out this part $162,000,000 for fiscal year 2003.
 
 #### (b) Availability of funds
 
 Funds made available under subsection (a) of this section may be used notwithstanding any other provision of law (other than section 2304 or 2371 of this title) and shall remain available until expended.
 
-#### (c) Treatment of fiscal year 2001 appropriations
+#### (c) Treatment of appropriations
 
-Amounts made available by the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001, under “Nonproliferation, Antiterrorism, Demining, and Related Programs” and “Assistance for the Independent States of the Former Soviet Union” accounts for the activities described in subsection (d) of this section shall be considered to be made available pursuant to this part.
+Amounts made available by the Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002, under “Nonproliferation, Antiterrorism, Demining, and Related Programs” and “Assistance for the Independent States of the Former Soviet Union” accounts for the activities described in subsection (d) of this section shall be considered to be made available pursuant to this part.
 
 #### (d) Covered activities
 
@@ -24,13 +24,19 @@ The activities referred to in subsection (c) of this section are—
 
 &emsp;(4) export control and border assistance under part XI of subchapter I of this chapter or the FREEDOM Support Act (22 U.S.C. 5801 et seq.).
 
-(Pub. L. 87–195, pt. II, §585, as added Pub. L. 106–280, title III, §301, Oct. 6, 2000, 114 Stat. 852.)
+(Pub. L. 87–195, pt. II, §586, formerly §585, as added Pub. L. 106–280, title III, §301, Oct. 6, 2000, 114 Stat. 852; renumbered §586 and amended Pub. L. 107–228, div. B, title XIII, §§1301(a), 1303(1), Sept. 30, 2002, 116 Stat. 1435, 1436.)
 
 #### References in Text
 
-The Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2001, referred to in subsec. (c), is H.R. 5526, as enacted by Pub. L. 106–429, §101(a), Nov. 6, 2000, 114 Stat. 1900, 1900A–3. For complete classification of this Act to the Code, see Tables.
+The Foreign Operations, Export Financing, and Related Programs Appropriations Act, 2002, referred to in subsec. (c), is Pub. L. 107–115, Jan. 10, 2002, 115 Stat. 2118, also known as the Kenneth M. Ludden Foreign Operations, Export Financing, and Related Programs Appropriations Act, Fiscal Year 2002. For complete classification of this Act to the Code, see Tables.
 
 The FREEDOM Support Act, referred to in subsec. (d)(4), is Pub. L. 102–511, Oct. 24, 1992, 106 Stat. 3320, as amended, also known as the Freedom for Russia and Emerging Eurasian Democracies and Open Markets Support Act of 1992. For complete classification of this Act to the Code, see Short Title note set out under section 5801 of this title and Tables.
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–228, §1301(a)(1), substituted “$162,000,000 for fiscal year 2003” for “$129,000,000 for fiscal year 2001 and $142,000,000 for fiscal year 2002”.
+
+Subsec. (c). Pub. L. 107–228, §1301(a)(2), struck out “fiscal year 2001” before “appropriations” in heading and substituted “2002” for “2001” in text.
 
 #### Delegation of Functions
 

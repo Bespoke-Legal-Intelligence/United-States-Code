@@ -1,6 +1,6 @@
 ### §47525. Decision about airport noise and access restrictions on certain stage 2 aircraft
 
-The Secretary of Transportation shall conduct a study and decide on the application of section 47524(a)–(d) of this title to airport noise and access restrictions on the operation of stage 2 aircraft with a maximum weight of not more than 75,000 pounds. In making the decision, the Secretary shall consider—
+The Secretary of Transportation shall conduct a study and decide on the application of section 47524(a)–(d) of this title to airport noise and access restrictions on the operation of stage 2 aircraft with a maximum weight of not more than75,000 pounds. In making the decision, the Secretary shall consider—
 
 &emsp;(1) noise levels produced by those aircraft relative to other aircraft;
 

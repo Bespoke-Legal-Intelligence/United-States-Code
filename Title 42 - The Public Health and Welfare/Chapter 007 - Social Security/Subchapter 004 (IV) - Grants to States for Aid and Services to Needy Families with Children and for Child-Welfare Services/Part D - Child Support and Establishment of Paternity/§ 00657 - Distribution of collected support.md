@@ -30,7 +30,7 @@ Subject to subsections (d) and (e) of this section, an amount collected on behal
 
 #### (I) Pre-October 1997
 
-&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the provisions of this section as in effect and applied on the day before August 22, 1996 (other than subsection (b)(1) (as so in effect)), shall apply with respect to the distribution of support arrearages that—
+&emsp;&emsp;&emsp;&emsp;Except as provided in subclause (II), the provisions of this section as in effectand applied on the day before August 22, 1996 (other than subsection (b)(1) (as so in effect)), shall apply with respect to the distribution of support arrearages that—
 
 &emsp;&emsp;&emsp;&emsp;&emsp;(aa) accrued after the family ceased to receive assistance, and
 
@@ -68,7 +68,7 @@ Subject to subsections (d) and (e) of this section, an amount collected on behal
 
 #### (aa) In general
 
-&emsp;&emsp;&emsp;&emsp;&emsp;The State shall first distribute the amount so collected (other than anyamount described in clause (iv)) to the family to the extent necessary to satisfy any support arrearages with respect to the family that accrued before the family received assistance from the State.
+&emsp;&emsp;&emsp;&emsp;&emsp;The State shall first distribute the amount so collected (other than any amount described in clause (iv)) to the family to the extent necessary to satisfy any support arrearages with respect to the family that accrued before the family received assistance from the State.
 
 #### (bb) Reimbursement of governments for assistance provided to the family
 
@@ -138,7 +138,7 @@ As used in subsection (a) of this section:
 
 #### (2) Federal share
 
-&emsp;The term “Federal share” means that portion of the amount collected resulting fromthe application of the Federal medical assistance percentage in effect for the fiscal year in which the amount is distributed.
+&emsp;The term “Federal share” means that portion of the amount collected resulting from the application of the Federal medical assistance percentage in effect for the fiscal year in which the amount is distributed.
 
 #### (3) Federal medical assistance percentage
 
@@ -164,7 +164,7 @@ Notwithstanding the preceding provisions of this section, amounts collected by a
 
 &emsp;(2) shall be paid to the public agency responsible for supervising the placement of the child to the extent that the amounts collected exceed the foster care maintenance payments made with respect to the child during such period but not the amounts required by a court or administrative order to be paid as support on behalf of the child during such period; and the responsible agency may use the payments in the manner it determines will serve the best interests of the child, including setting such payments aside for the child's future needs or making all or a part thereof available to the person responsible for meeting the child's day-to-day needs; and
 
-&emsp;(3) shall be retained by the State, if any portion of the amounts collected remains after making the payments required under paragraphs (1) and (2), to the extent that such portion is necessary to reimburse the State (with appropriate reimbursement to the Federal Government to the extent of its participation in the financing) for any past foster care maintenance payments (or payments of assistance under the State program funded under part A of this subchapter) which were made with respect to the child (and with respect to which past collections have not previously been retained);
+&emsp;(3) shall be retained by the State, if any portion of the amounts collected remains after making the payments required under paragraphs (1) and (2), to the extent that such portion is necessary to reimburse the State (with appropriate reimbursement to the Federal Government to the extent of its participation in the financing) for any past foster care maintenance payments (or payments of assistance under the State program funded underpart A of this subchapter) which were made with respect to the child (and with respect to which past collections have not previously been retained);
 
 > and any balance shall be paid to the State agency responsible for supervising the placement of the child, for use by such agency in accordance with paragraph (2).
 
@@ -268,7 +268,7 @@ Pub. L. 106–169, title III, §301(b), Dec. 14, 1999, 113 Stat. 1857, provided 
 
 Pub. L. 106–169, title III, §301(c), Dec. 14, 1999, 113 Stat. 1857, provided that the amendment made by section 301(c) is effective Oct. 1, 2001.
 
-Amendment by section 401(j), (k) of Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity ReconciliationAct of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
+Amendment by section 401(j), (k) of Pub. L. 106–169 effective as if included in the enactment of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 401(q) of Pub. L. 106–169, set out as a note under section 602 of this title.
 
 #### Effective Date of 1997 Amendment
 

@@ -28,7 +28,7 @@ No condition in any bond taken to assure compliance with any law, regulation, or
 
 The Secretary of the Treasury is authorized to permit the deposit of money or obligations of the United States, in such amount and upon such conditions as he may by regulation prescribe, in lieu of sureties on any bond required or authorized by a law, regulation, or instruction which the Secretary of the Treasury or the Customs Service is authorized to enforce.
 
-(June 17, 1930, ch. 497, title IV, §623, 46 Stat. 759; June 25, 1938, ch. 679, §30, 52 Stat. 1089; Pub. L. 91–271, title III, §301(ii), June 2, 1970, 84 Stat. 291; Pub. L. 100—418, title I, §1904, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 103–182, title VI, §647, Dec. 8, 1993, 107 Stat. 2207.)
+(June 17, 1930, ch. 497, title IV, §623, 46 Stat. 759; June 25, 1938, ch. 679, §30, 52 Stat. 1089; Pub. L.91–271, title III, §301(ii), June 2, 1970, 84 Stat. 291; Pub. L. 100—418, title I, §1904, Aug. 23, 1988, 102 Stat. 1313; Pub. L. 103–182, title VI, §647, Dec. 8, 1993, 107 Stat. 2207.)
 
 #### Amendments
 
@@ -52,5 +52,7 @@ Amendment by act June 25, 1938, effective on thirtieth day following June 25, 19
 
 #### Transfer of Functions
 
-Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of anyof his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs Service is under Department of the Treasury.
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+Functions of all other officers of Department of the Treasury and functions of all agencies and employees of such Department transferred, with certain exceptions, to Secretary of the Treasury, with power vested in him to authorize their performance or performance of any of his functions, by any of such officers, agencies, and employees, by Reorg. Plan No. 26 of 1950, §§1, 2, eff. July 31, 1950, 15 F.R. 4935, 64 Stat. 1280, 1281, set out in the Appendix to Title 5, Government Organization and Employees. Customs Service was under Department of the Treasury.
 

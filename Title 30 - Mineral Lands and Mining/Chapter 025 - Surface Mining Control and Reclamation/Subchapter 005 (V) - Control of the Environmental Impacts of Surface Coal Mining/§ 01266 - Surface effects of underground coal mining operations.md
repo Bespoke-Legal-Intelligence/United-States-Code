@@ -16,7 +16,7 @@ Each permit issued under any approved State or Federal program pursuant to this 
 
 &emsp;(4) with respect to surface disposal of mine wastes, tailings, coal processing wastes, and other wastes in areas other than the mine workings or excavations, stabilize all waste piles created by the permittee from current operations through construction in compacted layers including the use of incombustible and impervious materials if necessary and assure that the leachate will not degrade below water quality standards established pursuant to applicable Federal and State law surface or ground waters and that the final contour of the waste accumulation will be compatible with natural surroundings and that the site is stabilized and revegetated according to the provisions of this section;
 
-&emsp;(5) design, locate, construct, operate, maintain, enlarge, modify, and remove, or abandon,in accordance with the standards and criteria developed pursuant to section 1265(f) of this title, all existing and new coal mine waste piles consisting of mine wastes, tailings, coal processing wastes, or other liquid and solid wastes and used either temporarily or permanently as dams or embankments;
+&emsp;(5) design, locate, construct, operate, maintain, enlarge, modify, and remove, or abandon, in accordance with the standards and criteria developed pursuant to section 1265(f) of this title, all existing and new coal mine waste piles consisting of mine wastes, tailings, coal processing wastes, or other liquid and solid wastes and used either temporarily or permanently as dams or embankments;
 
 &emsp;(6) establish on regraded areas and all other lands affected, a diverse and permanent vegetative cover capable of self-regeneration and plant succession and at least equal in extent of cover to the natural vegetation of the area;
 
@@ -40,7 +40,7 @@ Each permit issued under any approved State or Federal program pursuant to this 
 
 &emsp;(11) to the extent possible using the best technology currently available, minimize disturbances and adverse impacts of the operation on fish, wildlife, and related environmental values, and achieve enhancement of such resources where practicable;
 
-&emsp;(12) locate openings for all new drift mines working acid-producing or iron-producing coal seams in such a manner as to prevent a gravity discharge of water from the mine.
+&emsp;(12) locate openings for all new drift mines working acid-producing or iron-producing coalseams in such a manner as to prevent a gravity discharge of water from the mine.
 
 #### (c) Suspension of underground coal mining operations in urbanized areas
 

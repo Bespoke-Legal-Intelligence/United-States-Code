@@ -38,7 +38,7 @@
 
 (2) A claim for an interest penalty not paid under this chapter may be filed in the same manner as claims are filed with respect to contracts to provide property or services for the District of Columbia Courts.
 
-(3)(A) Except as provided in subparagraph (B), an interest penalty under this chapter does not continue to accrue for more than one year or after a claim for an interest penalty is filed in the manner described in paragraph (2), whichever is earlier.
+(3)(A) Except as provided in subparagraph (B), an interest penalty under this chapter does not continue to accrue for more than one year orafter a claim for an interest penalty is filed in the manner described in paragraph (2), whichever is earlier.
 
 (B) If a claim for an interest penalty is filed in the manner described in paragraph (2) and interest is not available for such claims under the laws and regulations governing claims under contracts to provide property or services for the District of Columbia Courts, interest will accrue under this chapter as provided in paragraph (A) and from the date the claim is filed until the date the claim is paid.
 

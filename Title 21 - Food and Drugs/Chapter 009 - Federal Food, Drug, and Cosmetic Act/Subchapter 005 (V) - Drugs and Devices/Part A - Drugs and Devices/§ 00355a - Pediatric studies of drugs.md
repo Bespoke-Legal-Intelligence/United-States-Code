@@ -272,7 +272,7 @@ Subsec. (i). Pub. L. 107–109, §19(2), (3), redesignated subsec. (<i>l</i>) as
 
 Subsec. (j). Pub. L. 107–109, §19(2), (3), redesignated subsec. (m) as (j). Former subsec. (j) redesignated (n).
 
-Pub. L. 107–109, §8, added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “A drug may not receive any six-month period under subsection (a) or (c) of this section unless the application for the drug under section 355(b)(1) of this title is submitted on or before January 1, 2002. After January 1, 2002, a drug shall receive a six-month period under subsection (c) of this section if—
+Pub. L. 107–109, §8, added subsec. (j) and struck out heading and text of former subsec. (j). Text read as follows: “A drug may not receive any six-month period under subsection (a) or (c) of this section unless the application for the drug under section 355(b)(1) of this title is submitted on or before January 1, 2002. AfterJanuary 1, 2002, a drug shall receive a six-month period under subsection (c) of this section if—
 
 &emsp;“(1) the drug was in commercial distribution as of November 21, 1997;
 

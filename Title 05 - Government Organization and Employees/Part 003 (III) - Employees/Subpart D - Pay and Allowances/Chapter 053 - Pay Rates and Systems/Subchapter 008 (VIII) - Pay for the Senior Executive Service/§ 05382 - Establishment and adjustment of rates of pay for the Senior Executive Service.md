@@ -28,35 +28,39 @@ Amendment by Pub. L. 101–509 effective on such date as the President shall det
 
 #### Pay Increases
 
-2001—The President, under Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of this title, adjusted the rates of basic pay for the Senior Executive Service effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2001, as follows:
+2003—The President, under Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of this title, adjusted the rates of basic pay for the Senior Executive Service effective on the first day of the first applicable pay period beginning on or after Jan. 1, 2003, as follows:
 
 ES–1
 
-$109,100
+$116,500
 
 ES–2
 
-114,200
+122,000
 
 ES–3
 
-119,400
+127,500
 
 ES–4
 
-125,500
+133,800
 
 ES–5
 
-125,700
+134,000
 
 ES–6
 
-125,700
+134,000
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-2000—Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for adjustment of pay rates effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, set out as a note under section 5332 of this title.
+2002—Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639, which provided for adjustment of pay rates effective Jan. 1, 2002, was superseded by Ex. Ord. No. 13282, Dec. 31, 2002, 68 F.R. 1133, set out as a note under section 5332 of this title.
+
+2001—Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057, which provided for adjustment of pay rates effective Jan. 1, 2001, was superseded by Ex. Ord. No. 13249, Dec. 28, 2001, 67 F.R. 639.
+
+2000—Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237, which provided for adjustment of pay rates effective Jan. 1, 2000, was superseded by Ex. Ord. No. 13182, Dec. 23, 2000, 65 F.R. 82879, 66 F.R. 10057.
 
 1999—Ex. Ord. No. 13106, Dec. 7, 1998, 63 F.R. 68151, which provided for adjustment of pay rates effective Jan. 1, 1999, was substantially superseded by Ex. Ord. No. 13144, Dec. 21, 1999, 64 F.R. 72237.
 
@@ -80,13 +84,13 @@ ES–6
 
 1988—Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222, which provided for adjustment of pay rates effective Jan. 1, 1988, was superseded by Ex. Ord. No. 12663, Jan. 6, 1989, 54 F.R. 791.
 
-1987—Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for adjustment of pay rates effectiveJan. 1, 1987, was superseded by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
+1987—Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505, which provided for adjustment of pay rates effective Jan. 1, 1987, was superseded by Ex. Ord. No. 12622, Dec. 31, 1987, 53 F.R. 222.
 
 1985—Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577, which provided for adjustment of pay rates effective Jan. 1, 1985, was superseded by Ex. Ord. No. 12578, Dec. 31, 1986, 52 F.R. 505.
 
 1984—Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended by Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493, which provided for adjustment of pay rates effective Jan. 1, 1984, was superseded by Ex. Ord. No. 12496, Dec. 28, 1984, 50 F.R. 211, as amended by Ex. Ord. No. 12540, Dec. 30, 1985, 51 F.R. 577.
 
-1982—Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for adjustment of pay rates effective Oct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
+1982—Ex. Ord. No. 12387, Oct. 8, 1982, 47 F.R. 44981, which provided for adjustment of pay rates effectiveOct. 1, 1982, was superseded by Ex. Ord. No. 12456, Dec. 30, 1983, 49 F.R. 347, as amended Ex. Ord. No. 12477, May 23, 1984, 49 F.R. 22041; Ex. Ord. No. 12487, Sept. 14, 1984, 49 F.R. 36493.
 
 Maximum rate payable after Dec. 17, 1982, increased from $58,500 to $67,200, see Pub. L. 97–377, title I, §129(b)–(d), set out as a note under section 5318 of this title.
 
@@ -110,5 +114,5 @@ Ex. Ord. No. 12592, Apr. 10, 1987, 52 F.R. 13417, as amended by Ex. Ord. No. 126
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3151, 3161, 3393a, 4507, 5383, 5384 of this title; title 3 section 115; title 7 section 2009aa–1; title 10 section 1602; title 15 section 1511e; title 20 section 1018; title 22 sections 3962, 4154; title 26 section 7803; title 28 sections 594, 995; title 29 sections 715, 772, 782, 783, 792, 794b; title 31 sections 325, 733; title 35 section 3; title 40 App. section 106; title 42 sections 902, 903, 1317, 14196.
+This section is referred to in sections 3151, 3161, 4507, 5383, 5384 of this title; title 3 section 115; title 7 sections 2009aa–1, 2009bb–1; title 10 section 1602; title 15 section 1511e; title 20 section 1018; title 22 sections 3962, 4154; title 26 sections 4946, 7803; title 28 section 995; title 29 sections 715, 772, 782, 783, 792, 794b; title 31 sections 325, 733; title 35 section 3; title 40 section 14306; title 42 sections 902, 903, 1317, 14196.
 

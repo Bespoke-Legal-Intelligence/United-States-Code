@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-Except as provided in subsection (b) of this section, no producer shall be personally liable for any deficiency arising from the sale of the collateral securing any nonrecourse loan made under this chapter unless the loan was obtained through a fraudulent representation by the producer.
+Except as provided in subsection (b) of this section, no producer shall be personally liable for any deficiency arising from the sale of thecollateral securing any nonrecourse loan made under this chapter and title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\] unless the loan was obtained through a fraudulent representation by the producer.
 
 #### (b) Limitations
 
@@ -12,21 +12,27 @@ Subsection (a) of this section shall not prevent the Commodity Credit Corporatio
 
 &emsp;(2) a failure to properly care for and preserve a commodity; or
 
-&emsp;(3) a failure or refusal to deliver a commodity in accordance with a program established under this chapter.
+&emsp;(3) a failure or refusal to deliver a commodity in accordance with a program established under this chapter and title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\].
 
 #### (c) Acquisition of collateral
 
-In the case of a nonrecourse loan made under this chapter or the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), if the Commodity Credit Corporation acquires title to the unredeemed collateral, the Corporation shall be under no obligation to pay for any market value that the collateral may have in excess of the loan indebtedness.
+In the case of a nonrecourse loan made under this chapter and title I of the Farm Security and Rural Investment Act of 2002 \[7 U.S.C. 7901 et seq.\] or the Commodity Credit Corporation Charter Act (15 U.S.C. 714 et seq.), if the Commodity Credit Corporation acquires title to the unredeemed collateral, the Corporation shall be under no obligation to pay for any market value that the collateral may have in excess of the loan indebtedness.
 
 #### (d) Sugarcane and sugar beets
 
 A security interest obtained by the Commodity Credit Corporation as a result of the execution of a security agreement by the processor of sugarcane or sugar beets shall be superior to all statutory and common law liens on raw cane sugar and refined beet sugar in favor of the producers of sugarcane and sugar beets and all prior recorded and unrecorded liens on the crops of sugarcane and sugar beets from which the sugar was derived.
 
-(Pub. L. 104–127, title I, §164, Apr. 4, 1996, 110 Stat. 935.)
+(Pub. L. 104–127, title I, §164, Apr. 4, 1996, 110 Stat. 935; Pub. L. 107–171, title I, §1607, May 13, 2002, 116 Stat. 218.)
 
 #### References in Text
 
 For definition of “this chapter”, referred to in text, see note set out under section 7201 of this title.
 
+The Farm Security and Rural Investment Act of 2002, referred to in subsecs. (a), (b)(3), and (c), is Pub. L. 107–171, May 13, 2002, 116 Stat. 134. Title I of the Act is classified principally to chapter 106 (§7901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note under section 7901 of this title and Tables.
+
 The Commodity Credit Corporation Charter Act, referred to in subsec. (c), is act June 29, 1948, ch. 704, 62 Stat. 1070, as amended, which is classified generally to subchapter II (§714 et seq.) of chapter 15 of Title 15, Commerce and Trade. For complete classification of this Act to the Code, see Short Title note set out under section 714 of title 15 and Tables.
+
+#### Amendments
+
+2002—Subsecs. (a), (b)(3), (c). Pub. L. 107–171 substituted “this chapter and title I of the Farm Security and Rural Investment Act of 2002” for “this chapter”.
 

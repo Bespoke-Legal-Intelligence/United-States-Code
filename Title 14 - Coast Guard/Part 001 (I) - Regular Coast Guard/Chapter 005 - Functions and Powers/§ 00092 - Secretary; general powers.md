@@ -8,7 +8,7 @@ For the purpose of executing the duties and functions of the Coast Guard the Sec
 
 &emsp;(c) construct, or cause to be constructed, Coast Guard shore establishments;
 
-&emsp;(d) design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire vessels, and subject to applicable regulations under the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 471 et seq.) dispose of them;
+&emsp;(d) design or cause to be designed, cause to be constructed, accept as gift, or otherwise acquire vessels, and subject to applicable regulations under subtitle I of title 40 and title III of the Federal Property and Administrative Services Act of 1949 (41 U.S.C. 251 et seq.) dispose of them;
 
 &emsp;\[(e) Repealed. Oct. 31, 1951, ch. 654, §1(32), 65 Stat. 702\]
 
@@ -20,7 +20,7 @@ For the purpose of executing the duties and functions of the Coast Guard the Sec
 
 &emsp;(i) do any and all things necessary to carry out the purposes of this title.
 
-(Aug. 4, 1949, ch. 393, 63 Stat. 503; Oct. 31, 1951, ch. 654, §§1(32), 2(9), 3(3), 65 Stat. 702, 707, 708; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 98–557, §15(a)(3)(D), Oct. 30, 1984, 98 Stat. 2865.)
+(Aug. 4, 1949, ch. 393, 63 Stat. 503; Oct. 31, 1951, ch. 654, §§1(32), 2(9), 3(3), 65 Stat. 702, 707, 708; Pub. L. 97–295, §2(4), Oct. 12, 1982, 96 Stat. 1301; Pub. L. 98–557, §15(a)(3)(D), Oct. 30, 1984, 98 Stat. 2865; Pub. L. 107–217, §3(c)(1), Aug. 21, 2002, 116 Stat. 1298.)
 
 #### Historical and Revision Notes
 
@@ -48,9 +48,11 @@ Changes were made in phraseology. 81st Congress, House Report No. 557.
 
 #### References in Text
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Provisions of that act relating to disposal of government property are classified to chapter 10 (§471 et seq.) of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (d), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–217 inserted “subtitle I of title 40 and title III of” before “the Federal Property and Administrative Services Act of 1949” and substituted “(41 U.S.C. 251 et seq.)” for “(40 U.S.C. 471 et seq.)”.
 
 1984—Subsec. (b). Pub. L. 98–557 substituted reference to members for reference to officers and enlisted men.
 
@@ -61,6 +63,48 @@ The Federal Property and Administrative Services Act of 1949, referred to in sub
 Subsec. (d). Act Oct. 31, 1951, §2(9), inserted reference to applicable regulations of the Federal Property and Administrative Services Act of 1949, as amended, and struck out requirement that net monies received from the disposition of vessels be covered into the Treasury.
 
 Subsec. (e). Act Oct. 31, 1951, §1(32), repealed subsec. (e) which empowered the Secretary to exchange vessels and parts thereof in part payment for new vessels.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+#### Great Lakes Lighthouses
+
+Pub. L. 107–295, title III, §345, Nov. 25, 2002, 116 Stat. 2106, provided that:
+
+“(a)
+
+Findings.—The Congress finds the following:
+
+&emsp;“(1) The Great Lakes are home to more than 400 lighthouses. One hundred and twenty of these maritime landmarks are in the State of Michigan.
+
+&emsp;“(2) Lighthouses are an important part of Great Lakes culture and stand as a testament to the importance of shipping in the region's political, economic, and social history.
+
+&emsp;“(3) Advances in navigation technology have made many Great Lakes lighthouses obsolete. In Michigan alone, approximately 70 lighthouses will be designated as excess property of the Federal Government and will be transferred to the General Services Administration for disposal.
+
+&emsp;“(4) Unfortunately, the Federal property disposal process is confusing, complicated, and not well-suited to disposal of historic lighthouses or to facilitate transfers to nonprofit organizations. This is especially troubling because, in many cases, local nonprofit historical organizations have dedicated tremendous resources to preserving and maintaining Great Lakes lighthouses.
+
+&emsp;“(5) If Great Lakes lighthouses disappear, the public will be unaware of an important chapter in Great Lakes history.
+
+&emsp;“(6) The National Trust for Historic Preservation has placed Michigan lighthouses on their list of Most Endangered Historic Places.
+
+“(b)
+
+Assistance for Great Lakes Lighthouse Preservation Efforts.—The Secretary of the department in which the Coast Guard is operating, may—
+
+&emsp;“(1) continue to offer advice and technical assistance to organizations in the Great Lakes region that are dedicated to lighthouse stewardship; and
+
+&emsp;“(2) promptly release information regarding the timing of designations of Coast Guard lighthouses on the Great Lakes as excess to the needs of the Coast Guard, to enable those organizations to mobilize and be prepared to take appropriate action with respect to the disposal of those properties.”
+
+#### VHF Communications Services
+
+Pub. L. 107–295, title IV, §406, Nov. 25, 2002, 116 Stat. 2116, provided that:
+
+“(a) The Secretary of the department in which the Coast Guard is operating may authorize a person providing commercial VHF communications services to place commercial VHF communications equipment on real property under the administrative control of the Coast Guard (including towers) subject to any terms agreed to by the parties. The Secretary and that commercial VHF communications service provider also may enter into an agreement providing for VHF communications services to the Coast Guard (including digital selective calling and radio direction finding services) at a discounted rate or price based on providing such access to real property under the administrative control of the Coast Guard.
+
+“(b) Commercial VHF communication equipment placed on real property under the administrative control of the Coast Guard under this section shall not interfere in any manner with any current or future Coast Guard communication equipment.
+
+“(c) Nothing in this section shall affect the rights or obligations of the United States under section 704(c) of the Telecommunications Act of 1996 \[Pub. L. 104–104\] (47 U.S.C. 332 note) with respect to the availability of property or under section 359(d) of the Communications Act of 1934 (47 U.S.C. 357(d)) with respect to charges for transmission of distress messages.”
 
 #### Purchase of American-Made Equipment and Products; Notice to Recipients of Assistance
 

@@ -4,7 +4,7 @@
 
 Subject to subsection (f) of this section, of the total amount appropriated for this subchapter in any fiscal year, the amount remaining after setting aside the amount required to be reserved to carry out section 3761 of this title shall be set aside for section 3752 of this title and allocated to States as follows:
 
-&emsp;(1) $500,000 or 0.25 percent, whichever is greater, shall be allocated to each of the participating States; and
+&emsp;(1) $500,000 or 0.25 percent, whichever is greater, shall be allocated to each of the States; and
 
 &emsp;(2) of the total funds remaining after the allocation under paragraph (1), there shall be allocated to each State an amount which bears the same ratio to the amount of remaining funds described in this paragraph as the population of such State bears to the population of all the States.
 
@@ -52,7 +52,7 @@ Any funds allocated under subsection (a) or (f) of this section that are not dis
 
 &emsp;(B) the term “sexual act” has the meaning given such term in subparagraph (A) or (B) of section 2245(1) <sup>1</sup> of title 18.
 
-(Pub. L. 90–351, title I, §506, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4334; amended Pub. L. 101–162, title II, §212, Nov. 21, 1989, 103 Stat. 998, 1006; Pub. L. 101–302, title III, §320(c)(1), May 25, 1990, 104 Stat. 248; Pub. L. 101–647, title XVIII, §1804, Nov. 29, 1990, 104 Stat. 4851; Pub. L. 103–322, title XXXIII, §330001(a), Sept. 13, 1994, 108 Stat. 2138.)
+(Pub. L. 90–351, title I, §506, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4334; amended Pub. L. 101–162, title II, §212, Nov. 21, 1989, 103 Stat. 998, 1006; Pub. L. 101–302, title III, §320(c)(1), May 25, 1990, 104 Stat. 248; Pub. L. 101–647, title XVIII, §1804, Nov. 29, 1990, 104 Stat. 4851; Pub. L. 103–322, title XXXIII, §330001(a), Sept. 13, 1994, 108 Stat. 2138; Pub. L. 107–273, div. A, title II, §203(a)(2), Nov. 2, 2002, 116 Stat. 1775.)
 
 #### References in Text
 
@@ -63,6 +63,8 @@ Section 2245 of title 18, referred to in subsec. (f)(3)(B), was renumbered secti
 For prior section 506 of Pub. L. 90–351 and prior section 3756 of this title, see note set out preceding section 3750 of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–273 struck out “participating” before “States”.
 
 1994—Subsec. (a). Pub. L. 103–322, §330001(a)(1), substituted “Subject to subsection (f) of this section, of” for “Of” in introductory provisions.
 

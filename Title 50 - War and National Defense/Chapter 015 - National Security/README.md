@@ -25,8 +25,28 @@
 | (i) | Special Adviser to the President on International Religious Freedom. |
 | [402a.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000402a%20-%20Coordination%20of%20counterintelligence%20activities.md) | Coordination of counterintelligence activities. |
 | (a) | Establishment of Counterintelligence Policy Board. |
-| (b) | Function of Board. |
-| (c) | Coordination of counterintelligence matters with Federal Bureau of Investigation. |
+| (b) | Chairperson. |
+| (c) | Membership. |
+| (d) | Functions and discharge of functions. |
+| (e) | Coordination of counterintelligence matters with Federal Bureau of Investigation. |
+| [402b.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000402b%20-%20National%20Counterintelligence%20Executive.md) | National Counterintelligence Executive. |
+| (a) | Establishment. |
+| (b) | Mission. |
+| (c) | Duties. |
+| [402c.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000402c%20-%20Office%20of%20the%20National%20Counterintelligence%20Executive.md) | Office of the National Counterintelligence Executive. |
+| (a) | Establishment. |
+| (b) | Head of Office. |
+| (c) | Location of Office. |
+| (d) | General Counsel. |
+| (e) | Functions. |
+| (f) | Additional requirements regarding National Threat Identification and Prioritization Assessment and National Counterintelligence Strategy. |
+| (g) | Personnel. |
+| (h) | Support. |
+| (i) | Availability of funds for reimbursement. |
+| (j) | Contracts. |
+| (k) | Treatment of activities under certain administrative laws. |
+| (<i>l</i>) | Oversight by Congress. |
+| (m) | Construction. |
 | [403\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403%20-%20Office%20of%20the%20Director%20of%20Central%20Intelligence.md) | Office of the Director of Central Intelligence. |
 | (a) | Director of Central Intelligence. |
 | (b) | Deputy Directors of Central Intelligence. |
@@ -55,12 +75,13 @@
 | (d) | Transfer of funds or personnel within National Foreign Intelligence Program. |
 | (e) | Coordination with foreign governments. |
 | (f) | Use of personnel. |
-| (g) | Termination of employment of CIA employees. |
+| (g) | Standards and qualifications for performance of intelligence activities. |
+| (h) | Termination of employment of CIA employees. |
 | 403–5. | Responsibilities of Secretary of Defense pertaining to National Foreign Intelligence Program. |
 | (a) | In general. |
 | (b) | Responsibility for performance of specific functions. |
 | (c) | Use of elements of Department of Defense. |
-| (d) | Annual evaluation of Director of Central Intelligence. |
+| (d) | Annual evaluation of performance and responsiveness of certain elements of intelligence community. |
 | 403–5a. | Assistance to United States law enforcement agencies. |
 | (a) | Authority to provide assistance. |
 | (b) | Limitation on assistance by elements of Department of Defense. |
@@ -73,6 +94,9 @@
 | (a) | Exemption of certain operational files from search, review, publication, or disclosure. |
 | (b) | Decennial review of exempted operational files. |
 | 403–5d. | Foreign intelligence information. |
+| 403–5e. | Protection of operational files of the National Reconnaissance Office. |
+| (a) | Exemption of certain operational files from search, review, publication, or disclosure. |
+| (b) | Decennial review of exempted operational files. |
 | 403–6. | Appointment of officials responsible for intelligence-related activities. |
 | (a) | Concurrence of DCI in certain appointments. |
 | (b) | Consultation with DCI in certain appointments. |
@@ -162,8 +186,7 @@
 | (d) | Limitation on amount of orders. |
 | (e) | Payment for items and services. |
 | (f) | Fees. |
-| (g) | Audit. |
-| (h) | Termination. |
+| (g) | Termination. |
 | [403v.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000403v%20-%20Detail%20of%20employees.md) | Detail of employees. |
 | [404\.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404%20-%20Emergency%20preparedness.md) | Emergency preparedness. |
 | (a) | Employment of personnel. |
@@ -187,7 +210,6 @@
 | (a) | In general. |
 | (b) | Matters covered. |
 | (c) | “Appropriate congressional committees” defined. |
-| (c) | Time for submission. |
 | 404d–1. | Transferred. |
 | [404e.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404e%20-%20National%20mission%20of%20National%20Imagery%20and%20Mapping%20Agency.md) | National mission of National Imagery and Mapping Agency. |
 | (a) | In general. |
@@ -203,11 +225,14 @@
 | [404h.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404h%20-%20Detail%20of%20intelligence%20community%20personnel%E2%80%94Intelligence%20Community%20Assignment%20Program.md) | Detail of intelligence community personnel—Intelligence Community Assignment Program. |
 | (a) | Detail. |
 | (b) | Benefits, allowances, travel, incentives. |
-| (c) | Annual report. |
 | [404i.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404i%20-%20Additional%20annual%20reports%20from%20the%20Director%20of%20Central%20Intelligence.md) | Additional annual reports from the Director of Central Intelligence. |
 | (a) | Report on intelligence community cooperation with Federal law enforcement agencies. |
 | (b) | Annual report on the safety and security of Russian nuclear facilities and nuclear military forces. |
-| (c) | Definitions. |
+| (c) | Annual report on hiring and retention of minority employees. |
+| (d) | Annual report on threat of attack on the United States using weapons of mass destruction. |
+| (e) | Annual report on covert leases. |
+| (f) | Congressional leadership defined. |
+| 404i–1. | Annual report on improvement of financial statements for auditing purposes. |
 | [404j.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404j%20-%20Limitation%20on%20establishment%20or%20operation%20of%20diplomatic%20intelligence%20support%20centers.md) | Limitation on establishment or operation of diplomatic intelligence support centers. |
 | (a) | In general. |
 | (b) | Prohibition of use of appropriations. |
@@ -219,6 +244,35 @@
 | 404<i>l.</i> | POW/MIA analytic capability. |
 | (a) | Requirement. |
 | (b) | Unaccounted for United States personnel. |
+| [404m.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404m%20-%20Semiannual%20report%20on%20financial%20intelligence%20on%20terrorist%20assets.md) | Semiannual report on financial intelligence on terrorist assets. |
+| (a) | Semiannual report. |
+| (b) | Immediate notification for emergency designation. |
+| (c) | Submittal date of reports to congressional intelligence committees. |
+| (d) | Appropriate congressional committees defined. |
+| [404n.](Subchapter%20001%20%28I%29%20-%20Coordination%20for%20National%20Security/%C2%A7%2000404n%20-%20National%20Virtual%20Translation%20Center.md) | National Virtual Translation Center. |
+| (a) | Establishment. |
+| (b) | Designation. |
+| (c) | Administrative matters. |
+| (d) | Deadline for establishment. |
+| 404n–1. | Foreign Terrorist Asset Tracking Center. |
+| (a) | Establishment. |
+| (b) | Designation. |
+| (c) | Deadline for establishment. |
+| 404n–2. | Terrorist Identification Classification System. |
+| (a) | Requirement. |
+| (b) | Administration. |
+| (c) | Information sharing. |
+| (d) | Reporting and certification. |
+| (e) | Report on criteria for information sharing. |
+| (f) | System administration requirements. |
+| (g) | Report on status of System. |
+| (h) | Congressional intelligence committees defined. |
+| 404n–3. | Annual report on foreign companies involved in the proliferation of weapons of mass destruction that raise funds in the United States capital markets. |
+| (a) | Annual report required. |
+| (b) | Covered foreign companies. |
+| (c) | Submittal date. |
+| (d) | Form of reports. |
+| (e) | Appropriate committees of Congress defined. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -241,7 +295,7 @@
 | (g) | Bar on certain employment. |
 | (h) | Limitations. |
 | (i) | Regulations. |
-| (j) | Reporting requirements. |
+| (j) | Notification of exercise of authority. |
 | (k) | Remittance of funds. |
 | [410\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20and%20Conforming%20Provisions/%C2%A7%2000410%20-%20%E2%80%9CFunction%E2%80%9D%20and%20%E2%80%9CDepartment%20of%20Defense%E2%80%9D%20defined.md) | “Function” and “Department of Defense” defined. |
 | [411\.](Subchapter%20002%20%28II%29%20-%20Miscellaneous%20and%20Conforming%20Provisions/%C2%A7%2000411%20-%20Authorization%20of%20appropriations.md) | Authorization of appropriations. |
@@ -266,7 +320,7 @@
 | (c) | Standards and procedures for certain reports. |
 | [413b.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000413b%20-%20Presidential%20approval%20and%20reporting%20of%20covert%20actions.md) | Presidential approval and reporting of covert actions. |
 | (a) | Presidential findings. |
-| (b) | Reports to intelligence committees; production of information. |
+| (b) | Reports to congressional intelligence committees; production of information. |
 | (c) | Timing of reports; access to finding. |
 | (d) | Changes in previously approved actions. |
 | (e) | “Covert action” defined. |
@@ -278,6 +332,14 @@
 | (d) | Report to Congressional committees required for expenditure of nonappropriated funds for intelligence activity. |
 | (e) | Definitions. |
 | [415\.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415%20-%20Notice%20to%20Congress%20of%20certain%20transfers%20of%20defense%20articles%20and%20defense%20services.md) | Notice to Congress of certain transfers of defense articles and defense services. |
+| [415a.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415a%20-%20Specificity%20of%20National%20Foreign%20Intelligence%20Program%20budget%20amounts%20for%20counterterrorism%2C%20counterproliferation%2C%20counternarcotics%2C%20and%E2%80%A6.md) | Specificity of National Foreign Intelligence Program budget amounts for counterterrorism, counterproliferation, counternarcotics, and counterintelligence. |
+| (a) | In general. |
+| (b) | Election of classified or unclassified form. |
+| [415b.](Subchapter%20003%20%28III%29%20-%20Accountability%20for%20Intelligence%20Activities/%C2%A7%2000415b%20-%20Dates%20for%20submittal%20of%20various%20annual%20and%20semiannual%20reports%20to%20the%20congressional%20intelligence%20committees.md) | Dates for submittal of various annual and semiannual reports to the congressional intelligence committees. |
+| (a) | Annual reports. |
+| (b) | Semiannual reports. |
+| (c) | Submittal dates for reports. |
+| (d) | Postponement of submittal. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -297,7 +359,7 @@
 | (d) | Disclosure by agent of own identity. |
 | [423\.](Subchapter%20004%20%28IV%29%20-%20Protection%20of%20Certain%20National%20Security%20Information/%C2%A7%2000423%20-%20Report.md) | Report. |
 | (a) | Annual report by President to Congress on measures to protect identities of covert agents. |
-| (b) | Exemption from disclosure; date of initial submission. |
+| (b) | Exemption from disclosure. |
 | [424\.](Subchapter%20004%20%28IV%29%20-%20Protection%20of%20Certain%20National%20Security%20Information/%C2%A7%2000424%20-%20Extraterritorial%20jurisdiction.md) | Extraterritorial jurisdiction. |
 | [425\.](Subchapter%20004%20%28IV%29%20-%20Protection%20of%20Certain%20National%20Security%20Information/%C2%A7%2000425%20-%20Providing%20information%20to%20Congress.md) | Providing information to Congress. |
 | [426\.](Subchapter%20004%20%28IV%29%20-%20Protection%20of%20Certain%20National%20Security%20Information/%C2%A7%2000426%20-%20Definitions.md) | Definitions. |
@@ -354,6 +416,19 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER VII–A—EDUCATION IN SUPPORT OF NATIONAL INTELLIGENCE
+
+|  |  |
+| :--- | ---: |
+| [441g.](Subchapter%20007%E2%80%93A%20%28VII%E2%80%93A%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/%C2%A7%2000441g%20-%20Scholarships%20and%20work-study%20for%20pursuit%20of%20graduate%20degrees%20in%20science%20and%20technology.md) | Scholarships and work-study for pursuit of graduate degrees in science and technology. |
+| (a) | Program authorized. |
+| (b) | Administration. |
+| (c) | Identification of fields of study. |
+| (d) | Eligibility for participation. |
+| (e) | Regulations. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### SUBCHAPTER VIII—ADDITIONAL MISCELLANEOUS PROVISIONS
 
 |  |  |
@@ -378,4 +453,5 @@
 - [Subchapter 005 (V) - Protection of Operational Files of the Central Intelligence Agency](Subchapter%20005%20%28V%29%20-%20Protection%20of%20Operational%20Files%20of%20the%20Central%20Intelligence%20Agency/README.md)
 - [Subchapter 006 (VI) - Access to Classified Information](Subchapter%20006%20%28VI%29%20-%20Access%20to%20Classified%20Information/README.md)
 - [Subchapter 007 (VII) - Application of Sanctions Laws to Intelligence Activities](Subchapter%20007%20%28VII%29%20-%20Application%20of%20Sanctions%20Laws%20to%20Intelligence%20Activities/README.md)
+- [Subchapter 007&#8211;A (VII&#8211;A) - Education in Support of National Intelligence](Subchapter%20007%E2%80%93A%20%28VII%E2%80%93A%29%20-%20Education%20in%20Support%20of%20National%20Intelligence/README.md)
 - [Subchapter 008 (VIII) - Additional Miscellaneous Provisions](Subchapter%20008%20%28VIII%29%20-%20Additional%20Miscellaneous%20Provisions/README.md)

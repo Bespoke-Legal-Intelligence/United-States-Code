@@ -80,7 +80,7 @@ In subsection (a), before clause (1), the words “Except as provided by another
 
 In subsection (b), the words “any abatement or” are omitted as surplus. The words “for any charge or claim” are substituted for “on account of salary, fees, costs, charges, expenses, or claim of any description whatever”, and the words “shall deposit the money in the Treasury” are substituted for “The gross amount of all moneys received from whatever source for the use of the United States, . . . shall be paid . . . into the Treasury”, to eliminate unnecessary words. The words “except as otherwise provided in section 487 of this title” are omitted because 31:487 is obsolete. The text of 31:484(last sentence) is omitted as superseded by title 39.
 
-In subsection (c), the word “Secretary” is substituted for “Treasurer” because of the source provisions restated in section 321(c) of the revised title. The balance of subsection (c) is substituted for 31:495(words before proviso) for clarity and consistency. The text of 31:495(proviso) is omitted as superseded by title 39.
+In subsection (c), the word “Secretary” is substituted for “Treasurer” because of the source provisions restated in section 321(c) of the revised title. The balance of subsection (c) is substituted for 31:495(words beforeproviso) for clarity and consistency. The text of 31:495(proviso) is omitted as superseded by title 39.
 
 Subsection (d) is substituted for 31:490 for clarity and consistency.
 
@@ -112,7 +112,7 @@ Section 3618 (1st sentence related to non-military deposits) of the Revised Stat
 
 #### References in Text
 
-Section 3718(b) of this title, referred to in subsec. (b), was temporarily redesignated section 3718(d) of this title by Pub. L. 99–578, §1(1), Oct. 28, 1986, 100 Stat. 3305.
+Section 3718(b) of this title, referred to in subsec. (b), was redesignated section 3718(d) of this title by Pub. L. 99–578, §1(1), Oct. 28, 1986, 100 Stat. 3305.
 
 #### Amendments
 
@@ -132,7 +132,7 @@ Section 2652(b)(2) of Pub. L. 98–369 provided that: “The amendments made by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 327, 3322, 3711, 3718, 3720 of this title; title 7 section 2016; title 8 sections 1254a, 1363a; title 10 sections 114, 423, 2410m, 2474, 4554, 7605; title 12 section 4241; title 15 sections 1527a, 2514; title 16 sections 698v–4, 746a; title 18 section 1963; title 19 sections 1631, 2081; title 22 sections 1475e, 4226; title 26 section 7608; title 28 sections 1827, 1921; title 38 section 3720; title 42 sections 1973gg–10, 2169, 5812, 5852, 7651<i>o</i>; title 43 section 1338a; title 47 section 923; title 49 sections 111, 44940, 45303.
+This section is referred to in sections 327, 3322, 3711, 3718, 3720 of this title; title 6 section 453; title 7 section 2016; title 8 sections 1254a, 1363a; title 10 sections 114, 423, 2410m, 2474, 4554, 7605; title 12 section 4241; title 15 sections 1527a, 2514; title 16 sections 698v–4, 746a; title 18 section 1963; title 19 sections 1631, 2081; title 22 sections 1475e, 4226; title 25 section 1485; title 26 section 7608; title 28 sections 1827, 1921; title 38 section 3720; title 42 sections 1973gg–10, 2169, 5812, 5852, 7651<i>o</i>; title 43 section 1338a; title 47 section 923; title 49 sections 111, 44940, 45303.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -14,9 +14,9 @@ The Chair shall—
 
 #### Amendments
 
-<b>1994</b>—Pub. L. 103–322 substituted “Chair” for “Chairman” in section catchline and introductory provisions.
+1994—Pub. L. 103–322 substituted “Chair” for “Chairman” in section catchline and introductory provisions.
 
-<b>1986</b>—Subsec. (b)(2). Pub. L. 99–646 struck out provision that, before appointment of first Chairman, Administrative Office of the United States Courts may make requests for appropriations for Commission.
+1986—Subsec. (b)(2). Pub. L. 99–646 struck out provision that, before appointment of first Chairman, Administrative Office of the United States Courts may make requests for appropriations for Commission.
 
-<b>1985</b>—Subsec. (b)(2). Pub. L. 99–22 inserted provision authorizing the Administrative Office of the United States Courts to make requests for appropriations for the Commission before the appointment of the first Chairman of the Commission.
+1985—Subsec. (b)(2). Pub. L. 99–22 inserted provision authorizing the Administrative Office of the United States Courts to make requests for appropriations for the Commission before the appointment of the first Chairman of the Commission.
 

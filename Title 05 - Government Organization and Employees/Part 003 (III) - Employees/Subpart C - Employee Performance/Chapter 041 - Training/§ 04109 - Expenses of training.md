@@ -6,7 +6,7 @@
 
 &emsp;(2) pay, or reimburse the employee for, all or a part of the necessary expenses of the training, without regard to section 3324(a) and (b) of title 31, including among the expenses the necessary costs of—
 
-&emsp;&emsp;(A) travel and per diem instead of subsistence under subchapter I of chapter 57 of this title or, in the case of commissioned officersof the National Oceanic and Atmospheric Administration, sections 404 and 405 of title 37, and the Joint Travel Regulations for the Uniformed Services;
+&emsp;&emsp;(A) travel and per diem instead of subsistence under subchapter I of chapter 57 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 404 and 405 of title 37, and the Joint Travel Regulations for the Uniformed Services;
 
 &emsp;&emsp;(B) transportation of immediate family, household goods and personal effects, packing, crating, temporarily storing, draying, and unpacking under section 5724 of this title or, in the case of commissioned officers of the National Oceanic and Atmospheric Administration, sections 406 and 409 of title 37, and the Joint Travel Regulations for the Uniformed Services, when the estimated costs of transportation and related services are less than the estimated aggregate per diem payments for the period of training;
 
@@ -88,9 +88,13 @@ Amendment by Pub. L. 97–276 effective on first day of first applicable pay per
 
 Amendment by Pub. L. 96–54 effective July 12, 1979, see section 2(b) of Pub. L. 96–54, set out as a note under section 305 of this title.
 
+#### Department of Homeland Security
+
+Exception from introductory provisions of subsec. (a) of this section of those elements of the Department of Homeland Security that are supervised by the Under Secretary of Homeland Security for Information Analysis and Infrastructure Protection through the Department's Assistant Secretary for Information Analysis, see Ex. Ord. No. 13286, §86, Feb. 28, 2003, 68 F.R. 10632, set out as a note under section 111 of Title 6, Domestic Security.
+
 #### Central Intelligence Agency
 
-Exception of Central Intelligence Agency from introductory provisions of subsec. (a) of this section and certain other provisions of this chapter, and section 1308 of this title, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
+Exception of Central Intelligence Agency from certain introductory provisions of subsec. (a) of this section, see Ex. Ord. No. 10805, Feb. 18, 1959, 24 F.R. 1301, set out as a note under section 4102 of this title.
 
 #### Section Referred to in Other Sections
 

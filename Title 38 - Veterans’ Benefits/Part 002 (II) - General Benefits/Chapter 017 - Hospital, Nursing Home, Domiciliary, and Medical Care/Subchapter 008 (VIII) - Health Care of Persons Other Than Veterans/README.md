@@ -9,3 +9,4 @@
 - [&sect; 01782 - Counseling, training, and mental health services for immediate family members](%C2%A7%2001782%20-%20Counseling%2C%20training%2C%20and%20mental%20health%20services%20for%20immediate%20family%20members.md)
 - [&sect; 01783 - Bereavement counseling](%C2%A7%2001783%20-%20Bereavement%20counseling.md)
 - [&sect; 01784 - Humanitarian care](%C2%A7%2001784%20-%20Humanitarian%20care.md)
+- [&sect; 01785 - Care and services during certain disasters and emergencies](%C2%A7%2001785%20-%20Care%20and%20services%20during%20certain%20disasters%20and%20emergencies.md)

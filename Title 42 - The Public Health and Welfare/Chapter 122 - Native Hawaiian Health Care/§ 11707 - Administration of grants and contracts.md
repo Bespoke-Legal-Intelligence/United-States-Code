@@ -44,13 +44,13 @@ The Secretary may not make a grant or enter into a contract under this chapter w
 
 (2) In determining whether to renew a contract entered into with an entity under this chapter, the Secretary shall consider the results of the evaluation under this section.
 
-(3) All contracts entered into by the Secretary under this chapter shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the Secretary, such contracts may be negotiated without advertising and may be exempted from the provisions of the Act of August 24, 1935 (40 U.S.C. 270a et seq.).
+(3) All contracts entered into by the Secretary under this chapter shall be in accordance with all Federal contracting laws and regulations except that, in the discretion of the Secretary, such contracts may be negotiated without advertising and may be exempted from the provisions of sections 3131 and 3133 of title 40.
 
 (4) Payments made under any contract entered into under this chapter may be made in advance, by means of reimbursement, or in installments and shall be made on such conditions as the Secretary deems necessary to carry out the purposes of this chapter.
 
 #### (e) Limitation on use of funds for administrative expenses
 
-Except for grants and contracts under section 11706 of this title, the Secretary may not grant to, or enter into a contract with, an entity under this chapter unless the entity agrees that the entity will not expend more than 10 percent of amounts received pursuant to this chapter for the purpose of administering the grant or contract.
+Except for grants and contracts under section 11706 of this title, the Secretary may not grantto, or enter into a contract with, an entity under this chapter unless the entity agrees that the entity will not expend more than 10 percent of amounts received pursuant to this chapter for the purpose of administering the grant or contract.
 
 #### (f) Report
 
@@ -74,9 +74,9 @@ The Secretary shall allow as a cost of any grant made or contract entered into u
 
 The Social Security Act, referred to in subsec. (c)(4), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-Act of August 24, 1935, referred to in subsec. (d)(3), is act Aug. 24, 1935, ch. 642, 49 Stat. 793, as amended, known as the Miller Act, which is classified generally to sections 270a to 270d–1 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 270a of Title 40 and Tables.
-
 #### Codification
+
+In subsec. (d)(3), “sections 3131 and 3133 of title 40” substituted for “the Act of August 24, 1935 (40 U.S.C. 270a et seq.)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 The 1992 amendment is based on section 1 of S. 2681, One Hundred Second Congress, as passed by the Senate on Aug. 7, 1992, and enacted into law by section 9168 of Pub. L. 102–396. Section 9168, which referred to S. 2681, as passed by the Senate on “September 12, 1992”, has been treated as referring to S. 2681, as passed by the Senate on Aug. 7, 1992, to reflect the probable intent of Congress.
 

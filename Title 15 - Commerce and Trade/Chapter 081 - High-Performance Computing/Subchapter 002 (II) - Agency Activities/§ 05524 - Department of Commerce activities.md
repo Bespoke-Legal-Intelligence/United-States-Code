@@ -26,7 +26,7 @@ Pursuant to the Computer Security Act of 1987 (Public Law 100–235; 101 Stat. 1
 
 &emsp;(B) determine whether such regulations discourage development of improved software development tools and techniques.
 
-(2) The Secretary of Commerce shall, within one year after December 9, 1991, report to theCongress regarding the results of the study conducted under paragraph (1).
+(2) The Secretary of Commerce shall, within one year after December 9, 1991, report to the Congress regarding the results of the study conducted under paragraph (1).
 
 #### (d) Authorization of appropriations
 
@@ -40,5 +40,5 @@ From sums otherwise authorized to be appropriated, there are authorized to be ap
 
 #### References in Text
 
-The Computer Security Act of 1987, referred to in subsec. (b), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of this title, amended section 272 of this title and section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of this title and section 1441 of Title 40. For complete classification of this Act to the Code, see Tables.
+The Computer Security Act of 1987, referred to in subsec. (b), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of this title, amended section 272 of this title and section 759 of former Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of this title and section 1441 of former Title 40. For complete classification of this Act to the Code, see Tables.
 

@@ -4,9 +4,13 @@
 
 &emsp;(1) an emergency situation exists that involves—
 
-&emsp;&emsp;(A) immediate danger of death or serious bodily injury to any person; or
+&emsp;&emsp;(A) immediate danger of death or serious bodily injury to any person;
 
-&emsp;&emsp;(B) conspiratorial activities characteristic of organized crime,
+&emsp;&emsp;(B) conspiratorial activities characteristic of organized crime;
+
+&emsp;&emsp;(C) an immediate threat to a national security interest; or
+
+&emsp;&emsp;(D) an ongoing attack on a protected computer (as defined in section 1030) that constitutes a crime punishable by a term of imprisonment greater than one year;
 
 > &emsp;that requires the installation and use of a pen register or a trap and trace device before an order authorizing such installation and use can, with due diligence, be obtained, and
 
@@ -20,7 +24,7 @@
 
 (d) A provider of a wire or electronic service, landlord, custodian, or other person who furnished facilities or technical assistance pursuant to this section shall be reasonably compensated for such reasonable expenses incurred in providing such facilities and assistance.
 
-(Added Pub. L. 100–690, title VII, §7092(a)(2), Nov. 18, 1988, 102 Stat. 4410; amended Pub. L. 103–322, title XXXIII, §330008(3), Sept. 13, 1994, 108 Stat. 2142; Pub. L. 104–294, title VI, §601(f)(5), Oct. 11, 1996, 110 Stat. 3499.)
+(Added Pub. L. 100–690, title VII, §7092(a)(2), Nov. 18, 1988, 102 Stat. 4410; amended Pub. L. 103–322, title XXXIII, §330008(3), Sept. 13, 1994, 108 Stat. 2142; Pub. L. 104–294, title VI, §601(f)(5), Oct. 11, 1996, 110 Stat. 3499; Pub. L. 107–296, title II, §225(i), Nov. 25, 2002, 116 Stat. 2158.)
 
 #### Prior Provisions
 
@@ -28,11 +32,17 @@ A prior section 3125 was renumbered section 3126 of this title.
 
 #### Amendments
 
+2002—Subsec. (a)(1)(C), (D). Pub. L. 107–296 added subpars. (C) and (D).
+
 1996—Subsec. (a). Pub. L. 104–294 struck out closing quotation mark at end.
 
 1994—Subsec. (a). Pub. L. 103–322, §330008(3)(A), (B), substituted “use;” for “use’ ” in par. (2) and directed that matter beginning with “may have installed” and ending with “section 3123 of this title” be realigned so that it is flush to the left margin, which was executed to text containing a period after “section 3123 of this title”, to reflect the probable intent of Congress.
 
 Subsec. (d). Pub. L. 103–322, §330008(3)(C), substituted “provider of” for “provider for”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Section Referred to in Other Sections
 

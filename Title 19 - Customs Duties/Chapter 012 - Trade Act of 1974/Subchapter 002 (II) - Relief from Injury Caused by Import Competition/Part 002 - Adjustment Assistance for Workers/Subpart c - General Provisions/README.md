@@ -1,8 +1,6 @@
 subpart c—general provisions
 
-#### Subpart Referred to in Other Sections
-
-This subpart is referred to in section 2331 of this title.
+<i><sup>1</sup></i><i> So in original. Probably should be followed by a closing parenthesis.</i>
 
 
 ---
@@ -16,8 +14,8 @@ This subpart is referred to in section 2331 of this title.
 - [&sect; 02315 - Fraud and recovery of overpayments](%C2%A7%2002315%20-%20Fraud%20and%20recovery%20of%20overpayments.md)
 - [&sect; 02316 - Penalties](%C2%A7%2002316%20-%20Penalties.md)
 - [&sect; 02317 - Authorization of appropriations](%C2%A7%2002317%20-%20Authorization%20of%20appropriations.md)
-- [&sect; 02318 - Supplemental wage allowance demonstration projects](%C2%A7%2002318%20-%20Supplemental%20wage%20allowance%20demonstration%20projects.md)
+- [&sect; 02318 - Demonstration project for alternative trade adjustment assistance for older workers](%C2%A7%2002318%20-%20Demonstration%20project%20for%20alternative%20trade%20adjustment%20assistance%20for%20older%20workers.md)
 - [&sect; 02319 - Definitions](%C2%A7%2002319%20-%20Definitions.md)
 - [&sect; 02320 - Regulations](%C2%A7%2002320%20-%20Regulations.md)
 - [&sect; 02321 - Subpena power](%C2%A7%2002321%20-%20Subpena%20power.md)
-- [&sect; 02322 - Nonduplication of assistance](%C2%A7%2002322%20-%20Nonduplication%20of%20assistance.md)
+- [&sect; 02322 - Repealed. Pub. L. 107&#8211;210, div. A, title I, &sect;123(b)(2), Aug. 6, 2002, 116 Stat. 944](%C2%A7%2002322%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93210%2C%20div.%20A%2C%20title%20I%2C%20%C2%A7123%28b%29%282%29%2C%20Aug.%206%2C%202002%2C%20116%20Stat.%20944.md)

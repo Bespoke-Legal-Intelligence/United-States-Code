@@ -22,7 +22,7 @@
 
 > shall be fined under this title, imprisoned not more than one year, or both.
 
-(4) Whoever violates section 922(q) shall be fined under this title, imprisoned for not more than 5 years, or both. Notwithstanding any other provision of law, the term of imprisonment imposed under this paragraph shall not run concurrently with any other term of imprisonment imposed under any other provision of law. Except for the authorization of a term ofimprisonment of not more than 5 years made in this paragraph, for the purpose of any other law a violation of section 922(q) shall be deemed to be a misdemeanor.
+(4) Whoever violates section 922(q) shall be fined under this title, imprisoned for not more than 5 years, or both. Notwithstanding any other provision of law, the term of imprisonment imposed under this paragraph shall not run concurrently with any other term of imprisonment imposed under any other provision of law. Except for the authorization of a term of imprisonment of not more than 5 years made in this paragraph, for the purpose of any other law a violation of section 922(q) shall be deemed to be a misdemeanor.
 
 (5) Whoever knowingly violates subsection (s) or (t) of section 922 shall be fined under this title, imprisoned for not more than 1 year, or both.
 
@@ -38,7 +38,9 @@
 
 &emsp;(i) shall be fined under this title, imprisoned not more than 1 year, or both; and
 
-&emsp;(ii) if the person sold, delivered, or otherwise transferred a handgun or ammunition to a juvenile knowing or having reasonable cause to know that the juvenile intended to carry or otherwise possess or discharge or otherwise use the handgun or ammunition in the commission of a crime of violence, shall be fined under this title, imprisoned not more than 10 years, or both.
+&emsp;(ii) if the person sold, delivered, or otherwise transferred a handgun or ammunition to a juvenile knowing or having reasonable cause to know that the juvenile intended to carry or otherwise possess or discharge or otherwiseuse the handgun or ammunition in the commission of a crime of violence, shall be fined under this title, imprisoned not more than 10 years, or both.
+
+(7) Whoever knowingly violates section 931 shall be fined under this title, imprisoned not more than 3 years, or both.
 
 (b) Whoever, with intent to commit therewith an offense punishable by imprisonment for a term exceeding one year, or with knowledge or reasonable cause to believe that an offense punishable by imprisonment for a term exceeding one year is to be committed therewith, ships, transports, or receives a firearm or any ammunition in interstate or foreign commerce shall be fined under this title, or imprisoned not more than ten years, or both.
 
@@ -82,7 +84,7 @@
 
 (2)(A) In any action or proceeding for the return of firearms or ammunition seized under the provisions of this chapter, the court shall allow the prevailing party, other than the United States, a reasonable attorney's fee, and the United States shall be liable therefor.
 
-(B) In any other action or proceeding under the provisions of this chapter, the court, when it finds that such action was without foundation, or was initiated vexatiously, frivolously, or in bad faith, shall allow the prevailing party, other than the United States, a reasonable attorney's fee, and the United States shall be liable therefor.
+(B) In any other action or proceeding under the provisions of this chapter, the court, when it finds that such action was without foundation, or was initiated vexatiously, frivolously, or in bad faith, shall allow the prevailing party, other than the United States, a reasonable attorney'sfee, and the United States shall be liable therefor.
 
 (C) Only those firearms or quantities of ammunition particularly named and individually identified as involved in or used in any violation of the provisions of this chapter or any rule or regulation issued thereunder, or any other criminal law of the United States or as intended to be used in any offense referred to in paragraph (3) of this subsection, where such intent is demonstrated by clear and convincing evidence, shall be subject to seizure, forfeiture, and disposition.
 
@@ -102,7 +104,7 @@
 
 &emsp;(F) any offense which may be prosecuted in a court of the United States which involves the exportation of firearms or ammunition.
 
-(e)(1) In the case of a person who violates section 922(g) of this title and has three previous convictions by any court referred to in section 922(g)(1) of this title for a violent felony or a serious drug offense, or both, committed on occasions different from one another, such person shall be fined not more than $25,000 and imprisoned not less than fifteen years, and, notwithstanding any other provision of law, the court shall not suspend the sentence of, or grant a probationary sentence to, such person with respect to the conviction under section 922(g).
+(e)(1) In the case of a person who violates section 922(g) of this title and has three previous convictions by any court referred to in section 922(g)(1) of this title for a violent felony or a serious drug offense, or both, committed on occasions different from one another, such person shall be fined under this title and imprisoned not less than fifteen years, and, notwithstanding any other provision of law, the court shall not suspend the sentence of, or grant a probationary sentence to, such person with respect to the conviction under section 922(g).
 
 (2) As used in this subsection—
 
@@ -164,7 +166,7 @@
 
 (<i>o</i>) A person who conspires to commit an offense under subsection (c) shall be imprisoned for not more than 20 years, fined under this title, or both; and if the firearm is a machinegun or destructive device, or is equipped with a firearm silencer or muffler, shall be imprisoned for any term of years or life.
 
-(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1223; Pub. L. 91–644, title II, §13, Jan. 2, 1971, 84 Stat. 1889; Pub. L. 98–473, title II, §§223(a), 1005(a), Oct. 12, 1984, 98 Stat. 2028, 2138; Pub. L. 99–308, §104(a), May 19, 1986, 100 Stat. 456; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1402, Oct. 27, 1986, 100 Stat. 3207–39; Pub. L. 100–649, §2(b), (f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 100–690, title VI, §§6211, 6212, 6451, 6460, 6462, title VII, §§7056, 7060(a), Nov. 18, 1988, 102 Stat. 4359, 4360, 4371, 4373, 4374, 4402, 4403; Pub. L. 101–647, title XI, §1101, title XVII, §1702(b)(3), title XXII, §§2203(d), 2204(c), title XXXV, §§3526–3529, Nov. 29, 1990, 104 Stat. 4829, 4845, 4857, 4924; Pub. L. 103–159, title I, §102(c), title III, §302(d), Nov. 30, 1993, 107 Stat. 1541, 1545; Pub. L. 103–322, title VI, §60013, title XI, §§110102(c), 110103(c), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§330002(h), 330003(f)(2), 330011(i), (j), 330016(1)(H), (K), (L), Sept. 13, 1994, 108 Stat. 1973, 1998, 1999, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; Pub. L. 104–294, title VI, §603(m)(1), (n)–(p)(1), (q)–(s), Oct. 11, 1996, 110 Stat. 3505; Pub. L. 105–386, §1(a), Nov. 13, 1998, 112 Stat. 3469.)
+(Added Pub. L. 90–351, title IV, §902, June 19, 1968, 82 Stat. 233; amended Pub. L. 90–618, title I, §102, Oct. 22, 1968, 82 Stat. 1223; Pub. L. 91–644, title II, §13, Jan. 2, 1971, 84 Stat. 1889; Pub. L. 98–473, title II, §§223(a), 1005(a), Oct. 12, 1984, 98 Stat. 2028, 2138; Pub. L. 99–308, §104(a), May 19, 1986, 100 Stat. 456; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 99–570, title I, §1402, Oct. 27, 1986, 100 Stat. 3207–39; Pub. L. 100–649, §2(b), (f)(2)(B), (D), Nov. 10, 1988, 102 Stat. 3817, 3818; Pub. L. 100–690, title VI, §§6211, 6212, 6451, 6460, 6462, title VII, §§7056, 7060(a), Nov. 18, 1988, 102 Stat. 4359, 4360, 4371, 4373, 4374, 4402, 4403; Pub. L. 101–647, title XI, §1101, title XVII, §1702(b)(3), title XXII, §§2203(d), 2204(c), title XXXV, §§3526–3529, Nov. 29, 1990, 104 Stat. 4829, 4845, 4857, 4924; Pub. L. 103–159, title I, §102(c), title III, §302(d), Nov. 30, 1993, 107 Stat. 1541, 1545; Pub. L. 103–322, title VI, §60013, title XI, §§110102(c), 110103(c), 110201(b), 110401(e), 110503, 110504(a), 110507, 110510, 110515(a), 110517, 110518(a), title XXXIII, §§330002(h), 330003(f)(2), 330011(i), (j), 330016(1)(H), (K), (L), Sept. 13, 1994, 108 Stat. 1973, 1998, 1999, 2011, 2015, 2016, 2018–2020, 2140, 2141, 2145, 2147; Pub. L. 104–294, title VI, §603(m)(1), (n)–(p)(1), (q)–(s), Oct. 11, 1996, 110 Stat. 3505; Pub. L. 105–386, §1(a), Nov. 13, 1998, 112 Stat. 3469; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(E), div. C, title I, §11009(e)(3), Nov. 2, 2002, 116 Stat. 1809, 1821.)
 
 #### Amendment of Section
 
@@ -180,13 +182,17 @@ Section 5845(a) of that Code, referred to in subsec. (d)(1), is classified to se
 
 The Controlled Substances Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title II of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1242, as amended, which is classified principally to subchapter I (§801 et seq.) of chapter 13 of Title 21, Food and Drugs. For complete classification of this Act to the Code, see Short Title note set out under section 801 of Title 21 and Tables.
 
-The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, seeShort Title note set out under section 951 of Title 21 and Tables.
+The Controlled Substances Import and Export Act, referred to in subsecs. (c)(2), (d)(3)(B), (e)(2)(A)(i), (g)(2), and (k)(1), is title III of Pub. L. 91–513, Oct. 27, 1970, 84 Stat. 1285, as amended, which is classified principally to subchapter II (§951 et seq.) of chapter 13 of Title 21. For complete classification of this Act to the Code, see Short Title note set out under section 951 of Title 21 and Tables.
 
 The Maritime Drug Law Enforcement Act, referred to in subsecs. (c)(2), (e)(2)(A)(i), (g)(2), and (k)(1), is Pub. L. 96–350, Sept. 15, 1980, 94 Stat. 1159, as amended, which is classified generally to chapter 38 (§1901 et seq.) of Title 46, Appendix, Shipping. For complete classification of this Act to the Code, see section 1901 of Title 46, Appendix, and Tables.
 
 #### Amendments
 
-1998—Subsec. (c)(1). Pub. L. 105–386, §1(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Whoever, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime, be sentenced to imprisonment for five years, and if the firearm is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, to imprisonment for ten years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to imprisonment for thirty years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for twenty years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to life imprisonment without release. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall the term of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the crime of violence or drug trafficking crime in which the firearm was used or carried.”
+2002—Subsec. (a)(7). Pub. L. 107–273, §11009(e)(3), added par. (7).
+
+Subsec. (e)(1). Pub. L. 107–273, §4002(d)(1)(E), substituted “under this title” for “not more than $25,000”.
+
+1998—Subsec. (c)(1). Pub. L. 105–386, §1(a)(1), added par. (1) and struck out former par. (1) which read as follows: “Whoever, during and in relation to any crime of violence or drug trafficking crime (including a crime of violence or drug trafficking crime which provides for an enhanced punishment if committed by the use of a deadly or dangerous weapon or device) for which he may be prosecuted in a court of the United States, uses or carries a firearm, shall, in addition to the punishment provided for such crime of violence or drug trafficking crime, be sentenced to imprisonment for five years, and if the firearm is a short-barreled rifle, short-barreled shotgun, or semiautomatic assault weapon, to imprisonment for ten years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to imprisonment for thirty years. In the case of his second or subsequent conviction under this subsection, such person shall be sentenced to imprisonment for twenty years, and if the firearm is a machinegun, or a destructive device, or is equipped with a firearm silencer or firearm muffler, to life imprisonment without release. Notwithstanding any other provision of law, the court shall not place on probation or suspend the sentence of any person convicted of a violation of this subsection, nor shall theterm of imprisonment imposed under this subsection run concurrently with any other term of imprisonment including that imposed for the crime of violence or drug trafficking crime in which the firearm was used or carried.”
 
 Subsec. (c)(4). Pub. L. 105–386, §1(a)(2), added par. (4).
 
@@ -382,5 +388,5 @@ Amendment by Pub. L. 90–618 effective Dec. 16, 1968, see section 105 of Pub. L
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 844, 1028, 1956, 2516, 3142, 3559, 3592, 4042, 5032 of this title; title 8 section 1101; title 31 section 9703; title 42 section 13726a.
+This section is referred to in sections 844, 1028, 1956, 2516, 3142, 3559, 3592, 4042, 5032 of this title; title 8 section 1101; title 42 sections 3796<i>ll</i>–3, 13726a.
 

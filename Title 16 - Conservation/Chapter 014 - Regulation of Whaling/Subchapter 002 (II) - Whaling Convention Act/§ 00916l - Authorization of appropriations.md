@@ -10,7 +10,7 @@ The civil-service laws, referred to in text, are set forth in Title 5, Governmen
 
 #### Codification
 
-In cl. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of 1923, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631 (the first section of which enacted Title 5, Government Organization and Employees), and of section 1106(a) of act Oct. 28, 1949, ch. 782, title XI, 63 Stat. 972, which provided that references in other laws to the Classification Act of 1923 shall be considered to mean the Classification Act of 1949.
+In cl. (a), “chapter 51 and subchapter III of chapter 53 of title 5” substituted for “the Classification Act of1923, as amended” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631 (the first section of which enacted Title 5, Government Organization and Employees), and of section 1106(a) of act Oct. 28, 1949, ch. 782, title XI, 63 Stat. 972, which provided that references in other laws to the Classification Act of 1923 shall be considered to mean the Classification Act of 1949.
 
 In cl. (b), “subchapter I of chapter 57 of title 5 and section 5731(a) of title 5” substituted for “the Travel Expense Act of 1949 and section 10 of the Act of March 3, 1933 (U.S.C., title 5, sec. 73b)” on authority of Pub. L. 89–554, §7(b), Sept. 6, 1966, 80 Stat. 631, the first section of which enacted Title 5.
 

@@ -4,7 +4,7 @@
 
 #### (1) Petition; process
 
-&emsp;Any person complaining of any violation of any provision of section 499b of this title by any commission merchant, dealer, or broker may, at any time within nine months after the cause of action accrues, apply to the Secretary by petition, which shall briefly state the facts,whereupon, if, in the opinion of the Secretary, the facts therein contained warrant such action, a copy of the complaint thus made shall be forwarded by the Secretary to the commission merchant, dealer, or broker, who shall be called upon to satisfy the complaint, or to answer it in writing, within a reasonable time to be prescribed by the Secretary.
+&emsp;Any person complaining of any violation of any provision of section 499b of this title by any commission merchant, dealer, or broker may, at any time within nine months after the cause of action accrues, apply to the Secretary by petition, which shall briefly state the facts, whereupon, if, in the opinion of the Secretary, the facts therein contained warrant such action, a copy of the complaint thus made shall be forwarded by the Secretary to the commission merchant, dealer, or broker, who shall be called upon to satisfy the complaint, or to answer it in writing, within a reasonable time to be prescribed by the Secretary.
 
 #### (2) Filing and handling fees
 

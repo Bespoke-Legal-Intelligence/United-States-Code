@@ -8,5 +8,5 @@
 
 #### Short Title
 
-Section 1 of Pub. L. 87–658 provided: “That this Act \[enacting this chapter and amending section 462 of Title 40, Public Buildings, Property, and Works, and section 1492 of this title\] may be cited as the ‘Public Works Acceleration Act’.”
+Section 1 of Pub. L. 87–658 provided: “That this Act \[enacting this chapter and amending section 462 of former Title 40, Public Buildings, Property, and Works, and section 1492 of this title\] may be cited as the ‘Public Works Acceleration Act’.”
 

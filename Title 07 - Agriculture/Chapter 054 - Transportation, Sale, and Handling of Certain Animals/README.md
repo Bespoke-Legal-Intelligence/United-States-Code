@@ -44,7 +44,7 @@
 | [2154\.](%C2%A7%2002154%20-%20Effective%20dates.md) | Effective dates. |
 | [2155\.](%C2%A7%2002155%20-%20Omitted.md) | Omitted. |
 | [2156\.](%C2%A7%2002156%20-%20Animal%20fighting%20venture%20prohibition.md) | Animal fighting venture prohibition. |
-| (a) | Sponsoring or exhibiting animal in any fighting venture. |
+| (a) | Sponsoring or exhibiting an animal in an animal fighting venture. |
 | (b) | Buying, selling, delivering, or transporting animals for participation in animal fighting venture. |
 | (c) | Use of Postal Service or other interstate instrumentality for promoting or furthering animal fighting venture. |
 | (d) | Violation of State law. |

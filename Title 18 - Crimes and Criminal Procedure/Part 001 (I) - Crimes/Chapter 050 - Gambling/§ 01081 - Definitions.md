@@ -20,7 +20,7 @@ Section 4472 of the Internal Revenue Code of 1986, referred to in text, is class
 
 #### Amendments
 
-1994—Pub. L. 103–322, in definition of “gambling ship”, inserted at end “Such term does not include a vessel with respect to gambling aboard such vessel beyond the territorial waters of the United States during a covered voyage (as defined in section 4472 of the Internal Revenue Code of 1986 as in effect on January 1, 1994).”
+1994—Pub. L. 103–322, in definition of “gambling ship”, inserted at end “Such term does not include avessel with respect to gambling aboard such vessel beyond the territorial waters of the United States during a covered voyage (as defined in section 4472 of the Internal Revenue Code of 1986 as in effect on January 1, 1994).”
 
 1961—Pub. L. 87–216 inserted definition of “wire communication facility”.
 

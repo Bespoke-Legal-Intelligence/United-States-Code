@@ -24,7 +24,7 @@ Section 5 of the Inspector General Act of 1978, referred to in text, is section 
 
 #### Amendments
 
-1999—Pub. L. 106–168, §110(b)(1), in introductory provisions, substituted “Inspector General” for “Board” and “1 month (or such shorter length of time as the Inspector General may specify)” for “sixty days” and substituted concluding provisions for former concluding provisions which read as follows: “Upon approval of a report submitted under the first sentence of this section, the information in such report shall be included in the next semiannual report required under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).”
+1999—Pub. L. 106–168, §110(b)(1), in introductory provisions, substituted “Inspector General” for “Board” and“1 month (or such shorter length of time as the Inspector General may specify)” for “sixty days” and substituted concluding provisions for former concluding provisions which read as follows: “Upon approval of a report submitted under the first sentence of this section, the information in such report shall be included in the next semiannual report required under section 5 of the Inspector General Act of 1978 (5 U.S.C. App.).”
 
 Par. (5). Pub. L. 106–168, §107(c), added par. (5). Former par. (5) redesignated (6).
 

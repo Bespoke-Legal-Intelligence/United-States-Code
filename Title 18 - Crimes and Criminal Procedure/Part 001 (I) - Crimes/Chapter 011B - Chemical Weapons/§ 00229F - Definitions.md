@@ -70,7 +70,7 @@ In general.—The term “toxic chemical” means any chemical which through its
 
 &emsp;&emsp;(B)
 
-List of toxic chemicals.—Toxic chemicals which have been identified for theapplication of verification measures under Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
+List of toxic chemicals.—Toxic chemicals which have been identified for the application of verification measures under Article VI of the Convention are listed in schedules contained in the Annex on Chemicals of the Chemical Weapons Convention.
 
 &emsp;(9)
 

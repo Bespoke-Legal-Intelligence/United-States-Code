@@ -80,7 +80,7 @@ Formula.—Not later than February 1 of each year, the Secretary shall apportion
 
 &emsp;&emsp;&emsp;(ii) 50 percent shall be apportioned, such that each such designated recipient receives a grant in an amount equal to the ratio between—
 
-&emsp;&emsp;&emsp;&emsp;(I) the number of bus passenger miles (as that term is defined in section 5336(c)) of the eligible project of the designated recipient, weighted by severity of nonattainment of the area in whichthe eligible project is located, as provided in paragraph (2); and
+&emsp;&emsp;&emsp;&emsp;(I) the number of bus passenger miles (as that term is defined in section 5336(c)) of the eligible project of the designated recipient, weighted by severity of nonattainment of the area in which the eligible project is located, as provided in paragraph (2); and
 
 &emsp;&emsp;&emsp;&emsp;(II) the total number of bus passenger miles of all eligible projects in areas with a population of at least 1,000,000 funded under this section, weighted by severity of nonattainment of all areas in which those eligible projects are located, as provided in paragraph (2); and
 
@@ -136,7 +136,7 @@ In general.—For purposes of paragraph (1), subject to subparagraph (B) of this
 
 &emsp;&emsp;&emsp;&emsp;(I) an extreme ozone nonattainment area under subpart 2 of part D of title I of the Clean Air Act (42 U.S.C. 7511 et seq.); or
 
-&emsp;&emsp;&emsp;&emsp;(II) an extreme carbon monoxide nonattainment area under subpart 3 of part D of title I of the Clean Air Act (42 U.S.C. 7512 et seq.).
+&emsp;&emsp;&emsp;&emsp;(II) an extreme carbon monoxide nonattainment area under subpart 3 of partD of title I of the Clean Air Act (42 U.S.C. 7512 et seq.).
 
 &emsp;&emsp;(B)
 

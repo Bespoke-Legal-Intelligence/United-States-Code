@@ -26,7 +26,3 @@ Amendment by Pub. L. 104–193 effective July 1, 1997, with transition rules rel
 
 Section 209(b) of Pub. L. 90–248 provided that: “The amendment made by subsection (a) \[enacting this section\] shall apply with respect to expenditures made after December 31, 1967.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in title 40 App. section 214.
-

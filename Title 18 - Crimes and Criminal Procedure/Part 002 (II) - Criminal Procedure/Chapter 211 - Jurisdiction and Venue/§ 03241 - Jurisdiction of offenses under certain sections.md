@@ -1,8 +1,8 @@
 ### §3241. Jurisdiction of offenses under certain sections
 
-The United States District Court for the Canal Zone and the District Court of the Virgin Islands shall have jurisdiction of offenses under the laws of the United States, not locally inapplicable, committed within the territorial jurisdiction of such courts, and jurisdiction, concurrently with the district courts of the United States, of offenses against the laws of the United States committed upon the high seas.
+The District Court of the Virgin Islands shall have jurisdiction of offenses under the laws of the United States, not locally inapplicable, committed within the territorial jurisdiction of such courts, and jurisdiction, concurrently with the district courts of the United States, of offenses against the laws of the United States committed upon the high seas.
 
-(June 25, 1948, ch. 645, 62 Stat. 827; Pub. L. 85–508, §12(i), July 7, 1958, 72 Stat. 348.)
+(June 25, 1948, ch. 645, 62 Stat. 827; Pub. L. 85–508, §12(i), July 7, 1958, 72 Stat. 348; Pub. L. 107–273, div. B, title IV, §4004(e), Nov. 2, 2002, 116 Stat. 1812.)
 
 #### Historical and Revision Notes
 
@@ -20,13 +20,11 @@ Definition of United States in section 39 of title 18, U.S.C., 1940 ed., is inco
 
 #### Amendments
 
+2002—Pub. L. 107–273 struck out “United States District Court for the Canal Zone and the” after “The”.
+
 1958—Pub. L. 85–508 struck out provisions which related to the District Court for the Territory of Alaska. See section 81A of Title 28, Judiciary and Judicial Procedure, which establishes a United States District Court for the State of Alaska.
 
 #### Effective Date of 1958 Amendment
 
 Amendment by Pub. L. 85–508 effective Jan. 3, 1959, on admission of Alaska into the Union pursuant to Proc. No. 3269, Jan. 3, 1959, 24 F.R. 81, 73 Stat. c16, as required by sections 1 and 8(c) of Pub. L. 85–508, see notes set out under section 81A of Title 28, Judiciary and Judicial Procedure, and preceding former section 21 of Title 48, Territories and Insular Possessions.
-
-#### Termination of United States District Court for the District of the Canal Zone
-
-For termination of the United States District Court for the District of the Canal Zone at end of the “transition period”, being the 30 month period beginning Oct. 1, 1979, and ending midnight Mar. 31, 1982, see Paragraph 5 of Article XI of the Panama Canal Treaty of 1977 and sections 2101 and 2201 to 2203 of Pub. L. 96–70, title II, Sept. 27, 1979, 93 Stat. 493, formerly classified to sections 3831 and 3841 to 3843, respectively, of Title 22, Foreign Relations and Intercourse.
 

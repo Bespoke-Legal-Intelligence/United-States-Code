@@ -28,7 +28,7 @@ Pub. L. 86–3, Mar. 18, 1959, 73 Stat. 4, as amended, provided:
 
 “
 
-Sec. 2. \[Territory.\] The State of Hawaii shall consist of all the islands, together with their appurtenant reefs and territorial waters, included in the Territory of Hawaii on the date of enactment of this Act \[March 18, 1959\], except the atoll known as Palmyra Island, together with its appurtenant reefs and territorial waters, but said State shall not be deemed to include the Midway Islands, Johnston Island, Sand Island (offshorefrom Johnston Island), or Kingman Reef, together with their appurtenant reefs and territorial waters.
+Sec. 2. \[Territory.\] The State of Hawaii shall consist of all the islands, together with their appurtenant reefs and territorial waters, included in the Territory of Hawaii on the date of enactment of this Act \[March 18, 1959\], except the atoll known as Palmyra Island, together with its appurtenant reefs and territorial waters, but said State shall not be deemed to include the Midway Islands, Johnston Island, Sand Island (offshore from Johnston Island), or Kingman Reef, together with their appurtenant reefs and territorial waters.
 
 “
 
@@ -64,7 +64,7 @@ Sec. 6. \[Certification by President; proclamation for elections.\] As soon as p
 
 “
 
-Sec. 7. \[Election of officers; date; propositions; certification of voting results; proclamation by President.\] (a) The proclamation of the Governor of Hawaii required by section 6 shall provide for the holding of a primary election and a general election and at such elections the officers required to be elected as provided in section 6 shall be chosen by the people. Such elections shall be held, and the qualifications of voters thereat shall be, as prescribed by the constitution of the proposed State of Hawaii for the election of members of the proposed State legislature. The returns thereof shall be made and certified in such manner as the constitution of the proposed State of Hawaii may prescribe. The Governor of Hawaii shall certify the results of said elections, as so ascertained, to the President of the United States.
+Sec. 7. \[Election of officers; date; propositions; certification of voting results; proclamation by President.\] (a) The proclamation of the Governor of Hawaii required by section 6 shall provide for the holding of a primary election and a general election and at such elections the officers required to be elected as provided in section 6 shall be chosen by the people. Such elections shall be held, and the qualifications of votersthereat shall be, as prescribed by the constitution of the proposed State of Hawaii for the election of members of the proposed State legislature. The returns thereof shall be made and certified in such manner as the constitution of the proposed State of Hawaii may prescribe. The Governor of Hawaii shall certify the results of said elections, as so ascertained, to the President of the United States.
 
 “(b) At an election designated by proclamation of the Governor of Hawaii, which may be either the primary or the general election held pursuant to subsection (a) of this section, or a Territorial general election, or a special election, there shall be submitted to the electors qualified to vote in said election, for adoption or rejection, the following propositions:
 
@@ -150,7 +150,7 @@ Sec. 14. \[Judicial and criminal provisions; amendment.\] Effective upon the adm
 
 “
 
-Sec. 15. \[Laws in effect.\] All Territorial laws in force in the Territory of Hawaii at the time of its admission into the Union shall continue in force in the State of Hawaii, except as modified or changed by this Act or by the constitution of the State, and shall be subject to repeal or amendment by the Legislature of the State of Hawaii, except as provided in section 4 of this Act with respect to the Hawaiian Homes Commission Act, 1920, as amended; and the laws of the United States shall have the same force and effect within the said State as elsewhere within the United States: <i>Provided</i>, That, except as herein otherwise provided, a Territorial law enacted by the Congress shall be terminated two years after the date of admission of the State of Hawaii into the Union or upon the effective date of any law enacted by the State of Hawaii which amends or repeals it, whichever may occur first. As used in this section, the term ‘Territorial laws’ includes (in addition to laws enacted by the Territorial Legislature of Hawaii) all laws or parts thereof enacted by the Congress the validity of which is dependent solely upon the authority of theCongress to provide for the government of Hawaii prior to its admission into the Union, and the term ‘laws of the United States’ includes all laws or parts thereof enacted by the Congress that (1) apply to or within Hawaii at the time of its admission into the Union, (2) are not ‘Territorial laws’ as defined in this paragraph, and (3) are not in conflict with any other provision of this Act.
+Sec. 15. \[Laws in effect.\] All Territorial laws in force in the Territory of Hawaii at the time of its admission into the Union shall continue in force in the State of Hawaii, except as modified or changed by this Act or by the constitution of the State, and shall be subject to repeal or amendment by the Legislature of the State of Hawaii, except as provided in section 4 of this Act with respect to the Hawaiian Homes Commission Act, 1920, as amended; and the laws of the United States shall have the same force and effect within the said State as elsewhere within the United States: <i>Provided</i>, That, except as herein otherwise provided, a Territorial law enacted by the Congress shall be terminated two years after the date of admission of the State of Hawaii into the Union or upon the effective date of any law enacted by the State of Hawaii which amends or repeals it, whichever may occur first. As used in this section, the term ‘Territorial laws’ includes (in addition to laws enacted by the Territorial Legislature of Hawaii) all laws or parts thereof enacted by the Congress the validity of which is dependent solely upon the authority of the Congress to provide for the government of Hawaii prior to its admission into the Union, and the term ‘laws of the United States’ includes all laws or parts thereof enacted by the Congress that (1) apply to or within Hawaii at the time of its admission into the Union, (2) arenot ‘Territorial laws’ as defined in this paragraph, and (3) are not in conflict with any other provision of this Act.
 
 “
 
@@ -332,7 +332,7 @@ Available Lands.—
 
 &emsp;“(1)
 
-In general.—Subject to paragraphs (2) and (3), the Secretary shall require that lands conveyed tothe Department of Hawaiian Home Lands under this Act \[title\] shall have the status of available lands under the Hawaiian Homes Commission Act.
+In general.—Subject to paragraphs (2) and (3), the Secretary shall require that lands conveyed to the Department of Hawaiian Home Lands under this Act \[title\] shall have the status of available lands under the Hawaiian Homes Commission Act.
 
 &emsp;“(2)
 
@@ -446,7 +446,7 @@ Approval or Disapproval.—
 
 &emsp;“(1)
 
-In general.—Not later than 120 days after receiving the information required to be submitted by the Chairman pursuant to subsection (a), the Secretary shall approve or disapprove the proposed exchange.
+In general.—Not later than 120 days after receiving the information required to be submitted bythe Chairman pursuant to subsection (a), the Secretary shall approve or disapprove the proposed exchange.
 
 &emsp;“(2)
 
@@ -560,7 +560,7 @@ Pub. L. 105–21, June 27, 1997, 111 Stat. 235, provided: “That, as required b
 
 &emsp;“(2) Act 37 of the Session Laws of Hawaii, 1994.”
 
-Pub. L. 102–398, Oct. 6, 1992, 106 Stat. 1953, provided: “That, as required by section 4 of the Act entitled ‘An Act to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 (73 Stat. 4) \[set out as a note above\], the United States hereby consents to the following amendments to the Hawaiian Homes Commission Act, 1920, as amended, adopted by the State of Hawaii in the manner required for State legislation:
+Pub. L. 102–398, Oct. 6, 1992, 106 Stat. 1953, provided: “That, as required by section 4 of the Act entitled ‘An Act to provide for the admission of the State of Hawaii into the Union’, approved March 18, 1959 (73 Stat. 4) \[setout as a note above\], the United States hereby consents to the following amendments to the Hawaiian Homes Commission Act, 1920, as amended, adopted by the State of Hawaii in the manner required for State legislation:
 
 &emsp;“Act 16 of Session Laws of Hawaii, 1986;
 
@@ -670,9 +670,9 @@ Sec. 13. \[Criminal Code; amendments.\] (a) Title 18, United States Code, sectio
 
 Sec. 14. \[Education.\] (a)(1) Subsection (a) of section 103 of the National Defense Education Act of 1958, relating to definition of State, is amended by striking out ‘Hawaii,’ each time it appears therein.
 
-“(2)(A) Paragraph (2), and subparagraph (C) of paragraph (3), of subsection (a) of section 302 of such Act, relating to allotments for science, mathematics, and foreign language instruction equipment, are eachamended by striking out ‘continental United States’ each time it appears therein and inserting in lieu thereof ‘United States’.
+“(2)(A) Paragraph (2), and subparagraph (C) of paragraph (3), of subsection (a) of section 302 of such Act, relating to allotments for science, mathematics, and foreign language instruction equipment, are each amended by striking out ‘continental United States’ each time it appears therein and inserting in lieu thereof ‘United States’.
 
-“(B) Effective in the case of promulgations of allotment ratios made, under section 302 of such Act, after enactment of this Act and before satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska, subparagraph B of such paragraph (3) is amended to read:
+“(B) Effective in the case of promulgations of allotment ratios made, under section 302 of such Act, afterenactment of this Act and before satisfactory data are available from the Department of Commerce for a full year on the per capita income of Alaska, subparagraph B of such paragraph (3) is amended to read:
 
 “ ‘(B) The term “United States” means the continental United States (excluding Alaska and Hawaii)’.
 
@@ -728,7 +728,7 @@ Sec. 17. \[Highways.\] (a) The definition of the term ‘State’ in title 23, U
 
 “(d) Notwithstanding any other provision of law, for the purpose of expediting the construction, reconstruction, or improvement, inclusive of necessary bridges and tunnels, of the Interstate System, including extensions thereof through urban areas, designated in accordance with section 103(d) of title 23, United States Code, as amended by section 1 of this Act, the sum of $12,375,000 shall be apportioned to the State of Hawaii out of the sum authorized to be appropriated for the Interstate System for the fiscal year ending June 30, 1962, under the provisions of section 108(b) of the Federal-Aid Highway Act of 1956 (70 Stat. 374), as amended by section 7(a) of the Federal-Aid Highway Act of 1958 (72 Stat. 89), such apportionment to be made at the same time such funds are apportioned to other States. The total sum to be apportioned under section 104(b)(5) of title 23, United States Code, for the fiscal year ending June 30, 1962, among the States other than Hawaii, shall be reduced by said sum apportioned to the State of Hawaii under this section. The Secretary of Commerce shall apportion funds to the State of Hawaii for the Interstate System for the fiscal year 1963 and subsequent fiscal years pursuant to the provisions of said section 104(b)(5) of title 23, United States Code, and, in preparing the estimates required by that section, he shall take into account the apportionment made to the State of Hawaii under this section.
 
-“(e) Section 127 of title 23, United States Code, is amended by adding at the end thereof the following sentence: ‘With respect to the State of Hawaii, laws orregulations in effect on February 1, 1960, shall be applicable for the purposes of this section in lieu of those in effect on July 1, 1956.’
+“(e) Section 127 of title 23, United States Code, is amended by adding at the end thereof the following sentence: ‘With respect to the State of Hawaii, laws or regulations in effect on February 1, 1960, shall be applicable for the purposes of this section in lieu of those in effect on July 1, 1956.’
 
 “
 
@@ -824,7 +824,7 @@ Sec. 26. \[Davis-Bacon Act; amendment.\] Section 1 of the Act of March 3, 1931 (
 
 Sec. 27. \[Federal Property and Administrative Services Act; amendment.\] The Federal Property and Administrative Services Act of 1949, as amended, is further amended by—
 
-&emsp;“(a) striking out the words ‘continental United States (including Alaska), Hawaii,’ in section 3(f) and inserting in lieu thereof the words ‘States of the Union, the District of Columbia,’;
+&emsp;“(a) striking out the words ‘continental United States (including Alaska), Hawaii,’ in section 3(f) andinserting in lieu thereof the words ‘States of the Union, the District of Columbia,’;
 
 &emsp;“(b) striking out the words ‘continental United States, its Territories, and possessions’ in section 211(j) and inserting in lieu thereof the words ‘States of the Union, the District of Columbia, Puerto Rico, and the possessions of the United States’;
 
@@ -900,7 +900,7 @@ Sec. 32. \[Congressional Record.\] Section 73 of the Act of January 12, 1895 (28
 
 “
 
-Sec. 33. \[Federal Register.\] Section 8 of the Federal Register Act (49 Stat. 502), as amended, is further amended by striking out the words ‘continental UnitedStates (including Alaska)’ and inserting in lieu thereof the words ‘States of the Union and the District of Columbia’ \[Repealed by Pub. L. 90–620, §3, Oct. 22, 1968, 82 Stat. 1310\].
+Sec. 33. \[Federal Register.\] Section 8 of the Federal Register Act (49 Stat. 502), as amended, is further amended by striking out the words ‘continental United States (including Alaska)’ and inserting in lieu thereof the words ‘States of the Union and the District of Columbia’ \[Repealed by Pub. L. 90–620, §3, Oct. 22, 1968, 82 Stat. 1310\].
 
 “
 
@@ -1024,7 +1024,7 @@ NOW, THEREFORE, I, DWIGHT D. EISENHOWER, President of the United States of Ameri
 
 IN WITNESS WHEREOF, I have hereunto set my hand and caused the Seal of the United States of America to be affixed.
 
-&nbsp;DONE at the City of Washington at four p.m. E.D.T. on this twenty-first day of August in the year of our Lord nineteen hundred and fifty-nine, andof the Independence of the United States of America the one hundred and eighty-fourth.
+&nbsp;DONE at the City of Washington at four p.m. E.D.T. on this twenty-first day of August in the year of our Lord nineteen hundred and fifty-nine, and of the Independence of the United States of America the one hundred and eighty-fourth.
 
 Dwight D. Eisenhower.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

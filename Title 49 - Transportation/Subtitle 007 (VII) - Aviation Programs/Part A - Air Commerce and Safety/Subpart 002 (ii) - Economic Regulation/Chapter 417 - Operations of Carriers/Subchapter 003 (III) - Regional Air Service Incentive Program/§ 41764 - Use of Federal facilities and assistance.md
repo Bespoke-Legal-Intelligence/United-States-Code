@@ -2,7 +2,7 @@
 
 (a)
 
-Use of Federal Facilities.—To permit the Secretary of Transportation to make use ofsuch expert advice and services as the Secretary may require in carrying out this subchapter, the Secretary may use available services and facilities of other agencies and instrumentalities of the United States Government—
+Use of Federal Facilities.—To permit the Secretary of Transportation to make use of such expert advice and services as the Secretary may require in carrying out this subchapter, the Secretary may use available services and facilities of other agencies and instrumentalities of the United States Government—
 
 &emsp;(1) with the consent of the appropriate Federal officials; and
 

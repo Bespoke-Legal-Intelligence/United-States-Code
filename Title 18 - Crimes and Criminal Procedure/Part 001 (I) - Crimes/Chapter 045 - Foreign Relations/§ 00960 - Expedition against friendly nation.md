@@ -18,5 +18,5 @@ Reference to territory or possessions of the United States was omitted as covere
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 959, 1717 of this title; title 8 section 1227; title 22 sections 461, 465.
+This section is referred to in sections 959, 1717 of this title; title 8 section 1227; title 22 sections 461, 465.
 

@@ -18,7 +18,7 @@
 
 &emsp;&emsp;&emsp;(iv) the penalties that may be imposed upon employees for drug abuse violations;
 
-&emsp;&emsp;(C) making it a requirement that each employee to be engaged in the performance of such contract be given a copy of the statement required by subparagraph (A);
+&emsp;&emsp;(C) making it a requirement that each employee to be engaged in the performance ofsuch contract be given a copy of the statement required by subparagraph (A);
 
 &emsp;&emsp;(D) notifying the employee in the statement required by subparagraph (A), that as a condition of employment on such contract, the employee will—
 

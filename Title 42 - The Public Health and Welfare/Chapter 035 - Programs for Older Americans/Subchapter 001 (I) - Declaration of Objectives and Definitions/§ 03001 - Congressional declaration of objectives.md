@@ -186,7 +186,7 @@ Pub. L. 89–73, title III, §371, as added Pub. L. 106–501, title III, §316(
 
 Pub. L. 89–73, title V, §501, as added Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267, provided that: “This title \[enacting subchapter IX of this chapter\] may be cited as the ‘Older American Community Service Employment Act’.”
 
-Pub. L. 89–73, title V, §501, formerly title IX, §901, as added by Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and renumbered by Pub. L. 95–478, title I,§105(a), Oct. 18, 1978, 92 Stat. 1547, provided that title V of Pub. L. 89–73, enacting former subchapter IX of this chapter, could be cited as the “Older American Community Service Employment Act”, prior to the general amendment of title V of Pub. L. 89–73 by Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267.
+Pub. L. 89–73, title V, §501, formerly title IX, §901, as added by Pub. L. 94–135, title I, §113(a), Nov. 28, 1975, 89 Stat. 720, and renumbered by Pub. L. 95–478, title I, §105(a), Oct. 18, 1978, 92 Stat. 1547, provided that title V of Pub. L. 89–73, enacting former subchapter IX of this chapter, could be cited as the “Older American Community Service Employment Act”, prior to the general amendment of title V of Pub. L. 89–73 by Pub. L. 106–501, title V, §501, Nov. 13, 2000, 114 Stat. 2267.
 
 #### Regulations
 
@@ -202,7 +202,7 @@ Section 212 of Pub. L. 102–375 provided that:
 
 “(a)
 
-Arrangement for Study Committee.—The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c) to conduct a study through the Institute of Medicine of the National Academy of Sciences on the quality of board and care facilities for older individuals (as defined in section 102 \[42 U.S.C. 3002\] of the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.)) and the disabled.
+Arrangement for Study Committee.—The Secretary of Health and Human Services shall enter into an arrangement, in accordance with subsection (d), to establish a study committee described in subsection (c) to conduct a study through the Institute of Medicine ofthe National Academy of Sciences on the quality of board and care facilities for older individuals (as defined in section 102 \[42 U.S.C. 3002\] of the Older Americans Act of 1965 (42 U.S.C. 3001 et seq.)) and the disabled.
 
 “(b)
 
@@ -310,7 +310,7 @@ Scope of Study.—The study shall include—
 
 &emsp;“(1) an examination of existing quality, health and safety requirements for home care services and the enforcement of such requirements for their adequacy, effectiveness, and appropriateness;
 
-&emsp;“(2) an examination of, and recommendations with respect to, the appropriate role of Federal, State, andlocal governments in ensuring the health and safety of patients and clients of home care services; and
+&emsp;“(2) an examination of, and recommendations with respect to, the appropriate role of Federal, State, and local governments in ensuring the health and safety of patients and clients of home care services; and
 
 &emsp;“(3) specific recommendations to the Congress and the Secretary, not later than 20 months after the date of the enactment of this Act \[Sept. 30, 1992\], concerning the establishment of minimum national standards for the quality, health, and safety of patients and clients of such services and the enforcement of such standards.
 
@@ -330,7 +330,7 @@ Composition of Study Committee.—The study committee shall be composed of membe
 
 “(d)
 
-Use of Institute of Medicine.—The Secretary shall request the National Academy of Sciences, through the Institute of Medicine, to establish, appoint, and provide administrative support for the committee under an arrangement under which the actual expenses incurred by the Academy in carrying out such functions will be paid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such arrangement with the Academy.
+Use of Institute of Medicine.—The Secretary shall request the National Academy of Sciences, through the Institute of Medicine, to establish, appoint, and provide administrative support for the committee under an arrangement under which the actualexpenses incurred by the Academy in carrying out such functions will be paid by the Secretary. If the National Academy of Sciences is willing to do so, the Secretary shall enter into such arrangement with the Academy.
 
 “(e)
 
@@ -566,7 +566,7 @@ Administration.—In administering this section, the Secretary shall—
 
 “(b)
 
-Duties.—The Secretary shall, in carrying out the Secretary's responsibilities and functions underthis section, and as part of the White House Conference on Aging, ensure that—
+Duties.—The Secretary shall, in carrying out the Secretary's responsibilities and functions under this section, and as part of the White House Conference on Aging, ensure that—
 
 &emsp;“(1) the agenda prepared under subsection (a)(3) for the Conference is published in the Federal Register not later than 30 days after such agenda is approved by the Policy Committee, and the Secretary may republish such agenda together with the recommendations of the Secretary regarding such agenda, and
 

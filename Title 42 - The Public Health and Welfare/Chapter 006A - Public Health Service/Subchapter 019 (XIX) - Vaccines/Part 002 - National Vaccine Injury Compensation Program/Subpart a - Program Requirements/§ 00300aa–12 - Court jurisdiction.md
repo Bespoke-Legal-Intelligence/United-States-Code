@@ -106,7 +106,7 @@ The United States Court of Federal Claims and the United States Court of Federal
 
 &emsp;(C) remand the petition to the special master for further action in accordance with the court's direction.
 
-> The court shall complete its action on a petition within 120 days of the filing of a response under paragraph (1) excluding any days the petition is before a special master as a result of a remand under subparagraph (C). The court may allow not more than 90 days for remands under subparagraph (C).
+> The court shall complete its action on a petition within 120 days of the filing of a response under paragraph (1) excluding any days the petition isbefore a special master as a result of a remand under subparagraph (C). The court may allow not more than 90 days for remands under subparagraph (C).
 
 (3) In the absence of a motion under paragraph (1) respecting the special master's decision or if the United States Court of Federal Claims takes the action described in paragraph (2)(A) with respect to the special master's decision, the clerk of the United States Court of Federal Claims shall immediately enter judgment in accordance with the special master's decision.
 
@@ -154,7 +154,7 @@ Pub. L. 102–168, §201(d)(1), substituted “or the petitioner may choose unde
 
 Subsec. (g). Pub. L. 101–502, §5(b)(2), added subsec. (g).
 
-1989—Subsec. (a). Pub. L. 101–239, §6601(d), substituted “and the United States Claims Court special mastersshall, in accordance with this section, have jurisdiction” for “shall have jurisdiction (1)”, “. The United States Claims Court may issue” for “, and (2) to issue”, and “deems” for “deem”.
+1989—Subsec. (a). Pub. L. 101–239, §6601(d), substituted “and the United States Claims Court special masters shall, in accordance with this section, have jurisdiction” for “shall have jurisdiction (1)”, “. The United States Claims Court may issue” for “, and (2) to issue”, and “deems” for “deem”.
 
 Subsec. (b)(1). Pub. L. 101–239, §6601(f), substituted “In all proceedings brought by the filing of a petition under section 300aa–11(b) of this title, the Secretary shall be named as the respondent, shall participate, and shall be represented in accordance with section 518(a) of title 28.” for “The Secretary shall be named as the respondent in all proceedings brought by the filing of a petition under section 300aa–11(b) of this title. Except as provided in paragraph (2), no other person may intervene in any such proceeding.”
 
@@ -232,7 +232,7 @@ For termination, effective May 15, 2000, of provisions in subsec. (c)(6)(E) of t
 
 #### Review by 3-Judge Panel
 
-Section 322(c) of Pub. L. 99–660, as added by Pub. L. 101–502, §5(g)(2), Nov. 3, 1990, 104 Stat. 1288, and amended by Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, provided that: “If the review authorized by section 2112(f) \[subsec. (f) of this section\] is held invalid because the judgment of the United States Court of Federal Claims being reviewed did not arise from a case or controversy under Article III of the Constitution, such judgment shall be reviewed by a 3-judge panel of the United States Court of Federal Claims. Such panelshall not include the judge who participated in such judgment.”
+Section 322(c) of Pub. L. 99–660, as added by Pub. L. 101–502, §5(g)(2), Nov. 3, 1990, 104 Stat. 1288, and amended by Pub. L. 102–572, title IX, §902(b)(1), Oct. 29, 1992, 106 Stat. 4516, provided that: “If the review authorized by section 2112(f) \[subsec. (f) of this section\] is held invalid because the judgment of the United States Court of Federal Claims being reviewed did not arise from a case or controversy under Article III of the Constitution, such judgment shall be reviewed by a 3-judge panel of the United States Court of Federal Claims. Such panel shall not include the judge who participated in such judgment.”
 
 \[Enactment of section 322(c) of Pub. L. 99–660 by section 5(g)(2) of Pub. L. 101–502, set out above, effective Nov. 14, 1986, see section 5(h) of Pub. L. 101–502, set out as an Effective Date of 1990 Amendment note under section 300aa–11 of this title.\]
 

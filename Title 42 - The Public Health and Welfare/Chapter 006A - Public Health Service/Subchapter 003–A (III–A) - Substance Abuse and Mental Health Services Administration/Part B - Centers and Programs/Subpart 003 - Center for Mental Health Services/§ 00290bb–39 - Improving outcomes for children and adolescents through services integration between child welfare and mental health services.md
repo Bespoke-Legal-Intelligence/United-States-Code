@@ -24,7 +24,7 @@ With respect to a grant, contract or cooperative agreement awarded under this se
 
 &emsp;&emsp;(C) provide assurances that—
 
-&emsp;&emsp;&emsp;(i) persons providing services under the grant, contract or cooperative agreementare adequately trained to provide such services; and
+&emsp;&emsp;&emsp;(i) persons providing services under the grant, contract or cooperative agreement are adequately trained to provide such services; and
 
 &emsp;&emsp;&emsp;(ii) the services will be provided in accordance with subsection (d) of this section.
 

@@ -14,5 +14,5 @@ Ex. Ord. No. 10504, Dec. 1, 1953, 18 F.R. 7667, which provided for the transfer 
 
 #### Executive Order No. 11871
 
-Ex. Ord. No. 11871, July 18, 1975, 40 F.R. 30915, which transferred the functions of ACTION Agency relating to the Service Corps of Retired Executives and Active Corps of Executives to the Small Business Administration, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
+Ex. Ord. No. 11871, July 18, 1975, 40 F.R. 30915, which transferred the functions of ACTION Agency relatingto the Service Corps of Retired Executives and Active Corps of Executives to the Small Business Administration, was revoked by Ex. Ord. No. 12553, Feb. 25, 1986, 51 F.R. 7237.
 

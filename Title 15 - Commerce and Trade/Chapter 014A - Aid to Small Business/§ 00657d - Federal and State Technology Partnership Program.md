@@ -56,7 +56,7 @@ The Administrator shall establish a program to be known as the Federal and State
 
 &emsp;&emsp;(C) technology deployment and diffusion benefiting small business concerns;
 
-&emsp;&emsp;(D) the technological capabilities of small business concerns through the establishmentor operation of consortia comprised of entities, organizations, or individuals, including—
+&emsp;&emsp;(D) the technological capabilities of small business concerns through the establishment or operation of consortia comprised of entities, organizations, or individuals, including—
 
 &emsp;&emsp;&emsp;(i) State and local development agencies and entities;
 
@@ -82,7 +82,7 @@ The Administrator shall establish a program to be known as the Federal and State
 
 &emsp;In making awards or entering into cooperative agreements under this section, the Administrator and the SBIR program managers referred to in paragraph (1)—
 
-&emsp;&emsp;(A) may only consider proposals by applicants that intend to use a portion of the Federal assistance provided under this section to provide outreach, financial support, or technical assistance to technology-based small business concerns participating in or interested in participating in the SBIR program; and
+&emsp;&emsp;(A) may only consider proposals by applicants that intend to use a portion of the Federal assistance provided under this section to provide outreach, financial support,or technical assistance to technology-based small business concerns participating in or interested in participating in the SBIR program; and
 
 &emsp;&emsp;(B) shall consider, at a minimum—
 
@@ -142,7 +142,7 @@ In carrying out the FAST program under this section, the Administrator shall coo
 
 &emsp;&emsp;&emsp;(i) 50 cents for each Federal dollar, in the case of a recipient that will serve small business concerns located in one of the 18 States receiving the fewest SBIR first phase awards (as described in section 638(e)(4)(A) of this title);
 
-&emsp;&emsp;&emsp;(ii) except as provided in subparagraph (B), 1 dollar for each Federal dollar, in thecase of a recipient that will serve small business concerns located in one of the 16 States receiving the greatest number of such SBIR first phase awards; and
+&emsp;&emsp;&emsp;(ii) except as provided in subparagraph (B), 1 dollar for each Federal dollar, in the case of a recipient that will serve small business concerns located in one of the 16 States receiving the greatest number of such SBIR first phase awards; and
 
 &emsp;&emsp;&emsp;(iii) except as provided in subparagraph (B), 75 cents for each Federal dollar, in the case of a recipient that will serve small business concerns located in a State that is not described in clause (i) or (ii) that is receiving such SBIR first phase awards.
 
@@ -226,7 +226,7 @@ A prior section 2\[34\] of Pub. L. 85–536 was renumbered section 2\[36\] and i
 
 2001—Subsec. (c)(2)(B)(vi). Pub. L. 107–50, §8(a), added cl. (vi).
 
-Subsec. (c)(4). Pub. L. 107–50, §8(b), inserted at end “The Administrator shall promulgate regulations establishing standards for the consideration of proposalsunder paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B).”
+Subsec. (c)(4). Pub. L. 107–50, §8(b), inserted at end “The Administrator shall promulgate regulations establishing standards for the consideration of proposals under paragraph (2), including standards regarding each of the considerations identified in paragraph (2)(B).”
 
 #### Findings
 

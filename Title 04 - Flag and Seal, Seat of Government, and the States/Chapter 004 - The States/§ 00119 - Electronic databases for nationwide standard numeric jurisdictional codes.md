@@ -18,7 +18,7 @@ Format.—(A) Such electronic database, whether provided by the State or the des
 
 (b)
 
-Notice; Updates.—A State or designated database provider that provides or maintains anelectronic database described in subsection (a) shall provide notice of the availability of the then current electronic database, and any subsequent revisions thereof, by publication in the manner normally employed for the publication of informational tax, charge, or fee notices to taxpayers in such State.
+Notice; Updates.—A State or designated database provider that provides or maintains an electronic database described in subsection (a) shall provide notice of the availability of the then current electronic database, and any subsequent revisions thereof, by publication in the manner normally employed for the publication of informational tax, charge, or fee notices to taxpayers in such State.
 
 (c)
 

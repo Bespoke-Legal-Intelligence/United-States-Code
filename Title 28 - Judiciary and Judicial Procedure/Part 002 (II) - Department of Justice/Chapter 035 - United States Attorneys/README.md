@@ -17,13 +17,15 @@
 
 #### Amendments
 
-<b>1990</b>—Pub. L. 101–647, title XXXVI, §3626(b), Nov. 29, 1990, 104 Stat. 4965, substituted “Clerical assistants, messengers, and private process servers” for “Clerical assistants and messengers” in item 550.
+1990—Pub. L. 101–647, title XXXVI, §3626(b), Nov. 29, 1990, 104 Stat. 4965, substituted “Clerical assistants, messengers, and private process servers” for “Clerical assistants and messengers” in item 550.
 
-<b>1966</b>—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 617, added chapter 35 and items 541 to 550.
+1966—Pub. L. 89–554, §4(c), Sept. 6, 1966, 80 Stat. 617, added chapter 35 and items 541 to 550.
 
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in title 48 sections 1424b, 1617, 1821.
+
+<i><sup>1</sup></i><i> Another section 540C is set out preceding this section.</i>
 
 
 ---

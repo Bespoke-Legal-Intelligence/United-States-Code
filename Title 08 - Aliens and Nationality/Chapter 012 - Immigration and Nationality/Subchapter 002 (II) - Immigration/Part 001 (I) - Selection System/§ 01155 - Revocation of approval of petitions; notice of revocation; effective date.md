@@ -2,7 +2,7 @@
 
 The Attorney General may, at any time, for what he deems to be good and sufficient cause, revoke the approval of any petition approved by him under section 1154 of this title. Such revocation shall be effective as of the date of approval of any such petition. In no case, however, shall such revocation have effect unless there is mailed to the petitioner's last known address a notice of the revocation and unless notice of the revocation is communicated through the Secretary of State to the beneficiary of the petition before such beneficiary commences his journey to the United States. If notice of revocation is not so given, and the beneficiary applies for admission to the United States, his admissibility shall be determined in the manner provided for by sections 1225 and 1229a of this title.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §205, 66 Stat. 180; Pub. L. 86–363, §5(a), (b), Sept. 22, 1959, 73 Stat. 644, 645; Pub. L. 87–301, §§3, 10, Sept. 26, 1961, 75 Stat. 650, 654; Pub. L. 89–236, §5, Oct. 3, 1965, 79 Stat. 916; Pub. L. 104–208, div. C, title III, §308(g)(3)(A), Sept. 30, 1996, 110 Stat. 3009–622.)
+(June 27, 1952, ch. 477, title II, ch. 1, §205, 66 Stat. 180; Pub. L. 86–363, §5(a), (b), Sept. 22, 1959, 73Stat. 644, 645; Pub. L. 87–301, §§3, 10, Sept. 26, 1961, 75 Stat. 650, 654; Pub. L. 89–236, §5, Oct. 3, 1965, 79 Stat. 916; Pub. L. 104–208, div. C, title III, §308(g)(3)(A), Sept. 30, 1996, 110 Stat. 3009–622.)
 
 #### Amendments
 
@@ -26,7 +26,11 @@ Amendment by Pub. L. 104–208 effective, with certain transitional provisions, 
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in section 1154 of this title.
+This section is referred to in sections 1154, 1183a of this title.
 

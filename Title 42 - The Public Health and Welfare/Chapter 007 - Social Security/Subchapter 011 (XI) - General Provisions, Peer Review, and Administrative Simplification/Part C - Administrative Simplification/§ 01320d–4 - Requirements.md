@@ -34,7 +34,7 @@
 
 #### (B) Special rule for small health plans
 
-&emsp;&emsp;In the case of a small health plan, paragraph (1) shall be applied by substituting “36 months” for “24 months”. For purposes ofthis subsection, the Secretary shall determine the plans that qualify as small health plans.
+&emsp;&emsp;In the case of a small health plan, paragraph (1) shall be applied by substituting “36 months” for “24 months”. For purposes of this subsection, the Secretary shall determine the plans that qualify as small health plans.
 
 #### (2) Compliance with modified standards
 
@@ -60,7 +60,7 @@ In General.—
 
 &emsp;“(1)
 
-Extension.—Subject to paragraph (2), notwithstanding section 1175(b)(1)(A) of the Social Security Act (42 U.S.C. 1320d–4(b)(1)(A)) and section 162.900 of title 45, Code of Federal Regulations, a health care provider, health plan (other than a small health plan), or a health care clearinghouse shall not be considered to be in noncompliance with the applicable requirements of subparts I through R of part 162 of title 45, Code of Federal Regulations, before October 16, 2003.
+Extension.—Subject to paragraph (2), notwithstanding section 1175(b)(1)(A) of the Social Security Act (42 U.S.C. 1320d–4(b)(1)(A)) and section 162.900 of title 45, Code of Federal Regulations, a health care provider, health plan (other than a small healthplan), or a health care clearinghouse shall not be considered to be in noncompliance with the applicable requirements of subparts I through R of part 162 of title 45, Code of Federal Regulations, before October 16, 2003.
 
 &emsp;“(2)
 

@@ -6,7 +6,7 @@ The status of an alien who was inspected and admitted or paroled into the United
 
 #### (b) Record of lawful admission for permanent residence; reduction of preference visas
 
-Upon the approval of an application for adjustment made under subsection (a) of this section, the Attorney General shall record the alien's lawful admission for permanent residence as of the date the order of the Attorney General approving the application for the adjustment of status is made, and the Secretary of State shall reduce by one the number of the preference visas authorized to be issued under sections 1152 and 1153 of this title within the class to which the alien is chargeable for the fiscal year then current.
+Upon the approval of an application for adjustment made under subsection (a) of this section, the Attorney General shall record the alien's lawful admission for permanent residence as of the date the order of the Attorney General approving the application for the adjustment of status is made, and the Secretary of State shall reduce by one the number of the preference visas authorized to be issued under sections 1152 and 1153 of this title within the class to which thealien is chargeable for the fiscal year then current.
 
 #### (c) Alien crewmen, aliens continuing or accepting unauthorized employment, and aliens admitted in transit without visa
 
@@ -142,7 +142,7 @@ An alien who is eligible to receive an immigrant visa under paragraph (1), (2), 
 
 &emsp;(B) any other provision of such section (excluding paragraphs (3), (10)(C), and (10(E)),<sup>5</sup> if the activities rendering the alien inadmissible under the provision were caused by, or were incident to, the victimization described in section 1101(a)(15)(T)(i)(I) of this title.
 
-(2) <sup>4</sup> An alien shall be considered to have failed to maintain continuous physical presence in theUnited States under paragraph (1)(A) if the alien has departed from the United States for any period in excess of 90 days or for any periods in the aggregate exceeding 180 days.
+(2) <sup>4</sup> An alien shall be considered to have failed to maintain continuous physical presence in the United States under paragraph (1)(A) if the alien has departed from the United States for any period in excess of 90 days or for any periods in the aggregate exceeding 180 days.
 
 (3)(A) The total number of aliens whose status may be adjusted under paragraph (1) during any fiscal year may not exceed 5,000.
 
@@ -164,7 +164,7 @@ An alien who is eligible to receive an immigrant visa under paragraph (1), (2), 
 
 (4) Upon the approval of adjustment of status under paragraph (1) or (3), the Attorney General shall record the alien's lawful admission for permanent residence as of the date of such approval.
 
-(June 27, 1952, ch. 477, title II, ch. 5, §245, 66 Stat. 217; Pub. L. 85–700, §1, Aug. 21, 1958, 72 Stat. 699; Pub. L. 86–648, §10, July 14, 1960, 74 Stat. 505; Pub. L. 89–236, §13, Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §6, Oct. 20, 1976, 90 Stat. 2705; Pub. L. 97–116, §5(d)(2), Dec. 29, 1981, 95 Stat. 1614; Pub. L. 99–603, title I, §117, title III, §313(c), Nov. 6, 1986, 100 Stat. 3384, 3438; Pub. L. 99–639, §§2(e), 3(b), 5(a), Nov. 10, 1986, 100 Stat. 3542, 3543; Pub. L. 100–525, §§2(f)(1), (p)(3), 7(b), Oct. 24, 1988, 102 Stat. 2611, 2613, 2616; Pub. L. 101–649, title I, §§121(b)(4), 162(e)(3), title VII, §702(a), Nov. 29, 1990, 104 Stat. 5011, 5086; Pub. L. 102–110, §2(c), Oct. 1, 1991, 105 Stat. 556; Pub. L. 102–232, title III, §§302(d)(2), (e)(7), 308(a), Dec. 12, 1991, 105 Stat. 1744, 1746, 1757; Pub. L. 103–317, title V, §506(b), Aug. 26, 1994, 108 Stat. 1765; Pub. L. 103–322, title XIII, §130003(c), Sept. 13, 1994, 108 Stat. 2025; Pub. L. 103–416, title II, §219(k), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–132, title IV, §413(d), Apr. 24, 1996, 110 Stat. 1269; Pub. L. 104–208, div. C, title III, §§308(f)(1)(O), (2)(C), (g)(10)(B), 375, 376(a), title VI, §671(a)(4)(A), (5), Sept. 30, 1996, 110 Stat. 3009–621, 3009–625, 3009–648, 3009–721; Pub. L. 105–119, title I, §§110(3), 111(a), (c), Nov. 26, 1997, 111 Stat. 2458; Pub. L. 106–386, div. A, §107(f), div. B, title V, §§1506(a)(1), 1513(f), Oct. 28, 2000, 114 Stat. 1479, 1527, 1536; Pub. L. 106–553, §1(a)(2) \[title XI, §§1102(c), (d)(2), 1103(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–143 to 2762A–145; Pub. L. 106–554, §1(a)(4) \[div. B, title XV, §1502\], Dec. 21, 2000, 114 Stat. 2763, 2763A–324.)
+(June 27, 1952, ch. 477, title II, ch. 5, §245, 66 Stat. 217; Pub. L. 85–700, §1, Aug. 21, 1958, 72 Stat. 699; Pub. L. 86–648, §10, July 14, 1960, 74 Stat. 505; Pub. L. 89–236, §13, Oct. 3, 1965, 79 Stat. 918; Pub. L. 94–571, §6, Oct. 20, 1976, 90 Stat. 2705; Pub. L. 97–116, §5(d)(2), Dec. 29, 1981, 95 Stat. 1614; Pub.L. 99–603, title I, §117, title III, §313(c), Nov. 6, 1986, 100 Stat. 3384, 3438; Pub. L. 99–639, §§2(e), 3(b), 5(a), Nov. 10, 1986, 100 Stat. 3542, 3543; Pub. L. 100–525, §§2(f)(1), (p)(3), 7(b), Oct. 24, 1988, 102 Stat. 2611, 2613, 2616; Pub. L. 101–649, title I, §§121(b)(4), 162(e)(3), title VII, §702(a), Nov. 29, 1990, 104 Stat. 5011, 5086; Pub. L. 102–110, §2(c), Oct. 1, 1991, 105 Stat. 556; Pub. L. 102–232, title III, §§302(d)(2), (e)(7), 308(a), Dec. 12, 1991, 105 Stat. 1744, 1746, 1757; Pub. L. 103–317, title V, §506(b), Aug. 26, 1994, 108 Stat. 1765; Pub. L. 103–322, title XIII, §130003(c), Sept. 13, 1994, 108 Stat. 2025; Pub. L. 103–416, title II, §219(k), Oct. 25, 1994, 108 Stat. 4317; Pub. L. 104–132, title IV, §413(d), Apr. 24, 1996, 110 Stat. 1269; Pub. L. 104–208, div. C, title III, §§308(f)(1)(O), (2)(C), (g)(10)(B), 375, 376(a), title VI, §671(a)(4)(A), (5), Sept. 30, 1996, 110 Stat. 3009–621, 3009–625, 3009–648, 3009–721; Pub. L. 105–119, title I, §§110(3), 111(a), (c), Nov. 26, 1997, 111 Stat. 2458; Pub. L. 106–386, div. A, §107(f), div. B, title V, §§1506(a)(1), 1513(f), Oct. 28, 2000, 114 Stat. 1479, 1527, 1536; Pub. L. 106–553, §1(a)(2) \[title XI, §§1102(c), (d)(2), 1103(c)(3)\], Dec. 21, 2000, 114 Stat. 2762, 2762A–143 to 2762A–145; Pub. L. 106–554, §1(a)(4) \[div. B, title XV, §1502\], Dec. 21, 2000, 114 Stat. 2763, 2763A–324.)
 
 #### References in Text
 
@@ -294,7 +294,7 @@ Subsec. (e). Pub. L. 99–639, §5(a)(2), added subsec. (e).
 
 Subsec. (b). Pub. L. 94–571 inserted reference to section 1152(e) of this title and struck out comma after “chargeable”.
 
-Subsec. (c). Pub. L. 94–571 substituted provision making the section inapplicable to alien crewmen, alienscontinuing or accepting unauthorized employment, and aliens admitted in transit without visa for provision making the section inapplicable to natives of contiguous country or adjacent island.
+Subsec. (c). Pub. L. 94–571 substituted provision making the section inapplicable to alien crewmen, aliens continuing or accepting unauthorized employment, and aliens admitted in transit without visa for provision making the section inapplicable to natives of contiguous country or adjacent island.
 
 1965—Subsec. (b). Pub. L. 89–236, §13(a), struck out reference to quota area to which the alien is chargeable under section 1152 of this title and substituted reference to number of preference or nonpreference visas authorized to be issued under section 1153(a) of this title within the class to which the alien is chargeable.
 
@@ -372,6 +372,10 @@ Amendment by Pub. L. 94–571 effective on first day of first month which begins
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Permitting Motion to Reopen
 
 Pub. L. 106–554, §1(a)(4) \[div. B, title XV, §1505(a)(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–326, provided that: “Notwithstanding any time and number limitations imposed by law on motions to reopen exclusion, removal, or deportation proceedings (except limitations premised on an alien's conviction of an aggravated felony (as defined by section 101(a) of the Immigration and Nationality Act \[8 U.S.C. 1101(a)\])), a national of Cuba or Nicaragua who has become eligible for adjustment of status under the Nicaraguan Adjustment and Central American Relief Act \[see Short Title of 1997 Amendments note set out under section 1101 of this title\] as a result of the amendments made by paragraph (1) \[amending section 202 of Pub. L. 105–100, set out below\], may file one motion to reopen exclusion, deportation, or removal proceedings to apply for such adjustment under that Act. The scope of any proceeding reopened on this basis shall be limited to a determination of the alien's eligibility for adjustment of status under that Act. All such motions shall be filed within 180 days of the date of the enactment of this Act \[Dec. 21, 2000\].”
@@ -380,7 +384,7 @@ Pub. L. 106–554, §1(a)(4) \[div. B, title XV, §1505(b)(2)\], Dec. 21, 2000, 
 
 #### Adjustment of Status of Certain Jewish Syrian Nationals
 
-Pub. L. 106–378, Oct. 27, 2000, 114 Stat. 1442, provided for adjustment of status from asylee to lawful permanent residence of not more than 2,000 persons, who must be either (1) Jewish nationals of Syria, who arrived in the United States after Dec. 31, 1991, after being permitted by the Syrian Government to depart from Syria, and were physically present in the United States at the time of filing the application for adjustment of status, or (2) who were the spouse, child, or unmarried son or daughter of such an alien provided that any such eligible person either applied for such adjustment of status not later than 1 year after Oct. 27, 2000, or applied for adjustment of status under this chapter before Oct. 27, 2000, had been physically present in the United States for at least 1 year after being granted asylum; was not firmly resettled in any foreign country; and was admissible as an immigrant under this chapter at the time of examination for adjustment of such alien.
+Pub. L. 106–378, Oct. 27, 2000, 114 Stat. 1442, provided for adjustment of status from asylee to lawful permanent residence of not more than 2,000 persons, who must be either (1) Jewish nationals of Syria, who arrived in the United States after Dec. 31, 1991, after being permitted by the Syrian Government to depart from Syria, and were physically present in the UnitedStates at the time of filing the application for adjustment of status, or (2) who were the spouse, child, or unmarried son or daughter of such an alien provided that any such eligible person either applied for such adjustment of status not later than 1 year after Oct. 27, 2000, or applied for adjustment of status under this chapter before Oct. 27, 2000, had been physically present in the United States for at least 1 year after being granted asylum; was not firmly resettled in any foreign country; and was admissible as an immigrant under this chapter at the time of examination for adjustment of such alien.
 
 #### Adjustment of Status of Certain Haitian Nationals
 
@@ -466,7 +470,7 @@ In general.—The status of an alien shall be adjusted by the Attorney General t
 
 &emsp;&emsp;“(C) the alien applies for such adjustment and is physically present in the United States on the date the application is filed; and
 
-&emsp;&emsp;“(D) the alien is otherwise admissible to the United States for permanent residence, except that, in determining such admissibility, the grounds for inadmissibility specified in paragraphs (4), (5), (6)(A), (7)(A), and (9)(B) of section 212(a) of the Immigration and Nationality Act \[8 U.S.C. 1182(a)(4), (5), (6)(A), (7)(A), (9)(B)\] shall not apply.
+&emsp;&emsp;“(D) the alien is otherwise admissible to the United States for permanent residence, except that,in determining such admissibility, the grounds for inadmissibility specified in paragraphs (4), (5), (6)(A), (7)(A), and (9)(B) of section 212(a) of the Immigration and Nationality Act \[8 U.S.C. 1182(a)(4), (5), (6)(A), (7)(A), (9)(B)\] shall not apply.
 
 &emsp;“(2)
 
@@ -548,7 +552,7 @@ Aliens Eligible for Adjustment of Status.—
 
 &emsp;“(1)
 
-In general.—The benefits provided by subsection (a) shall apply to any alien who is a national of Nicaragua or Cuba and who has been physically present in the United States for a continuous period, beginning not later than December 1, 1995, and ending not earlier than the date the application for adjustment under such subsection is filed, except an alien shall not be considered to have failed to maintain continuous physical presence by reason of an absence, or absences, from the United States for any periods in the aggregate not exceeding 180 days.
+In general.—The benefits provided by subsection (a) shall apply to any alien who is a nationalof Nicaragua or Cuba and who has been physically present in the United States for a continuous period, beginning not later than December 1, 1995, and ending not earlier than the date the application for adjustment under such subsection is filed, except an alien shall not be considered to have failed to maintain continuous physical presence by reason of an absence, or absences, from the United States for any periods in the aggregate not exceeding 180 days.
 
 &emsp;“(2)
 
@@ -602,7 +606,7 @@ In general.—The status of an alien shall be adjusted by the Attorney General t
 
 &emsp;&emsp;&emsp;“(i) is the spouse, child, or unmarried son or daughter of an alien whose status is adjusted to that of an alien lawfully admitted for permanent residence under subsection (a), except that in the case of such an unmarried son or daughter, the son or daughter shall be required to establish that the son or daughter has been physically present in the United States for a continuous period beginning not later than December 1, 1995, and ending not earlier than the date on which the application for adjustment under this subsection is filed; or
 
-&emsp;&emsp;&emsp;“(ii) was, at the time at which an alien filed for adjustment under subsection (a), the spouse orchild of an alien whose status is adjusted to that of an alien lawfully admitted for permanent residence under subsection (a), and the spouse, child, or child of the spouse has been battered or subjected to extreme cruelty by the alien that filed for adjustment under subsection (a);
+&emsp;&emsp;&emsp;“(ii) was, at the time at which an alien filed for adjustment under subsection (a), the spouse or child of an alien whose status is adjusted to that of an alien lawfully admitted for permanent residence under subsection (a), and the spouse, child, or child of the spouse has been battered or subjected to extreme cruelty by the alien that filed for adjustment under subsection (a);
 
 &emsp;&emsp;“(C) the alien applies for such adjustment and is physically present in the United States on the date the application is filed;
 
@@ -764,7 +768,7 @@ In general.—In this subsection, the term ‘applicable fiscal year’ means ea
 
 &emsp;&emsp;“(B)
 
-Number counted each year.—The number counted under this subparagraph for a fiscal year (beginning during or after the application period) is 1,000, plus the number (if any) by which (i) the immigration level under section 202(a)(2) of the Immigration and Nationality Act for the People's Republic of China in the fiscal year (as reduced under this subsection), exceeds (ii) the number of aliens who were chargeable to such level in the year.
+Number counted each year.—The number counted under this subparagraph for a fiscal year\(beginning during or after the application period) is 1,000, plus the number (if any) by which (i) the immigration level under section 202(a)(2) of the Immigration and Nationality Act for the People's Republic of China in the fiscal year (as reduced under this subsection), exceeds (ii) the number of aliens who were chargeable to such level in the year.
 
 “(e)
 
@@ -800,7 +804,7 @@ Application Period.—The alien, and accompanying spouse and children, must appl
 
 \[Section 302(e)(10) of Pub. L. 102–232 provided that the amendment made by that section to section 2(b) of Pub. L. 101–238, set out above, is effective as if included in the Immigration Nursing Relief Act of 1989, Pub. L. 101–238.\]
 
-\[Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendment made by that section to section 2(a)(3) of Pub. L. 101–238, set out above, is effective as if includedin section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.\]
+\[Section 307(<i>l</i>) of Pub. L. 102–232 provided that the amendment made by that section to section 2(a)(3) of Pub. L. 101–238, set out above, is effective as if included in section 603(a) of the Immigration Act of 1990, Pub. L. 101–649.\]
 
 #### Adjustment of Status for Certain Soviet and Indochinese Parolees
 
@@ -838,7 +842,7 @@ Date of Approval.—Upon the approval of such an application for adjustment of s
 
 No Offset in Number of Visas Available.—When an alien is granted the status of having been lawfully admitted for permanent residence under this section the Secretary of State shall not be required to reduce the number of immigrant visas authorized to be issued under the Immigration and Nationality Act \[8 U.S.C. 1101 et seq.\].”
 
-Pub. L. 101–167, title V, §599E, Nov. 21, 1989, 103 Stat. 1263, as amended by Pub. L. 101–513, title V, §598(b), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 101–649, title VI, §603(a)(22), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 102–232, title III, §307(<i>l</i>)(9), Dec. 12, 1991, 105 Stat. 1757; Pub. L. 102–391, title V, §582(a)(2), (b)(2), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(b)(2), Oct. 24, 1992, 106 Stat. 3356; Pub. L. 103–236, title V, §512(2), Apr. 30, 1994, 108 Stat. 466; Pub. L. 103–416, title II, §219(bb), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(2)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(2), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(2), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(2), Jan. 10, 2002, 115 Stat. 2200, provided that:
+Pub. L. 101–167, title V, §599E, Nov. 21, 1989, 103 Stat. 1263, as amended by Pub. L. 101–513, title V, §598(b), Nov. 5, 1990, 104 Stat. 2063; Pub. L. 101–649, title VI, §603(a)(22), Nov. 29, 1990, 104 Stat. 5084; Pub. L. 102–232, title III, §307(<i>l</i>)(9), Dec. 12, 1991, 105 Stat. 1757; Pub. L. 102–391, title V, §582(a)(2), (b)(2), Oct. 6, 1992, 106 Stat. 1686; Pub. L. 102–511, title IX, §905(b)(2), Oct. 24, 1992, 106Stat. 3356; Pub. L. 103–236, title V, §512(2), Apr. 30, 1994, 108 Stat. 466; Pub. L. 103–416, title II, §219(bb), Oct. 25, 1994, 108 Stat. 4319; Pub. L. 104–208, div. A, title I, §101(c) \[title V, §575(2)\], Sept. 30, 1996, 110 Stat. 3009–121, 3009–168; Pub. L. 104–319, title I, §101(2), Oct. 19, 1996, 110 Stat. 3865; Pub. L. 105–118, title V, §574(2), Nov. 26, 1997, 111 Stat. 2432; Pub. L. 105–277, div. A, §101(f) \[title VII, §705(2)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–389; Pub. L. 106–113, div. B, §1000(a)(4) \[title II, §214(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–240; Pub. L. 106–554, §1(a)(1) \[title II, §212(2)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–27; Pub. L. 107–116, title II, §213(2), Jan. 10, 2002, 115 Stat. 2200, provided that:
 
 “(a)
 
@@ -878,7 +882,7 @@ Pub. L. 95–145, title I, §§101–107, Oct. 28, 1977, 91 Stat. 1223, as amend
 
 #### Adjustment of Status of Nonimmigrant Aliens Residing in the Virgin Islands to Permanent Resident Alien Status
 
-Pub. L. 97–271, Sept. 30, 1982, 96 Stat. 1157, as amended by Pub. L. 101–649, title I, §162(e)(6), Nov. 29, 1990, 104 Stat. 5011, provided that status of alien who was inspected and admitted to Virgin Islands of the United States as a nonimmigrant alien worker under section 1101(a)(15)(H)(ii) of this title, or as spouse or minorchild of such worker, and had resided continuously in Virgin Islands of the United States since June 30, 1975, could be adjusted by Attorney General to that of an alien lawfully admitted for permanent residence if alien applied for such adjustment during one-year period beginning Sept. 30, 1982, and met certain other eligibility requirements.
+Pub. L. 97–271, Sept. 30, 1982, 96 Stat. 1157, as amended by Pub. L. 101–649, title I, §162(e)(6), Nov. 29, 1990, 104 Stat. 5011, provided that status of alien who was inspected and admitted to Virgin Islands of the United States as a nonimmigrant alien worker under section 1101(a)(15)(H)(ii) of this title, or as spouse or minor child of such worker, and had resided continuously in Virgin Islands of the United States since June 30, 1975, could be adjusted by Attorney General to that of an alien lawfully admitted for permanent residence if alien applied for such adjustment during one-year period beginning Sept. 30, 1982, and met certain other eligibility requirements.
 
 #### Development of Eligibility Criteria for Admission of Refugees From Cambodia
 
@@ -900,7 +904,7 @@ Pub. L. 89–732, Nov. 2, 1966, 80 Stat. 1161, as amended by Pub. L. 94–571, �
 
 “
 
-Sec. 2. In the case of any alien described in section 1 of this Act who prior to the effective date thereof \[Nov. 2, 1966\], has been lawfully admitted into the United States for permanent residence, the Attorney General shall, upon application, record his admission for permanent residence as of the date the alien originally arrived in the United States as a nonimmigrant or as a parolee, or a date thirty months prior to the date of enactment of this Act \[Nov. 2, 1966\], whichever date is later.
+Sec. 2. In the case of any alien described in section 1 of this Act who prior to the effective date thereof \[Nov. 2, 1966\], has been lawfully admitted into the United States for permanent residence, the Attorney General shall, upon application, record his admission for permanent residence as of the date the alien originally arrived in the United States as a nonimmigrant or as a parolee, or a date thirty months prior to thedate of enactment of this Act \[Nov. 2, 1966\], whichever date is later.
 
 “
 

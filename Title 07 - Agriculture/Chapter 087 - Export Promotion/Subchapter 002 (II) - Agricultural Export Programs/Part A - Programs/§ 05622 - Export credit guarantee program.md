@@ -8,7 +8,17 @@
 
 #### (2) Supplier credits
 
-&emsp;In carrying out this section, the Commodity Credit Corporation may issue guarantees for the repayment of credit made available for a period of not more than 180 days by a United States exporter to a buyer in a foreign country.
+&emsp;In carrying out this section, the Commodity Credit Corporation may issue guarantees for the repayment of credit made available for a period of not more than 180 days by a UnitedStates exporter to a buyer in a foreign country.
+
+#### (3) Extended supplier credits
+
+#### (A) In general
+
+&emsp;&emsp;Subject to the appropriation of funds under subparagraph (B), in carrying out this section, the Commodity Credit Corporation may issue guarantees for the repayment of credit made available for a period of more than 180 days, but not more than 360 days, by a United States exporter to a buyer in a foreign country.
+
+#### (B) Authorization of appropriations
+
+&emsp;&emsp;There are authorized to be appropriated such sums as are necessary to fund the additional costs attributable to the portion of any guarantee issued under this paragraph to cover the repayment of credit beyond the initial 180-day period.
 
 #### (b) Intermediate-term credit guarantees
 
@@ -100,13 +110,17 @@ In making available any guarantees of credit under this section in connection wi
 
 #### (1) In general
 
-&emsp;In issuing export credit guarantees under this section, the Commodity Credit Corporation shall, subject to paragraph (2), ensure that not less than 25 percent for each of fiscal years 1996 and 1997, 30 percent for each of fiscal years 1998 and 1999, and 35 percent for each of fiscal years 2000, 2001, and 2002, of the total amount of credit guarantees issued for a fiscal year is issued to promote the export of processed or high-value agricultural products and that the balance is issued to promote the export of bulk or raw agricultural commodities.
+&emsp;In issuing export credit guarantees under this section, the Commodity Credit Corporation shall, subject to paragraph (2), ensure that not less than 25 percent for each of fiscal years 1996 and 1997, 30 percent for each of fiscal years 1998 and 1999, and 35 percent for each of fiscal years 2000 through 2007, of the total amount of credit guarantees issued for a fiscal year is issued to promote the export of processed or high-value agricultural products and that the balance is issued to promote the export of bulk or raw agricultural commodities.
 
 #### (2) Limitation
 
 &emsp;The percentage requirement of paragraph (1) shall apply for a fiscal year to the extent that a reduction in the total amount of credit guarantees issued for the fiscal year is not required to meet the percentage requirement.
 
-(Pub. L. 95–501, title II, §202, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, §334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §§708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979.)
+#### (<i>l</i>) Consultation on agricultural export credit programs
+
+The Secretary and the United States Trade Representative shall consult on a regular basis with the Committee on Agriculture, and the Committee on International Relations, of the House of Representatives and the Committee on Agriculture, Nutrition, and Forestry of the Senate on the status of multilateral negotiations regarding agricultural export credit programs.
+
+(Pub. L. 95–501, title II, §202, as added Pub. L. 101–624, title XV, §1531, Nov. 28, 1990, 104 Stat. 3673; amended Pub. L. 102–237, title III, §334, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §§708, 709(a), Oct. 24, 1992, 106 Stat. 3351; Pub. L. 104–127, title II, §§243(a), 277(c)(3), Apr. 4, 1996, 110 Stat. 965, 979; Pub. L. 107–171, title III, §3102(a)–(c), May 13, 2002, 116 Stat. 289.)
 
 #### References in Text
 
@@ -117,6 +131,12 @@ The cargo preference laws, referred to in subsec. (e), include act Mar. 26, 1934
 A prior section 202 of Pub. L. 95–501 enacted section 1707c of this title prior to the complete revision of Pub. L. 95–501 by Pub. L. 101–624.
 
 #### Amendments
+
+2002—Subsec. (a)(3). Pub. L. 107–171, §3102(a), added par. (3).
+
+Subsec. (k)(1). Pub. L. 107–171, §3102(b), substituted “through 2007” for “, 2001, and 2002”.
+
+Subsec. (<i>l</i>). Pub. L. 107–171, §3102(c), added subsec. (<i>l</i>)
 
 1996—Subsec. (a). Pub. L. 104–127, §243(a)(1), designated existing provisions as par. (1), inserted heading, and added par. (2).
 
@@ -150,15 +170,15 @@ Subsec. (k). Pub. L. 102–511, §709(a)(2), added subsec. (k).
 
 #### Regulations
 
-Section 243(d) of Pub. L. 104–127 provided that: “Not later than 180 days after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall issue regulations to carry out the amendments made by this section \[amending this section and sections 5602 and 5641 of this title\].”
+Section 243(d) of Pub. L. 104–127 provided that: “Not later than 180 days after the date of enactment of this Act \[Apr. 4, 1996\], the Secretary of Agriculture shall issue regulations to carry out the amendments made bythis section \[amending this section and sections 5602 and 5641 of this title\].”
 
 #### Promotion of Agricultural Exports to Emerging Markets
 
-Section 1542 of title XV of Pub. L. 101–624, as amended by Pub. L. 102–237, title III, §338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, §321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979, provided that:
+Pub. L. 101–624, title XV, §1542, Nov. 28, 1990, 104 Stat. 3691, as amended by Pub. L. 102–237, title III, §338, Dec. 13, 1991, 105 Stat. 1859; Pub. L. 102–511, title VII, §706, Oct. 24, 1992, 106 Stat. 3350; Pub. L. 103–182, title III, §321(g), Dec. 8, 1993, 107 Stat. 2112; Pub. L. 104–127, title II, §§277(a), 278, Apr. 4, 1996, 110 Stat. 977, 979; Pub. L. 107–171, title III, §3203, May 13, 2002, 116 Stat. 300, provided that:
 
 “(a)
 
-Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2002 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
+Funding.—The Commodity Credit Corporation shall make available for fiscal years 1996 through 2007 not less than $1,000,000,000 of direct credits or export credit guarantees for exports to emerging markets under section 201 or 202 of the Agricultural Trade Act of 1978 (7 U.S.C. 5621 and 5622), in addition to the amounts acquired or authorized under section 211 of the Act (7 U.S.C. 5641) for the program.
 
 “(b)
 
@@ -192,7 +212,7 @@ In general.—
 
 &emsp;&emsp;&emsp;“(i)
 
-Establishment of program.—For each of the fiscal years 1991 through 2002, the Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’), in order to develop, maintain, or expand markets for United States agricultural exports, is directed to make available to emerging markets the expertise of the United States to make assessments of the food and rural business systems needs of such democracies \[markets\], make recommendations on measures necessary to enhance the effectiveness of the systems, including potential reductions in trade barriers, and identify and carry out specific opportunities and projects to enhance the effectiveness of those systems.
+Establishment of program.—For each of the fiscal years 1991 through 2007, the Secretary of Agriculture (hereafter in this section referred to as the ‘Secretary’), in order to develop, maintain, or expand markets for United States agricultural exports, is directed to make available to emerging markets the expertise of the United States to make assessments of the food and rural business systems needs of such democracies \[markets\], make recommendations on measures necessary to enhance the effectiveness of the systems, including potential reductions in trade barriers, and identify and carry out specific opportunities and projects to enhance the effectiveness of those systems.
 
 &emsp;&emsp;&emsp;“(ii)
 
@@ -242,7 +262,7 @@ Establishment of program.—The Secretary shall establish a program, administere
 
 &emsp;&emsp;“(B)
 
-Implementation.—The Secretary shall draw on the Department of Agriculture's experience to design, implement, and evaluate, on a cost-sharingbasis with cooperating agricultural institutions, a program to—
+Implementation.—The Secretary shall draw on the Department of Agriculture's experience to design, implement, and evaluate, on a cost-sharing basis with cooperating agricultural institutions, a program to—
 
 &emsp;&emsp;&emsp;“(i) compile, through contacts with the governments of emerging markets and private sector officials in emerging markets, a list of their agricultural institutions, including the location, capabilities, and needs of the institutions;
 

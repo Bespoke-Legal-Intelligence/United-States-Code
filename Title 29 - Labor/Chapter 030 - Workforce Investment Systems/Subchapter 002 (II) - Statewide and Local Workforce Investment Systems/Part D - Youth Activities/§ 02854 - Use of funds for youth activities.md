@@ -30,7 +30,7 @@ The purposes of this section are—
 
 #### (2) Required statewide youth activities
 
-&emsp;A State shall use funds reserved as described in sections 2853(a) and 2863(a)(1) of this title (regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title) to carry out statewide youth activities, which shall include—
+&emsp;A State shall use funds reserved as described in sections 2853(a) and 2863(a)(1) of this title (regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) ofthis title) to carry out statewide youth activities, which shall include—
 
 &emsp;&emsp;(A) disseminating a list of eligible providers of youth activities described in section 2843 of this title;
 

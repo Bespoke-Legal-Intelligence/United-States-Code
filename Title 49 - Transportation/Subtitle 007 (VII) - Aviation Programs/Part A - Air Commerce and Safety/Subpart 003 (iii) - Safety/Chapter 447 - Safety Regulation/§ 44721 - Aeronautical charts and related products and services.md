@@ -24,7 +24,7 @@ Indemnification.—The Government shall make an agreement to indemnify any perso
 
 (c)
 
-Authority of Office of Aeronautical Charting and Cartography.—Effective October 1, 2000, the Administrator is vested with and shall exercise the functions, powers, and duties of the Secretary of Commerce and other officers of the Department of Commerce that relate to the Office of Aeronautical Charting and Cartography to provide aeronautical charts and related products and services for the safe and efficient navigation of air commerce, under the following authorities:
+Authority of Office of Aeronautical Charting and Cartography.—Effective October 1, 2000, the Administrator is vested with and shall exercise the functions, powers, and duties of the Secretary of Commerce and other officersof the Department of Commerce that relate to the Office of Aeronautical Charting and Cartography to provide aeronautical charts and related products and services for the safe and efficient navigation of air commerce, under the following authorities:
 
 &emsp;(1) Sections 1 through 9 of the Act entitled “An Act to define the functions and duties of the Coast and Geodetic Survey, and for other purposes”, approved August 6, 1947,<sup>1</sup> (33 U.S.C. 883a–883h).
 
@@ -106,7 +106,7 @@ Distribution.—The Administrator may distribute aeronautical products and provi
 
 &emsp;(4)
 
-Fees.—The fees provided for in this subsection are for the purpose of reimbursing the Government for the costs of creating, printing and disseminating aeronautical products and services under this section. The collection of fees authorized by this section does not alter or expand any duty or liability of the Government under existing law for the performance of functions for which fees are collected, nor does the collection of fees constitute an express or implied undertaking by the Government to perform any activity in a certain manner.
+Fees.—The fees provided for in this subsection are for the purpose of reimbursing the Government for the costs of creating, printing and disseminating aeronautical products and services under this section. The collection of fees authorized by this section does not alter or expand any duty or liability of the Government under existing law for the performanceof functions for which fees are collected, nor does the collection of fees constitute an express or implied undertaking by the Government to perform any activity in a certain manner.
 
 &emsp;(5)
 
@@ -248,7 +248,7 @@ Transfer of Office.—Effective October 1, 2000, the Office of Aeronautical Char
 
 “(b)
 
-Other Transfers.—Effective October 1, 2000, the personnel employed in connection with, and the assets, liabilities, contracts, property, equipment, facilities, records, and unexpended balance of appropriations, and other funds employed, held, used, arising from, available to, or to be made available in connection with the function and offices, or portions of offices, transferred by this title \[amending this section, sections 883b and 883e of Title 33, Navigation and Navigable Waters, and section 1307 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under this section\], including all Senior Executive Service positions, subject to section 1531 of title 31, United States Code, are transferred to the Administrator of the FederalAviation Administration for appropriate allocation. Personnel employed in connection with functions transferred by this title transfer under any applicable law and regulation relating to transfer of functions. Unexpended funds transferred under this section shall be used only for the purposes for which the funds were originally authorized and appropriated, except that funds may be used for expenses associated with the transfer authorized by this title.”
+Other Transfers.—Effective October 1, 2000, the personnel employed in connection with, and the assets, liabilities, contracts, property, equipment, facilities, records, and unexpended balance of appropriations, and other funds employed, held, used, arising from, available to, or to be made available in connection with the function and offices, or portions of offices, transferred by this title \[amending this section, sections 883b and 883e of Title 33, Navigation and Navigable Waters, and section 1307 of Title 44, Public Printing and Documents, and enacting provisions set out as notes under this section\], including all Senior Executive Service positions, subject to section 1531 of title 31, United States Code, are transferred to the Administrator of the Federal Aviation Administration for appropriate allocation. Personnel employed in connection with functions transferred by this title transfer under any applicable law and regulation relating to transfer of functions. Unexpended funds transferred under this section shall be used only for the purposes for which the funds were originally authorized and appropriated, except that funds may be used for expenses associated with the transfer authorized by this title.”
 
 #### Procurement of Private Enterprise Mapping, Charting, and Geographic Information Systems
 

@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(B) such employees and their families will not be subject to unreasonable risks to their welfare and safety; and
 
-&emsp;&emsp;(C) the country in which the preinspection station is to be established maintains practices and procedures with respect to asylum seekers and refugees in accordance with the Convention Relating to the Status of Refugees (done at Geneva, July 28, 1951), or the Protocol Relating to the Status of Refugees (done at New York, January 31, 1967), or that an alien in the country otherwise has recourse to avenues of protection from return to persecution.
+&emsp;&emsp;(C) the country in which the preinspection station is to be established maintains practices and procedures with respect to asylum seekers and refugees in accordance with the Convention Relating to the Status of Refugees (done at Geneva, July 28, 1951), or the Protocol Relating to the Status of Refugees\(done at New York, January 31, 1967), or that an alien in the country otherwise has recourse to avenues of protection from return to persecution.
 
 #### (b) Establishment of carrier consultant program
 
@@ -43,4 +43,12 @@ The Attorney General shall assign additional immigration officers to assist air 
 #### Codification
 
 September 30, 1996, referred to in subsec. (a)(1), (4), was in the original “the date of the enactment of such Act”, which was translated as meaning the date of enactment of Pub. L. 104–208, which enacted this section, to reflect the probable intent of Congress.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 1711, 1751 of this title.
 

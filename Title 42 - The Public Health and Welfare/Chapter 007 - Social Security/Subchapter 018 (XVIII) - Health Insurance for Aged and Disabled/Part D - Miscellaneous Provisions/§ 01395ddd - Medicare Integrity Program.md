@@ -2,7 +2,7 @@
 
 #### (a) Establishment of Program
 
-There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the Medicare program by entering into contracts in accordance with this section with eligible entities to carry outthe activities described in subsection (b) of this section.
+There is hereby established the Medicare Integrity Program (in this section referred to as the “Program”) under which the Secretary shall promote the integrity of the Medicare program by entering into contracts in accordance with this section with eligible entities to carry out the activities described in subsection (b) of this section.
 
 #### (b) Activities described
 
@@ -60,7 +60,7 @@ The Secretary shall by regulation provide for the limitation of a contractor's l
 
 #### References in Text
 
-Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec. (d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
+Section 202(b) of the Health Insurance Portability and Accountability Act of 1996, referred to in subsec.\(d)(2)(B), is section 202(b) of Pub. L. 104–191, which amended sections 1395h and 1395u of this title.
 
 #### Section Referred to in Other Sections
 

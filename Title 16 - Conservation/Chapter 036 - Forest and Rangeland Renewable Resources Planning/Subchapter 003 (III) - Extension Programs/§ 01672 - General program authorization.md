@@ -22,7 +22,7 @@ The Secretary of Agriculture (hereinafter in this subchapter referred to as the 
 
 &emsp;(9) in cooperation with State foresters or equivalent State officials, promote public understanding of the energy conservation, economic, social, environmental, and psychological values of trees and open space in urban and community area environments and expand knowledge of the ecological relationships and benefits of trees and related resources in urban and community environments; and
 
-&emsp;(10) conduct a comprehensive natural resource and environmental education program for landowners and managers, public officials, and the public, with particular emphasis on youth.
+&emsp;(10) conduct a comprehensive natural resource and environmental education programfor landowners and managers, public officials, and the public, with particular emphasis on youth.
 
 #### (b) “Eligible colleges and universities” defined
 

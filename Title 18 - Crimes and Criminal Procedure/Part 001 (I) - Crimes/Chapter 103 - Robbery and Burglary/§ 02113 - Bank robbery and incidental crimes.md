@@ -1,6 +1,6 @@
 ### §2113. Bank robbery and incidental crimes
 
-(a) Whoever, by force and violence, or by intimidation, takes, or attempts to take, from the person or presence of another, or obtains or attempts to obtain by extortion any property or money or any other thing of value belonging to, or in the care, custody, control, management, or possession of, any bank, credit union, or any savings and loan association; or
+(a) Whoever, by force and violence, or by intimidation, takes, or attempts to take, from theperson or presence of another, or obtains or attempts to obtain by extortion any property or money or any other thing of value belonging to, or in the care, custody, control, management, or possession of, any bank, credit union, or any savings and loan association; or
 
 Whoever enters or attempts to enter any bank, credit union, or any savings and loan association, or any building used in whole or in part as a bank, credit union, or as a savings and loan association, with intent to commit in such bank, credit union, or in such savings and loan association, or building, or part thereof, so used, any felony affecting such bank, credit union, or such savings and loan association and in violation of any statute of the United States, or any larceny—
 
@@ -8,7 +8,7 @@ Shall be fined under this title or imprisoned not more than twenty years, or bot
 
 (b) Whoever takes and carries away, with intent to steal or purloin, any property or money or any other thing of value exceeding $1,000 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined under this title or imprisoned not more than ten years, or both; or
 
-Whoever takes and carries away, with intent to steal or purloin, any property or money or any other thing of value not exceeding $1,000 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined not more than $1,000 or imprisoned not more than one year, or both.
+Whoever takes and carries away, with intent to steal or purloin, any property or money or any other thing of value not exceeding $1,000 belonging to, or in the care, custody, control, management, or possession of any bank, credit union, or any savings and loan association, shall be fined under this title or imprisoned not more than one year, or both.
 
 (c) Whoever receives, possesses, conceals, stores, barters, sells, or disposes of, any property or money or other thing of value which has been taken or stolen from a bank, credit union, or savings and loan association in violation of subsection (b), knowing the same to be property which has been stolen shall be subject to the punishment provided in subsection (b) for the taker.
 
@@ -26,7 +26,7 @@ Whoever takes and carries away, with intent to steal or purloin, any property or
 
 &emsp;(2) a corporation described in section 3(b)(1)(C) of the Federal Deposit Insurance Act (12 U.S.C. 1813(b)(1)(C)) that is operating under the laws of the United States.
 
-(June 25, 1948, ch. 645, 62 Stat. 796; Aug. 3, 1950, ch. 516, 64 Stat. 394; Apr. 8, 1952, ch. 164, 66 Stat. 46; Pub. L. 86–354, §2, Sept. 22, 1959, 73 Stat. 639; Pub. L. 91–468, §8, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 98–473, title II, §1106, Oct. 12, 1984, 98 Stat. 2145; Pub. L. 99–646, §68, Nov. 10, 1986, 100 Stat. 3616; Pub. L. 101–73, title IX, §962(a)(7), (d), Aug. 9, 1989, 103 Stat. 502, 503; Pub. L. 101–647, title XXV, §2597(<i>l</i>), Nov. 29, 1990, 104 Stat. 4911; Pub. L. 103–322, title VI, §60003(a)(9), title XXXII, §320608, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 1969, 2120, 2147; Pub. L. 104–294, title VI, §§606(a), 607(d), Oct. 11, 1996, 110 Stat. 3511.)
+(June 25, 1948, ch. 645, 62 Stat. 796; Aug. 3, 1950, ch. 516, 64 Stat. 394; Apr. 8, 1952, ch. 164, 66 Stat. 46; Pub. L. 86–354, §2, Sept. 22, 1959, 73 Stat. 639; Pub. L. 91–468, §8, Oct. 19, 1970, 84 Stat. 1017; Pub. L. 98–473, title II, §1106, Oct. 12, 1984, 98 Stat. 2145; Pub. L. 99–646, §68, Nov. 10, 1986, 100 Stat. 3616; Pub. L. 101–73, title IX, §962(a)(7), (d), Aug. 9, 1989, 103 Stat. 502, 503; Pub. L. 101–647, title XXV, §2597(<i>l</i>), Nov. 29, 1990, 104 Stat. 4911; Pub. L. 103–322, title VI, §60003(a)(9), title XXXII, §320608, title XXXIII, §330016(1)(K), (L), Sept. 13, 1994, 108 Stat. 1969, 2120, 2147; Pub. L. 104–294, title VI, §§606(a), 607(d), Oct. 11, 1996, 110 Stat. 3511; Pub. L. 107–273, div. B, title IV, §4002(d)(1)(C)(ii), Nov. 2, 2002, 116 Stat. 1809.)
 
 #### Historical and Revision Notes
 
@@ -42,7 +42,7 @@ Minimum punishment provisions were omitted from subsection (c). (See reviser's n
 
 The figures “100” were substituted for “50” in view of the fact that the present worth of $100 is less than the value of $50 when that sum was fixed as the dividing line between petit larceny and grand larceny.
 
-The attention of Congress is directed to the mandatory minimum punishment provisions of sections 2113(e) and 2114 of this title. These were left unchanged because of the controversial question involved. Such legislative attempts to control the discretion of the sentencing judge are contrary to the opinions of experienced criminologists and criminal law experts. They are calculated to work manifest injustice in many cases.
+The attention of Congress is directed to the mandatory minimum punishment provisions of sections2113(e) and 2114 of this title. These were left unchanged because of the controversial question involved. Such legislative attempts to control the discretion of the sentencing judge are contrary to the opinions of experienced criminologists and criminal law experts. They are calculated to work manifest injustice in many cases.
 
 Necessary minor translations of section references, and changes in phraseology, were made.
 
@@ -53,6 +53,8 @@ Section 1(b) of the International Banking Act of 1978, referred to in subsec. (f
 Section 2 of the Federal Credit Union Act, referred to in subsec. (g), is classified to section 1752 of Title 12.
 
 #### Amendments
+
+2002—Subsec. (b). Pub. L. 107–273 substituted “under this title” for “not more than $1,000” in last par.
 
 1996—Subsec. (b). Pub. L. 104–294, §606(a), substituted “exceeding $1,000” for “exceeding $100” in two places.
 

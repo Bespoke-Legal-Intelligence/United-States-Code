@@ -10,7 +10,7 @@
 
 (4) In the determination made under this subsection for each fiscal year (beginning with fiscal year 1992), the President shall enumerate, with the respective number of refugees so determined, the number of aliens who were granted asylum in the previous year.
 
-(5) For any fiscal year, not more than a total of 1,000 refugees may be admitted under this subsection or granted asylum under section 1158 of this title pursuant to a determination under the third sentence of section 1101(a)(42) of this title (relating to persecution for resistance to coercive population control methods).
+(5) For any fiscal year, not more than a total of 1,000 refugees may be admitted under thissubsection or granted asylum under section 1158 of this title pursuant to a determination under the third sentence of section 1101(a)(42) of this title (relating to persecution for resistance to coercive population control methods).
 
 #### (b) Determinations by President respecting number of admissions for humanitarian concerns
 
@@ -20,7 +20,9 @@ If the President determines, after appropriate consultation, that (1) an unfores
 
 (1) Subject to the numerical limitations established pursuant to subsections (a) and (b) of this section, the Attorney General may, in the Attorney General's discretion and pursuant to such regulations as the Attorney General may prescribe, admit any refugee who is not firmly resettled in any foreign country, is determined to be of special humanitarian concern to the United States, and is admissible (except as otherwise provided under paragraph (3)) as an immigrant under this chapter.
 
-(2) A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of any refugee who qualifies for admission under paragraph (1) shall, if not otherwise entitled to admission under paragraph (1) and if not a person described in the second sentence of section 1101(a)(42) of this title, be entitled to the same admission status as such refugee if accompanying, or following to join, such refugee and if the spouse or child is admissible (except as otherwise provided under paragraph (3)) as an immigrant under this chapter. Upon the spouse's or child's admission to the United States, such admission shall be charged against the numerical limitation established in accordance with the appropriate subsection under which the refugee's admission is charged.
+(2)(A) A spouse or child (as defined in section 1101(b)(1)(A), (B), (C), (D), or (E) of this title) of any refugee who qualifies for admission under paragraph (1) shall, if not otherwise entitled to admission under paragraph (1) and if not a person described in the second sentence of section 1101(a)(42) of this title, be entitled to the same admission status as such refugee if accompanying, or following to join, such refugee and if the spouse or child is admissible (except as otherwise provided under paragraph (3)) as an immigrant under this chapter. Upon the spouse's or child's admission to the United States, such admission shall be charged against the numerical limitation established in accordance with the appropriate subsection under which the refugee's admission is charged.
+
+(B) An unmarried alien who seeks to accompany, or follow to join, a parent granted admission as a refugee under this subsection, and who was under 21 years of age on the date on which such parent applied for refugee status under this section, shall continue to be classified as a child for purposes of this paragraph, if the alien attained 21 years of age after such application was filed but while it was pending.
 
 (3) The provisions of paragraphs (4), (5), and (7)(A) of section 1182(a) of this title shall not be applicable to any alien seeking admission to the United States under this subsection, and the Attorney General may waive any other provision of such section (other than paragraph (2)(C) or subparagraph (A), (B), (C), or (E) of paragraph (3)) with respect to such an alien for humanitarian purposes, to assure family unity, or when it is otherwise in the public interest. Any such waiver by the Attorney General shall be in writing and shall be granted only on an individual basis following an investigation. The Attorney General shall provide for the annual reporting to Congress of the number of waivers granted under this paragraph in the previous fiscal year and a summary of the reasons for granting such waivers.
 
@@ -38,11 +40,11 @@ If the President determines, after appropriate consultation, that (1) an unfores
 
 #### (e) “Appropriate consultation” defined
 
-For purposes of this section, the term “appropriate consultation” means, with respect to the admission of refugees and allocation of refugee admissions, discussions in person by designated Cabinet-level representatives of the President with members of the Committees on the Judiciary of the Senate and of the House of Representatives to review the refugee situation or emergency refugee situation, to project the extent of possible participation of the United States therein, to discuss the reasons for believing that the proposed admission of refugees is justified by humanitarian concerns or grave humanitarian concerns or is otherwise in the national interest, and to provide such members with the following information:
+For purposes of this section, the term “appropriate consultation” means, with respect to theadmission of refugees and allocation of refugee admissions, discussions in person by designated Cabinet-level representatives of the President with members of the Committees on the Judiciary of the Senate and of the House of Representatives to review the refugee situation or emergency refugee situation, to project the extent of possible participation of the United States therein, to discuss the reasons for believing that the proposed admission of refugees is justified by humanitarian concerns or grave humanitarian concerns or is otherwise in the national interest, and to provide such members with the following information:
 
 &emsp;(1) A description of the nature of the refugee situation.
 
-&emsp;(2) A description of the number and allocation of the refugees to be admitted and ananalysis of conditions within the countries from which they came.
+&emsp;(2) A description of the number and allocation of the refugees to be admitted and an analysis of conditions within the countries from which they came.
 
 &emsp;(3) A description of the proposed plans for their movement and resettlement and the estimated cost of their movement and resettlement.
 
@@ -62,13 +64,15 @@ For purposes of this section, the term “appropriate consultation” means, wit
 
 (2) Such training shall include country-specific conditions, instruction on the internationally recognized right to freedom of religion, instruction on methods of religious persecution practiced in foreign countries, and applicable distinctions within a country between the nature of and treatment of various religious practices and believers.
 
-(June 27, 1952, ch. 477, title II, ch. 1, §207, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 103; amended Pub. L. 100–525, §9(h), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §104(b), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title VI, §601(b), Sept. 30, 1996, 110 Stat. 3009–689; Pub. L. 105–292, title VI, §602(a), Oct. 27, 1998, 112 Stat. 2812.)
+(June 27, 1952, ch. 477, title II, ch. 1, §207, as added Pub. L. 96–212, title II, §201(b), Mar. 17, 1980, 94 Stat. 103; amended Pub. L. 100–525, §9(h), Oct. 24, 1988, 102 Stat. 2620; Pub. L. 101–649, title I, §104(b), title VI, §603(a)(4), Nov. 29, 1990, 104 Stat. 4985, 5082; Pub. L. 102–232, title III, §307(<i>l</i>)(1), Dec. 12, 1991, 105 Stat. 1756; Pub. L. 104–208, div. C, title VI, §601(b), Sept. 30, 1996, 110 Stat. 3009–689; Pub. L. 105–292, title VI, §602(a), Oct. 27, 1998, 112 Stat. 2812; Pub. L. 107–208, §5, Aug. 6, 2002, 116 Stat. 929.)
 
 #### Prior Provisions
 
 A prior section 1157, act June 27, 1952, ch. 477, title II, ch. 1, §207, 66 Stat. 181, prohibited issuance of immigrant visas to other immigrants in lieu of immigrants excluded from admission, immigrants deported, immigrants failing to apply for admission to the United States, or immigrants found to be nonquota immigrants after having previously been found to be quota immigrants, prior to repeal by Pub. L. 89–236, §7, Oct. 3, 1965, 79 Stat. 916.
 
 #### Amendments
+
+2002—Subsec. (c)(2). Pub. L. 107–208 designated existing provisions as subpar. (A) and added subpar. (B).
 
 1998—Subsec. (f). Pub. L. 105–292 added subsec. (f).
 
@@ -81,6 +85,10 @@ A prior section 1157, act June 27, 1952, ch. 477, title II, ch. 1, §207, 66 Sta
 Subsec. (c)(3). Pub. L. 101–649, §603(a)(4), substituted “(4), (5), and (7)(A)” for “(14), (15), (20), (21), (25), and (32)” and “(other than paragraph (2)(C) or subparagraphs (A), (B), (C), or (E) of paragraph (3))” for “(other than paragraph (27), (29), or (33) and other than so much of paragraph (23) as relates to trafficking in narcotics)”.
 
 1988—Subsec. (c)(1). Pub. L. 100–525 substituted “otherwise” for “otherwide”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–208 effective Aug. 6, 2002, and applicable to certain beneficiary aliens, see section 8 of Pub. L. 107–208, set out as a note under section 1151 of this title.
 
 #### Effective Date of 1991 Amendment
 
@@ -96,9 +104,13 @@ Amendment by section 603(a)(4) of Pub. L. 101–649 applicable to individuals en
 
 Section (with the exception of subsec. (c) which is effective Apr. 1, 1980) effective, except as otherwise provided, Mar. 17, 1980, and applicable to fiscal years beginning with the fiscal year beginning Oct. 1, 1979, see section 204 of Pub. L. 96–212, set out as an Effective Date of 1980 Amendment note under section 1101 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
 #### Bring Them Home Alive Program
 
-Pub. L. 106–484, Nov. 9, 2000, 114 Stat. 2195, provided that:
+Pub. L. 106–484, Nov. 9, 2000, 114 Stat. 2195, as amended by Pub. L. 107–258, §2, Oct. 29, 2002, 116 Stat. 1738, provided that:
 
 #### “SECTION 1. SHORT TITLE.
 
@@ -108,7 +120,7 @@ Pub. L. 106–484, Nov. 9, 2000, 114 Stat. 2195, provided that:
 
 “(a)
 
-Asylum for Eligible Aliens.—Notwithstanding any other provision of law, the Attorney General shall grant refugee status in the United States to any alien described in subsection (b), upon the application of that alien.
+Asylum for Eligible Aliens.—Notwithstanding any other provision of law, the Attorney General shallgrant refugee status in the United States to any alien described in subsection (b), upon the application of that alien.
 
 “(b)
 
@@ -144,7 +156,7 @@ Exclusion.—Such term does not include an individual with respect to whom it is
 
 &emsp;“(2)
 
-Missing status.—The term ‘missing status’, with respect to the Vietnam War, means the status ofan individual as a result of the Vietnam War if immediately before that status began the individual—
+Missing status.—The term ‘missing status’, with respect to the Vietnam War, means the status of an individual as a result of the Vietnam War if immediately before that status began the individual—
 
 &emsp;&emsp;“(A) was performing service in Vietnam; or
 
@@ -204,6 +216,64 @@ Missing status.—The term ‘missing status’, with respect to the Korean War,
 
 &emsp;&emsp;“(B) was performing service in Asia in direct support of military operations in the Korean peninsula.
 
+#### “SEC. 3A. AMERICAN PERSIAN GULF WAR POW/MIA ASYLUM PROGRAM.
+
+“(a)
+
+Asylum for Eligible Aliens.—Notwithstanding any other provision of law, the Attorney General shall grant refugee status in the United States to any alien described in subsection (b), upon the application of that alien.
+
+“(b)
+
+Eligibility.—
+
+&emsp;“(1)
+
+In general.—Except as provided in paragraph (2), an alien described in this subsection is—
+
+&emsp;&emsp;“(A) any alien who—
+
+&emsp;&emsp;&emsp;“(i) is a national of Iraq or a nation of the Greater Middle East Region (as determined by the Attorney General in consultation with the Secretary of State); and
+
+&emsp;&emsp;&emsp;“(ii) personally delivers into the custody of the United States Government a living American Persian Gulf War POW/MIA; and
+
+&emsp;&emsp;“(B) any parent, spouse, or child of an alien described in subparagraph (A).
+
+&emsp;“(2)
+
+Exceptions.—An alien described in this subsection does not include a terrorist, a persecutor, a person who has been convicted of a serious criminal offense, or a person who presents a danger to the security of the United States, as set forth in clauses (i) through (v) of section 208(b)(2)(A) of the Immigration and Nationality Act (8 U.S.C. 1158(b)(2)(A)).
+
+“(c)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+American persian gulf war pow/mia.—
+
+&emsp;&emsp;“(A)
+
+In general.—Except as provided in subparagraph (B), the term ‘American Persian Gulf War POW/MIA’ means an individual—
+
+&emsp;&emsp;&emsp;“(i) who is a member of a uniformed service (within the meaning of section 101(3) of title 37, United States Code) in a missing status (as defined in section 551(2) of such title and this subsection) as a result of the Persian Gulf War, or any successor conflict, operation, or action; or
+
+&emsp;&emsp;&emsp;“(ii) who is an employee (as defined in section 5561(2) of title 5, United States Code) in a missing status (as defined in section 5561(5) of such title) as a result of the Persian Gulf War, or any successor conflict, operation, or action.
+
+&emsp;&emsp;“(B)
+
+Exclusion.—Such term does not include an individual with respect to whom it is officially determined under section 552(c) of title 37, United States Code, that such individual is officially absent from such individual's post of duty without authority.
+
+&emsp;“(2)
+
+Missing status.—The term ‘missing status’, with respect to the Persian Gulf War, or any successor conflict, operation, or action, means the status of an individual as a result of the Persian Gulf War, or such conflict, operation, or action, if immediately before that status began the individual—
+
+&emsp;&emsp;“(A) was performing service in Kuwait, Iraq, or another nation of the Greater Middle East Region; or
+
+&emsp;&emsp;“(B) was performing service in the Greater Middle East Region in direct support of military operations in Kuwait or Iraq.
+
+&emsp;“(3)
+
+Persian gulf war.—The term ‘Persian Gulf War’ means the period beginning on August 2, 1990,and ending on the date thereafter prescribed by Presidential proclamation or by law.”
+
 #### “SEC. 4. BROADCASTING INFORMATION ON THE ‘BRING THEM HOME ALIVE’ PROGRAM.
 
 “(a)
@@ -218,9 +288,11 @@ In general.—The International Broadcasting Bureau shall broadcast, through WOR
 
 Covered countries.—The foreign countries covered by paragraph (1) are—
 
-&emsp;&emsp;“(A) Vietnam, Cambodia, Laos, China, and North Korea; and
+&emsp;&emsp;“(A) Vietnam, Cambodia, Laos, China, and North Korea;
 
-&emsp;&emsp;“(B) Russia and the other independent states of the former Soviet Union.
+&emsp;&emsp;“(B) Russia and the other independent states of the former Soviet Union; and
+
+&emsp;&emsp;“(C) Iraq, Kuwait, or any other country of the Greater Middle East Region (as determined by the International Broadcasting Bureau in consultation with the Attorney General and the Secretary of State).
 
 “(b)
 
@@ -316,6 +388,8 @@ Section 204(d)(1) of Pub. L. 96–212 provided that: “Notwithstanding section 
 
 Determinations by the President pursuant to this section concerning the admission and adjustment of status of refugees for particular fiscal years were contained in the following Presidential Determinations:
 
+Presidential Determination No. 03–02, Oct. 16, 2002, 67 F.R. 65469.
+
 Presidential Determination No. 02–04, Nov. 21, 2001, 66 F.R. 63487.
 
 Presidential Determination No. 2000–32, Sept. 29, 2000, 65 F.R. 59697.
@@ -362,21 +436,13 @@ Presidential Determination No. 80–28, Sept. 30, 1980, 45 F.R. 68365.
 
 #### Ex. Ord. No. 12208. Consultations on the Admission of Refugees
 
-Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617, provided:
+Ex. Ord. No. 12208, Apr. 15, 1980, 45 F.R. 25789, as amended by Ex. Ord. No. 12608, Sept. 9, 1987, 52 F.R. 34617; Ex. Ord. No. 13286, §49, Feb. 28, 2003, 68 F.R. 10628, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Refugee Act of 1980 (P.L. 96–212; 8 U.S.C. 1101 note), the Immigration and Nationality Act, as amended (8 U.S.C. 1101 et seq.), and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
-1–101. Exclusive of the functions otherwise delegated, or reserved to the President, by this Order, there are hereby delegated the following functions:
+1–101. Exclusive of the functions otherwise delegated, or reserved to the President, by this Order, there are hereby delegated to the Secretary of State and the Secretary of Homeland Security, or either of them, the functions of initiating and carrying out appropriate consultations with members of the Committees on the Judiciary of the Senate and of the House of Representatives for purposes of Sections 101(a)(42)(B) and 207(a), (b), (d), and (e) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(42)(B) and 1157(a), (b), (d), and (e)).
 
-(a) To the Secretary of State and the Attorney General, or either of them, the functions of initiating and carrying out appropriate consultations with members of the Committees on the Judiciary of the Senate and of the House of Representatives for purposes of Sections 101(a)(42)(B) and 207(a), (b), (d), and (e) of the Immigration and Nationality Act, as amended (8 U.S.C. 1101(a)(42)(B) and 1157(a), (b), (d), and (e)).
-
-(b) To the United States Coordinator for Refugee Affairs, the functions of reporting and carrying on periodic discussions under section 207(d)(1) of the Immigration and Nationality Act, as amended \[8 U.S.C. 1157(d)(1)\].
-
-1–102. (a) The functions vested in the United States Coordinator for Refugee Affairs by Section 1–101(b) of this Order shall be carried out in consultation with the Secretary of State, the Attorney General, and the Secretary of Health and Human Services.
-
-(b) The United States Coordinator shall notify the Committees on the Judiciary of the Senate and of the House of Representatives that the Secretary of State and the Attorney General, or either of them, wish to consult for the purposes of Section 207(a), (b), or (d) of the Immigration and Nationality Act, as amended \[8 U.S.C. 1157(a), (b), or (d)\]. The United States Coordinator for Refugee Affairs shall, in accord with his responsibilities under Section 301 of the Refugee Act of 1980 (8 U.S.C. 1525), prepare for those Committees the information required by 207(e) of the Immigration and Nationality Act, as amended.
-
-1–103. There are reserved to the President the following functions under the Immigration and Nationality Act, as amended \[8 U.S.C. 1101 et seq.\].
+1–102. There are reserved to the President the following functions under the Immigration and Nationality Act, as amended \[8 U.S.C. 1101 et seq.\].
 
 (a) To specify special circumstances for purposes of qualifying persons as refugees under Section 101(a)(42)(B) \[8 U.S.C. 1101(a)(42)(B)\].
 
@@ -384,9 +450,9 @@ By the authority vested in me as President by the Constitution and laws of the U
 
 (c) To fix the number of refugees to be admitted under Section 207(b).
 
-1–104. Except to the extent inconsistent with this Order, all actions previously taken pursuant to any function delegated or assigned by this Order shall be deemed to have been taken and authorized by this Order.
+1–103. Except to the extent inconsistent with this Order, all actions previously taken pursuant to any function delegated or assigned by this Order shall be deemed to have been taken and authorized by this Order.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1101, 1151, 1159, 1181, 1182, 1225, 1252, 1324b, 1522, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 22 sections 4703, 6472, 7105; title 42 sections 608, 1382j, 1436a, 1869c.
+This section is referred to in sections 1101, 1151, 1159, 1181, 1182, 1225, 1252, 1324b, 1522, 1612, 1613, 1622, 1641, 1738 of this title; title 7 section 2015; title 18 section 842; title 22 sections 4703, 6472, 7105; title 42 sections 608, 1382j, 1436a, 1869c.
 

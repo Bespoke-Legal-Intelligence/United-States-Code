@@ -90,7 +90,7 @@ The Secretary is authorized—
 
 &emsp;(ii) the individual, either alone or together with other individuals, represents, under a voting trust, power of attorney, proxy, or similar agreement, one or more persons who have, individually or in combination with the other persons represented or the individual representing them, a substantial ownership interest in the institution; or
 
-&emsp;(iii) the individual is a member of the board of directors, the chief executive officer, orother executive officer of the institution or of an entity that holds a substantial ownership interest in the institution.
+&emsp;(iii) the individual is a member of the board of directors, the chief executive officer, or other executive officer of the institution or of an entity that holds a substantial ownership interest in the institution.
 
 (B) The Secretary may determine that an entity exercises substantial control over one or more institutions participating in a program under this subchapter and part C of subchapter I of chapter 34 of title 42 if the Secretary determines that the entity directly or indirectly holds a substantial ownership interest in the institution.
 
@@ -124,7 +124,7 @@ The Secretary is authorized—
 
 &emsp;(C) willfully fails to pay such refund or willfully attempts in any manner to evade payment of such refund,
 
-> shall, in addition to other penalties provided by law, be liable to the Secretary for the amount of the refund not paid, to the same extent with respect to such refund that such an individual would be liable as a responsible person for a penalty under section 6672(a) of title 26 with respect to the nonpayment of taxes.
+> shall, in addition to other penalties provided by law, be liable to the Secretary for the amount ofthe refund not paid, to the same extent with respect to such refund that such an individual would be liable as a responsible person for a penalty under section 6672(a) of title 26 with respect to the nonpayment of taxes.
 
 #### (f) Actions on applications and site visits
 
@@ -186,7 +186,7 @@ The Secretary shall ensure that prompt action is taken by the Department on any 
 
 &emsp;(B) another action determined by the Secretary to be a routine business practice.
 
-(4)(A) The Secretary may provisionally certify an institution seeking approval of a change in ownership based on the preliminary review by the Secretary of a materially complete application that is received by the Secretary within 10 business days of the transaction for which the approval is sought.
+(4)(A) The Secretary may provisionally certify an institution seeking approval of a change inownership based on the preliminary review by the Secretary of a materially complete application that is received by the Secretary within 10 business days of the transaction for which the approval is sought.
 
 (B) A provisional certification under this paragraph shall expire not later than the end of the month following the month in which the transaction occurred, except that if the Secretary has not issued a decision on the application for the change of ownership within that period, the Secretary may continue such provisional certification on a month-to-month basis until such decision has been issued.
 
@@ -248,7 +248,7 @@ Pub. L. 105–244, §102(b)(7)(A), substituted “sections 1002(b)(1)(E) and 100
 
 Subsec. (j)(2). Pub. L. 105–244, §102(a)(6)(B), (b)(7)(B), amended par. (2) identically, substituting “section 1001(a)(2)” for “section 1141(a)(2)”.
 
-1993—Subsec. (c)(2). Pub. L. 103–208, §2(i)(9)(A), inserted at end “Such criteria shall take into account any differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for profit and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.”
+1993—Subsec. (c)(2). Pub. L. 103–208, §2(i)(9)(A), inserted at end “Such criteria shall take into accountany differences in generally accepted accounting principles, and the financial statements required thereunder, that are applicable to for profit and nonprofit institutions. The Secretary shall take into account an institution's total financial circumstances in making a determination of its ability to meet the standards herein required.”
 
 Subsec. (c)(3). Pub. L. 103–208, §2(i)(9)(B), substituted “The Secretary shall determine” for “The Secretary may determine” in introductory provisions.
 
@@ -270,7 +270,7 @@ Subsec. (j)(1). Pub. L. 103–208, §2(i)(14), amended par. (1) generally. Prior
 
 Amendment by sections 102(a)(6)(B), (b)(6), (7) and 493(a), (b), (d)–(h) of Pub. L. 105–244 effective Oct. 1, 1998, except as otherwise provided in Pub. L. 105–244, see section 3 of Pub. L. 105–244, set out as a note under section 1001 of this title.
 
-Pub. L. 105–244, title IV, §493(c)(2), Oct. 7, 1998, 112 Stat. 1762, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effectivewith respect to any unpaid refunds that were first required to be paid to a lender or to the Secretary on or after 90 days after the date of enactment of this Act \[Oct. 7, 1998\].”
+Pub. L. 105–244, title IV, §493(c)(2), Oct. 7, 1998, 112 Stat. 1762, provided that: “The amendment made by paragraph (1) \[amending this section\] shall be effective with respect to any unpaid refunds that were first required to be paid to a lender or to the Secretary on or after 90 days after the date of enactment of this Act \[Oct. 7, 1998\].”
 
 #### Effective Date of 1993 Amendment
 

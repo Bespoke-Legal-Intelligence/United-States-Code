@@ -4,7 +4,7 @@
 
 #### (1) Access to student recruiting information
 
-&emsp;Notwithstanding section 1232g(a)(5)(B) of this title and except as provided in paragraph (2), each local educational agency receivingassistance under this chapter shall provide, on a request made by military recruiters or an institution of higher education, access to secondary school students names, addresses, and telephone listings.
+&emsp;Notwithstanding section 1232g(a)(5)(B) of this title and except as provided in paragraph (2), each local educational agency receiving assistance under this chapter shall provide, on a request made by military recruiters or an institution of higher education, access to secondary school students names, addresses, and telephone listings.
 
 #### (2) Consent
 

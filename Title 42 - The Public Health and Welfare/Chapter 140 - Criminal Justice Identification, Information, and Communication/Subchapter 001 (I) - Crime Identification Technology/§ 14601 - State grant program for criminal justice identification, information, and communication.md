@@ -62,7 +62,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 &emsp;(16) multiagency, multijurisdictional communications systems among the States to share routine and emergency information among Federal, State, and local law enforcement agencies;
 
-&emsp;(17) the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment of risk and other activities related to the protection of children, including protection against child sexual abuse, and placement of children in foster care; and
+&emsp;(17) the capability of the criminal justice system to deliver timely, accurate, and complete criminal history record information to child welfare agencies, organizations, and programs that are engaged in the assessment ofrisk and other activities related to the protection of children, including protection against child sexual abuse, and placement of children in foster care; and
 
 &emsp;(18) notwithstanding subsection (c) of this section, antiterrorism purposes as they relate to any other uses under this section or for other antiterrorism programs.
 
@@ -92,7 +92,7 @@ Grants under this section may be used for programs to establish, develop, update
 
 #### (d) Matching funds
 
-The Federal share of a grant received under this subchapter may not exceed 90 percent of the costs of a program or proposal funded under this subchapter unless the Attorney General waives,wholly or in part, the requirements of this subsection.
+The Federal share of a grant received under this subchapter may not exceed 90 percent of the costs of a program or proposal funded under this subchapter unless the Attorney General waives, wholly or in part, the requirements of this subsection.
 
 #### (e) Authorization of appropriations
 

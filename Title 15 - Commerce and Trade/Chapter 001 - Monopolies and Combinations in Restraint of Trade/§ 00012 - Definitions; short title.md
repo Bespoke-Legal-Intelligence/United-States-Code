@@ -1,6 +1,6 @@
 ### §12. Definitions; short title
 
-(a) “Antitrust laws,” as used herein, includes the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July second, eighteen hundred and ninety; sections seventy-three to seventy-seven, inclusive, of an Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” of August twenty-seventh, eighteen hundred and ninety-four; an Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes,’ ” approved February twelfth, nineteen hundred and thirteen; and also this Act.
+(a) “Antitrust laws,” as used herein, includes the Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July second, eighteen hundred and ninety; sections seventy-three to seventy-six, inclusive, of an Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” of August twenty-seventh, eighteen hundred and ninety-four; an Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes,’ ” approved February twelfth, nineteen hundred and thirteen; and also this Act.
 
 “Commerce,” as used herein, means trade or commerce among the several States and with foreign nations, or between the District of Columbia or any Territory of the United States and any State, Territory, or foreign nation, or between any insular possessions or other places under the jurisdiction of the United States, or between any such possession or place and any State or Territory of the United States or the District of Columbia or any foreign nation, or within the District of Columbia or any Territory or any insular possession or other place under the jurisdiction of the United States: <i>Provided</i>, That nothing in this Act contained shall apply to the Philippine Islands.
 
@@ -8,7 +8,7 @@ The word “person” or “persons” wherever used in this Act shall be deemed
 
 (b) This Act may be cited as the “Clayton Act”.
 
-(Oct. 15, 1914, ch. 323, §1, 38 Stat. 730; Pub. L. 94–435, title III, §305(b), Sept. 30, 1976, 90 Stat. 1397.)
+(Oct. 15, 1914, ch. 323, §1, 38 Stat. 730; Pub. L. 94–435, title III, §305(b), Sept. 30, 1976, 90 Stat. 1397; Pub. L. 107–273, div. C, title IV, §14102(c)(2)(A), Nov. 2, 2002, 116 Stat. 1921.)
 
 #### References in Text
 
@@ -16,7 +16,7 @@ Words “herein” and “this Act”, referred to in the three paragraphs of su
 
 The Act entitled “An Act to protect trade and commerce against unlawful restraints and monopolies,” approved July second, eighteen hundred and ninety, referred to in subsec. (a), is act July 2, 1890, ch. 647, 26 Stat. 209, as amended, known as the Sherman Act, which is classified to sections 1 to 7 of this title.
 
-The Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” of August twenty-seventh, eighteen hundred and ninety-four, referred to in subsec. (a), is act Aug. 27, 1894, ch. 349, 28 Stat. 509, as amended, known as the Wilson Tariff Act. Sections seventy-three to seventy-six thereof are set out as sections 8 to 11 of this title. Section seventy-seven thereof was not classified to the Code.
+The Act entitled “An Act to reduce taxation, to provide revenue for the Government, and for other purposes,” of August twenty-seventh, eighteen hundred and ninety-four, referred to in subsec. (a), is act Aug. 27, 1894, ch. 349, 28 Stat. 509, as amended, known as the Wilson Tariff Act. Sections seventy-three to seventy-six thereof are set out as sections 8 to 11 of this title.
 
 The Act entitled “An Act to amend sections seventy-three and seventy-six of the Act of August twenty-seventh, eighteen hundred and ninety-four, entitled ‘An Act to reduce taxation, to provide revenue for the Government, and for other purposes’,” approved February twelfth, nineteen hundred and thirteen, referred to in subsec. (a), is act Feb. 12, 1913, ch. 40, 37 Stat. 667, as amended, which is classified to sections 8 and 11 of this title.
 
@@ -28,11 +28,17 @@ The 3d par. of subsec. (a) is also classified to section 53 of Title 29, Labor.
 
 #### Amendments
 
+2002—Subsec. (a). Pub. L. 107–273 substituted “seventy-three to seventy-six” for “seventy-three to seventy-seven” in first par.
+
 1976—Pub. L. 94–435 designated existing provisions as subsec. (a) and added subsec. (b).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to cases commenced on or after Nov. 2, 2002, see section 14103 of Pub. L. 107–273, set out as a note under section 3 of this title.
 
 #### Clayton Act Referred to in Other Sections
 
-The Clayton Act \[see References in Text note above\] is referred to in sections 35, 44, 57b–1, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849, 3208; title 16 section 2602; title 30 sections 184, 1413; title 33 section 1331; title 40 section 488; title 42 sections 2135, 5417, 5909, 6202, 8235f, 9102; title 43 section 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
+The Clayton Act \[see References in Text note above\] is referred to in sections 35, 44, 57b–1, 1012, 1013, 3301, 3503 of this title; title 7 section 225; title 10 section 7430; title 12 sections 1828, 1849, 3208; title 16 section 2602; title 30 sections 184, 1413; title 33 section 1331; title 40 section 559; title 42 sections 2135, 5417, 5909, 6202, 8235f, 9102; title 43 section 1770; title 45 section 791; title 46 App. section 1702; title 49 section 10706; title 50 App. sections 1941a, 2158.
 
 #### Section Referred to in Other Sections
 

@@ -32,7 +32,7 @@
 
 &emsp;(1) Upon the consent of the parties, a full-time United States magistrate judge or a part-time United States magistrate judge who serves as a full-time judicial officer may conduct any or all proceedings in a jury or nonjury civil matter and order the entry of judgment in the case, when specially designated to exercise such jurisdiction by the district court or courts he serves. Upon the consent of the parties, pursuant to their specific written request, any other part-time magistrate judge may exercise such jurisdiction, if such magistrate judge meets the bar membership requirements set forth in section 631(b)(1) and the chief judge of the district court certifies that a full-time magistrate judge is not reasonably available in accordance with guidelines established by the judicial council of the circuit. When there is more than one judge of a district court, designation under this paragraph shall be by the concurrence of a majority of all the judges of such district court, and when there is no such concurrence, then by the chief judge.
 
-&emsp;(2) If a magistrate judge is designated to exercise civil jurisdiction under paragraph (1) of this subsection, the clerk of court shall, at the time the action is filed, notify the parties of the availability of a magistrate judge to exercise such jurisdiction. The decision of the parties shall be communicated to the clerk of court. Thereafter, either the district court judge or the magistrate judge may again advise the parties of the availability of the magistrate judge, but in so doing, shall also advise the parties that they are free to withhold consent without adverse substantive consequences. Rules of court for the reference of civil matters to magistrate judges shall include procedures to protect the voluntariness of the parties’ consent.
+&emsp;(2) If a magistrate judge is designated to exercise civil jurisdiction under paragraph (1) ofthis subsection, the clerk of court shall, at the time the action is filed, notify the parties of the availability of a magistrate judge to exercise such jurisdiction. The decision of the parties shall be communicated to the clerk of court. Thereafter, either the district court judge or the magistrate judge may again advise the parties of the availability of the magistrate judge, but in so doing, shall also advise the parties that they are free to withhold consent without adverse substantive consequences. Rules of court for the reference of civil matters to magistrate judges shall include procedures to protect the voluntariness of the parties’ consent.
 
 &emsp;(3) Upon entry of judgment in any case referred under paragraph (1) of this subsection, an aggrieved party may appeal directly to the appropriate United States court of appeals from the judgment of the magistrate judge in the same manner as an appeal from any other judgment of a district court. The consent of the parties allows a magistrate judge designated to exercise civil jurisdiction under paragraph (1) of this subsection to direct the entry of a judgment of the district court in accordance with the Federal Rules of Civil Procedure. Nothing in this paragraph shall be construed as a limitation of any party's right to seek review by the Supreme Court of the United States.
 
@@ -52,11 +52,11 @@ In general.—A United States magistrate judge serving under this chapter shall 
 
 &emsp;(2)
 
-Summary criminal contempt authority.—A magistrate judge shall have the power to punish summarily by fine or imprisonment such contempt of the authority of such magistrate judge constituting misbehavior of any person in the magistrate judge's presence so as to obstruct the administration of justice. The order of contempt shall be issued under the Federal Rules of Criminal Procedure.
+Summary criminal contempt authority.—A magistrate judge shall have the power to punish summarily by fine or imprisonment, or both, such contempt of the authority of such magistrate judge constituting misbehavior of any person in the magistrate judge's presence so as to obstruct the administration of justice. The order of contempt shall be issued under the Federal Rules of Criminal Procedure.
 
 &emsp;(3)
 
-Additional criminal contempt authority in civil consent and misdemeanor cases.—In any case in which a United States magistrate judge presides with the consent of the parties under subsection (c) of this section, and in any misdemeanor case proceeding before a magistrate judge under section 3401 of title 18, the magistrate judge shall have the power to punish, by fine or imprisonment, criminal contempt constituting disobedience or resistance to the magistrate judge's lawful writ, process, order, rule, decree, or command. Disposition of such contempt shall be conducted upon notice and hearing under the Federal Rules of Criminal Procedure.
+Additional criminal contempt authority in civil consent and misdemeanor cases.—In any case in which a United States magistrate judge presides with the consent of the parties under subsection (c) of this section, and in any misdemeanor case proceeding before a magistrate judge under section 3401 of title 18, the magistrate judge shall have the power to punish, by fine or imprisonment, or both, criminal contempt constituting disobedience or resistance to the magistrate judge's lawful writ, process, order, rule, decree, or command. Disposition of such contempt shall be conducted upon notice and hearing under the Federal Rules of Criminal Procedure.
 
 &emsp;(4)
 
@@ -74,7 +74,7 @@ Certification of other contempts to the district court.—Upon the commission of
 
 &emsp;&emsp;(B) in any other case or proceeding under subsection (a) or (b) of this section, or any other statute, where—
 
-&emsp;&emsp;&emsp;(i) the act committed in the magistrate judge's presence may, in the opinion of themagistrate judge, constitute a serious criminal contempt punishable by penalties exceeding those set forth in paragraph (5) of this subsection,
+&emsp;&emsp;&emsp;(i) the act committed in the magistrate judge's presence may, in the opinion of the magistrate judge, constitute a serious criminal contempt punishable by penalties exceeding those set forth in paragraph (5) of this subsection,
 
 &emsp;&emsp;&emsp;(ii) the act that constitutes a criminal contempt occurs outside the presence of the magistrate judge, or
 
@@ -84,7 +84,7 @@ Certification of other contempts to the district court.—Upon the commission of
 
 &emsp;(7)
 
-Appeals of magistrate judge contempt orders.—The appeal of an order of contempt under this subsection shall be made to the court of appeals in cases proceeding under subsection (c) of this section. The appeal of any other order of contempt issued under this section shall be made to the district court.
+Appeals of magistrate judge contempt orders.—The appeal of an order of contempt under this subsection shall be made to thecourt of appeals in cases proceeding under subsection (c) of this section. The appeal of any other order of contempt issued under this section shall be made to the district court.
 
 (f) In an emergency and upon the concurrence of the chief judges of the districts involved, a United States magistrate judge may be temporarily assigned to perform any of the duties specified in subsection (a), (b), or (c) of this section in a judicial district other than the judicial district for which he has been appointed. No magistrate judge shall perform any of such duties in a district to which he has been temporarily assigned until an order has been issued by the chief judge of such district specifying (1) the emergency by reason of which he has been transferred, (2) the duration of his assignment, and (3) the duties which he is authorized to perform. A magistrate judge so assigned shall not be entitled to additional compensation but shall be reimbursed for actual and necessary expenses incurred in the performance of his duties in accordance with section 635.
 
@@ -92,7 +92,7 @@ Appeals of magistrate judge contempt orders.—The appeal of an order of contemp
 
 (h) A United States magistrate judge who has retired may, upon the consent of the chief judge of the district involved, be recalled to serve as a magistrate judge in any judicial district by the judicial council of the circuit within which such district is located. Upon recall, a magistrate judge may receive a salary for such service in accordance with regulations promulgated by the Judicial Conference, subject to the restrictions on the payment of an annuity set forth in section 377 of this title or in subchapter III of chapter 83, and chapter 84, of title 5 which are applicable to such magistrate judge. The requirements set forth in subsections (a), (b)(3), and (d) of section 631, and paragraph (1) of subsection (b) of such section to the extent such paragraph requires membership of the bar of the location in which an individual is to serve as a magistrate judge, shall not apply to the recall of a retired magistrate judge under this subsection or section 375 of this title. Any other requirement set forth in section 631(b) shall apply to the recall of a retired magistrate judge under this subsection or section 375 of this title unless such retired magistrate judge met such requirement upon appointment or reappointment as a magistrate judge under section 631.
 
-(June 25, 1948, ch. 646, 62 Stat. 917; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1113; Pub. L. 92–239, §§1, 2, Mar. 1, 1972, 86 Stat. 47; Pub. L. 94–577, §1, Oct. 21, 1976, 90 Stat. 2729; Pub. L. 95–144, §2, Oct. 28, 1977, 91 Stat. 1220; Pub. L. 96–82, §2, Oct. 10, 1979, 93 Stat. 643; Pub. L. 98–473, title II, §208, Oct. 12, 1984, 98 Stat. 1986; Pub. L. 98–620, title IV, §402(29)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–651, title II, §201(a)(2), Nov. 14, 1986, 100 Stat. 3647; Pub. L. 100–659, §4(c), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–690, title VII, §7322, Nov. 18, 1988, 102 Stat. 4467; Pub. L. 100–702, title IV, §404(b)(1), title X, §1014, Nov. 19, 1988, 102 Stat. 4651, 4669; Pub. L. 101–650, title III, §§308(a), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 104–317, title II, §§201, 202(b), 207, Oct. 19, 1996, 110 Stat. 3848–3850; Pub. L. 106–518, title II, §§202, 203(b), Nov. 13, 2000, 114 Stat. 2412, 2414.)
+(June 25, 1948, ch. 646, 62 Stat. 917; Pub. L. 90–578, title I, §101, Oct. 17, 1968, 82 Stat. 1113; Pub. L. 92–239, §§1, 2, Mar. 1, 1972, 86 Stat. 47; Pub. L. 94–577, §1, Oct. 21, 1976, 90 Stat. 2729; Pub. L. 95–144, §2, Oct. 28, 1977, 91 Stat. 1220; Pub. L. 96–82, §2, Oct. 10, 1979, 93 Stat. 643; Pub. L. 98–473, title II, §208, Oct. 12, 1984, 98 Stat. 1986; Pub. L. 98–620, title IV, §402(29)(B), Nov. 8, 1984, 98 Stat. 3359; Pub. L. 99–651, title II, §201(a)(2), Nov. 14, 1986, 100 Stat. 3647; Pub. L. 100–659, §4(c), Nov. 15, 1988, 102 Stat. 3918; Pub. L. 100–690, title VII, §7322, Nov. 18, 1988, 102 Stat. 4467; Pub. L. 100–702, title IV, §404(b)(1), title X, §1014, Nov. 19, 1988, 102 Stat. 4651, 4669; Pub. L. 101–650, title III, §§308(a), 321, Dec. 1, 1990, 104 Stat. 5112, 5117; Pub. L. 104–317, title II, §§201, 202(b), 207, Oct. 19, 1996, 110 Stat. 3848–3850; Pub. L. 106–518, title II, §§202, 203(b), Nov. 13, 2000, 114 Stat. 2412, 2414; Pub. L. 107–273, div. B, title III, §3002(b), Nov. 2, 2002, 116 Stat. 1805.)
 
 #### Historical and Revision Notes
 
@@ -110,7 +110,7 @@ As finally enacted, section 158b of Title 16, U.S.C., which was derived from act
 
 As finally enacted, act May 15, 1947, ch. 57, 61 Stat. 92, which amended section 403c–5 of Title 16, U.S.C., was an additional source of this section, and such act was accordingly included by Senate amendment in the schedule of repeals. See 80th Congress Senate Report No. 1559.
 
-<i>Prior oaths, acknowledgments, affidavits, and depositions provisions in section 637</i>.—Based on title 28, U.S.C., 1940 ed., §§525, 758 (R.S. §945; May 28, 1896, ch. 252, §19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167).
+<i>Prior oaths, acknowledgments, affidavits, and depositions provisions in section 637</i>.—Based on title 28, U.S.C.,1940 ed., §§525, 758 (R.S. §945; May 28, 1896, ch. 252, §19, 29 Stat. 184; Mar. 2, 1901, ch. 814, 31 Stat. 956; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167).
 
 This section consolidates part of section 525 with section 758 of title 28, U.S.C., 1940 ed. The provision of said section 525 empowering clerks and deputy clerks to administer oaths is incorporated in section 953 of this title. The provision of said section 758 that acknowledgments of bail and affidavits should have the same effect as if taken before judges was omitted as surplusage.
 
@@ -130,7 +130,11 @@ The Federal Rules of Civil Procedure for the United States district courts, refe
 
 #### Amendments
 
-<b>2000</b>—Subsec. (a)(4), (5). Pub. L. 106–518, §203(b), added pars. (4) and (5) and struck out former pars. (4) and (5) which read as follows:
+2002—Subsec. (e)(2). Pub. L. 107–273, §3002(b)(1), inserted “, or both,” after “fine or imprisonment”.
+
+Subsec. (e)(3). Pub. L. 107–273, §3002(b)(2), inserted “or both,” after “fine or imprisonment,”.
+
+2000—Subsec. (a)(4), (5). Pub. L. 106–518, §203(b), added pars. (4) and (5) and struck out former pars. (4) and (5) which read as follows:
 
 “(4) the power to enter a sentence for a petty offense that is a class B misdemeanor charging a motor vehicle offense, a class C misdemeanor, or an infraction; and
 
@@ -138,7 +142,7 @@ The Federal Rules of Civil Procedure for the United States district courts, refe
 
 Subsec. (e). Pub. L. 106–518, §202, amended subsec. (e) generally. Prior to amendment, subsec. (e) specified conduct before a magistrate judge which constituted contempt of court and prescribed procedure for adjudicating and punishing contempts.
 
-<b>1996</b>—Subsec. (a)(3). Pub. L. 104–317, §202(b)(1), substituted a semicolon for “, and” at end.
+1996—Subsec. (a)(3). Pub. L. 104–317, §202(b)(1), substituted a semicolon for “, and” at end.
 
 Subsec. (a)(4), (5). Pub. L. 104–317, §202(b)(2), added pars. (4) and (5) and struck out former par. (4) which read as follows: “the power to enter a sentence for a misdemeanor or infraction with the consent of the parties.”
 
@@ -154,9 +158,9 @@ Subsec. (d). Pub. L. 104–317, §207(2), struck out “, and for the taking an
 
 Subsec. (f). Pub. L. 104–317, §201, substituted “subsection (a), (b), or (c)” for “subsection (a) or (b)” in first sentence.
 
-<b>1990</b>—Subsec. (c)(2). Pub. L. 101–650 substituted “the availability of a magistrate to exercise” for “their right to consent to the exercise of” in first sentence and amended third sentence generally. Prior to amendment, third sentence read as follows: “Thereafter, neither the district judge nor the magistrate shall attempt to persuade or induce any party to consent to reference of any civil matter to a magistrate.”
+1990—Subsec. (c)(2). Pub. L. 101–650 substituted “the availability of a magistrate to exercise” for “their right to consent to the exercise of” in first sentence and amended third sentence generally. Prior to amendment, third sentence read as follows: “Thereafter, neither the district judge nor the magistrate shall attempt to persuade or induce any party to consent to reference of any civil matter to a magistrate.”
 
-<b>1988</b>—Subsec. (a)(4). Pub. L. 100–690 added par. (4).
+1988—Subsec. (a)(4). Pub. L. 100–690 added par. (4).
 
 Subsec. (c)(7). Pub. L. 100–702, §1014, amended par. (7) generally. Prior to amendment, par. (7) read as follows: “The magistrate shall determine, taking into account the complexity of the particular matter referred to the magistrate, whether the record in the proceeding shall be taken, pursuant to section 753 of this title, by electronic sound recording means, by a court reporter appointed or employed by the court to take a verbatim record by shorthand or by mechanical means, or by an employee of the court designated by the court to take such a verbatim record. Notwithstanding the magistrate's determination, (A) the proceeding shall be taken down by a court reporter if any party so requests, (B) the proceeding shall be recorded by a means other than a court reporter if all parties so agree, and (C) no record of the proceeding shall be made if all parties so agree. Reporters referred to in this paragraph may be transferred for temporary service in any district court of the judicial circuit for reporting proceedings under this subsection, or for other reporting duties in such court.”
 
@@ -164,29 +168,29 @@ Subsec. (d). Pub. L. 100–702, §404(b)(1), substituted “section 2072 of this
 
 Subsec. (h). Pub. L. 100–659 inserted “section 377 of this title or in” after “annuity set forth in” and “which are applicable to such magistrate” after “title 5” in second sentence.
 
-<b>1986</b>—Subsec. (h). Pub. L. 99–651 added subsec. (h).
+1986—Subsec. (h). Pub. L. 99–651 added subsec. (h).
 
-<b>1984</b>—Subsec. (a)(2). Pub. L. 98–473 substituted “issue orders pursuant to section 3142 of title 18 concerning release or detention of persons pending trial” for “impose conditions of release under section 3146 of title 18”.
+1984—Subsec. (a)(2). Pub. L. 98–473 substituted “issue orders pursuant to section 3142 of title 18 concerning release or detention of persons pending trial” for “impose conditions of release under section 3146 of title 18”.
 
 Subsec. (c)(4). Pub. L. 98–620 struck out “expeditious and” before “inexpensive”.
 
-<b>1979</b>—Subsec. (c). Pub. L. 96–82, §2(2), added subsec. (c). Former subsec. (c) redesignated (d).
+1979—Subsec. (c). Pub. L. 96–82, §2(2), added subsec. (c). Former subsec. (c) redesignated (d).
 
 Subsecs. (d) to (g). Pub. L. 96–82, §2(1), redesignated former subsecs. (c) to (f) as (d) to (g), respectively.
 
-<b>1977</b>—Subsec. (f). Pub. L. 95–144 added subsec. (f).
+1977—Subsec. (f). Pub. L. 95–144 added subsec. (f).
 
-<b>1976</b>—Subsec. (b). Pub. L. 94–577 completely revised provisions under which additional duties may be assigned to a United States Magistrate by allowing, among other additional duties, the assignment of pretrial matters, dispositive motions, and service as a special master.
+1976—Subsec. (b). Pub. L. 94–577 completely revised provisions under which additional duties may be assigned to a United States Magistrate by allowing, among other additional duties, the assignment of pretrial matters, dispositive motions, and service as a special master.
 
-<b>1972</b>—Pub. L. 92–239, §2, substituted “Jurisdiction, powers, and temporary assignment” for “Jurisdiction and powers” in section catchline.
+1972—Pub. L. 92–239, §2, substituted “Jurisdiction, powers, and temporary assignment” for “Jurisdiction and powers” in section catchline.
 
 Subsec. (e). Pub. L. 92–239, §1, added subsec. (e).
 
-<b>1968</b>—Pub. L. 90–578 substituted provisions declaratory of jurisdiction and powers of United States magistrates for prior provisions respecting rendition of accounts by United States commissioners.
+1968—Pub. L. 90–578 substituted provisions declaratory of jurisdiction and powers of United States magistrates for prior provisions respecting rendition of accounts by United States commissioners.
 
 #### Change of Name
 
-Words “magistrate judge”, “magistrate judge's”, and “magistrate judges” substituted for “magistrate”, “magistrate's”, and “magistrates”, respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
+Words “magistrate judge”, “magistrate judge's”, and “magistrate judges” substituted for “magistrate”,“magistrate's”, and “magistrates”, respectively, wherever appearing in text pursuant to section 321 of Pub. L. 101–650, set out as a note under section 631 of this title.
 
 #### Effective Date of 1988 Amendments
 

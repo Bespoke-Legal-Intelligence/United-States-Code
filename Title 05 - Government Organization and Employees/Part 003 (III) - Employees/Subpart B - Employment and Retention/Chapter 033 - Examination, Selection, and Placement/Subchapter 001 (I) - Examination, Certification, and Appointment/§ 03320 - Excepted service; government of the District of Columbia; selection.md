@@ -1,6 +1,6 @@
 ### §3320. Excepted service; government of the District of Columbia; selection
 
-The nominating or appointing authority shall select for appointment to each vacancy in the excepted service in the executive branch and in the government of the District of Columbia from the qualified applicants in the same manner and under the same conditions required for the competitive service by sections 3308–3318 of this title. This section does not apply to an appointment required by Congress to be confirmed by, or made with the advice and consent of, the Senate.
+The nominating or appointing authority shall select for appointment to each vacancy in theexcepted service in the executive branch and in the government of the District of Columbia from the qualified applicants in the same manner and under the same conditions required for the competitive service by sections 3308–3318 of this title. This section does not apply to an appointment required by Congress to be confirmed by, or made with the advice and consent of, the Senate.
 
 (Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 422.)
 
@@ -34,5 +34,5 @@ Pub. L. 93–198, title VII, §734, Dec. 24, 1973, 87 Stat. 823, authorized the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2302 of this title; title 22 section 1438.
+This section is referred to in section 2302 of this title; title 22 section 1438; title 49 section 40122.
 

@@ -90,7 +90,7 @@
 
 &emsp;(A) meets the definition of such term under paragraph (2) of subsection (a) (applied disregarding the parenthetical matter before subparagraph (A) thereof); and
 
-&emsp;(B) such special agent satisfies the requirements of subsection (d) without taking into account any hours described in paragraph (2)(B) thereof.
+&emsp;(B) such special agent satisfies the requirements of subsection (d) without taking intoaccount any hours described in paragraph (2)(B) thereof.
 
 (2) In applying subsection (h) with respect to a special agent under this subsection—
 
@@ -142,11 +142,15 @@ Section 633(e) of Pub. L. 103–329 provided that: “The amendments made by thi
 
 &emsp;“(1) Criminal investigators, employed in Offices of Inspectors General, who are not receiving administratively uncontrollable overtime compensation or who are receiving such premium pay at a rate less than 25 percent prior to the date of enactment of this Act, may implement availability pay at any time prior to September 30, 1995, after which date availability pay as authorized under this section shall be provided to such criminal investigators.
 
-&emsp;“(2) Criminal investigators, employed by Offices of Inspectors General, who are receiving administratively uncontrollable overtime at a rate less than 25 percent, shall continue to receive this compensationat the same rate or higher until availability pay compensation is provided, which shall be no later than the last pay period ending on or before September 30, 1995.”
+&emsp;“(2) Criminal investigators, employed by Offices of Inspectors General, who are receiving administratively uncontrollable overtime at a rate less than 25 percent, shall continue to receive this compensation at the same rate or higher until availability pay compensation is provided, which shall be no later than the last pay period ending on or before September 30, 1995.”
 
 #### Implementation
 
 Pub. L. 105–277, div. A, §101(b) \[title IV, §407(b)\], div. G, subdiv. B, title XXIII, §2316(b), Oct. 21, 1998, 112 Stat. 2681–50, 2681–102, 2681–828, provided that: “Not later than the date on which the amendments made by this section \[amending this section and section 5542 of this title\] take effect \[see Effective Date of 1998 Amendment note set out above\], each special agent of the Diplomatic Security Service who satisfies the requirements of subsection (k)(1) of section 5545a of title 5, United States Code, as amended by this section, and the appropriate supervisory officer, to be designated by the Secretary of State, shall make an initial certification to the Secretary of State that the special agent is expected to meet the requirements of subsection (d) of such section 5545a. The Secretary of State may prescribe procedures necessary to administer this subsection.”
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Certification of Criminal Investigators
 

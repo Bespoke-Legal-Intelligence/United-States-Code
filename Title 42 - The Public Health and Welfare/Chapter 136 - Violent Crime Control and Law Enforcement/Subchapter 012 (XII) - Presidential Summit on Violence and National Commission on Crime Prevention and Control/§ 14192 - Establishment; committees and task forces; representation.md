@@ -12,7 +12,7 @@ There is established a commission to be known as the “National Commission on C
 
 #### (b) Committees and task forces
 
-The Commission shall establish committees or task forces from among its members for the examination of specific subject areas and the carrying out of other functions or responsibilities of the Commission, including committees or task forces for the examination of the subjectareas of crime and violence generally, the causes of the demand for drugs, violence in schools, and violence against women, as described in subsections (b) through (e) of section 14194 of this title.
+The Commission shall establish committees or task forces from among its members for the examination of specific subject areas and the carrying out of other functions or responsibilities of the Commission, including committees or task forces for the examination of the subject areas of crime and violence generally, the causes of the demand for drugs, violence in schools, and violence against women, as described in subsections (b) through (e) of section 14194 of this title.
 
 #### (c) Representation
 

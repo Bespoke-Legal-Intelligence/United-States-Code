@@ -22,11 +22,11 @@ Authority and Eligibility Requirements.—(1) A person who is a former enlisted 
 
 Bonus Amounts; Payment.—(1) The amount of a bonus under this section may not exceed—
 
-&emsp;(A) $5,000, in the case of a person who enlists for a period of six years;
+&emsp;(A) $8,000, in the case of a person who enlists for a period of six years;
 
-&emsp;(B) $2,500, in the case of a person who, having never received a bonus under this section, enlists for a period of three years; and
+&emsp;(B) $4,000, in the case of a person who, having never received a bonus under this section, enlists for a period of three years; and
 
-&emsp;(C) $2,000, in the case of a person who, having received a bonus under this section for a previous three-year enlistment, reenlists or extends the enlistment for an additional period of three years.
+&emsp;(C) $3,500, in the case of a person who, having received a bonus under this section for a previous three-year enlistment, reenlists or extends the enlistment for an additional period of three years.
 
 (2) Any bonus payable under this section shall be disbursed in one initial payment of an amount not to exceed one-half of the total amount of the bonus and subsequent periodic partial payments of the balance of the bonus. The Secretary concerned shall prescribe the amount of each partial payment and the schedule for making the partial payments.
 
@@ -52,15 +52,21 @@ Repayment of Bonus.—(1) A person who receives a bonus payment under this secti
 
 (e)
 
-Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Transportation for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
+Regulations.—This section shall be administered under regulations prescribed by the Secretary of Defense for the armed forces under his jurisdiction and by the Secretary of Homeland Security for the Coast Guard when the Coast Guard is not operating as a service in the Navy.
 
 (f)
 
-Termination of Authority.—No bonus may be paid under this section to any person for an enlistment after December 31, 2002.
+Termination of Authority.—No bonus may be paid under this section to any person for an enlistment after December 31, 2003.
 
-(Added Pub. L. 99–145, title VI, §644(a)(1), Nov. 8, 1985, 99 Stat. 652; amended Pub. L. 100–26, §8(d)(4), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), title XI, §1136, Oct. 23, 1992, 106 Stat. 2421, 2541; Pub. L. 103–160, div. A, title VI, §612(e), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(e), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(e), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(g), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(g), 622, Nov. 18, 1997, 111 Stat. 1785, 1791; Pub. L. 105–261, div. A, title VI, §611(g), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §§611(g), 623(a), Oct. 5, 1999, 113 Stat. 650, 653; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(g), Dec. 28, 2001, 115 Stat. 1135.)
+(Added Pub. L. 99–145, title VI, §644(a)(1), Nov. 8, 1985, 99 Stat. 652; amended Pub. L. 100–26, §8(d)(4), Apr. 21, 1987, 101 Stat. 285; Pub. L. 100–180, div. A, title VI, §626(b), Dec. 4, 1987, 101 Stat. 1104; Pub. L. 101–189, div. A, title VI, §613, Nov. 29, 1989, 103 Stat. 1446; Pub. L. 102–25, title VII, §702(b)(1), (c), Apr. 6, 1991, 105 Stat. 117; Pub. L. 102–484, div. A, title VI, §612(d), title XI, §1136, Oct. 23, 1992, 106 Stat. 2421, 2541; Pub. L. 103–160, div. A, title VI, §612(e), Nov. 30, 1993, 107 Stat. 1680; Pub. L. 103–337, div. A, title VI, §611(e), Oct. 5, 1994, 108 Stat. 2783; Pub. L. 104–106, div. A, title VI, §611(e), Feb. 10, 1996, 110 Stat. 359; Pub. L. 104–201, div. A, title VI, §611(g), Sept. 23, 1996, 110 Stat. 2543; Pub. L. 105–85, div. A, title VI, §§611(g), 622, Nov. 18, 1997, 111 Stat. 1785, 1791; Pub. L. 105–261, div. A, title VI, §611(g), Oct. 17, 1998, 112 Stat. 2038; Pub. L. 106–65, div. A, title VI, §§611(g), 623(a), Oct. 5, 1999, 113 Stat. 650, 653; Pub. L. 106–398, §1 \[\[div. A\], title VI, §621(g)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–151; Pub. L. 107–107, div. A, title VI, §611(g), Dec. 28, 2001, 115 Stat. 1135; Pub. L. 107–296, title XVII, §1704(c), Nov. 25, 2002, 116 Stat. 2314; Pub. L. 107–314, div. A, title VI, §§611(f), 617, Dec. 2, 2002, 116 Stat. 2567, 2570.)
 
 #### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–314, §617, substituted “$8,000” for “$5,000” in subpar. (A), “$4,000” for “$2,500” in subpar. (B), and “$3,500” for “$2,000” in subpar. (C).
+
+Subsec. (e). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+Subsec. (f). Pub. L. 107–314, §611(f), substituted “December 31, 2003” for “December 31, 2002”.
 
 2001—Subsec. (f). Pub. L. 107–107 substituted “December 31, 2002” for “December 31, 2001”.
 
@@ -135,6 +141,10 @@ Subsec. (i). Pub. L. 102–484, §612(d), substituted “September 30, 1993” f
 1987—Subsec. (b)(1)(B). Pub. L. 100–26 inserted a comma after “$2,500”.
 
 Subsec. (i). Pub. L. 100–180 substituted “September 30, 1990” for “September 30, 1987”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
 
 #### Effective Date of 1999 Amendment
 

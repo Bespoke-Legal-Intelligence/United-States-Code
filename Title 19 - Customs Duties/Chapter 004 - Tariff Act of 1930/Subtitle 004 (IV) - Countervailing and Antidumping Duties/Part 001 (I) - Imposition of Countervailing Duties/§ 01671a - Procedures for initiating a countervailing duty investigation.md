@@ -16,7 +16,7 @@ A countervailing duty investigation shall be initiated whenever the administerin
 
 #### (3) Petition based upon a derogation of an international undertaking on official export credits
 
-&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after thedate on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
+&emsp;If the sole basis of a petition filed under paragraph (1) is the derogation of an international undertaking on official export credits, the Administering Authority shall immediately notify the Secretary of the Treasury who shall, in consultation with the Administering Authority, within 5 days after the date on which the administering authority initiates an investigation under subsection (c) of this section, determine the existence and estimated value of the derogation, if any, and shall publish such determination in the Federal Register.
 
 #### (4) Action with respect to petitions
 
@@ -138,7 +138,7 @@ Subsec. (c). Pub. L. 103–465, §212(a)(1), amended heading and text of subsec.
 
 &emsp;“(1) determine whether the petition alleges the elements necessary for the imposition of a duty under section 1671(a) of this title and contains information reasonably available to the petitioner supporting the allegations,
 
-&emsp;“(2) if the determination is affirmative, commence an investigation to determine whether a subsidy is being provided with respect to the class or kind of merchandise described in the petition, and provide for the publication of notice of the determination to commence an investigation in the Federal Register, and
+&emsp;“(2) if the determination is affirmative, commence an investigation to determine whether a subsidy isbeing provided with respect to the class or kind of merchandise described in the petition, and provide for the publication of notice of the determination to commence an investigation in the Federal Register, and
 
 &emsp;“(3) if the determination is negative, dismiss the petition, terminate the proceeding, notify the petitioner in writing of the reasons for the determination, and provide for the publication of notice of the determination in the Federal Register.”
 
@@ -161,6 +161,10 @@ Amendment by Pub. L. 103–465 effective, except as otherwise provided, on the d
 #### Effective Date of 1988 Amendment
 
 Amendment by section 1324(a)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and amendment by section 1326(d)(1) of Pub. L. 100–418 applicable with respect to investigations initiated after Aug. 23, 1988, and to reviews initiated under section 1673e(c) or 1675 of this title after Aug. 23, 1988, see section 1337(b), (c) of Pub. L. 100–418, set out as a note under section 1671 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Plan Amendments Not Required Until January 1, 1989
 

@@ -52,7 +52,7 @@ To conserve and protect natural values and to provide scientific knowledge, educ
 
 #### (d) Inventory
 
-Not later than 3 full fiscal years after November 12, 1996, the Secretary of the Interior, acting through the Director of the Bureau of Land Management, shall develop a baseline inventoryof all categories of fossil resources within the Area. After the inventory is developed, the Secretary shall conduct monitoring surveys at intervals specified in the management plan developed for the Area in accordance with subsection (e) of this section.
+Not later than 3 full fiscal years after November 12, 1996, the Secretary of the Interior, acting through the Director of the Bureau of Land Management, shall develop a baseline inventory of all categories of fossil resources within the Area. After the inventory is developed, the Secretary shall conduct monitoring surveys at intervals specified in the management plan developed for the Area in accordance with subsection (e) of this section.
 
 #### (e) Management plan
 
@@ -98,7 +98,7 @@ Section was enacted as part of the San Juan Basin Wilderness Protection Act of 1
 
 2000—Subsec. (b)(1). Pub. L. 106–176, §124(1), substituted “Committee on Resources” for “Committee on Natural Resources”.
 
-Subsec. (e)(1). Pub. L. 106–176, §124(2), which directed amendment of par. (1) by substituting “this subsection” for “this Act”, was executed by making the substitution following “consistent with”, to reflect the probable intent of Congress.
+Subsec. (e)(1). Pub. L. 106–176, §124(2), which directed amendment of par. (1) by substituting “this subsection” for “this Act”, was executed by making thesubstitution following “consistent with”, to reflect the probable intent of Congress.
 
 Pub. L. 106–176, §124(1), substituted ‘Committee on Resources” for “Committee on Natural Resources”.
 

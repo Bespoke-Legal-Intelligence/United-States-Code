@@ -6,7 +6,7 @@ It is declared to be the policy of this subchapter to further the national defen
 
 #### References in Text
 
-Subchapters III and VI of this chapter, referred to in text, were comprised of sections 1531 to 1536 of this title, and sections 1571 to 1576 of this title, respectively, and have been omitted from the Code. For further details, see note set out under section 1522 of this title.
+Subchapters III and VI of this chapter, referred to in text, were comprised of sections 1531 to 1536 of thistitle, and sections 1571 to 1576 of this title, respectively, and have been omitted from the Code. For further details, see note set out under section 1522 of this title.
 
 Public Law 781, Seventy-sixth Congress, approved September 9, 1940, referred to in text, is the Second Supplemental National Defense Appropriation Act, 1941, act Sept. 9, 1940, ch. 717, 54 Stat. 872. Section 201 thereof appropriated $100,000,000 to the President for allocation to the former “War” Department, and to the Navy Department, for the construction of housing necessary to the national defense program. This provision is not classified to the Code.
 

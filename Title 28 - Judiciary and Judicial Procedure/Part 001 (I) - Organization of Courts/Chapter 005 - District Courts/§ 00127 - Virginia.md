@@ -32,11 +32,11 @@ By Senate amendment, “Newport News” was inserted after “Alexandria” in s
 
 #### Amendments
 
-<b>1991</b>—Subsec. (a). Pub. L. 102–200, §1(1), struck out reference to Culpeper, Louisa, and Orange counties.
+1991—Subsec. (a). Pub. L. 102–200, §1(1), struck out reference to Culpeper, Louisa, and Orange counties.
 
 Subsec. (b). Pub. L. 102–200, §1(2), inserted reference to Culpeper, Louisa, and Orange counties.
 
-<b>1968</b>—Subsec. (c). Pub. L. 90–383 added subsec. (c).
+1968—Subsec. (c). Pub. L. 90–383 added subsec. (c).
 
 #### Applicability of 1991 Amendments
 

@@ -4,10 +4,6 @@ This subchapter may be cited as the “Railroad Retirement Act of 1974”.
 
 (Aug. 29, 1935, ch. 812, §21, as restated June 24, 1937, ch. 382, pt. I, 50 Stat. 307, as restated Pub. L. 93–445, title I, §101, Oct. 16, 1974, 88 Stat. 1351.)
 
-#### References in Text
-
-The Railroad Retirement Act of 1974, referred to in text, is title I of Pub. L. 93–445, Oct. 16, 1974, 88 Stat. 1305, and is classified generally to this subchapter (§231 et seq.). Such title I completely amended and revised the Railroad Retirement Act of 1937 (approved June 24, 1937, ch. 382, pt. I, 50 Stat. 307), and as thus amended and revised, the 1937 Act was redesignated the Railroad Retirement Act of 1974. Previously, the 1937 Act had completely amended and revised the Railroad Retirement Act of 1935 (approved Aug. 29, 1935, ch. 812, 49 Stat. 967). Section 201 of the 1937 Act provided that the 1935 Act, as in force prior to amendment by the 1937 Act, may be cited as the Railroad Retirement Act of 1935, and that the 1935 Act, as amended by the 1937 Act, may be cited as the Railroad Retirement Act of 1937. The Railroad Retirement Acts of 1935 and 1937 were classified to subchapter II (§215 et seq.) and subchapter III (§228a et seq.), respectively, of this chapter. For complete classification of this Act to the Code, see this section and Tables.
-
 #### Short Title of 2001 Amendment
 
 Pub. L. 107–90, §1(a), Dec. 21, 2001, 115 Stat. 878, provided that: “This Act \[enacting section 231v of this title and subchapter E of chapter 22 of Title 26, Internal Revenue Code, amending sections 231a to 231f, 231n, 231n–1, 231q, 231r, and 231u of this title, sections 24, 72, 501, 3201, 3211, 3221, and 3231 of Title 26, and section 405 of Title 42, The Public Health and Welfare, and enacting provisions set out as notes under sections 231b, 231c, and 231n of this title, sections 24 and 3211 of Title 26, and section 405 of Title 42\] may be cited as the ‘Railroad Retirement and Survivors’ Improvement Act of 2001’.”

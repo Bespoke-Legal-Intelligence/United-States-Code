@@ -10,5 +10,5 @@ This section was substituted for a number of special provisions fixing stated ti
 
 #### Amendments
 
-<b>1963</b>—Pub. L. 88–139 substituted “The district court shall not hold formal terms” for “The times for holding regular terms of court at the places fixed by this chapter shall be determined by rule of the district court” in text, and “Terms abolished” for “Times for holding regular terms” in section catchline.
+1963—Pub. L. 88–139 substituted “The district court shall not hold formal terms” for “The times for holding regular terms of court at the places fixed by this chapter shall be determined by rule of the district court” in text, and “Terms abolished” for “Times for holding regular terms” in section catchline.
 

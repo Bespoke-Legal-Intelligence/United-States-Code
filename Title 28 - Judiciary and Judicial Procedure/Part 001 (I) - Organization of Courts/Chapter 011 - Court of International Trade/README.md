@@ -41,11 +41,11 @@ R.S. §2727 fixed the salary of the four general appraisers at the sum of $2,500
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–317, title V, §501(b)(3), Oct. 19, 1996, 110 Stat. 3856, substituted “Duties of chief judge” for “Duties of chief judge; precedence of judges” in item 253 and added item 258.
+1996—Pub. L. 104–317, title V, §501(b)(3), Oct. 19, 1996, 110 Stat. 3856, substituted “Duties of chief judge” for “Duties of chief judge; precedence of judges” in item 253 and added item 258.
 
-<b>1980</b>—Pub. L. 96–417, title V, §501(2), Oct. 10, 1980, 94 Stat. 1742, substituted “COURT OF INTERNATIONAL TRADE” for “CUSTOMS COURT” in chapter heading.
+1980—Pub. L. 96–417, title V, §501(2), Oct. 10, 1980, 94 Stat. 1742, substituted “COURT OF INTERNATIONAL TRADE” for “CUSTOMS COURT” in chapter heading.
 
-<b>1970</b>—Pub. L. 91–271, title I, §123(a), June 2, 1970, 84 Stat. 282, substituted “Single-judge trial” for “Divisions; powers and assignments” in item 254 and “Three-judge trials” for “Publication of decisions” in item 255 and added items 256 and 257.
+1970—Pub. L. 91–271, title I, §123(a), June 2, 1970, 84 Stat. 282, substituted “Single-judge trial” for “Divisions; powers and assignments” in item 254 and “Three-judge trials” for “Publication of decisions” in item 255 and added items 256 and 257.
 
 #### Rules of the United States Court of International Trade
 

@@ -8,7 +8,7 @@ On and after July 1, 1975, none of the funds made available to carry out this ch
 
 Subsection (a) of this section shall not apply—
 
-&emsp;(1) with respect to assistance rendered under section 3763(c) <sup>1</sup> of title 42, with respect to any authority of the Drug Enforcement Administration or the Federal Bureau of Investigationwhich relates to crimes of the nature which are unlawful under the laws of the United States, or with respect to assistance authorized under section 2291a of this title;
+&emsp;(1) with respect to assistance rendered under section 3763(c) <sup>1</sup> of title 42, with respect to any authority of the Drug Enforcement Administration or the Federal Bureau of Investigation which relates to crimes of the nature which are unlawful under the laws of the United States, or with respect to assistance authorized under section 2291a of this title;
 
 &emsp;(2) to any contract entered into prior to December 30, 1974, with any person, organization, or agency of the United States Government to provide personnel to conduct, or assist in conducting, any such program;
 

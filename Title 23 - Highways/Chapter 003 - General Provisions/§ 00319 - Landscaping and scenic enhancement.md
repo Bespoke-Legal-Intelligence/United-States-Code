@@ -2,7 +2,7 @@
 
 (a)
 
-Landscape and Roadside Development.—The Secretary may approve as a part of the construction of Federal-aid highways the costs of landscape and roadside development, including acquisition and development of publicly owned and controlled rest and recreation areas and sanitary and other facilities reasonably necessary to accommodate the traveling public, and for acquisition of interests in and improvement of strips of land necessary for the restoration,preservation, and enhancement of scenic beauty adjacent to such highways.
+Landscape and Roadside Development.—The Secretary may approve as a part of the construction of Federal-aid highways the costs of landscape and roadside development, including acquisition and development of publicly owned and controlled rest and recreation areas and sanitary and other facilities reasonably necessary to accommodate the traveling public, and for acquisition of interests in and improvement of strips of land necessary for the restoration, preservation, and enhancement of scenic beauty adjacent to such highways.
 
 (b)
 

@@ -2,7 +2,13 @@
 
 #### (a) Immigrants; nonimmigrants
 
-Under the conditions hereinafter prescribed and subject to the limitations prescribed in this chapter or regulations issued thereunder, a consular officer may issue (1) to an immigrant who has made proper application therefor, an immigrant visa which shall consist of the application provided for in section 1202 of this title, visaed by such consular officer, and shall specify the foreign state, if any, to which the immigrant is charged, the immigrant's particular status under such foreign state, the preference, immediate relative, or special immigrant classification to which the alien is charged, the date on which the validity of the visa shall expire, and such additional information as may be required; and (2) to a nonimmigrant who has made proper application therefor, a nonimmigrant visa, which shall specify the classification under section 1101(a)(15) of this title of the nonimmigrant, the period during which the nonimmigrant visa shall be valid, and such additional information as may be required.
+(1) Under the conditions hereinafter prescribed and subject to the limitations prescribed in this chapter or regulations issued thereunder, a consular officer may issue
+
+&emsp;(A) to an immigrant who has made proper application therefor, an immigrant visa which shall consist of the application provided for in section 1202 of this title, visaed by such consular officer, and shall specify the foreign state, if any, to which the immigrant is charged, the immigrant's particular status under such foreign state, the preference, immediate relative, or special immigrant classification to which the alien is charged, the date on which the validity of the visa shall expire, and such additional information as may be required; and
+
+&emsp;(B) to a nonimmigrant who has made proper application therefor, a nonimmigrant visa, which shall specify the classification under section 1101(a)(15) of this title of the nonimmigrant, the period during which the nonimmigrant visa shall be valid, and such additional information as may be required.
+
+(2) The Secretary of State shall provide to the Service an electronic version of the visa file of each alien who has been issued a visa to ensure that the data in that visa file is available to immigration inspectors at the United States ports of entry before the arrival of the alien at such a port of entry.
 
 #### (b) Registration; photographs; waiver of requirement
 
@@ -10,7 +16,7 @@ Each alien who applies for a visa shall be registered in connection with his app
 
 #### (c) Period of validity; requirement of visa
 
-An immigrant visa shall be valid for such period, not exceeding six months, as shall be by regulations prescribed, except that any visa issued to a child lawfully adopted by a UnitedStates citizen and spouse while such citizen is serving abroad in the United States Armed Forces, or is employed abroad by the United States Government, or is temporarily abroad on business, shall be valid until such time, for a period not to exceed three years, as the adoptive citizen parent returns to the United States in due course of his service, employment, or business. A nonimmigrant visa shall be valid for such periods as shall be by regulations prescribed. In prescribing the period of validity of a nonimmigrant visa in the case of nationals of any foreign country who are eligible for such visas, the Secretary of State shall, insofar as practicable, accord to such nationals the same treatment upon a reciprocal basis as such foreign country accords to nationals of the United States who are within a similar class; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States. An immigrant visa may be replaced under the original number during the fiscal year in which the original visa was issued for an immigrant who establishes to the satisfaction of the consular officer that he was unable to use the original immigrant visa during the period of its validity because of reasons beyond his control and for which he was not responsible: <i>Provided</i>, That the immigrant is found by the consular officer to be eligible for an immigrant visa and the immigrant pays again the statutory fees for an application and an immigrant visa.
+An immigrant visa shall be valid for such period, not exceeding six months, as shall be by regulations prescribed, except that any visa issued to a child lawfully adopted by a United States citizen and spouse while such citizen is serving abroad in the United States Armed Forces, or is employed abroad by the United States Government, or is temporarily abroad on business, shall be valid until such time, for a period not to exceed three years, as the adoptive citizen parent returns to the United States in due course of his service, employment, or business. A nonimmigrant visa shall be valid for such periods as shall be by regulations prescribed. In prescribing the period of validity of a nonimmigrant visa in the case of nationals of any foreign country who are eligible for such visas, the Secretary of State shall, insofar as practicable, accord to such nationals the same treatment upon a reciprocal basis as such foreign country accords to nationals of the United States who are within a similar class; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States. An immigrant visa may be replaced under the original number during the fiscal year in which the original visa was issued for an immigrant who establishes to the satisfaction of the consular officer that he was unable to use the original immigrant visa during the period of its validity because of reasons beyond his control and for which he was not responsible: <i>Provided</i>, That the immigrant is found by the consular officer to be eligible for an immigrant visa and the immigrant pays again the statutory fees for an application and an immigrant visa.
 
 #### (d) Physical examination
 
@@ -34,11 +40,13 @@ Nothing in this chapter shall be construed to entitle any alien, to whom a visa 
 
 #### (i) Revocation of visas or documents
 
-After the issuance of a visa or other documentation to any alien, the consular officer or the Secretary of State may at any time, in his discretion, revoke such visa or other documentation. Notice of such revocation shall be communicated to the Attorney General, and such revocation shall invalidate the visa or other documentation from the date of issuance: <i>Provided</i>, That carriers or transportation companies, and masters, commanding officers, agents, owners, charterers, or consignees, shall not be penalized under section 1323(b) of this title for action taken in reliance on such visas or otherdocumentation, unless they received due notice of such revocation prior to the alien's embarkation.
+After the issuance of a visa or other documentation to any alien, the consular officer or the Secretary of State may at any time, in his discretion, revoke such visa or other documentation. Notice of such revocation shall be communicated to the Attorney General, and such revocation shall invalidate the visa or other documentation from the date of issuance: <i>Provided</i>, That carriers or transportation companies, and masters, commanding officers, agents, owners, charterers, or consignees, shall not be penalized under section 1323(b) of this title for action taken in reliance on such visas or other documentation, unless they received due notice of such revocation prior to the alien's embarkation.
 
-(June 27, 1952, ch. 477, title II, ch. 3, §221, 66 Stat. 191; Pub. L. 87–301, §4, Sept. 26, 1961, 75 Stat. 651; Pub. L. 89–236, §§11(a), (b), 17, Oct. 3, 1965, 79 Stat. 918, 919; Pub. L. 97–116, §18(f), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §5(a), formerly §5(a)(a)–(c), Nov. 14, 1986, 100 Stat. 3656, renumbered §5(a), Pub. L. 100–525, §8(d)(1), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 101–649, title VI, §603(a)(9), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 102–232, title III, §302(e)(8)(C), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 104–208, div. C, title III, §308(d)(4)(G), (f)(2)(B), title VI, §631, Sept. 30, 1996, 110 Stat. 3009–618, 3009–621, 3009–700.)
+(June 27, 1952, ch. 477, title II, ch. 3, §221, 66 Stat. 191; Pub. L. 87–301, §4, Sept. 26, 1961, 75 Stat. 651; Pub. L. 89–236, §§11(a), (b), 17, Oct. 3, 1965, 79Stat. 918, 919; Pub. L. 97–116, §18(f), Dec. 29, 1981, 95 Stat. 1620; Pub. L. 99–653, §5(a), formerly §5(a)(a)–(c), Nov. 14, 1986, 100 Stat. 3656, renumbered §5(a), Pub. L. 100–525, §8(d)(1), Oct. 24, 1988, 102 Stat. 2617; Pub. L. 101–649, title VI, §603(a)(9), Nov. 29, 1990, 104 Stat. 5083; Pub. L. 102–232, title III, §302(e)(8)(C), Dec. 12, 1991, 105 Stat. 1746; Pub. L. 104–208, div. C, title III, §308(d)(4)(G), (f)(2)(B), title VI, §631, Sept. 30, 1996, 110 Stat. 3009–618, 3009–621, 3009–700; Pub. L. 107–173, title III, §301, May 14, 2002, 116 Stat. 552.)
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–173 designated existing provisions as par. (1), redesignated former pars. (1) and (2) as subpars. (A) and (B), respectively, of par. (1), and added par. (2).
 
 1996—Subsec. (c). Pub. L. 104–208, §631, substituted “six months” for “four months” and inserted “; except that in the case of aliens who are nationals of a foreign country and who either are granted refugee status and firmly resettled in another foreign country or are granted permanent residence and residing in another foreign country, the Secretary of State may prescribe the period of validity of such a visa based upon the treatment granted by that other foreign country to alien refugees and permanent residents, respectively, in the United States” after “within a similar class”.
 
@@ -92,6 +100,30 @@ Amendment by Pub. L. 97–116 effective Dec. 29, 1981, see section 21(a) of Pub.
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+
+#### Processing of Visa Applications
+
+Pub. L. 107–228, div. A, title II, §233, Sept. 30, 2002, 116 Stat. 1373, provided that:
+
+“(a)
+
+In General.—It shall be the policy of the Department \[of State\] to process each visa application from an alien classified as an immediate relative or as a K–1 nonimmigrant within 30 days of the receipt of all necessary documents from the applicant and the Immigration and Naturalization Service. In the case of an immigrant visa application where the petitioner is a relative other than an immediate relative, it should be the policy of the Department to process such an application within 60 days of the receipt of all necessary documents from the applicant and the Immigration and Naturalization Service.
+
+“(b)
+
+Definitions.—In this section:
+
+&emsp;“(1)
+
+Immediate relative.—The term ‘immediate relative’ has the meaning given the term in section 201(b)(2)(A)(i) of the Immigration and Nationality Act (8 U.S.C. 1151(b)(2)(A)(i)).
+
+&emsp;“(2) K–1
+
+nonimmigrant.—The term ‘K–1 nonimmigrant’ means a nonimmigrant alien described in section 101(a)(15)(K)(i) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(15)(K)(i)).”
+
 #### Prevention of Consulate Shopping
 
 Pub. L. 107–56, title IV, §418, Oct. 26, 2001, 115 Stat. 355, provided that:
@@ -104,8 +136,6 @@ Review.—The Secretary of State shall review how consular officers issue visas 
 
 Actions to be Taken.—If the Secretary of State determines under subsection (a) that consular shopping is a problem, the Secretary shall take steps to address the problem and shall submit a report to Congress describing what action was taken.”
 
-#### Processing of Visa Applications
-
 Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §237\], Nov. 29, 1999, 113 Stat. 1536, 1501A–430, provided that:
 
 “(a)
@@ -114,7 +144,7 @@ Policy.—It shall be the policy of the Department of State to process immigrant
 
 “(b)
 
-Reports.—Not later than 180 days after the date of enactment of this Act \[Nov. 29, 1999\], and not laterthan 1 year thereafter, the Secretary of State shall submit to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] a report on the extent to which the Department of State is meeting the policy standards under subsection (a). Each report shall be based on a survey of the 22 consular posts which account for approximately 72 percent of immigrant visas issued and, in addition, the consular posts in Guatemala City, Nicosia, Caracas, Naples, and Jakarta. Each report should include data on the average time for processing each category of visa application under subsection (a), a list of the embassies and consular posts which do not meet the policy standards under subsection (a), the amount of funds collected worldwide for processing of visa applications during the most recent fiscal year, the estimated costs of processing such visa applications (based on the Department of State's most recent fee study), the steps being taken by the Department of State to achieve such policy standards, and results achieved by the interagency working group charged with the goal of reducing the overall processing time for visa applications.”
+Reports.—Not later than 180 days after the date of enactment of this Act \[Nov. 29, 1999\], and not later than 1 year thereafter, the Secretary of State shall submit to the appropriate congressional committees \[Committee on International Relations of the House of Representatives and Committee on Foreign Relations of the Senate\] a report on the extent to which the Department of State is meeting the policy standards under subsection (a). Each report shall be based on a survey of the 22 consular posts which account for approximately 72 percent of immigrant visas issued and, in addition, the consular posts in Guatemala City, Nicosia, Caracas, Naples, and Jakarta. Each report should include data on the average time for processing each category of visa application under subsection (a), a list of the embassies and consular posts which do not meet the policy standards under subsection (a), the amount of funds collected worldwide for processing of visa applications during the most recent fiscal year, the estimated costs of processing such visa applications (based on the Department of State's most recent fee study), the steps being taken by the Department of State to achieve such policy standards, and results achieved by the interagency working group charged with the goal of reducing the overall processing time for visa applications.”
 
 #### Permitting Extension of Period of Validity of Immigrant Visas for Certain Residents of Hong Kong
 
@@ -180,7 +210,7 @@ Pub. L. 100–204, title IX, §903, Dec. 22, 1987, 101 Stat. 1401, as amended by
 
 “(a)
 
-Processing of Certain Cuban Political Prisoners as Refugees.—In light of the announcement of the Government of Cuba on November 20, 1987, that it would reimplement immediately the agreement of December 14, 1984, establishing normal migration procedures between the United States and Cuba, on and after the date of the enactment of this Act \[Dec. 22, 1987\], consular officers of the Department of State and appropriate officers of the Immigration and Naturalization Service shall, in accordance with the procedures applicable to such cases in other countries, process any application for admission to the United States as a refugee from any Cuban national who was imprisoned for political reasons by the Government of Cuba on or after January 1, 1959, without regard to the duration of such imprisonment, except as may be necessary to reassure the orderly process of available applicants.
+Processing of Certain Cuban Political Prisoners as Refugees.—In light of the announcement of the Government of Cuba on November 20, 1987, that it would reimplement immediately the agreement of December 14, 1984, establishing normal migration procedures between the United States and Cuba, on and after the date of the enactment of this Act \[Dec. 22, 1987\],consular officers of the Department of State and appropriate officers of the Immigration and Naturalization Service shall, in accordance with the procedures applicable to such cases in other countries, process any application for admission to the United States as a refugee from any Cuban national who was imprisoned for political reasons by the Government of Cuba on or after January 1, 1959, without regard to the duration of such imprisonment, except as may be necessary to reassure the orderly process of available applicants.
 
 “(b)
 

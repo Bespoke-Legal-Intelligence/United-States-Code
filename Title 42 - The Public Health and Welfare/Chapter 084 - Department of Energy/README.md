@@ -280,6 +280,9 @@
 | (c) | Omitted. |
 | (d) | Assessment of funding level for laboratory directed research and development. |
 | (e) | “Laboratory directed research and development” defined. |
+| [7257d.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007257d%20-%20Expanded%20research%20by%20Secretary%20of%20Energy.md) | Expanded research by Secretary of Energy. |
+| (a) | Detection and identification research. |
+| (b) | Authorization. |
 | [7258\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007258%20-%20Facilities%20construction.md) | Facilities construction. |
 | (a) | Employees and dependents stationed at remote locations. |
 | (b) | Medical treatment at reasonable prices. |
@@ -323,6 +326,11 @@
 | [7270c.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007270c%20-%20Annual%20assessment%20and%20report%20on%20vulnerability%20of%20facilities%20to%20terrorist%20attack.md) | Annual assessment and report on vulnerability of facilities to terrorist attack. |
 | [7271\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007271%20-%20Common%20defense%20and%20security%20program%20requests%20of%20single%20authorization%20of%20appropriations.md) | Common defense and security program requests of single authorization of appropriations. |
 | 7271a to 7271c. Repealed. |  |
+| [7271d.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007271d%20-%20Requirements%20for%20specific%20request%20for%20new%20or%20modified%20nuclear%20weapons.md) | Requirements for specific request for new or modified nuclear weapons. |
+| (a) | Requirement for request for funds for development. |
+| (b) | Budget request format. |
+| (c) | Exception. |
+| (d) | Definitions. |
 | [7272\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007272%20-%20Restriction%20on%20licensing%20requirement%20for%20certain%20defense%20activities%20and%20facilities.md) | Restriction on licensing requirement for certain defense activities and facilities. |
 | [7273\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007273%20-%20Restriction%20on%20use%20of%20funds%20to%20pay%20penalties%20under%20Clean%20Air%20Act.md) | Restriction on use of funds to pay penalties under Clean Air Act. |
 | [7273a.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007273a%20-%20Restriction%20on%20use%20of%20funds%20to%20pay%20penalties%20under%20environmental%20laws.md) | Restriction on use of funds to pay penalties under environmental laws. |
@@ -423,6 +431,15 @@
 | (e) | Relationship to other law. |
 | (f) | Definitions. |
 | [7274r.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274r%20-%20Research%2C%20development%2C%20and%20demonstration%20activities%20with%20respect%20to%20engineering%20and%20manufacturing%20capabilities%20at%20covered%20nuclear%20weapons%E2%80%A6.md) | Research, development, and demonstration activities with respect to engineering and manufacturing capabilities at covered nuclear weapons production plants. |
+| [7274s.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007274s%20-%20Annual%20assessments%20and%20reports%20to%20the%20President%20and%20Congress%20regarding%20the%20condition%20of%20the%20United%20States%20nuclear%20weapons%20stockpile.md) | Annual assessments and reports to the President and Congress regarding the condition of the United States nuclear weapons stockpile. |
+| (a) | Annual assessments required. |
+| (b) | Covered officials. |
+| (c) | Use of teams of experts for assessments. |
+| (d) | Report on assessments. |
+| (e) | Submittals to the President and Congress. |
+| (f) | Classified form. |
+| (g) | Definitions. |
+| (h) | First submissions. |
 | [7275\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007275%20-%20Definitions.md) | Definitions. |
 | [7276\.](Subchapter%20006%20%28VI%29%20-%20Administrative%20Provisions/Part%20C%20-%20General%20Administrative%20Provisions/%C2%A7%2007276%20-%20Regulations%20to%20require%20integrated%20resource%20planning.md) | Regulations to require integrated resource planning. |
 | (a) | Regulations. |
@@ -783,6 +800,59 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
+#### SUBCHAPTER XVII—DEPARTMENT OF ENERGY NATIONAL SECURITY AUTHORIZATIONS GENERAL PROVISIONS
+
+|  |  |
+| :--- | ---: |
+| [7386\.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386%20-%20Definitions.md) | Definitions. |
+| [7386a.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386a%20-%20Reprogramming.md) | Reprogramming. |
+| (a) | In general. |
+| (b) | Exception where notice-and-wait given. |
+| (c) | Report. |
+| (d) | Computation of days. |
+| (e) | Limitations. |
+| [7386b.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386b%20-%20Minor%20construction%20projects.md) | Minor construction projects. |
+| (a) | Authority. |
+| (b) | Annual report. |
+| (c) | Cost variation reports to congressional committees. |
+| (d) | Minor construction project defined. |
+| [7386c.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386c%20-%20Limits%20on%20construction%20projects.md) | Limits on construction projects. |
+| (a) | Construction cost ceiling. |
+| (b) | Exception where notice-and-wait given. |
+| (c) | Computation of days. |
+| (d) | Exception for minor projects. |
+| [7386d.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386d%20-%20Fund%20transfer%20authority.md) | Fund transfer authority. |
+| (a) | Transfer to other Federal agencies. |
+| (b) | Transfer within Department of Energy. |
+| (c) | Limitations. |
+| (d) | Notice to Congress. |
+| [7386e.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386e%20-%20Conceptual%20and%20construction%20design.md) | Conceptual and construction design. |
+| (a) | Conceptual design. |
+| (b) | Construction design. |
+| [7386f.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386f%20-%20Authority%20for%20emergency%20planning%2C%20design%2C%20and%20construction%20activities.md) | Authority for emergency planning, design, and construction activities. |
+| (a) | Authority. |
+| (b) | Limitation. |
+| (c) | Specific authority. |
+| [7386g.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386g%20-%20Scope%20of%20authority%20to%20carry%20out%20plant%20projects.md) | Scope of authority to carry out plant projects. |
+| [7386h.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386h%20-%20Availability%20of%20funds.md) | Availability of funds. |
+| (a) | In general. |
+| (b) | Exception for program direction funds. |
+| [7386i.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386i%20-%20Transfer%20of%20defense%20environmental%20management%20funds.md) | Transfer of defense environmental management funds. |
+| (a) | Transfer authority for defense environmental management funds. |
+| (b) | Limitations. |
+| (c) | Exemption from reprogramming requirements. |
+| (d) | Notification. |
+| (e) | Definitions. |
+| [7386j.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386j%20-%20Transfer%20of%20weapons%20activities%20funds.md) | Transfer of weapons activities funds. |
+| (a) | Transfer authority for weapons activities funds. |
+| (b) | Limitations. |
+| (c) | Exemption from reprogramming requirements. |
+| (d) | Notification. |
+| (e) | Definitions. |
+| [7386k.](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/%C2%A7%2007386k%20-%20Funds%20available%20for%20all%20national%20security%20programs%20of%20the%20Department%20of%20Energy.md) | Funds available for all national security programs of the Department of Energy. |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 #### Chapter Referred to in Other Sections
 
 This chapter is referred to in section 5905 of this title; title 15 section 3393; title 16 section 824a–1; title 30 section 1303; title 43 section 1331, 1866.
@@ -809,3 +879,4 @@ This chapter is referred to in section 5905 of this title; title 15 section 3393
 - [Subchapter 014 (XIV) - Albert Einstein Distinguished Educator Fellowships](Subchapter%20014%20%28XIV%29%20-%20Albert%20Einstein%20Distinguished%20Educator%20Fellowships/README.md)
 - [Subchapter 015 (XV) - Matters Relating to Safeguards, Security, and Counterintelligence](Subchapter%20015%20%28XV%29%20-%20Matters%20Relating%20to%20Safeguards%2C%20Security%2C%20and%20Counterintelligence/README.md)
 - [Subchapter 016 (XVI) - Energy Employees Occupational Illness Compensation Program](Subchapter%20016%20%28XVI%29%20-%20Energy%20Employees%20Occupational%20Illness%20Compensation%20Program/README.md)
+- [Subchapter 017 (XVII) - Department of Energy National Security Authorizations General Provisions](Subchapter%20017%20%28XVII%29%20-%20Department%20of%20Energy%20National%20Security%20Authorizations%20General%20Provisions/README.md)

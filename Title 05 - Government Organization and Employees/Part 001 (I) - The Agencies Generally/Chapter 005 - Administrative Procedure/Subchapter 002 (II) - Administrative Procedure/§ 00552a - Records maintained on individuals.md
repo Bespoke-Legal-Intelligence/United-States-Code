@@ -126,7 +126,7 @@ Access to Records.—Each agency that maintains a system of records shall—
 
 &emsp;(3) permit the individual who disagrees with the refusal of the agency to amend his record to request a review of such refusal, and not later than 30 days (excluding Saturdays, Sundays, and legal public holidays) from the date on which the individual requests such review, complete such review and make a final determination unless, for good cause shown, the head of the agency extends such 30-day period; and if, after his review, the reviewing official also refuses to amend the record in accordance with the request, permit the individual to file with the agency a concise statement setting forth the reasons for his disagreement with the refusal of the agency, and notify the individual of the provisions for judicial review of the reviewing official's determination under subsection (g)(1)(A) of this section;
 
-&emsp;(4) in any disclosure, containing information about which the individual has filed a statement of disagreement, occurring after the filing of the statement under paragraph (3) of this subsection, clearly note any portion of the record which is disputed and provide copies of the statement and, if the agency deems it appropriate, copies of a concise statement of the reasons of the agency for not making the amendments requested, to persons or otheragencies to whom the disputed record has been disclosed; and
+&emsp;(4) in any disclosure, containing information about which the individual has filed a statement of disagreement, occurring after the filing of the statement under paragraph (3) of this subsection, clearly note any portion of the record which is disputed and provide copies of the statement and, if the agency deems it appropriate, copies of a concise statement of the reasons of the agency for not making the amendments requested, to persons or other agencies to whom the disputed record has been disclosed; and
 
 &emsp;(5) nothing in this section shall allow an individual access to any information compiled in reasonable anticipation of a civil action or proceeding.
 
@@ -192,7 +192,7 @@ Agency Rules.—In order to carry out the provisions of this section, each agenc
 
 &emsp;(2) define reasonable times, places, and requirements for identifying an individual who requests his record or information pertaining to him before the agency shall make the record or information available to the individual;
 
-&emsp;(3) establish procedures for the disclosure to an individual upon his request of his record orinformation pertaining to him, including special procedure, if deemed necessary, for the disclosure to an individual of medical records, including psychological records, pertaining to him;
+&emsp;(3) establish procedures for the disclosure to an individual upon his request of his record or information pertaining to him, including special procedure, if deemed necessary, for the disclosure to an individual of medical records, including psychological records, pertaining to him;
 
 &emsp;(4) establish procedures for reviewing a request from an individual concerning the amendment of any record or information pertaining to the individual, for making a determination on the request, for an appeal within the agency of an initial adverse agency determination, and for whatever additional means may be necessary for each individual to be able to exercise fully his rights under this section; and
 
@@ -278,7 +278,7 @@ Archival Records.—Each agency record which is accepted by the Archivist of the
 
 (2) Each agency record pertaining to an identifiable individual which was transferred to the National Archives of the United States as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, prior to the effective date of this section, shall, for the purposes of this section, be considered to be maintained by the National Archives and shall not be subject to the provisions of this section, except that a statement generally describing such records (modeled after the requirements relating to records subject to subsections (e)(4)(A) through (G) of this section) shall be published in the Federal Register.
 
-(3) Each agency record pertaining to an identifiable individual which is transferred to the National Archives of the United States as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, on or after the effective date of this section, shall, for the purposesof this section, be considered to be maintained by the National Archives and shall be exempt from the requirements of this section except subsections (e)(4)(A) through (G) and (e)(9) of this section.
+(3) Each agency record pertaining to an identifiable individual which is transferred to the National Archives of the United States as a record which has sufficient historical or other value to warrant its continued preservation by the United States Government, on or after the effective date of this section, shall, for the purposes of this section, be considered to be maintained by the National Archives and shall be exempt from the requirements of this section except subsections (e)(4)(A) through (G) and (e)(9) of this section.
 
 (m)(1)
 
@@ -540,7 +540,7 @@ Subsec. (e)(4). Pub. L. 97–375, §201(a), substituted “upon establishment or
 
 Subsec. (m). Pub. L. 97–365, §2(b), designated existing provisions as par. (1) and added par. (2).
 
-Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records, and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
+Subsec. (p). Pub. L. 97–375, §201(b), substituted provisions requiring annual submission of a report by the President to the Speaker of the House and President pro tempore of the Senate relating to the Director of the Office of Management and Budget, individual rights of access, changes or additions to systems of records,and other necessary or useful information, for provisions which had directed the President to submit to the Speaker of the House and the President of the Senate, by June 30 of each calendar year, a consolidated report, separately listing for each Federal agency the number of records contained in any system of records which were exempted from the application of this section under the provisions of subsections (j) and (k) of this section during the preceding calendar year, and the reasons for the exemptions, and such other information as indicate efforts to administer fully this section.
 
 1975—Subsec. (g)(5). Pub. L. 94–183 substituted “to September 27, 1975” for “to the effective date of this section”.
 
@@ -608,9 +608,13 @@ Pub. L. 101–56, §1, July 19, 1989, 103 Stat. 149, provided that: “This Act 
 
 Section 1 of Pub. L. 100–503 provided that: “This Act \[amending this section, enacting provisions set out as notes above and below, and repealing provisions set out as a note below\] may be cited as the ‘Computer Matching and Privacy Protection Act of 1988’.”
 
-#### Short Title
+#### Short Title of 1974 Amendment
 
 Section 1 of Pub. L. 93–579 provided: “That this Act \[enacting this section and provisions set out as notes under this section\] may be cited as the ‘Privacy Act of 1974’.”
+
+#### Short Title
+
+This section is popularly known as the “Privacy Act”.
 
 #### Termination of Reporting Requirements
 
@@ -622,7 +626,7 @@ Functions of Director of Office of Management and Budget under this section dele
 
 #### Publication of Guidance Under Subsection (p)(1)(A)(ii)
 
-Section 7201(b)(2) of Pub. L. 101–508 provided that: “Not later than 90 days after the date of the enactment of this Act \[Nov. 5, 1990\], the Director of the Office of Management and Budget shall publish guidance under subsection (p)(1)(A)(ii) of section 552a of title 5, United States Code, as amended by this Act.”
+Section 7201(b)(2) of Pub. L. 101–508 provided that: “Not later than 90 days after the date of the enactmentof this Act \[Nov. 5, 1990\], the Director of the Office of Management and Budget shall publish guidance under subsection (p)(1)(A)(ii) of section 552a of title 5, United States Code, as amended by this Act.”
 
 #### Limitation on Application of Verification Requirement
 
@@ -718,7 +722,7 @@ For provisions relating to a response to a request for information under this se
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 7 sections 2204b, 2279b, 7035; title 10 sections 1102, 1506, 1588; title 12 section 1715z; title 14 section 645; title 15 section 278g–3; title 16 sections 410cc–35, 1536; title 19 section 1631; title 20 sections 1080a, 1090, 9010; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 29 section 1908; title 31 sections 3701, 3711, 3716, 3718, 3729, 3733, 7701; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 247b–4, 300aa–25, 402, 405, 904, 1306, 3544, 9660, 14614, 14616; title 44 sections 2906, 3501, 3504, 3506; title 46 sections 7702, 9303; title 49 section 30305; title 50 section 403–5b; title 50 App. section 2159.
+This section is referred to in sections 552b, 1212, 3111, 7133, 8148 of this title; title 6 section 142; title 7 sections 2204b, 2279b, 7035; title 10 sections 1102, 1506, 1588, 1596b; title 12 section 1715z; title 14 section 645; title 15 section 7215; title 16 sections 410cc–35, 1536; title 18 section 2707; title 19 section 1631; title 20 sections 1080a, 1090, 9514, 9573, 9622; title 22 section 4355; title 25 section 3205; title 26 sections 6103, 7852; title 29 section 1908; title 31 sections 310, 3701, 3711, 3716, 3718, 3729, 3733, 7701; title 38 sections 3684A, 5701; title 39 section 410; title 42 sections 247b–4, 300aa–25, 402, 405, 904, 1306, 1395cc–2, 3544, 7385i, 9660, 14614, 14616; title 44 sections 2906, 3501, 3504, 3506, 3538, 3549, 3602; title 46 sections 7702, 9303; title 49 section 30305; title 50 sections 403–5c, 403–5e; title 50 App. section 2159.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

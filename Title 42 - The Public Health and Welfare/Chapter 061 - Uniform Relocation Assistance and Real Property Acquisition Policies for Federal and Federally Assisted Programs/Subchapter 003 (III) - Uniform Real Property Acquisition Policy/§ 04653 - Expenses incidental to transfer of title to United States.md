@@ -6,7 +6,7 @@ The head of a Federal agency, as soon as practicable after the date of payment o
 
 &emsp;(2) penalty costs for prepayment of any preexisting recorded mortgage entered into in good faith encumbering such real property; and
 
-&emsp;(3) the pro rata portion of real property taxes paid which are allocable to a period subsequent to the date of vesting title in the United States, or the effective date of possession of such real property by the United States, whichever is the earlier.
+&emsp;(3) the pro rata portion of real property taxes paid which are allocable to a period subsequent to the date of vesting title in theUnited States, or the effective date of possession of such real property by the United States, whichever is the earlier.
 
 (Pub. L. 91–646, title III, §303, Jan. 2, 1971, 84 Stat. 1906.)
 

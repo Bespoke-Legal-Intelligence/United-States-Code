@@ -34,7 +34,7 @@
 
 (B) The Centers shall conduct research and training activities by—
 
-&emsp;(i) conducting coordinated and advanced programs of research in rehabilitation targeted toward the production of new knowledge that will improve rehabilitation methodology and service delivery systems, alleviate or stabilizedisabling conditions, and promote maximum social and economic independence of individuals with disabilities, especially promoting the ability of the individuals to prepare for, secure, retain, regain, or advance in employment;
+&emsp;(i) conducting coordinated and advanced programs of research in rehabilitation targeted toward the production of new knowledge that will improve rehabilitation methodology and service delivery systems, alleviate or stabilize disabling conditions, and promote maximum social and economic independence of individuals with disabilities, especially promoting the ability of the individuals to prepare for, secure, retain, regain, or advance in employment;
 
 &emsp;(ii) providing training (including graduate, pre-service, and in-service training) to assist individuals to more effectively provide rehabilitation services;
 
@@ -92,7 +92,7 @@
 
 (O) An institution or provider that receives a grant under this paragraph to establish such a Center may not collect more than 15 percent of the amount of the grant received by the Center in indirect cost charges.
 
-(3)(A) Research grants may be used for the establishment and support of Rehabilitation Engineering Research Centers, operated by or in collaboration with institutions of higher education or nonprofit organizations, to conduct research or demonstration activities, and training activities, regarding rehabilitation technology, including rehabilitation engineering, assistive technology devices, and assistive technology services, for the purposes of enhancing opportunities for better meeting the needs of, and addressing the barriers confronted by, individuals with disabilities in all aspects of their lives.
+(3)(A) Research grants may be used for the establishment and support of Rehabilitation Engineering Research Centers, operated by or in collaboration with institutions of higher education or nonprofit organizations, to conduct researchor demonstration activities, and training activities, regarding rehabilitation technology, including rehabilitation engineering, assistive technology devices, and assistive technology services, for the purposes of enhancing opportunities for better meeting the needs of, and addressing the barriers confronted by, individuals with disabilities in all aspects of their lives.
 
 (B) In order to carry out the purposes set forth in subparagraph (A), such a Center shall carry out the research or demonstration activities by—
 
@@ -150,7 +150,7 @@
 
 &emsp;(i) cooperate with State agencies and other local, State, regional, and national programs and organizations developing or delivering rehabilitation technology, including State programs funded under the Assistive Technology Act of 1998 \[29 U.S.C. 3001 et seq.\]; and
 
-&emsp;(ii) prepare and submit to the Director as part of an application for continuation of a grant, or as a final report, a report that documents the outcomes of the program of the Center in terms of both short- and long-term impact on the lives of individuals with disabilities, and such other information as may be requested by the Director.
+&emsp;(ii) prepare and submit to the Director as part of an application for continuation of a grant, or as a final report, a report that documents the outcomes of the program of theCenter in terms of both short- and long-term impact on the lives of individuals with disabilities, and such other information as may be requested by the Director.
 
 (4)(A) Research grants may be used to conduct a program for spinal cord injury research, including conducting such a program by making grants to public or private agencies and organizations to pay part or all of the costs of special projects and demonstration projects for spinal cord injuries, that will—
 
@@ -158,7 +158,7 @@
 
 &emsp;(ii) provide encouragement and support for initiatives and new approaches by individual and institutional investigators; and
 
-&emsp;(iii) establish and maintain close working relationships with other governmental andvoluntary institutions and organizations engaged in similar efforts in order to unify and coordinate scientific efforts, encourage joint planning, and promote the interchange of data and reports among spinal cord injury investigations.
+&emsp;(iii) establish and maintain close working relationships with other governmental and voluntary institutions and organizations engaged in similar efforts in order to unify and coordinate scientific efforts, encourage joint planning, and promote the interchange of data and reports among spinal cord injury investigations.
 
 (B) Any agency or organization carrying out a project or demonstration project assisted by a grant under this paragraph that provides services to individuals with spinal cord injuries shall—
 
@@ -202,7 +202,7 @@
 
 &emsp;(C) appropriate services for the parents of such children, including psychological and psychiatric services, parent counseling, and training.
 
-(13) Research grants may be used to conduct a model research and training program underwhich model training centers shall be established to develop and use more advanced and effective methods of evaluating and addressing the employment needs of individuals with disabilities, including programs that—
+(13) Research grants may be used to conduct a model research and training program under which model training centers shall be established to develop and use more advanced and effective methods of evaluating and addressing the employment needs of individuals with disabilities, including programs that—
 
 &emsp;(A) provide training and continuing education for personnel involved with the employment of individuals with disabilities;
 
@@ -260,7 +260,7 @@
 
 (1) In carrying out evaluations of covered activities under this section, the Director is authorized to make arrangements for site visits to obtain information on the accomplishments of the projects.
 
-(2) The Director shall not make a grant under this section that exceeds $500,000 unless the peer review of the grant application has included a site visit.
+(2) The Director shall not make a grant under this section that exceeds $500,000 unless the peerreview of the grant application has included a site visit.
 
 (Pub. L. 93–112, title II, §204, as added Pub. L. 105–220, title IV, §405, Aug. 7, 1998, 112 Stat. 1173; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §401(16)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–412; Pub. L. 105–394, title IV, §402(b), Nov. 13, 1998, 112 Stat. 3661.)
 

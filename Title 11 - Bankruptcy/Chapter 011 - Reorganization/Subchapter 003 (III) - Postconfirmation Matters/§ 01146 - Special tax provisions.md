@@ -28,7 +28,7 @@ The House amendment retains the State and local rules in the House bill with one
 
 #### senate report no. 95–989
 
-Section 1146 provides special tax rules applicable to Title 11 reorganizations. Subsection (a) provides that the taxable period of an individual debtor terminates on the date of the order for relief, unless the case hasbeen converted into a reorganization from a liquidation proceeding.
+Section 1146 provides special tax rules applicable to Title 11 reorganizations. Subsection (a) provides that the taxable period of an individual debtor terminates on the date of the order for relief, unless the case has been converted into a reorganization from a liquidation proceeding.
 
 Subsection (b) requires the trustee of the estate of an individual debtor in a reorganization to file a tax return for each taxable period while the case is pending after the order for relief. For corporations in chapter 11, the trustee is required to file the tax returns due while the case is pending (sec. 346(c)(2)).
 

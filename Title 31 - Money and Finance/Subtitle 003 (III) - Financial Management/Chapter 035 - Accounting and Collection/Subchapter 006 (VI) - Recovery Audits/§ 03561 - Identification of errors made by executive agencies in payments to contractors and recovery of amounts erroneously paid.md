@@ -42,7 +42,7 @@ Guidance.—The Director of the Office of Management and Budget shall issue guid
 
 Pub. L. 107–107, div. A, title VIII, §831(b), Dec. 28, 2001, 115 Stat. 1188, provided that:
 
-“(1) Not later than 30 months after the date of the enactment of this Act \[Dec. 28, 2001\], and annually foreach of the first two years following the year of the first report, the Director of the Office of Management and Budget shall submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate, a report on the implementation of subchapter VI of chapter 35 of title 31, United States Code (as added by subsection (a)).
+“(1) Not later than 30 months after the date of the enactment of this Act \[Dec. 28, 2001\], and annually for each of the first two years following the year of the first report, the Director of the Office of Management and Budget shall submit to the Committee on Government Reform of the House of Representatives and the Committee on Governmental Affairs of the Senate, a report on the implementation of subchapter VI of chapter 35 of title 31, United States Code (as added by subsection (a)).
 
 “(2) Each report shall include—
 

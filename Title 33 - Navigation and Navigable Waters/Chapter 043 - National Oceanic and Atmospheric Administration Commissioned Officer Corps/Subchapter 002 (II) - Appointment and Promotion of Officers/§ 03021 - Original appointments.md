@@ -1,0 +1,44 @@
+### §3021. Original appointments
+
+#### (a) In general
+
+#### (1) Grades
+
+&emsp;Original appointments may be made in the grades of ensign, lieutenant (junior grade), and lieutenant.
+
+#### (2) Qualifications
+
+&emsp;Under regulations prescribed by the Secretary, such an appointment may be given only to a person who—
+
+&emsp;&emsp;(A) meets the qualification requirements specified in paragraphs (1) through (4) of section 532(a) of title 10; and
+
+&emsp;&emsp;(B) has such other special qualifications as the Secretary may prescribe by regulation.
+
+#### (3) Examination
+
+&emsp;A person may be given such an appointment only after passage of a mental and physical examination given in accordance with regulations prescribed by the Secretary.
+
+#### (4) Revocation of commission of officers found not qualified
+
+&emsp;The President may revoke the commission of any officer appointed under this section during the officer's first three years of serviceif the officer is found not qualified for the service. Any such revocation shall be made under regulations prescribed by the President.
+
+#### (b) Lineal list
+
+Each person appointed under this section shall be placed on the lineal list in a position commensurate with that person's age, education, and experience, in accordance with regulations prescribed by the Secretary.
+
+#### (c) Service credit upon original appointment in grade above ensign
+
+#### (1) In general
+
+&emsp;For the purposes of basic pay, a person appointed under this section in the grade of lieutenant shall be credited as having, on the date of that appointment, three years of service, and a person appointed under this section in the grade of lieutenant (junior grade) shall be credited as having, as of the date of that appointment, 11/2 years of service.
+
+#### (2) Higher credit under other law
+
+&emsp;If a person appointed under this section is entitled to credit for the purpose of basic pay under any other provision of law that would exceed the amount of credit authorized by paragraph (1), that person shall be credited with that amount of service in lieu of the credit authorized by paragraph (1).
+
+(Pub. L. 107–372, title II, §221, Dec. 19, 2002, 116 Stat. 3084.)
+
+#### Prior Provisions
+
+Provisions similar to those in this section were contained in section 853t of this title prior to repeal by Pub. L. 107–372.
+

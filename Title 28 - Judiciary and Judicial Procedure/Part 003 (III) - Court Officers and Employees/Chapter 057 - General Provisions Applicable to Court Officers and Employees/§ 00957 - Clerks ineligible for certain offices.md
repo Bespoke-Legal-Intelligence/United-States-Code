@@ -18,17 +18,17 @@ The words “commissioner” and “referee” did not appear in section 127 of 
 
 Words “by the court or any judge thereof” in section 304 of title 28, U.S.C., 1940 ed., were omitted as surplusage.
 
-Words “or assistant clerks” and “in any case” were added in subsection (b) to make the section applicable to that officer and consistent with the prohibition in this section against deputies of district court clerks.
+Words “or assistant clerks” and “in any case” were added in subsection (b) to make the section applicableto that officer and consistent with the prohibition in this section against deputies of district court clerks.
 
 Minor changes were made in phraseology.
 
 #### Amendments
 
-<b>1984</b>—Pub. L. 98–353 struck out “district” before “court”.
+1984—Pub. L. 98–353 struck out “district” before “court”.
 
-<b>1982</b>—Pub. L. 97–164 struck out designation “(a)” before “A clerk of a district court” and struck out subsec. (b) which had provided that the clerk or assistant clerk of the Court of Customs and Patent Appeals could not be appointed a commissioner, master, or referee in any case.
+1982—Pub. L. 97–164 struck out designation “(a)” before “A clerk of a district court” and struck out subsec. (b) which had provided that the clerk or assistant clerk of the Court of Customs and Patent Appeals could not be appointed a commissioner, master, or referee in any case.
 
-<b>1978</b>—Pub. L. 95–598 directed the amendment of section by inserting “or bankruptcy court” after “district court”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
+1978—Pub. L. 95–598 directed the amendment of section by inserting “or bankruptcy court” after “district court”, which amendment did not become effective pursuant to section 402(b) of Pub. L. 95–598, as amended, set out as an Effective Date note preceding section 101 of Title 11, Bankruptcy.
 
 #### Effective Date of 1984 Amendment
 

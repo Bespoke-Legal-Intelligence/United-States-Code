@@ -32,7 +32,7 @@ Terms and Conditions.—Any licenses granted under section 207(a)(2) shall conta
 
 &emsp;(1) retaining a nontransferrable, irrevocable, paid-up license for any Federal agency to practice the invention or have the invention practiced throughout the world by or on behalf of the Government of the United States;
 
-&emsp;(2) requiring periodic reporting on utilization of the invention, and utilization efforts, by the licensee, but only to the extent necessary to enable the Federal agency to determine whether the terms of the license are being complied with, except that any such report shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5 of the United States Code; and
+&emsp;(2) requiring periodic reporting on utilization of the invention, and utilization efforts, by the licensee, but only to the extent necessary to enable the Federal agency to determine whether the terms of the license are being complied with, except that any such report shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5; and
 
 &emsp;(3) empowering the Federal agency to terminate the license in whole or in part if the agency determines that—
 
@@ -50,15 +50,17 @@ Public Notice.—No exclusive or partially exclusive license may be granted unde
 
 (f)
 
-Plan.—No Federal agency shall grant any license under a patent or patent application on a federally owned invention unless the person requesting the license has supplied the agency with a plan for development or marketing of the invention, except that any such plan shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5 of the United States Code.
+Plan.—No Federal agency shall grant any license under a patent or patent application on a federally owned invention unless the person requesting the license has supplied the agency with a plan for development or marketing of the invention, except that any such plan shall be treated by the Federal agency as commercial and financial information obtained from a person and privileged and confidential and not subject to disclosure under section 552 of title 5.
 
-(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 106–404, §4(a), Nov. 1, 2000, 114 Stat. 1743.)
+(Added Pub. L. 96–517, §6(a), Dec. 12, 1980, 94 Stat. 3024; amended Pub. L. 106–404, §4(a), Nov. 1, 2000, 114 Stat. 1743; Pub. L. 107–273, div. C, title III, §13206(a)(15), Nov. 2, 2002, 116 Stat. 1905.)
 
 #### References in Text
 
 The Federal antitrust laws, referred to in subsecs. (a)(4) and (d)(3)(D), are classified generally to chapter 1 (§1 et seq.) of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2002—Subsecs. (d)(2), (f). Pub. L. 107–273 struck out “of the United States Code” after “title 5”.
 
 2000—Pub. L. 106–404 amended section catchline and text generally, restructuring and revising provisions setting forth criteria, terms, and conditions relating to granting of licenses on federally owned inventions.
 

@@ -2,13 +2,13 @@
 
 #### (a) Program authorized
 
-Not later than 1 year after November 13, 2000, and every 10 years thereafter, the Secretary shall award grants to States, or consortia of two or more States or political subdivisions of States, to perform, in collaboration with local public health agencies, an evaluation to determine the extent to which the States or local public health agencies can achieve the capacities applicable to State and local public health agencies described in subsection (a) of section 247d–1 of this title. The Secretary shall provide technical assistance to States, or consortia of two or more States or political subdivisions of States, in addition to awarding such grants.
+Not later than 1 year after November 13, 2000, and every five years thereafter, the Secretary shall award grants to States, or consortia of two or more States or political subdivisions of States, to perform, in collaboration with local public health agencies, an evaluation to determine the extent to which the States or local public health agencies can achieve the capacities applicable to State and local public health agencies described in subsection (a) of section 247d–1 of this title. The Secretary shall provide technical assistance to States, or consortia of two or more States or political subdivisions of States, in addition to awarding such grants.
 
 #### (b) Procedure
 
 #### (1) In general
 
-&emsp;A State, or a consortium of two or more States or political subdivisions of States, may contract with an outside entity to perform theevaluation described in subsection (a) of this section.
+&emsp;A State, or a consortium of two or more States or political subdivisions of States, may contract with an outside entity to perform the evaluation described in subsection (a) of this section.
 
 #### (2) Methods
 
@@ -26,9 +26,13 @@ Funds appropriated under this section shall be used to supplement and not suppla
 
 There are authorized to be appropriated to carry out this section $45,000,000 for fiscal year 2001, and such sums as may be necessary for each subsequent fiscal year through 2003.
 
-(July 1, 1944, ch. 373, title III, §319B, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2317.)
+(July 1, 1944, ch. 373, title III, §319B, as added Pub. L. 106–505, title I, §102, Nov. 13, 2000, 114 Stat. 2317; amended Pub. L. 107–188, title I, §111(2), June 12, 2002, 116 Stat. 611.)
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–188 substituted “five years” for “10 years” in first sentence.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 247d–3 of this title.
+This section is referred to in sections 247d–3, 247d–3a, 247d–4, 247d–7c of this title.
 

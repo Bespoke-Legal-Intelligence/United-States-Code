@@ -8,7 +8,7 @@ The Secretary may cooperate with other Federal agencies or entities, States or p
 
 The individual or entity cooperating with the Secretary under subsection (a) of this section shall be responsible for—
 
-&emsp;(1) the authority necessary to conduct the operations or take measures on all land and properties within the foreign country or State,other than those owned or controlled by the United States; and
+&emsp;(1) the authority necessary to conduct the operations or take measures on all land and properties within the foreign country or State, other than those owned or controlled by the United States; and
 
 &emsp;(2) other facilities and means as the Secretary determines necessary.
 
@@ -41,4 +41,8 @@ The Secretary shall ensure that phytosanitary issues involving imports and expor
 #### References in Text
 
 This chapter, referred to in subsec. (a), was in the original “this title”, meaning title IV of Pub. L. 106–224, June 20, 2000, 114 Stat. 438, which is classified principally to this chapter. For complete classification of title IV to the Code, see Short Title note set out under section 7701 of this title and Tables.
+
+#### Transfer of Functions
+
+For transfer of functions of the Secretary of Agriculture relating to agricultural import and entry inspection activities under this chapter to the Secretary of Homeland Security, and for treatment of related references, see sections 231, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -54,7 +54,7 @@ In the Director's capacity as head of the intelligence community, the Director s
 
 &emsp;(5) eliminate waste and unnecessary duplication within the intelligence community;
 
-&emsp;(6) establish requirements and priorities for foreign intelligence information to be collected under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), and provide assistance to the Attorney General to ensure that information derived from electronic surveillance or physical searches under that Act is disseminated so it may be used efficiently and effectively for foreign intelligence purposes, except that the Director shall have no authority to direct, manage, or undertake electronic surveillance or physical search operations pursuant to that Act unlessotherwise authorized by statute or Executive order;
+&emsp;(6) establish requirements and priorities for foreign intelligence information to be collected under the Foreign Intelligence Surveillance Act of 1978 (50 U.S.C. 1801 et seq.), and provide assistance to the Attorney General to ensure that information derived from electronic surveillance or physical searches under that Act is disseminated so it may be used efficiently and effectively for foreign intelligence purposes, except that the Director shall have no authority to direct, manage, or undertake electronic surveillance or physical search operations pursuant to that Act unless otherwise authorized by statute or Executive order;
 
 &emsp;(7) protect intelligence sources and methods from unauthorized disclosure; and
 
@@ -104,6 +104,22 @@ Subsec. (c)(3) to (7). Pub. L. 104–293, §807(a)(2), (3), added par. (3) and r
 
 1993—Subsec. (d)(3). Pub. L. 103–178 substituted “provide” for “providing”.
 
+#### Standardized Transliteration of Names Into the Roman Alphabet
+
+Pub. L. 107–306, title III, §352, Nov. 27, 2002, 116 Stat. 2401, provided that:
+
+“(a)
+
+Method of Transliteration Required.—Not later than 180 days after the date of the enactment of this Act \[Nov. 27, 2002\], the Director of Central Intelligence shall provide for a standardized method for transliterating into the Roman alphabet personal and place names originally rendered in any language that uses an alphabet other than the Roman alphabet.
+
+“(b)
+
+Use by Intelligence Community.—The Director shall ensure the use of the method established under subsection (a) in—
+
+&emsp;“(1) all communications among the elements of the intelligence community; and
+
+&emsp;“(2) all intelligence products of the intelligence community.”
+
 #### Standards for Spelling of Foreign Names and Places and for Use of Geographic Coordinates
 
 Pub. L. 105–107, title III, §309, Nov. 20, 1997, 111 Stat. 2253, provided that:
@@ -130,7 +146,7 @@ Issuance.—Not later than 180 days after the date of enactment of this Act, the
 
 &emsp;“(2)
 
-Basis.—The guidelines under paragraph (1) shall, to the maximum extent practicable, be based on current United States Government standards for the transliteration of foreign names, standards for foreign place names developed by the Board on Geographic Names, and a standard set of geographic coordinates.
+Basis.—The guidelines under paragraph (1) shall, to the maximum extent practicable, be based on current United States Government standards for the transliteration of foreign names, standards forforeign place names developed by the Board on Geographic Names, and a standard set of geographic coordinates.
 
 &emsp;“(3)
 
@@ -158,5 +174,5 @@ Pub. L. 103–359, title VI, §603, Oct. 14, 1994, 108 Stat. 3433, provided that
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 401a, 403–1, 403–5, 403f, 403g, 404g, 411, 2011 of this title.
+This section is referred to in sections 401a, 403–1, 403–5, 403f, 403g, 404g, 404n–2, 411, 2011 of this title; title 8 section 1721.
 

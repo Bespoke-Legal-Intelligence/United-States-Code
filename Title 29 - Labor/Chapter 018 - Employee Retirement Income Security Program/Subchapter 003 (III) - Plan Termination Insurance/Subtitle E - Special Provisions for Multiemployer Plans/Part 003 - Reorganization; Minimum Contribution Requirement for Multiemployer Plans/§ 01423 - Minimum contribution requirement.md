@@ -44,7 +44,7 @@
 
 #### (c) Current contribution base; valuation contribution base
 
-(1) For purposes of this part, a plan's current contribution base for a plan year is the numberof contribution base units with respect to which contributions are required to be made under the plan for that plan year, determined in accordance with regulations prescribed by the Secretary of the Treasury.
+(1) For purposes of this part, a plan's current contribution base for a plan year is the number of contribution base units with respect to which contributions are required to be made under the plan for that plan year, determined in accordance with regulations prescribed by the Secretary of the Treasury.
 
 (2)(A) Except as provided in subparagraph (B), for purposes of this part a plan's valuation contribution base is the number of contribution base units for which contributions were received for the base plan year—
 
@@ -60,7 +60,7 @@
 
 &emsp;(ii) beginning with the first plan year beginning after the expiration of all relevant collective bargaining agreements which were in effect in the plan year in which the plan became insolvent,
 
-> the plan's valuation contribution base is the greater of the number of contribution base units for which contributions were received for the first or second plan year preceding the first plan year in which the plan is insolvent, adjusted as provided in clause (ii) or (iii) of subparagraph (A).
+> the plan's valuation contribution base is the greater of the number of contribution base units for which contributions were received for the first or second plan year preceding the first planyear in which the plan is insolvent, adjusted as provided in clause (ii) or (iii) of subparagraph (A).
 
 #### (d) Maximum amount; amount of funding standard requirement; applicability to plan amendments increasing benefits
 

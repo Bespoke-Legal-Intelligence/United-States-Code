@@ -14,6 +14,7 @@ Part A—Drugs and Devices
 - [&sect; 00355a - Pediatric studies of drugs](%C2%A7%2000355a%20-%20Pediatric%20studies%20of%20drugs.md)
 - [&sect; 00355b - Adverse-event reporting](%C2%A7%2000355b%20-%20Adverse-event%20reporting.md)
 - [&sect; 00356 - Fast track products](%C2%A7%2000356%20-%20Fast%20track%20products.md)
+- [&sect; 00356&#8211;1 - Accelerated approval of priority countermeasures](%C2%A7%2000356%E2%80%931%20-%20Accelerated%20approval%20of%20priority%20countermeasures.md)
 - [&sect; 00356a - Manufacturing changes](%C2%A7%2000356a%20-%20Manufacturing%20changes.md)
 - [&sect; 00356b - Reports of postmarketing studies](%C2%A7%2000356b%20-%20Reports%20of%20postmarketing%20studies.md)
 - [&sect; 00356c - Discontinuance of life saving product](%C2%A7%2000356c%20-%20Discontinuance%20of%20life%20saving%20product.md)

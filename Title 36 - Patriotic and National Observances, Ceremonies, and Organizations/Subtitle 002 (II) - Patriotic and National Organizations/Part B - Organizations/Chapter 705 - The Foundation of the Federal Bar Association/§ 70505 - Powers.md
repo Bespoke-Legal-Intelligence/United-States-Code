@@ -40,7 +40,7 @@ Historical and Revision Notes
 
 In this section, the definition of “State” in 36:588 is omitted because the word “State” (which in the source provisions for this chapter only appears in 36:574) is not used in the revised chapter.
 
-In clause (1), the words “apply, and administer” and “not inconsistent with the laws of the United States of America or any State in which the corporation is to operate” are omitted as unnecessary.
+In clause (1), the words “apply, and administer” and “not inconsistent with the laws of the United States ofAmerica or any State in which the corporation is to operate” are omitted as unnecessary.
 
 In clause (2), the word “use” is omitted as unnecessary.
 
@@ -50,7 +50,7 @@ In clause (4), the words “make contracts” are substituted for “contract an
 
 Clause (5) is substituted for “take and hold by lease, gift, purchase, grant, devise, bequest, or otherwise, any property, real or personal, or mixed, necessary for carrying into effect the purposes of the corporation” and “transfer, lease, or convey real or personal property” for consistency in the revised title and to eliminate unnecessary words. The words “subject to applicable provisions of law of any State (1) governing the amount or kind of real and personal property which may be held by, or (2) otherwise limiting or controlling the ownership of real and personal property by, a corporation operating in such State” are omitted as unnecessary.
 
-In clause (6), the words “for the purposes of the corporation” are omitted as unnecessary. The words“issue instruments of indebtedness, and secure its obligations by granting security interests in its property” are substituted for “issue bonds or other evidences of indebtedness therefor, and secure the same by mortgage or pledge” for consistency in the revised title. The words “subject to applicable Federal or State laws” are omitted as unnecessary.
+In clause (6), the words “for the purposes of the corporation” are omitted as unnecessary. The words “issue instruments of indebtedness, and secure its obligations by granting security interests in its property” are substituted for “issue bonds or other evidences of indebtedness therefor, and secure the same by mortgage or pledge” for consistency in the revised title. The words “subject to applicable Federal or State laws” are omitted as unnecessary.
 
 In clause (7), the words “complain and defend in any court of competent jurisdiction” are omitted as unnecessary.
 

@@ -74,7 +74,7 @@ Emergency Air Transportation by Foreign Air Carriers.—(1) To the extent that t
 
 (h)
 
-Notice and Opportunity for Hearing.—The Secretary may act under subsections (d) and (f)(3)(B) of this section only after giving the air carrier notice and an opportunity for a hearing.
+Notice and Opportunity for Hearing.—The Secretary may act under subsections (d)and (f)(3)(B) of this section only after giving the air carrier notice and an opportunity for a hearing.
 
 (Pub. L. 103–272, §1(e), July 5, 1994, 108 Stat. 1104; Pub. L. 104–287, §5(65), Oct. 11, 1996, 110 Stat. 3395.)
 
@@ -186,7 +186,7 @@ In subsection (b), the word “Administrator” in section 307(e) of the Federal
 
 In subsection (d), before clause (1), the words “to the extent” are omitted as surplus.
 
-In subsection (f)(1), before clause (A), the words “Subject to paragraph (5) of this subsection” and “in air transportation” are omitted as surplus. The words “the Secretary may exempt” are substituted for “as may be prescribed in regulations promulgated by the Board” for clarity and to eliminate unnecessary words. In clause (A)(ii), the word “capacity” is omitted as surplus. In clause (B), the word “reasonable” is omitted assurplus. The word “prescribes” is substituted for “adopt” for consistency in the revised title and with other titles of the Code. The words “in the public interest” are omitted as surplus.
+In subsection (f)(1), before clause (A), the words “Subject to paragraph (5) of this subsection” and “in air transportation” are omitted as surplus. The words “the Secretary may exempt” are substituted for “as may be prescribed in regulations promulgated by the Board” for clarity and to eliminate unnecessary words. In clause (A)(ii), the word “capacity” is omitted as surplus. In clause (B), the word “reasonable” is omitted as surplus. The word “prescribes” is substituted for “adopt” for consistency in the revised title and with other titles of the Code. The words “in the public interest” are omitted as surplus.
 
 In subsection (f)(2), the words “by regulation” are omitted as surplus. The word “payload” is substituted for “property” for consistency in this subsection. The words “specified in this paragraph” are omitted as surplus.
 

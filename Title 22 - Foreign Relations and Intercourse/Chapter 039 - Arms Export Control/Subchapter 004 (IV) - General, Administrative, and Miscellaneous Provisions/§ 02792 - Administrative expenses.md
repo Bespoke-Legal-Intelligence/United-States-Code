@@ -16,11 +16,13 @@ Charges for administrative services calculated under section 2761(e)(1)(A) of th
 
 #### (c) Limitations on funds used for official reception and representation expenses
 
-Not more than $72,500 of the funds derived from charges for administrative services pursuant to section 2761(e)(1)(A) of this title may be used each fiscal year for official reception and representation expenses.
+Not more than $86,500 of the funds derived from charges for administrative services pursuant to section 2761(e)(1)(A) of this title may be used each fiscal year for official reception and representation expenses.
 
-(Pub. L. 90–629, ch. 4, §43, Oct. 22, 1968, 82 Stat. 1327; Pub. L. 94–329, title II, §214, June 30, 1976, 90 Stat. 746; Pub. L. 95–92, §7(d), Aug. 4, 1977, 91 Stat. 617; Pub. L. 96–92, §19(b), Oct. 29, 1979, 93 Stat. 709; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560; Pub. L. 99–83, title I, §120, Aug. 8, 1985, 99 Stat. 204; Pub. L. 101–165, title IX, §9104(b)(1), Nov. 21, 1989, 103 Stat. 1152.)
+(Pub. L. 90–629, ch. 4, §43, Oct. 22, 1968, 82 Stat. 1327; Pub. L. 94–329, title II, §214, June 30, 1976, 90 Stat. 746; Pub. L. 95–92, §7(d), Aug. 4, 1977, 91 Stat. 617; Pub. L. 96–92, §19(b), Oct. 29, 1979, 93 Stat. 709; Pub. L. 97–113, title VII, §734(a)(10), Dec. 29, 1981, 95 Stat. 1560; Pub. L. 99–83, title I, §120, Aug. 8, 1985, 99 Stat. 204; Pub. L. 101–165, title IX, §9104(b)(1), Nov. 21, 1989, 103 Stat. 1152; Pub. L. 107–228, div. B, title XII, §1203, Sept. 30, 2002, 116 Stat. 1427.)
 
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–228 substituted “$86,500” for “$72,500”.
 
 1989—Subsec. (b)(3). Pub. L. 101–165 added par. (3).
 

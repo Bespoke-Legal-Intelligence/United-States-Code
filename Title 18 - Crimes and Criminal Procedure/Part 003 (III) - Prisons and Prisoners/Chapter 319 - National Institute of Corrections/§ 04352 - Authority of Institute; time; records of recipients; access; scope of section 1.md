@@ -26,7 +26,7 @@
 
 &emsp;(12) to confer with and avail itself of the assistance, services, records, and facilities of State and local governments or other public or private agencies, organizations, or individuals;
 
-&emsp;(13) to enter into contracts with public or private agencies, organizations, or individuals,for the performance of any of the functions of the Institute; and
+&emsp;(13) to enter into contracts with public or private agencies, organizations, or individuals, for the performance of any of the functions of the Institute; and
 
 &emsp;(14) to procure the services of experts and consultants in accordance with section 3109 of title 5 of the United States Code, at rates of compensation not to exceed the daily equivalent of the rate authorized for GS–18 by section 5332 of title 5 of the United States Code.
 
@@ -44,7 +44,7 @@
 
 1990—Subsec. (c). Pub. L. 101–647 substituted “this chapter shall” for “this shall”.
 
-1982—Subsec. (b). Pub. L. 97–375 struck out subsec. (b) which directed the Institute to submit an annual report to the President and Congress, including a comprehensive and detailed report of the Institute's operations, activities, financial condition and accomplishments under this title, and which might include such recommendations related to corrections as the Institute deemed appropriate.
+1982—Subsec. (b). Pub. L. 97–375 struck out subsec. (b) which directed the Institute to submit an annual report to the President and Congress, including a comprehensive and detailed report of the Institute's operations,activities, financial condition and accomplishments under this title, and which might include such recommendations related to corrections as the Institute deemed appropriate.
 
 #### Inclusion of National Institute of Corrections in Federal Prison System Salaries and Expenses Budget
 

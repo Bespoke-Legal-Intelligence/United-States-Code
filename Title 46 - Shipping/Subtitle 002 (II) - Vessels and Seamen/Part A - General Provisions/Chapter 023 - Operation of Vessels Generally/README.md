@@ -9,6 +9,7 @@
 | [2304\.](%C2%A7%2002304%20-%20Duty%20to%20provide%20assistance%20at%20sea.md) | Duty to provide assistance at sea. |
 | [2305\.](%C2%A7%2002305%20-%20Injunctions.md) | Injunctions. |
 | [2306\.](%C2%A7%2002306%20-%20Vessel%20reporting%20requirements.md) | Vessel reporting requirements. |
+| [2307\.](%C2%A7%2002307%20-%20Limitation%20of%20liability%20for%20Coast%20Guard%20Vessel%20Traffic%20Service%20pilots.md) | Limitation of liability for Coast Guard Vessel Traffic Service pilots. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -17,6 +18,8 @@
 Chapter 23 lists requirements that relate to the general operation of all vessels. These include penalties and injunctive relief for negligent operation of a vessel. It also provides penalties for failure to render assistance.
 
 #### Amendments
+
+2002—Pub. L. 107–295, title IV, §431(b), Nov. 25, 2002, 116 Stat. 2128, added item 2307.
 
 1998—Pub. L. 105–383, title III, §§302(b), 304(d)(2), Nov. 13, 1998, 112 Stat. 3418, 3420, added item 2302, struck out former item 2302 “Penalties for negligent operations”, and added item 2303a.
 
@@ -34,3 +37,4 @@ Chapter 23 lists requirements that relate to the general operation of all vessel
 - [&sect; 02304 - Duty to provide assistance at sea](%C2%A7%2002304%20-%20Duty%20to%20provide%20assistance%20at%20sea.md)
 - [&sect; 02305 - Injunctions](%C2%A7%2002305%20-%20Injunctions.md)
 - [&sect; 02306 - Vessel reporting requirements](%C2%A7%2002306%20-%20Vessel%20reporting%20requirements.md)
+- [&sect; 02307 - Limitation of liability for Coast Guard Vessel Traffic Service pilots](%C2%A7%2002307%20-%20Limitation%20of%20liability%20for%20Coast%20Guard%20Vessel%20Traffic%20Service%20pilots.md)

@@ -28,7 +28,7 @@ As used in this subchapter, the term “improved property” means a detached, o
 
 > Such term also includes any structures accessory to the dwelling which are situated on the lands so designated. The maps referred to in this section shall be on file and available for public inspection in the Office of the Director of the National Park Service, Department of the Interior. The Secretary shall designate the land referred to in subparagraph (B). The amount of land so designated shall in every case be not more than three acres in area, and in making such designation the Secretary shall take into account the manner of noncommercial residential use in which the dwelling and land have customarily been enjoyed: <i>Provided</i>, That the Secretary may exclude from the land so designated any beach or waters, together with so much of the land adjoining such beach or waters, as he may deem necessary for public access thereto or public use thereof. All rights of use and occupancy shall be subject to such terms and conditions as the Secretary deems appropriate to assure the use of such property in accordance with the purposes of this subchapter.
 
-(Pub. L. 89–761, §4, Nov. 5, 1966, 80 Stat. 1309; Pub. L. 94–549, §1(3), Oct. 18, 1976, 90 Stat. 2529; Pub. L. 96–612, §1(5), Dec. 28, 1980, 94 Stat. 3575;Pub. L. 99–583, §1(b), Oct. 29, 1986, 100 Stat. 3318; Pub. L. 102–430, §4(a), Oct. 23, 1992, 106 Stat. 2208.)
+(Pub. L. 89–761, §4, Nov. 5, 1966, 80 Stat. 1309; Pub. L. 94–549, §1(3), Oct. 18, 1976, 90 Stat. 2529; Pub. L. 96–612, §1(5), Dec. 28, 1980, 94 Stat. 3575; Pub. L. 99–583, §1(b), Oct. 29, 1986, 100 Stat. 3318; Pub. L. 102–430, §4(a), Oct. 23, 1992, 106 Stat. 2208.)
 
 #### Amendments
 

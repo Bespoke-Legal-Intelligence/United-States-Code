@@ -4,7 +4,7 @@
 
 (2) The term “eligible veteran”, as used in the provisions of the sections enumerated in paragraph (1) of this subsection, shall be deemed to include an individual who is eligible for educational assistance under this chapter.
 
-(3) The Secretary may, without regard to the application to this chapter of so much of the provisions of section 3471 of this title as prohibit the enrollment of an eligible veteran in a program of education in which the veteran is “already qualified”, and pursuant to such regulations as the Secretary shall prescribe, approve the enrollment of such individual in refresher courses (including courses which will permit such individual to update knowledge and skills or be instructed in the technological advances which have occurred in the individual's field of employment during and since the period of such veteran's active military service), deficiency courses, or other preparatory or special education or training courses necessary to enable the individual to pursue an approved program of education.
+(3) The Secretary may, without regard to the application to this chapter of so much of the provisions of section 3471 of this title as prohibitthe enrollment of an eligible veteran in a program of education in which the veteran is “already qualified”, and pursuant to such regulations as the Secretary shall prescribe, approve the enrollment of such individual in refresher courses (including courses which will permit such individual to update knowledge and skills or be instructed in the technological advances which have occurred in the individual's field of employment during and since the period of such veteran's active military service), deficiency courses, or other preparatory or special education or training courses necessary to enable the individual to pursue an approved program of education.
 
 (b) Regulations prescribed by the Secretary of Defense under this chapter shall be uniform for the Armed Forces under the jurisdiction of the Secretary of a military department.
 
@@ -34,7 +34,7 @@
 
 Subsec. (e). Pub. L. 105–368, §206(a), added subsec. (e).
 
-1994—Subsec. (d). Pub. L. 103–446 struck out “(1)” before “The Secretary may approve”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former par. (2) which read as follows: “Thissubsection shall not apply to a course of flight training that commences on or after October 1, 1994.”
+1994—Subsec. (d). Pub. L. 103–446 struck out “(1)” before “The Secretary may approve”, redesignated subpars. (A) to (C) as pars. (1) to (3), respectively, and struck out former par. (2) which read as follows: “This subsection shall not apply to a course of flight training that commences on or after October 1, 1994.”
 
 1992—Subsec. (a)(1). Pub. L. 102–568, §313(a)(4)(A), struck out “3473,” after “3471,”.
 

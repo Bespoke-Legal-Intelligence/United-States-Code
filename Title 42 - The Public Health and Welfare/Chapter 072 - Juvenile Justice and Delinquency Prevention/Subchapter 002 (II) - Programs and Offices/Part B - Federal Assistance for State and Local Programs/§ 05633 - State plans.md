@@ -2,17 +2,17 @@
 
 #### (a) Requirements
 
-In order to receive formula grants under this part, a State shall submit a plan for carrying out its purposes applicable to a 3-year period. Such plan shall be amended annually to include new programs and challenge activities subsequent to State participation in part E of this subchapter. The State shall submit annual performance reports to the Administrator which shall describe progress in implementing programs contained in the original plan, and shall describe the status of compliance with State plan requirements. In accordance with regulations which the Administrator shall prescribe, such plan shall—
+In order to receive formula grants under this part, a State shall submit a plan for carrying out its purposes applicable to a 3-year period. Such plan shall be amended annually to include new programs, projects, and activities. The State shall submit annual performance reports to the Administrator which shall describe progress in implementing programs contained in the original plan, and shall describe the status of compliance with State plan requirements. In accordance with regulations which the Administrator shall prescribe, such plan shall—
 
 &emsp;(1) designate the State agency described in section 5671(c)(1) of this title as the sole agency for supervising the preparation and administration of the plan;
 
 &emsp;(2) contain satisfactory evidence that the State agency designated in accordance with paragraph (1) has or will have authority, by legislation if necessary, to implement such plan in conformity with this part;
 
-&emsp;(3) provide for an advisory group, which—
+&emsp;(3) provide for an advisory group that—
 
 &emsp;&emsp;(A) shall consist of not less than 15 and not more than 33 members appointed by the chief executive officer of the State—
 
-&emsp;&emsp;&emsp;(i) which members have training, experience, or special knowledge concerning the prevention and treatment of juvenile delinquency or the administration of juvenile justice;
+&emsp;&emsp;&emsp;(i) which members have training, experience, or special knowledge concerning the prevention and treatment of juvenile delinquency, the administration of juvenile justice, or the reduction of juvenile delinquency;
 
 &emsp;&emsp;&emsp;(ii) which members include—
 
@@ -44,9 +44,9 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;(D) shall, consistent with this subchapter—
 
-&emsp;&emsp;&emsp;(i) advise the State agency designated under paragraph (1) and its supervisory board;
+&emsp;&emsp;&emsp;(i) advise the State agency designated under paragraph (1) and its supervisory board; and
 
-&emsp;&emsp;&emsp;(ii) submit to the chief executive officer and the legislature of the State at least annually recommendations regarding State compliance with the requirements of paragraphs (12), (13), and (14) and with progress relating to challenge activities carried out pursuant to part E of this subchapter; and
+&emsp;&emsp;&emsp;(ii) submit to the chief executive officer and the legislature of the State at least annually recommendations regarding State compliance with the requirements of paragraphs (11), (12), and (13); and
 
 &emsp;&emsp;&emsp;(iii) contact and seek regular input from juveniles currently under the jurisdiction of the juvenile justice system; and
 
@@ -58,49 +58,35 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;(4) provide for the active consultation with and participation of units of local government or combinations thereof in the development of a State plan which adequately takes into account the needs and requests of units of local government, except that nothing in the plan requirements, or any regulations promulgated to carry out such requirements, shall be construed to prohibit or impede the State from making grants to, or entering into contracts with, local private agencies or the advisory group;
 
-&emsp;(5) unless the provisions of this paragraph are waived at the discretion of the Administrator for any State in which the services for delinquent or other youth are organized primarily on a statewide basis, provide that at least 662/3 per centum of funds received by the State under section 5632 of this title, other than funds made available to the State advisory group under section 5632(d) of this title, shall be expended—
+&emsp;(5) unless the provisions of this paragraph are waived at the discretion of the Administrator for any State in which the services for delinquent or other youth are organized primarily on a statewide basis, provide that at least 662/3 per centum of funds received by the State under section 5632 of this title reduced by the percentage (if any) specified by the State under the authority of paragraph (25) and excluding funds made available to the State advisory group under section 5632(d) of this title, shall be expended—
 
 &emsp;&emsp;(A) through programs of units of local government or combinations thereof, to the extent such programs are consistent with the State plan;
 
 &emsp;&emsp;(B) through programs of local private agencies, to the extent such programs are consistent with the State plan, except that direct funding of any local private agency by a State shall be permitted only if such agency requests such funding after it has applied for and been denied funding by any unit of local government or combination thereof; and
 
-&emsp;&emsp;(C) to provide funds for programs of Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior) and that agree to attempt to comply with the requirements specified in paragraphs (12)(A), (13), and (14), applicable to the detention and confinement of juveniles, an amount that bears the same ratio to the aggregate amount to be expended through programs referred to in subparagraphs (A) and (B) as the population under 18 years of age in the geographical areas in which such tribes perform such functions bears to the State population under 18 years of age,<sup>2</sup>
+&emsp;&emsp;(C) to provide funds for programs of Indian tribes that perform law enforcement functions (as determined by the Secretary of the Interior) and that agree to attempt to comply with the requirements specified in paragraphs (11), (12), and (13), applicable to the detention and confinement of juveniles, an amount that bears the same ratio to the aggregate amount to be expended through programs referred to in subparagraphs (A) and (B) as the population under 18 years of age in the geographical areas in which such tribes perform such functions bears to the State population under 18 years of age,<sup>2</sup>
 
-&emsp;(6) provide that the chief executive officer of the unit of local government shall assign responsibility for the preparation and administration of the local government's part of a State plan, or for the supervision of the preparation and administration of the local government's part of the State plan, to that agency within the local government's structure or to a regional planning agency (hereinafter in this part referred to as the “local agency”) which can most effectively carry out the purposes of this part and shall provide for supervision of the programs funded under this part by that local agency;
+&emsp;(6) provide for an equitable distribution of the assistance received under section 5632 of this title within the State, including in rural areas;
 
-&emsp;(7) provide for an equitable distribution of the assistance received under section 5632 of this title within the State;
-
-&emsp;(8)(A) provide for (i) an analysis of juvenile crime problems (including the joining of gangs that commit crimes) and juvenile justice and delinquency prevention needs (including educational needs) within the relevant jurisdiction (including any geographical area in which an Indian tribe performs law enforcement functions), a description of the services to be provided, and a description of performance goals and priorities, including a specific statement of the manner in which programs are expected to meet the identified juvenile crime problems (including the joining of gangs that commit crimes) and juvenile justice and delinquency prevention needs (including educational needs) of the jurisdiction; (ii) an indication of the manner in which the programs relate to other similar State or local programs which are intended to address the same or similar problems; and (iii) a plan for the concentration of State efforts which shall coordinate all State juvenile delinquency programs with respect to overall policy and development of objectives and priorities for all State juvenile delinquency programs and activities, including provision for regular meetings of State officials with responsibility in the area of juvenile justice and delinquency prevention;
+&emsp;(7)(A) provide for an analysis of juvenile delinquency problems in, and the juvenile delinquency control and delinquency prevention needs (including educational needs) of, the State (including any geographical area in which an Indian tribe performs law enforcement functions), a description of the services to be provided, and a description of performance goals and priorities, including a specific statement of the manner in which programs are expected to meet the identified juvenile crime problems (including the joining of gangs that commit crimes) and juvenile justice and delinquency prevention needs (including educational needs) of the State; and
 
 &emsp;(B) contain—
 
-&emsp;&emsp;(i) an analysis of gender-specific services for the prevention and treatment of juvenile delinquency, including the types of such services available and the need for such services for females; and
-
-&emsp;&emsp;(ii) a plan for providing needed gender-specific services for the prevention and treatment of juvenile delinquency;
-
-&emsp;(C) contain—
-
-&emsp;&emsp;(i) an analysis of services for the prevention and treatment of juvenile delinquency in rural areas, including the need for such services, the types of such services available in rural areas, and geographically unique barriers to providing such services; and
+&emsp;&emsp;(i) a plan for providing needed gender-specific services for the prevention and treatment of juvenile delinquency;
 
 &emsp;&emsp;(ii) a plan for providing needed services for the prevention and treatment of juvenile delinquency in rural areas; and
 
-&emsp;(D) contain—
+&emsp;&emsp;(iii) a plan for providing needed mental health services to juveniles in the juvenile justice system, including information on how such plan is being implemented and how such services will be targeted to those juveniles in such system who are in greatest need of such services;
 
-&emsp;&emsp;(i) an analysis of mental health services available to juveniles in the juvenile justice system (including an assessment of the appropriateness of the particular placements of juveniles in order to receive such services) and of barriers to access to such services; and
+&emsp;(8) provide for the coordination and maximum utilization of existing juvenile delinquency programs, programs operated by public and private agencies and organizations, and other related programs (such as education, special education, recreation, health, and welfare programs) in the State;
 
-&emsp;&emsp;(ii) a plan for providing needed mental health services to juveniles in the juvenile justice system;
+&emsp;(9) provide that not less than 75 percent of the funds available to the State under section 5632 of this title, other than funds made available to the State advisory group under section 5632(d) of this title, whether expended directly by the State, by the unit of local government, or by a combination thereof, or through grants and contracts with public or private nonprofit agencies, shall be used for—
 
-&emsp;(9) provide for the active consultation with and participation of private agencies in the development and execution of the State plan; and provide for coordination and maximum utilization of existing juvenile delinquency programs and other related programs, such as education, special education, recreation, health, and welfare within the State;
+&emsp;&emsp;(A) community-based alternatives (including home-based alternatives) to incarceration and institutionalization including—
 
-&emsp;(10) provide that not less than 75 percent of the funds available to the State under section 5632 of this title, other than funds made available to the State advisory group under section 5632(d) of this title, whether expended directly by the State, by the unit of local government, or by a combination thereof, or through grants and contracts with public or private nonprofit agencies, shall be used for—
+&emsp;&emsp;&emsp;(i) for youth who need temporary placement: crisis intervention, shelter, and after-care; and
 
-&emsp;&emsp;(A) community-based alternatives (including home-based alternatives) to incarceration and institutionalization, specifically—
-
-&emsp;&emsp;&emsp;(i) for youth who can remain at home with assistance: home probation and programs providing professional supervised group activities or individualized mentoring relationships with adults that involve the family and provide counseling and other supportive services;
-
-&emsp;&emsp;&emsp;(ii) for youth who need temporary placement: crisis intervention, shelter, and after-care; and
-
-&emsp;&emsp;&emsp;(iii) for youth who need residential placement: a continuum of foster care or group home alternatives that provide access to a comprehensive array of services;
+&emsp;&emsp;&emsp;(ii) for youth who need residential placement: a continuum of foster care or group home alternatives that provide access to a comprehensive array of services;
 
 &emsp;&emsp;(B) community-based programs and services to work with—
 
@@ -112,39 +98,35 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;(C) comprehensive juvenile justice and delinquency prevention programs that meet the needs of youth through the collaboration of the many local systems before which a youth may appear, including schools, courts, law enforcement agencies, child protection agencies, mental health agencies, welfare services, health care agencies, and private nonprofit agencies offering youth services;
 
-&emsp;&emsp;(D) projects designed to develop and implement programs stressing advocacy activities aimed at improving services for and protecting the rights of youth affected by the juvenile justice system;
+&emsp;&emsp;(D) programs that provide treatment to juvenile offenders who are victims of child abuse or neglect, and to their families, in order to reduce the likelihood that such juvenile offenders will commit subsequent violations of law;
 
-&emsp;&emsp;(E) educational programs or supportive services for delinquent or other juveniles, provided equitably regardless of sex, race, or family income, designed to—
+&emsp;&emsp;(E) educational programs or supportive services for delinquent or other juveniles—
 
-&emsp;&emsp;&emsp;(i) encourage juveniles to remain in elementary and secondary schools or in alternative learning situations, including—
+&emsp;&emsp;&emsp;(i) to encourage juveniles to remain in elementary and secondary schools or in alternative learning situations;
 
-&emsp;&emsp;&emsp;&emsp;(I) education in settings that promote experiential, individualized learning and exploration of academic and career options;
+&emsp;&emsp;&emsp;(ii) to provide services to assist juveniles in making the transition to the world of work and self-sufficiency; and
 
-&emsp;&emsp;&emsp;&emsp;(II) assistance in making the transition to the world of work and self-sufficiency;
-
-&emsp;&emsp;&emsp;&emsp;(III) alternatives to suspension and expulsion; and
-
-&emsp;&emsp;&emsp;&emsp;(IV) programs to counsel delinquent juveniles and other juveniles regarding the opportunities that education provides; and
-
-&emsp;&emsp;&emsp;(ii) enhance coordination with the local schools that such juveniles would otherwise attend, to ensure that—
+&emsp;&emsp;&emsp;(iii) enhance <sup>3</sup> coordination with the local schools that such juveniles would otherwise attend, to ensure that—
 
 &emsp;&emsp;&emsp;&emsp;(I) the instruction that juveniles receive outside school is closely aligned with the instruction provided in school; and
 
 &emsp;&emsp;&emsp;&emsp;(II) information regarding any learning problems identified in such alternative learning situations are communicated to the schools;
 
-&emsp;&emsp;(F) expanded use of home probation and recruitment and training of home probation officers, other professional and paraprofessional personnel, and volunteers to work effectively to allow youth to remain at home with their families as an alternative to incarceration or institutionalization;
+&emsp;&emsp;(F) expanding the use of probation officers—
 
-&emsp;&emsp;(G) youth-initiated outreach programs designed to assist youth (including youth with limited proficiency in English) who otherwise would not be reached by traditional youth assistance programs;
+&emsp;&emsp;&emsp;(i) particularly for the purpose of permitting nonviolent juvenile offenders (including status offenders) to remain at home with their families as an alternative to incarceration or institutionalization; and
 
-&emsp;&emsp;(H) programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities, including on-the-job training programs to assist community services, law enforcement, and juvenile justice personnel to more effectively recognize and provide for learning disabled and other handicapped youth;
+&emsp;&emsp;&emsp;(ii) to ensure that juveniles follow the terms of their probation;
+
+&emsp;&emsp;(G) counseling, training, and mentoring programs, which may be in support of academic tutoring, vocational and technical training, and drug and violence prevention counseling, that are designed to link at-risk juveniles, juvenile offenders, or juveniles who have a parent or legal guardian who is or was incarcerated in a Federal, State, or local correctional facility or who is otherwise under the jurisdiction of a Federal, State, or local criminal justice system, particularly juveniles residing in low-income and high-crime areas and juveniles experiencing educational failure, with responsible individuals (such as law enforcement officials, Department of Defense personnel, individuals working with local businesses, and individuals working with community-based and faith-based organizations and agencies) who are properly screened and trained;
+
+&emsp;&emsp;(H) programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities, including on-the-job training programs to assist community services, law enforcement, and juvenile justice personnel to more effectively recognize and provide for learning disabled and other juveniles with disabilities;
 
 &emsp;&emsp;(I) projects designed both to deter involvement in illegal activities and to promote involvement in lawful activities on the part of gangs whose membership is substantially composed of youth;
 
 &emsp;&emsp;(J) programs and projects designed to provide for the treatment of youths’ dependence on or abuse of alcohol or other addictive or nonaddictive drugs;
 
-&emsp;&emsp;(K) law-related education programs (and projects) for delinquent and at-risk youth designed to prevent juvenile delinquency;
-
-&emsp;&emsp;(L) programs for positive youth development that assist delinquent and other at-risk youth in obtaining—
+&emsp;&emsp;(K) programs for positive youth development that assist delinquent and other at-risk youth in obtaining—
 
 &emsp;&emsp;&emsp;(i) a sense of safety and structure;
 
@@ -152,107 +134,387 @@ In order to receive formula grants under this part, a State shall submit a plan 
 
 &emsp;&emsp;&emsp;(iii) a sense of self-worth and social contribution;
 
-&emsp;&emsp;&emsp;(iv) a sense of independence and control over one's life;
+&emsp;&emsp;&emsp;(iv) a sense of independence and control over one's life; and
 
-&emsp;&emsp;&emsp;(v) a sense of closeness in interpersonal relationships; and
+&emsp;&emsp;&emsp;(v) a sense of closeness in interpersonal relationships;
 
-&emsp;&emsp;&emsp;(vi) a sense of competence and mastery including health and physical competence, personal and social competence, cognitive and creative competence, vocational competence, and citizenship competence, including ethics and participation;
+&emsp;&emsp;(L) programs that, in recognition of varying degrees of the seriousness of delinquent behavior and the corresponding gradations in the responses of the juvenile justice system in response to that behavior, are designed to—
 
-&emsp;&emsp;(M) programs that, in recognition of varying degrees of the seriousness of delinquent behavior and the corresponding gradations in the responses of the juvenile justice system in response to that behavior, are designed to—
+&emsp;&emsp;&emsp;(i) encourage courts to develop and implement a continuum of post-adjudication restraints that bridge the gap between traditional probation and confinement in a correctional setting (including expanded use of probation, mediation, restitution, community service, treatment, home detention, intensive supervision, electronic monitoring, and similar programs, and secure community-based treatment facilities linked to other support services such as health, mental health, education (remedial and special), job training, and recreation); and
 
-&emsp;&emsp;&emsp;(i) encourage courts to develop and implement a continuum of post-adjudication restraints that bridge the gap between traditional probation and confinement in a correctional setting (including expanded use of probation, mediation, restitution, community service, treatment, home detention, intensive supervision, electronic monitoring, boot camps and similar programs, and secure community-based treatment facilities linked to other support services such as health, mental health, education (remedial and special), job training, and recreation); and
+&emsp;&emsp;&emsp;(ii) assist in the provision by the provision <sup>4</sup> by the Administrator of information and technical assistance, including technology transfer, to States in the design and utilization of risk assessment mechanisms to aid juvenile justice personnel in determining appropriate sanctions for delinquent behavior;
 
-&emsp;&emsp;&emsp;(ii) assist in the provision by the provision <sup>3</sup> by the Administrator of information and technical assistance, including technology transfer, to States in the design and utilization of risk assessment mechanisms to aid juvenile justice personnel in determining appropriate sanctions for delinquent behavior;
+&emsp;&emsp;(M) community-based programs and services to work with juveniles, their parents, and other family members during and after incarceration in order to strengthen families so that such juveniles may be retained in their homes;
 
-&emsp;&emsp;(N) programs designed to prevent and reduce hate crimes committed by juveniles, including educational programs and sentencing programs designed specifically for juveniles who commit hate crimes and that provide alternatives to incarceration; and
+&emsp;&emsp;(N) programs (including referral to literacy programs and social service programs) to assist families with limited English-speaking ability that include delinquent juveniles to overcome language and other barriers that may prevent the complete treatment of such juveniles and the preservation of their families;
 
-&emsp;&emsp;(O) programs (including referral to literacy programs and social service programs) to assist families with limited English-speaking ability that include delinquent juveniles to overcome language and cultural barriers that may prevent the complete treatment of such juveniles and the preservation of their families.
+&emsp;&emsp;(O) programs designed to prevent and to reduce hate crimes committed by juveniles;
 
-&emsp;(11) provide for the development of an adequate research, training, and evaluation capacity within the State;
+&emsp;&emsp;(P) after-school programs that provide at-risk juveniles and juveniles in the juvenile justice system with a range of age-appropriate activities, including tutoring, mentoring, and other educational and enrichment activities;
 
-&emsp;(12)(A) provide within three years after submission of the initial plan that juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult or offenses (other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or a similar State law), or alien juveniles in custody, or such nonoffenders as dependent or neglected children, shall not be placed in secure detention facilities or secure correctional facilities; and
+&emsp;&emsp;(Q) community-based programs that provide follow-up post-placement services to adjudicated juveniles, to promote successful reintegration into the community;
 
-&emsp;(B) provide that the State shall submit annual reports to the Administrator containing a review of the progress made by the State to achieve the deinstitutionalization of juveniles described in subparagraph (A) and a review of the progress made by the State to provide that such juveniles, if placed in facilities, are placed in facilities which (i) are the least restrictive alternatives appropriate to the needs of the child and the community; (ii) are in reasonable proximity to the family and the home communities of such juveniles; and (iii) provide the services described in section 5603(1) of this title;
+&emsp;&emsp;(R) projects designed to develop and implement programs to protect the rights of juveniles affected by the juvenile justice system; and
 
-&emsp;(13) provide that juveniles alleged to be or found to be delinquent and youths within the purview of paragraph (12) shall not be detained or confined in any institution in which they have contact with adult persons incarcerated because they have been convicted of a crime or are awaiting trial on criminal charges or with the part-time or full-time security staff (including management) or direct-care staff of a jail or lockup for adults;
+&emsp;&emsp;(S) programs designed to provide mental health services for incarcerated juveniles suspected to be in need of such services, including assessment, development of individualized treatment plans, and discharge plans.
 
-&emsp;(14) provide that no juvenile shall be detained or confined in any jail or lockup for adults, except that the Administrator shall, through 1997, promulgate regulations which make exceptions with regard to the detention of juveniles accused of nonstatus offenses whoare awaiting an initial court appearance pursuant to an enforceable State law requiring such appearances within twenty-four hours (except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002) after being taken into custody (excluding weekends and holidays) provided that such exceptions are limited to areas that are in compliance with paragraph (13) and—
+&emsp;(10) provide for the development of an adequate research, training, and evaluation capacity within the State;
 
-&emsp;&emsp;(A)(i) are outside a Standard Metropolitan Statistical Area; and
+&emsp;(11) shall, in accordance with rules issued by the Administrator, provide that—
 
-&emsp;&emsp;(ii) have no existing acceptable alternative placement available;
+&emsp;&emsp;(A) juveniles who are charged with or who have committed an offense that would not be criminal if committed by an adult, excluding—
 
-&emsp;&emsp;(B) are located where conditions of distance to be traveled or the lack of highway, road, or other ground transportation do not allow for court appearances within 24 hours, so that a brief (not to exceed 48 hours) delay is excusable; or
+&emsp;&emsp;&emsp;(i) juveniles who are charged with or who have committed a violation of section 922(x)(2) of title 18 or of a similar State law;
 
-&emsp;&emsp;(C) are located where conditions of safety exist (such as severely adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonably safe travel;
+&emsp;&emsp;&emsp;(ii) juveniles who are charged with or who have committed a violation of a valid court order; and
 
-&emsp;(15) provide for an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraph (12)(A), paragraph (13), and paragraph (14) are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraph (12)(A) and paragraph (13), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
+&emsp;&emsp;&emsp;(iii) juveniles who are held in accordance with the Interstate Compact on Juveniles as enacted by the State;
 
-&emsp;(16) provide assurance that youth in the juvenile justice system are treated equitably on the basis of gender, race, family income, and mentally, emotionally, or physically handicapping conditions;
+> &emsp;&emsp;shall not be placed in secure detention facilities or secure correctional facilities; and
 
-&emsp;(17) provide assurance that consideration will be given to and that assistance will be available for approaches designed to strengthen the families of delinquent and other youth to prevent juvenile delinquency (which approaches should include the involvement of grandparents or other extended family members when possible and appropriate and the provision of family counseling during the incarceration of juvenile family members and coordination of family services when appropriate and feasible);
+&emsp;&emsp;(B) juveniles—
 
-&emsp;(18) provide for procedures to be established for protecting the rights of recipients of services and for assuring appropriate privacy with regard to records relating to such services provided to any individual under the State plan;
+&emsp;&emsp;&emsp;(i) who are not charged with any offense; and
 
-&emsp;(19) provide that fair and equitable arrangements shall be made to protect the interests of employees affected by assistance under this chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such protective arrangements shall, to the maximum extent feasible, include, without being limited to, such provisions as may be necessary for—
+&emsp;&emsp;&emsp;(ii) who are—
 
-&emsp;&emsp;(A) the preservation of rights, privileges, and benefits (including continuation of pension rights and benefits) under existing collective-bargaining agreements or otherwise;
+&emsp;&emsp;&emsp;&emsp;(I) aliens; or
 
-&emsp;&emsp;(B) the continuation of collective-bargaining rights;
+&emsp;&emsp;&emsp;&emsp;(II) alleged to be dependent, neglected, or abused;
 
-&emsp;&emsp;(C) the protection of individual employees against a worsening of their positions with respect to their employment;
+> &emsp;&emsp;shall not be placed in secure detention facilities or secure correctional facilities;
 
-&emsp;&emsp;(D) assurances of employment to employees of any State or political subdivision thereof who will be affected by any program funded in whole or in part under provisions of this chapter; and
+&emsp;(12) provide that—
 
-&emsp;&emsp;(E) training or retraining programs;
+&emsp;&emsp;(A) juveniles alleged to be or found to be delinquent or juveniles within the purview of paragraph (11) will not be detained or confined in any institution in which they have contact with adult inmates; and
 
-&emsp;(20) provide for such fiscal control and fund accounting procedures necessary to assure prudent use, proper disbursement, and accurate accounting of funds received under this subchapter;
+&emsp;&emsp;(B) there is in effect in the State a policy that requires individuals who work with both such juveniles and such adult inmates, including in collocated facilities, have been trained and certified to work with juveniles;
 
-&emsp;(21) provide reasonable assurance that Federal funds made available under this part for any period will be so used as to supplement and increase (but not supplant) the level of the State, local, and other non-Federal funds that would in the absence of such Federal funds be made available for the programs described in this part, and will in no event replace such State, local, and other non-Federal funds;
+&emsp;(13) provide that no juvenile will be detained or confined in any jail or lockup for adults except—
 
-&emsp;(22) provide that the State agency designated under paragraph (1) will from time to time, but not less often than annually, review its plan and submit to the Administrator an analysis and evaluation of the effectiveness of the programs and activities carried out under the plan, and any modifications in the plan, including the survey of State and local needs, which it considers necessary;
+&emsp;&emsp;(A) juveniles who are accused of nonstatus offenses and who are detained in such jail or lockup for a period not to exceed 6 hours—
 
-&emsp;(23) address efforts to reduce the proportion of juveniles detained or confined in secure detention facilities, secure correctional facilities, jails, and lockups who are members of minority groups if such proportion exceeds the proportion such groups represent in the general population;
+&emsp;&emsp;&emsp;(i) for processing or release;
 
-&emsp;(24) contain such other terms and conditions as the Administrator may reasonably prescribe to assure the effectiveness of the programs assisted under this subchapter; and
+&emsp;&emsp;&emsp;(ii) while awaiting transfer to a juvenile facility; or
 
-&emsp;(25) provide an assurance that if the State receives under section 5632 of this title for any fiscal year an amount that exceeds 105 percent of the amount the State received under such section for fiscal year 1992, all of such excess shall be expended through or for programs that are part of a comprehensive and coordinated community system of services.
+&emsp;&emsp;&emsp;(iii) in which period such juveniles make a court appearance;
+
+> &emsp;&emsp;and only if such juveniles do not have contact with adult inmates and only if there is in effect in the State a policy that requires individuals who work with both such juveniles and adult inmates in collocated facilities have been trained and certified to work with juveniles;
+
+&emsp;&emsp;(B) juveniles who are accused of nonstatus offenses, who are awaiting an initial court appearance that will occur within 48 hours after being taken into custody (excluding Saturdays, Sundays, and legal holidays), and who are detained in a jail or lockup—
+
+&emsp;&emsp;&emsp;(i) in which—
+
+&emsp;&emsp;&emsp;&emsp;(I) such juveniles do not have contact with adult inmates; and
+
+&emsp;&emsp;&emsp;&emsp;(II) there is in effect in the State a policy that requires individuals who work with both such juveniles and adults inmates in collocated facilities have been trained and certified to work with juveniles; and
+
+&emsp;&emsp;&emsp;(ii) that—
+
+&emsp;&emsp;&emsp;&emsp;(I) is located outside a metropolitan statistical area (as defined by the Office of Management and Budget) and has no existing acceptable alternative placement available;
+
+&emsp;&emsp;&emsp;&emsp;(II) is located where conditions of distance to be traveled or the lack of highway, road, or transportation do not allow for court appearances within 48 hours (excluding Saturdays, Sundays, and legal holidays) so that a brief (not to exceed an additional 48 hours) delay is excusable; or
+
+&emsp;&emsp;&emsp;&emsp;(III) is located where conditions of safety exist (such as severe adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearancemay be delayed until 24 hours after the time that such conditions allow for reasonable safe travel;
+
+&emsp;(14) provide for an adequate system of monitoring jails, detention facilities, correctional facilities, and non-secure facilities to insure that the requirements of paragraphs (11), (12), and (13) are met, and for annual reporting of the results of such monitoring to the Administrator, except that such reporting requirements shall not apply in the case of a State which is in compliance with the other requirements of this paragraph, which is in compliance with the requirements in paragraphs (11) and (12), and which has enacted legislation which conforms to such requirements and which contains, in the opinion of the Administrator, sufficient enforcement mechanisms to ensure that such legislation will be administered effectively;
+
+&emsp;(15) provide assurance that youth in the juvenile justice system are treated equitably on the basis of gender, race, family income, and disability;
+
+&emsp;(16) provide assurance that consideration will be given to and that assistance will be available for approaches designed to strengthen the families of delinquent and other youth to prevent juvenile delinquency (which approaches should include the involvement of grandparents or other extended family members when possible and appropriate and the provision of family counseling during the incarceration of juvenile family members and coordination of family services when appropriate and feasible);
+
+&emsp;(17) provide for procedures to be established for protecting the rights of recipients of services and for assuring appropriate privacy with regard to records relating to such services provided to any individual under the State plan;
+
+&emsp;(18) provide assurances that—
+
+&emsp;&emsp;(A) any assistance provided under this chapter will not cause the displacement (including a partial displacement, such as a reduction in the hours of nonovertime work, wages, or employment benefits) of any currently employed employee;
+
+&emsp;&emsp;(B) activities assisted under this chapter will not impair an existing collective bargaining relationship, contract for services, or collective bargaining agreement; and
+
+&emsp;&emsp;(C) no such activity that would be inconsistent with the terms of a collective bargaining agreement shall be undertaken without the written concurrence of the labor organization involved;
+
+&emsp;(19) provide for such fiscal control and fund accounting procedures necessary to assure prudent use, proper disbursement, and accurate accounting of funds received under this subchapter;
+
+&emsp;(20) provide reasonable assurance that Federal funds made available under this part for any period will be so used as to supplement and increase (but not supplant) the level of the State, local, and other non-Federal funds that would in the absence of such Federal funds be made available for the programs described in this part, and will in no event replace such State, local, and other non-Federal funds;
+
+&emsp;(21) provide that the State agency designated under paragraph (1) will—
+
+&emsp;&emsp;(A) to the extent practicable give priority in funding to programs and activities that are based on rigorous, systematic, and objective research that is scientifically based;
+
+&emsp;&emsp;(B) from time to time, but not less than annually, review its plan and submit to the Administrator an analysis and evaluation of the effectiveness of the programs and activities carried out under the plan, and any modifications in the plan, including the survey of State and local needs, that it considers necessary; and
+
+&emsp;&emsp;(C) not expend funds to carry out a program if the recipient of funds who carried out such program during the preceding 2-year period fails to demonstrate, before the expiration of such 2-year period, that such program achieved substantial success in achieving the goals specified in the application submitted by such recipient to the State agency;
+
+&emsp;(22) address juvenile delinquency prevention efforts and system improvement efforts designed to reduce, without establishing or requiring numerical standards or quotas, the disproportionate number of juvenile members of minority groups, who come into contact with the juvenile justice system;
+
+&emsp;(23) provide that if a juvenile is taken into custody for violating a valid court order issued for committing a status offense—
+
+&emsp;&emsp;(A) an appropriate public agency shall be promptly notified that such juvenile is held in custody for violating such order;
+
+&emsp;&emsp;(B) not later than 24 hours during which such juvenile is so held, an authorized representative of such agency shall interview, in person, such juvenile; and
+
+&emsp;&emsp;(C) not later than 48 hours during which such juvenile is so held—
+
+&emsp;&emsp;&emsp;(i) such representative shall submit an assessment to the court that issued such order, regarding the immediate needs of such juvenile; and
+
+&emsp;&emsp;&emsp;(ii) such court shall conduct a hearing to determine—
+
+&emsp;&emsp;&emsp;&emsp;(I) whether there is reasonable cause to believe that such juvenile violated such order; and
+
+&emsp;&emsp;&emsp;&emsp;(II) the appropriate placement of such juvenile pending disposition of the violation alleged;
+
+&emsp;(24) provide an assurance that if the State receives under section 5632 of this title for any fiscal year an amount that exceeds 105 percent of the amount the State received under such section for fiscal year 2000, all of such excess shall be expended through or for programs that are part of a comprehensive and coordinated community system of services;
+
+&emsp;(25) specify a percentage (if any), not to exceed 5 percent, of funds received by the State under section 5632 of this title (other than funds made available to the State advisory group under section 5632(d) of this title) that the State will reserve for expenditure by the State to provide incentive grants to units of general local government that reduce thecaseload of probation officers within such units;
+
+&emsp;(26) provide that the State, to the maximum extent practicable, will implement a system to ensure that if a juvenile is before a court in the juvenile justice system, public child welfare records (including child protective services records) relating to such juvenile that are on file in the geographical area under the jurisdiction of such court will be made known to such court;
+
+&emsp;(27) establish policies and systems to incorporate relevant child protective services records into juvenile justice records for purposes of establishing and implementing treatment plans for juvenile offenders; and
+
+&emsp;(28) provide assurances that juvenile offenders whose placement is funded through section 672 of this title receive the protections specified in section 671 of this title, including a case plan and case plan review as defined in section 675 of this title.
 
 #### (b) Approval by State agency
 
 The State agency designated under subsection (a)(1) of this section, after receiving and considering the advice and recommendations of the advisory group referred to in subsection (a) of this section, shall approve the State plan and any modification thereof prior to submission to the Administrator.
 
-#### (c) Approval by Administrator; compliance with statutory requirements
+#### (c) Compliance with statutory requirements
 
-(1) Subject to paragraph (2), the Administrator shall approve any State plan and any modification thereof that meets the requirements of this section.
+If a State fails to comply with any of the applicable requirements of paragraphs (11), (12), (13), and (22) of subsection (a) of this section in any fiscal year beginning after September 30, 2001, then—
 
-(2) Failure to achieve compliance with the subsection (a)(12)(A) requirement within the 3-year time limitation shall terminate any State's eligibility for funding under this part for a fiscal year beginning before January 1, 1993, unless the Administrator determines that the State is in substantial compliance with the requirement, through achievement of deinstitutionalization of not less than 75 percent of such juveniles or through removal of 100 percent of such juveniles from secure correctional facilities, and has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance within a reasonable time not exceeding 2 additional years.
+&emsp;(1) subject to paragraph (2), the amount allocated to such State under section 5632 of this title for the subsequent fiscal year shall be reduced by not less than 20 percent for each such paragraph with respect to which the failure occurs, and
 
-(3) If a State fails to comply with the requirements of subsection (a),<sup>4</sup> (12)(A), (13), (14), or (23) of this section in any fiscal year beginning after January 1, 1993—
+&emsp;(2) the State shall be ineligible to receive any allocation under such section for such fiscal year unless—
 
-&emsp;(A) subject to subparagraph (B), the amount allotted under section 5632 of this title to the State for that fiscal year shall be reduced by 25 percent for each such paragraph with respect to which noncompliance occurs; and
+&emsp;&emsp;(A) the State agrees to expend 50 percent of the amount allocated to the State for such fiscal year to achieve compliance with any such paragraph with respect to which the State is in noncompliance; or
 
-&emsp;(B) the State shall be ineligible to receive any allotment under that section for such fiscal year unless—
+&emsp;&emsp;(B) the Administrator determines that the State—
 
-&emsp;&emsp;(i) the State agrees to expend all the remaining funds the State receives under this part (excluding funds required to be expended to comply with section 5632(c) and (d) of this title and with subsection (a)(5)(C) of this section) for that fiscal year only to achieve compliance with any such paragraph with respect to which the State is in noncompliance; or
+&emsp;&emsp;&emsp;(i) has achieved substantial compliance with such applicable requirements with respect to which the State was not in compliance; and
 
-&emsp;&emsp;(ii) the Administrator determines, in the discretion of the Administrator, that the State—
-
-&emsp;&emsp;&emsp;(I) has achieved substantial compliance with each such paragraph with respect to which the State was not in compliance; and
-
-&emsp;&emsp;&emsp;(II) has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance within a reasonable time.
+&emsp;&emsp;&emsp;(ii) has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance with such applicable requirements within a reasonable time.
 
 #### (d) Nonsubmission or nonqualification of plan; expenditure of allotted funds; availability of reallocated funds
 
-In the event that any State chooses not to submit a plan, fails to submit a plan, or submits a plan or any modification thereof, which the Administrator, after reasonable notice and opportunity for hearing, in accordance with sections 3783, 3784, and 3785 of this title, determines does not meet the requirements of this section, the Administrator shall endeavor to make that State's allotment under the provisions of section 5632(a) of this title, excluding funds the Administrator shall make available to satisfy the requirement specified in section 5632(d) of this title, available to local public and private nonprofit agencies within such State for use in carrying out activities of the kinds described in subsection (a)(12)(A), (13), (14) and (23) of this section. The Administrator shall make funds which remain available after disbursements are made by the Administrator under the preceding sentence, and any other unobligated funds, available on an equitable basis and to those States that have achieved full compliance with the requirements under subsection (a)(12)(A), (13), (14) and (23) of this section.
+In the event that any State chooses not to submit a plan, fails to submit a plan, or submits a plan or any modification thereof, which the Administrator, after reasonable notice and opportunity for hearing, in accordance with sections 3783, 3784, and 3785 of this title, determines does not meet the requirements of this section, the Administrator shall endeavor to make that State's allocation under the provisions of section 5632(a) of this title, excluding funds the Administrator shall make available to satisfy the requirement specified in section 5632(d) of this title, available to local public and private nonprofit agencies within such State for use in carrying out activities of the kinds described in paragraphs (11), (12), (13), and (22) of subsection (a) of this section. The Administrator shall make funds which remain available after disbursements are made by the Administrator under the preceding sentence, and any other unobligated funds, available on an equitable basis and to those States that have achieved full compliance with the requirements under paragraphs (11), (12), (13), and (22) of subsection (a) of this section.
 
-(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, 91 Stat. 1048, 1051–1054; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII, §§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §142\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235.)
+#### (e) Administrative and supervisory board membership requirements
+
+Notwithstanding any other provision of law, the Administrator shall establish appropriate administrative and supervisory board membership requirements for a State agency designated under subsection (a)(1) of this section and permit the State advisory group appointed under subsection (a)(3) of this section to operate as the supervisory board for such agency, at the discretion of the chief executive officer of the State.
+
+#### (f) Technical assistance
+
+#### (1) In general
+
+&emsp;The Administrator shall provide technical and financial assistance to an eligible organization composed of member representatives of the State advisory groups appointed under subsection (a)(3) of this section to assist such organization to carry out the functions specified in paragraph (2).
+
+#### (2) Assistance
+
+&emsp;To be eligible to receive such assistance, such organization shall agree to carry out activities that include—
+
+&emsp;&emsp;(A) conducting an annual conference of such member representatives for purposes relating to the activities of such State advisory groups;
+
+&emsp;&emsp;(B) disseminating information, data, standards, advanced techniques, and program models;
+
+&emsp;&emsp;(C) reviewing Federal policies regarding juvenile justice and delinquency prevention;
+
+&emsp;&emsp;(D) advising the Administrator with respect to particular functions or aspects of the work of the Office; and
+
+&emsp;&emsp;(E) advising the President and Congress with regard to State perspectives on the operation of the Office and Federal legislation pertaining to juvenile justice and delinquency prevention.
+
+(Pub. L. 93–415, title II, §223, Sept. 7, 1974, 88 Stat. 1119; Pub. L. 94–503, title I, §130(b), Oct. 15, 1976, 90 Stat. 2425; Pub. L. 95–115, §§3(a)(3)(B), 4(c)(1)–(15), Oct. 3, 1977, 91 Stat. 1048, 1051–1054; Pub. L. 96–509, §§11, 19(g), Dec. 8, 1980, 94 Stat. 2755, 2764; Pub. L. 98–473, title II, §626, Oct. 12, 1984, 98 Stat. 2111; Pub. L. 100–690, title VII,§§7258, 7263(b)(1), Nov. 18, 1988, 102 Stat. 4439, 4447; Pub. L. 102–586, §2(f)(3)(A), Nov. 4, 1992, 106 Stat. 4987; Pub. L. 103–322, title XI, §110201(d), Sept. 13, 1994, 108 Stat. 2012; Pub. L. 104–294, title VI, §604(b)(28), Oct. 11, 1996, 110 Stat. 3508; Pub. L. 105–277, div. A, §101(b) \[title I, §129(a)(2)(C)\], Oct. 21, 1998, 112 Stat. 2681–50, 2681–76; Pub. L. 106–554, §1(a)(4) \[div. B, title I, §142\], Dec. 21, 2000, 114 Stat. 2763, 2763A–235; Pub. L. 107–273, div. C, title II, §12209, Nov. 2, 2002, 116 Stat. 1873.)
 
 #### References in Text
 
-This chapter, referred to in subsec. (a)(19), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which enacted this chapter, sections 3772 to 3774 and 3821 of this title, and sections 4351 to 4353 and 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amended sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, and 3883 to 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealed section 3889 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
+This chapter, referred to in subsec. (a)(18), was in the original “this Act”, meaning Pub. L. 93–415, Sept. 7, 1974, 88 Stat. 1109, as amended, which enacted this chapter, sections 3772 to 3774 and 3821 of this title, and sections 4351 to 4353 and 5038 to 5042 of Title 18, Crimes and Criminal Procedure, amended sections 3701, 3723, 3733, 3768, 3811 to 3814, 3882, and 3883 to 3888 of this title, section 5108 of Title 5, Government Organization and Employees, and sections 5031 to 5037 of Title 18, and repealed section 3889 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 5601 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–273, §12209(1)(A), substituted “, projects, and activities” for “and challenge activities subsequent to State participation in part E of this subchapter” in second sentence of introductory provisions.
+
+Subsec. (a)(3). Pub. L. 107–273, §12209(1)(B)(i), substituted “that—” for “, which—” in introductory provisions.
+
+Subsec. (a)(3)(A)(i). Pub. L. 107–273, §12209(1)(B)(ii), substituted “, the administration of juvenile justice, or the reduction of juvenile delinquency” for “or the administration of juvenile justice”.
+
+Subsec. (a)(3)(D)(i). Pub. L. 107–273, §12209(1)(B)(iii)(I), inserted “and” at end.
+
+Subsec. (a)(3)(D)(ii). Pub. L. 107–273, §12209(1)(B)(iii)(II), substituted “paragraphs (11), (12), and (13)” for “paragraphs (12), (13), and (14) and with progress relating to challenge activities carried out pursuant to part E of this subchapter”.
+
+Subsec. (a)(5). Pub. L. 107–273, §12209(1)(C)(i), substituted “reduced by the percentage (if any) specified by the State under the authority of paragraph (25) and excluding” for “, other than” in introductory provisions.
+
+Subsec. (a)(5)(C). Pub. L. 107–273, §12209(1)(C)(ii), substituted “paragraphs (11), (12), and (13)” for “paragraphs (12)(A), (13), and (14)”.
+
+Subsec. (a)(6). Pub. L. 107–273, §12209(1)(D), (S), redesignated par. (7) as (6) and struck out former par. (6) which read as follows: “provide that the chief executive officer of the unit of local government shall assign responsibility for the preparation and administration of the local government's part of a State plan, or for the supervision of the preparation and administration of the local government's part of the State plan, to that agency within the local government's structure or to a regional planning agency (hereinafter in this part referred to as the ‘local agency’) which can most effectively carry out the purposes of this part and shall provide for supervision of the programs funded under this part by that local agency;”.
+
+Subsec. (a)(7). Pub. L. 107–273, §12209(1)(S), redesignated par. (8) as (7). Former par. (7) redesignated (6).
+
+Pub. L. 107–273, §12209(1)(E), inserted “, including in rural areas” before semicolon at end.
+
+Subsec. (a)(8). Pub. L. 107–273, §12209(1)(S), redesignated par. (9) as (8). Former par. (8) redesignated (7).
+
+Subsec. (a)(8)(A). Pub. L. 107–273, §12209(1)(F)(i), substituted “for an analysis of juvenile delinquency problems in, and the juvenile delinquency control and delinquency prevention needs (including educational needs) of, the State” for “for (i) an analysis of juvenile crime problems (including the joining of gangs that commit crimes) and juvenile justice and delinquency prevention needs (including educational needs) within the relevant jurisdiction” and “of the State; and” for “of the jurisdiction; (ii) an indication of the manner in which the programs relate to other similar State or local programs which are intended to address the same or similar problems; and (iii) a plan for the concentration of State efforts which shall coordinate all State juvenile delinquency programs with respect to overall policy and development of objectives and priorities for all State juvenile delinquency programs and activities, including provision for regular meetings of State officials with responsibility in the area of juvenile justice and delinquency prevention;”.
+
+Subsec. (a)(8)(B). Pub. L. 107–273, §12209(1)(F)(ii), amended subpar. (B) generally. Prior to amendment, subpar. (B) read as follows: “contain—
+
+&emsp;“(i) an analysis of gender-specific services for the prevention and treatment of juvenile delinquency, including the types of such services available and the need for such services for females; and
+
+&emsp;“(ii) a plan for providing needed gender-specific services for the prevention and treatment of juvenile delinquency;”.
+
+Subsec. (a)(8)(C), (D). Pub. L. 107–273, §12209(1)(F)(iii), struck out subpars. (C) and (D) which read as follows:
+
+“(C) contain—
+
+&emsp;“(i) an analysis of services for the prevention and treatment of juvenile delinquency in rural areas, including the need for such services, the types of such services available in rural areas, and geographically unique barriers to providing such services; and
+
+&emsp;“(ii) a plan for providing needed services for the prevention and treatment of juvenile delinquency in rural areas; and
+
+“(D) contain—
+
+&emsp;“(i) an analysis of mental health services available to juveniles in the juvenile justice system (including an assessment of the appropriateness of the particular placements of juveniles in order to receive such services) and of barriers to access to such services; and
+
+&emsp;“(ii) a plan for providing needed mental health services to juveniles in the juvenile justice system;”.
+
+Subsec. (a)(9). Pub. L. 107–273, §12209(1)(S), redesignated par. (10) as (9). Former par. (9) redesignated (8).
+
+Pub. L. 107–273, §12209(1)(G), amended par. (9) generally. Prior to amendment, par. (9) read as follows: “provide for the active consultation with and participation of private agencies in the development and execution of the State plan; and provide for coordination and maximum utilization of existing juvenile delinquency programs and other related programs, such as education, special education, recreation, health, and welfare within the State;”.
+
+Subsec. (a)(10). Pub. L. 107–273, §12209(1)(S), redesignated par. (11) as (10). Former par. (10) redesignated (9).
+
+Subsec. (a)(10)(A). Pub. L. 107–273, §12209(1)(H)(i), substituted “including” for “, specifically” in introductory provisons, redesignated cls. (ii) and (iii) as (i) and (ii), respectively, and struck out former cl. (i) which read as follows: “for youth who can remain at home with assistance: home probation and programs providing professional supervised group activities or individualized mentoring relationships with adults that involve the family and provide counseling and other supportive services;”.
+
+Subsec. (a)(10)(D). Pub. L. 107–273, §12209(1)(H)(ii), amended subpar. (D) generally. Prior to amendment, subpar. (D) read as follows: “projects designed to develop and implement programs stressing advocacy activities aimed at improving services for and protecting the rights of youth affected by the juvenile justice system;”.
+
+Subsec. (a)(10)(E). Pub. L. 107–273, §12209(1)(H)(iii), substituted “juveniles—” for “juveniles, provided equitably regardless of sex, race, or family income, designed to—” in introductory provisions, added cls. (i) and (ii), redesignated former cl. (ii) as (iii), and struckout former cl. (i) which read as follows: “encourage juveniles to remain in elementary and secondary schools or in alternative learning situations, including—
+
+&emsp;“(I) education in settings that promote experiential, individualized learning and exploration of academic and career options;
+
+&emsp;“(II) assistance in making the transition to the world of work and self-sufficiency;
+
+&emsp;“(III) alternatives to suspension and expulsion; and
+
+&emsp;“(IV) programs to counsel delinquent juveniles and other juveniles regarding the opportunities that education provides; and”.
+
+Subsec. (a)(10)(F). Pub. L. 107–273, §12209(1)(H)(iv), amended subpar. (F) generally. Prior to amendment, subpar. (F) read as follows: “expanded use of home probation and recruitment and training of home probation officers, other professional and paraprofessional personnel, and volunteers to work effectively to allow youth to remain at home with their families as an alternative to incarceration or institutionalization;”.
+
+Subsec. (a)(10)(G). Pub. L. 107–273, §12209(1)(H)(v), amended subpar. (G) generally. Prior to amendment, subpar. (G) read as follows: “youth-initiated outreach programs designed to assist youth (including youth with limited proficiency in English) who otherwise would not be reached by traditional youth assistance programs;”.
+
+Subsec. (a)(10)(H). Pub. L. 107–273, §12209(1)(H)(vii), substituted “juveniles with disabilities” for “handicapped youth”.
+
+Subsec. (a)(10)(K). Pub. L. 107–273, §12209(1)(H)(viii), (xiii), redesignated subpar. (L) as (K) and struck out former subpar. (K) which read as follows: “law-related education programs (and projects) for delinquent and at-risk youth designed to prevent juvenile delinquency;”.
+
+Subsec. (a)(10)(L). Pub. L. 107–273, §12209(1)(H)(xiii), redesignated subpar. (M) as (L). Former subpar. (L) redesignated (K).
+
+Subsec. (a)(10)(L)(vi). Pub. L. 107–273, §12209(1)(H)(ix), struck out cl. (vi) which read as follows: “a sense of competence and mastery including health and physical competence, personal and social competence, cognitive and creative competence, vocational competence, and citizenship competence, including ethics and participation;”.
+
+Subsec. (a)(10)(M). Pub. L. 107–273, §12209(1)(H)(xiii), redesignated subpar. (N) as (M). Former subpar. (M) redesignated (L).
+
+Subsec. (a)(10)(M)(i). Pub. L. 107–273, §12209(1)(H)(x), struck out “boot camps” after “electronic monitoring,”.
+
+Subsec. (a)(10)(N). Pub. L. 107–273, §12209(1)(H)(xiii), redesignated subpar. (O) as (N). Former subpar. (N) redesignated (M).
+
+Pub. L. 107–273, §12209(1)(H)(xi), amended subpar. (N) generally. Prior to amendment, subpar. (N) read as follows: “programs designed to prevent and reduce hate crimes committed by juveniles, including educational programs and sentencing programs designed specifically for juveniles who commit hate crimes and that provide alternatives to incarceration; and”.
+
+Subsec. (a)(10)(O). Pub. L. 107–273, §12209(1)(H)(xiv), added subpar. (O). Former subpar. (O) redesignated (N).
+
+Pub. L. 107–273, §12209(1)(H)(xii), substituted “other barriers” for “cultural barriers” and semicolon for period at end.
+
+Subsec. (a)(10)(P) to (S). Pub. L. 107–273, §12209(1)(H)(xiv), added subpars. (P) to (S).
+
+Subsec. (a)(11). Pub. L. 107–273, §12209(1)(S), redesignated par. (12) as (11). Former par. (11) redesignated (10).
+
+Subsec. (a)(12). Pub. L. 107–273, §12209(1)(S), redesignated par. (13) as (12). Former par. (12) redesignated (11).
+
+Pub. L. 107–273, §12209(1)(I), amended par. (12) generally. Prior to amendment, par. (12) read as follows:
+
+“(A) provide within three years after submission of the initial plan that juveniles who are charged with or who have committed offenses that would not be criminal if committed by an adult or offenses (other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or a similar State law), or alien juveniles in custody, or such nonoffenders as dependent or neglected children, shall not be placed in secure detention facilities or secure correctional facilities; and
+
+“(B) provide that the State shall submit annual reports to the Administrator containing a review of the progress made by the State to achieve the deinstitutionalization of juveniles described in subparagraph (A) and a review of the progress made by the State to provide that such juveniles, if placed in facilities, are placed in facilities which (i) are the least restrictive alternatives appropriate to the needs of the child and the community; (ii) are in reasonable proximity to the family and the home communities of such juveniles; and (iii) provide the services described in section 5603(1) of this title;”.
+
+Subsec. (a)(13). Pub. L. 107–273, §12209(1)(S), redesignated par. (14) as (13). Former par. (13) redesignated (12).
+
+Pub. L. 107–273, §12209(1)(J), amended par. (13) generally. Prior to amendment, par. (13) read as follows: “provide that juveniles alleged to be or found to be delinquent and youths within the purview of paragraph (12) shall not be detained or confined in any institution in which they have contact with adult persons incarcerated because they have been convicted of a crime or are awaiting trial on criminal charges or with the part-time or full-time security staff (including management) or direct-care staff of a jail or lockup for adults;”.
+
+Subsec. (a)(14). Pub. L. 107–273, §12209(1)(S), redesignated par. (15) as (14). Former par. (14) redesignated (13).
+
+Pub. L. 107–273, §12209(1)(K), amended par. (14) generally. Prior to amendment, par. (14) read as follows: “provide that no juvenile shall be detained or confined in any jail or lockup for adults, except that the Administrator shall, through 1997, promulgate regulations which make exceptions with regard to the detention of juveniles accused of nonstatus offenses who are awaiting an initial court appearance pursuant to an enforceable State law requiring such appearances within twenty-four hours (except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002) after being taken into custody (excluding weekends and holidays) provided that such exceptions are limited to areas that are in compliance with paragraph (13) and—
+
+&emsp;“(A)(i) are outside a Standard Metropolitan Statistical Area; and
+
+&emsp;“(ii) have no existing acceptable alternative placement available;
+
+&emsp;“(B) are located where conditions of distance to be traveled or the lack of highway, road, or other ground transportation do not allow for court appearances within 24 hours, so that a brief (not to exceed 48 hours) delay is excusable; or
+
+&emsp;“(C) are located where conditions of safety exist (such as severely adverse, life-threatening weather conditions that do not allow for reasonably safe travel), in which case the time for an appearance may be delayed until 24 hours after the time that such conditions allow for reasonably safe travel;”.
+
+Subsec. (a)(15). Pub. L. 107–273, §12209(1)(S), redesignated par. (16) as (15). Former par. (15) redesignated (14).
+
+Pub. L. 107–273, §12209(1)(L), substituted “paragraphs (11), (12), and (13)” for “paragraph (12)(A), paragraph (13), and paragraph (14)” and “paragraphs (11) and (12)” for “paragraph (12)(A) and paragraph (13)”.
+
+Subsec. (a)(16). Pub. L. 107–273, §12209(1)(S), redesignated par. (17) as (16). Former par. (16) redesignated (15).
+
+Pub. L. 107–273, §12209(1)(M), substituted “disability” for “mentally, emotionally, or physically handicapping conditions”.
+
+Subsec. (a)(17), (18). Pub. L. 107–273, §12209(1)(S), redesignated pars. (18) and (19) as (17) and (18), respectively. Former par. (17) redesignated (16).
+
+Subsec. (a)(19). Pub. L. 107–273, §12209(1)(S), redesignated par. (20) as (19). Former par. (19) redesignated (18).
+
+Pub. L. 107–273, §12209(1)(N), amended par. (19) generally. Prior to amendment, par. (19) read as follows: “provide that fair and equitable arrangements shall be made to protect the interests of employees affected by assistance under this chapter and shall provide for the terms and conditions of such protective arrangements established pursuant to this section, and such protective arrangements shall, to the maximum extent feasible, include, without being limited to, such provisions as may be necessary for—
+
+&emsp;“(A) the preservation of rights, privileges, and benefits (including continuation of pension rights and benefits) under existing collective-bargaining agreements or otherwise;
+
+&emsp;“(B) the continuation of collective-bargaining rights;
+
+&emsp;“(C) the protection of individual employees against a worsening of their positions with respect to their employment;
+
+&emsp;“(D) assurances of employment to employees of any State or political subdivision thereof who will be affected by any program funded in whole or in part under provisions of this chapter; and
+
+&emsp;“(E) training or retraining programs;”.
+
+Subsec. (a)(20), (21). Pub. L. 107–273, §12209(1)(S), redesignated pars. (21) and (22) as (20) and (21), respectively. Former par. (20) redesignated (19).
+
+Subsec. (a)(22). Pub. L. 107–273, §12209(1)(S), redesignated par. (23) as (22). Former par. (22) redesignated (21).
+
+Pub. L. 107–273, §12209(1)(O), amended par. (22) generally. Prior to amendment, par. (22) read as follows: “provide that the State agency designated under paragraph (1) will from time to time, but not less often than annually, review its plan and submit to the Administrator an analysis and evaluation of the effectiveness of the programs and activities carried out under the plan, and any modifications in the plan, including the survey of State and local needs, which it considers necessary;”.
+
+Subsec. (a)(23). Pub. L. 107–273, §12209(1)(S), redesignated par. (24) as (23). Former par. (23) redesignated (22).
+
+Pub. L. 107–273, §12209(1)(P), amended par. (23) generally. Prior to amendment, par. (23) read as follows: “address efforts to reduce the proportion of juveniles detained or confined in secure detention facilities, secure correctional facilities, jails, and lockups who are members of minority groups if such proportion exceeds the proportion such groups represent in the general population;”.
+
+Subsec. (a)(24). Pub. L. 107–273, §12209(1)(S), redesignated par. (25) as (24). Former par. (24) redesignated (23).
+
+Pub. L. 107–273, §12209(1)(Q), amended par. (24) generally. Prior to amendment, par. (24) read as follows: “contain such other terms and conditions as the Administrator may reasonably prescribe to assure the effectiveness of the programs assisted under this subchapter; and”.
+
+Subsec. (a)(25). Pub. L. 107–273, §12209(1)(T), added par. (25).
+
+Pub. L. 107–273, §12209(1)(S), redesignated par. (25) as (24).
+
+Pub. L. 107–273, §12209(1)(R), substituted “fiscal year 2000” for “fiscal year 1992” and a semicolon for period at end.
+
+Subsec. (a)(26) to (28). Pub. L. 107–273, §12209(1)(T), added pars. (26) to (28).
+
+Subsec. (c). Pub. L. 107–273, §12209(2), amended subsec. (c) generally. Prior to amendment, subsec. (c) read as follows:
+
+“(1) Subject to paragraph (2), the Administrator shall approve any State plan and any modification thereof that meets the requirements of this section.
+
+“(2) Failure to achieve compliance with the subsection (a)(12)(A) requirement within the 3-year time limitation shall terminate any State's eligibility for funding under this part for a fiscal year beginning before January 1, 1993, unless the Administrator determines that the State is in substantial compliance with the requirement, through achievement of deinstitutionalization of not less than 75 percent of such juveniles or through removal of 100 percent of such juveniles from secure correctional facilities, and has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance within a reasonable time not exceeding 2 additional years.
+
+“(3) If a State fails to comply with the requirements of subsection (a), (12)(A), (13), (14), or (23) of this section in any fiscal year beginning after January 1, 1993—
+
+&emsp;“(A) subject to subparagraph (B), the amount allotted under section 5632 of this title to the State for that fiscal year shall be reduced by 25 percent for each such paragraph with respect to which noncompliance occurs; and
+
+&emsp;“(B) the State shall be ineligible to receive any allotment under that section for such fiscal year unless—
+
+&emsp;&emsp;“(i) the State agrees to expend all the remaining funds the State receives under this part (excluding funds required to be expended to comply with section 5632(c) and (d) of this title and with subsection (a)(5)(C) of this section) for that fiscal year only to achieve compliance with any such paragraph with respect to which the State is in noncompliance; or
+
+&emsp;&emsp;“(ii) the Administrator determines, in the discretion of the Administrator, that the State—
+
+&emsp;&emsp;&emsp;“(I) has achieved substantial compliance with each such paragraph with respect to which the State was not in compliance; and
+
+&emsp;&emsp;&emsp;“(II) has made, through appropriate executive or legislative action, an unequivocal commitment to achieving full compliance within a reasonable time.”
+
+Subsec. (d). Pub. L. 107–273, §12209(3), substituted “allocation” for “allotment” and substituted “paragraphs (11), (12), (13), and (22) of subsection (a)” for “subsection (a)(12)(A), (13), (14) and (23)” in two places.
+
+Subsecs. (e), (f). Pub. L. 107–273, §12209(4), added subsecs. (e) and (f).
 
 2000—Subsec. (a)(14). Pub. L. 106–554 inserted “(except in the case of Alaska where such time limit may be forty-eight hours in fiscal years 2000 through 2002)” after “twenty-four hours” in introductory provisions.
 
@@ -268,9 +530,9 @@ Subsec. (a)(10). Pub. L. 105–277, §101(b) \[title I, §129(a)(2)(C)(iv)\], su
 
 1994—Subsec. (a)(12)(A). Pub. L. 103–322 substituted “(other than an offense that constitutes a violation of a valid court order or a violation of section 922(x) of title 18 or a similar State law).” for “which do not constitute violations of valid court orders”.
 
-1992—Subsec. (a). Pub. L. 102–586, §2(f)(3)(A)(i)(I), substituted “programs and challenge activities subsequent to State participation in part E of this subchapter. TheState” for “programs, and the State” in introductory provisions.
+1992—Subsec. (a). Pub. L. 102–586, §2(f)(3)(A)(i)(I), substituted “programs and challenge activities subsequent to State participation in part E of this subchapter. The State” for “programs, and the State” in introductory provisions.
 
-Subsec. (a)(1). Pub. L. 102–586, §2(f)(3)(A)(i)(II), made technical amendment to reference to section 5671 of this title to reflect renumbering of corresponding section of original act.
+Subsec. (a)(1). Pub. L. 102–586, §2(f)(3)(A)(i)(II), made technical amendment to reference to section 5671 ofthis title to reflect renumbering of corresponding section of original act.
 
 Subsec. (a)(3). Pub. L. 102–586, §2(f)(3)(A)(i)(III), amended par. (3) generally, revising and restating as subpars. (A) to (E) provisions formerly appearing in text containing unindented subpars. (A) to (F).
 
@@ -324,7 +586,7 @@ Subsec. (a)(1). Pub. L. 98–473, §626(a)(1), substituted “agency described i
 
 Subsec. (a)(2). Pub. L. 98–473, §626(a)(2), struck out “(hereafter referred to in this part as the ‘State criminal justice council’)” before “has or will have authority”.
 
-Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a special focus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizations which”, added cl. (iii), designated provisions following “business groups as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
+Subsec. (a)(3)(C). Pub. L. 98–473, §626(a)(3)(A), in amending subpar. (C) generally, designated provisions following “representatives of private organizations” as cl. (i) and inserted “, including those with a special focus on maintaining and strengthening the family unit”, designated provisions following “which utilize” as cl. (ii) and inserted “representatives of organizations which”, added cl. (iii), designated provisions following “business groups” as cl. (iv), designated the remainder of subpar. (C) as cl. (v) and substituted “family, school violence and vandalism, and learning disabilities,” for “school violence and vandalism and the problem of learning disabilities; and organizations which represent employees affected by this chapter,”.
 
 Subsec. (a)(3)(F). Pub. L. 98–473, §626(a)(3)(B)(i), substituted “agency designated under paragraph (1)” for “criminal justice council” in three places.
 
@@ -396,7 +658,7 @@ Subsec. (a)(10)(A). Pub. L. 96–509, §11(a)(9), inserted provisions for inclus
 
 Subsec. (a)(10)(E). Pub. L. 96–509, §11(a)(10), clarified that educational programs included as advanced techniques should be designed to encourage delinquent and other youth to remain in school.
 
-Subsec. (a)(10)(H). Pub. L. 96–509, §11(a)(11), provided that statewide programs through the use of subsidies or other financial incentives to units of local government be designed to (1) remove juveniles from jails and lock-ups for adults, (2) replicate juvenile programs designedas exemplary by the National Institute of Justice, (3) establish and adopt standards for the improvement of juvenile justice within the State, or, (4) increase the use of nonsecure, community-based facilities and discourage the use of secure incarceration and detention.
+Subsec. (a)(10)(H). Pub. L. 96–509, §11(a)(11), provided that statewide programs through the use of subsidies or other financial incentives to units of local government be designed to (1) remove juveniles from jails and lock-ups for adults, (2) replicate juvenile programs designed as exemplary by the National Institute of Justice, (3) establish and adopt standards for the improvement of juvenile justice within the State, or, (4) increase the use of nonsecure, community-based facilities and discourage the use of secure incarceration and detention.
 
 Subsec. (a)(10)(I). Pub. L. 96–509, §11(a)(12), revised subpar. (I) to provide that advanced technique programs designed to develop and implement projects relating to juvenile delinquency and learning disabilities include on-the-job training programs to assist law enforcement and juvenile justice personnel to more effectively recognize and provide for learning disabled and other handicapped juveniles.
 
@@ -474,6 +736,10 @@ Subsec. (e). Pub. L. 95–115, §4(c)(15), struck out subsec. (e) which related 
 
 1976—Subsec. (a). Pub. L. 94–503 substituted “(15), and (17)” for “and (15)” in provisions preceding par. (1).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+
 #### Effective Date of 1996 Amendment
 
 Amendment by Pub. L. 104–294 effective Sept. 13, 1994, see section 604(d) of Pub. L. 104–294, set out as a note under section 13 of Title 18, Crimes and Criminal Procedure.
@@ -508,13 +774,13 @@ Section 17 of Pub. L. 96–509 provided that the Administrator of the Office of 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 5614, 5616, 5617, 5631, 5632, 5651, 5662, 5665a, 5671, 5674, 5675, 5782 of this title.
+This section is referred to in sections 5614, 5616, 5617, 5631, 5632, 5653, 5656, 5671, 5672, 5781, 5782 of this title.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “and”.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should be a semicolon.</i>
 
-<i><sup>3</sup></i><i> So in original. The words “by the provision” probably should not appear.</i>
+<i><sup>3</sup></i><i> So in original. Probably should be “to enhance”.</i>
 
-<i><sup>4</sup></i><i> So in original. The comma probably should not appear.</i>
+<i><sup>4</sup></i><i> So in original. The words “by the provision” probably should not appear.</i>
 

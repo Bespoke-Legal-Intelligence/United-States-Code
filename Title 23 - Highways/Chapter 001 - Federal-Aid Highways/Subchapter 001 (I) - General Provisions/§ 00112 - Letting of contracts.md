@@ -16,7 +16,7 @@ Contracting for engineering and design services.—
 
 &emsp;&emsp;(A)
 
-General rule.—Subject to paragraph (3), each contract for program management, construction management, feasibility studies, preliminary engineering, design, engineering, surveying, mapping, or architectural related services with respect to a project subject to the provisions of subsection (a) of this section shall be awarded in the same manner as a contract for architectural and engineering services is negotiated under title IX of the Federal Property and Administrative Services Act of 1949 or equivalent State qualifications-based requirements.
+General rule.—Subject to paragraph (3), each contract for program management, construction management, feasibility studies, preliminary engineering, design, engineering, surveying, mapping, or architectural related services with respect to a project subject to the provisions of subsection (a) of this section shall be awarded in the same manner as a contract for architectural and engineering services is negotiated under chapter 11 of title 40 or equivalent State qualifications-based requirements.
 
 &emsp;&emsp;(B)
 
@@ -44,7 +44,7 @@ Application of rates.—Once a firm's indirect cost rates are accepted under thi
 
 &emsp;&emsp;(F)
 
-Prenotification; confidentiality of data.—A recipient of funds requesting or using the cost and rate data described in subparagraph (E) shall notify any affected firm before such request or use. Such data shall be confidential and shall not be accessible or provided, in whole or in part, to another firm or to any government agency which is not part of the group of agencies sharing cost data under this paragraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
+Prenotification; confidentiality of data.—A recipient of funds requesting or using the cost and rate data described in subparagraph (E) shall notify any affected firm before such request or use. Such datashall be confidential and shall not be accessible or provided, in whole or in part, to another firm or to any government agency which is not part of the group of agencies sharing cost data under this paragraph, except by written permission of the audited firm. If prohibited by law, such cost and rate data shall not be disclosed under any circumstances.
 
 &emsp;&emsp;(G)
 
@@ -116,11 +116,9 @@ Design-build contracts.—Paragraph (1) shall not apply to any design-build cont
 
 Selection Process.—A State may procure, under a single contract, the services of a consultant to prepare any environmental impact assessments or analyses required for a project, including environmental impact statements, as well as subsequent engineering and design work on the project if the State conducts a review that assesses the objectivity of the environmental assessment, environmental analysis, or environmental impact statement prior to its submission to the Secretary.
 
-(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §22(c), Aug. 23, 1968, 82 Stat. 827; Pub. L. 96–470, title I, §112(b)(1), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §112, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §111, Apr. 2, 1987, 101 Stat. 147; Pub. L. 104–59, title III, §307(a), Nov. 28, 1995, 109 Stat. 581; Pub. L. 105–178, title I, §§1205, 1212(a)(2)(A)(i), 1307(a), (b), June 9, 1998, 112 Stat. 184, 193, 229, 230.)
+(Pub. L. 85–767, Aug. 27, 1958, 72 Stat. 895; Pub. L. 90–495, §22(c), Aug. 23, 1968, 82 Stat. 827; Pub. L. 96–470, title I, §112(b)(1), Oct. 19, 1980, 94 Stat. 2239; Pub. L. 97–424, title I, §112, Jan. 6, 1983, 96 Stat. 2106; Pub. L. 100–17, title I, §111, Apr. 2,1987, 101 Stat. 147; Pub. L. 104–59, title III, §307(a), Nov. 28, 1995, 109 Stat. 581; Pub. L. 105–178, title I, §§1205, 1212(a)(2)(A)(i), 1307(a), (b), June 9, 1998, 112 Stat. 184, 193, 229, 230; Pub. L. 107–217, §3(e)(1), Aug. 21, 2002, 116 Stat. 1299.)
 
 #### References in Text
-
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(2)(A), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title IX of the Federal Property and Administrative Services Act is classified generally to subchapter VI (§541 et seq.) of chapter 10 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40 and Tables.
 
 The date of the enactment of this paragraph, referred to in subsec. (b)(2)(B), is the date of enactment of Pub. L. 100–17, which was approved Apr. 2, 1987.
 
@@ -129,6 +127,8 @@ The date of the enactment of this subparagraph, referred to in subsec. (b)(2)(G)
 Section 117 of this title, referred to in subsec. (f), relating to certification acceptance, was repealed and a new section 117, relating to high priority projects program, was enacted by Pub. L. 105–178, title I, §1601(a), June 9, 1998, 112 Stat. 255.
 
 #### Amendments
+
+2002—Subsec. (b)(2)(A). Pub. L. 107–217 substituted “chapter 11 of title 40” for “title IX of the Federal Property and Administrative Services Act of 1949”.
 
 1998—Subsec. (a). Pub. L. 105–178, §1212(a)(2)(A)(i), substituted “State transportation department” for “State highway department”.
 
@@ -248,7 +248,7 @@ Grants to States.—
 
 &emsp;“(1)
 
-In general.—In conducting the program under this section, the Secretary may make grants in each of fiscal years 1992, 1993, 1994, 1995, 1996, and 1997 tonot less than 3 States which the Secretary determines have implemented in the fiscal year preceding the fiscal year of the grant the most effective programs for increasing the percentage of funds expended for contracting with private firms (including small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals) for engineering and design services in carrying out Federal-aid highway projects.
+In general.—In conducting the program under this section, the Secretary may make grants in each of fiscal years 1992, 1993, 1994, 1995, 1996, and 1997 to not less than 3 States which the Secretary determines have implemented in the fiscal year preceding the fiscal year of the grant the most effective programs for increasing the percentage of funds expended for contracting with private firms (including small business concerns and small business concerns owned and controlled by socially and economically disadvantaged individuals) for engineering and design services in carrying out Federal-aid highway projects.
 
 &emsp;“(2)
 

@@ -20,7 +20,7 @@
 
 &emsp;(9) to authorize the issuance of a substitute check for a lost, stolen, or destroyed check of the Postal Service.
 
-(b)(1) The Postal Service, prior to making a determination under subsection (a)(3) of this section as to the necessity for the closing or consolidation of any post office, shall provide adequate notice of its intention to close or consolidate such post office at least 60 days prior to the proposed date of such closing or consolidation to persons served by such post office to ensure that such persons will have an opportunity to present their views.
+(b)(1) The Postal Service, prior to making a determination under subsection (a)(3) of this section as to the necessity for the closing or consolidation of any post office, shall provide adequate notice of its intention to close or consolidate such post office at least 60 days prior tothe proposed date of such closing or consolidation to persons served by such post office to ensure that such persons will have an opportunity to present their views.
 
 (2) The Postal Service, in making a determination whether or not to close or consolidate a post office—
 

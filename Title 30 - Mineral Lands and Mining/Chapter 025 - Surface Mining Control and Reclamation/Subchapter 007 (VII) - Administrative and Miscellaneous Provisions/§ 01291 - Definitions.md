@@ -42,7 +42,7 @@ For the purposes of this chapter—
 
 &emsp;(20) the term “prime farmland” shall have the same meaning as that previously prescribed by the Secretary of Agriculture on the basis of such factors as moisture availability, temperature regime, chemical balance, permeability, surface layer composition, susceptibility to flooding, and erosion characteristics, and which historically have been used for intensive agricultural purposes, and as published in the Federal Register.<sup>2</sup>
 
-&emsp;(21) “reclamation plan” means a plan submitted by an applicant for a permit under a State program or Federal program which sets forth a plan for reclamation of the proposed surface coal mining operations pursuant to section 1258 of this title;
+&emsp;(21) “reclamation plan” means a plan submitted by an applicant for a permit under aState program or Federal program which sets forth a plan for reclamation of the proposed surface coal mining operations pursuant to section 1258 of this title;
 
 &emsp;(22) “regulatory authority” means the State regulatory authority where the State is administering this chapter under an approved State program or the Secretary where the Secretary is administering this chapter under a Federal program;
 

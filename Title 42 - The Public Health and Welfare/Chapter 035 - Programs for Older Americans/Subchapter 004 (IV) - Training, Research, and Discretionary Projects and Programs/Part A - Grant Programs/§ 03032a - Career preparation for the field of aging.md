@@ -16,7 +16,7 @@ For purposes of subsection (a) of this section:
 
 &emsp;&emsp;(B) has been effective in assisting Hispanic students of the program to complete the program and receive the degree involved;
 
-&emsp;&emsp;(C) has been effective in recruiting Hispanic individuals to attend the program, including providing scholarships and other financial assistance to such individuals and encouraging Hispanic students of secondaryeducational institutions to attend the program; and
+&emsp;&emsp;(C) has been effective in recruiting Hispanic individuals to attend the program, including providing scholarships and other financial assistance to such individuals and encouraging Hispanic students of secondary educational institutions to attend the program; and
 
 &emsp;&emsp;(D) has made significant recruitment efforts to increase the number and placement of Hispanic individuals serving in faculty or administrative positions in the program.
 

@@ -18,11 +18,11 @@ The Administrator shall—
 
 &emsp;&emsp;(B) identifying and summarizing effective models of Federal, State, and local coordination and cooperation in locating and recovering missing children;
 
-&emsp;&emsp;(C) identifying and summarizing effective program models that provide treatment,counseling, or other aid to parents of missing children or to children who have been the victims of abduction;
+&emsp;&emsp;(C) identifying and summarizing effective program models that provide treatment, counseling, or other aid to parents of missing children or to children who have been the victims of abduction;
 
 &emsp;&emsp;(D) describing how the Administrator satisfied the requirements of paragraph (4) in the preceding fiscal year;
 
-&emsp;&emsp;(E) describing in detail the number and types of telephone calls received in the preceding fiscal year over the national toll-free telephone line established under subsection (b)(1)(A) of this section and the number and types of communications referred to the national communications system established under section 5712a <sup>1</sup> of this title;
+&emsp;&emsp;(E) describing in detail the number and types of telephone calls received in the preceding fiscal year over the national toll-free telephone line established under subsection (b)(1)(A) of this section and the number and types of communications referred to the national communications system established under section 5714–11 of this title;
 
 &emsp;&emsp;(F) describing in detail the activities in the preceding fiscal year of the national resource center and clearinghouse established under subsection (b)(2) of this section;
 
@@ -36,7 +36,7 @@ The Administrator shall—
 
 &emsp;&emsp;(iii) specifying the types and amounts of assistance (other than assistance under section 5775(a)(9) of this title) received by such clearinghouse in such fiscal year; and
 
-&emsp;&emsp;(iv) specifying the number and types of missing children cases handled (and the number of such cases resolved) by such clearinghouse in such fiscal year and summarizing the circumstances of each such cases.<sup>2</sup>
+&emsp;&emsp;(iv) specifying the number and types of missing children cases handled (and the number of such cases resolved) by such clearinghouse in such fiscal year and summarizing the circumstances of each such cases.<sup>1</sup>
 
 #### (b) Annual grant to National Center for Missing and Exploited Children
 
@@ -80,13 +80,15 @@ The Administrator, either by making grants to or entering into contracts with pu
 
 Nothing contained in this subchapter shall be construed to grant to the Administrator any law enforcement responsibility or supervisory authority over any other Federal agency.
 
-(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034.)
+(Pub. L. 93–415, title IV, §404, as added Pub. L. 98–473, title II, §660, Oct. 12, 1984, 98 Stat. 2126; amended Pub. L. 100–690, title VII, §7285, Nov. 18, 1988, 102 Stat. 4459; Pub. L. 101–204, title X, §1004(2), Dec. 7, 1989, 103 Stat. 1828; Pub. L. 106–71, §2(c), Oct. 12, 1999, 113 Stat. 1034; Pub. L. 107–273, div. C, title II, §12221(b)(2), Nov. 2, 2002, 116 Stat. 1894.)
 
-#### References in Text
+#### Prior Provisions
 
-Section 5712a of this title, referred to in subsec. (a)(5)(E), was repealed by Pub. L. 102–586, §3(g)(2)(A), Nov. 4, 1992, 106 Stat. 5025. See section 5714–11 of this title.
+A prior section 404 of Pub. L. 93–415 amended section 3882 of this title, and was repealed by Pub. L. 95–115, §10, Oct. 3, 1977, 91 Stat. 1061, and Pub. L. 107–273, div. C, title II, §12221(a)(4), Nov. 2, 2002, 116 Stat. 1894.
 
 #### Amendments
+
+2002—Subsec. (a)(5)(E). Pub. L. 107–273 substituted “section 5714–11” for “section 5712a”.
 
 1999—Subsecs. (b) to (d). Pub. L. 106–71 added subsecs. (b) and (c), redesignated former subsec. (c) as (d), and struck out former subsec. (b) which related to the establishment of toll-free telephone line and national resource center and clearinghouse, conduct of national incidence studies, and use of school records and birth certificates.
 
@@ -108,7 +110,7 @@ Subsec. (a)(5). Pub. L. 100–690, §7285(a)(3), amended par. (5) generally. Pri
 
 &emsp;“(D) effective program models which provide treatment, counseling, or other aid to parents of missing children or to children who have been the victims of abduction or sexual exploitation; and”.
 
-Subsec. (a)(6). Pub. L. 100–690, §7285(a)(4), struck out par. (6), which read as follows: “prepare, in conjunction with and with the final approval of the Advisory Board on Missing Children, an annual comprehensive plan for facilitating cooperation and coordination among all agencies and organizations with responsibilities related to missing children.”
+Subsec. (a)(6). Pub. L. 100–690, §7285(a)(4), struck out par. (6), which read as follows: “prepare, in conjunction with and with the final approval of the Advisory Board on Missing Children, an annual comprehensive plan for facilitating cooperation and coordination among allagencies and organizations with responsibilities related to missing children.”
 
 Subsec. (b)(1). Pub. L. 100–690, §7285(b)(1), designated existing provisions as subpar. (A), inserted “24-hour” after “national” and “and” at end, and added subpar. (B).
 
@@ -118,6 +120,10 @@ Subsec. (b)(2)(D). Pub. L. 100–690, §7285(b)(2)(B), inserted “and training�
 
 Subsec. (b)(4). Pub. L. 100–690, §7285(b)(3), (4), added par. (4).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–273 effective Nov. 2, 2002, and applicable only with respect to fiscal years beginning after Sept. 30, 2002, see section 12223 of Pub. L. 107–273, set out as a note under section 5601 of this title.
+
 #### Effective Date of 1988 Amendment
 
 Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required by subsec. (a)(5) of this section with respect to fiscal year 1988 to be submitted not later than Aug. 1, 1989, notwithstanding the 180-day period provided in subsec. (a)(5) of this section, see section 7296(a), (b)(3) of Pub. L. 100–690, as amended, set out as a note under section 5601 of this title.
@@ -126,7 +132,5 @@ Amendment by Pub. L. 100–690 effective Oct. 1, 1988, with the report required 
 
 For termination, effective May 15, 2000, of provisions in subsec. (a)(5) of this section relating to submittal of annual report to the Speaker of the House of Representatives and the President pro tempore of the Senate, see section 3003 of Pub. L. 104–66, as amended, set out as a note under section 1113 of Title 31, Money and Finance, and the 2nd item on page 122 of House Document No. 103–7.
 
-<i><sup>1</sup></i><i> See References in Text note below.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be “case.”</i>
+<i><sup>1</sup></i><i> So in original. Probably should be “case.”</i>
 

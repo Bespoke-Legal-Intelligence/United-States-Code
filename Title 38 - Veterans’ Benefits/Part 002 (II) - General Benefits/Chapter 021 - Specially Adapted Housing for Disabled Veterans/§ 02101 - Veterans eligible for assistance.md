@@ -18,7 +18,7 @@
 
 > in acquiring such adaptations to such veteran's residence as are determined by the Secretary to be reasonably necessary because of such disability or in acquiring a residence already adapted with special features determined by the Secretary to be reasonably necessary for the veteran because of such disability.
 
-(2) Assistance under paragraph (1) of this subsection may be provided only to a veteran who the Secretary determines is residing in and reasonably intends to continue residing in a residence owned by such veteran or by a member of such veteran's family or, if the veteran's residence is to be constructed or purchased, will be residing in and reasonably intends to continueresiding in a residence owned by such veteran or by a member of such veteran's family.
+(2) Assistance under paragraph (1) of this subsection may be provided only to a veteran who the Secretary determines is residing in and reasonably intends to continue residing in a residence owned by such veteran or by a member of such veteran's family or, if the veteran's residence is to be constructed or purchased, will be residing in and reasonably intends to continue residing in a residence owned by such veteran or by a member of such veteran's family.
 
 (Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1168, §801; Pub. L. 86–239, Sept. 8, 1959, 73 Stat. 472; Pub. L. 88–401, Aug. 4, 1964, 78 Stat. 380; Pub. L. 91–22, §1, June 6, 1969, 83 Stat. 32; Pub. L. 95–117, title IV, §401, Oct. 3, 1977, 91 Stat. 1065; Pub. L. 96–385, title III, §301(a), Oct. 7, 1980, 94 Stat. 1531; Pub. L. 99–576, title IV, §401(a), title VII, §§701(48), 702(7), Oct. 28, 1986, 100 Stat. 3280, 3295, 3302; renumbered §2101 and amended Pub. L. 102–83, §§4(b)(1), (2)(E), 5(a), Aug. 6, 1991, 105 Stat. 404–406.)
 

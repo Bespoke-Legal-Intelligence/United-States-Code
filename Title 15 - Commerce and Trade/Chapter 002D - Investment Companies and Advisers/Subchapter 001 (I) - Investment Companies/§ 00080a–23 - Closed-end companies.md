@@ -2,7 +2,7 @@
 
 #### (a) Issuance of securities
 
-No registered closed-end company shall issue any of its securities (1) for services; or (2) forproperty other than cash or securities (including securities of which such registered company is the issuer), except as a dividend or distribution to its security holders or in connection with a reorganization.
+No registered closed-end company shall issue any of its securities (1) for services; or (2) for property other than cash or securities (including securities of which such registered company is the issuer), except as a dividend or distribution to its security holders or in connection with a reorganization.
 
 #### (b) Sale of common stock at price below current net asset value
 

@@ -12,7 +12,7 @@ For the purpose of this title–
 
 > &emsp;and who has been separated from the armed forces under honorable conditions;
 
-&emsp;(2) “disabled veteran” means an individual who has served on active duty in the armed forces, has been separated therefrom under honorable conditions, and has established the present existence of a service-connected disability or is receiving compensation, disability retirement benefits, or pension because of a public statute administered by the Department of Veterans Affairs or a military department;
+&emsp;(2) “disabled veteran” means an individual who has served on active duty in the armed forces, has been separated therefrom under honorable conditions, and has established the present existence of a service-connected disability or is receiving compensation, disabilityretirement benefits, or pension because of a public statute administered by the Department of Veterans Affairs or a military department;
 
 &emsp;(3) “preference eligible” means, except as provided in paragraph (4) of this section—
 
@@ -171,6 +171,10 @@ Amendment by section 401(d) of Pub. L. 95–454 effective 9 months after Oct. 13
 #### Effective Date of 1968 Amendment
 
 Amendment by Pub. L. 90–623 effective Sept. 11, 1967, for all purposes, see section 6 of Pub. L. 90–623, set out as a note under section 5334 of this title.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

@@ -91,6 +91,7 @@
 | (d) | Exception for extra long staple cotton. |
 | (e) | Transition. |
 | (f) | Beneficial interest. |
+| (g) | Effective date for payment rate determination. |
 | [7236\.](Subchapter%20003%20%28III%29%20-%20Nonrecourse%20Marketing%20Assistance%20Loans%20and%20Loan%20Deficiency%20Payments/%C2%A7%2007236%20-%20Special%20marketing%20loan%20provisions%20for%20upland%20cotton.md) | Special marketing loan provisions for upland cotton. |
 | (a) | Cotton user marketing certificates. |
 | (b) | Special import quota. |
@@ -149,29 +150,22 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-#### Part B—Peanuts And Sugar
+#### Part B—Sugar
 
 |  |  |
 | :--- | ---: |
-| [7271\.](Subchapter%20004%20%28IV%29%20-%20Other%20Commodities/Part%20B%20-%20Peanuts%20and%20Sugar/%C2%A7%2007271%20-%20Peanut%20program.md) | Peanut program. |
-| (a) | Quota peanuts. |
-| (b) | Additional peanuts. |
-| (c) | Area marketing associations. |
-| (d) | Losses. |
-| (e) | Disapproval of quotas. |
-| (f) | Quality improvement. |
-| (g) | Marketing assessment. |
-| (h) | Crops. |
-| [7272\.](Subchapter%20004%20%28IV%29%20-%20Other%20Commodities/Part%20B%20-%20Peanuts%20and%20Sugar/%C2%A7%2007272%20-%20Sugar%20program.md) | Sugar program. |
+| [7271\.](Subchapter%20004%20%28IV%29%20-%20Other%20Commodities/Part%20B%20-%20Sugar/%C2%A7%2007271%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20I%2C%20%C2%A71310%28a%29%281%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20182.md) | Repealed. |
+| [7272\.](Subchapter%20004%20%28IV%29%20-%20Other%20Commodities/Part%20B%20-%20Sugar/%C2%A7%2007272%20-%20Sugar%20program.md) | Sugar program. |
 | (a) | Sugarcane. |
 | (b) | Sugar beets. |
-| (c) | Reduction in loan rates. |
+| (c) | Loan rate adjustments. |
 | (d) | Term of loans. |
 | (e) | Loan type; processor assurances. |
-| (f) | Marketing assessment. |
-| (g) | Forfeiture penalty. |
+| (f) | Loans for in-process sugar. |
+| (g) | Avoiding forfeitures; Corporation inventory disposition. |
 | (h) | Information reporting. |
-| (i) | Crops. |
+| (i) | Substitution of refined sugar. |
+| (j) | Effective period. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -189,6 +183,8 @@
 | (b) | Manner of adjustment. |
 | (c) | Adjustment on county basis. |
 | [7283\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2007283%20-%20Commodity%20Credit%20Corporation%20interest%20rate.md) | Commodity Credit Corporation interest rate. |
+| (a) | In general. |
+| (b) | Sugar. |
 | [7284\.](Subchapter%20005%20%28V%29%20-%20Administration/%C2%A7%2007284%20-%20Personal%20liability%20of%20producers%20for%20deficiencies.md) | Personal liability of producers for deficiencies. |
 | (a) | In general. |
 | (b) | Limitations. |
@@ -294,7 +290,7 @@ st CENTURY PRODUCTION AGRICULTURE
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 1308, 1308–3, 1508, 1515, 7334 of this title; title 16 sections 3811, 3821, 3839bb.
+This chapter is referred to in sections 1308–3, 1508, 1515, 7334 of this title; title 16 sections 3811, 3821, 3839bb.
 
 
 ---

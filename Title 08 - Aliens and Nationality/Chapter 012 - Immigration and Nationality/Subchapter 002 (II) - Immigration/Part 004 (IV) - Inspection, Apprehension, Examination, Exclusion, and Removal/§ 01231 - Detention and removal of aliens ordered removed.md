@@ -54,7 +54,7 @@
 
 #### (C) Notice
 
-&emsp;&emsp;Any alien removed pursuant to this paragraph shall be notified of the penalties under the laws of the United States relating to the reentry of deported aliens, particularly theexpanded penalties for aliens removed under subparagraph (B).
+&emsp;&emsp;Any alien removed pursuant to this paragraph shall be notified of the penalties under the laws of the United States relating to the reentry of deported aliens, particularly the expanded penalties for aliens removed under subparagraph (B).
 
 #### (D) No private right
 
@@ -100,7 +100,7 @@
 
 &emsp;&emsp;&emsp;(iii) The country in which the alien has a residence.
 
-&emsp;&emsp;&emsp;(iv) A country with a government that will accept the alien into the country's territory if removal to each country described in a previous clause of this subparagraph is impracticable, inadvisable, or impossible.
+&emsp;&emsp;&emsp;(iv) A country with a government that will accept the alien into the country'sterritory if removal to each country described in a previous clause of this subparagraph is impracticable, inadvisable, or impossible.
 
 #### (2) Other aliens
 
@@ -258,7 +258,7 @@
 
 &emsp;&emsp;&emsp;(v)(I) the alien has a nonimmigrant visa or other documentation authorizing the alien to apply for temporary admission to the United States or a reentry permit;
 
-&emsp;&emsp;&emsp;(II) the alien applies for admission more than 120 days after the date the visa or documentation was issued or after the date of the last inspection and admission under the reentry permit; and
+&emsp;&emsp;&emsp;(II) the alien applies for admission more than 120 days after the date the visa or documentation was issued or after the dateof the last inspection and admission under the reentry permit; and
 
 &emsp;&emsp;&emsp;(III) the owner of the vessel or aircraft satisfies the Attorney General that the existence of the condition relating to inadmissibility could not have been discovered by exercising reasonable care before the alien boarded the vessel or aircraft; or
 
@@ -332,7 +332,7 @@
 
 #### (C) Costs of removal of certain aliens granted voluntary departure
 
-&emsp;&emsp;In the case of an alien who has been granted voluntary departure under section 1229c of this title and who is financially unable to depart at the alien's own expense and whose removal the Attorney General deems to be in the best interest of the United States, the expense of such removal may be paid from the appropriation for the enforcement of this chapter.
+&emsp;&emsp;In the case of an alien who has been granted voluntary departure under section 1229c of this title and who is financially unable to depart at the alien's own expense and whose removal the Attorney General deems to be in the best interest of the United States, theexpense of such removal may be paid from the appropriation for the enforcement of this chapter.
 
 #### (f) Aliens requiring personal care during removal
 
@@ -382,23 +382,11 @@ Nothing in this section shall be construed to create any substantive or procedur
 
 (B) The Attorney General shall ensure that undocumented criminal aliens incarcerated in Federal facilities pursuant to this subsection are held in facilities which provide a level of security appropriate to the crimes for which they were convicted.
 
-(5) There are authorized to be appropriated such sums as may be necessary to carry out this subsection, of which the following amounts may be appropriated from the Violent Crime Reduction Trust Fund:
-
-&emsp;(A) $130,000,000 for fiscal year 1995;
-
-&emsp;(B) $300,000,000 for fiscal year 1996;
-
-&emsp;(C) $330,000,000 for fiscal year 1997;
-
-&emsp;(D) $350,000,000 for fiscal year 1998;
-
-&emsp;(E) $350,000,000 for fiscal year 1999; and
-
-&emsp;(F) $340,000,000 for fiscal year 2000.
+(5) There are authorized to be appropriated such sums as may be necessary to carry out this subsection in fiscal years 2003 and 2004.
 
 (6) To the extent of available appropriations, funds otherwise made available under this section with respect to a State (or political subdivision, including a municipality) for incarceration of an undocumented criminal alien may, at the discretion of the recipient of the funds, be used for the costs of imprisonment of such alien in a State, local, or municipal prison or jail.
 
-(June 27, 1952, ch. 477, title II, ch. 4, §241, as added and amended Pub. L. 104–208, div. C, title III, §§305(a)(3), 306(a)(1), 328(a)(1), Sept. 30, 1996, 110 Stat. 3009–598, 3009–607, 3009–630.)
+(June 27, 1952, ch. 477, title II, ch. 4, §241, as added and amended Pub. L. 104–208, div. C, title III, §§305(a)(3), 306(a)(1), 328(a)(1), Sept. 30, 1996, 110 Stat. 3009–598, 3009–607, 3009–630; Pub. L. 107–273, div. C, title I, §11014, Nov. 2, 2002, 116 Stat. 1824.)
 
 #### References in Text
 
@@ -413,6 +401,8 @@ The text of subsec. (j) of section 1252 of this title, which was redesignated as
 A prior section 241 of act June 27, 1952, was renumbered section 237, and is classified to section 1227 of this title.
 
 #### Amendments
+
+2002—Subsec. (i)(5). Pub. L. 107–273 substituted “in fiscal years 2003 and 2004” for provisions which authorized specified amounts to be appropriated from the Violent Crime Reduction Trust Fund for fiscal years 1995 to 2002 as set out in subpars. (A) to (F).
 
 1996—Subsec. (i). Pub. L. 104–208, §306(a)(1), redesignated subsec. (j) of section 1252 of this title as subsec. (i) of this section. See Codification note above.
 
@@ -429,6 +419,10 @@ Section 328(a)(2) of div. C of Pub. L. 104–208 provided that: “The amendment
 #### Effective Date
 
 Section effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as an Effective Date of 1996 Amendments note under section 1101 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### United States Policy With Respect to Involuntary Return of Persons in Danger of Subjection to Torture
 
@@ -506,5 +500,5 @@ Section 20301(c) of Pub. L. 103–322, as amended by Pub. L. 104–208, div. C, 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1158, 1159, 1182, 1184, 1226a, 1229a, 1229b, 1252, 1253, 1324c, 1326, 1368, 1371, 1534, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 42 sections 1436a, 13710.
+This section is referred to in sections 1158, 1159, 1182, 1184, 1226a, 1229a, 1229b, 1252, 1253, 1324c, 1326, 1368, 1371, 1534, 1612, 1613, 1622, 1641 of this title; title 7 section 2015; title 40 section 3301; title 42 sections 1436a, 13710.
 

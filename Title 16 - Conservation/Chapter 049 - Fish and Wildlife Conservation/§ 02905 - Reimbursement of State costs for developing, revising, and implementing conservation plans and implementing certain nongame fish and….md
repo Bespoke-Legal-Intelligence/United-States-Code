@@ -12,7 +12,7 @@ Any State may apply to the Secretary for reimbursement under this section for co
 
 &emsp;(4) The implementation of conservation actions specified in an approved conservation plan.
 
-&emsp;(5) The coordination, consolidation, or implementation of the conservation plan or conservation, actions approved under this chapter with other related plans or actions developed pursuant to the Act of September 2, 1937 (16 U.S.C. 669e(a)(1)), commonly referred to as the Pittman-Robertson Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] and the Act of August 9, 1950 (16 U.S.C. 777c(a)(1)), commonly referred to as the Dingell-Johnson Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\].
+&emsp;(5) The coordination, consolidation, or implementation of the conservation plan or conservation, actions approved under this chapter with other related plans or actions developed pursuant to the Act of September 2, 1937 (16 U.S.C. 669e(a)(1)), commonly referred to as the Pittman-Robertson Wildlife Restoration Act \[16 U.S.C. 669 et seq.\] and the Act of August 9,1950 (16 U.S.C. 777c(a)(1)), commonly referred to as the Dingell-Johnson Sport Fish Restoration Act \[16 U.S.C. 777 et seq.\].
 
 #### (b) Applications
 

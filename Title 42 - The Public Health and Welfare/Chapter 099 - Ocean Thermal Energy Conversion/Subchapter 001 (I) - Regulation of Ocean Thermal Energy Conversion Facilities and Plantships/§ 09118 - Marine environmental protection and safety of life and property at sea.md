@@ -14,7 +14,7 @@ Whenever a licensee fails to mark any component of such an ocean thermal energy 
 
 #### (d) Safety zones
 
-(1) Subject to recognized principles of international law and after consultation with the Secretary of Commerce, the Secretary of the Interior, the Secretary of State, and the Secretary of Defense, the Secretary of the department in which the Coast Guard is operating shall designate a zone of appropriate size around and including any ocean thermal energy conversion facility licensed under this chapter and may designate such a zone around and including any ocean thermal energy conversion plantship licensed under this chapter for the purposes of navigational safety and protection of the facility or plantship. The Secretary of the department in which the Coast Guard is operatingshall by regulation define permitted activities within such zone consistent with the purpose for which it was designated. The Secretary of the department in which the Coast Guard is operating shall, not later than 30 days after publication of notice pursuant to section 9112(d) of this title, designate such safety zone with respect to any proposed ocean thermal energy conversion facility or plantship.
+(1) Subject to recognized principles of international law and after consultation with the Secretary of Commerce, the Secretary of the Interior, the Secretary of State, and the Secretary of Defense, the Secretary of the department in which the Coast Guard is operating shall designate a zone of appropriate size around and including any ocean thermal energy conversion facility licensed under this chapter and may designate such a zone around and including any ocean thermal energy conversion plantship licensed under this chapter for the purposes of navigational safety and protection of the facility or plantship. The Secretary of the department in which the Coast Guard is operating shall by regulation define permitted activities within such zone consistent with the purpose for which it was designated. The Secretary of the department in which the Coast Guard is operating shall, not later than 30 days after publication of notice pursuant to section 9112(d) of this title, designate such safety zone with respect to any proposed ocean thermal energy conversion facility or plantship.
 
 (2) In addition to any other regulations, the Secretary of the department in which the Coast Guard is operating is authorized, in accordance with this subsection, to establish a safety zone to be effective during the period of construction of an ocean thermal energy conversion facility or plantship licensed under this chapter, and to issue rules and regulations relating thereto.
 
@@ -22,7 +22,7 @@ Whenever a licensee fails to mark any component of such an ocean thermal energy 
 
 #### (e) Rules and regulations; vessels; “ocean thermal energy conversion facility” defined
 
-(1) The Secretary of the department in which the Coast Guard is operating shall promulgate and enforce regulations specified in paragraph (2) of this subsection and such other regulations as he deems necessary concerning the documentation, design, construction, alteration, equipment, maintenance, repair, inspection, certification, and manning of ocean thermal energy conversion facilities and plantships. In addition to other requirements prescribed under those regulations, the Secretary of the department in which the Coast Guard is operating may require compliance with those vessel documentation, inspection, and manning laws which he determines to be appropriate.
+(1) The Secretary of the department in which the Coast Guard is operating shall promulgate and enforce regulations specified in paragraph (2) of this subsection and such other regulations as he deems necessary concerning the documentation, design, construction, alteration,equipment, maintenance, repair, inspection, certification, and manning of ocean thermal energy conversion facilities and plantships. In addition to other requirements prescribed under those regulations, the Secretary of the department in which the Coast Guard is operating may require compliance with those vessel documentation, inspection, and manning laws which he determines to be appropriate.
 
 (2) Within 1 year after August 3, 1980, the Secretary of the department in which the Coast Guard is operating shall promulgate regulations under paragraph (1) of this subsection which require that any ocean thermal energy conversion facility or plantship—
 
@@ -59,6 +59,10 @@ Subsec. (d)(3). Pub. L. 98–623, §602(e)(15), added par. (3) by inserting text
 Subsec. (e)(2)(C)(ii). Pub. L. 98–623, §602(a)(6), substituted “moored, fixed or standing” for “moored or standing”.
 
 Subsec. (e)(4). Pub. L. 98–623, §602(a)(7), added par. (4).
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by a period.</i>
 

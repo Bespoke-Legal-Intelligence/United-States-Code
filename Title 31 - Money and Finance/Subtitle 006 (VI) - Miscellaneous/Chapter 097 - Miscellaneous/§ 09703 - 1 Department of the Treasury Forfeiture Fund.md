@@ -68,17 +68,9 @@ In General.—There is established in the Treasury of the United States a fund t
 
 &emsp;&emsp;&emsp;&emsp;(II) any law of the United States relating to coins, obligations, or securities of the United States or of a foreign government; or
 
-&emsp;&emsp;&emsp;&emsp;(III) any law of the United States which the United States Secret Service is authorized to enforce relating to fraud or other criminal or unlawful activity in or against any federally insured financial institution, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation;
+&emsp;&emsp;&emsp;&emsp;(III) any law of the United States which the United States Secret Service is authorized to enforce relating to fraud or other criminal or unlawful activity in or against any federally insured financial institution, the Resolution Trust Corporation, or the Federal Deposit Insurance Corporation; and
 
-&emsp;&emsp;&emsp;(iv) the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act); and
-
-&emsp;&emsp;&emsp;(v) the Bureau of Alcohol, Tobacco and Firearms with respect to a violation of—
-
-&emsp;&emsp;&emsp;&emsp;(I) section 842(h) of title 18;
-
-&emsp;&emsp;&emsp;&emsp;(II) section 844(d), (e), (f), (g), (h), or (i) of title 18; or
-
-&emsp;&emsp;&emsp;&emsp;(III) section 924(c) of title 18;
+&emsp;&emsp;&emsp;(iv) the United States Customs Service or the Internal Revenue Service with respect to a violation of chapter 53 of this title (relating to the Bank Secrecy Act).
 
 &emsp;&emsp;(C) payment of costs for publicizing awards available under section 619 of the Tariff Act of 1930 (19 U.S.C. 1619);
 
@@ -168,7 +160,7 @@ Reports to Congress.—The Secretary shall transmit to the Congress, not later t
 
 &emsp;&emsp;(A) the balance of the Fund at the beginning of the preceding fiscal year;
 
-&emsp;&emsp;(B) liens and mortgages paid and the amount of money shared with Federal,State, local, and foreign law enforcement agencies during the preceding fiscal year;
+&emsp;&emsp;(B) liens and mortgages paid and the amount of money shared with Federal, State, local, and foreign law enforcement agencies during the preceding fiscal year;
 
 &emsp;&emsp;(C) the net amount realized from the operations of the Fund during the preceding fiscal year, the amount of seized cash being held as evidence, and the amount of money that has been carried over into the current fiscal year;
 
@@ -202,7 +194,7 @@ Appropriations.—
 
 &emsp;&emsp;(B) $50,000,000 for each fiscal year after fiscal year 1993.
 
-&emsp;(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995, 1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.
+&emsp;(3)(A) Subject to subparagraphs (B) and (C), at the end of each of fiscal years 1994, 1995,1996, and 1997, the Secretary shall transfer from the Fund not more than $100,000,000 to the Special Forfeiture Fund established by section 6073 of the Anti-Drug Abuse Act of 1988.
 
 &emsp;(B) Transfers pursuant to subparagraph (A) shall be made only from excess unobligated amounts and only to the extent that, as determined by the Secretary, such transfers will not impair the future availability of amounts for the purposes described in subsection (a). Further, transfers under subparagraph (A) may not exceed one-half of the excess unobligated balance for a year. In addition, transfers under subparagraph (A) may be made only to the extent that the sum of the transfers in a fiscal year and one-half of the unobligated balance at the beginning of that fiscal year for the Special Forfeiture Fund does not exceed $100,000,000.
 
@@ -256,7 +248,7 @@ Customs Forfeiture Fund.—Notwithstanding any other provision of law—
 
 (k)
 
-Limitation of Liability.—The United States shall not be liable in any action relating to property transferred under this section or under section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a) if such action is based on an act or omission occurring after the transfer.
+Limitation of Liability.—The United States shall not be liable in any action relatingto property transferred under this section or under section 616 of the Tariff Act of 1930 (19 U.S.C. 1616a) if such action is based on an act or omission occurring after the transfer.
 
 (<i>l</i>)
 
@@ -288,33 +280,17 @@ Transfers to Attorney General and Postmaster General.—
 
 (<i>o</i>)
 
-Bureau of Alcohol, Tobacco and Firearms.—
-
-&emsp;(1) Except as provided in paragraph (2) and section 5872(b) of the Internal Revenue Code of 1986, the provisions of law relating to—
-
-&emsp;&emsp;(A) the seizure, summary and judicial forfeiture, and condemnation of property for violation of Customs laws,
-
-&emsp;&emsp;(B) the remission or mitigation of such forfeiture, and
-
-&emsp;&emsp;(C) the compromise of claims,
-
-> &emsp;shall apply to seizures and forfeitures incurred, or alleged to have been incurred, underany applicable law enforced or administered by the Bureau of Alcohol, Tobacco and Firearms.
-
-&emsp;(2) For purposes of paragraph (1), duties that are imposed upon a Customs officer or any other person with respect to the seizure and forfeiture of property under the Customs laws of the United States shall be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or any other person as may be authorized or designated for that purpose by the Secretary.
-
-(p)
-
 Definitions.—For purposes of this section—
 
 &emsp;(1)
 
-Department of the treasury law enforcement organization.—The term “Department of the Treasury law enforcement organization” means the United States Customs Service, the United States Secret Service, the Bureau of Alcohol, Tobacco and Firearms, the Internal Revenue Service, the Federal Law Enforcement Training Center, the Financial Crimes Enforcement Network, and any other law enforcement component of the Department of the Treasury so designated by the Secretary.
+Department of the treasury law enforcement organization.—The term “Department of the Treasury law enforcement organization” means the United States Customs Service, the United States Secret Service, the Tax and Trade Bureau, the Internal Revenue Service, the Federal Law Enforcement Training Center, the Financial Crimes Enforcement Network, and any other law enforcement component of the Department of the Treasury so designated by the Secretary.
 
 &emsp;(2)
 
 Secretary.—The term “Secretary” means the Secretary of the Treasury.
 
-(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §116\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, §122(b), (c), Oct. 10, 1997, 111 Stat. 1289.)
+(Added Pub. L. 102–393, title VI, §638(b)(1), Oct. 6, 1992, 106 Stat. 1779; amended Pub. L. 103–182, title VI, §685, Dec. 8, 1993, 107 Stat. 2220; Pub. L. 103–322, title IX, §90205(c), Sept. 13, 1994, 108 Stat. 1994; Pub. L. 103–329, title I, §112, Sept. 30, 1994, 108 Stat. 2391; Pub. L. 104–208, div. A, title I, §101(f) \[title I, §116\], Sept. 30, 1996, 110 Stat. 3009–314, 3009–325; Pub. L. 105–61, title I, §122(b), (c), Oct. 10, 1997, 111 Stat. 1289; Pub. L. 107–296, title XI, §1112(n), Nov. 25, 2002, 116 Stat. 2278.)
 
 #### References in Text
 
@@ -324,7 +300,7 @@ The Bank Secrecy Act, referred to in subsec. (a)(2)(B)(iv), is title I of Pub. L
 
 Section 630 of the Tariff Act of 1930, referred to in subsec. (a)(2)(E), is classified to section 1630 of Title 19, Customs Duties.
 
-The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(3), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 471 of Title 40, Public Buildings, Property, and Works, and Tables.
+The Federal Property and Administrative Services Act of 1949, referred to in subsec. (b)(3), is act June 30, 1949, ch. 288, 63 Stat. 377, as amended. Title III of the Act is classified generally to subchapter IV (§251 et seq.) of chapter 4 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Tables.
 
 The Chief Financial Officers Act of 1990, referred to in subsec. (f), is Pub. L. 101–576, Nov. 15, 1990, 104 Stat. 2838. For complete classification of this Act to the Code, see Short Title of 1990 Amendment note set out under section 501 of this title and Tables.
 
@@ -336,11 +312,25 @@ Subparagraph (A)(ii), referred to in subsec. (g)(4)(B), means cl. (ii) of subsec
 
 Section 481(h) of the Foreign Assistance Act of 1961, referred to in subsec. (h)(2)(C), was classified to section 2291(h) of Title 22, Foreign Relations and Intercourse, prior to repeal of subsec. (h) by Pub. L. 102–583, §6(b)(2), Nov. 2, 1992, 106 Stat. 4932. Reference to section 481(h) of the Foreign Assistance Act of 1961 probably should be to section 490(a)(1) of the Act, which is classified to section 2291j(a)(1) of Title 22.
 
-The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec. (j)(2), probably means the date of enactment of the Treasury Forfeiture Fund Act of 1992, section 638 of Pub. L. 102–393, which was approved Oct. 6, 1992.
+The effective date of the Treasury Forfeiture Act of 1992, referred to in subsec. (j)(2), probably means thedate of enactment of the Treasury Forfeiture Fund Act of 1992, section 638 of Pub. L. 102–393, which was approved Oct. 6, 1992.
 
 Section 524(c)(11) of title 28, referred to in subsec. (m), was redesignated section 524(c)(10) by Pub. L. 104–66, title I, §1091(h)(2), Dec. 21, 1995, 109 Stat. 722.
 
 #### Amendments
+
+2002—Subsec. (a)(2)(B). Pub. L. 107–296, §1112(n)(1), in cl. (iii)(III), inserted “and” at end, in cl. (iv), substituted a period for “; and” at end, and struck out cl. (v) which read as follows: “the Bureau of Alcohol, Tobacco and Firearms with respect to a violation of—
+
+&emsp;“(I) section 842(h) of title 18;
+
+&emsp;“(II) section 844(d), (e), (f), (g), (h), or (i) of title 18; or
+
+&emsp;“(III) section 924(c) of title 18;”.
+
+Subsec. (<i>o</i>). Pub. L. 107–296, §1112(n)(2), (3), redesignated subsec. (p) as (<i>o</i>) and struck out former subsec. (<i>o</i>) which provided that provisions of law relating to the seizure, summary and judicial forfeiture, and condemnation of property for violation of Customs laws, the remission or mitigation of such forfeiture, and the compromise of claims, would apply to seizures and forfeitures incurred, or alleged to have been incurred, under any applicable law enforced or administered by the Bureau of Alcohol, Tobacco and Firearms, and that duties that were imposed upon a Customs officer or any other person with respect to the seizure and forfeiture of property under the Customs laws would be performed with respect to seizures and forfeitures of property under this section by such officers, agents, or any other person as had been authorized or designated for that purpose by the Secretary.
+
+Subsec. (<i>o</i>)(1). Pub. L. 107–296, §1112(n)(4), substituted “Tax and Trade Bureau” for “Bureau of Alcohol, Tobacco and Firearms”.
+
+Subsec. (p). Pub. L. 107–296, §1112(n)(3), redesignated subsec. (p) as (<i>o</i>).
 
 1997—Subsec. (g)(3)(C). Pub. L. 105–61, §122(b), inserted at end “Unobligated balances remaining pursuant to section 4(B) of 9703(g) shall also be carried forward.”
 
@@ -360,9 +350,23 @@ Subsec. (g)(4)(A). Pub. L. 103–322, §90205(c)(2), struck out “(i)” after 
 
 Subsec. (e). Pub. L. 103–182, §685(3), substituted “may” for “shall” before “be kept on deposit”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Law Enforcement Training Center of the Department of the Treasury to the Secretary of Homeland Security, and for treatment of related references, see sections 203(4), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Unavailable Collections
 
-Section 122(a) of Pub. L. 105–61 provided that: “The Secretary of the Treasury is authorized to receive allunavailable collections transferred from the Special Forfeiture Fund established by section 26073 \[6073\] of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1509) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund (31 U.S.C. 9703(a)), to become available for obligation on October 1, 1998, as revenue available for purposes identified under 31 U.S.C. 9703(g)(4)(B).”
+Section 122(a) of Pub. L. 105–61 provided that: “The Secretary of the Treasury is authorized to receive all unavailable collections transferred from the Special Forfeiture Fund established by section 26073 \[6073\] of the Anti-Drug Abuse Act of 1988 (21 U.S.C. 1509) by the Director of the Office of Drug Control Policy as a deposit into the Treasury Forfeiture Fund (31 U.S.C. 9703(a)), to become available for obligation on October 1, 1998, as revenue available for purposes identified under 31 U.S.C. 9703(g)(4)(B).”
 
 #### Section Referred to in Other Sections
 

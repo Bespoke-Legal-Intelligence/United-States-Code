@@ -1,6 +1,6 @@
 ### §403–2. Exchange of lands within Shenandoah National Park
 
-The Secretary of the Interior may accept title to approximately 37.44 acres of land within the authorized boundaries of the Shenandoah National Park, said land fronting on United States Highway Numbered 211 and being more particularly described as follows:
+The Secretary of the Interior may accept title to approximately 37.44 acres of land within theauthorized boundaries of the Shenandoah National Park, said land fronting on United States Highway Numbered 211 and being more particularly described as follows:
 
 Beginning at park monument H–8, thence with the park boundary line the following courses and distances: north 51 degrees 57 minutes, east 2,242.0 feet to park monument H–9; south 26 degrees 40 minutes, east 51.0 feet to park monument H–10; south 32 degrees 40 minutes, east 340.0 feet to park monument H–11; south 11 degrees 35 minutes, east 190.0 feet to park monument H–12; south 41 degrees 26 minutes, east 329.0 feet to park monument H–13; thence crossing Pass Run south 57 degrees 00 minutes 36 seconds, west 1,871.32 feet to a marked white oak tree near the northeast edge of the fire road on top of Piney Mountain, thence north 58 degrees 36 minutes, west 771.16 feet to the point of beginning.
 

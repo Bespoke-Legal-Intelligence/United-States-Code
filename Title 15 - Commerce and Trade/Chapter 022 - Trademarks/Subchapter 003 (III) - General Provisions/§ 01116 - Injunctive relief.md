@@ -76,23 +76,23 @@ It shall be the duty of the clerks of such courts within one month after the fil
 
 (B) In connection with a hearing under this paragraph, the court may make such orders modifying the time limits for discovery under the Rules of Civil Procedure as may be necessary to prevent the frustration of the purposes of such hearing.
 
-(11) A person who suffers damage by reason of a wrongful seizure under this subsection has a cause of action against the applicant for the order under which such seizure was made, and shall be entitled to recover such relief as may be appropriate, including damages for lost profits, cost of materials, loss of good will, and punitive damages in instances where the seizure was sought in bad faith, and, unless the court finds extenuating circumstances, to recover a reasonable attorney's fee. The court in its discretion may award prejudgment interest on relief recovered under this paragraph, at an annual interest rate established under section 6621 of title 26, commencing on the date of service of the claimant's pleading setting forth the claim under this paragraph and ending on the date such recovery is granted, or for such shorter time as the court deems appropriate.
+(11) A person who suffers damage by reason of a wrongful seizure under this subsection has a cause of action against the applicant for the order under which such seizure was made, and shall be entitled to recover such relief as may be appropriate, including damages for lost profits, cost of materials, loss of good will, and punitive damages in instances where the seizure was sought in bad faith, and, unless the court finds extenuating circumstances, to recover a reasonable attorney's fee. The court in its discretion may award prejudgment interest on relief recovered under this paragraph, at an annual interest rate established under section 6621(a)(2) of title 26, commencing on the date of service of the claimant's pleading setting forth the claim under this paragraph and ending on the date such recovery is granted, or for such shorter time as the court deems appropriate.
 
-(July 5, 1946, ch. 540, title VI, §34, 60 Stat. 439; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, §1503(1), Oct. 12, 1984, 98 Stat. 2179; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095; Pub. L. 100–667, title I, §128(c)–(e), Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §6, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(a)(1), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3003(a)(1), title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–548, 1501A–583.)
+(July 5, 1946, ch. 540, title VI, §34, 60 Stat. 439; Pub. L. 93–596, §1, Jan. 2, 1975, 88 Stat. 1949; Pub. L. 98–473, title II, §1503(1), Oct. 12, 1984, 98 Stat. 2179; Pub. L. 100–667, title I, §128(c)–(e), Nov. 16, 1988, 102 Stat. 3945; Pub. L. 104–153, §6, July 2, 1996, 110 Stat. 1388; Pub. L. 106–43, §3(a)(1), Aug. 5, 1999, 113 Stat. 218; Pub. L. 106–113, div. B, §1000(a)(9) \[title III, §3003(a)(1), title IV, §4732(b)(1)(B)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–548, 1501A–583; Pub. L. 107–273, div. C, title III, §13207(b)(8)–(10), Nov. 2, 2002, 116 Stat. 1908.)
 
 #### References in Text
 
 The Rules of Civil Procedure, referred to in subsec. (d)(10)(B), probably means the Federal Rules of Civil Procedure, which are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
-
-#### Codification
-
-“Section 220506 of title 36” substituted in subsec. (d)(1)(A), (B)(ii) for “section 110 of the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 380)”, on authority of Pub. L. 105–225, §5(b), Aug. 12, 1998, 112 Stat. 1499, the first section of which enacted Title 36, Patriotic and National Observances, Ceremonies, and Organizations.
 
 #### Prior Provisions
 
 Acts Feb. 20, 1905, ch. 592, §§19, 20, 33 Stat. 729; Mar. 3, 1911, ch. 231, §291, 36 Stat. 1167; June 25, 1936, ch. 804, 49 Stat. 1921.
 
 #### Amendments
+
+2002—Subsec. (d)(1)(A), (B)(ii). Pub. L. 107–273, §13207(b)(8), (9), substituted “section 220506 of title 36” for “section 110 of the Act entitled ‘An Act to incorporate the United States Olympic Association’, approved September 21, 1950 (36 U.S.C. 380)”.
+
+Subsec. (d)(11). Pub. L. 107–273, §13207(b)(10), substituted “6621(a)(2) of title 26” for “6621 of title 26”.
 
 1999—Subsec. (a). Pub. L. 106–113, §1000(a)(9) \[title III, §3003(a)(1)\], substituted “(a), (c), or (d)” for “(a) or (c)” in first sentence.
 
@@ -107,8 +107,6 @@ Subsec. (c). Pub. L. 106–113, §1000(a)(9) \[title IV, §4732(b)(1)(B)\], subs
 Subsec. (c). Pub. L. 100–667, §128(d), substituted “proceeding involving a mark registered” for “proceeding arising” and “judgment is entered or an appeal is taken” for “decision is rendered, appeal taken or a decree issued”.
 
 Subsec. (d)(1)(B). Pub. L. 100–667, §128(e), inserted “on or” after “or designation used” in concluding provisions.
-
-1986—Subsec. (d)(11). Pub. L. 99–514 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
 
 1984—Pub. L. 98–473 designated first, second, and third undesignated pars. as subsecs. (a), (b), and (c), respectively and added subsec. (d).
 
@@ -133,6 +131,10 @@ Amendment by Pub. L. 93–596 effective Jan. 2, 1975, see section 4 of Pub. L. 9
 Repeal of inconsistent provisions, effect of this chapter on pending proceedings and existing registrations and rights under prior acts, see notes set out under section 1051 of this title.
 
 #### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 For transfer of functions of other officers, employees, and agencies of Department of Commerce, with certain exceptions, to Secretary of Commerce, with power to delegate, see Reorg. Plan No. 5 of 1950, §§1, 2, eff. May 24, 1950, 15 F.R. 3174, 64 Stat. 1263, set out in the Appendix to Title 5, Government Organization and Employees.
 

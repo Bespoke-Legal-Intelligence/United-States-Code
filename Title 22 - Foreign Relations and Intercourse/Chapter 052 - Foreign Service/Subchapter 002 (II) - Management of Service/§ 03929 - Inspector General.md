@@ -74,7 +74,7 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 > The Secretary of State shall transmit a copy of such annual report within 30 days after receiving it to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees, together with a report of the Secretary of State containing any comments which the Secretary of State deems appropriate. Within 60 days after transmitting such reports to those committees, the Secretary of State shall make copies of them available to the public upon request and at a reasonable cost.
 
-(3) The Inspector General shall report immediately to the Secretary of State whenever the Inspector General becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relating to the administration of activities and operations of Foreign Service posts or bureaus or other operating units of the Department of State. The Secretary of State shall transmit any such report to the Committee on Foreign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees within 7 days after receiving it, together with a report by the Secretary of State containing any comments the Secretary of State deems appropriate.
+(3) The Inspector General shall report immediately to the Secretary of State whenever the Inspector General becomes aware of particularly serious or flagrant problems, abuses, or deficiencies relating to the administration of activities and operations of Foreign Service posts or bureaus or other operating units of the Department of State. The Secretary of State shall transmit any such report to the Committee onForeign Relations of the Senate and the Committee on Foreign Affairs of the House of Representatives and to other appropriate committees within 7 days after receiving it, together with a report by the Secretary of State containing any comments the Secretary of State deems appropriate.
 
 (4) Nothing in this subsection shall be construed to authorize the public disclosure by any individual of any information which is—
 
@@ -92,7 +92,7 @@ Final reports of investigations.—In order to ensure that final reports of inve
 
 #### (f) Reception and investigation of complaints or information; disclosure of identity of informer
 
-(1) The Inspector General may receive and investigate complaints or information from amember of the Service or employee of the Department concerning the possible existence of an activity constituting a violation of laws or regulations, constituting mismanagement, gross waste of funds, or abuse of authority, or constituting a substantial and specific danger to public health or safety.
+(1) The Inspector General may receive and investigate complaints or information from a member of the Service or employee of the Department concerning the possible existence of an activity constituting a violation of laws or regulations, constituting mismanagement, gross waste of funds, or abuse of authority, or constituting a substantial and specific danger to public health or safety.
 
 (2) The Inspector General shall not, after receipt of a complaint or information from a member of the Service or employee of the Department, disclose the identity of such individual without the consent of such individual, unless the Inspector General determines such disclosure is unavoidable during the course of the investigation.
 

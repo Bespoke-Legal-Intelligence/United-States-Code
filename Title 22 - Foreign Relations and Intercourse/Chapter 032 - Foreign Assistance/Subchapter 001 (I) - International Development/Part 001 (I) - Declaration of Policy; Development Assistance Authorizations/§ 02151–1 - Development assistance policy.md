@@ -20,7 +20,7 @@ Assistance under this part should be used not only for the purpose of transferri
 
 &emsp;(3) United States bilateral development assistance should give high priority to undertakings submitted by host governments which directly improve the lives of the poorest of their people and their capacity to participate in the development of their countries, while also helping such governments enhance their planning, technical, and administrative capabilities needed to insure the success of such undertakings.
 
-&emsp;(4) Development assistance provided under this part shall be concentrated in countries which will make the most effective use of such assistance to help satisfy basic human needs of poor people through equitable growth, especially in those countries having the greatest need for outside assistance. In order to makepossible consistent and informed judgments in this respect, the President shall assess the commitment and progress of countries in moving toward the objectives and purposes of this part by utilizing criteria, including but not limited to the following:
+&emsp;(4) Development assistance provided under this part shall be concentrated in countries which will make the most effective use of such assistance to help satisfy basic human needs of poor people through equitable growth, especially in those countries having the greatest need for outside assistance. In order to make possible consistent and informed judgments in this respect, the President shall assess the commitment and progress of countries in moving toward the objectives and purposes of this part by utilizing criteria, including but not limited to the following:
 
 &emsp;&emsp;(A) increase in agricultural productivity per unit of land through small-farm, labor-intensive agriculture;
 

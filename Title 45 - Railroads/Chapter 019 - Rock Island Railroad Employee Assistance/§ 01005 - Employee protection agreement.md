@@ -26,7 +26,7 @@ Any agreement entered into under subsection (a) of this section, and any benefit
 
 #### (d) Administration of funds; promulgation of regulations
 
-The Board shall, in such manner as it shall prescribe by regulation, administer the distribution of funds under any agreement entered into or benefit schedule prescribed under this section, and shall determine the amount for which each employee is eligible under such agreement or benefit schedule. Such regulation shall include procedures to resolve by final and binding arbitration any dispute over an employee's eligibility or claim.
+The Board shall, in such manner as it shall prescribe by regulation, administer the distribution of funds under any agreement entered into or benefit schedule prescribed under this section, and shall determine the amount for which each employee is eligible under such agreementor benefit schedule. Such regulation shall include procedures to resolve by final and binding arbitration any dispute over an employee's eligibility or claim.
 
 (Pub. L. 96–254, title I, §106, May 30, 1980, 94 Stat. 401; Pub. L. 96–448, title VII, §701(b)(1), Oct. 14, 1980, 94 Stat. 1959; Pub. L. 97–468, title II, §231, Jan. 14, 1983, 96 Stat. 2546.)
 

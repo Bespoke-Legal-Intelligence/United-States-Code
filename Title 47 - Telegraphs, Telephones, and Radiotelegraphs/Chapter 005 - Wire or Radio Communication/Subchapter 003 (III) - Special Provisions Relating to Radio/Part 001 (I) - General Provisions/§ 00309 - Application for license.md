@@ -382,7 +382,7 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 
 &emsp;&emsp;&emsp;(II) reclaim and organize the electromagnetic spectrum in a manner consistent with the objectives described in paragraph (3) of this subsection.
 
-&emsp;&emsp;(ii) Licensees for new services occupying spectrum reclaimed pursuant to clause (i) shall be assigned in accordance with this subsection. The Commission shall complete the assignment of such licenses, and report to the Congress the total revenues from such competitive bidding, by September 30, 2002.
+&emsp;&emsp;(ii) Licensees for new services occupying spectrum reclaimed pursuant to clause (i) shall be assigned in accordance with this subsection.
 
 #### (D) Certain limitations on qualified bidders prohibited
 
@@ -395,6 +395,46 @@ Termination of authority.—(A) Except as provided in subparagraph (B), the Comm
 &emsp;&emsp;&emsp;&emsp;(II) the Commission's newspaper cross-ownership rule (47 C.F.R. 73.3555(d)); or
 
 &emsp;&emsp;&emsp;(ii) apply either such rule to preclude such a party that is a winning bidder in a competitive bidding for such spectrum from using such spectrum for digital television service.
+
+#### (15) Commission to determine timing of auctions
+
+#### (A) Commission authority
+
+&emsp;&emsp;Subject to the provisions of this subsection (including paragraph (11)), but notwithstanding any other provision of law, the Commission shall determine the timing of and deadlines for the conduct of competitive bidding under this subsection, including the timing of and deadlines for qualifying for bidding; conducting auctions; collecting, depositing, and reporting revenues; and completing licensing processes and assigning licenses.
+
+#### (B) Termination of portions of auctions 31 and 44
+
+&emsp;&emsp;Except as provided in subparagraph (C), the Commission shall not commence or conduct auctions 31 and 44 on June 19, 2002, as specified in the public notices of March 19, 2002, and March 20, 2002 (DA 02–659 and DA 02–563).
+
+#### (C) Exception
+
+#### (i) Blocks excepted
+
+&emsp;&emsp;&emsp;Subparagraph (B) shall not apply to the auction of—
+
+&emsp;&emsp;&emsp;&emsp;(I) the C-block of licenses on the bands of frequencies located at 710–716 megahertz, and 740–746 megahertz; or
+
+&emsp;&emsp;&emsp;&emsp;(II) the D-block of licenses on the bands of frequencies located at 716–722 megahertz.
+
+#### (ii) Eligible bidders
+
+&emsp;&emsp;&emsp;The entities that shall be eligible to bid in the auction of the C-block and D-block licenses described in clause (i) shall be those entities that were qualified entities, and that submitted applications to participate in auction 44, by May 8, 2002, as part of the original auction 44 short form filing deadline.
+
+#### (iii) Auction deadlines for excepted blocks
+
+&emsp;&emsp;&emsp;Notwithstanding subparagraph (B), the auction of the C-block and D-block licenses described in clause (i) shall be commenced no earlier than August 19, 2002, and no later than September 19, 2002, and the proceeds of such auction shall be deposited in accordance with paragraph (8) not later than December 31, 2002.
+
+#### (iv) Report
+
+&emsp;&emsp;&emsp;Within one year after June 19, 2002, the Commission shall submit a report to Congress—
+
+&emsp;&emsp;&emsp;&emsp;(I) specifying when the Commission intends to reschedule auctions 31 and 44 (other than the blocks excepted by clause (i)); and
+
+&emsp;&emsp;&emsp;&emsp;(II) describing the progress made by the Commission in the digital television transition and in the assignment and allocation of additional spectrum for advanced mobile communications services that warrants the scheduling of such auctions.
+
+#### (D) Return of payments
+
+&emsp;&emsp;Within one month after June 19, 2002, the Commission shall return to the bidders for licenses in the A-block, B-block, and E-block of auction 44 the full amount of all upfront payments made by such bidders for such licenses.
 
 #### (k) Broadcast station renewal procedures
 
@@ -434,13 +474,17 @@ With respect to competing applications for initial licenses or construction perm
 
 &emsp;(3) waive any provisions of its regulations necessary to permit such persons to enter an agreement to procure the removal of a conflict between their applications during the 180-day period beginning on August 5, 1997.
 
-(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17),304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265.)
+(June 19, 1934, ch. 652, title III, §309, 48 Stat. 1085; July 16, 1952, ch. 879, §7, 66 Stat. 715; Mar. 26, 1954, ch. 110, 68 Stat. 35; Jan. 20, 1956, ch. 1, 70 Stat. 3; Pub. L. 86–752, §4(a), Sept. 13, 1960, 74 Stat. 889; Pub. L. 88–306, May 14, 1964, 78 Stat. 193; Pub. L. 88–307, May 14, 1964, 78 Stat. 194; Pub. L. 97–35, title XII, §1242(a), Aug. 13, 1981, 95 Stat. 736; Pub. L. 97–259, title I, §§114, 115, Sept. 13, 1982, 96 Stat. 1094; Pub. L. 98–549, §6(b)(1), Oct. 30, 1984, 98 Stat. 2804; Pub. L. 103–66, title VI, §6002(a), (b)(1), Aug. 10, 1993, 107 Stat. 387, 392; Pub. L. 103–414, title III, §§303(a)(16), (17), 304(a)(9), Oct. 25, 1994, 108 Stat. 4295, 4297; Pub. L. 103–465, title VIII, §801, Dec. 8, 1994, 108 Stat. 5050; Pub. L. 104–104, title II, §204(a), title IV, §403(j), title VII, §§707(a), 710(c), Feb. 8, 1996, 110 Stat. 112, 131, 154, 161; Pub. L. 105–33, title III, §§3002(a)(1)–(3), 3003, Aug. 5, 1997, 111 Stat. 258, 260, 265; Pub. L. 107–195, §3(a), (b)(1), June 19, 2002, 116 Stat. 716, 717.)
 
 #### References in Text
 
 The National Telecommunications and Information Administration Organization Act, referred to in subsec. (j)(9)(B), is title I of Pub. L. 102–538, Oct. 27, 1992, 106 Stat. 3533, as amended. Part B of the Act is classified generally to subchapter II (§921 et seq.) of chapter 8 of this title. For complete classification of this Act to the Code, see Short Title note set out under section 901 of this title and Tables.
 
 #### Amendments
+
+2002—Subsec. (j)(14)(C)(ii). Pub. L. 107–195, §3(b)(1), struck out at end “The Commission shall complete the assignment of such licenses, and report to the Congress the total revenues from such competitive bidding, by September 30, 2002.”
+
+Subsec. (j)(15). Pub. L. 107–195, §3(a), added par. (15).
 
 1997—Subsec. (i)(1). Pub. L. 105–33, §3002(a)(2)(A), added par. (1) and struck out heading and text of former par. (1). Text read as follows: “If—
 
@@ -470,7 +514,7 @@ Uses to which bidding may apply.—A use of the electromagnetic spectrum is desc
 
 &emsp;“(B) a system of competitive bidding will promote the objectives described in paragraph (3).”
 
-Subsec. (j)(3). Pub. L. 105–33, §3002(a)(1)(B)(i), inserted after second sentence of introductory provisions “The Commission shall, directly or by contract, provide for the design and conduct (for purposes of testing) of competitive bidding using a contingent combinatorial bidding system that permits prospective bidders to bid on combinations or groups of licenses in a single bid and to enter multiple alternative bids within a single bidding round.”
+Subsec. (j)(3). Pub. L. 105–33, §3002(a)(1)(B)(i), inserted after second sentence of introductory provisions “The Commission shall, directly or by contract, provide for the design and conduct (for purposes of testing) of competitive bidding using a contingent combinatorial bidding system that permits prospective bidders to bid oncombinations or groups of licenses in a single bid and to enter multiple alternative bids within a single bidding round.”
 
 Subsec. (j)(3)(E). Pub. L. 105–33, §3002(a)(1)(B)(ii)–(iv), added subpar. (E).
 
@@ -512,7 +556,7 @@ Subsec. (j). Pub. L. 103–66, §6002(a), added subsec. (j).
 
 1982—Subsec. (f). Pub. L. 97–259, §114, substituted “temporary” for “emergency” wherever appearing, “additional periods” for “one additional period”, and “180 days” for “ninety days” wherever appearing.
 
-Subsec. (i)(1). Pub. L. 97–259, §115(a), substituted “application” for “applicant” after “more than one”, and“that each such application is acceptable for filing” for “the qualifications of each such applicant under section 308(b) of this title”.
+Subsec. (i)(1). Pub. L. 97–259, §115(a), substituted “application” for “applicant” after “more than one”, and “that each such application is acceptable for filing” for “the qualifications of each such applicant under section 308(b) of this title”.
 
 Subsec. (i)(2). Pub. L. 97–259, §115(b), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “The determination of the Commission under paragraph (1) with respect to the qualifications of applicants for an initial license or construction permit shall be made after notice and opportunity for a hearing, except that the provisions of section 409(c)(2) of this title shall not apply in the case of any such determination.”
 
@@ -558,13 +602,41 @@ Section 4(d)(1)–(3) of Pub. L. 86–752 provided that:
 
 “(3) Section 309 of the Communications Act of 1934 \[this section\], as in effect immediately before the effective date of subsection (a) of this section, shall, on and after such effective date, apply only to applications to which section 308 of such Act \[section 308 of this title\] apply which are filed before such effective date and not substantially amended on or after such effective date and with respect to which the Commission does not permit petitions to deny to be filed as provided in clause (C) of paragraph (2) of this subsection.”
 
+#### Findings
+
+Pub. L. 107–195, §2, June 19, 2002, 116 Stat. 715, provided that: “Congress finds the following:
+
+&emsp;“(1) Circumstances in the telecommunications market have changed dramatically since the auctioning of spectrum in the 700 megahertz band was originally mandated by Congress in 1997, raising serious questions as to whether the original deadlines, or the subsequent revision of the deadlines, are consistent with sound telecommunications policy and spectrum management principles.
+
+&emsp;“(2) No comprehensive plan yet exists for allocating additional spectrum for third-generation wireless and other advanced communications services. The Federal Communications Commission should have the flexibility to auction frequencies in the 700 megahertz band for such purposes.
+
+&emsp;“(3) The study being conducted by the National Telecommunications and Information Administration in consultation with the Department of Defense to determine whether the Department of Defense can share or relinquish additional spectrum for third generation wireless and other advanced communications services will not be completed until after the June 19th auction date for the upper 700 megahertz band, and long after the applications must be filed to participate in the auction, thereby creating further uncertainty as to whether the frequencies in the 700 megahertz band will be put to their highest and best use for the benefit of consumers.
+
+&emsp;“(4) The Federal Communications Commission is also in the process of determining how to resolve the interference problems that exist in the 800 megahertz band, especially for public safety. One option being considered for the 800 megahertz band would involve the 700 megahertz band. The Commission should not hold the 700 megahertz auction before the 800 megahertz interference issues are resolved or a tenable plan has been conceived.
+
+&emsp;“(5) The 700 megahertz band is currently occupied by television broadcasters, and will be so until the transfer to digital television is completed. This situation creates a tremendous amount of uncertainty concerning when the spectrum will be available and reduces the value placed on the spectrum by potential bidders. The encumbrance of the 700 megahertz band reduces both the amount of money that the auction would be likely to produce and the probability that the spectrum would be purchased by the entities that valued the spectrum the most and would put the spectrum to its most productive use.
+
+&emsp;“(6) The Commission's rules governing voluntary mechanisms for vacating the 700 megahertz band by broadcast stations—
+
+&emsp;&emsp;“(A) produced no certainty that the band would be available for advanced mobile communications services, public safety operations, or other wireless services any earlier than the existing statutory framework provides; and
+
+&emsp;&emsp;“(B) should advance the transition of digital television and must not result in the unjust enrichment of any incumbent licensee.”
+
+#### Compliance With Auction Authority
+
+Pub. L. 107–195, §4, June 19, 2002, 116 Stat. 717, provided that: “The Federal Communications Commission shall conduct rescheduled auctions 31 and 44 prior to the expiration of the auction authority under section 309(j)(11) of the Communications Act of 1934 (47 U.S.C. 309(j)(11)).”
+
+#### Preservation of Broadcaster Obligations
+
+Pub. L. 107–195, §5, June 19, 2002, 116 Stat. 717, provided that: “Nothing in this Act \[see Short Title of 2002 Amendment note set out under section 609 of this title\] shall be construed to relieve television broadcast station licensees of the obligation to complete the digital television service conversion as required by section 309(j)(14) of the Communications Act of 1934 (47 U.S.C. 309(j)(14)).”
+
 #### Deadline for Collection
 
-Section 3007 of title III of Pub. L. 105–33 provided that: “The Commission shall conduct the competitive bidding required under this title \[enacting section 337 of this title, amending this section and sections 153, 303, and 923 to 925 of this title, enacting provisions set out as notes under this section and sections 153, 254, and 925 of this title, and repealing provisions set out as a note under this section\] or the amendments made by this title in a manner that ensures that all proceeds of such bidding are deposited in accordance with section 309(j)(8) of the Communications Act of 1934 \[47 U.S.C. 309(j)(8)\] not later than September 30, 2002.”
+Pub. L. 105–33, title III, §3007, Aug. 5, 1997, 111 Stat. 269, which provided that the Commission was to conduct the competitive bidding required under title III of Pub. L. 105–33, which enacted section 337 of this title, amended this section and sections 153, 303, and 923 to 925 of this title, enacted provisions set out as notes under this section and sections 153, 254, and 925 of this title, and repealed provisions set out as a note under this section, in a manner that ensured that all proceeds of such bidding would be deposited in accordance with section 309(j)(8) of this title not later than Sept. 30, 2002, was repealed by Pub. L. 107–195, §3(b)(2), June 19, 2002, 116 Stat. 717.
 
 #### Administrative Procedures for Spectrum Auctions
 
-Section 3008 of title III of Pub. L. 105–33 provided that: “Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no application for an instrument of authorization for frequencies assigned under this title \[enacting section 337 of this title, amending this section and sections 153, 303, and 923 to 925 of this title, enacting provisions set out as notes under this section and sections 153, 254, and 925 of this title, and repealing provisions set out as a note under this section\] (or amendments made by this title) shall be granted by the Commission earlier than 7 days following issuance of public notice by the Commission of the acceptance for filing of such application or of any substantial amendment thereto. Notwithstanding section 309(d)(1) of such Act (47 U.S.C. 309(d)(1)), the Commission may specify a period (no less than 5 days following issuance of such public notice) for the filing of petitions to deny any application for an instrument of authorization for such frequencies.”
+Section 3008 of title III of Pub. L. 105–33 provided that: “Notwithstanding section 309(b) of the Communications Act of 1934 (47 U.S.C. 309(b)), no application for an instrument of authorization for frequencies assigned under this title \[enacting section 337 of this title, amending this section and sections 153, 303, and 923 to 925 of this title, enacting provisions set out as notes under this section and sections 153, 254, and 925 of this title, and repealing provisions set out as a note under this section\] (or amendments made by this title) shall be granted by the Commission earlier than 7 days following issuance of public notice by the Commissionof the acceptance for filing of such application or of any substantial amendment thereto. Notwithstanding section 309(d)(1) of such Act (47 U.S.C. 309(d)(1)), the Commission may specify a period (no less than 5 days following issuance of such public notice) for the filing of petitions to deny any application for an instrument of authorization for such frequencies.”
 
 #### Deadlines for Commission Action Regarding Competitive Bidding
 
@@ -572,7 +644,7 @@ Section 6002(d)(1), (2) of Pub. L. 103–66 provided that:
 
 “(1)
 
-General rulemaking.—The Federal Communications Commission shall prescribe regulations to implement section 309(j) of the Communications Act of 1934\[47 U.S.C. 309(j)\] (as added by this section) within 210 days after the date of enactment of this Act \[Aug. 10, 1993\].
+General rulemaking.—The Federal Communications Commission shall prescribe regulations to implement section 309(j) of the Communications Act of 1934 \[47 U.S.C. 309(j)\] (as added by this section) within 210 days after the date of enactment of this Act \[Aug. 10, 1993\].
 
 “(2)
 

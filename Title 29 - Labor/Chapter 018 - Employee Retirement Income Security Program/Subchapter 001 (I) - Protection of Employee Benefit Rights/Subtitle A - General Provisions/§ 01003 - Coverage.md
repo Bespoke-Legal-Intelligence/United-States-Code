@@ -24,19 +24,25 @@ The provisions of this subchapter shall not apply to any employee benefit plan i
 
 &emsp;(5) such plan is an excess benefit plan (as defined in section 1002(36) of this title) and is unfunded.
 
-> The provisions of part 7 of subtitle B shall not apply to a health insurance issuer (as defined in section 1191b(b)(2) of this title) solely by reason of health insurance coverage (as defined in section 1191b(b)(1) of this title) provided by such issuer in connection with a group health plan (as defined in section 1191b(a)(1) of this title) if the provisions of this subchapter do not apply to such group health plan.
+> The provisions of part 7 of subtitle B of this subchapter shall not apply to a health insurance issuer (as defined in section 1191b(b)(2) of this title) solely by reason of health insurance coverage (as defined in section 1191b(b)(1) of this title) provided by such issuer in connection with a group health plan (as defined in section 1191b(a)(1) of this title) if the provisions of this subchapter do not apply to such group health plan.
 
 #### (c) Voluntary employee contributions to accounts and annuities
 
-If a pension plan allows an employee to elect to make voluntary employee contributions to accounts and annuities as provided in section 408(q) of title 26, such accounts and annuities (and contributions thereto) shall not be treated as part of such plan (or as a separate pension plan) for purposes of any provision of this subchapter other than section 1103(c), 1104, or 1105 of this title (relating to exclusive benefit, and fiduciary and co-fiduciary responsibilities).
+If a pension plan allows an employee to elect to make voluntary employee contributions to accounts and annuities as provided in section 408(q) of title 26, such accounts and annuities (and contributions thereto) shall not be treatedas part of such plan (or as a separate pension plan) for purposes of any provision of this subchapter other than section 1103(c), 1104, or 1105 of this title (relating to exclusive benefit, and fiduciary and co-fiduciary responsibilities) and part 5 of subtitle B of this subchapter <sup>1</sup> (relating to administration and enforcement). Such provisions shall apply to such accounts and annuities in a manner similar to their application to a simplified employee pension under section 408(k) of title 26.
 
-(Pub. L. 93–406, title I, §4, Sept. 2, 1974, 88 Stat. 839; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 104–191, title I, §101(d), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(A), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 107–16, title VI, §602(b), June 7, 2001, 115 Stat. 96.)
+(Pub. L. 93–406, title I, §4, Sept. 2, 1974, 88 Stat. 839; Pub. L. 101–239, title VII, §7891(a)(1), Dec. 19, 1989, 103 Stat. 2445; Pub. L. 104–191, title I, §101(d), Aug. 21, 1996, 110 Stat. 1952; Pub. L. 104–204, title VI, §603(b)(3)(A), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 107–16, title VI, §602(b), June 7, 2001, 115 Stat. 96; Pub. L. 107–147, title IV, §411(i)(2), Mar. 9, 2002, 116 Stat. 47.)
 
 #### Amendment of Section
 
 <i>For termination of amendment by section 901 of Pub. L. 107–16, see Effective and Termination Dates of 2001 Amendment note below.</i>
 
+#### References in Text
+
+Part 5 of subtitle B of this subchapter, referred to in subsec. (c), was in the original a reference to “part 5” and was translated as meaning part 5 of subtitle B of title I of Pub. L. 93–406, to reflect the probable intent of Congress.
+
 #### Amendments
+
+2002—Subsec. (c). Pub. L. 107–147 inserted “and part 5 of subtitle B of this subchapter (relating to administration and enforcement)” after “co-fiduciary responsibilities)” and “Such provisions shall apply to such accounts and annuities in a manner similar to their application to a simplified employee pension under section 408(k) of title 26.” at end.
 
 2001—Subsec. (a). Pub. L. 107–16, §§602(b)(2), 901, temporarily inserted “or (c)” after “subsection (b)” in introductory provisions. See Effective and Termination Dates of 2001 Amendment note below.
 
@@ -44,9 +50,13 @@ Subsec. (c). Pub. L. 107–16, §§602(b)(1), 901, temporarily added subsec. (c)
 
 1996—Subsec. (b). Pub. L. 104–204, in concluding provisions, made technical amendment to references in original act which appear in text as references to section 1191b of this title.
 
-Pub. L. 104–191 inserted at end “The provisions of part 7 of subtitle B shall not apply to a health insurance issuer (as defined in section 1191b(b)(2) of this title) solely by reason of health insurance coverage (as defined in section 1191b(b)(1) of this title) provided by such issuer in connection with a group health plan (as defined in section 1191b(a)(1) of this title) if the provisions of this subchapter do not apply to such group health plan.”
+Pub. L. 104–191 inserted at end “The provisions of part 7 of subtitle B of this subchapter shall not apply to a health insurance issuer (as defined in section 1191b(b)(2) of this title) solely by reason of health insurance coverage (as defined in section 1191b(b)(1) of this title) provided by such issuer in connection with a group health plan (as defined in section 1191b(a)(1) of this title) if the provisions of this subchapter do not apply to such group health plan.”
 
 1989—Subsec. (b)(2). Pub. L. 101–239 substituted “Internal Revenue Code of 1986” for “Internal Revenue Code of 1954”, which for purposes of codification was translated as “title 26” thus requiring no change in text.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–147 effective as if included in the provisions of the Economic Growth and Tax Relief Reconciliation Act of 2001, Pub. L. 107–16, to which such amendment relates, see section 411(x) of Pub. L. 107–147, set out as a note under section 25B of Title 26, Internal Revenue Code.
 
 #### Effective and Termination Dates of 2001 Amendment
 

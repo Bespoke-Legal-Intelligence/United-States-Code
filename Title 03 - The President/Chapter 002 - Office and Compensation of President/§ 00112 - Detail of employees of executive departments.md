@@ -12,7 +12,7 @@ The head of any department, agency, or independent establishment of the executiv
 
 #### Effective Date
 
-Section applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, set out as an Effective Date of 1978 Amendment note under section 102 of this title.
+Section applicable to any fiscal year beginning on or after Oct. 1, 1978, see section 6(a) of Pub. L. 95–570, setout as an Effective Date of 1978 Amendment note under section 102 of this title.
 
 #### Authority With Respect to Detailed Employees
 

@@ -10,7 +10,7 @@ The Director of the Office of Educational Technology (hereafter in this section 
 
 &emsp;(1) in support of the overall national technology policy and in consultation with other Federal departments or agencies which the Director determines appropriate, provide leadership to the Nation in the use of technology to promote achievement of the National Education Goals and to increase opportunities for all students to achieve State content and challenging State student performance standards;
 
-&emsp;(2) review all programs and training functions administered by the Department and recommend policies in order to promote increased use of technology and technology planning throughout all such programs and functions;
+&emsp;(2) review all programs and training functions administered by the Department and recommend policies in order to promote increased use of technology and technologyplanning throughout all such programs and functions;
 
 &emsp;(3) review all relevant programs supported by the Department to ensure that such programs are coordinated with and support the national long-range technology plan developed pursuant to section 5862(b) <sup>1</sup> of this title; and
 
@@ -18,7 +18,7 @@ The Director of the Office of Educational Technology (hereafter in this section 
 
 #### (c) Officers and employees
 
-The Director is authorized to select, appoint, and employ such officers and employees as may be necessary to carry out the functions of theOffice, subject to the provisions of title 5 (governing appointments in the competitive service), and the provisions of chapter 51 and subchapter III of chapter 53 of such title (relating to classification and General Schedule pay rates).
+The Director is authorized to select, appoint, and employ such officers and employees as may be necessary to carry out the functions of the Office, subject to the provisions of title 5 (governing appointments in the competitive service), and the provisions of chapter 51 and subchapter III of chapter 53 of such title (relating to classification and General Schedule pay rates).
 
 #### (d) Experts and consultants
 

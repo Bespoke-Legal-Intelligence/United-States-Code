@@ -14,7 +14,7 @@ The phrase “when the United States is at war” was inserted at the beginning 
 
 Phrase (2), reading “or committed in connection with the acquisition, care, handling, custody, control or disposition of any real or personal property of the United States” was derived from section 28 of the Surplus Property Act of 1944 which amended said section 590a of title 18, U.S.C., 1940 ed. This act is temporary by its terms and relates only to offenses committed in the disposition of surplus property thereunder.
 
-The revised section extends its provisions to all offenses involving the disposition of any property, real orpersonal, of the United States. This extension is more apparent than real since phrase (2), added as the result of said Act, was merely a more specific statement of offenses embraced in phrase (1) of this section.
+The revised section extends its provisions to all offenses involving the disposition of any property, real or personal, of the United States. This extension is more apparent than real since phrase (2), added as the result of said Act, was merely a more specific statement of offenses embraced in phrase (1) of this section.
 
 The revised section is written in general terms as permanent legislation applicable whenever the United States is at war. (See, also, reviser's note under section 284 of this title.)
 

@@ -8,13 +8,13 @@ For purposes of this section, the term “hydrographic product” means any publ
 
 #### (1) In general
 
-&emsp;The Administrator may—
+&emsp;The Administrator—
 
-&emsp;&emsp;(A) develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title;
+&emsp;&emsp;(A) by not later than 2 years after December 19, 2002, shall, subject to the availability of appropriations, develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title;
 
-&emsp;&emsp;(B) authorize the use of the emblem or any trademark of the Administration on a hydrographic product certified under subparagraph (A); and
+&emsp;&emsp;(B) may authorize the use of the emblem or any trademark of the Administration on a hydrographic product certified under subparagraph (A); and
 
-&emsp;&emsp;(C) charge a fee for such certification and use.
+&emsp;&emsp;(C) may charge a fee for such certification and use.
 
 #### (2) Limitation on fee amount
 
@@ -22,7 +22,7 @@ For purposes of this section, the term “hydrographic product” means any publ
 
 #### (c) Limitation on liability
 
-The Government of the United States shall not be liable for any negligence by a person thatproduces hydrographic products certified under this section.
+The Government of the United States shall not be liable for any negligence by a person that produces hydrographic products certified under this section.
 
 #### (d) Hydrographic Services Account
 
@@ -50,7 +50,17 @@ After November 13, 1998, the Administrator may not—
 
 &emsp;(2) increase the amount of any fee or other charge for the provision of any hydrographic service except as authorized by this section and section 1307 of title 44.
 
-(Pub. L. 105–384, title III, §304, Nov. 13, 1998, 112 Stat. 3455.)
+(Pub. L. 105–384, title III, §304, Nov. 13, 1998, 112 Stat. 3455; Pub. L. 107–372, title I, §104(a), Dec. 19, 2002, 116 Stat. 3080.)
+
+#### Amendments
+
+2002—Subsec. (b)(1). Pub. L. 107–372 reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “The Administrator may—
+
+&emsp;“(A) develop and implement a quality assurance program that is equally available to all applicants, under which the Administrator may certify hydrographic products that satisfy the standards promulgated by the Administrator under section 892a(a)(3) of this title;
+
+&emsp;“(B) authorize the use of the emblem or any trademark of the Administration on a hydrographic product certified under subparagraph (A); and
+
+&emsp;“(C) charge a fee for such certification and use.”
 
 #### Section Referred to in Other Sections
 

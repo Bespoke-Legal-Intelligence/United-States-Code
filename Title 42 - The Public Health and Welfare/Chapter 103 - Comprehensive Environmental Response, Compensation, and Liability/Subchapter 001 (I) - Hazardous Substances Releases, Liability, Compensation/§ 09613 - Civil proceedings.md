@@ -2,11 +2,11 @@
 
 #### (a) Review of regulations in Circuit Court of Appeals of the United States for the District of Columbia
 
-Review of any regulation promulgated under this chapter may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within ninety days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceeding for enforcement or to obtain damages or recovery of response costs.
+Review of any regulation promulgated under this chapter may be had upon application by any interested person only in the Circuit Court of Appeals of the United States for the District of Columbia. Any such application shall be made within ninety days from the date of promulgation of such regulations. Any matter with respect to which review could have been obtained under this subsection shall not be subject to judicial review in any civil or criminal proceedingfor enforcement or to obtain damages or recovery of response costs.
 
 #### (b) Jurisdiction; venue
 
-Except as provided in subsections (a) and (h) of this section, the United States district courtsshall have exclusive original jurisdiction over all controversies arising under this chapter, without regard to the citizenship of the parties or the amount in controversy. Venue shall lie in any district in which the release or damages occurred, or in which the defendant resides, may be found, or has his principal office. For the purposes of this section, the Fund shall reside in the District of Columbia.
+Except as provided in subsections (a) and (h) of this section, the United States district courts shall have exclusive original jurisdiction over all controversies arising under this chapter, without regard to the citizenship of the parties or the amount in controversy. Venue shall lie in any district in which the release or damages occurred, or in which the defendant resides, may be found, or has his principal office. For the purposes of this section, the Fund shall reside in the District of Columbia.
 
 #### (c) Controversies or other matters resulting from tax collection or tax regulation review
 
@@ -56,7 +56,7 @@ In any action by the United States under this chapter, process may be served in 
 
 &emsp;&emsp;(A) for a removal action, within 3 years after completion of the removal action, except that such cost recovery action must be brought within 6 years after a determination to grant a waiver under section 9604(c)(1)(C) of this title for continued response action; and
 
-&emsp;&emsp;(B) for a remedial action, within 6 years after initiation of physical on-site construction of the remedial action, except that, ifthe remedial action is initiated within 3 years after the completion of the removal action, costs incurred in the removal action may be recovered in the cost recovery action brought under this subparagraph.
+&emsp;&emsp;(B) for a remedial action, within 6 years after initiation of physical on-site construction of the remedial action, except that, if the remedial action is initiated within 3 years after the completion of the removal action, costs incurred in the removal action may be recovered in the cost recovery action brought under this subparagraph.
 
 > &emsp;In any such action described in this subsection, the court shall enter a declaratory judgment on liability for response costs or damages that will be binding on any subsequent action or actions to recover further response costs or damages. A subsequent action or actions under section 9607 of this title for further response costs at the vessel or facility may be maintained at any time during the response action, but must be commenced no later than 3 years after the date of completion of all response action. Except as otherwise provided in this paragraph, an action may be commenced under section 9607 of this title for recovery of costs at any time after such costs have been incurred.
 
@@ -114,7 +114,7 @@ In any action commenced under this chapter or under the Solid Waste Disposal Act
 
 #### (3) Remedy
 
-&emsp;If the court finds that the selection of the response action was arbitrary and capricious or otherwise not in accordance with law, the court shall award (A) only the response costs or damages that are not inconsistent with the national contingency plan, and (B) such other relief as is consistent with the National Contingency Plan.
+&emsp;If the court finds that the selection of the response action was arbitrary and capricious or otherwise not in accordance with law, the court shall award (A) only the response costsor damages that are not inconsistent with the national contingency plan, and (B) such other relief as is consistent with the National Contingency Plan.
 
 #### (4) Procedural errors
 

@@ -86,7 +86,7 @@
 
 &emsp;&emsp;&emsp;(i) under subsection (g)(12)(B) of this section, the day after the date of publication in the Federal Register of notice that article 1904 of the NAFTA has been suspended, or
 
-&emsp;&emsp;&emsp;(ii) under subsection (g)(12)(D) of this section, the day after the date that noticeof settlement is published in the Federal Register.
+&emsp;&emsp;&emsp;(ii) under subsection (g)(12)(D) of this section, the day after the date that notice of settlement is published in the Federal Register.
 
 &emsp;&emsp;(E) For a determination described in clause (vii) of paragraph (2)(B), the 31st day after the date on which notice of the implementation of the determination is published in the Federal Register.
 
@@ -306,7 +306,7 @@ For purposes of this section—
 
 #### (A) Application
 
-&emsp;&emsp;In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of theAgreement, the rules provided in this paragraph shall apply, notwithstanding the provisions of subsection (c) of this section.
+&emsp;&emsp;In the case of a determination for which binational panel review is requested pursuant to article 1904 of the NAFTA or of the Agreement, the rules provided in this paragraph shall apply, notwithstanding the provisions of subsection (c) of this section.
 
 #### (B) General rule
 
@@ -328,7 +328,7 @@ For purposes of this section—
 
 #### (iv) Judicial review
 
-&emsp;&emsp;&emsp;Any action taken by the administering authority or the United States Customs Service under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on any question of law or fact by an action in the nature of mandamus or otherwise.
+&emsp;&emsp;&emsp;Any action taken by the administering authority or the United States Customs Service under this subparagraph shall not be subject to judicial review, and no court of the United States shall have power or jurisdiction to review such action on anyquestion of law or fact by an action in the nature of mandamus or otherwise.
 
 #### (6) Injunctive relief
 
@@ -376,7 +376,7 @@ For purposes of this section—
 
 #### (10) Notification of class or kind rulings
 
-&emsp;In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a) of this section and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
+&emsp;In the case of a determination which is described in paragraph (2)(B)(vi) of subsection (a)of this section and which is subject to the provisions of paragraph (2), the administering authority, upon request, shall inform any interested person of the date on which the Government of the relevant FTA country received notice of the determination under paragraph 4 of article 1904 of the NAFTA or the Agreement.
 
 #### (11) Suspension and termination of suspension of article 1904 of the NAFTA
 
@@ -400,7 +400,7 @@ For purposes of this section—
 
 &emsp;&emsp;If the operation of article 1904 of the NAFTA is suspended in accordance with paragraph 8(a) or 9 of article 1905 of the NAFTA—
 
-&emsp;&emsp;&emsp;(i) upon the request of an authorized person described in subparagraph (C), anyfinal determination that is the subject of a binational panel review or an extraordinary challenge committee review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a) of this section; or
+&emsp;&emsp;&emsp;(i) upon the request of an authorized person described in subparagraph (C), any final determination that is the subject of a binational panel review or an extraordinary challenge committee review shall be transferred to the United States Court of International Trade (in accordance with rules issued by the Court) for review under subsection (a) of this section; or
 
 &emsp;&emsp;&emsp;(ii) in a case in which—
 
@@ -448,7 +448,7 @@ For purposes of this section—
 
 Section 1303 of this title, referred to in subsec. (d), is defined in section 1677(26) of this title to mean section 1330 as in effect on the day before Jan. 1, 1995.
 
-The North American Free Trade Agreement Implementation Act, referred to in subsec. (g)(4)(A), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
+The North American Free Trade Agreement Implementation Act, referred to in subsec. (g)(4)(A), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
 The United States-Canada Free-Trade Agreement Implementation Act of 1988, referred to in subsec. (g)(4)(A), is Pub. L. 100–449, Sept. 28, 1988, 102 Stat. 1851, which is set out as a note under section 2112 of this title. For complete classification of this Act to the Code, see Tables.
 
@@ -508,7 +508,7 @@ Subsec. (g)(3)(B). Pub. L. 103–182, §411(4)(E), substituted first two sentenc
 
 Subsec. (g)(4)(A). Pub. L. 103–182, §411(4)(F), inserted “the North American Free Trade Agreement Implementation Act implementing the binational dispute settlement system under chapter 19 of the NAFTA, or” after “or amendment made by,”, a comma before “violates”, “only” after “may be brought”, and “, which shall have jurisdiction of such action” after “Circuit” and struck out at end “Any action brought under this subparagraph shall be heard and determined by a 3-judge court in accordance with section 2284 of title 28.”
 
-Subsec. (g)(5). Pub. L. 103–182, §411(4)(G), inserted “of the NAFTA or” after “article 1904” in subpars. (A), (B), and (C)(i), substituted “, the relevant FTA Secretary,” for “, the Canadian Secretary,” in subpar. (C)(ii), and inserted “of the NAFTA or” after “chapter 19” in subpar. (C)(iii).
+Subsec. (g)(5). Pub. L. 103–182, §411(4)(G), inserted “of the NAFTA or” after “article 1904” in subpars. (A), (B), and (C)(i), substituted “, the relevant FTA Secretary,” for “, the Canadian Secretary,” in subpar. (C)(ii), andinserted “of the NAFTA or” after “chapter 19” in subpar. (C)(iii).
 
 Subsec. (g)(6). Pub. L. 103–182, §411(4)(H), inserted “of the NAFTA or” after “article 1904”.
 
@@ -624,7 +624,7 @@ Transitional Rules.—
 
 &emsp;“(1)
 
-Certain protests, petitions, actions, etc.—The amendments made by this title \[enacting thissection and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall not apply with respect to—
+Certain protests, petitions, actions, etc.—The amendments made by this title \[enacting this section and amending sections 1514, 1515, and 1516 of this title and sections 1541, 1582, 2632, 2633, and 2637 of Title 28, Judiciary and Judicial Procedure\] shall not apply with respect to—
 
 &emsp;&emsp;“(A) any protest, petition, or notice of desire to contest filed before the effective date \[Jan. 1, 1980\] under section 514, 516(a), or 516(d), respectively, of the Tariff Act of 1930 \[section 1514, 1516(a), or 1516(d) of this title\];
 
@@ -644,13 +644,17 @@ Certain countervailing and antidumping duty assessments.—The amendments made b
 
 Certain countervailing and antidumping duty determinations.—With respect to any preliminary determination or final determination of the Secretary of the Treasury under section 303 of the Tariff Act of 1930 \[section 1303 of this title\] or the Antidumping Act, 1921 \[sections 160 to 171 of this title\], which is treated under section 102 of this Act \[set out as a note under section 1671 of this title\] as if made under section 703(b), 705(a), 733(b), or 735(a) of the Tariff Act of 1930 \[section 1671b(b), 1671d(a), 1673b(b), or 1673d(a) of this title\] (as added by title I of this Act) such determinations shall be subject to judicial review in the same manner and to the same extent as if made on the day before the effective date.”
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Effect of Termination of NAFTA Country Status
 
 For provisions relating to effect of termination of NAFTA country status on the provisions of sections 401 to 416 of Pub. L. 103–182, see section 3451 of this title.
 
 #### Plan Amendments Not Required Until January 1, 1989
 
-For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as a note under section 401 of Title 26, Internal Revenue Code.
+For provisions directing that if any amendments made by subtitle A or subtitle C of title XI \[§§1101–1147 and 1171–1177\] or title XVIII \[§§1801–1899A\] of Pub. L. 99–514 require an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after Jan. 1, 1989, see section 1140 of Pub. L. 99–514, as amended, set out as anote under section 401 of Title 26, Internal Revenue Code.
 
 #### Acceptance by President of Panel and Committee Decisions
 

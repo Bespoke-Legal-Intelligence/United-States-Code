@@ -44,5 +44,9 @@ A prior section 215 of Pub. L. 96–88 was renumbered section 217 and is classif
 
 Provisions similar to those in this section were contained in section 2641 of Title 25, Indians, prior to repeal by Pub. L. 103–382, §367.
 
+#### Office of Educational Research and Improvement
+
+The Office of Educational Research and Improvement was established by section 3419 of this title. Section 3419 was repealed and a new section 3419 establishing the Institute of Educational Sciences was enacted by Pub. L. 107–279, title IV, §402(2), Nov. 5, 2002, 116 Stat. 1985.
+
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

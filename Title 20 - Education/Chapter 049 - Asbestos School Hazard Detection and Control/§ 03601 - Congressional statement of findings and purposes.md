@@ -14,7 +14,7 @@
 
 &emsp;(6) the presence in school buildings of friable or easily damaged asbestos creates an unwarranted hazard to the health of the school children and school employees who are exposed to such materials;
 
-&emsp;(7) the Department of Health and Human Services and the Environmental Protection Agency, as well as several States, have attempted to publicize the potential hazards to school children and employees from exposure to asbestos fibers, but there is no systematic program for identifying hazardous conditions in schools or for remedying those conditions;
+&emsp;(7) the Department of Health and Human Services and the Environmental ProtectionAgency, as well as several States, have attempted to publicize the potential hazards to school children and employees from exposure to asbestos fibers, but there is no systematic program for identifying hazardous conditions in schools or for remedying those conditions;
 
 &emsp;(8) because there is no Federal health standard regulating the concentration of asbestos fibers in noncommercial workplace environments such as schools, school employees and students may be exposed to hazardous concentrations of asbestos fibers in the school buildings which they use each day;
 
@@ -26,7 +26,7 @@
 
 &emsp;(1) direct the Secretary of Education to establish a task force to assist States and local educational agencies to ascertain the extent of the danger to the health of school children and employees from asbestos materials in schools;
 
-&emsp;(2) require States receiving administrative funds for any applicable program (as defined under section 1221(c)(1)(A) <sup>1</sup> of this title) toprepare a plan describing the manner in which information relating to programs established under this chapter shall be distributed to local educational agencies;
+&emsp;(2) require States receiving administrative funds for any applicable program (as defined under section 1221(c)(1)(A) <sup>1</sup> of this title) to prepare a plan describing the manner in which information relating to programs established under this chapter shall be distributed to local educational agencies;
 
 &emsp;(3) provide scientific, technical, and financial assistance to State educational agencies and local educational agencies to enable them to conduct an asbestos detection program to identify asbestos hazards in schools;
 

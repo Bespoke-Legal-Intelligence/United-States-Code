@@ -6,3 +6,7 @@
 
 (June 27, 1952, ch. 477, title II, ch. 9, §282, 66 Stat. 231.)
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
+

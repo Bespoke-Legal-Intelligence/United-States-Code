@@ -2,7 +2,7 @@
 
 (a) The Secretary shall by regulation require that each entity which applies for a grant, contract, or cooperative agreement under this chapter for any project or program which involves the conduct of biomedical or behavioral research involving human subjects submit in or with its application for such grant, contract, or cooperative agreement assurances satisfactory to the Secretary that it has established (in accordance with regulations which the Secretary shall prescribe) a board (to be known as an “Institutional Review Board”) to review biomedical and behavioral research involving human subjects conducted at or supported by such entity in order to protect the rights of the human subjects of such research.
 
-(b)(1) The Secretary shall establish a program within the Department of Health and HumanServices under which requests for clarification and guidance with respect to ethical issues raised in connection with biomedical or behavioral research involving human subjects are responded to promptly and appropriately.
+(b)(1) The Secretary shall establish a program within the Department of Health and Human Services under which requests for clarification and guidance with respect to ethical issues raised in connection with biomedical or behavioral research involving human subjects are responded to promptly and appropriately.
 
 (2) The Secretary shall establish a process for the prompt and appropriate response to information provided to the Director of NIH respecting incidences of violations of the rights of human subjects of research for which funds have been made available under this chapter. The process shall include procedures for the receiving of reports of such information from recipients of funds under this chapter and taking appropriate action with respect to such violations.
 
@@ -32,7 +32,7 @@ Areas of Review.—In conducting the review under subsection (a)(1), the Institu
 
 &emsp;“(1) The written and oral process of obtaining and defining ‘assent’, ‘permission’ and ‘informed consent’ with respect to child clinical research participants and the parents, guardians, and the individuals who may serve as the legally authorized representatives of such children (as defined in subpart A of part 46 of title 45, Code of Federal Regulations).
 
-&emsp;“(2) The expectations and comprehension of child research participants and the parents, guardians, or legally authorized representatives of such children, for the direct benefits and risks of the child's research involvement, particularly in terms of research versus therapeutic treatment.
+&emsp;“(2) The expectations and comprehension of child research participants and the parents, guardians, or legally authorized representatives of such children,for the direct benefits and risks of the child's research involvement, particularly in terms of research versus therapeutic treatment.
 
 &emsp;“(3) The definition of ‘minimal risk’ with respect to a healthy child or a child with an illness.
 

@@ -36,7 +36,7 @@ The operating agency shall—
 
 &emsp;(2) provide the same benefits and working conditions that are provided at the job site to employees performing comparable work for comparable hours; and
 
-&emsp;(3) reimburse participants for actual costs of transportation and other actual costs all ofwhich are reasonably necessary and directly related to participation in the program but not to exceed $25 in the aggregate per month.
+&emsp;(3) reimburse participants for actual costs of transportation and other actual costs all of which are reasonably necessary and directly related to participation in the program but not to exceed $25 in the aggregate per month.
 
 #### (e) Job search period
 
@@ -78,7 +78,7 @@ The Social Security Act, referred to in subsec. (b)(2), is act Aug. 14, 1935, ch
 
 Subsec. (b). Pub. L. 104–193, §109(e)(2), struck out “(1)” before “A household member shall be exempt”, redesignated subpars. (A) to (F) as pars. (1) to (6), respectively, in par. (2), substituted “a work activity” for “a work training program”, and struck out former par. (2) which read as follows:
 
-“(2)(A) Subject to subparagraphs (B) and (C), in the case of a household that is exempt from work requirements imposed under this chapter as the result of participation in a community work experience program established under section 409 of the Social Security Act (42 U.S.C. 609), the maximum number of hours in a month for which all members of such household may be required to participate in such program shall equal the result obtained by dividing—
+“(2)(A) Subject to subparagraphs (B) and (C), in the case of a household that is exempt from work requirements imposed under this chapter as the result of participation in a community work experience program established under section 409 of the Social Security Act\(42 U.S.C. 609), the maximum number of hours in a month for which all members of such household may be required to participate in such program shall equal the result obtained by dividing—
 
 &emsp;“(i) the amount of assistance paid to such household for such month under title IV of such Act, together with the value of the food stamp allotment of such household for such month; by
 
@@ -104,7 +104,7 @@ Subsec. (g)(2), (3). Pub. L. 97–253, §188, added par. (2) and redesignated fo
 
 #### Effective Date of 1996 Amendment
 
-Amendment by section 109(e) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to Stateoptions to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
+Amendment by section 109(e) of Pub. L. 104–193 effective July 1, 1997, with transition rules relating to State options to accelerate such date, rules relating to claims, actions, and proceedings commenced before such date, rules relating to closing out of accounts for terminated or substantially modified programs and continuance in office of Assistant Secretary for Family Support, and provisions relating to termination of entitlement under AFDC program, see section 116 of Pub. L. 104–193, as amended, set out as an Effective Date note under section 601 of Title 42, The Public Health and Welfare.
 
 #### Effective Date of 1991 Amendment
 
@@ -122,5 +122,5 @@ Section effective on earlier of Sept. 8, 1982, or date effective pursuant to sec
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2015, 2025, 2026 of this title.
+This section is referred to in sections 2015, 2026 of this title.
 

@@ -6,7 +6,7 @@ If any entity of the Government intends to procure any commodity or service on t
 
 #### Amendments
 
-1971—Pub. L. 92–28 extended provisions to cover any commodity or service on the procurement list for former provision for brooms and mops and other suitable commodities, excepted section from application to prison-made products, and deleted provision for nonapplicability of sections 46 to 58 of this title to cases where brooms and mops were available for procurementfrom and Federal department or agency and procurement therefrom was required under provisions of any law in effect on June 25, 1938, or to cases where brooms and mops were procured outside continental United States.
+1971—Pub. L. 92–28 extended provisions to cover any commodity or service on the procurement list forformer provision for brooms and mops and other suitable commodities, excepted section from application to prison-made products, and deleted provision for nonapplicability of sections 46 to 58 of this title to cases where brooms and mops were available for procurement from and Federal department or agency and procurement therefrom was required under provisions of any law in effect on June 25, 1938, or to cases where brooms and mops were procured outside continental United States.
 
 #### Effective Date of 1971 Amendment
 

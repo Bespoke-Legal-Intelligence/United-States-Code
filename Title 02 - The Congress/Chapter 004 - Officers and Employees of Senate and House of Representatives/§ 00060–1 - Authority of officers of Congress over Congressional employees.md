@@ -28,5 +28,5 @@ Pub. L. 103–69, title III, §307, Aug. 11, 1993, 107 Stat. 710, as amended by 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 40 section 212a–2.
+This section is referred to in section 1966 of this title.
 

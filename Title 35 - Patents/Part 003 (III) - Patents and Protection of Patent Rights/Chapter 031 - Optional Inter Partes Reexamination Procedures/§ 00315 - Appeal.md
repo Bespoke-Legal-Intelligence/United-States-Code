@@ -10,17 +10,33 @@ Patent Owner.—The patent owner involved in an inter partes reexamination proce
 
 (b)
 
-Third-Party Requester.—A third-party requester may—
+Third-Party Requester.—A third-party requester—
 
-&emsp;(1) appeal under the provisions of section 134 with respect to any final decision favorable to the patentability of any original or proposed amended or new claim of the patent; or
+&emsp;(1) may appeal under the provisions of section 134, and may appeal under the provisionsof sections 141 through 144, with respect to any final decision favorable to the patentability of any original or proposed amended or new claim of the patent; and
 
-&emsp;(2) be a party to any appeal taken by the patent owner under the provisions of section 134, subject to subsection (c).
+&emsp;(2) may, subject to subsection (c), be a party to any appeal taken by the patent owner under the provisions of section 134 or sections 141 through 144.
 
 (c)
 
-Civil Action.—A third-party requester whose request for an inter partes reexamination results in an order under section 313 is estopped from asserting at a later time, in any civil action arising in whole or in part under section 1338 of title 28, United States Code, the invalidity of any claim finally determined to be valid and patentable on any ground which the third-party requester raised or could have raised during the inter partes reexamination proceedings. This subsection does not prevent the assertion of invalidity based on newly discovered prior art unavailable to the third-party requester and the Patent and Trademark Office at the time of the inter partes reexamination proceedings.
+Civil Action.—A third-party requester whose request for an inter partes reexamination results in an order under section 313 is estopped from asserting at a later time, in any civil action arising in whole or in part under section 1338 of title 28, the invalidity of any claim finally determined to be valid and patentable on any ground which the third-party requester raised or could have raised during the inter partes reexamination proceedings. This subsection does not prevent the assertion of invalidity based on newly discovered prior art unavailable to the third-party requester and the Patent and Trademark Office at the time of the inter partes reexamination proceedings.
 
-(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–569.)
+(Added Pub. L. 106–113, div. B, §1000(a)(9) \[title IV, §4604(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–569; amended Pub. L. 107–273, div. C, title III, §§13106(a), 13202(a)(4), (c)(1), Nov. 2, 2002, 116 Stat. 1900–1902.)
+
+#### Amendments
+
+2002—Pub. L. 107–273, §13202(c)(1), made technical correction to directory language of Pub. L. 106–113, which enacted this section.
+
+Subsec. (b). Pub. L. 107–273, §13106(a), reenacted heading without change and amended text generally. Prior to amendment, text read as follows: “A third-party requester may—
+
+&emsp;“(1) appeal under the provisions of section 134 with respect to any final decision favorable to the patentability of any original or proposed amended or new claim of the patent; or
+
+&emsp;“(2) be a party to any appeal taken by the patent owner under the provisions of section 134, subject to subsection (c).”
+
+Subsec. (c). Pub. L. 107–273, §13202(a)(4), struck out “United States Code,” after “title 28,”.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by section 13106(a) of Pub. L. 107–273 applicable with respect to any reexamination proceeding commenced on or after Nov. 2, 2002, see section 13106(d) of Pub. L. 107–273, set out as a note under section 134 of this title.
 
 #### Estoppel Effect of Reexamination
 

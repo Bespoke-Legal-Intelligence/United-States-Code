@@ -6,7 +6,7 @@
 
 &emsp;(2) in the case of an individual who becomes entitled to such assistance under section 3011(a)(1)(B), on the later of the date of such individual's last discharge or release from active duty or January 1, 1990; and
 
-&emsp;(3) in the case of an individual who becomes entitled to such assistance under section 3011(a)(1)(C) or 3012(a)(1)(C) of this title, on the date of the enactment of this paragraph.
+&emsp;(3) in the case of an individual who becomes entitled to such assistance under section 3011(a)(1)(C) or 3012(a)(1)(C) of this title, on December 27, 2001.
 
 (b) In the case of any eligible individual who has been prevented, as determined by the Secretary, from pursuing a program of education under this chapter within the 10-year period prescribed by subsection (a) of this section because such individual had not met the nature of discharge requirement of this chapter before the nature of such individual's discharge or release was changed by appropriate authority, such 10-year period shall not run during the period of time that such individual was so prevented from pursuing such program of education.
 
@@ -32,15 +32,15 @@
 
 (h) For purposes of subsection (a) of this section, an individual's last discharge or release from active duty shall not include any discharge or release from a period of active duty of less than 90 days of continuous service unless the individual involved is discharged or released for a service-connected disability, for a medical condition which preexisted such service and which the Secretary determines is not service connected, for hardship, or as a result of a reduction in force as described in section 3011(a)(1)(A)(ii)(III) of this title.
 
-(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2560, §1431; amended Pub. L. 99–576, title III, §§307(b), 321(7), Oct. 28, 1986, 100 Stat. 3270, 3278; Pub. L. 100–689, title I, §111(a)(6), Nov. 18, 1988, 102 Stat. 4171; Pub. L. 101–237, title IV, §§420(a)(1), (b), 423(a)(4), (b)(1), Dec. 18, 1989, 103 Stat. 2087, 2088, 2091, 2092; renumbered §3031 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §302(a)(3), Oct. 29, 1992, 106 Stat. 4327; Pub. L. 106–117, title VII, §702(b), Nov. 30, 1999, 113 Stat. 1583; Pub. L. 107–103, title I, §105(c), Dec. 27, 2001, 115 Stat. 983.)
+(Added Pub. L. 98–525, title VII, §702(a)(1), Oct. 19, 1984, 98 Stat. 2560, §1431; amended Pub. L. 99–576, title III, §§307(b), 321(7), Oct. 28, 1986, 100 Stat. 3270, 3278; Pub. L. 100–689, title I, §111(a)(6), Nov. 18, 1988, 102 Stat. 4171; Pub. L. 101–237, title IV, §§420(a)(1), (b), 423(a)(4), (b)(1), Dec. 18, 1989, 103 Stat. 2087, 2088, 2091, 2092; renumbered §3031 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–568, title III, §302(a)(3), Oct. 29, 1992, 106 Stat. 4327; Pub. L. 106–117, title VII, §702(b), Nov. 30, 1999, 113 Stat. 1583; Pub. L. 107–103, title I, §105(c), Dec. 27, 2001, 115 Stat. 983; Pub. L. 107–330, title III, §308(g)(10), Dec. 6, 2002, 116 Stat. 2829.)
 
 #### References in Text
-
-The date of the enactment of this paragraph, referred to in subsec. (a)(3), is the date of enactment of Pub. L. 107–103, which was approved Dec. 27, 2001.
 
 The date of the enactment of the Veterans Millennium Health Care and Benefits Act, referred to in subsec. (g), is the date of enactment of Pub. L. 106–117, which was approved Nov. 30, 1999.
 
 #### Amendments
+
+2002—Subsec. (a)(3). Pub. L. 107–330 substituted “December 27, 2001” for “the date of the enactment of this paragraph”.
 
 2001—Subsec. (a)(3). Pub. L. 107–103, §105(c)(1), added par. (3).
 

@@ -26,7 +26,7 @@
 
 #### (A) Advice
 
-&emsp;&emsp;The Board shall provide advice to the Director of the Center and the advisory council established under section 287a of this title (in this section referred to as the “Advisory Council”) in carrying out this section.
+&emsp;&emsp;The Board shall provide advice to the Director of the Center and the advisory council established under section 287a of this title\(in this section referred to as the “Advisory Council”) in carrying out this section.
 
 #### (B) Determination of merit
 

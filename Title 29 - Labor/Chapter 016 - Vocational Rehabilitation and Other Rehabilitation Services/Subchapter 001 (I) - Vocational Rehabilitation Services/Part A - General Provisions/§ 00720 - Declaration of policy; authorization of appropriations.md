@@ -82,7 +82,7 @@
 
 #### (A) Increase
 
-&emsp;&emsp;If in any fiscal year the percentage change published under paragraph (1) indicates an increase in the Consumer Price Index, then the amount to be appropriated under subsection (b)(1) of this section for the subsequent fiscal year shall be at least the amount appropriated under subsection (b)(1) of this section for the fiscal year in which the publication is made under paragraph (1) increased by such percentage change.
+&emsp;&emsp;If in any fiscal year the percentage change published under paragraph (1) indicates anincrease in the Consumer Price Index, then the amount to be appropriated under subsection (b)(1) of this section for the subsequent fiscal year shall be at least the amount appropriated under subsection (b)(1) of this section for the fiscal year in which the publication is made under paragraph (1) increased by such percentage change.
 
 #### (B) No increase or decrease
 
@@ -90,7 +90,7 @@
 
 #### (3) Definition
 
-&emsp;For purposes of this section, the term “Consumer Price Index” means the Consumer PriceIndex for All Urban Consumers, published monthly by the Bureau of Labor Statistics.
+&emsp;For purposes of this section, the term “Consumer Price Index” means the Consumer Price Index for All Urban Consumers, published monthly by the Bureau of Labor Statistics.
 
 #### (d) Extension
 

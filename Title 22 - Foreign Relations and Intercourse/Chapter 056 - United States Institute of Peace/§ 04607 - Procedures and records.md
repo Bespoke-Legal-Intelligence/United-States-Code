@@ -22,7 +22,7 @@ The Institute shall keep minutes of the proceedings of its Board and of any comm
 
 #### (f) Record and inspection of required items
 
-The Institute shall keep a record of the names and addresses of its Board members; copies ofthis chapter, of any other Acts relating to the Institute, and of all Institute bylaws, rules, regulations, and guidelines; required minutes of proceedings; a record of all applications and proposals and issued or received contracts and grants; and financial records of the Institute. All items required by this subsection may be inspected by any Board member or the member's agent or attorney for any proper purpose at any reasonable time.
+The Institute shall keep a record of the names and addresses of its Board members; copies of this chapter, of any other Acts relating to the Institute, and of all Institute bylaws, rules, regulations, and guidelines; required minutes of proceedings; a record of all applications and proposals and issued or received contracts and grants; and financial records of the Institute. All items required by this subsection may be inspected by any Board member or the member's agent or attorney for any proper purpose at any reasonable time.
 
 #### (g) Audits
 
@@ -30,7 +30,7 @@ The accounts of the Institute shall be audited annually in accordance with gener
 
 #### (h) Report of audit to Congress; copies for public
 
-The Institute shall provide a report of the audit to the President and to each House of Congress no later than six months following the close of the fiscal year for which the audit is made. The report shall set forth the scope of the audit and include such statements, together with the independent auditor's opinion of those statements, as are necessary to present fairly the Institute's assets and liabilities, surplus or deficit, with reasonable detail, including a statement of the Institute's income and expenses during the year, including a schedule of all contracts and grants requiring payments in excess of $5,000 and any payments of compensation, salaries, or fees at a rate in excess of $5,000 per year. The report shall be produced in sufficient copies for the public.
+The Institute shall provide a report of the audit to the President and to each House of Congress no later than six months following the close of the fiscal year for which the audit is made. The report shall set forth the scope of the audit and include such statements, together with the independent auditor's opinion of those statements, as are necessary to present fairly the Institute's assets and liabilities, surplus or deficit, with reasonable detail, including a statement of the Institute's income and expenses during the year, including a schedule of all contracts and grants requiring payments in excess of $5,000 and any payments of compensation, salaries, or fees at a rate in excess of $5,000 peryear. The report shall be produced in sufficient copies for the public.
 
 #### (i) Freedom of information provisions applicable
 

@@ -54,7 +54,7 @@ Qualified business customer defined.—For purposes of this subsection, the term
 
 &emsp;&emsp;(B) frequently engages in transactions with the depository institution which are subject to the reporting requirements of subsection (a); and
 
-&emsp;&emsp;(C) meets criteria which the Secretary determines are sufficient to ensure that the purposes of this subchapter are carried outwithout requiring a report with respect to such transactions.
+&emsp;&emsp;(C) meets criteria which the Secretary determines are sufficient to ensure that the purposes of this subchapter are carried out without requiring a report with respect to such transactions.
 
 &emsp;(3)
 

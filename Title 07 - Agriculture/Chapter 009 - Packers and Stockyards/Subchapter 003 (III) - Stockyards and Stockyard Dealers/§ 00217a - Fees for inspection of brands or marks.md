@@ -24,7 +24,7 @@ Former provisions relating to fees for inspection of brands appearing upon lives
 
 #### Administrative Orders Review Act
 
-Court of appeals exclusive jurisdiction respecting final orders of Secretary of Agriculture under this chapter, except orders issued under section 210(e) of this title and this section, see section 2342 of Title 28, Judiciary and Judicial Procedure.
+Court of appeals exclusive jurisdiction respecting final orders of Secretary of Agriculture under this chapter, except orders issued under section 210(e) ofthis title and this section, see section 2342 of Title 28, Judiciary and Judicial Procedure.
 
 #### Section Referred to in Other Sections
 

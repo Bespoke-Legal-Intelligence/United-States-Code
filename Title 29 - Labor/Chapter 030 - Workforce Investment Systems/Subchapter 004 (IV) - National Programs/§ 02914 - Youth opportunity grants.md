@@ -62,7 +62,7 @@ To be eligible to receive a grant under this section, an entity (other than a lo
 
 #### (e) Application
 
-To be eligible to receive a grant under this section, a local board or entity shall submit an application to the Secretary at such time, in such manner, and containing such information as the Secretary may require, including—
+To be eligible to receive a grant under this section, a local board or entity shall submit an application to the Secretary at such time, insuch manner, and containing such information as the Secretary may require, including—
 
 &emsp;(1) a description of the activities that the local board or entity will provide under this section to youth in the community described in subsection (c) of this section;
 

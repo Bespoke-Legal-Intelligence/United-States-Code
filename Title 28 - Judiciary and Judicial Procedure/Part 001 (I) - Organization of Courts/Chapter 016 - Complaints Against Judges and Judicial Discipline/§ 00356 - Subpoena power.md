@@ -1,0 +1,16 @@
+### §356. Subpoena power
+
+(a)
+
+Judicial Councils and Special Committees.—In conducting any investigation under this chapter, the judicial council, or a special committee appointed under section 353, shall have full subpoena powers as provided in section 332(d).
+
+(b)
+
+Judicial Conference and Standing Committees.—In conducting any investigation under this chapter, the Judicial Conference, or a standing committee appointed by the Chief Justice under section 331, shall have full subpoena powers as provided in that section.
+
+(Added Pub. L. 107–273, div. C, title I, §11042(a), Nov. 2, 2002, 116 Stat. 1852.)
+
+#### Section Referred to in Other Sections
+
+This section is referred to in title 38 section 7253.
+

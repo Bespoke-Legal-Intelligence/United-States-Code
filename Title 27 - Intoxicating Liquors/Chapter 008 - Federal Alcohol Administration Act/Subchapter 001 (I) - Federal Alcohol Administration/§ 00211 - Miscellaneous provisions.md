@@ -32,7 +32,7 @@ If any provision of this subchapter, or the application of such provision to any
 
 #### References in Text
 
-The Revenue Act of 1918, referred to in subsec. (a)(6), is act Feb. 24, 1919, ch. 18, 40 Stat. 1057. Sections 610 and 617 of the Revenue Act of 1918, relating to the definition of “wine”, were originally classified to sections 441 and 444 of former Title 26, and were thereafter included as sections 3036, 3044 and 3045 of the Internal Revenue Code of 1939. Provisions of the Internal Revenue Code of 1986 relating to the definition and classification of wine appear in sections 5373(a), 5381 to 5388, and 5392 of Title 26, Internal Revenue Code.
+The Revenue Act of 1918, referred to in subsec. (a)(6), is act Feb. 24, 1919, ch. 18, 40 Stat. 1057. Sections 610 and 617 of the Revenue Act of 1918, relating to the definition of “wine”, were originally classified to sections 441 and 444 of former Title 26, and were thereafter included assections 3036, 3044 and 3045 of the Internal Revenue Code of 1939. Provisions of the Internal Revenue Code of 1986 relating to the definition and classification of wine appear in sections 5373(a), 5381 to 5388, and 5392 of Title 26, Internal Revenue Code.
 
 #### Codification
 

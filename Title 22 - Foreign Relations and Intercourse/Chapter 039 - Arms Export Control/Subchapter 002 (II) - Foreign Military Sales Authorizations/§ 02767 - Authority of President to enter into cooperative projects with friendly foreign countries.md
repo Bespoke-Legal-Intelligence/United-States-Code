@@ -18,7 +18,7 @@ As used in this section—
 
 &emsp;(2) the term “cooperative project”, in the case of an agreement entered into under subsection (j) of this section, means a jointly managed arrangement, described in a written agreement among the parties, which is undertaken in order to enhance the ongoing multinational effort of the participants to improve the conventional defense capabilities of the participants and which provides—
 
-&emsp;&emsp;(A) for one or more of the other participants to share with the United States thecosts of research on and development, testing, evaluation, or joint production (including follow-on support) of certain defense articles;
+&emsp;&emsp;(A) for one or more of the other participants to share with the United States the costs of research on and development, testing, evaluation, or joint production (including follow-on support) of certain defense articles;
 
 &emsp;&emsp;(B) for concurrent production in the United States and in the country of another participant of a defense article jointly developed in accordance with subparagraph (A); or
 
@@ -70,7 +70,7 @@ The authority under this section is in addition to the authority under sections 
 
 (1) With the approval of the Secretary of State and the Secretary of Defense, a cooperative agreement which was entered into by the United States before the effective date <sup>4</sup> of the amendment to this section made by the International Security and Development Cooperation Act of 1985 and which meets the requirements of this section as so amended may be treated on and after such date as having been made under this section as so amended.
 
-(2) Notwithstanding the amendment made <sup>5</sup> to this section made by the International Security and Development Cooperation Act of 1985, projects entered into under the authority of this section before the effective date <sup>4</sup> of that amendment may be carried through to conclusion in accordance with the terms of this section as in effect immediately before the effective date <sup>4</sup> of that amendment.
+(2) Notwithstanding the amendment made <sup>5</sup> to this section made by the International Security and Development Cooperation Act of 1985, projects entered into under the authority of this section before the effective date <sup>4</sup> of that amendment may be carried through to conclusion in accordance with the terms of this section as ineffect immediately before the effective date <sup>4</sup> of that amendment.
 
 #### (j) Cooperative project agreements with friendly foreign countries not members of NATO
 

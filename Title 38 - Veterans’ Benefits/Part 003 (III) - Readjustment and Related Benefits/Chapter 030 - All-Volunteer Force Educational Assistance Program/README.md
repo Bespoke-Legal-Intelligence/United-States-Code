@@ -17,7 +17,7 @@
 | [3012\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003012%20-%20Basic%20educational%20assistance%20entitlement%20for%20service%20in%20the%20Selected%20Reserve.md) | Basic educational assistance entitlement for service in the Selected Reserve. |
 | [3013\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003013%20-%20Duration%20of%20basic%20educational%20assistance.md) | Duration of basic educational assistance. |
 | [3014\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003014%20-%20Payment%20of%20basic%20educational%20assistance.md) | Payment of basic educational assistance. |
-| [3014A.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003014A%20-%20Accelerated%20payment%20of%20basic%20educational%20assistance%20for%20education%20leading%20to%20employment%20in%20high%20technology%20industry.md) | Accelerated payment of basic educational assistance for education leading to employment in high technology industry. |
+| [3014A.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003014A%20-%20Accelerated%20payment%20of%20basic%20educational%20assistance%20for%20education%20leading%20to%20employment%20in%20high%20technology%20occupation%20in%20high%20technology%E2%80%A6.md) | Accelerated payment of basic educational assistance for education leading to employment in high technology occupation in high technology industry. |
 | [3015\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003015%20-%20Amount%20of%20basic%20educational%20assistance.md) | Amount of basic educational assistance. |
 | [3016\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003016%20-%20Inservice%20enrollment%20in%20a%20program%20of%20education.md) | Inservice enrollment in a program of education. |
 | [3017\.](Subchapter%20002%20%28II%29%20-%20Basic%20Educational%20Assistance/%C2%A7%2003017%20-%20Death%20benefit.md) | Death benefit. |
@@ -55,6 +55,8 @@
 
 #### Amendments
 
+2002—Pub. L. 107–330, title III, §308(b)(2)(B), Dec. 6, 2002, 116 Stat. 2827, amended item 3014A generally, substituting “in high technology occupation in high technology industry” for “in high technology industry”.
+
 2001—Pub. L. 107–107, div. A, title VI, §654(a)(2), Dec. 28, 2001, 115 Stat. 1156, added item 3020.
 
 Pub. L. 107–103, title I, §104(a)(2), Dec. 27, 2001, 115 Stat. 981, added item 3014A.
@@ -75,7 +77,7 @@ Pub. L. 102–54, §14(c)(2), June 13, 1991, 105 Stat. 285, substituted “subch
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 113, 3108, 3485, 3674, 3680A, 3681, 3684A, 3688, 3689, 3690, 3692, 3693, 3695, 3697, 3697A, 4213, 5113, 5303A, 5313B of this title; title 10 sections 708, 2006, 2007, 16131, 16132; title 20 sections 1087vv, 6674; title 26 sections 25A, 135; title 29 section 2913.
+This chapter is referred to in sections 113, 3108, 3485, 3674, 3680A, 3681, 3684A, 3688, 3689, 3690, 3692, 3693, 3695, 3697, 3697A, 4213, 5113, 5303A, 5313B of this title; title 10 sections 510, 708, 2006, 2007, 16131, 16132; title 20 sections 1087vv, 6674; title 26 sections 25A, 135; title 29 section 2913.
 
 
 ---

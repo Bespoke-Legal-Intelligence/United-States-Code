@@ -24,7 +24,7 @@ Subsec. (b). Pub. L. 102–83, §5(c)(1), substituted “3511” for “1711”.
 
 1976—Subsec. (b). Pub. L. 94–502 substituted “if the Administrator finds” for “if he finds”.
 
-1964—Subsec. (b). Pub. L. 88–361 authorized the Administrator to extend the period if he finds additionalassistance necessary to accomplish the purpose of special restorative training.
+1964—Subsec. (b). Pub. L. 88–361 authorized the Administrator to extend the period if he finds additional assistance necessary to accomplish the purpose of special restorative training.
 
 #### Effective Date of 1976 Amendment
 

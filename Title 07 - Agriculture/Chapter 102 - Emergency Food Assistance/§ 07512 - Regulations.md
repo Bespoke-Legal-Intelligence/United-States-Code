@@ -20,7 +20,7 @@ The regulations issued by the Secretary under this section shall include provisi
 
 #### (e) Final regulations
 
-The Secretary is authorized to issue final regulations without first issuing proposed regulations for public comment in order to carry out the provisions of sections 7514 and 7515 of this title. If final regulations are issued without such prior public comment the Secretary shall permit public comment on such regulations, consider pertinent comments, and make modifications of such regulations as appropriate not later than 1 year after September 19, 1988. Such final and modified regulations shall be accompanied by a statement of the basis and purpose for such regulations.
+The Secretary is authorized to issue final regulations without first issuing proposed regulations for public comment in order to carry out the provisions of sections 7514 and 7515 of this title. If final regulations are issued without such prior public comment the Secretary shall permit public comment on such regulations, considerpertinent comments, and make modifications of such regulations as appropriate not later than 1 year after September 19, 1988. Such final and modified regulations shall be accompanied by a statement of the basis and purpose for such regulations.
 
 (Pub. L. 98–8, title II, §210, Mar. 24, 1983, 97 Stat. 36; Pub. L. 98–92, §2(9), Sept. 2, 1983, 97 Stat. 611; Pub. L. 99–198, title XV, §1570, Dec. 23, 1985, 99 Stat. 1594; Pub. L. 100–77, title VIII, §814(b), July 22, 1987, 101 Stat. 538; Pub. L. 100–435, title I, §§103(d), 105(b), Sept. 19, 1988, 102 Stat. 1648, 1651; Pub. L. 101–624, title XVII, §1772(e), Nov. 28, 1990, 104 Stat. 3809; Pub. L. 104–193, title VIII, §871(e)(3), Aug. 22, 1996, 110 Stat. 2345.)
 

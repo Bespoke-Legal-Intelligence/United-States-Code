@@ -5,11 +5,11 @@
 | [4100\.](%C2%A7%2004100%20-%20Findings.md) | Findings. |
 | [4101\.](%C2%A7%2004101%20-%20Definitions.md) | Definitions. |
 | [4102\.](%C2%A7%2004102%20-%20Purpose.md) | Purpose. |
-| [4102A.](%C2%A7%2004102A%20-%20Assistant%20Secretary%20of%20Labor%20for%20Veterans%E2%80%99%20Employment%20and%20Training%3B%20Regional%20Administrators.md) | Assistant Secretary of Labor for Veterans’ Employment and Training; Regional Administrators. |
-| [4103\.](%C2%A7%2004103%20-%20Directors%20and%20Assistant%20Directors%20for%20Veterans%E2%80%99%20Employment%20and%20Training.md) | Directors and Assistant Directors for Veterans’ Employment and Training. |
+| [4102A.](%C2%A7%2004102A%20-%20Assistant%20Secretary%20of%20Labor%20for%20Veterans%E2%80%99%20Employment%20and%20Training%3B%20program%20functions%3B%20Regional%20Administrators.md) | Assistant Secretary of Labor for Veterans’ Employment and Training; program functions; Regional Administrators. |
+| [4103\.](%C2%A7%2004103%20-%20Directors%20and%20Assistant%20Directors%20for%20Veterans%E2%80%99%20Employment%20and%20Training%3B%20additional%20Federal%20personnel.md) | Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel. |
 | [4103A.](%C2%A7%2004103A%20-%20Disabled%20veterans%E2%80%99%20outreach%20program.md) | Disabled veterans’ outreach program. |
 | [4104\.](%C2%A7%2004104%20-%20Local%20veterans%E2%80%99%20employment%20representatives.md) | Local veterans’ employment representatives. |
-| [4104A.](%C2%A7%2004104A%20-%20Performance%20of%20disabled%20veterans%E2%80%99%20outreach%20program%20specialists%20and%20local%20veterans%E2%80%99%20employment%20representatives.md) | Performance of disabled veterans’ outreach program specialists and local veterans’ employment representatives. |
+| \[4104A. | Repealed.\] |
 | [4105\.](%C2%A7%2004105%20-%20Cooperation%20of%20Federal%20agencies.md) | Cooperation of Federal agencies. |
 | [4106\.](%C2%A7%2004106%20-%20Estimate%20of%20funds%20for%20administration%3B%20authorization%20of%20appropriations.md) | Estimate of funds for administration; authorization of appropriations. |
 | [4107\.](%C2%A7%2004107%20-%20Administrative%20controls%3B%20annual%20report.md) | Administrative controls; annual report. |
@@ -19,10 +19,13 @@
 | [4110A.](%C2%A7%2004110A%20-%20Special%20unemployment%20study.md) | Special unemployment study. |
 | [4110B.](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md) | Coordination and nonduplication. |
 | \[4111. | Repealed.\] |
+| [4112\.](%C2%A7%2004112%20-%20Performance%20incentive%20awards%20for%20quality%20employment%2C%20training%2C%20and%20placement%20services.md) | Performance incentive awards for quality employment, training, and placement services. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Amendments
+
+2002—Pub. L. 107–288, §§3(b), 4(a)(2), (3)(A)(ii), Nov. 7, 2002, 116 Stat. 2038, 2042, substituted “Assistant Secretary of Labor for Veterans’ Employment and Training; program functions; Regional Administrators” for “Assistant Secretary of Labor for Veterans’ Employment and Training; Regional Administrators” in item 4102A and “Directors and Assistant Directors for Veterans’ Employment and Training; additional Federal personnel” for “Directors and Assistant Directors for Veterans’ Employment and Training” in item 4103, struck out item 4104A “Performance of disabled veterans’ outreach program specialists and local veterans’ employment representatives”, and added item 4112.
 
 2001—Pub. L. 107–95, §5(g)(3), Dec. 21, 2001, 115 Stat. 919, struck out item 4111 “Homeless veterans’ reintegration programs”.
 
@@ -46,11 +49,11 @@ Pub. L. 102–16, §8(b), Mar. 22, 1991, 105 Stat. 53, substituted “Advisory C
 
 1966—Pub. L. 89–358, §6(a), Mar. 3, 1966, 80 Stat. 27, substituted “JOB COUNSELING AND EMPLOYMENT PLACEMENT SERVICE FOR VETERANS” for “UNEMPLOYMENT BENEFITS FOR VETERANS” in chapter heading.
 
-1962—Pub. L. 87–675, §1(b), (d), Sept. 19, 1962, 76 Stat. 558, 559, substituted “Purpose” for “Compensation for veterans under State agreements” in item 2001, “Assignment of veterans’ employment representative” for “Unemployment compensation in absence of State agreements” in item 2002, “Employees of local offices” for “Payments to States” in item 2003, “Cooperation of Federal agencies” for “Information” in item 2004, and “Estimate of funds for administration” for “Penalties” in item 2005, and struck out items 2006 to 2014 and headings of subchapters I and II.
+1962—Pub. L. 87–675, §1(b), (d), Sept. 19, 1962, 76 Stat. 558, 559, substituted “Purpose” for “Compensation for veterans under State agreements” in item 2001, “Assignment of veterans’ employment representative” for “Unemployment compensation in absence of Stateagreements” in item 2002, “Employees of local offices” for “Payments to States” in item 2003, “Cooperation of Federal agencies” for “Information” in item 2004, and “Estimate of funds for administration” for “Penalties” in item 2005, and struck out items 2006 to 2014 and headings of subchapters I and II.
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in title 20 section 9271; title 29 sections 2822, 2841; title 42 section 1101.
+This chapter is referred to in sections 3117, 4212 of this title; title 20 section 9271; title 29 sections 2822, 2841; title 42 section 1101.
 
 
 ---
@@ -60,11 +63,11 @@ This chapter is referred to in title 20 section 9271; title 29 sections 2822, 28
 - [&sect; 04100 - Findings](%C2%A7%2004100%20-%20Findings.md)
 - [&sect; 04101 - Definitions](%C2%A7%2004101%20-%20Definitions.md)
 - [&sect; 04102 - Purpose](%C2%A7%2004102%20-%20Purpose.md)
-- [&sect; 04102A - Assistant Secretary of Labor for Veterans&#8217; Employment and Training; Regional Administrators](%C2%A7%2004102A%20-%20Assistant%20Secretary%20of%20Labor%20for%20Veterans%E2%80%99%20Employment%20and%20Training%3B%20Regional%20Administrators.md)
-- [&sect; 04103 - Directors and Assistant Directors for Veterans&#8217; Employment and Training](%C2%A7%2004103%20-%20Directors%20and%20Assistant%20Directors%20for%20Veterans%E2%80%99%20Employment%20and%20Training.md)
+- [&sect; 04102A - Assistant Secretary of Labor for Veterans&#8217; Employment and Training; program functions; Regional Administrators](%C2%A7%2004102A%20-%20Assistant%20Secretary%20of%20Labor%20for%20Veterans%E2%80%99%20Employment%20and%20Training%3B%20program%20functions%3B%20Regional%20Administrators.md)
+- [&sect; 04103 - Directors and Assistant Directors for Veterans&#8217; Employment and Training; additional Federal personnel](%C2%A7%2004103%20-%20Directors%20and%20Assistant%20Directors%20for%20Veterans%E2%80%99%20Employment%20and%20Training%3B%20additional%20Federal%20personnel.md)
 - [&sect; 04103A - Disabled veterans&#8217; outreach program](%C2%A7%2004103A%20-%20Disabled%20veterans%E2%80%99%20outreach%20program.md)
 - [&sect; 04104 - Local veterans&#8217; employment representatives](%C2%A7%2004104%20-%20Local%20veterans%E2%80%99%20employment%20representatives.md)
-- [&sect; 04104A - Performance of disabled veterans&#8217; outreach program specialists and local veterans&#8217; employment representatives](%C2%A7%2004104A%20-%20Performance%20of%20disabled%20veterans%E2%80%99%20outreach%20program%20specialists%20and%20local%20veterans%E2%80%99%20employment%20representatives.md)
+- [&sect; 04104A - Repealed. Pub. L. 107&#8211;288, &sect;4(a)(3)(A)(i), Nov. 7, 2002, 116 Stat. 2042](%C2%A7%2004104A%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93288%2C%20%C2%A74%28a%29%283%29%28A%29%28i%29%2C%20Nov.%207%2C%202002%2C%20116%20Stat.%202042.md)
 - [&sect; 04105 - Cooperation of Federal agencies](%C2%A7%2004105%20-%20Cooperation%20of%20Federal%20agencies.md)
 - [&sect; 04106 - Estimate of funds for administration; authorization of appropriations](%C2%A7%2004106%20-%20Estimate%20of%20funds%20for%20administration%3B%20authorization%20of%20appropriations.md)
 - [&sect; 04107 - Administrative controls; annual report](%C2%A7%2004107%20-%20Administrative%20controls%3B%20annual%20report.md)
@@ -74,3 +77,4 @@ This chapter is referred to in title 20 section 9271; title 29 sections 2822, 28
 - [&sect; 04110A - Special unemployment study](%C2%A7%2004110A%20-%20Special%20unemployment%20study.md)
 - [&sect; 04110B - Coordination and nonduplication](%C2%A7%2004110B%20-%20Coordination%20and%20nonduplication.md)
 - [&sect; 04111 - Repealed. Pub. L. 107&#8211;95, &sect;5(e)(3), Dec. 21, 2001, 115 Stat. 918](%C2%A7%2004111%20-%20Repealed.%20Pub.%20L.%20107%E2%80%9395%2C%20%C2%A75%28e%29%283%29%2C%20Dec.%2021%2C%202001%2C%20115%20Stat.%20918.md)
+- [&sect; 04112 - Performance incentive awards for quality employment, training, and placement services](%C2%A7%2004112%20-%20Performance%20incentive%20awards%20for%20quality%20employment%2C%20training%2C%20and%20placement%20services.md)

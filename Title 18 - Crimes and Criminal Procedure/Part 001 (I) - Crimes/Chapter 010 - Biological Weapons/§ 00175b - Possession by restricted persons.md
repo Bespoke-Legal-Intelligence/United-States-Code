@@ -1,10 +1,36 @@
 ### §175b. Possession by restricted persons
 
-(a) No restricted person described in subsection (b) shall ship or transport <sup>1</sup> interstate or foreign commerce, or possess in or affecting commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in subsection (j) of section 72.6 of title 42, Code of Federal Regulations, pursuant to section 511(d)(l) of the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), and is not exempted under subsection (h) of such section 72.6, or appendix A of part 72 of the Code of Regulations.
+(a)(1) No restricted person shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations.
 
-(b) In this section:
+(2) Whoever knowingly violates this section shall be fined as provided in this title, imprisoned not more than 10 years, or both, but the prohibition contained in this section shall not apply with respect to any duly authorized United States governmental activity.
 
-&emsp;(1) The term “select agent” does not include any such biological agent or toxin that is in its naturally-occurring environment, if the biological agent or toxin has not been cultivated, collected, or otherwise extracted from its natural source.
+(b)
+
+Transfer to Unregistered Person.—
+
+&emsp;(1)
+
+Select agents.—Whoever transfers a select agent to a person who the transferor knows or has reasonable cause to believe is not registered as required by regulations under subsection (b) or (c) of section 351A of the Public Health Service Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
+
+&emsp;(2)
+
+Certain other biological agents and toxins.—Whoever transfers a biological agent or toxin listed pursuant to section 212(a)(1) of the Agricultural Bioterrorism Protection Act of 2002 to a person who the transferor knows or has reasonable cause to believe is not registered as required by regulations under subsection (b) or (c) of section 212 of such Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
+
+(c)
+
+Unregistered for Possession.—
+
+&emsp;(1)
+
+Select agents.—Whoever knowingly possesses a biological agent or toxin where such agent or toxin is a select agent for which such person has not obtained a registration required by regulations under section 351A(c) of the Public Health Service Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
+
+&emsp;(2)
+
+Certain other biological agents and toxins.—Whoever knowingly possesses a biological agent or toxin where such agent or toxin is a biological agent or toxin listed pursuant to section 212(a)(1) of the Agricultural Bioterrorism Protection Act of 2002 for which such person has not obtained a registration required by regulations under section 212(c) of such Act shall be fined under this title, or imprisoned for not more than 5 years, or both.
+
+(d) In this section:
+
+&emsp;(1) The term “select agent” means a biological agent or toxin to which subsection (a) applies. Such term (including for purposes of subsection (a)) does not include any such biological agent or toxin that is in its naturally-occurring environment, if the biological agent or toxin has not been cultivated, collected, or otherwise extracted from its natural source.
 
 &emsp;(2) The term “restricted person” means an individual who—
 
@@ -24,23 +50,39 @@
 
 &emsp;&emsp;(H) has been discharged from the Armed Services of the United States under dishonorable conditions.
 
-&emsp;(3) The term “alien” has the same meaning as in section 1010(a)(3) <sup>2</sup> of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3)).
+&emsp;(3) The term “alien” has the same meaning as in section 101(a)(3) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(3)).
 
 &emsp;(4) The term “lawfully admitted for permanent residence” has the same meaning as in section 101(a)(20) of the Immigration and Nationality Act (8 U.S.C. 1101(a)(20)).
 
-(c) Whoever knowingly violates this section shall be fined as provided in this title, imprisoned not more than 10 years, or both, but the prohibition contained in this section shall not apply with respect to any duly authorized United States governmental activity.
-
-(Added Pub. L. 107–56, title VIII, §817(2), Oct. 26, 2001, 115 Stat. 385.)
+(Added Pub. L. 107–56, title VIII, §817(2), Oct. 26, 2001, 115 Stat. 385; amended Pub. L. 107–188, title II, §231(a), (b)(1), (c)(2), June 12, 2002, 116 Stat. 660, 661; Pub. L. 107–273, div. B, title IV, §4005(g), Nov. 2, 2002, 116 Stat. 1813.)
 
 #### References in Text
 
-Section 511(d)(l) of the Antiterrorism and Effective Death Penalty Act of 1996, referred to in subsec. (a), is set out as a note under section 262 of Title 42, The Public Health and Welfare.
+Section 351A of the Public Health Service Act, referred to in subsecs. (a)(1), (b)(1), and (c)(1), is classified to section 262a of Title 42, The Public Health and Welfare.
+
+Section 212 of the Agricultural Bioterrorism Protection Act of 2002, referred to in subsecs. (b)(2) and (c)(2), is classified to section 8401 of Title 7, Agriculture.
+
+#### Amendments
+
+2002—Pub. L. 107–273 substituted “Possession by restricted persons” for “Select agents; certain other agents” in section catchline.
+
+Pub. L. 107–188, §231(b)(1)(B), substituted “Select agents; certain other agents” for “Possession by restricted persons” in section catchline.
+
+Subsec. (a)(1). Pub. L. 107–188, §231(a)(1), (c)(2)(A), designated existing provisions of subsec. (a) as par. (1) and substituted “shall ship or transport in or affecting interstate or foreign commerce, or possess in or affecting interstate or foreign commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in Appendix A of part 72 of title 42, Code of Federal Regulations, pursuant to section 351A of the Public Health Service Act, and is not exempted under subsection (h) of section 72.6, or Appendix A of part 72, of title 42, Code of Federal Regulations” for “described in subsection (b) shall ship or transport interstate or foreign commerce, or possess in or affecting commerce, any biological agent or toxin, or receive any biological agent or toxin that has been shipped or transported in interstate or foreign commerce, if the biological agent or toxin is listed as a select agent in subsection (j) of section 72.6 of title 42, Code of Federal Regulations, pursuant to section 511(d)(l) of the Antiterrorism and Effective Death Penalty Act of 1996 (Public Law 104–132), and is not exempted under subsection (h) of such section 72.6, or appendix A of part 72 of the Code of Regulations”.
+
+Subsec. (a)(2). Pub. L. 107–188, §231(a)(2), (3), redesignated and transferred subsec. (c) as par. (2) of subsec. (a).
+
+Subsec. (b). Pub. L. 107–188, §231(a)(5), added subsec. (b). Former subsec. (b) redesignated (d).
+
+Subsec. (c). Pub. L. 107–188, §231(a)(5), added subsec. (c). Former subsec. (c) redesignated (a)(2).
+
+Subsec. (d). Pub. L. 107–188, §231(a)(4), redesignated subsec. (b) as (d).
+
+Subsec. (d)(1). Pub. L. 107–188, §231(b)(1)(A), substituted “The term ‘select agent’ means a biological agent or toxin to which subsection (a) applies. Such term (including for purposes of subsection (a)) does not include” for “The term ‘select agent’ does not include”.
+
+Subsec. (d)(3). Pub. L. 107–188, §231(c)(2)(B), substituted “section 101(a)(3)” for “section 1010(a)(3)”.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2332b of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be followed by “in”.</i>
-
-<i><sup>2</sup></i><i> So in original. Probably should be section “101(a)(3)”.</i>
+This section is referred to in section 2332b of this title; title 7 section 8401; title 42 section 262a.
 

@@ -12,7 +12,7 @@ In the case of any electric powerplant granted an exemption, any person who oper
 
 #### (d) Assessment
 
-(1) Before issuing an order assessing a civil penalty against any person under this chapter, the Secretary shall provide to such person notice of the proposed penalty. Such notice shall inform such person of his opportunity to elect in writing within 30 days after the date of receipt of such notice to have the procedures of paragraph (3) (in lieu of those of paragraph (2)) apply with respect to such assessment.
+(1) Before issuing an order assessing a civil penalty against any person under this chapter, the Secretary shall provide to such person notice of the proposed penalty. Such notice shallinform such person of his opportunity to elect in writing within 30 days after the date of receipt of such notice to have the procedures of paragraph (3) (in lieu of those of paragraph (2)) apply with respect to such assessment.
 
 (2)(A) Unless an election is made within 30 calendar days after receipt of notice under paragraph (1) to have paragraph (3) apply with respect to such penalty, the Secretary shall assess the penalty, by order, after a determination of violation has been made on the record after an opportunity for an agency hearing pursuant to section 554 of title 5 before an administrative law judge appointed under section 3105 of such title 5. Such assessment order shall include the administrative law judge's findings and the basis for such assessment.
 

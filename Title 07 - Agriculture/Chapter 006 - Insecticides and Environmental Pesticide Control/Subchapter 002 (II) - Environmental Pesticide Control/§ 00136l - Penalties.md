@@ -42,7 +42,7 @@
 
 &emsp;When construing and enforcing the provisions of this subchapter, the act, omission, or failure of any officer, agent, or other person acting for or employed by any person shall in every case be also deemed to be the act, omission, or failure of such person as well as that of the person employed.
 
-(June 25, 1947, ch. 125, §14, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 992; amended Pub. L. 95–396, §17, Sept. 30, 1978, 92 Stat. 832; Pub. L. 100–532, title VI, §604, Oct. 25, 1988, 102Stat. 2678; Pub. L. 102–237, title X, §1006(a)(8), Dec. 13, 1991, 105 Stat. 1895.)
+(June 25, 1947, ch. 125, §14, as added Pub. L. 92–516, §2, Oct. 21, 1972, 86 Stat. 992; amended Pub. L. 95–396, §17, Sept. 30, 1978, 92 Stat. 832; Pub. L. 100–532, title VI, §604, Oct. 25, 1988, 102 Stat. 2678; Pub. L. 102–237, title X, §1006(a)(8), Dec. 13, 1991, 105 Stat. 1895.)
 
 #### Amendments
 

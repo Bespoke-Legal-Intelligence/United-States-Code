@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;The accounts of the Foundation shall be audited in accordance with section 10101 of title 36, including an audit of lobbying and litigation activities carried out by the Foundation.
+&emsp;The accounts of the Foundation shall be audited in accordance with section 10101 of title36, including an audit of lobbying and litigation activities carried out by the Foundation.
 
 #### (2) Repealed. Pub. L. 105–225, §6(b), Aug. 12, 1998, 112 Stat. 1499
 

@@ -18,7 +18,7 @@
 
 &emsp;(2) when requested, provide assistance to committees of Congress and members of Congress in obtaining information from the sources in the directory; and
 
-&emsp;(3) when requested, provide assistance to committees and, to the extent practicable, to members of Congress in evaluating the information obtained from the sources in the directory.
+&emsp;(3) when requested, provide assistance to committees and, to the extent practicable, tomembers of Congress in evaluating the information obtained from the sources in the directory.
 
 (d) To the extent they consider necessary, the Comptroller General and the Director of the Congressional Budget Office individually or jointly shall establish and maintain a file of information to meet recurring needs of Congress for fiscal, budget, and program information to carry out this section and sections 717 and 1112 of this title. The file shall include information on budget requests, congressional authorizations to obligate and expend, apportionment and reserve actions, and obligations and expenditures. The Comptroller General and the Director shall maintain the file and an index to the file so that it is easier for the committees and agencies of Congress to use the file and index through data processing and communications techniques.
 
@@ -98,7 +98,7 @@ In subsection (a), the word “President” is substituted for “Office of Mana
 
 In subsections (b)–(d), the words “program information” are substituted for “program-related data and information” to eliminate unnecessary words.
 
-In subsection (b)(1) and (3), the words “to such committee or joint committee, the Comptroller General, or the Director of the Congressional Budget Office” areomitted as unnecessary because of the restatement. In clause (1), the word “kind” is substituted for “nature” for consistency in the revised title. In clause (2), the words “that fiscal, budgetary, and program information” are substituted for “such data and information” because of the restatement.
+In subsection (b)(1) and (3), the words “to such committee or joint committee, the Comptroller General, or the Director of the Congressional Budget Office” are omitted as unnecessary because of the restatement. In clause (1), the word “kind” is substituted for “nature” for consistency in the revised title. In clause (2), the words “that fiscal, budgetary, and program information” are substituted for “such data and information” because of the restatement.
 
 In subsection (c), the word “inventory” is omitted as unnecessary. In clause (1), the word “develop” is omitted as being included in “establish”. In clause (2), the word “obtaining” is substituted for “securing” as being more precise. In clause (3), the word “evaluating” is substituted for “appraising and analyzing” for clarity and to eliminate unnecessary words.
 
@@ -108,7 +108,7 @@ In subsection (e)(1)(A), the word “specify” is omitted as being included in 
 
 In subsection (e)(2), the words “Before September 2 of each year” are substituted for “On or before September 1, 1974, and each year thereafter” for consistency.
 
-In subsection (e)(3), the words “Before March 2 of each year are substituted for “On or before March 1, 1975, and each year thereafter” for consistency. The word “codes” is omitted as being included in “classifications”. The words “information systems” are substituted for “systems”, and the words “use of standard classifications” are substituted for “classification implementations”, for consistency in the revised section.
+In subsection (e)(3), the words “Before March 2 of each year are substituted for “On or before March 1,1975, and each year thereafter” for consistency. The word “codes” is omitted as being included in “classifications”. The words “information systems” are substituted for “systems”, and the words “use of standard classifications” are substituted for “classification implementations”, for consistency in the revised section.
 
 1983
 
@@ -136,51 +136,81 @@ For termination, effective May 15, 2000, of provisions of law requiring submitta
 
 #### Oversight of Counterterrorism and Antiterrorism Activities; Report
 
-Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, as amended by Pub. L. 105–261, div. A, title XIV, §1403, Oct. 17, 1998, 112 Stat. 2168, provided that:
+Pub. L. 105–85, div. A, title X, §1051, Nov. 18, 1997, 111 Stat. 1889, as amended by Pub. L. 105–261, div. A, title XIV, §1403, Oct. 17, 1998, 112 Stat. 2168, which authorized establishment of a reporting system for executive agencies with respect to the budget and expenditure of funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities and required annual report on amounts proposed to be expended and counterterrorism and antiterrorism programs and activities being implemented, was repealed by Pub. L. 107–296, title VIII, §889(b)(1), Nov. 25, 2002, 116 Stat. 2251.
+
+#### Termination of Reporting Requirements
+
+Pub. L. 107–303, title III, §302(a), Nov. 27, 2002, 116 Stat. 2360, provided that:
 
 “(a)
 
-Oversight of Counterterrorism and Antiterrorism Activities.—Not later than 120 days after the date of the enactment of this Act \[Nov. 18, 1997\], the Director of the Office of Management and Budget shall—
+In General.—Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 (31 U.S.C. 1113 note; Public Law 104–66) does not apply to any report required to be submitted under any of the following provisions of law:
 
-&emsp;“(1) establish a reporting system for executive agencies with respect to the budget and expenditure of funds by such agencies for the purpose of carrying out counterterrorism and antiterrorism programs and activities; and
+&emsp;“(1)
 
-&emsp;“(2) using such reporting system, collect information on—
+Effects of pollution on estuaries of the united states.—Section 104(n)(3) of the Federal Water Pollution Control Act (33 U.S.C. 1254(n)(3)).
 
-&emsp;&emsp;“(A) the budget and expenditure of funds by executive agencies during the current fiscal year for purposes of carrying out counterterrorism and antiterrorism programs and activities; and
+&emsp;“(2)
 
-&emsp;&emsp;“(B) the specific programs and activities for which such funds were expended.
+Implementation of great lakes water quality agreement of 1978.—Section 118(c)(10) of the Federal Water Pollution Control Act (33 U.S.C. 1268(c)(10)).
 
-“(b)
+&emsp;“(3)
 
-Report.—Not later that March 1 of each year, the President shall submit to Congress a report in classified and unclassified form (using the information described in subsection (a)(2)) describing, for each executive agency and for the executive branch as a whole, the following:
+Comprehensive conservation and management plan for long island sound.—Section 119(c)(7) of the Federal Water Pollution Control Act (33 U.S.C. 1269(c)(7)).
 
-&emsp;“(1) The amounts proposed to be expended for counterterrorism and antiterrorism programs and activities for the fiscal year beginning in the calendar year in which the report is submitted.
+&emsp;“(4)
 
-&emsp;“(2) The amounts proposed to be expended for counterterrorism and antiterrorism programs and activities for the fiscal year in which the report is submitted and the amounts that have already been expended for such programs and activities for that fiscal year.
+Level b plan on all river basins.—Section 209(b) of the Federal Water Pollution Control Act (33 U.S.C. 1289(b)).
 
-&emsp;“(3) The specific counterterrorism and antiterrorism programs and activities being implemented, any priorities with respect to such programs and activities, and whether there has been any duplication of efforts in implementing such programs and activities.
+&emsp;“(5)
 
-“(c)
+State reports on water quality of all navigable waters.—Section 305(b) of the Federal Water Pollution Control Act (33 U.S.C. 1315(b)).
 
-Annex on Domestic Emergency Preparedness Program.—As part of the annual report submitted to Congress under subsection (b), the President shall include an annex which provides the following information on the domestic emergency preparedness program for response to terrorist incidents involving weapons of mass destruction (as established under section 1402 of the Defense Against Weapons of Mass Destruction Act of 1998 \[Pub. L. 105–261, 50 U.S.C. 2301 note\]):
+&emsp;“(6)
 
-&emsp;“(1) Information on program responsibilities for each participating Federal department, agency, and bureau.
+Exemptions from water pollution control requirements for executive agencies.—Section 313(a) of the Federal Water Pollution Control Act (33 U.S.C. 1323(a)).
 
-&emsp;“(2) A summary of program activities performed during the preceding fiscal year for each participating Federal department, agency, and bureau.
+&emsp;“(7)
 
-&emsp;“(3) A summary of program obligations and expenditures during the preceding fiscal year for each participating Federal department, agency, and bureau.
+Status of water quality in united states lakes.—Section 314(a) of the Federal Water Pollution Control Act (33 U.S.C. 1324(a)).
 
-&emsp;“(4) A summary of the program plan and budget for the current fiscal year for each participating Federal department, agency, and bureau.
+&emsp;“(8)
 
-&emsp;“(5) The program budget request for the following fiscal year for each participating Federal department, agency, and bureau.
+National estuary program activities.—Section 320(j)(2) of the Federal Water Pollution Control Act (33 U.S.C. 1330(j)(2)).
 
-&emsp;“(6) Recommendations for improving Federal, State, and local domestic emergency preparedness to respond to incidents involving weapons of mass destruction that have been made by the advisory panel to assess the capabilities of domestic response to terrorism involving weapons of mass destruction (as established under section 1405 of the Defense Against Weapons of Mass Destruction Act of 1998 \[Pub. L. 105–261, 50 U.S.C. 2301 note\]), and actions taken as a result of such recommendations.
+&emsp;“(9)
 
-&emsp;“(7) Additional program measures and legislative authority for which congressional action may be required.”
+Reports on contracts entered into relating to procurement from violators of water quality standards.—Section 508(e) of the Federal Water Pollution Control Act (33 U.S.C. 1368(e)).
 
-\[Memorandum of President of the United States, Mar. 5, 1998, 63 F.R. 12377, delegated to Director of the Office of Management and Budget reporting functions of President under section 1051(b) of Public Law 105–85 set out above.\]
+&emsp;“(10)
 
-#### Termination of Reporting Requirements
+National requirements and costs of water pollution control.—Section 516 of the Federal Water Pollution Control Act (33 U.S.C. 1375).”
+
+Pub. L. 107–295, title III, §322(b), Nov. 25, 2002, 116 Stat. 2103, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+
+&emsp;“(1)
+
+Coast guard operations and expenditures.—Section 651 of title 14, United States Code.
+
+&emsp;“(2)
+
+Summary of marine casualties reported during prior fiscal year.—Section 6307(c) of title 46, United States Code.
+
+&emsp;“(3)
+
+User fee activities and amounts.—Section 664 of title 46, United States Code.
+
+&emsp;“(4)
+
+Conditions of public ports of the united states.—Section 308(c) of title 49, United States Code.
+
+&emsp;“(5)
+
+Activities of federal maritime commission.—Section 208 of the Merchant Marine Act, 1936 (46 App. U.S.C. 1118).
+
+&emsp;“(6)
+
+Activities of interagency coordinating committee on oil pollution research.—Section 7001(e) of the Oil Pollution Act of 1990 (33 U.S.C. 2761(e)).”
 
 Pub. L. 107–74, §1, Nov. 28, 2001, 115 Stat. 701, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
@@ -280,7 +310,7 @@ Pub. L. 106–569, title XI, §1102, Dec. 27, 2000, 114 Stat. 3029, provided tha
 
 &emsp;“(18) Section 3(g) of the Home Owners’ Loan Act (12 U.S.C. 1462a(g)).
 
-&emsp;“(19) Section 304 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App. 304).
+&emsp;“(19) Section 304 of the Appalachian Regional Development Act of 1965 (40 U.S.C. App. 304) \[now 40 U.S.C. 14310\].
 
 &emsp;“(20) Sections 2(b)(1)(A), 8(a), 8(c) \[there is no 8(c)\], 10(g)(1), and 11(c) of the Export-Import Bank Act of 1945 (12 U.S.C. 635(b)(1)(A), 635g(a), 635g(c), 635i–3(g)\[1\], and 635i–5(c)).
 
@@ -520,7 +550,7 @@ Pub. L. 106–554, §1(a)(7) \[title III, §301\], Dec. 21, 2000, 114 Stat. 2763
 
 &emsp;“(33) Section 4207(f) of the Omnibus Budget Reconciliation Act of 1990 \[Pub. L. 101–508\] (42 U.S.C. 1395b–1 note).”
 
-Pub. L. 106–476, title I, §1463, Nov. 9, 2000, 114 Stat. 2173, provided that: “Section 3003(a)(1) of the FederalReports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
+Pub. L. 106–476, title I, §1463, Nov. 9, 2000, 114 Stat. 2173, provided that: “Section 3003(a)(1) of the Federal Reports Elimination and Sunset Act of 1995 \[Pub. L. 104–66\] (31 U.S.C. 1113 note) does not apply to any report required to be submitted under any of the following provisions of law:
 
 &emsp;“(1) Section 163 of the Trade Act of 1974 (19 U.S.C. 2213).
 
@@ -644,7 +674,7 @@ Pub. L. 106–65, div. A, title X, §1031, Oct. 5, 1999, 113 Stat. 749, provided
 
 &emsp;“(11) Section 8111(f) of title 38, United States Code.
 
-&emsp;“(12) Section 205(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486(b)).
+&emsp;“(12) Section 205(b) of the Federal Property and Administrative Services Act of 1949 (40 U.S.C. 486(b)) \[now 40 U.S.C. 121(b)\].
 
 &emsp;“(13) Section 3732 of the Revised Statutes, popularly known as the ‘Food and Forage Act’ (41 U.S.C. 11).
 
@@ -766,7 +796,7 @@ Specific Reports Exempted.—Subsection (a)(1) shall not apply to any report req
 
 &emsp;“(23) section 3301 of the Panama Canal Act of 1979 (22 U.S.C. 3871);
 
-&emsp;“(24) section 2202 of the Export Enhancement Act of 1988 (15 U.S.C. 4711);
+&emsp;“(24) section 2202 of the Export Enhancement Act of 1988 (\[former\] 15 U.S.C. 4711);
 
 &emsp;“(25) section 1504 of Public Law 103–160 (10 U.S.C. 402 note);
 
@@ -794,7 +824,7 @@ Purpose.—The purpose of this title is to improve the efficiency of executive b
 
 “(b)
 
-Authority of the Director.—The Director of the Office of Management and Budget may publish annually in the budget submitted by the President to the Congress, recommendations for consolidation, elimination, or adjustments in frequency and due dates of statutorily required periodic reports to the Congress or committees of Congress. For each recommendation, the Director shall provide an individualized statement of the reasons that support the recommendation. In addition, for each report for which a recommendation is made, the Director shall state with specificity the exact consolidation, elimination, or adjustment in frequency or due date that is recommended.
+Authority of the Director.—The Director of the Office of Management and Budget may publish annually in the budget submitted by the President to the Congress, recommendations for consolidation, elimination, or adjustments in frequency and due dates ofstatutorily required periodic reports to the Congress or committees of Congress. For each recommendation, the Director shall provide an individualized statement of the reasons that support the recommendation. In addition, for each report for which a recommendation is made, the Director shall state with specificity the exact consolidation, elimination, or adjustment in frequency or due date that is recommended.
 
 “(c)
 

@@ -9,7 +9,7 @@
 | (b) | Jurisdiction described. |
 | (c) | Statutory construction. |
 | (d) | “New international criminal tribunal” defined. |
-| [262a.](%C2%A7%2000262a%20-%20Contributions%20to%20international%20organizations%3B%20consent%20of%20State%20Department%3B%20reports%20to%20Congress%3B%20limitations%20as%20to%20certain%20organizations.md) | Contributions to international organizations; consent of State Department; reports to Congress; limitations as to certain organizations. |
+| [262a.](%C2%A7%2000262a%20-%20Contributions%20to%20international%20organizations%3B%20consent%20of%20State%20Department%3B%20limitations%20as%20to%20certain%20organizations.md) | Contributions to international organizations; consent of State Department; limitations as to certain organizations. |
 | [262b.](%C2%A7%2000262b%20-%20Commitments%20for%20United%20States%20contributions%20to%20international%20organizations%3B%20limitations%3B%20consultation%20with%20Congressional%20committees.md) | Commitments for United States contributions to international organizations; limitations; consultation with Congressional committees. |
 | [262c.](%C2%A7%2000262c%20-%20Commitments%20for%20United%20States%20contributions%20to%20international%20financial%20institutions%20fostering%20economic%20development%20in%20less%20developed%E2%80%A6.md) | Commitments for United States contributions to international financial institutions fostering economic development in less developed countries; continuation of participation. |
 | (a) | Congressional findings. |
@@ -792,12 +792,11 @@
 | [287a.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287a%20-%20Action%20by%20representatives%20in%20accordance%20with%20Presidential%20instructions%3B%20voting.md) | Action by representatives in accordance with Presidential instructions; voting. |
 | [287b.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287b%20-%20Reports%20to%20Congress%20by%20President.md) | Reports to Congress by President. |
 | (a) | Periodic reports. |
-| (b) | Transmittal of Security Council resolutions. |
-| (c) | Reports on peacekeeping operations. |
-| (d) | Annual report. |
-| (e) | Consultations and reports on United Nations peacekeeping operations. |
-| (f) | Designated congressional committees. |
-| (g) | Relationship to other notification requirements. |
+| (b) | Annual report on financial contributions. |
+| (c) | Annual report. |
+| (d) | Consultations and reports on United Nations peacekeeping operations. |
+| (e) | Designated congressional committees. |
+| (f) | Relationship to other notification requirements. |
 | [287c.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287c%20-%20Economic%20and%20communication%20sanctions%20pursuant%20to%20United%20Nations%20Security%20Council%20Resolution.md) | Economic and communication sanctions pursuant to United Nations Security Council Resolution. |
 | (a) | Enforcement measures; importation of Rhodesian chromium. |
 | (b) | Penalties. |
@@ -817,6 +816,7 @@
 | (d) | Waiver. |
 | (e) | Relationship to other reimbursement authority. |
 | (f) | Definition. |
+| 287e–3. | Limitation on the United States share of assessments for United Nations regular budget. |
 | [287f.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287f%20-%20Omitted.md) | Omitted. |
 | [287g.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287g%20-%20Authorization%20of%20appropriations%20for%20loan%20to%20United%20Nations%3B%20restrictions%20on%20use%20of%20proceeds%20of%20loan.md) | Authorization of appropriations for loan to United Nations; restrictions on use of proceeds of loan. |
 | [287h.](Subchapter%20016%20%28XVI%29%20-%20United%20Nations%20Organization/%C2%A7%2000287h%20-%20Limitation%20on%20loan.md) | Limitation on loan. |
@@ -860,6 +860,7 @@
 | 288f–2. | Organization of African Unity; extension of privileges, exemptions, and immunities. |
 | 288f–3. | Immunities for International Committee of the Red Cross. |
 | 288f–4. | International Union for Conservation of Nature and Natural Resources; extension of privileges, exemptions, and immunities. |
+| 288f–5. | European Central Bank; extension of privileges, exemptions, and immunities. |
 | [288g.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288g%20-%20Organization%20of%20American%20States%3B%20extension%20of%20privileges%20and%20immunities%20to%20members.md) | Organization of American States; extension of privileges and immunities to members. |
 | [288h.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288h%20-%20Commission%20of%20European%20Communities%3B%20extension%20of%20privileges%20and%20immunities%20to%20members.md) | Commission of European Communities; extension of privileges and immunities to members. |
 | [288i.](Subchapter%20018%20%28XVIII%29%20-%20Privileges%20and%20Immunities%20of%20International%20Organizations/%C2%A7%2000288i%20-%20Liaison%20Office%20of%20the%20People%27s%20Republic%20of%20China%3B%20extension%20of%20privileges%20and%20immunities%20to%20members.md) | Liaison Office of the People's Republic of China; extension of privileges and immunities to members. |
@@ -1150,7 +1151,7 @@
 - [&sect; 00261 - Policy as to settlement of disputes and disarmament](%C2%A7%2000261%20-%20Policy%20as%20to%20settlement%20of%20disputes%20and%20disarmament.md)
 - [&sect; 00262 - President's participation in international congresses restricted](%C2%A7%2000262%20-%20President%27s%20participation%20in%20international%20congresses%20restricted.md)
 - [&sect; 00262&#8211;1 - Restriction relating to United States accession to any new international criminal tribunal](%C2%A7%2000262%E2%80%931%20-%20Restriction%20relating%20to%20United%20States%20accession%20to%20any%20new%20international%20criminal%20tribunal.md)
-- [&sect; 00262a - Contributions to international organizations; consent of State Department; reports to Congress; limitations as to certain organizations](%C2%A7%2000262a%20-%20Contributions%20to%20international%20organizations%3B%20consent%20of%20State%20Department%3B%20reports%20to%20Congress%3B%20limitations%20as%20to%20certain%20organizations.md)
+- [&sect; 00262a - Contributions to international organizations; consent of State Department; limitations as to certain organizations](%C2%A7%2000262a%20-%20Contributions%20to%20international%20organizations%3B%20consent%20of%20State%20Department%3B%20limitations%20as%20to%20certain%20organizations.md)
 - [&sect; 00262b - Commitments for United States contributions to international organizations; limitations; consultation with Congressional committees](%C2%A7%2000262b%20-%20Commitments%20for%20United%20States%20contributions%20to%20international%20organizations%3B%20limitations%3B%20consultation%20with%20Congressional%20committees.md)
 - [&sect; 00262c - Commitments for United States contributions to international financial institutions fostering economic development in less developed&#8230;](%C2%A7%2000262c%20-%20Commitments%20for%20United%20States%20contributions%20to%20international%20financial%20institutions%20fostering%20economic%20development%20in%20less%20developed%E2%80%A6.md)
 - [&sect; 00262d - Human rights and United States assistance policies with international financial institutions](%C2%A7%2000262d%20-%20Human%20rights%20and%20United%20States%20assistance%20policies%20with%20international%20financial%20institutions.md)

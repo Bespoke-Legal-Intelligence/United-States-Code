@@ -34,7 +34,7 @@
 
 &emsp;&emsp;&emsp;(ii) is, in the judgment of the Board of Directors, in danger of being placed in receivership; or
 
-&emsp;&emsp;&emsp;(iii) is, in the sole discretion of the Corporation, an insured System bank that, when severe financial conditions exist that threaten the stability of a significant number of insured System banks or of insured System banks possessing significant financial resources, requires assistance under subparagraph (A) to lessen the risk to the Corporation posed by such insured System bank under such threat of instability.
+&emsp;&emsp;&emsp;(iii) is, in the sole discretion of the Corporation, an insured System bank that,when severe financial conditions exist that threaten the stability of a significant number of insured System banks or of insured System banks possessing significant financial resources, requires assistance under subparagraph (A) to lessen the risk to the Corporation posed by such insured System bank under such threat of instability.
 
 #### (3) Limitation
 
@@ -86,7 +86,7 @@
 
 #### (5) Reports
 
-&emsp;The Corporation, in its annual report to Congress, shall report the total amount saved,or it estimates to be saved, by the Corporation exercising the authority provided to the Corporation in this subsection.
+&emsp;The Corporation, in its annual report to Congress, shall report the total amount saved, or it estimates to be saved, by the Corporation exercising the authority provided to the Corporation in this subsection.
 
 #### (b) Authority to pledge or sell assets
 
@@ -110,7 +110,7 @@ Any agreement that shall diminish or defeat the right, title, or interest of the
 
 &emsp;(2) is executed by the bank and the person or persons claiming an adverse interest thereunder, including the obligor, contemporaneously with the acquisition of the asset by the bank;
 
-&emsp;(3) has been approved by the board of directors of the bank or its loan committee, which approval shall be reflected in the minutes of the board or committee; and
+&emsp;(3) has been approved by the board of directors of the bank or its loan committee, whichapproval shall be reflected in the minutes of the board or committee; and
 
 &emsp;(4) has been, continuously, from the time of its execution, an official record of the bank.
 

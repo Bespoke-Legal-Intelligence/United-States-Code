@@ -60,7 +60,7 @@
 
 (5) As used in this subsection—
 
-&emsp;(A) “depository institution” has the meaning stated in clauses (i) through (vi) of section19(b)(1)(A) of the Federal Reserve Act and also includes a foreign bank, an agency or branch of a foreign bank, and a commercial lending company owned or controlled by a foreign bank (as such terms are defined in the International Banking Act of 1978).
+&emsp;(A) “depository institution” has the meaning stated in clauses (i) through (vi) of section 19(b)(1)(A) of the Federal Reserve Act and also includes a foreign bank, an agency or branch of a foreign bank, and a commercial lending company owned or controlled by a foreign bank (as such terms are defined in the International Banking Act of 1978).
 
 &emsp;(B) “government securities broker” has the meaning prescribed in section 3(a)(43) of the Securities Exchange Act of 1934.
 
@@ -250,7 +250,7 @@ Prohibition on Favored Players.—
 
 &emsp;“(1)
 
-In general.—No government securities broker or government securities dealer may receive any advantage, favorable treatment, or other benefit, in connection with the purchase upon issuance of securities issued by the Secretary of the Treasury, which is not generally available to other government securities brokers or government securities dealers under the regulations governing the sale upon issuance of securities issued by the Secretary of the Treasury.
+In general.—No government securities broker or government securities dealer may receive any advantage, favorable treatment, or other benefit, in connection with the purchase upon issuance of securities issued by the Secretary of the Treasury, which isnot generally available to other government securities brokers or government securities dealers under the regulations governing the sale upon issuance of securities issued by the Secretary of the Treasury.
 
 &emsp;“(2)
 

@@ -6,7 +6,7 @@
 
 (C) No pension in excess of $90 per month shall be paid to or for a veteran having neither spouse nor child for any period after the month in which such veteran is readmitted for care described in subparagraph (A) or (B) of this paragraph and furnished by the Department if such veteran is readmitted within six months of a period of care in connection with which pension was reduced pursuant to subparagraph (A) or (B) of this paragraph.
 
-(D) In the case of a veteran being furnished nursing home care by the Department and with respect to whom subparagraph (B) of this paragraph requires a reduction in pension, such reduction shall not be made for a period of up to three additional calendar months after the last day of the third month referred to in such subparagraph if the Secretary determines that the primary purpose for the furnishing of such care during such additional period is for the Department to provide such veteran with a prescribed program of rehabilitation services, under chapter 17 of this title, designed to restore such veteran's ability to function within such veteran'sfamily and community. If the Secretary determines that it is necessary, after such period, for the veteran to continue such program of rehabilitation services in order to achieve the purposes of such program and that the primary purpose of furnishing nursing home care to the veteran continues to be the provision of such program to the veteran, the reduction in pension required by subparagraph (B) of this paragraph shall not be made for the number of calendar months that the Secretary determines is necessary for the veteran to achieve the purposes of such program.
+(D) In the case of a veteran being furnished nursing home care by the Department and with respect to whom subparagraph (B) of this paragraph requires a reduction in pension, such reduction shall not be made for a period of up to three additional calendar months after the last day of the third month referred to in such subparagraph if the Secretary determines that the primary purpose for the furnishing of such care during such additional period is for the Department to provide such veteran with a prescribed program of rehabilitation services, under chapter 17 of this title, designed to restore such veteran's ability to function within such veteran's family and community. If the Secretary determines that it is necessary, after such period, for the veteran to continue such program of rehabilitation services in order to achieve the purposes of such program and that the primary purpose of furnishing nursing home care to the veteran continues to be the provision of such program to the veteran, the reduction in pension required by subparagraph (B) of this paragraph shall not be made for the number of calendar months that the Secretary determines is necessary for the veteran to achieve the purposes of such program.
 
 (2) The provisions of paragraph (1) shall also apply to a veteran being furnished such care who has a spouse but whose pension is payable under section 1521(b) of this title. In such a case, the Secretary may apportion and pay to the spouse, upon an affirmative showing of hardship, all or any part of the amounts in excess of the amount payable to the veteran while being furnished such care which would be payable to the veteran if pension were payable under section 1521(c) of this title.
 
@@ -24,7 +24,7 @@
 
 (3) Notwithstanding any provision of title XIX of the Social Security Act, the amount of the payment paid a nursing facility pursuant to a Medicaid plan for services furnished a veteran may not be reduced by any amount of pension permitted to be paid such veteran under paragraph (2) of this subsection.
 
-(4) A veteran is not liable to the United States for any payment of pension in excess of the amount permitted under this subsection that is paid to or for the veteran by reason of the inability or failure of the Secretary to reduce the veteran's pension under this subsection unless such inability or failure is the result of a willful concealment by the veteran of information necessary to make a reduction in pension under this subsection.
+(4) A veteran is not liable to the United States for any payment of pension in excess of the amount permitted under this subsection that ispaid to or for the veteran by reason of the inability or failure of the Secretary to reduce the veteran's pension under this subsection unless such inability or failure is the result of a willful concealment by the veteran of information necessary to make a reduction in pension under this subsection.
 
 (5) The provisions of this subsection shall apply with respect to a surviving spouse having no child in the same manner as they apply to a veteran having neither spouse nor child.
 
@@ -114,7 +114,7 @@ Pub. L. 102–40, §304(a), inserted before period at end “, other than a fac
 
 1986—Subsec. (e). Pub. L. 99–576 substituted “the veteran's” for “his” before “admission”.
 
-1984—Subsec. (b)(1). Pub. L. 98–543 designated first and second sentences as subpars. (A) and (B), respectively, and in subpar. (A), as so designated, substituted “or” for the comma after “treatment”, struck out “byreason of mental illness” after “as being incompetent”, inserted “(excluding the value of the veteran's home unless there is no reasonable likelihood that the veteran will again reside in such home),” after “the veteran's estate”, and added subpar. (C).
+1984—Subsec. (b)(1). Pub. L. 98–543 designated first and second sentences as subpars. (A) and (B), respectively, and in subpar. (A), as so designated, substituted “or” for the comma after “treatment”, struck out “by reason of mental illness” after “as being incompetent”, inserted “(excluding the value of the veteran's home unless there is no reasonable likelihood that the veteran will again reside in such home),” after “the veteran's estate”, and added subpar. (C).
 
 1983—Subsec. (a)(2). Pub. L. 98–160, §703(4)(A), (B), substituted “spouse” for “wife”, and “the veteran” for “him”.
 
@@ -186,7 +186,7 @@ Section 601(d) of Pub. L. 102–568 provided that: “The amendments made by sub
 
 #### Effective Date of 1991 Amendments
 
-Section 101(b) of Pub. L. 102–86 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if contained in section 111 ofthe Veterans’ Benefits Amendments of 1989 (Public Law 101–237; 103 Stat. 2064).”
+Section 101(b) of Pub. L. 102–86 provided that: “The amendment made by subsection (a) \[amending this section\] shall take effect as if contained in section 111 of the Veterans’ Benefits Amendments of 1989 (Public Law 101–237; 103 Stat. 2064).”
 
 Section 304(b) of Pub. L. 102–40 provided that: “The amendment made by subsection (a) \[amending this section\] shall apply as if included in the amendment made by section 8003(a) of the Omnibus Budget Reconciliation Act of 1990 (Public Law 101–508; 104 Stat. 1388–874).”
 
@@ -236,7 +236,7 @@ Amendment by Pub. L. 86–146 effective first day of first calendar month which 
 
 #### Improvement in Pension Program Administration; Report to Congressional Committees
 
-Pub. L. 99–166, title I, §108(d), Dec. 3, 1985, 99 Stat. 947, provided that (1) in order to improve timeliness of adjustments made pursuant to subsec. (a) of this section, in amount of pension being paid to a veteran being furnished nursing home care by Veterans’ Administration, the Chief Medical Director \[now Under Secretary for Health\] of the Veterans’ Administration was to develop improved procedures for notifying the Chief Benefits Director \[now Under Secretary for Benefits\] of the Veterans’ Administration when a veteran is admitted to a nursing home, and (2) the Administrator was to submit to Committees on Veterans’ Affairs of the Senate and House of Representatives a report, within 90 days, on development and implementation of such procedures.
+Pub. L. 99–166, title I, §108(d), Dec. 3, 1985, 99 Stat. 947, provided that (1) in order to improve timeliness of adjustments made pursuant to subsec. (a) of this section, in amount of pension being paid to a veteran being furnished nursing home care by Veterans’ Administration, the Chief Medical Director \[now Under Secretary for Health\] of the Veterans’ Administration was to develop improved procedures for notifying the Chief Benefits Director \[now Under Secretary for Benefits\] of the Veterans’ Administration when a veteran is admitted to a nursing home, and (2) the Administrator was to submit to Committees on Veterans’ Affairs of the Senate andHouse of Representatives a report, within 90 days, on development and implementation of such procedures.
 
 #### Regulations; Waiver for Hardship Reasons
 

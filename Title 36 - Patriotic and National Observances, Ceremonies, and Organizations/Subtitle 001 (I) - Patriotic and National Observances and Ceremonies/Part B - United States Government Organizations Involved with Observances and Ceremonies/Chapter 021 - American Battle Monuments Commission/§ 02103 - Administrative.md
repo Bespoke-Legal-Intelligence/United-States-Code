@@ -4,7 +4,7 @@
 
 General Authority.—Subject to appropriations made to carry out this chapter, the American Battle Monuments Commission may—
 
-&emsp;(1) acquire land or an interest in land in a foreign country to carry out the purposes of this chapter, or an executive order conferring duties and powers on the Commission, without submission to the Attorney General under section 355 of the Revised Statutes (40 U.S.C. 255);
+&emsp;(1) acquire land or an interest in land in a foreign country to carry out the purposes of this chapter, or an executive order conferring duties and powers on the Commission, without submission to the Attorney General under section 3111 of title 40;
 
 &emsp;(2) maintain, repair, and operate motor-propelled passenger-carrying vehicles and other property that another department, agency, or instrumentality of the United States Government provides to the Commission;
 
@@ -56,7 +56,7 @@ Financial Statements and Audits.—(1) The Commission shall have a system of fin
 
 &emsp;&emsp;(ii) submit the financial statement, together with a narrative summary, to the Committees on Veterans’ Affairs of the Senate and House of Representatives; and
 
-&emsp;(B) obtain an audit by the Comptroller General of each financial statement prepared under subparagraph (A) of this paragraph, which shall be conducted in accordance withapplicable generally accepted government auditing standards and shall be in lieu of any audit otherwise required by law.
+&emsp;(B) obtain an audit by the Comptroller General of each financial statement prepared under subparagraph (A) of this paragraph, which shall be conducted in accordance with applicable generally accepted government auditing standards and shall be in lieu of any audit otherwise required by law.
 
 (i)
 
@@ -70,7 +70,7 @@ Seal.—The Commission shall have a seal that shall be judicially noticed.
 
 Disbursements Outside Continental United States.—Disbursements for expenditures outside the continental United States may be made by a special disbursing agent designated by the Commission under regulations it prescribes.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1270; Pub. L. 106–117, title VI, §§602, 604(3), Nov. 30, 1999, 113 Stat. 1578, 1580.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1270; Pub. L. 106–117, title VI, §§602, 604(3), Nov. 30, 1999, 113 Stat. 1578, 1580; Pub. L. 107–217, §3(i)(1), Aug. 21, 2002, 116 Stat. 1300.)
 
 Historical and Revision Notes
 
@@ -159,6 +159,8 @@ In subsection (b), the text of 36:137 is omitted as superseded. The words “whi
 In subsection (c), the words “in its discretion”, “by contract or otherwise”, and “firms of architects” are omitted as unnecessary.
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–217 substituted “section 3111 of title 40” for “section 355 of the Revised Statutes (40 U.S.C. 255)”.
 
 1999—Subsec. (d). Pub. L. 106–117, §604(3)(C), substituted “Chairman” for “chairman”.
 

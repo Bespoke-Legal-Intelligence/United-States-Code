@@ -34,7 +34,7 @@ Reports.—(1) Each certification submitted under subsection (a) of this section
 
 &emsp;(D) any other information the Secretary requires.
 
-(2) The report included in the first certification submitted under subsection (a) of this section is only required to state information available at the time of certification.
+(2) The report included in the first certification submitted under subsection (a) of thissection is only required to state information available at the time of certification.
 
 (d)
 
@@ -140,5 +140,5 @@ In subsection (f), the words “prescribed under this chapter” are added for c
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 60104, 60106, 60107, 60108, 60118, 60121, 60124, 60125, 60126 of this title.
+This section is referred to in sections 60104, 60106, 60107, 60108, 60118, 60121, 60124, 60126 of this title.
 

@@ -52,7 +52,7 @@
 
 &emsp;&emsp;&emsp;(iv) if personally identifiable information is removed, for a population statistics database, for identification research and protocol development purposes, or for quality control purposes; and
 
-&emsp;&emsp;(C) such laboratory, and each analyst performing DNA analyses at such laboratory, will undergo semiannual external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title.
+&emsp;&emsp;(C) such laboratory, and each analyst performing DNA analyses at such laboratory,will undergo semiannual external proficiency testing by a DNA proficiency testing program meeting the standards issued under section 14131 of this title.
 
 &emsp;(13) If any part of the amount received from a grant under this subchapter is to be used to improve the quality, timeliness, and credibility of forensic science services for criminal justice purposes, a certification that, as of December 21, 2000, the State, or unit of local government within the State, has an established—
 
@@ -66,7 +66,7 @@
 
 &emsp;&emsp;&emsp;(ii) employs generally accepted practices and procedures, as established by appropriate accrediting organizations; and
 
-&emsp;&emsp;&emsp;(iii) is accredited by the Laboratory Accreditation Board of the American Society of Crime Laboratory Directors or the National Association of Medical Examiners, or will use a portion of the grant amount to prepare and apply for such accreditation by not later than 2 years after the date on which a grant is initially awarded under this paragraph; or
+&emsp;&emsp;&emsp;(iii) is accredited by the Laboratory Accreditation Board of the American Society of Crime Laboratory Directors, the National Association of Medical Examiners, or any other nonprofit, professional organization that may be recognized within the forensic science community as competent to award such accreditation, or will use a portion of the grant amount to prepare and apply for such accreditation by not later than 2 years after the date on which a grant is initially awarded under this paragraph; or
 
 &emsp;&emsp;(B) medical examiner's office (as defined by the National Association of Medical Examiners) that—
 
@@ -76,13 +76,15 @@
 
 (b) Within 30 days after November 18, 1988, the Director shall promulgate regulations to implement this section (including the information that must be included and the requirements that the States must meet) in submitting the applications required under this section.
 
-(Pub. L. 90–351, title I, §503, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4331; amended Pub. L. 101–649, title V, §507(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, §306(a)(6), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 103–322, title XXI, §210302(b), Sept. 13, 1994, 108 Stat. 2065; Pub. L. 106–546, §8(a), Dec. 19, 2000, 114 Stat. 2734; Pub. L. 106–561, §2(b), Dec. 21, 2000, 114 Stat. 2787.)
+(Pub. L. 90–351, title I, §503, as added Pub. L. 100–690, title VI, §6091(a), Nov. 18, 1988, 102 Stat. 4331; amended Pub. L. 101–649, title V, §507(a), Nov. 29, 1990, 104 Stat. 5050; Pub. L. 102–232, title III, §306(a)(6), Dec. 12, 1991, 105 Stat. 1751; Pub. L. 103–322, title XXI, §210302(b), Sept. 13, 1994, 108 Stat. 2065; Pub. L. 106–546, §8(a), Dec. 19, 2000, 114 Stat. 2734; Pub. L. 106–561, §2(b), Dec. 21, 2000, 114 Stat. 2787; Pub. L. 107–273, div. B, title V, §5001(a), Nov. 2, 2002, 116 Stat. 1813.)
 
 #### Prior Provisions
 
 For prior sections 503 of Pub. L. 90–351 and prior sections 3753 of this title, see note set out preceding section 3750 of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(13)(A)(iii). Pub. L. 107–273 substituted “, the National Association of Medical Examiners, or any other nonprofit, professional organization that may be recognized within the forensic science community as competent to award such accreditation,” for “or the National Association of Medical Examiners,”.
 
 2000—Subsec. (a)(12)(C). Pub. L. 106–546 substituted “semiannual” for “, at regular intervals of not to exceed 180 days,”.
 
@@ -110,7 +112,11 @@ Section 507(b) of Pub. L. 101–649 provided that: “The amendment made by subs
 
 Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistance, other than those enumerated in section 3742(3) to (6) of this title, transferred to Assistant Attorney General for Office of Justice Programs, see section 1000(a)(1) \[title I, §108(b)\] of Pub. L. 106–113, set out as a note under section 3741 of this title.
 
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of Title 8, Aliens and Nationality.
+
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3755, 3757, 3761, 3766b, 3782, 3796bb–1, 3796dd–1 of this title.
+This section is referred to in sections 3755, 3757, 3766b, 3782, 3796bb–1, 3796dd–1 of this title.
 

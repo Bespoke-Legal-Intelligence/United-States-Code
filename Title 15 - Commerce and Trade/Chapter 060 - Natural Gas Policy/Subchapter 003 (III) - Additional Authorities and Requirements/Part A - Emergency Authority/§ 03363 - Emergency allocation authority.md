@@ -2,7 +2,7 @@
 
 #### (a) In general
 
-In order to assist in meeting natural gas requirements for high-priority uses of natural gasduring any natural gas supply emergency declared under section 3361 of this title, the President may, by order, allocate supplies of natural gas under subsections (b), (c), and (d) of this section to—
+In order to assist in meeting natural gas requirements for high-priority uses of natural gas during any natural gas supply emergency declared under section 3361 of this title, the President may, by order, allocate supplies of natural gas under subsections (b), (c), and (d) of this section to—
 
 &emsp;(1) any interstate pipeline;
 
@@ -44,7 +44,7 @@ In order to assist in meeting natural gas requirements for high-priority uses of
 
 &emsp;&emsp;(B) the exercise of such authority is not likely to satisfy the natural gas requirements for such high-priority uses;
 
-&emsp;&emsp;(C) the exercise of authority under this subsection is reasonably necessary to assist in meeting natural gas requirements for such high-priority uses;
+&emsp;&emsp;(C) the exercise of authority under this subsection is reasonably necessary to assistin meeting natural gas requirements for such high-priority uses;
 
 &emsp;&emsp;(D) any interstate pipeline or local distribution company receiving such natural gas has ordered the termination of all deliveries of natural gas for other than high-priority uses and attempted to the maximum extent practicable to terminate such deliveries;
 

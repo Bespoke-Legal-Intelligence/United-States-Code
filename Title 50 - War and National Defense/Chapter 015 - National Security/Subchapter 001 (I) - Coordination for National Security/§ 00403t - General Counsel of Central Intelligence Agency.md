@@ -10,7 +10,7 @@ The General Counsel is the chief legal officer of the Central Intelligence Agenc
 
 #### (c) Functions
 
-The General Counsel of the Central Intelligence Agency shall perform such functions asthe Director of Central Intelligence may prescribe.
+The General Counsel of the Central Intelligence Agency shall perform such functions as the Director of Central Intelligence may prescribe.
 
 (June 20, 1949, ch. 227, §20, as added Pub. L. 104–293, title VIII, §813(a), Oct. 11, 1996, 110 Stat. 3483.)
 
@@ -24,5 +24,5 @@ Section 813(b) of Pub. L. 104–293 provided that: “The requirement establishe
 
 &emsp;“(1) To any vacancy in such position that occurs after the date of the enactment of this Act \[Oct. 11, 1996\].
 
-&emsp;“(2) To the incumbent serving in such position on the date of the enactment of this Act as of the date that is six months after such date of enactment, if such incumbent has served in such position continuously between such date of enactment and the date that is six months after such date of enactment.”
+&emsp;“(2) To the incumbent serving in such position on the date of the enactment of this Act as of the date that is six months after such date of enactment, ifsuch incumbent has served in such position continuously between such date of enactment and the date that is six months after such date of enactment.”
 

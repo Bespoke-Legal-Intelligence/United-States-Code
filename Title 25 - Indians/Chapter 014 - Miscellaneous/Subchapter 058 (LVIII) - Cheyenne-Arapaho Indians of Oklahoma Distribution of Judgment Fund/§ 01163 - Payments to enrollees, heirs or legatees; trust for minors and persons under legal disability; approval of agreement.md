@@ -2,7 +2,7 @@
 
 The Secretary of the Interior shall distribute remaining funds per capita to all persons alive on October 31, 1967, whose names appear on the membership roll of the Cheyenne-Arapaho Tribes of Oklahoma or who, on October 31, 1967, were eligible for membership, hereinafter referred to as “enrollees”, as follows:
 
-&emsp;(a) A share payable to an enrollee not less than eighteen years of age shall be paid directly in one payment to such enrollee, except as provided in subsections (b) and (c) of this section;
+&emsp;(a) A share payable to an enrollee not less than eighteen years of age shall be paid directly in one payment to such enrollee, exceptas provided in subsections (b) and (c) of this section;
 
 &emsp;(b) A share payable to an enrollee dying after October 31, 1967, shall be distributed to his heirs or legatees upon the filing of proof of death and inheritance satisfactory to the Secretary of the Interior, or his authorized representative, whose findings and determinations upon such proof shall be final and conclusive: <i>Provided</i>, That if a share of such deceased enrollee, or a portion thereof, is payable to an heir or legatee under eighteen years of age or to an heir or legatee under legal disability other than because of age, the same shall be paid and held in trust pursuant to subsection (c) of this section;
 

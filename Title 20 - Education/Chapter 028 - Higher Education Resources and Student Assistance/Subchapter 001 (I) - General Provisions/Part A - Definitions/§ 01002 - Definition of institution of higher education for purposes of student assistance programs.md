@@ -22,7 +22,7 @@
 
 &emsp;&emsp;&emsp;(II) at least 60 percent of the individuals who were students or graduates of the graduate medical school outside the United States (both nationals of the United States and others) taking the examinations administered by the Educational Commission for Foreign Medical Graduates received a passing score in the year preceding the year for which a student is seeking a loan under part B of subchapter IV of this chapter; or
 
-&emsp;&emsp;&emsp;(ii) the institution has a clinical training program that was approved by a State as of January 1, 1992, or the institution's students complete their clinical training atan approved veterinary school located in the United States.
+&emsp;&emsp;&emsp;(ii) the institution has a clinical training program that was approved by a State as of January 1, 1992, or the institution's students complete their clinical training at an approved veterinary school located in the United States.
 
 #### (B) Advisory panel
 
@@ -72,7 +72,7 @@
 
 #### (6) Loss of eligibility
 
-&emsp;An institution of higher education shall not be considered to meet the definition of an institution of higher education in paragraph (1) if such institution is removed from eligibility for funds under subchapter IV of this chapterand part C of subchapter I of chapter 34 of title 42 as a result of an action pursuant to part G of subchapter IV of this chapter.
+&emsp;An institution of higher education shall not be considered to meet the definition of an institution of higher education in paragraph (1) if such institution is removed from eligibility for funds under subchapter IV of this chapter and part C of subchapter I of chapter 34 of title 42 as a result of an action pursuant to part G of subchapter IV of this chapter.
 
 #### (b) Proprietary institution of higher education
 
@@ -132,7 +132,7 @@ Another prior section 1002, Pub. L. 89–329, title I, §102, Nov. 8, 1965, 79 S
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1001, 1011c, 1078–11, 1085, 1093, 1094, 1099b, 1099c, 1099c–2, 2373, 6103 of this title; title 29 section 2801; title 42 sections 292d, 12604.
+This section is referred to in sections 1001, 1011c, 1078–11, 1085, 1093, 1094, 1099b, 1099c, 1099c–2, 2373, 6103 of this title; title 29 section 2801; title 37 section 430; title 42 sections 292d, 677, 12604.
 
 <i><sup>1</sup></i><i> So in original. Probably should be “part B of subchapter IV of this chapter”.</i>
 

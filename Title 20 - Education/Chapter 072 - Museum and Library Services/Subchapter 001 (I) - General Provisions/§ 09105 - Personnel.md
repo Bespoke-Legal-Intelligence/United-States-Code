@@ -34,5 +34,5 @@ A prior section 206 of Pub. L. 94–462 was classified to section 965 of this ti
 
 #### Consideration Given to Individuals With Experience
 
-Section 101(e) \[title VII, §706\] of div. A of Pub. L. 104–208 provided that: “Consistent with title 5, UnitedStates Code, in appointing employees of the Office of Library Services, the Director of the Institute of Museum and Library Services shall give strong consideration to individuals with experience in administering State-based and national library and information services programs.”
+Section 101(e) \[title VII, §706\] of div. A of Pub. L. 104–208 provided that: “Consistent with title 5, United States Code, in appointing employees of the Office of Library Services, the Director of the Institute of Museum and Library Services shall give strong consideration to individuals with experience in administering State-based and national library and information services programs.”
 

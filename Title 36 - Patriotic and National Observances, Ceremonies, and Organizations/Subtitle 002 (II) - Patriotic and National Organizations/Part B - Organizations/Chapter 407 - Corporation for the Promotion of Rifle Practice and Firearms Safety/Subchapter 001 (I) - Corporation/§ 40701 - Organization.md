@@ -42,7 +42,7 @@ Pub. L. 104–106, div. A, title XVI, §1622, Feb. 10, 1996, 110 Stat. 521 \[for
 
 “(a)
 
-Continuation of Eligibility.—Notwithstanding any other provision of law, a Federal employee who is employed by the Department of Defense to support the Civilian Marksmanship Program as of the day before the date of the transfer of the Program to the Corporation and is offered employment by the Corporation as part of the transition described in section 1612(d) \[former 36 U.S.C. 5502(d)\] may, if the employee becomes employed by the Corporation, continue to be eligible during continuous employment with the Corporation for the Federal health, retirement, and similar benefits (including life insurance) for which the employee would have been eligible had the employee continued to be employed by the Department of Defense. The employer's contribution for such benefits shall be paid by the Corporation.
+Continuation of Eligibility.—Notwithstanding any other provision of law, a Federal employee who is employed by the Department of Defense to support the Civilian Marksmanship Program as of the day before the date of the transfer of the Program to the Corporation and is offered employment by the Corporation as part of the transition described in section 1612(d) \[former 36 U.S.C. 5502(d)\] may, if the employee becomes employed by the Corporation, continue to be eligible during continuous employment with the Corporationfor the Federal health, retirement, and similar benefits (including life insurance) for which the employee would have been eligible had the employee continued to be employed by the Department of Defense. The employer's contribution for such benefits shall be paid by the Corporation.
 
 “(b)
 

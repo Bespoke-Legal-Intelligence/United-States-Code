@@ -14,7 +14,7 @@ Designation, Nonapplication, Selection, and Procedures.—(1) For purposes of th
 
 (3) The lines, and the major parts of the passenger motor vehicles in those lines, that are to be subject to the standard may be selected by agreement between the manufacturer and the Secretary. If the manufacturer and the Secretary disagree on the selection, the Secretary shall select the lines and parts, after notice to the manufacturer and opportunity for written comment, and subject to the confidentiality requirements of this chapter.
 
-(4) To the maximum extent practicable, the Secretary shall prescribe reasonable procedures designed to ensure that a selection under paragraph (3) of this subsection is made at least 6 months before the first applicable model year beginning after the selection.
+(4) To the maximum extent practicable, the Secretary shall prescribe reasonable proceduresdesigned to ensure that a selection under paragraph (3) of this subsection is made at least 6 months before the first applicable model year beginning after the selection.
 
 (5) A manufacturer may not be required to comply with the standard under a selection under paragraph (3) of this subsection for a model year beginning earlier than 6 months after the date of the selection.
 
@@ -38,7 +38,7 @@ Determining Theft Rate for Passenger Vehicles.—(1) In this subsection, “new 
 
 (c)
 
-Providing Information.—The Secretary by regulation shall require each manufacturer to provide information necessary to select under subsection (a)(3) of this section the high theftlines and the major parts to be subject to the standard.
+Providing Information.—The Secretary by regulation shall require each manufacturer to provide information necessary to select under subsection (a)(3) of this section the high theft lines and the major parts to be subject to the standard.
 
 (d)
 

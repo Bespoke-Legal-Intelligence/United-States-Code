@@ -6,11 +6,11 @@ The Secretary may issue permits, after notice and opportunity for public hearing
 
 #### (b) Specification for disposal sites
 
-Subject to subsection (c) of this section, each such disposal site shall be specified for each such permit by the Secretary (1) through the application of guidelines developed by the Administrator, in conjunction with the Secretary, which guidelines shall be based upon criteria comparable to the criteria applicable to the territorial seas, the contiguous zone, and the ocean under section 1343(c) of this title, and (2) in anycase where such guidelines under clause (1) alone would prohibit the specification of a site, through the application additionally of the economic impact of the site on navigation and anchorage.
+Subject to subsection (c) of this section, each such disposal site shall be specified for each such permit by the Secretary (1) through the application of guidelines developed by the Administrator, in conjunction with the Secretary, which guidelines shall be based upon criteria comparable to the criteria applicable to the territorial seas, the contiguous zone, and the ocean under section 1343(c) of this title, and (2) in any case where such guidelines under clause (1) alone would prohibit the specification of a site, through the application additionally of the economic impact of the site on navigation and anchorage.
 
 #### (c) Denial or restriction of use of defined areas as disposal sites
 
-The Administrator is authorized to prohibit the specification (including the withdrawal of specification) of any defined area as a disposal site, and he is authorized to deny or restrict the use of any defined area for specification (including the withdrawal of specification) as a disposal site, whenever he determines, after notice and opportunity for public hearings, that the discharge of such materials into such area will have an unacceptable adverse effect on municipal water supplies, shellfish beds and fishery areas (including spawning and breeding areas), wildlife, or recreational areas. Before making such determination, the Administrator shall consult with the Secretary. The Administrator shall set forth in writing and make public his findings and his reasons for making any determination under this subsection.
+The Administrator is authorized to prohibit the specification (including the withdrawal of specification) of any defined area as a disposal site, and he is authorized to deny or restrict the use of any defined area for specification (including the withdrawal of specification) as a disposalsite, whenever he determines, after notice and opportunity for public hearings, that the discharge of such materials into such area will have an unacceptable adverse effect on municipal water supplies, shellfish beds and fishery areas (including spawning and breeding areas), wildlife, or recreational areas. Before making such determination, the Administrator shall consult with the Secretary. The Administrator shall set forth in writing and make public his findings and his reasons for making any determination under this subsection.
 
 #### (d) “Secretary” defined
 
@@ -48,7 +48,7 @@ The term “Secretary” as used in this section means the Secretary of the Army
 
 (2) Not later than the tenth day after the date of the receipt of the program and statement submitted by any State under paragraph (1) of this subsection, the Administrator shall provide copies of such program and statement to the Secretary and the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service.
 
-(3) Not later than the ninetieth day after the date of the receipt by the Administrator of the program and statement submitted by any State, under paragraph (1) of this subsection, the Secretary and the Secretary of the Interior, acting through the Director of the United States Fish and Wildlife Service, shall submit any comments with respect to such program and statement to the Administrator in writing.
+(3) Not later than the ninetieth day after the date of the receipt by the Administrator of the program and statement submitted by any State, under paragraph (1) of this subsection, the Secretary and the Secretary of the Interior, actingthrough the Director of the United States Fish and Wildlife Service, shall submit any comments with respect to such program and statement to the Administrator in writing.
 
 #### (h) Determination of State's authority to issue permits under State program; approval; notification; transfers to State program
 
@@ -92,7 +92,7 @@ The term “Secretary” as used in this section means the Secretary of the Army
 
 (4) After the Secretary receives notification from the Administrator under paragraph (2) or (3) of this subsection that a State permit program has been approved, the Secretary shall transfer any applications for permits pending before the Secretary for activities with respect to which a permit may be issued pursuant to such State program to such State for appropriate action.
 
-(5) Upon notification from a State with a permit program approved under this subsectionthat such State intends to administer and enforce the terms and conditions of a general permit issued by the Secretary under subsection (e) of this section with respect to activities in such State to which such general permit applies, the Secretary shall suspend the administration and enforcement of such general permit with respect to such activities.
+(5) Upon notification from a State with a permit program approved under this subsection that such State intends to administer and enforce the terms and conditions of a general permit issued by the Secretary under subsection (e) of this section with respect to activities in such State to which such general permit applies, the Secretary shall suspend the administration and enforcement of such general permit with respect to such activities.
 
 #### (i) Withdrawal of approval
 
@@ -124,7 +124,7 @@ A copy of each permit application and each permit issued under this section shal
 
 #### (p) Compliance
 
-Compliance with a permit issued pursuant to this section, including any activity carried out pursuant to a general permit issued under this section, shall be deemed compliance, for purposes of sections 1319 and 1365 of this title, with sections 1311, 1317, and 1343 of this title.
+Compliance with a permit issued pursuant to this section, including any activity carried outpursuant to a general permit issued under this section, shall be deemed compliance, for purposes of sections 1319 and 1365 of this title, with sections 1311, 1317, and 1343 of this title.
 
 #### (q) Minimization of duplication, needless paperwork, and delays in issuance; agreements
 
@@ -158,7 +158,7 @@ The National Environmental Policy Act of 1969, referred to in subsec. (r), is Pu
 
 1987—Subsec. (s). Pub. L. 100–4 redesignated par. (5) as (4), substituted “$25,000 per day for each violation” for “$10,000 per day of such violation”, inserted provision specifying factors to consider in determining the penalty amount, and struck out former par. (4) which read as follows:
 
-“(A) Any person who willfully or negligently violates any condition or limitation in a permit issued by the Secretary under this section shall be punished by a fine of not less than $2,500 nor more than $25,000 per day of violation, or by imprisonment for not more than one year, or by both. If the conviction is for a violation committed after a first conviction of such person under this paragraph, punishment shall be by a fine of not more than $50,000 per day of violation, or by imprisonment for not more than two years, or by both.
+“(A) Any person who willfully or negligently violates any condition or limitation in a permit issued by theSecretary under this section shall be punished by a fine of not less than $2,500 nor more than $25,000 per day of violation, or by imprisonment for not more than one year, or by both. If the conviction is for a violation committed after a first conviction of such person under this paragraph, punishment shall be by a fine of not more than $50,000 per day of violation, or by imprisonment for not more than two years, or by both.
 
 “(B) For the purposes of this paragraph, the term ‘person’ shall mean, in addition to the definition contained in section 1362(5) of this title, any responsible corporate officer.”
 
@@ -169,6 +169,8 @@ Subsecs. (b), (c). Pub. L. 95–217, §67(a)(2), substituted “the Secretary”
 Subsecs. (d) to (t). Pub. L. 95–217, §67(b), added subsecs. (d) to (t).
 
 #### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Enforcement functions of Administrator or other official of the Environmental Protection Agency and of Secretary or other official in Department of the Interior relating to review of the Corps of Engineers’ dredged and fill material permits and such functions of Secretary of the Army, Chief of Engineers, or other official in Corps of Engineers of the United States Army relating to compliance with dredged and fill material permits issued under this section with respect to pre-construction, construction, and initial operation of transportation system for Canadian and Alaskan natural gas were transferred to the Federal Inspector, Office of Federal Inspector for the Alaska Natural Gas Transportation System, until the first anniversary of the date of initial operation of the Alaska Natural Gas Transportation System, see Reorg. Plan No. 1 of 1979, §§102(a), (b), (e), 203(a), 44 F.R. 33663, 33666, 93 Stat. 1373, 1376, effective July 1, 1979, set out in the Appendix to Title 5, Government Organization and Employees. Office of Federal Inspector for the Alaska Natural Gas Transportation System abolished and functions and authority vested in Inspector transferred to Secretary of Energy by section 3012(b) of Pub. L. 102–486, set out as an Abolition of Office of Federal Inspector note under section 719e of Title 15, Commerce and Trade.
 

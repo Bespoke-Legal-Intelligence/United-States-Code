@@ -18,7 +18,7 @@ The Congress finds that—
 
 &emsp;(7) individuals with disabilities are a discrete and insular minority who have been faced with restrictions and limitations, subjected to a history of purposeful unequal treatment, and relegated to a position of political powerlessness in our society, based on characteristics that are beyond the control of such individuals and resulting from stereotypic assumptions not truly indicative of the individual ability of such individuals to participate in, and contribute to, society;
 
-&emsp;(8) the Nation's proper goals regarding individuals with disabilities are to assure equality of opportunity, full participation, independent living, and economic self-sufficiency for such individuals; and
+&emsp;(8) the Nation's proper goals regarding individuals with disabilities are to assure equalityof opportunity, full participation, independent living, and economic self-sufficiency for such individuals; and
 
 &emsp;(9) the continuing existence of unfair and unnecessary discrimination and prejudice denies people with disabilities the opportunity to compete on an equal basis and to pursue those opportunities for which our free society is justifiably famous, and costs the United States billions of dollars in unnecessary expenses resulting from dependency and nonproductivity.
 

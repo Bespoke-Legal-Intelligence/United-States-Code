@@ -18,11 +18,11 @@
 
 (f)(1) The Secretary may approve for Federal financial assistance from funds apportioned under section 104(b)(4), projects for designating existing facilities, or for acquisition of rights of way or construction of new facilities, for use as preferential parking for carpools, provided that such facilities (A) are located outside of a central business district and within an interstate highway corridor, and (B) have as their primary purpose the reduction of vehicular traffic on the interstate highway.
 
-(2) Nothing in this subsection, or in any rule or regulation issued under this subsection, or in any agreement required by this subsection, shall prohibit (A) any State, political subdivision, or agency or instrumentality thereof, from contracting with any person to operate any parking facility designated or constructed under this subsection, or (B) any such person from so operating such facility. Any fees charged for the use of any such facility in connection with the purpose of this subsection shall not be in excess of the amount required for operation and maintenance, including compensation to any person for operating the facility.
+(2) Nothing in this subsection, or in any rule or regulation issued under this subsection, or in any agreement required by this subsection, shall prohibit (A) any State, political subdivision, or agency or instrumentality thereof, from contracting with any person to operate any parking facility designated or constructed under this subsection, or (B) any such person from so operating such facility. Any fees charged for the useof any such facility in connection with the purpose of this subsection shall not be in excess of the amount required for operation and maintenance, including compensation to any person for operating the facility.
 
 (3) For the purposes of this subsection, the terms “facilities” and “parking facilities” are synonymous and shall have the same meaning given “parking facilities” in subsection (c) of this section.
 
-(Added Pub. L. 89–574, §8(c)(1), Sept. 13, 1966, 80 Stat. 768; amended Pub. L. 91–605, title I, §134(a), Dec. 31, 1970, 84 Stat. 1733; Pub. L. 97–424, title I, §118, Jan. 6, 1983, 96 Stat. 2110; Pub. L. 105–178,title I, §§1103(<i>l</i>)(3)(B), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 126, 193.)
+(Added Pub. L. 89–574, §8(c)(1), Sept. 13, 1966, 80 Stat. 768; amended Pub. L. 91–605, title I, §134(a), Dec. 31, 1970, 84 Stat. 1733; Pub. L. 97–424, title I, §118, Jan. 6, 1983, 96 Stat. 2110; Pub. L. 105–178, title I, §§1103(<i>l</i>)(3)(B), 1212(a)(2)(A)(i), June 9, 1998, 112 Stat. 126, 193.)
 
 #### Amendments
 

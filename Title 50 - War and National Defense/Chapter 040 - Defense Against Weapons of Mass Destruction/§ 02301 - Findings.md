@@ -64,6 +64,8 @@ Pub. L. 104–293, title VII, §701, Oct. 11, 1996, 110 Stat. 3470, provided tha
 
 Section 1401 of title XIV of div. A of Pub. L. 104–201 provided that: “This title \[enacting this chapter, section 382 of Title 10, Armed Forces, and sections 175a and 2332d of Title 18, Crimes and Criminal Procedure, amending section 1705 of this title, section 372 of Title 10, and provisions set out as a note under section 5955 of Title 22, Foreign Relations and Intercourse\] may be cited as the ‘Defense Against Weapons of Mass Destruction Act of 1996’.”
 
+Pub. L. 107–228, div. B, title XIII, §1331, Sept. 30, 2002, 116 Stat. 1448, provided that: “This subtitle \[subtitle C (§§1331–1339) of title XIII of div. B of Pub. L. 107–228, enacting subchapter IV–A of this chapter\] may be cited as the ‘Nonproliferation Assistance Coordination Act of 2002’.”
+
 #### Commission to Assess the Threat to the United States From Electromagnetic Pulse (EMP) Attack
 
 Pub. L. 106–398, §1 \[\[div. A\], title XIV\], Oct. 30, 2000, 114 Stat. 1654, 1654A–345, provided that:
@@ -146,7 +148,7 @@ Hearings.—The Commission or, at its direction, any panel or member of the Comm
 
 “(b)
 
-Information.—The Commission may secure directly from the Department of Defense, the Central Intelligence Agency, and any other Federal department or agency information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this title.
+Information.—The Commission may secure directly from the Department of Defense, the Central Intelligence Agency, and any other Federal departmentor agency information that the Commission considers necessary to enable the Commission to carry out its responsibilities under this title.
 
 #### “SEC. 1405. COMMISSION PROCEDURES.
 
@@ -210,9 +212,11 @@ Miscellaneous Administrative and Support Services.—The Secretary of Defense sh
 
 “The Commission shall terminate 60 days after the date of the submission of its report under section 1403(a).”
 
+\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
 #### Domestic Preparedness for Defense Against Weapons of Mass Destruction
 
-Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended by Pub. L. 106–65, div. A, title X, §1064, Oct. 5, 1999, 113 Stat. 769, Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 107–107, div. A, title XV, §1514(a), (b)(1), Dec. 28, 2001, 115 Stat. 1273, provided that:
+Pub. L. 105–261, div. A, title XIV, Oct. 17, 1998, 112 Stat. 2167, as amended by Pub. L. 106–65, div. A, title X, §1064, Oct. 5, 1999, 113 Stat. 769, Pub. L. 106–398, §1 \[\[div. A\], title X, §1087(d)(7)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–293; Pub. L. 107–107, div. A, title XV, §1514(a), (b)(1), Dec. 28, 2001, 115 Stat. 1273; Pub. L. 107–296, title VIII, §889(b)(2), Nov. 25, 2002, 116 Stat. 2251, provided that:
 
 #### “SEC. 1401. SHORT TITLE.
 
@@ -228,19 +232,19 @@ Enhanced Response Capability.—In light of the continuing potential for terrori
 
 Report.—Not later than January 31, 1999, the President shall submit to Congress a report containing information on the actions taken at the Federal, State, and local level to develop an integrated program to prevent and respond to terrorist incidents involving weapons of mass destruction.
 
-#### “SEC. 1403. REPORT ON DOMESTIC EMERGENCY PREPAREDNESS.
+#### “SEC. 1403. REPORT ON DOMESTIC EMERGENCY PREPAREDNESS
 
-“\[Amended section 1051 of Pub. L. 105–85, set out as a note under section 1113 of Title 31, Money and Finance.\]
+\[Repealed. Pub. L. 107–296, title VIII, §889(b)(2), Nov. 25, 2002, 116 Stat. 2251.\]
 
 #### “SEC. 1404. THREAT AND RISK ASSESSMENTS.
 
 “(a)
 
-Threat and Risk Assessments.—Assistance to Federal, State, and local agencies provided under the program under section 1402 shall include the performance of assessments of the threat and risk of terroristemployment of weapons of mass destruction against cities and other local areas. Such assessments shall be used by Federal, State, and local agencies to determine the training and equipment requirements under this program and shall be performed as a collaborative effort with State and local agencies.
+Threat and Risk Assessments.—Assistance to Federal, State, and local agencies provided under the program under section 1402 shall include the performance of assessments of the threat and risk of terrorist employment of weapons of mass destruction against cities and other local areas. Such assessments shall be used by Federal, State, and local agencies to determine the training and equipment requirements under this program and shall be performed as a collaborative effort with State and local agencies.
 
 “(b)
 
-Conduct of Assessments.—The Department of Justice, as lead Federal agency for domestic crisis management in response to terrorism involving weapons of mass destruction, shall—
+Conduct of Assessments.—The Department of Justice, as lead Federal agency for domestic crisismanagement in response to terrorism involving weapons of mass destruction, shall—
 
 &emsp;“(1) conduct any threat and risk assessment performed under subsection (a) in coordination with appropriate Federal, State, and local agencies; and
 
@@ -317,4 +321,6 @@ Termination of the Panel.—The panel shall terminate five years after the date 
 Definition.—In this section, the term ‘weapon of mass destruction’ has the meaning given that term in section 1403(1) of the Defense Against Weapons of Mass Destruction Act of 1996 (50 U.S.C. 2302(1)).”
 
 \[Pub. L. 107–107, div. A, title XV, §1514(b)(2), Dec. 28, 2001, 115 Stat. 1274, provided that: “The amendment made by paragraph (1) \[amending section 1405(k) of Pub. L. 105–261, set out above\] shall apply with respect to periods of service on the advisory panel under section 1405 of the Strom Thurmond National Defense Authorization Act for Fiscal Year 1999 \[Pub. L. 105–261\] on or after the date of the enactment of this Act \[Dec. 28, 2001\].”\]
+
+\[For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
 

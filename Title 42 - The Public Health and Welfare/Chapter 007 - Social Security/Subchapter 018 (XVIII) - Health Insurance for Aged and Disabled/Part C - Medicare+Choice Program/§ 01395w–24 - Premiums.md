@@ -4,7 +4,7 @@
 
 #### (1) In general
 
-&emsp;Not later than July 1 of each year, each Medicare+Choice organization shall submit to the Secretary, in a form and manner specified by the Secretary and for each Medicare+�Choice plan for the service area (or segment of such an area if permitted under subsection (h) of this section) in which it intends to be offered in the following year—
+&emsp;Not later than the second Monday in September of 2002, 2003, and 2004 (or July 1 of each other year), each Medicare+Choice organization shall submit to the Secretary, in a form and manner specified by the Secretary and for each Medicare+Choice plan for the service area (or segment of such an area if permitted under subsection (h) of this section) in which it intends to be offered in the following year—
 
 &emsp;&emsp;(A) the information described in paragraph (2), (3), or (4) for the type of plan involved; and
 
@@ -42,15 +42,15 @@
 
 #### (A) Basic (and additional) benefits
 
-&emsp;&emsp;For benefits described in section 1395w–22(a)(1)(A) of this title, the amount of the Medicare+�Choice monthly MSA premium.
+&emsp;&emsp;For benefits described in section 1395w–22(a)(1)(A) of this title, the amount of the Medicare+Choice monthly MSA premium.
 
 #### (B) Supplemental benefits
 
-&emsp;&emsp;For benefits described in section 1395w–22(a)(3) of this title, the amount of the Medicare+�Choice monthly supplementary beneficiary premium.
+&emsp;&emsp;For benefits described in section 1395w–22(a)(3) of this title, the amount of the Medicare+Choice monthly supplementary beneficiary premium.
 
 #### (4) Requirements for private fee-for-service plans
 
-&emsp;For a Medicare+Choice plan described in section 1395w–21(a)(2)(C) of this title for benefitsdescribed in section 1395w–22(a)(1)(A) of this title, the information described in this paragraph is as follows:
+&emsp;For a Medicare+Choice plan described in section 1395w–21(a)(2)(C) of this title for benefits described in section 1395w–22(a)(1)(A) of this title, the information described in this paragraph is as follows:
 
 #### (A) Basic (and additional) benefits
 
@@ -66,7 +66,7 @@
 
 #### (B) Supplemental benefits
 
-&emsp;&emsp;For benefits described in section 1395w–22(a)(3) of this title, the amount of the Medicare+�Choice monthly supplemental beneficiary premium (as defined in subsection (b)(2)(B) of this section).
+&emsp;&emsp;For benefits described in section 1395w–22(a)(3) of this title, the amount of the Medicare+Choice monthly supplemental beneficiary premium (as defined in subsection (b)(2)(B) of this section).
 
 #### (5) Review
 
@@ -120,9 +120,9 @@ Each Medicare+Choice organization shall permit the payment of Medicare+Choice mo
 
 &emsp;In no event may—
 
-&emsp;&emsp;(A) the Medicare+Choice monthly basic beneficiary premium (multiplied by 12) and the actuarial value of the deductibles, coinsurance, and copayments applicable on average to individuals enrolled under this part with a Medicare+Choice plan described in section 1395w–21(a)(2)(A) of this title of an organization with respect to required benefits described in section 1395w–22(a)(1)(A) of this title and additional benefits (if any) required under subsection (f)(1)(A) of this section for a year, exceed
+&emsp;&emsp;(A) the Medicare+Choice monthly basic beneficiary premium (multiplied by 12) and the actuarial value of the deductibles, coinsurance, and copayments applicable on average to individuals enrolled under this part with a Medicare+Choice plan described insection 1395w–21(a)(2)(A) of this title of an organization with respect to required benefits described in section 1395w–22(a)(1)(A) of this title and additional benefits (if any) required under subsection (f)(1)(A) of this section for a year, exceed
 
-&emsp;&emsp;(B) the actuarial value of the deductibles, coinsurance, and copayments that would be applicable on average to individuals entitled to benefits under part A of this subchapterand enrolled under part B of this subchapter if they were not members of a Medicare+Choice organization for the year.
+&emsp;&emsp;(B) the actuarial value of the deductibles, coinsurance, and copayments that would be applicable on average to individuals entitled to benefits under part A of this subchapter and enrolled under part B of this subchapter if they were not members of a Medicare+Choice organization for the year.
 
 #### (2) For supplemental benefits
 
@@ -184,7 +184,7 @@ Each Medicare+Choice organization shall permit the payment of Medicare+Choice mo
 
 #### (2) Stabilization fund
 
-&emsp;A Medicare+Choice organization may provide that a part of the value of an excess amount described in paragraph (1) be withheld and reserved in the Federal Hospital Insurance Trust Fund and in the Federal Supplementary Medical Insurance Trust Fund (in such proportions as the Secretary determines to be appropriate) by the Secretary for subsequent annual contract periods, to the extent required to stabilize and prevent undue fluctuations in the additional benefits offered in those subsequent periods by the organization in accordance with such paragraph. Any of such value of the amount reserved which is not provided as additional benefits described in paragraph (1)(A) to individuals electing the Medicare+Choice plan of the organization in accordance with such paragraph prior to the end of such periods, shall revert for the use of such trust funds.
+&emsp;A Medicare+Choice organization may provide that a part of the value of an excess amount described in paragraph (1) be withheld and reserved in the Federal Hospital Insurance Trust Fund and in the Federal SupplementaryMedical Insurance Trust Fund (in such proportions as the Secretary determines to be appropriate) by the Secretary for subsequent annual contract periods, to the extent required to stabilize and prevent undue fluctuations in the additional benefits offered in those subsequent periods by the organization in accordance with such paragraph. Any of such value of the amount reserved which is not provided as additional benefits described in paragraph (1)(A) to individuals electing the Medicare+Choice plan of the organization in accordance with such paragraph prior to the end of such periods, shall revert for the use of such trust funds.
 
 #### (3) Adjusted community rate
 
@@ -208,13 +208,15 @@ No State may impose a premium tax or similar tax with respect to payments to Med
 
 The Secretary shall permit a Medicare+Choice organization to elect to apply the provisions of this section uniformly to separate segments of a service area (rather than uniformly to an entire service area) as long as such segments are composed of one or more Medicare+Choice payment areas.
 
-(Aug. 14, 1935, ch. 531, title XVIII, §1854, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 308; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(C), title V, §§515(a), 516(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(1), 622(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557, 2763A–566.)
+(Aug. 14, 1935, ch. 531, title XVIII, §1854, as added Pub. L. 105–33, title IV, §4001, Aug. 5, 1997, 111 Stat. 308; amended Pub. L. 106–113, div. B, §1000(a)(6) \[title III, §321(k)(6)(C), title V, §§515(a), 516(a)\], Nov. 29, 1999, 113 Stat. 1536, 1501A–367, 1501A–384; Pub. L. 106–554, §1(a)(6) \[title VI, §§606(a)(1), 622(a)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–557, 2763A–566; Pub. L. 107–188, title V, §532(b)(1), June 12, 2002, 116 Stat. 696.)
 
 #### References in Text
 
 Parts A and B of this subchapter, referred to in subsecs. (e)(1)(B), (4)(B) and (f)(1)(B)(ii), are classified to section 1395c et seq. and section 1395j et seq., respectively, of this title.
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–188 substituted “Not later than the second Monday in September of 2002, 2003, and 2004 (or July 1 of each other year)” for “Not later than July 1 of each year” in introductory provisions.
 
 2000—Subsec. (a)(5)(A). Pub. L. 106–554, §1(a)(6) \[title VI, §622(a)\], substituted “values so submitted” for “value so submitted” and inserted at end “The Chief Actuary of the Health Care Financing Administration shall review the actuarial assumptions and data used by the Medicare+Choice organization with respect to such rates, amounts, and values so submitted to determine the appropriateness of such assumptions and data.”
 
@@ -237,6 +239,10 @@ Subsec. (a)(4)(A). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(C)(i
 Subsec. (a)(4)(B). Pub. L. 106–113, §1000(a)(6) \[title III, §321(k)(6)(C)(iii)(III)\], inserted “section” after “described in”.
 
 Subsec. (h). Pub. L. 106–113, §1000(a)(6) \[title V, §515(a)(2)\], added subsec. (h).
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–188, title V, §532(b)(2), June 12, 2002, 116 Stat. 696, provided that: “The amendment made byparagraph (1) \[amending this section\] shall apply to information submitted for years beginning with 2003.”
 
 #### Effective Date of 2000 Amendment
 

@@ -2,7 +2,7 @@
 
 #### (a) Administration
 
-The Secretary shall conduct research activities authorized by this subpart through the Office of Educational Research and Improvement in coordination and collaboration with the Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students.
+The Secretary shall conduct research activities authorized by this subpart through the Institute of Education Sciences in coordination and collaboration with the Office of English Language Acquisition, Language Enhancement, and Academic Achievement for Limited English Proficient Students.
 
 #### (b) Requirements
 
@@ -34,7 +34,11 @@ The Secretary shall consult with agencies, organizations, and individuals that a
 
 The Secretary shall provide for the collection of data on limited English proficient children as part of the data systems operated by the Department.
 
-(Pub. L. 89–10, title III, §3222, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1717.)
+(Pub. L. 89–10, title III, §3222, as added Pub. L. 107–110, title III, §301, Jan. 8, 2002, 115 Stat. 1717; amended Pub. L. 107–279, title IV, §404(d)(5)(A), Nov. 5, 2002, 116 Stat. 1986.)
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–279 substituted “Institute of Education Sciences” for “Office of Educational Research and Improvement”.
 
 #### Research Relating to Bilingual Education
 

@@ -10,7 +10,7 @@ A prior section 962, Pub. L. 93–203, title VI, §602, as added Pub. L. 93–56
 
 Section 963, Pub. L. 93–203, title VI, §603, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 2006, related to financial assistance for public service employment programs.
 
-A prior section 963, Pub. L. 93–203, title VI, §603, as added Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1846; amended Pub. L. 94–444, §§4(b), 8(b), (c), 14(b), Oct. 1, 1976, 90 Stat. 1477, 1482, 1487, related to allotment of funds with regard to emergency job programs, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 963, Pub. L. 93–203, title VI, §603, as added Pub. L. 93–567, title I, §101, Dec. 31, 1974, 88 Stat. 1846; amended Pub. L. 94–444, §§4(b), 8(b), (c), 14(b), Oct.1, 1976, 90 Stat. 1477, 1482, 1487, related to allotment of funds with regard to emergency job programs, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Provisions similar to those comprising this section were contained in former section 962 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

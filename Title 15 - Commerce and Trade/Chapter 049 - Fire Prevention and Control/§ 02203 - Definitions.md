@@ -10,7 +10,7 @@ As used in this chapter, the term—
 
 &emsp;(4) “Director” means the Director of the Federal Emergency Management Agency;
 
-&emsp;(5) “fire service” means any organization in any State consisting of personnel, apparatus, and equipment which has as its purpose protecting property and maintaining the safety and welfare of the public from the dangers of fire, including a private firefighting brigade. The personnel of any such organization may be paid employees or unpaid volunteers or any combination thereof. The location of any such organization and its responsibility for extinguishment and suppression of fires may include, but need not be limited to, a Federal installation, a State, city, town, borough, parish, county, fire district, fire protection district, rural fire district, or other special district. The terms “fire prevention”, “firefighting”, and “fire control” relate to activities conducted by a fire service;
+&emsp;(5) “fire service” means any organization in any State consisting of personnel, apparatus,and equipment which has as its purpose protecting property and maintaining the safety and welfare of the public from the dangers of fire, including a private firefighting brigade. The personnel of any such organization may be paid employees or unpaid volunteers or any combination thereof. The location of any such organization and its responsibility for extinguishment and suppression of fires may include, but need not be limited to, a Federal installation, a State, city, town, borough, parish, county, fire district, fire protection district, rural fire district, or other special district. The terms “fire prevention”, “firefighting”, and “fire control” relate to activities conducted by a fire service;
 
 &emsp;(6) “local” means of or pertaining to any city, town, county, special purpose district, unincorporated territory, or other political subdivision of a State;
 
@@ -33,6 +33,8 @@ For definition of Canal Zone, referred to in par. (8), see section 3602(b) of Ti
 1978—Pars. (2), (3). Pub. L. 95–422 substituted “United States Fire Administration” for “National Fire Prevention and Control Administration”.
 
 #### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 Functions of National Fire Prevention and Control Administration \[now United States Fire Administration\] and National Academy for Fire Prevention and Control generally transferred to Federal Emergency Management Agency. For further details see Transfer of Functions note set out under section 2202 of this title.
 

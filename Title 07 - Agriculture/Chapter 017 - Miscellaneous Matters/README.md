@@ -39,7 +39,7 @@
 | (a) | Regional and national research programs; rules; purposes. |
 | (b) | Utilization of services of Federal, State, local governmental and private agencies; priority consideration. |
 | (c) | Authorization of appropriations; use restriction. |
-| [429\.](%C2%A7%2000429%20-%20Improvement%20of%20poultry%2C%20poultry%20products%2C%20and%20hatcheries.md) | Improvement of poultry, poultry products, and hatcheries. |
+| [429\.](%C2%A7%2000429%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20X%2C%20%C2%A710418%28a%29%282%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20507.md) | Repealed. |
 | [430\.](%C2%A7%2000430%20-%20Purchase%20and%20testing%20of%20serums%20or%20analogous%20products%3B%20dissemination%20of%20test%20results.md) | Purchase and testing of serums or analogous products; dissemination of test results. |
 | [431\.](%C2%A7%2000431%20-%20Purchase%20of%20tags%2C%20labels%2C%20stamps%2C%20and%20certificates.md) | Purchase of tags, labels, stamps, and certificates. |
 | [432\.](%C2%A7%2000432%20-%20Purchase%20of%20cultures%20for%20soil%20and%20fertilizer%20investigations.md) | Purchase of cultures for soil and fertilizer investigations. |
@@ -133,7 +133,7 @@
 - [&sect; 00428a - Acquisition of land; options](%C2%A7%2000428a%20-%20Acquisition%20of%20land%3B%20options.md)
 - [&sect; 00428b - Wheat and feed grains research; regional and national research programs; utilization of services of Federal, State and private agencies&#8230;](%C2%A7%2000428b%20-%20Wheat%20and%20feed%20grains%20research%3B%20regional%20and%20national%20research%20programs%3B%20utilization%20of%20services%20of%20Federal%2C%20State%20and%20private%20agencies%E2%80%A6.md)
 - [&sect; 00428c - Rice research](%C2%A7%2000428c%20-%20Rice%20research.md)
-- [&sect; 00429 - Improvement of poultry, poultry products, and hatcheries](%C2%A7%2000429%20-%20Improvement%20of%20poultry%2C%20poultry%20products%2C%20and%20hatcheries.md)
+- [&sect; 00429 - Repealed. Pub. L. 107&#8211;171, title X, &sect;10418(a)(2), May 13, 2002, 116 Stat. 507](%C2%A7%2000429%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93171%2C%20title%20X%2C%20%C2%A710418%28a%29%282%29%2C%20May%2013%2C%202002%2C%20116%20Stat.%20507.md)
 - [&sect; 00430 - Purchase and testing of serums or analogous products; dissemination of test results](%C2%A7%2000430%20-%20Purchase%20and%20testing%20of%20serums%20or%20analogous%20products%3B%20dissemination%20of%20test%20results.md)
 - [&sect; 00431 - Purchase of tags, labels, stamps, and certificates](%C2%A7%2000431%20-%20Purchase%20of%20tags%2C%20labels%2C%20stamps%2C%20and%20certificates.md)
 - [&sect; 00432 - Purchase of cultures for soil and fertilizer investigations](%C2%A7%2000432%20-%20Purchase%20of%20cultures%20for%20soil%20and%20fertilizer%20investigations.md)

@@ -16,7 +16,7 @@ In addition to the amount authorized to be appropriated by subsection (b) of thi
 
 #### (d) Integration of women into national economics
 
-In recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process, the Peace Corps shall be administered so as to give particular attention to those programs, projects, and activitieswhich tend to integrate women into the national economics of developing countries, thus improving their status and assisting the total development effort.
+In recognition of the fact that women in developing countries play a significant role in economic production, family support, and the overall development process, the Peace Corps shall be administered so as to give particular attention to those programs, projects, and activities which tend to integrate women into the national economics of developing countries, thus improving their status and assisting the total development effort.
 
 #### (e), (f) Repealed. Pub. L. 97–113, title VI, §601(e)(1), Dec. 29, 1981, 95 Stat. 1542
 
@@ -134,5 +134,5 @@ Section 601(e)(2) of Pub. L. 97–113 provided that: “The amendment made by pa
 
 #### Payment of Readjustment Allowances From Amount Appropriated for Fiscal Year 1977; Limitation on Amount Available
 
-Section 3 of Pub. L. 94–281 provided that: “Of the amount appropriated for fiscal year 1977 to carry out the purposes of the Peace Corps Act \[see Short Title note set out under section 2501 of this title\], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act \[sections 2504(c) and 2505(1) of this title\].”
+Section 3 of Pub. L. 94–281 provided that: “Of the amount appropriated for fiscal year 1977 to carry outthe purposes of the Peace Corps Act \[see Short Title note set out under section 2501 of this title\], $10,100,000 shall be available only for payment of the readjustment allowances authorized by sections 5(c) and 6(1) of such Act \[sections 2504(c) and 2505(1) of this title\].”
 

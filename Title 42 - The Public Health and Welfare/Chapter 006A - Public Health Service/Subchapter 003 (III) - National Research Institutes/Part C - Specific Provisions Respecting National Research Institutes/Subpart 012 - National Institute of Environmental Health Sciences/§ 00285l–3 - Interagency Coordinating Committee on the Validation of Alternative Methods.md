@@ -86,7 +86,7 @@ The ICCVAM shall, consistent with the purposes described in subsection (b) of th
 
 &emsp;(1) Review and evaluate new or revised or alternative test methods, including batteries of tests and test screens, that may be acceptable for specific regulatory uses, including the coordination of technical reviews of proposed new or revised or alternative test methods of interagency interest.
 
-&emsp;(2) Facilitate appropriate interagency and international harmonization of acute or chronic toxicological test protocols that encourage the reduction, refinement, or replacement of animal test methods.
+&emsp;(2) Facilitate appropriate interagency and international harmonization of acute orchronic toxicological test protocols that encourage the reduction, refinement, or replacement of animal test methods.
 
 &emsp;(3) Facilitate and provide guidance on the development of validation criteria, validation studies and processes for new or revised or alternative test methods and help facilitate the acceptance of such scientifically valid test methods and awareness of accepted test methods by Federal agencies and other stakeholders.
 
@@ -114,7 +114,7 @@ Section was enacted as part of the ICCVAM Authorization Act of 2000, and not as 
 
 #### Termination of Advisory Committees
 
-Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-yearperiod beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+Advisory committees established after Jan. 5, 1973, to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
 
 Pub. L. 93–641, §6, Jan. 4, 1975, 88 Stat. 2275, set out as a note under section 217a of this title, provided that an advisory committee established pursuant to the Public Health Service Act shall terminate at such time as may be specifically prescribed by an Act of Congress enacted after Jan. 4, 1975.
 

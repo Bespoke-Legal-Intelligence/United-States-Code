@@ -8,7 +8,7 @@ As used in this section, the term “national bank” is synonymous with “nati
 
 #### Historical and Revision Notes
 
-Based on sections 592, 597 of title 12, U.S.C., 1940 ed., Banks and Banking (R.S. 5209; Dec. 23, 1913, ch. 6, §22(i), as added June 19, 1934, ch. 653, §3, 48 Stat. 1107; Sept. 26, 1918, ch. 177, §7, 40 Stat. 972; Aug. 23, 1935, ch. 614, §316, 49 Stat. 712).
+Based on sections 592, 597 of title 12, U.S.C., 1940 ed., Banks and Banking (R.S. 5209; Dec. 23, 1913, ch. 6, §22(i),as added June 19, 1934, ch. 653, §3, 48 Stat. 1107; Sept. 26, 1918, ch. 177, §7, 40 Stat. 972; Aug. 23, 1935, ch. 614, §316, 49 Stat. 712).
 
 Section 592 of title 12, U.S.C., 1940 ed., Banks and Banking, was separated into three sections the first of which, embracing provisions relating to embezzlement, abstracting, purloining, or willfully misapplying moneys, funds, or credits, constitutes part of the basis for this section. Of the other two sections, one section, 334 of this title, relates only to the issuance and circulation of Federal Reserve notes and the other, section 1005 of this title, to false entries or the wrongful issue of bank obligations.
 
@@ -38,7 +38,7 @@ Words “In any district court of the United States” were omitted as unnecessa
 
 #### Senate Revision Amendment
 
-Certain words were stricken from the section as being unnecessary and inconsistent with other sections of this revision defining embezzlement and withoutchanging existing law. See Senate Report No. 1620, amendment No. 6, 80th Cong.
+Certain words were stricken from the section as being unnecessary and inconsistent with other sections of this revision defining embezzlement and without changing existing law. See Senate Report No. 1620, amendment No. 6, 80th Cong.
 
 #### References in Text
 
@@ -58,7 +58,7 @@ Pub. L. 101–647, §2595(a)(1)(A), (B), in first par., inserted “depository i
 
 Pub. L. 101–647, §2504(b), in first par., substituted “30 years” for “20 years”.
 
-Pub. L. 101–647, §2597(f)(2), in second par., struck out “and” after “one of the Federal Reserve Banks;” and directed insertion of “; and the term ‘branch or agency of a foreign bank’ means a branch or agency described in section 20(9) of this title” before the period which was executed by making the insertion before the period at end of first sentence to reflect the probable intent of Congress.
+Pub. L. 101–647, §2597(f)(2), in second par., struck out “and” after “one of the Federal Reserve Banks;” anddirected insertion of “; and the term ‘branch or agency of a foreign bank’ means a branch or agency described in section 20(9) of this title” before the period which was executed by making the insertion before the period at end of first sentence to reflect the probable intent of Congress.
 
 Pub. L. 101–647, §2595(a)(1)(C), in second par., inserted at end “For purposes of this section, the term ‘depository institution holding company’ has the meaning given such term in section 3 of the Federal Deposit Insurance Act.”
 
@@ -66,7 +66,7 @@ Pub. L. 101–647, §2595(a)(1)(C), in second par., inserted at end “For purpo
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 225, 657, 981, 982, 1006, 1510, 1956, 3059A, 3293, 3322 of this title; title 12 sections 324, 1785, 1786, 1821, 1828, 1829, 1831k, 1833a.
+This section is referred to in sections 225, 657, 981, 982, 1006, 1510, 1956, 3293, 3322 of this title; title 12 sections 324, 1785, 1786, 1821, 1828, 1829, 1831k, 1833a.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -2,7 +2,7 @@
 
 #### (a) Information required to be gathered
 
-Each electric utility shall periodically gather information under such rules (promulgated by the Commission) as the Commission determines necessary to allow determination of the costs associated with providing electric service. For purposes of this section, and for purposes of anyconsideration and determination respecting the standard established by section 2621(d)(2) of this title, such costs shall be separated, to the maximum extent practicable, into the following components: customer cost component, demand cost component, and energy cost component. Rules under this subsection shall include requirements for the gathering of the following information with respect to each electric utility—
+Each electric utility shall periodically gather information under such rules (promulgated by the Commission) as the Commission determines necessary to allow determination of the costs associated with providing electric service. For purposes of this section, and for purposes of any consideration and determination respecting the standard established by section 2621(d)(2) of this title, such costs shall be separated, to the maximum extent practicable, into the following components: customer cost component, demand cost component, and energy cost component. Rules under this subsection shall include requirements for the gathering of the following information with respect to each electric utility—
 
 &emsp;(1) the costs of serving each electric consumer class, including costs of serving different consumption patterns within such class, based on voltage level, time of use, and other appropriate factors;
 

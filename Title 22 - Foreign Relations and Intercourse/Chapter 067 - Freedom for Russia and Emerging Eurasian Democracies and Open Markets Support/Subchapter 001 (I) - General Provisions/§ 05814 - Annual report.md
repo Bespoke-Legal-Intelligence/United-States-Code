@@ -16,11 +16,11 @@ Not later than January 31 of each year, the President shall submit to the Congre
 
 &emsp;&emsp;(B) an evaluation of the degree to which the assistance authorized by chapter 12 of part I of the Foreign Assistance Act of 1961 \[22 U.S.C. 2296 et seq.\] has accomplished the purposes identified in that chapter;
 
-&emsp;&emsp;(C) a description of the progress being made by the United States to resolve trade disputes registered with and raised by the United States embassies in each country, and to negotiate a bilateral agreement relating to the protection of United States direct investment in, and other business interests with, each country; and
+&emsp;&emsp;(C) a description of the progress being made by the United States to resolve trade disputes registered with and raised by the United States embassies in each country,and to negotiate a bilateral agreement relating to the protection of United States direct investment in, and other business interests with, each country; and
 
 &emsp;&emsp;(D) recommendations of any additional initiatives that should be undertaken by the United States to implement the policy and purposes contained in the Silk Road Strategy Act of 1999 \[22 U.S.C. 2296 et seq.\].
 
-(Pub. L. 102–511, title I, §104, Oct. 24, 1992, 106 Stat. 3324; Pub. L. 106–113, div. B, §1000(a)(2)\[title V, §596(d)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–126.)
+(Pub. L. 102–511, title I, §104, Oct. 24, 1992, 106 Stat. 3324; Pub. L. 106–113, div. B, §1000(a)(2) \[title V, §596(d)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–126.)
 
 #### References in Text
 

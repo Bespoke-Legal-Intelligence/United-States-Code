@@ -22,6 +22,44 @@ A prior section 3796ii, Pub. L. 90–351, title I, §2201, as added Pub. L. 103�
 
 A prior section 2201 of Pub. L. 90–351 was renumbered section 2601 and is classified to section 3797 of this title.
 
+#### Study on Reentry, Mental Illness, and Public Safety
+
+Pub. L. 107–273, div. C, title I, §11011, Nov. 2, 2002, 116 Stat. 1823, provided that:
+
+“(a)
+
+Study.—The Attorney General shall commission a study of offenders, or a sampling of such offenders, with mental illness released from prison or jail in 2 or more jurisdictions, including at least 1 State or local and 1 Federal, to determine the extent to which participation in public benefit programs correlates with successful reentry and improved public safety.
+
+“(b)
+
+Report.—Not later than 2 years after the date of enactment of this Act \[Nov. 2, 2002\], the Attorney General shall submit to the Committees on the Judiciary of the Senate and the House of Representatives—
+
+&emsp;“(1) a report detailing the results of the study conducted under subsection (a) with findings that address—
+
+&emsp;&emsp;“(A) the number of offenders with mental illness released from the prison or jail who qualify for medicaid, SSI, or SSDI;
+
+&emsp;&emsp;“(B) the number of offenders with mental illness who qualify for medicaid, SSI, or SSDI benefits and who are enrolled in these programs upon release from prison or jail; and
+
+&emsp;&emsp;“(C) how enrollment in medicaid, SSI, or SSDI affects—
+
+&emsp;&emsp;&emsp;“(i) rearrest;
+
+&emsp;&emsp;&emsp;“(ii) violation of condition(s) of release;
+
+&emsp;&emsp;&emsp;“(iii) reincarceration;
+
+&emsp;&emsp;&emsp;“(iv) rehospitalization;
+
+&emsp;&emsp;&emsp;“(v) the length of time upon release from prison or jail time to the first contact with a mental health or substance abuse service; and
+
+&emsp;&emsp;&emsp;“(vi) the number of contacts with a mental health or substance abuse services \[service\] within the first 90 days of release; and
+
+&emsp;“(2) any recommendations.
+
+“(c)
+
+Authorization of Appropriations.—There are authorized such sums as necessary to conduct the study and issue the report required by this section.”
+
 #### Findings
 
 Pub. L. 106–515, §2, Nov. 13, 2000, 114 Stat. 2399, provided that: “Congress finds that—

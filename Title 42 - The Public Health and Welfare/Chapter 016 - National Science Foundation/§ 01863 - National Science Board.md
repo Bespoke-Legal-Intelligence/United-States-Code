@@ -6,7 +6,7 @@ The Board shall consist of twenty-four members to be appointed by the President,
 
 #### (b) Executive Committee; delegation of powers and functions
 
-The Board shall have an Executive Committee as provided in section 1865 of this title, and may delegate to it or to the Director or both such of the powers and functions granted to the Board by this chapter as it deems appropriate.
+The Board shall have an Executive Committee as provided in section 1865 of this title, and maydelegate to it or to the Director or both such of the powers and functions granted to the Board by this chapter as it deems appropriate.
 
 #### (c) Meetings; nominations; quorum; notice
 
@@ -18,7 +18,7 @@ The term of office of each member of the Board shall be six years; except that a
 
 #### (e) Meetings; quorum; notice
 
-The Board shall meet annually on the third Monday in May unless, prior to May 10 in any year, the Chairman has set the annual meeting for a day in May other than the third Monday, and at such other times as the Chairman may determine, but he shall also call a meeting whenever one-third of the members so request in writing. A majority of the members of the Board shall constitute a quorum. Each member shall be given notice, not less than fifteen days prior to any meeting, of the call of such meeting.
+The Board shall meet annually on the third Monday in May unless, prior to May 10 in any year, the Chairman has set the annual meeting for a day in May other than the third Monday, and at such other times as the Chairman may determine, but he shall also call a meeting whenever one-third of the members so request in writing. The Board shall adopt procedures governing the conduct of its meetings, including delivery of notice and a definition of a quorum, which in no case shall be less than one-half plus one of the confirmed members of the Board.
 
 #### (f) Election of Chairman and Vice Chairman; vacancy
 
@@ -26,7 +26,7 @@ The election of the Chairman and Vice Chairman of the Board shall take place at 
 
 #### (g) Appointment and assignment of staff; compensation; security requirements
 
-The Board may, with the concurrence of a majority of its members, permit the appointment of a staff consisting of not more than five professional staff members and such clerical staff members as may be necessary. Such staff shall be appointed by the Director, after consultation with the chairman of the Board and assigned at the direction of the Board. The professional members of such staff may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 of title 5 relating to classification, and compensated at a rate not exceeding the maximum rate payable under section 5376 of title 5, as may be necessary to provide for the performance of such duties as maybe prescribed by the Board in connection with the exercise of its powers and functions under this chapter. Each appointment under this subsection shall be subject to the same security requirements as those required for personnel of the Foundation appointed under section 1873(a) of this title.
+The Board may, with the concurrence of a majority of its members, permit the appointment of a staff consisting of not more than five professional staff members and such clerical staff members as may be necessary. Such staff shall be appointed by the Chairman and assigned at the direction of the Board. The professional members of such staff may be appointed without regard to the provisions of title 5 governing appointments in the competitive service, and the provisions of chapter 51 of title 5 relating to classification, and compensated at a rate not exceeding the maximum rate payable under section 5376 of title 5, as may be necessary to provide for the performance of such duties as may be prescribed by the Board in connection with the exercise of its powers and functions under this chapter. Each appointment under this subsection shall be subject to the same security requirements as those required for personnel of the Foundation appointed under section 1873(a) of this title.
 
 #### (h) Special commissions
 
@@ -50,7 +50,7 @@ Portions of Board meetings in which the Board considers proposed Foundation budg
 
 Members of the Board shall be required to file a financial disclosure report under title II of the Ethics in Government Act of 1978 (5 U.S.C. App.; 92 Stat. 1836), except that such reports shall be held confidential and exempt from any law otherwise requiring their public disclosure.
 
-(May 10, 1950, ch. 171, §4, 64 Stat. 150; Pub. L. 86–232, §2, Sept. 8, 1959, 73 Stat. 467; Pub. L. 86–507, §1(36), June 11, 1960, 74 Stat. 202; Pub. L. 90–407, §2, July 18, 1968, 82 Stat. 361; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–282, title V, §503, May 11, 1976, 90 Stat. 473; Pub. L. 94–471, §9, Oct. 11, 1976, 90 Stat. 2057; Pub. L. 95–99, §12(b), formerly §14(b), Aug. 15, 1977, 91 Stat. 835, renumbered §12(b), Pub. L. 99–159, title I, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 96–516, §21(a), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 97–375, title II, §214, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–159, title I, §§109(a), 110(a)(12), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§105(a), 108, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 105–207, title II, §202(a)(1), July 29, 1998, 112 Stat. 873.)
+(May 10, 1950, ch. 171, §4, 64 Stat. 150; Pub. L. 86–232, §2, Sept. 8, 1959, 73 Stat. 467; Pub. L. 86–507, §1(36), June 11, 1960, 74 Stat. 202; Pub. L. 90–407, §2, July 18, 1968, 82 Stat. 361; Pub. L. 94–273, §11(3), Apr. 21, 1976, 90 Stat. 378; Pub. L. 94–282, title V, §503, May 11, 1976, 90 Stat. 473; Pub. L. 94–471, §9, Oct. 11, 1976, 90 Stat. 2057; Pub. L. 95–99, §12(b), formerly §14(b), Aug. 15, 1977, 91 Stat. 835, renumbered §12(b), Pub. L. 99–159, titleI, §109(h), Nov. 22, 1985, 99 Stat. 890; Pub. L. 96–516, §21(a), Dec. 12, 1980, 94 Stat. 3010; Pub. L. 97–375, title II, §214, Dec. 21, 1982, 96 Stat. 1826; Pub. L. 99–159, title I, §§109(a), 110(a)(12), Nov. 22, 1985, 99 Stat. 889, 891; Pub. L. 100–570, title I, §§105(a), 108, Oct. 31, 1988, 102 Stat. 2868, 2869; Pub. L. 105–207, title II, §202(a)(1), July 29, 1998, 112 Stat. 873; Pub. L. 107–368, §15(a)(1), (c), Dec. 19, 2002, 116 Stat. 3058, 3059.)
 
 #### References in Text
 
@@ -60,6 +60,10 @@ The Ethics in Government Act of 1978, referred to in subsec. (<i>l</i>), is Pub.
 
 #### Amendments
 
+2002—Subsec. (e). Pub. L. 107–368, §15(a)(1), substituted “The Board shall adopt procedures governing the conduct of its meetings, including delivery of notice and a definition of a quorum, which in no case shall be less than one-half plus one of the confirmed members of the Board.” for “A majority of the members of the Board shall constitute a quorum. Each member shall be given notice, not less than fifteen days prior to any meeting, of the call of such meeting.”
+
+Subsec. (g). Pub. L. 107–368, §15(c), substituted “Such staff shall be appointed by the Chairman and assigned at the direction of the Board.” for “Such staff shall be appointed by the Director, after consultation with the chairman of the Board and assigned at the direction of the Board.”
+
 1998—Subsec. (g). Pub. L. 105–207, §202(a)(1)(A), substituted “the maximum rate payable under section 5376” for “the appropriate rate provided for individuals in grade GS–18 of the General Schedule under section 5332”.
 
 Subsecs. (k), (<i>l</i>). Pub. L. 105–207, §202(a)(1)(B), redesignated subsec. (k), relating to requirement of Board members to file financial disclosure report, as (<i>l</i>).
@@ -68,7 +72,7 @@ Subsecs. (k), (<i>l</i>). Pub. L. 105–207, §202(a)(1)(B), redesignated subsec
 
 Pub. L. 100–570, §105(a), added subsec. (k) relating to closed meetings.
 
-1985—Subsec. (c). Pub. L. 99–159, §110(a)(12), inserted “and engineering”, “and engineers”, and “the National Academy of Engineering,” and inserted “, engineering,” after “other scientific”.
+1985—Subsec. (c). Pub. L. 99–159, §110(a)(12), inserted “and engineering”, “and engineers”, and “the National Academy of Engineering,” and inserted “, engineering,” after “other scientific”.
 
 Subsec. (e). Pub. L. 99–159, §109(a), struck out requirement that notice be made to members by registered or certified mail mailed to the last known address of record.
 
@@ -92,7 +96,7 @@ Subsecs. (h) to (j). Pub. L. 94–282 redesignated subsecs. (h) to (j) as (g) to
 
 Subsec. (b). Pub. L. 90–407 added subsec. (b). Former subsec. (b) redesignated (d).
 
-Subsec. (c). Pub. L. 90–407 redesignated provisions of former subsec. (a) as (c) and added social science and research management to the enumerated fields of eminence, and substituted “the National Association of State Universities and Land Grant Colleges, the Association of American Universities, the Association of American Colleges, the Association of State Collegesand Universities” for “the Association of Land Grant Colleges and Universities, the National Association of State Universities, the Association of American Colleges”. Former subsec. (c), which provided that “The President shall call the first meeting of the Board, at which the first order of business shall be the election of a chairman and a vice chairman”, was struck out as executed.
+Subsec. (c). Pub. L. 90–407 redesignated provisions of former subsec. (a) as (c) and added social science and research management to the enumerated fields of eminence, and substituted “the National Association of State Universities and Land Grant Colleges, the Association of American Universities, the Association of American Colleges, the Association of State Colleges and Universities” for “the Association of Land Grant Colleges and Universities, the National Association of State Universities, the Association of American Colleges”. Former subsec. (c), which provided that “The President shall call the first meeting of the Board, at which the first order of business shall be the election of a chairman and a vice chairman”, was struck out as executed.
 
 Subsec. (d). Pub. L. 90–407 redesignated former subsec. (b) as (d), substituted “term of office of each member” for “term of office of each voting member”, struck out “the terms of office of the members first taking office after May 10, 1950, shall expire, as designated by the President at the time of appointment, eight at the end of two years, eight at the end of four years, and eight at the end of six years, after May 10, 1950”, and provided for exemption of Director from prohibition against reappointment within two years following twelve consecutive years of Board membership. Former subsec. (d) redesignated (e).
 
@@ -118,5 +122,5 @@ Amendment by Pub. L. 90–407 intended to continue in effect the existing office
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1868, 1873 of this title.
+This section is referred to in sections 1862n–4, 1868, 1873 of this title.
 

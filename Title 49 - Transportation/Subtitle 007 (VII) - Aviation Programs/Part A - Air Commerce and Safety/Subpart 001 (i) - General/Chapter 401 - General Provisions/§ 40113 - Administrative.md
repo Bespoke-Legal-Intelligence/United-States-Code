@@ -22,7 +22,7 @@ Assistance to Foreign Aviation Authorities.—
 
 &emsp;(1)
 
-Safety-related training and operational services.—The Administrator mayprovide safety-related training and operational services to foreign aviation authorities with or without reimbursement, if the Administrator determines that providing such services promotes aviation safety. To the extent practicable, air travel reimbursed under this subsection shall be conducted on United States air carriers.
+Safety-related training and operational services.—The Administrator may provide safety-related training and operational services to foreign aviation authorities with or without reimbursement, if the Administrator determines that providing such services promotes aviation safety. To the extent practicable, air travel reimbursed under this subsection shall be conducted on United States air carriers.
 
 &emsp;(2)
 
@@ -120,13 +120,17 @@ Subsec. (d). Pub. L. 107–71, §140(c)(2), inserted “Under Secretary of Trans
 
 Amendment by Pub. L. 106–181 applicable only to fiscal years beginning after Sept. 30, 1999, see section 3 of Pub. L. 106–181, set out as a note under section 106 of this title.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Administrative Services Franchise Fund
 
 Pub. L. 104–205, title I, Sept. 30, 1996, 110 Stat. 2957, provided in part that: “There is hereby established in the Treasury a fund, to be available without fiscal year limitation, for the costs of capitalizing and operating such administrative services as the FAA Administrator determines may be performed more advantageously as centralized services, including accounting, international training, payroll, travel, duplicating, multimedia and information technology services: <i>Provided</i>, That any inventories, equipment, and other assets pertaining to the services to be provided by such fund, either on hand or on order, less the related liabilities or unpaid obligations, and any appropriations made prior to the current year for the purpose of providing capital shall be used to capitalize such fund: <i>Provided further</i>, That such fund shall be paid in advance from funds available to the FAA and other Federal agencies for which such centralized services are performed, at rates which will return in full all expenses of operation, including accrued leave, depreciation of fund plant and equipment, amortization of Automated Data Processing (ADP) software and systems (either required or donated), and an amount necessary to maintain a reasonable operating reserve, as determined by the FAA Administrator: <i>Provided further</i>, That such fund shall provide services on a competitive basis: <i>Provided further</i>, That an amount not to exceed four percent of the total annual income to such fund may be retained in the fund for fiscal year 1997 and each year thereafter, to remain available until expended, to be used for the acquisition of capital equipment and for the improvement and implementation of FAA financial management, ADP, and support systems: <i>Provided further</i>, That no later than thirty days after the end of each fiscal year, amounts in excess of this reserve limitation shall be transferred to miscellaneous receipts in the Treasury.”
 
 #### Aircraft Purchase Loan Guarantee Program
 
-Pub. L. 106–69, title III, §337, Oct. 9, 1999, 113 Stat. 1022, which provided that none of the funds in Pub. L.106–69 were to be available for activities under the Aircraft Purchase Loan Guarantee Program during fiscal year 2000, was from the Department of Transportation and Related Agencies Appropriations Act, 2000, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
+Pub. L. 106–69, title III, §337, Oct. 9, 1999, 113 Stat. 1022, which provided that none of the funds in Pub. L. 106–69 were to be available for activities under the Aircraft Purchase Loan Guarantee Program during fiscal year 2000, was from the Department of Transportation and Related Agencies Appropriations Act, 2000, and was not repeated in subsequent appropriations acts. Similar provisions were contained in the following prior appropriation acts:
 
 Pub. L. 105–277, div. A, §101(g) \[title I\], Oct. 21, 1998, 112 Stat. 2681–439, 2681–446.
 

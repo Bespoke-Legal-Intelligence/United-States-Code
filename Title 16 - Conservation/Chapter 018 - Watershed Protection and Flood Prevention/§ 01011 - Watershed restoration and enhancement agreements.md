@@ -22,7 +22,7 @@ In order for the Secretary to enter into a watershed restoration and enhancement
 
 &emsp;&emsp;(B) improve the viability of and otherwise benefit the fish, wildlife, and other biotic resources on public land in the watershed;
 
-&emsp;&emsp;(C) authorize the provision of technical assistance by the Secretary in the planning ofmanagement activities that will further the purposes of the agreement;
+&emsp;&emsp;(C) authorize the provision of technical assistance by the Secretary in the planning of management activities that will further the purposes of the agreement;
 
 &emsp;&emsp;(D) provide for the sharing of costs of implementing the agreement among the Federal government,<sup>1</sup> the landowner, and other entities, as mutually agreed on by the affected interests; and
 

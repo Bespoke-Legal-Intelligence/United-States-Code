@@ -24,7 +24,7 @@ For purposes of this section—
 
 #### (b) State consent for sale of existing rate-based facilities
 
-If a rate or charge for the sale of electric energy or natural gas (other than any portion of a rate or charge which represents recovery of the cost of a wholesale rate or charge) for, or in connection with, assets of a public utility company that is an associate company or affiliate of a registered holding company was in effect under the laws of any State as of December 19, 1995, the public utility company owning such assets may not sell such assets to an exempt telecommunications company that is an associate company or affiliate unless State commissions having jurisdiction over such public utility company approve such sale. Nothing in this subsection shall preempt the otherwise applicable authority of any State to approve or disapprove the sale of such assets. The approval of the Commission under this chapter shall not be required for the sale of assets as provided in this subsection.
+If a rate or charge for the sale of electric energy or natural gas (other than any portion of arate or charge which represents recovery of the cost of a wholesale rate or charge) for, or in connection with, assets of a public utility company that is an associate company or affiliate of a registered holding company was in effect under the laws of any State as of December 19, 1995, the public utility company owning such assets may not sell such assets to an exempt telecommunications company that is an associate company or affiliate unless State commissions having jurisdiction over such public utility company approve such sale. Nothing in this subsection shall preempt the otherwise applicable authority of any State to approve or disapprove the sale of such assets. The approval of the Commission under this chapter shall not be required for the sale of assets as provided in this subsection.
 
 #### (c) Ownership of ETCS by exempt holding companies
 
@@ -38,7 +38,7 @@ Notwithstanding any provision of this chapter, a registered holding company shal
 
 The relationship between an exempt telecommunications company and a registered holding company, its affiliates and associate companies, shall remain subject to the jurisdiction of the Commission under this chapter: <i>Provided</i>, That—
 
-&emsp;(1) section 79k of this title shall not prohibit the ownership of an interest in the business of one or more exempt telecommunications companies by a registered holding company (regardless of activities engaged in or where facilities owned or operated by such exempttelecommunications companies are located), and such ownership by a registered holding company shall be deemed consistent with the operation of an integrated public utility system;
+&emsp;(1) section 79k of this title shall not prohibit the ownership of an interest in the business of one or more exempt telecommunications companies by a registered holding company (regardless of activities engaged in or where facilities owned or operated by such exempt telecommunications companies are located), and such ownership by a registered holding company shall be deemed consistent with the operation of an integrated public utility system;
 
 &emsp;(2) the ownership of an interest in the business of one or more exempt telecommunications companies by a registered holding company (regardless of activities engaged in or where facilities owned or operated by such exempt telecommunications companies are located) shall be considered as reasonably incidental, or economically necessary or appropriate, to the operations of an integrated public utility system;
 
@@ -90,7 +90,7 @@ A public utility company may enter into a contract to purchase services or produ
 
 #### (j) Nonpreemption of rate authority
 
-Nothing in this chapter shall preclude the Federal Energy Regulatory Commission or aState commission from exercising its jurisdiction under otherwise applicable law to determine whether a public utility company may recover in rates the costs of products or services purchased from or sold to an associate company or affiliate that is an exempt telecommunications company, regardless of whether such costs are incurred through the direct or indirect purchase or sale of products or services from such associate company or affiliate.
+Nothing in this chapter shall preclude the Federal Energy Regulatory Commission or a State commission from exercising its jurisdiction under otherwise applicable law to determine whether a public utility company may recover in rates the costs of products or services purchased from or sold to an associate company or affiliate that is an exempt telecommunications company, regardless of whether such costs are incurred through the direct or indirect purchase or sale of products or services from such associate company or affiliate.
 
 #### (k) Reciprocal arrangements prohibited
 
@@ -134,7 +134,7 @@ Reciprocal arrangements among companies that are not affiliates or associate com
 
 &emsp;(A) If a State commission orders an audit in accordance with paragraph (1), the public utility company and the State commission shall jointly select, within 60 days, a firm to perform the audit. The firm selected to perform the audit shall possess demonstrated qualifications relating to—
 
-&emsp;&emsp;(i) competency, including adequate technical training and professional proficiency in each discipline necessary to carry out the audit; and
+&emsp;&emsp;(i) competency, including adequate technical training and professional proficiencyin each discipline necessary to carry out the audit; and
 
 &emsp;&emsp;(ii) independence and objectivity, including that the firm be free from personal or external impairments to independence, and should assume an independent position with the State commission and auditee, making certain that the audit is based upon an impartial consideration of all pertinent facts and responsible opinions.
 

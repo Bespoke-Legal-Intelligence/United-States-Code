@@ -54,7 +54,7 @@ The President shall not designate any country a beneficiary country under this c
 
 &emsp;(3) if such country fails to act in good faith in recognizing as binding or in enforcing arbitral awards in favor of United States citizens or a corporation, partnership, or association which is 50 percent or more beneficially owned by United States citizens, which have been made by arbitrators appointed for each case or by permanent arbitral bodies to which the parties involved have submitted their dispute;
 
-&emsp;(4) if such country affords preferential treatment to the products of a developed country,other than the United States, and if such preferential treatment has, or is likely to have, a significant adverse effect on United States commerce, unless the President—
+&emsp;(4) if such country affords preferential treatment to the products of a developed country, other than the United States, and if such preferential treatment has, or is likely to have, a significant adverse effect on United States commerce, unless the President—
 
 &emsp;&emsp;(A) has received assurances satisfactory to him that such preferential treatment will be eliminated or that action will be taken to assure that there will be no such significant adverse effect, and
 
@@ -98,13 +98,21 @@ In determining whether to designate any country a beneficiary country under this
 
 #### (e) Withdrawal or suspension of designation
 
-(1) The President may—
+(1)(A) The President may—
 
-&emsp;(A) withdraw or suspend the designation of any country as a beneficiary country, or
+&emsp;(i) withdraw or suspend the designation of any country as a beneficiary country, or
 
-&emsp;(B) withdraw, suspend, or limit the application of duty-free treatment under this chapter to any article of any country,
+&emsp;(ii) withdraw, suspend, or limit the application of duty-free treatment under this chapter to any article of any country,
 
 > if, after such designation, the President determines that as a result of changed circumstances such a country should be barred from designation as a beneficiary country.
+
+(B) The President may, after the requirements of paragraph (2) have been met—
+
+&emsp;(i) withdraw or suspend the designation of any country as an ATPDEA beneficiary country, or
+
+&emsp;(ii) withdraw, suspend, or limit the application of preferential treatment under section 3203(b)(1), (3), or (4) of this title to any article of any country,
+
+> if, after such designation, the President determines that, as a result of changed circumstances, the performance of such country is not satisfactory under the criteria set forth in section 3203(b)(6)(B) of this title.
 
 (2)(A) The President shall publish in the Federal Register notice of the action the President proposes to take under paragraph (1) at least 30 days before taking such action.
 
@@ -120,11 +128,21 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;&emsp;(II) the time and place at which such written comments will be accepted.
 
-#### (f) Report
+#### (f) Reporting requirements
 
-Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter.
+#### (1) In general
 
-(Pub. L. 102–182, title II, §203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, §621(a)(3), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, titleI, §1954(a)(2), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(c)(2), May 18, 2000, 114 Stat. 287.)
+&emsp;Not later than April 30, 2003, and every 2 years thereafter during the period this chapter is in effect, the United States Trade Representative shall submit to the Congress a report regarding the operation of this chapter, including—
+
+&emsp;&emsp;(A) with respect to subsections (c) and (d) of this section, the results of a general review of beneficiary countries based on the considerations described in such subsections; and
+
+&emsp;&emsp;(B) the performance of each beneficiary country or ATPEA beneficiary country, as the case may be, under the criteria set forth in section 3203(b)(6)(B) of this title.
+
+#### (2) Public comment
+
+&emsp;Before submitting the report described in paragraph (1), the United States Trade Representative shall publish a notice in the Federal Register requesting public comments on whether beneficiary countries are meeting the criteria listed in section 3203(b)(6)(B) of this title.
+
+(Pub. L. 102–182, title II, §203, Dec. 4, 1991, 105 Stat. 1236; Pub. L. 103–465, title VI, §621(a)(3), Dec. 8, 1994, 108 Stat. 4992; Pub. L. 104–188, title I, §1954(a)(2), Aug. 20, 1996, 110 Stat. 1927; Pub. L. 106–200, title II, §211(c)(2), May 18, 2000, 114 Stat. 287; Pub. L. 107–210, div. C, title XXXI, §3103(b), (e), Aug. 6, 2002, 116 Stat. 1033.)
 
 #### References in Text
 
@@ -135,6 +153,10 @@ Subsec. (h) of section 2291 of title 22, referred to in subsec. (d)(11), was rep
 This chapter, referred to in subsec. (d)(12), was in the original “this Act” and was translated as reading “this title”, meaning title II of Pub. L. 102–182 which enacted this chapter, to reflect the probable intent of Congress.
 
 #### Amendments
+
+2002—Subsec. (e)(1). Pub. L. 107–210, §3103(b), designated existing provisions as subpar. (A), redesignated former subpars. (A) and (B) as cls. (i) and (ii), respectively, of subpar. (A), and added subpar. (B).
+
+Subsec. (f). Pub. L. 107–210, §3103(e), substituted “Reporting requirements” for “Report” in heading and amended text generally. Prior to amendment, text read as follows: “Not later than January 31, 2001, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (c) and (d) of this section. In reporting on the considerations described in subsection (d)(11) of this section, the President shall report any evidence that the crop eradication and crop substitution efforts of the beneficiary are directly related to the effects of this chapter.”
 
 2000—Subsec. (f). Pub. L. 106–200 substituted “Report” for “Triennial report” in heading and “Not later than January 31, 2001” for “On or before the 3rd, 6th, and 9th anniversaries of December 4, 1991” in text.
 
@@ -150,6 +172,24 @@ Amendment by Pub. L. 104–188 applicable to articles entered on or after Oct. 1
 
 Amendment by Pub. L. 103–465 effective on the date on which the WTO Agreement enters into force with respect to the United States \[Jan. 1, 1995\], see section 621(b) of Pub. L. 103–465, set out as a note under section 1677k of this title.
 
+#### Delegation of Authority
+
+For delegation of functions of President under div. C of Pub. L. 107–210, amending this section, see section 2 of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.
+
+#### Petitions for Review
+
+Pub. L. 107–210, div. C, title XXXI, §3103(d), Aug. 6, 2002, 116 Stat. 1033, provided that:
+
+“(1)
+
+In general.—Not later than 180 days after the date of the enactment of this Act \[Aug. 6, 2002\], the President shall promulgate regulations regarding the review of eligibility of articles and countries under the Andean Trade Preference Act \[19 U.S.C. 3201 et seq.\], consistent with section 203(e) of such Act \[19 U.S.C. 3202(e)\], as amended by this title.
+
+“(2)
+
+Content of regulations.—The regulations shall be similar to the regulations regarding eligibility under the generalized system of preferences under title V of the Trade Act of 1974 \[19 U.S.C. 2461 et seq.\] with respect to the timetable for reviews and content, andshall include procedures for requesting withdrawal, suspension, or limitations of preferential duty treatment under the Andean Trade Preference Act, conducting reviews of such requests, and implementing the results of the reviews.”
+
+\[For delegation of functions of President under section 3103(d) of Pub. L. 107–210, set out above, see section 2(a) of Ex. Ord. No. 13277, Nov. 19, 2002, 67 F.R. 70305, set out as a note under section 3801 of this title.\]
+
 #### Presidential Designation of Beneficiary Countries
 
 The following countries were designated as beneficiary countries for purposes of this chapter:
@@ -162,7 +202,7 @@ Peru, Proc. No. 6585, Aug. 11, 1993, 58 F.R. 43239.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 2411 of this title.
+This section is referred to in sections 2411, 3203 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

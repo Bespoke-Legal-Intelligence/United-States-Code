@@ -66,7 +66,7 @@ Funds appropriated to the President pursuant to subsection (b) of this section s
 
 #### (3) Indigenous credit unions
 
-&emsp;Funds available to the Enterprise Funds may be used for technical and other assistance to support the development of indigenous credit unions in Poland and Hungary. As used in this paragraph, the term “credit union” means a member-owned, nonprofit, cooperative depository institution—
+&emsp;Funds available to the Enterprise Funds may be used for technical and other assistance to support the development of indigenous credit unions in Poland and Hungary. As usedin this paragraph, the term “credit union” means a member-owned, nonprofit, cooperative depository institution—
 
 &emsp;&emsp;(A) which is formed to permit individuals in the field of membership specified in such institution's charter to pool their savings, lend the savings to one another, and own the organization where they save, borrow, and obtain related financial services; and
 
@@ -142,7 +142,7 @@ Each Enterprise Fund shall publish an annual report, which shall include a compr
 
 #### References in Text
 
-This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally tothis chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
+This chapter, referred to in subsec. (d)(1), was in the original “this Act”, meaning Pub. L. 101–179, Nov. 28, 1989, 103 Stat. 1298, which is classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 5401 of this title and Tables.
 
 The date of enactment of this subsection, referred to in subsec. (<i>l</i>)(3), probably means the date of enactment of Pub. L. 105–118 which amended subsec. (<i>l</i>) generally and was approved Nov. 26, 1997.
 
@@ -158,7 +158,7 @@ Functions of President under this section relating to Enterprise Funds for Polan
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2295b, 5425, 5953 of this title.
+This section is referred to in sections 2295b, 5425, 5953, 7513 of this title.
 
 <i><sup>1</sup></i><i> So in original.</i>
 

@@ -50,7 +50,7 @@ The purpose of this section is to establish a comprehensive performance accounta
 
 #### (iii) Agreement on eligible agency adjusted levels of performance for first 3 years
 
-&emsp;&emsp;&emsp;In order to ensure an optimal return on the investment of Federal funds in adult education and literacy activities authorized under this part, the Secretary and each eligible agency shall reach agreement on levels of performance for each of the core indicators of performance, for the first 3 program years covered by the State plan, taking into account the levels identified in the State plan under clause (ii) and the factors described in clause (iv). The levels agreed to under this clause shall be considered to be the eligible agency adjusted levels of performance for the eligible agency for such years and shall be incorporated into the State plan prior to the approval of such plan.
+&emsp;&emsp;&emsp;In order to ensure an optimal return on the investment of Federal funds in adult education and literacy activities authorized under this part, the Secretary and each eligible agency shall reach agreement on levels of performance for each of the core indicators of performance, for thefirst 3 program years covered by the State plan, taking into account the levels identified in the State plan under clause (ii) and the factors described in clause (iv). The levels agreed to under this clause shall be considered to be the eligible agency adjusted levels of performance for the eligible agency for such years and shall be incorporated into the State plan prior to the approval of such plan.
 
 #### (iv) Factors
 

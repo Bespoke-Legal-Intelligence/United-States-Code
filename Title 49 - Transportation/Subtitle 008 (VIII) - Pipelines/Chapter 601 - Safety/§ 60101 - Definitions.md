@@ -304,7 +304,7 @@ Nov. 30, 1979, Pub. L. 96–129, 93 Stat. 989, §220; added Oct. 24, 1992, Pub. 
 
 In this chapter, the words “liquefied natural gas” are substituted for “LNG” for clarity. The word “authority” is substituted for “agency” for consistency in the revised title and with other titles of the United States Code. The words “gas” and “hazardous liquid” are added where applicable because of the restatement.
 
-In subsection (a), before clause (1), the text of 49 App.:1671(10) and 2001(11) is omitted because the complete name of the Secretary of Transportation is used the first time the term appears in a section. The words “As used” are omitted as surplus. In clause (1)(A), the words “Federal Energy Regulatory Commission” and “Commission” are substituted for “Department of Energy” because under 42:7171(a) and 7172(a)(1) the Commission is statutorily independent of the Department and has the responsibility for siting, construction, and operating applications. In clauses (3) and (5), the words “without limitation, new and existing” are omitted as surplus. In clause (4)(B), the words “or material” are omitted as surplus. In clause (6), before subclause (A), the word “pipeline” is substituted for “transmission” for clarity and consistency. In clause (8)(A), before subclause (i), the words “trade, traffic, transportation, exchange, or other” are omitted as surplus. In subclause (ii), the words “trade, transportation, exchange, or other” are omitted as surplus. In clause (8)(B), the word “place” is substituted for “point” for clarity and consistency in the revised title. In clause (9), before subclause (A), the word “facility” is substituted for “transportation” for clarity and consistency. In clause (12), the words “resulting from” and the text of 49 App.:1671(16)(A)–(D) are omitted as surplus. In clause (13), the words “(liquefaction or solidification)” and “(vaporization)” are omitted as surplus. In clauses (14)and (16), the word “pipeline” is added for clarity. In clause (15), the words “city, county, or any other” are omitted as surplus. In clause (17), the words “in addition to its meaning under section 1 of title 1 (except as to societies)” are substituted for “any individual, firm, joint venture, partnership, corporation, association . . . cooperative association, or joint stock association” to eliminate unnecessary words, for clarity, and for consistency in the revised title and with other titles of the Code. Clauses (18) and (19) are added because of the restatement. In clause (20), the words “of the United States” are substituted for “of the several” for consistency in the revised title and with other titles of the Code. In clause (21)(B), the words “outside a populated area” are substituted for “which lie outside the limits of any incorporated or unincorporated city, town, village, or any other designated residential or commercial area such as a subdivision, a business or shopping center, a community development, or any similar populated area” to eliminate unnecessary words. In clause (22)(B)(i), the word “area” is substituted for “locations” for consistency.
+In subsection (a), before clause (1), the text of 49 App.:1671(10) and 2001(11) is omitted because the complete name of the Secretary of Transportation is used the first time the term appears in a section. The words “As used” are omitted as surplus. In clause (1)(A), the words “Federal Energy Regulatory Commission” and “Commission” are substituted for “Department of Energy” because under 42:7171(a) and 7172(a)(1) the Commission is statutorily independent of the Department and has the responsibility for siting, construction, and operating applications. In clauses (3) and (5), the words “without limitation, new and existing” are omitted as surplus. In clause (4)(B), the words “or material” are omitted as surplus. In clause (6), before subclause (A), the word “pipeline” is substituted for “transmission” for clarity and consistency. In clause (8)(A), before subclause (i), the words “trade, traffic, transportation, exchange, or other” are omitted as surplus. In subclause (ii), the words “trade, transportation, exchange, or other” are omitted as surplus. In clause (8)(B), the word “place” is substituted for “point” for clarity and consistency in the revised title. In clause (9), before subclause (A), the word “facility” is substituted for “transportation” for clarity and consistency. In clause (12), the words “resulting from” and the text of 49 App.:1671(16)(A)–(D) are omitted as surplus. In clause (13), the words “(liquefaction or solidification)” and “(vaporization)” are omitted as surplus. In clauses (14) and (16), the word “pipeline” is added for clarity. In clause (15), the words “city, county, or any other” are omitted as surplus. In clause (17), the words “in addition to its meaning under section 1 of title 1 (except as to societies)” are substituted for “any individual, firm, joint venture, partnership, corporation, association . . . cooperative association, or joint stock association” to eliminate unnecessary words, for clarity, and for consistency in the revised title and with other titles of the Code. Clauses (18) and (19) are added because of the restatement. In clause (20), the words “of the United States” are substituted for “of the several” for consistency in the revised title and with other titles of the Code. In clause (21)(B), the words “outside a populated area” are substituted for “which lie outside the limits of any incorporated or unincorporated city, town, village, or any other designated residential or commercial area such as a subdivision, a business or shopping center, a community development, or any similar populated area” to eliminate unnecessary words. In clause (22)(B)(i), the word “area” is substituted for “locations” for consistency.
 
 Pub. L. 103–272, §4(s)
 
@@ -354,15 +354,107 @@ Subsec. (a)(23) to (25). Pub. L. 104–304, §3(a)(3), added pars. (23) to (25).
 
 Subsec. (b)(1)(A). Pub. L. 104–304, §20(f), substituted “prescribe standards defining” for “define by regulation”.
 
-Subsec. (b)(2)(A). Pub. L. 104–304, §§3(b), 20(f), inserted “, if appropriate,” after “Not later than October 24, 1995, the Secretary” and substituted “prescribe standards defining” for “define by regulation”.
+Subsec. (b)(2)(A). Pub. L. 104–304, §§3(b), 20(f), inserted “, if appropriate,” after “Not later than October 24,1995, the Secretary” and substituted “prescribe standards defining” for “define by regulation”.
 
 #### Effective Date of 1994 Amendment
 
 Section 4(s) of Pub. L. 103–272 provided that the amendment made by that section is effective on the date the regulation required under subsec. (b) of this section is effective.
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–355, §1(a), Dec. 17, 2002, 116 Stat. 2985, provided that: “This Act \[enacting sections 60129 to 60133 of this title, amending sections 6103 to 6105, 6107, 60102, 60104, 60106, 60109, 60110, 60112, 60114 to 60118, 60120, 60122, 60123, 60125, and 60127 of this title, and enacting provisions set out as notes under sections 1135, 60101, 60102, 60108, 60109, 60114, 60122, and 60131 of this title and section 717m of Title 15, Commerce and Trade\] may be cited as the ‘Pipeline Safety Improvement Act of 2002’.”
+
 #### Short Title of 1996 Amendment
 
 Section 1 of Pub. L. 104–304 provided that: “This Act \[enacting sections 60126 to 60128 of this title, amending this section and sections 60102, 60105 to 60110, 60113 to 60118, 60123 to 60125 of this title, and enacting provisions set out as a note under section 60301 of this title\] may be cited as the ‘Accountable Pipeline Safety and Partnership Act of 1996’.”
+
+#### Pipeline Integrity, Safety, and Reliability Research and Development
+
+Pub. L. 107–355, §12, Dec. 17, 2002, 116 Stat. 2997, provided that:
+
+“(a)
+
+In General.—The heads of the participating agencies shall carry out a program of research, development, demonstration, and standardization to ensure the integrity of pipeline facilities.
+
+“(b)
+
+Memorandum of Understanding.—
+
+&emsp;“(1)
+
+In general.—Not later than 120 days after the date of enactment of this Act \[Dec. 17, 2002\], the heads of the participating agencies shall enter into a memorandum of understanding detailing their respective responsibilities in the program authorized by subsection (a).
+
+&emsp;“(2)
+
+Areas of expertise.—Under the memorandum of understanding, each of the participating agencies shall have the primary responsibility for ensuring that the elements of the program within its expertise are implemented in accordance with this section. The Department of Transportation's responsibilities shall reflect its lead role in pipeline safety and expertise in pipeline inspection, integrity management, and damage prevention. The Department of Energy's responsibilities shall reflect its expertise in system reliability, low-volume gas leak detection, and surveillance technologies. The National Institute of Standards and Technology's responsibilities shall reflect its expertise in materials research and assisting in the development of consensus technical standards, as that term is used in section 12(d)(4) \[probably should be “12(d)(5)”\] of Public Law 104–13 \[Pub. L. 104–113\] (15 U.S.C. 272 note).
+
+“(c)
+
+Program Elements.—The program authorized by subsection (a) shall include research, development, demonstration, and standardization activities related to—
+
+&emsp;“(1) materials inspection;
+
+&emsp;“(2) stress and fracture analysis, detection of cracks, corrosion, abrasion, and other abnormalities inside pipelines that lead to pipeline failure, and development of new equipment or technologies that are inserted into pipelines to detect anomalies;
+
+&emsp;“(3) internal inspection and leak detection technologies, including detection of leaks at very low volumes;
+
+&emsp;“(4) methods of analyzing content of pipeline throughput;
+
+&emsp;“(5) pipeline security, including improving the real-time surveillance of pipeline rights-of-way, developing tools for evaluating and enhancing pipeline security and infrastructure, reducing natural, technological, and terrorist threats, and protecting first response units and persons near an incident;
+
+&emsp;“(6) risk assessment methodology, including vulnerability assessment and reduction of third-party damage;
+
+&emsp;“(7) communication, control, and information systems surety;
+
+&emsp;“(8) fire safety of pipelines;
+
+&emsp;“(9) improved excavation, construction, and repair technologies; and
+
+&emsp;“(10) other appropriate elements.
+
+“(d)
+
+Program Plan.—
+
+&emsp;“(1)
+
+In general.—Not later than 1 year after the date of enactment of this section \[Dec. 17, 2002\], the Secretary of Transportation, in coordination with the Secretary of Energy and the Director of the National Institute of Standards and Technology, shall prepare and transmit to Congress a 5-year program plan to guide activities under this section. Such program plan shall be submitted to the Technical Pipeline Safety Standards Committee and the Technical Hazardous Liquid Pipeline Safety Standards Committee for review, and the report to Congress shall include the comments of the committees. The 5-year program plan shall be based on the memorandum of understanding under subsection (b) and take into account related activities of other Federal agencies.
+
+&emsp;“(2)
+
+Consultation.—In preparing the program plan and selecting and prioritizing appropriate project proposals, the Secretary of Transportation shall consult with or seek the advice of appropriate representatives of the natural gas, crude oil, and petroleum product pipeline industries, utilities, manufacturers, institutions of higher learning, Federal agencies, pipeline research institutions, national laboratories, State pipeline safety officials, labor organizations, environmental organizations, pipeline safety advocates, and professional and technical societies.
+
+“(e)
+
+Reports to Congress.—Not later than 1 year after the date of enactment of this Act \[Dec. 17, 2002\], and annually thereafter, the heads of the participating agencies shall transmit jointly to Congress a report on the status and results to date of the implementation of the program plan prepared under subsection (d).
+
+“(f)
+
+Authorization of Appropriations.—
+
+&emsp;“(1)
+
+Department of transportation.—There is authorized to be appropriated to the Secretary of Transportation for carrying out this section $10,000,000 for each of the fiscal years 2003 through 2006.
+
+&emsp;“(2)
+
+Department of energy.—There is authorized to be appropriated to the Secretary of Energy for carrying out this section $10,000,000 for each of the fiscal years 2003 through 2006.
+
+&emsp;“(3)
+
+National institute of standards and technology.—There is authorized to be appropriated to the Director of the National Institute of Standards and Technology for carrying out this section $5,000,000 for each of the fiscal years 2003 through 2006.
+
+&emsp;“(4)
+
+General revenue funding.—Any sums appropriated under this subsection shall be derived from general revenues and may not be derived from amounts collected under section 60301 of title 49, United States Code.
+
+“(g)
+
+Pipeline Integrity Program.—Of the amounts available in the Oil Spill Liability Trust Fund established by section 9509 of the Internal Revenue Code of 1986 (26 U.S.C. 9509), $3,000,000 shall be transferred to the Secretary of Transportation, as provided in appropriation Acts, to carry out programs for detection, prevention, and mitigation of oil spills for each of the fiscal years 2003 through 2006.
+
+“(h)
+
+Participating Agencies Defined.—In this section, the term ‘participating agencies’ means the Department of Transportation, the Department of Energy, and the National Institute of Standards and Technology.”
 
 #### Section Referred to in Other Sections
 

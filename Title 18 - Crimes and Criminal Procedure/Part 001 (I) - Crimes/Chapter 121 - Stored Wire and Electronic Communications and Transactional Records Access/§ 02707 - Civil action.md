@@ -20,7 +20,7 @@ Damages.—The court may assess as damages in a civil action under this section 
 
 (d)
 
-Administrative Discipline.—If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings ofthe court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
+Administrative Discipline.—If a court or appropriate department or agency determines that the United States or any of its departments or agencies has violated any provision of this chapter, and the court or appropriate department or agency finds that the circumstances surrounding the violation raise serious questions about whether or not an officer or employee of the United States acted willfully or intentionally with respect to the violation, the department or agency shall, upon receipt of a true and correct copy of the decision and findings of the court or appropriate department or agency promptly initiate a proceeding to determine whether disciplinary action against the officer or employee is warranted. If the head of the department or agency involved determines that disciplinary action is not warranted, he or she shall notify the Inspector General with jurisdiction over the department or agency concerned and shall provide the Inspector General with the reasons for such determination.
 
 (e)
 
@@ -42,7 +42,7 @@ Limitation.—A civil action under this section may not be commenced later than 
 
 Improper Disclosure.—Any willful disclosure of a “record”, as that term is defined in section 552a(a) of title 5, United States Code, obtained by an investigative or law enforcement officer, or a governmental entity, pursuant to section 2703 of this title, or from a device installed pursuant to section 3123 or 3125 of this title, that is not a disclosure made in the proper performance of the official functions of the officer or governmental entity making the disclosure, is a violation of this chapter. This provision shall not apply to information previously lawfully disclosed (prior to the commencement of any civil or administrative proceeding under this chapter) to the public by a Federal, State, or local governmental entity or by the plaintiff in a civil action under this chapter.
 
-(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 104–293, title VI, §601(c), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title II, §§223(b), title VIII, §815, Oct. 26, 2001, 115 Stat. 293, 384.)
+(Added Pub. L. 99–508, title II, §201\[(a)\], Oct. 21, 1986, 100 Stat. 1866; amended Pub. L. 104–293, title VI, §601(c), Oct. 11, 1996, 110 Stat. 3469; Pub. L. 107–56, title II, §§223(b), title VIII, §815, Oct. 26, 2001, 115 Stat. 293, 384; Pub. L. 107–273, div. B, title IV, §4005(f)(2), Nov. 2, 2002, 116 Stat. 1813.)
 
 #### Amendment of Section
 
@@ -50,11 +50,13 @@ Improper Disclosure.—Any willful disclosure of a “record”, as that term is
 
 #### Amendments
 
+2002—Subsec. (e)(1). Pub. L. 107–273 made technical correction to directory language of Pub. L. 107–56, §815. See 2001 Amendment note below.
+
 2001—Subsec. (a). Pub. L. 107–56, §§223(b)(1), 224, temporarily inserted “, other than the United States,” after “person or entity”. See Termination Date of 2001 Amendment note below.
 
 Subsec. (d). Pub. L. 107–56, §§223(b)(2), 224, temporarily added subsec. (d) and temporarily struck out heading and text of former subsec. (d). Text read as follows: “If a court determines that any agency or department of the United States has violated this chapter and the court finds that the circumstances surrounding the violation raise the question whether or not an officer or employee of the agency or department acted willfully or intentionally with respect to the violation, the agency or department concerned shall promptly initiate a proceeding to determine whether or not disciplinary action is warranted against the officer or employee.” See Termination Date of 2001 Amendment note below.
 
-Subsec. (e)(1). Pub. L. 107–56, §815, which directed insertion of “(including a request of a governmental entity under section 2703(f) of this title)” after “or statutory authorization”, was executed by making the insertion after “or a statutory authorization” to reflect the probable intent of Congress.
+Subsec. (e)(1). Pub. L. 107–56, §815, as amended by Pub. L. 107–273, inserted “(including a request of a governmental entity under section 2703(f) of this title)” after “or a statutory authorization”.
 
 Subsec. (g). Pub. L. 107–56, §§223(b)(3), 224, temporarily added subsec. (g). See Termination Date of 2001 Amendment note below.
 
@@ -63,6 +65,10 @@ Subsec. (g). Pub. L. 107–56, §§223(b)(3), 224, temporarily added subsec. (g)
 Subsec. (c). Pub. L. 104–293, §601(c)(2), inserted at end “If the violation is willful or intentional, the court may assess punitive damages. In the case of a successful action to enforce liability under this section, the court may assess the costs of the action, together with reasonable attorney fees determined by the court.”
 
 Subsecs. (d) to (f). Pub. L. 104–293, §601(c)(3), (4), added subsec. (d) and redesignated former subsecs. (d) and (e) as (e) and (f), respectively.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–273, div. B, title IV, §4005(f)(2), Nov. 2, 2002, 116 Stat. 1813, provided that the amendment made by section 4005(f)(2) is effective Oct. 26, 2001.
 
 #### Termination Date of 2001 Amendment
 

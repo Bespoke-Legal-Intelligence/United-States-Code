@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) provision of rapid response activities, carried out in local areas by the State or by an entity designated by the State, working in conjunction with the local boards and the chief elected officials in the local areas; and
 
-&emsp;&emsp;&emsp;(ii) provision of additional assistance to local areas that experience disasters, mass layoffs or plant closings, or other events that precipitate substantial increases in the number of unemployed individuals, carried out in local areas by the State or by an entity designated by the State, working in conjunction with the local boards and the chief elected officials in the local areas.
+&emsp;&emsp;&emsp;(ii) provision of additional assistance to local areas that experience disasters, mass layoffs or plant closings, or other events that precipitate substantial increases in the number of unemployed individuals, carried out in local areas by the State orby an entity designated by the State, working in conjunction with the local boards and the chief elected officials in the local areas.
 
 #### (B) Other required statewide employment and training activities
 
@@ -82,7 +82,7 @@
 
 #### (ii) Use of funds
 
-&emsp;&emsp;&emsp;Funds made available for administrative costs under clause (i) may be used for theadministrative cost of any of the statewide youth activities or statewide employment and training activities, regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title.
+&emsp;&emsp;&emsp;Funds made available for administrative costs under clause (i) may be used for the administrative cost of any of the statewide youth activities or statewide employment and training activities, regardless of whether the funds were allotted to the State under section 2852(b)(1) of this title or paragraph (1) or (2) of section 2862(b) of this title.
 
 #### (b) Local employment and training activities
 
@@ -168,7 +168,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;(iii) information relating to local occupations in demand and the earnings and skill requirements for such occupations; and
 
-&emsp;&emsp;(F) provision of performance information and program cost information on eligible providers of training services as described in section 2842 of this title, provided by program, and eligible providers of youth activities described in section 2843 of this title, providers of adult education described in title II \[20 U.S.C. 9201 et seq.\], providers of postsecondary vocational education activities and vocational education activities available to school dropouts under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.), and providers of vocational rehabilitation program activities described in title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.);
+&emsp;&emsp;(F) provision of performance information and program cost information on eligibleproviders of training services as described in section 2842 of this title, provided by program, and eligible providers of youth activities described in section 2843 of this title, providers of adult education described in title II \[20 U.S.C. 9201 et seq.\], providers of postsecondary vocational education activities and vocational education activities available to school dropouts under the Carl D. Perkins Vocational and Applied Technology Education Act (20 U.S.C. 2301 et seq.), and providers of vocational rehabilitation program activities described in title I of the Rehabilitation Act of 1973 (29 U.S.C. 720 et seq.);
 
 &emsp;&emsp;(G) provision of information regarding how the local area is performing on the local performance measures and any additional performance information with respect to the one-stop delivery system in the local area;
 
@@ -316,7 +316,7 @@ Funds allocated to a local area for adults under paragraph (2)(A) or (3), as app
 
 &emsp;&emsp;&emsp;&emsp;(II) the local board determines there are an insufficient number of eligible providers of training services in the local area involved (such as in a rural area) to accomplish the purposes of a system of individual training accounts; or
 
-&emsp;&emsp;&emsp;&emsp;(III) the local board determines that there is a training services program of demonstrated effectiveness offered in the local area by a community-based organization or another private organization to serve special participant populations that face multiple barriers to employment.
+&emsp;&emsp;&emsp;&emsp;(III) the local board determines that there is a training services program of demonstrated effectiveness offered in the local area by a community-based organization or another private organization toserve special participant populations that face multiple barriers to employment.
 
 #### (iii) Linkage to occupations in demand
 
@@ -398,5 +398,5 @@ The Higher Education Act of 1965, referred to in subsec. (d)(4)(B)(i)(I), is Pub
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 49a, 49<i>l</i>–2, 772, 2102, 2801, 2821, 2822, 2832, 2841, 2842, 2853, 2854, 2863, 2871, 2888, 2913, 2918, 2931, 2934, 2944 of this title; title 5 section 3502; title 42 sections 3056, 3056c, 3056j.
+This section is referred to in sections 49a, 49<i>l</i>–2, 772, 2102, 2801, 2821, 2822, 2832, 2841, 2842, 2853, 2854, 2863, 2871, 2888, 2913, 2918, 2931, 2934, 2944 of this title; title 5 section 3502; title 19 sections 2271, 2295; title 38 section 4101; title 42 sections 3056, 3056c, 3056j.
 

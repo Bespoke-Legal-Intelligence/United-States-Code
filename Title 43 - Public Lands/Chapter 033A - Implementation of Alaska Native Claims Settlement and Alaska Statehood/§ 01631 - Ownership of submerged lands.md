@@ -6,7 +6,7 @@
 
 (2) If title to lands beneath navigable waters of a lake less than fifty acres in size or a river or stream less than three chains in width did not vest in the State pursuant to the Submerged Lands Act \[43 U.S.C. 1301 et seq., 1311 et seq.\], such lake, river, or stream shall not be meandered.
 
-(3) The Secretary is not required to determine the navigability of a lake, river, or stream which because of its size or width is required to be meandered or to compute the acreage of theland beneath such lake, river, or stream or to describe such land in any conveyance document.
+(3) The Secretary is not required to determine the navigability of a lake, river, or stream which because of its size or width is required to be meandered or to compute the acreage of the land beneath such lake, river, or stream or to describe such land in any conveyance document.
 
 (4) Nothing in this subsection shall be construed to require ground survey or monumentation of meanderlines.
 
@@ -34,7 +34,7 @@ For the purposes of this section, the terms “navigable” and “navigability�
 
 The Alaska Native Claims Settlement Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 92–203, Dec. 18, 1971, 85 Stat. 688, as amended, which is classified generally to chapter 33 (§1601 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1601 of this title and Tables.
 
-This Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, as amended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
+This Act, referred to in subsecs. (a)(1), (b)(1), and (c)(2), (3), is Pub. L. 96–487, Dec. 2, 1980, 94 Stat. 2371, asamended, known as the Alaska National Interest Lands Conservation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3101 of Title 16, Conservation, and Tables.
 
 The Alaska Statehood Act, referred to in subsecs. (a)(1), (b)(1), and (d), is Pub. L. 85–508, July 7, 1958, 72 Stat. 339, as amended, which is set out as a note preceding section 21 of Title 48, Territories and Insular Possessions. For complete classification of this Act to the Code, see Tables.
 
@@ -54,7 +54,7 @@ Pub. L. 99–258 substituted “six years after the date of execution” for “
 
 #### Change of Name
 
-Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources ofHouse of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
+Committee on Interior and Insular Affairs of the House of Representatives changed to Committee on Natural Resources of the House of Representatives on Jan. 5, 1993, by House Resolution No. 5, One Hundred Third Congress. Committee on Natural Resources of House of Representatives treated as referring to Committee on Resources of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress.
 
 #### Construction
 

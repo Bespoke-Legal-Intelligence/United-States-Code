@@ -138,7 +138,7 @@ In determining whether to designate any country a beneficiary country under this
 
 &emsp;(9) the extent to which such country provides under its law adequate and effective means for foreign nationals to secure, exercise, and enforce exclusive rights in intellectual property, including patent, trademark, and copyright rights;
 
-&emsp;(10) the extent to which such country prohibits its nationals from engaging in the broadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent; and
+&emsp;(10) the extent to which such country prohibits its nationals from engaging in thebroadcast of copyrighted material, including films or television material, belonging to United States copyright owners without their express consent; and
 
 &emsp;(11) the extent to which such country is prepared to cooperate with the United States in the administration of the provisions of this chapter.
 
@@ -216,7 +216,7 @@ Subsec. (e)(1). Pub. L. 106–200, § 211(b)(1), designated existing provisions 
 
 Subsec. (e)(3). Pub. L. 106–200, §211(b)(2), added par. (3).
 
-Subsec. (f). Pub. L. 106–200, §211(c)(1), inserted heading and amended text generally. Prior to amendment, text read as follows: “On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.”
+Subsec. (f). Pub. L. 106–200, §211(c)(1), inserted heading and amended text generally. Prior to amendment,text read as follows: “On or before October 1, 1993, and the close of each 3-year period thereafter, the President shall submit to the Congress a complete report regarding the operation of this chapter, including the results of a general review of beneficiary countries based on the considerations described in subsections (b) and (c) of this section.”
 
 1996—Subsec. (b)(7). Pub. L. 104–188 substituted “2467(4)” for “2462(a)(4)”.
 
@@ -274,7 +274,7 @@ Intent of the Congress.—The Congress hereby expresses its intention to ensure 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1202, 2191, 2194, 2411, 2703, 2707 of this title; title 26 sections 274, 936.
+This section is referred to in sections 1202, 2191, 2194, 2411, 2703, 2707 of this title; title 7 section 1737; title 26 sections 274, 936.
 
 <i><sup>1</sup></i><i> So in original. The period probably should be a semicolon.</i>
 

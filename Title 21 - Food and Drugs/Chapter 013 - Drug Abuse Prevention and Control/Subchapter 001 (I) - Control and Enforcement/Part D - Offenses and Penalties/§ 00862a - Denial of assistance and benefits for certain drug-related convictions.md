@@ -28,7 +28,7 @@ A State that has not exercised its authority under subsection (d)(1)(A) of this 
 
 #### (A) Opt out
 
-&emsp;&emsp;A State may, by specific reference in a law enacted after August 22, 1996, exempt any or all individuals domiciled in the State from the application of subsection (a) of this section.
+&emsp;&emsp;A State may, by specific reference in a law enacted after August 22, 1996, exempt any orall individuals domiciled in the State from the application of subsection (a) of this section.
 
 #### (B) Limit period of prohibition
 

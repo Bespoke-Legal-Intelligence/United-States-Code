@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(C) that—
 
-&emsp;&emsp;&emsp;(i) the application of the import restrictions set forth in section 2606 of this title with respect to archaeological or ethnological material of the State Party, if applied in concert with similar restrictions implemented, or to be implemented within a reasonable period of time, by those nations (whether or not State Parties) individually having a significant import tradein such material, would be of substantial benefit in deterring a serious situation of pillage, and
+&emsp;&emsp;&emsp;(i) the application of the import restrictions set forth in section 2606 of this title with respect to archaeological or ethnological material of the State Party, if applied in concert with similar restrictions implemented, or to be implemented within a reasonable period of time, by those nations (whether or not State Parties) individually having a significant import trade in such material, would be of substantial benefit in deterring a serious situation of pillage, and
 
 &emsp;&emsp;&emsp;(ii) remedies less drastic than the application of the restrictions set forth in such section are not available; and
 
@@ -62,7 +62,7 @@ If, after an agreement enters into force with respect to the United States, the 
 
 &emsp;(2) are not implementing such restrictions satisfactorily with the result that no substantial benefit in deterring a serious situation of pillage in the State Party concerned is being obtained,
 
-> the President shall suspend the implementation of the import restrictions under section 2606 of this title until such time as the nations take appropriate corrective action.
+> the President shall suspend the implementation of the import restrictions under section 2606 ofthis title until such time as the nations take appropriate corrective action.
 
 #### (e) Extension of agreements
 
@@ -120,11 +120,11 @@ Section 2603 of this title, referred to in subsec. (g)(1)(B), was in the origina
 
 #### Ex. Ord. No. 12555. Protection of Cultural Property
 
-Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, provided:
+Ex. Ord. No. 12555, Mar. 10, 1986, 51 F.R. 8475, as amended by Ex. Ord. No. 13286, §44, Feb. 28, 2003, 68 F.R. 10627, provided:
 
 By the authority vested in me as President by the Constitution and laws of the United States of America, including the Convention on Cultural Property Implementation Act (Title III of Public Law 97–446; hereinafter referred to as the “Act”) \[this chapter\], and Section 301 of Title 3 of the United States Code, it is hereby ordered as follows:
 
-Section 1. <i>United States Information Agency</i>. The following functions conferred upon the President by the Act are hereby delegated to the Director of the United States Information Agency, acting in consultation with the Secretary of State and the Secretary of the Treasury:
+Section 1. <i>United States Information Agency</i>. The following functions conferred upon the President by the Act are hereby delegated to the Director of the United States Information Agency, acting in consultation with the Secretary of State and the Secretary of Homeland Security:
 
 (a) The functions conferred by section 303(a)(1) \[19 U.S.C. 2602(a)(1)\] concerning determinations to be made prior to initiation of negotiations of bilateral or multilateral agreements.
 
@@ -144,7 +144,7 @@ Section 1. <i>United States Information Agency</i>. The following functions conf
 
 (i) The functions conferred by section 306(h) relating to the determinations to be made about the disclosure of matters involved in the Cultural Property Advisory Committee's proceedings.
 
-Sec. 2. <i>Department of State</i>. The following functions conferred upon the President by the Act are hereby delegated to the Secretary of State, acting in consultation with and with the participation of the Director of the United States Information Agency and in consultation with the Secretary of the Treasury:
+Sec. 2. <i>Department of State</i>. The following functions conferred upon the President by the Act are hereby delegated to the Secretary of State, acting in consultationwith and with the participation of the Director of the United States Information Agency and in consultation with the Secretary of Homeland Security:
 
 (a) The functions conferred by section 303(a)(2) \[19 U.S.C. 2602(a)(2)\] relating to the negotiation and conclusion of bilateral or multilateral agreements under the Act, subject to the restrictions of section 303(c).
 
@@ -156,15 +156,13 @@ Sec. 2. <i>Department of State</i>. The following functions conferred upon the P
 
 (e) The functions conferred by section 304(c)(4) \[19 U.S.C. 2603(c)(4)\] to the extent that they involve the negotiation and conclusion of agreements subject to advice and consent to ratification by the Senate.
 
-Sec. 3. <i>Department of the Treasury</i>. The following functions conferred upon the President by the Act are hereby delegated to the Secretary of the Treasury, acting in consultation with the Director of the United States Information Agency and the Secretary of State:
+Sec. 3. <i>Department of the Treasury \[The Department of Homeland Security\]</i>. The following functions conferred upon the President by the Act are hereby delegated to the Secretary of Homeland Security, acting in consultation with the Director of the United States Information Agency and the Secretary of State:
 
 (a) Subject to subsection (b) of Section 1 above, the functions conferred by section 303(d) \[19 U.S.C. 2602(d)\] to the extent that they involve the suspension of import restrictions.
 
 (b) Subject to subsection\[s\] (f) and (g) of Section 1 above, the functions conferred by section 304 \[19 U.S.C. 2603\] to the extent that they involve the application of import restrictions set forth in section 307 \[19 U.S.C. 2606\] and the extension of such import restrictions pursuant to section 304(c)(3).
 
 Sec. 4. <i>Enforcement in Territories and Other Areas</i>. The Secretary of the Interior is designated to carry out the enforcement functions in section 314 \[19 U.S.C. 2613\].
-
-Ronald Reagan.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 \[For abolition of United States Information Agency (other than Broadcasting Board of Governors and International Broadcasting Bureau), transfer of functions, and treatment of references thereto, see sections 6531, 6532, and 6551 of Title 22, Foreign Relations and Intercourse.\]
 

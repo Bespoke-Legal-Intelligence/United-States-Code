@@ -20,7 +20,7 @@ The Administrator is authorized to make an annual grant to the Democracy Corps w
 
 &emsp;(1) institutions of democratic governance (including judicial, electoral, legislative, and administrative processes), and
 
-&emsp;(2) the nongovernmental organizations of a civil society (including charitable, educational, trade union, business, professional, voluntary, community, and other civic organizations),
+&emsp;(2) the nongovernmental organizations of a civil society (including charitable, educational, trade union, business, professional,voluntary, community, and other civic organizations),
 
 > by mobilizing the expertise of the American people to provide practical assistance through “on the ground” person-to-person advice, technical assistance, and small grants to indigenous individuals and indigenous entities, in accordance with subsection (d) of this section.
 

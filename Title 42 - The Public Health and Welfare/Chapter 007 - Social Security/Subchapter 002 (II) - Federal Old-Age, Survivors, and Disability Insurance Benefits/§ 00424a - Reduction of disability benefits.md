@@ -38,11 +38,11 @@ If any periodic benefit for a total or partial disability under a law or plan de
 
 #### (c) Reductions and deductions under other provisions
 
-Reduction of benefits under this section shall be made after any reduction under subsection (a) of section 403 of this title, but before deductions under such section and under section 422(b) <sup>1</sup> of this title.
+Reduction of benefits under this section shall be made after any reduction under subsection\(a) of section 403 of this title, but before deductions under such section and under section 422(b) <sup>1</sup> of this title.
 
 #### (d) Exception
 
-The reduction of benefits required by this section shall not be made if the law or plan described in subsection (a)(2) of this section under which a periodic benefit is payable provides for the reduction thereof when anyone is entitled tobenefits under this subchapter on the basis of the wages and self-employment income of an individual entitled to benefits under section 423 of this title, and such law or plan so provided on February 18, 1981.
+The reduction of benefits required by this section shall not be made if the law or plan described in subsection (a)(2) of this section under which a periodic benefit is payable provides for the reduction thereof when anyone is entitled to benefits under this subchapter on the basis of the wages and self-employment income of an individual entitled to benefits under section 423 of this title, and such law or plan so provided on February 18, 1981.
 
 #### (e) Conditions for payment
 
@@ -84,7 +84,7 @@ A prior section 224 of act Aug. 14, 1935, was classified to section 424 of this 
 
 1994—Subsecs. (a)(2)(B), (b), (e), (f)(1). Pub. L. 103–296, §107(a)(4), substituted “Commissioner of Social Security” for “Secretary” wherever appearing and “the Commissioner may require” for “he may require” in subsec. (e).
 
-Subsec. (f)(2). Pub. L. 103–296, §321(e)(2)(H), inserted “and” at end of subpar. (A), added subpar. (B), and struck out former subpars. (B) and (C) which read as follows:
+Subsec. (f)(2). Pub. L. 103–296, §321(e)(2)(H), inserted “and” at end of subpar. (A), added subpar. (B), andstruck out former subpars. (B) and (C) which read as follows:
 
 “(B) the ratio of (i) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the year in which such redetermination is made to (ii)(I) the average of the total wages ((as defined in regulations of the Secretary and computed without regard to the limitations specified in section 409(a)(1) of this title) reported to the Secretary of the Treasury or his delegate for calendar year 1977 or, if later, the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability), if such calendar year is before 1991, or (II) the deemed average total wages (as defined in section 409(k)(1) of this title) for the calendar year before the year in which the reduction was first computed (but not counting any reduction made in benefits for a previous period of disability), if such calendar year is after 1990; and
 
@@ -130,7 +130,7 @@ Subsec. (f)(2). Pub. L. 95–216, §353(c)(2), divided existing provisions into 
 
 1972—Subsec. (a). Pub. L. 92–603 added cl. (C) in provisions for the determination of an individual's average current earnings so as to introduce into the formula a factor of one-twelfth of the total wages and self-employment income for the calendar year in which he had the highest such wages and income during the year in which he became disabled and the five years preceding that year.
 
-1968—Subsec. (a). Pub. L. 90–248 inserted in cl. (B) of first sentence following par. (8) “(computed without regard to the limitations specified in sections 409(a) and 411(b)(1) of this title)” before “for the five”, and inserted last sentence authorizing the Secretary, in certain cases, to estimate the total of wages and self-employment income for purposes of cl. (B) indicating the extent such earnings exceed the limitations in sections 409(a) and 411(b)(1) of this title.
+1968—Subsec. (a). Pub. L. 90–248 inserted in cl. (B) of first sentence following par. (8) “(computed without regard to the limitations specified in sections 409(a) and411(b)(1) of this title)” before “for the five”, and inserted last sentence authorizing the Secretary, in certain cases, to estimate the total of wages and self-employment income for purposes of cl. (B) indicating the extent such earnings exceed the limitations in sections 409(a) and 411(b)(1) of this title.
 
 #### Effective Date of 1994 Amendment
 

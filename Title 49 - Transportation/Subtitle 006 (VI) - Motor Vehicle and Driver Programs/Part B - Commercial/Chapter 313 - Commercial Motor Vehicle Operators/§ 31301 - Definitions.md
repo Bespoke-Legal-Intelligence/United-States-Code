@@ -18,7 +18,7 @@ In this chapter—
 
 &emsp;&emsp;(B) is designed to transport at least 16 passengers including the driver; or
 
-&emsp;&emsp;(C) is used to transport material found by the Secretary to be hazardous under section 5103 of this title, except that a vehicle shall not be included as a commercial motor vehicle under this subclause if—
+&emsp;&emsp;(C) is used to transport material found by the Secretary to be hazardous under section5103 of this title, except that a vehicle shall not be included as a commercial motor vehicle under this subclause if—
 
 &emsp;&emsp;&emsp;(i) the vehicle does not satisfy the weight requirements of subclause (A) of this clause;
 

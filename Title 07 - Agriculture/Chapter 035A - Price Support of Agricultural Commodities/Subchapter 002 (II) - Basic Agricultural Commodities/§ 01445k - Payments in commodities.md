@@ -44,6 +44,8 @@ Amendment by Pub. L. 101–624 effective beginning with 1991 crop of an agricult
 
 #### Inapplicability of Section
 
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(b)(7) of this title.
+
 Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(b)(1)(G) of this title.
 
 #### Redemption of Commodity Certificates
@@ -64,5 +66,5 @@ Redemption limitations.—In no event shall a person receive a payment from the 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 7301 of this title.
+This section is referred to in sections 7301, 7992 of this title.
 

@@ -1,6 +1,6 @@
 ### §1379h. Applicability of provisions to designated persons; reports and records; examinations by the Secretary
 
-This section shall apply to processors of wheat, warehousemen and exporters of wheat and food products, and all persons purchasing, selling, or otherwise dealing in wheat marketing certificates. Any such person shall, from time totime on request of the Secretary, report to the Secretary such information and keep such records as the Secretary finds to be necessary to enable him to carry out the provisions of this part. Such information shall be reported and such records shall be kept in such manner as the Secretary shall prescribe. For the purpose of ascertaining the correctness of any report made or record kept, or of obtaining information required to be furnished in any report, but not so furnished, the Secretary is authorized to examine such books, papers, records, accounts, correspondence, contracts, documents, and memorandums as he has reason to believe are relevant and are within the control of such person.
+This section shall apply to processors of wheat, warehousemen and exporters of wheat and food products, and all persons purchasing, selling, or otherwise dealing in wheat marketing certificates. Any such person shall, from time to time on request of the Secretary, report to the Secretary such information and keep such records as the Secretary finds to be necessary to enable him to carry out the provisions of this part. Such information shall be reported and such records shall be kept in such manner as the Secretary shall prescribe. For the purpose of ascertaining the correctness of any report made or record kept, or of obtaining information required to be furnished in any report, but not so furnished, the Secretary is authorized to examine such books, papers, records, accounts, correspondence, contracts, documents, and memorandums as he has reason to believe are relevant and are within the control of such person.
 
 (Feb. 16, 1938, ch. 30, title III, §379h, as added Pub. L. 87–703, title III, §324(2), Sept. 27, 1962, 76 Stat. 629.)
 
@@ -10,7 +10,9 @@ This part, referred to in text, commences with section 1379a of this title.
 
 #### Inapplicability of Section
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(3) of this title.
+
+Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 
 Section inapplicable to wheat processors or exporters during period June 1, 1991, through May 31, 1996, see section 302 of Pub. L. 101–624, set out as a note under section 1379d of this title.
 

@@ -1,6 +1,6 @@
 ### §781. Authority over the General Accounting Office Building
 
-(a) The Comptroller General shall have exclusive custody and control over the building located at 441 G Street, N.W., in the District of Columbia, that is generally known as the General Accounting Office Building, including operation, maintenance, protection, alteration, repair, and assignment of space therein. Such custody and control shall also extend to any machinery, equipment, spare parts and tools located in and usable for the operation and maintenance of the General Accounting Office Building. For the purposes of securing approval of any prospectus detailing proposed alterations of the General Accounting Office Building, as required by section 7 of the Public Buildings Act of 1959, as amended (40 U.S.C. 606), the Comptroller General shall perform the functions assigned to the Administrator of General Services by that section.
+(a) The Comptroller General shall have exclusive custody and control over the building located at 441 G Street, N.W., in the District of Columbia, that is generally known as the General Accounting Office Building, including operation, maintenance, protection, alteration, repair, and assignment of space therein. Such custody and control shall also extend to any machinery, equipment, spare parts and tools located in and usable for the operation and maintenance of the General Accounting Office Building. For the purposes of securing approval of any prospectus detailing proposed alterations of the General Accounting Office Building, as required by section 3307 of title 40, the Comptroller General shall perform the functions assigned to the Administrator of General Services by that section.
 
 (b) Upon request of the Comptroller General, the Administrator of General Services shall provide, to the extent resources are available, any necessary services for the protection of the property and persons in the General Accounting Office Building, including the provision of special police, responding to and investigating incidents, and the monitoring of the perimeter security system. Such services may be provided with or without reimbursement as the Comptroller General and the Administrator may agree.
 
@@ -10,9 +10,13 @@
 
 (3) The Comptroller General may make advance, progress, and other payments which relate to agreements or contracts entered into under authority of this section, without regard to the provisions of section 3324(a) and (b) of this title.
 
-(Added Pub. L. 100–545, §1, Oct. 28, 1988, 102 Stat. 2727.)
+(Added Pub. L. 100–545, §1, Oct. 28, 1988, 102 Stat. 2727; amended Pub. L. 107–217, §3(h)(1), Aug. 21, 2002, 116 Stat. 1299.)
 
 #### References in Text
 
 The Competition in Contracting Act of 1984, referred to in subsec. (c)(1), is title VII of Pub. L. 98–369, div. B, July 18, 1984, 98 Stat. 1175. For complete classification of this Act to the Code, see Short Title of 1984 Amendments note set out under section 251 of Title 41, Public Contracts, and Tables.
+
+#### Amendments
+
+2002—Subsec. (a). Pub. L. 107–217 substituted “section 3307 of title 40” for “section 7 of the Public Buildings Act of 1959, as amended (40 U.S.C. 606)”.
 

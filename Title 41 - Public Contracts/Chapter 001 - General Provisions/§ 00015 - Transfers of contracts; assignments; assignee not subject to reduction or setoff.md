@@ -40,7 +40,7 @@ If a provision described in subsection (e) of this section or a provision to the
 
 &emsp;(2) fines;
 
-&emsp;(3) penalties (which term does not include amounts which may be collected or withheldfrom the assignor in accordance with or for failure to comply with the terms of the contract); or
+&emsp;(3) penalties (which term does not include amounts which may be collected or withheld from the assignor in accordance with or for failure to comply with the terms of the contract); or
 
 &emsp;(4) taxes, social security contributions, or the withholding or non withholding of taxes or social security contributions, whether arising from or independently of such contract.
 

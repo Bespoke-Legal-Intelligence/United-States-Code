@@ -14,7 +14,7 @@ Each of the nine sections from which this section was derived contained similar 
 
 This section condenses and simplifies the form of the former sections without change of substance, except where the maximum fine differs as noted above.
 
-The enumeration of “note, bond, debenture, coupon, obligation, instrument, or writing” does not occur inany one of the original sections but is an adequate enumeration of the instruments mentioned in each.
+The enumeration of “note, bond, debenture, coupon, obligation, instrument, or writing” does not occur in any one of the original sections but is an adequate enumeration of the instruments mentioned in each.
 
 Certain specific agencies are enumerated by name as are “land bank, intermediate credit bank, bank for cooperatives,” but the phrase “or any lending, mortgage, insurance, credit, or savings and loan corporation or association” was used to embrace the following: National Farm Loan Association, Federal Savings and Loan Insurance Corporation, Federal Savings and Loan Associations, National Agricultural Credit Corporation, Production Credit Corporations, Production Credit Associations, Home Loan Banks, National Mortgage Associations, and Central Bank for Cooperatives, Regional Agricultural Credit Corporation, or any instrumentalities created for similar purposes.
 
@@ -70,5 +70,5 @@ Establishment of Farm Credit Administration as independent agency, and other cha
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 14, 3056 of this title.
+This section is referred to in section 3056 of this title.
 

@@ -114,7 +114,7 @@ In subsection (a)(1), the words “(including but not limited to a railroad; any
 
 In subsection (a)(2), the words “The Secretary of Transportation imposes a civil penalty under this subsection” are substituted for “to be assessed by the Secretary of Transportation” in 45:6, “Such penalty shall be assessed by the Secretary of Transportation” in 45:13, the text of 45:10 (words after 7th comma) and 14 (words after semicolon), and “in such amount . . . as the Secretary of Transportation deems reasonable” in 45:34 and 43 and 49 App.:26(h) for clarity and to eliminate unnecessary words. The words “per violation” are omitted as surplus.
 
-In subsections (a)(3) and (b), the words “Attorney General” are substituted for “United States attorney”,“such attorneys, subject to the direction of the Attorney General”, “proper United States attorney” and “proper United States attorneys” because of 28:509.
+In subsections (a)(3) and (b), the words “Attorney General” are substituted for “United States attorney”, “such attorneys, subject to the direction of the Attorney General”, “proper United States attorney” and “proper United States attorneys” because of 28:509.
 
 In subsection (a)(3), the words “section 3711 of title 31” are substituted for “the Federal Claims Collection Act of 1966” and “sections 3711 and 3716 to 3718 of title 31” because the Federal Claims Collection Act of 1966 has been repealed and reenacted as part of title 31 and penalties are compromised under 31:3711. In clause (B), the words “prior or subsequent” are omitted as unnecessary.
 

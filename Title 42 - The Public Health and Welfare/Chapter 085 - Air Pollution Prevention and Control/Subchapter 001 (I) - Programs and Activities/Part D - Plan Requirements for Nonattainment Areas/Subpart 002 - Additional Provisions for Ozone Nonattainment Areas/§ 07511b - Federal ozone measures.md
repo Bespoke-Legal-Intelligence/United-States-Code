@@ -6,7 +6,7 @@ Within 3 years after November 15, 1990, the Administrator shall issue control te
 
 #### (b) Existing and new CTGS
 
-(1) Within 36 months after November 15, 1990, and periodically thereafter, the Administrator shall review and, if necessary, update control technique guidance issued under section 7408 of this title before November 15, 1990.
+(1) Within 36 months after November 15, 1990, and periodically thereafter, the Administrator shall review and, if necessary, update controltechnique guidance issued under section 7408 of this title before November 15, 1990.
 
 (2) In issuing the guidelines the Administrator shall give priority to those categories which the Administrator considers to make the most significant contribution to the formation of ozone air pollution in ozone nonattainment areas, including hazardous waste treatment, storage, and disposal facilities which are permitted under subtitle C of the Solid Waste Disposal Act \[42 U.S.C. 6921 et seq.\]. Thereafter the Administrator shall periodically review and, if necessary, revise such guidelines.
 
@@ -144,7 +144,7 @@ The Administrator shall conduct a study of whether the methodology in use by the
 
 #### (A) In general
 
-&emsp;&emsp;No noncommercial motor vehicle registered in a foreign country and operated bya United States citizen or by an alien who is a permanent resident of the United States, or who holds a visa for the purposes of employment or educational study in the United States, may enter a covered ozone nonattainment area from a foreign country bordering the United States and contiguous to the nonattainment area more than twice in a single calendar-month period, if State law has requirements for the inspection and maintenance of such vehicles under the applicable implementation plan in the nonattainment area.
+&emsp;&emsp;No noncommercial motor vehicle registered in a foreign country and operated by a United States citizen or by an alien who is a permanent resident of the United States, or who holds a visa for the purposes of employment or educational study in the United States, may enter a covered ozone nonattainment area from a foreign country bordering the United States and contiguous to the nonattainment area more than twice in a single calendar-month period, if State law has requirements for the inspection and maintenance of such vehicles under the applicable implementation plan in the nonattainment area.
 
 #### (B) Applicability
 
@@ -197,6 +197,10 @@ In General.—The amendment made by section 2 \[amending this section\] takes ef
 “(b)
 
 Information.—As soon as practicable after the date of the enactment of this Act, the appropriate agency of the United States shall distribute information to publicize the prohibition set forth in the amendment made by section 2.”
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

@@ -60,19 +60,23 @@
 
 &emsp;&emsp;(ii) the offense was committed in furtherance of any criminal or tortious act in violation of the Constitution or laws of the United States or of any State; or
 
-&emsp;&emsp;(iii) the value of the information obtained exceeds $5,000; <sup>2</sup>
+&emsp;&emsp;(iii) the value of the information obtained exceeds $5,000; and
 
-&emsp;(C) a fine under this title or imprisonment for not more than ten years, or both, in thecase of an offense under subsection (a)(2), (a)(3) or (a)(6) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
+&emsp;(C) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(2), (a)(3) or (a)(6) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
 
 &emsp;(3)(A) a fine under this title or imprisonment for not more than five years, or both, in the case of an offense under subsection (a)(4) or (a)(7) of this section which does not occur after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph; and
 
-&emsp;(B) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(4) <sup>3</sup> (a)(5)(A)(iii), or (a)(7) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph; and
+&emsp;(B) a fine under this title or imprisonment for not more than ten years, or both, in the case of an offense under subsection (a)(4), (a)(5)(A)(iii), or (a)(7) of this section which occurs after a conviction for another offense under this section, or an attempt to commit an offense punishable under this subparagraph;
 
-&emsp;(4)(A) a fine under this title, imprisonment for not more than 10 years, or both, in the case of an offense under subsection (a)(5)(A)(i), or an attempt to commit an offense punishable under that subsection;
+&emsp;(4)(A) except as provided in paragraph (5), a fine under this title, imprisonment for not more than 10 years, or both, in the case of an offense under subsection (a)(5)(A)(i), or an attempt to commit an offense punishable under that subsection;
 
 &emsp;(B) a fine under this title, imprisonment for not more than 5 years, or both, in the case of an offense under subsection (a)(5)(A)(ii), or an attempt to commit an offense punishable under that subsection;
 
-&emsp;(C) a fine under this title, imprisonment for not more than 20 years, or both, in the case of an offense under subsection (a)(5)(A)(i) or (a)(5)(A)(ii), or an attempt to commit an offense punishable under either subsection, that occurs after a conviction for another offense under this section.
+&emsp;(C) except as provided in paragraph (5), a fine under this title, imprisonment for not more than 20 years, or both, in the case of an offense under subsection (a)(5)(A)(i) or (a)(5)(A)(ii), or an attempt to commit an offense punishable under either subsection, that occurs after a conviction for another offense under this section; and
+
+&emsp;(5)(A) if the offender knowingly or recklessly causes or attempts to cause serious bodily injury from conduct in violation of subsection (a)(5)(A)(i), a fine under this title or imprisonment for not more than 20 years, or both; and
+
+&emsp;(B) if the offender knowingly or recklessly causes or attempts to cause death from conduct in violation of subsection (a)(5)(A)(i), a fine under this title or imprisonment for any term of years or for life, or both.
 
 (d)(1) The United States Secret Service shall, in addition to any other agency having such authority, have the authority to investigate offenses under this section.
 
@@ -110,7 +114,7 @@
 
 &emsp;&emsp;(H) a branch or agency of a foreign bank (as such terms are defined in paragraphs (1) and (3) of section 1(b) of the International Banking Act of 1978); and
 
-&emsp;&emsp;(I) an organization operating under section 25 or section 25(a) <sup>4</sup> of the Federal Reserve Act.<sup>5</sup>
+&emsp;&emsp;(I) an organization operating under section 25 or section 25(a) <sup>2</sup> of the Federal Reserve Act;
 
 &emsp;(5) the term “financial record” means information derived from any record held by a financial institution pertaining to a customer's relationship with the financial institution;
 
@@ -134,7 +138,7 @@
 
 (h) The Attorney General and the Secretary of the Treasury shall report to the Congress annually, during the first 3 years following the date of the enactment of this subsection, concerning investigations and prosecutions under subsection (a)(5).
 
-(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384.)
+(Added Pub. L. 98–473, title II, §2102(a), Oct. 12, 1984, 98 Stat. 2190; amended Pub. L. 99–474, §2, Oct. 16, 1986, 100 Stat. 1213; Pub. L. 100–690, title VII, §7065, Nov. 18, 1988, 102 Stat. 4404; Pub. L. 101–73, title IX, §962(a)(5), Aug. 9, 1989, 103 Stat. 502; Pub. L. 101–647, title XII, §1205(e), title XXV, §2597(j), title XXXV, §3533, Nov. 29, 1990, 104 Stat. 4831, 4910, 4925; Pub. L. 103–322, title XXIX, §290001(b)–(f), Sept. 13, 1994, 108 Stat. 2097–2099; Pub. L. 104–294, title II, §201, title VI, §604(b)(36), Oct. 11, 1996, 110 Stat. 3491, 3508; Pub. L. 107–56, title V, §506(a), title VIII, §814(a)–(e), Oct. 26, 2001, 115 Stat. 366, 382–384; Pub. L. 107–273, div. B, title IV, §§4002(b)(1), (12), 4005(a)(3), (d)(3), Nov. 2, 2002, 116 Stat. 1807, 1808, 1812, 1813; Pub. L. 107–296, title II, §225(g), Nov. 25, 2002, 116 Stat. 2158.)
 
 #### References in Text
 
@@ -153,6 +157,20 @@ Section 25 of the Federal Reserve Act, referred to in subsec. (e)(4)(I), is clas
 The date of the enactment of this subsection, referred to in subsec. (h), is the date of enactment of Pub. L. 103–322, which was approved Sept. 13, 1994.
 
 #### Amendments
+
+2002—Subsec. (a)(5)(B). Pub. L. 107–273, §4005(a)(3), realigned margins.
+
+Subsec. (c)(2)(B). Pub. L. 107–273, §4002(b)(1), realigned margins.
+
+Subsec. (c)(2)(B)(iii). Pub. L. 107–273, §4002(b)(12)(A), inserted “and” at end.
+
+Subsec. (c)(3)(B). Pub. L. 107–273, §4005(d)(3), inserted comma after “(a)(4)”.
+
+Subsec. (c)(4)(A), (C). Pub. L. 107–296, §225(g)(2), inserted “except as provided in paragraph (5),” before “a fine under this title”.
+
+Subsec. (c)(5). Pub. L. 107–296, §225(g)(1), (3), (4), added par. (5).
+
+Subsec. (e)(4)(I). Pub. L. 107–273, §4002(b)(12)(B), substituted semicolon for period at end.
 
 2001—Subsec. (a)(5)(A). Pub. L. 107–56, §814(a)(1)–(3), designated existing provisions as cl. (i), redesignated subpars. (B) and (C) as cls. (ii) and (iii), respectively, of subpar. (A), and inserted “and” at end of cl. (iii).
 
@@ -298,21 +316,23 @@ Subsec. (e). Pub. L. 99–474, §2(g), substituted a dash for the comma after �
 
 Subsec. (f). Pub. L. 99–474, §2(h), added subsec. (f).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
+#### Transfer of Functions
+
+For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Reports to Congress
 
 Section 2103 of Pub. L. 98–473 directed Attorney General to report to Congress annually, during first three years following Oct. 12, 1984, concerning prosecutions under this section.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 981, 982, 1956, 2256, 2332b, 2510, 2516, 3239 of this title; title 17 section 1201; title 26 section 7431; title 31 section 9703.
+This section is referred to in sections 981, 982, 1956, 2256, 2332b, 2510, 2516, 3125, 3239 of this title; title 6 section 145; title 8 section 1721; title 17 section 1201; title 26 section 7431; title 31 section 9703.
 
 <i><sup>1</sup></i><i> So in original. Probably should be followed by “or”.</i>
 
-<i><sup>2</sup></i><i> So in original. Probably should be followed by “and”.</i>
-
-<i><sup>3</sup></i><i> So in original. Probably should be followed by a comma.</i>
-
-<i><sup>4</sup></i><i> See References in Text note below.</i>
-
-<i><sup>5</sup></i><i> So in original. The period probably should be a semicolon.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
 

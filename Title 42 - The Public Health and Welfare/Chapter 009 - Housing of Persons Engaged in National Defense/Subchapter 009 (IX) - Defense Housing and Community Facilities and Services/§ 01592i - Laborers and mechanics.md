@@ -6,11 +6,11 @@ Notwithstanding any other provision of law, the wages of every laborer and mecha
 
 #### (b) Applicability of other laws
 
-The provisions of the Davis-Bacon Act (49 Stat. 1011), as amended \[40 U.S.C. 276a et seq.\]; of section 874 of title 18; and of section 276c of title 40, shall apply in accordance with their terms to work pursuant to this subchapter.
+The provisions of sections 3141–3144, 3146, and 3147 of title 40; of section 874 of title 18; and of section 3145 of title 40, shall apply in accordance with their terms to work pursuant to this subchapter.
 
 #### (c) Stipulations in loan contracts as to wages; certification
 
-Any contract for loan or grant, or both, pursuant to this subchapter shall contain a provision requiring that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to the Davis-Bacon Act, as amended, \[40 U.S.C. 276a et seq.\], shall be paid to all laborers and mechanics employed in the construction of the project at the site thereof; and the Secretary of Housing and Urban Development shall require certification as to compliance with the provisions of this subsection prior to making any payment under such contract.
+Any contract for loan or grant, or both, pursuant to this subchapter shall contain a provision requiring that not less than the wages prevailing in the locality, as predetermined by the Secretary of Labor pursuant to sections 3141–3144, 3146, and 3147 of title 40, shall be paid to all laborers and mechanics employed in the construction of the project at the site thereof; and the Secretary of Housing and Urban Development shall require certification as to compliance with the provisions of this subsection prior to making any payment under such contract.
 
 #### (d) Reports by contractors and subcontractors to Secretary of Labor
 
@@ -22,9 +22,9 @@ The Secretary of Labor shall prescribe appropriate standards, regulations, and p
 
 (Sept. 1, 1951, ch. 378, title III, §310, 65 Stat. 307; Pub. L. 89–174, §5(a), Sept. 9, 1965, 79 Stat. 669.)
 
-#### References in Text
+#### Codification
 
-The Davis-Bacon Act (49 Stat. 1011), as amended, referred to in subsecs. (b) and (c), is act Mar. 3, 1931, ch. 411, 46 Stat. 1494, as amended, which is classified generally to sections 276a to 276a–5 of Title 40, Public Buildings, Property, and Works. For complete classification of this Act to the Code, see Short Title note set out under section 276a of Title 40 and Tables.
+In subsec. (b), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act (49 Stat. 1011), as amended” and “section 3145 of title 40” substituted for “title 40, United States Code, section 276c”, and, in subsec. (c), “sections 3141–3144, 3146, and 3147 of title 40” substituted for “the Davis-Bacon Act, as amended”, on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
 
 #### Transfer of Functions
 

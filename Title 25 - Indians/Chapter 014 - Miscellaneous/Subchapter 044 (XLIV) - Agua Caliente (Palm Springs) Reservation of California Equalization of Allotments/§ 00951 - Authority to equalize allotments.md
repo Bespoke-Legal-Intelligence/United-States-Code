@@ -30,7 +30,7 @@ Pub. L. 105–308, Oct. 30, 1998, 112 Stat. 2932, provided that:
 
 &emsp;“(D) as a result of the annual budgets referred to in subparagraph (C), no net revenues from parcel B were available for distribution to tribal members entitled to equalization under section 3 of the Act referred to in paragraph (1);
 
-&emsp;“(5) by letter of December 6, 1961, the Director of the Sacramento Area Office of the Bureau of Indian Affairs informed the regional solicitor of the Bureau of Indian Affairs that the equalization of allotments on the Agua Caliente Reservation with respect to those members of the Band who were eligible for equalization had been completed using all available excess tribal land in a manner consistent with—
+&emsp;“(5) by letter of December 6, 1961, the Director of the Sacramento Area Office of the Bureau of Indian Affairs informed the regional solicitor of the Bureau of Indian Affairs that the equalization of allotments on the Agua Caliente Reservation with respect to those members of the Band who were eligible forequalization had been completed using all available excess tribal land in a manner consistent with—
 
 &emsp;&emsp;“(A) the decree of the court in the case referred to in paragraph (2); and
 

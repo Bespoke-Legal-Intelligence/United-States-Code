@@ -6,7 +6,7 @@ All claims by a contractor against the government relating to a contract shall b
 
 #### (b) Review; performance of contract pending appeal
 
-The contracting officer's decision on the claim shall be final and conclusive and not subject to review by any forum, tribunal, or Government agency, unless an appeal or suit is timely commenced as authorized by this chapter. Nothing in this chapter shall prohibit executive agencies from including a clause in government contracts requiring that pending final decision of an appeal, action, or final settlement, a contractor shall proceed diligently with performance of the contract in accordance with the contracting officer's decision.
+The contracting officer's decision on the claim shall be final and conclusive and not subject to review by any forum, tribunal, or Government agency, unless an appeal or suit is timely commenced as authorized by this chapter. Nothing in this chapter shall prohibit executive agenciesfrom including a clause in government contracts requiring that pending final decision of an appeal, action, or final settlement, a contractor shall proceed diligently with performance of the contract in accordance with the contracting officer's decision.
 
 #### (c) Amount of claim; certification; notification; time of issuance; presumption
 

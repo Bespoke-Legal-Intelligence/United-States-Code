@@ -104,7 +104,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;A copy of each statement filed under paragraph (4)(C) shall be submitted to the local school board and such board shall be afforded an opportunity to respond, in writing, to such appeal.
+&emsp;&emsp;A copy of each statement filed under paragraph (4)(C) shall be submitted to the localschool board and such board shall be afforded an opportunity to respond, in writing, to such appeal.
 
 #### (B) Overturned actions
 

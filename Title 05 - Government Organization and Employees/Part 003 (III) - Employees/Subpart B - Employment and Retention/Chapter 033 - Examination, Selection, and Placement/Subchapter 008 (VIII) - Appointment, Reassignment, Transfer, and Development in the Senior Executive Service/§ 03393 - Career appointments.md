@@ -14,7 +14,7 @@
 
 (c)(1) The Office shall establish one or more qualifications review boards, as appropriate. It is the function of the boards to certify the executive qualifications of candidates for initial appointment as career appointees in accordance with regulations prescribed by the Office. Of the members of each board more than one-half shall be appointed from among career appointees. Appointments to such boards shall be made on a non-partisan basis, the sole selection criterion being the professional knowledge of public management and knowledge of the appropriate occupational fields of the intended appointee.
 
-(2) The Office shall, in consultation with the various qualification review boards, prescribe criteria for establishing executive qualifications for appointment of career appointees. The criteria shall provide for—
+(2) The Office shall, in consultation with the various qualification review boards, prescribecriteria for establishing executive qualifications for appointment of career appointees. The criteria shall provide for—
 
 &emsp;(A) consideration of demonstrated executive experience;
 
@@ -28,15 +28,17 @@
 
 (f) The title of each career reserved position shall be published in the Federal Register.
 
-(g) A career appointee may not be removed from the Senior Executive Service or civil service except in accordance with the applicable provisions of sections 1215, 3393a, 3592, 3595, 7532, or 7543 of this title.
+(g) A career appointee may not be removed from the Senior Executive Service or civil service except in accordance with the applicable provisions of sections 1215,, <sup>1</sup> 3592, 3595, 7532, or 7543 of this title.
 
-(Added Pub. L. 95–454, title IV, §403(a), Oct. 13, 1978, 92 Stat. 1161; amended Pub. L. 97–35, title XVII, §1704(c), Aug. 13, 1981, 95 Stat. 758; Pub. L. 98–615, title III, §306(b)(1), Nov. 8, 1984, 98 Stat. 3220; Pub. L. 101–12, §9(b), Apr. 10, 1989, 103 Stat. 35; Pub. L. 101–194, title V, §506(b)(2), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–280, §6(d)(1), May 4, 1990, 104 Stat. 160.)
+(Added Pub. L. 95–454, title IV, §403(a), Oct. 13, 1978, 92 Stat. 1161; amended Pub. L. 97–35, title XVII, §1704(c), Aug. 13, 1981, 95 Stat. 758; Pub. L. 98–615, title III, §306(b)(1), Nov. 8, 1984, 98 Stat. 3220; Pub. L. 101–12, §9(b), Apr. 10, 1989, 103 Stat. 35; Pub. L. 101–194, title V, §506(b)(2), Nov. 30, 1989, 103 Stat. 1758; Pub. L. 101–280, §6(d)(1), May 4, 1990, 104 Stat. 160; Pub. L. 107–296, title XIII, §1321(a)(1)(A), Nov. 25, 2002, 116 Stat. 2296.)
 
 #### Prior Provisions
 
 A prior section 3393, added Pub. L. 95–437, §3(a), Oct. 10, 1978, 92 Stat. 1057, which related to limitations concerning part-time career employment opportunities, was renumbered as section 3403 of this title by Pub. L. 95–454, title IX, §906(c)(1)(B), Oct. 13, 1978, 92 Stat. 1226.
 
 #### Amendments
+
+2002—Subsec. (g). Pub. L. 107–296 struck out “3393a” after “1215,”.
 
 1990—Subsec. (g). Pub. L. 101–280 made technical correction to directory language of Pub. L. 101–194, see 1989 Amendment below.
 
@@ -47,6 +49,10 @@ Pub. L. 101–12 substituted “1215” for “1207”.
 1984—Subsec. (b). Pub. L. 98–615 inserted provision referring to commissioned officers of the uniformed services serving on active duty in such agency in provisions preceding par. (1).
 
 1981—Subsec. (g). Pub. L. 97–35 added subsec. (g).
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
 
 #### Effective Date of 1989 Amendments
 
@@ -64,5 +70,7 @@ Amendment by Pub. L. 97–35 effective June 1, 1981, with certain exceptions and
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3393a, 3592, 3593, 3594, 3595, 7541 of this title.
+This section is referred to in sections 3592, 3593, 3594, 3595, 7541 of this title.
+
+<i><sup>1</sup></i><i> So in original.</i>
 

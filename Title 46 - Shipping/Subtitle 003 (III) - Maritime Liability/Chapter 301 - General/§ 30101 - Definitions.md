@@ -22,7 +22,7 @@ In this subtitle—
 
 &emsp;(8) “United States”, when used in a geographic sense, means the States of the United States, Guam, Puerto Rico, the Virgin Islands, American Samoa, the District of Columbia, the Northern Mariana Islands, and any other territory or possession of the United States; and
 
-&emsp;(9) “vessel of the United States” means a vessel documented under chapter 121 of thistitle, numbered under chapter 123 of this title, or titled under the law of a State.
+&emsp;(9) “vessel of the United States” means a vessel documented under chapter 121 of this title, numbered under chapter 123 of this title, or titled under the law of a State.
 
 (Pub. L. 100–710, title I, §102(c), Nov. 23, 1988, 102 Stat. 4738.)
 
@@ -88,7 +88,7 @@ Paragraph (9) of this section amends the definition of “vessel of United State
 
 Section 107 of title I of Pub. L. 100–710 provided that:
 
-“(a) This title and amendments made by this title \[enacting this section and sections 12501 to 12507, 31301 to 31309, 31321 to 31330, and 31341 to 31343 of this title, amending sections 2101, 2110, 12102, 12103, 12105, 12109 to 12112, 12117, 12119, and 12120 of this title and sections 808, 1242, and 1271 of the Appendix to this title, repealing sections 12113 to 12116, 12118, and 12121 of this title and sections 838, 840, 911, 921 to 927, 941, 951 to 954, 961, 971 to 975, 981 to 984, and 1011 to 1014 of the Appendix to this title, enacting provisions set out as notes under sections 12501, 12502, and 12505 of this title and preceding section 2101 of this title, and repealing provisions set out as a note under section 961 of the Appendix to this title and in Title 5, Appendix, Government Organization and Employees\] take effect on January 1, 1989. However, sections 31321 and 31322 of title 46 (as enacted by section 102 of this Act), United States Code (as sections 31321 and 32322 \[probably should be 31322\] apply to vessels for which an application for documentation has been filed), take effect on January 1, 1990.
+“(a) This title and amendments made by this title \[enacting this section and sections 12501 to 12507, 31301 to 31309, 31321 to 31330, and 31341 to 31343 of this title, amending sections 2101, 2110, 12102, 12103, 12105, 12109 to 12112, 12117, 12119, and 12120 of this title and sections 808, 1242, and 1271 of the Appendix to this title, repealing sections 12113 to 12116, 12118, and 12121 of this title and sections 838, 840, 911, 921 to 927, 941, 951 to 954, 961, 971 to 975, 981 to 984, and 1011 to 1014 of the Appendix to this title, enacting provisions set out as notes under sections 12501, 12502, and 12505 of this title and preceding section 2101 of this title, and repealing provisions set out as a note under section 961 of the Appendix to this title and in Title 5, Appendix, Government Organization and Employees\] take effect on January 1, 1989.However, sections 31321 and 31322 of title 46 (as enacted by section 102 of this Act), United States Code (as sections 31321 and 32322 \[probably should be 31322\] apply to vessels for which an application for documentation has been filed), take effect on January 1, 1990.
 
 “(b) An instrument filed before January 1, 1989, but not recorded before that date, is deemed to comply with section 31321 of title 46, United States Code, if it is in substantial compliance with the provisions in that section that had corresponding requirements under the law on December 31, 1988. However, the mortgage may not become a preferred mortgage until the vessel is documented.
 

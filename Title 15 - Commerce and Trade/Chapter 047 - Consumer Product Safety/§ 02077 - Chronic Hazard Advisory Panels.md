@@ -32,7 +32,7 @@ A member of a Panel appointed under subsection (a) of this section shall be paid
 
 #### (g) Requests for and disclosures of information
 
-Each Panel shall request information and disclose information to the public, as provided insubsection (h) of this section, only through the Commission.
+Each Panel shall request information and disclose information to the public, as provided in subsection (h) of this section, only through the Commission.
 
 #### (h) Information from other Federal departments and agencies
 

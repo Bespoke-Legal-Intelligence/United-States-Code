@@ -24,7 +24,7 @@ Nothing in this subchapter shall apply to any cause of action or right of recove
 
 #### (1) Damages
 
-&emsp;Except as provided in paragraphs (3) and (4), an action for damages under this Act shall be barred unless the action is brought within 3 years after—
+&emsp;Except as provided in paragraphs (3) and (4), an action for damages under this Act shall bebarred unless the action is brought within 3 years after—
 
 &emsp;&emsp;(A) the date on which the loss and the connection of the loss with the discharge in question are reasonably discoverable with the exercise of due care, or
 

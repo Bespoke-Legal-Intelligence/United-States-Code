@@ -72,6 +72,10 @@ Subsec. (b). Pub. L. 103–325, §541(2), added subsec. (b).
 
 1969—Pub. L. 91–152 substituted provisions prohibiting new flood insurance coverage after Dec. 31, 1971, unless adequate land use measures have been adopted, for provisions prohibiting such coverage after June 30, 1970, unless permanent land use measures have been adopted.
 
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Section Referred to in Other Sections
 
 This section is referred to in section 4017 of this title.

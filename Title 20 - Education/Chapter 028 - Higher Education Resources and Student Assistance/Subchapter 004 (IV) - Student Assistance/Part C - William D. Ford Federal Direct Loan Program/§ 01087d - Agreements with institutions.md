@@ -56,7 +56,7 @@ The Secretary shall establish procedures by which institutions or consortia may 
 
 1992—Pub. L. 102–325 amended section generally, substituting provisions relating to requirements of agreements for former provisions relating to terms of loans under pilot program.
 
-1987—Subsec. (a)(4). Pub. L. 100–50 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The interest rate on all such loans shall be the rate equal to the rate obtained for each calendar year (A) by computing the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 3-month period preceding such year, and (B) by adding 3 percent to the resulting percent.”
+1987—Subsec. (a)(4). Pub. L. 100–50 amended par. (4) generally. Prior to amendment, par. (4) read as follows: “The interest rate on all such loans shall be the rate equal to the rate obtained for each calendar year (A) bycomputing the average of the bond equivalent rates of 91-day Treasury bills auctioned for such 3-month period preceding such year, and (B) by adding 3 percent to the resulting percent.”
 
 #### Effective Date of 1992 Amendment
 

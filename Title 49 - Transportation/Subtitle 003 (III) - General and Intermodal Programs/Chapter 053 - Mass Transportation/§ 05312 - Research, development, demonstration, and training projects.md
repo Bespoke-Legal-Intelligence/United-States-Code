@@ -26,7 +26,7 @@ Research, Investigations, and Training.—(1) The Secretary of Transportation (o
 
 &emsp;(F) the legal, financial, engineering, and esthetic aspects of urban transportation.
 
-(3) When making a grant under this subsection, the appropriate Secretary shall give preference to an institution that brings togetherknowledge and expertise in the various social science and technical disciplines related to urban transportation problems.
+(3) When making a grant under this subsection, the appropriate Secretary shall give preference to an institution that brings together knowledge and expertise in the various social science and technical disciplines related to urban transportation problems.
 
 (c)
 
@@ -68,7 +68,7 @@ Notice requirement.—The Secretary shall periodically give public notice of the
 
 &emsp;(5)
 
-Use of revenues.—The Secretary shall accept, to the maximum extent practicable, a portion of the revenues resulting from sales of an innovation project funded under this section. Such revenues shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and shall be available to the Secretary for activities under this subsection. Annual revenues that are less than $1,000,000 shall be available for obligation without further appropriation and shall not be subject to any obligation limitation.
+Use of revenues.—The Secretary shall accept, to the maximum extent practicable, a portion of the revenues resulting from sales of an innovation project funded under this section. Such revenues shall be accounted for separately within the Mass Transit Account of the Highway Trust Fund and shall be available to the Secretary for activities under this subsection. Annual revenues that are less than$1,000,000 shall be available for obligation without further appropriation and shall not be subject to any obligation limitation.
 
 (e)
 

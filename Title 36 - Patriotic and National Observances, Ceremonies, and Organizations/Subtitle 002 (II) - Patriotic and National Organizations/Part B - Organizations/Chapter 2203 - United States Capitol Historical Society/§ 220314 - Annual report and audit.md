@@ -6,9 +6,9 @@ Annual Report.—The corporation shall submit an annual report to each House of 
 
 (b)
 
-Audit.—In addition to complying with the audit requirements of section 10101 of this title, the corporation shall comply with section 451 of the Legislative Reorganization Act of 1970 (40 U.S.C. 193m–1).
+Audit.—In addition to complying with the audit requirements of section 10101 of this title, the corporation shall comply with section 5108 of title 40.
 
-(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1465.)
+(Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1465; Pub. L. 107–217, §3(i)(2), Aug. 21, 2002, 116 Stat. 1300.)
 
 Historical and Revision Notes
 
@@ -33,6 +33,10 @@ Oct. 20, 1978, Pub. L. 95–493, §§13(b), 17, 92 Stat. 1646, 1647.
 &nbsp;
 
 In subsection (b), the words “In addition to complying with the audit requirements of section 10101 of this title” are added for clarity.
+
+#### Amendments
+
+2002—Subsec. (b). Pub. L. 107–217 substituted “section 5108 of title 40” for “section 451 of the Legislative Reorganization Act of 1970 (40 U.S.C. 193m–1)”.
 
 #### Termination of Reporting Requirements
 

@@ -6,7 +6,7 @@ There may be appointed by the Secretary such personnel as the Secretary may find
 
 &emsp;(2) Psychologists (other than those described in paragraph (3)), dietitians, and other scientific and professional personnel, such as microbiologists, chemists, biostatisticians, and medical and dental technologists.
 
-&emsp;(3) Clinical or counseling psychologists who hold diplomas as diplomates in psychology from an accrediting authority approved by the Secretary, certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.
+&emsp;(3) Clinical or counseling psychologists who hold diplomas as diplomates in psychologyfrom an accrediting authority approved by the Secretary, certified or registered respiratory therapists, licensed physical therapists, licensed practical or vocational nurses, pharmacists, and occupational therapists.
 
 (Added Pub. L. 102–40, title IV, §401(b)(2), May 7, 1991, 105 Stat. 222; amended Pub. L. 102–405, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1984.)
 

@@ -52,7 +52,7 @@ Of the funds authorized to be appropriated pursuant to section 3103, $20,000,000
 
 #### (e) Budget reports
 
-Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to section 1105 of title 31), the President shall submit to Congress a description of proposed activities and funding levels contained in the annual five-year plan (issued, pursuant to subsection (a)(1) of this section, in the year preceding the year in which the budget is submitted to Congress) that are not included in the budget or are included in the budget in a different form or at a different funding level, together with the reasons for such differences.
+Each year, at the same time the President submits to Congress the budget for a fiscal year (pursuant to section 1105 of title 31), the President shall submit to Congress a description of proposed activities and funding levels contained in the annual five-year plan (issued, pursuant tosubsection (a)(1) of this section, in the year preceding the year in which the budget is submitted to Congress) that are not included in the budget or are included in the budget in a different form or at a different funding level, together with the reasons for such differences.
 
 (Pub. L. 102–190, div. C, title XXXI, §3135, Dec. 5, 1991, 105 Stat. 1575; Pub. L. 103–337, div. C, title XXXI, §3160(a), Oct. 5, 1994, 108 Stat. 3094.)
 

@@ -22,7 +22,7 @@ The parents’ contribution from adjusted available income is equal to the amoun
 
 &emsp;(2) assessing such adjusted available income in accordance with the assessment schedule set forth in subsection (e) of this section; and
 
-&emsp;(3) dividing the assessment resulting under paragraph (2) by the number of the family members, excluding the student's parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
+&emsp;(3) dividing the assessment resulting under paragraph (2) by the number of the familymembers, excluding the student's parents, who are enrolled or accepted for enrollment, on at least a half-time basis, in a degree, certificate, or other program leading to a recognized educational credential at an institution of higher education that is an eligible institution in accordance with the provisions of section 1094 of this title during the award period for which assistance under this subchapter and part C of subchapter I of chapter 34 of title 42 is requested;
 
 > except that the amount determined under this subsection shall not be less than zero.
 
@@ -387,7 +387,7 @@ Subsec. (i). Pub. L. 100–50, §14(12), added subsec. (i).
 
 #### Effective Date of 1998 Amendment
 
-Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of needunder this part for academic years beginning on or after July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
+Amendment by Pub. L. 105–244, effective Oct. 7, 1998, and applicable with respect to determinations of need under this part for academic years beginning on or after July 1, 2000, see section 480A of Pub. L. 105–244, set out as a note under section 1087kk of this title.
 
 #### Effective Date of 1993 Amendment
 

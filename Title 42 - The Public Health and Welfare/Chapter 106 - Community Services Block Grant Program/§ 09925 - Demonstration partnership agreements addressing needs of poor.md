@@ -2,7 +2,7 @@
 
 #### (a) General authority
 
-(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants from funds appropriated under subsection (e) of this section to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
+(1) In order to stimulate the development of new approaches to provide for greater self-sufficiency of the poor, to test and evaluate such new approaches, to disseminate project results and evaluation findings so that such approaches can be replicated, and to strengthen the integration, coordination, and redirection of activities to promote maximum self-sufficiency among the poor, the Secretary may make grants from funds appropriated under subsection (e) of thissection to eligible entities for the development and implementation of new and innovative approaches to deal with particularly critical needs or problems of the poor which are common to a number of communities. Grants may be made only with respect to applications which—
 
 &emsp;(A) involve activities which can be incorporated into or be closely coordinated with eligible entities’ ongoing programs;
 
@@ -66,7 +66,7 @@ As soon as practicable, but not later than 180 days after the end of the fiscal 
 
 As used in this section—
 
-&emsp;(1) the term “eligible entity” has the same meaning given such term by section 673(1) of the Community Services Block Grant Act (42U.S.C. 9902(1)), except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section; and
+&emsp;(1) the term “eligible entity” has the same meaning given such term by section 673(1) ofthe Community Services Block Grant Act (42 U.S.C. 9902(1)), except that such term includes an organization that serves migrant and seasonal farm workers and that receives a grant under the Community Services Block Grant Act (42 U.S.C. 9901 et seq.) in the fiscal year preceding the fiscal year for which such organization requests a grant under this section; and
 
 &emsp;(2) the term “Secretary” means the Secretary of Health and Human Services.
 

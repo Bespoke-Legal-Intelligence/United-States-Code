@@ -8,7 +8,7 @@ For purposes of this subchapter—
 
 &emsp;(3) the term “consumer reporting agency” has the meaning given such term in section 1681a of title 15;
 
-&emsp;(4) the term “employee” includes any person who receives a salary or compensation of any kind from the United States Government, is a contractor of the United States Government or an employee thereof, is an unpaid consultant of the United States Government, or otherwise acts for or on behalf of the United States Government, except as otherwise determined by the President;
+&emsp;(4) the term “employee” includes any person who receives a salary or compensation of any kind from the United States Government, is a contractor of the United States Government or an employee thereof, is an unpaid consultant of the United States Government, or otherwise acts for or on behalf of the UnitedStates Government, except as otherwise determined by the President;
 
 &emsp;(5) the terms “financial agency” and “financial institution” have the meanings given to such terms in section 5312(a) of title 31 and the term “holding company” has the meaning given to such term in section 3401(6) of title 12;
 

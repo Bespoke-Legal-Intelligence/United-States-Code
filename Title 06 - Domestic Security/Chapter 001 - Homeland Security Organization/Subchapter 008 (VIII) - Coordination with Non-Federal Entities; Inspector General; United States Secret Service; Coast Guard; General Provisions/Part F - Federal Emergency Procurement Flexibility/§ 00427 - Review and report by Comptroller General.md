@@ -1,0 +1,36 @@
+### §427. Review and report by Comptroller General
+
+#### (a) Requirements
+
+Not later than March 31, 2004, the Comptroller General shall—
+
+&emsp;(1) complete a review of the extent to which procurements of property and services have been made in accordance with this part; and
+
+&emsp;(2) submit a report on the results of the review to the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives.
+
+#### (b) Content of report
+
+The report under subsection (a)(2) of this section shall include the following matters:
+
+#### (1) Assessment
+
+&emsp;The Comptroller General's assessment of—
+
+&emsp;&emsp;(A) the extent to which property and services procured in accordance with this subchapter have contributed to the capacity of the workforce of Federal Government employees within each executive agency to carry out the mission of the executive agency; and
+
+&emsp;&emsp;(B) the extent to which Federal Government employees have been trained on the use of technology.
+
+#### (2) Recommendations
+
+&emsp;Any recommendations of the Comptroller General resulting from the assessment described in paragraph (1).
+
+#### (c) Consultation
+
+In preparing for the review under subsection (a)(1) of this section, the Comptroller shall consult with the Committee on Governmental Affairs of the Senate and the Committee on Government Reform of the House of Representatives on the specific issues and topics to be reviewed. The extent of coverage needed in areas such as technology integration, employee training, and human capital management, as well as the data requirements of the study, shall be included as part of the consultation.
+
+(Pub. L. 107–296, title VIII, §857, Nov. 25, 2002, 116 Stat. 2237.)
+
+#### References in Text
+
+This subchapter, referred to in subsec. (b)(1)(A), was in the original “this title”, meaning title VIII of Pub. L. 107–296, which enacted this subchapter, chapter 97 of Title 5, Government Organization and Employees, and section 8J of the Inspector General Act of 1978, Pub. L. 95–452, set out in the Appendix to Title 5, amended section 6 of the Inspector General Act of 1978, section 2517 of Title 18, Crimes and Criminal Procedure, Rule 6 of the Federal Rules of Criminal Procedure, set out in the Appendix to Title 18, section 1105 of Title 31, Money and Finance, section 416 of Title 41, Public Contracts, and sections 403–5d, 1806, and 1825 of Title 50, War and National Defense, enacted provisions set out as notes under section 101 of this title, section 6 of the Inspector General Act of 1978, and section 1105 of Title 31, amended provisions set out as notes under section 2517 of Title 18, section 40101 of Title 49, Transportation, and section 2301 of Title 50, and repealed provisions set out as a note under section 1113 of Title 31. For complete classification of title VIII to the Code, see Tables.
+

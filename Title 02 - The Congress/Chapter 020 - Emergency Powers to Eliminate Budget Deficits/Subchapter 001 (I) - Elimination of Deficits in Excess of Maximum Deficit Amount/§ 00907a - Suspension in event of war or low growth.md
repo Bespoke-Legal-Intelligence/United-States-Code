@@ -10,11 +10,11 @@
 
 &emsp;(A) The matter after the resolving clause in any joint resolution introduced pursuant to paragraph (1) shall be as follows: “That the Congress declares that the conditions specified in section 254(j) <sup>1</sup> of the Balanced Budget and Emergency Deficit Control Act of 1985 are met, and the implementation of the Congressional Budget and Impoundment Control Act of 1974, chapter 11 of title 31, United States Code, and part C of the Balanced Budget and Emergency Deficit Control Act of 1985 are modified as described in section 258(b) of the Balanced Budget and Emergency Deficit Control Act of 1985.”
 
-&emsp;(B) The title of the joint resolution shall be “Joint resolution suspending certain provisions of law pursuant to section 258(a)(2) of theBalanced Budget and Emergency Deficit Control Act of 1985.”; and the joint resolution shall not contain any preamble.
+&emsp;(B) The title of the joint resolution shall be “Joint resolution suspending certain provisions of law pursuant to section 258(a)(2) of the Balanced Budget and Emergency Deficit Control Act of 1985.”; and the joint resolution shall not contain any preamble.
 
 #### (3) Committee action
 
-&emsp;Each joint resolution introduced pursuant to paragraph (1) shall be referred to the appropriate committees of the House of Representatives or the Committee on the Budget of the Senate, as the case may be; and such Committee shall report the joint resolution to its House without amendment on or before the fifth day on which such House is in session after the date on which the joint resolution is introduced. If the Committee fails to report the joint resolution within the five-day period referred to in the preceding sentence, it shall be automatically discharged from further consideration of the joint resolution, and the joint resolution shall be placed on the appropriate calendar.
+&emsp;Each joint resolution introduced pursuant to paragraph (1) shall be referred to the appropriate committees of the House of Representatives or the Committee on the Budget of the Senate, as the case may be; and such Committee shall report the joint resolution to its House without amendment on or before the fifth day on which such House is in session after the date on which the joint resolution is introduced. If the Committee fails to report the joint resolution within the five-day period referred to in the preceding sentence, it shallbe automatically discharged from further consideration of the joint resolution, and the joint resolution shall be placed on the appropriate calendar.
 
 #### (4) Consideration of joint resolution
 

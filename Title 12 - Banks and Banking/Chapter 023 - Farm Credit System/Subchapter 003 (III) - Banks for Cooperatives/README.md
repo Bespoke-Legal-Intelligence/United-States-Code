@@ -1,9 +1,5 @@
 ### SUBCHAPTER III—BANKS FOR COOPERATIVES
 
-#### Subchapter Referred to in Other Sections
-
-This subchapter is referred to in section 2206a of this title.
-
 
 ---
 

@@ -2,7 +2,7 @@
 
 (a)
 
-Deployment and Purchase of Equipment.—(1) A deployment or purchase of explosive detection equipment under section 108.7(b)(8) or 108.20 of title 14, Code of Federal Regulations, or similar regulation is required only if the Under Secretary of Transportation for Security certifies that the equipment alone, or as part of an integrated system, can detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to cause catastrophic damage to commercial aircraft. The Under Secretary shall base the certificationon the results of tests conducted under protocols developed in consultation with expert scientists outside of the Transportation Security Administration. Those tests shall be completed not later than April 16, 1992.
+Deployment and Purchase of Equipment.—(1) A deployment or purchase of explosive detection equipment under section 108.7(b)(8) or 108.20 of title 14, Code of Federal Regulations, or similar regulation is required only if the Under Secretary of Transportation for Security certifies that the equipment alone, or as part of an integrated system, can detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to cause catastrophic damage to commercial aircraft. The Under Secretary shall base the certification on the results of tests conducted under protocols developed in consultation with expert scientists outside of the Transportation Security Administration. Those tests shall be completed not later than April 16, 1992.
 
 (2) Before completion of the tests described in paragraph (1) of this subsection, but not later than April 16, 1992, the Under Secretary may require deployment of explosive detection equipment described in paragraph (1) if the Under Secretary decides that deployment will enhance aviation security significantly. In making that decision, the Under Secretary shall consider factors such as the ability of the equipment alone, or as part of an integrated system, to detect under realistic air carrier operating conditions the amounts, configurations, and types of explosive material that would likely be used to cause catastrophic damage to commercial aircraft. The Under Secretary shall notify the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Transportation and Infrastructure of the House of Representatives of a deployment decision made under this paragraph.
 
@@ -67,6 +67,10 @@ Subsec. (a)(3), (4). Pub. L. 104–264 added par. (3) and redesignated former pa
 #### Effective Date of 1996 Amendment
 
 Except as otherwise specifically provided, amendment by Pub. L. 104–264 applicable only to fiscal years beginning after Sept. 30, 1996, and not to be construed as affecting funds made available for a fiscal year ending before Oct. 1, 1996, see section 3 of Pub. L. 104–264, set out as a note under section 106 of this title.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Weapons and Explosive Detection Study
 

@@ -14,13 +14,13 @@ Whenever, after reasonable notice and opportunity for a hearing on the record in
 
 #### (b) Notice of action; reasons for action; hearing or investigation; finality of findings and determinations; reasons in detail for action without hearing
 
-If any grant application submitted under part A of subchapter V of this chapter or under subchapter XII–A, XII–B, XII–C, or XII–I of this chapter has been denied, or any grant under this chapter has been terminated, then the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics, as appropriate, shall notify the applicant of its action and set forth the reason for the action taken. Whenever such an applicant requests a hearing, the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics, or any authorized officer thereof, is authorized and directed to hold such hearings or investigations, including hearings on the record in accordance with section 554 of title 5, at such times and places as necessary, following appropriate and adequate notice to such applicant; and the findings of fact and determinations made with respect thereto shall be final and conclusive, except as otherwise provided herein. The Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics is authorized to take final action without a hearing if, after an administrative review of the denial of such application or termination of such grant, it is determined that the basis for the appeal, if substantiated, would not establish a basis for awarding or continuing of the grant involved. Under such circumstances, a more detailed statement of reasons for the agency action should be made available, upon request, to the applicant.
+If any grant application submitted under part A of subchapter V of this chapter or under subchapter XII–A, XII–B, XII–C, or XII–H of this chapter has been denied, or any grant under this chapter has been terminated, then the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics, as appropriate, shall notify the applicant of its action and set forth the reason for the action taken. Whenever such an applicant requests a hearing, the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics, or any authorized officer thereof, is authorized and directed to hold such hearings or investigations, including hearings on the record in accordance with section 554 of title 5, at such times and places as necessary, following appropriate and adequate notice to such applicant; and the findings of fact and determinations made with respect thereto shall be final and conclusive, except as otherwise provided herein. The Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics is authorized to take final action without a hearing if, after an administrative review of the denial of such application or termination of such grant, it is determined that the basis for the appeal, if substantiated, would not establish a basis for awarding or continuing of the grant involved. Under such circumstances, a more detailed statement of reasons for the agency action should be made available, upon request, to the applicant.
 
 #### (c) Rehearing; regulations and procedures; presentation of additional information
 
 If the applicant involved is dissatisfied with the findings and determinations of the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics following notice and hearing provided for in subsection (a) of this section, a request may be made for rehearing, under such regulations and procedure as the Bureau of Justice Assistance, the National Institute of Justice, or the Bureau of Justice Statistics may establish, and such applicant shall be afforded an opportunity to present such additional information as may be deemed appropriate and pertinent to the matter involved.
 
-(Pub. L. 90–351, title I, §802, formerly §803, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1202; renumbered §802 and amended Pub. L. 98–473, title II, §609B(b), Oct. 12, 1984, 98 Stat. 2092; Pub. L. 99–570, title I, §1552(b)(3), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, §241(b)(3), title VIII, §801(c)(2), Nov. 29, 1990, 104 Stat. 4813, 4826; Pub. L. 103–322, title IV, §40231(d)(2), title XXXIII, §330001(c), (h)(8), Sept. 13, 1994, 108 Stat. 1934, 2138, 2139.)
+(Pub. L. 90–351, title I, §802, formerly §803, as added Pub. L. 96–157, §2, Dec. 27, 1979, 93 Stat. 1202; renumbered §802 and amended Pub. L. 98–473, title II, §609B(b), Oct. 12, 1984, 98 Stat. 2092; Pub. L. 99–570, title I, §1552(b)(3), Oct. 27, 1986, 100 Stat. 3207–46; Pub. L. 101–647, title II, §241(b)(3), title VIII, §801(c)(2), Nov. 29, 1990, 104 Stat. 4813, 4826; Pub. L. 103–322, title IV, §40231(d)(2), title XXXIII, §330001(c), (h)(8), Sept. 13, 1994, 108 Stat. 1934, 2138, 2139; Pub. L. 107–273, div. C, title I, §11012, Nov. 2, 2002, 116 Stat. 1823.)
 
 #### Prior Provisions
 
@@ -30,7 +30,9 @@ Another prior section 802 of Pub. L. 90–351, title III, June 19, 1968, 82 Stat
 
 #### Amendments
 
-1994—Subsec. (b). Pub. L. 103–322 substituted “part A of subchapter V of this chapter or under subchapter XII–A, XII–B, XII–C, or XII–I” for “subchapter IV, XII–A,, XII–B, or XII–C”.
+2002—Subsec. (b). Pub. L. 107–273, which directed amendment of subsec. (b) by substituting “T,” for “U,” in the original, was executed by substituting “XII–H” for “XII–I” in text to reflect the probable intent of Congress, notwithstanding that “U” was not followed by a comma in the original.
+
+1994—Subsec. (b). Pub. L. 103–322 substituted “part A of subchapter V of this chapter or under subchapterXII–A, XII–B, XII–C, or XII–I” for “subchapter IV, XII–A,, XII–B, or XII–C”.
 
 1990—Subsec. (b). Pub. L. 101–647, §801(c)(2), substituted “, XII–B, or XII–C” for “or XII–B”.
 
@@ -54,5 +56,5 @@ Effective Aug. 1, 2000, all functions of Director of Bureau of Justice Assistanc
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 3785, 5633, 5675, 13707 of this title.
+This section is referred to in sections 3785, 5633, 13707 of this title.
 

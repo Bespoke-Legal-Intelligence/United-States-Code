@@ -24,7 +24,7 @@
 
 #### (3) Limitation regarding penal and correctional institutions
 
-&emsp;A funding agreement for a State for a grant under section 300x–21 of this title is that, inexpending the grant for the purpose of providing treatment services in penal or correctional institutions of the State, the State will not expend more than an amount equal to the amount expended for such purpose by the State from the grant made under section 300x–1a <sup>1</sup> of this title to the State for fiscal year 1991 (as section 300x–1a <sup>1</sup> of this title was in effect for such fiscal year).
+&emsp;A funding agreement for a State for a grant under section 300x–21 of this title is that, in expending the grant for the purpose of providing treatment services in penal or correctional institutions of the State, the State will not expend more than an amount equal to the amount expended for such purpose by the State from the grant made under section 300x–1a <sup>1</sup> of this title to the State for fiscal year 1991 (as section 300x–1a <sup>1</sup> of this title was in effect for such fiscal year).
 
 #### (b) Exception regarding inpatient hospital services
 
@@ -40,7 +40,7 @@
 
 #### (1) In general
 
-&emsp;The Secretary may provide to any State a waiver of the restriction established in subsection (a)(1)(C) of this section for the purpose of authorizing the State to expend a grant under section 300x–21 of this title for the construction of a new facility or rehabilitation of an existing facility, but not for land acquisition.
+&emsp;The Secretary may provide to any State a waiver of the restriction established in subsection (a)(1)(C) of this section for the purpose of authorizing the State to expend a grant under section 300x–21 of this title for the construction of a new facility or rehabilitation ofan existing facility, but not for land acquisition.
 
 #### (2) Standard regarding need for waiver
 

@@ -8,7 +8,7 @@
 
 &emsp;(B) The following agency-specific reports:
 
-&emsp;&emsp;(i) The biennial financial management improvement plan by the Secretary of Defense under section 2222 of title 10.
+&emsp;&emsp;(i) The biennial financial management improvement plan by the Secretary of Defense under section 2222 <sup>1</sup> of title 10.
 
 &emsp;&emsp;(ii) The annual report of the Attorney General under section 522 of title 28.
 
@@ -27,6 +27,10 @@
 (e) A report under subsection (a) shall include a transmittal letter from the agency head containing, in addition to any other content, an assessment by the agency head of the completeness and reliability of the performance and financial data used in the report. The assessment shall describe any material inadequacies in the completeness and reliability of the data, and the actions the agency can take and is taking to resolve such inadequacies.
 
 (Added Pub. L. 106–531, §3(a), Nov. 22, 2000, 114 Stat. 2537.)
+
+#### References in Text
+
+Section 2222 of title 10, referred to in subsec. (a)(2)(B)(i), was repealed by Pub. L. 107–314, div. A, title X, §1004(h)(1), Dec. 2, 2002, 116 Stat. 2631.
 
 #### Findings and Purposes
 

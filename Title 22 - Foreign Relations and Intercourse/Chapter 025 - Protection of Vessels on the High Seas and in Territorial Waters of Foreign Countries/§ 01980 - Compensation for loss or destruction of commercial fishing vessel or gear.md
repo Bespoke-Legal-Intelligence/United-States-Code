@@ -14,7 +14,7 @@ For purposes of this section—
 
 #### (b) Causes of loss or destruction
 
-Subject to the provisions of this section, the owner or operator (hereinafter referred to as the“vessel owner”) of any fishing vessel which is a vessel of the United States is eligible for monetary compensation under this section for any damage to, loss of, or destruction of such vessel, or any fishing gear used with such vessel, or both, and for any resulting economic loss, if the damage, loss, or destruction—
+Subject to the provisions of this section, the owner or operator (hereinafter referred to as the “vessel owner”) of any fishing vessel which is a vessel of the United States is eligible for monetary compensation under this section for any damage to, loss of, or destruction of such vessel, or any fishing gear used with such vessel, or both, and for any resulting economic loss, if the damage, loss, or destruction—
 
 &emsp;(1) in the case of such vessel—
 
@@ -64,7 +64,7 @@ A vessel owner is not eligible for compensation under this section with respect 
 
 (4) Any vessel owner who is aggrieved by any decision of the Secretary contained in the initial determination of the Secretary regarding such owner's application may, within thirty days after the date of issue of the initial determination, petition the Secretary for a review of the decision. If petition for review is not made to the Secretary within such thirty-day period regarding the initial determination, the initial determination shall be deemed to be the final determination on the application. Before undertaking any such review, the Secretary shall provide to the vessel owner opportunity to submit additional written or oral evidence relating to the decision. After review the Secretary shall issue a final determination with respect to the application.
 
-(5) If compensation is awarded under the final determination on any application, the Secretary shall promptly pay from the fund to such owner the amount of compensation stated in the final determination. Upon the acceptance of such payment by the vessel owner, the United States shall be subrogated to all rights of the vessel owner with respect to which the payment is made.
+(5) If compensation is awarded under the final determination on any application, the Secretary shall promptly pay from the fund to such owner the amount of compensation stated in the finaldetermination. Upon the acceptance of such payment by the vessel owner, the United States shall be subrogated to all rights of the vessel owner with respect to which the payment is made.
 
 #### (e) Surcharge on foreign fishing vessels
 

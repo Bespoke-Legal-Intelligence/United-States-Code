@@ -40,7 +40,7 @@ For purposes of this subchapter:
 
 &emsp;(7) The term “loan guarantee commitment” means a binding agreement by the Secretary to make a loan guarantee when specified conditions are fulfilled by the borrower, the lender, or any other party to the guarantee agreement.
 
-&emsp;(8) The term “modification” means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. This also includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
+&emsp;(8) The term “modification” means any Government action that alters the estimated cost of an outstanding direct loan (or direct loan obligation) or an outstanding loan guarantee (or loan guarantee commitment) from the current estimate of cash flows. This includes the sale of loan assets, with or without recourse, and the purchase of guaranteed loans. Thisalso includes any action resulting from new legislation, or from the exercise of administrative discretion under existing law, that directly or indirectly alters the estimated cost of outstanding direct loans (or direct loan obligations) or loan guarantees (or loan guarantee commitments) such as a change in collection procedures.
 
 (Pub. L. 94–210, title V, §501, as added Pub. L. 105–178, title VII, §7203(a)(1), June 9, 1998, 112 Stat. 471.)
 

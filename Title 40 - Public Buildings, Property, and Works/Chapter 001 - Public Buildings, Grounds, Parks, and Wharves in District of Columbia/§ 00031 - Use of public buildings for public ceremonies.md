@@ -1,6 +1,0 @@
-### §31. Use of public buildings for public ceremonies
-
-No public building, or the approaches thereto, other than the Capitol Building and the White House, in the District of Columbia, shall be used or occupied in any manner whatever in connection with ceremonies attending the inauguration of President of the United States or other public function, except as may be expressly authorized by law.
-
-(Apr. 28, 1902, ch. 594, 32 Stat. 152.)
-

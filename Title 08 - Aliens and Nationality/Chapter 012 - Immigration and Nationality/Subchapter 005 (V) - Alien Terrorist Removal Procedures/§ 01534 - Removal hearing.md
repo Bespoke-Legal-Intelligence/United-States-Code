@@ -100,7 +100,7 @@ An alien who is the subject of a removal hearing under this subchapter shall be 
 
 #### (ii) Revised summary
 
-&emsp;&emsp;&emsp;If the revised unclassified summary is not approved by the court within 15 daysof its submission pursuant to subparagraph (C), the removal hearing shall be terminated unless the judge makes the findings under clause (iii).
+&emsp;&emsp;&emsp;If the revised unclassified summary is not approved by the court within 15 days of its submission pursuant to subparagraph (C), the removal hearing shall be terminated unless the judge makes the findings under clause (iii).
 
 #### (iii) Findings
 
@@ -150,7 +150,7 @@ The Federal Rules of Evidence shall not apply in a removal hearing.
 
 #### (i) Determination of deportation
 
-If the judge, after considering the evidence on the record as a whole, finds that the Government has met its burden, the judge shall order the alien removed and detained pending removal from the United States. If the alien was released pending the removal hearing, the judge shall order the Attorney General to take the alien into custody.
+If the judge, after considering the evidence on the record as a whole, finds that the Government has met its burden, the judge shall orderthe alien removed and detained pending removal from the United States. If the alien was released pending the removal hearing, the judge shall order the Attorney General to take the alien into custody.
 
 #### (j) Written order
 
@@ -180,7 +180,7 @@ Not later than 3 months from December 28, 2001, the Attorney General shall submi
 
 #### References in Text
 
-The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e)(1)(A), is Pub. L. 95–511, Oct. 25,1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
+The Foreign Intelligence Surveillance Act of 1978, referred to in subsec. (e)(1)(A), is Pub. L. 95–511, Oct. 25, 1978, 92 Stat. 1783, as amended, which is classified principally to chapter 36 (§1801 et seq.) of Title 50, War and National Defense. For complete classification of this Act to the Code, see Short Title note set out under section 1801 of Title 50 and Tables.
 
 The Federal Rules of Evidence, referred to in subsec. (h), are set out in the Appendix to Title 28, Judiciary and Judicial Procedure.
 
@@ -219,6 +219,10 @@ Subsec. (k)(4) to (6). Pub. L. 104–208, §357, added par. (4) and redesignated
 Amendment by section 308(g)(7)(B), (8)(B) of Pub. L. 104–208 effective, with certain transitional provisions, on the first day of the first month beginning more than 180 days after Sept. 30, 1996, see section 309 of Pub. L. 104–208, set out as a note under section 1101 of this title.
 
 Amendment by sections 354(a)(1), (2), (b), and 357 of Pub. L. 104–208 effective as if included in the enactment of subtitle A of title IV of the Antiterrorism and Effective Death Penalty Act of 1996, Pub. L. 104–132, see section 358 of Pub. L. 104–208, set out as a note under section 1182 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Section Referred to in Other Sections
 

@@ -10,11 +10,11 @@ Such program shall be limited to the States and areas referred to in section 1 o
 
 #### (c) Agreements and regulations
 
-The Secretary is authorized to enter into such agreements and promulgate such regulations as may be necessary to carry out the purposes and provisions of sections 390h to 390h–16 of this title.
+The Secretary is authorized to enter into such agreements and promulgate such regulations as may be necessary to carry out the purposes and provisions of sections 390h to 390h–17 of this title.
 
 #### (d) San Luis Unit of Central Valley Project, California
 
-The Secretary shall not investigate, promote or implement, pursuant to sections 390h to 390h–16 of this title, any project intended to reclaim and reuse agricultural wastewater generated in the service area of the San Luis Unit of the Central Valley Project, California, except those measures recommended for action by the San Joaquin Valley Drainage Program in the report entitled A Management Plan for Agricultural Subsurface Drainage and Related Problems on the Westside San Joaquin Valley (September 1990).
+The Secretary shall not investigate, promote or implement, pursuant to sections 390h to 390h–17 of this title, any project intended to reclaim and reuse agricultural wastewater generated in the service area of the San Luis Unit of the Central Valley Project, California, except those measures recommended for action by the San Joaquin Valley Drainage Program in the report entitled A Management Plan for Agricultural Subsurface Drainage and Related Problems on the Westside San Joaquin Valley (September 1990).
 
 (Pub. L. 102–575, title XVI, §1602, Oct. 30, 1992, 106 Stat. 4664; Pub. L. 106–566, title I, §104(a), Dec. 23, 2000, 114 Stat. 2819.)
 

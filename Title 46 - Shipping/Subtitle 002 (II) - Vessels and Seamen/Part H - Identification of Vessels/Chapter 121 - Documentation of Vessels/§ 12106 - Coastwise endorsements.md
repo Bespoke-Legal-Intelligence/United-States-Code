@@ -110,7 +110,7 @@ Amendment by Pub. L. 101–380 applicable to incidents occurring after Aug. 18, 
 
 #### Administrative Process for Jones Act Waivers
 
-Pub. L. 105–383, title V, Nov. 13, 1998, 112 Stat. 3445, provided that:
+Pub. L. 105–383, title V, Nov. 13, 1998, 112 Stat. 3445, as amended by Pub. L. 107–295, title II, §207(c), Nov. 25, 2002, 116 Stat. 2097, provided that:
 
 #### “SEC. 501. FINDINGS.
 
@@ -134,15 +134,17 @@ Pub. L. 105–383, title V, Nov. 13, 1998, 112 Stat. 3445, provided that:
 
 #### “SEC. 503. REVOCATION.
 
-“The Secretary may revoke an endorsement issued under section 502, after notice and an opportunity for public comment, if the Secretary determines that the employment of the vessel in the coastwise trade has substantially changed since the issuance of the endorsement, and—
+“(a)
 
-&emsp;“(1) the vessel is employed other than as a small passenger vessel or an uninspected passenger vessel; or
+Revocation for Fraud.—The Secretary shall revoke a certificate or an endorsement issued under section 502, after notice and an opportunity for a hearing, if the Secretary determines that the certificate or endorsement was obtained by fraud.
 
-&emsp;“(2) the employment of the vessel adversely affects—
+“(b)
 
-&emsp;&emsp;“(A) United States vessel builders; or
+Application With Criminal Penalties.—Nothing in this section affects—
 
-&emsp;&emsp;“(B) the coastwise trade business of any person who employs vessels built in the United States.
+&emsp;“(1) the criminal prohibition on fraud and false statements provided by section 1001 of title 18, United States Code; or
+
+&emsp;“(2) any other authority of the Secretary to revoke a certificate or endorsement issued under section 502 of this Act.
 
 #### “SEC. 504. DEFINITIONS.
 
@@ -166,13 +168,9 @@ Small passenger vessel; uninspected passenger vessel; passenger for hire.—The 
 
 #### “SEC. 505. SUNSET.
 
-“(a)
+\[Repealed. Pub. L. 107–295, title II, §207(c)(1), Nov. 25, 2002, 116 Stat. 2097.\]”
 
-In General.—Subject to subsection (b), this title (other than this section) shall have no force or effect on or after September 30, 2002.
-
-“(b)
-
-Endorsements Continue.—Any certificate or endorsement issued under section 502 before the date referred to in subsection (a) of this section shall continue in effect until otherwise invalidated or revoked under chapter 121 of title 46, United States Code.”
+\[Pub. L. 107–295, title II, §207(c)(1), Nov. 25, 2002, 116 Stat. 2097, provided that: “Section 505 of the Coast Guard Authorization Act of 1998 \[Pub. L. 105–383\] (\[formerly\] 46 U.S.C. 12106 note) is repealed. The repeal of section 505 shall have no effect on the validity of any certificate or endorsement issued under section 502 of that Act \[set out above\].\]
 
 #### Study and Report on Financing Methods
 

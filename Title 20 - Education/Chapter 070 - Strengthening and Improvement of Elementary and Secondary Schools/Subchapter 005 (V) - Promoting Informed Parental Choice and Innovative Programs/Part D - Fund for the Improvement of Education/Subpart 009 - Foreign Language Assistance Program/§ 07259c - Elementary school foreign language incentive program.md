@@ -10,7 +10,7 @@ The Secretary shall determine the amount of the incentive payment under subsecti
 
 #### (c) Requirement
 
-The Secretary shall consider a program to be designed to lead to communicative competency in a foreign language if such program is comparable to a program that provides not less than 45 minutes of instruction in a foreign language for not fewer than 4 days per week throughout an academic year.
+The Secretary shall consider a program to be designed to lead to communicative competencyin a foreign language if such program is comparable to a program that provides not less than 45 minutes of instruction in a foreign language for not fewer than 4 days per week throughout an academic year.
 
 (Pub. L. 89–10, title V, §5494, as added Pub. L. 107–110, title V, §501, Jan. 8, 2002, 115 Stat. 1840.)
 

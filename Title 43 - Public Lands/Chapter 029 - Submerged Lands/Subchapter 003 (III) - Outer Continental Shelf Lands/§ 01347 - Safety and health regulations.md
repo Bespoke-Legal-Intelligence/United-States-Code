@@ -22,11 +22,15 @@ The Secretary of Commerce, in cooperation with the Secretary of the Department i
 
 #### (f) Coordination and consultation with Federal departments and agencies; availability to interested persons of compilation of safety regulations
 
-(1) In administering the provisions of this section, the Secretary shall consult and coordinate with the heads of other appropriate Federal departments and agencies for purposes of assuring that, to the maximum extent practicable, inconsistent or duplicative requirements are not imposed.
+(1) In administering the provisions of this section, the Secretary shall consult and coordinate with the heads of other appropriate Federal departments and agencies for purposes of assuringthat, to the maximum extent practicable, inconsistent or duplicative requirements are not imposed.
 
 (2) The Secretary shall make available to any interested person a compilation of all safety and other regulations which are prepared and promulgated by any Federal department or agency and applicable to activities on the outer Continental Shelf. Such compilation shall be revised and updated annually.
 
 (Aug. 7, 1953, ch. 345, §21, as added Pub. L. 95–372, title II, §208, Sept. 18, 1978, 92 Stat. 654.)
+
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

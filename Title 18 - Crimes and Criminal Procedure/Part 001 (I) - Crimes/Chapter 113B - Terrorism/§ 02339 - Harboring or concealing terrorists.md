@@ -4,7 +4,15 @@
 
 (b) A violation of this section may be prosecuted in any Federal judicial district in which the underlying offense was committed, or in any other Federal judicial district as provided by law.
 
-(Added Pub. L. 107–56, title VIII, §803(a), Oct. 26, 2001, 115 Stat. 376.)
+(Added Pub. L. 107–56, title VIII, §803(a), Oct. 26, 2001, 115 Stat. 376; amended Pub. L. 107–273, div. B, title IV, §4005(d)(2), Nov. 2, 2002, 116 Stat. 1813.)
+
+#### Amendments
+
+2002—Pub. L. 107–273 made technical correction to directory language of Pub. L. 107–56, §803(a), which enacted this section.
+
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–273, div. B, title IV, §4005(d)(2), Nov. 2, 2002, 116 Stat. 1813, provided that the amendment made by section 4005(d)(2) is effective Oct. 26, 2001.
 
 #### Section Referred to in Other Sections
 

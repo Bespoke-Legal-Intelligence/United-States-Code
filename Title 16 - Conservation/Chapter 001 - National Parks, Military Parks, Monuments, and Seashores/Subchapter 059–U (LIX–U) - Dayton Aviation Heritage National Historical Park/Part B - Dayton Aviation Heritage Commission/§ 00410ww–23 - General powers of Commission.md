@@ -36,7 +36,7 @@ The Commission may provide technical and preservation assistance to owners of pr
 
 &emsp;(A) by gift or devise; or
 
-&emsp;(B) by purchase from a willing seller with money which was given or bequeathed to the Commission on the condition that such moneywould be used to purchase real property, or interests in real property, in such district and sites.
+&emsp;(B) by purchase from a willing seller with money which was given or bequeathed to the Commission on the condition that such money would be used to purchase real property, or interests in real property, in such district and sites.
 
 (3) Any real property or interest in real property acquired by the Commission under paragraph (2) shall be conveyed by the Commission to an appropriate public agency, as determined by the Commission. Any such conveyance shall be made—
 

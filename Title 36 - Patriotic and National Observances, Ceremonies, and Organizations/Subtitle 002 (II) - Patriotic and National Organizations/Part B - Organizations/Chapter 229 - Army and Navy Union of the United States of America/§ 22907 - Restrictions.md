@@ -18,7 +18,7 @@ Loans.—The corporation may not make a loan to a director, officer, or employee
 
 (e)
 
-Claim of Governmental Approval or Authority.—The corporation may not claim congressional approval or the authority of the United States Government for any of its activities.
+Claim of Governmental Approval or Authority.—The corporation may not claim congressional approval or the authority of theUnited States Government for any of its activities.
 
 (Pub. L. 105–225, Aug. 12, 1998, 112 Stat. 1310.)
 

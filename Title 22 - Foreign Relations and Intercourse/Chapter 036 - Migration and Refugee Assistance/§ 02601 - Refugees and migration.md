@@ -2,7 +2,9 @@
 
 #### (a) United States membership in International Organization for Migration; contributions to Organization
 
-The President is authorized to continue membership for the United States in the International Organization for Migration in accordance with its constitution approved in Venice, Italy, on October 19, 1953, as amended in Geneva, Switzerland, on May 20, 1987. For the purpose of assisting in the movement of refugees and migrants and to enhance the economic progress of the developing countries by providing for a coordinated supply of selected manpower, there are authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its contributions to the Organization and all necessary salaries and expenses incident to United States participation in the Organization.
+(1) The President is authorized to continue membership for the United States in the International Organization for Migration in accordance with the constitution of such organization approved in Venice, Italy, on October 19, 1953, as amended in Geneva, Switzerland, on November 24, 1998, upon entry into force of such amendments.
+
+(2) For the purpose of assisting in the movement of refugees and migrants, there are authorized to be appropriated to the President such amounts as may be necessary from time to time for payment by the United States of its contributions to the International Organization for Migration and all necessary salaries and expenses incidental to United States participation in such organization.
 
 #### (b) Appropriations for assistance to refugees
 
@@ -26,13 +28,13 @@ The President shall keep the appropriate committees of Congress currently inform
 
 #### (e) Continued availability of certain funds
 
-Unexpended balances of funds made available under authority of the Mutual Security Act of 1954, as amended, and of the Foreign Assistance Act of 1961, as amended, \[22 U.S.C. 2151 et seq.\], and allocated or transferred for the purposes of sections 405(a), 405(c), 405(d) and 451(c) <sup>1</sup> of the Mutual Security Act of 1954, as amended \[22 U.S.C. 1925(a), (c), (d), 1951(c)\], are authorized to be continued available for the purposes of this section and may be consolidated with appropriations authorized by this section.
+Unexpended balances of funds made available under authority of the Mutual Security Act of 1954, as amended, and of the Foreign Assistance Act of 1961, as amended, \[22 U.S.C. 2151 et seq.\], and allocated or transferred for the purposes of sections 405(a), 405(c), 405(d) and 451(c) <sup>1</sup> of theMutual Security Act of 1954, as amended \[22 U.S.C. 1925(a), (c), (d), 1951(c)\], are authorized to be continued available for the purposes of this section and may be consolidated with appropriations authorized by this section.
 
 #### (f) Restrictions on foreign assistance not applicable to migration and refugee assistance
 
 The President may furnish assistance and make contributions under this chapter notwithstanding any provision of law which restricts assistance to foreign countries.
 
-(Pub. L. 87–510, §2, June 28, 1962, 76 Stat. 121; Pub. L. 88–634, title II, §201, Oct. 7, 1964, 78 Stat. 1021; Pub. L. 94–141, title V, §501(a), Nov. 29, 1975, 89 Stat. 771; Pub. L. 96–212, title III, §312(b), Mar. 17, 1980, 94 Stat. 116; Pub. L. 99–93, title I, §111, Aug. 16, 1985, 99 Stat. 410; Pub. L. 103–236, title IV, §430(a), Apr. 30, 1994, 108 Stat. 459.)
+(Pub. L. 87–510, §2, June 28, 1962, 76 Stat. 121; Pub. L. 88–634, title II, §201, Oct. 7, 1964, 78 Stat. 1021; Pub. L. 94–141, title V, §501(a), Nov. 29, 1975, 89 Stat. 771; Pub. L. 96–212, title III, §312(b), Mar. 17, 1980, 94 Stat. 116; Pub. L. 99–93, title I, §111, Aug. 16, 1985, 99 Stat. 410; Pub. L. 103–236, title IV, §430(a), Apr. 30, 1994, 108 Stat. 459; Pub. L. 107–228, div. A, title II, §242, Sept. 30, 2002, 116 Stat. 1374.)
 
 #### References in Text
 
@@ -45,6 +47,8 @@ The Mutual Security Act of 1954, as amended, referred to in subsec. (e), is act 
 Sections 405(a), 405(c), 405(d), and 451(c) of the Mutual Security Act of 1954, as amended, referred to in subsec. (e), were sections of act Aug. 26, 1954, ch. 937, 68 Stat. 832, and were repealed by section 6 of Pub. L. 87–510.
 
 #### Amendments
+
+2002—Subsec. (a). Pub. L. 107–228 amended subsec. (a) generally. Prior to amendment, subsec. (a) read as follows: “The President is authorized to continue membership for the United States in the International Organization for Migration in accordance with its constitution approved in Venice, Italy, on October 19, 1953, as amended in Geneva, Switzerland, on May 20, 1987. For the purpose of assisting in the movement of refugees and migrants and to enhance the economic progress of the developing countries by providing for a coordinated supply of selected manpower, there are authorized to be appropriated such amounts as may be necessary from time to time for the payment by the United States of its contributions to the Organization and all necessary salaries and expenses incident to United States participation in the Organization.”
 
 1994—Subsec. (a). Pub. L. 103–236, §430(a)(1)–(3), substituted “the International Organization for Migration” for “the Intergovernmental Committee for European Migration”, inserted “, as amended in Geneva, Switzerland, on May 20, 1987” before period at end of first sentence, and substituted “the Organization” for “the Committee” in two places.
 
@@ -76,7 +80,7 @@ Pub. L. 106–113, div. B, §1000(a)(7) \[div. A, title II, §251\], Nov. 29, 19
 
 “(a)
 
-In General.—None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under section 2651 of this title\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or political opinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
+In General.—None of the funds made available by this Act \[see Short Title of 1999 Amendment note set out under section 2651 of this title\] or by section 2(c) of the Migration and Refugee Assistance Act of 1962 (22 U.S.C. 2601(c)) shall be available to effect the involuntary return by the United States of any person to a country in which the person has a well-founded fear of persecution on account of race, religion, nationality, membership in a particular social group, or politicalopinion, except on grounds recognized as precluding protection as a refugee under the United Nations Convention Relating to the Status of Refugees of July 28, 1951, and the Protocol Relating to the Status of Refugees of January 31, 1967, subject to the reservations contained in the United States Senate Resolution of Ratification.
 
 “(b)
 
@@ -168,6 +172,20 @@ Ex. Ord. No. 12327, Oct. 1, 1981, 46 F.R. 48893, which provided for temporary ho
 
 #### Delegation of Authority
 
+Determination of President of the United States, No. 02–25, July 9, 2002, 67 F.R. 47437, provided:
+
+Memorandum for the Secretary of State
+
+By virtue of the authority vested in me by the Constitution and laws of the United States, including section 301 of title 3 of the United States Code, I hereby delegate the functions and authorities conferred upon the President by sections 2(d) and 2(f) of the Migration and Refugee Assistance Act (MRAA) of 1962, as amended, 22 U.S.C. §2601, insofar as they relate to actions taken under the authority of section 2(b)(2) of the MRAA, to the Secretary of State, who should insure timely performance of any duties and obligations of the delegated authority and who is authorized to redelegate these functions and authorities consistent with applicable law. The Secretary of State, or his or her delegate, is directed to provide notice to the President of any use of the functions and authorities delegated by this determination.
+
+This delegation of authority supplements Presidential Determination No. 99–6, Delegation of Authority Under Section 2(b)(2) of the Migration and Refugee Assistance Act of 1962, as amended (November 30, 1998) \[set out below\].
+
+Any reference in this memorandum to section 2 of the MRAA, as amended, shall be deemed to include references to any hereafter-enacted provision of law that is the same or substantially the same as such provision.
+
+You are authorized and directed to publish this Determination in the Federal Register.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 Determination of President of the United States, No. 99–6, Nov. 30, 1998, 34 Weekly Compilation of Presidential Documents 2398, Dec. 7, 1998, provided:
 
 Memorandum for the Secretary of State
@@ -179,6 +197,10 @@ Any reference in this memorandum to section 2(b)(2) of the MRAA, as amended, sha
 You are authorized and directed to publish this memorandum in the Federal Register.
 
 William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 2730 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

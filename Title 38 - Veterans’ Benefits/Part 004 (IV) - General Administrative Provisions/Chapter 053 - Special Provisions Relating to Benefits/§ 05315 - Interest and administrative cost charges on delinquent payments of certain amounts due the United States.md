@@ -1,6 +1,6 @@
 ### §5315. Interest and administrative cost charges on delinquent payments of certain amounts due the United States
 
-(a) Notwithstanding any other provision of this title or of any other law and subject to sections 3485(e) and 5302 of this title, interest and administrative costs (as described in subsections (b) and (c) of this section) shall be charged, under regulations which the Secretary shall prescribe, on any amount owed to the United States—
+(a) Notwithstanding any other provision of this title or of any other law and subject to sections 3485(e) and 5302 of this title, interest and administrative costs (as described in subsections (b) and (c) of this section) shall be charged,under regulations which the Secretary shall prescribe, on any amount owed to the United States—
 
 &emsp;(1) for an indebtedness resulting from a person's participation in a benefits program administered by the Secretary other than a loan, loan-guaranty, or loan-insurance program;
 

@@ -12,7 +12,7 @@
 
 &emsp;&emsp;(B) corruptly solicits or demands for the benefit of any person, or accepts or agrees to accept, anything of value from any person, intending to be influenced or rewarded in connection with any business, transaction, or series of transactions of such organization, government, or agency involving any thing of value of $5,000 or more; or
 
-&emsp;(2) corruptly gives, offers, or agrees to give anything of value to any person, with intent to influence or reward an agent of an organization or of a State, local or Indian tribal government, or any agency thereof, in connectionwith any business, transaction, or series of transactions of such organization, government, or agency involving anything of value of $5,000 or more;
+&emsp;(2) corruptly gives, offers, or agrees to give anything of value to any person, with intent to influence or reward an agent of an organization or of a State, local or Indian tribal government, or any agency thereof, in connection with any business, transaction, or series of transactions of such organization, government, or agency involving anything of value of $5,000 or more;
 
 > shall be fined under this title, imprisoned not more than 10 years, or both.
 

@@ -54,7 +54,7 @@ To administer and manage special projects and programs, including programs of fi
 
 (4) To issue, upon such terms and conditions as it may determine, reinsurance of liabilities assumed by other insurers or groups thereof in respect of risks referred to in subsection (a)(1) of this section.
 
-> The amount of reinsurance of liabilities under this subpart which the Corporation may issue shall not in the aggregate exceed at any onetime an amount equal to the amount authorized for the maximum contingent liability outstanding at any one time under section 2195(a)(1) <sup>1</sup> of this title. All reinsurance issued by the Corporation under this subsection shall require that the reinsured party retain for his own account specified portions of liability, whether first loss or otherwise.
+> The amount of reinsurance of liabilities under this subpart which the Corporation may issue shall not in the aggregate exceed at any one time an amount equal to the amount authorized for the maximum contingent liability outstanding at any one time under section 2195(a)(1) <sup>1</sup> of this title. All reinsurance issued by the Corporation under this subsection shall require that the reinsured party retain for his own account specified portions of liability, whether first loss or otherwise.
 
 #### (g) Pilot equity finance program
 
@@ -98,7 +98,7 @@ The Federal Credit Reform Act of 1990, referred to in subsec. (g)(5), is title V
 
 #### Codification
 
-Amendment by Pub. L. 100–461 is based on sections 103 and 104 of title I of H.R. 5263, One Hundredth Congress,as passed by the House of Representatives on Sept. 20, 1988, and sections 103 and 104 of title I of S. 2757, One Hundredth Congress, as reported Sept. 7, 1988, and enacted into law by Pub. L. 100–461.
+Amendment by Pub. L. 100–461 is based on sections 103 and 104 of title I of H.R. 5263, One Hundredth Congress, as passed by the House of Representatives on Sept. 20, 1988, and sections 103 and 104 of title I of S. 2757, One Hundredth Congress, as reported Sept. 7, 1988, and enacted into law by Pub. L. 100–461.
 
 In subsec. (c), “section 1306 of title 31” substituted for “section 1415 of the Supplemental Appropriation Act, 1953, \[31 U.S.C. 724\]” on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
 
@@ -158,7 +158,7 @@ Subsec. (d). Pub. L. 95–268, §3(6), substituted provisions setting forth exce
 
 Subsec. (f)(1). Pub. L. 95–268, §3(7), inserted provisions setting forth exceptions for agreements and contracts.
 
-1974—Subsec. (a)(2). Pub. L. 93–390, §2(2)(B), inserted “and institutions” after “multilateral organizations”and provisions relating to the maximum share of liabilities assumed under par. (1)(A) to (C) of this subsection.
+1974—Subsec. (a)(2). Pub. L. 93–390, §2(2)(B), inserted “and institutions” after “multilateral organizations” and provisions relating to the maximum share of liabilities assumed under par. (1)(A) to (C) of this subsection.
 
 Subsec. (a)(4) to (7). Pub. L. 93–390, §2(2)(C), added pars. (4) to (7).
 

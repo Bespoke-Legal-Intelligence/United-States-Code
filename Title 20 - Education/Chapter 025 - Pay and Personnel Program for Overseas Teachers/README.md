@@ -26,6 +26,7 @@
 | (c) | Recess periods. |
 | (d) | Failure to report for service; liability to United States. |
 | (e) | Employment in other positions during recess periods. |
+| (f) | Lease of military family housing by teacher assigned to teach at Guantanamo Bay Naval Station, Cuba. |
 | [906\.](%C2%A7%2000906%20-%20Entitlements%20in%20addition%20to%20basic%20compensation.md) | Entitlements in addition to basic compensation. |
 | (a) | Cost-of-living increase and additional compensation. |
 | (b) | Post differential. |

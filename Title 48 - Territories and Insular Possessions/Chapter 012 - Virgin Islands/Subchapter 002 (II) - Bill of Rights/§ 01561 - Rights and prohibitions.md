@@ -40,7 +40,7 @@ The contracting of polygamous or plural marriages is prohibited.
 
 The employment of children under the age of sixteen years in any occupation injurious to health or morals or hazardous to life or limb is prohibited.
 
-Nothing contained in this chapter shall be construed to limit the power of the legislatureherein provided to enact laws for the protection of life, the public health, or the public safety.
+Nothing contained in this chapter shall be construed to limit the power of the legislature herein provided to enact laws for the protection of life, the public health, or the public safety.
 
 No political or religious test other than an oath to support the Constitution and the laws of the United States applicable to the Virgin Islands, and the laws of the Virgin Islands, shall be required as a qualification to any office or public trust under the Government of the Virgin Islands.
 

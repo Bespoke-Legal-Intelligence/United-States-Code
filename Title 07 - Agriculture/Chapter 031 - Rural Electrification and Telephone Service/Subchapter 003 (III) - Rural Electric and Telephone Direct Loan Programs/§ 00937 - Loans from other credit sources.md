@@ -18,5 +18,5 @@ Section effective May 11, 1973, see section 12 of Pub. L. 93–32, set out as a 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 939 of this title.
+This section is referred to in sections 939, 940c–1 of this title.
 

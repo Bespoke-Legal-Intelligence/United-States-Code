@@ -46,7 +46,7 @@ Implementation grants may be used to carry out Youthbuild programs, including th
 
 #### (1) Form and procedure
 
-&emsp;An application for an implementation grant shall be submitted by an applicant in such form and in accordance with such procedures as the Secretary shall establish.
+&emsp;An application for an implementation grant shall be submitted by an applicant in suchform and in accordance with such procedures as the Secretary shall establish.
 
 #### (2) Minimum requirements
 
@@ -66,7 +66,7 @@ Implementation grants may be used to carry out Youthbuild programs, including th
 
 &emsp;&emsp;(G) a description of the special outreach efforts that will be undertaken to recruit eligible young women (including young women with dependent children);
 
-&emsp;&emsp;(H) a description of how the proposed program will be coordinated with other Federal,State, and local activities and activities conducted by Indian tribes, including vocational, adult and bilingual education programs, job training provided with funds available under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Family Support Act of 1988, and housing and community development programs, including programs that receive assistance under section 5306 of this title;
+&emsp;&emsp;(H) a description of how the proposed program will be coordinated with other Federal, State, and local activities and activities conducted by Indian tribes, including vocational, adult and bilingual education programs, job training provided with funds available under title I of the Workforce Investment Act of 1998 \[29 U.S.C. 2801 et seq.\] and the Family Support Act of 1988, and housing and community development programs, including programs that receive assistance under section 5306 of this title;
 
 &emsp;&emsp;(I) assurances that there will be a sufficient number of adequately trained supervisory personnel in the program who have attained the level of journeyman or its equivalent;
 
@@ -124,7 +124,7 @@ The Secretary shall notify each applicant, not later than 4 months after the dat
 
 The Secretary shall develop a procedure under which an applicant may apply at the same time and in a single application for a planning grant and an implementation grant, with receipt of the implementation grant conditioned on successful completion of the activities funded by the planning grant.
 
-(Pub. L. 101–625, title IV, §454, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3725;amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(43)(A), (f)(34)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434.)
+(Pub. L. 101–625, title IV, §454, as added Pub. L. 102–550, title I, §164, Oct. 28, 1992, 106 Stat. 3725; amended Pub. L. 105–277, div. A, §101(f) \[title VIII, §405(d)(43)(A), (f)(34)\], Oct. 21, 1998, 112 Stat. 2681–337, 2681–428, 2681–434.)
 
 #### References in Text
 

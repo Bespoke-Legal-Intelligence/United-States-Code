@@ -12,7 +12,7 @@ Non-Federal interests are authorized to undertake flood control projects in the 
 
 #### (2) By Secretary
 
-&emsp;Upon request of an appropriate non-Federal interest, the Secretary may undertake all necessary studies and design activities for any construction to be undertaken pursuant to subsection (a) of this section and provide technical assistance in obtaining all necessary permits for such construction if the non-Federal interest contracts with the Secretary to provide to the United States funds for the studies and design activities during the period in which the studies and design activities will be conducted.
+&emsp;Upon request of an appropriate non-Federal interest, the Secretary may undertake all necessary studies and design activities for any construction to be undertaken pursuant tosubsection (a) of this section and provide technical assistance in obtaining all necessary permits for such construction if the non-Federal interest contracts with the Secretary to provide to the United States funds for the studies and design activities during the period in which the studies and design activities will be conducted.
 
 #### (c) Completion of studies and design activities
 

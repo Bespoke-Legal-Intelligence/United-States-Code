@@ -1,10 +1,10 @@
 ### §1707. Limitations
 
-(a) Funds appropriated to carry out this chapter may not be used for purposes that are inconsistent with the Assisted Suicide Funding Restriction Act of 1997.
+(a) Funds appropriated to carry out this chapter may not be used for purposes that are inconsistent with the Assisted Suicide Funding Restriction Act of 1997 (42 U.S.C. 14401 et seq.).
 
 (b) The Secretary may furnish sensori-neural aids only in accordance with guidelines prescribed by the Secretary.
 
-(Added Pub. L. 105–12, §9(i)(1), Apr. 30, 1997, 111 Stat. 27; amended Pub. L. 107–135, title II, §208(a)(2), (f)(2), Jan. 23, 2002, 115 Stat. 2462, 2464.)
+(Added Pub. L. 105–12, §9(i)(1), Apr. 30, 1997, 111 Stat. 27; amended Pub. L. 107–135, title II, §208(a)(2), (f)(2), Jan. 23, 2002, 115 Stat. 2462, 2464; Pub. L. 107–330, title III, §308(g)(5), Dec. 6, 2002, 116 Stat. 2829.)
 
 #### References in Text
 
@@ -15,6 +15,8 @@ The Assisted Suicide Funding Restriction Act of 1997, referred to in subsec. (a)
 2002—Pub. L. 107–135, §208(f)(2), substituted “Limitations” for “Restriction on use of funds for assisted suicide, euthanasia, or mercy killing” as section catchline.
 
 Pub. L. 107–135, §208(a)(2), designated existing provisions as subsec. (a) and added subsec. (b).
+
+Subsec. (a). Pub. L. 107–330 inserted “(42 U.S.C. 14401 et seq.)” before period at end.
 
 #### Effective Date
 

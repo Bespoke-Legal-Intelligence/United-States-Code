@@ -14,7 +14,7 @@ No employee of the Federal Emergency Management Agency shall occupy any position
 
 #### (d) Employee oaths
 
-Each Federal employee of the Federal Emergency Management Agency acting under the authority of this subchapter, except the subjects of the United Kingdom and citizens of Canada specified in section 5197(b) of this title, shall executethe loyalty oath or appointment affidavits prescribed by the Director of the Office of Personnel Management. Each person other than a Federal employee who is appointed to serve in a State or local organization for emergency preparedness shall before entering upon duties, take an oath in writing before a person authorized to administer oaths, which oath shall be substantially as follows:
+Each Federal employee of the Federal Emergency Management Agency acting under the authority of this subchapter, except the subjects of the United Kingdom and citizens of Canada specified in section 5197(b) of this title, shall execute the loyalty oath or appointment affidavits prescribed by the Director of the Office of Personnel Management. Each person other than a Federal employee who is appointed to serve in a State or local organization for emergency preparedness shall before entering upon duties, take an oath in writing before a person authorized to administer oaths, which oath shall be substantially as follows:
 
 &emsp;“I, \_\_\_\_\_\_\_\_\_\_\_\_, do solemnly swear (or affirm) that I will support and defend the Constitution of the United States against all enemies, foreign and domestic; that I will bear true faith and allegiance to the same; that I take this obligation freely, without any mental reservation or purpose of evasion; and that I will well and faithfully discharge the duties upon which I am about to enter.
 
@@ -27,4 +27,8 @@ Each Federal employee of the Federal Emergency Management Agency acting under th
 #### Prior Provisions
 
 Provisions similar to those in this section were contained in section 2255 of Title 50, Appendix, War and National Defense, prior to repeal by Pub. L. 103–337, §3412(a).
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Federal Emergency Management Agency, including the functions of the Director of the Federal Emergency Management Agency relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 313(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

@@ -6,7 +6,7 @@ The Secretary shall invite the State energy agency of each State to submit, with
 
 &emsp;(1) the results of preliminary energy audits conducted in accordance with the guidelines prescribed under section 6371a(a)(1) of this title, and an estimate of the energy savings that may result from the modification of maintenance and operating procedures and installation of energy conservation measures in the schools and hospitals in such State;
 
-&emsp;(2) a recommendation as to the types of energy conservation projects considered appropriate for schools and hospitals in such State, together with an estimate of the costs of carrying out such projects in each year for which funds are appropriated;
+&emsp;(2) a recommendation as to the types of energy conservation projects considered appropriate for schools and hospitals in such State,together with an estimate of the costs of carrying out such projects in each year for which funds are appropriated;
 
 &emsp;(3) a program for identifying persons qualified to carry out energy conservation projects;
 
@@ -22,7 +22,7 @@ The Secretary shall invite the State energy agency of each State to submit, with
 
 &emsp;(7) procedures to insure implementation of energy conserving maintenance and operating procedures in those facilities for which projects are proposed; and
 
-&emsp;(8) policies and procedures designed to assure that financial assistance provided underthis part in such State will be used to supplement, and not to supplant, State, local, or other funds.
+&emsp;(8) policies and procedures designed to assure that financial assistance provided under this part in such State will be used to supplement, and not to supplant, State, local, or other funds.
 
 #### (b) Approval of plans
 

@@ -20,11 +20,13 @@ The Deputy Chief shall—
 
 #### (d) Authorization of appropriations
 
-There are authorized to be appropriated for each of fiscal years 1996 through 2002 such sums as are necessary to carry out this section.
+There are authorized to be appropriated for each of fiscal years 1996 through 2007 such sums as are necessary to carry out this section.
 
-(Pub. L. 101–624, title XXIV, §2405, Nov. 28, 1990, 104 Stat. 4060; Pub. L. 104–127, title III, §371, Apr. 4, 1996, 110 Stat. 1015.)
+(Pub. L. 101–624, title XXIV, §2405, Nov. 28, 1990, 104 Stat. 4060; Pub. L. 104–127, title III, §371, Apr. 4, 1996, 110 Stat. 1015; Pub. L. 107–171, title VIII, §8102, May 13, 2002, 116 Stat. 475.)
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–171 substituted “2007” for “2002”.
 
 1996—Subsec. (d). Pub. L. 104–127 added subsec. (d).
 

@@ -70,7 +70,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;&emsp;(A) the State may use for planning and administering the use of funds under this subchapter an amount not to exceed 10 percent of the funds payable to such State under this subchapter for a fiscal year; and
 
-&emsp;&emsp;(B) the State will pay from non-Federal sources the remaining costs of planning and administering the program assisted underthis subchapter and will not use Federal funds for such remaining costs (except for the costs of the activities described in paragraph (16));
+&emsp;&emsp;(B) the State will pay from non-Federal sources the remaining costs of planning and administering the program assisted under this subchapter and will not use Federal funds for such remaining costs (except for the costs of the activities described in paragraph (16));
 
 &emsp;(10) provide that such fiscal control and fund accounting procedures will be established as may be necessary to assure the proper disbursal of and accounting for Federal funds paid to the State under this subchapter, including procedures for monitoring the assistance provided under this subchapter, and provide that the State will comply with the provisions of chapter 75 of title 31 (commonly known as the “Single Audit Act”);
 
@@ -84,7 +84,7 @@ As part of the annual application required by subsection (a) of this section, th
 
 &emsp;(15) beginning in fiscal year 1992, provide, in addition to such services as may be offered by State Departments of Public Welfare at the local level, outreach and intake functions for crisis situations and heating and cooling assistance that is administered by additional State and local governmental entities or community-based organizations (such as community action agencies, area agencies on aging, and not-for-profit neighborhood-based organizations), and in States where such organizations do not administer intake functions as of September 30, 1991, preference in awarding grants or contracts for intake services shall be provided to those agencies that administer the low-income weatherization or energy crisis intervention programs; and
 
-&emsp;(16) use up to 5 percent of such funds, at its option, to provide services that encourage and enable households to reduce their home energy needs and thereby the need for energy assistance, including needs assessments, counseling, and assistance with energy vendors, and report to the Secretary concerning the impact of such activities on the number of households served, the level of direct benefits provided to those households, and the number of households that remain unserved.
+&emsp;(16) use up to 5 percent of such funds, at its option, to provide services that encourage and enable households to reduce their home energy needs and thereby the need for energy assistance, including needs assessments, counseling,and assistance with energy vendors, and report to the Secretary concerning the impact of such activities on the number of households served, the level of direct benefits provided to those households, and the number of households that remain unserved.
 
 > The Secretary may not prescribe the manner in which the States will comply with the provisions of this subsection. The Secretary shall issue regulations to prevent waste, fraud, and abuse in the programs assisted by this subchapter.
 
@@ -196,7 +196,7 @@ In verifying income eligibility for purposes of subsection (b)(2)(B) of this sec
 
 (2) Any such credit provided by a State shall not exceed the amount of the loss of revenue to such supplier on account of such reduced rate.
 
-(3) Any certification for such tax credits shall be made by the State, but such State may use Federal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) of this section and suppliers will not be impeded by the use of such data.
+(3) Any certification for such tax credits shall be made by the State, but such State may useFederal data available to such State with respect to recipients of supplemental security income benefits if timely delivery of benefits to households described in subsection (b) of this section and suppliers will not be impeded by the use of such data.
 
 (Pub. L. 97–35, title XXVI, §2605, Aug. 13, 1981, 95 Stat. 896; Pub. L. 98–558, title VI, §605, Oct. 30, 1984, 98 Stat. 2891; Pub. L. 99–425, title V, §504, Sept. 30, 1986, 100 Stat. 974; Pub. L. 101–501, title VII, §§704, 705, Nov. 3, 1990, 104 Stat. 1259; Pub. L. 102–83, §5(c)(2), Aug. 6, 1991, 105 Stat. 406; Pub. L. 103–252, title III, §§305–309, 311(a)(1), (b), (c)(4), (5), May 18, 1994, 108 Stat. 659–662; Pub. L. 104–66, title I, §1072(c), Dec. 21, 1995, 109 Stat. 721; Pub. L. 104–193, title I, §110(p), Aug. 22, 1996, 110 Stat. 2175; Pub. L. 105–285, title III, §306, Oct. 27, 1998, 112 Stat. 2758.)
 
@@ -232,7 +232,7 @@ Subsec. (c)(1)(B). Pub. L. 105–285, §306(2)(A), substituted “State” for �
 
 Subsec. (c)(1)(G)(i). Pub. L. 105–285, §306(2)(B), substituted “had” for “has”.
 
-Subsec. (k)(1), (2)(A). Pub. L. 105–285, §306(3), inserted before period at end “, particularly those low-incomehouseholds with the lowest incomes that pay a high proportion of household income for home energy”.
+Subsec. (k)(1), (2)(A). Pub. L. 105–285, §306(3), inserted before period at end “, particularly those low-income households with the lowest incomes that pay a high proportion of household income for home energy”.
 
 1996—Subsec. (b)(2)(A)(i). Pub. L. 104–193 amended cl. (i) generally. Prior to amendment, cl. (i) read as follows: “aid to families with dependent children under the State's plan approved under part A of title IV of the Social Security Act (other than such aid in the form of foster care in accordance with section 408 of such Act);”.
 

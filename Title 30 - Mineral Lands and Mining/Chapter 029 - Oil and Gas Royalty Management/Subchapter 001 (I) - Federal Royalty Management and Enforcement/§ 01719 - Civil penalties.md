@@ -84,7 +84,7 @@ No person shall be liable for a civil penalty under subsection (a) or (b) of thi
 
 #### References in Text
 
-Section 1712(a) of this title, referred to in subsec. (a)(2), was amended generally by Pub. L. 104–185, §6(g),Aug. 13, 1996, 110 Stat. 1715, and, as so amended, no longer contains a par. (2). See section 1712(a) of this title.
+Section 1712(a) of this title, referred to in subsec. (a)(2), was amended generally by Pub. L. 104–185, §6(g), Aug. 13, 1996, 110 Stat. 1715, and, as so amended, no longer contains a par. (2). See section 1712(a) of this title.
 
 #### Section Referred to in Other Sections
 

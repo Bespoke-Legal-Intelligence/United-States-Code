@@ -34,7 +34,7 @@ The State educational agency for a State that receives a grant under section 661
 
 &emsp;&emsp;(B) use standards or assessments for guiding beginning teachers that are consistent with challenging State student academic achievement standards and with the requirements for professional development activities described in section 7801 of this title.
 
-&emsp;(3) Carrying out programs that establish, expand, or improve alternative routes for State certification of teachers and principals, especially in the areas of mathematics and science, for highly qualified individuals with a baccalaureate or master's degree, including mid-career professionals from other occupations, paraprofessionals, former military personnel, and recent college or university graduates with records of academic distinction who demonstrate the potential to become highly effective teachers or principals.
+&emsp;(3) Carrying out programs that establish, expand, or improve alternative routes for State certification of teachers and principals, especially in the areas of mathematics and science, for highly qualified individuals with a baccalaureate or master's degree, including mid-career professionals from other occupations, paraprofessionals, former military personnel, and recent college or university graduates with records of academic distinctionwho demonstrate the potential to become highly effective teachers or principals.
 
 &emsp;(4) Developing and implementing mechanisms to assist local educational agencies and schools in effectively recruiting and retaining highly qualified teachers, including specialists in core academic subjects, principals, and pupil services personnel, except that funds made available under this paragraph may be used for pupil services personnel only—
 

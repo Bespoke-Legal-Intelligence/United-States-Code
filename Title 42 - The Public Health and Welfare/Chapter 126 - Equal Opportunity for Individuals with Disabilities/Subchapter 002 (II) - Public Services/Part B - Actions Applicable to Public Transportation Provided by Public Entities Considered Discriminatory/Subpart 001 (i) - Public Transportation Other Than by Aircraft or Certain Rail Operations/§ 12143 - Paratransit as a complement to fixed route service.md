@@ -16,7 +16,7 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 &emsp;&emsp;(A)(i) to any individual with a disability who is unable, as a result of a physical or mental impairment (including a vision impairment) and without the assistance of another individual (except an operator of a wheelchair lift or other boarding assistance device), to board, ride, or disembark from any vehicle on the system which is readily accessible to and usable by individuals with disabilities;
 
-&emsp;&emsp;(ii) to any individual with a disability who needs the assistance of a wheelchair lift or other boarding assistance device (and is able with such assistance) to board, ride, and disembark from any vehicle which is readily accessible to and usable by individuals with disabilities if the individual wants to travel on a route on the system during the hours of operation of the system at a time (or within a reasonable period of such time) when such a vehicle is not being used to provide designated public transportation on the route; and
+&emsp;&emsp;(ii) to any individual with a disability who needs the assistance of a wheelchair lift or other boarding assistance device (and is able with such assistance) to board, ride, and disembark from any vehicle which is readily accessible to and usable by individuals withdisabilities if the individual wants to travel on a route on the system during the hours of operation of the system at a time (or within a reasonable period of such time) when such a vehicle is not being used to provide designated public transportation on the route; and
 
 &emsp;&emsp;(iii) to any individual with a disability who has a specific impairment-related condition which prevents such individual from traveling to a boarding location or from a disembarking location on such system;
 
@@ -84,7 +84,7 @@ Not later than 1 year after July 26, 1990, the Secretary shall issue final regul
 
 As used in subsection (a) of this section, the term “discrimination” includes—
 
-&emsp;(1) a failure of a public entity to which the regulations issued under this section apply to submit, or commence implementation of, a plan in accordance with subsections (c)(6) and (c)(7) of this section;
+&emsp;(1) a failure of a public entity to which the regulations issued under this section apply to submit, or commence implementation of, aplan in accordance with subsections (c)(6) and (c)(7) of this section;
 
 &emsp;(2) a failure of such entity to submit, or commence implementation of, a modified plan in accordance with subsection (d)(3) of this section;
 

@@ -6,7 +6,7 @@ The Commission shall be supervised by a Board composed of nine members, one of w
 
 #### (b) Membership of Board; appointing authority; compensation and travel expenses; compensation for non-Government Board members
 
-The President shall appoint the members of the Board. The members of the Board who are United States nationals shall be appointed by and with the advice and consent of the Senate. Each member of the Board shall hold office at the pleasure of the President and, before assuming the duties of such office, shall take an oath to discharge faithfully the duties of his office. Members of the Board shall serve without compensation but shall be allowed travel or transportation expenses, including per diem in lieu of subsistence, in accordance with section 3617 of this title, except that, in addition to such travel or transportation expenses, members of theBoard who hold no other office with either the Government of the United States or the Republic of Panama for which they receive pay are authorized to be compensated at the daily equivalent of the annual rate of basic pay in effect for level V of the Executive Schedule under section 5316 of title 5, for each day during which they are traveling to or from or attending meetings of the Board as provided in subsection (c) of this section or, as authorized by the Chairman of the Board, while on official Panama Canal Commission business.
+The President shall appoint the members of the Board. The members of the Board who are United States nationals shall be appointed by and with the advice and consent of the Senate. Each member of the Board shall hold office at the pleasure of the President and, before assuming the duties of such office, shall take an oath to discharge faithfully the duties of his office. Members of the Board shall serve without compensation but shall be allowed travel or transportation expenses, including per diem in lieu of subsistence, in accordance with section 3617 of this title, except that, in addition to such travel or transportation expenses, members of the Board who hold no other office with either the Government of the United States or the Republic of Panama for which they receive pay are authorized to be compensated at the daily equivalent of the annual rate of basic pay in effect for level V of the Executive Schedule under section 5316 of title 5, for each day during which they are traveling to or from or attending meetings of the Board as provided in subsection (c) of this section or, as authorized by the Chairman of the Board, while on official Panama Canal Commission business.
 
 #### (c) Meetings; quorum; proxies
 
@@ -24,7 +24,7 @@ The Board shall hold meetings as provided in regulations adopted by the Commissi
 
 1988—Subsec. (c). Pub. L. 100–705 struck out after third sentence “Only one proxy may be valid at any one time.”
 
-1987—Subsec. (b). Pub. L. 100–203 inserted before period at end “or, as authorized by the Chairman of the Board, while on official Panama Canal Commission business”.
+1987—Subsec. (b). Pub. L. 100–203 inserted before period at end “or, as authorized by the Chairman of theBoard, while on official Panama Canal Commission business”.
 
 1985—Subsec. (b). Pub. L. 99–223 inserted provisions relating to compensation of members of the Board who hold no other office with either the Government of the United States or the Republic of Panama for which they receive pay.
 

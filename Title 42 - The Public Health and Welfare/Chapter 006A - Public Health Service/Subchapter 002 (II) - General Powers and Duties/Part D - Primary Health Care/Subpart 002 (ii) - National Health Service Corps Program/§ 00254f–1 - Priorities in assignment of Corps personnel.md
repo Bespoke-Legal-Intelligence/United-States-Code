@@ -6,7 +6,7 @@ In approving applications made under section 254f of this title for the assignme
 
 &emsp;(1) give priority to any such application that—
 
-&emsp;&emsp;(A) is made regarding the provision of primary health services to a health professional shortage area with the greatest such shortage, as determined in accordance with subsection (b) of this section; and
+&emsp;&emsp;(A) is made regarding the provision of primary health services to a health professional shortage area with the greatest such shortage; and
 
 &emsp;&emsp;(B) is made by an entity that—
 
@@ -22,37 +22,25 @@ In approving applications made under section 254f of this title for the assignme
 
 &emsp;(3) take into consideration comments of medical, osteopathic, dental, or other health professional societies whose members deliver services to the health professional shortage area, or if no such societies exist, comments of physicians, dentists, or other health professionals delivering services to the area.
 
-#### (b) Exclusive factors for determining greatest shortages
-
-In making a determination under subsection (a)(1)(A) of this section of the health professional shortage areas with the greatest such shortages, the Secretary may consider only the following factors:
-
-&emsp;(1) The ratio of available health manpower to the number of individuals in the area or population group involved, or served by the medical facility or other public facility involved.
-
-&emsp;(2) Indicators of need as follows:
-
-&emsp;&emsp;(A) The rate of low birthweight births.
-
-&emsp;&emsp;(B) The rate of infant mortality.
-
-&emsp;&emsp;(C) The rate of poverty.
-
-&emsp;&emsp;(D) Access to primary health services, taking into account the distance to such services.
-
-#### (c) Establishment of criteria for determining priorities
+#### (b) Establishment of criteria for determining priorities
 
 #### (1) In general
 
-&emsp;The Secretary shall establish criteria specifying the manner in which the Secretary makes a determination under subsection (a)(1)(A) of this section of the health professional shortage areas with the greatest such shortages. Such criteria shall specify the manner in which the factors described in subsection (b) of this section are implemented regarding such a determination.
+&emsp;The Secretary shall establish criteria specifying the manner in which the Secretary makes a determination under subsection (a)(1)(A) of this section of the health professional shortage areas with the greatest such shortages.
 
 #### (2) Publication of criteria
 
 &emsp;The criteria required in paragraph (1) shall be published in the Federal Register not later than July 1, 1991. Any revisions made in the criteria by the Secretary shall be effective upon publication in the Federal Register.
 
-#### (d) Notifications regarding priorities
+#### (c) Notifications regarding priorities
 
-#### (1) Preparation of list for applicable period
+#### (1) Proposed list
 
-&emsp;For the purpose of carrying out paragraph (2), the Secretary shall prepare a list of health professional shortage areas that are receiving priority under subsection (a)(1) of this section in the assignment of Corps members for the period applicable under subsection (f) of this section. Such list—
+&emsp;The Secretary shall prepare and publish a proposed list of health professional shortage areas and entities that would receive priority under subsection (a)(1) of this section in the assignment of Corps members. The list shall contain the information described in paragraph (2), and the relative scores and relative priorities of the entities submitting applications under section 254f of this title, in a proposed format. All such entities shall have 30 days after the date of publication of the list to provide additional data and information in support of inclusion on the list or in support of a higher priority determination and the Secretary shall reasonably consider such data and information in preparing the final list under paragraph (2).
+
+#### (2) Preparation of list for applicable period
+
+&emsp;For the purpose of carrying out paragraph (3), the Secretary shall prepare and, as appropriate, update a list of health professional shortage areas and entities that are receiving priority under subsection (a)(1) of this section in the assignment of Corps members. Such list—
 
 &emsp;&emsp;(A) shall include a specification, for each such health professional shortage area, of the entities for which the Secretary has provided an authorization to receive assignments of Corps members in the event that Corps members are available for the assignments; and
 
@@ -66,57 +54,87 @@ In making a determination under subsection (a)(1)(A) of this section of the heal
 
 > &emsp;&emsp;The Secretary may set forth such specifications by medical specialty.
 
-#### (2) Notification of affected parties
+#### (3) Notification of affected parties
 
-&emsp;(A) Not later than 30 days after the preparation of each list under paragraph (1), the Secretary shall notify entities specified for purposes of subparagraph (A) of such paragraph of the fact that the entities have been provided an authorization to receive assignments of Corps members in the event that Corps members are available for the assignments.
+#### (A) Entities
 
-&emsp;(B) In the case of individuals with respect to whom a period of obligated service under the Scholarship Program will begin during the period under subsection (f) of this section for which a list under paragraph (1) is prepared, the Secretary shall, not later than 30 days after the preparation of each such list, provide to such individuals the names of each of the entities specified for purposes of paragraph (1)(B)(i) that is appropriate to the medical specialty of the individuals.
+&emsp;&emsp;Not later than 30 days after the Secretary has added to a list under paragraph (2) an entity specified as described in subparagraph (A) of such paragraph, the Secretary shall notify such entity that the entity has been provided an authorization to receive assignments of Corps members in the event that Corps members are available for the assignments.
 
-#### (3) Revisions in list
+#### (B) Individuals
 
-&emsp;If the Secretary makes a revision in a list under paragraph (1) during the period under subsection (f) of this section to which the list is applicable, and the revision alters the status of an entity with respect to the list, the Secretary shall notify the entity of the effect on the entity of the revision. Such notification shall be provided not later than 30 days after the date on which the revision is made.
+&emsp;&emsp;In the case of an individual obligated to provide service under the Scholarship Program, not later than 3 months before thedate described in section 254m(b)(5) of this title, the Secretary shall provide to such individual the names of each of the entities specified as described in paragraph (2)(B)(i) that is appropriate for the individual's medical specialty and discipline.
 
-#### (e) Limitation on number of entities offered as assignment choices in Scholarship Program
+#### (4) Revisions
+
+&emsp;If the Secretary proposes to make a revision in the list under paragraph (2), and the revision would adversely alter the status of an entity with respect to the list, the Secretary shall notify the entity of the revision. Any entity adversely affected by such a revision shall be notified in writing by the Secretary of the reasons for the revision and shall have 30 days to file a written appeal of the determination involved which shall be reasonably considered by the Secretary before the revision to the list becomes final. The revision to the list shall be effective with respect to assignment of Corps members beginning on the date that the revision becomes final.
+
+#### (d) Limitation on number of entities offered as assignment choices in Scholarship Program
 
 #### (1) Determination of available Corps members
 
-&emsp;The Secretary shall determine the number of participants in the Scholarship Program who are available for assignments under section 254f of this title for the period applicable under subsection (f) of this section.
+&emsp;By April 1 of each calendar year, the Secretary shall determine the number of participants in the Scholarship Program who will be available for assignments under section 254f of this title during the program year beginning on July 1 of that calendar year.
 
-#### (2) Availability of 500 or fewer members
+#### (2) Determination of number of entities
 
-&emsp;If the number of participants for purposes of paragraph (1) is less than 500, the Secretary shall limit the number of entities specified under subsection (d)(1)(B)(i) of this section to the lesser of—
+&emsp;At all times during a program year, the number of entities specified under subsection (c)(2)(B)(i) of this section shall be—
 
-&emsp;&emsp;(A) 500 such entities; and
+&emsp;&emsp;(A) not less than the number of participants determined with respect to that program year under paragraph (1); and
 
-&emsp;&emsp;(B) a number of such entities constituting 300 percent of the number of such participants available for assignment under section 254f of this title.
+&emsp;&emsp;(B) not greater than twice the number of participants determined with respect to that program year under paragraph (1).
 
-#### (3) Availability of more than 500 members
-
-&emsp;If the number of participants for purposes of paragraph (1) is equal to or greater than 500, the Secretary shall determine the number of entities to be specified under subsection (d)(1)(B)(i) of this section, subject to ensuring that assignments of such participants are made to 500 entities that serve health professional shortage areas that have chronic difficulty in recruiting and retaining health professionals to provide primary health services.
-
-#### (4) Adjustment in base number
-
-&emsp;The number 500, as used for purposes of paragraphs (2) and (3), may by regulation be adjusted by the Secretary to a greater or a lesser number.
-
-#### (f) Applicable period regarding priorities
-
-#### (1) In general
-
-&emsp;With respect to determinations under subsection (a)(1) of this section of the applications that are to be given priority regarding the assignment of Corps members, the Secretary shall make such a determination not less than once each fiscal year. The first determination shall be made not later than July 1 of the year preceding the year in which the period of obligated service begins. If the Secretary revises the determination before July 1 of the following year, the revised determination shall be applicable with respect to assignments of Corps members made during the period beginning on the date of the issuance of the revised determination and ending on July 1 of such year.
-
-#### (2) Date certain for preparation of notification list
-
-&emsp;A list under subsection (d)(1) of this section shall be prepared for each of the periods decribed <sup>1</sup> in paragraph (1). Each such list shall be prepared not later than the date on which a determination of priorities under such paragraph is required to be made for the period involved.
-
-(July 1, 1944, ch. 373, title III, §333A, as added and amended Pub. L. 101–597, title I, §104, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035.)
+(July 1, 1944, ch. 373, title III, §333A, as added and amended Pub. L. 101–597, title I, §104, title IV, §401(b)\[(a)\], Nov. 16, 1990, 104 Stat. 3015, 3035; Pub. L. 107–251, title III, §304, Oct. 26, 2002, 116 Stat. 1646.)
 
 #### Amendments
+
+2002—Subsec. (a)(1)(A). Pub. L. 107–251, §304(1), struck out “, as determined in accordance with subsection (b) of this section” after “such shortage”.
+
+Subsec. (b). Pub. L. 107–251, §304(2), (7), redesignated subsec. (c) as (b) and struck out heading and text of former subsec. (b). Text read as follows: “In making a determination under subsection (a)(1)(A) of this section of the health professional shortage areas with the greatest such shortages, the Secretary may consider only the following factors:
+
+&emsp;“(1) The ratio of available health manpower to the number of individuals in the area or population group involved, or served by the medical facility or other public facility involved.
+
+&emsp;“(2) Indicators of need as follows:
+
+&emsp;&emsp;“(A) The rate of low birthweight births.
+
+&emsp;&emsp;“(B) The rate of infant mortality.
+
+&emsp;&emsp;“(C) The rate of poverty.
+
+&emsp;&emsp;“(D) Access to primary health services, taking into account the distance to such services.”
+
+Subsec. (c). Pub. L. 107–251, §304(7), redesignated subsec. (d) as (c). Former subsec. (c) redesignated (b).
+
+Subsec. (c)(1). Pub. L. 107–251, §304(3), struck out second sentence, which read as follows: “Such criteria shall specify the manner in which the factors described in subsection (b) of this section are implemented regarding such a determination.”
+
+Subsec. (d). Pub. L. 107–251, §304(7), redesignated subsec. (e) as (d). Former subsec. (d) redesignated (c).
+
+Subsec. (d)(1). Pub. L. 107–251, §304(4)(B), added par. (1). Former par. (1) redesignated (2).
+
+Subsec. (d)(2). Pub. L. 107–251, §304(4)(C), in introductory provisions, substituted “paragraph (3)” for “paragraph (2)” and “prepare and, as appropriate, update a list of health professional shortage areas and entities” for “prepare a list of health professional shortage areas” and struck out “for the period applicable under subsection (f) of this section” after “Corps members”.
+
+Pub. L. 107–251, §304(4)(A), redesignated par. (1) as (2). Former par. (2) redesignated (3).
+
+Subsec. (d)(3). Pub. L. 107–251, §304(4)(D), added par. (3) and struck out heading and text of former par. (3). Text read as follows:
+
+“(A) Not later than 30 days after the preparation of each list under paragraph (1), the Secretary shall notify entities specified for purposes of subparagraph (A) of such paragraph of the fact that the entities have been provided an authorization to receive assignments of Corps members in the event that Corps members are available for the assignments.
+
+“(B) In the case of individuals with respect to whom a period of obligated service under the Scholarship Program will begin during the period under subsection (f) of this section for which a list under paragraph (1) is prepared, the Secretary shall, not later than 30 days after the preparation of each such list, provide to such individuals the names of each of the entities specified for purposes of paragraph (1)(B)(i) that is appropriate to the medical specialty of the individuals.”
+
+Pub. L. 107–251, §304(4)(A), redesignated par. (2) as (3). Former par. (3) redesignated (4).
+
+Subsec. (d)(4). Pub. L. 107–251, §304(4)(E), added par. (4) and struck out heading and text of former par. (4). Text read as follows: “If the Secretary makes a revision in a list under paragraph (1) during the period under subsection (f) of this section to which the list is applicable, and the revision alters the status of an entity with respect to the list, the Secretary shall notify the entity of the effect on the entity of the revision. Such notification shall be provided not later than 30 days after the date on which the revision is made.”
+
+Pub. L. 107–251, §304(4)(A), redesignated par. (3) as (4).
+
+Subsec. (e). Pub. L. 107–251, §304(7), redesignated subsec. (e) as (d).
+
+Pub. L. 107–251, §304(5), added subsec. (e) and struck out heading and text of former subsec. (e). Text related to limitation on the number of entities offered as assignment choices in the Scholarship Program based on the number of participants available for assignments.
+
+Subsec. (f). Pub. L. 107–251, §304(6), struck out heading and text of subsec. (f), which related to applicable period regarding priorities in assignment of Corps members.
 
 1990—Pub. L. 101–597, §401(b)\[(a)\], substituted reference to health professional shortage area for reference to health manpower shortage area wherever appearing in subsecs. (a) to (c)(1), (d)(1), and (e)(3).
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254h–1, 254<i>l</i>, 254<i>l</i>–1, 254q–1, 11709 of this title.
-
-<i><sup>1</sup></i><i> So in original. Probably should be “described”.</i>
+This section is referred to in sections 254d, 254h–1, 254<i>l</i>, 254<i>l</i>–1, 254q–1, 11709 of this title.
 

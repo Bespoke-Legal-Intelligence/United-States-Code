@@ -20,7 +20,7 @@ Pub. L. 106–497, §1, Nov. 9, 2000, 114 Stat. 2219, provided that: “This Act
 
 #### Short Title of 1990 Amendment
 
-Pub. L. 101–644, title I, §101, Nov. 29, 1990, 104 Stat. 4662, provided that: “This title \[enacting sections 305d and 305e of this title, amending section 305a of this title and sections 1158 and 1159 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as a note under section 305e of this title\] may be cited as the ‘Indian Arts and Crafts Act of 1990’.”
+Pub. L. 101–644, title I, §101, Nov. 29, 1990, 104 Stat. 4662, provided that: “This title \[enacting sections 305d and 305e of this title, amending section 305a of this title and sections 1158 and 1159 of Title 18, Crimes and Criminal Procedure, and enacting provisions set out as anote under section 305e of this title\] may be cited as the ‘Indian Arts and Crafts Act of 1990’.”
 
 #### Transfer of Functions
 

@@ -2,7 +2,7 @@
 
 #### (a) Study of regulation of surface mining; consultation with tribe; proposed legislation
 
-The Secretary is directed to study the question of the regulation of surface mining on Indian lands which will achieve the purpose of this chapter and recognize the special jurisdictional status of these lands. In carrying out this study the Secretary shall consult with Indian tribes. The study report shall include proposed legislation designed to allow Indian tribes to elect to assume full regulatory authority over the administration and enforcement of regulation of surface mining of coal on Indian lands.
+The Secretary is directed to study the question of the regulation of surface mining on Indian lands which will achieve the purpose of this chapter and recognize the special jurisdictionalstatus of these lands. In carrying out this study the Secretary shall consult with Indian tribes. The study report shall include proposed legislation designed to allow Indian tribes to elect to assume full regulatory authority over the administration and enforcement of regulation of surface mining of coal on Indian lands.
 
 #### (b) Submittal of study to Congress
 
@@ -30,7 +30,7 @@ The Secretary shall provide for adequate participation by the various Indian tri
 
 #### (h) Jurisdictional status
 
-The Secretary shall analyze and make recommendations regarding the jurisdictional status of Indian Lands <sup>1</sup> outside the exterior boundaries of Indian reservations: <i>Provided</i>, That nothing inthis chapter shall change the existing jurisdictional status of Indian Lands.<sup>1</sup>
+The Secretary shall analyze and make recommendations regarding the jurisdictional status of Indian Lands <sup>1</sup> outside the exterior boundaries of Indian reservations: <i>Provided</i>, That nothing in this chapter shall change the existing jurisdictional status of Indian Lands.<sup>1</sup>
 
 #### (i) Grants
 

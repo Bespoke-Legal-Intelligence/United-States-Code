@@ -56,7 +56,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 &emsp;(ii) a statement weighing the risk described in clause (i) against the risks posed to the vital national interests of the United States by the failure of such country to cooperate fully with the United States in combating narcotics or to take adequate steps to combat narcotics on its own.
 
-(E) The President may make a certification under subparagraph (A)(i) with respect to amajor drug producing country or drug-transit country which is also a producer of licit opium only if the President determines that such country has taken steps to prevent significant diversion of its licit cultivation and production into the illicit market, maintains production and stockpiles at levels no higher than those consistent with licit market demand, and prevents illicit cultivation and production.
+(E) The President may make a certification under subparagraph (A)(i) with respect to a major drug producing country or drug-transit country which is also a producer of licit opium only if the President determines that such country has taken steps to prevent significant diversion of its licit cultivation and production into the illicit market, maintains production and stockpiles at levels no higher than those consistent with licit market demand, and prevents illicit cultivation and production.
 
 (2) In determining whether to make the certification required by paragraph (1) with respect to a country, the President shall consider the following:
 
@@ -104,7 +104,7 @@ Subject to subsection (b) of this section, for every major drug producing countr
 
 #### (c) Duration of action
 
-The action taken by the President under paragraph (1), (2), or (3) of subsection (a) of this section shall apply to the products of a foreign country that are entered, or withdrawn from warehouse for consumption, during the period that such action is in effect.
+The action taken by the President under paragraph (1), (2), or (3) of subsection (a) of this section shall apply to the products of a foreigncountry that are entered, or withdrawn from warehouse for consumption, during the period that such action is in effect.
 
 #### (d) Presidential action regarding aviation
 
@@ -156,7 +156,7 @@ Subsec. (b)(2)(D). Pub. L. 101–231, §17(h)(4), substituted “illicit product
 
 Subsec. (b)(2). Pub. L. 100–690, §4408(a), amended par. (2) generally. Prior to amendment, par. (2) read as follows: “In making the certification required by paragraph (1), the President shall give foremost consideration to whether the actions of the government of the country have resulted in the maximum reductions in illicit drug production which were determined to be achievable pursuant to section 2291(e)(4) of title 22. The President shall also consider whether such government—
 
-&emsp;“(A) has taken the legal and law enforcement measures to enforce in its territory, to the maximum extent possible, the elimination of illicit cultivation and the suppression of illicit manufacture of and traffic in narcotic and psychotropic drugs and other controlled substances, as evidenced by seizures of such drugs and substances and of illicit laboratories and the arrest and prosecution of violators involved in the traffic in such drugs and substances significantly affecting the United States;
+&emsp;“(A) has taken the legal and law enforcement measures to enforce in its territory, to the maximum extent possible, the elimination of illicit cultivation and the suppression of illicit manufacture of and traffic in narcotic and psychotropic drugs and other controlled substances, as evidenced by seizures of such drugs and substances and of illicit laboratories and the arrest and prosecution of violators involved inthe traffic in such drugs and substances significantly affecting the United States;
 
 &emsp;“(B) has taken the legal and law enforcement steps necessary to eliminate, to the maximum extent possible, the laundering in that country of drug-related profits or drug-related monies, as evidence by—
 

@@ -24,7 +24,7 @@ Eligibility for an annuity increase under this section shall be governed by the 
 
 &emsp;(2) Effective from its commencing date, an annuity payable from the fund to an annuitant's survivor (other than a child entitled to an annuity under section 2031(d) of this title) shall be increased by the total percentage increase the annuitant was receiving under this section at death.
 
-&emsp;(3) For purposes of computing the annuity of a child under section 2031(d) of this title that commences after October 31, 1969, the dollar amounts specified in section 2031(d)(3) of this title shall each be increased by the total percentage increases allowed and in force under this section on or after such day and, in the case of a deceased annuitant, the percentages specified in that section shall be increased by the total percent allowed and in force to the annuitant under this section on or after such day.
+&emsp;(3) For purposes of computing the annuity of a child under section 2031(d) of this title that commences after October 31, 1969, the dollaramounts specified in section 2031(d)(3) of this title shall each be increased by the total percentage increases allowed and in force under this section on or after such day and, in the case of a deceased annuitant, the percentages specified in that section shall be increased by the total percent allowed and in force to the annuitant under this section on or after such day.
 
 #### (c) Limitation
 

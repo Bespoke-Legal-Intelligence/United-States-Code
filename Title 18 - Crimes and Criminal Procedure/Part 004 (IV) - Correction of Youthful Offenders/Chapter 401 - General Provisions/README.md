@@ -16,8 +16,6 @@
 
 1950—Act Sept. 30, 1950, ch. 1115, §5(b), 64 Stat. 1090, added item 5002.
 
-<i><sup>1</sup></i><i> Section catchline editorially supplied.</i>
-
 
 ---
 

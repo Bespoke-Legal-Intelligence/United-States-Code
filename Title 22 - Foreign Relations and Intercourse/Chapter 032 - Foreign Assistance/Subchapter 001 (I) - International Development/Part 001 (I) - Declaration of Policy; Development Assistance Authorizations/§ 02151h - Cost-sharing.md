@@ -12,7 +12,7 @@ References to sections 2151a through 2151d of this title are deemed to include a
 
 1985—Pub. L. 99–83 struck out subsec. (a) designation, and struck out subsec. (b) which set forth funding limits for grant assistance under sections 2151a to 2151d of this title.
 
-1978—Subsec. (a). Pub. L. 94–424 struck out provision, following “on an ‘in-kind’ basis”, relating to waiver bythe President of cost-sharing requirement in case of a project or activity in a country determined to be relatively least developed by the agency primarily responsible for administering subchapter I of this chapter.
+1978—Subsec. (a). Pub. L. 94–424 struck out provision, following “on an ‘in-kind’ basis”, relating to waiver by the President of cost-sharing requirement in case of a project or activity in a country determined to be relatively least developed by the agency primarily responsible for administering subchapter I of this chapter.
 
 Subsec. (b). Pub. L. 95–424 substituted “No” for “Except for grants to countries determined to be relatively least developed based on the United Nations Conference on Trade and Development list of ‘relatively least developed countries’, no”.
 

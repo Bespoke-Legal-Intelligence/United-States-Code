@@ -6,5 +6,5 @@ Section 853n, act June 3, 1948, ch. 390, §15, 62 Stat. 299, related to computat
 
 #### Effective Date of Repeal
 
-Repeal effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as an Effective Date of 1949 Amendment note under section 853<i>o</i> of this title.
+Repeal effective Oct. 1, 1949, see section 533(a) of act Oct. 12, 1949, set out as an Effective Date of 1949 Amendment note under section 854a of this title.
 

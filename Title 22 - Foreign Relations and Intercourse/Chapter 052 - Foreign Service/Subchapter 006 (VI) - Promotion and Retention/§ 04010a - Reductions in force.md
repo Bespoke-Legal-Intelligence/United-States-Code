@@ -50,5 +50,5 @@ Section 181(c) of Pub. L. 103–236, as amended by Pub. L. 103–415, §1(i), Oc
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 4009, 4046, 4071d, 4105, 4136 of this title.
+This section is referred to in sections 4009, 4046, 4071d, 4105 of this title.
 

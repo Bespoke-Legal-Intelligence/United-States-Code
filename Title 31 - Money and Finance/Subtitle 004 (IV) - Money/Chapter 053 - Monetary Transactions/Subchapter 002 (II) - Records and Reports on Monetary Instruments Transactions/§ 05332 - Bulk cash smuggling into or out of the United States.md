@@ -22,7 +22,7 @@ Term of imprisonment.—A person convicted of a currency smuggling offense under
 
 &emsp;(2)
 
-Forfeiture.—In addition, the court, in imposing sentence under paragraph (1), shall order that the defendant forfeit to the United States, any property, real or personal, involved in the offense, and any property traceable to such property, subject to subsection (d) of this section.
+Forfeiture.—In addition, the court, in imposing sentence under paragraph (1), shall order that the defendant forfeit to the United States, any property, real or personal, involved in the offense, and any property traceable to such property, subject to subsection (d) <sup>1</sup> of this section.
 
 &emsp;(3)
 
@@ -38,7 +38,7 @@ Civil Forfeiture.—
 
 &emsp;(1)
 
-In general.—Any property involved in a violation of subsection (a), or a conspiracy to commit such violation, and any property traceable to such violation or conspiracy, may be seized and, subject to subsection (d) of this section, forfeited to the United States.
+In general.—Any property involved in a violation of subsection (a), or a conspiracy to commit such violation, and any property traceable to such violation or conspiracy, may be seized and, subject to subsection (d) <sup>1</sup> of this section, forfeited to the United States.
 
 &emsp;(2)
 
@@ -70,7 +70,7 @@ Pub. L. 107–56, title III, §371(a), (b), Oct. 26, 2001, 115 Stat. 336, 337, p
 
 Findings.—The Congress finds the following:
 
-&emsp;“(1) Effective enforcement of the currency reporting requirements of subchapter II of chapter 53 oftitle 31, United States Code, and the regulations prescribed under such subchapter, has forced drug dealers and other criminals engaged in cash-based businesses to avoid using traditional financial institutions.
+&emsp;“(1) Effective enforcement of the currency reporting requirements of subchapter II of chapter 53 of title 31, United States Code, and the regulations prescribed under such subchapter, has forced drug dealers and other criminals engaged in cash-based businesses to avoid using traditional financial institutions.
 
 &emsp;“(2) In their effort to avoid using traditional financial institutions, drug dealers and other criminals are forced to move large quantities of currency in bulk form to and through the airports, border crossings, and other ports of entry where the currency can be smuggled out of the United States and placed in a foreign financial institution or sold on the black market.
 

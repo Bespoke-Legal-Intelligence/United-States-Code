@@ -12,7 +12,7 @@ Consistent with the provisions of this section, the Comptroller General may subm
 
 &emsp;(2) making recommendations for changes in the analysis done in the report due the following year under section 3142 of this title;
 
-&emsp;(3) making recommendations for improving the collection by respective Federal agencies of data on foreign direct investment in the United States, including use of private sector data, and improving survey questionnaires to obtain useful and consistent information that avoids unnecessary redundancy among Federal agencies;
+&emsp;(3) making recommendations for improving the collection by respective Federal agencies of data on foreign direct investment in the United States, including use of private sector data, and improving survey questionnaires to obtain useful and consistent information thatavoids unnecessary redundancy among Federal agencies;
 
 &emsp;(4) reviewing the status and processes for reconciliation of data exchanged as required by this Act and the amendments made by this Act, and making any recommendations for improving and augmenting international financial data;
 

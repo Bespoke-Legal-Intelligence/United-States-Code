@@ -42,6 +42,8 @@ In General.—Hereafter, the employment of any individual within the Executive O
 
 Exemption.—Subsection (a) shall not apply to any individual specifically exempted from such subsection by the President or his designee.”
 
+\[For transfer of the functions, personnel, assets, and obligations of the United States Secret Service, including the functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 381, 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.\]
+
 #### <b>REORGANIZATION PLAN NO. 1 OF 1977</b>
 
 #### 42 F.R. 56101, 91 Stat. 1633, as amended by Pub. L. 97–195, §1(c)(5), June 16, 1982, 96 Stat. 115
@@ -52,7 +54,7 @@ Prepared by the President and transmitted to the Senate and the House of Represe
 
 #### Section 1. Redesignation of Domestic Council Staff
 
-The Domestic Council staff is hereby designated the Domestic Policy Staff and shall consist of such staff personnel as are determined by the President to be necessary to assure that the needs of the President for prompt and comprehensive advice are met with respect to matters of economic and domestic policy. The staffshall continue to be headed by an Executive Director who shall be an Assistant to the President, designated by the President, as provided in Section 203 of Reorganization Plan No. 2 of 1970 \[set out in Title 5, Appendix\]. The Executive Director shall perform such functions as the President may from time to time direct.
+The Domestic Council staff is hereby designated the Domestic Policy Staff and shall consist of such staff personnel as are determined by the President to be necessary to assure that the needs of the President for prompt and comprehensive advice are met with respect to matters of economic and domestic policy. The staff shall continue to be headed by an Executive Director who shall be an Assistant to the President, designated by the President, as provided in Section 203 of Reorganization Plan No. 2 of 1970 \[set out in Title 5, Appendix\]. The Executive Director shall perform such functions as the President may from time to time direct.
 
 #### Sec. 2. Establishment of an Office of Administration
 
@@ -124,7 +126,7 @@ This plan in conjunction with the other steps I am taking will:
 
 &emsp;Improve the process by which information is provided for Presidential decisionmaking.
 
-These recommendations arise from a careful, systematic study of the EOP. They are based on the premisethat the EOP exists to serve the President and should be structured to meet his needs. They will reduce waste and cost while improving the service the President, and the nation, receive from the EOP.
+These recommendations arise from a careful, systematic study of the EOP. They are based on the premise that the EOP exists to serve the President and should be structured to meet his needs. They will reduce waste and cost while improving the service the President, and the nation, receive from the EOP.
 
 The EOP now consists of the immediate White House Office, the Vice President's Office, the Office of Management and Budget, and fourteen other agencies. The EOP has a budget authority of about $80,000,000 and 1,712 full time employees.
 
@@ -228,7 +230,7 @@ Much of the work done by the Office of Telecommunications Policy (OTP) can be mo
 
 I propose that the Economic Opportunity Council be discontinued; it is dormant and its only active function (preparation of the Catalogue of Federal Domestic Assistance) is being performed by OMB. Three other units are also inactive and should be discontinued: Council on International Economic Policy, the Federal Property Council, and the Energy Resources Council.
 
-The Domestic Council should be abolished. It has rarely functioned as a Council, because it is too large and its membership too diverse to make decisions efficiently. Its functions have been performed entirely by its staff. This Domestic Policy Staff should report to the Assistant to the President for Domestic Affairs and Policy. Under the policy process system described earlier, they should manage the process which coordinates the making of domestic and most economic policy. They should work closely with the Cabinet departments and agencies to insure that the views of the Cabinet and agency heads are brought to the President before decisions are made.
+The Domestic Council should be abolished. It has rarely functioned as a Council, because it is too large and its membership too diverse to make decisions efficiently. Its functions have been performed entirely by its staff. This Domestic Policy Staff should report to the Assistant to the President for Domestic Affairs and Policy. Under the policy process system described earlier, they should manage the process which coordinatesthe making of domestic and most economic policy. They should work closely with the Cabinet departments and agencies to insure that the views of the Cabinet and agency heads are brought to the President before decisions are made.
 
 The ten EOP units which will continue with some modification are:
 
@@ -384,7 +386,7 @@ Sec. 6. The records, property, personnel, and unexpended balances of appropriati
 
 Sec. 7. (a) The Director of the Office of Management and Budget shall make such determinations, issue such orders, and take all actions necessary or appropriate to effectuate the transfers or reassignments provided by this Order, including the transfer of funds, records, property, and personnel.
 
-(b) Such transfers shall become effective on April 1, 1978, or at such earlier time or times as the Director of the Office of Management and Budget determines, after consultation with the Director of the Office of Administration and other appropriate units within the Executive Office of the President.
+(b) Such transfers shall become effective on April 1, 1978, or at such earlier time or times as the Director ofthe Office of Management and Budget determines, after consultation with the Director of the Office of Administration and other appropriate units within the Executive Office of the President.
 
 Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -446,7 +448,7 @@ Jimmy Carter.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 12859. Establishment of Domestic Policy Council
 
-Ex. Ord. No. 12859, Aug. 16, 1993, 58 F.R. 44101, provided:
+Ex. Ord. No. 12859, Aug. 16, 1993, 58 F.R. 44101, as amended by Ex. Ord. No. 13284, §10, Jan. 23, 2003, 68 F.R. 4076, provided:
 
 By the authority vested in me as President by the Constitution and the laws of the United States of America, including sections 105, 107, and 301 of title 3, United States Code, it is hereby ordered as follows:
 
@@ -482,25 +484,27 @@ Sec. 2. <i>Membership</i>. The Council shall comprise the:
 
 (n) Secretary of the Treasury;
 
-(<i>o</i>) Administrator of the Environmental Protection Agency;
+(<i>o</i>) Secretary of Homeland Security;
 
-(p) Chair of the Council of Economic Advisers;
+(p) Administrator of the Environmental Protection Agency;
 
-(q) Director of the Office of Management and Budget;
+(q) Chair of the Council of Economic Advisers;
 
-(r) Assistant to the President for Economic Policy;
+(r) Director of the Office of Management and Budget;
 
-(s) Assistant to the President for Domestic Policy;
+(s) Assistant to the President for Economic Policy;
 
-(t) Assistant to the President and Director of the Office of National Service;
+(t) Assistant to the President for Domestic Policy;
 
-(u) Senior Advisor to the President for Policy Development;
+(u) Assistant to the President and Director of the Office of National Service;
 
-(v) Director, Office of National Drug Control Policy;
+(v) Senior Advisor to the President for Policy Development;
 
-(w) AIDS Policy Coordinator; and
+(w) Director, Office of National Drug Control Policy;
 
-(x) Such other officials of Executive departments and agencies as the President may, from time to time, designate.
+(x) AIDS Policy Coordinator; and
+
+(y) Such other officials of Executive departments and agencies as the President may, from time to time, designate.
 
 Sec. 3. <i>Meeting of the Council</i>. The President, or upon his direction, the Assistant to the President for Domestic Policy (“the Assistant”), may convene meetings of the Council. The President shall preside over the meetings of the Council, provided that in his absence the Vice President, and in his absence the Assistant, will preside.
 
@@ -515,8 +519,6 @@ Sec. 5. <i>Administration</i>. (a) The Council may function through established 
 (b) The Council shall have a staff to be headed by the Assistant to the President for Domestic Policy. The Council shall have such staff and other assistance as may be necessary to carry out the provisions of this order.
 
 (c) All executive departments and agencies shall cooperate with the Council and provide such assistance, information, and advice to the Council as the Council may request, to the extent permitted by law.
-
-William J. Clinton.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Ex. Ord. No. 13199. Establishment of White House Office of Faith-Based and Community Initiatives
 
@@ -550,7 +552,7 @@ Sec. 3. <i>Functions</i>. The principal functions of the White House OFBCI are, 
 
 (k) to monitor implementation of the President's agenda affecting faith-based and other community organizations; and
 
-(l) to ensure that the efforts of faith-based and other community organizations meet high standards of excellence and accountability.
+(<i>l</i>) to ensure that the efforts of faith-based and other community organizations meet high standards of excellence and accountability.
 
 Sec. 4. <i>Administration</i>. (a) The White House OFBCI may function through established or ad hoc committees, task forces, or interagency groups.
 
@@ -563,6 +565,40 @@ Sec. 4. <i>Administration</i>. (a) The White House OFBCI may function through es
 (e) The agencies’ actions directed by this Executive Order shall be carried out subject to the availability of appropriations and to the extent permitted by law.
 
 Sec. 5. <i>Judicial Review</i>. This order does not create any right or benefit, substantive or procedural, enforceable at law or equity by a party against the United States, its agencies or instrumentalities, its officers or employees, or any other person.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+#### Ex. Ord. No. 13283. Establishing the Office of Global Communications
+
+Ex. Ord. No. 13283, Jan. 21, 2003, 68 F.R. 3371, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, it is hereby ordered as follows:
+
+Section 1. <i>Establishment of the Office of Global Communications</i>. There is hereby established within the White House Office an Office of Global Communications (the “Office”) to be headed by a Deputy Assistant to the President for Global Communications.
+
+Sec. 2. <i>Mission</i>. The mission of the Office shall be to advise the President, the heads of appropriate offices within the Executive Office of the President, and the heads of executive departments and agencies (agencies) on utilization of the most effective means for the United States Government to ensure consistency in messages that will promote the interests of the United States abroad, prevent misunderstanding, build support for and among coalition partners of the United States, and inform international audiences. The Office shall provide such advice on activities in which the role of the United States Government is apparent or publicly acknowledged.
+
+Sec. 3. <i>Functions</i>. In carrying out its mission:
+
+(a) The Office shall assess the methods and strategies used by the United States Government (other than special activities as defined in Executive Order 12333 of December 4, 1981 \[50 U.S.C. 401 note\]) to deliver information to audiences abroad. The Office shall coordinate the formulation among appropriate agencies of messages that reflect the strategic communications framework and priorities of the United States, and shall facilitate the development of a strategy among the appropriate agencies to effectively communicate such messages.
+
+(b) The Office shall work with the policy and communications offices of agencies in developing a strategy for disseminating truthful, accurate, and effective messages about the United States, its Government and policies, and the American people and culture. The Office may, after consulting with the Department of State and obtaining the approval of the Assistant to the President for National Security Affairs on the President's behalf, work with cooperating foreign governments in the development of the strategy. In performing its work, the Office shall coordinate closely and regularly with the Assistant to the President for National Security Affairs, or the Assistant's designee.
+
+(c) The Office shall work with appropriate agencies to coordinate the creation of temporary teams of communicators for short-term placement in areas of high global interest and media attention as determined by the Office. Team members shall include personnel from agencies to the extent permitted by law and subject to the availability of personnel. In performing its functions, each information team shall work to disseminate accurate and timely information about topics of interest to the on-site news media, and assist media personnel in obtaining access to information, individuals, and events that reinforce the strategic communications objectives of the United States and its allies. The Office shall coordinate when and where information teams should be deployed; provided, however, no information team shall be deployed abroad without prior consultation with the Department of State and the Department of Defense, and prior notification to the Office of the Assistant to the President for National Security Affairs.
+
+(d) The Office shall encourage the use of state-of-the-art media and technology and shall advise the United States Government of events, technologies, and other communications tools that may be available for use in conveying information.
+
+Sec. 4. <i>Administration</i>. The Office of Administration within the Executive Office of the President shall provide the Office with administrative and related support, to the extent permitted by law and subject to the availability of appropriations, as directed by the Chief of Staff to the President to carry out the provisions of this order.
+
+Sec. 5. <i>Relationship to Other Interagency Coordinating Mechanisms</i>. Presidential direction regarding National Security Council-related mechanisms for coordination of national security policy shall apply with respect to the Office in the same manner as it applies with respect to other elements of the White House Office. Nothing in this order shall be construed to impair or otherwise affect any function assigned by law or by the President to the National Security Council or to the Assistant to the President for National Security Affairs.
+
+Sec. 6. <i>Continuing Authorities</i>. This order does not alter the existing authorities of any agency. Agencies shall assist the Deputy Assistant to the President for Global Communications, to the extent consistent with applicable law and direction of the President, and to the extent such assistance is consistent with national security objectives and with the mission of such agencies, in carrying out the Office's mission.
+
+Sec. 7. <i>General Provisions.</i>
+
+(a) This order is not intended to, and does not, create any right or benefit, substantive or procedural, enforceable at law or equity by any party against the United States, its agencies, instrumentalities or entities, its officers or employees, or any other person.
+
+(b) Nothing in this order shall be construed to grant to the Office any authority to issue direction to agencies, officers, or employees.
 
 George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

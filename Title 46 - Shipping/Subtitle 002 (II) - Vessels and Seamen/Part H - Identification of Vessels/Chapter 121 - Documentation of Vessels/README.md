@@ -5,6 +5,7 @@
 | [12101\.](%C2%A7%2012101%20-%20Definitions%20and%20related%20terms%20in%20other%20laws.md) | Definitions and related terms in other laws. |
 | [12102\.](%C2%A7%2012102%20-%20Vessels%20eligible%20for%20documentation.md) | Vessels eligible for documentation. |
 | [12103\.](%C2%A7%2012103%20-%20Certificates%20of%20documentation.md) | Certificates of documentation. |
+| [12103a.](%C2%A7%2012103a%20-%20Issuance%20of%20temporary%20certificate%20of%20documentation%20by%20third%20parties.md) | Issuance of temporary certificate of documentation by third parties. |
 | [12104\.](%C2%A7%2012104%20-%20Effect%20of%20documentation.md) | Effect of documentation. |
 | [12105\.](%C2%A7%2012105%20-%20Registry%20endorsements.md) | Registry endorsements. |
 | [12106\.](%C2%A7%2012106%20-%20Coastwise%20endorsements.md) | Coastwise endorsements. |
@@ -28,6 +29,8 @@
 
 #### Amendments
 
+2002—Pub. L. 107–295, title IV, §422(b)(2), Nov. 25, 2002, 116 Stat. 2125, added item 12103a.
+
 1998—Pub. L. 105–383, title IV, §401(b), Nov. 13, 1998, 112 Stat. 3425, added item 12124.
 
 1996—Pub. L. 104–324, title VII, §746(a)(2), title XI, §1115(b)(1), Oct. 19, 1996, 110 Stat. 3943, 3972, struck out item 12107 “Great Lakes endorsements” and struck out item 12123 “Denial and revocation of endorsements” appearing first.
@@ -38,7 +41,7 @@ Pub. L. 102–388, title III, §348(c)(2), Oct. 6, 1992, 106 Stat. 1554, added i
 
 1990—Pub. L. 101–595, title VI, §603(8), Nov. 16, 1990, 104 Stat. 2993, which directed the amendment of the chapter analysis of title 46 was executed to the chapter analysis of this chapter to reflect the probable intent of Congress by striking out items 12113 “Ports of documentation”, 12114 “Home ports”, 12115 “Names of vessels”, 12116 “Numbers, signal letters, and identification markings”, 12118 “Registration of funnel marks and house flags”, and 12121 “Regulations”.
 
-1989—Pub. L. 101–225, title III, §301(a)(12), Dec. 12, 1989, 103 Stat. 1922, inserted “endorsements” in item 12105, substituted “endorsements” for “licenses andregistry” in items 12106, 12107, and 12108, and substituted “endorsements” for “vessel licenses” in item 12109.
+1989—Pub. L. 101–225, title III, §301(a)(12), Dec. 12, 1989, 103 Stat. 1922, inserted “endorsements” in item 12105, substituted “endorsements” for “licenses and registry” in items 12106, 12107, and 12108, and substituted “endorsements” for “vessel licenses” in item 12109.
 
 1988—Pub. L. 100–710, title I, §103(b), Nov. 23, 1988, 102 Stat. 4749, substituted “Surrender and invalidation” for “Invalidation” in item 12111.
 
@@ -48,7 +51,7 @@ Pub. L. 100–239, §3(1), Jan. 11, 1988, 101 Stat. 1778, substituted “Definit
 
 #### Chapter Referred to in Other Sections
 
-This chapter is referred to in sections 2101, 3316, 3703a, 14301, 14304, 14501, 14504, 30101, 31322, 31325, 31329 of this title; sections 146, 292, 808, 808a, 1187, 1187a, 1187c, 1903 of Appendix to this title; title 15 section 1175; title 16 sections 1802, 2432, 4714, 5502; title 19 sections 128, 131; title 40 section 484d.
+This chapter is referred to in sections 2101, 3316, 3703a, 14301, 14304, 14501, 14504, 30101, 31322, 31325, 31329, 31343, 70108 of this title; sections 146, 292, 808, 808a, 1187, 1187a, 1187c, 1903 of Appendix to this title; title 7 section 1638a; title 15 section 1175; title 16 sections 1802, 2432, 4714, 5502; title 19 sections 128, 131, 3203; title 40 section 558.
 
 
 ---
@@ -58,6 +61,7 @@ This chapter is referred to in sections 2101, 3316, 3703a, 14301, 14304, 14501, 
 - [&sect; 12101 - Definitions and related terms in other laws](%C2%A7%2012101%20-%20Definitions%20and%20related%20terms%20in%20other%20laws.md)
 - [&sect; 12102 - Vessels eligible for documentation](%C2%A7%2012102%20-%20Vessels%20eligible%20for%20documentation.md)
 - [&sect; 12103 - Certificates of documentation](%C2%A7%2012103%20-%20Certificates%20of%20documentation.md)
+- [&sect; 12103a - Issuance of temporary certificate of documentation by third parties](%C2%A7%2012103a%20-%20Issuance%20of%20temporary%20certificate%20of%20documentation%20by%20third%20parties.md)
 - [&sect; 12104 - Effect of documentation](%C2%A7%2012104%20-%20Effect%20of%20documentation.md)
 - [&sect; 12105 - Registry endorsements](%C2%A7%2012105%20-%20Registry%20endorsements.md)
 - [&sect; 12106 - Coastwise endorsements](%C2%A7%2012106%20-%20Coastwise%20endorsements.md)

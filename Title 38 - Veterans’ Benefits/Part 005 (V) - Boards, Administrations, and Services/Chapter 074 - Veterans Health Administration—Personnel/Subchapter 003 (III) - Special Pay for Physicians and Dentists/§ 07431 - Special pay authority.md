@@ -12,7 +12,7 @@
 
 (3) Any determination under this subsection shall be in accordance with regulations prescribed to carry out this subchapter.
 
-(e) If the Under Secretary for Health determines that payment of special pay to a physician or dentist who is employed on a less than half-time basis is the most cost-effective way available for providing needed medical or dental specialist services at a Department facility, the Under Secretary for Health may authorize the payment of special pay for factors other than for full-time status to that physician or dentist at a rate computed on the basis of the proportion that the part-time employment of the physician or dentist bears to full-time employment.
+(e) If the Under Secretary for Health determines that payment of special pay to a physician or dentist who is employed on a less than half-time basis is the most cost-effective way available for providing needed medical or dentalspecialist services at a Department facility, the Under Secretary for Health may authorize the payment of special pay for factors other than for full-time status to that physician or dentist at a rate computed on the basis of the proportion that the part-time employment of the physician or dentist bears to full-time employment.
 
 (f) Special pay may not be paid under this section to a physician or dentist who—
 
@@ -22,7 +22,7 @@
 
 &emsp;(3) is a reemployed annuitant.
 
-(g)(1) In the case of a physician or dentist who is employed in a position that is covered by a determination by the Secretary under subsection (d)(1) that the Administration does not have a significant recruitment or retention problem with respect to a particular category of positions and who on the day before the effective date of this subchapter was receiving special pay under an agreement entered into under section 4118 of this title (as in effect before such date), the Secretary may pay to that physicianor dentist, in addition to basic pay, retention pay under this subsection.
+(g)(1) In the case of a physician or dentist who is employed in a position that is covered by a determination by the Secretary under subsection (d)(1) that the Administration does not have a significant recruitment or retention problem with respect to a particular category of positions and who on the day before the effective date of this subchapter was receiving special pay under an agreement entered into under section 4118 of this title (as in effect before such date), the Secretary may pay to that physician or dentist, in addition to basic pay, retention pay under this subsection.
 
 (2) The annual rate of such retention pay for any individual may not exceed the rate which, when added to the rate of basic pay payable to that individual, is equal to the sum of the annual rate of basic pay and the annual rate of special pay paid to that physician or dentist pursuant to the final agreement with that individual under such section 4118.
 

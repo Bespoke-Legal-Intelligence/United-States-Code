@@ -18,7 +18,7 @@ A civil action may be brought—
 
 &emsp;(5) except as otherwise provided in subsection (b) of this section, by the Secretary (A) to enjoin any act or practice which violates any provision of this subchapter, or (B) to obtain other appropriate equitable relief (i) to redress such violation or (ii) to enforce any provision of this subchapter;
 
-&emsp;(6) by the Secretary to collect any civil penalty under paragraph (2), (4), (5), or (6) of subsection (c) of this section or under subsection (i) or (<i>l</i>) of this section;
+&emsp;(6) by the Secretary to collect any civil penalty under paragraph (2), (4), (5), (6), or (7) of subsection (c) of this section or under subsection (i) or (<i>l</i>) of this section;
 
 &emsp;(7) by a State to enforce compliance with a qualified medical child support order (as defined in section 1169(a)(2)(A) of this title);
 
@@ -32,7 +32,7 @@ A civil action may be brought—
 
 &emsp;(A) requested by the Secretary of the Treasury, or
 
-&emsp;(B) one or more participants, beneficiaries, or fiduciaries, of such plan request in writing\(in such manner as the Secretary shall prescribe by regulation) that he exercise such authority on their behalf. In the case of such a request under this paragraph he may exercise such authority only if he determines that such violation affects, or such enforcement is necessary to protect, claims of participants or beneficiaries to benefits under the plan.
+&emsp;(B) one or more participants, beneficiaries, or fiduciaries, of such plan request in writing (in such manner as the Secretary shall prescribe by regulation) that he exercise such authority on their behalf. In the case of such a request under this paragraph he may exercise such authority only if he determines that such violation affects, or such enforcement is necessary to protect, claims of participants or beneficiaries to benefits under the plan.
 
 (2) The Secretary shall not initiate an action to enforce section 1145 of this title.
 
@@ -52,7 +52,9 @@ A civil action may be brought—
 
 (6) If, within 30 days of a request by the Secretary to a plan administrator for documents under section 1024(a)(6) of this title, the plan administrator fails to furnish the material requested to the Secretary, the Secretary may assess a civil penalty against the plan administrator of up to $100 a day from the date of such failure (but in no event in excess of $1,000 per request). No penalty shall be imposed under this paragraph for any failure resulting from matters reasonably beyond the control of the plan administrator.
 
-(7) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
+(7) The Secretary may assess a civil penalty against a plan administrator of up to $100 a day from the date of the plan administrator's failure or refusal to provide notice to participants and beneficiaries in accordance with section 1021(i) of this title. For purposes of this paragraph, each violation with respect to any single participant or beneficiary shall be treated as a separate violation.
+
+(8) The Secretary and the Secretary of Health and Human Services shall maintain such ongoing consultation as may be necessary and appropriate to coordinate enforcement under this subsection with enforcement under section 1320b–14(c)(8) <sup>2</sup> of title 42.
 
 #### (d) Status of employee benefit plan as entity
 
@@ -68,7 +70,7 @@ A civil action may be brought—
 
 #### (f) Amount in controversy; citizenship of parties
 
-The district courts of the United States shall have jurisdiction, without respect to theamount in controversy or the citizenship of the parties, to grant the relief provided for in subsection (a) of this section in any action.
+The district courts of the United States shall have jurisdiction, without respect to the amount in controversy or the citizenship of the parties, to grant the relief provided for in subsection (a) of this section in any action.
 
 #### (g) Attorney's fees and costs; awards in actions involving delinquent contributions
 
@@ -136,7 +138,7 @@ Suits by an administrator, fiduciary, participant, or beneficiary of an employee
 
 In the case of a distribution to a pension plan participant or beneficiary in violation of section 1056(e) of this title by a plan fiduciary, the Secretary shall assess a penalty against such fiduciary in an amount equal to the value of the distribution. Such penalty shall not exceed $10,000 for each such distribution.
 
-(Pub. L. 93–406, title I, §502, Sept. 2, 1974, 88 Stat. 891; Pub. L. 96–364, title III, §306(b), Sept. 26, 1980, 94 Stat. 1295; Pub. L. 99–272, title X, §10002(b), Apr. 7, 1986, 100 Stat. 231; Pub. L. 100–203, title IX, §§9342(c), 9344, Dec. 22, 1987, 101 Stat. 1330–372, 1330–373; Pub. L. 101–239, title II, §2101(a), (b), title VII, §§7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, 103 Stat. 2123, 2438, 2442, 2445, 2450; Pub. L. 101–508, title XII, §12012(d)(2), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–66, title IV, §4301(c)(1)–(3), Aug. 10, 1993, 107 Stat. 376; Pub. L. 103–401, §§2, 3, Oct. 22, 1994, 108 Stat. 4172; Pub. L. 103–465, title VII, §761(a)(9)(B)(ii), Dec. 8, 1994, 108 Stat. 5033; Pub. L. 104–191, title I, §101(b), (e)(2), Aug. 21, 1996, 110 Stat. 1951, 1952; Pub. L. 104–204, title VI, §603(b)(3)(E), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(2)(B), (d)(7), Aug. 5, 1997, 111 Stat. 1062.)
+(Pub. L. 93–406, title I, §502, Sept. 2, 1974, 88 Stat. 891; Pub. L. 96–364, title III, §306(b), Sept. 26,1980, 94 Stat. 1295; Pub. L. 99–272, title X, §10002(b), Apr. 7, 1986, 100 Stat. 231; Pub. L. 100–203, title IX, §§9342(c), 9344, Dec. 22, 1987, 101 Stat. 1330–372, 1330–373; Pub. L. 101–239, title II, §2101(a), (b), title VII, §§7881(b)(5)(B), (j)(2), (3), 7891(a)(1), 7894(f)(1), Dec. 19, 1989, 103 Stat. 2123, 2438, 2442, 2445, 2450; Pub. L. 101–508, title XII, §12012(d)(2), Nov. 5, 1990, 104 Stat. 1388–573; Pub. L. 103–66, title IV, §4301(c)(1)–(3), Aug. 10, 1993, 107 Stat. 376; Pub. L. 103–401, §§2, 3, Oct. 22, 1994, 108 Stat. 4172; Pub. L. 103–465, title VII, §761(a)(9)(B)(ii), Dec. 8, 1994, 108 Stat. 5033; Pub. L. 104–191, title I, §101(b), (e)(2), Aug. 21, 1996, 110 Stat. 1951, 1952; Pub. L. 104–204, title VI, §603(b)(3)(E), Sept. 26, 1996, 110 Stat. 2938; Pub. L. 105–34, title XV, §1503(c)(2)(B), (d)(7), Aug. 5, 1997, 111 Stat. 1062; Pub. L. 107–204, title III, §306(b)(3), July 30, 2002, 116 Stat. 783.)
 
 #### References in Text
 
@@ -146,11 +148,19 @@ Paragraphs (1) and (4) of section 1166 of this title, referred to in subsec. (c)
 
 Section 1021(b)(4) of this title, referred to in subsec. (c)(2), was redesignated section 1021(b)(1) of this title by Pub. L. 105–34, title XV, §1503(a), Aug. 5, 1997, 111 Stat. 1061.
 
-Section 1320b–14 of title 42, referred to in subsec. (c)(7), was repealed by Pub. L. 104–226, §1(a), Oct. 2, 1996, 110 Stat. 3033, and a new section 1320b–14 of title 42, which does not contain a subsec. (c)(8), was enacted by Pub. L. 106–554, §1(a)(6) \[title IX, §911(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583.
+Section 1320b–14 of title 42, referred to in subsec. (c)(8), was repealed by Pub. L. 104–226, §1(a), Oct. 2, 1996, 110 Stat. 3033, and a new section 1320b–14 of title 42, which does not contain a subsec. (c)(8), was enacted by Pub. L. 106–554, §1(a)(6) \[title IX, §911(a)(1)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–583.
 
 This chapter, referred to in subsec. (k), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
+#### Codification
+
+Another section 306(b)(3) of Pub. L. 107–204 is classified to section 7244(b)(3) of Title 15, Commerce and Trade.
+
 #### Amendments
+
+2002—Subsec. (a)(6). Pub. L. 107–204, §306(b)(3)(A), substituted “(5), (6), or (7)” for “(5), or (6)”.
+
+Subsec. (c)(7), (8). Pub. L. 107–204, §306(b)(3)(B), (C), added par. (7) and redesignated former par. (7) as (8).
 
 1997—Subsec. (a)(6). Pub. L. 105–34, §1503(d)(7), substituted “(5), or (6)” for “or (5)”.
 
@@ -208,6 +218,10 @@ Subsec. (i). Pub. L. 100–203, §9344, amended second sentence generally. Prior
 
 Subsec. (g). Pub. L. 96–364, §306(b)(2), redesignated existing provisions as par. (1), inserted exception for actions under paragraph (2), and added par. (2).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–204 effective 180 days after July 30, 2002, see section 7244(c) of Title 15, Commerce and Trade.
+
 #### Effective Date of 1996 Amendments
 
 Amendment by Pub. L. 104–204 applicable with respect to group health plans for plan years beginning on or after Jan. 1, 1998, see section 603(c) of Pub. L. 104–204 set out as a note under section 1003 of this title.
@@ -261,6 +275,10 @@ Secretary authorized, effective Sept. 2, 1974, to promulgate regulations whereve
 #### Effect of Pub. L. 103–401 on Other Provisions
 
 Section 4 of Pub. L. 103–401 provided that: “Nothing in this Act \[amending this section and enacting provisions set out as notes under this section and section 1001 of this title\] shall be construed to limit the legal standing of individuals to bring a civil action as participants or beneficiaries under section 502(a) of the Employee Retirement Income Security Act of 1974 (29 U.S.C. 1132(a)), and nothing in this Act shall affect the responsibilities, obligations, or duties imposed upon fiduciaries by title I of the Employee Retirement Income Security Act of 1974 \[this subchapter\].”
+
+#### Plan Amendments Not Required Until July 30, 2002
+
+For provisions directing that if any amendment made by section 306(b) of Pub. L. 107–204 requires an amendment to any plan, such plan amendment shall not be required to be made before the first plan year beginning on or after July 30, 2002, see section 7244(b)(3) of Title 15, Commerce and Trade.
 
 #### Plan Amendments Not Required Until January 1, 1994
 

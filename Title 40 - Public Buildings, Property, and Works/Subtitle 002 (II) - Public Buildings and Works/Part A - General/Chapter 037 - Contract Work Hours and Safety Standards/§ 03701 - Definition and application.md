@@ -1,0 +1,118 @@
+### §3701. Definition and application
+
+(a)
+
+Definition.—In this chapter, the term “Federal Government” has the same meaning that the term “United States” had in the Contract Work Hours and Safety Standards Act (Public Law 87–581, 76 Stat. 357).
+
+(b)
+
+Application.—
+
+&emsp;(1)
+
+Contracts.—This chapter applies to—
+
+&emsp;&emsp;(A) any contract that may require or involve the employment of laborers or mechanics on a public work of the Federal Government, a territory of the United States, or the District of Columbia; and
+
+&emsp;&emsp;(B) any other contract that may require or involve the employment of laborers or mechanics if the contract is one—
+
+&emsp;&emsp;&emsp;(i) to which the Government, an agency or instrumentality of the Government, a territory, or the District of Columbia is a party;
+
+&emsp;&emsp;&emsp;(ii) which is made for or on behalf of the Government, an agency or instrumentality, a territory, or the District of Columbia; or
+
+&emsp;&emsp;&emsp;(iii) which is a contract for work financed at least in part by loans or grants from, or loans insured or guaranteed by, the Government or an agency or instrumentality under any federal law providing wage standards for the work.
+
+&emsp;(2)
+
+Laborers and mechanics.—This chapter applies to all laborers and mechanics employed by a contractor or subcontractor in the performance of any part of the work under the contract—
+
+&emsp;&emsp;(A) including watchmen, guards, and workers performing services in connection with dredging or rock excavation in any river or harbor of the United States, a territory, or the District of Columbia; but
+
+&emsp;&emsp;(B) not including an employee employed as a seaman.
+
+&emsp;(3)
+
+Exceptions.—
+
+&emsp;&emsp;(A)
+
+This chapter.—This chapter does not apply to—
+
+&emsp;&emsp;&emsp;(i) a contract for—
+
+&emsp;&emsp;&emsp;&emsp;(I) transportation by land, air, or water;
+
+&emsp;&emsp;&emsp;&emsp;(II) the transmission of intelligence; or
+
+&emsp;&emsp;&emsp;&emsp;(III) the purchase of supplies or materials or articles ordinarily available in the open market;
+
+&emsp;&emsp;&emsp;(ii) any work required to be done in accordance with the provisions of the Walsh-Healey Act (41 U.S.C. 35 et seq.); and
+
+&emsp;&emsp;&emsp;(iii) a contract in an amount that is not greater than $100,000.
+
+&emsp;&emsp;(B)
+
+Section 3902 <sup>1</sup>.—Section 3902 <sup>1</sup> of this title does not apply to work where the assistance described in subsection (a)(2)(C) <sup>2</sup> from the Government or an agency or instrumentality is only a loan guarantee or insurance.
+
+(Pub. L. 107–217, Aug. 21, 2002, 116 Stat. 1169.)
+
+Historical and Revision Notes
+
+<i>Revised</i>
+
+<i>Section</i>
+
+<i>Source (U.S. Code)</i>
+
+<i>Source (Statutes at Large)</i>
+
+3701(a)
+
+(no source).
+
+3701(b)(1)
+
+40:329(a) (1st sentence less proviso).
+
+Pub. L. 87–581, title I, §103(a), (b), Aug. 13, 1962, 76 Stat. 358.
+
+3701(b)(2)
+
+40:329(a) (last sentence).
+
+3701(b)(3) (A)(i), (ii)
+
+40:329(b).
+
+3701(b)(3) (A)(iii)
+
+40:329(c).
+
+Pub. L. 87–581, title I, §103(c), as added Pub. L. 103–355, title IV, §4104(c)(1), Oct. 13, 1994, 108 Stat. 3342.
+
+3701(b)(3)(B)
+
+40:329(a) (1st sentence proviso).
+
+Subsection (a) is added for clarity.
+
+In subsection (b)(1), before clause (A), the words “except as otherwise provided” are omitted as unnecessary.
+
+In subsection (b)(2), before clause (A), the words “Except as otherwise expressly provided” are omitted as unnecessary.
+
+In subsection (b)(3)(A)(ii), the words “Walsh-Healey Act” are substituted for \[“\]Walsh-Healey Public Contracts Act” to use the correct short title of the Act.
+
+#### References in Text
+
+The Contract Work Hours and Safety Standards Act, referred to in subsec. (a), is title I of Pub. L. 87–581, Aug. 13, 1962, 76 Stat. 357, as amended, which was classified generally to subchapter II (§327 et seq.) of chapter 5 of former Title 40, Public Buildings, Property, and Works, prior to repeal and reenactment as this chapter by Pub. L. 107–217, §§1, 6(b), Aug. 21, 2002, 116 Stat. 1062, 1304. Section 101 of title I of Pub. L. 87–581 was classified to section 327 of former Title 40 and was repealed and not reenacted by Pub. L. 107–217. For complete classification of this Act to the Code, see Tables.
+
+The Walsh-Healey Act, referred to in subsec. (b)(3)(A)(ii), is act June 30, 1936, ch. 881, 49 Stat. 2036, as amended, which is classified generally to sections 35 to 45 of Title 41, Public Contracts. For complete classification of this Act to the Code, see Short Title note set out under section 35 of Title 41 and Tables. See also section 262 of Title 29, Labor.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in sections 3702, 3703, 3704 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “Section 3702”.</i>
+
+<i><sup>2</sup></i><i> So in original. Probably should be “subsection (b)(1)(B)(iii)”.</i>
+

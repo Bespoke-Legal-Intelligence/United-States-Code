@@ -10,7 +10,7 @@ During any such period each such operator shall be liable for and shall secure t
 
 #### (c) Persons entitled to benefits
 
-Benefits shall be paid during such period by each such operator under this section to the categories of persons entitled to benefits under section 922(a) of this title in accordance with the regulations of the Secretary applicable under this section: <i>Provided</i>, That, except as provided in subsection (i) of this section, no benefit shall be payable by any operator on account of death or total disability due to pneumoconiosis (1) which did not arise, at least in part, out of employment in a mine during a period after December 31, 1969, when it was operated by such operator; or (2) which was the subject of a claim denied before March 1, 1978, and which is or has been approved in accordance with the provisions of section 945 of this title.
+Benefits shall be paid during such period by each such operator under this section to the categories of persons entitled to benefits under section 922(a) of this title in accordance with the regulations of the Secretary applicable under this section: <i>Provided</i>, That, except as provided in subsection (i) of this section, no benefit shall be payable by any operator on account of death or total disability due to pneumoconiosis (1) which did not arise, at least in part, out of employment in a mine during a period after December 31, 1969, when it was operated by such operator; or (2) which was the subject of a claim denied before March 1, 1978, and which is or has been approved in accordance with the provisions of section 945 <sup>2</sup> of this title.
 
 #### (d) Monthly payments; amounts; accrual of interest
 
@@ -64,7 +64,7 @@ Notwithstanding the provisions of this section, section 9501 of title 26 shall g
 
 &emsp;(2) in which the miner's last coal mine employment was before January 1, 1970; or
 
-&emsp;(3) in which there was a claim denied before March 1, 1978, and such claim is or has been approved in accordance with the provisions of section 945 of this title.
+&emsp;(3) in which there was a claim denied before March 1, 1978, and such claim is or has been approved in accordance with the provisions of section 945 <sup>2</sup> of this title.
 
 #### (k) Secretary as party in claim proceedings
 
@@ -72,7 +72,7 @@ The Secretary shall be a party in any proceeding relative to a claim for benefit
 
 #### (<i>l</i>) Filing of new claims or refiling or revalidation of claims of miners already determined eligible at time of death
 
-In no case shall the eligible survivors of a miner who was determined to be eligible to receive benefits under this subchapter at the timeof his or her death be required to file a new claim for benefits, or refile or otherwise revalidate the claim of such miner, except with respect to a claim filed under this part on or after the effective date of the Black Lung Benefits Amendments of 1981,.<sup>2</sup>
+In no case shall the eligible survivors of a miner who was determined to be eligible to receive benefits under this subchapter at the time of his or her death be required to file a new claim for benefits, or refile or otherwise revalidate the claim of such miner, except with respect to a claim filed under this part on or afterthe effective date of the Black Lung Benefits Amendments of 1981,.<sup>3</sup>
 
 (Pub. L. 91–173, title IV, §422, Dec. 30, 1969, 83 Stat. 796; Pub. L. 92–303, §§3(a), (b), 5(2)–(4), (9), 8, May 19, 1972, 86 Stat. 153, 155–157; Pub. L. 95–239, §§3(b)(4), 7(a)–(h), Mar. 1, 1978, 92 Stat. 97–99; Pub. L. 97–119, title I, §104(b)(3)–(5), title II, §§203(a)(6), (b), 204, 205(a), Dec. 29, 1981, 95 Stat. 1639, 1644, 1645; Pub. L. 98–426, §28(h)(2), Sept. 28, 1984, 98 Stat. 1655; Pub. L. 99–514, §2, Oct. 22, 1986, 100 Stat. 2095.)
 
@@ -87,6 +87,8 @@ Section 42 of Public Law 803, referred to in subsec. (a), was repealed by Pub. L
 Section 43 of Public Law 803, referred to in subsec. (a), was repealed by Pub. L. 89-348, §1(15), Nov. 8, 1965, 79 Stat. 1311.
 
 Sections 45, 46, and 47 of Public Law 803, referred to in subsec. (a), were repealed by Pub. L. 98–426, §25, Sept. 28, 1984, 98 Stat. 1654.
+
+Section 945 of this title, referred to in subsecs. (c), (j)(3), was repealed by Pub. L. 107–275, §2(c)(1), Nov. 2, 2002, 116. Stat. 1926.
 
 The effective date of the Black Lung Benefits Amendments of 1981, referred to in subsecs. (d), (g), and (<i>l</i>), is Jan. 1, 1982, except as otherwise provided. See section 206(a) of Pub. L. 97–119, set out as an Effective Date of 1981 Amendment note under section 901 of this title.
 
@@ -142,7 +144,7 @@ Subsec. (h). Pub. L. 92–303, §3(a), substituted “coal mine” for “underg
 
 #### Effective Date of 1984 Amendment
 
-Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed aftersuch date and to claims pending on such date, see section 28(a) of Pub. L. 98–426, set out as a note under section 901 of Title 33, Navigation and Navigable Waters.
+Amendment by Pub. L. 98–426 effective Sept. 28, 1984, and applicable both with respect to claims filed after such date and to claims pending on such date, see section 28(a) of Pub. L. 98–426, set out as a note under section 901 of Title 33, Navigation and Navigable Waters.
 
 #### Effective Date of 1981 Amendment
 
@@ -162,5 +164,7 @@ This section is referred to in sections 902, 925, 931, 933, 934, 935, 943 of thi
 
 <i><sup>1</sup></i><i> So in original.</i>
 
-<i><sup>2</sup></i><i> So in original.</i>
+<i><sup>2</sup></i><i> See References in Text note below.</i>
+
+<i><sup>3</sup></i><i> So in original.</i>
 

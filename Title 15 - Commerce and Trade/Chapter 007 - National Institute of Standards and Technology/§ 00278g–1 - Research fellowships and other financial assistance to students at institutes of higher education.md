@@ -6,7 +6,7 @@ The Director is authorized to expend up to 1 per centum of the funds appropriate
 
 #### Prior Provisions
 
-A prior section 18 of act Mar. 3, 1901, ch. 872, was renumbered section 22 and is classified to section 278h of this title.
+A prior section 18 of act Mar. 3, 1901, ch. 872, was renumbered section 32 and is classified to section 278q of this title.
 
 #### Amendments
 

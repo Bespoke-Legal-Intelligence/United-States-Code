@@ -8,7 +8,7 @@ Each local educational agency that uses or receives funds under this subpart for
 
 Each State educational agency that receives funding under the provisions of law described in section 7345(c) of this title shall—
 
-&emsp;(1) after the third year that a local educational agency in the State participates in a program under this subpart and on the basis of the results of the assessments described in subsection (a) of this section, determine whether the local educational agency participating in the program made adequate yearly progress, as described in section 6311(b)(2) of this title;
+&emsp;(1) after the third year that a local educational agency in the State participates in a program under this subpart and on the basis of the results of the assessments described in subsection (a) of this section, determine whether the local educational agency participating in the program made adequate yearlyprogress, as described in section 6311(b)(2) of this title;
 
 &emsp;(2) permit only those local educational agencies that participated and made adequate yearly progress, as described in section 6311(b)(2) of this title, to continue to participate; and
 

@@ -26,7 +26,7 @@
 
 (d) In determining eligibility for reinstatement in the Federal civil service of persons appointed to positions in the Administration under this chapter who at the time of appointment have a civil-service status, and whose employment in the Administration is terminated, the period of service performed in the Administration shall be included in computing the period of service under applicable civil-service rules and regulations.
 
-(e) In accordance with regulations prescribed by the Secretary, the grade and annual rate of basic pay of a person to whom this section applies whose level of assignment is changed from a level of assignment in which the grade level is based on both the nature of the assignment and personal qualifications may be adjusted to the grade and annual rate of basic pay otherwise appropriate.
+(e) In accordance with regulations prescribed by the Secretary, the grade and annual rate of basic pay of a person to whom this section applies whose level of assignment is changed from a level of assignment in which the grade level isbased on both the nature of the assignment and personal qualifications may be adjusted to the grade and annual rate of basic pay otherwise appropriate.
 
 (f)(1) Upon the recommendation of the Under Secretary for Health, the Secretary may—
 
@@ -38,7 +38,7 @@
 
 (3) Notwithstanding any other provision of this title or other law, all matters relating to adverse actions, disciplinary actions, and grievance procedures involving individuals appointed to such positions (including similar actions and procedures involving an employee in a probationary status) shall be resolved under the provisions of title 5 as though such individuals had been appointed under that title.
 
-(g)(1) The Secretary may appoint in the competitive civil service without regard to the provisions of subchapter I of chapter 33 of title 5\(other than sections 3303 and 3328 of such title) an individual who—
+(g)(1) The Secretary may appoint in the competitive civil service without regard to the provisions of subchapter I of chapter 33 of title 5 (other than sections 3303 and 3328 of such title) an individual who—
 
 &emsp;(A) has a recognized degree or certificate from an accredited institution in a health-care profession or occupation; and
 

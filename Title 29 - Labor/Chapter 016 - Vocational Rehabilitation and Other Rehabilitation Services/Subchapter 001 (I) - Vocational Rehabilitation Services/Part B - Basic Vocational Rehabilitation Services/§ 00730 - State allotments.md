@@ -12,13 +12,13 @@
 
 (2)(A) For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment in an amount equal to the amount such State received under paragraph (1) for the fiscal year ending September 30, 1978, and an additional amount determined pursuant to subparagraph (B) of this paragraph.
 
-(B) For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment, from any amount authorized to be appropriated for such fiscal year under section 720(b)(1) of this title for allotment under this section in excess of the amount appropriated under section 720(b)(1)(A) <sup>1</sup> of this title for the fiscal year ending September 30, 1978, in an amount equal to the sum of—
+(B) For each fiscal year beginning on or after October 1, 1978, each State shall be entitled to an allotment, from any amount authorized to be appropriated for such fiscal year under section 720(b)(1) of this title for allotment under this section in excess of the amount appropriated under section 720(b)(1)(A) <sup>1</sup> of this title for thefiscal year ending September 30, 1978, in an amount equal to the sum of—
 
 &emsp;(i) an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and the square of its allotment percentage bears to the sum of the corresponding products for all the States; and
 
 &emsp;(ii) an amount bearing the same ratio to 50 percent of such excess amount as the product of the population of the State and its allotment percentage bears to the sum of the corresponding products for all the States.
 
-(3) The sum of the payment to any State (other than Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands) under this subsection for any fiscal year which is less than 1/3 of 1 percent of the amount appropriated under section 720(b)(1) of this title, or $3,000,000, whichever is greater,shall be increased to that amount, the total of the increases thereby required being derived by proportionately reducing the allotment to each of the remaining such States under this subsection, but with such adjustments as may be necessary to prevent the sum of the allotments made under this subsection to any such remaining State from being thereby reduced to less than that amount.
+(3) The sum of the payment to any State (other than Guam, American Samoa, the Virgin Islands, and the Commonwealth of the Northern Mariana Islands) under this subsection for any fiscal year which is less than 1/3 of 1 percent of the amount appropriated under section 720(b)(1) of this title, or $3,000,000, whichever is greater, shall be increased to that amount, the total of the increases thereby required being derived by proportionately reducing the allotment to each of the remaining such States under this subsection, but with such adjustments as may be necessary to prevent the sum of the allotments made under this subsection to any such remaining State from being thereby reduced to less than that amount.
 
 #### (b) Unused funds; redistribution; increase in amount
 

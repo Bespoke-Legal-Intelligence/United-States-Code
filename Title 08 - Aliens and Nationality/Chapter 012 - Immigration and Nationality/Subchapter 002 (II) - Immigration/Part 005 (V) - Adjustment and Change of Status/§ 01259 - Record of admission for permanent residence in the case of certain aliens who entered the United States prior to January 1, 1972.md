@@ -1,6 +1,6 @@
 ### §1259. Record of admission for permanent residence in the case of certain aliens who entered the United States prior to January 1, 1972
 
-A record of lawful admission for permanent residence may, in the discretion of the Attorney General and under such regulations as he may prescribe, be made in the case of any alien, as of the date of the approval of his application or, if entry occurred prior to July 1, 1924, as of the date of such entry, if no such record is otherwise available and such alien shall satisfy the Attorney General that he is not inadmissible under section 1182(a)(3)(E) of this title or under section 1182(a) of this title insofar as it relates to criminals, procurers and other immoral persons, subversives, violators of the narcotic laws or smugglers of aliens, and he establishes that he—
+A record of lawful admission for permanent residence may, in the discretion of the Attorney General and under such regulations as he may prescribe, be made in the case of any alien, as of the date of the approval of his application or, if entry occurred prior to July 1, 1924, as of the date of such entry, if no such record is otherwise available and such alien shall satisfy the Attorney General that he is not inadmissible undersection 1182(a)(3)(E) of this title or under section 1182(a) of this title insofar as it relates to criminals, procurers and other immoral persons, subversives, violators of the narcotic laws or smugglers of aliens, and he establishes that he—
 
 &emsp;(a) entered the United States prior to January 1, 1972;
 
@@ -45,6 +45,10 @@ Amendment by Pub. L. 100–525 effective as if included in enactment of Immigrat
 #### Effective Date of 1965 Amendment
 
 For effective date of amendment by Pub. L. 89–236, see section 20 of Pub. L. 89–236, set out as a note under section 1151 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Applicability of Numerical Limitations
 

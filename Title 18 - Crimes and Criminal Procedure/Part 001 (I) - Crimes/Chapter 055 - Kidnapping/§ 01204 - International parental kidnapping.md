@@ -14,7 +14,7 @@
 
 (c) It shall be an affirmative defense under this section that—
 
-&emsp;(1) the defendant acted within the provisions of a valid court order granting the defendant legal custody or visitation rights and that order was obtained pursuant to the Uniform Child Custody Jurisdiction Act and was in effect at the time of the offense;
+&emsp;(1) the defendant acted within the provisions of a valid court order granting the defendantlegal custody or visitation rights and that order was obtained pursuant to the Uniform Child Custody Jurisdiction Act and was in effect at the time of the offense;
 
 &emsp;(2) the defendant was fleeing an incidence or pattern of domestic violence;
 

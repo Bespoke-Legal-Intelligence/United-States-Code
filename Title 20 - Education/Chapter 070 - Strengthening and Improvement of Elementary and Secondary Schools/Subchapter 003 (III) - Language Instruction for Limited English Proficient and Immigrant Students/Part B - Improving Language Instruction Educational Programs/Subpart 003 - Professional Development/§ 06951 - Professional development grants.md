@@ -96,7 +96,7 @@ Grants awarded under this section shall be used to conduct high-quality professi
 
 #### (2) Grants to institutions of higher education
 
-&emsp;In awarding grants to institutions of higher education under this section, the Secretary shall give priority to institutions that propose programs and activities to recruit and upgrade the qualifications and skills of certified and non-certified educational personnel by offering degree programs that prepare beginning teachers to serve limited English proficient children.
+&emsp;In awarding grants to institutions of higher education under this section, the Secretary shall give priority to institutions that propose programs and activities to recruit and upgrade the qualifications and skills of certified and non-certified educational personnel by offering degree programs that prepare beginningteachers to serve limited English proficient children.
 
 #### (f) Program evaluations
 

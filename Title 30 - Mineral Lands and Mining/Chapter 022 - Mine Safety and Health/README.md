@@ -302,7 +302,7 @@
 | [901\.](Subchapter%20004%20%28IV%29%20-%20Black%20Lung%20Benefits/Part%20A%20-%20General%20Provisions/%C2%A7%2000901%20-%20Congressional%20findings%20and%20declaration%20of%20purpose%3B%20short%20title.md) | Congressional findings and declaration of purpose; short title. |
 | [902\.](Subchapter%20004%20%28IV%29%20-%20Black%20Lung%20Benefits/Part%20A%20-%20General%20Provisions/%C2%A7%2000902%20-%20Definitions.md) | Definitions. |
 | [903\.](Subchapter%20004%20%28IV%29%20-%20Black%20Lung%20Benefits/Part%20A%20-%20General%20Provisions/%C2%A7%2000903%20-%20Field%20offices.md) | Field offices. |
-| [904\.](Subchapter%20004%20%28IV%29%20-%20Black%20Lung%20Benefits/Part%20A%20-%20General%20Provisions/%C2%A7%2000904%20-%20Information%20to%20potential%20beneficiaries%20of%20changes%20made%20by%20Black%20Lung%20Benefits%20Reform%20Act%20of%201977.md) | Information to potential beneficiaries of changes made by Black Lung Benefits Reform Act of 1977. |
+| [904\.](Subchapter%20004%20%28IV%29%20-%20Black%20Lung%20Benefits/Part%20A%20-%20General%20Provisions/%C2%A7%2000904%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93275%2C%20%C2%A72%28c%29%282%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201926.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -330,7 +330,7 @@
 | (c) | Effective date of claims. |
 | (d) | Reduction of State benefits. |
 | (e) | Conditions upon payment. |
-| [924a.](Subchapter%20004%20%28IV%29%20-%20Black%20Lung%20Benefits/Part%20B%20-%20Claims%20for%20Benefits%20Filed%20on%20or%20Before%20December%2031%2C%201973/%C2%A7%2000924a%20-%20Notification%20to%20miners%20of%20eligibility%20for%20medical%20services%20and%20supplies%3B%20period%20for%20filing%20claim.md) | Notification to miners of eligibility for medical services and supplies; period for filing claim. |
+| [924a.](Subchapter%20004%20%28IV%29%20-%20Black%20Lung%20Benefits/Part%20B%20-%20Claims%20for%20Benefits%20Filed%20on%20or%20Before%20December%2031%2C%201973/%C2%A7%2000924a%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93275%2C%20%C2%A72%28c%29%282%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201926.md) | Repealed. |
 | [925\.](Subchapter%20004%20%28IV%29%20-%20Black%20Lung%20Benefits/Part%20B%20-%20Claims%20for%20Benefits%20Filed%20on%20or%20Before%20December%2031%2C%201973/%C2%A7%2000925%20-%20Procedure%20for%20the%20determination%20of%20claims%20during%20transition%20period.md) | Procedure for the determination of claims during transition period. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -392,10 +392,7 @@
 | (h) | Omitted. |
 | (i) | Authorization of appropriations. |
 | [944\.](Subchapter%20004%20%28IV%29%20-%20Black%20Lung%20Benefits/Part%20C%20-%20Claims%20for%20Benefits%20After%20December%2031%2C%201973/%C2%A7%2000944%20-%20Statement%20of%20reasons%20for%20denial%20of%20claim.md) | Statement of reasons for denial of claim. |
-| [945\.](Subchapter%20004%20%28IV%29%20-%20Black%20Lung%20Benefits/Part%20C%20-%20Claims%20for%20Benefits%20After%20December%2031%2C%201973/%C2%A7%2000945%20-%20Review%20of%20claims%20pending%20on%2C%20or%20denied%20on%20or%20before%2C%20March%201%2C%201978.md) | Review of claims pending on, or denied on or before, March 1, 1978. |
-| (a) | Notification to claimants; review by Commissioner of Social Security taking into account amendments made by Black Lung Benefits Reform Act of 1977; referral. |
-| (b) | Review by Secretary of Labor. |
-| (c) | Award of benefits on retroactive basis. |
+| [945\.](Subchapter%20004%20%28IV%29%20-%20Black%20Lung%20Benefits/Part%20C%20-%20Claims%20for%20Benefits%20After%20December%2031%2C%201973/%C2%A7%2000945%20-%20Repealed.%20Pub.%20L.%20107%E2%80%93275%2C%20%C2%A72%28c%29%281%29%2C%20Nov.%202%2C%202002%2C%20116%20Stat.%201926.md) | Repealed. |
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 

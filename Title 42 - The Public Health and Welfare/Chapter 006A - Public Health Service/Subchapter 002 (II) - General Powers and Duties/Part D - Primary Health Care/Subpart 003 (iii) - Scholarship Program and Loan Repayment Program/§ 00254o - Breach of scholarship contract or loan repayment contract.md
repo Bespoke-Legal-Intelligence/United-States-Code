@@ -4,19 +4,17 @@
 
 (1) An individual who has entered into a written contract with the Secretary under section 254<i>l</i> of this title and who—
 
-&emsp;(A) fails to maintain an acceptable level of academic standing in the educational institution in which he is enrolled (such level determined by the educational institution under regulations of the Secretary),
+&emsp;(A) fails to maintain an acceptable level of academic standing in the educational institution in which he is enrolled (such level determined by the educational institution under regulations of the Secretary);
 
-&emsp;(B) is dismissed from such educational institution for disciplinary reasons,
+&emsp;(B) is dismissed from such educational institution for disciplinary reasons; or
 
-&emsp;(C) voluntarily terminates the training in such an educational institution for which he is provided a scholarship under such contract, before the completion of such training, or
-
-&emsp;(D) fails to accept payment, or instructs the educational institution in which he is enrolled not to accept payment, in whole or in part, of a scholarship under such contract,
+&emsp;(C) voluntarily terminates the training in such an educational institution for which he is provided a scholarship under such contract, before the completion of such training,
 
 > in lieu of any service obligation arising under such contract, shall be liable to the United States for the amount which has been paid to him, or on his behalf, under the contract.
 
 (2) An individual who has entered into a written contract with the Secretary under section 254<i>l</i>–1 of this title and who—
 
-&emsp;(A) in the case of an individual who is enrolled in the final year of a course of study, fails to maintain an acceptable level of academic standing in the educational institution in which such individual is enrolled (such leveldetermined by the educational institution under regulations of the Secretary) or voluntarily terminates such enrollment or is dismissed from such educational institution before completion of such course of study; or
+&emsp;(A) in the case of an individual who is enrolled in the final year of a course of study, fails to maintain an acceptable level of academic standing in the educational institutionin which such individual is enrolled (such level determined by the educational institution under regulations of the Secretary) or voluntarily terminates such enrollment or is dismissed from such educational institution before completion of such course of study; or
 
 &emsp;(B) in the case of an individual who is enrolled in a graduate training program, fails to complete such training program and does not receive a waiver from the Secretary under section 254<i>l</i>–1(b)(1)(B)(ii) of this title,
 
@@ -24,7 +22,7 @@
 
 #### (b) Failure to commence or complete service obligations; formula to determine liability; payment to United States; recovery of delinquent damages; disclosure to credit reporting agencies
 
-(1)(A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or section 254p(d) <sup>1</sup> of this title) either to begin such individual's service obligation under section 254<i>l</i> of this title in accordance with section 254m or 254n of this title or to complete such service obligation, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
+(1)(A) Except as provided in paragraph (2), if an individual breaches his written contract by failing (for any reason not specified in subsection (a) of this section or section 254p(d) of this title) to begin such individual's service obligation under section 254<i>l</i> of this title in accordance with section 254m or 254n of this title, to complete such service obligation, or to complete a required residency as specified in section 254<i>l</i>(f)(1)(B)(iv) of this title, the United States shall be entitled to recover from the individual an amount determined in accordance with the formula
 
 ### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;t−s
 
@@ -48,33 +46,31 @@
 
 (2) If an individual is released under section 254n <sup>1</sup> of this title from a service obligation under section 234 <sup>1</sup> of this title (as in effect on September 30, 1977) and if the individual does not meet the service obligation incurred under section 254n <sup>1</sup> of this title, subsection (f) of such section 234 <sup>1</sup> of this title shall apply to such individual in lieu of paragraph (1) of this subsection.
 
+(3) The Secretary may terminate a contract with an individual under section 254<i>l</i> of this title if, not later than 30 days before the end of the school year to which the contract pertains, the individual—
+
+&emsp;(A) submits a written request for such termination; and
+
+&emsp;(B) repays all amounts paid to, or on behalf of, the individual under section 254<i>l</i>(g) of this title.
+
 #### (c) Failure to commence or complete service obligations for other reasons; determination of liability; payment to United States; waiver of recovery for extreme hardship or good cause shown
 
-(1) If (for any reason not specified in subsection (a) of this section or section 254p(d) <sup>1</sup> of this title) an individual breaches the written contract of the individual under section 254<i>l</i>–1 of this title by failing either to begin such individual's service obligation in accordance with section 254m or 254n of this title or to complete such service obligation, the United States shall be entitled to recover from the individual an amount equal to the sum of—
+(1) If (for any reason not specified in subsection (a) of this section or section 254p(d) of this title) an individual breaches the written contract of the individual under section 254<i>l</i>–1 of this title by failing either to begin such individual's service obligation in accordance with section 254m or 254n of this title or to complete such service obligation, the United States shall be entitled to recover from the individual an amount equal to the sum of—
 
-&emsp;(A) in the case of a contract for a 2-year period of obligated service—
+&emsp;(A) the total of the amounts paid by the United States under section 254<i>l</i>–1(g) of this title on behalf of the individual for any period of obligated service not served;
 
-&emsp;&emsp;(i) the total of the amounts paid by the United States under section 254<i>l</i>–1(g)(2) of this title on behalf of the individual for any period of obligated service; and
+&emsp;(B) an amount equal to the product of the number of months of obligated service that were not completed by the individual, multiplied by $7,500; and
 
-&emsp;&emsp;(ii) an amount equal to the unserved obligation penalty;
+&emsp;(C) the interest on the amounts described in subparagraphs (A) and (B), at the maximum legal prevailing rate, as determined by the Treasurer of the United States, from the date of the breach;
 
-&emsp;(B) in the case of a contract for a period of obligated service of greater than 2 years, and the breach occurs before the end of the first 2 years of such period—
+> except that the amount the United States is entitled to recover under this paragraph shall not be less than $31,000.
 
-&emsp;&emsp;(i) the total of the amounts paid by the United States under section 254<i>l</i>–1(g)(2) of this title on behalf of the individual for any period of obligated service; and
+(2) The Secretary may terminate a contract with an individual under section 254<i>l</i>–1 of this title if, not later than 45 days before the end ofthe fiscal year in which the contract was entered into, the individual—
 
-&emsp;&emsp;(ii) an amount equal to the unserved obligation penalty; and
+&emsp;(A) submits a written request for such termination; and
 
-&emsp;(C) in the case of a contract for a period of obligated service of greater than 2 years, and the breach occurs after the first 2 years of such period—
+&emsp;(B) repays all amounts paid on behalf of the individual under section 254<i>l</i>–1(g) of this title.
 
-&emsp;&emsp;(i) the total of the amounts paid by the United States under section 254<i>l</i>–1(g)(2) of this title on behalf of the individual for any period of obligated service not served; and
-
-&emsp;&emsp;(ii) if the individual breaching the contract failed to give the Secretary notice, that the individual intends to take action which constitutes a breach of the contract,at least 1 year (or such shorter period of time as the Secretary determines is adequate for finding a replacement) prior to the breach, $10,000.
-
-(2) For purposes of paragraph (1), the term “unserved obligation penalty” means the amount equal to the product of the number of months of obligated service that were not completed by an individual, multiplied by $1,000, except that in any case in which the individual fails to serve 1 year, the unserved obligation penalty shall be equal to the full period of obligated service multiplied by $1,000.
-
-(3) The Secretary may waive, in whole or in part, the rights of the United States to recover amounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary.
-
-(4) Damages that the United States is entitled to recover shall be paid in accordance with subsection (b)(1)(B) of this section.
+(3) Damages that the United States is entitled to recover shall be paid in accordance with subsection (b)(1)(B) of this section.
 
 #### (d) Cancellation of obligation upon death of individual; waiver or suspension of obligation for impossibility, hardship, or unconscionability; release of debt by discharge in bankruptcy, time limitations
 
@@ -82,17 +78,19 @@
 
 (2) The Secretary shall by regulation provide for the partial or total waiver or suspension of any obligation of service or payment by an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) whenever compliance by the individual is impossible or would involve extreme hardship to the individual and if enforcement of such obligation with respect to any individual would be unconscionable.
 
-(3)(A) Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for payment of damages may be released by a discharge in bankruptcy under title 11 only if such discharge is granted after the expiration of the five-year period beginning on the first date that payment of such damages is required, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable.
+(3)(A) Any obligation of an individual under the Scholarship Program (or a contract thereunder) or the Loan Repayment Program (or a contract thereunder) for payment of damages may be released by a discharge in bankruptcy under title 11 only if such discharge is granted after the expiration of the 7-year period beginning on the first date that payment of such damages is required, and only if the bankruptcy court finds that nondischarge of the obligation would be unconscionable.
 
 (B)(i) Subparagraph (A) shall apply to any financial obligation of an individual under the provision of law specified in clause (ii) to the same extent and in the same manner as such subparagraph applies to any obligation of an individual under the Scholarship or Loan Repayment Program (or contract thereunder) for payment of damages.
 
 (ii) The provision of law referred to in clause (i) is subsection (f) of section 234 <sup>2</sup> of this title, as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484.
 
-(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027.)
+#### (e) Inapplicability of Federal and State statute of limitations on actions for collection
+
+Notwithstanding any other provision of Federal or State law, there shall be no limitation on the period within which suit may be filed, a judgment may be enforced, or an action relating to an offset or garnishment, or other action, may be initiated or taken by the Secretary, the Attorney General, or the head of another Federal agency, as the case may be, for the repayment of the amount due from an individual under this section.
+
+(July 1, 1944, ch. 373, title III, §338E, formerly title VII, §754, as added Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2286; amended Pub. L. 95–83, title III, §307(g), Aug. 1, 1977, 91 Stat. 391; renumbered §338D and amended Pub. L. 97–35, title XXVII, §2709(a), (e)(1)–(4)(A), Aug. 13, 1981, 95 Stat. 908, 911; Pub. L. 97–414, §8(g)(2), Jan. 4, 1983, 96 Stat. 2061; renumbered §338E and amended Pub. L. 100–177, title II, §§201(2), 202(e), title III, §308(a), Dec. 1, 1987, 101 Stat. 992, 997, 1006; Pub. L. 100–203, title IV, §4052(b), Dec. 22, 1987, 101 Stat. 1330–97; Pub. L. 100–360, title IV, §411(f)(10)(B), July 1, 1988, 102 Stat. 780; Pub. L. 101–597, title II, §203(a), Nov. 16, 1990, 104 Stat. 3027; Pub. L. 107–251, title III, §313(a), Oct. 26, 2002, 116 Stat. 1651.)
 
 #### References in Text
-
-Section 254p of this title, referred to in subsecs. (b)(1)(A) and (c)(1), was in the original a reference to section 338F of act July 1, 1944, which was renumbered section 338G by Pub. L. 101–597, title II, §204, Nov. 16, 1990, 104 Stat. 3027.
 
 Section 234 of this title, referred to in subsecs. (b)(2) and (d)(3)(B)(ii), was repealed by Pub. L. 94–484, title IV, §408(b)(1), Oct. 12, 1976, 90 Stat. 2281, effective Oct. 1, 1977.
 
@@ -107,6 +105,26 @@ Section was formerly classified to section 294w of this title prior to its renum
 A prior section 338E of act July 1, 1944, was renumbered section 338F by Pub. L. 100–177 and classified to section 254p of this title, and subsequently renumbered 338G by Pub. L. 101–597.
 
 #### Amendments
+
+2002—Subsec. (a)(1). Pub. L. 107–251, §313(a)(1), substituted semicolon for comma at end of subpar. (A) and “; or” for comma at end of subpar. (B), struck out “or” at end of subpar. (C), and struck out subpar. (D) which read as follows: “fails to accept payment, or instructs the educational institution in which he is enrolled not to accept payment, in whole or in part, of a scholarship under such contract,”.
+
+Subsec. (b)(1)(A). Pub. L. 107–251, §313(a)(2)(A)(ii)–(iv), struck out “either” before “to begin”, substituted “254n of this title,” for “254n of this title or”, and inserted “or to complete a required residency as specified in section 254<i>l</i>(f)(1)(B)(iv) of this title,” before “the United States” the first time appearing.
+
+Pub. L. 107–251, §313(a)(2)(A)(i), made technical amendment to reference in original act which appears in text as reference to section 254p of this title.
+
+Subsec. (b)(3). Pub. L. 107–251, §313(a)(2)(B), added par. (3).
+
+Subsec. (c)(1). Pub. L. 107–251, §313(a)(3)(A)(ii), added subpars. (A) to (C) and concluding provisions and struck out former subpars. (A) to (C) which related, respectively, to amounts to be recovered in the case of a contract for a 2-year period of obligated service, in the case of a contract for a period of obligated service of greater than 2 years where the breach occurred before the end of the first 2 years of such period, and in the case of a contract for a period of obligated service of greater than 2 years, where the breach occurred after the first 2 years of such period.
+
+Pub. L. 107–251, §313(a)(3)(A)(i), in introductory provisions, made technical amendment to reference in original act which appears in text as reference to section 254p(d) of this title.
+
+Subsec. (c)(2). Pub. L. 107–251, §313(a)(3)(B), added par. (2) and struck out former par. (2) which read as follows:“For purposes of paragraph (1), the term ‘unserved obligation penalty’ means the amount equal to the product of the number of months of obligated service that were not completed by an individual, multiplied by $1,000, except that in any case in which the individual fails to serve 1 year, the unserved obligation penalty shall be equal to the full period of obligated service multiplied by $1,000.”
+
+Subsec. (c)(3), (4). Pub. L. 107–251, §313(a)(3)(B), (C), redesignated par. (4) as (3) and struck out former par. (3) which read as follows: “The Secretary may waive, in whole or in part, the rights of the United States to recover amounts under this section in any case of extreme hardship or other good cause shown, as determined by the Secretary.”
+
+Subsec. (d)(3)(A). Pub. L. 107–251, §313(a)(4), substituted “7-year period” for “five-year period”.
+
+Subsec. (e). Pub. L. 107–251, §313(a)(5), added subsec. (e).
 
 1990—Subsec. (d)(3). Pub. L. 101–597 designated existing provision as subpar. (A) and added subpar. (B).
 
@@ -134,6 +152,10 @@ Subsecs. (c), (d). Pub. L. 97–35, §2709(e)(1), (4)(A), redesignated subsec. (
 
 1977—Subsec. (c). Pub. L. 95–83 substituted “ ‘φ’ is the sum of the amounts paid under this subpart to or on behalf of the individual and the interest on such amounts which would be payable if at the time the amounts were paid they were loans” for “ ‘φ’ is the sum of the amount paid under this subpart to or on behalf of the individual and the interest on such amount which would be payable if at the time it was paid it was a loan”.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–251, title III, §313(b), Oct. 26, 2002, 116 Stat. 1652, provided that: “The amendment made by subsection (a)(4) \[amending this section\] shall apply to any obligation for which a discharge in bankruptcy has not been granted before the date that is 31 days after the date of enactment of this Act \[Oct. 26, 2002\].”
+
 #### Effective Date of 1990 Amendment
 
 Section 203(b) of Pub. L. 101–597 provided that: “With respect to any financial obligation of an individual under subsection (f) of section 225 of the Public Health Service Act \[former section 234 of this title\], as in effect prior to the repeal of such section by section 408(b)(1) of Public Law 94–484, the amendment made by subsection (a) of this section \[amending this section\] applies to any backruptcy \[sic\] proceeding in which discharge of such an obligation has not been granted before the date that is 31 days after the date of the enactment of this Act \[Nov. 16, 1990\].”
@@ -160,7 +182,7 @@ Section 308(b) of Pub. L. 100–177 provided that: “The amendment made by subs
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 254<i>l</i>, 254<i>l</i>–1, 254<i>o</i>–1, 254p, 287c–33, 288–2, 288–4, 288–5, 288–5a, 288–6, 1395ccc of this title.
+This section is referred to in sections 254d, 254<i>l</i>, 254<i>l</i>–1, 254<i>o</i>–1, 254p, 287c–33, 288–2, 288–4, 288–5, 288–5a, 288–6, 1395ccc of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

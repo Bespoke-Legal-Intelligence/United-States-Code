@@ -4,7 +4,7 @@
 
 At any time, the owner or operator of an existing electric powerplant may certify to the Secretary, for purposes of subsection (b) of this section—
 
-&emsp;(1) whether or not such powerplant has or previously had the technical capability to usecoal or another alternate fuel as a primary energy source;
+&emsp;(1) whether or not such powerplant has or previously had the technical capability to use coal or another alternate fuel as a primary energy source;
 
 &emsp;(2) whether or not such powerplant could have the technical capability to use coal or another alternate fuel as a primary energy source without having—
 
@@ -20,7 +20,7 @@ The Secretary may prohibit, in accordance with section 8343(a) or (b) of this ti
 
 #### (c) Authority of Secretary to prohibit excessive use in mixtures
 
-At any time, the owner or operator of an existing electric powerplant may certify to the Secretary for purposes of this subsection whether or not it is technically and financially feasible to use a mixture of petroleum or natural gas and coal or another alternate fuel as a primary energy source in that powerplant. If an affirmative certification under this subsection is in effect with respect to such powerplant and if, after examining the basis for the certification, the Secretary concurs with the certification, the Secretary may prohibit, in accordance with section 8343(a) of this section, the use of petroleum or natural gas, or both, in such powerplant in amounts in excess of the minimum amount necessary to maintain reliability of operation of the unit consistent with maintaining reasonable fuel efficiency of such mixture.
+At any time, the owner or operator of an existing electric powerplant may certify to the Secretary for purposes of this subsection whether or not it is technically and financially feasible to use a mixture of petroleum or natural gas and coal or another alternate fuel as a primary energy source in that powerplant. If an affirmative certification under this subsection is in effect with respect to such powerplant and if, after examining the basis for the certification, the Secretary concurs with the certification, the Secretary may prohibit, in accordance with section 8343(a) of this title, the use of petroleum or natural gas, or both, in such powerplant in amounts in excess of the minimum amount necessary to maintain reliability of operation of the unit consistent with maintaining reasonable fuel efficiency of such mixture.
 
 #### (d) Amendment of subsection (a) and (c) certifications
 
@@ -30,7 +30,7 @@ The owner or operator of any such powerplant may at any time amend any certifica
 
 #### Prior Provisions
 
-A prior section 8341, Pub. L. 95–620, title III, §301, Nov. 9, 1978, 92 Stat. 3305, related to existing electric powerplants, prior to repeal by Pub. L. 97–35, title X, §1021(a), Aug. 13, 1981, 95 Stat. 614.
+A prior section 8341, Pub. L. 95–620, title III, §301, Nov. 9, 1978, 92 Stat. 3305, related to existing electricpowerplants, prior to repeal by Pub. L. 97–35, title X, §1021(a), Aug. 13, 1981, 95 Stat. 614.
 
 #### Effective Date
 

@@ -76,7 +76,7 @@
 
 &emsp;(C) coordinate victim services provided by the Federal Government with victim services offered by other public agencies and nonprofit organizations;
 
-&emsp;(D) perform such other functions related to the purposes of this title as the Director deems appropriate; and
+&emsp;(D) perform such other functions related to the purposes of this title <sup>3</sup> as the Director deems appropriate; and
 
 &emsp;(E) use funds made available to the Director under this subsection—
 
@@ -123,6 +123,8 @@ As used in this section—
 #### References in Text
 
 Section 10601(d)(2) of this title, referred to in subsec. (a)(1), was repealed and a new section 10601(d)(2) was added by Pub. L. 103–322, title XXIII, §230201(a)(1), Sept. 13, 1994, 108 Stat. 2079. The new section 10601(d)(2) does not contain provisions relating to availability of Fund money for grants under this section or section 10602 of this title. See section 10601(d)(4) of this title.
+
+This title, referred to in subsec. (c)(3)(D), means title II of Pub. L. 98–473, Oct. 12, 1984, 98 Stat. 1976, known as the Comprehensive Crime Control Act of 1984. For complete classification of title II to the Code, see Short Title of 1984 Amendment note set out under section 1 of Title 18, Crimes and Criminal Procedure, and Tables.
 
 #### Amendments
 
@@ -192,7 +194,7 @@ Subsec. (c)(3). Pub. L. 99–401, §102(b)(4), substituted “The Assistant Atto
 
 #### Effective Date of 1988 Amendment
 
-Amendment by sections 7122, 7123(b)(4)–(9), 7127, and 7128 of Pub. L. 100–690 not applicable with respect to a State compensation program that was an eligible State crime victim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as a note under section 10601 of this title.
+Amendment by sections 7122, 7123(b)(4)–(9), 7127, and 7128 of Pub. L. 100–690 not applicable with respect to aState compensation program that was an eligible State crime victim compensation program on Nov. 18, 1988, until Oct. 1, 1991, see section 7129 of Pub. L. 100–690, as amended, set out as a note under section 10601 of this title.
 
 #### Section Referred to in Other Sections
 
@@ -201,4 +203,6 @@ This section is referred to in sections 10601, 10603a, 10603b, 10605 of this tit
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 
 <i><sup>2</sup></i><i> So in original. The comma probably should not appear.</i>
+
+<i><sup>3</sup></i><i> See References in Text note below.</i>
 

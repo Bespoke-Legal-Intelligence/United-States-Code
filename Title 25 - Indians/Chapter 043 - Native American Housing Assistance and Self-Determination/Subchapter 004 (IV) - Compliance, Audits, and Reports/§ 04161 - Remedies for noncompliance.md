@@ -68,7 +68,7 @@
 
 #### (1) Authority
 
-&emsp;In lieu of, or in addition to, any action authorized by subsection (a) of this section, if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretarymay refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
+&emsp;In lieu of, or in addition to, any action authorized by subsection (a) of this section, if the Secretary has reason to believe that a recipient has failed to comply substantially with any provision of this chapter, the Secretary may refer the matter to the Attorney General of the United States with a recommendation that an appropriate civil action be instituted.
 
 #### (2) Civil action
 

@@ -80,15 +80,31 @@
 
 > &emsp;but nothing in this paragraph shall except from discharge the debt of a debtor for a membership association fee or assessment for a period arising before entry of the order for relief in a pending or subsequent bankruptcy case;
 
-&emsp;(17) for a fee imposed by a court for the filing of a case, motion, complaint, or appeal, or for other costs and expenses assessed with respect to such filing, regardless of an assertion of poverty by the debtor under section 1915(b) or (f) of title 28, or the debtor's status as a prisoner, as defined in section 1915(h) of title 28; or
+&emsp;(17) for a fee imposed by a court for the filing of a case, motion, complaint, or appeal, or for other costs and expenses assessed with respect to such filing, regardless of an assertion of poverty by the debtor under section 1915(b) or (f) of title 28, or the debtor's status as a prisoner, as defined in section 1915(h) of title 28;
 
 &emsp;(18) owed under State law to a State or municipality that is—
 
 &emsp;&emsp;(A) in the nature of support, and
 
-&emsp;&emsp;(B) enforceable under part D of title IV of the Social Security Act (42 U.S.C. 601 et seq.).
+&emsp;&emsp;(B) enforceable under part D of title IV of the Social Security Act (42 U.S.C. 601 et seq.); or
 
-(b) Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A <sup>1</sup> of the Higher Education Act of 1965, or under section 733(g) <sup>1</sup> of the Public Health Service Act in a prior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
+&emsp;(19) that—
+
+&emsp;&emsp;(A) is for—
+
+&emsp;&emsp;&emsp;(i) the violation of any of the Federal securities laws (as that term is defined in section 3(a)(47) of the Securities Exchange Act of 1934), any of the State securities laws, or any regulation or order issued under such Federal or State securities laws; or
+
+&emsp;&emsp;&emsp;(ii) common law fraud, deceit, or manipulation in connection with the purchase or sale of any security; and
+
+&emsp;&emsp;(B) results from—
+
+&emsp;&emsp;&emsp;(i) any judgment, order, consent order, or decree entered in any Federal or State judicial or administrative proceeding;
+
+&emsp;&emsp;&emsp;(ii) any settlement agreement entered into by the debtor; or
+
+&emsp;&emsp;&emsp;(iii) any court or administrative order for any damages, fine, penalty, citation, restitutionary payment, disgorgement payment, attorney fee, cost, or other payment owed by the debtor.
+
+(b) Notwithstanding subsection (a) of this section, a debt that was excepted from discharge under subsection (a)(1), (a)(3), or (a)(8) of this section, under section 17a(1), 17a(3), or 17a(5) of the Bankruptcy Act, under section 439A <sup>1</sup> of the Higher Education Act of 1965, or under section 733(g) <sup>1</sup> of the Public Health Service Act in aprior case concerning the debtor under this title, or under the Bankruptcy Act, is dischargeable in a case under this title unless, by the terms of subsection (a) of this section, such debt is not dischargeable in the case under this title.
 
 (c)(1) Except as provided in subsection (a)(3)(B) of this section, the debtor shall be discharged from a debt of a kind specified in paragraph (2), (4), (6), or (15) of subsection (a) of this section, unless, on request of the creditor to whom such debt is owed, and after notice and a hearing, the court determines such debt to be excepted from discharge under paragraph (2), (4), (6), or (15), as the case may be, of subsection (a) of this section.
 
@@ -98,7 +114,7 @@
 
 (e) Any institution-affiliated party of a <sup>2</sup> insured depository institution shall be considered to be acting in a fiduciary capacity with respect to the purposes of subsection (a)(4) or (11).
 
-(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837.)
+(Pub. L. 95–598, Nov. 6, 1978, 92 Stat. 2590; Pub. L. 96–56, §3, Aug. 14, 1979, 93 Stat. 387; Pub. L. 97–35, title XXIII, §2334(b), Aug. 13, 1981, 95 Stat. 863; Pub. L. 98–353, title III, §§307, 371, 454, July 10, 1984, 98 Stat. 353, 364, 375; Pub. L. 99–554, title II, §§257(n), 281, 283(j), Oct. 27, 1986, 100 Stat. 3115–3117; Pub. L. 101–581, §2(a), Nov. 15, 1990, 104 Stat. 2865; Pub. L. 101–647, title XXV, §2522(a), title XXXI, §3102(a), title XXXVI, §3621, Nov. 29, 1990, 104 Stat. 4865, 4916, 4964; Pub. L. 103–322, title XXXII, §320934, Sept. 13, 1994, 108 Stat. 2135; Pub. L. 103–394, title II, §221, title III, §§304(e), (h)(3), 306, 309, title V, §501(d)(13), Oct. 22, 1994, 108 Stat. 4129, 4133–4135, 4137, 4145; Pub. L. 104–134, title I, §101\[(a)\] \[title VIII, §804(b)\], Apr. 26, 1996, 110 Stat. 1321, 1321–74; renumbered title I, Pub. L. 104–140, §1(a), May 2, 1996, 110 Stat. 1327; Pub. L. 104–193, title III, §374(a), Aug. 22, 1996, 110 Stat. 2255; Pub. L. 105–244, title IX, §971(a), Oct. 7, 1998, 112 Stat. 1837; Pub. L. 107–204, title VIII, §803, July 30, 2002, 116 Stat. 801.)
 
 #### Historical and Revision Notes
 
@@ -114,7 +130,7 @@ Section 523(a)(4) of the House amendment represents a compromise between the Hou
 
 Section 523(a)(5) is a compromise between the House bill and the Senate amendment. The provision excepts from discharge a debt owed to a spouse, former spouse or child of the debtor, in connection with a separation agreement, divorce decree, or property settlement agreement, for alimony to, maintenance for, or support of such spouse or child but not to the extent that the debt is assigned to another entity. If the debtor has assumed an obligation of the debtor's spouse to a third party in connection with a separation agreement, property settlement agreement, or divorce proceeding, such debt is dischargeable to the extent that payment of the debt by the debtor is not actually in the nature of alimony, maintenance, or support of debtor's spouse, former spouse, or child.
 
-Section 523(a)(6) adopts the position taken in the House bill and rejects the alternative suggested in the Senate amendment. The phrase “willful and malicious injury” covers a willful and malicious conversion.
+Section 523(a)(6) adopts the position taken in the House bill and rejects the alternative suggested in theSenate amendment. The phrase “willful and malicious injury” covers a willful and malicious conversion.
 
 Section 523(a)(7) of the House amendment adopts the position taken in the Senate amendment and rejects the position taken in the House bill. A penalty relating to a tax cannot be nondischargeable unless the tax itself is nondischargeable.
 
@@ -148,7 +164,7 @@ Also included are tax payments due under an agreement for deferred payment of ta
 
 The above categories of nondischargeability apply to customs duties as well as to taxes.
 
-Paragraph (2) provides that as under Bankruptcy Act §17a(2) \[section 35(a)(2) of former title 11\], a debt for obtaining money, property, services, or a refinancing extension or renewal of credit by false pretenses, a false representation, or actual fraud, or by use of a statement in writing respecting the debtor's financial condition that is materially false, on which the creditor reasonably relied, and which the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, “actual fraud” is added as a ground for exception from discharge. Second, the creditor must not only have relied on a false statement in writing, but the reliance must have been reasonable. This codifies case law construing present section 17a(2). Third, the phrase “in any manner whatsoever” that appears in current law after “made or published” is deleted as unnecessary, the word “published” is used in the same sense that it is used in defamation cases.
+Paragraph (2) provides that as under Bankruptcy Act §17a(2) \[section 35(a)(2) of former title 11\], a debt for obtaining money, property, services, or a refinancing extension or renewal of credit by false pretenses, a false representation, or actual fraud, or by use of a statement in writing respecting the debtor's financial condition that is materially false, on which the creditor reasonably relied, and which the debtor made or published with intent to deceive, is excepted from discharge. This provision is modified only slightly from current section 17a(2). First, “actual fraud” is added as a ground for exception from discharge. Second, the creditor must not only have relied on a false statement in writing, but the reliance must have been reasonable. This codifiescase law construing present section 17a(2). Third, the phrase “in any manner whatsoever” that appears in current law after “made or published” is deleted as unnecessary, the word “published” is used in the same sense that it is used in defamation cases.
 
 Unscheduled debts are excepted from discharge under paragraph (3). The provision, derived from section 17a(3) \[section 35(a)(3) of former title 11\], follows current law, but clarifies some uncertainties generated by the case law construing 17a(3). The debt is excepted from discharge if it was not scheduled in time to permit timely action by the creditor to protect his rights, unless the creditor had notice or actual knowledge of the case.
 
@@ -156,7 +172,7 @@ Paragraph (4) excepts debts for fraud incurred by the debtor while acting in a f
 
 Paragraph (5) provides that debts for willful and malicious conversion or injury by the debtor to another entity or the property of another entity are nondischargeable. Under this paragraph “willful” means deliberate or intentional. To the extent that <i>Tinker v. Colwell</i>, 139 U.S. 473 (1902), held that a less strict standard is intended, and to the extent that other cases have relied on <i>Tinker</i> to apply a “reckless disregard” standard, they are overruled.
 
-Paragraph (6) excepts from discharge debts to a spouse, former spouse, or child of the debtor for alimony to, maintenance for, or support of the spouse or child. This language, in combination with the repeal of section 456(b) of the Social Security Act (42 U.S.C.656(b)) by section 326 of the bill, will apply to make nondischargeable only alimony, maintenance, or support owed directly to a spouse or dependent. What constitutes alimony, maintenance, or support, will be determined under the bankruptcy law, not State law. Thus, cases such as <i>In re Waller</i>, 494 F.2d 447 (6th Cir. 1974), are overruled, and the result in cases such as <i>Fife v. Fife</i>, 1 Utah 2d 281, 265 P.2d 642 (1952) is followed. The proviso, however, makes nondischargeable any debts resulting from an agreement by the debtor to hold the debtor's spouse harmless on joint debts, to the extent that the agreement is in payment of alimony, maintenance, or support of the spouse, as determined under bankruptcy law considerations as to whether a particular agreement to pay money to a spouse is actually alimony or a property settlement.
+Paragraph (6) excepts from discharge debts to a spouse, former spouse, or child of the debtor for alimony to, maintenance for, or support of the spouse or child. This language, in combination with the repeal of section 456(b) of the Social Security Act (42 U.S.C. 656(b)) by section 326 of the bill, will apply to make nondischargeable only alimony, maintenance, or support owed directly to a spouse or dependent. What constitutes alimony, maintenance, or support, will be determined under the bankruptcy law, not State law. Thus, cases such as <i>In re Waller</i>, 494 F.2d 447 (6th Cir. 1974), are overruled, and the result in cases such as <i>Fife v. Fife</i>, 1 Utah 2d 281, 265 P.2d 642 (1952) is followed. The proviso, however, makes nondischargeable any debts resulting from an agreement by the debtor to hold the debtor's spouse harmless on joint debts, to the extent that the agreement is in payment of alimony, maintenance, or support of the spouse, as determined under bankruptcy law considerations as to whether a particular agreement to pay money to a spouse is actually alimony or a property settlement.
 
 Paragraph (7) makes nondischargeable certain liabilities for penalties including tax penalties if the underlying tax with respect to which the penalty was imposed is also nondischargeable (sec. 523(a)(7)). These latter liabilities cover those which, but are penal in nature, as distinct from so-called “pecuniary loss” penalties which, in the case of taxes, involve basically the collection of a tax under the label of a “penalty.” This provision differs from the bill as introduced, which did not link the nondischarge of a tax penalty with the treatment of the underlying tax. The amended provision reflects the existing position of the Internal Revenue Service as to tax penalties imposed by the Internal Revenue Code (Rev.Rul. 68–574, 1968–2 C.B. 595).
 
@@ -182,7 +198,7 @@ Unscheduled debts are excepted from discharge under paragraph (3). The provision
 
 Paragraph (4) excepts debts for embezzlement or larceny. The deletion of willful and malicious conversion from §17a(2) of the Bankruptcy Act \[section 35(a)(2) of former title 11\] is not intended to effect a substantive change. The intent is to include in the category of non-dischargeable debts a conversion under which the debtor willfully and maliciously intends to borrow property for a short period of time with no intent to inflict injury but on which injury is in fact inflicted.
 
-Paragraph (5) excepts from discharge debts to a spouse, former spouse, or child of the debtor for alimony to, maintenance for, or support of, the spouse or child. This language, in combination with the repeal of section 456(b) of the Social Security Act (42 U.S.C. 656(b)) by section 327 of the bill, will apply to make nondischargeable only alimony, maintenance, or support owed directly to a spouse or dependent. See Hearings, pt. 2, at 942. What constitutes alimony, maintenance, or support, will be determined under the bankruptcy laws, not State law. Thus, cases such as <i>In re Waller</i>, 494 F.2d 447 (6th Cir. 1974); Hearings, pt. 3, at 1308–10, are overruled, and the result in cases such as <i>Fife v. Fife</i>, 1 Utah 2d 281, 265 P.2d 642 (1952) is followed. This provision will, however, make nondischargeable any debts resulting from an agreement by the debtor to hold the debtor's spouse harmless on joint debts, to the extent that the agreement is in payment of alimony, maintenance, or support of the spouse, as determined under bankruptcy law considerations that are similar to considerations of whether a particular agreement to pay money to a spouse is actually alimony or a property settlement. See Hearings, pt. 3, at 1287–1290.
+Paragraph (5) excepts from discharge debts to a spouse, former spouse, or child of the debtor for alimony to, maintenance for, or support of, the spouse orchild. This language, in combination with the repeal of section 456(b) of the Social Security Act (42 U.S.C. 656(b)) by section 327 of the bill, will apply to make nondischargeable only alimony, maintenance, or support owed directly to a spouse or dependent. See Hearings, pt. 2, at 942. What constitutes alimony, maintenance, or support, will be determined under the bankruptcy laws, not State law. Thus, cases such as <i>In re Waller</i>, 494 F.2d 447 (6th Cir. 1974); Hearings, pt. 3, at 1308–10, are overruled, and the result in cases such as <i>Fife v. Fife</i>, 1 Utah 2d 281, 265 P.2d 642 (1952) is followed. This provision will, however, make nondischargeable any debts resulting from an agreement by the debtor to hold the debtor's spouse harmless on joint debts, to the extent that the agreement is in payment of alimony, maintenance, or support of the spouse, as determined under bankruptcy law considerations that are similar to considerations of whether a particular agreement to pay money to a spouse is actually alimony or a property settlement. See Hearings, pt. 3, at 1287–1290.
 
 Paragraph (6) excepts debts for willful and malicious injury by the debtor to another person or to the property of another person. Under this paragraph, “willful” means deliberate or intentional. To the extent that <i>Tinker v. Colwell</i>, 193 U.S. 473 (1902) \[24 S.Ct. 505, 48 L.Ed. 754, 11 Am.Bankr.Rep. 568\], held that a looser standard is intended, and to the extent that other cases have relied on <i>Tinker</i> to apply a “reckless disregard” standard, they are overruled.
 
@@ -200,11 +216,15 @@ The Bankruptcy Act, referred to in subsecs. (a)(10) and (b), is act July 1, 1898
 
 The Social Security Act, referred to in subsec. (a)(18)(B), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part D of title IV of the Act is classified generally to part D (§651 et seq.) of subchapter IV of chapter 7 of Title 42, The Public Health and Welfare. Section 408(a)(3) of the Act is classified to section 608(a)(3) of Title 42. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
+Section 3(a)(47) of the Securities Exchange Act of 1934, referred to in subsec. (a)(19)(A)(i), is classified to section 78c(a)(47) of Title 15, Commerce and Trade.
+
 Section 439A of the Higher Education Act of 1965, referred to in subsec. (b), was classified to section 1087–3 of Title 20, Education, and was repealed by Pub. L. 95–598, title III, §317, Nov. 6, 1978, 92 Stat. 2678.
 
 Section 733(g) of the Public Health Service Act, referred to in subsec. (b), was repealed by Pub. L. 95–598, title III, §327, Nov. 6, 1978, 92 Stat. 2679. A subsec. (g), containing similar provisions, was added to section 733 by Pub. L. 97–35, title XXVII, §2730, Aug. 13, 1981, 95 Stat. 919. Section 733 was subsequently omitted in the general revision of subchapter V of chapter 6A of Title 42, The Public Health and Welfare, by Pub. L. 102–408, title I, §102, Oct. 13, 1992, 106 Stat. 1994. See section 292f(g) of Title 42.
 
 #### Amendments
+
+2002—Subsec. (a)(19). Pub. L. 107–204 added par. (19).
 
 1998—Subsec. (a)(8). Pub. L. 105–244 substituted “stipend, unless” for “stipend, unless—” and struck out “(B)” before “excepting such debt” and subpar. (A) which read as follows: “such loan, benefit, scholarship, or stipend overpayment first became due more than 7 years (exclusive of any applicable suspension of the repayment period) before the date of the filing of the petition; or”.
 
@@ -260,7 +280,7 @@ Subsec. (a)(9), (10). Pub. L. 99–554, §283(j)(1)(B), redesignated par. (9) re
 
 Subsec. (b). Pub. L. 99–554, §283(j)(2), substituted “Service” for “Services”.
 
-1984—Subsec. (a)(2). Pub. L. 98–353, §454(a)(1), in provisions preceding subpar. (A), struck out “obtaining”after “for”, and substituted “refinancing of credit, to the extent obtained” for “refinance of credit,”.
+1984—Subsec. (a)(2). Pub. L. 98–353, §454(a)(1), in provisions preceding subpar. (A), struck out “obtaining” after “for”, and substituted “refinancing of credit, to the extent obtained” for “refinance of credit,”.
 
 Subsec. (a)(2)(A). Pub. L. 98–353, §307(a)(1), struck out “or” at end.
 

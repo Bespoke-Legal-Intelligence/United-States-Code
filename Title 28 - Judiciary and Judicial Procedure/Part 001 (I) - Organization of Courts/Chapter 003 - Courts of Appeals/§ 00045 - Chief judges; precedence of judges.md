@@ -46,15 +46,15 @@ Changes were made in phraseology.
 
 #### Amendments
 
-<b>1982</b>—Subsec. (a). Pub. L. 97–164, §201(a), designated existing first sentence of subsec. (a) as par. (1), substituted “The chief judge of the circuit shall be the circuit judge in regular active service who is senior in commission of those judges who—(A) are sixty-four years of age or under; (B) have served for one year or more as a circuit judge; and (C) have not served previously as chief judge” for “The circuit judge in regular active service who is senior in commission and under seventy years of age shall be the chief judge of the circuit” in par. (1) as so designated, designated existing second sentence of subsec. (a) as par. (2)(A), substituted “In any case in which no circuit judge meets the qualifications of paragraph (1), the youngest circuit judge in regular active service who is sixty-five years of age or over and who has served as circuit judge for one year or more shall act as the chief judge” for “If all the circuit judges in regular active service are seventy years of age or older the youngest shall act as chief judge until a judge has been appointed and qualified who is under seventy years of age, but a judge may not act as chief judge until he has served as a circuit judge for one year” in par. (2)(A) as so designated, and added pars. (2)(B) and (3).
+1982—Subsec. (a). Pub. L. 97–164, §201(a), designated existing first sentence of subsec. (a) as par. (1), substituted “The chief judge of the circuit shall be the circuit judge in regular active service who is senior in commission of those judges who—(A) are sixty-four years of age or under; (B) have served for one year or more as a circuit judge; and (C) have not served previously as chief judge” for “The circuit judge in regular active service who is senior in commission and under seventy years of age shall be the chief judge of the circuit” in par. (1) as so designated, designated existing second sentence of subsec. (a) as par. (2)(A), substituted “In any case in which no circuit judge meets the qualifications of paragraph (1), the youngest circuit judge in regular active service who is sixty-five years of age or over and who has served as circuit judge for one year or more shall act as the chief judge” for “If all the circuit judges in regular active service are seventy years of age or older the youngest shall act as chief judge until a judge has been appointed and qualified who is under seventy years of age, but a judge may not act as chief judge until he has served as a circuit judge for one year” in par. (2)(A) as so designated, and added pars. (2)(B) and (3).
 
 Subsec. (b). Pub. L. 97–164, §204, inserted “of the court in regular active service” after “circuit judges” in second sentence.
 
 Subsec. (c). Pub. L. 97–164, §201(b), amended subsec. (c) generally, substituting “the chief judge of the circuit shall be such other circuit judge who is qualified to serve or act as chief judge under subsection (a)” for “the circuit judge in active service next in precedence and willing to serve shall be designated by the Chief Justice as the chief judge of the circuit”.
 
-<b>1958</b>—Subsec. (a). Pub. L. 85–593 provided that chief judges of circuit courts cease to serve as such upon reaching the age of seventy, that the youngest circuit judge act as chief judge where all circuit judges in regular active service are seventy years or older until a judge under seventy has been appointed and qualified, and that circuit judge must have served one year before acting as chief judge.
+1958—Subsec. (a). Pub. L. 85–593 provided that chief judges of circuit courts cease to serve as such upon reaching the age of seventy, that the youngest circuit judge act as chief judge where all circuit judges in regular active service are seventy years or older until a judge under seventy has been appointed and qualified, and that circuit judge must have served one year before acting as chief judge.
 
-<b>1951</b>—Subsec. (a). Act Oct. 31, 1951, inserted “in active service who is”.
+1951—Subsec. (a). Act Oct. 31, 1951, inserted “in active service who is”.
 
 #### Effective Date of 1982 Amendment
 
@@ -82,5 +82,5 @@ Section 2(a) of act June 25, 1948, provided in part that the Chief Justice of th
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 372 of this title.
+This section is referred to in sections 353, 372 of this title.
 

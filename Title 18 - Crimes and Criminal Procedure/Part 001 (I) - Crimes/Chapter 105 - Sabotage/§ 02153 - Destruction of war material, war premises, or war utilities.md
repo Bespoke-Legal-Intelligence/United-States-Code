@@ -32,5 +32,5 @@ Section 7 of act June 30, 1953, ch. 175, 67 Stat. 134, repealed Joint Res. July 
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14 of this title; title 8 section 1101.
+This section is referred to in title 8 section 1101.
 

@@ -38,7 +38,7 @@ Pub. L. 95–251 substituted “Administrative law judges” for “Hearing exam
 
 #### Effective Date of 1978 Amendment
 
-Amendment by section 801(a)(3)(B)(iii) of Pub. L. 95–454 substituting “5372” for “5362” effective on firstday of first applicable pay period beginning on or after the 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
+Amendment by section 801(a)(3)(B)(iii) of Pub. L. 95–454 substituting “5372” for “5362” effective on first day of first applicable pay period beginning on or after the 90th day after Oct. 13, 1978, see section 801(a)(4) of Pub. L. 95–454, set out as an Effective Date note under section 5361 of this title.
 
 Amendment by section 906(a)(12) of Pub. L. 95–454 respecting functions of the Office and the Board effective 90 days after Oct. 13, 1978, see section 907 of Pub. L. 95–454, set out as a note under section 1101 of this title.
 

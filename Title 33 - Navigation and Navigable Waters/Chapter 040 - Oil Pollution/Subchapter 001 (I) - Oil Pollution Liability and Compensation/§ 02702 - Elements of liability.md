@@ -10,7 +10,7 @@ Notwithstanding any other provision or rule of law, and subject to the provision
 
 &emsp;The removal costs referred to in subsection (a) of this section are—
 
-&emsp;&emsp;(A) all removal costs incurred by the United States, a State, or an Indian tribeunder subsection (c), (d), (e), or (<i>l</i>) of section 1321 of this title, under the Intervention on the High Seas Act (33 U.S.C. 1471 et seq.), or under State law; and
+&emsp;&emsp;(A) all removal costs incurred by the United States, a State, or an Indian tribe under subsection (c), (d), (e), or (<i>l</i>) of section 1321 of this title, under the Intervention on the High Seas Act (33 U.S.C. 1471 et seq.), or under State law; and
 
 &emsp;&emsp;(B) any removal costs incurred by any person for acts taken by the person which are consistent with the National Contingency Plan.
 

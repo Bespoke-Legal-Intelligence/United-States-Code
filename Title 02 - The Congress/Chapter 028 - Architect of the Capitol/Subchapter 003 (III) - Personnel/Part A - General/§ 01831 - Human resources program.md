@@ -1,0 +1,86 @@
+### §1831. Human resources program
+
+#### (a) Short title
+
+This section may be cited as the “Architect of the Capitol Human Resources Act”.
+
+#### (b) Finding and purpose
+
+#### (1) Finding
+
+&emsp;The Congress finds that the Office of the Architect of the Capitol should develop human resources management programs that are consistent with the practices common among other Federal and private sector organizations.
+
+#### (2) Purpose
+
+&emsp;It is the purpose of this section to require the Architect of the Capitol to establish and maintain a personnel management system that incorporates fundamental principles that exist in other modern personnel systems.
+
+#### (c) Personnel management system
+
+#### (1) Establishment
+
+&emsp;The Architect of the Capitol shall establish and maintain a personnel management system.
+
+#### (2) Requirements
+
+&emsp;The personnel management system shall at a minimum include the following:
+
+&emsp;&emsp;(A) A system which ensures that applicants for employment and employees of the Architect of the Capitol are appointed, promoted, and assigned on the basis of merit and fitness after fair and equitable consideration of all applicants and employees through open competition.
+
+&emsp;&emsp;(B) An equal employment opportunity program which includes an affirmative employment program for employees and applicants for employment, and procedures for monitoring progress by the Architect of the Capitol in ensuring a workforce reflective of the diverse labor force.
+
+&emsp;&emsp;(C) A system for the classification of positions which takes into account the difficulty, responsibility, and qualification requirements of the work performed, and which conforms to the principle of equal pay for substantially equal work.
+
+&emsp;&emsp;(D) A program for the training of Architect of the Capitol employees which has among its goals improved employee performance and opportunities for employee advancement.
+
+&emsp;&emsp;(E) A formal performance appraisal system which will permit the accurate evaluation of job performance on the basis of objective criteria for all Architect of the Capitol employees.
+
+&emsp;&emsp;(F) A fair and equitable system to address unacceptable conduct and performance by Architect of the Capitol employees, including a general statement of violations, sanctions, and procedures which shall be made known to all employees, and a formal grievance procedure.
+
+&emsp;&emsp;(G) A program to provide services to deal with mental health, alcohol abuse, drug abuse, and other employee problems, and which ensures employee confidentiality.
+
+&emsp;&emsp;(H) A formal policy statement regarding the use and accrual of sick and annual leave which shall be made known to all employees, and which is consistent with the other requirements of this section.
+
+#### (d) Implementation of personnel management system
+
+#### (1) Development of plan
+
+&emsp;The Architect of the Capitol shall—
+
+&emsp;&emsp;(A) develop a plan for the establishment and maintenance of a personnel management system designed to achieve the requirements of subsection (c) of this section;
+
+&emsp;&emsp;(B) submit the plan to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives not later than 12 months after July 22, 1994; and
+
+&emsp;&emsp;(C) implement the plan not later than 90 days after the plan is submitted to the Speaker of the House of Representatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, the Joint Committee on the Library, and the Committees on Appropriations of the Senate and the House of Representatives, as specified in subparagraph (B).
+
+#### (2) Evaluation and reporting
+
+&emsp;The Architect of the Capitol shall develop a system of oversight and evaluation to ensure that the personnel management system of the Architect of the Capitol achieves the requirements of subsection (c) of this section and complies with all other relevant laws, rules and regulations. The Architect of the Capitol shall report to the Speaker of the House ofRepresentatives, the House Office Building Commission, the Committee on Rules and Administration of the Senate, and the Joint Committee on the Library on an annual basis the results of its evaluation under this subsection.
+
+#### (3) Application of laws
+
+&emsp;Nothing in this section shall be construed to alter or supersede any other provision of law otherwise applicable to the Architect of the Capitol or its employees, unless expressly provided in this section.
+
+(Pub. L. 103–283, title III, §312, July 22, 1994, 108 Stat. 1443; Pub. L. 104–1, title V, §504(c)(1), Jan. 23, 1995, 109 Stat. 41.)
+
+#### Codification
+
+Section was classified to section 166b–7 of former Title 40, prior to the enactment of Title 40, Public Buildings, Property, and Works, by Pub. L. 107–217, §1, Aug. 21, 2002, 116 Stat. 1062.
+
+Section is comprised of section 312 of Pub. L. 103–283. Subsec. (f) of section 312 of Pub. L. 103–283 amended sections 60m, 1201, 1205, and 1212 of this title.
+
+#### Amendments
+
+1995—Subsec. (e). Pub. L. 104–1 struck out subsec. (e) which related to processing of discrimination complaints.
+
+#### Savings Provision
+
+Section 504(c)(1) of Pub. L. 104–1 provided in part that subsec. (e) of this section is repealed, except as provided in section 1435 of this title.
+
+#### Treatment of Separated Employees of Architect of Capitol
+
+Pub. L. 105–55, title III, §310, Oct. 7, 1997, 111 Stat. 1199, as amended by Pub. L. 105–275, title III, §308(b)–(d), Oct. 21, 1998, 112 Stat. 2452, 2453; Pub. L. 106–57, title III, §308, Sept. 29, 1999, 113 Stat. 427, provided early retirement benefits, voluntary separation incentive payments, competitive service treatment, and retraining, job placement, and counseling services to certain employees of the Office of the Architect of the Capitol.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 1435 of this title; title 31 sections 753, 755.
+

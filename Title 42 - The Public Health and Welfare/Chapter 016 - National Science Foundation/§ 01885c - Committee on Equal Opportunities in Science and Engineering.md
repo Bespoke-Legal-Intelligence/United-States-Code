@@ -2,7 +2,7 @@
 
 #### (a) Establishment; purposes
 
-There is established within the Foundation a Committee on Equal Opportunities in Scienceand Engineering (hereinafter referred to as the “Committee”). The Committee shall provide advice to the Foundation concerning (1) the implementation of the provisions of sections 1885 to 1885d of this title and (2) other policies and activities of the Foundation to encourage full participation of women, minorities, and persons with disabilities in scientific, engineering, and professional fields.
+There is established within the Foundation a Committee on Equal Opportunities in Science and Engineering (hereinafter referred to as the “Committee”). The Committee shall provide advice to the Foundation concerning (1) the implementation of the provisions of sections 1885 to 1885d of this title and (2) other policies and activities of the Foundation to encourage full participation of women, minorities, and persons with disabilities in scientific, engineering, and professional fields.
 
 #### (b) Membership; Chairperson; term of members
 
@@ -55,4 +55,16 @@ Subsecs. (c), (d). Pub. L. 99–159, §111(b)(8)(A), substituted “Engineering�
 #### Termination of Advisory Committees
 
 Advisory committees established after Jan. 5, 1973 to terminate not later than the expiration of the 2-year period beginning on the date of their establishment, unless, in the case of a committee established by the President or an officer of the Federal Government, such committee is renewed by appropriate action prior to the expiration of such 2-year period, or in the case of a committee established by the Congress, its duration is otherwise provided by law. See section 14 of Pub. L. 92–463, Oct. 6, 1972, 86 Stat. 776, set out in the Appendix to Title 5, Government Organization and Employees.
+
+#### Report by Committee on Equal Opportunities in Science and Engineering
+
+Pub. L. 107–368, §20, Dec. 19, 2002, 116 Stat. 3063, provided that: “As part of the first report required by section 36(e) of the Science and Engineering Equal Opportunities Act (42 U.S.C. 1885c(e)) transmitted to Congress after the date of enactment of this Act \[Dec. 19, 2002\], the Committee on Equal Opportunities in Science and Engineering shall include—
+
+&emsp;“(1) a summary of its findings over the previous 10 years;
+
+&emsp;“(2) a description of past and present policies and activities of the Foundation to encourage full participation of women, minorities, and persons with disabilities in science, mathematics, and engineering fields, including activities in support of minority-serving institutions; and
+
+&emsp;“(3) an assessment of the trends in participation in Foundation activities, and an assessment of the success of Foundation policies and activities, along with proposals for new strategies or the broadening of existing successful strategies toward facilitating the goals of that Act \[42 U.S.C. 1885 et seq.\].”
+
+\[For definitions of terms used in section 20 of Pub. L. 107–368, set out above, see section 4 of Pub. L. 107–368, set out as a note under section 1862n of this title.\]
 

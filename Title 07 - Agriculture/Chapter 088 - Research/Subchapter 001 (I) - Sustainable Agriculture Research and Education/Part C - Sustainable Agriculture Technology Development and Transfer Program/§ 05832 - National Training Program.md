@@ -12,7 +12,7 @@ The National Training Program shall be organized and administered by the Extensi
 
 #### (1) Agricultural agents
 
-&emsp;The Secretary shall ensure that all agricultural agents of the Cooperative Extension Service have completed the National Training Program not later than the end of the five-year period beginning on November 28, 1990. Such training may occur at a college or university located within each State as designated by the coordinator designated under this section.
+&emsp;The Secretary shall ensure that all agricultural agents of the Cooperative ExtensionService have completed the National Training Program not later than the end of the five-year period beginning on November 28, 1990. Such training may occur at a college or university located within each State as designated by the coordinator designated under this section.
 
 #### (2) Proof of training
 
@@ -88,7 +88,7 @@ For purposes of this section, the term “appropriate field office personnel” 
 
 There are authorized to be appropriated $20,000,000 for each fiscal year to carry out the National Training Program.
 
-(Pub. L. 101–624, title XVI, §1629, Nov. 28, 1990, 104 Stat. 3741; Pub. L. 102–237, title IV, §407(4), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VIII, §862(b)(4), Apr. 4, 1996, 110 Stat. 1174; Pub.L. 105–185, title VI, §606(f), June 23, 1998, 112 Stat. 604.)
+(Pub. L. 101–624, title XVI, §1629, Nov. 28, 1990, 104 Stat. 3741; Pub. L. 102–237, title IV, §407(4), Dec. 13, 1991, 105 Stat. 1864; Pub. L. 104–127, title VIII, §862(b)(4), Apr. 4, 1996, 110 Stat. 1174; Pub. L. 105–185, title VI, §606(f), June 23, 1998, 112 Stat. 604.)
 
 #### References in Text
 

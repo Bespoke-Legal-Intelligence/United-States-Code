@@ -12,7 +12,7 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 #### (1) In general
 
-&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to subsection (a) of this section, or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors,or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceeding. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
+&emsp;Whenever the Commission determines that the alleged violation or threatened violation specified in the notice instituting proceedings pursuant to subsection (a) of this section, or the continuation thereof, is likely to result in significant dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest, including, but not limited to, losses to the Securities Investor Protection Corporation, prior to the completion of the proceedings, the Commission may enter a temporary order requiring the respondent to cease and desist from the violation or threatened violation and to take such action to prevent the violation or threatened violation and to prevent dissipation or conversion of assets, significant harm to investors, or substantial harm to the public interest as the Commission deems appropriate pending completion of such proceeding. Such an order shall be entered only after notice and opportunity for a hearing, unless the Commission determines that notice and hearing prior to entry would be impracticable or contrary to the public interest. A temporary order shall become effective upon service upon the respondent and, unless set aside, limited, or suspended by the Commission or a court of competent jurisdiction, shall remain effective and enforceable pending the completion of the proceedings.
 
 #### (2) Applicability
 
@@ -46,7 +46,15 @@ The notice instituting proceedings pursuant to subsection (a) of this section sh
 
 In any cease-and-desist proceeding under subsection (a) of this section, the Commission may enter an order requiring accounting and disgorgement, including reasonable interest. The Commission is authorized to adopt rules, regulations, and orders concerning payments to investors, rates of interest, periods of accrual, and such other matters as it deems appropriate to implement this subsection.
 
-(May 27, 1933, ch. 38, title I, §8A, as added Pub. L. 101–429, title I, §102, Oct. 15, 1990, 104 Stat. 933.)
+#### (f) Authority of the Commission to prohibit persons from serving as officers or directors
+
+In any cease-and-desist proceeding under subsection (a) of this section, the Commission may issue an order to prohibit, conditionally or unconditionally, and permanently or for such period of time as it shall determine, any person who has violated section 77q(a)(1) of this title or the rules or regulations thereunder, from acting as an officer or director of any issuer that has a class of securities registered pursuant to section 78<i>l</i> of this title, or that is required to file reports pursuant to section 78<i>o</i>(d) of this title, if the conduct of that person demonstrates unfitness to serve as an officer or director of any such issuer.
+
+(May 27, 1933, ch. 38, title I, §8A, as added Pub. L. 101–429, title I, §102, Oct. 15, 1990, 104 Stat. 933; amended Pub. L. 107–204, title XI, §1105(b), July 30, 2002, 116 Stat. 809.)
+
+#### Amendments
+
+2002—Subsec. (f). Pub. L. 107–204 added subsec. (f).
 
 #### Effective Date
 

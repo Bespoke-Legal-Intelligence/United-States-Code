@@ -20,11 +20,11 @@
 
 (2) This subchapter applies to the collection of information during the conduct of general investigations (other than information collected in an antitrust investigation to the extent provided in subparagraph (C) of paragraph (1)) undertaken with reference to a category of individuals or entities such as a class of licensees or an entire industry.
 
-(d) Nothing in this subchapter shall be interpreted as increasing or decreasing the authority conferred by section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and the Computer Security Act of 1987 (40 U.S.C. 759 note) <sup>1</sup> on the Secretary of Commerce or the Director of the Office of Management and Budget.
+(d) Nothing in this subchapter shall be interpreted as increasing or decreasing the authority conferred by sections 11331 and 11332 <sup>1</sup> of title 40 on the Secretary of Commerce or the Director of the Office of Management and Budget.
 
 (e) Nothing in this subchapter shall be interpreted as increasing or decreasing the authority of the President, the Office of Management and Budget or the Director thereof, under the laws of the United States, with respect to the substantive policies and programs of departments, agencies and offices, including the substantive authority of any Federal agency to enforce the civil rights laws.
 
-(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 183; amended Pub. L. 104–106, div. E, title LI, §5131(e)(2), Feb. 10, 1996, 110 Stat. 688; Pub. L. 105–85, div. A, title X, §1073(h)(5)(C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275.)
+(Added Pub. L. 104–13, §2, May 22, 1995, 109 Stat. 183; amended Pub. L. 104–106, div. E, title LI, §5131(e)(2), Feb. 10, 1996, 110 Stat. 688; Pub. L. 105–85, div. A, title X, §1073(h)(5)(C), Nov. 18, 1997, 111 Stat. 1907; Pub. L. 106–398, §1 \[\[div. A\], title X, §1064(b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–275; Pub. L. 107–217, §3(<i>l</i>)(7), Aug. 21, 2002, 116 Stat. 1302.)
 
 #### References in Text
 
@@ -38,7 +38,7 @@ Section 13 of the Federal Trade Commission Improvements Act of 1980, referred to
 
 Executive Order No. 12333, referred to in subsec. (c)(1)(D), is Ex. Ord. No. 12333, Dec. 4, 1981, 46 F.R. 59941, which is set out as a note under section 401 of Title 50, War and National Defense.
 
-The Computer Security Act of 1987, referred to in subsec. (d), is Pub. L. 100–235, Jan. 8, 1988, 101 Stat. 1724, which enacted sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, amended section 272 of Title 15 and former section 759 of Title 40, Public Buildings, Property, and Works, and enacted provisions set out as notes under section 271 of Title 15 and section 1441 of Title 40. For complete classification of this Act to the Code, see Tables.
+Section 11332 of title 40, referred to in subsec. (d), was repealed by Pub. L. 107–296, title X, §1005(a)(1), Nov. 25, 2002, 116 Stat. 2272, and Pub. L. 107–347, title III, §305(a), Dec. 17, 2002, 116 Stat. 2960.
 
 The civil rights laws, referred to in subsec. (e), are classified generally to chapter 21 (§1981 et seq.) of Title 42, The Public Health and Welfare.
 
@@ -47,6 +47,8 @@ The civil rights laws, referred to in subsec. (e), are classified generally to c
 A prior section 3518, added Pub. L. 96–511, §2(a), Dec. 11, 1980, 94 Stat. 2824, related to the effect on existing laws and regulations prior to the general amendment of this chapter by Pub. L. 104–13.
 
 #### Amendments
+
+2002—Subsec. (d). Pub. L. 107–217 substituted “sections 11331 and 11332 of title 40” for “section 5131 of the Clinger-Cohen Act of 1996 (40 U.S.C. 1441) and the Computer Security Act of 1987 (40 U.S.C. 759 note)”.
 
 2000—Pub. L. 106–398 substituted “subchapter” for “chapter” wherever appearing.
 
@@ -60,7 +62,7 @@ Amendment by Pub. L. 106–398 effective 30 days after Oct. 30, 2000, see sectio
 
 #### Effective Date of 1996 Amendment
 
-Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, set out as an Effective Date note under section 1401 of Title 40, Public Buildings, Property, and Works.
+Amendment by Pub. L. 104–106 effective 180 days after Feb. 10, 1996, see section 5701 of Pub. L. 104–106, Feb. 10, 1996, 110 Stat. 702.
 
 #### Section Referred to in Other Sections
 

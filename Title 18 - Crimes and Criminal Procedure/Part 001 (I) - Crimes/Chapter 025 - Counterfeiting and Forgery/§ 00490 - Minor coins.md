@@ -26,7 +26,3 @@ Changes were made in phraseology.
 
 Section 4(c) of Pub. L. 98–216 provided that: “The amendments made by sections 1(3), (4), and (7) and 3(b)(1) of this Act \[amending this section and sections 3322, 3528, and 5132 of Title 31, Money and Finance\] are effective as of September 13, 1982.”
 
-#### Section Referred to in Other Sections
-
-This section is referred to in section 14 of this title.
-

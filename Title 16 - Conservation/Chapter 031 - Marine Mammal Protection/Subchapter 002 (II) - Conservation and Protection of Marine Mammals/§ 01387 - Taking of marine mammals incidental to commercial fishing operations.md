@@ -22,7 +22,7 @@
 
 (3) Three years after April 30, 1994, the Secretary shall review the progress of all commercial fisheries, by fishery, toward reducing incidental mortality and serious injury to insignificant levels approaching a zero rate. The Secretary shall submit to the Committee on Commerce, Science, and Transportation of the Senate and the Committee on Merchant Marine and Fisheries of the House of Representatives a report setting forth the results of such review within 1 year after commencement of the review. The Secretary shall note any commercial fishery for which additional information is required to accurately assess the level of incidental mortality and serious injury of marine mammals in the fishery.
 
-(4) If the Secretary determines after review under paragraph (3) that the rate of incidental mortality and serious injury of marine mammals in a commercial fishery is not consistent with paragraph (1), then the Secretary shall take appropriate action under subsection (f) of this section.
+(4) If the Secretary determines after review under paragraph (3) that the rate of incidental mortality and serious injury of marine mammals in a commercial fishery is not consistentwith paragraph (1), then the Secretary shall take appropriate action under subsection (f) of this section.
 
 #### (c) Registration and authorization
 
@@ -86,7 +86,7 @@
 
 (B) The Secretary shall utilize newspapers of general circulation, fishery trade associations, electronic media, and other means of advising commercial fishermen of the provisions of this section and the means by which they can comply with its requirements.
 
-(C) The Secretary is authorized to charge a fee for the granting of an authorization under thissection. The level of fees charged under this subparagraph shall not exceed the administrative costs incurred in granting an authorization. Fees collected under this subparagraph shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred in the granting and administration of authorizations under this section.
+(C) The Secretary is authorized to charge a fee for the granting of an authorization under this section. The level of fees charged under this subparagraph shall not exceed the administrative costs incurred in granting an authorization. Fees collected under this subparagraph shall be available to the Under Secretary of Commerce for Oceans and Atmosphere for expenses incurred in the granting and administration of authorizations under this section.
 
 #### (d) Monitoring of incidental takes
 
@@ -158,7 +158,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(3) The name and description of the fishery.
 
-&emsp;(4) The species of each marine mammal incidentally killed or injured, and the date, time,and approximate geographic location of such occurrence.
+&emsp;(4) The species of each marine mammal incidentally killed or injured, and the date, time, and approximate geographic location of such occurrence.
 
 #### (f) Take reduction plans
 
@@ -196,7 +196,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (E) Members of take reduction teams shall serve without compensation, but may be reimbursed by the Secretary, upon request, for reasonable travel costs and expenses incurred in performing their duties as members of the team.
 
-(7) Where the human-caused mortality and serious injury from a strategic stock is estimatedto be equal to or greater than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, the following procedures shall apply in the development of the take reduction plan for the stock:
+(7) Where the human-caused mortality and serious injury from a strategic stock is estimated to be equal to or greater than the potential biological removal level established under section 1386 of this title for such stock and such stock interacts with a fishery listed under subsection (c)(1)(A)(i) or (ii) of this section, the following procedures shall apply in the development of the take reduction plan for the stock:
 
 &emsp;(A)(i) Not later than 6 months after the date of establishment of a take reduction team for the stock, the team shall submit a draft take reduction plan for such stock to the Secretary, consistent with the other provisions of this section.
 
@@ -220,7 +220,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;(ii) Such draft take reduction plan shall be developed by consensus. In the event consensus cannot be reached, the team shall advise the Secretary in writing on the range of possibilities considered by the team, and the views of both the majority and minority.
 
-&emsp;(B)(i) The Secretary shall take the draft take reduction plan into consideration and, not later than 60 days after the submission of the draft plan by the team, the Secretary shall publish in the Federal Register the plan proposed by the team, any changes proposed by the Secretary with an explanation of the reasons therefor, and proposed regulations to implement such plan, for public review and comment during a period of not to exceed 90 days.
+&emsp;(B)(i) The Secretary shall take the draft take reduction plan into consideration and, not later than 60 days after the submission of the draft plan by the team, the Secretary shall publish in the Federal Register the plan proposed by the team, any changes proposed bythe Secretary with an explanation of the reasons therefor, and proposed regulations to implement such plan, for public review and comment during a period of not to exceed 90 days.
 
 &emsp;(ii) In the event that the take reduction team does not submit a draft plan to the Secretary within 11 months, the Secretary shall, not later than 13 months after the establishment of the team, publish in the Federal Register a proposed take reduction plan and implementing regulations, for public review and comment during a period of not to exceed 90 days.
 
@@ -234,7 +234,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 (9) In implementing a take reduction plan developed pursuant to this subsection, the Secretary may, where necessary to implement a take reduction plan to protect or restore a marine mammal stock or species covered by such plan, promulgate regulations which include, but are not limited to, measures to—
 
-&emsp;(A) establish fishery-specific limits on incidental mortality and serious injury of marinemammals in commercial fisheries or restrict commercial fisheries by time or area;
+&emsp;(A) establish fishery-specific limits on incidental mortality and serious injury of marine mammals in commercial fisheries or restrict commercial fisheries by time or area;
 
 &emsp;(B) require the use of alternative commercial fishing gear or techniques and new technologies, encourage the development of such gear or technology, or convene expert skippers’ panels;
 
@@ -268,7 +268,7 @@ The owner or operator of a commercial fishing vessel subject to this chapter sha
 
 &emsp;&emsp;(i) prescribe emergency regulations to reduce such incidental mortality and serious injury in that fishery; and
 
-&emsp;&emsp;(ii) approve and implement, on an expedited basis, such plan, which shall provide methods to address such adverse impact if still necessary.
+&emsp;&emsp;(ii) approve and implement, on an expedited basis, such plan, which shall providemethods to address such adverse impact if still necessary.
 
 &emsp;(C) In the case of a stock or species for which a take reduction plan does not exist and is not being developed, or in the case of a commercial fishery listed under subsection (c)(1)(A)(iii) of this section which the Secretary believes may be contributing to such adverse impact, the Secretary shall—
 

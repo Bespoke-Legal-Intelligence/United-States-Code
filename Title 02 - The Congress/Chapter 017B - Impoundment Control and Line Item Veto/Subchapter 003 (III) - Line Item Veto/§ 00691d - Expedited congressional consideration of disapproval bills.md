@@ -98,7 +98,7 @@ Each special message transmitted under this subchapter shall be referred to the 
 
 &emsp;(A) Notwithstanding any other rule of the House of Representatives, it shall be in order to consider the report of a committee of conference relating to a disapproval bill provided such report has been available for one calendar day (excluding Saturdays, Sundays, or legal holidays, unless the House is in session on such a day) and the accompanying statement shall have been filed in the House.
 
-&emsp;(B) Debate in the House of Representatives on the conference report and any amendments in disagreement on any disapproval bill shall each be limited to not more than one hour equally divided and controlled by a proponent and an opponent. A motion to further limit debate is not debatable. A motion to recommit the conference report is not in order, and it is not in order to move to reconsider the vote by which the conference report is agreed to or disagreed to.
+&emsp;(B) Debate in the House of Representatives on the conference report and any amendments in disagreement on any disapproval bill shalleach be limited to not more than one hour equally divided and controlled by a proponent and an opponent. A motion to further limit debate is not debatable. A motion to recommit the conference report is not in order, and it is not in order to move to reconsider the vote by which the conference report is agreed to or disagreed to.
 
 #### (3) Senate consideration
 

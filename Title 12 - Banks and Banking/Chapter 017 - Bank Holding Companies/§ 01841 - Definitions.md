@@ -1,6 +1,6 @@
 ### §1841. Definitions
 
-(a)(1) Except as provided in paragraph (5) of this subsection, “bank holding company” means any company which has control over any bank or over any company that is or becomes a bank holding company by virtue of this chapter.
+(a)(1) Except as provided in paragraph (5) of this subsection, “bank holding company” meansany company which has control over any bank or over any company that is or becomes a bank holding company by virtue of this chapter.
 
 (2) Any company has control over a bank or over any company if—
 
@@ -292,7 +292,7 @@ In general.—The term “lead insured depository institution” means the large
 
 &emsp;&emsp;(B)
 
-Branch or agency.—For purposes of this paragraph and section 1843(j)(4) of thistitle, the term “insured depository institution” includes any branch or agency operated in the United States by a foreign bank.
+Branch or agency.—For purposes of this paragraph and section 1843(j)(4) of this title, the term “insured depository institution” includes any branch or agency operated in the United States by a foreign bank.
 
 &emsp;(9)
 

@@ -6,5 +6,5 @@ Subject to valid existing rights, all mining claims located within the preserve 
 
 #### References in Text
 
-The Mining in the Parks Act, referred to in text, is Pub. L. 94–429, Sept. 28, 1976, 90 Stat. 1342, as amended,which is classified principally to chapter 39 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
+The Mining in the Parks Act, referred to in text, is Pub. L. 94–429, Sept. 28, 1976, 90 Stat. 1342, as amended, which is classified principally to chapter 39 (§1901 et seq.) of this title. For complete classification of this Act to the Code, see Short Title note set out under section 1901 of this title and Tables.
 

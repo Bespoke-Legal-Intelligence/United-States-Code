@@ -40,7 +40,7 @@ Section 1 of Pub. L. 89–92 provided: “This Act \[enacting this chapter\] may
 
 #### Separability
 
-Section 13, formerly §12, of Pub. L. 89–92 as added by section 2 of Pub. L. 91–222, and renumbered Pub. L. 98–474, §5(a), Oct. 12, 1984, 98 Stat. 2203, provided that: “If any provision of this Act \[this chapter\] or the application thereof to any person or circumstances is held invalid, the other provisions of this Act \[this chapter\]and the application of such provisions to other persons or circumstances shall not be affected thereby.”
+Section 13, formerly §12, of Pub. L. 89–92 as added by section 2 of Pub. L. 91–222, and renumbered Pub. L. 98–474, §5(a), Oct. 12, 1984, 98 Stat. 2203, provided that: “If any provision of this Act \[this chapter\] or the application thereof to any person or circumstances is held invalid, the other provisions of this Act \[this chapter\] and the application of such provisions to other persons or circumstances shall not be affected thereby.”
 
 #### Congressional Statement of Purpose
 

@@ -100,7 +100,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;The Board may, as conservator or liquidating agent—
 
-&emsp;&emsp;&emsp;(i) exercise all powers and authorities specifically granted to conservators or liquidating agents, respectively, under this chapter and such incidental powers asshall be necessary to carry out such powers; and
+&emsp;&emsp;&emsp;(i) exercise all powers and authorities specifically granted to conservators or liquidating agents, respectively, under this chapter and such incidental powers as shall be necessary to carry out such powers; and
 
 &emsp;&emsp;&emsp;(ii) take any action authorized by this chapter,
 
@@ -282,7 +282,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (i) Statute of limitation tolled
 
-&emsp;&emsp;&emsp;For purposes of any applicable statute of limitations, the filing of a claim with theliquidating agent shall constitute a commencement of an action.
+&emsp;&emsp;&emsp;For purposes of any applicable statute of limitations, the filing of a claim with the liquidating agent shall constitute a commencement of an action.
 
 #### (ii) No prejudice to other actions
 
@@ -368,7 +368,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (A) In general
 
-&emsp;&emsp;Notwithstanding any provision of any contract, the applicable statute of limitationswith regard to any action brought by the Board as conservator or liquidating agent shall be—
+&emsp;&emsp;Notwithstanding any provision of any contract, the applicable statute of limitations with regard to any action brought by the Board as conservator or liquidating agent shall be—
 
 &emsp;&emsp;&emsp;(i) in the case of any contract claim, the longer of—
 
@@ -454,7 +454,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in subparagraph (C) and paragraphs (4), (5), and (6), the liability of the conservator or liquidating agent for the disaffirmance or repudiation of any contract pursuant to paragraph (1) shall be—
+&emsp;&emsp;Except as otherwise provided in subparagraph (C) and paragraphs (4), (5), and (6), theliability of the conservator or liquidating agent for the disaffirmance or repudiation of any contract pursuant to paragraph (1) shall be—
 
 &emsp;&emsp;&emsp;(i) limited to actual direct compensatory damages; and
 
@@ -542,9 +542,9 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 &emsp;&emsp;&emsp;(i) the purchaser—
 
-&emsp;&emsp;&emsp;&emsp;(I) shall continue to make all payments due under the contract after thedate of the repudiation of the contract; and
+&emsp;&emsp;&emsp;&emsp;(I) shall continue to make all payments due under the contract after the date of the repudiation of the contract; and
 
-&emsp;&emsp;&emsp;&emsp;(II) may offset against any such payments any damages which accrue after such date due to the nonperformance (after such date) of any obligation of the credit union under the contract; and
+&emsp;&emsp;&emsp;&emsp;(II) may offset against any such payments any damages which accrue aftersuch date due to the nonperformance (after such date) of any obligation of the credit union under the contract; and
 
 &emsp;&emsp;&emsp;(ii) the conservator or liquidating agent shall—
 
@@ -618,7 +618,7 @@ Liquidation to facilitate prompt corrective action.—The Board may close any cr
 
 #### (i) Qualified financial contract
 
-&emsp;&emsp;&emsp;The term “qualified financial contract” means any securities contract, forward contract, repurchase agreement, and anysimilar agreement that the Board determines by regulation to be a qualified financial contract for purposes of this paragraph.
+&emsp;&emsp;&emsp;The term “qualified financial contract” means any securities contract, forward contract, repurchase agreement, and any similar agreement that the Board determines by regulation to be a qualified financial contract for purposes of this paragraph.
 
 #### (ii) Securities contract
 

@@ -16,7 +16,7 @@ Based on title 18, U.S.C., 1940 ed., §§231, 629 (Mar. 4, 1909, ch. 321, §125,
 
 Words “except as otherwise expressly provided by law” were inserted to avoid conflict with perjury provisions in other titles where the punishment and application vary.
 
-More than 25 additional provisions are in the code. For construction and application of several such sections, see <i>Behrle v. United States</i> (App. D.C. 1938, 100 F. 2d 714), <i>United States v. Hammer</i> (D.C.N.Y., 1924, 299 F. 1011, affirmed, 6 F. 2d 786), <i>Rosenthal v. United States</i> (1918, 248 F. 684, 160 C.C.A. 584), cf. <i>Epstein v. United States</i> (1912, 196 F. 354, 116 C.C.A. 174, certiorari denied 32 S. Ct. 527, 223 U.S. 731, 56 L. ed. 634).
+More than 25 additional provisions are in the code. For construction and application of several such sections, see <i>Behrle v. United States</i> (App. D.C. 1938, 100 F. 2d 714), <i>United States v. Hammer</i> (D.C.N.Y., 1924, 299 F. 1011, affirmed, 6 F. 2d 786), <i>Rosenthal v. United States</i> (1918, 248 F. 684, 160 C.C.A. 584), cf. <i>Epstein v. United</i><i>States</i> (1912, 196 F. 354, 116 C.C.A. 174, certiorari denied 32 S. Ct. 527, 223 U.S. 731, 56 L. ed. 634).
 
 Mandatory punishment provisions were rephrased in the alternative.
 
@@ -32,5 +32,5 @@ Minor verbal changes were made.
 
 #### Section Referred to in Other Sections
 
-This section is referred to in section 14 of this title; title 8 sections 1324a, 1357; title 30 section 49e; title 42 section 5197a; title 50 App. section 19.
+This section is referred to in title 8 sections 1324a, 1357; title 30 section 49e; title 42 section 5197a; title 50 App. section 19.
 

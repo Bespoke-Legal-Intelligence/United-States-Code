@@ -32,7 +32,7 @@
 
 &emsp;&emsp;(i) in the case of an order under a basic agreement, basic ordering agreement, or similar arrangement, is earlier than the date 30 days after the date the notice required by paragraph (1)(A)(ii) is published;
 
-&emsp;&emsp;(ii) in the case of a solicitation for research and development, is earlier than the date 45 days after the date the notice required by paragraph (1)(A)(i) is published; or
+&emsp;&emsp;(ii) in the case of a solicitation for research and development, is earlier than thedate 45 days after the date the notice required by paragraph (1)(A)(i) is published; or
 
 &emsp;&emsp;(iii) in any other case, is earlier than the date 30 days after the date the solicitation is issued.
 
@@ -90,9 +90,11 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (a
 
 &emsp;(E) the procurement is made for perishable subsistence supplies;
 
-&emsp;(F) the procurement is for utility services, other than telecommunication services, and only one source is available; or
+&emsp;(F) the procurement is for utility services, other than telecommunication services, and only one source is available;
 
-&emsp;(G) the procurement is for the services of an expert for use in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify.
+&emsp;(G) the procurement is for the services of an expert for use in any litigation or dispute (including any reasonably foreseeable litigation or dispute) involving the Federal Government in any trial, hearing, or proceeding before any court, administrative tribunal, or agency, or in any part of an alternative dispute resolution process, whether or not the expert is expected to testify; or
+
+&emsp;(H) the procurement is by the Secretary of Homeland Security pursuant to the special procedures provided in section 393(c) of title 6.
 
 (2) The requirements of subsection (a)(1)(A) of this section do not apply to any procurement under conditions described in paragraph (2), (3), (4), (5), or (7) of section 253(c) of this title or paragraph (2), (3), (4), (5), or (7) of section 2304(c) of title 10.
 
@@ -102,13 +104,15 @@ Each notice of solicitation required by subparagraph (A) or (B) of subsection (a
 
 An executive agency shall make available to any business concern, or the authorized representative of such concern, the complete solicitation package for any on-going procurement announced pursuant to a notice of solicitation under subsection (a) of this section. An executive agency may require the payment of a fee, not exceeding the actual cost of duplication, for a copy of such package.
 
-(Pub. L. 93–400, §18, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1195; amended Pub. L. 98–577, title III, §303(a), Oct. 30, 1984, 98 Stat. 3077; Pub. L. 99–500, §101(c) \[title X, §922(b), (d)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §922(b), (d)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–151, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, §922(b), (d)(2), Nov. 14, 1986, 100 Stat. 3931, 3932; renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, §806(d), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §1055(b)(1), title IV, §§4201(b), (c), 4202(a)–(c), title VIII, §8302, title IX, §9001(b), Oct. 13, 1994, 108 Stat. 3265, 3344, 3398, 3402; Pub. L. 104–106, div. D, title XLI, §4101(c), title XLII, §4202(d), title XLIII, §§4310, 4321(h)(3), Feb. 10, 1996, 110 Stat. 642, 654, 670, 675; Pub. L. 105–85, div. A, title VIII, §850(e)(2), Nov. 18, 1997, 111 Stat. 1849; Pub. L. 105–261, div. A, title X, §1069(d)(1), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–209.)
+(Pub. L. 93–400, §18, as added Pub. L. 98–369, div. B, title VII, §2732(a), July 18, 1984, 98 Stat. 1195; amended Pub. L. 98–577, title III, §303(a), Oct. 30, 1984, 98 Stat. 3077; Pub. L. 99–500, §101(c) \[title X, §922(b), (d)(2)\], Oct. 18, 1986, 100 Stat. 1783–82, 1783–151, 1783–152, and Pub. L. 99–591, §101(c) \[title X, §922(b), (d)(2)\], Oct. 30, 1986, 100 Stat. 3341–82, 3341–151, 3341–152; Pub. L. 99–661, div. A, title IX, formerly title IV, §922(b), (d)(2), Nov. 14, 1986, 100 Stat. 3931, 3932; renumbered title IX, Pub. L. 100–26, §3(5), Apr. 21, 1987, 101 Stat. 273; Pub. L. 101–510, div. A, title VIII, §806(d), Nov. 5, 1990, 104 Stat. 1592; Pub. L. 103–355, title I, §1055(b)(1), title IV, §§4201(b), (c), 4202(a)–(c), title VIII, §8302, title IX, §9001(b), Oct. 13, 1994, 108 Stat. 3265, 3344, 3398, 3402; Pub. L. 104–106, div. D, title XLI, §4101(c), title XLII, §4202(d), title XLIII, §§4310, 4321(h)(3), Feb. 10, 1996, 110 Stat. 642, 654, 670, 675; Pub. L. 105–85, div. A, title VIII, §850(e)(2), Nov. 18, 1997, 111 Stat. 1849; Pub. L. 105–261, div. A, title X, §1069(d)(1), Oct. 17, 1998, 112 Stat. 2136; Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(a), (b)\], Oct. 30, 2000, 114 Stat. 1654, 1654A–209; Pub. L. 107–296, title VIII, §833(c)(2), Nov. 25, 2002, 116 Stat. 2226.)
 
 #### Codification
 
 Pub. L. 99–591 is a corrected version of Pub. L. 99–500.
 
 #### Amendments
+
+2002—Subsec. (c)(1)(H). Pub. L. 107–296 added subpar. (H).
 
 2000—Subsec. (a)(1)(A). Pub. L. 106–398, §1 \[\[div. A\], title VIII, §810(a)(1)\], substituted “publish” for “furnish for publication by the Secretary of Commerce” in concluding provisions.
 
@@ -192,6 +196,10 @@ Subsec. (c)(1)(E). Pub. L. 98–577 added subpar. (E).
 
 Subsec. (d). Pub. L. 98–577 added subsec. (d).
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective 60 days after Nov. 25, 2002, see section 4 of Pub. L. 107–296, set out as an Effective Date note under section 101 of Title 6, Domestic Security.
+
 #### Effective Date of 2000 Amendment
 
 Amendment by Pub. L. 106–398 effective Oct. 1, 2000, and applicable with respect to solicitations issued on or after that date, see section 1 \[\[div. A\], title VIII, §810(e)\] of Pub. L. 106–398, set out as a note under section 637 of Title 15, Commerce and Trade.
@@ -226,5 +234,5 @@ Section 303(c) of Pub. L. 98–577 provided that: “The provisions of the amend
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 253, 253i, 253j, 427 of this title; title 10 sections 2304, 2304b, 2304c; title 15 section 637; title 20 section 1018a.
+This section is referred to in sections 253, 253i, 253j, 427 of this title; title 6 section 426; title 10 sections 2304, 2304b, 2304c; title 15 section 637; title 20 section 1018a.
 

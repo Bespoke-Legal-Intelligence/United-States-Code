@@ -8,7 +8,7 @@ The Secretary, acting through the Director of the United States Bureau of Mines,
 
 On or before the first day of July in each year beginning after August 29, 1984, the Secretary shall ascertain whether the requirements of section 1223(a) of this title have been met as to each institute and State.
 
-(Pub. L. 98–409, §4, Aug. 29, 1984, 98 Stat. 1538; Pub. L. 100–483, §6, Oct. 12, 1988, 102 Stat. 2340; Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
+(Pub. L. 98–409, §4, Aug. 29, 1984, 98 Stat. 1538; Pub. L. 100–483, §6, Oct. 12, 1988, 102 Stat. 2340;Pub. L. 102–285, §10(b), May 18, 1992, 106 Stat. 172.)
 
 #### Codification
 

@@ -176,5 +176,5 @@ Section 10 of Pub. L. 101–552, as amended by Pub. L. 102–354, §5(b)(6), Aug
 
 #### Section Referred to in Other Sections
 
-This section is referred to in title 12 section 4806.
+This section is referred to in title 6 section 293; title 12 section 4806.
 

@@ -6,7 +6,7 @@ The Secretary shall appoint, based upon nominations submitted by medical organiz
 
 #### (b) Meetings
 
-The Council shall meet once during each calendar quarter to discuss certain proposed changes in regulations and carrier manual instructions related to physician services identified by the Secretary. To the extent feasible andconsistent with statutory deadlines, such consultation shall occur before the publication of such proposed changes.
+The Council shall meet once during each calendar quarter to discuss certain proposed changes in regulations and carrier manual instructions related to physician services identified by the Secretary. To the extent feasible and consistent with statutory deadlines, such consultation shall occur before the publication of such proposed changes.
 
 #### (c) Reimbursement of expenses
 

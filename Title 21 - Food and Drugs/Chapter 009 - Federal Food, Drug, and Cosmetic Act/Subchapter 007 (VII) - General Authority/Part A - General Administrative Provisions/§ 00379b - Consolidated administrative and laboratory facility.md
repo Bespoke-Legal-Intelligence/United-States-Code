@@ -10,7 +10,7 @@ The Secretary shall solicit contract proposals under subsection (a) of this sect
 
 #### (c) Donations
 
-In carrying out this section, the Secretary shall have the power, in connection with real property, buildings, and facilities, to accept on behalf of the Food and Drug Administration gifts or donations of services or property, real or personal, as the Secretary determines to be necessary.
+In carrying out this section, the Secretary shall have the power, in connection with realproperty, buildings, and facilities, to accept on behalf of the Food and Drug Administration gifts or donations of services or property, real or personal, as the Secretary determines to be necessary.
 
 #### (d) Authorization of appropriations
 

@@ -20,6 +20,16 @@ Last seven words in the statute, “who shall have the powers hereinafter stated
 
 Committee on House Oversight of House of Representatives changed to Committee on House Administration of House of Representatives by House Resolution No. 5, One Hundred Sixth Congress, Jan. 6, 1999.
 
+#### Short Title of 2002 Amendments
+
+Pub. L. 107–347, §1(a), Dec. 17, 2002, 116 Stat. 2899, provided that: “This Act \[see Tables for classification\] may be cited as the ‘E-Government Act of 2002’.”
+
+Pub. L. 107–347, title III, §301(a), Dec. 17, 2002, 116 Stat. 2946, provided that: “This title \[enacting subchapter III of chapter 35 of this title, amending sections 3504 to 3506 of this title, section 2224 of Title 10, Armed Forces, sections 278g–3 and 278g–4 of Title 15, Commerce and Trade, and section 11331 of Title 40, Public Buildings, Property, and Works, repealing section 11332 of Title 40, enacting provisions set out as notes under section 3501 of this title, and repealing provisions set out as a note under section 3531 of this title\] may be cited as the ‘Federal Information Security Management Act of 2002’.”
+
+\[For another Federal Information Security Management Act of 2002, see section 1001(a) of Pub. L. 107–296, title X, Nov. 25, 2002, 116 Stat. 2259, set out as a note under section 101 of Title 6, Domestic Security.\]
+
+Pub. L. 107–198, §1, June 28, 2002, 116 Stat. 729, provided that: “This Act \[enacting section 3520 of this title, amending sections 3504 and 3506 of this title, renumbering former section 3520 of this title as section 3521, and enacting provisions set out as a note under section 601 of Title 5, Government Organization and Employees\] may be cited as the ‘Small Business Paperwork Relief Act of 2002’.”
+
 #### Short Title of 2000 Amendment
 
 Pub. L. 106–444, §1, Nov. 6, 2000, 114 Stat. 1929, provided that: “This Act \[enacting section 2910 of this title\] may be cited as the ‘Freedmen's Bureau Records Preservation Act of 2000’.”
@@ -40,7 +50,7 @@ Pub. L. 100–365, §1, July 13, 1988, 102 Stat. 823, provided that: “This Act
 
 #### Short Title of 1986 Amendments
 
-Pub. L. 99–500, §101(m) \[title VIII, §801\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §801\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335, provided that: “This title \[amending sections 3501 to 3507, 3511, 3514, and 3520 of this title and sections 751, 757, and 759 of Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under section 3503 of this title and section 757 of Title 40, amending provisions set out as a note under section 3503 of this title, and repealing provisions set out as a note under section 759 of Title 40\] may be cited as the ‘Paperwork Reduction Reauthorization Act of 1986’.”
+Pub. L. 99–500, §101(m) \[title VIII, §801\], Oct. 18, 1986, 100 Stat. 1783–308, 1783–335, and Pub. L. 99–591, §101(m) \[title VIII, §801\], Oct. 30, 1986, 100 Stat. 3341–308, 3341–335, provided that: “This title \[amending sections 3501 to 3507, 3511, 3514, and 3520 of this title and sections 751, 757, and 759 of former Title 40, Public Buildings, Property, and Works, enacting provisions set out as notes under section 3503 of this title and section 757 of former Title 40, amending provisions set out as a note under section 3503 of this title, and repealing provisions set out as a note under section 759 of former Title 40\] may be cited as the ‘Paperwork Reduction Reauthorization Act of 1986’.”
 
 Pub. L. 99–323, §1, May 27, 1986, 100 Stat. 495, provided: “That this Act \[amending sections 2101 and 2112 of this title and enacting provisions set out as a note under section 2112 of this title\] may be cited as the ‘Presidential Libraries Act of 1986’.”
 

@@ -90,11 +90,11 @@ Disclosure of information.—Any report, notification, application, or other doc
 
 #### Amendments
 
-<b>1994</b>—Subsec. (e). Pub. L. 103–270 inserted “or as is deemed necessary for law enforcement purposes” after “Except as otherwise provided in this chapter”.
+1994—Subsec. (e). Pub. L. 103–270 inserted “or as is deemed necessary for law enforcement purposes” after “Except as otherwise provided in this chapter”.
 
-<b>1987</b>—Pub. L. 100–191 amended section generally, substituting provisions relating to preliminary investigation and application for appointment of an independent counsel for provisions relating to application for appointment of an independent counsel.
+1987—Pub. L. 100–191 amended section generally, substituting provisions relating to preliminary investigation and application for appointment of an independent counsel for provisions relating to application for appointment of an independent counsel.
 
-<b>1983</b>—Subsec. (a). Pub. L. 97–409, §4(b), designated existing provisions as par. (1), substituted, “Upon receiving information that the Attorney General determines is sufficient to constitute grounds to investigate that any person covered by the Act has engaged in conduct described in subsection (a) or (c) of section 591 of this title, the Attorney General” for “The Attorney General, upon receiving specific information that any of the persons described in section 591(b) of this title has engaged in conduct described in section 591(a) of this title,”, inserted “In determining whether grounds to investigate exist, the Attorney General shall consider—(A) the degree of specificity of the information received, and (B) the credibility of the source of the information.”, and added par. (2).
+1983—Subsec. (a). Pub. L. 97–409, §4(b), designated existing provisions as par. (1), substituted, “Upon receiving information that the Attorney General determines is sufficient to constitute grounds to investigate that any person covered by the Act has engaged in conduct described in subsection (a) or (c) of section 591 of this title, the Attorney General” for “The Attorney General, upon receiving specific information that any of the persons described in section 591(b) of this title has engaged in conduct described in section 591(a) of this title,”, inserted “In determining whether grounds to investigate exist, the Attorney General shall consider—(A) the degree of specificity of the information received, and (B) the credibility of the source of the information.”, and added par. (2).
 
 Subsec. (b)(1). Pub. L. 97–409, §§2(a)(1)(A), 4(c), substituted “that there are no reasonable grounds to believe that further investigation or prosecution is warranted” for “that the matter is so unsubstantiated that no further investigation or prosecution is warranted” and substituted “independent counsel” for “special prosecutor”.
 

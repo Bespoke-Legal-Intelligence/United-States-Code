@@ -6,7 +6,7 @@
 
 #### (A) In general
 
-&emsp;&emsp;For each of fiscal years 1997, 1998, 1999, 2000, 2001, and 2002, the Secretary shall pay to each Indian tribe that has an approved tribal family assistance plan a tribal familyassistance grant for the fiscal year in an amount equal to the amount determined under subparagraph (B), which shall be reduced for a fiscal year, on a pro rata basis for each quarter, in the case of a tribal family assistance plan approved during a fiscal year for which the plan is to be in effect, and shall reduce the grant payable under section 603(a)(1) of this title to any State in which lies the service area or areas of the Indian tribe by that portion of the amount so determined that is attributable to expenditures by the State.
+&emsp;&emsp;For each of fiscal years 1997, 1998, 1999, 2000, 2001, and 2002, the Secretary shall pay to each Indian tribe that has an approved tribal family assistance plan a tribal family assistance grant for the fiscal year in an amount equal to the amount determined under subparagraph (B), which shall be reduced for a fiscal year, on a pro rata basis for each quarter, in the case of a tribal family assistance plan approved during a fiscal year for which the plan is to be in effect, and shall reduce the grant payable under section 603(a)(1) of this title to any State in which lies the service area or areas of the Indian tribe by that portion of the amount so determined that is attributable to expenditures by the State.
 
 #### (B) Amount determined
 
@@ -68,7 +68,7 @@
 
 #### (ii) Waiver authority
 
-&emsp;&emsp;&emsp;The Secretary of Labor may waive or modify the application of a provision ofsection 603(a)(5)(C) (other than clause (viii) thereof) of this title with respect to an Indian tribe to the extent necessary to enable the Indian tribe to operate a more efficient or effective program with the funds provided under this paragraph.
+&emsp;&emsp;&emsp;The Secretary of Labor may waive or modify the application of a provision of section 603(a)(5)(C) (other than clause (viii) thereof) of this title with respect to an Indian tribe to the extent necessary to enable the Indian tribe to operate a more efficient or effective program with the funds provided under this paragraph.
 
 #### (iii) Regulations
 
@@ -112,7 +112,7 @@ The Secretary, with the participation of Indian tribes, shall establish for each
 
 #### (d) Emergency assistance
 
-Nothing in this section shall preclude an Indian tribe from seeking emergency assistance from any Federal loan program or emergency fund.
+Nothing in this section shall preclude an Indian tribe from seeking emergency assistancefrom any Federal loan program or emergency fund.
 
 #### (e) Accountability
 
@@ -146,7 +146,7 @@ Section 611 of this title shall apply to an Indian tribe with an approved tribal
 
 &emsp;An Indian tribe described in paragraph (1) may apply to the appropriate State authority to receive a waiver of the requirement of paragraph (1).
 
-(Aug. 14, 1935, ch. 531, title IV, §412, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2150; amended Pub. L. 105–33, title V, §§5001(c), 5508, 5514(c), Aug. 5, 1997, 111 Stat. 589,617, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(b)(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–12.)
+(Aug. 14, 1935, ch. 531, title IV, §412, as added Pub. L. 104–193, title I, §103(a)(1), Aug. 22, 1996, 110 Stat. 2150; amended Pub. L. 105–33, title V, §§5001(c), 5508, 5514(c), Aug. 5, 1997, 111 Stat. 589, 617, 620; Pub. L. 106–113, div. B, §1000(a)(4) \[title VIII, §801(b)(2)\], Nov. 29, 1999, 113 Stat. 1535, 1501A–283; Pub. L. 106–554, §1(a)(1) \[title I, §107(b)(5)\], Dec. 21, 2000, 114 Stat. 2763, 2763A–12.)
 
 #### References in Text
 

@@ -86,7 +86,7 @@ Section 1 of Pub. L. 103–197 provided that: “Congress finds that—
 
 &emsp;“(4) Army, Navy, Marine Corps, and Coast Guard units distinguished themselves with their heroic bravery and sacrifice;
 
-&emsp;“(5) the Guam Insular Force Guard, the Guam militia, and the people of Guam earned the highest respect for their defense of the island during the Japanese invasion and their resistance during the occupation; their assistance to the American forces as scouts for the American invasion was invaluable; andtheir role, as members of the Guam Combat Patrol, was instrumental in seeking out the remaining Japanese forces and restoring peace to the island;
+&emsp;“(5) the Guam Insular Force Guard, the Guam militia, and the people of Guam earned the highest respect for their defense of the island during the Japanese invasion and their resistance during the occupation; their assistance to the American forces as scouts for the American invasion was invaluable; and their role, as members of the Guam Combat Patrol, was instrumental in seeking out the remaining Japanese forces and restoring peace to the island;
 
 &emsp;“(6) during the occupation, the people of Guam—
 
@@ -100,7 +100,7 @@ Section 1 of Pub. L. 103–197 provided that: “Congress finds that—
 
 &emsp;“(7) the liberation of the Mariana Islands marked a pivotal point in the Pacific war and led to the American victories at Iwo Jima, Okinawa, the Philippines, Taiwan, and the south China coast, and ultimately against the Japanese home islands;
 
-&emsp;“(8) the Mariana Islands of Guam, Saipan, and Tinian provided, for the first time during the war, air bases which allowed land-based American bombers to reach strategic targets in Japan; and
+&emsp;“(8) the Mariana Islands of Guam, Saipan, and Tinian provided, for the first time during the war, airbases which allowed land-based American bombers to reach strategic targets in Japan; and
 
 &emsp;“(9) the air offensive conducted from the Marianas against the Japanese war-making capability helped shorten the war and ultimately reduced the toll of lives to secure peace in the Pacific.”
 

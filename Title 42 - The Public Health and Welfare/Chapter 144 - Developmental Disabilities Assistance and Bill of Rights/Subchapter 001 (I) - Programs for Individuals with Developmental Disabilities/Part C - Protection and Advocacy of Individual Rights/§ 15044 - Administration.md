@@ -38,7 +38,7 @@ In a State in which the system described in section 15043 of this title is organ
 
 #### (2) Use of amounts from judgment
 
-&emsp;An amount received pursuant to a suit described in paragraph (1) through a court judgment may only be used by the system to further the purpose of this part and shall not be used to augment payments to legal contractors or to award personal bonuses.
+&emsp;An amount received pursuant to a suit described in paragraph (1) through a court judgment may only be used by the system to further the purpose of this part and shall not beused to augment payments to legal contractors or to award personal bonuses.
 
 #### (3) Limitation
 

@@ -4,7 +4,7 @@
 
 Bonus Authorized.—(1) A dental officer described in subsection (b) who executes a written agreement to remain on active duty for two, three, or four years after completion of any other active-duty service commitment may, upon acceptance of the written agreement by the Secretary of the military department concerned, be paid a retention bonus as provided in this section.
 
-(2) The amount of a retention bonus under paragraph (1) may not exceed $14,000 for each year covered by a four-year agreement. The maximum yearly retention bonus for two-year and three-year agreements shall be reduced to reflect the shorter service commitment.
+(2) The amount of a retention bonus under paragraph (1) may not exceed $50,000 for each year covered by a four-year agreement. The maximum yearly retention bonus for two-year and three-year agreements shall be reduced to reflect the shorter service commitment.
 
 (b)
 
@@ -32,9 +32,17 @@ Refunds.—(1) Refunds shall be required, on a pro rata basis, of sums paid unde
 
 (3) A discharge in bankruptcy under title 11, United States Code, that is entered less than five years after the termination of an agreement under this section does not discharge the member signing such agreement from a debt arising under such agreement or under paragraph (1). This paragraph applies to any case commenced under title 11 after the date of the enactment of the National Defense Authorization Act for Fiscal Year 1998.
 
-(Added Pub. L. 105–85, div. A, title VI, §617(a), Nov. 18, 1997, 111 Stat. 1788.)
+(Added Pub. L. 105–85, div. A, title VI, §617(a), Nov. 18, 1997, 111 Stat. 1788; amended Pub. L. 107–314, div. A, title VI, §615(b), Dec. 2, 2002, 116 Stat. 2568.)
 
 #### References in Text
 
 The date of the enactment of the National Defense Authorization Act for Fiscal Year 1998, referred to in subsec. (d)(3), is the date of enactment of Pub. L. 105–85, which was approved Nov. 18, 1997.
+
+#### Amendments
+
+2002—Subsec. (a)(2). Pub. L. 107–314 substituted “$50,000” for “$14,000”.
+
+#### Application of Increase
+
+In case of amendment by section 615 of Pub. L. 107–314 to increase maximum amount of special pay or bonus that may be paid during any 12-month period, the amended limitation is applicable to 12-month periods beginning after Sept. 30, 2002, see section 615(i) of Pub. L. 107–314, set out as a note under section 301d of this title.
 

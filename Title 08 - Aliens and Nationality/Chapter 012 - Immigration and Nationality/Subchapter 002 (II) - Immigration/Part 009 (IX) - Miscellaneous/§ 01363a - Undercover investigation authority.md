@@ -12,7 +12,7 @@ With respect to any undercover investigative operation of the Service which is n
 
 &emsp;&emsp;(C) section 255 of title 41,
 
-&emsp;&emsp;(D) section 34 of title 40,
+&emsp;&emsp;(D) section 8141 of title 40,
 
 &emsp;&emsp;(E) section 3324(a) and (b) of title 31,
 
@@ -49,6 +49,12 @@ Subsection (c) of section 254 of title 41, referred to in subsec. (a)(1)(G), was
 #### Codification
 
 In subsec. (a)(1)(A), (E), (2) to (4), “section 1341(a) of title 31” substituted for “section 3679(a) of the Revised Statutes (31 U.S.C. 1341)”, “section 3324(a) and (b) of title 31” substituted for “section 3648 of the Revised Statutes (31 U.S.C. 3324)”, “section 9102 of title 31” substituted for “section 304 of the Government Corporation Control Act (31 U.S.C. 9102)”, “section 3302(a) of title 31” substituted for “section 3639 of the Revised Statutes (31 U.S.C. 3302)”, and “section 3302(b) of title 31” substituted for “section 3617 of the Revised Statutes (31 U.S.C. 3302)”, on authority of Pub. L. 97–258, §4(b), Sept. 13, 1982, 96 Stat. 1067, the first section of which enacted Title 31, Money and Finance.
+
+In subsec. (a)(1)(D), “section 8141 of title 40” substituted for “the third undesignated paragraph under the heading ‘Miscellaneous’ of the Act of March 3, 1877 (19 Stat. 370; 40 U.S.C. 34)” on authority of Pub. L. 107–217, §5(c), Aug. 21, 2002, 116 Stat. 1303, the first section of which enacted Title 40, Public Buildings, Property, and Works.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -8,7 +8,7 @@
 
 &emsp;(2) accounts of employees of Government corporations or mixed ownership Government corporations may be paid by the corporations.
 
-(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 496; Pub. L. 96–70, title III, §3302(e)(7), Sept. 27, 1979, 93 Stat. 498; Pub. L. 104–316, title II, §202(b), Oct. 19, 1996, 110 Stat. 3842.)
+(Pub. L. 89–554, Sept. 6, 1966, 80 Stat. 496; Pub. L. 96–70, title III, §3302(e)(7), Sept. 27, 1979, 93 Stat.498; Pub. L. 104–316, title II, §202(b), Oct. 19, 1996, 110 Stat. 3842.)
 
 Historical and Revision Notes
 

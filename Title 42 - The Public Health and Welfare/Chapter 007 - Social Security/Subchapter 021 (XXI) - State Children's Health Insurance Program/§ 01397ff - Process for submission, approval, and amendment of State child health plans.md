@@ -32,13 +32,13 @@
 
 #### (A) In general
 
-&emsp;&emsp;Subject to the succeeding provisions of this paragraph, an amendment to a State plan shall take effect on one or more effective dates specified in the amendment.
+&emsp;&emsp;Subject to the succeeding provisions of this paragraph, an amendment to a Stateplan shall take effect on one or more effective dates specified in the amendment.
 
 #### (B) Amendments relating to eligibility or benefits
 
 #### (i) Notice requirement
 
-&emsp;&emsp;&emsp;Any plan amendment that eliminates or restricts eligibility or benefits under the plan may not take effect unless the Statecertifies that it has provided prior public notice of the change, in a form and manner provided under applicable State law.
+&emsp;&emsp;&emsp;Any plan amendment that eliminates or restricts eligibility or benefits under the plan may not take effect unless the State certifies that it has provided prior public notice of the change, in a form and manner provided under applicable State law.
 
 #### (ii) Timely transmittal
 

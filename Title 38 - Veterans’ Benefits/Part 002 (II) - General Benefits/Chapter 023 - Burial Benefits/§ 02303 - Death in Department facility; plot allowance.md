@@ -66,7 +66,7 @@ Subsec. (b). Pub. L. 95–476 substituted provisions requiring Administrator to 
 
 1976—Subsec. (a). Pub. L. 94–581 inserted “, nursing home,” after “hospital” and substituted “611(a)” for “611” in provisions preceding par. (1).
 
-1973—Pub. L. 93–43, in revising text, substituted reference to section “611” for “611(a)” in opening text of subsec. (a), designated existing provisions of subsec. (a) as first part of par. (1) of such subsec. (a), incorporated provisions of former subsec. (c) as second part of par. (1) of subsec. (a), redesignated former subsec. (b) as par. (2) of subsec. (a), and added subsec. (b).
+1973—Pub. L. 93–43, in revising text, substituted reference to section “611” for “611(a)” in opening text of subsec. (a), designated existing provisions of subsec. (a) as first part of par. (1) of such subsec. (a), incorporated provisions of former subsec. (c) as second part of par.\(1) of subsec. (a), redesignated former subsec. (b) as par. (2) of subsec. (a), and added subsec. (b).
 
 1966—Subsec. (b). Pub. L. 89–358 struck out last sentence including the Canal Zone in the term “State” for purposes of subsec. (b), now incorporated in section 101(20) of this title.
 

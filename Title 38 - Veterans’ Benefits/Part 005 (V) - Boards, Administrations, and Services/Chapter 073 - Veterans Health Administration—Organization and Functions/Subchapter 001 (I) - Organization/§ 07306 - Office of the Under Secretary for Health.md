@@ -54,7 +54,7 @@
 
 &emsp;(2) with respect to the programs established under section 1712A of this title, a clinician with appropriate expertise in those programs is responsible to the Under Secretary for the management of those programs.
 
-(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, titleII, §205, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 102–585, title V, §511(b), Nov. 4, 1992, 106 Stat. 4956; Pub. L. 103–446, title XII, §1201(c)(3), Nov. 2, 1994, 108 Stat. 4683; Pub. L. 104–262, title III, §344, Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–419, title II, §206, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 107–135, title I, §131, Jan. 23, 2002, 115 Stat. 2454.)
+(Added Pub. L. 102–40, title IV, §401(a)(3), May 7, 1991, 105 Stat. 212; amended Pub. L. 102–405, title II, §205, title III, §302(c)(1), Oct. 9, 1992, 106 Stat. 1983, 1984; Pub. L. 102–585, title V, §511(b), Nov. 4, 1992, 106 Stat. 4956; Pub. L. 103–446, title XII, §1201(c)(3), Nov. 2, 1994, 108 Stat. 4683; Pub. L. 104–262, title III, §344, Oct. 9, 1996, 110 Stat. 3207; Pub. L. 106–419, title II, §206, Nov. 1, 2000, 114 Stat. 1842; Pub. L. 107–135, title I, §131, Jan. 23, 2002, 115 Stat. 2454.)
 
 #### Amendments
 

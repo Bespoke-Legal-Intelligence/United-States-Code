@@ -2,7 +2,7 @@
 
 #### (a) Federal recognition
 
-Notwithstanding any provision of law, Federal recognition is hereby extended to the tribe and to members of the tribe. Except as otherwise provided in this subchapter, all laws and regulations of the United States of general application to Indians or nations, tribes, or bands of Indians which are not inconsistent with any specificprovision of this subchapter shall be applicable to the tribe and its members.
+Notwithstanding any provision of law, Federal recognition is hereby extended to the tribe and to members of the tribe. Except as otherwise provided in this subchapter, all laws and regulations of the United States of general application to Indians or nations, tribes, or bands of Indians which are not inconsistent with any specific provision of this subchapter shall be applicable to the tribe and its members.
 
 #### (b) Restoration of rights and privileges
 

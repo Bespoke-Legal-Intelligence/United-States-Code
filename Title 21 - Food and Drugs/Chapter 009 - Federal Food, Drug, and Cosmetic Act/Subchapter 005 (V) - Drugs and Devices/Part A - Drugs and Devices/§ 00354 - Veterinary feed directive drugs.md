@@ -12,7 +12,7 @@
 
 (3)(A) Any persons involved in the distribution or use of animal feed bearing or containing a veterinary feed directive drug and the licensed veterinarian issuing the veterinary feed directive shall maintain a copy of the veterinary feed directive applicable to each such feed, except in the case of a person distributing such feed to another person for further distribution. Such person distributing the feed shall maintain a written acknowledgment from the person to whom the feed is shipped stating that that person shall not ship or move such feed to an animal production facility without a veterinary feed directive or ship such feed to another person for further distribution unless that person has provided the same written acknowledgment to its immediate supplier.
 
-(B) Every person required under subparagraph (A) to maintain records, and every person incharge or custody thereof, shall, upon request of an officer or employee designated by the Secretary, permit such officer or employee at all reasonable times to have access to and copy and verify such records.
+(B) Every person required under subparagraph (A) to maintain records, and every person in charge or custody thereof, shall, upon request of an officer or employee designated by the Secretary, permit such officer or employee at all reasonable times to have access to and copy and verify such records.
 
 (C) Any person who distributes animal feed bearing or containing a veterinary feed directive drug shall upon first engaging in such distribution notify the Secretary of that person's name and place of business. The failure to provide such notification shall be deemed to be an act which results in the drug being misbranded.
 

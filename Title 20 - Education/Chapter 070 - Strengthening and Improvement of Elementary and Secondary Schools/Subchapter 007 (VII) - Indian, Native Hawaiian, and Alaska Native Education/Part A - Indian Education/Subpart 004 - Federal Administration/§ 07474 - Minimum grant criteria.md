@@ -14,7 +14,7 @@ A prior section 7474, Pub. L. 89–10, title VII, §7144, as added Pub. L. 103�
 
 Prior sections 7475 to 7480 were omitted in the general amendment of this subchapter by Pub. L. 107–110.
 
-Section 7475, Pub. L. 89–10, title VII, §7145, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3734,related to graduate fellowships in bilingual education program.
+Section 7475, Pub. L. 89–10, title VII, §7145, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3734, related to graduate fellowships in bilingual education program.
 
 Section 7476, Pub. L. 89–10, title VII, §7146, as added Pub. L. 103–382, title I, §101, Oct. 20, 1994, 108 Stat. 3735, related to application for professional development award. See section 6951 of this title.
 

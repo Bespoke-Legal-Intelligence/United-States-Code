@@ -76,7 +76,7 @@
 
 &emsp;(D) in the case of transfers described in paragraph (5)(A)—
 
-&emsp;&emsp;(i) in the case of transfers to part B of this subchapter, information on the supportive services, or services provided through senior centers, for which the transfers were used; and
+&emsp;&emsp;(i) in the case of transfers to part B of this subchapter, information on the supportiveservices, or services provided through senior centers, for which the transfers were used; and
 
 &emsp;&emsp;(ii) the effect of the transfers on the provision of services provided under—
 
@@ -126,7 +126,7 @@ Subsec. (b)(4). Pub. L. 102–375, §§308(2)(A), 904(a)(14)(B), designated exis
 
 Subsec. (b)(5) to (7). Pub. L. 102–375, §308(2)(B), added pars. (5) to (7) and struck out former par. (5) which read as follows:
 
-“(A) Notwithstanding any other provisions of this subchapter and except as provided in subparagraph (B), with respect to funds received under subsection (a)(1)and subsection (b) of section 3023 of this title, a State may elect to transfer not more than 20 per centum of the funds allotted for any fiscal year between programs under part B and part C of this subchapter, for use as the State considers appropriate. The State shall notify the Commissioner of any such election.
+“(A) Notwithstanding any other provisions of this subchapter and except as provided in subparagraph (B), with respect to funds received under subsection (a)(1) and subsection (b) of section 3023 of this title, a State may elect to transfer not more than 20 per centum of the funds allotted for any fiscal year between programs under part B and part C of this subchapter, for use as the State considers appropriate. The State shall notify the Commissioner of any such election.
 
 “(B) Of the funds received under subsections (a)(1) and (b) of section 3023 of this title, a State may elect to transfer under subparagraph (A) not more than 30 percent of the funds allotted for any fiscal year.”
 
@@ -150,7 +150,7 @@ Pub. L. 100–175, §129(c)(2)(B), inserted “subsections (a)(1) and (b) of” 
 
 Subsec. (a)(2). Pub. L. 98–459, §308(a)(2), substituted “available to a State under subsection (b)(1) of this section” for “received by a State under this section”.
 
-Subsec. (b)(1). Pub. L. 98–459, §308(b)(6), added par. (1). Former par. (1), which contained provisions, with respect to allotments to States for State planning, coordination, evaluation, and administration of State plans, that each State had to be allotted funds on the basis of its population aged 60 or older as compared to all States, and specifying minimum amounts for each State of no less than one-half of 1 percent of appropriations or $300,000, whichever was greater, and for territories of no less than one-fourth of 1 percent of appropriations or $75,000, whichever was greater, was struck out.
+Subsec. (b)(1). Pub. L. 98–459, §308(b)(6), added par. (1). Former par. (1), which contained provisions, with respect to allotments to States for State planning, coordination, evaluation, and administration of State plans, that each State had to be allotted funds on the basis of its population aged 60 or older as compared toall States, and specifying minimum amounts for each State of no less than one-half of 1 percent of appropriations or $300,000, whichever was greater, and for territories of no less than one-fourth of 1 percent of appropriations or $75,000, whichever was greater, was struck out.
 
 Subsec. (b)(2). Pub. L. 98–459, §308(b)(6), added par. (2). Former par. (2) redesignated (3).
 

@@ -24,7 +24,7 @@ Depositions.—(1) In a proceeding or investigation, the Secretary, Under Secret
 
 (3) Before taking a deposition, the party or the attorney of the party proposing to take the deposition must give reasonable notice in writing to the opposing party or the attorney of record of that party. The notice shall state the name of the witness and the time and place of taking the deposition.
 
-(4) The testimony of a person deposed under this subsection shall be under oath. The persontaking the deposition shall prepare, or cause to be prepared, a transcript of the testimony taken. The transcript shall be subscribed by the deponent. Each deposition shall be filed promptly with the Secretary, Under Secretary, or Administrator.
+(4) The testimony of a person deposed under this subsection shall be under oath. The person taking the deposition shall prepare, or cause to be prepared, a transcript of the testimony taken. The transcript shall be subscribed by the deponent. Each deposition shall be filed promptly with the Secretary, Under Secretary, or Administrator.
 
 (5) If the laws of a foreign country allow, the testimony of a witness in that country may be taken by deposition—
 
@@ -208,7 +208,7 @@ In subsection (c)(1), the words “pending before it, at any stage of such proce
 
 In subsection (c)(4), the words “shall be cautioned . . . to testify the whole truth, and shall be carefully examined” in 49 App.:1484(f) are omitted as surplus. The words “shall be under oath” are substituted for “shall be required to swear (or affirm, if he so requests)” for consistency and because of 1:1.
 
-In subsection (d), the words “that the witness and individual would have been” are added for clarity andconsistency in the revised title and with other titles of the Code. The words “fees, charges, or” and “on the subject” are omitted as surplus.
+In subsection (d), the words “that the witness and individual would have been” are added for clarity and consistency in the revised title and with other titles of the Code. The words “fees, charges, or” and “on the subject” are omitted as surplus.
 
 In subsection (e), the words “duly . . . for such purpose” are omitted as surplus. The words “employee appointed under section 3105 of title 5” are substituted for “examiner”, and the words “subpena witnesses” are substituted for “sign and issue subpenas”, for consistency in the revised title and with other titles of the Code. The words “In all cases heard by an examiner or a single member” are omitted as surplus.
 
@@ -221,6 +221,10 @@ Subsec. (a)(4). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary
 Subsec. (b). Pub. L. 107–71, §140(b)(2), (6), inserted “the Under Secretary,” after ‘Secretary,” and substituted “, Under Secretary, or Administrator” for “or Administrator”.
 
 Subsecs. (c) to (e). Pub. L. 107–71, §140(b)(2), substituted “, Under Secretary, or Administrator” for “or Administrator” wherever appearing.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the Transportation Security Administration of the Department of Transportation, including the functions of the Secretary of Transportation, and of the Under Secretary of Transportation for Security, relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(2), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### Section Referred to in Other Sections
 

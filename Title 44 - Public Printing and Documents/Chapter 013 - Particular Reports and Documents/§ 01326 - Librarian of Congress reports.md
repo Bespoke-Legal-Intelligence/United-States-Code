@@ -1,6 +1,6 @@
 ### §1326. Librarian of Congress: reports
 
-Five thousand copies of the annual and special reports of the Librarian of Congress submittedto Congress, shall be printed and bound in cloth for the Library of Congress.
+Five thousand copies of the annual and special reports of the Librarian of Congress submitted to Congress, shall be printed and bound in cloth for the Library of Congress.
 
 (Pub. L. 90–620, Oct. 22, 1968, 82 Stat. 1270.)
 

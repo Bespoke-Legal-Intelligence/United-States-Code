@@ -10,7 +10,7 @@ The Secretary of Health and Human Services (hereafter in this section referred t
 
 #### (b) Limitation
 
-The Secretary may make a grant under subsection (a) of this section to an entity only if the entity will provide services under the grantin a geographic area, or to a population of individuals, not served by a program substantially similar to the program described in subsection (a) of this section.
+The Secretary may make a grant under subsection (a) of this section to an entity only if the entity will provide services under the grant in a geographic area, or to a population of individuals, not served by a program substantially similar to the program described in subsection (a) of this section.
 
 #### (c) Requirement of matching funds
 

@@ -14,7 +14,7 @@ Changes in arrangement and phraseology were made.
 
 #### Amendments
 
-<b>1966</b>—Pub. L. 89–558 provided for holding court at New London.
+1966—Pub. L. 89–558 provided for holding court at New London.
 
-<b>1961</b>—Pub. L. 87–36 provided for holding court at Bridgeport and Waterbury.
+1961—Pub. L. 87–36 provided for holding court at Bridgeport and Waterbury.
 

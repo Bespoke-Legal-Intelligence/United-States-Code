@@ -6,7 +6,7 @@ There shall be in the Department an Office of English Language Acquisition, Lang
 
 #### Prior Provisions
 
-A prior section 209 of Pub. L. 96–88 was renumbered section 208 and is classified to section 3419 of this title.
+A prior section 209 of Pub. L. 96–88 was renumbered section 208 and was classified to section 3419 of this title, prior to repeal by Pub. L. 107–279.
 
 #### Amendments
 

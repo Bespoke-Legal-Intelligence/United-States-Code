@@ -36,7 +36,7 @@ The Secretary shall, through the National Resource Center on Sexual Assault esta
 
 #### (1) Supplement not supplant
 
-&emsp;Amounts provided to States under this section shall be used to supplement and not supplant other Federal, State, and local public funds expended to provide services of the type described in subsection (a) of this section.
+&emsp;Amounts provided to States under this section shall be used to supplement and not supplant other Federal, State, and local publicfunds expended to provide services of the type described in subsection (a) of this section.
 
 #### (2) Studies
 

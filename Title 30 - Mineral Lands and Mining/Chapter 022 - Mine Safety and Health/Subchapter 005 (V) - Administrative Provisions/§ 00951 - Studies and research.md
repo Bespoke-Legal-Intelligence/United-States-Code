@@ -46,7 +46,7 @@ There is authorized to be appropriated to the Secretary of the Interior such sum
 
 #### (f) Exceptions to mandatory health and safety standards for improving techniques and equipment
 
-The Secretary is authorized to grant on a mine-by-mine basis an exception to any mandatory health or safety standard under this chapter for the purpose of permitting, under such terms and conditions as he may prescribe, accredited educational institutions the opportunity for experimenting with new and improved techniques and equipment to improve the health and safety of miners. No such exception shall be granted unless the Secretary finds that the granting of the exception will not adversely affect the health and safety of miners and publishes his findings.
+The Secretary is authorized to grant on a mine-by-mine basis an exception to any mandatory health or safety standard under this chapter for the purpose of permitting, under such terms and conditions as he may prescribe, accredited educational institutions the opportunity for experimenting with new and improvedtechniques and equipment to improve the health and safety of miners. No such exception shall be granted unless the Secretary finds that the granting of the exception will not adversely affect the health and safety of miners and publishes his findings.
 
 #### (g) Grants for research and development of respiratory equipment
 
@@ -56,7 +56,7 @@ The Secretary of Health and Human Services is authorized to make grants to any p
 
 #### References in Text
 
-The Occupational Safety and Health Act of 1970, referred to in subsec. (b), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see ShortTitle note set out under section 651 of Title 29 and Tables.
+The Occupational Safety and Health Act of 1970, referred to in subsec. (b), is Pub. L. 91–596, Dec. 29, 1970, 84 Stat. 1590, as amended, which is classified principally to chapter 15 (§651 et seq.) of Title 29, Labor. For complete classification of this Act to the Code, see Short Title note set out under section 651 of Title 29 and Tables.
 
 #### Amendments
 

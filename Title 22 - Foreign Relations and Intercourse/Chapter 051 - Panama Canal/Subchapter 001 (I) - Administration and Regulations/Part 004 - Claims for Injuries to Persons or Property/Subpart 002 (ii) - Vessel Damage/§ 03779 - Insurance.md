@@ -18,7 +18,7 @@
 
 #### Effective Date
 
-Section applicable to any claim arising on or after Dec. 23, 1985, see section 7(b)(1) of Pub. L. 99–209, set out as an Effective Date of 1985 Amendment note under section 3771 of this title.
+Section applicable to any claim arising on or after Dec. 23, 1985, see section 7(b)(1) of Pub. L. 99–209, set outas an Effective Date of 1985 Amendment note under section 3771 of this title.
 
 #### Section Referred to in Other Sections
 

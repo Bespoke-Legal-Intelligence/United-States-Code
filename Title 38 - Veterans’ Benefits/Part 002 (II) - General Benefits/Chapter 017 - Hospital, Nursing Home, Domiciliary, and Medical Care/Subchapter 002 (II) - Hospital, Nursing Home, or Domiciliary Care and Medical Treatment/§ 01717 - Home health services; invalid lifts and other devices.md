@@ -2,7 +2,7 @@
 
 (a)(1) As part of medical services furnished to a veteran under section 1710(a) of this title, the Secretary may furnish such home health services as the Secretary finds to be necessary or appropriate for the effective and economical treatment of the veteran.
 
-(2) Improvements and structural alterations may be furnished as part of such home healthservices only as necessary to assure the continuation of treatment for the veteran's disability or to provide access to the home or to essential lavatory and sanitary facilities. The cost of such improvements and structural alterations (or the amount of reimbursement therefor) under this subsection may not exceed—
+(2) Improvements and structural alterations may be furnished as part of such home health services only as necessary to assure the continuation of treatment for the veteran's disability or to provide access to the home or to essential lavatory and sanitary facilities. The cost of such improvements and structural alterations (or the amount of reimbursement therefor) under this subsection may not exceed—
 
 &emsp;(A) $4,100 in the case of medical services furnished under section 1710(a)(1) of this title, or for a disability described in section 1710(a)(2)(C) of this title; or
 

@@ -30,7 +30,7 @@ The support purchase prices under this section for each of the products of milk 
 
 #### (2) Timing of purchase price adjustments
 
-&emsp;The Secretary may make any such adjustments in the purchase prices for nonfat dry milk and butter the Secretary considers to be necessary not more than twice in each calendar year.
+&emsp;The Secretary may make any such adjustments in the purchase prices for nonfat drymilk and butter the Secretary considers to be necessary not more than twice in each calendar year.
 
 #### (e) Refunds of 1995 and 1996 assessments
 

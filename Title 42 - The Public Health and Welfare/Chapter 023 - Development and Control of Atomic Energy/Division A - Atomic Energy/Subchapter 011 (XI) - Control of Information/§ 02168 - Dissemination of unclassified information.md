@@ -42,7 +42,7 @@ The Secretary shall prepare on a quarterly basis a report to be made available u
 
 &emsp;(1) identify any information protected from disclosure pursuant to such regulation or order;
 
-&emsp;(2) specifically state the Secretary's justification for determining that unauthorized dissemination of the information protected from disclosure under such regulation or order could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of illegal production of nuclear weapons, or theft, diversion, or sabotage of nuclear materials,equipment, or facilities, as specified under subsection (a) of this section; and
+&emsp;(2) specifically state the Secretary's justification for determining that unauthorized dissemination of the information protected from disclosure under such regulation or order could reasonably be expected to have a significant adverse effect on the health and safety of the public or the common defense and security by significantly increasing the likelihood of illegal production of nuclear weapons, or theft, diversion, or sabotage of nuclear materials, equipment, or facilities, as specified under subsection (a) of this section; and
 
 &emsp;(3) provide justification that the Secretary has applied such regulation or order so as to protect from disclosure only the minimum amount of information necessary to protect the health and safety of the public or the common defense and security.
 

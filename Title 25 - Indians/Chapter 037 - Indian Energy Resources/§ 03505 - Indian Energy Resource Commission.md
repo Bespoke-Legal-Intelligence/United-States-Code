@@ -68,7 +68,7 @@ While away from their homes or regular places of business in the performance of 
 
 #### (4) Personnel detail authorized
 
-&emsp;Upon the request of the Chairperson, the head of any Federal agency is authorized to detail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this chapter. Such detail shall be without interruption or loss of civil service status or privilege.
+&emsp;Upon the request of the Chairperson, the head of any Federal agency is authorized todetail, on a reimbursable basis, any of the personnel of such agency to the Commission to assist the Commission in carrying out its duties under this chapter. Such detail shall be without interruption or loss of civil service status or privilege.
 
 #### (k) Duties of Commission
 

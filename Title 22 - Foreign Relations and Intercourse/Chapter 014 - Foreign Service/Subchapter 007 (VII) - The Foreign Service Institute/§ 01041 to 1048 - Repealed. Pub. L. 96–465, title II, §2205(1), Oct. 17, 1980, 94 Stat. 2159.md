@@ -1,6 +1,6 @@
 ### §§1041 to 1048. Repealed. Pub. L. 96–465, title II, §2205(1), Oct. 17, 1980, 94 Stat. 2159
 
-Section 1041, acts Aug. 13, 1946, ch. 957, title VII, §701, 60 Stat. 1018; Sept. 8, 1960, Pub. L. 86–723, §29, 74 Stat. 837; Sept. 4, 1961, Pub. L. 87–195, pt. IV, §708(1), 75 Stat. 464, related to establishment, etc., of Foreign Service Institute.
+Section 1041, acts Aug. 13, 1946, ch. 957, title VII, §701, 60 Stat. 1018; Sept. 8, 1960, Pub. L. 86–723, §29, 74 Stat.837; Sept. 4, 1961, Pub. L. 87–195, pt. IV, §708(1), 75 Stat. 464, related to establishment, etc., of Foreign Service Institute.
 
 Section 1042, act Aug. 13, 1946, ch. 957, title VII, §702, 60 Stat. 1018, related to appointment, salary, and duties of Director of Institute.
 

@@ -26,7 +26,7 @@ The requirements of this part shall not apply to any group health plan (and grou
 
 &emsp;&emsp;(B) There is no coordination between the provision of such benefits and any exclusion of benefits under any group health plan maintained by the same plan sponsor.
 
-&emsp;&emsp;(C) Such benefits are paid with respect to an event without regard to whether benefits are provided with respect to such an event under any group health plan maintained by the same plan sponsor.
+&emsp;&emsp;(C) Such benefits are paid with respect to an event without regard to whether benefits are provided with respect to such an eventunder any group health plan maintained by the same plan sponsor.
 
 #### (3) Supplemental excepted benefits
 

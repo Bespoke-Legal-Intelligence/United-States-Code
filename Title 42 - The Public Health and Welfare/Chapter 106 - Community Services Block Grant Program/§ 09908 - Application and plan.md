@@ -22,7 +22,7 @@
 
 #### (b) State application and plan
 
-Beginning with fiscal year 2000, to be eligible to receive a grant or allotment under section9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan covering a period of not less than 1 fiscal year and not more than 2 fiscal years. The plan shall be submitted not later than 30 days prior to the beginning of the first fiscal year covered by the plan, and shall contain such information as the Secretary shall require, including—
+Beginning with fiscal year 2000, to be eligible to receive a grant or allotment under section 9905 or 9906 of this title, a State shall prepare and submit to the Secretary an application and State plan covering a period of not less than 1 fiscal year and not more than 2 fiscal years. The plan shall be submitted not later than 30 days prior to the beginning of the first fiscal year covered by the plan, and shall contain such information as the Secretary shall require, including—
 
 &emsp;(1) an assurance that funds made available through the grant or allotment will be used—
 
@@ -128,7 +128,7 @@ For fiscal year 2000, to be eligible to receive a grant or allotment under secti
 
 The Social Security Act, referred to in subsec. (b)(1)(A), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Part A of title IV of the Act is classified generally to part A (§601 et seq.) of subchapter IV of chapter 7 of this title. For complete classification of this Act to the Code, see section 1305 of this title and Tables.
 
-Section 101 of such Act, referred to in subsec. (b)(5), is probably a reference to section 101 of the WorkforceInvestment Act of 1998, Pub. L. 105–220, which is classified to section 2801 of Title 29, Labor.
+Section 101 of such Act, referred to in subsec. (b)(5), is probably a reference to section 101 of the Workforce Investment Act of 1998, Pub. L. 105–220, which is classified to section 2801 of Title 29, Labor.
 
 The Workforce Investment Act of 1998, referred to in subsec. (b)(5), is Pub. L. 105–220, Aug. 7, 1998, 112 Stat. 936, as amended. For complete classification of this Act to the Code, see Short Title note set out under section 9201 of Title 20, Education, and Tables.
 

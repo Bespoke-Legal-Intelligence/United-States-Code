@@ -164,7 +164,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (A) In general
 
-&emsp;&emsp;If the amount any Federal Home Loan Bank is required to invest in capital stock of the Financing Corporation pursuant to a determination by the Federal Housing Finance Board under paragraph (5) (or under subparagraph (B) of this paragraph) exceeds themaximum investment amount applicable with respect to such bank under paragraph (3) at the time of such determination (hereinafter in this paragraph referred to as the “excess amount”)—
+&emsp;&emsp;If the amount any Federal Home Loan Bank is required to invest in capital stock of the Financing Corporation pursuant to a determination by the Federal Housing Finance Board under paragraph (5) (or under subparagraph (B) of this paragraph) exceeds the maximum investment amount applicable with respect to such bank under paragraph (3) at the time of such determination (hereinafter in this paragraph referred to as the “excess amount”)—
 
 &emsp;&emsp;&emsp;(i) the Federal Housing Finance Board shall require each remaining Federal Home Loan Bank to invest (in addition to the amount determined under paragraph (5) for such remaining bank and subject to the maximum investment amount applicable with respect to such remaining bank under paragraph (3) at the time of such determination) in such capital stock on behalf of the bank in the amount determined under subparagraph (B);
 
@@ -246,7 +246,7 @@ The Financing Corporation shall have only the following powers, subject to the o
 
 #### (4) Investment of United States funds in obligations
 
-&emsp;Obligations issued under this section by the Financing Corporation with the approval of the Federal Housing Finance Board shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and publicfunds the investment or deposit of which shall be under the authority or control of the United States or any officer of the United States.
+&emsp;Obligations issued under this section by the Financing Corporation with the approval of the Federal Housing Finance Board shall be lawful investments, and may be accepted as security, for all fiduciary, trust, and public funds the investment or deposit of which shall be under the authority or control of the United States or any officer of the United States.
 
 #### (5) Market for obligations
 
@@ -304,7 +304,7 @@ The Financing Corporation shall obtain funds for anticipated interest payments, 
 
 &emsp;&emsp;(B) obligations, participations, or other instruments of, or issued by, the Federal National Mortgage Association or the Government National Mortgage Association;
 
-&emsp;&emsp;(C) mortgages, obligations, or other securities for sale by, or which have been disposed of by, the Federal Home Loan Mortgage Corporation under section 1454 or 1455 of this title; or
+&emsp;&emsp;(C) mortgages, obligations, or other securities for sale by, or which have been disposedof by, the Federal Home Loan Mortgage Corporation under section 1454 or 1455 of this title; or
 
 &emsp;&emsp;(D) any other security in which it is lawful for fiduciary and trust funds to be invested under the laws of any State.
 
@@ -394,7 +394,7 @@ For purposes of this section, the following definitions shall apply:
 
 #### (2) Net earnings
 
-&emsp;The term “net earnings” means net earnings without reduction for any chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the FinancingCorporation or the purchase of stock of the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of section 1441b of this title.
+&emsp;The term “net earnings” means net earnings without reduction for any chargeoffs or expenses incurred by a Bank in connection with the purchase of capital stock of the Financing Corporation or the purchase of stock of the Funding Corporation required by the Thrift Depositor Protection Oversight Board under subsections (e) and (f) of section 1441b of this title.
 
 #### (3) Insured depository institution
 
@@ -474,7 +474,7 @@ Subsec. (c)(9). Pub. L. 101–73, §512(4), struck out “or section 1725(b) of 
 
 Subsec. (d)(1). Pub. L. 101–73, §512(2), substituted “Federal Housing Finance Board” for “Board” wherever appearing.
 
-Subsec. (d)(4). Pub. L. 101–73, §512(5), amended generally the portion of par. (4) appearing before the table. Prior to amendment, such portion read as follows: “With respect to the first $1,000,000,000 which the Board may require the Federal Home Loan Banks to invest in capital stock of the Financing Corporation under this subsection, the amount which each Federal Home Loan Bank (or any successor to such bank) shall invest shall be determined by the Board by applying to the totalamount of such investment by all such banks the percentage appearing in the following table for each such bank:”.
+Subsec. (d)(4). Pub. L. 101–73, §512(5), amended generally the portion of par. (4) appearing before the table. Prior to amendment, such portion read as follows: “With respect to the first $1,000,000,000 which the Board may require the Federal Home Loan Banks to invest in capital stock of the Financing Corporation under this subsection, the amount which each Federal Home LoanBank (or any successor to such bank) shall invest shall be determined by the Board by applying to the total amount of such investment by all such banks the percentage appearing in the following table for each such bank:”.
 
 Subsec. (d)(5). Pub. L. 101–73, §512(6), substituted “the $1,000,000,000 amount referred to in paragraph (4) which the Federal Housing Finance Board” for “$1,000,000,000 which the Board”.
 
@@ -562,7 +562,7 @@ Termination of certain assessment rates.—Subparagraph (A) of section 21(f)(2) 
 
 #### Effective Date of 1992 Amendment
 
-Section 1618 of Pub. L. 102–550 provided that: “Except as otherwise provided by a specific provision of this subtitle \[subtitle B (§§1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title\], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of this title\] and the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] shall take effect as if such amendments had been included in the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233\] as of the date of the enactment of such Act \[Dec. 12, 1991\].”
+Section 1618 of Pub. L. 102–550 provided that: “Except as otherwise provided by a specific provision of this subtitle \[subtitle B (§§1611–1618) of title XVI of Pub. L. 102–550, amending this section, sections 1441a, 1441b, 1821, 3345, and 3348 of this title and provisions set out as a note under section 1441a of this title\], the amendments made by this subtitle to the Resolution Trust Corporation Refinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233; see Short Title of 1991 Amendment note set out under section 1421 of this title\] and the Federal Home Loan Bank Act \[12 U.S.C. 1421 et seq.\] shall take effect as if such amendments had been included in the Resolution Trust CorporationRefinancing, Restructuring, and Improvement Act of 1991 \[Pub. L. 102–233\] as of the date of the enactment of such Act \[Dec. 12, 1991\].”
 
 #### Effective Date of 1991 Amendment
 

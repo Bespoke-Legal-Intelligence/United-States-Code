@@ -586,7 +586,7 @@ Section 707(f)(2) of Pub. L. 102–550 provided that: “The Secretary of Agricu
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490f, 1490j, 1490<i>l</i>, 1490p–1, 1490p–2, 1490r, 4851b, 8011, 13664 of this title; title 12 sections 1701q–2, 1717; title 26 section 42; title 40 App. section 207.
+This section is referred to in sections 1472, 1479, 1480, 1483, 1486, 1487, 1490a, 1490f, 1490j, 1490<i>l</i>, 1490p–1, 1490p–2, 1490r, 4851b, 8011, 13664 of this title; title 12 sections 1701q–2, 1717; title 26 section 42; title 40 section 14503.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

@@ -46,7 +46,7 @@ It shall be an affirmative defense to actions under subsection (a) or (g) of thi
 
 #### (d) Guidelines by Attorney General
 
-Not later than one year after August 23, 1988, the Attorney General, after consultation with the Commission, the Secretary of Commerce, the United States Trade Representative, the Secretary of State, and the Secretary of the Treasury, and after obtaining the views of all interested persons through public notice and comment procedures, shall determine to what extent compliance with this section would be enhanced and the business community would be assisted by further clarification of the preceding provisions of this section and may, based on such determination and to the extent necessary and appropriate, issue—
+Not later than one year after August 23, 1988, the Attorney General, after consultation withthe Commission, the Secretary of Commerce, the United States Trade Representative, the Secretary of State, and the Secretary of the Treasury, and after obtaining the views of all interested persons through public notice and comment procedures, shall determine to what extent compliance with this section would be enhanced and the business community would be assisted by further clarification of the preceding provisions of this section and may, based on such determination and to the extent necessary and appropriate, issue—
 
 &emsp;(1) guidelines describing specific types of conduct, associated with common types of export sales arrangements and business contracts, which for purposes of the Department of Justice's present enforcement policy, the Attorney General determines would be in conformance with the preceding provisions of this section; and
 
@@ -90,7 +90,7 @@ For purposes of this section:
 
 &emsp;&emsp;(ii) processing governmental papers, such as visas and work orders;
 
-&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspectionsassociated with contract performance or inspections related to transit of goods across country;
+&emsp;&emsp;(iii) providing police protection, mail pick-up and delivery, or scheduling inspections associated with contract performance or inspections related to transit of goods across country;
 
 &emsp;&emsp;(iv) providing phone service, power and water supply, loading and unloading cargo, or protecting perishable products or commodities from deterioration; or
 
@@ -156,11 +156,11 @@ Treatment as Public International Organizations.—
 
 &emsp;“(1)
 
-Treatment.—An international organization providing commercial communications services shall be treated as a public international organization for purposes of section 30A of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1) and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2 \[and 78dd–3\]) until such time as the President certifies to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committees on Banking, Housing and Urban Affairs and Commerce, Science, and Transportation that such international organization providing commercial communications services has achieved a pro-competitive privatization.
+Treatment.—An international organization providing commercial communications services shallbe treated as a public international organization for purposes of section 30A of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1) and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2 \[and 78dd–3\]) until such time as the President certifies to the Committee on Commerce \[now Committee on Energy and Commerce\] of the House of Representatives and the Committees on Banking, Housing and Urban Affairs and Commerce, Science, and Transportation that such international organization providing commercial communications services has achieved a pro-competitive privatization.
 
 &emsp;“(2)
 
-Limitation on effect of treatment.—The requirement for a certification under paragraph (1), and any certification made under such paragraph, shall not be construed to affect the administration by the Federal Communications Commission of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] in authorizing the provision of services to, from, or within theUnited States over space segment of the international satellite organizations, or the privatized affiliates or successors thereof.
+Limitation on effect of treatment.—The requirement for a certification under paragraph (1), and any certification made under such paragraph, shall not be construed to affect the administration by the Federal Communications Commission of the Communications Act of 1934 \[47 U.S.C. 151 et seq.\] in authorizing the provision of services to, from, or within the United States over space segment of the international satellite organizations, or the privatized affiliates or successors thereof.
 
 “(c)
 
@@ -266,7 +266,7 @@ Private sector review.—A description of the steps taken to ensure full involve
 
 &emsp;“(10)
 
-Additional information.—In consultation with the private sector participants and representatives of nongovernmental organizations described in paragraph (9), a list of additional means for enlarging the scope of the Convention and otherwise increasing its effectiveness. Such additional means shall include, but not be limited to, improved recordkeeping provisions and the desirability of expanding the applicability of the Convention to additional individuals and organizations and the impact on United States business of section 30A of the Securities Exchange Act of 1934 \[15 U.S.C. 78dd–1\] and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 \[15 U.S.C. 78dd–2, 78dd–3\].
+Additional information.—In consultation with the private sector participants and representatives of nongovernmental organizations described in paragraph (9), a list of additional means for enlargingthe scope of the Convention and otherwise increasing its effectiveness. Such additional means shall include, but not be limited to, improved recordkeeping provisions and the desirability of expanding the applicability of the Convention to additional individuals and organizations and the impact on United States business of section 30A of the Securities Exchange Act of 1934 \[15 U.S.C. 78dd–1\] and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977 \[15 U.S.C. 78dd–2, 78dd–3\].
 
 “(b)
 
@@ -299,6 +299,20 @@ Report to congress.—(A) Within 1 year after the date of the enactment of this 
 &emsp;“(iii) an assessment of the current and future role of private initiatives in curtailing such acts.”
 
 \[For delegation of functions of the President under section 5003(d)(1) of Pub. L. 100–418 to the Secretary of State, see section 3–101 of Ex. Ord. No. 12661, Dec. 27, 1988, 54 F.R. 779, set out as a note under section 2901 of Title 19, Customs Duties.\]
+
+#### Ex. Ord. No. 13259. Designation of Public International Organizations for Purposes of the Securities Exchange Act of 1934 and the Foreign Corrupt Practices Act of 1977
+
+Ex. Ord. No. 13259, Mar. 19, 2002, 67 F.R. 13239, provided:
+
+By the authority vested in me as President by the Constitution and the laws of the United States of America, including section 30A(f)(1)(B)(ii) of the Securities Exchange Act of 1934 (15 U.S.C. 78dd–1(f)(1)(B)(ii)) and sections 104(h)(2)(B)(ii) and 104A(f)(2)(B)(ii) of the Foreign Corrupt Practices Act of 1977 (15 U.S.C. 78dd–2(h)(2)(B)(ii), 78dd–3(f)(2)(B)(ii)), I hereby designate as “public international organizations” for the purposes of application of section 30A of the Securities Exchange Act of 1934 and sections 104 and 104A of the Foreign Corrupt Practices Act of 1977:
+
+(a) The European Union, including: the European Communities (the European Community, the European Coal \& Steel Community, and the European Atomic Energy Community); institutions of the European Union, such as the European Commission, the Council of the European Union, the European Parliament, the European Court of Justice, the European Court of Auditors, the Economic and Social Committee, the Committee of the Regions, the European Central Bank, and the European Investment Bank; and any departments, agencies, and instrumentalities thereof; and
+
+(b) The European Police Office (Europol), including any departments, agencies, and instrumentalities thereof.
+
+Designation in this Executive Order is intended solely to further the purposes of the statutes mentioned above and is not determinative of whether an entity is a public international organization for the purpose of other statutes or regulations.
+
+George W. Bush.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 #### Section Referred to in Other Sections
 

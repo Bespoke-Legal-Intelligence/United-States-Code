@@ -20,7 +20,7 @@ Provisions similar to those comprising this section were contained in former sec
 
 Section 844, Pub. L. 93–203, title II, §204, as added Pub. L. 95–524, §2, Oct. 27, 1978, 92 Stat. 1953, related to supplemental vocational education assistance.
 
-A prior section 844, Pub. L. 93–203, title II, §204, Dec. 28, 1973, 87 Stat. 850; Pub. L. 93–567, title I, §106 (c), (d), Dec. 31, 1974, 88 Stat. 1849, related to eligible applicants, prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
+A prior section 844, Pub. L. 93–203, title II, §204, Dec. 28, 1973, 87 Stat. 850; Pub. L. 93–567, title I, §106 (c), (d), Dec. 31, 1974, 88 Stat. 1849, related to eligible applicants,prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 
 Provisions similar to those comprising this section were contained in former section 822 of this title prior to the general revision of Pub. L. 93–203 by Pub. L. 95–524.
 

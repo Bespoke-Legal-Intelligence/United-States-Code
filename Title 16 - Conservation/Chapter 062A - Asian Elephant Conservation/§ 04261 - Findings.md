@@ -16,6 +16,10 @@ The Congress finds the following:
 
 (Pub. L. 105–96, §2, Nov. 19, 1997, 111 Stat. 2150.)
 
+#### Short Title of 2002 Amendment
+
+Pub. L. 107–141, §1, Feb. 12, 2002, 116 Stat. 13, provided that: “This Act \[enacting section 4265a of this title, amending sections 3709, 4214, 4245, 4246, 4263, 4265, and 4266 of this title, and enacting provisions set out as a note under section 4214 of this title\] may be cited as the ‘Asian Elephant Conservation Reauthorization Act of 2002’.”
+
 #### Short Title
 
 Section 1 of Pub. L. 105–96 provided that: “This Act \[enacting this chapter\] may be cited as the ‘Asian Elephant Conservation Act of 1997’.”

@@ -4,13 +4,15 @@
 
 The owner of an unpatented lode or placer mining claim located prior to October 21, 1976, shall, within the three-year period following October 21, 1976 and prior to December 31 of each year thereafter, file the instruments required by paragraphs (1) and (2) of this subsection. The owner of an unpatented lode or placer mining claim located after October 21, 1976 shall, prior to December 31 of each year following the calendar year in which the said claim was located, file the instruments required by paragraphs (1) and (2) of this subsection:
 
-(1) File for record in the office where the location notice or certificate is recorded either a notice of intention to hold the mining claim (including but not limited to such notices as are provided by law to be filed when there has been a suspension or deferment of annual assessment work), an affidavit of assessment work performed thereon, on a detailed report provided by section 28–1 of title 30, relating thereto.
+(1) File for record in the office where the location notice or certificate is recorded either a notice of intention to hold the mining claim (including but not limited to such notices as are provided by law to be filed when there has been a suspension or deferment of annual assessment work), an affidavit of assessment work performed thereon, on <sup>1</sup> a detailed report provided by section 28–1 of title 30, relating thereto.
+
+“or”.
 
 (2) File in the office of the Bureau designated by the Secretary a copy of the official record of the instrument filed or recorded pursuant to paragraph (1) of this subsection, including a description of the location of the mining claim sufficient to locate the claimed lands on the ground.
 
 #### (b) Additional filing requirements
 
-The owner of an unpatented lode or placer mining claim or mill or tunnel site located prior to October 21, 1976 shall, within the three-year period following October 21, 1976, file in the office of the Bureau designated by the Secretary a copy of the official record of the notice of location or certificate of location, including a description of the location of the mining claim or mill or tunnel site sufficient to locate the claimed lands on the ground. The owner of an unpatented lode or placer mining claim or mill or tunnel site located after October 21, 1976shall, within ninety days after the date of location of such claim, file in the office of the Bureau designated by the Secretary a copy of the official record of the notice of location or certificate of location, including a description of the location of the mining claim or mill or tunnel site sufficient to locate the claimed lands on the ground.
+The owner of an unpatented lode or placer mining claim or mill or tunnel site located prior to October 21, 1976 shall, within the three-year period following October 21, 1976, file in the office of the Bureau designated by the Secretary a copy of the official record of the notice of location or certificate of location, including a description of the location of the mining claim or mill or tunnel site sufficient to locate the claimed lands on the ground. The owner of an unpatented lode or placer mining claim or mill or tunnel site located after October 21, 1976 shall, within ninety days after the date of location of such claim, file in the office of the Bureau designated by the Secretary a copy of the official record of the notice of location or certificate of location, including a description of the location of the mining claim or mill or tunnel site sufficient to locate the claimed lands on the ground.
 
 #### (c) Failure to file as constituting abandonment; defective or untimely filing
 
@@ -25,4 +27,6 @@ Such recordation or application by itself shall not render valid any claim which
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 1621, 1732 of this title; title 30 sections 28f, 28j, 188, 242.
+
+<i><sup>1</sup></i><i> So in original. Probably should be</i>
 

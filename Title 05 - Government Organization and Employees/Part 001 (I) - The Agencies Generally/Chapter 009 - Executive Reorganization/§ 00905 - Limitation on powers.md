@@ -98,5 +98,5 @@ Pub. L. 104–50, title III, §335, Nov. 15, 1995, 109 Stat. 458, provided in pa
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 903, 904 of this title; title 22 section 6601.
+This section is referred to in sections 903, 904 of this title; title 6 section 542; title 22 section 6601.
 

@@ -32,11 +32,13 @@ Section 510(b) of Pub. L. 89–321 provided that the amendments made by that sec
 
 #### Inapplicability of Section
 
-Section inapplicable to 1996 through 2002 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
+Section inapplicable to 2002 through 2007 crops of covered commodities, peanuts, and sugar and inapplicable to milk during period beginning May 13, 2002, through Dec. 31, 2007, see section 7992(a)(3) of this title.
+
+Section inapplicable to 1996 through 2001 crops of loan commodities, peanuts, and sugar and inapplicable to milk during period beginning Apr. 4, 1996, and ending Dec. 31, 2002, see section 7301(a)(1)(H) of this title.
 
 Section inapplicable to wheat processors or exporters during period June 1, 1991, through May 31, 1996, see section 302 of Pub. L. 101–624, set out as a note under section 1379d of this title.
 
-Section inapplicable to wheat processors or exporters during period June 1, 1986, through May 31, 1991, seesection 309 of Pub. L. 99–198, set out as a note under section 1379d of this title.
+Section inapplicable to wheat processors or exporters during period June 1, 1986, through May 31, 1991, see section 309 of Pub. L. 99–198, set out as a note under section 1379d of this title.
 
 Section inapplicable to wheat processors or exporters during period June 1, 1982, through May 31, 1986, see section 302 of Pub. L. 97–98, set out as a note under section 1379d of this title.
 

@@ -34,7 +34,7 @@ In carrying out this section, the Secretary shall develop a procedure for dissem
 
 #### (1) In general
 
-&emsp;The Secretary shall establish a task force to be known as the National Task Force on Fetal Alcohol Syndrome and Fetal Alcohol Effect (referred to in this subsection as the “Task Force”) to foster coordination among all governmental agencies, academic bodies and community groups that conduct or support Fetal Alcohol Syndrome and Fetal Alcohol Effect research, programs, and surveillance, and otherwise meet the general needs of populations actually or potentially impacted by Fetal Alcohol Syndrome and Fetal Alcohol Effect.
+&emsp;The Secretary shall establish a task force to be known as the National Task Force on FetalAlcohol Syndrome and Fetal Alcohol Effect (referred to in this subsection as the “Task Force”) to foster coordination among all governmental agencies, academic bodies and community groups that conduct or support Fetal Alcohol Syndrome and Fetal Alcohol Effect research, programs, and surveillance, and otherwise meet the general needs of populations actually or potentially impacted by Fetal Alcohol Syndrome and Fetal Alcohol Effect.
 
 #### (2) Membership
 
@@ -110,7 +110,7 @@ Purpose.—It is the purpose of this section \[enacting this part and provisions
 
 &emsp;“(2) coordinate, support, and conduct prevention and intervention studies as well as epidemiologic research concerning Fetal Alcohol Syndrome and Fetal Alcohol Effect;
 
-&emsp;“(3) coordinate, support and conduct research and demonstration projects to develop effective developmental and behavioral interventions and programs that foster effective advocacy, educational and vocational training, appropriate therapies, counseling,medical and mental health, and other supportive services, as well as models that integrate or coordinate such services, aimed at the unique challenges facing individuals with Fetal Alcohol Syndrome or Fetal Alcohol Effect and their families; and
+&emsp;“(3) coordinate, support and conduct research and demonstration projects to develop effective developmental and behavioral interventions and programs that foster effective advocacy, educational and vocational training, appropriate therapies, counseling, medical and mental health, and other supportive services, as well as models that integrate or coordinate such services, aimed at the unique challenges facing individuals with Fetal Alcohol Syndrome or Fetal Alcohol Effect and their families; and
 
 &emsp;“(4) foster coordination among all Federal, State and local agencies, and promote partnerships between research institutions and communities that conduct or support Fetal Alcohol Syndrome and Fetal Alcohol Effect research, programs, surveillance, prevention, and interventions and otherwise meet the general needs of populations already affected or at risk of being impacted by Fetal Alcohol Syndrome and Fetal Alcohol Effect.”
 

@@ -1,0 +1,206 @@
+### §7513. Authorization of assistance
+
+#### (a) In general
+
+Notwithstanding section 512 of Public Law 107–115 or any other similar provision of law, the President is authorized to provide assistance for Afghanistan for the following activities:
+
+#### (1) Urgent humanitarian needs
+
+&emsp;To assist in meeting the urgent humanitarian needs of the people of Afghanistan, including assistance such as—
+
+&emsp;&emsp;(A) emergency food, shelter, and medical assistance;
+
+&emsp;&emsp;(B) clean drinking water and sanitation;
+
+&emsp;&emsp;(C) preventative health care, including childhood vaccination, therapeutic feeding, maternal child health services, and infectious diseases surveillance and treatment;
+
+&emsp;&emsp;(D) family tracing and reunification services; and
+
+&emsp;&emsp;(E) clearance of landmines and other unexploded ordinance.<sup>1</sup>
+
+#### (2) Repatriation and resettlement of refugees and internally displaced persons
+
+&emsp;To assist refugees and internally displaced persons as they return to their home communities in Afghanistan and to support their reintegration into those communities, including assistance such as—
+
+&emsp;&emsp;(A) assistance identified in paragraph (1);
+
+&emsp;&emsp;(B) assistance to communities, including those in neighboring countries, that have taken in large numbers of refugees in order to rehabilitate or expand social, health, and educational services that may have suffered as a result of the influx of large numbers of refugees;
+
+&emsp;&emsp;(C) assistance to international organizations and host governments in maintaining security by screening refugees to ensure the exclusion of armed combatants, members of foreign terrorist organizations, and other individuals not eligible for economic assistance from the United States; and
+
+&emsp;&emsp;(D) assistance for voluntary refugee repatriation and reintegration inside Afghanistan and continued assistance to those refugees who are unable or unwilling to return, and humanitarian assistance to internally displaced persons, including those persons who need assistance to return to their homes, through the United Nations High Commissioner for Refugees and other organizations charged with providing such assistance.
+
+#### (3) Counternarcotics efforts
+
+&emsp;(A) To assist in the eradication of poppy cultivation, the disruption of heroin production, and the reduction of the overall supply and demand for illicit narcotics in Afghanistan and the region, with particular emphasis on assistance to—
+
+&emsp;&emsp;(i) eradicate opium poppy, establish crop substitution programs, purchase nonopium products from farmers in opium-growing areas, quick-impact public works programs to divert labor from narcotics production, develop projects directed specifically at narcotics production, processing, or trafficking areas to provide incentives to cooperation in narcotics suppression activities, and related programs;
+
+&emsp;&emsp;(ii) establish or provide assistance to one or more entities within the Government of Afghanistan, including the Afghan State High Commission for Drug Control, and to provide training and equipment for the entities, to help enforce counternarcotics laws in Afghanistan and limit illicit narcotics growth, production, and trafficking in Afghanistan;
+
+&emsp;&emsp;(iii) train and provide equipment for customs, police, and other border control entities in Afghanistan and the region relating to illicit narcotics interdiction and relating to precursor chemical controls and interdiction to help disrupt heroin production in Afghanistan and the region;
+
+&emsp;&emsp;(iv) continue the annual opium crop survey and strategic studies on opium crop planting and farming in Afghanistan; and
+
+&emsp;&emsp;(v) reduce demand for illicit narcotics among the people of Afghanistan, including refugees returning to Afghanistan.
+
+&emsp;(B) For each of the fiscal years 2003 through 2006, $15,000,000 is authorized to be appropriated to the President to be made available for a contribution to the United Nations Drug Control Program for the purpose of carrying out activities described in clauses (i) through (v) of subparagraph (A). Amounts made available under the preceding sentence are in addition to amounts otherwise available for such purposes.
+
+#### (4) Reestablishment of food security, rehabilitation of the agriculture sector, improvement in health conditions, and the reconstruction of basic infrastructure
+
+&emsp;To assist in expanding access to markets in Afghanistan, to increase the availability of food in markets in Afghanistan, to rehabilitate the agriculture sector in Afghanistan by creating jobs for former combatants, returning refugees, and internally displaced persons, to improve health conditions, and assist in the rebuilding of basic infrastructure in Afghanistan, including assistance such as—
+
+&emsp;&emsp;(A) rehabilitation of the agricultural infrastructure, including irrigation systems and rural roads;
+
+&emsp;&emsp;(B) extension of credit;
+
+&emsp;&emsp;(C) provision of critical agricultural inputs, such as seeds, tools, and fertilizer, and strengthening of seed multiplication, certification, and distribution systems;
+
+&emsp;&emsp;(D) improvement in the quantity and quality of water available through, among other things, rehabilitation of existing irrigation systems and the development of local capacity to manage irrigation systems;
+
+&emsp;&emsp;(E) livestock rehabilitation through market development and other mechanisms to distribute stocks to replace those stocks lost as a result of conflict or drought;
+
+&emsp;&emsp;(F) mine awareness and demining programs and programs to assist mine victims, war orphans, and widows;
+
+&emsp;&emsp;(G) programs relating to infant and young child feeding, immunizations, vitamin A supplementation, and prevention and treatment of diarrheal diseases and respiratory infections;
+
+&emsp;&emsp;(H) programs to improve maternal and child health and reduce maternal and child mortality;
+
+&emsp;&emsp;(I) programs to improve hygienic and sanitation practices and for the prevention and treatment of infectious diseases, such as tuberculosis and malaria;
+
+&emsp;&emsp;(J) programs to reconstitute the delivery of health care, including the reconstruction of health clinics or other basic health infrastructure, with particular emphasis on health care for children who are orphans;
+
+&emsp;&emsp;(K) programs for housing (including repairing homes damaged during military operations), rebuilding urban infrastructure, and supporting basic urban services; and
+
+&emsp;&emsp;(L) disarmament, demobilization, and reintegration of armed combatants into society, particularly child soldiers.
+
+#### (5) Reestablishment of Afghanistan as a viable nation-state
+
+&emsp;(A) To assist in the development of the capacity of the Government of Afghanistan to meet the needs of the people of Afghanistan through, among other things, support for the development and expansion of democratic and market-based institutions, including assistance such as—
+
+&emsp;&emsp;(i) support for international organizations that provide civil advisers to the Government of Afghanistan;
+
+&emsp;&emsp;(ii) support for an educated citizenry through improved access to basic education, with particular emphasis on basic education for children who are orphans, with particular emphasis on basic education for children;
+
+&emsp;&emsp;(iii) programs to enable the Government of Afghanistan to recruit and train teachers, with special focus on the recruitment and training of female teachers;
+
+&emsp;&emsp;(iv) programs to enable the Government of Afghanistan to develop school curriculum that incorporates relevant information such as landmine awareness, food security and agricultural education, human rights awareness, including religious freedom, and civic education;
+
+&emsp;&emsp;(v) support for the activities of the Government of Afghanistan to draft a new constitution, other legal frameworks, and other initiatives to promote the rule of law in Afghanistan, including the recognition of religious freedom in the constitution and other legal frameworks;
+
+&emsp;&emsp;(vi) support to increase the transparency, accountability, and participatory nature of governmental institutions, including programs designed to combat corruption and other programs for the promotion of good governance;
+
+&emsp;&emsp;(vii) support for an independent media;
+
+&emsp;&emsp;(viii) programs that support the expanded participation of women and members of all ethnic groups in government at national, regional, and local levels;
+
+&emsp;&emsp;(ix) programs to strengthen civil society organizations that promote human rights, including religious freedom, freedom of expression, and freedom of association, and support human rights monitoring;
+
+&emsp;&emsp;(x) support for Afghan and international efforts to investigate human rights atrocities committed in Afghanistan by the Taliban regime, opponents of such regime, and terrorist groups operating in Afghanistan, including the collection of forensic evidence relating to such atrocities;
+
+&emsp;&emsp;(xi) support for national, regional, and local elections and political party development;
+
+&emsp;&emsp;(xii) support for the effective administration of justice at the national, regional, and local levels, including the establishment of a responsible and community-based police force;
+
+&emsp;&emsp;(xiii) support for establishment of a central bank and central budgeting authority; and
+
+&emsp;&emsp;(xiv) assistance in identifying and surveying key road and rail routes essential for economic renewal in Afghanistan and the region, support in reconstructing those routes, and support for the establishment of a customs service and training for customs officers.
+
+&emsp;(B) For each of the fiscal years 2003 through 2005, $10,000,000 is authorized to be appropriated to the President to be made available for the purposes of carrying out a traditional Afghan assembly or “Loya Jirga” and for support for national, regional, and local elections and political party development under subparagraph (A)(xi).
+
+#### (6) Market economy
+
+&emsp;To support the establishment of a market economy, the establishment of private financial institutions, the adoption of policies to promote foreign direct investment, the development of a basic telecommunication infrastructure, and the development of trade and other commercial links with countries in the region and with the United States, including policies to—
+
+&emsp;&emsp;(A) encourage the return of Afghanistan citizens or nationals living abroad who have marketable and business-related skills;
+
+&emsp;&emsp;(B) establish financial institutions, including credit unions, cooperatives, and other entities providing microenterprise credits and other income-generation programs for the poor, with particular emphasis on women;
+
+&emsp;&emsp;(C) facilitate expanded trade with countries in the region;
+
+&emsp;&emsp;(D) promote and foster respect for basic workers’ rights and protections against exploitation of child labor;
+
+&emsp;&emsp;(E) develop handicraft and other small-scale industries; and
+
+&emsp;&emsp;(F) provide financing programs for the reconstruction of Kabul and other major cities in Afghanistan.
+
+#### (7) Assistance to women and girls
+
+#### (A) Assistance objectives
+
+&emsp;&emsp;To assist women and girls in Afghanistan in the areas of political and human rights, health care, education, training, security, and shelter, with particular emphasis on assistance—
+
+&emsp;&emsp;&emsp;(i) to support construction of, provide equipment and medical supplies to, and otherwise facilitate the establishment and rehabilitation of, health care facilities in order to improve the health care of women, children, and infants;
+
+&emsp;&emsp;&emsp;(ii) to expand immunization programs for women and children;
+
+&emsp;&emsp;&emsp;(iii) to establish, maintain, and expand primary and secondary schools for girls that include mathematics, science, and languages in their primary curriculum;
+
+&emsp;&emsp;&emsp;(iv) to develop and expand technical and vocational training programs and income-generation projects for women;
+
+&emsp;&emsp;&emsp;(v) to provide special educational opportunities for girls whose schooling was ended by the Taliban, and to support theability of women to have access to higher education;
+
+&emsp;&emsp;&emsp;(vi) to develop and implement programs to protect women and girls against sexual and physical abuse, abduction, trafficking, exploitation, and sex discrimination in the delivery of humanitarian supplies and services;
+
+&emsp;&emsp;&emsp;(vii) to provide emergency shelters for women and girls who face danger from violence;
+
+&emsp;&emsp;&emsp;(viii) to direct humanitarian assistance to widows, who make up a very large and needy population in war-torn Afghanistan;
+
+&emsp;&emsp;&emsp;(ix) to support the work of women-led and local nongovernmental organizations with demonstrated experience in delivering services to Afghan women and children;
+
+&emsp;&emsp;&emsp;(x) to disseminate information throughout Afghanistan on the rights of women and on international standards of human rights, including the rights of religious freedom, freedom of expression, and freedom of association;
+
+&emsp;&emsp;&emsp;(xi) to provide women's rights and human rights training for military, police, and legal personnel; and
+
+&emsp;&emsp;&emsp;(xii) to support the National Human Rights Commission in programs to promote women's rights and human rights, including the rights of religious freedom, freedom of expression, and freedom of association, and in the investigation and monitoring of women's rights and human rights abuses.
+
+#### (B) Availability of funds
+
+&emsp;&emsp;For each of the fiscal years 2003 through 2006—
+
+&emsp;&emsp;&emsp;(i) $15,000,000 is authorized to be appropriated to the President to be made available to the Afghan Ministry of Women's Affairs; and
+
+&emsp;&emsp;&emsp;(ii) $5,000,000 is authorized to be appropriated to the President to be made available to the National Human Rights Commission of Afghanistan.
+
+#### (C) Relation to other available funds
+
+&emsp;&emsp;Amounts made available under subparagraph (B) are in addition to amounts otherwise available for such purposes.
+
+#### (b) Limitation
+
+#### (1) In general
+
+&emsp;Amounts made available to carry out this subchapter (except amounts made available for assistance under paragraphs (1) through (3) and subparagraphs (F) through (I) of paragraph (4) of subsection (a) of this section) may be provided only if the President first determines and certifies to Congress with respect to the fiscal year involved that progress is being made toward adopting a constitution and establishing a democratically elected government for Afghanistan that respects human rights.
+
+#### (2) Waiver
+
+#### (A) In general
+
+&emsp;&emsp;The President may waive the application of paragraph (1) if the President first determines and certifies to Congress that it is important to the national interest of the United States to do so.
+
+#### (B) Contents of certification
+
+&emsp;&emsp;A certification transmitted to Congress under subparagraph (A) shall include a written explanation of the basis for the determination of the President to waive the application of paragraph (1).
+
+#### (c) Enterprise fund
+
+#### (1) Authorization of appropriations
+
+&emsp;In addition to funds otherwise available for such purpose, there are authorized to be appropriated to the President for an enterprise fund for Afghanistan $300,000,000. The provisions contained in section 5421 of this title (excluding the authorizations of appropriations provided in subsection (b) of that section) shall apply with respect to such enterprise fund and to funds made available to such enterprise fund under this subsection.
+
+#### (2) Availability of funds
+
+&emsp;Amounts appropriated pursuant to paragraph (1) are authorized to remain available until expended.
+
+(Pub. L. 107–327, title I, §103, Dec. 4, 2002, 116 Stat. 2799.)
+
+#### References in Text
+
+Section 512 of Public Law 107–115, referred to in subsec. (a), is section 512 of Pub. L. 107–115, title V, Jan. 10, 2002, 115 Stat. 2141, which is not classified to the Code.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 7518 of this title.
+
+<i><sup>1</sup></i><i> So in original. Probably should be “ordnance.”</i>
+

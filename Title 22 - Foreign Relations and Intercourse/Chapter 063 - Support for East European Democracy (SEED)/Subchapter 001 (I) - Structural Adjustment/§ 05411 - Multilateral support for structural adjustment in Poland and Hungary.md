@@ -8,7 +8,7 @@
 
 #### (2) World Bank structural adjustment loan for Poland
 
-&emsp;In furtherance of paragraph (1), the Secretary of the Treasury shall direct the UnitedStates Executive Director of the International Bank for Reconstruction and Development to urge expeditious approval and disbursement by the Bank of a structural adjustment loan to Poland in an appropriate amount in time to facilitate the implementation of major economic reforms scheduled for early 1990, including the termination of energy, export, and agricultural subsidies and wage indexation.
+&emsp;In furtherance of paragraph (1), the Secretary of the Treasury shall direct the United States Executive Director of the International Bank for Reconstruction and Development to urge expeditious approval and disbursement by the Bank of a structural adjustment loan to Poland in an appropriate amount in time to facilitate the implementation of major economic reforms scheduled for early 1990, including the termination of energy, export, and agricultural subsidies and wage indexation.
 
 #### (b) Stabilization assistance, debt relief, and agricultural assistance for Poland
 

@@ -24,13 +24,13 @@ The Contract Disputes Act of 1978, referred to in first paragraph, is Pub. L. 95
 
 #### Amendments
 
-<b>1996</b>—Pub. L. 104–316 in first par. substituted “Secretary of the Treasury” for “General Accounting Office” in two places.
+1996—Pub. L. 104–316 in first par. substituted “Secretary of the Treasury” for “General Accounting Office” in two places.
 
-<b>1980</b>—Pub. L. 96–417 provided for payment of final judgments rendered by the Court of International Trade against the United States on settlements by the General Accounting Office.
+1980—Pub. L. 96–417 provided for payment of final judgments rendered by the Court of International Trade against the United States on settlements by the General Accounting Office.
 
-<b>1978</b>—Pub. L. 95–563 inserted Contract Disputes Act of 1978 exception.
+1978—Pub. L. 95–563 inserted Contract Disputes Act of 1978 exception.
 
-<b>1961</b>—Pub. L. 87–187 provided for payment of final judgments rendered by a State or foreign court against the United States, its agencies or officials and compromise settlements and substituted “and compromise settlements” for “against the United States” in section catchline.
+1961—Pub. L. 87–187 provided for payment of final judgments rendered by a State or foreign court against the United States, its agencies or officials and compromise settlements and substituted “and compromise settlements” for “against the United States” in section catchline.
 
 #### Effective Date of 1980 Amendment
 

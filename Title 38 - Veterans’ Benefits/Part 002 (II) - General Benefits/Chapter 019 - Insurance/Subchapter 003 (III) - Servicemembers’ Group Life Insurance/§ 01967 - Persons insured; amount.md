@@ -218,7 +218,7 @@ Amendment by Pub. L. 102–568 effective Dec. 1, 1992, see section 205 of Pub. L
 
 #### Effective Date of 1991 Amendment
 
-Section 336(c)(1) of Pub. L. 102–25 provided that: “The amendments made by subsection (a) \[amending this section\] shall apply with respect to deaths on or after the date of the enactment of this Act \[Apr. 6, 1991\].”
+Section 336(c)(1) of Pub. L. 102–25 provided that: “The amendments made by subsection (a) \[amending thissection\] shall apply with respect to deaths on or after the date of the enactment of this Act \[Apr. 6, 1991\].”
 
 #### Effective Date of 1985 Amendment
 
@@ -226,7 +226,7 @@ Section 401(c) of Pub. L. 99–166, as amended by Pub. L. 99–227, §3, Dec. 28
 
 “(1) Except as provided in paragraph (2), the amendments made by subsections (a) and (b) \[amending this section and section 777 \[now 1977\] of this title\] shall take effect on January 1, 1986.
 
-“(2) The amendment made by subsection (a)(1)(A) \[amending this section\] shall be deemed to have takeneffect on December 12, 1985, with respect to members who—
+“(2) The amendment made by subsection (a)(1)(A) \[amending this section\] shall be deemed to have taken effect on December 12, 1985, with respect to members who—
 
 &emsp;“(A) died after December 11, 1985, and before January 1, 1986; and
 

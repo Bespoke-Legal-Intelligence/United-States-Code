@@ -146,7 +146,7 @@ A board may not engage in, and shall prohibit the employees and agents of the bo
 
 &emsp;Each order shall provide that, with the approval of the Secretary, the board established under the order may—
 
-&emsp;&emsp;(A) enter into contracts and agreements to carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order, including contracts and agreements withproducer associations or other entities as considered appropriate by the Secretary; and
+&emsp;&emsp;(A) enter into contracts and agreements to carry out generic promotion, research, and information activities relating to the agricultural commodity covered by the order, including contracts and agreements with producer associations or other entities as considered appropriate by the Secretary; and
 
 &emsp;&emsp;(B) pay the cost of approved generic promotion, research, and information activities using assessments collected under section 7416 of this title, earnings obtained from assessments, and other income of the board.
 
@@ -212,7 +212,7 @@ In accordance with section 7401(c) of this title, each order shall require the b
 
 #### (A) In general
 
-&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained under paragraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
+&emsp;&emsp;Except as otherwise provided in this subchapter, all information obtained underparagraph (1) or as part of a referendum under section 7417 of this title shall be kept confidential by all officers, employees, and agents of the Department and of the board.
 
 #### (B) Disclosure
 

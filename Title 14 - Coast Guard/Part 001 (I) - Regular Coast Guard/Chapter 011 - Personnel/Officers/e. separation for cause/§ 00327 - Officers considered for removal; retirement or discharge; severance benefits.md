@@ -16,7 +16,25 @@
 
 &emsp;(3) if on that date the officer is ineligible for voluntary retirement under any law, be discharged in the grade then held with severance pay computed by multiplying his years of active commissioned service, but not more than twelve, by one month's basic pay of that grade, in those cases arising under clause (2) of section 321 of this title, unless the Secretary determines that the conditions under which the officer is discharged or separated do not warrant payment of that amount of severance pay.
 
-(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 189; amended Pub. L. 97–295, §2(10), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 99–348, title II, §205(b)(6), July 1, 1986, 100 Stat. 700; Pub. L. 105–383, title II, §201(c), Nov. 13, 1998, 112 Stat. 3414.)
+(Added Pub. L. 88–130, §1(10)(C), Sept. 24, 1963, 77 Stat. 189; amended Pub. L. 97–295, §2(10), Oct. 12, 1982, 96 Stat. 1302; Pub. L. 99–348, title II, §205(b)(6), July 1, 1986, 100 Stat. 700; Pub. L. 105–383, title II, §201(c), Nov. 13, 1998, 112 Stat. 3414; Pub. L. 107–295, title IV, §416(a)(5), Nov. 25, 2002, 116 Stat. 2122.)
+
+#### Amendment of Section
+
+<i>Pub. L. 107–295, title IV, §416(a)(5), (c), Nov. 25, 2002, 116 Stat. 2122, provided that, effective 4 years after Nov. 25, 2002, this section is amended:</i>
+
+<i>(A) by striking “severance” in the section heading and inserting “separation”;</i>
+
+<i>(B) by striking subsection (a)(2) and inserting the following:</i>
+
+&emsp;<i>“(2) for discharge with separation benefits under section 286(c) of this title.”;</i>
+
+<i>(C) by striking subsection (a)(3);</i>
+
+<i>(D) by striking subsection (b)(2) and inserting the following:</i>
+
+&emsp;<i>“(2) if on that date the officer is ineligible for voluntary retirement under any law, be honorably discharged with separation benefits under section 286(c) of this title, unless under regulations promulgated by the Secretary the condition under which the officer is discharged does not warrant an honorable discharge.”; and</i>
+
+<i>(E) by striking subsection (b)(3).</i>
 
 #### Amendments
 
@@ -25,4 +43,12 @@
 1986—Subsec. (b)(1). Pub. L. 99–348 struck out “, and with the pay” after “in the grade”.
 
 1982—Pub. L. 97–295 inserted “of this title” after “section 322 or 323” and “section 321” wherever appearing.
+
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–295 effective 4 years after Nov. 25, 2002, see section 416(c) of Pub. L. 107–295, set out as a note under section 286 of this title.
+
+#### Section Referred to in Other Sections
+
+This section is referred to in section 286 of this title.
 

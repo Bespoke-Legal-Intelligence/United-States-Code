@@ -10,7 +10,7 @@ Board of Trustees.—(1) The board of trustees is the governing body of the corp
 
 (b)
 
-Officers.—(1) The officers of the corporation are a president, one or more vice presidents as provided in the bylaws, a secretary, a treasurer, and other officers as provided in the bylaws.
+Officers.—(1) The officers of the corporation are a president, one or more vice presidentsas provided in the bylaws, a secretary, a treasurer, and other officers as provided in the bylaws.
 
 (2) The manner of election, term of office, and duties of the officers are as provided in the bylaws.
 

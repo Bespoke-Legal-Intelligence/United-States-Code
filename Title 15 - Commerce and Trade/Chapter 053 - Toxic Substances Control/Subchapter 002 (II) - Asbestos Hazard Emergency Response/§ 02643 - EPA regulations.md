@@ -6,7 +6,7 @@ Within 360 days after October 22, 1986, the Administrator shall promulgate regul
 
 #### (b) Inspection
 
-The Administrator shall promulgate regulations which prescribe procedures, including the use of personnel accredited under section 2646(b) or (c) of this title and laboratories accredited under section 2646(d) of this title, for determining whether asbestos-containing material is present in a school building under the authority of a local educational agency. The regulations shall provide for the exclusion of any school building, or portion of a school building, if (1) an inspection of such school building (or portion) was completed before the effective date of the regulations, and (2) the inspection meets the procedures and other requirements of the regulations under this subchapter or of the “Guidance for Controlling Asbestos-Containing Materials in Buildings” (unless the Administrator determines that an inspection in accordance with the guidance document is inadequate). The regulations shall require inspection of any school building (or portion of a school building) that is not excluded by the preceding sentence.
+The Administrator shall promulgate regulations which prescribe procedures, including the use of personnel accredited under section 2646(b) or (c) of this title and laboratories accredited under section 2646(d) of this title, for determining whether asbestos-containing material ispresent in a school building under the authority of a local educational agency. The regulations shall provide for the exclusion of any school building, or portion of a school building, if (1) an inspection of such school building (or portion) was completed before the effective date of the regulations, and (2) the inspection meets the procedures and other requirements of the regulations under this subchapter or of the “Guidance for Controlling Asbestos-Containing Materials in Buildings” (unless the Administrator determines that an inspection in accordance with the guidance document is inadequate). The regulations shall require inspection of any school building (or portion of a school building) that is not excluded by the preceding sentence.
 
 #### (c) Circumstances requiring response actions
 
@@ -42,7 +42,7 @@ The Administrator shall promulgate regulations which prescribe procedures, inclu
 
 #### (1) In general
 
-&emsp;The Administrator shall promulgate regulations describing a response action in a schoolbuilding under the authority of a local educational agency, using the least burdensome methods which protect human health and the environment. In determining the least burdensome methods, the Administrator shall take into account local circumstances, including occupancy and use patterns within the school building and short- and long-term costs.
+&emsp;The Administrator shall promulgate regulations describing a response action in a school building under the authority of a local educational agency, using the least burdensome methods which protect human health and the environment. In determining the least burdensome methods, the Administrator shall take into account local circumstances, including occupancy and use patterns within the school building and short- and long-term costs.
 
 #### (2) Response action for damaged asbestos
 
@@ -108,7 +108,7 @@ The Administrator shall promulgate regulations which prescribe standards for tra
 
 #### (1) In general
 
-&emsp;The Administrator shall promulgate regulations which require each local educational agency to develop an asbestos managementplan for school buildings under its authority, to begin implementation of such plan within 990 days after October 22, 1986, and to complete implementation of such plan in a timely fashion. The regulations shall require that each plan include the following elements, wherever relevant to the school building:
+&emsp;The Administrator shall promulgate regulations which require each local educational agency to develop an asbestos management plan for school buildings under its authority, to begin implementation of such plan within 990 days after October 22, 1986, and to complete implementation of such plan in a timely fashion. The regulations shall require that each plan include the following elements, wherever relevant to the school building:
 
 &emsp;&emsp;(A) An inspection statement describing inspection and response action activities carried out before October 22, 1986.
 

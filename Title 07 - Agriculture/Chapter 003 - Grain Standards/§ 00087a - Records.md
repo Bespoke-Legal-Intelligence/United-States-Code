@@ -36,7 +36,7 @@ Subsec. (c). Pub. L. 103–156, §12(k)(2), substituted “the Administrator” 
 
 Subsec. (c). Pub. L. 95–113, §1604(i)(1), (2), inserted “, every State delegated authority under this chapter,” after “official agency” and corrected a typographical error in Pub. L. 94–582 under which “delegate authority of this chapter” had been erroneously used instead of “delegated authority under this chapter”.
 
-Subsec. (d). Pub. L. 95–113, §1601, substituted “shall maintain such complete and accurate records for such period of time as the Administrator may, by regulation, prescribe for the purpose of the administration and enforcement of this chapter” for “shall, within the five-year period thereafter, maintain complete and accurate records of purchases, sales, transportation, storage, weighing, handling, treating, cleaning, drying,blending, and other processing, and official inspection and official weighing of grain,”.
+Subsec. (d). Pub. L. 95–113, §1601, substituted “shall maintain such complete and accurate records for such period of time as the Administrator may, by regulation, prescribe for the purpose of the administration and enforcement of this chapter” for “shall, within the five-year period thereafter, maintain complete and accurate records of purchases, sales, transportation, storage, weighing, handling, treating, cleaning, drying, blending, and other processing, and official inspection and official weighing of grain,”.
 
 1976—Subsec. (a). Pub. L. 94–582 substituted “official agency” for “official inspection agency” and “Administrator” for “Secretary” and inserted reference to licensed performance of official weighing or supervision of weighing function.
 

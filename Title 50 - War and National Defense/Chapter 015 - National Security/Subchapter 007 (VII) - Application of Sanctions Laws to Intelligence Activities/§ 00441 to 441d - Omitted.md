@@ -8,7 +8,7 @@ Section 441, act July 26, 1947, ch. 343, title IX, §901, as added Pub. L. 104�
 
 Section 441a, act July 26, 1947, ch. 343, title IX, §902, as added Pub. L. 104–93, title III, §303(a), Jan. 6, 1996, 109 Stat. 964, authorized the President to extend the period of a stay obtained pursuant to section 441 of this title.
 
-Section 441b, act July 26, 1947, ch. 343, title IX, §903, as added Pub. L. 104–93, title III, §303(a), Jan. 6, 1996, 109 Stat. 964, related to reports to Congress.
+Section 441b, act July 26, 1947, ch. 343, title IX, §903, as added Pub. L. 104–93, title III, §303(a), Jan. 6, 1996, 109 Stat. 964; amended Pub. L. 107–306, title III, §353(b)(2)(C), Nov. 27, 2002, 116 Stat. 2402, related to reports to Congress.
 
 Section 441c, act July 26, 1947, ch. 343, title IX, §904, as added Pub. L. 104–93, title III, §303(a), Jan. 6, 1996, 109 Stat. 965, authorized the President to stay the imposition of a sanction related to the proliferation of weapons of mass destruction, their delivery systems, or advanced conventional weapons otherwise required to be imposed by certain other laws.
 

@@ -8,7 +8,7 @@
 
 #### Amendments
 
-1984—Pub. L. 98–479 substituted “Minimum property standards” for “Promotion of energy saving techniques by Secretary of Housing and Urban Development of insured housing” in section catchline.
+1984—Pub. L. 98–479 substituted “Minimum property standards” for “Promotion of energy saving techniquesby Secretary of Housing and Urban Development of insured housing” in section catchline.
 
 1983—Subsec. (a). Pub. L. 98–181 designated existing provision as subsec. (a), inserted “, other than manufactured homes,” after “housing”, inserted provision that the energy performance requirements developed for newly constructed residential housing, other than manufactured homes, be at least as effective in performance as the energy performance requirements incorporated in the minimum property standards in effect Sept. 30, 1982, and added subsec. (b).
 

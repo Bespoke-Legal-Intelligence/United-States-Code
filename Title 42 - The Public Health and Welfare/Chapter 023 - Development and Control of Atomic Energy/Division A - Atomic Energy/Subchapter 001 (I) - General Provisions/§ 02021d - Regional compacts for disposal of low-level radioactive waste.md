@@ -196,7 +196,7 @@ Pub. L. 99–240, title II, Jan. 15, 1986, 99 Stat. 1859, provided that:
 
 #### “SEC. 213. CONGRESSIONAL REVIEW.
 
-“The Congress may alter, amend, or repeal this Act with respect to any compact set forth in subtitle Bafter the expiration of the 10-year period following the date of the enactment of this Act \[Jan. 15, 1986\], and at such intervals thereafter as may be provided in such compact.
+“The Congress may alter, amend, or repeal this Act with respect to any compact set forth in subtitle B after the expiration of the 10-year period following the date of the enactment of this Act \[Jan. 15, 1986\], and at such intervals thereafter as may be provided in such compact.
 
 #### “Subtitle B—Congressional Consent to Compacts
 

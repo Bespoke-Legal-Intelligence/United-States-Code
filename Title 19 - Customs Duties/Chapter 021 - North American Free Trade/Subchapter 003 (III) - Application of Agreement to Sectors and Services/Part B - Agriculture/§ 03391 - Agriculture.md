@@ -24,7 +24,7 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 &emsp;&emsp;Nothing in the Agreement or this Act reduces or eliminates—
 
-&emsp;&emsp;&emsp;(i) any penalty required under section 1359a(d) of title 7; or
+&emsp;&emsp;&emsp;(i) any penalty required under section 1359a(d) <sup>1</sup> of title 7; or
 
 &emsp;&emsp;&emsp;(ii) any requirement under Marketing Agreement No. 146, Regulating the Quality of Domestically Produced Peanuts, on peanuts in the domestic market, pursuant to section 1445c–3(f) <sup>1</sup> of title 7.
 
@@ -42,11 +42,11 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 #### (1) In general
 
-&emsp;The Secretary of Agriculture shall collect and compile the information specified under paragraph (3), if reasonably available, from appropriate Federal departments and agencies and the relevant counterpart ministries of the Government of Mexico.
+&emsp;The Secretary of Agriculture shall collect and compile the information specified underparagraph (3), if reasonably available, from appropriate Federal departments and agencies and the relevant counterpart ministries of the Government of Mexico.
 
 #### (2) Designation of an office
 
-&emsp;The Secretary of Agriculture shall designate an office within the United States Department of Agriculture to be responsible for maintaining and disseminating, in a timely manner, the data accumulated for verifying citrus, fruit, vegetable, and cut flower trade between the United States and Mexico. The information shall be made available to the public andthe NAFTA Agriculture Committee Working Groups.
+&emsp;The Secretary of Agriculture shall designate an office within the United States Department of Agriculture to be responsible for maintaining and disseminating, in a timely manner, the data accumulated for verifying citrus, fruit, vegetable, and cut flower trade between the United States and Mexico. The information shall be made available to the public and the NAFTA Agriculture Committee Working Groups.
 
 #### (3) Information collected
 
@@ -152,9 +152,15 @@ In implementing the tariff rate quotas set out in the United States Schedule to 
 
 This Act, referred to in subsec. (d)(1)(A), is Pub. L. 103–182, Dec. 8, 1993, 107 Stat. 2057, known as the North American Free Trade Agreement Implementation Act. For complete classification of this Act to the Code, see Short Title note set out under section 3301 of this title and Tables.
 
+Section 1359a of title 7, referred to in subsec. (d)(1)(A)(i), was repealed by Pub. L. 107–171, title I, §1309(a)(1), May 13, 2002, 116 Stat. 179.
+
 Section 1445c–3(f) of title 7, referred to in subsec. (d)(1)(A)(ii), was repealed by Pub. L. 104–127, title I, §171(b)(2)(E), Apr. 4, 1996, 110 Stat. 938.
 
 #### Codification
 
 Section is comprised of section 321 of Pub. L. 103–182. Subsec. (a) of section 321 of Pub. L. 103–182 amended provisions set out as a note under section 2253 of this title. Subsec. (d)(1)(B) of section 321 of Pub. L. 103–182 amended section 1359a of Title 7, Agriculture. Subsec. (g) of section 321 of Pub. L. 103–182 amended provisions set out as a note under section 5622 of Title 7.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 

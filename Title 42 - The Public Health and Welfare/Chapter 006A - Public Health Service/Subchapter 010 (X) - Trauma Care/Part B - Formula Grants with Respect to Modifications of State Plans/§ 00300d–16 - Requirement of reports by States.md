@@ -4,7 +4,7 @@
 
 The Secretary may not make payments under section 300d–11(a) of this title for a fiscal year unless the State involved agrees to prepare and submit to the Secretary an annual report in such form and containing such information as the Secretary determines (after consultation with the States) to be necessary for—
 
-&emsp;(1) securing a record and a description of the purposes for which payments received by the State pursuant to such section were expended and of the recipients of such payments; and
+&emsp;(1) securing a record and a description of the purposes for which payments received by theState pursuant to such section were expended and of the recipients of such payments; and
 
 &emsp;(2) determining whether the payments were expended in accordance with the purpose of the program involved.
 
@@ -14,7 +14,7 @@ The Secretary may not make payments under section 300d–11(a) of this title unl
 
 #### (c) Evaluations by Comptroller General
 
-The Comptroller General of the United States shall evaluate the expenditures by States of payments under section 300d–11(a) of this title in order to assure that expenditures are consistent with the provisions of this part, and not later than December 1, 1994, prepare and submit to the Committee on Energy and Commerce of theHouse of Representatives and the Committee on Labor and Human Resources of the Senate a report concerning such evaluation.
+The Comptroller General of the United States shall evaluate the expenditures by States of payments under section 300d–11(a) of this title in order to assure that expenditures are consistent with the provisions of this part, and not later than December 1, 1994, prepare and submit to the Committee on Energy and Commerce of the House of Representatives and the Committee on Labor and Human Resources of the Senate a report concerning such evaluation.
 
 (July 1, 1944, ch. 373, title XII, §1216, as added Pub. L. 101–590, §3, Nov. 16, 1990, 104 Stat. 2923; amended Pub. L. 103–183, title VI, §601(c), Dec. 14, 1993, 107 Stat. 2238; Pub. L. 104–316, title I, §122(d), Oct. 19, 1996, 110 Stat. 3837.)
 

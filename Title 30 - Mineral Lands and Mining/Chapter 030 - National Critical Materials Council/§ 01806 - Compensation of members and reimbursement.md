@@ -6,7 +6,7 @@ The Chairman of the Council, if not otherwise a paid officer or employee of the 
 
 #### (b) Reimbursement of travel expenses for attendance at meetings
 
-Subject to existing law and regulations governing conflicts of interest, the Council may accept reimbursement from any private nonprofit organization or from any department, agency, or instrumentality of the Federal Government, or from any State or local government, for reasonable travel expenses incurred by any member or employee of the Council in connection with such member's or employee's attendance at any conference, seminar, or similar meeting.
+Subject to existing law and regulations governing conflicts of interest, the Council may accept reimbursement from any private nonprofit organization or from any department, agency, or instrumentality of the Federal Government,or from any State or local government, for reasonable travel expenses incurred by any member or employee of the Council in connection with such member's or employee's attendance at any conference, seminar, or similar meeting.
 
 (Pub. L. 98–373, title II, §207, July 31, 1984, 98 Stat. 1252.)
 

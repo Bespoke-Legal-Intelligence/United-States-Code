@@ -46,7 +46,7 @@ Any entity that maintains or transmits information under a transaction covered b
 
 #### (3) Voluntary consensus standard
 
-&emsp;The term “voluntary consensus standard” means a standard developed or used by a standard setting organization described in paragraph (2).
+&emsp;The term “voluntary consensus standard” means a standard developed or used by astandard setting organization described in paragraph (2).
 
 (Pub. L. 89–329, title I, §143, as added Pub. L. 105–244, title I, §101(a), Oct. 7, 1998, 112 Stat. 1615.)
 

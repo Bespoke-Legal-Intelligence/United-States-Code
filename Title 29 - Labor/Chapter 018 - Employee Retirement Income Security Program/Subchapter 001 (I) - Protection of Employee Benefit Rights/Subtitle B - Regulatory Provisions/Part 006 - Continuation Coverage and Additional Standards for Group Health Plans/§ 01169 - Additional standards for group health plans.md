@@ -48,7 +48,7 @@
 
 #### (4) Restriction on new types or forms of benefits
 
-&emsp;A medical child support order meets the requirements of this paragraph only if suchorder does not require a plan to provide any type or form of benefit, or any option, not otherwise provided under the plan, except to the extent necessary to meet the requirements of a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 <sup>1</sup> of the Omnibus Budget Reconciliation Act of 1993).
+&emsp;A medical child support order meets the requirements of this paragraph only if such order does not require a plan to provide any type or form of benefit, or any option, not otherwise provided under the plan, except to the extent necessary to meet the requirements of a law relating to medical child support described in section 1908 of the Social Security Act \[42 U.S.C. 1396g–1\] (as added by section 13822 <sup>1</sup> of the Omnibus Budget Reconciliation Act of 1993).
 
 #### (5) Procedural requirements
 
@@ -160,7 +160,7 @@ Any regulations prescribed under this section shall be prescribed by the Secreta
 
 Section 401(b) of the Child Support Performance and Incentive Act of 1998, referred to in subsec. (a)(5)(C)(i), is section 401(b) of Pub. L. 105–200, which is set out as a note under section 651 of Title 42, The Public Health and Welfare.
 
-This chapter, referred to in subsec. (a)(7)(A), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification ofthis Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
+This chapter, referred to in subsec. (a)(7)(A), was in the original “this Act”, meaning Pub. L. 93–406, known as the Employee Retirement Income Security Act of 1974. Titles I, III, and IV of such Act are classified principally to this chapter. For complete classification of this Act to the Code, see Short Title note set out under section 1001 of this title and Tables.
 
 The Social Security Act, referred to in subsec. (b), is act Aug. 14, 1935, ch. 531, 49 Stat. 620, as amended. Title XIX of the Act is classified generally to subchapter XIX (§1396 et seq.) of chapter 7 of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see section 1305 of Title 42 and Tables.
 
@@ -178,7 +178,7 @@ Subsec. (a)(9). Pub. L. 105–200, §401(h)(3)(A), substituted “the address of
 
 Subsec. (a)(2)(B). Pub. L. 105–33, §5612(a), inserted at end of concluding provisions “For purposes of this subparagraph, an administrative notice which is issued pursuant to an administrative process referred to in subclause (II) of the preceding sentence and which has the effect of an order described in clause (i) or (ii) of the preceding sentence shall be treated as such an order.”
 
-Subsec. (a)(3)(A). Pub. L. 105–33, §5611(a), inserted at end “except that, to the extent provided in the order, the name and mailing address of an official of a State or a political subdivision thereof may be substituted for the mailing address of any such alternate recipient,”.
+Subsec. (a)(3)(A). Pub. L. 105–33, §5611(a), inserted at end “except that, to the extent provided in the order, the name and mailing address of an official of a State or a political subdivision thereof may be substitutedfor the mailing address of any such alternate recipient,”.
 
 Subsec. (a)(3)(B). Pub. L. 105–33, §5613(a)(1), (2), struck out “by the plan” after “to be provided” and inserted “and” at end.
 
@@ -254,7 +254,7 @@ Definitions.—For purposes of this subsection—
 
 &emsp;&emsp;“(A)
 
-State or local governmental group health plan.—The term ‘State or local governmental group health plan’ means a group healthplan which is established or maintained for its employees by the government of any State, any political subdivision of a State, or any agency or instrumentality of either of the foregoing.
+State or local governmental group health plan.—The term ‘State or local governmental group health plan’ means a group health plan which is established or maintained for its employees by the government of any State, any political subdivision of a State, or any agency or instrumentality of either of the foregoing.
 
 &emsp;&emsp;“(B)
 

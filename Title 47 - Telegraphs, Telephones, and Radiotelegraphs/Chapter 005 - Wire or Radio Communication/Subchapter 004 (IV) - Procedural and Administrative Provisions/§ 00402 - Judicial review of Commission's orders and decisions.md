@@ -6,7 +6,7 @@ Any proceeding to enjoin, set aside, annul, or suspend any order of the Commissi
 
 #### (b) Right to appeal
 
-Appeals may be taken from decisions and orders of the Commission to the United StatesCourt of Appeals for the District of Columbia in any of the following cases:
+Appeals may be taken from decisions and orders of the Commission to the United States Court of Appeals for the District of Columbia in any of the following cases:
 
 &emsp;(1) By any applicant for a construction permit or station license, whose application is denied by the Commission.
 
@@ -28,7 +28,7 @@ Appeals may be taken from decisions and orders of the Commission to the United S
 
 #### (c) Filing notice of appeal; contents; jurisdiction; temporary orders
 
-Such appeal shall be taken by filing a notice of appeal with the court within thirty days from the date upon which public notice is given of the decision or order complained of. Such notice of appeal shall contain a concise statement of the nature of the proceedings as to which the appeal is taken; a concise statement of the reasons on which the appellant intends to rely, separately stated and numbered; and proof of service of a true copy of said notice and statement upon the Commission. Upon filing of such notice, the court shall have jurisdiction of the proceedings and of the questions determined therein and shall have power, by order, directed to the Commission or any other party to the appeal, to grant such temporary relief as it may deem just and proper. Orders granting temporary relief may be either affirmative or negative in their scope and application so as to permit either the maintenance of the status quo in the matter in which the appeal is taken or the restoration of a position or status terminated or adversely affected by the order appealed from and shall, unless otherwise ordered by the court, be effective pending hearing and determination of said appeal and compliance by the Commission with the final judgment of the court rendered in said appeal.
+Such appeal shall be taken by filing a notice of appeal with the court within thirty days from the date upon which public notice is given of the decision or order complained of. Such notice of appeal shall contain a concise statement of the nature of the proceedings as to which the appeal is taken; a concise statement of the reasons on which the appellant intends to rely, separatelystated and numbered; and proof of service of a true copy of said notice and statement upon the Commission. Upon filing of such notice, the court shall have jurisdiction of the proceedings and of the questions determined therein and shall have power, by order, directed to the Commission or any other party to the appeal, to grant such temporary relief as it may deem just and proper. Orders granting temporary relief may be either affirmative or negative in their scope and application so as to permit either the maintenance of the status quo in the matter in which the appeal is taken or the restoration of a position or status terminated or adversely affected by the order appealed from and shall, unless otherwise ordered by the court, be effective pending hearing and determination of said appeal and compliance by the Commission with the final judgment of the court rendered in said appeal.
 
 #### (d) Notice to interested parties; filing of record
 

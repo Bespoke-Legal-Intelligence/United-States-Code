@@ -96,5 +96,5 @@ Another prior section 502 of Pub. L. 89–329 was classified to section 1091a of
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 1103, 1103a, 1131–1 of this title.
+This section is referred to in sections 1103, 1103a, 1131–1 of this title; title 42 section 5197h.
 

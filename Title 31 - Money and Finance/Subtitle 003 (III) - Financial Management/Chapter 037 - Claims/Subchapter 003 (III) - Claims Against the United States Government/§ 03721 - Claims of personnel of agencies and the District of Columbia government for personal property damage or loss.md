@@ -16,7 +16,7 @@
 
 (b)(1) The head of an agency may settle and pay not more than $40,000 for a claim against the Government made by a member of the uniformed services under the jurisdiction of the agency or by an officer or employee of the agency for damage to, or loss of, personal property incident to service. If, however, the claim arose from an emergency evacuation or from extraordinary circumstances, the amount settled and paid under the authority of the preceding sentence may exceed $40,000, but may not exceed $100,000. A claim allowed under this subsection may be paid in money or the personal property replaced in kind.
 
-(2) The Secretary of State may waive the settlement and payment limitation referred to in paragraph (1) for claims for damage or loss by United States Government personnel under the jurisdiction of a chief of mission in a foreign country if such claims arise in circumstances where there is in effect a departure from the country authorized or ordered under circumstances described in section 5522(a) of title 5, if the Secretary determines that there exists exceptional circumstances that warrant such a waiver.
+(2) The Secretary of State may waive the settlement and payment limitation referred to in paragraph (1) for claims for damage or loss by United States Government personnel under thejurisdiction of a chief of mission in a foreign country if such claims arise in circumstances where there is in effect a departure from the country authorized or ordered under circumstances described in section 5522(a) of title 5, if the Secretary determines that there exists exceptional circumstances that warrant such a waiver.
 
 (c) On paying a claim under this section, the Government is subrogated for the amount of the payment to a right or claim that the claimant may have against a foreign country for the damage or loss for which the Government made the payment.
 
@@ -32,7 +32,7 @@
 
 &emsp;(3) no part of the loss was caused by any negligent or wrongful act of the claimant or an agent or employee of the claimant.
 
-(g) A claim may be allowed under this section only if it is presented in writing within 2 years after the claim accrues. However, if a claim under subsection (b) of this section accrues during war or an armed conflict in which an armed force of the United States is involved, or has accrued within 2 years before war or an armed conflict begins, and for cause shown, the claimmust be presented within 2 years after the cause no longer exists or after the war or armed conflict ends, whichever is earlier. An armed conflict begins and ends as stated in a concurrent resolution of Congress or a decision of the President.
+(g) A claim may be allowed under this section only if it is presented in writing within 2 years after the claim accrues. However, if a claim under subsection (b) of this section accrues during war or an armed conflict in which an armed force of the United States is involved, or has accrued within 2 years before war or an armed conflict begins, and for cause shown, the claim must be presented within 2 years after the cause no longer exists or after the war or armed conflict ends, whichever is earlier. An armed conflict begins and ends as stated in a concurrent resolution of Congress or a decision of the President.
 
 (h) The head of the agency—
 
@@ -186,7 +186,7 @@ In subsection (h)(1), the words “the surviving . . . of a dead member, offic
 
 Subsection (h)(2) is substituted for “Claims of survivors shall be settled and paid in the order named” in 31:241(a)(3) and (b)(2) and “Claims of survivors shall be settled and paid in the order set forth in the preceding sentence” in 31:243a(b) for clarity.
 
-In subsection (i), the words “to the contrary” are omitted as surplus. The words “representative of a claimant” are substituted for “agent or attorney” forclarity and consistency. The words “be paid or delivered to or” are omitted as surplus. The word “payment” is substituted for “amount paid in settlement” to eliminate unnecessary words. The words “individual . . . submitted and settled . . . the authority of” are omitted as surplus. The words “and the same shall be unlawful” are omitted because of the restatement. The words “shall be deemed guilty of a misdemeanor and upon conviction thereof . . . in any sum” are omitted as surplus.
+In subsection (i), the words “to the contrary” are omitted as surplus. The words “representative of a claimant” are substituted for “agent or attorney” for clarity and consistency. The words “be paid or delivered to or” are omitted as surplus. The word “payment” is substituted for “amount paid in settlement” to eliminate unnecessary words. The words “individual . . . submitted and settled . . . the authority of” are omitted as surplus. The words “and the same shall be unlawful” are omitted because of the restatement. The words “shall be deemed guilty of a misdemeanor and upon conviction thereof . . . in any sum” are omitted as surplus.
 
 In subsection (j), the words “the purposes of” in 31:241(b)(1)(1st sentence words before 5th comma) are omitted as surplus. The words “(except subsection (b) to the extent that subsection (b) applies to the military departments, the Department of Defense, and the Coast Guard)” are substituted for the source provisions because of the restatement. The words “to carry out this section” after “regulations” are added for clarity.
 
@@ -236,6 +236,10 @@ Section 2 of Pub. L. 100–565 provided that: “The amendments made by this Act
 
 Section 2(g) of Pub. L. 97–452 provided that: “The amendment made by section 1(17) of this Act \[amending this section\] applies only to claims arising after July 27, 1982.”
 
+#### Transfer of Functions
+
+For transfer of authorities, functions, personnel, and assets of the Coast Guard, including the authorities and functions of the Secretary of Transportation relating thereto, to the Department of Homeland Security, and for treatment of related references, see sections 468(b), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
+
 #### Representments of Previously Presented Claims
 
 Section 1088(c) of Pub. L. 104–106 provided that:
@@ -250,7 +254,7 @@ Section 1088(c) of Pub. L. 104–106 provided that:
 
 &emsp;“(D) the total of all amounts paid in settlement of the claim under the authority of such section may not exceed $100,000.
 
-“(2) Subsection (k) of such section shall not apply to bar representment of a claim described in paragraph (1), but shall apply to such a claim that is represented and settled under that section after the date of the enactment of this Act.”
+“(2) Subsection (k) of such section shall not apply to bar representment of a claim described in paragraph\(1), but shall apply to such a claim that is represented and settled under that section after the date of the enactment of this Act.”
 
 #### Section Referred to in Other Sections
 

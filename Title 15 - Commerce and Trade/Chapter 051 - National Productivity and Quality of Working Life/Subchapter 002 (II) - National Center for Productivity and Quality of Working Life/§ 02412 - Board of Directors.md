@@ -34,7 +34,7 @@ The Center shall have a Board of Directors, to be comprised of not more than twe
 
 (1) The members of the Board appointed under clauses (7), (8), (9), (10), (11), and any private sector members appointed pursuant to clause (12) of subsection (a) of this section shall be appointed for a four-year term coterminous with the term of the President. Members other than members appointed under such clauses, with the exception of the Chairman, shall serve as long as such member is head of the department or agency represented on the Board. No person shall serve as an acting or temporary member in positions requiring Senate confirmation including that of Chairman, for a period in excess of three months.
 
-(2) The President shall appoint a Chairman for a term of four years coterminous with the term of the President. In appointing a Chairman, the President may appoint an individual who is an officer of the United States. If that officer has been appointed to his current position, by and with the advice and consent of the Senate, or if such individual is the Vice President of the United States, such individual may be appointed chairman by the President without the requirement of confirmation by the Senate.
+(2) The President shall appoint a Chairman for a term of four years coterminous with the termof the President. In appointing a Chairman, the President may appoint an individual who is an officer of the United States. If that officer has been appointed to his current position, by and with the advice and consent of the Senate, or if such individual is the Vice President of the United States, such individual may be appointed chairman by the President without the requirement of confirmation by the Senate.
 
 #### (c) Vacancies
 
@@ -58,5 +58,5 @@ Any member appointed to fill a vacancy occurring before the expiration of the te
 
 #### References in Other Laws to GS–16, 17, or 18 Pay Rates
 
-References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the GeneralSchedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
+References in laws to the rates of pay for GS–16, 17, or 18, or to maximum rates of pay under the General Schedule, to be considered references to rates payable under specified sections of Title 5, Government Organization and Employees, see section 529 \[title I, §101(c)(1)\] of Pub. L. 101–509, set out in a note under section 5376 of Title 5.
 

@@ -56,7 +56,7 @@
 
 #### (B) Return
 
-&emsp;&emsp;If the student has received more grant or loan assistance than the amount earned ascalculated under paragraph (3)(A), the unearned funds shall be returned by the institution or the student, or both, as may be required under paragraphs (1) and (2) of subsection (b) of this section, to the programs under this subchapter and part C of subchapter I of chapter 34 of title 42 in the order specified in subsection (b)(3) of this section.
+&emsp;&emsp;If the student has received more grant or loan assistance than the amount earned as calculated under paragraph (3)(A), the unearned funds shall be returned by the institution or the student, or both, as may be required under paragraphs (1) and (2) of subsection (b) of this section, to the programs under this subchapter and part C of subchapter I of chapter 34 of title 42 in the order specified in subsection (b)(3) of this section.
 
 #### (b) Return of title IV program funds
 
@@ -170,7 +170,7 @@ Title IV, referred to in subsecs. (a) and (b), means title IV of the Higher Educ
 
 Prior sections 1091b to 1091f were repealed, effective Sept. 30, 1976, by Pub. L. 94–482, title I, §151(a)(2), (b), Oct. 12, 1976, 90 Stat. 2151.
 
-Section 1091b, Pub. L. 89–329, title V, §503, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amended Pub. L. 92–318, title IV, §451(a), June 23, 1972, 86 Stat. 344, authorized the Commissioner to appraise and annually report on existing and future education personnel needs.
+Section 1091b, Pub. L. 89–329, title V, §503, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amendedPub. L. 92–318, title IV, §451(a), June 23, 1972, 86 Stat. 344, authorized the Commissioner to appraise and annually report on existing and future education personnel needs.
 
 Section 1091c, Pub. L. 89–329, title V, §504, as added Pub. L. 90–35, §2(c), June 29, 1967, 81 Stat. 83; amended Pub. L. 90–575, title II, §231(a), Oct. 16, 1968, 82 Stat. 1039; Pub. L. 92–318, title I, §141(a)(1)(B), (c)(1)(B), June 23, 1972, 86 Stat. 284, 285, authorized the Commissioner to make grants or contracts with State or local educational agencies for attracting qualified persons to the field of education.
 

@@ -14,7 +14,7 @@ The Congress finds that—
 
 It is the policy of the United States that—
 
-&emsp;(1) adequate data should be developed with respect to the effect of chemical substances and mixtures on health and the environment and that the development of such data should be the responsibility of those who manufacture and those who process such chemical substances and mixtures;
+&emsp;(1) adequate data should be developed with respect to the effect of chemical substances and mixtures on health and the environmentand that the development of such data should be the responsibility of those who manufacture and those who process such chemical substances and mixtures;
 
 &emsp;(2) adequate authority should exist to regulate chemical substances and mixtures which present an unreasonable risk of injury to health or the environment, and to take action with respect to chemical substances and mixtures which are imminent hazards; and
 
@@ -36,7 +36,7 @@ Pub. L. 102–550, title X, §1021(c), Oct. 28, 1992, 106 Stat. 3924, provided t
 
 #### Short Title of 1986 Amendment
 
-Section 1 of Pub. L. 99–519 provided that: “This Act \[enacting sections 2641 to 2654 of this title and section 4022 of Title 20, Education, amending sections 2614, 2618, and 2619 of this title and sections 4014 and 4021 of Title20, and enacting provisions set out as a note under section 4014 of Title 20\] may be cited as the ‘Asbestos Hazard Emergency Response Act of 1986’.”
+Section 1 of Pub. L. 99–519 provided that: “This Act \[enacting sections 2641 to 2654 of this title and section 4022 of Title 20, Education, amending sections 2614, 2618, and 2619 of this title and sections 4014 and 4021 of Title 20, and enacting provisions set out as a note under section 4014 of Title 20\] may be cited as the ‘Asbestos Hazard Emergency Response Act of 1986’.”
 
 #### Short Title
 

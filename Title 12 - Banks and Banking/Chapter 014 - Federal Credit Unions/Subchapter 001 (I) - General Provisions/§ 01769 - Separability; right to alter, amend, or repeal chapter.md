@@ -4,7 +4,7 @@
 
 (b) The right to alter, amend, or repeal this chapter or any part thereof, or any charter issued pursuant to the provisions of this chapter, is expressly reserved.
 
-(June 26, 1934, ch. 750, title I, §123, formerly §24, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat.637; renumbered title I, §123, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994.)
+(June 26, 1934, ch. 750, title I, §123, formerly §24, as added Pub. L. 86–354, §1, Sept. 22, 1959, 73 Stat. 637; renumbered title I, §123, Pub. L. 91–468, §1(2), Oct. 19, 1970, 84 Stat. 994.)
 
 #### Prior Provisions
 

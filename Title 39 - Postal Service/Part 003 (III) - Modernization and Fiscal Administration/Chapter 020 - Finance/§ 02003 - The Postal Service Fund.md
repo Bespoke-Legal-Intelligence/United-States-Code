@@ -24,7 +24,7 @@
 
 (d) With the approval of the Secretary of the Treasury, the Postal Service may deposit moneys of the Fund in any Federal Reserve bank, any depository for public funds, or in such other places and in such manner as the Postal Service and the Secretary may mutually agree.
 
-(e)(1) The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisions of section 3604 of this title, all of the expenses of the Postal Rate Commission. The Postmaster General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of Department of the Treasury law enforcement organizations (described in section 9703(p) <sup>1</sup> of title31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Postal Service. Neither the Fund nor any of the funds credited to it shall be subject to apportionment under the provisions of subchapter II of chapter 15 of title 31.
+(e)(1) The Fund shall be available for the payment of all expenses incurred by the Postal Service in carrying out its functions as provided by law and, subject to the provisions of section 3604 of this title, all of the expenses of the Postal Rate Commission. The Postmaster General shall transfer from the Fund to the Secretary of the Treasury for deposit in the Department of the Treasury Forfeiture Fund amounts appropriate to reflect the degree of participation of Department of the Treasury law enforcement organizations (described in section 9703(p) <sup>1</sup> of title 31) in the law enforcement effort resulting in the forfeiture pursuant to laws enforced or administered by the Postal Service. Neither the Fund nor any of the funds credited to it shall be subject to apportionment under the provisions of subchapter II of chapter 15 of title 31.
 
 (2) Funds appropriated to the Postal Service under section 2401 of this title shall be apportioned as provided in this paragraph. From the total amounts appropriated to the Postal Service for any fiscal year under the authorizations contained in section 2401 of this title, the Secretary of the Treasury shall make available to the Postal Service 25 percent of such amount at the beginning of each quarter of such fiscal year.
 
@@ -144,7 +144,7 @@ Capital investment programs.—For the purposes of paragraph (1) the term ‘cap
 
 #### Section Referred to in Other Sections
 
-This section is referred to in sections 2001, 3604 of this title; title 18 section 2254; title 21 section 881; title 28 section 524; title 31 sections 3806, 9703; title 40 section 356; title 42 section 10601.
+This section is referred to in sections 2001, 3604 of this title; title 18 section 2254; title 21 section 881; title 28 section 524; title 31 sections 3806, 9703; title 42 section 10601.
 
 <i><sup>1</sup></i><i> See References in Text note below.</i>
 

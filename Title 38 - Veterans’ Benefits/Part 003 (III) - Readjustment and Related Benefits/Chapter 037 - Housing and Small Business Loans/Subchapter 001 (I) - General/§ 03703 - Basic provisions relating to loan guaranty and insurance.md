@@ -1,6 +1,6 @@
 ### §3703. Basic provisions relating to loan guaranty and insurance
 
-(a)(1)(A) Any loan to a veteran eligible for benefits under this chapter, if made for any of thepurposes specified in section 3710 of this title and in compliance with the provisions of this chapter, is automatically guaranteed by the United States in an amount not to exceed the lesser of—
+(a)(1)(A) Any loan to a veteran eligible for benefits under this chapter, if made for any of the purposes specified in section 3710 of this title and in compliance with the provisions of this chapter, is automatically guaranteed by the United States in an amount not to exceed the lesser of—
 
 &emsp;(i)(I) in the case of any loan of not more than $45,000, 50 percent of the loan;
 
@@ -14,7 +14,7 @@
 
 (B) The maximum amount of guaranty entitlement available to a veteran for purposes specified in section 3710 of this title shall be $36,000, or in the case of a loan described in subparagraph (A)(i)(IV) of this paragraph, $60,000, reduced by the amount of entitlement previously used by the veteran under this chapter and not restored as a result of the exclusion in section 3702(b) of this title.
 
-(2)(A) Any housing loan which might be guaranteed under the provisions of this chapter, when made or purchased by any financial institution subject to examination and supervision by any agency of the United States or of any State may, in lieu of such guaranty, be insured by the Secretary under an agreement whereby the Secretary will reimburse any such institution for losses incurred on such loan up to 15 per centum of the aggregate of loans so made or purchased by it.
+(2)(A) Any housing loan which might be guaranteed under the provisions of this chapter, when made or purchased by any financial institution subject to examination and supervision by any agency of the United States or of any State may, in lieu of such guaranty, be insuredby the Secretary under an agreement whereby the Secretary will reimburse any such institution for losses incurred on such loan up to 15 per centum of the aggregate of loans so made or purchased by it.
 
 (B) Loans insured under this section shall be made on such other terms, conditions, and restrictions as the Secretary may prescribe within the limitations set forth in this chapter.
 
@@ -64,25 +64,27 @@
 
 (C) For the purposes of subparagraph (B) of this paragraph, the projected value of the property shall be calculated by the Secretary by increasing the reasonable value of the property as of the time the loan is made at a rate not in excess of 2.5 percent per year, but in no event may the projected value of the property for the purposes of such subparagraph exceed 115 percent of such reasonable value. A loan made for a purpose other than the acquisition of a single-family dwelling unit may not be guaranteed under such subparagraph.
 
-(3) Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner's share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran's realty is located, if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary's determination must have been made prior to the recordation of the covenant.
+(3) Any real estate housing loan (other than for repairs, alterations, or improvements) shall be secured by a first lien on the realty. In determining whether a loan for the purchase or construction of a home is so secured, the Secretary may disregard a superior lien created by a duly recorded covenant running with the realty in favor of a private entity to secure an obligation to such entity for the homeowner's share of the costs of the management, operation, or maintenance of property, services or programs within and for the benefit of the development or community in which the veteran's realty is located,if the Secretary determines that the interests of the veteran borrower and of the Government will not be prejudiced by the operation of such covenant. In respect to any such superior lien to be created after June 6, 1969, the Secretary's determination must have been made prior to the recordation of the covenant.
 
 (e)(1) Except as provided in paragraph (2) of this subsection, an individual who pays a fee under section 3729 of this title, or who is exempted under section 3729(c) of this title from paying such fee, with respect to a housing loan guaranteed or insured under this chapter that is closed after December 31, 1989, shall have no liability to the Secretary with respect to the loan for any loss resulting from any default of such individual except in the case of fraud, misrepresentation, or bad faith by such individual in obtaining the loan or in connection with the loan default.
 
 (2) The exemption from liability provided by paragraph (1) of this subsection shall not apply to—
 
-&emsp;(A) an individual from whom a fee is collected (or who is exempted from such fee) under section 3729(b) of this title; or
+&emsp;(A) an individual from whom a fee is collected (or who is exempted from such fee) under section 3729(b)(2)(I) of this title; or
 
 &emsp;(B) a loan made for any purpose specified in section 3712 of this title.
 
 (f) The application for or obtaining of a loan made, insured, or guaranteed under this chapter shall not be subject to reporting requirements applicable to requests for, or receipts of, Federal contracts, grants, loans, loan guarantees, loan insurance, or cooperative agreements except to the extent that such requirements are provided for in, or by the Secretary pursuant to, this title.
 
-(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993.)
+(Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1205, 1212, §1803; Pub. L. 86–73, §2, June 30, 1959, 73 Stat. 156; Pub. L. 86–665, §1, July 14, 1960, 74 Stat. 531; Pub. L. 87–84, §1(a), July 6, 1961, 75 Stat. 201; Pub. L. 89–358, §5(d), Mar. 3, 1966, 80 Stat. 26; Pub. L. 90–77, title IV, §403(b), Aug. 31, 1967, 81 Stat. 190; Pub. L. 91–22, §4, June 6, 1969, 83 Stat. 32; Pub. L. 91–506, §2(b), (c), Oct. 23, 1970, 84 Stat. 1108; Pub. L. 93–75, July 26, 1973, 87 Stat. 176; Pub. L. 93–569, §§2(c), 8(1)–(5), Dec. 31, 1974, 88 Stat. 1863, 1866; Pub. L. 94–324, §7(6), (16), June 30, 1976, 90 Stat. 721; Pub. L. 95–476, title I, §103, Oct. 18, 1978, 92 Stat. 1498; Pub. L. 96–385, title IV, §401(c)(1), Oct. 7, 1980, 94 Stat. 1533; Pub. L. 97–66, title V, §501(a), Oct. 17, 1981, 95 Stat. 1031; Pub. L. 97–72, title III, §303(c), (e), Nov. 3, 1981, 95 Stat. 1060; Pub. L. 97–295, §4(61), (63), Oct. 12, 1982, 96 Stat. 1309; Pub. L. 97–306, title IV, §406(b), Oct. 14, 1982, 96 Stat. 1444; Pub. L. 98–223, title II, §205(c), Mar. 2, 1984, 98 Stat. 43; Pub. L. 100–198, §3(a)(1), Dec. 21, 1987, 101 Stat. 1315; Pub. L. 100–253, §3(a), Feb. 29, 1988, 102 Stat. 20; Pub. L. 100–322, title IV, §415(a)(3), (c)(2), (d)(1), May 20, 1988, 102 Stat. 550–552; Pub. L. 101–237, title III, §§304(a), 306(a), 313(b)(1), (6), Dec. 18, 1989, 103 Stat. 2073, 2074, 2077; Pub. L. 102–54, §§4(b), 6, June 13, 1991, 105 Stat. 268; renumbered §3703 and amended Pub. L. 102–83, §5(a), (c)(1), Aug. 6, 1991, 105 Stat. 406; Pub. L. 102–547, §10(a), Oct. 28, 1992, 106 Stat. 3643; Pub. L. 103–78, §6, Aug. 13, 1993, 107 Stat. 769; Pub. L. 103–353, §7, Oct. 13, 1994, 108 Stat. 3175; Pub. L. 104–110, title I, §101(d), Feb. 13, 1996, 110 Stat. 768; Pub. L. 105–368, title VI, §602(e)(1)(A), Nov. 11, 1998, 112 Stat. 3346; Pub. L. 107–103, title IV, §401, Dec. 27, 2001, 115 Stat. 993; Pub. L. 107–330, title III, §308(f)(1), Dec. 6, 2002, 116 Stat. 2828.)
 
 #### References in Text
 
 The Servicemen's Readjustment Act of 1944, referred to in subsec. (c)(2), is act June 22, 1944, ch. 268, 58 Stat. 284, as amended, which was classified generally to chapter 11C (§§693 to 697g) of former Title 38, Pensions, Bonuses, and Veterans’ Relief, which was repealed upon the enactment of Title 38, Veterans’ Benefits, by Pub. L. 85–857, Sept. 2, 1958, 72 Stat. 1105. For distribution of sections 693 to 697g of former Title 38 in this title, see Table preceding section 101 of this title.
 
 #### Amendments
+
+2002—Subsec. (e)(2)(A). Pub. L. 107–330 substituted “3729(b)(2)(I)” for “3729(b)”.
 
 2001—Subsec. (a)(1)(A)(i)(IV), (B). Pub. L. 107–103 substituted “$60,000” for “$50,750”.
 
@@ -224,6 +226,10 @@ Subsec. (d)(1). Pub. L. 91–506, §2(c)(2), limited maturity of non-real-estate
 
 1959—Subsec. (c)(1). Pub. L. 86–73 struck out requirement that the interest rate on a Veterans’ Administration guarantee for direct loan be at least one-half of one percent below the prevailing rate on FHA-insured sales housing loans and increased the interest rate ceiling from 43/4 to 51/4 percent.
 
+#### Effective Date of 2002 Amendment
+
+Pub. L. 107–330, title III, §308(f)(2), Dec. 6, 2002, 116 Stat. 2828, provided that: “The amendment made by paragraph (1) \[amending this section\] shall take effect as if included in the enactment of section 402 of the Veterans Benefits and Health Care Improvement Act of 2000 (Public Law 106–419; 114 Stat. 1861).”
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 602(f) of Pub. L. 105–368, set out as a note under section 2106 of this title.
@@ -272,7 +278,7 @@ Amendment by Pub. L. 90–77 effective first day of first calendar month which b
 
 #### Ratification of Actions During Period of Expired Authority
 
-Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended bytitle I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
+Any action taken by Secretary of Veterans Affairs before Feb. 13, 1996, under provision of law amended by title I of Pub. L. 104–110 that was taken during period beginning on date on which authority of Secretary under such provision of law expired and ending on Feb. 13, 1996, considered to have same force and effect as if such amendment had been in effect at time of that action, see section 103 of Pub. L. 104–110, set out as a note under section 1710 of this title.
 
 #### Annual Reports on Guarantee and Insurance of Loans Bearing Negotiated Interest Rates and Points
 
@@ -280,7 +286,7 @@ Section 10(b) of Pub. L. 102–547, as amended by Pub. L. 103–446, title XII, 
 
 #### Expiration of Loan Benefit Entitlement of Certain World War II Veterans
 
-Section 403(c) of Pub. L. 90–77 provided that the World War II loan benefit entitlement of any veteran whose period of entitlement as computed under former subsec. (a)(3)(A) of this section extended beyond July 25, 1967, was not to be deemed to expire earlier than ninety days after the effective date of section 403 of Pub. L. 90–77 \[see section 405(a) of Pub. L. 90–77, set out as an Effective Date of 1967 Amendment note under section 101 of this title\].
+Section 403(c) of Pub. L. 90–77 provided that the World War II loan benefit entitlement of any veteran whose period of entitlement as computed under former subsec. (a)(3)(A) of this section extended beyond July 25, 1967, was not to be deemed to expire earlier than ninety days after the effective date of section 403 of Pub. L. 90–77\[see section 405(a) of Pub. L. 90–77, set out as an Effective Date of 1967 Amendment note under section 101 of this title\].
 
 #### Section Referred to in Other Sections
 

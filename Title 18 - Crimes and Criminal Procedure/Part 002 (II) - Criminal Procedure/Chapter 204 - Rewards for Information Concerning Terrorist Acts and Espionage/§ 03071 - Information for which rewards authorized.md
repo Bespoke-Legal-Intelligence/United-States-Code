@@ -12,7 +12,7 @@
 
 &emsp;(1) leading to the arrest or conviction, in any country, of any individual or individuals for commission of an act of espionage against the United States;
 
-&emsp;(2) leading to the arrest or conviction, in any country, of any individual or individuals for conspiring or attempting to commit an act of espionage against the United States; or
+&emsp;(2) leading to the arrest or conviction, in any country, of any individual or individuals forconspiring or attempting to commit an act of espionage against the United States; or
 
 &emsp;(3) leading to the prevention or frustration of an act of espionage against the United States.
 
@@ -28,25 +28,7 @@ Section 1 of Pub. L. 98–533 provided that: “This Act \[enacting this chapter
 
 #### Attorney General's Authority To Pay Rewards To Combat Terrorism
 
-Pub. L. 107–56, title V, §501, Oct. 26, 2001, 115 Stat. 363, provided that:
-
-“(a)
-
-Payment of Rewards To Combat Terrorism.—Funds available to the Attorney General may be used for the payment of rewards pursuant to public advertisements for assistance to the Department of Justice to combat terrorism and defend the Nation against terrorist acts, in accordance with procedures and regulations established or issued by the Attorney General.
-
-“(b)
-
-Conditions.—In making rewards under this section—
-
-&emsp;“(1) no such reward of $250,000 or more may be made or offered without the personal approval of either the Attorney General or the President;
-
-&emsp;“(2) the Attorney General shall give written notice to the Chairmen and ranking minority members of the Committees on Appropriations and the Judiciary of the Senate and of the House of Representatives not later than 30 days after the approval of a reward under paragraph (1);
-
-&emsp;“(3) any executive agency or military department (as defined, respectively, in sections 105 and 102 of title 5, United States Code) may provide the Attorney General with funds for the payment of rewards;
-
-&emsp;“(4) neither the failure of the Attorney General to authorize a payment nor the amount authorized shall be subject to judicial review; and
-
-&emsp;“(5) no such reward shall be subject to any per- or aggregate reward spending limitation established by law, unless that law expressly refers to this section, and no reward paid pursuant to any such offer shall count toward any such aggregate reward spending limitation.”
+Pub. L. 107–56, title V, §501, Oct. 26, 2001, 115 Stat. 363, which provided that funds available to Attorney General could be used for payment of rewards to combat terrorism and defend Nation against terrorist acts, in accordance with procedures and regulations established or issued by Attorney General, and set forth conditions in making such rewards, was repealed by Pub. L. 107–273, div. A, title III, §301(c)(1), Nov. 2, 2002, 116 Stat. 1781.
 
 #### Section Referred to in Other Sections
 

@@ -10,7 +10,7 @@ For purposes of determining, under subchapters XVIII and XIX of this chapter, th
 
 &emsp;(4) The proceeds from the sale or mortgage of any real estate or other capital asset of such a hospital, which real estate or asset the hospital acquired through gift or grant, if such proceeds are not available for use as operating funds under the terms of the gift or grant.
 
-> Paragraph (4) shall not apply to the recovery of the appropriate share of depreciation when gains or losses are realized from the disposal of depreciable assets.
+> Paragraph (4) shall not apply to the recovery of the appropriate share of depreciation when gainsor losses are realized from the disposal of depreciable assets.
 
 (Aug. 14, 1935, ch. 531, title XI, §1134, as added Pub. L. 96–499, title IX, §901(a), Dec. 5, 1980, 94 Stat. 2611; amended Pub. L. 97–35, title XXI, §2193(c)(6), Aug. 13, 1981, 95 Stat. 827; Pub. L. 97–248, title I, §137(b)(5), Sept. 3, 1982, 96 Stat. 377; Pub. L. 101–239, title VI, §6003(g)(3)(D)(iii), Dec. 19, 1989, 103 Stat. 2153; Pub. L. 105–33, title IV, §4201(c)(1), Aug. 5, 1997, 111 Stat. 373.)
 

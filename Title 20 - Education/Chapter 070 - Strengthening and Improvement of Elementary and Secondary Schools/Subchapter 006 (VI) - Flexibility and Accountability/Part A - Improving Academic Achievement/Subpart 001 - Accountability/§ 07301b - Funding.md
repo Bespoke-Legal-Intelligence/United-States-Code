@@ -24,7 +24,7 @@
 
 &emsp;&emsp;&emsp;(i) $3,000,000; and
 
-&emsp;&emsp;&emsp;(ii) with respect to any amounts remaining after the allocation is made under clause (i), an amount that bears the same relationship to such total remaining amounts as the number of students ages 5 through 17 in the State (as determined bythe Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
+&emsp;&emsp;&emsp;(ii) with respect to any amounts remaining after the allocation is made under clause (i), an amount that bears the same relationship to such total remaining amounts as the number of students ages 5 through 17 in the State (as determined by the Secretary on the basis of the most recent satisfactory data) bears to the total number of such students in all States.
 
 #### (2) Remainder
 

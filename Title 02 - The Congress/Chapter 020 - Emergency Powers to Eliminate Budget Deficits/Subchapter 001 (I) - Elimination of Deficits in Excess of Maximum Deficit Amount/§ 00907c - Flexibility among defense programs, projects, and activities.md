@@ -26,13 +26,13 @@ Within 5 calendar days of session after the President submits a report to Congre
 
 (1) The matter after the resolving clause in any joint resolution introduced pursuant to subsection (d) of this section shall be as follows: “That the report of the President as submitted on \[Insert Date\] under section 258B is hereby approved.”
 
-(2) The title of the joint resolution shall be “Joint resolution approving the report of thePresident submitted under section 258B of the Balanced Budget and Emergency Deficit Control Act of 1985.”
+(2) The title of the joint resolution shall be “Joint resolution approving the report of the President submitted under section 258B of the Balanced Budget and Emergency Deficit Control Act of 1985.”
 
 (3) Such joint resolution shall not contain any preamble.
 
 #### (f) Calendaring and consideration of joint resolution in Senate
 
-(1) A joint resolution introduced in the Senate under subsection (d) of this section shall be referred to the Committee on Appropriations, and if not reported within 5 calendar days (excluding Saturdays, Sundays, and legal holidays) from the date of introduction shall be considered as having been discharged therefrom and shall be placed on the appropriate calendar pending disposition of such joint resolution in accordance with this subsection. In the Senate, no amendment proposed in the Committee on Appropriations shall be in order other than an amendment (in the nature of a substitute) that is germane or relevant to the provisions of the joint resolution or to the order issued under section 904 of this title. For purposes of this paragraph, an amendment shall be considered to be relevant if it relates to function 050 (national defense).
+(1) A joint resolution introduced in the Senate under subsection (d) of this section shall be referred to the Committee on Appropriations, and if not reported within 5 calendar days (excluding Saturdays, Sundays, and legal holidays) from the date of introduction shall be considered as having been discharged therefrom and shall be placed on the appropriate calendar pending disposition of such joint resolution in accordance with this subsection. In the Senate, no amendment proposed in the Committee on Appropriations shall be in order other than an amendment (in the nature of a substitute) that is germane or relevant to the provisions of the joint resolution or to the order issued under section 904 ofthis title. For purposes of this paragraph, an amendment shall be considered to be relevant if it relates to function 050 (national defense).
 
 (2) On or after the third calendar day (excluding Saturdays, Sundays, and legal holidays) beginning after a joint resolution is placed on the Senate calendar, notwithstanding any rule or precedent of the Senate, including Rule XXII of the Standing Rules of the Senate, it is in order (even though a previous motion to the same effect has been disagreed to) for any Member of the Senate to move to proceed to the consideration of the joint resolution. The motion is not in order after the eighth calendar day (excluding Saturdays, Sundays, and legal holidays) beginning after such joint resolution is placed on the appropriate calendar. The motion is not debatable. The joint resolution is privileged in the Senate. A motion to reconsider the vote by which the motion is agreed to or disagreed to shall not be in order. If a motion to proceed to the consideration of the joint resolution is agreed to, the Senate shall immediately proceed to consideration of the joint resolution without intervening motion, order, or other business, and the joint resolution shall remain the unfinished business of the Senate until disposed of.
 
@@ -76,7 +76,7 @@ If, before the passage by the Senate of a joint resolution of the Senate introdu
 
 &emsp;&emsp;(B)(i) the vote on final passage shall be on the joint resolution of the House if it is identical to the joint resolution then pending for passage in the Senate; or
 
-&emsp;&emsp;(ii) if the joint resolution from the House is not identical to the joint resolution then pending for passage in the Senate and the Senate then passes the Senate joint resolution, the Senate shall be considered to have passed the House joint resolution as amended by the text of the Senate joint resolution.
+&emsp;&emsp;(ii) if the joint resolution from the House is not identical to the joint resolution then pending for passage in the Senate and the Senate then passes the Senate joint resolution, the Senate shall be considered to havepassed the House joint resolution as amended by the text of the Senate joint resolution.
 
 &emsp;(3) Upon disposition of the joint resolution received from the House, it shall no longer be in order to consider the joint resolution originated in the Senate.
 

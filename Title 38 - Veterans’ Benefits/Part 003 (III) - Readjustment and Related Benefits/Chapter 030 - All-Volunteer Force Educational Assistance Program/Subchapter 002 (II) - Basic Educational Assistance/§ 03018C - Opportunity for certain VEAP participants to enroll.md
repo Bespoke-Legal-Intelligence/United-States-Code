@@ -10,7 +10,7 @@
 
 &emsp;(4) if discharged or released from active duty after the date on which the individual makes the election described in paragraph (5), is discharged or released therefrom with an honorable discharge; and
 
-&emsp;(5) during the one-year period beginning on October 9, 1996, makes an irrevocable election to receive benefits under this section in lieu of benefits under chapter 32 of this title, pursuant to procedures which the Secretary of each military department shall provide in accordance with regulations prescribed by the Secretary of Defense for the purpose of carrying out this section or which the Secretary of Transportation shall provide for such purpose with respect to the Coast Guard when it is not operating as a service in the Navy;
+&emsp;(5) during the one-year period beginning on October 9, 1996, makes an irrevocable election to receive benefits under this section in lieu of benefits under chapter 32 of this title, pursuant to procedures which the Secretary of each military department shall provide in accordance with regulations prescribed by the Secretary of Defense for the purpose of carrying out this section or which the Secretary of Homeland Security shall provide for such purpose with respect to the Coast Guard when it is not operating as a service in the Navy;
 
 > may elect to become entitled to basic educational assistance under this chapter.
 
@@ -38,7 +38,7 @@
 
 &emsp;(A) The individual was a participant in the educational benefits program under chapter 32 of this title on or before October 9, 1996.
 
-&emsp;(B) The individual has continuously served on active duty since October 9, 1996 (excluding the periods referred to in section 3202(1)(C) of this title), through at least April,<sup>1</sup> 1, 2000.
+&emsp;(B) The individual has continuously served on active duty since October 9, 1996 (excluding the periods referred to in section 3202(1)(C) of this title), through at least April 1, 2000.
 
 &emsp;(C) The individual meets the requirements of subsection (a)(3).
 
@@ -56,7 +56,7 @@
 
 > &emsp;an amount equal to the difference between $2,700 and the total amount of reductions under clause (i), which shall be paid into the Treasury of the United States as miscellaneous receipts.
 
-(B)(i) The Secretary concerned shall provide for an 18-month period, beginning on the date the qualified individual makes an election under paragraph (1), for the qualified individual to pay that Secretary the amount due under subparagraph (A).
+(B)(i) The Secretary concerned shall provide for an 18-month period, beginning on the date the qualified individual makes an election under paragraph (1), for the qualified individual to paythat Secretary the amount due under subparagraph (A).
 
 (ii) Nothing in clause (i) shall be construed as modifying the period of eligibility for and entitlement to basic education assistance under this chapter applicable under section 3031 of this title.
 
@@ -70,13 +70,17 @@
 
 (5) The Secretary, in conjunction with the Secretary of Defense, shall provide for notice to participants in the educational benefits program under chapter 32 of this title of the opportunity under this subsection to elect to become entitled to basic educational assistance under this chapter.
 
-(Added Pub. L. 104–275, title I, §106(a), Oct. 9, 1996, 110 Stat. 3327; amended Pub. L. 105–114, title IV, §401(c), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1601\], Oct. 30, 2000, 114 Stat. 1654, 1654A–357; Pub. L. 106–419, title I, §104(a)–(c)(1), Nov. 1, 2000, 114 Stat. 1827, 1828; Pub. L. 107–14, §7(e)(1), June 5, 2001, 115 Stat. 33.)
+(Added Pub. L. 104–275, title I, §106(a), Oct. 9, 1996, 110 Stat. 3327; amended Pub. L. 105–114, title IV, §401(c), Nov. 21, 1997, 111 Stat. 2293; Pub. L. 105–368, title II, §203(a), Nov. 11, 1998, 112 Stat. 3326; Pub. L. 106–398, §1 \[\[div. A\], title XVI, §1601\], Oct. 30, 2000, 114 Stat. 1654, 1654A–357; Pub. L. 106–419, title I, §104(a)–(c)(1), Nov. 1, 2000, 114 Stat. 1827, 1828; Pub. L. 107–14, §7(e)(1), June 5, 2001, 115 Stat. 33; Pub. L. 107–296, title XVII, §1704(d), Nov. 25, 2002, 116 Stat. 2315; Pub. L. 107–330, title III, §308(g)(9), Dec. 6, 2002, 116 Stat. 2829.)
 
 #### References in Text
 
 The date of the enactment of this subsection, referred to in subsec. (e)(1), is the date of enactment of Pub. L. 106–419, which was approved Nov. 1, 2000.
 
 #### Amendments
+
+2002—Subsec. (a)(5). Pub. L. 107–296 substituted “of Homeland Security” for “of Transportation”.
+
+Subsec. (e)(2)(B). Pub. L. 107–330 struck out comma after “April”.
 
 2001—Subsec. (b). Pub. L. 107–14 struck out “or (e)” after “subsection (a)” in introductory provisions.
 
@@ -98,6 +102,10 @@ Subsec. (a)(4). Pub. L. 105–114, §401(c)(2), substituted “after the date on
 
 Subsec. (a)(5). Pub. L. 105–114, §401(c)(3), substituted “October 9, 1996” for “the date of the enactment of the Veterans’ Benefits Improvements Act of 1996”.
 
+#### Effective Date of 2002 Amendment
+
+Amendment by Pub. L. 107–296 effective on the date of transfer of the Coast Guard to the Department of Homeland Security, see section 1704(g) of Pub. L. 107–296, set out as a note under section 101 of Title 10, Armed Forces.
+
 #### Effective Date of 1998 Amendment
 
 Amendment by Pub. L. 105–368 effective Oct. 1, 1998, see section 203(b) of Pub. L. 105–368, set out as a note under section 3011 of this title.
@@ -109,6 +117,4 @@ Pub. L. 107–14, §7(e)(2), June 5, 2001, 115 Stat. 33, provided that: “Any a
 #### Section Referred to in Other Sections
 
 This section is referred to in sections 3013, 3015, 3017 of this title.
-
-<i><sup>1</sup></i><i> So in original. The comma probably should not appear.</i>
 

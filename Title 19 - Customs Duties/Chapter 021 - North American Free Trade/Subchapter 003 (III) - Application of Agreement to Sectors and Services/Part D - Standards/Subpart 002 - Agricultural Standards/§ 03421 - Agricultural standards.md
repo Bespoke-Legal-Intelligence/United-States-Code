@@ -78,7 +78,7 @@
 
 &emsp;&emsp;(E) the incidence of violations of inspection requirements of imports to the United States from Mexico or Canada prior to the implementation of the Agreement;
 
-&emsp;&emsp;(F) any additional cost associated with maintaining an adequate inspection system of imports as a result of the implementation of the Agreement;
+&emsp;&emsp;(F) any additional cost associated with maintaining an adequate inspection systemof imports as a result of the implementation of the Agreement;
 
 &emsp;&emsp;(G) any incidence of transshipment of imports—
 
@@ -111,6 +111,10 @@
 #### Codification
 
 Section is comprised of section 361 of Pub. L. 103–182. Subsecs. (a) to (f) of section 361 of Pub. L. 103–182 are classified as follows: subsec. (a) amended section 1582 of Title 7, Agriculture; subsec. (b) amended section 104 of Title 21, Food and Drugs; subsec. (c) amended section 105 of Title 21; subsec. (d) amended section 1306 of this title and section 281 of Title 7; subsec. (e) amended section 466 of Title 21; and subsec. (f) amended section 620 of Title 21.
+
+#### Transfer of Functions
+
+For transfer of functions, personnel, assets, and liabilities of the United States Customs Service of the Department of the Treasury, including functions of the Secretary of the Treasury relating thereto, to the Secretary of Homeland Security, and for treatment of related references, see sections 203(1), 551(d), 552(d), and 557 of Title 6, Domestic Security, and the Department of Homeland Security Reorganization Plan of November 25, 2002, as modified, set out as a note under section 542 of Title 6.
 
 #### North American Free Trade Agreement: Entry Into Force
 

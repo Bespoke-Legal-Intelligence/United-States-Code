@@ -17,7 +17,12 @@
 | :--- | ---: |
 | [711\.](Subchapter%20002%20%28II%29%20-%20General%20Duties%20and%20Powers/%C2%A7%2000711%20-%20General%20authority.md) | General authority. |
 | [712\.](Subchapter%20002%20%28II%29%20-%20General%20Duties%20and%20Powers/%C2%A7%2000712%20-%20Investigating%20the%20use%20of%20public%20money.md) | Investigating the use of public money. |
-| [713\.](Subchapter%20002%20%28II%29%20-%20General%20Duties%20and%20Powers/%C2%A7%2000713%20-%20Audit%20of%20Internal%20Revenue%20Service%20and%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20and%20Firearms.md) | Audit of Internal Revenue Service and Bureau of Alcohol, Tobacco, and Firearms. |
+| [713\.](Subchapter%20002%20%28II%29%20-%20General%20Duties%20and%20Powers/%C2%A7%2000713%20-%20Audit%20of%20Internal%20Revenue%20Service%2C%20Tax%20and%20Trade%20Bureau%2C%20and%20Bureau%20of%20Alcohol%2C%20Tobacco%2C%20Firearms%2C%20and%20Explosives.md) | Audit of Internal Revenue Service and Bureau of Alcohol, Tobacco, and Firearms.<sup>1</sup> |
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+|  |  |
+| :--- | ---: |
 | [714\.](Subchapter%20002%20%28II%29%20-%20General%20Duties%20and%20Powers/%C2%A7%2000714%20-%20Audit%20of%20Financial%20Institutions%20Examination%20Council%2C%20Federal%20Reserve%20Board%2C%20Federal%20reserve%20banks%2C%20Federal%20Deposit%20Insurance%20Corporation%E2%80%A6.md) | Audit of Financial Institutions Examination Council, Federal Reserve Board, Federal reserve banks, Federal Deposit Insurance Corporation, and Office of Comptroller of the Currency. |
 | [715\.](Subchapter%20002%20%28II%29%20-%20General%20Duties%20and%20Powers/%C2%A7%2000715%20-%20Audit%20of%20accounts%20and%20operations%20of%20the%20District%20of%20Columbia%20government.md) | Audit of accounts and operations of the District of Columbia government. |
 | [716\.](Subchapter%20002%20%28II%29%20-%20General%20Duties%20and%20Powers/%C2%A7%2000716%20-%20Availability%20of%20information%20and%20inspection%20of%20records.md) | Availability of information and inspection of records. |

@@ -10,13 +10,25 @@ The Congress finds that—
 
 &emsp;(3) these practices undermine market mechanisms that would otherwise result in export purchase decisions made on the basis of price, quality, delivery, and other factors directly related to the export, where official financing is not subsidized and would be a neutral factor in the transaction;
 
-&emsp;(4) support of commercial exports by donor countries with tied aid and partially untied aid credits impedes the growth of developing countries because it diverts development assistance funds from essential developmental purposes; and
+&emsp;(4) support of commercial exports by donor countries with tied aid and partially untied aid credits impedes the growth of developing countries because it diverts development assistance funds from essential developmental purposes;
 
-&emsp;(5) there should be established in the Bank a tied aid program to target the export markets of those countries which make extensive use of tied aid or partially untied aid credits for commercial advantage for the purposes of—
+&emsp;(5) the Bank has, at a minimum, the following two tasks—
+
+&emsp;&emsp;(A)(i) first, the Bank should match foreign export credit agencies and aid agencies when they engage in tied aid outside the confines of the Arrangement and when they exploit loopholes, such as untied aid;
+
+&emsp;&emsp;(ii) such matching is needed to provide the United States with leverage in efforts at the OECD to reduce the overall level of export subsidies;
+
+&emsp;&emsp;(iii) only through matching foreign export credit offers can the Bank buttress United States negotiators in their efforts to bring these loopholes within the disciplines of the Arrangement; and
+
+&emsp;&emsp;(iv) in order to bring untied aid within the discipline of the Arrangement, the Bank should consider initiating highly competitive financial support when the Bank learns that foreign untied aid offers will be made; and
+
+&emsp;&emsp;(B) second, the Bank should support United States exporters when the exporters face foreign competition that is consistent with the Arrangement and the Subsidies Code of the World Trade Organization, but which places United States exporters at a competitive disadvantage; and
+
+&emsp;(6) there should be established in the Bank a tied aid program to target the export markets of those countries which make extensive use of tied aid or partially untied aid credits, or untied aid used to promote exports as if it were tied aid, for commercial advantage for the purposes of—
 
 &emsp;&emsp;(A) enforcing compliance with the existing Arrangement restricting the use of tied aid and partially untied aid credits for commercial purposes; and
 
-&emsp;&emsp;(B) facilitating efforts to negotiate, establish, and enforce new or revised comprehensive international arrangements effectively restricting the use of tied aid and partially untied aid credits for commercial purposes;
+&emsp;&emsp;(B) facilitating efforts to negotiate, establish, and enforce new or revised comprehensive international arrangements effectivelyrestricting the use of tied aid and partially untied aid credits, or untied aid used to promote exports as if it were tied aid, for commercial purposes;
 
 > &emsp;and such program should be used aggressively for such purposes.
 
@@ -44,7 +56,7 @@ The Congress finds that—
 
 &emsp;The tied aid credit program shall be administered by the Bank—
 
-&emsp;&emsp;(A) in consultation with the Secretary and in accordance with the Secretary's recommendations on how such credits could be used most effectively and efficiently to carry out the purposes described in subsection (a)(5) of this section;
+&emsp;&emsp;(A) in consultation with the Secretary and in accordance with the principles, process, and standards developed pursuant to paragraph (5) of this subsection and the purposes described in subsection (a)(5) of this section;
 
 &emsp;&emsp;(B) in cooperation with United States exporters and private financial institutions or entities, and in consultation with other Federal agencies, as appropriate; and
 
@@ -65,6 +77,58 @@ The Congress finds that—
 #### (4) Information on countries which engage in official predatory export financing and impede negotiations
 
 &emsp;In order to assist the Bank to make the most efficient use of funds available for supplemental financing under paragraph (1)(B), the United States Trade Representative and the Secretary of Commerce may provide information on principal sectors and key markets of countries described in paragraph (1)(B) to the Bank, the Secretary, and the National Advisory Council on International Monetary and Financial Policies. The Bank shall also request and take into consideration the views of the private sector on principal sectors and key markets of countries described in paragraph (1)(B).
+
+#### (5) Principles, process, and standards governing use of the Fund
+
+#### (A) In general
+
+&emsp;&emsp;The Secretary and the Bank jointly shall develop a process for, and the principles and standards to be used in, determining how the amounts in the Tied Aid Credit Fund could be used most effectively and efficiently to carry out the purposes of subsection (a)(6) of this section.
+
+#### (B) Content of principles, process, and standards
+
+#### (i) Consideration of certain principles and standards
+
+&emsp;&emsp;&emsp;In developing the principles and standards referred to in subparagraph (A), the Secretary and the Bank shall consider administering the Tied Aid Credit Fund in accordance with the following principles and standards:
+
+&emsp;&emsp;&emsp;&emsp;(I) The Tied Aid Credit Fund should be used to leverage multilateral negotiations to restrict the scope for aid-financed trade distortions through new multilateral rules, and to police existing rules.
+
+&emsp;&emsp;&emsp;&emsp;(II) The Tied Aid Credit Fund will be used to counter a foreign tied aid credit confronted by a United States exporter when bidding for a capital project.
+
+&emsp;&emsp;&emsp;&emsp;(III) Credible information about an offer of foreign tied aid will be required before the Tied Aid Credit Fund is used to offer specific terms to match such an offer.
+
+&emsp;&emsp;&emsp;&emsp;(IV) The Tied Aid Credit Fund will be used to enable a competitive United States exporter to pursue further market opportunities on commercial terms made possible by the use of the Fund.
+
+&emsp;&emsp;&emsp;&emsp;(V) Each use of the Tied Aid Credit Fund will be in accordance with the Arrangement unless a breach of the Arrangement has been committed by a foreign export credit agency.
+
+&emsp;&emsp;&emsp;&emsp;(VI) The Tied Aid Credit Fund may only be used to defend potential sales by United States companies to a project that is environmentally sound.
+
+&emsp;&emsp;&emsp;&emsp;(VII) The Tied Aid Credit Fund may be used to preemptively counter potential foreign tied aid offers without triggering foreign tied aid use.
+
+#### (ii) Conclusion
+
+&emsp;&emsp;&emsp;Once the principles, process and standards referred to in subparagraph (A) are followed, the final case-by-case decisions on the use of the Tied Aid Credit Fund shall be made by the Bank: <i>Provided however</i>, That the Bank shall not approve the extension of a proposed tied aid credit if the President of the United States determines, after consulting with the President of the Bank and the Secretary of the Treasury, that the extension of the tied aid credit would materially impede achieving the purposes described in subsection (a)(6) of this section.
+
+#### (C) Initial principles, process, and standards
+
+&emsp;&emsp;As soon as is practicable but not later than 6 months after June 14, 2002, the Secretary and the Bank shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a copy of the principles, process, and standards developed pursuant to subparagraph (A).
+
+#### (D) Transitional principles and standards
+
+&emsp;&emsp;The principles and standards set forth in subparagraph (B)(i) shall govern the use of the Tied Aid Credit Fund until the principles, process, and standards required by subparagraph (C) are submitted.
+
+#### (E) Update and revision
+
+&emsp;&emsp;The Secretary and the Bank jointly should update and revise, as needed, the principles, process, and standards developed pursuant to subparagraph (A), and, on doing so, shall submit to the Committee on Financial Services of the House of Representatives and the Committee on Banking, Housing, and Urban Affairs of the Senate a copy of the principles, process, and standards so updated and revised.
+
+#### (6) Reconsideration of decisions
+
+#### (A) In general
+
+&emsp;&emsp;Taking into consideration the time sensitivity of transactions, the Board of Directors of the Bank shall expeditiously pursuant to paragraph (2) reconsider a decision of the Board to deny an application for the use of the Tied Aid Credit Fund if the applicant submits the request for reconsideration within 3 months of the denial.
+
+#### (B) Procedural rules
+
+&emsp;&emsp;In any such reconsideration, the applicant may be required to provide new information on the application.
 
 #### (c) Tied Aid Credit Fund
 
@@ -92,7 +156,7 @@ No action taken under this section shall be reviewable by any court, except for 
 
 #### (1) In general
 
-&emsp;The Bank, in consultation with the Secretary, shall submit an annual report on tied aid credits to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Banking, Finance and Urban Affairs of the House of Representatives.
+&emsp;The Bank, in consultation with the Secretary, shall submit an annual report on tied aid credits to the Committee on Banking, Housing, and Urban Affairs of the Senate and the Committee on Financial Services of the House of Representatives.
 
 #### (2) Contents of reports
 
@@ -156,13 +220,35 @@ For purposes of this section, the following definitions shall apply:
 
 &emsp;&emsp;(B) financing offers extended for subloans under lines of credit referred to in subparagraph (A) made on or before August 15, 1992, or, in the case of Mexico, on or before December 31, 1992.
 
-(July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, §1103(d)(2), Dec. 27, 2000, 114 Stat. 3031.)
+#### (7) Market window
+
+&emsp;The Bank, in consultation with the Secretary of the Treasury, shall define “market window” for purposes of this section.
+
+(July 31, 1945, ch. 341, §10, formerly §15, as added Pub. L. 99–472, §19, Oct. 15, 1986, 100 Stat. 1205; amended Pub. L. 100–217, Dec. 29, 1987, 101 Stat. 1454; Pub. L. 100–418, title III, §3302(b), Aug. 23, 1988, 102 Stat. 1383; Pub. L. 101–240, title I, §101(b), Dec. 19, 1989, 103 Stat. 2493; Pub. L. 101–513, title V, §562(d), Nov. 5, 1990, 104 Stat. 2036; renumbered §10 and amended Pub. L. 102–429, title I, §§103, 121(c)(4), Oct. 21, 1992, 106 Stat. 2187, 2199; Pub. L. 104–97, §1, Jan. 11, 1996, 109 Stat. 984; Pub. L. 104–107, title V, §579, Feb. 12, 1996, 110 Stat. 751; Pub. L. 105–121, §3, Nov. 26, 1997, 111 Stat. 2528; Pub. L. 106–569, title XI, §1103(d)(2), Dec. 27, 2000, 114 Stat. 3031; Pub. L. 107–189, §§9, 10(c), (d), 24(a)(2)(E), June 14, 2002, 116 Stat. 701, 703, 704, 708.)
 
 #### Prior Provisions
 
 A prior section 10 of act July 31, 1945, ch. 341, repealed section 713b of Title 15, Commerce and Trade.
 
 #### Amendments
+
+2002—Subsec. (a)(4). Pub. L. 107–189, §10(c)(1), struck out “and” at end.
+
+Subsec. (a)(5). Pub. L. 107–189, §10(c)(3), added par. (5). Former par. (5) redesignated (6).
+
+Pub. L. 107–189, §10(c)(2), inserted “, or untied aid used to promote exports as if it were tied aid,” before “for commercial” in introductory provisions and in subpar. (B).
+
+Subsec. (a)(6). Pub. L. 107–189, §10(c)(3), redesignated par. (5) as (6).
+
+Subsec. (b)(2)(A). Pub. L. 107–189, §9(a)(1), added subpar. (A) and struck out former subpar. (A) which read as follows: “in consultation with the Secretary and in accordance with the Secretary's recommendations on how such credits could be used most effectively and efficiently to carry out the purposes described in subsection (a)(5) of this section;”.
+
+Subsec. (b)(5). Pub. L. 107–189, §9(a)(2), added par. (5).
+
+Subsec. (b)(6). Pub. L. 107–189, §9(b), added par. (6).
+
+Subsec. (g)(1). Pub. L. 107–189, §24(a)(2)(E), substituted “Committee on Financial Services of the House of Representatives” for “Committee on Banking, Finance and Urban Affairs of the House of Representatives”.
+
+Subsec. (h)(7). Pub. L. 107–189, §10(d), added par. (7).
 
 2000—Subsec. (g)(1). Pub. L. 106–569 substituted “The Bank” for “On or before October 15, 1992, and every 6 months thereafter, the Bank” and “submit an annual report” for “submit a report”.
 
@@ -235,10 +321,6 @@ Subsec. (g)(2)(E). Pub. L. 101–240, §101(b)(6), amended subpar. (E) generally
 1988—Subsecs. (c)(2), (e)(1). Pub. L. 100–418 substituted “1988, and 1989” for “and 1988”.
 
 1987—Subsec. (c)(2). Pub. L. 100–217 substituted “during fiscal years 1986, 1987, and 1988” for “during fiscal year 1986”.
-
-#### Change of Name
-
-Committee on Banking, Finance and Urban Affairs of House of Representatives treated as referring to Committee on Banking and Financial Services of House of Representatives by section 1(a) of Pub. L. 104–14, set out as a note preceding section 21 of Title 2, The Congress. Committee on Banking and Financial Services of House of Representatives abolished and replaced by Committee on Financial Services of House of Representatives, and jurisdiction over matters relating to securities and exchanges and insurance generally transferred from Committee on Energy and Commerce of House of Representatives by House Resolution No. 5, One Hundred Seventh Congress, Jan. 3, 2001.
 
 #### Use of Fund To Discourage Predatory Financing Practices
 

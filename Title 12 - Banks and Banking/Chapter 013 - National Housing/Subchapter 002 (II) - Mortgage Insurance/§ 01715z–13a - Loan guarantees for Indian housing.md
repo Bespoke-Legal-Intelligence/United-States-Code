@@ -112,7 +112,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (ii) No foreclosure
 
-&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of the guarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
+&emsp;&emsp;&emsp;Without seeking foreclosure (or in any case in which a foreclosure proceeding initiated under clause (i) continues for a period in excess of 1 year), the holder of theguarantee may submit to the Secretary a request to assign the obligation and security interest to the Secretary in return for payment of the claim under the guarantee. The Secretary may accept assignment of the loan if the Secretary determines that the assignment is in the best interests of the United States. Upon assignment, the Secretary shall pay to the holder of the guarantee the pro rata portion of the amount guaranteed (as determined under subsection (e) of this section). The Secretary shall be subrogated to the rights of the holder of the guarantee and the holder shall assign the obligation and security to the Secretary.
 
 #### (B) Requirements
 
@@ -170,7 +170,7 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (C) Limitation on outstanding aggregate principal amount
 
-&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each fiscal year with an aggregate outstanding principal amount not exceeding such amount as may be provided in appropriation Acts for such fiscal year.
+&emsp;&emsp;Subject to the limitations in subparagraphs (A) and (B), the Secretary may enter into commitments to guarantee loans under this section in each of fiscal years 1997 through 2007 with an aggregate outstanding principal amount not exceeding such amount as may be provided in appropriation Acts for such fiscal year.
 
 #### (6) Liabilities
 
@@ -178,11 +178,11 @@ Notwithstanding any other provision of law, any loan guaranteed under this secti
 
 #### (7) Authorization of appropriations
 
-&emsp;There are authorized to be appropriated to the Guarantee Fund to carry out this section such sums as may be necessary for each fiscal year.
+&emsp;There are authorized to be appropriated to the Guarantee Fund to carry out this section such sums as may be necessary for each of fiscal years 1997 through 2007.
 
 #### (j) Requirements for standard housing
 
-The Secretary shall, by regulation, establish housing safety and quality standards for use under this section. Such standards shall provide sufficient flexibility to permit the use of various designs and materials in housing acquired with loans guaranteed under this section. The standards shall require each dwelling unit in any housing so acquired to—
+The Secretary shall, by regulation, establish housing safety and quality standards for useunder this section. Such standards shall provide sufficient flexibility to permit the use of various designs and materials in housing acquired with loans guaranteed under this section. The standards shall require each dwelling unit in any housing so acquired to—
 
 &emsp;(1) be decent, safe, sanitary, and modest in size and design;
 
@@ -268,7 +268,7 @@ Tribe; indian tribe.—The term “tribe” or “Indian tribe” means any Indi
 
 &emsp;(9) The term “trust land” means land title to which is held by the United States for the benefit of an Indian or Indian tribe or title to which is held by an Indian tribe subject to a restriction against alienation imposed by the United States.
 
-(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat. 2658; Pub. L. 106–377, §1(a)(1) \[title II, §227\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 106–568, title X, §1002, Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §502, Dec. 27, 2000, 114 Stat. 2961.)
+(Pub. L. 102–550, title I, §184, Oct. 28, 1992, 106 Stat. 3739; Pub. L. 104–330, title VII, §701(a)–(j), Oct. 26, 1996, 110 Stat. 4048–4050; Pub. L. 105–276, title V, §595(e)(11)–(13), Oct. 21, 1998, 112 Stat.2658; Pub. L. 106–377, §1(a)(1) \[title II, §227\], Oct. 27, 2000, 114 Stat. 1441, 1441A–30; Pub. L. 106–568, title X, §1002, Dec. 27, 2000, 114 Stat. 2925; Pub. L. 106–569, title V, §502, Dec. 27, 2000, 114 Stat. 2961; Pub. L. 107–292, §2(d), Nov. 13, 2002, 116 Stat. 2053.)
 
 #### References in Text
 
@@ -276,7 +276,7 @@ The National Housing Act, referred to in subsec. (b)(4)(A), is act June 27, 1934
 
 The Housing Act of 1949, referred to in subsec. (b)(4)(C), is act July 15, 1949, ch. 338, 63 Stat. 413, as amended, which is classified principally to chapter 8A (§1441 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 1441 of Title 42 and Tables.
 
-The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act tothe Code, see Short Title note set out under section 4321 of Title 42 and Tables.
+The National Environmental Policy Act of 1969, referred to in subsec. (k), is Pub. L. 91–190, Jan. 1, 1970, 83 Stat. 852, as amended, which is classified generally to chapter 55 (§4321 et seq.) of Title 42, The Public Health and Welfare. For complete classification of this Act to the Code, see Short Title note set out under section 4321 of Title 42 and Tables.
 
 The Native American Housing Assistance and Self-Determination Act of 1996, referred to in subsecs. (k)(1) and (<i>l</i>)(5), is Pub. L. 104–330, Oct. 26, 1996, 110 Stat. 4016, as amended, which is classified principally to chapter 43 (§4101 et seq.) of Title 25, Indians. For complete classification of this Act to the Code, see Short Title note set out under section 4101 of Title 25 and Tables.
 
@@ -289,6 +289,8 @@ The Indian Self-Determination and Education Assistance Act of 1975, referred to 
 Section was enacted as part of the Housing and Community Development Act of 1992, and not as part of the National Housing Act which comprises this chapter.
 
 #### Amendments
+
+2002—Subsec. (i)(5)(C), (7). Pub. L. 107–292 substituted “each of fiscal years 1997 through 2007” for “each fiscal year”.
 
 2000—Subsec. (a). Pub. L. 106–377, §1(a)(1) \[title II, §227(1)\], struck out “or as a result of a lack of access to private financial markets” after “legal status of Indian lands”.
 
@@ -334,7 +336,7 @@ Subsec. (k)(8). Pub. L. 104–330, §701(h)(3), added par. (8) and struck out fo
 
 #### Effective Date of 1998 Amendment
 
-Pub. L. 105–276, title V, §595(f), Oct. 21, 1998, 112 Stat. 2659, provided that: “The amendments made by thissection \[enacting section 4168 of Title 25, Indians, amending this section, sections 4103, 4111 to 4113, 4131, 4135 to 4139 of Title 25, and sections 1437e and 12899h–1 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437 of Title 42\] are made and shall apply beginning upon the date of the enactment of this Act \[Oct. 21, 1998\].”
+Pub. L. 105–276, title V, §595(f), Oct. 21, 1998, 112 Stat. 2659, provided that: “The amendments made by this section \[enacting section 4168 of Title 25, Indians, amending this section, sections 4103, 4111 to 4113, 4131, 4135 to 4139 of Title 25, and sections 1437e and 12899h–1 of Title 42, The Public Health and Welfare, and repealing provisions set out as a note under section 1437 of Title 42\] are made and shall apply beginning upon the date of the enactment of this Act \[Oct. 21, 1998\].”
 
 #### Section Referred to in Other Sections
 

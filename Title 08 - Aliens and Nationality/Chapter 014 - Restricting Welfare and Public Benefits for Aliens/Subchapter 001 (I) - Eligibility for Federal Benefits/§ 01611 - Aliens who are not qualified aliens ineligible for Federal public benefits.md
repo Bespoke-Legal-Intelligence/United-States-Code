@@ -18,7 +18,7 @@ Notwithstanding any other provision of law and except as provided in subsection 
 
 &emsp;(E) Programs for housing or community development assistance or financial assistance administered by the Secretary of Housing and Urban Development, any program under title V of the Housing Act of 1949 \[42 U.S.C. 1471 et seq.\], or any assistance under section 1926c of title 7, to the extent that the alien is receiving such a benefit on August 22, 1996.
 
-(2) Subsection (a) of this section shall not apply to any benefit payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] to an alien who is lawfully present in the United States as determined by the Attorney General, to any benefit if nonpayment of such benefit would contravene an international agreement described in section 233 of the Social Security Act \[42 U.S.C. 433\], to any benefit if nonpayment would be contrary to section 202(t) of the Social Security Act \[42 U.S.C. 402(t)\], or to any benefit payable under title II of the Social Security Act to which entitlement is based on an application filed in or before August 1996.
+(2) Subsection (a) of this section shall not apply to any benefit payable under title II of the Social Security Act \[42 U.S.C. 401 et seq.\] to an alien who is lawfully present in the United States as determined by the Attorney General, to any benefit if nonpayment of such benefit would contravene an international agreement described in section 233 of the Social Security Act \[42 U.S.C. 433\], to any benefit if nonpayment would be contrary to section 202(t) of the Social Security Act \[42 U.S.C. 402(t)\], or to any benefit payable under title II of the Social Security Actto which entitlement is based on an application filed in or before August 1996.
 
 (3) Subsection (a) of this section shall not apply to any benefit payable under title XVIII of the Social Security Act \[42 U.S.C. 1395 et seq.\] (relating to the medicare program) to an alien who is lawfully present in the United States as determined by the Attorney General and, with respect to benefits payable under part A of such title \[42 U.S.C. 1395c et seq.\], who was authorized to be employed with respect to any wages attributable to employment which are counted for purposes of eligibility for such benefits.
 
@@ -75,6 +75,10 @@ Subsec. (c)(2)(A). Pub. L. 105–33, §5565, inserted before semicolon “, or 
 #### Effective Date of 1997 Amendment
 
 Amendment by Pub. L. 105–33 effective as if included in the enactment of title IV of the Personal Responsibility and Work Opportunity Reconciliation Act of 1996, Pub. L. 104–193, see section 5582 of Pub. L. 105–33, set out as a note under section 1367 of this title.
+
+#### Abolition of Immigration and Naturalization Service and Transfer of Functions
+
+For abolition of Immigration and Naturalization Service, transfer of functions, and treatment of related references, see note set out under section 1551 of this title.
 
 #### Additional Funding for State Emergency Health Services Furnished to Undocumented Aliens
 
